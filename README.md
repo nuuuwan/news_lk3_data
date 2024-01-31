@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 15:02:29**
+As of **2024-01-31 15:17:17**
 
 ## Newspaper Stats
 
-*Scraped **3,797** Articles*
+*Scraped **3,801** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,49 +16,125 @@ islandlk | 208
 newsfirstlk | 229
 dailyftlk | 243
 adalk | 340
-virakesarilk | 427
-adaderanasinhalalk | 429
+virakesarilk | 429
+adaderanasinhalalk | 430
 adaderanalk | 480
-tamilmirrorlk | 487
+tamilmirrorlk | 488
 dailymirrorlk | 514
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,780 (99.6%) of 3,797 articles have been extended.
+3,797 (99.9%) of 3,801 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### அதிவேக நெடுஞ்சாலையில் இனி பறக்க முடியாது!
+### සනත් නිශාන්තගේ නඩුවට අධිකරණය අද දුන් නියෝගය මෙන්න
+
+*2024-01-31 14:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192788) · `si`
+
+අධිකරණයට අපහාස කළේ යැයි චෝදනා කරමින් හිටපු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාට එරෙහිව ගොනුකර තිබෙන පෙත්සම් පෙබරවාරි මස 02 වනදා කැඳවන ලෙස අභියාචනාධිකරණය අද (31) නියෝග කර තිබේ.
+
+මෙම පෙත්සම් අද සෝභිත රාජකරුණා සහ ධම්මික ගනේපොල යන මහත්වරුන්ගේ සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී වගඋත්තරකාර සනත් නිශාන්ත මහතා මේ වන විට මියගොස් සිටින බැවින් අධිකරණයට අපහාස කිරීමේ පෙත්සම් සම්බන්ධයෙන් ගනු ලබන ක්‍රියාමාර්ගය තීරණය කිරීම සඳහා ඒවා ලබන 02 වනදා කැඳවන ලෙස අධිකරණය මෙලෙස නියෝග කළේය.
+
+ශ්‍රී ලංකා අධිකරණ නිලධාරීන්ගේ සංගමය සහ නීතිඥවරුන් දෙදෙනෙකු වන ප්‍රියලාල් සිරිසේන සහ විජිත කුමාර යන අය විසින් මෙම පෙත්සම් ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/8882f938.json)
+
+---
+
+### அணிவகுப்பில் இருந்து  வெளியேறிய பொலிஸார்?
+
+*2024-01-31 14:45:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அணிவகுப்பில்-இருந்து-வெளியேறிய-பொலிஸார்/175-332415) · `ta`
+
+சுதந்திர தின நிகழ்வுக்கான ஒத்திகையில் இருந்து பொலிஸாரும் பொலிஸ் விசேட அதிரடிப்படையினரையும் இன்று(31) திடீரென விலக்கிக்கொள்ள நடவடிக்கை எடுக்கப்பட்டதாக  தகவல் வெளியாகியுள்ளது.
+
+இன்று காலை இடம்பெற்ற இறுதிப் பயிற்சியில் இருந்து பொலிஸ் மற்றும் பொலிஸ் விசேட அதிரடிப்படை அணிகள் இருவரும் விலகியுள்ளதாகவும், பொலிஸ் குதிரைப்படை அணியினரை அணிவகுப்பில் இருந்து வெளியேற்றிய சம்பவமே இதற்கு வழிவகுத்துள்ளதாகவும் கூறப்படுகின்றது.
+
+எவ்வாறாயினும், பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் மற்றும் பதில் பொலிஸ் மா அதிபர் தேசபந்து தேன்கோன் ஆகியோரிடம் இது தொடர்பில் எழுப்பப்பட்ட போது, அவ்வாறான எந்த முடிவும் எடுக்கப்படவில்லை என்று கூறியுள்ளனர்.
+
+◼️
+
+[Data](articles/fdd2f807.json)
+
+---
+
+### ஐக்கிய நாடுகள் சபையின் உணவு மற்றும் விவசாய அமைப்பின் பிரதிநிதிகள் குழு நாட்டிற்கு வருகை
+
+*2024-01-31 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175232) · `ta`
+
+ஐக்கிய நாடுகள் சபையின் உணவு மற்றும் விவசாய அமைப்பின் பிராந்திய அலுவலகத்தின் பிரதிநிதிகள் குழுவொன்று நாட்டிற்கு வருகைதந்துள்ளது.
+
+நாட்டில் நடைபெறவுள்ள  ஆசிய பசுபிக் பிராந்திய மாநாட்டின் (APRC) 37 ஆவது அமர்வின்  முன்னாயத்த  நடவடிக்கைகளை மேற்பார்வையிடுவதற்காக  குறித்த குழு வருகைதந்துள்ளது.
+
+குறித்த மாநாடு பெப்ரவரி 19 ஆம் திகதி முதல் 22 ஆம் திகதி வரை கொழும்பில் நடைபெறவுள்ளதாக விவசாய அமைச்சு தெரிவித்துள்ளது.
+
+ஐக்கிய நாடுகள் சபையின் உணவு மற்றும் விவசாய அமைப்பின் பிராந்திய அலுவலகத்தின் பிரதிநிதிகள் விவசாய அமைச்சர் மஹிந்த அமரவீரவை சந்தித்து கலந்துரையாடியுள்ளதாக அமைச்சு தெரிவித்துள்ளது.
+
+ஆசிய பசிபிக் பிராந்தியத்தில் உள்ள 46 உறுப்பு நாடுகளைச் சேர்ந்த விவசாய அமைச்சர்கள் மற்றும் உயர்மட்ட அதிகாரிகளுக்கு உணவு மற்றும் விவசாயம் தொடர்பான சவால்கள் மற்றும் முன்னுரிமைகள் குறித்து விவாதிப்பதும் பிராந்திய ஒருங்கிணைப்பை ஊக்குவிப்பதுமே ஆசிய பசிபிக் பிராந்திய மாநாட்டின் பிரதான நோக்கமாகும்.
+
+...
+
+[Data](articles/46e022b9.json)
+
+---
+
+### Can't fly on the highway anymore!
 
 *2024-01-31 14:35:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலையில்-இனி-பறக்க-முடியாது/175-332414) · `ta`
 
-அதிவேக நெடுஞ்சாலைகளில் செல்லும் வாகனங்களுக்கு குறைந்தபட்ச வேக வரம்பு நிர்ணயிக்கப்படும் என போக்குவரத்து அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+Transport Minister Bandula Gunawardena said the minimum speed limit for vehicles on the highways will be fixed.
 
-புதிய வேகத்தடை உள்ளிட்ட விதிகள் அடங்கிய வர்த்தமானி அடுத்தவாரம் வெளியிடப்படும் என்றும் அவர் கூறியுள்ளார்.
+He said the gazette containing the rules, including the new speed bail, will be released next week.
 
-தனி நபர் வேறுபாடுகள் இன்றி பொதுவான சட்டத்தின் மூலம் அனைவரின் வாழ்க்கைப் பாதுகாப்புக்கு முன்னுரிமை அளிக்கும் வகையில் புதிய சட்டங்கள் தயாரிக்கப்படும் என்றும் அமைச்சர் மேலும் குறிப்பிட்டுள்ளார்.
+The Minister added that new laws will be prepared to prioritize everyone's life safety through the common law without individual differences.
 
 ◼️
 
 [Data](articles/bbd7d2a4.json)
 
+[Extended Data](ext_articles/bbd7d2a4.ext.json)
+
 ---
 
-### மீண்டுமொரு காற்றாலை திட்டம்
+### மாணவர்களின் எதிர்ப்புக்கு மத்தியில் களனி பல்கலைக்கழகத்துக்குச் சென்ற ஜனாதிபதி ரணில்!
+
+*2024-01-31 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175237) · `ta`
+
+களனி பல்கலைக்கழகத்தின் பாலி மற்றும் பௌத்த கற்கைகள் நிறுவகத்தின் புதிய கட்டிட வளாகத்தை திறந்து வைக்கும் நிகழ்வில் கலந்துகொள்வதற்காகவே அவர் இவ்வாறு விஜயம் செய்துள்ளார்.
+
+இன்படி புதிய கட்டிட வளாகம் இன்று புதன்கிழமை (31)   ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் திறந்து வைக்கப்பட்டது.
+
+இதேவேளை, ஜனாதிபதியின் வருகையை கண்டித்து களனி பல்கலைக்கழக மாணவர்கள் ஆர்ப்பாட்டத்தில் ஈடுபட்டதுடன் கொழும்பு கண்டி பிரதான வீதியை மறித்து   நடத்திய போராட்டத்தை கலைக்க பொலிஸார் கண்ணீர் புகைக்குண்டுகளை வீசினர்.
+
+எவ்வாறாயினும், மாணவர்கள் அங்கிருந்து கலைந்து சென்ற போதிலும், பல்கலைக்கழக நிர்வாக கட்டிடத்துக்குள் எந்தவொரு தரப்பினரையும் நுழைய அனுமதிக்காமல் நேற்று (31) மாலை வரை ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+◼️
+
+[Data](articles/20dada38.json)
+
+---
+
+### Wind farm project
 
 *2024-01-31 14:26:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டுமொரு-காற்றாலை-திட்டம்/175-332413) · `ta`
 
-ஆசிய அபிவிருத்தி வங்கி நிதியின் கீழ் 47 மில்லியன் அமெரிக்க டொலர்கள் செலவில் ஆறு கூடுதல் விசையாழிகளை நிறுவுவதன் மூலம் மின்சார உற்பத்தியை அதிகரிப்பதே இதன் நோக்கமாகும். என தெரிவிக்கப்பட்டுள்ளது.
+The aim is to increase power generation by installing six additional turbots at a cost of US $ 47 million under the Asian Development Bank Fund.. Has been reported.
 
-இத்திட்டத்தை தனியார் துறை முதலீட்டாளர்கள் மூலம் நடைமுறைப்படுத்துவதே அரசாங்கத்தின் நோக்கமாகும், மேலும் இருபது வருட கால செயல்பாட்டுக் காலத்துடன் தொடர்புடைய மின் நிலையத்தின் நிர்மாணப் பணிகளை மேற்கொள்ள அரசாங்கம் திட்டமிட்டுள்ளது. அரசாங்கத்தின் வெளிநாட்டுக் கடன் மறுசீரமைப்புத் திட்டம் நடைமுறைப்படுத்தப்படும் வரை ஆசிய அபிவிருத்தி வங்கி நிதியைப் பயன்படுத்த முடியாது என்பதால் குறித்த திட்டத்திற்கு தனியார் முதலீட்டை நாட அரசாங்கம் தீர்மானித்துள்ளது.
+The government's aim is to implement this scheme by private sector investors, and the government plans to carry out the construction of the power plant related to the twenty -year operational period.. The government has decided to seek private investment in the project, as the Asian Development Bank of India cannot use funds until the government's foreign debt restructuring scheme is implemented.
 
 ◼️
 
 [Data](articles/16cc2724.json)
+
+[Extended Data](ext_articles/16cc2724.ext.json)
 
 ---
 
@@ -86,15 +162,17 @@ The injured mother and daughter were taken to a nearby Nanattan area hospital.
 
 ---
 
-### සනත් නිශාන්තගේ අමාත්‍යධුරය ශෂේන්ද්‍රට
+### Sanath Nishantha's ministry appointed Shahendra
 
 *2024-01-31 13:47:17* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්තගේ-අමාත්‍යධුරය-ශෂේන්ද්‍රට/11-407819) · `si`
 
-වාරිමාර්ග හා ජල සම්පත් කළමනාකරණ රාජ්‍ය අමාත්‍යවරයා ලෙස ශෂේන්ද්‍ර රාජපක්ෂ මහතා ජනපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේ දිවුරුම් දී තිබේ. ශෂීන්ද්‍ර රාජපක්ෂ මහතා මීට පෙර වාරිමාර්ග රාජ්‍ය අමාත්‍යවරයා ලෙස කටයුතු කළ අතර පසුගියදා අභාවප්‍රාප්ත වූ සනත් නිශාන්ත මහතා දැරූ ජල සම්පත් කළමණාකරණ රාජ්‍ය අමාත්‍යධුරය ශෂීන්ද්‍ර රාජපක්ෂ මහතාට හිමිව තිබේ.
+Shashendra Rajapaksa has been sworn in as Ranil Wickremesinghe as the State Minister of Irrigation and Water Resources Management. Shashindra Rajapaksa has previously served as the State Minister of Irrigation and the late Sanath Nishantha, the Minister of Water Resources Management, the Minister of Water Resources Management, has been owned by Hon. Shashindra Rajapaksa.
 
 ◼️
 
 [Data](articles/052a6519.json)
+
+[Extended Data](ext_articles/052a6519.ext.json)
 
 ---
 
@@ -118,21 +196,23 @@ According to foreign reports, the second ruler of the state of state in the Sout
 
 ---
 
-### எதிர்ப்பையும் மீறி களனிக்கு சென்றார் ஜனாதிபதி
+### The President went to Kelaniya despite opposition
 
 *2024-01-31 13:46:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்ப்பையும்-மீறி-களனிக்கு-சென்றார்-ஜனாதிபதி/175-332411) · `ta`
 
-மாணவர்களின் எதிர்ப்புக்கு மத்தியில் களனி பல்கலைக்கழகத்தின் பாலி மற்றும் பௌத்த கற்கைகள் நிறுவகத்தின் புதிய கட்டிட வளாகத்தை திறந்து வைக்கும் நிகழ்வில் கலந்துகொள்வதற்காகவே  ஜனாதிபதி அங்கு சென்றுள்ளார்.
+Amidst the opposition of the students, the President has gone there to attend the opening of the new building complex of the Bali and Buddhist Studies Institute of the University of Kelaniya.
 
-புதிய கட்டிட வளாகம் இன்று (31) முற்பகல் ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் திறந்து வைக்கப்பட்டது.
+The new building complex was opened by President Ranil Wickremesinghe this morning.
 
-ஜனாதிபதியின் வருகையை கண்டித்து களனி பல்கலைக்கழக மாணவர்கள் ஆர்ப்பாட்டத்தில் ஈடுபட்டதுடன், கொழும்பு கண்டி பிரதான வீதியை மறித்து நேற்று முன்தினம் இரவு நடத்திய போராட்டத்தை கலைக்க பொலிஸார் கண்ணீர் புகைக்குண்டுகளை வீசினர்.
+Students of the University of Kelaniya staged a protest against the president's arrival and police threw tear gas to dissolve the protest last night by crossing the main road in Colombo.
 
-எவ்வாறாயினும், மாணவர்கள் அங்கிருந்து கலைந்து சென்ற போதிலும், பல்கலைக்கழக நிர்வாக கட்டிடத்துக்குள் எந்தவொரு தரப்பினரையும் நுழைய அனுமதிக்காமல் நேற்று மாலை வரை ஆர்ப்பாட்டத்தில் ஈடுபட்டமை குறிப்பிடத்தக்கது.
+However, despite the dispersal of the students, it was noteworthy that until yesterday evening, the university administrative building staged a demonstration without allowing any parties to enter.
 
 ◼️
 
 [Data](articles/cb00eedb.json)
+
+[Extended Data](ext_articles/cb00eedb.ext.json)
 
 ---
 
@@ -154,25 +234,29 @@ The outcome of the incident has been communicated to the Cinnamon management, ac
 
 [Data](articles/d32d708c.json)
 
+[Extended Data](ext_articles/d32d708c.ext.json)
+
 ---
 
-### தயா - சஜித் கூட்டணி; சாடுகிறார் சரத்
+### Daya - Sajith Alliance;Suttars Sarath
 
 *2024-01-31 13:37:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தயா-சஜித்-கூட்டணி-சாடுகிறார்-சரத்/175-332410) · `ta`
 
-முன்னாள் இராணுவத் தளபதி (ஓய்வுபெற்ற) ஜெனரல் தயா ரத்நாயக்கவின் ஆதரவை ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாச ஏற்றுக்கொண்டமைக்கு, பீல்ட் மார்ஷல் சரத் பொன்சேகா கடும் அதிருப்தி தெரிவித்தார்.
+Field Marshal Sarath Fonseka expressed his displeasure over the acceptance of United People's Power President Sajith Premadasa's support for former Army Commander (retired) General Daya Ratnayake.
 
-கொழும்பில் ஐக்கிய மக்கள் சக்தி  நேற்று (30) ஏற்பாடு செய்திருந்த ஆர்ப்பாட்டத்தில் கலந்து கொண்ட போதே பீல்ட் மார்ஷல் சரத் பொன்சேகா மேற்கண்டவாறு தெரிவித்தார்.
+Field Marshal Sarath Fonseka said this while participating in a demonstration organized by the United People's Power in Colombo yesterday.
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் நிர்வாகத்தின் கீழ் 2010 ஆம் ஆண்டு தான் சிறையில் அடைக்கப்பட்டதில் ரத்நாயக்கவுக்கு தொடர்பு இருந்ததாகவும் சரத் பொன்சேகா கூறியுள்ளார்.
+Sarath Fonseka has said that Ratnayake was involved in his jail in 2010 under the administration of former President Mahinda Rajapakse.
 
-ரத்நாயக்கவை இணைத்துக் கொள்வதன் மூலம், ஐக்கிய மக்கள் சக்தி தனது அரசியல் நிலைப்பாட்டில் சமரசம் செய்து கொள்வதைக் குறிக்கும் வகையில், முன்னாள் ஜனாதிபதியுடன் தன்னை இணைத்துக் கொள்ளும் அபாயம் இருப்பதாக அவர் சுட்டிக்காட்டியுள்ளார்.
+He pointed out that by combining Ratnayake, the United People's Power is at risk of joining the former president, indicating that the United People's Power is compromising in its political position.
 
-முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷவின் ஆட்சிக் காலத்தில் முக்கிய பதவிகளை வகித்திருந்த தயா ரத்நாயக்க, அண்மையில் ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்டமை குறிப்பிடத்தக்கது.
+It is noteworthy that Daya Ratnayake, who held key positions during the reign of former President Gotabhaya Rajapakse, recently joined the United People's Power.
 
 ◼️
 
 [Data](articles/3f823f1a.json)
+
+[Extended Data](ext_articles/3f823f1a.ext.json)
 
 ---
 
@@ -207,6 +291,8 @@ The Minister of Sports and Youth Affairs  Harin Fernando, approved the  squad,
 ◼️
 
 [Data](articles/ccf59457.json)
+
+[Extended Data](ext_articles/ccf59457.ext.json)
 
 ---
 
@@ -322,6 +408,8 @@ He also underscored the significance of India's assistance to Sri Lanka amidst i
 
 [Data](articles/c86e14fa.json)
 
+[Extended Data](ext_articles/c86e14fa.ext.json)
+
 ---
 
 ### Family of 22-year-old who died in police custody raise suspicions
@@ -363,6 +451,8 @@ He went on to suggest that by embracing Ratnayake, the SJB risks aligning itself
 ...
 
 [Data](articles/7a70894b.json)
+
+[Extended Data](ext_articles/7a70894b.ext.json)
 
 ---
 
@@ -520,6 +610,8 @@ In a message on his X account he said that Indian law does not allow dual citize
 
 [Data](articles/dcaf5c07.json)
 
+[Extended Data](ext_articles/dcaf5c07.ext.json)
+
 ---
 
 ### China and India Drive Upward Revision in IMF’s Asia-Pacific Growth Projection
@@ -656,6 +748,8 @@ Colombo, Jan 31 (Daily Mirror) - Shasheendra Rajapaksa has been sworn in as the 
 
 [Data](articles/0cc6f25b.json)
 
+[Extended Data](ext_articles/0cc6f25b.ext.json)
+
 ---
 
 ### Youth killed in police custody
@@ -762,6 +856,8 @@ A statement from the party said that he also drew Mr. Rajnath Singh’s attentio
 
 [Data](articles/15de4b57.json)
 
+[Extended Data](ext_articles/15de4b57.ext.json)
+
 ---
 
 ### New State Minister of Irrigation and Water Resources Management appointed
@@ -815,6 +911,8 @@ The convictions against arguably Pakistan’s most popular politician came a wee
 ...
 
 [Data](articles/114abf6f.json)
+
+[Extended Data](ext_articles/114abf6f.ext.json)
 
 ---
 
@@ -1054,6 +1152,8 @@ The Test match to commence on February 2 at the SSC and will be freely accessibl
 
 [Data](articles/c745798b.json)
 
+[Extended Data](ext_articles/c745798b.ext.json)
+
 ---
 
 ### Imran Khan and wife is in prison
@@ -1141,6 +1241,8 @@ The demonstration took place in front of the Viharamadevi Park and the police, i
 ◼️
 
 [Data](articles/e03e65c0.json)
+
+[Extended Data](ext_articles/e03e65c0.ext.json)
 
 ---
 
@@ -1915,69 +2017,5 @@ The police said that the investigation is also being investigated to disclosure 
 [Data](articles/c3245de3.json)
 
 [Extended Data](ext_articles/c3245de3.ext.json)
-
----
-
-### Members of doctors to health staff
-
-*2024-01-31 09:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192773) · `si`
-
-The Government Medical Officers Association (GMOA) says that several trade union leaders will be able to destroy the pride of non-medical staff in the health sector.
-
-The National Movement of the Health Professionals yesterday (01) has decided to reach strike measures tomorrow (01).
-
-In response, the Government Medical Officers' Association has presented an open memorandum to all medical staff members working in government health institutions.
-
-◼️
-
-[Data](articles/bb0d1086.json)
-
-[Extended Data](ext_articles/bb0d1086.ext.json)
-
----
-
-### Thirah arrested for 'Ratmalana'
-
-*2024-01-31 09:13:41* · [`adalk`](https://www.ada.lk/breaking_news/’රත්මලානේ-කොටියා’-අල්ලයි/11-407812) · `si`
-
-The Criminal Investigation Bureau of Mt.
-
-The suspect is a 30 year old resident of Ratmalana and a suspect in the murder of former Municipal Councilor Ranjan Silva.
-
-◼️
-
-[Data](articles/e86467ea.json)
-
-[Extended Data](ext_articles/e86467ea.ext.json)
-
----
-
-### Shooting
-
-*2024-01-31 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/175195) · `ta`
-
-One person was injured in the incident, which took place last night (30), police media unit said.
-
-◼️
-
-[Data](articles/598650a3.json)
-
-[Extended Data](ext_articles/598650a3.ext.json)
-
----
-
-### Jagath Priyankara to be replaced by Sanath Nishantha
-
-*2024-01-31 08:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192772) · `si`
-
-Allegations of Sanath Nishantha's late Sanath Nishantha. K. Jagath Priyankara has been elected to Parliament.
-
-The gazette notification has been announced yesterday and the Secretary General of Parliament has informed the Elections Commission.
-
-◼️
-
-[Data](articles/2000b1c8.json)
-
-[Extended Data](ext_articles/2000b1c8.ext.json)
 
 ---

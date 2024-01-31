@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 09:51:28**
+As of **2024-01-31 10:02:14**
 
 ## Newspaper Stats
 
-*Scraped **3,690** Articles*
+*Scraped **3,691** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 331
 virakesarilk | 408
 adaderanasinhalalk | 414
 tamilmirrorlk | 468
-adaderanalk | 469
+adaderanalk | 470
 dailymirrorlk | 499
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,690 (100.0%) of 3,690 articles have been extended.
+3,691 (100.0%) of 3,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### Jagath Priyankara to fill Sanath Nishantha’s MP seat
+
+*2024-01-31 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/96871/jagath-priyankara-to-fill-sanath-nishanthas-mp-seat) · `en`
+
+National Freedom Front (Jathika Nidahas Peramuna) member L.K. Jagath Priyankara’s name has been gazetted to fill the MP seat left vacant following the tragic death of State Minister Sanath Nishantha.
+
+State Minister Sanath Nishantha and his security officer died in a tragic accident that took place on the Colombo - Katunayake expressway in the early hours of the day.
+
+According to the police, the state minister’s vehicle had rear-ended a moving container truck around 2:00 a.m. (25 Jan.), before crashing against the roadside barrier.
+
+Following the fatal collision, three persons including State Minister Nishantha were rushed to the Colombo North Teaching Hospital in Ragama with critical wounds, where two of them - the lawmaker and his security guard, a police constable named Jayakody – succumbed to their injuries upon admission.
+
+◼️
+
+[Data](articles/87deae1b.json)
+
+[Extended Data](ext_articles/87deae1b.ext.json)
+
+---
 
 ### Jagath Priyankara to be replaced by Sanath Nishantha
 
@@ -2041,25 +2061,5 @@ Police have repeatedly launched a water and tear gas attack near the Colombo Pub
 [Data](articles/233b9186.json)
 
 [Extended Data](ext_articles/233b9186.ext.json)
-
----
-
-### This is the situation within the Attan Dikoya City Council ..!
-
-*2024-01-30 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175141) · `ta`
-
-It is well known that if the waste is stagnant all over the city, it will be the area of Attan Tikoya Urban Council in Sri Lanka. Attan Dikoya is the only city council in Sri Lanka to choose a place to make the waste or bring them down.
-
-If these conditions are in cities and its residential areas, the municipality is filled with garbage.. The sewage above is located within the Attan Dikoya Municipality. City Council Hall. The city council charges a sum of money to use this hall. But this is the case with the toilet.
-
-Because of this, many will end up events in two or three hours. Similarly, the rear of the municipality has long been laid out and removed. There is only one health examiner in the municipality. Within the building he works. It is not known how he does not know this.
-
-This is a good example of how the City Council Health Division keeps its building, which advises city traders and residential areas to keep the environment clean.
-
-...
-
-[Data](articles/61895bbd.json)
-
-[Extended Data](ext_articles/61895bbd.ext.json)
 
 ---

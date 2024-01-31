@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 23:32:44**
+As of **2024-01-31 23:49:43**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ dailymirrorlk | 542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,936 (99.9%) of 3,940 articles have been extended.
+3,940 (100.0%) of 3,940 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### පොලිස් කොස්තාපල්ට තර්ජනය කළ පොලිස් ලොක්කන්ට වැඩ වරදියි
+### Police bosses missed over threatening police constable
 
 *2024-01-31 22:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192814) · `si`
 
-මත්ද්‍රව්‍ය චෝදනා ලැබූ සැකකරුවන් කිහිපදෙනෙකු නිදහස් කරන ලෙසට පොලිස් කොස්තාපල්වරයෙකුට බලපෑම් කළ සහකාර පොලිස් අධිකාරීවරයෙකු ඇතුළු පොලිස් නිලධාරීන් සිව්දෙනෙකුට ලක්ෂ 20ක වන්දියක් අගතියට පත් නිලධාරියට ගෙවන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියෝගය කර තිබේ.
+The Supreme Court has ordered to pay a compensation of Rs.
 
-මෙම නියෝගය සිදුකර ඇත්තේ 2021 වසරේ නොවැම්බර් මස 02 වනදා අදාළ සිදුවීම වන අවස්ථාවේ අම්බලන්ගොඩ සහකාර පොලිස් අධිකාරී ලෙස කටයුතු කළ යූ.එම්.අමරසිරි, එවක කොස්ගොඩ පොලිස් ස්ථානාධිපති මංගල ද සොයිසා අමරසේකර, එහි අපරාධ අංශය භාර ස්ථානාධිපති අසේල ප්‍රේමනාත් ද සිල්වා සහ පොලිස් සැරයන් ඉන්දික ද සිල්වා යන නිලධාරීන් පිරිසකටය.
+This order was made by UNP Amarasiri, OIC of the Evaka Kosgoda Amarasekera, OIC of the Criminal Division, Mangala De Zoysa, OIC of the Criminal Division, and the police sergeantA group of officers who are on charges of Silva.
 
-ශ්‍රේෂ්ඨාධිකරණය වැඩිදුරටත් නියෝග කර ඇත්තේ ඔවුන්ගේ පෞද්ගලික මුදල්වලින් එම වන්දිය ඊයේ දින සිට මාස හයක කාල සීමාවක් තුළ ගෙවා අවසන් කරන ලෙසටය.
+The Supreme Court has ordered that their personal money to pay for a six-month period from yesterday.
 
-එම අදාළ පොලිස් කොස්තාපල්වරයාට රජය විසින් රුපියල් 25000ක වන්දියක් ගෙවන ලෙසට ද නියෝග කර තිබේ.
+The government has ordered the police constable to pay Rs. 25,000.
 
-...
+The then police constable PDD attached to the Kosgoda police station at the time. The Supreme Court has decided that the suspects have been decided by the suspects by the suspects by the suspects and banning their wife and arrested his wife and violated his wife.
+
+Supreme Court Judge Priyantha Fernando has announced the agreement with the agreement of Judges Janak de Silva and Surren Surasena.
+
+◼️
 
 [Data](articles/7f47612a.json)
+
+[Extended Data](ext_articles/7f47612a.ext.json)
 
 ---
 
@@ -85,6 +91,8 @@ Therefore, the Commissioner urged vehicle users to transfer ownerships to the ac
 ◼️
 
 [Data](articles/c299a497.json)
+
+[Extended Data](ext_articles/c299a497.ext.json)
 
 ---
 
@@ -259,6 +267,8 @@ The establishment said it had conducted its own tests on the same batch of procu
 ...
 
 [Data](articles/230a7abb.json)
+
+[Extended Data](ext_articles/230a7abb.ext.json)
 
 ---
 
@@ -904,23 +914,27 @@ He demanded the permission of the Colombo High Court to temporarily lifted his t
 
 ---
 
-### අරලිය මැඳුරේ රාජකාරී කළ STF සෙබලා වෙඩි තබා ගනියි
+### Staff, who duties a Jatha Thumb, shoots
 
 *2024-01-31 18:37:34* · [`adalk`](https://www.ada.lk/breaking_news/අරලිය-මැඳුරේ-රාජකාරී-කළ-STF-සෙබලා-වෙඩි-තබා-ගනියි/11-407831) · `si`
 
-අරලියගහ මන්දිරියේ රාජකාරී යොදවා සිටි පොලිස් විශේෂ කාර්ය බලකායට අනුයුක්ත පොලිස් කොස්තාපල්වරයෙකු රාජකාරී ගිනි අවියෙන් වෙඩි තබාගෙන ඇතැයි කොල්ලූපිටිය පොලිසිය කියයි.
+Kollupitiya Police say that a police constable attached to the Special Task Force who was deployed at Temple Trees were shot dead by official firearm.
 
-තුවාල ලබා ඇත්තේ අග්‍රාමාත්‍ය ආරක්ෂක කොට්ඨාසයේ කොල්ලුපිටිය කඳවුරට අනුයුක්ත සේවය කරන හොරෙව්පතාන , කපුගොල්ලෑව , මොරවැව අංක 36 නිවසේ පදිංචි පොලිස් කොස්තාපල් (90715) ඩි කේ  එම් ප්‍රේමසිරි (29) හැවිරිදි නිලධාරියාය .
+The injured were the Horawpalluthana, Kapugollewa, Morawewa, Morawewa, Morawewa, Mossawewa (96), a resign from the 36 home constable (90715).
 
-කොස්තාපල්වරයා ඊයේ (30) සවස හයේ සිට නවය දක්වා  අරලියගහ මන්දිරයේ එච් 1 දොරටුවේ ස්ථාපිත උස්මුරකුටියේ රාජකාරිය යොදවා සිටියදී නිලධාරියාට නිකුත් කර තිබූ ටි -56   - 5106523  අංක දරණ ගිනි අවියෙන්  වෙඩි තබා ගැනීම සිදුකරගෙන ඇතැයි පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත
+Police investigations have revealed that the constable was deployed in the anti-510623-owned firearm at the AG 1 in Temple Thiros while the constable was deployed at the Hydrolese of Temple Trees yesterday (30).
 
-එම වෙඩි තබා ගැනීමෙන් වම් අතේ සුළඟිල්ලකට තුවාල සිදුවී ඇති බව රෝහල් ප්‍රකාශකයකු පැවසීය
+The shooting was injured in the left hand, a hospital spokesman said
 
-මුරකුටියේ යකඩ තහඩුවට උන්ඩ  දෙකක් ඇති බව ස්ථානය පරීක්ෂා කිරීමේදී  පැහැදිලි වන බව උසස් පොලිස් නිලධාරියෙක් පැවසීය
+A high-ranking police officer said it would clear when the iron plate had two bundles in the watchport
 
-...
+When inquired from the hospital, his mother died six months ago and the father of her mother was hospitalized and had frequent disputes with her only scam in home.He further stated that he has been shot dead on his own. Kollupitiya Police are conducting further investigations.
+
+◼️
 
 [Data](articles/38ad342f.json)
+
+[Extended Data](ext_articles/38ad342f.ext.json)
 
 ---
 

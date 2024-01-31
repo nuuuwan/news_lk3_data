@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 05:02:24**
+As of **2024-02-01 05:17:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,950 (99.9%) of 3,953 articles have been extended.
+3,953 (100.0%) of 3,953 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Five exhibitors from Sri Lanka, such as Gospel House Handicrafts Ltd., Art Decor
 ...
 
 [Data](articles/e80d6630.json)
+
+[Extended Data](ext_articles/e80d6630.ext.json)
 
 ---
 
@@ -72,6 +74,8 @@ During a press conference, Fonseka revealed that he has been receiving calls and
 
 [Data](articles/92b9faeb.json)
 
+[Extended Data](ext_articles/92b9faeb.ext.json)
+
 ---
 
 ### Passports to cost dearly
@@ -89,6 +93,8 @@ In 2023, the Immigration and Emigration Department issued a total of 849,829 pas
 ◼️
 
 [Data](articles/75915ad2.json)
+
+[Extended Data](ext_articles/75915ad2.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 11:51:44**
+As of **2024-01-31 12:02:31**
 
 ## Newspaper Stats
 
-*Scraped **3,714** Articles*
+*Scraped **3,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 61
 dbsjeyarajcom | 129
 economynextcom | 200
 islandlk | 207
-newsfirstlk | 216
+newsfirstlk | 225
 dailyftlk | 243
 adalk | 334
 virakesarilk | 414
-adaderanasinhalalk | 416
+adaderanasinhalalk | 420
 tamilmirrorlk | 470
 adaderanalk | 475
 dailymirrorlk | 502
@@ -26,11 +26,95 @@ dailymirrorlk | 502
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,706 (99.8%) of 3,714 articles have been extended.
+3,706 (99.4%) of 3,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### බලහත්කාරයෙන් තරුණියක් කෙළෙසූ තැපැල් සේවකයෝ හතරක් පොලීසියට කොටුවෙති
+
+*2024-01-31 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192778) · `si`
+
+මව සමගින් තැපැල් කාර්යාලයට පැමිණි විසි හය හැවිරිදි තරුණියක් තැපැල් සේවකයෙකුගේ නිවසකට ගෙන්වා රංචු ගැසී දූෂණයට ලක් කළැයි කියන තැපැල් සේවකයින් සිව්දෙනෙකු රුවන්වැල්ල පොලිසිය විසින් පෙරේදා (29) අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ රුවන්වැල්ල සහ ඉබුලාන තැපැල් කාර්යාලවල සේවය කරන තැපැල් සේවකයින් සිව්දෙනෙකි.
+
+කන්නන්තොට ප්‍රදේශයේ පදිංචි 26 හැවිරිදි තරුණියක් පසුගිය සිකුරාදා මව සමඟින් රුවන්වැල්ල නගරයේ පිහිටි තැපැල් කාර්යාලයකට පැමිණ ඇත.
+
+තැපැල් කාර්යාලයේදී ඔවුනට උපකාර කළ එහිම සේවකයකු වන 27 හැවිරිදි තරුණයෙකු උපකාරයක් අවශ්‍ය නම් කතා කරන්නැයි අදාළ තරුණියට දුරකථන අංකය ලබාදී ඇයගේද දුරකථන අංකය ලබාගෙන ඇත.
+
+පසුව එම තරුණයා මෙම තරුණිය හා සුහදත්වයක් ඇති කරගනිමින්, තරුණිය කන්නන්තොට පිහිටි නිවස වෙත ගෙන්වා ගෙන දූෂණයට ලක්කර ඇත.
+
+පසුව මොහු රුවන්වැල්ල සහ ඉබුලාන තැපැල් කාර්යාලවල සේවය කරන සිය මිතුරන් තිදෙනෙකුද නිවසට ගෙන්වාගෙන තිබේ.
+
+අනතුරුව මොවුන් සිව්දෙනාම තරුණිය වරින් වර බලහත්කාරයෙන් දූෂණයට ලක්කර තිබෙන අතර ඇතිවූ බිය මත තරුණිය මේ බව කිසිවෙකුට හෝ පවසා නැත.
+
+...
+
+[Data](articles/44c6a12a.json)
+
+---
+
+### ඉම්රාන් ඛාන් සහ බිරිඳට තවත් සිරදඬුවමක්
+
+*2024-01-31 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192777) · `si`
+
+පාකිස්තානයේ හිටපු අගමැති ඉම්රාන් ඛාන් සහ ඔහුගේ බිරිඳ වන බුෂ්රා බිබී ට තවත් සිර දඬුවමක් ලබා දී ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+ඒ අනුව ඔවුන් දෙදෙනාට වසර 14ක සිර දඬුවමක් නියම කිරීමට පාකිස්තාන අධිකරණය නියෝග කර තිබේ.
+
+මේ වනවිටත් බන්ධනාගාර ගත කර සිටින ඉම්රාන් ට එරෙහිව, රාජ්‍ය රහස් හෙළි කිරීමේ චෝදනාවට ඊයේ (30) වසර 10ක සිර දඬුවමක් ලබා දුනි.
+
+ඔහුගේ විරුද්ධවාදීන් විසින් 2022 වසරේදී ඉම්රාන් ව අගමැති ධුරයෙන් ඉවත් කළ අතර පසුගිය වසරේදී දූෂණ චෝදනා මත ඔහුට වසර 03ක සිර දඬුවමක් තීන්දු කළේය.
+
+◼️
+
+[Data](articles/71e564a3.json)
+
+---
+
+### අමෙරිකානු ප්‍රහාරක යානයක් කඩා වැටෙයි
+
+*2024-01-31 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192776) · `si`
+
+දකුණු කොරියානු බටහිර මුහුද ට F - 16 මාදිලියට අයත් අමෙරිකානු ප්‍රහාරක යානයක් කඩා වැටී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+අමෙරිකාවට අයත් F - 16 ප්‍රහාරක යානයක් දකුණු කොරියාවේදී මෑත කාලයේදී අනතුරට ලක්වූ දෙවැනි අවස්ථාව මෙය වෙයි.
+
+යානය කඩා වැටෙන අවස්ථාවේදී එහි සිටි නියමුවා ඉන් ඉවතට පැන ඇති අතර පැයකට පමණ පසුව ඔහුව බේරා ගැනීමට දකුණු කොරියානු "බේරාගැනීමේ කණ්ඩායම" සමත්විය.
+
+දකුණු කොරියානු බටහිර මුහුදු තීරයේ කඳවුරු දෙකක් අමෙරිකානු ගුවන් හමුදාව විසින් භාවිත කරයි.
+
+පසුගිය දෙසැම්බර් මාසයේදීද පුහුණු සැසියක් අතරතුර F - 16 යානයක් කඩා වැටුණු අතර පසුව එහි නියමුවාව බේරා ගැනුණි.
+
+◼️
+
+[Data](articles/62a76090.json)
+
+---
+
+### Pakistan’s Imran Khan, wife sentenced to 14 years
+
+*2024-01-31 11:13:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/pakistan-s-imran-khan-wife-sentenced-to-14-years/) · `en`
+
+Pakistan’s former Prime Minister Imran Khan and his wife Bushra Bibi have been sentenced to 14 years in jail in a case related to illegal selling of state gifts.
+
+The sentencing by an anti-graft court in Islamabad on Wednesday comes a day after Khan was handed a 10-year jail term in another case in which he was convicted of revealing state secrets, and a week before national elections.
+
+Khan was also handed a three-year prison sentence in August by another court for selling gifts worth more than 140 million rupees ($501,000) in state possession and received during his 2018-2022 premiership.
+
+The sentence was later suspended but Khan remains behind bars in connection with other cases. He has said that he legally purchased the items.
+
+Government officials have alleged Khan’s aides sold the gifts in Dubai.
+
+Health Sector on Brink of Strike as Union Demands Remain Unmet
+
+◼️
+
+[Data](articles/dc60120e.json)
+
+---
 
 ### ஐக்கிய மக்கள் சக்தியின் ஆர்ப்பாட்டத்தில் பொலிஸார் மீது கல் வீச்சுத்  தாக்குதல் : மூவர் காயம்!
 
@@ -82,6 +166,48 @@ Saudi Arabia has been rapidly committed to dedicating regional and international
 
 ---
 
+### Army Commander Visits Injured Paratroopers
+
+*2024-01-31 10:59:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/army-commander-visits-injured-paratroopers/) · `en`
+
+COLOMBO (News 1st);  Lieutenant General Vikum Liyanage, Commander of the Sri Lanka Army, visited the Colombo Army Hospital on Tuesday, January 30th, to personally check on the two army personnel, an Officer and Soldier, injured during a freefall jump as part of the upcoming 76th Independence Day parade rehearsals.
+
+Accompanied by Major General W.H.K.S Peiris, Chief of Staff, the Army Commander spent time with the injured Officer and Soldier, expressing his deep concern and inquiring about their progress.
+
+He emphasized the importance of providing them with the highest quality of medical care and ensuring their speedy recovery.
+
+The Commander also met with the hospital's medical authorities, reiterating the Army's unwavering commitment to the well-being of its personnel.
+
+Four paratroopers from SL Army and SLAF were injured last morning (30), during rehearsals for the National Independence Day celebrations at Galle Face Green.
+
+– Major Dhammika Ratnapala from the Sri Lanka Army Special Forces
+
+...
+
+[Data](articles/327a45ee.json)
+
+---
+
+### Health Sector on Brink of Strike as Union Demands Remain Unmet
+
+*2024-01-31 10:51:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/health-sector-on-brink-of-strike-as-union-demands-remain-unmet/) · `en`
+
+COLOMBO (News 1st); The Alliance of Health Trade Unions has issued a stark ultimatum to the Sri Lankan health authorities, warning of a nationwide strike set to begin tomorrow morning unless their demands are addressed.
+
+The strike, involving members of 72 healthcare professions, is a culmination of months of frustration over unresolved issues, including the controversial allowance disparity between doctors and other healthcare workers.
+
+Speaking on behalf of the AHTU, its joint-convener Ravi Kumudesh stressed the urgency of the situation.
+
+"The health authorities still have a chance to find solutions to the professional problems we face, particularly the allowance issue," he said. "But if proper intervention is not taken today, our members will be forced to walk out at 6.30 am tomorrow."
+
+The strike stems from a long-standing grievance regarding a recent policy granting a 35,000 rupee stipend to doctors.
+
+...
+
+[Data](articles/cbd10c05.json)
+
+---
+
 ### Politicians should also have a retirement age – Roshan Ranasinghe
 
 *2024-01-31 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/96876/politicians-should-also-have-a-retirement-age-roshan-ranasinghe-) · `en`
@@ -97,6 +223,26 @@ Speaking at a public gathering in Nugegoda, the Parliamentarian emphasised that 
 [Data](articles/ddd95783.json)
 
 [Extended Data](ext_articles/ddd95783.ext.json)
+
+---
+
+### Jaishankar urges Indians to vacation in Sri Lanka
+
+*2024-01-31 10:39:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/jaishankar-urges-indians-to-vacation-in-sri-lanka/) · `en`
+
+COLOMBO (News 1st); Indian External Affairs Minister Dr. S. Jaishankar urged Indian citizens to visit Sri Lanka during their next vacation, emphasizing the strong ties between the two nations and India's unwavering support during Sri Lanka's recent economic woes.
+
+Speaking at an event at IIM Mumbai, Dr. Jaishankar painted a vivid picture of the crisis Sri Lanka faced and India's impactful response.
+
+"My first advice to you," he declared, "the next time you want to take a holiday, go to Sri Lanka. I am serious. Talk to the average person there, and ask them what they think about India. You will feel yourself grow with that answer."
+
+He pointed to the depths of Sri Lanka's struggles, with fuel shortages, food scarcity, and a desperate need for essential commodities.
+
+"When the world turned its back," he said, "India stepped forward with a commitment of USD 4.5 billion, exceeding even the IMF's assistance package by 50%."
+
+...
+
+[Data](articles/2ed422ac.json)
 
 ---
 
@@ -153,6 +299,24 @@ According to the Ministry, the narcotics taken into custody during this period i
 [Data](articles/f3e097a8.json)
 
 [Extended Data](ext_articles/f3e097a8.ext.json)
+
+---
+
+### තමා දේශපාලනයෙන් සමුගන්නා දිනය රොෂාන් රණසිංහ කියයි
+
+*2024-01-31 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192775) · `si`
+
+තමා වයස අවුරුදු 65 පෙර දේශපාලනයෙන් සමුගෙන රටට නව ආදර්ශයක් ලබාදීමට සුදානම් බව රොෂාන් රණසිංහ මන්ත්‍රීවරයා පවසයි.
+
+ඔහු සඳහන් කළේ, රාජ්‍ය සේවයේ විශ්‍රාම යායුතු සීමාව දේශාපාලනයට ද වලංගු විය යුතු බවය.
+
+නුගේගොඩ ප්‍රදේශයේ පැවැති ජන හමුවකට එක්වෙමින් රොෂාන් රණසිංහ මන්ත්‍රීවරයා මේ බව කියා සිටියේය.
+
+"කවදාහරි මගේ ඇස්පෙනීම අඩුවෙයි, කවදාහරි මගෙත් කං ඇහීම අඩුවෙයි. හැබැයි ඒක තමයි යතාර්ථය. ඇයි රාජ්‍ය සේවය අවුරුදු 60න් විශ්‍රාම යන්නේ?. විනිසුරුවරයෙකුටත් සේවය කරන්න පුළුවන් අවුරුදු 65යි. ආණ්ඩුකාරවයෙකුගේ වයස අවුරුදු 80ක් වුණාම පසුගිය ඉතිහාසයේ, ඔහුට හොඳ සිහිකල්පනාවක් තියෙනවාද වැඩකරන්න. මගේ දේශපාලන ජීවිතයේ අපි ආදර්ශයක් දෙනවා. දේශපාලනයෙන් අවුරුදු 65ට කලින් අපි විශ්‍රාම යන්න සූදානම්. මෙතන ඉන්න සියලුදෙනාම එහෙමයි. ඒ ආදර්ශය අපි දෙන්න සූදානම්."
+
+◼️
+
+[Data](articles/98d42345.json)
 
 ---
 
@@ -220,6 +384,82 @@ The Asia Pacific Regional Conference will enable ministers of agriculture and hi
 
 ---
 
+### Government Revamps Paddy Purchase System
+
+*2024-01-31 10:14:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/government-revamps-paddy-purchase-system/) · `en`
+
+COLOMBO (News 1st); In a significant shift, the Sri Lankan government has decided to bypass the Paddy Marketing Board (PMB) for paddy purchases during the upcoming Maha season.
+
+Instead, the responsibility will fall on small and medium-scale rice mill owners and rice stock collectors, overseen by regional secretaries.
+
+This decision, announced by the Ministry of Finance, aims to streamline the process and ensure wider participation in paddy buying.
+
+Moreover, the government has decided to implement a loan scheme through public and private banks under a concessional interest rate for the purchase of paddy.
+
+based on the average Maha Season Paddy production of each district during the last 5 years.
+
+Loans of Rs. 9 billion are expected to be issued under the proposed loan scheme.
+
+A maximum loan of Rs 50 million will be given to small and medium scale rice mill owners and a maximum of Rs 25 million to rice warehouse owners and rice stockists.
+
+...
+
+[Data](articles/6df480fe.json)
+
+---
+
+### Oil & Gas Vessel Calls at Hambantota Port Surge 132% in 2023
+
+*2024-01-31 10:05:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/oil-gas-vessel-calls-at-hambantota-port-surge-132-in-2023/) · `en`
+
+COLOMBO (News 1st); The Hambantota International Port (HIP) witnessed a phenomenal year in 2023, with oil and gas vessel calls skyrocketing 132% compared to 2022.
+
+A key reason for this is the port’s bunkering partner Sinopec actively operating in the market, bringing significant value addition to the HIP’s commercial operations, said HIPG.
+
+The overall oil & gas throughput handled by the port in 2023 was 918,000 MT with 700,000 MT of bunker and 218,000 MT LPG cargoes.
+
+A total of 35 vessels called at HIP in July 2023, making it the month for the highest number of calls during the year. The port recorded a growth of 186% in LPG vessels and 125% growth in bunker vessels in 2023 as opposed to the 114 bunker and 15 LPG vessels that called in 2022. In terms of throughput the port saw a 218% overall growth with a 147% increase in LPG and 250% increase in bunker as opposed to 2022, with July marking the highest.
+
+...
+
+[Data](articles/9a3e747e.json)
+
+---
+
+### Talk of The Town | Microfinance Debt Trap & The Rural Poor | Chandra Jayaratne | 31 January 2024
+
+*2024-01-31 10:04:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/talk-of-the-town-microfinance-debt-trap-the-rural-poor-chandra-jayaratne-31-january-2024/) · `en`
+
+Talk of The Town | Microfinance Debt Trap & The Rural Poor | Chandra Jayaratne | 31 January 2024
+
+Health Sector on Brink of Strike as Union Demands Remain Unmet
+
+◼️
+
+[Data](articles/8840337d.json)
+
+---
+
+### Colombo Port Booms Amid Red Sea Turmoil
+
+*2024-01-31 09:57:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/colombo-port-booms-amid-red-sea-turmoil/) · `en`
+
+COLOMBO (News 1st); The Port of Colombo is experiencing a surge in activity, with over 330 ships docking in the past 29 days alone.
+
+This comes amidst heightened tension in the Red Sea, which appears to be driving vessels towards the strategically located Sri Lankan port.
+
+"We've seen a significant increase in ship calls," confirmed U Kumara, Operations Director of the Sri Lanka Ports Authority (SLPA).
+
+This surge extends beyond mere vessel traffic. Container operations within SLPA terminals have witnessed a dramatic 60.9% increase compared to the same period the prior year, highlighting the port's growing importance as a regional shipping hub.
+
+Marine insurance companies have reacted to the volatile situation by raising their rates, potentially impacting shipping costs and adding a layer of complexity to navigating the region.
+
+...
+
+[Data](articles/592be88d.json)
+
+---
+
 ### Release
 
 *2024-01-31 09:48:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளியானது-விசேட-வர்த்தமானி-அறிவித்தல்/175-332390) · `ta`
@@ -257,6 +497,28 @@ The Afghanistan cricket team from Dubai to 10.20 days at Dubai to Katunayake Air
 [Data](articles/5d06eb80.json)
 
 [Extended Data](ext_articles/5d06eb80.ext.json)
+
+---
+
+### Sri Lanka Tax ID Fines On Hold
+
+*2024-01-31 09:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/sri-lanka-tax-id-fines-on-hold/) · `en`
+
+COLOMBO (News 1st); The Inland Revenue Department has temporarily suspended imposing fines on individuals who have not obtained their Taxpayer Identification Number (TIN) or tax registration number, according to the instructions of the Ministry of Finance.
+
+The government had previously announced that every citizen above the age of 18 must open a tax file, and it was planned to be made mandatory from January 1, 2024.
+
+However, due to problems in implementing the related program in practice, its mandatory implementation was postponed to February 1, 2024.
+
+It was announced that a fine of fifty thousand rupees would be charged for individuals who did not obtain the relevant TIN number.
+
+When asked about the matter, Nihal Wijewardena, Deputy Commissioner of the Inland Revenue Department, stated that those who did not obtain the relevant number by February 1, 2024, will not be fined.
+
+Health Sector on Brink of Strike as Union Demands Remain Unmet
+
+◼️
+
+[Data](articles/3c37bb40.json)
 
 ---
 
@@ -1749,261 +2011,5 @@ Police found during the investigation that eight of the 15 convicts were directl
 [Data](articles/ee8c55a5.json)
 
 [Extended Data](ext_articles/ee8c55a5.ext.json)
-
----
-
-### Sajith visits Colombo National Hospital after SJB protest
-
-*2024-01-30 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/96862/sajith-visits-colombo-national-hospital-after-sjb-protest) · `en`
-
-Opposition Leader Sajth Premadasa was seen visiting the Colombo National Hospital this evening (30 Jan.), after two persons, including former MP Mujibur Rahman, were admitted during the Samagi Jana Balawegaya (SJB) protest.
-
-Earlier today, an individual was admitted to the Accident Ward of the hospital after reportedly sustaining injuries when police had fired tear gas and water cannons in an attempt to disperse the SJB protesters.
-
-Shortly after, it was reported that former MP Mujibur Rahman was rushed to the Emergency Unit of the Colombo National Hospital after falling ill during the protest march.
-
-The SJB held a protest march against the conduct of the government, with the participation of Opposition Leader Sajith Premadasa and other leaders and allies of the political party.
-
-◼️
-
-[Data](articles/af7a48a3.json)
-
-[Extended Data](ext_articles/af7a48a3.ext.json)
-
----
-
-### Ritoxi maps launches investigation into younger medication fraud
-
-*2024-01-30 19:05:06* · [`adalk`](https://www.ada.lk/breaking_news/රිටොක්සි-මැප්-බාල-බෙහෙත්-වංචාව-ගැනත්-පරීක්ෂණ-අරඹයි/11-407805) · `si`
-
-The Bribery Commission has launched an investigation into the 'Ritukcy Map' to the government hospitals in the country.
-
-The Bribery Commission also commenced investigations into the formation of cancer insecurity by giving substandard rituki maps.
-
-In the Indian Loan Scheme, the release of Rs.According to a complaint, the Bribery Commission has commenced this investigation according to a complaint by the President of the Citizenship Brigade and Citizenship Bureau of Bribery and Waste.
-
-"Phosphate" breast - vaccinated by the 'A hospitals' to the public hospitals and the distribution of 'Emimunologin' used for neurosuglobin.Deputy Solicanda Magistrate Magistrate Magistrate Magistrate Magistrate Magistrate Lakhandanda Magistrate Lakminanda Magistrate Lakminanda Magistrate Lokamani Weerasinghe has revealed that the antibodies of 'Ritukcy Map' used for stomachs.
-
-...
-
-[Data](articles/d5d98188.json)
-
-[Extended Data](ext_articles/d5d98188.ext.json)
-
----
-
-### Ambulance service between the Maldives and Sri Lanka
-
-*2024-01-30 18:57:15* · [`adalk`](https://www.ada.lk/breaking_news/මාලදිවයින-සහ-ශ්‍රී-ලංකාව-අතර--ගිලන්-ගුවන්-ප්‍රවාහන-සේවාවක්/11-407804) · `si`
-
-Captain Mohammed Amimad (CAPT), Maldives, Transport and Aviation Services (CAPT). A special discussion was held between the Mohamed Ameen and Minister Nimal Siripala de Silva today (30) this morning.
-
-The people of the Maldives have discussed the cause of the ambulance transport service to Sri Lanka to be treated due to injuries and illnesses.
-
-The Maldivian Aviation Minister said that the Maldives had taken into India to take immediate treatment, but the Maldives has decided to send them to the hospital in Sri Lanka.
-
-Ministers discussed at length from the Katunayake airport to the Katunayake Airport, from the Maldives from the Maldives and Katunayake Airport on March 1.
-
-Minister Nimal Siripala de Silva was given to the authorities of the airport and the Civil Aviation Authoror to establish a special unit at the Katunayake Airport.Adached to S. Therachandra. It was decided to start a similar service between the Ratmalana Airport and the Malaysia.
-
-◼️
-
-[Data](articles/0ce6b415.json)
-
-[Extended Data](ext_articles/0ce6b415.ext.json)
-
----
-
-### Two foreigners die in a terrible accident
-
-*2024-01-30 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192755) · `si`
-
-Two foreign people were killed in a motorcycle while collision with a motorcycle while collision with a bus on the Galle Matara main road.
-
-◼️
-
-[Data](articles/ad26ec1f.json)
-
-[Extended Data](ext_articles/ad26ec1f.ext.json)
-
----
-
-### Measures afoot to send 10,000 Sri Lankan workers to Japan – State Minister
-
-*2024-01-30 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/96861/measures-afoot-to-send-10000-sri-lankan-workers-to-japan-state-minister) · `en`
-
-State Minister of Social Empowerment, Anupa Pasqual, unveiled a multi-pronged approach to foster national stability and prosperity during a press briefing held at the Presidential Media Centre (PMC) on the theme ‘Collective Path to a Stable Country’ today (30) focused on empowering vulnerable populations, creating foreign employment opportunities and enhancing skills development.
-
-Expressing optimism for a brighter future, State Minister Anupa Pasqual unveiled a comprehensive plan, “New Village, New Country, Entrepreneurial State,” that aims to unlock the potential of 1.2 million needy families and propel them towards economic independence.
-
-Recognizing the potential of international opportunities, Pasqual mentioned about the plans to send 10,000 individuals proficient in Japanese to secure jobs abroad. This initiative leverages existing language skills to open doors to lucrative employment options in a new market.
-
-...
-
-[Data](articles/85c08f77.json)
-
-[Extended Data](ext_articles/85c08f77.ext.json)
-
----
-
-### Vehicle permit to ministries
-
-*2024-01-30 18:51:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சுகளுக்கு-வாகன-அனுமதி/175-332366) · `ta`
-
-The Cabinet has approved the importation of vehicles for the Ministry of Ports, Shipment and Aviation and Education.
-
-The government has temporarily suspended the import of motor vehicles except construction vehicles and ambulances to reduce the pressure on the foreign exchange market.
-
-However, in December last year, the Cabinet approved the requests of the ports, shipping, air transport and education ministries to import vehicles.
-
-◼️
-
-[Data](articles/fc1081a8.json)
-
-[Extended Data](ext_articles/fc1081a8.ext.json)
-
----
-
-### Another 10000 operations opens Japanese job door
-
-*2024-01-30 18:50:56* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-10000කට-ජපන්-රැකියා-දොර-ඇරෙයි/11-407803) · `si`
-
-State Minister, State Minister (Colombo-Lankapuvath) Under the concept of a new village, a new country entrepreneurship "," State Minister (Colombow)
-
-The public minister said that 10,000 persons who were able to abroad the Japanese Language Proficiency Examination and another 100,000 foreign employment will be provided this year.
-
-Social Empowerment of State Minister Forever Minister Pasiyasulle made this statement participating at a press conference held at the Presidential Media Center today (30) at the Presidential Media Center.
-
-State Minister further said, "State Minister further said:
-
-The main function of this year is to give the beneficiaries of the Social Security Methodology, which is twenty million. Under the concept of a new village new country, a new country entrepreneur, "is also expected to empower the poverty and extreme poverty families. This year, three million will be empowered this year.
-
-...
-
-[Data](articles/19e5f341.json)
-
-[Extended Data](ext_articles/19e5f341.ext.json)
-
----
-
-### Another 10000 opens Japanese language door
-
-*2024-01-30 18:50:56* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-10000කට-ජපන්-භාෂා-දොර-ඇරෙයි/11-407803) · `si`
-
-State Minister, State Minister (Colombo-Lankapuvath) Under the concept of a new village, a new country entrepreneurship "," State Minister (Colombow)
-
-The public minister said that 10,000 persons who were able to abroad the Japanese Language Proficiency Examination and another 100,000 foreign employment will be provided this year.
-
-Social Empowerment of State Minister Forever Minister Pasiyasulle made this statement participating at a press conference held at the Presidential Media Center today (30) at the Presidential Media Center.
-
-State Minister further said, "State Minister further said:
-
-The main function of this year is to give the beneficiaries of the Social Security Methodology, which is twenty million. Under the concept of a new village new country, a new country entrepreneur, "is also expected to empower the poverty and extreme poverty families. This year, three million will be empowered this year.
-
-...
-
-[Data](articles/b4f7f1a9.json)
-
-[Extended Data](ext_articles/b4f7f1a9.ext.json)
-
----
-
-### Air ambulance service between Maldives-Sri Lanka to begin on March 01
-
-*2024-01-30 18:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Air-ambulance-service-between-Maldives-Sri-Lanka-to-begin-on-March-01/108-275991) · `en`
-
-Colombo, Jan 30 (Daily Mirror) - An air ambulance service between the Maldives and the Bandaranaike International Airport (BIA) will start on March 1 this year as part of Phase I of the programme, Ports, Shipping and Aviation Minister Nimal Siripala de Silva said.
-
-The announcement was made following a special meeting between the Maldives Transport and Aviation Services Minister Capt. Mohamed Ameen and Minister Nimal Siripala de Silva at the Ministry office today with the aim of initiating an air ambulance service between the two countries.
-
-The service will enable Maldivian citizens to arrive promptly in Sri Lanka for urgent medical treatment in cases of accidents, illnesses and other health emergencies. Previously, Maldivian citizens were transported to India for emergency medical care.
-
-...
-
-[Data](articles/d0aa9cf4.json)
-
-[Extended Data](ext_articles/d0aa9cf4.ext.json)
-
----
-
-### Minimum speed limit on high -speed highways; ball
-
-*2024-01-30 18:44:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலைகளில்-குறைந்தபட்ச-வேக-வரம்பு-பந்துல/175-332365) · `ta`
-
-Transport Minister Bandula Gunawardena today said that steps are being taken to impose minimum speed limitations on highways due to accidents caused by slow -going vehicles.
-
-He said at a media briefing announcing the weekly cabinet decisions that the maximum speed limit was 100 kilometers per hour.
-
-He said most of the accidents occur when slowing down the slow -moving vehicles and that it is important to set the minimum speed limit to prevent such accidents.
-
-The Minister added that discussions have been held with the relevant companies such as departmental experts and the police, and that the new rules and regulations will be issued within two weeks of the Gazette Notification.
-
-◼️
-
-[Data](articles/6ca983d6.json)
-
-[Extended Data](ext_articles/6ca983d6.ext.json)
-
----
-
-### Our Ivan, who will wide New Zealand and New Zealand Youth Players
-
-*2024-01-30 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192754) · `si`
-
-This time the Youth World Cup will be held in South Africa.
-
-Oscar Jackson, who did not have more love for cricket, had revealed to the media about its cricket past.
-
-He said that Martin saw the guther batting in 2015 and that cricket was emerged.
-
-He also specifically mentioned a Sri Lankan who helped him to come far.
-
-It is Ivan Tissera is a former player in Bloomfield Sports Club.
-
-"Ivan is my coach. Often he was the one who sees me single training. He gave me mentally and technology energy he ... "
-
-Ivan, who served as a youth trainer of the Wellington cricket school, was soared in 2022 years later.
-
-What is important
-
-◼️
-
-[Data](articles/2834b568.json)
-
-[Extended Data](ext_articles/2834b568.ext.json)
-
----
-
-### SJB protest tear-gassed...
-
-*2024-01-30 18:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/SJB-protest-tear-gassed/110-275993) · `en`
-
-Police used water cannons and tear gas to disperse Samagi Jana Bala Wegaya (SJB) protestors near the public library in Colombo. Pix by Pradeep Dilruskshana
-
-◼️
-
-[Data](articles/daf5c4f6.json)
-
-[Extended Data](ext_articles/daf5c4f6.ext.json)
-
----
-
-### Canadian Tamil Congress Office in Toronto Broken Into and Set on Fire by Unknown Persons on 27 January 2024 Morning;Canadian Tamil Congress Condemns Attack on Office; Urges Community Unity Against Hate
-
-*2024-01-30 18:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83521) · `en`
-
-(Text of Press Release Issued by the  Canadian Tamil Congress (CTC) on January 29, 2024)
-
-It is with regret we inform our members, supporters and well-wishers that Canadian Tamil Congress (CTC) office was broken into and set on fire on early morning of January 27, 2024 by unidentified individuals.
-
-This reprehensible act appears to be motivated by hate, posing a stark contrast to the very values that brought many of our community members to Canada—peace, security, and freedom from violence.
-
-At CTC, we have always stood for inclusivity, diversity, and fostering a welcoming environment for all members of our community. It is deeply distressing to witness such a targeted act of hostility against our values and the principles we hold dear.
-
-CTC is working with local law enforcement agencies, who are actively investigating the incident. We are committed to ensuring that the perpetrators are swiftly brought to justice.
-
-...
-
-[Data](articles/40847494.json)
 
 ---

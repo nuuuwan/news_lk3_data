@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 22:17:16**
+As of **2024-01-31 22:33:39**
 
 ## Newspaper Stats
 
-*Scraped **3,933** Articles*
+*Scraped **3,934** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 247
 adalk | 349
 virakesarilk | 440
 adaderanasinhalalk | 452
-adaderanalk | 495
+adaderanalk | 496
 tamilmirrorlk | 502
 dailymirrorlk | 540
 
@@ -26,7 +26,7 @@ dailymirrorlk | 540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,927 (99.8%) of 3,933 articles have been extended.
+3,933 (100.0%) of 3,934 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ With regard to the ongoing investigations related to the substandard Immunoglobu
 
 [Data](articles/5c4f31b5.json)
 
+[Extended Data](ext_articles/5c4f31b5.ext.json)
+
 ---
 
 ### CPC fuel prices revised from tonight
@@ -72,6 +74,8 @@ A litre of Lanka Kerosene (Rs. 236) has been increased by Rs. 7, and its new ret
 
 [Data](articles/34455012.json)
 
+[Extended Data](ext_articles/34455012.ext.json)
+
 ---
 
 ### SJB vows to file Fundamental Rights petition against Tiran Alles
@@ -89,6 +93,8 @@ The MP said the government was attempting to suppress public protests using the 
 ◼️
 
 [Data](articles/02799f1c.json)
+
+[Extended Data](ext_articles/02799f1c.ext.json)
 
 ---
 
@@ -113,6 +119,26 @@ The price of a liter of Lanka Super Diesel 4 of Sri Lanka has also reduced the p
 [Data](articles/7a6b9985.json)
 
 [Extended Data](ext_articles/7a6b9985.ext.json)
+
+---
+
+### Fuel prices revised
+
+*2024-01-31 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/96899/fuel-prices-revised) · `en`
+
+The Ceylon Petroleum Corporation (Ceypetco) announced that fuel prices will be revised with effect from midnight today (January 31).
+
+Accordingly, the price of Petrol Octane 92 will be increased by Rs. 05 to Rs. 371 per litre while Petrol Octane 95 is to be reduced by Rs. 08 to Rs. 456 per litre.
+
+Auto Diesel has been increased by Rs. 05 to Rs. 363 while Super Diesel has been reduced by Rs. 07 to Rs. 468.
+
+Meanwhile, the price of Kerosene will be increased by Rs. 26 up to Rs. 262 per litre.
+
+Meanwhile, Lanka IOC has also decided to increase fuel prices in line with the new Ceypetco prices.
+
+◼️
+
+[Data](articles/f23c9977.json)
 
 ---
 
@@ -150,6 +176,8 @@ The establishment said it had conducted its own tests on the same batch of procu
 
 [Data](articles/f84423a3.json)
 
+[Extended Data](ext_articles/f84423a3.ext.json)
+
 ---
 
 ### Police arrest five activists protesting for Keheliya’s arrest over immunoglobulin case
@@ -165,6 +193,8 @@ Police Spokesman DIG Nihal Thalduwa confirmed that the Minister and Additional S
 ...
 
 [Data](articles/24142ed9.json)
+
+[Extended Data](ext_articles/24142ed9.ext.json)
 
 ---
 
@@ -249,6 +279,8 @@ The Colombo Plan and Sri Lanka Ports Authority signed a letter of intent at the 
 ...
 
 [Data](articles/0353eba1.json)
+
+[Extended Data](ext_articles/0353eba1.ext.json)
 
 ---
 
@@ -2027,21 +2059,5 @@ Accordingly, the price of 1 kg of Nelly has increased at 1200 rupees, 1 kg of re
 [Data](articles/6ae43fa4.json)
 
 [Extended Data](ext_articles/6ae43fa4.ext.json)
-
----
-
-### Inflation is high
-
-*2024-01-31 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192791) · `si`
-
-In January 2024, the country's inflation rose to 6.4 year 2024 depending on the Colombo Consumer Price Index.
-
-Meanwhile, food inflation increased to 3.3% in January 2024.
-
-◼️
-
-[Data](articles/2e28bd28.json)
-
-[Extended Data](ext_articles/2e28bd28.ext.json)
 
 ---

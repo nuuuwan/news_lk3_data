@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 21:17:20**
+As of **2024-01-31 21:33:00**
 
 ## Newspaper Stats
 
-*Scraped **3,921** Articles*
+*Scraped **3,924** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,63 @@ newsfirstlk | 247
 adalk | 349
 virakesarilk | 440
 adaderanasinhalalk | 450
-adaderanalk | 493
+adaderanalk | 495
 tamilmirrorlk | 501
-dailymirrorlk | 533
+dailymirrorlk | 534
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,921 (100.0%) of 3,921 articles have been extended.
+3,921 (99.9%) of 3,924 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### New Serjeant-at-Arms of Parliament appointed
+
+*2024-01-31 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96898/new-serjeant-at-arms-of-parliament-appointed) · `en`
+
+Mr. Kushan Sampath Jayaratne has assumed duties as the 7th Serjeant-at-Arms of the Parliament of Sri Lanka this morning (31), upon the retirement of Narendra Fernando, who served as the 6th Serjeant-at-Arms of the Parliament, on Tuesday (30).
+
+The retired Serjeant-at-Arms Narendra Fernando traditionally handed over the Mace and the Sword of the Serjeant-at-Arms to the new Serjeant-at-Arms Kushan Sampath Jayaratne last morning (30) near the Silver Door which leads to the Parliament Chamber, the Parliamentary Communications Department said in a statement.
+
+Mr. Jayaratne has served in the Sri Lanka Navy from 1994 to 2007. In particular, he has engaged in the operations affiliated to the Fast Attack Craft Flotilla for a long-time during duty. Later in the year 2007, he joined the service of the Parliament of Sri Lanka as an Assistant Serjeant-at-Arms and then in 2018 he was promoted to the position of Deputy Serjeant-at-Arms, the statement mentioned.
+
+...
+
+[Data](articles/954d5687.json)
+
+---
+
+### Charges for issuing passports under normal service increased
+
+*2024-01-31 20:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Charges-for-issuing-passports-under-normal-service-increased/108-276067) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - The Immigration and Emigration Department has decided to increase the fee for the issuing of passports under normal service, with effect from February 1, Immigration and Emigration Conroller General I.S.H.J. Illukpitiya said.
+
+Accordingly, the new fee for the issue of passports under normal service will be Rs. 10,000. Earlier, the fee for the issue of passports under normal service was Rs. 5,000, he said.
+
+◼️
+
+[Data](articles/2b5483df.json)
+
+---
+
+### Fee for passport issuance doubled
+
+*2024-01-31 20:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96897/fee-for-passport-issuance-doubled-) · `en`
+
+The fee charged for the issuance of passports under the normal service has been increased, the Department of Immigration and Emigration said.
+
+The Controller General of Immigration and Emigration stated that accordingly, the fee for issuing passports under the normal service will be revised from Rs. 5,000 to Rs. 10,000 with effect from tomorrow (Feb. 01).
+
+◼️
+
+[Data](articles/46f495c1.json)
+
+---
 
 ### Sri Lankan crew rescued by Seychelles Coast Guard arrive on Mahe
 
@@ -2001,67 +2045,5 @@ Officials of the Mannar District Fisheries Department will be produced before th
 [Data](articles/c80908a3.json)
 
 [Extended Data](ext_articles/c80908a3.ext.json)
-
----
-
-### Jacqueline Fernandez knowingly used, enjoyed conman’s proceeds of crime, court told
-
-*2024-01-31 14:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jacqueline-Fernandez-knowingly-used-enjoyed-conmans-proceeds-of-crime-court-told/108-276046) · `en`
-
-Delhi, Jan 31 (PTI) - The Enforcement Directorate (ED) has told the Delhi High Court that Bollywood actor Jacqueline Fernandez, accused in a Rs 200 crore money laundering case, was knowingly involved in the possession and use of proceeds of crime of alleged conman Sukesh Chandrasekhar, news agency PTI reported.
-
-The probe agency alleged that evidence showed that the actor "had been enjoying, using and was in possession of the proceeds of crime" of Sukesh Chandrasekhar.
-
-This contention by the ED was made in an affidavit filed in response to Jacqueline Fernandez's plea that sought the cancellation of an FIR lodged against her in the money laundering case.
-
-The matter was listed before Justice Manoj Kumar Ohri and Jacqueline Fernandez's counsel sought time to file a reply in response to the ED's contention. The matter will be next heard by the High Court on April 15.
-
-...
-
-[Data](articles/7279d737.json)
-
-[Extended Data](ext_articles/7279d737.ext.json)
-
----
-
-### Three new faces for Afghanistan Test match
-
-*2024-01-31 14:53:18* · [`adalk`](https://www.ada.lk/breaking_news/ඇෆ්ගනිස්ථානයට-එරෙහි-ටෙස්ට්-තරගයට-නවක-මුහුණු-තුනක්/11-407822) · `si`
-
-Sri Lanka Test squad has been announced for the tourist group with the tourist group.
-
-This is the first Test squad named as Upul Competition. This is also the first Test against Sri Lanka's new Test leader Dananjaya Silva.
-
-Fast bowler Chamik Gunasekera, a fast bowler charmik Gunasekera, a pair of bowling players / batsman Lahiru Udrakra, Fast bowler Milan Ratnayake has been named.
-
-However, the opening batsman is not designated to Dilshan Madushanka and Kusal Perera.
-
-Sri Lanka Test squad - Dananjaya Silva (leader), Kusel Mendis, University of Sandara Samarawal, Kasal Mendis, Philaru, LahiruUdara and Chamik Gunasekera, Milan Ratnayake
-
-◼️
-
-[Data](articles/e1148a8b.json)
-
-[Extended Data](ext_articles/e1148a8b.ext.json)
-
----
-
-### Here is the order the judiciary given to Sanath Nishantha's case
-
-*2024-01-31 14:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192788) · `si`
-
-The Court of Appeal today (31) has ordered that the petitions filed against him on February 2st.
-
-These petitions were called before the Court of Appeal of Sobhitha Rajakaruna and Dhammika Ganepola.
-
-The court ordered that they were called on the 2nd to determine the course of action to be taken against the petitions of the petitions.
-
-The petitions were presented by the Sri Lanka Judicial Officers Association and two lawyers, Priylal Sirisena and Vijitha Kumara.
-
-◼️
-
-[Data](articles/8882f938.json)
-
-[Extended Data](ext_articles/8882f938.ext.json)
 
 ---

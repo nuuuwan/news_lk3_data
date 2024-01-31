@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 14:17:18**
+As of **2024-01-31 14:32:43**
 
 ## Newspaper Stats
 
-*Scraped **3,772** Articles*
+*Scraped **3,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ economynextcom | 203
 islandlk | 208
 newsfirstlk | 229
 dailyftlk | 243
-adalk | 338
-adaderanasinhalalk | 424
-virakesarilk | 425
+adalk | 339
+virakesarilk | 427
+adaderanasinhalalk | 429
 adaderanalk | 480
 tamilmirrorlk | 483
 dailymirrorlk | 502
@@ -26,11 +26,51 @@ dailymirrorlk | 502
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,772 (100.0%) of 3,772 articles have been extended.
+3,772 (99.8%) of 3,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### மன்னாரில் இரு மோட்டார் சைக்கிள்கள் மோதி விபத்து ; இளம் தாய் காயம்
+
+*2024-01-31 13:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175235) · `ta`
+
+மன்னார் நானாட்டான் பகுதியில் பஸ் நிலையத்தின் முன்பாக உள்ள பிரதான வீதியில் இன்று புதன்கிழமை (31) நண்பகல் 12 மணியளவில் இரு மோட்டார் சைக்கிள்கள் மோதி விபத்துக்குள்ளாகியுள்ளது.
+
+குறித்த விபத்தில் இளம் தாய் ஒருவர் காயமடைந்து நானாட்டான் பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+குறித்த விபத்தில் காயமடைந்த இளம் தாய் நானாட்டான் அச்சங்குளம் கிராமத்தை பிறப்பிடமாகவும்  அரிப்பு துறையில்  வசிப்பவர் என்று தெரிய வருகிறது.
+
+அரிப்புத்துறை பகுதியிலிருந்து வங்காலை நோக்கி ஆண் ஒருவர் செலுத்தி வந்த மோட்டார் சைக்கிளும் நாட்டான் பஸ் தரிப்பிடத்தில் இருந்து அரிப்பு துறை நோக்கி குழந்தை ஒன்றுடன் குறித்த இளம் தாய் பயணித்த மோட்டார் சைக்கிளும் மோதி விபத்துக்குள்ளாகியது.
+
+குறித்த விபத்தில் தாய் காயங்களுக்கு உள்ளாகிய போதும் குழந்தை காயம் எதுவுமின்றி தெய்வாதீனமாக காப்பாற்றப்பட்டுள்ளார்.
+
+காயமடைந்த தாய் மற்றும் மகள் இருவரும் அருகில் உள்ள நானாட்டான் பிரதேச வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/886d29b2.json)
+
+---
+
+### මැලේසියාවේ නව රජු  දිවුරුම් දෙයි
+
+*2024-01-31 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192787) · `si`
+
+මැලේසියාවේ නව රජු ලෙස ජොහෝර්හි පාලක සුල්තාන් ඊබ්‍රාහිම් ඉස්කන්දාර් (Sultan Ibrahim Sultan Iskandar) දිවුරුම් දී තිබේ.
+
+ඒ අනුව ඔහු මැලේසියාවේ 17 වන රජු ලෙස රාජ්‍යත්වයට පත්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+රාජ්‍යත්වයට පත් වීමට අදාළ උත්සවය අද (31) පවත්වා ඇති අතර ඒ සඳහා මැලේසියානු අග්‍රාමාත්‍ය අන්වර් ඊබ්‍රාහිම් ඇතුළු පිරිසක් එක්ව තිබේ.
+
+සුල්තාන් ඊබ්‍රාහිම් ඉස්කන්දාර් මැලේසියාවේ දකුණු ප්‍රාන්තයෙන් රාජ්‍යත්වයට පත්වු දෙවන පාලකයා බව විදෙස් වාර්තා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/fffb150f.json)
+
+---
 
 ### India’s Jio and China’s Gortune pre-qualify for SLT stake bid
 
@@ -49,6 +89,88 @@ The Finance Ministry’s State-Owned Enterprise Restructuring Unit (SRU) state t
 [Data](articles/cc4396b6.json)
 
 [Extended Data](ext_articles/cc4396b6.ext.json)
+
+---
+
+### විරෝධය නොතකා ජනපති කැලණිය සරසවියට
+
+*2024-01-31 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192786) · `si`
+
+ඒ කැලණිය විශ්වවිද්‍යාලයේ පාලි හා බෞද්ධ අධ්‍යයන ආයතනයේ නව ගොඩනැඟිලි පරිශ්‍රය විවෘත කිරීම වෙනුවෙන් පැවති උත්සවයට සහභාගී වීම සඳහාය.
+
+ඒ අනුව නව ගොඩනැගිලි පරිශ්‍රය අද (31) පෙරවරුවේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් විවෘත කර තිබේ.
+
+ජනාධිපතිවරයාගේ පැමිණීමට විරෝධය පළ කරමින් කැලණිය විශ්වවිද්‍යාලයේ සිසුන් විරෝධතාවක නිරත වු අතර පෙරේදා රාත්‍රීයේ ඔවුන් කොළඹ - මහනුවර ප්‍රධාන මාර්ගය අවහිර කරමින් සිදුකළ විරෝධතාවය විසුරුවා හැරීමට පොලීසියට කඳුළු ගෑස් ප්‍රහාර එල්ල කිරීමට සිදුවුණි.
+
+කෙසේවෙතත් අනතුරුව සිසුන් එම ස්ථානයෙන් විසිර ගියද ඔවුන් ඊයේ සවස් වන තුරුම විශ්වවිද්‍යාල පරිපාලන ගොඩනැගිල්ලකට කිසිදු පාර්ශවයකට ඇතුළු වීමට ඉඩ ලබානොදී විරෝධතාවක නිරතව සිටියේය.
+
+◼️
+
+[Data](articles/373318bf.json)
+
+---
+
+### ஒரு கையால் ராஜபக்சர்களை அணைத்தபடி மறுகையால் எம்மை அழைக்காதீர்கள் - புதிய கூட்டணிகள் பற்றி மனோ
+
+*2024-01-31 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175227) · `ta`
+
+ஒரு கையால் ராஜபக்சர்களை அணைத்தபடி மறுகையால் எம்மை அழைக்காதீர்கள் - புதிய கூட்டணிகள் பற்றி மனோராஜபக்சர்களின் அட்டூழியங்களை மன்னிக்க நாம் தயார் இல்லை. ஆகவே ஒரு கையால் ராஜபக்சர்களை கட்டி அணைத்தப்படி மறுகையால் எம்மை சுட்டி அழைக்க வேண்டாம். நாம் இன்று இருக்கும் இடத்தில் செளக்கியமாக இருக்கிறோம் என தமிழ் முற்போக்கு கூட்டணி தலைவரும், கொழும்பு மாவட்ட நாடாளுமன்ற உறுப்பினருமான மனோ கணேசன் தெரிவித்தார்.
+
+நாட்டில் உருவாகிவரும் புதிய கூட்டணிகளிடமிருந்து தமது அணியை நோக்கி வரும் அழைப்புகள் பற்றி,  தென்கொழும்பு கட்சி அலுவலகத்தில் நடத்திய ஊடக சந்திப்பில் மனோ எம்பி மேலும் கூறியுள்ளதாவது,
+
+கோட்டாபய ராஜபக்ச போனாலும், அவரது பாவத்தின் நிழல் போகவில்லை. சட்டப்படி கோட்டாபய ராஜபக்ச 16ம் திகதி நவம்பர் 2019 தேர்தலில் பெற்ற மக்கள் ஆணையுடன்தான் இந்த அரசு நடக்கிறது. அந்த பாவத்தில் எமக்கு பங்கு வேண்டாம்
+
+...
+
+[Data](articles/ed4f68c4.json)
+
+---
+
+### ශ්‍රී ලංකා ක්‍රිකට් සංචිතය නම් කෙරේ
+
+*2024-01-31 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192785) · `si`
+
+ඇෆ්ගනිස්තානය සමග සිකුරාදා ආරම්භ වීමට නියමිත ටෙස්ට් තරගය සඳහා ක්‍රීඩකයින් 16 දෙනෙකුගෙන් සමන්විත ශ්‍රී ලංකා සංචිතය නම් කර තිබේ.
+
+ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පැවසුවේ, එම සංචිතය සඳහා ක්‍රීඩා අමාත්‍යවරයාගේ අනුමැතිය ලැබුණු බවය.
+
+◼️
+
+[Data](articles/edaf70db.json)
+
+---
+
+### ටෙලිකොම් කොටස් ලබාගැනීමට චීන - ඉන්දියා සමාගම් දෙකක්
+
+*2024-01-31 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192784) · `si`
+
+ශ්‍රී ලංකා ටෙලිකොම් හි රජය සතු බහුතර කොටස් ලබාගැනීම සඳහා මේ වනවිට චීන සහ ඉන්දියානු සමාගම් දෙකක් සුදුසුකම් ලබාඇති බව මුදල්, ආර්ථික ස්ථායීකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යාංශය නිවේදනය කරයි.
+
+ඒ චීනයේ ගෝටියුන් ඉන්ටර්නැෂනල් ඉන්වෙස්ට්මන්ට් හෝල්ඩිංග්ස් සහ ඉන්දියාවේ ජියෝ ප්ලැට්ෆෝර්ම් යන සමාගම් දෙක ය.
+
+ශ්‍රී ලංකා ටෙලිකොම් ආයතනයේ රජය සතු 50.23% කොටස් විකුණා දැමීම අවශ්‍ය පියවර ගනිමින් තිබේ.
+
+ටෙලිකොම් ආයතනයේ බහුතර කොටස් මිලදී ගැනීම සඳහා ඉන්දියාවේ ජියෝ ප්ලැට්ෆෝර්ම් සමාගම සහ චීනයේ ගෝටියුන් ඉන්ටර්නැෂනල් ඉන්වෙස්ට්මන්ට් හෝල්ඩිංග්ස් සමාගම සහ එක්සත් රාජධානියේ ලයිකා සමූහයට අයත් පෙට්ටිගෝ කොමර්සියෝ ඉන්ටර්නැෂනල් සමාගම ඉදිරිපත් වී සිටියේය.
+
+එහෙත් මුදල් අමාත්‍යාංශයේ විශේෂ ව්‍යාපෘති කමිටුව සහ කැබිනට් මණ්ඩලය පත්කළ විශේෂ සාකච්ඡා කමිටුව ටෙලිකොම් මිලදි ගැනීම සඳහා පූර්ව සුදුසුකම් සහිත තරගකාරී සමාගම් ලෙස ජියෝ ප්ලැට්ෆෝර්ම් සමාගම සහ චීනයේ ගෝටියුන් ඉන්ටර්නැෂනල් ඉන්වෙස්ට්මන්ට් හෝල්ඩිංග්ස් සමාගම තෝරාගෙන තිබේ.
+
+ජියෝ ප්ලැට්ෆෝර්ම් සමාගම අයත්වන්නේ ඉන්දියාවේ ප්‍රකෝටිපති ව්‍යාපාරික මුකේෂ් අම්බානිගේ රිලායන්ස් ව්‍යපාරයට ය.
+
+...
+
+[Data](articles/79e65b98.json)
+
+---
+
+### රාජගිරියේ බිළිඳු මළසිරුරක්
+
+*2024-01-31 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192783) · `si`
+
+මළසිරුර තිබූ ස්ථානයේ නවතා තිබුණු කාර් රථයක ලේ පැල්ලම්ද දක්නට ලැබෙන බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/73e8f209.json)
 
 ---
 
@@ -1144,6 +1266,24 @@ The order of rotation among the sultans was originally determined by seniority, 
 
 ---
 
+### උරුමය යටතේ ඔප්පු 10000ක් සකස් කර අවසන්
+
+*2024-01-31 10:17:31* · [`adalk`](https://www.ada.lk/breaking_news/උරුමය-යටතේ-ඔප්පු-10000ක්-සකස්-කර-අවසන්/11-407818) · `si`
+
+ජනතාවගේ ඉඩම් අයිතිය සුරක්ෂිත කිරීම වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පය මත ක්‍රියාත්මක කරන උරුමය වැඩසටහනේ පළමු අදියර යටතේ ලබාදීමට නියමිත නිදහස් ඔප්පු දස දහස මේ වන විට සකස් කර අවසන්ව ඇතැයි සංචාරක හා ඉඩම් අමාත්‍යාංශය සඳහන් කරයි.
+
+එම සින්නක්කර ඔප්පු මේ වනවිට දිස්ත්‍රික් ලේකම් කාර්යාලවලට යොමු කිරීමට පියවර ගෙන ඇති බව ද සංචාරක හා ඉඩම් අමාත්‍යාංශයේ ලේකම් ඒච්. ඒම්.බී.පී. හේරත් මහතා පැවසීය.
+
+ජනාධිපති කාර්යාලයේ නිලධාරීන්, දිස්ත්‍රික් ලේකම්වරුන් හා ප්‍රාදේශිය ලේකම්වරුන් සමඟ මාර්ගගත ක්‍රමය ඔස්සේ ඊයේ (30) පැවැති සාකච්ඡාවකදී මෙම කරුණු අනාවරණය විය.
+
+උරුමය වැඩසටහනේ පළමු අදියර යටතේ ඔප්පු දස දහසක් ප්‍රදානය කිරීමේ ජාතික උත්සවය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් රන්ගිරි දඹුලු ක්‍රීඩාංගණයේදී ලබන පෙබරවාරි 05 වැනිදා පැවැත්වේ.
+
+...
+
+[Data](articles/3009ec73.json)
+
+---
+
 ### Delegation of United Nations FAO arrives in Sri Lanka
 
 *2024-01-31 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/96872/delegation-of-united-nations-fao-arrives-in-sri-lanka) · `en`
@@ -1921,137 +2061,5 @@ The Government deployed the military and the Police to parts of Colombo yesterda
 [Data](articles/2d8e874b.json)
 
 [Extended Data](ext_articles/2d8e874b.ext.json)
-
----
-
-### Three Parliament staffers arrested over sexual abuse allegations
-
-*2024-01-31 03:58:37* · [`dailyftlk`](https://www.ft.lk/news/Three-Parliament-staffers-arrested-over-sexual-abuse-allegations/56-757967) · `en`
-
-Three junior staff members employed at the Parliament were arrested by the Police yesterday in connection to allegations of abusing and harassing two female staffers in the housekeeping department of the institution.
-
-The arrests were carried out by investigators from the Sri Lanka Police Bureau for the Prevention of Abuse of Children and Women. This action followed the internal inquiry conducted by a committee led by Secretary General of Parliament Kushani Anusha Rohanadeera, who subsequently informed Acting IGP Deshabandu Tennekoon about their findings based on the advice received from the Attorney General. Following directives from the Acting IGP, the Bureau had investigated the incident. Subsequently, the two initial suspects were arrested, and based on statements obtained from them, a third suspect was also apprehended. The trio was brought before the Kaduwela Magistrates Court yesterday.
-
-...
-
-[Data](articles/bb5ffd5a.json)
-
-[Extended Data](ext_articles/bb5ffd5a.ext.json)
-
----
-
-### Court orders damages in historic ruling over defamatory SM post
-
-*2024-01-31 03:58:10* · [`dailyftlk`](https://www.ft.lk/news/Court-orders-damages-in-historic-ruling-over-defamatory-SM-post/56-757966) · `en`
-
-In a ground-breaking ruling, the Avissawella District Court granted damages to a medical practitioner, identified as dental surgeon Dr. Lakmal Kulasekara, on Monday after it determined that a social media post about the doctor, published by the defendant Sonali C. Jayasekara, was defamatory and false.
-
-According to the plaintiff, it was claimed that on 14 June 2021, Jayasekara posted a defamatory statement on the social media platform Facebook suggesting that the plaintiff had unethically charged fees from Jayasekara’s niece for a treatment conducted on 26 October 2019, at a private hospital in Colombo.
-
-...
-
-[Data](articles/3a5d38b8.json)
-
-[Extended Data](ext_articles/3a5d38b8.ext.json)
-
----
-
-### Adani Power achieves higher standards of excellence in 3Q FY24
-
-*2024-01-31 03:52:49* · [`dailyftlk`](https://www.ft.lk/business/Adani-Power-achieves-higher-standards-of-excellence-in-3Q-FY24/34-757965) · `en`
-
-Consolidated power sale volume at 21.5 Billion Units (BU) in Q3 FY24, up by 82% from 11.8 BU in Q3 FY23 due to improved power demand and larger installed capacity
-
-Adani Power Ltd., (APL), a part of Adani portfolio companies, recently announced the financial results for the third quarter ended at 31 December 2023.
-
-...
-
-[Data](articles/9b16dd49.json)
-
-[Extended Data](ext_articles/9b16dd49.ext.json)
-
----
-
-### One arrested with 4 kg of Kerala cannabis
-
-*2024-01-31 03:15:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-கிலோ-கேரள-கஞ்சாவுடன்-ஒருவர்-கைது/175-332386) · `ta`
-
-Based on the confidential information received by the Special Task Force Officers of Kilinochchi, the vehicle seized four kilograms of Kerala cannabis parcel inside the sky.
-
-In addition, they have arrested one of the suspects and handed over to the Kilinochchi police. Kilinochchi police are conducting further investigations into the incident. (A)
-
-◼️
-
-[Data](articles/7b87225a.json)
-
-[Extended Data](ext_articles/7b87225a.ext.json)
-
----
-
-### One arrested with 4 kg of Kerala cannabis
-
-*2024-01-31 03:15:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-கிலோ-கிராம்-கேரள-கஞ்சாவுடன்-ஒருவர்-கைது/175-332386) · `ta`
-
-Based on the confidential information received by the Special Task Force Officers of Kilinochchi, the vehicle seized four kilograms of Kerala cannabis parcel inside the sky.
-
-In addition, they have arrested one of the suspects and handed over to the Kilinochchi police. Kilinochchi police are conducting further investigations into the incident. (A)
-
-◼️
-
-[Data](articles/ac58e221.json)
-
-[Extended Data](ext_articles/ac58e221.ext.json)
-
----
-
-### Shout
-
-*2024-01-31 03:10:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்திக்-குத்தில்-ஒருவர்-பலி/175-332385) · `ta`
-
-The rhetoric between the two men ended yesterday in the Jaffna -Chunnakam area.
-
-Chandranathan Gopiraj (age 36) from Chunnakam, Kandarodai area has died.
-
-The rhetoric between the deceased and the other person. The man who was shouting at the Jaffna Teaching Hospital dies. (A)
-
-◼️
-
-[Data](articles/346ebd45.json)
-
-[Extended Data](ext_articles/346ebd45.ext.json)
-
----
-
-### Notification to submit a financial statement
-
-*2024-01-31 03:06:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிதி-அறிக்கையை-சமர்ப்பிக்குமாறு-அறிவிப்பு/175-332384) · `ta`
-
-All state institutions in the country should submit their annual financial report on or before February 28, the Auditor General said.
-
-The Auditor General of the Auditor General WBC will then distribute the essence of the Auditor's report to the company with the annual financial report.. Vikramaratne mentioned. (A)
-
-◼️
-
-[Data](articles/7e950ce1.json)
-
-[Extended Data](ext_articles/7e950ce1.ext.json)
-
----
-
-### Action to provide 10 thousand land confirmations
-
-*2024-01-31 03:02:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-ஆயிரம்-காணி-உறுதிகளை-வழங்க-நடவடிக்கை/175-332383) · `ta`
-
-According to President Ranil Wickremesinghe's concept to ensure the people's land rights, arrangements have been made to issue 10 thousand land guarantees under the 'Urithu' program.
-
-The Ministry of Tourism and Lands, HMPP Herath, said that these land guarantees have been sent to the Divisional Secretariats.
-
-This was stated in a discussion held yesterday with the Presidential Secretariat, District Secretaries and Divisional Secretaries through the Technical System. (A)
-
-◼️
-
-[Data](articles/e81ada0b.json)
-
-[Extended Data](ext_articles/e81ada0b.ext.json)
 
 ---

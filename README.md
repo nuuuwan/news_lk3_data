@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 19:17:06**
+As of **2024-01-31 19:32:41**
 
 ## Newspaper Stats
 
-*Scraped **3,893** Articles*
+*Scraped **3,895** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,124 +17,180 @@ newsfirstlk | 241
 dailyftlk | 243
 adalk | 346
 virakesarilk | 440
-adaderanasinhalalk | 446
+adaderanasinhalalk | 447
 adaderanalk | 487
 tamilmirrorlk | 500
-dailymirrorlk | 525
+dailymirrorlk | 526
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,870 (99.4%) of 3,893 articles have been extended.
+3,888 (99.8%) of 3,895 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### கம்மன்பிலவின் பயணத்தடை தற்காலிகமாக நீக்கம்
+### Remove Daya Rathnayake from SJB or face consequences: SF tells Sajith
+
+*2024-01-31 18:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Remove-Daya-Rathnayake-from-SJB-or-face-consequences-SF-tells-Sajith/108-276058) · `en`
+
+Colombo, Jan. 31 (Daily Mirror)- Samagi Jana Balawegaya (SJB) MP Sarath Fonseka yesterday urged SJB leaders Sajith Premadasa to remove former Army Commander Daya Ratnayake from the party claiming that party would have to face consequences otherwise.
+
+He said most of the high ranking army officials who are partial to the SJB called him and expressed their disappointment over the appointment.
+
+When asked what action he would take if Ratnayake was not removed, Fonseka said he would not leave the party but would have to work against the appointment.
+
+Field Marshal Fonseka told journalists that others in the party are also frustrated about the way new comers are accommodated in the SJB.
+
+"Even SJB General Secretary Ranjith Madduma Bandara accepted that Daya Ratnayake is not a person whom the SJB should welcome.," he said.
+
+...
+
+[Data](articles/060b63f4.json)
+
+---
+
+### කෙහෙළිය ගෝ ගම නමින් විරෝධය පෑ 05ක් අත්අඩංගුවට
+
+*2024-01-31 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192807) · `si`
+
+කෙහෙළිය රඹුක්වැල්ල මහතා අත්අඩංගුවට ගන්නා ලෙස ඉල්ලා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඉදිරිපිට 'කෙහෙළිය ගෝ ගම' නමින් විරෝධතාවක නිරතවූ සිවිල් සංවිධාන ක්‍රියාකාරීන් 05දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ප්‍රශ්නගත හියුමන් ඉමියුනොග්ලොබියුලින් ඖෂධය සම්බන්ධ සිද්ධියට අදාළව ඔවුන් මෙලෙස විරෝධය දැක්වීය.
+
+අල්ලස දූෂණය නාස්තියට එරෙහි පුරවැසි බලය සහ මහජන සංවිධාන එකමුතුව කොළඹ අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුව ඉදිරිපිටදී අද (31) සාමකාමී සත්‍යග්‍රහයක් ආරම්භ කර තිබුණි.
+
+මේ අතර ප්‍රශ්නගත ප්‍රතිදේහ එන්නත සම්බන්ධයෙන් වූ නඩුවට අදාළව හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගෙන් දෙවන වරටත් ප්‍රකාශ ලබාගන්නා ලෙසද නීතිපතිවරයා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට දැනුම් දී ඇති බව වාර්තා වනවා.
+
+ඒ අනුව විමර්ශන නිලධාරීන් හිටපු සෞඛ්‍ය අමාත්‍යවරයාට දැනුම්දී තිබුණේ අද දිනය තුළ අපරාධ පරීක්ෂණය දෙපාර්තමේන්තුවට පැමිණ ප්‍රකාශයක් ලබාදෙන ලෙසය.
+
+කෙසේවෙතත් අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා අද වෙනත් නඩු කටයුත්තක් සඳහා කොළඹ මහාධිකරණ සංකීර්ණයට  පැමිණ සිටි අවස්තාවේ මාධ්‍යවේදීන් ඒ සම්බන්ධයෙන් ප්‍රශ්න කළේය.
+
+...
+
+[Data](articles/cf69f455.json)
+
+---
+
+### Kammanpila's travel ban is temporarily removed
 
 *2024-01-31 18:37:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்மன்பிலவின்-பயணத்தடை-தற்காலிகமாக-நீக்கம்/175-332438) · `ta`
 
-பாராளுமன்ற உறுப்பினர் உதய கம்மன்பில தனது கலாநிதிப் பட்டப்படிப்புக்காக சீனாவுக்குச் செல்ல கொழும்பு உயர் நீதிமன்றம் இன்று அனுமதி வழங்கியுள்ளது.
+The Colombo High Court today granted permission to visit China for his doctorate.
 
-2000 ஆம் ஆண்டில் இடம்பெற்றதாகக் கூறப்படும் 20 மில்லியன் ரூபா பண மோசடி பங்கு பரிவர்த்தனையைத் தொடர்ந்து தனக்கு விதிக்கப்பட்ட பயணத் தடையை தற்காலிகமாக நீக்குவதற்கு கொழும்பு உயர் நீதிமன்றத்தின் அனுமதியை அவர் கோரினார்.
+He demanded the permission of the Colombo High Court to temporarily lifted his travel ban following the alleged 20 million rupee fraudulent exchange transaction in 2000.
 
 ◼️
 
 [Data](articles/364163db.json)
 
+[Extended Data](ext_articles/364163db.ext.json)
+
 ---
 
-### கண்ணீர் புகைக்கு எதிராக ஐமச மனு
+### Plea
 
 *2024-01-31 18:34:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்ணீர்-புகைக்கு-எதிராக-ஐமச-மனு/175-332437) · `ta`
 
-நீதிமன்ற உத்தரவை மீறி ஐக்கிய மக்கள் சக்தியின் போராட்டத்தின் மீது கண்ணீர் புகை மற்றும் நீர்த்தாரை பிரயோகம் செய்தமைக்கு எதிராக ஐக்கிய மக்கள் சக்தி மனுவொன்றை தாக்கல் செய்யவுள்ளது.
+The United People's Power will file a petition against the use of tear gas and water over the United People's Power struggle despite the court order.
 
-தாக்குதல்களை நடத்துமாறு உத்தரவிட்ட பொது பாதுகாப்பு அமைச்சர் டிரான் அலஸ் மற்றும் காவல்துறை அதிகாரிகளுக்கு எதிராக, சட்டத்தையும் நீதிமன்ற தீர்ப்பையும் மதிக்கவில்லை எனக் குற்றஞ்சாட்டின்  அடிப்படை உரிமை மனு தாக்கல் செய்யவுள்ளதாக பாராளுமன்ற உறுப்பினர் ரஞ்சித் மத்தும பண்டார தெரிவித்துள்ளார்.
+Parliamentarian Ranjith Mathuma Bandara has said that he will file a fundamental rights petition for the public's defense minister, Tran Ales and the police officers, who have not respected the law and the court's decision.
 
-போராட்டத்தின் போது எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மற்றும் எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர்கள் மீது கண்ணீர்ப்புகை மற்றும் நீர்த் தாக்குதல்கள் நடத்தப்பட்டதாகவும்  மத்துமபண்டார குறிப்பிட்டார்.
+During the protest, Opposition Leader Sajith Premadasa and Opposition MPs had launched tear gas and water attacks.
 
-நாட்டின் எதிர்க்கட்சித் தலைவருக்குக் கூட அரசியல் செய்யும் உரிமையை தற்போதைய அரசாங்கம் பறித்துள்ளதாக கொழும்பு மார்க்ஸ் பெர்னாண்டோ மாவத்தையில் உள்ள எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்துத் தெரிவிக்கையில் அவர் இதனைக் குறிப்பிட்டுள்ளார்.
+He was speaking at a media briefing held at the Opposition Leader's office in Marx Fernando Mawatha, Marx Fernando, Colombo.
 
 ◼️
 
 [Data](articles/1faf433d.json)
 
+[Extended Data](ext_articles/1faf433d.ext.json)
+
 ---
 
-### சனத் நிஷாந்த மீதான வழக்கு பெப். 2 விசாரணை
+### Case on Sanath Nishantha. 2 Inquiry
 
 *2024-01-31 18:30:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்த-மீதான-வழக்கு-பெப்-2-விசாரணை/175-332436) · `ta`
 
-நீதிமன்றத்தை அவமதித்ததாக முன்னாள் இராஜாங்க அமைச்சர் சனத் நிஷாந்தவுக்கு எதிராக தாக்கல் செய்யப்பட்டுள்ள மனுக்களை பெப்ரவரி 2 ஆம் திகதி விசாரணைக்கு எடுத்துக் கொள்ளுமாறு மேன்முறையீட்டு நீதிமன்றம், இன்று (31) உத்தரவிட்டுள்ளது.
+The Court of Appeal today (31) ordered the hearing of petitions filed against former Minister of State Sanath Nishantha for insulting the court.
 
-இந்த மனுக்கள்  சோபித ராஜகருணா மற்றும் தம்மிக்க கணேபொல ஆகியோர் அடங்கிய மேன்முறையீட்டு நீதிமன்றநீதியரசர்கள் முன்னிலையில் இன்று (31)   விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+The petitions were taken up for hearing today (31) in the presence of the Court of Appeal, comprising Sobhitha Rajakaruna and Dhammika Ganepola.
 
-பிரதிவாதியான சனத் நிஷாந்த தற்போது இறந்துவிட்டதால், அவமதிப்பு மனுக்கள் தொடர்பாக எடுக்க வேண்டிய நடவடிக்கை குறித்து முடிவெடுப்பதற்காக எதிர்வரும் 2 ஆம் திகதி குறித்த வழக்கை விசாரணைக்கு அழைக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The court has ordered the hearing of the case on the 2nd of this month to make a decision on the action of contempt of petitions as the defendant Sanath Nishantha is currently dead.
 
-இலங்கை நீதித்துறை அதிகாரிகள் சங்கம் மற்றும் பிரியலால் சிறிசேன, விஜித குமார ஆகிய இரு சட்டத்தரணிகளினால் இந்த மனுக்கள் தாக்கல் செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+The petitions have been filed by the two lawyers of the Sri Lanka Judicial Officers Association and Priyal Sirisena and Vijitha Kumara.
 
 ◼️
 
 [Data](articles/2f847057.json)
 
+[Extended Data](ext_articles/2f847057.ext.json)
+
 ---
 
-### சனத் நிஷாந்த மீதான வழக்கு பெப்ரவரி 2 விசாரணைக்கு
+### The case against Sanath Nishantha for February 2
 
 *2024-01-31 18:30:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்த-மீதான-வழக்கு-பெப்ரவரி-2-விசாரணைக்கு/175-332436) · `ta`
 
-நீதிமன்றத்தை அவமதித்ததாக முன்னாள் இராஜாங்க அமைச்சர் சனத் நிஷாந்தவுக்கு எதிராக தாக்கல் செய்யப்பட்டுள்ள மனுக்களை பெப்ரவரி 2 ஆம் திகதி விசாரணைக்கு எடுத்துக் கொள்ளுமாறு மேன்முறையீட்டு நீதிமன்றம் இன்று (31) உத்தரவிட்டுள்ளது.
+The Court of Appeal today (31) ordered the hearing of petitions filed against former State Minister Sanath Nishantha for insulting the court.
 
-இந்த மனுக்கள் இன்று சோபித ராஜகருணா மற்றும் தம்மிக்க கணேபொல ஆகியோர் அடங்கிய மேன்முறையீட்டு நீதிமன்ற நீதிபதிகள் முன்னிலையில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+The petitions were taken up for hearing today in the presence of the Court of Appeal Court, comprising Sobhitha Rajakaruna and Dhammika Ganepola.
 
-பிரதிவாதியான சனத் நிஷாந்த தற்போது இறந்துவிட்டதால், அவமதிப்பு மனுக்கள் தொடர்பாக எடுக்க வேண்டிய நடவடிக்கை குறித்து முடிவெடுப்பதற்காக எதிர்வரும் 2 ஆம் திகதி குறித்த வழக்கை விசாரணைக்கு அழைக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The court has ordered the hearing of the case on the 2nd of this month to make a decision on the action of contempt of petitions as the defendant Sanath Nishantha is currently dead.
 
-இலங்கை நீதித்துறை அதிகாரிகள் சங்கம் மற்றும் பிரியலால் சிறிசேன, விஜித குமார ஆகிய இரு சட்டத்தரணிகளினால் இந்த மனுக்கள் தாக்கல் செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+The petitions have been filed by the two lawyers of the Sri Lanka Judicial Officers Association and Priyal Sirisena and Vijitha Kumara.
 
 ◼️
 
 [Data](articles/c05a98c2.json)
 
+[Extended Data](ext_articles/c05a98c2.ext.json)
+
 ---
 
-### கலஹா சந்தியில் கண்ணீர் புகைப்பிரயோகம்
+### Tears of tears at Galaha junction
 
 *2024-01-31 18:26:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கலஹா-சந்தியில்-கண்ணீர்-புகைப்பிரயோகம்/76-332435) · `ta`
 
-பேராதனை பல்கலைக்கழக பொது மாணவர் ஒன்றியத்தினால் புதன்கிழமை (31) முன்னெடுக்கப்பட்ட எதிர்ப்புப் பேரணியை கண்ணீர்ப்புகை குண்டு மற்றும் நீர்த்தாரை பிரயோகம் செய்து  பொலிஸார் கலைத்துள்ளனர்.
+The police have dissolved the protest rally by the Peradeniya University General Student Union on Wednesday (31).
 
-பல்கலைக்கழக மாணவர்கள் சுமார் ஆயிரம் பேர், கலஹா சந்திக்கு அருகில் பேராதனை வீதியினூடாக பிரவேசித்து கண்டி நோக்கிய ஆர்ப்பாட்ட பேரணியை ஆரம்பித்தனர்.இதன்போதே பேரணியை வழிமறித்து கண்ணீர்ப்புகை மற்றும் நீர்த்தாரை பிரயோகம் செய்யப்பட்டுள்ளது.
+About a thousand university students entered the Kandy -Kandy protest rally through the Peradeniya road near the Kalaha junction.
 
-பேராதனை தாவரவியல் பூங்காவை கடந்த பின்னர் நூற்றுக்கும் மேற்பட்ட பொலிஸார், பொலிஸ் வாகனங்களால் மறித்து, பேரணிக்கு இடையூறு ஏற்படுத்தினர்.
+After the Botanical Gardens, more than a hundred policemen, police vehicles, disrupted the rally.
 
-75 ஆண்டுகளுக்கும் மேலாக நாட்டை ஆண்ட ஆளும் வர்க்கம் நடைமுறைப்படுத்திய தொலைநோக்கு பார்வையற்ற நடவடிக்கைகளால் நாடு தற்போது அரசியல் மற்றும் பொருளாதார ஸ்திரமற்ற நிலைக்கு மாறி பல்வேறு துறைகளிலும் பல நெருக்கடிகள் ஏற்பட்டுள்ளன.
+The visionary actions implemented by the ruling class that ruled the country for more than 75 years have now caused many crises in various sectors and have changed political and economic instability.
 
-இதனால் பல்கலைக்கழக மாணவர்கள் மட்டுமின்றி ஏனைய மாணவர்களும் கல்வித்துறை தொடர்பான பல்வேறு பிரச்சினைகளுக்கு முகங்கொடுத்து பொதுமக்கள் மட்டுமின்றி பல்வேறு பிரச்சினைகளுக்கு முகங்கொடுக்க நேரிட்டுள்ளது.
+This has led to various issues related to the education sector, not only the university students but also the public.
+
+In this context, instead of solving these issues, the government, which was imposing taxes on the one hand, was even suppressing the right to express ideas.
 
 ...
 
 [Data](articles/e3d1345e.json)
 
+[Extended Data](ext_articles/e3d1345e.ext.json)
+
 ---
 
-### ආසියානු ක්‍රිකට් කවුන්සිලයේ සභාපති ධුරයට යළිත් ජේ ෂා
+### JH shah Shah again to the post of Asia Cricket Council
 
 *2024-01-31 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192806) · `si`
 
-තවත් වසරක කාලයක් සඳහා ආසියානු ක්‍රිකට් කවුන්සිලයේ සභාපති ධුරයට එහි වත්මන් සභාපති ඉන්දියාවේ ජේ ෂා අද (31) තේරී පත්කර ගැනුණි.
+The current Chairman of the Asia Cricket Council was appointed as the Chairman of the Asia Cricket Council for another period of one year (31).
 
-ඒ සඳහා ජේ ෂාගේ නම ආසියානු ක්‍රිකට් කවුන්සිල මහ සභා රැස්වීමට යෝජනා කර ඇත්තේ ශ්‍රී ලංකා ක්‍රිකට් සභාපති ශම්මි සිල්වා විසිනි.
+J Shah's name has proposed to attend the Asia Cricket Council meeting by Shammi Silva.
 
-ඔහුගේ එම යෝජනාවට ආසියානු ක්‍රිකට් සාමාජික රටවල් කිසිවක් විරෝධය දක්වා නොමැත.
+His proposal is not protesting against his proposal.
 
-ජේ ෂාගේ ආසියානු ක්‍රිකට් කවුන්සිල සභාපති ධුර කාලය දීර්ඝ කෙරුණු තෙවැනි අවස්ථාව මෙය වෙයි.
+This is the third time J Shah's Asian Cricket Council Chairman has been extended.
 
 ◼️
 
 [Data](articles/ee842cc7.json)
+
+[Extended Data](ext_articles/ee842cc7.ext.json)
 
 ---
 
@@ -173,6 +229,8 @@ However, the All Ceylon Nurses' Union, a prominent voice in the healthcare arena
 ◼️
 
 [Data](articles/978da531.json)
+
+[Extended Data](ext_articles/978da531.ext.json)
 
 ---
 
@@ -256,6 +314,8 @@ Civil society organizations have said it has a ‘chilling effect’ on free spe
 
 [Data](articles/a8d69c17.json)
 
+[Extended Data](ext_articles/a8d69c17.ext.json)
+
 ---
 
 ### Informed, Civilized Society Key to Economic Development – President
@@ -289,6 +349,8 @@ The segment has generally been highly profitable in recent years due to relative
 ...
 
 [Data](articles/fb86d64c.json)
+
+[Extended Data](ext_articles/fb86d64c.ext.json)
 
 ---
 
@@ -335,6 +397,8 @@ A bond maturing on 01.07.2032 closed at 13.40/60 percent from 13.70/90 percent. 
 ◼️
 
 [Data](articles/01495332.json)
+
+[Extended Data](ext_articles/01495332.ext.json)
 
 ---
 
@@ -498,6 +562,8 @@ Media reports last month suggested that Russia has expressed its keenness to get
 
 [Data](articles/9156550a.json)
 
+[Extended Data](ext_articles/9156550a.ext.json)
+
 ---
 
 ### Hatton student died his life
@@ -607,6 +673,8 @@ Shares of Sri Lanka Telecom Plc, which yesterday confirmed that its chairman and
 ...
 
 [Data](articles/5d5644e1.json)
+
+[Extended Data](ext_articles/5d5644e1.ext.json)
 
 ---
 
@@ -906,6 +974,8 @@ The bills will come into effect as the Recognition and Enforcement of Internatio
 
 [Data](articles/94f6da18.json)
 
+[Extended Data](ext_articles/94f6da18.ext.json)
+
 ---
 
 ### Speaker endorses certificate on two Bills
@@ -941,6 +1011,8 @@ A plan to cut Sri Lanka’s electricity tariffs after strong rainfall reduced ge
 ◼️
 
 [Data](articles/66c05412.json)
+
+[Extended Data](ext_articles/66c05412.ext.json)
 
 ---
 
@@ -1104,23 +1176,27 @@ In addition to this, the year-on-year inflation of the non-food group increased 
 
 ---
 
-### මසක් ඇතුළත ජනතාව එකතු කර ජනපති ගෙදර යවනවා
+### President sends the people in a month
 
 *2024-01-31 15:52:32* · [`adalk`](https://www.ada.lk/breaking_news/මසක්-ඇතුළත-ජනතාව-එකතු-කර-ජනපති-ගෙදර-යවනවා/11-407825) · `si`
 
-අධිකරණ තීන්දුවට එරෙහිව යමින් සාමකාමී උද්ඝෝෂණයට පහර දුන් පුද්ගලයන්ට එරෙහිව මූලික අයිතිවාසිකම් පෙත්සමක් ගොනු කරන බව සමගි ජන බලවේගයේ මහ ලේකම් පාර්ලිමේන්තු මන්ත්‍රී රංජිත් මද්දුමබණ්ඩාර මහතා පැවසීය.
+The General Secretary of the people MPs, Ranjith Madduma Bandara, said that he files a fundamental rights petition against the judicial decision.
 
-කොළඹ විපක්ෂනායක කාර්යාලයේ අද (31දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+He was speaking at a media briefing held at the Colombo Opposition Office today (31).
 
-මෙලෙස විරෝධය පළ කරමින් ආණ්ඩුවට සහ ජනාධිපතිට එරෙහිව පළමු වෙඩි මුරය තැබූ බවත්, තව මසක් තුළ නැවත ජනතාව එක්රැස් කර ආණ්ඩුව සහ ජනාධිපතිවරයා ගෙදර යැවීමට කටයුතු කරන බවත් හෙතෙම පැවසීය.
+The government and the President will be sent back home and send the masses in further shooting against the government and the president.
 
-එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී රංජිත් මද්දුමබණ්ඩාර මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+Speaking further MP Ranjith Madduma Bandara said:
 
-&මේ රජය, රනිල් රාජපක්ෂව ගෙදර යවන්න දස දහස් ගණනක ජනතාවක් කොළඹට රුස් වුණා. ඒ විරෝධතාවය ඉතා සාර්ථක විරෝධතාවයක් වුණා. මේකට හොඳටම බය වුණ රනිල් වික්‍රමසිංහ මහත්මයා ටිරාන් අලස්ගේ පොලීසිය යොදලා අනීතිකව, ම්ලේච්ඡ විදියට මේ සාමකාමී විරෝධතාවයට පහර දුන්නා. කඳුළු ගෑස් ගැහුවා.
+& This government has gone to Colombo to send Ranil Rajapaksa home. The protest was a successful protest. Renir Wickremesinghe, who was very scared of this, attacked this peaceful protest by Tiran Alles's police. Tear gas was hit.
+
+Not only that. Spent more than five of us. These won't stop us. The other is the other thing Tiran Alles tried to go to several courts. When the Kudanduwatta police went to the Fort Magistrate's Court, what magistrate said?He said that the Constitution has the opportunity to express protests and said that this cannot be given to the injunction.
 
 ...
 
 [Data](articles/7f8dc430.json)
+
+[Extended Data](ext_articles/7f8dc430.ext.json)
 
 ---
 
@@ -1299,6 +1375,8 @@ To maintain food security, farmers should be properly coordinated through instit
 ...
 
 [Data](articles/1a5d386f.json)
+
+[Extended Data](ext_articles/1a5d386f.ext.json)
 
 ---
 
@@ -1969,45 +2047,5 @@ Sri Lanka Cricket said that the approval of the Minister of Sports was given to 
 [Data](articles/edaf70db.json)
 
 [Extended Data](ext_articles/edaf70db.ext.json)
-
----
-
-### Two Chinese - Indian Companies to obtain Telecom Shares
-
-*2024-01-31 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192784) · `si`
-
-The Ministry of Finance, Economic Stabilization and National Policies Antiate that two Chinese and Indian companies are eligible to obtain the majority of the majority of Chinese parts of Sri Lanka Telecom.
-
-It was the two companies in China Gotun International Investment Holdings and Gio Platfarm in India.
-
-The government owned 50.23% of the government's government owned 50.23% shares is being taken.
-
-In order to purchase major parts of Telecom, the Giotun International Investment Holdings and Petigo Commerce Commissioner of the UK's Lyric Group in the UK was also present.
-
-However, the Special Project Committee of the Ministry of Finance and the Special discussion committee appointed by the Cabinet and the Cabinet appointment has been selected as pre-qualified companies.
-
-Geo Potiform begins the billionaire Business Mukh Ambani's Rilaay.
-
-The asset of the Geo Platphamorm is currently around US $ 107 billion.
-
-...
-
-[Data](articles/79e65b98.json)
-
-[Extended Data](ext_articles/79e65b98.ext.json)
-
----
-
-### Body of Rajagiriya
-
-*2024-01-31 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192783) · `si`
-
-It is reported that a car parked at the spot is found in the spot.
-
-◼️
-
-[Data](articles/73e8f209.json)
-
-[Extended Data](ext_articles/73e8f209.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 14:02:25**
+As of **2024-01-31 14:17:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 502
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,766 (99.8%) of 3,772 articles have been extended.
+3,772 (100.0%) of 3,772 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The Finance Ministry’s State-Owned Enterprise Restructuring Unit (SRU) state t
 ...
 
 [Data](articles/cc4396b6.json)
+
+[Extended Data](ext_articles/cc4396b6.ext.json)
 
 ---
 
@@ -72,19 +74,21 @@ The deceased’s relatives, however, raised suspicions pertaining to the circums
 
 ---
 
-### மிதிகம விபத்தில் இரு வெளிநாட்டவர் பலி :  லொறி, பஸ் சாரதிகள் கைது!
+### Two foreigners killed in accident
 
 *2024-01-31 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/175229) · `ta`
 
-மாத்தறை - கொழும்பு வீதியின் மிதிகம பிரதேசத்தில் இடம்பெற்ற விபத்தில் வெளிநாட்டுப் பிரஜைகள்  இருவர் உயிரிழந்த சம்பவம் தொடர்பில் பஸ் மற்றும் லொறியின் சாரதிகள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Police have arrested bus and lorry drivers in connection with the death of two foreign nationals
 
-நேற்று செவ்வாய்க்கிழமை (30)  இடம்பெற்ற  இந்தச்  சம்பவத்தில் பஸ் மற்றும் லொறி மோதிய  வெளிநாட்டவர்கள் இருவர் உயிரிழந்துள்ளனர். இவர்களில் ஒருவர் ரஷ்யப் பிரஜை என தெரிய வந்துள்ளது.
+Two foreigners were killed in a bus and lorry collision in the incident, which took place yesterday (30). One of them is known as a Russian citizen.
 
-இந்த இரு  வெளிநாட்டவர்களும்  சென்று கொண்டிருந்த மோட்டார் சைக்கிள்  மாத்தறையிலிருந்து கொழும்பு நோக்கி பயணித்த பஸ்ஸுடன் மோதிய நிலையில்  எதிரே வந்த லொறியும்  அவர்கள் மீது மோதியது.
+The motorcycle was traveling from Matara to Colombo with a bus traveling from Matara to Colombo.
 
 ◼️
 
 [Data](articles/8a2adf26.json)
+
+[Extended Data](ext_articles/8a2adf26.ext.json)
 
 ---
 
@@ -101,6 +105,8 @@ China and India Drive Upward Revision in IMF’s Asia-Pacific Growth Projection
 ◼️
 
 [Data](articles/05538756.json)
+
+[Extended Data](ext_articles/05538756.ext.json)
 
 ---
 
@@ -171,6 +177,8 @@ Sri Lankan authorities on Monday (29) apprehended two women suspected of aiding 
 ...
 
 [Data](articles/01aacaa8.json)
+
+[Extended Data](ext_articles/01aacaa8.ext.json)
 
 ---
 
@@ -914,17 +922,19 @@ Four paratroopers from SL Army and SLAF were injured last morning (30), during r
 
 ---
 
-### சாந்தனை அழைத்து வர டக்ளஸ் உறுதி
+### Douglas confirmed to bring Santhan to
 
 *2024-01-31 10:52:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனை-அழைத்து-வர-டக்ளஸ்-உறுதி/175-332392) · `ta`
 
-இந்தியாவின் முன்னாள் பிரதமர் ராஜீவ் காந்தி படுகொலை வழக்கில்  கைது செய்யப்பட்டு, விடுதலையாகிய சாந்தனை நாட்டிற்கு அழைத்து வருவது தொடர்பாக சம்மந்தப்பட்ட தரப்பினருடன் கலந்துரையாடி ஒரு சில தினங்களுக்குள் பதிலை பெற்றுத் தருவதாக அமைச்சர் டக்ளஸ் தேவானந்தா உறுதியளித்துள்ளார்.
+Minister Douglas Devananda has promised to get a response within a few days in consultation with the parties involved in the assassination of former Prime Minister Rajiv Gandhi and brought to the country.
 
-குறித்த வழக்கின் தீர்ப்பில் இருந்து விடுதலை செய்யப்பட்ட சாந்தன் சுகயீனம் காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ள நிலையில், அவரின் தாய் மற்றும் சகோதர்கள் அமைச்சர் டக்ளஸ் தேவானந்தாவை  செவ்வாய்க்கிழமை (30) சந்தித்து, சாந்தன் நாட்டிற்கு வருவதற்கான ஏற்பாடுகளை செய்து தருமாறு கேட்டுக் கொண்டுள்ளனர்.
+As Shantan, who was released from the verdict of the case, has been admitted to the hospital due to illness, her mother and sisters have met Minister Douglas Devananda on Tuesday (30) and asked for arrangements to come to Santhan.
 
 ◼️
 
 [Data](articles/b5e9ab30.json)
+
+[Extended Data](ext_articles/b5e9ab30.ext.json)
 
 ---
 
@@ -1238,23 +1248,25 @@ Marine insurance companies have reacted to the volatile situation by raising the
 
 ---
 
-### සනත් නිශාන්ත වෙනුවට ජගත් ප්‍රියංකරගේ නම ගැසට් කරයි
+### Jagath Priyankara's name gazettes instead of Sanath Nishantha
 
 *2024-01-31 09:55:07* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්ත-වෙනුවට-ජගත්-ප්‍රියංකරගේ-නම-ගැසට්-කරයි/11-407817) · `si`
 
-රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ අභාවයෙන් පුරප්පාඩු වූ පාර්ලිමේන්තු මන්ත්‍රී ධුරය සඳහා එල්.කේ. ජගත් ප්‍රියංකර මහතා පත් කිරීමට අදාළ අතිවිශේෂ ගැසට් නිවේදනය නිකුත් කර තිබේ.
+LK's for the death of Mr. Sanath Nishantha's death to the post of vacant parliamentary seat. The Gazette notification for the appointment of Jagath Priyankara has been issued.
 
-2020 වසරේ පැවති පාර්ලිමේන්තු මැතිවරණයේ දී පුත්තලම දිස්ත්‍රික්කයෙන් ශ්‍රී ලංකා පොදුජන පෙරමුණට මන්ත්‍රී ආසන 05ක් හිමිවූ අතර මනාප ලැයිස්තුවේ ප්‍රථමයා වූයේ අභාවප්‍රාප්ත සනත් නිශාන්ත මහතාය.
+In the 2020 parliamentary election, the Sri Lanka Crown Front received five seats from the Puttalam District and the first was the first Sanath Nishantha.
 
-සෙසු සිව්දෙනා ලෙස ප්‍රියංකර ජයරත්න, අරුන්දික ප්‍රනාන්දු, චින්තක අමල් මායාදුන්න සහ අශෝක ප්‍රියන්ත යන අය එම පක්ෂයෙන් පාර්ලිමේන්තුවට තේරී පත්විය. ජගත් ප්‍රියංකර මහතා මනාප  ලැයිස්තුවේ 6වන ස්ථානයට පත්ව තිබිණි.
+Fantha was Four of the four. Jagath Priyankara was the 6th in the preferential votes list.
 
-ඒ අනුව සනත් නිශාන්ත මහතාගේ අභාවයෙන් පුරප්පාඩු වූ මන්ත්‍රී ධුරය සඳහා ජගත් ප්‍රියංකර මහතාට හිමිවෙයි. ඔහු විමල් වීරවංශ මහතාගේ නායකත්වයෙන් යුත් ජාතික නිදහස් පෙරමුණේ පුත්තලම දිස්ත්‍රික් නායකයා ලෙස කටයුතු කරයි.
+Accordingly, Jagath Priyankara will be appointed as the death of Sanath Nishantha. He is the Puttalam District Leader of the National Freedom Front, led by Wimal Weerawansa.
 
-ජගත් ප්‍රියංකර මහතා පාර්ලිමේන්තුවට පැමිණීමෙන් අනතුරුව විමල් වීරවංශ මහතාගේ මතය අනුව කටයුතු කරන බව මීට ඉහතදී ප්‍රකාශ කළේය.
+In the foregoing, Jagath Priyankara arrives in the opinion of Mr. Wimal Weerawansa after he arrived in parliament.
 
 ◼️
 
 [Data](articles/cf9fe41a.json)
+
+[Extended Data](ext_articles/cf9fe41a.ext.json)
 
 ---
 

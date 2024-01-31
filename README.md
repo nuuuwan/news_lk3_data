@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 16:02:25**
+As of **2024-01-31 16:17:20**
 
 ## Newspaper Stats
 
-*Scraped **3,817** Articles*
+*Scraped **3,819** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 208
 newsfirstlk | 235
 dailyftlk | 243
 adalk | 342
-adaderanasinhalalk | 430
 virakesarilk | 431
+adaderanasinhalalk | 432
 adaderanalk | 481
 tamilmirrorlk | 491
 dailymirrorlk | 516
@@ -26,11 +26,51 @@ dailymirrorlk | 516
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,814 (99.9%) of 3,817 articles have been extended.
+3,817 (99.9%) of 3,819 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### ලොව පුරා ගැටුම් පැතිරෙයි - අමෙරිකාවේ මල්ල පිරෙයි
+
+*2024-01-31 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192792) · `si`
+
+ඉන් ජීවිත හා දේපොළ හානි රැසක් සිදුවුවත් දහස් සංඛ්‍යාත පිරිසක් අවතැන්ව අසරණ වුවත්, අවි අලෙවි කරන රටවලට නම් මෙය වඩාත් සුබදායී කාලයක් වූ බව නොරහසකි.
+
+ගෙවුණු වසරේ අමෙරිකානු අවි අලෙවිය වාර්තාගත ඉහළ අගයක පැවති බවට අනාවරණ වූයේ මෙවන් පසුබිමක ය.
+
+නිල වාර්තාවලට අනුව ගෙවුණු වසරේ අවි අලෙවියෙන් අමෙරිකාව උපයා ඇති ආදායම අමෙරිකානු ඩොලර් බිලියන 238 කි.
+
+ඉන් අමෙරිකානු ඩොලර් බිලියන 81ක් උපයාගෙන ඇත්තේ අමෙරිකානු රජය සිදුකළ සෘජු අවි අලෙවියෙන් බව දැක්වෙයි.
+
+එය 2022 වසරේ අමෙරිකාව සිදුකළ සෘජු අවි අලෙවිය මෙන් සියයට 56ක ඉහළ යාමකි.
+
+ඉතිරි අමෙරිකානු ඩොලර් බිලියන 157ක් උපයාගෙන ඇත්තේ අමෙරිකාවේ ආරක්ෂක සමාගම් සහ විදෙස් රටවල් අතර සිදුවූ අවි ගනුදෙනුවලදී ය.
+
+අමෙරිකාවෙන් වැඩිම අවි තොගයක් මිලදී ගත් රාජ්‍යය බවට පත්ව ඇත්තේ රටේ හමුදා ශක්තිය ඉහළ නැංවීමේ සැලසුමක් ක්‍රියාත්මක කරමින් සිටින නැගෙනහිර යුරෝපා කලාපීය රටක් වන පෝලන්තය යි.
+
+පෝලන්තය අමෙරිකානු ඩොලර් බිලියන 12ක අපාචේ හෙලිකොප්ටර් මිලදීගෙන ඇති අතර තවත් අමෙරිකානු ඩොලර් බිලියන 10ක අධි සංචලන කාලතුවක්කු රොකට් පද්ධති (Himars) සඳහා ගෙවා තිබේ.
+
+...
+
+[Data](articles/3fc25127.json)
+
+---
+
+### උද්ධමනය ඉහළ ට
+
+*2024-01-31 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192791) · `si`
+
+කොළඹ පාරිභෝගික මිල දර්ශකය අනුව 2024 ජනවාරි මාසයේදී මෙරට උද්ධමනය 6.4ක් දක්වා ඉහළ ගොස් තිබේ.
+
+මේ අතර, ආහාර උද්ධමනය 2024 ජනවාරි මාසයේදී 3.3%ක් දක්වා ඉහළ ගොස් ඇත.
+
+◼️
+
+[Data](articles/2e28bd28.json)
+
+---
 
 ### If not pay attention to the day
 
@@ -100,6 +140,8 @@ This order was issued when the relevant petitions filed by Attorney-at-Law Priya
 
 [Data](articles/b8452319.json)
 
+[Extended Data](ext_articles/b8452319.ext.json)
+
 ---
 
 ### Biyat Nikeshla released on bail
@@ -135,6 +177,8 @@ The matter was listed before Justice Manoj Kumar Ohri and Jacqueline Fernandez's
 ...
 
 [Data](articles/7279d737.json)
+
+[Extended Data](ext_articles/7279d737.ext.json)
 
 ---
 
@@ -735,6 +779,8 @@ He also underscored the significance of India's assistance to Sri Lanka amidst i
 ...
 
 [Data](articles/0466f24b.json)
+
+[Extended Data](ext_articles/0466f24b.ext.json)
 
 ---
 
@@ -1983,51 +2029,5 @@ The government plans to grant free deeds for Rs. 20 million under heritage progr
 [Data](articles/3009ec73.json)
 
 [Extended Data](ext_articles/3009ec73.ext.json)
-
----
-
-### Delegation of United Nations FAO arrives in Sri Lanka
-
-*2024-01-31 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/96872/delegation-of-united-nations-fao-arrives-in-sri-lanka) · `en`
-
-A delegation from the Regional Office of the Food and Agriculture Organization of the United Nations (FAO) has arrived in Sri Lanka in order to oversee the organizing activities of the 37th session of its Asia Pacific Regional Conference (APRC) which will be held in Sri Lanka in February.
-
-The Ministry of Agriculture said that the conference is scheduled to be held from 19th to 22nd February 2024 in Colombo.
-
-The representatives of the regional office of the FAO who are in Sri Lanka to look into the organization activities of the conference, have met Minister of Agriculture Mahinda Amaraweera and held discussions, the ministry stated.
-
-The Asia Pacific Regional Conference will enable ministers of agriculture and high-ranking officials from 46 member countries across the Asia Pacific region to discuss challenges and priorities related to food and agriculture, promoting regional coherence.
-
-...
-
-[Data](articles/fe27f442.json)
-
-[Extended Data](ext_articles/fe27f442.ext.json)
-
----
-
-### Government Revamps Paddy Purchase System
-
-*2024-01-31 10:14:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/government-revamps-paddy-purchase-system/) · `en`
-
-COLOMBO (News 1st); In a significant shift, the Sri Lankan government has decided to bypass the Paddy Marketing Board (PMB) for paddy purchases during the upcoming Maha season.
-
-Instead, the responsibility will fall on small and medium-scale rice mill owners and rice stock collectors, overseen by regional secretaries.
-
-This decision, announced by the Ministry of Finance, aims to streamline the process and ensure wider participation in paddy buying.
-
-Moreover, the government has decided to implement a loan scheme through public and private banks under a concessional interest rate for the purchase of paddy.
-
-based on the average Maha Season Paddy production of each district during the last 5 years.
-
-Loans of Rs. 9 billion are expected to be issued under the proposed loan scheme.
-
-A maximum loan of Rs 50 million will be given to small and medium scale rice mill owners and a maximum of Rs 25 million to rice warehouse owners and rice stockists.
-
-...
-
-[Data](articles/6df480fe.json)
-
-[Extended Data](ext_articles/6df480fe.ext.json)
 
 ---

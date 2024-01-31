@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 09:02:36**
+As of **2024-01-31 09:17:21**
 
 ## Newspaper Stats
 
@@ -26,45 +26,51 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,682 (99.8%) of 3,688 articles have been extended.
+3,688 (100.0%) of 3,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### යුද්ධයේ දී ආබාධිත වූ පොලිස් නිලධාරීන්ට සුබ පණිවිඩයක්
+### A good message to disabled police officers in the war
 
 *2024-01-31 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192770) · `si`
 
-යුද්ධයේදී ආබාධිත වු පොලිස් විශ්‍රාමික රණවිරුවන්ට වයස අවුරුදු 55 දක්වා උසස්වීම් හා ඊට අදාළ වැටුප් ක්‍රමවේදයක් සකස් කිරීමට ජාතික ආරක්ෂාව පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ අවධානය යොමුව තිබේ.
+Disabled Police Retirement Police Retirement War Heroes focused on the sectoral Oversight Committee on the democratic promotions to 55 years of promotions and a salary system.
 
-එම කාරක සභාව සරත් වීරසේකර මන්ත්‍රීවරයාගේ ප්‍රධානත්වයෙන් රැස්වු අවස්ථාවේ මේ සම්බන්ධයෙන් දීර්ඝ ලෙස සාකච්ඡා කර ඇති බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව පැවසුවේය.‍
+The committee had discussed length at the event of the Chairman of Sarath Weerasekera.
 
-තමන් සේවයේ යෙදී සිටියා නම් ලැබීමට නියමිතව තිබු උසස්වීමට අදාළ තනතුරු නාමය ද, එයට අනුරූපී වැටුප සමඟ ලබාදෙන ලෙස ආබාධිත පොලිස් නිලධාරීන්ගේ නියෝජිතයින් එහිදි කාරක සභාවෙන් ඉල්ලීමක් කර තිබේ.
+If they were in the ministry, the committee's representatives of disabled police officers have requested the proposal to be given the corresponding salary with the corresponding salary.
 
-මේ අතර විශේෂ ඒකකවල සේවය කරන නිලධාරීන් සිදුකරන විශේෂ වු රාජකාරිය සහ එහි ඇති අවදානම පදනම් කරගෙන ලබාදෙන දීමනාව විශේෂ ඒකකවල සේවය නොකරන නිලධාරීන්ට ද ලබාදෙන බවට මෙහිදි තොරතුරු අනාවරණය වී තිබේ.
+Meanwhile, information has revealed that the allowance of the special duties of officers who serve in special units and the alleged grant of the allowances provided to the officers who are not served in special units.
 
-එලෙස වැරදි ලෙස දීමනා ලබාදෙන විශ්‍රාමික ආබාධිත නිලධාරීන් පිළිබඳව විමර්ශනය කර මසක් ඇතුළත වාර්තාවක් ලබා දෙන ලෙස ආංශික අධීක්ෂණ කාරක සභාව නිලධාරීන්ට උපදෙස් ලබාදී ඇති බව සඳහන්ය.
+The sectoral Oversight Committee has instructed officials to report a report on retired disabled officers who are incorrectly offered.
 
-...
+The Chairman of the Parliamentary Communication further stated that the acting IGP has instructed the acting IGP to take treatment for the disabled police war heroes.
+
+◼️
 
 [Data](articles/f624cf1e.json)
 
+[Extended Data](ext_articles/f624cf1e.ext.json)
+
 ---
 
-### පුද්ගලයෙකු තියුණු ආයුධයකින් පහරදී ඝාතනය කෙරේ
+### A person is beaten with a sharp instrument and killed
 
 *2024-01-31 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192769) · `si`
 
-චුන්නාකම් පොලිස් වසමේ කන්දරෝඩේ ප්‍රදේශයේ දී පුද්ගලයෙකුට තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+A person has been attacked with a sharp instrument in the Chunnakam Police Division.
 
-මියගිය පුද්ගලයාගේ නිවසේ ඇති කරන කුකුළන් සැකකරුගේ නිවසට ඇතුළුවීම හේතුවෙන් ඇති වූ බහින්බස් වීමක් දුරදිග ගොස් ඝාතනය සිදුකර ඇතැයි සිදුකළ විමර්ශනයේ දී පොලීසියට අනාවරණය වී තිබේ.
+The police have revealed that a heated argument caused by the chickens of the deceased to the residence of the deceased.
 
-ඝාතනය සිදුකළ අවුරුදු 54ක් වූ සැකකරු අත්අඩංගුවට ගෙන ඇති අතර, මෘත ශරීරය තෙලිප්පලේ රෝහලේ තැන්පත් කර ඇති අතර, චුන්නාකම් පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The 54-year-old suspect was arrested and the body is being kept at the Talappelata Hospital and Chunnakam police are conducting further investigations.
 
 ◼️
 
 [Data](articles/fc2dde80.json)
+
+[Extended Data](ext_articles/fc2dde80.ext.json)
 
 ---
 
@@ -354,17 +360,19 @@ Adani Power Ltd., (APL), a part of Adani portfolio companies, recently announced
 
 ---
 
-### 4 கிலோ கேரள கஞ்சாவுடன் ஒருவர் கைது
+### One arrested with 4 kg of Kerala cannabis
 
 *2024-01-31 03:15:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-கிலோ-கேரள-கஞ்சாவுடன்-ஒருவர்-கைது/175-332386) · `ta`
 
-கிளிநொச்சி விசேட அதிரடிப் படை அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் வாகனத்தைச் சோதனையிட்ட அதிரடிப் படையினர் வானத்துக்குள் இருந்த நான்கு கிலோகிராம் கேரள கஞ்சா பார்சலை கைப்பற்றியுள்ளனர்.
+Based on the confidential information received by the Special Task Force Officers of Kilinochchi, the vehicle seized four kilograms of Kerala cannabis parcel inside the sky.
 
-அத்துடன், அவர்கள்  சந்தேகத்தில் ஒருவரையும் கைது செய்து கிளிநொச்சி பொலிஸாரிடம் ஒப்படைத்துள்ளனர். இந்த சம்பவம் தொடர்பில் கிளிநொச்சி பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். (a)
+In addition, they have arrested one of the suspects and handed over to the Kilinochchi police. Kilinochchi police are conducting further investigations into the incident. (A)
 
 ◼️
 
 [Data](articles/7b87225a.json)
+
+[Extended Data](ext_articles/7b87225a.ext.json)
 
 ---
 
@@ -469,6 +477,8 @@ Yet, in the fiercely competitive realm of branded fashion, the key to success li
 ...
 
 [Data](articles/569d008d.json)
+
+[Extended Data](ext_articles/569d008d.ext.json)
 
 ---
 
@@ -1810,19 +1820,23 @@ Earlier today, the SJB held a protest march against the conduct of the governmen
 
 ---
 
-### நிகழ்லை காப்புச் சட்டத்தில் உயர் நீதிமன்றத்தின் திருத்தங்கள் உள்வாங்கப்பட்டிருப்பதை சட்டமா அதிபர் உறுதிப்படுத்தியுள்ளார்! - ஆஷு மாரசிங்க
+### The Attorney General has confirmed that the Supreme Court amendments have been enacted in the current backup law!- Ashu Marasinghe
 
 *2024-01-30 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175172) · `ta`
 
-நிகழ்நிலை காப்புச் சட்டமூலத்துக்கு உயர் நீதிமன்றம் வழங்கிய திருத்தங்கள் உள்வாங்கப்பட்டுள்ளன. சட்டமா அதிபர் உள்ளிட்ட அதிகாரிகள் அதனை உறுதிப்படுத்தியுள்ளனர் என ஐக்கிய தேசிய கட்சி முன்னாள் பாராளுமன்ற  உறுப்பினர ஆஷு மாரசிங்க தெரிவித்தார்.
+High Court amendments to the Ceremony Backup Bill. Former United National Party (UNP) parliamentarian Ashu Marasinghe said officials, including the Attorney General, have confirmed it.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (30)  இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (30).
 
-பாராளுமன்றத்தில் கடந்த வாரம் நிறைவேற்றப்பட்ட நிகழ்நிலை காப்புச்ட்டமூலத்துக்கு உயர் நீதிமன்றம் சில திருத்தங்களை மேற்கொள்ளுமாறு தெரிவித்திருந்தது. அந்த திருத்தங்கள் அனைத்தும் அன்று சட்டமூலம் நிறைவேற்றப்பட்ட  பின்னர்  திருத்தங்கள் மேற்கொள்ளப்படும்போது உள்வாங்கப்பட்டிருந்தன என்பதை பொறுப்புடன் தெரிவிக்கிறேன்.
+The Supreme Court has asked for some amendments to the event that was passed last week in Parliament. I am responsible that all those amendments were enacted when the amendments were made after the bill was passed.
+
+Moreover, when the Bill is passed in Parliament, the Tamil National Alliance (TNA) member MA. Sumanthiran questioned and went to the room where state officials were sitting in the room where parliamentary proceedings were held, and asked the Attorney General's Department officials about this.. Officials of the Attorney General's Department said that the amendments to the High Court have been enacted in the Bill.
 
 ...
 
 [Data](articles/98c33317.json)
+
+[Extended Data](ext_articles/98c33317.ext.json)
 
 ---
 
@@ -1910,19 +1924,23 @@ There was a net foreign outflow of 82 million. (Colombo/Jan30/2024).
 
 ---
 
-### திட்டங்களை உறுதியாக அமுல்படுத்தாவிட்டால் தற்போதைய முன்னேற்றங்கள் தோல்வியடையும் - ஹர்ஷ டி சில்வா
+### Current improvements fail if the plans are not implemented - Harsha de Silva
 
 *2024-01-30 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175171) · `ta`
 
-சர்வதேச நாணய நிதியத்தின் பரிந்துரைகளை தொடர்ந்து நாட்டின் 'நிதி ஒழுக்கம்' ஸ்திரப்படுத்தப்பட்டுள்ளது. நிதி ஒழுக்கம் முறையற்ற வகையில் செயற்படுத்தப்பட்டதால் தான் நாடு வங்குரோத்து நிலையடைந்தது. பாரிய போராட்டத்துக்கு பின்னர் பொருளாதாரம் சமனிலையடைந்துள்ளது.
+The country's 'financial discipline' has been stabilized following the recommendations of the International Monetary Fund. The country became bankrupt because of financial discipline improperly implemented. After a massive struggle, the economy has become equal.
 
-நிலையான  பொருளாதார ஸ்திரப்படுத்தலுக்கான திட்டங்களை உறுதியாக அமுல்படுத்தாவிட்டால் தற்போதைய முன்னேற்றங்கள் தோல்வியடையும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+United People's Power MP Dr. Harsha de Silva said the current improvements would fail if the plans for sustainable economic stabilization were not implemented.
 
-பணவீக்கம் சாதாரண பிரஜையின் மிகப்பெரிய எதிரி.பணவீக்கம் 70 சதவீதத்தை அடைந்தவுடன் மக்களின் சொத்துக்களின் பெறுமதி சடுதியாக வீழ்ச்சியடைந்தது. எதிர்வரும் மூன்றாண்டுகளுக்கு பணவீக்கத்தை 05 வீதமாக நிலைப்படுத்திக் கொள்ள மத்திய வங்கியும்,அரசாங்கமும் கொள்கை ரீதியில் இணக்கப்பாட்டு ஒப்பந்தம் செய்துள்ளது எனவும் குறிப்பிட்டார்.
+Inflation is the largest enemy of the ordinary citizen. As the money reached 70 per cent. He added that the central bank and the government have signed a policy agreement to establish inflation for the next three years.
+
+Speaking at a conference held at the Bandaranaike Memorial International Conference on the evening of Monday (29), the Advakata Economic Research Institute said this while addressing a conference held under the theme "Economic Independence Future".
 
 ...
 
 [Data](articles/24fc0954.json)
+
+[Extended Data](ext_articles/24fc0954.ext.json)
 
 ---
 

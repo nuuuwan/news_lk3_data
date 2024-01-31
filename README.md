@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 22:33:39**
+As of **2024-01-31 22:49:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,933 (100.0%) of 3,934 articles have been extended.
+3,934 (100.0%) of 3,934 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -139,6 +139,8 @@ Meanwhile, Lanka IOC has also decided to increase fuel prices in line with the n
 ◼️
 
 [Data](articles/f23c9977.json)
+
+[Extended Data](ext_articles/f23c9977.ext.json)
 
 ---
 

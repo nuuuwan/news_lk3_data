@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 00:02:18**
+As of **2024-02-01 00:17:38**
 
 ## Newspaper Stats
 
-*Scraped **3,943** Articles*
+*Scraped **3,944** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 247
 adalk | 350
 virakesarilk | 440
 adaderanasinhalalk | 454
-adaderanalk | 497
+adaderanalk | 498
 tamilmirrorlk | 502
 dailymirrorlk | 542
 
@@ -26,11 +26,29 @@ dailymirrorlk | 542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,940 (99.9%) of 3,943 articles have been extended.
+3,943 (100.0%) of 3,944 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### Sinopec also revises fuel prices
+
+*2024-01-31 23:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/96901/sinopec-also-revises-fuel-prices) · `en`
+
+Sinopec Energy Lanka has also decided to revise its retail fuel prices with effect from midnight today (January 31).
+
+Accordingly, the price of Petrol 92 Octane has been increased by Rs. 05 to Rs. 368 per litre while Petrol 95 Octane has been reduced by Rs. 08 to Rs. 456 per litre.
+
+Auto Diesel price has been increased by Rs. 05 to Rs. 360 per litre and Super Diesel has been slashed by Rs. 07 with the new price set at Rs. 468 per litre.
+
+The Ceylon Petroleum Corporation (CEYPETCO) and Lanka IOC had also announced revision in prices from midnight today.
+
+◼️
+
+[Data](articles/67fca6d9.json)
+
+---
 
 ### Police bosses missed over threatening police constable
 
@@ -1014,6 +1032,8 @@ The debt office sold 40 billion rupees in 3-month bills at 11.97 percent, down b
 
 [Data](articles/3a47cb23.json)
 
+[Extended Data](ext_articles/3a47cb23.ext.json)
+
 ---
 
 ### Tears of tears at Galaha junction
@@ -1078,6 +1098,8 @@ Food prices rose 3.8 percent during the month, with some vegetables seeing steep
 
 [Data](articles/5af4d6a0.json)
 
+[Extended Data](ext_articles/5af4d6a0.ext.json)
+
 ---
 
 ### A method of paying the latest easy payment
@@ -1113,6 +1135,8 @@ Minister Fernando admitted that the objectives of the CAA, which comes under the
 ...
 
 [Data](articles/b915f4eb.json)
+
+[Extended Data](ext_articles/b915f4eb.ext.json)
 
 ---
 
@@ -2033,27 +2057,5 @@ Police Detains 10 Protesters at CID Headquarters While Demanding Keheliya’s Ar
 [Data](articles/2a4f3990.json)
 
 [Extended Data](ext_articles/2a4f3990.ext.json)
-
----
-
-### Protest against big monk who tripped lay
-
-*2024-01-31 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192794) · `si`
-
-Residents of the Welipenna area have objected to the Chief Incumbent of the Welipenna area claiming that there was a picnic with three other women.
-
-The Welipenna police officers had gone to the temple to control the hot situation and then the Chief Incumbent that is involved in the incident has left the temple.
-
-Residents have complained that the monk had visited Kataragama, Lunugamvehera and Kandy areas.
-
-A photo of the temple in Lunugamvehera area in the Lunugamvehera area with the three women had come to the Viharaya and protesting the temple to the social media account.
-
-Meanwhile, the Chief Incumbent Thera has lodged a complaint with the Welipenna Police and said that this incident had been rooted by a person who resent them.
-
-◼️
-
-[Data](articles/907d5885.json)
-
-[Extended Data](ext_articles/907d5885.ext.json)
 
 ---

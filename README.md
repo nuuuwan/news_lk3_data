@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 10:50:21**
+As of **2024-01-31 11:02:19**
 
 ## Newspaper Stats
 
-*Scraped **3,695** Articles*
+*Scraped **3,705** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,122 @@ economynextcom | 200
 islandlk | 207
 newsfirstlk | 216
 dailyftlk | 243
-adalk | 331
+adalk | 334
 virakesarilk | 408
 adaderanasinhalalk | 416
 tamilmirrorlk | 470
-adaderanalk | 470
-dailymirrorlk | 499
+adaderanalk | 474
+dailymirrorlk | 502
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,695 (100.0%) of 3,695 articles have been extended.
+3,705 (100.0%) of 3,705 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### China’s threat to India would come from Sri Lanka, warns Vaiko
+
+*2024-01-31 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96875/chinas-threat-to-india-would-come-from-sri-lanka-warns-vaiko) · `en`
+
+India’s MDMK general secretary and Rajya Sabha member Vaiko on Tuesday urged the Indian government to handle its relationship with Sri Lanka, considering the threat posed by China’s entry into the island nation.
+
+Addressing an all-party meeting chaired by Defence Minister Rajnath Singh in New Delhi, Mr. Vaiko said China had constructed a port in Hambantota and the Indian government should realise that the threat to the country from China would emerge first from the south.
+
+A statement from the party said that he also drew Mr. Rajnath Singh’s attention to the alleged attack on Tamil fishermen by the Sri Lankan Navy, claiming that “over 800 fishermen had been killed so far” and there was no protection to their lives and belongings. He also used the occasion to launch an attack on Tamil Nadu Governor R.N. Ravi, accusing him of “blabbering on one issue or another.”
+
+...
+
+[Data](articles/fadbba18.json)
+
+[Extended Data](ext_articles/fadbba18.ext.json)
+
+---
+
+### Operation ‘Yukthiya’: Security forces arrest 729 more suspects
+
+*2024-01-31 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/96874/operation-yukthiya-security-forces-arrest-729-more-suspects-) · `en`
+
+A total of 729 more suspects have been arrested by Sri Lanka’s police and security forces personnel within a 24-hour window ending at 12.30 a.m. today (31 Jan.) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+Meanwhile, detention orders have been secured against three of the arrested individuals, while four others were referred for rehabilitation, the Ministry of Public Security said.
+
+According to the Ministry, the narcotics taken into custody during this period include 146 grams of heroin and 119 grams of crystal methamphetamine (Ice).
+
+◼️
+
+[Data](articles/f3e097a8.json)
+
+[Extended Data](ext_articles/f3e097a8.ext.json)
+
+---
+
+### Rapist who married victim acquitted
+
+*2024-01-31 10:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rapist-who-married-victim-acquitted/108-276032) · `en`
+
+Akuressa, Jan 31 (Daily Mirror) - An accused who stood indicted with the abduction and rape of a 16 year old girl was acquitted by Galle High Court Judge Kavindya Nanayakkara when the Defence Counsel and the police informed court that the victim and the accused were married and parents of a child.
+
+The Attorney General had indicted him on charges of abduction and rape of a 16 year old girl.
+
+Prosecution had told court that he had abducted her on July 5 at Yakkalamulla and raped her at Medawachchiya and Akuressa areas.
+
+However, the High Court Judge who considered the submissions of the defence acquitted the accused. After the acquittal, the couple left the court with their child.
+
+◼️
+
+[Data](articles/30a5bec1.json)
+
+[Extended Data](ext_articles/30a5bec1.ext.json)
+
+---
+
+### Malaysia welcomes new king in unique rotating monarchy
+
+*2024-01-31 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96873/malaysia-welcomes-new-king-in-unique-rotating-monarchy) · `en`
+
+Sultan Ibrahim, the wealthy and outspoken ruler of Malaysia’s southern Johor state, was sworn in as the country’s new king in a ceremony on Wednesday.
+
+Malaysia practices a unique rotational form of monarchy, in which the heads of the country’s nine royal families take turns to be king for a five-year reign.
+
+The monarchy plays a largely ceremonial role, but has become more influential in recent years due to prolonged political instability during which the king has wielded rarely used discretionary powers.
+
+Nine of Malaysia’s 13 states are headed by a traditional ethnic Malay ruler, mostly known as the sultan, in one of the world’s largest monarchy systems.
+
+The constitutional monarchy was established after Malaysia’s independence from Britain. Every five years, the nine rulers elect one among themselves to be Malaysia’s king through a secret ballot.
+
+The order of rotation among the sultans was originally determined by seniority, based on how long they had been ruling.
+
+...
+
+[Data](articles/74db5f68.json)
+
+[Extended Data](ext_articles/74db5f68.ext.json)
+
+---
+
+### Delegation of United Nations FAO arrives in Sri Lanka
+
+*2024-01-31 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/96872/delegation-of-united-nations-fao-arrives-in-sri-lanka) · `en`
+
+A delegation from the Regional Office of the Food and Agriculture Organization of the United Nations (FAO) has arrived in Sri Lanka in order to oversee the organizing activities of the 37th session of its Asia Pacific Regional Conference (APRC) which will be held in Sri Lanka in February.
+
+The Ministry of Agriculture said that the conference is scheduled to be held from 19th to 22nd February 2024 in Colombo.
+
+The representatives of the regional office of the FAO who are in Sri Lanka to look into the organization activities of the conference, have met Minister of Agriculture Mahinda Amaraweera and held discussions, the ministry stated.
+
+The Asia Pacific Regional Conference will enable ministers of agriculture and high-ranking officials from 46 member countries across the Asia Pacific region to discuss challenges and priorities related to food and agriculture, promoting regional coherence.
+
+...
+
+[Data](articles/fe27f442.json)
+
+[Extended Data](ext_articles/fe27f442.ext.json)
+
+---
 
 ### Release
 
@@ -45,6 +145,30 @@ Meanwhile, the wife of the late State Minister Sanath Nishantha, Samari Priyanka
 [Data](articles/6856fafe.json)
 
 [Extended Data](ext_articles/6856fafe.ext.json)
+
+---
+
+### Afghan group to visit the island
+
+*2024-01-31 09:47:12* · [`adalk`](https://www.ada.lk/sports/ඇෆ්ගනිස්ථාන-කණ්ඩායම-දිවයිනට/9-407816) · `si`
+
+The Afghanistan cricket team arrived at the Katunayake Airport on 01/30 days to participate in Sri Lanka's Test match in Sri Lanka.
+
+The group included 28 players including trainers and officers.
+
+The Test match will be held from February to 6th to 6th February to 6th February and the match has been given the opportunity to visit the match free.
+
+One Day Limited Overs 50 matches will be held on February 09, 11 and 14 at the Pallekele International Playground.
+
+The Twenty20 cricket match will be held at Dambulla International Cricket Ground on 17th February 17, 19 and 21.
+
+The Afghanistan cricket team from Dubai to 10.20 days at Dubai to Katunayake Airport was also present at the Katunayake airport on the 648 plane.
+
+◼️
+
+[Data](articles/5d06eb80.json)
+
+[Extended Data](ext_articles/5d06eb80.ext.json)
 
 ---
 
@@ -130,6 +254,22 @@ In response, the Government Medical Officers' Association has presented an open 
 
 ---
 
+### Thirah arrested for 'Ratmalana'
+
+*2024-01-31 09:13:41* · [`adalk`](https://www.ada.lk/breaking_news/’රත්මලානේ-කොටියා’-අල්ලයි/11-407812) · `si`
+
+The Criminal Investigation Bureau of Mt.
+
+The suspect is a 30 year old resident of Ratmalana and a suspect in the murder of former Municipal Councilor Ranjan Silva.
+
+◼️
+
+[Data](articles/e86467ea.json)
+
+[Extended Data](ext_articles/e86467ea.ext.json)
+
+---
+
 ### Jagath Priyankara to be replaced by Sanath Nishantha
 
 *2024-01-31 08:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192772) · `si`
@@ -165,6 +305,30 @@ Nearly 200 recipients of 42 representatives of 42 countries in the Asia and Paci
 [Data](articles/436f04f8.json)
 
 [Extended Data](ext_articles/436f04f8.ext.json)
+
+---
+
+### Resignations at SLT as Board overhaul begins
+
+*2024-01-31 08:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Resignations-at-SLT-as-Board-overhaul-begins/108-276020) · `en`
+
+Sri Lanka Telecom (SLT) yesterday saw its Board members resign after President Ranil Wickremesinghe directed the Treasury Secretary last week to reconstitute the Board with immediate effect.
+
+SLT PLC yesterday disclosed to the Colombo Stock Exchange (CSE) that Chairman and Independent Non-Executive Director Reyaz Mihular tendered his resignation with effect from 29 January 2024.
+
+The five other Directors also tendered their resignation, a separate filing to the CSE said.
+
+The Directors are Rohan Fernando (former SLT Chairman holding 120,000 shares), Lalith Seneviratne, Ranjith Rubasinghe, Mohan Weerakoon, and Treasury representative K.A. Vimalenthirarajh (holding 1,300 shares).
+
+The former SLT Chairman Fernando also stepped down as Chairman from SLT Subsidiary eChanneling PLC.
+
+On Friday (26 January), Secretary to President Saman Ekanayake, under the directive of President Wickremesinghe, announced the appointment of a new set of Board of Directors to SLT.
+
+...
+
+[Data](articles/e71dfff2.json)
+
+[Extended Data](ext_articles/e71dfff2.ext.json)
 
 ---
 
@@ -723,6 +887,28 @@ Public anger at the system can obscure a bigger picture of an assortment of defe
 [Data](articles/5c1212c7.json)
 
 [Extended Data](ext_articles/5c1212c7.ext.json)
+
+---
+
+### IMF backed high tax regime could give further rise to informal economy: Dr. Palmer
+
+*2024-01-31 01:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-backed-high-tax-regime-could-give-further-rise-to-informal-economy-Dr-Palmer/108-276015) · `en`
+
+Notes that lower tax rate must be accompanied with digitisation and cutting down of excess bureaucracy
+
+A top free market capitalist this week cautioned that the current International Monetary Fund (IMF)-backed high tax regime could give further rise to informal economy​ in Sri Lanka,  thereby slowing down the economic recovery and ultimately narrowing the tax base.
+
+Atlas Network Executive Vice President (International Programmes) Dr. Tom G. Palmer pointed out that nations plunged into debt crisis have come out of crisis by embracing a simplified low tax rate, and rejecting IMF-prescribed high tax rate.
+
+Dr. Palmer shared his comments at a panel discussion held at the Economic Freedom Summit organised by the Advocata Institute in Colombo.
+
+He noted that Greek government’s bold stance against IMF-prescribed high taxation to pay off debt has ultimately resulted in a booming economy led by the tourism sector and an increase tax collection due to expansion of the tax base.
+
+...
+
+[Data](articles/18f1f63b.json)
+
+[Extended Data](ext_articles/18f1f63b.ext.json)
 
 ---
 
@@ -1372,6 +1558,28 @@ But we went, we marched in the middle of the street, not in violation of the law
 
 ---
 
+### New laws have been set to highways including minimum speed limits
+
+*2024-01-30 19:20:16* · [`adalk`](https://www.ada.lk/breaking_news/අවම-වේග-සීමාවන්ද-ඇතුළත්ව-අධිවේගී-මාර්ගවලට-නව-නීති-මාලාවක්/11-407806) · `si`
+
+State Minister Sanath Nishantha and a police officer killed in the Colombo Expressway after the fatal accident on the Colombo-Katunayake Expressways.
+
+Transport and Highways Minister Bandula Gunawardena said at a press notice of Cabinet Decision in Colombo today.. He added that the new gazette notification will be issued with minimal speed limits.
+
+"Appointment of a gastuat paper in two weeks will be issued for life safety and protection of individuals traveling on high-speed roads.
+
+The parties discussed with all the parties. The cause of the accident on the Katunayake - Colombo expressway. The accidents, as well as drunk driving, came forward, as well as drunk driving.
+
+Accordingly, a legal system is published in a short-term legal system that is being implemented with a person who is hoping to all who are being categorized.
+
+...
+
+[Data](articles/cdb9f6ca.json)
+
+[Extended Data](ext_articles/cdb9f6ca.ext.json)
+
+---
+
 ### Two foreigners killed in bus-motorcycle collision
 
 *2024-01-30 19:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96864/two-foreigners-killed-in-bus-motorcycle-collision) · `en`
@@ -1839,223 +2047,5 @@ SLT confirmed to the Colombo Stock Exchange that the firm had been copied a lett
 [Data](articles/96f7b6e2.json)
 
 [Extended Data](ext_articles/96f7b6e2.ext.json)
-
----
-
-### Sri Lanka rupee closes at 316.90/317.05 to the US dollar
-
-*2024-01-30 17:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-316-90-317-05-to-the-us-dollar-149216/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 316.90/317.05  to the US dollar on Tuesday, from 317.75/90 the previous day, dealers said.
-
-A bond maturing on 01.02.2026 closed down at 12.85/95 percent from 13.10/20 percent.
-
-A bond maturing on 15.09.2027 closed at 13.15/25 percent from 13.40/60 percent.
-
-A bond maturing on 15.03.2028 closed at 13.45/55 percent from 13.65/75 percent.
-
-A bond maturing on 15.07.2029 closed at 13.60/80 percent from 13.85/95 percent.
-
-A bond maturing on 15.05.2030 closed at 13.60/80 percent from 13.90/14.00 percent.
-
-A bond maturing on 01.07.2032 closed at 13.70/90 percent from 14.10/15 percent. (Colombo/Jan30/2024)
-
-◼️
-
-[Data](articles/b88255a3.json)
-
-[Extended Data](ext_articles/b88255a3.ext.json)
-
----
-
-### The terrible mission that the Israeli sf troops conducted in a hospital
-
-*2024-01-30 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192751) · `si`
-
-The International Court of Justice has also been given an order on the rise of the Palestinian civilian casualties, reports say.
-
-Palestinian health authorities have claimed 26,637 Palestinians from Gaza to date after the October 7.
-
-Meanwhile, Israeli soldiers who have been informed from the "Gaza 'zone have been asked to quit the Palestinians.
-
-Although Israeli troops had previously left before the "Gaza" in the north Gaza, they were now returning there.
-
-They have been an extreme experience to inform the Palestinians to leave Israel with a short period of time.
-
-According to December 1, the Palestinians have been asked to leave their area from 161 million temporary camps, the UN Humanitarian Affairs
-
-Meanwhile, Israeli Special Army soldiers murdered by the Israeli Special Pistols, including the Nurses and civilians who were infected as the doctors and civilians in the Palestinian West.
-
-Israel says that three of Hamas armed members who were ready for an attack were killed by their commandos.
-
-...
-
-[Data](articles/8f2ebd4d.json)
-
-[Extended Data](ext_articles/8f2ebd4d.ext.json)
-
----
-
-### Sri Lanka is ranked 115th in the list of corrupt countries
-
-*2024-01-30 17:36:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஊழல்-மிகுந்த-நாடுகள்-பட்டியலில்-இலங்கைக்கு-115-வது-இடம்/50-332361) · `ta`
-
-'Transparency International', a non -governmental organization, is publishing a list of corrupt countries in the world.. The organization is conducting and sorting in 180 countries in the world. The study is carried out as factors such as administrative transparency, bribery, corruption and irregularities.
-
-Based on these factors, the country with 100 marks out of 100 is a corrupt country.. The country that receives zero (0) marks is referred to as a corrupt country.
-
-Transparency International has released the ranking list for this year. No country scored 100 out of 180 countries in total. This list shows that corruption all over the world. Denmark scandal, which scored 90 score, tops the highest country. Finland with 87 marks and New Zealand 3rd with 85 marks.
-
-India, which was 85th last year, behind 93rd this year. With 40 marks last year, this year has scored 39 marks. Similarly, Kazakhstan, Lesotho and the Maldives have shared 93rd with India with 39 marks.
-
-...
-
-[Data](articles/60b93a41.json)
-
-[Extended Data](ext_articles/60b93a41.ext.json)
-
----
-
-### Expectation to strengthen 12 lakh families in poverty!- Anupa Bascol
-
-*2024-01-30 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175177) · `ta`
-
-The Minister of State Anupa Baskwal said that under the concept of the new village, the new country and the entrepreneurship government, 12 lakh families in poverty are looking forward to strengthening.
-
-The Minister of State has stated that 10,000 people who have passed the Japanese Language Examination will be sent abroad and 100,000 people are planning to provide foreign employment this year.
-
-Minister of Social Empowerment Anupa Paskwal said this while addressing a media briefing held at the Presidential Media Center on Tuesday (30).
-
-Speaking further, Minister of State for Social Security This year is to provide Social Security Relief to Twenty million beneficiaries of Asvezuma.. Under the concept of "New Village, New Country, Entrepreneurship Government", it is expected to strengthen 12 lakh families in poverty.. This year, there will be a program to strengthen 3 lakh people.
-
-...
-
-[Data](articles/a20383db.json)
-
-[Extended Data](ext_articles/a20383db.ext.json)
-
----
-
-### Former MP Mujibur Rahman hospitalised during SJB protest
-
-*2024-01-30 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96859/former-mp-mujibur-rahman-hospitalised-during-sjb-protest) · `en`
-
-Former Parliamentarian Mujibur Rahman was reportedly rushed to the Colombo National Hospital after falling ill during the protest march staged by the Samagi Jana Balawegaya (SJB) this afternoon (30 Jan.).
-
-SJB MP Harsha de Silva stated that Rahman has been rushed to the Emergency Unit of the hospital.
-
-In a post on X (formerly Twitter), MP de Silva stated that Rahman had suffered “breathing difficulties caused by strong tear gas attack”.
-
-Earlier today, the SJB held a protest march against the conduct of the government, with the participation of Opposition Leader Sajith Premadasa and other leaders and allies of the political party.
-
-◼️
-
-[Data](articles/7b81d2a5.json)
-
-[Extended Data](ext_articles/7b81d2a5.ext.json)
-
----
-
-### The Attorney General has confirmed that the Supreme Court amendments have been enacted in the current backup law!- Ashu Marasinghe
-
-*2024-01-30 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175172) · `ta`
-
-High Court amendments to the Ceremony Backup Bill. Former United National Party (UNP) parliamentarian Ashu Marasinghe said officials, including the Attorney General, have confirmed it.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (30).
-
-The Supreme Court has asked for some amendments to the event that was passed last week in Parliament. I am responsible that all those amendments were enacted when the amendments were made after the bill was passed.
-
-Moreover, when the Bill is passed in Parliament, the Tamil National Alliance (TNA) member MA. Sumanthiran questioned and went to the room where state officials were sitting in the room where parliamentary proceedings were held, and asked the Attorney General's Department officials about this.. Officials of the Attorney General's Department said that the amendments to the High Court have been enacted in the Bill.
-
-...
-
-[Data](articles/98c33317.json)
-
-[Extended Data](ext_articles/98c33317.ext.json)
-
----
-
-### The struggle of the two families that will continue for the 4th day without solutions in Keppapila!
-
-*2024-01-30 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175173) · `ta`
-
-The two families have been continuously struggling for the fourth day, demanding that the police do not have legitimate justice for living at home in Keppapilavu.
-
-The two families living in the village in the village of Keppapilavu, Mullaitivu, who are engaged in illegal activities in the village, have continued to argue with the police.. It is in this context that 12 people from two families have been protesting for four days in front of the Kappapilavu model village Pillaiyar temple.
-
-Neither the Grama Niladhari nor the police have not recognized their struggle for today's fourth day. Since there is no justice for the struggle so far, the two families are unable to go home and are on the streets.
-
-...
-
-[Data](articles/e6f7849d.json)
-
-[Extended Data](ext_articles/e6f7849d.ext.json)
-
----
-
-### Mujuour Rahman hospitalized
-
-*2024-01-30 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192750) · `si`
-
-Former MP Muniburi Rahman has been injured and admitted to the Colombo National Hospital.
-
-◼️
-
-[Data](articles/21daf686.json)
-
-[Extended Data](ext_articles/21daf686.ext.json)
-
----
-
-### India navy rescues Pakistani sailors from pirates
-
-*2024-01-30 17:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-navy-rescues-Pakistani-sailors-from-pirates/108-275990) · `en`
-
-Somalia, Jan 30 (BBC) -  Indian naval forces have rescued 19 Pakistani sailors after their fishing vessel was hijacked by pirates off Somalia's coast.
-
-This was the second rescue operation in 36 hours by Indian warship INS Sumitra.
-
-Hours earlier, the ship had rescued the 17-member Iranian crew of a vessel which was also hijacked by pirates, the navy said.
-
-India's navy has responded to several distress calls from vessels and sailors over the past few weeks.
-
-Recent attacks on vessels off Somalia's coast have triggered concerns that pirates could be becoming active again in the region.
-
-INS Sumitra has been deployed for maritime security operations along the east coast of Somalia and Gulf of Aden.
-
-A navy statement said that the ship had responded to a distress message on 28 January and intercepted an Iranian-flagged vessel. Naval officers then "coerce[d] the pirates for safe release of crew along with the boat", according to a post on X (formerly Twitter).
-
-...
-
-[Data](articles/dabbc79a.json)
-
-[Extended Data](ext_articles/dabbc79a.ext.json)
-
----
-
-### Sri Lanka stocks close up, turnover tops 1bn
-
-*2024-01-30 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-tops-1bn-149210/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The All Share Price Index was up 0.08 percent, or 7.77 points, at 10,305.
-
-The S&P SL20 index was down 0.50 percent, or 14.65 points, at 2,898.
-
-Turnover topped 1 billion. Trades in Sampath Bank Plc (198mn) and Dialog Axiata Plc (158mn) contributed the most to the day’s turnover.
-
-Shares of Sampath Bank Plc closed down at 68.00, while shares of Dialog Axiata Plc closed flat at 9.00.
-
-Other companies that saw buying interest were Aitken Spence Plc (up at 115.00), Ceylon Tobacco Company Plc (up at 1,019.00) and Lanka IOC Plc (up at 102.00).
-
-There was a net foreign outflow of 82 million. (Colombo/Jan30/2024).
-
-◼️
-
-[Data](articles/593b373c.json)
-
-[Extended Data](ext_articles/593b373c.ext.json)
 
 ---

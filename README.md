@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 19:49:52**
+As of **2024-01-31 20:02:19**
 
 ## Newspaper Stats
 
-*Scraped **3,899** Articles*
+*Scraped **3,900** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,51 +20,75 @@ virakesarilk | 440
 adaderanasinhalalk | 449
 adaderanalk | 487
 tamilmirrorlk | 500
-dailymirrorlk | 527
+dailymirrorlk | 528
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,895 (99.9%) of 3,899 articles have been extended.
+3,899 (100.0%) of 3,900 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### ඉන්දියාවෙන් ලංකාවට සහතිකයක්
+### PSL team owners to pay for production rights?
+
+*2024-01-31 19:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/PSL-team-owners-to-pay-for-production-rights/108-276060) · `en`
+
+Jan. 31 (Daily Mirror) - Questions have been raised over the recent process followed by the Pakistan Cricket Board (PCB) in awarding the TV production rights. Not only the rights were awarded to the company after significant delay but the company which got the rights was not ranked lowest in the financial bid.
+
+The company holding the broadcast rights in the technical bid was disqualified.
+
+The ARY / IPG, which has broadcast rights with the Sri Lanka Cricket (SLC) for the Lanka Premier League (LPL) had given a bid lower by 1.5 million US dollars. Translate Group, which ironically has TPT as 178/180 in technical bid. SSV is a leading production company and has more experience in televising the matches but could not meet the success.
+
+One of the officials from the SSV clearly accused the PCB for favouring the Trans Group.
+
+The excess amount the PCB would be paying to the production company will now be reimbursed from the PSL franchise owners and each team owner will be asked to pay 300 k USD.
+
+...
+
+[Data](articles/6df1de05.json)
+
+---
+
+### India guarantees from India
 
 *2024-01-31 19:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192809) · `si`
 
-ඉන්දියානුවන්ට නිවාඩුවක් ගත කිරීමට අවශ්‍ය නම් ඒ සඳහා සුදුසුම ගමනාන්තය ශ්‍රී ලංකාව බව ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජයිශංකර් මහතා පවසා තිබේ.
+Indian Foreign Minister Dr. S. S. S. Story Indian Foreign Minister Dr. S. Mr. Jeyzankar has said.
 
-ඉන්දියාවේ මුම්බායි නුවර පිහිටි ඉන්දියානු කළමනාකරණ ආයතනයේ දේශනයක් සඳහා එක්වූ ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජයිශංකර් මහතා ශ්‍රී ලංකාව සමග ඇති සමීපත්වය පිළිබඳව අදහස් පළකරමින් මෙම අදහස් දක්වා තිබුණි.
+Indian Foreign Minister Dr. S. S. The comment on the proximity of Sri Lanka was commented on the proximity with Sri Lanka.
 
-මේ අතර ශ්‍රී ලංකාවේ අමෙරිකානු වාණිජ මණ්ඩලය සංවිධානය කළ "75 වසරකින් එහා අමෙරිකානු - ශ්‍රී ලංකා ව්‍යාපාර සබඳතා 2024" උත්සවය අද පැවැත්වුණේ මෙරට අමෙරිකානු තානාපතිනි ජූලි චන්ග් මහත්මියගේ ප්‍රධානත්වයෙනි.
+Meanwhile, Sri Lanka's Chamber of America organized by the US Chamber of America organized by the US Ambassador to Sri Lanka, July Chang, which was held today.
 
 ◼️
 
 [Data](articles/f603c363.json)
 
+[Extended Data](ext_articles/f603c363.ext.json)
+
 ---
 
-### මුහුදු කොල්ලකරුවන්ගෙන් මුදාගත් මෙරට ධීවර යාත්‍රාව සීෂෙල්ස් අගනුවරට රැගෙන එයි
+### Seychelles bring to the capital city of Seychelles, who liberated from pirates
 
 *2024-01-31 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192808) · `si`
 
-මුහුදු කොල්ලකරුවන්ගේ ග්‍රහණයට ලක්වී සීෂෙල්ස් නාවික හමුදාව බේරාගත් මෙරට ධීවරයින් 6දෙනා සහ යාත්‍රාව අද (31) එරට වික්ටෝරියා අගනුවර වරායට ආරක්ෂිතව ළඟාවී තිබේ.
+The six civilians and vessel of the Sri Lankan fishermen have been safely reaching the sea of Seychelles today (31).
 
-දික්ඕවිට ධීවර වරායෙන් ධීවරයින් 06 දෙනෙකු සමඟින් ගමන් ඇරඹු "ලොරේන්සෝ පුතා 04" බහුදින ධීවර යාත්‍රාව පසුගිය 27 වනදා අරාබි මුහුදේදී මුහුදු කොල්ලකරුවන්ගේ ග්‍රහණයට ලක්වී තිබුණි.
+The four fishermen who began with six fishermen from the Dickowita Fisheries Harbor.
 
-ඉන් දින දෙකකට පසුව එම යාත්‍රාව ධීවරයින් 6 දෙනාද සමඟ නිරුපද්‍රිතව මුදාගැනීමට සීෂෙල්ස් නාවික හමුදාව සමත්වූයේ මුහුදු කොල්ලකරුවන් තිදෙනෙකු ද සිය භාරයට ගනිමිනි.
+Seychelles, Seychelles, were also seized by three pirates to redeem the six fishermen.
 
-එලෙස සීෂෙල්ස් නාවික හමුදාව භාරයට පත්වූ මෙරට ධීවරින් 06 දෙනා සහ මුහුදු කොල්ලකරුවන් තිදෙනා අද සීෂෙල්ස්හි වික්ටෝරියා අගනුවර වරාය වෙත ආරක්ෂිතව රැගෙන ගොස් තිබේ.
+The Sri Lankan six cycles and three pirates have been taken to the Port of Seychelles today.
 
-මුහුදු කොල්ලකරුවන්ගේ ග්‍රහණයට ලක්වී බේරාගැනුණු එම ධීවරයින් ඊයේ පළමු වතාවට යාත්‍රාවේ හිමිකරුට අමතා තිබුණි.
+The fishermen who escaped and saved the pirates were addressed by the owner of the boat.
 
 ◼️
 
 [Data](articles/3e8aa109.json)
+
+[Extended Data](ext_articles/3e8aa109.ext.json)
 
 ---
 
@@ -125,6 +149,8 @@ President Ranil Wickremesinghe visited Kelaniya University to declare open the n
 ◼️
 
 [Data](articles/9a9438fc.json)
+
+[Extended Data](ext_articles/9a9438fc.ext.json)
 
 ---
 
@@ -978,21 +1004,23 @@ At the same time, the Speaker has not yet signed and certified the controversial
 
 ---
 
-### උද්ධමනය තවදුරටත් ඉහළට
+### Inflation further up
 
 *2024-01-31 16:20:46* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-තවදුරටත්-ඉහළට/11-407826) · `si`
 
-ජනවාරි මාසයේ දී මෙරට උද්ධමනය තවදුරටත් ඉහළ ගොස් ඇති බව ජනලේඛන සහ සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුව නිකුත් කළ නවතම වාර්තාවේ සඳහන් වේ.
+The latest report issued by the Department of Census and Statistics that inflation has further increased in January.
 
-කොළඹ නාගරික ප්‍රජාවගේ පාරිභෝගික උද්ධමන අනුපාතය 2024 ජනවාරි මාසය සඳහා 6.4%ක් දක්වා වැඩි වී ඇත. එය 2023 දෙසැම්බර් මාසය සඳහා 4.0% ක් ලෙස වාර්තා වී තිබුණි.
+Consumer inflation rate of Colombo Municipal Community has increased to 6.4% for January 2024. It was recorded as 4.0% for December 2023.
 
-4 ජනවාරි මාසයයේ දී ආහාර කාණ්ඩයේ වාර්ෂික උද්ධමනය(ලක්‍ෂ්‍යමය)3.3%දක්වා වැඩි වී ඇති අතර,2023 දෙසැම්බර් මාසයේ දී එය වාර්තා වූයේ 0.3% ක් ලෙසය.
+In the month of January, the annual inflation of food category increased to 3.3%, and in December 2023, it was 0.3%.
 
-2024 ජනවාරි මාසය සඳහා ආහාර නොවන කාණ්ඩයේ වාර්ෂික උද්ධමනය(ලක්‍ෂ්‍යමය) 7.9%ක් දක්වා වැඩි වී ඇති අතර එය 2023 දෙසැම්බර් මාසයේ දී 5.8%ක් ලෙස වාර්තා විය.
+The non-food annual inflation (point) has increased to 7.9% in December 2023.
 
 ◼️
 
 [Data](articles/0e1edded.json)
+
+[Extended Data](ext_articles/0e1edded.ext.json)
 
 ---
 
@@ -2027,25 +2055,5 @@ It is noteworthy that Daya Ratnayake, who held key positions during the reign of
 [Data](articles/3f823f1a.json)
 
 [Extended Data](ext_articles/3f823f1a.ext.json)
-
----
-
-### India’s Jio and China’s Gortune pre-qualify for SLT stake bid
-
-*2024-01-31 13:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/96881/indias-jio-and-chinas-gortune-pre-qualify-for-slt-stake-bid-) · `en`
-
-Two companies from China and India have been pre-qualified for the Request for Proposal (RFP) stage of the divestiture of the majority stake in the state-owned Sri Lanka Telecom PLC (SLT), according to the Sri Lanka’s Finance Ministry.
-
-The Government of Sri Lanka (GOSL) acting through the Ministry of Finance, Economic Stabilization and National Policies, had recently called for Request for Qualification (RFQs) from potential investors for the divestiture of its shares in Sri Lanka Telecom PLC.
-
-The deadline for submission of proposals ended at 2pm on Friday, 12 January 2024.
-
-The Finance Ministry’s State-Owned Enterprise Restructuring Unit (SRU) state that the RIQs received were evaluated based on the Special Guidelines on Divestiture of State-Owned Enterprises approved by the Cabinet of Ministers in July 2023.
-
-...
-
-[Data](articles/cc4396b6.json)
-
-[Extended Data](ext_articles/cc4396b6.ext.json)
 
 ---

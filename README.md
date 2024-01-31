@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 23:17:14**
+As of **2024-01-31 23:32:44**
 
 ## Newspaper Stats
 
-*Scraped **3,936** Articles*
+*Scraped **3,940** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ islandlk | 208
 economynextcom | 218
 dailyftlk | 243
 newsfirstlk | 247
-adalk | 349
+adalk | 350
 virakesarilk | 440
-adaderanasinhalalk | 453
+adaderanasinhalalk | 454
 adaderanalk | 497
 tamilmirrorlk | 502
-dailymirrorlk | 540
+dailymirrorlk | 542
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,935 (100.0%) of 3,936 articles have been extended.
+3,936 (99.9%) of 3,940 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### පොලිස් කොස්තාපල්ට තර්ජනය කළ පොලිස් ලොක්කන්ට වැඩ වරදියි
+
+*2024-01-31 22:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192814) · `si`
+
+මත්ද්‍රව්‍ය චෝදනා ලැබූ සැකකරුවන් කිහිපදෙනෙකු නිදහස් කරන ලෙසට පොලිස් කොස්තාපල්වරයෙකුට බලපෑම් කළ සහකාර පොලිස් අධිකාරීවරයෙකු ඇතුළු පොලිස් නිලධාරීන් සිව්දෙනෙකුට ලක්ෂ 20ක වන්දියක් අගතියට පත් නිලධාරියට ගෙවන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියෝගය කර තිබේ.
+
+මෙම නියෝගය සිදුකර ඇත්තේ 2021 වසරේ නොවැම්බර් මස 02 වනදා අදාළ සිදුවීම වන අවස්ථාවේ අම්බලන්ගොඩ සහකාර පොලිස් අධිකාරී ලෙස කටයුතු කළ යූ.එම්.අමරසිරි, එවක කොස්ගොඩ පොලිස් ස්ථානාධිපති මංගල ද සොයිසා අමරසේකර, එහි අපරාධ අංශය භාර ස්ථානාධිපති අසේල ප්‍රේමනාත් ද සිල්වා සහ පොලිස් සැරයන් ඉන්දික ද සිල්වා යන නිලධාරීන් පිරිසකටය.
+
+ශ්‍රේෂ්ඨාධිකරණය වැඩිදුරටත් නියෝග කර ඇත්තේ ඔවුන්ගේ පෞද්ගලික මුදල්වලින් එම වන්දිය ඊයේ දින සිට මාස හයක කාල සීමාවක් තුළ ගෙවා අවසන් කරන ලෙසටය.
+
+එම අදාළ පොලිස් කොස්තාපල්වරයාට රජය විසින් රුපියල් 25000ක වන්දියක් ගෙවන ලෙසට ද නියෝග කර තිබේ.
+
+...
+
+[Data](articles/7f47612a.json)
+
+---
 
 ### World Court dismisses much of Ukraine’s case against Russia
 
@@ -47,6 +65,26 @@ Ukraine had filed the lawsuit at the ICJ, also known as the World Court, in 2017
 ...
 
 [Data](articles/a028b2c4.json)
+
+[Extended Data](ext_articles/a028b2c4.ext.json)
+
+---
+
+### Surge in vehicle ownership transfers to avert CCTV-based fine complications
+
+*2024-01-31 22:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Surge-in-vehicle-ownership-transfers-to-avert-CCTV-based-fine-complications/108-276064) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - The Commissioner General of the Department of Motor Traffic (DMT) said today that a large number of people are currently visiting the Department to transfer vehicle ownerships to their names.
+
+DMT Commissioner General Nishantha Anuruddha Weerasingha told the Daily Mirror that this was the first time that such a large number of people are queuing at the DMT to get their vehicle ownerships transferred to avoid complications when fine notices are issued based on offender identification through the CCTV system.
+
+He said if the ownership is not transferred to the active user, the charge sheets will be sent to the address of the previous vehicle owner.
+
+Therefore, the Commissioner urged vehicle users to transfer ownerships to the active user to avoid inconveniencing the previous vehicle owner.
+
+◼️
+
+[Data](articles/c299a497.json)
 
 ---
 
@@ -201,6 +239,26 @@ According to the Immigration and Emigration Controller, the fee for issuing pass
 [Data](articles/ae0a1ca8.json)
 
 [Extended Data](ext_articles/ae0a1ca8.ext.json)
+
+---
+
+### Cinnamon Lakeside responds to allegations over contaminated white pepper
+
+*2024-01-31 21:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cinnamon-Lakeside-responds-to-allegations-over-contaminated-white-pepper/108-276069) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - In response to recent concerns surrounding an incident at Cinnamon Lakeside Colombo where a soup unfit for human consumption has reportedly been served to a patron, the establishment has clarified the incident.
+
+In a statement, the management said the incident in question was clarified to be unrelated to a soup served at the restaurant but rather linked to a guest's use of white pepper in their soup, prompting immediate action.
+
+“Cinnamon Lakeside Colombo has actively cooperated with the officials of the Ministry of Health and Public Health Inspectors (PHIs) during their investigations,” the hotel management said.
+
+The establishment said it had conducted its own tests on the same batch of procured white pepper, finding no cause for concern.
+
+“No other incidents of this nature have been reported from the restaurant visited by numerous guests on that day,” the statement stressed.
+
+...
+
+[Data](articles/230a7abb.json)
 
 ---
 
@@ -843,6 +901,26 @@ He demanded the permission of the Colombo High Court to temporarily lifted his t
 [Data](articles/364163db.json)
 
 [Extended Data](ext_articles/364163db.ext.json)
+
+---
+
+### අරලිය මැඳුරේ රාජකාරී කළ STF සෙබලා වෙඩි තබා ගනියි
+
+*2024-01-31 18:37:34* · [`adalk`](https://www.ada.lk/breaking_news/අරලිය-මැඳුරේ-රාජකාරී-කළ-STF-සෙබලා-වෙඩි-තබා-ගනියි/11-407831) · `si`
+
+අරලියගහ මන්දිරියේ රාජකාරී යොදවා සිටි පොලිස් විශේෂ කාර්ය බලකායට අනුයුක්ත පොලිස් කොස්තාපල්වරයෙකු රාජකාරී ගිනි අවියෙන් වෙඩි තබාගෙන ඇතැයි කොල්ලූපිටිය පොලිසිය කියයි.
+
+තුවාල ලබා ඇත්තේ අග්‍රාමාත්‍ය ආරක්ෂක කොට්ඨාසයේ කොල්ලුපිටිය කඳවුරට අනුයුක්ත සේවය කරන හොරෙව්පතාන , කපුගොල්ලෑව , මොරවැව අංක 36 නිවසේ පදිංචි පොලිස් කොස්තාපල් (90715) ඩි කේ  එම් ප්‍රේමසිරි (29) හැවිරිදි නිලධාරියාය .
+
+කොස්තාපල්වරයා ඊයේ (30) සවස හයේ සිට නවය දක්වා  අරලියගහ මන්දිරයේ එච් 1 දොරටුවේ ස්ථාපිත උස්මුරකුටියේ රාජකාරිය යොදවා සිටියදී නිලධාරියාට නිකුත් කර තිබූ ටි -56   - 5106523  අංක දරණ ගිනි අවියෙන්  වෙඩි තබා ගැනීම සිදුකරගෙන ඇතැයි පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත
+
+එම වෙඩි තබා ගැනීමෙන් වම් අතේ සුළඟිල්ලකට තුවාල සිදුවී ඇති බව රෝහල් ප්‍රකාශකයකු පැවසීය
+
+මුරකුටියේ යකඩ තහඩුවට උන්ඩ  දෙකක් ඇති බව ස්ථානය පරීක්ෂා කිරීමේදී  පැහැදිලි වන බව උසස් පොලිස් නිලධාරියෙක් පැවසීය
+
+...
+
+[Data](articles/38ad342f.json)
 
 ---
 
@@ -1973,89 +2051,5 @@ The national carrier has faced significant financial difficulties in recent year
 [Data](articles/476d997b.json)
 
 [Extended Data](ext_articles/476d997b.ext.json)
-
----
-
-### Colombo’s inflation increases to 6.4% in January
-
-*2024-01-31 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/96883/colombos-inflation-increases-to-64-in-january) · `en`
-
-The overall rate of inflation as measured by Colombo Consumer Price Index (CCPI) on year-on-year basis has increased to 6.4% in January 2024 from 4.0% in December 2023, according to the latest data from the Census & Statistics Department (DCS).
-
-The CCPI for all items for the month of January 2024 was 200.7 and it records an increase of 5.6 index points that is 2.87 percentage change compared to the month of December 2023 for which the index was 195.1.
-
-This represents an increase in expenditure value by Rs 5152.79 in the “Market Basket”.
-
-Meanwhile, food inflation increased to 3.3% in January 2024 from 0.3% in December 2023, the Census & Statistics Department (DCS) said in its release.
-
-In addition to this, the year-on-year inflation of the non-food group increased to 7.9% in January 2024, from 5.8% in December 2023.
-
-...
-
-[Data](articles/f771f57f.json)
-
-[Extended Data](ext_articles/f771f57f.ext.json)
-
----
-
-### President sends the people in a month
-
-*2024-01-31 15:52:32* · [`adalk`](https://www.ada.lk/breaking_news/මසක්-ඇතුළත-ජනතාව-එකතු-කර-ජනපති-ගෙදර-යවනවා/11-407825) · `si`
-
-The General Secretary of the people MPs, Ranjith Madduma Bandara, said that he files a fundamental rights petition against the judicial decision.
-
-He was speaking at a media briefing held at the Colombo Opposition Office today (31).
-
-The government and the President will be sent back home and send the masses in further shooting against the government and the president.
-
-Speaking further MP Ranjith Madduma Bandara said:
-
-& This government has gone to Colombo to send Ranil Rajapaksa home. The protest was a successful protest. Renir Wickremesinghe, who was very scared of this, attacked this peaceful protest by Tiran Alles's police. Tear gas was hit.
-
-Not only that. Spent more than five of us. These won't stop us. The other is the other thing Tiran Alles tried to go to several courts. When the Kudanduwatta police went to the Fort Magistrate's Court, what magistrate said?He said that the Constitution has the opportunity to express protests and said that this cannot be given to the injunction.
-
-...
-
-[Data](articles/7f8dc430.json)
-
-[Extended Data](ext_articles/7f8dc430.ext.json)
-
----
-
-### Sri Lanka Name Squad for Afghanistan Test
-
-*2024-01-31 15:48:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/sri-lanka-name-squad-for-afghanistan-test/) · `en`
-
-COLOMBO (News 1st); Sri Lanka Cricket announced the squad for Afghanistan Test that will be played in Colombo, starting this weekend.
-
-Dhananjaya de Silva will lead the 16-man squad against Afghanistan. The one-off Test between the two sides takes place between 2 and 6 February at the Colombo SSC.
-
-Police Detains 10 Protesters at CID Headquarters While Demanding Keheliya’s Arrest
-
-◼️
-
-[Data](articles/ba6eb04d.json)
-
-[Extended Data](ext_articles/ba6eb04d.ext.json)
-
----
-
-### 167 pregnants under 18 years in 2023
-
-*2024-01-31 15:43:03* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-අවුරුදු-18ට-අඩු-ගැබිණියන්-167ක්/11-407824) · `si`
-
-In 2023, 167 pregnant women were reported in 2023, Mrs. State Minister of Women and Child Affairs Geetha Kumarasinghe.
-
-He was speaking at a media briefing held at a press conference held at a media briefing today (31, 339 rapes in the year and 339 rape rapes in the year.
-
-"A wave of corruption and murders against women in our country are being effected. This is a very dangerous situation. For this reason, a large number of women and children have died. 1502 child crimes have been reported last year. Also, there are 1163 rape incidents with consolidation. Also, there are 339 rapes that have been violated without consent. The most dangerous situation has been reported in 167 child pregnancies under 18 years.
-
-230 from the Western Province, 239 in the Western Province, 230 from the North Western Province, 230 from the North Western province.In the entire country, 134 of the province and 136 from the Southern province and 136 criminal conditions were reported in the entire country.
-
-...
-
-[Data](articles/d2d064a4.json)
-
-[Extended Data](ext_articles/d2d064a4.ext.json)
 
 ---

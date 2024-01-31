@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 15:32:49**
+As of **2024-01-31 15:51:02**
 
 ## Newspaper Stats
 
-*Scraped **3,808** Articles*
+*Scraped **3,814** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,106 @@ economynextcom | 203
 islandlk | 208
 newsfirstlk | 235
 dailyftlk | 243
-adalk | 340
+adalk | 342
 adaderanasinhalalk | 430
-virakesarilk | 430
+virakesarilk | 431
 adaderanalk | 480
-tamilmirrorlk | 488
+tamilmirrorlk | 491
 dailymirrorlk | 514
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,801 (99.8%) of 3,808 articles have been extended.
+3,808 (99.8%) of 3,814 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### கவனம் செலுத்தாவிடின் நாளையும் பணிபகிஷ்கரிப்பு
+
+*2024-01-31 15:21:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கவனம்-செலுத்தாவிடின்-நாளையும்-பணிபகிஷ்கரிப்பு/175-332419) · `ta`
+
+சம்பள கொடுப்பனவு உள்ளிட்ட பிரச்சினைகளுக்கு தீர்வுகளை வழங்க இன்று(31) மாத்திரமே அதிகாரிகளுக்கு அவகாசம் இருப்பதாக சுகாதார தொழிற்சங்கங்களின் கூட்டமைப்பு தெரிவித்துள்ளது.
+
+இந்த விடயத்தில் தலையீடு செய்யாவிட்டால் நாளையதினம் (01) காலை 6.30 முதல் 72 தொழிற்சங்கங்களை சேர்ந்த சுகாதார ஊழியர்கள் பணிப்பகிஷ்கரிப்பில் ஈடுபடவுள்ளதாக சுகாதார தொழிற்சங்கங்களின் கூட்டமைப்பின் இணை ஏற்பாட்டாளர் ரவி குமுதேஷ் தெரிவித்துள்ளார்.
+
+வைத்தியர்களுக்கு அதிகரிக்கப்பட்டுள்ள 35,000 ரூபா கொடுப்பனவை தமக்கும் வழங்குமாறு கோரி 72 சுகாதார ஊழியர்கள் சங்கங்கள் இதற்கு முன்னரும் எதிர்ப்பில் ஈடுபட்ட போதிலும் அரசாங்கத்தினால் அதற்கான பதில் எதுவும் வழங்கப்படவில்லை.
+
+இந்நிலையில், இது சுகாதாரத் துறையில் பாரிய நெருக்கடியை ஏற்படுத்தும் என சுகாதார தொழிற்சங்கங்களின் கூட்டமைப்பின் இணை ஏற்பாட்டாளர் ரவி குமுதேஷ் ​தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0f6f8ad3.json)
+
+---
+
+### அரசு ஊழியர் இறந்தால் பிள்ளைக்கு ஓய்வூதியம்
+
+*2024-01-31 15:21:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசு-ஊழியர்-இறந்தால்-பிள்ளைக்கு-ஓய்வூதியம்/175-332418) · `ta`
+
+அரசு ஊழியர்கள் மரணத்துக்கு பிறகு, அவர்களது வாழ்க்கை துணைக்கு குடும்ப ஓய்வூதியம் அளிக்கப்பட்டு வருகிறது. அந்த வாழ்க்கை துணை மறைந்த பிறகுதான், தகுதியுள்ள ஒரு பிள்ளைக்கு குடும்ப ஓய்வூதியம் வழங்கப்படும். இந்நிலையில், இந்த விதிமுறையை இந்திய மத்திய அரசு மாற்றியுள்ளது.
+
+ஓய்வூதியம் மற்றும் ஓய்வூதியதாரர்கள் நலத்துறை, மத்திய சிவில் சேவை ஓய்வூதிய விதிமுறைகளில் திருத்தம் கொண்டு வந்துள்ளது. அதன்படி, அரசு பெண் ஊழியர்கள் தங்கள் இறப்புக்கு பிறகு, கணவருக்கு பதிலாக, தனது பிள்ளைகளில் தகுதியான ஒருவருக்கு குடும்ப ஓய்வூதியம் அளிப்பதற்காக அவரை வாரிசுதாரராக நியமிக்கலாம். இதுகுறித்து தங்கள் துறைத்தலைவரிடம் அவர்கள் எழுத்துமூலமாக எழுதி தர வேண்டும்.
+
+இதன்மூலம், கணவருக்கு எதிராக விவாகரத்து வழக்கு நிலுவையில் இருக்கும் பெண் ஊழியர்கள், கணவருக்கு எதிராக வரதட்சணை கொடுமை தடுப்பு சட்டம், குடும்ப வன்முறை தடுப்பு சட்டம், இந்திய தண்டனை சட்டம் ஆகியவற்றின் கீழ் வழக்கு தொடர்ந்த அரசு பெண் ஊழியர்கள் ஆகியோர் இந்த வாய்ப்பை பயன்படுத்திக் கொள்ளலாம்.
+
+...
+
+[Data](articles/47fff104.json)
+
+---
+
+### ஆர்ப்பாட்டத்தின்போது செய்தி சேகரித்த டெய்லி மிரரின் செய்தி ஆசிரியர் யோஹான் பெரேரா  காயமடைந்தார்!
+
+*2024-01-31 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175241) · `ta`
+
+கொழும்பில் நேற்று செவ்வாய்க்கிழமை (30)  இடம்பெற்ற ஐக்கிய மக்கள் சக்தியின் ஆர்ப்பாட்டத்தின் போது பொலிஸார் மேற்கொண்ட  கண்ணீர் புகை பிரயோகத்தின் விளைவாக  ஏற்பட்ட நிலைமைகளின்போது டெய்லி மிரர் பத்திரிகையின் செய்தி ஆசிரியரான யோஹான் பெரேரா  காயமடைந்தார்.
+
+ஆர்ப்பாட்டம்  விகாரமாதேவி பூங்காவிற்கு முன்பாக இடம்பெற்றதுடன், நீதிமன்ற உத்தரவின் பேரில் பொலிஸார் வீதியை மறித்து ஆர்ப்பாட்டக்காரர்கள் தமக்கு நிர்ணயிக்கப்பட்ட வரம்புகளை மீறுவதைக் கட்டுப்படுத்தினர்.
+
+◼️
+
+[Data](articles/56b0adac.json)
+
+---
+
+### பியத் நிகேஷல பிணையில் விடுதலை
+
+*2024-01-31 15:09:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பியத்-நிகேஷல-பிணையில்-விடுதலை/175-332416) · `ta`
+
+கைது செய்யப்பட்டுள்ள சமூக செயற்பாட்டாளர் பியத் நிகேஷலவை பிணையில் விடுவிக்குமாறு நீதிமன்றம் இன்று(31) உத்தரவிட்டுள்ளது.
+
+சமூக செயற்பாட்டாளர் பியத் நிகேஷல குற்றப்புலனாய்வு திணைக்களத்தின் கணினி குற்ற விசாரணை பிரிவினால் திங்கட்கிழமை (29) கைது செய்யப்பட்டார்.
+
+பொதுமக்களின் அமைதியை சீர்குலைத்தமை, அரசாங்கத்தின் மீது பொதுமக்களுக்கு அதிருப்தியை ஏற்படுத்தியமை, பொதுமக்களை ஆத்திரமடையச் செய்யும் வகையிலான காணொளிகளை வெளியிட்டமை உள்ளிட்ட குற்றச்சாட்டுகளின் கீழ் பியத் நிகேஷலவை கைது செய்ததாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/703f1a36.json)
+
+---
+
+### ඇෆ්ගනිස්ථානයට එරෙහි ටෙස්ට් තරගයට නවක මුහුණු තුනක්
+
+*2024-01-31 14:53:18* · [`adalk`](https://www.ada.lk/breaking_news/ඇෆ්ගනිස්ථානයට-එරෙහි-ටෙස්ට්-තරගයට-නවක-මුහුණු-තුනක්/11-407822) · `si`
+
+සංචාරක ඇෆ්ගනිස්ථාන කණ්ඩායම සමගින් පැවැත්වීමට නියමිත ටෙස්ට් තරගය සඳහා නවක ක්‍රීඩකයන් තිදෙනෙකුගෙන් සමන්විතව ශ්‍රී ලංකා ටෙස්ට් සංචිතය ප්‍රකාශයට පත්කර තිබේ.
+
+උපුල් තරගංගේ සභාපතිත්වයෙන් යුත් ශ්‍රී ලංකා ක්‍රිකට් තේරීම් කමිටුව නම් කළ පළමු ටෙස්ට් සංචිතය මෙය වෙයි. එසේම ශ්‍රී ලංකා නව ටෙස්ට් නායක ධනංජයද සිල්වා නායකත්වය ලබාදෙන පළමු ටෙස්ට් තරගයද මෙය වෙයි.
+
+මෙම ටෙස්ට් සංචිතයට නවක ක්‍රීඩකයන් ලෙස වේග පන්දු යවන චාමික ගුණසේකර, කඩලු රකින ක්‍රීඩක/පිතිකරු ළහිරු උදාර, වේග පන්දු යවන ක්‍රීඩක මිලාන් රත්නායක නම් කර තිබේ.
+
+කෙසේ වෙතත් ආරම්භක පිතිකරු පැතුම් නිශ්ශංකට කණ්ඩායමේ ස්ථානය අහිමි වී ඇති අතර මේ වන විට ඩුබායිහි පැවැත්වෙන ලීග තරගාවලියට ක්‍රිඩා කරන ඩිල්ෂාන් මධුශංක හා කුසල් පෙරේරාද සංචිතයට නම් කර නොමැත.
+
+ශ්‍රී ලංකා ටෙස්ට් සංචිතය - ධනංජයද සිල්වා (නායක), කුසල් මෙන්ඩිස් (උපනායක) දිමුත් කරුණාරත්න, නිෂාන් මධුශංක, ඇන්ජලෝ මැතිව්ස්, දිනේෂ් චන්දිමාල්, සදීර සමරවික්‍රම, රමේෂ් මෙන්ඩිස්, අසිත ප්‍රනාන්දු, විශ්ව ප්‍රනාන්දු, කසුන් රාජිත, කමිඳු මෙන්ඩිස්, ප්‍රභාත් ජයසූරිය, ළහිරු උදාර, චාමික ගුණසේකර, මිලාන් රත්නායක
+
+◼️
+
+[Data](articles/e1148a8b.json)
+
+---
 
 ### Here is the order the judiciary given to Sanath Nishantha's case
 
@@ -52,23 +136,25 @@ The petitions were presented by the Sri Lanka Judicial Officers Association and 
 
 ---
 
-### தடை செய்யப்பட்ட இழுவை மடியை பயன்படுத்தி கடற்றொழிலில் ஈடுபட்ட 5 மீனவர்கள் கைது
+### 5 fishermen arrested for fishing using banned traction lap
 
 *2024-01-31 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175239) · `ta`
 
-மாந்தை மேற்கு பிரதேச  செயலாளர் பிரிவில் உள்ள விடத்தல் தீவு கடற்கரையில்  தடை செய்யப்பட்ட இழுவை மடியை பயன்படுத்தி கடற்றொழிலில் ஈடுபட்ட 5 மீனவர்கள் கைது செய்யப்பட்டுள்ளதோடு  அவர்கள் பயன்படுத்திய இழுவை படகையும் மீட்டுள்ளனர்.
+Five fishermen have been arrested for using a banned traction lap at the Vidal Island beach in the Manthai West Divisional Secretariat Division.
 
-கைது செய்யப்பட்டவர்கள் எருக்கலம்பிட்டி மற்றும்  உப்புக்குளம் பகுதியைச் சேர்ந்தவர்கள் என தெரிய வந்துள்ளது.
+It has been revealed that the arrested persons are from Erukkalampitti and Uppukkulam.
 
-விடத்தல் தீவு மக்கள் மற்றும் கடற்றொழில் திணைக்கள உத்தியோகத்தர்களால்  திங்கட்கிழமை (29) இரவு கைது குறித்த மீனவர்கள் கடலில் வைத்து பிடித்துள்ளனர்.
+Fishermen were arrested on Monday night (29) by the Department of Fisheries and Fisheries Department.
 
-இந்நிலையில் விடத்தல் தீவு இறங்கு துறையில் இழுவை படகு நிறுத்தப்பட்டுள்ளதோடு, மேலதிக நடவடிக்கைக்காக 5 மீனவர்களும் வலைகளும் மன்னார் கடற்றொழில் திணைக்கள அதிகாரிகளிடம் ஒப்படைக்கப்பட்டுள்ளனர்.
+In this case, the fishermen and nets have been handed over to the Mannar Fisheries Department officials for further action.
 
-மன்னார் மாவட்ட கடற்தொழில் திணைக்கள அதிகாரிகள்  விசாரணைகளின் பின்னர் மேலதிக நடவடிக்கைக்காக மன்னார் நீதிமன்றத்தில்  ஆஜர்படுத்தவுள்ளனர்.
+Officials of the Mannar District Fisheries Department will be produced before the Mannar Court for further action after investigations.
 
 ◼️
 
 [Data](articles/c80908a3.json)
+
+[Extended Data](ext_articles/c80908a3.ext.json)
 
 ---
 
@@ -103,6 +189,8 @@ Sri Lankan Expressway to See New Rules and Minimum Speed Limits
 ◼️
 
 [Data](articles/5bc0d71f.json)
+
+[Extended Data](ext_articles/5bc0d71f.ext.json)
 
 ---
 
@@ -222,6 +310,26 @@ Sri Lankan Expressway to See New Rules and Minimum Speed Limits
 
 [Data](articles/72370bbb.json)
 
+[Extended Data](ext_articles/72370bbb.ext.json)
+
+---
+
+### පියැසි මත සූර්ය පැනල සවිකිරීමෙන් 2023දී ඒකක මිලියන 630ක් ජාතික පද්ධතියට
+
+*2024-01-31 14:25:11* · [`adalk`](https://www.ada.lk/breaking_news/පියැසි-මත-සූර්ය-පැනල-සවිකිරීමෙන්-2023දී-ඒකක-මිලියන-630ක්-ජාතික-පද්ධතියට/11-407820) · `si`
+
+ලංවිම විදුලි පාරිභෝගිකයන් සඳහා ක්‍රියාත්මක කරන ලද පියැසි මත සූර්ය පැනල සවිකිරීමේ ක්‍රමවේදය (Rooftop Solar Scheme) යටතේ 2023 වසර තුල දී පමණක් විදුලි ඒකක මිලියන 630 ක් (630 million units) ජාතික පද්ධතියට එක් කර ඇති බව ලංකා විදුලිබල මණ්ඩලය ඉතා සතුටින් දැනුම් දෙයි.
+
+මෙහිදී සාම්ප්‍රදායික විදුලිය පාවිච්චි කිරීමේ ක්‍රමයෙන් බැහැර ව නව තාක්ෂණික අත්දැකීමක් ලබාගනිමින්  ජාතික පද්ධතියට විදුලිය විකිණීමට  පාරිභෝගිකයින් යොමුවී තිබීම අගය කල  යුතු බව විදුලි බල මණ්ඩලය නිවේදනය කරයි.
+
+මෙහි දී විවිධ ඉංජිනේරුමය සහ තාක්ෂණික ගැටළු සඳහා විසඳුම් ලබාදෙමින් හැකි උපරිම ආකාරයෙන් සූර්ය පැනල පද්ධති ජාතික පද්ධතියට එකතු කිරීමට කටයුතු කරන, වි‌ශේෂයෙන් බෙදාහැරීම් අංශවල අපගේ කාර්ය මණ්ඩල‌යේ මෙහෙවර ද අගය කල යුතුය.
+
+අපගේ පාරිභෝගික භවතුන් ලංවිම සමග එක්ව සිදුකරන මෙම පරිසර හිතකාමී ව්‍යාපෘති මගින් රටේ පුනර්ජනනීය බලශක්ති භාවිතය ප්‍රවර්ධනය වන අතර මෙවැනි ධනාත්මක තොරතුරු මහජනතාව වෙත   ලබා දීම සඳහා ඔබ මාධ්‍ය ආයතනයන්හි සහයෝගීතාවයද ඉතා කාරුණිකව බලාපොරොත්තු වෙමු.
+
+◼️
+
+[Data](articles/bd003046.json)
+
 ---
 
 ### Sri Lanka Slips in Global Corruption Ranking
@@ -246,6 +354,8 @@ Notably, the global average score remained stagnant at 43, with most countries e
 
 [Data](articles/532bd0b8.json)
 
+[Extended Data](ext_articles/532bd0b8.ext.json)
+
 ---
 
 ### Sri Lankan Expressway to See New Rules and Minimum Speed Limits
@@ -265,6 +375,8 @@ Sri Lankan Expressway to See New Rules and Minimum Speed Limits
 ◼️
 
 [Data](articles/ff70e08c.json)
+
+[Extended Data](ext_articles/ff70e08c.ext.json)
 
 ---
 
@@ -360,6 +472,8 @@ Sri Lankan Expressway to See New Rules and Minimum Speed Limits
 
 [Data](articles/39473260.json)
 
+[Extended Data](ext_articles/39473260.ext.json)
+
 ---
 
 ### Activist Piyath Nikeshala Granted Bail
@@ -379,6 +493,8 @@ Sri Lankan Expressway to See New Rules and Minimum Speed Limits
 ◼️
 
 [Data](articles/488e99a3.json)
+
+[Extended Data](ext_articles/488e99a3.ext.json)
 
 ---
 
@@ -1907,129 +2023,5 @@ Marine insurance companies have reacted to the volatile situation by raising the
 [Data](articles/592be88d.json)
 
 [Extended Data](ext_articles/592be88d.ext.json)
-
----
-
-### Jagath Priyankara's name gazettes instead of Sanath Nishantha
-
-*2024-01-31 09:55:07* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්ත-වෙනුවට-ජගත්-ප්‍රියංකරගේ-නම-ගැසට්-කරයි/11-407817) · `si`
-
-LK's for the death of Mr. Sanath Nishantha's death to the post of vacant parliamentary seat. The Gazette notification for the appointment of Jagath Priyankara has been issued.
-
-In the 2020 parliamentary election, the Sri Lanka Crown Front received five seats from the Puttalam District and the first was the first Sanath Nishantha.
-
-Fantha was Four of the four. Jagath Priyankara was the 6th in the preferential votes list.
-
-Accordingly, Jagath Priyankara will be appointed as the death of Sanath Nishantha. He is the Puttalam District Leader of the National Freedom Front, led by Wimal Weerawansa.
-
-In the foregoing, Jagath Priyankara arrives in the opinion of Mr. Wimal Weerawansa after he arrived in parliament.
-
-◼️
-
-[Data](articles/cf9fe41a.json)
-
-[Extended Data](ext_articles/cf9fe41a.ext.json)
-
----
-
-### Release
-
-*2024-01-31 09:48:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளியானது-விசேட-வர்த்தமானி-அறிவித்தல்/175-332390) · `ta`
-
-LK to the post of Member of Parliament Sanath Nishantha, who died in the accident. Jagath Priyankara has been selected.
-
-Meanwhile, the wife of the late State Minister Sanath Nishantha, Samari Priyanka Perera, said that if she requested to accept the vacuum of her husband's death, it could be considered in the future.. Remble
-
-◼️
-
-[Data](articles/6856fafe.json)
-
-[Extended Data](ext_articles/6856fafe.ext.json)
-
----
-
-### Gazette for the new MP has been released
-
-*2024-01-31 09:48:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-எம்-பிக்கான-வர்த்தமானி-வெளியானது/175-332390) · `ta`
-
-LK to the post of Member of Parliament Sanath Nishantha, who died in the accident. Jagath Priyankara has been selected.
-
-Meanwhile, the wife of the late State Minister Sanath Nishantha, Samari Priyanka Perera, said that if she requested to accept the vacuum of her husband's death, it could be considered in the future.. Remble
-
-◼️
-
-[Data](articles/8ffb7b06.json)
-
-[Extended Data](ext_articles/8ffb7b06.ext.json)
-
----
-
-### Afghan group to visit the island
-
-*2024-01-31 09:47:12* · [`adalk`](https://www.ada.lk/sports/ඇෆ්ගනිස්ථාන-කණ්ඩායම-දිවයිනට/9-407816) · `si`
-
-The Afghanistan cricket team arrived at the Katunayake Airport on 01/30 days to participate in Sri Lanka's Test match in Sri Lanka.
-
-The group included 28 players including trainers and officers.
-
-The Test match will be held from February to 6th to 6th February to 6th February and the match has been given the opportunity to visit the match free.
-
-One Day Limited Overs 50 matches will be held on February 09, 11 and 14 at the Pallekele International Playground.
-
-The Twenty20 cricket match will be held at Dambulla International Cricket Ground on 17th February 17, 19 and 21.
-
-The Afghanistan cricket team from Dubai to 10.20 days at Dubai to Katunayake Airport was also present at the Katunayake airport on the 648 plane.
-
-◼️
-
-[Data](articles/5d06eb80.json)
-
-[Extended Data](ext_articles/5d06eb80.ext.json)
-
----
-
-### The guy breaking man live better than the government worker
-
-*2024-01-31 09:40:36* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-සේවකයාට-වඩා-පොල්-කඩන-මනුස්සයා-හොඳින්-ජීවත්-වෙනවා/11-407815) · `si`
-
-"The government employees are now very difficult," Sri Lanka Freedom Man Organization, MP Duminda Dissanayake said.
-
-He was speaking at the Regional Coordinating Committee meeting, Mr. II, Ipalogama. Iplogama Regional Coordinating Committee Meeting was held at the Ipalogama Divisional Secretariat Auditorium.
-
-The political representatives and government officials have discussed with elephant problems, agricultural issues, including agricultural problems in the Divisional Secretariat.
-
-"You and all of us are really happy as government servants. When you take with expenses, nothing is less than what's too much, the lights, the school expenses, and all these things are over.
-
-At this time, public servants are living hardful, and today, today, today, live very well. Because he grew up his own, with the expenditure, the coconut rains have increased.
-
-...
-
-[Data](articles/0d360f1f.json)
-
-[Extended Data](ext_articles/0d360f1f.ext.json)
-
----
-
-### Sri Lanka Tax ID Fines On Hold
-
-*2024-01-31 09:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/sri-lanka-tax-id-fines-on-hold/) · `en`
-
-COLOMBO (News 1st); The Inland Revenue Department has temporarily suspended imposing fines on individuals who have not obtained their Taxpayer Identification Number (TIN) or tax registration number, according to the instructions of the Ministry of Finance.
-
-The government had previously announced that every citizen above the age of 18 must open a tax file, and it was planned to be made mandatory from January 1, 2024.
-
-However, due to problems in implementing the related program in practice, its mandatory implementation was postponed to February 1, 2024.
-
-It was announced that a fine of fifty thousand rupees would be charged for individuals who did not obtain the relevant TIN number.
-
-When asked about the matter, Nihal Wijewardena, Deputy Commissioner of the Inland Revenue Department, stated that those who did not obtain the relevant number by February 1, 2024, will not be fined.
-
-Sri Lankan Expressway to See New Rules and Minimum Speed Limits
-
-◼️
-
-[Data](articles/3c37bb40.json)
-
-[Extended Data](ext_articles/3c37bb40.ext.json)
 
 ---

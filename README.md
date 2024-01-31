@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 23:49:43**
+As of **2024-02-01 00:02:18**
 
 ## Newspaper Stats
 
-*Scraped **3,940** Articles*
+*Scraped **3,943** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 47
 bbccomsinhala | 62
 dbsjeyarajcom | 130
 islandlk | 208
-economynextcom | 218
+economynextcom | 221
 dailyftlk | 243
 newsfirstlk | 247
 adalk | 350
@@ -26,7 +26,7 @@ dailymirrorlk | 542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,940 (100.0%) of 3,940 articles have been extended.
+3,940 (99.9%) of 3,943 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -998,6 +998,24 @@ The petitions have been filed by the two lawyers of the Sri Lanka Judicial Offic
 
 ---
 
+### Sri Lanka Treasuries yields plunge across maturities
+
+*2024-01-31 18:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-plunge-across-maturities-149416/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasuries yields fell across maturities at Wednesday’s auction, the state debt office data showed.
+
+The debt office sold 40 billion rupees in 3-month bills at 11.97 percent, down by 138 basis points from a week earlier, after offering 40 billion rupees.
+
+70 billion rupees in 6-month bills were sold at 12.20 percent, down by 1.21 points from a week earlier after offering 70 billion rupees.
+
+50 billion rupees of 12-month bills were sold at 12 percent, down by 78 points from a week earlier after offering 50 billion rupees. (Colombo/Jan31/2023)
+
+◼️
+
+[Data](articles/3a47cb23.json)
+
+---
+
 ### Tears of tears at Galaha junction
 
 *2024-01-31 18:26:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கலஹா-சந்தியில்-கண்ணீர்-புகைப்பிரயோகம்/76-332435) · `ta`
@@ -1042,6 +1060,26 @@ This is the third time J Shah's Asian Cricket Council Chairman has been extended
 
 ---
 
+### Sri Lanka inflation rises to 6.5-pct in Jan 2024, above 5.0-pct target
+
+*2024-01-31 18:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-inflation-rises-to-6-5-pct-in-jan-2024-above-5-0-pct-target-149413/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s inflation in the 12-months to January 2023 by the widely watched Colombo Consumer Price Index was 6.5 percent, higher than the statutory 5 percent target but below the 2.0 percent variation allowed.
+
+The index rose 2.9 percent in the month, with a 3 percent hike in value added tax hitting most goods and services and some that did not have value added tax earlier.
+
+The CCPI index was up 6.0 percent since September 2022, when monetary stability was reached.
+
+The central bank has been conducting broadly deflationary policy, triggering a balance of payments surplus and had also allowed the exchange rate to appreciate, which helps reduce prices measured in Sri Lanka rupees.
+
+Food prices rose 3.8 percent during the month, with some vegetables seeing steep increases after floods. Non-foods rose 2.5 percent. (Colombo/Jan31/2023)
+
+◼️
+
+[Data](articles/5af4d6a0.json)
+
+---
+
 ### A method of paying the latest easy payment
 
 *2024-01-31 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192805) · `si`
@@ -1057,6 +1095,24 @@ Speaking on the account, the Minister further indicates that several other servi
 [Data](articles/05d1b0b6.json)
 
 [Extended Data](ext_articles/05d1b0b6.ext.json)
+
+---
+
+### Sri Lanka Trade Minister opts for drastic CAA restructuring
+
+*2024-01-31 18:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-trade-minister-opts-for-drastic-caa-restructuring-149410/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Trade Minister Nalin Fernando has opted for drastic changes in the Consumers Affairs Authority (CAA) after repeated failure of the state-owned firm to protect the customers from higher prices and ensuring fair market competition in the island nation.
+
+The CAA fixed prices as a knee jerk reaction to price fluctuations under the direction of ministers in successive governments, but the moves only resulted in black market and exorbitant profits for sellers, economists and analysts have said.
+
+Minister Fernando admitted that the objectives of the CAA, which comes under the purview of his ministry, has not been met.
+
+“There are a lot of female graduates appointed to CAA and they are unable to do the raids to control the market manipulation,” including hoarding, selling at higher prices, and healthy competition, Fernando told EconomyNext.
+
+...
+
+[Data](articles/b915f4eb.json)
 
 ---
 
@@ -1999,71 +2055,5 @@ Meanwhile, the Chief Incumbent Thera has lodged a complaint with the Welipenna P
 [Data](articles/907d5885.json)
 
 [Extended Data](ext_articles/907d5885.ext.json)
-
----
-
-### Two bills are enforced
-
-*2024-01-31 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192793) · `si`
-
-Speaker Mahinda Yapa Abeywardena recorded his certificate today (31) for two bills passed by Parliament.
-
-The acceptance and enforcement and enforcement of international settlement agreements through the Mediation Bill and the Notary (Amendment) was the charge of the Speaker for the Speaker.
-
-Accordingly, the UPFA welcome and enforcement of International Settlement Agreements on the Mediation No. 5 of 2024.
-
-◼️
-
-[Data](articles/e0726ac0.json)
-
-[Extended Data](ext_articles/e0726ac0.ext.json)
-
----
-
-### ‘The next time you want to take a holiday, go to Sri Lanka’ – Jaishankar to Indians
-
-*2024-01-31 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/96884/the-next-time-you-want-to-take-a-holiday-go-to-sri-lanka-jaishankar-to-indians-) · `en`
-
-Commenting on the recent aid extended by India to Sri Lanka at a crucial juncture during the country’s most severe and unprecedented economic crisis, India’s Minister of External Affairs Dr. S. Jaishankar has urged for all Indians to visit Sri Lanka, emphasising the strong ties between the two nations.
-
-“My first advice would be, the next time you want to take a holiday, go to Sri Lanka”, he said.
-
-Responding to questions from students at the Indian Institute of Management (IIM) in Mumbai on ‘India’s role in the global stage’, Dr. Jaishankar provided a detailed account of the economic woes faced by Sri Lanka during this time, and the unwavering support extended by India.
-
-“Mix with the normal person in Sri Lanka and ask them what do you think about India, and I can tell you, you will feel yourself grow with that answer”, he said.
-
-...
-
-[Data](articles/6191867e.json)
-
-[Extended Data](ext_articles/6191867e.ext.json)
-
----
-
-### Government Delays SriLankan Airlines Sale for Third Time
-
-*2024-01-31 15:57:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/government-delays-srilankan-airlines-sale-for-third-time/) · `en`
-
-COLOMBO (News 1st);  In a bid to attract a broader range of potential investors, the Sri Lankan government has once again extended the deadline for submitting proposals for the acquisition of SriLankan Airlines.
-
-The new deadline is now February 16th, 2024, marking the third extension since the privatization process began.
-
-This announcement comes from KDS Ruwanchandra, Secretary of the Ministry of Ports, Shipping and Aviation.
-
-He stated that the extension was decided upon "with the aim of giving more people the opportunity to submit proposals."
-
-The initial deadline for expressions of interest was December 5th, 2023.
-
-It was subsequently extended to December 18th, and then again to January 9th, 2024.
-
-The privatization of SriLankan Airlines is a crucial element of the government's economic reform plan.
-
-The national carrier has faced significant financial difficulties in recent years, prompting the government to explore various options to ensure its sustainability and long-term viability.
-
-...
-
-[Data](articles/476d997b.json)
-
-[Extended Data](ext_articles/476d997b.ext.json)
 
 ---

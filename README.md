@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 16:48:01**
+As of **2024-01-31 17:02:28**
 
 ## Newspaper Stats
 
-*Scraped **3,826** Articles*
+*Scraped **3,836** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 208
 newsfirstlk | 235
 dailyftlk | 243
 adalk | 343
-virakesarilk | 431
 adaderanasinhalalk | 435
-adaderanalk | 481
+virakesarilk | 437
+adaderanalk | 485
 tamilmirrorlk | 492
 dailymirrorlk | 518
 
@@ -26,11 +26,89 @@ dailymirrorlk | 518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,826 (100.0%) of 3,826 articles have been extended.
+3,826 (99.7%) of 3,836 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### Police fire tear gas at protesting students in Peradeniya
+
+*2024-01-31 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/96888/police-fire-tear-gas-at-protesting-students-in-peradeniya) · `en`
+
+Police have fired tear gas and water cannons near the Peradeniya Rest House in attempts to disperse a group of protesting students from the University of Peradeniya.
+
+◼️
+
+[Data](articles/7c6ba019.json)
+
+---
+
+### பாராளுமன்றத்தின் 7வது படைக்கலச் சேவிதராக குஷான் சம்பத் ஜயரத்ன  கடமைகளைப் பொறுப்பேற்றார்
+
+*2024-01-31 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175256) · `ta`
+
+இலங்கைப் பாராளுமன்றத்தின் 7வது படைக்கலச் சேவிதராக குஷான் சம்பத் ஜயரத்ன இன்று (31) தனது கடமைகளைப் பொறுப்பேற்றார்.
+
+பாராளுமன்றத்தின் 6வது படைக்கச் சேவிதராக கடமையாற்றிய நரேந்திர பெர்னாந்து நேற்று செவ்வாய்க்கிழமை (30) ஓய்வுபெற்ற நிலையில், 07 ஆவது படைக்கலச் சேவிதராக குஷான் சம்பத் ஜயரத்ன இன்று பொறுப்பேற்றுக்கொண்டார்.
+
+ஓய்வுபெற்ற படைக்கலச் சேவிதர் நரேந்திர பெர்னாந்துவினால் புதிய படைக்கலச் சேவிதர் குஷான் சம்பத் ஜயரத்னவுக்கு சம்பிரதாயபூர்வமாக செங்கோல் மற்றும் படைக்கலச் சேவிதரின் வாள் கையளிக்கும் நிகழ்வு நேற்று (30) முற்பகல் பாராளுமன்ற சபை மண்டபத்தின் வெள்ளிக் கதவுக்கு அருகில் இடம்பெற்றது.
+
+...
+
+[Data](articles/64d79700.json)
+
+---
+
+### ஜனாதிபதிதேர்தல் வேட்பாளர்களி;ல் யாருக்கு அதிக ஆதரவு -ஐஎச்பியின் கருத்துக்கணிப்பு தெரிவி;ப்பது என்ன?
+
+*2024-01-31 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175255) · `ta`
+
+ஜனாதிபதி தேர்தல் வேட்பாளர்களில் ஜேவிபியின் அனுரகுமாரதிசநாயக்கவிற்கே தொடர்ந்தும் அதிகள ஆதரவு காணப்படுவது கருத்துக்கணிப்பொன்றின் மூலம் தெரியவந்துள்ளது.
+
+எதிர்வரும் ஜனாதிபதி தேர்தலின் போது யாருக்கு வாக்களிப்பது என்ற மக்களின் மனோநிலையை அறிவதற்காக டிசம்பர் மாதம் இன்ஸ்டியுட் ஒவ் ஹெல்த் பொலிசி என்ற அமைப்பு நடத்திய கருத்துக்கணிப்பின் மூலம் இது தெரியவந்துள்ளது.
+
+ஜேவிபியின் தலைவருக்கு 50 வீதமான ஆதரவும் ஐக்கிய மக்கள் சக்தியின் தலைவருக்கு 33 வீத ஆதரவும் ஜனாதிபதி ரணி;ல்விக்கிரமசிங்கவிற்கு 9 வீத ஆதரவும் காணப்படுவது இந்த கருத்துக்கணிப்பி;ன் மூலம் தெரியவந்துள்ளதாக ஐஎச்பி அமைப்பு தெரிவித்துள்ளது.
+
+2023 நடுப்பகுதியிலிருந்து அனுரகுமாரதிசநாயக்கவி;ற்கான ஆதரவு அதிகரித்துள்ளது எனினும் டிசம்பரில் வீழ்ச்சி காணப்பட்டது ஐக்கியமக்கள் சக்தியின் தலைவருக்கான ஆதரவு 2023 செப்டம்பர் மாதத்திற்கு பின்னர் 3 வீதத்தினால் அதிகரித்துள்ளது ஜனாதிபதி ரணில்விக்கிரமசிங்கவிற்கான ஆதரவு ஆறுவீதத்தினால் வீழ்ச்சியடைந்துள்ளது என்பது ஐஎச்பியின் கருத்துக்கணிப்பின் மூலம் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/1afdf595.json)
+
+---
+
+### இரண்டு சட்டமூலங்களை சபாநாயகர் சான்றுரைப்படுத்தினார்
+
+*2024-01-31 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175254) · `ta`
+
+அண்மையில் பாராளுமன்றத்தில் நிறைவேற்றப்பட்ட மத்தியஸ்திலிருந்து விளைகின்ற சர்வதேச தீர்த்துவைத்தல் உடன்படிக்கைகளை ஏற்றங்கீகரித்தலும் மற்றும் வலுவுறுத்தலும் சட்டமூலம், நொத்தாரிசு (திருத்த) சட்டமூலம் ஆகிய இரு சட்ட மூலங்களில் சபாநாயகர்  மஹிந்த யாப்பா அபேவர்தன நேற்று செவ்வாய்க்கிழமை (30) தனது கையொப்பத்தையிட்டு சான்றுரைப்படுத்தினார்.
+
+இதற்கமைய, இந்தச் சட்டமூலங்கள் 2024 ஆம் ஆண்டின் 5 ஆம் இலக்க மத்தியஸ்திலிருந்து விளைகின்ற சர்வதேச தீர்த்துவைத்தல் உடன்படிக்கைகளை ஏற்றங்கீகரித்தலும் மற்றும் செயல்வலுபெறுதலும் சட்டம், 2024 ஆம் ஆண்டின் 6 ஆம் இலக்க நொத்தாரிசு (திருத்த) சட்டமாக அமுலுக்கு வருகின்றன.
+
+இதேவேளை பாராளுமன்றத்தில் இறுதியாக நிறைவேற்றப்பட்ட சர்ச்சைக்குரிய நிகழ்நிலை காப்புச் சட்டமூலத்தில் சபாநாயகர் இதுவரை கைச்சாத்திட்டு சான்றுரைப்படுத்தவில்லை என்பது குறிப்பிடத்தக்கதாகும்.
+
+◼️
+
+[Data](articles/bef3b62c.json)
+
+---
+
+### யாழில் சிறையிலிருந்து விடுதலையான இளைஞன் உயிரிழப்பு
+
+*2024-01-31 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175253) · `ta`
+
+யாழ்ப்பாண சிறைச்சாலையில் இருந்து விடுவிக்கப்பட்ட இளைஞன், நேற்று செவ்வாய்க்கிழமை (30) சந்தேகத்திற்கு இடமான முறையில் உயிரிழந்துள்ளார்.
+
+யாழ்ப்பாண சிறையில் தடுத்து வைக்கப்பட்டு இருந்த குறித்த இளைஞன் கடந்த ஜனவரி மாதம் 26ஆம் திகதி , விடுவிக்கப்பட்டு இருந்தார்.
+
+சடலம் உடற்கூற்று பரிசோதனைக்காக யாழ்.போதனா வைத்தியசாலையில் ஒப்படைக்கப்பட்டுள்ள நிலையில் , உடற்கூற்று பரிசோதனையின் பின்னரே இறப்புக்கான காரணம் தெரிய வரும் என வைத்திய சாலை நிர்வாகம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/5672206b.json)
+
+---
 
 ### Show if hitting - Iran
 
@@ -49,6 +127,40 @@ Jordani - 3 soldiers were killed in a drone attack on a US military base in Syri
 [Data](articles/c7fa9b4c.json)
 
 [Extended Data](ext_articles/c7fa9b4c.ext.json)
+
+---
+
+### Speaker endorses certificate on two Bills
+
+*2024-01-31 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/96886/speaker-endorses-certificate-on-two-bills) · `en`
+
+The Speaker of the Parliament Mahinda Yapa Abeywardana has endorsed the certificate on two bills today (Jan 31).
+
+Accordingly, the Recognition and Enforcement of International Settlement Agreements Resulting from Mediation Bill and the Notaries (Amendment) Bill which were passed in Parliament recently, have been certified by the Speaker.
+
+Thus, the said Bills will come into effect as the Recognition and Enforcement of International Settlement Agreements Resulting from Mediation Act No.5 of 2024 and the Notaries (Amendment) Act No.6 of 2024.
+
+◼️
+
+[Data](articles/87c4de3b.json)
+
+---
+
+### தேசிய வீடமைப்பு அபிவிருத்தி அதிகார சபையின் திட்டங்களை நடைமுறைப்படுத்த ஒருங்கிணைப்புக் குழுக்களின் அனுமதி அவசியம் - பிரசன்ன ரணதுங்க
+
+*2024-01-31 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175247) · `ta`
+
+தேசிய வீடமைப்பு அபிவிருத்தி அதிகார சபையினால் முன்னெடுக்கப்படும் அனைத்து அபிவிருத்தித் திட்டங்களையும் நடைமுறைப்படுத்துவதற்கு முன்னர் மாவட்ட ஒருங்கிணைப்புக் குழுக்களின் அனுமதியைப் பெறுவது கட்டாயம் என நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+
+இதுபோன்ற செயல்களைச் செய்வதன் மூலம் திட்டங்களை நிறைவேற்றுவதில் உள்ள சிக்கல்களைத் தவிர்க்கலாம் என்று அவர் வலியுறுத்துகிறார்.
+
+பத்தரமுல்ல வோட்டர்ஸ் எட்ஜ் நிறுவனத்தில் நேற்று திங்கட்கிழமை (29) நடைபெற்ற தேசிய வீடமைப்பு அபிவிருத்தி அதிகார சபையின் மாவட்ட முகாமையாளர்கள் மாநாட்டில் கலந்துகொண்டு கருத்து தெரிவிக்கும் போதே அமைச்சர் பிரசன்ன ரணதுங்க மேற்கண்டவாறு தெரிவித்தார்.
+
+இதில் தேசிய வீடமைப்பு அபிவிருத்தி அதிகார சபையின் அனைத்து மாவட்ட முகாமையாளர்கள் மற்றும் உயர் அதிகாரிகள் கலந்துகொண்டனர்.
+
+...
+
+[Data](articles/71ee3354.json)
 
 ---
 
@@ -89,6 +201,44 @@ Accordingly, the UPFA welcome and enforcement of International Settlement Agreem
 [Data](articles/e0726ac0.json)
 
 [Extended Data](ext_articles/e0726ac0.ext.json)
+
+---
+
+### ‘The next time you want to take a holiday, go to Sri Lanka’ – Jaishankar to Indians
+
+*2024-01-31 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/96884/the-next-time-you-want-to-take-a-holiday-go-to-sri-lanka-jaishankar-to-indians-) · `en`
+
+Commenting on the recent aid extended by India to Sri Lanka at a crucial juncture during the country’s most severe and unprecedented economic crisis, India’s Minister of External Affairs Dr. S. Jaishankar has urged for all Indians to visit Sri Lanka, emphasising the strong ties between the two nations.
+
+“My first advice would be, the next time you want to take a holiday, go to Sri Lanka”, he said.
+
+Responding to questions from students at the Indian Institute of Management (IIM) in Mumbai on ‘India’s role in the global stage’, Dr. Jaishankar provided a detailed account of the economic woes faced by Sri Lanka during this time, and the unwavering support extended by India.
+
+“Mix with the normal person in Sri Lanka and ask them what do you think about India, and I can tell you, you will feel yourself grow with that answer”, he said.
+
+...
+
+[Data](articles/6191867e.json)
+
+---
+
+### Colombo’s inflation increases to 6.4% in January
+
+*2024-01-31 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/96883/colombos-inflation-increases-to-64-in-january) · `en`
+
+The overall rate of inflation as measured by Colombo Consumer Price Index (CCPI) on year-on-year basis has increased to 6.4% in January 2024 from 4.0% in December 2023, according to the latest data from the Census & Statistics Department (DCS).
+
+The CCPI for all items for the month of January 2024 was 200.7 and it records an increase of 5.6 index points that is 2.87 percentage change compared to the month of December 2023 for which the index was 195.1.
+
+This represents an increase in expenditure value by Rs 5152.79 in the “Market Basket”.
+
+Meanwhile, food inflation increased to 3.3% in January 2024 from 0.3% in December 2023, the Census & Statistics Department (DCS) said in its release.
+
+In addition to this, the year-on-year inflation of the non-food group increased to 7.9% in January 2024, from 5.8% in December 2023.
+
+...
+
+[Data](articles/f771f57f.json)
 
 ---
 
@@ -176,6 +326,24 @@ Ravi Kumudesh, co -organizer of the Health Trade Unions Federation, said that th
 
 ---
 
+### இலங்கையின் சுதந்திரநாள்! ஈழத்தமிழர்களின் கரிநாள்! பறிக்கப்பட்ட தமிழர்களின் சுயநிர்ணய உரிமையை மீளப்பெற்றுத்தர வலியுறுத்தி பிரிட்டனில்  மாபெரும் கண்டனப் பேரணி
+
+*2024-01-31 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175242) · `ta`
+
+ஈழத்தமிழர் பேரவை தமிழர் ஒருங்கிணைப்பு குழு சர்வதேசதமிழீழ இராஜதந்திரகட்டமைப்பு தமிழ்இளையோர் அமைப்பு ஆகியன இணைந்து இந்த பேரணியை ஏற்பாடு செய்துள்ளன.
+
+"ஒரு நாட்டின் பிராந்திய ஒருமைப்பாடு என்பது அந்நாட்டில் உள்ள இனக்குழுக்களை சமமாக நடத்துவதை அடிப்படையாகக் கொண்டது. ஒரு இனக்குழுவிற்கு சமத்துவம் வழங்கப்படாத பட்சத்தில்இ சமத்துவம் மற்றும் இறுதியில் பிரிவினைக்கான அதன் உரிமைகோரல்களை வலியுறுத்த உரிமை உள்ளது என்பதை சுயநிர்ணய உரிமை மக்களின் சமத்துவம் மற்றும் பிராந்திய ஒருமைப்பாடு ஆகியவற்றை உள்ளடக்கிய சர்வதேச சட்டம் வலியுறுத்துகிறது "
+
+இவ்வரையறைக்குள் வட்டுக்கோட்டைத் தீர்மானத்தின் அடிப்படையில் தமிழர்களின் சுயநிர்ணய உரிமையை மீளப்பெற்றுத்தர வலியுறுத்தி எதிர்வரும் பெப்ரவரி 4ஆம் நாள் அன்று பிரித்தானிய தலைநகர் லண்டனில் பாரிய கவனயீர்ப்பு பேரணி நடைபெறவுள்ளது.
+
+உலகெங்கிலும் இருந்து பல்லாயிரத்திற்கும் மேற்பட்ட தமிழின உணர்வாளர்கள் கலந்துகொண்டு உரிமைக்குரல் எழுப்பவுள்ள இப் பேரணியானது  இலங்கை உயர்ஸ்தானிகர் அலுவலகத்திற்கு உயர்  முன்பாக ஆரம்பித்து நடைபவனியாக செல்லவுள்ளது.
+
+...
+
+[Data](articles/16d3ec0f.json)
+
+---
+
 ### Pillai's pension if a civil servant dies
 
 *2024-01-31 15:21:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசு-ஊழியர்-இறந்தால்-பிள்ளைக்கு-ஓய்வூதியம்/175-332418) · `ta`
@@ -246,6 +414,28 @@ Police said they had arrested Piyat Nikeshla on charges of disrupting the peace 
 
 ---
 
+### 5 fishermen arrested for fishing using banned traction lap
+
+*2024-01-31 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/175239) · `ta`
+
+Five fishermen have been arrested for using a banned traction lap at the Vidal Island beach in the Manthai West Divisional Secretariat Division.
+
+It has been revealed that the arrested persons are from Erukkalampitti and Uppukkulam.
+
+Fishermen were arrested on Monday night (29) by the Department of Fisheries and Fisheries Department.
+
+In this case, the fishermen and nets have been handed over to the Mannar Fisheries Department officials for further action.
+
+Officials of the Mannar District Fisheries Department will be produced before the Mannar Court for further action after investigations.
+
+◼️
+
+[Data](articles/c80908a3.json)
+
+[Extended Data](ext_articles/c80908a3.ext.json)
+
+---
+
 ### Jacqueline Fernandez knowingly used, enjoyed conman’s proceeds of crime, court told
 
 *2024-01-31 14:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jacqueline-Fernandez-knowingly-used-enjoyed-conmans-proceeds-of-crime-court-told/108-276046) · `en`
@@ -305,28 +495,6 @@ The petitions were presented by the Sri Lanka Judicial Officers Association and 
 [Data](articles/8882f938.json)
 
 [Extended Data](ext_articles/8882f938.ext.json)
-
----
-
-### 5 fishermen arrested for fishing using banned traction lap
-
-*2024-01-31 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175239) · `ta`
-
-Five fishermen have been arrested for using a banned traction lap at the Vidal Island beach in the Manthai West Divisional Secretariat Division.
-
-It has been revealed that the arrested persons are from Erukkalampitti and Uppukkulam.
-
-Fishermen were arrested on Monday night (29) by the Department of Fisheries and Fisheries Department.
-
-In this case, the fishermen and nets have been handed over to the Mannar Fisheries Department officials for further action.
-
-Officials of the Mannar District Fisheries Department will be produced before the Mannar Court for further action after investigations.
-
-◼️
-
-[Data](articles/c80908a3.json)
-
-[Extended Data](ext_articles/c80908a3.ext.json)
 
 ---
 
@@ -1825,205 +1993,5 @@ Meanwhile, three police officers were injured when police threw stones at a prot
 [Data](articles/2b0c73c0.json)
 
 [Extended Data](ext_articles/2b0c73c0.ext.json)
-
----
-
-### Sri Lanka rupee opens at 316.80/90 to the US dollar
-
-*2024-01-31 11:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-316-80-90-to-the-us-dollar-149282/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 316.80/90 to the US dollar on Wednesday, from 316.90/317.05 the previous day, dealers said.
-
-A bond maturing on 01.02.2026 was quoted at 12.45/50 percent from 12.85/95 percent.
-
-A bond maturing on 15.03.2028 was quoted at 13.15/25 percent from 13.45/55 percent.
-
-The drop saw the Colombo Stock Exchange trading up; with the All Share Price Index up 0.05 percent at 10,310, and the S&P SL20 up 0.48 percent at 2,912. (Colombo/Jan31/2024)
-
-◼️
-
-[Data](articles/e9dc2433.json)
-
-[Extended Data](ext_articles/e9dc2433.ext.json)
-
----
-
-### Sarath Fonseka's statement - Sarath Fonseka
-
-*2024-01-31 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/175206) · `ta`
-
-United People's Power Leader Sajith Premadasa has said that Sarath Fonseka, a former parliamentarian and former military commander, who has decided to obtain the advice of former Commander -in -Chief General, Sajith Fonseka.
-
-Sarath Fonseka said that one of the main reasons for my arrest during the time of former President Mahinda Rajapaksa was Daya Ratnayake.
-
-Sarath Fonseka, a close loyalist of former President Gotabhaya Rajapakse, has criticized the former president of the United People's Power in the future.
-
-◼️
-
-[Data](articles/b468fc3e.json)
-
-[Extended Data](ext_articles/b468fc3e.ext.json)
-
----
-
-### No longer work 4 days
-
-*2024-01-31 11:00:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இனி-4-நாட்கள்-மட்டுமே-வேலை/50-332393) · `ta`
-
-Germany is to carry out a new test effort to recover from the economic downturn. Countries in the world, such as Denmark, the Netherlands, Australia, Belgium, Spain, UK and Japan, are practicing less work hours. In this case, Germany is also in the process of adopting less work hours.
-
-Accordingly, from Thursday (01), only 4 days a week will be implemented. The remaining 3 days of holiday. The Government of Germany expects the adherence to the employees' physical and mental health and their performance.
-
-Many workers' unions in the country have asked the government to implement the project. The trade unions and the government expect the test to come into effect.
-
-This includes 45 companies of Germany. This test is carried out for the next 6 months. It is expected to solve the lower employees' problems in Germany.
-
-◼️
-
-[Data](articles/6137472e.json)
-
-[Extended Data](ext_articles/6137472e.ext.json)
-
----
-
-### Saudi Arabia, which has emerged as a major role in global affairs
-
-*2024-01-31 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175180) · `ta`
-
-It is well known that Saudi Arabia has emerged as a major diplomatic role in the World Politics Forum since the beginning of 2023, which has been leading political alignment and leading the global summit and major events.
-
-This significant high standard of international diplomatic issues has not only a testament to the growing global political influence but also a new revival in its foreign policies and approaches.
-
-Saudi Arabia has been rapidly committed to dedicating regional and international politics, economic and other issues that have emerged in the past years, and the politics of the politics of managing international crises and launching its interest in various kinds of global issues.
-
-...
-
-[Data](articles/0f4665ba.json)
-
-[Extended Data](ext_articles/0f4665ba.ext.json)
-
----
-
-### Army Commander Visits Injured Paratroopers
-
-*2024-01-31 10:59:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/army-commander-visits-injured-paratroopers/) · `en`
-
-COLOMBO (News 1st);  Lieutenant General Vikum Liyanage, Commander of the Sri Lanka Army, visited the Colombo Army Hospital on Tuesday, January 30th, to personally check on the two army personnel, an Officer and Soldier, injured during a freefall jump as part of the upcoming 76th Independence Day parade rehearsals.
-
-Accompanied by Major General W.H.K.S Peiris, Chief of Staff, the Army Commander spent time with the injured Officer and Soldier, expressing his deep concern and inquiring about their progress.
-
-He emphasized the importance of providing them with the highest quality of medical care and ensuring their speedy recovery.
-
-The Commander also met with the hospital's medical authorities, reiterating the Army's unwavering commitment to the well-being of its personnel.
-
-Four paratroopers from SL Army and SLAF were injured last morning (30), during rehearsals for the National Independence Day celebrations at Galle Face Green.
-
-– Major Dhammika Ratnapala from the Sri Lanka Army Special Forces
-
-...
-
-[Data](articles/327a45ee.json)
-
-[Extended Data](ext_articles/327a45ee.ext.json)
-
----
-
-### Douglas confirmed to bring Santhan to
-
-*2024-01-31 10:52:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனை-அழைத்து-வர-டக்ளஸ்-உறுதி/175-332392) · `ta`
-
-Minister Douglas Devananda has promised to get a response within a few days in consultation with the parties involved in the assassination of former Prime Minister Rajiv Gandhi and brought to the country.
-
-As Shantan, who was released from the verdict of the case, has been admitted to the hospital due to illness, her mother and sisters have met Minister Douglas Devananda on Tuesday (30) and asked for arrangements to come to Santhan.
-
-◼️
-
-[Data](articles/b5e9ab30.json)
-
-[Extended Data](ext_articles/b5e9ab30.ext.json)
-
----
-
-### Health Sector on Brink of Strike as Union Demands Remain Unmet
-
-*2024-01-31 10:51:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/health-sector-on-brink-of-strike-as-union-demands-remain-unmet/) · `en`
-
-COLOMBO (News 1st); The Alliance of Health Trade Unions has issued a stark ultimatum to the Sri Lankan health authorities, warning of a nationwide strike set to begin tomorrow morning unless their demands are addressed.
-
-The strike, involving members of 72 healthcare professions, is a culmination of months of frustration over unresolved issues, including the controversial allowance disparity between doctors and other healthcare workers.
-
-Speaking on behalf of the AHTU, its joint-convener Ravi Kumudesh stressed the urgency of the situation.
-
-"The health authorities still have a chance to find solutions to the professional problems we face, particularly the allowance issue," he said. "But if proper intervention is not taken today, our members will be forced to walk out at 6.30 am tomorrow."
-
-The strike stems from a long-standing grievance regarding a recent policy granting a 35,000 rupee stipend to doctors.
-
-...
-
-[Data](articles/cbd10c05.json)
-
-[Extended Data](ext_articles/cbd10c05.ext.json)
-
----
-
-### Politicians should also have a retirement age – Roshan Ranasinghe
-
-*2024-01-31 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/96876/politicians-should-also-have-a-retirement-age-roshan-ranasinghe-) · `en`
-
-Former Sports Minister Roshan Ranasinghe has revealed that he intends to step down from politics before the age of 65, and thereby set an example to the country.
-
-Speaking at a public gathering in Nugegoda, the Parliamentarian emphasised that the retirement age limit imposed within the public sector must also be applicable in politics.
-
-“As evidenced in our history, when a governor is around 80 years of age, does he have sound mind to carry out his duties? We will set my political career as an example. I am ready to retire before the age of 65”, Ranasinghe said.
-
-◼️
-
-[Data](articles/ddd95783.json)
-
-[Extended Data](ext_articles/ddd95783.ext.json)
-
----
-
-### Jaishankar urges Indians to vacation in Sri Lanka
-
-*2024-01-31 10:39:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/jaishankar-urges-indians-to-vacation-in-sri-lanka/) · `en`
-
-COLOMBO (News 1st); Indian External Affairs Minister Dr. S. Jaishankar urged Indian citizens to visit Sri Lanka during their next vacation, emphasizing the strong ties between the two nations and India's unwavering support during Sri Lanka's recent economic woes.
-
-Speaking at an event at IIM Mumbai, Dr. Jaishankar painted a vivid picture of the crisis Sri Lanka faced and India's impactful response.
-
-"My first advice to you," he declared, "the next time you want to take a holiday, go to Sri Lanka. I am serious. Talk to the average person there, and ask them what they think about India. You will feel yourself grow with that answer."
-
-He pointed to the depths of Sri Lanka's struggles, with fuel shortages, food scarcity, and a desperate need for essential commodities.
-
-"When the world turned its back," he said, "India stepped forward with a commitment of USD 4.5 billion, exceeding even the IMF's assistance package by 50%."
-
-...
-
-[Data](articles/2ed422ac.json)
-
-[Extended Data](ext_articles/2ed422ac.ext.json)
-
----
-
-### Sri Lanka’s China-run Hambantota Port sees higher oil and gas ship calls
-
-*2024-01-31 10:38:00* · [`economynextcom`](https://economynext.com/sri-lankas-china-run-hambantota-port-sees-higher-oil-and-gas-ship-calls-149290/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Hambantota Port said it has seen a steep increase in oil and gas vessels in 2023 helped by Sinopec’s bunker operations, and is expecting to double throughput in 2024.
-
-More than 300 oil and gas vessels had called at the port up, 132 percent from the crisis year in 2022.
-
-A key reason for this is the port’s bunkering partner Sinopec actively operating in the market, bringing significant value addition to the HIP’s commercial operations.
-
-The overall oil and gas throughput handled by the port in 2023 was 918,000 metric tonnes with 700,000 MT of bunker and 218,000 MT LPG cargoes.
-
-“We are looking at the energy sector as a growth market for HIP and are actively promoting it,” Chief Operating Officer of Hambantota International Port Group (HIPG) Tissa Wickremasinghe, said in a statement.
-
-...
-
-[Data](articles/b313bd69.json)
-
-[Extended Data](ext_articles/b313bd69.ext.json)
 
 ---

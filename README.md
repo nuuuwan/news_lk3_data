@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 16:17:20**
+As of **2024-01-31 16:33:00**
 
 ## Newspaper Stats
 
-*Scraped **3,819** Articles*
+*Scraped **3,825** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,60 +15,118 @@ economynextcom | 203
 islandlk | 208
 newsfirstlk | 235
 dailyftlk | 243
-adalk | 342
+adalk | 343
 virakesarilk | 431
-adaderanasinhalalk | 432
+adaderanasinhalalk | 434
 adaderanalk | 481
-tamilmirrorlk | 491
-dailymirrorlk | 516
+tamilmirrorlk | 492
+dailymirrorlk | 518
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,817 (99.9%) of 3,819 articles have been extended.
+3,819 (99.8%) of 3,825 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### ලොව පුරා ගැටුම් පැතිරෙයි - අමෙරිකාවේ මල්ල පිරෙයි
+### ගිහි ඇඳුමින් ට්‍රිප් ගිය ලොකු හාමුදුරුවන්ට විරෝධයක්
+
+*2024-01-31 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192794) · `si`
+
+ගිහි ඇඳුමින් සැරසී තවත් කාන්තාවන් තිදෙනෙකු සමග විනෝද චාරිකාවක නිරත වූ බව පවසමින් වැලිපැන්න ප්‍රදේශයේ විහාරස්ථානයක විහාරාධිපති හිමියන්ට ප්‍රදේශවාසීන්ගෙන් දැඩි විරෝධයක් එල්ලවී තිබේ.
+
+ඇතිවූ උණුසුම් තත්ත්වය පාලනය කිරීම සඳහා වැලිපැන්න පොලිස් ස්ථානයේ නිලධාරීන් පිරිසක් එම විහාරය වෙත ගොස් ඇති අතර අනතුරුව සිද්ධියට සම්බන්ධ බවට සඳහන් විහාරාධිපති හිමිනම එම විහාරයෙන් පිටව ගොස් තිබේ.
+
+අදාළ හිමිනම පසුගිය දිනක කතරගම, ලුණුගම්වෙහෙර සහ මහනුවර ප්‍රදේශවල මෙලෙස ගිහි ඇඳුමින් සැරසී චාරිකාවක නිරතව ඇති බව ප්‍රදේශවාසීන් එහිදී චෝදනා කර ඇත.
+
+එම විහාරාධිපති හිමි ලුණුගම්වෙහෙර ප්‍රදේශයේදී කාන්තාවන් තිදෙනා සමග ගිහි ඇඳුමින් සැරසී සිටින අයුරු දැක්වෙන ඡායාරූපයක් කිසියම් අයෙකු විසින් සමාජ මාධ්‍ය ගිණුමට එක්කිරීමත් සමග ප්‍රදේශවාසීන් විශාල පිරිසක් මෙලෙස විහාරය වෙත පැමිණ විරෝධය පළකර තිබේ.
+
+මේ අතර එම විහාරාධිපති හිමි විසින් ද වැලිපැන්න පොලීසිය වෙත පැමිණිල්ලක් සිදුකරමින් පවසා ඇත්තේ තමන් සමග අමනාප අයෙකු විසින් මෙම සිදුවීම සඳහා මුල්වී ඇති බවය.
+
+◼️
+
+[Data](articles/907d5885.json)
+
+---
+
+### පනත් කෙටුම්පත් දෙකක් බලාත්මක කෙරේ
+
+*2024-01-31 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192793) · `si`
+
+පසුගියදා පාර්ලිමේන්තුව විසින් සම්මත කරනු ලැබූ පනත් කෙටුම්පත් ද්විත්වයක් සඳහා අද (31) කථානායක මහින්ද යාපා අබේවර්ධන මහතා සිය සහතිකය සටහන් කළේය.
+
+සමථකරණය තුළින් ඇතිවන්නා වූ අන්තර්ජාතික නිරවුල්කරණ ගිවිසුම් පිළිගැනීමේ සහ බලාත්මක කිරීම පනත් කෙටුම්පත සහ නොතාරිස් (සංශෝධන) පනත් කෙටුම්පත සඳහා කථානායකවරයාගේ සහතිකය හිමිවිය.
+
+ඒ අනුව, උක්ත පනත් කෙටුම්පත් 2024 අංක 5 දරන සමථකරණය තුළින් ඇතිවන්නා වූ අන්තර්ජාතික නිරවුල්කරණ ගිවිසුම් පිළිගැනීමේ සහ බලාත්මක කිරීම පනත් කෙටුම්පත සහ  2024 අංක 6 දරන නොතාරිස් (සංශෝධන) පනත ලෙස බලාත්මක වේ.
+
+◼️
+
+[Data](articles/e0726ac0.json)
+
+---
+
+### All over the world spreads - the crowd of the US
 
 *2024-01-31 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192792) · `si`
 
-ඉන් ජීවිත හා දේපොළ හානි රැසක් සිදුවුවත් දහස් සංඛ්‍යාත පිරිසක් අවතැන්ව අසරණ වුවත්, අවි අලෙවි කරන රටවලට නම් මෙය වඩාත් සුබදායී කාලයක් වූ බව නොරහසකි.
+Although there are many lives and property damage, but no thousands of people are displaced, but to the country of arms, it was no more good time.
 
-ගෙවුණු වසරේ අමෙරිකානු අවි අලෙවිය වාර්තාගත ඉහළ අගයක පැවති බවට අනාවරණ වූයේ මෙවන් පසුබිමක ය.
+It was revealed that American weapons were recorded in a record high of the year.
 
-නිල වාර්තාවලට අනුව ගෙවුණු වසරේ අවි අලෙවියෙන් අමෙරිකාව උපයා ඇති ආදායම අමෙරිකානු ඩොලර් බිලියන 238 කි.
+According to official reports, the US $ 238 billion is US $ 238 billion.
 
-ඉන් අමෙරිකානු ඩොලර් බිලියන 81ක් උපයාගෙන ඇත්තේ අමෙරිකානු රජය සිදුකළ සෘජු අවි අලෙවියෙන් බව දැක්වෙයි.
+US $ 81 billion has been earned from the sale of direct weapons made by the US government.
 
-එය 2022 වසරේ අමෙරිකාව සිදුකළ සෘජු අවි අලෙවිය මෙන් සියයට 56ක ඉහළ යාමකි.
+It rises to 56 percent as the founders of the United States of America in 2022.
 
-ඉතිරි අමෙරිකානු ඩොලර් බිලියන 157ක් උපයාගෙන ඇත්තේ අමෙරිකාවේ ආරක්ෂක සමාගම් සහ විදෙස් රටවල් අතර සිදුවූ අවි ගනුදෙනුවලදී ය.
+The remaining US $ 157 billion has been earned at the dealings between security companies and foreign countries.
 
-අමෙරිකාවෙන් වැඩිම අවි තොගයක් මිලදී ගත් රාජ්‍යය බවට පත්ව ඇත්තේ රටේ හමුදා ශක්තිය ඉහළ නැංවීමේ සැලසුමක් ක්‍රියාත්මක කරමින් සිටින නැගෙනහිර යුරෝපා කලාපීය රටක් වන පෝලන්තය යි.
+Poland is the east European region, which is being implemented in the country's military strength to increase the military strength of the country.
 
-පෝලන්තය අමෙරිකානු ඩොලර් බිලියන 12ක අපාචේ හෙලිකොප්ටර් මිලදීගෙන ඇති අතර තවත් අමෙරිකානු ඩොලර් බිලියන 10ක අධි සංචලන කාලතුවක්කු රොකට් පද්ධති (Himars) සඳහා ගෙවා තිබේ.
+Poland has purchased US $ 12 billion helicopters and has paid for another $ 10 billion high-mobility artillery systems (HMARS).
+
+In addition, Poland said Poland had said that 4 US $ 3.75 billion to buy tanks and air and missile protection systems.
 
 ...
 
 [Data](articles/3fc25127.json)
 
+[Extended Data](ext_articles/3fc25127.ext.json)
+
 ---
 
-### උද්ධමනය ඉහළ ට
+### மரக்கறிக்கு எதிராக எகிறும் பழங்களின் விலை
+
+*2024-01-31 15:39:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கறிக்கு-எதிராக-எகிறும்-பழங்களின்-விலை/76-332422) · `ta`
+
+நாட்டில் கடந்த சில நாட்களாகவே மரக்கறிகளின் விலை அதிகரித்து காணப்படுகின்றது . மரக்கறி விலைக்கு எதிராக நுவரெலியாவில் அனைத்து வகையான பழங்களின் விலையும் உயர்ந்துள்ளதாக பழங்கள் மொத்த வியாபாரிகள், சில்லறை விற்பனையாளர்கள் மற்றும் நுகர்வோர்கள் தெரிவிக்கின்றனர்.
+
+மேலும், தற்போது வரி அதிகரிப்பால் உற்பத்திச் செலவு அதிகரிப்பால் பழங்கள் விலையில் பெரிய அளவில் அதிகரிக்கவில்லை  எனவும் கடந்த மாதங்களில் பெய்த மழை காரணமாகவும் , இறக்குமதிச் செலவு உயர்ந்துள்ளதால் பழங்களின் விலை அதிகரித்துள்ளதாகப் பழ விற்பனையாளர்கள் தெரிவிக்கின்றனர்.
+
+அதன் படி நெல்லி 1 கிலோ கிராம் விலை 1200 ரூபாவாகவும், சிவப்பு திராட்சை 1 கிலோ கிராம் விலை 2500 ரூபாவாகவும், 1 கிலோ கிராம் அன்னாசிப்பழத்தின் விலை 700 ரூபாவாகவும் அதிகரித்துள்ளது அத்துடன் ஆப்பிள், ஆரஞ்சு உள்ளிட்ட ஏனைய பழங்களின் விலையும் அதிகரித்துக் காணப்படுகின்றன.
+
+◼️
+
+[Data](articles/6ae43fa4.json)
+
+---
+
+### Inflation is high
 
 *2024-01-31 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192791) · `si`
 
-කොළඹ පාරිභෝගික මිල දර්ශකය අනුව 2024 ජනවාරි මාසයේදී මෙරට උද්ධමනය 6.4ක් දක්වා ඉහළ ගොස් තිබේ.
+In January 2024, the country's inflation rose to 6.4 year 2024 depending on the Colombo Consumer Price Index.
 
-මේ අතර, ආහාර උද්ධමනය 2024 ජනවාරි මාසයේදී 3.3%ක් දක්වා ඉහළ ගොස් ඇත.
+Meanwhile, food inflation increased to 3.3% in January 2024.
 
 ◼️
 
 [Data](articles/2e28bd28.json)
+
+[Extended Data](ext_articles/2e28bd28.ext.json)
 
 ---
 
@@ -295,6 +353,22 @@ It is noteworthy that Shasheendra Rajapaksa has now been given the post of Minis
 [Data](articles/8a4f80f6.json)
 
 [Extended Data](ext_articles/8a4f80f6.ext.json)
+
+---
+
+### මහින්දට ඉල්ලා අස්වෙන්න බලපෑම් කළ අය නාමල් හෙළි කරයි
+
+*2024-01-31 14:38:55* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දට-ඉල්ලා-අස්වෙන්න-බලපෑම්-කළ-අය-නාමල්-හෙළි-කරයි/11-407821) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණත් අලුතින් සිතීමට කාලය එළඹ ඇතිබව ශ්‍රීලංකා පොදුජන පෙරමුණේ හම්බන්තොට දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ පවසනවා.ඔහු මේ බව ප්‍රකාශ කලේ ශ්‍රීලංකා පොදුජන පෙරමුණේ පක්ෂ නායකයින් හමුවීමෙන් පසු
+
+මාධ්‍යවේදීන් ඇසූ ප්‍රශ්නවලට පිලිතුරු දෙමින්.මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ නාමල් රාජපක්ෂ
+
+"ශ්‍රී ලංකා පොදු ජන පෙරමුණ සමග සන්ධාන ගත වුන පක්ෂ විශාල ප්‍රමාණයක් සිටිනවා. ඒ අතරින් පක්ෂ කිහිපයක් අද නෙළුම් මාවත පොදු ජන පෙරමුණ ප්‍රධාන කාර්යාලයේ දී මුණ  ගැහුණා. ඉදිරියේ දී අපට මුහුණ දෙන්න වෙන අභියෝග සහ ඉදිරියේ දී පැවැත්වෙන මැතිවරණ වලට මුහුණ දිය යුතු ආකාරය පිලිබඳව අපි සාකච්ඡා කලා.
+
+...
+
+[Data](articles/1371fd45.json)
 
 ---
 
@@ -585,6 +659,26 @@ Sri Lankan Expressway to See New Rules and Minimum Speed Limits
 [Data](articles/488e99a3.json)
 
 [Extended Data](ext_articles/488e99a3.ext.json)
+
+---
+
+### MRI confirms soup unfit for consumption served at Cinnamon Lakeside
+
+*2024-01-31 13:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/MRI-confirms-soup-unfit-for-consumption-served-at-Cinnamon-Lakeside/155-276044) · `en`
+
+Colombo, Jan 31 (Daily Mirror) -  Tests conducted at the Medical Research Institute (MRI) in Borella have substantiated claims that 'The Dining Room' restaurant at Cinnamon Lakeside, Colombo had served soup unfit for human consumption to a patron.
+
+According to sources, a couple had reported dissatisfaction over the quality of a soup served during their dinner at the establishment recently.
+
+Speaking to the Daily Mirror, Colombo Central Medical Officer of Health Dr. Pethum Kodikara said “Following the patrons' complaint, Public Health Inspectors (PHIs) directed samples of the soup to the MRI for examination. Subsequently, it was revealed that there was an issue with the white pepper served along with the soup, which the diner had added to the soup,”
+
+Besides, it was reported that the female diner who consumed the soup had sought medical treatment at a private hospital in Ragama.
+
+The outcome of the incident has been communicated to the Cinnamon management, according to the MOH.
+
+...
+
+[Data](articles/9c1e9e31.json)
 
 ---
 
@@ -1608,6 +1702,20 @@ Upon seeing it, the new driver's license sent by the Department of Motor Vehicle
 
 ### Daily Mirror News Editor injured during SJB protest
 
+*2024-01-31 11:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Daily-Mirror-News-Editor-injured-during-SJB-protest/108-276034) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - Yohan Perera, the News Editor of the Daily Mirror, sustained injuries yesterday during the Samagi Jana Balawegaya (SJB) protest when he was struck by a tear gas canister.
+
+The demonstration took place in front of the Viharamadevi Park and the police, in accordance with a court order, blocked the road, restricting the protestors from exceeding their designated limits.
+
+◼️
+
+[Data](articles/bdc2ca94.json)
+
+---
+
+### Daily Mirror News Editor injured during SJB protest
+
 *2024-01-31 11:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Daily-Mirror-News-Editor-injured-during-SJB-protest/155-276034) · `en`
 
 Colombo, Jan 31 (Daily Mirror) - Yohan Perera, the News Editor of the Daily Mirror, sustained injuries yesterday during the Samagi Jana Balawegaya (SJB) protest when he was struck by a tear gas canister.
@@ -1901,133 +2009,5 @@ A statement from the party said that he also drew Mr. Rajnath Singh’s attentio
 [Data](articles/fadbba18.json)
 
 [Extended Data](ext_articles/fadbba18.ext.json)
-
----
-
-### The tragedy of the poultry farming - the incident in Jaffna
-
-*2024-01-31 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175199) · `ta`
-
-In Jaffna, the logic of poultry farming between relatives, neighbors, has ended in the murder.
-
-The rhetoric between the two men ended on Tuesday (30) in the Jaffna -Chunnakam area.
-
-Chandranathan Gopiraj (age 36) from Chunnakam Kandarodai area has died.
-
-When the Chunna police investigated the incident, there were problems with poultry farming between the two neighbors.
-
-A 57 -year -old neighbor, a murderer, has been arrested following the death of a man who died.
-
-◼️
-
-[Data](articles/55d01157.json)
-
-[Extended Data](ext_articles/55d01157.ext.json)
-
----
-
-### Operation ‘Yukthiya’: Security forces arrest 729 more suspects
-
-*2024-01-31 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/96874/operation-yukthiya-security-forces-arrest-729-more-suspects-) · `en`
-
-A total of 729 more suspects have been arrested by Sri Lanka’s police and security forces personnel within a 24-hour window ending at 12.30 a.m. today (31 Jan.) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-Meanwhile, detention orders have been secured against three of the arrested individuals, while four others were referred for rehabilitation, the Ministry of Public Security said.
-
-According to the Ministry, the narcotics taken into custody during this period include 146 grams of heroin and 119 grams of crystal methamphetamine (Ice).
-
-◼️
-
-[Data](articles/f3e097a8.json)
-
-[Extended Data](ext_articles/f3e097a8.ext.json)
-
----
-
-### Roshan Ranasinghe says he retired from politics
-
-*2024-01-31 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192775) · `si`
-
-He is ready to quit the country after 65 years of age and set a new example for the country.
-
-He said that the limitation should be valid for the retirement of the public service.
-
-He was speaking at a public rally in Nugegoda, speaking at a public rally in Nugegoda.
-
-"Someday my speech will decrease, one day to hear my. But that's the reality. Why is the Public Service Retire 60?. The judge can also serve 65 years old. When the governor is 80 years old, in the past history, do you have a good sension to him. We set an example for my political life. We are ready to retire to 65 years of politics. Everyone here is. We are ready to give that example. "
-
-◼️
-
-[Data](articles/98d42345.json)
-
-[Extended Data](ext_articles/98d42345.ext.json)
-
----
-
-### Rapist who married victim acquitted
-
-*2024-01-31 10:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rapist-who-married-victim-acquitted/108-276032) · `en`
-
-Akuressa, Jan 31 (Daily Mirror) - An accused who stood indicted with the abduction and rape of a 16 year old girl was acquitted by Galle High Court Judge Kavindya Nanayakkara when the Defence Counsel and the police informed court that the victim and the accused were married and parents of a child.
-
-The Attorney General had indicted him on charges of abduction and rape of a 16 year old girl.
-
-Prosecution had told court that he had abducted her on July 5 at Yakkalamulla and raped her at Medawachchiya and Akuressa areas.
-
-However, the High Court Judge who considered the submissions of the defence acquitted the accused. After the acquittal, the couple left the court with their child.
-
-◼️
-
-[Data](articles/30a5bec1.json)
-
-[Extended Data](ext_articles/30a5bec1.ext.json)
-
----
-
-### Malaysia welcomes new king in unique rotating monarchy
-
-*2024-01-31 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96873/malaysia-welcomes-new-king-in-unique-rotating-monarchy) · `en`
-
-Sultan Ibrahim, the wealthy and outspoken ruler of Malaysia’s southern Johor state, was sworn in as the country’s new king in a ceremony on Wednesday.
-
-Malaysia practices a unique rotational form of monarchy, in which the heads of the country’s nine royal families take turns to be king for a five-year reign.
-
-The monarchy plays a largely ceremonial role, but has become more influential in recent years due to prolonged political instability during which the king has wielded rarely used discretionary powers.
-
-Nine of Malaysia’s 13 states are headed by a traditional ethnic Malay ruler, mostly known as the sultan, in one of the world’s largest monarchy systems.
-
-The constitutional monarchy was established after Malaysia’s independence from Britain. Every five years, the nine rulers elect one among themselves to be Malaysia’s king through a secret ballot.
-
-The order of rotation among the sultans was originally determined by seniority, based on how long they had been ruling.
-
-...
-
-[Data](articles/74db5f68.json)
-
-[Extended Data](ext_articles/74db5f68.ext.json)
-
----
-
-### 10000 deeds under heritage completed
-
-*2024-01-31 10:17:31* · [`adalk`](https://www.ada.lk/breaking_news/උරුමය-යටතේ-ඔප්පු-10000ක්-සකස්-කර-අවසන්/11-407818) · `si`
-
-The Ministry of Travel and Lands states that the proposals of the heritage program implemented by President Ranil Wickremesinghe to ensure the land ownership of the people.
-
-The Secretary of the Ministry of Tourism and Land ACH have been sent to the District Secretariats at present.. Umble. Herath said.
-
-This was revealed at a meeting held yesterday (30) at an online system of the Presidential Secretariat, District Secretaries and Divisional Secretaries.
-
-President Ranil Wickremesinghe will be held on February 5 at the National Festival of President Ranil Wickremesinghe at the National Festival of the Heritage Program
-
-The Presidential Office has instructed the District Secretariat to facilitate the District Secretariat and provide facilities to the District Secretariats.
-
-The government plans to grant free deeds for Rs. 20 million under heritage program.
-
-...
-
-[Data](articles/3009ec73.json)
-
-[Extended Data](ext_articles/3009ec73.ext.json)
 
 ---

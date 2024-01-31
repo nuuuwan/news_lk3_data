@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 13:51:28**
+As of **2024-01-31 14:02:25**
 
 ## Newspaper Stats
 
-*Scraped **3,766** Articles*
+*Scraped **3,772** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,42 @@ bbccomsinhala | 61
 dbsjeyarajcom | 129
 economynextcom | 203
 islandlk | 208
-newsfirstlk | 227
+newsfirstlk | 229
 dailyftlk | 243
-adalk | 337
-virakesarilk | 424
+adalk | 338
 adaderanasinhalalk | 424
-adaderanalk | 479
-tamilmirrorlk | 482
+virakesarilk | 425
+adaderanalk | 480
+tamilmirrorlk | 483
 dailymirrorlk | 502
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,766 (100.0%) of 3,766 articles have been extended.
+3,766 (99.8%) of 3,772 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### India’s Jio and China’s Gortune pre-qualify for SLT stake bid
+
+*2024-01-31 13:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/96881/indias-jio-and-chinas-gortune-pre-qualify-for-slt-stake-bid-) · `en`
+
+Two companies from China and India have been pre-qualified for the Request for Proposal (RFP) stage of the divestiture of the majority stake in the state-owned Sri Lanka Telecom PLC (SLT), according to the Sri Lanka’s Finance Ministry.
+
+The Government of Sri Lanka (GOSL) acting through the Ministry of Finance, Economic Stabilization and National Policies, had recently called for Request for Qualification (RFQs) from potential investors for the divestiture of its shares in Sri Lanka Telecom PLC.
+
+The deadline for submission of proposals ended at 2pm on Friday, 12 January 2024.
+
+The Finance Ministry’s State-Owned Enterprise Restructuring Unit (SRU) state that the RIQs received were evaluated based on the Special Guidelines on Divestiture of State-Owned Enterprises approved by the Cabinet of Ministers in July 2023.
+
+...
+
+[Data](articles/cc4396b6.json)
+
+---
 
 ### Family of 22-year-old who died in police custody raise suspicions
 
@@ -51,6 +69,38 @@ The deceased’s relatives, however, raised suspicions pertaining to the circums
 [Data](articles/31779aab.json)
 
 [Extended Data](ext_articles/31779aab.ext.json)
+
+---
+
+### மிதிகம விபத்தில் இரு வெளிநாட்டவர் பலி :  லொறி, பஸ் சாரதிகள் கைது!
+
+*2024-01-31 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/175229) · `ta`
+
+மாத்தறை - கொழும்பு வீதியின் மிதிகம பிரதேசத்தில் இடம்பெற்ற விபத்தில் வெளிநாட்டுப் பிரஜைகள்  இருவர் உயிரிழந்த சம்பவம் தொடர்பில் பஸ் மற்றும் லொறியின் சாரதிகள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+நேற்று செவ்வாய்க்கிழமை (30)  இடம்பெற்ற  இந்தச்  சம்பவத்தில் பஸ் மற்றும் லொறி மோதிய  வெளிநாட்டவர்கள் இருவர் உயிரிழந்துள்ளனர். இவர்களில் ஒருவர் ரஷ்யப் பிரஜை என தெரிய வந்துள்ளது.
+
+இந்த இரு  வெளிநாட்டவர்களும்  சென்று கொண்டிருந்த மோட்டார் சைக்கிள்  மாத்தறையிலிருந்து கொழும்பு நோக்கி பயணித்த பஸ்ஸுடன் மோதிய நிலையில்  எதிரே வந்த லொறியும்  அவர்கள் மீது மோதியது.
+
+◼️
+
+[Data](articles/8a2adf26.json)
+
+---
+
+### Shasheendra Rajapaksa gets State Minister Post
+
+*2024-01-31 12:52:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/shasheendra-rajapaksa-gets-state-minister-post/) · `en`
+
+COLOMBO (News 1st); Shasheendra Rajapaksa was sworn in as the State Minister for Irrigation and Water Resources Management.
+
+He took oaths in the presence of President Ranil Wickremesinghe at the President's Office in Colombo, said the President's Media Division.
+
+China and India Drive Upward Revision in IMF’s Asia-Pacific Growth Projection
+
+◼️
+
+[Data](articles/05538756.json)
 
 ---
 
@@ -100,6 +150,30 @@ Responding to the reports of journalists whether Iran has confirmed that Iran ha
 
 ---
 
+### Brutal Beliatte Killings: 3 More Apprehended
+
+*2024-01-31 12:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/brutal-beliatte-killings-3-more-apprehended/) · `en`
+
+COLOMBO (News 1st); Sri Lanka's law enforcement authorities have successfully apprehended three more suspects linked to the brutal murder of five people in Beliatte, last week.
+
+The arrests were carried out in the Hungama and Matara police areas.
+
+The suspects, aged 28, 42, and 58, hail from Alawwa, Bussa, and Negombo.
+
+According to the police, these individuals are believed to be intricately involved in the disposal of the T-56 firearm allegedly used in the commission of the murders, as well as facilitating illicit money transactions linked to the criminal activity.
+
+This development comes in the wake of the prior arrest of six individuals associated with the same murder case.
+
+Notably, two of the apprehended suspects were identified as women.
+
+Sri Lankan authorities on Monday (29) apprehended two women suspected of aiding and abetting in the brutal murders of five individuals in Beliatte last week.
+
+...
+
+[Data](articles/01aacaa8.json)
+
+---
+
 ### Release
 
 *2024-01-31 12:39:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியை-பலாத்காரம்-செய்தவர்-விடுதலை/175-332407) · `ta`
@@ -117,6 +191,20 @@ However, the High Court judge released the accused, however, considering the sub
 [Data](articles/7ab87fee.json)
 
 [Extended Data](ext_articles/7ab87fee.ext.json)
+
+---
+
+### Election ’24: Hopes for Constitutional Reforms are still alive
+
+*2024-01-31 12:34:00* · [`islandlk`](http://island.lk/election-24-hopes-for-constitutional-reforms-are-still-alive/) · `en`
+
+The Collective for Democracy and Rule of Law (CDRL) is making a commendable intervention to launch a platform for constitutional reform early on in this election year. The Collective has convened a meeting of civil society activists and organizations, and a well-attended meeting was held in Colombo on Wednesday (January 24) last week. My focus today is on the discussion document that was circulated in advance and discussed at the meeting.
+
+...
+
+[Data](articles/886bce2f.json)
+
+[Extended Data](ext_articles/886bce2f.ext.json)
 
 ---
 
@@ -700,8 +788,6 @@ Government officials have alleged Khan’s aides sold the gifts in Dubai.
 
 China and India Drive Upward Revision in IMF’s Asia-Pacific Growth Projection
 
-Health Sector on Brink of Strike as Union Demands Remain Unmet
-
 ◼️
 
 [Data](articles/dc60120e.json)
@@ -825,6 +911,20 @@ Four paratroopers from SL Army and SLAF were injured last morning (30), during r
 [Data](articles/327a45ee.json)
 
 [Extended Data](ext_articles/327a45ee.ext.json)
+
+---
+
+### சாந்தனை அழைத்து வர டக்ளஸ் உறுதி
+
+*2024-01-31 10:52:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனை-அழைத்து-வர-டக்ளஸ்-உறுதி/175-332392) · `ta`
+
+இந்தியாவின் முன்னாள் பிரதமர் ராஜீவ் காந்தி படுகொலை வழக்கில்  கைது செய்யப்பட்டு, விடுதலையாகிய சாந்தனை நாட்டிற்கு அழைத்து வருவது தொடர்பாக சம்மந்தப்பட்ட தரப்பினருடன் கலந்துரையாடி ஒரு சில தினங்களுக்குள் பதிலை பெற்றுத் தருவதாக அமைச்சர் டக்ளஸ் தேவானந்தா உறுதியளித்துள்ளார்.
+
+குறித்த வழக்கின் தீர்ப்பில் இருந்து விடுதலை செய்யப்பட்ட சாந்தன் சுகயீனம் காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ள நிலையில், அவரின் தாய் மற்றும் சகோதர்கள் அமைச்சர் டக்ளஸ் தேவானந்தாவை  செவ்வாய்க்கிழமை (30) சந்தித்து, சாந்தன் நாட்டிற்கு வருவதற்கான ஏற்பாடுகளை செய்து தருமாறு கேட்டுக் கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/b5e9ab30.json)
 
 ---
 
@@ -1108,8 +1208,6 @@ Talk of The Town | Microfinance Debt Trap & The Rural Poor | Chandra Jayaratne |
 
 China and India Drive Upward Revision in IMF’s Asia-Pacific Growth Projection
 
-Health Sector on Brink of Strike as Union Demands Remain Unmet
-
 ◼️
 
 [Data](articles/8840337d.json)
@@ -1137,6 +1235,26 @@ Marine insurance companies have reacted to the volatile situation by raising the
 [Data](articles/592be88d.json)
 
 [Extended Data](ext_articles/592be88d.ext.json)
+
+---
+
+### සනත් නිශාන්ත වෙනුවට ජගත් ප්‍රියංකරගේ නම ගැසට් කරයි
+
+*2024-01-31 09:55:07* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්ත-වෙනුවට-ජගත්-ප්‍රියංකරගේ-නම-ගැසට්-කරයි/11-407817) · `si`
+
+රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ අභාවයෙන් පුරප්පාඩු වූ පාර්ලිමේන්තු මන්ත්‍රී ධුරය සඳහා එල්.කේ. ජගත් ප්‍රියංකර මහතා පත් කිරීමට අදාළ අතිවිශේෂ ගැසට් නිවේදනය නිකුත් කර තිබේ.
+
+2020 වසරේ පැවති පාර්ලිමේන්තු මැතිවරණයේ දී පුත්තලම දිස්ත්‍රික්කයෙන් ශ්‍රී ලංකා පොදුජන පෙරමුණට මන්ත්‍රී ආසන 05ක් හිමිවූ අතර මනාප ලැයිස්තුවේ ප්‍රථමයා වූයේ අභාවප්‍රාප්ත සනත් නිශාන්ත මහතාය.
+
+සෙසු සිව්දෙනා ලෙස ප්‍රියංකර ජයරත්න, අරුන්දික ප්‍රනාන්දු, චින්තක අමල් මායාදුන්න සහ අශෝක ප්‍රියන්ත යන අය එම පක්ෂයෙන් පාර්ලිමේන්තුවට තේරී පත්විය. ජගත් ප්‍රියංකර මහතා මනාප  ලැයිස්තුවේ 6වන ස්ථානයට පත්ව තිබිණි.
+
+ඒ අනුව සනත් නිශාන්ත මහතාගේ අභාවයෙන් පුරප්පාඩු වූ මන්ත්‍රී ධුරය සඳහා ජගත් ප්‍රියංකර මහතාට හිමිවෙයි. ඔහු විමල් වීරවංශ මහතාගේ නායකත්වයෙන් යුත් ජාතික නිදහස් පෙරමුණේ පුත්තලම දිස්ත්‍රික් නායකයා ලෙස කටයුතු කරයි.
+
+ජගත් ප්‍රියංකර මහතා පාර්ලිමේන්තුවට පැමිණීමෙන් අනතුරුව විමල් වීරවංශ මහතාගේ මතය අනුව කටයුතු කරන බව මීට ඉහතදී ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/cf9fe41a.json)
 
 ---
 
@@ -1234,7 +1352,7 @@ When asked about the matter, Nihal Wijewardena, Deputy Commissioner of the Inlan
 
 China and India Drive Upward Revision in IMF’s Asia-Pacific Growth Projection
 
-...
+◼️
 
 [Data](articles/3c37bb40.json)
 
@@ -1923,129 +2041,5 @@ This was stated in a discussion held yesterday with the Presidential Secretariat
 [Data](articles/e81ada0b.json)
 
 [Extended Data](ext_articles/e81ada0b.ext.json)
-
----
-
-### Expectation to strengthen families
-
-*2024-01-31 02:49:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-லட்சம்-குடும்பங்களை-வலுவூட்ட-எதிர்பார்ப்பு/175-332382) · `ta`
-
-The Minister of Social Empowerment Anupa Paskal said that under the concept of the new village, the new country and the entrepreneurship government, 12 lakh families in poverty are looking forward to strengthening.
-
-He said this while addressing a media briefing held at the Presidential Media Center yesterday.
-
-Our main task this year is to provide the social security relief of Aswesum to 20 lakh beneficiaries. Under the concept of 'New Village, New Country, Entrepreneurship Government', it is expected to strengthen 12 lakh families in poverty.. This year, there will be a program to strengthen 3 lakh people.
-
-...
-
-[Data](articles/27c97f09.json)
-
-[Extended Data](ext_articles/27c97f09.ext.json)
-
----
-
-### Musing on innovation
-
-*2024-01-31 02:40:56* · [`dailyftlk`](https://www.ft.lk/columns/Musing-on-innovation/4-757951) · `en`
-
-Your operations need to be sustainable by design, not as an afterthought, nor as projects with which to score points on award schemes. Indeed, today sustainable value alone is sufficient justification for innovation due to climate scare, and to young people who grew up wanting to change the world now being wage-earners with spending and policy-making power
-
-In entrepreneurial contexts, innovation is generally seen as a development team producing a prototype product that offers enhanced value, that manufacturing and marketing teams will take to a market of customers who can perceive and pay for the changed or enhanced proposition, ideally before the competition does. Admitting that there are situations where such simple strategies work, a holistic outlook and the application of novel concepts could help businesses generate winning products within a structured process, with more stakeholders in mind than only the consumer.
-
-...
-
-[Data](articles/9fb3c6bd.json)
-
-[Extended Data](ext_articles/9fb3c6bd.ext.json)
-
----
-
-### Social Media Influencers: Transforming the fashion industry
-
-*2024-01-31 02:31:05* · [`dailyftlk`](https://www.ft.lk/columns/Social-Media-Influencers-Transforming-the-fashion-industry/4-757950) · `en`
-
-In the ever-evolving world of fashion, a seismic shift is taking place. The rise of social media influencers (SMIs) is rewriting the rules of the branded fashion retail business, reshaping the way consumers engage with iconic brands such as, Giorgio Armani, Victoria’s Secret, Gucci, and Ralph Lauren.
-
-The vast scale of this transformation can be highlighted as follows:
-
-Fashion, as one of the world’s most enduring industries, has undergone a remarkable transformation, largely fuelled by the fourth industrial revolution. Its contribution to the global gross domestic product remains substantial.
-
-Yet, in the fiercely competitive realm of branded fashion, the key to success lies in how consumers perceive a product. Traditional marketing practices have given way to digital strategies, with SMIs taking centre stage in delivering brand messages and cultivating customer loyalty. This is further underscored by world trends on social media usage.
-
-...
-
-[Data](articles/569d008d.json)
-
-[Extended Data](ext_articles/569d008d.ext.json)
-
----
-
-### Social Media Influencers: Transforming the fashion industry
-
-*2024-01-31 02:31:05* · [`dailyftlk`](https://www.ft.lk/opinion/Social-Media-Influencers-Transforming-the-fashion-industry/14-757950) · `en`
-
-In the ever-evolving world of fashion, a seismic shift is taking place. The rise of social media influencers (SMIs) is rewriting the rules of the branded fashion retail business, reshaping the way consumers engage with iconic brands such as, Giorgio Armani, Victoria’s Secret, Gucci, and Ralph Lauren.
-
-The vast scale of this transformation can be highlighted as follows:
-
-Fashion, as one of the world’s most enduring industries, has undergone a remarkable transformation, largely fuelled by the fourth industrial revolution. Its contribution to the global gross domestic product remains substantial.
-
-Yet, in the fiercely competitive realm of branded fashion, the key to success lies in how consumers perceive a product. Traditional marketing practices have given way to digital strategies, with SMIs taking centre stage in delivering brand messages and cultivating customer loyalty. This is further underscored by world trends on social media usage.
-
-...
-
-[Data](articles/7d43e5a8.json)
-
-[Extended Data](ext_articles/7d43e5a8.ext.json)
-
----
-
-### Sri Lanka’s new transitional justice process lacks credibility: Human Rights Watch
-
-*2024-01-31 01:57:12* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-new-transitional-justice-process-lacks-credibility-Human-Rights-Watch/14-757945) · `en`
-
-Sri Lankan authorities continue to silence and repress families of victims and their communities 15 years after the armed conflict ended – Pic by Shehan Gunasekara
-
-Says UN Human Rights Council engagement remains vital to ensure justice for atrocity crimes
-
-The Human Rights Watch said on Monday that the Sri Lankan Government’s proposed law to create another body to investigate war-time abuses replicates previous failed efforts, ignores the needs of victims, and falls far short of meeting Sri Lanka’s international legal obligations.
-
-Sri Lankan authorities continue to silence and repress families of victims and their communities 15 years after the armed conflict ended.
-
-...
-
-[Data](articles/f033fbd1.json)
-
-[Extended Data](ext_articles/f033fbd1.ext.json)
-
----
-
-### “Thugs, death and decency” in a society with a feudal mindset
-
-*2024-01-31 01:51:08* · [`dailyftlk`](https://www.ft.lk/columns/Thugs-death-and-decency-in-a-society-with-a-feudal-mindset/4-757943) · `en`
-
-Despite the anger spat with hatred in most uncivilised language in social media platforms, how the voter selects candidates for preference voting does not change at elections – Pic by Shehan Gunasekara
-
-On last poya holiday, the first full moon this new year 2024, I was woken up pretty early in the morning by the tinkle of a WhatsApp message on my mobile phone. One from an expatriate Sinhala-Buddhist patriot, an old-time pal of mine. It was a hurried short message. His excitement and joy no less ingrained. “Macho, Good news for all…did you hear it? That mad thug from Puttalam had died in an accident on Katunayake Expressway… Just past midnight” read his message.
-
-...
-
-[Data](articles/22c70721.json)
-
-[Extended Data](ext_articles/22c70721.ext.json)
-
----
-
-### RW, IMF and the economy
-
-*2024-01-31 01:45:25* · [`dailyftlk`](https://www.ft.lk/columns/RW-IMF-and-the-economy/4-757942) · `en`
-
-In fact, AKD is providing a theoretical framework and practical direction to realise the aspirations of a new generation of voters that rose in revolt with an aragalaya demanding “system change” and “No 225”. RW, who stood to benefit from that revolt, betrayed that generation by ending the aragalaya with brute force, and is now taking all precautions to protect himself and the old order he represents through repressive legislations such as, the PTA and OSB
-
-...
-
-[Data](articles/75083a34.json)
-
-[Extended Data](ext_articles/75083a34.ext.json)
 
 ---

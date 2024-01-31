@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 01:32:45**
+As of **2024-02-01 01:49:56**
 
 ## Newspaper Stats
 
-*Scraped **3,945** Articles*
+*Scraped **3,949** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,75 @@ dbsjeyarajcom | 130
 islandlk | 208
 economynextcom | 221
 dailyftlk | 243
-newsfirstlk | 247
+newsfirstlk | 248
 adalk | 350
 virakesarilk | 440
 adaderanasinhalalk | 455
 adaderanalk | 498
 tamilmirrorlk | 502
-dailymirrorlk | 542
+dailymirrorlk | 545
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,945 (100.0%) of 3,945 articles have been extended.
+3,945 (99.9%) of 3,949 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-02-01 (Thursday)
+
+### Wetlands: Nature’s Sponges, Vital For Our Well-Being
+
+*2024-02-01 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Wetlands-Natures-Sponges-Vital-For-Our-Well-Being/172-276077) · `en`
+
+The government last week put through the Online Safety Bill despite protests that it is a drastic step towards curbing dissent. Opposition speakers said that the Supreme Court had proposed 13 changes but they had not been included. They asked the Speaker not to sign the Bill, but the Speaker later announced that the Supreme Court changes had been included and he would sign it.
+
+While focusing on issues such as online safety, the government in this election year needs to also concentrate on issues such as wetlands and the vital role they play in maintaining diversity for sustainable development.
+
+...
+
+[Data](articles/3005333e.json)
+
+---
+
+### Wanted: An Authentic Minister of Finance Sri Lanka Has Not Had One, For Three And A Half Decades
+
+*2024-02-01 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Wanted-An-Authentic-Minister-of-Finance-Sri-Lanka-Has-Not-Had-One-For-Three-And-A-Half-Decades/172-276078) · `en`
+
+Exceptionally, from 2017-2019, Mangala Samaraweera held the title and did the job. He was the first Finance Minister in a long time to pay serious attention to tax policy
+
+The problems lie in inadequate constitutional or institutional restraints on how government power is used. That is exactly the kind of problem that the new Central Bank Act is designed to solve.
+
+...
+
+[Data](articles/939ca7ea.json)
+
+---
+
 ### 2024-01-31 (Wednesday)
+
+### Observation coaches cause 80% of derailments in upcountry
+
+*2024-01-31 23:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Observation-coaches-cause-80-of-derailments-in-upcountry/108-276066) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - Due to possible derailments of 55-seater train observation coaches, the Railways Department has advised removing 2 out of 4 compartments from operation in the upcountry with immediate effect, Railways General Manager H.M.K.W. Bandara said.
+
+He told the Daily Mirror that the decision was taken due to the sharpness of the bends on upcountry railway lines.
+
+The GMR said that 80% of the train derailments on the upcountry railway lines were observation coaches.
+
+Therefore, he recommended assigning 45-seater train observation coaches to operate on upcountry railway lines.
+
+Two 55-seater train observation coaches have already been modified, and another two are still under modification.
+
+He also said that instructions have been given to modify the 55-seater train observation coaches to 45-seater train observation coaches immediately. Accordingly, the new compartments will come into operation by next week.
+
+◼️
+
+[Data](articles/19a3ef55.json)
+
+---
 
 ### Sinopec also revises fuel prices
 
@@ -49,6 +101,30 @@ The Ceylon Petroleum Corporation (CEYPETCO) and Lanka IOC had also announced rev
 [Data](articles/67fca6d9.json)
 
 [Extended Data](ext_articles/67fca6d9.ext.json)
+
+---
+
+### Ceylon Petroleum Corporation Announces Fuel Price Adjustments
+
+*2024-01-31 23:41:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/ceylon-petroleum-corporation-announces-fuel-price-adjustments/) · `en`
+
+COLOMBO (News 1st); The Ceylon Petroleum Corporation (CEYPETCO) announced revisions to fuel product prices, effective February 1st, 2024. The adjustments reflect a mixed bag of increases and decreases across various categories.
+
+Lanka Petrol 92 Octane: Increase of Rs. 5 per liter to Rs. 371 (previously Rs. 366)
+
+Lanka Petrol 95 Octane Euro 4: Decrease of Rs. 8 per liter to Rs. 456 (previously Rs. 464)
+
+Lanka Auto Diesel: Increase of Rs. 5 per liter to Rs. 363 (previously Rs. 358)
+
+Lanka Super Diesel 4 Star Euro 4: Decrease of Rs. 7 per liter to Rs. 468 (previously Rs. 475)
+
+Lanka Kerosene: Increase of Rs. 26 per liter to Rs. 262 (previously Rs. 236)
+
+Police Detains 10 Protesters at CID Headquarters While Demanding Keheliya’s Arrest
+
+◼️
+
+[Data](articles/b3bafbc2.json)
 
 ---
 
@@ -1975,83 +2051,5 @@ Jordani - 3 soldiers were killed in a drone attack on a US military base in Syri
 [Data](articles/c7fa9b4c.json)
 
 [Extended Data](ext_articles/c7fa9b4c.ext.json)
-
----
-
-### Sri Lanka Speaker endorses international settlement and notaries bills
-
-*2024-01-31 16:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-speaker-endorses-international-settlement-and-notaries-bills-149352/) · `en`
-
-ECONOMYNEXT – Speaker of Parliament Mahinda Yapa Abeywardana has endorsed the certificate on the Recognition and Enforcement of International Settlement Agreements Resulting from Mediation Bill and the Notaries (Amendment) Bill.
-
-The bills will come into effect as the Recognition and Enforcement of International Settlement Agreements Resulting from Mediation Act No.5 of 2024 and the Notaries (Amendment) Act No.6 of 2024, the Department of Communication of the Parliament of Sri Lanka said in a statement. (Colombo/Jan31/2024)
-
-◼️
-
-[Data](articles/94f6da18.json)
-
-[Extended Data](ext_articles/94f6da18.ext.json)
-
----
-
-### Speaker endorses certificate on two Bills
-
-*2024-01-31 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/96886/speaker-endorses-certificate-on-two-bills) · `en`
-
-The Speaker of the Parliament Mahinda Yapa Abeywardana has endorsed the certificate on two bills today (Jan 31).
-
-Accordingly, the Recognition and Enforcement of International Settlement Agreements Resulting from Mediation Bill and the Notaries (Amendment) Bill which were passed in Parliament recently, have been certified by the Speaker.
-
-Thus, the said Bills will come into effect as the Recognition and Enforcement of International Settlement Agreements Resulting from Mediation Act No.5 of 2024 and the Notaries (Amendment) Act No.6 of 2024.
-
-◼️
-
-[Data](articles/87c4de3b.json)
-
-[Extended Data](ext_articles/87c4de3b.ext.json)
-
----
-
-### Sri Lanka electricity provider to introduce payment plans
-
-*2024-01-31 16:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-electricity-provider-to-introduce-payment-plans-149349/) · `en`
-
-ECONOMYNEXT – The Ceylon Electricity Board will introduce payment plans for new connections and other services it provides, the power minister has said.
-
-“It was decided to introduce payment plans for new connections and other services of CEB. Accordingly CEB management will notify of the new services, installment payment plans for electricity customers,” Minister of Power and Energy Kanchana Wijesekera said on X.
-
-Wijesekera met with officials of CEB System control, Ceylon Petroleum Corporation and CEB at his Ministry where “2024 power generation plans, tariffs, costing of other services, oil pricing for power generation, weather forecasting and upgrading the facilities of the system control was discussed.”
-
-A plan to cut Sri Lanka’s electricity tariffs after strong rainfall reduced generation costs is still pending.  (Colombo/Jan31/2024).
-
-◼️
-
-[Data](articles/66c05412.json)
-
-[Extended Data](ext_articles/66c05412.ext.json)
-
----
-
-### Coordinating Committees are required to implement the projects of the National Housing Development Authority - Prasanna Ranatunga
-
-*2024-01-31 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175247) · `ta`
-
-Urban Development and Housing Minister Prasanna Ranatunga said that it is mandatory to obtain the permission of the District Coordinating Committees before implementing all the development projects carried out by the National Housing Development Authority.
-
-He emphasizes that by performing such activities, the problems in accomplishing projects can be avoided.
-
-Minister Prasanna Ranatunga said this while attending the District Managers Conference of the National Housing Development Authority held at the Voters Edge of Battaramulla on Monday (29).
-
-All district managers and top officials of the National Housing Development Authority were present.
-
-The workshop was organized to review the progress of the National Housing Development Authority at the district level last year and discuss the goals and housing projects of the National Housing Development Authority this year.
-
-The Chairman of the National Housing Development Authority Rajeev Suriyarachchi said the following.
-
-...
-
-[Data](articles/71ee3354.json)
-
-[Extended Data](ext_articles/71ee3354.ext.json)
 
 ---

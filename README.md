@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 14:49:19**
+As of **2024-01-31 15:02:29**
 
 ## Newspaper Stats
 
-*Scraped **3,780** Articles*
+*Scraped **3,797** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ economynextcom | 203
 islandlk | 208
 newsfirstlk | 229
 dailyftlk | 243
-adalk | 339
+adalk | 340
 virakesarilk | 427
 adaderanasinhalalk | 429
 adaderanalk | 480
-tamilmirrorlk | 483
-dailymirrorlk | 502
+tamilmirrorlk | 487
+dailymirrorlk | 514
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,780 (100.0%) of 3,780 articles have been extended.
+3,780 (99.6%) of 3,797 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### அதிவேக நெடுஞ்சாலையில் இனி பறக்க முடியாது!
+
+*2024-01-31 14:35:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலையில்-இனி-பறக்க-முடியாது/175-332414) · `ta`
+
+அதிவேக நெடுஞ்சாலைகளில் செல்லும் வாகனங்களுக்கு குறைந்தபட்ச வேக வரம்பு நிர்ணயிக்கப்படும் என போக்குவரத்து அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+
+புதிய வேகத்தடை உள்ளிட்ட விதிகள் அடங்கிய வர்த்தமானி அடுத்தவாரம் வெளியிடப்படும் என்றும் அவர் கூறியுள்ளார்.
+
+தனி நபர் வேறுபாடுகள் இன்றி பொதுவான சட்டத்தின் மூலம் அனைவரின் வாழ்க்கைப் பாதுகாப்புக்கு முன்னுரிமை அளிக்கும் வகையில் புதிய சட்டங்கள் தயாரிக்கப்படும் என்றும் அமைச்சர் மேலும் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/bbd7d2a4.json)
+
+---
+
+### மீண்டுமொரு காற்றாலை திட்டம்
+
+*2024-01-31 14:26:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டுமொரு-காற்றாலை-திட்டம்/175-332413) · `ta`
+
+ஆசிய அபிவிருத்தி வங்கி நிதியின் கீழ் 47 மில்லியன் அமெரிக்க டொலர்கள் செலவில் ஆறு கூடுதல் விசையாழிகளை நிறுவுவதன் மூலம் மின்சார உற்பத்தியை அதிகரிப்பதே இதன் நோக்கமாகும். என தெரிவிக்கப்பட்டுள்ளது.
+
+இத்திட்டத்தை தனியார் துறை முதலீட்டாளர்கள் மூலம் நடைமுறைப்படுத்துவதே அரசாங்கத்தின் நோக்கமாகும், மேலும் இருபது வருட கால செயல்பாட்டுக் காலத்துடன் தொடர்புடைய மின் நிலையத்தின் நிர்மாணப் பணிகளை மேற்கொள்ள அரசாங்கம் திட்டமிட்டுள்ளது. அரசாங்கத்தின் வெளிநாட்டுக் கடன் மறுசீரமைப்புத் திட்டம் நடைமுறைப்படுத்தப்படும் வரை ஆசிய அபிவிருத்தி வங்கி நிதியைப் பயன்படுத்த முடியாது என்பதால் குறித்த திட்டத்திற்கு தனியார் முதலீட்டை நாட அரசாங்கம் தீர்மானித்துள்ளது.
+
+◼️
+
+[Data](articles/16cc2724.json)
+
+---
 
 ### Two motorcycles collide in Mannar;Young mother wound
 
@@ -56,6 +86,18 @@ The injured mother and daughter were taken to a nearby Nanattan area hospital.
 
 ---
 
+### සනත් නිශාන්තගේ අමාත්‍යධුරය ශෂේන්ද්‍රට
+
+*2024-01-31 13:47:17* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්තගේ-අමාත්‍යධුරය-ශෂේන්ද්‍රට/11-407819) · `si`
+
+වාරිමාර්ග හා ජල සම්පත් කළමනාකරණ රාජ්‍ය අමාත්‍යවරයා ලෙස ශෂේන්ද්‍ර රාජපක්ෂ මහතා ජනපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේ දිවුරුම් දී තිබේ. ශෂීන්ද්‍ර රාජපක්ෂ මහතා මීට පෙර වාරිමාර්ග රාජ්‍ය අමාත්‍යවරයා ලෙස කටයුතු කළ අතර පසුගියදා අභාවප්‍රාප්ත වූ සනත් නිශාන්ත මහතා දැරූ ජල සම්පත් කළමණාකරණ රාජ්‍ය අමාත්‍යධුරය ශෂීන්ද්‍ර රාජපක්ෂ මහතාට හිමිව තිබේ.
+
+◼️
+
+[Data](articles/052a6519.json)
+
+---
+
 ### New king of Malaysia sworn in
 
 *2024-01-31 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192787) · `si`
@@ -76,6 +118,64 @@ According to foreign reports, the second ruler of the state of state in the Sout
 
 ---
 
+### எதிர்ப்பையும் மீறி களனிக்கு சென்றார் ஜனாதிபதி
+
+*2024-01-31 13:46:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்ப்பையும்-மீறி-களனிக்கு-சென்றார்-ஜனாதிபதி/175-332411) · `ta`
+
+மாணவர்களின் எதிர்ப்புக்கு மத்தியில் களனி பல்கலைக்கழகத்தின் பாலி மற்றும் பௌத்த கற்கைகள் நிறுவகத்தின் புதிய கட்டிட வளாகத்தை திறந்து வைக்கும் நிகழ்வில் கலந்துகொள்வதற்காகவே  ஜனாதிபதி அங்கு சென்றுள்ளார்.
+
+புதிய கட்டிட வளாகம் இன்று (31) முற்பகல் ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் திறந்து வைக்கப்பட்டது.
+
+ஜனாதிபதியின் வருகையை கண்டித்து களனி பல்கலைக்கழக மாணவர்கள் ஆர்ப்பாட்டத்தில் ஈடுபட்டதுடன், கொழும்பு கண்டி பிரதான வீதியை மறித்து நேற்று முன்தினம் இரவு நடத்திய போராட்டத்தை கலைக்க பொலிஸார் கண்ணீர் புகைக்குண்டுகளை வீசினர்.
+
+எவ்வாறாயினும், மாணவர்கள் அங்கிருந்து கலைந்து சென்ற போதிலும், பல்கலைக்கழக நிர்வாக கட்டிடத்துக்குள் எந்தவொரு தரப்பினரையும் நுழைய அனுமதிக்காமல் நேற்று மாலை வரை ஆர்ப்பாட்டத்தில் ஈடுபட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/cb00eedb.json)
+
+---
+
+### MRI confirms soup unfit for consumption served at Cinnamon Lakeside
+
+*2024-01-31 13:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MRI-confirms-soup-unfit-for-consumption-served-at-Cinnamon-Lakeside/108-276044) · `en`
+
+Colombo, Jan 31 (Daily Mirror) -  Tests conducted at the Medical Research Institute (MRI) in Borella have substantiated claims that 'The Dining Room' restaurant at Cinnamon Lakeside, Colombo had served soup unfit for human consumption to a patron.
+
+Speaking to the Daily Mirror, Colombo Central Medical Officer of Health Dr. Pethum said a couple reported dissatisfaction over the quality of a soup served during their dinner at the establishment recently.
+
+“Following the patrons' complaint, Public Health Inspectors (PHIs) directed samples of the soup to the MRI for examination. Subsequently, it was revealed that there was an issue with the white pepper served along with the soup, which the diner had added to the soup,” the MOH said.
+
+Besides, it was reported that the female diner who consumed the soup had sought medical treatment at a private hospital in Ragama.
+
+The outcome of the incident has been communicated to the Cinnamon management, according to the MOH.
+
+...
+
+[Data](articles/d32d708c.json)
+
+---
+
+### தயா - சஜித் கூட்டணி; சாடுகிறார் சரத்
+
+*2024-01-31 13:37:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தயா-சஜித்-கூட்டணி-சாடுகிறார்-சரத்/175-332410) · `ta`
+
+முன்னாள் இராணுவத் தளபதி (ஓய்வுபெற்ற) ஜெனரல் தயா ரத்நாயக்கவின் ஆதரவை ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாச ஏற்றுக்கொண்டமைக்கு, பீல்ட் மார்ஷல் சரத் பொன்சேகா கடும் அதிருப்தி தெரிவித்தார்.
+
+கொழும்பில் ஐக்கிய மக்கள் சக்தி  நேற்று (30) ஏற்பாடு செய்திருந்த ஆர்ப்பாட்டத்தில் கலந்து கொண்ட போதே பீல்ட் மார்ஷல் சரத் பொன்சேகா மேற்கண்டவாறு தெரிவித்தார்.
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் நிர்வாகத்தின் கீழ் 2010 ஆம் ஆண்டு தான் சிறையில் அடைக்கப்பட்டதில் ரத்நாயக்கவுக்கு தொடர்பு இருந்ததாகவும் சரத் பொன்சேகா கூறியுள்ளார்.
+
+ரத்நாயக்கவை இணைத்துக் கொள்வதன் மூலம், ஐக்கிய மக்கள் சக்தி தனது அரசியல் நிலைப்பாட்டில் சமரசம் செய்து கொள்வதைக் குறிக்கும் வகையில், முன்னாள் ஜனாதிபதியுடன் தன்னை இணைத்துக் கொள்ளும் அபாயம் இருப்பதாக அவர் சுட்டிக்காட்டியுள்ளார்.
+
+முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷவின் ஆட்சிக் காலத்தில் முக்கிய பதவிகளை வகித்திருந்த தயா ரத்நாயக்க, அண்மையில் ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3f823f1a.json)
+
+---
+
 ### India’s Jio and China’s Gortune pre-qualify for SLT stake bid
 
 *2024-01-31 13:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/96881/indias-jio-and-chinas-gortune-pre-qualify-for-slt-stake-bid-) · `en`
@@ -93,6 +193,20 @@ The Finance Ministry’s State-Owned Enterprise Restructuring Unit (SRU) state t
 [Data](articles/cc4396b6.json)
 
 [Extended Data](ext_articles/cc4396b6.ext.json)
+
+---
+
+### Sri Lanka Cricket names squad for Test match against Afghanistan
+
+*2024-01-31 13:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Cricket-names-squad-for-Test-match-against-Afghanistan/108-276043) · `en`
+
+Colombo, Jan. 31 (Daily Mirror) - The Sri Lanka Cricket Selection Committee has  selected the 16-member squad, including three uncapped players, to  take part in the Test match against Afghanistan.
+
+The Minister of Sports and Youth Affairs  Harin Fernando, approved the  squad, the Sri Lanka Cricket said.
+
+◼️
+
+[Data](articles/ccf59457.json)
 
 ---
 
@@ -192,6 +306,24 @@ It is reported that a car parked at the spot is found in the spot.
 
 ---
 
+### ’’If you want to take a holiday, go to Sri Lanka,’’ Jaishankar
+
+*2024-01-31 12:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/If-you-want-to-take-a-holiday-go-to-Sri-Lanka-Jaishankar/108-276041) · `en`
+
+India, Jan 31 (Daily Mirror) - Addressing an event in India, External Affairs Minister S. Jaishankar said, "My first advice to you, the next time you want to take a holiday, go to Sri Lanka. I’m serious. Please go to Sri Lanka. I say this to all of you."
+
+"I had visited Sri Lanka and saw firsthand the fuel queues and shortage of food and essential commodities. The only country that came forward at this time was India," Minister Jaishankar reflected on the dire circumstances he had observed during his visit.
+
+He emphasized that amidst the global indifference to Sri Lanka's economic turmoil, India emerged as a steadfast ally, garnering significant appreciation from the Sri Lankan populace.
+
+He also underscored the significance of India's assistance to Sri Lanka amidst its economic challenges, highlighting its positive impact on India's image among Sri Lankan citizens.
+
+...
+
+[Data](articles/c86e14fa.json)
+
+---
+
 ### Family of 22-year-old who died in police custody raise suspicions
 
 *2024-01-31 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/96880/family-of-22-year-old-who-died-in-police-custody-raise-suspicions-) · `en`
@@ -211,6 +343,26 @@ The deceased’s relatives, however, raised suspicions pertaining to the circums
 [Data](articles/31779aab.json)
 
 [Extended Data](ext_articles/31779aab.ext.json)
+
+---
+
+### Sarath Fonseka slams Sajith Premadasa over alliance with Daya Ratnayake
+
+*2024-01-31 12:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sarath-Fonseka-slams-Sajith-Premadasa-over-alliance-with-Daya-Ratnayake/108-276042) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - In the wake of Samagi Jana Balawegaya (SJB) leader Sajith Premadasa accepting the support of former Army Commander (Retired) General Daya Ratnayake, Field Marshal Sarath Fonseka expressed his strong displeasure over the move.
+
+Field Marshal Sarath Fonseka made these remarks during his participation in the protest organized by the SJB in Colombo yesterday.
+
+Sarath Fonseka disclosed Ratnayake's significant involvement in his imprisonment back in 2010 under the administration of former President Mahinda Rajapaksa.
+
+Expressing his concerns, Fonseka emphasized that Ratnayake's allegiance to the SJB, particularly given his past affiliations, raises questions about the party's direction and principles.
+
+He went on to suggest that by embracing Ratnayake, the SJB risks aligning itself with the former President, implying a compromise of its political stance.
+
+...
+
+[Data](articles/7a70894b.json)
 
 ---
 
@@ -356,6 +508,20 @@ The Collective for Democracy and Rule of Law (CDRL) is making a commendable inte
 
 ---
 
+### Sri Lanka should follow India in granting Overseas Citizenship Status
+
+*2024-01-31 12:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-should-follow-India-in-granting-Overseas-Citizenship-Status/108-276040) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - Sri Lanka should take a leaf from India's book and grant Overseas Citizenship Status to people of Sri Lankan origin holding foreign citizenship abroad, opposition MP Mano Ganeshan said.
+
+In a message on his X account he said that Indian law does not allow dual citizenship but provides Overseas Citizenship of India status to persons of Indian origins who migrate from India and acquire foreign citizenship.
+
+...
+
+[Data](articles/dcaf5c07.json)
+
+---
+
 ### China and India Drive Upward Revision in IMF’s Asia-Pacific Growth Projection
 
 *2024-01-31 12:29:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/china-and-india-drive-upward-revision-in-imf-s-asia-pacific-growth-projection/) · `en`
@@ -480,6 +646,18 @@ Meanwhile, a court on Tuesday (30) ordered Imran Khan to be sentenced to 10 year
 
 ---
 
+### Shasheendra Rajapaksa sworn in as state minister
+
+*2024-01-31 12:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shasheendra-Rajapaksa-sworn-in-as-state-minister/108-276039) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - Shasheendra Rajapaksa has been sworn in as the State Minister for Irrigation and Water Resources Management before President Ranil Wickremesinghe a short while ago at the Presidential Secretariat.
+
+◼️
+
+[Data](articles/0cc6f25b.json)
+
+---
+
 ### Youth killed in police custody
 
 *2024-01-31 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192780) · `si`
@@ -570,6 +748,22 @@ He added that India provided assistance to Sri Lanka immediately, fifty -time th
 
 ---
 
+### China’s threat to India would come from Sri Lanka, Rajya Sabha member
+
+*2024-01-31 12:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chinas-threat-to-India-would-come-from-Sri-Lanka-Rajya-Sabha-member/108-276038) · `en`
+
+India, Jan 31 (The Hindu) - India’s MDMK general secretary and Rajya Sabha member Vaiko on Tuesday urged the Indian government to handle its relationship with Sri Lanka, considering the threat posed by China’s entry into the island nation.
+
+Addressing an all-party meeting chaired by Defence Minister Rajnath Singh in New Delhi, Mr. Vaiko said China had constructed a port in Hambantota and the Indian government should realise that the threat to the country from China would emerge first from the south.
+
+A statement from the party said that he also drew Mr. Rajnath Singh’s attention to the alleged attack on Tamil fishermen by the Sri Lankan Navy, claiming that “over 800 fishermen had been killed so far” and there was no protection to their lives and belongings. He also used the occasion to launch an attack on Tamil Nadu Governor R.N. Ravi, accusing him of “blabbering on one issue or another.”
+
+...
+
+[Data](articles/15de4b57.json)
+
+---
+
 ### New State Minister of Irrigation and Water Resources Management appointed
 
 *2024-01-31 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/96879/new-state-minister-of-irrigation-and-water-resources-management-appointed) · `en`
@@ -599,6 +793,28 @@ The Presidential Media Unit said that the swearing in was carried out at the Pre
 [Data](articles/c383d844.json)
 
 [Extended Data](ext_articles/c383d844.ext.json)
+
+---
+
+### Imran Khan, wife sentenced to 14 years in state gifts case
+
+*2024-01-31 11:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Imran-Khan-wife-sentenced-to-14-years-in-state-gifts-case/107-276037) · `en`
+
+Jan 31 - Pakistan’s former Prime Minister Imran Khan and his wife Bushra Bibi have been sentenced to 14 years in jail in a case related to illegal selling of state gifts.
+
+An accountability court – which deals with corruption cases – in Rawalpindi on Wednesday also ruled that the couple would be ineligible to contest for a public office for 10 years while also slapping a fine of 757 million rupees ($2.7m).
+
+The sentencing came a day after Khan was given a 10-year prison term for revealing state secrets. It was not immediately clear if the sentences were to run consecutively or concurrently.
+
+Khan was handed a three-year prison sentence in August for selling gifts worth more than 140 million rupees ($501,000) he received when he was the prime minister from 2018 to April 2022.
+
+Though he secured bail, he remained in jail facing trial in other cases.
+
+The convictions against arguably Pakistan’s most popular politician came a week before the general elections to be held on February 8.
+
+...
+
+[Data](articles/114abf6f.json)
 
 ---
 
@@ -824,6 +1040,22 @@ Will the party's national organizer, Basil Rajapaksa, is abroad, will be the par
 
 ---
 
+### Afghanistan cricket team arrives in Sri Lanka
+
+*2024-01-31 11:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Afghanistan-cricket-team-arrives-in-Sri-Lanka/108-276036) · `en`
+
+Colombo, Jan. 31 (Daily Mirror) - The Afghanistan cricket team has arrived in Sri Lanka last night for an all-format series.
+
+They are scheduled to compete in a Test match and three one-day matches, followed by three T20I matches against the Sri Lankan team.
+
+The Test match to commence on February 2 at the SSC and will be freely accessible to the public.
+
+◼️
+
+[Data](articles/c745798b.json)
+
+---
+
 ### Imran Khan and wife is in prison
 
 *2024-01-31 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192777) · `si`
@@ -895,6 +1127,20 @@ Upon seeing it, the new driver's license sent by the Department of Motor Vehicle
 [Data](articles/e6ef93d9.json)
 
 [Extended Data](ext_articles/e6ef93d9.ext.json)
+
+---
+
+### Daily Mirror News Editor injured during SJB protest
+
+*2024-01-31 11:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Daily-Mirror-News-Editor-injured-during-SJB-protest/155-276034) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - Yohan Perera, the News Editor of the Daily Mirror, sustained injuries yesterday during the Samagi Jana Balawegaya (SJB) protest when he was struck by a tear gas canister.
+
+The demonstration took place in front of the Viharamadevi Park and the police, in accordance with a court order, blocked the road, restricting the protestors from exceeding their designated limits.
+
+◼️
+
+[Data](articles/e03e65c0.json)
 
 ---
 
@@ -1564,13 +1810,13 @@ Among the 230 suspects in the list of the criminal sections, 204 suspended suspe
 
 National Freedom Front (Jathika Nidahas Peramuna) member L.K. Jagath Priyankara’s name has been gazetted to fill the MP seat left vacant following the tragic death of State Minister Sanath Nishantha.
 
+Issuing a statement regarding the matter, the Election Commission of Sri Lanka (ECSL) stated that as per 13(b)of Article 99 of the Constitution, and in pursuant to Section 64(2) of the Parliamentary ELections Act, No. 01 of 1981, L. K. Jagth Priyankara has been declared elected as an MP for the Puttalam electoral district No. - 16.
+
 State Minister Sanath Nishantha and his security officer died in a tragic accident that took place on the Colombo - Katunayake expressway in the early hours of the day.
 
 According to the police, the state minister’s vehicle had rear-ended a moving container truck around 2:00 a.m. (25 Jan.), before crashing against the roadside barrier.
 
-Following the fatal collision, three persons including State Minister Nishantha were rushed to the Colombo North Teaching Hospital in Ragama with critical wounds, where two of them - the lawmaker and his security guard, a police constable named Jayakody – succumbed to their injuries upon admission.
-
-◼️
+...
 
 [Data](articles/87deae1b.json)
 
@@ -1733,357 +1979,5 @@ The gazette notification has been announced yesterday and the Secretary General 
 [Data](articles/2000b1c8.json)
 
 [Extended Data](ext_articles/2000b1c8.ext.json)
-
----
-
-### A delegation of the National Food and Agriculture Organization to the island
-
-*2024-01-31 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192771) · `si`
-
-Representatives of the Regional Head Office has arrived in Sri Lanka to monitor the organizations of the 37th Asia Pacific Conference of the United Nations World Food and Agriculture Organization.
-
-The Ministry of Agriculture stated that the conference will be held from 19th February to 22.
-
-A group of officers of the Asian Pacific Head Office has arrived in the island Mahinda Amaraweera to look into the organization.
-
-The total organizations are being operated by the Ministry of Agriculture and Plantation Industries and by the Sri Lanka Office of the United Nations.
-
-Nearly 200 recipients of 42 representatives of 42 countries in the Asia and Pacific region are to attend the summit.
-
-◼️
-
-[Data](articles/436f04f8.json)
-
-[Extended Data](ext_articles/436f04f8.ext.json)
-
----
-
-### Resignations at SLT as Board overhaul begins
-
-*2024-01-31 08:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Resignations-at-SLT-as-Board-overhaul-begins/108-276020) · `en`
-
-Sri Lanka Telecom (SLT) yesterday saw its Board members resign after President Ranil Wickremesinghe directed the Treasury Secretary last week to reconstitute the Board with immediate effect.
-
-SLT PLC yesterday disclosed to the Colombo Stock Exchange (CSE) that Chairman and Independent Non-Executive Director Reyaz Mihular tendered his resignation with effect from 29 January 2024.
-
-The five other Directors also tendered their resignation, a separate filing to the CSE said.
-
-The Directors are Rohan Fernando (former SLT Chairman holding 120,000 shares), Lalith Seneviratne, Ranjith Rubasinghe, Mohan Weerakoon, and Treasury representative K.A. Vimalenthirarajh (holding 1,300 shares).
-
-The former SLT Chairman Fernando also stepped down as Chairman from SLT Subsidiary eChanneling PLC.
-
-On Friday (26 January), Secretary to President Saman Ekanayake, under the directive of President Wickremesinghe, announced the appointment of a new set of Board of Directors to SLT.
-
-...
-
-[Data](articles/e71dfff2.json)
-
-[Extended Data](ext_articles/e71dfff2.ext.json)
-
----
-
-### A good message to disabled police officers in the war
-
-*2024-01-31 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192770) · `si`
-
-Disabled Police Retirement Police Retirement War Heroes focused on the sectoral Oversight Committee on the democratic promotions to 55 years of promotions and a salary system.
-
-The committee had discussed length at the event of the Chairman of Sarath Weerasekera.
-
-If they were in the ministry, the committee's representatives of disabled police officers have requested the proposal to be given the corresponding salary with the corresponding salary.
-
-Meanwhile, information has revealed that the allowance of the special duties of officers who serve in special units and the alleged grant of the allowances provided to the officers who are not served in special units.
-
-The sectoral Oversight Committee has instructed officials to report a report on retired disabled officers who are incorrectly offered.
-
-The Chairman of the Parliamentary Communication further stated that the acting IGP has instructed the acting IGP to take treatment for the disabled police war heroes.
-
-◼️
-
-[Data](articles/f624cf1e.json)
-
-[Extended Data](ext_articles/f624cf1e.ext.json)
-
----
-
-### A person is beaten with a sharp instrument and killed
-
-*2024-01-31 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192769) · `si`
-
-A person has been attacked with a sharp instrument in the Chunnakam Police Division.
-
-The police have revealed that a heated argument caused by the chickens of the deceased to the residence of the deceased.
-
-The 54-year-old suspect was arrested and the body is being kept at the Talappelata Hospital and Chunnakam police are conducting further investigations.
-
-◼️
-
-[Data](articles/fc2dde80.json)
-
-[Extended Data](ext_articles/fc2dde80.ext.json)
-
----
-
-### Sri Lanka expects rice harvest of 2.61mn tonnes in main season
-
-*2024-01-31 07:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-rice-harvest-of-2-61mn-tonnes-in-main-season-149270/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s main Maha season paddy (rough rice) harvest is estimated at 2.61 million metric tonnes based on cultivated area up to December, the Department of Agriculture said.
-
-The cultivate areas was 784,357 hectares, up 4.0 percent from a year ago and 91 percent of the targeted area for the season.
-
-Sri Lanka has received strong rain for the season, a phenomenon usually seen in so-called El Nino years, which leads to bumper harvests. The area hit by floods and pests were estimated at 36,972 hactares.
-
-Paddy available for milling after setting aside for seed paddy would be 2.40 million metric tonnes.
-
-Milled rice from the Maha season would be 1.63 million metric tonnes.
-
-Based on average consumption of 211,930 metric tonnes the Maha season production would be enough for 7.71 months of consumption.
-
-With the rice from the Yala minor season, total paddy production from the two seasons is estimated at 4.45 million metric tonnes giving 2.76 million tonnes of milled rice.
-
-...
-
-[Data](articles/2219897d.json)
-
-[Extended Data](ext_articles/2219897d.ext.json)
-
----
-
-### Latest people of land
-
-*2024-01-31 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192768) · `si`
-
-The Ministry of Tourism and the Land says that 10,000 extent to the Ministry of Lands has already been completed under the first phase of the legacy program implemented in the public ownership of the people.
-
-The Secretary to the Ministry ACH, steps have been taken to refer these freehold deeds to the District Secretariats.. Um. BP. Herath said.
-
-These issues have been revealed at a meeting held at the Presidential Secretariat, District Secretaries and Divisional Secretaries.
-
-The National Festival of President Ranil Wickremesinghe has decided to conduct the National Festival of President Ranil Wickremesinghe on February 5 at January 05.
-
-The Presidential Media Unit said that the Presidential Secretariat has instructed the District Secretariat to facilitate all depends on the event.
-
-The government plans to grant free deeds for Rs. 20 million under this program.
-
-◼️
-
-[Data](articles/76d97f2d.json)
-
-[Extended Data](ext_articles/76d97f2d.ext.json)
-
----
-
-### Murder of Beliatta; Three arrested
-
-*2024-01-31 07:42:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலியத்த-கொலை-சம்பவம்-மூவர்-கைது/175-332388) · `ta`
-
-Three more suspects have been arrested for allegedly assisting the murder of five people in Beliatta.
-
-Two suspects were arrested by the Hungama Police Station officials and the Matara Criminal Investigation Department (Matara) officials arrested another suspect in Matara.
-
-The 28, 42 and 58 -year -olds have been arrested from Negombo, Alawa and Pussa.
-
-These suspects have been arrested for removing the T-56 guns used for the assassination and for cash transactions during crimes.
-
-Further investigations are being carried out by the police and the two women have been arrested earlier for the crime of carrying guns for the murder.
-
-◼️
-
-[Data](articles/1bc18403.json)
-
-[Extended Data](ext_articles/1bc18403.ext.json)
-
----
-
-### Three more suspects arrested over Beliatta shooting
-
-*2024-01-31 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/96870/three-more-suspects-arrested-over-beliatta-shooting) · `en`
-
-Police said that another three suspects have been arrested in connection with the recent shooting and killing of five persons at Beliatta in Hambantota District.
-
-The suspects have been arrested in the Hungama area in Matara for allegedly providing the weapons and cash dealings over the incident, police said.
-
-Two more suspects, both females, had been arrested from the Rathgama area for allegedly aiding and abetting the suspects involved in the recent killing of five persons at Beliatta.
-
-The two women, aged 23 and 33 who are residents of Boossa, were arrested following an operation carried out by a team of officers from the Hakmana Police Station in the Rathgama area on Monday morning (29).
-
-Investigations have uncovered that the two firearms used in the shooting incident had been transported from Karapitiya to Boossa in a motorcycle belonging to one of these suspects after the crime was committed.
-
-...
-
-[Data](articles/f3295979.json)
-
-[Extended Data](ext_articles/f3295979.ext.json)
-
----
-
-### Another shot
-
-*2024-01-31 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192767) · `si`
-
-The Buddision's Fisheries Village of the Karuwalagaswewa Police have shot.
-
-The police media division said that the shooting was admitted to the Puttalam Hospital yesterday (30).
-
-Investigations have revealed that the victim had a casual romantic relationship with a woman and another person who had a love affair with the woman had been shot.
-
-The shooting has been identified and he has fled the area.
-
-◼️
-
-[Data](articles/38c16682.json)
-
-[Extended Data](ext_articles/38c16682.ext.json)
-
----
-
-### Notice of thunderstorms
-
-*2024-01-31 07:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-குறித்த-அறிவிப்பு/175-332387) · `ta`
-
-The Department of Meteorology has said that most parts of the country will be surrounded by the sky in the morning.
-
-Rainfall is expected in the Eastern, North Central and Uva provinces as well as in the Mullaitivu and Matale districts.
-
-Rainfall or thunderstorms are likely to occur after two o'clock in the other parts of the country.
-
-Heavy rains are expected to occur in some parts of the Central, Sabaragamuwa and Uva provinces, as well as some parts of the Ampara district.
-
-In some parts of the Central, Sabaragamuwa and Uva provinces, as well as in the Galle and Matara districts, snow will be seen in the morning.
-
-Rainfall or thunderstorms are likely to occur in many parts of the sea regions along the coast of Mullaitivu to Trincomalee and Batticaloa.
-
-Showers or thunderstorms are expected in the evening or night in some parts of the sea regions from Puttalam to Colombo.
-
-Winds from the northeast or east of the sea at 20 - 30 km / h in the sea regions.
-
-...
-
-[Data](articles/6eb76036.json)
-
-[Extended Data](ext_articles/6eb76036.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-01-31 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/96869/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says cloudy skies can be expected over most parts of the island during the morning.
-
-Showers will occur at times in Eastern, Uva and North-central provinces and in Mullaitivu and Matale districts.
-
-Showers or thundershowers will occur at several places elsewhere of the island after 2.00 p.m.
-
-Fairly heavy showers about 75 mm are likely at some places in Uva, Sabaragamuwa and Central provinces and in Ampara district
-
-Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
-
-The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/fa49220e.json)
-
-[Extended Data](ext_articles/fa49220e.ext.json)
-
----
-
-### Army Commander goes to see Parachute
-
-*2024-01-31 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192766) · `si`
-
-Army Commander Lieutenant General Vikiage has gone to the Army Hospital for consultation of the army officer and soldier who was injured in the accident in parachute training.
-
-The Army Commander also found the treatment of their treatment and the following treatment has been organized with medical officers.
-
-The Army Commander has expressed gratitude to the Medical staff of the Army Hospital, the Army Commander has been given the best treatment.
-
-The Ministry of Defense states that four parachute troops joined the parachute show in the 76th Independence Day were due to an unexpected wind flow.
-
-Defense Director, Media Director and Colonel Nalin Herath said this.
-
-Air Force troops are the two Sergeant MDSS Stagalla and Sergeant RHPK Hemasinghe.
-
-The Air Force stated that the Sergeant MDSS Street Purpose Officer, 531 parachute jumps and 370 parachute jumps have been conducted.
-
-Major Dhammika Ratnapala and Staff Sergeant LRG. Bandaraists are the Sri Lanka Army Special Forces Members.
-
-...
-
-[Data](articles/014c6fc5.json)
-
-[Extended Data](ext_articles/014c6fc5.ext.json)
-
----
-
-### Three arrested for murder in Beliwatta
-
-*2024-01-31 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192765) · `si`
-
-Three suspects have been arrested for supporting the murder of the Beliatta.
-
-Two suspects have been arrested by the Hungama Police Officers and the Matara Division Criminal Investigation Division has arrested another suspect in Matara.
-
-The arrested persons were residents of Negombo, Alawwa and Boossa, who were aged 28, 42 and 58 years.
-
-They were arrested in connection with the disposal of T-56 rifles in the murder and committing crimes.
-
-Beliatta Police are conducting further investigations and two women were arrested for transporting firearms for previous assassions.
-
-◼️
-
-[Data](articles/6798ae4c.json)
-
-[Extended Data](ext_articles/6798ae4c.ext.json)
-
----
-
-### Showers over 75mm
-
-*2024-01-31 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192763) · `si`
-
-The Department of Meteorology announces that in many parts of the island, the Department of Meteorology announces the cloudy sky.
-
-Showers will occur at times in the Eastern, Ugawasa North Central provinces in Mullaitivu and Matale districts.
-
-At the rest of the island. Showers or thundershowers will occur at several times after 2.
-
-In some places in the Uva, Sabaragamuwa and Central provinces, mm.. Heavy rains can occur about 75 times.
-
-In some places, in some places in the Central, Sabaragamuwa and Uva provinces, are expected in the Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/7853722b.json)
-
-[Extended Data](ext_articles/7853722b.ext.json)
-
----
-
-### Sajith Premadasa accuses Govt. of cowardice amidst crackdown on SJB protest
-
-*2024-01-31 04:00:42* · [`dailyftlk`](https://www.ft.lk/news/Sajith-Premadasa-accuses-Govt-of-cowardice-amidst-crackdown-on-SJB-protest/56-757968) · `en`
-
-Police immediately cracks down on protest march which began around 1.30 p.m. from Vihara Maha Devi Park
-
-SJB leader claims Govt. is afraid of Sri Lankan citizens and are a group of cowards
-
-Calls crackdown illegal as court orders did not prevent a protest march near Vihara Maha Devi Park
-
-Claims attack symbolises state terrorism, brutality and suppression in Sri Lanka
-
-Declares that in 2024 SJB would overcome Govt. efforts to subdue people through violence solely through power of citizens
-
-The Government deployed the military and the Police to parts of Colombo yesterday as scores of Samagi Jana Balawegaya (SJB) supporters led by party leaders converged in the city for an anti-Government demonstration. The Police almost immediately cracked down on the protest march which began around 1.30 p.m. from the Vihara Maha Devi park and proceeded to fire water cannons and tear gas to break up the demonstration.
-
-...
-
-[Data](articles/2d8e874b.json)
-
-[Extended Data](ext_articles/2d8e874b.ext.json)
 
 ---

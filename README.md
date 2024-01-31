@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 23:02:15**
+As of **2024-01-31 23:17:14**
 
 ## Newspaper Stats
 
-*Scraped **3,935** Articles*
+*Scraped **3,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 247
 adalk | 349
 virakesarilk | 440
 adaderanasinhalalk | 453
-adaderanalk | 496
+adaderanalk | 497
 tamilmirrorlk | 502
 dailymirrorlk | 540
 
@@ -26,31 +26,53 @@ dailymirrorlk | 540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,934 (100.0%) of 3,935 articles have been extended.
+3,935 (100.0%) of 3,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### ආධුනික නීතිඥවරයෙකුට අමානුෂික ප්‍රහාරයක්
+### World Court dismisses much of Ukraine’s case against Russia
 
-*2024-01-31 22:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192813) · `si`
+*2024-01-31 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96900/world-court-dismisses-much-of-ukraines-case-against-russia) · `en`
 
-ආධුනික නීතිඥවරයෙකුට මහමගදී පහරදුන් තවත් නීතිඥවරුන් සහ නීතිඥවරියන් ඇතුළු 5 දෙනෙකු අද අධිකරණය විසින් ඇප මත මුදාහැර තිබේ.
+Judges at the top U.N. court on Wednesday found that Russia violated elements of a U.N. anti-terrorism treaty, but declined to rule on allegations brought by Kyiv that Moscow was responsible for the shooting down of Malaysia Airlines flight MH17 over eastern Ukraine in 2014.
 
-සැකකරුවන් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව අත්තනගල්ල මහෙස්ත්‍රාත් මංජුල කරුණාරත්න මහතා නියෝග කර ඇත්තේ රුපියල් ලක්ෂය බැගින් වූ ශරීර ඇප මත ඔවුන්ව මුදාහරින ලෙසටය.
+In the same ruling, judges at the International Court of Justice (ICJ) found that Russia had breached an anti-discrimination treaty by failing to support Ukrainian language education in Crimea after its 2014 annexation of the peninsula.
 
-සැකකරුවන් විසින් මෙලෙස පහරදී ඇත්තේ නිට්ටඹුව ප්‍රදේශයේ පදිංචිව සිටින තරුණ නීතිඥවරයෙකුට බව පොලීසිය පවසයි.
+The decisions were a legal setback for Kyiv. The court rejected Ukraine’s requests to order reparations for both violations and only ordered Russia to comply with the treaties.
 
-මූලික විමර්ශනවලදී හෙළිවී ඇත්තේ පහරකෑමට ලක්ව ඇති ආධුනික නීතිඥවරයා සහ ජ්‍යේෂ්ඨ නීතිඥවරියක් අතර බහින් බස්වීමක් සිදුව ඇති බවය.
-
-අනතුරුව වෙනත් ජ්‍යේෂ්ඨ නීතිඥවරයෙකු අත්තනගල්ල මහෙස්ත්‍රාත් අධිකරණය වෙත පැමිණ පහරකෑමට ලක්ව ඇති තරුණ නීතිඥවරයා කළගෙඩිහේන ප්‍රදේශයට කැඳවාගෙන ගොස් තිබේ.
-
-අනතුරුව බහින්බස්වීම සිදුවූ ජ්‍යේෂ්ඨ නීතිඥවරියගේ නිවස ආසන්නයේදී අදාළ සැකකාර නීතිඥවරුන් සහ නීතිඥවරියන් ඇතුළු පිරිසක් තමන්ට පහරදුන් බව තරුණ නීතිඥවරයා පවසා ඇත.
+Ukraine had filed the lawsuit at the ICJ, also known as the World Court, in 2017, accusing Russia of violating an anti-terrorism treaty by funding pro-Russian separatists in Ukraine.
 
 ...
 
+[Data](articles/a028b2c4.json)
+
+---
+
+### A brutal attack on an amateur lawyer
+
+*2024-01-31 22:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192813) · `si`
+
+Five other lawyers and lawyers who were attacked by an amateur lawyer have been released on bail today.
+
+The suspects were produced before the courts and ordered them to be released on bail of Rs. Short300,000.
+
+The suspects were assaulted by a young lawyer, a young lawyer in Nittambuwa, police said.
+
+Preliminary investigations have revealed that a heated argument between the assault and a senior lawyer.
+
+The other senior lawyer had then returned to the Attanagalla Magistrate's Court and had been assaulted by the youth lawyer to the Kalagedihena area.
+
+The young lawyer also said that the suspects and lawyers, including the argument of the Senatini Attorney's residence.
+
+He said that they were threatened to apologize to the Senior Attorney General and that they had been brought back to court premises after they apologize to the Senior Attorney.
+
+◼️
+
 [Data](articles/b87a8735.json)
+
+[Extended Data](ext_articles/b87a8735.ext.json)
 
 ---
 
@@ -2035,35 +2057,5 @@ He was speaking at a media briefing held at a press conference held at a media b
 [Data](articles/d2d064a4.json)
 
 [Extended Data](ext_articles/d2d064a4.ext.json)
-
----
-
-### All over the world spreads - the crowd of the US
-
-*2024-01-31 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192792) · `si`
-
-Although there are many lives and property damage, but no thousands of people are displaced, but to the country of arms, it was no more good time.
-
-It was revealed that American weapons were recorded in a record high of the year.
-
-According to official reports, the US $ 238 billion is US $ 238 billion.
-
-US $ 81 billion has been earned from the sale of direct weapons made by the US government.
-
-It rises to 56 percent as the founders of the United States of America in 2022.
-
-The remaining US $ 157 billion has been earned at the dealings between security companies and foreign countries.
-
-Poland is the east European region, which is being implemented in the country's military strength to increase the military strength of the country.
-
-Poland has purchased US $ 12 billion helicopters and has paid for another $ 10 billion high-mobility artillery systems (HMARS).
-
-In addition, Poland said Poland had said that 4 US $ 3.75 billion to buy tanks and air and missile protection systems.
-
-...
-
-[Data](articles/3fc25127.json)
-
-[Extended Data](ext_articles/3fc25127.ext.json)
 
 ---

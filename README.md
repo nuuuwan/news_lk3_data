@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 21:33:00**
+As of **2024-01-31 21:51:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 534
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,921 (99.9%) of 3,924 articles have been extended.
+3,924 (100.0%) of 3,924 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Mr. Jayaratne has served in the Sri Lanka Navy from 1994 to 2007. In particular,
 
 [Data](articles/954d5687.json)
 
+[Extended Data](ext_articles/954d5687.ext.json)
+
 ---
 
 ### Charges for issuing passports under normal service increased
@@ -60,6 +62,8 @@ Accordingly, the new fee for the issue of passports under normal service will be
 
 [Data](articles/2b5483df.json)
 
+[Extended Data](ext_articles/2b5483df.ext.json)
+
 ---
 
 ### Fee for passport issuance doubled
@@ -73,6 +77,8 @@ The Controller General of Immigration and Emigration stated that accordingly, th
 ◼️
 
 [Data](articles/46f495c1.json)
+
+[Extended Data](ext_articles/46f495c1.ext.json)
 
 ---
 

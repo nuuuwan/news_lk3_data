@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 06:16:18**
+As of **2024-01-31 06:53:53**
 
 ## Newspaper Stats
 
-*Scraped **3,660** Articles*
+*Scraped **3,670** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 47
 bbccomsinhala | 61
 dbsjeyarajcom | 127
-islandlk | 198
 economynextcom | 200
+islandlk | 207
 newsfirstlk | 216
 dailyftlk | 242
 adalk | 331
 adaderanasinhalalk | 405
-virakesarilk | 405
+virakesarilk | 406
 tamilmirrorlk | 462
 adaderanalk | 467
 dailymirrorlk | 499
@@ -26,7 +26,7 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,660 (100.0%) of 3,660 articles have been extended.
+3,660 (99.7%) of 3,670 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -318,6 +318,52 @@ No US President, former or incumbent, has suffered the humiliation that Donald T
 
 ---
 
+### Expolanka Holdings demonstrates resilience in Q3 FY24, navigates challenging macroeconomic conditions
+
+*2024-01-30 23:12:00* · [`islandlk`](http://island.lk/expolanka-holdings-demonstrates-resilience-in-q3-fy24-navigates-challenging-macroeconomic-conditions/) · `en`
+
+Expolanka Holdings PLC announced its financial results for the third quarter ending 31 December 2023, delivering a resilient performance, and leveraging its strengths despite global economic headwinds and uncertainty.
+
+The Group reported a Revenue of Rs. 66.8 billion for the quarter and Rs. 183.9 billion for the nine months ending 31 December 2023. Gross Profit stood at Rs. 10.9 billion for the quarter, summing up to Rs. 34.2 billion for the nine-month period. A Net Loss of Rs. 5.1 billion was recorded for the quarter, contributing to a nine-month Net Loss of Rs. 12.3 billion.
+
+Global trade faced challenges due to tightening monetary policies, high inflation, geopolitical tensions, trade protectionism, and elevated energy prices. These factors contributed to uncertainty, reduced consumer spending, and lower demand conditions.
+
+...
+
+[Data](articles/4b2ca366.json)
+
+---
+
+### Partnering for success: Kingslake and Omega Line’s path to manufacturing excellence
+
+*2024-01-30 23:11:00* · [`islandlk`](http://island.lk/partnering-for-success-kingslake-and-omega-lines-path-to-manufacturing-excellence/) · `en`
+
+Since its inception in 1999, the relationship between Kingslake and Omega Line has surpassed conventional bounds of business collaboration. Over the course of two decades, Kingslake has been a driving force behind Omega Line’s technological transformation, propelling them to the forefront of the apparel manufacturing industry.
+
+From the very beginning, Kingslake’s solutions became an integral part of Omega Line’s operations. The foundation of this enduring partnership was laid with the implementation of Payroll system EazyPay, a product that streamlined employee management. Seamlessly intertwined with this was the financial arm, expertly managed through Infor Syteline ERP. This ERP solution not only facilitated financial management but also laid the groundwork for a cohesive and efficient business ecosystem. Additionally, the implementation of STYLEman, a Style colour size fit matrix, further enhanced Omega Line’s operational capabilities.
+
+...
+
+[Data](articles/53d3721a.json)
+
+---
+
+### Buying interest notable in blue chip counters; CSE turnover hits Rs. 1 billion
+
+*2024-01-30 23:06:00* · [`islandlk`](http://island.lk/buying-interest-notable-in-blue-chip-counters-cse-turnover-hits-rs-1-billion/) · `en`
+
+The stock market started on a negative sentiment yesterday but subsequently turned positive and ended on a slightly negative stance, market analysts said.
+
+Amid those developments turnover touched more than Rs 1 billion and buying interest was noted for blue chip counters, analysts said.
+
+The All Share Price Index went down by 2.58 points and S and P SL20 declined by 11.48 points. Turnover stood at Rs 1.1 billion with two crossings. Those crossings were reported in Citizens Development Business Finance, which crossed 446,000 shares to the tune of Rs 89. 3 million; its shares traded at Rs 200 and HNB 300,000 shares crossed for Rs 46.5 million; its shares traded at Rs 155.
+
+...
+
+[Data](articles/e24ccb62.json)
+
+---
+
 ### Wedderburn shines in West Indies U19’s win
 
 *2024-01-30 22:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wedderburn-shines-in-West-Indies-U19s-win/108-276002) · `en`
@@ -483,6 +529,22 @@ In the 1948 International Human Rights Declaration, everyone has the right to le
 [Data](articles/cde71fa1.json)
 
 [Extended Data](ext_articles/cde71fa1.ext.json)
+
+---
+
+### எனது விசாரணைக்குழுவின் அறிக்கைக்கு அமையவே பாராளுமன்ற ஊழியர்களின் கைது இடம்பெற்றது - பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர
+
+*2024-01-30 22:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175186) · `ta`
+
+என்னால் நியமிககப்பட்ட குழு அறிக்கை சட்டமா அதிபருக்கு அனுப்பிவைக்கப்பட்டதால், அவரின் ஆலாேசனையின் பிரகாரம் பொலிஸ் மா அதிபருக்கு அனுப்பி அதன் பிரகாரம் பொலிஸ் சிறுவர் மற்றும் மகளிர் பணியகத்தினால் மேற்கொள்ளப்பட்ட விசாரனைக்கு அமையவே பாராளுமன்ற ஊழியர்கள் 3பேர் கைது செய்யப்பட்டுள்ளனர் என பாராளுமன்ற செயலாளர் நாயகம்  குஷானி ரோஹணதீர தெரிவித்துள்ளார்.
+
+பாராளுமன்றத்தின் வீட்டு பராமரிப்பு பிரிவை்சேர்ந்த 2பெண் ஊழியர்களுக்கு பாலியல் தொந்தரவு மேற்கொண்ட சம்பவம் தொடர்பில் அதன் சிரேஷ்ட ஊழியர் 3பேர் கைது செய்யப்பட்டுள்ளதாக வெளிவந்திருக்கும் செய்தி தொட்ர்பில் அவர் விடுத்துள்ள அறிக்கையிலேயே இவ்வாறு தெரிவிக்கப்பட்டுள்ளது.
+
+நான் பாராளுமன்றத்தின் பொதுச் செயலாளராக நியமிக்கப்பட்டதன் பின்னர், 2022ஆம் ஆண்டிலும் அதற்கு முன்னரும் பாராளுமன்றத்தின் வீட்டுப் பராமரிப்புத் துறையில் பல பெண்கள் துன்புறுத்தப்பட்டதாகக் கூறப்படும் பல சம்பவங்கள் குறித்து எனக்கு அறிவிக்கப்பட்டதுடன் அதன் பிரகாரம், சபாநாயகரின் ஆலாேசனையின் கீழ் இது தொடர்பாக மேலதிக விசாரணை மேற்கொள்ள
+
+...
+
+[Data](articles/7b5fe669.json)
 
 ---
 
@@ -1959,75 +2021,5 @@ The Chief Inspector of the Nuwara Eliya Police Headquarters said that the buses 
 [Data](articles/efdb4e21.json)
 
 [Extended Data](ext_articles/efdb4e21.ext.json)
-
----
-
-### Heavy traffic in Colombo due to SJB protest march
-
-*2024-01-30 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96853/heavy-traffic-in-colombo-due-to-sjb-protest-march) · `en`
-
-Traffic congestion is reported in Town Hall, Colombo, due to a protest march by the Samagi Jana Balawegaya (SJB), Ada Derana correspondent says.
-
-Joined by Opposition Leader Sajith Premadasa, SJB MPs and supporters, it was organized in protest of the conduct of the government.
-
-Earlier today, three court orders were issued ahead of the SJB’s protest march, barring the demonstrators from entering certain locations in Colombo including the Finance Ministry, the Presidential Secretariat, the President’s House and Galle Face Green.
-
-They are also banned from causing inconveniences to motorists and pedestrians travelling along Dean’s Road, Lipton Roundabout, Maradana Junction, T.B. Jayah Mawatha, Olcott Mawatha, the Technical Junction and other areas in Colombo this evening.
-
-A court order further read that the protesters are, however, allowed to use the P.D. Sirisena Ground and Hyde Park to stage their demonstration.
-
-◼️
-
-[Data](articles/118d9f6e.json)
-
-[Extended Data](ext_articles/118d9f6e.ext.json)
-
----
-
-### Pakistan ex-PM Imran Khan, top aide get 10-year jail in state secrets case
-
-*2024-01-30 14:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Pakistan-ex-PM-Imran-Khan-top-aide-get-10-year-jail-in-state-secrets-case/107-275984) · `en`
-
-Islamabad, Jan 30 (Al Jazeera) - A Pakistan court has sentenced former Prime Minister Imran Khan and his close aide, former Foreign Minister Shah Mahmood Qureshi, to 10 years in jail in a case related to the leaking of state secrets.
-
-The special court set up in a prison in Rawalpindi on Tuesday announced the sentence in the so-called cypher case, which pertains to a diplomatic cable that Khan claims proves his allegation that his removal from power in 2022 was a conspiracy.
-
-The court established under the Official Secrets Act found Khan guilty of misusing the confidential cable sent by a former Pakistani ambassador to the United States.
-
-Khan has repeatedly denied the charge, saying the document contained evidence that his removal as prime minister was a plot hatched by his political opponents and the powerful military, with help from the US administration. Washington and the Pakistani army reject the accusation.
-
-...
-
-[Data](articles/2b092705.json)
-
-[Extended Data](ext_articles/2b092705.ext.json)
-
----
-
-### Colombo strict traffic jams
-
-*2024-01-30 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192743) · `si`
-
-A major roads in the Colombo Municipal Council have occurred due to a protest march.
-
-◼️
-
-[Data](articles/9d8aad9d.json)
-
-[Extended Data](ext_articles/9d8aad9d.ext.json)
-
----
-
-### Heavy security in Colombo
-
-*2024-01-30 14:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heavy-security-in-Colombo/108-275983) · `en`
-
-Colombo, Jan 30 (Daily Mirror) - Heavy security has been provided around the Vihara Mahadevi Park, where the Samagi Jana Balawegaya (SJB) protest is about to begin, police said.
-
-◼️
-
-[Data](articles/81d26f05.json)
-
-[Extended Data](ext_articles/81d26f05.ext.json)
 
 ---

@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 12:48:59**
+As of **2024-01-31 13:02:22**
 
 ## Newspaper Stats
 
-*Scraped **3,741** Articles*
+*Scraped **3,749** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 47
 bbccomsinhala | 61
 dbsjeyarajcom | 129
-economynextcom | 200
+economynextcom | 203
 islandlk | 207
-newsfirstlk | 225
+newsfirstlk | 226
 dailyftlk | 243
-adalk | 336
+adalk | 337
 virakesarilk | 414
-adaderanasinhalalk | 421
+adaderanasinhalalk | 424
 adaderanalk | 478
 tamilmirrorlk | 478
 dailymirrorlk | 502
@@ -26,11 +26,75 @@ dailymirrorlk | 502
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,741 (100.0%) of 3,741 articles have been extended.
+3,741 (99.8%) of 3,749 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### සංගීතයේ දී පොලු පහර කෑ නවාංජන තුන් මාසයක්ම ඇඳ උඩ
+
+*2024-01-31 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192782) · `si`
+
+කිසියම් පිරිසක් විසින් හිසට එල්ල කරන ලද පහරදීමකින් අද එක්තැන් වී සිටින සිය පුත්‍රයා වන හික්කඩුව වැල්ලවත්තේ පදිංචි 18 හැවිරිදි නවාංජන සඳකැලුම්ට නීතියෙන් නිසි සාධාරණයක් ඉටු වී නොමැති බව ඔහුගේ පවුලේ ඥාතීහු පවසති.
+
+මේ ප්‍රහාරයත් සමග නවාංජන සඳකැලුම් කිව නොහැකි තරමට අසරණ වී සිටින බවත් ඔහු මේ තත්ත්වයට පත්කළ සැකකරුවන්ට නීතිය හරි හැටි ක්‍රියාත්මක නොවී ඔවුන් සියලුදෙනාම මේ වනවිට නිදැල්ලේ සිටින බවත් ඔවුන් පවසයි.
+
+නවාජංන මෙම අවාසනාවන්ත තත්ත්වයට මුහුණදී ඇත්තේ 2023 වසරේ ඔක්තෝබර් 20 වෙනිදා හික්කඩුවේ දී බවද ඔහුගේ ඥාතීන් පැවසීය.
+
+සංගීත සංදර්ශනයක් නැරඹීමට පැමිණි දෙපිරිසක් අතර ඇතිවු ගැටුමක් දුරදිග යෑමෙන් පසු ඊට කිසිසේත්ම සම්බන්ධයක් නොමැති නවාංජනගේ හිසට ද මාරාන්තික ප්‍රහාරයක් එල්ල වී තිබිණි.
+
+ප්‍රහාරයෙන් ඔහුගේ හිසට වූ බරපතළ තුවාල හේතුවෙන් සැත්කමක් කිරීමට සිදුවු බවත්, සැත්කමේ දී ඔහුගේ හිස් කබලෙන් කොටසක් ඉවත්කර ඇති බවත් ඥාතීන් පවසයි.
+
+ඉවත් කරන ලද හිස් කබලේ කොටස නැවත සකස් කිරීමට වෛද්‍යවරුන්ට නොහැකිව ඇත්තේ දැනට ඔහුගේ ශරීර ශක්තිය දුබල හෙයින් බව ද ඔහුවු පවසති.
+
+...
+
+[Data](articles/930069a5.json)
+
+---
+
+### අනුන්ගේ මුදල් වැයකළ ජැකලින් ෆර්නෑන්ඩස් ට වැටුණු ලෙඩේ
+
+*2024-01-31 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192781) · `si`
+
+ශ්‍රී ලාංකික සම්භවයක් ඇති බොලිවුඩ් රංගන ශිල්පිනී ජැකලින් ෆර්නෑන්ඩස්, සුකේෂ් චන්ද්‍රශේකර් සතු මුදල් අපරාධ මගින් උපයාගත් මුදල් බව දැන දැනම වැයකර ඇතැයි ඉන්දීය පොලීසිය, එරට අධිකරණය හමුවේ අනාවරණය කර තිබේ.
+
+එම මුදල් හුවමාරු සම්බන්ධයෙන් ඇය සෑම විටම වසන් කර ඇති බවද ඒ සම්බන්ධයෙන් විමර්ශන සිදුකරන "බලාත්මක කිරීමේ අංශය" දිල්ලි අධිකරණයට දැනුම්වත් කර තිබුණි.
+
+ජැකලීන්ගේ එවක පෙම්වතාව සිටි බවට පැවසෙන ව්‍යාපාරික සුකේෂ් චන්ද්‍රශේකර් ඉන්දීය රුපියල් කෝටි 200ක මුදල් විශුද්ධිකරණ චෝදනා සම්බන්ධයෙන් සිරගතව සිටින අතර ඇය එම නඩුවේ විත්තිකාරියක් ද වෙයි.
+
+◼️
+
+[Data](articles/da325b11.json)
+
+---
+
+### පොලිස් අත්අඩංගුවේ සිටි තරුණයෙක් මරුට
+
+*2024-01-31 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192780) · `si`
+
+සැකපිට පොලිස් අත්අඩංගුවට ගත් තරුණයෙකු මියයෑම සැකසහිත බව පවසමින් ගම්වාසීන් ඊයේ (30) රාත්‍රියේ අනුරාධපුර පොලීසිය ඉදිරිපිටට රැස්ව සිය විරෝධය පළ කළේය.
+
+අනුරාධපුර මූලස්ථාන පොලීසියේ විශේෂ කොට්ඨාශ අපරාධ විමර්ශන අංශය ඊයේ පෙරවරුවේ මෙම තරුණයා සහ තවත් තරුණයින් දෙදෙනෙකු මත්ද්‍රව්‍ය චෝදනාවලට අත්අඩංගුවට ගෙන තිබේ.
+
+පසුව ඔවුන්ගේ ඥාතීන් පොලීසියට පැමිණ තරුණයින්ට අවශ්‍ය ආහාර ලබා දී යළිත් නිවසට පැමිණ තිබිණි.
+
+ඊයේ පස්වරුවේ ඥාතීන්ට කිසියම් අයෙක් දුරකථන ඇමතුමක් මඟින් දැනුම් දී ඇත්තේ තරුණයා හදිසියේ අසනීපවීම හේතුවෙන් අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කළ අතර ඉක්මනින් රෝහලට පැමිණෙන ලෙසය.
+
+එම දැනුම්දීමට අනුව එහි ගිය තමන්ට දැකගැනීමට හැකි වූයේ මියගිය තරුණයාගේ නිසල දේහය බව ඥාතීහූ පවසති.
+
+මිය ගිය තරුණයා පොලිස් සිරමැදිරිය තුළදී හදිසියේම රෝගාතුරවීම හේතුවෙන් අනුරාධපුර ශික්ෂණ රෝහලට ඊයේ පස්වරුවේ ඇතුළත් කිරීමෙන් පසුව මියගිය බව පොලිසිය පවසා ඇත.
+
+කෙසේ වෙතත් මියගිය තරුණයාගේ පවු‍ලේ ඥාතීන් පවසන්නේ මෙම මරණය පිළිබඳව සැක සහිත බවය.
+
+මෙසේ මියගොස් ඇත්තේ අනුරාධපුර දෙවන පියවරෙහි පදිංචි ශානුක ගිහාන් මාරඹගේ නමැති වයස අවුරුදු 22ක තරුණයෙකි.
+
+...
+
+[Data](articles/3f0f8a8b.json)
+
+---
 
 ### New State Minister of Irrigation and Water Resources Management appointed
 
@@ -81,6 +145,24 @@ Additionally, he holds various prominent positions such as a Member of the Counc
 [Data](articles/4a08c613.json)
 
 [Extended Data](ext_articles/4a08c613.ext.json)
+
+---
+
+### Global growth projected at 3.1% in 2024 – IMF
+
+*2024-01-31 11:43:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/global-growth-projected-at-3-1-in-2024-imf/) · `en`
+
+COLOMBO (News 1st); The world economy is expected to grow at a modest 3.1 percent in 2024 and 3.2 percent in 2025, according to the latest World Economic Outlook (WEO) update by the International Monetary Fund (IMF).
+
+While this represents a slight upward revision from the October 2023 forecast, it remains below the historical average of 3.8 percent seen between 2000 and 2019.
+
+Global growth is projected at 3.1 percent in 2024 and 3.2 percent in 2025, with the 2024 forecast 0.2 percentage point higher than that in the October 2023 World Economic Outlook (WEO) on account of greater-than-expected resilience in the United States and several large emerging market and developing economies, as well as fiscal support in China.
+
+Global headline inflation is expected to fall to 5.8 percent in 2024 and to 4.4 percent in 2025, with the 2025 forecast revised down, said the IMF.
+
+...
+
+[Data](articles/d2b18234.json)
 
 ---
 
@@ -306,6 +388,24 @@ Meanwhile, three police officers were injured when police threw stones at a prot
 
 ---
 
+### Sri Lanka rupee opens at 316.80/90 to the US dollar
+
+*2024-01-31 11:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-316-80-90-to-the-us-dollar-149282/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 316.80/90 to the US dollar on Wednesday, from 316.90/317.05 the previous day, dealers said.
+
+A bond maturing on 01.02.2026 was quoted at 12.45/50 percent from 12.85/95 percent.
+
+A bond maturing on 15.03.2028 was quoted at 13.15/25 percent from 13.45/55 percent.
+
+The drop saw the Colombo Stock Exchange trading up; with the All Share Price Index up 0.05 percent at 10,310, and the S&P SL20 up 0.48 percent at 2,912. (Colombo/Jan31/2024)
+
+◼️
+
+[Data](articles/e9dc2433.json)
+
+---
+
 ### Sarath Fonseka's statement - Sarath Fonseka
 
 *2024-01-31 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/175206) · `ta`
@@ -445,6 +545,26 @@ He pointed to the depths of Sri Lanka's struggles, with fuel shortages, food sca
 [Data](articles/2ed422ac.json)
 
 [Extended Data](ext_articles/2ed422ac.ext.json)
+
+---
+
+### Sri Lanka’s China-run Hambantota Port sees higher oil and gas ship calls
+
+*2024-01-31 10:38:00* · [`economynextcom`](https://economynext.com/sri-lankas-china-run-hambantota-port-sees-higher-oil-and-gas-ship-calls-149290/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Hambantota Port said it has seen a steep increase in oil and gas vessels in 2023 helped by Sinopec’s bunker operations, and is expecting to double throughput in 2024.
+
+More than 300 oil and gas vessels had called at the port up, 132 percent from the crisis year in 2022.
+
+A key reason for this is the port’s bunkering partner Sinopec actively operating in the market, bringing significant value addition to the HIP’s commercial operations.
+
+The overall oil and gas throughput handled by the port in 2023 was 918,000 metric tonnes with 700,000 MT of bunker and 218,000 MT LPG cargoes.
+
+“We are looking at the energy sector as a growth market for HIP and are actively promoting it,” Chief Operating Officer of Hambantota International Port Group (HIPG) Tissa Wickremasinghe, said in a statement.
+
+...
+
+[Data](articles/b313bd69.json)
 
 ---
 
@@ -727,6 +847,24 @@ The Afghanistan cricket team from Dubai to 10.20 days at Dubai to Katunayake Air
 [Data](articles/5d06eb80.json)
 
 [Extended Data](ext_articles/5d06eb80.ext.json)
+
+---
+
+### රජයේ සේවකයාට වඩා පොල් කඩන මනුස්සයා හොඳින් ජීවත් වෙනවා
+
+*2024-01-31 09:40:36* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-සේවකයාට-වඩා-පොල්-කඩන-මනුස්සයා-හොඳින්-ජීවත්-වෙනවා/11-407815) · `si`
+
+"රජයේ සේවකයෝ තමයි ඉතාමත් අසීරුවෙන්ම දැන් ජීවත් වෙන්නේ, අද රජයේ සේවකයාට වඩා පොල් කඩන මනුස්සයත් ඉතා හොඳින් ජීවත් වෙනවා" යැයි ශ්‍රී ලංකා නිදහස් පක්ෂ ජාතික සංවිධායක, පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා පැවසීය.
+
+ඒ මහතා මේ බව ප්‍රකාශ කර සිටියේ, අනුරාධපුර, ඉපලෝගම ප්‍රාදේශීය සම්බන්ධීකරණ කමිටු රැස්වීම අමතමින්ය. ඉපලෝගම ප්‍රාදේශීය සම්බන්ධීකරණ කමිටු රැස්වීම ඉපලෝගම ප්‍රාදේශීය ලේකම් කාර්යාල ශ්‍රවණාගාරයේදී පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතාගේ සභාපතීත්වයෙන් පැවැත්විණි.
+
+එම ප්‍රාදේශීය ලේකම් කොට්ඨාශයේ පවතින වන අලි ගැටලු, කෘෂිකාර්මික ගැටලු ඇතුළු ගැටලු හා ඒවාට විසදුම් සම්බන්ධයෙන් දේශපාලන නියෝජිතයන් හා රාජ්‍යය නිළධාරීන් සමඟ මෙහිදී සාකච්ජා කෙරිණි.
+
+" රජයේ සේවකයෝ ලෙස ඔබතුමලාත්, අපි හැමෝමත් ඇත්තටම ඉන්නේ සතුටින් නෙමෙයි. තියෙන වියදම් එක්ක ගත්තාම, අඩුයි කියන්න කිසි දෙයක් නෑ, හැම දේම වැඩියි, ලයිට් ටිකද, වතුර ටිකද, ගෑස් ටිකද, ටියුෂන් පන්ති ගාස්තුද, ළමයින්ගේ පාසල් වියදම්ද, මේ හැම දේම ගණන් වැඩියි.
+
+...
+
+[Data](articles/0d360f1f.json)
 
 ---
 
@@ -1039,6 +1177,30 @@ The 54-year-old suspect was arrested and the body is being kept at the Talappela
 [Data](articles/fc2dde80.json)
 
 [Extended Data](ext_articles/fc2dde80.ext.json)
+
+---
+
+### Sri Lanka expects rice harvest of 2.61mn tonnes in main season
+
+*2024-01-31 07:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-rice-harvest-of-2-61mn-tonnes-in-main-season-149270/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s main Maha season paddy (rough rice) harvest is estimated at 2.61 million metric tonnes based on cultivated area up to December, the Department of Agriculture said.
+
+The cultivate areas was 784,357 hectares, up 4.0 percent from a year ago and 91 percent of the targeted area for the season.
+
+Sri Lanka has received strong rain for the season, a phenomenon usually seen in so-called El Nino years, which leads to bumper harvests. The area hit by floods and pests were estimated at 36,972 hactares.
+
+Paddy available for milling after setting aside for seed paddy would be 2.40 million metric tonnes.
+
+Milled rice from the Maha season would be 1.63 million metric tonnes.
+
+Based on average consumption of 211,930 metric tonnes the Maha season production would be enough for 7.71 months of consumption.
+
+With the rice from the Yala minor season, total paddy production from the two seasons is estimated at 4.45 million metric tonnes giving 2.76 million tonnes of milled rice.
+
+...
+
+[Data](articles/2219897d.json)
 
 ---
 
@@ -1853,173 +2015,5 @@ Question: What about the great Pongal festival in the East to return the Tamil w
 [Data](articles/39adf9df.json)
 
 [Extended Data](ext_articles/39adf9df.ext.json)
-
----
-
-### Gampaha District Tamil Student Society
-
-*2024-01-30 22:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175182) · `ta`
-
-In the 1948 International Human Rights Declaration, everyone has the right to learn in the mother tongue. But the exception is some of Sri Lanka's ...
-
-◼️
-
-[Data](articles/cde71fa1.json)
-
-[Extended Data](ext_articles/cde71fa1.ext.json)
-
----
-
-### The arrest of parliamentary employees was held in accordance with the report of my inquiry - Parliamentary Secretary General Kushani Rohanadeera
-
-*2024-01-30 22:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175186) · `ta`
-
-Since my appointed committee report was sent to the Attorney General, three parliamentary employees have been arrested in accordance with the Police Children's and Women's Bureau, according to her, according to her Alake, said Parliamentary Secretary General Kushani Rohanadeera.
-
-In a statement issued by a news report, three senior employees have been arrested in connection with the sexual harassment of two female employees from Parliament's Home Care Unit.
-
-After I was appointed General Secretary of Parliament, many of the incidents that were reportedly harassed by many women in the House of Home Affairs of Parliament and before 2022 were informed and further investigations under the Speaker's Alarge.
-
-The Committee's report was received last week and it was sent to the Attorney General to get an additional article on it.. The Aranyan Attorney General had issued its report to the initial complaint on the incident.
-
-...
-
-[Data](articles/7b5fe669.json)
-
-[Extended Data](ext_articles/7b5fe669.ext.json)
-
----
-
-### Govt. aiming to provide 100,000 additional foreign jobs this year: State Minister
-
-*2024-01-30 22:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-aiming-to-provide-100-000-additional-foreign-jobs-this-year-State-Minister/108-275999) · `en`
-
-Colombo, Jan. 30 (Daily Mirror)- Enhancing the access to foreign jobs and cater to a wider range of opportunities, the government was aiming to provide 100,000 additional foreign jobs for Sri Lankan citizens this year, State Minister of Social Empowerment Anupa Pasqual said today.
-
-He said during a press briefing held at the Presidential Media Centre (PMC) on the theme 'Collective Path to a Stable Country' today that recognizing the potential of international opportunities, plans were afoot to send 10,000 individuals proficient in Japanese to secure jobs abroad.
-
-This initiative leverages existing language skills to open doors to lucrative employment options in a new market.
-
-"This ambitious target underscores the commitment to investing in skills development and training programmes, ensuring Sri Lanka's workforce is prepared for the demands of the global market," the State Minister explained.
-
-...
-
-[Data](articles/5d8f33a1.json)
-
-[Extended Data](ext_articles/5d8f33a1.ext.json)
-
----
-
-### A group of Indian nationals killed in a local politician
-
-*2024-01-30 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192761) · `si`
-
-In 2021, a court corrected a court that 15 persons were sentenced to death in Kerala state.
-
-Indian media reports said that the people were guilty of killing a local leader of the Bharatiya Janata Party.
-
-The local leader was killed while his mother, wife and daughter was aimed at his mother, wife and daughter.
-
-According to press reports, Sri Lanka had been killed as a reputation of a Muslim group named "Popular Front of India".
-
-The team was considered a controversial group in 2022 by Indian authorities.
-
-◼️
-
-[Data](articles/f7e694ce.json)
-
-[Extended Data](ext_articles/f7e694ce.ext.json)
-
----
-
-### Dhammika arrested by the Ministry of Public Administration
-
-*2024-01-30 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192760) · `si`
-
-Colombo Chief Magistrate Prasanna Alwis today (30) ordered to be remanded by the Secretary to the Ministry of Public Administration.Did.
-
-A man named Hasitha Dhammika, who was arrested by the Criminal Investigation Department, has been remanded.
-
-He had sent letters to 14 job heads for 14 job heads from the Ministry of Public Administration and the CID.
-
-The Criminal Investigations Department (CID) Rajapaksa said that the fraud was revealed when he had been sent letters and had taken the letters to the Ministry in December 2021.
-
-The suspect was arrested following a complaint with the Secretary to the Ministry of Criminal Investigation Department.
-
-The suspect had taken money from employment candidates across the job candidates through a person.
-
-The Department further stated that the statement from the person and will further investigate the incident.
-
-◼️
-
-[Data](articles/0013c115.json)
-
-[Extended Data](ext_articles/0013c115.ext.json)
-
----
-
-### Suspended prison sentences for Indian fishermen for poaching in Sri Lanka waters
-
-*2024-01-30 21:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspended-prison-sentences-for-Indian-fishermen-for-poaching-in-Sri-Lanka-waters/108-276001) · `en`
-
-Jan 30 -  Ten Indian fishermen were sentenced to a two-year suspended prison term by a Sri Lankan court for poaching in the island nation's waters.
-
-The magistrate in Point Pedro in the northern Jaffna peninsula on Monday also ordered the owner of the trawler to be present at the court on October 24 when the case will be next heard.
-
-The ‘two-year prison term suspended for five years’ means that the fishermen don’t go to jail actually but the sentence is suspended after five years.
-
-The fishermen, arrested by the Sri Lanka Navy on December 23, have attended the Point Pedro court three times.
-
-The magistrate Ponnuthurai Krishanth ordered the police to return their personal belongings seized by the Navy.
-
-The fishermen sentenced to suspended jail terms would be sent to the immigration detention centre in Colombo’s suburb of Mirihana until formalities could be conducted to repatriate them.
-
-...
-
-[Data](articles/1e01feec.json)
-
-[Extended Data](ext_articles/1e01feec.ext.json)
-
----
-
-### No use to demand the reduction of VAT - Bandula
-
-*2024-01-30 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192759) · `si`
-
-Cabinet spokesman Minister Bandula Gunawardena pointed out that protests on the road should be reduced to reduce VAT deductions and the protests should be submitted without any such option.
-
-At the press briefing of the cabinet decisions today, the Minister said that taxes are only used to cover essential allowances and expenses, including public servants.
-
-Speaking further Cabinet Media Spokesperson Minister Dr. Bandula Gunawardena,
-
-"Can you die without pensions? Can you live without a till three trillion?Save six million years to save six hundred and a billion thousands of years to save the six thousand thousand years after lending 10 trillion people, thinking about the crisis "
-
-◼️
-
-[Data](articles/49b05d68.json)
-
-[Extended Data](ext_articles/49b05d68.ext.json)
-
----
-
-### More information about couple who took to financial fraud
-
-*2024-01-30 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192758) · `si`
-
-Police have also revealed several other facts about the suspect, who was released on a pyramid financial institution in Galenbindunuwewa.
-
-The Illegal Asset Investigation Division said that the JVP was given a bus to the suspect in a major temple in the Southern Province in the Southern Province in 2021.
-
-The suspect has been given Rs.
-
-The suspect has told the suspect that the land is being sold with a strong politician, and only Rs.
-
-Investigations have revealed that the monk had taken measures to be presented to the suspect in the temple to the suspect in the temple.
-
-◼️
-
-[Data](articles/17687b23.json)
-
-[Extended Data](ext_articles/17687b23.ext.json)
 
 ---

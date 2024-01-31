@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 15:51:02**
+As of **2024-01-31 16:02:25**
 
 ## Newspaper Stats
 
-*Scraped **3,814** Articles*
+*Scraped **3,817** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,101 +18,145 @@ dailyftlk | 243
 adalk | 342
 adaderanasinhalalk | 430
 virakesarilk | 431
-adaderanalk | 480
+adaderanalk | 481
 tamilmirrorlk | 491
-dailymirrorlk | 514
+dailymirrorlk | 516
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,808 (99.8%) of 3,814 articles have been extended.
+3,814 (99.9%) of 3,817 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### கவனம் செலுத்தாவிடின் நாளையும் பணிபகிஷ்கரிப்பு
+### If not pay attention to the day
 
 *2024-01-31 15:21:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கவனம்-செலுத்தாவிடின்-நாளையும்-பணிபகிஷ்கரிப்பு/175-332419) · `ta`
 
-சம்பள கொடுப்பனவு உள்ளிட்ட பிரச்சினைகளுக்கு தீர்வுகளை வழங்க இன்று(31) மாத்திரமே அதிகாரிகளுக்கு அவகாசம் இருப்பதாக சுகாதார தொழிற்சங்கங்களின் கூட்டமைப்பு தெரிவித்துள்ளது.
+The Federation of Health Trade Unions said that only the authorities have time to provide solutions to issues including salary allowance.
 
-இந்த விடயத்தில் தலையீடு செய்யாவிட்டால் நாளையதினம் (01) காலை 6.30 முதல் 72 தொழிற்சங்கங்களை சேர்ந்த சுகாதார ஊழியர்கள் பணிப்பகிஷ்கரிப்பில் ஈடுபடவுள்ளதாக சுகாதார தொழிற்சங்கங்களின் கூட்டமைப்பின் இணை ஏற்பாட்டாளர் ரவி குமுதேஷ் தெரிவித்துள்ளார்.
+Ravi Kumudesh, co -organizer of the Health Trade Unions Federation, said that if the matter is not intervened, the health workers from 6.30 am to 72 trade unions will be working on the job.
 
-வைத்தியர்களுக்கு அதிகரிக்கப்பட்டுள்ள 35,000 ரூபா கொடுப்பனவை தமக்கும் வழங்குமாறு கோரி 72 சுகாதார ஊழியர்கள் சங்கங்கள் இதற்கு முன்னரும் எதிர்ப்பில் ஈடுபட்ட போதிலும் அரசாங்கத்தினால் அதற்கான பதில் எதுவும் வழங்கப்படவில்லை.
+Although 72 health workers' unions have been opposed to the government, demanding that they pay the Rs.
 
-இந்நிலையில், இது சுகாதாரத் துறையில் பாரிய நெருக்கடியை ஏற்படுத்தும் என சுகாதார தொழிற்சங்கங்களின் கூட்டமைப்பின் இணை ஏற்பாட்டாளர் ரவி குமுதேஷ் ​தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+Ravi Kumudesh, co -organizer of the Health Trade Unions Federation, said that this would cause a huge crisis in the health sector.
 
 ◼️
 
 [Data](articles/0f6f8ad3.json)
 
+[Extended Data](ext_articles/0f6f8ad3.ext.json)
+
 ---
 
-### அரசு ஊழியர் இறந்தால் பிள்ளைக்கு ஓய்வூதியம்
+### Pillai's pension if a civil servant dies
 
 *2024-01-31 15:21:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசு-ஊழியர்-இறந்தால்-பிள்ளைக்கு-ஓய்வூதியம்/175-332418) · `ta`
 
-அரசு ஊழியர்கள் மரணத்துக்கு பிறகு, அவர்களது வாழ்க்கை துணைக்கு குடும்ப ஓய்வூதியம் அளிக்கப்பட்டு வருகிறது. அந்த வாழ்க்கை துணை மறைந்த பிறகுதான், தகுதியுள்ள ஒரு பிள்ளைக்கு குடும்ப ஓய்வூதியம் வழங்கப்படும். இந்நிலையில், இந்த விதிமுறையை இந்திய மத்திய அரசு மாற்றியுள்ளது.
+After the death of civil servants, their life partner is being given a family pension. It is only after that life auxiliary is that a family pension will be given to a qualified child. In this case, the Central Government of India has changed this rule.
 
-ஓய்வூதியம் மற்றும் ஓய்வூதியதாரர்கள் நலத்துறை, மத்திய சிவில் சேவை ஓய்வூதிய விதிமுறைகளில் திருத்தம் கொண்டு வந்துள்ளது. அதன்படி, அரசு பெண் ஊழியர்கள் தங்கள் இறப்புக்கு பிறகு, கணவருக்கு பதிலாக, தனது பிள்ளைகளில் தகுதியான ஒருவருக்கு குடும்ப ஓய்வூதியம் அளிப்பதற்காக அவரை வாரிசுதாரராக நியமிக்கலாம். இதுகுறித்து தங்கள் துறைத்தலைவரிடம் அவர்கள் எழுத்துமூலமாக எழுதி தர வேண்டும்.
+Pension and Pensioners Welfare Department has amended the Central Civil Service Pension Regulations. Accordingly, state female employees may be appointed as the successor to give her a family pension for a qualified person instead of her husband after their death.. They should write about this in writing to their department head.
 
-இதன்மூலம், கணவருக்கு எதிராக விவாகரத்து வழக்கு நிலுவையில் இருக்கும் பெண் ஊழியர்கள், கணவருக்கு எதிராக வரதட்சணை கொடுமை தடுப்பு சட்டம், குடும்ப வன்முறை தடுப்பு சட்டம், இந்திய தண்டனை சட்டம் ஆகியவற்றின் கீழ் வழக்கு தொடர்ந்த அரசு பெண் ஊழியர்கள் ஆகியோர் இந்த வாய்ப்பை பயன்படுத்திக் கொள்ளலாம்.
+Through this, female employees pending against the husband, and the government employees who are suing the Dowry Prevention Act, Family Violence Prevention Act and Indian Penal Code against the husband can take advantage of this opportunity.
 
 ...
 
 [Data](articles/47fff104.json)
 
+[Extended Data](ext_articles/47fff104.ext.json)
+
 ---
 
-### ஆர்ப்பாட்டத்தின்போது செய்தி சேகரித்த டெய்லி மிரரின் செய்தி ஆசிரியர் யோஹான் பெரேரா  காயமடைந்தார்!
+### Yohan Perera, editor of Daily Mirror, who collected news during the demonstration, was injured!
 
 *2024-01-31 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175241) · `ta`
 
-கொழும்பில் நேற்று செவ்வாய்க்கிழமை (30)  இடம்பெற்ற ஐக்கிய மக்கள் சக்தியின் ஆர்ப்பாட்டத்தின் போது பொலிஸார் மேற்கொண்ட  கண்ணீர் புகை பிரயோகத்தின் விளைவாக  ஏற்பட்ட நிலைமைகளின்போது டெய்லி மிரர் பத்திரிகையின் செய்தி ஆசிரியரான யோஹான் பெரேரா  காயமடைந்தார்.
+Yohan Perera, a newspaper editor of the Daily Mirror, was injured during a state of tear gas during the United People's Power demonstration in Colombo yesterday (30).
 
-ஆர்ப்பாட்டம்  விகாரமாதேவி பூங்காவிற்கு முன்பாக இடம்பெற்றதுடன், நீதிமன்ற உத்தரவின் பேரில் பொலிஸார் வீதியை மறித்து ஆர்ப்பாட்டக்காரர்கள் தமக்கு நிர்ணயிக்கப்பட்ட வரம்புகளை மீறுவதைக் கட்டுப்படுத்தினர்.
+The demonstration took place in front of the Vikramadevi Park, and on a court order, the police crossed the road and controlled the violation of their fixed limits.
 
 ◼️
 
 [Data](articles/56b0adac.json)
 
+[Extended Data](ext_articles/56b0adac.ext.json)
+
 ---
 
-### பியத் நிகேஷல பிணையில் விடுதலை
+### Appeals Court to decide on contempt cases against Sanath Nishantha
+
+*2024-01-31 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96882/appeals-court-to-decide-on-contempt-cases-against-sanath-nishantha) · `en`
+
+The Court of Appeal has moved to February the petitions filed against the late State Minister Sanath Nishantha over contempt of court charges.
+
+The two-member judge bench consisting of Justices Sobhitha Rajakaruna and Dhammika Ganepola ordered that since the defendant of the case State Minister Sanath Nishantha has passed away, the future actions to be taken regarding the petitions will be decided on February 02, 2024.
+
+This order was issued when the relevant petitions filed by Attorney-at-Law Priyalal Sirisena and Attorney-at-Law Vijitha Kumara were taken up before the Court of Appeals today (Jan 31).
+
+◼️
+
+[Data](articles/b8452319.json)
+
+---
+
+### Biyat Nikeshla released on bail
 
 *2024-01-31 15:09:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பியத்-நிகேஷல-பிணையில்-விடுதலை/175-332416) · `ta`
 
-கைது செய்யப்பட்டுள்ள சமூக செயற்பாட்டாளர் பியத் நிகேஷலவை பிணையில் விடுவிக்குமாறு நீதிமன்றம் இன்று(31) உத்தரவிட்டுள்ளது.
+The court today (31) ordered the release of the arrested social activist Piyat Nikeshla on bail.
 
-சமூக செயற்பாட்டாளர் பியத் நிகேஷல குற்றப்புலனாய்வு திணைக்களத்தின் கணினி குற்ற விசாரணை பிரிவினால் திங்கட்கிழமை (29) கைது செய்யப்பட்டார்.
+Social activist Piyath Nikeshla was arrested on Monday (29) by the Criminal Investigation Division of the Criminal Investigation Department.
 
-பொதுமக்களின் அமைதியை சீர்குலைத்தமை, அரசாங்கத்தின் மீது பொதுமக்களுக்கு அதிருப்தியை ஏற்படுத்தியமை, பொதுமக்களை ஆத்திரமடையச் செய்யும் வகையிலான காணொளிகளை வெளியிட்டமை உள்ளிட்ட குற்றச்சாட்டுகளின் கீழ் பியத் நிகேஷலவை கைது செய்ததாக பொலிஸார் தெரிவித்தனர்.
+Police said they had arrested Piyat Nikeshla on charges of disrupting the peace of the public, the public dissatisfaction with the government, and the publication of the public.
 
 ◼️
 
 [Data](articles/703f1a36.json)
 
+[Extended Data](ext_articles/703f1a36.ext.json)
+
 ---
 
-### ඇෆ්ගනිස්ථානයට එරෙහි ටෙස්ට් තරගයට නවක මුහුණු තුනක්
+### Jacqueline Fernandez knowingly used, enjoyed conman’s proceeds of crime, court told
+
+*2024-01-31 14:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jacqueline-Fernandez-knowingly-used-enjoyed-conmans-proceeds-of-crime-court-told/108-276046) · `en`
+
+Delhi, Jan 31 (PTI) - The Enforcement Directorate (ED) has told the Delhi High Court that Bollywood actor Jacqueline Fernandez, accused in a Rs 200 crore money laundering case, was knowingly involved in the possession and use of proceeds of crime of alleged conman Sukesh Chandrasekhar, news agency PTI reported.
+
+The probe agency alleged that evidence showed that the actor "had been enjoying, using and was in possession of the proceeds of crime" of Sukesh Chandrasekhar.
+
+This contention by the ED was made in an affidavit filed in response to Jacqueline Fernandez's plea that sought the cancellation of an FIR lodged against her in the money laundering case.
+
+The matter was listed before Justice Manoj Kumar Ohri and Jacqueline Fernandez's counsel sought time to file a reply in response to the ED's contention. The matter will be next heard by the High Court on April 15.
+
+...
+
+[Data](articles/7279d737.json)
+
+---
+
+### Three new faces for Afghanistan Test match
 
 *2024-01-31 14:53:18* · [`adalk`](https://www.ada.lk/breaking_news/ඇෆ්ගනිස්ථානයට-එරෙහි-ටෙස්ට්-තරගයට-නවක-මුහුණු-තුනක්/11-407822) · `si`
 
-සංචාරක ඇෆ්ගනිස්ථාන කණ්ඩායම සමගින් පැවැත්වීමට නියමිත ටෙස්ට් තරගය සඳහා නවක ක්‍රීඩකයන් තිදෙනෙකුගෙන් සමන්විතව ශ්‍රී ලංකා ටෙස්ට් සංචිතය ප්‍රකාශයට පත්කර තිබේ.
+Sri Lanka Test squad has been announced for the tourist group with the tourist group.
 
-උපුල් තරගංගේ සභාපතිත්වයෙන් යුත් ශ්‍රී ලංකා ක්‍රිකට් තේරීම් කමිටුව නම් කළ පළමු ටෙස්ට් සංචිතය මෙය වෙයි. එසේම ශ්‍රී ලංකා නව ටෙස්ට් නායක ධනංජයද සිල්වා නායකත්වය ලබාදෙන පළමු ටෙස්ට් තරගයද මෙය වෙයි.
+This is the first Test squad named as Upul Competition. This is also the first Test against Sri Lanka's new Test leader Dananjaya Silva.
 
-මෙම ටෙස්ට් සංචිතයට නවක ක්‍රීඩකයන් ලෙස වේග පන්දු යවන චාමික ගුණසේකර, කඩලු රකින ක්‍රීඩක/පිතිකරු ළහිරු උදාර, වේග පන්දු යවන ක්‍රීඩක මිලාන් රත්නායක නම් කර තිබේ.
+Fast bowler Chamik Gunasekera, a fast bowler charmik Gunasekera, a pair of bowling players / batsman Lahiru Udrakra, Fast bowler Milan Ratnayake has been named.
 
-කෙසේ වෙතත් ආරම්භක පිතිකරු පැතුම් නිශ්ශංකට කණ්ඩායමේ ස්ථානය අහිමි වී ඇති අතර මේ වන විට ඩුබායිහි පැවැත්වෙන ලීග තරගාවලියට ක්‍රිඩා කරන ඩිල්ෂාන් මධුශංක හා කුසල් පෙරේරාද සංචිතයට නම් කර නොමැත.
+However, the opening batsman is not designated to Dilshan Madushanka and Kusal Perera.
 
-ශ්‍රී ලංකා ටෙස්ට් සංචිතය - ධනංජයද සිල්වා (නායක), කුසල් මෙන්ඩිස් (උපනායක) දිමුත් කරුණාරත්න, නිෂාන් මධුශංක, ඇන්ජලෝ මැතිව්ස්, දිනේෂ් චන්දිමාල්, සදීර සමරවික්‍රම, රමේෂ් මෙන්ඩිස්, අසිත ප්‍රනාන්දු, විශ්ව ප්‍රනාන්දු, කසුන් රාජිත, කමිඳු මෙන්ඩිස්, ප්‍රභාත් ජයසූරිය, ළහිරු උදාර, චාමික ගුණසේකර, මිලාන් රත්නායක
+Sri Lanka Test squad - Dananjaya Silva (leader), Kusel Mendis, University of Sandara Samarawal, Kasal Mendis, Philaru, LahiruUdara and Chamik Gunasekera, Milan Ratnayake
 
 ◼️
 
 [Data](articles/e1148a8b.json)
+
+[Extended Data](ext_articles/e1148a8b.ext.json)
 
 ---
 
@@ -314,21 +358,23 @@ Sri Lankan Expressway to See New Rules and Minimum Speed Limits
 
 ---
 
-### පියැසි මත සූර්ය පැනල සවිකිරීමෙන් 2023දී ඒකක මිලියන 630ක් ජාතික පද්ධතියට
+### Solar panels on wainties, 630 million units to the national grid
 
 *2024-01-31 14:25:11* · [`adalk`](https://www.ada.lk/breaking_news/පියැසි-මත-සූර්ය-පැනල-සවිකිරීමෙන්-2023දී-ඒකක-මිලියන-630ක්-ජාතික-පද්ධතියට/11-407820) · `si`
 
-ලංවිම විදුලි පාරිභෝගිකයන් සඳහා ක්‍රියාත්මක කරන ලද පියැසි මත සූර්ය පැනල සවිකිරීමේ ක්‍රමවේදය (Rooftop Solar Scheme) යටතේ 2023 වසර තුල දී පමණක් විදුලි ඒකක මිලියන 630 ක් (630 million units) ජාතික පද්ධතියට එක් කර ඇති බව ලංකා විදුලිබල මණ්ඩලය ඉතා සතුටින් දැනුම් දෙයි.
+The Ceylon Electricity Board (CEB) happily informs the National System of Solar Panel to the National System of Solar Panel (ROOFTOP SOLAR SCHEME).
 
-මෙහිදී සාම්ප්‍රදායික විදුලිය පාවිච්චි කිරීමේ ක්‍රමයෙන් බැහැර ව නව තාක්ෂණික අත්දැකීමක් ලබාගනිමින්  ජාතික පද්ධතියට විදුලිය විකිණීමට  පාරිභෝගිකයින් යොමුවී තිබීම අගය කල  යුතු බව විදුලි බල මණ්ඩලය නිවේදනය කරයි.
+The Electricity Board (CEB) announced that it should be appreciated that customers have to sell electricity to the national grid by acquitting a new technological experience.
 
-මෙහි දී විවිධ ඉංජිනේරුමය සහ තාක්ෂණික ගැටළු සඳහා විසඳුම් ලබාදෙමින් හැකි උපරිම ආකාරයෙන් සූර්ය පැනල පද්ධති ජාතික පද්ධතියට එකතු කිරීමට කටයුතු කරන, වි‌ශේෂයෙන් බෙදාහැරීම් අංශවල අපගේ කාර්ය මණ්ඩල‌යේ මෙහෙවර ද අගය කල යුතුය.
+The mission of our staff in particular, especially in the distribution sectors should be appreciated to the national system to add to different engineering and technical issues.
 
-අපගේ පාරිභෝගික භවතුන් ලංවිම සමග එක්ව සිදුකරන මෙම පරිසර හිතකාමී ව්‍යාපෘති මගින් රටේ පුනර්ජනනීය බලශක්ති භාවිතය ප්‍රවර්ධනය වන අතර මෙවැනි ධනාත්මක තොරතුරු මහජනතාව වෙත   ලබා දීම සඳහා ඔබ මාධ්‍ය ආයතනයන්හි සහයෝගීතාවයද ඉතා කාරුණිකව බලාපොරොත්තු වෙමු.
+These eco-friendly projects that work with our customers are promoting the renewable energy use of the renewable energy.
 
 ◼️
 
 [Data](articles/bd003046.json)
+
+[Extended Data](ext_articles/bd003046.ext.json)
 
 ---
 
@@ -671,6 +717,24 @@ It is reported that a car parked at the spot is found in the spot.
 [Data](articles/73e8f209.json)
 
 [Extended Data](ext_articles/73e8f209.ext.json)
+
+---
+
+### ’’If you want to take a holiday, go to Sri Lanka,’’ Jaishankar
+
+*2024-01-31 12:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/If-you-want-to-take-a-holiday-go-to-Sri-Lanka-Jaishankar/155-276041) · `en`
+
+India, Jan 31 (Daily Mirror) - Addressing an event in India, External Affairs Minister S. Jaishankar said, "My first advice to you, the next time you want to take a holiday, go to Sri Lanka. I’m serious. Please go to Sri Lanka. I say this to all of you."
+
+"I had visited Sri Lanka and saw firsthand the fuel queues and shortage of food and essential commodities. The only country that came forward at this time was India," Minister Jaishankar reflected on the dire circumstances he had observed during his visit.
+
+He emphasized that amidst the global indifference to Sri Lanka's economic turmoil, India emerged as a steadfast ally, garnering significant appreciation from the Sri Lankan populace.
+
+He also underscored the significance of India's assistance to Sri Lanka amidst its economic challenges, highlighting its positive impact on India's image among Sri Lankan citizens.
+
+...
+
+[Data](articles/0466f24b.json)
 
 ---
 
@@ -1965,63 +2029,5 @@ A maximum loan of Rs 50 million will be given to small and medium scale rice mil
 [Data](articles/6df480fe.json)
 
 [Extended Data](ext_articles/6df480fe.ext.json)
-
----
-
-### Oil & Gas Vessel Calls at Hambantota Port Surge 132% in 2023
-
-*2024-01-31 10:05:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/oil-gas-vessel-calls-at-hambantota-port-surge-132-in-2023/) · `en`
-
-COLOMBO (News 1st); The Hambantota International Port (HIP) witnessed a phenomenal year in 2023, with oil and gas vessel calls skyrocketing 132% compared to 2022.
-
-A key reason for this is the port’s bunkering partner Sinopec actively operating in the market, bringing significant value addition to the HIP’s commercial operations, said HIPG.
-
-The overall oil & gas throughput handled by the port in 2023 was 918,000 MT with 700,000 MT of bunker and 218,000 MT LPG cargoes.
-
-A total of 35 vessels called at HIP in July 2023, making it the month for the highest number of calls during the year. The port recorded a growth of 186% in LPG vessels and 125% growth in bunker vessels in 2023 as opposed to the 114 bunker and 15 LPG vessels that called in 2022. In terms of throughput the port saw a 218% overall growth with a 147% increase in LPG and 250% increase in bunker as opposed to 2022, with July marking the highest.
-
-...
-
-[Data](articles/9a3e747e.json)
-
-[Extended Data](ext_articles/9a3e747e.ext.json)
-
----
-
-### Talk of The Town | Microfinance Debt Trap & The Rural Poor | Chandra Jayaratne | 31 January 2024
-
-*2024-01-31 10:04:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/talk-of-the-town-microfinance-debt-trap-the-rural-poor-chandra-jayaratne-31-january-2024/) · `en`
-
-Talk of The Town | Microfinance Debt Trap & The Rural Poor | Chandra Jayaratne | 31 January 2024
-
-Sri Lankan Expressway to See New Rules and Minimum Speed Limits
-
-◼️
-
-[Data](articles/8840337d.json)
-
-[Extended Data](ext_articles/8840337d.ext.json)
-
----
-
-### Colombo Port Booms Amid Red Sea Turmoil
-
-*2024-01-31 09:57:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/colombo-port-booms-amid-red-sea-turmoil/) · `en`
-
-COLOMBO (News 1st); The Port of Colombo is experiencing a surge in activity, with over 330 ships docking in the past 29 days alone.
-
-This comes amidst heightened tension in the Red Sea, which appears to be driving vessels towards the strategically located Sri Lankan port.
-
-"We've seen a significant increase in ship calls," confirmed U Kumara, Operations Director of the Sri Lanka Ports Authority (SLPA).
-
-This surge extends beyond mere vessel traffic. Container operations within SLPA terminals have witnessed a dramatic 60.9% increase compared to the same period the prior year, highlighting the port's growing importance as a regional shipping hub.
-
-Marine insurance companies have reacted to the volatile situation by raising their rates, potentially impacting shipping costs and adding a layer of complexity to navigating the region.
-
-...
-
-[Data](articles/592be88d.json)
-
-[Extended Data](ext_articles/592be88d.ext.json)
 
 ---

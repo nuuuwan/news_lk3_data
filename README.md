@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 00:47:17**
+As of **2024-02-01 01:02:30**
 
 ## Newspaper Stats
 
@@ -1312,7 +1312,7 @@ The President underscored Sri Lanka’s pivotal role as the heart of Theravada B
 
 ---
 
-### Sri Lanka insurers to be hit by directive to remit all riot, terrorism cover to state re-insurer
+### Sri Lanka insurers to be hit by directive to remit all riot, terrorism income to state re-insurer
 
 *2024-01-31 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-insurers-to-be-hit-by-directive-to-remit-all-riot-terrorism-cover-to-state-re-insurer-149368/) · `en`
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 13:17:20**
+As of **2024-01-31 13:32:48**
 
 ## Newspaper Stats
 
-*Scraped **3,764** Articles*
+*Scraped **3,766** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 47
 bbccomsinhala | 61
 dbsjeyarajcom | 129
 economynextcom | 203
-islandlk | 207
+islandlk | 208
 newsfirstlk | 227
 dailyftlk | 243
 adalk | 337
 virakesarilk | 424
 adaderanasinhalalk | 424
-adaderanalk | 478
+adaderanalk | 479
 tamilmirrorlk | 482
 dailymirrorlk | 502
 
@@ -26,65 +26,95 @@ dailymirrorlk | 502
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,749 (99.6%) of 3,764 articles have been extended.
+3,760 (99.8%) of 3,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### மஞ்சள் குடையால் மாட்டிய பிக்கு: 3 யுவதிகள் மாயம்
+### Family of 22-year-old who died in police custody raise suspicions
+
+*2024-01-31 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/96880/family-of-22-year-old-who-died-in-police-custody-raise-suspicions-) · `en`
+
+The family of a 22-year-old who died while in police custody have raised suspicions concerning the involvement of the police in the youth’s death.
+
+Shanuka Gihan Marambage, a 22-year-old male suspect, was apprehended along with two female suspects on charges related to drugs on Tuesday evening (30 Jan.).
+
+According to police, Marambage had fallen ill shortly after, and was taken to the Anuradhapura Teaching Hospital, where he was later pronounced dead.
+
+The deceased’s relatives, however, raised suspicions pertaining to the circumstances surrounding his demise. Residents of the Anuradhapura area too, were seen surrounding the Anuradhapura Police Station last night, over the same concerns.
+
+22-year-old Shanuka Gihan Marambage, a resident of Anuradhapura, had been living with his grandparents as his mother is an expatriate worker, Ada Derana learns.
+
+◼️
+
+[Data](articles/31779aab.json)
+
+---
+
+### Bikku stuck with yellow umbrella: 3 women magic
 
 *2024-01-31 12:47:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஞ்சள்-குடையால்-மாட்டிய-பிக்கு-3-யுவதிகள்-மாயம்/175-332408) · `ta`
 
-விகாரையொன்றின் தலைமை பிக்கு ஒருவர், காவியுடை களைந்து, சிவில் உடையணிந்து அழகான இளம் பெண்கள் மூவரு​டன் சுற்றுலா சென்றுள்ள சம்பவமொன்று தென்பகுதியில் இடம்பெற்றுள்ளது.
+There is an incident in the south of a three -ton tour of the pretty young girls who dressed in civilian dressed in a kavaiyadi, a head of the Vikarai.
 
-அவ்வாறு சாதாரண உடையில் இளம் பெண்கள் மூவருடன் வந்து சுற்றித்திரியும் நபர், தங்களுடைய பிரதேசத்தில் உள்ள விகாரை ஒன்றின் பிரதான பிக்கு என்பதை, அந்த கிராமத்தைச் சேர்ந்த இளைஞர்கள் சிலர் கண்டுக்கொண்டதை அடுத்து, கடந்த திங்கட்கிழமை​ (29) விகாரைக்குத் திரும்பிய அந்த பிக்கு, விகாரையை விட்டு வெளியேறி தலைமறைவாகிவிட்டார் என்று ​பொலிஸார் தெரிவிக்கின்றனர்.
+Police say that the man who returned to the Vihara on Monday (29), had left the Vihara last Monday (29) after some young men found the main bikku of a Vikarai in their area.
 
-இந்த சம்பவம், அளுத்கம,வெலிப்பென்ன தெற்கு அதிவேக நெடுஞ்சாலைக்கு உள்நுழையும் வீதிக்கு அண்மையில் உள்ள கிராமமொன்றின் விகாரையிலேயே இடம்பெற்றுள்ளது என பொலிஸார் தெரிவிக்கின்றனர்.
+The incident has taken place in the Vilakara of a recent village on the road, which is logged in to the Aluthgama and Welipenna Southern Highway.
 
-அந்த பிக்கு, சிவில் உடையில் கதிர்காமத்துக்கு மூன்று இளம் பெண்களுடன் சுற்றுலா சென்றுள்ளார். அதே கிராமத்தைச் சேர்ந்த இளைஞர்கள் சிலரும் கதிர்காமத்துக்கு ஏற்கெனவே சுற்றுலா சென்றிருந்தனர்.
+That biku has traveled with three young women in civil dress. Some of the youths from the same village had already traveled to Kadirgama.
+
+If three women travel with their hands with a man, they will not doubt, and many of the people who went there were looking for the four.
+
+Similarly, youths from the village in Welipenna area have observed. It was then that the person in the civil dress found that the Vihara of their village was a biku.
 
 ...
 
 [Data](articles/e63d0712.json)
 
+[Extended Data](ext_articles/e63d0712.ext.json)
+
 ---
 
-### ஜோர்தான் தாக்குதலிற்கு எவ்வாறு பதிலடிகொடுப்பது என நான் தீர்மானித்துவிட்டேன் - ஜோபைடன்
+### I have decided how to retaliate for Jordan attack - Job
 
 *2024-01-31 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/175226) · `ta`
 
-ஜோர்தான்  ஆளில்லா விமானதாக்குதலிற்கு எவ்வாறு பதிலளிப்பது என்பது குறித்து தான் தீர்மானித்துவிட்டதாக அமெரிக்க ஜனாதிபதி ஜோபைடன் தெரிவித்துள்ளார்.
+US President Jobitton has said that he has decided on how to respond to Jordan's unmanned air strike.
 
-ஜோர்டானில் உள்ள அமெரிக்க இராணுவதளம் மீது மேற்கொள்ளப்பட்ட ஆளில்லா விமானதாக்குதலில்  மூன்று அமெரிக்கர்கள் கொல்லப்பட்டுள்ள நிலையிலேயே பைடன் இதனை தெரிவித்துள்ளார்.
+Faidan said this when three Americans were killed in an unmanned air strike on the US military in Jordan.
 
-ஜோர்தான் சிரிய எல்லையிலுள்ள அமெரிக்க தளத்தின் மீது இடம்பெற்ற தாக்குதலிற்கு ஈரானே காரணம் என தான் உறுதியாக கருதுவதாக ஜோபைடன் தெரிவித்துள்ளார்.
+Jobitton said Iran is sure to be responsible for the attack on the US base on the Syrian border.
 
-கட்டாய்ப் ஹெஸ்புல்லா என்ற அமைப்பிற்கு ஈரான் ஆயுதங்களை வி;ற்பனை செய்வதை அடிப்படையாக வைத்து இந்த முடிவிற்கு வந்துள்ளதாக அவர் தெரிவித்துள்ளார்..
+He said that this decision came to the conclusion based on the Iranian weapons of the compulsory Hesbullah.
 
-டவர் 22 தளத்தின் மீதான தாக்குதலிற்கும் ஈரானிற்கும் நேரடிதொடர்புள்ளதை உறுதி செய்துள்ளீர்களா என்ற செய்தியாளர்களின் கேள்விகளிற்கு பதிலளித்துள்ள பைடன் அது குறித்து நாங்கள் ஆராய்வோம் அதேவேளை மத்தியகிழக்கில் ஒரு பரந்துபட்ட யுத்தம் அவசியம் என நான் கருதவில்லை எனவும் தெரிவித்துள்ளார்.
+Responding to the reports of journalists whether Iran has confirmed that Iran has confirmed the attack on the Tower 22 floor and Iran, we will examine it, while I do not consider a widespread war in the Middle East.
 
 ◼️
 
 [Data](articles/a9208960.json)
 
+[Extended Data](ext_articles/a9208960.ext.json)
+
 ---
 
-### சிறுமியை பலாத்காரம் செய்தவர் விடுதலை
+### Release
 
 *2024-01-31 12:39:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியை-பலாத்காரம்-செய்தவர்-விடுதலை/175-332407) · `ta`
 
-16 வயது சிறுமி கடத்தப்பட்டு பாலியல் பலாத்காரம் செய்யப்பட்ட வழக்கில் குற்றம் சாட்டப்பட்ட ஒருவரை காலி மேல் நீதிமன்ற நீதிபதி கவிந்யா நாணயக்கார விடுதலை செய்தார்.  ​​பாதிக்கப்பட்ட பெண்ணும் குற்றம் சாட்டப்பட்டவரும் திருமணமானவர்கள் மற்றும் ஒரு குழந்தையின் பெற்றோர்  என பாதுகாப்பு ஆலோசகர் மற்றும் பொலிஸார் நீதிமன்றத்தில் அறிவித்ததையடுத்து நீதிபதி அவரை விடுதலை செய்து தீர்ப்பளித்தார்.
+Galle High Court Judge Kaviniya Nanayakkara acquitted a man accused of abducting and raping a 16 -year -old girl. The judge acquitted him after the security advisor and police declared him in court as the victim and the accused were married and the parents of a child.
 
-16 வயது சிறுமியை கடத்தி பாலியல் பலாத்காரம் செய்த குற்றச்சாட்டின் பேரில் சட்டமா அதிபர் அவர் மீது குற்றஞ்சாட்டியுள்ளார்.
+The Attorney General has accused her of abducting and raping a 16 -year -old girl.
 
-அவர் ஜூலை 5 ஆம் திகதி யக்கலமுல்லையில் வைத்து அவரை கடத்திச் சென்று மதவாச்சி மற்றும் அக்குரஸ்ஸ பிரதேசத்தில் வைத்து பாலியல் பலாத்காரம் செய்ததாக அரசு தரப்பு நீதிமன்றத்தில் தெரிவித்திருந்தது.
+He was abducted on July 5 at Yakkalamulla and raped him in Madhavachi and Akurassa area.
 
-எவ்வாறாயினும், பிரதிவாதிகளின் சமர்ப்பிப்புகளை பரிசீலித்த உயர் நீதிமன்ற நீதிபதி குற்றம் சாட்டப்பட்டவர்களை விடுதலை செய்தார். விடுதலை செய்யப்பட்ட பிறகு, தம்பதியினர் தங்கள் குழந்தையுடன் நீதிமன்றத்தை விட்டு வெளியேறினர்.
+However, the High Court judge released the accused, however, considering the submissions of the defendants. After being released, the couple left the court with their child.
 
 ◼️
 
 [Data](articles/7ab87fee.json)
+
+[Extended Data](ext_articles/7ab87fee.ext.json)
 
 ---
 
@@ -109,6 +139,8 @@ A more supportive external environment, notably robust growth in the United Stat
 ...
 
 [Data](articles/df077f86.json)
+
+[Extended Data](ext_articles/df077f86.ext.json)
 
 ---
 
@@ -140,33 +172,37 @@ The mother of Naronoge mother noted that the youths could not be permanently awa
 
 ---
 
-### நீர்ப்பாசனம் மற்றும் நீர் வழங்கல் இராஜாங்க அமைச்சராக ஷசீந்திர ராஜபக்ஷ பதவிப்பிரமாணம் !
+### Shasheendra Rajapaksa sworn in as Minister of Irrigation and Water Supply
 
 *2024-01-31 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175223) · `ta`
 
-நீர்ப்பாசனம் மற்றும் நீர் வழங்கல் இராஜாங்க அமைச்சராக  ஷசீந்திர ராஜபக்ஷ, ஜனாதிபதி ரணில் விக்கிரமசிங்க முன்னிலையில் ஜனாதிபதி செயலகத்தில்  சற்று முன்னர் பதவிப்பிரமாணம் செய்துகொண்டார்.
+Shasheendra Rajapakse was sworn in as the Minister of Irrigation and Water Supply and was sworn in at the Presidential Secretariat in the presence of President Ranil Wickremesinghe.
 
-விபத்தில் உயிரிழந்த சனத் நிஷாந்த நீர்ப்பாசனம் மற்றும் நீர் வழங்கல் இராஜாங்க அமைச்சராக பதவிவகித்திருந்த நிலையிலேயே தற்போது அந்த இராஜாங்க அமைச்சுப் பதவியை ஷசீந்திர ராஜபக்ஷவுக்கு வழங்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+It is noteworthy that Shasheendra Rajapaksa has now been given the post of Minister of State for Minister of State for Irrigation and Water Supply and Water Supply.
 
 ◼️
 
 [Data](articles/8a4f80f6.json)
 
+[Extended Data](ext_articles/8a4f80f6.ext.json)
+
 ---
 
-### பத்தாயிரம்  ரூபாவை  இலஞ்சமாகப்  பெற்ற குற்றச்சாட்டில் கைதான மருதமுனையைச்  சேர்ந்தவருக்கு விளக்கமறியல்!
+### Explanation for a man who was arrested on charges of bribery of ten thousand rupees!
 
 *2024-01-31 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175220) · `ta`
 
-பத்தாயிரம் ரூபாவை  இலஞ்சம் பெற்றார் என்ற குற்றச்சாட்டில் கைது செய்யப்பட்ட  தொழில்  திணைக்கள அதிகாரி ஒருவரை எதிர்வரும் 13ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு பிரதான நீதிவான்  பிரசன்ன அல்விஸ் இன்று புதன்கிழமை (31)  உத்தரவிட்டுள்ளார்.
+Colombo Chief Justice Prasanna Alwis today (31) ordered that a business officer arrested for bribing ten thousand rupees for bribery.
 
-கடந்த 19ஆம் திகதி இலஞ்ச ஊழல் விசாரணை அதிகாரிகளால் கைது செய்யப்பட்ட மருதமுனையைச் சேர்ந்த  சந்தேக நபரே  விளக்கமறியலில் வைக்கப்பட்டார்.
+The suspect from Maruthamunai, who was arrested by bribery investigators on the 19th, was placed in detention.
 
-ஹோட்டல் ஒன்றின்  உரிமையாளர்,  ஊழியர் நலன்புரி நிதியை செலுத்தாமை தொடர்பான சட்டத்தை அமுல்படுத்துவதை தவிர்ப்பதற்காகவே அம்பாறை தொழில் திணைக்களத்தில்  பணிபுரியும் சந்தேக நபரான இந்த அதிகாரி    இலஞ்சப் பணத்தை பெற்றுள்ளதாக விசாரணை ஆணைக்குழு தெரிவித்துள்ளது.
+The suspect working at the Ampara Department of Labor has received bribery, the owner of a hotel and the employee welfare fund has received bribery.
 
 ◼️
 
 [Data](articles/ef5fc020.json)
+
+[Extended Data](ext_articles/ef5fc020.ext.json)
 
 ---
 
@@ -188,19 +224,21 @@ Sukh Chandraka, which is said to be the boyfriend at the time, was imprisoned on
 
 ---
 
-### இம்ரான்கானுக்கும் மனைவிக்கும்  14 ஆண்டுகள் சிறை
+### 14 years in prison for Imran Khan and his wife
 
 *2024-01-31 12:15:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இம்ரான்கானுக்கும்-மனைவிக்கும்-14-ஆண்டுகள்-சிறை/50-332406) · `ta`
 
-பாகிஸ்தான் முன்னாள் பிரதமர் இம்ரான்கான். பாகிஸ்தான் தெக்ரிக்-இ-இன்சப் கட்சி தலைவரான இவர், 2018 முதல் 2022 வரை பிரதமராக இருந்தார். அந்த காலத்தில் வெளிநாட்டு தலைவர்கள் மற்றும் பிரமுகர்களிடமிருந்து பெற்ற பரிசுகளை அரசிடம் ஒப்படைக்காமல் விற்று சொத்து சேர்த்து ஊழலில் ஈடுபட்டதாக இம்ரான்கான் மற்றும் அவரது மனைவி புஷ்ரா பிபி மீது குற்றச்சாட்டு எழுந்தது. பரிசுப்பொருட்களை அரசு கருவூலமான தோஷகானா என்ற துறையில் ஒப்படைக்காமல் ஊழலில் ஈடுபட்டதாக குற்றச்சாட்டு எழுந்தது.
+Former Prime Minister Imran Khan. He was the leader of the Pakistan Tekrik-e-Inspiration Party from 2018 to 2022. Imran Khan and his wife Bushra PP alleged that the prizes received from foreign leaders and dignitaries were sold to the government without handing over the property.. The allegations of corruption were involved in corruption without handing over the gifts in the state treasury Toshakana.
 
-அதேபோல், அரசின் இரகசியங்களை கசியவிட்டதாகவும், பிரதமர் பதவியில் இருந்து நீக்கம் செய்யப்பட்டதை எதிர்த்து வன்முறையை தூண்டியதாகவும் இம்ரான்கான் மீது பல்வேறு வழக்குகள் பதிவு செய்யப்பட்டன. இதில், இம்ரான்கான் கைது செய்யப்பட்டு ராவல்பிண்டியில் உள்ள சிறையில் அடைக்கப்பட்டுள்ளார்.
+Similarly, various cases have been filed against Imran Khan alleging that the secrets of the state have been leaked and the violence against the removal of the prime minister.. In this, Imran Khan has been arrested and imprisoned in Rawalpindi.
 
-இதனிடையே, பிரதமராக இருந்தபோது அரசின் இரகசியங்களை கசியவிட்டதாக பதியப்பட்ட வழக்கில் இம்ரான்கானுக்கு 10 ஆண்டுகள் சிறை தண்டனை விதித்து செவ்வாய்க்கிழமை (30)  நீதிமன்றம் உத்தரவிட்டது.
+Meanwhile, a court on Tuesday (30) ordered Imran Khan to be sentenced to 10 years in prison in the case of leak the secrets of the state during his tenure.
 
 ...
 
 [Data](articles/56e1d489.json)
+
+[Extended Data](ext_articles/56e1d489.ext.json)
 
 ---
 
@@ -234,51 +272,63 @@ The mother of the deceased youth abroad and has been alive under the care of gra
 
 ---
 
-### ஷசீந்திரவுக்கு புதிய  பதவி
+### New post for Shasindra
 
 *2024-01-31 12:12:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஷசீந்திரவுக்கு-புதிய-பதவி/175-332405) · `ta`
 
-நீர்ப்பாசனம் மற்றும் நீர்வள முகாமைத்துவ இராஜாங்க அமைச்சராக ஷசீந்திர ராஜபக்ஷ, ஜனாதிபதி ரணில் விக்கிரமசிங்க முன்னிலையில் சத்தியப்பிரமாணம் செய்துகொண்டுள்ளார்.
+Shasheendra Rajapakse has been sworn in as the Minister of Irrigation and Water Resources Management in the presence of President Ranil Wickremesinghe.
 
-ஜனாதிபதி செயலகத்தில் இந்த பதவிப் பிரமாணம் இன்று இடம்பெற்றதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது.
+The President's Media Unit said that the swearing -in of the Presidential Secretariat took place today.
 
 ◼️
 
 [Data](articles/3f2ab9e5.json)
 
+[Extended Data](ext_articles/3f2ab9e5.ext.json)
+
 ---
 
-### பரசூட் விபத்தில் காயமடைந்த வீரர்களை இராணுவத் தளபதி நேரில் சென்று பார்வையிட்டார்
+### Army Commander visited the soldiers who were injured in the accident
 
 *2024-01-31 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/175219) · `ta`
 
-கொழும்பு காலி முகத்திடலில் இடம்பெற்ற 76 வது சுதந்திர தின அணிவகுப்பு ஒத்திகையின் போது காயமடைந்த அதிகாரி மற்றும் சிப்பாயின் நலம் குறித்து நேரில் விசாரிப்பதற்காக இராணுவத் தளபதி லெப்டினன் ஜெனரல் விக்கும் லியனகே செவ்வாய்க்கிழமை (ஜனவரி 30) கொழும்பு இராணுவ வைத்தியசாலைக்கு விஜயம் செய்தார்.
+Army Commander Lieutenant General Vikki visited the Colombo Army Hospital on Tuesday (January 30) to inquire into the welfare of the officer and the soldier who was injured during the 76th Independence Day parade at the Galle Face at Galle.
 
-திறந்த வான் பாய்ச்சலின் போது ஏற்பட்ட காயங்கள் குறித்து வருத்தம் தெரிவித்த இராணுவத் தளபதி, அதிகாரி மற்றும் சிப்பாயிடம் தனித்தனியாகப் பேசி, தனது வருத்த.த்தினை வெளிப்படுத்தி, அவர்களுக்கு அளிக்கப்படும் சிகிச்சைகள் குறித்து விசாரித்தார்.
+The army commander, who regretted the injuries during the open air flow, spoke to the officer and the soldier separately and expressed his grief and inquired about the treatments they would be given.
 
-இராணுவத் தளபதி வைத்தியசாலையில் மருத்துவ அதிகாரிகளைச் சந்தித்து காயமடைந்த இராணுவ வீரர்களுக்கு மிக உயர்ந்த தரமான சிகிச்சையை வழங்குவதன் முக்கியத்துவத்தை வலியுறுத்தி அவர்கள் விரைவாக குணமடைய உறுதி வழங்கினார்.
+The Army Commander met with medical officers at the hospital and promised to heal quickly, emphasizing the importance of providing the highest quality treatment to the wounded soldiers.
 
 ◼️
 
 [Data](articles/b682da98.json)
 
+[Extended Data](ext_articles/b682da98.ext.json)
+
 ---
 
-### வெளிநாட்டுக்கு  சுற்றுலா செல்லவேண்டுமா? இலங்கைக்கு செல்லுங்கள் - இந்தியர்களிற்கு ஜெய்சங்கர் ஆலோசனை
+### Travel abroad?Go to Sri Lanka - Jaishankar Advice to Indians
 
 *2024-01-31 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175218) · `ta`
 
-நீங்கள் சுற்றுலா செல்லவிரும்பினால் இலங்கைக்கு செல்லுங்கள் நான் இதனை விளையாட்டாக சொல்லவில்லை என இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கர் தெரிவித்துள்ளார்.
+If you want to travel, go to Sri Lanka.
 
-இந்திய வெளிவிவகார அமைச்சர் தனது உரையில் இலங்கை பொருளாதாரநெருக்கடியை எதிர்கொண்டவேளை இந்தியா வழங்கிய உதவிகளை சுட்டிக்காட்டியுள்ளதுடன் இந்தியா குறித்த சாதகமான உணர்வுகளை இந்தியர்கள் மத்தியில் ஏற்படுத்துவதில் இந்த உதவிகள் முக்கிய பங்களிப்பை செய்துள்ளன எனவும் தெரிவித்துள்ளார்.
+In his speech, the Indian External Affairs Minister has pointed out the assistance provided by India when the Sri Lankan economic criticism is faced and that these assistance has made a major contributor to the favorable sentiments of India among Indians.
 
-உங்களிற்கான எனது ஆலோசனை என்னவென்றால் அடுத்தமுறை நீங்கள் வெளிநாடொன்றிற்கு சுற்றுலா செல்லவிரும்பினால் தயவு செய்து இலங்கைக்கு செல்லுங்கள் நான் உங்கள் அனைவருக்கும் இதனை தெரிவிக்கின்றேன் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+My advice for you is that if you want to travel abroad, please go to Sri Lanka.
 
-இலங்கையின் சாதாரண பொதுமக்கள் இந்தியாவை மிகவும் உயர்வாக கருதுகின்றனர் பாராட்டுகின்றனர் என தெரிவித்துள்ள ஜெய்சங்கர் இலங்கை பொருளாதார நெருக்கடியை எதிர்கொண்டவேளை ஏனைய உலகநாடுகள் கைவிட்டவேளை இலங்கைக்கு கரம் கொடுத்த நாடு இந்தியா எனவும் குறிப்பிட்டுள்ளார்.
+Jaishankar said that the ordinary civilians in Sri Lanka are very high and praised India.
 
-...
+I visited Sri Lanka. I have seen the fuels directly. I have observed the deficit of food essentials.
+
+India provided $ 4.5 billion worth of assistance to Sri Lanka, they have long negotiated with the International Monetary Fund for a long time.
+
+He added that India provided assistance to Sri Lanka immediately, fifty -time than the IMF.
+
+◼️
 
 [Data](articles/05531355.json)
+
+[Extended Data](ext_articles/05531355.ext.json)
 
 ---
 
@@ -314,19 +364,21 @@ The Presidential Media Unit said that the swearing in was carried out at the Pre
 
 ---
 
-### எதிர்காலம் பற்றிய நலமான கனவினைக் கொண்டுவருகின்ற புதிய மக்கள் எழுச்சியொன்று அவசியம் - அநுர குமார திசாநாயக்க
+### A new people's uprising that brings a good dream of the future is essential - Anura Kumara Dissanayake
 
 *2024-01-31 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/175216) · `ta`
 
-அனைத்து துறைகளையும் புதிய நோக்கங்களால் நிரப்பி மாற்றியமைத்திட வேண்டும். புதிய சமூக மாற்றமொன்று தேவை.  அந்த மாற்றத்தை ஏற்படுத்திக்கொள்வது ஒரு தனிமனிதனின் அல்லது அரசியல் கட்சியின் செயற்பொறுப்பு மாத்திரமல்ல. மக்கள் அனைவரும் ஒருவராக ஒரே மூச்சில் எழுந்துநின்று உறுதியான திடசங்கற்பத்துடன்  செயலாற்ற வேண்டும் என்று தேசிய மக்கள் சக்தியின் தலைவர்  அநுரகுமார திஸாநாயக்க தெரிவித்தார்.
+All sectors must be replaced by new purposes. A new social change is needed.It is not just the action of an individual or political party to make that change. National People's Power Leader Anura Kumara Dissanayake said that all people should get up in one breath and act with a firm solid.
 
-அண்மையில் இடம்பெற்ற தேசிய மக்கள் சக்தியின் கழுத்துறை மாவட்ட  பெண்கள் மாநாட்டில் கலந்துகொண்டு உரையாற்றுகையிலேயே அநுரகுமார திஸாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
+Anurakumara Dissanayake said this while addressing the recent National People's Power of the National People's Power.
 
-செய்திகளைப் பார்த்தால் அவர்கள் எம்மைப்பற்றி கூறுகின்ற கதைகளையே காண்கிறோம். எமது ஆட்சியின்கீழ் நாங்கள் என்ன செய்யப்போகிறோம் என்பதைக் கூறுபவர்களும் அவர்களே. சர்வதேச நாணய நிதியத்திலிருந்து வந்து  எம்முடன் பேசிய விடயங்கள் பற்றிக் கூறுவதும் அவர்களே. அவர்களின் திகைப்பும் அச்சமும் இவை மூலமாக தெளிவாகின்றது.
+When we look at the news we see the stories they tell us about. They are the ones who say what we are going to do under our rule. They are the ones who come from the International Monetary Fund and talk to us. Their amazement and fear are clearly clear.
 
 ...
 
 [Data](articles/3d6f575e.json)
+
+[Extended Data](ext_articles/3d6f575e.ext.json)
 
 ---
 
@@ -1985,27 +2037,5 @@ In fact, AKD is providing a theoretical framework and practical direction to rea
 [Data](articles/75083a34.json)
 
 [Extended Data](ext_articles/75083a34.ext.json)
-
----
-
-### 76 Years of Independence - Looking Back in Retrospect - EDITORIAL
-
-*2024-01-31 01:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/76-Years-of-Independence-Looking-Back-in-Retrospect-EDITORIAL/172-276017) · `en`
-
-Sunday, 4th February will mark 76 years since our country gained independence from the British. Unlike India and Pakistan, we Lankans did not suffer a bloody struggle to free ourselves from direct colonial rule. Whether this was good is debatable.
-
-For one, we Lankans’ did not unite as men and women of one country to overthrow the yoke of imperialism. To this day we remain Sinhala, Tamil, Muslim and Burgher first. Being Sri Lankan often takes second place to our individual race, creed and religion.
-
-Most times we lose sight of the fact that the Veddah community (Lankan aborigines) are in fact the original citizens of our motherland.
-
-But there are many things we as citizens of Lanka can be proud of.
-
-We gave the world its first female Prime Minister. But, according to the World Economic Forum, Sri Lanka ranks 55th in the world when it comes to the gender equality gap and 30th in political participation. Today in a Parliament of 225 members, only 23 are female!
-
-...
-
-[Data](articles/488841fe.json)
-
-[Extended Data](ext_articles/488841fe.ext.json)
 
 ---

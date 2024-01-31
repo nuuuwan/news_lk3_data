@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 22:03:19**
+As of **2024-01-31 22:17:16**
 
 ## Newspaper Stats
 
-*Scraped **3,927** Articles*
+*Scraped **3,933** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,77 @@ virakesarilk | 440
 adaderanasinhalalk | 452
 adaderanalk | 495
 tamilmirrorlk | 502
-dailymirrorlk | 534
+dailymirrorlk | 540
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,927 (100.0%) of 3,927 articles have been extended.
+3,927 (99.8%) of 3,933 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### Immunoglobulin scandal: Keheliya asks for alternative date from CID
+
+*2024-01-31 21:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Immunoglobulin-scandal-Keheliya-asks-for-alternative-date-from-CID/108-276076) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - In the wake of former Health Minister Keheliya Rambukwella failing to appear before the Criminal Investigation Department (CID) this morning, the former Minister has submitted a written plea requesting the CID to grant him another date to provide a statement.
+
+The Minister, through the formal communication, has emphasized the importance of arranging an alternative date for the investigation to proceed smoothly.
+
+In a statement, the Minister has assured authorities of his fullest cooperation and support for future investigative efforts.
+
+In addition, a statement was recorded from Dr. Saman Ratnayake, the Additional Secretary of the Ministry of Health today (31).
+
+With regard to the ongoing investigations related to the substandard Immunoglobulin scandal, several officials including former the Health Secretary and the Director of the Medical Supplies Division are currently in remand custody.
+
+◼️
+
+[Data](articles/5c4f31b5.json)
+
+---
+
+### CPC fuel prices revised from tonight
+
+*2024-01-31 21:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/CPC-fuel-prices-revised-from-tonight/155-276073) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - The Ceylon Petroleum Corporation (CPC) has decided to revise its fuel prices with effect from midnight today.
+
+Accordingly, a litre of Lanka Petrol 92 Octane (Rs. 366) has been increased by Rs. 5, and its new retail price will be Rs. 371.
+
+A litre of Lanka Petrol 95 Octane Euro 4 (Rs. 464) has been reduced by Rs. 8, and its new retail price will be Rs. 456.
+
+A litre of Lanka Auto Diesel (Rs. 358) has been increased by Rs. 5, and its new retail price will be Rs. 363.
+
+A litre of Lanka Super Diesel 4 Star Euro 4 (Rs. 475) has been reduced by Rs. 7, and its new retail price will be Rs. 468.
+
+A litre of Lanka Kerosene (Rs. 236) has been increased by Rs. 7, and its new retail price will be Rs. 262.
+
+◼️
+
+[Data](articles/34455012.json)
+
+---
+
+### SJB vows to file Fundamental Rights petition against Tiran Alles
+
+*2024-01-31 21:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-vows-to-file-Fundamental-Rights-petition-against-Tiran-Alles/108-276068) · `en`
+
+Colombo, jan. 31 (Daily Mirror)- The Samagi Jana Balawegaya (SJB) will file a Fundamental Rights (FR) petition against Public Security Minister Tiran Alles who had ordered to fire tear gas and water cannons at the SJB protest, SJB General Secretary Ranjith Madduma Bandara said today.
+
+He told a news conference that tear gas and water cannons were fired at the SJB protest unlawfully despite the court order.
+
+The MP said the government was attempting to suppress public protests using the armed forces and said they urge public officials to act lawfully, adding that they will have to face legal action if they acted ulawfully.
+
+"We tell Ranil and Tiran that people can't be chased away just like they did during the Aragalaya," he said.
+
+◼️
+
+[Data](articles/02799f1c.json)
+
+---
 
 ### Fuel prices will change from midnight today
 
@@ -69,6 +129,42 @@ According to the Immigration and Emigration Controller, the fee for issuing pass
 [Data](articles/ae0a1ca8.json)
 
 [Extended Data](ext_articles/ae0a1ca8.ext.json)
+
+---
+
+### Cinnamon Lakeside responds to allegations over contaminated soup
+
+*2024-01-31 21:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cinnamon-Lakeside-responds-to-allegations-over-contaminated-soup/108-276069) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - In response to recent concerns surrounding an incident at Cinnamon Lakeside Colombo where a soup unfit for human consumption has reportedly been served to a patron, the establishment has clarified the incident.
+
+In a statement, the management said the incident in question was clarified to be unrelated to a soup served at the restaurant but rather linked to a guest's use of white pepper in their soup, prompting immediate action.
+
+“Cinnamon Lakeside Colombo has actively cooperated with the officials of the Ministry of Health and Public Health Inspectors (PHIs) during their investigations,” the hotel management said.
+
+The establishment said it had conducted its own tests on the same batch of procured white pepper, finding no cause for concern.
+
+“No other incidents of this nature have been reported from the restaurant visited by numerous guests on that day,” the statement stressed.
+
+...
+
+[Data](articles/f84423a3.json)
+
+---
+
+### Police arrest five activists protesting for Keheliya’s arrest over immunoglobulin case
+
+*2024-01-31 21:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-arrest-five-activists-protesting-for-Keheliyas-arrest-over-immunoglobulin-case/108-276070) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - Police have arrested five activists from civil organizations who staged a protest outside the Criminal Investigation Department, displaying banners with the slogan 'Keheliya Go Gama,' demanding the arrest of Minister Keheliya Rambukwella in connection with the import of substandard Immunoglobulin injections.
+
+The Citizen Power Against Bribery and Corruption, and People's Organizations jointly organized a peaceful Satyagraha today in front of the Criminal Investigation Department following reports that Minister Rambukwella was summoned to the CID to provide a statement regarding the substandard Immunoglobulin case.
+
+Police Spokesman DIG Nihal Thalduwa confirmed that the Minister and Additional Secretary of the Ministry of Health, Saman Ratnayake, were scheduled to provide statements to the CID  on Wednesday (31).
+
+...
+
+[Data](articles/24142ed9.json)
 
 ---
 
@@ -139,6 +235,20 @@ Radegonde clarified that they received word about the incident from the Sri Lank
 [Data](articles/800dac6d.json)
 
 [Extended Data](ext_articles/800dac6d.ext.json)
+
+---
+
+### Colombo Plan and Ports Authority sign MoU to develop port operations
+
+*2024-01-31 20:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-Plan-and-Ports-Authority-sign-MoU-to-develop-port-operations/108-276071) · `en`
+
+Colombo, Jan. 31 (Daily Mirror)- The Colombo Plan, with funding from the U.S. Embassy, launched a three-year program to enhance the technical expertise of Sri Lanka Ports Authority staff and advance "smart" port operations at the Port of Colombo, a statement from the U.S. embassy said.
+
+The Colombo Plan and Sri Lanka Ports Authority signed a letter of intent at the launch and a memorandum of understanding will be extended in detail that contributes to the development and sustainability of maritime and port operations in Sri Lanka by introducing modern port systems, new technologies, and international best practices. U.S. funding supports Sri Lanka's ports initiative to boost productivity and competitiveness, positioning its ports as crucial regional hubs in South Asia.
+
+...
+
+[Data](articles/0353eba1.json)
 
 ---
 
@@ -1933,119 +2043,5 @@ Meanwhile, food inflation increased to 3.3% in January 2024.
 [Data](articles/2e28bd28.json)
 
 [Extended Data](ext_articles/2e28bd28.ext.json)
-
----
-
-### If not pay attention to the day
-
-*2024-01-31 15:21:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கவனம்-செலுத்தாவிடின்-நாளையும்-பணிபகிஷ்கரிப்பு/175-332419) · `ta`
-
-The Federation of Health Trade Unions said that only the authorities have time to provide solutions to issues including salary allowance.
-
-Ravi Kumudesh, co -organizer of the Health Trade Unions Federation, said that if the matter is not intervened, the health workers from 6.30 am to 72 trade unions will be working on the job.
-
-Although 72 health workers' unions have been opposed to the government, demanding that they pay the Rs.
-
-Ravi Kumudesh, co -organizer of the Health Trade Unions Federation, said that this would cause a huge crisis in the health sector.
-
-◼️
-
-[Data](articles/0f6f8ad3.json)
-
-[Extended Data](ext_articles/0f6f8ad3.ext.json)
-
----
-
-### Sri Lanka's Independence Day!The day of the Eelam Tamils!A massive rally in Britain urging the restoration of the self -determination of the plucked Tamils
-
-*2024-01-31 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175242) · `ta`
-
-The rally has been organized by the Tamil Eelam Coordination Committee International Tamil Eelam Diplomacy Tamil Nadu.
-
-“Regional integrity of a country is based on the fact that the ethnic groups in the country are equally. International law, which includes the equality and regional integrity of the people, emphasizes the right to emphasize equality and its claims to the end of separation, if an ethnic group is not given equality ”.
-
-A massive rally will be held in London, the British capital, on the 4th of February, demanding the recovery of the self -determination of Tamils on the basis of the Vaddukoddai resolution.
-
-The rally, which is expected to raise more than tens of thousands of Tamils from all over the world, will start the Sri Lankan High Commission's office in front of the office.
-
-...
-
-[Data](articles/16d3ec0f.json)
-
-[Extended Data](ext_articles/16d3ec0f.ext.json)
-
----
-
-### Pillai's pension if a civil servant dies
-
-*2024-01-31 15:21:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசு-ஊழியர்-இறந்தால்-பிள்ளைக்கு-ஓய்வூதியம்/175-332418) · `ta`
-
-After the death of civil servants, their life partner is being given a family pension. It is only after that life auxiliary is that a family pension will be given to a qualified child. In this case, the Central Government of India has changed this rule.
-
-Pension and Pensioners Welfare Department has amended the Central Civil Service Pension Regulations. Accordingly, state female employees may be appointed as the successor to give her a family pension for a qualified person instead of her husband after their death.. They should write about this in writing to their department head.
-
-Through this, female employees pending against the husband, and the government employees who are suing the Dowry Prevention Act, Family Violence Prevention Act and Indian Penal Code against the husband can take advantage of this opportunity.
-
-...
-
-[Data](articles/47fff104.json)
-
-[Extended Data](ext_articles/47fff104.ext.json)
-
----
-
-### Sri Lanka, Singapore officials discuss trade cooperation, supermarkets
-
-*2024-01-31 15:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-singapore-officials-discuss-trade-cooperation-supermarkets-149342/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Trade, Commerce and Food Security Minister met Singapore’s Non-Resident High Commissioner to discuss increasing trade and investment relations between the two countries.
-
-High Commissioner Chandra Das invited minister Nalin Fernando “to visit the NTUC supermarket chain in Singapore as it would provide insight into running Sri Lanka’s supermarket chains, including Lanka Sathosa,” a statement by the Department of Government Information said.
-
-NTUC FairPrice is the largest supermarket chain in Singapore with more than 60% market share.
-
-Fernando pointed out that post-harvest damage was very high in Sri Lanka and asked for Singapore’s help with technical knowledge to store sufficient stocks for long periods of time.
-
-To maintain food security, farmers should be properly coordinated through institutions such as cooperatives and provincial councils, Das said, adding that he was ready to provide facilities including investments to increase production.
-
-...
-
-[Data](articles/1a5d386f.json)
-
-[Extended Data](ext_articles/1a5d386f.ext.json)
-
----
-
-### Yohan Perera, editor of Daily Mirror, who collected news during the demonstration, was injured!
-
-*2024-01-31 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175241) · `ta`
-
-Yohan Perera, a newspaper editor of the Daily Mirror, was injured during a state of tear gas during the United People's Power demonstration in Colombo yesterday (30).
-
-The demonstration took place in front of the Vikramadevi Park, and on a court order, the police crossed the road and controlled the violation of their fixed limits.
-
-◼️
-
-[Data](articles/56b0adac.json)
-
-[Extended Data](ext_articles/56b0adac.ext.json)
-
----
-
-### Appeals Court to decide on contempt cases against Sanath Nishantha
-
-*2024-01-31 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96882/appeals-court-to-decide-on-contempt-cases-against-sanath-nishantha) · `en`
-
-The Court of Appeal has moved to February the petitions filed against the late State Minister Sanath Nishantha over contempt of court charges.
-
-The two-member judge bench consisting of Justices Sobhitha Rajakaruna and Dhammika Ganepola ordered that since the defendant of the case State Minister Sanath Nishantha has passed away, the future actions to be taken regarding the petitions will be decided on February 02, 2024.
-
-This order was issued when the relevant petitions filed by Attorney-at-Law Priyalal Sirisena and Attorney-at-Law Vijitha Kumara were taken up before the Court of Appeals today (Jan 31).
-
-◼️
-
-[Data](articles/b8452319.json)
-
-[Extended Data](ext_articles/b8452319.ext.json)
 
 ---

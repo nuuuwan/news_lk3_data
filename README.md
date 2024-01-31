@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 17:52:59**
+As of **2024-01-31 18:08:38**
 
 ## Newspaper Stats
 
-*Scraped **3,846** Articles*
+*Scraped **3,856** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 61
 dbsjeyarajcom | 129
 economynextcom | 203
 islandlk | 208
-newsfirstlk | 235
+newsfirstlk | 240
 dailyftlk | 243
 adalk | 344
-virakesarilk | 437
-adaderanasinhalalk | 440
+virakesarilk | 440
+adaderanasinhalalk | 442
 adaderanalk | 487
 tamilmirrorlk | 494
 dailymirrorlk | 518
@@ -26,11 +26,83 @@ dailymirrorlk | 518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,846 (100.0%) of 3,846 articles have been extended.
+3,856 (100.0%) of 3,856 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### If not controlled the atom bomb - President
+
+*2024-01-31 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192802) · `si`
+
+President Mahinda Rajapaksa says that the current tech educational era has not yet been taken to the President, says President
+
+The President was speaking at the opening of the Postgraduate Complex at the Postgraduate Institute of Pali and Buddhist Studies of the University of Kelaniya.
+
+President Ranil Wickremesinghe said that the economy could be made in an informed and civilized society.
+
+The President also pointed out that the Buddha preached to overcome the life struggle.
+
+I was then visited the Prime Minister to lay the foundation stone for the construction of the building in 2019. The President has come as the president to open this building today. The construction of the building was delayed due to the Corona Epidemic. Ven.. The monk of Rahula, Ruha, was a major commitment to the construction of the building.
+
+...
+
+[Data](articles/49eb252f.json)
+
+[Extended Data](ext_articles/49eb252f.ext.json)
+
+---
+
+### A strong response to China from Taiwan
+
+*2024-01-31 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192801) · `si`
+
+Foreign media reports that the activities of displaying the Chinese military strength of the island around the country, which is considered to be a state of the country, is constantly operating.
+
+Especially when there is a remarkable political or diplomatic process in Taiwan, the Chinese activity can be seen.
+
+But the Taiwan ruling party won the Taiwan Control Party, which had pledged to join China, and their goal is to build up a war-torn energy that could fail to enormous China.
+
+The United States of America has come to provide modern chapter.
+
+Taiwan, armed technology, is considered to be the world's main computer chips or semicandcter producer.
+
+China is constantly heard in the sea near Taiwan and enter the Taiwan aircraft, but Taiwan does not respond.
+
+However, armed Taiwan has exercised an exercise in displaying his war strength today.
+
+In this exercise, a special warfare in Taiwan was entered into the plane.
+
+...
+
+[Data](articles/8bb24bda.json)
+
+[Extended Data](ext_articles/8bb24bda.ext.json)
+
+---
+
+### The allegation of demolishing the inscription;Henry Mahendran
+
+*2024-01-31 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175245) · `ta`
+
+In the case of the demolition of the MS Kariyapper Road in Kalmunai, Ampara, the demolition of the river Relo Movement, the Secretary General of the Relo Movement and the former Opposition Leader of the Kalmunai Municipal Council, Henry Mahendran, has ordered a compensation of Rs.
+
+In the year 2015, the MS Kariyapar Road in Kalmunai, Ampara, was demolished by Henry Mahendran, Secretary General of the Relo Movement.
+
+He was subsequently arrested by the Kalmunai police on charges of illegal gathering and damaging the ownership of the Municipal Council.
+
+The case was underway for the past nine years and on Tuesday (30), the case was taken up in the presence of Kalmunai Magistrate MSM Samsudeen.. Henry Mahendran, who broke the Kariyapar road name board, ordered that he be guilty of 1,500 rupees and a compensation of 55,000 rupees.
+
+It is noteworthy that Attorney N. Sivanjith Ishattharani N Mathivathanan appeared on behalf of the Deputy Prophet.
+
+...
+
+[Data](articles/c623e32c.json)
+
+[Extended Data](ext_articles/c623e32c.ext.json)
+
+---
 
 ### Health aspects of tomorrow
 
@@ -84,6 +156,54 @@ Meanwhile, Hatton police said that the body of the deceased student has been sen
 
 ---
 
+### A batch of cardamom in Tamil Nadu
+
+*2024-01-31 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175243) · `ta`
+
+The Ramanathapuram district of Ramanathapuram district of Ramanathapuram district, Ramanathapuram district, is actively searching for three people who fled to the Sri Lankan boat from the beach to Sri Lanka.
+
+On Monday (29), the Mandapam Marine Police were patrolling the Kundakal fishing port area on the basis of reports that cardamom was smuggled into Sri Lanka by boat by boat on Monday (29).
+
+When Marine police saw Marine police in the Kundkal fishing harbor area, three persons fled a pussy.
+
+When the suspicious Marine police checked the foil, they found that 43 kg of cardamom was hidden.
+
+Marine police, who seized the cardamom barn, are conducting an intensive investigation into the mysterious gang who tried to smuggle cardamom.
+
+The Marine Police said that the seized cardamom value would be 1 lakh 45 thousand rupees.
+
+The Kundal Beach has become a major hub of smuggling products to Sri Lanka and has caused confusion among security regional officials.
+
+◼️
+
+[Data](articles/149d25ff.json)
+
+[Extended Data](ext_articles/149d25ff.ext.json)
+
+---
+
+### Top Court to Scrutinize Constitutionality of Acting IGP
+
+*2024-01-31 16:48:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/top-court-to-scrutinize-constitutionality-of-acting-igp/) · `en`
+
+COLOMBO (News 1st); The Supreme Court of Sri Lanka ordered to schedule the petitions that was filed challenging the appointment of Deshabandu Thennakoon to the post of Acting Inspector General of Police, to the 27th of February for consideration.
+
+The applications seek an interim order restraining Thennakoon from accepting the post of IGP and was taken up in the presence of a three-judge bench comprising Justices S. Thurairaja, Gaminia Amarasekera, and Mahinda Samayawardena.
+
+The bench advised that all objections over the applications, if any, must be filed with the Supreme Court before the 22nd of February.
+
+The petitions, filed by various parties including Archbishop of Colombo His Eminence Malcolm Cardinal Ranjith, argue that Tennakoon's appointment violates fundamental rights guaranteed by the Sri Lankan Constitution.
+
+President's Counsel Saliya Peiris, Shamil Perera, and Upul Kumarapperuma represented the petitioners, while President's Counsel Romesh De Silva appeared for Thennakoon.
+
+...
+
+[Data](articles/255ae966.json)
+
+[Extended Data](ext_articles/255ae966.ext.json)
+
+---
+
 ### Petition against the tear gas
 
 *2024-01-31 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192799) · `si`
@@ -101,6 +221,28 @@ Ranjith Madduma Bandara says that Ranil Wickremesinghe did not give orders to th
 [Data](articles/c59a0dd8.json)
 
 [Extended Data](ext_articles/c59a0dd8.ext.json)
+
+---
+
+### The country's economy can be built through the knowledge and characteristic society - the President of the University of Kelaniya
+
+*2024-01-31 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/175259) · `ta`
+
+President Ranil Wickremesinghe said the country's economy could be built through the knowledge and characteristic society.
+
+President Ranil Wickremesinghe said this while addressing the opening of the new building of the Bali and Buddhist Degree Division of the University of Kelaniya on Wednesday (31).
+
+The teachings of the Buddha are very important to win the struggle of life. The President said that the responsibility of knowing the depth of such a Dharma depends on Sri Lanka, which is the center of the Theravada Buddhism.
+
+The President said that such companies are capable of bringing Theravada Buddhism to the world and strengthening relations with Buddhist countries.
+
+He added that he would expect to strengthen the education of Sri Lanka as needed for the technical age and to take steps to initiate artificial intelligence courses in all universities.
+
+...
+
+[Data](articles/55deb457.json)
+
+[Extended Data](ext_articles/55deb457.ext.json)
 
 ---
 
@@ -172,6 +314,26 @@ In this case, he said, "I will support the government, but I will warn it if the
 
 ---
 
+### The presidential election candidates, who is more supportive -what is the poll of the IHP?
+
+*2024-01-31 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175255) · `ta`
+
+A poll revealed that JVP's Anura Kumaradisanayake continues to support the presidential candidates.
+
+This was revealed in a poll conducted by Institute of Health Police in December to find out the people's mindset about who to vote during the upcoming presidential election.
+
+The HPP has revealed that 50 percent support for the JVP leader, 33 percent of the support of the United People's Power and 9 % for President Rani Lwickramasinghe.
+
+Since mid -2023, the support of Anuragumaratisanayakavi has increased in December, but the support for the leader of the United Nations Power has increased by 3 percent after September 2023, according to the IHP's opinion.
+
+◼️
+
+[Data](articles/1afdf595.json)
+
+[Extended Data](ext_articles/1afdf595.ext.json)
+
+---
+
 ### Kushan Sampath Jayaratne assumed duties as the 7th Corps of Parliament
 
 *2024-01-31 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175256) · `ta`
@@ -234,23 +396,23 @@ Death was accused of March 15 and 150,000 rupees applicable to his private mobil
 
 ---
 
-### The presidential election candidates, who is more supportive -what is the poll of the IHP?
+### 31 Petitions Challenge Constitutionality of Controversial Anti-Terrorism Bill
 
-*2024-01-31 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175255) · `ta`
+*2024-01-31 16:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/31-petitions-challenge-constitutionality-of-controversial-anti-terrorism-bill/) · `en`
 
-A poll revealed that JVP's Anura Kumaradisanayake continues to support the presidential candidates.
+COLOMBO (News 1st); The Supreme Court of Sri Lanka conducted the fourth day of hearing on the petitions filed against the Anti-Terrorism Bill that was submitted by the government to the Parliament.
 
-This was revealed in a poll conducted by Institute of Health Police in December to find out the people's mindset about who to vote during the upcoming presidential election.
+The hearing was presided over by Chief Justice Jayantha Jayasuriya, and Justices Vijith Mallalgoda, A.H. M. D Nawaz, Shiran Gunaratne, and Arjuna Obeysekera.
 
-The HPP has revealed that 50 percent support for the JVP leader, 33 percent of the support of the United People's Power and 9 % for President Rani Lwickramasinghe.
+The Attorney General has been named as the respondent in the petitions.
 
-Since mid -2023, the support of Anuragumaratisanayakavi has increased in December, but the support for the leader of the United Nations Power has increased by 3 percent after September 2023, according to the IHP's opinion.
+So far, approximately 31 petitions have been filed with the Supreme Court demanding that certain clauses of the Anti-Terrorism Bill termed as unconstitutional.
 
-◼️
+...
 
-[Data](articles/1afdf595.json)
+[Data](articles/8691fadc.json)
 
-[Extended Data](ext_articles/1afdf595.ext.json)
+[Extended Data](ext_articles/8691fadc.ext.json)
 
 ---
 
@@ -352,6 +514,32 @@ The Chairman of the National Housing Development Authority Rajeev Suriyarachchi 
 
 ---
 
+### Sri Lanka Police Under Scrutiny After Custody Death
+
+*2024-01-31 16:04:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/sri-lanka-police-under-scrutiny-after-custody-death/) · `en`
+
+COLOMBO (News 1st); Sri Lanka Police has opened an investigation into the death of a 22-year-old suspect who died while in police custody on Tuesday, January 30th.
+
+The suspect was arrested Anuradhapura Range Criminal Investigation Division and the investigation is led by an Assistant Superintendent of Police.
+
+According to a senior police official, the suspect, a known drug user, fell ill while detained in a police cell and later passed away at the Anuradhapura Teaching Hospital.
+
+The cause of death remains unclear, and the post-mortem examination report is expected to reveal crucial details.
+
+"The official stated that any potential police involvement will be fully investigated.
+
+The incident occurred shortly after the suspect's arrest, along with three others, at a residence in the Anuradhapura.
+
+Police reported finding approximately 80 milligrams of heroin at the location.
+
+◼️
+
+[Data](articles/2a4f3990.json)
+
+[Extended Data](ext_articles/2a4f3990.ext.json)
+
+---
+
 ### Protest against big monk who tripped lay
 
 *2024-01-31 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192794) · `si`
@@ -412,6 +600,34 @@ Responding to questions from students at the Indian Institute of Management (IIM
 
 ---
 
+### Government Delays SriLankan Airlines Sale for Third Time
+
+*2024-01-31 15:57:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/government-delays-srilankan-airlines-sale-for-third-time/) · `en`
+
+COLOMBO (News 1st);  In a bid to attract a broader range of potential investors, the Sri Lankan government has once again extended the deadline for submitting proposals for the acquisition of SriLankan Airlines.
+
+The new deadline is now February 16th, 2024, marking the third extension since the privatization process began.
+
+This announcement comes from KDS Ruwanchandra, Secretary of the Ministry of Ports, Shipping and Aviation.
+
+He stated that the extension was decided upon "with the aim of giving more people the opportunity to submit proposals."
+
+The initial deadline for expressions of interest was December 5th, 2023.
+
+It was subsequently extended to December 18th, and then again to January 9th, 2024.
+
+The privatization of SriLankan Airlines is a crucial element of the government's economic reform plan.
+
+The national carrier has faced significant financial difficulties in recent years, prompting the government to explore various options to ensure its sustainability and long-term viability.
+
+◼️
+
+[Data](articles/476d997b.json)
+
+[Extended Data](ext_articles/476d997b.ext.json)
+
+---
+
 ### Colombo’s inflation increases to 6.4% in January
 
 *2024-01-31 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/96883/colombos-inflation-increases-to-64-in-january) · `en`
@@ -431,6 +647,22 @@ In addition to this, the year-on-year inflation of the non-food group increased 
 [Data](articles/f771f57f.json)
 
 [Extended Data](ext_articles/f771f57f.ext.json)
+
+---
+
+### Sri Lanka Name Squad for Afghanistan Test
+
+*2024-01-31 15:48:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/sri-lanka-name-squad-for-afghanistan-test/) · `en`
+
+COLOMBO (News 1st); Sri Lanka Cricket announced the squad for Afghanistan Test that will be played in Colombo, starting this weekend.
+
+Dhananjaya de Silva will lead the 16-man squad against Afghanistan. The one-off Test between the two sides takes place between 2 and 6 February at the Colombo SSC.
+
+◼️
+
+[Data](articles/ba6eb04d.json)
+
+[Extended Data](ext_articles/ba6eb04d.ext.json)
 
 ---
 
@@ -742,8 +974,6 @@ COLOMBO (News 1st); Mahinda Yapa Abeywardana, Speaker of Parliament today (31) e
 
 Accordingly, the said Bills will come into effect as the Recognition and Enforcement of International Settlement Agreements Resulting from Mediation Act No.5 of 2024 and the Notaries (Amendment) Act No.6 of 2024.
 
-Sri Lankan Expressway to See New Rules and Minimum Speed Limits
-
 ◼️
 
 [Data](articles/5bc0d71f.json)
@@ -882,8 +1112,6 @@ Khan Clock Tower Roundabout to Main Street, and YMBA Roundabout
 
 A separate traffic plan will be in place for Independence Day itself on February 4th.
 
-Sri Lankan Expressway to See New Rules and Minimum Speed Limits
-
 ◼️
 
 [Data](articles/72370bbb.json)
@@ -949,8 +1177,6 @@ These changes, expected to be gazetted within the next two weeks, are aimed at i
 Key among the proposed measures is the introduction of a minimum speed limit.
 
 While details of the specific speed remain undisclosed, its implementation is intended to address concerns about slow-moving vehicles impeding traffic flow and potentially creating dangerous situations.
-
-Sri Lankan Expressway to See New Rules and Minimum Speed Limits
 
 ◼️
 
@@ -1046,8 +1272,6 @@ COLOMBO (News 1st); In a special gazette notice, the Election Commission announc
 
 This appointment fills the vacancy left by the untimely demise of former State Minister Sanath Nishantha in a car accident on the Katunayake expressway last week.
 
-Sri Lankan Expressway to See New Rules and Minimum Speed Limits
-
 ◼️
 
 [Data](articles/39473260.json)
@@ -1067,8 +1291,6 @@ Nikeshala faced charges under the Computer Crimes Act for allegedly violating pu
 Following his arrest, he was presented to the court on January 30th and ordered to be remanded until today's hearing.
 
 After considering the facts presented in court today, the Chief Magistrate ordered to release Nikeshala on a personal bail of Rs. 500.000/-.
-
-Sri Lankan Expressway to See New Rules and Minimum Speed Limits
 
 ◼️
 
@@ -1385,8 +1607,6 @@ The motorcycle was traveling from Matara to Colombo with a bus traveling from Ma
 COLOMBO (News 1st); Shasheendra Rajapaksa was sworn in as the State Minister for Irrigation and Water Resources Management.
 
 He took oaths in the presence of President Ranil Wickremesinghe at the President's Office in Colombo, said the President's Media Division.
-
-Sri Lankan Expressway to See New Rules and Minimum Speed Limits
 
 ◼️
 
@@ -1819,209 +2039,5 @@ When we look at the news we see the stories they tell us about. They are the one
 [Data](articles/3d6f575e.json)
 
 [Extended Data](ext_articles/3d6f575e.ext.json)
-
----
-
-### Former BASL Secretary appointed to CBSL Governing Board
-
-*2024-01-31 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96878/former-basl-secretary-appointed-to-cbsl-governing-board-) · `en`
-
-Attorney-at-Law Rajeev Amarasuriya has been appointed to the Governing Board of the Central Bank of Sri Lanka (CBSL).
-
-The former Secretary to the Bar Association of Sri Lanka (BASL) was appointed by President Ranil Wickremesinghe, upon having received the approval of the Constitutional Council.
-
-Amarasuriya is renowned for his introduction of innovative and highly successful Continuous Legal Education and Professional Development Programmes, particularly during the COVID-19 pandemic. These initiatives include 175 publicly accessible webinars and the introduction of BASL Online Certificate Courses, which continue to benefit the legal fraternity and law students.
-
-Additionally, he holds various prominent positions such as a Member of the Council of the University of Colombo, a Board Member of the Sri Lanka Accounting and Auditing Standards Board, and an Executive Committee Member of LAWASIA.
-
-...
-
-[Data](articles/4a08c613.json)
-
-[Extended Data](ext_articles/4a08c613.ext.json)
-
----
-
-### We import fish from abroad;The resources that make the dollar are wasted without being used - Rilvin Silva
-
-*2024-01-31 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/175215) · `ta`
-
-The General Secretary of the Janatha Vimukthi Peramuna (JVP), Rilvin Silva, said that the economy of the country, including all the industries and entrepreneurs, including the fishing industry and agriculture, is completely degraded.
-
-Recently held at the Neighborhood Fishermen Conference and the All Ceylon Fishermen's Federation. Rilvin Silva said this while addressing the gathering.
-
-The city of Beruwala is also very popular as the Gemstone Industry. All of them are currently being degraded.
-
-Our overall economy has been degraded. We live in a country of bankrupt. The Central Bank chief has officially announced the "our country bankrupt" we cannot repay the loan we received.
-
-...
-
-[Data](articles/10fd5c7a.json)
-
-[Extended Data](ext_articles/10fd5c7a.ext.json)
-
----
-
-### Bus accident on high -speed road in Mexico;19 killed
-
-*2024-01-31 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175210) · `ta`
-
-A two -tier bus and a truck collided head -on on Tuesday in the northwestern part of Mexico.
-
-A bus traveling from Quadalajara in the western state of Jalisco, Sinolova, a bus traveling to Los Mochis has been burnt.
-
-Civil Defense Director Roy Navaret in Sinalova said that the truck and the bus carrying nearly 50 people collided face -to -face.
-
-Officials are investigating the cause of the accident in the early hours of the morning in the municipality of Elota.
-
-Pictures of the consequences of the accident in the early hours of Tuesday morning, when emergency workers arrived at the scene, the burning vehicles were still burning, the flames and the smoke outside
-
-◼️
-
-[Data](articles/c027b7ba.json)
-
-[Extended Data](ext_articles/c027b7ba.ext.json)
-
----
-
-### Global growth projected at 3.1% in 2024 – IMF
-
-*2024-01-31 11:43:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/global-growth-projected-at-3-1-in-2024-imf/) · `en`
-
-COLOMBO (News 1st); The world economy is expected to grow at a modest 3.1 percent in 2024 and 3.2 percent in 2025, according to the latest World Economic Outlook (WEO) update by the International Monetary Fund (IMF).
-
-While this represents a slight upward revision from the October 2023 forecast, it remains below the historical average of 3.8 percent seen between 2000 and 2019.
-
-Global growth is projected at 3.1 percent in 2024 and 3.2 percent in 2025, with the 2024 forecast 0.2 percentage point higher than that in the October 2023 World Economic Outlook (WEO) on account of greater-than-expected resilience in the United States and several large emerging market and developing economies, as well as fiscal support in China.
-
-Global headline inflation is expected to fall to 5.8 percent in 2024 and to 4.4 percent in 2025, with the 2025 forecast revised down, said the IMF.
-
-...
-
-[Data](articles/d2b18234.json)
-
-[Extended Data](ext_articles/d2b18234.ext.json)
-
----
-
-### Allegations for selling state gifts - 14 years in prison for Imran and wife
-
-*2024-01-31 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/175213) · `ta`
-
-The Pakistani court has sentenced Pakistan's former Prime Minister Imran Khan and his wife Busra Bibi to 14 years in prison.
-
-The verdict was released today after Imran Khan was sentenced to 10 years in prison in another case.
-
-The court has sentenced Imran Khan and his wife in connection with the corruption charge.
-
-It is noteworthy that Imrankhan and his wife were charged with selling government -owned gifts as their assets.
-
-It is noteworthy that Pakistan's parliamentary election is still held in a week. Imran is banned from contesting the election.
-
-◼️
-
-[Data](articles/f4b9a4b9.json)
-
-[Extended Data](ext_articles/f4b9a4b9.ext.json)
-
----
-
-### Army Commander visited the injured soldiers
-
-*2024-01-31 11:38:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காயமடைந்த-வீரர்களை-பார்வையிட்டார்-இராணுவத்-தளபதி/175-332401) · `ta`
-
-Army Commander Lieutenant General Vikki Liyanage visited the Colombo Army Hospital yesterday (30) to inquire about the welfare of Parasood soldiers who were injured during a 76th Independence Day parade held at the Galle Face of Colombo yesterday.
-
-Regarding the injuries, the army commander spoke separately to the officer and the soldier and expressed his grief and inquired about the treatments they would be given.
-
-In addition, the Army Commander met the doctors and promised to heal quickly, emphasizing the importance of providing the best treatment to the injured.
-
-In addition, the Army Commander appreciated the commitment and involvement of medical staff and asked for the best treatment to the injured soldiers.
-
-◼️
-
-[Data](articles/b18f4573.json)
-
-[Extended Data](ext_articles/b18f4573.ext.json)
-
----
-
-### Roshan Ranasinghe marked the date
-
-*2024-01-31 11:34:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திகதியை-குறித்தார்-ரொஷான்-ரணசிங்க/175-332400) · `ta`
-
-Parliamentarian Roshan Ranasinghe says he is ready to leave politics before the age of 65 and act as a new example for the country.
-
-He said the limit for retirement in public service is valid for the administration.
-
-Parliamentarian Roshan Ranasinghe, who was present at a public meeting in Nugegoda, said this.
-
-◼️
-
-[Data](articles/e2436707.json)
-
-[Extended Data](ext_articles/e2436707.ext.json)
-
----
-
-### Air Ambulance Service between Sri Lanka - Maldives
-
-*2024-01-31 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/175201) · `ta`
-
-Air Ambulance service connecting Sri Lanka and the Maldives will begin in March.
-
-The decision was taken from Maldives Transport and Aviation Minister Captain Mohamed Amin and Sri Lanka's Ports, Ship and Aviation Minister Nimal Siripala de Silva on Tuesday.
-
-◼️
-
-[Data](articles/0f613963.json)
-
-[Extended Data](ext_articles/0f613963.ext.json)
-
----
-
-### Four post-employees who have been forcibly raped into the police
-
-*2024-01-31 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192778) · `si`
-
-Four postal workers have been arrested by the Ruwanwella Police yesterday (29).
-
-Four postal employees working in Ruwanwella and Ibulana Post Offices.
-
-A 26-year-old girl from the Kannantota area has reached a post office in Ruwanwella town last Friday.
-
-A staff who helped them to help them in the post office, a young man who helped them have been given help and had the telephone number to speak.
-
-The young man was later brought to the house of the Kannnnnnnnnnnnnnnnnnnnnnnnnnnnnign.
-
-He was later working in Ruwanwella and Ibulana Post Offices and three of his friends.
-
-Then the four four were forcibly raped and raped the girl from time to time, and the girl had not told this.
-
-The young girl's elder brother has revealed this on the 28th of this, with a friend to see a friend to go to the post of postal house.
-
-Accordingly, the older brother had said that the older brother was asked about the girl and had complained to the Ruwanwella Police.
-
-...
-
-[Data](articles/44c6a12a.json)
-
-[Extended Data](ext_articles/44c6a12a.ext.json)
-
----
-
-### Basil's responsibility?
-
-*2024-01-31 11:26:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பசிலின்-பொறுப்பு-நாமலுக்கு/175-332398) · `ta`
-
-Parliamentarian Namal Rajapakse has said that the Sri Lanka PA will face the upcoming general election and take the country on the path to victory and that the party's policies will not be transformed into opportunist.
-
-Will the party's national organizer, Basil Rajapaksa, is abroad, will be the party's responsibility?Responding to a question asked by journalists, Namal Rajapaksa said the above.
-
-◼️
-
-[Data](articles/86f8739d.json)
-
-[Extended Data](ext_articles/86f8739d.ext.json)
 
 ---

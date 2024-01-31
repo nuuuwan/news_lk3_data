@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 18:50:38**
+As of **2024-01-31 19:02:35**
 
 ## Newspaper Stats
 
-*Scraped **3,870** Articles*
+*Scraped **3,875** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,96 @@ economynextcom | 203
 islandlk | 208
 newsfirstlk | 241
 dailyftlk | 243
-adalk | 345
+adalk | 346
 virakesarilk | 440
-adaderanasinhalalk | 445
+adaderanasinhalalk | 446
 adaderanalk | 487
-tamilmirrorlk | 495
+tamilmirrorlk | 498
 dailymirrorlk | 524
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,860 (99.7%) of 3,870 articles have been extended.
+3,860 (99.6%) of 3,875 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### கண்ணீர் புகைக்கு எதிராக ஐமச மனு
+
+*2024-01-31 18:34:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்ணீர்-புகைக்கு-எதிராக-ஐமச-மனு/175-332437) · `ta`
+
+நீதிமன்ற உத்தரவை மீறி ஐக்கிய மக்கள் சக்தியின் போராட்டத்தின் மீது கண்ணீர் புகை மற்றும் நீர்த்தாரை பிரயோகம் செய்தமைக்கு எதிராக ஐக்கிய மக்கள் சக்தி மனுவொன்றை தாக்கல் செய்யவுள்ளது.
+
+தாக்குதல்களை நடத்துமாறு உத்தரவிட்ட பொது பாதுகாப்பு அமைச்சர் டிரான் அலஸ் மற்றும் காவல்துறை அதிகாரிகளுக்கு எதிராக, சட்டத்தையும் நீதிமன்ற தீர்ப்பையும் மதிக்கவில்லை எனக் குற்றஞ்சாட்டின்  அடிப்படை உரிமை மனு தாக்கல் செய்யவுள்ளதாக பாராளுமன்ற உறுப்பினர் ரஞ்சித் மத்தும பண்டார தெரிவித்துள்ளார்.
+
+போராட்டத்தின் போது எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மற்றும் எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர்கள் மீது கண்ணீர்ப்புகை மற்றும் நீர்த் தாக்குதல்கள் நடத்தப்பட்டதாகவும்  மத்துமபண்டார குறிப்பிட்டார்.
+
+நாட்டின் எதிர்க்கட்சித் தலைவருக்குக் கூட அரசியல் செய்யும் உரிமையை தற்போதைய அரசாங்கம் பறித்துள்ளதாக கொழும்பு மார்க்ஸ் பெர்னாண்டோ மாவத்தையில் உள்ள எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்துத் தெரிவிக்கையில் அவர் இதனைக் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/1faf433d.json)
+
+---
+
+### சனத் நிஷாந்த மீதான வழக்கு பெப்ரவரி 2 விசாரணைக்கு
+
+*2024-01-31 18:30:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்த-மீதான-வழக்கு-பெப்ரவரி-2-விசாரணைக்கு/175-332436) · `ta`
+
+நீதிமன்றத்தை அவமதித்ததாக முன்னாள் இராஜாங்க அமைச்சர் சனத் நிஷாந்தவுக்கு எதிராக தாக்கல் செய்யப்பட்டுள்ள மனுக்களை பெப்ரவரி 2 ஆம் திகதி விசாரணைக்கு எடுத்துக் கொள்ளுமாறு மேன்முறையீட்டு நீதிமன்றம் இன்று (31) உத்தரவிட்டுள்ளது.
+
+இந்த மனுக்கள் இன்று சோபித ராஜகருணா மற்றும் தம்மிக்க கணேபொல ஆகியோர் அடங்கிய மேன்முறையீட்டு நீதிமன்ற நீதிபதிகள் முன்னிலையில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+
+பிரதிவாதியான சனத் நிஷாந்த தற்போது இறந்துவிட்டதால், அவமதிப்பு மனுக்கள் தொடர்பாக எடுக்க வேண்டிய நடவடிக்கை குறித்து முடிவெடுப்பதற்காக எதிர்வரும் 2 ஆம் திகதி குறித்த வழக்கை விசாரணைக்கு அழைக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+இலங்கை நீதித்துறை அதிகாரிகள் சங்கம் மற்றும் பிரியலால் சிறிசேன, விஜித குமார ஆகிய இரு சட்டத்தரணிகளினால் இந்த மனுக்கள் தாக்கல் செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c05a98c2.json)
+
+---
+
+### கலஹா சந்தியில் கண்ணீர் புகைப்பிரயோகம்
+
+*2024-01-31 18:26:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கலஹா-சந்தியில்-கண்ணீர்-புகைப்பிரயோகம்/76-332435) · `ta`
+
+பேராதனை பல்கலைக்கழக பொது மாணவர் ஒன்றியத்தினால் புதன்கிழமை (31) முன்னெடுக்கப்பட்ட எதிர்ப்புப் பேரணியை கண்ணீர்ப்புகை குண்டு மற்றும் நீர்த்தாரை பிரயோகம் செய்து  பொலிஸார் கலைத்துள்ளனர்.
+
+பல்கலைக்கழக மாணவர்கள் சுமார் ஆயிரம் பேர், கலஹா சந்திக்கு அருகில் பேராதனை வீதியினூடாக பிரவேசித்து கண்டி நோக்கிய ஆர்ப்பாட்ட பேரணியை ஆரம்பித்தனர்.இதன்போதே பேரணியை வழிமறித்து கண்ணீர்ப்புகை மற்றும் நீர்த்தாரை பிரயோகம் செய்யப்பட்டுள்ளது.
+
+பேராதனை தாவரவியல் பூங்காவை கடந்த பின்னர் நூற்றுக்கும் மேற்பட்ட பொலிஸார், பொலிஸ் வாகனங்களால் மறித்து, பேரணிக்கு இடையூறு ஏற்படுத்தினர்.
+
+75 ஆண்டுகளுக்கும் மேலாக நாட்டை ஆண்ட ஆளும் வர்க்கம் நடைமுறைப்படுத்திய தொலைநோக்கு பார்வையற்ற நடவடிக்கைகளால் நாடு தற்போது அரசியல் மற்றும் பொருளாதார ஸ்திரமற்ற நிலைக்கு மாறி பல்வேறு துறைகளிலும் பல நெருக்கடிகள் ஏற்பட்டுள்ளன.
+
+இதனால் பல்கலைக்கழக மாணவர்கள் மட்டுமின்றி ஏனைய மாணவர்களும் கல்வித்துறை தொடர்பான பல்வேறு பிரச்சினைகளுக்கு முகங்கொடுத்து பொதுமக்கள் மட்டுமின்றி பல்வேறு பிரச்சினைகளுக்கு முகங்கொடுக்க நேரிட்டுள்ளது.
+
+...
+
+[Data](articles/e3d1345e.json)
+
+---
+
+### ආසියානු ක්‍රිකට් කවුන්සිලයේ සභාපති ධුරයට යළිත් ජේ ෂා
+
+*2024-01-31 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192806) · `si`
+
+තවත් වසරක කාලයක් සඳහා ආසියානු ක්‍රිකට් කවුන්සිලයේ සභාපති ධුරයට එහි වත්මන් සභාපති ඉන්දියාවේ ජේ ෂා අද (31) තේරී පත්කර ගැනුණි.
+
+ඒ සඳහා ජේ ෂාගේ නම ආසියානු ක්‍රිකට් කවුන්සිල මහ සභා රැස්වීමට යෝජනා කර ඇත්තේ ශ්‍රී ලංකා ක්‍රිකට් සභාපති ශම්මි සිල්වා විසිනි.
+
+ඔහුගේ එම යෝජනාවට ආසියානු ක්‍රිකට් සාමාජික රටවල් කිසිවක් විරෝධය දක්වා නොමැත.
+
+ජේ ෂාගේ ආසියානු ක්‍රිකට් කවුන්සිල සභාපති ධුර කාලය දීර්ඝ කෙරුණු තෙවැනි අවස්ථාව මෙය වෙයි.
+
+◼️
+
+[Data](articles/ee842cc7.json)
+
+---
 
 ### රජයෙන් අලුත්ම පහසු ගෙවීමේ ක්‍රමයක්
 
@@ -825,6 +899,26 @@ In addition to this, the year-on-year inflation of the non-food group increased 
 [Data](articles/f771f57f.json)
 
 [Extended Data](ext_articles/f771f57f.ext.json)
+
+---
+
+### මසක් ඇතුළත ජනතාව එකතු කර ජනපති ගෙදර යවනවා
+
+*2024-01-31 15:52:32* · [`adalk`](https://www.ada.lk/breaking_news/මසක්-ඇතුළත-ජනතාව-එකතු-කර-ජනපති-ගෙදර-යවනවා/11-407825) · `si`
+
+අධිකරණ තීන්දුවට එරෙහිව යමින් සාමකාමී උද්ඝෝෂණයට පහර දුන් පුද්ගලයන්ට එරෙහිව මූලික අයිතිවාසිකම් පෙත්සමක් ගොනු කරන බව සමගි ජන බලවේගයේ මහ ලේකම් පාර්ලිමේන්තු මන්ත්‍රී රංජිත් මද්දුමබණ්ඩාර මහතා පැවසීය.
+
+කොළඹ විපක්ෂනායක කාර්යාලයේ අද (31දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+මෙලෙස විරෝධය පළ කරමින් ආණ්ඩුවට සහ ජනාධිපතිට එරෙහිව පළමු වෙඩි මුරය තැබූ බවත්, තව මසක් තුළ නැවත ජනතාව එක්රැස් කර ආණ්ඩුව සහ ජනාධිපතිවරයා ගෙදර යැවීමට කටයුතු කරන බවත් හෙතෙම පැවසීය.
+
+එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී රංජිත් මද්දුමබණ්ඩාර මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+&මේ රජය, රනිල් රාජපක්ෂව ගෙදර යවන්න දස දහස් ගණනක ජනතාවක් කොළඹට රුස් වුණා. ඒ විරෝධතාවය ඉතා සාර්ථක විරෝධතාවයක් වුණා. මේකට හොඳටම බය වුණ රනිල් වික්‍රමසිංහ මහත්මයා ටිරාන් අලස්ගේ පොලීසිය යොදලා අනීතිකව, ම්ලේච්ඡ විදියට මේ සාමකාමී විරෝධතාවයට පහර දුන්නා. කඳුළු ගෑස් ගැහුවා.
+
+...
+
+[Data](articles/7f8dc430.json)
 
 ---
 
@@ -1919,107 +2013,5 @@ However, the High Court judge released the accused, however, considering the sub
 [Data](articles/7ab87fee.json)
 
 [Extended Data](ext_articles/7ab87fee.ext.json)
-
----
-
-### Election ’24: Hopes for Constitutional Reforms are still alive
-
-*2024-01-31 12:34:00* · [`islandlk`](http://island.lk/election-24-hopes-for-constitutional-reforms-are-still-alive/) · `en`
-
-The Collective for Democracy and Rule of Law (CDRL) is making a commendable intervention to launch a platform for constitutional reform early on in this election year. The Collective has convened a meeting of civil society activists and organizations, and a well-attended meeting was held in Colombo on Wednesday (January 24) last week. My focus today is on the discussion document that was circulated in advance and discussed at the meeting.
-
-...
-
-[Data](articles/886bce2f.json)
-
-[Extended Data](ext_articles/886bce2f.ext.json)
-
----
-
-### Sri Lanka should follow India in granting Overseas Citizenship Status
-
-*2024-01-31 12:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-should-follow-India-in-granting-Overseas-Citizenship-Status/108-276040) · `en`
-
-Colombo, Jan 31 (Daily Mirror) - Sri Lanka should take a leaf from India's book and grant Overseas Citizenship Status to people of Sri Lankan origin holding foreign citizenship abroad, opposition MP Mano Ganeshan said.
-
-In a message on his X account he said that Indian law does not allow dual citizenship but provides Overseas Citizenship of India status to persons of Indian origins who migrate from India and acquire foreign citizenship.
-
-...
-
-[Data](articles/dcaf5c07.json)
-
-[Extended Data](ext_articles/dcaf5c07.ext.json)
-
----
-
-### China and India Drive Upward Revision in IMF’s Asia-Pacific Growth Projection
-
-*2024-01-31 12:29:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/china-and-india-drive-upward-revision-in-imf-s-asia-pacific-growth-projection/) · `en`
-
-COLOMBO (News 1st); Krishna Srinivasan, Director of the IMF’s Asia and Pacific Department, announced that the International Monetary Fund (IMF) has revised its growth forecast for the Asia-Pacific region.
-
-The IMF now estimates that the region will grow by 4.7% in 2023, compared to the previous projection of 4.6% in October 2023.
-
-The upward revision is mainly due to China and India’s economic growth.
-
-In China, higher spending on disaster reconstruction and resilience projects supported growth, while strong domestic demand underpinned another increase in India’s growth estimate1.
-
-The IMF has also upgraded its regional growth forecast for 2024 to 4.5%, from 4.2% in October 20231.
-
-Part of the positive dynamic from last year carries over into 2024.
-
-A more supportive external environment, notably robust growth in the United States, reinforces domestic resilience.
-
-...
-
-[Data](articles/df077f86.json)
-
-[Extended Data](ext_articles/df077f86.ext.json)
-
----
-
-### Three months of the shells hit in music in music
-
-*2024-01-31 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192782) · `si`
-
-His family relatives say that the Law of Hikkaduwa, a resident of Hikkaduwa, has not yet done justice from his son Hikkaduwa, a resident of Hikkaduwa.
-
-They say that with this attack, they are more helpless for the nocharged and that he has not taken the law without law.
-
-His relatives say that the tradition of the neoverage is in Hikkadese, October 20, 2023, said.
-
-After a clash between two factions visiting a musical show, a deadly attack on the head of Nawaneran's head.
-
-Relatives say that the attack had to be surgery and a part of his skull had been removed in surgery.
-
-He also says that doctors cannot resist the segment of the skull section of the removed skull is because his body strength is currently weak.
-
-Relatives say that the neighbor is seriously ill and are among a pipe and breathe and breathe and wrote.
-
-The mother of Naronoge mother noted that the youths could not be permanently aware of the rescue of the young man but to be permanently.
-
-...
-
-[Data](articles/930069a5.json)
-
-[Extended Data](ext_articles/930069a5.ext.json)
-
----
-
-### Explanation for a man who was arrested on charges of bribery of ten thousand rupees!
-
-*2024-01-31 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175220) · `ta`
-
-Colombo Chief Justice Prasanna Alwis today (31) ordered that a business officer arrested for bribing ten thousand rupees for bribery.
-
-The suspect from Maruthamunai, who was arrested by bribery investigators on the 19th, was placed in detention.
-
-The suspect working at the Ampara Department of Labor has received bribery, the owner of a hotel and the employee welfare fund has received bribery.
-
-◼️
-
-[Data](articles/ef5fc020.json)
-
-[Extended Data](ext_articles/ef5fc020.ext.json)
 
 ---

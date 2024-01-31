@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 08:02:21**
+As of **2024-01-31 08:17:18**
 
 ## Newspaper Stats
 
-*Scraped **3,675** Articles*
+*Scraped **3,676** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 216
 dailyftlk | 242
 adalk | 331
 virakesarilk | 406
-adaderanasinhalalk | 409
+adaderanasinhalalk | 410
 tamilmirrorlk | 463
 adaderanalk | 467
 dailymirrorlk | 499
@@ -26,27 +26,51 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,674 (100.0%) of 3,675 articles have been extended.
+3,675 (100.0%) of 3,676 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### තවත් වෙඩිතැබීමක්
+### ඉඩම් ඔප්පු හිමිවන අලුත්ම පිරිස
+
+*2024-01-31 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192768) · `si`
+
+ජනතාවගේ ඉඩම් අයිතිය සුරක්ෂිත කිරීම වෙනුවෙන් ක්‍රියාත්මක උරුමය වැඩසටහනේ පළමු අදියර යටතේ ලබාදීමට නියමිත නිදහස් ඔප්පු 10,000 මේ වන විට සකස් කර අවසන් බව සංචාරක හා ඉඩම් අමාත්‍යාංශය පවසයි.
+
+එම සින්නක්කර ඔප්පු දිස්ත්‍රික් ලේකම් කාර්යාලවලට යොමු කිරීමට පියවර ගෙන ඇති බව එම අමාත්‍යාංශයේ ලේකම් ඒච්. ඒම්. බී.පී. හේරත් මහතා පැවසුවේය.
+
+ජනාධිපති ලේකම් කාර්යාලයේ නිලධාරීන්, දිස්ත්‍රික් ලේකම්වරු හා ප්‍රාදේශීය ලේකම්වරු සමඟ මාර්ගගත ක්‍රමය ඔස්සේ පැවැති සාකච්ඡාවකදී මෙම කරුණු අනාවරණය වී තිබේ.
+
+උරුමය වැඩසටහනේ පළමු අදියර යටතේ ඔප්පු දස දහසක් ප්‍රදානය කිරීමේ ජාතික උත්සවය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් රන්ගිරි දඹුලු ක්‍රීඩාංගණයේදී ලබන පෙබරවාරි 05 වැනිදා පැවැත්වීමට තීරණය කර ඇති බව සඳහන්ය.
+
+සියලූම ඔප්පුලාභීන්ට කිසිදු අපහසුතාවකින් තොරව මෙම උත්සවයට සහභාගීවීමට පහසුකම් සලසා දෙන ලෙස ජනාධිපති ලේකම් කාර්යාලය විසින් දිස්ත්‍රික් ලේකම්වරුන්ට උපදෙස් ලබාදී ඇති බව ජනාධිපති මාධ්‍ය අංශය පැවසුවේය.
+
+මෙම වැඩසටහන යටතේ ගොවි පවුල් ලක්ෂ 20ක් සඳහා නිදහස් ඔප්පු ප්‍රදානය කිරීමට රජය සැලසුම් කර තිබේ.
+
+◼️
+
+[Data](articles/76d97f2d.json)
+
+---
+
+### Another shot
 
 *2024-01-31 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192767) · `si`
 
-කරුවලගස්වැව පොලිස් වසමේ බුද්ධි ධීවර ගම්මානය ප්‍රදේශයේ දී වෙඩිතැබීමක් සිදුකර තිබේ.
+The Buddision's Fisheries Village of the Karuwalagaswewa Police have shot.
 
-පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේ, ඊයේ (30) රාත්‍රීයේ අදාළ වෙඩිතැබීම සිදුකර ඇති අතර ඉන් තුවාල ලැබූ පුද්ගලයෙක් මේ වනවිට පුත්තලම රෝහලට ඇතුළත් කර ඇති බවය.
+The police media division said that the shooting was admitted to the Puttalam Hospital yesterday (30).
 
-තුවාලකරු කාන්තාවක් සමග අනියම් ප්‍රේම සම්බන්ධතාවයක් පවත්වා ඇති අතර, එම කාන්තාව සමග ප්‍රේම සම්බන්ධතාවයක් පැවැත්වූ වෙනත් පුද්ගලයෙකු විසින් බෝර 12 ගිනිඅවියකින් මෙම වෙඩිතැබීම සිදුකර ඇති බවට විමර්ශනවලදී අනාවරණය වී තිබේ.
+Investigations have revealed that the victim had a casual romantic relationship with a woman and another person who had a love affair with the woman had been shot.
 
-වෙඩිතැබීම සිදුකළ පුද්ගලයා හඳුනාගෙන ඇති අතර, ඔහු මේ වනවිට ප්‍රදේශයෙන් පළාගොස් ඇත.
+The shooting has been identified and he has fled the area.
 
 ◼️
 
 [Data](articles/38c16682.json)
+
+[Extended Data](ext_articles/38c16682.ext.json)
 
 ---
 
@@ -2021,25 +2045,5 @@ The co-convener of the Alliance General Convener of the Co-convener of the Co-co
 [Data](articles/cb271dae.json)
 
 [Extended Data](ext_articles/cb271dae.ext.json)
-
----
-
-### Sri Lanka sends tea to Palestine
-
-*2024-01-30 15:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-sends-tea-to-palestine-149164/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ministry of Foreign Affairs donated a consignment of Ceylon Tea to the people of Palestine in the Gaza Strip as “a token of humanitarian assistance symbolizing Sri Lanka’s unwavering support and solidarity with the people of Palestine,” it said.
-
-“Tea, deeply rooted in our culture, is a gesture of comfort and strength. Sri Lanka extends our support to the people of Palestine, hoping that this contribution brings solace and strength during moments of crisis. Sri Lanka stands in solidarity with Palestine during these difficult times,” State Minister of Foreign Affairs Tharaka Balasuriya said on X.
-
-The donation was received by the Ambassador of Palestine to Sri Lanka, Zuhair Hamdallah Zaid who expressed appreciation for the goodwill gesture.
-
-Colombo-based ambassadors of Saudi Arabia, Egypt and Iran as well as diplomats from Iraq, Kuwait, Qatar, Oman, Libya and UAE were also present, the ministry said.
-
-...
-
-[Data](articles/d16a1a31.json)
-
-[Extended Data](ext_articles/d16a1a31.ext.json)
 
 ---

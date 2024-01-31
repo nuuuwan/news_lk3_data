@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 10:02:14**
+As of **2024-01-31 10:17:17**
 
 ## Newspaper Stats
 
-*Scraped **3,691** Articles*
+*Scraped **3,692** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 216
 dailyftlk | 243
 adalk | 331
 virakesarilk | 408
-adaderanasinhalalk | 414
+adaderanasinhalalk | 415
 tamilmirrorlk | 468
 adaderanalk | 470
 dailymirrorlk | 499
@@ -26,7 +26,7 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,691 (100.0%) of 3,691 articles have been extended.
+3,691 (100.0%) of 3,692 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,22 @@ Following the fatal collision, three persons including State Minister Nishantha 
 [Data](articles/87deae1b.json)
 
 [Extended Data](ext_articles/87deae1b.ext.json)
+
+---
+
+### සෞඛ්‍ය කාර්ය මණ්ඩලවලට වෛද්‍යවරුන්ගෙන් සංදේශයක්
+
+*2024-01-31 09:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192773) · `si`
+
+පටු දේශපාලන න්‍යාය පත්‍රයන් ඔස්සේ ක්‍රියාත්මක වන වෘත්තීය සමිති නායකයින් කිහිපදෙනෙකුට සෞඛ්‍ය ක්ෂේත්‍රයේ වෛද්‍ය නොවන කාර්ය මණ්ඩල වල අභිමානය විනාශ කිරීමට ඉඩලබා නොදිය යුතු බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය පවසයි.
+
+ප්‍රතිපත්තිමය තීරණ ගැනීමේදී සෞඛ්‍ය සේවකයින් මඟහරිමින් තවදුරටත් කටයුතු කරන්නේ නම් හෙට (01) දිනයේ සිට යළි වර්ජන ක්‍රියාමාර්ගවලට එළඹීමට තීරණය කළ බව සෞඛ්‍ය වෘත්තීයවේදීන්ගේ ජාතික ව්‍යාපාරය ඊයේ ප්‍රකාශ කළේය.
+
+ඊට ප්‍රතිචාර දක්වා රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය රජයේ සෞඛ්‍ය ආයතනවල සේවය කරන සියලුම වෛද්‍ය නොවන කාර්ය මණ්ඩල සාමාජිකයන් වෙත විවෘත සංදේශයක් ඉදිරිපත් කර තිබේ.
+
+◼️
+
+[Data](articles/bb0d1086.json)
 
 ---
 
@@ -2045,21 +2061,5 @@ The President has furnished the proposal in his capacity as the Minister of Fina
 [Data](articles/2e9ae29b.json)
 
 [Extended Data](ext_articles/2e9ae29b.ext.json)
-
----
-
-### One person injured in demonstration
-
-*2024-01-30 16:49:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆர்ப்பாட்டத்தில்-ஒருவர்-படுகாயம்/175-332355) · `ta`
-
-A man who was injured during a demonstration rally carried out by the United People's Power has been admitted to the Colombo National Hospital.
-
-Police have repeatedly launched a water and tear gas attack near the Colombo Public Library to dissolve the demonstration.
-
-◼️
-
-[Data](articles/233b9186.json)
-
-[Extended Data](ext_articles/233b9186.ext.json)
 
 ---

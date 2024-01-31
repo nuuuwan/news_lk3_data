@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 02:49:28**
+As of **2024-02-01 03:02:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,949 (100.0%) of 3,950 articles have been extended.
+3,950 (100.0%) of 3,950 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -611,6 +611,8 @@ Annamalai the state President of Tamil Nadu together with the BJP were over the 
 ...
 
 [Data](articles/04843e09.json)
+
+[Extended Data](ext_articles/04843e09.ext.json)
 
 ---
 

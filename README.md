@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 08:50:06**
+As of **2024-01-31 09:02:36**
 
 ## Newspaper Stats
 
-*Scraped **3,682** Articles*
+*Scraped **3,688** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 127
 economynextcom | 200
 islandlk | 207
 newsfirstlk | 216
-dailyftlk | 242
+dailyftlk | 243
 adalk | 331
-virakesarilk | 406
-adaderanasinhalalk | 410
-tamilmirrorlk | 467
+virakesarilk | 408
+adaderanasinhalalk | 412
+tamilmirrorlk | 468
 adaderanalk | 469
 dailymirrorlk | 499
 
@@ -26,11 +26,47 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,678 (99.9%) of 3,682 articles have been extended.
+3,682 (99.8%) of 3,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### යුද්ධයේ දී ආබාධිත වූ පොලිස් නිලධාරීන්ට සුබ පණිවිඩයක්
+
+*2024-01-31 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192770) · `si`
+
+යුද්ධයේදී ආබාධිත වු පොලිස් විශ්‍රාමික රණවිරුවන්ට වයස අවුරුදු 55 දක්වා උසස්වීම් හා ඊට අදාළ වැටුප් ක්‍රමවේදයක් සකස් කිරීමට ජාතික ආරක්ෂාව පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ අවධානය යොමුව තිබේ.
+
+එම කාරක සභාව සරත් වීරසේකර මන්ත්‍රීවරයාගේ ප්‍රධානත්වයෙන් රැස්වු අවස්ථාවේ මේ සම්බන්ධයෙන් දීර්ඝ ලෙස සාකච්ඡා කර ඇති බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව පැවසුවේය.‍
+
+තමන් සේවයේ යෙදී සිටියා නම් ලැබීමට නියමිතව තිබු උසස්වීමට අදාළ තනතුරු නාමය ද, එයට අනුරූපී වැටුප සමඟ ලබාදෙන ලෙස ආබාධිත පොලිස් නිලධාරීන්ගේ නියෝජිතයින් එහිදි කාරක සභාවෙන් ඉල්ලීමක් කර තිබේ.
+
+මේ අතර විශේෂ ඒකකවල සේවය කරන නිලධාරීන් සිදුකරන විශේෂ වු රාජකාරිය සහ එහි ඇති අවදානම පදනම් කරගෙන ලබාදෙන දීමනාව විශේෂ ඒකකවල සේවය නොකරන නිලධාරීන්ට ද ලබාදෙන බවට මෙහිදි තොරතුරු අනාවරණය වී තිබේ.
+
+එලෙස වැරදි ලෙස දීමනා ලබාදෙන විශ්‍රාමික ආබාධිත නිලධාරීන් පිළිබඳව විමර්ශනය කර මසක් ඇතුළත වාර්තාවක් ලබා දෙන ලෙස ආංශික අධීක්ෂණ කාරක සභාව නිලධාරීන්ට උපදෙස් ලබාදී ඇති බව සඳහන්ය.
+
+...
+
+[Data](articles/f624cf1e.json)
+
+---
+
+### පුද්ගලයෙකු තියුණු ආයුධයකින් පහරදී ඝාතනය කෙරේ
+
+*2024-01-31 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192769) · `si`
+
+චුන්නාකම් පොලිස් වසමේ කන්දරෝඩේ ප්‍රදේශයේ දී පුද්ගලයෙකුට තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+
+මියගිය පුද්ගලයාගේ නිවසේ ඇති කරන කුකුළන් සැකකරුගේ නිවසට ඇතුළුවීම හේතුවෙන් ඇති වූ බහින්බස් වීමක් දුරදිග ගොස් ඝාතනය සිදුකර ඇතැයි සිදුකළ විමර්ශනයේ දී පොලීසියට අනාවරණය වී තිබේ.
+
+ඝාතනය සිදුකළ අවුරුදු 54ක් වූ සැකකරු අත්අඩංගුවට ගෙන ඇති අතර, මෘත ශරීරය තෙලිප්පලේ රෝහලේ තැන්පත් කර ඇති අතර, චුන්නාකම් පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/fc2dde80.json)
+
+---
 
 ### Latest people of land
 
@@ -56,23 +92,25 @@ The government plans to grant free deeds for Rs. 20 million under this program.
 
 ---
 
-### பெலியத்த கொலை சம்பவம்;மூவர் கைது
+### Murder of Beliatta; Three arrested
 
 *2024-01-31 07:42:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலியத்த-கொலை-சம்பவம்-மூவர்-கைது/175-332388) · `ta`
 
-பெலியத்தையில் ஐந்து பேர் படுகொலை செய்யப்பட்ட சம்பவத்திற்கு உதவிய மேலும் மூன்று சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+Three more suspects have been arrested for allegedly assisting the murder of five people in Beliatta.
 
-ஹூங்கம பொலிஸ் நிலைய அதிகாரிகளினால் இரண்டு சந்தேகநபர்கள் கைதுசெய்யப்பட்டதுடன், அன்றைய தினம் மாத்தறை குற்றப் புலனாய்வுப் பிரிவின் அதிகாரிகள் மேலும் ஒரு சந்தேக நபரை மாத்தறையில் வைத்து கைது செய்தனர்.
+Two suspects were arrested by the Hungama Police Station officials and the Matara Criminal Investigation Department (Matara) officials arrested another suspect in Matara.
 
-நீர்கொழும்பு, அலவ்வ மற்றும் புஸ்ஸ ஆகிய பகுதிகளை சேர்ந்த 28, 42 மற்றும் 58 வயதுடையவர்களே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+The 28, 42 and 58 -year -olds have been arrested from Negombo, Alawa and Pussa.
 
-இந்த சந்தேக நபர்கள், படுகொலை செய்வதற்கு பயன்படுத்தப்பட்ட T-56 துப்பாக்கிகளை அப்புறப்படுத்தியதற்காகவும், குற்றச் செயல்களின் போது பணப் பரிவர்த்தனைகளை மேற்கொண்டதற்காகவும் கைது செய்யப்பட்டுள்ளனர்.
+These suspects have been arrested for removing the T-56 guns used for the assassination and for cash transactions during crimes.
 
-இது தொடர்பான மேலதிக விசாரணைகளை பெலியத்தை பொலிஸார் மேற்கொண்டு வருவதுடன், கொலைகளுக்காக துப்பாக்கிகளை கொண்டு சென்ற குற்றத்திற்காக முன்னதாக இரண்டு பெண்களும் கைது செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+Further investigations are being carried out by the police and the two women have been arrested earlier for the crime of carrying guns for the murder.
 
 ◼️
 
 [Data](articles/1bc18403.json)
+
+[Extended Data](ext_articles/1bc18403.ext.json)
 
 ---
 
@@ -118,25 +156,31 @@ The shooting has been identified and he has fled the area.
 
 ---
 
-### இடியுடன் கூடிய மழை குறித்த அறிவிப்பு
+### Notice of thunderstorms
 
 *2024-01-31 07:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-குறித்த-அறிவிப்பு/175-332387) · `ta`
 
-நாட்டின் பெரும்பாலான பகுதிகளில் காலை வேளையில்  வானம் முகில் சூழ்ந்து காணப்படுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology has said that most parts of the country will be surrounded by the sky in the morning.
 
-கிழக்கு, வடமத்திய மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் முல்லைத்தீவு மற்றும்  மாத்தளை மாவட்டங்களிலும் அடிக்கடி  மழை பெய்யக்கூடும்.
+Rainfall is expected in the Eastern, North Central and Uva provinces as well as in the Mullaitivu and Matale districts.
 
-நாட்டின் ஏனைய பிரதேசங்களின் பல இடங்களில்  பிற்பகல் இரண்டு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+Rainfall or thunderstorms are likely to occur after two o'clock in the other parts of the country.
 
-மத்திய, சப்ரகமுவ மற்றும் ஊவா  மாகாணங்களின் சில இடங்களிலும் அத்துடன் அம்பாறை மாவட்டத்தின் சில இடங்களிலும்  மில்லிமீற்றர் வரையிலான ஓரளவு பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+Heavy rains are expected to occur in some parts of the Central, Sabaragamuwa and Uva provinces, as well as some parts of the Ampara district.
 
-மத்திய, சப்ரகமுவ மற்றும் ஊவா மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களிலும்  காலை வேளையில் பனிமூட்டம் காணப்படும்.
+In some parts of the Central, Sabaragamuwa and Uva provinces, as well as in the Galle and Matara districts, snow will be seen in the morning.
 
-முல்லைத்தீவு  தொடக்கம் திருகோணமலை, மட்டக்களப்பு ஊடாக ஹம்பாந்தோட்டை வரையான கரையோரத்திற்கு அப்பால் உள்ள கடல் பிராந்தியங்களின் பல இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+Rainfall or thunderstorms are likely to occur in many parts of the sea regions along the coast of Mullaitivu to Trincomalee and Batticaloa.
+
+Showers or thunderstorms are expected in the evening or night in some parts of the sea regions from Puttalam to Colombo.
+
+Winds from the northeast or east of the sea at 20 - 30 km / h in the sea regions.
 
 ...
 
 [Data](articles/6eb76036.json)
+
+[Extended Data](ext_articles/6eb76036.ext.json)
 
 ---
 
@@ -310,33 +354,51 @@ Adani Power Ltd., (APL), a part of Adani portfolio companies, recently announced
 
 ---
 
-### கத்திக் குத்தில் ஒருவர் பலி
+### 4 கிலோ கேரள கஞ்சாவுடன் ஒருவர் கைது
+
+*2024-01-31 03:15:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-கிலோ-கேரள-கஞ்சாவுடன்-ஒருவர்-கைது/175-332386) · `ta`
+
+கிளிநொச்சி விசேட அதிரடிப் படை அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் வாகனத்தைச் சோதனையிட்ட அதிரடிப் படையினர் வானத்துக்குள் இருந்த நான்கு கிலோகிராம் கேரள கஞ்சா பார்சலை கைப்பற்றியுள்ளனர்.
+
+அத்துடன், அவர்கள்  சந்தேகத்தில் ஒருவரையும் கைது செய்து கிளிநொச்சி பொலிஸாரிடம் ஒப்படைத்துள்ளனர். இந்த சம்பவம் தொடர்பில் கிளிநொச்சி பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். (a)
+
+◼️
+
+[Data](articles/7b87225a.json)
+
+---
+
+### Shout
 
 *2024-01-31 03:10:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்திக்-குத்தில்-ஒருவர்-பலி/175-332385) · `ta`
 
-யாழ்ப்பாணம் - சுன்னாகம் பகுதியில் நேற்று இருவரிடையே ஏற்பட்ட வாய்த்தர்க்கம் கொலையில் முடிவடைந்துள்ளது.
+The rhetoric between the two men ended yesterday in the Jaffna -Chunnakam area.
 
-சுன்னாகம், கந்தரோடைப் பகுதியைச் சேர்ந்த சந்திரநாதன் கோபிராஜ் (வயது 36) என்பவரே உயிரிழந்துள்ளார்.
+Chandranathan Gopiraj (age 36) from Chunnakam, Kandarodai area has died.
 
-உயிரிழந்த நபருக்கும் மற்றைய நபருக்கும் இடையில் ஏற்பட்ட வாய்த்தர்க்கம் முற்றி கத்திக் குத்து நடத்தப்பட்டது. கத்திக் குத்துக்கு இலக்காகியவர் யாழ்ப்பாணம் போதனா வைத்தியசாலைக்குக் கொண்டு செல்லப்பட்ட நிலையில் உயிரிழந்துள்ளார். (a)
+The rhetoric between the deceased and the other person. The man who was shouting at the Jaffna Teaching Hospital dies. (A)
 
 ◼️
 
 [Data](articles/346ebd45.json)
 
+[Extended Data](ext_articles/346ebd45.ext.json)
+
 ---
 
-### நிதி அறிக்கையை சமர்ப்பிக்குமாறு அறிவிப்பு
+### Notification to submit a financial statement
 
 *2024-01-31 03:06:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிதி-அறிக்கையை-சமர்ப்பிக்குமாறு-அறிவிப்பு/175-332384) · `ta`
 
-நாட்டின் அனைத்து அரச நிறுவனங்களும் எதிர்வரும் பெப்ரவரி 28 ஆம் திகதி அல்லது அதற்கு முன்னதாக தமது வருடாந்த நிதி அறிக்கையை சமர்ப்பிக்க வேண்டும் என கணக்காய்வாளர் நாயகம் தெரிவித்துள்ளார்.
+All state institutions in the country should submit their annual financial report on or before February 28, the Auditor General said.
 
-அதன் பின்னர் வருடாந்த நிதி அறிக்கையுடன் வெளியிடப்படவுள்ள கணக்காய்வாளரின் சாராம்ச அறிக்கையை மேற்படி நிறுவனங்களுக்கு விநியோகிக்கப்படவுள்ளதாக கணக்காய்வாளர் நாயகம் டபிள்யூ.பி.சி. விக்ரமரத்ன குறிப்பிட்டுள்ளார். (a)
+The Auditor General of the Auditor General WBC will then distribute the essence of the Auditor's report to the company with the annual financial report.. Vikramaratne mentioned. (A)
 
 ◼️
 
 [Data](articles/7e950ce1.json)
+
+[Extended Data](ext_articles/7e950ce1.ext.json)
 
 ---
 
@@ -389,6 +451,24 @@ In entrepreneurial contexts, innovation is generally seen as a development team 
 [Data](articles/9fb3c6bd.json)
 
 [Extended Data](ext_articles/9fb3c6bd.ext.json)
+
+---
+
+### Social Media Influencers: Transforming the fashion industry
+
+*2024-01-31 02:31:05* · [`dailyftlk`](https://www.ft.lk/columns/Social-Media-Influencers-Transforming-the-fashion-industry/4-757950) · `en`
+
+In the ever-evolving world of fashion, a seismic shift is taking place. The rise of social media influencers (SMIs) is rewriting the rules of the branded fashion retail business, reshaping the way consumers engage with iconic brands such as, Giorgio Armani, Victoria’s Secret, Gucci, and Ralph Lauren.
+
+The vast scale of this transformation can be highlighted as follows:
+
+Fashion, as one of the world’s most enduring industries, has undergone a remarkable transformation, largely fuelled by the fourth industrial revolution. Its contribution to the global gross domestic product remains substantial.
+
+Yet, in the fiercely competitive realm of branded fashion, the key to success lies in how consumers perceive a product. Traditional marketing practices have given way to digital strategies, with SMIs taking centre stage in delivering brand messages and cultivating customer loyalty. This is further underscored by world trends on social media usage.
+
+...
+
+[Data](articles/569d008d.json)
 
 ---
 
@@ -1730,6 +1810,22 @@ Earlier today, the SJB held a protest march against the conduct of the governmen
 
 ---
 
+### நிகழ்லை காப்புச் சட்டத்தில் உயர் நீதிமன்றத்தின் திருத்தங்கள் உள்வாங்கப்பட்டிருப்பதை சட்டமா அதிபர் உறுதிப்படுத்தியுள்ளார்! - ஆஷு மாரசிங்க
+
+*2024-01-30 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175172) · `ta`
+
+நிகழ்நிலை காப்புச் சட்டமூலத்துக்கு உயர் நீதிமன்றம் வழங்கிய திருத்தங்கள் உள்வாங்கப்பட்டுள்ளன. சட்டமா அதிபர் உள்ளிட்ட அதிகாரிகள் அதனை உறுதிப்படுத்தியுள்ளனர் என ஐக்கிய தேசிய கட்சி முன்னாள் பாராளுமன்ற  உறுப்பினர ஆஷு மாரசிங்க தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (30)  இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+பாராளுமன்றத்தில் கடந்த வாரம் நிறைவேற்றப்பட்ட நிகழ்நிலை காப்புச்ட்டமூலத்துக்கு உயர் நீதிமன்றம் சில திருத்தங்களை மேற்கொள்ளுமாறு தெரிவித்திருந்தது. அந்த திருத்தங்கள் அனைத்தும் அன்று சட்டமூலம் நிறைவேற்றப்பட்ட  பின்னர்  திருத்தங்கள் மேற்கொள்ளப்படும்போது உள்வாங்கப்பட்டிருந்தன என்பதை பொறுப்புடன் தெரிவிக்கிறேன்.
+
+...
+
+[Data](articles/98c33317.json)
+
+---
+
 ### The struggle of the two families that will continue for the 4th day without solutions in Keppapila!
 
 *2024-01-30 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175173) · `ta`
@@ -1811,6 +1907,22 @@ There was a net foreign outflow of 82 million. (Colombo/Jan30/2024).
 [Data](articles/593b373c.json)
 
 [Extended Data](ext_articles/593b373c.ext.json)
+
+---
+
+### திட்டங்களை உறுதியாக அமுல்படுத்தாவிட்டால் தற்போதைய முன்னேற்றங்கள் தோல்வியடையும் - ஹர்ஷ டி சில்வா
+
+*2024-01-30 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175171) · `ta`
+
+சர்வதேச நாணய நிதியத்தின் பரிந்துரைகளை தொடர்ந்து நாட்டின் 'நிதி ஒழுக்கம்' ஸ்திரப்படுத்தப்பட்டுள்ளது. நிதி ஒழுக்கம் முறையற்ற வகையில் செயற்படுத்தப்பட்டதால் தான் நாடு வங்குரோத்து நிலையடைந்தது. பாரிய போராட்டத்துக்கு பின்னர் பொருளாதாரம் சமனிலையடைந்துள்ளது.
+
+நிலையான  பொருளாதார ஸ்திரப்படுத்தலுக்கான திட்டங்களை உறுதியாக அமுல்படுத்தாவிட்டால் தற்போதைய முன்னேற்றங்கள் தோல்வியடையும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+
+பணவீக்கம் சாதாரண பிரஜையின் மிகப்பெரிய எதிரி.பணவீக்கம் 70 சதவீதத்தை அடைந்தவுடன் மக்களின் சொத்துக்களின் பெறுமதி சடுதியாக வீழ்ச்சியடைந்தது. எதிர்வரும் மூன்றாண்டுகளுக்கு பணவீக்கத்தை 05 வீதமாக நிலைப்படுத்திக் கொள்ள மத்திய வங்கியும்,அரசாங்கமும் கொள்கை ரீதியில் இணக்கப்பாட்டு ஒப்பந்தம் செய்துள்ளது எனவும் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/24fc0954.json)
 
 ---
 
@@ -1935,121 +2047,5 @@ The protests come as the measures are having and effect and the central bank has
 [Data](articles/44a24e1a.json)
 
 [Extended Data](ext_articles/44a24e1a.ext.json)
-
----
-
-### The injured during the United People's Power rally
-
-*2024-01-30 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175170) · `ta`
-
-A person who was injured during a United People's Power rally in Colombo today (30) has been admitted to the Colombo National Hospital.
-
-It is known that the police used water and tears near the Colombo Public Library to dissolve the demonstration.
-
-◼️
-
-[Data](articles/81a08ef9.json)
-
-[Extended Data](ext_articles/81a08ef9.ext.json)
-
----
-
-### A greetings to young people who dream of japanese
-
-*2024-01-30 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192749) · `si`
-
-Social empowerment of State Minister Pasadawal says that the necessary steps will be taken to empower 300,000 of the revenue beneficiaries this year.
-
-He added that the beneficiaries are ready to send Japanese language proficiency and send them to foreign employment.
-
-He was speaking at a press conference held at the Presidential Media Center.
-
-◼️
-
-[Data](articles/f544d980.json)
-
-[Extended Data](ext_articles/f544d980.ext.json)
-
----
-
-### Person injured during SJB protest in Colombo hospitalized
-
-*2024-01-30 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96857/person-injured-during-sjb-protest-in-colombo-hospitalized-) · `en`
-
-An individual has been admitted to the Colombo National Hospital after reportedly sustaining injuries during the protest march staged by the Samagi Jana Balawegaya (SJB) on Tuesday (30 Jan.).
-
-According to the hospital’s Director of Accident Services, the person had sustained injuries when police had fired tear gas and water cannons near the Public Library in Colombo, in an attempt to disperse the SJB protesters.
-
-Attended by Opposition Leader Sajith Premadasa, SJB MPs and party supporters, the agitation was organized by the main opposition in protest of the conduct of the government.
-
-Earlier today, three court orders were issued ahead of the SJB’s protest march, barring the demonstrators from entering certain locations in Colombo including the Finance Ministry, the Presidential Secretariat, the President’s House and Galle Face Green.
-
-...
-
-[Data](articles/9d5641ba.json)
-
-[Extended Data](ext_articles/9d5641ba.ext.json)
-
----
-
-### Shooting in London
-
-*2024-01-30 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192748) · `si`
-
-South London Police have taken steps to shoot a person who was forcible for a person with a device such as a bows.
-
-International media says the person who died of the shooting was about 30 years old.
-
-A police team had gone to the scene following a call for the Police Emergency Service that an armed person in South London is trying to enter the armed person in South London.
-
-The man had threatened the victims of violence.
-
-Accordingly, the suspect had gone to the house and the police had been shot.
-
-◼️
-
-[Data](articles/0173eb11.json)
-
-[Extended Data](ext_articles/0173eb11.ext.json)
-
----
-
-### One person was injured during protest
-
-*2024-01-30 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192747) · `si`
-
-A person who was injured have been admitted to the Colombo National Hospital during the protest march in Colombo.
-
-Police and tear gas were attacked by the police near the Colombo Public Library to dissolve the protest march.
-
-◼️
-
-[Data](articles/eacd01e3.json)
-
-[Extended Data](ext_articles/eacd01e3.ext.json)
-
----
-
-### Do not allow the Consumer Safety Act to not be admitted to the Amendments of the Court - Media organizations and trade unions jointly letter to the Speaker
-
-*2024-01-30 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/175167) · `ta`
-
-Media organizations and trade unions have jointly appealed to the Speaker not to grant the Speaker's approval to the Bill until the guidelines of the orders sent to the Speaker by the High Court are confirmed.
-
-As civil society activists, we think that we should completely reject the Foundation Protection Bill, which we think we can be a major danger to expression.
-
-We, who belong to the sovereignty of Sri Lanka, on January 24, ignore the guidelines of the court without any discussion with those involved in this issue and express strong opposition to the passage of Parliament.
-
-Opposition MPs have pointed out that the legislation was passed in Parliament without the proper recruitment of the court guidelines.
-
-The court had given guidance following the filing of more than 45 basic violation petitions against the copy of the Bill.
-
-If the opposition parties are correct, it is the act of deducting the sovereignty of the people and thereby considering the contempt of court.
-
-...
-
-[Data](articles/64b33dc9.json)
-
-[Extended Data](ext_articles/64b33dc9.ext.json)
 
 ---

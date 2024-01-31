@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 20:17:15**
+As of **2024-01-31 20:32:50**
 
 ## Newspaper Stats
 
-*Scraped **3,907** Articles*
+*Scraped **3,908** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 347
 virakesarilk | 440
 adaderanasinhalalk | 449
 adaderanalk | 493
-tamilmirrorlk | 500
+tamilmirrorlk | 501
 dailymirrorlk | 529
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,900 (99.8%) of 3,907 articles have been extended.
+3,907 (100.0%) of 3,908 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### மின்சக்தி அமைச்சரின் விசேட செய்தி
+
+*2024-01-31 19:54:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சக்தி-அமைச்சரின்-விசேட-செய்தி/175-332440) · `ta`
+
+மின்சார பாவனையாளர்களுக்கு எதிர்காலத்தில் இலகுவாக பணம் செலுத்தும் முறை அறிமுகப்படுத்தப்படும் என மின்சாரம் மற்றும் எரிசக்தி அமைச்சர் கஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+
+இதேவேளை, மின்சார சபை மற்றும் இலங்கை பெற்றோலிய கூட்டுத்தாபன அதிகாரிகளுடன் நேற்று இடம்பெற்ற கலந்துரையாடலில் இது தொடர்பில் அவதானம் செலுத்தியிருந்தனர். R
+
+◼️
+
+[Data](articles/f9f2c497.json)
+
+---
 
 ### Foundation stone laid for construction of Ashoka Pillar at Sri Lanka’s Rajaguru Sri Subuthi Temple
 
@@ -48,6 +62,8 @@ The event marked a momentous occasion in the cultural and spiritual ties between
 
 [Data](articles/63738d61.json)
 
+[Extended Data](ext_articles/63738d61.ext.json)
+
 ---
 
 ### Sri Lanka’s Pekoe Trail among Nat Geo’s top 20 travel experiences for 2024
@@ -61,6 +77,8 @@ The National Geographic recently announced their picks for ‘BEST OF THE WORLD 
 ...
 
 [Data](articles/1653280d.json)
+
+[Extended Data](ext_articles/1653280d.ext.json)
 
 ---
 
@@ -142,6 +160,8 @@ The arrested suspects will be produced before the Aluthkade Magistrate’s Court
 
 [Data](articles/3c40f06d.json)
 
+[Extended Data](ext_articles/3c40f06d.ext.json)
+
 ---
 
 ### OSB sends ‘negative signal’ in Sri Lanka’s path towards reform and recovery – US envoy
@@ -159,6 +179,8 @@ She admitted that while this process inevitably makes for slower legislation, it
 ...
 
 [Data](articles/1308f6b9.json)
+
+[Extended Data](ext_articles/1308f6b9.ext.json)
 
 ---
 
@@ -180,6 +202,8 @@ The meeting also focused on the power generation plans for this year, tariffs, c
 
 [Data](articles/fa52e49a.json)
 
+[Extended Data](ext_articles/fa52e49a.ext.json)
+
 ---
 
 ### President reveals plans to establish research institute for Theravada Buddhism
@@ -195,6 +219,8 @@ The President underscored Sri Lanka’s pivotal role as the heart of Theravada B
 ...
 
 [Data](articles/b9033bcb.json)
+
+[Extended Data](ext_articles/b9033bcb.ext.json)
 
 ---
 
@@ -235,6 +261,8 @@ Meanwhile, Additional Secretary to the Ministry of Health Dr. Saman Ratnakaye wa
 ◼️
 
 [Data](articles/1977e123.json)
+
+[Extended Data](ext_articles/1977e123.ext.json)
 
 ---
 
@@ -2023,19 +2051,5 @@ The injured mother and daughter were taken to a nearby Nanattan area hospital.
 [Data](articles/886d29b2.json)
 
 [Extended Data](ext_articles/886d29b2.ext.json)
-
----
-
-### Sanath Nishantha's ministry appointed Shahendra
-
-*2024-01-31 13:47:17* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්තගේ-අමාත්‍යධුරය-ශෂේන්ද්‍රට/11-407819) · `si`
-
-Shashendra Rajapaksa has been sworn in as Ranil Wickremesinghe as the State Minister of Irrigation and Water Resources Management. Shashindra Rajapaksa has previously served as the State Minister of Irrigation and the late Sanath Nishantha, the Minister of Water Resources Management, the Minister of Water Resources Management, has been owned by Hon. Shashindra Rajapaksa.
-
-◼️
-
-[Data](articles/052a6519.json)
-
-[Extended Data](ext_articles/052a6519.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 11:02:19**
+As of **2024-01-31 11:17:25**
 
 ## Newspaper Stats
 
-*Scraped **3,705** Articles*
+*Scraped **3,706** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 334
 virakesarilk | 408
 adaderanasinhalalk | 416
 tamilmirrorlk | 470
-adaderanalk | 474
+adaderanalk | 475
 dailymirrorlk | 502
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,705 (100.0%) of 3,705 articles have been extended.
+3,705 (100.0%) of 3,706 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### Politicians should also have a retirement age – Roshan Ranasinghe
+
+*2024-01-31 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/96876/politicians-should-also-have-a-retirement-age-roshan-ranasinghe-) · `en`
+
+Former Sports Minister Roshan Ranasinghe has revealed that he intends to step down from politics before the age of 65, and thereby set an example to the country.
+
+Speaking at a public gathering in Nugegoda, the Parliamentarian emphasised that the retirement age limit imposed within the public sector must also be applicable in politics.
+
+“As evidenced in our history, when a governor is around 80 years of age, does he have sound mind to carry out his duties? We will set my political career as an example. I am ready to retire before the age of 65”, Ranasinghe said.
+
+◼️
+
+[Data](articles/ddd95783.json)
+
+---
 
 ### China’s threat to India would come from Sri Lanka, warns Vaiko
 
@@ -2023,29 +2039,5 @@ Another armed group, Palestinian Islamic Jihad, said two of those killed were it
 [Data](articles/2674df0a.json)
 
 [Extended Data](ext_articles/2674df0a.ext.json)
-
----
-
-### Sri Lanka Telecom, chairman, directors resign
-
-*2024-01-30 17:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-telecom-chairman-directors-resign-149223/) · `en`
-
-ECONOMYNEXT – Sri Lanka Telecom Chairman Reyaz Mihular and three have resigned, the company said in stock exchange filings without giving reasons.
-
-Lalith Seneviratne, Ranjith Rubasinghe have resigned with effect from January 29 and K A Vimalenthirarajah from January 30, the filing said.
-
-Sri Lanka’s Daily FT newspaper reported earlier in the week that Mihular and other directors were asked to resign by the government which is the controlling shareholder.
-
-The report said Mihular was asked to withdraw a case filed by Mobitel, against a merger of Airtel and Dialog, during a meeting with President Ranil Wickremesinghe.
-
-Mihular had said it was a board decision which was based on the interests of the company and the request will be conveyed
-
-SLT confirmed to the Colombo Stock Exchange that the firm had been copied a letter from the Secretary to the President to the Treasury Secretary on reconstituting its board.
-
-...
-
-[Data](articles/96f7b6e2.json)
-
-[Extended Data](ext_articles/96f7b6e2.ext.json)
 
 ---

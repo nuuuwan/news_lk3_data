@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 16:33:00**
+As of **2024-01-31 16:48:01**
 
 ## Newspaper Stats
 
-*Scraped **3,825** Articles*
+*Scraped **3,826** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 235
 dailyftlk | 243
 adalk | 343
 virakesarilk | 431
-adaderanasinhalalk | 434
+adaderanasinhalalk | 435
 adaderanalk | 481
 tamilmirrorlk | 492
 dailymirrorlk | 518
@@ -26,45 +26,69 @@ dailymirrorlk | 518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,819 (99.8%) of 3,825 articles have been extended.
+3,826 (100.0%) of 3,826 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### ගිහි ඇඳුමින් ට්‍රිප් ගිය ලොකු හාමුදුරුවන්ට විරෝධයක්
+### Show if hitting - Iran
+
+*2024-01-31 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192795) · `si`
+
+Iran warns that the US will respond to threats.
+
+Heran's Revolutionary Security Forces, Hoseyan Salami said.
+
+Jordani - 3 soldiers were killed in a drone attack on a US military base in Syria and President Joe Biden said that Iran was involved in Iran.
+
+"We hear the threats of US officials. We'd like to say they already checked us. We know each other well. No threat to any of those threats will not be discarded ... ".
+
+◼️
+
+[Data](articles/c7fa9b4c.json)
+
+[Extended Data](ext_articles/c7fa9b4c.ext.json)
+
+---
+
+### Protest against big monk who tripped lay
 
 *2024-01-31 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192794) · `si`
 
-ගිහි ඇඳුමින් සැරසී තවත් කාන්තාවන් තිදෙනෙකු සමග විනෝද චාරිකාවක නිරත වූ බව පවසමින් වැලිපැන්න ප්‍රදේශයේ විහාරස්ථානයක විහාරාධිපති හිමියන්ට ප්‍රදේශවාසීන්ගෙන් දැඩි විරෝධයක් එල්ලවී තිබේ.
+Residents of the Welipenna area have objected to the Chief Incumbent of the Welipenna area claiming that there was a picnic with three other women.
 
-ඇතිවූ උණුසුම් තත්ත්වය පාලනය කිරීම සඳහා වැලිපැන්න පොලිස් ස්ථානයේ නිලධාරීන් පිරිසක් එම විහාරය වෙත ගොස් ඇති අතර අනතුරුව සිද්ධියට සම්බන්ධ බවට සඳහන් විහාරාධිපති හිමිනම එම විහාරයෙන් පිටව ගොස් තිබේ.
+The Welipenna police officers had gone to the temple to control the hot situation and then the Chief Incumbent that is involved in the incident has left the temple.
 
-අදාළ හිමිනම පසුගිය දිනක කතරගම, ලුණුගම්වෙහෙර සහ මහනුවර ප්‍රදේශවල මෙලෙස ගිහි ඇඳුමින් සැරසී චාරිකාවක නිරතව ඇති බව ප්‍රදේශවාසීන් එහිදී චෝදනා කර ඇත.
+Residents have complained that the monk had visited Kataragama, Lunugamvehera and Kandy areas.
 
-එම විහාරාධිපති හිමි ලුණුගම්වෙහෙර ප්‍රදේශයේදී කාන්තාවන් තිදෙනා සමග ගිහි ඇඳුමින් සැරසී සිටින අයුරු දැක්වෙන ඡායාරූපයක් කිසියම් අයෙකු විසින් සමාජ මාධ්‍ය ගිණුමට එක්කිරීමත් සමග ප්‍රදේශවාසීන් විශාල පිරිසක් මෙලෙස විහාරය වෙත පැමිණ විරෝධය පළකර තිබේ.
+A photo of the temple in Lunugamvehera area in the Lunugamvehera area with the three women had come to the Viharaya and protesting the temple to the social media account.
 
-මේ අතර එම විහාරාධිපති හිමි විසින් ද වැලිපැන්න පොලීසිය වෙත පැමිණිල්ලක් සිදුකරමින් පවසා ඇත්තේ තමන් සමග අමනාප අයෙකු විසින් මෙම සිදුවීම සඳහා මුල්වී ඇති බවය.
+Meanwhile, the Chief Incumbent Thera has lodged a complaint with the Welipenna Police and said that this incident had been rooted by a person who resent them.
 
 ◼️
 
 [Data](articles/907d5885.json)
 
+[Extended Data](ext_articles/907d5885.ext.json)
+
 ---
 
-### පනත් කෙටුම්පත් දෙකක් බලාත්මක කෙරේ
+### Two bills are enforced
 
 *2024-01-31 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192793) · `si`
 
-පසුගියදා පාර්ලිමේන්තුව විසින් සම්මත කරනු ලැබූ පනත් කෙටුම්පත් ද්විත්වයක් සඳහා අද (31) කථානායක මහින්ද යාපා අබේවර්ධන මහතා සිය සහතිකය සටහන් කළේය.
+Speaker Mahinda Yapa Abeywardena recorded his certificate today (31) for two bills passed by Parliament.
 
-සමථකරණය තුළින් ඇතිවන්නා වූ අන්තර්ජාතික නිරවුල්කරණ ගිවිසුම් පිළිගැනීමේ සහ බලාත්මක කිරීම පනත් කෙටුම්පත සහ නොතාරිස් (සංශෝධන) පනත් කෙටුම්පත සඳහා කථානායකවරයාගේ සහතිකය හිමිවිය.
+The acceptance and enforcement and enforcement of international settlement agreements through the Mediation Bill and the Notary (Amendment) was the charge of the Speaker for the Speaker.
 
-ඒ අනුව, උක්ත පනත් කෙටුම්පත් 2024 අංක 5 දරන සමථකරණය තුළින් ඇතිවන්නා වූ අන්තර්ජාතික නිරවුල්කරණ ගිවිසුම් පිළිගැනීමේ සහ බලාත්මක කිරීම පනත් කෙටුම්පත සහ  2024 අංක 6 දරන නොතාරිස් (සංශෝධන) පනත ලෙස බලාත්මක වේ.
+Accordingly, the UPFA welcome and enforcement of International Settlement Agreements on the Mediation No. 5 of 2024.
 
 ◼️
 
 [Data](articles/e0726ac0.json)
+
+[Extended Data](ext_articles/e0726ac0.ext.json)
 
 ---
 
@@ -98,19 +122,21 @@ In addition, Poland said Poland had said that 4 US $ 3.75 billion to buy tanks a
 
 ---
 
-### மரக்கறிக்கு எதிராக எகிறும் பழங்களின் விலை
+### Prices of fruit
 
 *2024-01-31 15:39:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கறிக்கு-எதிராக-எகிறும்-பழங்களின்-விலை/76-332422) · `ta`
 
-நாட்டில் கடந்த சில நாட்களாகவே மரக்கறிகளின் விலை அதிகரித்து காணப்படுகின்றது . மரக்கறி விலைக்கு எதிராக நுவரெலியாவில் அனைத்து வகையான பழங்களின் விலையும் உயர்ந்துள்ளதாக பழங்கள் மொத்த வியாபாரிகள், சில்லறை விற்பனையாளர்கள் மற்றும் நுகர்வோர்கள் தெரிவிக்கின்றனர்.
+The price of vegetables has increased over the past few days in the country. Fruits, retailers and consumers report that all kinds of fruit prices in Nuwara Eliya have risen against vegetable prices.
 
-மேலும், தற்போது வரி அதிகரிப்பால் உற்பத்திச் செலவு அதிகரிப்பால் பழங்கள் விலையில் பெரிய அளவில் அதிகரிக்கவில்லை  எனவும் கடந்த மாதங்களில் பெய்த மழை காரணமாகவும் , இறக்குமதிச் செலவு உயர்ந்துள்ளதால் பழங்களின் விலை அதிகரித்துள்ளதாகப் பழ விற்பனையாளர்கள் தெரிவிக்கின்றனர்.
+In addition, the cost of fruit has not increased the cost of fruit due to the increase in the cost of production due to the increase in tax, and the prices of fruit have increased due to the increase in the cost of imports over the past months.
 
-அதன் படி நெல்லி 1 கிலோ கிராம் விலை 1200 ரூபாவாகவும், சிவப்பு திராட்சை 1 கிலோ கிராம் விலை 2500 ரூபாவாகவும், 1 கிலோ கிராம் அன்னாசிப்பழத்தின் விலை 700 ரூபாவாகவும் அதிகரித்துள்ளது அத்துடன் ஆப்பிள், ஆரஞ்சு உள்ளிட்ட ஏனைய பழங்களின் விலையும் அதிகரித்துக் காணப்படுகின்றன.
+Accordingly, the price of 1 kg of Nelly has increased at 1200 rupees, 1 kg of red grapes at Rs.
 
 ◼️
 
 [Data](articles/6ae43fa4.json)
+
+[Extended Data](ext_articles/6ae43fa4.ext.json)
 
 ---
 
@@ -356,19 +382,23 @@ It is noteworthy that Shasheendra Rajapaksa has now been given the post of Minis
 
 ---
 
-### මහින්දට ඉල්ලා අස්වෙන්න බලපෑම් කළ අය නාමල් හෙළි කරයි
+### Namal reveals who pressured Mahinda resignation
 
 *2024-01-31 14:38:55* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දට-ඉල්ලා-අස්වෙන්න-බලපෑම්-කළ-අය-නාමල්-හෙළි-කරයි/11-407821) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණත් අලුතින් සිතීමට කාලය එළඹ ඇතිබව ශ්‍රීලංකා පොදුජන පෙරමුණේ හම්බන්තොට දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ පවසනවා.ඔහු මේ බව ප්‍රකාශ කලේ ශ්‍රීලංකා පොදුජන පෙරමුණේ පක්ෂ නායකයින් හමුවීමෙන් පසු
+Namal Rajapaksa, MP, MP Namal Rajapaksa said that the Sri Lanka Cran's Front has come to a newest thinking.
 
-මාධ්‍යවේදීන් ඇසූ ප්‍රශ්නවලට පිලිතුරු දෙමින්.මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ නාමල් රාජපක්ෂ
+Retaining the questions hearing journalists today, Namal Rajapaksa said
 
-"ශ්‍රී ලංකා පොදු ජන පෙරමුණ සමග සන්ධාන ගත වුන පක්ෂ විශාල ප්‍රමාණයක් සිටිනවා. ඒ අතරින් පක්ෂ කිහිපයක් අද නෙළුම් මාවත පොදු ජන පෙරමුණ ප්‍රධාන කාර්යාලයේ දී මුණ  ගැහුණා. ඉදිරියේ දී අපට මුහුණ දෙන්න වෙන අභියෝග සහ ඉදිරියේ දී පැවැත්වෙන මැතිවරණ වලට මුහුණ දිය යුතු ආකාරය පිලිබඳව අපි සාකච්ඡා කලා.
+"There are a large number of alliances with the Sri Lanka Public Front. Several parties met Nelum Mawatha, General Filling Head office. We discussed the challenges that we face in the future and how to face the future.
+
+We also made it possible for the people of the country as a party to face and economic problems and as a party and the opinion of how we use. And we also discussed how the general future front and the fried trade union movement should be modernized. We also discussed the modernization of the trade unions in the tenure of the Ten Commemoration and in the future.
 
 ...
 
 [Data](articles/1371fd45.json)
+
+[Extended Data](ext_articles/1371fd45.ext.json)
 
 ---
 
@@ -679,6 +709,8 @@ The outcome of the incident has been communicated to the Cinnamon management, ac
 ...
 
 [Data](articles/9c1e9e31.json)
+
+[Extended Data](ext_articles/9c1e9e31.ext.json)
 
 ---
 
@@ -1712,6 +1744,8 @@ The demonstration took place in front of the Viharamadevi Park and the police, i
 
 [Data](articles/bdc2ca94.json)
 
+[Extended Data](ext_articles/bdc2ca94.ext.json)
+
 ---
 
 ### Daily Mirror News Editor injured during SJB protest
@@ -1991,23 +2025,5 @@ The overall oil and gas throughput handled by the port in 2023 was 918,000 metri
 [Data](articles/b313bd69.json)
 
 [Extended Data](ext_articles/b313bd69.ext.json)
-
----
-
-### China’s threat to India would come from Sri Lanka, warns Vaiko
-
-*2024-01-31 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96875/chinas-threat-to-india-would-come-from-sri-lanka-warns-vaiko) · `en`
-
-India’s MDMK general secretary and Rajya Sabha member Vaiko on Tuesday urged the Indian government to handle its relationship with Sri Lanka, considering the threat posed by China’s entry into the island nation.
-
-Addressing an all-party meeting chaired by Defence Minister Rajnath Singh in New Delhi, Mr. Vaiko said China had constructed a port in Hambantota and the Indian government should realise that the threat to the country from China would emerge first from the south.
-
-A statement from the party said that he also drew Mr. Rajnath Singh’s attention to the alleged attack on Tamil fishermen by the Sri Lankan Navy, claiming that “over 800 fishermen had been killed so far” and there was no protection to their lives and belongings. He also used the occasion to launch an attack on Tamil Nadu Governor R.N. Ravi, accusing him of “blabbering on one issue or another.”
-
-...
-
-[Data](articles/fadbba18.json)
-
-[Extended Data](ext_articles/fadbba18.ext.json)
 
 ---

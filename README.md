@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 11:32:54**
+As of **2024-01-31 11:51:44**
 
 ## Newspaper Stats
 
-*Scraped **3,706** Articles*
+*Scraped **3,714** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 47
 bbccomsinhala | 61
-dbsjeyarajcom | 127
+dbsjeyarajcom | 129
 economynextcom | 200
 islandlk | 207
 newsfirstlk | 216
 dailyftlk | 243
 adalk | 334
-virakesarilk | 408
+virakesarilk | 414
 adaderanasinhalalk | 416
 tamilmirrorlk | 470
 adaderanalk | 475
@@ -26,11 +26,61 @@ dailymirrorlk | 502
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,706 (100.0%) of 3,706 articles have been extended.
+3,706 (99.8%) of 3,714 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### ஐக்கிய மக்கள் சக்தியின் ஆர்ப்பாட்டத்தில் பொலிஸார் மீது கல் வீச்சுத்  தாக்குதல் : மூவர் காயம்!
+
+*2024-01-31 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175208) · `ta`
+
+நேற்று செவ்வாய்க்கிழமை (30)  அரசாங்கத்துக்கு எதிரான ஐக்கிய மக்கள் சக்தியின்  ஆர்ப்பாட்ட பேரணியின்போது,  ஆர்ப்பாட்டக்காரர்கள் மேற்கொண்ட கல் வீச்சு காரணமாக மூன்று பொலிஸ் சார்ஜன்ட்கள் காயமடைந்து கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+
+கொள்ளுப்பிட்டி, கொழும்பு மாநகர போக்குவரத்து பிரிவு மற்றும் எஹலியகொட ஆகிய இடங்களில் பணிபுரியும் மூன்று சார்ஜன்ட்களே காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இதேவேளை, கொழும்பு விகாரமதேவ பூங்காவுக்கு  அருகில் இடம்பெற்ற ஆர்ப்பாட்ட பேரணியின் மீது பொலிஸார் நீர் மற்றும் கண்ணீர் புகைப் பிரயோகங்களை  மேற்கொண்டபோதே   பொலிஸார் மீது கற்களை வீசி தாக்குதல் நடத்தியதில் மூன்று பொலிஸ் உத்தியோகத்தர்கள் காயமடைந்துள்ளனர் என்றும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/2b0c73c0.json)
+
+---
+
+### எதிர்காலத்தில் சஜித் கோட்டாவுடன் இணைந்து  செயற்படக்கூடும் - சரத்பொன்சேகா தெரிவிப்பு - தயாரத்நாயக்கவின் ஆலோசனைகளை பெறுவதற்கு கடும் எதிர்ப்பு
+
+*2024-01-31 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/175206) · `ta`
+
+முன்னாள் இராணுவதளபதி ஜெனரல் தயாரத்நாயக்காவின் ஆலோசனைகளை பெறுவதற்கு ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாச தீர்மானித்துள்ளதை கடுமையா விமர்சித்துள்ள நாடாளுமன்ற உறுப்பினரும் முன்னாள் இராணுவதளபதியுமான சரத்பொன்சேகா எதிர்காலத்தில் சஜித்பிரேமதாச கோட்டாபய ராஜபக்சவின் ஆதரவையும் பெறலாம் என தெரிவித்துள்ளார்.
+
+முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்சவின் காலத்தில் நான் கைதுசெய்யப்பட்டதற்கு முக்கிய காரணமாகஇருந்தவர்களில் ஒருவர் தயா ரத்நாயக்க என சரத்பொன்சேகா  தெரிவித்துள்ளார்.
+
+தயாரத்நாயக்க முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்சவின் நெருங்கிய விசுவாசி அவரின் நம்பிக்கைக்குரியவர் என தெரிவித்துள்ள சரத்பொன்சேகா எதிர்காலத்தில் ஐக்கிய மக்கள் சக்தி முன்னாள் ஜனாதிபதியுடன் இணைந்து செயற்படலாம் எனவும் விமர்சித்துள்ளார்.
+
+◼️
+
+[Data](articles/b468fc3e.json)
+
+---
+
+### Saudi Arabia, which has emerged as a major role in global affairs
+
+*2024-01-31 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175180) · `ta`
+
+It is well known that Saudi Arabia has emerged as a major diplomatic role in the World Politics Forum since the beginning of 2023, which has been leading political alignment and leading the global summit and major events.
+
+This significant high standard of international diplomatic issues has not only a testament to the growing global political influence but also a new revival in its foreign policies and approaches.
+
+Saudi Arabia has been rapidly committed to dedicating regional and international politics, economic and other issues that have emerged in the past years, and the politics of the politics of managing international crises and launching its interest in various kinds of global issues.
+
+...
+
+[Data](articles/0f4665ba.json)
+
+[Extended Data](ext_articles/0f4665ba.ext.json)
+
+---
 
 ### Politicians should also have a retirement age – Roshan Ranasinghe
 
@@ -65,6 +115,26 @@ A statement from the party said that he also drew Mr. Rajnath Singh’s attentio
 [Data](articles/fadbba18.json)
 
 [Extended Data](ext_articles/fadbba18.ext.json)
+
+---
+
+### கோழி வளர்ப்பு கொலையில் நிறைவேறிய சோகம் - யாழில் சம்பவம்
+
+*2024-01-31 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175199) · `ta`
+
+யாழ்ப்பாணத்தில், உறவினர்களான அயலவர்கள் இடையில் கோழி வளர்ப்பினால் ஏற்பட்ட தர்க்கம் கொலையில் முடிவடைந்துள்ளது.
+
+யாழ்ப்பாணம் - சுன்னாகம் பகுதியில் நேற்று செவ்வாய்க்கிழமை (30) இருவரிடையே ஏற்பட்ட வாய்த்தர்க்கம் கொலையில் முடிவடைந்துள்ளது.
+
+சுன்னாகம் கந்தரோடைப் பகுதியைச் சேர்ந்த சந்திரநாதன் கோபிராஜ் (வயது 36) என்பவரே உயிரிழந்துள்ளார்.
+
+சம்பவம் தொடர்பில் சுன்னாக பொலிஸார் விசாரணைகளை முன்னெடுத்த போது, அயலவர்களான உறவினர்கள் இருவருக்கும் இடையில் கோழி வளர்ப்பினால் பிரச்சினைகள் நிலவி வந்துள்ளன.
+
+அதில் கத்திக்குத்துக்கு இலக்கான நபர் உயிரிழந்ததை அடுத்து, கொலை சந்தேகநபரான 57 வயதுடைய அயலவர் கைது செய்யப்பட்டள்ளார்.
+
+◼️
+
+[Data](articles/55d01157.json)
 
 ---
 
@@ -232,6 +302,22 @@ Following the fatal collision, three persons including State Minister Nishantha 
 
 ---
 
+### அமைச்சர் டக்ளஸை சந்தித்தார் சாந்தனின் தாயார்
+
+*2024-01-31 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175197) · `ta`
+
+ராஜீவ் கொலை வழக்கில் கைது செய்யப்பட்டு விடுதலையாகிய சாந்தன் நாட்டிற்கு அழைத்து வருவது தொடர்பாக சம்மந்தப்பட்ட தரப்பினருடன் கலந்துரையாடி ஒரு சில தினங்களுக்குள்  பதிலை பெற்றுத் தருவதாக அமைச்சர் டக்ளஸ் தேவானந்தா உறுதியளித்துள்ளார்.
+
+குறித்த வழக்கின் தீர்ப்பில் இருந்து விடுதலை செய்யப்பட்ட சாந்தன் சுகயீனம் காலணமாக வைத்தியசாலையில் அனுமதிக்ப்பட்டுள்ள நிலையில், அவரின் தாய் மற்றும் சகோதர்கள் அமைச்சர் டக்ளஸ் தேவானந்தாவை நேற்று செவ்வாய்க்கிழமை (30) சந்தித்து, சாந்தன் நாட்டிற்கு வருவதற்கான ஏற்பாடுகளை செய்து தருமாறு கேட்டுக் கொண்டனர்.
+
+கடந்த நவம்பர் 27 ஆம் திகதி புலிச் சின்னம் அணிந்திருந்த குற்றச்சாட்டில் கைது செய்யப்பட்ட இளைஞன் அமைச்சர் டக்ளஸ் தேவானந்தாவின் முயற்சியினால் விடுதலை செய்யப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/6ad98475.json)
+
+---
+
 ### Firing in Puttalam;One injury
 
 *2024-01-31 09:23:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளத்தில்-துப்பாக்கிச்சூடு-ஒருவர்-காயம்/175-332389) · `ta`
@@ -251,6 +337,20 @@ Further investigations to arrest the suspect are being carried out by the Karuwa
 [Data](articles/53eead61.json)
 
 [Extended Data](ext_articles/53eead61.ext.json)
+
+---
+
+### சனத் நிஷாந்தவின் பாராளுமன்ற உறுப்பினர் வெற்றிடத்திற்கு ஜகத் பிரியங்கர ; வெளியானது வர்த்தமானி
+
+*2024-01-31 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175196) · `ta`
+
+இராஜாங்க அமைச்சர் சனத் நிஷாந்த உயிரிழந்தமையினால் வெற்றிடமாகியுள்ள புத்தளம் மாவட்டத்திற்கான ஶ்ரீ லங்கா பொதுஜன பெரமுன பாராளுமன்ற உறுப்பினர் பதவிக்கு எல்.கே ஜகத் பிரியங்கரவின் பெயரை அறிவித்து வர்த்தமானி வெளியீடப்பட்டுள்ளது.
+
+கடந்த பொதுத்தேர்தலில் புத்தளம் மாவட்டத்திற்கான விருப்பு வாக்கு பட்டியலின் பிரகாரம் ஜகத் பிரியங்கரவின் பெயர் முன்வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/6be18e48.json)
 
 ---
 
@@ -285,6 +385,18 @@ The suspect is a 30 year old resident of Ratmalana and a suspect in the murder o
 [Data](articles/e86467ea.json)
 
 [Extended Data](ext_articles/e86467ea.ext.json)
+
+---
+
+### கருவலகஸ்வெவ பிரதேசத்தில் துப்பாக்கிப் பிரயோகம்!
+
+*2024-01-31 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/175195) · `ta`
+
+நேற்று செவ்வாய்க்கிழமை (30) இரவு இடம்பெற்ற இந்தச் சம்பவத்தில் ஒருவர் காயமடைந்துள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/598650a3.json)
 
 ---
 
@@ -1148,24 +1260,6 @@ Concluding the visit, PNS SAIF will leave the island on February 01 and conduct 
 
 ---
 
-### Saudi Arabia, which has emerged as a major role in global affairs
-
-*2024-01-30 22:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175180) · `ta`
-
-It is well known that Saudi Arabia has emerged as a major diplomatic role in the World Politics Forum since the beginning of 2023, which has been leading political alignment and leading the global summit and major events.
-
-This significant high standard of international diplomatic issues has not only a testament to the growing global political influence but also a new revival in its foreign policies and approaches.
-
-Saudi Arabia has been rapidly committed to dedicating regional and international politics, economic and other issues that have emerged in the past years, and the politics of the politics of managing international crises and launching its interest in various kinds of global issues.
-
-...
-
-[Data](articles/0f4665ba.json)
-
-[Extended Data](ext_articles/0f4665ba.ext.json)
-
----
-
 ### It is the duty and responsibility of everyone to support a leader who rescued the country from the economic crisis - Prasanna Ranatunga
 
 *2024-01-30 22:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175181) · `ta`
@@ -1421,6 +1515,22 @@ It is reported that the parachute of one of the soldiers who have been injured i
 [Data](articles/0f5ce0b1.json)
 
 [Extended Data](ext_articles/0f5ce0b1.ext.json)
+
+---
+
+### The  Attack on ITAK Jaffna MP  Sivagnanam Shritharan  by “Unknown” Gunmen in Anuradhapura.
+
+*2024-01-30 21:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83507) · `en`
+
+The  media spotlight is focused to a great  extent on Jaffna District Parliamentarian Sivagnanam Shritharan these days. The 55 year old  former school principal has been elected as the president of Sri Lanka’s premier Tamil political party the Ilankai Thamil Arasuk Katchi(ITAK) known in English as the Federal Party(FP). Shritharan  has been  elected an MP  continuously since 2010.
+
+Shritharan contested the ITAK presidential elections on a pro-LTTE platform euphemistically described as “Thamizh Thesiyam” (Tamil Nationalism)The newly elected ITAK leader  demonstrated that he was a hawk in Tamil politics by paying obeisance at the LTTE cemetery in Kilinochchi. He also issued a statement  calling upon all Tamil nationalist parties to join him and realise the dreams of fallen LTTE fighters known as “Maaveerar”or great heroes.
+
+...
+
+[Data](articles/d857a29c.json)
+
+[Extended Data](ext_articles/d857a29c.ext.json)
 
 ---
 
@@ -1878,168 +1988,22 @@ Police used water cannons and tear gas to disperse Samagi Jana Bala Wegaya (SJB)
 
 ---
 
-### Special message to the power payers
+### Canadian Tamil Congress Office in Toronto Broken Into and Set on Fire by Unknown Persons on 27 January 2024 Morning;Canadian Tamil Congress Condemns Attack on Office; Urges Community Unity Against Hate
 
-*2024-01-30 18:25:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்கட்டணம்-செலுத்துவோருக்கு-விஷேட-செய்தி/175-332364) · `ta`
+*2024-01-30 18:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83521) · `en`
 
-The Ceylon Electricity Board has introduced a number of ways to pay electricity tariffs to suit the new technology.
+(Text of Press Release Issued by the  Canadian Tamil Congress (CTC) on January 29, 2024)
 
-Accordingly, conscientious facilities have been provided through Cebcare mobile processor, online banking services, CEB website, post office, CEB and Bank Kiosk machines, Cargills, Keel's, and MCASH.
+It is with regret we inform our members, supporters and well-wishers that Canadian Tamil Congress (CTC) office was broken into and set on fire on early morning of January 27, 2024 by unidentified individuals.
 
-The Electricity Board calls for the issue of electricity tariffs in 1987. Remble
+This reprehensible act appears to be motivated by hate, posing a stark contrast to the very values that brought many of our community members to Canada—peace, security, and freedom from violence.
 
-◼️
+At CTC, we have always stood for inclusivity, diversity, and fostering a welcoming environment for all members of our community. It is deeply distressing to witness such a targeted act of hostility against our values and the principles we hold dear.
 
-[Data](articles/26f6c44c.json)
-
-[Extended Data](ext_articles/26f6c44c.ext.json)
-
----
-
-### Sajith national hospital
-
-*2024-01-30 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192753) · `si`
-
-Opposition Leader Sajith Premadasa arrived at the Colombo National Hospital to hospital with injuries during the protest organized in Colombo.
-
-Former Parliamentarian Mujibur Rahman was also hospitalized due to illness.
-
-◼️
-
-[Data](articles/f01fe5ba.json)
-
-[Extended Data](ext_articles/f01fe5ba.ext.json)
-
----
-
-### Sexual cesture to two pretty women: bail for trio
-
-*2024-01-30 18:19:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அழகான-இரு-பெண்களிடம்-பாலியல்-சேஷ்டை-மூவருக்கும்-பிணை/175-332363) · `ta`
-
-Three junior workers of the Home Care Department of Parliament were released on bail.
-
-Kaduwela Magistrate Sanima Wijebandara on Tuesday (30) ordered the release of three parliamentary workers to be released on two physical bail worth Rs.
-
-After an investigation of the Police Children's and Women's Bureau, three younger employees in Parliament were arrested on Tuesday (30) on suspicion.
-
-It was reported in the court that the complaint was filed in 2022 and that the complaint was lodged about a year after sexual harassment.
-
-However, the Magistrate ordered the Police Children's and Women's Bureau to conduct further investigations into the incident and submit a report to the court.
-
-◼️
-
-[Data](articles/a17824cb.json)
-
-[Extended Data](ext_articles/a17824cb.ext.json)
-
----
-
-### Mujibur Rahman Victim: Sajith visited.
-
-*2024-01-30 18:09:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஜிபுர்-ரஹ்மான்-பாதிப்பு-சஜித்-பார்வையிட்டார்/175-332362) · `ta`
-
-The United People's Power, a former parliamentarian and deputy general secretary of the United People's Power, who attended a protest rally near the Vikramagadevi Park in Colombo this afternoon, under the theme "Change - 2024" has been admitted to the hospital.
-
-Following the rally, opposition leader Sajith Premadasa went to inquire.
-
-◼️
-
-[Data](articles/3a8c79af.json)
-
-[Extended Data](ext_articles/3a8c79af.ext.json)
-
----
-
-### Minimum speed limit on expressways soon: Bandula
-
-*2024-01-30 17:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minimum-speed-limit-on-expressways-soon-Bandula/108-275992) · `en`
-
-Colombo, Jan. 30 (Daily Mirror)- Steps are being taken to impose a minimum speed limit on expressways as accidents are caused due to slow-moving vehicles, Transport Minister Bandula Gunawardana said today.
-
-He told the weekly Cabinet briefing that even though the maximum speed limit is imposed as 100 kmph, no minimum speed has been imposed yet.
-
-He said most accidents are caused when overtaking slow moving vehicles and it is important to set a minimum speed limit to prevent such accidents.
-
-The Minister said a discussion was held with experts in the field and relevant institutions such as the police regarding the accidents on expressways and that new rules and regulations will be published in a gazette notification within two weeks.
-
-◼️
-
-[Data](articles/77d20fb7.json)
-
-[Extended Data](ext_articles/77d20fb7.ext.json)
-
----
-
-### Minimum speed limit on expressways soon: Bandula
-
-*2024-01-30 17:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Minimum-speed-limit-on-expressways-soon-Bandula/155-275992) · `en`
-
-Colombo, Jan. 30 (Daily Mirror)- Steps are being taken to impose a minimum speed limit on expressways as accidents are caused due to slow-moving vehicles, Transport Minister Bandula Gunawardana said today.
-
-He told the weekly Cabinet briefing that even though the maximum speed limit is imposed as 100 kmph, no minimum speed has been imposed yet.
-
-He said most accidents are caused when overtaking slow moving vehicles and it is important to set a minimum speed limit to prevent such accidents.
-
-The Minister said a discussion was held with experts in the field and relevant institutions such as the police regarding the accidents on expressways and that new rules and regulations will be published in a gazette notification within two weeks.
-
-◼️
-
-[Data](articles/b79ff656.json)
-
-[Extended Data](ext_articles/b79ff656.ext.json)
-
----
-
-### Eyebullah, who came to the forest with the horrific drone attack
-
-*2024-01-30 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192752) · `si`
-
-The three troops who were killed in a civilized US military border was issued by the American authorities to the media today.
-
-The attack was killed in the attack that they had stayed in the attack.
-
-Meanwhile, Pentagon's Pressukia Sabhrina Singh said that the group attacked with Tower - 22 camps that the group attacked the camp.
-
-An Iraqi armed group that was born with Iraq, 2005 with the invasion by Iraq, 2005 with the invasion by American troops.
-
-They are considered the strongest group among armed groups in Iraq, and the most recent attacks on the Middle East has been launched by Katabibullah.
-
-The armed group was conducted by the Armed Leader of Abu Oya and Iraqi Citizenship.
-
-However, Katabhab Hezbollah leader was also killed in a drone strike to the Baghdad International Airport.
-
-But they occasionally strike attacks that armed group will continue.
-
-Katuwa Hezbollah named the United States in 2009 as a terrorist organization.
+CTC is working with local law enforcement agencies, who are actively investigating the incident. We are committed to ensuring that the perpetrators are swiftly brought to justice.
 
 ...
 
-[Data](articles/2d92182d.json)
-
-[Extended Data](ext_articles/2d92182d.ext.json)
-
----
-
-### Israeli forces kill three Palestinian militants in West Bank hospital raid
-
-*2024-01-30 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96860/israeli-forces-kill-three-palestinian-militants-in-west-bank-hospital-raid) · `en`
-
-Israeli forces have killed three militants inside a hospital in Jenin, in the occupied West Bank.
-
-CCTV footage showed members of an undercover unit disguised as medics and other civilians making their way through a corridor with rifles raised.
-
-The Israeli military said the militants were hiding in the hospital, and that one was about to carry out an attack.
-
-The Palestinian Authority’s ministry of health accused Israel of carrying out a “new massacre inside hospitals”.
-
-Hamas, an armed Palestinian Islamist group which is fighting a war with Israel in Gaza triggered by its unprecedented attacks on Israel on 7 October, said the Israeli forces had “executed three fighters”, including one of its members
-
-Another armed group, Palestinian Islamic Jihad, said two of those killed were its members and were brothers. It added that one of them had been receiving treatment at the hospital.
-
-...
-
-[Data](articles/2674df0a.json)
-
-[Extended Data](ext_articles/2674df0a.ext.json)
+[Data](articles/40847494.json)
 
 ---

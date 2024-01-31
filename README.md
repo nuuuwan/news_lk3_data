@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 20:32:50**
+As of **2024-01-31 20:50:01**
 
 ## Newspaper Stats
 
-*Scraped **3,908** Articles*
+*Scraped **3,912** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 62
 dbsjeyarajcom | 130
 islandlk | 208
 economynextcom | 218
-newsfirstlk | 241
 dailyftlk | 243
+newsfirstlk | 244
 adalk | 347
 virakesarilk | 440
-adaderanasinhalalk | 449
+adaderanasinhalalk | 450
 adaderanalk | 493
 tamilmirrorlk | 501
 dailymirrorlk | 529
@@ -26,23 +26,95 @@ dailymirrorlk | 529
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,907 (100.0%) of 3,908 articles have been extended.
+3,908 (99.9%) of 3,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### மின்சக்தி அமைச்சரின் விசேட செய்தி
+### තවත් ගාස්තුවක් ඉහළට
+
+*2024-01-31 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192811) · `si`
+
+පෙබරවාරි මස 01 වනදා සිට ක්‍රියාත්මක වන පරිදි විදේශ ගමන් බලපත්‍ර ගාස්තුව ඉහළ දමා තිබේ.
+
+ඒ අනුව මාර්ගගත සහ මාර්ගගත නොවන සාමාන්‍ය සේවා ගාස්තුව රුපියල් 5000 සිට රුපියල් 10,000ක් දක්වා සංශෝධනය කර තිබේ.
+
+◼️
+
+[Data](articles/ee81a9c0.json)
+
+---
+
+### Sri Lanka’s Political Alliance Odyssey
+
+*2024-01-31 19:57:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/sri-lanka-s-political-alliance-odyssey/) · `en`
+
+COLOMBO (News 1st);  In the backdrop of the highly anticipated 2024 presidential election, a dynamic shift is observable in the political landscape, bringing forth the emergence of novel alliances.
+
+The 2020 Sri Lankan Parliamentary General Election saw a decisive victory for the Sri Lanka Podujana Peramuna, which secured 145 of the 225 seats, solidifying its position as the dominant party.
+
+The Samagi Jana Balawegaya emerged as the main opposition with 54 seats, while the Ilankai Tamil Arasu Kattchi emerged as the third strongest voice, winning 10 seats.
+
+The Jathika Jana Balavegaya also gained a noteworthy foothold with 3 seats, and the Eelam People's Democratic Party secured 2 seats.
+
+Ten other parties shared the remaining seats as one each. What has happened now?
+
+The Sri Lanka Podujana Peramuna (SLPP), despite its 145-seat victory in the 2020 election, has broken apart into multiple factions.
+
+A considerable number of its MPs have left the party at various points, citing various reasons.
+
+...
+
+[Data](articles/063a1304.json)
+
+---
+
+### Special News of the Minister of Power
 
 *2024-01-31 19:54:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சக்தி-அமைச்சரின்-விசேட-செய்தி/175-332440) · `ta`
 
-மின்சார பாவனையாளர்களுக்கு எதிர்காலத்தில் இலகுவாக பணம் செலுத்தும் முறை அறிமுகப்படுத்தப்படும் என மின்சாரம் மற்றும் எரிசக்தி அமைச்சர் கஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+Electricity and Energy Minister Kanjana Wijesekera said that the electricity users will be introduced in the future.
 
-இதேவேளை, மின்சார சபை மற்றும் இலங்கை பெற்றோலிய கூட்டுத்தாபன அதிகாரிகளுடன் நேற்று இடம்பெற்ற கலந்துரையாடலில் இது தொடர்பில் அவதானம் செலுத்தியிருந்தனர். R
+Meanwhile, the Electricity Board and the Ceylon Petroleum Corporation officials held a discussion yesterday. Remble
 
 ◼️
 
 [Data](articles/f9f2c497.json)
+
+[Extended Data](ext_articles/f9f2c497.ext.json)
+
+---
+
+### Keheliya Faces Bribery Charges Over Alleged Public Fund Misuse
+
+*2024-01-31 19:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/keheliya-faces-bribery-charges-over-alleged-public-fund-misuse/) · `en`
+
+COLOMBO (News 1st); The Colombo Chief Magistrate's Court heard the case against Keheliya Rambukwella, filed by the Bribery Commission.
+
+The charges stem from an alleged incident during his tenure as Minister of Media, where State Printing Corporation funds were reportedly used to settle his personal telephone bill.
+
+Rambukwella's defense presented initial objections to the indictment, and Colombo Chief High Court Judge, Damith Thotawatta, postponed issuing an order on these objections until February 16th.
+
+Minister Keheliya Rambukwella and former State Printing Corporation Chairman Jayampathi Bandara Heinkenda have been charged by the Bribery Commission under the Bribery Act, over the alleged misuse of public funds.
+
+◼️
+
+[Data](articles/9c5c2fe4.json)
+
+---
+
+### Sri Lanka Passport Fees Doubled
+
+*2024-01-31 19:52:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/sri-lanka-passport-fees-doubled/) · `en`
+
+COLOMBO (News 1st); The Department of Immigration and Emigration of Sri Lanka announced today that the fees for normal passport services will be revised effective February 1, 2024.
+
+The new fee for both online and offline applications will be Rs. 10,000, representing an increase from Rs. 5,000.
+
+◼️
+
+[Data](articles/60d3fc92.json)
 
 ---
 
@@ -1961,95 +2033,5 @@ A separate traffic plan will be in place for Independence Day itself on February
 [Data](articles/72370bbb.json)
 
 [Extended Data](ext_articles/72370bbb.ext.json)
-
----
-
-### Solar panels on wainties, 630 million units to the national grid
-
-*2024-01-31 14:25:11* · [`adalk`](https://www.ada.lk/breaking_news/පියැසි-මත-සූර්ය-පැනල-සවිකිරීමෙන්-2023දී-ඒකක-මිලියන-630ක්-ජාතික-පද්ධතියට/11-407820) · `si`
-
-The Ceylon Electricity Board (CEB) happily informs the National System of Solar Panel to the National System of Solar Panel (ROOFTOP SOLAR SCHEME).
-
-The Electricity Board (CEB) announced that it should be appreciated that customers have to sell electricity to the national grid by acquitting a new technological experience.
-
-The mission of our staff in particular, especially in the distribution sectors should be appreciated to the national system to add to different engineering and technical issues.
-
-These eco-friendly projects that work with our customers are promoting the renewable energy use of the renewable energy.
-
-◼️
-
-[Data](articles/bd003046.json)
-
-[Extended Data](ext_articles/bd003046.ext.json)
-
----
-
-### Sri Lanka Slips in Global Corruption Ranking
-
-*2024-01-31 14:11:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/sri-lanka-slips-in-global-corruption-ranking/) · `en`
-
-COLOMBO (News 1st): Sri Lanka slipped two places in the latest Corruption Perceptions Index (CPI) released by Transparency International, ranking 115th out of 180 countries in 2023.
-
-The CPI, which scores countries on a scale of 0 (highly corrupt) to 100 (very clean), paints a bleak picture of corruption worldwide.
-
-Sri Lanka has been ranked 115 alongside Ecuador, Indonesia, Malawi, the Philippines, and Turkey.
-
-Denmark leads the corruption perceptions index, followed by Finland, New Zealand, Norway, and Singapore.
-
-Somalia, Venezuela, Syria, South Sudan and Yemen take the bottom spots in the index.
-
-Over two-thirds of nations scored below 50, showcasing pervasive issues with public sector corruption.
-
-Notably, the global average score remained stagnant at 43, with most countries experiencing zero progress or even setbacks in the past decade.
-
-...
-
-[Data](articles/532bd0b8.json)
-
-[Extended Data](ext_articles/532bd0b8.ext.json)
-
----
-
-### Sri Lankan Expressway to See New Rules and Minimum Speed Limits
-
-*2024-01-31 13:52:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/sri-lankan-expressway-to-see-new-rules-and-minimum-speed-limits/) · `en`
-
-COLOMBO (News 1st); Dr. Bandula Gunawardena, Sri Lanka's Minister of Transport and Highways, revealed plans for new regulations governing the use of the country's expressway.
-
-These changes, expected to be gazetted within the next two weeks, are aimed at improving safety and efficiency on expressways.
-
-Key among the proposed measures is the introduction of a minimum speed limit.
-
-While details of the specific speed remain undisclosed, its implementation is intended to address concerns about slow-moving vehicles impeding traffic flow and potentially creating dangerous situations.
-
-◼️
-
-[Data](articles/ff70e08c.json)
-
-[Extended Data](ext_articles/ff70e08c.ext.json)
-
----
-
-### Two motorcycles collide in Mannar;Young mother wound
-
-*2024-01-31 13:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175235) · `ta`
-
-Two motorcycles crashed into the main road in front of the bus station in Mannar at around 12 noon today.
-
-A young mother was injured and admitted to Nanatan Divisional Hospital.
-
-It is reported that the young mother who was injured in the accident is a native of Achangulam village.
-
-A motorcycle rushed to Bengal from the Euriputhurai area and a motorcycle traveling from the Natan bus station to the erosion department crashed into the crash.
-
-Even though the mother suffered injuries in the accident, the child has been saved without any injury.
-
-The injured mother and daughter were taken to a nearby Nanattan area hospital.
-
-◼️
-
-[Data](articles/886d29b2.json)
-
-[Extended Data](ext_articles/886d29b2.ext.json)
 
 ---

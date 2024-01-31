@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 15:17:17**
+As of **2024-01-31 15:32:49**
 
 ## Newspaper Stats
 
-*Scraped **3,801** Articles*
+*Scraped **3,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 61
 dbsjeyarajcom | 129
 economynextcom | 203
 islandlk | 208
-newsfirstlk | 229
+newsfirstlk | 235
 dailyftlk | 243
 adalk | 340
-virakesarilk | 429
 adaderanasinhalalk | 430
+virakesarilk | 430
 adaderanalk | 480
 tamilmirrorlk | 488
 dailymirrorlk | 514
@@ -26,63 +26,123 @@ dailymirrorlk | 514
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,797 (99.9%) of 3,801 articles have been extended.
+3,801 (99.8%) of 3,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### සනත් නිශාන්තගේ නඩුවට අධිකරණය අද දුන් නියෝගය මෙන්න
+### Here is the order the judiciary given to Sanath Nishantha's case
 
 *2024-01-31 14:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192788) · `si`
 
-අධිකරණයට අපහාස කළේ යැයි චෝදනා කරමින් හිටපු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාට එරෙහිව ගොනුකර තිබෙන පෙත්සම් පෙබරවාරි මස 02 වනදා කැඳවන ලෙස අභියාචනාධිකරණය අද (31) නියෝග කර තිබේ.
+The Court of Appeal today (31) has ordered that the petitions filed against him on February 2st.
 
-මෙම පෙත්සම් අද සෝභිත රාජකරුණා සහ ධම්මික ගනේපොල යන මහත්වරුන්ගේ සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+These petitions were called before the Court of Appeal of Sobhitha Rajakaruna and Dhammika Ganepola.
 
-එහිදී වගඋත්තරකාර සනත් නිශාන්ත මහතා මේ වන විට මියගොස් සිටින බැවින් අධිකරණයට අපහාස කිරීමේ පෙත්සම් සම්බන්ධයෙන් ගනු ලබන ක්‍රියාමාර්ගය තීරණය කිරීම සඳහා ඒවා ලබන 02 වනදා කැඳවන ලෙස අධිකරණය මෙලෙස නියෝග කළේය.
+The court ordered that they were called on the 2nd to determine the course of action to be taken against the petitions of the petitions.
 
-ශ්‍රී ලංකා අධිකරණ නිලධාරීන්ගේ සංගමය සහ නීතිඥවරුන් දෙදෙනෙකු වන ප්‍රියලාල් සිරිසේන සහ විජිත කුමාර යන අය විසින් මෙම පෙත්සම් ඉදිරිපත් කර තිබුණි.
+The petitions were presented by the Sri Lanka Judicial Officers Association and two lawyers, Priylal Sirisena and Vijitha Kumara.
 
 ◼️
 
 [Data](articles/8882f938.json)
 
+[Extended Data](ext_articles/8882f938.ext.json)
+
 ---
 
-### அணிவகுப்பில் இருந்து  வெளியேறிய பொலிஸார்?
+### தடை செய்யப்பட்ட இழுவை மடியை பயன்படுத்தி கடற்றொழிலில் ஈடுபட்ட 5 மீனவர்கள் கைது
+
+*2024-01-31 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175239) · `ta`
+
+மாந்தை மேற்கு பிரதேச  செயலாளர் பிரிவில் உள்ள விடத்தல் தீவு கடற்கரையில்  தடை செய்யப்பட்ட இழுவை மடியை பயன்படுத்தி கடற்றொழிலில் ஈடுபட்ட 5 மீனவர்கள் கைது செய்யப்பட்டுள்ளதோடு  அவர்கள் பயன்படுத்திய இழுவை படகையும் மீட்டுள்ளனர்.
+
+கைது செய்யப்பட்டவர்கள் எருக்கலம்பிட்டி மற்றும்  உப்புக்குளம் பகுதியைச் சேர்ந்தவர்கள் என தெரிய வந்துள்ளது.
+
+விடத்தல் தீவு மக்கள் மற்றும் கடற்றொழில் திணைக்கள உத்தியோகத்தர்களால்  திங்கட்கிழமை (29) இரவு கைது குறித்த மீனவர்கள் கடலில் வைத்து பிடித்துள்ளனர்.
+
+இந்நிலையில் விடத்தல் தீவு இறங்கு துறையில் இழுவை படகு நிறுத்தப்பட்டுள்ளதோடு, மேலதிக நடவடிக்கைக்காக 5 மீனவர்களும் வலைகளும் மன்னார் கடற்றொழில் திணைக்கள அதிகாரிகளிடம் ஒப்படைக்கப்பட்டுள்ளனர்.
+
+மன்னார் மாவட்ட கடற்தொழில் திணைக்கள அதிகாரிகள்  விசாரணைகளின் பின்னர் மேலதிக நடவடிக்கைக்காக மன்னார் நீதிமன்றத்தில்  ஆஜர்படுத்தவுள்ளனர்.
+
+◼️
+
+[Data](articles/c80908a3.json)
+
+---
+
+### The police left out of the parade?
 
 *2024-01-31 14:45:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அணிவகுப்பில்-இருந்து-வெளியேறிய-பொலிஸார்/175-332415) · `ta`
 
-சுதந்திர தின நிகழ்வுக்கான ஒத்திகையில் இருந்து பொலிஸாரும் பொலிஸ் விசேட அதிரடிப்படையினரையும் இன்று(31) திடீரென விலக்கிக்கொள்ள நடவடிக்கை எடுக்கப்பட்டதாக  தகவல் வெளியாகியுள்ளது.
+It is reported that the police and the Special Task Force (STF) have been suddenly withdrawn from the rehearsal for the Independence Day event.
 
-இன்று காலை இடம்பெற்ற இறுதிப் பயிற்சியில் இருந்து பொலிஸ் மற்றும் பொலிஸ் விசேட அதிரடிப்படை அணிகள் இருவரும் விலகியுள்ளதாகவும், பொலிஸ் குதிரைப்படை அணியினரை அணிவகுப்பில் இருந்து வெளியேற்றிய சம்பவமே இதற்கு வழிவகுத்துள்ளதாகவும் கூறப்படுகின்றது.
+It is reported that both police and police special squad forces have withdrawn from the final training this morning and the incident has led to the evacuation of the police cavalry teams.
 
-எவ்வாறாயினும், பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் மற்றும் பதில் பொலிஸ் மா அதிபர் தேசபந்து தேன்கோன் ஆகியோரிடம் இது தொடர்பில் எழுப்பப்பட்ட போது, அவ்வாறான எந்த முடிவும் எடுக்கப்படவில்லை என்று கூறியுள்ளனர்.
+However, when the Minister of Public Safety Tran Ales and the Inspector General of Police, Deshabandu Tenkoon were raised in this regard, no such decision was taken.
 
 ◼️
 
 [Data](articles/fdd2f807.json)
 
+[Extended Data](ext_articles/fdd2f807.ext.json)
+
 ---
 
-### ஐக்கிய நாடுகள் சபையின் உணவு மற்றும் விவசாய அமைப்பின் பிரதிநிதிகள் குழு நாட்டிற்கு வருகை
+### Speaker endorses certificate on two Bills
+
+*2024-01-31 14:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/speaker-endorses-certificate-on-two-bills/) · `en`
+
+COLOMBO (News 1st); Mahinda Yapa Abeywardana, Speaker of Parliament today (31) endorsed the certificate on the Recognition and Enforcement of International Settlement Agreements Resulting from Mediation Bill and the Notaries (Amendment) Bill which were passed in Parliament recently.
+
+Accordingly, the said Bills will come into effect as the Recognition and Enforcement of International Settlement Agreements Resulting from Mediation Act No.5 of 2024 and the Notaries (Amendment) Act No.6 of 2024.
+
+Sri Lankan Expressway to See New Rules and Minimum Speed Limits
+
+◼️
+
+[Data](articles/5bc0d71f.json)
+
+---
+
+### Shasheendra Rajapaksa sworn in as Minister of Irrigation and Water Supply
+
+*2024-01-31 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175223) · `ta`
+
+Shasheendra Rajapakse was sworn in as the Minister of Irrigation and Water Supply and was sworn in at the Presidential Secretariat in the presence of President Ranil Wickremesinghe.
+
+It is noteworthy that Shasheendra Rajapaksa has now been given the post of Minister of State for Minister of State for Irrigation and Water Supply and Water Supply.
+
+◼️
+
+[Data](articles/8a4f80f6.json)
+
+[Extended Data](ext_articles/8a4f80f6.ext.json)
+
+---
+
+### A group of representatives of the United Nations Food and Agricultural Organization visits the country
 
 *2024-01-31 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175232) · `ta`
 
-ஐக்கிய நாடுகள் சபையின் உணவு மற்றும் விவசாய அமைப்பின் பிராந்திய அலுவலகத்தின் பிரதிநிதிகள் குழுவொன்று நாட்டிற்கு வருகைதந்துள்ளது.
+A team of representatives of the Regional Office of the United Nations Food and Agriculture Organization has visited the country.
 
-நாட்டில் நடைபெறவுள்ள  ஆசிய பசுபிக் பிராந்திய மாநாட்டின் (APRC) 37 ஆவது அமர்வின்  முன்னாயத்த  நடவடிக்கைகளை மேற்பார்வையிடுவதற்காக  குறித்த குழு வருகைதந்துள்ளது.
+The Committee has arrived to oversee the preliminary measures of the 37th session of the Asia Pacific Regional Conference (APRC) to be held in the country.
 
-குறித்த மாநாடு பெப்ரவரி 19 ஆம் திகதி முதல் 22 ஆம் திகதி வரை கொழும்பில் நடைபெறவுள்ளதாக விவசாய அமைச்சு தெரிவித்துள்ளது.
+The conference will be held in Colombo from February 19 to 22, the Ministry of Agriculture said.
 
-ஐக்கிய நாடுகள் சபையின் உணவு மற்றும் விவசாய அமைப்பின் பிராந்திய அலுவலகத்தின் பிரதிநிதிகள் விவசாய அமைச்சர் மஹிந்த அமரவீரவை சந்தித்து கலந்துரையாடியுள்ளதாக அமைச்சு தெரிவித்துள்ளது.
+Representatives of the Regional Office of the United Nations Food and Agriculture Organization have met Agriculture Minister Mahinda Amaraweera and discussed.
 
-ஆசிய பசிபிக் பிராந்தியத்தில் உள்ள 46 உறுப்பு நாடுகளைச் சேர்ந்த விவசாய அமைச்சர்கள் மற்றும் உயர்மட்ட அதிகாரிகளுக்கு உணவு மற்றும் விவசாயம் தொடர்பான சவால்கள் மற்றும் முன்னுரிமைகள் குறித்து விவாதிப்பதும் பிராந்திய ஒருங்கிணைப்பை ஊக்குவிப்பதுமே ஆசிய பசிபிக் பிராந்திய மாநாட்டின் பிரதான நோக்கமாகும்.
+The main objective of the Asian Pacific Regional Conference is to discuss the challenges and priorities of food and agriculture for the Agricultural Ministers and top officials of the 46 member states in the Asia Pacific region and promote regional coordination.
 
-...
+In addition, the state of food and agriculture in the region, the change of agricultural food systems, and the solutions for small farmers and family farmers will be focused.
+
+◼️
 
 [Data](articles/46e022b9.json)
+
+[Extended Data](ext_articles/46e022b9.ext.json)
 
 ---
 
@@ -104,21 +164,23 @@ The Minister added that new laws will be prepared to prioritize everyone's life 
 
 ---
 
-### மாணவர்களின் எதிர்ப்புக்கு மத்தியில் களனி பல்கலைக்கழகத்துக்குச் சென்ற ஜனாதிபதி ரணில்!
+### President Ranil visits Kelaniya University amid protests
 
 *2024-01-31 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175237) · `ta`
 
-களனி பல்கலைக்கழகத்தின் பாலி மற்றும் பௌத்த கற்கைகள் நிறுவகத்தின் புதிய கட்டிட வளாகத்தை திறந்து வைக்கும் நிகழ்வில் கலந்துகொள்வதற்காகவே அவர் இவ்வாறு விஜயம் செய்துள்ளார்.
+He made this visit to attend the opening of the new building complex of the Bali and Buddhist Studies Institute of Kelaniya University.
 
-இன்படி புதிய கட்டிட வளாகம் இன்று புதன்கிழமை (31)   ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் திறந்து வைக்கப்பட்டது.
+Accordingly, the new building complex was opened today (31st) by President Ranil Wickremesinghe.
 
-இதேவேளை, ஜனாதிபதியின் வருகையை கண்டித்து களனி பல்கலைக்கழக மாணவர்கள் ஆர்ப்பாட்டத்தில் ஈடுபட்டதுடன் கொழும்பு கண்டி பிரதான வீதியை மறித்து   நடத்திய போராட்டத்தை கலைக்க பொலிஸார் கண்ணீர் புகைக்குண்டுகளை வீசினர்.
+Meanwhile, students of Kelaniya University staged a protest against the president's arrival and police threw tear gas to dissolve the protest by crossing the main road in Colombo.
 
-எவ்வாறாயினும், மாணவர்கள் அங்கிருந்து கலைந்து சென்ற போதிலும், பல்கலைக்கழக நிர்வாக கட்டிடத்துக்குள் எந்தவொரு தரப்பினரையும் நுழைய அனுமதிக்காமல் நேற்று (31) மாலை வரை ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+However, even though the students dispersed, they staged a demonstration till yesterday evening (31) without allowing any parties to enter the university administration building.
 
 ◼️
 
 [Data](articles/20dada38.json)
+
+[Extended Data](ext_articles/20dada38.ext.json)
 
 ---
 
@@ -135,6 +197,74 @@ The government's aim is to implement this scheme by private sector investors, an
 [Data](articles/16cc2724.json)
 
 [Extended Data](ext_articles/16cc2724.ext.json)
+
+---
+
+### Special Traffic Plan for Independence Day Rehearsals
+
+*2024-01-31 14:26:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/special-traffic-plan-for-independence-day-rehearsals/) · `en`
+
+COLOMBO (News 1st); Commuters in Colombo should be prepared for temporary traffic disruptions until Saturday (3), as the city gears up for Independence Day rehearsals.
+
+Sri Lanka Police have implemented a special traffic plan around Galle Face to facilitate the smooth flow of vehicles during rehearsals.
+
+The special traffic plan is in effect from 6:00 AM to 8:30 AM and again from 11:00 AM to 12:30 PM.
+
+The following roads will be closed during the aforementioned periods:
+
+Khan Clock Tower Roundabout to Main Street, and YMBA Roundabout
+
+A separate traffic plan will be in place for Independence Day itself on February 4th.
+
+Sri Lankan Expressway to See New Rules and Minimum Speed Limits
+
+◼️
+
+[Data](articles/72370bbb.json)
+
+---
+
+### Sri Lanka Slips in Global Corruption Ranking
+
+*2024-01-31 14:11:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/sri-lanka-slips-in-global-corruption-ranking/) · `en`
+
+COLOMBO (News 1st): Sri Lanka slipped two places in the latest Corruption Perceptions Index (CPI) released by Transparency International, ranking 115th out of 180 countries in 2023.
+
+The CPI, which scores countries on a scale of 0 (highly corrupt) to 100 (very clean), paints a bleak picture of corruption worldwide.
+
+Sri Lanka has been ranked 115 alongside Ecuador, Indonesia, Malawi, the Philippines, and Turkey.
+
+Denmark leads the corruption perceptions index, followed by Finland, New Zealand, Norway, and Singapore.
+
+Somalia, Venezuela, Syria, South Sudan and Yemen take the bottom spots in the index.
+
+Over two-thirds of nations scored below 50, showcasing pervasive issues with public sector corruption.
+
+Notably, the global average score remained stagnant at 43, with most countries experiencing zero progress or even setbacks in the past decade.
+
+...
+
+[Data](articles/532bd0b8.json)
+
+---
+
+### Sri Lankan Expressway to See New Rules and Minimum Speed Limits
+
+*2024-01-31 13:52:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/sri-lankan-expressway-to-see-new-rules-and-minimum-speed-limits/) · `en`
+
+COLOMBO (News 1st); Dr. Bandula Gunawardena, Sri Lanka's Minister of Transport and Highways, revealed plans for new regulations governing the use of the country's expressway.
+
+These changes, expected to be gazetted within the next two weeks, are aimed at improving safety and efficiency on expressways.
+
+Key among the proposed measures is the introduction of a minimum speed limit.
+
+While details of the specific speed remain undisclosed, its implementation is intended to address concerns about slow-moving vehicles impeding traffic flow and potentially creating dangerous situations.
+
+Sri Lankan Expressway to See New Rules and Minimum Speed Limits
+
+◼️
+
+[Data](articles/ff70e08c.json)
 
 ---
 
@@ -213,6 +343,42 @@ However, despite the dispersal of the students, it was noteworthy that until yes
 [Data](articles/cb00eedb.json)
 
 [Extended Data](ext_articles/cb00eedb.ext.json)
+
+---
+
+### Priyankara Fills Vacant Puttalam MP Seat
+
+*2024-01-31 13:46:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/priyankara-fills-vacant-puttalam-mp-seat/) · `en`
+
+COLOMBO (News 1st); In a special gazette notice, the Election Commission announced the appointment of Jagath Priyankara as the new Member of Parliament for Puttalam District.
+
+This appointment fills the vacancy left by the untimely demise of former State Minister Sanath Nishantha in a car accident on the Katunayake expressway last week.
+
+Sri Lankan Expressway to See New Rules and Minimum Speed Limits
+
+◼️
+
+[Data](articles/39473260.json)
+
+---
+
+### Activist Piyath Nikeshala Granted Bail
+
+*2024-01-31 13:41:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/activist-piyath-nikeshala-granted-bail/) · `en`
+
+COLOMBO (News 1st); Activist Piyath Nikeshala was granted bail by the Colombo Fort Chief Magistrate after being arrested by the Computer Crime Investigation Unit (CCIU) of the Criminal Investigation Department (CID) on January 29th.
+
+Nikeshala faced charges under the Computer Crimes Act for allegedly violating public order, creating public dissatisfaction with the government, and posting videos with the intention of provoking the public.
+
+Following his arrest, he was presented to the court on January 30th and ordered to be remanded until today's hearing.
+
+After considering the facts presented in court today, the Chief Magistrate ordered to release Nikeshala on a personal bail of Rs. 500.000/-.
+
+Sri Lankan Expressway to See New Rules and Minimum Speed Limits
+
+◼️
+
+[Data](articles/488e99a3.json)
 
 ---
 
@@ -482,7 +648,7 @@ COLOMBO (News 1st); Shasheendra Rajapaksa was sworn in as the State Minister for
 
 He took oaths in the presence of President Ranil Wickremesinghe at the President's Office in Colombo, said the President's Media Division.
 
-China and India Drive Upward Revision in IMF’s Asia-Pacific Growth Projection
+Sri Lankan Expressway to See New Rules and Minimum Speed Limits
 
 ◼️
 
@@ -665,22 +831,6 @@ The mother of Naronoge mother noted that the youths could not be permanently awa
 [Data](articles/930069a5.json)
 
 [Extended Data](ext_articles/930069a5.ext.json)
-
----
-
-### Shasheendra Rajapaksa sworn in as Minister of Irrigation and Water Supply
-
-*2024-01-31 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175223) · `ta`
-
-Shasheendra Rajapakse was sworn in as the Minister of Irrigation and Water Supply and was sworn in at the Presidential Secretariat in the presence of President Ranil Wickremesinghe.
-
-It is noteworthy that Shasheendra Rajapaksa has now been given the post of Minister of State for Minister of State for Irrigation and Water Supply and Water Supply.
-
-◼️
-
-[Data](articles/8a4f80f6.json)
-
-[Extended Data](ext_articles/8a4f80f6.ext.json)
 
 ---
 
@@ -1282,7 +1432,7 @@ The sentence was later suspended but Khan remains behind bars in connection with
 
 Government officials have alleged Khan’s aides sold the gifts in Dubai.
 
-China and India Drive Upward Revision in IMF’s Asia-Pacific Growth Projection
+Sri Lankan Expressway to See New Rules and Minimum Speed Limits
 
 ◼️
 
@@ -1728,7 +1878,7 @@ A total of 35 vessels called at HIP in July 2023, making it the month for the hi
 
 Talk of The Town | Microfinance Debt Trap & The Rural Poor | Chandra Jayaratne | 31 January 2024
 
-China and India Drive Upward Revision in IMF’s Asia-Pacific Growth Projection
+Sri Lankan Expressway to See New Rules and Minimum Speed Limits
 
 ◼️
 
@@ -1874,148 +2024,12 @@ It was announced that a fine of fifty thousand rupees would be charged for indiv
 
 When asked about the matter, Nihal Wijewardena, Deputy Commissioner of the Inland Revenue Department, stated that those who did not obtain the relevant number by February 1, 2024, will not be fined.
 
-China and India Drive Upward Revision in IMF’s Asia-Pacific Growth Projection
+Sri Lankan Expressway to See New Rules and Minimum Speed Limits
 
 ◼️
 
 [Data](articles/3c37bb40.json)
 
 [Extended Data](ext_articles/3c37bb40.ext.json)
-
----
-
-### Justice is boxing
-
-*2024-01-31 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192774) · `si`
-
-729 suspects have been arrested in the 24 hours of the 24-hour operations throughout the country under the operation of justice.
-
-The Ministry of Defense said that 230 suspects were arrested in the list of drug misconduct and the list of criminal sections.
-
-The security forces have taken 146 grams of heroin, including 119 lies, and 119 g of ice.
-
-The Ministry of Defense stated that four suspects have been retained for rehabilitation and four drug addicts have been sent to rehabilitation.
-
-Among the 230 suspects in the list of the criminal sections, 204 suspended suspects and non-drug errors have been arrested in connection with the Narcotics and non-drug errors.
-
-◼️
-
-[Data](articles/ba1ca44d.json)
-
-[Extended Data](ext_articles/ba1ca44d.ext.json)
-
----
-
-### Jagath Priyankara to fill Sanath Nishantha’s MP seat
-
-*2024-01-31 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/96871/jagath-priyankara-to-fill-sanath-nishanthas-mp-seat) · `en`
-
-National Freedom Front (Jathika Nidahas Peramuna) member L.K. Jagath Priyankara’s name has been gazetted to fill the MP seat left vacant following the tragic death of State Minister Sanath Nishantha.
-
-Issuing a statement regarding the matter, the Election Commission of Sri Lanka (ECSL) stated that as per 13(b)of Article 99 of the Constitution, and in pursuant to Section 64(2) of the Parliamentary ELections Act, No. 01 of 1981, L. K. Jagth Priyankara has been declared elected as an MP for the Puttalam electoral district No. - 16.
-
-State Minister Sanath Nishantha and his security officer died in a tragic accident that took place on the Colombo - Katunayake expressway in the early hours of the day.
-
-According to the police, the state minister’s vehicle had rear-ended a moving container truck around 2:00 a.m. (25 Jan.), before crashing against the roadside barrier.
-
-...
-
-[Data](articles/87deae1b.json)
-
-[Extended Data](ext_articles/87deae1b.ext.json)
-
----
-
-### Shantan's mother met Minister Douglas
-
-*2024-01-31 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175197) · `ta`
-
-Minister Douglas Devananda has promised that Shantan, who was arrested and released in the Rajiv assassination case, will get a response within a few days.
-
-Her mother and sisters met Minister Douglas Devananda on Tuesday (30), as Shantan, who was released from the verdict of the case, was admitted to the hospital as a shoe.
-
-It is noteworthy that the youth arrested on charges of wearing a tiger logo last November 27 was released by the efforts of Minister Douglas Devananda.
-
-◼️
-
-[Data](articles/6ad98475.json)
-
-[Extended Data](ext_articles/6ad98475.ext.json)
-
----
-
-### Three LTTE cadres arrested for murder of Beliatta
-
-*2024-01-31 09:23:33* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්ත-පංච-පුද්ගල-ඝාතනයට-තවත්-තිදෙනෙක්-අල්ලයි/11-407814) · `si`
-
-The suspects have been arrested for suspects in Beliatta police domain.
-
-Two suspects have been arrested by the Hungama Police Station in the Hungama Police Division. Investigations carried out in the Matara Divisional Secretariat have arrested another suspect in the Matara Police Division.
-
-The suspects were residents of Negombo, Elappuwa and Boossa areas, which were aged at 28,42,58, and the suspension of T-56 firearms used in the murder.
-
-◼️
-
-[Data](articles/c563ec29.json)
-
-[Extended Data](ext_articles/c563ec29.ext.json)
-
----
-
-### Firing in Puttalam;One injury
-
-*2024-01-31 09:23:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளத்தில்-துப்பாக்கிச்சூடு-ஒருவர்-காயம்/175-332389) · `ta`
-
-A shooting incident took place last night in the Buddha Pisces village in the Puttalam -Karuwalakaswewa police division.
-
-A 40 -year -old man from Pavattamaduwa has been injured and admitted to the Puttalam Hospital, police media unit said.
-
-It has been revealed that the injured man was in secret with a woman and another person involved in the investigation had carried out the shooting.
-
-He is currently fleeing the area as the man who fired the shooting was identified.
-
-Further investigations to arrest the suspect are being carried out by the Karuwalakaswewa police.R
-
-◼️
-
-[Data](articles/53eead61.json)
-
-[Extended Data](ext_articles/53eead61.ext.json)
-
----
-
-### Jagath Priyankara for Void of Sanath Nishantha's Member of Parliament;Released Gazette
-
-*2024-01-31 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175196) · `ta`
-
-The Gazette has been issued by the Sri Lanka PA for the Puttalam District, which has been vacated by the death of Minister of State for Minister of State for the Puttalam District.
-
-The name of Jagath Priyankara has been put forward in the last general election.
-
-◼️
-
-[Data](articles/6be18e48.json)
-
-[Extended Data](ext_articles/6be18e48.ext.json)
-
----
-
-### A person injured in Tabbowa shooting
-
-*2024-01-31 09:17:07* · [`adalk`](https://www.ada.lk/breaking_news/තබ්බෝවේ-වෙඩි-තැබිමකින්-පුද්ගලයෙකුට-තුවාල/11-407813) · `si`
-
-Karuwalagaswewa Police said that a person was injured in a shooting at the Karuwalagahawewa Tabbowow Fisheries Village.
-
-The shooting was also injured as Jayantha Rohana, who is a 40 year old, claiming that Tabbowa is a resident of Patotamama.
-
-A mission was carried out to arrest the firearm after the suspect was shot.
-
-The police said that the investigation is also being investigated to disclosure the cause of the shooting.
-
-◼️
-
-[Data](articles/c3245de3.json)
-
-[Extended Data](ext_articles/c3245de3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 08:17:18**
+As of **2024-01-31 08:32:47**
 
 ## Newspaper Stats
 
-*Scraped **3,676** Articles*
+*Scraped **3,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,60 @@ adalk | 331
 virakesarilk | 406
 adaderanasinhalalk | 410
 tamilmirrorlk | 463
-adaderanalk | 467
+adaderanalk | 469
 dailymirrorlk | 499
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,675 (100.0%) of 3,676 articles have been extended.
+3,676 (99.9%) of 3,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### ඉඩම් ඔප්පු හිමිවන අලුත්ම පිරිස
+### Latest people of land
 
 *2024-01-31 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192768) · `si`
 
-ජනතාවගේ ඉඩම් අයිතිය සුරක්ෂිත කිරීම වෙනුවෙන් ක්‍රියාත්මක උරුමය වැඩසටහනේ පළමු අදියර යටතේ ලබාදීමට නියමිත නිදහස් ඔප්පු 10,000 මේ වන විට සකස් කර අවසන් බව සංචාරක හා ඉඩම් අමාත්‍යාංශය පවසයි.
+The Ministry of Tourism and the Land says that 10,000 extent to the Ministry of Lands has already been completed under the first phase of the legacy program implemented in the public ownership of the people.
 
-එම සින්නක්කර ඔප්පු දිස්ත්‍රික් ලේකම් කාර්යාලවලට යොමු කිරීමට පියවර ගෙන ඇති බව එම අමාත්‍යාංශයේ ලේකම් ඒච්. ඒම්. බී.පී. හේරත් මහතා පැවසුවේය.
+The Secretary to the Ministry ACH, steps have been taken to refer these freehold deeds to the District Secretariats.. Um. BP. Herath said.
 
-ජනාධිපති ලේකම් කාර්යාලයේ නිලධාරීන්, දිස්ත්‍රික් ලේකම්වරු හා ප්‍රාදේශීය ලේකම්වරු සමඟ මාර්ගගත ක්‍රමය ඔස්සේ පැවැති සාකච්ඡාවකදී මෙම කරුණු අනාවරණය වී තිබේ.
+These issues have been revealed at a meeting held at the Presidential Secretariat, District Secretaries and Divisional Secretaries.
 
-උරුමය වැඩසටහනේ පළමු අදියර යටතේ ඔප්පු දස දහසක් ප්‍රදානය කිරීමේ ජාතික උත්සවය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් රන්ගිරි දඹුලු ක්‍රීඩාංගණයේදී ලබන පෙබරවාරි 05 වැනිදා පැවැත්වීමට තීරණය කර ඇති බව සඳහන්ය.
+The National Festival of President Ranil Wickremesinghe has decided to conduct the National Festival of President Ranil Wickremesinghe on February 5 at January 05.
 
-සියලූම ඔප්පුලාභීන්ට කිසිදු අපහසුතාවකින් තොරව මෙම උත්සවයට සහභාගීවීමට පහසුකම් සලසා දෙන ලෙස ජනාධිපති ලේකම් කාර්යාලය විසින් දිස්ත්‍රික් ලේකම්වරුන්ට උපදෙස් ලබාදී ඇති බව ජනාධිපති මාධ්‍ය අංශය පැවසුවේය.
+The Presidential Media Unit said that the Presidential Secretariat has instructed the District Secretariat to facilitate all depends on the event.
 
-මෙම වැඩසටහන යටතේ ගොවි පවුල් ලක්ෂ 20ක් සඳහා නිදහස් ඔප්පු ප්‍රදානය කිරීමට රජය සැලසුම් කර තිබේ.
+The government plans to grant free deeds for Rs. 20 million under this program.
 
 ◼️
 
 [Data](articles/76d97f2d.json)
+
+[Extended Data](ext_articles/76d97f2d.ext.json)
+
+---
+
+### Three more suspects arrested over Beliatta shooting
+
+*2024-01-31 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/96870/three-more-suspects-arrested-over-beliatta-shooting) · `en`
+
+Police said that another three suspects have been arrested in connection with the recent shooting and killing of five persons at Beliatta in Hambantota District.
+
+The suspects have been arrested in the Hungama area in Matara for allegedly providing the weapons and cash dealings over the incident, police said.
+
+Two more suspects, both females, had been arrested from the Rathgama area for allegedly aiding and abetting the suspects involved in the recent killing of five persons at Beliatta.
+
+The two women, aged 23 and 33 who are residents of Boossa, were arrested following an operation carried out by a team of officers from the Hakmana Police Station in the Rathgama area on Monday morning (29).
+
+Investigations have uncovered that the two firearms used in the shooting incident had been transported from Karapitiya to Boossa in a motorcycle belonging to one of these suspects after the crime was committed.
+
+...
+
+[Data](articles/f3295979.json)
 
 ---
 
@@ -71,6 +93,28 @@ The shooting has been identified and he has fled the area.
 [Data](articles/38c16682.json)
 
 [Extended Data](ext_articles/38c16682.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-01-31 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/96869/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says cloudy skies can be expected over most parts of the island during the morning.
+
+Showers will occur at times in Eastern, Uva and North-central provinces and in Mullaitivu and Matale districts.
+
+Showers or thundershowers will occur at several places elsewhere of the island after 2.00 p.m.
+
+Fairly heavy showers about 75 mm are likely at some places in Uva, Sabaragamuwa and Central provinces and in Ampara district
+
+Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
+
+The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/fa49220e.json)
 
 ---
 
@@ -2005,45 +2049,5 @@ As such, an Executive Committee consisting of senior officials will be appointed
 [Data](articles/6c358f2d.json)
 
 [Extended Data](ext_articles/6c358f2d.ext.json)
-
----
-
-### The scepter and the sword were formally handed over to the next army service
-
-*2024-01-30 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/175159) · `ta`
-
-Kushan Sampath Jayaratne will take charge of tomorrow (31) as the 7th Corps of Parliament. Narendra Fernando, who is retiring from the service from today, has handed over the sword of the scepter and the sword of the army.
-
-The ceremony of the Scepter and the Squadrons of Service and the Service of the Service of the Parliamentary Hall was held today near the silver door of the Parliamentary Hall.
-
-The sword of the scepter and the army servant was formally supplied to the next Army Service, as he retired in Parliament for 42 years.
-
-Narendra Fernando, the 6th Army of Parliament, has served as the Service Service from 2018. Kushan Sampath Jayaratne will take over tomorrow (31) as the 7th Corps of Parliament.
-
-Parliamentary Secretary General Kushani Rohanadeera, Deputy Secretary General of Parliament Saminda Kularatne and heads of Parliament's Department and Parliamentary officials were present.
-
-◼️
-
-[Data](articles/6e0bfe6c.json)
-
-[Extended Data](ext_articles/6e0bfe6c.ext.json)
-
----
-
-### Health service professional unions make a decision
-
-*2024-01-30 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192746) · `si`
-
-Several health care trade unions have been protesting in front of the Ministry of Health today (30).
-
-The protest has held the protest demanding the government doctors to give them the Dat allowance.
-
-The co-convener of the Alliance General Convener of the Co-convener of the Co-convener of the Co-convener of the Co-convener of the UPFA.
-
-◼️
-
-[Data](articles/cb271dae.json)
-
-[Extended Data](ext_articles/cb271dae.ext.json)
 
 ---

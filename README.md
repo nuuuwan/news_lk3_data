@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 17:02:28**
+As of **2024-01-31 17:17:12**
 
 ## Newspaper Stats
 
-*Scraped **3,836** Articles*
+*Scraped **3,837** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 243
 adalk | 343
 adaderanasinhalalk | 435
 virakesarilk | 437
-adaderanalk | 485
+adaderanalk | 486
 tamilmirrorlk | 492
 dailymirrorlk | 518
 
@@ -26,11 +26,29 @@ dailymirrorlk | 518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,826 (99.7%) of 3,836 articles have been extended.
+3,837 (100.0%) of 3,837 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### Amid row with India, Maldives turns to Sri Lanka for medical evacuation support
+
+*2024-01-31 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/96889/amid-row-with-india-maldives-turns-to-sri-lanka-for-medical-evacuation-support) · `en`
+
+Maldives has sought Sri Lanka’s assistance in medical evacuation services — mainly to transport patients to Colombo in air ambulances — amid a persisting strain with India.
+
+Maldivian Minister of Transport and Civil Aviation Mohamed Ameen met his Sri Lankan counterpart Nimal Siripala de Silva in Colombo on Tuesday, and said on social media platform ‘X’, that Sri Lanka has agreed to help the Maldives with medical evacuation. “We have specifically agreed upon creating a framework for immediate approval process between Maldives and Sri Lanka on urgent requirements, specifically on med-evac flights,” Mr. Ameen said in his post.
+
+“They [Maldives] will use their air ambulances, this is to help keep this channel open and easy for any emergency medical treatment that Maldivians might need in Sri Lanka,” Mr. de Silva told The Hindu Wednesday morning.  Sri Lanka and India are among the Maldives’s closest neighbours, and Maldivians have always had close ties in Colombo, a city they frequent.
+
+...
+
+[Data](articles/4d02d1a7.json)
+
+[Extended Data](ext_articles/4d02d1a7.ext.json)
+
+---
 
 ### Police fire tear gas at protesting students in Peradeniya
 
@@ -42,71 +60,83 @@ Police have fired tear gas and water cannons near the Peradeniya Rest House in a
 
 [Data](articles/7c6ba019.json)
 
+[Extended Data](ext_articles/7c6ba019.ext.json)
+
 ---
 
-### பாராளுமன்றத்தின் 7வது படைக்கலச் சேவிதராக குஷான் சம்பத் ஜயரத்ன  கடமைகளைப் பொறுப்பேற்றார்
+### Kushan Sampath Jayaratne assumed duties as the 7th Corps of Parliament
 
 *2024-01-31 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175256) · `ta`
 
-இலங்கைப் பாராளுமன்றத்தின் 7வது படைக்கலச் சேவிதராக குஷான் சம்பத் ஜயரத்ன இன்று (31) தனது கடமைகளைப் பொறுப்பேற்றார்.
+Kushan Sampath Jayaratne took over his duties today as the 7th Army of the Parliament of Sri Lanka.
 
-பாராளுமன்றத்தின் 6வது படைக்கச் சேவிதராக கடமையாற்றிய நரேந்திர பெர்னாந்து நேற்று செவ்வாய்க்கிழமை (30) ஓய்வுபெற்ற நிலையில், 07 ஆவது படைக்கலச் சேவிதராக குஷான் சம்பத் ஜயரத்ன இன்று பொறுப்பேற்றுக்கொண்டார்.
+Kushan Sampath Jayaratne took over as the 7th Service of Narendra Fernando on Tuesday (30).
 
-ஓய்வுபெற்ற படைக்கலச் சேவிதர் நரேந்திர பெர்னாந்துவினால் புதிய படைக்கலச் சேவிதர் குஷான் சம்பத் ஜயரத்னவுக்கு சம்பிரதாயபூர்வமாக செங்கோல் மற்றும் படைக்கலச் சேவிதரின் வாள் கையளிக்கும் நிகழ்வு நேற்று (30) முற்பகல் பாராளுமன்ற சபை மண்டபத்தின் வெள்ளிக் கதவுக்கு அருகில் இடம்பெற்றது.
+The ceremony was held yesterday (30) near the silver door of the Parliament Hall by the Scepter and Service Servant's sword.
+
+Kushan Sampath Jayaratne worked in the Sri Lanka Navy from 1994 to 2007. He had joined the high -speed attack during his service and provided the most effective service. He then joined the Parliamentary Service of the Sri Lanka Parliamentary Service in 2007 and was appointed as the Deputy Service Service in 2018.. Accordingly, he served in the post until yesterday (30).
 
 ...
 
 [Data](articles/64d79700.json)
 
+[Extended Data](ext_articles/64d79700.ext.json)
+
 ---
 
-### ஜனாதிபதிதேர்தல் வேட்பாளர்களி;ல் யாருக்கு அதிக ஆதரவு -ஐஎச்பியின் கருத்துக்கணிப்பு தெரிவி;ப்பது என்ன?
+### The presidential election candidates, who is more supportive -what is the poll of the IHP?
 
 *2024-01-31 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175255) · `ta`
 
-ஜனாதிபதி தேர்தல் வேட்பாளர்களில் ஜேவிபியின் அனுரகுமாரதிசநாயக்கவிற்கே தொடர்ந்தும் அதிகள ஆதரவு காணப்படுவது கருத்துக்கணிப்பொன்றின் மூலம் தெரியவந்துள்ளது.
+A poll revealed that JVP's Anura Kumaradisanayake continues to support the presidential candidates.
 
-எதிர்வரும் ஜனாதிபதி தேர்தலின் போது யாருக்கு வாக்களிப்பது என்ற மக்களின் மனோநிலையை அறிவதற்காக டிசம்பர் மாதம் இன்ஸ்டியுட் ஒவ் ஹெல்த் பொலிசி என்ற அமைப்பு நடத்திய கருத்துக்கணிப்பின் மூலம் இது தெரியவந்துள்ளது.
+This was revealed in a poll conducted by Institute of Health Police in December to find out the people's mindset about who to vote during the upcoming presidential election.
 
-ஜேவிபியின் தலைவருக்கு 50 வீதமான ஆதரவும் ஐக்கிய மக்கள் சக்தியின் தலைவருக்கு 33 வீத ஆதரவும் ஜனாதிபதி ரணி;ல்விக்கிரமசிங்கவிற்கு 9 வீத ஆதரவும் காணப்படுவது இந்த கருத்துக்கணிப்பி;ன் மூலம் தெரியவந்துள்ளதாக ஐஎச்பி அமைப்பு தெரிவித்துள்ளது.
+The HPP has revealed that 50 percent support for the JVP leader, 33 percent of the support of the United People's Power and 9 % for President Rani Lwickramasinghe.
 
-2023 நடுப்பகுதியிலிருந்து அனுரகுமாரதிசநாயக்கவி;ற்கான ஆதரவு அதிகரித்துள்ளது எனினும் டிசம்பரில் வீழ்ச்சி காணப்பட்டது ஐக்கியமக்கள் சக்தியின் தலைவருக்கான ஆதரவு 2023 செப்டம்பர் மாதத்திற்கு பின்னர் 3 வீதத்தினால் அதிகரித்துள்ளது ஜனாதிபதி ரணில்விக்கிரமசிங்கவிற்கான ஆதரவு ஆறுவீதத்தினால் வீழ்ச்சியடைந்துள்ளது என்பது ஐஎச்பியின் கருத்துக்கணிப்பின் மூலம் தெரியவந்துள்ளது.
+Since mid -2023, the support of Anuragumaratisanayakavi has increased in December, but the support for the leader of the United Nations Power has increased by 3 percent after September 2023, according to the IHP's opinion.
 
 ◼️
 
 [Data](articles/1afdf595.json)
 
+[Extended Data](ext_articles/1afdf595.ext.json)
+
 ---
 
-### இரண்டு சட்டமூலங்களை சபாநாயகர் சான்றுரைப்படுத்தினார்
+### The Speaker testified the two bills
 
 *2024-01-31 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175254) · `ta`
 
-அண்மையில் பாராளுமன்றத்தில் நிறைவேற்றப்பட்ட மத்தியஸ்திலிருந்து விளைகின்ற சர்வதேச தீர்த்துவைத்தல் உடன்படிக்கைகளை ஏற்றங்கீகரித்தலும் மற்றும் வலுவுறுத்தலும் சட்டமூலம், நொத்தாரிசு (திருத்த) சட்டமூலம் ஆகிய இரு சட்ட மூலங்களில் சபாநாயகர்  மஹிந்த யாப்பா அபேவர்தன நேற்று செவ்வாய்க்கிழமை (30) தனது கையொப்பத்தையிட்டு சான்றுரைப்படுத்தினார்.
+Speaker Mahinda Yapa Abeywardena on Tuesday (30) testified on Tuesday (30) in two legal sources of the Bill and the Notaris (Amendment) Bill, accepting and reinforcing the International Title of the International Title of Parliament.
 
-இதற்கமைய, இந்தச் சட்டமூலங்கள் 2024 ஆம் ஆண்டின் 5 ஆம் இலக்க மத்தியஸ்திலிருந்து விளைகின்ற சர்வதேச தீர்த்துவைத்தல் உடன்படிக்கைகளை ஏற்றங்கீகரித்தலும் மற்றும் செயல்வலுபெறுதலும் சட்டம், 2024 ஆம் ஆண்டின் 6 ஆம் இலக்க நொத்தாரிசு (திருத்த) சட்டமாக அமுலுக்கு வருகின்றன.
+Accordingly, these bills are enacted as the Amendment Act, No. 6 of 2024, to adopt and activities the International Settlement Agreement, which comes from the mediation of 2024.
 
-இதேவேளை பாராளுமன்றத்தில் இறுதியாக நிறைவேற்றப்பட்ட சர்ச்சைக்குரிய நிகழ்நிலை காப்புச் சட்டமூலத்தில் சபாநாயகர் இதுவரை கைச்சாத்திட்டு சான்றுரைப்படுத்தவில்லை என்பது குறிப்பிடத்தக்கதாகும்.
+At the same time, the Speaker has not yet signed and certified the controversial controversial bill that was finally passed in Parliament.
 
 ◼️
 
 [Data](articles/bef3b62c.json)
 
+[Extended Data](ext_articles/bef3b62c.ext.json)
+
 ---
 
-### யாழில் சிறையிலிருந்து விடுதலையான இளைஞன் உயிரிழப்பு
+### Youth released from jail in Jaffna
 
 *2024-01-31 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175253) · `ta`
 
-யாழ்ப்பாண சிறைச்சாலையில் இருந்து விடுவிக்கப்பட்ட இளைஞன், நேற்று செவ்வாய்க்கிழமை (30) சந்தேகத்திற்கு இடமான முறையில் உயிரிழந்துள்ளார்.
+A young man who was released from the Jaffna Prison died yesterday (30).
 
-யாழ்ப்பாண சிறையில் தடுத்து வைக்கப்பட்டு இருந்த குறித்த இளைஞன் கடந்த ஜனவரி மாதம் 26ஆம் திகதி , விடுவிக்கப்பட்டு இருந்தார்.
+The young man was released on January 26 last year.
 
-சடலம் உடற்கூற்று பரிசோதனைக்காக யாழ்.போதனா வைத்தியசாலையில் ஒப்படைக்கப்பட்டுள்ள நிலையில் , உடற்கூற்று பரிசோதனையின் பின்னரே இறப்புக்கான காரணம் தெரிய வரும் என வைத்திய சாலை நிர்வாகம் தெரிவித்துள்ளது.
+The body has been handed over to the Jaffna Bodhana Hospital for anatomical examination and the cause of death will be revealed only after the anatomical examination, the Medical Road Administration said.
 
 ◼️
 
 [Data](articles/5672206b.json)
+
+[Extended Data](ext_articles/5672206b.ext.json)
 
 ---
 
@@ -144,23 +174,31 @@ Thus, the said Bills will come into effect as the Recognition and Enforcement of
 
 [Data](articles/87c4de3b.json)
 
+[Extended Data](ext_articles/87c4de3b.ext.json)
+
 ---
 
-### தேசிய வீடமைப்பு அபிவிருத்தி அதிகார சபையின் திட்டங்களை நடைமுறைப்படுத்த ஒருங்கிணைப்புக் குழுக்களின் அனுமதி அவசியம் - பிரசன்ன ரணதுங்க
+### Coordinating Committees are required to implement the projects of the National Housing Development Authority - Prasanna Ranatunga
 
 *2024-01-31 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175247) · `ta`
 
-தேசிய வீடமைப்பு அபிவிருத்தி அதிகார சபையினால் முன்னெடுக்கப்படும் அனைத்து அபிவிருத்தித் திட்டங்களையும் நடைமுறைப்படுத்துவதற்கு முன்னர் மாவட்ட ஒருங்கிணைப்புக் குழுக்களின் அனுமதியைப் பெறுவது கட்டாயம் என நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+Urban Development and Housing Minister Prasanna Ranatunga said that it is mandatory to obtain the permission of the District Coordinating Committees before implementing all the development projects carried out by the National Housing Development Authority.
 
-இதுபோன்ற செயல்களைச் செய்வதன் மூலம் திட்டங்களை நிறைவேற்றுவதில் உள்ள சிக்கல்களைத் தவிர்க்கலாம் என்று அவர் வலியுறுத்துகிறார்.
+He emphasizes that by performing such activities, the problems in accomplishing projects can be avoided.
 
-பத்தரமுல்ல வோட்டர்ஸ் எட்ஜ் நிறுவனத்தில் நேற்று திங்கட்கிழமை (29) நடைபெற்ற தேசிய வீடமைப்பு அபிவிருத்தி அதிகார சபையின் மாவட்ட முகாமையாளர்கள் மாநாட்டில் கலந்துகொண்டு கருத்து தெரிவிக்கும் போதே அமைச்சர் பிரசன்ன ரணதுங்க மேற்கண்டவாறு தெரிவித்தார்.
+Minister Prasanna Ranatunga said this while attending the District Managers Conference of the National Housing Development Authority held at the Voters Edge of Battaramulla on Monday (29).
 
-இதில் தேசிய வீடமைப்பு அபிவிருத்தி அதிகார சபையின் அனைத்து மாவட்ட முகாமையாளர்கள் மற்றும் உயர் அதிகாரிகள் கலந்துகொண்டனர்.
+All district managers and top officials of the National Housing Development Authority were present.
+
+The workshop was organized to review the progress of the National Housing Development Authority at the district level last year and discuss the goals and housing projects of the National Housing Development Authority this year.
+
+The Chairman of the National Housing Development Authority Rajeev Suriyarachchi said the following.
 
 ...
 
 [Data](articles/71ee3354.json)
+
+[Extended Data](ext_articles/71ee3354.ext.json)
 
 ---
 
@@ -220,6 +258,8 @@ Responding to questions from students at the Indian Institute of Management (IIM
 
 [Data](articles/6191867e.json)
 
+[Extended Data](ext_articles/6191867e.ext.json)
+
 ---
 
 ### Colombo’s inflation increases to 6.4% in January
@@ -239,6 +279,8 @@ In addition to this, the year-on-year inflation of the non-food group increased 
 ...
 
 [Data](articles/f771f57f.json)
+
+[Extended Data](ext_articles/f771f57f.ext.json)
 
 ---
 
@@ -326,21 +368,23 @@ Ravi Kumudesh, co -organizer of the Health Trade Unions Federation, said that th
 
 ---
 
-### இலங்கையின் சுதந்திரநாள்! ஈழத்தமிழர்களின் கரிநாள்! பறிக்கப்பட்ட தமிழர்களின் சுயநிர்ணய உரிமையை மீளப்பெற்றுத்தர வலியுறுத்தி பிரிட்டனில்  மாபெரும் கண்டனப் பேரணி
+### Sri Lanka's Independence Day!The day of the Eelam Tamils!A massive rally in Britain urging the restoration of the self -determination of the plucked Tamils
 
 *2024-01-31 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175242) · `ta`
 
-ஈழத்தமிழர் பேரவை தமிழர் ஒருங்கிணைப்பு குழு சர்வதேசதமிழீழ இராஜதந்திரகட்டமைப்பு தமிழ்இளையோர் அமைப்பு ஆகியன இணைந்து இந்த பேரணியை ஏற்பாடு செய்துள்ளன.
+The rally has been organized by the Tamil Eelam Coordination Committee International Tamil Eelam Diplomacy Tamil Nadu.
 
-"ஒரு நாட்டின் பிராந்திய ஒருமைப்பாடு என்பது அந்நாட்டில் உள்ள இனக்குழுக்களை சமமாக நடத்துவதை அடிப்படையாகக் கொண்டது. ஒரு இனக்குழுவிற்கு சமத்துவம் வழங்கப்படாத பட்சத்தில்இ சமத்துவம் மற்றும் இறுதியில் பிரிவினைக்கான அதன் உரிமைகோரல்களை வலியுறுத்த உரிமை உள்ளது என்பதை சுயநிர்ணய உரிமை மக்களின் சமத்துவம் மற்றும் பிராந்திய ஒருமைப்பாடு ஆகியவற்றை உள்ளடக்கிய சர்வதேச சட்டம் வலியுறுத்துகிறது "
+“Regional integrity of a country is based on the fact that the ethnic groups in the country are equally. International law, which includes the equality and regional integrity of the people, emphasizes the right to emphasize equality and its claims to the end of separation, if an ethnic group is not given equality ”.
 
-இவ்வரையறைக்குள் வட்டுக்கோட்டைத் தீர்மானத்தின் அடிப்படையில் தமிழர்களின் சுயநிர்ணய உரிமையை மீளப்பெற்றுத்தர வலியுறுத்தி எதிர்வரும் பெப்ரவரி 4ஆம் நாள் அன்று பிரித்தானிய தலைநகர் லண்டனில் பாரிய கவனயீர்ப்பு பேரணி நடைபெறவுள்ளது.
+A massive rally will be held in London, the British capital, on the 4th of February, demanding the recovery of the self -determination of Tamils on the basis of the Vaddukoddai resolution.
 
-உலகெங்கிலும் இருந்து பல்லாயிரத்திற்கும் மேற்பட்ட தமிழின உணர்வாளர்கள் கலந்துகொண்டு உரிமைக்குரல் எழுப்பவுள்ள இப் பேரணியானது  இலங்கை உயர்ஸ்தானிகர் அலுவலகத்திற்கு உயர்  முன்பாக ஆரம்பித்து நடைபவனியாக செல்லவுள்ளது.
+The rally, which is expected to raise more than tens of thousands of Tamils from all over the world, will start the Sri Lankan High Commission's office in front of the office.
 
 ...
 
 [Data](articles/16d3ec0f.json)
+
+[Extended Data](ext_articles/16d3ec0f.ext.json)
 
 ---
 
@@ -1975,23 +2019,5 @@ Sri Lankan Expressway to See New Rules and Minimum Speed Limits
 [Data](articles/dc60120e.json)
 
 [Extended Data](ext_articles/dc60120e.ext.json)
-
----
-
-### Stone attack on police in United People's Power Demonstration
-
-*2024-01-31 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175208) · `ta`
-
-Three police sergeants have been injured and admitted to the Colombo National Hospital during the stones of demonstrators during the United People's Power Demonstration rally against the government on Tuesday (30).
-
-Three sergeants working in Kaluppitti, Colombo Municipal Transport Division and Ehaliyagoda were injured, police said.
-
-Meanwhile, three police officers were injured when police threw stones at a protest march near the Vikramadeva Park in Colombo.
-
-◼️
-
-[Data](articles/2b0c73c0.json)
-
-[Extended Data](ext_articles/2b0c73c0.ext.json)
 
 ---

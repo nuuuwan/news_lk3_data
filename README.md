@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 04:50:05**
+As of **2024-02-01 05:02:24**
 
 ## Newspaper Stats
 
-*Scraped **3,950** Articles*
+*Scraped **3,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 62
 dbsjeyarajcom | 130
 islandlk | 208
 economynextcom | 221
-dailyftlk | 243
+dailyftlk | 246
 newsfirstlk | 248
 adalk | 350
 virakesarilk | 440
@@ -26,11 +26,71 @@ dailymirrorlk | 545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,950 (100.0%) of 3,950 articles have been extended.
+3,950 (99.9%) of 3,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### Five Sri Lankan companies display innovations at Ambiente 2024
+
+*2024-02-01 04:24:11* · [`dailyftlk`](https://www.ft.lk/business/Five-Sri-Lankan-companies-display-innovations-at-Ambiente-2024/34-758010) · `en`
+
+After an energetic five-day event, the premier trade fair Ambiente 2024 concluded. With 5,000 exhibitors, the largest global platform for consumer goods showcased the latest trends.
+
+This one-stop shop, which hosted participants from 170 nations, emphasised themes like design, digitalisation, new work, and sustainability.
+
+Around 140,000 visitors from all branches of trade and sales channels were inspired by a wealth of trends and innovations at Ambiente 2024.
+
+Five exhibitors from Sri Lanka, such as Gospel House Handicrafts Ltd., Art Decoration International and Javana Graphics, were located in Halls 10.1 and 10.4, dedicated to Living and Giving. Dankotuwa Porcelain was positioned in Hall 12.0, specifically designated for Dining. Additionally, AMP Ceylon Ltd. took part in Christmasworld, situated in Hall 6.2.
+
+...
+
+[Data](articles/e80d6630.json)
+
+---
+
+### SF demands removal of Daya Ratnayake from SJB
+
+*2024-02-01 04:21:58* · [`dailyftlk`](https://www.ft.lk/news/SF-demands-removal-of-Daya-Ratnayake-from-SJB/56-758009) · `en`
+
+Says many former Army officers supporting SJB have expressed concerns about Ratnayake being welcomed by party
+
+Claims Ratnayake is either irrational or shameless to join SJB after filing evidence against SF for 2010 trial which led to his imprisonment
+
+Expresses deep disgust at prospect of engaging in politics alongside someone with such a history
+
+Assures he will not leave SJB due to this incident and remains committed to party
+
+Samagi Jana Balawegaya (SJB) MP and former Army Commander Field Marshal Sarath Fonseka yesterday demanded the removal of General Daya Ratnayake from the party.
+
+Ratnayake joined the SJB on Monday during a meeting with SJB leader Sajith Premadasa and was promptly appointed as the party’s Senior Advisor on State Affairs.
+
+During a press conference, Fonseka revealed that he has been receiving calls and visits from numerous senior Army Officers expressing their concerns about the party’s decision to welcome Ratnayake into its ranks.
+
+...
+
+[Data](articles/92b9faeb.json)
+
+---
+
+### Passports to cost dearly
+
+*2024-02-01 04:19:45* · [`dailyftlk`](https://www.ft.lk/news/Passports-to-cost-dearly/56-758008) · `en`
+
+The Immigration and Emigration Department announced yesterday that it has increased passport issuance fees for two categories, effective from today.
+
+As per the new revision, normal and online passport issuance prices have increased from Rs. 5,000 to Rs. 10,000.
+
+The fee adjustment follows a previous increase on 17 November 2022, where 10 different passport-related fees experienced an upward revision.
+
+In 2023, the Immigration and Emigration Department issued a total of 849,829 passports, slightly below the all-time high of 911,757 passports issued in 2022. Despite the levy hike, the Immigration and Emigration Department officials said no deceleration was seen in applications received.
+
+◼️
+
+[Data](articles/75915ad2.json)
+
+---
 
 ### Wetlands: Nature’s Sponges, Vital For Our Well-Being
 
@@ -1997,61 +2057,5 @@ So far, approximately 31 petitions have been filed with the Supreme Court demand
 [Data](articles/8691fadc.json)
 
 [Extended Data](ext_articles/8691fadc.ext.json)
-
----
-
-### The Speaker testified the two bills
-
-*2024-01-31 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175254) · `ta`
-
-Speaker Mahinda Yapa Abeywardena on Tuesday (30) testified on Tuesday (30) in two legal sources of the Bill and the Notaris (Amendment) Bill, accepting and reinforcing the International Title of the International Title of Parliament.
-
-Accordingly, these bills are enacted as the Amendment Act, No. 6 of 2024, to adopt and activities the International Settlement Agreement, which comes from the mediation of 2024.
-
-At the same time, the Speaker has not yet signed and certified the controversial controversial bill that was finally passed in Parliament.
-
-◼️
-
-[Data](articles/bef3b62c.json)
-
-[Extended Data](ext_articles/bef3b62c.ext.json)
-
----
-
-### Inflation further up
-
-*2024-01-31 16:20:46* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-තවදුරටත්-ඉහළට/11-407826) · `si`
-
-The latest report issued by the Department of Census and Statistics that inflation has further increased in January.
-
-Consumer inflation rate of Colombo Municipal Community has increased to 6.4% for January 2024. It was recorded as 4.0% for December 2023.
-
-In the month of January, the annual inflation of food category increased to 3.3%, and in December 2023, it was 0.3%.
-
-The non-food annual inflation (point) has increased to 7.9% in December 2023.
-
-◼️
-
-[Data](articles/0e1edded.json)
-
-[Extended Data](ext_articles/0e1edded.ext.json)
-
----
-
-### Youth released from jail in Jaffna
-
-*2024-01-31 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175253) · `ta`
-
-A young man who was released from the Jaffna Prison died yesterday (30).
-
-The young man was released on January 26 last year.
-
-The body has been handed over to the Jaffna Bodhana Hospital for anatomical examination and the cause of death will be revealed only after the anatomical examination, the Medical Road Administration said.
-
-◼️
-
-[Data](articles/5672206b.json)
-
-[Extended Data](ext_articles/5672206b.ext.json)
 
 ---

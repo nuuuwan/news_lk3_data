@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 05:17:15**
+As of **2024-01-31 05:36:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,659 (100.0%) of 3,660 articles have been extended.
+3,660 (100.0%) of 3,660 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -313,6 +313,8 @@ No US President, former or incumbent, has suffered the humiliation that Donald T
 ...
 
 [Data](articles/e2915e77.json)
+
+[Extended Data](ext_articles/e2915e77.ext.json)
 
 ---
 

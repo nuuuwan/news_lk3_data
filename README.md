@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 13:32:48**
+As of **2024-01-31 13:51:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 502
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,760 (99.8%) of 3,766 articles have been extended.
+3,766 (100.0%) of 3,766 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The deceased’s relatives, however, raised suspicions pertaining to the circums
 ◼️
 
 [Data](articles/31779aab.json)
+
+[Extended Data](ext_articles/31779aab.ext.json)
 
 ---
 
@@ -402,41 +404,45 @@ Additionally, he holds various prominent positions such as a Member of the Counc
 
 ---
 
-### நாம் வெளிநாட்டிலிருந்து மீனை இறக்குமதி செய்கிறோம் ; டொலரை ஈட்டுகின்ற வளங்கள் பயன்படுத்தப்படாமல் வீணாகின்றன - ரில்வின் சில்வா
+### We import fish from abroad;The resources that make the dollar are wasted without being used - Rilvin Silva
 
 *2024-01-31 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/175215) · `ta`
 
-தற்போது மீன்பிடிக் கைத்தொழில், விவசாயம் உள்ளிட்ட அனைத்துக் கைத்தொழில்களும் தொழில்முயற்சிகளும் போன்றே நாட்டின் பொருளாதாரமும் முழுமையாகவே சீரழிக்கப்பட்டுள்ளதென மக்கள் விடுதலை முன்னணியின் பொதுச்செயலாளர் ரில்வின் சில்வா தெரிவித்தார்.
+The General Secretary of the Janatha Vimukthi Peramuna (JVP), Rilvin Silva, said that the economy of the country, including all the industries and entrepreneurs, including the fishing industry and agriculture, is completely degraded.
 
-கழுத்துறை மாவட்ட மீனவர் மாநாடும் அகில இலங்கை பொது மீனவர் சம்மேளனமும் அண்மையில் இடம்பெற்றது. இதில் கலந்துகொண்டு உரையாற்றுகையிலேயே ரில்வின் சில்வா மேற்கண்டவாறு தெரிவித்தார்.
+Recently held at the Neighborhood Fishermen Conference and the All Ceylon Fishermen's Federation. Rilvin Silva said this while addressing the gathering.
 
-இந்த பேருவளை நகரம் இரத்தினக்கல் கைத்தொழிலைப்போன்றே சுற்றுலாக் கைத்தொழிலுக்கும் மிகவும் பிரசித்தி பெற்றதாகும். அவையனைத்தும் தற்போது சீரழிக்கப்பட்டுள்ளன.
+The city of Beruwala is also very popular as the Gemstone Industry. All of them are currently being degraded.
 
-எமது ஒட்டுமொத்த பொருளாதாரமுமே சீரழிக்கப்பட்டுள்ளது. நாங்கள் வங்குரோத்து அடைந்த ஒரு நாட்டிலேயே வசிக்கிறோம். மத்திய வங்கி பிரதானிகன் உத்தியோகபூர்வமாக அறிவித்தார்கள் "எமது நாடு வங்குரோத்து" நாங்கள் பெற்ற கடனை திருப்பிச் செலுத்த முடியாது.
+Our overall economy has been degraded. We live in a country of bankrupt. The Central Bank chief has officially announced the "our country bankrupt" we cannot repay the loan we received.
 
 ...
 
 [Data](articles/10fd5c7a.json)
 
+[Extended Data](ext_articles/10fd5c7a.ext.json)
+
 ---
 
-### மெக்சிகோவில் அதிவேக வீதியில் பஸ் விபத்து ; 19 பேர் பலி
+### Bus accident on high -speed road in Mexico;19 killed
 
 *2024-01-31 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175210) · `ta`
 
-மெக்சிகோவில் வடமேற்கு பகுதியில் செவ்வாய்க்கிழமை இரண்டு அடுக்கு பஸ் ஒன்றும் டிரக் ஒன்றும் நேருக்கு நேர் மோதியதில் 19 பேர் உயிரிழந்துள்ளதோடு,  22 பேர் காயமடைந்துள்ளனர்.
+A two -tier bus and a truck collided head -on on Tuesday in the northwestern part of Mexico.
 
-மேற்கு மாநிலமான ஜலிஸ்கோவில் உள்ள குவாடலஜாரா நகரிலிருந்து சினாலோவாவில் உள்ள லாஸ் மோச்சிஸ் நோக்கி பயணித்த பஸ் ஒன்றே இவ்வாறு விபத்துக்குள்ளாகி எரிந்துள்ளது.
+A bus traveling from Quadalajara in the western state of Jalisco, Sinolova, a bus traveling to Los Mochis has been burnt.
 
-ஏறக்குறைய 50 பேரை ஏற்றிச் சென்ற டிரக்கும் பஸ் வண்டியும் நேருக்கு நேர் மோதிக் கொண்டன என்று சினலோவாவில் உள்ள சிவில் பாதுகாப்புப் பணிப்பாளர் ராய் நவரேட் தெரிவித்துள்ளார்.
+Civil Defense Director Roy Navaret in Sinalova said that the truck and the bus carrying nearly 50 people collided face -to -face.
 
-எலோட்டா நகராட்சியில் உள்ள அதிவேகவீதியில் அதிகாலை இடம் பெற்ற குறித்த விபத்துக்கான காரணம் தொடர்பாக அதிகாரிகள் விசாரணை நடத்தி வந்தனர்.
+Officials are investigating the cause of the accident in the early hours of the morning in the municipality of Elota.
 
-செவ்வாய்க்கிழமை அதிகாலையில் நடந்த விபத்தின் பின்விளைவுகளின் படங்கள், அவசரகாலப் பணியாளர்கள் சம்பவ இடத்திற்கு வந்தபோது, எரிந்த வாகனங்கள் இன்னும் எரிந்து கொண்டிருப்பதையும், தீப்பிழம்புகள் மற்றும் புகை வெளியே
+Pictures of the consequences of the accident in the early hours of Tuesday morning, when emergency workers arrived at the scene, the burning vehicles were still burning, the flames and the smoke outside
 
 ◼️
 
 [Data](articles/c027b7ba.json)
+
+[Extended Data](ext_articles/c027b7ba.ext.json)
 
 ---
 
@@ -460,23 +466,25 @@ Global headline inflation is expected to fall to 5.8 percent in 2024 and to 4.4 
 
 ---
 
-### அரச பரிசுப்பொருட்களை விற்பனை செய்த குற்றச்சாட்டு - இம்ரானிற்கும் மனைவிக்கும் 14 வருட சிறை
+### Allegations for selling state gifts - 14 years in prison for Imran and wife
 
 *2024-01-31 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/175213) · `ta`
 
-பாகிஸ்தானின் முன்னாள் பிரதமர் இம்ரான்கானிற்கும் அவரது மனைவி புஸ்ரா பீபிக்கும் ஊழல் குற்றச்சாட்டு தொடர்பில்  பாகிஸ்தான் நீதிமன்றம் 14 வருட சிறைத்தண்டனையை வழங்கியுள்ளது.
+The Pakistani court has sentenced Pakistan's former Prime Minister Imran Khan and his wife Busra Bibi to 14 years in prison.
 
-நேற்று மற்றுமொரு வழக்கில் இம்ரான்கானிற்கு 10 வருட சிறைத்தண்டனை விதிக்கப்பட்ட நிலையிலேயே  இன்று இந்த தீர்ப்பு வெளியாகியுள்ளது.
+The verdict was released today after Imran Khan was sentenced to 10 years in prison in another case.
 
-ஊழல் குற்றச்சாட்டு தொடர்பிலேயே இம்ரான்கானிற்கும் அவரது மனைவிக்கும் நீதிமன்றம் இந்த தண்டனையை வழங்கியுள்ளது.
+The court has sentenced Imran Khan and his wife in connection with the corruption charge.
 
-அரசாங்காங்கத்திற்கு சொந்தமான பரிசுப்பொருட்களை தங்களது சொத்துக்களாக கருதி  விற்பனை செய்தனர் என இம்ரான்கானிற்கும் அவரது மனைவிக்கும் எதிராக குற்றச்சாட்டுகள் சுமத்தப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+It is noteworthy that Imrankhan and his wife were charged with selling government -owned gifts as their assets.
 
-பாகிஸ்தானின் நாடாளுமன்ற தேர்தல் இன்னமும் ஒரு வாரகாலத்தில் இடம்பெறவுள்ளமை குறிப்பிடத்தக்கது. இம்ரான் தேர்தலில் போட்டியிடுவதற்கு தடை விதிக்கப்பட்டுள்ளது.
+It is noteworthy that Pakistan's parliamentary election is still held in a week. Imran is banned from contesting the election.
 
 ◼️
 
 [Data](articles/f4b9a4b9.json)
+
+[Extended Data](ext_articles/f4b9a4b9.ext.json)
 
 ---
 
@@ -518,17 +526,19 @@ Parliamentarian Roshan Ranasinghe, who was present at a public meeting in Nugego
 
 ---
 
-### இலங்கை -  மாலைதீவுகளுக்கு இடையே விமான அம்பியூலன்ஸ் சேவை
+### Air Ambulance Service between Sri Lanka - Maldives
 
 *2024-01-31 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/175201) · `ta`
 
-இலங்கை மற்றும் மாலைதீவை இணைக்கும் விமான அம்பியூலன்ஸ் சேவை மார்ச் மாதம் முதல் ஆரம்பமாகவுள்ளது.
+Air Ambulance service connecting Sri Lanka and the Maldives will begin in March.
 
-மாலைதீவின் போக்குவரத்து மற்றும் விமான சேவைகள் அமைச்சர் கப்டன் மொஹமட் அமீன் மற்றும் இலங்கையின் துறைமுகங்கள், கப்பல் மற்றும் விமானப் போக்குவரத்து அமைச்சர் நிமல் சிறிபால டி சில்வா ஆகியோருக்கு இடையில் நேற்று செவ்வாய்க்கிழமை நடைபெற்ற சந்திப்பில் இருந்து இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
+The decision was taken from Maldives Transport and Aviation Minister Captain Mohamed Amin and Sri Lanka's Ports, Ship and Aviation Minister Nimal Siripala de Silva on Tuesday.
 
 ◼️
 
 [Data](articles/0f613963.json)
+
+[Extended Data](ext_articles/0f613963.ext.json)
 
 ---
 

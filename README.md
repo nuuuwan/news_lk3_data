@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 13:02:22**
+As of **2024-01-31 13:17:20**
 
 ## Newspaper Stats
 
-*Scraped **3,749** Articles*
+*Scraped **3,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,86 +13,272 @@ bbccomsinhala | 61
 dbsjeyarajcom | 129
 economynextcom | 203
 islandlk | 207
-newsfirstlk | 226
+newsfirstlk | 227
 dailyftlk | 243
 adalk | 337
-virakesarilk | 414
+virakesarilk | 424
 adaderanasinhalalk | 424
 adaderanalk | 478
-tamilmirrorlk | 478
+tamilmirrorlk | 482
 dailymirrorlk | 502
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,741 (99.8%) of 3,749 articles have been extended.
+3,749 (99.6%) of 3,764 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### සංගීතයේ දී පොලු පහර කෑ නවාංජන තුන් මාසයක්ම ඇඳ උඩ
+### மஞ்சள் குடையால் மாட்டிய பிக்கு: 3 யுவதிகள் மாயம்
+
+*2024-01-31 12:47:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஞ்சள்-குடையால்-மாட்டிய-பிக்கு-3-யுவதிகள்-மாயம்/175-332408) · `ta`
+
+விகாரையொன்றின் தலைமை பிக்கு ஒருவர், காவியுடை களைந்து, சிவில் உடையணிந்து அழகான இளம் பெண்கள் மூவரு​டன் சுற்றுலா சென்றுள்ள சம்பவமொன்று தென்பகுதியில் இடம்பெற்றுள்ளது.
+
+அவ்வாறு சாதாரண உடையில் இளம் பெண்கள் மூவருடன் வந்து சுற்றித்திரியும் நபர், தங்களுடைய பிரதேசத்தில் உள்ள விகாரை ஒன்றின் பிரதான பிக்கு என்பதை, அந்த கிராமத்தைச் சேர்ந்த இளைஞர்கள் சிலர் கண்டுக்கொண்டதை அடுத்து, கடந்த திங்கட்கிழமை​ (29) விகாரைக்குத் திரும்பிய அந்த பிக்கு, விகாரையை விட்டு வெளியேறி தலைமறைவாகிவிட்டார் என்று ​பொலிஸார் தெரிவிக்கின்றனர்.
+
+இந்த சம்பவம், அளுத்கம,வெலிப்பென்ன தெற்கு அதிவேக நெடுஞ்சாலைக்கு உள்நுழையும் வீதிக்கு அண்மையில் உள்ள கிராமமொன்றின் விகாரையிலேயே இடம்பெற்றுள்ளது என பொலிஸார் தெரிவிக்கின்றனர்.
+
+அந்த பிக்கு, சிவில் உடையில் கதிர்காமத்துக்கு மூன்று இளம் பெண்களுடன் சுற்றுலா சென்றுள்ளார். அதே கிராமத்தைச் சேர்ந்த இளைஞர்கள் சிலரும் கதிர்காமத்துக்கு ஏற்கெனவே சுற்றுலா சென்றிருந்தனர்.
+
+...
+
+[Data](articles/e63d0712.json)
+
+---
+
+### ஜோர்தான் தாக்குதலிற்கு எவ்வாறு பதிலடிகொடுப்பது என நான் தீர்மானித்துவிட்டேன் - ஜோபைடன்
+
+*2024-01-31 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/175226) · `ta`
+
+ஜோர்தான்  ஆளில்லா விமானதாக்குதலிற்கு எவ்வாறு பதிலளிப்பது என்பது குறித்து தான் தீர்மானித்துவிட்டதாக அமெரிக்க ஜனாதிபதி ஜோபைடன் தெரிவித்துள்ளார்.
+
+ஜோர்டானில் உள்ள அமெரிக்க இராணுவதளம் மீது மேற்கொள்ளப்பட்ட ஆளில்லா விமானதாக்குதலில்  மூன்று அமெரிக்கர்கள் கொல்லப்பட்டுள்ள நிலையிலேயே பைடன் இதனை தெரிவித்துள்ளார்.
+
+ஜோர்தான் சிரிய எல்லையிலுள்ள அமெரிக்க தளத்தின் மீது இடம்பெற்ற தாக்குதலிற்கு ஈரானே காரணம் என தான் உறுதியாக கருதுவதாக ஜோபைடன் தெரிவித்துள்ளார்.
+
+கட்டாய்ப் ஹெஸ்புல்லா என்ற அமைப்பிற்கு ஈரான் ஆயுதங்களை வி;ற்பனை செய்வதை அடிப்படையாக வைத்து இந்த முடிவிற்கு வந்துள்ளதாக அவர் தெரிவித்துள்ளார்..
+
+டவர் 22 தளத்தின் மீதான தாக்குதலிற்கும் ஈரானிற்கும் நேரடிதொடர்புள்ளதை உறுதி செய்துள்ளீர்களா என்ற செய்தியாளர்களின் கேள்விகளிற்கு பதிலளித்துள்ள பைடன் அது குறித்து நாங்கள் ஆராய்வோம் அதேவேளை மத்தியகிழக்கில் ஒரு பரந்துபட்ட யுத்தம் அவசியம் என நான் கருதவில்லை எனவும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/a9208960.json)
+
+---
+
+### சிறுமியை பலாத்காரம் செய்தவர் விடுதலை
+
+*2024-01-31 12:39:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியை-பலாத்காரம்-செய்தவர்-விடுதலை/175-332407) · `ta`
+
+16 வயது சிறுமி கடத்தப்பட்டு பாலியல் பலாத்காரம் செய்யப்பட்ட வழக்கில் குற்றம் சாட்டப்பட்ட ஒருவரை காலி மேல் நீதிமன்ற நீதிபதி கவிந்யா நாணயக்கார விடுதலை செய்தார்.  ​​பாதிக்கப்பட்ட பெண்ணும் குற்றம் சாட்டப்பட்டவரும் திருமணமானவர்கள் மற்றும் ஒரு குழந்தையின் பெற்றோர்  என பாதுகாப்பு ஆலோசகர் மற்றும் பொலிஸார் நீதிமன்றத்தில் அறிவித்ததையடுத்து நீதிபதி அவரை விடுதலை செய்து தீர்ப்பளித்தார்.
+
+16 வயது சிறுமியை கடத்தி பாலியல் பலாத்காரம் செய்த குற்றச்சாட்டின் பேரில் சட்டமா அதிபர் அவர் மீது குற்றஞ்சாட்டியுள்ளார்.
+
+அவர் ஜூலை 5 ஆம் திகதி யக்கலமுல்லையில் வைத்து அவரை கடத்திச் சென்று மதவாச்சி மற்றும் அக்குரஸ்ஸ பிரதேசத்தில் வைத்து பாலியல் பலாத்காரம் செய்ததாக அரசு தரப்பு நீதிமன்றத்தில் தெரிவித்திருந்தது.
+
+எவ்வாறாயினும், பிரதிவாதிகளின் சமர்ப்பிப்புகளை பரிசீலித்த உயர் நீதிமன்ற நீதிபதி குற்றம் சாட்டப்பட்டவர்களை விடுதலை செய்தார். விடுதலை செய்யப்பட்ட பிறகு, தம்பதியினர் தங்கள் குழந்தையுடன் நீதிமன்றத்தை விட்டு வெளியேறினர்.
+
+◼️
+
+[Data](articles/7ab87fee.json)
+
+---
+
+### China and India Drive Upward Revision in IMF’s Asia-Pacific Growth Projection
+
+*2024-01-31 12:29:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/china-and-india-drive-upward-revision-in-imf-s-asia-pacific-growth-projection/) · `en`
+
+COLOMBO (News 1st); Krishna Srinivasan, Director of the IMF’s Asia and Pacific Department, announced that the International Monetary Fund (IMF) has revised its growth forecast for the Asia-Pacific region.
+
+The IMF now estimates that the region will grow by 4.7% in 2023, compared to the previous projection of 4.6% in October 2023.
+
+The upward revision is mainly due to China and India’s economic growth.
+
+In China, higher spending on disaster reconstruction and resilience projects supported growth, while strong domestic demand underpinned another increase in India’s growth estimate1.
+
+The IMF has also upgraded its regional growth forecast for 2024 to 4.5%, from 4.2% in October 20231.
+
+Part of the positive dynamic from last year carries over into 2024.
+
+A more supportive external environment, notably robust growth in the United States, reinforces domestic resilience.
+
+...
+
+[Data](articles/df077f86.json)
+
+---
+
+### Three months of the shells hit in music in music
 
 *2024-01-31 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192782) · `si`
 
-කිසියම් පිරිසක් විසින් හිසට එල්ල කරන ලද පහරදීමකින් අද එක්තැන් වී සිටින සිය පුත්‍රයා වන හික්කඩුව වැල්ලවත්තේ පදිංචි 18 හැවිරිදි නවාංජන සඳකැලුම්ට නීතියෙන් නිසි සාධාරණයක් ඉටු වී නොමැති බව ඔහුගේ පවුලේ ඥාතීහු පවසති.
+His family relatives say that the Law of Hikkaduwa, a resident of Hikkaduwa, has not yet done justice from his son Hikkaduwa, a resident of Hikkaduwa.
 
-මේ ප්‍රහාරයත් සමග නවාංජන සඳකැලුම් කිව නොහැකි තරමට අසරණ වී සිටින බවත් ඔහු මේ තත්ත්වයට පත්කළ සැකකරුවන්ට නීතිය හරි හැටි ක්‍රියාත්මක නොවී ඔවුන් සියලුදෙනාම මේ වනවිට නිදැල්ලේ සිටින බවත් ඔවුන් පවසයි.
+They say that with this attack, they are more helpless for the nocharged and that he has not taken the law without law.
 
-නවාජංන මෙම අවාසනාවන්ත තත්ත්වයට මුහුණදී ඇත්තේ 2023 වසරේ ඔක්තෝබර් 20 වෙනිදා හික්කඩුවේ දී බවද ඔහුගේ ඥාතීන් පැවසීය.
+His relatives say that the tradition of the neoverage is in Hikkadese, October 20, 2023, said.
 
-සංගීත සංදර්ශනයක් නැරඹීමට පැමිණි දෙපිරිසක් අතර ඇතිවු ගැටුමක් දුරදිග යෑමෙන් පසු ඊට කිසිසේත්ම සම්බන්ධයක් නොමැති නවාංජනගේ හිසට ද මාරාන්තික ප්‍රහාරයක් එල්ල වී තිබිණි.
+After a clash between two factions visiting a musical show, a deadly attack on the head of Nawaneran's head.
 
-ප්‍රහාරයෙන් ඔහුගේ හිසට වූ බරපතළ තුවාල හේතුවෙන් සැත්කමක් කිරීමට සිදුවු බවත්, සැත්කමේ දී ඔහුගේ හිස් කබලෙන් කොටසක් ඉවත්කර ඇති බවත් ඥාතීන් පවසයි.
+Relatives say that the attack had to be surgery and a part of his skull had been removed in surgery.
 
-ඉවත් කරන ලද හිස් කබලේ කොටස නැවත සකස් කිරීමට වෛද්‍යවරුන්ට නොහැකිව ඇත්තේ දැනට ඔහුගේ ශරීර ශක්තිය දුබල හෙයින් බව ද ඔහුවු පවසති.
+He also says that doctors cannot resist the segment of the skull section of the removed skull is because his body strength is currently weak.
+
+Relatives say that the neighbor is seriously ill and are among a pipe and breathe and breathe and wrote.
+
+The mother of Naronoge mother noted that the youths could not be permanently aware of the rescue of the young man but to be permanently.
 
 ...
 
 [Data](articles/930069a5.json)
 
+[Extended Data](ext_articles/930069a5.ext.json)
+
 ---
 
-### අනුන්ගේ මුදල් වැයකළ ජැකලින් ෆර්නෑන්ඩස් ට වැටුණු ලෙඩේ
+### நீர்ப்பாசனம் மற்றும் நீர் வழங்கல் இராஜாங்க அமைச்சராக ஷசீந்திர ராஜபக்ஷ பதவிப்பிரமாணம் !
+
+*2024-01-31 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175223) · `ta`
+
+நீர்ப்பாசனம் மற்றும் நீர் வழங்கல் இராஜாங்க அமைச்சராக  ஷசீந்திர ராஜபக்ஷ, ஜனாதிபதி ரணில் விக்கிரமசிங்க முன்னிலையில் ஜனாதிபதி செயலகத்தில்  சற்று முன்னர் பதவிப்பிரமாணம் செய்துகொண்டார்.
+
+விபத்தில் உயிரிழந்த சனத் நிஷாந்த நீர்ப்பாசனம் மற்றும் நீர் வழங்கல் இராஜாங்க அமைச்சராக பதவிவகித்திருந்த நிலையிலேயே தற்போது அந்த இராஜாங்க அமைச்சுப் பதவியை ஷசீந்திர ராஜபக்ஷவுக்கு வழங்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8a4f80f6.json)
+
+---
+
+### பத்தாயிரம்  ரூபாவை  இலஞ்சமாகப்  பெற்ற குற்றச்சாட்டில் கைதான மருதமுனையைச்  சேர்ந்தவருக்கு விளக்கமறியல்!
+
+*2024-01-31 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175220) · `ta`
+
+பத்தாயிரம் ரூபாவை  இலஞ்சம் பெற்றார் என்ற குற்றச்சாட்டில் கைது செய்யப்பட்ட  தொழில்  திணைக்கள அதிகாரி ஒருவரை எதிர்வரும் 13ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு பிரதான நீதிவான்  பிரசன்ன அல்விஸ் இன்று புதன்கிழமை (31)  உத்தரவிட்டுள்ளார்.
+
+கடந்த 19ஆம் திகதி இலஞ்ச ஊழல் விசாரணை அதிகாரிகளால் கைது செய்யப்பட்ட மருதமுனையைச் சேர்ந்த  சந்தேக நபரே  விளக்கமறியலில் வைக்கப்பட்டார்.
+
+ஹோட்டல் ஒன்றின்  உரிமையாளர்,  ஊழியர் நலன்புரி நிதியை செலுத்தாமை தொடர்பான சட்டத்தை அமுல்படுத்துவதை தவிர்ப்பதற்காகவே அம்பாறை தொழில் திணைக்களத்தில்  பணிபுரியும் சந்தேக நபரான இந்த அதிகாரி    இலஞ்சப் பணத்தை பெற்றுள்ளதாக விசாரணை ஆணைக்குழு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/ef5fc020.json)
+
+---
+
+### Jacqueline fell into Fernandes on the money of others
 
 *2024-01-31 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192781) · `si`
 
-ශ්‍රී ලාංකික සම්භවයක් ඇති බොලිවුඩ් රංගන ශිල්පිනී ජැකලින් ෆර්නෑන්ඩස්, සුකේෂ් චන්ද්‍රශේකර් සතු මුදල් අපරාධ මගින් උපයාගත් මුදල් බව දැන දැනම වැයකර ඇතැයි ඉන්දීය පොලීසිය, එරට අධිකරණය හමුවේ අනාවරණය කර තිබේ.
+The Indian police have revealed that the Sri Lankan origin of the origin of Sri Lankan origin, Jacked Fernande and Sukalin Farnendas owned by crimes owned by crimes.
 
-එම මුදල් හුවමාරු සම්බන්ධයෙන් ඇය සෑම විටම වසන් කර ඇති බවද ඒ සම්බන්ධයෙන් විමර්ශන සිදුකරන "බලාත්මක කිරීමේ අංශය" දිල්ලි අධිකරණයට දැනුම්වත් කර තිබුණි.
+She always had concealed the money exchanges and the investigation into the "Enforcement Division" had been informed of the Delhi Magistrate.
 
-ජැකලීන්ගේ එවක පෙම්වතාව සිටි බවට පැවසෙන ව්‍යාපාරික සුකේෂ් චන්ද්‍රශේකර් ඉන්දීය රුපියල් කෝටි 200ක මුදල් විශුද්ධිකරණ චෝදනා සම්බන්ධයෙන් සිරගතව සිටින අතර ඇය එම නඩුවේ විත්තිකාරියක් ද වෙයි.
+Sukh Chandraka, which is said to be the boyfriend at the time, was imprisoned on the Indian rupees in cash laundering allegations and is a defendant of the case.
 
 ◼️
 
 [Data](articles/da325b11.json)
 
+[Extended Data](ext_articles/da325b11.ext.json)
+
 ---
 
-### පොලිස් අත්අඩංගුවේ සිටි තරුණයෙක් මරුට
+### இம்ரான்கானுக்கும் மனைவிக்கும்  14 ஆண்டுகள் சிறை
 
-*2024-01-31 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192780) · `si`
+*2024-01-31 12:15:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இம்ரான்கானுக்கும்-மனைவிக்கும்-14-ஆண்டுகள்-சிறை/50-332406) · `ta`
 
-සැකපිට පොලිස් අත්අඩංගුවට ගත් තරුණයෙකු මියයෑම සැකසහිත බව පවසමින් ගම්වාසීන් ඊයේ (30) රාත්‍රියේ අනුරාධපුර පොලීසිය ඉදිරිපිටට රැස්ව සිය විරෝධය පළ කළේය.
+பாகிஸ்தான் முன்னாள் பிரதமர் இம்ரான்கான். பாகிஸ்தான் தெக்ரிக்-இ-இன்சப் கட்சி தலைவரான இவர், 2018 முதல் 2022 வரை பிரதமராக இருந்தார். அந்த காலத்தில் வெளிநாட்டு தலைவர்கள் மற்றும் பிரமுகர்களிடமிருந்து பெற்ற பரிசுகளை அரசிடம் ஒப்படைக்காமல் விற்று சொத்து சேர்த்து ஊழலில் ஈடுபட்டதாக இம்ரான்கான் மற்றும் அவரது மனைவி புஷ்ரா பிபி மீது குற்றச்சாட்டு எழுந்தது. பரிசுப்பொருட்களை அரசு கருவூலமான தோஷகானா என்ற துறையில் ஒப்படைக்காமல் ஊழலில் ஈடுபட்டதாக குற்றச்சாட்டு எழுந்தது.
 
-අනුරාධපුර මූලස්ථාන පොලීසියේ විශේෂ කොට්ඨාශ අපරාධ විමර්ශන අංශය ඊයේ පෙරවරුවේ මෙම තරුණයා සහ තවත් තරුණයින් දෙදෙනෙකු මත්ද්‍රව්‍ය චෝදනාවලට අත්අඩංගුවට ගෙන තිබේ.
+அதேபோல், அரசின் இரகசியங்களை கசியவிட்டதாகவும், பிரதமர் பதவியில் இருந்து நீக்கம் செய்யப்பட்டதை எதிர்த்து வன்முறையை தூண்டியதாகவும் இம்ரான்கான் மீது பல்வேறு வழக்குகள் பதிவு செய்யப்பட்டன. இதில், இம்ரான்கான் கைது செய்யப்பட்டு ராவல்பிண்டியில் உள்ள சிறையில் அடைக்கப்பட்டுள்ளார்.
 
-පසුව ඔවුන්ගේ ඥාතීන් පොලීසියට පැමිණ තරුණයින්ට අවශ්‍ය ආහාර ලබා දී යළිත් නිවසට පැමිණ තිබිණි.
-
-ඊයේ පස්වරුවේ ඥාතීන්ට කිසියම් අයෙක් දුරකථන ඇමතුමක් මඟින් දැනුම් දී ඇත්තේ තරුණයා හදිසියේ අසනීපවීම හේතුවෙන් අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කළ අතර ඉක්මනින් රෝහලට පැමිණෙන ලෙසය.
-
-එම දැනුම්දීමට අනුව එහි ගිය තමන්ට දැකගැනීමට හැකි වූයේ මියගිය තරුණයාගේ නිසල දේහය බව ඥාතීහූ පවසති.
-
-මිය ගිය තරුණයා පොලිස් සිරමැදිරිය තුළදී හදිසියේම රෝගාතුරවීම හේතුවෙන් අනුරාධපුර ශික්ෂණ රෝහලට ඊයේ පස්වරුවේ ඇතුළත් කිරීමෙන් පසුව මියගිය බව පොලිසිය පවසා ඇත.
-
-කෙසේ වෙතත් මියගිය තරුණයාගේ පවු‍ලේ ඥාතීන් පවසන්නේ මෙම මරණය පිළිබඳව සැක සහිත බවය.
-
-මෙසේ මියගොස් ඇත්තේ අනුරාධපුර දෙවන පියවරෙහි පදිංචි ශානුක ගිහාන් මාරඹගේ නමැති වයස අවුරුදු 22ක තරුණයෙකි.
+இதனிடையே, பிரதமராக இருந்தபோது அரசின் இரகசியங்களை கசியவிட்டதாக பதியப்பட்ட வழக்கில் இம்ரான்கானுக்கு 10 ஆண்டுகள் சிறை தண்டனை விதித்து செவ்வாய்க்கிழமை (30)  நீதிமன்றம் உத்தரவிட்டது.
 
 ...
 
+[Data](articles/56e1d489.json)
+
+---
+
+### Youth killed in police custody
+
+*2024-01-31 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192780) · `si`
+
+The villagers were protesting in front of the Anuradhapura police stating that the suspect was suspected of death.
+
+The youth and two other youths have been arrested by the youth and two other youths in the Anuradhapura Headquarters Police.
+
+Their relatives were later coming to the police and provided the youths and returned home.
+
+Relatives have been informed of a telephone call yesterday afternoon, along with the sudden sickness, and the youth was admitted to the Anuradhapura Teaching Hospital and arrive at the hospital soon.
+
+According to the notice, the relatives say they were able to see the dead youth.
+
+The deceased has been identified as the dead man was suddenly ill, the police said.
+
+However, the relatives of the dead youth say that this death is suspicious.
+
+The deceased has been identified as a 22 year old resident of the second step in Anuradhapura.
+
+The mother of the deceased youth abroad and has been alive under the care of grandguna and the success.
+
+◼️
+
 [Data](articles/3f0f8a8b.json)
+
+[Extended Data](ext_articles/3f0f8a8b.ext.json)
+
+---
+
+### ஷசீந்திரவுக்கு புதிய  பதவி
+
+*2024-01-31 12:12:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஷசீந்திரவுக்கு-புதிய-பதவி/175-332405) · `ta`
+
+நீர்ப்பாசனம் மற்றும் நீர்வள முகாமைத்துவ இராஜாங்க அமைச்சராக ஷசீந்திர ராஜபக்ஷ, ஜனாதிபதி ரணில் விக்கிரமசிங்க முன்னிலையில் சத்தியப்பிரமாணம் செய்துகொண்டுள்ளார்.
+
+ஜனாதிபதி செயலகத்தில் இந்த பதவிப் பிரமாணம் இன்று இடம்பெற்றதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/3f2ab9e5.json)
+
+---
+
+### பரசூட் விபத்தில் காயமடைந்த வீரர்களை இராணுவத் தளபதி நேரில் சென்று பார்வையிட்டார்
+
+*2024-01-31 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/175219) · `ta`
+
+கொழும்பு காலி முகத்திடலில் இடம்பெற்ற 76 வது சுதந்திர தின அணிவகுப்பு ஒத்திகையின் போது காயமடைந்த அதிகாரி மற்றும் சிப்பாயின் நலம் குறித்து நேரில் விசாரிப்பதற்காக இராணுவத் தளபதி லெப்டினன் ஜெனரல் விக்கும் லியனகே செவ்வாய்க்கிழமை (ஜனவரி 30) கொழும்பு இராணுவ வைத்தியசாலைக்கு விஜயம் செய்தார்.
+
+திறந்த வான் பாய்ச்சலின் போது ஏற்பட்ட காயங்கள் குறித்து வருத்தம் தெரிவித்த இராணுவத் தளபதி, அதிகாரி மற்றும் சிப்பாயிடம் தனித்தனியாகப் பேசி, தனது வருத்த.த்தினை வெளிப்படுத்தி, அவர்களுக்கு அளிக்கப்படும் சிகிச்சைகள் குறித்து விசாரித்தார்.
+
+இராணுவத் தளபதி வைத்தியசாலையில் மருத்துவ அதிகாரிகளைச் சந்தித்து காயமடைந்த இராணுவ வீரர்களுக்கு மிக உயர்ந்த தரமான சிகிச்சையை வழங்குவதன் முக்கியத்துவத்தை வலியுறுத்தி அவர்கள் விரைவாக குணமடைய உறுதி வழங்கினார்.
+
+◼️
+
+[Data](articles/b682da98.json)
+
+---
+
+### வெளிநாட்டுக்கு  சுற்றுலா செல்லவேண்டுமா? இலங்கைக்கு செல்லுங்கள் - இந்தியர்களிற்கு ஜெய்சங்கர் ஆலோசனை
+
+*2024-01-31 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175218) · `ta`
+
+நீங்கள் சுற்றுலா செல்லவிரும்பினால் இலங்கைக்கு செல்லுங்கள் நான் இதனை விளையாட்டாக சொல்லவில்லை என இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கர் தெரிவித்துள்ளார்.
+
+இந்திய வெளிவிவகார அமைச்சர் தனது உரையில் இலங்கை பொருளாதாரநெருக்கடியை எதிர்கொண்டவேளை இந்தியா வழங்கிய உதவிகளை சுட்டிக்காட்டியுள்ளதுடன் இந்தியா குறித்த சாதகமான உணர்வுகளை இந்தியர்கள் மத்தியில் ஏற்படுத்துவதில் இந்த உதவிகள் முக்கிய பங்களிப்பை செய்துள்ளன எனவும் தெரிவித்துள்ளார்.
+
+உங்களிற்கான எனது ஆலோசனை என்னவென்றால் அடுத்தமுறை நீங்கள் வெளிநாடொன்றிற்கு சுற்றுலா செல்லவிரும்பினால் தயவு செய்து இலங்கைக்கு செல்லுங்கள் நான் உங்கள் அனைவருக்கும் இதனை தெரிவிக்கின்றேன் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+இலங்கையின் சாதாரண பொதுமக்கள் இந்தியாவை மிகவும் உயர்வாக கருதுகின்றனர் பாராட்டுகின்றனர் என தெரிவித்துள்ள ஜெய்சங்கர் இலங்கை பொருளாதார நெருக்கடியை எதிர்கொண்டவேளை ஏனைய உலகநாடுகள் கைவிட்டவேளை இலங்கைக்கு கரம் கொடுத்த நாடு இந்தியா எனவும் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/05531355.json)
 
 ---
 
@@ -128,6 +314,22 @@ The Presidential Media Unit said that the swearing in was carried out at the Pre
 
 ---
 
+### எதிர்காலம் பற்றிய நலமான கனவினைக் கொண்டுவருகின்ற புதிய மக்கள் எழுச்சியொன்று அவசியம் - அநுர குமார திசாநாயக்க
+
+*2024-01-31 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/175216) · `ta`
+
+அனைத்து துறைகளையும் புதிய நோக்கங்களால் நிரப்பி மாற்றியமைத்திட வேண்டும். புதிய சமூக மாற்றமொன்று தேவை.  அந்த மாற்றத்தை ஏற்படுத்திக்கொள்வது ஒரு தனிமனிதனின் அல்லது அரசியல் கட்சியின் செயற்பொறுப்பு மாத்திரமல்ல. மக்கள் அனைவரும் ஒருவராக ஒரே மூச்சில் எழுந்துநின்று உறுதியான திடசங்கற்பத்துடன்  செயலாற்ற வேண்டும் என்று தேசிய மக்கள் சக்தியின் தலைவர்  அநுரகுமார திஸாநாயக்க தெரிவித்தார்.
+
+அண்மையில் இடம்பெற்ற தேசிய மக்கள் சக்தியின் கழுத்துறை மாவட்ட  பெண்கள் மாநாட்டில் கலந்துகொண்டு உரையாற்றுகையிலேயே அநுரகுமார திஸாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
+
+செய்திகளைப் பார்த்தால் அவர்கள் எம்மைப்பற்றி கூறுகின்ற கதைகளையே காண்கிறோம். எமது ஆட்சியின்கீழ் நாங்கள் என்ன செய்யப்போகிறோம் என்பதைக் கூறுபவர்களும் அவர்களே. சர்வதேச நாணய நிதியத்திலிருந்து வந்து  எம்முடன் பேசிய விடயங்கள் பற்றிக் கூறுவதும் அவர்களே. அவர்களின் திகைப்பும் அச்சமும் இவை மூலமாக தெளிவாகின்றது.
+
+...
+
+[Data](articles/3d6f575e.json)
+
+---
+
 ### Former BASL Secretary appointed to CBSL Governing Board
 
 *2024-01-31 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96878/former-basl-secretary-appointed-to-cbsl-governing-board-) · `en`
@@ -148,6 +350,44 @@ Additionally, he holds various prominent positions such as a Member of the Counc
 
 ---
 
+### நாம் வெளிநாட்டிலிருந்து மீனை இறக்குமதி செய்கிறோம் ; டொலரை ஈட்டுகின்ற வளங்கள் பயன்படுத்தப்படாமல் வீணாகின்றன - ரில்வின் சில்வா
+
+*2024-01-31 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/175215) · `ta`
+
+தற்போது மீன்பிடிக் கைத்தொழில், விவசாயம் உள்ளிட்ட அனைத்துக் கைத்தொழில்களும் தொழில்முயற்சிகளும் போன்றே நாட்டின் பொருளாதாரமும் முழுமையாகவே சீரழிக்கப்பட்டுள்ளதென மக்கள் விடுதலை முன்னணியின் பொதுச்செயலாளர் ரில்வின் சில்வா தெரிவித்தார்.
+
+கழுத்துறை மாவட்ட மீனவர் மாநாடும் அகில இலங்கை பொது மீனவர் சம்மேளனமும் அண்மையில் இடம்பெற்றது. இதில் கலந்துகொண்டு உரையாற்றுகையிலேயே ரில்வின் சில்வா மேற்கண்டவாறு தெரிவித்தார்.
+
+இந்த பேருவளை நகரம் இரத்தினக்கல் கைத்தொழிலைப்போன்றே சுற்றுலாக் கைத்தொழிலுக்கும் மிகவும் பிரசித்தி பெற்றதாகும். அவையனைத்தும் தற்போது சீரழிக்கப்பட்டுள்ளன.
+
+எமது ஒட்டுமொத்த பொருளாதாரமுமே சீரழிக்கப்பட்டுள்ளது. நாங்கள் வங்குரோத்து அடைந்த ஒரு நாட்டிலேயே வசிக்கிறோம். மத்திய வங்கி பிரதானிகன் உத்தியோகபூர்வமாக அறிவித்தார்கள் "எமது நாடு வங்குரோத்து" நாங்கள் பெற்ற கடனை திருப்பிச் செலுத்த முடியாது.
+
+...
+
+[Data](articles/10fd5c7a.json)
+
+---
+
+### மெக்சிகோவில் அதிவேக வீதியில் பஸ் விபத்து ; 19 பேர் பலி
+
+*2024-01-31 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175210) · `ta`
+
+மெக்சிகோவில் வடமேற்கு பகுதியில் செவ்வாய்க்கிழமை இரண்டு அடுக்கு பஸ் ஒன்றும் டிரக் ஒன்றும் நேருக்கு நேர் மோதியதில் 19 பேர் உயிரிழந்துள்ளதோடு,  22 பேர் காயமடைந்துள்ளனர்.
+
+மேற்கு மாநிலமான ஜலிஸ்கோவில் உள்ள குவாடலஜாரா நகரிலிருந்து சினாலோவாவில் உள்ள லாஸ் மோச்சிஸ் நோக்கி பயணித்த பஸ் ஒன்றே இவ்வாறு விபத்துக்குள்ளாகி எரிந்துள்ளது.
+
+ஏறக்குறைய 50 பேரை ஏற்றிச் சென்ற டிரக்கும் பஸ் வண்டியும் நேருக்கு நேர் மோதிக் கொண்டன என்று சினலோவாவில் உள்ள சிவில் பாதுகாப்புப் பணிப்பாளர் ராய் நவரேட் தெரிவித்துள்ளார்.
+
+எலோட்டா நகராட்சியில் உள்ள அதிவேகவீதியில் அதிகாலை இடம் பெற்ற குறித்த விபத்துக்கான காரணம் தொடர்பாக அதிகாரிகள் விசாரணை நடத்தி வந்தனர்.
+
+செவ்வாய்க்கிழமை அதிகாலையில் நடந்த விபத்தின் பின்விளைவுகளின் படங்கள், அவசரகாலப் பணியாளர்கள் சம்பவ இடத்திற்கு வந்தபோது, எரிந்த வாகனங்கள் இன்னும் எரிந்து கொண்டிருப்பதையும், தீப்பிழம்புகள் மற்றும் புகை வெளியே
+
+◼️
+
+[Data](articles/c027b7ba.json)
+
+---
+
 ### Global growth projected at 3.1% in 2024 – IMF
 
 *2024-01-31 11:43:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/global-growth-projected-at-3-1-in-2024-imf/) · `en`
@@ -163,6 +403,28 @@ Global headline inflation is expected to fall to 5.8 percent in 2024 and to 4.4 
 ...
 
 [Data](articles/d2b18234.json)
+
+[Extended Data](ext_articles/d2b18234.ext.json)
+
+---
+
+### அரச பரிசுப்பொருட்களை விற்பனை செய்த குற்றச்சாட்டு - இம்ரானிற்கும் மனைவிக்கும் 14 வருட சிறை
+
+*2024-01-31 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/175213) · `ta`
+
+பாகிஸ்தானின் முன்னாள் பிரதமர் இம்ரான்கானிற்கும் அவரது மனைவி புஸ்ரா பீபிக்கும் ஊழல் குற்றச்சாட்டு தொடர்பில்  பாகிஸ்தான் நீதிமன்றம் 14 வருட சிறைத்தண்டனையை வழங்கியுள்ளது.
+
+நேற்று மற்றுமொரு வழக்கில் இம்ரான்கானிற்கு 10 வருட சிறைத்தண்டனை விதிக்கப்பட்ட நிலையிலேயே  இன்று இந்த தீர்ப்பு வெளியாகியுள்ளது.
+
+ஊழல் குற்றச்சாட்டு தொடர்பிலேயே இம்ரான்கானிற்கும் அவரது மனைவிக்கும் நீதிமன்றம் இந்த தண்டனையை வழங்கியுள்ளது.
+
+அரசாங்காங்கத்திற்கு சொந்தமான பரிசுப்பொருட்களை தங்களது சொத்துக்களாக கருதி  விற்பனை செய்தனர் என இம்ரான்கானிற்கும் அவரது மனைவிக்கும் எதிராக குற்றச்சாட்டுகள் சுமத்தப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+பாகிஸ்தானின் நாடாளுமன்ற தேர்தல் இன்னமும் ஒரு வாரகாலத்தில் இடம்பெறவுள்ளமை குறிப்பிடத்தக்கது. இம்ரான் தேர்தலில் போட்டியிடுவதற்கு தடை விதிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f4b9a4b9.json)
 
 ---
 
@@ -201,6 +463,20 @@ Parliamentarian Roshan Ranasinghe, who was present at a public meeting in Nugego
 [Data](articles/e2436707.json)
 
 [Extended Data](ext_articles/e2436707.ext.json)
+
+---
+
+### இலங்கை -  மாலைதீவுகளுக்கு இடையே விமான அம்பியூலன்ஸ் சேவை
+
+*2024-01-31 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/175201) · `ta`
+
+இலங்கை மற்றும் மாலைதீவை இணைக்கும் விமான அம்பியூலன்ஸ் சேவை மார்ச் மாதம் முதல் ஆரம்பமாகவுள்ளது.
+
+மாலைதீவின் போக்குவரத்து மற்றும் விமான சேவைகள் அமைச்சர் கப்டன் மொஹமட் அமீன் மற்றும் இலங்கையின் துறைமுகங்கள், கப்பல் மற்றும் விமானப் போக்குவரத்து அமைச்சர் நிமல் சிறிபால டி சில்வா ஆகியோருக்கு இடையில் நேற்று செவ்வாய்க்கிழமை நடைபெற்ற சந்திப்பில் இருந்து இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/0f613963.json)
 
 ---
 
@@ -360,6 +636,8 @@ The sentence was later suspended but Khan remains behind bars in connection with
 
 Government officials have alleged Khan’s aides sold the gifts in Dubai.
 
+China and India Drive Upward Revision in IMF’s Asia-Pacific Growth Projection
+
 Health Sector on Brink of Strike as Union Demands Remain Unmet
 
 ◼️
@@ -403,6 +681,8 @@ The drop saw the Colombo Stock Exchange trading up; with the All Share Price Ind
 ◼️
 
 [Data](articles/e9dc2433.json)
+
+[Extended Data](ext_articles/e9dc2433.ext.json)
 
 ---
 
@@ -565,6 +845,8 @@ The overall oil and gas throughput handled by the port in 2023 was 918,000 metri
 ...
 
 [Data](articles/b313bd69.json)
+
+[Extended Data](ext_articles/b313bd69.ext.json)
 
 ---
 
@@ -762,6 +1044,8 @@ A total of 35 vessels called at HIP in July 2023, making it the month for the hi
 
 Talk of The Town | Microfinance Debt Trap & The Rural Poor | Chandra Jayaratne | 31 January 2024
 
+China and India Drive Upward Revision in IMF’s Asia-Pacific Growth Projection
+
 Health Sector on Brink of Strike as Union Demands Remain Unmet
 
 ◼️
@@ -850,21 +1134,25 @@ The Afghanistan cricket team from Dubai to 10.20 days at Dubai to Katunayake Air
 
 ---
 
-### රජයේ සේවකයාට වඩා පොල් කඩන මනුස්සයා හොඳින් ජීවත් වෙනවා
+### The guy breaking man live better than the government worker
 
 *2024-01-31 09:40:36* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-සේවකයාට-වඩා-පොල්-කඩන-මනුස්සයා-හොඳින්-ජීවත්-වෙනවා/11-407815) · `si`
 
-"රජයේ සේවකයෝ තමයි ඉතාමත් අසීරුවෙන්ම දැන් ජීවත් වෙන්නේ, අද රජයේ සේවකයාට වඩා පොල් කඩන මනුස්සයත් ඉතා හොඳින් ජීවත් වෙනවා" යැයි ශ්‍රී ලංකා නිදහස් පක්ෂ ජාතික සංවිධායක, පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා පැවසීය.
+"The government employees are now very difficult," Sri Lanka Freedom Man Organization, MP Duminda Dissanayake said.
 
-ඒ මහතා මේ බව ප්‍රකාශ කර සිටියේ, අනුරාධපුර, ඉපලෝගම ප්‍රාදේශීය සම්බන්ධීකරණ කමිටු රැස්වීම අමතමින්ය. ඉපලෝගම ප්‍රාදේශීය සම්බන්ධීකරණ කමිටු රැස්වීම ඉපලෝගම ප්‍රාදේශීය ලේකම් කාර්යාල ශ්‍රවණාගාරයේදී පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතාගේ සභාපතීත්වයෙන් පැවැත්විණි.
+He was speaking at the Regional Coordinating Committee meeting, Mr. II, Ipalogama. Iplogama Regional Coordinating Committee Meeting was held at the Ipalogama Divisional Secretariat Auditorium.
 
-එම ප්‍රාදේශීය ලේකම් කොට්ඨාශයේ පවතින වන අලි ගැටලු, කෘෂිකාර්මික ගැටලු ඇතුළු ගැටලු හා ඒවාට විසදුම් සම්බන්ධයෙන් දේශපාලන නියෝජිතයන් හා රාජ්‍යය නිළධාරීන් සමඟ මෙහිදී සාකච්ජා කෙරිණි.
+The political representatives and government officials have discussed with elephant problems, agricultural issues, including agricultural problems in the Divisional Secretariat.
 
-" රජයේ සේවකයෝ ලෙස ඔබතුමලාත්, අපි හැමෝමත් ඇත්තටම ඉන්නේ සතුටින් නෙමෙයි. තියෙන වියදම් එක්ක ගත්තාම, අඩුයි කියන්න කිසි දෙයක් නෑ, හැම දේම වැඩියි, ලයිට් ටිකද, වතුර ටිකද, ගෑස් ටිකද, ටියුෂන් පන්ති ගාස්තුද, ළමයින්ගේ පාසල් වියදම්ද, මේ හැම දේම ගණන් වැඩියි.
+"You and all of us are really happy as government servants. When you take with expenses, nothing is less than what's too much, the lights, the school expenses, and all these things are over.
+
+At this time, public servants are living hardful, and today, today, today, live very well. Because he grew up his own, with the expenditure, the coconut rains have increased.
 
 ...
 
 [Data](articles/0d360f1f.json)
+
+[Extended Data](ext_articles/0d360f1f.ext.json)
 
 ---
 
@@ -882,9 +1170,9 @@ It was announced that a fine of fifty thousand rupees would be charged for indiv
 
 When asked about the matter, Nihal Wijewardena, Deputy Commissioner of the Inland Revenue Department, stated that those who did not obtain the relevant number by February 1, 2024, will not be fined.
 
-Health Sector on Brink of Strike as Union Demands Remain Unmet
+China and India Drive Upward Revision in IMF’s Asia-Pacific Growth Projection
 
-◼️
+...
 
 [Data](articles/3c37bb40.json)
 
@@ -1201,6 +1489,8 @@ With the rice from the Yala minor season, total paddy production from the two se
 ...
 
 [Data](articles/2219897d.json)
+
+[Extended Data](ext_articles/2219897d.ext.json)
 
 ---
 
@@ -1717,303 +2007,5 @@ We gave the world its first female Prime Minister. But, according to the World E
 [Data](articles/488841fe.json)
 
 [Extended Data](ext_articles/488841fe.ext.json)
-
----
-
-### Sanath Nishantha and the Cheapness of Politics in Our Times
-
-*2024-01-31 01:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sanath-Nishantha-and-the-Cheapness-of-Politics-in-Our-Times/172-276016) · `en`
-
-State Minister Sanath Nishantha Perera, at his death, upsurged another bout of deep political polarization in the country - a trait he personified in his political life. Some quarters in social media celebrated his death. “What a great day to wake up to…” said one poster in the Sri Lankan X (formerly Twitter). Fake news and doctored imagery amplified that rancour: A photo widely shared on social media platforms was revealed as an old imagery of the public in Borella celebrating the resignation of Nishantha’s political patron, Mahinda Rajapaksa, in 2022.
-
-Public anger at the system can obscure a bigger picture of an assortment of defects that led to the economic and political decay of the country. Subpar individuals in politics are only part of the problem; the bigger malady is the destructive economic and social policies their governments followed to keep their constituencies satiated for the time being.
-
-...
-
-[Data](articles/5c1212c7.json)
-
-[Extended Data](ext_articles/5c1212c7.ext.json)
-
----
-
-### IMF backed high tax regime could give further rise to informal economy: Dr. Palmer
-
-*2024-01-31 01:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-backed-high-tax-regime-could-give-further-rise-to-informal-economy-Dr-Palmer/108-276015) · `en`
-
-Notes that lower tax rate must be accompanied with digitisation and cutting down of excess bureaucracy
-
-A top free market capitalist this week cautioned that the current International Monetary Fund (IMF)-backed high tax regime could give further rise to informal economy​ in Sri Lanka,  thereby slowing down the economic recovery and ultimately narrowing the tax base.
-
-Atlas Network Executive Vice President (International Programmes) Dr. Tom G. Palmer pointed out that nations plunged into debt crisis have come out of crisis by embracing a simplified low tax rate, and rejecting IMF-prescribed high tax rate.
-
-Dr. Palmer shared his comments at a panel discussion held at the Economic Freedom Summit organised by the Advocata Institute in Colombo.
-
-He noted that Greek government’s bold stance against IMF-prescribed high taxation to pay off debt has ultimately resulted in a booming economy led by the tourism sector and an increase tax collection due to expansion of the tax base.
-
-...
-
-[Data](articles/18f1f63b.json)
-
-[Extended Data](ext_articles/18f1f63b.ext.json)
-
----
-
-### Two foreigners who came to Sri Lanka dies
-
-*2024-01-31 00:19:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வந்த-இரு-வெளிநாட்டவர்கள்-உடல்-நசுங்கி-மரணம்/175-332381) · `ta`
-
-Two foreign citizens on a motorbike were killed when a motorcycle and a bus collided with a motorcycle on the Galle - Matara main road.
-
-Two foreign tourists collided with a bus traveling from Matara to Colombo while traveling on a motorbike, reports say.
-
-The driver of the bus has been arrested and further investigations into the incident are being carried out by Mithigama police. Remble
-
-◼️
-
-[Data](articles/7d9704d3.json)
-
-[Extended Data](ext_articles/7d9704d3.ext.json)
-
----
-
-### Strip attack on police officers
-
-*2024-01-31 00:15:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பொலிஸ்-அதிகாரிகள்-மீது-சரமாரியாக-தாக்குதல்/71-332380) · `ta`
-
-The incident took place last night (29) night between Anikkottai junction and Kulapitti junction.
-
-Police have attacked the police when two police officers tried to check the suspicious groups on the road.
-
-Two police officers from the Manipay police station, who were attacked, have been admitted to the Sanganna Hospital.
-
-◼️
-
-[Data](articles/de26c35a.json)
-
-[Extended Data](ext_articles/de26c35a.ext.json)
-
----
-
-### 2024-01-30 (Tuesday)
-
-### Speaker urged not to endorse Online Safety Bill without verifying full adherence to SC directives
-
-*2024-01-30 23:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96868/speaker-urged-not-to-endorse-online-safety-bill-without-verifying-full-adherence-to-sc-directives) · `en`
-
-Media and civil society groups have urged Speaker of Parliament Mahinda Yapa Abeywardena not to endorse the recently passed controversial Online Safety Bill without verifying whether the Supreme Court’s directives are fully adhered to.
-
-In a letter jointly addressed to the Speaker, the Media, Civil Society and Trade Union Collective to Rise against Oppressive Laws noted that the proposed legislation which ‘completely endangers the freedom of expression’ should be rejected outright.
-
-Expressing its strong objections to the ‘hasty passage’ of the Bill on January 24 in the parliament, sans discussion with any stakeholder, and ignoring the directives of the Supreme Court.
-
-...
-
-[Data](articles/4c7fa2f4.json)
-
-[Extended Data](ext_articles/4c7fa2f4.ext.json)
-
----
-
-### Trump’s Vanishing Odyssey
-
-*2024-01-30 23:19:40* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/trumps-vanishing-odyssey/) · `en`
-
-“A man who has been through bitter experiences and traveled far enjoys even his sufferings after a time.” ~Homer – Odyssey
-
-No US President, former or incumbent, has suffered the humiliation that Donald Trump, the 47th President of the United States of America, is going through now. As per Associated Press report dated May 9, 2023, ‘A jury, consisting of six men and three women, found Donald Trump liable on Tuesday (May 9) for sexually abusing advice columnist E. Jean Carroll in 1996, awarding her $5 million in a judgment that could haunt the former president as he campaigns to regain the White House’. It was further reported thus: The verdict was split: ‘Jurors rejected Carroll’s claim that she was raped, finding Trump responsible for a lesser degree of sexual abuse. The judgment adds to Trump’s legal woes and offers vindication to Carroll, whose allegations had been mocked and dismissed by Trump for years’.
-
-...
-
-[Data](articles/e2915e77.json)
-
-[Extended Data](ext_articles/e2915e77.ext.json)
-
----
-
-### Expolanka Holdings demonstrates resilience in Q3 FY24, navigates challenging macroeconomic conditions
-
-*2024-01-30 23:12:00* · [`islandlk`](http://island.lk/expolanka-holdings-demonstrates-resilience-in-q3-fy24-navigates-challenging-macroeconomic-conditions/) · `en`
-
-Expolanka Holdings PLC announced its financial results for the third quarter ending 31 December 2023, delivering a resilient performance, and leveraging its strengths despite global economic headwinds and uncertainty.
-
-The Group reported a Revenue of Rs. 66.8 billion for the quarter and Rs. 183.9 billion for the nine months ending 31 December 2023. Gross Profit stood at Rs. 10.9 billion for the quarter, summing up to Rs. 34.2 billion for the nine-month period. A Net Loss of Rs. 5.1 billion was recorded for the quarter, contributing to a nine-month Net Loss of Rs. 12.3 billion.
-
-Global trade faced challenges due to tightening monetary policies, high inflation, geopolitical tensions, trade protectionism, and elevated energy prices. These factors contributed to uncertainty, reduced consumer spending, and lower demand conditions.
-
-...
-
-[Data](articles/4b2ca366.json)
-
-[Extended Data](ext_articles/4b2ca366.ext.json)
-
----
-
-### Partnering for success: Kingslake and Omega Line’s path to manufacturing excellence
-
-*2024-01-30 23:11:00* · [`islandlk`](http://island.lk/partnering-for-success-kingslake-and-omega-lines-path-to-manufacturing-excellence/) · `en`
-
-Since its inception in 1999, the relationship between Kingslake and Omega Line has surpassed conventional bounds of business collaboration. Over the course of two decades, Kingslake has been a driving force behind Omega Line’s technological transformation, propelling them to the forefront of the apparel manufacturing industry.
-
-From the very beginning, Kingslake’s solutions became an integral part of Omega Line’s operations. The foundation of this enduring partnership was laid with the implementation of Payroll system EazyPay, a product that streamlined employee management. Seamlessly intertwined with this was the financial arm, expertly managed through Infor Syteline ERP. This ERP solution not only facilitated financial management but also laid the groundwork for a cohesive and efficient business ecosystem. Additionally, the implementation of STYLEman, a Style colour size fit matrix, further enhanced Omega Line’s operational capabilities.
-
-...
-
-[Data](articles/53d3721a.json)
-
-[Extended Data](ext_articles/53d3721a.ext.json)
-
----
-
-### Buying interest notable in blue chip counters; CSE turnover hits Rs. 1 billion
-
-*2024-01-30 23:06:00* · [`islandlk`](http://island.lk/buying-interest-notable-in-blue-chip-counters-cse-turnover-hits-rs-1-billion/) · `en`
-
-The stock market started on a negative sentiment yesterday but subsequently turned positive and ended on a slightly negative stance, market analysts said.
-
-Amid those developments turnover touched more than Rs 1 billion and buying interest was noted for blue chip counters, analysts said.
-
-The All Share Price Index went down by 2.58 points and S and P SL20 declined by 11.48 points. Turnover stood at Rs 1.1 billion with two crossings. Those crossings were reported in Citizens Development Business Finance, which crossed 446,000 shares to the tune of Rs 89. 3 million; its shares traded at Rs 200 and HNB 300,000 shares crossed for Rs 46.5 million; its shares traded at Rs 155.
-
-...
-
-[Data](articles/e24ccb62.json)
-
-[Extended Data](ext_articles/e24ccb62.ext.json)
-
----
-
-### Wedderburn shines in West Indies U19’s win
-
-*2024-01-30 22:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wedderburn-shines-in-West-Indies-U19s-win/108-276002) · `en`
-
-Jan. 30 (Daily Mirror) - Steve Wedderburn shone in West Indies U19’s three-wicket win against the Sri Lanka U19 in the ICC U19 World Cup Super Sixes encounter played at the Diamond Oval ground in Kimberley, South Africa.
-
-West Indies U19 helped by Wedderburn though making steady progress in their run chase underwent some anxious moments in the latter stages of the innings and was guided by Nathan Sealy who made an unbeaten 27 and Tarrique Edward who together shared an unbroken 26 runs stand for the eighth wicket to pull off a thrilling win with three balls to spare.
-
-The West Indies U19 in their run chase saw openers skipper Stephan Pascal and Steve Wedderburn giving them a sedate start of 48 runs in 49 balls before being separated with the dismissal of skipper Pascal who made 33 in 26 balls with five boundaries and a six.
-
-...
-
-[Data](articles/8564077d.json)
-
-[Extended Data](ext_articles/8564077d.ext.json)
-
----
-
-### Preparation of 10,000 land deeds finalized for “Urumaya” program’s initial stage
-
-*2024-01-30 22:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/96867/preparation-of-10000-land-deeds-finalized-for-urumaya-programs-initial-stage) · `en`
-
-The preparation of the initial stage of the “Urumaya” program, involving the distribution of 10,000 land deeds, has been finalized, the President’s Media Division (PMD) says.
-
-The Ministry of Tourism and Lands has announced the commencement of the “Urumaya” Freehold Deed Program, aiming to grant land ownership to deserving individuals.
-
-H.M.B.P. Herath, the Secretary of the Ministry, confirmed that necessary steps have been taken to dispatch these freehold deeds to the relevant District Secretariats.
-
-This progress was disclosed during an online discussion held on Tuesday (Jan.30), involving officials from the Presidential Secretariat, District Secretaries, and Divisional Secretaries.
-
-The “Urumaya” program marks a significant step towards addressing land ownership issues in Sri Lanka. With 10, 000 freehold deeds set for distribution in the first phase alone; the program holds the potential to positively impact a considerable number of lives.
-
-...
-
-[Data](articles/7cd485b5.json)
-
-[Extended Data](ext_articles/7cd485b5.ext.json)
-
----
-
-### West Indies tend to win
-
-*2024-01-30 22:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192762) · `si`
-
-The Sri Lankan team had suffered a bitter experience in the first six World Cup in the Under 19 World Cup.
-
-After that battle, the West Indies won three wickets.
-
-Sri Lanka has not been able to provide a successful start to Sri Lanka in three main round of the Sri Lanka Youth Group's Network Ratings.
-
-The Kaduran batsmen, including Dinura Kaluwana, was able to protect the country's dignity in the preliminary round as well as today.
-
-Dinura Bathoba scored 53 runs off 83 balls with a third half century in 83 balls with a third half century.
-
-Malushikara Thirst was 42 runs in 38 balls with seven fours.
-
-Accordingly, the Sri Lanka Youth Group scored 231 runs for the loss of 231 in 50 overs.
-
-West Indies team scored 149 runs for the loss of 4 wickets.
-
-Sri Lanka bowlers leading to the winter bowlers have scored 3 wickets, but it was not sufficient to win.
-
-Accordingly, West Indies temple passed over 49 overs and scored seven wickets in 3 overs.
-
-◼️
-
-[Data](articles/2a5a6eaa.json)
-
-[Extended Data](ext_articles/2a5a6eaa.ext.json)
-
----
-
-### Pakistani naval ship SAIF docks at Colombo Port
-
-*2024-01-30 22:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/96866/pakistani-naval-ship-saif-docks-at-colombo-port) · `en`
-
-The Pakistan Naval Ship (PNS) SAIF arrived at the port of Colombo on a formal visit this morning (Jan.30). The visiting ship was welcomed by the Sri Lanka Navy in compliance with naval traditions.
-
-PNS SAIF is a 123m-long Sword Class Frigate commanded by Captain Muhammad Ali. It is manned by a crew of 276.
-
-The Commanding Officer of the ship is also expected to call on the Commander Western Naval Area.
-
-During the ship’s stay in Colombo, its crew members will visit some of the tourist attractions of the country, Sri Lanka Navy said.
-
-Concluding the visit, PNS SAIF will leave the island on February 01 and conduct a Passage Exercise (PASSEX) with a ship of the Sri Lanka Navy in Colombo seas, on her departure.
-
-◼️
-
-[Data](articles/722b2be0.json)
-
-[Extended Data](ext_articles/722b2be0.ext.json)
-
----
-
-### It is the duty and responsibility of everyone to support a leader who rescued the country from the economic crisis - Prasanna Ranatunga
-
-*2024-01-30 22:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175181) · `ta`
-
-Minister of Urban Development and Housing Prasanna Ranatunga urges a leader in the upcoming presidential election to support a leader in the economic crisis.
-
-He pointed out that the Sri Lanka PA will soon be a final decision.
-
-The Minister pointed out that the party will continue to go with the leader who has recovered the country from the economic crisis or to present the party from the party in the future and that many will decide whether or not the party's activities will be carried out in their personal opinion.
-
-The Minister said this while responding to questions raised by journalists after participating in the ceremony from the Pradeshiya Sabha Fund on Tuesday (30).
-
-Responding to reports from journalists regarding the news that former President Maithripala Sirisena will form a new alliance, the Minister said that the helicopter was going to happen.
-
-Here are the questions asked by the Minister and the Minister's answers:
-
-...
-
-[Data](articles/d9400dcb.json)
-
-[Extended Data](ext_articles/d9400dcb.ext.json)
-
----
-
-### International acting is a compulsion of the period- Senthil Thondaman
-
-*2024-01-30 22:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175183) · `ta`
-
-The recent moves of Senthil Thondaman, who is known as the leader of the Sri Lankan Workers Congress and the Governor of the Eastern Province, is known as the oldest union of Asia as the oldest union.. The biggest Pongal Festival he showed in the Eastern Province, the special guests for events in Tamil Nadu and abroad, the people of the North and East in Tamil Nadu have giving passports with the Government of Sri Lanka, and participating in the release of the hill country in the wake of the two hundred years of the hill country.
-
-The interview with him, who is in the vicinity of leadership and vibration, is here, with the leadership and vibrant leaders of the past demand that the upcountry community is spoken of at the national level.
-
-Question: What about the great Pongal festival in the East to return the Tamil world?
-
-...
-
-[Data](articles/39adf9df.json)
-
-[Extended Data](ext_articles/39adf9df.ext.json)
 
 ---

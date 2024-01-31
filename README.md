@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 12:17:19**
+As of **2024-01-31 12:33:50**
 
 ## Newspaper Stats
 
-*Scraped **3,737** Articles*
+*Scraped **3,740** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ economynextcom | 200
 islandlk | 207
 newsfirstlk | 225
 dailyftlk | 243
-adalk | 334
+adalk | 336
 virakesarilk | 414
-adaderanasinhalalk | 420
+adaderanasinhalalk | 421
 adaderanalk | 477
 tamilmirrorlk | 478
 dailymirrorlk | 502
@@ -26,11 +26,25 @@ dailymirrorlk | 502
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,727 (99.7%) of 3,737 articles have been extended.
+3,737 (99.9%) of 3,740 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### ශෂීන්ද්‍රට තවත් වගකීමක්
+
+*2024-01-31 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192779) · `si`
+
+ශෂීන්ද්‍ර රාජපක්ෂ මහතා වාරිමාර්ග සහ ජලසම්පත් කළමනාකරණ රාජ්‍ය අමාත්‍යවරයා වශයෙන් ජනාධිපතිවරයා ඉදිරියේ දිවුරුම් දී තිබේ.
+
+ජනාධිපති මාධ්‍ය ඒකකය සඳහන් කළේ, ජනාධිපති ලේකම් කාර්යාලයේ දී එම දිවුරුම් දීම සිදුකළ බවය.
+
+◼️
+
+[Data](articles/c383d844.json)
+
+---
 
 ### Former BASL Secretary appointed to CBSL Governing Board
 
@@ -48,39 +62,45 @@ Additionally, he holds various prominent positions such as a Member of the Counc
 
 [Data](articles/4a08c613.json)
 
+[Extended Data](ext_articles/4a08c613.ext.json)
+
 ---
 
-### காயமடைந்த வீரர்களை பார்வையிட்டார் இராணுவத் தளபதி
+### Army Commander visited the injured soldiers
 
 *2024-01-31 11:38:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காயமடைந்த-வீரர்களை-பார்வையிட்டார்-இராணுவத்-தளபதி/175-332401) · `ta`
 
-கொழும்பு காலி முகத்திடலில் இடம்பெற்ற 76ஆவது சுதந்திர தின அணிவகுப்பு ஒத்திகையின் போது நேற்று(30) காயமடைந்த பராசூட் வீரர்களின் நலம் குறித்து நேரில் விசாரிப்பதற்காக இராணுவத் தளபதி லெப்டினன் ஜெனரல் விக்கும் லியனகே, கொழும்பு இராணுவ மருத்துவமனைக்கு நேற்று (30) விஜயம் செய்தார்.
+Army Commander Lieutenant General Vikki Liyanage visited the Colombo Army Hospital yesterday (30) to inquire about the welfare of Parasood soldiers who were injured during a 76th Independence Day parade held at the Galle Face of Colombo yesterday.
 
-இதன் போது ஏற்பட்ட காயங்கள் குறித்து வருத்தம் தெரிவித்த இராணுவத் தளபதி, அதிகாரி மற்றும் சிப்பாயிடம் தனித்தனியாகப் பேசி, தனது வருத்ததினை வெளிப்படுத்தி, அவர்களுக்கு அளிக்கப்படும் சிகிச்சைகள் குறித்து விசாரித்தார்.
+Regarding the injuries, the army commander spoke separately to the officer and the soldier and expressed his grief and inquired about the treatments they would be given.
 
-அத்துடன், இராணுவத் தளபதி வைத்தியர்களை சந்தித்து காயமடைந்த இராணுவ வீரர்களுக்கு சிறந்த சிகிச்சையை வழங்குவதன் முக்கியத்துவத்தை வலியுறுத்தி அவர்கள் விரைவாக குணமடைய உறுதி வழங்கினார்.
+In addition, the Army Commander met the doctors and promised to heal quickly, emphasizing the importance of providing the best treatment to the injured.
 
-அத்துடன், இராணுவத் தளபதி, மருத்துவ ஊழியர்களின் அர்ப்பணிப்பு மற்றும் ஈடுபாட்டினை பாராட்டியதுடன், காயமடைந்த படையினருக்கு சிறந்த சிகிச்சைகளை தொடர்ந்து வழங்குமாறு கேட்டுக் கொண்டார்.
+In addition, the Army Commander appreciated the commitment and involvement of medical staff and asked for the best treatment to the injured soldiers.
 
 ◼️
 
 [Data](articles/b18f4573.json)
 
+[Extended Data](ext_articles/b18f4573.ext.json)
+
 ---
 
-### திகதியை குறித்தார் ரொஷான் ரணசிங்க
+### Roshan Ranasinghe marked the date
 
 *2024-01-31 11:34:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திகதியை-குறித்தார்-ரொஷான்-ரணசிங்க/175-332400) · `ta`
 
-65 வயதுக்கு முன்னர் அரசியலை விட்டு வெளியேறி நாட்டுக்கு புதிய முன்னுதாரணமாக செயற்படுவதற்கு தயாராக உள்ளதாக பாராளுமன்ற உறுப்பினர் ரொஷான் ரணசிங்க தெரிவித்துள்ளார்.
+Parliamentarian Roshan Ranasinghe says he is ready to leave politics before the age of 65 and act as a new example for the country.
 
-அரச சேவையில் ஓய்வு பெறுவதற்கான வரம்பு நிர்வாகத்துக்கு செல்லுபடியாகும் என அவர் குறிப்பிட்டுள்ளார்.
+He said the limit for retirement in public service is valid for the administration.
 
-நுகேகொட பிரதேசத்தில் இடம்பெற்ற மக்கள் சந்திப்பில் கலந்து கொண்ட பாராளுமன்ற உறுப்பினர் ரொஷான் ரணசிங்க இதனை தெரிவித்துள்ளார்.
+Parliamentarian Roshan Ranasinghe, who was present at a public meeting in Nugegoda, said this.
 
 ◼️
 
 [Data](articles/e2436707.json)
+
+[Extended Data](ext_articles/e2436707.ext.json)
 
 ---
 
@@ -114,17 +134,19 @@ Accordingly, the older brother had said that the older brother was asked about t
 
 ---
 
-### பசிலின் பொறுப்பு நாமலுக்கு?
+### Basil's responsibility?
 
 *2024-01-31 11:26:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பசிலின்-பொறுப்பு-நாமலுக்கு/175-332398) · `ta`
 
-எதிர்வரும் பொதுத் தேர்தலை ஸ்ரீலங்கா பொதுஜன பெரமுன மிகவும் வலுவாக எதிர்கொண்டு நாட்டை வெற்றிப் பாதைக்கு அழைத்துச் செல்லும் எனவும், கட்சியின் கொள்கைகள் சந்தர்ப்பவாதமாக மாற்றப்பட மாட்டாது எனவும் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்க்ஷ தெரிவித்துள்ளார்.
+Parliamentarian Namal Rajapakse has said that the Sri Lanka PA will face the upcoming general election and take the country on the path to victory and that the party's policies will not be transformed into opportunist.
 
-கட்சியின் தேசிய அமைப்பாளரான முன்னாள் அமைச்சர் பசில் ராஜபக்க்ஷ வெளிநாட்டில் இருப்பதால் கட்சியின் பொறுப்பை ஏற்பீர்களா? என ஊடகவியலாளர்கள் கேட்ட கேள்விக்கு பதிலளிக்கும் போதே நாமல் ராஜபக்க்ஷ மேற்கண்டவாறு குறிப்பிட்டார்.
+Will the party's national organizer, Basil Rajapaksa, is abroad, will be the party's responsibility?Responding to a question asked by journalists, Namal Rajapaksa said the above.
 
 ◼️
 
 [Data](articles/86f8739d.json)
+
+[Extended Data](ext_articles/86f8739d.ext.json)
 
 ---
 
@@ -162,37 +184,43 @@ The court also disqualified Khan for years from holding any public office ahead 
 
 [Data](articles/83d464ac.json)
 
+[Extended Data](ext_articles/83d464ac.ext.json)
+
 ---
 
-### வங்கிக்குள் நுழைந்தவர் கைது
+### Arrest
 
 *2024-01-31 11:16:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்கிக்குள்-நுழைந்தவர்-கைது/175-332397) · `ta`
 
-பேருவளை , பிராந்திய அபிவிருத்தி வங்கியை சேதப்படுத்தி வங்கிக்குள் நுழைந்த நபர் ஒருவரை  கைது செய்துள்ளதாக பேருவளை பொலிஸார் தெரிவித்துள்ளனர்.
+Beruwala police have arrested a man who had entered the bank for damaging the Beruwala and Regional Development Bank.
 
-பேருவளை பிரதேச செயலகத்திற்கு முன்பாக அமைந்துள்ள பிராந்திய அபிவிருத்தி வங்கிக்குள் கண்ணாடி ஜன்னல்களை உடைத்து இனம்தெரியாத ஒருவர் உள்ளே நுழைந்த சம்பவம்  புதன்கிழமை (31) அதிகாலை 3.45 மணியளவில் இடம்பெற்றுள்ளது.
+The incident took place at around 3.45 am on Wednesday (31) when a person who broke glass windows inside the Beruwala Divisional Secretariat was broken into glass windows.
 
-இது தொடர்பில் உடனடியாக விசாரணைகளை ஆரம்பித்த பேருவளை பொலிஸார்  புதன்கிழமை (31)  காலை 6.30 மணியளவில் சந்தேக நபரை  கைது செய்து மேலதிக விசாரணகளை மேற்கொண்டு வருகின்றனர்
+The Beruwala police, who started investigating the matter, have arrested the suspect at 6.30 am on Wednesday (31) and are conducting further investigations.
 
 ◼️
 
 [Data](articles/1981b09a.json)
 
+[Extended Data](ext_articles/1981b09a.ext.json)
+
 ---
 
-### என்னாடா இது? புதுசா இருக்கு; வியந்துபோன புது சாரதி
+### What is it?Be new;Amazed driver
 
 *2024-01-31 11:16:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்னாடா-இது-புதுசா-இருக்கு-வியந்துபோன-புது-சாரதி/175-332396) · `ta`
 
-இலகுரக வாகனங்கள் மற்றும் மோட்டார் சைக்கிள்களுக்கான சாரதி அனுமதிப்பத்திரம் கோரி விண்ணப்பித்த நபருக்கு வாகன வகை குறிப்பிடாமல் மோட்டார் வாகனத் திணைக்களத்தினால் சாரதி அனுமதிப்பத்திரம் அனுப்பி வைக்கப்பட்டுள்ளதாக எப்பாவல யாகல்லேகம பிரதேசத்தைச் சேர்ந்த  ஆர்.சுரங்க சேனவிரத்ன தெரிவிக்கின்றார்.
+R. Suranga Senavaratne from Eppawala Yagalegama says that the driver's license has been sent by the Motor Vehicle Department without specifying the vehicle for the driver's license for light vehicles and motorcycles.
 
-சம்பந்தப்பட்ட சாரதி அனுமதிப்பத்திரம் விண்ணப்பதாரரான  சுரங்க சேனவிரத்னவுக்கு மோட்டார் வாகனத் திணைக்களத்தினால் தபால் மூலம் சாரதி அனுமதிப்பத்திரம் அனுப்பி வைக்கப்பட்டது,
+The driver's licensing was sent by the Department of Motor Vehicle by the Department of Motor Vehicles
 
-அதைப் பார்த்தபோது, ​​மோட்டார் வாகனத் திணைக்களம் அவருக்கு அனுப்பிய புதிய ஓட்டுநர் உரிமத்தில், அவர் ஓட்ட அனுமதிக்கப்பட்டதாக எந்த வாகனப் பிரிவும் காட்டப்படாமல் இருப்பதைக் காண முடிந்தது. அந்தப் பிரிவில் புள்ளியிட்ட நெடுவரிசையை மட்டுமே பார்க்க முடிந்தது.
+Upon seeing it, the new driver's license sent by the Department of Motor Vehicle could be seen that no vehicle segment was shown that he was allowed to drive. In that category, only the point of the point.
 
 ◼️
 
 [Data](articles/e6ef93d9.json)
+
+[Extended Data](ext_articles/e6ef93d9.ext.json)
 
 ---
 
@@ -278,19 +306,23 @@ Sarath Fonseka, a close loyalist of former President Gotabhaya Rajapakse, has cr
 
 ---
 
-### இனி 4 நாட்கள் மட்டுமே வேலை
+### No longer work 4 days
 
 *2024-01-31 11:00:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இனி-4-நாட்கள்-மட்டுமே-வேலை/50-332393) · `ta`
 
-பொருளாதார வீழ்ச்சியிலிருந்து மீள புதிய சோதனை முயற்சியை ஜெர்மனி மேற்கொள்ளவிருக்கிறது. உலகில் வளர்ந்த நாடுகளான டென்மார்க், நெதர்லாந்து, ஆஸ்திரேலியா, பெல்ஜியம், ஸ்பெயின், இங்கிலாந்து, ஜப்பான் போன்ற நாடுகள் குறைவான வேலை நேரத்தைக் கடைபிடித்து வருகின்றன. இந் நிலையில் ஜெர்மனியும் குறைவான வேலை நேரத்தைக் கடைபிடிக்க உள்ளது.
+Germany is to carry out a new test effort to recover from the economic downturn. Countries in the world, such as Denmark, the Netherlands, Australia, Belgium, Spain, UK and Japan, are practicing less work hours. In this case, Germany is also in the process of adopting less work hours.
 
-அதன்படி வியாழக்கிழமை (01) முதல், வாரத்தில் 4 நாட்கள் மட்டுமே வேலை என்ற திட்டத்தை நடைமுறைக்கு கொண்டுவர உள்ளது. மீதமுள்ள 3 நாட்கள் விடுமுறை தானாம். இதனை கடைபிடிப்பதன் மூலம் பணியாளர்களின் உடல் மற்றும் மனநிலை ஆரோக்கியமடைவதோடு அவர்களது செயல்திறனும் அதிகரிக்கும் என ஜெர்மனி அரசு எதிர்பார்க்கிறது.
+Accordingly, from Thursday (01), only 4 days a week will be implemented. The remaining 3 days of holiday. The Government of Germany expects the adherence to the employees' physical and mental health and their performance.
 
-இந்த திட்டத்தை நடைமுறைக்கு கொண்டுவர வேண்டும் என அந்நாட்டில் உள்ள பல தொழிலாளர் சங்கங்கள் அரசுக்கு கோரிக்கை விடுத்திருந்தன. இந் நிலையில் அமலுக்கு வரவிருக்கும் இந்த சோதனை நல்ல பலனை அளிக்கும் என தொழிற்சங்கங்களும் அரசும் எதிர்பார்க்கின்றன.
+Many workers' unions in the country have asked the government to implement the project. The trade unions and the government expect the test to come into effect.
 
-...
+This includes 45 companies of Germany. This test is carried out for the next 6 months. It is expected to solve the lower employees' problems in Germany.
+
+◼️
 
 [Data](articles/6137472e.json)
+
+[Extended Data](ext_articles/6137472e.ext.json)
 
 ---
 
@@ -640,17 +672,19 @@ Meanwhile, the wife of the late State Minister Sanath Nishantha, Samari Priyanka
 
 ---
 
-### புதிய எம்.பிக்கான வர்த்தமானி வெளியானது
+### Gazette for the new MP has been released
 
 *2024-01-31 09:48:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-எம்-பிக்கான-வர்த்தமானி-வெளியானது/175-332390) · `ta`
 
-விபத்தில் உயிரிழந்த இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் வெற்றிடமான பாராளுமன்ற உறுப்பினர் பதவிக்கு எல்.கே. ஜகத் பிரியங்கர தெரிவு செய்யப்பட்டுள்ளார்.
+LK to the post of Member of Parliament Sanath Nishantha, who died in the accident. Jagath Priyankara has been selected.
 
-இதேவெளை,  தனது கணவரின் மறைவினால் வெற்றிடமாகியுள்ள பதவியை ஏற்குமாறு கோரிக்கை விடுத்தால் எதிர்காலத்தில் அது குறித்து பரிசீலிக்கலாம் என மறைந்த இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் மனைவி சாமரி பிரியங்கா பெரேரா தெரிவித்திருந்தமை குறிப்பிடத்தக்கது. R
+Meanwhile, the wife of the late State Minister Sanath Nishantha, Samari Priyanka Perera, said that if she requested to accept the vacuum of her husband's death, it could be considered in the future.. Remble
 
 ◼️
 
 [Data](articles/8ffb7b06.json)
+
+[Extended Data](ext_articles/8ffb7b06.ext.json)
 
 ---
 
@@ -762,6 +796,22 @@ It is noteworthy that the youth arrested on charges of wearing a tiger logo last
 
 ---
 
+### බෙලිඅත්ත පංච පුද්ගල ඝාතනයට තවත් තිදෙනෙක් අල්ලයි
+
+*2024-01-31 09:23:33* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්ත-පංච-පුද්ගල-ඝාතනයට-තවත්-තිදෙනෙක්-අල්ලයි/11-407814) · `si`
+
+බෙලිඅත්ත පොලිස් වසමේ සිදු කළ පංච පුද්ගල ඝාතනයට ආධාර දුන් සැකකරුවන් තවත් සැකකරුවන් තිදෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙයින් සැකකරුවන් දෙදෙනෙක් හුංගම පොලිස් වසමේ දී හුංගම පොලිස් ස්ථානය විසින්  අත්අඩංගුවට ගෙන ඇති අතර මාතර කොට්ඨාසයේ සිදුකළ විමර්ශනවලට අනුව මාතර පොලිස් වසමේ දී  තවත්අ සැකකරුවෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙම සැකකරුවන් වයස අවුරුදු 28,42,58 පසුවන මීගමුව,අලවුව සහ බූස්ස ප්‍රදේශවල පදිංචිකරුවන් බවත්  ඝාතනයට යොදාගත් ටී 56 වර්ගයේ ගිනි අවි බැහැරකිරීම සම්බන්ධව සහ අපරාධය සිදුකිරීමේ දී මුදල් ගනුදෙනු කිරීමෙට අදාළව සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/c563ec29.json)
+
+---
+
 ### Firing in Puttalam;One injury
 
 *2024-01-31 09:23:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளத்தில்-துப்பாக்கிச்சூடு-ஒருவர்-காயம்/175-332389) · `ta`
@@ -797,6 +847,24 @@ The name of Jagath Priyankara has been put forward in the last general election.
 [Data](articles/6be18e48.json)
 
 [Extended Data](ext_articles/6be18e48.ext.json)
+
+---
+
+### තබ්බෝවේ වෙඩි තැබිමකින් පුද්ගලයෙකුට තුවාල
+
+*2024-01-31 09:17:07* · [`adalk`](https://www.ada.lk/breaking_news/තබ්බෝවේ-වෙඩි-තැබිමකින්-පුද්ගලයෙකුට-තුවාල/11-407813) · `si`
+
+කරුවලගස්වැව තබ්බෝව ධීවර ගම්මානය ප්‍රදේශයේදී 30 දින රාත්‍රී සිදුවී ඇති වෙඩි තැබීමකින් තුවාල ලැබූ පුද්ගලයෙකු ප්‍රතිකාර සඳහා පුත්තලම මූලික රෝහලට ඇතුළත්කර ඇතැයි කරුවලගස්වැව පොලීසිය කියයි.
+
+වෙඩි වැදීමෙන් තුවාල ලබා ඇත්තේ තබ්බෝව පාවට්ටාමඩුව ප්‍රදේශයේ පදිංචිකරුවෙකු බව පැවසෙන ජයන්ත රෝහණ නැමති වයස අවුරුදු 40ක් පමණ වන  පුද්ගලයෙකි.
+
+සිද්ධියට අදාළ සැකකරු වෙඩි තැබීමෙන් පසුව පළාගොස් ඇති බවත් ඔහු හා සිද්ධියට අදාළ ගිනි අවිය අත් අඩංගුවට ගැනීමට මෙහෙයුමක් සිදුකරගෙන බවත් පොලීසිය සදහන් කළේය.
+
+එසේම මෙම වෙඩි තැබීමට හේතුව අනාවරණකර ගැනීම සදහාද විමර්ශන සිදුකෙරෙ‍ෙ බවත් පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/c3245de3.json)
 
 ---
 
@@ -1254,17 +1322,19 @@ In addition, they have arrested one of the suspects and handed over to the Kilin
 
 ---
 
-### 4 கிலோ கிராம் கேரள கஞ்சாவுடன் ஒருவர் கைது
+### One arrested with 4 kg of Kerala cannabis
 
 *2024-01-31 03:15:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-கிலோ-கிராம்-கேரள-கஞ்சாவுடன்-ஒருவர்-கைது/175-332386) · `ta`
 
-கிளிநொச்சி விசேட அதிரடிப் படை அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் வாகனத்தைச் சோதனையிட்ட அதிரடிப் படையினர் வானத்துக்குள் இருந்த நான்கு கிலோகிராம் கேரள கஞ்சா பார்சலை கைப்பற்றியுள்ளனர்.
+Based on the confidential information received by the Special Task Force Officers of Kilinochchi, the vehicle seized four kilograms of Kerala cannabis parcel inside the sky.
 
-அத்துடன், அவர்கள்  சந்தேகத்தில் ஒருவரையும் கைது செய்து கிளிநொச்சி பொலிஸாரிடம் ஒப்படைத்துள்ளனர். இந்த சம்பவம் தொடர்பில் கிளிநொச்சி பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். (a)
+In addition, they have arrested one of the suspects and handed over to the Kilinochchi police. Kilinochchi police are conducting further investigations into the incident. (A)
 
 ◼️
 
 [Data](articles/ac58e221.json)
+
+[Extended Data](ext_articles/ac58e221.ext.json)
 
 ---
 
@@ -1949,63 +2019,5 @@ The drivers of the bus and the lorry were arrested in connection with the accide
 [Data](articles/9f318085.json)
 
 [Extended Data](ext_articles/9f318085.ext.json)
-
----
-
-### The cause of the most turbulent parachute crash is out
-
-*2024-01-30 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192757) · `si`
-
-The Ministry of Defense states that four parachute troops were killed in the parachute shot of the 76th Independence Day.
-
-Defense Director, Media Director and Colonel Nalin Herath said this.
-
-Air Force troops are the two Sergeant MDSS Stagalla and Sergeant RHPK Hemasinghe.
-
-The Air Force states that Sergeant MDSS Street has committed 531 parachute jumps and 370 parachute seats.
-
-Major Dhammika Ratnapala and Staff Sergeant LRG. Bandaraists are the Sri Lanka Army Special Forces Members.
-
-Major Dhammika Ratnapala's official of the 126 parachute jumps are breen. The Army says that 298 Parachute seats have been conducted.
-
-The two Air Force members have stumbled on each other in the upstairs of the Parachuts of the Colombo.
-
-It is reported that the parachute of one of the soldiers who have been injured in the military cards have been admitted to another parachute, and he was able to adjust 300 feet [300 feet).
-
-...
-
-[Data](articles/0f5ce0b1.json)
-
-[Extended Data](ext_articles/0f5ce0b1.ext.json)
-
----
-
-### The  Attack on ITAK Jaffna MP  Sivagnanam Shritharan  by “Unknown” Gunmen in Anuradhapura.
-
-*2024-01-30 21:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83507) · `en`
-
-The  media spotlight is focused to a great  extent on Jaffna District Parliamentarian Sivagnanam Shritharan these days. The 55 year old  former school principal has been elected as the president of Sri Lanka’s premier Tamil political party the Ilankai Thamil Arasuk Katchi(ITAK) known in English as the Federal Party(FP). Shritharan  has been  elected an MP  continuously since 2010.
-
-Shritharan contested the ITAK presidential elections on a pro-LTTE platform euphemistically described as “Thamizh Thesiyam” (Tamil Nationalism)The newly elected ITAK leader  demonstrated that he was a hawk in Tamil politics by paying obeisance at the LTTE cemetery in Kilinochchi. He also issued a statement  calling upon all Tamil nationalist parties to join him and realise the dreams of fallen LTTE fighters known as “Maaveerar”or great heroes.
-
-...
-
-[Data](articles/d857a29c.json)
-
-[Extended Data](ext_articles/d857a29c.ext.json)
-
----
-
-### Checking on injured paratroopers’ conditions...
-
-*2024-01-30 21:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Checking-on-injured-paratroopers-conditions/110-275998) · `en`
-
-Chief of Defence Staff General Shavendra Silva visited the National Hospital and the Army Hospital to assess the condition of the paratroopers who were injured when their parachutes failed to open properly during the Independence Day rehearsals held at Galle Face Green this morning.
-
-◼️
-
-[Data](articles/0391bdc4.json)
-
-[Extended Data](ext_articles/0391bdc4.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 01:49:56**
+As of **2024-02-01 02:02:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,945 (99.9%) of 3,949 articles have been extended.
+3,949 (100.0%) of 3,949 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ While focusing on issues such as online safety, the government in this election 
 
 [Data](articles/3005333e.json)
 
+[Extended Data](ext_articles/3005333e.ext.json)
+
 ---
 
 ### Wanted: An Authentic Minister of Finance Sri Lanka Has Not Had One, For Three And A Half Decades
@@ -57,6 +59,8 @@ The problems lie in inadequate constitutional or institutional restraints on how
 ...
 
 [Data](articles/939ca7ea.json)
+
+[Extended Data](ext_articles/939ca7ea.ext.json)
 
 ---
 
@@ -81,6 +85,8 @@ He also said that instructions have been given to modify the 55-seater train obs
 ◼️
 
 [Data](articles/19a3ef55.json)
+
+[Extended Data](ext_articles/19a3ef55.ext.json)
 
 ---
 
@@ -125,6 +131,8 @@ Police Detains 10 Protesters at CID Headquarters While Demanding Keheliya’s Ar
 ◼️
 
 [Data](articles/b3bafbc2.json)
+
+[Extended Data](ext_articles/b3bafbc2.ext.json)
 
 ---
 

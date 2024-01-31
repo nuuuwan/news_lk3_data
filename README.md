@@ -1,36 +1,50 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 19:02:35**
+As of **2024-01-31 19:17:06**
 
 ## Newspaper Stats
 
-*Scraped **3,875** Articles*
+*Scraped **3,893** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 47
 bbccomsinhala | 62
 dbsjeyarajcom | 130
-economynextcom | 203
 islandlk | 208
+economynextcom | 218
 newsfirstlk | 241
 dailyftlk | 243
 adalk | 346
 virakesarilk | 440
 adaderanasinhalalk | 446
 adaderanalk | 487
-tamilmirrorlk | 498
-dailymirrorlk | 524
+tamilmirrorlk | 500
+dailymirrorlk | 525
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,860 (99.6%) of 3,875 articles have been extended.
+3,870 (99.4%) of 3,893 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### கம்மன்பிலவின் பயணத்தடை தற்காலிகமாக நீக்கம்
+
+*2024-01-31 18:37:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்மன்பிலவின்-பயணத்தடை-தற்காலிகமாக-நீக்கம்/175-332438) · `ta`
+
+பாராளுமன்ற உறுப்பினர் உதய கம்மன்பில தனது கலாநிதிப் பட்டப்படிப்புக்காக சீனாவுக்குச் செல்ல கொழும்பு உயர் நீதிமன்றம் இன்று அனுமதி வழங்கியுள்ளது.
+
+2000 ஆம் ஆண்டில் இடம்பெற்றதாகக் கூறப்படும் 20 மில்லியன் ரூபா பண மோசடி பங்கு பரிவர்த்தனையைத் தொடர்ந்து தனக்கு விதிக்கப்பட்ட பயணத் தடையை தற்காலிகமாக நீக்குவதற்கு கொழும்பு உயர் நீதிமன்றத்தின் அனுமதியை அவர் கோரினார்.
+
+◼️
+
+[Data](articles/364163db.json)
+
+---
 
 ### கண்ணீர் புகைக்கு எதிராக ஐமச மனு
 
@@ -47,6 +61,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/1faf433d.json)
+
+---
+
+### சனத் நிஷாந்த மீதான வழக்கு பெப். 2 விசாரணை
+
+*2024-01-31 18:30:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்த-மீதான-வழக்கு-பெப்-2-விசாரணை/175-332436) · `ta`
+
+நீதிமன்றத்தை அவமதித்ததாக முன்னாள் இராஜாங்க அமைச்சர் சனத் நிஷாந்தவுக்கு எதிராக தாக்கல் செய்யப்பட்டுள்ள மனுக்களை பெப்ரவரி 2 ஆம் திகதி விசாரணைக்கு எடுத்துக் கொள்ளுமாறு மேன்முறையீட்டு நீதிமன்றம், இன்று (31) உத்தரவிட்டுள்ளது.
+
+இந்த மனுக்கள்  சோபித ராஜகருணா மற்றும் தம்மிக்க கணேபொல ஆகியோர் அடங்கிய மேன்முறையீட்டு நீதிமன்றநீதியரசர்கள் முன்னிலையில் இன்று (31)   விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+
+பிரதிவாதியான சனத் நிஷாந்த தற்போது இறந்துவிட்டதால், அவமதிப்பு மனுக்கள் தொடர்பாக எடுக்க வேண்டிய நடவடிக்கை குறித்து முடிவெடுப்பதற்காக எதிர்வரும் 2 ஆம் திகதி குறித்த வழக்கை விசாரணைக்கு அழைக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+இலங்கை நீதித்துறை அதிகாரிகள் சங்கம் மற்றும் பிரியலால் சிறிசேன, விஜித குமார ஆகிய இரு சட்டத்தரணிகளினால் இந்த மனுக்கள் தாக்கல் செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/2f847057.json)
 
 ---
 
@@ -106,19 +138,41 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### රජයෙන් අලුත්ම පහසු ගෙවීමේ ක්‍රමයක්
+### A method of paying the latest easy payment
 
 *2024-01-31 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192805) · `si`
 
-ඉදිරියේදී විදුලි පාරිභෝගිකයින් සඳහා පහසු ගෙවීමේ ක්‍රමයක් හඳුන්වාදෙන බව විදුලිබල සහ බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+Minister of Power and Energy Kanchana Wijesekara says that it is introduced to implement an easy payment system for electricity customers in the future.
 
-විදුලි බල මණ්ඩලය, ලංකා ඛනිජ තෙල් නීතිගත සංස්ථා නිලධාරීන් සමග ඊයේ පැවති සාකච්ඡාවකදී මේ පිළිබඳව අවධානය යොමුවූ බවය.
+The Ceylon Electricity Board, Ceylon Petroleum Corporation officials were addressing the matter.
 
-සිය X ගිණුමේ සටහනක් තබමින් අමාත්‍යවරයා වැඩිදුරටත් පෙන්වාදෙන්නේ ඉදිරියේදී විදුලි පාරිභෝගිකයින් වෙත තවත් සේවා කිහිපයක් හඳුන්වාදෙන බවය.
+Speaking on the account, the Minister further indicates that several other services are introduced to electricity consumers in the future.
 
 ◼️
 
 [Data](articles/05d1b0b6.json)
+
+[Extended Data](ext_articles/05d1b0b6.ext.json)
+
+---
+
+### Health workers to resort to another strike
+
+*2024-01-31 18:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-workers-to-resort-to-another-strike/108-276055) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - In a decisive move set to reverberate across the nation's healthcare landscape, at least 72 trade unions within the health sector have announced plans for an island-wide strike commencing at 6:30 a.m. tomorrow (01).
+
+The primary demand fueling this action is the long-standing dispute over the Disturbance, Availability and Transport (DAT) allowance.
+
+Despite assurances from the highest levels of government, including promises of dialogue upon the President's return from official overseas duties, healthcare workers remain disillusioned by the lack of substantive engagement.
+
+The trade unions assert that no formal discussions have materialized since the President's return, exacerbating the brewing discontent among healthcare professionals.
+
+However, the All Ceylon Nurses' Union, a prominent voice in the healthcare arena, has opted not to takepart in the scheduled strike.
+
+◼️
+
+[Data](articles/978da531.json)
 
 ---
 
@@ -182,6 +236,26 @@ In 1990 he took up the job of Editor in Chief, Sunday Observer.
 
 [Data](articles/5e161031.json)
 
+[Extended Data](ext_articles/5e161031.ext.json)
+
+---
+
+### Online bill sends negative signal on Sri Lanka reforms and recovery: US envoy
+
+*2024-01-31 17:45:00* · [`economynextcom`](https://economynext.com/online-bill-sends-negative-signal-on-sri-lanka-reforms-and-recovery-us-envoy-149376/) · `en`
+
+ECONOMYNEXT – A law to control Sri Lanka’s online discourse labelled the Online Safety Bill will send a negative signal on the island’s reforms and recovery, the US ambassador to Colombo, Julie Chung has said.
+
+The controversial bill on which many provisions were struck down by the Supreme Court as violating the constitution was passed amid strong protests by opposition legislators.
+
+Civil society organizations have said it has a ‘chilling effect’ on free speech, and global tech companies also raised serious concerns.
+
+“When major global tech companies characterize the bill as “unworkable” and stifling innovation and democracy, instead of actually addressing online crimes, frankly this sends a negative signal in Sri Lanka’s path towards reform and recovery,” Chung told members of the American Chamber of Commerce in Sri Lanka according to the text of her speech.
+
+...
+
+[Data](articles/a8d69c17.json)
+
 ---
 
 ### Informed, Civilized Society Key to Economic Development – President
@@ -195,6 +269,26 @@ The President underscored Sri Lanka’s pivotal role as the heart of Theravada B
 ...
 
 [Data](articles/2f5b92be.json)
+
+[Extended Data](ext_articles/2f5b92be.ext.json)
+
+---
+
+### Sri Lanka insurers to be hit by directive to remit all riot, terrorism cover to state re-insurer
+
+*2024-01-31 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-insurers-to-be-hit-by-directive-to-remit-all-riot-terrorism-cover-to-state-re-insurer-149368/) · `en`
+
+ECONOMYNEXT – Profits of Sri Lanka insurers will be hit by a directive to remit 100 percent of premiums for strike, riot, civil commotion and terrorism cover to state-run National Insurance Trust Fund from an earlier 12 percent, Fitch Ratings said.
+
+The segment has generally been highly profitable in recent years due to relatively low claim incidence, though there were significant claims in May 2022 as a result of anti-government protests, Fitch said.
+
+“However, the effect on non-life insurers’ profitability and risk-based capital adequacy ratios could be reduced if they are able to raise premium pricing,” the rating agency said.
+
+“The impact will also depend on the level of commissions motor insurers receive from NITF for providing SRCCT cover.”
+
+...
+
+[Data](articles/fb86d64c.json)
 
 ---
 
@@ -217,6 +311,30 @@ I was then visited the Prime Minister to lay the foundation stone for the constr
 [Data](articles/49eb252f.json)
 
 [Extended Data](ext_articles/49eb252f.ext.json)
+
+---
+
+### Sri Lanka rupee appreciates further at 315.50/70 to the US dollar
+
+*2024-01-31 17:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-appreciates-further-at-315-50-70-to-the-us-dollar-149385/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 315.50/70 to the US dollar on Wednesday, from 316.90/317.05 the previous day, dealers said.
+
+A bond maturing on 01.02.2026 closed down at 12.10/25 percent from 12.85/95 percent.
+
+A bond maturing on 15.09.2027 closed at 12.70/80 percent from 13.15/25 percent.
+
+A bond maturing on 15.03.2028 closed at 12.85/13.00 percent from 13.45/55 percent.
+
+A bond maturing on 15.07.2029 closed at 12.95/13.15 percent from 13.60/80 percent.
+
+A bond maturing on 15.05.2030 closed at 13.30/50 percent from 13.60/80 percent.
+
+A bond maturing on 01.07.2032 closed at 13.40/60 percent from 13.70/90 percent. (Colombo/Jan31/2024)
+
+◼️
+
+[Data](articles/01495332.json)
 
 ---
 
@@ -260,6 +378,8 @@ The Secretary of Board of Control for Cricket in India (BCCI) has been reappoint
 
 [Data](articles/480b5131.json)
 
+[Extended Data](ext_articles/480b5131.ext.json)
+
 ---
 
 ### Toyota recalls 50k US vehicles over potential airbag explosion
@@ -277,6 +397,8 @@ Over the last decade, more than 67 million Takata air bag inflators have been re
 ...
 
 [Data](articles/aa3608ac.json)
+
+[Extended Data](ext_articles/aa3608ac.ext.json)
 
 ---
 
@@ -355,6 +477,26 @@ Meanwhile, Hatton police said that the body of the deceased student has been sen
 [Data](articles/2ca13bc5.json)
 
 [Extended Data](ext_articles/2ca13bc5.ext.json)
+
+---
+
+### Indian firm to manage Sri Lanka’s three key airport: Minister
+
+*2024-01-31 16:52:00* · [`economynextcom`](https://economynext.com/indian-firm-to-manage-sri-lankas-three-key-airport-minister-149364/) · `en`
+
+ECONOMYNEXT – An Indian firm is in the process of being given to manage Sri Lanka’s three airports including the main Bandaranaike International Airport (BIA) where the island nation has now seen an over saturation in foreign tourists, Tourism Minister Harin Fernando said.
+
+The island nation is expecting 2.2 million tourists for 2024, but the main airport needs capacity improvement to handle the
+
+“An Indian firm is going to manage three airports. If it happens, the airports could reach a good level,” Harin Fernando told Economy Next on Wednesday (31).
+
+The three airports are Colombo (Bandaranaike International Airport), Rathmalana, and Mattala, he said.
+
+Media reports last month suggested that Russia has expressed its keenness to get into a joint venture with India involving private entities to run the Mattala Rajapaksa International Airport (MRIA) in southern Sri Lanka.
+
+...
+
+[Data](articles/9156550a.json)
 
 ---
 
@@ -444,6 +586,30 @@ Ranjith Madduma Bandara says that Ranil Wickremesinghe did not give orders to th
 
 ---
 
+### Sri Lanka stocks close up, selling pressure in banks continues
+
+*2024-01-31 16:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-selling-pressure-in-banks-continues-149363/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The All Share Price Index was up 0. 06 percent, or 6.03 points, at 10,311.
+
+The more liquid S&P SL20 index, however, was down 0.07 percent, or 2.16 points, at 2,896, due to some selling pressure continuing on bluechips.
+
+Turnover was at 695 million. Trading in Sampath Bank Plc contributed most (130mn) of this, and the share closed up at 68.20.
+
+Hatton National Bank also saw fairly high volumes being traded (94mn) and the share closed flat at 155.00.
+
+The banks industry group as a whole contributed the most to the day’s turnover (249mn). The sector has seen continued selling pressure in recent weeks, due to investor concerns about the country’s debt restructuring process.
+
+Shares of Sri Lanka Telecom Plc, which yesterday confirmed that its chairman and directors had stepped down ahead of its sale, closed at 98.20.
+
+...
+
+[Data](articles/5d5644e1.json)
+
+---
+
 ### The country's economy can be built through the knowledge and characteristic society - the President of the University of Kelaniya
 
 *2024-01-31 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/175259) · `ta`
@@ -477,6 +643,8 @@ According to the source, Rambukwella, who is also the Environment Minister, has 
 ◼️
 
 [Data](articles/256153da.json)
+
+[Extended Data](ext_articles/256153da.ext.json)
 
 ---
 
@@ -604,6 +772,8 @@ Court was informed that Gammanpila is expecting to travel to China occasionally 
 
 [Data](articles/7d64d64b.json)
 
+[Extended Data](ext_articles/7d64d64b.ext.json)
+
 ---
 
 ### All Ceylon Nursing Association resigns from strike
@@ -724,6 +894,20 @@ Jordani - 3 soldiers were killed in a drone attack on a US military base in Syri
 
 ---
 
+### Sri Lanka Speaker endorses international settlement and notaries bills
+
+*2024-01-31 16:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-speaker-endorses-international-settlement-and-notaries-bills-149352/) · `en`
+
+ECONOMYNEXT – Speaker of Parliament Mahinda Yapa Abeywardana has endorsed the certificate on the Recognition and Enforcement of International Settlement Agreements Resulting from Mediation Bill and the Notaries (Amendment) Bill.
+
+The bills will come into effect as the Recognition and Enforcement of International Settlement Agreements Resulting from Mediation Act No.5 of 2024 and the Notaries (Amendment) Act No.6 of 2024, the Department of Communication of the Parliament of Sri Lanka said in a statement. (Colombo/Jan31/2024)
+
+◼️
+
+[Data](articles/94f6da18.json)
+
+---
+
 ### Speaker endorses certificate on two Bills
 
 *2024-01-31 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/96886/speaker-endorses-certificate-on-two-bills) · `en`
@@ -739,6 +923,24 @@ Thus, the said Bills will come into effect as the Recognition and Enforcement of
 [Data](articles/87c4de3b.json)
 
 [Extended Data](ext_articles/87c4de3b.ext.json)
+
+---
+
+### Sri Lanka electricity provider to introduce payment plans
+
+*2024-01-31 16:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-electricity-provider-to-introduce-payment-plans-149349/) · `en`
+
+ECONOMYNEXT – The Ceylon Electricity Board will introduce payment plans for new connections and other services it provides, the power minister has said.
+
+“It was decided to introduce payment plans for new connections and other services of CEB. Accordingly CEB management will notify of the new services, installment payment plans for electricity customers,” Minister of Power and Energy Kanchana Wijesekera said on X.
+
+Wijesekera met with officials of CEB System control, Ceylon Petroleum Corporation and CEB at his Ministry where “2024 power generation plans, tariffs, costing of other services, oil pricing for power generation, weather forecasting and upgrading the facilities of the system control was discussed.”
+
+A plan to cut Sri Lanka’s electricity tariffs after strong rainfall reduced generation costs is still pending.  (Colombo/Jan31/2024).
+
+◼️
+
+[Data](articles/66c05412.json)
 
 ---
 
@@ -938,19 +1140,23 @@ Dhananjaya de Silva will lead the 16-man squad against Afghanistan. The one-off 
 
 ---
 
-### 2023දී අවුරුදු 18ට අඩු ගැබිණියන් 167ක්
+### 167 pregnants under 18 years in 2023
 
 *2024-01-31 15:43:03* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-අවුරුදු-18ට-අඩු-ගැබිණියන්-167ක්/11-407824) · `si`
 
-2023 වර්ෂයේ දී අවුරුදු 18ට වඩා අඩු ගැබිණියන් 167 ක් වාර්තා වී තිබෙන බව කාන්තා හා ළමා කටයුතු රාජ්‍ය අමාත්‍ය ගීතා කුමාරසිංහ මහත්මිය පැවසීය.
+In 2023, 167 pregnant women were reported in 2023, Mrs. State Minister of Women and Child Affairs Geetha Kumarasinghe.
 
-එමෙන්ම එම වර්ෂයේදී අවුරුදු 18 අඩු ළමා අපරාධ 1,502ක්ද, කැමැත්ත ඇතිව ස්ත්‍රී දූෂණ 1,163ක්ද, බලහත්කාරකම් ලෙස සිදු වූ ස්ත්‍රී දූෂණ 339ක්ද වාර්තා වී ඇති බව සිය අමාත්‍යාංශයේ අද (31දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් අමාත්‍යවරිය මේ බව සඳහන් කළාය.
+He was speaking at a media briefing held at a press conference held at a media briefing today (31, 339 rapes in the year and 339 rape rapes in the year.
 
-"මැතක සිට අපේ රටේ කාන්තාවන්ට එරෙහිව දූෂණ සහ ඝාතන රැල්ලක් ඇති වෙමින් පවතිනවා. මෙය ඉතා භයානක තත්වයක්. මේ හේතුව නිසා කාන්තාවන් සහ දරුවන් විශාල ප්‍රමාණයක් මියගොස් තිබෙනවා. පසුගිය වර්ෂයේ දී අවුරුදු 18ට අඩු ළමා අපරාධ 1502 ක් වාර්තා වී තිබෙනවා. එසේම කැමැත්ත ඇතිව  ස්ත්‍රී දූෂණ සිදු වීම්  1163 ක් වාර්තා වී තිබෙනවා. එසේම කැමැත්ත නොමැතිව බලහත්කාරකම් ලෙස සිදු වූ ස්ත්‍රී දූෂණ ගණන 339 ක් වී තිබෙනවා. එහි භයානකම තත්වය අවුරුදු 18 ට අඩු ළමා ගැබ් ගැනීම් 167 ක් වාර්තා වී තිබීම.
+"A wave of corruption and murders against women in our country are being effected. This is a very dangerous situation. For this reason, a large number of women and children have died. 1502 child crimes have been reported last year. Also, there are 1163 rape incidents with consolidation. Also, there are 339 rapes that have been violated without consent. The most dangerous situation has been reported in 167 child pregnancies under 18 years.
+
+230 from the Western Province, 239 in the Western Province, 230 from the North Western Province, 230 from the North Western province.In the entire country, 134 of the province and 136 from the Southern province and 136 criminal conditions were reported in the entire country.
 
 ...
 
 [Data](articles/d2d064a4.json)
+
+[Extended Data](ext_articles/d2d064a4.ext.json)
 
 ---
 
@@ -1073,6 +1279,26 @@ Through this, female employees pending against the husband, and the government e
 [Data](articles/47fff104.json)
 
 [Extended Data](ext_articles/47fff104.ext.json)
+
+---
+
+### Sri Lanka, Singapore officials discuss trade cooperation, supermarkets
+
+*2024-01-31 15:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-singapore-officials-discuss-trade-cooperation-supermarkets-149342/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Trade, Commerce and Food Security Minister met Singapore’s Non-Resident High Commissioner to discuss increasing trade and investment relations between the two countries.
+
+High Commissioner Chandra Das invited minister Nalin Fernando “to visit the NTUC supermarket chain in Singapore as it would provide insight into running Sri Lanka’s supermarket chains, including Lanka Sathosa,” a statement by the Department of Government Information said.
+
+NTUC FairPrice is the largest supermarket chain in Singapore with more than 60% market share.
+
+Fernando pointed out that post-harvest damage was very high in Sri Lanka and asked for Singapore’s help with technical knowledge to store sufficient stocks for long periods of time.
+
+To maintain food security, farmers should be properly coordinated through institutions such as cooperatives and provincial councils, Das said, adding that he was ready to provide facilities including investments to increase production.
+
+...
+
+[Data](articles/1a5d386f.json)
 
 ---
 
@@ -1616,9 +1842,9 @@ The outcome of the incident has been communicated to the Cinnamon management, ac
 
 Colombo, Jan 31 (Daily Mirror) -  Tests conducted at the Medical Research Institute (MRI) in Borella have substantiated claims that 'The Dining Room' restaurant at Cinnamon Lakeside, Colombo had served soup unfit for human consumption to a patron.
 
-Speaking to the Daily Mirror, Colombo Central Medical Officer of Health Dr. Pethum said a couple reported dissatisfaction over the quality of a soup served during their dinner at the establishment recently.
+According to sources, a couple had reported dissatisfaction over the quality of a soup served during their dinner at the establishment recently.
 
-“Following the patrons' complaint, Public Health Inspectors (PHIs) directed samples of the soup to the MRI for examination. Subsequently, it was revealed that there was an issue with the white pepper served along with the soup, which the diner had added to the soup,” the MOH said.
+Speaking to the Daily Mirror, Colombo Central Medical Officer of Health Dr. Pethum Kodikara said “Following the patrons' complaint, Public Health Inspectors (PHIs) directed samples of the soup to the MRI for examination. Subsequently, it was revealed that there was an issue with the white pepper served along with the soup, which the diner had added to the soup,”
 
 Besides, it was reported that the female diner who consumed the soup had sought medical treatment at a private hospital in Ragama.
 
@@ -1783,235 +2009,5 @@ It is reported that a car parked at the spot is found in the spot.
 [Data](articles/73e8f209.json)
 
 [Extended Data](ext_articles/73e8f209.ext.json)
-
----
-
-### ’’If you want to take a holiday, go to Sri Lanka,’’ Jaishankar
-
-*2024-01-31 12:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/If-you-want-to-take-a-holiday-go-to-Sri-Lanka-Jaishankar/155-276041) · `en`
-
-India, Jan 31 (Daily Mirror) - Addressing an event in India, External Affairs Minister S. Jaishankar said, "My first advice to you, the next time you want to take a holiday, go to Sri Lanka. I’m serious. Please go to Sri Lanka. I say this to all of you."
-
-"I had visited Sri Lanka and saw firsthand the fuel queues and shortage of food and essential commodities. The only country that came forward at this time was India," Minister Jaishankar reflected on the dire circumstances he had observed during his visit.
-
-He emphasized that amidst the global indifference to Sri Lanka's economic turmoil, India emerged as a steadfast ally, garnering significant appreciation from the Sri Lankan populace.
-
-He also underscored the significance of India's assistance to Sri Lanka amidst its economic challenges, highlighting its positive impact on India's image among Sri Lankan citizens.
-
-...
-
-[Data](articles/0466f24b.json)
-
-[Extended Data](ext_articles/0466f24b.ext.json)
-
----
-
-### ’’If you want to take a holiday, go to Sri Lanka,’’ Jaishankar
-
-*2024-01-31 12:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/If-you-want-to-take-a-holiday-go-to-Sri-Lanka-Jaishankar/108-276041) · `en`
-
-India, Jan 31 (Daily Mirror) - Addressing an event in India, External Affairs Minister S. Jaishankar said, "My first advice to you, the next time you want to take a holiday, go to Sri Lanka. I’m serious. Please go to Sri Lanka. I say this to all of you."
-
-"I had visited Sri Lanka and saw firsthand the fuel queues and shortage of food and essential commodities. The only country that came forward at this time was India," Minister Jaishankar reflected on the dire circumstances he had observed during his visit.
-
-He emphasized that amidst the global indifference to Sri Lanka's economic turmoil, India emerged as a steadfast ally, garnering significant appreciation from the Sri Lankan populace.
-
-He also underscored the significance of India's assistance to Sri Lanka amidst its economic challenges, highlighting its positive impact on India's image among Sri Lankan citizens.
-
-...
-
-[Data](articles/c86e14fa.json)
-
-[Extended Data](ext_articles/c86e14fa.ext.json)
-
----
-
-### Family of 22-year-old who died in police custody raise suspicions
-
-*2024-01-31 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/96880/family-of-22-year-old-who-died-in-police-custody-raise-suspicions-) · `en`
-
-The family of a 22-year-old who died while in police custody have raised suspicions concerning the involvement of the police in the youth’s death.
-
-Shanuka Gihan Marambage, a 22-year-old male suspect, was apprehended along with two female suspects on charges related to drugs on Tuesday evening (30 Jan.).
-
-According to police, Marambage had fallen ill shortly after, and was taken to the Anuradhapura Teaching Hospital, where he was later pronounced dead.
-
-The deceased’s relatives, however, raised suspicions pertaining to the circumstances surrounding his demise. Residents of the Anuradhapura area too, were seen surrounding the Anuradhapura Police Station last night, over the same concerns.
-
-22-year-old Shanuka Gihan Marambage, a resident of Anuradhapura, had been living with his grandparents as his mother is an expatriate worker, Ada Derana learns.
-
-◼️
-
-[Data](articles/31779aab.json)
-
-[Extended Data](ext_articles/31779aab.ext.json)
-
----
-
-### Sarath Fonseka slams Sajith Premadasa over alliance with Daya Ratnayake
-
-*2024-01-31 12:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sarath-Fonseka-slams-Sajith-Premadasa-over-alliance-with-Daya-Ratnayake/108-276042) · `en`
-
-Colombo, Jan 31 (Daily Mirror) - In the wake of Samagi Jana Balawegaya (SJB) leader Sajith Premadasa accepting the support of former Army Commander (Retired) General Daya Ratnayake, Field Marshal Sarath Fonseka expressed his strong displeasure over the move.
-
-Field Marshal Sarath Fonseka made these remarks during his participation in the protest organized by the SJB in Colombo yesterday.
-
-Sarath Fonseka disclosed Ratnayake's significant involvement in his imprisonment back in 2010 under the administration of former President Mahinda Rajapaksa.
-
-Expressing his concerns, Fonseka emphasized that Ratnayake's allegiance to the SJB, particularly given his past affiliations, raises questions about the party's direction and principles.
-
-He went on to suggest that by embracing Ratnayake, the SJB risks aligning itself with the former President, implying a compromise of its political stance.
-
-...
-
-[Data](articles/7a70894b.json)
-
-[Extended Data](ext_articles/7a70894b.ext.json)
-
----
-
-### Sarath Fonseka slams Sajith Premadasa over alliance with Daya Ratnayake
-
-*2024-01-31 12:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sarath-Fonseka-slams-Sajith-Premadasa-over-alliance-with-Daya-Ratnayake/155-276042) · `en`
-
-Colombo, Jan 31 (Daily Mirror) - In the wake of Samagi Jana Balawegaya (SJB) leader Sajith Premadasa accepting the support of former Army Commander (Retired) General Daya Ratnayake, Field Marshal Sarath Fonseka expressed his strong displeasure over the move.
-
-Field Marshal Sarath Fonseka made these remarks during his participation in the protest organized by the SJB in Colombo yesterday.
-
-Sarath Fonseka disclosed Ratnayake's significant involvement in his imprisonment back in 2010 under the administration of former President Mahinda Rajapaksa.
-
-Expressing his concerns, Fonseka emphasized that Ratnayake's allegiance to the SJB, particularly given his past affiliations, raises questions about the party's direction and principles.
-
-He went on to suggest that by embracing Ratnayake, the SJB risks aligning itself with the former President, implying a compromise of its political stance.
-
-...
-
-[Data](articles/eb1eb31f.json)
-
----
-
-### Two foreigners killed in accident
-
-*2024-01-31 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/175229) · `ta`
-
-Police have arrested bus and lorry drivers in connection with the death of two foreign nationals
-
-Two foreigners were killed in a bus and lorry collision in the incident, which took place yesterday (30). One of them is known as a Russian citizen.
-
-The motorcycle was traveling from Matara to Colombo with a bus traveling from Matara to Colombo.
-
-◼️
-
-[Data](articles/8a2adf26.json)
-
-[Extended Data](ext_articles/8a2adf26.ext.json)
-
----
-
-### Shasheendra Rajapaksa gets State Minister Post
-
-*2024-01-31 12:52:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/shasheendra-rajapaksa-gets-state-minister-post/) · `en`
-
-COLOMBO (News 1st); Shasheendra Rajapaksa was sworn in as the State Minister for Irrigation and Water Resources Management.
-
-He took oaths in the presence of President Ranil Wickremesinghe at the President's Office in Colombo, said the President's Media Division.
-
-◼️
-
-[Data](articles/05538756.json)
-
-[Extended Data](ext_articles/05538756.ext.json)
-
----
-
-### Bikku stuck with yellow umbrella: 3 women magic
-
-*2024-01-31 12:47:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஞ்சள்-குடையால்-மாட்டிய-பிக்கு-3-யுவதிகள்-மாயம்/175-332408) · `ta`
-
-There is an incident in the south of a three -ton tour of the pretty young girls who dressed in civilian dressed in a kavaiyadi, a head of the Vikarai.
-
-Police say that the man who returned to the Vihara on Monday (29), had left the Vihara last Monday (29) after some young men found the main bikku of a Vikarai in their area.
-
-The incident has taken place in the Vilakara of a recent village on the road, which is logged in to the Aluthgama and Welipenna Southern Highway.
-
-That biku has traveled with three young women in civil dress. Some of the youths from the same village had already traveled to Kadirgama.
-
-If three women travel with their hands with a man, they will not doubt, and many of the people who went there were looking for the four.
-
-Similarly, youths from the village in Welipenna area have observed. It was then that the person in the civil dress found that the Vihara of their village was a biku.
-
-...
-
-[Data](articles/e63d0712.json)
-
-[Extended Data](ext_articles/e63d0712.ext.json)
-
----
-
-### I have decided how to retaliate for Jordan attack - Job
-
-*2024-01-31 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/175226) · `ta`
-
-US President Jobitton has said that he has decided on how to respond to Jordan's unmanned air strike.
-
-Faidan said this when three Americans were killed in an unmanned air strike on the US military in Jordan.
-
-Jobitton said Iran is sure to be responsible for the attack on the US base on the Syrian border.
-
-He said that this decision came to the conclusion based on the Iranian weapons of the compulsory Hesbullah.
-
-Responding to the reports of journalists whether Iran has confirmed that Iran has confirmed the attack on the Tower 22 floor and Iran, we will examine it, while I do not consider a widespread war in the Middle East.
-
-◼️
-
-[Data](articles/a9208960.json)
-
-[Extended Data](ext_articles/a9208960.ext.json)
-
----
-
-### Brutal Beliatte Killings: 3 More Apprehended
-
-*2024-01-31 12:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/brutal-beliatte-killings-3-more-apprehended/) · `en`
-
-COLOMBO (News 1st); Sri Lanka's law enforcement authorities have successfully apprehended three more suspects linked to the brutal murder of five people in Beliatte, last week.
-
-The arrests were carried out in the Hungama and Matara police areas.
-
-The suspects, aged 28, 42, and 58, hail from Alawwa, Bussa, and Negombo.
-
-According to the police, these individuals are believed to be intricately involved in the disposal of the T-56 firearm allegedly used in the commission of the murders, as well as facilitating illicit money transactions linked to the criminal activity.
-
-This development comes in the wake of the prior arrest of six individuals associated with the same murder case.
-
-Notably, two of the apprehended suspects were identified as women.
-
-Sri Lankan authorities on Monday (29) apprehended two women suspected of aiding and abetting in the brutal murders of five individuals in Beliatte last week.
-
-...
-
-[Data](articles/01aacaa8.json)
-
-[Extended Data](ext_articles/01aacaa8.ext.json)
-
----
-
-### Release
-
-*2024-01-31 12:39:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியை-பலாத்காரம்-செய்தவர்-விடுதலை/175-332407) · `ta`
-
-Galle High Court Judge Kaviniya Nanayakkara acquitted a man accused of abducting and raping a 16 -year -old girl. The judge acquitted him after the security advisor and police declared him in court as the victim and the accused were married and the parents of a child.
-
-The Attorney General has accused her of abducting and raping a 16 -year -old girl.
-
-He was abducted on July 5 at Yakkalamulla and raped him in Madhavachi and Akurassa area.
-
-However, the High Court judge released the accused, however, considering the submissions of the defendants. After being released, the couple left the court with their child.
-
-◼️
-
-[Data](articles/7ab87fee.json)
-
-[Extended Data](ext_articles/7ab87fee.ext.json)
 
 ---

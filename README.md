@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 20:02:19**
+As of **2024-01-31 20:17:15**
 
 ## Newspaper Stats
 
-*Scraped **3,900** Articles*
+*Scraped **3,907** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ dailyftlk | 243
 adalk | 347
 virakesarilk | 440
 adaderanasinhalalk | 449
-adaderanalk | 487
+adaderanalk | 493
 tamilmirrorlk | 500
-dailymirrorlk | 528
+dailymirrorlk | 529
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,899 (100.0%) of 3,900 articles have been extended.
+3,900 (99.8%) of 3,907 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### Foundation stone laid for construction of Ashoka Pillar at Sri Lanka’s Rajaguru Sri Subuthi Temple
+
+*2024-01-31 19:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/asia/Foundation-stone-laid-for-construction-of-Ashoka-Pillar-at-Sri-Lankas-Rajaguru-Sri-Subuthi-Temple/81-276062) · `en`
+
+Colombo, January 31 (ANI): India’s High Commissioner to Sri Lanka Santosh Jha on Sunday laid the foundation stone for the construction of the King Ashoka’s Pillar of Dharma at the Rajaguru Sri Subuthi Temple in Sri Lanka’s Wadduwa.
+
+“Reinforcement of the deep cultural connect! HC @santjha laid the Foundation Stone for the construction of King Ashoka’s Pillar of Dharma at the sacred RajaGuru Sri Subuthi Waskaduwa Maha Viharaya. He also paid his respects at the sacred Kapilavastu Relics in the Temple,” as per the Indian High Commission in Sri Lanka’s official handle on ‘X’.
+
+A spiritually elevated ceremony took place at the temple on Sunday, where the country’s inaugural Ashoka Pillar was laid, according to an official release.
+
+The event marked a momentous occasion in the cultural and spiritual ties between India and Sri Lanka. Distinguished dignitaries graced the occasion.
+
+...
+
+[Data](articles/63738d61.json)
+
+---
+
+### Sri Lanka’s Pekoe Trail among Nat Geo’s top 20 travel experiences for 2024
+
+*2024-01-31 19:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/96896/sri-lankas-pekoe-trail-among-nat-geos-top-20-travel-experiences-for-2024) · `en`
+
+The Pekoe Trail, a 300km trekking trail that travels through the central hills of Sri Lanka, has been profiled among the “Top 20 Travel Experiences for 2024” as named by National Geographic’s Global Editorial Teams, as part of their picks for Best of the World 2024, the brand’s annual guide of the most exciting, meaningful, and one-of-a-kind travel experiences for 2024.
+
+The National Geographic recently announced their picks for ‘BEST OF THE WORLD 2024’, the brand’s annual guide of the most exciting, meaningful, and one-of-a-kind travel experiences for 2024, whereas the Pekoe Trail, Sri Lanka was ranked number 16 in the “Top 20 Travel Experiences” category.
+
+...
+
+[Data](articles/1653280d.json)
+
+---
 
 ### PSL team owners to pay for production rights?
 
@@ -49,6 +81,8 @@ The excess amount the PCB would be paying to the production company will now be 
 ...
 
 [Data](articles/6df1de05.json)
+
+[Extended Data](ext_articles/6df1de05.ext.json)
 
 ---
 
@@ -92,6 +126,78 @@ The fishermen who escaped and saved the pirates were addressed by the owner of t
 
 ---
 
+### CID arrests wife, son and sister of “Dematagoda Ruwan”
+
+*2024-01-31 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/96895/cid-arrests-wife-son-and-sister-of-dematagoda-ruwan) · `en`
+
+The Illegal Assets Investigation Division of the Criminal Investigations Department (CID) has arrested the wife, son and sister of the drug trafficker Ruwan Chamila Prasanna alias “Dematagoda Ruwan”, who is the brother of “Dematagoda Chaminda”, a notorious drug kingpin who has been sentenced to death.
+
+The arrest has been carried out after it was uncovered that property worth over Rs. 100 million, which are suspected to have been obtained using drug money and other illicit means, were purchased by registering them in the names of the arrested individuals.
+
+The 27-year-old son of “Dematagoda Ruwan,” who has been identified as Tharindu Madhusanka, is reportedly the Kuppiyawatte Electorate Organiser of a leading political party.
+
+The arrested suspects will be produced before the Aluthkade Magistrate’s Court tomorrow (Feb. 01).
+
+◼️
+
+[Data](articles/3c40f06d.json)
+
+---
+
+### OSB sends ‘negative signal’ in Sri Lanka’s path towards reform and recovery – US envoy
+
+*2024-01-31 19:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96894/osb-sends-negative-signal-in-sri-lankas-path-towards-reform-and-recovery-us-envoy) · `en`
+
+U.S. Ambassador Julie Chung says Sri Lanka’s adoption of the controversial Online Safety Bill sends a negative signal in Sri Lanka’s path towards reform and recovery, when major global tech companies characterize the bill as “unworkable” and stifling innovation and democracy, instead of actually addressing online crimes.
+
+She also emphasised that in order improve Sri Lanka’s business climate, the government of Sri Lanka, while carrying out reforms, must also make its people aware of these reforms in a ‘clear manner’.
+
+Addressing the Amcham XO Forum “75 years and Beyond: U.S. – Sri Lankan Business Relations in 2024”, Ambassador Chung highlighted that while it is imperative that the Sri Lankan government carries out reforms, “it’s also important to explain those reforms to the people in a clear manner”.
+
+She admitted that while this process inevitably makes for slower legislation, it results in good legislation and reforms.
+
+...
+
+[Data](articles/1308f6b9.json)
+
+---
+
+### CEB to introduce new services and installment payment plans
+
+*2024-01-31 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/96893/ceb-to-introduce-new-services-and-installment-payment-plans-) · `en`
+
+The Ceylon Electricity Board (CEB) has decided to introduce payment plans for new connections, Minister of Power and Energy Kanchana Wijesekera revealed.
+
+Taking to ‘X’ (formerly Twitter), Minister Wijesekera stated that the decision was taken at a meeting held with officials of the CEB and the Ceylon Petroleum Corporation (CPC) at the Ministry’s premises on Tuesday (30 Jan.).
+
+Accordingly, it was decided to introduce payment plans not only for new connections, but also for other services obtained by consumers from the CEB.
+
+The Minister further noted that the CEB management will thus notify its consumers of the new services and installment payment plans that will be made available for its consumers.
+
+The meeting also focused on the power generation plans for this year, tariffs, costing of other services, oil pricing for power generation, weather forecasting and upgrading the facilities of the CEB’s system control unit.
+
+◼️
+
+[Data](articles/fa52e49a.json)
+
+---
+
+### President reveals plans to establish research institute for Theravada Buddhism
+
+*2024-01-31 18:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96892/president-reveals-plans-to-establish-research-institute-for-theravada-buddhism) · `en`
+
+President Ranil Wickremesinghe emphasized that the foundation of a nation’s economy lies in fostering an enlightened and cultured society.
+
+He made these remarks during the inauguration of the new building complex at the Kelaniya University Postgraduate Institute of Pali and Buddhist Studies this morning (31 Jan.).
+
+The President underscored Sri Lanka’s pivotal role as the heart of Theravada Buddhism, expressing the nation’s duty to delve deeper into the Dharma and share its wisdom globally. Highlighting plans for the future, he announced the intention to establish a research institute dedicated to Theravada Buddhism, recognizing the potential of such institutions to propagate the teachings and strengthen ties between Buddhist nations.
+
+...
+
+[Data](articles/b9033bcb.json)
+
+---
+
 ### Remove Daya Rathnayake from SJB or face consequences: SF tells Sajith
 
 *2024-01-31 18:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Remove-Daya-Rathnayake-from-SJB-or-face-consequences-SF-tells-Sajith/108-276058) · `en`
@@ -111,6 +217,24 @@ Field Marshal Fonseka told journalists that others in the party are also frustra
 [Data](articles/060b63f4.json)
 
 [Extended Data](ext_articles/060b63f4.ext.json)
+
+---
+
+### Five persons arrested during ‘Satyagraha’ in front of CID
+
+*2024-01-31 18:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96891/five-persons-arrested-during-satyagraha-in-front-of-cid-) · `en`
+
+Five civil society activists have been arrested while staging a ‘Satyagraha’ campaign in front of the Criminal Investigations Department (CID) today (31 Jan.) demanding the arrest of former Health Minister Keheliya Rambukwella.
+
+Unions and civil society organisations staged a ‘Satyagraha’ campaign today, demanding that the former Health Minister be arrested over his alleged involvement in the controversial import of substandard medicines.
+
+Rambukwella was due to appear before the CID today, however had failed to do so on account of having to appear before the Colombo High Court over another case. Thus, the Minister had requested the CID for a different date, Ada Derana learns.
+
+Meanwhile, Additional Secretary to the Ministry of Health Dr. Saman Ratnakaye was also summoned before the CID today to record a statement. He was subsequently arrested and produced before the Maligakanda Magistrate’s Court.
+
+◼️
+
+[Data](articles/1977e123.json)
 
 ---
 
@@ -1913,147 +2037,5 @@ Shashendra Rajapaksa has been sworn in as Ranil Wickremesinghe as the State Mini
 [Data](articles/052a6519.json)
 
 [Extended Data](ext_articles/052a6519.ext.json)
-
----
-
-### New king of Malaysia sworn in
-
-*2024-01-31 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192787) · `si`
-
-As the new king of Malaysia, Johojo has sworn in the sworn in of the ruling Sultarhan Ibrahim Sultan iskandar.
-
-Accordingly, he has become the 17th king of Malaysia, foreign media reports said.
-
-The ceremony was held today (31) and Malaysian Prime Minister Anwar Ibrahim has participated in this program.
-
-According to foreign reports, the second ruler of the state of state in the South State of Mercezar Malaysia.
-
-◼️
-
-[Data](articles/fffb150f.json)
-
-[Extended Data](ext_articles/fffb150f.ext.json)
-
----
-
-### The President went to Kelaniya despite opposition
-
-*2024-01-31 13:46:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்ப்பையும்-மீறி-களனிக்கு-சென்றார்-ஜனாதிபதி/175-332411) · `ta`
-
-Amidst the opposition of the students, the President has gone there to attend the opening of the new building complex of the Bali and Buddhist Studies Institute of the University of Kelaniya.
-
-The new building complex was opened by President Ranil Wickremesinghe this morning.
-
-Students of the University of Kelaniya staged a protest against the president's arrival and police threw tear gas to dissolve the protest last night by crossing the main road in Colombo.
-
-However, despite the dispersal of the students, it was noteworthy that until yesterday evening, the university administrative building staged a demonstration without allowing any parties to enter.
-
-◼️
-
-[Data](articles/cb00eedb.json)
-
-[Extended Data](ext_articles/cb00eedb.ext.json)
-
----
-
-### Priyankara Fills Vacant Puttalam MP Seat
-
-*2024-01-31 13:46:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/priyankara-fills-vacant-puttalam-mp-seat/) · `en`
-
-COLOMBO (News 1st); In a special gazette notice, the Election Commission announced the appointment of Jagath Priyankara as the new Member of Parliament for Puttalam District.
-
-This appointment fills the vacancy left by the untimely demise of former State Minister Sanath Nishantha in a car accident on the Katunayake expressway last week.
-
-◼️
-
-[Data](articles/39473260.json)
-
-[Extended Data](ext_articles/39473260.ext.json)
-
----
-
-### Activist Piyath Nikeshala Granted Bail
-
-*2024-01-31 13:41:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/activist-piyath-nikeshala-granted-bail/) · `en`
-
-COLOMBO (News 1st); Activist Piyath Nikeshala was granted bail by the Colombo Fort Chief Magistrate after being arrested by the Computer Crime Investigation Unit (CCIU) of the Criminal Investigation Department (CID) on January 29th.
-
-Nikeshala faced charges under the Computer Crimes Act for allegedly violating public order, creating public dissatisfaction with the government, and posting videos with the intention of provoking the public.
-
-Following his arrest, he was presented to the court on January 30th and ordered to be remanded until today's hearing.
-
-After considering the facts presented in court today, the Chief Magistrate ordered to release Nikeshala on a personal bail of Rs. 500.000/-.
-
-◼️
-
-[Data](articles/488e99a3.json)
-
-[Extended Data](ext_articles/488e99a3.ext.json)
-
----
-
-### MRI confirms soup unfit for consumption served at Cinnamon Lakeside
-
-*2024-01-31 13:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/MRI-confirms-soup-unfit-for-consumption-served-at-Cinnamon-Lakeside/155-276044) · `en`
-
-Colombo, Jan 31 (Daily Mirror) -  Tests conducted at the Medical Research Institute (MRI) in Borella have substantiated claims that 'The Dining Room' restaurant at Cinnamon Lakeside, Colombo had served soup unfit for human consumption to a patron.
-
-According to sources, a couple had reported dissatisfaction over the quality of a soup served during their dinner at the establishment recently.
-
-Speaking to the Daily Mirror, Colombo Central Medical Officer of Health Dr. Pethum Kodikara said “Following the patrons' complaint, Public Health Inspectors (PHIs) directed samples of the soup to the MRI for examination. Subsequently, it was revealed that there was an issue with the white pepper served along with the soup, which the diner had added to the soup,”
-
-Besides, it was reported that the female diner who consumed the soup had sought medical treatment at a private hospital in Ragama.
-
-The outcome of the incident has been communicated to the Cinnamon management, according to the MOH.
-
-...
-
-[Data](articles/9c1e9e31.json)
-
-[Extended Data](ext_articles/9c1e9e31.ext.json)
-
----
-
-### MRI confirms soup unfit for consumption served at Cinnamon Lakeside
-
-*2024-01-31 13:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MRI-confirms-soup-unfit-for-consumption-served-at-Cinnamon-Lakeside/108-276044) · `en`
-
-Colombo, Jan 31 (Daily Mirror) -  Tests conducted at the Medical Research Institute (MRI) in Borella have substantiated claims that 'The Dining Room' restaurant at Cinnamon Lakeside, Colombo had served soup unfit for human consumption to a patron.
-
-According to sources, a couple had reported dissatisfaction over the quality of a soup served during their dinner at the establishment recently.
-
-Speaking to the Daily Mirror, Colombo Central Medical Officer of Health Dr. Pethum Kodikara said “Following the patrons' complaint, Public Health Inspectors (PHIs) directed samples of the soup to the MRI for examination. Subsequently, it was revealed that there was an issue with the white pepper served along with the soup, which the diner had added to the soup,”
-
-Besides, it was reported that the female diner who consumed the soup had sought medical treatment at a private hospital in Ragama.
-
-The outcome of the incident has been communicated to the Cinnamon management, according to the MOH.
-
-...
-
-[Data](articles/d32d708c.json)
-
-[Extended Data](ext_articles/d32d708c.ext.json)
-
----
-
-### Daya - Sajith Alliance;Suttars Sarath
-
-*2024-01-31 13:37:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தயா-சஜித்-கூட்டணி-சாடுகிறார்-சரத்/175-332410) · `ta`
-
-Field Marshal Sarath Fonseka expressed his displeasure over the acceptance of United People's Power President Sajith Premadasa's support for former Army Commander (retired) General Daya Ratnayake.
-
-Field Marshal Sarath Fonseka said this while participating in a demonstration organized by the United People's Power in Colombo yesterday.
-
-Sarath Fonseka has said that Ratnayake was involved in his jail in 2010 under the administration of former President Mahinda Rajapakse.
-
-He pointed out that by combining Ratnayake, the United People's Power is at risk of joining the former president, indicating that the United People's Power is compromising in its political position.
-
-It is noteworthy that Daya Ratnayake, who held key positions during the reign of former President Gotabhaya Rajapakse, recently joined the United People's Power.
-
-◼️
-
-[Data](articles/3f823f1a.json)
-
-[Extended Data](ext_articles/3f823f1a.ext.json)
 
 ---

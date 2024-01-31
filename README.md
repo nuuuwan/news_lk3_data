@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 21:02:25**
+As of **2024-01-31 21:17:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 533
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,912 (99.8%) of 3,921 articles have been extended.
+3,921 (100.0%) of 3,921 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Radegonde clarified that they received word about the incident from the Sri Lank
 
 [Data](articles/800dac6d.json)
 
+[Extended Data](ext_articles/800dac6d.ext.json)
+
 ---
 
 ### Lotus Tower rewards 50,000th foreign visitor
@@ -63,6 +65,8 @@ In celebration of this momentous occasion, the 50,000th visitor was rewarded wit
 ◼️
 
 [Data](articles/c4f5747c.json)
+
+[Extended Data](ext_articles/c4f5747c.ext.json)
 
 ---
 
@@ -82,6 +86,8 @@ National Geographic announced their picks for BEST OF THE WORLD 2024, the brand�
 
 [Data](articles/634d12ae.json)
 
+[Extended Data](ext_articles/634d12ae.ext.json)
+
 ---
 
 ### Three weightlifters for Asian Continental Meet
@@ -100,6 +106,8 @@ The Asian Weightlifting Continental Championship is the penultimate qualifying e
 
 [Data](articles/ec2c17fc.json)
 
+[Extended Data](ext_articles/ec2c17fc.ext.json)
+
 ---
 
 ### Police Detains 10 Protesters at CID Headquarters While Demanding Keheliya’s Arrest
@@ -117,6 +125,8 @@ Meanwhile, Former Health Minister Keheliya Rambukwella issued a statement this a
 ...
 
 [Data](articles/7250d223.json)
+
+[Extended Data](ext_articles/7250d223.ext.json)
 
 ---
 
@@ -155,6 +165,8 @@ He emphasized the importance of adhering to principles and selecting members wit
 ...
 
 [Data](articles/0e3edb77.json)
+
+[Extended Data](ext_articles/0e3edb77.ext.json)
 
 ---
 
@@ -199,6 +211,8 @@ The Supreme Court held that the compensation should be paid by the four policeme
 ...
 
 [Data](articles/a53100fd.json)
+
+[Extended Data](ext_articles/a53100fd.ext.json)
 
 ---
 
@@ -762,23 +776,29 @@ Civil society organizations have said it has a ‘chilling effect’ on free spe
 
 ---
 
-### ජීවිත අරගලය ජය ගැනීමට බුදුන් වහන්සේගේ ධර්මය ඉතාම වැදගත්
+### The Dhamma of the Buddha is very important to win the life struggle
 
 *2024-01-31 17:44:21* · [`adalk`](https://www.ada.lk/breaking_news/ජීවිත-අරගලය-ජය-ගැනීමට-බුදුන්-වහන්සේගේ-ධර්මය-ඉතාම-වැදගත්/11-407829) · `si`
 
-දැනුම්වත් සහ ශිෂ්ඨ සම්පන්න සමාජයක් තුළින් රටක ආර්ථිකය ගොඩනැගිය හැකි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe said that the economy of a country could be built through an informed and civilized society.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ කැලණිය විශ්ව විද්‍යාලයේ පාලි හා බෞද්ධ අධ්‍යයන පශ්චාත් උපාධි ආයතනයේ නව ගොඩනැගිලි සංකීර්ණය විවෘත කිරීමේ අවස්ථාවට අද (31) පෙරවරුවේ එක් වෙමිනි.
+The President was speaking at the opening of the Postgraduate Complex at the Postgraduate Institute of Pali and Buddhist Studies of the University of Kelaniya.
 
-ජීවිත අරගලය ජය ගැනීම සඳහා බුදුන් වහන්සේ දේශනා කළ ධර්මය ඉතාම වැදගත් වන අතර එම ධර්මය වඩා ගැඹුරින් අධ්‍යයනය කර ලෝකයට ගෙන යාම සඳහා ථෙරවාදි බුදු දහමේ කේන්ද්‍රස්ථානය වන ශ්‍රී ලංකාවට මහඟු වගකීමක් පැවරී තිබෙන බව ද ජනාධිපතිවරයා මෙහිදී පෙන්වා දුන්නේය.
+The President also pointed out that the Buddha preached to overcome the life struggle.
 
-ථෙරවාදි බුදු දහම පිළිබඳ පර්යේෂණ ආයතනයක් ස්ථාපිත කිරීමට ඉදිරියේදී කටයුතු කරන බවත්, ථෙරවාදි බුදු දහම ලෝකයට ගෙන යාමට මෙන්ම බෞද්ධ රටවල් අතර සබඳතා ශක්තිමත් කර ගැනීමට මෙවැනි බෞද්ධ ආයතනවලට විශාල හැකියාවක් තිබෙන බවත් ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+The President pointed out that these Buddhist institutions have a great ability to establish a research institute on the Theravi Buddhist Buddhist Buddhism.
 
-තාක්ෂණ යුගයට අවශ්‍ය පරිදි ශ්‍රී ලංකාවේ අධ්‍යාපනය ශක්තිමත් කිරීමට සැලසුම් කර ඇති බවද පැවසූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සෑම විශ්වවිද්‍යාලයකම කෘතිම බුද්ධිය පිළිබඳ පාඨමාලා ආරම්භ කිරීමට පියවර ගන්නා බවද සඳහන් කළේය.
+The Technology Age is planning to strengthen education in Sri Lanka as well as President Ranil Wickremesinghe will commence the courses of artificial intelligence on all universities.
+
+The President also said the students of the Postgraduate Institute of Pali and Buddhist Studies will be prepared to build a student hostel and the state sponsored by the government.
+
+President Ranil Wickremesinghe was also presented to the overseas donor.
 
 ...
 
 [Data](articles/5b5745c1.json)
+
+[Extended Data](ext_articles/5b5745c1.ext.json)
 
 ---
 
@@ -990,19 +1010,21 @@ Commenting further regarding the matter, the All Ceylon Nurses’ Union alleged 
 
 ---
 
-### ටෙලිකෝම් කොටස් මිලදී ගන්න චීන හා ඉන්දීය සමාගම් දෙකක්
+### Buy Telecom Shares Two Chinese and Two Indian Companies
 
 *2024-01-31 16:52:18* · [`adalk`](https://www.ada.lk/breaking_news/ටෙලිකෝම්-කොටස්-මිලදී-ගන්න-චීන-හා-ඉන්දීය-සමාගම්-දෙකක්/11-407828) · `si`
 
-ශ්‍රී ලංකා ටෙලිකොම් හි රජය සතු සියයට 50.23ක බහුතර කොටස් ලබාගැනීම සඳහා මේ වනවිට චීන සහ ඉන්දියානු සමාගම් දෙකක් සුදුසුකම් ලබා තිබේ.
+Two Chinese and Indian companies have been eligible to obtain majority of 50.23 percent of Sri Lanka Telecom.
 
-ඒ චීනයේ ගෝටියුන් ඉන්ටර්නැෂනල් ඉන්වෙස්ට්මන්ට් හෝල්ඩිංග්ස් සහ ඉන්දියාවේ ජියෝ ප්ලැට්ෆෝර්ම් යන සමාගම් දෙක ය. කොටස් මිලදී ගැනීම සඳහා ලයිකා සමූහයද ඉදිරිපත්ව සිටියේය.
+It is the two companies in China Gotun International Investment Holdings and Jio Platfarm in India. The Lyrican group also came to buy shares.
 
-කෙසේ වෙතත් අවසන් වරට ඉන්දීය හා චීන සමාගම් ද්විත්වය තෝරාගෙන තිබේ.  ජියෝ සමාගම ඉන්දීය ප්‍ර කෝටිපති ව්‍යාපාරික මුකේෂ් අම්බානිට අයත් වෙයි.
+The last time Indigenous and Chinese companies have been selected.Gio belongs to Indian expansion business business Mukesh, Mukh Ambani.
 
 ◼️
 
 [Data](articles/8c1626e5.json)
+
+[Extended Data](ext_articles/8c1626e5.ext.json)
 
 ---
 

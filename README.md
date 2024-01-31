@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 09:17:21**
+As of **2024-01-31 09:33:05**
 
 ## Newspaper Stats
 
-*Scraped **3,688** Articles*
+*Scraped **3,690** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 216
 dailyftlk | 243
 adalk | 331
 virakesarilk | 408
-adaderanasinhalalk | 412
+adaderanasinhalalk | 414
 tamilmirrorlk | 468
 adaderanalk | 469
 dailymirrorlk | 499
@@ -26,11 +26,45 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,688 (100.0%) of 3,688 articles have been extended.
+3,688 (99.9%) of 3,690 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### සනත් නිශාන්ත වෙනුවට ජගත් ප්‍රියංකර පාර්ලිමේන්තුවට
+
+*2024-01-31 08:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192772) · `si`
+
+අභාවප්‍රාප්ත සනත් නිශාන්ත මහතාගෙන් පුරප්පාඩු වූ මන්ත්‍රී ධුරය වෙනුවෙන් ඇල්. කේ. ජගත් ප්‍රියංකර මහතා පාර්ලිමේන්තුවට තෝරා පත්කර තිබේ.
+
+ඊට අදාළ ගැසට් නිවේදනය ඊයේ ප්‍රකාශයට පත්කර ඇති අතර, පාර්ලිමේන්තු මහලේකම් වරයා විසින් මැතිවරණ කොමිෂන් සභාව වෙත මේ බව දැනුම් දී ඇත.
+
+◼️
+
+[Data](articles/2000b1c8.json)
+
+---
+
+### එ ජා ලෝක ආහාර හා කෘෂිකර්ම සංවිධානයේ නියෝජිත පිරිසක් දිවයිනට
+
+*2024-01-31 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192771) · `si`
+
+එක්සත් ජාතින්ගේ ලෝක ආහාර හා කෘෂිකර්ම සංවිධානයේ 37 වන ආසියා පැසිපික් කලාපීය සමුළුවේ සංවිධාන කටයුතු නිරීක්ෂණය කිරීම සඳහා කලාපීය ප්‍රධාන කාර්යාලයේ නියෝජිතයින් පිරිසක් දිවයිනට පැමිණ තිබේ.
+
+අදාළ සමුළුව පෙබරවාරි මස 19 සිට 22 දක්වා කොළඹ දී පැවැත්වීමට කටයුතු යොදා ඇති බව කෘෂිකර්ම අමාත්‍යංශය සඳහන් කළේය.
+
+එහි සංවිධාන කටයුතු පිළිබඳ සොයා බැලීම සඳහා ආසියා පැසිපික් කලාපීය ප්‍රධාන කාර්යාලයේ නිලධාරින් පිරිසක් දිවයිනට පැමිණ ඇති අතර ඔවුන් කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා හමුවී සාකච්ඡා පවත්වා තිබේ.
+
+එහි සම්පූර්ණ සංවිධාන කටයුතු කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශය හා එක්සත් ජාතින්ගේ ආහාර කෘෂිකර්ම සංවිධානයේ ශ්‍රී ලංකා කාර්යාලය විසින් මෙහෙයවනු ලබන බව සඳහන්ය.
+
+ආසියා හා පැසිපික් කලාපයේ රටවල් 42ක නියෝජිතයින් 200කට ආසන්න පිරිසක් මෙම සමුළුවට සහභාගි වීමට නියමිත අතර කෘෂිකර්ම අමාත්‍යවරුන් 40 දෙනෙකු ද ඊට ඇතුළත් බවයි කෘෂිකර්ම අමාත්‍යංශය පැවසුවේය.
+
+◼️
+
+[Data](articles/436f04f8.json)
+
+---
 
 ### A good message to disabled police officers in the war
 
@@ -2023,47 +2057,5 @@ This is a good example of how the City Council Health Division keeps its buildin
 [Data](articles/61895bbd.json)
 
 [Extended Data](ext_articles/61895bbd.ext.json)
-
----
-
-### USAID program prevents plastic entering ocean around Sri Lanka
-
-*2024-01-30 16:34:00* · [`economynextcom`](https://economynext.com/usaid-program-prevents-plastic-entering-ocean-around-sri-lanka-149169/) · `en`
-
-ECONOMYNEXT – A 1.2 million dollar program by the United States Agency for International Development (USAID) helped prevent over 4,600 metric tons of plastic from entering the ocean around Sri Lanka, USAID said.
-
-The Clean Cities, Blue Ocean (CCBO) program launched in Sri Lanka in 2021 sought to address ocean plastic pollution.
-
-USAID “partnered with local organizations to design and pilot innovative, economically viable, and environmentally sustainable solutions to address each step in the waste value chain, providing technical assistance and grants totaling more than 1.2 million US dollars (Rs 382.8 million),” it said in a statement.
-
-As a result of these partnerships, 625,000 Sri Lankans benefitted from improved solid waste services, and communities around Colombo, Galle, and Jaffna have adopted sustainable practices that promote increased reuse and transformation of waste products into new items, USAID said.
-
-...
-
-[Data](articles/429c88b5.json)
-
-[Extended Data](ext_articles/429c88b5.ext.json)
-
----
-
-### Sri Lanka main opposition SJB protest tear-gassed as elections loom
-
-*2024-01-30 16:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-main-opposition-sjb-protest-tear-gassed-as-elections-loom-149171/) · `en`
-
-ECONOMYNEXT – A street protest by Sri Lanka’s main opposition Samagi Jana Balawegaya in the capital Colombo was tear gassed and water cannoned by police, live television footage showed as the country prepares for elections later in the year.
-
-The SJB is protesting economic hardships coming from a currency collapse after macro-economists deployed extreme policy involving steep rate with printed money and tax cuts.
-
-President Ranil Wickremesinghe has reversed the tax cuts and imposed progressive taxes in addition to value added tax to try to pay for a bloated public sector and reduce the deficit.
-
-The protests come as the measures are having and effect and the central bank has kept the exchange rate stable, with deflationary policy, allowing economic activity to resume.
-
-“He cannot have democracy in opposition and behave like a dictator in office,” a visibly angry opposition legislator Harsha de Silva, told Sri Lanka’s Newsfirst live coverage of the protest and police action.
-
-...
-
-[Data](articles/44a24e1a.json)
-
-[Extended Data](ext_articles/44a24e1a.ext.json)
 
 ---

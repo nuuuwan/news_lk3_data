@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 19:32:41**
+As of **2024-01-31 19:49:52**
 
 ## Newspaper Stats
 
-*Scraped **3,895** Articles*
+*Scraped **3,899** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ islandlk | 208
 economynextcom | 218
 newsfirstlk | 241
 dailyftlk | 243
-adalk | 346
+adalk | 347
 virakesarilk | 440
-adaderanasinhalalk | 447
+adaderanasinhalalk | 449
 adaderanalk | 487
 tamilmirrorlk | 500
-dailymirrorlk | 526
+dailymirrorlk | 527
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,888 (99.8%) of 3,895 articles have been extended.
+3,895 (99.9%) of 3,899 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### ඉන්දියාවෙන් ලංකාවට සහතිකයක්
+
+*2024-01-31 19:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192809) · `si`
+
+ඉන්දියානුවන්ට නිවාඩුවක් ගත කිරීමට අවශ්‍ය නම් ඒ සඳහා සුදුසුම ගමනාන්තය ශ්‍රී ලංකාව බව ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජයිශංකර් මහතා පවසා තිබේ.
+
+ඉන්දියාවේ මුම්බායි නුවර පිහිටි ඉන්දියානු කළමනාකරණ ආයතනයේ දේශනයක් සඳහා එක්වූ ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජයිශංකර් මහතා ශ්‍රී ලංකාව සමග ඇති සමීපත්වය පිළිබඳව අදහස් පළකරමින් මෙම අදහස් දක්වා තිබුණි.
+
+මේ අතර ශ්‍රී ලංකාවේ අමෙරිකානු වාණිජ මණ්ඩලය සංවිධානය කළ "75 වසරකින් එහා අමෙරිකානු - ශ්‍රී ලංකා ව්‍යාපාර සබඳතා 2024" උත්සවය අද පැවැත්වුණේ මෙරට අමෙරිකානු තානාපතිනි ජූලි චන්ග් මහත්මියගේ ප්‍රධානත්වයෙනි.
+
+◼️
+
+[Data](articles/f603c363.json)
+
+---
+
+### මුහුදු කොල්ලකරුවන්ගෙන් මුදාගත් මෙරට ධීවර යාත්‍රාව සීෂෙල්ස් අගනුවරට රැගෙන එයි
+
+*2024-01-31 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192808) · `si`
+
+මුහුදු කොල්ලකරුවන්ගේ ග්‍රහණයට ලක්වී සීෂෙල්ස් නාවික හමුදාව බේරාගත් මෙරට ධීවරයින් 6දෙනා සහ යාත්‍රාව අද (31) එරට වික්ටෝරියා අගනුවර වරායට ආරක්ෂිතව ළඟාවී තිබේ.
+
+දික්ඕවිට ධීවර වරායෙන් ධීවරයින් 06 දෙනෙකු සමඟින් ගමන් ඇරඹු "ලොරේන්සෝ පුතා 04" බහුදින ධීවර යාත්‍රාව පසුගිය 27 වනදා අරාබි මුහුදේදී මුහුදු කොල්ලකරුවන්ගේ ග්‍රහණයට ලක්වී තිබුණි.
+
+ඉන් දින දෙකකට පසුව එම යාත්‍රාව ධීවරයින් 6 දෙනාද සමඟ නිරුපද්‍රිතව මුදාගැනීමට සීෂෙල්ස් නාවික හමුදාව සමත්වූයේ මුහුදු කොල්ලකරුවන් තිදෙනෙකු ද සිය භාරයට ගනිමිනි.
+
+එලෙස සීෂෙල්ස් නාවික හමුදාව භාරයට පත්වූ මෙරට ධීවරින් 06 දෙනා සහ මුහුදු කොල්ලකරුවන් තිදෙනා අද සීෂෙල්ස්හි වික්ටෝරියා අගනුවර වරාය වෙත ආරක්ෂිතව රැගෙන ගොස් තිබේ.
+
+මුහුදු කොල්ලකරුවන්ගේ ග්‍රහණයට ලක්වී බේරාගැනුණු එම ධීවරයින් ඊයේ පළමු වතාවට යාත්‍රාවේ හිමිකරුට අමතා තිබුණි.
+
+◼️
+
+[Data](articles/3e8aa109.json)
+
+---
 
 ### Remove Daya Rathnayake from SJB or face consequences: SF tells Sajith
 
@@ -50,27 +86,45 @@ Field Marshal Fonseka told journalists that others in the party are also frustra
 
 [Data](articles/060b63f4.json)
 
+[Extended Data](ext_articles/060b63f4.ext.json)
+
 ---
 
-### කෙහෙළිය ගෝ ගම නමින් විරෝධය පෑ 05ක් අත්අඩංගුවට
+### Five suspects arrested in Keheliya Go village
 
 *2024-01-31 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192807) · `si`
 
-කෙහෙළිය රඹුක්වැල්ල මහතා අත්අඩංගුවට ගන්නා ලෙස ඉල්ලා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඉදිරිපිට 'කෙහෙළිය ගෝ ගම' නමින් විරෝධතාවක නිරතවූ සිවිල් සංවිධාන ක්‍රියාකාරීන් 05දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Police have arrested five civil organizer activists, "Keheliya Go Ram Gamaya" in front of the Criminal Investigations Department to arrest Keheliya Rambukwella.
 
-ප්‍රශ්නගත හියුමන් ඉමියුනොග්ලොබියුලින් ඖෂධය සම්බන්ධ සිද්ධියට අදාළව ඔවුන් මෙලෙස විරෝධය දැක්වීය.
+They opposed the matter with regard to the drug emnanglobulin medicine.
 
-අල්ලස දූෂණය නාස්තියට එරෙහි පුරවැසි බලය සහ මහජන සංවිධාන එකමුතුව කොළඹ අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුව ඉදිරිපිටදී අද (31) සාමකාමී සත්‍යග්‍රහයක් ආරම්භ කර තිබුණි.
+The Bribery Corruption was established against the waste of corruption and the People's Organizations in front of the Colombo CID today (31).
 
-මේ අතර ප්‍රශ්නගත ප්‍රතිදේහ එන්නත සම්බන්ධයෙන් වූ නඩුවට අදාළව හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගෙන් දෙවන වරටත් ප්‍රකාශ ලබාගන්නා ලෙසද නීතිපතිවරයා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට දැනුම් දී ඇති බව වාර්තා වනවා.
+Meanwhile, the Attorney General has reportedly informed the Criminal Investigation Department to receive statements to the second time in the case of the questionable antibodies of the questionable output vaccine.
 
-ඒ අනුව විමර්ශන නිලධාරීන් හිටපු සෞඛ්‍ය අමාත්‍යවරයාට දැනුම්දී තිබුණේ අද දිනය තුළ අපරාධ පරීක්ෂණය දෙපාර්තමේන්තුවට පැමිණ ප්‍රකාශයක් ලබාදෙන ලෙසය.
+Investigations officers had informed the former Minister of Health in today's criminal investigation into the Department today.
 
-කෙසේවෙතත් අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා අද වෙනත් නඩු කටයුත්තක් සඳහා කොළඹ මහාධිකරණ සංකීර්ණයට  පැමිණ සිටි අවස්තාවේ මාධ්‍යවේදීන් ඒ සම්බන්ධයෙන් ප්‍රශ්න කළේය.
+However, Minister Keheliya Rambukwella today questioned the Colombo High Court Complex today for another cases.
+
+Meanwhile, Minister Keheliya Rambukwella has announced that Minister Keheliya Rambukwella has not been able to appear before the CID today.
 
 ...
 
 [Data](articles/cf69f455.json)
+
+[Extended Data](ext_articles/cf69f455.ext.json)
+
+---
+
+### Protest against president's visit to Kelaniya University
+
+*2024-01-31 18:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protest-against-president-s-visit-to-Kelaniya-University/110-276056) · `en`
+
+President Ranil Wickremesinghe visited Kelaniya University to declare open the new building on the premises of the Department of Pali and Buddhist Studies at the university this morning. The students of Kelaniya University staged a protest blocking the Colombo-Kandy Road against the president’s visit to the university. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/9a9438fc.json)
 
 ---
 
@@ -921,6 +975,24 @@ At the same time, the Speaker has not yet signed and certified the controversial
 [Data](articles/bef3b62c.json)
 
 [Extended Data](ext_articles/bef3b62c.ext.json)
+
+---
+
+### උද්ධමනය තවදුරටත් ඉහළට
+
+*2024-01-31 16:20:46* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-තවදුරටත්-ඉහළට/11-407826) · `si`
+
+ජනවාරි මාසයේ දී මෙරට උද්ධමනය තවදුරටත් ඉහළ ගොස් ඇති බව ජනලේඛන සහ සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුව නිකුත් කළ නවතම වාර්තාවේ සඳහන් වේ.
+
+කොළඹ නාගරික ප්‍රජාවගේ පාරිභෝගික උද්ධමන අනුපාතය 2024 ජනවාරි මාසය සඳහා 6.4%ක් දක්වා වැඩි වී ඇත. එය 2023 දෙසැම්බර් මාසය සඳහා 4.0% ක් ලෙස වාර්තා වී තිබුණි.
+
+4 ජනවාරි මාසයයේ දී ආහාර කාණ්ඩයේ වාර්ෂික උද්ධමනය(ලක්‍ෂ්‍යමය)3.3%දක්වා වැඩි වී ඇති අතර,2023 දෙසැම්බර් මාසයේ දී එය වාර්තා වූයේ 0.3% ක් ලෙසය.
+
+2024 ජනවාරි මාසය සඳහා ආහාර නොවන කාණ්ඩයේ වාර්ෂික උද්ධමනය(ලක්‍ෂ්‍යමය) 7.9%ක් දක්වා වැඩි වී ඇති අතර එය 2023 දෙසැම්බර් මාසයේ දී 5.8%ක් ලෙස වාර්තා විය.
+
+◼️
+
+[Data](articles/0e1edded.json)
 
 ---
 
@@ -1975,77 +2047,5 @@ The Finance Ministry’s State-Owned Enterprise Restructuring Unit (SRU) state t
 [Data](articles/cc4396b6.json)
 
 [Extended Data](ext_articles/cc4396b6.ext.json)
-
----
-
-### Sri Lanka Cricket names squad for Test match against Afghanistan
-
-*2024-01-31 13:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Cricket-names-squad-for-Test-match-against-Afghanistan/108-276043) · `en`
-
-Colombo, Jan. 31 (Daily Mirror) - The Sri Lanka Cricket Selection Committee has  selected the 16-member squad, including three uncapped players, to  take part in the Test match against Afghanistan.
-
-The Minister of Sports and Youth Affairs  Harin Fernando, approved the  squad, the Sri Lanka Cricket said.
-
-◼️
-
-[Data](articles/ccf59457.json)
-
-[Extended Data](ext_articles/ccf59457.ext.json)
-
----
-
-### President to promote protest
-
-*2024-01-31 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192786) · `si`
-
-It was to attend the opening of the new building premises at the University of Kelaniya and the Institute of Pali and Buddhist Studies.
-
-Accordingly, the new building premises has been opened by President Ranil Wickremesinghe this morning.
-
-The police had to attack the police to dissolve the protest by blocking the Colombo-Kandy main road in the Colombo-Kandy road on Monday night.
-
-However, the students were then scattered from the site, but they were not allowed to enter any parties to enter any parties until the evening.
-
-◼️
-
-[Data](articles/373318bf.json)
-
-[Extended Data](ext_articles/373318bf.ext.json)
-
----
-
-### Do not call us by turning off the Rajapaksas with one hand - Mano about new alliances
-
-*2024-01-31 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175227) · `ta`
-
-Do not invite us by turning off the Rajapaksas with one hand - we are not prepared to forgive the atrocities of the Manorajapaksas about the new alliances.So do not call us by hugging the Rajapaksas with one hand. Tamil Progressive Alliance leader and Colombo district parliamentarian Mano Ganesan said that we are very good at the place today.
-
-At a press conference held at the Southern Province, Mano MP said that the calls from the new coalitions in the country to his team.
-
-Even though Gotabhaya Rajapaksa is gone, the shadow of his sin does not go away. According to the law, Gotabhaya Rajapaksa was held with the People's Commission to receive the November 2019 election on the 16th.. We don't share in that sin
-
-When the new coalition friends who had been announced on the first day yesterday spoke to me, I said something clear. I told us not to call us by hugging the Rajapaksas with one hand. We are today, and we are at the United People's Alliance.
-
-...
-
-[Data](articles/ed4f68c4.json)
-
-[Extended Data](ext_articles/ed4f68c4.ext.json)
-
----
-
-### SLC squad named
-
-*2024-01-31 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192785) · `si`
-
-The Sri Lankan squad of 16 players have been named for Afghanistan.
-
-Sri Lanka Cricket said that the approval of the Minister of Sports was given to the same squad.
-
-◼️
-
-[Data](articles/edaf70db.json)
-
-[Extended Data](ext_articles/edaf70db.ext.json)
 
 ---

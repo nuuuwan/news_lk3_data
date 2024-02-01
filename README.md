@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 05:37:27**
+As of **2024-02-01 06:16:58**
 
 ## Newspaper Stats
 
-*Scraped **3,964** Articles*
+*Scraped **3,976** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 48
 bbccomsinhala | 62
 dbsjeyarajcom | 130
-islandlk | 208
+islandlk | 220
 economynextcom | 221
 newsfirstlk | 248
 dailyftlk | 257
@@ -26,7 +26,7 @@ dailymirrorlk | 545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,953 (99.7%) of 3,964 articles have been extended.
+3,956 (99.5%) of 3,976 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,6 +42,8 @@ The Daily FT of 23 January 2024 published a report regarding a meeting the Minis
 
 [Data](articles/43486356.json)
 
+[Extended Data](ext_articles/43486356.ext.json)
+
 ---
 
 ### Birthday tribute to Krishantha
@@ -55,6 +57,8 @@ Retreats are a time to reflect on life and the mysterious workings of God in one
 ...
 
 [Data](articles/4bc3a831.json)
+
+[Extended Data](ext_articles/4bc3a831.ext.json)
 
 ---
 
@@ -73,6 +77,8 @@ New ITAK leader S. Shritharan’s discourse signals a forthcoming challenge to S
 ...
 
 [Data](articles/0bbecf1c.json)
+
+[Extended Data](ext_articles/0bbecf1c.ext.json)
 
 ---
 
@@ -674,6 +680,48 @@ Police Spokesman DIG Nihal Thalduwa confirmed that the Minister and Additional S
 
 ---
 
+### The easy way with Aloe Vera
+
+*2024-01-31 21:02:00* · [`islandlk`](http://island.lk/the-easy-way-with-aloe-vera/) · `en`
+
+This week I’m touching on beauty tips, connected with aloe vera, as most homes have aloe vera plants, in their garden, and so you don’t need to stretch your budget to buy expensive veggies to enhance your beauty. Moreover, aloe vera is a medicinal plant with antioxidant and antibacterial properties.
+
+Cut an aloe vera leaf and scoop out the transparent, fleshy part, with a spoon. Apply this gel on your face, focusing on the affected area. Leave it on overnight and then rinse it off in the morning. Repeat every day until the lesions heal.
+
+two tablespoons of pure aloe vera gel with four tablespoons of honey and half a teaspoon of cinnamon powder or oil. Apply the mixture to the affected area and wash it off after 10 minutes. Do this every alternate day.
+
+¼ teaspoon of lemon juice with 02 tablespoons of fresh aloe vera gel and apply the mixture to the affected area. After it dries, wash if off. If you are going out, use a sunscreen as lemon makes your skin photosensitive.
+
+...
+
+[Data](articles/61b28374.json)
+
+---
+
+### Batik…back in fashion
+
+*2024-01-31 20:59:00* · [`islandlk`](http://island.lk/batikback-in-fashion/) · `en`
+
+Batik shirts, dresses, sarees, handbags, etc., have always had a special place in the fashion scene here.
+
+However, of late, I’ve noticed a new trend in the local fashion scene…with the younger generation making batik outfits their priority.
+
+Probably with the awful heat we are now experiencing, batik dresses are cool and comfortable.
+
+Maneka Liyanage, who is very much in the news these days with her Beauty Tips column in the Thursday Island, which has turned out to be very popular with readers, did a modelling session recently with batik dresses, courtesy of INCHDesigner.
+
+She says she fell in love with the outfits, the moment she saw them, and decided to do a modelling session for readers of The Island.
+
+In addition to her weekly Beauty Tips column, Maneka has also taken the spotlight in Glam Scene and was featured as a fashion model, as well, in the Thursday Island, in November 2023.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/0d26d477.json)
+
+---
+
 ### New Serjeant-at-Arms of Parliament appointed
 
 *2024-01-31 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96898/new-serjeant-at-arms-of-parliament-appointed) · `en`
@@ -798,6 +846,28 @@ National Geographic announced their picks for BEST OF THE WORLD 2024, the brand�
 
 ---
 
+### Edtech for marginalised children in Sri Lanka: Insights from MENA and other Asian countries
+
+*2024-01-31 20:33:00* · [`islandlk`](http://island.lk/edtech-for-marginalised-children-in-sri-lanka-insights-from-mena-and-other-asian-countries/) · `en`
+
+Written for International Day of Education on 24 January 2024.
+
+This blog explores how technological resources can help fill gaps in access and reduce inequalities in education in Sri Lanka.
+
+Despite the recent uptake of educational technology (edtech) in Sri Lanka, it does not cater to the needs of diverse groups of vulnerable children in the country.
+
+Evidence from MENA and Asia reveals the importance of targeted edtech initiatives in ensuring inclusiveness in education in Sri Lanka.
+
+The COVID-19 pandemic and the ongoing economic crisis have resulted in over two years of learning loss in Sri Lanka, with its effects being more on vulnerable children due to the gaps in inclusiveness in education.
+
+Access to inclusive and equitable quality education is a fundamental human right. It is crucial for achieving developmental goals like ending poverty and helping people move up in society.
+
+...
+
+[Data](articles/d3942706.json)
+
+---
+
 ### Three weightlifters for Asian Continental Meet
 
 *2024-01-31 20:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-weightlifters-for-Asian-Continental-Meet/108-276061) · `en`
@@ -815,6 +885,38 @@ The Asian Weightlifting Continental Championship is the penultimate qualifying e
 [Data](articles/ec2c17fc.json)
 
 [Extended Data](ext_articles/ec2c17fc.ext.json)
+
+---
+
+### Power Ministry Secretary called on to prevent high spending on private lawyers
+
+*2024-01-31 20:27:00* · [`islandlk`](http://island.lk/power-ministry-secretary-called-on-to-prevent-high-spending-on-private-lawyers/) · `en`
+
+The Ceylon Electricity Board Engineers Union (CEBEU) has informed Dr. Sulakshana Jayawardane, Secretary, Ministry of Power and Energy, to intervene to prevent the spending millions of rupees as legal fees on private legal counsellors.
+
+A senior electrical engineer told The Island Financial Review that it is a violation of government restrictions to spend in this manner to cover up management blunders.
+
+The Union pointed to the Power and Energy Ministry letter dated February 01, 2023, conveying a Cabinet Decision 23/0199/601/099, dated January 31, 2023 in relation to this issue.
+
+“This decision explicitly instructed all state-owned enterprises (SOEs) to exclusively retain the services of lawyers from the Attorney General’s Department, who the Cabinet says are specially trained and experienced to represent the SOEs in legal matters, the senior engineer said.
+
+...
+
+[Data](articles/4f141598.json)
+
+---
+
+### Buying interest notable among most valued stocks
+
+*2024-01-31 20:27:00* · [`islandlk`](http://island.lk/buying-interest-notable-among-most-valued-stocks/) · `en`
+
+The stock market experienced a degree of volatility yesterday but buying interest was notable among the most valued stocks, stock market analysts said.
+
+Amid those developments both indices moved upwards. The All- Share Price Index went up by 26.7 points while S and P SL20 rose by 6.67 points. Turnover stood at Rs 695 million with one crossing. The crossing was reported in Sampath Bank, which crossed 1 million shares to the tune of Rs 68 million; its shares traded at Rs 68.
+
+...
+
+[Data](articles/f1ada271.json)
 
 ---
 
@@ -1911,121 +2013,5 @@ Meanwhile, Hatton police said that the body of the deceased student has been sen
 [Data](articles/ad3ecd33.json)
 
 [Extended Data](ext_articles/ad3ecd33.ext.json)
-
----
-
-### A batch of cardamom in Tamil Nadu
-
-*2024-01-31 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175243) · `ta`
-
-The Ramanathapuram district of Ramanathapuram district of Ramanathapuram district, Ramanathapuram district, is actively searching for three people who fled to the Sri Lankan boat from the beach to Sri Lanka.
-
-On Monday (29), the Mandapam Marine Police were patrolling the Kundakal fishing port area on the basis of reports that cardamom was smuggled into Sri Lanka by boat by boat on Monday (29).
-
-When Marine police saw Marine police in the Kundkal fishing harbor area, three persons fled a pussy.
-
-When the suspicious Marine police checked the foil, they found that 43 kg of cardamom was hidden.
-
-Marine police, who seized the cardamom barn, are conducting an intensive investigation into the mysterious gang who tried to smuggle cardamom.
-
-The Marine Police said that the seized cardamom value would be 1 lakh 45 thousand rupees.
-
-The Kundal Beach has become a major hub of smuggling products to Sri Lanka and has caused confusion among security regional officials.
-
-◼️
-
-[Data](articles/149d25ff.json)
-
-[Extended Data](ext_articles/149d25ff.ext.json)
-
----
-
-### Top Court to Scrutinize Constitutionality of Acting IGP
-
-*2024-01-31 16:48:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/top-court-to-scrutinize-constitutionality-of-acting-igp/) · `en`
-
-COLOMBO (News 1st); The Supreme Court of Sri Lanka ordered to schedule the petitions that was filed challenging the appointment of Deshabandu Thennakoon to the post of Acting Inspector General of Police, to the 27th of February for consideration.
-
-The applications seek an interim order restraining Thennakoon from accepting the post of IGP and was taken up in the presence of a three-judge bench comprising Justices S. Thurairaja, Gaminia Amarasekera, and Mahinda Samayawardena.
-
-The bench advised that all objections over the applications, if any, must be filed with the Supreme Court before the 22nd of February.
-
-The petitions, filed by various parties including Archbishop of Colombo His Eminence Malcolm Cardinal Ranjith, argue that Tennakoon's appointment violates fundamental rights guaranteed by the Sri Lankan Constitution.
-
-President's Counsel Saliya Peiris, Shamil Perera, and Upul Kumarapperuma represented the petitioners, while President's Counsel Romesh De Silva appeared for Thennakoon.
-
-...
-
-[Data](articles/255ae966.json)
-
-[Extended Data](ext_articles/255ae966.ext.json)
-
----
-
-### Petition against the tear gas
-
-*2024-01-31 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192799) · `si`
-
-The Secretary General of Parliamentarian Ranjith Madduma Bandara said that he would file a fundamental rights petition against the protest of the protester gas and water attack.
-
-He points out that the petition is filed against police officers who ordered police officers who were ordered to be respected to the police officers who were ordered to be respected to the verdicipation of tear gas and water attacks in spite of the court order.
-
-Speaking at a media briefing held at the Opposition Leader's Office today (31), MP Ranjith Madduma Bandara said this.
-
-Ranjith Madduma Bandara says that Ranil Wickremesinghe did not give orders to the protests organized by the JVP to the protests organized by the JVP.
-
-◼️
-
-[Data](articles/c59a0dd8.json)
-
-[Extended Data](ext_articles/c59a0dd8.ext.json)
-
----
-
-### Sri Lanka stocks close up, selling pressure in banks continues
-
-*2024-01-31 16:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-selling-pressure-in-banks-continues-149363/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The All Share Price Index was up 0. 06 percent, or 6.03 points, at 10,311.
-
-The more liquid S&P SL20 index, however, was down 0.07 percent, or 2.16 points, at 2,896, due to some selling pressure continuing on bluechips.
-
-Turnover was at 695 million. Trading in Sampath Bank Plc contributed most (130mn) of this, and the share closed up at 68.20.
-
-Hatton National Bank also saw fairly high volumes being traded (94mn) and the share closed flat at 155.00.
-
-The banks industry group as a whole contributed the most to the day’s turnover (249mn). The sector has seen continued selling pressure in recent weeks, due to investor concerns about the country’s debt restructuring process.
-
-Shares of Sri Lanka Telecom Plc, which yesterday confirmed that its chairman and directors had stepped down ahead of its sale, closed at 98.20.
-
-...
-
-[Data](articles/5d5644e1.json)
-
-[Extended Data](ext_articles/5d5644e1.ext.json)
-
----
-
-### The country's economy can be built through the knowledge and characteristic society - the President of the University of Kelaniya
-
-*2024-01-31 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/175259) · `ta`
-
-President Ranil Wickremesinghe said the country's economy could be built through the knowledge and characteristic society.
-
-President Ranil Wickremesinghe said this while addressing the opening of the new building of the Bali and Buddhist Degree Division of the University of Kelaniya on Wednesday (31).
-
-The teachings of the Buddha are very important to win the struggle of life. The President said that the responsibility of knowing the depth of such a Dharma depends on Sri Lanka, which is the center of the Theravada Buddhism.
-
-The President said that such companies are capable of bringing Theravada Buddhism to the world and strengthening relations with Buddhist countries.
-
-He added that he would expect to strengthen the education of Sri Lanka as needed for the technical age and to take steps to initiate artificial intelligence courses in all universities.
-
-...
-
-[Data](articles/55deb457.json)
-
-[Extended Data](ext_articles/55deb457.ext.json)
 
 ---

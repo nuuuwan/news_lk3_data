@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 14:17:13**
+As of **2024-02-01 14:33:00**
 
 ## Newspaper Stats
 
@@ -26,33 +26,35 @@ dailymirrorlk | 556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,075 (100.0%) of 4,076 articles have been extended.
+4,076 (100.0%) of 4,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
 
-### බස් ගාස්තු වැඩි කිරීමට සැරසෙයි
+### Bus fares are prepared to increase
 
 *2024-02-01 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192833) · `si`
 
-දිගින් දිගටම ඩීසල් මිල ඉහළ දැමීම හේතුවෙන් බස් ගාස්තු ඉහළ දැමීමට වහා කටයුතු කළ යුතු බව පෞද්ගලික බස් රථ සංගම් පවසති.
+Private bus associations states that the bus fares should be proceeded immediately due to increasing diesel prices.
 
-සමස්ත ලංකා පෞද්ගලික බස් රථහිමියන්ගේ සංගමයේ ප්‍රධාන ලේකම් අංජන ප්‍රියන්ජිත් මහතා,
+General Secretary of the All Ceylon Private Bus ...
 
-"මීට කලින් ඩීසල් ලීටරයක මිල රුපියල් 29කින් වැඩි කළා. එතනින් නතර නොවී ඊයේ නැවත වතාවක් ඩීසල් මිල රුපියල් 5කින් වැඩි කළා. මේ නිසා අනිවාර්යයෙන්ම බස් ගාස්තු වැඩි විය යුතුයි."
+"The price of a liter of diesel was increased by Rs 29. Diesel has been increased by Rs 5 last yesterday without stop there. Therefore, the bus fare should be increased. "
 
-"අපි අනිවාර්යයෙන්ම සති දෙකක් ඇතුළත බස් ගාස්තු වැඩි කරන්න කටයුතු කරනවා. මේ වෙලාවේ අවම බස් ගාස්තුව රුපියල් 35ක් වත් වෙයි. බලෙන් හරි කරනවා."
+"We will definitely increase the bus fare within two weeks. The minimum bus fare at this time will be 35 rupees. Doing forcefully. "
 
-පාසල් ළමුන් ප්‍රවාහන ගාස්තු වැඩි කිරීම සම්බන්ධයෙන් මේ මොහොතේ තීරණයක් ගෙන නොමැති බව සමස්ත ලංකා පාසල් ළමුන් ප්‍රවාහන සංගමයේ ලේකම් ලලිත් චන්ද්‍රසිරි මහතා පැවසීය.
+The All Ceylon School Children Transport Association Secretary Lalith Chandrasiri said that school children had not taken measures to increase the transportation of transport charges.
 
-සමස්ත ලංකා අන්තර් පළාත් පාසල් ළමුන් ප්‍රවාහන සේවා සංගමයේ සභාපති ඒ.එච්.රුවන් ප්‍රසාද් මහතා පැවසුවේ වැට් බලපෑම සහ ඉන්ධන ගාස්තු වැඩිවීම හේතුවෙන් ගාස්තු වැඩි කිරීමට සිදුවී ඇති බවය.
+All Island Inter-Provincial School Children Transport Association Chairman AH Ki Prasad said that the influence of the vate influence and fuel charges have to increase the fees.
 
-මේ අතර සමස්ත ලංකා ත්‍රිරෝද රථ රියදුරන්ගේ වෘත්තිය සමිතිය පවසන්නේ ඉන්ධන මිල ඉහළ ගියද ගාස්තු ඉහළ දැමීමක් සිදු නොකරන බවය.
+Meanwhile, the All-Lanka-wheeler drivers' professional union says that the fuel prices will increase the tariffs.
 
 ...
 
 [Data](articles/04196a9c.json)
+
+[Extended Data](ext_articles/04196a9c.ext.json)
 
 ---
 

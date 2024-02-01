@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 22:32:53**
+As of **2024-02-01 22:50:50**
 
 ## Newspaper Stats
 
-*Scraped **4,201** Articles*
+*Scraped **4,203** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 265
 adalk | 378
 virakesarilk | 465
 adaderanasinhalalk | 501
-adaderanalk | 524
+adaderanalk | 526
 tamilmirrorlk | 535
 dailymirrorlk | 572
 
@@ -26,7 +26,7 @@ dailymirrorlk | 572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,201 (100.0%) of 4,201 articles have been extended.
+4,203 (100.0%) of 4,203 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -121,6 +121,46 @@ It is reported that 335 persons have been reported in the North Central Province
 [Data](articles/f34f9ea9.json)
 
 [Extended Data](ext_articles/f34f9ea9.ext.json)
+
+---
+
+### Biden to issue executive order targeting Israeli settlers attacking Palestinians in West Bank
+
+*2024-02-01 21:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/96929/-biden-to-issue-executive-order-targeting-israeli-settlers-attacking-palestinians-in-west-bank) · `en`
+
+President Joe Biden is expected to issue an executive order targeting Israeli settlers in the West Bank who have been attacking Palestinians in the occupied territory, according to four people familiar with the matter.
+
+A senior administration official, who like the others was not authorized to comment publicly and spoke on condition of anonymity, said the White House was expected to announce the order later Thursday.
+
+Biden has spoken out against retaliatory attacks by Israeli settlers against Palestinians in the West Bank in the aftermath of the Hamas attacks against Israel on Oct. 7. The president has pledged that those responsible for the violence will be held accountable.
+
+The executive order is expected to set the ground for imposing sanctions on individuals who have engaged in violence against Palestinians in the West Bank.
+
+...
+
+[Data](articles/1db371de.json)
+
+[Extended Data](ext_articles/1db371de.ext.json)
+
+---
+
+### Sri Lanka cannot afford to be isolated on global stage - State Minister
+
+*2024-02-01 21:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/96928/sri-lanka-cannot-afford-to-be-isolated-on-global-stage-state-minister) · `en`
+
+State Minister of Foreign Affairs Tharaka Balasuriya, has defended the President’s recent foreign trips against criticism. He dismissed claims that the trips were unnecessary, emphasizing their importance in strengthening Sri Lanka’s foreign relations and securing new partnerships.
+
+Mr. Balasuriya stressed that Sri Lanka cannot afford to be isolated on the global stage.
+
+He argued that foreign relations are crucial for the country’s development, and that the President’s visits are essential for building bridges and fostering cooperation with other nations. He dismissed criticisms of the trips as baseless, asserting that they play a vital role in Sri Lanka’s pursuit of progress.
+
+State Minister of Foreign Affairs Tharaka Balasuriya, speaking at a press briefing today (01) titled ‘Collective Path to a Stable Country,’ held at the President Media Centre (PMC) highlighted recent efforts to attract investment and rebuild the nation.
+
+...
+
+[Data](articles/08163f63.json)
+
+[Extended Data](ext_articles/08163f63.ext.json)
 
 ---
 
@@ -1983,41 +2023,5 @@ Dematagoda Ruwan was charged with the allegation of over Rs.
 [Data](articles/09890a84.json)
 
 [Extended Data](ext_articles/09890a84.ext.json)
-
----
-
-### ‘March 12 Movement’ slams Online Safety Bill, accuses govt of overlooking SC recommendations
-
-*2024-02-01 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96915/march-12-movement-slams-online-safety-bill-accuses-govt-of-overlooking-sc-recommendations-) · `en`
-
-The ‘March 12 Movement’, a collective of election watchdogs and the civil society, has issued a statement strongly denouncing the passage of the Online Safety Bill, emphasising that it poses a grave threat to the fundamental rights enshrined within the Constitution of Sri Lanka.
-
-“The current government’s adamant pursuit of this legislation is a clear indication of its intention to silence dissent and suppress civic activism during this critical time of economic reform and upcoming elections”, the statement read.
-
-The March 12 Movement further accused the government of violating the “constitutionally guaranteed right to pre-enactment judicial review of legislation”, in addition to introducing the undemocratic law.
-
-...
-
-[Data](articles/528ee3f2.json)
-
-[Extended Data](ext_articles/528ee3f2.ext.json)
-
----
-
-### Dematagoda Ruwan's wife, son and sister Handawa
-
-*2024-02-01 14:17:48* · [`adalk`](https://www.ada.lk/breaking_news/දෙමටගොඩ-රුවන්ගේ-බිරිඳ--පුතා-හා-සහෝදරිය-අත්අංඩංගුවට/11-407851) · `si`
-
-Chamila Ruwan Prasanna, Dia-Dia-Dia-Asset Division, has been arrested by a son and sister, a son of Dematagoda, who is in prison
-
-The suspect and a suspect were arrested at the time of the forest residence
-
-Dematagoda Ruwan was charged with the allegation of over Rs.
-
-◼️
-
-[Data](articles/2e499898.json)
-
-[Extended Data](ext_articles/2e499898.ext.json)
 
 ---

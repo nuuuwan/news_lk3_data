@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 12:32:52**
+As of **2024-02-01 12:49:07**
 
 ## Newspaper Stats
 
-*Scraped **4,036** Articles*
+*Scraped **4,055** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,39 @@ colombotelegraphcom | 48
 bbccomsinhala | 63
 dbsjeyarajcom | 131
 islandlk | 220
-economynextcom | 221
-newsfirstlk | 250
+economynextcom | 228
 dailyftlk | 257
+newsfirstlk | 258
 adalk | 355
 virakesarilk | 451
-adaderanasinhalalk | 467
+adaderanasinhalalk | 468
 adaderanalk | 507
 tamilmirrorlk | 513
-dailymirrorlk | 553
+dailymirrorlk | 556
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,036 (100.0%) of 4,036 articles have been extended.
+4,036 (99.5%) of 4,055 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### සුරාසල් ගැන දැනුම්දීමක්
+
+*2024-02-01 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192828) · `si`
+
+76 වන නිදහස් දින සැමරුම වෙනුවෙන් දිවයින පුරා සුරාසල් පෙබරවාරි මස 4 වන දින වසා තැබීමට තීරණය කර තිබේ.
+
+සුරාබදු දෙපාර්තමේන්තුව නිවේදනයක් නිකුත් කරමින් සඳහන් කර ඇත්තේ, පෙබරවාරි මස 3 වන දින සුරාසල් වැසිය යුතු වේලාවේ සිට පෙබරවාරි 5 වන සඳුදා විවෘත කළ යුතු වේලාව දක්වා සියලුම සුරාසල් වසා තැබීමට කටයුතු කළ යුතු බවය.
+
+◼️
+
+[Data](articles/71c5b7ad.json)
+
+---
 
 ### Jaffna youth who was receiving treatment. Teaching Hospital
 
@@ -51,6 +65,36 @@ Sudden Death Investigation Officer Namasivayam Premkumar. The body was handed ov
 [Data](articles/67f105a9.json)
 
 [Extended Data](ext_articles/67f105a9.ext.json)
+
+---
+
+### All liquor outlets closed on Sunday
+
+*2024-02-01 11:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/All-liquor-outlets-closed-on-Sunday/108-276134) · `en`
+
+Colombo, Feb 01 (Daily Mirror) - All liquor shops will be closed on Sunday (4) due to the 76th Independence Day, the Exice Department said.
+
+◼️
+
+[Data](articles/3a9239da.json)
+
+---
+
+### “It was neither protest nor rally”: Sarath Fonseka
+
+*2024-02-01 11:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/It-was-neither-protest-nor-rally-Sarath-Fonseka/108-276133) · `en`
+
+Colombo, Feb. 01 (Daily Mirror)- Claiming that the SJB protest did not turn out to be successful, Field Marshal Sarath Fonseka said if he was to organise it, he would have done it more skillfully.
+
+The MP said some 8,000 people participated in the protest but ultimately it was neither a protest nor a rally.
+
+"People had to leave soaked after being attacked with tear-gas and water cannons," he said responding to a question during a media conference.
+
+"There was good participation for the protest though some people who usually attend our rallies did not turn up this time. People have so many issues and we had to face difficulty in bringing them. However, there were around 7,000 to 8,000 people. Ultimately,it was neither a protest nor a rally and ended up with people having to leave getting tear-gassed and soaked due to water cannon attacks. If I had organised it, I would have done it somewhat skillfully," he said.
+
+◼️
+
+[Data](articles/513ef224.json)
 
 ---
 
@@ -174,6 +218,26 @@ Accordingly, the Bill is still in effect as the current backup Act No. 9 of 2024
 
 ---
 
+### Troops Deployed to Hospitals Amidst Healthcare Strike
+
+*2024-02-01 10:56:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/troops-deployed-to-hospitals-amidst-healthcare-strike/) · `en`
+
+COLOMBO (News 1st); In response to the ongoing strike by healthcare trade unions, the Sri Lanka Army has deployed its personnel to various government hospitals across the country today.
+
+This deployment aims to ensure the uninterrupted delivery of essential medical services to the public during this critical period.
+
+The decision, made at the request of the Ministry of Defence and under the leadership of Commander Lieutenant General Vikum Liyanage, saw troops stationed at key hospitals nationwide.
+
+These include Colombo General Hospital, National Eye Hospital, Dental Hospital Colombo, Homagama Base Hospital, Kalubowila Teaching Hospital, Mirigama Base Hospital, District General Hospital Avissawella, Kurunegala Teaching Hospital, and several others.
+
+The deployed personnel will work collaboratively with hospital authorities to provide support. They also stand ready to respond to any potential emergencies that may arise due to the strike.
+
+...
+
+[Data](articles/dcd97f84.json)
+
+---
+
 ### Online Safety Bill comes into effect today
 
 *2024-02-01 10:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Online-Safety-Bill-comes-into-effect-today/108-276128) · `en`
@@ -292,6 +356,48 @@ The union has decided to increase these fees by ten percent and fifteen percent.
 
 ---
 
+### Asia on-track to deliver two-thirds to global growth in 2024: IMF
+
+*2024-02-01 10:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Asia-on-track-to-deliver-two-thirds-to-global-growth-in-2024-IMF/107-276126) · `en`
+
+The year 2024 is expected to be one of prosperity for Asia with the International Monetary Fund (IMF) expecting the region to maintain its momentum in delivering two-thirds to global growth.
+
+Providing a snapshot of the regional economic outlook, Krishna Srinivasan, Director of the IMF’s Asia and Pacific Department noted that the region's prospects for a soft landing have improved.
+
+”The good news is that we have revised growth upward for both 2023 and 2024,” he said addressing a press conference this week.
+
+For 2023, the IMF estimates growth at 4.7 percent, compared to the 4.6 percent projection in October. China and India account for most of the upward revision. In China, growth was supported by higher spending on disaster reconstruction and resilience projects. In India, strong domestic demand underpinned another increase in our growth estimate.
+
+The Fund has also upgraded the regional growth forecast for 2024 to 4.5 percent, from 4.2 percent in October.
+
+...
+
+[Data](articles/40ec5e84.json)
+
+---
+
+### Online Safety Bill Gets Green Light: Speaker Endorses Certificate
+
+*2024-02-01 10:34:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/online-safety-bill-gets-green-light-speaker-endorses-certificate/) · `en`
+
+COLOMBO (News 1st); Parliament Speaker Mahinda Yapa Abeywardena has endorsed the certificate on the Online Safety Bill.
+
+Parliament General Secretary Kushani Rohanadheera confirmed that the speaker endorsed the certificate on the Online Safety Bill.
+
+The Online Safety Bill was passed with amendments in parliament on the 23rd of January, and following its passage opposition MPs expressed concern that the bill was passed disregarding the amendments submitted by the Supreme Court.
+
+Thereafter, the opposition, and activists requested the speaker to refrain from endorsing the certificate on the Online Safety Bill until it is confirmed that the amendments submitted by the court are included.
+
+The Online Safety Bill aims to regulate online content in Sri Lanka, but critics warn it could lead to censorship and suppression of free speech.
+
+Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
+
+◼️
+
+[Data](articles/6e5772ea.json)
+
+---
+
 ### Online Safety Bill to come into effect from today
 
 *2024-02-01 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/96907/online-safety-bill-to-come-into-effect-from-today) · `en`
@@ -380,6 +486,86 @@ The Bill was passed in parliament on the 23rd of Parliament.
 
 ---
 
+### Sri Lanka bond yields down
+
+*2024-02-01 10:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-bond-yields-down-149486/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s bond yields have dropped over the week, dealers said.
+
+A bond maturing on 01.02.2026 was quoted at 12.20/25 percent.
+
+A bond maturing on 15.09.2027 was quoted at 12.70/13.00 percent from 12.70/80 percent.
+
+A bond maturing on 15.03.2028 was quoted at 12.95/13.05 percent from 12.85/13.00 percent.
+
+With the fall in the rates, the Colombo Stock Exchange saw some renewed interest. The All Share Price Index was trading up 0.32 percent at 10,344; and the S&P SL20 was trading up 0.92 percent at 2,923 in the first hour of trading. (Colombo/Feb1/2024)
+
+◼️
+
+[Data](articles/6baeb9d7.json)
+
+---
+
+### Parliament gets new Serjeant-at-Arms
+
+*2024-02-01 10:20:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/parliament-gets-new-serjeant-at-arms/) · `en`
+
+COLOMBO (News 1st); Kushan Sampath Jayaratne assumed duties as the 7th Serjeant-at-Arms of the Parliament of Sri Lanka on Wednesday (31) in the morning.
+
+Upon the retirement of Narendra Fernando, who performed his duties as the 6th Serjeant-at-Arms of the Parliament, Kushan Sampath Jayaratne therefore assumed duties as the 7th Serjeant-at-Arms of the Parliament.
+
+Narendra Fernando who retired, traditionally handed over the Mace and the Sword of the Serjeant-at-Arms to the new Serjeant-at-Arms Kushan Sampath Jayaratne near the Silver Door which leads to the Parliament Chamber.
+
+Kushan Sampath Jayaratne has served in the Sri Lanka Navy from 1994 to 2007.
+
+In particular, he has engaged in the operations affiliated to the Fast Attack Craft Flotilla for a long-time during duty.
+
+Later in the year 2007, he joined the service of the Parliament of Sri Lanka as an Assistant Serjeant-at-Arms and then in 2018 he was promoted to the position of Deputy Serjeant-at-Arms.
+
+...
+
+[Data](articles/ee0e972e.json)
+
+---
+
+### Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
+
+*2024-02-01 10:17:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/myanmar-govt-hands-over-chinese-scam-centre-mafia-bosses-to-chinese/) · `en`
+
+Colombo (News 1st) – The Myanmar government has begun a crackdown on Chinese warlord families running scam centres in the Laukkaing province of Myanmar, foreign media reported. This is a different province to the one in which 56 Sri Lankans are known to be enslaved in online scam centres in Myanmar close to the Thai border.
+
+The Myanmar military junta on Tuesday flew the leaders of three Chinese mafia families to Beijing on a special chartered flight. The three – Bai Suocheng, Wei Chaoren and Liu Zhengxiang – had been running a ‘scam city’ in the province of Laukkaing with the backing of the Myanmar junta since 2009.
+
+But increasing pressure from the Chinese government, together with the weakening of the junta in losses to Myanmar rebel armies in far-flung regions of Myanmar, resulted in the junta turning over the warlords.
+
+...
+
+[Data](articles/764d7f34.json)
+
+---
+
+### Sri Lankan Fishermen Safe in Seychelles After Dramatic Rescue
+
+*2024-02-01 10:08:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/sri-lankan-fishermen-safe-in-seychelles-after-dramatic-rescue/) · `en`
+
+COLOMBO (News 1st); : Six Sri Lankan fishermen who were captured by an armed group and were successfully rescued and arrived in the capital of Seychelles, Victoria.
+
+The dramatic rescue operation, coordinated by the Sri Lanka Navy in collaboration with Seychelles security forces, saw the release of the fishermen and the apprehension of three armed individuals.
+
+The vessel named "Lorenzo Putha 4," embarked on its maiden voyage from Dikovita port on January 12th, carrying six fishermen from the Marawila area, with three belonging to the same family.
+
+Details regarding the nature of the armed group and the circumstances surrounding their capture remain unclear.
+
+However, upon receiving information about the incident, the Sri Lanka Navy promptly initiated communication with the Seychelles Coast Guard, leading to a swift response.
+
+The combined efforts of both parties culminated in the rescue of the fishermen and the surrender of the armed personnel to Seychellois authorities.
+
+...
+
+[Data](articles/5be3f89f.json)
+
+---
+
 ### 18 Indian fishermen released on condition
 
 *2024-02-01 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175284) · `ta`
@@ -405,6 +591,24 @@ The 18 Indian fishermen have been sent to the Mirihana Center through the Indian
 [Data](articles/47f74dd7.json)
 
 [Extended Data](ext_articles/47f74dd7.ext.json)
+
+---
+
+### 136 killed in road accidents in the first 25 days of January
+
+*2024-02-01 10:03:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/136-killed-in-road-accidents-in-the-first-25-days-of-january/) · `en`
+
+COLOMBO (News 1st); 136 people have died in road accidents in the first 25 days of January 2024.
+
+Police said 1,189 road accidents were reported during this period, and 130 of them were fatal accidents.
+
+22,804 road accidents were reported last year, resulting in the death of 2,280 persons.
+
+Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
+
+◼️
+
+[Data](articles/563df428.json)
 
 ---
 
@@ -465,6 +669,24 @@ Commander of the Army has been deployed in the war and the army commander to use
 [Data](articles/36614ac7.json)
 
 [Extended Data](ext_articles/36614ac7.ext.json)
+
+---
+
+### Gender Equality Initiative Sparks Controversy at Sri Lankan Port
+
+*2024-02-01 10:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/gender-equality-initiative-sparks-controversy-at-sri-lankan-port/) · `en`
+
+COLOMBO (News 1st); Operations at the Jaya Container Terminal in Colombo Port were partially disrupted last morning as employees staged a protest against the recent appointment of eight women as trainee gantry crane operators.
+
+The workers, represented by the All Ceylon General Port Employee Union, allege that these appointments were politically motivated and bypassed established recruitment procedures.
+
+The protest involved employees abstaining from their duties for approximately an hour, causing minor delays in terminal operations.
+
+The All Ceylon General Port Employee Union General Secretary, Niroshan Gorakane, emphasized their stance at a press conference, stating, "We say that the port should recruit fairly. What we are saying is that you should not choose one area and do it for political interests."
+
+...
+
+[Data](articles/6b9ffcea.json)
 
 ---
 
@@ -552,6 +774,28 @@ All Ceylon Nurses Association President Ravindra Kahanthavarachchi said that the
 
 ---
 
+### Sri Lanka, Maldives Partner for Air Ambulance Service
+
+*2024-02-01 09:43:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/sri-lanka-maldives-partner-for-air-ambulance-service/) · `en`
+
+COLOMBO (News 1st); Air ambulance services will commence between the Maldives and Sri Lanka starting March 1, 2024.
+
+The decision, announced by the Ministry of Ports, Shipping, and Aviation Services, prioritizes the high-quality emergency care available in Sri Lankan hospitals for Maldivian citizens.
+
+Previously, Maldivians requiring urgent medical attention were transported to India.
+
+However, recognizing the advanced medical facilities and expertise in Sri Lanka, the Maldivian government has opted for a shift in emergency medical evacuation protocols.
+
+Minister Nimal Siripala de Silva confirmed that all necessary approvals have been granted to the Airport and Aviation Services and Civil Aviation Authority for the smooth operation of the air ambulance service.
+
+Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
+
+◼️
+
+[Data](articles/e22285cd.json)
+
+---
+
 ### Young man's body recovery in the hotel room
 
 *2024-02-01 09:41:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோட்டல்-அறையில்-இளைஞனின்-சடலம்-மீட்பு/175-332463) · `ta`
@@ -608,7 +852,7 @@ The All Ceylon Nurses' Union has reached a decision to refrain from supporting t
 
 This was confirmed by its Chairman Ravindra Kahandawarachchi on Wednesday (31) afternoon, while speaking to media after visiting the Malwathu Maha Viharaya.
 
-Police Detains 10 Protesters at CID Headquarters While Demanding Keheliya’s Arrest
+Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
 
 ◼️
 
@@ -667,6 +911,28 @@ According to the ministry, the narcotics taken into custody during this period i
 [Data](articles/0c431ca8.json)
 
 [Extended Data](ext_articles/0c431ca8.ext.json)
+
+---
+
+### Sri Lanka rupee appreciates to 313.60/314.00 to US dollar after opening
+
+*2024-02-01 09:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-appreciates-to-313-60-314-00-to-us-dollar-after-opening-149442/) · `en`
+
+ECONOMYNEXT – Sri Lankas rupee opened at 314.75/315.00 the US dollar, in the spot forex market Thursday, dealers said, with the central bank allowing the currency to appreciate amid a balance of payments surplus it has created, with appropriate monetary policy.
+
+Sri Lanka’s rupee closed stronger at 315.50/70 to the US dollar.
+
+Within the first hour of trading the rupee was quoted as strong as 313.30/314.00 to the US dollar, dealers said.
+
+In a balance of payments surplus triggered by the sell-down of central bank held Treasury bills, the currency is under upward pressure and the central bank can decide at what rate to buy to stop appreciating.
+
+Even if only a part of the liquidity from dollar purchases are mopped up, through domestic operations an overall balance of payments develops.
+
+Sri Lanka’s central bank does not usually allow the exchange rate to appreciate in the credit slowdown that usually accompanies a currency crisis, though it did after the 2009 crisis.
+
+...
+
+[Data](articles/57713110.json)
 
 ---
 
@@ -811,6 +1077,24 @@ Accordingly, the Department of Examinations has decided to restore one and two p
 [Data](articles/90df9f1b.json)
 
 [Extended Data](ext_articles/90df9f1b.ext.json)
+
+---
+
+### Sri Lanka Port City duty free shopping complex in legal quagmire
+
+*2024-02-01 08:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-city-duty-free-shopping-complex-in-legal-quagmire-149438/) · `en`
+
+ECONOMYNEXT – Duty free concessions given by Sri Lanka’s Colombo Port City Commission to operate duty free shops in a special economic zone would have to be reversed, as they had no legal basis, former chairman of the parliament’s Committee on Public Finance said.
+
+There was to be a 5,000 US dollar allowance for returning Sri Lankans and foreigners any amount, according to concessions gazetted on May 29.
+
+Sri Lanka the parliament has control of public finance, and changing taxes by gazette notice, a type of prerogative power, has been questioned.
+
+“The Port City Commission listed up 200-300 items that would be made duty free, to be sold at -the new downtown duty-free complex, which should also have a 25 percent tax holiday, in addition to being duty free,” opposition legislator Harsha de Silva, who was chairman of the parliament’s Committee on Public Fiannce told an economic forum organized by Colombo-based Advocata Institute.
+
+...
+
+[Data](articles/464079ec.json)
 
 ---
 
@@ -1046,6 +1330,24 @@ The public is kindly requested to take adequate precautions to minimize damages 
 
 ---
 
+### US Federal Reserve keeps rates unchanged, amid recession concerns
+
+*2024-02-01 07:19:00* · [`economynextcom`](https://economynext.com/us-federal-reserve-keeps-rates-unchanged-amid-recession-concerns-149427/) · `en`
+
+ECONOMYNEXT- The US Federal Reserve has kept rates unchanged at 5.25 to 5.50 percent saying economic activity is still expanding, amid concerns raised by economists that US broad money supply is shrinking in a trend that has only happened on a few occasions in the past.
+
+The Fed will also continue to reduce excess liquidity on the same path as earlier.
+
+The US borrowed heavily and gave ‘pandemic checques’ as the Fed printed money, during and several banks with government had got into trouble as interest rates went up.
+
+Recent indicators suggest that economic activity has been expanding at a solid pace. Job gains have moderated since early last year but remain strong, and the unemployment rate has remained low. Inflation has eased over the past year but remains elevated.
+
+...
+
+[Data](articles/05b063e6.json)
+
+---
+
 ### Health strike begins
 
 *2024-02-01 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192817) · `si`
@@ -1089,6 +1391,22 @@ Minimizing temporary winds and lightning accidents with thunderstorms
 [Data](articles/4f7d5c70.json)
 
 [Extended Data](ext_articles/4f7d5c70.ext.json)
+
+---
+
+### Sri Lanka hikes standard petrol, diesel by Rs5, kerosene Rs26
+
+*2024-02-01 05:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-hikes-standard-petrol-diesel-by-rs5-kerosene-rs26-149422/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Petroleum Corporation said it has hiked the price of standard petrol, diesel and kerosene from midnight of January 31, and reduced premium fuels.
+
+The price of a litre of standard petrol was raised by 5 rupees to 371 rupees a litre and diesel by 5 rupees to 363 rupees.
+
+Petrol Octane 95 Euro 4 was cut by 8.0 rupees to 456 rupees and Super diesel Euro 4 was cut by 7.0 rupees to 468 rupees.
+
+◼️
+
+[Data](articles/cbe5973e.json)
 
 ---
 
@@ -1556,7 +1874,7 @@ Lanka Super Diesel 4 Star Euro 4: Decrease of Rs. 7 per liter to Rs. 468 (previo
 
 Lanka Kerosene: Increase of Rs. 26 per liter to Rs. 262 (previously Rs. 236)
 
-Police Detains 10 Protesters at CID Headquarters While Demanding Keheliya’s Arrest
+Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
 
 ◼️
 
@@ -1795,343 +2113,5 @@ A litre of Lanka Kerosene (Rs. 236) has been increased by Rs. 7, and its new ret
 [Data](articles/f1a9fabb.json)
 
 [Extended Data](ext_articles/f1a9fabb.ext.json)
-
----
-
-### SJB vows to file Fundamental Rights petition against Tiran Alles
-
-*2024-01-31 21:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-vows-to-file-Fundamental-Rights-petition-against-Tiran-Alles/108-276068) · `en`
-
-Colombo, jan. 31 (Daily Mirror)- The Samagi Jana Balawegaya (SJB) will file a Fundamental Rights (FR) petition against Public Security Minister Tiran Alles who had ordered to fire tear gas and water cannons at the SJB protest, SJB General Secretary Ranjith Madduma Bandara said today.
-
-He told a news conference that tear gas and water cannons were fired at the SJB protest unlawfully despite the court order.
-
-The MP said the government was attempting to suppress public protests using the armed forces and said they urge public officials to act lawfully, adding that they will have to face legal action if they acted ulawfully.
-
-"We tell Ranil and Tiran that people can't be chased away just like they did during the Aragalaya," he said.
-
-◼️
-
-[Data](articles/02799f1c.json)
-
-[Extended Data](ext_articles/02799f1c.ext.json)
-
----
-
-### Fuel prices will change from midnight today
-
-*2024-01-31 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192812) · `si`
-
-The Ceylon Petroleum Corporation has decided to revise the fuel prices to be operated from midnight today.
-
-Accordingly, the 92 petrol has decided to increase the 92 rupees and the new price is Rs. 371.
-
-The price of Lanka white diesel has been increased by Rs. 363.
-
-Lanka kerosene price has been increased by Rs 262.
-
-Meanwhile, the price of a liter of 40 Octane 85 octane 85 Octane 85 Octane Uro 4 has been reduced by Rs. 456.
-
-The price of a liter of Lanka Super Diesel 4 of Sri Lanka has also reduced the price of 4 rupees.
-
-◼️
-
-[Data](articles/7a6b9985.json)
-
-[Extended Data](ext_articles/7a6b9985.ext.json)
-
----
-
-### Fuel prices revised
-
-*2024-01-31 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/96899/fuel-prices-revised) · `en`
-
-The Ceylon Petroleum Corporation (Ceypetco) announced that fuel prices will be revised with effect from midnight today (January 31).
-
-Accordingly, the price of Petrol Octane 92 will be increased by Rs. 5 to Rs. 371 per litre while Petrol Octane 95 is to be reduced by Rs. 8 to Rs. 456 per litre.
-
-Auto Diesel has been increased by Rs. 5 to Rs. 363 while Super Diesel has been reduced by Rs. 7 to Rs. 468.
-
-The price of Kerosene will be increased by Rs. 26 up to Rs. 262 per litre.
-
-Meanwhile, Lanka IOC has also decided to increase fuel prices in line with the new Ceypetco prices.
-
-UPDATE: Sinopec Energy Lanka has also decided to revise its retail fuel prices with effect from midnight today (January 31).
-
-◼️
-
-[Data](articles/f23c9977.json)
-
-[Extended Data](ext_articles/f23c9977.ext.json)
-
----
-
-### The fee for the passport has doubled
-
-*2024-01-31 21:17:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டுக்கான-கட்டணம்-இரு-மடங்காக-உயர்ந்தது/175-332441) · `ta`
-
-The Department of Immigration and Emigration has issued a report that the fares for the passport have been increased from February 1.
-
-According to the Immigration and Emigration Controller, the fee for issuing passports under normal service will be increased from Rs 5,000 to Rs 10,000.
-
-◼️
-
-[Data](articles/ae0a1ca8.json)
-
-[Extended Data](ext_articles/ae0a1ca8.ext.json)
-
----
-
-### Cinnamon Lakeside responds to allegations over contaminated white pepper
-
-*2024-01-31 21:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Cinnamon-Lakeside-responds-to-allegations-over-contaminated-white-pepper/155-276069) · `en`
-
-Colombo, Jan 31 (Daily Mirror) - In response to recent concerns surrounding an incident at Cinnamon Lakeside Colombo where a soup unfit for human consumption has reportedly been served to a patron, the establishment has clarified the incident.
-
-In a statement, the management said the incident in question was clarified to be unrelated to a soup served at the restaurant but rather linked to a guest's use of white pepper in their soup, prompting immediate action.
-
-“Cinnamon Lakeside Colombo has actively cooperated with the officials of the Ministry of Health and Public Health Inspectors (PHIs) during their investigations,” the hotel management said.
-
-The establishment said it had conducted its own tests on the same batch of procured white pepper, finding no cause for concern.
-
-“No other incidents of this nature have been reported from the restaurant visited by numerous guests on that day,” the statement stressed.
-
-...
-
-[Data](articles/11bbd73b.json)
-
-[Extended Data](ext_articles/11bbd73b.ext.json)
-
----
-
-### Cinnamon Lakeside responds to allegations over contaminated white pepper
-
-*2024-01-31 21:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cinnamon-Lakeside-responds-to-allegations-over-contaminated-white-pepper/108-276069) · `en`
-
-Colombo, Jan 31 (Daily Mirror) - In response to recent concerns surrounding an incident at Cinnamon Lakeside Colombo where a soup unfit for human consumption has reportedly been served to a patron, the establishment has clarified the incident.
-
-In a statement, the management said the incident in question was clarified to be unrelated to a soup served at the restaurant but rather linked to a guest's use of white pepper in their soup, prompting immediate action.
-
-“Cinnamon Lakeside Colombo has actively cooperated with the officials of the Ministry of Health and Public Health Inspectors (PHIs) during their investigations,” the hotel management said.
-
-The establishment said it had conducted its own tests on the same batch of procured white pepper, finding no cause for concern.
-
-“No other incidents of this nature have been reported from the restaurant visited by numerous guests on that day,” the statement stressed.
-
-...
-
-[Data](articles/230a7abb.json)
-
-[Extended Data](ext_articles/230a7abb.ext.json)
-
----
-
-### Cinnamon Lakeside responds to allegations over contaminated soup
-
-*2024-01-31 21:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cinnamon-Lakeside-responds-to-allegations-over-contaminated-soup/108-276069) · `en`
-
-Colombo, Jan 31 (Daily Mirror) - In response to recent concerns surrounding an incident at Cinnamon Lakeside Colombo where a soup unfit for human consumption has reportedly been served to a patron, the establishment has clarified the incident.
-
-In a statement, the management said the incident in question was clarified to be unrelated to a soup served at the restaurant but rather linked to a guest's use of white pepper in their soup, prompting immediate action.
-
-“Cinnamon Lakeside Colombo has actively cooperated with the officials of the Ministry of Health and Public Health Inspectors (PHIs) during their investigations,” the hotel management said.
-
-The establishment said it had conducted its own tests on the same batch of procured white pepper, finding no cause for concern.
-
-“No other incidents of this nature have been reported from the restaurant visited by numerous guests on that day,” the statement stressed.
-
-...
-
-[Data](articles/f84423a3.json)
-
-[Extended Data](ext_articles/f84423a3.ext.json)
-
----
-
-### Police arrest five activists protesting for Keheliya’s arrest over immunoglobulin case
-
-*2024-01-31 21:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-arrest-five-activists-protesting-for-Keheliyas-arrest-over-immunoglobulin-case/108-276070) · `en`
-
-Colombo, Jan 31 (Daily Mirror) - Police have arrested five activists from civil organizations who staged a protest outside the Criminal Investigation Department, displaying banners with the slogan 'Keheliya Go Gama,' demanding the arrest of Minister Keheliya Rambukwella in connection with the import of substandard Immunoglobulin injections.
-
-The Citizen Power Against Bribery and Corruption, and People's Organizations jointly organized a peaceful Satyagraha today in front of the Criminal Investigation Department following reports that Minister Rambukwella was summoned to the CID to provide a statement regarding the substandard Immunoglobulin case.
-
-Police Spokesman DIG Nihal Thalduwa confirmed that the Minister and Additional Secretary of the Ministry of Health, Saman Ratnayake, were scheduled to provide statements to the CID  on Wednesday (31).
-
-...
-
-[Data](articles/24142ed9.json)
-
-[Extended Data](ext_articles/24142ed9.ext.json)
-
----
-
-### The easy way with Aloe Vera
-
-*2024-01-31 21:02:00* · [`islandlk`](http://island.lk/the-easy-way-with-aloe-vera/) · `en`
-
-This week I’m touching on beauty tips, connected with aloe vera, as most homes have aloe vera plants, in their garden, and so you don’t need to stretch your budget to buy expensive veggies to enhance your beauty. Moreover, aloe vera is a medicinal plant with antioxidant and antibacterial properties.
-
-Cut an aloe vera leaf and scoop out the transparent, fleshy part, with a spoon. Apply this gel on your face, focusing on the affected area. Leave it on overnight and then rinse it off in the morning. Repeat every day until the lesions heal.
-
-two tablespoons of pure aloe vera gel with four tablespoons of honey and half a teaspoon of cinnamon powder or oil. Apply the mixture to the affected area and wash it off after 10 minutes. Do this every alternate day.
-
-¼ teaspoon of lemon juice with 02 tablespoons of fresh aloe vera gel and apply the mixture to the affected area. After it dries, wash if off. If you are going out, use a sunscreen as lemon makes your skin photosensitive.
-
-...
-
-[Data](articles/61b28374.json)
-
-[Extended Data](ext_articles/61b28374.ext.json)
-
----
-
-### Batik…back in fashion
-
-*2024-01-31 20:59:00* · [`islandlk`](http://island.lk/batikback-in-fashion/) · `en`
-
-Batik shirts, dresses, sarees, handbags, etc., have always had a special place in the fashion scene here.
-
-However, of late, I’ve noticed a new trend in the local fashion scene…with the younger generation making batik outfits their priority.
-
-Probably with the awful heat we are now experiencing, batik dresses are cool and comfortable.
-
-Maneka Liyanage, who is very much in the news these days with her Beauty Tips column in the Thursday Island, which has turned out to be very popular with readers, did a modelling session recently with batik dresses, courtesy of INCHDesigner.
-
-She says she fell in love with the outfits, the moment she saw them, and decided to do a modelling session for readers of The Island.
-
-In addition to her weekly Beauty Tips column, Maneka has also taken the spotlight in Glam Scene and was featured as a fashion model, as well, in the Thursday Island, in November 2023.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/0d26d477.json)
-
-[Extended Data](ext_articles/0d26d477.ext.json)
-
----
-
-### New Serjeant-at-Arms of Parliament appointed
-
-*2024-01-31 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96898/new-serjeant-at-arms-of-parliament-appointed) · `en`
-
-Mr. Kushan Sampath Jayaratne has assumed duties as the 7th Serjeant-at-Arms of the Parliament of Sri Lanka this morning (31), upon the retirement of Narendra Fernando, who served as the 6th Serjeant-at-Arms of the Parliament, on Tuesday (30).
-
-The retired Serjeant-at-Arms Narendra Fernando traditionally handed over the Mace and the Sword of the Serjeant-at-Arms to the new Serjeant-at-Arms Kushan Sampath Jayaratne last morning (30) near the Silver Door which leads to the Parliament Chamber, the Parliamentary Communications Department said in a statement.
-
-Mr. Jayaratne has served in the Sri Lanka Navy from 1994 to 2007. In particular, he has engaged in the operations affiliated to the Fast Attack Craft Flotilla for a long-time during duty. Later in the year 2007, he joined the service of the Parliament of Sri Lanka as an Assistant Serjeant-at-Arms and then in 2018 he was promoted to the position of Deputy Serjeant-at-Arms, the statement mentioned.
-
-...
-
-[Data](articles/954d5687.json)
-
-[Extended Data](ext_articles/954d5687.ext.json)
-
----
-
-### Charges for issuing passports under normal service increased
-
-*2024-01-31 20:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Charges-for-issuing-passports-under-normal-service-increased/108-276067) · `en`
-
-Colombo, Jan 31 (Daily Mirror) - The Immigration and Emigration Department has decided to increase the fee for the issuing of passports under normal service, with effect from February 1, Immigration and Emigration Conroller General I.S.H.J. Illukpitiya said.
-
-Accordingly, the new fee for the issue of passports under normal service will be Rs. 10,000. Earlier, the fee for the issue of passports under normal service was Rs. 5,000, he said.
-
-◼️
-
-[Data](articles/2b5483df.json)
-
-[Extended Data](ext_articles/2b5483df.ext.json)
-
----
-
-### Fee for passport issuance doubled
-
-*2024-01-31 20:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96897/fee-for-passport-issuance-doubled-) · `en`
-
-The fee charged for the issuance of passports under the normal service has been increased, the Department of Immigration and Emigration said.
-
-The Controller General of Immigration and Emigration stated that accordingly, the fee for issuing passports under the normal service will be revised from Rs. 5,000 to Rs. 10,000 with effect from tomorrow (Feb. 01).
-
-◼️
-
-[Data](articles/46f495c1.json)
-
-[Extended Data](ext_articles/46f495c1.ext.json)
-
----
-
-### Sri Lankan crew rescued by Seychelles Coast Guard arrive on Mahe
-
-*2024-01-31 20:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-crew-rescued-by-Seychelles-Coast-Guard-arrive-on-Mahe/108-276065) · `en`
-
-Seychelles, Jan. 31 (seychelles News Agency) Six Sri Lankan fishermen, who were rescued by the Seychelles Coast Guard after being held hostage by Somali pirates who were also arrested, arrived on the Seychelles' main island of Mahe on Wednesday morning.
-
-The director for operations at the Seychelles Coast Guard, Major Hans Radegonde, told reporters that they received reports that piracy had started again in the region since late last year.
-
-"Now we are noticing that piracy is becoming more frequent than last year and the area where they are operating is closer to Seychelles waters. Our operation remains the same as it was. We've always been on alert; we've never let our guard down," he said.
-
-Radegonde clarified that they received word about the incident from the Sri Lankan Navy on Saturday and the operation to free the hostages took place on Monday after the vessel entered the Seychelles Exclusive Economic Zone, which is 1.4 million square kilometres.
-
-...
-
-[Data](articles/800dac6d.json)
-
-[Extended Data](ext_articles/800dac6d.ext.json)
-
----
-
-### Colombo Plan and Ports Authority sign MoU to develop port operations
-
-*2024-01-31 20:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-Plan-and-Ports-Authority-sign-MoU-to-develop-port-operations/108-276071) · `en`
-
-Colombo, Jan. 31 (Daily Mirror)- The Colombo Plan, with funding from the U.S. Embassy, launched a three-year program to enhance the technical expertise of Sri Lanka Ports Authority staff and advance "smart" port operations at the Port of Colombo, a statement from the U.S. embassy said.
-
-The Colombo Plan and Sri Lanka Ports Authority signed a letter of intent at the launch and a memorandum of understanding will be extended in detail that contributes to the development and sustainability of maritime and port operations in Sri Lanka by introducing modern port systems, new technologies, and international best practices. U.S. funding supports Sri Lanka's ports initiative to boost productivity and competitiveness, positioning its ports as crucial regional hubs in South Asia.
-
-...
-
-[Data](articles/0353eba1.json)
-
-[Extended Data](ext_articles/0353eba1.ext.json)
-
----
-
-### Lotus Tower rewards 50,000th foreign visitor
-
-*2024-01-31 20:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lotus-Tower-rewards-50-000th-foreign-visitor/108-276057) · `en`
-
-Colombo, Jan 31 (Daily Mirror) - The Colombo Lotus Tower Management Company (Private) Limited said today that they had recorded the arrival of the 50,000th foreign visitor since the day it opened to the public on September 15, 2022.
-
-Given the vital role tourism plays in the country's economy, the Colombo Lotus Tower is dedicated to positioning itself as a pivotal force in fostering the expansion of the tourism industry.
-
-In celebration of this momentous occasion, the 50,000th visitor was rewarded with an exquisite gift hamper.
-
-◼️
-
-[Data](articles/c4f5747c.json)
-
-[Extended Data](ext_articles/c4f5747c.ext.json)
-
----
-
-### Pekoe Trail Among 20 Best travel adventures for 2024
-
-*2024-01-31 20:36:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/pekoe-trail-among-20-best-travel-adventures-for-2024/) · `en`
-
-COLOMBO (News 1st); National Geographic, a global authority in travel and exploration, has recently released its prestigious annual guide, "BEST OF THE WORLD 2024," highlighting the most captivating and distinctive travel experiences for the upcoming year.
-
-Among the esteemed selection, the Pekoe Trail in Sri Lanka has secured a coveted spot in the "Top 20 Travel Experiences" category, ranking at number 16.
-
-The Pekoe Trail, spanning 300 kilometers and comprising 22 stages, has garnered international attention as a world-class, nature-based experience in Sri Lanka's tea country. Notably, this recognition comes at a time when Sri Lanka is poised to attract a new segment of international tourists seeking wellness and nature-centric travel experiences.
-
-National Geographic announced their picks for BEST OF THE WORLD 2024, the brand’s annual guide of the most exciting, meaningful, and one-of-a-kind travel experiences for 2024.
-
-...
-
-[Data](articles/634d12ae.json)
-
-[Extended Data](ext_articles/634d12ae.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 16:17:06**
+As of **2024-02-01 16:32:44**
 
 ## Newspaper Stats
 
-*Scraped **4,118** Articles*
+*Scraped **4,120** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 228
 dailyftlk | 258
 newsfirstlk | 259
 adalk | 368
-virakesarilk | 461
+virakesarilk | 462
 adaderanasinhalalk | 480
-adaderanalk | 515
+adaderanalk | 516
 tamilmirrorlk | 528
 dailymirrorlk | 559
 
@@ -26,55 +26,101 @@ dailymirrorlk | 559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,107 (99.7%) of 4,118 articles have been extended.
+4,118 (100.0%) of 4,120 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
 
-### சுற்றறிக்கைக்கு முரணாக மாணவிகளை பாடசாலைக்கு அனுமதித்த முன்னாள் அதிபருக்கு எதிராக குற்றச்சாட்டு
+### Ceremonial opening of Fifth Session of Ninth Parliament on Feb.07
 
-*2024-02-01 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175292) · `ta`
+*2024-02-01 15:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96920/ceremonial-opening-of-fifth-session-of-ninth-parliament-on-feb07) · `en`
 
-கட்டுகஸ்தோட்டையிலுள்ள மகளிர்  உயர்தரப் பாடசாலைக்கு போலியான ஆவணங்களை பயன்படுத்தி சுற்றறிக்கைக்கு முரணான வகையில் மாணவிகளை அனுமதித்ததாகக் கூறப்படும் பாடசாலையின் முன்னாள் அதிபருக்கு எதிரான குற்றச்சாட்டுக்களை விசாரிப்பதற்கு ஒருநபர் நீதிமன்றம் நியமிக்கப்பட்டுள்ளது.
+The ceremonial opening of the Fifth Session of the Ninth Parliament is scheduled to be presided over by President Ranil Wickremesinghe on 07 February (Wednesday).
 
-இதற்காக ஓய்வுபெற்ற சிரேஷ்ட நிர்வாக அதிகாரியொருவர் நியமிக்கப்பட்டுள்ளதாக மத்திய மாகாண கல்விச் செயலாளர் மேனகா ஹேரத் தெரிவித்தார்.
+The Legislative Services Department of the Parliament communicated this while announcing the business of the House of Parliament for the first sitting week of February 2024 as decided by political party leaders.
 
-மத்திய மாகாண கல்விச் செயலாளரினால் நியமிக்கப்பட்ட ஐவர் குழு சம்பவம் தொடர்பில் ஆரம்பகட்ட விசாரணைகளை மேற்கொண்டு அறிக்கையின் அடிப்படையில் முன்னாள் அதிபருக்கு குற்றப்பத்திரிகை அனுப்பி வைக்கப்பட்டுள்ளது.
+A special meeting of party leaders was convened earlier today (Feb.01), chaired by Speaker Mahinda Yapa Abeywardena.
 
-குற்றச்சாட்டுகளை அவர் மறுத்ததால், இது குறித்து முறையான விசாரணை நடத்தவும் ஒரு நபர் நீதிமன்றம்  நியமிக்கப்பட்டது.
-
-கட்டுகஸ்தோட்டையில் உள்ள குறித்த பாடசாலையில் போலி ஆவணங்களை பயன்படுத்தி மாணவிகளை அனுமதித்தமை தொடர்பில் தற்போது நீதிமன்றில் வழக்கு விசாரணை உள்ளது.
+Sri Lanka Parliament was prorogued with effect from midnight on 26 January, marking the closure of the Fourth Session of the Ninth Parliament. The prorogation was communicated via a proclamation published in the government gazette by virtue of the powers vested in the President by Article 70 of the Constitution.
 
 ...
 
-[Data](articles/ed7b75cc.json)
+[Data](articles/a8fc679f.json)
 
 ---
 
-### மஹிந்த,திலங்க இராஜினாமா
+### Allegations against a former president who allowed students to school in contrary to the circular
+
+*2024-02-01 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175292) · `ta`
+
+A court has appointed a court to investigate the allegations against the former principal of the school allegedly allowed to allow students to use fake documents to the women's high school in Katugastota.
+
+Central Provincial Education Secretary Menaka Herath said a retired senior management officer has been appointed.
+
+A five -member committee appointed by the Central Provincial Education Secretary has taken preliminary inquiries into the incident and the chargesheet has been sent to the former Chancellor.
+
+As he denied the allegations, a person was appointed to conduct a proper investigation into the matter.
+
+The case is currently being heard in court regarding the allowing students to use fake documents at the school in Katugastot.
+
+As the investigation began, steps were taken to transfer the Chancellor of the Central Provincial Ministry of Education to the Central Provincial Education Department and the Gampola Divisional Education Office.
+
+◼️
+
+[Data](articles/ed7b75cc.json)
+
+[Extended Data](ext_articles/ed7b75cc.ext.json)
+
+---
+
+### Mahinda, Tilanga resigns
 
 *2024-02-01 15:42:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-திலங்க-இராஜினாமா/175-332486) · `ta`
 
-ஐக்கிய மக்கள் சுதந்திரக் கூட்டமைப்பின் பொதுச் செயலாளர் பதவியிலிருந்து மஹிந்த அமரவீர மற்றும் திலங்க சுமதிபால ஆகியோர் இராஜினாமா கடிதத்தை கையளித்துள்ளனர்.
+Mahinda Amaraweera and Thilanga Sumathipala have handed over the resignation letter from the post of General Secretary of the United People's Freedom Alliance.
 
 ◼️
 
 [Data](articles/3cd9af94.json)
 
+[Extended Data](ext_articles/3cd9af94.ext.json)
+
 ---
 
-### இந்திய உயர்ஸ்தானிகர் சந்திரிகாவை சந்தித்து பேச்சு !
+### Speaking of Indian High Commissioner Chandrika!
 
 *2024-02-01 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/175309) · `ta`
 
-முன்னாள் ஜனாதிபதி சந்திரிகா பண்டாரநாயக்க குமாரதுங்கவை சந்தித்து கலந்துரையாடியுள்ளார் இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா.
+Indian High Commissioner Santosh Ja has met with former President Chandrika Bandaranaike Kumaratunga.
 
-இந்தியா மற்றும் இலங்கைக்கிடையிலான இரு தரப்பு உறவுகளில் அண்மையில் ஏற்பட்ட முன்னேற்றங்கள் குறித்து இதன்போது கலந்துரையாடப்பட்டுள்ளது.
+The recent improvements in the two -party relations between India and Sri Lanka have been discussed.
 
 ◼️
 
 [Data](articles/f5539492.json)
+
+[Extended Data](ext_articles/f5539492.ext.json)
+
+---
+
+### கல்விக்கும் சுகாதாரத்திற்கும் இல்லாத பணம் அடக்குமுறைக்கு ஒதுக்கப்பட்டுள்ளது - சஜித் பிரேமதாச
+
+*2024-02-01 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/175325) · `ta`
+
+நாட்டில் கல்வி,சுகாதாரம் போன்றவற்றுக்கு அரசாங்கத்தினால் நிதி ஒதுக்க முடியாவிட்டாலும் மக்களை அடக்குவதற்காக கண்ணீர் புகை, இறப்பர் தோட்டாக்கள், நீர் தாரை தாக்குதலை நடத்தும் இயந்திரம் வாங்குவதற்கு பணம் ஒதுக்கப்பட்டுள்ளதாக எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+ஜனாதிபதி ரணசிங்க பிரேமதாசவின் காலத்தில் வழங்கப்பட்ட மதிய உணவைக் கூட வழங்குவதற்கு அரசாங்கத்திடம் பணம் இல்லாவிட்டாலும், மக்கள் அடக்குமுறைக்குட்படுத்த பணம் ஒதுக்கப்பட்டுள்ளது.
+
+இதன் காரணமாக நாட்டின் பாடசாலை மாணவர்கள் கடும் சிரமங்களை எதிர்நோக்கியுள்ளதாக எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+31 ஆம் திகதி முதல் 4 ஆம் திகதி வரை சுதந்திர தினத்தை முன்னிட்டு புதிய போக்கு வரத்து வீதி ஒழுங்குத் திட்டத்தை அரசாங்கம் நடைமுறைப்படுத்தியுள்ளது.
+
+அரசாங்கம் இவ்வாறு செய்யும் போது, 31 ஆம் திகதி முதல் 4 ஆம் திகதி வரையிலும் அதன் பிறகும் ஐக்கிய மக்கள் சக்தி மாத்தறை,காலி மற்றும் அனுராதபுரம் மாவட்டங்களில் தொடர்ச்சியாக 17 பாடசாலைகளுக்கு 17 ஸ்மார்ட் வகுப்பறைகளை வழங்குகின்றது.
+
+...
+
+[Data](articles/51fadc52.json)
 
 ---
 
@@ -93,6 +139,8 @@ On 10 November, the ICC suspended the membership of Sri Lanka Cricket (SLC), wit
 ...
 
 [Data](articles/241d3feb.json)
+
+[Extended Data](ext_articles/241d3feb.ext.json)
 
 ---
 
@@ -122,37 +170,43 @@ It is reported that the United States has been in a collaboration with Australia
 
 ---
 
-### வைத்தியர்கள் தவிர்ந்த ஏனையவர்கள் பணிப்புறக்கணிப்பு - நோயாளர்கள் அவதி
+### Other than doctors
 
 *2024-02-01 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175311) · `ta`
 
-நாடளாவிய ரீதியில் 72 சுகாதாரத் துறை தொழிற்சங்கங்கள் இன்று வியாழக்கிழமை (01) காலை 6.30 மணி முதல் பணிப்புறக்கணிப்பு போராட்டத்தை ஆரம்பித்துள்ளன.
+72 health sector trade unions across the country have launched a workforce struggle from 6.30 am today (01).
 
-இப் பணிப்புறக்கணிப்பு போராட்டம் காரணமாக கிளினிக் , வெளிநோயாளர் பிரிவு , மருந்தக பிரிவு ஆகியவற்றிக்கு வருகை மேற்கொண்ட நோயாளிகள் பல்வேறு அசோகரியங்களுக்கு முகங்கொடுத்திருந்தனர்.
+Patients who visited the clinic, outpatient unit and pharmacy have faced various amazement due to this workforce.
 
-வவுனியா மாவட்ட பொது வைத்தியசாலை தாதியர்கள்,  சிற்றூளியர்கள், பாமசியாளர்கள், தொழிநுட்பவியலாளர்கள் பல்வேறு கோரிக்கைளை முன்வைத்து இன்று பணிப்புறக்கணிப்பில் ஈடுபட்டுள்ளனர்.
+Vavuniya District General Hospital Nurses, Sinhalese, Palmasis and Technologists are engaged in the workplace today.
 
 ◼️
 
 [Data](articles/95085c64.json)
 
+[Extended Data](ext_articles/95085c64.ext.json)
+
 ---
 
-### மக்களின் மௌனத்தை அரசாங்கம் கீழ்ப்படிதலாக கருதக்கூடாது - மார்ச் 12 இயக்கம்
+### The government should not consider the silence of the people as obedient - March 12 Movement
 
 *2024-02-01 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175321) · `ta`
 
-அதிகரித்துவரும் வாழ்க்கை செலவு சமாளிக்க முடியாத பட்டினி போன்றவற்றின் மத்தியில் மக்கள் மௌனமாக துயரத்தை அனுபவிப்பதை  ஆட்சியாளர்கள் மௌனம் கீழ்படிதல் என கருதக்கூடாது என மார்ச் 12 இயக்கம் தெரிவித்துள்ளது
+The March 12 Movement said that the rulers should not be considered silence as the people suffer silent amid increasing life costs, such as hunger.
 
-நிகழ்நிலை பாதுகாப்பு சட்டமூலம் குறித்த தனது நிலைப்பாட்டை முன்வைத்து வெளியிட்டுள்ள அறிக்கையில் மார்ச் 12 இயக்கம் இதனை தெரிவித்துள்ளது.
+The March 12 Movement made this statement in a statement issued by the Foundation Protection Bill.
 
-நிகழ்நிலை பாதுகாப்பு சட்டம் மூலம் அடிப்படை உரிமைகளிற்கு மிகவும் ஆபத்தானது என்பதையும் இலங்கையின் அரசமைப்பில் உறுதிப்படுத்தப்பட்டுள்ள  ஜனநாயக கொள்கைளிற்கு ஆபத்தானது என்பதையும் நாங்கள் மீண்டும் வலியுறுத்த விரும்புகின்றோம்.
+We would like to reiterate that it is very dangerous to fundamental rights through the Ceremonial Protection Act and that the democratic policies of the Sri Lankan constitution are dangerous.
 
-மேலும் தற்போதைய அரசாங்கம் இந்த சட்டமூலத்தை தொடர்ந்தும் முன்னெடுப்பதில் காண்பிக்கும் பிடிவாதம் மிகமுக்கியமான பொருளாதாரசீர்திருத்த மற்றும் எதிர்வரும் தேர்தல் காலங்களில் கருத்துவேறுபாடுகளை கொண்டவர்களை மௌனமாக்கும் சிவில் செயற்பாடுகளை ஒடுக்கும் அரசாங்கத்தின் நோக்கத்தை தெளிவாக வெளிப்படுத்தி நிற்கின்றது என்பதை கவலையுடன் தெரிவித்துக்கொள்கி;ன்றோம்;.
+Moreover, the stubbornness of the current government continues to take on this bill is worried that the most important economic reformity and the government's intention to suppress civil activities that silence those who have disagreements in the upcoming election.
+
+The May 12 movement also points out that the Parliament was acting in a pre -judicial study and the passage of the Constitution, which was passed beyond the introduction of anti -democratic law.
 
 ...
 
 [Data](articles/c67b953d.json)
+
+[Extended Data](ext_articles/c67b953d.ext.json)
 
 ---
 
@@ -174,23 +228,29 @@ The UPFA, Ven. Yalwela Pannanansara Thero said that the UPFA has said that the t
 
 ---
 
-### எமது போராட்டங்களை அடக்கவே நிகழ்நிலை காப்புச் சட்டம் : வடக்கு, கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்ட உறவுகள்
+### The Unity Backup Act to suppress our struggles: The North and East
 
 *2024-02-01 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175318) · `ta`
 
-எமது போராட்டங்கள், எமது மக்களின் பிரச்சினைகளை வெளியுலகிற்கு கொண்டு செல்லும் ஊடகங்களை அடக்கவே நிகழ்நிலை காப்பு சட்டம் கொண்டுவரப்பட்டுள்ளதாக வடக்கு, கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்ட உறவுகளின் சங்கச் செயலாளர் லீலாவதி ஆனந்தநடராசா தெரிவித்தார்.
+Leelavathi Anandarasa, secretary of the North and East, said that our struggles and the problems of our people are being brought to the outside world.
 
-வடக்கு கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்ட உறவுகளின் சங்கச் செயலாளர் லீலாவதி ஆனந்தநடராசாவின் ஊடக சந்திப்பு யாழ். கொடிகாமத்தில் வியாழக்கிழமை (01) இடம்பெற்றது. இதன்போது கருத்து வெளியிடுகையிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+Association Secretary of the North and East. The took place on Thursday (01) at Kodikamam.He said this while commenting.
 
-நிகழ்நிலை காப்புச் சட்டம் மற்றும் பயங்கரவாதச் சட்டம் ஆகிய இரண்டும் இன்று பேசு பொருளாகும். சுயமாக போராடும் இனத்தின் மீது கொண்டுவரப்பட்ட சட்டம் பயங்கரவாத தடைச் சட்டம்.
+Both the Campaigning Act and the Terrorism Act are today. The law brought on the self -fighting race is the Terrorism Act.
 
-எமது போராட்டங்கள், எமது மக்களின் பிரச்சினைகளை வெளியுலகிற்கு கொண்டு செல்லும் ஊடகங்களை அடக்கவே நிகழ்நிலை காப்பு சட்டம் கொண்டுவரப்படுகிறது.
+Our struggles and the problems of our people to the outside world are to be suppressed.
 
-எதிர்க்கட்சித் தலைவர் அதற்கு எதிராக பாரிய போராட்டத்தை முன்னெடுத்தார். அதன் போது கூட அடக்குமுறை பாவிக்கப்பட்டுள்ளது. அவர்களுக்கே அப்படி என்றால் எங்கள் நிலை என்னவாக இருக்கும்.
+The opposition leader launched a massive struggle against it. Even in the case of repression used. What would be our condition if they were so.
 
-...
+Sinhalese leaders act as a model when they are in power and when they are not.
+
+We have been carrying out the struggles of the missing persons. We are also older. He said university students and the younger generation should continue these struggles.
+
+◼️
 
 [Data](articles/64cda82b.json)
+
+[Extended Data](ext_articles/64cda82b.ext.json)
 
 ---
 
@@ -384,17 +444,19 @@ It is also reported that they have demanded that the tariff revision be implemen
 
 ---
 
-### விடைத்தாள் மதிப்பிடும் பணிகள் ஆரம்பம்
+### The answer sheet is the onset of assessment work
 
 *2024-02-01 14:39:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடைத்தாள்-மதிப்பிடும்-பணிகள்-ஆரம்பம்/175-332480) · `ta`
 
-கல்விப் பொதுத் தராதரப் பத்திர உயர்தர பரீட்சைக்கான விடைத்தாள் மதிப்பிடும் பணிகள் ஆரம்பிக்கப்பட்டுள்ளதாக பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Examinations has said that the assessment of the answer sheet for the GCE A / L examination has begun.
 
-விடைத்தாள் மதிப்பிடும் பணிகளில் ஈடுபடும் ஆசிரியர்கள் மற்றும் பிற ஊழியர்களுக்கு கடந்த ஆண்டு செலுத்தப்பட்ட அதே கட்டணமே இம்முறையும் வழங்கப்படும் என்றும் பரீட்சைகள் திணைக்களம் கூறியுள்ளது.
+The Department of Examinations said that the same fee paid last year for teachers and other staff engaged in the evaluation of the answer sheet.
 
 ◼️
 
 [Data](articles/bbc682d9.json)
+
+[Extended Data](ext_articles/bbc682d9.ext.json)
 
 ---
 
@@ -616,15 +678,17 @@ Kotagala Tea plantation company, Hatton Tea Plantation Company and Bogawantalawa
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-02-01 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/175314) · `ta`
 
-இன்று வியாழக்கிழமை (பெப்ரவரி 01) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 310.5415 ஆகவும் விற்பனை விலை ரூபா 320.4082 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar purchasing price was 310.5415 and the sales price were 320.4082 based on the currency exchange rate released by the Central Bank on Thursday (February 01).
 
 ◼️
 
 [Data](articles/3f46accf.json)
+
+[Extended Data](ext_articles/3f46accf.ext.json)
 
 ---
 
@@ -904,21 +968,25 @@ Accordingly, the OIC of the Criminal Investigation Department has asked the OIC 
 
 ---
 
-### රට විරුවන් ඩොලර් බිලියන 8.9ක් ලංකාවට එව්වා
+### The holishers sent US $ 8.9 billion to Sri Lanka
 
 *2024-02-01 12:24:05* · [`adalk`](https://www.ada.lk/breaking_news/රට-විරුවන්-ඩොලර්-බිලියන-8-9ක්-ලංකාවට-එව්වා/11-407842) · `si`
 
-විදෙස් ගත වන ශ්‍රමිකයන්ට විශාල වශයෙන් ප්‍රශ්න ඇති බවට මතයක් පැවතියද ශ්‍රමිකයන්ගෙන් යම් ගැටළුවක් ඇතිවන්නේ වන්නේ 1000කට  දශම 1ක් පමණක් බව කම්කරු හා විදේශ රැකියා අමාත්‍ය   මනුෂ නානායක්කාර මහතා පැවසීය.
+Although there is an opinion that there are many issues that foreign workers have many problems, there is a problem with labor and foreign employment, "Labor and Foreign Employment Minister Manusha Nanayakkara.
 
-විදේශ සේවා නියුක්ති කාර්යාංශය සංවිධානය කරන අනුරාධපුරයේදී පැවැත්වෙන "ගරුසරු" 31 සහ 01 දෙදින පැවති වැඩ සටහනට සමගාමීව අනුරාධපුර වයිට් හවුස්`  හෝටලයේදී ඊයේ (31) මාධ්‍ය සංසද පිහිටුවීමට එක්වෙමින් අමාත්‍යවරයා මේ කරුණු අනාවරණය කළේය.
+He was speaking at the 'Honorary Honorary' 31 and 1 ', the' Honorary 'Hotel held in Anuradhapura yesterday (31).
 
-මෙහිදී තවදුරටත් අදහස් දැක්වූ අමාත්‍යවරයා සඳහන් කර සිටියේ, රටට විදෙස් මුදල් එවීමට එපා යැයි කියද්දී පවා ඔවුන්ගේ යුතුකම ඉටු කරමින් ඩොලර් බිලියන අටයි දශම නවයක් (8.9) විදෙස් ශ්‍රමිකයන් තම මවුරටට සැපයූ බවයි.
+Speaking further Minister the Minister said that even $ 8 billion to the mother of foreign workers, the country was supplied to their mother.
 
-ඒ හේතුවෙන් මේ වන විට ඩොලර්  බිලියන හතරයි දශම පහක(4.5) සංචිතයක්තයක් රට තුළ පවත්වා ගැනීමට පවා හැකි වී ඇතැයි ද හෙතෙම  සඳහන් කළේය.
+As a result, the four (4) billion rupees (4.5) million has been able to maintain a reserve in the country.
+
+Giving the support for 340 schools in the Anuradhapura district, which is located in the Anuradhapura district, will be held in the Anuradhapura district and to focus on the appropriate foreign employment.The Minister pointed out that the program will be implemented.
 
 ...
 
 [Data](articles/b020c97b.json)
+
+[Extended Data](ext_articles/b020c97b.ext.json)
 
 ---
 
@@ -954,21 +1022,25 @@ All liquor stores will be closed on Sunday (04) to mark the 76th Independence Da
 
 ---
 
-### දකුණු ආසියාවේ විශිෂ්ඨතම මාතෘ ‌රෝහල මාර්තුවේදී විවෘත කරයි
+### South Asia's excellent maternity hospital opens in March
 
 *2024-02-01 12:17:06* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-ආසියාවේ-විශිෂ්ඨතම-මාතෘ-‌රෝහල-මාර්තුවේදී-විවෘත-කරයි/11-407841) · `si`
 
-දකුණු ආසියාවේ තිබෙන විශිෂ්ඨතම මාතෘ රෝහල වන  කරාපිටිය නව මාතෘ රෝහල මාර්තු මස දිනෙක සෞඛ්‍ය සේවාවට එක්වන බව සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා පැවැසීය.
+Health Minister Dr. Ramesh Pathiran said that the excellent maternity hospital in South Asia will join health services on March.
 
-බහු ‍කාර්ය සංවර්ධන සහායක පුහුණුලාභීන් වශයෙන් බහුකාර්ය සංවර්ධන කාර්යසාධක බලකා දෙපාර්තමේන්තුවට අනුයුක්තව සේවය කළ 93 කට සෞඛ්‍ය අමාත්‍යාංශයේ සෞඛ්‍ය කාර්ය සහායක (කණිෂ්ඨ III) ශ්‍රේණියේ තනතුරට බදවා ගැනීමේ පත්වීම් ලිපි ප්‍රදානය ඊයේ දින (31) පස්වරුවේදී ‌සෞඛ්‍ය අමාත්‍යාංශයේදී එක්වෙමින් ඔහු මේ බව පැවැසීය.
+He was speaking at the Ministry of Health at the Ministry of Health at the Ministry of Health at the Ministry of Health at the Ministry of Health yesterday (31) at the Ministry of Health yesterday.
 
-2024.01.05 සහ 06 යන දෙදින පවත්වන යෝග්‍යතා ඇගයීමේ සම්මුඛ පරික්ෂණයෙන් සමත් 93 දෙනෙකු 2024.02.01 දින සිට ක්‍රියාත්මක වන පරිදි මෙලෙස සෞඛ්‍ය කාර්ය සහායක තනතුරට පත්කෙරිනි.
+The health assistant was appointed as the inspection of the Fitness Assessment Interview on 05 and 06.01.2014 and 06, up 01.02.2012.
 
-මෙහිදී අදහස් දක්වමින් සෞඛ්‍ය අමාත්‍යවරයා කියා සිටියේ මහමෝදර මාතෘ රෝහල දකුණු ආසියාවේ තිබෙන විශිෂ්ඨතම මාතෘ රෝහල බවට පත් කරමින්  මාර්තු මස දිනෙක කරාපිටියට ගෙන යන‍ බවත්,  දැනට එහි වැඩකටයුතු සියයට 99 ක් ම අවසන්ව තීබෙන බවත් ය.
+The Health Minister stated that the Mahamodara Maternity Hospital is being carried out in South Asia, which is currently taking the Karapitiya and 99 percent of its work.
+
+The Health Minister said that the construction work was started in 2006 and had not started his work when he had not begun in 2010.
 
 ...
 
 [Data](articles/86dd4470.json)
+
+[Extended Data](ext_articles/86dd4470.ext.json)
 
 ---
 
@@ -1935,47 +2007,5 @@ Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
 [Data](articles/e22285cd.json)
 
 [Extended Data](ext_articles/e22285cd.ext.json)
-
----
-
-### Young man's body recovery in the hotel room
-
-*2024-02-01 09:41:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோட்டல்-அறையில்-இளைஞனின்-சடலம்-மீட்பு/175-332463) · `ta`
-
-A man who was staying at a hotel in the Galle Road, Veewala, died mysteriously, police said.
-
-Investigations have been launched after the hotel administration informed the Hikkaduwa police as there was no response from the person yesterday evening.
-
-Later, when the police and hotel staff opened the window of the room where the man was staying, the person was found dead with blood injuries in the bathroom.
-
-The body is being kept under police protection and Hikkaduwa police are conducting further investigations.
-
-◼️
-
-[Data](articles/0ed733eb.json)
-
-[Extended Data](ext_articles/0ed733eb.ext.json)
-
----
-
-### Do not make the farmers in crisis by allowing the paddy field mafias
-
-*2024-02-01 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/175281) · `ta`
-
-The government says that there is no money to buy paddy from farmers. United People's Power MP Dr. Harsha de Silva said that the paddy field mafia are buying paddy and preparing to be crisising the farmers.
-
-He said this at a press conference held at the opposition leader's office in Colombo on Wednesday (31).
-
-When the Minister of Commerce said the rice would be imported, the Minister of Agriculture denied it. But now about 50,000 metric tons of rice has been imported. On the one hand, the rice is imported on the other hand.
-
-The price of Kirisamba paddy has fallen to Rs 120. Ponni Samba is sold in Colombo for 275 rupees. But the government has set 260 rupees as a control price. However, consumers are unable to get rice at that price.
-
-But the paddy farmers for the country are purchased for 80 rupees. In the majority of 30 lakh metric tons of paddy will be harvested. It will get 20 lakh metric tonnes of rice. The need for rice per year is only 24 lakh metric tons.
-
-...
-
-[Data](articles/473e6d89.json)
-
-[Extended Data](ext_articles/473e6d89.ext.json)
 
 ---

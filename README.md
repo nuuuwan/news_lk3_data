@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 17:17:15**
+As of **2024-02-01 17:33:19**
 
 ## Newspaper Stats
 
-*Scraped **4,124** Articles*
+*Scraped **4,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 259
 adalk | 368
 virakesarilk | 462
 adaderanasinhalalk | 484
-adaderanalk | 516
+adaderanalk | 518
 tamilmirrorlk | 528
 dailymirrorlk | 559
 
@@ -26,11 +26,47 @@ dailymirrorlk | 559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,124 (100.0%) of 4,124 articles have been extended.
+4,124 (100.0%) of 4,126 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### Sri Lanka, Australia to collaborate on strengthening governance, market systems development
+
+*2024-02-01 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96922/sri-lanka-australia-to-collaborate-on-strengthening-governance-market-systems-development) · `en`
+
+Sri Lanka and Australia have signed two subsidiary arrangements aimed at collaborating on strengthening governance and expanding cooperation in market systems development.
+
+In a media release, the Australian High Commission in Colombo said a 10-year subsidiary arrangement that commits an initial AUD 30 million (LKR 6.3 billion) over five years to support improved governance in Sri Lanka.
+
+Through a suite of programs, the arrangement supports the Sri Lankan government, nonprofit institutions and civil society to improve evidence-based policy and decision-making, deliver better services for communities, and increase the voice and agency of marginalised groups, including women.
+
+Lead delivery partners include the World Bank, The Asia Foundation, and International Foundation of Electoral Systems. The program will also support twinning arrangements between Australian and Sri Lankan institutions.
+
+...
+
+[Data](articles/ce84a656.json)
+
+---
+
+### Health trade unions decide to continue strike action
+
+*2024-02-01 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96921/health-trade-unions-decide-to-continue-strike-action) · `en`
+
+The collective of health sector trade unions has decided to continue their island-wide strike throughout Friday (02 Feb.) as well, Convenor of the Health Service Trade Unions Ravi Kumudesh revealed.
+
+Kumudesh explained that the decision was taken on account of not receiving a favourable response from the government with regards to their demands.
+
+A collective of 72 trade unions from the health sector launched a one-day strike across the country this morning (01 Feb.), urging the government to address their issues without delay.
+
+The doctors’ unions and the All Ceylon Nurses’ Union, however, decided to refrain from joining the strike action, alleging that the panned strike action was a conspiracy by the government.
+
+◼️
+
+[Data](articles/1ed2bd06.json)
+
+---
 
 ### Police call for public assistance to arrest a suspect
 
@@ -1932,7 +1968,7 @@ In response to the island-wide strike by trade unions in the health sector, tri-
 
 Defence Ministry said the decision was taken to make sure that daily hospital functions are not disrupted by the ongoing strike launched by health sector workers over allowances.
 
-Sri Lanka Army said it has dispatched its troops to the National Hospital of Sri Lanka (NHSL), National Eye Hospital, Dental Hospital Colombo, Homagama Base Hospital, Kalubowila Teaching Hospital, Mirigama Base Hospital, District General Hospital Avissawella, Kurunegala Teaching Hospital and a number of other state health facilities for uninterrupted provision of essential medical services to the public.
+Sri Lanka Army said its troops were dispatched to the National Hospital of Sri Lanka (NHSL), National Eye Hospital, Dental Hospital Colombo, Homagama Base Hospital, Kalubowila Teaching Hospital, Mirigama Base Hospital, District General Hospital Avissawella, Kurunegala Teaching Hospital and a number of other state health facilities for uninterrupted provision of essential medical services to the public.
 
 ...
 
@@ -1961,45 +1997,5 @@ Commander of the Army has been deployed in the war and the army commander to use
 [Data](articles/36614ac7.json)
 
 [Extended Data](ext_articles/36614ac7.ext.json)
-
----
-
-### Gender Equality Initiative Sparks Controversy at Sri Lankan Port
-
-*2024-02-01 10:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/gender-equality-initiative-sparks-controversy-at-sri-lankan-port/) · `en`
-
-COLOMBO (News 1st); Operations at the Jaya Container Terminal in Colombo Port were partially disrupted last morning as employees staged a protest against the recent appointment of eight women as trainee gantry crane operators.
-
-The workers, represented by the All Ceylon General Port Employee Union, allege that these appointments were politically motivated and bypassed established recruitment procedures.
-
-The protest involved employees abstaining from their duties for approximately an hour, causing minor delays in terminal operations.
-
-The All Ceylon General Port Employee Union General Secretary, Niroshan Gorakane, emphasized their stance at a press conference, stating, "We say that the port should recruit fairly. What we are saying is that you should not choose one area and do it for political interests."
-
-...
-
-[Data](articles/6b9ffcea.json)
-
-[Extended Data](ext_articles/6b9ffcea.ext.json)
-
----
-
-### Sinopec continues Rs. 3 concession for Petrol and Auto Diesel
-
-*2024-02-01 10:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sinopec-continues-Rs-3-concession-for-Petrol-and-Auto-Diesel/108-276116) · `en`
-
-Colombo, Feb 01 (Daily Mirror) - In line with Ceypetco's price adjustments, Sinopec Energy Lanka has announced its revised fuel prices, maintaining a Rs. 3 discount compared to both Ceypetco and LIOC for 92 Octane Petrol and Lanka Auto Diesel.
-
-Accordingly, the price of a litre of Petrol 92 has been increased by Rs. 5, bringing the new price to Rs. 368.
-
-The price of a litre of Lanka Auto Diesel has been increased by Rs. 5, with the new price set at Rs. 360.
-
-Meanwhile, the price of a litre of Petrol 95 has been reduced by Rs. 8, bringing the new price to Rs. 456, while Lanka Super Diesel has seen a decrease of Rs. 7, resulting in a new price of Rs. 468.
-
-◼️
-
-[Data](articles/a08389e8.json)
-
-[Extended Data](ext_articles/a08389e8.ext.json)
 
 ---

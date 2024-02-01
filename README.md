@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 11:17:18**
+As of **2024-02-01 11:32:52**
 
 ## Newspaper Stats
 
-*Scraped **4,020** Articles*
+*Scraped **4,028** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ islandlk | 220
 economynextcom | 221
 newsfirstlk | 250
 dailyftlk | 257
-adalk | 354
-virakesarilk | 444
+adalk | 355
+virakesarilk | 449
 adaderanasinhalalk | 466
-adaderanalk | 504
+adaderanalk | 506
 tamilmirrorlk | 513
 dailymirrorlk | 549
 
@@ -26,41 +26,147 @@ dailymirrorlk | 549
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,017 (99.9%) of 4,020 articles have been extended.
+4,020 (99.8%) of 4,028 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
 
-### வைத்தியசாலைகளுக்கு இராணுவம் வரவழைப்பு
+### Sri Lanka records over 200,000 tourists arrivals in January
+
+*2024-02-01 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96909/sri-lanka-records-over-200000-tourists-arrivals-in-january) · `en`
+
+Sri Lanka has recorded over 200,000 tourist arrivals within the first month year, according to the Sri Lanka Tourism Development Authority (SLTDA).
+
+A total of 201,687 tourists have visited the island from 01 - 30 January, out of which more than 31,000 were Indian nationals, and over 28,000 were Russian nationals.
+
+Although a majority of the tourists were Russian and Indian nationals, as per SLTDA’s official figures, Germans, Americans, British, Australian, Chinese, French, Polish and the Dutch tourists, too, were amongst those arrivals.
+
+Over the course of 2023, Sri Lanka saw more than 1.48 million (1,487,303) tourist arrivals, with December recording the highest monthly figure which stood at 210,352.
+
+Meanwhile, 50,000 foreign tourists in total have visited the Lotus Tower within 16 months since it was declared open for the public in September 2022, Director Major General (Retd.) Prasad Samarasinghe, the Director and CEO of Colombo Lotus Tower Management Company (Pvt) Ltd. said.
+
+...
+
+[Data](articles/49ed6b93.json)
+
+---
+
+### நிகழ்நிலைக் காப்புச் சட்டம் இன்றுமுதல் நடைமுறைக்கு
+
+*2024-02-01 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/175293) · `ta`
+
+ஜனவரி மாதம் 23 மற்றும் 24ஆம் திகதிகளில் பாராளுமன்றத்தில் விவாதிக்கப்பட்டு திருத்தங்களுடன் நிறைவேற்றப்பட்ட நிகழ்நிலைக் காப்புச் சட்டமூலத்தை சபாநாயகர்  மஹிந்த யாப்பா அபேவர்தன இன்று வியாழக்கிழமை (01) சான்றுரைப்படுத்தினார்.
+
+இதற்கமைய இந்தச் சட்டமூலம் 2024 ஆம் ஆண்டின் 9ஆம் இலக்க நிகழ்நிலைக் காப்புச் சட்டமாக இன்றுமுதல் நடைமுறைக்கு வருகிறது.
+
+◼️
+
+[Data](articles/603b82d0.json)
+
+---
+
+### Army arrivals to hospitals
 
 *2024-02-01 10:47:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலைகளுக்கு-இராணுவம்-வரவழைப்பு/175-332467) · `ta`
 
-தமது கோரிக்கைகளுக்கு தீர்வு கிடைக்காமைக்கு எதிர்ப்பு தெரிவித்து 72 சுகாதார தொழிற்சங்கங்கள் இன்று (01) காலை 6.30 மணி முதல் தொடர் வேலை நிறுத்தப் போராட்டத்தில் ஈடுபட்டுள்ளனர்.
+72 health trade unions have been engaged in a series of strikes from 6.30 am today in protest of their demands.
 
-இதனால் நோயாளர்கள் மிகுந்த சிரமத்திற்கு உள்ளாகியுள்ளதோடு, அசௌகரியங்களை தவிர்க்க இராணுவத்தினரை வரவழைக்க தீர்மானிக்கப்பட்டுள்ளது.
+The patients have been greatly inconvenienced and are decided to summon the military to avoid inconveniences.
 
-அதன்படி, தற்போது மேல், கிழக்கு, மத்திய மற்றும் வன்னி பாதுகாப்புப் படைத் தளபதிகளின் மேற்பார்வையில், கொழும்பு மற்றும் கண்டி தேசிய வைத்தியசாலைகள், களுபோவில, கராப்பிட்டி, மஹமோதர, பேராதனை, அநுராதபுரம் மற்றும் குருநாகல் போதனா வைத்தியசாலைகளுக்கு இராணுவத்தினர் வரவழக்கப்பட்டுள்ளனர்.
+Accordingly, under the supervision of the Commander of the Western, Eastern, Central and Vanni Security Forces, the Army has been summoned to the Colombo and Kandy National Hospitals, Kalubowila, Karapitiya, Mahamodara, Peradeniya, Anuradhapura and Kurunegala Teaching Hospitals.
 
-மேலும், மாத்தறை, பலாங்கொடை, எஹலியகொட, நாவலப்பிட்டி, பதுளை, கம்பளை , மீரிகம, ஹோமாகம, கேகாலை உட்பட 26 வைத்தியசாலைகளின் அன்றாட நடவடிக்கைகளை இடையூறு இன்றி தொடர்வதற்காக படையினர் களமிறக்கப்பட்டுள்ளதாக இராணுவம் தெரிவித்துள்ளது.
+In addition, soldiers have been deployed to continue the daily activities of 26 hospitals including Matara, Balangoda, Ehaliyagoda, Nawalapitiya, Badulla, Gampola, Mirigama, Homagama and Kegalle.
 
 ◼️
 
 [Data](articles/6bd6eb75.json)
 
+[Extended Data](ext_articles/6bd6eb75.ext.json)
+
 ---
 
-### பாடசாலை பஸ் கட்டணங்கள் அதிகரிப்பு
+### சட்டத்தின் பிடியிலிருந்து விடுவிக்கப்பட்டாலும் இன்னும் சிறை கொட்டடியில்வாடுகின்றோம் ; முருகன் ராபர்ட்பயஸ் தமிழகமுதலமைச்சருக்கு கடிதம் - காலவரையற்ற உண்ணாவிரதம்!
+
+*2024-02-01 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175291) · `ta`
+
+திருச்சி சிறப்பு  முகாமில் உரிமைகளும் உணர்வுகளும் பறிக்கப்படுவதாக கூறி காலவரையற்ற உண்ணாவிரத போராட்டத்தில் ஈடுபடப் போவதாக முருகன் ராபர்ட் பயஸ் அகியோர் தமிழக முதலமைச்சருக்கு கடிதம் அனுப்பி உள்ளனர்.
+
+"முன்னாள் பிரதமர் ராஜீவ் காந்தி கொலை வழக்கில் 32 ஆண்டுகளுக்கும் மேலாக சிறைவாசம் அனுபவித்து வந்த நிலையில்இ ஏறக்குறைய ஒன்றை ஆண்டுகளுக்கு முன்பு உச்ச நீதிமன்றத்தால் விடுதலை செய்யப்பட்டோம்.
+
+சட்டத்தின் பிடியிலிருந்து விடுவிக்கப்பட்டாலும் இன்னும் சிறை கொட்டடியில் இருந்து விடுவிக்கப்படவில்லை. சிறப்பு முகாம் எனப்படும் மற்றொரு சிறையில் அடைத்தார்கள். திருச்சியில் உள்ள சிறப்பு முகாமில் ராபர்ட் பயஸ் ஜெயக்குமார்இ சாந்தன் முருகனும் அடைத்து வைக்கப்பட்டுள்ளோம். சிறப்பு முகாம் எனப்படுவது சிறையை விட கொடுமையானதாக இருக்கிறது. இங்கு நடைபயிற்சி செய்வதற்கோ நண்பர்களை பார்ப்பதற்கோ முடியவில்லை.
+
+...
+
+[Data](articles/d569be20.json)
+
+---
+
+### எங்களுடன் பேச்சுவார்த்தைகளில் ஈடுபடாவிட்டால் சர்வதேச நாணய நிதியத்தின் இரண்டாம் தொகுதி கடனை தடுத்து நிறுத்துவோம் - தனியார் கடன் வழங்குநர்கள் கடும் எச்சரிக்கை
+
+*2024-02-01 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/175285) · `ta`
+
+அரசாங்கம் தங்களுடன் நல்லெண்ண அடிப்படையில் ஆக்கபூர்வமான பேச்சுவார்த்தைகளை மேற்கொள்ளாவிட்டால்  சர்வதேச நாணயநிதியத்தின் இரண்டாம் தவணை கடனை தடுத்து நிறுத்துவதற்கான அனைத்து நடவடிக்கைகளிலும் ஈடுபடப்போவதாக இலங்கையின் தனியார் கடன்வழங்குநர்கள் எச்சரித்துள்ளனர்.
+
+சீனா உட்பட இருதரப்பு கடன்வழங்குநர்களுடன் இலங்கை அரசாங்கம் தொடர்பேச்சுவார்த்தைகளில் ஈடுபட்டுள்ள அதேவேளை தங்களுடன் அதேபோன்ற பேச்சுவார்த்தைகளை மேற்கொள்ளவில்லை என தனியார் கடன்வழங்குநர்கள் கருதுவதாக விடயமிறிந்த வட்டாரங்கள் தெரிவித்துள்ளன.
+
+தனியார்கடன்வழங்குநர்களின் எண்ணிக்கை மிகவும் பெரியது இலங்கை வெறுமனே சர்வதேச நாணயநிதியத்தையும் சீனாவையும் மாத்திரம் நம்பியிருக்க முடியாது  என விடயமறிந்த வட்டாரங்கள் தெரிவித்துள்ளன.
+
+இலங்கை தங்களுடன் பேச்சுவார்த்தைளில் ஈடுபடாவிட்டால் சர்வதேச நாணயநிதியத்தின் இரண்டாம் தொகுதி கடனை தடுத்துநிறுத்துவதற்காக அனைத்து நடவடிக்கைகளிலும் ஈடுபடுவோம் என தனியார் கடன்வழங்குநர்கள் குழுவொன்று டெய்லிமிரரிடம் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/c5a55af1.json)
+
+---
+
+### தாமரைக் கோபுரத்தை பார்வையிட இதுவரை 50 ஆயிரம் வெளிநாட்டு சுற்றுலாப்பயணிகள் வருகை !
+
+*2024-02-01 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/175290) · `ta`
+
+கொழும்பு தாமரைக் கோபுரம் பொதுமக்கள் பாவனைக்காக கையளிப்பட்டதிலிருந்து இன்று வரையான காலப்பகுதியில் 50 ஆயிரம் வெளிநாட்டு சுற்றுலாப் பயணிகள் விஜயம் செய்துள்ளதாக தாமரை கோபுர நிர்வாகம் தெரிவித்துள்ளது.
+
+இந்நிலையில், தாமரைக் கோபுரத்திற்கு விஜயம் செய்த 50 ஆயிரம் ஆவது வெளிநாட்டு சுற்றுலாப் பயணிக்கு நிர்வாகத்தினரால் பரிசு வழங்கி கௌரவிக்கப்பட்டுள்ளது.
+
+இதேவேளை, கொழும்பு தாமரைக் கோபுரம் கடந்த 2022 ஆம் ஆண்டு செப்டம்பர் 15 ஆம் திகதி அங்குரார்ப்பணம் செய்யப்பட்டிருந்தமையும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3a3550bd.json)
+
+---
+
+### Increase in school bus charges
 
 *2024-02-01 10:39:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-பஸ்-கட்டணங்கள்-அதிகரிப்பு/175-332466) · `ta`
 
-எரிபொருள் விலை அதிகரிப்பு காரணமாக இன்று (01) முதல் பாடசாலை பஸ் கட்டணங்கள் அதிகரிக்கப்படவுள்ளதாக மாகாணங்களுக்கிடையிலான பாடசாலை சிறுவர் போக்குவரத்து சேவை சங்கம் தெரிவித்துள்ளது.
+School bus fares will be increased from today (01) due to the increase in fuel prices, the School Child Transport Service Association said.
 
-இந்தக் கட்டணங்களை பத்து வீதம் மற்றும் பதினைந்து வீதத்தால் அதிகரிக்க தொழிற்சங்கம் தீர்மானித்துள்ளது.
+The union has decided to increase these fees by ten percent and fifteen percent.
 
 ◼️
 
 [Data](articles/36f53bb7.json)
+
+[Extended Data](ext_articles/36f53bb7.ext.json)
+
+---
+
+### Online Safety Bill to come into effect from today
+
+*2024-02-01 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/96907/online-safety-bill-to-come-into-effect-from-today) · `en`
+
+Parliament Speaker Mahinda Yapa Abeywardena has endorsed the Online Safety Bill, and it will be brought into effect from today (01 Feb.).
+
+The legislation which seeks to regulate online content was passed in Parliament, with amendments, on 24 January, amidst objections from opposition politicians and activists who allege the new law will muzzle free speech.
+
+The controversial Bill garnered not only the attention of local activists and organisations, but also that of diplomats and large international organisations, claiming that the Bill had numerous problematic aspects.
+
+The Sri Lankan government says the Online Safety Bill, published in the government gazette on 18 September, aims to ban online communication of certain statements in the country, prevent the use of online accounts – both authentic and inauthentic – for the use of prohibited purposes, to suppress the financing and other support of communication of false statements and other related matters.
+
+◼️
+
+[Data](articles/3c0be9f6.json)
 
 ---
 
@@ -83,6 +189,30 @@ According to the Police Headquarters, the suspects of the suspects arrested on s
 [Data](articles/82e7a0f4.json)
 
 [Extended Data](ext_articles/82e7a0f4.ext.json)
+
+---
+
+### பேராதனைப் பல்கலைக்கழக மாணவர்கள் வகுப்பு பகிஷ்கரிப்பு
+
+*2024-02-01 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175288) · `ta`
+
+பேராதனைப் பல்கலைக்கழக மாணவர்கள் பல்வேறு கோரிக்கைகளை முன் வைத்து நேற்று புதன்கிழமை (31) முதல் வகுப்பு பகிஷ்கரிப்பை மேற்கொண்டுள்ளனர்.
+
+பேராதனைப் பல்கலைக்கழக மாணவர் சங்க செயலாளர் சசிந்த பண்டார தெரிவித்துள்ள அறிக்கயைில் குறிப்பிடப்பட்டுள்ளதாவது,
+
+வாழ்க்கைச் செலவுகளை சமாளிக்க முடியாத நிலையில் உடனடியாக 'வற்' வரியை குறைக்க வேண்டும். உணவுப் பொருட்களுக்கான விலையேற்றம் காரணமாக பலர் சிரமப்படுகின்றனர்.
+
+விலையேற்றத்தை உடன் குறைக்க வேண்டம்.  சிற்றுண்டிச்சாலைகளின் வசதிகள் அதிகரிக்கப்பட வேண்டும். புதிய மாணவர் விடுதிகள் அமைக்கப்பட வேண்டும்.
+
+பயங்கரவாத தடுப்புச்சட்டம், நிகழ் நிலை காப்புச்சட்டம், சமூக கவளைத்தளங்களை கட்டுப்படுத்தும் சட்டம் போன்ற அண்மைகாலமாகக் கொண்டு வரப்பட்ட அனைத்து புதிய சட்டங்களையும் மீளப் பெற்று, கருத்து வெளிப்பாட்டு சுதந்திரத்தை உறுதிப்படுத்த வேண்டும்.
+
+மகாப் பொல பாக்கிப் பணம் செலுத்தப்பட வேண்டம். பல்கலைக்கழக விரிவுரையாளர்கள், பேராசிரியர்கள் போன்றவர்களின் வெற்றிடங்கள் நிரப்பப்பட வேண்டும்.
+
+சி.சி.டி.வி. களைப் பொருத்தி அதன் மூலம் மாணவர்களது நடவடிக்கைகளை உளவு பார்க்கும் நிலை நீக்கப்பட வேண்டும்.
+
+...
+
+[Data](articles/74f43bbe.json)
 
 ---
 
@@ -152,11 +282,17 @@ The decision was reached to ensure that functions at hospitals are not disrupted
 
 *2024-02-01 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96906/tri-forces-personnel-deployed-to-hospitals-amidst-health-strike) · `en`
 
-The Defence Ministry tri-forces personnel are being deployed to hospitals across the country, depending on the requirements at each facility.
+Tri-force personnel have been deployed to the hospitals across the country today (Feb.01) amidst the ongoing health strike, depending on the requirements at each facility.
 
-The decision was reached to ensure that functions at hospitals are not disrupted by the ongoing strike launched by health sector workers.
+Defence Ministry said the decision was taken to ensure that daily hospital functions remain uninterrupted by the ongoing strike launched by health sector workers over allowances.
 
-◼️
+Health services have reportedly been crippled at hospitals after 72 health sector trade unions launched an island-wide strike at 6.30 a.m. today to urge the government to address the issues concerning allowances without delay.
+
+It is understood that the doctors’ unions and the All Ceylon Nurses’ Union have not joined the strike action. However, they have vowed to resort to a trade union action if no response is received to their suggestions and demands.
+
+On January 08, the Cabinet of Ministers approved President Ranil Wickremesinghe’s proposal to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000.
+
+...
 
 [Data](articles/a1695938.json)
 
@@ -247,6 +383,26 @@ Three suspects and three suspects have been arrested in connection with the crim
 [Data](articles/0c255702.json)
 
 [Extended Data](ext_articles/0c255702.ext.json)
+
+---
+
+### Strike
+
+*2024-02-01 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/175278) · `ta`
+
+72 health sector trade unions across the country have launched a one -day strike.
+
+Accordingly, the strike action has begun today (01) from 6.30 am.
+
+Meanwhile, the State Medical Officers' Association and the All Ceylon Nurses Association have decided not to support the strike action launched by the Health Trade Unions.
+
+All Ceylon Nurses Association President Ravindra Kahanthavarachchi said that the demands have been made by the government -related trade unions to go on strike and decided to abandon the protest due to strong doubts.
+
+◼️
+
+[Data](articles/6451a8c0.json)
+
+[Extended Data](ext_articles/6451a8c0.ext.json)
 
 ---
 
@@ -410,26 +566,6 @@ Senior Mission Chief of the International Monetary Fund (IMF) Peter Breuer had s
 
 ---
 
-### Strike
-
-*2024-02-01 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175278) · `ta`
-
-72 health sector trade unions across the country have launched a one -day strike.
-
-Accordingly, the strike action has begun today (01) from 6.30 am.
-
-Meanwhile, the State Medical Officers' Association and the All Ceylon Nurses Association have decided not to support the strike action launched by the Health Trade Unions.
-
-All Ceylon Nurses Association President Ravindra Kahanthavarachchi said that the demands have been made by the government -related trade unions to go on strike and decided to abandon the protest due to strong doubts.
-
-◼️
-
-[Data](articles/6451a8c0.json)
-
-[Extended Data](ext_articles/6451a8c0.ext.json)
-
----
-
 ### A group of suspects struggle to police
 
 *2024-02-01 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192822) · `si`
@@ -532,6 +668,22 @@ Accordingly, the Department of Examinations has decided to restore one and two p
 
 ---
 
+### දයා ආපු එකට ෆොන්සේකා විරුද්ධයි
+
+*2024-02-01 07:58:01* · [`adalk`](https://www.ada.lk/breaking_news/දයා-ආපු-එකට-ෆොන්සේකා-විරුද්ධයි/11-407835) · `si`
+
+හිටපු හමුදාපති දයා රත්නායක මහතා සමගි ජන බලවේගයට සම්බන්ධ කර ගැනීම පිළිබඳ පිළිකුලක් මෙන්ම ප්‍රශ්නයක් තිබෙනව බවත්, කෙසේ වෙතත් පුද්ගලයන් කිහිපදෙනෙකුගේ අත්තනොමතික ක්‍රියා නිසා පක්ෂය හැර නොයන බවත් සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා පැවසීය.
+
+රණවිරැවෙකු ලෙස සඳහන් කරමින් දයා රත්නායක මහතා පක්ෂයට සම්බන්ධ කර ගන්නේ නම් මෙවැනි ආකරයෙන් රණවිරැවෙකු ලෙස ගෝඨාභය රාජපක්ෂ මහතාද පක්ෂයට පැමිණීමට හැකියාව තිබෙන බවත්, එවැනි කටයුතු සිදු නොවිය යුතු බවත් ඊයේ (31දා) කොළඹ පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+...
+
+[Data](articles/f8c460e4.json)
+
+---
+
 ### Syhoppuk fuel prices will change
 
 *2024-02-01 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192820) · `si`
@@ -586,21 +738,23 @@ Deputy General Manager Transport NJDipola stated that the minimum fee for Rs. 50
 
 ---
 
-### රු. 10000ක අල්ලසක් ගත් ග්‍රාම නිලධාරීට වැඩ වරදි
+### Rs. Grama Niladhari made bribe of 10000
 
 *2024-02-01 07:44:42* · [`adalk`](https://www.ada.lk/breaking_news/රු--10000ක-අල්ලසක්-ගත්-ග්‍රාම-නිලධාරීට-වැඩ-වරදි/11-407834) · `si`
 
-හම්බන්තොට ප්‍රාදේශීය ලේකම් කාර්යාලයට අන්යුක්තව සේවය කරනු ලැබූ ග්‍රාම නිලධාරී වරයෙකු   රුපියල් දසදහසක මුදලක් අල්ලස් වශයෙන් ඉල්ලා ලබා ගැනීමේ චෝදනා මත ඊයේ (31දා)  අත්අඩංගුවට  ගත්බව අල්ලස් හෝ දූෂණ චෝදනා  විමර්ශන කොමිසන්  සභාව පවසා සිටි
+The Commission (Divisional Secretariat) was arrested yesterday (31st) following charges with the bribe of Rs.
 
-හම්බන්තොට , කටුවැව ප්‍රදේශයේ පුද්ගලයෙකු  විසින් අල්ලස් හෝ දූෂණ චෝදනා  විමර්ශන කොමිසන්  සභාව වෙත සිදු  කරන ලද පැමිණිල්ලකට අනුව, එහි විමර්ශන නිලධාරීන් විසින් මෙම වැටලීම සිදුකර අදාළ ග්‍රාම නිලධාරියාගේ කාර්යාලය තුලදී  අත්අඩංගුවට ගෙන තිබේ.
+According to a complaint lodged by the Commission to Investigate Allegations to the Commission to Investigate Allegations to the Commission to Investigate Allegations of Bribery in Katuwewa, Hambantota has been arrested by officials.
 
-මෙසේ අල්ලස් ලබාගෙන ඇත්තේ  පැමිණිලිකරු දැනට පදංචිව සිටින නිවසේ  ජල හා විදුලි බිල්පත්ත පැමිණිලිකරුගේ  නමට වෙනස්කර  කර ගැනීමට අවශ්‍ය කටයුතු කර ගැනීමට  පදංචිය වෙනස්කරදීමට   අවශ්‍ය ලේඛන සකස් කරදීම සඳහා වේ.
+Thus, the complainant had obtained the necessary documents to change the ticket to change the water and electricity bill to the name of the house and the electricity bar.
 
-අත්අඩංගුවට ගන්නා ලද සැකකරු අද හම්බන්තොට මහේස්ත්‍රාත්  අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව ඇති බවත්  අදාල විමර්ශන කටයුතු සිදුකරගෙන යන බවත් අල්ලස් හෝ දූෂණ චෝදනා  විමර්ශන කොමිසන්  සභාව පවසා සිටි.
+The suspect was to be produced before the Hambantota Magistrate's Court today and the Commission of Investigations have told the Commission.
 
 ◼️
 
 [Data](articles/34e42a7d.json)
+
+[Extended Data](ext_articles/34e42a7d.ext.json)
 
 ---
 
@@ -1935,163 +2089,5 @@ He emphasized the importance of adhering to principles and selecting members wit
 [Data](articles/0e3edb77.json)
 
 [Extended Data](ext_articles/0e3edb77.ext.json)
-
----
-
-### Sri Lanka’s Political Alliance Odyssey
-
-*2024-01-31 19:57:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/sri-lanka-s-political-alliance-odyssey/) · `en`
-
-COLOMBO (News 1st);  In the backdrop of the highly anticipated 2024 presidential election, a dynamic shift is observable in the political landscape, bringing forth the emergence of novel alliances.
-
-The 2020 Sri Lankan Parliamentary General Election saw a decisive victory for the Sri Lanka Podujana Peramuna, which secured 145 of the 225 seats, solidifying its position as the dominant party.
-
-The Samagi Jana Balawegaya emerged as the main opposition with 54 seats, while the Ilankai Tamil Arasu Kattchi emerged as the third strongest voice, winning 10 seats.
-
-The Jathika Jana Balavegaya also gained a noteworthy foothold with 3 seats, and the Eelam People's Democratic Party secured 2 seats.
-
-Ten other parties shared the remaining seats as one each. What has happened now?
-
-The Sri Lanka Podujana Peramuna (SLPP), despite its 145-seat victory in the 2020 election, has broken apart into multiple factions.
-
-A considerable number of its MPs have left the party at various points, citing various reasons.
-
-...
-
-[Data](articles/063a1304.json)
-
-[Extended Data](ext_articles/063a1304.ext.json)
-
----
-
-### Police Constable awarded Rs. 2 million against arbitrary arrest by police
-
-*2024-01-31 19:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-Constable-awarded-Rs-2-million-against-arbitrary-arrest-by-police/108-276063) · `en`
-
-Colombo, Jan. 31 (Daily Mirror)- The Supreme Court awarded Rs.2 million against the four police officers attached to the Kosgoda Police Station, as compensation for subjecting to arbitrary arrest of a police constable and his wife.
-
-While holding that four policemen, including the OIC of the Kosgoda Police Station have violated the Fundamental Rights of the Police Constable in terms of Articles 12(1),13(1) and 14(1)(g) of the Constitution, the Supreme Court observed that the Sri Lanka Police have been vested with the duty of maintaining the law and that they are the guardians of public safety.
-
-The Supreme Court further observed that the facts and circumstances of this case raise the question of who guards the guards.
-
-The Supreme Court held that the compensation should be paid by the four policemen out of their personal funds. The State is directed to pay a sum of Rs. 25,000 each to the petitioner and his wife.
-
-...
-
-[Data](articles/a53100fd.json)
-
-[Extended Data](ext_articles/a53100fd.ext.json)
-
----
-
-### Special News of the Minister of Power
-
-*2024-01-31 19:54:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சக்தி-அமைச்சரின்-விசேட-செய்தி/175-332440) · `ta`
-
-Electricity and Energy Minister Kanjana Wijesekera said that the electricity users will be introduced in the future.
-
-Meanwhile, the Electricity Board and the Ceylon Petroleum Corporation officials held a discussion yesterday. Remble
-
-◼️
-
-[Data](articles/f9f2c497.json)
-
-[Extended Data](ext_articles/f9f2c497.ext.json)
-
----
-
-### Keheliya Faces Bribery Charges Over Alleged Public Fund Misuse
-
-*2024-01-31 19:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/keheliya-faces-bribery-charges-over-alleged-public-fund-misuse/) · `en`
-
-COLOMBO (News 1st); The Colombo Chief Magistrate's Court heard the case against Keheliya Rambukwella, filed by the Bribery Commission.
-
-The charges stem from an alleged incident during his tenure as Minister of Media, where State Printing Corporation funds were reportedly used to settle his personal telephone bill.
-
-Rambukwella's defense presented initial objections to the indictment, and Colombo Chief High Court Judge, Damith Thotawatta, postponed issuing an order on these objections until February 16th.
-
-Minister Keheliya Rambukwella and former State Printing Corporation Chairman Jayampathi Bandara Heinkenda have been charged by the Bribery Commission under the Bribery Act, over the alleged misuse of public funds.
-
-Police Detains 10 Protesters at CID Headquarters While Demanding Keheliya’s Arrest
-
-◼️
-
-[Data](articles/9c5c2fe4.json)
-
-[Extended Data](ext_articles/9c5c2fe4.ext.json)
-
----
-
-### Sri Lanka Passport Fees Doubled
-
-*2024-01-31 19:52:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/sri-lanka-passport-fees-doubled/) · `en`
-
-COLOMBO (News 1st); The Department of Immigration and Emigration of Sri Lanka announced today that the fees for normal passport services will be revised effective February 1, 2024.
-
-The new fee for both online and offline applications will be Rs. 10,000, representing an increase from Rs. 5,000.
-
-Police Detains 10 Protesters at CID Headquarters While Demanding Keheliya’s Arrest
-
-◼️
-
-[Data](articles/60d3fc92.json)
-
-[Extended Data](ext_articles/60d3fc92.ext.json)
-
----
-
-### Foundation stone laid for construction of Ashoka Pillar at Sri Lanka’s Rajaguru Sri Subuthi Temple
-
-*2024-01-31 19:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/asia/Foundation-stone-laid-for-construction-of-Ashoka-Pillar-at-Sri-Lankas-Rajaguru-Sri-Subuthi-Temple/81-276062) · `en`
-
-Colombo, January 31 (ANI): India’s High Commissioner to Sri Lanka Santosh Jha on Sunday laid the foundation stone for the construction of the King Ashoka’s Pillar of Dharma at the Rajaguru Sri Subuthi Temple in Sri Lanka’s Wadduwa.
-
-“Reinforcement of the deep cultural connect! HC @santjha laid the Foundation Stone for the construction of King Ashoka’s Pillar of Dharma at the sacred RajaGuru Sri Subuthi Waskaduwa Maha Viharaya. He also paid his respects at the sacred Kapilavastu Relics in the Temple,” as per the Indian High Commission in Sri Lanka’s official handle on ‘X’.
-
-A spiritually elevated ceremony took place at the temple on Sunday, where the country’s inaugural Ashoka Pillar was laid, according to an official release.
-
-The event marked a momentous occasion in the cultural and spiritual ties between India and Sri Lanka. Distinguished dignitaries graced the occasion.
-
-...
-
-[Data](articles/63738d61.json)
-
-[Extended Data](ext_articles/63738d61.ext.json)
-
----
-
-### Sri Lanka’s Pekoe Trail among Nat Geo’s top 20 travel experiences for 2024
-
-*2024-01-31 19:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/96896/sri-lankas-pekoe-trail-among-nat-geos-top-20-travel-experiences-for-2024) · `en`
-
-The Pekoe Trail, a 300km trekking trail that travels through the central hills of Sri Lanka, has been profiled among the “Top 20 Travel Experiences for 2024” as named by National Geographic’s Global Editorial Teams, as part of their picks for Best of the World 2024, the brand’s annual guide of the most exciting, meaningful, and one-of-a-kind travel experiences for 2024.
-
-The National Geographic recently announced their picks for ‘BEST OF THE WORLD 2024’, the brand’s annual guide of the most exciting, meaningful, and one-of-a-kind travel experiences for 2024, whereas the Pekoe Trail, Sri Lanka was ranked number 16 in the “Top 20 Travel Experiences” category.
-
-...
-
-[Data](articles/1653280d.json)
-
-[Extended Data](ext_articles/1653280d.ext.json)
-
----
-
-### Narammala Police officer remanded again
-
-*2024-01-31 19:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192810) · `si`
-
-The police officer who was arrested regarding Narammala shooting incident has been produced before the Narammala Mahamatha Magistrate today (31).
-
-He was ordered to be remanded until January 31.
-
-The Kuliyapitiya Criminal Investigation Unit is conducting further investigations.
-
-A lorry was chased by a lorry and stopped the lorry, the Tarifker of the Truris Inspector was shot dead by the lorry driver.
-
-◼️
-
-[Data](articles/47117e04.json)
-
-[Extended Data](ext_articles/47117e04.ext.json)
 
 ---

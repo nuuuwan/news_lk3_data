@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 10:17:07**
+As of **2024-02-01 10:33:53**
 
 ## Newspaper Stats
 
-*Scraped **4,002** Articles*
+*Scraped **4,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,125 @@ economynextcom | 221
 newsfirstlk | 250
 dailyftlk | 257
 adalk | 353
-virakesarilk | 441
+virakesarilk | 444
 adaderanasinhalalk | 463
-adaderanalk | 501
-tamilmirrorlk | 509
+adaderanalk | 503
+tamilmirrorlk | 511
 dailymirrorlk | 545
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,000 (100.0%) of 4,002 articles have been extended.
+4,002 (99.8%) of 4,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### 18 இந்திய மீனவர்கள் நிபந்தனையின் அடிப்படையில் விடுதலை
+
+*2024-02-01 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175284) · `ta`
+
+இலங்கை கடற்பரப்பிற்குள் அத்துமீறி  நுழைந்து மீன் பிடியில் ஈடுபட்ட நிலையில் கைது செய்யப்பட்டு  விளக்கமறியலில் வைக்கப்பட்டிருந்த 18 இந்திய மீனவர்கள் புதன்கிழமை (31) மன்னார் நீதி மன்றத்தினால் நிபந்தனையின் அடிப்படையில் விடுதலை செய்யப்பட்டுள்ளனர்.
+
+இவர்கள் மீது மன்னார் மாவட்ட கடற்றொழில் நீரியல் வள திணைக்களத்தினால் மன்றில் இன்றைய தினம் 3 குற்றச்சாட்டுக்கள் முன் வைக்கப்பட்டது.
+
+பணிப்பாளரின் அனுமதியின்றி இலங்கை கடற்பரப்பில் அத்துமீறி நுழைந்து மீன் பிடியில் ஈடுபட்டமை, இலங்கை கடற்பரப்பில் கடற் தொழிலில் ஈடுபட்டமை மற்றும் இலங்கையில் தடை செய்யப்பட்ட இழுவை மடி தொழில் முன்னெடுத்தமை ஆகிய மூன்று குற்றச்சாட்டுக்கள் முன் வைக்கப்பட்டது.
+
+குறித்த குற்றச்சாட்டுக்களை விசாரணைக்கு உட்படுத்திய நீதவான் 1 ஆம் மற்றும் 2 ஆம் குற்றச்சாட்டுகளுக்கு 12 மாதங்களும், 3 ஆவது குற்றச்சாட்டுக்கு 6 மாதங்களுக்கு விதிக்கப்பட்டு 5   வருடங்களுக்கு ஒத்திவைக்கப்பட்ட சிறை தண்டனை வழங்கப்பட்டு இவர்களை நிபந்தனையின் அடிப்படையில்   விடுதலை செய்யப்பட்டனர்.
+
+...
+
+[Data](articles/47f74dd7.json)
+
+---
+
+### Tri-forces personnel deployed to hospitals
+
+*2024-02-01 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96906/tri-forces-personnel-deployed-to-hospitals-) · `en`
+
+The Defence Ministry tri-forces personnel are being deployed to hospitals across the country, depending on the requirements at each facility.
+
+The decision was reached to ensure that functions at hospitals are not disrupted by the ongoing strike launched by health sector workers.
+
+◼️
+
+[Data](articles/7d031451.json)
+
+---
+
+### ஜனவரி மாதத்தில் 2 இலட்சம் சுற்றுலாப் பயணிகள்
+
+*2024-02-01 09:50:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனவரி-மாதத்தில்-2-இலட்சம்-சுற்றுலாப்-பயணிகள்/175-332464) · `ta`
+
+ஜனவரி மாதத்தில், இலங்கைக்கு வந்த சுற்றுலாப் பயணிகளின் எண்ணிக்கை இரண்டு இலட்சத்தைத் தாண்டியுள்ளதாக சுற்றுலா அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+
+அதன்படி கடந்த ஜனவரி மாதம் 30ஆம் திகதி வரையான காலப்பகுதியில் 201,687 சுற்றுலாப் பயணிகள் இலங்கைக்கு வருகை தந்துள்ளனர்.
+
+அவர்களில் அதிகளாவனவர்கள் இந்தியர்கள் என்றும், பெரும்பாலான சுற்றுலா பயணிகள் ரஷ்யா, பிரிட்டன் மற்றும் ஜெர்மனியில் இருந்து வந்துள்ளதாகவும் கூறப்படுகிறது.
+
+இதேவேளை, கடந்த ஆண்டு டிசெம்பர் மாதத்தில் 210,000க்கும் அதிகமான சுற்றுலாப் பயணிகள் வருகை தந்துள்ளனர்.
+
+◼️
+
+[Data](articles/caa5bfb1.json)
+
+---
+
+### யுக்திய நடவடிக்கையில் 878 பேர் கைது !
+
+*2024-02-01 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/175282) · `ta`
+
+நாடளாவிய ரீதியில் இன்று வியாழக்கிழமை (01) அதிகாலை 12.30 மணியுடன் நிறைவடைந்த 24 மணித்தியாலத்தில் யுக்திய விசேட நடவடிக்கையில் 878 பேர் கைதுசெய்யப்பட்டுள்ளதாக பொதுமக்கள் பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+கைதுசெய்யப்பட்டவர்களில் போதைப்பொருள் தொடர்பான குற்றச்சாட்டின் கீழ் கைது செய்யப்பட்ட 649 சந்தேக நபர்களும், தேடப்படும் குற்றவாளிகள் பட்டியலில் இருந்த 229 பேரும் அடங்குவர்.
+
+போதைப்பொருள் குற்றங்களுடன் தொடர்புடைய 649 சந்தேக நபர்களில் 6 சந்தேக நபர்கள் தடுத்து வைத்து விசாரணைகளுக்குட்படுத்தபட்டுள்ளதுடன், போதைக்கு அடிமையான 04 பேர் புனர்வாழ்வு நிலையங்களுக்கு அனுப்பி வைக்கப்பட்டுள்ளனர்.
+
+அத்துடன், பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவு மற்றும் பொலிஸ் விசேட பணியகத்தின் பட்டியலில் இருந்த 15 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+மேலும், கைதுசெய்யப்பட்ட 229 சந்தேக நபர்களில், குற்றப் பிரிவினருக்கு பரிந்துரைக்கப்பட்ட பட்டியலில், போதைப்பொருள் குற்றங்கள் தொடர்பான திறந்த பிடியாணை பெற்ற 26 சந்தேக நபர்களும், போதைப்பொருள் அல்லாத குற்றங்கள் தொடர்பான 192 திறந்த பிடியாணை பிறப்பிக்கப்பட்டவர்களும் அடங்குகின்றனர்.
+
+...
+
+[Data](articles/0c255702.json)
+
+---
+
+### ஹோட்டல் அறையில் இளைஞனின் சடலம் மீட்பு
+
+*2024-02-01 09:41:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோட்டல்-அறையில்-இளைஞனின்-சடலம்-மீட்பு/175-332463) · `ta`
+
+காலி வீதி வேவல, பகுதியில் உள்ள ஹோட்டல் ஒன்றில் தங்கியிருந்த நபர் ஒருவர் மர்மமான முறையில் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+நேற்று (31) மாலை குறித்த நபரிடம் இருந்து எந்த பதிலும் கிடைக்காமையால், ஹோட்டல் நிர்வாகம் ஹிக்கடுவ பொலிஸாருக்கு அறிவித்ததையடுத்து விசாரணைகளை ஆரம்பிக்கப்பட்டுள்ளன.
+
+பின்னர், பொலிஸாரும், ஹோட்டல் ஊழியர்களும் அந்த நபர் தங்கியிருந்த அறையின் ஜன்னலைத் திறந்து பார்த்தபோது, ​​குளியலறையில் இரத்தக் காயங்களுடன் நபர் இறந்து கிடந்தார்.
+
+சடலம் பொலிஸ் பாதுகாப்பில் அந்த இடத்தில் வைக்கப்பட்டுள்ளதுடன் ஹிக்கடுவ பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/0ed733eb.json)
+
+---
+
+### நெல் களஞ்சியசாலை மாபியாக்களுக்கு இடமளித்து விவசாயிகளை நெருக்கடிக்கு உள்ளாக்க வேண்டாம் - ஹர்ஷ டி சில்வா
+
+*2024-02-01 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/175281) · `ta`
+
+அரசாங்கம் விவசாயிகளிடமிருந்து நெல்லைக் கொள்வனவு செய்வதற்கு பணம் இல்லையெனக் கூறுகிறது. இந்த சந்தர்ப்பத்தைப் பயன்படுத்தி நெல் களஞ்சியசாலை மாபியாக்கள் மிகக் குறைந்தவிலையில் நெல்லைக் கொள்வனவு செய்து, விவசாயிகளை நெருக்கடிக்கு உள்ளாக்க தயாராகி வருவதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+
+கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் புதன்கிழமை (31) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+வர்த்தக அமைச்சர் அரிசி இறக்குமதி செய்யப்படும் என்று கூறிய போது, விவசாயத்துறை அமைச்சர் அதனை மறுத்தார். ஆனால் தற்போது சுமார் 50,000 மெட்ரிக் தொன் அரிசி இறக்குமதி செய்யப்பட்டுள்ளது. ஒருபுறம் அருவடை ஆரம்பித்துள்ள நிலையில், மறுபுறம் அரிசி இறக்குமதி செய்யப்படுகிறது.
+
+...
+
+[Data](articles/473e6d89.json)
+
+---
 
 ### 72 health trade unions on strike
 
@@ -51,6 +155,8 @@ Police Detains 10 Protesters at CID Headquarters While Demanding Keheliya’s Ar
 ◼️
 
 [Data](articles/4c890363.json)
+
+[Extended Data](ext_articles/4c890363.ext.json)
 
 ---
 
@@ -81,6 +187,26 @@ Sinopec increased the price of a liter of Auto Diesel by Rs.5 and the new price 
 ...
 
 [Data](articles/84a12746.json)
+
+[Extended Data](ext_articles/84a12746.ext.json)
+
+---
+
+### ‘Yukthiya’ operation leads to arrest of 878 more suspects
+
+*2024-02-01 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/96905/yukthiya-operation-leads-to-arrest-of-878-more-suspects) · `en`
+
+Another 878 suspects have been arrested by Sri Lanka’s police and security forces personnel within 24 hours which ended at 12.30 a.m. today (Feb.01). The arrests were made as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+Among the arrestees are 649 suspects who were taken into custody on narcotics-related charges and 229 others who were on the list of wanted criminal suspects.
+
+Detention orders have been secured against 6 of the drug suspects, while another 4 were referred to rehabilitation centres, the Ministry of Public Security said.
+
+According to the ministry, the narcotics taken into custody during this period include 130g of heroin, 134g of crystal methamphetamine (Ice), 1.2kg of cannabis and 2,211 narcotic pills.
+
+◼️
+
+[Data](articles/0c431ca8.json)
 
 ---
 
@@ -1955,149 +2081,5 @@ President Ranil Wickremesinghe visited Kelaniya University to declare open the n
 [Data](articles/9a9438fc.json)
 
 [Extended Data](ext_articles/9a9438fc.ext.json)
-
----
-
-### Kammanpila's travel ban is temporarily removed
-
-*2024-01-31 18:37:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்மன்பிலவின்-பயணத்தடை-தற்காலிகமாக-நீக்கம்/175-332438) · `ta`
-
-The Colombo High Court today granted permission to visit China for his doctorate.
-
-He demanded the permission of the Colombo High Court to temporarily lifted his travel ban following the alleged 20 million rupee fraudulent exchange transaction in 2000.
-
-◼️
-
-[Data](articles/364163db.json)
-
-[Extended Data](ext_articles/364163db.ext.json)
-
----
-
-### Staff, who duties a Jatha Thumb, shoots
-
-*2024-01-31 18:37:34* · [`adalk`](https://www.ada.lk/breaking_news/අරලිය-මැඳුරේ-රාජකාරී-කළ-STF-සෙබලා-වෙඩි-තබා-ගනියි/11-407831) · `si`
-
-Kollupitiya Police say that a police constable attached to the Special Task Force who was deployed at Temple Trees were shot dead by official firearm.
-
-The injured were the Horawpalluthana, Kapugollewa, Morawewa, Morawewa, Morawewa, Mossawewa (96), a resign from the 36 home constable (90715).
-
-Police investigations have revealed that the constable was deployed in the anti-510623-owned firearm at the AG 1 in Temple Thiros while the constable was deployed at the Hydrolese of Temple Trees yesterday (30).
-
-The shooting was injured in the left hand, a hospital spokesman said
-
-A high-ranking police officer said it would clear when the iron plate had two bundles in the watchport
-
-When inquired from the hospital, his mother died six months ago and the father of her mother was hospitalized and had frequent disputes with her only scam in home.He further stated that he has been shot dead on his own. Kollupitiya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/38ad342f.json)
-
-[Extended Data](ext_articles/38ad342f.ext.json)
-
----
-
-### Plea
-
-*2024-01-31 18:34:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்ணீர்-புகைக்கு-எதிராக-ஐமச-மனு/175-332437) · `ta`
-
-The United People's Power will file a petition against the use of tear gas and water over the United People's Power struggle despite the court order.
-
-Parliamentarian Ranjith Mathuma Bandara has said that he will file a fundamental rights petition for the public's defense minister, Tran Ales and the police officers, who have not respected the law and the court's decision.
-
-During the protest, Opposition Leader Sajith Premadasa and Opposition MPs had launched tear gas and water attacks.
-
-He was speaking at a media briefing held at the Opposition Leader's office in Marx Fernando Mawatha, Marx Fernando, Colombo.
-
-◼️
-
-[Data](articles/1faf433d.json)
-
-[Extended Data](ext_articles/1faf433d.ext.json)
-
----
-
-### Case on Sanath Nishantha. 2 Inquiry
-
-*2024-01-31 18:30:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்த-மீதான-வழக்கு-பெப்-2-விசாரணை/175-332436) · `ta`
-
-The Court of Appeal today (31) ordered the hearing of petitions filed against former Minister of State Sanath Nishantha for insulting the court.
-
-The petitions were taken up for hearing today (31) in the presence of the Court of Appeal, comprising Sobhitha Rajakaruna and Dhammika Ganepola.
-
-The court has ordered the hearing of the case on the 2nd of this month to make a decision on the action of contempt of petitions as the defendant Sanath Nishantha is currently dead.
-
-The petitions have been filed by the two lawyers of the Sri Lanka Judicial Officers Association and Priyal Sirisena and Vijitha Kumara.
-
-◼️
-
-[Data](articles/2f847057.json)
-
-[Extended Data](ext_articles/2f847057.ext.json)
-
----
-
-### The case against Sanath Nishantha for February 2
-
-*2024-01-31 18:30:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்த-மீதான-வழக்கு-பெப்ரவரி-2-விசாரணைக்கு/175-332436) · `ta`
-
-The Court of Appeal today (31) ordered the hearing of petitions filed against former State Minister Sanath Nishantha for insulting the court.
-
-The petitions were taken up for hearing today in the presence of the Court of Appeal Court, comprising Sobhitha Rajakaruna and Dhammika Ganepola.
-
-The court has ordered the hearing of the case on the 2nd of this month to make a decision on the action of contempt of petitions as the defendant Sanath Nishantha is currently dead.
-
-The petitions have been filed by the two lawyers of the Sri Lanka Judicial Officers Association and Priyal Sirisena and Vijitha Kumara.
-
-◼️
-
-[Data](articles/c05a98c2.json)
-
-[Extended Data](ext_articles/c05a98c2.ext.json)
-
----
-
-### Sri Lanka Treasuries yields plunge across maturities
-
-*2024-01-31 18:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-plunge-across-maturities-149416/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasuries yields fell across maturities at Wednesday’s auction, the state debt office data showed.
-
-The debt office sold 40 billion rupees in 3-month bills at 11.97 percent, down by 138 basis points from a week earlier, after offering 40 billion rupees.
-
-70 billion rupees in 6-month bills were sold at 12.20 percent, down by 1.21 points from a week earlier after offering 70 billion rupees.
-
-50 billion rupees of 12-month bills were sold at 12 percent, down by 78 points from a week earlier after offering 50 billion rupees. (Colombo/Jan31/2023)
-
-◼️
-
-[Data](articles/3a47cb23.json)
-
-[Extended Data](ext_articles/3a47cb23.ext.json)
-
----
-
-### Tears of tears at Galaha junction
-
-*2024-01-31 18:26:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கலஹா-சந்தியில்-கண்ணீர்-புகைப்பிரயோகம்/76-332435) · `ta`
-
-The police have dissolved the protest rally by the Peradeniya University General Student Union on Wednesday (31).
-
-About a thousand university students entered the Kandy -Kandy protest rally through the Peradeniya road near the Kalaha junction.
-
-After the Botanical Gardens, more than a hundred policemen, police vehicles, disrupted the rally.
-
-The visionary actions implemented by the ruling class that ruled the country for more than 75 years have now caused many crises in various sectors and have changed political and economic instability.
-
-This has led to various issues related to the education sector, not only the university students but also the public.
-
-In this context, instead of solving these issues, the government, which was imposing taxes on the one hand, was even suppressing the right to express ideas.
-
-...
-
-[Data](articles/e3d1345e.json)
-
-[Extended Data](ext_articles/e3d1345e.ext.json)
 
 ---

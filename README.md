@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 10:50:49**
+As of **2024-02-01 11:02:31**
 
 ## Newspaper Stats
 
-*Scraped **4,010** Articles*
+*Scraped **4,017** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ newsfirstlk | 250
 dailyftlk | 257
 adalk | 353
 virakesarilk | 444
-adaderanasinhalalk | 463
+adaderanasinhalalk | 466
 adaderanalk | 504
 tamilmirrorlk | 511
-dailymirrorlk | 545
+dailymirrorlk | 549
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,010 (100.0%) of 4,010 articles have been extended.
+4,017 (100.0%) of 4,017 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### Drug trafficked by a group of drug trafficking along mobile phones
+
+*2024-02-01 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192826) · `si`
+
+Drug traffickers have a special raid on the instructions of acting IGP Deshabandu Tennakoon.
+
+The special operation was conducted by 4 pm yesterday (31st) to cover police stations island wide.
+
+The operation has been carried out with 1,964 centers, reload and Bill branchs, reload and Bill branches, reload and Bill branches.
+
+A total of 316 persons have been arrested on suspicion and there are 20 suspects involved in drug trafficking and 11 suspects involved in criminal suspects.
+
+According to the Police Headquarters, the suspects of the suspects arrested on suspicion of involvement in charge of drug trafficking were identified as well as to commence investigations into the assets they have earned.
+
+◼️
+
+[Data](articles/82e7a0f4.json)
+
+[Extended Data](ext_articles/82e7a0f4.ext.json)
+
+---
+
+### Online Act is in force from today
+
+*2024-02-01 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192825) · `si`
+
+Online methods are being implemented today from today (01).
+
+That is compatible with the Speaker Mahinda Yapa Abeywardena from today's security system.
+
+The Bill was passed in parliament on the 23rd of Parliament.
+
+◼️
+
+[Data](articles/bca7f6e2.json)
+
+[Extended Data](ext_articles/bca7f6e2.ext.json)
+
+---
 
 ### 18 Indian fishermen released on condition
 
@@ -89,6 +129,48 @@ The decision was reached to ensure that functions at hospitals are not disrupted
 [Data](articles/a1695938.json)
 
 [Extended Data](ext_articles/a1695938.ext.json)
+
+---
+
+### Army calls for hospitals
+
+*2024-02-01 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192824) · `si`
+
+The Ministry of Defense has called for to assist in conducting hospitals to work in hospitals.
+
+72 health unions have continued to prove their demands to date and continue striving from 6.30 am today (01).
+
+As a result, patients have been severely inconvenienced and the three armed forces have been called to avoid that inconvenience.
+
+Accordingly, the West, Eastern, Central and Wanni Defense Society of Sri Lanka and Kandy National Hospital, Kalugawala, Peradeniya, Naamwala, Badulla, Gampola, Nawalagoda, Badulla, Medo, Mirigama, Homagama, Gampola, Mirigama, Homagama, Gampola, Mirigama, HomagamaAnd the army said that the military troops were deployed to continue in 26 hospitals, including Kegalle.
+
+Commander of the Army has been deployed in the war and the army commander to use the needs of the army to use its daily role in order to use their daily activities without any hindrance to the public.Mr. Liyanage has advised the Security Forces Ordinance.
+
+◼️
+
+[Data](articles/36614ac7.json)
+
+[Extended Data](ext_articles/36614ac7.ext.json)
+
+---
+
+### Sinopec continues Rs. 3 concession for Petrol and Auto Diesel
+
+*2024-02-01 10:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sinopec-continues-Rs-3-concession-for-Petrol-and-Auto-Diesel/108-276116) · `en`
+
+Colombo, Feb 01 (Daily Mirror) - In line with Ceypetco's price adjustments, Sinopec Energy Lanka has announced its revised fuel prices, maintaining a Rs. 3 discount compared to both Ceypetco and LIOC for 92 Octane Petrol and Lanka Auto Diesel.
+
+Accordingly, the price of a litre of Petrol 92 has been increased by Rs. 5, bringing the new price to Rs. 368.
+
+The price of a litre of Lanka Auto Diesel has been increased by Rs. 5, with the new price set at Rs. 360.
+
+Meanwhile, the price of a litre of Petrol 95 has been reduced by Rs. 8, bringing the new price to Rs. 456, while Lanka Super Diesel has seen a decrease of Rs. 7, resulting in a new price of Rs. 468.
+
+◼️
+
+[Data](articles/a08389e8.json)
+
+[Extended Data](ext_articles/a08389e8.ext.json)
 
 ---
 
@@ -276,6 +358,26 @@ The body has been placed at the site under police protection and Hikkaduwa Polic
 
 ---
 
+### Private creditors warn Sri Lanka
+
+*2024-02-01 09:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Private-creditors-warn-Sri-Lanka/108-276104) · `en`
+
+Private creditors have threatened to do all it can to persuade the International Monetary Fund (IMF) to hold back the next tranche of funding for Sri Lanka under the Extended Fund Facility (EFF) if the Government fails to show good faith and hold constructive talks with the private creditors, Daily Mirror learns.
+
+Sources close to a group of private creditors told Daily Mirror that while the Government has been having extensive talks with bilateral creditors, including China, similar discussions have not been held with the private creditors.
+
+“The size of private creditors is very significant and Sri Lanka cannot rely only on IMF or China money,” sources said.
+
+Senior Mission Chief of the International Monetary Fund (IMF) Peter Breuer had said recently that the IMF anticipates that Sri Lanka will secure an agreement with its commercial creditors, including bondholders and the China Development Bank, ahead of the next review.
+
+...
+
+[Data](articles/0b81f05b.json)
+
+[Extended Data](ext_articles/0b81f05b.ext.json)
+
+---
+
 ### Strike
 
 *2024-02-01 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175278) · `ta`
@@ -341,6 +443,22 @@ The admission cards for school applicants for this exam were sent to the respect
 [Data](articles/395497cc.json)
 
 [Extended Data](ext_articles/395497cc.ext.json)
+
+---
+
+### Divisional Secretary transferred due to taking stand against corruption
+
+*2024-02-01 08:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Divisional-Secretary-transferred-due-to-taking-stand-against-corruption/108-276107) · `en`
+
+Kandy, Feb 1 (Daily Mirror) - The Divisional Secretary Udapalatha in Gampola who had taken steps to prevent State Minister of Justice and Prison Affairs engaging in corrupt activities in the Kandy District has been transferred with immediate effect by the District Secretary Kandy.
+
+Divisional Secretary (DS) Ms. A.D. Jayaratne by letter dated December 22, 2023, addressed to the District Secretary Kandy and copying the same to the President’s Secretary and Secretary Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government has requested to initiate an urgent investigation against the corrupt activities carried out by the Kandy District MP, Anuradha Jayaratne.
+
+...
+
+[Data](articles/149a203e.json)
+
+[Extended Data](ext_articles/149a203e.ext.json)
 
 ---
 
@@ -1276,6 +1394,30 @@ A litre of Lanka Kerosene (Rs. 236) has been increased by Rs. 7, and its new ret
 
 ---
 
+### CPC fuel prices revised
+
+*2024-01-31 21:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/CPC-fuel-prices-revised/155-276073) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - The Ceylon Petroleum Corporation (CPC) has decided to revise its fuel prices with effect from midnight today.
+
+Accordingly, a litre of Lanka Petrol 92 Octane (Rs. 366) has been increased by Rs. 5, and its new retail price will be Rs. 371.
+
+A litre of Lanka Petrol 95 Octane Euro 4 (Rs. 464) has been reduced by Rs. 8, and its new retail price will be Rs. 456.
+
+A litre of Lanka Auto Diesel (Rs. 358) has been increased by Rs. 5, and its new retail price will be Rs. 363.
+
+A litre of Lanka Super Diesel 4 Star Euro 4 (Rs. 475) has been reduced by Rs. 7, and its new retail price will be Rs. 468.
+
+A litre of Lanka Kerosene (Rs. 236) has been increased by Rs. 7, and its new retail price will be Rs. 262.
+
+◼️
+
+[Data](articles/f1a9fabb.json)
+
+[Extended Data](ext_articles/f1a9fabb.ext.json)
+
+---
+
 ### SJB vows to file Fundamental Rights petition against Tiran Alles
 
 *2024-01-31 21:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-vows-to-file-Fundamental-Rights-petition-against-Tiran-Alles/108-276068) · `en`
@@ -1963,153 +2105,5 @@ The fishermen who escaped and saved the pirates were addressed by the owner of t
 [Data](articles/3e8aa109.json)
 
 [Extended Data](ext_articles/3e8aa109.ext.json)
-
----
-
-### CID arrests wife, son and sister of “Dematagoda Ruwan”
-
-*2024-01-31 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/96895/cid-arrests-wife-son-and-sister-of-dematagoda-ruwan) · `en`
-
-The Illegal Assets Investigation Division of the Criminal Investigations Department (CID) has arrested the wife, son and sister of the drug trafficker Ruwan Chamila Prasanna alias “Dematagoda Ruwan”, who is the brother of “Dematagoda Chaminda”, a notorious drug kingpin who has been sentenced to death.
-
-The arrest has been carried out after it was uncovered that property worth over Rs. 100 million, which are suspected to have been obtained using drug money and other illicit means, were purchased by registering them in the names of the arrested individuals.
-
-The 27-year-old son of “Dematagoda Ruwan,” who has been identified as Tharindu Madhusanka, is reportedly the Kuppiyawatte Electorate Organiser of a leading political party.
-
-The arrested suspects will be produced before the Aluthkade Magistrate’s Court tomorrow (Feb. 01).
-
-◼️
-
-[Data](articles/3c40f06d.json)
-
-[Extended Data](ext_articles/3c40f06d.ext.json)
-
----
-
-### OSB sends ‘negative signal’ in Sri Lanka’s path towards reform and recovery – US envoy
-
-*2024-01-31 19:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96894/osb-sends-negative-signal-in-sri-lankas-path-towards-reform-and-recovery-us-envoy) · `en`
-
-U.S. Ambassador Julie Chung says Sri Lanka’s adoption of the controversial Online Safety Bill sends a negative signal in Sri Lanka’s path towards reform and recovery, when major global tech companies characterize the bill as “unworkable” and stifling innovation and democracy, instead of actually addressing online crimes.
-
-She also emphasised that in order improve Sri Lanka’s business climate, the government of Sri Lanka, while carrying out reforms, must also make its people aware of these reforms in a ‘clear manner’.
-
-Addressing the Amcham XO Forum “75 years and Beyond: U.S. – Sri Lankan Business Relations in 2024”, Ambassador Chung highlighted that while it is imperative that the Sri Lankan government carries out reforms, “it’s also important to explain those reforms to the people in a clear manner”.
-
-She admitted that while this process inevitably makes for slower legislation, it results in good legislation and reforms.
-
-...
-
-[Data](articles/1308f6b9.json)
-
-[Extended Data](ext_articles/1308f6b9.ext.json)
-
----
-
-### CEB to introduce new services and installment payment plans
-
-*2024-01-31 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/96893/ceb-to-introduce-new-services-and-installment-payment-plans-) · `en`
-
-The Ceylon Electricity Board (CEB) has decided to introduce payment plans for new connections, Minister of Power and Energy Kanchana Wijesekera revealed.
-
-Taking to ‘X’ (formerly Twitter), Minister Wijesekera stated that the decision was taken at a meeting held with officials of the CEB and the Ceylon Petroleum Corporation (CPC) at the Ministry’s premises on Tuesday (30 Jan.).
-
-Accordingly, it was decided to introduce payment plans not only for new connections, but also for other services obtained by consumers from the CEB.
-
-The Minister further noted that the CEB management will thus notify its consumers of the new services and installment payment plans that will be made available for its consumers.
-
-The meeting also focused on the power generation plans for this year, tariffs, costing of other services, oil pricing for power generation, weather forecasting and upgrading the facilities of the CEB’s system control unit.
-
-◼️
-
-[Data](articles/fa52e49a.json)
-
-[Extended Data](ext_articles/fa52e49a.ext.json)
-
----
-
-### President reveals plans to establish research institute for Theravada Buddhism
-
-*2024-01-31 18:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96892/president-reveals-plans-to-establish-research-institute-for-theravada-buddhism) · `en`
-
-President Ranil Wickremesinghe emphasized that the foundation of a nation’s economy lies in fostering an enlightened and cultured society.
-
-He made these remarks during the inauguration of the new building complex at the Kelaniya University Postgraduate Institute of Pali and Buddhist Studies this morning (31 Jan.).
-
-The President underscored Sri Lanka’s pivotal role as the heart of Theravada Buddhism, expressing the nation’s duty to delve deeper into the Dharma and share its wisdom globally. Highlighting plans for the future, he announced the intention to establish a research institute dedicated to Theravada Buddhism, recognizing the potential of such institutions to propagate the teachings and strengthen ties between Buddhist nations.
-
-...
-
-[Data](articles/b9033bcb.json)
-
-[Extended Data](ext_articles/b9033bcb.ext.json)
-
----
-
-### Remove Daya Rathnayake from SJB or face consequences: SF tells Sajith
-
-*2024-01-31 18:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Remove-Daya-Rathnayake-from-SJB-or-face-consequences-SF-tells-Sajith/108-276058) · `en`
-
-Colombo, Jan. 31 (Daily Mirror)- Samagi Jana Balawegaya (SJB) MP Sarath Fonseka yesterday urged SJB leaders Sajith Premadasa to remove former Army Commander Daya Ratnayake from the party claiming that party would have to face consequences otherwise.
-
-He said most of the high ranking army officials who are partial to the SJB called him and expressed their disappointment over the appointment.
-
-When asked what action he would take if Ratnayake was not removed, Fonseka said he would not leave the party but would have to work against the appointment.
-
-Field Marshal Fonseka told journalists that others in the party are also frustrated about the way new comers are accommodated in the SJB.
-
-"Even SJB General Secretary Ranjith Madduma Bandara accepted that Daya Ratnayake is not a person whom the SJB should welcome.," he said.
-
-...
-
-[Data](articles/060b63f4.json)
-
-[Extended Data](ext_articles/060b63f4.ext.json)
-
----
-
-### Five persons arrested during ‘Satyagraha’ in front of CID
-
-*2024-01-31 18:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96891/five-persons-arrested-during-satyagraha-in-front-of-cid-) · `en`
-
-Five civil society activists have been arrested while staging a ‘Satyagraha’ campaign in front of the Criminal Investigations Department (CID) today (31 Jan.) demanding the arrest of former Health Minister Keheliya Rambukwella.
-
-Unions and civil society organisations staged a ‘Satyagraha’ campaign today, demanding that the former Health Minister be arrested over his alleged involvement in the controversial import of substandard medicines.
-
-Rambukwella was due to appear before the CID today, however had failed to do so on account of having to appear before the Colombo High Court over another case. Thus, the Minister had requested the CID for a different date, Ada Derana learns.
-
-Meanwhile, Additional Secretary to the Ministry of Health Dr. Saman Ratnakaye was also summoned before the CID today to record a statement. He was subsequently arrested and produced before the Maligakanda Magistrate’s Court.
-
-◼️
-
-[Data](articles/1977e123.json)
-
-[Extended Data](ext_articles/1977e123.ext.json)
-
----
-
-### Five suspects arrested in Keheliya Go village
-
-*2024-01-31 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192807) · `si`
-
-Police have arrested five civil organizer activists, "Keheliya Go Ram Gamaya" in front of the Criminal Investigations Department to arrest Keheliya Rambukwella.
-
-They opposed the matter with regard to the drug emnanglobulin medicine.
-
-The Bribery Corruption was established against the waste of corruption and the People's Organizations in front of the Colombo CID today (31).
-
-Meanwhile, the Attorney General has reportedly informed the Criminal Investigation Department to receive statements to the second time in the case of the questionable antibodies of the questionable output vaccine.
-
-Investigations officers had informed the former Minister of Health in today's criminal investigation into the Department today.
-
-However, Minister Keheliya Rambukwella today questioned the Colombo High Court Complex today for another cases.
-
-Meanwhile, Minister Keheliya Rambukwella has announced that Minister Keheliya Rambukwella has not been able to appear before the CID today.
-
-...
-
-[Data](articles/cf69f455.json)
-
-[Extended Data](ext_articles/cf69f455.ext.json)
 
 ---

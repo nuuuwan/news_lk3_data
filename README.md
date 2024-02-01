@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 07:40:43**
+As of **2024-02-01 07:53:03**
 
 ## Newspaper Stats
 
-*Scraped **3,979** Articles*
+*Scraped **3,981** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 248
 dailyftlk | 257
 adalk | 350
 virakesarilk | 440
-adaderanasinhalalk | 455
+adaderanasinhalalk | 457
 adaderanalk | 498
 tamilmirrorlk | 504
 dailymirrorlk | 545
@@ -26,11 +26,57 @@ dailymirrorlk | 545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,979 (100.0%) of 3,979 articles have been extended.
+3,981 (100.0%) of 3,981 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### Health strike begins
+
+*2024-02-01 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192817) · `si`
+
+According to the National Movement of Health Professionals (01), 72 health care societies will commence today.
+
+They recently engaged in various trade union action asking for the doctors to increase the Dat allowance that was decided to increase Rs. 35,000.
+
+Authorities agreed to discuss their demands and agree to solutions, but it has not been solved.
+
+The Convener of the Movement Ravi Ravi Kudmith said that the health staff on the island is launched from 6.30 am.
+
+However, the President of the All Ceylon Nursing Union is not joining the strike.
+
+Meanwhile, the General Secretary of the Joint Health Services Union Suralmananda said that the strike is not a strike on a just cause.
+
+◼️
+
+[Data](articles/b5c418f1.json)
+
+[Extended Data](ext_articles/b5c418f1.ext.json)
+
+---
+
+### Heavy rains in several areas
+
+*2024-02-01 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192816) · `si`
+
+Several spells of showers may occur in the Eastern and Uva provinces, Mullaitivu, Matale and Polonnaruwa districts.
+
+At the rest of the island. Showers or thundershowers will occur at several places about 2.00.
+
+Some locations in the Central and Sabaragamuwa Province and in some places in the Galle and Matara Districts. Heavy rains can occur about 75 times.
+
+In some places in the Central and Sabaragamuwa Province, some locations are expected in the morning in some places in the Galle and Matara districts.
+
+Minimizing temporary winds and lightning accidents with thunderstorms
+
+◼️
+
+[Data](articles/4f7d5c70.json)
+
+[Extended Data](ext_articles/4f7d5c70.ext.json)
+
+---
 
 ### Govt. misleading international community re: anti-corruption action?
 
@@ -1997,43 +2043,5 @@ It is noteworthy that Attorney N. Sivanjith Ishattharani N Mathivathanan appeare
 [Data](articles/c623e32c.json)
 
 [Extended Data](ext_articles/c623e32c.ext.json)
-
----
-
-### Health aspects of tomorrow
-
-*2024-01-31 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192800) · `si`
-
-72 health secular trade unions will launch a strike tomorrow (01) at the country's wide strike tomorrow.
-
-Seven health sector trade unions, except doctors, is planning to continue in the strike tomorrow at 6.30 am tomorrow.
-
-◼️
-
-[Data](articles/c9fc6595.json)
-
-[Extended Data](ext_articles/c9fc6595.ext.json)
-
----
-
-### Health sector trade unions to launch strike tomorrow
-
-*2024-01-31 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/96890/health-sector-trade-unions-to-launch-strike-tomorrow) · `en`
-
-At least 72 health sector trade unions, excluding doctors’ unions, will launch an island-wide strike from 6.30 a.m. tomorrow (01 February), demanding the Disturbance, Availability and Transport (DAT) allowance.
-
-Although the President had promised to hold talks with them regarding the allowances, soon after returning from his recent official overseas tour, the health workers said they have yet to meet with the Head of State for discussions.
-
-However, the All Ceylon Nurses’ Union has decided not to join the strike action to be launched jointly with over 72 health sector trade unions on Thursday.
-
-The members of the union stated this, after meeting the Chief Prelate (Mahanayake Thero) of the Malwathu Chapter regarding the current situation of the health sector.
-
-Commenting further regarding the matter, the All Ceylon Nurses’ Union alleged that this decision was taken since the planned strike action is a conspiracy by the government.
-
-...
-
-[Data](articles/ef314c6e.json)
-
-[Extended Data](ext_articles/ef314c6e.ext.json)
 
 ---

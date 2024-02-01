@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 13:02:28**
+As of **2024-02-01 13:17:16**
 
 ## Newspaper Stats
 
-*Scraped **4,058** Articles*
+*Scraped **4,059** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ bbccomsinhala | 63
 dbsjeyarajcom | 131
 islandlk | 220
 economynextcom | 228
-dailyftlk | 257
 newsfirstlk | 258
+dailyftlk | 258
 adalk | 355
 virakesarilk | 453
 adaderanasinhalalk | 468
@@ -26,25 +26,27 @@ dailymirrorlk | 556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,055 (99.9%) of 4,058 articles have been extended.
+4,058 (100.0%) of 4,059 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
 
-### நன்னடத்தை பாடசாலை சிறுவன் மர்ம மரணம் ; மேற்பார்வையாளரான பெண்ணிற்கு மீண்டும் 14 நாட்கள்  விளக்கமறியல்
+### Mysterious death of a school boy;14 days of explanation for the supervisor woman again
 
 *2024-02-01 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/175304) · `ta`
 
-நன்னடத்தை பாடசாலையில்  உயிரிழந்த சிறுவனின் மரணம் தொடர்பில் கைதான அப்பாடசாலையின் மேற்பார்வையாளரான பெண்ணை 14 நாட்கள் விளக்கமறியலில்   வைக்குமாறும் அது  தொடர்பான  வழக்கு எதிர்வரும் பெப்ரவரி மாதம் 13 ஆம் திகதி வரை மறு விசாரணைக்காக ஒத்தி வைக்குமாறு கல்முனை நீதிவான் நீதிமன்று உத்தரவிட்டுள்ளது.
+The Kalmunai Magistrate has ordered the postponement of the case to be remanded for 14 days, and the case was postponed until February 13.
 
-அம்பாறை மாவட்டம்  கல்முனை தலைமையக பொலிஸ் பிரிவிற்குட்பட்ட சிறுவர் நன்னடத்தை பாடசாலையில் தங்க வைக்கப்பட்ட நிலையில் உயிரிழந்த சிறுவனின் மரணம் தொடர்பில் அப்பாடசாலையின் மேற்பார்வையாளரான பெண்  சந்தேகத்தில் கல்முனை தலைமையக பொலிஸாரால்  கைது செய்யப்பட்ட பின்னர் புதன்கிழமை (31) மீண்டும் கல்முனை நீதிமன்ற நீதிவான் எம்.எஸ்.எம் சம்சுதீன் முன்னிலையில் ஆஜர்படுத்தப்பட்ட போதே மேற்கண்டவாறு உத்தரவிட்டார்.
+Kalmunai Magistrate MSM Samsudheen was again ordered to appear again on Wednesday (31st) after the suspicion of the police superintendent of the school was arrested by the Kalmunai headquarters in connection with the death of a boy who was placed in the Children's Probation School in the Kalmunai Headquarters Division of the Ampara District.
 
-குறித்த வழக்கு விசாரணைக்கு  எடுத்து கொள்ளப்பட்ட நிலையில் பொலிஸார் மற்றும் பிரதிவாதியின் சட்டத்தரணி ஆகியோரின் விண்ணப்பங்கள் ஆராயப்பட்டு 28 வயதுடைய  குறித்த பாடசாலையின் மேற்பார்வையாளரான பிறின்ஸி புலேந்திரன் என்பவரை மீண்டும்  விளக்கமறியலில் வைக்குமாறு உத்தரவிடப்பட்டமை குறிப்பிடத்தக்கது.
+The applications of the police and the defendant's lawyer have been investigated as the case has been taken up and ordered to be remanded again, Supervisor of the 28 -year -old school.
 
 ◼️
 
 [Data](articles/8d8266aa.json)
+
+[Extended Data](ext_articles/8d8266aa.ext.json)
 
 ---
 
@@ -60,23 +62,31 @@ Accordingly, all liquor-selling establishments will close at 10:00 p.m. on 03 Ja
 
 [Data](articles/a3f7952c.json)
 
+[Extended Data](ext_articles/a3f7952c.ext.json)
+
 ---
 
-### அச்சத்தை ஏற்படுத்தும் இலங்கையின்  நிகழ்நிலை பாதுகாப்பு சட்டம் - அரசாங்கத்தை விமர்சிப்பவர்களை  மௌனமாக்குவதற்கான சாதனம் என குற்றச்சாட்டு
+### Sri Lanka's Framework Protection Act
 
 *2024-02-01 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/175302) · `ta`
 
-இலங்கையில் இணையவழி  உள்ளடக்கங்களை ஒழுங்குபடுத்துவதற்கான  திருத்தப்பட்ட சட்டமூலம் சர்ச்சைக்குரிய விதத்தி;ல் நிறைவேற்றப்பட்டமை எதிர்வரும் தேர்தல்காலத்திலும் அதன் பின்னரும் அரசாங்கம் தன்னை விமர்சிப்பவர்களை இலக்குவைக்கும் நடவடிக்கைகளில்  ஈடுபடலாம் என்ற அச்சத்தை ஏற்படுத்தியுள்ளது.
+The passing of the amended bill to regulate enemy contents in Sri Lanka has led to fears that the government may be targeted by the critics in the coming election and after the next election.
 
-கடந்த செப்டம்பரில் முதன்முதலில் முன்வைக்கப்பட்ட நிகழ்நிலை பாதுகாப்பு சட்டமூலம் கடந்த புதன்கிழமை நாடாளுமன்றத்தில் நிறைவேற்றப்பட்ட நிலையில் மனித உரிமை அமைப்புகள் பாரிய தொழில்நுட்ப நிறுவனங்கள் போன்றவை இதனை கடுமையாக எதிர்த்துள்ளன.
+Human rights organizations and massive technology organizations have vehemently opposed this as the first present -day event protection Bill was passed in Parliament last September.
 
-அரசாங்கம் இந்த சட்டமூலத்தை நிறைவேற்றுவதில் காட்டும் ஆர்வத்தை  அவதானிக்கும்போது அரசாங்கம் கருத்து சுதந்திரத்தை ஒடுக்குவதற்கான நடவடிக்கைகளில் ஈடுபடுகின்றது என்ற அச்சம் ஏற்பட்டுள்ளது என அவர்கள் தெரிவித்துள்ளனர்.
+They say that the government is worried that the government is engaged in the process of suppressing freedom of expression while observing the passage of the bill.
 
-அரசாங்கம் துரிதமாக சட்டமூலத்தை நடைமுறைப்படுத்த விரும்பியதால்   இரண்டு நாள் விவாதத்தின் பின்னர்இ;டம்பெற்ற  ;வாக்களிப்பில் கலந்துகொண்ட 225 நாடாளுமன்ற உறுப்பினர்களில் 108 பேர் சட்டமூலத்திற்கு ஆதரவாக வாக்களித்தனர்.62 பேர் இதனை  எதிர்த்தனர்.
+After a two -day debate as the government wanted to implement the Bill, 108 out of 225 MPs who participated in the vote voted in favor of the Bill.
+
+This group, which is formed by a five -year -old e -commerce team under this law, has the powers to punish those who are involved in enemy crimes.. The committee may be fined Rs.
+
+They can also take action against companies like Google Facebook Twitter to publish content on their social media.
 
 ...
 
 [Data](articles/2ec8c3bc.json)
+
+[Extended Data](ext_articles/2ec8c3bc.ext.json)
 
 ---
 
@@ -212,15 +222,15 @@ The law is released from the clutches of the law but has not yet been released f
 
 *2024-02-01 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96909/sri-lanka-records-over-200000-tourists-arrivals-in-january) · `en`
 
-Sri Lanka has recorded over 200,000 tourist arrivals within the first month year, according to the Sri Lanka Tourism Development Authority (SLTDA).
+Sri Lanka has recorded over 200,000 tourist arrivals in January this year, according to the Sri Lanka Tourism Development Authority (SLTDA).
 
-A total of 201,687 tourists have visited the island from 01 - 30 January, out of which more than 31,000 were Indian nationals, and over 28,000 were Russian nationals.
+As per official figures, a total of 201,687 tourists visited the island from 01 - 30 January, out of which more than 31,000 were Indian nationals, and over 28,000 were Russian nationals.
 
-Although a majority of the tourists were Russian and Indian nationals, as per SLTDA’s official figures, Germans, Americans, British, Australian, Chinese, French, Polish and the Dutch tourists, too, were amongst those arrivals.
+Although a majority of the tourists were Russian and Indian nationals, as per SLTDA’s official figures, Germans, Americans, British, Australian, Chinese, French, Polish and Dutch tourists, too, were among those arrivals.
 
-Over the course of 2023, Sri Lanka saw more than 1.48 million (1,487,303) tourist arrivals, with December recording the highest monthly figure which stood at 210,352.
+Throughout 2023, Sri Lanka saw more than 1.48 million (1,487,303) tourist arrivals, with December recording the highest monthly figure which stood at 210,352.
 
-Meanwhile, 50,000 foreign tourists in total have visited the Lotus Tower within 16 months since it was declared open for the public in September 2022, Director Major General (Retd.) Prasad Samarasinghe, the Director and CEO of Colombo Lotus Tower Management Company (Pvt) Ltd. said.
+Meanwhile, 50,000 foreign tourists in total have visited the Lotus Tower within 16 months since it was declared open for the public in September 2022, said Major General (Retd.) Prasad Samarasinghe, the Director and CEO of Colombo Lotus Tower Management Company (Pvt) Ltd.
 
 ...
 
@@ -462,7 +472,7 @@ Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
 
 *2024-02-01 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/96907/online-safety-bill-to-come-into-effect-from-today) · `en`
 
-Parliament Speaker Mahinda Yapa Abeywardena has endorsed the Online Safety Bill, and it will be brought into effect from today (01 Feb.).
+Speaker of Parliament Mahinda Yapa Abeywardena has endorsed the Online Safety Bill, and it will be brought into effect as the Online Safety Act No.9 of 2024.
 
 The legislation which seeks to regulate online content was passed in Parliament, with amendments, on 24 January, amidst objections from opposition politicians and activists who allege the new law will muzzle free speech.
 
@@ -470,7 +480,7 @@ The controversial Bill garnered not only the attention of local activists and or
 
 The Sri Lankan government says the Online Safety Bill, published in the government gazette on 18 September, aims to ban online communication of certain statements in the country, prevent the use of online accounts – both authentic and inauthentic – for the use of prohibited purposes, to suppress the financing and other support of communication of false statements and other related matters.
 
-◼️
+...
 
 [Data](articles/3c0be9f6.json)
 
@@ -702,15 +712,11 @@ The decision was reached to ensure that functions at hospitals are not disrupted
 
 *2024-02-01 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96906/tri-forces-personnel-deployed-to-hospitals-amidst-health-strike) · `en`
 
-Tri-force personnel have been deployed to the hospitals across the country today (Feb.01) amidst the ongoing health strike, depending on the requirements at each facility.
+In response to the island-wide strike by trade unions in the health sector, tri-force personnel have been deployed to the state hospitals across the country today (Feb.01) the ongoing health strike, depending on the requirements at each facility.
 
-Defence Ministry said the decision was taken to ensure that daily hospital functions remain uninterrupted by the ongoing strike launched by health sector workers over allowances.
+Defence Ministry said the decision was taken to make sure that daily hospital functions are not disrupted by the ongoing strike launched by health sector workers over allowances.
 
-Health services have reportedly been crippled at hospitals after 72 health sector trade unions launched an island-wide strike at 6.30 a.m. today to urge the government to address the issues concerning allowances without delay.
-
-It is understood that the doctors’ unions and the All Ceylon Nurses’ Union have not joined the strike action. However, they have vowed to resort to a trade union action if no response is received to their suggestions and demands.
-
-On January 08, the Cabinet of Ministers approved President Ranil Wickremesinghe’s proposal to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000.
+Sri Lanka Army said it has dispatched its troops to the National Hospital of Sri Lanka (NHSL), National Eye Hospital, Dental Hospital Colombo, Homagama Base Hospital, Kalubowila Teaching Hospital, Mirigama Base Hospital, District General Hospital Avissawella, Kurunegala Teaching Hospital and a number of other state health facilities for uninterrupted provision of essential medical services to the public.
 
 ...
 
@@ -1508,6 +1514,20 @@ The Daily FT of 23 January 2024 published a report regarding a meeting the Minis
 
 ### Birthday tribute to Krishantha
 
+*2024-02-01 05:01:58* · [`dailyftlk`](https://www.ft.lk/columns/Birthday-tribute-to-Krishantha/4-758030) · `en`
+
+Many have been my blessings over the past 15 years after a fresh lease of life afforded me in 2008. Spending quality time with my family including my grandchild more recently as well as attending spiritual retreats, with the latest ending on Australia Day long weekend, have been standouts.
+
+Retreats are a time to reflect on life and the mysterious workings of God in one’s life. It was definitely the mercy of God that afforded me a fresh lease of life after my abductors were hell-bent on literally silencing me after torture. God works on earth through angelic as well as human beings through their acts of goodness – the essence of God. At Christmas, the angels announced, “Glory to God on high and peace to men of goodwill”. Hence, a good person irrespective of their faith is already inclined towards God.
+
+...
+
+[Data](articles/1ed3b710.json)
+
+---
+
+### Birthday tribute to Krishantha
+
 *2024-02-01 05:01:58* · [`dailyftlk`](https://www.ft.lk/opinion/Birthday-tribute-to-Krishantha/14-758030) · `en`
 
 Many have been my blessings over the past 15 years after a fresh lease of life afforded me in 2008. Spending quality time with my family including my grandchild more recently as well as attending spiritual retreats, with the latest ending on Australia Day long weekend, have been standouts.
@@ -1662,9 +1682,9 @@ Participants will gain insights into strategies for addressing economic vulnerab
 
 *2024-02-01 04:39:42* · [`dailyftlk`](https://www.ft.lk/news/IOM-facilitates-ICAO-Traveller-Identification-Program-Strategy-training-for-immigration-officers/56-758014) · `en`
 
-The International Organization for Migration (IOM), in collaboration with the International Civil Aviation Organization (ICAO) training arm and the Sri Lanka Airport and Aviation Academy (SLAAA), facilitated training of 15 immigration officers attached to the Border Surveillance Unit (BSU) on ICAO Traveller Identification Program (TRIP) Strategy.
+From left: Course Development Officer Ajantha Dilrukshi, IOM National Program Officer   Tharindu Jayawardhane, Head of Civil Aviation Training  Krishantha Nimalaratne, DIE Chief Immigration Officer  C. M. Munasinghe, IOM Senior Project Coordinator  Sharuni Fernando  and Secretary (Course Development Unit)  P. C. J Kumari
 
-The primary objective of this training was to deliver an ICAO accredited training course for immigration officers on the Traveller Identification Programme Strategy. Through the standardised curriculum delivered as part of the Sri Lanka Readmission Project, IOM aimed to enhance the department’s traveller identity management capabilities, better aligning them with international standards. By providing internationally recognised training, the programme sought to strengthen border governance and contribute towards the safe, orderly, and dignified return and readmission of migrants.
+The International Organization for Migration (IOM), in collaboration with the International Civil Aviation Organization (ICAO) training arm and the Sri Lanka Airport and Aviation Academy (SLAAA), facilitated training of 15 immigration officers attached to the Border Surveillance Unit (BSU) on ICAO Traveller Identification Program (TRIP) Strategy.
 
 ...
 
@@ -2101,27 +2121,5 @@ He said that they were threatened to apologize to the Senior Attorney General an
 [Data](articles/b87a8735.json)
 
 [Extended Data](ext_articles/b87a8735.ext.json)
-
----
-
-### Immunoglobulin scandal: Keheliya asks for alternative date from CID
-
-*2024-01-31 21:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Immunoglobulin-scandal-Keheliya-asks-for-alternative-date-from-CID/108-276076) · `en`
-
-Colombo, Jan 31 (Daily Mirror) - In the wake of former Health Minister Keheliya Rambukwella failing to appear before the Criminal Investigation Department (CID) this morning, the former Minister has submitted a written plea requesting the CID to grant him another date to provide a statement.
-
-The Minister, through the formal communication, has emphasized the importance of arranging an alternative date for the investigation to proceed smoothly.
-
-In a statement, the Minister has assured authorities of his fullest cooperation and support for future investigative efforts.
-
-In addition, a statement was recorded from Dr. Saman Ratnayake, the Additional Secretary of the Ministry of Health today (31).
-
-With regard to the ongoing investigations related to the substandard Immunoglobulin scandal, several officials including former the Health Secretary and the Director of the Medical Supplies Division are currently in remand custody.
-
-◼️
-
-[Data](articles/5c4f31b5.json)
-
-[Extended Data](ext_articles/5c4f31b5.ext.json)
 
 ---

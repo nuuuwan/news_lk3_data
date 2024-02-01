@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 12:17:16**
+As of **2024-02-01 12:32:52**
 
 ## Newspaper Stats
 
-*Scraped **4,034** Articles*
+*Scraped **4,036** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 221
 newsfirstlk | 250
 dailyftlk | 257
 adalk | 355
-virakesarilk | 449
+virakesarilk | 451
 adaderanasinhalalk | 467
 adaderanalk | 507
 tamilmirrorlk | 513
@@ -26,11 +26,51 @@ dailymirrorlk | 553
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,034 (100.0%) of 4,034 articles have been extended.
+4,036 (100.0%) of 4,036 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### Jaffna youth who was receiving treatment. Teaching Hospital
+
+*2024-02-01 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175301) · `ta`
+
+A young man who was traveling on a speeding motorcycle and receiving treatment was died on Wednesday (31).
+
+The deceased is the young man named B.Abisagan (age 20) from Kilinochchi - Uttuppulam area.
+
+The young man was traveling on a motorcycle on the 26th and lost control of the motorcycle speed and crashed into. He did not wear helmets at this time.
+
+He was rescued and admitted to the Kilinochchi Hospital and later taken to the Jaffna Teaching Hospital for further treatment and died today without treatment.
+
+Sudden Death Investigation Officer Namasivayam Premkumar. The body was handed over to relatives after anatomical examination.
+
+◼️
+
+[Data](articles/67f105a9.json)
+
+[Extended Data](ext_articles/67f105a9.ext.json)
+
+---
+
+### Youth arrested with large numbers of drugs in Jaffna
+
+*2024-02-01 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175296) · `ta`
+
+A man who had owned drug pills was arrested by the police on Wednesday (01).
+
+Police said more than two thousand drugs were seized from the arrested person.
+
+Police said that the man was arrested in the area near the Jaffna city and is being held at the police station and is conducting further investigations.
+
+◼️
+
+[Data](articles/1a4f3d42.json)
+
+[Extended Data](ext_articles/1a4f3d42.ext.json)
+
+---
 
 ### Republican lawmaker nominates Trump for Nobel Peace Prize for ‘historic’ Middle East policy
 
@@ -49,6 +89,24 @@ New York representative Claudia Tenney said in a statement that she decided to n
 [Data](articles/13506505.json)
 
 [Extended Data](ext_articles/13506505.ext.json)
+
+---
+
+### Even though we are released from the clutches of the law, we are still in prison;Murugan Robertbayas letter to Tamil Nadu Chief Minister - indefinite fasting!
+
+*2024-02-01 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175291) · `ta`
+
+Murugan Robert Robert Bias Akhiyor has sent a letter to the Chief Minister of Tamil Nadu that he is going to engage in an indefinite hunger strike claiming that rights and sentiments are being taken away in the Trichy special camp.
+
+“We have been acquitted by the Supreme Court almost a year ago as he has been jailed for more than 32 years in the murder of former Prime Minister Rajiv Gandhi.
+
+The law is released from the clutches of the law but has not yet been released from prison. Were imprisoned in another prison called Special Camp. Robert Bias Jayakumar and Shantan Murugan are also stuffed at a special camp in Trichy. The so -called special camp is more cruel than prison. I couldn't walk here or see friends.
+
+...
+
+[Data](articles/d569be20.json)
+
+[Extended Data](ext_articles/d569be20.ext.json)
 
 ---
 
@@ -171,24 +229,6 @@ Accordingly, under the directives of the Commander of the Army Lt. General Vikum
 [Data](articles/1530edcd.json)
 
 [Extended Data](ext_articles/1530edcd.ext.json)
-
----
-
-### Even though we are released from the clutches of the law, we are still in prison;Murugan Robertbayas letter to Tamil Nadu Chief Minister - indefinite fasting!
-
-*2024-02-01 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175291) · `ta`
-
-Murugan Robert Robert Bias Akhiyor has sent a letter to the Chief Minister of Tamil Nadu that he is going to engage in an indefinite hunger strike claiming that rights and sentiments are being taken away in the Trichy special camp.
-
-“We have been acquitted by the Supreme Court almost a year ago as he has been jailed for more than 32 years in the murder of former Prime Minister Rajiv Gandhi.
-
-The law is released from the clutches of the law but has not yet been released from prison. Were imprisoned in another prison called Special Camp. Robert Bias Jayakumar and Shantan Murugan are also stuffed at a special camp in Trichy. The so -called special camp is more cruel than prison. I couldn't walk here or see friends.
-
-...
-
-[Data](articles/d569be20.json)
-
-[Extended Data](ext_articles/d569be20.ext.json)
 
 ---
 
@@ -2093,49 +2133,5 @@ National Geographic announced their picks for BEST OF THE WORLD 2024, the brand�
 [Data](articles/634d12ae.json)
 
 [Extended Data](ext_articles/634d12ae.ext.json)
-
----
-
-### Edtech for marginalised children in Sri Lanka: Insights from MENA and other Asian countries
-
-*2024-01-31 20:33:00* · [`islandlk`](http://island.lk/edtech-for-marginalised-children-in-sri-lanka-insights-from-mena-and-other-asian-countries/) · `en`
-
-Written for International Day of Education on 24 January 2024.
-
-This blog explores how technological resources can help fill gaps in access and reduce inequalities in education in Sri Lanka.
-
-Despite the recent uptake of educational technology (edtech) in Sri Lanka, it does not cater to the needs of diverse groups of vulnerable children in the country.
-
-Evidence from MENA and Asia reveals the importance of targeted edtech initiatives in ensuring inclusiveness in education in Sri Lanka.
-
-The COVID-19 pandemic and the ongoing economic crisis have resulted in over two years of learning loss in Sri Lanka, with its effects being more on vulnerable children due to the gaps in inclusiveness in education.
-
-Access to inclusive and equitable quality education is a fundamental human right. It is crucial for achieving developmental goals like ending poverty and helping people move up in society.
-
-...
-
-[Data](articles/d3942706.json)
-
-[Extended Data](ext_articles/d3942706.ext.json)
-
----
-
-### Three weightlifters for Asian Continental Meet
-
-*2024-01-31 20:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-weightlifters-for-Asian-Continental-Meet/108-276061) · `en`
-
-Colombo, Jan. 31 (Daily Mirror) - Sri Lanka will field a three-member squad for the Asian Weightlifting Continental Championship, which will be held from February 3 to 10 at the Yunusabad Sports Complex in Tashkent, Uzbekistan.
-
-The event is conducted by the Asian Weightlifting Federation and all three Sri Lankan weightlifters are hoping to qualify for the Paris Olympic Games later this year.
-
-Over 100 competitors are set to participate in this championship. Two international-level weightlifters Hansani Gomes (49kg) and Chathurika Priyanthi (87kg) will compete in the Women’s category while Indika Dissanayaka (73kg) will participate in the Men’s category, National Coach R. B. Wickramasinghe revealed.
-
-The Asian Weightlifting Continental Championship is the penultimate qualifying event for the Paris Olympic Games and the final qualifying event will be the IWF World Cup from March 31 to April 11 in Phuket, Thailand.
-
-...
-
-[Data](articles/ec2c17fc.json)
-
-[Extended Data](ext_articles/ec2c17fc.ext.json)
 
 ---

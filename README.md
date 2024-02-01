@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 13:51:54**
+As of **2024-02-01 14:02:29**
 
 ## Newspaper Stats
 
-*Scraped **4,072** Articles*
+*Scraped **4,075** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 228
 newsfirstlk | 258
 dailyftlk | 258
 adalk | 358
-virakesarilk | 454
-adaderanasinhalalk | 470
+virakesarilk | 455
+adaderanasinhalalk | 472
 adaderanalk | 509
 tamilmirrorlk | 519
 dailymirrorlk | 556
@@ -26,11 +26,69 @@ dailymirrorlk | 556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,065 (99.8%) of 4,072 articles have been extended.
+4,075 (100.0%) of 4,075 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### Women's Big Bash Star in Year Chamari Atapattu
+
+*2024-02-01 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192832) · `si`
+
+The Annual Cricket Awards ceremony organized by the Australian Cricket was held yesterday (31).
+
+Alan Board award won the best cricketer of the year 2023.
+
+Ashley Gardner was awarded the best cricketer of 2023 at this year's awards ceremony.
+
+Meanwhile, Chamari Atapattu won the award for the women's Big Bash League at 2023 in the year 2023.
+
+◼️
+
+[Data](articles/6ba8ffd1.json)
+
+[Extended Data](ext_articles/6ba8ffd1.ext.json)
+
+---
+
+### A man's body recovered from Hikkaduwa area
+
+*2024-02-01 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175300) · `ta`
+
+The body of a man has been found in the room of a hotel in Hikkaduwa, Vewala, police said.
+
+Investigations have begun after the hostel management informed the Hikkaduwa police on Wednesday evening (31st) evening as there was no information from the person.
+
+Subsequently, when the police and hostel staff opened the window of the hotel room where the man was staying, it was revealed that he had died of blood injuries.
+
+◼️
+
+[Data](articles/aa44c143.json)
+
+[Extended Data](ext_articles/aa44c143.ext.json)
+
+---
+
+### Revenge in the police
+
+*2024-02-01 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192831) · `si`
+
+Former Assistant Superintendent of Police in Ambalangoda. The Supreme Court yesterday (31) had decided that four police officers including Amarasiri and four police officers have violated the basic human rights of a police constable.
+
+Police Constable PDA, who served in the Kosgoda Police, as revealed to be obeunded without obeying the suspects to release several drug charges.. They were charged with false charges on false charges against Mr. Panapitiya and his wife was arrested and detained.
+
+Accordingly, the petitioner is Rs. 20 lakhs to pay Rs.. The OIC of Amarasiri, Evak Kosgoda Police, Mangala De Zoysa, OIC Asela Preman de Silva and Police Sergeant Indika Indika de Silva were ordered.
+
+The Supreme Court ordered the petitioner of Rs. 25,000 to the petitioner to pay Rs.
+
+◼️
+
+[Data](articles/8875e913.json)
+
+[Extended Data](ext_articles/8875e913.ext.json)
+
+---
 
 ### 2023 A/L exam paper-marking gets underway
 
@@ -50,27 +108,33 @@ However, the students are facing the A/L examination’s Agricultural Science qu
 
 [Data](articles/b4d7112e.json)
 
+[Extended Data](ext_articles/b4d7112e.ext.json)
+
 ---
 
-### சம்பளத்தை அதிகரிக்க அரசாங்கம் நடவடிக்கை
+### Government action to increase salary
 
 *2024-02-01 12:52:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளத்தை-அதிகரிக்க-அரசாங்கம்-நடவடிக்கை/175-332475) · `ta`
 
-திறந்த மற்றும் பொறுப்புக்கூறல் அரசாங்கத்திற்கான துறைசார் மேற்பார்வைக் குழு தனியார் துறை ஊழியர்களின் சம்பளத்தை அதிகரிப்பதில் கவனம் செலுத்தியது.
+The Departmental Supervisory Committee for the Open and Accountability Government focused on increasing the salaries of private sector employees.
 
-பாராளுமன்ற உறுப்பினர் ஜகத் குமார சுமித்ராராச்சி தலைமையில் அண்மையில் பாராளுமன்றத்தில் குழு கூடிய போதே கலந்துரையாடலொன்று இடம்பெற்றுள்ளது.
+A discussion was held at a recent meeting in Parliament led by MP Jagath Kumara Sumitrarachi.
 
-இதற்கமைய, இன்றைய தினம் (01)  தொழிலாளர் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சு மற்றும் நுகர்வோர் சேவை அதிகாரசபையின் அதிகாரிகள் குழுவொன்று குழுவின் முன் அழைக்கப்பட்டது.
+Accordingly, today (01) was summoned by a committee of Labor and Foreign Employment and Consumer Service Authority.
 
-தனியார் துறை ஊழியர்களின் சம்பளப் பிரச்சினை தற்போது தீவிரமாக எழுப்பப்பட்டுள்ளதாக குழுவின் தலைவர் தெரிவித்தார். அதன்படி, அந்தத் துறை ஊழியர்களின் ஊதியத்தை அதிகரிப்பதில் தொழிலாளர் அமைச்சகத்தின் தலையீடு எப்படி இருக்கும் என்பது குறித்து அந்தக் குழுவிசாரித்தது.
+The chairman of the committee said that the salary issue of private sector employees is currently being raised. Accordingly, the committee addressed the intervention of the Labor Ministry in increasing the salaries of the department employees.
 
-மேலும், தனியார் துறையில் சுமார் 3 மில்லியன் சம்பளம் பெறும் ஊழியர்கள் மட்டுமே தொழிலாளர் சட்டத்தின் கீழ் உள்ளதாக தொழிலாளர் அமைச்சக அதிகாரிகள் தெரிவித்தனர்.
+In addition, only about 3 million employees in the private sector are under Labor Act, Labor Ministry officials said.
 
-இதன்படி, தனியார் துறை ஊழியர்களின் குறைந்தபட்ச சம்பளத்தை 12,500 ரூபாவில் இருந்து 21,000 ரூபாவாக அதிகரிக்க தொழில் அமைச்சு அதிகாரிகள் தெரிவித்துள்ளனர்.
+Accordingly, the Ministry of Labor has said that the minimum salary of private sector employees from Rs 12,500 to Rs 21,000.
+
+Officials told the team that the Ministry of Labor had proposed to increase the salaries of plantation workers from Rs 1000 to 1700 rupees.
 
 ...
 
 [Data](articles/58ddf5b7.json)
+
+[Extended Data](ext_articles/58ddf5b7.ext.json)
 
 ---
 
@@ -162,31 +226,35 @@ Accordingly, the OIC of the Criminal Investigation Department has asked the OIC 
 
 ---
 
-### தவணை முறையில் பணம் செலுத்த நடவடிக்கை
+### Action to pay to pay in installment mode
 
 *2024-02-01 12:21:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவணை-முறையில்-பணம்-செலுத்த-நடவடிக்கை/175-332474) · `ta`
 
-புதிய மின் இணைப்புகளுக்கு ஒரே நேரத்தில் பணம் செலுத்த முடியாத விண்ணப்பதாரர்களுக்கு தவணை முறையில் பணம் செலுத்துவதற்கு தேவையான நடவடிக்கைகளை எடுக்குமாறு மின்சார சபையிடம் மின்சாரம் மற்றும் எரிசக்தி அமைச்சர் கஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+Electricity and Energy Minister Kanjana Wijesekera has told the Electricity Board to take necessary steps to pay for applicants who cannot afford simultaneously for new power lines.
 
-மின்சார சபையின் எஞ்சிய சேவைகளுக்கு தவணை முறையில் பணம் செலுத்துவதற்கு வசதி செய்து தருமாறு பணிப்புரை விடுத்ததாகவும், இந்த வசதிகளை விரைவில் அறிவிக்க வேண்டும் என்றும் அமைச்சர் தெரிவித்தார்.
+The Minister said that the remaining services of the Electricity Board had been issued to make the installment of the installment and that the facilities should be announced soon.
 
-இதற்கமைய, இவ்வருட மின் உற்பத்தித் திட்டம், அட்டவணை, சேவைச் செலவுகள், மின்சார உற்பத்திக்குத் தேவையான எரிபொருளின் விலை, காலநிலை முன்னறிவிப்புக்கள் தொடர்பில் மின்சார சபையின் செயற்பாட்டுப் பிரிவுடன் கலந்துரையாடியதாக அமைச்சர் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+Accordingly, the Minister said that this year's power generation project, schedule, service costs, the cost of fuel for power generation and climate forecasts were discussed with the Electricity Board's Operations Unit.
 
 ◼️
 
 [Data](articles/c1cca855.json)
 
+[Extended Data](ext_articles/c1cca855.ext.json)
+
 ---
 
-### அனைத்து மதுபானக் கடைகளுக்கும் பூட்டு
+### Lock for all liquor stores
 
 *2024-02-01 12:18:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-மதுபானக்-கடைகளுக்கும்-பூட்டு/175-332473) · `ta`
 
-76 ஆவது சுதந்திர தினத்தை முன்னிட்டு ஞாயிற்றுக்கிழமை (04) அனைத்து மதுபானக் கடைகளும் மூடப்படும் என மதுவரித் திணைக்களம் தெரிவித்துள்ளது.
+All liquor stores will be closed on Sunday (04) to mark the 76th Independence Day, the Liquor Department said.
 
 ◼️
 
 [Data](articles/b4125bba.json)
+
+[Extended Data](ext_articles/b4125bba.ext.json)
 
 ---
 
@@ -322,23 +390,27 @@ Police said that the man was arrested in the area near the Jaffna city and is be
 
 ---
 
-### திடீரென உண்ணாவிரதத்தில் குதித்த முருகன், ராபர்ட் பயஸ்
+### Murugan, who suddenly jumped in fasting, Robert Bias
 
 *2024-02-01 11:16:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-உண்ணாவிரதத்தில்-குதித்த-முருகன்-ராபர்ட்-பயஸ்/175-332470) · `ta`
 
-திருச்சி சிறப்பு  முகாமில் தடுத்து வைக்கப்பட்டுள்ள முருகன், ராபர்ட் பயஸ் ஆகியோர்   உண்ணாவிரத போராட்டத்தில் ஈடுபடப் போவதாக தமிழக முதலமைச்சருக்கு கடிதம் அனுப்பி உள்ளனர்.
+Murugan and Robert Paes, who were detained at the Trichy special camp, have sent a letter to the Chief Minister of Tamil Nadu that they are going to engage in a hunger strike.
 
-"முன்னாள் பிரதமர் ராஜீவ் காந்தி கொலை வழக்கில் 32 ஆண்டுகளுக்கும் மேலாக சிறைவாசம் அனுபவித்து வந்த நிலையில்இ ஏறக்குறைய ஒன்றை ஆண்டுகளுக்கு முன்பு உச்ச நீதிமன்றத்தால் விடுதலை செய்யப்பட்டோம்.
+“We have been acquitted by the Supreme Court almost a year ago as he has been jailed for more than 32 years in the murder of former Prime Minister Rajiv Gandhi.
 
-சட்டத்தின் பிடியிலிருந்து விடுவிக்கப்பட்டாலும் இன்னும் சிறை கொட்டடியில் இருந்து விடுவிக்கப்படவில்லை. சிறப்பு முகாம் எனப்படும் மற்றொரு சிறையில் அடைத்தார்கள். திருச்சியில் உள்ள சிறப்பு முகாமில் ராபர்ட் பயஸ், ஜெயக்குமார், சாந்தன், முருகனும் அடைத்து வைக்கப்பட்டுள்ளோம்.
+The law is released from the clutches of the law but has not yet been released from prison. Were imprisoned in another prison called Special Camp. Robert Paes, Jayakumar, Shantan and Murugan are also stuffed in a special camp in Trichy.
 
-சிறப்பு முகாம் எனப்படுவது சிறையை விட கொடுமையானதாக இருக்கிறது. இங்கு நடைபயிற்சி செய்வதற்கோ நண்பர்களை பார்ப்பதற்கோ முடியவில்லை.
+The so -called special camp is more cruel than prison. I couldn't walk here or see friends.
 
-சிறைவாசிகளோடு பழகுவதற்கு கூட எந்தவித அனுமதியும் வழங்கப்படுவதில்லை. சிறப்பு முகாமில் அடைக்கப்பட்ட நாளில் இருந்து பல மாதங்கள் ஆரம்பத்தில் அறையிலேயே தங்க வைக்கப்பட்டதால் பல நோய்களுக்கு உள்ளாகி உள்ளனர்.
+No permission is granted to get used to being in prisoners. Many diseases have been suffered from the day when the special camp is staying in the room for several months.
+
+No permission has been granted even though we have asked for permission to walk to correct our health. We are sick.
 
 ...
 
 [Data](articles/24355da7.json)
+
+[Extended Data](ext_articles/24355da7.ext.json)
 
 ---
 
@@ -362,21 +434,25 @@ New York representative Claudia Tenney said in a statement that she decided to n
 
 ---
 
-### நிகழ்நிலை காப்புச் சட்டத்தில் சபாநாயகர் கையெழுத்திட்டார்
+### The Speaker signed the Ceremony Backup Act
 
 *2024-02-01 11:14:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிகழ்நிலை-காப்புச்-சட்டத்தில்-சபாநாயகர்-கையெழுத்திட்டார்/175-332469) · `ta`
 
-சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன, கடந்த வாரம் பாராளுமன்றத்தால் அங்கீகரிக்கப்பட்ட இணையவழி பாதுகாப்புச் சட்டமூலத்தின் சான்றிதழை  மஹிந்த யாப்பா அபேவர்தன சான்றுரைப்படுத்தியுள்ளார்.
+Speaker Mahinda Yapa Abeywardena has certified Mahinda Yapa Abeywardena's certificate of the Energy Security Bill approved by Parliament last week.
 
-அதற்கமைய, ஜனவரி மாதம் 23 மற்றும் 24ஆம் திகதிகளில் பாராளுமன்றத்தில் விவாதிக்கப்பட்டு திருத்தங்களுடன்  நிறைவேற்றப்பட்ட நிகழ்நிலைக் காப்புச் சட்டமூலத்தை சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன இன்றைய தினம்  (01) சான்றுரைப்படுத்தினார்.
+Accordingly, Speaker Mahinda Yapa Abeywardena testified today (01) of the Celebration Bill, which was discussed in Parliament on January 23 and 24.
 
-இதற்கமைய இந்தச் சட்டமூலம் 2024 ஆம் ஆண்டின் 9ஆம் இலக்க நிகழ்நிலைக் காப்புச் சட்டமாக நடைமுறைக்கு வருகிறது.
+Accordingly, the Bill is in effect as the Federation Act No. 9 of 2024.
 
-அத்துடன், பாராளுமன்றத்தில் விவாதித்து திருத்தங்களுடன் கடந்த ஜனவரி மாதம் 09ஆம் திகதி நிறைவேற்றப்பட்ட தேசிய நீரளவை சட்டமூலம் மற்றும் ஜனவரி மாதம் 10ஆம் திகதி நிறைவேற்றப்பட்ட நீதிமன்றம், நியாயசபை அல்லது நிறுவனமொன்றை அவமதித்தல் சட்டமூலம் ஆகியவற்றிலும் சபாநாயகர் தனது கையொப்பத்தையிட்டு சான்றுரைப்படுத்தினார்.
+In addition, the Speaker testified with his signature on the National Water Resources Bill, which was passed on January 9, and the Amendment to the Parliament, and the Court of Justice, the Court of Justice, the Justice or the Institute of Justice.
 
-...
+Meanwhile, these bills are being implemented as the National Water Resources Act No. 7 of 2024 and the Court of Appeal, No. 8 of 2024, is the law of contempt of law or company.
+
+◼️
 
 [Data](articles/466d551f.json)
+
+[Extended Data](ext_articles/466d551f.ext.json)
 
 ---
 
@@ -620,17 +696,19 @@ Meanwhile, the Colombo Lotus Tower was inaugurated on September 15, 2022.
 
 ---
 
-### பாடசாலை வாகன கட்டணங்கள் அதிகரிப்பு
+### Increase in school vehicle charges
 
 *2024-02-01 10:39:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-வாகன-கட்டணங்கள்-அதிகரிப்பு/175-332466) · `ta`
 
-எரிபொருள் விலை அதிகரிப்பு காரணமாக இன்று (01) முதல் பாடசாலை வாகன கட்டணங்கள் அதிகரிக்கப்படவுள்ளதாக மாகாணங்களுக்கிடையிலான பாடசாலை சிறுவர் போக்குவரத்து சேவை சங்கம் தெரிவித்துள்ளது.
+School vehicle charges will be increased from today (01) due to the increase in fuel prices, the School Child Transport Service Association said.
 
-இந்தக் கட்டணங்களை பத்து வீதம் மற்றும் பதினைந்து வீதத்தால் அதிகரிக்க தொழிற்சங்கம் தீர்மானித்துள்ளது.
+The union has decided to increase these fees by ten percent and fifteen percent.
 
 ◼️
 
 [Data](articles/06e48369.json)
+
+[Extended Data](ext_articles/06e48369.ext.json)
 
 ---
 
@@ -1991,71 +2069,5 @@ Additionally the BOI discussed areas of cooperation including training opportuni
 [Data](articles/de9643c4.json)
 
 [Extended Data](ext_articles/de9643c4.ext.json)
-
----
-
-### Exchange program starts on the 5th of 5th
-
-*2024-02-01 04:25:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரித்து-வேலைத்திட்டம்-5-ஆம்-திகதி-ஆரம்பம்/175-332456) · `ta`
-
-Tourism, Land and Sports and Youth Affairs Minister Harin Fernando said the inaugural event of the 'Urithi' program will be held on Monday, February 5, to provide a permanent solution to the problem of more than two million people who have faced the right to land without proper land.
-
-He said this at a press conference held at the Presidential Media Center yesterday.
-
-The challenge we currently have is to end the problems of people who are dreaming of land, land and house. Therefore, a special project has been launched and we are looking forward to making a change in the lives of two million people in Sri Lanka.. Accordingly, we will provide permanent land guarantee for more than 20 lakh people who have permits such as Run Earth, Jaya Bhumi and Swarna Earth.
-
-The inaugural event will be held on February 5 in Dambulla. 10 thousand landing bonds will be issued that day. He said the project would be carried out by the country's 14,000 Grama Niladhari Divisions.. (A)
-
-◼️
-
-[Data](articles/5da8da65.json)
-
-[Extended Data](ext_articles/5da8da65.ext.json)
-
----
-
-### Five Sri Lankan companies display innovations at Ambiente 2024
-
-*2024-02-01 04:24:11* · [`dailyftlk`](https://www.ft.lk/business/Five-Sri-Lankan-companies-display-innovations-at-Ambiente-2024/34-758010) · `en`
-
-After an energetic five-day event, the premier trade fair Ambiente 2024 concluded. With 5,000 exhibitors, the largest global platform for consumer goods showcased the latest trends.
-
-This one-stop shop, which hosted participants from 170 nations, emphasised themes like design, digitalisation, new work, and sustainability.
-
-Around 140,000 visitors from all branches of trade and sales channels were inspired by a wealth of trends and innovations at Ambiente 2024.
-
-Five exhibitors from Sri Lanka, such as Gospel House Handicrafts Ltd., Art Decoration International and Javana Graphics, were located in Halls 10.1 and 10.4, dedicated to Living and Giving. Dankotuwa Porcelain was positioned in Hall 12.0, specifically designated for Dining. Additionally, AMP Ceylon Ltd. took part in Christmasworld, situated in Hall 6.2.
-
-...
-
-[Data](articles/e80d6630.json)
-
-[Extended Data](ext_articles/e80d6630.ext.json)
-
----
-
-### SF demands removal of Daya Ratnayake from SJB
-
-*2024-02-01 04:21:58* · [`dailyftlk`](https://www.ft.lk/news/SF-demands-removal-of-Daya-Ratnayake-from-SJB/56-758009) · `en`
-
-Says many former Army officers supporting SJB have expressed concerns about Ratnayake being welcomed by party
-
-Claims Ratnayake is either irrational or shameless to join SJB after filing evidence against SF for 2010 trial which led to his imprisonment
-
-Expresses deep disgust at prospect of engaging in politics alongside someone with such a history
-
-Assures he will not leave SJB due to this incident and remains committed to party
-
-Samagi Jana Balawegaya (SJB) MP and former Army Commander Field Marshal Sarath Fonseka yesterday demanded the removal of General Daya Ratnayake from the party.
-
-Ratnayake joined the SJB on Monday during a meeting with SJB leader Sajith Premadasa and was promptly appointed as the party’s Senior Advisor on State Affairs.
-
-During a press conference, Fonseka revealed that he has been receiving calls and visits from numerous senior Army Officers expressing their concerns about the party’s decision to welcome Ratnayake into its ranks.
-
-...
-
-[Data](articles/92b9faeb.json)
-
-[Extended Data](ext_articles/92b9faeb.ext.json)
 
 ---

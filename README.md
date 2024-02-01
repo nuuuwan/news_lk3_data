@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 03:02:23**
+As of **2024-02-02 03:17:16**
 
 ## Newspaper Stats
 
-*Scraped **4,215** Articles*
+*Scraped **4,217** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,19 +16,37 @@ economynextcom | 239
 dailyftlk | 258
 newsfirstlk | 265
 adalk | 378
-virakesarilk | 466
+virakesarilk | 467
 adaderanasinhalalk | 501
 adaderanalk | 528
-tamilmirrorlk | 537
+tamilmirrorlk | 538
 dailymirrorlk | 577
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,215 (100.0%) of 4,215 articles have been extended.
+4,215 (100.0%) of 4,217 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-02-02 (Friday)
+
+### ’உட்கட்சி முரண்பாடுகள் வரும்’
+
+*2024-02-02 02:04:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உட்கட்சி-முரண்பாடுகள்-வரும்/175-332522) · `ta`
+
+கூட்டத்தை ஒத்தி வைப்பது தொடர்பான அதிகாரம் பதில் பொதுச் செயலாளருக்குத்தான் உள்ளது. இது ஒரு சட்ட ரீதியான விடயமாகும் அந்த அடிப்படையில் கூட்ட தீர்மானம் என்ன என்பது தொடர்பில் அவர் தலைவருக்கு கடிதம் எழுதியுள்ளதாக நான் அறிகின்றேன்.  அதற்குரிய கடிதத்தையும் நான் பார்த்திருந்தேன்.
+
+இந்த விடையம் தொடர்பில் ஊடகங்களுக்கு கருத்துக்கள் வழங்கினால்  உட்கட்சி முரண்பாடுகள் பல வரும் காரணமாக இதுதொடர்பில் மேலதிக விபரங்களை நான் தெரிவிக்க விரும்பவில்லை  என இலங்கைத் தமிழரசுக் கட்சியின் மட்டக்களப்பு பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன் தெரிவித்துள்ளார்.
+
+மட்டக்களப்பு மாவட்டம் மண்முனை தென் எருவில்பற்று பிரதேசத்திற்கான அபிவிருத்திக்குழுக் கூட்டம் களுவாஞ்சிகுடியில் அமைந்துள்ள பிரதேச செயலக மாநாட்டு மண்டபத்தில் வியாழக்கிழமை (01) நடைபெற்றது. இதன்போது கலந்து கொண்ட பின்னர் ஊடகவியலாளர்களின் கேள்விகளுக்குப் பதிலளிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/5b8f519b.json)
+
+---
 
 ### 2024-02-01 (Thursday)
 
@@ -1590,6 +1608,28 @@ Sri Lanka Parliament was prorogued with effect from midnight on 26 January, mark
 
 ---
 
+### அரசாங்கத்துக்கு காலவகாசம் வழங்கியுள்ள அகில இலங்கை தனியார் பேருந்து சங்கம்
+
+*2024-02-01 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175307) · `ta`
+
+எரிபொருள் விலையேற்றத்துக்கு அமைய பேருந்து கட்டணத்தை 10 சதவீதத்தால் அதிகரிக்க வேண்டும். அரசாங்கத்துக்கு 15 நாட்கள் காலவகாசம் வழங்குவோம். கட்டணத்தை அதிகரிக்காவிட்டால் எமது பலத்தை காண்பிப்போம் என அகில இலங்கை தனியார் பேருந்து சங்கத்தின் தலைவர் கெமுனு விஜேரத்ன தெரிவித்தார்.
+
+கொழும்பில் வியாழக்கிழமை (01) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துக் கொண்டு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஒவ்வொரு மாதமும் எரிபொருள் விலையில் மாற்றம் ஏற்படுவதால் பேருந்து கட்டணத்தை தீர்மானிப்பதில் பாரிய பிரச்சினை காணப்படுகிறது. நேற்று முதல் அமுலுக்கு வரும் வகையில் எரிபொருள் விலை அதிகரிக்கப்பட்டுள்ளது.
+
+எரிபொருள் விலை அதிகரிக்கப்படும் போது பேருந்து கட்டணத்தை திருத்தம் செய்யுமாறு அரசாங்கத்திடம் கோரிக்கைகளை முன்வைக்கிறோம்.
+
+ஒவ்வொரு மாதமும் எரிபொருள் கட்டணம் உயர்வடைகிறது. ஆனால் பேருந்து கட்டணம் வருடத்துக்கு இருமுறை தான் திருத்தம் செய்யப்பட வேண்டும் என்பது நடைமுறைக்கு சாத்தியமற்றதாக உள்ளது.
+
+வாழ்க்கை செலவு அதிகரிப்புக்கு மத்தியில் வற் வரி அதிகரிப்பினால் வாகன உதிரிபாகங்களின் விலை பன்மடங்கு அதிகரிக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/871c3b6a.json)
+
+---
+
 ### ICC's biggest work in Colombo
 
 *2024-02-01 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192841) · `si`
@@ -1995,49 +2035,5 @@ SJB MP Tissa Attanayake, who was the founder of the concept "Sadaham Yathra", wa
 [Data](articles/2904a15e.json)
 
 [Extended Data](ext_articles/2904a15e.ext.json)
-
----
-
-### Rambukwella ordered to report to CID on Friday; Slapped with Overseas Travel Ban
-
-*2024-02-01 14:51:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/rambukwella-ordered-to-report-to-cid-on-friday-slapped-with-overseas-travel-ban/) · `en`
-
-COLOMBO (News 1st); Maligakanda Magistrate Lochana Abeywickrama ordered Minister Keheliya Rambukwella to report to the Criminal Investigations Department in Colombo at  9 AM on Friday (2) to provide a statement.
-
-The statement was made upon considering the submissions that were made by Deputy Solicitor General Lakmini Girihagama on behalf of the Attorney General when the case filed over the controversial human immunoglobulin procurement was taken up in court.
-
-The Deputy Solicitor General also told the court that one of the reasons provided by Keheliya Rambukwella for failing to make a scheduled appearance at the CID on Wednesday (31), is also false.
-
-She told the court that the Secretary to the Cabinet Sub-Committee on Public Expenditure Management had confirmed in writing that Keheliya Rambukwella did not attend the meeting at the President's Office on Wednesday (31).
-
-...
-
-[Data](articles/5fbc69e7.json)
-
-[Extended Data](ext_articles/5fbc69e7.ext.json)
-
----
-
-### Better permission to take the examination
-
-*2024-02-01 14:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192836) · `si`
-
-The Court of Appeal was issued today (01) to hear a petition filed by the Troubleshop Prevention of the Terrorism Council under the Prevention of the Terrorism Act.
-
-He is currently being held in the custody of the CID.
-
-The court issued notice to the respondents, acting IGP Deshanayake Tennakoon, Director of the Criminal Investigation Department (CID).
-
-Court of Appeal DS Jayawardena, who appeared for the beef. N. This order was issued by Samarakoon.
-
-The Criminal Investigation Department (CID) stated that the Criminal Investigations Department (CID) has reportedly reported the Criminal Investigation Court under the Criminal Investigation Unit of the Criminal Investigation Act.
-
-President's Counsel Faizer Mustapha claimed that there was no legal base against the Prevention of Terrorism Act, said that the case would be completely contrary to the law.
-
-...
-
-[Data](articles/8d7eaf3e.json)
-
-[Extended Data](ext_articles/8d7eaf3e.ext.json)
 
 ---

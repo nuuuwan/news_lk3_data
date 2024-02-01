@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 18:20:22**
+As of **2024-02-01 18:32:48**
 
 ## Newspaper Stats
 
-*Scraped **4,147** Articles*
+*Scraped **4,150** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 48
-bbccomsinhala | 63
+bbccomsinhala | 64
 dbsjeyarajcom | 131
 islandlk | 220
 economynextcom | 228
@@ -17,36 +17,74 @@ dailyftlk | 258
 newsfirstlk | 265
 adalk | 368
 virakesarilk | 463
-adaderanasinhalalk | 488
+adaderanasinhalalk | 489
 adaderanalk | 519
 tamilmirrorlk | 531
-dailymirrorlk | 565
+dailymirrorlk | 566
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,133 (99.7%) of 4,147 articles have been extended.
+4,147 (99.9%) of 4,150 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
 
-### ප්‍රාථමික ශ්‍රේණිවල දරුවන්ට මාර්තු සිට දිවා ආහාරය
+### Steps to provide mid-day meals to all primary school children from March
+
+*2024-02-01 18:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Steps-to-provide-mid-day-meals-to-all-primary-school-children-from-March/108-276145) · `en`
+
+Colombo, Feb 1 (Daily Mirror) - Education Minister Susil Premajayantha said that a sum of Rs. 16 million has been allocated to facilitate the provision of school lunches for students in Grades 1 to 5, and measures will be implemented to ensure that all children in these primary grades receive lunch starting in March this year.
+
+The Minister further said that all school textbooks required for 2024 have been printed, and arrangements have been made to provide the textbooks and uniforms to the schoolchildren immediately after the end of the third term.
+
+◼️
+
+[Data](articles/0cdfb418.json)
+
+---
+
+### මුල අමතක නොකළ අපේ ධනා මුලින්ම මතක් කළ දේ
+
+*2024-02-01 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192851) · `si`
+
+තමන් ක්‍රිකට් ආරම්භ කළ දෙබවරවැව ජාතික පාසලට තමන් ගෞරවය පුදකරන බව ශ්‍රී ලංකා ටෙස්ට් ක්‍රිකට් නායක ධනංජය ද සිල්වා පැවසීය.
+
+ඔහු මෙම අදහස් දැක්වීම සිදුකළේ ඇෆ්ගනිස්තාන කණ්ඩායමට එරෙහිව පැවැත්වෙන පළමු ටෙස්ට් තරගයට පෙර අද පැවති මාධ්‍ය හමුවට එක්වෙමිනි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ ටෙස්ට් ක්‍රිකට් නායක ධනංජය ද සිල්වා සිය පියා පිළිබඳව ද සිහි කළේය.
+
+ධනංජය ද සිල්වා සඳහන් කළේ තමන් සෑමවිටම ක්‍රිකට් ක්‍රීඩා කරන්නේ සිය පියා වෙනුවෙන් බවත් ඔහු අද සිටියා නම් තමන් සිටින තැන දැක සතුටු වනු ඇති බවත්ය.
+
+එහිදී ශ්‍රී ලංකා කණ්ඩායම සහ ප්‍රතිවාදී ඇෆ්ගනිස්තාන කණ්ඩායම සම්බන්ධයෙන් ද ධනංජය ද සිල්වා අදහස් දැක්වීය.
+
+◼️
+
+[Data](articles/f5cef570.json)
+
+---
+
+### Lunch from March to the children of primary grades
 
 *2024-02-01 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192850) · `si`
 
-එළඹෙන මාර්තු මාසයේ සිට මෙරට පාසල්වල පළමු ශ්‍රේණියේ සිට 5වන ශ්‍රේණිවල සියලු‍ දරුවන් සඳහා දිවා ආහාර ලබාදීමට පියවර ගන්නා බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+Minister of Education Susil Premajayantha says that steps will be taken to provide lunch for all children in schools in Sri Lanka since March.
 
-ප්‍රාථමික ශ්‍රේණිවල දරුවන් ලක්ෂ 16ක් පමණ සිටින බවත් ඔවුන් වෙත පාසල් දිවා ආහාර වේල ලබාදීම වෙනුවෙන් රුපියල් බිලියන 16ක් වෙන්ව ඇති බවත් අමාත්‍යවරයා ප්‍රකාශ කළේය.
+The Minister said that about 16 lakhs of primary grades and had been allocated to awarding school lunch.
 
-එමෙන්ම 2024 වසර වෙනුවෙන් අවශ්‍ය පාසල් පෙළ පොත් සියල්ල මේ වනවිට මුද්‍රණය කර අවසන් බවත් පාසල් ආරම්භයෙන් පසු තෙවැනි වාරය අවසන් වූ වහාම එම පෙළ පොත් ද නිල ඇදුම් රෙදි ද පාසල් දරුවන් වෙත ලබාදීමට කටයුතු කරන බවත් අමාත්‍යවරයා සඳහන් කළේය.
+The Minister also said that all the school text books needed for 2024 were already printed and will be printed and will be given to the third book and uniforms to school children as soon as school.
 
-අමාත්‍යවරයා මේ බව පැවසුවේ ජාතික පාසල්වල විදේශ භාෂා ඉගැන්වීම පිණිස බඳවාගත් උපාධිධාරීන් 162 දෙනෙකු වෙත ශ්‍රී ලංකා ගුරු සේවයේ 3-1 (අ) ශ්‍රේණියට පත්වීම් ප්‍රදානය වෙනුවෙන් අධ්‍යාපන අමාත්‍යාංශයේ අද (01) පැවති උත්සව අවස්ථාවට එක්වෙමිනි.
+The Minister was speaking at a ceremony held at the Ministry of Education today (1st) at the Ministry of Education today to grade appointments to grade appointment in national schools.
 
-...
+Expansion of the number of schools that teach existing in the school system and the introductory subjects to the present foreign language laboratories.These appointments were made following a Cabinet decision received.
+
+◼️
 
 [Data](articles/1f3c5187.json)
+
+[Extended Data](ext_articles/1f3c5187.ext.json)
 
 ---
 
@@ -65,6 +103,8 @@ Nine Activists Released on Bail After Protest Demanding Ex-Minister’s Arrest
 ◼️
 
 [Data](articles/70177b02.json)
+
+[Extended Data](ext_articles/70177b02.ext.json)
 
 ---
 
@@ -85,6 +125,8 @@ According to the CEB Engineers' Union, the CEB spent over 130 million rupees on 
 ...
 
 [Data](articles/f0ebc110.json)
+
+[Extended Data](ext_articles/f0ebc110.ext.json)
 
 ---
 
@@ -117,6 +159,8 @@ Nine Activists Released on Bail After Protest Demanding Ex-Minister’s Arrest
 ◼️
 
 [Data](articles/045b59de.json)
+
+[Extended Data](ext_articles/045b59de.ext.json)
 
 ---
 
@@ -190,21 +234,23 @@ He said that if the government is going to regulate social media without politic
 
 ---
 
-### சிறீதரனை சந்தித்தார் பிரித்தானிய உயர்ஸ்தானிகர்
+### British High Commission
 
 *2024-02-01 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/175331) · `ta`
 
-தமிழரசுக்கட்சியின் புதிய தலைவராக தெரிவு செய்யப்பட்டுள்ள சிறீதரனை இலங்கைக்கான பிரித்தானிய உயர்ஸ்தானிகர் ஆண்ட்ரூ பெட்ரிக் சந்தித்து கலந்துரையாடியுள்ளார்.
+British High Commissioner to Sri Lanka Andrew Petric has met with Sreedharan, the new leader of the Tamil party.
 
-இந்த சந்திப்புக் குறித்து பிரித்தானிய உயர்ஸ்தானிகர் தனது எக்ஸ் (X) தளத்தில் குறிப்பிட்டுள்ளதாவது,
+The British High Commissioner mentioned the meeting on his X (X) site,
 
-இலங்கை தமிழரசுக் கட்சியின் தலைவராக தெரிவு செய்யப்பட்டுள்ள சிறீதரனுடனான சந்திப்பு ஒரு பயனுள்ளதாக அமைந்தது.
+The meeting with Sreedharan, who was elected as the leader of the Sri Lankan Tamil party, was a useful.
 
-வடக்கு மற்றும் கிழக்கில் உள்ள தமிழ் சமூகத்திற்குள் காணப்படும் முக்கிய விடயங்கள் குறித்து நாம் இருவரும் கலந்துரையாடினோம் என்று குறிப்பிட்டுள்ளார்.
+He said that we both discussed the key issues within the Tamil community in the North and East.
 
 ◼️
 
 [Data](articles/27e5f291.json)
+
+[Extended Data](ext_articles/27e5f291.ext.json)
 
 ---
 
@@ -236,17 +282,19 @@ Nine Activists Released on Bail After Protest Demanding Ex-Minister’s Arrest
 
 ---
 
-### அரச பாடசாலை மாணவர்களுக்கு தினசரி உணவு
+### Daily food for state school students
 
 *2024-02-01 16:59:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-பாடசாலை-மாணவர்களுக்கு-தினசரி-உணவு/175-332490) · `ta`
 
-அரச பாடசாலைகளில்  தரம் 1 முதல் தரம்  5 வரையிலான சிறார்களுக்கு எதிர்வரும் மார்ச் மாதம் முதல் தினசரி உணவு வழங்கப்படும் என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்தார்.
+Minister of Education Susil Premajayantha said that children from Grade 1 to Grade 5 will be provided with daily food from March.
 
-இத்திட்டத்திற்காக அரசாங்கம் ரூ.1600 கோடி செலyவிடவுள்ளதாகத் தெரிவித்த அமைச்சர், ஒரு குழந்தைக்கு நாளொன்றுக்கு 110 ரூபாவை கட்டாயம் செலவிட வேண்டும் எனவும் குறிப்பிட்டார்.
+The Minister said that the government would cost Rs 1600 crore for the project and that a child must spend 110 rupees per day.
 
 ◼️
 
 [Data](articles/3435da5f.json)
+
+[Extended Data](ext_articles/3435da5f.ext.json)
 
 ---
 
@@ -320,6 +368,8 @@ Pakistan Lifestyle Exhibition is being held at BMICH until February 5. The Exhib
 
 [Data](articles/6fb58a54.json)
 
+[Extended Data](ext_articles/6fb58a54.ext.json)
+
 ---
 
 ### Police call for public assistance to arrest a suspect
@@ -370,6 +420,8 @@ Every time fuel price revisions had taken place, as responsible bus associations
 
 [Data](articles/d0569ca9.json)
 
+[Extended Data](ext_articles/d0569ca9.ext.json)
+
 ---
 
 ### Other than doctors
@@ -390,23 +442,25 @@ Vavuniya District General Hospital Nurses, Sinhalese, Palmasis and Technologists
 
 ---
 
-### 7ஆம் திகதி பாராளுமன்றத்தின் ஐந்தாவது அமர்வு ஆரம்பம்
+### The fifth session of Parliament on the 7th is the beginning
 
 *2024-02-01 16:13:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7ஆம்-திகதி-பாராளுமன்றத்தின்-ஐந்தாவது-அமர்வு-ஆரம்பம்/175-332488) · `ta`
 
-பாராளுமன்றத்தின் ஐந்தாவது அமர்வு எதிர்வரும் 7ஆம் திகதி முற்பகல் 10.30 மணிக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் ஆரம்பித்து வைக்கப்படும் என பாராளுமன்றத்தின் தொடர்பாடல் திணைக்களம் இன்று(1) அறிவித்துள்ளது.
+The Fifth Session of Parliament will be inaugurated by President Ranil Wickremesinghe at 10.30 am on the 7th of this month.
 
-ஜனாதிபதி தனது கொள்கைப் பிரகடனத்தை முன்வைப்பார் என பாராளுமன்ற பிரதி செயலாளர் நாயகமும் தலைமை அதிகாரியுமான சமிந்த குலரத்ன தெரிவித்தார்.
+Deputy Secretary General of Parliament and Chief Minister Saminda Gularatne said the president would present his policy declaration.
 
-கொள்கை அறிக்கை மீதான விவாதத்தை எதிர்வரும் 8 மற்றும் 9 ஆம் திகதிகளில் காலை 9.30 மணி முதல் மாலை 5.30 மணி வரை நடத்துவதற்கு பாராளுமன்ற விவகாரங்களுக்கான குழு இன்று (1) தீர்மானித்துள்ளது.
+The Parliamentary Affairs Committee has decided to hold the debate on the policy report from 9.30 am to 5.30 pm today (1).
 
-பாராளுமன்ற விவகாரங்களுக்கான குழு இன்று (01) சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் பாராளுமன்ற கட்டிடத் தொகுதியில் கூடியது.
+The Committee on Parliamentary Affairs met today (01) at the Parliamentary Building Building under the chairmanship of Speaker Mahinda Yapa Abeywardena.
 
-இதற்கமைய, எதிர்வரும் 7ஆம் திகதி பாராளுமன்றம் நடைபெறும் சந்தர்ப்பத்தில் விசேட பாதுகாப்பு வேலைத்திட்டமொன்றை நடைமுறைப்படுத்த பாதுகாப்பு திணைக்கள தலைவர்கள் தீர்மானித்துள்ளனர்.
+Accordingly, the Heads of Defense Department have decided to implement a special security program in the event of Parliament on the 7th of this month.
 
 ◼️
 
 [Data](articles/184b4c69.json)
+
+[Extended Data](ext_articles/184b4c69.ext.json)
 
 ---
 
@@ -428,21 +482,23 @@ The applications of the police and the defendant's lawyer have been investigated
 
 ---
 
-### சமூக வலைத்தளங்களில் பரவும் செய்தி பொய்யானது
+### The news spreading on social websites is false
 
 *2024-02-01 16:00:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-வலைத்தளங்களில்-பரவும்-செய்தி-பொய்யானது/175-332487) · `ta`
 
-ஐக்கிய மக்கள் சக்தியோடு இணைந்து கொண்ட முன்னாள் இராணுவ தளபதி தயா ரத்நாயக்க மவ்பிம ஜனதா கட்சியில் இணைந்து கொண்டுள்ளதாக சமூக வலைத்தளங்களில் செய்தியொன்று பரவி வருகின்றது.
+There is a report on social media that former Army Commander Daya Ratnayake has joined the Mawpima Janata Party with the United People's Power.
 
-இது பொய்யான செய்தி என்பதோடு,அவ்வாறானதொரு சம்பவம் நடக்கவில்லை எனயென ஜனாதிபதி தேர்தல் செயற்பாட்டுப் பிரதானி சுஜீவ சேனசிங்க தெரிவித்துள்ளார்.
+This is a false news and that such an incident has not happened, the presidential election chief Sujeewa Senasinghe said.
 
-பகிரப்பட்டு வரும் புகைப்படம் பழைய புகைப்படம் என்பதோடு,இதுபோன்ற புகைப்படத்தை பயன்படுத்தி அரசியல் பிரசாரம் செய்து வருவதையும் வன்மையாக கண்டிப்பதாகவும் ஐக்கிய மக்கள் சக்தியை பலப்படுத்துவதற்காக பல்வேறு தரப்பினரும் ஒன்றிணைவதால்,இவ்வாறான போலிப் பிரசாரங்கள் எதிர்காலத்திலும் இடம்பெறலாம்.
+Such fake campaigns can take place in the future, as the old photo is an old photo and a political propaganda using such a photo and condemning the United People's Power.
 
-இவ்வாறான புகைப்படங்களை வெளியிடுவதற்கு முன்னர் சம்பந்தப்பட்ட தரப்பைச் சேர்ந்த ஜெனரல் தயா ரத்நாயக்க அவர்களிடம் விசாரித்திருந்தால்,அது சிறந்த ஊடக நடைமுறையாக இருந்திருக்கும் என்பதையும் இங்கு சுட்டிக்காட்ட விரும்புகின்றேன் என ஜனாதிபதி தேர்தல் செயற்பாட்டுப் பிரதானி சுஜீவ சேனசிங்க தெரிவித்துள்ளார்.
+"I would like to point out that if you have inquired from the concerned General Daya Ratnayake before publishing such photos, I would like to point out that it would have been a good media practice," said presidential election chief Sujeewa Senasinghe.
 
 ◼️
 
 [Data](articles/66ce228c.json)
+
+[Extended Data](ext_articles/66ce228c.ext.json)
 
 ---
 
@@ -562,6 +618,8 @@ The Adjournment Debate on the government polic statement will be held from 9.30 
 
 [Data](articles/3e708013.json)
 
+[Extended Data](ext_articles/3e708013.ext.json)
+
 ---
 
 ### Speaking of Indian High Commissioner Chandrika!
@@ -636,6 +694,8 @@ The Afghanistan cricket team was spotted practicing at the SSC ground in Colombo
 
 [Data](articles/0956a06d.json)
 
+[Extended Data](ext_articles/0956a06d.ext.json)
+
 ---
 
 ### Is China start a war?
@@ -679,6 +739,8 @@ In response to the CID's summons, Rambukwella has formally requested, in writing
 ◼️
 
 [Data](articles/7cec421e.json)
+
+[Extended Data](ext_articles/7cec421e.ext.json)
 
 ---
 
@@ -869,6 +931,8 @@ SJB MP Tissa Attanayake, who was the founder of the concept "Sadaham Yathra", wa
 ◼️
 
 [Data](articles/2904a15e.json)
+
+[Extended Data](ext_articles/2904a15e.ext.json)
 
 ---
 
@@ -1434,6 +1498,20 @@ Accordingly, all liquor-selling establishments will close at 10:00 p.m. on 03 Ja
 
 ---
 
+### පොලීසියෙන් කොස්තාපල්වරයෙකුට සහ බිරිඳට කළ අගතියට ලක්ෂ 20ක වන්දියක්
+
+*2024-02-01 12:26:14* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c04r85v5g53o) · `si`
+
+මත්ද්‍රව්‍ය චෝදනා ලැබු සැකකරුවන් කිහිපදෙනෙකු නිදහස්  කරන්නැයි, කරනු ලැබූ නීති විරෝධී බලපෑමකට අවනත නොවී ඒ සම්බන්ධව විමර්ශන කිරීමේ හේතුවෙන් පලිගැනීමක් ලෙස කොස්ගොඩ පොලිසියේ සේවය කළ  පොලිස් කොස්තාපල් පී.ඩී.ඒ. පනාපිටියට එරෙහිව ව්‍යාජ නඩු පවරා ඔහුගේ වැඩ තහනම් කර බිරිඳ ද අත්අඩංගුවට ගෙන රඳවා ගැනීම තුළින් එවකට අම්බලන්ගොඩ සහකාර පොලිස් අධිකාරී යූ.එම්. අමරසිරි ඇතුළු පොලිස් නිලධාරීන් සිව් දෙනකු මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇතැයි ශ්‍රේෂ්ඨාධිකරණය (ජනවාරි 31 වැනිදා) තීන්දු කරනු ලැබීය.
+
+ඔහුගේ මූලික අයිතිවාසිකම් උල්ලංඝනය කිරීම සම්බන්ධයනේ එවකට අම්බලන්ගොඩ සහකාර පොලිස් අධිකාරී යූ.එම්.අමරසිරි , එවකට  කොස්ගොඩ පොලිසියේ ස්ථානාධිපති මංගල ද සොයිසා අමරසේකර, එම පොලිසියේ අපරාධ අංශය භාර ස්ථානාධිපති අසේල ප්‍රේමනාත් ද සිල්වා සහ පොලිස් සැරයන්  ඉන්දික ද සිල්වා යන නිලධාරීන්ට එක්ව සිය පෞද්ගලික මුදල් වලින් රුපියල් ලක්ෂ 20 ක් පෙත්සම්කරුට  ගෙවිය යුතු බවත් ශ්‍රේෂ්ඨාධිකරණය නියම කරනු ලැබීය.
+
+...
+
+[Data](articles/acf9d4f4.json)
+
+---
+
 ### Health boss is 10 hours CID
 
 *2024-02-01 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192829) · `si`
@@ -1863,63 +1941,5 @@ Accordingly, the General Services Foreign Passport Fee (5,000) has been increase
 [Data](articles/23115bb6.json)
 
 [Extended Data](ext_articles/23115bb6.ext.json)
-
----
-
-### Celebration Act
-
-*2024-02-01 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/175293) · `ta`
-
-Speaker Mahinda Yapa Abeywardena today certified the Celebration Bill, which was discussed in Parliament on January 23 and 24.
-
-Accordingly, the Bill is still in effect as the current backup Act No. 9 of 2024.
-
-◼️
-
-[Data](articles/603b82d0.json)
-
-[Extended Data](ext_articles/603b82d0.ext.json)
-
----
-
-### Troops Deployed to Hospitals Amidst Healthcare Strike
-
-*2024-02-01 10:56:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/troops-deployed-to-hospitals-amidst-healthcare-strike/) · `en`
-
-COLOMBO (News 1st); In response to the ongoing strike by healthcare trade unions, the Sri Lanka Army has deployed its personnel to various government hospitals across the country today.
-
-This deployment aims to ensure the uninterrupted delivery of essential medical services to the public during this critical period.
-
-The decision, made at the request of the Ministry of Defence and under the leadership of Commander Lieutenant General Vikum Liyanage, saw troops stationed at key hospitals nationwide.
-
-These include Colombo General Hospital, National Eye Hospital, Dental Hospital Colombo, Homagama Base Hospital, Kalubowila Teaching Hospital, Mirigama Base Hospital, District General Hospital Avissawella, Kurunegala Teaching Hospital, and several others.
-
-The deployed personnel will work collaboratively with hospital authorities to provide support. They also stand ready to respond to any potential emergencies that may arise due to the strike.
-
-...
-
-[Data](articles/dcd97f84.json)
-
-[Extended Data](ext_articles/dcd97f84.ext.json)
-
----
-
-### Online Safety Bill comes into effect today
-
-*2024-02-01 10:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Online-Safety-Bill-comes-into-effect-today/108-276128) · `en`
-
-Parliament, Feb. 1 (Daily Mirror)-Speaker Mahinda Yapa Abeywardane today endorsed the certificate on the Online Safety Bill which was approved by parliament last week, the Communications Department of Parliament said.
-
-Accordingly, the said Bill will come into effect as the Online Safety Act No.9 of 2024.
-
-The bill was passed without a vote in the House after a two-day debate during which the opposition launched a scathing attack saying it borders on the infringement of the freedom of expression.
-
-During the Second Reading, the bill was taken to vote with 108 supporting it and 62 opposing.
-
-◼️
-
-[Data](articles/3fde89d7.json)
-
-[Extended Data](ext_articles/3fde89d7.ext.json)
 
 ---

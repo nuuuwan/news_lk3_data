@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 16:32:44**
+As of **2024-02-01 16:47:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,118 (100.0%) of 4,120 articles have been extended.
+4,120 (100.0%) of 4,120 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Sri Lanka Parliament was prorogued with effect from midnight on 26 January, mark
 ...
 
 [Data](articles/a8fc679f.json)
+
+[Extended Data](ext_articles/a8fc679f.ext.json)
 
 ---
 
@@ -104,23 +106,29 @@ The recent improvements in the two -party relations between India and Sri Lanka 
 
 ---
 
-### கல்விக்கும் சுகாதாரத்திற்கும் இல்லாத பணம் அடக்குமுறைக்கு ஒதுக்கப்பட்டுள்ளது - சஜித் பிரேமதாச
+### Money that is not educated and health is allocated for repression - Sajith Premadasa
 
 *2024-02-01 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/175325) · `ta`
 
-நாட்டில் கல்வி,சுகாதாரம் போன்றவற்றுக்கு அரசாங்கத்தினால் நிதி ஒதுக்க முடியாவிட்டாலும் மக்களை அடக்குவதற்காக கண்ணீர் புகை, இறப்பர் தோட்டாக்கள், நீர் தாரை தாக்குதலை நடத்தும் இயந்திரம் வாங்குவதற்கு பணம் ஒதுக்கப்பட்டுள்ளதாக எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+The Opposition Leader said that even though the government cannot allocate funds for education and health in the country, the money has been allocated to buy tear gas, rubber bullets and water tanks to suppress the people.
 
-ஜனாதிபதி ரணசிங்க பிரேமதாசவின் காலத்தில் வழங்கப்பட்ட மதிய உணவைக் கூட வழங்குவதற்கு அரசாங்கத்திடம் பணம் இல்லாவிட்டாலும், மக்கள் அடக்குமுறைக்குட்படுத்த பணம் ஒதுக்கப்பட்டுள்ளது.
+Although the government does not have money to provide lunch during the time of President Ranasinghe Premadasa, people have been paid for repression.
 
-இதன் காரணமாக நாட்டின் பாடசாலை மாணவர்கள் கடும் சிரமங்களை எதிர்நோக்கியுள்ளதாக எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+Due to this, the opposition leader said that the country's school students are facing severe difficulties.
 
-31 ஆம் திகதி முதல் 4 ஆம் திகதி வரை சுதந்திர தினத்தை முன்னிட்டு புதிய போக்கு வரத்து வீதி ஒழுங்குத் திட்டத்தை அரசாங்கம் நடைமுறைப்படுத்தியுள்ளது.
+The government has implemented a new trend on Independence Day from 31st to 4th.
 
-அரசாங்கம் இவ்வாறு செய்யும் போது, 31 ஆம் திகதி முதல் 4 ஆம் திகதி வரையிலும் அதன் பிறகும் ஐக்கிய மக்கள் சக்தி மாத்தறை,காலி மற்றும் அனுராதபுரம் மாவட்டங்களில் தொடர்ச்சியாக 17 பாடசாலைகளுக்கு 17 ஸ்மார்ட் வகுப்பறைகளை வழங்குகின்றது.
+When the government does this, the United People's Shakti will provide 17 smart classrooms to 17 schools in Matara, Galle and Anuradhapura districts from 31st to 4th.
+
+Opposition Leader Sajith Premadasa said that when celebrating Independence Day on February 4, its aim was to make the meaning of true free education.
+
+He said this while addressing a function on Wednesday (31) at the 74th phase of the Universe Information Technology Program.
 
 ...
 
 [Data](articles/51fadc52.json)
+
+[Extended Data](ext_articles/51fadc52.ext.json)
 
 ---
 

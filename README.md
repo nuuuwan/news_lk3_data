@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 20:02:16**
+As of **2024-02-01 20:17:27**
 
 ## Newspaper Stats
 
-*Scraped **4,178** Articles*
+*Scraped **4,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 258
 newsfirstlk | 265
 adalk | 374
 virakesarilk | 463
-adaderanasinhalalk | 494
+adaderanasinhalalk | 495
 adaderanalk | 521
 tamilmirrorlk | 531
 dailymirrorlk | 569
@@ -26,27 +26,51 @@ dailymirrorlk | 569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,174 (99.9%) of 4,178 articles have been extended.
+4,178 (100.0%) of 4,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
 
-### හිටපු සෞඛ්‍ය ඇමති කෙහෙළිය ගැන හෙළිදරව්වක්
+### ආදුරුප්පුවීදියේ වෙඩිතැබීමට තවත් සැකකරුවෙක් අත්අඩංගුවට
+
+*2024-02-01 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192858) · `si`
+
+කොළඹ ආදුරුප්පුවීදිය පොලිස් වසමේදී පසුගිය 24 වනදා පුද්ගලයෙකු වෙඩිතබා ඝාතනය කිරීමේ සම්බන්ධයෙන් තවත් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+එම සැකකරුවෙකු ඊයේ (31) රාත්‍රියේ ගිරිඋල්ල දඹදෙනිය ප්‍රදේශයේදී ආදුරුප්පුවීදිය පොලීසියේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබුණි.
+
+ඔහුගෙන් සිදුකළ ප්‍රශ්න කිරීම් හමුවේ හෙළිවූ කරුණු මත වෙඩි තැබීමට භාවිත කළ බවට සැකකෙරෙන රිවෝල්වර් වර්ගයේ ගිනි අවියක් ද සොයාගෙන ඇත.
+
+මේ අතර එම සිද්ධිය සම්බන්ධයෙන් මීට පෙර අත්අඩංගුවට ගත් සැකකරු රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+අදාළ සැකකරුව පිස්තෝල අවියක්ද සමග අත්අඩංගුවට ගෙන තිබූ අතර සැකකරුව පෙබරවාරි 13 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර ඇත.
+
+◼️
+
+[Data](articles/f0bb99d8.json)
+
+---
+
+### Former Health Minister Keheliya reveals
 
 *2024-02-01 19:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192857) · `si`
 
-ප්‍රශ්නගත ප්‍රතිදේහ එන්නත් සිද්ධිය සම්බන්ධයෙන් හෙට (02) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ ප්‍රකාශයක් ලබාදෙන ලෙස හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාට මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය අද (01) නියෝග කළේය.
+Former Health Minister Keheliya Rambukanda Magistrate's Court today (02) ordered the CID to enter into the CID tomorrow.
 
-ඒ, ප්‍රතිදේහ එන්නත් සම්බන්ධ නඩුව අද මාලිගාකන්ද මහෙස්ත්‍රාත් ලෝචනී අබේවික්‍රම මහත්මිය ඉදිරියේ කැඳවූ අවස්ථාවේදීය.
+That was when the case was taken up before Maligakanda Magistrate Luchan Abeywickrema today.
 
-ව්‍යාජ ලේඛන සකස්කරමින් ප්‍රමිතියෙන් තොර හියුමන් ඉමියුනොග්ලොබියුලින් ප්‍රතිදේහ එන්නත් මාත්‍රා සැපයීම, මිලදීගැනීම සහ මෙරට රෝහල් පද්ධතිය තුළ බෙදාහැරීම සම්බන්ධයෙන් වූ නඩුව මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයේදී අද යළි කැඳවීය.
+The case, purchasing the substandard humian emnungluulin antibodies and distribution in the country's hospitals, the case was taken up again in the Maligakanda Magistrate's Court today.
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ලට CIDය හමුවේ ප්‍රකාශයක් ලබාදෙන ලෙස දන්වා තිබියදී ඔහු නොපැමිණීම සම්බන්ධයෙන් රජයේ නියෝජ්‍ය සොලිසිටර් ජනරාල් ලක්මිණී ගිරිහාගම මෙනෙවිය එහිදී කරුණූ ඉදිරිපත් කළාය.
+The Deputy Solicitor General General of Lakmini, the Deputy Solicitor General, Lakmini Girihagama, said that he had notified the CID to provide a statement to the former Health Minister Keheliya Rambukwella.
+
+"Lord, the CID had informed the former Minister of Health to be given a statement yesterday before the incident.. But he did not come to give a statement. He was later announced in writing that he was unable to attend a court proceeding of the High Court and a Cabinet subcommittee. "
 
 ...
 
 [Data](articles/75af017f.json)
+
+[Extended Data](ext_articles/75af017f.ext.json)
 
 ---
 
@@ -71,6 +95,8 @@ Following are the names of the diplomats who submitted their credentials today.
 ◼️
 
 [Data](articles/6a9f8f67.json)
+
+[Extended Data](ext_articles/6a9f8f67.ext.json)
 
 ---
 
@@ -143,6 +169,8 @@ He told the media that 10% of the existing transport fare will be increased for 
 ...
 
 [Data](articles/3f28cc5c.json)
+
+[Extended Data](ext_articles/3f28cc5c.ext.json)
 
 ---
 
@@ -287,6 +315,8 @@ Despite the widespread participation in the strike, notable exceptions include t
 ◼️
 
 [Data](articles/64430e8c.json)
+
+[Extended Data](ext_articles/64430e8c.ext.json)
 
 ---
 
@@ -1947,25 +1977,5 @@ Accordingly, all liquor-selling establishments will close at 10:00 p.m. on 03 Ja
 [Data](articles/a3f7952c.json)
 
 [Extended Data](ext_articles/a3f7952c.ext.json)
-
----
-
-### A compensation of a constable and his wife for his wife
-
-*2024-02-01 12:26:14* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c04r85v5g53o) · `si`
-
-Police Constable PDA, who served at the Kosgoda Police, as a revenge on the illegal influence of the drug charged.. Ambalangoda Assistant Superintendent UM. The Supreme Court (January 31) has decided that four police officers including Amarasiri have violated fundamental human rights.
-
-The then Ambalangoda Assistant Superintendent of Police in Ambalangoda ASP UM OIC Mangala Police OIC Mangala Police OIC Mangala Police OIC Mangala Police OIC Mangala Police OIC Mangala Police Amarasekera at the time, the OIC of the Police Asela Police Amarasekera and police serves to the police sergeant Indika de Silva is Rs.The Supreme Court was ordered to pay the petitioner.
-
-The compensation was to be completed within a six-month period from the day of the day (January 31) to be completed within a period of six months.
-
-Sri Lanka Police Human Rights Magistrates: Are the police officers to compensate Rs. 15 million to victims?
-
-...
-
-[Data](articles/acf9d4f4.json)
-
-[Extended Data](ext_articles/acf9d4f4.ext.json)
 
 ---

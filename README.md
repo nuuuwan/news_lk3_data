@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 23:02:41**
+As of **2024-02-01 23:17:11**
 
 ## Newspaper Stats
 
-*Scraped **4,207** Articles*
+*Scraped **4,209** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 238
 dailyftlk | 258
 newsfirstlk | 265
 adalk | 378
-virakesarilk | 465
+virakesarilk | 466
 adaderanasinhalalk | 501
-adaderanalk | 527
+adaderanalk | 528
 tamilmirrorlk | 535
 dailymirrorlk | 575
 
@@ -26,11 +26,29 @@ dailymirrorlk | 575
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,203 (99.9%) of 4,207 articles have been extended.
+4,207 (100.0%) of 4,209 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### Petition filed challenging Cabinet decision to split SLIC into two institutions
+
+*2024-02-01 22:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96931/petition-filed-challenging-cabinet-decision-to-split-slic-into-two-institutions) · `en`
+
+General Secretary of the Sri Lanka Insurance Corporation (SLIC) Udayanga Rathna Diwakara on Thursday (01 Feb.) filed a petition before the Court of Appeals, seeking a writ order annulling the Cabinet decision that SLIC be split into two institutions.
+
+A total of 56 persons, including Prime Minister Dinesh Gunawardena, the Cabinet of Ministers, the SLIC and its Board of Directors, were named as respondents in the petition which claims that such a decision cannot be made solely by the Cabinet in the absence of parliamentary approval.
+
+Diwakara further pointed out that the SLIC is not only a profit-making institution but also one that also brings large amounts of welfare benefits to the public.
+
+Apart from requesting the Appellate Court to issue an interim order against the relevant decision, in his petition Diwakara also sought an order against the SLIC’s Board of Directors, preventing the company’s assets and properties from being split into two institutions.
+
+...
+
+[Data](articles/3de311a6.json)
+
+---
 
 ### ILO assures fullest support towards developing Sri Lanka’s labour sector
 
@@ -47,6 +65,8 @@ They assured the Prime Minister their fullest support to implement the proposed 
 ...
 
 [Data](articles/3cc599d7.json)
+
+[Extended Data](ext_articles/3cc599d7.ext.json)
 
 ---
 
@@ -65,6 +85,8 @@ Meanwhile, it was reported that some MPs from the SJB has called for a working c
 ◼️
 
 [Data](articles/ed7da4a1.json)
+
+[Extended Data](ext_articles/ed7da4a1.ext.json)
 
 ---
 
@@ -131,6 +153,8 @@ Earlier this week, Reyaz Mihular stepped down from his position as Chairman aft
 ◼️
 
 [Data](articles/40ae4d22.json)
+
+[Extended Data](ext_articles/40ae4d22.ext.json)
 
 ---
 
@@ -395,6 +419,24 @@ Subsequently, the High Commissioner and Ambassadors appointed on Thursday (01) h
 [Data](articles/91225008.json)
 
 [Extended Data](ext_articles/91225008.ext.json)
+
+---
+
+### ஐக்கிய மக்கள் சுதந்திர கூட்டணியின் பொதுச் செயலாளர் பதவியில் இருந்து மஹிந்த அமரவீர மற்றும்  திலங்க சுமத்திபால இராஜினாமா
+
+*2024-02-01 19:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175345) · `ta`
+
+ஐக்கிய மக்கள் சுதந்திர கூட்டணியின் பொதுச் செயலாளர் பதவியில் விலகுவதாக தெரிவித்து அமைச்சர் மஹிந்த அமரவீர மற்றும்  திலங்க சுமத்திபால ஆகியோர்  ராஜினாமா கடித்தை நேற்று கையளித்துள்ளனர்.
+
+ஐக்கிய மக்கள் சுதந்திர கூட்டணியின் தலைவர் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவின் உத்தரவுக்கமையவே இந்த ராஜினாமா கடிதம் கையளிக்கப்பட்டிருக்கிறது.
+
+ஐக்கிய மக்கள் சுதந்திர கூட்டணியின் பொதுச் செயலாளர் பதவி வகித்த நிலையில் அமைச்சர் மஹிந்த அமரவீர அரசாங்கத்துடன் இணைந்துகொண்டு அமைச்சுப்பதவியும் பொறுப்பேற்றது, அது கட்சியின் நிலைப்பாட்டுக்கு முரணானது என தெரிவித்து அவரை பொது செயலாளர் பதவியில் இருந்து நீக்க கூட்டணியின் தலைவரான முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன நடவடிக்கை எடுத்திருந்தார்.
+
+அதன் பிரகாரம் அமைச்சர் மஹிந்த அமரவீரவை நீக்கியதன் மூலம் வெற்றிடமான பொதுச் செயலாளர் பதவிக்கு முன்னாள் பாராளுமன்ற உறுப்பினர் திலங்க சுமத்திபால நியமிக்கப்பட்டார்.
+
+...
+
+[Data](articles/5467bbe8.json)
 
 ---
 
@@ -1646,6 +1688,8 @@ In response to the CID's summons, Rambukwella has formally requested, in writing
 
 [Data](articles/50d06d7e.json)
 
+[Extended Data](ext_articles/50d06d7e.ext.json)
+
 ---
 
 ### Travel ban imposed on Keheliya Rambukwella
@@ -1989,41 +2033,5 @@ The revision should be implemented before February 15, our correspondent said.
 [Data](articles/50aade1f.json)
 
 [Extended Data](ext_articles/50aade1f.ext.json)
-
----
-
-### Sri Lanka to host ICC annual general meeting in Colombo
-
-*2024-02-01 14:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-host-ICC-annual-general-meeting-in-Colombo/108-276137) · `en`
-
-Colombo, Feb 01 (Daily Mirror) - Sri Lanka is set to host the annual general meeting of the International Cricket Council (ICC) from July 19 to 22 this year in Colombo, Sports Minister Harin Fernando said.
-
-He said that hosting the ICC AGM will significantly boost Sri Lanka's cricketing and tourism sectors.
-
-◼️
-
-[Data](articles/1f029885.json)
-
-[Extended Data](ext_articles/1f029885.ext.json)
-
----
-
-### Civil society activists arrested during ‘Satyagraha’ opposite CID granted bail
-
-*2024-02-01 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96916/civil-society-activists-arrested-during-satyagraha-opposite-cid-granted-bail) · `en`
-
-The ten civil society activists, who were taken into police custody on Wednesday (Jan. 31) while staging a ‘Satyagraha’ campaign in front of the Criminal Investigations Department (CID), have been granted bail.
-
-The Colombo Fort Magistrate’s Court has issued this order, after the arrested individuals were produced before the court this afternoon (Fe. 01).
-
-The relevant civil society activists were arrested while protesting in front of the CID last evening, demanding that Health Minister Keheliya Rambukwella be arrested over his alleged involvement in the controversial import of substandard medicines.
-
-Rambukwella was due to appear before the CID yesterday, however had failed to do so on account of having to appear before the Colombo High Court over another case. Thus, the Minister had requested the CID for a different date, Ada Derana learns.
-
-...
-
-[Data](articles/39b5cbff.json)
-
-[Extended Data](ext_articles/39b5cbff.ext.json)
 
 ---

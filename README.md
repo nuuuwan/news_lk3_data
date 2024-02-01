@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 06:56:03**
+As of **2024-02-01 07:16:40**
 
 ## Newspaper Stats
 
-*Scraped **3,978** Articles*
+*Scraped **3,979** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 48
 bbccomsinhala | 62
-dbsjeyarajcom | 130
+dbsjeyarajcom | 131
 islandlk | 220
 economynextcom | 221
 newsfirstlk | 248
@@ -26,7 +26,7 @@ dailymirrorlk | 545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,967 (99.7%) of 3,978 articles have been extended.
+3,976 (99.9%) of 3,979 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -208,19 +208,21 @@ This week, an agreement between the Board of Investment (BOI) and the Araliya Gr
 
 ---
 
-### இன்று காலை முதல் பணிப்புறக்கணிப்பு
+### The first workplace is this morning
 
 *2024-02-01 04:35:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-காலை-முதல்-பணிப்புறக்கணிப்பு/175-332457) · `ta`
 
-72 சுகாதார தொழிற்சங்கங்கள் இன்று காலை 6.30 முதல் நாடு தழுவிய பணிப்புறக்கணிப்பில் ஈடுபட தீர்மானித்துள்ளன.
+72 health unions have decided to engage in a nationwide workshop from 6.30 am today.
 
-வைத்தியர்களுக்கு வழங்குவதற்கு தீர்மானிக்கப்பட்டுள்ள 35 ஆயிரம் ரூபா வருகை மற்றும் போக்குவரத்துக் கொடுப்பனவுகளை தங்களுக்கும் வழங்க வேண்டுமென கோரிக்கையை முன்வைத்து இந்த தொழிற்சங்க நடவடிக்கை முன்னெடுக்கப்படவுள்ளது.
+The trade union action will be carried out demanding that they be paid 35 thousand rupees and transport payments to the doctors.
 
-எவ்வாறாயினும், அனைத்து சிறுவர், புற்றுநோய் மற்றும் சிறுநீரக வைத்தியசாலைகளிலும் இந்த தொழிற்சங்க நடவடிக்கை முன்னெடுக்கப்பட மாட்டாது என சுகாதார தொழிற்சங்கங்களின் கூட்டமைப்பு தெரிவித்துள்ளது. (a)
+However, the union action will not be carried out in all children's, cancer and kidney hospitals, the Federation of Health Trade Unions said that it would not be carried out.. (A)
 
 ◼️
 
 [Data](articles/60fd8dea.json)
+
+[Extended Data](ext_articles/60fd8dea.ext.json)
 
 ---
 
@@ -240,19 +242,23 @@ Additionally the BOI discussed areas of cooperation including training opportuni
 
 ---
 
-### ’உரித்து’ வேலைத்திட்டம் 5 ஆம் திகதி ஆரம்பம்
+### Exchange program starts on the 5th of 5th
 
 *2024-02-01 04:25:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரித்து-வேலைத்திட்டம்-5-ஆம்-திகதி-ஆரம்பம்/175-332456) · `ta`
 
-முறையான காணி உரிமையின்றி நெருக்கடிகளுக்கு முகம்கொடுத்திருந்த இரண்டு மில்லியனுக்கும் அதிகமான மக்களின் பிரச்சினைக்கு நிரந்தர தீர்வு வழங்கும் 'உரித்து' வேலைத்திட்டத்தின் ஆரம்ப நிகழ்வு  பெப்ரவரி 05 ஆம் திகதி திங்கட்கிழமை தம்புள்ளையில் நடைபெறவுள்ளது என சுற்றுலா, காணி மற்றும் விளையாட்டு மற்றும் இளைஞர் விவகார அமைச்சர் ஹரீன் பெர்னாண்டோ தெரிவித்தார்.
+Tourism, Land and Sports and Youth Affairs Minister Harin Fernando said the inaugural event of the 'Urithi' program will be held on Monday, February 5, to provide a permanent solution to the problem of more than two million people who have faced the right to land without proper land.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் மாநாட்டிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+He said this at a press conference held at the Presidential Media Center yesterday.
 
-காணி, காணி உறுதிப்பத்திரம், வீடு உள்ளிட்டவை கனவாக இருக்கும் மக்களின் பிரச்சினைகளுக்கு  முடிவு கட்டுவதே தற்போது எமக்கு உள்ள சவாலாகும். எனவே, அதற்காக விசேட திட்டமாக 'உரித்து' ஆரம்பிக்கப்பட்டுள்ளதோடு, அதனால் இலங்கையின் இரண்டு மில்லியன் மக்கள் வாழ்வில் மாற்றத்தை ஏற்படுத்த எதிர்பார்த்திருக்கிறோம். அதன்படி, ரன் பூமி, ஜெய பூமி மற்றும் சுவர்ண பூமி போன்ற அனுமதி பத்திரங்களை கொண்டிருக்கும் 20 லட்சத்திற்கும் மேற்பட்டவர்களுக்கு நிரந்தர  காணி உறுதியை வழங்கவுள்ளோம்.
+The challenge we currently have is to end the problems of people who are dreaming of land, land and house. Therefore, a special project has been launched and we are looking forward to making a change in the lives of two million people in Sri Lanka.. Accordingly, we will provide permanent land guarantee for more than 20 lakh people who have permits such as Run Earth, Jaya Bhumi and Swarna Earth.
 
-...
+The inaugural event will be held on February 5 in Dambulla. 10 thousand landing bonds will be issued that day. He said the project would be carried out by the country's 14,000 Grama Niladhari Divisions.. (A)
+
+◼️
 
 [Data](articles/5da8da65.json)
+
+[Extended Data](ext_articles/5da8da65.ext.json)
 
 ---
 
@@ -958,6 +964,8 @@ The Union pointed to the Power and Energy Ministry letter dated February 01, 202
 
 [Data](articles/4f141598.json)
 
+[Extended Data](ext_articles/4f141598.ext.json)
+
 ---
 
 ### Buying interest notable among most valued stocks
@@ -971,6 +979,8 @@ Amid those developments both indices moved upwards. The All- Share Price Index w
 ...
 
 [Data](articles/f1ada271.json)
+
+[Extended Data](ext_articles/f1ada271.ext.json)
 
 ---
 
@@ -1594,6 +1604,22 @@ This is the third time J Shah's Asian Cricket Council Chairman has been extended
 
 ---
 
+### Dr. Neelan Tiruchelvam: Foremost Intellectual was the Brightest Star In Tamil Political Firmament.
+
+*2024-01-31 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83524) · `en`
+
+Today (Jan 31) is the birthday of eminent constitutional lawyer, academic and politician Dr. Neelakandan Tiruchelvam. Neelan as he was popularly known would have completed eighty  years , had he been among the living today. Born on January 31, 1944, Neelan Tiruchelvam was brutally assassinated 25 years ago by the   Liberation Tigers of Tamil Eelam(LTTE)  on July 29, 1999. He was 55 at the time of his death.
+
+I had a close personal relationship with Neelan. He was my friend, philosopher and guide. He was greatly instrumental in moulding my career. He was in a sense my political mentor. It was as a journalist on the Tamil daily “Virakesari” that I first began interacting with Neelan Tiruchelvam. My relationship with him grew over the years as I moved into English journalism via ‘‘The Island ‘’and ‘‘The Hindu ‘’.
+
+...
+
+[Data](articles/528a9dbd.json)
+
+[Extended Data](ext_articles/528a9dbd.ext.json)
+
+---
+
 ### Sri Lanka inflation rises to 6.5-pct in Jan 2024, above 5.0-pct target
 
 *2024-01-31 18:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-inflation-rises-to-6-5-pct-in-jan-2024-above-5-0-pct-target-149413/) · `en`
@@ -1673,6 +1699,22 @@ However, the All Ceylon Nurses' Union, a prominent voice in the healthcare arena
 [Data](articles/978da531.json)
 
 [Extended Data](ext_articles/978da531.ext.json)
+
+---
+
+### How Fearless Publisher Krishantha  Cooray  Helped   Save the Life of an Abducted Journalist  During the  Rajapaksa Regime: A Heartfelt  Birthday salute by a Grateful Colleague and Friend.
+
+*2024-01-31 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83530) · `en`
+
+Many have been my blessings over the past 15 years after a fresh lease of life afforded me in 2008. Spending quality time with my family including my grandchild more recently as well as attending spiritual retreats, with the latest ending on Australia Day long weekend, have been standouts.
+
+Retreats are a time to reflect on life and the mysterious workings of God in one’s life. It was definitely the mercy of God that afforded me a fresh lease of life after my abductors were hellbent on literally silencing me after torture.
+
+God works on earth through angelic as well as human beings through their acts of goodness – the essence of God. At Christmas, the angels announced, “Glory to God on high and peace to men of goodwill”. Hence, a good person irrespective of their faith is already inclined towards God.
+
+...
+
+[Data](articles/27b49f5e.json)
 
 ---
 
@@ -1991,41 +2033,5 @@ Commenting further regarding the matter, the All Ceylon Nurses’ Union alleged 
 [Data](articles/ef314c6e.json)
 
 [Extended Data](ext_articles/ef314c6e.ext.json)
-
----
-
-### Buy Telecom Shares Two Chinese and Two Indian Companies
-
-*2024-01-31 16:52:18* · [`adalk`](https://www.ada.lk/breaking_news/ටෙලිකෝම්-කොටස්-මිලදී-ගන්න-චීන-හා-ඉන්දීය-සමාගම්-දෙකක්/11-407828) · `si`
-
-Two Chinese and Indian companies have been eligible to obtain majority of 50.23 percent of Sri Lanka Telecom.
-
-It is the two companies in China Gotun International Investment Holdings and Jio Platfarm in India. The Lyrican group also came to buy shares.
-
-The last time Indigenous and Chinese companies have been selected.Gio belongs to Indian expansion business business Mukesh, Mukh Ambani.
-
-◼️
-
-[Data](articles/8c1626e5.json)
-
-[Extended Data](ext_articles/8c1626e5.ext.json)
-
----
-
-### Hatton student
-
-*2024-01-31 16:52:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டன்-மாணவன்-தன்னுயிரை-மாய்த்தான்/76-332433) · `ta`
-
-A 15 -year -old schoolgirl who lived in the Marlborough area of the Lentandi estate, which belongs to the Hatton Police Division, died at his home.
-
-Police said that a school student named R. Gopi Harshan, who is studying in the 10th school in a school in Hatton, which runs under the Hatton Zonal Education Office, has lost his life.
-
-Meanwhile, Hatton police said that the body of the deceased student has been sent to the Dikoya Primary Hospital for an autopsy and is investigating the incident.
-
-◼️
-
-[Data](articles/2ca13bc5.json)
-
-[Extended Data](ext_articles/2ca13bc5.ext.json)
 
 ---

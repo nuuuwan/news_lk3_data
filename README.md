@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 15:32:46**
+As of **2024-02-01 15:51:19**
 
 ## Newspaper Stats
 
-*Scraped **4,094** Articles*
+*Scraped **4,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ newsfirstlk | 258
 dailyftlk | 258
 adalk | 366
 virakesarilk | 455
-adaderanasinhalalk | 477
+adaderanasinhalalk | 479
 adaderanalk | 514
-tamilmirrorlk | 519
-dailymirrorlk | 557
+tamilmirrorlk | 526
+dailymirrorlk | 559
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,092 (100.0%) of 4,094 articles have been extended.
+4,094 (99.7%) of 4,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### උසස් පෙළ උත්තර පත්‍ර පරීක්ෂාවෙන් ගුරුවරු ඉවතට ?
+
+*2024-02-01 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192839) · `si`
+
+උත්තර පත්‍ර පරීක්ෂා කරන ගුරුවරුන්ට ලබාදීමට නියමිත රුපියල් 2,000ක දීමනාව රජය විසින් නෙගෙවීම හේතුවෙන් එම පිරිස මේ වනවිට උත්තර පත්‍ර පරීක්ෂාවෙන් ඉවත්ව ඇතැයි ගුරු විදුහල්පති වෘත්තීය සමිති සන්ධානය පවසයි.
+
+අද (01) කොළඹ දී පැවති මාධ්‍ය හමුවකට එක්වෙමින් එම සන්ධානයේ, පූජ්‍ය යල්වෙල පඤ්ඤාසේකර හිමියන් පවසා සිටියේ, මේ හේතුවෙන් එම උත්තර පත්‍ර පරීක්ෂා කළ ගුරුවරු දැඩි ආර්ථික අර්බුදයකට පත්ව ඇති බවය.
+
+...
+
+[Data](articles/9c6870f2.json)
+
+---
+
+### கெஹலியவுக்கு பயண தடை
+
+*2024-02-01 15:06:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-பயண-தடை/175-332485) · `ta`
+
+அத்துடன், அவரை நாளை (02) குற்றப் புலனாய்வு திணைக்களத்தில் முன்னிலையாகுமாறு நீதிமன்றம் மேலும் உத்தரவிட்டுள்ளது.
+
+◼️
+
+[Data](articles/f89df7c8.json)
+
+---
+
+### கரட் விலையில் வீழ்ச்சி
+
+*2024-02-01 15:04:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கரட்-விலையில்-வீழ்ச்சி/76-332484) · `ta`
+
+நுவரெலியாவில் கரட்டின் விலை வீழ்ச்சி அடைந்துள்ளதாக    நுவரெலியா பொருளாதார மத்திய நிலைய காரியாலயம்  இன்றைய தினம் (01) தெரிவித்துள்ளது.
+
+இதற்கமைய, புதன்கிழமை (31) வரை 1100 ரூபாவுக்கு அதிகமாக மொத்த விலையில் விற்பனை செய்யப்பட்டு வந்த நுவரெலியா கரட்டின் விலையில் வீழ்ச்சி ஏற்பட்டு  இன்றைய தினம் (01) ரூ.850 க்கு மொத்த விற்பனை விலை அறிவிக்கப்பட்டுள்ளதாக பொருளாதார மத்திய நிலைய காரியாலயத்தின் முகாமையாளர் தெரிவித்துள்ளார்.
+
+அத்துடன் கடந்த காலங்களில் நுவரெலியாவில் தொடர்ச்சியாக நிலவிய சீரற்ற காலநிலையில் பாதிக்கப்பட்ட மரக்கறிகளின் விளைச்சல் தற்போது நிலவும் சீரான காநிலையில் சீராகி வருவதாக அவர் சுட்டிக்காட்டினார்.
+
+மேலும் நீண்ட நாட்களுக்கு பின் புதன்கிழமை  (31) மாலை 12 ஆயிரம் கிலோவுக்கு அதிகமான கரட்  வெளிமாவட்ட சந்தைகளுக்கு அனுப்பி வைக்கப்பட்டதுடன் ஏனைய மரக்கறிகள் அடங்களாக 55 ஆயிரம் கிலோவுக்கு அதிகமான மரக்கறிகள் வெளி சந்தைகளுக்கு அனுப்பி வைக்கப்பட்டதாகவும் தெரிவித்தார்
+
+◼️
+
+[Data](articles/f7a276c4.json)
+
+---
+
+### කෙහෙළියට විදෙස් ගමන් තහනමක්
+
+*2024-02-01 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192838) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාට විදෙස් ගමන් තහනමක් පනවා තිබේ.
+
+මාලිගාකන්ද මහේස්ත්‍රාත් අධිකරණය විසින් මෙම විදෙස් ගමන් තහනම පනවා ඇත.
+
+එහිදී අධිකරණය වැඩිදුරටත් නියෝග කර ඇත්තේ හෙට දිනයේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිටින ලෙසටය.
+
+◼️
+
+[Data](articles/10b6747e.json)
+
+---
 
 ### Foreign travel ban imposed on Minister Keheliya, ordered to appear before CID
 
@@ -43,6 +103,8 @@ Further, Rambukwella’s overseas travels have been temporarily barred on the or
 ◼️
 
 [Data](articles/69713575.json)
+
+[Extended Data](ext_articles/69713575.ext.json)
 
 ---
 
@@ -61,6 +123,8 @@ Meanwhile, the President of the Lanka Private Bus Owners’ Association (LPBOA) 
 ...
 
 [Data](articles/322cb98e.json)
+
+[Extended Data](ext_articles/322cb98e.ext.json)
 
 ---
 
@@ -105,6 +169,52 @@ President's Counsel Faizer Mustapha claimed that there was no legal base against
 [Data](articles/8d7eaf3e.json)
 
 [Extended Data](ext_articles/8d7eaf3e.ext.json)
+
+---
+
+### சி.ஐ.டிக்கு முன்பாக போராட்டம்; நீதிமன்றம் வழங்கிய உத்தரவு
+
+*2024-02-01 14:46:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சி-ஐ-டிக்கு-முன்பாக-போராட்டம்-நீதிமன்றம்-வழங்கிய-உத்தரவு/175-332482) · `ta`
+
+அவர்கள் இன்று(01) கோட்டை நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட நிலையில் அவர்களை பிணையில் விடுவிக்குமாறு உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்லவை கைது செய்யுமாறு கோரி குற்றப்புலனாய்வு திணைக்களத்திற்கு முன்பாக ஆர்ப்பாட்டத்தில் ஈடுபட்ட போதே பொலிஸாரால் இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/a804b2b9.json)
+
+---
+
+### பஸ் கட்டணங்களை அதிகரிக்குமாறு கோரிக்கை
+
+*2024-02-01 14:42:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டணங்களை-அதிகரிக்குமாறு-கோரிக்கை/175-332481) · `ta`
+
+எரிபொருள் விலை திருத்தம் காரணமாக ஏற்பட்டுள்ள பிரச்சினைகள் தொடர்பில் கலந்துரையாடுவதற்காக பஸ் தொழிற்சங்க பிரதிநிதிகள் குழுவொன்று போக்குவரத்து அமைச்சுக்கு சென்றுள்ளது.
+
+இதன்போது, குறைந்தபட்ச பஸ் கட்டணத்தில் இருந்து ஏனைய கட்டணங்களும் அதிகரிக்கப்பட வேண்டும் என பஸ் சங்க பிரதிநிதிகள் தெரிவித்துள்ளனர்.
+
+அத்துடன், எதிர்வரும் பெப்ரவரி மாதம் 15ஆம் திகதிக்கு முன்னர் கட்டண திருத்தம் அமுல்படுத்தப்பட வேண்டுமெனவும் அவர்கள் கோரிக்கை முன்வைத்துள்ளதாக தகவல் வெளியாகியுள்ளது.
+
+◼️
+
+[Data](articles/f8d47a2d.json)
+
+---
+
+### விடைத்தாள் திருத்தும் பணிகள் ஆரம்பம்
+
+*2024-02-01 14:39:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடைத்தாள்-திருத்தும்-பணிகள்-ஆரம்பம்/175-332480) · `ta`
+
+கல்விப் பொதுத் தராதரப் பத்திர உயர்தர பரீட்சைக்கான விடைத்தாள் திருத்தும் பணிகள் ஆரம்பிக்கப்பட்டுள்ளதாக பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+
+விடைத்தாள் திருத்தும் பணிகளில் ஈடுபடும் ஆசிரியர்கள் மற்றும் பிற ஊழியர்களுக்கு கடந்த ஆண்டு செலுத்தப்பட்ட அதே கட்டணமே இம்முறையும் வழங்கப்படும் என்றும் பரீட்சைகள் திணைக்களம் கூறியுள்ளது.
+
+உயர்தர பரீட்சையானது ஜனவரி 4 ஆம் திகதி முதல் 31 ஆம் திகதி நடைபெற்றதுடன், இம்முறை 346,976 பரீட்சார்த்திகள் தோற்றியமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/fc25b5ae.json)
 
 ---
 
@@ -179,6 +289,18 @@ The police were arrested while he was protesting in front of the CID to force th
 [Data](articles/fcc6bb50.json)
 
 [Extended Data](ext_articles/fcc6bb50.ext.json)
+
+---
+
+### Health workers protest...
+
+*2024-02-01 14:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Health-workers-protest/110-276136) · `en`
+
+At least 72 trade unions within the health sector engaged in their planned island-wide strike today, demanding a solution to a long-standing dispute over the Disturbance, Availability and Transport (DAT) allowance. The trade union action commenced at 6:30 a.m. today. However, tri-forces personnel have been mobilized to support hospital operations amid the island-wide strike. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/ec25d29a.json)
 
 ---
 
@@ -291,6 +413,38 @@ Kotagala Tea plantation company, Hatton Tea Plantation Company and Bogawantalawa
 [Data](articles/e287ddba.json)
 
 [Extended Data](ext_articles/e287ddba.ext.json)
+
+---
+
+### வயிற்றில் அடிக்கின்றனர் - எரிபொருள் விலை உயர்வுக்கு கடும் அதிருப்தி
+
+*2024-02-01 14:04:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/வயிற்றில்-அடிக்கின்றனர்-எரிபொருள்-விலை-உயர்வுக்கு-கடும்-அதிருப்தி/52-332479) · `ta`
+
+இரவு தூங்கி காலையில் எழும்போது எரிபொருள்களின் விலைகளை அரசாங்கம் அதிகரிப்பதாக மக்கள் விசனம் வெளியிடுகின்றனர்.
+
+அனைத்து பொருட்களின் விலைகளையும் அதிரித்து அரசாங்கம் மக்களின் வயிற்றில் அடிப்பதாகவும் மக்கள் குற்றச்சாட்டை முன்வைத்துள்ளனர்.
+
+எரிபொருள் விலை உயர்வு தொடர்பில் தமது கடும் அதிருப்தியை வெளியிடுவதாக பொதுமக்கள் கருத்து வெளியிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/94159e84.json)
+
+---
+
+### ’நீர்த்தாரை பிரயோகத்துடன் வீடு திரும்பியதுதான் மிச்சம்’
+
+*2024-02-01 13:58:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/நீர்த்தாரை-பிரயோகத்துடன்-வீடு-திரும்பியதுதான்-மிச்சம்/52-332478) · `ta`
+
+போராட்டத்தை நான் ஏற்பாடு செய்திருந்தால் சிறப்பாக செயல்பட்டிருப்பேன் என, சரத் பொன்சேகா தெரிவித்துள்ளார்.
+
+ஐக்கிய மக்கள் சக்தி நேற்று முன்தினம் கொழும்பில் ஏற்பாடு செய்திருந்த போராட்டம் தொடர்பில் கருத்து வெளியிடுகையில் அவர் இதனைக் கூறினார்.
+
+இறுதியில், போராட்டக்காரர்கள் கண்ணீப்புகை மற்றும் நீர்த்தாரை பிரயோகத்துடன் வீடு திரும்பியதுதான் மிச்சம்  என அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/ff88cd6a.json)
 
 ---
 
@@ -1710,6 +1864,24 @@ Senior Mission Chief of the International Monetary Fund (IMF) Peter Breuer had s
 
 ---
 
+### IMF next tranche to Sri Lanka at risk
+
+*2024-02-01 09:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-next-tranche-to-Sri-Lanka-at-risk/108-276104) · `en`
+
+The International Monetary Fund (IMF) could hold back the next tranche of funding for Sri Lanka under the Extended Fund Facility (EFF) if the government fails to show good faith and hold constructive talks with private creditors, Daily Mirror learns.
+
+Sources told Daily Mirror that while the Government has been having extensive talks with bilateral creditors, including China, similar discissions have not been held with the private creditors.
+
+“The size of private creditors is very significant and Sri Lanka cannot rely only on IMF or China money,” sources said.
+
+Senior Mission Chief of the International Monetary Fund (IMF) Peter Breuer had said recently that the IMF anticipates that Sri Lanka will secure an agreement with its commercial creditors, including bondholders and the China Development Bank, ahead of the next review.
+
+...
+
+[Data](articles/970edb12.json)
+
+---
+
 ### A group of suspects struggle to police
 
 *2024-02-01 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192822) · `si`
@@ -1829,257 +2001,5 @@ Sri Lanka the parliament has control of public finance, and changing taxes by ga
 [Data](articles/464079ec.json)
 
 [Extended Data](ext_articles/464079ec.ext.json)
-
----
-
-### Fonseka is against Daya
-
-*2024-02-01 07:58:01* · [`adalk`](https://www.ada.lk/breaking_news/දයා-ආපු-එකට-ෆොන්සේකා-විරුද්ධයි/11-407835) · `si`
-
-Former Army Commander Daya Ratnayake is a disgusting and a problem, however, the government is not turned off the government.
-
-Speaking to the party of Daya Ratnayake as a war hero, Gotabhaya Rajapaksa was able to attend the party yesterday.
-
-Speaking further MPs Marshal Sarath Fonseka said:
-
-"The person named Daya Ratnayake is not a person who needs to take to our party. He also has brain trouble that this Daya Ratnayake is coming to a place where I am. It shows not his shame. Because he knows how to behave in the past. I was arrested after the 2010 presidential election. At the time he was arrested, the man was held under the leadership of Mahinda Rajapaksa.
-
-There is a person in the court court judges that the judges in the war court should be more senior to the accused. Otherwise, it should be. It is a joy to investigate a senior person from junior. But for a jungle court, I left me, the judges who were there are two overseers than me.
-
-...
-
-[Data](articles/f8c460e4.json)
-
-[Extended Data](ext_articles/f8c460e4.ext.json)
-
----
-
-### Syhoppuk fuel prices will change
-
-*2024-02-01 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192820) · `si`
-
-Syinopec has also been amended to the company to operate from today.
-
-Accordingly, the new price of an Octane 92 petrol is Rs. 358 and a liter of octane 95 petrol is Rs. 456.
-
-A liter of auto diesel is Rs. 360 and a super-diesel lit.
-
-Meanwhile, the Ceylon Petroleum Corporation and Indian Oil Company have been revised from midnight yesterday (31).
-
-Accordingly, the Ceylon Petroleum Corporation has increased the price of a liter of Octane 92 liter of petrol by Rs.
-
-The new price of a liter of petrol at a cost of 366 rupees is Rs. 371.
-
-The Ceylon Petroleum Corporation stated that a liter of 80 Octane 95 petrol has been down Rs.
-
-The price of a liter of Lanka white diesel has been increased by Rs. 5 per liter of super diesel.
-
-Accordingly, the new price of a liter of Sri Lanka's white diesel is Rs. 363 and the price of a liter of diesel is Rs.
-
-In addition, the price of a liter of kerosene has been increased by Rs. 262.
-
-...
-
-[Data](articles/fa80b56e.json)
-
-[Extended Data](ext_articles/fa80b56e.ext.json)
-
----
-
-### Fee change from today
-
-*2024-02-01 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192819) · `si`
-
-Passport issuing fees today (01) have been increased.
-
-The Department of Immigration and Emigration (IMC), said that the average service fee for Rs.
-
-The Department of Immigration and Emigration says that this price revision is valid for both online and non-online divisions.
-
-Meanwhile, the prices of goods and parcels have been increased by the train schedule from today.
-
-Deputy General Manager Transport NJDipola stated that the minimum fee for Rs. 50 has been increased to Rs.
-
-◼️
-
-[Data](articles/2f324a5c.json)
-
-[Extended Data](ext_articles/2f324a5c.ext.json)
-
----
-
-### Rs. Grama Niladhari made bribe of 10000
-
-*2024-02-01 07:44:42* · [`adalk`](https://www.ada.lk/breaking_news/රු--10000ක-අල්ලසක්-ගත්-ග්‍රාම-නිලධාරීට-වැඩ-වරදි/11-407834) · `si`
-
-The Commission (Divisional Secretariat) was arrested yesterday (31st) following charges with the bribe of Rs.
-
-According to a complaint lodged by the Commission to Investigate Allegations to the Commission to Investigate Allegations to the Commission to Investigate Allegations of Bribery in Katuwewa, Hambantota has been arrested by officials.
-
-Thus, the complainant had obtained the necessary documents to change the ticket to change the water and electricity bill to the name of the house and the electricity bar.
-
-The suspect was to be produced before the Hambantota Magistrate's Court today and the Commission of Investigations have told the Commission.
-
-◼️
-
-[Data](articles/34e42a7d.json)
-
-[Extended Data](ext_articles/34e42a7d.ext.json)
-
----
-
-### Rs. Grama Niladhari made bribe of 10000
-
-*2024-02-01 07:44:27* · [`adalk`](https://www.ada.lk/breaking_news/රු--10000ක-අල්ලසක්-ගත්-ග්‍රාම-නිලධාරීට-වැඩ-වරදි/11-407833) · `si`
-
-The Commission (Divisional Secretariat) was arrested yesterday (31st) following charges with the bribe of Rs.
-
-According to a complaint lodged by the Commission to Investigate Allegations to the Commission to Investigate Allegations to the Commission to Investigate Allegations of Bribery in Katuwewa, Hambantota has been arrested by officials.
-
-Thus, the complainant had obtained the necessary documents to change the ticket to change the water and electricity bill to the name of the house and the electricity bar.
-
-The suspect was to be produced before the Hambantota Magistrate's Court today and the Commission of Investigations have told the Commission.
-
-◼️
-
-[Data](articles/958cf0d2.json)
-
-[Extended Data](ext_articles/958cf0d2.ext.json)
-
----
-
-### Sinaman Laxide Report on Soup issue
-
-*2024-02-01 07:40:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூப்-விவகாரம்-குறித்து-சினமன்-லேக்சைட்-அறிக்கை/175-332462) · `ta`
-
-In response to the recent reports of the alleged incident, the foundation has made it clear about the incident in Chinaman Laxide in Colombo.
-
-In a report, the incident made it clear that the soup was unrelated to the soup exchanged at the restaurant, and the guest used white pepper in her soup.
-
-Cinnamon Lakeside Colombo has been actively cooperating with the Ministry of Health and Public Health Inspectors (PHIS) during their inquiries.
-
-The company has made it clear that it has carried out its own tests in the same constituency of the purchased white pepper and is the best use.
-
-The report also emphasized that "no such incidents have been reported from the restaurant on that day."
-
-However, the Cinnamon Lakeside Colombo is awaiting the results of the examination conducted by the Ministry of Health.
-
-◼️
-
-[Data](articles/03f10a0d.json)
-
-[Extended Data](ext_articles/03f10a0d.ext.json)
-
----
-
-### 2 million foreigners in January to the island
-
-*2024-02-01 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192818) · `si`
-
-Tourist arrivals to the island have also been exceeded in January this year.
-
-According to the Travel Development Authority, a tourist arrivals in the island have arrived in the island from the first to 30th to 30th of January.
-
-The majority of them are Indian and Russia, British and Germany have also arrived.
-
-More than 210,000 tourists arrived in December last year.
-
-Meanwhile, the Administration of the Lotus Tower was reported to visit the Lotus Tower within 16 months.
-
-As a 50,000-district, a Bulgarian woman visited the tower yesterday (31) and she was also a special gift.
-
-◼️
-
-[Data](articles/c770e624.json)
-
-[Extended Data](ext_articles/c770e624.ext.json)
-
----
-
-### Telecom stocks sale to India and China
-
-*2024-02-01 07:29:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெலிகொம்-பங்குகள்-இந்தியா-மற்றும்-சீனாவுக்கு-விற்பனை/175-332461) · `ta`
-
-India's Geo Platform has decided to sell 53.23 per cent of the shares of 53.23 per cent to China's Cotune International International Investment Holding Company.
-
-In a statement issued by the Ministry of Finance and Economic Affairs, Chinese and Indian companies have been selected in the final resolution of selling 50.23 per cent of the state -owned shares of Telecom.
-
-The government has decided to rehabilitate the loss of state institutions. Accordingly, the ministry level has been appointed by the Department of Department of Ministry and measures have been taken.
-
-◼️
-
-[Data](articles/664492f0.json)
-
-[Extended Data](ext_articles/664492f0.ext.json)
-
----
-
-### Notice of thunderstorms
-
-*2024-02-01 07:24:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-குறித்த-அறிவிப்பு/175-332460) · `ta`
-
-The Department of Meteorology has said that rainfall will occur in the Eastern and Uva provinces as well as in Mullaitivu, Matale and Polonnaruwa districts.
-
-Rainfall or thunderstorms are likely to occur after two o'clock in the other parts of the country.
-
-Heavy rains are expected to occur up to 75mm in the Central and Sabaragamuwa Provinces, as well as some of the Galle and Matara districts.
-
-In some parts of the Central and Sabaragamuwa provinces, as well as in the Galle and Matara districts
-
-The public is asked to act with vigilance in cases where strong winds and lightning are occurring.
-
-Rainfall or thunderstorms are likely to occur in many parts of the sea regions along the coast of Trincomalee to Batticaloa to Batticaloa.
-
-Showers or thunderstorms are likely to occur in some parts of the sea regions from Hambantota to Matara.
-
-Winds from the northeast or east of the sea at 20 - 30 millimeters per hour in the sea regions.
-
-...
-
-[Data](articles/0e179026.json)
-
-[Extended Data](ext_articles/0e179026.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-02-01 07:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96902/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of showers will occur in Eastern and Uva provinces and in Mullaitivu, Matale and Polonnaruwa districts.
-
-Showers or thundershowers will occur at several places elsewhere of the island after 2.00 p.m.
-
-Fairly heavy showers about 75 mm are likely at some places in Central and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Misty conditions can be expected at some places in Central and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
-
-The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/f4865922.json)
-
-[Extended Data](ext_articles/f4865922.ext.json)
-
----
-
-### US Federal Reserve keeps rates unchanged, amid recession concerns
-
-*2024-02-01 07:19:00* · [`economynextcom`](https://economynext.com/us-federal-reserve-keeps-rates-unchanged-amid-recession-concerns-149427/) · `en`
-
-ECONOMYNEXT- The US Federal Reserve has kept rates unchanged at 5.25 to 5.50 percent saying economic activity is still expanding, amid concerns raised by economists that US broad money supply is shrinking in a trend that has only happened on a few occasions in the past.
-
-The Fed will also continue to reduce excess liquidity on the same path as earlier.
-
-The US borrowed heavily and gave ‘pandemic checques’ as the Fed printed money, during and several banks with government had got into trouble as interest rates went up.
-
-Recent indicators suggest that economic activity has been expanding at a solid pace. Job gains have moderated since early last year but remain strong, and the unemployment rate has remained low. Inflation has eased over the past year but remains elevated.
-
-...
-
-[Data](articles/05b063e6.json)
-
-[Extended Data](ext_articles/05b063e6.ext.json)
 
 ---

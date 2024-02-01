@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 13:33:06**
+As of **2024-02-01 13:51:54**
 
 ## Newspaper Stats
 
-*Scraped **4,065** Articles*
+*Scraped **4,072** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,61 @@ dailyftlk | 258
 adalk | 358
 virakesarilk | 454
 adaderanasinhalalk | 470
-adaderanalk | 508
-tamilmirrorlk | 513
+adaderanalk | 509
+tamilmirrorlk | 519
 dailymirrorlk | 556
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,059 (99.9%) of 4,065 articles have been extended.
+4,065 (99.8%) of 4,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### 2023 A/L exam paper-marking gets underway
+
+*2024-02-01 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96912/2023-al-exam-paper-marking-gets-underway) · `en`
+
+The Department of Examinations has commenced evaluating the answer scripts of the 2023 G.C.E. Advanced Level Examination.
+
+Accordingly, the paper-marking staff including the chief evaluators will be paid the same amount given to them last year, the Ministry of Education said in a media release published today (Feb.01).
+
+The 2023 G.C.E. Advanced Level Examination was held from January 04 to 31 at more than 2,300 centres, with a total of 346,976 candidates sitting for the highly competitive national test.
+
+It was reported that 281,445 of the candidates were school applicants while the rest of the 65,531 were private applicants.
+
+However, the students are facing the A/L examination’s Agricultural Science question papers I and II once again today (Feb.01) after the earlier test papers were cancelled and rescheduled. The test held in January was annulled after it was revealed that several questions of both Paper I and II had been leaked.
+
+...
+
+[Data](articles/b4d7112e.json)
+
+---
+
+### சம்பளத்தை அதிகரிக்க அரசாங்கம் நடவடிக்கை
+
+*2024-02-01 12:52:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளத்தை-அதிகரிக்க-அரசாங்கம்-நடவடிக்கை/175-332475) · `ta`
+
+திறந்த மற்றும் பொறுப்புக்கூறல் அரசாங்கத்திற்கான துறைசார் மேற்பார்வைக் குழு தனியார் துறை ஊழியர்களின் சம்பளத்தை அதிகரிப்பதில் கவனம் செலுத்தியது.
+
+பாராளுமன்ற உறுப்பினர் ஜகத் குமார சுமித்ராராச்சி தலைமையில் அண்மையில் பாராளுமன்றத்தில் குழு கூடிய போதே கலந்துரையாடலொன்று இடம்பெற்றுள்ளது.
+
+இதற்கமைய, இன்றைய தினம் (01)  தொழிலாளர் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சு மற்றும் நுகர்வோர் சேவை அதிகாரசபையின் அதிகாரிகள் குழுவொன்று குழுவின் முன் அழைக்கப்பட்டது.
+
+தனியார் துறை ஊழியர்களின் சம்பளப் பிரச்சினை தற்போது தீவிரமாக எழுப்பப்பட்டுள்ளதாக குழுவின் தலைவர் தெரிவித்தார். அதன்படி, அந்தத் துறை ஊழியர்களின் ஊதியத்தை அதிகரிப்பதில் தொழிலாளர் அமைச்சகத்தின் தலையீடு எப்படி இருக்கும் என்பது குறித்து அந்தக் குழுவிசாரித்தது.
+
+மேலும், தனியார் துறையில் சுமார் 3 மில்லியன் சம்பளம் பெறும் ஊழியர்கள் மட்டுமே தொழிலாளர் சட்டத்தின் கீழ் உள்ளதாக தொழிலாளர் அமைச்சக அதிகாரிகள் தெரிவித்தனர்.
+
+இதன்படி, தனியார் துறை ஊழியர்களின் குறைந்தபட்ச சம்பளத்தை 12,500 ரூபாவில் இருந்து 21,000 ரூபாவாக அதிகரிக்க தொழில் அமைச்சு அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/58ddf5b7.json)
+
+---
 
 ### Mysterious death of a school boy;14 days of explanation for the supervisor woman again
 
@@ -50,31 +92,35 @@ The applications of the police and the defendant's lawyer have been investigated
 
 ---
 
-### செங்கடல் பகுதியில் அமெரிக்க கப்பலை தாக்கியுள்ளோம் - உரிமை கோரினர் ஹெளத்தி கிளர்ச்சியாளர்கள்
+### We have hit American ship in the Red Sea
 
 *2024-02-01 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175305) · `ta`
 
-யேமனின் ஏடன் துறைமுகத்திலிருந்து தென்பகுதியில் காணப்பட்ட கப்பலொன்று வெடிப்பு சம்பவம் குறித்து தகவல் வெளியிட்டுள்ளது என கடல்சார் பாதுகாப்பு நிறுவனமான அம்பிரே தெரிவித்துள்ளது.
+The maritime security agency, Ambre, said that a ship found in the south of Yemen's Adeda port has revealed the explosion.
 
-பல கடற்படை ஏவுகணைகளை பயன்படுத்தி அமெரிக்காவிற்கு சொந்தமான கேஓஐஎன்ற கப்பலை இலக்குவைத்துள்ளதாக ஹெளத்தி கிளர்ச்சியாளர்களின் பேச்சாளர் தெரிவித்துள்ளார்.
+A spokesman for the rebels said the US -owned KOI was targeted using several naval missiles.
 
 ◼️
 
 [Data](articles/264c3e73.json)
 
+[Extended Data](ext_articles/264c3e73.ext.json)
+
 ---
 
-### උසස් පෙළ උත්තරපත්‍ර සමීක්ෂණය ගැන දැනුම්දීමක්
+### Notice of A / L Survey of A / L
 
 *2024-02-01 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192830) · `si`
 
-අපොස උසස් පෙළ උත්තරපත්‍ර සමීක්ෂණ කටයුතු මේ වනවිට ආරම්භ කර ඇතැයි විභාග දෙපාර්තමේන්තුව දැනුම්දෙයි.
+The Department of Examinations is informed that the survey work has been launched by the GCE A / L.
 
-මෙවර ද පසුගිය වසරේ ගෙවන ලද ගාස්තු ප්‍රමාණයම ඒ ආකාරයට උත්තරපත්‍ර පරීක්ෂා කරන ප්‍රධාන පරීක්ෂකවරුන් ඇතුළු කාර්ය මණ්ඩලයට ගෙවීමට කටයුතු කරන බව ද එම දෙපාර්තමේන්තුව නිවේදනය කරයි.
+This year, the fees previously paid last year is to pay the Chief Inspectors to test the answer.
 
 ◼️
 
 [Data](articles/becb936b.json)
+
+[Extended Data](ext_articles/becb936b.ext.json)
 
 ---
 
@@ -94,19 +140,53 @@ Accordingly, all liquor-selling establishments will close at 10:00 p.m. on 03 Ja
 
 ---
 
-### සෞඛ්‍ය ලොක්කා පැය 10ක් CIDයේ
+### Health boss is 10 hours CID
 
 *2024-02-01 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192829) · `si`
 
-ප්‍රශ්නගත ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීම සම්බන්ධයෙන් වූ නඩුවට අදාළව සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම් වෛද්‍ය සමන් රත්නායක මහතාගෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඊයේ (31) පැය 10ක කාලයක් ප්‍රකාශ සටහන් කරගෙන තිබේ.
+Additional Secretary to the Ministry of Health Dr. Saman Ratnayake has recorded statements for 10 hours yesterday (31).
 
-හදිසි මිලදීගැනීම්වලට මුවාවී ව්‍යාජ ලේඛන සකස්කරමින් ප්‍රමිතියෙන් තොර හියුමන් ඉමියුනොග්ලොබියුලින් ප්‍රතිදේහ එන්නත් මාත්‍රා සැපයීම, මිලදීගැනීම සහ මෙරට රෝහල් පද්ධතිය තුළ බෙදාහැරීම සම්බන්ධයෙන් වූ නඩුවට අදාළව ප්‍රකාශයක් ලබාදීම සඳහා සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම් වෛද්‍ය සමන් රත්නායක මහතා ඊයේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කැඳවා තිබුණි.
+Additional Secretary to the Ministry of Health Dr. Saman Ratnayake was summoned to the Criminal Investigation Department to provide substandard purchases and delivery of the false documents.
 
-මේ අතර මෙම නඩුවට අදාළව ප්‍රකාශයක් ලබාදීමට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ ඊයේ  පෙනී සිටින ලෙස හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාට දැනුම් දී තිබුණද ඔහු ඊයේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී නොසිටියේය.
+Meanwhile, former Health Minister Keheliya Rambukwella has informed the Criminal Investigation Department yesterday, but he did not appear before the CID yesterday.
+
+The Minister has informed the Investigation Officer that the Criminal Investigation Department was not able to see that he had not seen a Ministerial Subcommittee in the Presidential Secretariat and the Presidential Secretariat.
+
+Accordingly, the OIC of the Criminal Investigation Department has asked the OIC of the Criminal Investigation Department to give a different date.
 
 ...
 
 [Data](articles/a71a18c1.json)
+
+[Extended Data](ext_articles/a71a18c1.ext.json)
+
+---
+
+### தவணை முறையில் பணம் செலுத்த நடவடிக்கை
+
+*2024-02-01 12:21:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவணை-முறையில்-பணம்-செலுத்த-நடவடிக்கை/175-332474) · `ta`
+
+புதிய மின் இணைப்புகளுக்கு ஒரே நேரத்தில் பணம் செலுத்த முடியாத விண்ணப்பதாரர்களுக்கு தவணை முறையில் பணம் செலுத்துவதற்கு தேவையான நடவடிக்கைகளை எடுக்குமாறு மின்சார சபையிடம் மின்சாரம் மற்றும் எரிசக்தி அமைச்சர் கஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+
+மின்சார சபையின் எஞ்சிய சேவைகளுக்கு தவணை முறையில் பணம் செலுத்துவதற்கு வசதி செய்து தருமாறு பணிப்புரை விடுத்ததாகவும், இந்த வசதிகளை விரைவில் அறிவிக்க வேண்டும் என்றும் அமைச்சர் தெரிவித்தார்.
+
+இதற்கமைய, இவ்வருட மின் உற்பத்தித் திட்டம், அட்டவணை, சேவைச் செலவுகள், மின்சார உற்பத்திக்குத் தேவையான எரிபொருளின் விலை, காலநிலை முன்னறிவிப்புக்கள் தொடர்பில் மின்சார சபையின் செயற்பாட்டுப் பிரிவுடன் கலந்துரையாடியதாக அமைச்சர் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c1cca855.json)
+
+---
+
+### அனைத்து மதுபானக் கடைகளுக்கும் பூட்டு
+
+*2024-02-01 12:18:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-மதுபானக்-கடைகளுக்கும்-பூட்டு/175-332473) · `ta`
+
+76 ஆவது சுதந்திர தினத்தை முன்னிட்டு ஞாயிற்றுக்கிழமை (04) அனைத்து மதுபானக் கடைகளும் மூடப்படும் என மதுவரித் திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/b4125bba.json)
 
 ---
 
@@ -206,19 +286,21 @@ The MP said some 8,000 people participated in the protest but ultimately it was 
 
 ---
 
-### රෝහල්වලට හමුදාව කැඳවයි
+### Army calls for hospitals
 
 *2024-02-01 11:26:40* · [`adalk`](https://www.ada.lk/breaking_news/රෝහල්වලට-හමුදාව-කැඳවයි/11-407839) · `si`
 
-සෞඛ්‍ය වෘත්තීය සමිති ආරම්භ කර ඇති වැඩ වර්ජනය  හේතුවෙන් බලපෑමට ලක්ව ඇති රෝහල් කටයුතු සාමාන්‍ය මට්ටමට ගෙන ඒ්ම වෙනුවෙන් ත්‍රිවිධ හමුදා සාමාජිකයන් ‌‌යොදවා තිබේ.
+Armed Forces have been deployed to normalize the affected hospitals due to the strike commenced by the Health Trade Unions.
 
-සෞඛ්‍ය වෘත්තීය සමිති අද පෙරවරු 6.30 සිට අඛණ්ඩ වැඩ වර්ජනයක් ආරම්භ කර තිබේ.
+Health Trade Unions have launched a continuing strike from 6.30 am today.
 
-කොළඹ සහ මහනුවර ජාතික රෝහල් කළුබෝවිල, කරාපිටිය, මහමෝදර, පේරාදෙණිය, අනුරාධපුර සහ කුරුණෑගල ශික්ෂණ රෝහල් ද මාතර, බලංගොඩ, ඇහැළියගොඩ, නාවලපිටිය, බදුල්ල, ගම්පොළ, මීරිගම, හෝමාගම සහ කෑගල්ල ඇතුළුව රෝහල් 26ක දෛනික කටයුතු බාධාවකින් තොරව අඛණ්ඩව පවත්වාගෙන යාම සඳහා යුද්ධ හමුදාවේ 700කට ආසන්න භට පිරිසක් යොදවා තිබේ.
+Sri Lanka Hospitals, Karapitiya, Naam Podara, Badulla, Gampola, Nawaluwa, Badulla, Gampola, Mairigama, Badulla, Gampola, Meerigama, Badulla and Kegalle hospitals in Matara and 26 hospitals have been continuouslyA group of troops have been deployed.
 
 ◼️
 
 [Data](articles/1fe2e63d.json)
+
+[Extended Data](ext_articles/1fe2e63d.ext.json)
 
 ---
 
@@ -237,6 +319,26 @@ Police said that the man was arrested in the area near the Jaffna city and is be
 [Data](articles/1a4f3d42.json)
 
 [Extended Data](ext_articles/1a4f3d42.ext.json)
+
+---
+
+### திடீரென உண்ணாவிரதத்தில் குதித்த முருகன், ராபர்ட் பயஸ்
+
+*2024-02-01 11:16:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-உண்ணாவிரதத்தில்-குதித்த-முருகன்-ராபர்ட்-பயஸ்/175-332470) · `ta`
+
+திருச்சி சிறப்பு  முகாமில் தடுத்து வைக்கப்பட்டுள்ள முருகன், ராபர்ட் பயஸ் ஆகியோர்   உண்ணாவிரத போராட்டத்தில் ஈடுபடப் போவதாக தமிழக முதலமைச்சருக்கு கடிதம் அனுப்பி உள்ளனர்.
+
+"முன்னாள் பிரதமர் ராஜீவ் காந்தி கொலை வழக்கில் 32 ஆண்டுகளுக்கும் மேலாக சிறைவாசம் அனுபவித்து வந்த நிலையில்இ ஏறக்குறைய ஒன்றை ஆண்டுகளுக்கு முன்பு உச்ச நீதிமன்றத்தால் விடுதலை செய்யப்பட்டோம்.
+
+சட்டத்தின் பிடியிலிருந்து விடுவிக்கப்பட்டாலும் இன்னும் சிறை கொட்டடியில் இருந்து விடுவிக்கப்படவில்லை. சிறப்பு முகாம் எனப்படும் மற்றொரு சிறையில் அடைத்தார்கள். திருச்சியில் உள்ள சிறப்பு முகாமில் ராபர்ட் பயஸ், ஜெயக்குமார், சாந்தன், முருகனும் அடைத்து வைக்கப்பட்டுள்ளோம்.
+
+சிறப்பு முகாம் எனப்படுவது சிறையை விட கொடுமையானதாக இருக்கிறது. இங்கு நடைபயிற்சி செய்வதற்கோ நண்பர்களை பார்ப்பதற்கோ முடியவில்லை.
+
+சிறைவாசிகளோடு பழகுவதற்கு கூட எந்தவித அனுமதியும் வழங்கப்படுவதில்லை. சிறப்பு முகாமில் அடைக்கப்பட்ட நாளில் இருந்து பல மாதங்கள் ஆரம்பத்தில் அறையிலேயே தங்க வைக்கப்பட்டதால் பல நோய்களுக்கு உள்ளாகி உள்ளனர்.
+
+...
+
+[Data](articles/24355da7.json)
 
 ---
 
@@ -260,6 +362,24 @@ New York representative Claudia Tenney said in a statement that she decided to n
 
 ---
 
+### நிகழ்நிலை காப்புச் சட்டத்தில் சபாநாயகர் கையெழுத்திட்டார்
+
+*2024-02-01 11:14:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிகழ்நிலை-காப்புச்-சட்டத்தில்-சபாநாயகர்-கையெழுத்திட்டார்/175-332469) · `ta`
+
+சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன, கடந்த வாரம் பாராளுமன்றத்தால் அங்கீகரிக்கப்பட்ட இணையவழி பாதுகாப்புச் சட்டமூலத்தின் சான்றிதழை  மஹிந்த யாப்பா அபேவர்தன சான்றுரைப்படுத்தியுள்ளார்.
+
+அதற்கமைய, ஜனவரி மாதம் 23 மற்றும் 24ஆம் திகதிகளில் பாராளுமன்றத்தில் விவாதிக்கப்பட்டு திருத்தங்களுடன்  நிறைவேற்றப்பட்ட நிகழ்நிலைக் காப்புச் சட்டமூலத்தை சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன இன்றைய தினம்  (01) சான்றுரைப்படுத்தினார்.
+
+இதற்கமைய இந்தச் சட்டமூலம் 2024 ஆம் ஆண்டின் 9ஆம் இலக்க நிகழ்நிலைக் காப்புச் சட்டமாக நடைமுறைக்கு வருகிறது.
+
+அத்துடன், பாராளுமன்றத்தில் விவாதித்து திருத்தங்களுடன் கடந்த ஜனவரி மாதம் 09ஆம் திகதி நிறைவேற்றப்பட்ட தேசிய நீரளவை சட்டமூலம் மற்றும் ஜனவரி மாதம் 10ஆம் திகதி நிறைவேற்றப்பட்ட நீதிமன்றம், நியாயசபை அல்லது நிறுவனமொன்றை அவமதித்தல் சட்டமூலம் ஆகியவற்றிலும் சபாநாயகர் தனது கையொப்பத்தையிட்டு சான்றுரைப்படுத்தினார்.
+
+...
+
+[Data](articles/466d551f.json)
+
+---
+
 ### Even though we are released from the clutches of the law, we are still in prison;Murugan Robertbayas letter to Tamil Nadu Chief Minister - indefinite fasting!
 
 *2024-02-01 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175291) · `ta`
@@ -278,19 +398,21 @@ The law is released from the clutches of the law but has not yet been released f
 
 ---
 
-### ජනවාරියේ සංචාරක පැමිණීම දෙලක්ෂය ඉක්මවයි
+### Tourist arrivals over the million January
 
 *2024-02-01 11:02:59* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරියේ-සංචාරක-පැමිණීම-දෙලක්ෂය-ඉක්මවයි/11-407837) · `si`
 
-ජනවාරි මාසය තුළ දිවයිනට පැමිණි සංචාරකයින් සංඛ්‍යාව ලක්ෂ දෙක ඉක්මවා ගොස් තිබේ. ජනවාරි පළමු දින සිට 30 වන දින දක්වා කාලය තුළ දිවයිනට සංචාරකයින් 201,687 ක් පැමිණ තිබේ.
+Tourist arrivals to the island have exceeded two million in January.Tourist arrivals to the island from the first to 30th of January have arrived in the island.
 
-පසුගිය වසරේ දෙසැම්බර් මාසය තුළ ද දිවයිනට සංචාරකයින් 210,000කට අධික සංඛ්‍යාවක් පැමිණියේය. ඒ් අනුව පිට පිටම දෙවැනි මාසයටත් ශ්‍රී ලංකාවට පැමිණි සංචාරකයන් සංඛ්‍යාව ලක්ෂ දෙකේ සීමාව ඉක්මවා තිබේ.
+More than 210,000 tourists arrived in December last year. The number of tourist arrivals to Sri Lanka for the second month, Sri Lanka has exceeded the two million.
 
-ජනවාරි මාසය තුළ ශ්‍රී ලංකාවට වැඩිම සංචාරකයන් ප්‍රමාණයක් පැමිණ ඇත්තේ  ඉන්දියාවෙනි. ඉන් අනතුරුව රුසියාවෙනි.
+Sri Lanka has come to Sri Lanka in January. Thereafter it was Russia.
 
 ◼️
 
 [Data](articles/7dffb35b.json)
+
+[Extended Data](ext_articles/7dffb35b.ext.json)
 
 ---
 
@@ -342,17 +464,19 @@ He told the Meta CEO Mark Zankarburg, "You have a product ... and it killed peop
 
 ---
 
-### පාස්පෝට් ගාස්තු ඩබල් වෙයි
+### Passport fees double
 
 *2024-02-01 10:57:25* · [`adalk`](https://www.ada.lk/breaking_news/පාස්පෝට්-ගාස්තු-ඩබල්-වෙයි/11-407836) · `si`
 
-විදේශ ගමන් බලපත්‍ර නිකුත් කිරීමේ ගාස්තුව දෙගුණයකින් ඉහළ දැමීමට ආගමන හා විගමන දෙපාර්තමේන්තුව කටයුතු කර තිබේ.
+The Department of Immigration and Emigration has taken measures to double the passports fees.
 
-ඒ අනුව අද (01දා) සිට ක්‍රියාත්මක වන පරිදි මාර්ගගත හා මාර්ගගත නොවන අංශ දෙක සඳහාම අදාළවන පරිදි රුපියල් 5,000ක්ව පැවති සාමාන්‍ය සේවා විදෙස් ගමන් බලපත්‍ර ගාස්තුව රුපියල් 10,000 දක්වා ඉහළ දැමිමට කටයුතු කර තිබේ.
+Accordingly, the General Services Foreign Passport Fee (5,000) has been increased to Rs. 10,000.
 
 ◼️
 
 [Data](articles/23115bb6.json)
+
+[Extended Data](ext_articles/23115bb6.ext.json)
 
 ---
 
@@ -493,6 +617,20 @@ Meanwhile, the Colombo Lotus Tower was inaugurated on September 15, 2022.
 [Data](articles/3a3550bd.json)
 
 [Extended Data](ext_articles/3a3550bd.ext.json)
+
+---
+
+### பாடசாலை வாகன கட்டணங்கள் அதிகரிப்பு
+
+*2024-02-01 10:39:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-வாகன-கட்டணங்கள்-அதிகரிப்பு/175-332466) · `ta`
+
+எரிபொருள் விலை அதிகரிப்பு காரணமாக இன்று (01) முதல் பாடசாலை வாகன கட்டணங்கள் அதிகரிக்கப்படவுள்ளதாக மாகாணங்களுக்கிடையிலான பாடசாலை சிறுவர் போக்குவரத்து சேவை சங்கம் தெரிவித்துள்ளது.
+
+இந்தக் கட்டணங்களை பத்து வீதம் மற்றும் பதினைந்து வீதத்தால் அதிகரிக்க தொழிற்சங்கம் தீர்மானித்துள்ளது.
+
+◼️
+
+[Data](articles/06e48369.json)
 
 ---
 
@@ -1919,163 +2057,5 @@ During a press conference, Fonseka revealed that he has been receiving calls and
 [Data](articles/92b9faeb.json)
 
 [Extended Data](ext_articles/92b9faeb.ext.json)
-
----
-
-### Passports to cost dearly
-
-*2024-02-01 04:19:45* · [`dailyftlk`](https://www.ft.lk/news/Passports-to-cost-dearly/56-758008) · `en`
-
-The Immigration and Emigration Department announced yesterday that it has increased passport issuance fees for two categories, effective from today.
-
-As per the new revision, normal and online passport issuance prices have increased from Rs. 5,000 to Rs. 10,000.
-
-The fee adjustment follows a previous increase on 17 November 2022, where 10 different passport-related fees experienced an upward revision.
-
-In 2023, the Immigration and Emigration Department issued a total of 849,829 passports, slightly below the all-time high of 911,757 passports issued in 2022. Despite the levy hike, the Immigration and Emigration Department officials said no deceleration was seen in applications received.
-
-◼️
-
-[Data](articles/75915ad2.json)
-
-[Extended Data](ext_articles/75915ad2.ext.json)
-
----
-
-### Media
-
-*2024-02-01 02:05:58* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ck56853rn22o) · `si`
-
-Media
-
-There is no doubt many Sri Lankan people have heard about 'Win'.
-
-Basically, dance and music is studying about three varieties of waters.
-
-There will be a range of many traditions in the country, low country, low country and Sabaragamuwa.
-
-However, a tradition of a tradition is also disclosed in addition to these variants.
-
-It is revealed that tradition was in the old Sinhala society in the old Sinhala society, accordingly, in the old Sinhala society.
-
-It is reported about 21 Rajarata Wannesis and is known as Rajarata.
-
-The specialty of the tradition of Rajarata Wanna is that they were not designed for dance, but for singing.
-
-This article is trying to introduce the 'medidatories' to the tradition of Rajarata Wanna.
-
-Going to go to the meaning of the. Accordingly, this is done by the fact that the plot of madien is done.
-
-These beers say, how the life cycle of Madi is gradually. Scientifically explains how the life cycle of the life cycle of the Madianion, as well as their voice is changing.
-
-...
-
-[Data](articles/58e92ef5.json)
-
-[Extended Data](ext_articles/58e92ef5.ext.json)
-
----
-
-### Wetlands: Nature’s Sponges, Vital For Our Well-Being
-
-*2024-02-01 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Wetlands-Natures-Sponges-Vital-For-Our-Well-Being/172-276077) · `en`
-
-The government last week put through the Online Safety Bill despite protests that it is a drastic step towards curbing dissent. Opposition speakers said that the Supreme Court had proposed 13 changes but they had not been included. They asked the Speaker not to sign the Bill, but the Speaker later announced that the Supreme Court changes had been included and he would sign it.
-
-While focusing on issues such as online safety, the government in this election year needs to also concentrate on issues such as wetlands and the vital role they play in maintaining diversity for sustainable development.
-
-...
-
-[Data](articles/3005333e.json)
-
-[Extended Data](ext_articles/3005333e.ext.json)
-
----
-
-### Wanted: An Authentic Minister of Finance Sri Lanka Has Not Had One, For Three And A Half Decades
-
-*2024-02-01 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Wanted-An-Authentic-Minister-of-Finance-Sri-Lanka-Has-Not-Had-One-For-Three-And-A-Half-Decades/172-276078) · `en`
-
-Exceptionally, from 2017-2019, Mangala Samaraweera held the title and did the job. He was the first Finance Minister in a long time to pay serious attention to tax policy
-
-The problems lie in inadequate constitutional or institutional restraints on how government power is used. That is exactly the kind of problem that the new Central Bank Act is designed to solve.
-
-...
-
-[Data](articles/939ca7ea.json)
-
-[Extended Data](ext_articles/939ca7ea.ext.json)
-
----
-
-### 2024-01-31 (Wednesday)
-
-### Observation coaches cause 80% of derailments in upcountry
-
-*2024-01-31 23:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Observation-coaches-cause-80-of-derailments-in-upcountry/108-276066) · `en`
-
-Colombo, Jan 31 (Daily Mirror) - Due to possible derailments of 55-seater train observation coaches, the Railways Department has advised removing 2 out of 4 compartments from operation in the upcountry with immediate effect, Railways General Manager H.M.K.W. Bandara said.
-
-He told the Daily Mirror that the decision was taken due to the sharpness of the bends on upcountry railway lines.
-
-The GMR said that 80% of the train derailments on the upcountry railway lines were observation coaches.
-
-Therefore, he recommended assigning 45-seater train observation coaches to operate on upcountry railway lines.
-
-Two 55-seater train observation coaches have already been modified, and another two are still under modification.
-
-He also said that instructions have been given to modify the 55-seater train observation coaches to 45-seater train observation coaches immediately. Accordingly, the new compartments will come into operation by next week.
-
-◼️
-
-[Data](articles/19a3ef55.json)
-
-[Extended Data](ext_articles/19a3ef55.ext.json)
-
----
-
-### Sinopec also revises fuel prices
-
-*2024-01-31 23:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/96901/sinopec-also-revises-fuel-prices) · `en`
-
-Sinopec Energy Lanka has also decided to revise its retail fuel prices with effect from midnight today (January 31).
-
-Accordingly, the price of Petrol 92 Octane has been increased by Rs. 05 to Rs. 368 per litre while Petrol 95 Octane has been reduced by Rs. 08 to Rs. 456 per litre.
-
-Auto Diesel price has been increased by Rs. 05 to Rs. 360 per litre and Super Diesel has been slashed by Rs. 07 with the new price set at Rs. 468 per litre.
-
-The Ceylon Petroleum Corporation (CEYPETCO) and Lanka IOC had also announced revision in prices from midnight today.
-
-◼️
-
-[Data](articles/67fca6d9.json)
-
-[Extended Data](ext_articles/67fca6d9.ext.json)
-
----
-
-### Ceylon Petroleum Corporation Announces Fuel Price Adjustments
-
-*2024-01-31 23:41:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/ceylon-petroleum-corporation-announces-fuel-price-adjustments/) · `en`
-
-COLOMBO (News 1st); The Ceylon Petroleum Corporation (CEYPETCO) announced revisions to fuel product prices, effective February 1st, 2024. The adjustments reflect a mixed bag of increases and decreases across various categories.
-
-Lanka Petrol 92 Octane: Increase of Rs. 5 per liter to Rs. 371 (previously Rs. 366)
-
-Lanka Petrol 95 Octane Euro 4: Decrease of Rs. 8 per liter to Rs. 456 (previously Rs. 464)
-
-Lanka Auto Diesel: Increase of Rs. 5 per liter to Rs. 363 (previously Rs. 358)
-
-Lanka Super Diesel 4 Star Euro 4: Decrease of Rs. 7 per liter to Rs. 468 (previously Rs. 475)
-
-Lanka Kerosene: Increase of Rs. 26 per liter to Rs. 262 (previously Rs. 236)
-
-Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
-
-◼️
-
-[Data](articles/b3bafbc2.json)
-
-[Extended Data](ext_articles/b3bafbc2.ext.json)
 
 ---

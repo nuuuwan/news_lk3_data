@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 16:47:59**
+As of **2024-02-01 17:02:18**
 
 ## Newspaper Stats
 
-*Scraped **4,120** Articles*
+*Scraped **4,124** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 258
 newsfirstlk | 259
 adalk | 368
 virakesarilk | 462
-adaderanasinhalalk | 480
+adaderanasinhalalk | 484
 adaderanalk | 516
 tamilmirrorlk | 528
 dailymirrorlk | 559
@@ -26,11 +26,95 @@ dailymirrorlk | 559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,120 (100.0%) of 4,120 articles have been extended.
+4,120 (99.9%) of 4,124 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### සැකකරුවෙකු අත්අඩංගුවට ගැනීමට පොලීසිය මහජන සහාය ඉල්ලයි
+
+*2024-02-01 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192844) · `si`
+
+මෙරට සිදුවූ ආන්දෝලනාත්මක ඝාතන සිද්ධියක් සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනවලට අදාළව සැකකරුවෙකු අත්අඩංගුවට ගැනීම සඳහා පොලීසිය මහජන සහාය අපේක්ෂා කරයි.
+
+අදාළ සිද්ධියට සම්බන්ධ බවට සැකකෙරෙන සැකකරුගේ ඡායාරූපයක් පොලීසිය විසින් මාධ්‍යට නිකුත් කර තිබුණි.
+
+එම සැකකරු සම්බන්ධයෙන් තොරතුරක් දන්නේ නම් පහත සඳහන් අංක ඔස්සේ කොල්ලුපිටිය පොලීසියට දැනුම්දෙන ලෙස ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/34126e4f.json)
+
+---
+
+### සෞඛ්‍ය වැඩ වර්ජනය අඛණ්ඩව
+
+*2024-02-01 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192843) · `si`
+
+අද උදෑසන 6.30ට ආරම්භ කර සෞඛ්‍ය වැඩ වර්ජනය අඛණ්ඩව හෙට දිනයේත් සිදුකරන බව සෞඛ්‍ය වෘත්තීය සමිති එකමුතුව පවසයි.
+
+◼️
+
+[Data](articles/2c3cdea8.json)
+
+---
+
+### Other than doctors
+
+*2024-02-01 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175311) · `ta`
+
+72 health sector trade unions across the country have launched a workforce struggle from 6.30 am today (01).
+
+Patients who visited the clinic, outpatient unit and pharmacy have faced various amazement due to this workforce.
+
+Vavuniya District General Hospital Nurses, Sinhalese, Palmasis and Technologists are engaged in the workplace today.
+
+◼️
+
+[Data](articles/95085c64.json)
+
+[Extended Data](ext_articles/95085c64.ext.json)
+
+---
+
+### Mysterious death of a school boy;14 days of explanation for the supervisor woman again
+
+*2024-02-01 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175304) · `ta`
+
+The Kalmunai Magistrate has ordered the postponement of the case to be remanded for 14 days, and the case was postponed until February 13.
+
+Kalmunai Magistrate MSM Samsudheen was again ordered to appear again on Wednesday (31st) after the suspicion of the police superintendent of the school was arrested by the Kalmunai headquarters in connection with the death of a boy who was placed in the Children's Probation School in the Kalmunai Headquarters Division of the Ampara District.
+
+The applications of the police and the defendant's lawyer have been investigated as the case has been taken up and ordered to be remanded again, Supervisor of the 28 -year -old school.
+
+◼️
+
+[Data](articles/8d8266aa.json)
+
+[Extended Data](ext_articles/8d8266aa.ext.json)
+
+---
+
+### ශ්‍රීලන්කන් ප්‍රතිව්‍යුහගත කිරීම තුන්වැනි පාරටත් පමා කරයි
+
+*2024-02-01 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192842) · `si`
+
+ශ්‍රීලංකන් ගුවන් සේවය ප්‍රතිව්‍යුහගත කිරීම වෙනුවෙන් අභිලාෂයන් කැඳවීමේ යෝජනා ඉදිරිපත් කිරීමේ කාලසීමාව නැවත වරක් දීර්ඝ කිරීමට රාජ්‍ය ව්‍යවසාය ප්‍රතිව්‍යුහගත කිරීමේ ඒකකය තීරණය කර තිබේ.
+
+ඒ අනුව ශ්‍රීලංකන් පෞද්ගලීකරණය ක්‍රියාවලිය ඇරඹු දින සිට අභිලාෂයන් කැඳවීමේ සීමාව දීර්ඝ කළ තුන් වැනි අවස්ථාව මෙය වෙයි.
+
+ශ්‍රීලංකන් ගුවන් සේවය පෞද්ගලීකරණය කිරීමේ ක්‍රියාවලිය තවදුරටත් පමාවන බව සලකුණු කරමින් ඒ සඳහා ආයෝජකයන්ට යෝජනා ඉදිරිපත් කළ හැකි කාලසීමාව තුන් වන වරටත් දීර්ඝ කර තිබේ.
+
+රජයේ ආර්ථික ප්‍රතිසංස්කරණ වැඩසටහනේ වැදගත් ඉදිරි පියවරක් ලෙසින් ගුවන් සමාගමේ කොටස් මිලදී ගැනීම සඳහා අභිලාෂයන් කැඳවීම පසුගිය වසරේ ඔක්තෝබර් 31වැනිදා සිදුකෙරුණු අතර එහිදී අභිලාෂයන් කැඳවීමේ අවසන් දිනය දැක්වුණේ පසුගිය වසරේ දෙසැම්බර් මස 05 වැනිදා ලෙසය.
+
+කෙසේවෙතත් ප්‍රමාණවත් ආකර්ෂණයක් නොමැතිවීම හේතුවෙන් ශ්‍රීලංකන් ගුවන් සේවය සඳහා අභිලාෂයන් කැඳවීම ඉන් අනතුරුව දෙසැම්බර් 18 වැනිදා දක්වාත්, පසුව මේ වසරේ ජනවාරි මස 09 වැනිදා දක්වාත් දීර්ඝ කිරීමට රාජ්‍ය ව්‍යවසාය ප්‍රතිව්‍යුහගත කිරීමේ ඒකකය තීරණය කළේය.
+
+...
+
+[Data](articles/2ac32397.json)
+
+---
 
 ### Ceremonial opening of Fifth Session of Ninth Parliament on Feb.07
 
@@ -49,6 +133,22 @@ Sri Lanka Parliament was prorogued with effect from midnight on 26 January, mark
 [Data](articles/a8fc679f.json)
 
 [Extended Data](ext_articles/a8fc679f.ext.json)
+
+---
+
+### ICCයේ ලොකුම වැඩේ කොළඹට
+
+*2024-02-01 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192841) · `si`
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ වාර්ෂික මහ සභා රැස්වීමේ සත්කාරකත්වය ශ්‍රී ලංකාවට හිමිව ඇති බව සංචාරක සහ ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+
+අදාළ X පණිවුඩයේ දැක්වෙන්නේ එළඹෙන ජුලි මස 19 සිට 22 දක්වා ICC වාර්ෂික මහ සභා රැස්වීම කොළඹදී පැවැත්වෙන බවය.
+
+එමගින් මෙරට ක්‍රිකට් ක්‍රීඩාවේ සහ සංචාරක ව්‍යාපාරයේ වර්ධනයට විශාල ශක්තියක් සැපයෙනු ඇති බවද අමාත්‍යවරයා සිය X පණිවුඩයෙන් වැඩිදුරටත් පෙන්වා දී තිබේ.
+
+◼️
+
+[Data](articles/5fa9bad9.json)
 
 ---
 
@@ -175,24 +275,6 @@ It is reported that the United States has been in a collaboration with Australia
 [Data](articles/6bb37477.json)
 
 [Extended Data](ext_articles/6bb37477.ext.json)
-
----
-
-### Other than doctors
-
-*2024-02-01 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175311) · `ta`
-
-72 health sector trade unions across the country have launched a workforce struggle from 6.30 am today (01).
-
-Patients who visited the clinic, outpatient unit and pharmacy have faced various amazement due to this workforce.
-
-Vavuniya District General Hospital Nurses, Sinhalese, Palmasis and Technologists are engaged in the workplace today.
-
-◼️
-
-[Data](articles/95085c64.json)
-
-[Extended Data](ext_articles/95085c64.ext.json)
 
 ---
 
@@ -885,24 +967,6 @@ Officials told the team that the Ministry of Labor had proposed to increase the 
 [Data](articles/58ddf5b7.json)
 
 [Extended Data](ext_articles/58ddf5b7.ext.json)
-
----
-
-### Mysterious death of a school boy;14 days of explanation for the supervisor woman again
-
-*2024-02-01 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175304) · `ta`
-
-The Kalmunai Magistrate has ordered the postponement of the case to be remanded for 14 days, and the case was postponed until February 13.
-
-Kalmunai Magistrate MSM Samsudheen was again ordered to appear again on Wednesday (31st) after the suspicion of the police superintendent of the school was arrested by the Kalmunai headquarters in connection with the death of a boy who was placed in the Children's Probation School in the Kalmunai Headquarters Division of the Ampara District.
-
-The applications of the police and the defendant's lawyer have been investigated as the case has been taken up and ordered to be remanded again, Supervisor of the 28 -year -old school.
-
-◼️
-
-[Data](articles/8d8266aa.json)
-
-[Extended Data](ext_articles/8d8266aa.ext.json)
 
 ---
 
@@ -1925,95 +1989,5 @@ Meanwhile, the price of a litre of Petrol 95 has been reduced by Rs. 8, bringing
 [Data](articles/a08389e8.json)
 
 [Extended Data](ext_articles/a08389e8.ext.json)
-
----
-
-### 2 lakh tourists in January
-
-*2024-02-01 09:50:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனவரி-மாதத்தில்-2-இலட்சம்-சுற்றுலாப்-பயணிகள்/175-332464) · `ta`
-
-The Tourism Development Authority said that in January, the number of tourists who came to Sri Lanka exceeded two lakhs.
-
-Accordingly, until the 30th of January, 201,687 tourists visited Sri Lanka.
-
-Most of them are said to be Indians and most tourists are from Russia, Britain and Germany.
-
-Meanwhile, more than 210,000 tourists arrived in December last year.
-
-◼️
-
-[Data](articles/caa5bfb1.json)
-
-[Extended Data](ext_articles/caa5bfb1.ext.json)
-
----
-
-### 878 arrested
-
-*2024-02-01 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/175282) · `ta`
-
-The Ministry of Public Safety said that 878 people have been arrested in a special action in the 24 hours after the end of Thursday (01) at 12.30 am today.
-
-The arrested include 649 suspects arrested on a drug charge and 229 on the list of criminals.
-
-Of the 649 suspects involved in drug offenses, 6 suspects have been detained and investigated and four addictions have been sent to rehabilitation centers.
-
-In addition, 15 suspects have been arrested from the list of the Police Drug Eradication Unit and the Special Bureau of Police.
-
-In addition, the 229 suspects who were arrested were included in the list recommended for the Criminal Investigation Department, including 26 suspects who had been opened on drug offenses and 192 opening crimes.
-
-Three suspects and three suspects have been arrested in connection with the crime.
-
-...
-
-[Data](articles/0c255702.json)
-
-[Extended Data](ext_articles/0c255702.ext.json)
-
----
-
-### Strike
-
-*2024-02-01 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/175278) · `ta`
-
-72 health sector trade unions across the country have launched a one -day strike.
-
-Accordingly, the strike action has begun today (01) from 6.30 am.
-
-Meanwhile, the State Medical Officers' Association and the All Ceylon Nurses Association have decided not to support the strike action launched by the Health Trade Unions.
-
-All Ceylon Nurses Association President Ravindra Kahanthavarachchi said that the demands have been made by the government -related trade unions to go on strike and decided to abandon the protest due to strong doubts.
-
-◼️
-
-[Data](articles/6451a8c0.json)
-
-[Extended Data](ext_articles/6451a8c0.ext.json)
-
----
-
-### Sri Lanka, Maldives Partner for Air Ambulance Service
-
-*2024-02-01 09:43:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/sri-lanka-maldives-partner-for-air-ambulance-service/) · `en`
-
-COLOMBO (News 1st); Air ambulance services will commence between the Maldives and Sri Lanka starting March 1, 2024.
-
-The decision, announced by the Ministry of Ports, Shipping, and Aviation Services, prioritizes the high-quality emergency care available in Sri Lankan hospitals for Maldivian citizens.
-
-Previously, Maldivians requiring urgent medical attention were transported to India.
-
-However, recognizing the advanced medical facilities and expertise in Sri Lanka, the Maldivian government has opted for a shift in emergency medical evacuation protocols.
-
-Minister Nimal Siripala de Silva confirmed that all necessary approvals have been granted to the Airport and Aviation Services and Civil Aviation Authority for the smooth operation of the air ambulance service.
-
-Rambukwella ordered to report to CID on Friday; Slapped with Overseas Travel Ban
-
-Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
-
-◼️
-
-[Data](articles/e22285cd.json)
-
-[Extended Data](ext_articles/e22285cd.ext.json)
 
 ---

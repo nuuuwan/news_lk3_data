@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 23:17:11**
+As of **2024-02-01 23:32:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 575
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,207 (100.0%) of 4,209 articles have been extended.
+4,209 (100.0%) of 4,209 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Apart from requesting the Appellate Court to issue an interim order against the 
 ...
 
 [Data](articles/3de311a6.json)
+
+[Extended Data](ext_articles/3de311a6.ext.json)
 
 ---
 
@@ -422,21 +424,25 @@ Subsequently, the High Commissioner and Ambassadors appointed on Thursday (01) h
 
 ---
 
-### ஐக்கிய மக்கள் சுதந்திர கூட்டணியின் பொதுச் செயலாளர் பதவியில் இருந்து மஹிந்த அமரவீர மற்றும்  திலங்க சுமத்திபால இராஜினாமா
+### Mahinda Amaraweera and Thilanga Sumathipala resigns from the post of General Secretary of the United People's Freedom Alliance
 
 *2024-02-01 19:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175345) · `ta`
 
-ஐக்கிய மக்கள் சுதந்திர கூட்டணியின் பொதுச் செயலாளர் பதவியில் விலகுவதாக தெரிவித்து அமைச்சர் மஹிந்த அமரவீர மற்றும்  திலங்க சுமத்திபால ஆகியோர்  ராஜினாமா கடித்தை நேற்று கையளித்துள்ளனர்.
+Minister Mahinda Amaraweera and Thilanga Sumathipala yesterday handed over the resignation bite to the United People's Freedom Alliance (UPFA) general secretary.
 
-ஐக்கிய மக்கள் சுதந்திர கூட்டணியின் தலைவர் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவின் உத்தரவுக்கமையவே இந்த ராஜினாமா கடிதம் கையளிக்கப்பட்டிருக்கிறது.
+The resignation letter has been handed over on the orders of former United People's Freedom Alliance (UPFA) President Maithripala Sirisena.
 
-ஐக்கிய மக்கள் சுதந்திர கூட்டணியின் பொதுச் செயலாளர் பதவி வகித்த நிலையில் அமைச்சர் மஹிந்த அமரவீர அரசாங்கத்துடன் இணைந்துகொண்டு அமைச்சுப்பதவியும் பொறுப்பேற்றது, அது கட்சியின் நிலைப்பாட்டுக்கு முரணானது என தெரிவித்து அவரை பொது செயலாளர் பதவியில் இருந்து நீக்க கூட்டணியின் தலைவரான முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன நடவடிக்கை எடுத்திருந்தார்.
+Former President Maithripala Sirisena, the leader of the coalition, took action to remove him from the post of General Secretary, saying that Minister Mahinda Amaraweera joined the government and took over the government as the General Secretary of the United People's Freedom Alliance (UPFA).
 
-அதன் பிரகாரம் அமைச்சர் மஹிந்த அமரவீரவை நீக்கியதன் மூலம் வெற்றிடமான பொதுச் செயலாளர் பதவிக்கு முன்னாள் பாராளுமன்ற உறுப்பினர் திலங்க சுமத்திபால நியமிக்கப்பட்டார்.
+Accordingly, former Parliamentarian Thilanga Sumathipala was appointed to the post of General Secretary of the General Secretary by removing Minister Mahinda Amaraweera.
+
+As Mahinda Amaraweera has taken action against the resolution, the Election Commission has announced that the General Secretaries will not accept the two.
 
 ...
 
 [Data](articles/5467bbe8.json)
+
+[Extended Data](ext_articles/5467bbe8.ext.json)
 
 ---
 

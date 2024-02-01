@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 20:17:27**
+As of **2024-02-01 20:33:47**
 
 ## Newspaper Stats
 
@@ -26,29 +26,31 @@ dailymirrorlk | 569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,178 (100.0%) of 4,179 articles have been extended.
+4,179 (100.0%) of 4,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
 
-### ආදුරුප්පුවීදියේ වෙඩිතැබීමට තවත් සැකකරුවෙක් අත්අඩංගුවට
+### Another suspect arrested for shooting in Adrappu
 
 *2024-02-01 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192858) · `si`
 
-කොළඹ ආදුරුප්පුවීදිය පොලිස් වසමේදී පසුගිය 24 වනදා පුද්ගලයෙකු වෙඩිතබා ඝාතනය කිරීමේ සම්බන්ධයෙන් තවත් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+Another suspect has been arrested in connection with the Murder of a person in Colombo.
 
-එම සැකකරුවෙකු ඊයේ (31) රාත්‍රියේ ගිරිඋල්ල දඹදෙනිය ප්‍රදේශයේදී ආදුරුප්පුවීදිය පොලීසියේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබුණි.
+The suspect was arrested by the Adrappidi Police in Giriulla last night.
 
-ඔහුගෙන් සිදුකළ ප්‍රශ්න කිරීම් හමුවේ හෙළිවූ කරුණු මත වෙඩි තැබීමට භාවිත කළ බවට සැකකෙරෙන රිවෝල්වර් වර්ගයේ ගිනි අවියක් ද සොයාගෙන ඇත.
+Revolver a firearm, suspicious, was found to shoot on the issues revealed by his interrogation.
 
-මේ අතර එම සිද්ධිය සම්බන්ධයෙන් මීට පෙර අත්අඩංගුවට ගත් සැකකරු රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+Meanwhile, the suspect has been arrested before the incident.
 
-අදාළ සැකකරුව පිස්තෝල අවියක්ද සමග අත්අඩංගුවට ගෙන තිබූ අතර සැකකරුව පෙබරවාරි 13 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර ඇත.
+The suspect was arrested along with a pistol weather and the suspect was remanded till February 13.
 
 ◼️
 
 [Data](articles/f0bb99d8.json)
+
+[Extended Data](ext_articles/f0bb99d8.ext.json)
 
 ---
 

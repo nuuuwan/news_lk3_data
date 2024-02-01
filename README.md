@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 22:17:23**
+As of **2024-02-01 22:32:53**
 
 ## Newspaper Stats
 
@@ -26,33 +26,35 @@ dailymirrorlk | 572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,199 (100.0%) of 4,201 articles have been extended.
+4,201 (100.0%) of 4,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
 
-### කොස්ගමදී කාන්තාවක් අසළට ලං වූ කාන්තාවක් කළ නොමනා වැඩේ
+### Without the unwise woman who was close to a woman near Kosgama
 
 *2024-02-01 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192864) · `si`
 
-කොස්ගම පොළ භූමියේදී කානතාවකගේ ගෙළ බැඳි රන් මාලයක් කොල්ලකා පළාගොස් ඇති කාන්තාවක් සොයා පොලීසිය විමර්ශන ආරම්භ කර ඇත.
+Police have commenced investigations into a woman who had fled a gold necklace at Kosgama fair.
 
-මෙම සිදුවීමට මුහුණදී ඇත්තේ කොස්ගම පන්සල පාර ප්‍රදේශයේ පදිංචි කාන්තාවකි.
+The incident is a resident of the Kosgama Temple Road area.
 
-එම කාන්තාව රුධිර පරීක්ෂාවක් සඳහා කොස්ගම නගරය වෙත පැමිණ ඇති අතර ඉන් අනතුරුව ඇය කොස්ගම පොළ වෙත ගොස් තිබේ.
+The woman had arrived at Kosgama town for a blood test, and then she had gone to Kosgama fair.
 
-එහිදී සැකකාර කාන්තාව හමුව ඇති බවත් මද වේලාවකින් ඇයට ක්ලාන්ත ගතියක් ඇතිවූ බව තමන්ට පැවසූ බවත් සිද්ධියට මුහුණ පෑ කාන්තාව පොලීසියට පවසා තිබේ.
+The woman had told the police that the suspect had the meeting and told her that she was fainted at a moment.
 
-පසුව ඒ ආසන්නයේ තිබූ පුටුවක ඇය හිඳුවා ඒ අසළ තමන් රැඳී සිටි බවත් එහිදී එක්වරම නැගී සිට තමන් දෙසට කඩා පැන ගෙළ බැඳි රන් මාලය කොල්ලකා පළාගිය බවත් එම කාන්තාව පොලීසියට පැමිණිලි කර ඇත.
+Later, she had lodged a complaint with the police that she had been sitting at a chair and stayed near it.
 
-මෙලෙස කොල්ලකා ඇති රන් මාලය පවුම් දෙකක් බරැති බවත් එහි එක්ලක්ෂ විසිපන්දහසක් පමණ වටිනා පෙන්ඩන් දෙකක් එල්ලා තිබූ බවත් එම කාන්තාව වැඩිදුරටත් සඳහන් කර තිබේ.
+The woman has added that the gold rulletin, which is burdening two pounds, heavy and two hundred and twenty-thousand pertishes were hanged.
 
-සිද්ධිය සම්බන්ධයෙන් ලද පැමිණිල්ලකට අනුව කොස්ගම පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+According to a complaint, the Kosgama Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/bf9acaa1.json)
+
+[Extended Data](ext_articles/bf9acaa1.ext.json)
 
 ---
 
@@ -97,6 +99,8 @@ Meanwhile, Afghanistan are making a name for themselves in white-ball cricket bu
 ...
 
 [Data](articles/d08f2d3f.json)
+
+[Extended Data](ext_articles/d08f2d3f.ext.json)
 
 ---
 

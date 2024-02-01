@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 18:08:26**
+As of **2024-02-01 18:20:22**
 
 ## Newspaper Stats
 
-*Scraped **4,133** Articles*
+*Scraped **4,147** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,79 @@ dbsjeyarajcom | 131
 islandlk | 220
 economynextcom | 228
 dailyftlk | 258
-newsfirstlk | 262
+newsfirstlk | 265
 adalk | 368
-virakesarilk | 462
-adaderanasinhalalk | 487
+virakesarilk | 463
+adaderanasinhalalk | 488
 adaderanalk | 519
-tamilmirrorlk | 528
-dailymirrorlk | 559
+tamilmirrorlk | 531
+dailymirrorlk | 565
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,133 (100.0%) of 4,133 articles have been extended.
+4,133 (99.7%) of 4,147 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### ප්‍රාථමික ශ්‍රේණිවල දරුවන්ට මාර්තු සිට දිවා ආහාරය
+
+*2024-02-01 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192850) · `si`
+
+එළඹෙන මාර්තු මාසයේ සිට මෙරට පාසල්වල පළමු ශ්‍රේණියේ සිට 5වන ශ්‍රේණිවල සියලු‍ දරුවන් සඳහා දිවා ආහාර ලබාදීමට පියවර ගන්නා බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+
+ප්‍රාථමික ශ්‍රේණිවල දරුවන් ලක්ෂ 16ක් පමණ සිටින බවත් ඔවුන් වෙත පාසල් දිවා ආහාර වේල ලබාදීම වෙනුවෙන් රුපියල් බිලියන 16ක් වෙන්ව ඇති බවත් අමාත්‍යවරයා ප්‍රකාශ කළේය.
+
+එමෙන්ම 2024 වසර වෙනුවෙන් අවශ්‍ය පාසල් පෙළ පොත් සියල්ල මේ වනවිට මුද්‍රණය කර අවසන් බවත් පාසල් ආරම්භයෙන් පසු තෙවැනි වාරය අවසන් වූ වහාම එම පෙළ පොත් ද නිල ඇදුම් රෙදි ද පාසල් දරුවන් වෙත ලබාදීමට කටයුතු කරන බවත් අමාත්‍යවරයා සඳහන් කළේය.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ ජාතික පාසල්වල විදේශ භාෂා ඉගැන්වීම පිණිස බඳවාගත් උපාධිධාරීන් 162 දෙනෙකු වෙත ශ්‍රී ලංකා ගුරු සේවයේ 3-1 (අ) ශ්‍රේණියට පත්වීම් ප්‍රදානය වෙනුවෙන් අධ්‍යාපන අමාත්‍යාංශයේ අද (01) පැවති උත්සව අවස්ථාවට එක්වෙමිනි.
+
+...
+
+[Data](articles/1f3c5187.json)
+
+---
+
+### Face The Nation | Freedom Lost or Freedom Gained | 31st January 2024
+
+*2024-02-01 17:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/face-the-nation-freedom-lost-or-freedom-gained-31st-january-2024/) · `en`
+
+Face The Nation | Freedom Lost or Freedom Gained | 31st January 2024
+
+Face The Nation | Freedom Lost or Freedom Gained | 31st January 2024
+
+The People’s Platform | Conversations From The Galle Literary Festival | Christina Lamb
+
+Nine Activists Released on Bail After Protest Demanding Ex-Minister’s Arrest
+
+◼️
+
+[Data](articles/70177b02.json)
+
+---
+
+### CEB Spent Over Rs. 130 Mn on Private Lawyers in 2022-2023
+
+*2024-02-01 17:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/ceb-spent-over-rs-130-mn-on-private-lawyers-in-2022-2023/) · `en`
+
+COLOMBO (News 1st);  The Ceylon Electricity Board Engineers' Union has expressed concern over the CEB's rising legal expenses, attributing it to the use of private lawyers against the decisions reached by the country's Cabinet of Ministers.
+
+The CEBEU raised their concerns with Dr. Sulakshana Jayawardena, Secretary of the Ministry overseeing the CEB, in a letter.
+
+The Ceylon Electricity Board Engineers Union in a letter to the Energy Secretary noted that as per a decision reached by the cabinet, any official within a government institution found to have used public funds to secure the services of private lawyers will be personally responsible for reimbursing the expended amount.
+
+They highlighted that despite the regulations, the board continued to utilize private legal services instead of seeking support from the Attorney General's Department in most cases last year.
+
+According to the CEB Engineers' Union, the CEB spent over 130 million rupees on legal fees in 2022 and 2023 combined.
+
+...
+
+[Data](articles/f0ebc110.json)
+
+---
 
 ### Attorneys released on bail
 
@@ -48,17 +104,33 @@ The five suspects were produced in court and the Attanagalla Magistrate Manjula 
 
 ---
 
+### Face to Face | Sajin Vass Gunawardena | From Friend to Foe
+
+*2024-02-01 17:35:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/face-to-face-sajin-vass-gunawardena-from-friend-to-foe/) · `en`
+
+Face The Nation | Freedom Lost or Freedom Gained | 31st January 2024
+
+The People’s Platform | Conversations From The Galle Literary Festival | Christina Lamb
+
+Nine Activists Released on Bail After Protest Demanding Ex-Minister’s Arrest
+
+◼️
+
+[Data](articles/045b59de.json)
+
+---
+
 ### The People’s Platform | Conversations From The Galle Literary Festival | Christina Lamb
 
 *2024-02-01 17:24:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/the-people%e2%80%99s-platform-conversations-from-the-galle-literary-festival-christina-lamb/) · `en`
 
 The People’s Platform | Conversations From The Galle Literary Festival | Christina Lamb
 
+Face The Nation | Freedom Lost or Freedom Gained | 31st January 2024
+
 The People’s Platform | Conversations From The Galle Literary Festival | Christina Lamb
 
 Nine Activists Released on Bail After Protest Demanding Ex-Minister’s Arrest
-
-Rambukwella ordered to report to CID on Friday; Slapped with Overseas Travel Ban
 
 ◼️
 
@@ -118,6 +190,24 @@ He said that if the government is going to regulate social media without politic
 
 ---
 
+### சிறீதரனை சந்தித்தார் பிரித்தானிய உயர்ஸ்தானிகர்
+
+*2024-02-01 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/175331) · `ta`
+
+தமிழரசுக்கட்சியின் புதிய தலைவராக தெரிவு செய்யப்பட்டுள்ள சிறீதரனை இலங்கைக்கான பிரித்தானிய உயர்ஸ்தானிகர் ஆண்ட்ரூ பெட்ரிக் சந்தித்து கலந்துரையாடியுள்ளார்.
+
+இந்த சந்திப்புக் குறித்து பிரித்தானிய உயர்ஸ்தானிகர் தனது எக்ஸ் (X) தளத்தில் குறிப்பிட்டுள்ளதாவது,
+
+இலங்கை தமிழரசுக் கட்சியின் தலைவராக தெரிவு செய்யப்பட்டுள்ள சிறீதரனுடனான சந்திப்பு ஒரு பயனுள்ளதாக அமைந்தது.
+
+வடக்கு மற்றும் கிழக்கில் உள்ள தமிழ் சமூகத்திற்குள் காணப்படும் முக்கிய விடயங்கள் குறித்து நாம் இருவரும் கலந்துரையாடினோம் என்று குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/27e5f291.json)
+
+---
+
 ### Nine Activists Released on Bail After Protest Demanding Ex-Minister’s Arrest
 
 *2024-02-01 17:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/nine-activists-released-on-bail-after-protest-demanding-ex-minister-s-arrest/) · `en`
@@ -132,17 +222,31 @@ However, one member, Sanjay Mahawatta, was not brought before the court due to h
 
 The protest stemmed from ongoing investigations into the procurement of human immunoglobulin.
 
+Face The Nation | Freedom Lost or Freedom Gained | 31st January 2024
+
 The People’s Platform | Conversations From The Galle Literary Festival | Christina Lamb
 
 Nine Activists Released on Bail After Protest Demanding Ex-Minister’s Arrest
-
-Rambukwella ordered to report to CID on Friday; Slapped with Overseas Travel Ban
 
 ◼️
 
 [Data](articles/b2257322.json)
 
 [Extended Data](ext_articles/b2257322.ext.json)
+
+---
+
+### அரச பாடசாலை மாணவர்களுக்கு தினசரி உணவு
+
+*2024-02-01 16:59:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-பாடசாலை-மாணவர்களுக்கு-தினசரி-உணவு/175-332490) · `ta`
+
+அரச பாடசாலைகளில்  தரம் 1 முதல் தரம்  5 வரையிலான சிறார்களுக்கு எதிர்வரும் மார்ச் மாதம் முதல் தினசரி உணவு வழங்கப்படும் என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்தார்.
+
+இத்திட்டத்திற்காக அரசாங்கம் ரூ.1600 கோடி செலyவிடவுள்ளதாகத் தெரிவித்த அமைச்சர், ஒரு குழந்தைக்கு நாளொன்றுக்கு 110 ரூபாவை கட்டாயம் செலவிட வேண்டும் எனவும் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/3435da5f.json)
 
 ---
 
@@ -206,6 +310,18 @@ The doctors’ unions and the All Ceylon Nurses’ Union, however, decided to re
 
 ---
 
+### Colombo hosts Pakistan Lifestyle Exhibition
+
+*2024-02-01 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Colombo-hosts-Pakistan-Lifestyle-Exhibition/110-276142) · `en`
+
+Pakistan Lifestyle Exhibition is being held at BMICH until February 5. The Exhibition features leading Pakistani companies and manufacturers of Textile and Clothing, Designer wear, Handicraft and Traditional Textiles, Cutlery, Furniture, Carpets, Marble and Services. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/6fb58a54.json)
+
+---
+
 ### Police call for public assistance to arrest a suspect
 
 *2024-02-01 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192844) · `si`
@@ -238,6 +354,24 @@ The Health strike will continue tomorrow and will continue tomorrow.
 
 ---
 
+### No bus fare increase: Shashi Welgama; Increase bus fare by 10% within two weeks: Gemunu
+
+*2024-02-01 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-bus-fare-increase-Shashi-Welgama-Increase-bus-fare-by-10-within-two-weeks-Gemunu/108-276143) · `en`
+
+Colombo, Feb 1 (Daily Mirror) - National Transport Commission Chairman, Shashi Welgama said today that there is no provision to increase bus fares even though the price of diesel has increased by Rs. 5.
+
+He said that according to the existing laws and agreements on bus fares, it is not possible to increase fares at this time, and no one has made a request to increase the bus fares so far.
+
+Meanwhile, considering yesterday's and previous fuel price revisions, the private bus associations have incurred a total loss of Rs. 22, which cannot be afforded, and therefore a bus fare revision is a must this time, Lanka Private Bus Owners' Association (LPBOA) Chairman Gemunu Wijerathne said.
+
+Every time fuel price revisions had taken place, as responsible bus associations, we have worked according to the national bus fare policy while bearing our losses.
+
+...
+
+[Data](articles/d0569ca9.json)
+
+---
+
 ### Other than doctors
 
 *2024-02-01 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175311) · `ta`
@@ -256,6 +390,26 @@ Vavuniya District General Hospital Nurses, Sinhalese, Palmasis and Technologists
 
 ---
 
+### 7ஆம் திகதி பாராளுமன்றத்தின் ஐந்தாவது அமர்வு ஆரம்பம்
+
+*2024-02-01 16:13:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7ஆம்-திகதி-பாராளுமன்றத்தின்-ஐந்தாவது-அமர்வு-ஆரம்பம்/175-332488) · `ta`
+
+பாராளுமன்றத்தின் ஐந்தாவது அமர்வு எதிர்வரும் 7ஆம் திகதி முற்பகல் 10.30 மணிக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் ஆரம்பித்து வைக்கப்படும் என பாராளுமன்றத்தின் தொடர்பாடல் திணைக்களம் இன்று(1) அறிவித்துள்ளது.
+
+ஜனாதிபதி தனது கொள்கைப் பிரகடனத்தை முன்வைப்பார் என பாராளுமன்ற பிரதி செயலாளர் நாயகமும் தலைமை அதிகாரியுமான சமிந்த குலரத்ன தெரிவித்தார்.
+
+கொள்கை அறிக்கை மீதான விவாதத்தை எதிர்வரும் 8 மற்றும் 9 ஆம் திகதிகளில் காலை 9.30 மணி முதல் மாலை 5.30 மணி வரை நடத்துவதற்கு பாராளுமன்ற விவகாரங்களுக்கான குழு இன்று (1) தீர்மானித்துள்ளது.
+
+பாராளுமன்ற விவகாரங்களுக்கான குழு இன்று (01) சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் பாராளுமன்ற கட்டிடத் தொகுதியில் கூடியது.
+
+இதற்கமைய, எதிர்வரும் 7ஆம் திகதி பாராளுமன்றம் நடைபெறும் சந்தர்ப்பத்தில் விசேட பாதுகாப்பு வேலைத்திட்டமொன்றை நடைமுறைப்படுத்த பாதுகாப்பு திணைக்கள தலைவர்கள் தீர்மானித்துள்ளனர்.
+
+◼️
+
+[Data](articles/184b4c69.json)
+
+---
+
 ### Mysterious death of a school boy;14 days of explanation for the supervisor woman again
 
 *2024-02-01 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175304) · `ta`
@@ -271,6 +425,24 @@ The applications of the police and the defendant's lawyer have been investigated
 [Data](articles/8d8266aa.json)
 
 [Extended Data](ext_articles/8d8266aa.ext.json)
+
+---
+
+### சமூக வலைத்தளங்களில் பரவும் செய்தி பொய்யானது
+
+*2024-02-01 16:00:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-வலைத்தளங்களில்-பரவும்-செய்தி-பொய்யானது/175-332487) · `ta`
+
+ஐக்கிய மக்கள் சக்தியோடு இணைந்து கொண்ட முன்னாள் இராணுவ தளபதி தயா ரத்நாயக்க மவ்பிம ஜனதா கட்சியில் இணைந்து கொண்டுள்ளதாக சமூக வலைத்தளங்களில் செய்தியொன்று பரவி வருகின்றது.
+
+இது பொய்யான செய்தி என்பதோடு,அவ்வாறானதொரு சம்பவம் நடக்கவில்லை எனயென ஜனாதிபதி தேர்தல் செயற்பாட்டுப் பிரதானி சுஜீவ சேனசிங்க தெரிவித்துள்ளார்.
+
+பகிரப்பட்டு வரும் புகைப்படம் பழைய புகைப்படம் என்பதோடு,இதுபோன்ற புகைப்படத்தை பயன்படுத்தி அரசியல் பிரசாரம் செய்து வருவதையும் வன்மையாக கண்டிப்பதாகவும் ஐக்கிய மக்கள் சக்தியை பலப்படுத்துவதற்காக பல்வேறு தரப்பினரும் ஒன்றிணைவதால்,இவ்வாறான போலிப் பிரசாரங்கள் எதிர்காலத்திலும் இடம்பெறலாம்.
+
+இவ்வாறான புகைப்படங்களை வெளியிடுவதற்கு முன்னர் சம்பந்தப்பட்ட தரப்பைச் சேர்ந்த ஜெனரல் தயா ரத்நாயக்க அவர்களிடம் விசாரித்திருந்தால்,அது சிறந்த ஊடக நடைமுறையாக இருந்திருக்கும் என்பதையும் இங்கு சுட்டிக்காட்ட விரும்புகின்றேன் என ஜனாதிபதி தேர்தல் செயற்பாட்டுப் பிரதானி சுஜீவ சேனசிங்க தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/66ce228c.json)
 
 ---
 
@@ -376,6 +548,22 @@ Mahinda Amaraweera and Thilanga Sumathipala have handed over the resignation let
 
 ---
 
+### Government policy statement to be debated for two days
+
+*2024-02-01 15:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-policy-statement-to-be-debated-for-two-days/108-276141) · `en`
+
+Party leaders representing Parliament have decided to hold a two-day adjournment debate on the government policy statement to be presented in Parliament by the President on February 7 at the ceremonial opening of the fifth dession of the ninth Parliament.
+
+The ceremonial opening of the fifth session of the ninth Parliament will take place at 10.30 am on February 7.
+
+The Adjournment Debate on the government polic statement will be held from 9.30 am to 5.30 pm on February 8 and 9.
+
+◼️
+
+[Data](articles/3e708013.json)
+
+---
+
 ### Speaking of Indian High Commissioner Chandrika!
 
 *2024-02-01 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/175309) · `ta`
@@ -438,6 +626,18 @@ On 10 November, the ICC suspended the membership of Sri Lanka Cricket (SLC), wit
 
 ---
 
+### Afghanistan prepares in Colombo ahead of Test match tomorrow
+
+*2024-02-01 15:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Afghanistan-prepares-in-Colombo-ahead-of-Test-match-tomorrow/110-276139) · `en`
+
+The Afghanistan cricket team was spotted practicing at the SSC ground in Colombo ahead of the Test match scheduled to commence tomorrow. Both the Sri Lankan and Afghan captains participated in the pre-match press conference at the SSC. Pix by Waruna Wanniarachchi
+
+◼️
+
+[Data](articles/0956a06d.json)
+
+---
+
 ### Is China start a war?
 
 *2024-02-01 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192840) · `si`
@@ -461,6 +661,24 @@ It is reported that the United States has been in a collaboration with Australia
 [Data](articles/6bb37477.json)
 
 [Extended Data](ext_articles/6bb37477.ext.json)
+
+---
+
+### Travel ban imposed on Keheliya Rambukwella
+
+*2024-02-01 15:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Travel-ban-imposed-on-Keheliya-Rambukwella/155-276140) · `en`
+
+Colombo, Feb 01 (Daily Mirror) -  An overseas travel ban has been imposed on former Health Minister Keheliya Rambukwella by the Maligakanda Magistrate.
+
+The magistrate's decision comes in conjunction with an order directing Rambukwella to appear before the Criminal Investigation Department (CID) on Friday, February 2.
+
+Rambukwella's overseas travel restrictions come in light of his failure to comply with a prior summons from the CID, scheduled for Wednesday, January 31. On that day, Rambukwella was notably absent, attributing his absence to his involvement in a hearing at the Colombo High Court regarding an ongoing case and his attendance at a committee meeting convened at the Presidential Secretariat.
+
+In response to the CID's summons, Rambukwella has formally requested, in writing, for the CID to designate an alternative date for him to provide his statement.
+
+◼️
+
+[Data](articles/7cec421e.json)
 
 ---
 
@@ -639,6 +857,18 @@ The debate has been decided at a special party leaders meeting held from 9.30 am
 [Data](articles/3e8a9553.json)
 
 [Extended Data](ext_articles/3e8a9553.ext.json)
+
+---
+
+### Attanayake conferred with honourary title...
+
+*2024-02-01 14:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Attanayake-conferred-with-honourary-title/110-276138) · `en`
+
+SJB MP Tissa Attanayake, who was the founder of the concept "Sadaham Yathra", was conferred with the honourary title "Deshakeerthi Sri Shasanabhimani" by the Mahanayake Thera of the Sri Lanka Ramanna Maha Nikaya Most Venerable Makulewe Wimalaabhidana Thera for his contribution to make religious harmony a reality by unifying the Hindu, Islam and Catholic religious institutions. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/2904a15e.json)
 
 ---
 
@@ -1691,301 +1921,5 @@ During the Second Reading, the bill was taken to vote with 108 supporting it and
 [Data](articles/3fde89d7.json)
 
 [Extended Data](ext_articles/3fde89d7.ext.json)
-
----
-
-### Army arrivals to hospitals
-
-*2024-02-01 10:47:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலைகளுக்கு-இராணுவம்-வரவழைப்பு/175-332467) · `ta`
-
-72 health trade unions have been engaged in a series of strikes from 6.30 am today in protest of their demands.
-
-The patients have been greatly inconvenienced and are decided to summon the military to avoid inconveniences.
-
-Accordingly, under the supervision of the Commander of the Western, Eastern, Central and Vanni Security Forces, the Army has been summoned to the Colombo and Kandy National Hospitals, Kalubowila, Karapitiya, Mahamodara, Peradeniya, Anuradhapura and Kurunegala Teaching Hospitals.
-
-In addition, soldiers have been deployed to continue the daily activities of 26 hospitals including Matara, Balangoda, Ehaliyagoda, Nawalapitiya, Badulla, Gampola, Mirigama, Homagama and Kegalle.
-
-◼️
-
-[Data](articles/6bd6eb75.json)
-
-[Extended Data](ext_articles/6bd6eb75.ext.json)
-
----
-
-### Troops deployed to assist hospital operations amid strike
-
-*2024-02-01 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Troops-deployed-to-assist-hospital-operations-amid-strike/108-276127) · `en`
-
-Colombo, Feb 01 (Daily Mirror) - In response to a strike launched in government hospitals by 72 health unions, the Sri Lanka Army deployed troops at various government hospitals island-wide to support operational activities.
-
-The Ministry of Health requested assistance from the Ministry of Defence to ensure uninterrupted hospital operations during the strike.
-
-Accordingly, under the directives of the Commander of the Army Lt. General Vikum Liyanage, troops have been deployed to 26 government hospitals, including prominent ones such as the National Hospitals in Colombo and Kandy, Kalubowila, Karapitiya, Mahmodara, Peradeniya, Anuradhapura and Kurunegala Teaching Hospitals, as well as Matara, Balangoda, Eheliyagoda, Nawalapitiya, Badulla, Gampola, Meerigama, Homagama and Kegalle Hospitals.
-
-...
-
-[Data](articles/1530edcd.json)
-
-[Extended Data](ext_articles/1530edcd.ext.json)
-
----
-
-### If we do not negotiate with us, we will stop the second batch of International Monetary Fund - Private Credit Providers Serious Warning
-
-*2024-02-01 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/175285) · `ta`
-
-Sri Lanka's private loans have warned that if the government does not hold constructive negotiations with them on a goodwill basis, it will engage in all measures to stop the second installment of the International Monetary Fund.
-
-According to sources, private lenders think that the Sri Lankan government is engaged in communication with bilateral creditors, including China, and has not held similar talks with them.
-
-Sources said that the number of private credits is very large.
-
-A team of private lenders has told DailyMirr that if Sri Lanka does not negotiate with them, we will engage in all activities to stop the second -volume of the IMF.
-
-They said this is the only way to negotiate with the Sri Lankan government.
-
-Disgusting to Sri Lanka's attitude, private lenders have said that this will disrupt Sri Lanka in the international capital market.
-
-Private lenders have said that Sri Lanka's loans are based on contract but that Sri Lanka does not pay them.
-
-◼️
-
-[Data](articles/c5a55af1.json)
-
-[Extended Data](ext_articles/c5a55af1.ext.json)
-
----
-
-### 50 thousand foreign tourists visit the Lotus Tower
-
-*2024-02-01 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/175290) · `ta`
-
-The Lotus Tower Administration has said that 50 thousand foreign tourists have visited the Colombo Lotus Tower since the publication of the public for use.
-
-In this case, the 50th foreign tourist who visited the Lotus Tower has been honored by the administration.
-
-Meanwhile, the Colombo Lotus Tower was inaugurated on September 15, 2022.
-
-◼️
-
-[Data](articles/3a3550bd.json)
-
-[Extended Data](ext_articles/3a3550bd.ext.json)
-
----
-
-### Increase in school vehicle charges
-
-*2024-02-01 10:39:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-வாகன-கட்டணங்கள்-அதிகரிப்பு/175-332466) · `ta`
-
-School vehicle charges will be increased from today (01) due to the increase in fuel prices, the School Child Transport Service Association said.
-
-The union has decided to increase these fees by ten percent and fifteen percent.
-
-◼️
-
-[Data](articles/06e48369.json)
-
-[Extended Data](ext_articles/06e48369.ext.json)
-
----
-
-### Increase in school bus charges
-
-*2024-02-01 10:39:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-பஸ்-கட்டணங்கள்-அதிகரிப்பு/175-332466) · `ta`
-
-School bus fares will be increased from today (01) due to the increase in fuel prices, the School Child Transport Service Association said.
-
-The union has decided to increase these fees by ten percent and fifteen percent.
-
-◼️
-
-[Data](articles/36f53bb7.json)
-
-[Extended Data](ext_articles/36f53bb7.ext.json)
-
----
-
-### Asia on-track to deliver two-thirds to global growth in 2024: IMF
-
-*2024-02-01 10:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Asia-on-track-to-deliver-two-thirds-to-global-growth-in-2024-IMF/107-276126) · `en`
-
-The year 2024 is expected to be one of prosperity for Asia with the International Monetary Fund (IMF) expecting the region to maintain its momentum in delivering two-thirds to global growth.
-
-Providing a snapshot of the regional economic outlook, Krishna Srinivasan, Director of the IMF’s Asia and Pacific Department noted that the region's prospects for a soft landing have improved.
-
-”The good news is that we have revised growth upward for both 2023 and 2024,” he said addressing a press conference this week.
-
-For 2023, the IMF estimates growth at 4.7 percent, compared to the 4.6 percent projection in October. China and India account for most of the upward revision. In China, growth was supported by higher spending on disaster reconstruction and resilience projects. In India, strong domestic demand underpinned another increase in our growth estimate.
-
-The Fund has also upgraded the regional growth forecast for 2024 to 4.5 percent, from 4.2 percent in October.
-
-...
-
-[Data](articles/40ec5e84.json)
-
-[Extended Data](ext_articles/40ec5e84.ext.json)
-
----
-
-### Online Safety Bill Gets Green Light: Speaker Endorses Certificate
-
-*2024-02-01 10:34:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/online-safety-bill-gets-green-light-speaker-endorses-certificate/) · `en`
-
-COLOMBO (News 1st); Parliament Speaker Mahinda Yapa Abeywardena has endorsed the certificate on the Online Safety Bill.
-
-Parliament General Secretary Kushani Rohanadheera confirmed that the speaker endorsed the certificate on the Online Safety Bill.
-
-The Online Safety Bill was passed with amendments in parliament on the 23rd of January, and following its passage opposition MPs expressed concern that the bill was passed disregarding the amendments submitted by the Supreme Court.
-
-Thereafter, the opposition, and activists requested the speaker to refrain from endorsing the certificate on the Online Safety Bill until it is confirmed that the amendments submitted by the court are included.
-
-The Online Safety Bill aims to regulate online content in Sri Lanka, but critics warn it could lead to censorship and suppression of free speech.
-
-The People’s Platform | Conversations From The Galle Literary Festival | Christina Lamb
-
-Nine Activists Released on Bail After Protest Demanding Ex-Minister’s Arrest
-
-...
-
-[Data](articles/6e5772ea.json)
-
-[Extended Data](ext_articles/6e5772ea.ext.json)
-
----
-
-### Online Safety Bill to come into effect from today
-
-*2024-02-01 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/96907/online-safety-bill-to-come-into-effect-from-today) · `en`
-
-Speaker of Parliament Mahinda Yapa Abeywardena has endorsed the Online Safety Bill, and it will be brought into effect as the Online Safety Act No.9 of 2024.
-
-The legislation which seeks to regulate online content was passed in Parliament, with amendments, on 24 January, amidst objections from opposition politicians and activists who allege the new law will muzzle free speech.
-
-The controversial Bill garnered not only the attention of local activists and organisations, but also that of diplomats and large international organisations, claiming that the Bill had numerous problematic aspects.
-
-The Sri Lankan government says the Online Safety Bill, published in the government gazette on 18 September, aims to ban online communication of certain statements in the country, prevent the use of online accounts – both authentic and inauthentic – for the use of prohibited purposes, to suppress the financing and other support of communication of false statements and other related matters.
-
-...
-
-[Data](articles/3c0be9f6.json)
-
-[Extended Data](ext_articles/3c0be9f6.ext.json)
-
----
-
-### Drug trafficked by a group of drug trafficking along mobile phones
-
-*2024-02-01 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192826) · `si`
-
-Drug traffickers have a special raid on the instructions of acting IGP Deshabandu Tennakoon.
-
-The special operation was conducted by 4 pm yesterday (31st) to cover police stations island wide.
-
-The operation has been carried out with 1,964 centers, reload and Bill branchs, reload and Bill branches, reload and Bill branches.
-
-A total of 316 persons have been arrested on suspicion and there are 20 suspects involved in drug trafficking and 11 suspects involved in criminal suspects.
-
-According to the Police Headquarters, the suspects of the suspects arrested on suspicion of involvement in charge of drug trafficking were identified as well as to commence investigations into the assets they have earned.
-
-◼️
-
-[Data](articles/82e7a0f4.json)
-
-[Extended Data](ext_articles/82e7a0f4.ext.json)
-
----
-
-### Class Blocking of the University of Peradeniya University
-
-*2024-02-01 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175288) · `ta`
-
-Students of the University of Peradeniya have carried out a first -class boycott on Wednesday (31).
-
-In a statement issued by Sasinda Bandara, Secretary of the University of Peradeniya
-
-Immediately reduce the 'tax' line when the cost of living is unable to cope. Many people are having difficulty due to the rise in food products.
-
-To reduce the price rise.The facilities of the toast should be enhanced. New student hostels should be set up.
-
-All new laws, such as the Prevention of Terrorism Act, the Ceremonial Backup Act, and the Social Affairs Act, must be reconsidered and to ensure freedom of expression.
-
-Mahab Pola Pakip should be paid. The vacancies of university lecturers and professors should be filled.
-
-CCTV. The weed should be eliminated by the students' activities.
-
-Abandon projects for creating private education shops that eradicate free education and free hygiene.
-
-...
-
-[Data](articles/74f43bbe.json)
-
-[Extended Data](ext_articles/74f43bbe.ext.json)
-
----
-
-### Online Act is in force from today
-
-*2024-02-01 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192825) · `si`
-
-Online methods are being implemented today from today (01).
-
-That is compatible with the Speaker Mahinda Yapa Abeywardena from today's security system.
-
-The Bill was passed in parliament on the 23rd of Parliament.
-
-◼️
-
-[Data](articles/bca7f6e2.json)
-
-[Extended Data](ext_articles/bca7f6e2.ext.json)
-
----
-
-### Sri Lanka bond yields down
-
-*2024-02-01 10:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-bond-yields-down-149486/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s bond yields have dropped over the week, dealers said.
-
-A bond maturing on 01.02.2026 was quoted at 12.20/25 percent.
-
-A bond maturing on 15.09.2027 was quoted at 12.70/13.00 percent from 12.70/80 percent.
-
-A bond maturing on 15.03.2028 was quoted at 12.95/13.05 percent from 12.85/13.00 percent.
-
-With the fall in the rates, the Colombo Stock Exchange saw some renewed interest. The All Share Price Index was trading up 0.32 percent at 10,344; and the S&P SL20 was trading up 0.92 percent at 2,923 in the first hour of trading. (Colombo/Feb1/2024)
-
-◼️
-
-[Data](articles/6baeb9d7.json)
-
-[Extended Data](ext_articles/6baeb9d7.ext.json)
-
----
-
-### Parliament gets new Serjeant-at-Arms
-
-*2024-02-01 10:20:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/parliament-gets-new-serjeant-at-arms/) · `en`
-
-COLOMBO (News 1st); Kushan Sampath Jayaratne assumed duties as the 7th Serjeant-at-Arms of the Parliament of Sri Lanka on Wednesday (31) in the morning.
-
-Upon the retirement of Narendra Fernando, who performed his duties as the 6th Serjeant-at-Arms of the Parliament, Kushan Sampath Jayaratne therefore assumed duties as the 7th Serjeant-at-Arms of the Parliament.
-
-Narendra Fernando who retired, traditionally handed over the Mace and the Sword of the Serjeant-at-Arms to the new Serjeant-at-Arms Kushan Sampath Jayaratne near the Silver Door which leads to the Parliament Chamber.
-
-Kushan Sampath Jayaratne has served in the Sri Lanka Navy from 1994 to 2007.
-
-In particular, he has engaged in the operations affiliated to the Fast Attack Craft Flotilla for a long-time during duty.
-
-Later in the year 2007, he joined the service of the Parliament of Sri Lanka as an Assistant Serjeant-at-Arms and then in 2018 he was promoted to the position of Deputy Serjeant-at-Arms.
-
-...
-
-[Data](articles/ee0e972e.json)
-
-[Extended Data](ext_articles/ee0e972e.ext.json)
 
 ---

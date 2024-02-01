@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 14:02:29**
+As of **2024-02-01 14:17:13**
 
 ## Newspaper Stats
 
-*Scraped **4,075** Articles*
+*Scraped **4,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 258
 dailyftlk | 258
 adalk | 358
 virakesarilk | 455
-adaderanasinhalalk | 472
+adaderanasinhalalk | 473
 adaderanalk | 509
 tamilmirrorlk | 519
 dailymirrorlk | 556
@@ -26,11 +26,35 @@ dailymirrorlk | 556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,075 (100.0%) of 4,075 articles have been extended.
+4,075 (100.0%) of 4,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### බස් ගාස්තු වැඩි කිරීමට සැරසෙයි
+
+*2024-02-01 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192833) · `si`
+
+දිගින් දිගටම ඩීසල් මිල ඉහළ දැමීම හේතුවෙන් බස් ගාස්තු ඉහළ දැමීමට වහා කටයුතු කළ යුතු බව පෞද්ගලික බස් රථ සංගම් පවසති.
+
+සමස්ත ලංකා පෞද්ගලික බස් රථහිමියන්ගේ සංගමයේ ප්‍රධාන ලේකම් අංජන ප්‍රියන්ජිත් මහතා,
+
+"මීට කලින් ඩීසල් ලීටරයක මිල රුපියල් 29කින් වැඩි කළා. එතනින් නතර නොවී ඊයේ නැවත වතාවක් ඩීසල් මිල රුපියල් 5කින් වැඩි කළා. මේ නිසා අනිවාර්යයෙන්ම බස් ගාස්තු වැඩි විය යුතුයි."
+
+"අපි අනිවාර්යයෙන්ම සති දෙකක් ඇතුළත බස් ගාස්තු වැඩි කරන්න කටයුතු කරනවා. මේ වෙලාවේ අවම බස් ගාස්තුව රුපියල් 35ක් වත් වෙයි. බලෙන් හරි කරනවා."
+
+පාසල් ළමුන් ප්‍රවාහන ගාස්තු වැඩි කිරීම සම්බන්ධයෙන් මේ මොහොතේ තීරණයක් ගෙන නොමැති බව සමස්ත ලංකා පාසල් ළමුන් ප්‍රවාහන සංගමයේ ලේකම් ලලිත් චන්ද්‍රසිරි මහතා පැවසීය.
+
+සමස්ත ලංකා අන්තර් පළාත් පාසල් ළමුන් ප්‍රවාහන සේවා සංගමයේ සභාපති ඒ.එච්.රුවන් ප්‍රසාද් මහතා පැවසුවේ වැට් බලපෑම සහ ඉන්ධන ගාස්තු වැඩිවීම හේතුවෙන් ගාස්තු වැඩි කිරීමට සිදුවී ඇති බවය.
+
+මේ අතර සමස්ත ලංකා ත්‍රිරෝද රථ රියදුරන්ගේ වෘත්තිය සමිතිය පවසන්නේ ඉන්ධන මිල ඉහළ ගියද ගාස්තු ඉහළ දැමීමක් සිදු නොකරන බවය.
+
+...
+
+[Data](articles/04196a9c.json)
+
+---
 
 ### Women's Big Bash Star in Year Chamari Atapattu
 
@@ -2053,21 +2077,5 @@ However, the union action will not be carried out in all children's, cancer and 
 [Data](articles/60fd8dea.json)
 
 [Extended Data](ext_articles/60fd8dea.ext.json)
-
----
-
-### Singapore High Commissioner visits BOI
-
-*2024-02-01 04:35:30* · [`dailyftlk`](https://www.ft.lk/business/Singapore-High-Commissioner-visits-BOI/34-758011) · `en`
-
-Non-resident Singapore High Commissioner for Sri Lanka S. Chandra Das met with the Board of Investment Chairman Dinesh Weerakkody and officials for a briefing on the current economic climate and potential investment opportunities in the country.
-
-Additionally the BOI discussed areas of cooperation including training opportunities and capacity building.
-
-◼️
-
-[Data](articles/de9643c4.json)
-
-[Extended Data](ext_articles/de9643c4.ext.json)
 
 ---

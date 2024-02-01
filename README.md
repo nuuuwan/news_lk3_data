@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 17:33:19**
+As of **2024-02-01 17:52:57**
 
 ## Newspaper Stats
 
-*Scraped **4,126** Articles*
+*Scraped **4,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 259
 adalk | 368
 virakesarilk | 462
 adaderanasinhalalk | 484
-adaderanalk | 518
+adaderanalk | 519
 tamilmirrorlk | 528
 dailymirrorlk | 559
 
@@ -26,11 +26,25 @@ dailymirrorlk | 559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,124 (100.0%) of 4,126 articles have been extended.
+4,127 (100.0%) of 4,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### Bus fares to remain unchanged - NTC
+
+*2024-02-01 17:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/96923/bus-fares-to-remain-unchanged-ntc) · `en`
+
+The National Transport Commission (NTC) has announced that bus fares will not be increased, despite the recent revision in fuel prices.
+
+◼️
+
+[Data](articles/e3212232.json)
+
+[Extended Data](ext_articles/e3212232.ext.json)
+
+---
 
 ### Sri Lanka, Australia to collaborate on strengthening governance, market systems development
 
@@ -47,6 +61,8 @@ Lead delivery partners include the World Bank, The Asia Foundation, and Internat
 ...
 
 [Data](articles/ce84a656.json)
+
+[Extended Data](ext_articles/ce84a656.ext.json)
 
 ---
 
@@ -65,6 +81,8 @@ The doctors’ unions and the All Ceylon Nurses’ Union, however, decided to re
 ◼️
 
 [Data](articles/1ed2bd06.json)
+
+[Extended Data](ext_articles/1ed2bd06.ext.json)
 
 ---
 
@@ -1975,27 +1993,5 @@ Sri Lanka Army said its troops were dispatched to the National Hospital of Sri L
 [Data](articles/a1695938.json)
 
 [Extended Data](ext_articles/a1695938.ext.json)
-
----
-
-### Army calls for hospitals
-
-*2024-02-01 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192824) · `si`
-
-The Ministry of Defense has called for to assist in conducting hospitals to work in hospitals.
-
-72 health unions have continued to prove their demands to date and continue striving from 6.30 am today (01).
-
-As a result, patients have been severely inconvenienced and the three armed forces have been called to avoid that inconvenience.
-
-Accordingly, the West, Eastern, Central and Wanni Defense Society of Sri Lanka and Kandy National Hospital, Kalugawala, Peradeniya, Naamwala, Badulla, Gampola, Nawalagoda, Badulla, Medo, Mirigama, Homagama, Gampola, Mirigama, Homagama, Gampola, Mirigama, HomagamaAnd the army said that the military troops were deployed to continue in 26 hospitals, including Kegalle.
-
-Commander of the Army has been deployed in the war and the army commander to use the needs of the army to use its daily role in order to use their daily activities without any hindrance to the public.Mr. Liyanage has advised the Security Forces Ordinance.
-
-◼️
-
-[Data](articles/36614ac7.json)
-
-[Extended Data](ext_articles/36614ac7.ext.json)
 
 ---

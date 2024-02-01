@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 08:04:34**
+As of **2024-02-01 08:17:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,981 (99.9%) of 3,983 articles have been extended.
+3,983 (100.0%) of 3,983 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The public is kindly requested to take adequate precautions to minimize damages 
 ◼️
 
 [Data](articles/f4865922.json)
+
+[Extended Data](ext_articles/f4865922.ext.json)
 
 ---
 
@@ -544,27 +546,29 @@ Supreme Court Judge Priyantha Fernando has announced the agreement with the agre
 
 ---
 
-### ඉන්ධන මිල අඩු වැඩි වෙයි
+### Fuel prices increase
 
 *2024-01-31 22:51:48* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-අඩු-වැඩි-වෙයි/11-407832) · `si`
 
-අද මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ඉන්ධන මිල සංශෝධනය කිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව තීරණය කර තිබේ.
+The Ceylon Petroleum Corporation has decided to revise the fuel prices to be operated from midnight today.
 
-ඒ අනුව 92 වර්ගයේ පෙට්‍රල් රුපියල් 05කින් ඉහළ දැමීමට තීරණය කර ඇති අතර එහි නව මිල රුපියල් 371කි.
+Accordingly, the 92 petrol has decided to increase the 92 rupees and the new price is Rs. 371.
 
-ලංකා සුදු ඩීසල් මිල රුපියල් 05කින් ඉහළ දමා ඇති අතර එහි නව මිල රුපියල් 363කි.
+The price of Lanka white diesel has been increased by Rs. 363.
 
-ලංකා භූමිතෙල් මිල ද රුපියල් 26කින් ඉහළ දමා ඇති අතර එහි නව මිල රුපියල් 262කි.
+Lanka kerosene price has been increased by Rs 262.
 
-මේ අතර ලංකා පෙට්‍රල් 95 ඔක්ටේන් යූරෝ 4 වර්ගයේ ලීටරයක මිල රුපියල් 08කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 456කි.
+Meanwhile, the price of a liter of 40 Octane 85 octane 85 Octane 85 Octane Uro 4 has been reduced by Rs. 456.
 
-එසේම ලංකා සුපිරි ඩීසල් 4ස්ටාර් යූරෝ 4 ලීටරයක මිල ද රුපියල් 07කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 468කි.
+The price of a liter of Lanka Super Diesel 4 of Sri Lanka has also reduced the price of 4 rupees.
 
-ලංකා IOC සමාගම ද මෙම මිල ගණන් අනුව සිය ඉන්ධන මිල ගණන් සංශෝධනය කර තිබේ.
+Lanka IOC has also revised its fuel prices according to these prices.
 
 ◼️
 
 [Data](articles/65fae476.json)
+
+[Extended Data](ext_articles/65fae476.ext.json)
 
 ---
 

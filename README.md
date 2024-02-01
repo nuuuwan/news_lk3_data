@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 08:50:32**
+As of **2024-02-01 09:02:27**
 
 ## Newspaper Stats
 
-*Scraped **3,983** Articles*
+*Scraped **3,985** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 48
-bbccomsinhala | 62
+bbccomsinhala | 63
 dbsjeyarajcom | 131
 islandlk | 220
 economynextcom | 221
@@ -18,7 +18,7 @@ dailyftlk | 257
 adalk | 351
 virakesarilk | 440
 adaderanasinhalalk | 457
-adaderanalk | 499
+adaderanalk | 500
 tamilmirrorlk | 504
 dailymirrorlk | 545
 
@@ -26,11 +26,29 @@ dailymirrorlk | 545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,983 (100.0%) of 3,983 articles have been extended.
+3,983 (99.9%) of 3,985 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### Health sector trade unions launch another strike
+
+*2024-02-01 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96903/health-sector-trade-unions-launch-another-strike-) · `en`
+
+A total of 72 trade unions in the health sector have launched an island-wide one-day strike starting 6.30 a.m. today (Feb.01) urging the government to address their issues without delay, the National Movement of the Health Professionals said.
+
+It is understood that the doctors’ unions and the All Ceylon Nurses’ Union have decided not to join the strike action today. The nurses’ union said that this decision was taken since the planned strike action is a conspiracy by the government.
+
+They also mentioned that nevertheless, the authorities were informed regarding their demands and that the relevant authorities requested a period of one month to act on the relevant demands. The union further stated that they will resort to a trade union action if no response is received for their suggestions and demands.
+
+On January 08, the Cabinet of Ministers approved President Ranil Wickremesinghe’s proposal to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000.
+
+...
+
+[Data](articles/f123743f.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the island
 
@@ -393,6 +411,34 @@ In 2023, the Immigration and Emigration Department issued a total of 849,829 pas
 [Data](articles/75915ad2.json)
 
 [Extended Data](ext_articles/75915ad2.ext.json)
+
+---
+
+### මැඩියා වන්නම: ලයනල් රන්වල නිසා රැකුණු ගැමියන්ගේ විද්‍යා දැනුම ප්‍රකට වන අප්‍රචලිත වන්නමක්
+
+*2024-02-01 02:05:58* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ck56853rn22o) · `si`
+
+මැඩියා වන්නම: ලයනල් රන්වල නිසා රැකුණු ගැමියන්ගේ විද්‍යා දැනුම ප්‍රකට වන අප්‍රචලිත වන්නමක්
+
+ශ්‍රී ලංකාවේ බොහෝ දෙනෙකු 'වන්නම්' පිළිබඳව අසා ඇති බවට සැකයක් නැත.
+
+මූලික වශයෙන් වන්නම් ප්‍රභේද තුනක් පිළිබඳව නර්තනය සහ සංගීතය හදාරන්නෝ අධ්‍යයනය කරති.
+
+උඩරට, පහතරට සහ සබරගමුව යන සම්ප්‍රදායන්ට අයත් වන්නම් රැසක් පවතී.
+
+කෙසේ වෙතත්, මෙම ප්‍රභේදවලට අමතරව අප්‍රචලිත වන්නම් සම්ප්‍රදායක් ද පවතින බව ජන සංගීත පර්යේෂකයෙකු වූ ලයනල් රන්වල මීට ටික කලකට ඉහතදී අනාවරණය කළේ, ඔහු විසින් කරන ලද පර්යේෂණවලදී අනාවරණය වූ තොරතුරු මත ය.
+
+ඒ අනුව, රජරට වන්නම් යනුවෙන් අප්‍රචලිත වන්නම් සම්ප්‍රදායක් පැරණි සිංහල සමාජයේ පැවති බව අනාවරණය වී තිබේ.
+
+රජරට වන්නම් 21ක් පිළිබඳව තොරතුරු වාර්තා වී ඇති අතර, එය රජරට 'එක්විසි වන්නම්' ලෙස හැඳින්වේ.
+
+රජරට වන්නම් සම්ප්‍රදායේ විශේෂත්වය වන්නේ, ඒවා නර්තනය සඳහා නිර්මාණය කරන ලද ඒවා නොව හුදෙක් ගායනා කිරීම උදෙසා නිර්මාණය කරන ලද ඒවා වීම ය.
+
+මෙම ලිපිය මගින් උත්සහ කෙරෙන්නේ, රජරට වන්නම් සම්ප්‍රදායට අයත් සුවිශේෂී වන්නමක් වන 'මැඩියා වන්නම' පිළිබඳව හඳුන්වා දීමට ය.
+
+...
+
+[Data](articles/58e92ef5.json)
 
 ---
 
@@ -2005,49 +2051,5 @@ A bond maturing on 01.07.2032 closed at 13.40/60 percent from 13.70/90 percent. 
 [Data](articles/01495332.json)
 
 [Extended Data](ext_articles/01495332.ext.json)
-
----
-
-### A strong response to China from Taiwan
-
-*2024-01-31 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192801) · `si`
-
-Foreign media reports that the activities of displaying the Chinese military strength of the island around the country, which is considered to be a state of the country, is constantly operating.
-
-Especially when there is a remarkable political or diplomatic process in Taiwan, the Chinese activity can be seen.
-
-But the Taiwan ruling party won the Taiwan Control Party, which had pledged to join China, and their goal is to build up a war-torn energy that could fail to enormous China.
-
-The United States of America has come to provide modern chapter.
-
-Taiwan, armed technology, is considered to be the world's main computer chips or semicandcter producer.
-
-China is constantly heard in the sea near Taiwan and enter the Taiwan aircraft, but Taiwan does not respond.
-
-However, armed Taiwan has exercised an exercise in displaying his war strength today.
-
-In this exercise, a special warfare in Taiwan was entered into the plane.
-
-...
-
-[Data](articles/8bb24bda.json)
-
-[Extended Data](ext_articles/8bb24bda.ext.json)
-
----
-
-### BCCI Secretary Jay Shah reappointed as ACC Chairman for third consecutive term
-
-*2024-01-31 17:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/BCCI-Secretary-Jay-Shah-reappointed-as-ACC-Chairman-for-third-consecutive-term/108-276052) · `en`
-
-Jan. 31 (IND) - The Annual General Meeting (AGM) of the Asian Cricket Council (ACC) took place over the course of two days in Bali. During the meeting, it has been decided unanimously that Jay Shah who is also the BCCI Secretary will continue at the top post of ACC.
-
-The Secretary of Board of Control for Cricket in India (BCCI) has been reappointed as the Chairman of the Asian Cricket Council (ACC). The decision was taken at the AGM of the ACC that took place in Bali even as Shah will serve at the top position for the third consecutive time. His extension was proposed by the Sri Lanka Cricket president Shammi Silva and all the members of the ACC unanimously backed his proposal during the meeting.
-
-...
-
-[Data](articles/480b5131.json)
-
-[Extended Data](ext_articles/480b5131.ext.json)
 
 ---

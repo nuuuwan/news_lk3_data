@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 15:51:19**
+As of **2024-02-01 16:02:49**
 
 ## Newspaper Stats
 
-*Scraped **4,105** Articles*
+*Scraped **4,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 63
 dbsjeyarajcom | 131
 islandlk | 220
 economynextcom | 228
-newsfirstlk | 258
 dailyftlk | 258
+newsfirstlk | 259
 adalk | 366
 virakesarilk | 455
-adaderanasinhalalk | 479
+adaderanasinhalalk | 480
 adaderanalk | 514
 tamilmirrorlk | 526
 dailymirrorlk | 559
@@ -26,69 +26,105 @@ dailymirrorlk | 559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,094 (99.7%) of 4,105 articles have been extended.
+4,107 (100.0%) of 4,107 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
 
-### උසස් පෙළ උත්තර පත්‍ර පරීක්ෂාවෙන් ගුරුවරු ඉවතට ?
+### Is China start a war?
+
+*2024-02-01 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192840) · `si`
+
+In the next few years, the United States and their friends have a powerful doubt that the US President Xi Jinnings will issue an order to acquire Taiwan island in the next few years.
+
+China is now considered a developed land with high technological advancement of a democratic governance.
+
+In fact, in the history of Taiwan, the Southern government leaders of the Chinese have fled to Taiwan when he was established in Taiwan history.
+
+But the return to the Chinese domination of Chinese domination is a situation where the US countries, including the US.
+
+Therefore, the US is now evaluating how the US can now evaluate how to face Chinese troops if they try to acquire Taiwan.
+
+They have been reviewed how the logistic (logistic) or logistic (logistic) in Taiwan, especially in the United States, has been reviewed.
+
+It is reported that the United States has been in a collaboration with Australia with a joint war exercise every two years.
+
+...
+
+[Data](articles/6bb37477.json)
+
+[Extended Data](ext_articles/6bb37477.ext.json)
+
+---
+
+### Teachers out of the A / L answer sheets?
 
 *2024-02-01 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192839) · `si`
 
-උත්තර පත්‍ර පරීක්ෂා කරන ගුරුවරුන්ට ලබාදීමට නියමිත රුපියල් 2,000ක දීමනාව රජය විසින් නෙගෙවීම හේතුවෙන් එම පිරිස මේ වනවිට උත්තර පත්‍ර පරීක්ෂාවෙන් ඉවත්ව ඇතැයි ගුරු විදුහල්පති වෘත්තීය සමිති සන්ධානය පවසයි.
+Teacher Principal Trade Union Alliance says that the government has left the answer shelter to the answer scripting Rs.
 
-අද (01) කොළඹ දී පැවති මාධ්‍ය හමුවකට එක්වෙමින් එම සන්ධානයේ, පූජ්‍ය යල්වෙල පඤ්ඤාසේකර හිමියන් පවසා සිටියේ, මේ හේතුවෙන් එම උත්තර පත්‍ර පරීක්ෂා කළ ගුරුවරු දැඩි ආර්ථික අර්බුදයකට පත්ව ඇති බවය.
+The UPFA, Ven. Yalwela Pannanansara Thero said that the UPFA has said that the teachers who checked the answer sheets have been in a heavy economic crisis today.
+
+"Although a few days are informed about this, the government has not taken measures to pay Rs. 2,000 and the advantage allowance. Therefore, we have reported that teachers of these centers had left the evaluation from this afternoon.. They say that this daily allowance is Rs. 2,000 to pay immediately. That is why they volunteer to evaluate work volunteer. It is a profound impact on education in this country. When asked Minister about this, he was told that the cabinet leaves a cabinet paper next Monday and then payments. We regret that an important cabinet paper not before. Children who have been impact on duty are being affected. We will tell the government to solve this very quickly. "
 
 ...
 
 [Data](articles/9c6870f2.json)
 
+[Extended Data](ext_articles/9c6870f2.ext.json)
+
 ---
 
-### கெஹலியவுக்கு பயண தடை
+### Traveling to Keheliya
 
 *2024-02-01 15:06:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-பயண-தடை/175-332485) · `ta`
 
-அத்துடன், அவரை நாளை (02) குற்றப் புலனாய்வு திணைக்களத்தில் முன்னிலையாகுமாறு நீதிமன்றம் மேலும் உத்தரவிட்டுள்ளது.
+The court has also ordered him to appear before the Criminal Investigation Department tomorrow (02).
 
 ◼️
 
 [Data](articles/f89df7c8.json)
 
+[Extended Data](ext_articles/f89df7c8.ext.json)
+
 ---
 
-### கரட் விலையில் வீழ்ச்சி
+### Fall in the price of karot
 
 *2024-02-01 15:04:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கரட்-விலையில்-வீழ்ச்சி/76-332484) · `ta`
 
-நுவரெலியாவில் கரட்டின் விலை வீழ்ச்சி அடைந்துள்ளதாக    நுவரெலியா பொருளாதார மத்திய நிலைய காரியாலயம்  இன்றைய தினம் (01) தெரிவித்துள்ளது.
+The Nuwara Eliya Economic Center Office said today (01) that the price of Karat has fallen in Nuwara Eliya.
 
-இதற்கமைய, புதன்கிழமை (31) வரை 1100 ரூபாவுக்கு அதிகமாக மொத்த விலையில் விற்பனை செய்யப்பட்டு வந்த நுவரெலியா கரட்டின் விலையில் வீழ்ச்சி ஏற்பட்டு  இன்றைய தினம் (01) ரூ.850 க்கு மொத்த விற்பனை விலை அறிவிக்கப்பட்டுள்ளதாக பொருளாதார மத்திய நிலைய காரியாலயத்தின் முகாமையாளர் தெரிவித்துள்ளார்.
+Accordingly, the total price of Nuwara Eliya, which was sold at a total price of more than 1100 rupees till Wednesday (31), has been announced today (01) for Rs.
 
-அத்துடன் கடந்த காலங்களில் நுவரெலியாவில் தொடர்ச்சியாக நிலவிய சீரற்ற காலநிலையில் பாதிக்கப்பட்ட மரக்கறிகளின் விளைச்சல் தற்போது நிலவும் சீரான காநிலையில் சீராகி வருவதாக அவர் சுட்டிக்காட்டினார்.
+He also pointed out that the yields of the affected vegetables in the past in the past have been steady in Nuwara Eliya.
 
-மேலும் நீண்ட நாட்களுக்கு பின் புதன்கிழமை  (31) மாலை 12 ஆயிரம் கிலோவுக்கு அதிகமான கரட்  வெளிமாவட்ட சந்தைகளுக்கு அனுப்பி வைக்கப்பட்டதுடன் ஏனைய மரக்கறிகள் அடங்களாக 55 ஆயிரம் கிலோவுக்கு அதிகமான மரக்கறிகள் வெளி சந்தைகளுக்கு அனுப்பி வைக்கப்பட்டதாகவும் தெரிவித்தார்
+He also said that more than 12,000 kg of carrots were shipped on Wednesday (31) evening and other vegetables were sent to the outer markets for more than 55 thousand kg of vegetables.
 
 ◼️
 
 [Data](articles/f7a276c4.json)
 
+[Extended Data](ext_articles/f7a276c4.ext.json)
+
 ---
 
-### කෙහෙළියට විදෙස් ගමන් තහනමක්
+### Keheliya banned
 
 *2024-02-01 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192838) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාට විදෙස් ගමන් තහනමක් පනවා තිබේ.
+Former Minister of Health Keheliya Rambukwella has banned a foreign travel.
 
-මාලිගාකන්ද මහේස්ත්‍රාත් අධිකරණය විසින් මෙම විදෙස් ගමන් තහනම පනවා ඇත.
+The maligakanda Magistrate's Court has banned the abroad ban.
 
-එහිදී අධිකරණය වැඩිදුරටත් නියෝග කර ඇත්තේ හෙට දිනයේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිටින ලෙසටය.
+The Court has ordered to appear before the CID tomorrow.
 
 ◼️
 
 [Data](articles/10b6747e.json)
+
+[Extended Data](ext_articles/10b6747e.ext.json)
 
 ---
 
@@ -148,6 +184,26 @@ The debate has been decided at a special party leaders meeting held from 9.30 am
 
 ---
 
+### Rambukwella ordered to report to CID on Friday; Slapped with Overseas Travel Ban
+
+*2024-02-01 14:51:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/rambukwella-ordered-to-report-to-cid-on-friday-slapped-with-overseas-travel-ban/) · `en`
+
+COLOMBO (News 1st); Maligakanda Magistrate Lochana Abeywickrama ordered Minister Keheliya Rambukwella to report to the Criminal Investigations Department in Colombo at  9 AM on Friday (2) to provide a statement.
+
+The statement was made upon considering the submissions that were made by Deputy Solicitor General Lakmini Girihagama on behalf of the Attorney General when the case filed over the controversial human immunoglobulin procurement was taken up in court.
+
+The Deputy Solicitor General also told the court that one of the reasons provided by Keheliya Rambukwella for failing to make a scheduled appearance at the CID on Wednesday (31), is also false.
+
+She told the court that the Secretary to the Cabinet Sub-Committee on Public Expenditure Management had confirmed in writing that Keheliya Rambukwella did not attend the meeting at the President's Office on Wednesday (31).
+
+...
+
+[Data](articles/5fbc69e7.json)
+
+[Extended Data](ext_articles/5fbc69e7.ext.json)
+
+---
+
 ### Better permission to take the examination
 
 *2024-02-01 14:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192836) · `si`
@@ -172,49 +228,55 @@ President's Counsel Faizer Mustapha claimed that there was no legal base against
 
 ---
 
-### சி.ஐ.டிக்கு முன்பாக போராட்டம்; நீதிமன்றம் வழங்கிய உத்தரவு
+### Struggle before CID;The court issued by the court
 
 *2024-02-01 14:46:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சி-ஐ-டிக்கு-முன்பாக-போராட்டம்-நீதிமன்றம்-வழங்கிய-உத்தரவு/175-332482) · `ta`
 
-அவர்கள் இன்று(01) கோட்டை நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட நிலையில் அவர்களை பிணையில் விடுவிக்குமாறு உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+They have been ordered to be released on bail as they have been produced before the Fort Magistrate's Court today (01).
 
-முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்லவை கைது செய்யுமாறு கோரி குற்றப்புலனாய்வு திணைக்களத்திற்கு முன்பாக ஆர்ப்பாட்டத்தில் ஈடுபட்ட போதே பொலிஸாரால் இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+They have been arrested by the police while protesting in front of the Criminal Investigation Department demanding the arrest of former health minister Keheliya Rambukwella.
 
 ◼️
 
 [Data](articles/a804b2b9.json)
 
+[Extended Data](ext_articles/a804b2b9.ext.json)
+
 ---
 
-### பஸ் கட்டணங்களை அதிகரிக்குமாறு கோரிக்கை
+### Request to increase bus fares
 
 *2024-02-01 14:42:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டணங்களை-அதிகரிக்குமாறு-கோரிக்கை/175-332481) · `ta`
 
-எரிபொருள் விலை திருத்தம் காரணமாக ஏற்பட்டுள்ள பிரச்சினைகள் தொடர்பில் கலந்துரையாடுவதற்காக பஸ் தொழிற்சங்க பிரதிநிதிகள் குழுவொன்று போக்குவரத்து அமைச்சுக்கு சென்றுள்ளது.
+A team of bus union representatives has gone to the Transport Ministry to discuss the issues caused by the fuel prices.
 
-இதன்போது, குறைந்தபட்ச பஸ் கட்டணத்தில் இருந்து ஏனைய கட்டணங்களும் அதிகரிக்கப்பட வேண்டும் என பஸ் சங்க பிரதிநிதிகள் தெரிவித்துள்ளனர்.
+Representatives of the Bus Association said other fees should be increased from the minimum bus fare.
 
-அத்துடன், எதிர்வரும் பெப்ரவரி மாதம் 15ஆம் திகதிக்கு முன்னர் கட்டண திருத்தம் அமுல்படுத்தப்பட வேண்டுமெனவும் அவர்கள் கோரிக்கை முன்வைத்துள்ளதாக தகவல் வெளியாகியுள்ளது.
+It is also reported that they have demanded that the tariff revision be implemented before the 15th of February.
 
 ◼️
 
 [Data](articles/f8d47a2d.json)
 
+[Extended Data](ext_articles/f8d47a2d.ext.json)
+
 ---
 
-### விடைத்தாள் திருத்தும் பணிகள் ஆரம்பம்
+### Answer Sheet Correction Work
 
 *2024-02-01 14:39:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடைத்தாள்-திருத்தும்-பணிகள்-ஆரம்பம்/175-332480) · `ta`
 
-கல்விப் பொதுத் தராதரப் பத்திர உயர்தர பரீட்சைக்கான விடைத்தாள் திருத்தும் பணிகள் ஆரம்பிக்கப்பட்டுள்ளதாக பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Examinations has said that the answer sheet for the GCE A / L examination has begun.
 
-விடைத்தாள் திருத்தும் பணிகளில் ஈடுபடும் ஆசிரியர்கள் மற்றும் பிற ஊழியர்களுக்கு கடந்த ஆண்டு செலுத்தப்பட்ட அதே கட்டணமே இம்முறையும் வழங்கப்படும் என்றும் பரீட்சைகள் திணைக்களம் கூறியுள்ளது.
+The Department of Examinations has said that this time will be paid the same fee for teachers and other staff engaged in editing the answer sheet.
 
-உயர்தர பரீட்சையானது ஜனவரி 4 ஆம் திகதி முதல் 31 ஆம் திகதி நடைபெற்றதுடன், இம்முறை 346,976 பரீட்சார்த்திகள் தோற்றியமை குறிப்பிடத்தக்கது.
+The GCE Advanced Level Examination was held from January 4 to 31 and this year 346,976 candidates appeared.
 
 ◼️
 
 [Data](articles/fc25b5ae.json)
+
+[Extended Data](ext_articles/fc25b5ae.ext.json)
 
 ---
 
@@ -301,6 +363,8 @@ At least 72 trade unions within the health sector engaged in their planned islan
 ◼️
 
 [Data](articles/ec25d29a.json)
+
+[Extended Data](ext_articles/ec25d29a.ext.json)
 
 ---
 
@@ -416,35 +480,39 @@ Kotagala Tea plantation company, Hatton Tea Plantation Company and Bogawantalawa
 
 ---
 
-### வயிற்றில் அடிக்கின்றனர் - எரிபொருள் விலை உயர்வுக்கு கடும் அதிருப்தி
+### Stomach hit - fuel price hike
 
 *2024-02-01 14:04:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/வயிற்றில்-அடிக்கின்றனர்-எரிபொருள்-விலை-உயர்வுக்கு-கடும்-அதிருப்தி/52-332479) · `ta`
 
-இரவு தூங்கி காலையில் எழும்போது எரிபொருள்களின் விலைகளை அரசாங்கம் அதிகரிப்பதாக மக்கள் விசனம் வெளியிடுகின்றனர்.
+People are angry that the government is increasing the prices of fuels when sleeping in the morning and waking up in the morning.
 
-அனைத்து பொருட்களின் விலைகளையும் அதிரித்து அரசாங்கம் மக்களின் வயிற்றில் அடிப்பதாகவும் மக்கள் குற்றச்சாட்டை முன்வைத்துள்ளனர்.
+People have accused the government of beating all the prices of all commodities.
 
-எரிபொருள் விலை உயர்வு தொடர்பில் தமது கடும் அதிருப்தியை வெளியிடுவதாக பொதுமக்கள் கருத்து வெளியிட்டுள்ளனர்.
+The public has expressed his displeasure over fuel prices.
 
 ◼️
 
 [Data](articles/94159e84.json)
 
+[Extended Data](ext_articles/94159e84.ext.json)
+
 ---
 
-### ’நீர்த்தாரை பிரயோகத்துடன் வீடு திரும்பியதுதான் மிச்சம்’
+### Returning home with a waterproofing water
 
 *2024-02-01 13:58:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/நீர்த்தாரை-பிரயோகத்துடன்-வீடு-திரும்பியதுதான்-மிச்சம்/52-332478) · `ta`
 
-போராட்டத்தை நான் ஏற்பாடு செய்திருந்தால் சிறப்பாக செயல்பட்டிருப்பேன் என, சரத் பொன்சேகா தெரிவித்துள்ளார்.
+Sarath Fonseka said that if I had organized the struggle, I would have done better.
 
-ஐக்கிய மக்கள் சக்தி நேற்று முன்தினம் கொழும்பில் ஏற்பாடு செய்திருந்த போராட்டம் தொடர்பில் கருத்து வெளியிடுகையில் அவர் இதனைக் கூறினார்.
+He made this comment while commenting on the struggle that the United People's Power had organized in Colombo yesterday.
 
-இறுதியில், போராட்டக்காரர்கள் கண்ணீப்புகை மற்றும் நீர்த்தாரை பிரயோகத்துடன் வீடு திரும்பியதுதான் மிச்சம்  என அவர் குறிப்பிட்டுள்ளார்.
+In the end, he noted that the protesters returned home with tears and water.
 
 ◼️
 
 [Data](articles/ff88cd6a.json)
+
+[Extended Data](ext_articles/ff88cd6a.ext.json)
 
 ---
 
@@ -1262,6 +1330,8 @@ Thereafter, the opposition, and activists requested the speaker to refrain from 
 
 The Online Safety Bill aims to regulate online content in Sri Lanka, but critics warn it could lead to censorship and suppression of free speech.
 
+Rambukwella ordered to report to CID on Friday; Slapped with Overseas Travel Ban
+
 Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
 
 ◼️
@@ -1486,6 +1556,8 @@ Police said 1,189 road accidents were reported during this period, and 130 of th
 
 22,804 road accidents were reported last year, resulting in the death of 2,280 persons.
 
+Rambukwella ordered to report to CID on Friday; Slapped with Overseas Travel Ban
+
 Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
 
 ◼️
@@ -1670,6 +1742,8 @@ However, recognizing the advanced medical facilities and expertise in Sri Lanka,
 
 Minister Nimal Siripala de Silva confirmed that all necessary approvals have been granted to the Airport and Aviation Services and Civil Aviation Authority for the smooth operation of the air ambulance service.
 
+Rambukwella ordered to report to CID on Friday; Slapped with Overseas Travel Ban
+
 Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
 
 ◼️
@@ -1735,6 +1809,8 @@ The government did not respond to their demands despite a strike being launched 
 The All Ceylon Nurses' Union has reached a decision to refrain from supporting today's strike action.
 
 This was confirmed by its Chairman Ravindra Kahandawarachchi on Wednesday (31) afternoon, while speaking to media after visiting the Malwathu Maha Viharaya.
+
+Rambukwella ordered to report to CID on Friday; Slapped with Overseas Travel Ban
 
 Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
 
@@ -1880,6 +1956,8 @@ Senior Mission Chief of the International Monetary Fund (IMF) Peter Breuer had s
 
 [Data](articles/970edb12.json)
 
+[Extended Data](ext_articles/970edb12.ext.json)
+
 ---
 
 ### A group of suspects struggle to police
@@ -1963,43 +2041,5 @@ On January 08, the Cabinet of Ministers approved President Ranil Wickremesinghe�
 [Data](articles/f123743f.json)
 
 [Extended Data](ext_articles/f123743f.ext.json)
-
----
-
-### Notification from the Department of Examinations
-
-*2024-02-01 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192821) · `si`
-
-The Department of Examinations says that the Kruzedanism question paper of the GCE Advanced Level Examination will be issued to the students today (01).
-
-The education authorities decided to cancel the question paper due to the examination before the examination.
-
-Accordingly, the Department of Examinations has decided to restore one and two partitions in the question paper.
-
-◼️
-
-[Data](articles/90df9f1b.json)
-
-[Extended Data](ext_articles/90df9f1b.ext.json)
-
----
-
-### Sri Lanka Port City duty free shopping complex in legal quagmire
-
-*2024-02-01 08:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-city-duty-free-shopping-complex-in-legal-quagmire-149438/) · `en`
-
-ECONOMYNEXT – Duty free concessions given by Sri Lanka’s Colombo Port City Commission to operate duty free shops in a special economic zone would have to be reversed, as they had no legal basis, former chairman of the parliament’s Committee on Public Finance said.
-
-There was to be a 5,000 US dollar allowance for returning Sri Lankans and foreigners any amount, according to concessions gazetted on May 29.
-
-Sri Lanka the parliament has control of public finance, and changing taxes by gazette notice, a type of prerogative power, has been questioned.
-
-“The Port City Commission listed up 200-300 items that would be made duty free, to be sold at -the new downtown duty-free complex, which should also have a 25 percent tax holiday, in addition to being duty free,” opposition legislator Harsha de Silva, who was chairman of the parliament’s Committee on Public Fiannce told an economic forum organized by Colombo-based Advocata Institute.
-
-...
-
-[Data](articles/464079ec.json)
-
-[Extended Data](ext_articles/464079ec.ext.json)
 
 ---

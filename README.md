@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 09:33:00**
+As of **2024-02-01 09:51:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,996 (100.0%) of 3,997 articles have been extended.
+3,997 (100.0%) of 3,997 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ The admission cards for school applicants for this exam were sent to the respect
 ◼️
 
 [Data](articles/395497cc.json)
+
+[Extended Data](ext_articles/395497cc.ext.json)
 
 ---
 
@@ -1036,13 +1038,15 @@ The price of a liter of Lanka Super Diesel 4 of Sri Lanka has also reduced the p
 
 The Ceylon Petroleum Corporation (Ceypetco) announced that fuel prices will be revised with effect from midnight today (January 31).
 
-Accordingly, the price of Petrol Octane 92 will be increased by Rs. 05 to Rs. 371 per litre while Petrol Octane 95 is to be reduced by Rs. 08 to Rs. 456 per litre.
+Accordingly, the price of Petrol Octane 92 will be increased by Rs. 5 to Rs. 371 per litre while Petrol Octane 95 is to be reduced by Rs. 8 to Rs. 456 per litre.
 
-Auto Diesel has been increased by Rs. 05 to Rs. 363 while Super Diesel has been reduced by Rs. 07 to Rs. 468.
+Auto Diesel has been increased by Rs. 5 to Rs. 363 while Super Diesel has been reduced by Rs. 7 to Rs. 468.
 
-Meanwhile, the price of Kerosene will be increased by Rs. 26 up to Rs. 262 per litre.
+The price of Kerosene will be increased by Rs. 26 up to Rs. 262 per litre.
 
 Meanwhile, Lanka IOC has also decided to increase fuel prices in line with the new Ceypetco prices.
+
+UPDATE: Sinopec Energy Lanka has also decided to revise its retail fuel prices with effect from midnight today (January 31).
 
 ◼️
 

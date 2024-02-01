@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 06:16:58**
+As of **2024-02-01 06:56:03**
 
 ## Newspaper Stats
 
-*Scraped **3,976** Articles*
+*Scraped **3,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 350
 virakesarilk | 440
 adaderanasinhalalk | 455
 adaderanalk | 498
-tamilmirrorlk | 502
+tamilmirrorlk | 504
 dailymirrorlk | 545
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,956 (99.5%) of 3,976 articles have been extended.
+3,967 (99.7%) of 3,978 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -94,6 +94,8 @@ A major multilateral conference opened yesterday in Colombo which aims to transf
 
 [Data](articles/f71e0785.json)
 
+[Extended Data](ext_articles/f71e0785.ext.json)
+
 ---
 
 ### PM launches strategies to promote inclusive sustainable businesses to achieve SDGs
@@ -109,6 +111,8 @@ After the launch, Prime Minister Dinesh Gunawardena said that Sri Lanka’s visi
 ...
 
 [Data](articles/ab32a598.json)
+
+[Extended Data](ext_articles/ab32a598.ext.json)
 
 ---
 
@@ -127,6 +131,8 @@ This investment builds on a previous five-year arrangement valued at AUD 31 mill
 ...
 
 [Data](articles/9fab4390.json)
+
+[Extended Data](ext_articles/9fab4390.ext.json)
 
 ---
 
@@ -148,6 +154,8 @@ Participants will gain insights into strategies for addressing economic vulnerab
 
 [Data](articles/753f43a5.json)
 
+[Extended Data](ext_articles/753f43a5.ext.json)
+
 ---
 
 ### IOM facilitates ICAO Traveller Identification Program Strategy training for immigration officers
@@ -162,6 +170,8 @@ The primary objective of this training was to deliver an ICAO accredited trainin
 
 [Data](articles/12b02ce4.json)
 
+[Extended Data](ext_articles/12b02ce4.ext.json)
+
 ---
 
 ### SL-UK Chamber of Commerce holds business roundtable with Foreign Minister Ali Sabry
@@ -175,6 +185,8 @@ Sri Lanka-UK Chamber of Commerce President Shehan Silva emphasised the significa
 ...
 
 [Data](articles/6a4dbfb3.json)
+
+[Extended Data](ext_articles/6a4dbfb3.ext.json)
 
 ---
 
@@ -192,6 +204,24 @@ This week, an agreement between the Board of Investment (BOI) and the Araliya Gr
 
 [Data](articles/afc68a46.json)
 
+[Extended Data](ext_articles/afc68a46.ext.json)
+
+---
+
+### இன்று காலை முதல் பணிப்புறக்கணிப்பு
+
+*2024-02-01 04:35:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-காலை-முதல்-பணிப்புறக்கணிப்பு/175-332457) · `ta`
+
+72 சுகாதார தொழிற்சங்கங்கள் இன்று காலை 6.30 முதல் நாடு தழுவிய பணிப்புறக்கணிப்பில் ஈடுபட தீர்மானித்துள்ளன.
+
+வைத்தியர்களுக்கு வழங்குவதற்கு தீர்மானிக்கப்பட்டுள்ள 35 ஆயிரம் ரூபா வருகை மற்றும் போக்குவரத்துக் கொடுப்பனவுகளை தங்களுக்கும் வழங்க வேண்டுமென கோரிக்கையை முன்வைத்து இந்த தொழிற்சங்க நடவடிக்கை முன்னெடுக்கப்படவுள்ளது.
+
+எவ்வாறாயினும், அனைத்து சிறுவர், புற்றுநோய் மற்றும் சிறுநீரக வைத்தியசாலைகளிலும் இந்த தொழிற்சங்க நடவடிக்கை முன்னெடுக்கப்பட மாட்டாது என சுகாதார தொழிற்சங்கங்களின் கூட்டமைப்பு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/60fd8dea.json)
+
 ---
 
 ### Singapore High Commissioner visits BOI
@@ -205,6 +235,24 @@ Additionally the BOI discussed areas of cooperation including training opportuni
 ◼️
 
 [Data](articles/de9643c4.json)
+
+[Extended Data](ext_articles/de9643c4.ext.json)
+
+---
+
+### ’உரித்து’ வேலைத்திட்டம் 5 ஆம் திகதி ஆரம்பம்
+
+*2024-02-01 04:25:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரித்து-வேலைத்திட்டம்-5-ஆம்-திகதி-ஆரம்பம்/175-332456) · `ta`
+
+முறையான காணி உரிமையின்றி நெருக்கடிகளுக்கு முகம்கொடுத்திருந்த இரண்டு மில்லியனுக்கும் அதிகமான மக்களின் பிரச்சினைக்கு நிரந்தர தீர்வு வழங்கும் 'உரித்து' வேலைத்திட்டத்தின் ஆரம்ப நிகழ்வு  பெப்ரவரி 05 ஆம் திகதி திங்கட்கிழமை தம்புள்ளையில் நடைபெறவுள்ளது என சுற்றுலா, காணி மற்றும் விளையாட்டு மற்றும் இளைஞர் விவகார அமைச்சர் ஹரீன் பெர்னாண்டோ தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் மாநாட்டிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+காணி, காணி உறுதிப்பத்திரம், வீடு உள்ளிட்டவை கனவாக இருக்கும் மக்களின் பிரச்சினைகளுக்கு  முடிவு கட்டுவதே தற்போது எமக்கு உள்ள சவாலாகும். எனவே, அதற்காக விசேட திட்டமாக 'உரித்து' ஆரம்பிக்கப்பட்டுள்ளதோடு, அதனால் இலங்கையின் இரண்டு மில்லியன் மக்கள் வாழ்வில் மாற்றத்தை ஏற்படுத்த எதிர்பார்த்திருக்கிறோம். அதன்படி, ரன் பூமி, ஜெய பூமி மற்றும் சுவர்ண பூமி போன்ற அனுமதி பத்திரங்களை கொண்டிருக்கும் 20 லட்சத்திற்கும் மேற்பட்டவர்களுக்கு நிரந்தர  காணி உறுதியை வழங்கவுள்ளோம்.
+
+...
+
+[Data](articles/5da8da65.json)
 
 ---
 
@@ -696,6 +744,8 @@ two tablespoons of pure aloe vera gel with four tablespoons of honey and half a 
 
 [Data](articles/61b28374.json)
 
+[Extended Data](ext_articles/61b28374.ext.json)
+
 ---
 
 ### Batik…back in fashion
@@ -719,6 +769,8 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 ...
 
 [Data](articles/0d26d477.json)
+
+[Extended Data](ext_articles/0d26d477.ext.json)
 
 ---
 
@@ -865,6 +917,8 @@ Access to inclusive and equitable quality education is a fundamental human right
 ...
 
 [Data](articles/d3942706.json)
+
+[Extended Data](ext_articles/d3942706.ext.json)
 
 ---
 
@@ -1973,45 +2027,5 @@ Meanwhile, Hatton police said that the body of the deceased student has been sen
 [Data](articles/2ca13bc5.json)
 
 [Extended Data](ext_articles/2ca13bc5.ext.json)
-
----
-
-### Indian firm to manage Sri Lanka’s three key airport: Minister
-
-*2024-01-31 16:52:00* · [`economynextcom`](https://economynext.com/indian-firm-to-manage-sri-lankas-three-key-airport-minister-149364/) · `en`
-
-ECONOMYNEXT – An Indian firm is in the process of being given to manage Sri Lanka’s three airports including the main Bandaranaike International Airport (BIA) where the island nation has now seen an over saturation in foreign tourists, Tourism Minister Harin Fernando said.
-
-The island nation is expecting 2.2 million tourists for 2024, but the main airport needs capacity improvement to handle the
-
-“An Indian firm is going to manage three airports. If it happens, the airports could reach a good level,” Harin Fernando told Economy Next on Wednesday (31).
-
-The three airports are Colombo (Bandaranaike International Airport), Rathmalana, and Mattala, he said.
-
-Media reports last month suggested that Russia has expressed its keenness to get into a joint venture with India involving private entities to run the Mattala Rajapaksa International Airport (MRIA) in southern Sri Lanka.
-
-...
-
-[Data](articles/9156550a.json)
-
-[Extended Data](ext_articles/9156550a.ext.json)
-
----
-
-### Hatton student died his life
-
-*2024-01-31 16:52:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டன்-மாணவன்-தன்-உயிரை-மாய்த்தான்/76-332433) · `ta`
-
-A 15 -year -old schoolgirl who lived in the Marlborough area of the Lentandi estate, which belongs to the Hatton Police Division, died at his home.
-
-Police said that a school student named R. Gopi Harshan, who is studying in the 10th school in a school in Hatton, which runs under the Hatton Zonal Education Office, has lost his life.
-
-Meanwhile, Hatton police said that the body of the deceased student has been sent to the lawyer of the Dikoya Primary Hospital for autopsy.
-
-◼️
-
-[Data](articles/ad3ecd33.json)
-
-[Extended Data](ext_articles/ad3ecd33.ext.json)
 
 ---

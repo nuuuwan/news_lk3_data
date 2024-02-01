@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 16:02:49**
+As of **2024-02-01 16:17:06**
 
 ## Newspaper Stats
 
-*Scraped **4,107** Articles*
+*Scraped **4,118** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,86 @@ islandlk | 220
 economynextcom | 228
 dailyftlk | 258
 newsfirstlk | 259
-adalk | 366
-virakesarilk | 455
+adalk | 368
+virakesarilk | 461
 adaderanasinhalalk | 480
-adaderanalk | 514
-tamilmirrorlk | 526
+adaderanalk | 515
+tamilmirrorlk | 528
 dailymirrorlk | 559
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,107 (100.0%) of 4,107 articles have been extended.
+4,107 (99.7%) of 4,118 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### சுற்றறிக்கைக்கு முரணாக மாணவிகளை பாடசாலைக்கு அனுமதித்த முன்னாள் அதிபருக்கு எதிராக குற்றச்சாட்டு
+
+*2024-02-01 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175292) · `ta`
+
+கட்டுகஸ்தோட்டையிலுள்ள மகளிர்  உயர்தரப் பாடசாலைக்கு போலியான ஆவணங்களை பயன்படுத்தி சுற்றறிக்கைக்கு முரணான வகையில் மாணவிகளை அனுமதித்ததாகக் கூறப்படும் பாடசாலையின் முன்னாள் அதிபருக்கு எதிரான குற்றச்சாட்டுக்களை விசாரிப்பதற்கு ஒருநபர் நீதிமன்றம் நியமிக்கப்பட்டுள்ளது.
+
+இதற்காக ஓய்வுபெற்ற சிரேஷ்ட நிர்வாக அதிகாரியொருவர் நியமிக்கப்பட்டுள்ளதாக மத்திய மாகாண கல்விச் செயலாளர் மேனகா ஹேரத் தெரிவித்தார்.
+
+மத்திய மாகாண கல்விச் செயலாளரினால் நியமிக்கப்பட்ட ஐவர் குழு சம்பவம் தொடர்பில் ஆரம்பகட்ட விசாரணைகளை மேற்கொண்டு அறிக்கையின் அடிப்படையில் முன்னாள் அதிபருக்கு குற்றப்பத்திரிகை அனுப்பி வைக்கப்பட்டுள்ளது.
+
+குற்றச்சாட்டுகளை அவர் மறுத்ததால், இது குறித்து முறையான விசாரணை நடத்தவும் ஒரு நபர் நீதிமன்றம்  நியமிக்கப்பட்டது.
+
+கட்டுகஸ்தோட்டையில் உள்ள குறித்த பாடசாலையில் போலி ஆவணங்களை பயன்படுத்தி மாணவிகளை அனுமதித்தமை தொடர்பில் தற்போது நீதிமன்றில் வழக்கு விசாரணை உள்ளது.
+
+...
+
+[Data](articles/ed7b75cc.json)
+
+---
+
+### மஹிந்த,திலங்க இராஜினாமா
+
+*2024-02-01 15:42:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-திலங்க-இராஜினாமா/175-332486) · `ta`
+
+ஐக்கிய மக்கள் சுதந்திரக் கூட்டமைப்பின் பொதுச் செயலாளர் பதவியிலிருந்து மஹிந்த அமரவீர மற்றும் திலங்க சுமதிபால ஆகியோர் இராஜினாமா கடிதத்தை கையளித்துள்ளனர்.
+
+◼️
+
+[Data](articles/3cd9af94.json)
+
+---
+
+### இந்திய உயர்ஸ்தானிகர் சந்திரிகாவை சந்தித்து பேச்சு !
+
+*2024-02-01 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/175309) · `ta`
+
+முன்னாள் ஜனாதிபதி சந்திரிகா பண்டாரநாயக்க குமாரதுங்கவை சந்தித்து கலந்துரையாடியுள்ளார் இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா.
+
+இந்தியா மற்றும் இலங்கைக்கிடையிலான இரு தரப்பு உறவுகளில் அண்மையில் ஏற்பட்ட முன்னேற்றங்கள் குறித்து இதன்போது கலந்துரையாடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f5539492.json)
+
+---
+
+### Sri Lanka to host ICC’s annual general meeting in July
+
+*2024-02-01 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96919/sri-lanka-to-host-iccs-annual-general-meeting-in-july) · `en`
+
+The Annual General Meeting of the International Cricket Council (ICC) will be hosted by Sri Lanka in July 2024, Minister of Sports Harin Fernando said.
+
+Accordingly, the ICC’s Annual General Meeting of the year 2024 will take place from 19 to 22 July 2024 in Colombo, the minister said.
+
+Taking to X (formerly Twitter) to announce this, Minister Fernando expressed that this will be a great boost for Sri Lanka with regards to both cricket and tourism.
+
+On 10 November, the ICC suspended the membership of Sri Lanka Cricket (SLC), with immediate effect, on the grounds that the governing body is in serious breach of its obligations as a Member, in particular, the requirement to manage its affairs autonomously and ensure that there is no government interference in the governance, regulation and/or administration of cricket in Sri Lanka.
+
+...
+
+[Data](articles/241d3feb.json)
+
+---
 
 ### Is China start a war?
 
@@ -58,6 +122,40 @@ It is reported that the United States has been in a collaboration with Australia
 
 ---
 
+### வைத்தியர்கள் தவிர்ந்த ஏனையவர்கள் பணிப்புறக்கணிப்பு - நோயாளர்கள் அவதி
+
+*2024-02-01 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175311) · `ta`
+
+நாடளாவிய ரீதியில் 72 சுகாதாரத் துறை தொழிற்சங்கங்கள் இன்று வியாழக்கிழமை (01) காலை 6.30 மணி முதல் பணிப்புறக்கணிப்பு போராட்டத்தை ஆரம்பித்துள்ளன.
+
+இப் பணிப்புறக்கணிப்பு போராட்டம் காரணமாக கிளினிக் , வெளிநோயாளர் பிரிவு , மருந்தக பிரிவு ஆகியவற்றிக்கு வருகை மேற்கொண்ட நோயாளிகள் பல்வேறு அசோகரியங்களுக்கு முகங்கொடுத்திருந்தனர்.
+
+வவுனியா மாவட்ட பொது வைத்தியசாலை தாதியர்கள்,  சிற்றூளியர்கள், பாமசியாளர்கள், தொழிநுட்பவியலாளர்கள் பல்வேறு கோரிக்கைளை முன்வைத்து இன்று பணிப்புறக்கணிப்பில் ஈடுபட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/95085c64.json)
+
+---
+
+### மக்களின் மௌனத்தை அரசாங்கம் கீழ்ப்படிதலாக கருதக்கூடாது - மார்ச் 12 இயக்கம்
+
+*2024-02-01 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175321) · `ta`
+
+அதிகரித்துவரும் வாழ்க்கை செலவு சமாளிக்க முடியாத பட்டினி போன்றவற்றின் மத்தியில் மக்கள் மௌனமாக துயரத்தை அனுபவிப்பதை  ஆட்சியாளர்கள் மௌனம் கீழ்படிதல் என கருதக்கூடாது என மார்ச் 12 இயக்கம் தெரிவித்துள்ளது
+
+நிகழ்நிலை பாதுகாப்பு சட்டமூலம் குறித்த தனது நிலைப்பாட்டை முன்வைத்து வெளியிட்டுள்ள அறிக்கையில் மார்ச் 12 இயக்கம் இதனை தெரிவித்துள்ளது.
+
+நிகழ்நிலை பாதுகாப்பு சட்டம் மூலம் அடிப்படை உரிமைகளிற்கு மிகவும் ஆபத்தானது என்பதையும் இலங்கையின் அரசமைப்பில் உறுதிப்படுத்தப்பட்டுள்ள  ஜனநாயக கொள்கைளிற்கு ஆபத்தானது என்பதையும் நாங்கள் மீண்டும் வலியுறுத்த விரும்புகின்றோம்.
+
+மேலும் தற்போதைய அரசாங்கம் இந்த சட்டமூலத்தை தொடர்ந்தும் முன்னெடுப்பதில் காண்பிக்கும் பிடிவாதம் மிகமுக்கியமான பொருளாதாரசீர்திருத்த மற்றும் எதிர்வரும் தேர்தல் காலங்களில் கருத்துவேறுபாடுகளை கொண்டவர்களை மௌனமாக்கும் சிவில் செயற்பாடுகளை ஒடுக்கும் அரசாங்கத்தின் நோக்கத்தை தெளிவாக வெளிப்படுத்தி நிற்கின்றது என்பதை கவலையுடன் தெரிவித்துக்கொள்கி;ன்றோம்;.
+
+...
+
+[Data](articles/c67b953d.json)
+
+---
+
 ### Teachers out of the A / L answer sheets?
 
 *2024-02-01 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192839) · `si`
@@ -73,6 +171,26 @@ The UPFA, Ven. Yalwela Pannanansara Thero said that the UPFA has said that the t
 [Data](articles/9c6870f2.json)
 
 [Extended Data](ext_articles/9c6870f2.ext.json)
+
+---
+
+### எமது போராட்டங்களை அடக்கவே நிகழ்நிலை காப்புச் சட்டம் : வடக்கு, கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்ட உறவுகள்
+
+*2024-02-01 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175318) · `ta`
+
+எமது போராட்டங்கள், எமது மக்களின் பிரச்சினைகளை வெளியுலகிற்கு கொண்டு செல்லும் ஊடகங்களை அடக்கவே நிகழ்நிலை காப்பு சட்டம் கொண்டுவரப்பட்டுள்ளதாக வடக்கு, கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்ட உறவுகளின் சங்கச் செயலாளர் லீலாவதி ஆனந்தநடராசா தெரிவித்தார்.
+
+வடக்கு கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்ட உறவுகளின் சங்கச் செயலாளர் லீலாவதி ஆனந்தநடராசாவின் ஊடக சந்திப்பு யாழ். கொடிகாமத்தில் வியாழக்கிழமை (01) இடம்பெற்றது. இதன்போது கருத்து வெளியிடுகையிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+நிகழ்நிலை காப்புச் சட்டம் மற்றும் பயங்கரவாதச் சட்டம் ஆகிய இரண்டும் இன்று பேசு பொருளாகும். சுயமாக போராடும் இனத்தின் மீது கொண்டுவரப்பட்ட சட்டம் பயங்கரவாத தடைச் சட்டம்.
+
+எமது போராட்டங்கள், எமது மக்களின் பிரச்சினைகளை வெளியுலகிற்கு கொண்டு செல்லும் ஊடகங்களை அடக்கவே நிகழ்நிலை காப்பு சட்டம் கொண்டுவரப்படுகிறது.
+
+எதிர்க்கட்சித் தலைவர் அதற்கு எதிராக பாரிய போராட்டத்தை முன்னெடுத்தார். அதன் போது கூட அடக்குமுறை பாவிக்கப்பட்டுள்ளது. அவர்களுக்கே அப்படி என்றால் எங்கள் நிலை என்னவாக இருக்கும்.
+
+...
+
+[Data](articles/64cda82b.json)
 
 ---
 
@@ -132,11 +250,15 @@ The Court has ordered to appear before the CID tomorrow.
 
 *2024-02-01 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96918/foreign-travel-ban-imposed-on-minister-keheliya-ordered-to-appear-before-cid) · `en`
 
-Maligakanda Magistrate has ordered former Health Minister Keheliya Rambukwella to appear before the Criminal Investigation Department (CID) tomorrow (Feb.02).
+Maligakanda Magistrate has ordered former Health Minister Keheliya Rambukwella to appear before the Criminal Investigation Department on Friday (Feb.02) following his failure to record a statement with the CID on Wednesday (Jan.31).
 
-Further, Rambukwella’s overseas travels have been temporarily barred on the orders of the magistrate.
+Further, Rambukwella’s overseas travels were also temporarily barred on the orders of the magistrate.
 
-◼️
+The former health minister was supposed to make an appearance before the CID on Wednesday, but he failed to do so on account of attending the proceedings of a case heard before the Colombo High Court as well as a ministerial sub-committee meeting convened at the Presidential Secretariat.
+
+It is understood that Rambukwella has sought the CID, in writing, to fix another date for him to provide his statement.
+
+...
 
 [Data](articles/69713575.json)
 
@@ -259,6 +381,20 @@ It is also reported that they have demanded that the tariff revision be implemen
 [Data](articles/f8d47a2d.json)
 
 [Extended Data](ext_articles/f8d47a2d.ext.json)
+
+---
+
+### விடைத்தாள் மதிப்பிடும் பணிகள் ஆரம்பம்
+
+*2024-02-01 14:39:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடைத்தாள்-மதிப்பிடும்-பணிகள்-ஆரம்பம்/175-332480) · `ta`
+
+கல்விப் பொதுத் தராதரப் பத்திர உயர்தர பரீட்சைக்கான விடைத்தாள் மதிப்பிடும் பணிகள் ஆரம்பிக்கப்பட்டுள்ளதாக பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+
+விடைத்தாள் மதிப்பிடும் பணிகளில் ஈடுபடும் ஆசிரியர்கள் மற்றும் பிற ஊழியர்களுக்கு கடந்த ஆண்டு செலுத்தப்பட்ட அதே கட்டணமே இம்முறையும் வழங்கப்படும் என்றும் பரீட்சைகள் திணைக்களம் கூறியுள்ளது.
+
+◼️
+
+[Data](articles/bbc682d9.json)
 
 ---
 
@@ -477,6 +613,18 @@ Kotagala Tea plantation company, Hatton Tea Plantation Company and Bogawantalawa
 [Data](articles/e287ddba.json)
 
 [Extended Data](ext_articles/e287ddba.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-02-01 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/175314) · `ta`
+
+இன்று வியாழக்கிழமை (பெப்ரவரி 01) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 310.5415 ஆகவும் விற்பனை விலை ரூபா 320.4082 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3f46accf.json)
 
 ---
 
@@ -756,6 +904,24 @@ Accordingly, the OIC of the Criminal Investigation Department has asked the OIC 
 
 ---
 
+### රට විරුවන් ඩොලර් බිලියන 8.9ක් ලංකාවට එව්වා
+
+*2024-02-01 12:24:05* · [`adalk`](https://www.ada.lk/breaking_news/රට-විරුවන්-ඩොලර්-බිලියන-8-9ක්-ලංකාවට-එව්වා/11-407842) · `si`
+
+විදෙස් ගත වන ශ්‍රමිකයන්ට විශාල වශයෙන් ප්‍රශ්න ඇති බවට මතයක් පැවතියද ශ්‍රමිකයන්ගෙන් යම් ගැටළුවක් ඇතිවන්නේ වන්නේ 1000කට  දශම 1ක් පමණක් බව කම්කරු හා විදේශ රැකියා අමාත්‍ය   මනුෂ නානායක්කාර මහතා පැවසීය.
+
+විදේශ සේවා නියුක්ති කාර්යාංශය සංවිධානය කරන අනුරාධපුරයේදී පැවැත්වෙන "ගරුසරු" 31 සහ 01 දෙදින පැවති වැඩ සටහනට සමගාමීව අනුරාධපුර වයිට් හවුස්`  හෝටලයේදී ඊයේ (31) මාධ්‍ය සංසද පිහිටුවීමට එක්වෙමින් අමාත්‍යවරයා මේ කරුණු අනාවරණය කළේය.
+
+මෙහිදී තවදුරටත් අදහස් දැක්වූ අමාත්‍යවරයා සඳහන් කර සිටියේ, රටට විදෙස් මුදල් එවීමට එපා යැයි කියද්දී පවා ඔවුන්ගේ යුතුකම ඉටු කරමින් ඩොලර් බිලියන අටයි දශම නවයක් (8.9) විදෙස් ශ්‍රමිකයන් තම මවුරටට සැපයූ බවයි.
+
+ඒ හේතුවෙන් මේ වන විට ඩොලර්  බිලියන හතරයි දශම පහක(4.5) සංචිතයක්තයක් රට තුළ පවත්වා ගැනීමට පවා හැකි වී ඇතැයි ද හෙතෙම  සඳහන් කළේය.
+
+...
+
+[Data](articles/b020c97b.json)
+
+---
+
 ### Action to pay to pay in installment mode
 
 *2024-02-01 12:21:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவணை-முறையில்-பணம்-செலுத்த-நடவடிக்கை/175-332474) · `ta`
@@ -785,6 +951,24 @@ All liquor stores will be closed on Sunday (04) to mark the 76th Independence Da
 [Data](articles/b4125bba.json)
 
 [Extended Data](ext_articles/b4125bba.ext.json)
+
+---
+
+### දකුණු ආසියාවේ විශිෂ්ඨතම මාතෘ ‌රෝහල මාර්තුවේදී විවෘත කරයි
+
+*2024-02-01 12:17:06* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-ආසියාවේ-විශිෂ්ඨතම-මාතෘ-‌රෝහල-මාර්තුවේදී-විවෘත-කරයි/11-407841) · `si`
+
+දකුණු ආසියාවේ තිබෙන විශිෂ්ඨතම මාතෘ රෝහල වන  කරාපිටිය නව මාතෘ රෝහල මාර්තු මස දිනෙක සෞඛ්‍ය සේවාවට එක්වන බව සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා පැවැසීය.
+
+බහු ‍කාර්ය සංවර්ධන සහායක පුහුණුලාභීන් වශයෙන් බහුකාර්ය සංවර්ධන කාර්යසාධක බලකා දෙපාර්තමේන්තුවට අනුයුක්තව සේවය කළ 93 කට සෞඛ්‍ය අමාත්‍යාංශයේ සෞඛ්‍ය කාර්ය සහායක (කණිෂ්ඨ III) ශ්‍රේණියේ තනතුරට බදවා ගැනීමේ පත්වීම් ලිපි ප්‍රදානය ඊයේ දින (31) පස්වරුවේදී ‌සෞඛ්‍ය අමාත්‍යාංශයේදී එක්වෙමින් ඔහු මේ බව පැවැසීය.
+
+2024.01.05 සහ 06 යන දෙදින පවත්වන යෝග්‍යතා ඇගයීමේ සම්මුඛ පරික්ෂණයෙන් සමත් 93 දෙනෙකු 2024.02.01 දින සිට ක්‍රියාත්මක වන පරිදි මෙලෙස සෞඛ්‍ය කාර්ය සහායක තනතුරට පත්කෙරිනි.
+
+මෙහිදී අදහස් දක්වමින් සෞඛ්‍ය අමාත්‍යවරයා කියා සිටියේ මහමෝදර මාතෘ රෝහල දකුණු ආසියාවේ තිබෙන විශිෂ්ඨතම මාතෘ රෝහල බවට පත් කරමින්  මාර්තු මස දිනෙක කරාපිටියට ගෙන යන‍ බවත්,  දැනට එහි වැඩකටයුතු සියයට 99 ක් ම අවසන්ව තීබෙන බවත් ය.
+
+...
+
+[Data](articles/86dd4470.json)
 
 ---
 
@@ -1793,253 +1977,5 @@ But the paddy farmers for the country are purchased for 80 rupees. In the majori
 [Data](articles/473e6d89.json)
 
 [Extended Data](ext_articles/473e6d89.ext.json)
-
----
-
-### 72 health trade unions on strike
-
-*2024-02-01 09:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/72-health-trade-unions-on-strike/) · `en`
-
-COLOMBO (News 1st); 72 health trade unions have launched a strike from 6.30 on Thursday (01) morning.
-
-Co-convener of the Health Trade Union Alliance Ravi Kumudesh said the health unions joined the strike demanding that the Rs.35,000 allowance granted to doctors be given to them as well.
-
-The government did not respond to their demands despite a strike being launched on a previous occasion as well.
-
-The All Ceylon Nurses' Union has reached a decision to refrain from supporting today's strike action.
-
-This was confirmed by its Chairman Ravindra Kahandawarachchi on Wednesday (31) afternoon, while speaking to media after visiting the Malwathu Maha Viharaya.
-
-Rambukwella ordered to report to CID on Friday; Slapped with Overseas Travel Ban
-
-Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
-
-◼️
-
-[Data](articles/4c890363.json)
-
-[Extended Data](ext_articles/4c890363.ext.json)
-
----
-
-### Fuel prices revised
-
-*2024-02-01 09:39:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/fuel-prices-revised/) · `en`
-
-COLOMBO (News 1st); The Ceylon Petroleum Corporation (CEYPETCO) announced revisions to fuel product prices, effective February 1st, 2024. The adjustments reflect a mixed bag of increases and decreases across various categories.
-
-Lanka Petrol 92 Octane: Increase of Rs. 5 per liter to Rs. 371 (previously Rs. 366)
-
-Lanka Petrol 95 Octane Euro 4: Decrease of Rs. 8 per liter to Rs. 456 (previously Rs. 464)
-
-Lanka Auto Diesel: Increase of Rs. 5 per liter to Rs. 363 (previously Rs. 358)
-
-Lanka Super Diesel 4 Star Euro 4: Decrease of Rs. 7 per liter to Rs. 468 (previously Rs. 475)
-
-Lanka Kerosene: Increase of Rs. 26 per liter to Rs. 262 (previously Rs. 236)
-
-Lanka IOC also revised fuel prices in line with the CPC price revision.
-
-Accordingly, the price of a liter of 92 Octane petrol was increased by Rs.5 and the new price is Rs.368.
-
-The price of a liter of 95 Octane petrol was reduced by Rs.8.
-
-Sinopec increased the price of a liter of Auto Diesel by Rs.5 and the new price is Rs.360.
-
-...
-
-[Data](articles/84a12746.json)
-
-[Extended Data](ext_articles/84a12746.ext.json)
-
----
-
-### ‘Yukthiya’ operation leads to arrest of 878 more suspects
-
-*2024-02-01 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/96905/yukthiya-operation-leads-to-arrest-of-878-more-suspects) · `en`
-
-Another 878 suspects have been arrested by Sri Lanka’s police and security forces personnel within 24 hours which ended at 12.30 a.m. today (Feb.01). The arrests were made as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-Among the arrestees are 649 suspects who were taken into custody on narcotics-related charges and 229 others who were on the list of wanted criminal suspects.
-
-Detention orders have been secured against 6 of the drug suspects, while another 4 were referred to rehabilitation centres, the Ministry of Public Security said.
-
-According to the ministry, the narcotics taken into custody during this period include 130g of heroin, 134g of crystal methamphetamine (Ice), 1.2kg of cannabis and 2,211 narcotic pills.
-
-◼️
-
-[Data](articles/0c431ca8.json)
-
-[Extended Data](ext_articles/0c431ca8.ext.json)
-
----
-
-### Sri Lanka rupee appreciates to 313.60/314.00 to US dollar after opening
-
-*2024-02-01 09:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-appreciates-to-313-60-314-00-to-us-dollar-after-opening-149442/) · `en`
-
-ECONOMYNEXT – Sri Lankas rupee opened at 314.75/315.00 the US dollar, in the spot forex market Thursday, dealers said, with the central bank allowing the currency to appreciate amid a balance of payments surplus it has created, with appropriate monetary policy.
-
-Sri Lanka’s rupee closed stronger at 315.50/70 to the US dollar.
-
-Within the first hour of trading the rupee was quoted as strong as 313.30/314.00 to the US dollar, dealers said.
-
-In a balance of payments surplus triggered by the sell-down of central bank held Treasury bills, the currency is under upward pressure and the central bank can decide at what rate to buy to stop appreciating.
-
-Even if only a part of the liquidity from dollar purchases are mopped up, through domestic operations an overall balance of payments develops.
-
-Sri Lanka’s central bank does not usually allow the exchange rate to appreciate in the credit slowdown that usually accompanies a currency crisis, though it did after the 2009 crisis.
-
-...
-
-[Data](articles/57713110.json)
-
-[Extended Data](ext_articles/57713110.ext.json)
-
----
-
-### Youth killed in a hotel room
-
-*2024-02-01 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192823) · `si`
-
-One person has died in a hotel in a hotel in the Villawala area in Galle Road, police said.
-
-After the lack of response from the man yesterday, the hotel management has begun investigations into the Hikkaduwa Police.
-
-Later, police and hotel workers were opened and inspected the man's window in the area and checked the man while he was found dead in the bathroom with bathroom.
-
-The deceased has been a 27 year old resident of the Kelaniya area.
-
-The body has been placed at the site under police protection and Hikkaduwa Police are conducting further investigations.
-
-◼️
-
-[Data](articles/fa6ff17e.json)
-
-[Extended Data](ext_articles/fa6ff17e.ext.json)
-
----
-
-### Private creditors warn Sri Lanka
-
-*2024-02-01 09:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Private-creditors-warn-Sri-Lanka/108-276104) · `en`
-
-Private creditors have threatened to do all it can to persuade the International Monetary Fund (IMF) to hold back the next tranche of funding for Sri Lanka under the Extended Fund Facility (EFF) if the Government fails to show good faith and hold constructive talks with the private creditors, Daily Mirror learns.
-
-Sources close to a group of private creditors told Daily Mirror that while the Government has been having extensive talks with bilateral creditors, including China, similar discussions have not been held with the private creditors.
-
-“The size of private creditors is very significant and Sri Lanka cannot rely only on IMF or China money,” sources said.
-
-Senior Mission Chief of the International Monetary Fund (IMF) Peter Breuer had said recently that the IMF anticipates that Sri Lanka will secure an agreement with its commercial creditors, including bondholders and the China Development Bank, ahead of the next review.
-
-...
-
-[Data](articles/0b81f05b.json)
-
-[Extended Data](ext_articles/0b81f05b.ext.json)
-
----
-
-### IMF next tranche to Sri Lanka at risk
-
-*2024-02-01 09:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-next-tranche-to-Sri-Lanka-at-risk/108-276104) · `en`
-
-The International Monetary Fund (IMF) could hold back the next tranche of funding for Sri Lanka under the Extended Fund Facility (EFF) if the government fails to show good faith and hold constructive talks with private creditors, Daily Mirror learns.
-
-Sources told Daily Mirror that while the Government has been having extensive talks with bilateral creditors, including China, similar discissions have not been held with the private creditors.
-
-“The size of private creditors is very significant and Sri Lanka cannot rely only on IMF or China money,” sources said.
-
-Senior Mission Chief of the International Monetary Fund (IMF) Peter Breuer had said recently that the IMF anticipates that Sri Lanka will secure an agreement with its commercial creditors, including bondholders and the China Development Bank, ahead of the next review.
-
-...
-
-[Data](articles/970edb12.json)
-
-[Extended Data](ext_articles/970edb12.ext.json)
-
----
-
-### A group of suspects struggle to police
-
-*2024-02-01 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192822) · `si`
-
-Police have arrested 878 suspects in the last 24 hours in the country today (01).
-
-The Ministry of Defense said that 649 suspects were arrested in the list of drug misconduct and the list of criminal sections.
-
-The security forces were taken into custody where 130 grams of heroin, 134 grams and 134 grams.
-
-The Ministry of Defense stated that four suspects have been retained for rehabilitation and four drug addicts have been sent to rehabilitation.
-
-Among the 229 suspects were arrested in the list of the 229 suspects and non-drug errors in the list of drug faults.
-
-Three suspects and eight suspects have been arrested in the operation and eight suspects who were not arrested.
-
-◼️
-
-[Data](articles/143db004.json)
-
-[Extended Data](ext_articles/143db004.ext.json)
-
----
-
-### 2023 A/L exam’s rescheduled Agri. Science test held today
-
-*2024-02-01 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96904/2023-al-exams-rescheduled-agri-science-test-held-today) · `en`
-
-Students are facing the 2023 G.C.E. Advanced Level examination’s Agricultural Science question papers I and II once again today (Feb.01) after the earlier test papers were cancelled and rescheduled.
-
-The test held in January was annulled after it was revealed that several questions of both Paper I and II had been leaked.
-
-On 12 January, Paper II of the Agricultural Science subject was cancelled, followed by the annulment of Paper I on January 17.
-
-This prompted the Department of Examination to announce a fresh date for the Agricultural Science test.
-
-Accordingly, the test was rescheduled for today, with Paper II being held from 8.30 a.m. to 11.40 a.m., and Paper I from 1 p.m. - 3 p.m.
-
-The admission cards for school applicants for this exam were sent to the respective school principals, while admission cards for private applicants were mailed to them via post.
-
-◼️
-
-[Data](articles/395497cc.json)
-
-[Extended Data](ext_articles/395497cc.ext.json)
-
----
-
-### Divisional Secretary transferred due to taking stand against corruption
-
-*2024-02-01 08:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Divisional-Secretary-transferred-due-to-taking-stand-against-corruption/108-276107) · `en`
-
-Kandy, Feb 1 (Daily Mirror) - The Divisional Secretary Udapalatha in Gampola who had taken steps to prevent State Minister of Justice and Prison Affairs engaging in corrupt activities in the Kandy District has been transferred with immediate effect by the District Secretary Kandy.
-
-Divisional Secretary (DS) Ms. A.D. Jayaratne by letter dated December 22, 2023, addressed to the District Secretary Kandy and copying the same to the President’s Secretary and Secretary Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government has requested to initiate an urgent investigation against the corrupt activities carried out by the Kandy District MP, Anuradha Jayaratne.
-
-...
-
-[Data](articles/149a203e.json)
-
-[Extended Data](ext_articles/149a203e.ext.json)
-
----
-
-### Health sector trade unions launch another strike
-
-*2024-02-01 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96903/health-sector-trade-unions-launch-another-strike-) · `en`
-
-A total of 72 trade unions in the health sector have launched an island-wide one-day strike starting 6.30 a.m. today (Feb.01) urging the government to address their issues without delay, the National Movement of the Health Professionals said.
-
-It is understood that the doctors’ unions and the All Ceylon Nurses’ Union have decided not to join the strike action today. The nurses’ union said that this decision was taken since the planned strike action is a conspiracy by the government.
-
-They also mentioned that nevertheless, the authorities were informed regarding their demands and that the relevant authorities requested a period of one month to act on the relevant demands. The union further stated that they will resort to a trade union action if no response is received for their suggestions and demands.
-
-On January 08, the Cabinet of Ministers approved President Ranil Wickremesinghe’s proposal to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000.
-
-...
-
-[Data](articles/f123743f.json)
-
-[Extended Data](ext_articles/f123743f.ext.json)
 
 ---

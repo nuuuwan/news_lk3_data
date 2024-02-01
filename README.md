@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 15:02:34**
+As of **2024-02-01 15:17:24**
 
 ## Newspaper Stats
 
-*Scraped **4,079** Articles*
+*Scraped **4,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,90 @@ islandlk | 220
 economynextcom | 228
 newsfirstlk | 258
 dailyftlk | 258
-adalk | 358
+adalk | 366
 virakesarilk | 455
-adaderanasinhalalk | 473
+adaderanasinhalalk | 477
 adaderanalk | 512
 tamilmirrorlk | 519
-dailymirrorlk | 556
+dailymirrorlk | 557
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,079 (100.0%) of 4,079 articles have been extended.
+4,079 (99.7%) of 4,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### පාර්ලිමේන්තුවෙන් දැනුම්දීමක්
+
+*2024-02-01 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192837) · `si`
+
+මෙරට 09 වන පාර්ලිමේන්තුවේ 5 වන සැසිවාරය එළඹෙන 07 වනදා ඇරඹෙන බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+එහිදී උදෑසන 10.30 ජනපතිගේ ප්‍රධානත්වයෙන් එම සැසිවාරය උත්සවාකාරයෙන් පැවැත්වෙනු ඇත.
+
+එදින ජනපති විසින් ඉදිරිපත් කරනු ලබන රජයේ ප්‍රතිපත්ති ප්‍රකාශය සම්බන්ධයෙන් සභාව කල්තැබීමේ අවස්ථාවේ විවාදය පැවැත්වෙන දින සම්බන්ධයෙන් ද එම නිවේදනයේ සඳහන් වෙයි.
+
+එහි දැක්වෙන්නේ එම විවාදය පෙබරවාරි 08 වනදා සහ 09 වනදා උදෑසන 9.30සිට පස්වරු 5.30 දක්වා පැවැත්වීමට කථානායකවරයාගේ ප්‍රධානත්වයෙන් අද පැවති විශේෂ පක්ෂ නායක රැස්වීමකදී තීරණය කළ බවයි.
+
+◼️
+
+[Data](articles/3e8a9553.json)
+
+---
+
+### හරක් කටා ගේ පෙත්සම විභාගයට ගැනීමට අවසර
+
+*2024-02-01 14:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192836) · `si`
+
+නදුන් චින්තක වික්‍රමරත්න හෙවත් හරක් කටා නැමැත්තාට එරෙහිව ත්‍රස්තවාදය වැළැක්වීමේ පනත යටතේ කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවේ ගොනුකර තිබෙන නඩුව බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සමක් විභාගයට ගැනීමට අභියාචනාධිකරණය අද (01) අවසර ලබාදුන්නේය.
+
+මේ වනවිට ඔහුව අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුව භාරයේ රඳවා ගෙන සිටියි.
+
+මෙම පෙත්සම සම්බන්ධයෙන් ලබන 16 වනදා අධිකරණය හමුවේ කරුණු දක්වන ලෙස දන්වා එහි වගඋත්තරකරුවන් වශයෙන් නම් කර සිටි මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස්, වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන්, අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂවරයා ඇතුළු පිරිසකට අධිකරණය විසින් නොතිසි ද නිකුත් කළේය.
+
+හරක් කටා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාපා ඉදිරිපත් කළ කරුණු සලකාබැලීමෙන් අනතුරුව අභියාචනාධිකරණ විනිසුරු ඩී. එන්. සමරකෝන් විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+
+...
+
+[Data](articles/8d7eaf3e.json)
+
+---
+
+### බස් සංගම් හදිසියේම අමාත්‍යංශයට යයි
+
+*2024-02-01 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192835) · `si`
+
+ඉන්ධන මිල සංශෝධනය කිරීම හේතුවෙන් මතුවී ඇති ගැටලු සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා බස් සංගම් නියෝජිතයින් පිරිසක් ප්‍රවාහන අමාත්‍යංශය ගොස් තිබේ.
+
+එහිදී එම නියෝජිතයින් සහ ප්‍රවාහන අමාත්‍යංශයේ ලේකම් රංජිත් රූපසිංහ මහතා අතර සාකච්ඡාවක් සෙත්සිරිපාය ප්‍රවාහන අමාත්‍යාංශයේදී පැවැත්වුණි.
+
+එහිදී බස් සංගම් නියෝජිතයින් ප්‍රකාශකර ඇත්තේ අවම බස් ගාස්තුවේ සිට අනෙකුත් ගාස්තු ද වැඩිවිය යුතු බවයි.
+
+එසේම එම ගාස්තු සංශෝධනය පෙබරවාරි 15 වනදා ට පෙර ක්‍රියාත්මක කළ යුතු බවත් ඔවුන් දැනුම්දුන් බව අප වාර්තාකරු පැවසීය.
+
+◼️
+
+[Data](articles/50aade1f.json)
+
+---
+
+### Sri Lanka to host ICC annual general meeting in Colombo
+
+*2024-02-01 14:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-host-ICC-annual-general-meeting-in-Colombo/108-276137) · `en`
+
+Colombo, Feb 01 (Daily Mirror) - Sri Lanka is set to host the annual general meeting of the International Cricket Council (ICC) from July 19 to 22 this year in Colombo, Sports Minister Harin Fernando said.
+
+He said that hosting the ICC AGM will significantly boost Sri Lanka's cricketing and tourism sectors.
+
+◼️
+
+[Data](articles/1f029885.json)
+
+---
 
 ### Civil society activists arrested during ‘Satyagraha’ opposite CID granted bail
 
@@ -52,6 +120,38 @@ Rambukwella was due to appear before the CID yesterday, however had failed to do
 
 ---
 
+### CIDය ඉදිරිපිට විරෝධතා පැවැත්වූ පිරිසට අධිකරණය දුන් නියෝගය
+
+*2024-02-01 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192834) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඉදිරිපිට විරෝධතාවයක් සිදුකරමින් සිටියදී අත්අඩංගුවට ගත් සිවිල් ක්‍රියාකාරීන් 10 දෙනාට ඇප ලබා දී තිබේ.
+
+ඒ අද ඔවුන් කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුවය.
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා අත්අඩංගුවට ගන්නැයි බලකරමින් ඔවුන් මෙලෙස CIDය ඉදිරිපිට විරෝධතාවයක නිරතව සිටියදී පොලීසිය විසින් අත්අඩංගුවට ගනු ලැබීය.
+
+◼️
+
+[Data](articles/fcc6bb50.json)
+
+---
+
+### දෙමටගොඩ රුවන්ගේ බිරිඳ, පුතා හා සහෝදරිය අත්අංඩංගුවට
+
+*2024-02-01 14:18:07* · [`adalk`](https://www.ada.lk/breaking_news/දෙමටගොඩ-රුවන්ගේ-බිරිඳ--පුතා-හා-සහෝදරිය-අත්අංඩංගුවට/11-407852) · `si`
+
+බන්ධනාගාර ගතව සිටින සංවිධානාත්මක අපරාධකරුවෙකු වන චමිල රුවන් ප්‍රසන්න නොහොත් දෙමටගොඩ  රුවන් නමැත්තාගේ බිරිඳ පුතා සහ සහෝදරියක් නීති විරෝධී වත්කම් විමර්ශන කොට්ඨාසය මගින් අත්අඩංගුවට ගෙන ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය
+
+සැකකරු හා සැකකාරියක් අත්අඩංගුවට ගෙන ඇත්තේ දෙමට ගොඩ  වේළුවන  පාර නිවසේදීය'
+
+දෙමටගොඩ රුවන් නමැත්තා විසින් නීති විරෝධීව උපයා ගන්නා ලද  රුපියල් කෝටි දහයකට අධික දේපළ    දේපළ ඔවුන්ගේ නමින් මිලදී  ගැනීම යන චෝදනාව යටතේ  ය.
+
+◼️
+
+[Data](articles/09890a84.json)
+
+---
+
 ### ‘March 12 Movement’ slams Online Safety Bill, accuses govt of overlooking SC recommendations
 
 *2024-02-01 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96915/march-12-movement-slams-online-safety-bill-accuses-govt-of-overlooking-sc-recommendations-) · `en`
@@ -67,6 +167,68 @@ The March 12 Movement further accused the government of violating the “constit
 [Data](articles/528ee3f2.json)
 
 [Extended Data](ext_articles/528ee3f2.ext.json)
+
+---
+
+### දෙමටගොඩ රුවන්ගේ බිරිඳ, පුතා හා සහෝදරිය අත්අංඩංගුවට
+
+*2024-02-01 14:17:48* · [`adalk`](https://www.ada.lk/breaking_news/දෙමටගොඩ-රුවන්ගේ-බිරිඳ--පුතා-හා-සහෝදරිය-අත්අංඩංගුවට/11-407851) · `si`
+
+බන්ධනාගාර ගතව සිටින සංවිධානාත්මක අපරාධකරුවෙකු වන චමිල රුවන් ප්‍රසන්න නොහොත් දෙමටගොඩ  රුවන් නමැත්තාගේ බිරිඳ පුතා සහ සහෝදරියක් නීති විරෝධී වත්කම් විමර්ශන කොට්ඨාසය මගින් අත්අඩංගුවට ගෙන ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය
+
+සැකකරු හා සැකකාරියක් අත්අඩංගුවට ගෙන ඇත්තේ දෙමට ගොඩ  වේළුවන  පාර නිවසේදීය'
+
+දෙමටගොඩ රුවන් නමැත්තා විසින් නීති විරෝධීව උපයා ගන්නා ලද  රුපියල් කෝටි දහයකට අධික දේපළ    දේපළ ඔවුන්ගේ නමින් මිලදී  ගැනීම යන චෝදනාව යටතේ  ය.
+
+◼️
+
+[Data](articles/2e499898.json)
+
+---
+
+### Visa Accelerator - 2024 සඳහා අයදුම්පත් කැඳවයි
+
+*2024-02-01 14:16:50* · [`adalk`](https://www.ada.lk/business/Visa-Accelerator---2024-සඳහා-අයදුම්පත්-කැඳවයි/7-407849) · `si`
+
+ඩිජිටල් ගෙවීම්වල ගෝලීය ප්‍රමුඛයා වන Visa සමාගම, "Visa Accelerator" වැඩසටහනේ සිව්වැනි අදියර දියත් කිරීම සඳහා අයැදුම්පත් කැඳවන බව අද දින නිවේදනය කළේය. ශ්‍රී ලංකාවේ Fintech  ක්ෂේත්‍රයේ startups ආයතන සඳහා Visa සමාගමේ ගෙවීම් කටයුතු පිලිබඳ විශේෂඥයින් සමඟ කටයුතු කිරීමට අවස්ථාව ලබාදී එම ආයතනවල දැනුම වර්ධනය කිරීම මෙම වැඩසටහනේ අරමුණවේ. Visa Accelerator 2024 වැඩසටහන තුලින් කෘත්‍රිම බුද්ධිය (AI), ගෝලීය මුදල් චලනය සහ Loyalty of the Future, (අනාගත පක්ෂපාතිත්වය) , ක්ෂුද්‍ර, කුඩා හා මධ්‍ය පරිමාණ ව්‍යාපාර සඳහා digital භාවිතය සහ Embedded Finance වැනි නව ක්ෂේත්‍ර කෙරෙහි අවධානය යොමු කරනු ලැබේ.
+
+මෙම වැඩසටහන දියත් කිරීම පිළිබඳව අදහස් දක්වමින් Visa ශ්‍රී ලංකා සහ මාලදිවයින හි දේශීය කළමනාකරු අවන්ති කොළඹගේ මහත්මිය පැවසුවේ, රටෙහි ඉදිරියට එන ගෙවීම් නවෝත්පාදනයන්ට Visa Accelerator වැඩසටහන හරහා ඔවුන්ගේ විසඳුම් බලගැන්වීම සඳහා ආරාධනා කිරීමට හැකිවීම පිළිබඳව සතුටු වන බවයි.
+
+...
+
+[Data](articles/b751fcef.json)
+
+---
+
+### නිදහස් දා එමිරේට්ස් කොළඹ විවේකාගාරයේ උත්සව ප්‍රීතියක්
+
+*2024-02-01 14:16:00* · [`adalk`](https://www.ada.lk/business/නිදහස්-දා-එමිරේට්ස්-කොළඹ-විවේකාගාරයේ-උත්සව-ප්‍රීතියක්/7-407848) · `si`
+
+ලොව විශාලතම ජාත්‍යන්තර ගුවන් සේවය වන එමිරේට්ස්, පෙබරවාරි 04 වැනි දින ශ්‍රී ලංකාවේ 76වැනි නිදහස් දිනය සැමරීම උදෙසා සිය ගුවන් මගීන්ට සූපශාස්ත්‍ර උපහාරයක් ලබාදීමට කටයුතු යොදා තිබේ.
+
+බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළෙහි පිහිටි එමිරේට්ස් මගී විවේකාගාරය අලංකාර කර මෙම උත්සවය සමරනු ලබයි. මෙහිදී පළමු සහ ව්‍යාපාරික පන්තියේ මගීන්ට සම්ප්‍රදායික උත්සව රසකැවිලි සහ උණුසුම් දේශීය ආහාර වේලක් පිරිනැමීමට කටයුතු යොදා ඇත.
+
+උදෑසන ගුවන් ගමන් ආරම්භ කිරීමට පෙර මගී විවේකාගාරයට පැමිණෙන එමිරේට්ස් මගීන්ට ආස්මි සහ වැලි තලප වැනි දේශීය ශ්‍රී ලාංකීය ප්‍රණීත ආහාරවලින් තම උදෑසන ආහාරය මිහිරි කළ හැකිය. පසුව එදිනම එමිරේට්ස් මගී විවේකාගාරය විසින් දිවා ආහාරය සඳහා කහබත් සමග කජු ව්‍යංජන, මාළු ඇඹුල් තියල්, පොළොස්, බටු මෝජු, වැනි රසවත් ශ්‍රී ලාංකේය දිවා භෝජන සංග්‍රහයක් සමග පාරිභෝගිකයන් සතුටු කරනු ඇත.
+
+...
+
+[Data](articles/747e253e.json)
+
+---
+
+### සෙරන්ඩිබ් අධිශක්ති කෝලම් රටා තරගය උත්සවාකාරයෙන්
+
+*2024-02-01 14:15:02* · [`adalk`](https://www.ada.lk/business/සෙරන්ඩිබ්-අධිශක්ති-කෝලම්-රටා-තරගය-උත්සවාකාරයෙන්/7-407847) · `si`
+
+'වතුකරයේ තෛපොංගල් සැමරුම' යන තේමාව යටතේ වතුකර ජනතාවගේ පවුල්, ආහාර සහ විවිධ විචිත්‍රාංග මූලික කරගනිමින්ද, ඔවුන්ගේ සංස්කෘතිය විදහා දක්වමින්ද මෙම උත්සවය සංවිධානය වූයේ සෙරන්ඩිබ් ෆ්ලා මිල්ස් සහ වැවිලි මානව සංවර්ධන භාරය (PHDT) අතර සහයෝගීත්වයෙනි.
+
+නුවරඑළිය රදැල්ල ක්‍රිකට් සමාජයේදී සහ හැටන් PHDT පුහුණු මධ්‍යස්ථානයේදී මෙම උත්සවය පැවති අතර, වතු ආශ්‍රිත විවිධ කණ්ඩායම්වල කාන්තාවන් 200කට අධික පිරිසක් මේ සඳහා සහභාගී විය. මෙහිදී ඔවුන් විසින් සෙරන්ඩිබ් හි ‘අධි ශක්ති’ සන්නාමය ඇතුළත් කරමින් අලංකාර සහ වර්ණවත් ‘කෝලම්’ චිත්‍ර රටානිර්මාණය කරමින් සිය නිර්මාණාත්මක හැකියාවන් ප්‍රදර්ශනය කරනලදී. වතු ප්‍රජාවගේ පෝෂණ අවශ්‍යතා සපුරාලීම සඳහා අධිශක්ති නමින් සෙරන්ඩිබ් ෆ්ලා මිල්ස් විසින් නවතම නිෂ්පාදනයක් මීට පෙර හඳුන්වාදෙන ලදී.
+
+හොඳම කෝලම් රටා නිර්මාණ තුන සඳහා සහතිකපත් සහ ආකර්ෂණීය මුදල් ත්‍යාග සෙරන්ඩිබ් ආයතනය විසින් පිරිනමන ලදී. නුවරඑළිය ප්‍රදේශයේ පැවැති තරගයෙන් පළමු වැනි ස්ථානය තලවාකැලේ තේවතු සමාගමද, දෙවැනි ස්ථානය හැටන් වැවිලි සමාගමද, තුන්වැනි ස්ථානය ආගරපතන තේ වතු සමාගමද දිනාගන්නා ලදී.
+
+...
+
+[Data](articles/e287ddba.json)
 
 ---
 
@@ -342,6 +504,22 @@ All liquor stores will be closed on Sunday (04) to mark the 76th Independence Da
 
 ---
 
+### පාසල් ළමුන් ප්‍රවාහන ගාස්තු ‘අකමැත්තෙන්’ වැඩි කරයි
+
+*2024-02-01 12:06:30* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-ළමුන්-ප්‍රවාහන-ගාස්තු-‘අකමැත්තෙන්’-වැඩි-කරයි/11-407840) · `si`
+
+ඉන්ධන මිල වැඩිවීම හමුවේ මේ මාසයේ (පෙබරවාරි)සිට පාසල් ළමයි ප්‍රවහන ගාස්තු ඉහළ දැමීමට සිය සංගමය අද(1) පෙරවරුවේදී තීරණය කළ බව සමස්ත ලංකා අන්තර් පළාත් පාසල් ළමයි ප්‍රවාහන සේවා සංගමය කියයි.
+
+ඒ අනුව කෙටි දුර ධාවනය සදහා ප්‍රවාහන ගාස්තුව සියයට දහයක උපරිමයකින් හා දිගු දුර සියයට පහළවකින් ඉහළ දැමීමට සිය සංගමය අකමැත්තෙන්වුවද තීරණය කළ බව සමස්ත ලංකා අන්තර් පළාත් පාසල් ළමයි ප්‍රවාහන සේවා සංගමයේ සභාපති රුවන් ප්‍රසාද් මහතා කීවේය.
+
+ඒ මහතා එසේ කීවේ ඉන්ධන මිල ඉහල දැමීමෙන් පාසල් ප්‍රවාහන ගාස්තු ඉහළ දැමීම සම්බන්ධයෙන් අද(1) උදේ අම්බලන්ගොඩ පැවති මාධ්‍ය හමුවකදීය.
+
+◼️
+
+[Data](articles/82c5d6dc.json)
+
+---
+
 ### Sri Lanka's Framework Protection Act
 
 *2024-02-01 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/175302) · `ta`
@@ -537,6 +715,22 @@ Meanwhile, these bills are being implemented as the National Water Resources Act
 [Data](articles/466d551f.json)
 
 [Extended Data](ext_articles/466d551f.ext.json)
+
+---
+
+### ඔන්ලයින් පනත ක්‍රියාත්මකයි
+
+*2024-02-01 11:14:57* · [`adalk`](https://www.ada.lk/breaking_news/ඔන්ලයින්-පනත-ක්‍රියාත්මකයි/11-407838) · `si`
+
+පසුගිය ජනවාරි 23 සහ 24 දෙදින පාර්ලිමේන්තුවේ විවාද කිරීමෙන් අනතුරුව සංශෝධන සහිතව සම්මත කරනු ලැබූ මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පතට  අද (01) කථානායක මහින්ද යාපා අබේවර්ධන මහතා සිය සහතිකය සටහන් කළේය.
+
+ඒ අනුව මෙම පනත් කෙටුම්පත 2024 අංක 9 දරන  මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ  පනත ලෙස බලාත්මක වේ.
+
+එමෙන්ම පාර්ලිමේන්තුවේ විවාද කොට සංශෝධන සහිතව ජනවාරි 09 දින  සම්මතවූ  ජාතික ජලශාස්ත්‍රීය සහ ජනවාරි මස  10 වැනි දින  සම්මතවූ  අධිකරණයකට, විනිශ්චය අධිකාරයකට හෝ ආයතනයකට අපහාස කිරීම පනත් කෙටුම්පත් ද්විත්වයට ද  මෙහිදී  කථානායකවරයාගේ සහතිකය හිමිවිය.
+
+◼️
+
+[Data](articles/8fde1c19.json)
 
 ---
 
@@ -1867,223 +2061,5 @@ Minimizing temporary winds and lightning accidents with thunderstorms
 [Data](articles/4f7d5c70.json)
 
 [Extended Data](ext_articles/4f7d5c70.ext.json)
-
----
-
-### Sri Lanka’s CPC hikes standard petrol, diesel, Sinopec Rs3 lower
-
-*2024-02-01 05:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-hikes-standard-petrol-diesel-by-rs5-kerosene-rs26-149422/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-run Ceylon Petroleum Corporation said it has hiked the price of standard petrol, diesel and kerosene from midnight of January 31, and reduced premium fuels.
-
-The price of a litre of standard petrol was raised by 5 rupees to 371 rupees a litre and diesel by 5 rupees to 363 rupees.
-
-Petrol Octane 95 Euro 4 was cut by 8.0 rupees to 456 rupees and Super diesel Euro 4 was cut by 7.0 rupees to 468 rupees.
-
-Sinopec Lanka said it was selling standard petrol 3 rupees below at 368 rupees a litre and Auto Diesel at 360 rupees.
-
-◼️
-
-[Data](articles/cbe5973e.json)
-
-[Extended Data](ext_articles/cbe5973e.ext.json)
-
----
-
-### Govt. misleading international community re: anti-corruption action?
-
-*2024-02-01 05:08:06* · [`dailyftlk`](https://www.ft.lk/columns/Govt-misleading-international-community-re-anti-corruption-action/4-758031) · `en`
-
-The Daily FT of 23 January 2024 published a report regarding a meeting the Minister of Justice had with the German Ambassador. It was titled “Legislation to combat bribery and corruption in Sri Lanka completed – says Justice Minister”. This article went on to note quoting the Minister: “He said politicians have been blamed for the bribery and corruption in the country and the people have reached the point where they are rejecting the politicians; as this situation is harmful to the country’s democracy. With a view to change this, the amendment for the regulation of election expenses and the Anti-corruption Act have already been passed”. The Minister said the foundation has been laid for a corruption-free and disorder-free Sri Lanka.
-
-...
-
-[Data](articles/43486356.json)
-
-[Extended Data](ext_articles/43486356.ext.json)
-
----
-
-### Birthday tribute to Krishantha
-
-*2024-02-01 05:01:58* · [`dailyftlk`](https://www.ft.lk/columns/Birthday-tribute-to-Krishantha/4-758030) · `en`
-
-Many have been my blessings over the past 15 years after a fresh lease of life afforded me in 2008. Spending quality time with my family including my grandchild more recently as well as attending spiritual retreats, with the latest ending on Australia Day long weekend, have been standouts.
-
-Retreats are a time to reflect on life and the mysterious workings of God in one’s life. It was definitely the mercy of God that afforded me a fresh lease of life after my abductors were hell-bent on literally silencing me after torture. God works on earth through angelic as well as human beings through their acts of goodness – the essence of God. At Christmas, the angels announced, “Glory to God on high and peace to men of goodwill”. Hence, a good person irrespective of their faith is already inclined towards God.
-
-...
-
-[Data](articles/1ed3b710.json)
-
-[Extended Data](ext_articles/1ed3b710.ext.json)
-
----
-
-### Birthday tribute to Krishantha
-
-*2024-02-01 05:01:58* · [`dailyftlk`](https://www.ft.lk/opinion/Birthday-tribute-to-Krishantha/14-758030) · `en`
-
-Many have been my blessings over the past 15 years after a fresh lease of life afforded me in 2008. Spending quality time with my family including my grandchild more recently as well as attending spiritual retreats, with the latest ending on Australia Day long weekend, have been standouts.
-
-Retreats are a time to reflect on life and the mysterious workings of God in one’s life. It was definitely the mercy of God that afforded me a fresh lease of life after my abductors were hell-bent on literally silencing me after torture. God works on earth through angelic as well as human beings through their acts of goodness – the essence of God. At Christmas, the angels announced, “Glory to God on high and peace to men of goodwill”. Hence, a good person irrespective of their faith is already inclined towards God.
-
-...
-
-[Data](articles/4bc3a831.json)
-
-[Extended Data](ext_articles/4bc3a831.ext.json)
-
----
-
-### High Heroin Usage: Youth Kills
-
-*2024-02-01 04:54:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-ஹெரோயின்-பாவனை-இளைஞர்-பலி/175-332459) · `ta`
-
-The deceased is Ganesan Nishan (29 years old) from the southern part of the two.
-
-The young man had gone to sleep yesterday afternoon. In this case, the people in the house observed him at around 4 am yesterday.
-
-Doctors said he had already died when he was taken to the Jaffna Teaching Hospital around 5 am.
-
-During anatomical examination, he died of excessive heroin. (A)
-
-◼️
-
-[Data](articles/1400baa3.json)
-
-[Extended Data](ext_articles/1400baa3.ext.json)
-
----
-
-### Proto-separatist federalism, populism, socialism, economics and elections
-
-*2024-02-01 04:54:11* · [`dailyftlk`](https://www.ft.lk/columns/Proto-separatist-federalism-populism-socialism-economics-and-elections/4-758024) · `en`
-
-“Tamils have lived long before the Sinhalese and our identity is bound here.”
-
-New ITAK leader S. Shritharan’s discourse signals a forthcoming challenge to Sri Lanka which cannot be ignored. The Political Editor of our Sunday sister paper quotes extensively from his recent speeches and interviews:
-
-“It is our fundamental responsibility…to realise the dreams of the fallen Great Heroes.”
-
-“Our National Leader [‘Purachchi Thalaivar’ Velupillai Prabhakaran] has guided us and trained us with impeccable discipline and commitment.”
-
-...
-
-[Data](articles/0bbecf1c.json)
-
-[Extended Data](ext_articles/0bbecf1c.ext.json)
-
----
-
-### Sri Lanka is 115th in corruption
-
-*2024-02-01 04:46:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊழலில்-இலங்கைக்கு-115-ஆவது-இடம்/175-332458) · `ta`
-
-Sri Lanka is ranked 115th in the list of corrupt countries published by Transparency International.
-
-According to this list, Sri Lanka is ranked 115th in 2023. Prior to that, Sri Lanka was 117th.
-
-With Sri Lanka, Ecuador, Indonesia, Malawi, the Philippines and Turkey are ranked 115th.
-
-Denmark is the first place as corrupt country. Following that, there are Finland, New Zealand, Norway and Singapore. (A)
-
-◼️
-
-[Data](articles/013031c0.json)
-
-[Extended Data](ext_articles/013031c0.ext.json)
-
----
-
-### High-level UN FAO conference kicks off in Colombo to guide recovery, reforms of agrifood systems in Asia-Pacific
-
-*2024-02-01 04:46:36* · [`dailyftlk`](https://www.ft.lk/business/High-level-UN-FAO-conference-kicks-off-in-Colombo-to-guide-recovery-reforms-of-agrifood-systems-in-Asia-Pacific/34-758018) · `en`
-
-The Senior Officials Meeting of FAO’s 37th Session of the Regional Conference for Asia and the Pacific launched today in Colombo chaired by Ministry of Agriculture Additional Secretary (Agri-technology) Dr. Shiromani Edirimanne, flanked by FAO Regional Representative for Asia and Pacific Assistant Director-General Jong-Jin Kim and FAO Senior Food Safety and Nutrition Officer and Conference Secretary Sridhar Dharmapuri
-
-A major multilateral conference opened yesterday in Colombo which aims to transform the Asia-Pacific region’s agrifood systems, after multiple human and economic crises have set back progress to achieving the Sustainable Development Goals, particularly those to end hunger and poverty and reduce inequalities (SDGs 2, 1, 10).
-
-...
-
-[Data](articles/f71e0785.json)
-
-[Extended Data](ext_articles/f71e0785.ext.json)
-
----
-
-### PM launches strategies to promote inclusive sustainable businesses to achieve SDGs
-
-*2024-02-01 04:44:46* · [`dailyftlk`](https://www.ft.lk/news/PM-launches-strategies-to-promote-inclusive-sustainable-businesses-to-achieve-SDGs/56-758017) · `en`
-
-ESCAP extends fullest support to Sri Lanka to achieve SDGs – UN Under Secretary General Armida Alisjahbana
-
-Prime Minister Dinesh Gunawardena yesterday launched the new strategies to promote inclusive sustainable businesses to achieve SDGs in Sri Lanka at the Temple Trees in the presence of UN Under Secretary General Armida Alisjahbana, who is also the Executive Director of ESCAP.
-
-After the launch, Prime Minister Dinesh Gunawardena said that Sri Lanka’s vision for new Sri Lanka cannot be achieved without developing and promoting sustainable businesses. “Businesses today hold immense power not just as engines of economic growth, but also as agents of positive change,” he said.
-
-...
-
-[Data](articles/ab32a598.json)
-
-[Extended Data](ext_articles/ab32a598.ext.json)
-
----
-
-### Sri Lanka and Australia collaborate on governance strengthening with Rs. 6.3 b funding
-
-*2024-02-01 04:42:58* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-Australia-collaborate-on-governance-strengthening-with-Rs-6-3-b-funding/56-758016) · `en`
-
-Sri Lanka and Australia yesterday signed a 10-year subsidiary arrangement that commits an initial AUD 30 million (Rs. 6.3 billion) over five years to support improved governance in Sri Lanka.
-
-Through a suite of programs, the arrangement supports the Sri Lankan Government, non-profit institutions and civil society to improve evidence-based policy and decision-making, deliver better services for communities, and increase the voice and agency of marginalised groups, including women.
-
-Lead delivery partners include the World Bank, The Asia Foundation, and International Foundation of Electoral Systems. The program will also support twinning arrangements between Australian and Sri Lankan institutions.
-
-This investment builds on a previous five-year arrangement valued at AUD 31 million (Rs. 6.5 billion) over five years.
-
-...
-
-[Data](articles/9fab4390.json)
-
-[Extended Data](ext_articles/9fab4390.ext.json)
-
----
-
-### RIUNIT webinar: IMF, geopolitics, and Sri Lanka’s economic sovereignty on 7 Feb.
-
-*2024-02-01 04:41:54* · [`dailyftlk`](https://www.ft.lk/news/RIUNIT-webinar-IMF-geopolitics-and-Sri-Lanka-s-economic-sovereignty-on-7-Feb/56-758015) · `en`
-
-The Research Intelligence Unit (RIUNIT), in partnership with the Institute for Political Economy (IPE), presents a webinar featuring experts in geopolitics, debt justice, and the Sri Lankan economy.
-
-Speakers include Professor Yanis Varoufakis, Professor Dr. Howard Nicholas, Heidi Chow, and Tania Abeysundara, with Professor Kanchana N. Ruwanpura and Roshan Madawela moderating.
-
-It will be held on Wednesday, 7 February at 1630 hours Colombo; 1100 hours London; 1900 hours Singapore.
-
-This webinar serves as a platform for stakeholders to delve into Sri Lanka’s economic challenges, the role of international institutions like the IMF, and the impact of geopolitical dynamics on the nation’s sovereignty.
-
-Participants will gain insights into strategies for addressing economic vulnerabilities, mitigating poverty, and navigating global uncertainties. The discussions will explore avenues for sustainable development, equitable growth, and resilience-building in the face of multifaceted challenges.
-
-...
-
-[Data](articles/753f43a5.json)
-
-[Extended Data](ext_articles/753f43a5.ext.json)
-
----
-
-### IOM facilitates ICAO Traveller Identification Program Strategy training for immigration officers
-
-*2024-02-01 04:39:42* · [`dailyftlk`](https://www.ft.lk/news/IOM-facilitates-ICAO-Traveller-Identification-Program-Strategy-training-for-immigration-officers/56-758014) · `en`
-
-From left: Course Development Officer Ajantha Dilrukshi, IOM National Program Officer   Tharindu Jayawardhane, Head of Civil Aviation Training  Krishantha Nimalaratne, DIE Chief Immigration Officer  C. M. Munasinghe, IOM Senior Project Coordinator  Sharuni Fernando  and Secretary (Course Development Unit)  P. C. J Kumari
-
-The International Organization for Migration (IOM), in collaboration with the International Civil Aviation Organization (ICAO) training arm and the Sri Lanka Airport and Aviation Academy (SLAAA), facilitated training of 15 immigration officers attached to the Border Surveillance Unit (BSU) on ICAO Traveller Identification Program (TRIP) Strategy.
-
-...
-
-[Data](articles/12b02ce4.json)
-
-[Extended Data](ext_articles/12b02ce4.ext.json)
 
 ---

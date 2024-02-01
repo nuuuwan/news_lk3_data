@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 03:33:40**
+As of **2024-02-02 03:50:19**
 
 ## Newspaper Stats
 
-*Scraped **4,220** Articles*
+*Scraped **4,221** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 378
 virakesarilk | 467
 adaderanasinhalalk | 501
 adaderanalk | 528
-tamilmirrorlk | 538
+tamilmirrorlk | 539
 dailymirrorlk | 580
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,217 (99.9%) of 4,220 articles have been extended.
+4,217 (99.9%) of 4,221 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -81,6 +81,22 @@ Q SriLankan Airlines is the most cash-strapped government institution at the mo
 ...
 
 [Data](articles/706887c3.json)
+
+---
+
+### ’சர்வஜன வாக்கெடுப்பு அவசியம்’
+
+*2024-02-02 02:13:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வஜன-வாக்கெடுப்பு-அவசியம்/175-332523) · `ta`
+
+பயங்கரவாத எதிர்ப்பு சட்ட மூலம் அரசியலமைப்புக்கு முற்றிலும் முரணாக இருப்பதால்,அதனை சட்டமாக்குவதற்கு பாராளுமன்றத்தில் மூன்றில் இரண்டு பெரும்பான்மையோடு, சர்வசன வாக்கெடுப்பும் அவசியம் என ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவர், சட்ட முதுமாணி ரவூப் ஹக்கீம், உயர்நீதிமன்றத்தில் செவ்வாய்க்கிழமை(30) வாதிட்டார்.
+
+பயங்கரவாத எதிர்ப்புச் சட்டமூலத்தை (Anti Terrorism Bill)கேள்விக்குட்படுத்தி, ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் சார்பில் கட்சியின் செயலாளர் ஜனாதிபதி சட்டத்தரணி நிசாம் காரியப்பர் தாக்கல் செய்திருந்த SD.SC.No.27.24 இலக்க சிறப்பு நிர்ணய மனு(Special Determination Application) அன்றைய தினம் ,உயர் நீதிமன்றத்தில்  எடுத்துக் கொள்ளப்பட்டபோது, முஸ்லிம் காங்கிரஸ் தலைவர் சட்ட முதுமாணி ரவூப் ஹக்கீம் தாமாகவே வாதங்களை முன் வைத்தார் .
+
+பிரதம நீதியரசர் ஜயந்த ஜயசூரிய தலைமையில் ,நீதியரசர்களான விஜித் மலல்கொட,ஏ.எச்.எம்.டீ.நவாஸ்,ஷிரான் குணரட்ண,அருண ஒபயசோசேகர ஆகிய ஐவர் அடங்கிய நீதியரசர் குழாம் முன்னிலையில் இந்த வழக்கு விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டது. வெவ்வேறு 36 மனுக்கள் தாக்கல் செய்யப்பட்டிருந்தன.
+
+...
+
+[Data](articles/9a0b1189.json)
 
 ---
 
@@ -2023,25 +2039,5 @@ The Court has ordered to appear before the CID tomorrow.
 [Data](articles/10b6747e.json)
 
 [Extended Data](ext_articles/10b6747e.ext.json)
-
----
-
-### Foreign travel ban imposed on Minister Keheliya, ordered to appear before CID
-
-*2024-02-01 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96918/foreign-travel-ban-imposed-on-minister-keheliya-ordered-to-appear-before-cid) · `en`
-
-Maligakanda Magistrate has ordered former Health Minister Keheliya Rambukwella to appear before the Criminal Investigation Department on Friday (Feb.02) following his failure to record a statement with the CID on Wednesday (Jan.31).
-
-Further, Rambukwella’s overseas travels were also temporarily barred on the orders of the magistrate.
-
-The former health minister was supposed to make an appearance before the CID on Wednesday, but he failed to do so on account of attending the proceedings of a case heard before the Colombo High Court as well as a ministerial sub-committee meeting convened at the Presidential Secretariat.
-
-It is understood that Rambukwella has sought the CID, in writing, to fix another date for him to provide his statement.
-
-...
-
-[Data](articles/69713575.json)
-
-[Extended Data](ext_articles/69713575.ext.json)
 
 ---

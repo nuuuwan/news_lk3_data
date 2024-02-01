@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 21:17:30**
+As of **2024-02-01 21:33:03**
 
 ## Newspaper Stats
 
-*Scraped **4,188** Articles*
+*Scraped **4,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ islandlk | 220
 economynextcom | 238
 dailyftlk | 258
 newsfirstlk | 265
-adalk | 374
+adalk | 378
 virakesarilk | 463
 adaderanasinhalalk | 498
-adaderanalk | 523
+adaderanalk | 524
 tamilmirrorlk | 535
 dailymirrorlk | 569
 
@@ -26,41 +26,63 @@ dailymirrorlk | 569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,182 (99.9%) of 4,188 articles have been extended.
+4,188 (99.9%) of 4,193 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
 
-### අභ්‍යවකාශයට ගිය ක්‍රිකට් පන්දුව
+### Sri Lanka cannot afford to be isolated on the global stage - State Minister
+
+*2024-02-01 21:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/96928/sri-lanka-cannot-afford-to-be-isolated-on-the-global-stage-state-minister) · `en`
+
+State Minister of Foreign Affairs Tharaka Balasuriya, has defended the President’s recent foreign trips against criticism. He dismissed claims that the trips were unnecessary, emphasizing their importance in strengthening Sri Lanka’s foreign relations and securing new partnerships.
+
+Mr. Balasuriya stressed that Sri Lanka cannot afford to be isolated on the global stage.
+
+He argued that foreign relations are crucial for the country’s development, and that the President’s visits are essential for building bridges and fostering cooperation with other nations. He dismissed criticisms of the trips as baseless, asserting that they play a vital role in Sri Lanka’s pursuit of progress.
+
+State Minister of Foreign Affairs Tharaka Balasuriya, speaking at a press briefing today (01) titled ‘Collective Path to a Stable Country,’ held at the President Media Centre (PMC) highlighted recent efforts to attract investment and rebuild the nation.
+
+...
+
+[Data](articles/2261928b.json)
+
+---
+
+### Cricket ball which went to space
 
 *2024-02-01 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192861) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලිය ප්‍රවර්ධනය කිරීම සඳහා සුවිශේෂී වීඩියෝවක් ජාත්‍යන්තර ක්‍රීකට් කවුන්සිලයේ විසින් එහි ෆේස්බුක් ගිණුමේ පළකර තිබේ.
+The International Cricket Council has published a unique video of the International Cricket Council to promote the Twenty20 World Cup.
 
-එසේම විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලිය නැරඹීම සඳහා ප්‍රවේශපත්‍ර වෙන්කරවා ගැනීමේ අවස්ථාව දැන් ක්‍රීඩාලෝලීන්ට හිමිව තිබේ.
+The sportsmen have now been able to book tickets to view the Twenty20 World Cup.
 
-ඒ අනුව tickets.t20worldcup.com වෙබ් අඩවියට පිවිසීමෙන් මෙවර අමෙරිකාවේ සහ කොදෙව් දූපත් සත්කාරකත්වයෙන් පැවැත්වෙන විස්සයි විස්ස ලෝක කුසලානය සියැසින් දැකගැනීමේ අවස්ථාව ක්‍රීඩා ලෝලීන්ට හිමිවෙයි.
+According to the visitors to Tickets.T20worldcup.com, the lovers have the opportunity to hear the Twenty20 World Cup, which will be held under the benefit of the West Indies and West Indies.
 
 ◼️
 
 [Data](articles/7ae9b1c9.json)
 
+[Extended Data](ext_articles/7ae9b1c9.ext.json)
+
 ---
 
-### කොටුව පොලීසියේ පාලන ස්ථානාධිපති තුවාල ලබා රෝහල්ගතකරයි
+### Fort police governance was injured and hospitalized
 
 *2024-02-01 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192860) · `si`
 
-කොටුව පොලිස් ස්ථානයේ පාලන අංශයේ ස්ථානාධිපතිවරයා බිම ඇදවැටී තුවාල ලබා රෝහල්ගතකර තිබේ.
+The OIC of the Fort police station has been admitted to the ground and hospitalized.
 
-පොලීසිය පවසන්නේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඉදිරිපිට පැවති උද්ඝෝෂණයක් අතරතුර සැකකරුවන් අත්අඩංගුවට යාමේදී මෙලෙස බිම ඇදවැටී ඇති බවය.
+The police say that the suspects have been ted the floor during a protest in front of the CID.
 
-තුවාල ලැබූ උප පොලිස් පරීක්ෂකවරයා ප්‍රතිකාර සඳහා නාරාහේන්පිට පොලිස් රෝහල වෙත ඇතුළත් කර තිබේ.
+The injured sub-inspector has been admitted to the Narahenpita Police Hospital for treatment.
 
 ◼️
 
 [Data](articles/6fb17488.json)
+
+[Extended Data](ext_articles/6fb17488.ext.json)
 
 ---
 
@@ -94,35 +116,39 @@ Ada Derana has a few people today to reveal such illegal acts in the future.
 
 ---
 
-### மத்திய வங்கி 6 புதிய உதவி ஆளுநர்களை நியமித்துள்ளது
+### Central Bank has appointed 6 new assistant governors
 
 *2024-02-01 20:26:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்திய-வங்கி-6-புதிய-உதவி-ஆளுநர்களை-நியமித்துள்ளது/175-332508) · `ta`
 
-மத்திய வங்கியின் ஆளும்சபை  ஜனவரி 22 ஆம் திகதி முதல் நடைமுறைக்கு வரும் வகையில் 6 உதவி ஆளுநர்களை நியமித்துள்ளது.
+The Central Bank's ruling council has appointed six assistant governors to come into effect from January 22.
 
 ◼️
 
 [Data](articles/b4b97d14.json)
 
+[Extended Data](ext_articles/b4b97d14.ext.json)
+
 ---
 
-### புதிய தூதுவர்கள் ஜனாதிபதியிடம் நற்சான்றிதழ்களை கையளித்தனர்
+### New ambassadors handed over the president's credentials
 
 *2024-02-01 19:58:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-தூதுவர்கள்-ஜனாதிபதியிடம்-நற்சான்றிதழ்களை-கையளித்தனர்/175-332504) · `ta`
 
-இலங்கைக்குப் புதிதாக நியமிக்கப்பட்டிருக்கும் புதிய உயர்ஸதானிகர்கள் மற்றும் தூதுவர்கள் மூவர் இன்று (01) ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் தமது நற்சான்றுப் பத்திரங்களைக் கையளித்தனர்.
+Three new high -rankings and ambassadors to Sri Lanka handed over their credentials to President Ranil Wickremesinghe today (01) at the Presidential Office.
 
-எசுவாத்தினி இராஜ்ஜியத்தின் உயர்ஸ்தானிகர், கிரிகிஸ், ருமேனியா, துர்க்மெனிஸ்தான் நாடுகளின் புதிய தூதுவர்களே இவ்வாறு புதிதாக நியமனம் பெற்றுள்ளனர்.
+The new ambassadors of the Esuwatini Kingdom, the High Commissioner of the Girikis, Romania and Turkmenistan have been appointed.
 
-Mr. Menzie Sipho Dlamini High Commissioner of the Kingdom of Eswatini)
+Recruit. Managa Chipo Dulamini High Commissioner
 
-வௌிநாட்டலுவல்கள் இராஜாங்க அமைச்சர் தாரக்க பாலசூரிய மற்றும் ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க உள்ளிட்டவர்களும் இதன்போது கலந்துகொண்டனர்.
+State Minister Taraka Balasuriya and President's Secretary Saman Ekanayake were also present.
 
-அதனையடுத்து இன்று நியமனம் பெற்ற உயர்ஸ்தானிகரும் தூதுவர்களும் தேசிய பாதுகாப்பு தொடர்பிலான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்கவுடன் கலந்துரையாடலில் ஈடுபட்டனர்.
+Subsequently, the appointed High Commissioner and Ambassadors held a discussion with Sagala Ratnayake, the President's Senior Advisor on National Security and the President of the President.
 
 ◼️
 
 [Data](articles/ed91e4cd.json)
+
+[Extended Data](ext_articles/ed91e4cd.ext.json)
 
 ---
 
@@ -216,17 +242,19 @@ Following are the names of the diplomats who submitted their credentials today.
 
 ---
 
-### மக்களே உங்களுக்கு இவரை தெரியுமா?
+### Do you know this?
 
 *2024-02-01 19:10:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களே-உங்களுக்கு-இவரை-தெரியுமா/175-332503) · `ta`
 
-கொலைச் சம்பவம் ஒன்றுடன் தொடர்புடைய சந்தேக நபரை கைது செய்ய பொதுமக்களிடம் பொலிஸார் தகவல் கோரியுள்ளனர்.
+Police have asked the public to arrest the suspect in connection with the murder.
 
-புகைப்படத்தில் இருப்பவர் தொடர்பில்  தகவல் கிடைத்தால் கொள்ளுப்பிட்டி பொலிஸ் நிலையத்திலோ அல்லது 0742 226 022 , 0718 591 492, 0718 594 455 ஆகிய தொலைபேசி இலக்கங்களுக்கோ தொடர்பு கொண்டு தகவலைத் தெரிவிக்குமாறு பொலிஸார் கேட்டுக்கொண்டுள்ளனர். R
+If you get information about the photo, the police have asked to contact the Kaluppitti Police Station or 0742 226 022, 0718 591 492, 0718 594 455. Remble
 
 ◼️
 
 [Data](articles/58568046.json)
+
+[Extended Data](ext_articles/58568046.ext.json)
 
 ---
 
@@ -249,6 +277,18 @@ Meanwhile, new High Commissioner and Ambassadors were also a short discussion wi
 [Data](articles/982d7f89.json)
 
 [Extended Data](ext_articles/982d7f89.ext.json)
+
+---
+
+### බස් ගාස්තු වැඩිවීමක් නෑ
+
+*2024-02-01 19:08:42* · [`adalk`](https://www.ada.lk/breaking_news/බස්-ගාස්තු-වැඩිවීමක්-නෑ/11-407860) · `si`
+
+ඩීසල් මිල ඉහළ ගියද බස් ගාස්තු වැඩිවීමක් නොවන බව ජාතික ගමනාගමන කොමිෂන් සභාව සඳහන් කරයි. ඉන්ධන මිල ඉහළ ගියද බස් ගාස්තු වැඩිකිරීමට ප්‍රමාණවත් අයුරින් කිලෝමීටරයක ධාවන පිරිවැය ඉහළ නොයන බැවින් මෙසේ බස් ගාස්තු ඉහළ නොයන බව කොමිෂන් සභාව වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/5bec205e.json)
 
 ---
 
@@ -286,19 +326,21 @@ Commenting on the approval of the aid package, the Chairman of the European Comm
 
 ---
 
-### பஸ் கட்டணங்கள் குறித்து எடுக்கப்பட்ட தீர்மானம்
+### The resolution taken on bus charges
 
 *2024-02-01 18:55:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டணங்கள்-குறித்து-எடுக்கப்பட்ட-தீர்மானம்/175-332502) · `ta`
 
-டீசல் விலை அதிகரிக்கப்பட்டாலும் பஸ் கட்டணங்கள் அதிகரிக்கப்படாது என தேசிய போக்குவரத்து ஆணைக்குழு தெரிவித்துள்ளது.
+The National Transport Commission has said that the bus fares will not be increased even if diesel prices have increased.
 
-இதேவேளை, குறைந்தபட்ச பஸ் கட்டணத்தில் இருந்து ஏனைய கட்டணங்களும் அதிகரிக்கப்பட வேண்டும் என பஸ் சங்க பிரதிநிதிகள் தெரிவித்துள்ளனர்.
+Meanwhile, bus union representatives have said that other fares should be increased from the minimum bus fare.
 
-அத்துடன், எதிர்வரும் பெப்ரவரி மாதம் 15ஆம் திகதிக்கு முன்னர் கட்டண திருத்தம் அமுல்படுத்தப்பட வேண்டுமெனவும் அவர்கள் கோரிக்கை முன்வைத்துள்ள போதும், பஸ் கட்டணங்கள் அதிகரிக்கப்படாது என தேசிய போக்குவரத்து ஆணைக்குழு தெரிவித்துள்ளது. R
+In addition, the National Transport Commission said that the bus fares will not be increased even though they have demanded that the tariff revision be implemented before the 15th of February.. Remble
 
 ◼️
 
 [Data](articles/49ded100.json)
+
+[Extended Data](ext_articles/49ded100.ext.json)
 
 ---
 
@@ -348,6 +390,46 @@ Minister of State for Foreign Affairs Tharaka Balasuriya and President’s Secre
 
 ---
 
+### ජනපතිගේ විදෙස් සංචාර ගැන එල්ල වන විවේචන පදනම් විරහිතයි
+
+*2024-02-01 18:46:38* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-විදෙස්-සංචාර-ගැන-එල්ල-වන-විවේචන-පදනම්-විරහිතයි/11-407858) · `si`
+
+ජනාධිපතිවරයාගේ විදෙස් සංචාර සම්බන්ධයෙන් ඇතැමුන් විවේචනාත්මක ප්‍රකාශ සිදුකළත් ඒ සියලූ ප්‍රකාශ පදනම් විරහිත බව විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා පැවසීය.
+
+ශ්‍රී ලංකාවට හුදෙකලා දූපතක් ලෙස පැවතිය නොහැකි බවත්, රට සංවර්ධනය කරා ගෙන යාමට නම් තිබෙන විදෙස් සබඳතා ශක්තිමත් කර ගනිමින් නව විදෙස් සබඳතා ඇති කරගැනීමට නම් විදේශ නිල සංචාර අතිශය වැදගත් වන බවත් රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (01) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක් වූ විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා මෙසේ ද පැවසීය,
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ විදේශ කටයුතු අමාත්‍යවරයා පසුගියදා ස්විස්ටර්ලන්තයේ ඩාවෝස් නුවර පැවති ලෝක ආර්ථික සංසදයේ සමුළුවට සහභාගි වුණා. එහිදී ව්‍යාපාරික ප්‍රජාව ද හමු වුණා. ලංකාව නැවත ගොඩනඟන ආකාරය සම්බන්ධයෙන් එහිදී ගැඹුරින් සාකච්ඡා කලා. ලංකාවට ආයෝජකයින් කැඳවන්නේ කෙසේ ද යන්න සම්බන්ධයෙන් ද සාකච්ඡා කලා.
+
+...
+
+[Data](articles/dd18ad70.json)
+
+---
+
+### නව තෙත් බිම් තුනක් ප්‍රකාශ කරයි
+
+*2024-02-01 18:42:14* · [`adalk`](https://www.ada.lk/breaking_news/නව-තෙත්-බිම්-තුනක්-ප්‍රකාශ-කරයි/11-407857) · `si`
+
+ශ්‍රී ලංකාවේ නව තෙත් බිම් තුනක් රැම්සාර් සම්මුතිය යටතේ  තෙත් බිම් ලෙස ප්‍රකාශයට පත් කිරීමට වනජීවි දෙපාර්තමේන්තුව මඟින්  සැලසුම් කර ඇතිබව  වාරිමාර්ග, වනජීවි සහ වන සංරක්ෂණ අමාත්‍ය නීතිඥ පවිත්‍රා වන්නිආරච්චි මහත්මිය ප්‍රකාශ කරයි.
+
+පෙබරවාරි 02 දිනට යෙදෙන ලෝක තෙත් බිම් දිනය නිමිත්තෙන්  මාධ්‍ය වෙත අඅදහස් දක්වමින් අමාත්‍ය වරිය මේ බව සඳහන් කළා ය.
+
+ඒ අනුව මන්නාරම දිස්ත්‍රික්කයට අයත් වෙඩිතලතිව් ස්වාභාවික රක්ෂිතය, ආදම්ගේ පාලම ජාතික උද්‍යානය, සහ  යාපනය දිස්ත්‍රික්කයට අයත් චුන්ඩිකුලම් ජාතික උද්‍යානය  නව තෙත් බිම් කලාප ලෙස  2024 වසර ඇතුළත නම් කිරීමට වනජීවි දෙපාර්තමේන්තුව සැලසුම් කර තිබේ.
+
+මෙහිදී වාන්කලෙයි අභයභූමිය,  වෙඩිතලතිව් ස්වාභාවික රක්ෂිතය දක්වා  පුළුල්  කිරීමට  ද  පියවර ගෙන ඇතිබව  අමාත්‍යවරිය  පැවැසුවාය.
+
+මේ අතර මිරිස්ස සමුද්‍රීය අභයභූමිය ද මේ වසර ඇතුළත ප්‍රකාශයට පත්කිරීම සඳහා  අවශ්‍ය  කටයුතු  සිදුවෙමින් පවතින බව ද  පවිත්‍රා වන්නිආරච්චි මහත්මිය  කියා සිටියාය.
+
+◼️
+
+[Data](articles/ed7d2f94.json)
+
+---
+
 ### Notice of the President's Functions and Obstacles
 
 *2024-02-01 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192853) · `si`
@@ -367,6 +449,22 @@ The Constitutional Council is obliged to perform his work in accordance with the
 [Data](articles/c60604c6.json)
 
 [Extended Data](ext_articles/c60604c6.ext.json)
+
+---
+
+### මාර්තු සිට ප්‍රාථමික ශ්‍රේණිවල සියලු‍ දරුවන්ට දිවා ආහාරය
+
+*2024-02-01 18:30:17* · [`adalk`](https://www.ada.lk/breaking_news/මාර්තු-සිට-ප්‍රාථමික-ශ්‍රේණිවල-සියලු‍-දරුවන්ට-දිවා-ආහාරය/11-407855) · `si`
+
+මෙරට පාසල්වල 1-5 ශ්‍රේණිවල දරුවන් ලක්ෂ 16ක් පමණ සිටින බවත් ඔවුන් වෙත පාසල් දිවා ආහාර වේල ලබාදීම වෙනුවෙන් රුපියල් බිලියන 16ක් වෙන්ව ඇති බවත් ඒ අනුව දිනකට ඒ වෙනුවෙන් වෙන්ව ඇති මුදල රුපියල් 110ක් දක්වා වැඩිකරමින්  එළඹෙන මාර්තු මාසයේ සිට එම ප්‍රාථමික ශ්‍රේණිවල සියලු‍ දරුවන්ට දිවා ආහාර ලබාදීමට පියවර ගන්නා බවත් අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+
+එමෙන්ම 2024 වසර වෙනුවෙන් අවශ්‍ය පාසල් පෙළ පොත් සියල්ල මේ වනවිට මුද්‍රණය කර අවසන් බවත් පාසල් ආරම්භයෙන් පසු තෙවැනි වාරය අවසන් වූ වහාම එම පෙළ පොත් ද නිල ඇදුම් රෙදි ද පාසල් දරුවන් වෙත ලබාදීමට කටයුතු යොදා ඇති බව ද අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+ජාතික පාසල්වල විදේශ භාෂා ඉගැන්වීම පිණිස බඳවාගත් උපාධිධාරීන් 162 දෙනෙකු වෙත ශ්‍රී ලංකා ගුරු සේවයේ 3-1 (අ) ශ්‍රේණියට පත්වීම් ප්‍රදානය වෙනුවෙන් අධ්‍යාපන අමාත්‍යාංශයේ අද (01) පැවති උත්සව අවස්ථාවට එක්වෙමින් අමාත්‍යවරයා මේ අදහස් පළ කළේය.
+
+...
+
+[Data](articles/7c4bf23c.json)
 
 ---
 
@@ -1879,109 +1977,5 @@ Indian High Commission, Ceylon Electricity Board, Lanka Transformers Ltd and Pet
 [Data](articles/a4c149c4.json)
 
 [Extended Data](ext_articles/a4c149c4.ext.json)
-
----
-
-### Bus fares are prepared to increase
-
-*2024-02-01 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192833) · `si`
-
-Private bus associations states that the bus fares should be proceeded immediately due to increasing diesel prices.
-
-General Secretary of the All Ceylon Private Bus ...
-
-"The price of a liter of diesel was increased by Rs 29. Diesel has been increased by Rs 5 last yesterday without stop there. Therefore, the bus fare should be increased. "
-
-"We will definitely increase the bus fare within two weeks. The minimum bus fare at this time will be 35 rupees. Doing forcefully. "
-
-The All Ceylon School Children Transport Association Secretary Lalith Chandrasiri said that school children had not taken measures to increase the transportation of transport charges.
-
-All Island Inter-Provincial School Children Transport Association Chairman AH Ki Prasad said that the influence of the vate influence and fuel charges have to increase the fees.
-
-Meanwhile, the All-Lanka-wheeler drivers' professional union says that the fuel prices will increase the tariffs.
-
-...
-
-[Data](articles/04196a9c.json)
-
-[Extended Data](ext_articles/04196a9c.ext.json)
-
----
-
-### SME paddy businesses to get pledge loans at concessional interest rate
-
-*2024-02-01 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/96913/sme-paddy-businesses-to-get-pledge-loans-at-concessional-interest-rate) · `en`
-
-The government has implemented a concessionary pledge loan scheme of Rs. 9 billion for small- and medium-scale paddy millers, storage owners and collectors with effect from February 01 to purchase paddy for Maha Season 2023/2024.
-
-The pledge loan scheme was initiated with the aim of maintaining a reasonable price for farmers, under a concessional interest rate.
-
-The target group of this loan scheme include SME paddy millers subject to the maximum daily paddy milling capacity of 25MT per day, paddy storage owners subject to having a sufficient storage capacity and paddy collectors subject to having a storage with a sufficient capacity or a valid lease agreement with a storage owner with a sufficient storage capacity or SME paddy miller.
-
-The government says such borrowers should have a valid business registration obtained from a relevant state institution.
-
-...
-
-[Data](articles/59886e4e.json)
-
-[Extended Data](ext_articles/59886e4e.ext.json)
-
----
-
-### Women's Big Bash Star in Year Chamari Atapattu
-
-*2024-02-01 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192832) · `si`
-
-The Annual Cricket Awards ceremony organized by the Australian Cricket was held yesterday (31).
-
-Alan Board award won the best cricketer of the year 2023.
-
-Ashley Gardner was awarded the best cricketer of 2023 at this year's awards ceremony.
-
-Meanwhile, Chamari Atapattu won the award for the women's Big Bash League at 2023 in the year 2023.
-
-◼️
-
-[Data](articles/6ba8ffd1.json)
-
-[Extended Data](ext_articles/6ba8ffd1.ext.json)
-
----
-
-### A man's body recovered from Hikkaduwa area
-
-*2024-02-01 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175300) · `ta`
-
-The body of a man has been found in the room of a hotel in Hikkaduwa, Vewala, police said.
-
-Investigations have begun after the hostel management informed the Hikkaduwa police on Wednesday evening (31st) evening as there was no information from the person.
-
-Subsequently, when the police and hostel staff opened the window of the hotel room where the man was staying, it was revealed that he had died of blood injuries.
-
-◼️
-
-[Data](articles/aa44c143.json)
-
-[Extended Data](ext_articles/aa44c143.ext.json)
-
----
-
-### Revenge in the police
-
-*2024-02-01 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192831) · `si`
-
-Former Assistant Superintendent of Police in Ambalangoda. The Supreme Court yesterday (31) had decided that four police officers including Amarasiri and four police officers have violated the basic human rights of a police constable.
-
-Police Constable PDA, who served in the Kosgoda Police, as revealed to be obeunded without obeying the suspects to release several drug charges.. They were charged with false charges on false charges against Mr. Panapitiya and his wife was arrested and detained.
-
-Accordingly, the petitioner is Rs. 20 lakhs to pay Rs.. The OIC of Amarasiri, Evak Kosgoda Police, Mangala De Zoysa, OIC Asela Preman de Silva and Police Sergeant Indika Indika de Silva were ordered.
-
-The Supreme Court ordered the petitioner of Rs. 25,000 to the petitioner to pay Rs.
-
-◼️
-
-[Data](articles/8875e913.json)
-
-[Extended Data](ext_articles/8875e913.ext.json)
 
 ---

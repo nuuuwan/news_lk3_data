@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 18:32:48**
+As of **2024-02-01 18:50:40**
 
 ## Newspaper Stats
 
-*Scraped **4,150** Articles*
+*Scraped **4,164** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 48
+colombotelegraphcom | 50
 bbccomsinhala | 64
 dbsjeyarajcom | 131
 islandlk | 220
-economynextcom | 228
+economynextcom | 238
 dailyftlk | 258
 newsfirstlk | 265
 adalk | 368
 virakesarilk | 463
 adaderanasinhalalk | 489
-adaderanalk | 519
+adaderanalk | 521
 tamilmirrorlk | 531
 dailymirrorlk | 566
 
@@ -26,7 +26,7 @@ dailymirrorlk | 566
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,147 (99.9%) of 4,150 articles have been extended.
+4,150 (99.7%) of 4,164 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,25 +44,47 @@ The Minister further said that all school textbooks required for 2024 have been 
 
 [Data](articles/0cdfb418.json)
 
+[Extended Data](ext_articles/0cdfb418.ext.json)
+
 ---
 
-### මුල අමතක නොකළ අපේ ධනා මුලින්ම මතක් කළ දේ
+### Six including ex-Health Secretary further remanded, one accused granted bail
+
+*2024-02-01 18:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/96925/six-including-ex-health-secretary-further-remanded-one-accused-granted-bail) · `en`
+
+The fifth suspect in the ongoing case concerning the controversial procurement of substandard human immunoglobulin vials has been released on bail on orders of the Maligakanda Magistrate’s Court.
+
+As per the relevant court order, the suspect, identified as the Medical Supplies Division’s storekeeper, was released on two personal bails of Rs. 01 million each.
+
+Meanwhile, the six other suspects, including the former Secretary to the Ministry of Health, Janaka Chandragupta, were further remanded until 15 February.
+
+Chandragupta was arrested by the Criminal Investigation Department (CID) on 18 December 2022, when he arrived at the premises to record a statement regarding the substandard human immunoglobulin scandal, which had taken place during his tenure as Health Secretary.
+
+...
+
+[Data](articles/7697ea41.json)
+
+---
+
+### What did our first forgetful wealth were first reminded
 
 *2024-02-01 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192851) · `si`
 
-තමන් ක්‍රිකට් ආරම්භ කළ දෙබවරවැව ජාතික පාසලට තමන් ගෞරවය පුදකරන බව ශ්‍රී ලංකා ටෙස්ට් ක්‍රිකට් නායක ධනංජය ද සිල්වා පැවසීය.
+Sri Lanka Test leader Dananjaya de Silva said he would honor the Debwarawewa National School, which launched cricket.
 
-ඔහු මෙම අදහස් දැක්වීම සිදුකළේ ඇෆ්ගනිස්තාන කණ්ඩායමට එරෙහිව පැවැත්වෙන පළමු ටෙස්ට් තරගයට පෙර අද පැවති මාධ්‍ය හමුවට එක්වෙමිනි.
+He was speaking at a press conference held today before the first Test against the Afghanistan group.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ ටෙස්ට් ක්‍රිකට් නායක ධනංජය ද සිල්වා සිය පියා පිළිබඳව ද සිහි කළේය.
+Speaking further Test captain Dhananjaya de Silva also commemorated his father about his father.
 
-ධනංජය ද සිල්වා සඳහන් කළේ තමන් සෑමවිටම ක්‍රිකට් ක්‍රීඩා කරන්නේ සිය පියා වෙනුවෙන් බවත් ඔහු අද සිටියා නම් තමන් සිටින තැන දැක සතුටු වනු ඇති බවත්ය.
+Dhananja de Silva said that he would always be happy if he was always playing for his Father and he would be pleased.
 
-එහිදී ශ්‍රී ලංකා කණ්ඩායම සහ ප්‍රතිවාදී ඇෆ්ගනිස්තාන කණ්ඩායම සම්බන්ධයෙන් ද ධනංජය ද සිල්වා අදහස් දැක්වීය.
+Dhananjaya de Silva also commented on the Sri Lankan team and the rival Afghanistan group.
 
 ◼️
 
 [Data](articles/f5cef570.json)
+
+[Extended Data](ext_articles/f5cef570.ext.json)
 
 ---
 
@@ -85,6 +107,24 @@ Expansion of the number of schools that teach existing in the school system and 
 [Data](articles/1f3c5187.json)
 
 [Extended Data](ext_articles/1f3c5187.ext.json)
+
+---
+
+### Malwathu Mahanayake Thero comments on new social media laws
+
+*2024-02-01 17:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/96924/malwathu-mahanayake-thero-comments-on-new-social-media-laws-) · `en`
+
+The Chief Prelate (Mahanayake Thero) of the Malwathu Chapter Most Ven. Thibbatuwawe Sri Siddhartha Sumangalabhidhana Thero states that there is no fault in introducing new laws to control the various abuses that are being perpetrated on social media by altering the truth, for a long time.
+
+The Mahanayake Thero made this remark when a group of representatives of the International Human Rights Organization visited Maha Nayaka Thero today (Feb. 01).
+
+Speaking further, Ven. Thibbatuwawe Sri Siddhartha Sumangalabhidhana Thero expressed that some groups of people defamed him as well on social media in the past with no basis.
+
+However, the Mahanayake Thero further added that people who use social media should have no hindrances in using them freely, adding that if the government regulates social media without political objectives, people will not oppose the relevant regulations.
+
+◼️
+
+[Data](articles/fe6ab59d.json)
 
 ---
 
@@ -164,6 +204,26 @@ Nine Activists Released on Bail After Protest Demanding Ex-Minister’s Arrest
 
 ---
 
+### Sri Lanka trade minister seeks to increase South Korea FDI, exports
+
+*2024-02-01 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-trade-minister-seeks-to-increase-south-korea-fdi-exports-149644/) · `en`
+
+ECONOMYNEXT – Sri Lanka is looking to expand bilateral trade and investment with South Korea, its minister of trade has said.
+
+Minister of Trade, Commerce and Food Security Nalin Fernando met South Korea Ambassador Miyon Lee to discuss investment and increasing exports.
+
+“We discussed ways to expand the existing bilateral ties in the fields of Trade and Investment,” Fernando said on social media platform X.com after the meeting.
+
+The discussions focused on increasing exports of coir products, coconut shell charcoal, rubber and spices from Sri Lanka, and attracting more Korean foreign investments into Sri Lanka, according to a statement by the Department of Government Information.
+
+There were opportunities for Korean buyers to directly access gems and jewelry, tourism promotion, potential for flights from Sri Lanka to Korea, as well as to make investments in sustainable energy especially in wind power, Fernando said.
+
+...
+
+[Data](articles/6a25ff55.json)
+
+---
+
 ### The People’s Platform | Conversations From The Galle Literary Festival | Christina Lamb
 
 *2024-02-01 17:24:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/the-people%e2%80%99s-platform-conversations-from-the-galle-literary-festival-christina-lamb/) · `en`
@@ -190,7 +250,15 @@ Nine Activists Released on Bail After Protest Demanding Ex-Minister’s Arrest
 
 The National Transport Commission (NTC) has announced that bus fares will not be increased, despite the recent revision in fuel prices.
 
-◼️
+Earlier today (01 Feb.), the private bus owners’ associations urged for immediate measures to be taken to increase the bus fares in correspondence to the continuous increasing of fuel prices.
+
+Commenting regarding the matter, the chief secretary of the All-Ceylon Private Bus Owners’ Association, Anjana Priyanjith said: “Earlier, the price of diesel was raised by Rs. 29 per litre, and then the relevant prices were increased again by Rs. 05 yesterday. Therefore, the bus fares must be increased”.
+
+The Ceylon Petroleum Corporation (CEYPETCO), Lanka IOC, and Sinopec had implemented fuel price revisions with effect from midnight yesterday.
+
+Accordingly, the price of Petrol 92 Octane has been increased by Rs. 05 to Rs. 368 per litre while Petrol 95 Octane has been reduced by Rs. 08 to Rs. 456 per litre.
+
+...
 
 [Data](articles/e3212232.json)
 
@@ -209,6 +277,30 @@ The National Transport Commission says that the bus fare will not be increased c
 [Data](articles/8a9e9101.json)
 
 [Extended Data](ext_articles/8a9e9101.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 313.25/50 to the US dollar
+
+*2024-02-01 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-313-25-50-to-the-us-dollar-149651/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 313.25/50 to the US dollar on Thursday, from 315.50/70 the previous day, dealers said.
+
+A bond maturing on 01.02.2026 closed down at 12.20/35 percent from 12.10/25 percent.
+
+A bond maturing on 15.09.2027 closed at 12.80/13.00 percent from 12.70/80 percent.
+
+A bond maturing on 15.03.2028 closed at 13.10/15 percent from 12.85/13.00 percent.
+
+A bond maturing on 15.07.2029 closed at 13.20/35 percent from 12.95/13.15 percent.
+
+A bond maturing on 15.05.2030 closed at 13.20/35 percent from 13.30/50 percent.
+
+A bond maturing on 01.07.2032 closed at 13.45/60 percent from 13.40/60 percent. (Colombo/Feb1/2024)
+
+◼️
+
+[Data](articles/94292095.json)
 
 ---
 
@@ -335,6 +427,28 @@ It also noted that any restraint placed on the President in the performance of h
 [Data](articles/5deba796.json)
 
 [Extended Data](ext_articles/5deba796.ext.json)
+
+---
+
+### Sri Lanka stocks close up, 1bn turnover
+
+*2024-02-01 16:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-1bn-turnover-149646/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The All Share Price Index was up 0. 63 percent, or 64.57 points, at 10,375.
+
+The S&P SL20 index was up 1.27 percent, or 36.82 points, at 2,933.
+
+Turnover was at 1.1 billion. Trading in LB Finance Plc contributed (216mn) of this, and the share closed down at 61.00.
+
+Nations Trust Bank Plc also saw fairly high volumes being traded (203mn) and the share closed up at 101.25.
+
+The banks industry group as a whole contributed the most to the day’s turnover (420mn), followed by the diversified financials sector (261). The two sectors have seen some selling pressure in the last month ahead of the country’s external debt restructuring completion.
+
+...
+
+[Data](articles/f730fb9d.json)
 
 ---
 
@@ -1298,6 +1412,26 @@ In the end, he noted that the protesters returned home with tears and water.
 
 ---
 
+### Sri Lanka resumes talks with India’s Petronet LNG  to supply fuel
+
+*2024-02-01 13:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-resumes-talks-with-indias-petronet-lng-to-supply-fuel-149584/) · `en`
+
+ECONOMYNEXT – Sri Lanka has discussed with India’s Petronet LNG to supply a liquefied natural gas to dual fuel combined cycle power plants, Energy Minister Kanchana Wijesekera said.
+
+Sri Lanka’s Lanka Transformers Ltd (LTL) is to commission the first stage of a 300MW dual fuel power plant this year (Sobhadanavi) and it also operates another older plant (Yugadanavi) which is running on fuel oil.
+
+“In the efforts to expedite the process to generate power from LNG the Government of India has proposed an interim solution from Petronet LNG,” Minister of Power and Energy Kanchana Wijesekera said on X.com, a social media platform.
+
+“LNG infrastructure development and gas supply to the Yughadhanavi and Sobhadabavi Power plants was discussed this morning at the Ministry of Power and Energy,” Wijesekera said.
+
+Indian High Commission, Ceylon Electricity Board, Lanka Transformers Ltd and Petronet LNG officials were involved in the discussions Thursday.
+
+...
+
+[Data](articles/a4c149c4.json)
+
+---
+
 ### Bus fares are prepared to increase
 
 *2024-02-01 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192833) · `si`
@@ -1424,6 +1558,24 @@ However, the students are facing the A/L examination’s Agricultural Science qu
 
 ---
 
+### Sri Lanka’s Galadari to sign agreements with Mashreq Bank, UAE
+
+*2024-02-01 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-galadari-to-sign-agreements-with-mashreq-bank-uae-149567/) · `en`
+
+ECONOMYNEXT – Galadari Hotels (Lanka) Plc will enter into agreements with Mashreq Bank PSC and the hotel’s holding company to finance refurbishment, the company said.
+
+“The Company intends to enter into a series of Agreements with Mashreq Bank PSC, United Arab Emirates and the holding Company; Galadari Brothers Co. LLC, to finance the proposed refurbishment of the Hotel,” the hotel said in a stock exchange filing.
+
+This is subject to the passing of a special resolution by the shareholders of the company and obtaining other necessary regulatory approvals, Galadari Hotels said.
+
+The hotel has issued a guest advisory about the construction work on its website: “We would like to inform our guests that the Galadari hotel Colombo will be undergoing a revamp from the end of February onwards until further notice.”
+
+...
+
+[Data](articles/cf83d947.json)
+
+---
+
 ### Government action to increase salary
 
 *2024-02-01 12:52:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளத்தை-அதிகரிக்க-அரசாங்கம்-நடவடிக்கை/175-332475) · `ta`
@@ -1482,6 +1634,24 @@ This year, the fees previously paid last year is to pay the Chief Inspectors to 
 
 ---
 
+### Pledge loans for Sri Lanka’s SME paddy businesses at concessional interest
+
+*2024-02-01 12:36:00* · [`economynextcom`](https://economynext.com/pledge-loans-for-sri-lankas-sme-paddy-businesses-at-concessional-interest-149559/) · `en`
+
+ECONOMYNEXT – Sri Lanka has launched a pledge loan scheme worth 9 billion rupees at a partly subsidised concessional interest rate for small and medium paddy millers, paddy storage owners and paddy collectors for purchasing paddy in Maha  Season 2023/2024.
+
+The scheme came effective on Thursday February 01, to facilitate a reasonable price for  farmers, an official statement said.
+
+The target groups for the scheme are small and medium scale (SME) paddy millers subject to a maximum daily paddy milling capacity of 25 metric tons per day, paddy storage owners with sufficient storage capacity, and paddy collectors with storage capacity or a valid lease agreement with a storage owner with sufficient storage capacity or with an SME paddy miller.
+
+Such borrowers should have a valid business registration obtained from a relevant government institution, the statement said.
+
+...
+
+[Data](articles/c5d1ea55.json)
+
+---
+
 ### Liquor stores to be closed for 76th Independence Day
 
 *2024-02-01 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96911/liquor-stores-to-be-closed-for-76th-independence-day) · `en`
@@ -1498,17 +1668,23 @@ Accordingly, all liquor-selling establishments will close at 10:00 p.m. on 03 Ja
 
 ---
 
-### පොලීසියෙන් කොස්තාපල්වරයෙකුට සහ බිරිඳට කළ අගතියට ලක්ෂ 20ක වන්දියක්
+### A compensation of a constable and his wife for his wife
 
 *2024-02-01 12:26:14* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c04r85v5g53o) · `si`
 
-මත්ද්‍රව්‍ය චෝදනා ලැබු සැකකරුවන් කිහිපදෙනෙකු නිදහස්  කරන්නැයි, කරනු ලැබූ නීති විරෝධී බලපෑමකට අවනත නොවී ඒ සම්බන්ධව විමර්ශන කිරීමේ හේතුවෙන් පලිගැනීමක් ලෙස කොස්ගොඩ පොලිසියේ සේවය කළ  පොලිස් කොස්තාපල් පී.ඩී.ඒ. පනාපිටියට එරෙහිව ව්‍යාජ නඩු පවරා ඔහුගේ වැඩ තහනම් කර බිරිඳ ද අත්අඩංගුවට ගෙන රඳවා ගැනීම තුළින් එවකට අම්බලන්ගොඩ සහකාර පොලිස් අධිකාරී යූ.එම්. අමරසිරි ඇතුළු පොලිස් නිලධාරීන් සිව් දෙනකු මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇතැයි ශ්‍රේෂ්ඨාධිකරණය (ජනවාරි 31 වැනිදා) තීන්දු කරනු ලැබීය.
+Police Constable PDA, who served at the Kosgoda Police, as a revenge on the illegal influence of the drug charged.. Ambalangoda Assistant Superintendent UM. The Supreme Court (January 31) has decided that four police officers including Amarasiri have violated fundamental human rights.
 
-ඔහුගේ මූලික අයිතිවාසිකම් උල්ලංඝනය කිරීම සම්බන්ධයනේ එවකට අම්බලන්ගොඩ සහකාර පොලිස් අධිකාරී යූ.එම්.අමරසිරි , එවකට  කොස්ගොඩ පොලිසියේ ස්ථානාධිපති මංගල ද සොයිසා අමරසේකර, එම පොලිසියේ අපරාධ අංශය භාර ස්ථානාධිපති අසේල ප්‍රේමනාත් ද සිල්වා සහ පොලිස් සැරයන්  ඉන්දික ද සිල්වා යන නිලධාරීන්ට එක්ව සිය පෞද්ගලික මුදල් වලින් රුපියල් ලක්ෂ 20 ක් පෙත්සම්කරුට  ගෙවිය යුතු බවත් ශ්‍රේෂ්ඨාධිකරණය නියම කරනු ලැබීය.
+The then Ambalangoda Assistant Superintendent of Police in Ambalangoda ASP UM OIC Mangala Police OIC Mangala Police OIC Mangala Police OIC Mangala Police OIC Mangala Police OIC Mangala Police Amarasekera at the time, the OIC of the Police Asela Police Amarasekera and police serves to the police sergeant Indika de Silva is Rs.The Supreme Court was ordered to pay the petitioner.
+
+The compensation was to be completed within a six-month period from the day of the day (January 31) to be completed within a period of six months.
+
+Sri Lanka Police Human Rights Magistrates: Are the police officers to compensate Rs. 15 million to victims?
 
 ...
 
 [Data](articles/acf9d4f4.json)
+
+[Extended Data](ext_articles/acf9d4f4.ext.json)
 
 ---
 
@@ -1704,6 +1880,22 @@ Colombo, Feb 01 (Daily Mirror) - All liquor shops will be closed on Sunday (4) d
 
 ---
 
+### Sri Lankans deserve transparency, accountability during hard reforms: US envoy
+
+*2024-02-01 11:53:00* · [`economynextcom`](https://economynext.com/sri-lankans-deserve-transparency-accountability-during-hard-reforms-us-envoy-149528/) · `en`
+
+ECONOMYNEXT — While commitments agreed to under an ongoing International Monetary Fund (IMF) programme require Sri Lanka to carry out hard and unpopular reforms, the public deserve transparency and accountability from leaders, US ambassador Julie Chung said.
+
+Speaking at a American Chamber of Commerce CXO Forum in Colombo on Wednesday January 31, the ambassador said the commitments required by the IMF as part of its Extended Fund Facility programme call for government reform measures in both tax compliance and combatting corruption.
+
+“These are hard steps, and not always popular. Sri Lanka has taken difficult measures to put the country on a long-term sustainable footing and comply with the IMF commitments. But the people of Sri Lanka deserve and continue to demand openness, transparency, and accountability from their leaders as the process of reforms moves forward,” she said.
+
+...
+
+[Data](articles/25e955ac.json)
+
+---
+
 ### “It was neither protest nor rally”: Sarath Fonseka
 
 *2024-02-01 11:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/It-was-neither-protest-nor-rally-Sarath-Fonseka/108-276133) · `en`
@@ -1724,222 +1916,30 @@ The MP said some 8,000 people participated in the protest but ultimately it was 
 
 ---
 
-### Army calls for hospitals
+### Les Enfants Du Paradis – Part I
 
-*2024-02-01 11:26:40* · [`adalk`](https://www.ada.lk/breaking_news/රෝහල්වලට-හමුදාව-කැඳවයි/11-407839) · `si`
+*2024-02-01 11:40:50* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/les-enfants-du-paradis-part-i/) · `en`
 
-Armed Forces have been deployed to normalize the affected hospitals due to the strike commenced by the Health Trade Unions.
-
-Health Trade Unions have launched a continuing strike from 6.30 am today.
-
-Sri Lanka Hospitals, Karapitiya, Naam Podara, Badulla, Gampola, Nawaluwa, Badulla, Gampola, Mairigama, Badulla, Gampola, Meerigama, Badulla and Kegalle hospitals in Matara and 26 hospitals have been continuouslyA group of troops have been deployed.
-
-◼️
-
-[Data](articles/1fe2e63d.json)
-
-[Extended Data](ext_articles/1fe2e63d.ext.json)
-
----
-
-### Youth arrested with large numbers of drugs in Jaffna
-
-*2024-02-01 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175296) · `ta`
-
-A man who had owned drug pills was arrested by the police on Wednesday (01).
-
-Police said more than two thousand drugs were seized from the arrested person.
-
-Police said that the man was arrested in the area near the Jaffna city and is being held at the police station and is conducting further investigations.
-
-◼️
-
-[Data](articles/1a4f3d42.json)
-
-[Extended Data](ext_articles/1a4f3d42.ext.json)
-
----
-
-### Murugan, who suddenly jumped in fasting, Robert Bias
-
-*2024-02-01 11:16:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-உண்ணாவிரதத்தில்-குதித்த-முருகன்-ராபர்ட்-பயஸ்/175-332470) · `ta`
-
-Murugan and Robert Paes, who were detained at the Trichy special camp, have sent a letter to the Chief Minister of Tamil Nadu that they are going to engage in a hunger strike.
-
-“We have been acquitted by the Supreme Court almost a year ago as he has been jailed for more than 32 years in the murder of former Prime Minister Rajiv Gandhi.
-
-The law is released from the clutches of the law but has not yet been released from prison. Were imprisoned in another prison called Special Camp. Robert Paes, Jayakumar, Shantan and Murugan are also stuffed in a special camp in Trichy.
-
-The so -called special camp is more cruel than prison. I couldn't walk here or see friends.
-
-No permission is granted to get used to being in prisoners. Many diseases have been suffered from the day when the special camp is staying in the room for several months.
-
-No permission has been granted even though we have asked for permission to walk to correct our health. We are sick.
+The children in paradise. But whose children and in what paradise? In the country hyped as a paradise, the children in question are the offspring of the rich and privileged, which of course now mainly includes the corrupt politician class, and the paradise in question is the metropolis. By discussing the plight of marginalized children in the country, a plight  that most international and local child-protection organizations in the country choose to ignore, this essay begins by focusing on the plight of such children and goes on to argue that this plight is symptomatic of an enabling corrupt and morally bankrupt country that sustains these vile discriminatory practices.
 
 ...
 
-[Data](articles/24355da7.json)
-
-[Extended Data](ext_articles/24355da7.ext.json)
+[Data](articles/636f944c.json)
 
 ---
 
-### Republican lawmaker nominates Trump for Nobel Peace Prize for ‘historic’ Middle East policy
+### UN FAO’s two-part 37th regional conference commences in Sri Lanka
 
-*2024-02-01 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/96910/republican-lawmaker-nominates-trump-for-nobel-peace-prize-for-historic-middle-east-policy) · `en`
+*2024-02-01 11:37:00* · [`economynextcom`](https://economynext.com/un-faos-two-part-37th-regional-conference-commences-in-sri-lanka-149513/) · `en`
 
-A Republican lawmaker has nominated Donald Trump for a Nobel Peace Prize, citing his ‘historic’ policy in the Middle East.
+ECONOMYNEXT –A ‘senior officials meeting’ of a two-part high-level multilateral conference organised by the Food and Agriculture Organisation (FAO) of the United Nations (UN) commenced on Wednesday January 31 in Colombo, Sri Lanka, ahead of a ministerial session scheduled for February 19-22.
 
-New York representative Claudia Tenney said in a statement that she decided to nominate the former president for his role in the Abraham Accords treaty, which formally normalised relations between the United Arab Emirates, Bahrain and Israel.
+FAO said in a statement that its 37th Session of the Regional Conference for Asia and the Pacific (#APRC37) aims to transform the Asia-Pacific region’s agrifood systems, after multiple human and economic crises set back progress to achieving Sustainable Development Goals (SDGs), particularly those to end hunger and poverty and reduce inequalities (SDGs 2, 1, 10).
 
-‘Donald Trump was instrumental in facilitating the first new peace agreements in the Middle East in almost 30 years,’ she claimed in a statement posted on her website.
-
-‘For decades, bureaucrats, foreign policy ‘professionals’, and international organisations insisted that additional Middle East peace agreements were impossible without a resolution to the Israeli-Palestinian conflict. President Trump proved that to be false,’ she added.
+The organisation said that the event marks a major international, multilateral milestone in an effort to reform agrifood systems across the Asia-Pacific region, after years of pandemic, climate emergencies, volatile markets and economies that have negatively affected millions of producers, farmers, fishers, pastoralists and consumers.
 
 ...
 
-[Data](articles/13506505.json)
-
-[Extended Data](ext_articles/13506505.ext.json)
-
----
-
-### The Speaker signed the Ceremony Backup Act
-
-*2024-02-01 11:14:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிகழ்நிலை-காப்புச்-சட்டத்தில்-சபாநாயகர்-கையெழுத்திட்டார்/175-332469) · `ta`
-
-Speaker Mahinda Yapa Abeywardena has certified Mahinda Yapa Abeywardena's certificate of the Energy Security Bill approved by Parliament last week.
-
-Accordingly, Speaker Mahinda Yapa Abeywardena testified today (01) of the Celebration Bill, which was discussed in Parliament on January 23 and 24.
-
-Accordingly, the Bill is in effect as the Federation Act No. 9 of 2024.
-
-In addition, the Speaker testified with his signature on the National Water Resources Bill, which was passed on January 9, and the Amendment to the Parliament, and the Court of Justice, the Court of Justice, the Justice or the Institute of Justice.
-
-Meanwhile, these bills are being implemented as the National Water Resources Act No. 7 of 2024 and the Court of Appeal, No. 8 of 2024, is the law of contempt of law or company.
-
-◼️
-
-[Data](articles/466d551f.json)
-
-[Extended Data](ext_articles/466d551f.ext.json)
-
----
-
-### Online bill is on
-
-*2024-02-01 11:14:57* · [`adalk`](https://www.ada.lk/breaking_news/ඔන්ලයින්-පනත-ක්‍රියාත්මකයි/11-407838) · `si`
-
-After the debate in Parliament last January 23 and 24, Speaker Mahinda Yapa Abeywardena noted his certificate today (01) this morning.
-
-Accordingly, the Bill is effective as the security of the Online Schemes Act No. 9 of 2024.
-
-Insulting a judicial or institution to a judicial and January 10 on January 10 on January 10 on January 10 with amendments, with a amendments and January 10 on January 10 on January 10 on January 10 with amendments.
-
-◼️
-
-[Data](articles/8fde1c19.json)
-
-[Extended Data](ext_articles/8fde1c19.ext.json)
-
----
-
-### Even though we are released from the clutches of the law, we are still in prison;Murugan Robertbayas letter to Tamil Nadu Chief Minister - indefinite fasting!
-
-*2024-02-01 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175291) · `ta`
-
-Murugan Robert Robert Bias Akhiyor has sent a letter to the Chief Minister of Tamil Nadu that he is going to engage in an indefinite hunger strike claiming that rights and sentiments are being taken away in the Trichy special camp.
-
-“We have been acquitted by the Supreme Court almost a year ago as he has been jailed for more than 32 years in the murder of former Prime Minister Rajiv Gandhi.
-
-The law is released from the clutches of the law but has not yet been released from prison. Were imprisoned in another prison called Special Camp. Robert Bias Jayakumar and Shantan Murugan are also stuffed at a special camp in Trichy. The so -called special camp is more cruel than prison. I couldn't walk here or see friends.
-
-...
-
-[Data](articles/d569be20.json)
-
-[Extended Data](ext_articles/d569be20.ext.json)
-
----
-
-### Tourist arrivals over the million January
-
-*2024-02-01 11:02:59* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරියේ-සංචාරක-පැමිණීම-දෙලක්ෂය-ඉක්මවයි/11-407837) · `si`
-
-Tourist arrivals to the island have exceeded two million in January.Tourist arrivals to the island from the first to 30th of January have arrived in the island.
-
-More than 210,000 tourists arrived in December last year. The number of tourist arrivals to Sri Lanka for the second month, Sri Lanka has exceeded the two million.
-
-Sri Lanka has come to Sri Lanka in January. Thereafter it was Russia.
-
-◼️
-
-[Data](articles/7dffb35b.json)
-
-[Extended Data](ext_articles/7dffb35b.ext.json)
-
----
-
-### Sri Lanka records over 200,000 tourists arrivals in January
-
-*2024-02-01 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96909/sri-lanka-records-over-200000-tourists-arrivals-in-january) · `en`
-
-Sri Lanka has recorded over 200,000 tourist arrivals in January this year, according to the Sri Lanka Tourism Development Authority (SLTDA).
-
-As per official figures, a total of 201,687 tourists visited the island from 01 - 30 January, out of which more than 31,000 were Indian nationals, and over 28,000 were Russian nationals.
-
-Although a majority of the tourists were Russian and Indian nationals, as per SLTDA’s official figures, Germans, Americans, British, Australian, Chinese, French, Polish and Dutch tourists, too, were among those arrivals.
-
-Throughout 2023, Sri Lanka saw more than 1.48 million (1,487,303) tourist arrivals, with December recording the highest monthly figure which stood at 210,352.
-
-Meanwhile, 50,000 foreign tourists in total have visited the Lotus Tower within 16 months since it was declared open for the public in September 2022, said Major General (Retd.) Prasad Samarasinghe, the Director and CEO of Colombo Lotus Tower Management Company (Pvt) Ltd.
-
-...
-
-[Data](articles/49ed6b93.json)
-
-[Extended Data](ext_articles/49ed6b93.ext.json)
-
----
-
-### Your hands are accused of blood - social media companies
-
-*2024-02-01 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192827) · `si`
-
-International media reports that high level officials in the world have questioned the largest social media companies in the world yesterday (31).
-
-The Senate says that the Congress should be adopted as soon as possible to regulate those institutions.
-
-Senator, pointed out that the social media companies have failed to prevent their problems through the media network and that social media companies have failed to prevent it. "
-
-These facts were reported in a special committee examination convened by the American Senate.
-
-Its purpose is to look into matters of parents and mental health experts that social media companies do not have proper protection methods on the goals of profits.
-
-"Mr. Zurburg, you and companies in front of us. I know you don't think you didn't think so much ... but the blood of your hands was a blood.
-
-He told the Meta CEO Mark Zankarburg, "You have a product ... and it killed people ...".
-
-...
-
-[Data](articles/d6bb3a31.json)
-
-[Extended Data](ext_articles/d6bb3a31.ext.json)
-
----
-
-### Passport fees double
-
-*2024-02-01 10:57:25* · [`adalk`](https://www.ada.lk/breaking_news/පාස්පෝට්-ගාස්තු-ඩබල්-වෙයි/11-407836) · `si`
-
-The Department of Immigration and Emigration has taken measures to double the passports fees.
-
-Accordingly, the General Services Foreign Passport Fee (5,000) has been increased to Rs. 10,000.
-
-◼️
-
-[Data](articles/23115bb6.json)
-
-[Extended Data](ext_articles/23115bb6.ext.json)
+[Data](articles/22d4129b.json)
 
 ---

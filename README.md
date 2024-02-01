@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 03:50:19**
+As of **2024-02-02 04:02:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,217 (99.9%) of 4,221 articles have been extended.
+4,221 (100.0%) of 4,221 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The latest is what followed the International Court of Justice’s ruling on Jan
 
 [Data](articles/9ac88f51.json)
 
+[Extended Data](ext_articles/9ac88f51.ext.json)
+
 ---
 
 ### Being Used in a Nation that Forgets - EDITORIAL
@@ -59,6 +61,8 @@ State Minister, Sanath Nishantha died under tragic circumstances on January 25 (
 ...
 
 [Data](articles/d39cf3fa.json)
+
+[Extended Data](ext_articles/d39cf3fa.ext.json)
 
 ---
 
@@ -82,21 +86,27 @@ Q SriLankan Airlines is the most cash-strapped government institution at the mo
 
 [Data](articles/706887c3.json)
 
+[Extended Data](ext_articles/706887c3.ext.json)
+
 ---
 
-### ’சர்வஜன வாக்கெடுப்பு அவசியம்’
+### The referendum is essential
 
 *2024-02-02 02:13:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வஜன-வாக்கெடுப்பு-அவசியம்/175-332523) · `ta`
 
-பயங்கரவாத எதிர்ப்பு சட்ட மூலம் அரசியலமைப்புக்கு முற்றிலும் முரணாக இருப்பதால்,அதனை சட்டமாக்குவதற்கு பாராளுமன்றத்தில் மூன்றில் இரண்டு பெரும்பான்மையோடு, சர்வசன வாக்கெடுப்பும் அவசியம் என ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவர், சட்ட முதுமாணி ரவூப் ஹக்கீம், உயர்நீதிமன்றத்தில் செவ்வாய்க்கிழமை(30) வாதிட்டார்.
+Sri Lanka Muslim Congress leader Rauf Hakeem on Tuesday (30) argued in the Supreme Court that a two -thirds majority in Parliament is necessary to make it legal because it is completely contrary to the constitution by the anti -terrorism law.
 
-பயங்கரவாத எதிர்ப்புச் சட்டமூலத்தை (Anti Terrorism Bill)கேள்விக்குட்படுத்தி, ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் சார்பில் கட்சியின் செயலாளர் ஜனாதிபதி சட்டத்தரணி நிசாம் காரியப்பர் தாக்கல் செய்திருந்த SD.SC.No.27.24 இலக்க சிறப்பு நிர்ணய மனு(Special Determination Application) அன்றைய தினம் ,உயர் நீதிமன்றத்தில்  எடுத்துக் கொள்ளப்பட்டபோது, முஸ்லிம் காங்கிரஸ் தலைவர் சட்ட முதுமாணி ரவூப் ஹக்கீம் தாமாகவே வாதங்களை முன் வைத்தார் .
+The Muslim Congress leader was taken in the Supreme Court on the day of the SD.Sc.No.27.24, filed by the party's Secretary of State Attorney Nizam Kariyapper on behalf of the Sri Lanka Muslim Congress (SLMC) on the Anti Terrorism Bill.Mudumani Rauf Hakeem himself put the arguments.
 
-பிரதம நீதியரசர் ஜயந்த ஜயசூரிய தலைமையில் ,நீதியரசர்களான விஜித் மலல்கொட,ஏ.எச்.எம்.டீ.நவாஸ்,ஷிரான் குணரட்ண,அருண ஒபயசோசேகர ஆகிய ஐவர் அடங்கிய நீதியரசர் குழாம் முன்னிலையில் இந்த வழக்கு விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டது. வெவ்வேறு 36 மனுக்கள் தாக்கல் செய்யப்பட்டிருந்தன.
+The case was taken up in the presence of a panel of judges, headed by Chief Justice Jayantha Jayasuriya, Judges Vijith Malgoda, AHM Nawaz, Shiran Gunaratne and Aruna Obayososkera.. Different 36 petitions were filed.
+
+This proposed Bill is going to create a Poor Liz Kingdom. There is a risk of terrible and intimidation, and as a result of their mobilization of young people. When we get older, we have to leave a footpath in a way that can live with the law and live the good.
 
 ...
 
 [Data](articles/9a0b1189.json)
+
+[Extended Data](ext_articles/9a0b1189.ext.json)
 
 ---
 

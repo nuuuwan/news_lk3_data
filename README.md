@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 15:17:24**
+As of **2024-02-01 15:32:46**
 
 ## Newspaper Stats
 
-*Scraped **4,092** Articles*
+*Scraped **4,094** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 258
 adalk | 366
 virakesarilk | 455
 adaderanasinhalalk | 477
-adaderanalk | 512
+adaderanalk | 514
 tamilmirrorlk | 519
 dailymirrorlk | 557
 
@@ -26,63 +26,105 @@ dailymirrorlk | 557
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,079 (99.7%) of 4,092 articles have been extended.
+4,092 (100.0%) of 4,094 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
 
-### පාර්ලිමේන්තුවෙන් දැනුම්දීමක්
+### Foreign travel ban imposed on Minister Keheliya, ordered to appear before CID
+
+*2024-02-01 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96918/foreign-travel-ban-imposed-on-minister-keheliya-ordered-to-appear-before-cid) · `en`
+
+Maligakanda Magistrate has ordered former Health Minister Keheliya Rambukwella to appear before the Criminal Investigation Department (CID) tomorrow (Feb.02).
+
+Further, Rambukwella’s overseas travels have been temporarily barred on the orders of the magistrate.
+
+◼️
+
+[Data](articles/69713575.json)
+
+---
+
+### Bus unions demand fare hike after fuel price revision; Tuk-Tuk fares to remain unchanged
+
+*2024-02-01 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/96917/bus-unions-demand-fare-hike-after-fuel-price-revision-tuk-tuk-fares-to-remain-unchanged) · `en`
+
+The private bus owners’ associations have stressed that immediate measures should be taken to increase the bus fares in correspondence to the continuous increasing of fuel prices.
+
+Commenting regarding the matter, the chief secretary of the All-Ceylon Private Bus Owners’ Association, Anjana Priyanjith said: “Earlier, the price of diesel was raised by Rs. 29 per litre, and then the relevant prices were increased again by Rs. 05 yesterday. Therefore, the bus fares must be increased”.
+
+Meanwhile, the President of the Lanka Private Bus Owners’ Association (LPBOA) Gemunu Wijeratne expressed that they will take measures to increase the bus fares within the next two weeks.
+
+“The minimum bus fare will be increased up to at least Rs. 35 at the time. We will increase the fares even by force”, Wijeratne added.
+
+...
+
+[Data](articles/322cb98e.json)
+
+---
+
+### Notice from parliament
 
 *2024-02-01 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192837) · `si`
 
-මෙරට 09 වන පාර්ලිමේන්තුවේ 5 වන සැසිවාරය එළඹෙන 07 වනදා ඇරඹෙන බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව නිවේදනයක් නිකුත් කරමින් පවසයි.
+The Department of Parliament said that the 5th session of the 9th Parliament of Sri Lanka will commence on the 7th.
 
-එහිදී උදෑසන 10.30 ජනපතිගේ ප්‍රධානත්වයෙන් එම සැසිවාරය උත්සවාකාරයෙන් පැවැත්වෙනු ඇත.
+The session will be held under the patronage of President Mahinda Rajapaksa.
 
-එදින ජනපති විසින් ඉදිරිපත් කරනු ලබන රජයේ ප්‍රතිපත්ති ප්‍රකාශය සම්බන්ධයෙන් සභාව කල්තැබීමේ අවස්ථාවේ විවාදය පැවැත්වෙන දින සම්බන්ධයෙන් ද එම නිවේදනයේ සඳහන් වෙයි.
+The statement also states the debate on the time of postponement regarding the government's government's policy statement on the President.
 
-එහි දැක්වෙන්නේ එම විවාදය පෙබරවාරි 08 වනදා සහ 09 වනදා උදෑසන 9.30සිට පස්වරු 5.30 දක්වා පැවැත්වීමට කථානායකවරයාගේ ප්‍රධානත්වයෙන් අද පැවති විශේෂ පක්ෂ නායක රැස්වීමකදී තීරණය කළ බවයි.
+The debate has been decided at a special party leaders meeting held from 9.30 am and 9.30 pm on the 9th.
 
 ◼️
 
 [Data](articles/3e8a9553.json)
 
+[Extended Data](ext_articles/3e8a9553.ext.json)
+
 ---
 
-### හරක් කටා ගේ පෙත්සම විභාගයට ගැනීමට අවසර
+### Better permission to take the examination
 
 *2024-02-01 14:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192836) · `si`
 
-නදුන් චින්තක වික්‍රමරත්න හෙවත් හරක් කටා නැමැත්තාට එරෙහිව ත්‍රස්තවාදය වැළැක්වීමේ පනත යටතේ කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවේ ගොනුකර තිබෙන නඩුව බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සමක් විභාගයට ගැනීමට අභියාචනාධිකරණය අද (01) අවසර ලබාදුන්නේය.
+The Court of Appeal was issued today (01) to hear a petition filed by the Troubleshop Prevention of the Terrorism Council under the Prevention of the Terrorism Act.
 
-මේ වනවිට ඔහුව අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුව භාරයේ රඳවා ගෙන සිටියි.
+He is currently being held in the custody of the CID.
 
-මෙම පෙත්සම සම්බන්ධයෙන් ලබන 16 වනදා අධිකරණය හමුවේ කරුණු දක්වන ලෙස දන්වා එහි වගඋත්තරකරුවන් වශයෙන් නම් කර සිටි මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස්, වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන්, අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂවරයා ඇතුළු පිරිසකට අධිකරණය විසින් නොතිසි ද නිකුත් කළේය.
+The court issued notice to the respondents, acting IGP Deshanayake Tennakoon, Director of the Criminal Investigation Department (CID).
 
-හරක් කටා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාපා ඉදිරිපත් කළ කරුණු සලකාබැලීමෙන් අනතුරුව අභියාචනාධිකරණ විනිසුරු ඩී. එන්. සමරකෝන් විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+Court of Appeal DS Jayawardena, who appeared for the beef. N. This order was issued by Samarakoon.
+
+The Criminal Investigation Department (CID) stated that the Criminal Investigations Department (CID) has reportedly reported the Criminal Investigation Court under the Criminal Investigation Unit of the Criminal Investigation Act.
+
+President's Counsel Faizer Mustapha claimed that there was no legal base against the Prevention of Terrorism Act, said that the case would be completely contrary to the law.
 
 ...
 
 [Data](articles/8d7eaf3e.json)
 
+[Extended Data](ext_articles/8d7eaf3e.ext.json)
+
 ---
 
-### බස් සංගම් හදිසියේම අමාත්‍යංශයට යයි
+### Bus societies suddenly headed to Ministry
 
 *2024-02-01 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192835) · `si`
 
-ඉන්ධන මිල සංශෝධනය කිරීම හේතුවෙන් මතුවී ඇති ගැටලු සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා බස් සංගම් නියෝජිතයින් පිරිසක් ප්‍රවාහන අමාත්‍යංශය ගොස් තිබේ.
+The Ministry of Use Association has gone to discuss issues due to the revision of the fuel price.
 
-එහිදී එම නියෝජිතයින් සහ ප්‍රවාහන අමාත්‍යංශයේ ලේකම් රංජිත් රූපසිංහ මහතා අතර සාකච්ඡාවක් සෙත්සිරිපාය ප්‍රවාහන අමාත්‍යාංශයේදී පැවැත්වුණි.
+The Sethsiripaya was held at the Ministry of Transport Ranjith Rupasinghe.
 
-එහිදී බස් සංගම් නියෝජිතයින් ප්‍රකාශකර ඇත්තේ අවම බස් ගාස්තුවේ සිට අනෙකුත් ගාස්තු ද වැඩිවිය යුතු බවයි.
+The bus union representatives have stated that the minimum bus fare should be increased from the minimum bus fare.
 
-එසේම එම ගාස්තු සංශෝධනය පෙබරවාරි 15 වනදා ට පෙර ක්‍රියාත්මක කළ යුතු බවත් ඔවුන් දැනුම්දුන් බව අප වාර්තාකරු පැවසීය.
+The revision should be implemented before February 15, our correspondent said.
 
 ◼️
 
 [Data](articles/50aade1f.json)
+
+[Extended Data](ext_articles/50aade1f.ext.json)
 
 ---
 
@@ -97,6 +139,8 @@ He said that hosting the ICC AGM will significantly boost Sri Lanka's cricketing
 ◼️
 
 [Data](articles/1f029885.json)
+
+[Extended Data](ext_articles/1f029885.ext.json)
 
 ---
 
@@ -120,35 +164,39 @@ Rambukwella was due to appear before the CID yesterday, however had failed to do
 
 ---
 
-### CIDය ඉදිරිපිට විරෝධතා පැවැත්වූ පිරිසට අධිකරණය දුන් නියෝගය
+### Court of court order to protest in front of CID
 
 *2024-02-01 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192834) · `si`
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඉදිරිපිට විරෝධතාවයක් සිදුකරමින් සිටියදී අත්අඩංගුවට ගත් සිවිල් ක්‍රියාකාරීන් 10 දෙනාට ඇප ලබා දී තිබේ.
+The 10 civilian activists arrested while protest in front of the Criminal Investigations Department (CID) were bailed.
 
-ඒ අද ඔවුන් කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුවය.
+It was after them after they were produced before the Fort Magistrate's Court.
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා අත්අඩංගුවට ගන්නැයි බලකරමින් ඔවුන් මෙලෙස CIDය ඉදිරිපිට විරෝධතාවයක නිරතව සිටියදී පොලීසිය විසින් අත්අඩංගුවට ගනු ලැබීය.
+The police were arrested while he was protesting in front of the CID to force the CID to arrest former Health Minister Keheliya Rambukwella.
 
 ◼️
 
 [Data](articles/fcc6bb50.json)
 
+[Extended Data](ext_articles/fcc6bb50.ext.json)
+
 ---
 
-### දෙමටගොඩ රුවන්ගේ බිරිඳ, පුතා හා සහෝදරිය අත්අංඩංගුවට
+### Dematagoda Ruwan's wife, son and sister Handawa
 
 *2024-02-01 14:18:07* · [`adalk`](https://www.ada.lk/breaking_news/දෙමටගොඩ-රුවන්ගේ-බිරිඳ--පුතා-හා-සහෝදරිය-අත්අංඩංගුවට/11-407852) · `si`
 
-බන්ධනාගාර ගතව සිටින සංවිධානාත්මක අපරාධකරුවෙකු වන චමිල රුවන් ප්‍රසන්න නොහොත් දෙමටගොඩ  රුවන් නමැත්තාගේ බිරිඳ පුතා සහ සහෝදරියක් නීති විරෝධී වත්කම් විමර්ශන කොට්ඨාසය මගින් අත්අඩංගුවට ගෙන ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය
+Chamila Ruwan Prasanna, Dia-Dia-Dia-Asset Division, has been arrested by a son and sister, a son of Dematagoda, who is in prison
 
-සැකකරු හා සැකකාරියක් අත්අඩංගුවට ගෙන ඇත්තේ දෙමට ගොඩ  වේළුවන  පාර නිවසේදීය'
+The suspect and a suspect were arrested at the time of the forest residence
 
-දෙමටගොඩ රුවන් නමැත්තා විසින් නීති විරෝධීව උපයා ගන්නා ලද  රුපියල් කෝටි දහයකට අධික දේපළ    දේපළ ඔවුන්ගේ නමින් මිලදී  ගැනීම යන චෝදනාව යටතේ  ය.
+Dematagoda Ruwan was charged with the allegation of over Rs.
 
 ◼️
 
 [Data](articles/09890a84.json)
+
+[Extended Data](ext_articles/09890a84.ext.json)
 
 ---
 
@@ -170,65 +218,79 @@ The March 12 Movement further accused the government of violating the “constit
 
 ---
 
-### දෙමටගොඩ රුවන්ගේ බිරිඳ, පුතා හා සහෝදරිය අත්අංඩංගුවට
+### Dematagoda Ruwan's wife, son and sister Handawa
 
 *2024-02-01 14:17:48* · [`adalk`](https://www.ada.lk/breaking_news/දෙමටගොඩ-රුවන්ගේ-බිරිඳ--පුතා-හා-සහෝදරිය-අත්අංඩංගුවට/11-407851) · `si`
 
-බන්ධනාගාර ගතව සිටින සංවිධානාත්මක අපරාධකරුවෙකු වන චමිල රුවන් ප්‍රසන්න නොහොත් දෙමටගොඩ  රුවන් නමැත්තාගේ බිරිඳ පුතා සහ සහෝදරියක් නීති විරෝධී වත්කම් විමර්ශන කොට්ඨාසය මගින් අත්අඩංගුවට ගෙන ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය
+Chamila Ruwan Prasanna, Dia-Dia-Dia-Asset Division, has been arrested by a son and sister, a son of Dematagoda, who is in prison
 
-සැකකරු හා සැකකාරියක් අත්අඩංගුවට ගෙන ඇත්තේ දෙමට ගොඩ  වේළුවන  පාර නිවසේදීය'
+The suspect and a suspect were arrested at the time of the forest residence
 
-දෙමටගොඩ රුවන් නමැත්තා විසින් නීති විරෝධීව උපයා ගන්නා ලද  රුපියල් කෝටි දහයකට අධික දේපළ    දේපළ ඔවුන්ගේ නමින් මිලදී  ගැනීම යන චෝදනාව යටතේ  ය.
+Dematagoda Ruwan was charged with the allegation of over Rs.
 
 ◼️
 
 [Data](articles/2e499898.json)
 
+[Extended Data](ext_articles/2e499898.ext.json)
+
 ---
 
-### Visa Accelerator - 2024 සඳහා අයදුම්පත් කැඳවයි
+### Applications called for Visa Accelerator - 2024
 
 *2024-02-01 14:16:50* · [`adalk`](https://www.ada.lk/business/Visa-Accelerator---2024-සඳහා-අයදුම්පත්-කැඳවයි/7-407849) · `si`
 
-ඩිජිටල් ගෙවීම්වල ගෝලීය ප්‍රමුඛයා වන Visa සමාගම, "Visa Accelerator" වැඩසටහනේ සිව්වැනි අදියර දියත් කිරීම සඳහා අයැදුම්පත් කැඳවන බව අද දින නිවේදනය කළේය. ශ්‍රී ලංකාවේ Fintech  ක්ෂේත්‍රයේ startups ආයතන සඳහා Visa සමාගමේ ගෙවීම් කටයුතු පිලිබඳ විශේෂඥයින් සමඟ කටයුතු කිරීමට අවස්ථාව ලබාදී එම ආයතනවල දැනුම වර්ධනය කිරීම මෙම වැඩසටහනේ අරමුණවේ. Visa Accelerator 2024 වැඩසටහන තුලින් කෘත්‍රිම බුද්ධිය (AI), ගෝලීය මුදල් චලනය සහ Loyalty of the Future, (අනාගත පක්ෂපාතිත්වය) , ක්ෂුද්‍ර, කුඩා හා මධ්‍ය පරිමාණ ව්‍යාපාර සඳහා digital භාවිතය සහ Embedded Finance වැනි නව ක්ෂේත්‍ර කෙරෙහි අවධානය යොමු කරනු ලැබේ.
+Today, the global leader of digital payments VISA announced today to launch the fourth phase of the VISA ACCEEEERERERATOR. The program is the objective of enhancing the knowledge of these institutions to deal with VISA's payment experts for Startups Institutions in Sri Lanka.. The Visa ACcelerator 2024 program, artificial intelligence (AI), global cash and loyalty, is focused on new fields such as digital use and empedded finance.
 
-මෙම වැඩසටහන දියත් කිරීම පිළිබඳව අදහස් දක්වමින් Visa ශ්‍රී ලංකා සහ මාලදිවයින හි දේශීය කළමනාකරු අවන්ති කොළඹගේ මහත්මිය පැවසුවේ, රටෙහි ඉදිරියට එන ගෙවීම් නවෝත්පාදනයන්ට Visa Accelerator වැඩසටහන හරහා ඔවුන්ගේ විසඳුම් බලගැන්වීම සඳහා ආරාධනා කිරීමට හැකිවීම පිළිබඳව සතුටු වන බවයි.
+Commenting on the launch of the program, Ms. Avanthi Sri Lanka and Maldivines said Ms. Ms. Avanthi Colombo's in invitation to invite them to envoy their solutions through the Visa Accoletor program.
+
+This program gives us a unique opportunity to work with our experts to improve and test the solutions of Startups in the Fintachs industry. She also said that our aim is to introduce new solutions to global payments by enabling the navigation of cash navigation via positive payment experiences.
 
 ...
 
 [Data](articles/b751fcef.json)
 
+[Extended Data](ext_articles/b751fcef.ext.json)
+
 ---
 
-### නිදහස් දා එමිරේට්ස් කොළඹ විවේකාගාරයේ උත්සව ප්‍රීතියක්
+### Emirates released festivals in Colombo lounge
 
 *2024-02-01 14:16:00* · [`adalk`](https://www.ada.lk/business/නිදහස්-දා-එමිරේට්ස්-කොළඹ-විවේකාගාරයේ-උත්සව-ප්‍රීතියක්/7-407848) · `si`
 
-ලොව විශාලතම ජාත්‍යන්තර ගුවන් සේවය වන එමිරේට්ස්, පෙබරවාරි 04 වැනි දින ශ්‍රී ලංකාවේ 76වැනි නිදහස් දිනය සැමරීම උදෙසා සිය ගුවන් මගීන්ට සූපශාස්ත්‍ර උපහාරයක් ලබාදීමට කටයුතු යොදා තිබේ.
+Steps will be taken to provide a culinary tribute to the passengers to commemorate the 76th Independence Day of Sri Lanka on February 4, the largest international carrier in the world.
 
-බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළෙහි පිහිටි එමිරේට්ස් මගී විවේකාගාරය අලංකාර කර මෙම උත්සවය සමරනු ලබයි. මෙහිදී පළමු සහ ව්‍යාපාරික පන්තියේ මගීන්ට සම්ප්‍රදායික උත්සව රසකැවිලි සහ උණුසුම් දේශීය ආහාර වේලක් පිරිනැමීමට කටයුතු යොදා ඇත.
+Emirates decorates the Emirates Passenger Lost at Bandaranaike International Airport and celebrates the event. The first and business class passengers will be offered to a traditional ceremony and warm local meal.
 
-උදෑසන ගුවන් ගමන් ආරම්භ කිරීමට පෙර මගී විවේකාගාරයට පැමිණෙන එමිරේට්ස් මගීන්ට ආස්මි සහ වැලි තලප වැනි දේශීය ශ්‍රී ලාංකීය ප්‍රණීත ආහාරවලින් තම උදෑසන ආහාරය මිහිරි කළ හැකිය. පසුව එදිනම එමිරේට්ස් මගී විවේකාගාරය විසින් දිවා ආහාරය සඳහා කහබත් සමග කජු ව්‍යංජන, මාළු ඇඹුල් තියල්, පොළොස්, බටු මෝජු, වැනි රසවත් ශ්‍රී ලාංකේය දිවා භෝජන සංග්‍රහයක් සමග පාරිභෝගිකයන් සතුටු කරනු ඇත.
+Emirates passengers who come to the passenger restroom before starting the morning flight. The Emirates Passenger rest will deliver customers with a tasty Sri Lankan bunge, such as cashew bar, fish, poten, and mugge.
+
+The Emirates Passenger restroom at the Bandaranaike International Airport was opened in June 2012, while the first and business class passengers and airline passenger passengers' award winning program, the selected layers of the selected layers of the selected layers, the selected layers were for the use of the selected layers.
 
 ...
 
 [Data](articles/747e253e.json)
 
+[Extended Data](ext_articles/747e253e.ext.json)
+
 ---
 
-### සෙරන්ඩිබ් අධිශක්ති කෝලම් රටා තරගය උත්සවාකාරයෙන්
+### Serendhiberthi Kolame Pattern Ceremonial
 
 *2024-02-01 14:15:02* · [`adalk`](https://www.ada.lk/business/සෙරන්ඩිබ්-අධිශක්ති-කෝලම්-රටා-තරගය-උත්සවාකාරයෙන්/7-407847) · `si`
 
-'වතුකරයේ තෛපොංගල් සැමරුම' යන තේමාව යටතේ වතුකර ජනතාවගේ පවුල්, ආහාර සහ විවිධ විචිත්‍රාංග මූලික කරගනිමින්ද, ඔවුන්ගේ සංස්කෘතිය විදහා දක්වමින්ද මෙම උත්සවය සංවිධානය වූයේ සෙරන්ඩිබ් ෆ්ලා මිල්ස් සහ වැවිලි මානව සංවර්ධන භාරය (PHDT) අතර සහයෝගීත්වයෙනි.
+The event was organized by the Severant People's Family, Food and Various Varieties, demonstrating their culture, demonstrating their culture under the theme of the estate Thaipongal Celebrations.
 
-නුවරඑළිය රදැල්ල ක්‍රිකට් සමාජයේදී සහ හැටන් PHDT පුහුණු මධ්‍යස්ථානයේදී මෙම උත්සවය පැවති අතර, වතු ආශ්‍රිත විවිධ කණ්ඩායම්වල කාන්තාවන් 200කට අධික පිරිසක් මේ සඳහා සහභාගී විය. මෙහිදී ඔවුන් විසින් සෙරන්ඩිබ් හි ‘අධි ශක්ති’ සන්නාමය ඇතුළත් කරමින් අලංකාර සහ වර්ණවත් ‘කෝලම්’ චිත්‍ර රටානිර්මාණය කරමින් සිය නිර්මාණාත්මක හැකියාවන් ප්‍රදර්ශනය කරනලදී. වතු ප්‍රජාවගේ පෝෂණ අවශ්‍යතා සපුරාලීම සඳහා අධිශක්ති නමින් සෙරන්ඩිබ් ෆ්ලා මිල්ස් විසින් නවතම නිෂ්පාදනයක් මීට පෙර හඳුන්වාදෙන ලදී.
+The ceremony was held at the Nuwara Eliya cricket club and at Hatton PHDT training center, and over 200 women participated in this event. Here they exhibited their creative talents in Serendib's 'hyper energy' brand. Serendib Fla. Mills had previously launched a new product by Suprosite to meet the plantation community.
 
-හොඳම කෝලම් රටා නිර්මාණ තුන සඳහා සහතිකපත් සහ ආකර්ෂණීය මුදල් ත්‍යාග සෙරන්ඩිබ් ආයතනය විසින් පිරිනමන ලදී. නුවරඑළිය ප්‍රදේශයේ පැවැති තරගයෙන් පළමු වැනි ස්ථානය තලවාකැලේ තේවතු සමාගමද, දෙවැනි ස්ථානය හැටන් වැවිලි සමාගමද, තුන්වැනි ස්ථානය ආගරපතන තේ වතු සමාගමද දිනාගන්නා ලදී.
+Certificates and Exciting Money Rewards for the top three patterns ranges were offered by Serendib. The Kalvankagama Plantation Company, Talawakens, Vidyalaya and Thalawanu Plantation Company also won the second place in Nuwara Eliya.
+
+Kotagala Tea plantation company, Hatton Tea Plantation Company and Bogawantalawa tea estate was also won in Hatton Colombo match.
 
 ...
 
 [Data](articles/e287ddba.json)
+
+[Extended Data](ext_articles/e287ddba.ext.json)
 
 ---
 
@@ -504,19 +566,21 @@ All liquor stores will be closed on Sunday (04) to mark the 76th Independence Da
 
 ---
 
-### පාසල් ළමුන් ප්‍රවාහන ගාස්තු ‘අකමැත්තෙන්’ වැඩි කරයි
+### Schoolchildren increases 'reluctant'
 
 *2024-02-01 12:06:30* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-ළමුන්-ප්‍රවාහන-ගාස්තු-‘අකමැත්තෙන්’-වැඩි-කරයි/11-407840) · `si`
 
-ඉන්ධන මිල වැඩිවීම හමුවේ මේ මාසයේ (පෙබරවාරි)සිට පාසල් ළමයි ප්‍රවහන ගාස්තු ඉහළ දැමීමට සිය සංගමය අද(1) පෙරවරුවේදී තීරණය කළ බව සමස්ත ලංකා අන්තර් පළාත් පාසල් ළමයි ප්‍රවාහන සේවා සංගමය කියයි.
+All-Lanka Inter-Provincial School Children's School Children's Children's Office Transport Association (DMC) says its association has decided to increase the transportation charges from this month (February 1).
 
-ඒ අනුව කෙටි දුර ධාවනය සදහා ප්‍රවාහන ගාස්තුව සියයට දහයක උපරිමයකින් හා දිගු දුර සියයට පහළවකින් ඉහළ දැමීමට සිය සංගමය අකමැත්තෙන්වුවද තීරණය කළ බව සමස්ත ලංකා අන්තර් පළාත් පාසල් ළමයි ප්‍රවාහන සේවා සංගමයේ සභාපති රුවන් ප්‍රසාද් මහතා කීවේය.
+The All Island Inter-Provincial School Children's Office of Transport Association Mr. Ruwan Prasad said he decided to increase the transportation fees for a short distance and to increase the transportation fees and the long distance.
 
-ඒ මහතා එසේ කීවේ ඉන්ධන මිල ඉහල දැමීමෙන් පාසල් ප්‍රවාහන ගාස්තු ඉහළ දැමීම සම්බන්ධයෙන් අද(1) උදේ අම්බලන්ගොඩ පැවති මාධ්‍ය හමුවකදීය.
+He said so at a press conference held in Ambalangoda this morning regarding the increase of fuel prices.
 
 ◼️
 
 [Data](articles/82c5d6dc.json)
+
+[Extended Data](ext_articles/82c5d6dc.ext.json)
 
 ---
 
@@ -718,19 +782,21 @@ Meanwhile, these bills are being implemented as the National Water Resources Act
 
 ---
 
-### ඔන්ලයින් පනත ක්‍රියාත්මකයි
+### Online bill is on
 
 *2024-02-01 11:14:57* · [`adalk`](https://www.ada.lk/breaking_news/ඔන්ලයින්-පනත-ක්‍රියාත්මකයි/11-407838) · `si`
 
-පසුගිය ජනවාරි 23 සහ 24 දෙදින පාර්ලිමේන්තුවේ විවාද කිරීමෙන් අනතුරුව සංශෝධන සහිතව සම්මත කරනු ලැබූ මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පතට  අද (01) කථානායක මහින්ද යාපා අබේවර්ධන මහතා සිය සහතිකය සටහන් කළේය.
+After the debate in Parliament last January 23 and 24, Speaker Mahinda Yapa Abeywardena noted his certificate today (01) this morning.
 
-ඒ අනුව මෙම පනත් කෙටුම්පත 2024 අංක 9 දරන  මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ  පනත ලෙස බලාත්මක වේ.
+Accordingly, the Bill is effective as the security of the Online Schemes Act No. 9 of 2024.
 
-එමෙන්ම පාර්ලිමේන්තුවේ විවාද කොට සංශෝධන සහිතව ජනවාරි 09 දින  සම්මතවූ  ජාතික ජලශාස්ත්‍රීය සහ ජනවාරි මස  10 වැනි දින  සම්මතවූ  අධිකරණයකට, විනිශ්චය අධිකාරයකට හෝ ආයතනයකට අපහාස කිරීම පනත් කෙටුම්පත් ද්විත්වයට ද  මෙහිදී  කථානායකවරයාගේ සහතිකය හිමිවිය.
+Insulting a judicial or institution to a judicial and January 10 on January 10 on January 10 on January 10 with amendments, with a amendments and January 10 on January 10 on January 10 on January 10 with amendments.
 
 ◼️
 
 [Data](articles/8fde1c19.json)
+
+[Extended Data](ext_articles/8fde1c19.ext.json)
 
 ---
 
@@ -2015,51 +2081,5 @@ Recent indicators suggest that economic activity has been expanding at a solid p
 [Data](articles/05b063e6.json)
 
 [Extended Data](ext_articles/05b063e6.ext.json)
-
----
-
-### Health strike begins
-
-*2024-02-01 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192817) · `si`
-
-According to the National Movement of Health Professionals (01), 72 health care societies will commence today.
-
-They recently engaged in various trade union action asking for the doctors to increase the Dat allowance that was decided to increase Rs. 35,000.
-
-Authorities agreed to discuss their demands and agree to solutions, but it has not been solved.
-
-The Convener of the Movement Ravi Ravi Kudmith said that the health staff on the island is launched from 6.30 am.
-
-However, the President of the All Ceylon Nursing Union is not joining the strike.
-
-Meanwhile, the General Secretary of the Joint Health Services Union Suralmananda said that the strike is not a strike on a just cause.
-
-◼️
-
-[Data](articles/b5c418f1.json)
-
-[Extended Data](ext_articles/b5c418f1.ext.json)
-
----
-
-### Heavy rains in several areas
-
-*2024-02-01 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192816) · `si`
-
-Several spells of showers may occur in the Eastern and Uva provinces, Mullaitivu, Matale and Polonnaruwa districts.
-
-At the rest of the island. Showers or thundershowers will occur at several places about 2.00.
-
-Some locations in the Central and Sabaragamuwa Province and in some places in the Galle and Matara Districts. Heavy rains can occur about 75 times.
-
-In some places in the Central and Sabaragamuwa Province, some locations are expected in the morning in some places in the Galle and Matara districts.
-
-Minimizing temporary winds and lightning accidents with thunderstorms
-
-◼️
-
-[Data](articles/4f7d5c70.json)
-
-[Extended Data](ext_articles/4f7d5c70.ext.json)
 
 ---

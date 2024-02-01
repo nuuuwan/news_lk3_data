@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 00:17:20**
+As of **2024-02-02 00:32:51**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 577
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,210 (99.9%) of 4,215 articles have been extended.
+4,215 (100.0%) of 4,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
 
-### சிறைச்சாலைக்குள் வீசப்பட்ட மர்ம பொதி
+### The mysterious package thrown into the prison
 
 *2024-02-01 23:46:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைச்சாலைக்குள்-வீசப்பட்ட-மர்ம-பொதி/175-332521) · `ta`
 
-மாத்தறை சிறைச்சாலைக்குள் போதைப்பொருள் மற்றும் தடைசெய்யப்பட்ட ஏனைய பொருட்களை வீசிய குற்றச்சாட்டில் ஒருவர் கைது செய்யப்பட்டதாக சிறைச்சாலை ஆணையாளர் காமினி பி. திஸாநாயக்க தெரிவித்தார்.
+Prison Commissioner Gamini B. Dissanayake said.
 
-மோட்டார் சைக்கிளில் வந்த இருவர் வீதியில் இருந்து சிறைக்குள் குறித்த பொதியை வீசியதை சிறைச்சாலை அலுவலக அதிகாரிகள் பார்த்துள்ளனர்.
+Prison office officials have seen two men on a motorbike thrown a package into the jail from the road.
 
-சிறைச்சாலைக்குள் வீசப்பட்ட பொதியில் ஐஸ் மற்றும் ஹெரோயின் போதைப்பொருள், சிம் கார்ட் ஒன்று, லைட்டர்கள் இரண்டு மற்றும் கையடக்கத் தொலைபேசி பேட்டரிகள் இரண்டும் 10 சிகரெட்டுகள் காணப்பட்டதாக அதிகாரிகள் கூறினர்.
+Officials said that 10 cigarettes were found in the package thrown into the jail, ice and heroin, one SIM card, two lighters and two mobile phone batteries.
 
-கைது செய்யப்பட்ட நபர் மற்றும் தடை செய்யப்பட்ட பொருட்கள் மேலதிக சட்ட நடவடிக்கைகளுக்காக மாத்தறை தலைமையக பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளதாகவும், சம்பவம் தொடர்பில் மாத்தறை சிறைச்சாலை விசாரணைகளை ஆரம்பித்துள்ளதாகவும் சிறைச்சாலை ஆணையாளர் காமினி பி. திஸாநாயக்க மேலும் தெரிவித்தார். R
+Prison Commissioner Gamini B.. Dissanayake added. Remble
 
 ◼️
 
 [Data](articles/99a787b1.json)
+
+[Extended Data](ext_articles/99a787b1.ext.json)
 
 ---
 
@@ -62,23 +64,27 @@ Joseph Stalin of the Union said that although a special allowance of Rs. 2,000 p
 
 [Data](articles/988b5bb0.json)
 
+[Extended Data](ext_articles/988b5bb0.ext.json)
+
 ---
 
-### ஜனாதிபதியின் வீட்டுக்கு தீ வைத்தவர் அதிரடி கைது
+### Action arrested for setting fire to president's house
 
 *2024-02-01 23:29:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-வீட்டுக்கு-தீ-வைத்தவர்-அதிரடி-கைது/175-332520) · `ta`
 
-கோட்டாபய அரசாங்கத்திற்கு எதிராக முன்னெடுக்கப்பட்ட போராட்டத்தின் போது தற்போதைய ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வீட்டிற்கு தீ வைத்த சம்பவத்துடன் தொடர்புடையதாக கூறப்படும் சந்தேக நபர் ஒருவரை குற்றப்புலனாய்வு திணைக்கள அதிகாரிகள் கைது செய்துள்ளனர்.
+Criminal Investigation Department officials have arrested a suspect in connection with the incident of the current President Ranil Wickremesinghe's house during the protest against the Gotabhaya government.
 
-பொலிஸ் ஊடகப்பேச்சாளர், சிரேஷ்ட பொலிஸ் அத்தியட்சகர், சட்டத்தரணி நிஹால் தல்துவ இதை தெரிவித்தார்.
+Police Media Spokesperson, Senior Superintendent of Police, Attorney Nihal Dalduwa said this.
 
-கொட்டதெனிய பிரதேசத்தை சேர்ந்த 30 வயதுடைய ஒருவரே இவ்வாறு கைது செய்யப்பட்டதாக அவர் தெரிவித்தார்.
+He said that a 30 -year -old man from Kotadeniya was arrested.
 
-கைது செய்யப்பட்ட சந்தேக நபர் தனியார் நிறுவனமொன்றில் பணிபுரிபவர் எனவும் குறிப்பிட்டார். R
+The arrested suspect also noted that he was working in a private company. Remble
 
 ◼️
 
 [Data](articles/01a2072a.json)
+
+[Extended Data](ext_articles/01a2072a.ext.json)
 
 ---
 
@@ -1039,6 +1045,8 @@ ECONOMYNEXT – Sri Lanka’s central bank said C Amarasekara, W A Dilrukshini, 
 ...
 
 [Data](articles/5b189ff6.json)
+
+[Extended Data](ext_articles/5b189ff6.ext.json)
 
 ---
 

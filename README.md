@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 21:51:39**
+As of **2024-02-01 22:03:06**
 
 ## Newspaper Stats
 
-*Scraped **4,197** Articles*
+*Scraped **4,199** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 258
 newsfirstlk | 265
 adalk | 378
 virakesarilk | 465
-adaderanasinhalalk | 498
+adaderanasinhalalk | 500
 adaderanalk | 524
 tamilmirrorlk | 535
 dailymirrorlk | 571
@@ -26,11 +26,55 @@ dailymirrorlk | 571
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,193 (99.9%) of 4,197 articles have been extended.
+4,199 (100.0%) of 4,199 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### Petition against a Cabinet Decision
+
+*2024-02-01 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192863) · `si`
+
+Sri Lanka Insurance Society General Secretary General of the Commonwealth Insurance Union, the General Secretary of the Sri Lanka Insurance Union, has filed a petition before the Court of Appeal today to issue a decomposed line of the Sri Lanka Insurance Corporation to be allocated as two companies..
+
+Prime Minister Dinesh Gunawardena has been named as the respondents, the Prime Minister, Sri Lanka Insurance Corporation and its Board of Directors.
+
+The petitioner says that he had heard that the Cabinet had decided to allocate the Sri Lanka Insurance Corporation and companies.
+
+He said that the Chairman of the Insurance Corporation had issued this statement on April 25.
+
+He pointed out that there is no legal right to the Cabinet of Parliament without obtaining this decision.
+
+He says the Sri Lanka Insurance Corporation is a profit making organization and it will provide a great success for the people.
+
+...
+
+[Data](articles/2afdfa95.json)
+
+[Extended Data](ext_articles/2afdfa95.ext.json)
+
+---
+
+### New job from police to catch beef thieves
+
+*2024-02-01 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192862) · `si`
+
+Police have planned to launch a new program to prevent theft of cattle in the North Central Province.
+
+The assistance of community police committees and the Civil Defense Forces will be acquired for this program.
+
+The new program is scheduled to commence on the second week of February on the second week of February, acting IGP.
+
+It is reported that 335 persons have been reported in the North Central Province to Rs.
+
+◼️
+
+[Data](articles/f34f9ea9.json)
+
+[Extended Data](ext_articles/f34f9ea9.ext.json)
+
+---
 
 ### Sri Lanka cannot afford to be isolated on the global stage - State Minister
 
@@ -67,6 +111,8 @@ State Minister of Foreign Affairs Tharaka Balasuriya, speaking at a press briefi
 ...
 
 [Data](articles/2eab194f.json)
+
+[Extended Data](ext_articles/2eab194f.ext.json)
 
 ---
 
@@ -166,41 +212,49 @@ Ye saw Zhang’s two children as an “obstacle” to them getting married and a
 
 [Data](articles/e3869017.json)
 
+[Extended Data](ext_articles/e3869017.ext.json)
+
 ---
 
-### ஜனாதிபதியின் வெளிநாட்டுப் பயணங்கள் தொடர்பில் முன்வைக்கப்படும் குற்றச்சாட்டுகள் ஆதாரமற்றவை - தாரக்க பாலசூரிய
+### The allegations made on the president's foreign trips are unfounded - Taraka Balasuriya
 
 *2024-02-01 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175341) · `ta`
 
-ஜனாதிபதியின் வௌிநாட்டு சுற்றுப் பயணங்கள் தொடர்பில் சிலரால் முன்வைக்கப்படும் குற்றச்சாட்டுக்கள் ஆதாரமற்றவை என வெளிநாட்டலுவல்கள் இராஜாங்க அமைச்சர் தாரக்க பாலசூரிய தெரிவித்தார்.
+Foreign Affairs Minister Taraka Balasuriya said the allegations made by some on the President's Foreign Tourism were unfounded.
 
-இலங்கை தனிமைப்படுத்தப்பட்ட தீவாக இருக்க முடியாதெனவும்,  நாட்டை அபிவிருத்தியை நோக்கி இட்டுச் செல்ல வேண்டுமாயின் வெளிநாட்டு தொடர்புகளை பலப்படுத்திக்கொள்வதும், புதிய வௌிநாட்டு உறவுளை ஏற்படுத்தகொள்வதும் அவசியம் எனத் தெரிவித்த அவர், அதற்காக வெளிநாட்டுச் சுற்றுப்பயணங்கள் முக்கியமானதாகும் என்றும் சுட்டிக்காட்டினார்.
+He pointed out that Sri Lanka could not be an isolated island and that it was necessary to strengthen foreign relations and establish a new foreign relationship if it was to lead the country to development.
 
-ஜனாதிபதி ஊடக மையத்தில் வியாழக்கிழமை (01) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+He said this at a media briefing held at the Presidential Media Center on Thursday (01).
 
-“ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் வௌிநாட்டு அமைச்சர் ஆகியோர் சுவிட்சர்லாந்து டாவோஸ் நகரில் நடைபெற்ற உலக பொருளாதார மாநாட்டில் கலந்துகொள்வதற்காக சென்றிருந்தனர். அங்கு வர்த்தகச் சமூகத்தையும் சந்தித்தனர். இலங்கையை மீளக் கட்டியெழுப்புவது தொடர்பிலான தீர்க்கமான பேச்சுவார்த்தைகளை முன்னெடுத்திருந்தனர்.  இலங்கைக்கு முதலீட்டாளர்களை அழைத்து வருவது தொடர்பிலான பேச்சுக்களையும் முன்னெடுத்திருந்தனர்.
+“President Ranil Wickremesinghe and the Minister of Foreign Affairs went to attend the World Economic Forum in Davos, Switzerland.. There was also a trade community. They had a decisive negotiations on the rebuilding of Sri Lanka.There were also talks on bringing investors to Sri Lanka.
+
+Similarly, at the Non -Aligned Conference held in Kampala, Uganda, the President said that the world was working with the wealthy countries of the world.. He also discussed the changes to the Sri Lankan economy to suit the 2050 global economy.
 
 ...
 
 [Data](articles/7f814078.json)
 
+[Extended Data](ext_articles/7f814078.ext.json)
+
 ---
 
-### வெளிநாட்டுத் தூதுவர்கள் ஜனாதிபதியிடம் நற்சாற்றுபத்திரங்களை கையளித்தனர்!
+### Foreign ambassadors handed over the president's good news!
 
 *2024-02-01 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175342) · `ta`
 
-இலங்கைக்குப் புதிதாக நியமிக்கப்பட்டிருக்கும் புதிய உயர்ஸதானிகர்கள் மற்றும் தூதுவர்கள் மூவர் வியாழக்கிழமை (01) ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் தமது நற்சான்றுப் பத்திரங்களைக் கையளித்தனர்.
+The newly appointed new high -rankings and ambassadors to Sri Lanka handed over their credentials to President Ranil Wickremesinghe on Thursday (01).
 
-எசுவாத்தினி இராஜ்ஜியத்தின் உயர்ஸ்தானிகர்,  கிரிகிஸ், ருமேனியா, துர்க்மெனிஸ்தான் நாடுகளின் புதிய தூதுவர்களே இவ்வாறு புதிதாக நியமனம் பெற்றுள்ளனர்.
+The new ambassadors of the Esuwatini Kingdom, the High Commissioner of the Girikis, Romania and Turkmenistan have been appointed.
 
-வௌிநாட்டலுவல்கள் இராஜாங்க அமைச்சர் தாரக்க பாலசூரிய மற்றும் ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க உள்ளிட்டவர்களும் இதன்போது கலந்துகொண்டனர்.
+State Minister Taraka Balasuriya and President's Secretary Saman Ekanayake were also present.
 
-அதனையடுத்து வியாழக்கிழமை (01) நியமனம் பெற்ற உயர்ஸ்தானிகரும் தூதுவர்களும் தேசிய பாதுகாப்பு தொடர்பிலான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்கவுடன் கலந்துரையாடலில் ஈடுபட்டனர்.
+Subsequently, the High Commissioner and Ambassadors appointed on Thursday (01) held a discussion with Sagala Ratnayake, the President's Senior Advisor on National Security and the President of the President.
 
 ◼️
 
 [Data](articles/91225008.json)
+
+[Extended Data](ext_articles/91225008.ext.json)
 
 ---
 
@@ -1955,39 +2009,5 @@ The Emirates Passenger restroom at the Bandaranaike International Airport was op
 [Data](articles/747e253e.json)
 
 [Extended Data](ext_articles/747e253e.ext.json)
-
----
-
-### Serendhiberthi Kolame Pattern Ceremonial
-
-*2024-02-01 14:15:02* · [`adalk`](https://www.ada.lk/business/සෙරන්ඩිබ්-අධිශක්ති-කෝලම්-රටා-තරගය-උත්සවාකාරයෙන්/7-407847) · `si`
-
-The event was organized by the Severant People's Family, Food and Various Varieties, demonstrating their culture, demonstrating their culture under the theme of the estate Thaipongal Celebrations.
-
-The ceremony was held at the Nuwara Eliya cricket club and at Hatton PHDT training center, and over 200 women participated in this event. Here they exhibited their creative talents in Serendib's 'hyper energy' brand. Serendib Fla. Mills had previously launched a new product by Suprosite to meet the plantation community.
-
-Certificates and Exciting Money Rewards for the top three patterns ranges were offered by Serendib. The Kalvankagama Plantation Company, Talawakens, Vidyalaya and Thalawanu Plantation Company also won the second place in Nuwara Eliya.
-
-Kotagala Tea plantation company, Hatton Tea Plantation Company and Bogawantalawa tea estate was also won in Hatton Colombo match.
-
-...
-
-[Data](articles/e287ddba.json)
-
-[Extended Data](ext_articles/e287ddba.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-02-01 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/175314) · `ta`
-
-The US dollar purchasing price was 310.5415 and the sales price were 320.4082 based on the currency exchange rate released by the Central Bank on Thursday (February 01).
-
-◼️
-
-[Data](articles/3f46accf.json)
-
-[Extended Data](ext_articles/3f46accf.ext.json)
 
 ---

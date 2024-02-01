@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 19:32:42**
+As of **2024-02-01 19:50:12**
 
 ## Newspaper Stats
 
-*Scraped **4,173** Articles*
+*Scraped **4,174** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 258
 newsfirstlk | 265
 adalk | 374
 virakesarilk | 463
-adaderanasinhalalk | 492
+adaderanasinhalalk | 493
 adaderanalk | 521
 tamilmirrorlk | 531
 dailymirrorlk | 566
@@ -26,39 +26,65 @@ dailymirrorlk | 566
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,166 (99.8%) of 4,173 articles have been extended.
+4,174 (100.0%) of 4,174 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
 
-### කෙහෙළියට රට ගමන් තහනම්
+### New diplomats who have been appointed to Sri Lanka
+
+*2024-02-01 19:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192856) · `si`
+
+A new High Commissioner and three ambassadors arrived in Sri Lanka this afternoon President Ranil Wickremesinghe in the presidential office.
+
+The new ambassadors of the new High Commissioner for the Kingdom of Esavini and the New High Commissioner for the Kingdom and the Republic of Romania, Kirgis and Turkmentan.
+
+01. Menzy Siro Dlamini - High Commissioner - Esvartini Kingdom
+
+Minister of External Affairs Tharaka Balasuriya, Presidential Secretary Saman Ekanayake were also present.
+
+Meanwhile, new High Commissioner and Ambassadors were also a short discussion with the Presidential Advisor of the National Security and the Presidential Chief of Staff Sagala Ratnayake.
+
+◼️
+
+[Data](articles/982d7f89.json)
+
+[Extended Data](ext_articles/982d7f89.ext.json)
+
+---
+
+### Keheliya banned tourists
 
 *2024-02-01 18:57:52* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියට-රට-ගමන්-තහනම්/11-407859) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙලිය රඹුක්වැල්ල මහතාට විදෙස් ගමන් තහනම් කරමින් මාලිගාකන්ද මහේස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ. එසේම හෙට දිනයේදී ප්‍රකාශයක් ලබාදීම සඳහා ඔහුට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට ගොස් ප්‍රකාශයක් ලබාදෙන ලෙසද අධිකරණය නියෝග කර තිබේ.
+Maligakanda Magistrate's Court has been ordered to babin former Health Minister Keheliya Rambukwella. He has also ordered the Criminal Investigation Department to provide a statement tomorrow.
 
 ◼️
 
 [Data](articles/289c9b64.json)
 
+[Extended Data](ext_articles/289c9b64.ext.json)
+
 ---
 
-### යුක්‍රේනයට ඩොලර් බිලියන 55ක ආධාර පැකේජයක්
+### $ 55 billion aid package to Ukraine
 
 *2024-02-01 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192854) · `si`
 
-යුක්‍රේනයට ඩොලර් බිලියන 55ක ආධාර පැකේජයක් ලබාදීම සඳහා යුරෝපා කවුන්සිලය නියෝජනය කරන රටවල නායකයින් 27 දෙනාම එකඟතාව පළ කර තිබේ.
+The 27 leaders representing the European Council have agreed to provide a $ 55 billion aid package to Ukraine.
 
-එම කවුන්සිලයේ සභාපති චාර්ල්ස් මිචෙල් මේ බව නිල වශයෙන් නිවේදනය කර තිබුණි.
+Chairman Chairman Charles Michel had officially announced this.
 
-කෙසේවෙතත් හංගේරියානු ජනාධිපති වික්ටර් ඕබර් විසින් වරින් වර සිදුකළ ප්‍රකාශ හේතුවෙන් ඔහු මෙම ආධාර පැකේජය අවහිර කරනු ඇති බවට ද සැකකයක් මතුවී තිබූ බව සඳහන් ය.
+However, a suspicion that Hungarian President Victor Orbers conducted by Aberra was not blocked by the statement that he would be blocked.
 
-ආධාර පැකේජය සඳහා අනුමැතිය හිමිවීම සම්බන්ධයෙන් අදහස් දක්වමින් යුරෝපා කොමිසමේ සභාපති ප්‍රකාශ කර ඇත්තේ මෙම දිනය යුරෝපයටම ඉතා වැදගත් දිනයක් බවය.
+Commenting on the approval of the aid package, the Chairman of the European Commission has said that this day is a very important date for Europe.
 
 ◼️
 
 [Data](articles/20d19fd2.json)
+
+[Extended Data](ext_articles/20d19fd2.ext.json)
 
 ---
 
@@ -84,21 +110,27 @@ The Constitutional Council is obliged to perform his work in accordance with the
 
 ---
 
-### වරාය මානව සම්පත් සංවර්ධනයට ඇමරිකා‍වෙන් ඩොලර් මිලියන 1.5 ක ප්‍රදානයක්
+### US $ 1.5 million from USA for port human resource development
 
 *2024-02-01 18:22:49* · [`adalk`](https://www.ada.lk/breaking_news/වරාය-මානව-සම්පත්-සංවර්ධනයට-ඇමරිකා‍වෙන්-ඩොලර්-මිලියන-1-5-ක-ප්‍රදානයක්/11-407854) · `si`
 
-ශ්‍රී ලංකාවේ සංවර්ධන කටයුතු සඳහා උදව් කරන  දීර්ඝ කාලීන මිතුරෙකු වන ඇමරිකනු එක්සත් ජනපද රජය විසින් ශ්‍රි ලංකාවේ වරාය ක්ෂේත්‍රයේ මානව සම්පත් සංවර්ධනය සඳහා  ඇමරිකානු ඩොලර් මිලියන 1.5ක ප්‍රධානයක් ලබා දී ඇති බව වරාය නාවික හා ගුවන්සේවා අමාත්‍යංශය අවධාරණය කරයි.
+Ports, the Ministry of Maritime and Aviation has been awarded US $ 1.5 million for the development of Sri Lanka's port sector.
 
-ඇමරිකා එක්සත් ජනපද මුල්‍ය අධාර යටතේ ‘ කොළඹ ක්‍රමය ‘ (Colombo Plan ) විසින් ප්‍රධානය ලබා දුන් අතර  ඒ පිලිබඳව අවබෝධතා ගිවිසුම අත්සන් කිරීම 2024.01.31 දින පස්වරුවේ කොළඹ මැරියට් හෝටලයේදී සිදු කෙරිණ.
+The United States Method (Colombo-Plan) was presented by the Colombo Methodology.
 
-මෙම මුල්‍ය ප්‍රධානය යටතේ ඉදිරි වසර 03 ක කාලය සඳහා ශ්‍රි ලංකා වරාය අධිකාරියේ මෙහෙයුම් කටයුතු සහ තාක්ෂණික කටයතු වල නියැලෙන නිලධාරීන්ට සහ සේවකයින්ට තම වෘත්තීය නිපුණතාවය දියුණු කර ගැනීම සඳහා  විදේශීය  ශිෂ්‍යත්ව සියයක් ( 100) ලබා දීමට කටයුතු කරනු ඇත.
+Under this finance, the Sri Lanka Ports Authority (SLPA) and employees will be provided to officials and employees of the Sri Lanka Ports Authority (100) to improve their professional competencies.
 
-මෙම අවබෝධතා ගිවිසුම අත්සන් කිරීම වරාය නාවික හා ගුවන්සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා සහ ශ්‍රි ලංකාවේ ඇමරිකානු එක්සත් ජනපද තානාපතිනි ජූලි චං මහත්මියගේ ප්‍රධානත්වයෙන් සිදු කෙරිණ.
+The Memorandum of MoU was signing the Minister of Ports and Aviation Minister Nimal Siripala de Silva and Sri Lanka's US Ambassador to July Chang.
 
-...
+Minister Nimal Siripala de Silva said:. The Minister said that the present government is working to be successfully overcome by the present government and the present government is working on the economic crisis and that the present government is doing well.
+
+The Minister appreciated the contributions of US Ambassador to July Chang and the Colombo Secretariat on behalf of the development and future development in Sri Lanka.
+
+◼️
 
 [Data](articles/64f60ea0.json)
+
+[Extended Data](ext_articles/64f60ea0.ext.json)
 
 ---
 
@@ -1318,19 +1350,21 @@ Rambukwella was due to appear before the CID yesterday, however had failed to do
 
 ---
 
-### අයි.සී.සී. මහා සභා රැස්වීම ලංකාවේදී
+### ICC. In Sri Lanka
 
 *2024-02-01 14:25:04* · [`adalk`](https://www.ada.lk/sports/අයි-සී-සී--මහා-සභා-රැස්වීම-ලංකාවේදී/9-407853) · `si`
 
-අන්තර්ජාතික ක්‍රිකට් සභාවේ (අයි.සී.සී.) වාර්ෂික මහ සභා රැස්වීම ලබන ජූලි මස 19 වැනිදා සිට 22 වැනිදා දක්වා මෙරටදී පැවැත්වීමට නියමිතය.
+The Annual General of the International Cricket (ICC) will be held from the 19th to 22nd to 22nd.
 
-ජාත්‍යන්තර ක්‍රිකට් ආයතනය විසින් ශ්‍රී ලංකා ක්‍රිකට් වෙත පනවා තිබූ තහනම ඉවත් කිරීමත් සමගම ඒම සැසිවාරය ශ්‍රි ලංකාවේ පැවැත්වීම ස්ථිර විය.
+With the lifting of the ban on the Sri Lanka Cricket, the session was confirmed to be held in Sri Lanka.
 
-එමමහ සභා රැස්වීම ශ්‍රී ලංකාවේ පැවැත්වීමෙන් මෙරට ක්‍රිකට් ක්‍රීඩාවට සහ සංචාරක ව්‍යාපරයට විශාල වාසියක් අත්වන බව විෂයභාර අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා කියයි.
+Minister of Subject Affairs Harin Fernando says that the meeting will benefit from Sri Lanka's cricket and tourism business in Sri Lanka.
 
 ◼️
 
 [Data](articles/daad5c06.json)
+
+[Extended Data](ext_articles/daad5c06.ext.json)
 
 ---
 
@@ -1492,17 +1526,19 @@ The US dollar purchasing price was 310.5415 and the sales price were 320.4082 ba
 
 ---
 
-### නිදහස් දිනය දා සුරාසැල් වසයි
+### Square poles on Independence Day
 
 *2024-02-01 14:08:28* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-දිනය-දා-සුරාසැල්-වසයි/11-407846) · `si`
 
-76 වන නිදහස් දිනය හේතුවෙන් දිවයින පුරා සුරාසල් පෙබරවාරි මස 4 වන දින වසා තැබීමට තීරණය කර තිබේ.
+The 76th Independence Day was decided to be closed on 4th February due to 76th Independence Day.
 
-සුරාබදු දෙපාර්තමේන්තුව පවසන්නේ පෙබරවාරි මස 3 වන දින සුරාසල් වැසිය යුතු වේලාවේ සිට පෙබරවාරි 5 වන සඳුදා විවෘත කළ යුතු වේලාව දක්වා සියලුම සුරාසල් වසා තැබීමට කටයුතු කළ යුතු බවි.
+The Excise Department states that all worth of charges should be closed from the time of the time of the 3th of February 5th and February 5th.
 
 ◼️
 
 [Data](articles/76bcb5c7.json)
+
+[Extended Data](ext_articles/76bcb5c7.ext.json)
 
 ---
 
@@ -1736,17 +1772,19 @@ Officials told the team that the Ministry of Labor had proposed to increase the 
 
 ---
 
-### සිසු හෙද පුහුණුවට බඳවා ගැනීමේ සම්මුඛ පරීක්ෂණ 03දා
+### Interviews to be recruited to student training
 
 *2024-02-01 12:42:40* · [`adalk`](https://www.ada.lk/breaking_news/සිසු-හෙද-පුහුණුවට-බඳවා-ගැනීමේ-සම්මුඛ-පරීක්ෂණ-03දා/11-407844) · `si`
 
-සිසු හෙද පුහුණුවට බදවා ගැනීම සදහා හම්බන්තොට දිස්ත්‍රික්කයට  අදාල සම්මුඛ පරීක්ෂණ 2024.02.03 දින හම්බන්තොට හෙද විදුහලේ දී පැවැත්වීමට සියලු කටයුතු සුදානම් කර ඇති බව සෞඛ්‍ය අමාත්‍යංශයේ නියෝජ්‍ය අධ්‍යක්ෂ ජනරාල් (පාලන) II චාමික එච්.ගමගේ මහතා සදහන් කරයි. ‍
+The Deputy Director General of the Ministry of Health (Administration II), according to the Hambantota District (Administration) II champika Hagagamage says. ‍
 
-මීට අදාල සියලු තොරතුරු සෞඛ්‍ය අමාත්‍යංශයේ නිල වෙබ් පිටුව (https://www.health.gov.lk/) පරිශීලනය මගින් ද ලබාගත හැක.
+All relevant information is the official web page of the Ministry of Health (https://www.health.gov.lk/).
 
 ◼️
 
 [Data](articles/aff38a1b.json)
+
+[Extended Data](ext_articles/aff38a1b.ext.json)
 
 ---
 
@@ -1782,17 +1820,19 @@ This year, the fees previously paid last year is to pay the Chief Inspectors to 
 
 ---
 
-### උපෙළ උත්තරපත්‍ර  සමීක්ෂණ ගාස්තු ගැන දැනුම් දිමක්
+### Payment of Subplotus Survey Fees
 
 *2024-02-01 12:37:28* · [`adalk`](https://www.ada.lk/breaking_news/උපෙළ-උත්තරපත්‍ර--සමීක්ෂණ-ගාස්තු-ගැන-දැනුම්-දිමක්/11-407843) · `si`
 
-අ.පො.ස. උසස් පෙළ උත්තර පත්‍ර සමීක්ෂණ කටයුතු ආරම්භ කිරීමට විභාග දෙපාර්තමේන්තුව කටයුතු කර ඇතැයි අධ්‍යාපන අමාත්‍යාංශය කියයි.
+GCE Advanced Level. The Examinations Department has taken measures to commence the A / L answer sheets.
 
-ඒ් අනුව මෙවර ද පසුගිය වසරේ ගෙවන ලද ගාස්තු ප්‍රමාණයම ඒ ආකාරයට උත්තර පත්‍ර පරීක්ෂා කරන ප්‍රධාන පරීක්ෂකවරුන් ඇතුලු කාර්ය මණ්ඩලයට ගෙවීමට කටයුතු කරන බවද අමාත්‍යාංශය වැඩිදුරටත් පවසයි.
+According to the Ministry further stated that this year, the fees paid last year is to pay the staff, including the headquackers who test the answer shells.
 
 ◼️
 
 [Data](articles/e0d37e43.json)
+
+[Extended Data](ext_articles/e0d37e43.ext.json)
 
 ---
 
@@ -1925,27 +1965,5 @@ All liquor stores will be closed on Sunday (04) to mark the 76th Independence Da
 [Data](articles/b4125bba.json)
 
 [Extended Data](ext_articles/b4125bba.ext.json)
-
----
-
-### South Asia's excellent maternity hospital opens in March
-
-*2024-02-01 12:17:06* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-ආසියාවේ-විශිෂ්ඨතම-මාතෘ-‌රෝහල-මාර්තුවේදී-විවෘත-කරයි/11-407841) · `si`
-
-Health Minister Dr. Ramesh Pathiran said that the excellent maternity hospital in South Asia will join health services on March.
-
-He was speaking at the Ministry of Health at the Ministry of Health at the Ministry of Health at the Ministry of Health at the Ministry of Health yesterday (31) at the Ministry of Health yesterday.
-
-The health assistant was appointed as the inspection of the Fitness Assessment Interview on 05 and 06.01.2014 and 06, up 01.02.2012.
-
-The Health Minister stated that the Mahamodara Maternity Hospital is being carried out in South Asia, which is currently taking the Karapitiya and 99 percent of its work.
-
-The Health Minister said that the construction work was started in 2006 and had not started his work when he had not begun in 2010.
-
-...
-
-[Data](articles/86dd4470.json)
-
-[Extended Data](ext_articles/86dd4470.ext.json)
 
 ---

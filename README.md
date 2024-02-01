@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 10:02:27**
+As of **2024-02-01 10:17:07**
 
 ## Newspaper Stats
 
-*Scraped **4,000** Articles*
+*Scraped **4,002** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 63
 dbsjeyarajcom | 131
 islandlk | 220
 economynextcom | 221
-newsfirstlk | 248
+newsfirstlk | 250
 dailyftlk | 257
 adalk | 353
 virakesarilk | 441
@@ -26,11 +26,63 @@ dailymirrorlk | 545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,000 (100.0%) of 4,000 articles have been extended.
+4,000 (100.0%) of 4,002 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### 72 health trade unions on strike
+
+*2024-02-01 09:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/72-health-trade-unions-on-strike/) · `en`
+
+COLOMBO (News 1st); 72 health trade unions have launched a strike from 6.30 on Thursday (01) morning.
+
+Co-convener of the Health Trade Union Alliance Ravi Kumudesh said the health unions joined the strike demanding that the Rs.35,000 allowance granted to doctors be given to them as well.
+
+The government did not respond to their demands despite a strike being launched on a previous occasion as well.
+
+The All Ceylon Nurses' Union has reached a decision to refrain from supporting today's strike action.
+
+This was confirmed by its Chairman Ravindra Kahandawarachchi on Wednesday (31) afternoon, while speaking to media after visiting the Malwathu Maha Viharaya.
+
+Police Detains 10 Protesters at CID Headquarters While Demanding Keheliya’s Arrest
+
+◼️
+
+[Data](articles/4c890363.json)
+
+---
+
+### Fuel prices revised
+
+*2024-02-01 09:39:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/fuel-prices-revised/) · `en`
+
+COLOMBO (News 1st); The Ceylon Petroleum Corporation (CEYPETCO) announced revisions to fuel product prices, effective February 1st, 2024. The adjustments reflect a mixed bag of increases and decreases across various categories.
+
+Lanka Petrol 92 Octane: Increase of Rs. 5 per liter to Rs. 371 (previously Rs. 366)
+
+Lanka Petrol 95 Octane Euro 4: Decrease of Rs. 8 per liter to Rs. 456 (previously Rs. 464)
+
+Lanka Auto Diesel: Increase of Rs. 5 per liter to Rs. 363 (previously Rs. 358)
+
+Lanka Super Diesel 4 Star Euro 4: Decrease of Rs. 7 per liter to Rs. 468 (previously Rs. 475)
+
+Lanka Kerosene: Increase of Rs. 26 per liter to Rs. 262 (previously Rs. 236)
+
+Lanka IOC also revised fuel prices in line with the CPC price revision.
+
+Accordingly, the price of a liter of 92 Octane petrol was increased by Rs.5 and the new price is Rs.368.
+
+The price of a liter of 95 Octane petrol was reduced by Rs.8.
+
+Sinopec increased the price of a liter of Auto Diesel by Rs.5 and the new price is Rs.360.
+
+...
+
+[Data](articles/84a12746.json)
+
+---
 
 ### Youth killed in a hotel room
 
@@ -2047,41 +2099,5 @@ In this context, instead of solving these issues, the government, which was impo
 [Data](articles/e3d1345e.json)
 
 [Extended Data](ext_articles/e3d1345e.ext.json)
-
----
-
-### JH shah Shah again to the post of Asia Cricket Council
-
-*2024-01-31 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192806) · `si`
-
-The current Chairman of the Asia Cricket Council was appointed as the Chairman of the Asia Cricket Council for another period of one year (31).
-
-J Shah's name has proposed to attend the Asia Cricket Council meeting by Shammi Silva.
-
-His proposal is not protesting against his proposal.
-
-This is the third time J Shah's Asian Cricket Council Chairman has been extended.
-
-◼️
-
-[Data](articles/ee842cc7.json)
-
-[Extended Data](ext_articles/ee842cc7.ext.json)
-
----
-
-### Dr. Neelan Tiruchelvam: Foremost Intellectual was the Brightest Star In Tamil Political Firmament.
-
-*2024-01-31 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83524) · `en`
-
-Today (Jan 31) is the birthday of eminent constitutional lawyer, academic and politician Dr. Neelakandan Tiruchelvam. Neelan as he was popularly known would have completed eighty  years , had he been among the living today. Born on January 31, 1944, Neelan Tiruchelvam was brutally assassinated 25 years ago by the   Liberation Tigers of Tamil Eelam(LTTE)  on July 29, 1999. He was 55 at the time of his death.
-
-I had a close personal relationship with Neelan. He was my friend, philosopher and guide. He was greatly instrumental in moulding my career. He was in a sense my political mentor. It was as a journalist on the Tamil daily “Virakesari” that I first began interacting with Neelan Tiruchelvam. My relationship with him grew over the years as I moved into English journalism via ‘‘The Island ‘’and ‘‘The Hindu ‘’.
-
-...
-
-[Data](articles/528a9dbd.json)
-
-[Extended Data](ext_articles/528a9dbd.ext.json)
 
 ---

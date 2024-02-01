@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 19:50:12**
+As of **2024-02-01 20:02:16**
 
 ## Newspaper Stats
 
-*Scraped **4,174** Articles*
+*Scraped **4,178** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ dailyftlk | 258
 newsfirstlk | 265
 adalk | 374
 virakesarilk | 463
-adaderanasinhalalk | 493
+adaderanasinhalalk | 494
 adaderanalk | 521
 tamilmirrorlk | 531
-dailymirrorlk | 566
+dailymirrorlk | 569
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,174 (100.0%) of 4,174 articles have been extended.
+4,174 (99.9%) of 4,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### හිටපු සෞඛ්‍ය ඇමති කෙහෙළිය ගැන හෙළිදරව්වක්
+
+*2024-02-01 19:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192857) · `si`
+
+ප්‍රශ්නගත ප්‍රතිදේහ එන්නත් සිද්ධිය සම්බන්ධයෙන් හෙට (02) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ ප්‍රකාශයක් ලබාදෙන ලෙස හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාට මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය අද (01) නියෝග කළේය.
+
+ඒ, ප්‍රතිදේහ එන්නත් සම්බන්ධ නඩුව අද මාලිගාකන්ද මහෙස්ත්‍රාත් ලෝචනී අබේවික්‍රම මහත්මිය ඉදිරියේ කැඳවූ අවස්ථාවේදීය.
+
+ව්‍යාජ ලේඛන සකස්කරමින් ප්‍රමිතියෙන් තොර හියුමන් ඉමියුනොග්ලොබියුලින් ප්‍රතිදේහ එන්නත් මාත්‍රා සැපයීම, මිලදීගැනීම සහ මෙරට රෝහල් පද්ධතිය තුළ බෙදාහැරීම සම්බන්ධයෙන් වූ නඩුව මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයේදී අද යළි කැඳවීය.
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ලට CIDය හමුවේ ප්‍රකාශයක් ලබාදෙන ලෙස දන්වා තිබියදී ඔහු නොපැමිණීම සම්බන්ධයෙන් රජයේ නියෝජ්‍ය සොලිසිටර් ජනරාල් ලක්මිණී ගිරිහාගම මෙනෙවිය එහිදී කරුණූ ඉදිරිපත් කළාය.
+
+...
+
+[Data](articles/75af017f.json)
+
+---
+
+### Newly appointed envoys presented letters of credence to President
+
+*2024-02-01 19:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Newly-appointed-envoys-presented-letters-of-credence-to-President/108-276148) · `en`
+
+Feb 1 (PMD) -  A newly appointed High Commissioner and three Ambassadors to Sri Lanka presented Letters of Credence to President Ranil Wickremesinghe at a ceremony held at the Presidential Secretariat in Colombo this afternoon (01).
+
+Among them is the new High Commissioner for the Kingdom of Eswatini, along with the newly appointed Ambassadors for Romania, the Kyrgyz Republic and Turkmenistan.
+
+Following are the names of the diplomats who submitted their credentials today.
+
+1. Mr. Menzie Sipho Dlamini - High Commissioner-designate of the Kingdom of Eswatini based in Kuala Lumpur
+
+2. Ms. Steluta Arhire - Ambassador-designate of Romania based in Colombo
+
+3. Mr. Askar Beshimov - Ambassador-designate of the Kyrgyz Republic based in New Delhi
+
+4. Mr. Shalar Geldynazarov - Ambassador-designate of Turkmenistan based in New Delhi
+
+◼️
+
+[Data](articles/6a9f8f67.json)
+
+---
 
 ### New diplomats who have been appointed to Sri Lanka
 
@@ -85,6 +127,22 @@ Commenting on the approval of the aid package, the Chairman of the European Comm
 [Data](articles/20d19fd2.json)
 
 [Extended Data](ext_articles/20d19fd2.ext.json)
+
+---
+
+### Increase in school van fares from today
+
+*2024-02-01 18:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Increase-in-school-van-fares-from-today/108-276147) · `en`
+
+Colombo, Feb 1 (Daily Mirror) - The internal committee of the All Ceylon Inter-Provincial School Children Transport Services Association has decided to take a collective decision to increase the school children's transport fares from today, Associations chairman E.H. Ruwan Prasad said.
+
+He told the media that 10% of the existing transport fare will be increased for short-distance school services and 15% will be increased for long-distance school services.
+
+"Therefore, the association requests the government to give a firm decision before implementing the new transport fares. With the increase in the fare, parents always have to suffer. We cannot stay silent with this fuel price increase. We can increase the school van transport fares along with the government's decision to increase fuel prices, but it is unfortunate to say that there is no procedure introduced by the government to reduce the prices," Prasad said.
+
+...
+
+[Data](articles/3f28cc5c.json)
 
 ---
 
@@ -209,6 +267,26 @@ Dhananjaya de Silva also commented on the Sri Lankan team and the rival Afghanis
 [Data](articles/f5cef570.json)
 
 [Extended Data](ext_articles/f5cef570.ext.json)
+
+---
+
+### Island-wide health strike continues amid government’s inaction
+
+*2024-02-01 18:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Island-wide-health-strike-continues-amid-governments-inaction/108-276146) · `en`
+
+Colombo, Feb 01 (Daily Mirror) - In the wake of the government failing to provide a concrete solution to their grievances, the health sector trade unions have decided to continue the island-wide strike till Friday (02 Feb.).
+
+This was confirmed by Ravi Kumudesh, the Convenor of the Health Service Trade Unions.
+
+The decision to extend the strike, according to Kumudesh, stems from the government's failure to grant reasonable allowances as granted to the doctors in the form of the Disturbance, Availability and Transport (DAT).
+
+This announcement follows the launch of a comprehensive one-day strike across the nation this morning (01 Feb.) by a consortium of 72 health sector trade unions, urging immediate attention from the authorities.
+
+Despite the widespread participation in the strike, notable exceptions include the doctors’ unions and the All Ceylon Nurses’ Union, which have chosen to distance themselves from the collective action.
+
+◼️
+
+[Data](articles/64430e8c.json)
 
 ---
 
@@ -1889,81 +1967,5 @@ Sri Lanka Police Human Rights Magistrates: Are the police officers to compensate
 [Data](articles/acf9d4f4.json)
 
 [Extended Data](ext_articles/acf9d4f4.ext.json)
-
----
-
-### Health boss is 10 hours CID
-
-*2024-02-01 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192829) · `si`
-
-Additional Secretary to the Ministry of Health Dr. Saman Ratnayake has recorded statements for 10 hours yesterday (31).
-
-Additional Secretary to the Ministry of Health Dr. Saman Ratnayake was summoned to the Criminal Investigation Department to provide substandard purchases and delivery of the false documents.
-
-Meanwhile, former Health Minister Keheliya Rambukwella has informed the Criminal Investigation Department yesterday, but he did not appear before the CID yesterday.
-
-The Minister has informed the Investigation Officer that the Criminal Investigation Department was not able to see that he had not seen a Ministerial Subcommittee in the Presidential Secretariat and the Presidential Secretariat.
-
-Accordingly, the OIC of the Criminal Investigation Department has asked the OIC of the Criminal Investigation Department to give a different date.
-
-...
-
-[Data](articles/a71a18c1.json)
-
-[Extended Data](ext_articles/a71a18c1.ext.json)
-
----
-
-### The holishers sent US $ 8.9 billion to Sri Lanka
-
-*2024-02-01 12:24:05* · [`adalk`](https://www.ada.lk/breaking_news/රට-විරුවන්-ඩොලර්-බිලියන-8-9ක්-ලංකාවට-එව්වා/11-407842) · `si`
-
-Although there is an opinion that there are many issues that foreign workers have many problems, there is a problem with labor and foreign employment, "Labor and Foreign Employment Minister Manusha Nanayakkara.
-
-He was speaking at the 'Honorary Honorary' 31 and 1 ', the' Honorary 'Hotel held in Anuradhapura yesterday (31).
-
-Speaking further Minister the Minister said that even $ 8 billion to the mother of foreign workers, the country was supplied to their mother.
-
-As a result, the four (4) billion rupees (4.5) million has been able to maintain a reserve in the country.
-
-Giving the support for 340 schools in the Anuradhapura district, which is located in the Anuradhapura district, will be held in the Anuradhapura district and to focus on the appropriate foreign employment.The Minister pointed out that the program will be implemented.
-
-...
-
-[Data](articles/b020c97b.json)
-
-[Extended Data](ext_articles/b020c97b.ext.json)
-
----
-
-### Action to pay to pay in installment mode
-
-*2024-02-01 12:21:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவணை-முறையில்-பணம்-செலுத்த-நடவடிக்கை/175-332474) · `ta`
-
-Electricity and Energy Minister Kanjana Wijesekera has told the Electricity Board to take necessary steps to pay for applicants who cannot afford simultaneously for new power lines.
-
-The Minister said that the remaining services of the Electricity Board had been issued to make the installment of the installment and that the facilities should be announced soon.
-
-Accordingly, the Minister said that this year's power generation project, schedule, service costs, the cost of fuel for power generation and climate forecasts were discussed with the Electricity Board's Operations Unit.
-
-◼️
-
-[Data](articles/c1cca855.json)
-
-[Extended Data](ext_articles/c1cca855.ext.json)
-
----
-
-### Lock for all liquor stores
-
-*2024-02-01 12:18:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-மதுபானக்-கடைகளுக்கும்-பூட்டு/175-332473) · `ta`
-
-All liquor stores will be closed on Sunday (04) to mark the 76th Independence Day, the Liquor Department said.
-
-◼️
-
-[Data](articles/b4125bba.json)
-
-[Extended Data](ext_articles/b4125bba.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 20:50:33**
+As of **2024-02-01 21:02:17**
 
 ## Newspaper Stats
 
-*Scraped **4,181** Articles*
+*Scraped **4,182** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 258
 newsfirstlk | 265
 adalk | 374
 virakesarilk | 463
-adaderanasinhalalk | 495
+adaderanasinhalalk | 496
 adaderanalk | 523
 tamilmirrorlk | 531
 dailymirrorlk | 569
@@ -26,11 +26,39 @@ dailymirrorlk | 569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,181 (100.0%) of 4,181 articles have been extended.
+4,181 (100.0%) of 4,182 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### විදෙස් රැකියා ජාවාරමක් උකුස්සා හෙළිකරයි
+
+*2024-02-01 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192859) · `si`
+
+විදේශ රැකියා අමාත්‍යවරයාගේ නම අවභාවිත කරමින් ඊශ්‍රායාලයේ රැකියා ලබාදෙන බව පවසා මුදල් ගැරූ ජාවාරමක් පිළිබඳව අද දෙරණ උකුස්සාට තොරතුරු අනාවරණ වුණි.
+
+විදේශ රැකියා අමාත්‍යවරයාගේ නම අවභාවිත කරමින්, අමාත්‍යවරයාගේ පෞද්ගලික ලේකම්වරයකු ලෙස පෙනී සිටින අයක් මෙම ජාවාරමේ නිරත වන බව අප තහවුරු කර ගත්තේය.
+
+ඒ අනුව අදාළ ජාවාරමට සම්බන්ධ කාන්තාවක් දුරකථන මාර්ගයෙන් සම්බන්ධ කර ගැනුණි.
+
+ඇය පැවසූ පරිදි අප උපායදූතයෙකු ද සමගින් කොළඹ කොටුවේ පිහිටි විදෙස් රැකියා සඳහා සම්මුඛ පරීක්ෂණ පවත්වන බවට පැවසෙන අදාළ ස්ථානයට යන්නේ මෙම ජවාරම නීතියේ රැහැනට හසුකරදීමේ අරමු‍ණෙනි.
+
+එහිදී අපට පළමුව හමුවන්නේ අප දුරකථනය ඔස්සේ සම්බන්ධ කරගත් කාන්තාවය.
+
+එම අවස්ථාවේදී ජාවාරම්කරු අයදුම්පතක් අපවෙත ලබාදෙන්නේ එය සම්පූර්ණ කරදෙන ලෙස පවසමිනි.
+
+ජාවාරම සම්බන්ධයෙන් තහවුරු කරගැනීමෙන් පසුව විදේශ සේවා නියුක්ති කාර්යාංශයේ නිලධාරීන් ස්ථානය වටලනු ලැබීය.
+
+එහිදී අනාවරණ වුණේ එය බලපත්‍ර නොමැති නීතිවිරෝධී විදෙස් රැකියා ඒජන්සියක් බවය.
+
+ඉදිරියේදීත් මෙවැනි නීතිවිරෝධී ක්‍රියාවන් රට හමුවේ අනාවරණ කිරීමට අද දෙරණ උකුස්සා සීරුවෙනි.
+
+◼️
+
+[Data](articles/87beec9a.json)
+
+---
 
 ### Another suspect arrested for shooting in Adrappu
 
@@ -1975,21 +2003,5 @@ This year, the fees previously paid last year is to pay the Chief Inspectors to 
 [Data](articles/becb936b.json)
 
 [Extended Data](ext_articles/becb936b.ext.json)
-
----
-
-### Payment of Subplotus Survey Fees
-
-*2024-02-01 12:37:28* · [`adalk`](https://www.ada.lk/breaking_news/උපෙළ-උත්තරපත්‍ර--සමීක්ෂණ-ගාස්තු-ගැන-දැනුම්-දිමක්/11-407843) · `si`
-
-GCE Advanced Level. The Examinations Department has taken measures to commence the A / L answer sheets.
-
-According to the Ministry further stated that this year, the fees paid last year is to pay the staff, including the headquackers who test the answer shells.
-
-◼️
-
-[Data](articles/e0d37e43.json)
-
-[Extended Data](ext_articles/e0d37e43.ext.json)
 
 ---

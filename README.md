@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 09:51:52**
+As of **2024-02-01 10:02:27**
 
 ## Newspaper Stats
 
-*Scraped **3,997** Articles*
+*Scraped **4,000** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 221
 newsfirstlk | 248
 dailyftlk | 257
 adalk | 353
-virakesarilk | 440
-adaderanasinhalalk | 461
+virakesarilk | 441
+adaderanasinhalalk | 463
 adaderanalk | 501
 tamilmirrorlk | 509
 dailymirrorlk | 545
@@ -26,11 +26,77 @@ dailymirrorlk | 545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,997 (100.0%) of 3,997 articles have been extended.
+4,000 (100.0%) of 4,000 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### Youth killed in a hotel room
+
+*2024-02-01 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192823) · `si`
+
+One person has died in a hotel in a hotel in the Villawala area in Galle Road, police said.
+
+After the lack of response from the man yesterday, the hotel management has begun investigations into the Hikkaduwa Police.
+
+Later, police and hotel workers were opened and inspected the man's window in the area and checked the man while he was found dead in the bathroom with bathroom.
+
+The deceased has been a 27 year old resident of the Kelaniya area.
+
+The body has been placed at the site under police protection and Hikkaduwa Police are conducting further investigations.
+
+◼️
+
+[Data](articles/fa6ff17e.json)
+
+[Extended Data](ext_articles/fa6ff17e.ext.json)
+
+---
+
+### Strike
+
+*2024-02-01 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175278) · `ta`
+
+72 health sector trade unions across the country have launched a one -day strike.
+
+Accordingly, the strike action has begun today (01) from 6.30 am.
+
+Meanwhile, the State Medical Officers' Association and the All Ceylon Nurses Association have decided not to support the strike action launched by the Health Trade Unions.
+
+All Ceylon Nurses Association President Ravindra Kahanthavarachchi said that the demands have been made by the government -related trade unions to go on strike and decided to abandon the protest due to strong doubts.
+
+◼️
+
+[Data](articles/6451a8c0.json)
+
+[Extended Data](ext_articles/6451a8c0.ext.json)
+
+---
+
+### A group of suspects struggle to police
+
+*2024-02-01 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192822) · `si`
+
+Police have arrested 878 suspects in the last 24 hours in the country today (01).
+
+The Ministry of Defense said that 649 suspects were arrested in the list of drug misconduct and the list of criminal sections.
+
+The security forces were taken into custody where 130 grams of heroin, 134 grams and 134 grams.
+
+The Ministry of Defense stated that four suspects have been retained for rehabilitation and four drug addicts have been sent to rehabilitation.
+
+Among the 229 suspects were arrested in the list of the 229 suspects and non-drug errors in the list of drug faults.
+
+Three suspects and eight suspects have been arrested in the operation and eight suspects who were not arrested.
+
+◼️
+
+[Data](articles/143db004.json)
+
+[Extended Data](ext_articles/143db004.ext.json)
+
+---
 
 ### 2023 A/L exam’s rescheduled Agri. Science test held today
 
@@ -2017,65 +2083,5 @@ I had a close personal relationship with Neelan. He was my friend, philosopher a
 [Data](articles/528a9dbd.json)
 
 [Extended Data](ext_articles/528a9dbd.ext.json)
-
----
-
-### Sri Lanka inflation rises to 6.5-pct in Jan 2024, above 5.0-pct target
-
-*2024-01-31 18:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-inflation-rises-to-6-5-pct-in-jan-2024-above-5-0-pct-target-149413/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s inflation in the 12-months to January 2023 by the widely watched Colombo Consumer Price Index was 6.5 percent, higher than the statutory 5 percent target but below the 2.0 percent variation allowed.
-
-The index rose 2.9 percent in the month, with a 3 percent hike in value added tax hitting most goods and services and some that did not have value added tax earlier.
-
-The CCPI index was up 6.0 percent since September 2022, when monetary stability was reached.
-
-The central bank has been conducting broadly deflationary policy, triggering a balance of payments surplus and had also allowed the exchange rate to appreciate, which helps reduce prices measured in Sri Lanka rupees.
-
-Food prices rose 3.8 percent during the month, with some vegetables seeing steep increases after floods. Non-foods rose 2.5 percent. (Colombo/Jan31/2023)
-
-◼️
-
-[Data](articles/5af4d6a0.json)
-
-[Extended Data](ext_articles/5af4d6a0.ext.json)
-
----
-
-### A method of paying the latest easy payment
-
-*2024-01-31 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192805) · `si`
-
-Minister of Power and Energy Kanchana Wijesekara says that it is introduced to implement an easy payment system for electricity customers in the future.
-
-The Ceylon Electricity Board, Ceylon Petroleum Corporation officials were addressing the matter.
-
-Speaking on the account, the Minister further indicates that several other services are introduced to electricity consumers in the future.
-
-◼️
-
-[Data](articles/05d1b0b6.json)
-
-[Extended Data](ext_articles/05d1b0b6.ext.json)
-
----
-
-### Sri Lanka Trade Minister opts for drastic CAA restructuring
-
-*2024-01-31 18:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-trade-minister-opts-for-drastic-caa-restructuring-149410/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Trade Minister Nalin Fernando has opted for drastic changes in the Consumers Affairs Authority (CAA) after repeated failure of the state-owned firm to protect the customers from higher prices and ensuring fair market competition in the island nation.
-
-The CAA fixed prices as a knee jerk reaction to price fluctuations under the direction of ministers in successive governments, but the moves only resulted in black market and exorbitant profits for sellers, economists and analysts have said.
-
-Minister Fernando admitted that the objectives of the CAA, which comes under the purview of his ministry, has not been met.
-
-“There are a lot of female graduates appointed to CAA and they are unable to do the raids to control the market manipulation,” including hoarding, selling at higher prices, and healthy competition, Fernando told EconomyNext.
-
-...
-
-[Data](articles/b915f4eb.json)
-
-[Extended Data](ext_articles/b915f4eb.ext.json)
 
 ---

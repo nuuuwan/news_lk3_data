@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 11:32:52**
+As of **2024-02-01 11:51:59**
 
 ## Newspaper Stats
 
-*Scraped **4,028** Articles*
+*Scraped **4,033** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ newsfirstlk | 250
 dailyftlk | 257
 adalk | 355
 virakesarilk | 449
-adaderanasinhalalk | 466
+adaderanasinhalalk | 467
 adaderanalk | 506
 tamilmirrorlk | 513
-dailymirrorlk | 549
+dailymirrorlk | 553
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,020 (99.8%) of 4,028 articles have been extended.
+4,033 (100.0%) of 4,033 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,19 +50,69 @@ Meanwhile, 50,000 foreign tourists in total have visited the Lotus Tower within 
 
 [Data](articles/49ed6b93.json)
 
+[Extended Data](ext_articles/49ed6b93.ext.json)
+
 ---
 
-### நிகழ்நிலைக் காப்புச் சட்டம் இன்றுமுதல் நடைமுறைக்கு
+### Your hands are accused of blood - social media companies
+
+*2024-02-01 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192827) · `si`
+
+International media reports that high level officials in the world have questioned the largest social media companies in the world yesterday (31).
+
+The Senate says that the Congress should be adopted as soon as possible to regulate those institutions.
+
+Senator, pointed out that the social media companies have failed to prevent their problems through the media network and that social media companies have failed to prevent it. "
+
+These facts were reported in a special committee examination convened by the American Senate.
+
+Its purpose is to look into matters of parents and mental health experts that social media companies do not have proper protection methods on the goals of profits.
+
+"Mr. Zurburg, you and companies in front of us. I know you don't think you didn't think so much ... but the blood of your hands was a blood.
+
+He told the Meta CEO Mark Zankarburg, "You have a product ... and it killed people ...".
+
+...
+
+[Data](articles/d6bb3a31.json)
+
+[Extended Data](ext_articles/d6bb3a31.ext.json)
+
+---
+
+### Celebration Act
 
 *2024-02-01 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/175293) · `ta`
 
-ஜனவரி மாதம் 23 மற்றும் 24ஆம் திகதிகளில் பாராளுமன்றத்தில் விவாதிக்கப்பட்டு திருத்தங்களுடன் நிறைவேற்றப்பட்ட நிகழ்நிலைக் காப்புச் சட்டமூலத்தை சபாநாயகர்  மஹிந்த யாப்பா அபேவர்தன இன்று வியாழக்கிழமை (01) சான்றுரைப்படுத்தினார்.
+Speaker Mahinda Yapa Abeywardena today certified the Celebration Bill, which was discussed in Parliament on January 23 and 24.
 
-இதற்கமைய இந்தச் சட்டமூலம் 2024 ஆம் ஆண்டின் 9ஆம் இலக்க நிகழ்நிலைக் காப்புச் சட்டமாக இன்றுமுதல் நடைமுறைக்கு வருகிறது.
+Accordingly, the Bill is still in effect as the current backup Act No. 9 of 2024.
 
 ◼️
 
 [Data](articles/603b82d0.json)
+
+[Extended Data](ext_articles/603b82d0.ext.json)
+
+---
+
+### Online Safety Bill comes into effect today
+
+*2024-02-01 10:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Online-Safety-Bill-comes-into-effect-today/108-276128) · `en`
+
+Parliament, Feb. 1 (Daily Mirror)-Speaker Mahinda Yapa Abeywardane today endorsed the certificate on the Online Safety Bill which was approved by parliament last week, the Communications Department of Parliament said.
+
+Accordingly, the said Bill will come into effect as the Online Safety Act No.9 of 2024.
+
+The bill was passed without a vote in the House after a two-day debate during which the opposition launched a scathing attack saying it borders on the infringement of the freedom of expression.
+
+During the Second Reading, the bill was taken to vote with 108 supporting it and 62 opposing.
+
+◼️
+
+[Data](articles/3fde89d7.json)
+
+[Extended Data](ext_articles/3fde89d7.ext.json)
 
 ---
 
@@ -86,53 +136,83 @@ In addition, soldiers have been deployed to continue the daily activities of 26 
 
 ---
 
-### சட்டத்தின் பிடியிலிருந்து விடுவிக்கப்பட்டாலும் இன்னும் சிறை கொட்டடியில்வாடுகின்றோம் ; முருகன் ராபர்ட்பயஸ் தமிழகமுதலமைச்சருக்கு கடிதம் - காலவரையற்ற உண்ணாவிரதம்!
+### Troops deployed to assist hospital operations amid strike
+
+*2024-02-01 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Troops-deployed-to-assist-hospital-operations-amid-strike/108-276127) · `en`
+
+Colombo, Feb 01 (Daily Mirror) - In response to a strike launched in government hospitals by 72 health unions, the Sri Lanka Army deployed troops at various government hospitals island-wide to support operational activities.
+
+The Ministry of Health requested assistance from the Ministry of Defence to ensure uninterrupted hospital operations during the strike.
+
+Accordingly, under the directives of the Commander of the Army Lt. General Vikum Liyanage, troops have been deployed to 26 government hospitals, including prominent ones such as the National Hospitals in Colombo and Kandy, Kalubowila, Karapitiya, Mahmodara, Peradeniya, Anuradhapura and Kurunegala Teaching Hospitals, as well as Matara, Balangoda, Eheliyagoda, Nawalapitiya, Badulla, Gampola, Meerigama, Homagama and Kegalle Hospitals.
+
+...
+
+[Data](articles/1530edcd.json)
+
+[Extended Data](ext_articles/1530edcd.ext.json)
+
+---
+
+### Even though we are released from the clutches of the law, we are still in prison;Murugan Robertbayas letter to Tamil Nadu Chief Minister - indefinite fasting!
 
 *2024-02-01 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175291) · `ta`
 
-திருச்சி சிறப்பு  முகாமில் உரிமைகளும் உணர்வுகளும் பறிக்கப்படுவதாக கூறி காலவரையற்ற உண்ணாவிரத போராட்டத்தில் ஈடுபடப் போவதாக முருகன் ராபர்ட் பயஸ் அகியோர் தமிழக முதலமைச்சருக்கு கடிதம் அனுப்பி உள்ளனர்.
+Murugan Robert Robert Bias Akhiyor has sent a letter to the Chief Minister of Tamil Nadu that he is going to engage in an indefinite hunger strike claiming that rights and sentiments are being taken away in the Trichy special camp.
 
-"முன்னாள் பிரதமர் ராஜீவ் காந்தி கொலை வழக்கில் 32 ஆண்டுகளுக்கும் மேலாக சிறைவாசம் அனுபவித்து வந்த நிலையில்இ ஏறக்குறைய ஒன்றை ஆண்டுகளுக்கு முன்பு உச்ச நீதிமன்றத்தால் விடுதலை செய்யப்பட்டோம்.
+“We have been acquitted by the Supreme Court almost a year ago as he has been jailed for more than 32 years in the murder of former Prime Minister Rajiv Gandhi.
 
-சட்டத்தின் பிடியிலிருந்து விடுவிக்கப்பட்டாலும் இன்னும் சிறை கொட்டடியில் இருந்து விடுவிக்கப்படவில்லை. சிறப்பு முகாம் எனப்படும் மற்றொரு சிறையில் அடைத்தார்கள். திருச்சியில் உள்ள சிறப்பு முகாமில் ராபர்ட் பயஸ் ஜெயக்குமார்இ சாந்தன் முருகனும் அடைத்து வைக்கப்பட்டுள்ளோம். சிறப்பு முகாம் எனப்படுவது சிறையை விட கொடுமையானதாக இருக்கிறது. இங்கு நடைபயிற்சி செய்வதற்கோ நண்பர்களை பார்ப்பதற்கோ முடியவில்லை.
+The law is released from the clutches of the law but has not yet been released from prison. Were imprisoned in another prison called Special Camp. Robert Bias Jayakumar and Shantan Murugan are also stuffed at a special camp in Trichy. The so -called special camp is more cruel than prison. I couldn't walk here or see friends.
 
 ...
 
 [Data](articles/d569be20.json)
 
+[Extended Data](ext_articles/d569be20.ext.json)
+
 ---
 
-### எங்களுடன் பேச்சுவார்த்தைகளில் ஈடுபடாவிட்டால் சர்வதேச நாணய நிதியத்தின் இரண்டாம் தொகுதி கடனை தடுத்து நிறுத்துவோம் - தனியார் கடன் வழங்குநர்கள் கடும் எச்சரிக்கை
+### If we do not negotiate with us, we will stop the second batch of International Monetary Fund - Private Credit Providers Serious Warning
 
 *2024-02-01 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/175285) · `ta`
 
-அரசாங்கம் தங்களுடன் நல்லெண்ண அடிப்படையில் ஆக்கபூர்வமான பேச்சுவார்த்தைகளை மேற்கொள்ளாவிட்டால்  சர்வதேச நாணயநிதியத்தின் இரண்டாம் தவணை கடனை தடுத்து நிறுத்துவதற்கான அனைத்து நடவடிக்கைகளிலும் ஈடுபடப்போவதாக இலங்கையின் தனியார் கடன்வழங்குநர்கள் எச்சரித்துள்ளனர்.
+Sri Lanka's private loans have warned that if the government does not hold constructive negotiations with them on a goodwill basis, it will engage in all measures to stop the second installment of the International Monetary Fund.
 
-சீனா உட்பட இருதரப்பு கடன்வழங்குநர்களுடன் இலங்கை அரசாங்கம் தொடர்பேச்சுவார்த்தைகளில் ஈடுபட்டுள்ள அதேவேளை தங்களுடன் அதேபோன்ற பேச்சுவார்த்தைகளை மேற்கொள்ளவில்லை என தனியார் கடன்வழங்குநர்கள் கருதுவதாக விடயமிறிந்த வட்டாரங்கள் தெரிவித்துள்ளன.
+According to sources, private lenders think that the Sri Lankan government is engaged in communication with bilateral creditors, including China, and has not held similar talks with them.
 
-தனியார்கடன்வழங்குநர்களின் எண்ணிக்கை மிகவும் பெரியது இலங்கை வெறுமனே சர்வதேச நாணயநிதியத்தையும் சீனாவையும் மாத்திரம் நம்பியிருக்க முடியாது  என விடயமறிந்த வட்டாரங்கள் தெரிவித்துள்ளன.
+Sources said that the number of private credits is very large.
 
-இலங்கை தங்களுடன் பேச்சுவார்த்தைளில் ஈடுபடாவிட்டால் சர்வதேச நாணயநிதியத்தின் இரண்டாம் தொகுதி கடனை தடுத்துநிறுத்துவதற்காக அனைத்து நடவடிக்கைகளிலும் ஈடுபடுவோம் என தனியார் கடன்வழங்குநர்கள் குழுவொன்று டெய்லிமிரரிடம் தெரிவித்துள்ளது.
+A team of private lenders has told DailyMirr that if Sri Lanka does not negotiate with them, we will engage in all activities to stop the second -volume of the IMF.
 
-...
+They said this is the only way to negotiate with the Sri Lankan government.
+
+Disgusting to Sri Lanka's attitude, private lenders have said that this will disrupt Sri Lanka in the international capital market.
+
+Private lenders have said that Sri Lanka's loans are based on contract but that Sri Lanka does not pay them.
+
+◼️
 
 [Data](articles/c5a55af1.json)
 
+[Extended Data](ext_articles/c5a55af1.ext.json)
+
 ---
 
-### தாமரைக் கோபுரத்தை பார்வையிட இதுவரை 50 ஆயிரம் வெளிநாட்டு சுற்றுலாப்பயணிகள் வருகை !
+### 50 thousand foreign tourists visit the Lotus Tower
 
 *2024-02-01 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/175290) · `ta`
 
-கொழும்பு தாமரைக் கோபுரம் பொதுமக்கள் பாவனைக்காக கையளிப்பட்டதிலிருந்து இன்று வரையான காலப்பகுதியில் 50 ஆயிரம் வெளிநாட்டு சுற்றுலாப் பயணிகள் விஜயம் செய்துள்ளதாக தாமரை கோபுர நிர்வாகம் தெரிவித்துள்ளது.
+The Lotus Tower Administration has said that 50 thousand foreign tourists have visited the Colombo Lotus Tower since the publication of the public for use.
 
-இந்நிலையில், தாமரைக் கோபுரத்திற்கு விஜயம் செய்த 50 ஆயிரம் ஆவது வெளிநாட்டு சுற்றுலாப் பயணிக்கு நிர்வாகத்தினரால் பரிசு வழங்கி கௌரவிக்கப்பட்டுள்ளது.
+In this case, the 50th foreign tourist who visited the Lotus Tower has been honored by the administration.
 
-இதேவேளை, கொழும்பு தாமரைக் கோபுரம் கடந்த 2022 ஆம் ஆண்டு செப்டம்பர் 15 ஆம் திகதி அங்குரார்ப்பணம் செய்யப்பட்டிருந்தமையும் குறிப்பிடத்தக்கது.
+Meanwhile, the Colombo Lotus Tower was inaugurated on September 15, 2022.
 
 ◼️
 
 [Data](articles/3a3550bd.json)
+
+[Extended Data](ext_articles/3a3550bd.ext.json)
 
 ---
 
@@ -168,6 +248,8 @@ The Sri Lankan government says the Online Safety Bill, published in the governme
 
 [Data](articles/3c0be9f6.json)
 
+[Extended Data](ext_articles/3c0be9f6.ext.json)
+
 ---
 
 ### Drug trafficked by a group of drug trafficking along mobile phones
@@ -192,27 +274,31 @@ According to the Police Headquarters, the suspects of the suspects arrested on s
 
 ---
 
-### பேராதனைப் பல்கலைக்கழக மாணவர்கள் வகுப்பு பகிஷ்கரிப்பு
+### Class Blocking of the University of Peradeniya University
 
 *2024-02-01 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175288) · `ta`
 
-பேராதனைப் பல்கலைக்கழக மாணவர்கள் பல்வேறு கோரிக்கைகளை முன் வைத்து நேற்று புதன்கிழமை (31) முதல் வகுப்பு பகிஷ்கரிப்பை மேற்கொண்டுள்ளனர்.
+Students of the University of Peradeniya have carried out a first -class boycott on Wednesday (31).
 
-பேராதனைப் பல்கலைக்கழக மாணவர் சங்க செயலாளர் சசிந்த பண்டார தெரிவித்துள்ள அறிக்கயைில் குறிப்பிடப்பட்டுள்ளதாவது,
+In a statement issued by Sasinda Bandara, Secretary of the University of Peradeniya
 
-வாழ்க்கைச் செலவுகளை சமாளிக்க முடியாத நிலையில் உடனடியாக 'வற்' வரியை குறைக்க வேண்டும். உணவுப் பொருட்களுக்கான விலையேற்றம் காரணமாக பலர் சிரமப்படுகின்றனர்.
+Immediately reduce the 'tax' line when the cost of living is unable to cope. Many people are having difficulty due to the rise in food products.
 
-விலையேற்றத்தை உடன் குறைக்க வேண்டம்.  சிற்றுண்டிச்சாலைகளின் வசதிகள் அதிகரிக்கப்பட வேண்டும். புதிய மாணவர் விடுதிகள் அமைக்கப்பட வேண்டும்.
+To reduce the price rise.The facilities of the toast should be enhanced. New student hostels should be set up.
 
-பயங்கரவாத தடுப்புச்சட்டம், நிகழ் நிலை காப்புச்சட்டம், சமூக கவளைத்தளங்களை கட்டுப்படுத்தும் சட்டம் போன்ற அண்மைகாலமாகக் கொண்டு வரப்பட்ட அனைத்து புதிய சட்டங்களையும் மீளப் பெற்று, கருத்து வெளிப்பாட்டு சுதந்திரத்தை உறுதிப்படுத்த வேண்டும்.
+All new laws, such as the Prevention of Terrorism Act, the Ceremonial Backup Act, and the Social Affairs Act, must be reconsidered and to ensure freedom of expression.
 
-மகாப் பொல பாக்கிப் பணம் செலுத்தப்பட வேண்டம். பல்கலைக்கழக விரிவுரையாளர்கள், பேராசிரியர்கள் போன்றவர்களின் வெற்றிடங்கள் நிரப்பப்பட வேண்டும்.
+Mahab Pola Pakip should be paid. The vacancies of university lecturers and professors should be filled.
 
-சி.சி.டி.வி. களைப் பொருத்தி அதன் மூலம் மாணவர்களது நடவடிக்கைகளை உளவு பார்க்கும் நிலை நீக்கப்பட வேண்டும்.
+CCTV. The weed should be eliminated by the students' activities.
+
+Abandon projects for creating private education shops that eradicate free education and free hygiene.
 
 ...
 
 [Data](articles/74f43bbe.json)
+
+[Extended Data](ext_articles/74f43bbe.ext.json)
 
 ---
 
@@ -668,19 +754,25 @@ Accordingly, the Department of Examinations has decided to restore one and two p
 
 ---
 
-### දයා ආපු එකට ෆොන්සේකා විරුද්ධයි
+### Fonseka is against Daya
 
 *2024-02-01 07:58:01* · [`adalk`](https://www.ada.lk/breaking_news/දයා-ආපු-එකට-ෆොන්සේකා-විරුද්ධයි/11-407835) · `si`
 
-හිටපු හමුදාපති දයා රත්නායක මහතා සමගි ජන බලවේගයට සම්බන්ධ කර ගැනීම පිළිබඳ පිළිකුලක් මෙන්ම ප්‍රශ්නයක් තිබෙනව බවත්, කෙසේ වෙතත් පුද්ගලයන් කිහිපදෙනෙකුගේ අත්තනොමතික ක්‍රියා නිසා පක්ෂය හැර නොයන බවත් සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා පැවසීය.
+Former Army Commander Daya Ratnayake is a disgusting and a problem, however, the government is not turned off the government.
 
-රණවිරැවෙකු ලෙස සඳහන් කරමින් දයා රත්නායක මහතා පක්ෂයට සම්බන්ධ කර ගන්නේ නම් මෙවැනි ආකරයෙන් රණවිරැවෙකු ලෙස ගෝඨාභය රාජපක්ෂ මහතාද පක්ෂයට පැමිණීමට හැකියාව තිබෙන බවත්, එවැනි කටයුතු සිදු නොවිය යුතු බවත් ඊයේ (31දා) කොළඹ පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම සඳහන් කළේය.
+Speaking to the party of Daya Ratnayake as a war hero, Gotabhaya Rajapaksa was able to attend the party yesterday.
 
-එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+Speaking further MPs Marshal Sarath Fonseka said:
+
+"The person named Daya Ratnayake is not a person who needs to take to our party. He also has brain trouble that this Daya Ratnayake is coming to a place where I am. It shows not his shame. Because he knows how to behave in the past. I was arrested after the 2010 presidential election. At the time he was arrested, the man was held under the leadership of Mahinda Rajapaksa.
+
+There is a person in the court court judges that the judges in the war court should be more senior to the accused. Otherwise, it should be. It is a joy to investigate a senior person from junior. But for a jungle court, I left me, the judges who were there are two overseers than me.
 
 ...
 
 [Data](articles/f8c460e4.json)
+
+[Extended Data](ext_articles/f8c460e4.ext.json)
 
 ---
 
@@ -1600,6 +1692,30 @@ A litre of Lanka Kerosene (Rs. 236) has been increased by Rs. 7, and its new ret
 
 ### CPC fuel prices revised
 
+*2024-01-31 21:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CPC-fuel-prices-revised/108-276073) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - The Ceylon Petroleum Corporation (CPC) has decided to revise its fuel prices with effect from midnight today.
+
+Accordingly, a litre of Lanka Petrol 92 Octane (Rs. 366) has been increased by Rs. 5, and its new retail price will be Rs. 371.
+
+A litre of Lanka Petrol 95 Octane Euro 4 (Rs. 464) has been reduced by Rs. 8, and its new retail price will be Rs. 456.
+
+A litre of Lanka Auto Diesel (Rs. 358) has been increased by Rs. 5, and its new retail price will be Rs. 363.
+
+A litre of Lanka Super Diesel 4 Star Euro 4 (Rs. 475) has been reduced by Rs. 7, and its new retail price will be Rs. 468.
+
+A litre of Lanka Kerosene (Rs. 236) has been increased by Rs. 7, and its new retail price will be Rs. 262.
+
+◼️
+
+[Data](articles/e06ea50c.json)
+
+[Extended Data](ext_articles/e06ea50c.ext.json)
+
+---
+
+### CPC fuel prices revised
+
 *2024-01-31 21:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/CPC-fuel-prices-revised/155-276073) · `en`
 
 Colombo, Jan 31 (Daily Mirror) - The Ceylon Petroleum Corporation (CPC) has decided to revise its fuel prices with effect from midnight today.
@@ -1703,6 +1819,28 @@ According to the Immigration and Emigration Controller, the fee for issuing pass
 [Data](articles/ae0a1ca8.json)
 
 [Extended Data](ext_articles/ae0a1ca8.ext.json)
+
+---
+
+### Cinnamon Lakeside responds to allegations over contaminated white pepper
+
+*2024-01-31 21:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Cinnamon-Lakeside-responds-to-allegations-over-contaminated-white-pepper/155-276069) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - In response to recent concerns surrounding an incident at Cinnamon Lakeside Colombo where a soup unfit for human consumption has reportedly been served to a patron, the establishment has clarified the incident.
+
+In a statement, the management said the incident in question was clarified to be unrelated to a soup served at the restaurant but rather linked to a guest's use of white pepper in their soup, prompting immediate action.
+
+“Cinnamon Lakeside Colombo has actively cooperated with the officials of the Ministry of Health and Public Health Inspectors (PHIs) during their investigations,” the hotel management said.
+
+The establishment said it had conducted its own tests on the same batch of procured white pepper, finding no cause for concern.
+
+“No other incidents of this nature have been reported from the restaurant visited by numerous guests on that day,” the statement stressed.
+
+...
+
+[Data](articles/11bbd73b.json)
+
+[Extended Data](ext_articles/11bbd73b.ext.json)
 
 ---
 
@@ -1999,95 +2137,5 @@ The Union pointed to the Power and Energy Ministry letter dated February 01, 202
 [Data](articles/4f141598.json)
 
 [Extended Data](ext_articles/4f141598.ext.json)
-
----
-
-### Buying interest notable among most valued stocks
-
-*2024-01-31 20:27:00* · [`islandlk`](http://island.lk/buying-interest-notable-among-most-valued-stocks/) · `en`
-
-The stock market experienced a degree of volatility yesterday but buying interest was notable among the most valued stocks, stock market analysts said.
-
-Amid those developments both indices moved upwards. The All- Share Price Index went up by 26.7 points while S and P SL20 rose by 6.67 points. Turnover stood at Rs 695 million with one crossing. The crossing was reported in Sampath Bank, which crossed 1 million shares to the tune of Rs 68 million; its shares traded at Rs 68.
-
-...
-
-[Data](articles/f1ada271.json)
-
-[Extended Data](ext_articles/f1ada271.ext.json)
-
----
-
-### Police Detains 10 Protesters at CID Headquarters While Demanding Keheliya’s Arrest
-
-*2024-01-31 20:24:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/police-detains-10-protesters-at-cid-headquarters-while-demanding-keheliya-s-arrest/) · `en`
-
-COLOMBO (News 1st); Ten protesters, eight men and two women, were arrested today outside the Criminal Investigation Department (CID) headquarters in Colombo.
-
-The group had been demonstrating since morning, demanding the arrest of former Health Minister Keheliya Rambukwella for his alleged involvement in a recent drug procurement scandal.
-
-Police spokesperson DIG Nihal Talduwa confirmed the arrests and stated that despite repeated warnings and attempts to disperse the gathering peacefully, the protesters continued their sit-in protest, prompting police intervention.
-
-Meanwhile, Former Health Minister Keheliya Rambukwella issued a statement this afternoon acknowledging the summons from the CID but claiming his inability to present himself due to conflicting commitments.
-
-...
-
-[Data](articles/7250d223.json)
-
-[Extended Data](ext_articles/7250d223.ext.json)
-
----
-
-### In Tamil Nadu BJP Has Crossed The Rubicon
-
-*2024-01-31 20:16:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/in-tamil-nadu-bjp-has-crossed-the-rubicon/) · `en`
-
-Annamalai the state President of Tamil Nadu together with the BJP were over the hump by end November 2023. As December closed, both leader and the party have crossed the Rubicon. Two regional parties with a substantial presence in the state, have already declared their allegiance to the winning formation – BJP. Two other leaders are on the verge of announcing their popular support. With such crystallization, the national party and the state leader are now in a clear comfortable zone for three more months of electioneering.
-
-...
-
-[Data](articles/04843e09.json)
-
-[Extended Data](ext_articles/04843e09.ext.json)
-
----
-
-### Another fee is up
-
-*2024-01-31 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192811) · `si`
-
-The passport fee has been increased with effect from 1st February.
-
-Accordingly, online and non-online average service charge has been revised from Rs 5000 to Rs. 10,000.
-
-◼️
-
-[Data](articles/ee81a9c0.json)
-
-[Extended Data](ext_articles/ee81a9c0.ext.json)
-
----
-
-### Fonseka Calls New SJB Member “Shameless”
-
-*2024-01-31 20:12:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/fonseka-calls-new-sjb-member-shameless/) · `en`
-
-COLOMBO (News 1st); Samagi Jana Balavegaya Chairman Field Marshal Sarath Fonseka  launched a scathing attack on former Army Commander Daya Rathnayake, who joined the SJB earlier this week.
-
-"The Samagi Jana Balawegaya was built on sacrifice, not to be tarnished by the decisions of a few," declared Fonseka in a fiery address.
-
-He expressed strong reservations about Rathnayake's past and suitability for the party, calling him "shameless" and questioning his motives.
-
-Fonseka revealed his disapproval of the decision at the highest levels, stating that he had "strongly criticized" the move to both the party leader and the general secretary.
-
-Fonseka likened Rathnayake's inclusion to a slippery slope, fearing it could pave the way for accepting other controversial figures like former President Gotabaya Rajapaksa or ex-Central Bank Governor Ajith Nivard Cabraal.
-
-He emphasized the importance of adhering to principles and selecting members with "untainted pasts and good reputations."
-
-...
-
-[Data](articles/0e3edb77.json)
-
-[Extended Data](ext_articles/0e3edb77.ext.json)
 
 ---

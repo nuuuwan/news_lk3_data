@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 12:49:07**
+As of **2024-02-01 13:02:28**
 
 ## Newspaper Stats
 
-*Scraped **4,055** Articles*
+*Scraped **4,058** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 228
 dailyftlk | 257
 newsfirstlk | 258
 adalk | 355
-virakesarilk | 451
+virakesarilk | 453
 adaderanasinhalalk | 468
-adaderanalk | 507
+adaderanalk | 508
 tamilmirrorlk | 513
 dailymirrorlk | 556
 
@@ -26,23 +26,73 @@ dailymirrorlk | 556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,036 (99.5%) of 4,055 articles have been extended.
+4,055 (99.9%) of 4,058 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
 
-### සුරාසල් ගැන දැනුම්දීමක්
+### நன்னடத்தை பாடசாலை சிறுவன் மர்ம மரணம் ; மேற்பார்வையாளரான பெண்ணிற்கு மீண்டும் 14 நாட்கள்  விளக்கமறியல்
+
+*2024-02-01 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/175304) · `ta`
+
+நன்னடத்தை பாடசாலையில்  உயிரிழந்த சிறுவனின் மரணம் தொடர்பில் கைதான அப்பாடசாலையின் மேற்பார்வையாளரான பெண்ணை 14 நாட்கள் விளக்கமறியலில்   வைக்குமாறும் அது  தொடர்பான  வழக்கு எதிர்வரும் பெப்ரவரி மாதம் 13 ஆம் திகதி வரை மறு விசாரணைக்காக ஒத்தி வைக்குமாறு கல்முனை நீதிவான் நீதிமன்று உத்தரவிட்டுள்ளது.
+
+அம்பாறை மாவட்டம்  கல்முனை தலைமையக பொலிஸ் பிரிவிற்குட்பட்ட சிறுவர் நன்னடத்தை பாடசாலையில் தங்க வைக்கப்பட்ட நிலையில் உயிரிழந்த சிறுவனின் மரணம் தொடர்பில் அப்பாடசாலையின் மேற்பார்வையாளரான பெண்  சந்தேகத்தில் கல்முனை தலைமையக பொலிஸாரால்  கைது செய்யப்பட்ட பின்னர் புதன்கிழமை (31) மீண்டும் கல்முனை நீதிமன்ற நீதிவான் எம்.எஸ்.எம் சம்சுதீன் முன்னிலையில் ஆஜர்படுத்தப்பட்ட போதே மேற்கண்டவாறு உத்தரவிட்டார்.
+
+குறித்த வழக்கு விசாரணைக்கு  எடுத்து கொள்ளப்பட்ட நிலையில் பொலிஸார் மற்றும் பிரதிவாதியின் சட்டத்தரணி ஆகியோரின் விண்ணப்பங்கள் ஆராயப்பட்டு 28 வயதுடைய  குறித்த பாடசாலையின் மேற்பார்வையாளரான பிறின்ஸி புலேந்திரன் என்பவரை மீண்டும்  விளக்கமறியலில் வைக்குமாறு உத்தரவிடப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8d8266aa.json)
+
+---
+
+### Liquor stores to be closed for 76th Independence Day
+
+*2024-02-01 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96911/liquor-stores-to-be-closed-for-76th-independence-day) · `en`
+
+All wine stores and liquor sales outlets will be closed on 04 February, in view of Sri Lanka’s 76th Independence Day, as per the directives of the Commissioner General of the Excise Department.
+
+Accordingly, all liquor-selling establishments will close at 10:00 p.m. on 03 January, and will reopen at 08:00 a.m. on 05 January.
+
+◼️
+
+[Data](articles/a3f7952c.json)
+
+---
+
+### அச்சத்தை ஏற்படுத்தும் இலங்கையின்  நிகழ்நிலை பாதுகாப்பு சட்டம் - அரசாங்கத்தை விமர்சிப்பவர்களை  மௌனமாக்குவதற்கான சாதனம் என குற்றச்சாட்டு
+
+*2024-02-01 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/175302) · `ta`
+
+இலங்கையில் இணையவழி  உள்ளடக்கங்களை ஒழுங்குபடுத்துவதற்கான  திருத்தப்பட்ட சட்டமூலம் சர்ச்சைக்குரிய விதத்தி;ல் நிறைவேற்றப்பட்டமை எதிர்வரும் தேர்தல்காலத்திலும் அதன் பின்னரும் அரசாங்கம் தன்னை விமர்சிப்பவர்களை இலக்குவைக்கும் நடவடிக்கைகளில்  ஈடுபடலாம் என்ற அச்சத்தை ஏற்படுத்தியுள்ளது.
+
+கடந்த செப்டம்பரில் முதன்முதலில் முன்வைக்கப்பட்ட நிகழ்நிலை பாதுகாப்பு சட்டமூலம் கடந்த புதன்கிழமை நாடாளுமன்றத்தில் நிறைவேற்றப்பட்ட நிலையில் மனித உரிமை அமைப்புகள் பாரிய தொழில்நுட்ப நிறுவனங்கள் போன்றவை இதனை கடுமையாக எதிர்த்துள்ளன.
+
+அரசாங்கம் இந்த சட்டமூலத்தை நிறைவேற்றுவதில் காட்டும் ஆர்வத்தை  அவதானிக்கும்போது அரசாங்கம் கருத்து சுதந்திரத்தை ஒடுக்குவதற்கான நடவடிக்கைகளில் ஈடுபடுகின்றது என்ற அச்சம் ஏற்பட்டுள்ளது என அவர்கள் தெரிவித்துள்ளனர்.
+
+அரசாங்கம் துரிதமாக சட்டமூலத்தை நடைமுறைப்படுத்த விரும்பியதால்   இரண்டு நாள் விவாதத்தின் பின்னர்இ;டம்பெற்ற  ;வாக்களிப்பில் கலந்துகொண்ட 225 நாடாளுமன்ற உறுப்பினர்களில் 108 பேர் சட்டமூலத்திற்கு ஆதரவாக வாக்களித்தனர்.62 பேர் இதனை  எதிர்த்தனர்.
+
+...
+
+[Data](articles/2ec8c3bc.json)
+
+---
+
+### A Notification of Sursel
 
 *2024-02-01 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192828) · `si`
 
-76 වන නිදහස් දින සැමරුම වෙනුවෙන් දිවයින පුරා සුරාසල් පෙබරවාරි මස 4 වන දින වසා තැබීමට තීරණය කර තිබේ.
+Surels of the country has decided to close up on 4th February for the 76th Independence Day celebrations.
 
-සුරාබදු දෙපාර්තමේන්තුව නිවේදනයක් නිකුත් කරමින් සඳහන් කර ඇත්තේ, පෙබරවාරි මස 3 වන දින සුරාසල් වැසිය යුතු වේලාවේ සිට පෙබරවාරි 5 වන සඳුදා විවෘත කළ යුතු වේලාව දක්වා සියලුම සුරාසල් වසා තැබීමට කටයුතු කළ යුතු බවය.
+The Excise Department has issued announcement and work to be closed from February 3 to be opened on Monday, February 5, to be opened on Monday, February 5.
 
 ◼️
 
 [Data](articles/71c5b7ad.json)
+
+[Extended Data](ext_articles/71c5b7ad.ext.json)
 
 ---
 
@@ -78,6 +128,8 @@ Colombo, Feb 01 (Daily Mirror) - All liquor shops will be closed on Sunday (4) d
 
 [Data](articles/3a9239da.json)
 
+[Extended Data](ext_articles/3a9239da.ext.json)
+
 ---
 
 ### “It was neither protest nor rally”: Sarath Fonseka
@@ -95,6 +147,8 @@ The MP said some 8,000 people participated in the protest but ultimately it was 
 ◼️
 
 [Data](articles/513ef224.json)
+
+[Extended Data](ext_articles/513ef224.ext.json)
 
 ---
 
@@ -236,6 +290,8 @@ The deployed personnel will work collaboratively with hospital authorities to pr
 
 [Data](articles/dcd97f84.json)
 
+[Extended Data](ext_articles/dcd97f84.ext.json)
+
 ---
 
 ### Online Safety Bill comes into effect today
@@ -374,6 +430,8 @@ The Fund has also upgraded the regional growth forecast for 2024 to 4.5 percen
 
 [Data](articles/40ec5e84.json)
 
+[Extended Data](ext_articles/40ec5e84.ext.json)
+
 ---
 
 ### Online Safety Bill Gets Green Light: Speaker Endorses Certificate
@@ -395,6 +453,8 @@ Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
 ◼️
 
 [Data](articles/6e5772ea.json)
+
+[Extended Data](ext_articles/6e5772ea.ext.json)
 
 ---
 
@@ -504,6 +564,8 @@ With the fall in the rates, the Colombo Stock Exchange saw some renewed interest
 
 [Data](articles/6baeb9d7.json)
 
+[Extended Data](ext_articles/6baeb9d7.ext.json)
+
 ---
 
 ### Parliament gets new Serjeant-at-Arms
@@ -526,6 +588,8 @@ Later in the year 2007, he joined the service of the Parliament of Sri Lanka as 
 
 [Data](articles/ee0e972e.json)
 
+[Extended Data](ext_articles/ee0e972e.ext.json)
+
 ---
 
 ### Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
@@ -541,6 +605,8 @@ But increasing pressure from the Chinese government, together with the weakening
 ...
 
 [Data](articles/764d7f34.json)
+
+[Extended Data](ext_articles/764d7f34.ext.json)
 
 ---
 
@@ -563,6 +629,8 @@ The combined efforts of both parties culminated in the rescue of the fishermen a
 ...
 
 [Data](articles/5be3f89f.json)
+
+[Extended Data](ext_articles/5be3f89f.ext.json)
 
 ---
 
@@ -609,6 +677,8 @@ Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
 ◼️
 
 [Data](articles/563df428.json)
+
+[Extended Data](ext_articles/563df428.ext.json)
 
 ---
 
@@ -687,6 +757,8 @@ The All Ceylon General Port Employee Union General Secretary, Niroshan Gorakane,
 ...
 
 [Data](articles/6b9ffcea.json)
+
+[Extended Data](ext_articles/6b9ffcea.ext.json)
 
 ---
 
@@ -793,6 +865,8 @@ Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
 ◼️
 
 [Data](articles/e22285cd.json)
+
+[Extended Data](ext_articles/e22285cd.ext.json)
 
 ---
 
@@ -933,6 +1007,8 @@ Sri Lanka’s central bank does not usually allow the exchange rate to appreciat
 ...
 
 [Data](articles/57713110.json)
+
+[Extended Data](ext_articles/57713110.ext.json)
 
 ---
 
@@ -1095,6 +1171,8 @@ Sri Lanka the parliament has control of public finance, and changing taxes by ga
 ...
 
 [Data](articles/464079ec.json)
+
+[Extended Data](ext_articles/464079ec.ext.json)
 
 ---
 
@@ -1346,6 +1424,8 @@ Recent indicators suggest that economic activity has been expanding at a solid p
 
 [Data](articles/05b063e6.json)
 
+[Extended Data](ext_articles/05b063e6.ext.json)
+
 ---
 
 ### Health strike begins
@@ -1407,6 +1487,8 @@ Petrol Octane 95 Euro 4 was cut by 8.0 rupees to 456 rupees and Super diesel Eur
 ◼️
 
 [Data](articles/cbe5973e.json)
+
+[Extended Data](ext_articles/cbe5973e.ext.json)
 
 ---
 
@@ -2041,77 +2123,5 @@ With regard to the ongoing investigations related to the substandard Immunoglobu
 [Data](articles/5c4f31b5.json)
 
 [Extended Data](ext_articles/5c4f31b5.ext.json)
-
----
-
-### CPC fuel prices revised from tonight
-
-*2024-01-31 21:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/CPC-fuel-prices-revised-from-tonight/155-276073) · `en`
-
-Colombo, Jan 31 (Daily Mirror) - The Ceylon Petroleum Corporation (CPC) has decided to revise its fuel prices with effect from midnight today.
-
-Accordingly, a litre of Lanka Petrol 92 Octane (Rs. 366) has been increased by Rs. 5, and its new retail price will be Rs. 371.
-
-A litre of Lanka Petrol 95 Octane Euro 4 (Rs. 464) has been reduced by Rs. 8, and its new retail price will be Rs. 456.
-
-A litre of Lanka Auto Diesel (Rs. 358) has been increased by Rs. 5, and its new retail price will be Rs. 363.
-
-A litre of Lanka Super Diesel 4 Star Euro 4 (Rs. 475) has been reduced by Rs. 7, and its new retail price will be Rs. 468.
-
-A litre of Lanka Kerosene (Rs. 236) has been increased by Rs. 7, and its new retail price will be Rs. 262.
-
-◼️
-
-[Data](articles/34455012.json)
-
-[Extended Data](ext_articles/34455012.ext.json)
-
----
-
-### CPC fuel prices revised
-
-*2024-01-31 21:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CPC-fuel-prices-revised/108-276073) · `en`
-
-Colombo, Jan 31 (Daily Mirror) - The Ceylon Petroleum Corporation (CPC) has decided to revise its fuel prices with effect from midnight today.
-
-Accordingly, a litre of Lanka Petrol 92 Octane (Rs. 366) has been increased by Rs. 5, and its new retail price will be Rs. 371.
-
-A litre of Lanka Petrol 95 Octane Euro 4 (Rs. 464) has been reduced by Rs. 8, and its new retail price will be Rs. 456.
-
-A litre of Lanka Auto Diesel (Rs. 358) has been increased by Rs. 5, and its new retail price will be Rs. 363.
-
-A litre of Lanka Super Diesel 4 Star Euro 4 (Rs. 475) has been reduced by Rs. 7, and its new retail price will be Rs. 468.
-
-A litre of Lanka Kerosene (Rs. 236) has been increased by Rs. 7, and its new retail price will be Rs. 262.
-
-◼️
-
-[Data](articles/e06ea50c.json)
-
-[Extended Data](ext_articles/e06ea50c.ext.json)
-
----
-
-### CPC fuel prices revised
-
-*2024-01-31 21:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/CPC-fuel-prices-revised/155-276073) · `en`
-
-Colombo, Jan 31 (Daily Mirror) - The Ceylon Petroleum Corporation (CPC) has decided to revise its fuel prices with effect from midnight today.
-
-Accordingly, a litre of Lanka Petrol 92 Octane (Rs. 366) has been increased by Rs. 5, and its new retail price will be Rs. 371.
-
-A litre of Lanka Petrol 95 Octane Euro 4 (Rs. 464) has been reduced by Rs. 8, and its new retail price will be Rs. 456.
-
-A litre of Lanka Auto Diesel (Rs. 358) has been increased by Rs. 5, and its new retail price will be Rs. 363.
-
-A litre of Lanka Super Diesel 4 Star Euro 4 (Rs. 475) has been reduced by Rs. 7, and its new retail price will be Rs. 468.
-
-A litre of Lanka Kerosene (Rs. 236) has been increased by Rs. 7, and its new retail price will be Rs. 262.
-
-◼️
-
-[Data](articles/f1a9fabb.json)
-
-[Extended Data](ext_articles/f1a9fabb.ext.json)
 
 ---

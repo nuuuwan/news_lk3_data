@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 05:17:18**
+As of **2024-02-01 05:37:27**
 
 ## Newspaper Stats
 
-*Scraped **3,953** Articles*
+*Scraped **3,964** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ bbccomsinhala | 62
 dbsjeyarajcom | 130
 islandlk | 208
 economynextcom | 221
-dailyftlk | 246
 newsfirstlk | 248
+dailyftlk | 257
 adalk | 350
 virakesarilk | 440
 adaderanasinhalalk | 455
@@ -26,11 +26,181 @@ dailymirrorlk | 545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,953 (100.0%) of 3,953 articles have been extended.
+3,953 (99.7%) of 3,964 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### Govt. misleading international community re: anti-corruption action?
+
+*2024-02-01 05:08:06* · [`dailyftlk`](https://www.ft.lk/columns/Govt-misleading-international-community-re-anti-corruption-action/4-758031) · `en`
+
+The Daily FT of 23 January 2024 published a report regarding a meeting the Minister of Justice had with the German Ambassador. It was titled “Legislation to combat bribery and corruption in Sri Lanka completed – says Justice Minister”. This article went on to note quoting the Minister: “He said politicians have been blamed for the bribery and corruption in the country and the people have reached the point where they are rejecting the politicians; as this situation is harmful to the country’s democracy. With a view to change this, the amendment for the regulation of election expenses and the Anti-corruption Act have already been passed”. The Minister said the foundation has been laid for a corruption-free and disorder-free Sri Lanka.
+
+...
+
+[Data](articles/43486356.json)
+
+---
+
+### Birthday tribute to Krishantha
+
+*2024-02-01 05:01:58* · [`dailyftlk`](https://www.ft.lk/opinion/Birthday-tribute-to-Krishantha/14-758030) · `en`
+
+Many have been my blessings over the past 15 years after a fresh lease of life afforded me in 2008. Spending quality time with my family including my grandchild more recently as well as attending spiritual retreats, with the latest ending on Australia Day long weekend, have been standouts.
+
+Retreats are a time to reflect on life and the mysterious workings of God in one’s life. It was definitely the mercy of God that afforded me a fresh lease of life after my abductors were hell-bent on literally silencing me after torture. God works on earth through angelic as well as human beings through their acts of goodness – the essence of God. At Christmas, the angels announced, “Glory to God on high and peace to men of goodwill”. Hence, a good person irrespective of their faith is already inclined towards God.
+
+...
+
+[Data](articles/4bc3a831.json)
+
+---
+
+### Proto-separatist federalism, populism, socialism, economics and elections
+
+*2024-02-01 04:54:11* · [`dailyftlk`](https://www.ft.lk/columns/Proto-separatist-federalism-populism-socialism-economics-and-elections/4-758024) · `en`
+
+“Tamils have lived long before the Sinhalese and our identity is bound here.”
+
+New ITAK leader S. Shritharan’s discourse signals a forthcoming challenge to Sri Lanka which cannot be ignored. The Political Editor of our Sunday sister paper quotes extensively from his recent speeches and interviews:
+
+“It is our fundamental responsibility…to realise the dreams of the fallen Great Heroes.”
+
+“Our National Leader [‘Purachchi Thalaivar’ Velupillai Prabhakaran] has guided us and trained us with impeccable discipline and commitment.”
+
+...
+
+[Data](articles/0bbecf1c.json)
+
+---
+
+### High-level UN FAO conference kicks off in Colombo to guide recovery, reforms of agrifood systems in Asia-Pacific
+
+*2024-02-01 04:46:36* · [`dailyftlk`](https://www.ft.lk/business/High-level-UN-FAO-conference-kicks-off-in-Colombo-to-guide-recovery-reforms-of-agrifood-systems-in-Asia-Pacific/34-758018) · `en`
+
+The Senior Officials Meeting of FAO’s 37th Session of the Regional Conference for Asia and the Pacific launched today in Colombo chaired by Ministry of Agriculture Additional Secretary (Agri-technology) Dr. Shiromani Edirimanne, flanked by FAO Regional Representative for Asia and Pacific Assistant Director-General Jong-Jin Kim and FAO Senior Food Safety and Nutrition Officer and Conference Secretary Sridhar Dharmapuri
+
+A major multilateral conference opened yesterday in Colombo which aims to transform the Asia-Pacific region’s agrifood systems, after multiple human and economic crises have set back progress to achieving the Sustainable Development Goals, particularly those to end hunger and poverty and reduce inequalities (SDGs 2, 1, 10).
+
+...
+
+[Data](articles/f71e0785.json)
+
+---
+
+### PM launches strategies to promote inclusive sustainable businesses to achieve SDGs
+
+*2024-02-01 04:44:46* · [`dailyftlk`](https://www.ft.lk/news/PM-launches-strategies-to-promote-inclusive-sustainable-businesses-to-achieve-SDGs/56-758017) · `en`
+
+ESCAP extends fullest support to Sri Lanka to achieve SDGs – UN Under Secretary General Armida Alisjahbana
+
+Prime Minister Dinesh Gunawardena yesterday launched the new strategies to promote inclusive sustainable businesses to achieve SDGs in Sri Lanka at the Temple Trees in the presence of UN Under Secretary General Armida Alisjahbana, who is also the Executive Director of ESCAP.
+
+After the launch, Prime Minister Dinesh Gunawardena said that Sri Lanka’s vision for new Sri Lanka cannot be achieved without developing and promoting sustainable businesses. “Businesses today hold immense power not just as engines of economic growth, but also as agents of positive change,” he said.
+
+...
+
+[Data](articles/ab32a598.json)
+
+---
+
+### Sri Lanka and Australia collaborate on governance strengthening with Rs. 6.3 b funding
+
+*2024-02-01 04:42:58* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-Australia-collaborate-on-governance-strengthening-with-Rs-6-3-b-funding/56-758016) · `en`
+
+Sri Lanka and Australia yesterday signed a 10-year subsidiary arrangement that commits an initial AUD 30 million (Rs. 6.3 billion) over five years to support improved governance in Sri Lanka.
+
+Through a suite of programs, the arrangement supports the Sri Lankan Government, non-profit institutions and civil society to improve evidence-based policy and decision-making, deliver better services for communities, and increase the voice and agency of marginalised groups, including women.
+
+Lead delivery partners include the World Bank, The Asia Foundation, and International Foundation of Electoral Systems. The program will also support twinning arrangements between Australian and Sri Lankan institutions.
+
+This investment builds on a previous five-year arrangement valued at AUD 31 million (Rs. 6.5 billion) over five years.
+
+...
+
+[Data](articles/9fab4390.json)
+
+---
+
+### RIUNIT webinar: IMF, geopolitics, and Sri Lanka’s economic sovereignty on 7 Feb.
+
+*2024-02-01 04:41:54* · [`dailyftlk`](https://www.ft.lk/news/RIUNIT-webinar-IMF-geopolitics-and-Sri-Lanka-s-economic-sovereignty-on-7-Feb/56-758015) · `en`
+
+The Research Intelligence Unit (RIUNIT), in partnership with the Institute for Political Economy (IPE), presents a webinar featuring experts in geopolitics, debt justice, and the Sri Lankan economy.
+
+Speakers include Professor Yanis Varoufakis, Professor Dr. Howard Nicholas, Heidi Chow, and Tania Abeysundara, with Professor Kanchana N. Ruwanpura and Roshan Madawela moderating.
+
+It will be held on Wednesday, 7 February at 1630 hours Colombo; 1100 hours London; 1900 hours Singapore.
+
+This webinar serves as a platform for stakeholders to delve into Sri Lanka’s economic challenges, the role of international institutions like the IMF, and the impact of geopolitical dynamics on the nation’s sovereignty.
+
+Participants will gain insights into strategies for addressing economic vulnerabilities, mitigating poverty, and navigating global uncertainties. The discussions will explore avenues for sustainable development, equitable growth, and resilience-building in the face of multifaceted challenges.
+
+...
+
+[Data](articles/753f43a5.json)
+
+---
+
+### IOM facilitates ICAO Traveller Identification Program Strategy training for immigration officers
+
+*2024-02-01 04:39:42* · [`dailyftlk`](https://www.ft.lk/news/IOM-facilitates-ICAO-Traveller-Identification-Program-Strategy-training-for-immigration-officers/56-758014) · `en`
+
+The International Organization for Migration (IOM), in collaboration with the International Civil Aviation Organization (ICAO) training arm and the Sri Lanka Airport and Aviation Academy (SLAAA), facilitated training of 15 immigration officers attached to the Border Surveillance Unit (BSU) on ICAO Traveller Identification Program (TRIP) Strategy.
+
+The primary objective of this training was to deliver an ICAO accredited training course for immigration officers on the Traveller Identification Programme Strategy. Through the standardised curriculum delivered as part of the Sri Lanka Readmission Project, IOM aimed to enhance the department’s traveller identity management capabilities, better aligning them with international standards. By providing internationally recognised training, the programme sought to strengthen border governance and contribute towards the safe, orderly, and dignified return and readmission of migrants.
+
+...
+
+[Data](articles/12b02ce4.json)
+
+---
+
+### SL-UK Chamber of Commerce holds business roundtable with Foreign Minister Ali Sabry
+
+*2024-02-01 04:38:09* · [`dailyftlk`](https://www.ft.lk/business/SL-UK-Chamber-of-Commerce-holds-business-roundtable-with-Foreign-Minister-Ali-Sabry/34-758013) · `en`
+
+The Sri Lanka High Commission in the United Kingdom successfully organised a business roundtable on 26 January between the Sri Lanka–UK Chamber of Commerce and Foreign Minister Ali Sabry. The event marked a significant milestone in fostering trade and investment relations between Sri Lanka and UK.
+
+Sri Lanka-UK Chamber of Commerce President Shehan Silva emphasised the significant growth the chamber has experienced since its establishment two years ago. The roundtable successfully convened experts from various industries, such as tea, tourism, banking, and finance, contributing to the development of the strong institution it has become today.
+
+...
+
+[Data](articles/6a4dbfb3.json)
+
+---
+
+### Dudley’s latest $ 8.9 m tourism venture receives BOI approval
+
+*2024-02-01 04:36:24* · [`dailyftlk`](https://www.ft.lk/business/Dudley-s-latest-8-9-m-tourism-venture-receives-BOI-approval/34-758012) · `en`
+
+The Board of Investment (BOI) has granted approval for the latest tourism initiative from the Araliya group, led by prominent businessman Dudley Sirisena this week.
+
+Sirisena took to Facebook to announce that his company is set to expand its leisure and tourism portfolio with the addition of the ‘Araliya Golden Beach Resort’ in Unawatuna, Galle.
+
+This week, an agreement between the Board of Investment (BOI) and the Araliya Group was formalised at the BOI. BOI Chairman Dinesh Weerakkody represented the BOI, and Dudley Sirisena signed the documents on behalf of the Araliya Group. Sirisena said the total investment is estimated at $ 8.9 million.
+
+...
+
+[Data](articles/afc68a46.json)
+
+---
+
+### Singapore High Commissioner visits BOI
+
+*2024-02-01 04:35:30* · [`dailyftlk`](https://www.ft.lk/business/Singapore-High-Commissioner-visits-BOI/34-758011) · `en`
+
+Non-resident Singapore High Commissioner for Sri Lanka S. Chandra Das met with the Board of Investment Chairman Dinesh Weerakkody and officials for a briefing on the current economic climate and potential investment opportunities in the country.
+
+Additionally the BOI discussed areas of cooperation including training opportunities and capacity building.
+
+◼️
+
+[Data](articles/de9643c4.json)
+
+---
 
 ### Five Sri Lankan companies display innovations at Ambiente 2024
 
@@ -1857,211 +2027,5 @@ He added that he would expect to strengthen the education of Sri Lanka as needed
 [Data](articles/55deb457.json)
 
 [Extended Data](ext_articles/55deb457.ext.json)
-
----
-
-### CID to grill Keheliya today
-
-*2024-01-31 16:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-to-grill-Keheliya-today/108-276048) · `en`
-
-Colombo, Jan 31 (Daily Mirror) - Former Health Minister Keheliya Rambukwella has been summoned before the Criminal Investigation Department (CID) for a statement to be recorded today regarding the import of substandard Immunoglobulin injections, a highly placed authoritative source told the Daily Mirror.
-
-According to the source, Rambukwella, who is also the Environment Minister, has confirmed that he will appear before the CID within the day. The CID recorded a statement from him earlier too.
-
-◼️
-
-[Data](articles/256153da.json)
-
-[Extended Data](ext_articles/256153da.ext.json)
-
----
-
-### Amid row with India, Maldives turns to Sri Lanka for medical evacuation support
-
-*2024-01-31 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/96889/amid-row-with-india-maldives-turns-to-sri-lanka-for-medical-evacuation-support) · `en`
-
-Maldives has sought Sri Lanka’s assistance in medical evacuation services — mainly to transport patients to Colombo in air ambulances — amid a persisting strain with India.
-
-Maldivian Minister of Transport and Civil Aviation Mohamed Ameen met his Sri Lankan counterpart Nimal Siripala de Silva in Colombo on Tuesday, and said on social media platform ‘X’, that Sri Lanka has agreed to help the Maldives with medical evacuation. “We have specifically agreed upon creating a framework for immediate approval process between Maldives and Sri Lanka on urgent requirements, specifically on med-evac flights,” Mr. Ameen said in his post.
-
-“They [Maldives] will use their air ambulances, this is to help keep this channel open and easy for any emergency medical treatment that Maldivians might need in Sri Lanka,” Mr. de Silva told The Hindu Wednesday morning.  Sri Lanka and India are among the Maldives’s closest neighbours, and Maldivians have always had close ties in Colombo, a city they frequent.
-
-...
-
-[Data](articles/4d02d1a7.json)
-
-[Extended Data](ext_articles/4d02d1a7.ext.json)
-
----
-
-### Police fire tear gas at protesting students in Peradeniya
-
-*2024-01-31 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/96888/police-fire-tear-gas-at-protesting-students-in-peradeniya) · `en`
-
-Police have fired tear gas and water cannons near the Peradeniya Rest House in attempts to disperse a group of protesting students from the University of Peradeniya.
-
-The Students’ Union of the Peradeniya University staged a protest march this afternoon (31 Jan.), over several demands including the reduction of the Value Added Tax (VAT), to stop all kinds of student repression, to immediately resolve all issues related to academic welfare and to expand opportunities for free education.
-
-◼️
-
-[Data](articles/7c6ba019.json)
-
-[Extended Data](ext_articles/7c6ba019.ext.json)
-
----
-
-### Police tear gas to a student protest
-
-*2024-01-31 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192798) · `si`
-
-Police have launched a tear gas to disperse a student protest at the University of Peradeniya.
-
-The police have been attacked near the Peradeniya River.
-
-◼️
-
-[Data](articles/e24b3119.json)
-
-[Extended Data](ext_articles/e24b3119.ext.json)
-
----
-
-### Sultan Iskandar as the 17th king of Malaysia
-
-*2024-01-31 16:34:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மலேசியாவின்-17-வது-மன்னராக-சுல்தான்-இஸ்கந்தர்/50-332432) · `ta`
-
-Although the Prime Minister of Malaysia is still prolonged. At this juncture, Sultan Ibrahim Iskandar is now the 17th king of Malaysia.
-
-In this case, he and his family have investments in various companies, including telecommunications in Singapore.. It is worth Rs 47,000 crore.
-
-Sultan Ibrahim, a Malay-British descent, also leads a private military in Malaysia.
-
-In this case, he said, "I will support the government, but I will warn it if they think they are doing something wrong.". In recent years, the elections have not been received by a parliament. So the king's intervention was needed to choose the new prime minister. Said.
-
-◼️
-
-[Data](articles/a1c1c3f9.json)
-
-[Extended Data](ext_articles/a1c1c3f9.ext.json)
-
----
-
-### The presidential election candidates, who is more supportive -what is the poll of the IHP?
-
-*2024-01-31 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175255) · `ta`
-
-A poll revealed that JVP's Anura Kumaradisanayake continues to support the presidential candidates.
-
-This was revealed in a poll conducted by Institute of Health Police in December to find out the people's mindset about who to vote during the upcoming presidential election.
-
-The HPP has revealed that 50 percent support for the JVP leader, 33 percent of the support of the United People's Power and 9 % for President Rani Lwickramasinghe.
-
-Since mid -2023, the support of Anuragumaratisanayakavi has increased in December, but the support for the leader of the United Nations Power has increased by 3 percent after September 2023, according to the IHP's opinion.
-
-◼️
-
-[Data](articles/1afdf595.json)
-
-[Extended Data](ext_articles/1afdf595.ext.json)
-
----
-
-### Kushan Sampath Jayaratne assumed duties as the 7th Corps of Parliament
-
-*2024-01-31 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175256) · `ta`
-
-Kushan Sampath Jayaratne took over his duties today as the 7th Army of the Parliament of Sri Lanka.
-
-Kushan Sampath Jayaratne took over as the 7th Service of Narendra Fernando on Tuesday (30).
-
-The ceremony was held yesterday (30) near the silver door of the Parliament Hall by the Scepter and Service Servant's sword.
-
-Kushan Sampath Jayaratne worked in the Sri Lanka Navy from 1994 to 2007. He had joined the high -speed attack during his service and provided the most effective service. He then joined the Parliamentary Service of the Sri Lanka Parliamentary Service in 2007 and was appointed as the Deputy Service Service in 2018.. Accordingly, he served in the post until yesterday (30).
-
-...
-
-[Data](articles/64d79700.json)
-
-[Extended Data](ext_articles/64d79700.ext.json)
-
----
-
-### Gammanpila’s travel ban temporarily lifted to read PhD
-
-*2024-01-31 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gammanpilas-travel-ban-temporarily-lifted-to-read-PhD/108-276047) · `en`
-
-Colombo, Jan 31 (Daily Mirror) - The Colombo High Court today permitted Parliamentarian Udaya Gammanpila to travel China to read for his PhD.
-
-Former Minister Gammanpila whose passport was impounded by Court for allegedly misappropriating Rs. 20 million following the alleged fraudulent share transaction that had taken place in 2000, sought the Colombo High Court’s permission to temporarily lift his travel ban.
-
-Court was informed that Gammanpila is expecting to travel to China occasionally to read for a PhD.
-
-◼️
-
-[Data](articles/7d64d64b.json)
-
-[Extended Data](ext_articles/7d64d64b.ext.json)
-
----
-
-### All Ceylon Nursing Association resigns from strike
-
-*2024-01-31 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192797) · `si`
-
-The All Ceylon Nurses Union says his union is not one for the strike for the health sector tomorrow.
-
-The members of the union said to the media after the general captain of the Malwatte side of the health sector.
-
-The All Ceylon Nurses Union said that the strike was a government conspiracy and decided to leave.
-
-However, the All Ceylon Nurses Union says that if the authorities have been informed of their demands and requested the authorities to take a proper answer.
-
-◼️
-
-[Data](articles/992937ab.json)
-
-[Extended Data](ext_articles/992937ab.ext.json)
-
----
-
-### Bribery case against Keheliya postponed
-
-*2024-01-31 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192796) · `si`
-
-The Colombo High Court today ordered the basic protest against the bribery commission.
-
-The case was called before Colombo High Court Judge Thatawatte today.
-
-Attorneys who appeared for the defendant raised the preliminary protests in order to raise basic objections and to refute it.
-
-After considering the initial objections, the court ordered that its order was declared on February 16.
-
-Death was accused of March 15 and 150,000 rupees applicable to his private mobile phone at Keheliya Rambukwella on April 15 and April 15The case has been filed by the Bribery Commission.
-
-◼️
-
-[Data](articles/2c7108b5.json)
-
-[Extended Data](ext_articles/2c7108b5.ext.json)
-
----
-
-### 31 Petitions Challenge Constitutionality of Controversial Anti-Terrorism Bill
-
-*2024-01-31 16:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/31-petitions-challenge-constitutionality-of-controversial-anti-terrorism-bill/) · `en`
-
-COLOMBO (News 1st); The Supreme Court of Sri Lanka conducted the fourth day of hearing on the petitions filed against the Anti-Terrorism Bill that was submitted by the government to the Parliament.
-
-The hearing was presided over by Chief Justice Jayantha Jayasuriya, and Justices Vijith Mallalgoda, A.H. M. D Nawaz, Shiran Gunaratne, and Arjuna Obeysekera.
-
-The Attorney General has been named as the respondent in the petitions.
-
-So far, approximately 31 petitions have been filed with the Supreme Court demanding that certain clauses of the Anti-Terrorism Bill termed as unconstitutional.
-
-...
-
-[Data](articles/8691fadc.json)
-
-[Extended Data](ext_articles/8691fadc.ext.json)
 
 ---

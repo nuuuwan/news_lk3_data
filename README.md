@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 18:50:40**
+As of **2024-02-01 19:17:16**
 
 ## Newspaper Stats
 
-*Scraped **4,164** Articles*
+*Scraped **4,166** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 258
 newsfirstlk | 265
 adalk | 368
 virakesarilk | 463
-adaderanasinhalalk | 489
+adaderanasinhalalk | 491
 adaderanalk | 521
 tamilmirrorlk | 531
 dailymirrorlk | 566
@@ -26,11 +26,29 @@ dailymirrorlk | 566
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,150 (99.7%) of 4,164 articles have been extended.
+4,164 (100.0%) of 4,166 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### ජනපතිගේ කාර්යයන් සහ ඊට බාධා කිරීම් ගැන දැනුම්දීමක්
+
+*2024-02-01 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192853) · `si`
+
+ජනාධිපතිවරයාට ඔහුගේ ව්‍යවස්ථාපිත කාර්යභාරය ඉටු කිරීමේදී සිදු කරනු ලබන ඕනෑම අවහිරයක් ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝනය කිරීමක් බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+ජනාධිපතිවරයා යම් හෙයකින් ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනිව තම බලතල ක්‍රියාත්මක කරන්නේ නම් ඒ සඳහා තිබෙන ප්‍රතිකර්ම ආණ්ඩුක්‍රම ව්‍යවස්ථාවෙන්ම සපයා ඇති බවද ඉන් පෙන්වා දෙයි.
+
+එබැවින් ජනාධිපතිවරයාට කිසිඳු බාධාවකින් හෝ මැදිහත්වීමකින් තොරව ව්‍යවස්ථානුකූල රාජකාරි ඉටු කිරීමට සිදුවෙන බවත් ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 41ඇ. ව්‍යවස්ථාව යටතේ පොලිස්පතිවරයා පත් කිරීම සිදු කරනු ලබන්නේ ජනාධිපතිවරයා විසින් සිදු කරනු ලබන නිර්දේශය ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව විසින් අනුමත කිරීමෙන් පසුව බවත් ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාව මගින් ස්ථාපිත කොට ඇති පාර්ලිමේන්තුවේ කථානායකවරයා සභාපතිත්වය දරන ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව විධායකයේ කොටසක් වශයෙන් ක්‍රියාත්මක වන අතර, ජනාධිපතිවරයාට තම ව්‍යවස්ථාපිත කාර්යභාරය ඉටු කිරීමට අවශ්‍ය සහයෝගය ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව මගින් ලබා දෙනු ලබයි.
+
+...
+
+[Data](articles/c60604c6.json)
+
+---
 
 ### Steps to provide mid-day meals to all primary school children from March
 
@@ -45,6 +63,24 @@ The Minister further said that all school textbooks required for 2024 have been 
 [Data](articles/0cdfb418.json)
 
 [Extended Data](ext_articles/0cdfb418.ext.json)
+
+---
+
+### එන්නත් සිද්ධියේ එක් සැකකරුවෙකුට ඇප
+
+*2024-02-01 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192852) · `si`
+
+ප්‍රමිතියෙන් තොර හියුමන් ඉමියුනොග්ලොබියුලින් සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රිමාන්ඩ් බන්ධනාගාරගතකර සිටි සැකකරුවෙකු ඇප මත මුදාහැරීමට අධිකරණය නියෝග කර තිබේ.
+
+මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය එහිදී නියෝග කර ඇත්තේ ඔහුව ලක්ෂ 10ක ශරීර ඇප දෙකක් මත මුදාහරින ලෙසටය.
+
+මෙලෙස ඇප මත මුදාහැර ඇත්තේ එම සිද්ධියේ 5 වන සැකකරු වන ගබඩා පාලකවරයාය.
+
+මේ අතර එම සිදුවීම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන සිටින සෙසු සැකකරුවන් 6 දෙනා එළඹෙන 15 වනදා දක්වා යළි රිමාන්ඩ් බන්ධනාගාරගතකිරීමට අධිකරණය වැඩිදුරටත් නියෝග කර ඇත.
+
+◼️
+
+[Data](articles/0d01b9c8.json)
 
 ---
 
@@ -63,6 +99,8 @@ Chandragupta was arrested by the Criminal Investigation Department (CID) on 18 D
 ...
 
 [Data](articles/7697ea41.json)
+
+[Extended Data](ext_articles/7697ea41.ext.json)
 
 ---
 
@@ -125,6 +163,8 @@ However, the Mahanayake Thero further added that people who use social media sho
 ◼️
 
 [Data](articles/fe6ab59d.json)
+
+[Extended Data](ext_articles/fe6ab59d.ext.json)
 
 ---
 
@@ -222,6 +262,8 @@ There were opportunities for Korean buyers to directly access gems and jewelry, 
 
 [Data](articles/6a25ff55.json)
 
+[Extended Data](ext_articles/6a25ff55.ext.json)
+
 ---
 
 ### The People’s Platform | Conversations From The Galle Literary Festival | Christina Lamb
@@ -301,6 +343,8 @@ A bond maturing on 01.07.2032 closed at 13.45/60 percent from 13.40/60 percent. 
 ◼️
 
 [Data](articles/94292095.json)
+
+[Extended Data](ext_articles/94292095.ext.json)
 
 ---
 
@@ -449,6 +493,8 @@ The banks industry group as a whole contributed the most to the day’s turnover
 ...
 
 [Data](articles/f730fb9d.json)
+
+[Extended Data](ext_articles/f730fb9d.ext.json)
 
 ---
 
@@ -1430,6 +1476,8 @@ Indian High Commission, Ceylon Electricity Board, Lanka Transformers Ltd and Pet
 
 [Data](articles/a4c149c4.json)
 
+[Extended Data](ext_articles/a4c149c4.ext.json)
+
 ---
 
 ### Bus fares are prepared to increase
@@ -1574,6 +1622,8 @@ The hotel has issued a guest advisory about the construction work on its website
 
 [Data](articles/cf83d947.json)
 
+[Extended Data](ext_articles/cf83d947.ext.json)
+
 ---
 
 ### Government action to increase salary
@@ -1649,6 +1699,8 @@ Such borrowers should have a valid business registration obtained from a relevan
 ...
 
 [Data](articles/c5d1ea55.json)
+
+[Extended Data](ext_articles/c5d1ea55.ext.json)
 
 ---
 
@@ -1894,6 +1946,8 @@ Speaking at a American Chamber of Commerce CXO Forum in Colombo on Wednesday Jan
 
 [Data](articles/25e955ac.json)
 
+[Extended Data](ext_articles/25e955ac.ext.json)
+
 ---
 
 ### “It was neither protest nor rally”: Sarath Fonseka
@@ -1913,33 +1967,5 @@ The MP said some 8,000 people participated in the protest but ultimately it was 
 [Data](articles/513ef224.json)
 
 [Extended Data](ext_articles/513ef224.ext.json)
-
----
-
-### Les Enfants Du Paradis – Part I
-
-*2024-02-01 11:40:50* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/les-enfants-du-paradis-part-i/) · `en`
-
-The children in paradise. But whose children and in what paradise? In the country hyped as a paradise, the children in question are the offspring of the rich and privileged, which of course now mainly includes the corrupt politician class, and the paradise in question is the metropolis. By discussing the plight of marginalized children in the country, a plight  that most international and local child-protection organizations in the country choose to ignore, this essay begins by focusing on the plight of such children and goes on to argue that this plight is symptomatic of an enabling corrupt and morally bankrupt country that sustains these vile discriminatory practices.
-
-...
-
-[Data](articles/636f944c.json)
-
----
-
-### UN FAO’s two-part 37th regional conference commences in Sri Lanka
-
-*2024-02-01 11:37:00* · [`economynextcom`](https://economynext.com/un-faos-two-part-37th-regional-conference-commences-in-sri-lanka-149513/) · `en`
-
-ECONOMYNEXT –A ‘senior officials meeting’ of a two-part high-level multilateral conference organised by the Food and Agriculture Organisation (FAO) of the United Nations (UN) commenced on Wednesday January 31 in Colombo, Sri Lanka, ahead of a ministerial session scheduled for February 19-22.
-
-FAO said in a statement that its 37th Session of the Regional Conference for Asia and the Pacific (#APRC37) aims to transform the Asia-Pacific region’s agrifood systems, after multiple human and economic crises set back progress to achieving Sustainable Development Goals (SDGs), particularly those to end hunger and poverty and reduce inequalities (SDGs 2, 1, 10).
-
-The organisation said that the event marks a major international, multilateral milestone in an effort to reform agrifood systems across the Asia-Pacific region, after years of pandemic, climate emergencies, volatile markets and economies that have negatively affected millions of producers, farmers, fishers, pastoralists and consumers.
-
-...
-
-[Data](articles/22d4129b.json)
 
 ---

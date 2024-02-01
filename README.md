@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 11:51:59**
+As of **2024-02-01 12:02:36**
 
 ## Newspaper Stats
 
-*Scraped **4,033** Articles*
+*Scraped **4,034** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 257
 adalk | 355
 virakesarilk | 449
 adaderanasinhalalk | 467
-adaderanalk | 506
+adaderanalk | 507
 tamilmirrorlk | 513
 dailymirrorlk | 553
 
@@ -26,11 +26,31 @@ dailymirrorlk | 553
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,033 (100.0%) of 4,033 articles have been extended.
+4,034 (100.0%) of 4,034 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### Republican lawmaker nominates Trump for Nobel Peace Prize for ‘historic’ Middle East policy
+
+*2024-02-01 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/96910/republican-lawmaker-nominates-trump-for-nobel-peace-prize-for-historic-middle-east-policy) · `en`
+
+A Republican lawmaker has nominated Donald Trump for a Nobel Peace Prize, citing his ‘historic’ policy in the Middle East.
+
+New York representative Claudia Tenney said in a statement that she decided to nominate the former president for his role in the Abraham Accords treaty, which formally normalised relations between the United Arab Emirates, Bahrain and Israel.
+
+‘Donald Trump was instrumental in facilitating the first new peace agreements in the Middle East in almost 30 years,’ she claimed in a statement posted on her website.
+
+‘For decades, bureaucrats, foreign policy ‘professionals’, and international organisations insisted that additional Middle East peace agreements were impossible without a resolution to the Israeli-Palestinian conflict. President Trump proved that to be false,’ she added.
+
+...
+
+[Data](articles/13506505.json)
+
+[Extended Data](ext_articles/13506505.ext.json)
+
+---
 
 ### Sri Lanka records over 200,000 tourists arrivals in January
 
@@ -2117,25 +2137,5 @@ The Asian Weightlifting Continental Championship is the penultimate qualifying e
 [Data](articles/ec2c17fc.json)
 
 [Extended Data](ext_articles/ec2c17fc.ext.json)
-
----
-
-### Power Ministry Secretary called on to prevent high spending on private lawyers
-
-*2024-01-31 20:27:00* · [`islandlk`](http://island.lk/power-ministry-secretary-called-on-to-prevent-high-spending-on-private-lawyers/) · `en`
-
-The Ceylon Electricity Board Engineers Union (CEBEU) has informed Dr. Sulakshana Jayawardane, Secretary, Ministry of Power and Energy, to intervene to prevent the spending millions of rupees as legal fees on private legal counsellors.
-
-A senior electrical engineer told The Island Financial Review that it is a violation of government restrictions to spend in this manner to cover up management blunders.
-
-The Union pointed to the Power and Energy Ministry letter dated February 01, 2023, conveying a Cabinet Decision 23/0199/601/099, dated January 31, 2023 in relation to this issue.
-
-“This decision explicitly instructed all state-owned enterprises (SOEs) to exclusively retain the services of lawyers from the Attorney General’s Department, who the Cabinet says are specially trained and experienced to represent the SOEs in legal matters, the senior engineer said.
-
-...
-
-[Data](articles/4f141598.json)
-
-[Extended Data](ext_articles/4f141598.ext.json)
 
 ---

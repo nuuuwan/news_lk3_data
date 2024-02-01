@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 10:33:53**
+As of **2024-02-01 10:50:49**
 
 ## Newspaper Stats
 
-*Scraped **4,009** Articles*
+*Scraped **4,010** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 257
 adalk | 353
 virakesarilk | 444
 adaderanasinhalalk | 463
-adaderanalk | 503
+adaderanalk | 504
 tamilmirrorlk | 511
 dailymirrorlk | 545
 
@@ -26,27 +26,37 @@ dailymirrorlk | 545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,002 (99.8%) of 4,009 articles have been extended.
+4,010 (100.0%) of 4,010 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
 
-### 18 இந்திய மீனவர்கள் நிபந்தனையின் அடிப்படையில் விடுதலை
+### 18 Indian fishermen released on condition
 
 *2024-02-01 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175284) · `ta`
 
-இலங்கை கடற்பரப்பிற்குள் அத்துமீறி  நுழைந்து மீன் பிடியில் ஈடுபட்ட நிலையில் கைது செய்யப்பட்டு  விளக்கமறியலில் வைக்கப்பட்டிருந்த 18 இந்திய மீனவர்கள் புதன்கிழமை (31) மன்னார் நீதி மன்றத்தினால் நிபந்தனையின் அடிப்படையில் விடுதலை செய்யப்பட்டுள்ளனர்.
+18 Indian fishermen who were arrested and interrogated after being arrested for fishing in the Sri Lankan waters have been released on Wednesday (31) by the Mannar Court.
 
-இவர்கள் மீது மன்னார் மாவட்ட கடற்றொழில் நீரியல் வள திணைக்களத்தினால் மன்றில் இன்றைய தினம் 3 குற்றச்சாட்டுக்கள் முன் வைக்கப்பட்டது.
+Three allegations were made against them today by the Mannar District Fisheries and Aquatic Resources Department.
 
-பணிப்பாளரின் அனுமதியின்றி இலங்கை கடற்பரப்பில் அத்துமீறி நுழைந்து மீன் பிடியில் ஈடுபட்டமை, இலங்கை கடற்பரப்பில் கடற் தொழிலில் ஈடுபட்டமை மற்றும் இலங்கையில் தடை செய்யப்பட்ட இழுவை மடி தொழில் முன்னெடுத்தமை ஆகிய மூன்று குற்றச்சாட்டுக்கள் முன் வைக்கப்பட்டது.
+Three allegations have been put forward by the Sri Lankan waters without the permission of the Director, fishing in the Sri Lankan waters, and the launch of a banned drag in Sri Lanka.
 
-குறித்த குற்றச்சாட்டுக்களை விசாரணைக்கு உட்படுத்திய நீதவான் 1 ஆம் மற்றும் 2 ஆம் குற்றச்சாட்டுகளுக்கு 12 மாதங்களும், 3 ஆவது குற்றச்சாட்டுக்கு 6 மாதங்களுக்கு விதிக்கப்பட்டு 5   வருடங்களுக்கு ஒத்திவைக்கப்பட்ட சிறை தண்டனை வழங்கப்பட்டு இவர்களை நிபந்தனையின் அடிப்படையில்   விடுதலை செய்யப்பட்டனர்.
+The Magistrate, who had investigated the allegations, was sentenced to 12 months for the allegations for the 1st and 2nd and the 3rd charges were sentenced to five months and were sentenced to five years.
+
+In addition, the case will be taken up for hearing on March 20.
+
+The owner of the boat has been ordered to appear before the day.
+
+The 18 Indian fishermen have been sent to the Mirihana Center through the Indian consulate officials.
+
+18 Tamil Nadu fishermen were arrested by the Navy on the 16th of last month.
 
 ...
 
 [Data](articles/47f74dd7.json)
+
+[Extended Data](ext_articles/47f74dd7.ext.json)
 
 ---
 
@@ -62,77 +72,109 @@ The decision was reached to ensure that functions at hospitals are not disrupted
 
 [Data](articles/7d031451.json)
 
+[Extended Data](ext_articles/7d031451.ext.json)
+
 ---
 
-### ஜனவரி மாதத்தில் 2 இலட்சம் சுற்றுலாப் பயணிகள்
+### Tri-forces personnel deployed to hospitals amidst health strike
+
+*2024-02-01 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96906/tri-forces-personnel-deployed-to-hospitals-amidst-health-strike) · `en`
+
+The Defence Ministry tri-forces personnel are being deployed to hospitals across the country, depending on the requirements at each facility.
+
+The decision was reached to ensure that functions at hospitals are not disrupted by the ongoing strike launched by health sector workers.
+
+◼️
+
+[Data](articles/a1695938.json)
+
+[Extended Data](ext_articles/a1695938.ext.json)
+
+---
+
+### 2 lakh tourists in January
 
 *2024-02-01 09:50:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனவரி-மாதத்தில்-2-இலட்சம்-சுற்றுலாப்-பயணிகள்/175-332464) · `ta`
 
-ஜனவரி மாதத்தில், இலங்கைக்கு வந்த சுற்றுலாப் பயணிகளின் எண்ணிக்கை இரண்டு இலட்சத்தைத் தாண்டியுள்ளதாக சுற்றுலா அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+The Tourism Development Authority said that in January, the number of tourists who came to Sri Lanka exceeded two lakhs.
 
-அதன்படி கடந்த ஜனவரி மாதம் 30ஆம் திகதி வரையான காலப்பகுதியில் 201,687 சுற்றுலாப் பயணிகள் இலங்கைக்கு வருகை தந்துள்ளனர்.
+Accordingly, until the 30th of January, 201,687 tourists visited Sri Lanka.
 
-அவர்களில் அதிகளாவனவர்கள் இந்தியர்கள் என்றும், பெரும்பாலான சுற்றுலா பயணிகள் ரஷ்யா, பிரிட்டன் மற்றும் ஜெர்மனியில் இருந்து வந்துள்ளதாகவும் கூறப்படுகிறது.
+Most of them are said to be Indians and most tourists are from Russia, Britain and Germany.
 
-இதேவேளை, கடந்த ஆண்டு டிசெம்பர் மாதத்தில் 210,000க்கும் அதிகமான சுற்றுலாப் பயணிகள் வருகை தந்துள்ளனர்.
+Meanwhile, more than 210,000 tourists arrived in December last year.
 
 ◼️
 
 [Data](articles/caa5bfb1.json)
 
+[Extended Data](ext_articles/caa5bfb1.ext.json)
+
 ---
 
-### யுக்திய நடவடிக்கையில் 878 பேர் கைது !
+### 878 arrested
 
 *2024-02-01 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/175282) · `ta`
 
-நாடளாவிய ரீதியில் இன்று வியாழக்கிழமை (01) அதிகாலை 12.30 மணியுடன் நிறைவடைந்த 24 மணித்தியாலத்தில் யுக்திய விசேட நடவடிக்கையில் 878 பேர் கைதுசெய்யப்பட்டுள்ளதாக பொதுமக்கள் பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+The Ministry of Public Safety said that 878 people have been arrested in a special action in the 24 hours after the end of Thursday (01) at 12.30 am today.
 
-கைதுசெய்யப்பட்டவர்களில் போதைப்பொருள் தொடர்பான குற்றச்சாட்டின் கீழ் கைது செய்யப்பட்ட 649 சந்தேக நபர்களும், தேடப்படும் குற்றவாளிகள் பட்டியலில் இருந்த 229 பேரும் அடங்குவர்.
+The arrested include 649 suspects arrested on a drug charge and 229 on the list of criminals.
 
-போதைப்பொருள் குற்றங்களுடன் தொடர்புடைய 649 சந்தேக நபர்களில் 6 சந்தேக நபர்கள் தடுத்து வைத்து விசாரணைகளுக்குட்படுத்தபட்டுள்ளதுடன், போதைக்கு அடிமையான 04 பேர் புனர்வாழ்வு நிலையங்களுக்கு அனுப்பி வைக்கப்பட்டுள்ளனர்.
+Of the 649 suspects involved in drug offenses, 6 suspects have been detained and investigated and four addictions have been sent to rehabilitation centers.
 
-அத்துடன், பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவு மற்றும் பொலிஸ் விசேட பணியகத்தின் பட்டியலில் இருந்த 15 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+In addition, 15 suspects have been arrested from the list of the Police Drug Eradication Unit and the Special Bureau of Police.
 
-மேலும், கைதுசெய்யப்பட்ட 229 சந்தேக நபர்களில், குற்றப் பிரிவினருக்கு பரிந்துரைக்கப்பட்ட பட்டியலில், போதைப்பொருள் குற்றங்கள் தொடர்பான திறந்த பிடியாணை பெற்ற 26 சந்தேக நபர்களும், போதைப்பொருள் அல்லாத குற்றங்கள் தொடர்பான 192 திறந்த பிடியாணை பிறப்பிக்கப்பட்டவர்களும் அடங்குகின்றனர்.
+In addition, the 229 suspects who were arrested were included in the list recommended for the Criminal Investigation Department, including 26 suspects who had been opened on drug offenses and 192 opening crimes.
+
+Three suspects and three suspects have been arrested in connection with the crime.
 
 ...
 
 [Data](articles/0c255702.json)
 
+[Extended Data](ext_articles/0c255702.ext.json)
+
 ---
 
-### ஹோட்டல் அறையில் இளைஞனின் சடலம் மீட்பு
+### Young man's body recovery in the hotel room
 
 *2024-02-01 09:41:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோட்டல்-அறையில்-இளைஞனின்-சடலம்-மீட்பு/175-332463) · `ta`
 
-காலி வீதி வேவல, பகுதியில் உள்ள ஹோட்டல் ஒன்றில் தங்கியிருந்த நபர் ஒருவர் மர்மமான முறையில் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A man who was staying at a hotel in the Galle Road, Veewala, died mysteriously, police said.
 
-நேற்று (31) மாலை குறித்த நபரிடம் இருந்து எந்த பதிலும் கிடைக்காமையால், ஹோட்டல் நிர்வாகம் ஹிக்கடுவ பொலிஸாருக்கு அறிவித்ததையடுத்து விசாரணைகளை ஆரம்பிக்கப்பட்டுள்ளன.
+Investigations have been launched after the hotel administration informed the Hikkaduwa police as there was no response from the person yesterday evening.
 
-பின்னர், பொலிஸாரும், ஹோட்டல் ஊழியர்களும் அந்த நபர் தங்கியிருந்த அறையின் ஜன்னலைத் திறந்து பார்த்தபோது, ​​குளியலறையில் இரத்தக் காயங்களுடன் நபர் இறந்து கிடந்தார்.
+Later, when the police and hotel staff opened the window of the room where the man was staying, the person was found dead with blood injuries in the bathroom.
 
-சடலம் பொலிஸ் பாதுகாப்பில் அந்த இடத்தில் வைக்கப்பட்டுள்ளதுடன் ஹிக்கடுவ பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+The body is being kept under police protection and Hikkaduwa police are conducting further investigations.
 
 ◼️
 
 [Data](articles/0ed733eb.json)
 
+[Extended Data](ext_articles/0ed733eb.ext.json)
+
 ---
 
-### நெல் களஞ்சியசாலை மாபியாக்களுக்கு இடமளித்து விவசாயிகளை நெருக்கடிக்கு உள்ளாக்க வேண்டாம் - ஹர்ஷ டி சில்வா
+### Do not make the farmers in crisis by allowing the paddy field mafias
 
 *2024-02-01 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/175281) · `ta`
 
-அரசாங்கம் விவசாயிகளிடமிருந்து நெல்லைக் கொள்வனவு செய்வதற்கு பணம் இல்லையெனக் கூறுகிறது. இந்த சந்தர்ப்பத்தைப் பயன்படுத்தி நெல் களஞ்சியசாலை மாபியாக்கள் மிகக் குறைந்தவிலையில் நெல்லைக் கொள்வனவு செய்து, விவசாயிகளை நெருக்கடிக்கு உள்ளாக்க தயாராகி வருவதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+The government says that there is no money to buy paddy from farmers. United People's Power MP Dr. Harsha de Silva said that the paddy field mafia are buying paddy and preparing to be crisising the farmers.
 
-கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் புதன்கிழமை (31) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+He said this at a press conference held at the opposition leader's office in Colombo on Wednesday (31).
 
-வர்த்தக அமைச்சர் அரிசி இறக்குமதி செய்யப்படும் என்று கூறிய போது, விவசாயத்துறை அமைச்சர் அதனை மறுத்தார். ஆனால் தற்போது சுமார் 50,000 மெட்ரிக் தொன் அரிசி இறக்குமதி செய்யப்பட்டுள்ளது. ஒருபுறம் அருவடை ஆரம்பித்துள்ள நிலையில், மறுபுறம் அரிசி இறக்குமதி செய்யப்படுகிறது.
+When the Minister of Commerce said the rice would be imported, the Minister of Agriculture denied it. But now about 50,000 metric tons of rice has been imported. On the one hand, the rice is imported on the other hand.
+
+The price of Kirisamba paddy has fallen to Rs 120. Ponni Samba is sold in Colombo for 275 rupees. But the government has set 260 rupees as a control price. However, consumers are unable to get rice at that price.
+
+But the paddy farmers for the country are purchased for 80 rupees. In the majority of 30 lakh metric tons of paddy will be harvested. It will get 20 lakh metric tonnes of rice. The need for rice per year is only 24 lakh metric tons.
 
 ...
 
 [Data](articles/473e6d89.json)
+
+[Extended Data](ext_articles/473e6d89.ext.json)
 
 ---
 
@@ -207,6 +249,8 @@ According to the ministry, the narcotics taken into custody during this period i
 ◼️
 
 [Data](articles/0c431ca8.json)
+
+[Extended Data](ext_articles/0c431ca8.ext.json)
 
 ---
 
@@ -2067,19 +2111,5 @@ Meanwhile, Minister Keheliya Rambukwella has announced that Minister Keheliya Ra
 [Data](articles/cf69f455.json)
 
 [Extended Data](ext_articles/cf69f455.ext.json)
-
----
-
-### Protest against president's visit to Kelaniya University
-
-*2024-01-31 18:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protest-against-president-s-visit-to-Kelaniya-University/110-276056) · `en`
-
-President Ranil Wickremesinghe visited Kelaniya University to declare open the new building on the premises of the Department of Pali and Buddhist Studies at the university this morning. The students of Kelaniya University staged a protest blocking the Colombo-Kandy Road against the president’s visit to the university. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/9a9438fc.json)
-
-[Extended Data](ext_articles/9a9438fc.ext.json)
 
 ---

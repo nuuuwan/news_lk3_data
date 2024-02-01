@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 17:02:18**
+As of **2024-02-01 17:17:15**
 
 ## Newspaper Stats
 
@@ -26,37 +26,41 @@ dailymirrorlk | 559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,120 (99.9%) of 4,124 articles have been extended.
+4,124 (100.0%) of 4,124 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
 
-### සැකකරුවෙකු අත්අඩංගුවට ගැනීමට පොලීසිය මහජන සහාය ඉල්ලයි
+### Police call for public assistance to arrest a suspect
 
 *2024-02-01 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192844) · `si`
 
-මෙරට සිදුවූ ආන්දෝලනාත්මක ඝාතන සිද්ධියක් සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනවලට අදාළව සැකකරුවෙකු අත්අඩංගුවට ගැනීම සඳහා පොලීසිය මහජන සහාය අපේක්ෂා කරයි.
+Police seek public assistance to arrest a suspect in relation to investigations into an incident of controversial murder.
 
-අදාළ සිද්ධියට සම්බන්ධ බවට සැකකෙරෙන සැකකරුගේ ඡායාරූපයක් පොලීසිය විසින් මාධ්‍යට නිකුත් කර තිබුණි.
+Police had released a photo of the suspect who was involved in the incident.
 
-එම සැකකරු සම්බන්ධයෙන් තොරතුරක් දන්නේ නම් පහත සඳහන් අංක ඔස්සේ කොල්ලුපිටිය පොලීසියට දැනුම්දෙන ලෙස ඉල්ලා සිටී.
+If you know information about the suspect, the Kollupitiya Police call to inform the Kollupitiya Police.
 
 ◼️
 
 [Data](articles/34126e4f.json)
 
+[Extended Data](ext_articles/34126e4f.ext.json)
+
 ---
 
-### සෞඛ්‍ය වැඩ වර්ජනය අඛණ්ඩව
+### Health strike continues
 
 *2024-02-01 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192843) · `si`
 
-අද උදෑසන 6.30ට ආරම්භ කර සෞඛ්‍ය වැඩ වර්ජනය අඛණ්ඩව හෙට දිනයේත් සිදුකරන බව සෞඛ්‍ය වෘත්තීය සමිති එකමුතුව පවසයි.
+The Health strike will continue tomorrow and will continue tomorrow.
 
 ◼️
 
 [Data](articles/2c3cdea8.json)
+
+[Extended Data](ext_articles/2c3cdea8.ext.json)
 
 ---
 
@@ -96,23 +100,29 @@ The applications of the police and the defendant's lawyer have been investigated
 
 ---
 
-### ශ්‍රීලන්කන් ප්‍රතිව්‍යුහගත කිරීම තුන්වැනි පාරටත් පමා කරයි
+### SriLankan delays to the third time
 
 *2024-02-01 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192842) · `si`
 
-ශ්‍රීලංකන් ගුවන් සේවය ප්‍රතිව්‍යුහගත කිරීම වෙනුවෙන් අභිලාෂයන් කැඳවීමේ යෝජනා ඉදිරිපත් කිරීමේ කාලසීමාව නැවත වරක් දීර්ඝ කිරීමට රාජ්‍ය ව්‍යවසාය ප්‍රතිව්‍යුහගත කිරීමේ ඒකකය තීරණය කර තිබේ.
+The State Enterprise Restriction Unit has decided to extend the period of the Presentation Scheme for the restructuring of SriLankan Airlines.
 
-ඒ අනුව ශ්‍රීලංකන් පෞද්ගලීකරණය ක්‍රියාවලිය ඇරඹු දින සිට අභිලාෂයන් කැඳවීමේ සීමාව දීර්ඝ කළ තුන් වැනි අවස්ථාව මෙය වෙයි.
+This is the third occasion of the summoning of the aspirations since the privatization process of privatization.
 
-ශ්‍රීලංකන් ගුවන් සේවය පෞද්ගලීකරණය කිරීමේ ක්‍රියාවලිය තවදුරටත් පමාවන බව සලකුණු කරමින් ඒ සඳහා ආයෝජකයන්ට යෝජනා ඉදිරිපත් කළ හැකි කාලසීමාව තුන් වන වරටත් දීර්ඝ කර තිබේ.
+The third time is extended to the third time, marking the privatization of privatization of SriLankan Airlines.
 
-රජයේ ආර්ථික ප්‍රතිසංස්කරණ වැඩසටහනේ වැදගත් ඉදිරි පියවරක් ලෙසින් ගුවන් සමාගමේ කොටස් මිලදී ගැනීම සඳහා අභිලාෂයන් කැඳවීම පසුගිය වසරේ ඔක්තෝබර් 31වැනිදා සිදුකෙරුණු අතර එහිදී අභිලාෂයන් කැඳවීමේ අවසන් දිනය දැක්වුණේ පසුගිය වසරේ දෙසැම්බර් මස 05 වැනිදා ලෙසය.
+As an important step in the Government Economic Reforms Program, the ambition of the ambition was taken to buy the ambition to purchase ambitions on October 31 last year.
 
-කෙසේවෙතත් ප්‍රමාණවත් ආකර්ෂණයක් නොමැතිවීම හේතුවෙන් ශ්‍රීලංකන් ගුවන් සේවය සඳහා අභිලාෂයන් කැඳවීම ඉන් අනතුරුව දෙසැම්බර් 18 වැනිදා දක්වාත්, පසුව මේ වසරේ ජනවාරි මස 09 වැනිදා දක්වාත් දීර්ඝ කිරීමට රාජ්‍ය ව්‍යවසාය ප්‍රතිව්‍යුහගත කිරීමේ ඒකකය තීරණය කළේය.
+However, the state enterprise restructuring unit decided to extend the ambition to the SriLankan Airlines, as there was insufficient attraction to December 18th this year.
+
+It is reported that it has been extended to the third term until the 16th of this year.
+
+Under the restructuring of the state owned enterprises, SriLankan Airlines is under the recommendation of the International Monetary Fund.
 
 ...
 
 [Data](articles/2ac32397.json)
+
+[Extended Data](ext_articles/2ac32397.ext.json)
 
 ---
 
@@ -136,19 +146,21 @@ Sri Lanka Parliament was prorogued with effect from midnight on 26 January, mark
 
 ---
 
-### ICCයේ ලොකුම වැඩේ කොළඹට
+### ICC's biggest work in Colombo
 
 *2024-02-01 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192841) · `si`
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ වාර්ෂික මහ සභා රැස්වීමේ සත්කාරකත්වය ශ්‍රී ලංකාවට හිමිව ඇති බව සංචාරක සහ ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+Travel and Sports Minister Harin Fernando says Sri Lanka has hosted the International Cricket Council Annual General Meeting.
 
-අදාළ X පණිවුඩයේ දැක්වෙන්නේ එළඹෙන ජුලි මස 19 සිට 22 දක්වා ICC වාර්ෂික මහ සභා රැස්වීම කොළඹදී පැවැත්වෙන බවය.
+The X11 message states that the ICC Annual General Meeting will be held in Colombo.
 
-එමගින් මෙරට ක්‍රිකට් ක්‍රීඩාවේ සහ සංචාරක ව්‍යාපාරයේ වර්ධනයට විශාල ශක්තියක් සැපයෙනු ඇති බවද අමාත්‍යවරයා සිය X පණිවුඩයෙන් වැඩිදුරටත් පෙන්වා දී තිබේ.
+The minister also states that it will provide a lot of strength to the growth of cricket and tourism industry.
 
 ◼️
 
 [Data](articles/5fa9bad9.json)
+
+[Extended Data](ext_articles/5fa9bad9.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 19:17:16**
+As of **2024-02-01 19:32:42**
 
 ## Newspaper Stats
 
-*Scraped **4,166** Articles*
+*Scraped **4,173** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ islandlk | 220
 economynextcom | 238
 dailyftlk | 258
 newsfirstlk | 265
-adalk | 368
+adalk | 374
 virakesarilk | 463
-adaderanasinhalalk | 491
+adaderanasinhalalk | 492
 adaderanalk | 521
 tamilmirrorlk | 531
 dailymirrorlk | 566
@@ -26,27 +26,79 @@ dailymirrorlk | 566
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,164 (100.0%) of 4,166 articles have been extended.
+4,166 (99.8%) of 4,173 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
 
-### ජනපතිගේ කාර්යයන් සහ ඊට බාධා කිරීම් ගැන දැනුම්දීමක්
+### කෙහෙළියට රට ගමන් තහනම්
+
+*2024-02-01 18:57:52* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියට-රට-ගමන්-තහනම්/11-407859) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙලිය රඹුක්වැල්ල මහතාට විදෙස් ගමන් තහනම් කරමින් මාලිගාකන්ද මහේස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ. එසේම හෙට දිනයේදී ප්‍රකාශයක් ලබාදීම සඳහා ඔහුට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට ගොස් ප්‍රකාශයක් ලබාදෙන ලෙසද අධිකරණය නියෝග කර තිබේ.
+
+◼️
+
+[Data](articles/289c9b64.json)
+
+---
+
+### යුක්‍රේනයට ඩොලර් බිලියන 55ක ආධාර පැකේජයක්
+
+*2024-02-01 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192854) · `si`
+
+යුක්‍රේනයට ඩොලර් බිලියන 55ක ආධාර පැකේජයක් ලබාදීම සඳහා යුරෝපා කවුන්සිලය නියෝජනය කරන රටවල නායකයින් 27 දෙනාම එකඟතාව පළ කර තිබේ.
+
+එම කවුන්සිලයේ සභාපති චාර්ල්ස් මිචෙල් මේ බව නිල වශයෙන් නිවේදනය කර තිබුණි.
+
+කෙසේවෙතත් හංගේරියානු ජනාධිපති වික්ටර් ඕබර් විසින් වරින් වර සිදුකළ ප්‍රකාශ හේතුවෙන් ඔහු මෙම ආධාර පැකේජය අවහිර කරනු ඇති බවට ද සැකකයක් මතුවී තිබූ බව සඳහන් ය.
+
+ආධාර පැකේජය සඳහා අනුමැතිය හිමිවීම සම්බන්ධයෙන් අදහස් දක්වමින් යුරෝපා කොමිසමේ සභාපති ප්‍රකාශ කර ඇත්තේ මෙම දිනය යුරෝපයටම ඉතා වැදගත් දිනයක් බවය.
+
+◼️
+
+[Data](articles/20d19fd2.json)
+
+---
+
+### Notice of the President's Functions and Obstacles
 
 *2024-02-01 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192853) · `si`
 
-ජනාධිපතිවරයාට ඔහුගේ ව්‍යවස්ථාපිත කාර්යභාරය ඉටු කිරීමේදී සිදු කරනු ලබන ඕනෑම අවහිරයක් ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝනය කිරීමක් බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+The Presidential Media Unit says that any contacting of the Constitution is a violation of the constitution.
 
-ජනාධිපතිවරයා යම් හෙයකින් ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනිව තම බලතල ක්‍රියාත්මක කරන්නේ නම් ඒ සඳහා තිබෙන ප්‍රතිකර්ම ආණ්ඩුක්‍රම ව්‍යවස්ථාවෙන්ම සපයා ඇති බවද ඉන් පෙන්වා දෙයි.
+If the president is carrying out his powers in contravention of the Constitution, the remedy is provided in the Constitution.
 
-එබැවින් ජනාධිපතිවරයාට කිසිඳු බාධාවකින් හෝ මැදිහත්වීමකින් තොරව ව්‍යවස්ථානුකූල රාජකාරි ඉටු කිරීමට සිදුවෙන බවත් ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 41ඇ. ව්‍යවස්ථාව යටතේ පොලිස්පතිවරයා පත් කිරීම සිදු කරනු ලබන්නේ ජනාධිපතිවරයා විසින් සිදු කරනු ලබන නිර්දේශය ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව විසින් අනුමත කිරීමෙන් පසුව බවත් ජනාධිපති මාධ්‍ය අංශය පවසයි.
+Therefore, the President has to perform a constitutional duties without any hindrance or intervention.. The IGP is being appointed under the Constitution after the recommendation made by the President was approved by the Constitution.
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාව මගින් ස්ථාපිත කොට ඇති පාර්ලිමේන්තුවේ කථානායකවරයා සභාපතිත්වය දරන ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව විධායකයේ කොටසක් වශයෙන් ක්‍රියාත්මක වන අතර, ජනාධිපතිවරයාට තම ව්‍යවස්ථාපිත කාර්යභාරය ඉටු කිරීමට අවශ්‍ය සහයෝගය ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව මගින් ලබා දෙනු ලබයි.
+The Constitutional Council of the Parliament who is established by the Constitution is part of the Executive and the Constitutional Council will support the President to carry out his statutory role.
+
+The Constitutional Council is obliged to perform his work in accordance with the Constitution and the Constitution is 41 c. It also shows that the Constitutional Council is a violation of the Constitution to refrain from the appointment of the IGP under the constitution.
 
 ...
 
 [Data](articles/c60604c6.json)
+
+[Extended Data](ext_articles/c60604c6.ext.json)
+
+---
+
+### වරාය මානව සම්පත් සංවර්ධනයට ඇමරිකා‍වෙන් ඩොලර් මිලියන 1.5 ක ප්‍රදානයක්
+
+*2024-02-01 18:22:49* · [`adalk`](https://www.ada.lk/breaking_news/වරාය-මානව-සම්පත්-සංවර්ධනයට-ඇමරිකා‍වෙන්-ඩොලර්-මිලියන-1-5-ක-ප්‍රදානයක්/11-407854) · `si`
+
+ශ්‍රී ලංකාවේ සංවර්ධන කටයුතු සඳහා උදව් කරන  දීර්ඝ කාලීන මිතුරෙකු වන ඇමරිකනු එක්සත් ජනපද රජය විසින් ශ්‍රි ලංකාවේ වරාය ක්ෂේත්‍රයේ මානව සම්පත් සංවර්ධනය සඳහා  ඇමරිකානු ඩොලර් මිලියන 1.5ක ප්‍රධානයක් ලබා දී ඇති බව වරාය නාවික හා ගුවන්සේවා අමාත්‍යංශය අවධාරණය කරයි.
+
+ඇමරිකා එක්සත් ජනපද මුල්‍ය අධාර යටතේ ‘ කොළඹ ක්‍රමය ‘ (Colombo Plan ) විසින් ප්‍රධානය ලබා දුන් අතර  ඒ පිලිබඳව අවබෝධතා ගිවිසුම අත්සන් කිරීම 2024.01.31 දින පස්වරුවේ කොළඹ මැරියට් හෝටලයේදී සිදු කෙරිණ.
+
+මෙම මුල්‍ය ප්‍රධානය යටතේ ඉදිරි වසර 03 ක කාලය සඳහා ශ්‍රි ලංකා වරාය අධිකාරියේ මෙහෙයුම් කටයුතු සහ තාක්ෂණික කටයතු වල නියැලෙන නිලධාරීන්ට සහ සේවකයින්ට තම වෘත්තීය නිපුණතාවය දියුණු කර ගැනීම සඳහා  විදේශීය  ශිෂ්‍යත්ව සියයක් ( 100) ලබා දීමට කටයුතු කරනු ඇත.
+
+මෙම අවබෝධතා ගිවිසුම අත්සන් කිරීම වරාය නාවික හා ගුවන්සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා සහ ශ්‍රි ලංකාවේ ඇමරිකානු එක්සත් ජනපද තානාපතිනි ජූලි චං මහත්මියගේ ප්‍රධානත්වයෙන් සිදු කෙරිණ.
+
+...
+
+[Data](articles/64f60ea0.json)
 
 ---
 
@@ -66,21 +118,23 @@ The Minister further said that all school textbooks required for 2024 have been 
 
 ---
 
-### එන්නත් සිද්ධියේ එක් සැකකරුවෙකුට ඇප
+### One suspect in the vaccine incident released on bail
 
 *2024-02-01 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192852) · `si`
 
-ප්‍රමිතියෙන් තොර හියුමන් ඉමියුනොග්ලොබියුලින් සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රිමාන්ඩ් බන්ධනාගාරගතකර සිටි සැකකරුවෙකු ඇප මත මුදාහැරීමට අධිකරණය නියෝග කර තිබේ.
+The court has ordered the release of a suspect who was arrested in connection with the substandard Human Immunulin incident.
 
-මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය එහිදී නියෝග කර ඇත්තේ ඔහුව ලක්ෂ 10ක ශරීර ඇප දෙකක් මත මුදාහරින ලෙසටය.
+The Maligakanda Magistrate's Court ordered him to be released on two bail of Rs.
 
-මෙලෙස ඇප මත මුදාහැර ඇත්තේ එම සිද්ධියේ 5 වන සැකකරු වන ගබඩා පාලකවරයාය.
+The 5th suspect, the 5th suspect, was released on bail.
 
-මේ අතර එම සිදුවීම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන සිටින සෙසු සැකකරුවන් 6 දෙනා එළඹෙන 15 වනදා දක්වා යළි රිමාන්ඩ් බන්ධනාගාරගතකිරීමට අධිකරණය වැඩිදුරටත් නියෝග කර ඇත.
+Meanwhile, the suspects have been remanded to remand further remanded until the 15th of this incident.
 
 ◼️
 
 [Data](articles/0d01b9c8.json)
+
+[Extended Data](ext_articles/0d01b9c8.ext.json)
 
 ---
 
@@ -1264,6 +1318,22 @@ Rambukwella was due to appear before the CID yesterday, however had failed to do
 
 ---
 
+### අයි.සී.සී. මහා සභා රැස්වීම ලංකාවේදී
+
+*2024-02-01 14:25:04* · [`adalk`](https://www.ada.lk/sports/අයි-සී-සී--මහා-සභා-රැස්වීම-ලංකාවේදී/9-407853) · `si`
+
+අන්තර්ජාතික ක්‍රිකට් සභාවේ (අයි.සී.සී.) වාර්ෂික මහ සභා රැස්වීම ලබන ජූලි මස 19 වැනිදා සිට 22 වැනිදා දක්වා මෙරටදී පැවැත්වීමට නියමිතය.
+
+ජාත්‍යන්තර ක්‍රිකට් ආයතනය විසින් ශ්‍රී ලංකා ක්‍රිකට් වෙත පනවා තිබූ තහනම ඉවත් කිරීමත් සමගම ඒම සැසිවාරය ශ්‍රි ලංකාවේ පැවැත්වීම ස්ථිර විය.
+
+එමමහ සභා රැස්වීම ශ්‍රී ලංකාවේ පැවැත්වීමෙන් මෙරට ක්‍රිකට් ක්‍රීඩාවට සහ සංචාරක ව්‍යාපරයට විශාල වාසියක් අත්වන බව විෂයභාර අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා කියයි.
+
+◼️
+
+[Data](articles/daad5c06.json)
+
+---
+
 ### Court of court order to protest in front of CID
 
 *2024-02-01 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192834) · `si`
@@ -1419,6 +1489,20 @@ The US dollar purchasing price was 310.5415 and the sales price were 320.4082 ba
 [Data](articles/3f46accf.json)
 
 [Extended Data](ext_articles/3f46accf.ext.json)
+
+---
+
+### නිදහස් දිනය දා සුරාසැල් වසයි
+
+*2024-02-01 14:08:28* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-දිනය-දා-සුරාසැල්-වසයි/11-407846) · `si`
+
+76 වන නිදහස් දිනය හේතුවෙන් දිවයින පුරා සුරාසල් පෙබරවාරි මස 4 වන දින වසා තැබීමට තීරණය කර තිබේ.
+
+සුරාබදු දෙපාර්තමේන්තුව පවසන්නේ පෙබරවාරි මස 3 වන දින සුරාසල් වැසිය යුතු වේලාවේ සිට පෙබරවාරි 5 වන සඳුදා විවෘත කළ යුතු වේලාව දක්වා සියලුම සුරාසල් වසා තැබීමට කටයුතු කළ යුතු බවි.
+
+◼️
+
+[Data](articles/76bcb5c7.json)
 
 ---
 
@@ -1652,6 +1736,20 @@ Officials told the team that the Ministry of Labor had proposed to increase the 
 
 ---
 
+### සිසු හෙද පුහුණුවට බඳවා ගැනීමේ සම්මුඛ පරීක්ෂණ 03දා
+
+*2024-02-01 12:42:40* · [`adalk`](https://www.ada.lk/breaking_news/සිසු-හෙද-පුහුණුවට-බඳවා-ගැනීමේ-සම්මුඛ-පරීක්ෂණ-03දා/11-407844) · `si`
+
+සිසු හෙද පුහුණුවට බදවා ගැනීම සදහා හම්බන්තොට දිස්ත්‍රික්කයට  අදාල සම්මුඛ පරීක්ෂණ 2024.02.03 දින හම්බන්තොට හෙද විදුහලේ දී පැවැත්වීමට සියලු කටයුතු සුදානම් කර ඇති බව සෞඛ්‍ය අමාත්‍යංශයේ නියෝජ්‍ය අධ්‍යක්ෂ ජනරාල් (පාලන) II චාමික එච්.ගමගේ මහතා සදහන් කරයි. ‍
+
+මීට අදාල සියලු තොරතුරු සෞඛ්‍ය අමාත්‍යංශයේ නිල වෙබ් පිටුව (https://www.health.gov.lk/) පරිශීලනය මගින් ද ලබාගත හැක.
+
+◼️
+
+[Data](articles/aff38a1b.json)
+
+---
+
 ### We have hit American ship in the Red Sea
 
 *2024-02-01 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175305) · `ta`
@@ -1681,6 +1779,20 @@ This year, the fees previously paid last year is to pay the Chief Inspectors to 
 [Data](articles/becb936b.json)
 
 [Extended Data](ext_articles/becb936b.ext.json)
+
+---
+
+### උපෙළ උත්තරපත්‍ර  සමීක්ෂණ ගාස්තු ගැන දැනුම් දිමක්
+
+*2024-02-01 12:37:28* · [`adalk`](https://www.ada.lk/breaking_news/උපෙළ-උත්තරපත්‍ර--සමීක්ෂණ-ගාස්තු-ගැන-දැනුම්-දිමක්/11-407843) · `si`
+
+අ.පො.ස. උසස් පෙළ උත්තර පත්‍ර සමීක්ෂණ කටයුතු ආරම්භ කිරීමට විභාග දෙපාර්තමේන්තුව කටයුතු කර ඇතැයි අධ්‍යාපන අමාත්‍යාංශය කියයි.
+
+ඒ් අනුව මෙවර ද පසුගිය වසරේ ගෙවන ලද ගාස්තු ප්‍රමාණයම ඒ ආකාරයට උත්තර පත්‍ර පරීක්ෂා කරන ප්‍රධාන පරීක්ෂකවරුන් ඇතුලු කාර්ය මණ්ඩලයට ගෙවීමට කටයුතු කරන බවද අමාත්‍යාංශය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/e0d37e43.json)
 
 ---
 
@@ -1835,137 +1947,5 @@ The Health Minister said that the construction work was started in 2006 and had 
 [Data](articles/86dd4470.json)
 
 [Extended Data](ext_articles/86dd4470.ext.json)
-
----
-
-### Schoolchildren increases 'reluctant'
-
-*2024-02-01 12:06:30* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-ළමුන්-ප්‍රවාහන-ගාස්තු-‘අකමැත්තෙන්’-වැඩි-කරයි/11-407840) · `si`
-
-All-Lanka Inter-Provincial School Children's School Children's Children's Office Transport Association (DMC) says its association has decided to increase the transportation charges from this month (February 1).
-
-The All Island Inter-Provincial School Children's Office of Transport Association Mr. Ruwan Prasad said he decided to increase the transportation fees for a short distance and to increase the transportation fees and the long distance.
-
-He said so at a press conference held in Ambalangoda this morning regarding the increase of fuel prices.
-
-◼️
-
-[Data](articles/82c5d6dc.json)
-
-[Extended Data](ext_articles/82c5d6dc.ext.json)
-
----
-
-### Sri Lanka's Framework Protection Act
-
-*2024-02-01 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/175302) · `ta`
-
-The passing of the amended bill to regulate enemy contents in Sri Lanka has led to fears that the government may be targeted by the critics in the coming election and after the next election.
-
-Human rights organizations and massive technology organizations have vehemently opposed this as the first present -day event protection Bill was passed in Parliament last September.
-
-They say that the government is worried that the government is engaged in the process of suppressing freedom of expression while observing the passage of the bill.
-
-After a two -day debate as the government wanted to implement the Bill, 108 out of 225 MPs who participated in the vote voted in favor of the Bill.
-
-This group, which is formed by a five -year -old e -commerce team under this law, has the powers to punish those who are involved in enemy crimes.. The committee may be fined Rs.
-
-They can also take action against companies like Google Facebook Twitter to publish content on their social media.
-
-...
-
-[Data](articles/2ec8c3bc.json)
-
-[Extended Data](ext_articles/2ec8c3bc.ext.json)
-
----
-
-### A Notification of Sursel
-
-*2024-02-01 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192828) · `si`
-
-Surels of the country has decided to close up on 4th February for the 76th Independence Day celebrations.
-
-The Excise Department has issued announcement and work to be closed from February 3 to be opened on Monday, February 5, to be opened on Monday, February 5.
-
-◼️
-
-[Data](articles/71c5b7ad.json)
-
-[Extended Data](ext_articles/71c5b7ad.ext.json)
-
----
-
-### Jaffna youth who was receiving treatment. Teaching Hospital
-
-*2024-02-01 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175301) · `ta`
-
-A young man who was traveling on a speeding motorcycle and receiving treatment was died on Wednesday (31).
-
-The deceased is the young man named B.Abisagan (age 20) from Kilinochchi - Uttuppulam area.
-
-The young man was traveling on a motorcycle on the 26th and lost control of the motorcycle speed and crashed into. He did not wear helmets at this time.
-
-He was rescued and admitted to the Kilinochchi Hospital and later taken to the Jaffna Teaching Hospital for further treatment and died today without treatment.
-
-Sudden Death Investigation Officer Namasivayam Premkumar. The body was handed over to relatives after anatomical examination.
-
-◼️
-
-[Data](articles/67f105a9.json)
-
-[Extended Data](ext_articles/67f105a9.ext.json)
-
----
-
-### All liquor outlets closed on Sunday
-
-*2024-02-01 11:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/All-liquor-outlets-closed-on-Sunday/108-276134) · `en`
-
-Colombo, Feb 01 (Daily Mirror) - All liquor shops will be closed on Sunday (4) due to the 76th Independence Day, the Exice Department said.
-
-◼️
-
-[Data](articles/3a9239da.json)
-
-[Extended Data](ext_articles/3a9239da.ext.json)
-
----
-
-### Sri Lankans deserve transparency, accountability during hard reforms: US envoy
-
-*2024-02-01 11:53:00* · [`economynextcom`](https://economynext.com/sri-lankans-deserve-transparency-accountability-during-hard-reforms-us-envoy-149528/) · `en`
-
-ECONOMYNEXT — While commitments agreed to under an ongoing International Monetary Fund (IMF) programme require Sri Lanka to carry out hard and unpopular reforms, the public deserve transparency and accountability from leaders, US ambassador Julie Chung said.
-
-Speaking at a American Chamber of Commerce CXO Forum in Colombo on Wednesday January 31, the ambassador said the commitments required by the IMF as part of its Extended Fund Facility programme call for government reform measures in both tax compliance and combatting corruption.
-
-“These are hard steps, and not always popular. Sri Lanka has taken difficult measures to put the country on a long-term sustainable footing and comply with the IMF commitments. But the people of Sri Lanka deserve and continue to demand openness, transparency, and accountability from their leaders as the process of reforms moves forward,” she said.
-
-...
-
-[Data](articles/25e955ac.json)
-
-[Extended Data](ext_articles/25e955ac.ext.json)
-
----
-
-### “It was neither protest nor rally”: Sarath Fonseka
-
-*2024-02-01 11:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/It-was-neither-protest-nor-rally-Sarath-Fonseka/108-276133) · `en`
-
-Colombo, Feb. 01 (Daily Mirror)- Claiming that the SJB protest did not turn out to be successful, Field Marshal Sarath Fonseka said if he was to organise it, he would have done it more skillfully.
-
-The MP said some 8,000 people participated in the protest but ultimately it was neither a protest nor a rally.
-
-"People had to leave soaked after being attacked with tear-gas and water cannons," he said responding to a question during a media conference.
-
-"There was good participation for the protest though some people who usually attend our rallies did not turn up this time. People have so many issues and we had to face difficulty in bringing them. However, there were around 7,000 to 8,000 people. Ultimately,it was neither a protest nor a rally and ended up with people having to leave getting tear-gassed and soaked due to water cannon attacks. If I had organised it, I would have done it somewhat skillfully," he said.
-
-◼️
-
-[Data](articles/513ef224.json)
-
-[Extended Data](ext_articles/513ef224.ext.json)
 
 ---

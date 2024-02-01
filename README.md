@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 21:02:17**
+As of **2024-02-01 21:17:30**
 
 ## Newspaper Stats
 
-*Scraped **4,182** Articles*
+*Scraped **4,188** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,46 +17,112 @@ dailyftlk | 258
 newsfirstlk | 265
 adalk | 374
 virakesarilk | 463
-adaderanasinhalalk | 496
+adaderanasinhalalk | 498
 adaderanalk | 523
-tamilmirrorlk | 531
+tamilmirrorlk | 535
 dailymirrorlk | 569
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,181 (100.0%) of 4,182 articles have been extended.
+4,182 (99.9%) of 4,188 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
 
-### විදෙස් රැකියා ජාවාරමක් උකුස්සා හෙළිකරයි
+### අභ්‍යවකාශයට ගිය ක්‍රිකට් පන්දුව
+
+*2024-02-01 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192861) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලිය ප්‍රවර්ධනය කිරීම සඳහා සුවිශේෂී වීඩියෝවක් ජාත්‍යන්තර ක්‍රීකට් කවුන්සිලයේ විසින් එහි ෆේස්බුක් ගිණුමේ පළකර තිබේ.
+
+එසේම විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලිය නැරඹීම සඳහා ප්‍රවේශපත්‍ර වෙන්කරවා ගැනීමේ අවස්ථාව දැන් ක්‍රීඩාලෝලීන්ට හිමිව තිබේ.
+
+ඒ අනුව tickets.t20worldcup.com වෙබ් අඩවියට පිවිසීමෙන් මෙවර අමෙරිකාවේ සහ කොදෙව් දූපත් සත්කාරකත්වයෙන් පැවැත්වෙන විස්සයි විස්ස ලෝක කුසලානය සියැසින් දැකගැනීමේ අවස්ථාව ක්‍රීඩා ලෝලීන්ට හිමිවෙයි.
+
+◼️
+
+[Data](articles/7ae9b1c9.json)
+
+---
+
+### කොටුව පොලීසියේ පාලන ස්ථානාධිපති තුවාල ලබා රෝහල්ගතකරයි
+
+*2024-02-01 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192860) · `si`
+
+කොටුව පොලිස් ස්ථානයේ පාලන අංශයේ ස්ථානාධිපතිවරයා බිම ඇදවැටී තුවාල ලබා රෝහල්ගතකර තිබේ.
+
+පොලීසිය පවසන්නේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඉදිරිපිට පැවති උද්ඝෝෂණයක් අතරතුර සැකකරුවන් අත්අඩංගුවට යාමේදී මෙලෙස බිම ඇදවැටී ඇති බවය.
+
+තුවාල ලැබූ උප පොලිස් පරීක්ෂකවරයා ප්‍රතිකාර සඳහා නාරාහේන්පිට පොලිස් රෝහල වෙත ඇතුළත් කර තිබේ.
+
+◼️
+
+[Data](articles/6fb17488.json)
+
+---
+
+### Foreign employment racket heels
 
 *2024-02-01 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192859) · `si`
 
-විදේශ රැකියා අමාත්‍යවරයාගේ නම අවභාවිත කරමින් ඊශ්‍රායාලයේ රැකියා ලබාදෙන බව පවසා මුදල් ගැරූ ජාවාරමක් පිළිබඳව අද දෙරණ උකුස්සාට තොරතුරු අනාවරණ වුණි.
+Ada Derana Ukkasa was revealed about a racket that had been paid by the Minister of Foreign Employment.
 
-විදේශ රැකියා අමාත්‍යවරයාගේ නම අවභාවිත කරමින්, අමාත්‍යවරයාගේ පෞද්ගලික ලේකම්වරයකු ලෙස පෙනී සිටින අයක් මෙම ජාවාරමේ නිරත වන බව අප තහවුරු කර ගත්තේය.
+We assured us that this racket is a person who appeared as a Minister's Private Secretary to avoid the name of the Foreign Employment.
 
-ඒ අනුව අදාළ ජාවාරමට සම්බන්ධ කාන්තාවක් දුරකථන මාර්ගයෙන් සම්බන්ධ කර ගැනුණි.
+Accordingly, a woman involved in the racket was attached by telephone.
 
-ඇය පැවසූ පරිදි අප උපායදූතයෙකු ද සමගින් කොළඹ කොටුවේ පිහිටි විදෙස් රැකියා සඳහා සම්මුඛ පරීක්ෂණ පවත්වන බවට පැවසෙන අදාළ ස්ථානයට යන්නේ මෙම ජවාරම නීතියේ රැහැනට හසුකරදීමේ අරමු‍ණෙනි.
+She said we are going to the place where we are interviewed by foreign employment in Colombo Fort along with a strategic.
 
-එහිදී අපට පළමුව හමුවන්නේ අප දුරකථනය ඔස්සේ සම්බන්ධ කරගත් කාන්තාවය.
+There we first meet the woman we have contacted us.
 
-එම අවස්ථාවේදී ජාවාරම්කරු අයදුම්පතක් අපවෙත ලබාදෙන්නේ එය සම්පූර්ණ කරදෙන ලෙස පවසමිනි.
+The racketeer application is given to us to complete it.
 
-ජාවාරම සම්බන්ධයෙන් තහවුරු කරගැනීමෙන් පසුව විදේශ සේවා නියුක්ති කාර්යාංශයේ නිලධාරීන් ස්ථානය වටලනු ලැබීය.
+After confirmation of the racket, the officers of the Foreign Employment Bureau were raided.
 
-එහිදී අනාවරණ වුණේ එය බලපත්‍ර නොමැති නීතිවිරෝධී විදෙස් රැකියා ඒජන්සියක් බවය.
+The disclosed was revealed that it was an illegal foreign employment agency that was not licensed.
 
-ඉදිරියේදීත් මෙවැනි නීතිවිරෝධී ක්‍රියාවන් රට හමුවේ අනාවරණ කිරීමට අද දෙරණ උකුස්සා සීරුවෙනි.
+Ada Derana has a few people today to reveal such illegal acts in the future.
 
 ◼️
 
 [Data](articles/87beec9a.json)
+
+[Extended Data](ext_articles/87beec9a.ext.json)
+
+---
+
+### மத்திய வங்கி 6 புதிய உதவி ஆளுநர்களை நியமித்துள்ளது
+
+*2024-02-01 20:26:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்திய-வங்கி-6-புதிய-உதவி-ஆளுநர்களை-நியமித்துள்ளது/175-332508) · `ta`
+
+மத்திய வங்கியின் ஆளும்சபை  ஜனவரி 22 ஆம் திகதி முதல் நடைமுறைக்கு வரும் வகையில் 6 உதவி ஆளுநர்களை நியமித்துள்ளது.
+
+◼️
+
+[Data](articles/b4b97d14.json)
+
+---
+
+### புதிய தூதுவர்கள் ஜனாதிபதியிடம் நற்சான்றிதழ்களை கையளித்தனர்
+
+*2024-02-01 19:58:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-தூதுவர்கள்-ஜனாதிபதியிடம்-நற்சான்றிதழ்களை-கையளித்தனர்/175-332504) · `ta`
+
+இலங்கைக்குப் புதிதாக நியமிக்கப்பட்டிருக்கும் புதிய உயர்ஸதானிகர்கள் மற்றும் தூதுவர்கள் மூவர் இன்று (01) ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் தமது நற்சான்றுப் பத்திரங்களைக் கையளித்தனர்.
+
+எசுவாத்தினி இராஜ்ஜியத்தின் உயர்ஸ்தானிகர், கிரிகிஸ், ருமேனியா, துர்க்மெனிஸ்தான் நாடுகளின் புதிய தூதுவர்களே இவ்வாறு புதிதாக நியமனம் பெற்றுள்ளனர்.
+
+Mr. Menzie Sipho Dlamini High Commissioner of the Kingdom of Eswatini)
+
+வௌிநாட்டலுவல்கள் இராஜாங்க அமைச்சர் தாரக்க பாலசூரிய மற்றும் ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க உள்ளிட்டவர்களும் இதன்போது கலந்துகொண்டனர்.
+
+அதனையடுத்து இன்று நியமனம் பெற்ற உயர்ஸ்தானிகரும் தூதுவர்களும் தேசிய பாதுகாப்பு தொடர்பிலான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்கவுடன் கலந்துரையாடலில் ஈடுபட்டனர்.
+
+◼️
+
+[Data](articles/ed91e4cd.json)
 
 ---
 
@@ -150,6 +216,20 @@ Following are the names of the diplomats who submitted their credentials today.
 
 ---
 
+### மக்களே உங்களுக்கு இவரை தெரியுமா?
+
+*2024-02-01 19:10:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களே-உங்களுக்கு-இவரை-தெரியுமா/175-332503) · `ta`
+
+கொலைச் சம்பவம் ஒன்றுடன் தொடர்புடைய சந்தேக நபரை கைது செய்ய பொதுமக்களிடம் பொலிஸார் தகவல் கோரியுள்ளனர்.
+
+புகைப்படத்தில் இருப்பவர் தொடர்பில்  தகவல் கிடைத்தால் கொள்ளுப்பிட்டி பொலிஸ் நிலையத்திலோ அல்லது 0742 226 022 , 0718 591 492, 0718 594 455 ஆகிய தொலைபேசி இலக்கங்களுக்கோ தொடர்பு கொண்டு தகவலைத் தெரிவிக்குமாறு பொலிஸார் கேட்டுக்கொண்டுள்ளனர். R
+
+◼️
+
+[Data](articles/58568046.json)
+
+---
+
 ### New diplomats who have been appointed to Sri Lanka
 
 *2024-02-01 19:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192856) · `si`
@@ -203,6 +283,22 @@ Commenting on the approval of the aid package, the Chairman of the European Comm
 [Data](articles/20d19fd2.json)
 
 [Extended Data](ext_articles/20d19fd2.ext.json)
+
+---
+
+### பஸ் கட்டணங்கள் குறித்து எடுக்கப்பட்ட தீர்மானம்
+
+*2024-02-01 18:55:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டணங்கள்-குறித்து-எடுக்கப்பட்ட-தீர்மானம்/175-332502) · `ta`
+
+டீசல் விலை அதிகரிக்கப்பட்டாலும் பஸ் கட்டணங்கள் அதிகரிக்கப்படாது என தேசிய போக்குவரத்து ஆணைக்குழு தெரிவித்துள்ளது.
+
+இதேவேளை, குறைந்தபட்ச பஸ் கட்டணத்தில் இருந்து ஏனைய கட்டணங்களும் அதிகரிக்கப்பட வேண்டும் என பஸ் சங்க பிரதிநிதிகள் தெரிவித்துள்ளனர்.
+
+அத்துடன், எதிர்வரும் பெப்ரவரி மாதம் 15ஆம் திகதிக்கு முன்னர் கட்டண திருத்தம் அமுல்படுத்தப்பட வேண்டுமெனவும் அவர்கள் கோரிக்கை முன்வைத்துள்ள போதும், பஸ் கட்டணங்கள் அதிகரிக்கப்படாது என தேசிய போக்குவரத்து ஆணைக்குழு தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/49ded100.json)
 
 ---
 
@@ -1887,121 +1983,5 @@ The Supreme Court ordered the petitioner of Rs. 25,000 to the petitioner to pay 
 [Data](articles/8875e913.json)
 
 [Extended Data](ext_articles/8875e913.ext.json)
-
----
-
-### 2023 A/L exam paper-marking gets underway
-
-*2024-02-01 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96912/2023-al-exam-paper-marking-gets-underway) · `en`
-
-The Department of Examinations has commenced evaluating the answer scripts of the 2023 G.C.E. Advanced Level Examination.
-
-Accordingly, the paper-marking staff including the chief evaluators will be paid the same amount given to them last year, the Ministry of Education said in a media release published today (Feb.01).
-
-The 2023 G.C.E. Advanced Level Examination was held from January 04 to 31 at more than 2,300 centres, with a total of 346,976 candidates sitting for the highly competitive national test.
-
-It was reported that 281,445 of the candidates were school applicants while the rest of the 65,531 were private applicants.
-
-However, the students are facing the A/L examination’s Agricultural Science question papers I and II once again today (Feb.01) after the earlier test papers were cancelled and rescheduled. The test held in January was annulled after it was revealed that several questions of both Paper I and II had been leaked.
-
-...
-
-[Data](articles/b4d7112e.json)
-
-[Extended Data](ext_articles/b4d7112e.ext.json)
-
----
-
-### Sri Lanka’s Galadari to sign agreements with Mashreq Bank, UAE
-
-*2024-02-01 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-galadari-to-sign-agreements-with-mashreq-bank-uae-149567/) · `en`
-
-ECONOMYNEXT – Galadari Hotels (Lanka) Plc will enter into agreements with Mashreq Bank PSC and the hotel’s holding company to finance refurbishment, the company said.
-
-“The Company intends to enter into a series of Agreements with Mashreq Bank PSC, United Arab Emirates and the holding Company; Galadari Brothers Co. LLC, to finance the proposed refurbishment of the Hotel,” the hotel said in a stock exchange filing.
-
-This is subject to the passing of a special resolution by the shareholders of the company and obtaining other necessary regulatory approvals, Galadari Hotels said.
-
-The hotel has issued a guest advisory about the construction work on its website: “We would like to inform our guests that the Galadari hotel Colombo will be undergoing a revamp from the end of February onwards until further notice.”
-
-...
-
-[Data](articles/cf83d947.json)
-
-[Extended Data](ext_articles/cf83d947.ext.json)
-
----
-
-### Government action to increase salary
-
-*2024-02-01 12:52:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளத்தை-அதிகரிக்க-அரசாங்கம்-நடவடிக்கை/175-332475) · `ta`
-
-The Departmental Supervisory Committee for the Open and Accountability Government focused on increasing the salaries of private sector employees.
-
-A discussion was held at a recent meeting in Parliament led by MP Jagath Kumara Sumitrarachi.
-
-Accordingly, today (01) was summoned by a committee of Labor and Foreign Employment and Consumer Service Authority.
-
-The chairman of the committee said that the salary issue of private sector employees is currently being raised. Accordingly, the committee addressed the intervention of the Labor Ministry in increasing the salaries of the department employees.
-
-In addition, only about 3 million employees in the private sector are under Labor Act, Labor Ministry officials said.
-
-Accordingly, the Ministry of Labor has said that the minimum salary of private sector employees from Rs 12,500 to Rs 21,000.
-
-Officials told the team that the Ministry of Labor had proposed to increase the salaries of plantation workers from Rs 1000 to 1700 rupees.
-
-...
-
-[Data](articles/58ddf5b7.json)
-
-[Extended Data](ext_articles/58ddf5b7.ext.json)
-
----
-
-### Interviews to be recruited to student training
-
-*2024-02-01 12:42:40* · [`adalk`](https://www.ada.lk/breaking_news/සිසු-හෙද-පුහුණුවට-බඳවා-ගැනීමේ-සම්මුඛ-පරීක්ෂණ-03දා/11-407844) · `si`
-
-The Deputy Director General of the Ministry of Health (Administration II), according to the Hambantota District (Administration) II champika Hagagamage says. ‍
-
-All relevant information is the official web page of the Ministry of Health (https://www.health.gov.lk/).
-
-◼️
-
-[Data](articles/aff38a1b.json)
-
-[Extended Data](ext_articles/aff38a1b.ext.json)
-
----
-
-### We have hit American ship in the Red Sea
-
-*2024-02-01 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175305) · `ta`
-
-The maritime security agency, Ambre, said that a ship found in the south of Yemen's Adeda port has revealed the explosion.
-
-A spokesman for the rebels said the US -owned KOI was targeted using several naval missiles.
-
-◼️
-
-[Data](articles/264c3e73.json)
-
-[Extended Data](ext_articles/264c3e73.ext.json)
-
----
-
-### Notice of A / L Survey of A / L
-
-*2024-02-01 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192830) · `si`
-
-The Department of Examinations is informed that the survey work has been launched by the GCE A / L.
-
-This year, the fees previously paid last year is to pay the Chief Inspectors to test the answer.
-
-◼️
-
-[Data](articles/becb936b.json)
-
-[Extended Data](ext_articles/becb936b.ext.json)
 
 ---

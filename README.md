@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 22:03:06**
+As of **2024-02-01 22:17:23**
 
 ## Newspaper Stats
 
-*Scraped **4,199** Articles*
+*Scraped **4,201** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,44 @@ dailyftlk | 258
 newsfirstlk | 265
 adalk | 378
 virakesarilk | 465
-adaderanasinhalalk | 500
+adaderanasinhalalk | 501
 adaderanalk | 524
 tamilmirrorlk | 535
-dailymirrorlk | 571
+dailymirrorlk | 572
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,199 (100.0%) of 4,199 articles have been extended.
+4,199 (100.0%) of 4,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### කොස්ගමදී කාන්තාවක් අසළට ලං වූ කාන්තාවක් කළ නොමනා වැඩේ
+
+*2024-02-01 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192864) · `si`
+
+කොස්ගම පොළ භූමියේදී කානතාවකගේ ගෙළ බැඳි රන් මාලයක් කොල්ලකා පළාගොස් ඇති කාන්තාවක් සොයා පොලීසිය විමර්ශන ආරම්භ කර ඇත.
+
+මෙම සිදුවීමට මුහුණදී ඇත්තේ කොස්ගම පන්සල පාර ප්‍රදේශයේ පදිංචි කාන්තාවකි.
+
+එම කාන්තාව රුධිර පරීක්ෂාවක් සඳහා කොස්ගම නගරය වෙත පැමිණ ඇති අතර ඉන් අනතුරුව ඇය කොස්ගම පොළ වෙත ගොස් තිබේ.
+
+එහිදී සැකකාර කාන්තාව හමුව ඇති බවත් මද වේලාවකින් ඇයට ක්ලාන්ත ගතියක් ඇතිවූ බව තමන්ට පැවසූ බවත් සිද්ධියට මුහුණ පෑ කාන්තාව පොලීසියට පවසා තිබේ.
+
+පසුව ඒ ආසන්නයේ තිබූ පුටුවක ඇය හිඳුවා ඒ අසළ තමන් රැඳී සිටි බවත් එහිදී එක්වරම නැගී සිට තමන් දෙසට කඩා පැන ගෙළ බැඳි රන් මාලය කොල්ලකා පළාගිය බවත් එම කාන්තාව පොලීසියට පැමිණිලි කර ඇත.
+
+මෙලෙස කොල්ලකා ඇති රන් මාලය පවුම් දෙකක් බරැති බවත් එහි එක්ලක්ෂ විසිපන්දහසක් පමණ වටිනා පෙන්ඩන් දෙකක් එල්ලා තිබූ බවත් එම කාන්තාව වැඩිදුරටත් සඳහන් කර තිබේ.
+
+සිද්ධිය සම්බන්ධයෙන් ලද පැමිණිල්ලකට අනුව කොස්ගම පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/bf9acaa1.json)
+
+---
 
 ### Petition against a Cabinet Decision
 
@@ -53,6 +77,26 @@ He says the Sri Lanka Insurance Corporation is a profit making organization and 
 [Data](articles/2afdfa95.json)
 
 [Extended Data](ext_articles/2afdfa95.ext.json)
+
+---
+
+### Sri Lanka face Afghanistan in historic Test
+
+*2024-02-01 21:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-face-Afghanistan-in-historic-Test/108-276152) · `en`
+
+Feb. 1 - Sri Lanka will hope to revive their flagging Test fortunes when they take on Afghanistan in their historic one-off match starting at the SSC Grounds in Maitland Place Tomorrow.
+
+The island nation is last on the World Test Championship Rankings and their previous match in October at the same ground saw a humiliating innings and 222-run loss to Pakistan in their worst ever home defeat.
+
+Dhananjaya de Silva, a middle-order batsman and handy off-spinner, takes charge with three uncapped players among the 16-member Sri Lanka Squad.
+
+Bowlers Chamika Gunasekara and Milan Rathnayake alongside opener Lahiru Udara have been selected while fast bowler Kasun Rajitha, who missed the recent home series against Zimbabwe due to injury, is making a comeback into the side.
+
+Meanwhile, Afghanistan are making a name for themselves in white-ball cricket but have had less chance to impress in five-day matches since being granted Test status in 2017.
+
+...
+
+[Data](articles/d08f2d3f.json)
 
 ---
 
@@ -1971,43 +2015,5 @@ Dematagoda Ruwan was charged with the allegation of over Rs.
 [Data](articles/2e499898.json)
 
 [Extended Data](ext_articles/2e499898.ext.json)
-
----
-
-### Applications called for Visa Accelerator - 2024
-
-*2024-02-01 14:16:50* · [`adalk`](https://www.ada.lk/business/Visa-Accelerator---2024-සඳහා-අයදුම්පත්-කැඳවයි/7-407849) · `si`
-
-Today, the global leader of digital payments VISA announced today to launch the fourth phase of the VISA ACCEEEERERERATOR. The program is the objective of enhancing the knowledge of these institutions to deal with VISA's payment experts for Startups Institutions in Sri Lanka.. The Visa ACcelerator 2024 program, artificial intelligence (AI), global cash and loyalty, is focused on new fields such as digital use and empedded finance.
-
-Commenting on the launch of the program, Ms. Avanthi Sri Lanka and Maldivines said Ms. Ms. Avanthi Colombo's in invitation to invite them to envoy their solutions through the Visa Accoletor program.
-
-This program gives us a unique opportunity to work with our experts to improve and test the solutions of Startups in the Fintachs industry. She also said that our aim is to introduce new solutions to global payments by enabling the navigation of cash navigation via positive payment experiences.
-
-...
-
-[Data](articles/b751fcef.json)
-
-[Extended Data](ext_articles/b751fcef.ext.json)
-
----
-
-### Emirates released festivals in Colombo lounge
-
-*2024-02-01 14:16:00* · [`adalk`](https://www.ada.lk/business/නිදහස්-දා-එමිරේට්ස්-කොළඹ-විවේකාගාරයේ-උත්සව-ප්‍රීතියක්/7-407848) · `si`
-
-Steps will be taken to provide a culinary tribute to the passengers to commemorate the 76th Independence Day of Sri Lanka on February 4, the largest international carrier in the world.
-
-Emirates decorates the Emirates Passenger Lost at Bandaranaike International Airport and celebrates the event. The first and business class passengers will be offered to a traditional ceremony and warm local meal.
-
-Emirates passengers who come to the passenger restroom before starting the morning flight. The Emirates Passenger rest will deliver customers with a tasty Sri Lankan bunge, such as cashew bar, fish, poten, and mugge.
-
-The Emirates Passenger restroom at the Bandaranaike International Airport was opened in June 2012, while the first and business class passengers and airline passenger passengers' award winning program, the selected layers of the selected layers of the selected layers, the selected layers were for the use of the selected layers.
-
-...
-
-[Data](articles/747e253e.json)
-
-[Extended Data](ext_articles/747e253e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 23:32:48**
+As of **2024-02-01 23:51:32**
 
 ## Newspaper Stats
 
-*Scraped **4,209** Articles*
+*Scraped **4,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ virakesarilk | 466
 adaderanasinhalalk | 501
 adaderanalk | 528
 tamilmirrorlk | 535
-dailymirrorlk | 575
+dailymirrorlk | 576
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,209 (100.0%) of 4,209 articles have been extended.
+4,209 (100.0%) of 4,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### 162 graduates appointed to address growing interest in foreign languages
+
+*2024-02-01 23:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/162-graduates-appointed-to-address-growing-interest-in-foreign-languages/108-276159) · `en`
+
+Colombo, Feb 1 (Daily Mirror) - Considering the increasing tendency among students to learn foreign languages, the global economic trends and current economic priorities in Sri Lanka, a total of 162 graduates were recruited today to teach foreign languages in national schools.
+
+While participating in the ceremony at the Ministry to hand over the appointments, Education Minister Susil Premajayantha said the teacher appointments were made to 3-1 (a) Grade in the Sri Lanka Teaching Service.
+
+A Cabinet decision was taken to recruit qualified graduates as teachers to teach French, Japanese, Chinese, Korean, Hindi and German subjects in government schools with the aim of introducing new foreign languages to schools where language laboratories are currently operating, with the aim of expanding the number of foreign language schools currently in the school system.
+
+◼️
+
+[Data](articles/1aa00a70.json)
+
+---
 
 ### Petition filed challenging Cabinet decision to split SLIC into two institutions
 
@@ -2019,25 +2035,5 @@ The GCE Advanced Level Examination was held from January 4 to 31 and this year 3
 [Data](articles/fc25b5ae.json)
 
 [Extended Data](ext_articles/fc25b5ae.ext.json)
-
----
-
-### Bus societies suddenly headed to Ministry
-
-*2024-02-01 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192835) · `si`
-
-The Ministry of Use Association has gone to discuss issues due to the revision of the fuel price.
-
-The Sethsiripaya was held at the Ministry of Transport Ranjith Rupasinghe.
-
-The bus union representatives have stated that the minimum bus fare should be increased from the minimum bus fare.
-
-The revision should be implemented before February 15, our correspondent said.
-
-◼️
-
-[Data](articles/50aade1f.json)
-
-[Extended Data](ext_articles/50aade1f.ext.json)
 
 ---

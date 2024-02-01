@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 07:53:03**
+As of **2024-02-01 08:04:34**
 
 ## Newspaper Stats
 
-*Scraped **3,981** Articles*
+*Scraped **3,983** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ islandlk | 220
 economynextcom | 221
 newsfirstlk | 248
 dailyftlk | 257
-adalk | 350
+adalk | 351
 virakesarilk | 440
 adaderanasinhalalk | 457
-adaderanalk | 498
+adaderanalk | 499
 tamilmirrorlk | 504
 dailymirrorlk | 545
 
@@ -26,11 +26,31 @@ dailymirrorlk | 545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,981 (100.0%) of 3,981 articles have been extended.
+3,981 (99.9%) of 3,983 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-02-01 07:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96902/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in Eastern and Uva provinces and in Mullaitivu, Matale and Polonnaruwa districts.
+
+Showers or thundershowers will occur at several places elsewhere of the island after 2.00 p.m.
+
+Fairly heavy showers about 75 mm are likely at some places in Central and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Misty conditions can be expected at some places in Central and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
+
+The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/f4865922.json)
+
+---
 
 ### Health strike begins
 
@@ -521,6 +541,30 @@ Supreme Court Judge Priyantha Fernando has announced the agreement with the agre
 [Data](articles/7f47612a.json)
 
 [Extended Data](ext_articles/7f47612a.ext.json)
+
+---
+
+### ඉන්ධන මිල අඩු වැඩි වෙයි
+
+*2024-01-31 22:51:48* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-අඩු-වැඩි-වෙයි/11-407832) · `si`
+
+අද මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ඉන්ධන මිල සංශෝධනය කිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව තීරණය කර තිබේ.
+
+ඒ අනුව 92 වර්ගයේ පෙට්‍රල් රුපියල් 05කින් ඉහළ දැමීමට තීරණය කර ඇති අතර එහි නව මිල රුපියල් 371කි.
+
+ලංකා සුදු ඩීසල් මිල රුපියල් 05කින් ඉහළ දමා ඇති අතර එහි නව මිල රුපියල් 363කි.
+
+ලංකා භූමිතෙල් මිල ද රුපියල් 26කින් ඉහළ දමා ඇති අතර එහි නව මිල රුපියල් 262කි.
+
+මේ අතර ලංකා පෙට්‍රල් 95 ඔක්ටේන් යූරෝ 4 වර්ගයේ ලීටරයක මිල රුපියල් 08කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 456කි.
+
+එසේම ලංකා සුපිරි ඩීසල් 4ස්ටාර් යූරෝ 4 ලීටරයක මිල ද රුපියල් 07කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 468කි.
+
+ලංකා IOC සමාගම ද මෙම මිල ගණන් අනුව සිය ඉන්ධන මිල ගණන් සංශෝධනය කර තිබේ.
+
+◼️
+
+[Data](articles/65fae476.json)
 
 ---
 
@@ -2001,47 +2045,5 @@ The Secretary of Board of Control for Cricket in India (BCCI) has been reappoint
 [Data](articles/480b5131.json)
 
 [Extended Data](ext_articles/480b5131.ext.json)
-
----
-
-### Toyota recalls 50k US vehicles over potential airbag explosion
-
-*2024-01-31 17:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Toyota-recalls-50k-US-vehicles-over-potential-airbag-explosion/108-276051) · `en`
-
-WASHINGTON (Reuters) -Toyota Motor recently said it is urging the owners of 50,000 older U.S. vehicles to get immediate recall repairs because an air bag inflator could explode and potentially kill motorists.
-
-The Japanese automaker said the "Do Not Drive" advisory covers some 2003-2004 model year Corolla, 2003-2004 Corolla Matrix, and 2004-2005 RAV4s with Takata air bag inflators.
-
-More than 30 deaths worldwide, including 26 U.S. deaths, and hundreds of injuries in various automakers' vehicles since 2009 are linked to Takata air bag inflators that can explode, unleashing metal shrapnel inside cars and trucks.
-
-Over the last decade, more than 67 million Takata air bag inflators have been recalled in the United States by more than 20 automakers, and more than 100 million inflators worldwide, in the biggest auto safety callback in history.
-
-...
-
-[Data](articles/aa3608ac.json)
-
-[Extended Data](ext_articles/aa3608ac.ext.json)
-
----
-
-### The allegation of demolishing the inscription;Henry Mahendran
-
-*2024-01-31 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175245) · `ta`
-
-In the case of the demolition of the MS Kariyapper Road in Kalmunai, Ampara, the demolition of the river Relo Movement, the Secretary General of the Relo Movement and the former Opposition Leader of the Kalmunai Municipal Council, Henry Mahendran, has ordered a compensation of Rs.
-
-In the year 2015, the MS Kariyapar Road in Kalmunai, Ampara, was demolished by Henry Mahendran, Secretary General of the Relo Movement.
-
-He was subsequently arrested by the Kalmunai police on charges of illegal gathering and damaging the ownership of the Municipal Council.
-
-The case was underway for the past nine years and on Tuesday (30), the case was taken up in the presence of Kalmunai Magistrate MSM Samsudeen.. Henry Mahendran, who broke the Kariyapar road name board, ordered that he be guilty of 1,500 rupees and a compensation of 55,000 rupees.
-
-It is noteworthy that Attorney N. Sivanjith Ishattharani N Mathivathanan appeared on behalf of the Deputy Prophet.
-
-...
-
-[Data](articles/c623e32c.json)
-
-[Extended Data](ext_articles/c623e32c.ext.json)
 
 ---

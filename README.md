@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 17:52:57**
+As of **2024-02-01 18:08:26**
 
 ## Newspaper Stats
 
-*Scraped **4,127** Articles*
+*Scraped **4,133** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ dbsjeyarajcom | 131
 islandlk | 220
 economynextcom | 228
 dailyftlk | 258
-newsfirstlk | 259
+newsfirstlk | 262
 adalk | 368
 virakesarilk | 462
-adaderanasinhalalk | 484
+adaderanasinhalalk | 487
 adaderanalk | 519
 tamilmirrorlk | 528
 dailymirrorlk | 559
@@ -26,11 +26,47 @@ dailymirrorlk | 559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,127 (100.0%) of 4,127 articles have been extended.
+4,133 (100.0%) of 4,133 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### Attorneys released on bail
+
+*2024-02-01 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192849) · `si`
+
+A amateur lawyer in the Attanagalla Magistrate's Court had summoned the case from court to Kalagedihena, including a lawyer and lawyers, at Attanagalla court yesterday.
+
+The five suspects were produced in court and the Attanagalla Magistrate Manjula Karunaratne has released on bail of Rs.
+
+◼️
+
+[Data](articles/4f25399e.json)
+
+[Extended Data](ext_articles/4f25399e.ext.json)
+
+---
+
+### The People’s Platform | Conversations From The Galle Literary Festival | Christina Lamb
+
+*2024-02-01 17:24:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/the-people%e2%80%99s-platform-conversations-from-the-galle-literary-festival-christina-lamb/) · `en`
+
+The People’s Platform | Conversations From The Galle Literary Festival | Christina Lamb
+
+The People’s Platform | Conversations From The Galle Literary Festival | Christina Lamb
+
+Nine Activists Released on Bail After Protest Demanding Ex-Minister’s Arrest
+
+Rambukwella ordered to report to CID on Friday; Slapped with Overseas Travel Ban
+
+◼️
+
+[Data](articles/0fb431a7.json)
+
+[Extended Data](ext_articles/0fb431a7.ext.json)
+
+---
 
 ### Bus fares to remain unchanged - NTC
 
@@ -43,6 +79,70 @@ The National Transport Commission (NTC) has announced that bus fares will not be
 [Data](articles/e3212232.json)
 
 [Extended Data](ext_articles/e3212232.ext.json)
+
+---
+
+### Notice of bus fares
+
+*2024-02-01 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192847) · `si`
+
+The National Transport Commission says that the bus fare will not be increased compared to the increase in diesel.
+
+◼️
+
+[Data](articles/8a9e9101.json)
+
+[Extended Data](ext_articles/8a9e9101.ext.json)
+
+---
+
+### Declaration from the Maha leader of Social Media
+
+*2024-02-01 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192846) · `si`
+
+The General Leader of the Malwatte Sumana Sumana Sumanawa says that the introduction of law is not wrong to controll the various insults on social media for a long time.
+
+The Thera said this at the time of the general leader of the International Human Rights Council today (01).
+
+Speaking further the General Leader added that he had been insulting on the social media over no basis.
+
+The Maha leader added that the persons using social media should be able to use it without interruption.
+
+He said that if the government is going to regulate social media without political goals, he says.
+
+◼️
+
+[Data](articles/7c3ab899.json)
+
+[Extended Data](ext_articles/7c3ab899.ext.json)
+
+---
+
+### Nine Activists Released on Bail After Protest Demanding Ex-Minister’s Arrest
+
+*2024-02-01 17:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/nine-activists-released-on-bail-after-protest-demanding-ex-minister-s-arrest/) · `en`
+
+COLOMBO (News 1st); Nine activists were released on bail after being arrested during a protest outside the Criminal Investigation Department (CID) in Colombo.
+
+The activists, who were among a group of ten demonstrating, were demanding the arrest of former Health Minister Keheliya Rambukwella in connection with an alleged human immunoglobulin drug scandal.
+
+The protestors were arrested on Wednesday (31) while gathered outside the CID headquarters, and they were producued to the Fort Magistrate's Court on Thursday (1).
+
+However, one member, Sanjay Mahawatta, was not brought before the court due to hospitalization.
+
+The protest stemmed from ongoing investigations into the procurement of human immunoglobulin.
+
+The People’s Platform | Conversations From The Galle Literary Festival | Christina Lamb
+
+Nine Activists Released on Bail After Protest Demanding Ex-Minister’s Arrest
+
+Rambukwella ordered to report to CID on Friday; Slapped with Overseas Travel Ban
+
+◼️
+
+[Data](articles/b2257322.json)
+
+[Extended Data](ext_articles/b2257322.ext.json)
 
 ---
 
@@ -63,6 +163,26 @@ Lead delivery partners include the World Bank, The Asia Foundation, and Internat
 [Data](articles/ce84a656.json)
 
 [Extended Data](ext_articles/ce84a656.ext.json)
+
+---
+
+### PMD Weighs in on IGP Appointment Debate
+
+*2024-02-01 16:50:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/pmd-weighs-in-on-igp-appointment-debate/) · `en`
+
+COLOMBO (News 1st); The President's Media Division releases statement on the powers of the Constitutional Council and President, especially regarding the appointment of the Inspector General of Police.
+
+The President's Media Division issued a statement titled 'Performance of the Constitutional Duties of the President and the Constitutional Council'
+
+The statement noted that the Constitutional Council, which is chaired by the Speaker of Parliament and established under the Constitution has been empowered to assist the President in the making of certain decisions and is part of the Executive.
+
+It also noted that any restraint placed on the President in the performance of his Constitutional duty would be in contravention of the Constitution.
+
+...
+
+[Data](articles/5deba796.json)
+
+[Extended Data](ext_articles/5deba796.ext.json)
 
 ---
 
@@ -1724,11 +1844,11 @@ Thereafter, the opposition, and activists requested the speaker to refrain from 
 
 The Online Safety Bill aims to regulate online content in Sri Lanka, but critics warn it could lead to censorship and suppression of free speech.
 
-Rambukwella ordered to report to CID on Friday; Slapped with Overseas Travel Ban
+The People’s Platform | Conversations From The Galle Literary Festival | Christina Lamb
 
-Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
+Nine Activists Released on Bail After Protest Demanding Ex-Minister’s Arrest
 
-◼️
+...
 
 [Data](articles/6e5772ea.json)
 
@@ -1867,131 +1987,5 @@ Later in the year 2007, he joined the service of the Parliament of Sri Lanka as 
 [Data](articles/ee0e972e.json)
 
 [Extended Data](ext_articles/ee0e972e.ext.json)
-
----
-
-### Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
-
-*2024-02-01 10:17:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/myanmar-govt-hands-over-chinese-scam-centre-mafia-bosses-to-chinese/) · `en`
-
-Colombo (News 1st) – The Myanmar government has begun a crackdown on Chinese warlord families running scam centres in the Laukkaing province of Myanmar, foreign media reported. This is a different province to the one in which 56 Sri Lankans are known to be enslaved in online scam centres in Myanmar close to the Thai border.
-
-The Myanmar military junta on Tuesday flew the leaders of three Chinese mafia families to Beijing on a special chartered flight. The three – Bai Suocheng, Wei Chaoren and Liu Zhengxiang – had been running a ‘scam city’ in the province of Laukkaing with the backing of the Myanmar junta since 2009.
-
-But increasing pressure from the Chinese government, together with the weakening of the junta in losses to Myanmar rebel armies in far-flung regions of Myanmar, resulted in the junta turning over the warlords.
-
-...
-
-[Data](articles/764d7f34.json)
-
-[Extended Data](ext_articles/764d7f34.ext.json)
-
----
-
-### Sri Lankan Fishermen Safe in Seychelles After Dramatic Rescue
-
-*2024-02-01 10:08:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/sri-lankan-fishermen-safe-in-seychelles-after-dramatic-rescue/) · `en`
-
-COLOMBO (News 1st); : Six Sri Lankan fishermen who were captured by an armed group and were successfully rescued and arrived in the capital of Seychelles, Victoria.
-
-The dramatic rescue operation, coordinated by the Sri Lanka Navy in collaboration with Seychelles security forces, saw the release of the fishermen and the apprehension of three armed individuals.
-
-The vessel named "Lorenzo Putha 4," embarked on its maiden voyage from Dikovita port on January 12th, carrying six fishermen from the Marawila area, with three belonging to the same family.
-
-Details regarding the nature of the armed group and the circumstances surrounding their capture remain unclear.
-
-However, upon receiving information about the incident, the Sri Lanka Navy promptly initiated communication with the Seychelles Coast Guard, leading to a swift response.
-
-The combined efforts of both parties culminated in the rescue of the fishermen and the surrender of the armed personnel to Seychellois authorities.
-
-...
-
-[Data](articles/5be3f89f.json)
-
-[Extended Data](ext_articles/5be3f89f.ext.json)
-
----
-
-### 18 Indian fishermen released on condition
-
-*2024-02-01 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175284) · `ta`
-
-18 Indian fishermen who were arrested and interrogated after being arrested for fishing in the Sri Lankan waters have been released on Wednesday (31) by the Mannar Court.
-
-Three allegations were made against them today by the Mannar District Fisheries and Aquatic Resources Department.
-
-Three allegations have been put forward by the Sri Lankan waters without the permission of the Director, fishing in the Sri Lankan waters, and the launch of a banned drag in Sri Lanka.
-
-The Magistrate, who had investigated the allegations, was sentenced to 12 months for the allegations for the 1st and 2nd and the 3rd charges were sentenced to five months and were sentenced to five years.
-
-In addition, the case will be taken up for hearing on March 20.
-
-The owner of the boat has been ordered to appear before the day.
-
-The 18 Indian fishermen have been sent to the Mirihana Center through the Indian consulate officials.
-
-18 Tamil Nadu fishermen were arrested by the Navy on the 16th of last month.
-
-...
-
-[Data](articles/47f74dd7.json)
-
-[Extended Data](ext_articles/47f74dd7.ext.json)
-
----
-
-### 136 killed in road accidents in the first 25 days of January
-
-*2024-02-01 10:03:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/136-killed-in-road-accidents-in-the-first-25-days-of-january/) · `en`
-
-COLOMBO (News 1st); 136 people have died in road accidents in the first 25 days of January 2024.
-
-Police said 1,189 road accidents were reported during this period, and 130 of them were fatal accidents.
-
-22,804 road accidents were reported last year, resulting in the death of 2,280 persons.
-
-Rambukwella ordered to report to CID on Friday; Slapped with Overseas Travel Ban
-
-Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
-
-◼️
-
-[Data](articles/563df428.json)
-
-[Extended Data](ext_articles/563df428.ext.json)
-
----
-
-### Tri-forces personnel deployed to hospitals
-
-*2024-02-01 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96906/tri-forces-personnel-deployed-to-hospitals-) · `en`
-
-The Defence Ministry tri-forces personnel are being deployed to hospitals across the country, depending on the requirements at each facility.
-
-The decision was reached to ensure that functions at hospitals are not disrupted by the ongoing strike launched by health sector workers.
-
-◼️
-
-[Data](articles/7d031451.json)
-
-[Extended Data](ext_articles/7d031451.ext.json)
-
----
-
-### Tri-forces personnel deployed to hospitals amidst health strike
-
-*2024-02-01 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96906/tri-forces-personnel-deployed-to-hospitals-amidst-health-strike) · `en`
-
-In response to the island-wide strike by trade unions in the health sector, tri-force personnel have been deployed to the state hospitals across the country today (Feb.01) the ongoing health strike, depending on the requirements at each facility.
-
-Defence Ministry said the decision was taken to make sure that daily hospital functions are not disrupted by the ongoing strike launched by health sector workers over allowances.
-
-Sri Lanka Army said its troops were dispatched to the National Hospital of Sri Lanka (NHSL), National Eye Hospital, Dental Hospital Colombo, Homagama Base Hospital, Kalubowila Teaching Hospital, Mirigama Base Hospital, District General Hospital Avissawella, Kurunegala Teaching Hospital and a number of other state health facilities for uninterrupted provision of essential medical services to the public.
-
-...
-
-[Data](articles/a1695938.json)
-
-[Extended Data](ext_articles/a1695938.ext.json)
 
 ---

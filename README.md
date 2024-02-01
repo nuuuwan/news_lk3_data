@@ -1,36 +1,86 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 00:02:40**
+As of **2024-02-02 00:17:20**
 
 ## Newspaper Stats
 
-*Scraped **4,210** Articles*
+*Scraped **4,215** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 50
 bbccomsinhala | 64
-dbsjeyarajcom | 131
+dbsjeyarajcom | 132
 islandlk | 220
-economynextcom | 238
+economynextcom | 239
 dailyftlk | 258
 newsfirstlk | 265
 adalk | 378
 virakesarilk | 466
 adaderanasinhalalk | 501
 adaderanalk | 528
-tamilmirrorlk | 535
-dailymirrorlk | 576
+tamilmirrorlk | 537
+dailymirrorlk | 577
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,210 (100.0%) of 4,210 articles have been extended.
+4,210 (99.9%) of 4,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### சிறைச்சாலைக்குள் வீசப்பட்ட மர்ம பொதி
+
+*2024-02-01 23:46:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைச்சாலைக்குள்-வீசப்பட்ட-மர்ம-பொதி/175-332521) · `ta`
+
+மாத்தறை சிறைச்சாலைக்குள் போதைப்பொருள் மற்றும் தடைசெய்யப்பட்ட ஏனைய பொருட்களை வீசிய குற்றச்சாட்டில் ஒருவர் கைது செய்யப்பட்டதாக சிறைச்சாலை ஆணையாளர் காமினி பி. திஸாநாயக்க தெரிவித்தார்.
+
+மோட்டார் சைக்கிளில் வந்த இருவர் வீதியில் இருந்து சிறைக்குள் குறித்த பொதியை வீசியதை சிறைச்சாலை அலுவலக அதிகாரிகள் பார்த்துள்ளனர்.
+
+சிறைச்சாலைக்குள் வீசப்பட்ட பொதியில் ஐஸ் மற்றும் ஹெரோயின் போதைப்பொருள், சிம் கார்ட் ஒன்று, லைட்டர்கள் இரண்டு மற்றும் கையடக்கத் தொலைபேசி பேட்டரிகள் இரண்டும் 10 சிகரெட்டுகள் காணப்பட்டதாக அதிகாரிகள் கூறினர்.
+
+கைது செய்யப்பட்ட நபர் மற்றும் தடை செய்யப்பட்ட பொருட்கள் மேலதிக சட்ட நடவடிக்கைகளுக்காக மாத்தறை தலைமையக பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளதாகவும், சம்பவம் தொடர்பில் மாத்தறை சிறைச்சாலை விசாரணைகளை ஆரம்பித்துள்ளதாகவும் சிறைச்சாலை ஆணையாளர் காமினி பி. திஸாநாயக்க மேலும் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/99a787b1.json)
+
+---
+
+### Teachers boycott A/L marking over unpaid allowances
+
+*2024-02-01 23:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teachers-boycott-AL-marking-over-unpaid-allowances/108-276157) · `en`
+
+Colombo, Feb 01 (Daily Mirror) - The Teachers and Principals Trade Union said that the Rs. 2,000 per day allowance given for marking the A/L answer sheets was not given this time, so they have decided to withdraw from the evaluation of the answer sheets.
+
+Joseph Stalin of the Union said that although a special allowance of Rs. 2,000 per day was given last year for the marking of examination of A/L answer sheets but this time the allowance has been removed prompting them to withdraw from the marking of answer sheets.
+
+◼️
+
+[Data](articles/988b5bb0.json)
+
+---
+
+### ஜனாதிபதியின் வீட்டுக்கு தீ வைத்தவர் அதிரடி கைது
+
+*2024-02-01 23:29:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-வீட்டுக்கு-தீ-வைத்தவர்-அதிரடி-கைது/175-332520) · `ta`
+
+கோட்டாபய அரசாங்கத்திற்கு எதிராக முன்னெடுக்கப்பட்ட போராட்டத்தின் போது தற்போதைய ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வீட்டிற்கு தீ வைத்த சம்பவத்துடன் தொடர்புடையதாக கூறப்படும் சந்தேக நபர் ஒருவரை குற்றப்புலனாய்வு திணைக்கள அதிகாரிகள் கைது செய்துள்ளனர்.
+
+பொலிஸ் ஊடகப்பேச்சாளர், சிரேஷ்ட பொலிஸ் அத்தியட்சகர், சட்டத்தரணி நிஹால் தல்துவ இதை தெரிவித்தார்.
+
+கொட்டதெனிய பிரதேசத்தை சேர்ந்த 30 வயதுடைய ஒருவரே இவ்வாறு கைது செய்யப்பட்டதாக அவர் தெரிவித்தார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் தனியார் நிறுவனமொன்றில் பணிபுரிபவர் எனவும் குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/01a2072a.json)
+
+---
 
 ### 162 graduates appointed to address growing interest in foreign languages
 
@@ -977,6 +1027,18 @@ However, the Mahanayake Thero further added that people who use social media sho
 [Data](articles/fe6ab59d.json)
 
 [Extended Data](ext_articles/fe6ab59d.ext.json)
+
+---
+
+### Sri Lanka central bank appoints six Assistant Governers
+
+*2024-02-01 17:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-appoints-six-assistant-governers-149660/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank said C Amarasekara, W A Dilrukshini, P K G Harischandra, D S W Samaratunga, E H Mohotty and R D T Gunasekara have been appointed as Assistant Governors with effect from January 22, 2024.
+
+...
+
+[Data](articles/5b189ff6.json)
 
 ---
 
@@ -1969,73 +2031,5 @@ President's Counsel Faizer Mustapha claimed that there was no legal base against
 [Data](articles/8d7eaf3e.json)
 
 [Extended Data](ext_articles/8d7eaf3e.ext.json)
-
----
-
-### Struggle before CID;The court issued by the court
-
-*2024-02-01 14:46:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சி-ஐ-டிக்கு-முன்பாக-போராட்டம்-நீதிமன்றம்-வழங்கிய-உத்தரவு/175-332482) · `ta`
-
-They have been ordered to be released on bail as they have been produced before the Fort Magistrate's Court today (01).
-
-They have been arrested by the police while protesting in front of the Criminal Investigation Department demanding the arrest of former health minister Keheliya Rambukwella.
-
-◼️
-
-[Data](articles/a804b2b9.json)
-
-[Extended Data](ext_articles/a804b2b9.ext.json)
-
----
-
-### Request to increase bus fares
-
-*2024-02-01 14:42:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டணங்களை-அதிகரிக்குமாறு-கோரிக்கை/175-332481) · `ta`
-
-A team of bus union representatives has gone to the Transport Ministry to discuss the issues caused by the fuel prices.
-
-Representatives of the Bus Association said other fees should be increased from the minimum bus fare.
-
-It is also reported that they have demanded that the tariff revision be implemented before the 15th of February.
-
-◼️
-
-[Data](articles/f8d47a2d.json)
-
-[Extended Data](ext_articles/f8d47a2d.ext.json)
-
----
-
-### The answer sheet is the onset of assessment work
-
-*2024-02-01 14:39:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடைத்தாள்-மதிப்பிடும்-பணிகள்-ஆரம்பம்/175-332480) · `ta`
-
-The Department of Examinations has said that the assessment of the answer sheet for the GCE A / L examination has begun.
-
-The Department of Examinations said that the same fee paid last year for teachers and other staff engaged in the evaluation of the answer sheet.
-
-◼️
-
-[Data](articles/bbc682d9.json)
-
-[Extended Data](ext_articles/bbc682d9.ext.json)
-
----
-
-### Answer Sheet Correction Work
-
-*2024-02-01 14:39:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடைத்தாள்-திருத்தும்-பணிகள்-ஆரம்பம்/175-332480) · `ta`
-
-The Department of Examinations has said that the answer sheet for the GCE A / L examination has begun.
-
-The Department of Examinations has said that this time will be paid the same fee for teachers and other staff engaged in editing the answer sheet.
-
-The GCE Advanced Level Examination was held from January 4 to 31 and this year 346,976 candidates appeared.
-
-◼️
-
-[Data](articles/fc25b5ae.json)
-
-[Extended Data](ext_articles/fc25b5ae.ext.json)
 
 ---

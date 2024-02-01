@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 20:33:47**
+As of **2024-02-01 20:50:33**
 
 ## Newspaper Stats
 
-*Scraped **4,179** Articles*
+*Scraped **4,181** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 265
 adalk | 374
 virakesarilk | 463
 adaderanasinhalalk | 495
-adaderanalk | 521
+adaderanalk | 523
 tamilmirrorlk | 531
 dailymirrorlk | 569
 
@@ -26,7 +26,7 @@ dailymirrorlk | 569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,179 (100.0%) of 4,179 articles have been extended.
+4,181 (100.0%) of 4,181 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -73,6 +73,26 @@ The Deputy Solicitor General General of Lakmini, the Deputy Solicitor General, L
 [Data](articles/75af017f.json)
 
 [Extended Data](ext_articles/75af017f.ext.json)
+
+---
+
+### China executes couple for murder of toddlers that shocked the nation
+
+*2024-02-01 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/96927/china-executes-couple-for-murder-of-toddlers-that-shocked-the-nation) · `en`
+
+China has executed a couple for throwing two toddlers out of a high-rise apartment window, in a case that provoked nationwide outrage.
+
+The man and his girlfriend were found guilty of killing the children from his first marriage by staging an accidental fall from a residential tower in the southwestern metropolis of Chongqing, so that they could start a new family.
+
+The father, Zhang Bo, began an affair with Ye Chengchen and initially hid the fact that he was married with children, but Ye found out and Zhang divorced his wife, according to China’s supreme court.
+
+Ye saw Zhang’s two children as an “obstacle” to them getting married and a “burden on their future life together,” the court heard. She repeatedly urged Zhang to kill the toddlers and threatened to break up with him if he didn’t.
+
+...
+
+[Data](articles/8b59fd0b.json)
+
+[Extended Data](ext_articles/8b59fd0b.ext.json)
 
 ---
 
@@ -173,6 +193,34 @@ He told the media that 10% of the existing transport fare will be increased for 
 [Data](articles/3f28cc5c.json)
 
 [Extended Data](ext_articles/3f28cc5c.ext.json)
+
+---
+
+### Four new Heads of Mission present credentials to the President
+
+*2024-02-01 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/96926/four-new-heads-of-mission-present-credentials-to-the-president) · `en`
+
+A newly appointed High Commissioner and three Ambassadors to Sri Lanka have presented Letters of Credence to President Ranil Wickremesinghe at a ceremony held at the Presidential Secretariat in Colombo this afternoon (01).
+
+Among them is the new High Commissioner for the Kingdom of Eswatini, along with the newly appointed Ambassadors for Romania, the Kyrgyz Republic and Turkmenistan, the President’s Media Division (PMD) said.
+
+The diplomats who submitted their credentials today are as follows;
+
+1. Mr. Menzie Sipho Dlamini – High Commissioner-designate of the Kingdom of Eswatini based in Kuala Lumpur
+
+2. Ms. Steluta Arhire – Ambassador-designate of Romania based in Colombo
+
+3. Mr. Askar Beshimov – Ambassador-designate of the Kyrgyz Republic based in New Delhi
+
+4. Mr. Shalar Geldynazarov – Ambassador-designate of Turkmenistan based in New Delhi
+
+Minister of State for Foreign Affairs Tharaka Balasuriya and President’s Secretary Saman Ekanayake were also present on this occasion, the PMD reported.
+
+...
+
+[Data](articles/6ff4696f.json)
+
+[Extended Data](ext_articles/6ff4696f.ext.json)
 
 ---
 
@@ -1943,41 +1991,5 @@ According to the Ministry further stated that this year, the fees paid last year
 [Data](articles/e0d37e43.json)
 
 [Extended Data](ext_articles/e0d37e43.ext.json)
-
----
-
-### Pledge loans for Sri Lanka’s SME paddy businesses at concessional interest
-
-*2024-02-01 12:36:00* · [`economynextcom`](https://economynext.com/pledge-loans-for-sri-lankas-sme-paddy-businesses-at-concessional-interest-149559/) · `en`
-
-ECONOMYNEXT – Sri Lanka has launched a pledge loan scheme worth 9 billion rupees at a partly subsidised concessional interest rate for small and medium paddy millers, paddy storage owners and paddy collectors for purchasing paddy in Maha  Season 2023/2024.
-
-The scheme came effective on Thursday February 01, to facilitate a reasonable price for  farmers, an official statement said.
-
-The target groups for the scheme are small and medium scale (SME) paddy millers subject to a maximum daily paddy milling capacity of 25 metric tons per day, paddy storage owners with sufficient storage capacity, and paddy collectors with storage capacity or a valid lease agreement with a storage owner with sufficient storage capacity or with an SME paddy miller.
-
-Such borrowers should have a valid business registration obtained from a relevant government institution, the statement said.
-
-...
-
-[Data](articles/c5d1ea55.json)
-
-[Extended Data](ext_articles/c5d1ea55.ext.json)
-
----
-
-### Liquor stores to be closed for 76th Independence Day
-
-*2024-02-01 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96911/liquor-stores-to-be-closed-for-76th-independence-day) · `en`
-
-All wine stores and liquor sales outlets will be closed on 04 February, in view of Sri Lanka’s 76th Independence Day, as per the directives of the Commissioner General of the Excise Department.
-
-Accordingly, all liquor-selling establishments will close at 10:00 p.m. on 03 January, and will reopen at 08:00 a.m. on 05 January.
-
-◼️
-
-[Data](articles/a3f7952c.json)
-
-[Extended Data](ext_articles/a3f7952c.ext.json)
 
 ---

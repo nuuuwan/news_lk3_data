@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 03:17:16**
+As of **2024-02-02 03:33:40**
 
 ## Newspaper Stats
 
-*Scraped **4,217** Articles*
+*Scraped **4,220** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,87 @@ virakesarilk | 467
 adaderanasinhalalk | 501
 adaderanalk | 528
 tamilmirrorlk | 538
-dailymirrorlk | 577
+dailymirrorlk | 580
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,215 (100.0%) of 4,217 articles have been extended.
+4,217 (99.9%) of 4,220 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
 
-### ’உட்கட்சி முரண்பாடுகள் வரும்’
+### Fund cuts for UNRWA point to a clash of civilisations
+
+*2024-02-02 02:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Fund-cuts-for-UNRWA-point-to-a-clash-of-civilisations/172-276174) · `en`
+
+Palestinian civilians including children stage a demonstration in Rafah in the southern Gaza Strip, calling for continued international support to UNRWA. AFP
+
+Peace-loving people worldwide are probably sick and tired of seeing and hearing the triumph of evil and injustice. Each time they hoped for a ceasefire in the Gaza Strip so that the besieged people could breathe the air of melancholic freedom, they were dealt yet another blow by the war party.
+
+The latest is what followed the International Court of Justice’s ruling on January 26. The world court ruled by a majority decision that Israel should “take all measures within its power” to prevent acts of genocide in the Gaza Strip. The court also ordered Israel to allow humanitarian aid into Gaza. Although it stopped short of ordering a ceasefire, most jurists believe a ceasefire is implied.
+
+...
+
+[Data](articles/9ac88f51.json)
+
+---
+
+### Being Used in a Nation that Forgets - EDITORIAL
+
+*2024-02-02 02:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Being-Used-in-a-Nation-that-Forgets-EDITORIAL/172-276173) · `en`
+
+Sri Lankans are known for forgetting their history fast. This piece of writing is not about dementia or amnesia. It’s about history that fades away quite fast in our brains, because the subject matter is boring beyond description, or it contains nothing worthwhile to be noted even in the last page of a notebook.
+
+State Minister, Sanath Nishantha died under tragic circumstances on January 25 (Thursday) and his funeral rites were performed on the 28th (Sunday). Massive crowds were there to mourn his death and most stages of his funeral received wide media attention.
+
+...
+
+[Data](articles/d39cf3fa.json)
+
+---
+
+### SriLankan Airlines flying through Turbulence – CEO Richard Nuttall
+
+*2024-02-02 02:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/SriLankan-Airlines-flying-through-Turbulence-CEO-Richard-Nuttall/231-276172) · `en`
+
+With the current traffic, the airline is in a perfect position to feed it to Australia, China, Japan, Singapore, depending on where the connecting traffic is. That is where the big opportunity lies
+
+The commercial opportunity is huge. The risk is more about the country, politics and the currency
+
+There is huge potential for the national carrier given India’s booming economy
+
+Growing is a real challenge due to lack of aircraft, engines and spare parts
+
+Chief Executive Officer of SriLankan Airlines, Richard Nuttall, in an interview with Daily Mirror, discussed the way forward and the current challenges of the national carrier in the midst of efforts by the government to restructure it.
+
+Q SriLankan Airlines is the most cash-strapped government institution at the moment. You suffered losses amounting to US $ 525 million.
+
+...
+
+[Data](articles/706887c3.json)
+
+---
+
+### Model Infantry Conflicts
 
 *2024-02-02 02:04:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உட்கட்சி-முரண்பாடுகள்-வரும்/175-332522) · `ta`
 
-கூட்டத்தை ஒத்தி வைப்பது தொடர்பான அதிகாரம் பதில் பொதுச் செயலாளருக்குத்தான் உள்ளது. இது ஒரு சட்ட ரீதியான விடயமாகும் அந்த அடிப்படையில் கூட்ட தீர்மானம் என்ன என்பது தொடர்பில் அவர் தலைவருக்கு கடிதம் எழுதியுள்ளதாக நான் அறிகின்றேன்.  அதற்குரிய கடிதத்தையும் நான் பார்த்திருந்தேன்.
+The authority to postpone the meeting is for the General Secretary. I know that this is a legal issue and that he has written to the leader on what the meeting is on that basis.I also saw the letter.
 
-இந்த விடையம் தொடர்பில் ஊடகங்களுக்கு கருத்துக்கள் வழங்கினால்  உட்கட்சி முரண்பாடுகள் பல வரும் காரணமாக இதுதொடர்பில் மேலதிக விபரங்களை நான் தெரிவிக்க விரும்பவில்லை  என இலங்கைத் தமிழரசுக் கட்சியின் மட்டக்களப்பு பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன் தெரிவித்துள்ளார்.
+"I do not want to report further details in this regard," said R. Sanakiyan, a member of the Sri Lanka Tamil National Alliance (TNA).
 
-மட்டக்களப்பு மாவட்டம் மண்முனை தென் எருவில்பற்று பிரதேசத்திற்கான அபிவிருத்திக்குழுக் கூட்டம் களுவாஞ்சிகுடியில் அமைந்துள்ள பிரதேச செயலக மாநாட்டு மண்டபத்தில் வியாழக்கிழமை (01) நடைபெற்றது. இதன்போது கலந்து கொண்ட பின்னர் ஊடகவியலாளர்களின் கேள்விகளுக்குப் பதிலளிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+The Development Committee meeting for the Manmunai South Eruvilpattu area in Batticaloa district was held on Thursday (01) at the Divisional Secretariat Conference Hall in Kaluwanchikudi. He said this while responding to questions from journalists after attending.
+
+Former President of the Sri Lanka TNA. The general secretary has the powers relating to the meeting and postponing party meetings. The second deputy secretary of parliament MA Sumanthiran was held in accordance with the party's Yap as the doctor Sathiyalingam, who served as the General Secretary in response to the recent party meeting in Trincomalee.
 
 ...
 
 [Data](articles/5b8f519b.json)
+
+[Extended Data](ext_articles/5b8f519b.ext.json)
 
 ---
 
@@ -1608,25 +1664,31 @@ Sri Lanka Parliament was prorogued with effect from midnight on 26 January, mark
 
 ---
 
-### அரசாங்கத்துக்கு காலவகாசம் வழங்கியுள்ள அகில இலங்கை தனியார் பேருந்து சங்கம்
+### All Ceylon Private Bus Association
 
 *2024-02-01 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175307) · `ta`
 
-எரிபொருள் விலையேற்றத்துக்கு அமைய பேருந்து கட்டணத்தை 10 சதவீதத்தால் அதிகரிக்க வேண்டும். அரசாங்கத்துக்கு 15 நாட்கள் காலவகாசம் வழங்குவோம். கட்டணத்தை அதிகரிக்காவிட்டால் எமது பலத்தை காண்பிப்போம் என அகில இலங்கை தனியார் பேருந்து சங்கத்தின் தலைவர் கெமுனு விஜேரத்ன தெரிவித்தார்.
+Increase bus fares by 10 percent for fuel prices. We will give the government 15 days. All Ceylon Private Bus Association President Gemunu Wijeratne said that if the tariff is increased, we will show our strength.
 
-கொழும்பில் வியாழக்கிழமை (01) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துக் கொண்டு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking at a media briefing held in Colombo on Thursday (01).
 
-ஒவ்வொரு மாதமும் எரிபொருள் விலையில் மாற்றம் ஏற்படுவதால் பேருந்து கட்டணத்தை தீர்மானிப்பதில் பாரிய பிரச்சினை காணப்படுகிறது. நேற்று முதல் அமுலுக்கு வரும் வகையில் எரிபொருள் விலை அதிகரிக்கப்பட்டுள்ளது.
+There is a huge problem in determining bus fares due to a change in fuel prices every month. Fuel prices have been increased with effect from yesterday.
 
-எரிபொருள் விலை அதிகரிக்கப்படும் போது பேருந்து கட்டணத்தை திருத்தம் செய்யுமாறு அரசாங்கத்திடம் கோரிக்கைகளை முன்வைக்கிறோம்.
+We make requests to the government to revise the bus fare when fuel prices are increased.
 
-ஒவ்வொரு மாதமும் எரிபொருள் கட்டணம் உயர்வடைகிறது. ஆனால் பேருந்து கட்டணம் வருடத்துக்கு இருமுறை தான் திருத்தம் செய்யப்பட வேண்டும் என்பது நடைமுறைக்கு சாத்தியமற்றதாக உள்ளது.
+The fuel fare increases every month. But it is practically impossible that the bus fare should be amended twice a year.
 
-வாழ்க்கை செலவு அதிகரிப்புக்கு மத்தியில் வற் வரி அதிகரிப்பினால் வாகன உதிரிபாகங்களின் விலை பன்மடங்கு அதிகரிக்கப்பட்டுள்ளன.
+Amidst the cost of living, the price of vehicle parts has been increased manifold.
+
+So we are sure that the bus fare should be increased this time. We cannot continue the service if we do not revise the cost of fuel costs.
+
+The bus fare should be increased by 10 percent for the current fuel price.
 
 ...
 
 [Data](articles/871c3b6a.json)
+
+[Extended Data](ext_articles/871c3b6a.ext.json)
 
 ---
 
@@ -1981,59 +2043,5 @@ It is understood that Rambukwella has sought the CID, in writing, to fix another
 [Data](articles/69713575.json)
 
 [Extended Data](ext_articles/69713575.ext.json)
-
----
-
-### Bus unions demand fare hike after fuel price revision; Tuk-Tuk fares to remain unchanged
-
-*2024-02-01 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/96917/bus-unions-demand-fare-hike-after-fuel-price-revision-tuk-tuk-fares-to-remain-unchanged) · `en`
-
-The private bus owners’ associations have stressed that immediate measures should be taken to increase the bus fares in correspondence to the continuous increasing of fuel prices.
-
-Commenting regarding the matter, the chief secretary of the All-Ceylon Private Bus Owners’ Association, Anjana Priyanjith said: “Earlier, the price of diesel was raised by Rs. 29 per litre, and then the relevant prices were increased again by Rs. 05 yesterday. Therefore, the bus fares must be increased”.
-
-Meanwhile, the President of the Lanka Private Bus Owners’ Association (LPBOA) Gemunu Wijeratne expressed that they will take measures to increase the bus fares within the next two weeks.
-
-“The minimum bus fare will be increased up to at least Rs. 35 at the time. We will increase the fares even by force”, Wijeratne added.
-
-...
-
-[Data](articles/322cb98e.json)
-
-[Extended Data](ext_articles/322cb98e.ext.json)
-
----
-
-### Notice from parliament
-
-*2024-02-01 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192837) · `si`
-
-The Department of Parliament said that the 5th session of the 9th Parliament of Sri Lanka will commence on the 7th.
-
-The session will be held under the patronage of President Mahinda Rajapaksa.
-
-The statement also states the debate on the time of postponement regarding the government's government's policy statement on the President.
-
-The debate has been decided at a special party leaders meeting held from 9.30 am and 9.30 pm on the 9th.
-
-◼️
-
-[Data](articles/3e8a9553.json)
-
-[Extended Data](ext_articles/3e8a9553.ext.json)
-
----
-
-### Attanayake conferred with honourary title...
-
-*2024-02-01 14:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Attanayake-conferred-with-honourary-title/110-276138) · `en`
-
-SJB MP Tissa Attanayake, who was the founder of the concept "Sadaham Yathra", was conferred with the honourary title "Deshakeerthi Sri Shasanabhimani" by the Mahanayake Thera of the Sri Lanka Ramanna Maha Nikaya Most Venerable Makulewe Wimalaabhidana Thera for his contribution to make religious harmony a reality by unifying the Hindu, Islam and Catholic religious institutions. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/2904a15e.json)
-
-[Extended Data](ext_articles/2904a15e.ext.json)
 
 ---

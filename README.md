@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 23:51:32**
+As of **2024-02-02 00:02:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 576
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,209 (100.0%) of 4,210 articles have been extended.
+4,210 (100.0%) of 4,210 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ A Cabinet decision was taken to recruit qualified graduates as teachers to teach
 ◼️
 
 [Data](articles/1aa00a70.json)
+
+[Extended Data](ext_articles/1aa00a70.ext.json)
 
 ---
 

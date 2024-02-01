@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 22:50:50**
+As of **2024-02-01 23:02:41**
 
 ## Newspaper Stats
 
-*Scraped **4,203** Articles*
+*Scraped **4,207** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ newsfirstlk | 265
 adalk | 378
 virakesarilk | 465
 adaderanasinhalalk | 501
-adaderanalk | 526
+adaderanalk | 527
 tamilmirrorlk | 535
-dailymirrorlk | 572
+dailymirrorlk | 575
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,203 (100.0%) of 4,203 articles have been extended.
+4,203 (99.9%) of 4,207 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### ILO assures fullest support towards developing Sri Lanka’s labour sector
+
+*2024-02-01 22:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/96930/ilo-assures-fullest-support-towards-developing-sri-lankas-labour-sector) · `en`
+
+Prime Minister Dinesh Gunawardena requested the International Labour Organisation (ILO) to assist the government’s initiative to introduce a dispute prevention and resolution mechanism to public service.
+
+He made this request when ILO Country Director Joni Simpson called on the Prime Minister at the Temple Trees today (01 Feb.), together with United Nations Resident Coordinator Marc-André Franche.
+
+The delegation thanked the Prime Minister for the initiative taken in this regard and obtaining the approval of the Cabinet of Ministers for the proposal.
+
+They assured the Prime Minister their fullest support to implement the proposed mechanism, which would not only result in resolving disputes, but also the prevention of disputes in future through a system of tripartite dialogue.
+
+...
+
+[Data](articles/3cc599d7.json)
+
+---
+
+### General Daya Ratnayake has not left SJB: Party official
+
+*2024-02-01 22:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/General-Daya-Ratnayake-has-not-left-SJB-Party-official/108-276158) · `en`
+
+Colombo, Feb 1 (Daily Mirror) - The report which said the former Army Commander had left Samagi Jana Balawegaya (SJB) is false, an official statement from the party said.
+
+In a statement signed by Sujeewa Senasinghe who has been appointed as campaign manager, said the report that Ratnayake had joined Mawbima Janatha Party was false.
+
+"The photograph circulated in social media taken with businessman Dilith Jayaweera is an old photograph," he said.
+
+Meanwhile, it was reported that some MPs from the SJB has called for a working committee meeting to discuss the crisis that had hit the party following the appointment of General Ratnayake as a senior advisor by party leader Sajith Premadasa.
+
+◼️
+
+[Data](articles/ed7da4a1.json)
+
+---
 
 ### Without the unwise woman who was close to a woman near Kosgama
 
@@ -79,6 +115,22 @@ He says the Sri Lanka Insurance Corporation is a profit making organization and 
 [Data](articles/2afdfa95.json)
 
 [Extended Data](ext_articles/2afdfa95.ext.json)
+
+---
+
+### Sri Lanka Telecom announces second leadership transition in seven months
+
+*2024-02-01 21:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-Telecom-announces-second-leadership-transition-in-seven-months/155-276153) · `en`
+
+Sri Lanka Telecom has seen its leadership change for the second time in about seven months with the entity affirming the appointment of a new Chairman.
+
+The stressed state-owned telco, which has been making headlines this week for the changes in its Board, disclosed to the Colombo Stock Exchange (CSE) that upon the review and recommendation of the Nominations and Governance Committee, A.K.D.D.D. Arandara has been appointed as a Non-Independent Non-Executive Director and Chairman with effect from 1 February.
+
+Earlier this week, Reyaz Mihular stepped down from his position as Chairman after the government said it would reconstitute the SLT Board. The decision was due to the latter refusing to withdraw the case against the proposed merger between industry leader Dialog Axiata and Airtel.
+
+◼️
+
+[Data](articles/40ae4d22.json)
 
 ---
 
@@ -1580,6 +1632,24 @@ It is reported that the United States has been in a collaboration with Australia
 
 ### Travel ban imposed on Keheliya Rambukwella
 
+*2024-02-01 15:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Travel-ban-imposed-on-Keheliya-Rambukwella/108-276140) · `en`
+
+Colombo, Feb 01 (Daily Mirror) -  An overseas travel ban has been imposed on former Health Minister Keheliya Rambukwella by the Maligakanda Magistrate.
+
+The magistrate's decision comes in conjunction with an order directing Rambukwella to appear before the Criminal Investigation Department (CID) on Friday, February 2.
+
+Rambukwella's overseas travel restrictions come in light of his failure to comply with a prior summons from the CID, scheduled for Wednesday, January 31. On that day, Rambukwella was notably absent, attributing his absence to his involvement in a hearing at the Colombo High Court regarding an ongoing case and his attendance at a committee meeting convened at the Presidential Secretariat.
+
+In response to the CID's summons, Rambukwella has formally requested, in writing, for the CID to designate an alternative date for him to provide his statement.
+
+◼️
+
+[Data](articles/50d06d7e.json)
+
+---
+
+### Travel ban imposed on Keheliya Rambukwella
+
 *2024-02-01 15:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Travel-ban-imposed-on-Keheliya-Rambukwella/155-276140) · `en`
 
 Colombo, Feb 01 (Daily Mirror) -  An overseas travel ban has been imposed on former Health Minister Keheliya Rambukwella by the Maligakanda Magistrate.
@@ -1955,73 +2025,5 @@ Rambukwella was due to appear before the CID yesterday, however had failed to do
 [Data](articles/39b5cbff.json)
 
 [Extended Data](ext_articles/39b5cbff.ext.json)
-
----
-
-### ICC. In Sri Lanka
-
-*2024-02-01 14:25:04* · [`adalk`](https://www.ada.lk/sports/අයි-සී-සී--මහා-සභා-රැස්වීම-ලංකාවේදී/9-407853) · `si`
-
-The Annual General of the International Cricket (ICC) will be held from the 19th to 22nd to 22nd.
-
-With the lifting of the ban on the Sri Lanka Cricket, the session was confirmed to be held in Sri Lanka.
-
-Minister of Subject Affairs Harin Fernando says that the meeting will benefit from Sri Lanka's cricket and tourism business in Sri Lanka.
-
-◼️
-
-[Data](articles/daad5c06.json)
-
-[Extended Data](ext_articles/daad5c06.ext.json)
-
----
-
-### Court of court order to protest in front of CID
-
-*2024-02-01 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192834) · `si`
-
-The 10 civilian activists arrested while protest in front of the Criminal Investigations Department (CID) were bailed.
-
-It was after them after they were produced before the Fort Magistrate's Court.
-
-The police were arrested while he was protesting in front of the CID to force the CID to arrest former Health Minister Keheliya Rambukwella.
-
-◼️
-
-[Data](articles/fcc6bb50.json)
-
-[Extended Data](ext_articles/fcc6bb50.ext.json)
-
----
-
-### Health workers protest...
-
-*2024-02-01 14:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Health-workers-protest/110-276136) · `en`
-
-At least 72 trade unions within the health sector engaged in their planned island-wide strike today, demanding a solution to a long-standing dispute over the Disturbance, Availability and Transport (DAT) allowance. The trade union action commenced at 6:30 a.m. today. However, tri-forces personnel have been mobilized to support hospital operations amid the island-wide strike. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/ec25d29a.json)
-
-[Extended Data](ext_articles/ec25d29a.ext.json)
-
----
-
-### Dematagoda Ruwan's wife, son and sister Handawa
-
-*2024-02-01 14:18:07* · [`adalk`](https://www.ada.lk/breaking_news/දෙමටගොඩ-රුවන්ගේ-බිරිඳ--පුතා-හා-සහෝදරිය-අත්අංඩංගුවට/11-407852) · `si`
-
-Chamila Ruwan Prasanna, Dia-Dia-Dia-Asset Division, has been arrested by a son and sister, a son of Dematagoda, who is in prison
-
-The suspect and a suspect were arrested at the time of the forest residence
-
-Dematagoda Ruwan was charged with the allegation of over Rs.
-
-◼️
-
-[Data](articles/09890a84.json)
-
-[Extended Data](ext_articles/09890a84.ext.json)
 
 ---

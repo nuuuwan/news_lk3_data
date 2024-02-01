@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 11:02:31**
+As of **2024-02-01 11:17:18**
 
 ## Newspaper Stats
 
-*Scraped **4,017** Articles*
+*Scraped **4,020** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ islandlk | 220
 economynextcom | 221
 newsfirstlk | 250
 dailyftlk | 257
-adalk | 353
+adalk | 354
 virakesarilk | 444
 adaderanasinhalalk | 466
 adaderanalk | 504
-tamilmirrorlk | 511
+tamilmirrorlk | 513
 dailymirrorlk | 549
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,017 (100.0%) of 4,017 articles have been extended.
+4,017 (99.9%) of 4,020 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### வைத்தியசாலைகளுக்கு இராணுவம் வரவழைப்பு
+
+*2024-02-01 10:47:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலைகளுக்கு-இராணுவம்-வரவழைப்பு/175-332467) · `ta`
+
+தமது கோரிக்கைகளுக்கு தீர்வு கிடைக்காமைக்கு எதிர்ப்பு தெரிவித்து 72 சுகாதார தொழிற்சங்கங்கள் இன்று (01) காலை 6.30 மணி முதல் தொடர் வேலை நிறுத்தப் போராட்டத்தில் ஈடுபட்டுள்ளனர்.
+
+இதனால் நோயாளர்கள் மிகுந்த சிரமத்திற்கு உள்ளாகியுள்ளதோடு, அசௌகரியங்களை தவிர்க்க இராணுவத்தினரை வரவழைக்க தீர்மானிக்கப்பட்டுள்ளது.
+
+அதன்படி, தற்போது மேல், கிழக்கு, மத்திய மற்றும் வன்னி பாதுகாப்புப் படைத் தளபதிகளின் மேற்பார்வையில், கொழும்பு மற்றும் கண்டி தேசிய வைத்தியசாலைகள், களுபோவில, கராப்பிட்டி, மஹமோதர, பேராதனை, அநுராதபுரம் மற்றும் குருநாகல் போதனா வைத்தியசாலைகளுக்கு இராணுவத்தினர் வரவழக்கப்பட்டுள்ளனர்.
+
+மேலும், மாத்தறை, பலாங்கொடை, எஹலியகொட, நாவலப்பிட்டி, பதுளை, கம்பளை , மீரிகம, ஹோமாகம, கேகாலை உட்பட 26 வைத்தியசாலைகளின் அன்றாட நடவடிக்கைகளை இடையூறு இன்றி தொடர்வதற்காக படையினர் களமிறக்கப்பட்டுள்ளதாக இராணுவம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/6bd6eb75.json)
+
+---
+
+### பாடசாலை பஸ் கட்டணங்கள் அதிகரிப்பு
+
+*2024-02-01 10:39:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-பஸ்-கட்டணங்கள்-அதிகரிப்பு/175-332466) · `ta`
+
+எரிபொருள் விலை அதிகரிப்பு காரணமாக இன்று (01) முதல் பாடசாலை பஸ் கட்டணங்கள் அதிகரிக்கப்படவுள்ளதாக மாகாணங்களுக்கிடையிலான பாடசாலை சிறுவர் போக்குவரத்து சேவை சங்கம் தெரிவித்துள்ளது.
+
+இந்தக் கட்டணங்களை பத்து வீதம் மற்றும் பதினைந்து வீதத்தால் அதிகரிக்க தொழிற்சங்கம் தீர்மானித்துள்ளது.
+
+◼️
+
+[Data](articles/36f53bb7.json)
+
+---
 
 ### Drug trafficked by a group of drug trafficking along mobile phones
 
@@ -551,6 +583,24 @@ Deputy General Manager Transport NJDipola stated that the minimum fee for Rs. 50
 [Data](articles/2f324a5c.json)
 
 [Extended Data](ext_articles/2f324a5c.ext.json)
+
+---
+
+### රු. 10000ක අල්ලසක් ගත් ග්‍රාම නිලධාරීට වැඩ වරදි
+
+*2024-02-01 07:44:42* · [`adalk`](https://www.ada.lk/breaking_news/රු--10000ක-අල්ලසක්-ගත්-ග්‍රාම-නිලධාරීට-වැඩ-වරදි/11-407834) · `si`
+
+හම්බන්තොට ප්‍රාදේශීය ලේකම් කාර්යාලයට අන්යුක්තව සේවය කරනු ලැබූ ග්‍රාම නිලධාරී වරයෙකු   රුපියල් දසදහසක මුදලක් අල්ලස් වශයෙන් ඉල්ලා ලබා ගැනීමේ චෝදනා මත ඊයේ (31දා)  අත්අඩංගුවට  ගත්බව අල්ලස් හෝ දූෂණ චෝදනා  විමර්ශන කොමිසන්  සභාව පවසා සිටි
+
+හම්බන්තොට , කටුවැව ප්‍රදේශයේ පුද්ගලයෙකු  විසින් අල්ලස් හෝ දූෂණ චෝදනා  විමර්ශන කොමිසන්  සභාව වෙත සිදු  කරන ලද පැමිණිල්ලකට අනුව, එහි විමර්ශන නිලධාරීන් විසින් මෙම වැටලීම සිදුකර අදාළ ග්‍රාම නිලධාරියාගේ කාර්යාලය තුලදී  අත්අඩංගුවට ගෙන තිබේ.
+
+මෙසේ අල්ලස් ලබාගෙන ඇත්තේ  පැමිණිලිකරු දැනට පදංචිව සිටින නිවසේ  ජල හා විදුලි බිල්පත්ත පැමිණිලිකරුගේ  නමට වෙනස්කර  කර ගැනීමට අවශ්‍ය කටයුතු කර ගැනීමට  පදංචිය වෙනස්කරදීමට   අවශ්‍ය ලේඛන සකස් කරදීම සඳහා වේ.
+
+අත්අඩංගුවට ගන්නා ලද සැකකරු අද හම්බන්තොට මහේස්ත්‍රාත්  අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව ඇති බවත්  අදාල විමර්ශන කටයුතු සිදුකරගෙන යන බවත් අල්ලස් හෝ දූෂණ චෝදනා  විමර්ශන කොමිසන්  සභාව පවසා සිටි.
+
+◼️
+
+[Data](articles/34e42a7d.json)
 
 ---
 
@@ -2043,67 +2093,5 @@ A lorry was chased by a lorry and stopped the lorry, the Tarifker of the Truris 
 [Data](articles/47117e04.json)
 
 [Extended Data](ext_articles/47117e04.ext.json)
-
----
-
-### PSL team owners to pay for production rights?
-
-*2024-01-31 19:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/PSL-team-owners-to-pay-for-production-rights/108-276060) · `en`
-
-Jan. 31 (Daily Mirror) - Questions have been raised over the recent process followed by the Pakistan Cricket Board (PCB) in awarding the TV production rights. Not only the rights were awarded to the company after significant delay but the company which got the rights was not ranked lowest in the financial bid.
-
-The company holding the broadcast rights in the technical bid was disqualified.
-
-The ARY / IPG, which has broadcast rights with the Sri Lanka Cricket (SLC) for the Lanka Premier League (LPL) had given a bid lower by 1.5 million US dollars. Translate Group, which ironically has TPT as 178/180 in technical bid. SSV is a leading production company and has more experience in televising the matches but could not meet the success.
-
-One of the officials from the SSV clearly accused the PCB for favouring the Trans Group.
-
-The excess amount the PCB would be paying to the production company will now be reimbursed from the PSL franchise owners and each team owner will be asked to pay 300 k USD.
-
-...
-
-[Data](articles/6df1de05.json)
-
-[Extended Data](ext_articles/6df1de05.ext.json)
-
----
-
-### India guarantees from India
-
-*2024-01-31 19:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192809) · `si`
-
-Indian Foreign Minister Dr. S. S. S. Story Indian Foreign Minister Dr. S. Mr. Jeyzankar has said.
-
-Indian Foreign Minister Dr. S. S. The comment on the proximity of Sri Lanka was commented on the proximity with Sri Lanka.
-
-Meanwhile, Sri Lanka's Chamber of America organized by the US Chamber of America organized by the US Ambassador to Sri Lanka, July Chang, which was held today.
-
-◼️
-
-[Data](articles/f603c363.json)
-
-[Extended Data](ext_articles/f603c363.ext.json)
-
----
-
-### Seychelles bring to the capital city of Seychelles, who liberated from pirates
-
-*2024-01-31 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192808) · `si`
-
-The six civilians and vessel of the Sri Lankan fishermen have been safely reaching the sea of Seychelles today (31).
-
-The four fishermen who began with six fishermen from the Dickowita Fisheries Harbor.
-
-Seychelles, Seychelles, were also seized by three pirates to redeem the six fishermen.
-
-The Sri Lankan six cycles and three pirates have been taken to the Port of Seychelles today.
-
-The fishermen who escaped and saved the pirates were addressed by the owner of the boat.
-
-◼️
-
-[Data](articles/3e8aa109.json)
-
-[Extended Data](ext_articles/3e8aa109.ext.json)
 
 ---

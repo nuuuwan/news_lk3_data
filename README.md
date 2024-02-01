@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 14:50:17**
+As of **2024-02-01 15:02:34**
 
 ## Newspaper Stats
 
-*Scraped **4,076** Articles*
+*Scraped **4,079** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 258
 adalk | 358
 virakesarilk | 455
 adaderanasinhalalk | 473
-adaderanalk | 509
+adaderanalk | 512
 tamilmirrorlk | 519
 dailymirrorlk | 556
 
@@ -26,11 +26,49 @@ dailymirrorlk | 556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,076 (100.0%) of 4,076 articles have been extended.
+4,079 (100.0%) of 4,079 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-01 (Thursday)
+
+### Civil society activists arrested during ‘Satyagraha’ opposite CID granted bail
+
+*2024-02-01 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96916/civil-society-activists-arrested-during-satyagraha-opposite-cid-granted-bail) · `en`
+
+The ten civil society activists, who were taken into police custody on Wednesday (Jan. 31) while staging a ‘Satyagraha’ campaign in front of the Criminal Investigations Department (CID), have been granted bail.
+
+The Colombo Fort Magistrate’s Court has issued this order, after the arrested individuals were produced before the court this afternoon (Fe. 01).
+
+The relevant civil society activists were arrested while protesting in front of the CID last evening, demanding that Health Minister Keheliya Rambukwella be arrested over his alleged involvement in the controversial import of substandard medicines.
+
+Rambukwella was due to appear before the CID yesterday, however had failed to do so on account of having to appear before the Colombo High Court over another case. Thus, the Minister had requested the CID for a different date, Ada Derana learns.
+
+...
+
+[Data](articles/39b5cbff.json)
+
+[Extended Data](ext_articles/39b5cbff.ext.json)
+
+---
+
+### ‘March 12 Movement’ slams Online Safety Bill, accuses govt of overlooking SC recommendations
+
+*2024-02-01 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96915/march-12-movement-slams-online-safety-bill-accuses-govt-of-overlooking-sc-recommendations-) · `en`
+
+The ‘March 12 Movement’, a collective of election watchdogs and the civil society, has issued a statement strongly denouncing the passage of the Online Safety Bill, emphasising that it poses a grave threat to the fundamental rights enshrined within the Constitution of Sri Lanka.
+
+“The current government’s adamant pursuit of this legislation is a clear indication of its intention to silence dissent and suppress civic activism during this critical time of economic reform and upcoming elections”, the statement read.
+
+The March 12 Movement further accused the government of violating the “constitutionally guaranteed right to pre-enactment judicial review of legislation”, in addition to introducing the undemocratic law.
+
+...
+
+[Data](articles/528ee3f2.json)
+
+[Extended Data](ext_articles/528ee3f2.ext.json)
+
+---
 
 ### Bus fares are prepared to increase
 
@@ -55,6 +93,26 @@ Meanwhile, the All-Lanka-wheeler drivers' professional union says that the fuel 
 [Data](articles/04196a9c.json)
 
 [Extended Data](ext_articles/04196a9c.ext.json)
+
+---
+
+### SME paddy businesses to get pledge loans at concessional interest rate
+
+*2024-02-01 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/96913/sme-paddy-businesses-to-get-pledge-loans-at-concessional-interest-rate) · `en`
+
+The government has implemented a concessionary pledge loan scheme of Rs. 9 billion for small- and medium-scale paddy millers, storage owners and collectors with effect from February 01 to purchase paddy for Maha Season 2023/2024.
+
+The pledge loan scheme was initiated with the aim of maintaining a reasonable price for farmers, under a concessional interest rate.
+
+The target group of this loan scheme include SME paddy millers subject to the maximum daily paddy milling capacity of 25MT per day, paddy storage owners subject to having a sufficient storage capacity and paddy collectors subject to having a storage with a sufficient capacity or a valid lease agreement with a storage owner with a sufficient storage capacity or SME paddy miller.
+
+The government says such borrowers should have a valid business registration obtained from a relevant state institution.
+
+...
+
+[Data](articles/59886e4e.json)
+
+[Extended Data](ext_articles/59886e4e.ext.json)
 
 ---
 
@@ -2027,57 +2085,5 @@ The International Organization for Migration (IOM), in collaboration with the In
 [Data](articles/12b02ce4.json)
 
 [Extended Data](ext_articles/12b02ce4.ext.json)
-
----
-
-### SL-UK Chamber of Commerce holds business roundtable with Foreign Minister Ali Sabry
-
-*2024-02-01 04:38:09* · [`dailyftlk`](https://www.ft.lk/business/SL-UK-Chamber-of-Commerce-holds-business-roundtable-with-Foreign-Minister-Ali-Sabry/34-758013) · `en`
-
-The Sri Lanka High Commission in the United Kingdom successfully organised a business roundtable on 26 January between the Sri Lanka–UK Chamber of Commerce and Foreign Minister Ali Sabry. The event marked a significant milestone in fostering trade and investment relations between Sri Lanka and UK.
-
-Sri Lanka-UK Chamber of Commerce President Shehan Silva emphasised the significant growth the chamber has experienced since its establishment two years ago. The roundtable successfully convened experts from various industries, such as tea, tourism, banking, and finance, contributing to the development of the strong institution it has become today.
-
-...
-
-[Data](articles/6a4dbfb3.json)
-
-[Extended Data](ext_articles/6a4dbfb3.ext.json)
-
----
-
-### Dudley’s latest $ 8.9 m tourism venture receives BOI approval
-
-*2024-02-01 04:36:24* · [`dailyftlk`](https://www.ft.lk/business/Dudley-s-latest-8-9-m-tourism-venture-receives-BOI-approval/34-758012) · `en`
-
-The Board of Investment (BOI) has granted approval for the latest tourism initiative from the Araliya group, led by prominent businessman Dudley Sirisena this week.
-
-Sirisena took to Facebook to announce that his company is set to expand its leisure and tourism portfolio with the addition of the ‘Araliya Golden Beach Resort’ in Unawatuna, Galle.
-
-This week, an agreement between the Board of Investment (BOI) and the Araliya Group was formalised at the BOI. BOI Chairman Dinesh Weerakkody represented the BOI, and Dudley Sirisena signed the documents on behalf of the Araliya Group. Sirisena said the total investment is estimated at $ 8.9 million.
-
-...
-
-[Data](articles/afc68a46.json)
-
-[Extended Data](ext_articles/afc68a46.ext.json)
-
----
-
-### The first workplace is this morning
-
-*2024-02-01 04:35:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-காலை-முதல்-பணிப்புறக்கணிப்பு/175-332457) · `ta`
-
-72 health unions have decided to engage in a nationwide workshop from 6.30 am today.
-
-The trade union action will be carried out demanding that they be paid 35 thousand rupees and transport payments to the doctors.
-
-However, the union action will not be carried out in all children's, cancer and kidney hospitals, the Federation of Health Trade Unions said that it would not be carried out.. (A)
-
-◼️
-
-[Data](articles/60fd8dea.json)
-
-[Extended Data](ext_articles/60fd8dea.ext.json)
 
 ---

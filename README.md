@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 21:33:03**
+As of **2024-02-01 21:51:39**
 
 ## Newspaper Stats
 
-*Scraped **4,193** Articles*
+*Scraped **4,197** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,17 +16,17 @@ economynextcom | 238
 dailyftlk | 258
 newsfirstlk | 265
 adalk | 378
-virakesarilk | 463
+virakesarilk | 465
 adaderanasinhalalk | 498
 adaderanalk | 524
 tamilmirrorlk | 535
-dailymirrorlk | 569
+dailymirrorlk | 571
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,188 (99.9%) of 4,193 articles have been extended.
+4,193 (99.9%) of 4,197 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,26 @@ State Minister of Foreign Affairs Tharaka Balasuriya, speaking at a press briefi
 ...
 
 [Data](articles/2261928b.json)
+
+[Extended Data](ext_articles/2261928b.ext.json)
+
+---
+
+### State Minister defends President’s foreign trips
+
+*2024-02-01 21:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/State-Minister-defends-Presidents-foreign-trips/108-276151) · `en`
+
+Colombo, Feb 01 -  State Minister of Foreign Affairs Taraka Balasuriya, has defended President Ranil Wickremesinghe's recent foreign trips against criticism and stressed that Sri Lanka cannot afford to be isolated on the global stage.
+
+He dismissed claims that the trips were unnecessary, emphasizing their importance in strengthening Sri Lanka's foreign relations and securing new partnerships, the President’s Media Division said.
+
+He argued that foreign relations are crucial for the country's development, and that the President's visits are essential for building bridges and fostering cooperation with other nations. He dismissed criticisms of the trips as baseless, asserting that they play a vital role in Sri Lanka's pursuit of progress.
+
+State Minister of Foreign Affairs Tharaka Balasuriya, speaking at a press briefing yesterday (01) titled 'Collective Path to a Stable Country,' held at the President Media Centre (PMC) highlighted recent efforts to attract investment and rebuild the nation.
+
+...
+
+[Data](articles/2eab194f.json)
 
 ---
 
@@ -127,6 +147,60 @@ The Central Bank's ruling council has appointed six assistant governors to come 
 [Data](articles/b4b97d14.json)
 
 [Extended Data](ext_articles/b4b97d14.ext.json)
+
+---
+
+### China executes couple for double child murder
+
+*2024-02-01 20:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/China-executes-couple-for-double-child-murder/108-276150) · `en`
+
+Feb 01, (BBC) - China has executed a couple for throwing two toddlers out of a high-rise apartment window, in a case that provoked nationwide outrage.
+
+The man and his girlfriend were found guilty of killing the children from his first marriage by staging an accidental fall from a residential tower in the southwestern metropolis of Chongqing, so that they could start a new family.
+
+The father, Zhang Bo, began an affair with Ye Chengchen and initially hid the fact that he was married with children, but Ye found out and Zhang divorced his wife, according to China’s supreme court.
+
+Ye saw Zhang’s two children as an “obstacle” to them getting married and a “burden on their future life together,” the court heard. She repeatedly urged Zhang to kill the toddlers and threatened to break up with him if he didn’t.
+
+...
+
+[Data](articles/e3869017.json)
+
+---
+
+### ஜனாதிபதியின் வெளிநாட்டுப் பயணங்கள் தொடர்பில் முன்வைக்கப்படும் குற்றச்சாட்டுகள் ஆதாரமற்றவை - தாரக்க பாலசூரிய
+
+*2024-02-01 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175341) · `ta`
+
+ஜனாதிபதியின் வௌிநாட்டு சுற்றுப் பயணங்கள் தொடர்பில் சிலரால் முன்வைக்கப்படும் குற்றச்சாட்டுக்கள் ஆதாரமற்றவை என வெளிநாட்டலுவல்கள் இராஜாங்க அமைச்சர் தாரக்க பாலசூரிய தெரிவித்தார்.
+
+இலங்கை தனிமைப்படுத்தப்பட்ட தீவாக இருக்க முடியாதெனவும்,  நாட்டை அபிவிருத்தியை நோக்கி இட்டுச் செல்ல வேண்டுமாயின் வெளிநாட்டு தொடர்புகளை பலப்படுத்திக்கொள்வதும், புதிய வௌிநாட்டு உறவுளை ஏற்படுத்தகொள்வதும் அவசியம் எனத் தெரிவித்த அவர், அதற்காக வெளிநாட்டுச் சுற்றுப்பயணங்கள் முக்கியமானதாகும் என்றும் சுட்டிக்காட்டினார்.
+
+ஜனாதிபதி ஊடக மையத்தில் வியாழக்கிழமை (01) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+“ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் வௌிநாட்டு அமைச்சர் ஆகியோர் சுவிட்சர்லாந்து டாவோஸ் நகரில் நடைபெற்ற உலக பொருளாதார மாநாட்டில் கலந்துகொள்வதற்காக சென்றிருந்தனர். அங்கு வர்த்தகச் சமூகத்தையும் சந்தித்தனர். இலங்கையை மீளக் கட்டியெழுப்புவது தொடர்பிலான தீர்க்கமான பேச்சுவார்த்தைகளை முன்னெடுத்திருந்தனர்.  இலங்கைக்கு முதலீட்டாளர்களை அழைத்து வருவது தொடர்பிலான பேச்சுக்களையும் முன்னெடுத்திருந்தனர்.
+
+...
+
+[Data](articles/7f814078.json)
+
+---
+
+### வெளிநாட்டுத் தூதுவர்கள் ஜனாதிபதியிடம் நற்சாற்றுபத்திரங்களை கையளித்தனர்!
+
+*2024-02-01 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175342) · `ta`
+
+இலங்கைக்குப் புதிதாக நியமிக்கப்பட்டிருக்கும் புதிய உயர்ஸதானிகர்கள் மற்றும் தூதுவர்கள் மூவர் வியாழக்கிழமை (01) ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் தமது நற்சான்றுப் பத்திரங்களைக் கையளித்தனர்.
+
+எசுவாத்தினி இராஜ்ஜியத்தின் உயர்ஸ்தானிகர்,  கிரிகிஸ், ருமேனியா, துர்க்மெனிஸ்தான் நாடுகளின் புதிய தூதுவர்களே இவ்வாறு புதிதாக நியமனம் பெற்றுள்ளனர்.
+
+வௌிநாட்டலுவல்கள் இராஜாங்க அமைச்சர் தாரக்க பாலசூரிய மற்றும் ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க உள்ளிட்டவர்களும் இதன்போது கலந்துகொண்டனர்.
+
+அதனையடுத்து வியாழக்கிழமை (01) நியமனம் பெற்ற உயர்ஸ்தானிகரும் தூதுவர்களும் தேசிய பாதுகாப்பு தொடர்பிலான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்கவுடன் கலந்துரையாடலில் ஈடுபட்டனர்.
+
+◼️
+
+[Data](articles/91225008.json)
 
 ---
 
@@ -280,15 +354,17 @@ Meanwhile, new High Commissioner and Ambassadors were also a short discussion wi
 
 ---
 
-### බස් ගාස්තු වැඩිවීමක් නෑ
+### There is no increase in bus fare
 
 *2024-02-01 19:08:42* · [`adalk`](https://www.ada.lk/breaking_news/බස්-ගාස්තු-වැඩිවීමක්-නෑ/11-407860) · `si`
 
-ඩීසල් මිල ඉහළ ගියද බස් ගාස්තු වැඩිවීමක් නොවන බව ජාතික ගමනාගමන කොමිෂන් සභාව සඳහන් කරයි. ඉන්ධන මිල ඉහළ ගියද බස් ගාස්තු වැඩිකිරීමට ප්‍රමාණවත් අයුරින් කිලෝමීටරයක ධාවන පිරිවැය ඉහළ නොයන බැවින් මෙසේ බස් ගාස්තු ඉහළ නොයන බව කොමිෂන් සභාව වැඩිදුරටත් පවසයි.
+Although diesel prices are increased, the National Transport Commission states that bus fare is not increased. The Commission further stated that the bus fares will not increase the cost of racing costs to increase bus fares but will not increase the bus fare.
 
 ◼️
 
 [Data](articles/5bec205e.json)
+
+[Extended Data](ext_articles/5bec205e.ext.json)
 
 ---
 
@@ -390,43 +466,49 @@ Minister of State for Foreign Affairs Tharaka Balasuriya and President’s Secre
 
 ---
 
-### ජනපතිගේ විදෙස් සංචාර ගැන එල්ල වන විවේචන පදනම් විරහිතයි
+### Criticism on Foreign Travels' Foreign Travels
 
 *2024-02-01 18:46:38* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-විදෙස්-සංචාර-ගැන-එල්ල-වන-විවේචන-පදනම්-විරහිතයි/11-407858) · `si`
 
-ජනාධිපතිවරයාගේ විදෙස් සංචාර සම්බන්ධයෙන් ඇතැමුන් විවේචනාත්මක ප්‍රකාශ සිදුකළත් ඒ සියලූ ප්‍රකාශ පදනම් විරහිත බව විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා පැවසීය.
+Minister of External Affairs Tharaka Balasuriya said that although some have made critical statements on the president's foreign visit, all claims are baseless.
 
-ශ්‍රී ලංකාවට හුදෙකලා දූපතක් ලෙස පැවතිය නොහැකි බවත්, රට සංවර්ධනය කරා ගෙන යාමට නම් තිබෙන විදෙස් සබඳතා ශක්තිමත් කර ගනිමින් නව විදෙස් සබඳතා ඇති කරගැනීමට නම් විදේශ නිල සංචාර අතිශය වැදගත් වන බවත් රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+The official visits are vital if Sri Lanka cannot exist as isolated isolated island and strengthening foreign relations to develop foreign relations.
 
-විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (01) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Minister of External Affairs Tharaka Balasuriya made this statement participating at a press conference held at the Presidential Media Center today (01).
 
-එහිදී වැඩිදුරටත් අදහස් දැක් වූ විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා මෙසේ ද පැවසීය,
+State Minister of External Affairs Tharaka Balasuriya said:
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ විදේශ කටයුතු අමාත්‍යවරයා පසුගියදා ස්විස්ටර්ලන්තයේ ඩාවෝස් නුවර පැවති ලෝක ආර්ථික සංසදයේ සමුළුවට සහභාගි වුණා. එහිදී ව්‍යාපාරික ප්‍රජාව ද හමු වුණා. ලංකාව නැවත ගොඩනඟන ආකාරය සම්බන්ධයෙන් එහිදී ගැඹුරින් සාකච්ඡා කලා. ලංකාවට ආයෝජකයින් කැඳවන්නේ කෙසේ ද යන්න සම්බන්ධයෙන් ද සාකච්ඡා කලා.
+President Ranil Wickremesinghe and the Minister of External Affairs attended the World Economic Forum in Dawos, Switzerland. There the business community was also found. In deep discussions on how Sri Lanka was rebuilding. We also discussed how investors called for investors.
+
+Also, the President discussed how to deal with the world's power camps at the Non-Aligned Summit in Kampala, Uganda.. The year 2050 was also discussed in the world economy in Sri Lanka.
 
 ...
 
 [Data](articles/dd18ad70.json)
 
+[Extended Data](ext_articles/dd18ad70.ext.json)
+
 ---
 
-### නව තෙත් බිම් තුනක් ප්‍රකාශ කරයි
+### Declares three new wetlands
 
 *2024-02-01 18:42:14* · [`adalk`](https://www.ada.lk/breaking_news/නව-තෙත්-බිම්-තුනක්-ප්‍රකාශ-කරයි/11-407857) · `si`
 
-ශ්‍රී ලංකාවේ නව තෙත් බිම් තුනක් රැම්සාර් සම්මුතිය යටතේ  තෙත් බිම් ලෙස ප්‍රකාශයට පත් කිරීමට වනජීවි දෙපාර්තමේන්තුව මඟින්  සැලසුම් කර ඇතිබව  වාරිමාර්ග, වනජීවි සහ වන සංරක්ෂණ අමාත්‍ය නීතිඥ පවිත්‍රා වන්නිආරච්චි මහත්මිය ප්‍රකාශ කරයි.
+Minister of Irrigation, Wildlife and Forest Minister Pavithra Wanniarachchi says that the Wildlife Department has planned to declare three new wetlands in Sri Lanka under the Ramisar Convention.
 
-පෙබරවාරි 02 දිනට යෙදෙන ලෝක තෙත් බිම් දිනය නිමිත්තෙන්  මාධ්‍ය වෙත අඅදහස් දක්වමින් අමාත්‍ය වරිය මේ බව සඳහන් කළා ය.
+This was stated by the Minister in response to the media to mark the World Wet Landing Day as World Wet Landing on February 02.
 
-ඒ අනුව මන්නාරම දිස්ත්‍රික්කයට අයත් වෙඩිතලතිව් ස්වාභාවික රක්ෂිතය, ආදම්ගේ පාලම ජාතික උද්‍යානය, සහ  යාපනය දිස්ත්‍රික්කයට අයත් චුන්ඩිකුලම් ජාතික උද්‍යානය  නව තෙත් බිම් කලාප ලෙස  2024 වසර ඇතුළත නම් කිරීමට වනජීවි දෙපාර්තමේන්තුව සැලසුම් කර තිබේ.
+Accordingly, the Wildlife Department has planned to be named as the Wedithalthivu Natural Reserve of the Mannar District, Adam's Bridge National Park, and the Chundikulam National Park in the Jaffna district.
 
-මෙහිදී වාන්කලෙයි අභයභූමිය,  වෙඩිතලතිව් ස්වාභාවික රක්ෂිතය දක්වා  පුළුල්  කිරීමට  ද  පියවර ගෙන ඇතිබව  අමාත්‍යවරිය  පැවැසුවාය.
+The Minister said that steps have been taken to expand the Venkui Sanctuary, Vedithabhavu to the Nearest Reserve.
 
-මේ අතර මිරිස්ස සමුද්‍රීය අභයභූමිය ද මේ වසර ඇතුළත ප්‍රකාශයට පත්කිරීම සඳහා  අවශ්‍ය  කටයුතු  සිදුවෙමින් පවතින බව ද  පවිත්‍රා වන්නිආරච්චි මහත්මිය  කියා සිටියාය.
+Meanwhile, Pavithra Wanniarachchi said that the Miissa Marine Sanctuary is also underway to publish within this year.
 
 ◼️
 
 [Data](articles/ed7d2f94.json)
+
+[Extended Data](ext_articles/ed7d2f94.ext.json)
 
 ---
 
@@ -452,19 +534,23 @@ The Constitutional Council is obliged to perform his work in accordance with the
 
 ---
 
-### මාර්තු සිට ප්‍රාථමික ශ්‍රේණිවල සියලු‍ දරුවන්ට දිවා ආහාරය
+### Lunch lunches in March to primary grades
 
 *2024-02-01 18:30:17* · [`adalk`](https://www.ada.lk/breaking_news/මාර්තු-සිට-ප්‍රාථමික-ශ්‍රේණිවල-සියලු‍-දරුවන්ට-දිවා-ආහාරය/11-407855) · `si`
 
-මෙරට පාසල්වල 1-5 ශ්‍රේණිවල දරුවන් ලක්ෂ 16ක් පමණ සිටින බවත් ඔවුන් වෙත පාසල් දිවා ආහාර වේල ලබාදීම වෙනුවෙන් රුපියල් බිලියන 16ක් වෙන්ව ඇති බවත් ඒ අනුව දිනකට ඒ වෙනුවෙන් වෙන්ව ඇති මුදල රුපියල් 110ක් දක්වා වැඩිකරමින්  එළඹෙන මාර්තු මාසයේ සිට එම ප්‍රාථමික ශ්‍රේණිවල සියලු‍ දරුවන්ට දිවා ආහාර ලබාදීමට පියවර ගන්නා බවත් අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+Sri Lanka's schools have about 1 lakhs of 1-5 children and to provide a sum of Rs.Minister of Education Susil Premajayantha said that action will be taken.
 
-එමෙන්ම 2024 වසර වෙනුවෙන් අවශ්‍ය පාසල් පෙළ පොත් සියල්ල මේ වනවිට මුද්‍රණය කර අවසන් බවත් පාසල් ආරම්භයෙන් පසු තෙවැනි වාරය අවසන් වූ වහාම එම පෙළ පොත් ද නිල ඇදුම් රෙදි ද පාසල් දරුවන් වෙත ලබාදීමට කටයුතු යොදා ඇති බව ද අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
+The Minister also said that all the school text books needed for 2024 have been printed and will be provided to the third book and uniforms to school children as soon as school.
 
-ජාතික පාසල්වල විදේශ භාෂා ඉගැන්වීම පිණිස බඳවාගත් උපාධිධාරීන් 162 දෙනෙකු වෙත ශ්‍රී ලංකා ගුරු සේවයේ 3-1 (අ) ශ්‍රේණියට පත්වීම් ප්‍රදානය වෙනුවෙන් අධ්‍යාපන අමාත්‍යාංශයේ අද (01) පැවති උත්සව අවස්ථාවට එක්වෙමින් අමාත්‍යවරයා මේ අදහස් පළ කළේය.
+The Minister made these comments participating in the grade of 162 graduates who were recruited to grade appointments to grade appointments to grade appointment in national schools today (a).
 
-...
+French is aimed at expanding the number of foreign languages that teach foreign languages in the school system and the country's current economic priorities to learn foreign languages.These appointments were conducted in a Cabinet decision received by a Cabinet decision received by the Cabinet Rulers received to recruit teachers to teachers in public schools, Japanese, Chinese, Koreans, Hindi, German.
+
+◼️
 
 [Data](articles/7c4bf23c.json)
+
+[Extended Data](ext_articles/7c4bf23c.ext.json)
 
 ---
 
@@ -1903,79 +1989,5 @@ The US dollar purchasing price was 310.5415 and the sales price were 320.4082 ba
 [Data](articles/3f46accf.json)
 
 [Extended Data](ext_articles/3f46accf.ext.json)
-
----
-
-### Square poles on Independence Day
-
-*2024-02-01 14:08:28* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-දිනය-දා-සුරාසැල්-වසයි/11-407846) · `si`
-
-The 76th Independence Day was decided to be closed on 4th February due to 76th Independence Day.
-
-The Excise Department states that all worth of charges should be closed from the time of the time of the 3th of February 5th and February 5th.
-
-◼️
-
-[Data](articles/76bcb5c7.json)
-
-[Extended Data](ext_articles/76bcb5c7.ext.json)
-
----
-
-### Stomach hit - fuel price hike
-
-*2024-02-01 14:04:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/வயிற்றில்-அடிக்கின்றனர்-எரிபொருள்-விலை-உயர்வுக்கு-கடும்-அதிருப்தி/52-332479) · `ta`
-
-People are angry that the government is increasing the prices of fuels when sleeping in the morning and waking up in the morning.
-
-People have accused the government of beating all the prices of all commodities.
-
-The public has expressed his displeasure over fuel prices.
-
-◼️
-
-[Data](articles/94159e84.json)
-
-[Extended Data](ext_articles/94159e84.ext.json)
-
----
-
-### Returning home with a waterproofing water
-
-*2024-02-01 13:58:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/நீர்த்தாரை-பிரயோகத்துடன்-வீடு-திரும்பியதுதான்-மிச்சம்/52-332478) · `ta`
-
-Sarath Fonseka said that if I had organized the struggle, I would have done better.
-
-He made this comment while commenting on the struggle that the United People's Power had organized in Colombo yesterday.
-
-In the end, he noted that the protesters returned home with tears and water.
-
-◼️
-
-[Data](articles/ff88cd6a.json)
-
-[Extended Data](ext_articles/ff88cd6a.ext.json)
-
----
-
-### Sri Lanka resumes talks with India’s Petronet LNG  to supply fuel
-
-*2024-02-01 13:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-resumes-talks-with-indias-petronet-lng-to-supply-fuel-149584/) · `en`
-
-ECONOMYNEXT – Sri Lanka has discussed with India’s Petronet LNG to supply a liquefied natural gas to dual fuel combined cycle power plants, Energy Minister Kanchana Wijesekera said.
-
-Sri Lanka’s Lanka Transformers Ltd (LTL) is to commission the first stage of a 300MW dual fuel power plant this year (Sobhadanavi) and it also operates another older plant (Yugadanavi) which is running on fuel oil.
-
-“In the efforts to expedite the process to generate power from LNG the Government of India has proposed an interim solution from Petronet LNG,” Minister of Power and Energy Kanchana Wijesekera said on X.com, a social media platform.
-
-“LNG infrastructure development and gas supply to the Yughadhanavi and Sobhadabavi Power plants was discussed this morning at the Ministry of Power and Energy,” Wijesekera said.
-
-Indian High Commission, Ceylon Electricity Board, Lanka Transformers Ltd and Petronet LNG officials were involved in the discussions Thursday.
-
-...
-
-[Data](articles/a4c149c4.json)
-
-[Extended Data](ext_articles/a4c149c4.ext.json)
 
 ---

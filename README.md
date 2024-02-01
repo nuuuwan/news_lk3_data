@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 07:16:40**
+As of **2024-02-01 07:40:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,976 (99.9%) of 3,979 articles have been extended.
+3,979 (100.0%) of 3,979 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1715,6 +1715,8 @@ God works on earth through angelic as well as human beings through their acts of
 ...
 
 [Data](articles/27b49f5e.json)
+
+[Extended Data](ext_articles/27b49f5e.ext.json)
 
 ---
 

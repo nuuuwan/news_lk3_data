@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 13:17:16**
+As of **2024-02-01 13:33:06**
 
 ## Newspaper Stats
 
-*Scraped **4,059** Articles*
+*Scraped **4,065** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ islandlk | 220
 economynextcom | 228
 newsfirstlk | 258
 dailyftlk | 258
-adalk | 355
-virakesarilk | 453
-adaderanasinhalalk | 468
+adalk | 358
+virakesarilk | 454
+adaderanasinhalalk | 470
 adaderanalk | 508
 tamilmirrorlk | 513
 dailymirrorlk | 556
@@ -26,7 +26,7 @@ dailymirrorlk | 556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,058 (100.0%) of 4,059 articles have been extended.
+4,059 (99.9%) of 4,065 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -34,7 +34,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### Mysterious death of a school boy;14 days of explanation for the supervisor woman again
 
-*2024-02-01 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/175304) · `ta`
+*2024-02-01 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175304) · `ta`
 
 The Kalmunai Magistrate has ordered the postponement of the case to be remanded for 14 days, and the case was postponed until February 13.
 
@@ -47,6 +47,34 @@ The applications of the police and the defendant's lawyer have been investigated
 [Data](articles/8d8266aa.json)
 
 [Extended Data](ext_articles/8d8266aa.ext.json)
+
+---
+
+### செங்கடல் பகுதியில் அமெரிக்க கப்பலை தாக்கியுள்ளோம் - உரிமை கோரினர் ஹெளத்தி கிளர்ச்சியாளர்கள்
+
+*2024-02-01 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175305) · `ta`
+
+யேமனின் ஏடன் துறைமுகத்திலிருந்து தென்பகுதியில் காணப்பட்ட கப்பலொன்று வெடிப்பு சம்பவம் குறித்து தகவல் வெளியிட்டுள்ளது என கடல்சார் பாதுகாப்பு நிறுவனமான அம்பிரே தெரிவித்துள்ளது.
+
+பல கடற்படை ஏவுகணைகளை பயன்படுத்தி அமெரிக்காவிற்கு சொந்தமான கேஓஐஎன்ற கப்பலை இலக்குவைத்துள்ளதாக ஹெளத்தி கிளர்ச்சியாளர்களின் பேச்சாளர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/264c3e73.json)
+
+---
+
+### උසස් පෙළ උත්තරපත්‍ර සමීක්ෂණය ගැන දැනුම්දීමක්
+
+*2024-02-01 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192830) · `si`
+
+අපොස උසස් පෙළ උත්තරපත්‍ර සමීක්ෂණ කටයුතු මේ වනවිට ආරම්භ කර ඇතැයි විභාග දෙපාර්තමේන්තුව දැනුම්දෙයි.
+
+මෙවර ද පසුගිය වසරේ ගෙවන ලද ගාස්තු ප්‍රමාණයම ඒ ආකාරයට උත්තරපත්‍ර පරීක්ෂා කරන ප්‍රධාන පරීක්ෂකවරුන් ඇතුළු කාර්ය මණ්ඩලයට ගෙවීමට කටයුතු කරන බව ද එම දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/becb936b.json)
 
 ---
 
@@ -63,6 +91,22 @@ Accordingly, all liquor-selling establishments will close at 10:00 p.m. on 03 Ja
 [Data](articles/a3f7952c.json)
 
 [Extended Data](ext_articles/a3f7952c.ext.json)
+
+---
+
+### සෞඛ්‍ය ලොක්කා පැය 10ක් CIDයේ
+
+*2024-02-01 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192829) · `si`
+
+ප්‍රශ්නගත ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීම සම්බන්ධයෙන් වූ නඩුවට අදාළව සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම් වෛද්‍ය සමන් රත්නායක මහතාගෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඊයේ (31) පැය 10ක කාලයක් ප්‍රකාශ සටහන් කරගෙන තිබේ.
+
+හදිසි මිලදීගැනීම්වලට මුවාවී ව්‍යාජ ලේඛන සකස්කරමින් ප්‍රමිතියෙන් තොර හියුමන් ඉමියුනොග්ලොබියුලින් ප්‍රතිදේහ එන්නත් මාත්‍රා සැපයීම, මිලදීගැනීම සහ මෙරට රෝහල් පද්ධතිය තුළ බෙදාහැරීම සම්බන්ධයෙන් වූ නඩුවට අදාළව ප්‍රකාශයක් ලබාදීම සඳහා සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම් වෛද්‍ය සමන් රත්නායක මහතා ඊයේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කැඳවා තිබුණි.
+
+මේ අතර මෙම නඩුවට අදාළව ප්‍රකාශයක් ලබාදීමට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ ඊයේ  පෙනී සිටින ලෙස හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාට දැනුම් දී තිබුණද ඔහු ඊයේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී නොසිටියේය.
+
+...
+
+[Data](articles/a71a18c1.json)
 
 ---
 
@@ -162,6 +206,22 @@ The MP said some 8,000 people participated in the protest but ultimately it was 
 
 ---
 
+### රෝහල්වලට හමුදාව කැඳවයි
+
+*2024-02-01 11:26:40* · [`adalk`](https://www.ada.lk/breaking_news/රෝහල්වලට-හමුදාව-කැඳවයි/11-407839) · `si`
+
+සෞඛ්‍ය වෘත්තීය සමිති ආරම්භ කර ඇති වැඩ වර්ජනය  හේතුවෙන් බලපෑමට ලක්ව ඇති රෝහල් කටයුතු සාමාන්‍ය මට්ටමට ගෙන ඒ්ම වෙනුවෙන් ත්‍රිවිධ හමුදා සාමාජිකයන් ‌‌යොදවා තිබේ.
+
+සෞඛ්‍ය වෘත්තීය සමිති අද පෙරවරු 6.30 සිට අඛණ්ඩ වැඩ වර්ජනයක් ආරම්භ කර තිබේ.
+
+කොළඹ සහ මහනුවර ජාතික රෝහල් කළුබෝවිල, කරාපිටිය, මහමෝදර, පේරාදෙණිය, අනුරාධපුර සහ කුරුණෑගල ශික්ෂණ රෝහල් ද මාතර, බලංගොඩ, ඇහැළියගොඩ, නාවලපිටිය, බදුල්ල, ගම්පොළ, මීරිගම, හෝමාගම සහ කෑගල්ල ඇතුළුව රෝහල් 26ක දෛනික කටයුතු බාධාවකින් තොරව අඛණ්ඩව පවත්වාගෙන යාම සඳහා යුද්ධ හමුදාවේ 700කට ආසන්න භට පිරිසක් යොදවා තිබේ.
+
+◼️
+
+[Data](articles/1fe2e63d.json)
+
+---
+
 ### Youth arrested with large numbers of drugs in Jaffna
 
 *2024-02-01 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175296) · `ta`
@@ -218,6 +278,22 @@ The law is released from the clutches of the law but has not yet been released f
 
 ---
 
+### ජනවාරියේ සංචාරක පැමිණීම දෙලක්ෂය ඉක්මවයි
+
+*2024-02-01 11:02:59* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරියේ-සංචාරක-පැමිණීම-දෙලක්ෂය-ඉක්මවයි/11-407837) · `si`
+
+ජනවාරි මාසය තුළ දිවයිනට පැමිණි සංචාරකයින් සංඛ්‍යාව ලක්ෂ දෙක ඉක්මවා ගොස් තිබේ. ජනවාරි පළමු දින සිට 30 වන දින දක්වා කාලය තුළ දිවයිනට සංචාරකයින් 201,687 ක් පැමිණ තිබේ.
+
+පසුගිය වසරේ දෙසැම්බර් මාසය තුළ ද දිවයිනට සංචාරකයින් 210,000කට අධික සංඛ්‍යාවක් පැමිණියේය. ඒ් අනුව පිට පිටම දෙවැනි මාසයටත් ශ්‍රී ලංකාවට පැමිණි සංචාරකයන් සංඛ්‍යාව ලක්ෂ දෙකේ සීමාව ඉක්මවා තිබේ.
+
+ජනවාරි මාසය තුළ ශ්‍රී ලංකාවට වැඩිම සංචාරකයන් ප්‍රමාණයක් පැමිණ ඇත්තේ  ඉන්දියාවෙනි. ඉන් අනතුරුව රුසියාවෙනි.
+
+◼️
+
+[Data](articles/7dffb35b.json)
+
+---
+
 ### Sri Lanka records over 200,000 tourists arrivals in January
 
 *2024-02-01 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96909/sri-lanka-records-over-200000-tourists-arrivals-in-january) · `en`
@@ -263,6 +339,20 @@ He told the Meta CEO Mark Zankarburg, "You have a product ... and it killed peop
 [Data](articles/d6bb3a31.json)
 
 [Extended Data](ext_articles/d6bb3a31.ext.json)
+
+---
+
+### පාස්පෝට් ගාස්තු ඩබල් වෙයි
+
+*2024-02-01 10:57:25* · [`adalk`](https://www.ada.lk/breaking_news/පාස්පෝට්-ගාස්තු-ඩබල්-වෙයි/11-407836) · `si`
+
+විදේශ ගමන් බලපත්‍ර නිකුත් කිරීමේ ගාස්තුව දෙගුණයකින් ඉහළ දැමීමට ආගමන හා විගමන දෙපාර්තමේන්තුව කටයුතු කර තිබේ.
+
+ඒ අනුව අද (01දා) සිට ක්‍රියාත්මක වන පරිදි මාර්ගගත හා මාර්ගගත නොවන අංශ දෙක සඳහාම අදාළවන පරිදි රුපියල් 5,000ක්ව පැවති සාමාන්‍ය සේවා විදෙස් ගමන් බලපත්‍ර ගාස්තුව රුපියල් 10,000 දක්වා ඉහළ දැමිමට කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/23115bb6.json)
 
 ---
 
@@ -1480,7 +1570,7 @@ Minimizing temporary winds and lightning accidents with thunderstorms
 
 ---
 
-### Sri Lanka hikes standard petrol, diesel by Rs5, kerosene Rs26
+### Sri Lanka’s CPC hikes standard petrol, diesel, Sinopec Rs3 lower
 
 *2024-02-01 05:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-hikes-standard-petrol-diesel-by-rs5-kerosene-rs26-149422/) · `en`
 
@@ -1489,6 +1579,8 @@ ECONOMYNEXT – Sri Lanka’s state-run Ceylon Petroleum Corporation said it has
 The price of a litre of standard petrol was raised by 5 rupees to 371 rupees a litre and diesel by 5 rupees to 363 rupees.
 
 Petrol Octane 95 Euro 4 was cut by 8.0 rupees to 456 rupees and Super diesel Euro 4 was cut by 7.0 rupees to 468 rupees.
+
+Sinopec Lanka said it was selling standard petrol 3 rupees below at 368 rupees a litre and Auto Diesel at 360 rupees.
 
 ◼️
 
@@ -1523,6 +1615,8 @@ Retreats are a time to reflect on life and the mysterious workings of God in one
 ...
 
 [Data](articles/1ed3b710.json)
+
+[Extended Data](ext_articles/1ed3b710.ext.json)
 
 ---
 
@@ -1983,143 +2077,5 @@ Myanmar govt hands over Chinese scam centre mafia bosses to Chinese
 [Data](articles/b3bafbc2.json)
 
 [Extended Data](ext_articles/b3bafbc2.ext.json)
-
----
-
-### Syhoppuk fuel prices will change
-
-*2024-01-31 23:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192815) · `si`
-
-Sinaperic has been amended by the company to operate from midnight today.
-
-Accordingly, the company has increased the price of a liter of Octane 92 fuel by Rs. 368.
-
-The price of a liter of the auto diesel has also been increased by Rs. 360.
-
-Meanwhile, Siainope has dropped the price of an Octane 95 fuel
-
-The price of a liter of Super diesel has been reduced by Rs. 768.
-
-◼️
-
-[Data](articles/1960ef32.json)
-
-[Extended Data](ext_articles/1960ef32.ext.json)
-
----
-
-### Police bosses missed over threatening police constable
-
-*2024-01-31 22:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192814) · `si`
-
-The Supreme Court has ordered to pay a compensation of Rs.
-
-This order was made by UNP Amarasiri, OIC of the Evaka Kosgoda Amarasekera, OIC of the Criminal Division, Mangala De Zoysa, OIC of the Criminal Division, and the police sergeantA group of officers who are on charges of Silva.
-
-The Supreme Court has ordered that their personal money to pay for a six-month period from yesterday.
-
-The government has ordered the police constable to pay Rs. 25,000.
-
-The then police constable PDD attached to the Kosgoda police station at the time. The Supreme Court has decided that the suspects have been decided by the suspects by the suspects by the suspects and banning their wife and arrested his wife and violated his wife.
-
-Supreme Court Judge Priyantha Fernando has announced the agreement with the agreement of Judges Janak de Silva and Surren Surasena.
-
-◼️
-
-[Data](articles/7f47612a.json)
-
-[Extended Data](ext_articles/7f47612a.ext.json)
-
----
-
-### Fuel prices increase
-
-*2024-01-31 22:51:48* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-අඩු-වැඩි-වෙයි/11-407832) · `si`
-
-The Ceylon Petroleum Corporation has decided to revise the fuel prices to be operated from midnight today.
-
-Accordingly, the 92 petrol has decided to increase the 92 rupees and the new price is Rs. 371.
-
-The price of Lanka white diesel has been increased by Rs. 363.
-
-Lanka kerosene price has been increased by Rs 262.
-
-Meanwhile, the price of a liter of 40 Octane 85 octane 85 Octane 85 Octane Uro 4 has been reduced by Rs. 456.
-
-The price of a liter of Lanka Super Diesel 4 of Sri Lanka has also reduced the price of 4 rupees.
-
-Lanka IOC has also revised its fuel prices according to these prices.
-
-◼️
-
-[Data](articles/65fae476.json)
-
-[Extended Data](ext_articles/65fae476.ext.json)
-
----
-
-### World Court dismisses much of Ukraine’s case against Russia
-
-*2024-01-31 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96900/world-court-dismisses-much-of-ukraines-case-against-russia) · `en`
-
-Judges at the top U.N. court on Wednesday found that Russia violated elements of a U.N. anti-terrorism treaty, but declined to rule on allegations brought by Kyiv that Moscow was responsible for the shooting down of Malaysia Airlines flight MH17 over eastern Ukraine in 2014.
-
-In the same ruling, judges at the International Court of Justice (ICJ) found that Russia had breached an anti-discrimination treaty by failing to support Ukrainian language education in Crimea after its 2014 annexation of the peninsula.
-
-The decisions were a legal setback for Kyiv. The court rejected Ukraine’s requests to order reparations for both violations and only ordered Russia to comply with the treaties.
-
-Ukraine had filed the lawsuit at the ICJ, also known as the World Court, in 2017, accusing Russia of violating an anti-terrorism treaty by funding pro-Russian separatists in Ukraine.
-
-...
-
-[Data](articles/a028b2c4.json)
-
-[Extended Data](ext_articles/a028b2c4.ext.json)
-
----
-
-### Surge in vehicle ownership transfers to avert CCTV-based fine complications
-
-*2024-01-31 22:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Surge-in-vehicle-ownership-transfers-to-avert-CCTV-based-fine-complications/108-276064) · `en`
-
-Colombo, Jan 31 (Daily Mirror) - The Commissioner General of the Department of Motor Traffic (DMT) said today that a large number of people are currently visiting the Department to transfer vehicle ownerships to their names.
-
-DMT Commissioner General Nishantha Anuruddha Weerasingha told the Daily Mirror that this was the first time that such a large number of people are queuing at the DMT to get their vehicle ownerships transferred to avoid complications when fine notices are issued based on offender identification through the CCTV system.
-
-He said if the ownership is not transferred to the active user, the charge sheets will be sent to the address of the previous vehicle owner.
-
-Therefore, the Commissioner urged vehicle users to transfer ownerships to the active user to avoid inconveniencing the previous vehicle owner.
-
-◼️
-
-[Data](articles/c299a497.json)
-
-[Extended Data](ext_articles/c299a497.ext.json)
-
----
-
-### A brutal attack on an amateur lawyer
-
-*2024-01-31 22:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192813) · `si`
-
-Five other lawyers and lawyers who were attacked by an amateur lawyer have been released on bail today.
-
-The suspects were produced before the courts and ordered them to be released on bail of Rs. Short300,000.
-
-The suspects were assaulted by a young lawyer, a young lawyer in Nittambuwa, police said.
-
-Preliminary investigations have revealed that a heated argument between the assault and a senior lawyer.
-
-The other senior lawyer had then returned to the Attanagalla Magistrate's Court and had been assaulted by the youth lawyer to the Kalagedihena area.
-
-The young lawyer also said that the suspects and lawyers, including the argument of the Senatini Attorney's residence.
-
-He said that they were threatened to apologize to the Senior Attorney General and that they had been brought back to court premises after they apologize to the Senior Attorney.
-
-◼️
-
-[Data](articles/b87a8735.json)
-
-[Extended Data](ext_articles/b87a8735.ext.json)
 
 ---

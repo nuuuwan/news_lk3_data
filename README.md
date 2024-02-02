@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 16:17:28**
+As of **2024-02-02 16:32:43**
 
 ## Newspaper Stats
 
-*Scraped **4,372** Articles*
+*Scraped **4,374** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ islandlk | 230
 economynextcom | 244
 newsfirstlk | 270
 dailyftlk | 272
-adalk | 386
+adalk | 387
 virakesarilk | 493
 adaderanasinhalalk | 525
-adaderanalk | 547
+adaderanalk | 548
 tamilmirrorlk | 557
 dailymirrorlk | 598
 
@@ -26,29 +26,51 @@ dailymirrorlk | 598
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,371 (100.0%) of 4,372 articles have been extended.
+4,372 (100.0%) of 4,374 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
 
-### පාකිස්තානයත් ජාතික ගුවන්සේවය විකිණීමට සැරසෙයි
+### SI arrested over Narammala ‘accidental’ shooting further remanded
+
+*2024-02-02 15:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/96951/si-arrested-over-narammala-accidental-shooting-further-remanded) · `en`
+
+The Sub-Inspector (SI) of Police who was arrested over the alleged ‘accidental’ shooting of a lorry driver in Narammala recently has been further remanded.
+
+Accordingly, the SI was ordered to be remanded until 16 February on orders of the Narammala Magistrate’s Court.
+
+On January 18, a 41-year-old lorry driver was killed after a police officer in civilian attire had ‘accidentally’ discharged his firearm during a vehicle inspection. The victim was identified as a resident of Maharachchimulla area.
+
+The police media division said the driver had failed to comply with a signal to stop at a police checkpoint in Dampelessa, Narammala.
+
+The concerned SI and a Police Constable had then chased down the lorry and pulled.
+
+◼️
+
+[Data](articles/aaab6783.json)
+
+---
+
+### Pakistan is also ready to sell sales
 
 *2024-02-02 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192890) · `si`
 
-පාකිස්තානයේ ජාතික ගුවන්සේවය වන පාකිස්තාන ජාත්‍යන්තර ගුවන්සේවය විකුණා දැමීමට එරට පාලනය කටයුතු කරමින් සිටින බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Foreign media reports that Pakistani's national airline, the national airlighted in Pakistan, is being governed to sell the International Airlinary Airlines.
 
-මේ වනවිට පාකිස්තානය දැඩි ආර්ථික අර්බුදයකට මුහුණ දෙමින් සිටින අතර පසුගිය ජූනි මාසයේදී එරට බලධාරීන් ආර්ථික ප්‍රතිසංස්කරණ හඳුන්වා දීමට ජාත්‍යන්තර මූල්‍ය අරමුදලට එකඟ විය.
+Pakistan is facing a heavy economic crisis and in June last June, the IMF agreed to introduce economic reforms.
 
-අනතුරුව ජාත්‍යන්තර මූල්‍ය අරමුදලින් පාකිස්තානයට ඩොලර් බිලියන 3ක අරමුදල් අනුමත වූ අතර අදාළ ගිවිසුම අත්සන් කර සති කිහිපයක් තුළ ජාතික ගුවන්සේවය ඇතුළු පාඩු ලබන රාජ්‍ය ව්‍යවසායන් ප්‍රතිව්‍යුහගත කිරීමට කටයුතු කළේය.
+The International Monetary Fund was approved by $ 3 billion to Pakistan and restructured public enterprises in a period of weeks after the agreement signed.
 
-භාරකාර රජයේ "පුද්ගලිකකරණය සම්බන්ධ අමාත්‍ය" ෆවාඩ් හසන් ෆවාඩ් පැවසුවේ ඊට අදාළ කටයුතු වලින් 98%ක් නිමකර ඇති බවයි.
+Fahuad Hasan Fuad, Minister of Trustee Government, said that 98% of the relevant activities had been completed.
 
-ගුවන්සේවය විකිණීමට අදාළ කැබිනට් අනුමැතිය ලබාගැනීම ද ඉදිරි දින කිහිපය තුළදී සිදුකිරීමට නියමිත බව සඳහන් ය.
+The cabinet approval relating to the sale of the airline is also due to be held within the next few days.
 
 ◼️
 
 [Data](articles/ec9d8993.json)
+
+[Extended Data](ext_articles/ec9d8993.ext.json)
 
 ---
 
@@ -661,6 +683,20 @@ Huge blast rocks Kenyan capital, injuring hundreds and destroying homes
 [Data](articles/02c4f57e.json)
 
 [Extended Data](ext_articles/02c4f57e.ext.json)
+
+---
+
+### උපෙළ උත්තර පත්‍ර සමීක්ෂණයේදී රු. 2000ක සංයුක්ත දීමනාව මෙවරත්
+
+*2024-02-02 13:00:27* · [`adalk`](https://www.ada.lk/breaking_news/උපෙළ උත්තර-පත්‍ර-සමීක්ෂණයේදී-රු--2000ක-සංයුක්ත-දීමනාව-මෙවරත්/11-407869) · `si`
+
+2023 අ.පො.ස. (උ.පෙළ) උත්තර පත්‍ර ඇගයීම් සඳහා පසුගිය වර්ෂයේ දී ලබාදුන් දීමනාව වන රු.2,000/- ක සංයුක්ත දීමනාව මෙවර ද ලබාදීමට කටයුතු කරන බව අධ්‍යාපන අමාත්‍යාංශය කියයි.
+
+මේ පිළිබඳව  විභාග කොමසාරිස්වරයා විසින් සියලු ඇගයීම් මධ්‍යස්ථානවල පරීක්ෂකවරුන් දැනුවත්  කිරීමට කටයුතු කරන බවද අමාත්‍යාංශය වැඩිදුරටත් දන්වා සිටියි.
+
+◼️
+
+[Data](articles/079b5742.json)
 
 ---
 
@@ -1987,55 +2023,5 @@ At a press conference held yesterday, 41 people were injured in the attack and t
 [Data](articles/6c462c46.json)
 
 [Extended Data](ext_articles/6c462c46.ext.json)
-
----
-
-### 'How I Write': Kathleen Jayawardena
-
-*2024-02-02 07:32:33* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw0rw4242nwo) · `si`
-
-Kathleen Jayawardena is not a writer for Sinhala readers.
-
-We have met with the novels of she novels for twenty over twenty acts of acts, unique, unnney, liquid, Halkey, Mahasen, Indicoratne, Indusen, Indicoratne.
-
-In addition, the columns and works she has written about the local and foreign literature have contributed significantly to the nutrition of Sinhala literary.
-
-When she talked to her as a novel, she to understand her feelings and writing when she was in a note.
-
-The questions I hear in this discussion is currently published by the 'History of Nimna' (2019) and the novels of this secret wind.
-
-It is well known for all writer's writing process.
-
-Where writing, how to write, how to write, the writing of writing, belong to the writer's abuse of the writer.
-
-The conversation is seeking to pointer to that secret site of the newcomers.
-
-The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
-
-...
-
-[Data](articles/3d2e0e2b.json)
-
-[Extended Data](ext_articles/3d2e0e2b.ext.json)
-
----
-
-### Veterinary Surgeon arrested for theft of cows
-
-*2024-02-02 07:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Veterinary-Surgeon-arrested-for-theft-of-cows/108-276177) · `en`
-
-The Veterinary Surgeon of Padaviya division and four others had been arrested on their alleged involvement in the theft of 20 head of cattle including pregnant cows on forged documents, and produced before Kebithigollewa District Judge and Magistrate by Padaviya Police.
-
-Veterinary Surgeon K.H.M.Priyantha Bandusiri and an employee of his office D.D.Palitha were released on personal bail in Rs.500,000 each and warned the former not to interfere with further investigations of the incident.
-
-Other three suspects K.Milroy Rukshan Prashantha Anthony, H.Tudor Fernando, and Jude Bardeen Ferrid Manil Silva of Welisara Ragama were remanded till February 14.
-
-Police told court that the suspect Veterinary Surgeon had issued a forged documents to transport the stolen pregnant cows and that further investigations of that documents would be transferred to Kebithigollewa Special Crime Investigation Bureau (SCIB).
-
-...
-
-[Data](articles/9382ca65.json)
-
-[Extended Data](ext_articles/9382ca65.ext.json)
 
 ---

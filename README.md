@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 22:32:57**
+As of **2024-02-02 22:50:49**
 
 ## Newspaper Stats
 
-*Scraped **4,436** Articles*
+*Scraped **4,438** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 230
 economynextcom | 252
 dailyftlk | 272
 newsfirstlk | 274
-adalk | 387
+adalk | 389
 virakesarilk | 498
 adaderanasinhalalk | 538
 adaderanalk | 554
@@ -26,7 +26,7 @@ dailymirrorlk | 615
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,435 (100.0%) of 4,436 articles have been extended.
+4,436 (100.0%) of 4,438 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ As such, the seargents were arrested while they were accepting a bribe of Rs. 10
 ◼️
 
 [Data](articles/22e0549a.json)
+
+[Extended Data](ext_articles/22e0549a.ext.json)
 
 ---
 
@@ -169,6 +171,26 @@ When they died before the age of 55, the salaries and allowances were to be prov
 [Data](articles/0037cb00.json)
 
 [Extended Data](ext_articles/0037cb00.ext.json)
+
+---
+
+### පළමු දිනයේ වැඩි ගෞරව ශ්‍රී ලංකාවට
+
+*2024-02-02 20:42:03* · [`adalk`](https://www.ada.lk/sports/පළමු-දිනයේ-වැඩි-ගෞරව-ශ්‍රී-ලංකාවට/9-407872) · `si`
+
+සංචාරක ඇෆ්ගනිස්ථාන කණ්ඩායම හා ශ්‍රී ලංකා කණ්ඩායම අතර කොළඹ එස්.එස්.සී. පිටියේ පැවැත්වෙන ටෙස්ට් තරගයේ පළමු දිනය නිමාවන විට ශ්‍රී ලංකා කණ්ඩායම කිසිවෙකු නොදැවී ලකුණු 80ක් රැස්කරගෙන සිටියේය.
+
+තරගයේ මුලින්ම පන්දුවට පහරදුන් ඇෆ්ගනිස්ථාන කණ්ඩායම ලකුණු 198කට සීමා කිරීමට ශ්‍රී ලංකා පන්දු යවන්නෝ සමත්වූහ.
+
+ඇෆ්ගනිස්ථානයේ රහමත් ෂා ලකුණු 91ක් රැස්කළත් සෙසු පිතිකරුවන් අසාර්ථක වීම හේතුවෙන් ඇෆ්ගනිස්ථාන ඉනිම ලකුණු 198ට සීමා විය.
+
+අසිත ප්‍රනාන්දු ලකුණු 24ට කඩුලු 3ක්ද, විශ්ව ප්‍රනාන්දු ලකුණු51ට කඩුලු 4ක්ද, ප්‍රභාත් ජයසූරිය ලකුණු 67ට කඩුලු 3ක්ද දවා ගැනීමට සමත්වූය.
+
+ශ්‍රී ලංකා ඉනිම ආරම්භ කළ නිශාන් මධුශංක 36* හා දිමුත් කරුණාරත්න 42* නොදැවී පිටියේ රැදී සිටින්නේ ශ්‍රී ලංකා ඉනිම ලකුණු 80ක් දක්වා රැගෙන යමිනි.
+
+◼️
+
+[Data](articles/62c8070d.json)
 
 ---
 
@@ -1876,6 +1898,24 @@ UN Warns Sri Lanka’s Online Safety Act Threatens Human Rights
 
 ---
 
+### 13 හැවැරිදි පාසල් රග්බි ක්‍රීඩකයා දිවි තොර ගත්තේ ඡංගම දුරකතනය අරන් දුන් නැති නිසාද?
+
+*2024-02-02 13:07:22* · [`adalk`](https://www.ada.lk/breaking_news/13-හැවැරිදි-පාසල්-රග්බි-ක්‍රීඩකයා-දිවි-තොර-ගත්තේ-ඡංගම-දුරකතනය-අරන්-දුන්-නැති-නිසාද-/11-407870) · `si`
+
+මහනුවර නගරයේ ප්‍රධාන පෙළේ පිරිමි පාසලක දහතුන් හැවිරිදි සිසුවෙකු නිවසේ කාමරයක් තුළ ගෙල වැලලා ගෙන මියගොස් ඇති බව පොත්තපිටිය පොලිසිය කියයි .
+
+එසේ සිය දිවි හානි කරගෙන ඇත්තේ පොත්තපිටිය පොලිස් වසමේ මැණික්දිවෙල ප්‍රදේශයේ රොනිත් හුඩුපිටිය (13) නමැති 08 වසරේ ඉගෙනුම ලබන පාසල් සිසුවෙකි .
+
+එම සිසුවා පාසලේ කනිෂ්ඨ රග්බි ක්‍රීඩකයෙකු වශයෙන්ද කටයුතු කොට ඇති අතර ඔහු තම දෙමව්පියන්ගෙන් ජංගම දුරකථනයක් ඉල්ලා සිටියත් දෙමව්පියන් එය ලබාදීම ප්‍රතික්ෂේප කොට ඇති බවට පොලිස් පරීක්ෂණවරිදි අනාවරණය වී තිබේ .
+
+පොත්තපිටිය පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ප්‍රියන්ත රණසිංහ මහතා ඇතුළු පොලිස් කණ්ඩායමක් සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදු කරයි .
+
+◼️
+
+[Data](articles/7b111cab.json)
+
+---
+
 ### Gazette issued making it mandatory to display weight and price of bread
 
 *2024-02-02 13:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/gazette-issued-making-it-mandatory-to-display-weight-and-price-of-bread/) · `en`
@@ -2023,49 +2063,5 @@ The death of actress Poonam Pandey has shocked her fans.
 [Data](articles/3df7c9b1.json)
 
 [Extended Data](ext_articles/3df7c9b1.ext.json)
-
----
-
-### FTA with Thailand to bring range of goods to Sri Lanka
-
-*2024-02-02 12:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/FTA-with-Thailand-to-bring-range-of-goods-to-Sri-Lanka/155-276213) · `en`
-
-Thailand, Feb. 02 (Bangkok Post) The Free Trade Agreement (FTA), which is expected to be signed between Thailand and Sri Lanka this week, will benefit Thailand's exports of automotive parts, textiles, electrical appliances, machinery, steel products, paper, processed food and animal feed, Thai media reported.
-
-Thailand and Sri Lanka will sign a free trade agreement (FTA) this week during Prime Minister Srettha Thavisin's trip to tSri Lanka, said spokesman Chai Watcharonke.
-
-Mr Srettha has been invited by Sri Lankan Premier Ranil Wickremesinghe as a guest of honour for Sri Lanka's Independence Day celebrations from tomorrow until Sunday.
-
-The upcoming FTA will be Thailand's 15th contract of its kind and the first since Mr Srettha took the premiership last year, the Bangkok Post reported.
-
-The contract aims to bring Thai goods to new markets in South Asia by accelerating the opening of gateways for trade and investment.
-
-...
-
-[Data](articles/956f4e64.json)
-
-[Extended Data](ext_articles/956f4e64.ext.json)
-
----
-
-### FTA with Thailand to bring range of goods to Sri Lanka
-
-*2024-02-02 12:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/FTA-with-Thailand-to-bring-range-of-goods-to-Sri-Lanka/108-276213) · `en`
-
-Thailand, Feb. 02 (Bangkok Post) The Free Trade Agreement (FTA), which is expected to be signed between Thailand and Sri Lanka this week, will benefit Thailand's exports of automotive parts, textiles, electrical appliances, machinery, steel products, paper, processed food and animal feed, Thai media reported.
-
-Thailand and Sri Lanka will sign a free trade agreement (FTA) this week during Prime Minister Srettha Thavisin's trip to tSri Lanka, said spokesman Chai Watcharonke.
-
-Mr Srettha has been invited by Sri Lankan Premier Ranil Wickremesinghe as a guest of honour for Sri Lanka's Independence Day celebrations from tomorrow until Sunday.
-
-The upcoming FTA will be Thailand's 15th contract of its kind and the first since Mr Srettha took the premiership last year, the Bangkok Post reported.
-
-The contract aims to bring Thai goods to new markets in South Asia by accelerating the opening of gateways for trade and investment.
-
-...
-
-[Data](articles/9c801754.json)
-
-[Extended Data](ext_articles/9c801754.ext.json)
 
 ---

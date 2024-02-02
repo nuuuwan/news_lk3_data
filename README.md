@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 11:02:18**
+As of **2024-02-02 11:17:28**
 
 ## Newspaper Stats
 
-*Scraped **4,294** Articles*
+*Scraped **4,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,25 +16,71 @@ economynextcom | 244
 newsfirstlk | 266
 dailyftlk | 272
 adalk | 382
-virakesarilk | 475
+virakesarilk | 477
 adaderanasinhalalk | 510
-adaderanalk | 532
+adaderanalk | 536
 tamilmirrorlk | 548
-dailymirrorlk | 588
+dailymirrorlk | 591
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,294 (100.0%) of 4,294 articles have been extended.
+4,294 (99.8%) of 4,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
 
+### லிட்ரோ எரிவாயு விலை திருத்தம்  தொடர்பில் வெளியான அறிவித்தல்!
+
+*2024-02-02 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175362) · `ta`
+
+மக்கள் எதிர்கொண்டுள்ள பல்வேறு பிரச்சினைகளைக் கருத்தில் கொண்டு    பெப்ரவரி மாதம் லிட்ரோ எரிவாயு விலையில் திருத்தம் மேற்கொள்ளப்படாது என அந்த நிறுவனம் தெரிவித்துள்ளது. இதன் அடிப்படையில், தற்போதைய விலையையே பேணுவதற்கு தீர்மானித்துள்ளதாக லிட்ரோ எரிவாயு நிறுவனம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/2dc0eae2.json)
+
+---
+
+### Litro Gas decides not to revise prices in February
+
+*2024-02-02 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/96938/litro-gas-decides-not-to-revise-prices-in-february) · `en`
+
+Litro Gas Lanka has decided not to revise the prices of its domestic LP gas cylinders in the month of February.
+
+Addressing a special media briefing convened this morning (Feb.02), Litro Chairman Muditha Peiris said the decision was reached after taking into account the financial difficulties facing the members of the public.
+
+Although the domestic gas cylinder prices should ideally be increased in line with the price hike in the international market, Mr. Peiris said the company decided to bear the greater share of the loss incurred by not revising the rates.
+
+After the price hike announced in January, the Litro Gas prices now stand at the following rates:
+
+◼️
+
+[Data](articles/ab42f57f.json)
+
+---
+
+### நைரோபியில் பாரிய எரிவாயுவெடிவிபத்து - இருவர் பலி - 220க்கும் அதிகமானவர்கள் படுகாயம்
+
+*2024-02-02 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175360) · `ta`
+
+கென்யா தலைநகர் நைரோபியில் இடம்பெற்ற எரிவாயுவெடிவிபத்தில் இருவர் கொல்லப்பட்டுள்ளதுடன் 220க்கும் அதிகமானவர்கள் காயமடைந்துள்ளனர்.
+
+வீடுகள் வர்த்தக நிலையங்கள் வாகனங்கள் சேதமடைந்துள்ளதையும் தொடர்மாடிக்கு அருகில் பாரிய தீப்பிளம்பையும் காண்பிக்கும் வீடியோக்கள் வெளியாகியுள்ளன.
+
+மீட்பு நடவடிக்கைகளிற்காக குறிப்பிட்;ட பகுதியை சுற்றிவளைத்துள்ளதாக தெரிவித்துள்ள பொலிஸார் அந்த பகுதியை தவிர்க்குமாறு பொதுமக்களை கேட்டுக்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/82170b57.json)
+
+---
+
 ### A police officer injured in a gun explosion
 
-*2024-02-02 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175358) · `ta`
+*2024-02-02 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175358) · `ta`
 
 A police officer working at the Dharmapuram police station in Kilinochchi has been admitted to the hospital.
 
@@ -94,6 +140,44 @@ In this case, he died yesterday without treatment. Sudden Death Investigation Of
 
 ---
 
+### Former naval officer identified as main gunman in Beliatta shooting - Wife, father arrested
+
+*2024-02-02 10:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-naval-officer-identified-as-main-gunman-in-Beliatta-shooting-Wife-father-arrested/108-276202) · `en`
+
+The Police Special Task Force of (STF) arrested the wife and father of the person suspected to be the main gunman in the killing of five people, including the leader of the Ape Jana Bala Party, Saman Perera in Beliatta.
+
+Police said the main gunman of the Beliatta shooting has been identified as a former naval person.
+
+They said the main gunman's 39-year-old wife, who also served in the Navy and his 72-year-old father were arrested yesterday for aiding in the shooting.
+
+The suspects were arrested with 21 grams and 350 milligrams of heroin while they were in hiding at Pathagama in the Pallewela area.
+
+During questioning them, it was revealed that the main shooter an…
+
+◼️
+
+[Data](articles/ae4492cd.json)
+
+---
+
+### Beliatta mass shooting: Two including main gunman’s wife arrested
+
+*2024-02-02 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96937/beliatta-mass-shooting-two-including-main-gunmans-wife-arrested) · `en`
+
+The Police Special Task Force (STF) has arrested the wife of a retired naval person and his father on suspicion of being complicit in the Beliatta mass shooting that claimed the lives of five people.
+
+The retired naval person in question was reportedly the leading gunman in this mass murder.
+
+Accordingly, a total of 11 suspects have thus far been arrested over the shooting which took place on January 23 near the Beliatta interchange of the Southern Expressway.
+
+A group of assailants in an SUV had opened fire at a white Defender, killing four persons at the scene. The other victim who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, but he was pronounced dead shortly.
+
+◼️
+
+[Data](articles/2c70ba53.json)
+
+---
+
 ### The death of the road falls on the road
 
 *2024-02-02 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175355) · `ta`
@@ -109,6 +193,26 @@ In this case, he died yesterday without treatment. Sudden Death Investigation Of
 [Data](articles/429fd04b.json)
 
 [Extended Data](ext_articles/429fd04b.ext.json)
+
+---
+
+### Cathay Pacific re-commences flight operations to Sri Lanka
+
+*2024-02-02 09:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cathay-Pacific-re-commences-flight-operations-to-Sri-Lanka/108-276194) · `en`
+
+Colombo, Feb 2 (Daily Mirror) - Scheduled flight operations by Cathay Pacific Airways were resumed with the inaugural flight, CX 611, which arrived at the Bandaranaike International Airport (BIA) last night, the Airport and Aviation Services (Sri Lanka) Limited said.
+
+They said the airline recommenced passenger flight operations using an Airbus 330-300 aircraft, and the days of operation will be Tuesdays, Thursdays and Saturdays.
+
+Cathay Pacific has been catering to the Sri Lankan market for over 30 years. The airline temporarily stopped flight operations in March 2020 due to the global Covid 19 pandemic situation.
+
+However, the airline operated a Boeing 747 freighter carrying vital supplies, including Covid vaccines, during the pandemic.
+
+The inaugural flight carried 253 passengers and they were welcomed by a cultural dancing performance organized by Sri Lanka Tourism at the BIA.
+
+...
+
+[Data](articles/22fedfeb.json)
 
 ---
 
@@ -171,6 +275,18 @@ Sri Lanka team will attend the competition for the first time under the leadersh
 [Data](articles/8e531253.json)
 
 [Extended Data](ext_articles/8e531253.ext.json)
+
+---
+
+### Keheliya arrives at CID
+
+*2024-02-02 09:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliya-arrives-at-CID/108-276190) · `en`
+
+In adherence to a court order issued on Thursday, former Health Minister Keheliya Rambukwella reported to the premises of the Criminal Investigation Department (CID) this morning.
+
+◼️
+
+[Data](articles/0ca064eb.json)
 
 ---
 
@@ -248,6 +364,24 @@ The main shooter, the main shooter, has fled to the Beliatta on January 21st on 
 
 ---
 
+### ‘Yukthiya’ operation: 703 more suspects arrested within 24 hours
+
+*2024-02-02 09:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/96936/yukthiya-operation-703-more-suspects-arrested-within-24-hours) · `en`
+
+Another 703 suspects have been arrested by Sri Lanka’s police and security forces personnel within 24 hours which ended at 12.30 a.m. today (Feb.02). The arrests were made as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+Among the arrestees are 525 suspects who were taken into custody on narcotics-related charges and 178 others who were on the list of wanted criminal suspects.
+
+Detention orders have been secured against one of the drug suspects, while another six were referred to rehabilitation centres, the Ministry of Public Security said.
+
+According to the ministry, the narcotics taken into custody during this period include 204g of heroin, 118g of crystal methamphetamine (Ice), 3.1kg of cannabis and 477 narcotic pills.
+
+◼️
+
+[Data](articles/d70bf831.json)
+
+---
+
 ### Keheliya at CID over immunoglobulin scandal
 
 *2024-02-02 09:04:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/keheliya-at-cid-over-immunoglobulin-scandal/) · `en`
@@ -278,9 +412,9 @@ Former Health Minister Keheliya Rambukwella arrived at the Criminal Investigatio
 
 The former health minister was supposed to make an appearance before the CID on Wednesday (Jan.31), but he failed to do so on account of attending the proceedings of a case heard before the Colombo High Court, as well as a ministerial sub-committee meeting convened at the Presidential Secretariat.
 
-Thus, Rambukwella has sought the CID, in writing, to fix another date for him to provide his statement.
+Thus, Rambukwella had sought the CID, in writing, to fix another date for him to provide his statement.
 
-On Thursday (Feb.01), the Maligakanda Magistrate ordered the former health minister to appear before the CID to record a statement pertaining to his alleged involvement in the substandard medicines procurement. Additionally, a ban was imposed on the lawmaker’s foreign travels.
+On Thursday (Feb.01), the Maligakanda Magistrate ordered the former health minister to appear before the CID to record a statement pertaining to his alleged involvement in the substandard medicines procurement. Additionally, the lawmaker was also slapped with a foreign travel ban.
 
 ...
 
@@ -343,6 +477,30 @@ India has already given an advance aid of 450 million Indian rupees to President
 [Data](articles/b63cfa04.json)
 
 [Extended Data](ext_articles/b63cfa04.ext.json)
+
+---
+
+### US approves plan to strike Iranian targets in Syria and Iraq, officials say
+
+*2024-02-02 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/96934/us-approves-plan-to-strike-iranian-targets-in-syria-and-iraq-officials-say) · `en`
+
+The US has approved plans for a series of strikes on Iranian targets in Syria and Iraq, officials have told the BBC’s US partner CBS News.
+
+The strikes will take place over a number of days, officials said, and weather conditions will likely dictate when they are launched.
+
+It comes after a drone attack killed three US soldiers in Jordan, close to the Syrian border, on Sunday.
+
+The US blamed an Iranian-backed militia group for that attack.
+
+That group, the Islamic Resistance in Iraq, is believed to contain multiple militias that have been armed, funded and trained by Iran’s Revolutionary Guards force. It has said it was responsible for Sunday’s strike.
+
+Iran, meanwhile, has denied any role in the attack which injured 41 other US troops at the military base, known as Tower 22.
+
+US officials have said that US intelligence believes that the drone used to attack the facility was manufactured by Iran - and is similar to the drones Iran has been sending to Russia for its invasion of Ukraine.
+
+...
+
+[Data](articles/425bff13.json)
 
 ---
 
@@ -1859,193 +2017,5 @@ Similarly, at the Non -Aligned Conference held in Kampala, Uganda, the President
 [Data](articles/7f814078.json)
 
 [Extended Data](ext_articles/7f814078.ext.json)
-
----
-
-### Foreign ambassadors handed over the president's good news!
-
-*2024-02-01 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175342) · `ta`
-
-The newly appointed new high -rankings and ambassadors to Sri Lanka handed over their credentials to President Ranil Wickremesinghe on Thursday (01).
-
-The new ambassadors of the Esuwatini Kingdom, the High Commissioner of the Girikis, Romania and Turkmenistan have been appointed.
-
-State Minister Taraka Balasuriya and President's Secretary Saman Ekanayake were also present.
-
-Subsequently, the High Commissioner and Ambassadors appointed on Thursday (01) held a discussion with Sagala Ratnayake, the President's Senior Advisor on National Security and the President of the President.
-
-◼️
-
-[Data](articles/91225008.json)
-
-[Extended Data](ext_articles/91225008.ext.json)
-
----
-
-### People should not support the plan of opposition parties to confuse Independence Day events - the United National Party
-
-*2024-02-01 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175343) · `ta`
-
-It is a great privilege to celebrate the country's Independence Day in the restoration of the country.
-
-However, the opposition parties are engaged in various sabotage to confuse the Independence Day events. United National Party (UNP Political Committee) Santini Gonahake said that the people should not be allowed.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Thursday (01).
-
-President Ranil Wickremesinghe is taking over the country and taking steps to ensure the country's economy amidst great difficulties as people are suffering from various basic amenities last year.
-
-That is why people can get fuel, gas and other essential commodities today. Although the price of goods is slightly higher, all the products are in the market today.
-
-And people were struggling to obtain their land rights. However, the president has allocated 2 billion rupees in the budget this time to grant land guarantees.
-
-...
-
-[Data](articles/ac574c0b.json)
-
-[Extended Data](ext_articles/ac574c0b.ext.json)
-
----
-
-### House adjournment debate on government's policy declaration on 08th 09th -Parliamentary Secretary General
-
-*2024-02-01 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175344) · `ta`
-
-Parliamentary Secretary General Kushani Rohanadheera said that it was decided to hold a postponement debate on the government's policy declaration on Wednesday, which will be presented in Parliament by President Ranil Wickremesinghe on Wednesday.
-
-The Secretary said that this was decided by the party leaders' meeting held in Parliament on Thursday (01) chaired by Speaker Mahinda Yapa Abeywardena.
-
-Accordingly, the fifth session of the ninth parliament will be inaugurated by the President on the 7th of this month and the government's policy announcement will be presented at 10.30 am by the president headed by the President of Parliament that day.. The Parliament will be postponed by the President until 9,30 am the next day following the policy declaration speech.
-
-Accordingly, on Thursday, 08th and 09th of this month, the House of Representatives will be postponed to the President's Policy Declaration, which will be presented by the President from 9.30 am to 5.30 pm.
-
-◼️
-
-[Data](articles/326fdb67.json)
-
-[Extended Data](ext_articles/326fdb67.ext.json)
-
----
-
-### Mahinda Amaraweera and Thilanga Sumathipala resigns from the post of General Secretary of the United People's Freedom Alliance
-
-*2024-02-01 19:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175345) · `ta`
-
-Minister Mahinda Amaraweera and Thilanga Sumathipala yesterday handed over the resignation bite to the United People's Freedom Alliance (UPFA) general secretary.
-
-The resignation letter has been handed over on the orders of former United People's Freedom Alliance (UPFA) President Maithripala Sirisena.
-
-Former President Maithripala Sirisena, the leader of the coalition, took action to remove him from the post of General Secretary, saying that Minister Mahinda Amaraweera joined the government and took over the government as the General Secretary of the United People's Freedom Alliance (UPFA).
-
-Accordingly, former Parliamentarian Thilanga Sumathipala was appointed to the post of General Secretary of the General Secretary by removing Minister Mahinda Amaraweera.
-
-As Mahinda Amaraweera has taken action against the resolution, the Election Commission has announced that the General Secretaries will not accept the two.
-
-...
-
-[Data](articles/5467bbe8.json)
-
-[Extended Data](ext_articles/5467bbe8.ext.json)
-
----
-
-### New ambassadors handed over the president's credentials
-
-*2024-02-01 19:58:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-தூதுவர்கள்-ஜனாதிபதியிடம்-நற்சான்றிதழ்களை-கையளித்தனர்/175-332504) · `ta`
-
-Three new high -rankings and ambassadors to Sri Lanka handed over their credentials to President Ranil Wickremesinghe today (01) at the Presidential Office.
-
-The new ambassadors of the Esuwatini Kingdom, the High Commissioner of the Girikis, Romania and Turkmenistan have been appointed.
-
-Recruit. Managa Chipo Dulamini High Commissioner
-
-State Minister Taraka Balasuriya and President's Secretary Saman Ekanayake were also present.
-
-Subsequently, the appointed High Commissioner and Ambassadors held a discussion with Sagala Ratnayake, the President's Senior Advisor on National Security and the President of the President.
-
-◼️
-
-[Data](articles/ed91e4cd.json)
-
-[Extended Data](ext_articles/ed91e4cd.ext.json)
-
----
-
-### Hemas Pharmaceuticals and Anti Leprosy Campaign unite to mark World Leprosy Day 2024, reach 50,000
-
-*2024-02-01 19:42:00* · [`islandlk`](http://island.lk/hemas-pharmaceuticals-and-anti-leprosy-campaign-unite-to-mark-world-leprosy-day-2024-reach-50000/) · `en`
-
-In a significant initiative commemorating World Leprosy Day 2024, Hemas Pharmaceuticals, the Anti Leprosy Campaign, Provincial Director of Health Western Province, Regional Director of Health Services Colombo, Gampaha and Kalutara Districts and the MOH Offices in the Western Province joined forces to conduct a wide-reaching awareness campaign. The collaborative effort distributed informative flyers to 50,000 individuals at key high-traffic transportation hubs, including train and bus stations.
-
-World Leprosy Day, observed annually, serves as a reminder of the ongoing battle against leprosy and the importance of fostering awareness within communities. With the recent unforeseen rise in Leprosy in the country, Hemas Pharmaceuticals and the Anti Leprosy Campaign have decided to leverage this day to make a tangible impact on leprosy awareness.
-
-...
-
-[Data](articles/c914de3c.json)
-
-[Extended Data](ext_articles/c914de3c.ext.json)
-
----
-
-### Another suspect arrested for shooting in Adrappu
-
-*2024-02-01 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192858) · `si`
-
-Another suspect has been arrested in connection with the Murder of a person in Colombo.
-
-The suspect was arrested by the Adrappidi Police in Giriulla last night.
-
-Revolver a firearm, suspicious, was found to shoot on the issues revealed by his interrogation.
-
-Meanwhile, the suspect has been arrested before the incident.
-
-The suspect was arrested along with a pistol weather and the suspect was remanded till February 13.
-
-◼️
-
-[Data](articles/f0bb99d8.json)
-
-[Extended Data](ext_articles/f0bb99d8.ext.json)
-
----
-
-### Former Health Minister Keheliya reveals
-
-*2024-02-01 19:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192857) · `si`
-
-Former Health Minister Keheliya Rambukanda Magistrate's Court today (02) ordered the CID to enter into the CID tomorrow.
-
-That was when the case was taken up before Maligakanda Magistrate Luchan Abeywickrema today.
-
-The case, purchasing the substandard humian emnungluulin antibodies and distribution in the country's hospitals, the case was taken up again in the Maligakanda Magistrate's Court today.
-
-The Deputy Solicitor General General of Lakmini, the Deputy Solicitor General, Lakmini Girihagama, said that he had notified the CID to provide a statement to the former Health Minister Keheliya Rambukwella.
-
-"Lord, the CID had informed the former Minister of Health to be given a statement yesterday before the incident.. But he did not come to give a statement. He was later announced in writing that he was unable to attend a court proceeding of the High Court and a Cabinet subcommittee. "
-
-...
-
-[Data](articles/75af017f.json)
-
-[Extended Data](ext_articles/75af017f.ext.json)
-
----
-
-### China executes couple for murder of toddlers that shocked the nation
-
-*2024-02-01 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/96927/china-executes-couple-for-murder-of-toddlers-that-shocked-the-nation) · `en`
-
-China has executed a couple for throwing two toddlers out of a high-rise apartment window, in a case that provoked nationwide outrage.
-
-The man and his girlfriend were found guilty of killing the children from his first marriage by staging an accidental fall from a residential tower in the southwestern metropolis of Chongqing, so that they could start a new family.
-
-The father, Zhang Bo, began an affair with Ye Chengchen and initially hid the fact that he was married with children, but Ye found out and Zhang divorced his wife, according to China’s supreme court.
-
-Ye saw Zhang’s two children as an “obstacle” to them getting married and a “burden on their future life together,” the court heard. She repeatedly urged Zhang to kill the toddlers and threatened to break up with him if he didn’t.
-
-...
-
-[Data](articles/8b59fd0b.json)
-
-[Extended Data](ext_articles/8b59fd0b.ext.json)
 
 ---

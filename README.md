@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 16:48:01**
+As of **2024-02-02 17:02:28**
 
 ## Newspaper Stats
 
-*Scraped **4,375** Articles*
+*Scraped **4,376** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 272
 adalk | 387
 virakesarilk | 493
 adaderanasinhalalk | 526
-adaderanalk | 548
+adaderanalk | 549
 tamilmirrorlk | 557
 dailymirrorlk | 598
 
@@ -26,11 +26,29 @@ dailymirrorlk | 598
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,375 (100.0%) of 4,375 articles have been extended.
+4,375 (100.0%) of 4,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### Appeals Court delivers decision on contempt petitions against Sanath Nishantha
+
+*2024-02-02 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/96952/appeals-court-delivers-decision-on-contempt-petitions-against-sanath-nishantha) · `en`
+
+The Court of Appeal has permitted to withdraw three petitions filed against the late State Minister Sanath Nishantha over contempt of court charges.
+
+The relevant petitions were taken up before the two-member judge bench consisting of Justices Sobhitha Rajakaruna and Dhammika Ganepola today (Feb. 02).
+
+There, the attorneys-at-law who appeared on behalf of the petitioning parties told the court that the petitions are not required to be maintained since the defendant of the case, State Minister Sanath Nishantha has passed away, and therefore, requested permission to withdraw the relevant petitions.
+
+The Appeals Court, which accepted the request allowed the three petitions to be withdrawn.
+
+...
+
+[Data](articles/6e21f88c.json)
+
+---
 
 ### Man dies in an attack
 
@@ -2011,25 +2029,5 @@ Farmers in the North Central Province under this joint operation have taken this
 [Data](articles/6e3db16c.json)
 
 [Extended Data](ext_articles/6e3db16c.ext.json)
-
----
-
-### Keheliya Rambukwella in CID today
-
-*2024-02-02 07:36:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CIDயில்-கெஹெலிய-ரம்புக்வெல்ல-இன்று-முன்னிலை/175-332530) · `ta`
-
-Former Health Minister Keheliya Rambukwella will be present at the Criminal Investigation Department today.
-
-He was summoned yesterday to obtain a confession regarding the importation of 22,500 non -standard vaccines to the country.
-
-However, he has not been accompanied by the Criminal Investigation Department. In the meantime, the Malakkanda Magistrate's Court has ordered him to appear before the Criminal Investigation Department today.
-
-Meanwhile, Environment Minister Keheliya Rambukwella has also been imposed on foreign travel ban.. (Of)
-
-◼️
-
-[Data](articles/d3471ad3.json)
-
-[Extended Data](ext_articles/d3471ad3.ext.json)
 
 ---

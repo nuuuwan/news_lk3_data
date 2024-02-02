@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 14:34:00**
+As of **2024-02-02 14:50:03**
 
 ## Newspaper Stats
 
-*Scraped **4,340** Articles*
+*Scraped **4,350** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ economynextcom | 244
 newsfirstlk | 269
 dailyftlk | 272
 adalk | 385
-virakesarilk | 482
+virakesarilk | 488
 adaderanasinhalalk | 517
-adaderanalk | 542
+adaderanalk | 543
 tamilmirrorlk | 555
-dailymirrorlk | 595
+dailymirrorlk | 598
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,340 (100.0%) of 4,340 articles have been extended.
+4,340 (99.8%) of 4,350 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### Self-proclaimed ‘Vishwa Buddha’ remanded further
+
+*2024-02-02 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/96946/self-proclaimed-vishwa-buddha-remanded-further) · `en`
+
+The saffron-robed person claiming to be ‘Vishwa Buddha’ has been ordered to be further remanded in custody until 16 February, 2024.
+
+This order was issued when he was produced before the Gangodawila Magistrate’s Court in Nugegoda, Ada Derana reporter said.
+
+The suspect, who was out on bail, was re-arrested on 23 January by the Criminal Investigations Department (CID) over breach of bail conditions and was presented before the Gangodawila Magistrate’s Court. However, later he was presented before the Colombo Magistrate’s Court as per the orders of the Gangodawila Magistrate.
+
+The Colombo Magistrate’s Court, advising the suspect, had ordered him not to breach his bail conditions, however, he was further kept in remand custody over another pending case being heard before the Gangodawila Magistrate’s Court.
+
+...
+
+[Data](articles/6eff3e2c.json)
+
+---
 
 ### Universal Buddha further remanded
 
@@ -50,6 +68,36 @@ Although the court had ordered him to bail, but due to insulting the republic of
 
 ---
 
+### SJB to bring in second No Faith motion against Keheliya
+
+*2024-02-02 13:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-to-bring-in-second-No-Faith-motion-against-Keheliya/108-276214) · `en`
+
+Colombo, Feb 2 (Daily Mirror) - The Samagi Jana Balawegaya (SJB) is to bring in another No Confidence motion against Minister Keheliya Rambukwella, Member of Parliament Kavinda Jayawardene said today.
+
+“Our party decided to bring in a second No Faith motion against Minister Rambukwella some weeks ago, but we did not collect signatures as we knew President Ranil Wickremesinghe was going to prorogue Parliament. However, we will start collecting signatures from MPs for the No Confidence motion from February 7 when the House convenes,” MP Jayawardene said.
+
+“We will publish the signatures we get for the motion this time so that the public will know who will go against corruption,” he added.
+
+The MP alleged that the Minister’s involvement in the Human Immunoglobulin scam is becoming clear with the information that is being disclosed before the judiciary.
+
+◼️
+
+[Data](articles/e1f673d5.json)
+
+---
+
+### தொடரும் சுகாதாரத்துறையினரின் பணிப்புறக்கணிப்பு
+
+*2024-02-02 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175380) · `ta`
+
+வைத்தியர்களுக்கு வழங்கப்பட்டு வரும் 30 ஆயிரம் ரூபா  கொடுப்பனவை தங்களுக்கும் வழங்குமாறு கோரி 72 சுகாதார சங்கங்கள் ஆரம்பித்துள்ள பணிப்புறக்கணிப்பு காரணமாக நேற்றும் வவுனியா வைத்தியசாலை நடவடிக்கைகளும் முடங்கியமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a1124785.json)
+
+---
+
 ### A beautiful Bollywood actress is for life
 
 *2024-02-02 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192880) · `si`
@@ -65,6 +113,28 @@ In 2013, the first film of Nisha, "Nasa" had joined Bollywood cinema.
 [Data](articles/f239b854.json)
 
 [Extended Data](ext_articles/f239b854.ext.json)
+
+---
+
+### நடிகை பூனம் பாண்டே காலமானார்
+
+*2024-02-02 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/175384) · `ta`
+
+நடிகை பூனம் பாண்டே (32) புற்றுநோயால் இன்று வெள்ளிக்கிழமை (02) காலை காலமாகியுள்ளார்.
+
+சர்ச்சைக்குரிய நடிகை பூனம் பாண்டே கர்ப்பை புற்றுநோயால்  உயிரிழந்துவிட்டதாக அவரது மேலாளர் அதிகாரபூர்வமாக அறிவித்துள்ளார்.
+
+பூனம் பாண்டே 2011 உலகக் கோப்பையில் இந்தியா வென்றால் நிர்வாணமாக வீடியோ வெளியிடுகிறேன் எனக் கூறி பின்னர் கூறியபடி செய்தும் பிரபலமானவர்.
+
+இவர் கடந்த 2020 ஆம் ஆண்டு தன் காதலன் சாம் பாம்பெயை திருமணம் செய்துகொண்டார்.
+
+இதனிடையே, பூனம் பாண்டே கருப்பை வாய் புற்றுநோயால் பாதிக்கப்பட்டார். இதற்காக அவர் சிகிச்சை பெற்றுவந்தார்.
+
+இந்நிலையில், கர்ப்பப்பை வாய் புற்றுநோயால் பாதிக்கப்பட்ட பூனம் பாண்டே இன்று சிகிச்சை பலனின்றி உயிரிழந்தார்.
+
+◼️
+
+[Data](articles/e3a41347.json)
 
 ---
 
@@ -103,6 +173,42 @@ Accordingly, most of the famous songflies such as Taylor Swift, Drake and Olives
 [Data](articles/6901cbcd.json)
 
 [Extended Data](ext_articles/6901cbcd.ext.json)
+
+---
+
+### வவுனியா நடைபாதை வியாபார நிலையங்கள் நகரசபையால் அகற்றம்!!
+
+*2024-02-02 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175382) · `ta`
+
+வவுனியா சந்தை சுற்றுவட்ட வீதியில் அமைந்துள்ள நடைபாதை வியாபார நிலையங்கள் நகரசபையால் வெள்ளிக்கிழமை (02) அகற்றப்பட்டது.
+
+வவுனியா பொது வைத்தியசாலை சந்தியில் இருந்து கொரவப்பொத்தான வீதி மற்றும் சந்தை உள்வட்ட வீதி ஆகியவை நடைபாதை வியாபாரிகளால் ஆக்கிரமிக்கப்பட்டுள்ளதால் பாதசாரிகள் பல்வேறு அசௌகரியங்களை எதிர்கொண்டுவருகின்றனர். இதனால் அடிக்கடி வாகன நெரிசல் ஏற்பட்டுவருவதுடன், விபத்துக்களை சந்திக்கும் நிலைமையும் எற்பட்டுள்ளது.
+
+நடைபாதைகளை ஆக்கிரமித்து வியாபாரம் மேற்கொள்ளப்படுவதால் பாதசாரிகள் பிரதான வீதியால் நடந்து செல்லவேண்டிய அவலநிலைமை ஏற்பட்டுள்ளது.
+
+இது தொடர்பில் நகரசபை நடவடிக்கை எடுத்திருந்தபோதிலும் தினந்தோறும் நடைபாதையினை ஆக்கிரமிக்கும் வியாபார நிலையங்கள் அதிகரித்து செல்கின்றது.
+
+இந்நிலையில் சந்தைசுற்றுவட்ட வீதிக்கு வெள்ளிக்கிழமை (02) சென்ற வவுனியா நகரசபை உத்தியோகத்தர்கள் மற்றும் போக்குவரத்து பொலிசார் நடைபாதை வியாபாரநிலையங்களை அகற்றியதுடன், அவர்களது பொருட்களையும் பறிமுதல் செய்தனர்.
+
+...
+
+[Data](articles/b8bfad99.json)
+
+---
+
+### சர்வதேச அபிவிருத்திக்கான ஐக்கிய அமெரிக்க முகவர் நிறுவன அதிகாரி ஷனன் கிரீன் பாராளுமன்றத்துக்கு விஜயம்
+
+*2024-02-02 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175381) · `ta`
+
+சர்வதேச அபிவிருத்திக்கான ஐக்கிய அமெரிக்க முகவர் நிறுவனத்தின் (USAID) ஜனநாயகம், மனித உரிமைகள் மற்றும் நிர்வாகத்திற்கான பணியகத்தின் நிர்வாக உதவியாளர் ஷனன் கிரீன் தலைமையிலான தூதுக்குழுவினர் இலங்கை பாராளுமன்றத்துக்கு அண்மையில் விஜயம் செய்தனர்.
+
+இந்தத் தூதுக்குழுவினர் சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன, பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர, பணியாட்தொகுதியின் பிரதானியும் பாராளுமன்ற பிரதி செயலாளர் நாயகமுமான சமிந்த குலரத்ன மற்றும் பாராளுமன்ற உதவிச் செயலாளர் நாயகம் ஹன்ஸ அபேரத்ன ஆகியோருடன் கலந்துரையாடல்களை மேற்கொண்டனர்.
+
+அத்துடன், திறந்த பாராளுமன்ற முன்னெடுப்புக்கான பாராளுமன்ற ஒன்றியத்தின் உறுப்பினர்களுடனும்  தூதுக்குழுவினர் கலந்துரையாடியதுடன், இதன்போது பாராளுமன்ற உறுப்பினர்களான கோகிலா குணவர்தன, நிரோஷன் பெரேரா மற்றும் கௌரவ பிரேம்நாத் சி தொலவத்த ஆகியோரும் கலந்துகொண்டனர்.
+
+...
+
+[Data](articles/2c52bb25.json)
 
 ---
 
@@ -182,6 +288,38 @@ Furthermore, MP Dayasiri claimed that none of the political parties have any fai
 
 ---
 
+### வவுனியாவில் சிறைச்சாலை அதிகாரிகளின் காவலில் இருந்த சந்தேகநபர் தப்பியோட்டம்  ; பொலிஸார் தேடுதல் வேட்டை
+
+*2024-02-02 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175378) · `ta`
+
+வவுனியா மாவட்ட பொது வைத்தியசாலையில் சிறைச்சாலை அதிகாரிகளின் காவலில் இருந்த சந்தேகநபர் ஒருவர் நேற்று  முன்தினம் புதன்கிழமை (31) காலை தப்பியோடியுள்ளமை தொடர்பில் பொலிஸார்  தேடுதல் நடவடிக்கையினை முன்னெடுத்துள்ளனர்.
+
+கஞ்சா விற்பனை மற்றும் வைத்திருந்தமை குற்றச்சாட்டில் கடந்த 26.01.2024 அன்று நெளுக்குளம் பொலிஸாரினானால் கைது செய்யப்பட்ட 28 வயதுடைய இளைஞன் வவுனியா மாவட்ட நீதிவான் நீதிமன்றில் ஆயர்படுத்தப்பட்ட பின்னர் வவுனியா சிறைச்சாலையில் தடுப்புக்காவலில் வைக்கப்பட்டிருந்தார்.
+
+இந்நிலையில் 29.01.2024 அன்று சிறைச்சாலையில் அவ் சந்தேகநபரான 28 வயதுடைய இளைஞருக்கு ஏற்பட்ட சுகயீனம் காரணமாக வவுனியா மாவட்ட பொது வைத்தியசாலையில் சிறைச்சாலை அதிகாரிகளின் காவலில் அவருக்கு சிகிச்சை வழங்கப்பட்டது.
+
+இந்நிலையிலேயே நேற்று முன்தினம் காலை 6.00 மணியளவில் வவுனியா மாவட்ட பொது வைத்தியசாலையிலிருந்து தப்பியோடியுள்ளார். தப்பியோடிய குறித்த சந்தேகநபரை கைது செய்வதற்குரிய நடவடிக்கையினை வவுனியா பொலிஸார் மற்றும் சிறைச்சாலை அதிகாரிகள் முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/e86837b2.json)
+
+---
+
+### தரம் 5 புலமைப்பரிசில் பரீட்சை வெட்டுப்புள்ளி வெளியானது
+
+*2024-02-02 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/175376) · `ta`
+
+நாடளாவிய ரீதியில் நடத்தப்பட்ட 2023ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சையின் அடிப்படையில், அடுத்த வருடம் 6ஆம் தரத்துக்கு மாணவர்களை பாடசாலைகளில் இணைத்துக்கொள்வதற்கான வெட்டுப்புள்ளிகளை இன்று வெள்ளிக்கிழமை (02) பரீட்சைகள் திணைக்களம் வெளியிட்டுள்ளது.
+
+இணையதளங்களில் முடிவுகளை பெற விரும்பும் மாணவர்கள் தங்கள் சரியான பரீட்சை சுட்டெண்ணை உள்ளிடுமாறு கேட்டுக்கொள்ளப்படுகின்றனர்.
+
+◼️
+
+[Data](articles/2d4d1ba8.json)
+
+---
+
 ### Monday vacation?: Notification was released
 
 *2024-02-02 12:53:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திங்கள்-விடுமுறையா-அறிவிப்பு-வெளியானது/175-332545) · `ta`
@@ -217,6 +355,26 @@ The death of actress Poonam Pandey has shocked her fans.
 [Data](articles/3df7c9b1.json)
 
 [Extended Data](ext_articles/3df7c9b1.ext.json)
+
+---
+
+### FTA with Thailand to bring range of goods to Sri Lanka
+
+*2024-02-02 12:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/FTA-with-Thailand-to-bring-range-of-goods-to-Sri-Lanka/155-276213) · `en`
+
+Thailand, Feb. 02 (Bangkok Post) The Free Trade Agreement (FTA), which is expected to be signed between Thailand and Sri Lanka this week, will benefit Thailand's exports of automotive parts, textiles, electrical appliances, machinery, steel products, paper, processed food and animal feed, Thai media reported.
+
+Thailand and Sri Lanka will sign a free trade agreement (FTA) this week during Prime Minister Srettha Thavisin's trip to tSri Lanka, said spokesman Chai Watcharonke.
+
+Mr Srettha has been invited by Sri Lankan Premier Ranil Wickremesinghe as a guest of honour for Sri Lanka's Independence Day celebrations from tomorrow until Sunday.
+
+The upcoming FTA will be Thailand's 15th contract of its kind and the first since Mr Srettha took the premiership last year, the Bangkok Post reported.
+
+The contract aims to bring Thai goods to new markets in South Asia by accelerating the opening of gateways for trade and investment.
+
+...
+
+[Data](articles/956f4e64.json)
 
 ---
 
@@ -373,6 +531,18 @@ Commenting on the media, the man has been accused of having a leg and he is unab
 [Data](articles/d401da3d.json)
 
 [Extended Data](ext_articles/d401da3d.ext.json)
+
+---
+
+### Independence rehearsal Day 4
+
+*2024-02-02 12:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Independence-rehearsal-Day-4/110-276211) · `en`
+
+Sri Lankan military personnel take part in the fourth day of rehearsals for the Independence Day parade in Colombo. Sri Lanka will celebrate its 76th Independence Day on February 4. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/b9ec005a.json)
 
 ---
 
@@ -1833,209 +2003,5 @@ The distinguished panelists include: Colombo University Emeritus Prof of Law and
 [Data](articles/9eb110e3.json)
 
 [Extended Data](ext_articles/9eb110e3.ext.json)
-
----
-
-### Teejay records positive Q3 despite market challenges
-
-*2024-02-02 04:38:59* · [`dailyftlk`](https://www.ft.lk/business/Teejay-records-positive-Q3-despite-market-challenges/34-758054) · `en`
-
-Teejay Lanka PLC said yesterday it has maintained its positive trajectory in the third quarter of 2023-24, recording noteworthy pre- and post-tax profit growth for the three months ending 31 December 2023 and reversing the losses of the corresponding quarter of the previous year.
-
-Sri Lanka’s first multinational textile manufacturer has reported profit before tax of Rs. 677.7 million for the third quarter of the financial year, as against a pre-tax loss of Rs. 24.4 million for the third quarter of 2022-23, recording a growth of 2870%.
-
-The Group posted a net profit of Rs. 477.4 million for the three months, a gain of Rs. 843.3 million or 230% over the net loss of Rs. 366 million reported for the corresponding three months of the preceding year.
-
-...
-
-[Data](articles/ce638d99.json)
-
-[Extended Data](ext_articles/ce638d99.ext.json)
-
----
-
-### Harin joins CTC Board
-
-*2024-02-02 04:37:28* · [`dailyftlk`](https://www.ft.lk/business/Harin-joins-CTC-Board/34-758053) · `en`
-
-A top professional, Harin A. de Silva Wijeyeratne has been appointed to the Ceylon Tobacco Company PLC Board as an Independent Non-Executive Director.
-
-He fills the vacancy created by the retirement of Yudi Kanagasabai in the CTC Board.
-
-Harin counts over 30 years’ experience in the fields of general management, financial management and auditing acquired while being employed at Investcorp Bank Bahrain, Grindlays Bahrain Bank, Ernst & Young Bahrain and Ernst & Young Sri Lanka.
-
-In addition, he has held the position of CEO at the Sri Lanka Institute of Nanotechnology Ltd., (SLINTEC) for over five years (2013 to 2019).
-
-Harin was an Independent Director of Union Assurance PLC and also the Board Audit and Compliance Committee Chairman, and retired in September 2020, completing nine years.
-
-Harin is an Associate member of The Institute of Chartered Accountants of Sri Lanka and a Fellow member of the Chartered Institute of Management Accountants, UK.
-
-...
-
-[Data](articles/8d34018f.json)
-
-[Extended Data](ext_articles/8d34018f.ext.json)
-
----
-
-### Rohini accuses President of ordering attack on former supporters
-
-*2024-02-02 04:35:34* · [`dailyftlk`](https://www.ft.lk/news/Rohini-accuses-President-of-ordering-attack-on-former-supporters/56-758052) · `en`
-
-SJB MP Rohini Wijerathna condemns 30 Jan crackdown on SJB protest and claims tear gas was even fired on children gathered close by
-
-Stresses SJB will will persist with its protest campaign nationwide alongside oppressed citizens
-
-Accuses JVP of collaborating with Govt. and says only SJB has dared to protest against Govt.
-
-SJB MP S.M Marikkar asks Govt. not to blame SJB for damage caused to SL’s image by cracking down on protests
-
-SJB’s Sujeewa Senasinghe urges people to not look for a saviour within JVP to punish wrong doers
-
-Samagi Jana Balawegaya (SJB) Matale district MP Rohini Kumari Wijerathna yesterday accused President Ranil Wickremesinghe of ordering a police crackdown on former supporters who had dedicated 26 years of hard work for him.
-
-...
-
-[Data](articles/de5ab6ab.json)
-
-[Extended Data](ext_articles/de5ab6ab.ext.json)
-
----
-
-### Speaker endorses certificate on controversial Online Safety Bill
-
-*2024-02-02 04:33:04* · [`dailyftlk`](https://www.ft.lk/news/Speaker-endorses-certificate-on-controversial-Online-Safety-Bill/56-758051) · `en`
-
-Speaker of Parliament Mahinda Yapa Abeywardana yesterday endorsed the certificate on the controversial Online Safety Bill which was passed in Parliament with amendments following the two-day debate on 23 and 24 January.
-
-Following the move, the Bill has come into effect as the Online Safety Act No.9 of 2024.
-
-The Speaker endorsed the certificate on National Hydrographic Bill passed on 9 January with amendments and the Contempt of a Court, Tribunal or Institution Bill passed on 10 January with amendments.
-
-The two Bills will come into effect as the National Hydrographic Act No.7 of 2024 and the Contempt of a Court, Tribunal or Institution Act No.8 of 2024.
-
-◼️
-
-[Data](articles/3a26bf0a.json)
-
-[Extended Data](ext_articles/3a26bf0a.ext.json)
-
----
-
-### Immunoglobin Scam - Court imposes travel ban on Keheliya
-
-*2024-02-02 04:31:57* · [`dailyftlk`](https://www.ft.lk/news/Immunoglobin-Scam-Court-imposes-travel-ban-on-Keheliya/56-758050) · `en`
-
-CID informs court on previous occasion that minutes from files seized from Rambukwella on immunoglobulin procurement were missing
-
-Maligakanda Magistrate Lochani Abeywickrama imposed a travel ban on former Minister of Health Keheliya Rambukwella in connection to the case regarding the controversial immunoglobulin scam yesterday.
-
-The Magistrate also ordered Rambukwella to present himself before the Police Criminal Investigations Department (CID) at 9.00 a.m. today when the case was taken up for consideration before the court.
-
-The order was issued in consideration of the Minister’s refusal to appear before the CID on a previous occasion.
-
-Earlier this week, the CID notified the Maligakanda Magistrate Court that minutes from the files seized from former Health Minister Keheliya Rambukwella, related to the fraudulent acquisition of counterfeit immunoglobulin were missing.
-
-...
-
-[Data](articles/7d9d2cd2.json)
-
-[Extended Data](ext_articles/7d9d2cd2.ext.json)
-
----
-
-### SJB denies defection: Daya Ratnayake not joining MJP
-
-*2024-02-02 04:31:03* · [`dailyftlk`](https://www.ft.lk/news/SJB-denies-defection-Daya-Ratnayake-not-joining-MJP/56-758049) · `en`
-
-Condemns spread of false information using old photographs of duo
-
-Warns recurrence of such groundless false news will be commonplace going forward due to upcoming polls
-
-MJP also refutes reports and says they are an attempt to tarnish party’s good name
-
-Maintains images were from a previous meeting between duo who are close friends
-
-In a statement issued yesterday, the Samagi Jana Balawegaya (SJB) denied that its latest member, former Army Commander Daya Ratnayake has defected to the Mawbima Janatha Party (MJP) led by business tycoon Dilith Jayaweera.
-
-The party was forced to issue a clarification after images depicting Ratnayake in a seemingly one-on-one discussion with Jayaweera surfaced online yesterday. The images were accompanied by reports suggesting that the two had met yesterday at the MJP office in Borella, leading to speculation that Ratnayake had left the SJB to join the MJP.
-
-...
-
-[Data](articles/dfb01634.json)
-
-[Extended Data](ext_articles/dfb01634.ext.json)
-
----
-
-### Chandrika met Indian Ambassador
-
-*2024-02-02 04:28:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியத்-தூதுவரை-சந்தித்தார்-சந்திரிகா/175-332528) · `ta`
-
-Former President Chandrika has met with India's new ambassador to Sri Lanka Santosh Ja.
-
-The meeting, which was held in Colombo yesterday, discussed the recent improvements in the two -party relations between India and Sri Lanka.. (A)
-
-◼️
-
-[Data](articles/6fe3dd8f.json)
-
-[Extended Data](ext_articles/6fe3dd8f.ext.json)
-
----
-
-### Police officer injured in bursting
-
-*2024-02-02 04:12:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுதுவக்கு-வெடித்ததில்-பொலிஸ்-உத்தியோத்தர்-காயம்/175-332527) · `ta`
-
-A police officer who attempted to catch a leak man who was involved in a leak manner in Kilinochchi has been injured in a gunfight.
-
-A police officer working at the Dharmapuram police station in Kilinochchi has been admitted to the Kilinochchi District Hospital after being injured.
-
-◼️
-
-[Data](articles/04a8ddd0.json)
-
-[Extended Data](ext_articles/04a8ddd0.ext.json)
-
----
-
-### Workplace still today
-
-*2024-02-02 03:29:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பணிப்புறக்கணிப்பு/175-332526) · `ta`
-
-It has been decided to continue the workshop on the upcoming 72 health union.
-
-Health union has announced that the decision has been taken following the lack of compliance with the officials of the Ministry of Health.
-
-The health trade unions yesterday launched the workplace demanding that the 35 thousand rupees of transportation be paid to the doctors.
-
-Because of this, he was deployed in the army in hospitals across the country. (A)
-
-◼️
-
-[Data](articles/64708479.json)
-
-[Extended Data](ext_articles/64708479.ext.json)
-
----
-
-### The allegations of the president's president are unfounded
-
-*2024-02-02 02:55:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தொடர்பான-குற்றச்சாட்டுகள்-ஆதாரமற்றவை/175-332525) · `ta`
-
-Foreign Affairs Minister Taraka Balasuriya said the allegations made by some on the president's foreign tour were unfounded.
-
-He pointed out that Sri Lanka cannot be an isolated island and that it is necessary to strengthen foreign relations and establish a new foreign relationship if it is to lead the country to development, he pointed out that foreign tours are important for it.
-
-He said this at a media briefing held at the Presidential Media Center yesterday.
-
-"The criticism of the president's foreign tour is unfounded. Participating in these international conferences can strengthen the links between us and the world countries and make new contacts.. Political leaders will be able to strengthen the development activities with traders and investors in consultation with the private sector.
-
-...
-
-[Data](articles/e17daa4f.json)
-
-[Extended Data](ext_articles/e17daa4f.ext.json)
 
 ---

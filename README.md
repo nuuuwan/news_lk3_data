@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 14:02:21**
+As of **2024-02-02 14:17:23**
 
 ## Newspaper Stats
 
-*Scraped **4,336** Articles*
+*Scraped **4,338** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 272
 adalk | 385
 virakesarilk | 482
 adaderanasinhalalk | 515
-adaderanalk | 540
+adaderanalk | 542
 tamilmirrorlk | 555
 dailymirrorlk | 595
 
@@ -26,11 +26,29 @@ dailymirrorlk | 595
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,336 (100.0%) of 4,336 articles have been extended.
+4,336 (100.0%) of 4,338 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### Sri Lanka to borrow USD 150mn from World Bank
+
+*2024-02-02 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/96944/sri-lanka-to-borrow-usd-150mn-from-world-bank) · `en`
+
+The Sri Lankan government says it has made arrangements to borrow USD 150 million from the International Development Association (IDA) of the World Bank Group to finance the implementation of Financial Sector Safety Net Strengthening Project.
+
+The project is expected to strengthen Sri Lanka’s financial sector safety net with a focus on the Sri Lanka Deposit Insurance Scheme (SLDIS), which is managed by the Central Bank.
+
+The project also aims at strengthening the financial and institutional capacity of SLDIS in line with international best practices for effective deposit insurance schemes.
+
+The government says it will also support boosting the reserves of SLDIS in order to enable it to meet its payout and bank resolution obligations, safeguard the confidence of the public in the financial system and improve the capacity of the SLDIS to perform its legally mandated functions by the reduction in time required for reimbursement and by an increase in public awareness about the scheme.
+
+...
+
+[Data](articles/c15c3bd6.json)
+
+---
 
 ### Here are the parts out of the tiktak
 
@@ -103,6 +121,24 @@ Face The Nation | Freedom Lost or Freedom Gained | 31st January 2024
 [Data](articles/02c4f57e.json)
 
 [Extended Data](ext_articles/02c4f57e.ext.json)
+
+---
+
+### Dayasiri says no faith in Maithripala’s leadership
+
+*2024-02-02 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96943/dayasiri-says-no-faith-in-maithripalas-leadership) · `en`
+
+MP Dayasiri Jayasekara states that the new alliance planned to be formed by the Sri Lanka Freedom Party (SLFP) has decided to support President Ranil Wickremesinghe in the upcoming presidential election.
+
+Furthermore, MP Dayasiri claimed that none of the political parties have any faith on the alliances formed by the former President Maithripala Sirisena.
+
+“Many people don’t believe in the leadership of Maithripala Sirisena now”, he said.
+
+“I saw the last week’s rally held by Mr. [Nimal] Lanza, and noticed that they are going to back President Ranil Wickremesinghe. The alliance they are going to form… the SLFP will support Mr. Ranil Wickremesinghe. It is a problem for the SLFP supporters at the grass-root level”, he added.
+
+◼️
+
+[Data](articles/467ec177.json)
 
 ---
 
@@ -1995,51 +2031,5 @@ State Minister, Sanath Nishantha died under tragic circumstances on January 25 (
 [Data](articles/d39cf3fa.json)
 
 [Extended Data](ext_articles/d39cf3fa.ext.json)
-
----
-
-### SriLankan Airlines flying through Turbulence – CEO Richard Nuttall
-
-*2024-02-02 02:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/SriLankan-Airlines-flying-through-Turbulence-CEO-Richard-Nuttall/231-276172) · `en`
-
-With the current traffic, the airline is in a perfect position to feed it to Australia, China, Japan, Singapore, depending on where the connecting traffic is. That is where the big opportunity lies
-
-The commercial opportunity is huge. The risk is more about the country, politics and the currency
-
-There is huge potential for the national carrier given India’s booming economy
-
-Growing is a real challenge due to lack of aircraft, engines and spare parts
-
-Chief Executive Officer of SriLankan Airlines, Richard Nuttall, in an interview with Daily Mirror, discussed the way forward and the current challenges of the national carrier in the midst of efforts by the government to restructure it.
-
-Q SriLankan Airlines is the most cash-strapped government institution at the moment. You suffered losses amounting to US $ 525 million.
-
-...
-
-[Data](articles/706887c3.json)
-
-[Extended Data](ext_articles/706887c3.ext.json)
-
----
-
-### March 12 Movement
-
-*2024-02-02 02:20:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மார்ச்-12-இயக்கம்-கடும்-கண்டனம்/175-332524) · `ta`
-
-The March 12 movement has strongly condemned the illegal passage of the Act.
-
-The bill was passed in Parliament on January 24, 2024.
-
-We reiterate that the Functional Backup Bill threatens the fundamental rights and democratic policies in the Constitution of Sri Lanka.
-
-In addition, the current government is stubborn to pass this bill;It is stated that the government's aim is to silence disagreement and suppress civil activities in important events of economic reform and upcoming elections.
-
-The March 12 movement is very concerned that the Parliament has acted out by violating the rights that have been guaranteed by the Constitution in order to reconsider the judiciary before the introduction of the anti -democratic law.
-
-...
-
-[Data](articles/eb3362e0.json)
-
-[Extended Data](ext_articles/eb3362e0.ext.json)
 
 ---

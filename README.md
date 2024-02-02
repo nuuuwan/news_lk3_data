@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 05:02:28**
+As of **2024-02-03 05:17:11**
 
 ## Newspaper Stats
 
-*Scraped **4,453** Articles*
+*Scraped **4,455** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 52
+colombotelegraphcom | 54
 bbccomsinhala | 69
 dbsjeyarajcom | 132
 islandlk | 230
@@ -26,7 +26,7 @@ dailymirrorlk | 618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,453 (100.0%) of 4,453 articles have been extended.
+4,453 (100.0%) of 4,455 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -253,6 +253,28 @@ According to GMOF president Dr. Rukshan Bellana, tenders initiated during the fo
 [Data](articles/464f5963.json)
 
 [Extended Data](ext_articles/464f5963.ext.json)
+
+---
+
+### Les Enfants Du Paradis – Part II
+
+*2024-02-02 23:06:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/les-enfants-du-paradis-part-ii/) · `en`
+
+...
+
+[Data](articles/8fbc9276.json)
+
+---
+
+### Independent Of What & Whom?
+
+*2024-02-02 22:49:51* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/independent-of-what-whom/) · `en`
+
+It reminds us of the saying “Pride costs us more than hunger, thirst and cold” by Thomas Jefferson, when we see how rulers of an economically bankrupt nation are preparing themselves to celebrate their independence from the British colonialism. Even though it is true that the independence which is a process contributed by lots of men and women in the country should be celebrated and appreciated annually, the value of its financial cost is questionable at this crucial juncture where citizens are unprecedentedly taxed, inhumanely ignoring the capability of fulfilling even their basic needs. On the other hand, independence remains important and celebrate-worthy, given the fact that independence is gained from what or whom, especially how big the threat is. It is in that sense that we are able to figure out that the independence to be gained is more important and valuable than the one that our forefathers fought for.
+
+...
+
+[Data](articles/0c21676a.json)
 
 ---
 
@@ -2011,45 +2033,5 @@ In this case, Poonam Pandey died of cervical cancer today died without treatment
 [Data](articles/e3a41347.json)
 
 [Extended Data](ext_articles/e3a41347.ext.json)
-
----
-
-### Vijay registered party
-
-*2024-02-02 13:33:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-வெற்றி-கழகம்-கட்சியை-பதிவு-செய்தார்-விஜய்/175-332547) · `ta`
-
-Actor Vijay has launched a new party called "Tamil Nadu Victory Corporation". He has registered his party's name with the New Delhi Election Commission.
-
-You all know that the "Vijay People's Movement" has been doing various people's welfare programs, social services and relief assistance for many years.. However, it is impossible for a voluntary organization to bring in complete social, economic and political reforms. It requires political power.
-
-You all know about the current political environment. Administrative disorders and “corrupt political culture”
-
-On the one hand, on the one hand, on the other hand, the "divided political culture" that is trying to divide our people through caste and religious religions, on the other hand, is full of obstacles for our unity and progress.
-
-It is a real fact that everyone in Tamil Nadu, especially in Tamil Nadu, is longing for the basic political change in a selfless, open, casteist, visionary, bribery and corrupt management.
-
-◼️
-
-[Data](articles/12f61645.json)
-
-[Extended Data](ext_articles/12f61645.ext.json)
-
----
-
-### Sri Lanka to borrow USD 150mn from World Bank
-
-*2024-02-02 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/96944/sri-lanka-to-borrow-usd-150mn-from-world-bank) · `en`
-
-Sri Lanka has made arrangements to borrow USD 150 million from the International Development Association (IDA) of the World Bank Group to finance the implementation of Financial Sector Safety Net Strengthening Project.
-
-In a statement, the Finance Ministry said the project is expected to strengthen Sri Lanka’s financial sector safety net with a focus on the Sri Lanka Deposit Insurance Scheme (SLDIS), which is managed by the Central Bank.
-
-The project also aims at strengthening the financial and institutional capacity of SLDIS in line with international best practices for effective deposit insurance schemes.
-
-...
-
-[Data](articles/c15c3bd6.json)
-
-[Extended Data](ext_articles/c15c3bd6.ext.json)
 
 ---

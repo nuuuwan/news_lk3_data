@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 08:32:41**
+As of **2024-02-02 08:50:17**
 
 ## Newspaper Stats
 
-*Scraped **4,264** Articles*
+*Scraped **4,273** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,65 @@ colombotelegraphcom | 50
 bbccomsinhala | 65
 dbsjeyarajcom | 132
 islandlk | 230
-economynextcom | 239
+economynextcom | 243
 newsfirstlk | 265
 dailyftlk | 272
 adalk | 379
-virakesarilk | 469
-adaderanasinhalalk | 504
+virakesarilk | 470
+adaderanasinhalalk | 506
 adaderanalk | 529
-tamilmirrorlk | 545
-dailymirrorlk | 585
+tamilmirrorlk | 546
+dailymirrorlk | 586
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,264 (100.0%) of 4,264 articles have been extended.
+4,264 (99.8%) of 4,273 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### බෙලිඅත්ත පංච පුද්ගල ඝාතනයේ ප්‍රධාන වෙඩික්කරුගේ බිරිඳ සහ පියා අත්අඩංගුවට
+
+*2024-02-02 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192870) · `si`
+
+අපේ ජනබල පක්ෂයේ නායක සමන් පෙරේරා ඇතුලු පුද්ගලයින් 05 දෙනෙකු ඝාතන සිද්ධියේ ප්‍රධාන වෙඩික්කරු බවට සැකකෙරෙන පුද්ගලයාගේ බිරිඳ සහ පියාව පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පවසන පරිදි එම සිද්ධියේ සැකකාර වෙඩික්කරු දැනට නාවික හමුදාවෙන් විශ්‍රාම වැටුප් ලබන හිටපු නාවික හමුදා භටයෙකි.
+
+2024.01.22 දින බෙලිඅත්ත ප්‍රදේශයේදී මෙම පංච පුද්ගල ඝාතනය සිදු කෙරුණි.
+
+කලක් නාවික හමුදාවේ සේවය කර මේ වනවිට විශ්‍රාම වැටුප් ලබන නාවික හමුදා සෙබලෙකු වන මෙම ඝාතනයේ ප්‍රධාන වෙඩික්කරුගේ වයස අවුරුදු 39ක් වන බිරිඳ හා එයට අනුබල දුන් වයස අවුරුදු 72ක් වන පියා ව මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+
+හෙරොයින් ග්‍රෑම් 21යි මිලි ග්‍රෑම් 350 ක් සමග පල්ලෙවෙල පොලිස් වසමේ පාතගම, මුද්දරගම සැඟවී සිටියදී සැකකරු සහ සැකකාරිය අත්අඩංගුවට ගෙන ඇත.
+
+මොවුන්ගෙන් කරනු ලබන ප්‍රශ්න කිරීම්වලදී ප්‍රධාන වෙඩික්කරු වන විශ්‍රාමික නාවික හමුදා සෙබළා ජනවාරි මස 21 වන දින බස් රථයෙන් බෙලිඅත්ත ප්‍රදේශයට පිටව ගොස් 22 වන දින තවත් වෙඩික්කරුවන් දෙදෙනෙකු සමග මෙම ඝාතනය සිදු කර ඩුබායි රාජ්‍යය වෙත පළාගොස් ඇති බවටත් පවසා ඇත.
+
+...
+
+[Data](articles/19750040.json)
+
+---
+
+### ஜோர்தான் தாக்குதலிற்கு பதிலடி - ஈராக் சிரியாவில் உள்ள ஈரானிய இலக்குகள் மீது தாக்குதலை மேற்கொள்வதற்கு அமெரிக்க இராணுவத்திற்கு அனுமதி
+
+*2024-02-02 08:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175349) · `ta`
+
+ஜோர்தானில் அமெரிக்க இராணுவதளத்தின் மீது மேற்கொள்ளப்பட்ட தாக்குதலிற்கு பதில் தாக்குதலை மேற்கொள்வதற்கான அனுமதியை அமெரிக்கா தனது இராணுவத்திற்கு வழங்கியுள்ளது.
+
+ஈராக் சிரியாவில் உள்ள  ஈரான்நிலைகளின் மீது தாக்குதலை மேற்கொள்வதற்கு அமெரிக்க இராணுவத்திற்கு அனுமதி வழங்கப்பட்டுள்ளதாக பிபிசி தெரிவித்துள்ளது.
+
+இந்த தாக்குதல்கள் தொடர்ச்சியாக பல நாட்களிற்கு இடம்பெறும் காலநிலையை அடிப்படையாக வைத்தே தாக்குதல்களை எப்போது மேற்கொள்வது என்பது தீர்மானிக்கப்படும் என அமெரிக்க அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+ஜோர்தான் தளத்தின் மீது தாக்குதலை மேற்கொள்வதற்காக பயன்படுத்தப்பட்ட ஆளில்லா விமானம் ஈரானில் தயாரிக்கப்பட்டது என அமெரிக்க புலனாய்வு தரப்பினர் காணப்படுகின்றனர்-உக்ரைனிற்கு எதிரான தாக்குதலிற்காக ரஸ்யாவிற்கு வழங்கப்பட்ட ஈரானில் தயாரிக்கப்பட்ட ஆளில்லா விமானங்கள் போல இவை காணப்படுகின்றன எனவும் புலனாய்வு தரப்பினர் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/08575630.json)
+
+---
 
 ### Keheliya Rambukwella in CID today
 
@@ -49,6 +89,42 @@ Meanwhile, Environment Minister Keheliya Rambukwella has also been imposed on fo
 [Data](articles/d3471ad3.json)
 
 [Extended Data](ext_articles/d3471ad3.ext.json)
+
+---
+
+### අමෙරිකාව තවත් ප්‍රහාරයකට සැරසෙයි
+
+*2024-02-02 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192869) · `si`
+
+සිරියාවේ සහ ඉරාකයේ පිහිටි ඉරාන ඉලක්ක වෙත ප්‍රහාර මාලාවක් එල්ල කිරීම සඳහා වන අමෙරිකානු සැලැස්මට එරට බලධාරීන්ගේ අනුමැතිය හිමිවී තිබේ.
+
+ජෝර්දානයේ පිහිටි අමෙරිකානු කඳවුරකට ඩ්‍රෝන ප්‍රහාරයක් එල්ල කර අමෙරිකානු භටයන් තිදෙනෙකු ඝාතනය කිරීමේ සිද්ධියට ඉරාන සහාය ලබන මිලීෂියා කණ්ඩායමට චෝදනා එල්ලවී තිබුණි.
+
+අදාළ කණ්ඩායමට ඉරානයේ සහාය ලැබෙන බව අමෙරිකාව ප්‍රකාශ කළ අතර ඉරානය එය ප්‍රතික්ෂේප කරයි.
+
+එම ප්‍රහාරයෙන් අමෙරිකානු භටයන් 41 දෙනෙකු තුවාල ලැබූ අතර අමෙරිකාවට එල්ල වන ප්‍රහාර ඉවසා නොසිටින බව ඊයේ පැවති මාධ්‍ය හමුවකදී ආරක්ෂක ලේකම් ලොයිඩ් ඔස්ටින් පවසා තිබුණි.
+
+◼️
+
+[Data](articles/6c462c46.json)
+
+---
+
+### Veterinary Surgeon arrested for theft of cows
+
+*2024-02-02 07:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Veterinary-Surgeon-arrested-for-theft-of-cows/108-276177) · `en`
+
+The Veterinary Surgeon of Padaviya division and four others had been arrested on their alleged involvement in the theft of 20 head of cattle including pregnant cows on forged documents, and produced before Kebithigollewa District Judge and Magistrate by Padaviya Police.
+
+Veterinary Surgeon K.H.M.Priyantha Bandusiri and an employee of his office D.D.Palitha were released on personal bail in Rs.500,000 each and warned the former not to interfere with further investigations of the incident.
+
+Other three suspects K.Milroy Rukshan Prashantha Anthony, H.Tudor Fernando, and Jude Bardeen Ferrid Manil Silva of Welisara Ragama were remanded till February 14.
+
+Police told court that the suspect Veterinary Surgeon had issued a forged documents to transport the stolen pregnant cows and that further investigations of that documents would be transferred to Kebithigollewa Special Crime Investigation Bureau (SCIB).
+
+...
+
+[Data](articles/9382ca65.json)
 
 ---
 
@@ -125,6 +201,26 @@ The strike was launched yesterday on the strike, which has commenced three to tw
 [Data](articles/871a588e.json)
 
 [Extended Data](ext_articles/871a588e.ext.json)
+
+---
+
+### Indian envoy hopes timely progress in Adani’s wind power deal
+
+*2024-02-02 06:54:00* · [`economynextcom`](https://economynext.com/indian-envoy-hopes-timely-progress-in-adanis-wind-power-deal-149664/) · `en`
+
+ECONOMYNEXT – Indian High Commissioner for Sri Lanka Santosh Jha said the Adani’s 500 MW wind power deal in the island nation’s Northern province should progress after a better negotiation process.
+
+Sri Lankan officials have said the Adani wind power project has been facing some delays as a Cabinet Appointed Negotiation Committee (CANC) has been raising concerns over the project components.
+
+The $442 million project was given to the Indian firm as an unsolicited deal after it was changed to a government-to-government deal with Adani Green Energy was issued provisional approval for two wind projects of 286 MW in Sri Lanka’s northwestern Mannar and 234 MW in the Northern Pooneryn.
+
+“It is a commercial venture by Adani. They would be the right people to answer the question,” Santosh Jha told reporters in Colombo at a meeting with senior journalists on Thursday (01).
+
+“It should progress,” he said when asked about the delays in the project.
+
+...
+
+[Data](articles/180b97ac.json)
 
 ---
 
@@ -210,6 +306,28 @@ Just a few weeks ago, the men from Havelock Town came well prepared to take on t
 
 ---
 
+### Sri Lanka’s Colombo Port builds expertise to be key hub backed by US
+
+*2024-02-02 05:53:00* · [`economynextcom`](https://economynext.com/sri-lankas-colombo-port-builds-expertise-to-be-key-hub-backed-by-us-149687/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Colombo Port has embarked on an exercise to build technical expertise, introduce global best practices as it aims to double capacity and become a maritime hub for the region expanding its service offering.
+
+The Colombo Plan program with funding from the United States is carrying out the three-year program.
+
+“The program will build human resources as the port competes in the region as a major hub,” lead consultant to the program Rohan Masakorale said.
+
+Colombo Port has already started building terminals that will see capacity doubling to 15 million containers by 2026, Sri Lanka Ports Authority Chairman Keith Bernard said.
+
+The program will boost sustainability of maritime and port operations in Sri Lanka by introducing modern port systems, new technologies, and international best practices.
+
+The initiative will see technical training exchanges, conferences, visits to US ports and workshops conducted by both local and international experts.
+
+...
+
+[Data](articles/b746cdb9.json)
+
+---
+
 ### Changing Tamil perspectives in the struggle for independence
 
 *2024-02-02 05:43:13* · [`dailyftlk`](https://www.ft.lk/columns/Changing-Tamil-perspectives-in-the-struggle-for-independence/4-758068) · `en`
@@ -279,6 +397,24 @@ Sri Lanka and Thailand, despite being geographically distant, share historical t
 [Data](articles/0534b176.json)
 
 [Extended Data](ext_articles/0534b176.ext.json)
+
+---
+
+### A K D D Arandara appointed Chairman of Sri Lanka Telecom
+
+*2024-02-02 05:20:00* · [`economynextcom`](https://economynext.com/a-k-d-d-arandara-appointed-chairman-of-sri-lanka-telecom-149683/) · `en`
+
+ECONOMYNEXT- A K D D D Arandara, an Additional Secretary at the Department of Legal Affairs has been appointed at Chairman, Sri Lanka Telecom said in a stock exchange filing.
+
+His appointment was reviewed and recommended by the nominations and governance committee, the filing said.
+
+He has joined the public service in 2000 as Senior Assistant Secretary to the Ministry of Justice and Director General of the Consumer Affairs Authority.
+
+Arandara is a lawyer with a 25 years experience. (Colombo/Feb03/2024)
+
+◼️
+
+[Data](articles/f008f19a.json)
 
 ---
 
@@ -508,6 +644,20 @@ The party was forced to issue a clarification after images depicting Ratnayake i
 
 ---
 
+### இந்தியத் தூதுவரை சந்தித்தார் சந்திரிகா
+
+*2024-02-02 04:28:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியத்-தூதுவரை-சந்தித்தார்-சந்திரிகா/175-332528) · `ta`
+
+இலங்கைக்கான இந்தியாவின் புதிய தூதுவர் சந்தோஷ் ஜாவை முன்னாள் ஜனாதிபதி சந்திரிகா சந்தித்துக் கலந்துரையாடியுள்ளார்.
+
+கொழும்பில் நேற்று நடைபெற்ற இந்தச் சந்திப்பில் இந்தியாவுக்கும் இலங்கைக்கும் இடையிலான இரு தரப்பு உறவுகளில் அண்மையில் ஏற்பட்ட முன்னேற்றங்கள் தொடர்பில் கலந்துரையாடப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/6fe3dd8f.json)
+
+---
+
 ### Police officer injured in bursting
 
 *2024-02-02 04:12:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுதுவக்கு-வெடித்ததில்-பொலிஸ்-உத்தியோத்தர்-காயம்/175-332527) · `ta`
@@ -681,6 +831,24 @@ Former President of the Sri Lanka TNA. The general secretary has the powers rela
 [Data](articles/5b8f519b.json)
 
 [Extended Data](ext_articles/5b8f519b.ext.json)
+
+---
+
+### Sri Lanka private creditors said to be frustrated over lack of progress
+
+*2024-02-02 01:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-creditors-said-to-be-frustrated-over-lack-of-progress-149662/) · `en`
+
+ECONOMYNEXT – Some of Sri Lanka’s bondholders who were willing to negotiate a deal before a judgement was delivered in a case filed by holdout investor Hamilton Reserve, are frustrated at what is seen as no progress in discussions, sources familiar with their thinking said.
+
+While Hamilton Reserve has gone to court claiming to represent a 250 million dollar or 25 percent share in a billion-dollar bond with a so-called ‘single series’ collective action clause, a large majority of bondholders who have other bonds, have formed a committee to negotiate with Sri Lanka.
+
+Western governments including the US and France have asked that the court action be stayed until negotiations with other bondholders conclude, but prospects of a deal being concluded by the time the first deadline given by the court has now dimmed.
+
+It is not clear yet whether a second extension could be obtained from court.
+
+...
+
+[Data](articles/8fd03b65.json)
 
 ---
 
@@ -1865,179 +2033,5 @@ Expansion of the number of schools that teach existing in the school system and 
 [Data](articles/1f3c5187.json)
 
 [Extended Data](ext_articles/1f3c5187.ext.json)
-
----
-
-### Malwathu Mahanayake Thero comments on new social media laws
-
-*2024-02-01 17:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/96924/malwathu-mahanayake-thero-comments-on-new-social-media-laws-) · `en`
-
-The Chief Prelate (Mahanayake Thero) of the Malwathu Chapter Most Ven. Thibbatuwawe Sri Siddhartha Sumangalabhidhana Thero states that there is no fault in introducing new laws to control the various abuses that are being perpetrated on social media by altering the truth, for a long time.
-
-The Mahanayake Thero made this remark when a group of representatives of the International Human Rights Organization visited Maha Nayaka Thero today (Feb. 01).
-
-Speaking further, Ven. Thibbatuwawe Sri Siddhartha Sumangalabhidhana Thero expressed that some groups of people defamed him as well on social media in the past with no basis.
-
-However, the Mahanayake Thero further added that people who use social media should have no hindrances in using them freely, adding that if the government regulates social media without political objectives, people will not oppose the relevant regulations.
-
-◼️
-
-[Data](articles/fe6ab59d.json)
-
-[Extended Data](ext_articles/fe6ab59d.ext.json)
-
----
-
-### Sri Lanka central bank appoints six Assistant Governers
-
-*2024-02-01 17:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-appoints-six-assistant-governers-149660/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank said C Amarasekara, W A Dilrukshini, P K G Harischandra, D S W Samaratunga, E H Mohotty and R D T Gunasekara have been appointed as Assistant Governors with effect from January 22, 2024.
-
-...
-
-[Data](articles/5b189ff6.json)
-
-[Extended Data](ext_articles/5b189ff6.ext.json)
-
----
-
-### Face The Nation | Freedom Lost or Freedom Gained | 31st January 2024
-
-*2024-02-01 17:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/face-the-nation-freedom-lost-or-freedom-gained-31st-january-2024/) · `en`
-
-Face The Nation | Freedom Lost or Freedom Gained | 31st January 2024
-
-Face The Nation | Freedom Lost or Freedom Gained | 31st January 2024
-
-The People’s Platform | Conversations From The Galle Literary Festival | Christina Lamb
-
-Nine Activists Released on Bail After Protest Demanding Ex-Minister’s Arrest
-
-◼️
-
-[Data](articles/70177b02.json)
-
-[Extended Data](ext_articles/70177b02.ext.json)
-
----
-
-### CEB Spent Over Rs. 130 Mn on Private Lawyers in 2022-2023
-
-*2024-02-01 17:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/ceb-spent-over-rs-130-mn-on-private-lawyers-in-2022-2023/) · `en`
-
-COLOMBO (News 1st);  The Ceylon Electricity Board Engineers' Union has expressed concern over the CEB's rising legal expenses, attributing it to the use of private lawyers against the decisions reached by the country's Cabinet of Ministers.
-
-The CEBEU raised their concerns with Dr. Sulakshana Jayawardena, Secretary of the Ministry overseeing the CEB, in a letter.
-
-The Ceylon Electricity Board Engineers Union in a letter to the Energy Secretary noted that as per a decision reached by the cabinet, any official within a government institution found to have used public funds to secure the services of private lawyers will be personally responsible for reimbursing the expended amount.
-
-They highlighted that despite the regulations, the board continued to utilize private legal services instead of seeking support from the Attorney General's Department in most cases last year.
-
-According to the CEB Engineers' Union, the CEB spent over 130 million rupees on legal fees in 2022 and 2023 combined.
-
-...
-
-[Data](articles/f0ebc110.json)
-
-[Extended Data](ext_articles/f0ebc110.ext.json)
-
----
-
-### Attorneys released on bail
-
-*2024-02-01 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192849) · `si`
-
-A amateur lawyer in the Attanagalla Magistrate's Court had summoned the case from court to Kalagedihena, including a lawyer and lawyers, at Attanagalla court yesterday.
-
-The five suspects were produced in court and the Attanagalla Magistrate Manjula Karunaratne has released on bail of Rs.
-
-◼️
-
-[Data](articles/4f25399e.json)
-
-[Extended Data](ext_articles/4f25399e.ext.json)
-
----
-
-### Face to Face | Sajin Vass Gunawardena | From Friend to Foe
-
-*2024-02-01 17:35:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/face-to-face-sajin-vass-gunawardena-from-friend-to-foe/) · `en`
-
-Face The Nation | Freedom Lost or Freedom Gained | 31st January 2024
-
-The People’s Platform | Conversations From The Galle Literary Festival | Christina Lamb
-
-Nine Activists Released on Bail After Protest Demanding Ex-Minister’s Arrest
-
-◼️
-
-[Data](articles/045b59de.json)
-
-[Extended Data](ext_articles/045b59de.ext.json)
-
----
-
-### Sri Lanka trade minister seeks to increase South Korea FDI, exports
-
-*2024-02-01 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-trade-minister-seeks-to-increase-south-korea-fdi-exports-149644/) · `en`
-
-ECONOMYNEXT – Sri Lanka is looking to expand bilateral trade and investment with South Korea, its minister of trade has said.
-
-Minister of Trade, Commerce and Food Security Nalin Fernando met South Korea Ambassador Miyon Lee to discuss investment and increasing exports.
-
-“We discussed ways to expand the existing bilateral ties in the fields of Trade and Investment,” Fernando said on social media platform X.com after the meeting.
-
-The discussions focused on increasing exports of coir products, coconut shell charcoal, rubber and spices from Sri Lanka, and attracting more Korean foreign investments into Sri Lanka, according to a statement by the Department of Government Information.
-
-There were opportunities for Korean buyers to directly access gems and jewelry, tourism promotion, potential for flights from Sri Lanka to Korea, as well as to make investments in sustainable energy especially in wind power, Fernando said.
-
-...
-
-[Data](articles/6a25ff55.json)
-
-[Extended Data](ext_articles/6a25ff55.ext.json)
-
----
-
-### The People’s Platform | Conversations From The Galle Literary Festival | Christina Lamb
-
-*2024-02-01 17:24:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/the-people%e2%80%99s-platform-conversations-from-the-galle-literary-festival-christina-lamb/) · `en`
-
-The People’s Platform | Conversations From The Galle Literary Festival | Christina Lamb
-
-Face The Nation | Freedom Lost or Freedom Gained | 31st January 2024
-
-The People’s Platform | Conversations From The Galle Literary Festival | Christina Lamb
-
-Nine Activists Released on Bail After Protest Demanding Ex-Minister’s Arrest
-
-◼️
-
-[Data](articles/0fb431a7.json)
-
-[Extended Data](ext_articles/0fb431a7.ext.json)
-
----
-
-### Bus fares to remain unchanged - NTC
-
-*2024-02-01 17:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/96923/bus-fares-to-remain-unchanged-ntc) · `en`
-
-The National Transport Commission (NTC) has announced that bus fares will not be increased, despite the recent revision in fuel prices.
-
-Earlier today (01 Feb.), the private bus owners’ associations urged for immediate measures to be taken to increase the bus fares in correspondence to the continuous increasing of fuel prices.
-
-Commenting regarding the matter, the chief secretary of the All-Ceylon Private Bus Owners’ Association, Anjana Priyanjith said: “Earlier, the price of diesel was raised by Rs. 29 per litre, and then the relevant prices were increased again by Rs. 05 yesterday. Therefore, the bus fares must be increased”.
-
-The Ceylon Petroleum Corporation (CEYPETCO), Lanka IOC, and Sinopec had implemented fuel price revisions with effect from midnight yesterday.
-
-Accordingly, the price of Petrol 92 Octane has been increased by Rs. 05 to Rs. 368 per litre while Petrol 95 Octane has been reduced by Rs. 08 to Rs. 456 per litre.
-
-...
-
-[Data](articles/e3212232.json)
-
-[Extended Data](ext_articles/e3212232.ext.json)
 
 ---

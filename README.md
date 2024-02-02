@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 10:50:42**
+As of **2024-02-02 11:02:18**
 
 ## Newspaper Stats
 
@@ -26,63 +26,71 @@ dailymirrorlk | 588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,290 (99.9%) of 4,294 articles have been extended.
+4,294 (100.0%) of 4,294 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
 
-### கட்டு துப்பாக்கி வெடித்ததில் பொலிஸ்  உத்தியோத்தர்  ஒருவர் படுகாயம்
+### A police officer injured in a gun explosion
 
 *2024-02-02 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175358) · `ta`
 
-கிளிநொச்சி தர்மபுரம் பொலிஸ் நிலையத்தில் கடமையாற்றும் பொலிஸ் உத்தியோகத்தர் ஒருவரே இவ்வாறு காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+A police officer working at the Dharmapuram police station in Kilinochchi has been admitted to the hospital.
 
-நேற்று  வியாழக்கிழமை (01) தருமபுரம் பொலிஸ் பிரிவுக்குற்பட்ட கோரமோட்டை பகுதியில் சட்டவிரோத கசிப்பு உற்பத்தி இடம் பெறுவதாக கிடைக்கப்பெற்ற தகவலுக்கு அமைவாக அப்பகுதிக்கு விரைந்த  தருமபுரம் பொலிஸார் குறித்த செயற்பாட்டில் ஈடுபட்ட சந்தேக நபரை கைது செய்ய முற்பட்ட வேளை  சந்தேக நபர் அங்கிருந்து தப்பி ஒடியுள்ளார்.
+The suspect has fled the scene when the Dharmapuram police rushed to the area on Thursday (01), who rushed to the area in accordance with information available in the Koramotta area of the Dharmapuram police division.
 
-அதன்போது அவரை கைது செய்யும் நோக்கில் துரத்திச் சென்ற வேளை மிருக வேட்டைக்காக வைக்கப்பட்டிருந்த கட்டுதுவக்கு வெடித்ததில் 37 வயதுடைய பொலிஸ் உத்தியோகத்தர் ஒருவர் படுகாயம் அடைந்த நிலையில் தர்மபுரம் வைத்தியசாலையில் அனுமதிக்கப்பட்டு, அங்கிருந்து மேலதிக சிகிச்சைகளுக்காக கிளிநொச்சி  பொது வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+A 37 -year -old police officer was admitted to the Dharmapuram Hospital after he was injured when he was chased away for arrest.
 
 ◼️
 
 [Data](articles/be8cdc3b.json)
 
+[Extended Data](ext_articles/be8cdc3b.ext.json)
+
 ---
 
-### තවත් සැකකරුවන් 703ක් අත්අඩංගුවට
+### 703 suspects arrested
 
 *2024-02-02 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192874) · `si`
 
-ගතවු පැය 24 තුළ දිවයින පුරා සිදුකළ මෙහෙයුම්වලින් සැකකරුවන් 703 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+703 suspects have been arrested in the last 24 hours.
 
-පොලීසිය පැවසුවේ මත්ද්‍රව්‍ය වැරදි සම්බන්ධ සැකකරුවන් 525ක් සහ අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ සිටි සැකකරුවන් 178ක් ඒ අතර වන බවය.
+Police said that 525 suspects in the list of drug misbehavior and 178 suspects on the list of criminal sections.
 
-මත්ද්‍රව්‍ය වැරදි සම්බන්ධ අත්අඩංගුවට ගත් සැකකරුවන් 525 දෙනා අතරින් සැකකරුවකු රැඳවුම් නියෝග මත වැඩිදුර විමර්ශන සිදුකරන අතර මත්ද්‍රව්‍යවලට ඇබ්බැහිවූවන් 06 ක් පුනරුත්ථාපනය සඳහා යොමුකර ඇත.
+Among the 525 arrested suspects involved in drug misconduct is conducting further investigations and six drug addicts have been sent to rehabilitate.
 
-පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශය සහ පොලිස් විශේෂ කාර්යංශයේ ලැයිස්තුවේ සිටි සැකකරුවන් 04 ක්ද අත්අඩංගුවට ගෙන තිබේ.
+Four suspects were also arrested in the list of the Police Narcotics Bureau and the Police Special Secretariat.
 
-අපරාධ අංශවෙත යොමු කළ ලැයිස්තුවේ අත්අඩංගුවට ගත් සැකකරුවන් 178 දෙනා අතරින් මත්ද්‍රව්‍ය වැරදි සම්බන්ධව විවෘත වරෙන්තු නිකුත්ව සිටි සැකකරුවන් 11 ක් සහ මත්ද්‍රව්‍ය නොවන වැරදි සම්බන්ධව විවෘත වරෙන්තුකරුවන් 156 ක්ද සිටින බව පොලීසිය පැවසීය.
+The police said that among the 178 suspects arrested on the list of the Criminal Sector, there are 11 suspects in the open warrants and non-drug errands regarding drugs.
 
-ඇඟිලි සටහන් මාධ්‍යයෙන් හඳුනාගෙන අත්අඩංගුවට ගෙන නොමැතිව සිටි සැකකරුවන් දෙදෙනෙක් සහ අපරාධවලට අවශ්‍ය කරන සැකකරුවන් 09 ක්ද මෙහෙයුම්වලදී අත්අඩංගුවට ගෙන තිබේ.
+Two suspects and nine suspects have been arrested in the operation and nine suspects who were not arrested in the media.
 
 ◼️
 
 [Data](articles/4cd455d3.json)
 
+[Extended Data](ext_articles/4cd455d3.ext.json)
+
 ---
 
-### கிளிநொச்சி - ஆனையிறவு விபத்தில் மேலும் ஒருவர் உயிரிழப்பு
+### Kilinochchi - One person dies in an elephant accident
 
 *2024-02-02 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175356) · `ta`
 
-கிளிநொச்சி - ஆனையிறவு பகுதியில் இடம்பெற்ற விபத்தில் சிக்கிய குடும்பஸ்தர் ஒருவர் சிகிச்சை பலனின்றி நேற்றையதினம் உயிரிழந்துள்ளார். இதன்போது கிளிநொச்சி - சாந்தபுரம் பகுதியைச் சேர்ந்த கோபாலசிங்கம் சதீஸ்குமார் (வயது 25) என்ற இரண்டு பிள்ளைகளின் தந்தையே இவ்வாறு உயிரிழந்துள்ளார்.
+A family member who was involved in an accident in Kilinochchi - Elephant. The father of two children, Gopalasingham Sathiskumar (age 25), from Kilinochchi - Shantapuram, died.
 
-கடந்த சில தினங்களுக்கு முன்னர் குறித்த குடும்பஸ்தர் கிளிநொச்சி - ஆனையிறவு பகுதியில் இருந்து இரணைமடுவுக்கு மாடுகளை கொண்டு சென்றுள்ளார். இதன்போது வீதியால் வந்த அரச பஸ் குறித்த நபரையும் அவரது 8 மாடுகளையும் மோதிவிட்டு, தவறான பக்கத்துக்கு சென்று, எதிரே வந்த ஹையேஸ் ரக வாகனத்தையும் மோதியது.
+A few days ago, the family of the Kilinochchi - Elephant Passal. The man collided with the man and his 8 cows on the road, which went to the wrong side, and the Haiyas vehicle in the opposite direction crashed.
 
-இதன்போது 8 மாடுகளும், இளம் குடும்பப்பெண் ஒருவரும் சம்பவ இடத்திலேயே உயிரிழந்ததுடன், குறித்த நபர் கிளிநொச்சி வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு பின்னர் அங்கிருந்து யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு அங்கு அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்துள்ளார்.
+Eight cows and a young woman died on the spot and the man was taken to the Kilinochchi Hospital and was later taken to the Jaffna Teaching Hospital.
 
-...
+In this case, he died yesterday without treatment. Sudden Death Investigation Officer Namasivayam Premkumar. Police said during the death investigation. The body was handed over to relatives after anatomical examination.
+
+◼️
 
 [Data](articles/90a99ccf.json)
+
+[Extended Data](ext_articles/90a99ccf.ext.json)
 
 ---
 
@@ -257,6 +265,8 @@ The Deputy Solicitor General also told the court that one of the reasons provide
 ...
 
 [Data](articles/9ebb1908.json)
+
+[Extended Data](ext_articles/9ebb1908.ext.json)
 
 ---
 

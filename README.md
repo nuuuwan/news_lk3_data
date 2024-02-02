@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 06:53:36**
+As of **2024-02-02 07:15:46**
 
 ## Newspaper Stats
 
-*Scraped **4,242** Articles*
+*Scraped **4,250** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 132
 islandlk | 230
 economynextcom | 239
 newsfirstlk | 265
-dailyftlk | 267
+dailyftlk | 272
 adalk | 378
-virakesarilk | 467
+virakesarilk | 469
 adaderanasinhalalk | 501
-adaderanalk | 528
+adaderanalk | 529
 tamilmirrorlk | 540
 dailymirrorlk | 581
 
@@ -26,11 +26,111 @@ dailymirrorlk | 581
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,239 (99.9%) of 4,242 articles have been extended.
+4,242 (99.8%) of 4,250 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### Evening thundershowers possible in several provinces
+
+*2024-02-02 06:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/96932/evening-thundershowers-possible-in-several-provinces) · `en`
+
+Several spells of showers will occur in Eastern and Uva provinces, as well as in Matale and Polonnaruwa districts, the Department of Meteorology says.
+
+Showers or thundershowers may occur at a few places in Central, Sabaragamuwa and Southern provinces after 4.00 p.m.
+
+Misty conditions can be expected at some places in Central and Sabaragamuwa provinces and Galle and Matara districts during the morning.
+
+The public is urged to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Showers or thundershowers will occur at several places in the sea areas off the coast extending from Mullaitivu to Hambantota via Trincomalee and Batticaloa.
+
+Showers or thundershowers may occur at a few places in the sea areas off the coast extending from Puttalam to Galle via Colombo during the evening or night.
+
+Winds will be north-easterly or easterly and wind speed will be 20-30 kmph.
+
+...
+
+[Data](articles/9aeab7fd.json)
+
+---
+
+### Nippon Paint Rugby League 2023/24 – Week 8 Preview
+
+*2024-02-02 06:00:14* · [`dailyftlk`](https://www.ft.lk/opinion/Nippon-Paint-Rugby-League-2023-24-Week-8-Preview/14-758078) · `en`
+
+Just a few weeks ago, the men from Havelock Town came well prepared to take on the dominating and unbeaten Ceylonese Rugby and Football Club, and turned the chips in their favour to bamboozle the home team in the first half. Being the second team on that weekend that believed in the old saying “the best form of defence is attack”, they pounced on the Hosts from the word go, before the red Jerseys could ever think of settling down.
+
+...
+
+[Data](articles/9ee67204.json)
+
+---
+
+### Changing Tamil perspectives in the struggle for independence
+
+*2024-02-02 05:43:13* · [`dailyftlk`](https://www.ft.lk/columns/Changing-Tamil-perspectives-in-the-struggle-for-independence/4-758068) · `en`
+
+Independence Day would be a day of joy and happiness. But that has not been so for the Ilankaith Thamizhar of Sri Lanka for many, many years – Pic by Shehan Gunasekara
+
+Sri Lanka known formerly as Ceylon gained independence from British rule on 4 February 1948. The island nation celebrates the 76th anniversary of her “tryst with destiny” on Sunday. Events marking freedom day festivity are scheduled for the week-end.
+
+Even as the greater part of the island is enveloped in a melodious mood, a discordant note is struck in the Tamil dominated Northern Province and the Tamil majority Eastern Province. The Jaffna University Students Union and organisations representing the families of disappeared persons have proclaimed 4 February 2024 as a “Kari Naal” (black or dark day) and declared it as a day of mourning.
+
+...
+
+[Data](articles/f5cda53c.json)
+
+---
+
+### Electoral prospects spark optimism for Sri Lanka’s underprivileged
+
+*2024-02-02 05:38:22* · [`dailyftlk`](https://www.ft.lk/columns/Electoral-prospects-spark-optimism-for-Sri-Lanka-s-underprivileged/4-758067) · `en`
+
+The forthcoming general election holds promise for Sri Lanka’s impoverished majority – Pic by Shehan Gunasekara
+
+As the spectre of a general election looms over Sri Lanka, the political elite and the economically powerful are gripped with panic. Recent newspaper articles have been rife with speculations about the potential upheaval that such an election could bring. However, amidst their apprehension, it’s crucial to recognise that elections present a beacon of hope, particularly for the impoverished masses of Sri Lanka.
+
+The anticipation of a general election has sent shockwaves through the corridors of power, primarily because it threatens to dismantle the entrenched privileges enjoyed by a select few. Despite the prevailing economic and debt crises plaguing the nation, a significant segment of society continues to benefit from a system riddled with corruption, mismanagement, and poor governance.
+
+...
+
+[Data](articles/47a4daa0.json)
+
+---
+
+### Thai central bank chief says current policy rate neutral, economy not in crisis
+
+*2024-02-02 05:31:23* · [`dailyftlk`](https://www.ft.lk/business/Thai-central-bank-chief-says-current-policy-rate-neutral-economy-not-in-crisis/34-758064) · `en`
+
+BANGKOK (Reuters): Thailand’s central bank chief, under fire from the prime minister for not cutting rates, said slower-than-expected economic growth was not a crisis as portrayed by the government, nor would it be revived by its quick-hit stimulus measures.
+
+The Bank of Thailand’s current policy rate is broadly neutral, Sethaput Suthiwartnarueput told Reuters on Tuesday ahead of the central bank’s next rate meeting on 7 Feb. adding that the country was not facing a deflationary situation.
+
+His comments came after Prime Minister Srettha Thavisin – a real estate mogul and political newcomer – urged the central bank to cut the policy rate, which is at a decade-high of 2.50%, to help revive the economy.
+
+“If you want to raise the long-term potential growth rate, you’ve got to do the structural stuff. You’ve got to get productivity up. But the way to get there is not just by engaging in short-term stimulus type measures,” Sethaput said.
+
+...
+
+[Data](articles/c83fed20.json)
+
+---
+
+### Fostering economic ties: Sri Lanka-Thailand Business Council
+
+*2024-02-02 05:29:35* · [`dailyftlk`](https://www.ft.lk/business/Fostering-economic-ties-Sri-Lanka-Thailand-Business-Council/34-758063) · `en`
+
+In an era where globalisation and interconnected economies play a pivotal role, fostering bilateral economic relationships is crucial for the growth and development of nations. The Sri Lanka-Thailand Business Council emerges as a significant platform, facilitating collaboration and synergy between two dynamic nations in South Asia and Southeast Asia. This article explores the importance of the council, its objectives, and the potential it holds in enhancing trade, investment, and cultural ties between Sri Lanka and Thailand.
+
+Sri Lanka and Thailand, despite being geographically distant, share historical ties and cultural affinities. Both nations have vibrant economies with unique strengths, making them ideal partners for collaboration. Recognising the untapped potential in their relationship, the Sri Lanka-Thailand Business Council was established in the year 2000 by five founder members, to serve as a catalyst for increased economic and business cooperation.
+
+...
+
+[Data](articles/0534b176.json)
+
+---
 
 ### Six new Assistant Governors at CBSL
 
@@ -891,6 +991,40 @@ Subsequently, the High Commissioner and Ambassadors appointed on Thursday (01) h
 [Data](articles/91225008.json)
 
 [Extended Data](ext_articles/91225008.ext.json)
+
+---
+
+### சுதந்திர தின நிகழ்வுகளை குழப்பும் எதிர்க்கட்சிகளின் திட்டத்துக்கு மக்கள் துணைபோகக்கூடாது - ஐக்கிய தேசிய கட்சி
+
+*2024-02-01 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175343) · `ta`
+
+வங்குரோத்து நிலையில் இருந்த நாட்டை அதில் இருந்து மீட்ட நிலையில் நாட்டின் சுதந்திர தினத்தை கொண்டாட கிடைத்திருப்பது பெரும் பாக்கியமாகும்.
+
+என்றாலும் சுதந்திர தின நிகழ்வுகளை குழப்புவதற்கு எதிர்க்கட்சிகள் பல்வேறு நாசகார செயல்களில் ஈடுபட்டு வருகின்றன. மக்கள் அதற்கு இடமளிக்கக்கூடாது என ஐக்கிய தேசிய கட்சியின் அரசியல்குழு உறுப்பினர் சாந்தினி கோன்கஹகே தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் வியாழக்கிழமை (01) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு  கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+மக்கள் கடந்த ஒன்றரை வருடத்துக்கு முன்னர் பல்வேறு அடிப்படை வசதிகள் இல்லாமல் கஷ்டப்பட்டுக்கொண்டிருந்த நிலையில் ஜனாதிபதி ரணில் விக்ரமசிங்க நாட்டை பொறுப்பேற்று, மிகவும் கஷ்டத்துக்கு மத்தியில் நாட்டின் பொருளாதாரத்தை ஸ்திர நிலைக்கு கொண்டுவர நடவடிக்கை எடுத்து வருகிறார்.
+
+...
+
+[Data](articles/ac574c0b.json)
+
+---
+
+### அரசாங்கத்தின் கொள்கைப் பிரகடன உரை மீதான சபை ஒத்திவைப்பு விவாதம் 08ஆம் 09ஆம் திகதிகளில் -  பாராளுமன்ற செயலாளர் நாயகம்
+
+*2024-02-01 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175344) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் எதிர்வரும் 07ஆம் திகதி புதன்கிழமை பாராளுமன்றத்தில் முன்வைக்கப்படவுள்ள அரசாங்கத்தின் கொள்கைப் பிரகடனம் குறித்த சபை ஒத்திவைப்பு விவாதத்தை எதிர்வரும் 08ஆம் 09ஆம் திகதிகளில் நடத்துவதற்கு தீர்மானிக்கப்பட்டதாக பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹனதீர தெரிவித்தார்.
+
+சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் வியாழக்கிழமை (01) பாராளுமன்றத்தில் நடைபெற்ற கட்சித் தலைவர்கள் கூட்டத்தின் பாேதே இவ்வாறு தீர்மானிக்கப்பட்டதாகவும் செயலாளர் தெரிவித்தார்.
+
+அதற்கு அமைய ஒன்பதாவது பாராளுமன்றத்தின் ஐந்தாவது கூட்டத்தொடர் எதிர்வரும்  07ஆம் திகதி  ஜனாதிபதி தலைமையில் வைபரீதியாக ஆரம்பித்துவைக்கப்படவிருப்பதுடன், அன்றையதினம் பாராளுமன்றத்துக்குத் தலைமை தாங்கும் ஜனாதிபதியினால்  காலை 10.30 மணிக்கு அரசாங்கத்தின் கொள்கைப் பிரகடனம் முன்வைக்கப்படவுள்ளது. கொள்கை பிரகடன உரையை தொடர்ந்து பாராளுமன்றம் மறுநாள் காலை 9,30 மணிவரை ஜனாதிபதியால் ஒத்திவைக்கப்படும்.
+
+...
+
+[Data](articles/326fdb67.json)
 
 ---
 
@@ -1875,175 +2009,5 @@ Every time fuel price revisions had taken place, as responsible bus associations
 [Data](articles/d0569ca9.json)
 
 [Extended Data](ext_articles/d0569ca9.ext.json)
-
----
-
-### Other than doctors
-
-*2024-02-01 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175311) · `ta`
-
-72 health sector trade unions across the country have launched a workforce struggle from 6.30 am today (01).
-
-Patients who visited the clinic, outpatient unit and pharmacy have faced various amazement due to this workforce.
-
-Vavuniya District General Hospital Nurses, Sinhalese, Palmasis and Technologists are engaged in the workplace today.
-
-◼️
-
-[Data](articles/95085c64.json)
-
-[Extended Data](ext_articles/95085c64.ext.json)
-
----
-
-### The fifth session of Parliament on the 7th is the beginning
-
-*2024-02-01 16:13:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7ஆம்-திகதி-பாராளுமன்றத்தின்-ஐந்தாவது-அமர்வு-ஆரம்பம்/175-332488) · `ta`
-
-The Fifth Session of Parliament will be inaugurated by President Ranil Wickremesinghe at 10.30 am on the 7th of this month.
-
-Deputy Secretary General of Parliament and Chief Minister Saminda Gularatne said the president would present his policy declaration.
-
-The Parliamentary Affairs Committee has decided to hold the debate on the policy report from 9.30 am to 5.30 pm today (1).
-
-The Committee on Parliamentary Affairs met today (01) at the Parliamentary Building Building under the chairmanship of Speaker Mahinda Yapa Abeywardena.
-
-Accordingly, the Heads of Defense Department have decided to implement a special security program in the event of Parliament on the 7th of this month.
-
-◼️
-
-[Data](articles/184b4c69.json)
-
-[Extended Data](ext_articles/184b4c69.ext.json)
-
----
-
-### Mysterious death of a school boy;14 days of explanation for the supervisor woman again
-
-*2024-02-01 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175304) · `ta`
-
-The Kalmunai Magistrate has ordered the postponement of the case to be remanded for 14 days, and the case was postponed until February 13.
-
-Kalmunai Magistrate MSM Samsudheen was again ordered to appear again on Wednesday (31st) after the suspicion of the police superintendent of the school was arrested by the Kalmunai headquarters in connection with the death of a boy who was placed in the Children's Probation School in the Kalmunai Headquarters Division of the Ampara District.
-
-The applications of the police and the defendant's lawyer have been investigated as the case has been taken up and ordered to be remanded again, Supervisor of the 28 -year -old school.
-
-◼️
-
-[Data](articles/8d8266aa.json)
-
-[Extended Data](ext_articles/8d8266aa.ext.json)
-
----
-
-### The news spreading on social websites is false
-
-*2024-02-01 16:00:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-வலைத்தளங்களில்-பரவும்-செய்தி-பொய்யானது/175-332487) · `ta`
-
-There is a report on social media that former Army Commander Daya Ratnayake has joined the Mawpima Janata Party with the United People's Power.
-
-This is a false news and that such an incident has not happened, the presidential election chief Sujeewa Senasinghe said.
-
-Such fake campaigns can take place in the future, as the old photo is an old photo and a political propaganda using such a photo and condemning the United People's Power.
-
-"I would like to point out that if you have inquired from the concerned General Daya Ratnayake before publishing such photos, I would like to point out that it would have been a good media practice," said presidential election chief Sujeewa Senasinghe.
-
-◼️
-
-[Data](articles/66ce228c.json)
-
-[Extended Data](ext_articles/66ce228c.ext.json)
-
----
-
-### SriLankan delays to the third time
-
-*2024-02-01 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192842) · `si`
-
-The State Enterprise Restriction Unit has decided to extend the period of the Presentation Scheme for the restructuring of SriLankan Airlines.
-
-This is the third occasion of the summoning of the aspirations since the privatization process of privatization.
-
-The third time is extended to the third time, marking the privatization of privatization of SriLankan Airlines.
-
-As an important step in the Government Economic Reforms Program, the ambition of the ambition was taken to buy the ambition to purchase ambitions on October 31 last year.
-
-However, the state enterprise restructuring unit decided to extend the ambition to the SriLankan Airlines, as there was insufficient attraction to December 18th this year.
-
-It is reported that it has been extended to the third term until the 16th of this year.
-
-Under the restructuring of the state owned enterprises, SriLankan Airlines is under the recommendation of the International Monetary Fund.
-
-...
-
-[Data](articles/2ac32397.json)
-
-[Extended Data](ext_articles/2ac32397.ext.json)
-
----
-
-### Ceremonial opening of Fifth Session of Ninth Parliament on Feb.07
-
-*2024-02-01 15:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96920/ceremonial-opening-of-fifth-session-of-ninth-parliament-on-feb07) · `en`
-
-The ceremonial opening of the Fifth Session of the Ninth Parliament is scheduled to be presided over by President Ranil Wickremesinghe on 07 February (Wednesday).
-
-The Legislative Services Department of the Parliament communicated this while announcing the business of the House of Parliament for the first sitting week of February 2024 as decided by political party leaders.
-
-A special meeting of party leaders was convened earlier today (Feb.01), chaired by Speaker Mahinda Yapa Abeywardena.
-
-Sri Lanka Parliament was prorogued with effect from midnight on 26 January, marking the closure of the Fourth Session of the Ninth Parliament. The prorogation was communicated via a proclamation published in the government gazette by virtue of the powers vested in the President by Article 70 of the Constitution.
-
-...
-
-[Data](articles/a8fc679f.json)
-
-[Extended Data](ext_articles/a8fc679f.ext.json)
-
----
-
-### All Ceylon Private Bus Association
-
-*2024-02-01 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175307) · `ta`
-
-Increase bus fares by 10 percent for fuel prices. We will give the government 15 days. All Ceylon Private Bus Association President Gemunu Wijeratne said that if the tariff is increased, we will show our strength.
-
-He was speaking at a media briefing held in Colombo on Thursday (01).
-
-There is a huge problem in determining bus fares due to a change in fuel prices every month. Fuel prices have been increased with effect from yesterday.
-
-We make requests to the government to revise the bus fare when fuel prices are increased.
-
-The fuel fare increases every month. But it is practically impossible that the bus fare should be amended twice a year.
-
-Amidst the cost of living, the price of vehicle parts has been increased manifold.
-
-So we are sure that the bus fare should be increased this time. We cannot continue the service if we do not revise the cost of fuel costs.
-
-The bus fare should be increased by 10 percent for the current fuel price.
-
-...
-
-[Data](articles/871c3b6a.json)
-
-[Extended Data](ext_articles/871c3b6a.ext.json)
-
----
-
-### ICC's biggest work in Colombo
-
-*2024-02-01 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192841) · `si`
-
-Travel and Sports Minister Harin Fernando says Sri Lanka has hosted the International Cricket Council Annual General Meeting.
-
-The X11 message states that the ICC Annual General Meeting will be held in Colombo.
-
-The minister also states that it will provide a lot of strength to the growth of cricket and tourism industry.
-
-◼️
-
-[Data](articles/5fa9bad9.json)
-
-[Extended Data](ext_articles/5fa9bad9.ext.json)
 
 ---

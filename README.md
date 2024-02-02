@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 17:33:07**
+As of **2024-02-02 17:52:59**
 
 ## Newspaper Stats
 
-*Scraped **4,387** Articles*
+*Scraped **4,388** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 272
 adalk | 387
 virakesarilk | 493
 adaderanasinhalalk | 528
-adaderanalk | 550
+adaderanalk | 551
 tamilmirrorlk | 558
 dailymirrorlk | 605
 
@@ -26,27 +26,49 @@ dailymirrorlk | 605
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,384 (99.9%) of 4,387 articles have been extended.
+4,388 (100.0%) of 4,388 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
 
-### සෞඛ්‍ය වැඩ වර්ජනය අවසන්
+### The health strike is over
 
 *2024-02-02 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192893) · `si`
 
-සෞඛ්‍ය වැඩ වර්ජනය හෙට (03) පෙරවරු 06.30න් පසු ව අවසන් කරන බව සෞඛ්‍ය වෘත්තීය සමිති පවසයි.
+The health strike will be completed tomorrow (03) after 06.
 
-සෞඛ්‍ය වෘත්තීයවේදීන්ගේ විද්වත් සංගමයේ සභාපති රවී කුමුදේශ් මහතා මේ බව අවධාරණය කර ඇත.
+The Chairman of the Indigenous Association of Health Professional Association (Virlogy) has emphasized this.
 
-අද පස්වරුවේ පැවති සාකච්ඡාවෙන් අනතුරුව මෙම තීරණයට එළැඹුණ බව අද පැවති මාධ්‍ය හමුවක දී ඒ මහතා ප්‍රකාශ කළේ ය.
+He was speaking at a press conference held today after the discussion held this afternoon.
 
-කෙසේ වෙතත් එළැඹෙන අඟහරුවාදා දිනයේ නැවත සාකච්ඡාවක් සිදු කර බදාදා දිනයේ සිට වැඩවර්ජනය යළි ක්‍රියාත්මක කරනවා ද නැද්ද යන්න තීරණය කරන බව ද වෘත්තීය සමිති සමාජිකයෝ වැඩිදුරටත් පවසති.
+However, trade union members further say whether or not the strike will be reunited on Tuesdays.
 
 ◼️
 
 [Data](articles/0684545c.json)
+
+[Extended Data](ext_articles/0684545c.ext.json)
+
+---
+
+### Ahead of election, Pakistan seals plan to sell national airline
+
+*2024-02-02 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96954/ahead-of-election-pakistan-seals-plan-to-sell-national-airline) · `en`
+
+Ahead of elections next week, Pakistan’s caretaker administration is making binding plans for a new government to sell loss-making Pakistan International Airlines, according to the minister in charge of the process and other officials.
+
+In the past, elected governments have shied away from undertaking unpopular reforms, including the sale of the flag carrier. But Pakistan, in deep economic crisis, agreed in June to overhaul loss-making state-owned enterprises under a deal with the International Monetary Fund (IMF) for a $3 billion bailout.
+
+The government decided to privatise PIA just weeks after signing the IMF agreement.
+
+The caretaker administration, which took office in August to oversee the Feb. 8 election, was empowered by the outgoing parliament to take any steps needed to meet the budgetary targets agreed with the IMF.
+
+...
+
+[Data](articles/71df9a31.json)
+
+[Extended Data](ext_articles/71df9a31.ext.json)
 
 ---
 
@@ -61,6 +83,8 @@ At least 72 trade unions within the health sector resorted to an island-wide str
 ◼️
 
 [Data](articles/a847f04d.json)
+
+[Extended Data](ext_articles/a847f04d.ext.json)
 
 ---
 
@@ -84,21 +108,23 @@ In response to the island-wide strike, tri-force personnel were deployed to the 
 
 ---
 
-### ඇෆ්ගනිස්තාන පළමු ඉනිම ලකුණු 198කට සීමා වෙයි
+### Afghan first innings are limited to 198
 
 *2024-02-02 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192892) · `si`
 
-ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර පැවැත්වෙන පළමු හා එකම ටෙස්ට් තරගයේ පළමු දිනය වන අද (02) සිය පළමු ඉනිම ක්‍රීඩා කළ ඇෆ්ගනිස්තානය සියලු දෙනා දැවී ලකුණු 198ක් ලබා ගත්තේ ය.
+The first day of Afghanistan, who played the first and the first innings of the first Test between Sri Lanka and Afghanistan, won 198 runs.
 
-කාසියේ වාසිය දිනූ ශ්‍රී ලංකා නායකයාගේ ආරාධනයෙන් ඇෆ්ගනිස්තාන කණ්ඩායම පළමුව පන්දුවට පහර දීම සඳහා පිටියට පිවිසුණු නමුත් ඔවුන්ට විශාල ලකුණු පුවරුවක් නිර්මාණය කිරීමට නොහැකි විය.
+In the invitation of the Sri Lankan captain of the coin, the Afghan group entered the field to bat first, but they could not create a big scoreboard.
 
-ඇෆ්ගනිස්තානය වෙනුවෙන් සාර්ථක ඉනිමක් දියත් කළ රහ්මට් ශා ලකුණු 91ක් රැස් කළේ ය.
+Rheerat scored 91 runs in a successful innings for Afghanistan.
 
-අසිත ප්‍රනාන්දු හා ප්‍රභාත් ජයසූරිය අතරේ කඩුලු 03 බැගින් බෙදී ගියේ ය.
+Among the Asitha Fernando and Prabath Jayasuriya was divided into three wickets each.
 
 ◼️
 
 [Data](articles/0454b018.json)
+
+[Extended Data](ext_articles/0454b018.ext.json)
 
 ---
 
@@ -1981,27 +2007,5 @@ According to the ministry, the narcotics taken into custody during this period i
 [Data](articles/d70bf831.json)
 
 [Extended Data](ext_articles/d70bf831.ext.json)
-
----
-
-### Keheliya at CID over immunoglobulin scandal
-
-*2024-02-02 09:04:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/keheliya-at-cid-over-immunoglobulin-scandal/) · `en`
-
-COLOMBO (News 1st); Sri Lanka's Former Health Minister Rambukwella arrived at the Criminal Investigations Department in Colombo on Friday (2) morning, complying with a Court Order issued a day earlier.
-
-He is expected to provide a statement to the CID with regard to the controversial human immunoglobulin procurement.
-
-Maligakanda Magistrate Lochana Abeywickrama ordered Minister Keheliya Rambukwella to report to the Criminal Investigations Department in Colombo at  9 AM on Friday (2) to provide a statement.
-
-The order was made upon considering the submissions that were made by Deputy Solicitor General Lakmini Girihagama on behalf of the Attorney General when the case filed over the controversial human immunoglobulin procurement was taken up in court.
-
-The Deputy Solicitor General also told the court that one of the reasons provided by Keheliya Rambukwella for failing to make a scheduled appearance at the CID on Wednesday (31), is also false.
-
-...
-
-[Data](articles/9ebb1908.json)
-
-[Extended Data](ext_articles/9ebb1908.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 09:02:17**
+As of **2024-02-02 09:17:36**
 
 ## Newspaper Stats
 
-*Scraped **4,273** Articles*
+*Scraped **4,275** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 272
 adalk | 379
 virakesarilk | 470
 adaderanasinhalalk | 506
-adaderanalk | 529
+adaderanalk | 531
 tamilmirrorlk | 546
 dailymirrorlk | 586
 
@@ -26,11 +26,55 @@ dailymirrorlk | 586
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,273 (100.0%) of 4,273 articles have been extended.
+4,273 (100.0%) of 4,275 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### US approves plan to strike Iranian targets in Syria and Iraq
+
+*2024-02-02 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/96934/us-approves-plan-to-strike-iranian-targets-in-syria-and-iraq) · `en`
+
+The US has approved plans for a series of strikes on Iranian targets in Syria and Iraq, officials have told the BBC’s US partner CBS News.
+
+The strikes will take place over a number of days, officials said, and weather conditions will likely dictate when they are launched.
+
+It comes after a drone attack killed three US soldiers in Jordan, close to the Syrian border, on Sunday.
+
+The US blamed an Iranian-backed militia group for that attack.
+
+That group, the Islamic Resistance in Iraq, is believed to contain multiple militias that have been armed, funded and trained by Iran’s Revolutionary Guards force. It has said it was responsible for Sunday’s strike.
+
+Iran, meanwhile, has denied any role in the attack which injured 41 other US troops at the military base, known as Tower 22.
+
+US officials have said that US intelligence believes that the drone used to attack the facility was manufactured by Iran - and is similar to the drones Iran has been sending to Russia for its invasion of Ukraine.
+
+...
+
+[Data](articles/6bd7cd24.json)
+
+---
+
+### Health trade unions’ strike continues for second day straight
+
+*2024-02-02 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/96933/health-trade-unions-strike-continues-for-second-day-straight) · `en`
+
+The island-wide strike action launched by the collective of health sector trade unions yesterday entered its second consecutive day today (Feb.02).
+
+President of Paramedical Services Front (PMSF) Upul Rohana said a final decision is expected to be taken on proceeding with the strike later today at the discussion planned to be convened with the participation of trade union representatives.
+
+Health workers decided to carry on the trade union action on account of not receiving a favourable response from the government with regard to their demands.
+
+A collective of 72 trade unions from the health sector resorted to a one-day strike across the country last morning (Feb.01), urging the government to address the issues concerning allowances without delay.
+
+The doctors’ unions and the All Ceylon Nurses’ Union, however, decided to refrain from joining the strike action, alleging that the planned strike action was a conspiracy by the government.
+
+...
+
+[Data](articles/029c2888.json)
+
+---
 
 ### The wife and father arrested for the murder of Beliatta
 
@@ -2011,49 +2055,5 @@ Dhananjaya de Silva also commented on the Sri Lankan team and the rival Afghanis
 [Data](articles/f5cef570.json)
 
 [Extended Data](ext_articles/f5cef570.ext.json)
-
----
-
-### Island-wide health strike continues amid government’s inaction
-
-*2024-02-01 18:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Island-wide-health-strike-continues-amid-governments-inaction/108-276146) · `en`
-
-Colombo, Feb 01 (Daily Mirror) - In the wake of the government failing to provide a concrete solution to their grievances, the health sector trade unions have decided to continue the island-wide strike till Friday (02 Feb.).
-
-This was confirmed by Ravi Kumudesh, the Convenor of the Health Service Trade Unions.
-
-The decision to extend the strike, according to Kumudesh, stems from the government's failure to grant reasonable allowances as granted to the doctors in the form of the Disturbance, Availability and Transport (DAT).
-
-This announcement follows the launch of a comprehensive one-day strike across the nation this morning (01 Feb.) by a consortium of 72 health sector trade unions, urging immediate attention from the authorities.
-
-Despite the widespread participation in the strike, notable exceptions include the doctors’ unions and the All Ceylon Nurses’ Union, which have chosen to distance themselves from the collective action.
-
-◼️
-
-[Data](articles/64430e8c.json)
-
-[Extended Data](ext_articles/64430e8c.ext.json)
-
----
-
-### Lunch from March to the children of primary grades
-
-*2024-02-01 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192850) · `si`
-
-Minister of Education Susil Premajayantha says that steps will be taken to provide lunch for all children in schools in Sri Lanka since March.
-
-The Minister said that about 16 lakhs of primary grades and had been allocated to awarding school lunch.
-
-The Minister also said that all the school text books needed for 2024 were already printed and will be printed and will be given to the third book and uniforms to school children as soon as school.
-
-The Minister was speaking at a ceremony held at the Ministry of Education today (1st) at the Ministry of Education today to grade appointments to grade appointment in national schools.
-
-Expansion of the number of schools that teach existing in the school system and the introductory subjects to the present foreign language laboratories.These appointments were made following a Cabinet decision received.
-
-◼️
-
-[Data](articles/1f3c5187.json)
-
-[Extended Data](ext_articles/1f3c5187.ext.json)
 
 ---

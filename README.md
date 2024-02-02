@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 13:02:09**
+As of **2024-02-02 13:17:05**
 
 ## Newspaper Stats
 
-*Scraped **4,326** Articles*
+*Scraped **4,328** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ dailyftlk | 272
 adalk | 384
 virakesarilk | 482
 adaderanasinhalalk | 513
-adaderanalk | 539
+adaderanalk | 540
 tamilmirrorlk | 552
-dailymirrorlk | 594
+dailymirrorlk | 595
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,324 (100.0%) of 4,326 articles have been extended.
+4,326 (100.0%) of 4,328 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### FTA with Thailand to bring range of goods to Sri Lanka
+
+*2024-02-02 12:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/FTA-with-Thailand-to-bring-range-of-goods-to-Sri-Lanka/108-276213) · `en`
+
+Thailand, Feb. 02 (Bangkok Post) The Free Trade Agreement (FTA), which is expected to be signed between Thailand and Sri Lanka this week, will benefit Thailand's exports of automotive parts, textiles, electrical appliances, machinery, steel products, paper, processed food and animal feed, Thai media reported.
+
+Thailand and Sri Lanka will sign a free trade agreement (FTA) this week during Prime Minister Srettha Thavisin's trip to tSri Lanka, said spokesman Chai Watcharonke.
+
+Mr Srettha has been invited by Sri Lankan Premier Ranil Wickremesinghe as a guest of honour for Sri Lanka's Independence Day celebrations from tomorrow until Sunday.
+
+The upcoming FTA will be Thailand's 15th contract of its kind and the first since Mr Srettha took the premiership last year, the Bangkok Post reported.
+
+The contract aims to bring Thai goods to new markets in South Asia by accelerating the opening of gateways for trade and investment.
+
+...
+
+[Data](articles/9c801754.json)
+
+---
+
+### President Ranil and SLPP hold talks on presidential candidacy in upcoming polls
+
+*2024-02-02 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/96942/president-ranil-and-slpp-hold-talks-on-presidential-candidacy-in-upcoming-polls) · `en`
+
+The representatives of Sri Lanka Podujana Peramuna (SLPP) and all other political parties of the ruling party have held a meeting headed by President Ranil Wickremesinghe at the President’s Secretariat.
+
+SLPP Parliamentarian S.M. Chandrasena said the focus of the meeting largely fell on the upcoming presidential election.
+
+Meanwhile, MP Rohitha Abeygunawardena, commenting in this regard, expressed that President Wickremesinghe was requested to initiate discussions with the SLPP leadership, in order to obtain the party’s support as a presidential candidate.
+
+“Whatever happens, discussions must be carried out. Therefore we asked the President to hold discussions with former President Mahinda Rajapaksa and Basil Rajapaksa regarding the matter”, he added.
+
+◼️
+
+[Data](articles/1e8c2775.json)
+
+---
 
 ### Cuttings were released
 
@@ -55,6 +93,10 @@ According to these school cutting points, the students who have passed the Grade
 The school cut-off marks for the admission of students to Grade 06 of the schools based on the results of the 2023 Grade 5 Scholarship Examination have been released by the Ministry of Education.
 
 Accordingly, the ministry said the students can check the schools that they have been selected to, using the following link starting February 05: https://g6application.moe.gov.lk/#/
+
+The Grade 05 Scholarship Examination was held on October 15, 2023 at 2,888 exam centres across the island, with an estimated total of 337,956 candidates having facing the exam.
+
+The results were released on November 16, 2023 and the cut-off marks for both Sinhala and Tamil mediums for all districts were made public the following day. According to the Examinations Department, a total of 50,664 students (15.22%) had topped the cut-off marks in 2023, marking an increase of 0.58% in comparison to the 14.64% recorded in the year before.
 
 ◼️
 
@@ -142,15 +184,17 @@ The "Urumaya" National Operational Secretariat has been launched under the Presi
 
 ---
 
-### ලිට්‍රෝ මිල වෙනස් නොවෙයි
+### Litro is not different
 
 *2024-02-02 11:45:21* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-මිල-වෙනස්-නොවෙයි/11-407866) · `si`
 
-ලිට්‍රෝ ගෘහස්ථ ගෑස් මිල මෙම මස වෙනස් නොකිරමට එම සමාගම තීරණය කර තිබේ. ඒ අනුව ලිට්‍රො ගෘහස්ථ ගෑස්  සිලින්ඩරවලට අදාළව පසුගිය මස පැවැති අගයන් මේ මාසයේදීත් ක්‍රියාත්මක වෙනු ඇත.
+The company has decided not to change the Litro house gas price this month.Accordingly, the values of last month will be implemented this month.
 
 ◼️
 
 [Data](articles/bae39767.json)
+
+[Extended Data](ext_articles/bae39767.ext.json)
 
 ---
 
@@ -446,7 +490,7 @@ Litro Gas Lanka has decided not to revise the prices of its domestic LP gas cyli
 
 Addressing a special media briefing convened this morning (Feb.02), Litro Chairman Muditha Peiris said the decision was reached after taking into account the financial difficulties facing the members of the public.
 
-Although the domestic gas cylinder prices should ideally be increased in line with the price hike in the international market, Mr. Peiris said the company decided to bear the greater share of the loss incurred by not revising the rates.
+Although the domestic gas cylinder prices should ideally be increased in line with the price hikes in the global market, Mr. Peiris said the company decided to bear the greater share of the loss incurred on account of non-revision of rates.
 
 After the price hike announced in January, the Litro Gas prices now stand at the following rates:
 
@@ -712,15 +756,17 @@ In accordance with the announcement of the Public Administration, Home Affairs, 
 
 ---
 
-### කෙහෙළිය සී.අයි.ඩි.යට පැමිණෙයි
+### Keheliya arrives at CID
 
 *2024-02-02 09:33:20* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-සී-අයි-ඩි-යට-පැමිණෙයි/11-407865) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ප්‍රකාශයක් ලබාදීම සඳහා අද (02) පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ තිබේ. මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය කළ නියෝගයකට අනුව ඔහු මෙසේ එම ප්‍රකාශය ලබාදීම සඳහා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ තිබේ.
+Former Health Minister Keheliya Rambukwella has arrived at the CID this morning.According to the orders of the Maligakanda Magistrate, he has come to the CID to provide the statement.
 
 ◼️
 
 [Data](articles/104b8502.json)
+
+[Extended Data](ext_articles/104b8502.ext.json)
 
 ---
 
@@ -1979,41 +2025,5 @@ The arrested suspect also noted that he was working in a private company. Remble
 [Data](articles/01a2072a.json)
 
 [Extended Data](ext_articles/01a2072a.ext.json)
-
----
-
-### National Savings Bank introduces “Abhiman Semarum”
-
-*2024-02-01 23:14:00* · [`islandlk`](http://island.lk/national-savings-bank-introduces-abhiman-semarum/) · `en`
-
-As Sri Lanka marks its 76th Independence Day, the National Savings Bank (NSB) introduces its latest financial offering – the “Abhiman Semarum” 2-Year Fixed Deposit. This innovative instrument not only symbolizes financial security but also reflects NSB’s unwavering commitment to empowering the citizens and fostering economic prosperity.
-
-The “Abhiman Semarum” Fixed Deposit offers the highest interest rate in the market, standing at an impressive 11.5%. p.a. This lucrative opportunity underscores NSB’s dedication to providing competitive returns and rewarding investment choices for its valued customers.
-
-“At NSB, we recognize the importance of financial empowerment in driving economic growth and fostering a prosperous future for all Sri Lankans,” stated Ms. Shashi Kandambi, GM/CEO of NSB. “The introduction of the ‘Abhiman Semarum’ Fixed Deposit underlines our commitment to offering innovative solutions that empower individuals to secure their financial future.”
-
-...
-
-[Data](articles/48d9b269.json)
-
-[Extended Data](ext_articles/48d9b269.ext.json)
-
----
-
-### Techno innovations being put in place to transform agriculture
-
-*2024-02-01 23:14:00* · [`islandlk`](http://island.lk/techno-innovations-being-put-in-place-to-transform-agriculture/) · `en`
-
-Sri Lanka should take necessary steps to modernize the agro sector to reap real economic benefits for both farmers and consumers, State Minister of Technology, Kanaka Herath said.
-
-“The time has come to accelerate the transformation of this sector with technology with the ever increasing demand for food due population growth. Inclusive Digital Agriculture Transformation is the national strategy to achieve this. Agriculture has been the backbone of the Sri Lankan community for generations and nearly 30 percent of the population is engaged in agricultural activities, he told the media at the launch of the “Govi Lab” Agri Tech Accelerator, jointly with Sarvodaya – a leading grassroots organization, in collaboration with Hatch Works.
-
-Herath added: ‘We know, the contribution of agriculture to the national GDP is less than 10 percent. So there is a significant gap. Over 40 percent of the produce is wasted due to wildlife encounters and other issues.
-
-...
-
-[Data](articles/dcea95d0.json)
-
-[Extended Data](ext_articles/dcea95d0.ext.json)
 
 ---

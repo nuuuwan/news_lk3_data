@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 15:02:20**
+As of **2024-02-02 15:17:26**
 
 ## Newspaper Stats
 
-*Scraped **4,356** Articles*
+*Scraped **4,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 244
 newsfirstlk | 270
 dailyftlk | 272
 adalk | 386
-virakesarilk | 488
+virakesarilk | 490
 adaderanasinhalalk | 517
-adaderanalk | 545
+adaderanalk | 546
 tamilmirrorlk | 557
 dailymirrorlk | 598
 
@@ -26,17 +26,45 @@ dailymirrorlk | 598
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,350 (99.9%) of 4,356 articles have been extended.
+4,356 (99.9%) of 4,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
 
+### US ambassador hails Sri Lanka’s Pekoe Trail inclusion in Nat Geo ranking
+
+*2024-02-02 14:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/96949/us-ambassador-hails-sri-lankas-pekoe-trail-inclusion-in-nat-geo-ranking) · `en`
+
+The Ambassador of the United States to Sri Lanka, Julie Chung has hailed Sri Lanka’s Pekoe Trail being profiled among the “Top 20 Travel Experiences for 2024” as named by National Geographic’s Global Editorial Teams.
+
+Posting on X (formerly Twitter), the US envoy mentioned that the historic trail was further developed with funding support from the United States Agency for International Development (USAID) and the European Union (EU), adding that it is an example of how the US and Sri Lankan partnerships develop tourism entrepreneurism and encourage people from all over the world to Visit Sri Lanka.
+
+The National Geographic recently announced their picks for ‘BEST OF THE WORLD 2024’, the brand’s annual guide of the most exciting, meaningful, and one-of-a-kind travel experiences for 2024, whereas the Pekoe Trail, a 300km trekking trail that travels through the central hills of Sri Lanka, was ranked number 16 in the “Top 20 Travel Experiences” category.
+
+...
+
+[Data](articles/1ca976f7.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-02-02 14:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/175391) · `ta`
+
+இன்று வெள்ளக்கிழழைம (பெப்ரவரி 02) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 307.1762 ஆகவும் விற்பனை விலை ரூபா 316.9979 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/50f053f3.json)
+
+---
+
 ### Online Safety Act gazetted
 
 *2024-02-02 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96948/online-safety-act-gazetted) · `en`
 
-The Online Safety Act has been published in the government gazette, enacting it as the Online Safety Act, No. 9 of 2024.
+The Online Safety Act has been published in the government gazette, bringing it into effect as the Online Safety Act, No. 9 of 2024.
 
 Accordingly, the Act will provide for the establishment of the Online Safety Commission, safety from prohibited statements made online and prevention of the use of online accounts and inauthentic online accounts for prohibited purposes.
 
@@ -47,6 +75,8 @@ The legislation which seeks to regulate online content was passed in Parliament,
 ...
 
 [Data](articles/46d7c802.json)
+
+[Extended Data](ext_articles/46d7c802.ext.json)
 
 ---
 
@@ -61,6 +91,24 @@ Accordingly, the determination of the Supreme Court is slated to be forwarded to
 ◼️
 
 [Data](articles/4fb6327b.json)
+
+[Extended Data](ext_articles/4fb6327b.ext.json)
+
+---
+
+### மைத்திரிபால சிறிசேனவின் தலைமைத்துவத்தில் பலருக்கு நம்பிக்கை இல்லை! - தயாசிறி ஜயசேகர
+
+*2024-02-02 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175387) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியினால் உருவாக்க திட்டமிடப்பட்டுள்ள புதிய கூட்டணி எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு ஆதரவளிக்க தீர்மானித்துள்ளதாக தான் அறிவதாக நாடாளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர தெரிவித்துள்ளார்.
+
+மேலும், முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவினால் உருவாக்கப்பட்ட கூட்டணிகள் மீது எந்த ஓர்  அரசியல் கட்சிக்கும் நம்பிக்கை இல்லை எனவும் அவர் தெரிவித்துள்ளார்.
+
+கடந்த வாரம் நிமல் லான்சா நடத்திய  கூட்டத்தைப் பார்த்தேன், அவர்கள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்கப் போவதை நான் கவனித்தேன் என்றும் அவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/f553f25c.json)
 
 ---
 
@@ -178,21 +226,25 @@ In this case, Poonam Pandey died of cervical cancer today died without treatment
 
 ---
 
-### ’’தமிழக வெற்றி கழகம்’’: கட்சியை பதிவு செய்தார்  விஜய்
+### Vijay registered party
 
 *2024-02-02 13:33:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-வெற்றி-கழகம்-கட்சியை-பதிவு-செய்தார்-விஜய்/175-332547) · `ta`
 
-நடிகர் விஜய் "தமிழக வெற்றி கழகம்" என்ற புதிய கட்சியை தொடங்கியுள்ளார். தனது கட்சியின் பெயரை புதுடெல்லி தேர்தல் ஆணையத்தில் பதிவு செய்துள்ளார்.
+Actor Vijay has launched a new party called "Tamil Nadu Victory Corporation". He has registered his party's name with the New Delhi Election Commission.
 
-"விஜய் மக்கள் இயக்கம்" பல வருடங்களாக தன்னால் இயன்ற வரையில் பல்வேறு மக்கள் நலத்திட்டங்களையும், சமூக சேவைகளையும், நிவாரண உதவிகளையும் செய்துவருவது நீங்கள் அனைவரும் அறிந்ததே. இருப்பினும், முழுமையான சமூக, பொருளாதார, அரசியல் சீர்திருத்தங்களை கொண்டுவர ஒரு தன்னார்வ அமைப்பினால் மட்டும் இயலாத காரியம். அதற்கு அரசியல் அதிகாரம் தேவைப்படுகிறது.
+You all know that the "Vijay People's Movement" has been doing various people's welfare programs, social services and relief assistance for many years.. However, it is impossible for a voluntary organization to bring in complete social, economic and political reforms. It requires political power.
 
-தற்போதைய அரசியல் சூழல் பற்றி நீங்கள் அனைவரும் அறிந்ததே. நிர்வாக சீர்கேடுகள் மற்றும் "ஊழல் மலிந்த அரசியல் கலாச்சாரம்"
+You all know about the current political environment. Administrative disorders and “corrupt political culture”
 
-ஒருபுறம் என்றால், நம் மக்களை சாதி மத பேதங்கள் வாயிலாக பிளவுபடுத்த துடிக்கும் "பிளவுவாத அரசியல் கலாச்சாரம்" மறுபுறம், என்று இருபுறமும் நம் ஒற்றுமைக்கும் முன்னேற்றத்திற்குமான முட்டுக்கட்டைகள் நிறைந்துள்ளன.
+On the one hand, on the one hand, on the other hand, the "divided political culture" that is trying to divide our people through caste and religious religions, on the other hand, is full of obstacles for our unity and progress.
 
-...
+It is a real fact that everyone in Tamil Nadu, especially in Tamil Nadu, is longing for the basic political change in a selfless, open, casteist, visionary, bribery and corrupt management.
+
+◼️
 
 [Data](articles/12f61645.json)
+
+[Extended Data](ext_articles/12f61645.ext.json)
 
 ---
 
@@ -200,13 +252,11 @@ In this case, Poonam Pandey died of cervical cancer today died without treatment
 
 *2024-02-02 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/96944/sri-lanka-to-borrow-usd-150mn-from-world-bank) · `en`
 
-The Sri Lankan government says it has made arrangements to borrow USD 150 million from the International Development Association (IDA) of the World Bank Group to finance the implementation of Financial Sector Safety Net Strengthening Project.
+Sri Lanka has made arrangements to borrow USD 150 million from the International Development Association (IDA) of the World Bank Group to finance the implementation of Financial Sector Safety Net Strengthening Project.
 
-The project is expected to strengthen Sri Lanka’s financial sector safety net with a focus on the Sri Lanka Deposit Insurance Scheme (SLDIS), which is managed by the Central Bank.
+In a statement, the Finance Ministry said the project is expected to strengthen Sri Lanka’s financial sector safety net with a focus on the Sri Lanka Deposit Insurance Scheme (SLDIS), which is managed by the Central Bank.
 
 The project also aims at strengthening the financial and institutional capacity of SLDIS in line with international best practices for effective deposit insurance schemes.
-
-The government says it will also support boosting the reserves of SLDIS in order to enable it to meet its payout and bank resolution obligations, safeguard the confidence of the public in the financial system and improve the capacity of the SLDIS to perform its legally mandated functions by the reduction in time required for reimbursement and by an increase in public awareness about the scheme.
 
 ...
 
@@ -334,6 +384,8 @@ Gazette issued making it mandatory to display weight and price of bread
 
 [Data](articles/aa15ce2a.json)
 
+[Extended Data](ext_articles/aa15ce2a.ext.json)
+
 ---
 
 ### Gazette issued making it mandatory to display weight and price of bread
@@ -351,8 +403,6 @@ The gazette also states “tolerance deficiency”, which means the content less
 Gazette issued making it mandatory to display weight and price of bread
 
 Huge blast rocks Kenyan capital, injuring hundreds and destroying homes
-
-Face The Nation | Freedom Lost or Freedom Gained | 31st January 2024
 
 ◼️
 
@@ -574,17 +624,19 @@ According to these school cutting points, the students who have passed the Grade
 
 ---
 
-### வெட்டுப்புள்ளிகள் வெளியாகின: பாடசாலை விபரங்கள் இணைப்பு
+### Cut spots released: school details link
 
 *2024-02-02 12:19:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெட்டுப்புள்ளிகள்-வெளியாகின-பாடசாலை-விபரங்கள்-இணைப்பு/175-332541) · `ta`
 
-2023 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சைக்கமைய, பிரபல பாடசாலைகளுக்கான வெட்டுப்புள்ளிகள் கல்வி அமைச்சினால் வெளியிடப்பட்டுள்ளன.
+According to the Grade 5 Scholarship Examination for 2023, the cut -off points for popular schools have been published by the Ministry of Education.
 
-இந்த பாடசாலைகளுக்கான வெட்டுப் புள்ளிகளுக்கு அமைய, தரம் 5 புலமைப்பரிசில் பரீட்சையில் சித்திபெற்ற மாணவர்களை, 6ஆம் தரத்துக்காக பிரபல பாடசாலைகளில் சேர்க்கும் செயன்முறை பின்பற்றப்படுகிறது.
+According to the cutting points for these schools, the students who have passed the Grade 5 Scholarship Examination are admitted to the 10th grade for the 6th grade.
 
 ◼️
 
 [Data](articles/3271e8c4.json)
+
+[Extended Data](ext_articles/3271e8c4.ext.json)
 
 ---
 
@@ -680,23 +732,25 @@ It is also known that the students received by the students who have received fr
 
 ---
 
-### කැතේ පැසිෆික් යළි ලංකාවට ඒයි
+### Cathay Pacific returns to Sri Lanka
 
 *2024-02-02 11:58:03* · [`adalk`](https://www.ada.lk/breaking_news/කැතේ-පැසිෆික්-යළි-ලංකාවට-ඒයි/11-407867) · `si`
 
-කොවිඩ් වසංගත සමයේ , එනම්  2020 මාර්තු මාසයේ සිට  තාවකාලිකව සිය ගුවන් ගමන් මෙහෙයුම්  අත්හිහිටුවා තිබූ කැතේ ෆැසිපික් ගුවන් සේවාව , යළිත් තම ගුවන් ගමන් මෙහෙයුම්  02/01 දින සිට සක්‍රීය කරමින් මංගල ගුවන් යානය  කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය .
+During the Covid Epidemiology, from March 2020, arrived at the Katunayake airport, which had been temporarily handed over to the handicrafted flight operations from March 2/01.
 
-ඒ අනුව සතියේ  සෑම  අගහරුවාදා , බ්‍රහස්පතින්දා සහ සෙනසුරාදා යන දින වල හොංකොං සිට කටුනායක දක්වා ඍජු ගුවන් ගමන් සේවා කැතේ ෆැසිපික් ගුවන් සේවයේ මෙතැන් සිට ක්‍රියාත්මක කිරීමට නියමිතය .
+Accordingly, on Thursday and Saturday, Thursday and Saturday will be operated from Hong Kong to Katunayake on Saturday and Saturday.
 
-කැතේ ෆැසිපික් ගුවන් සේවයේ සී.එක්ස්.- 611 දරන ගුවන් යානය  02/01 දින මධ්‍යම රාත්‍රී 11.35 ට ගුවන් මගීන් 253 දෙනෙකු රැගෙන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+Cathay Facik Airlines COX. The 611 aircraft had arrived at the Katunayake airport at 11.31 pm on 02.01 midnight.
 
-කැතේ ෆැසිපික් ගුවන් සේවය මෙම ගමන සදහා එයාර් බස් 330 - 300 වර්ගයේ ගුවන් යානයක් යොදවා තිබුණි .
+Cathay Facikic Airlines had been deployed by a 330 - 300 aircraft for this trip.
 
-කැතේ ෆැසිපික් ගුවන් සේවා හොංකොං සිට ලොව පුරා රටවල් 80 ක ගමනාන්ත කරා සිය ගුවන් ගමන් මෙහෙයුම් සිදු කරමින් සිටිති .
+Cathay Facik Air Services is from Hong Kong to the destinations of 80 countries around the world.
 
 ◼️
 
 [Data](articles/3a41f54e.json)
+
+[Extended Data](ext_articles/3a41f54e.ext.json)
 
 ---
 
@@ -1009,8 +1063,6 @@ The Kenya Red Cross said on social media that crews had been "tirelessly battlin
 Gazette issued making it mandatory to display weight and price of bread
 
 Huge blast rocks Kenyan capital, injuring hundreds and destroying homes
-
-Face The Nation | Freedom Lost or Freedom Gained | 31st January 2024
 
 ◼️
 
@@ -1965,61 +2017,5 @@ The anticipation of a general election has sent shockwaves through the corridors
 [Data](articles/47a4daa0.json)
 
 [Extended Data](ext_articles/47a4daa0.ext.json)
-
----
-
-### Thai central bank chief says current policy rate neutral, economy not in crisis
-
-*2024-02-02 05:31:23* · [`dailyftlk`](https://www.ft.lk/business/Thai-central-bank-chief-says-current-policy-rate-neutral-economy-not-in-crisis/34-758064) · `en`
-
-BANGKOK (Reuters): Thailand’s central bank chief, under fire from the prime minister for not cutting rates, said slower-than-expected economic growth was not a crisis as portrayed by the government, nor would it be revived by its quick-hit stimulus measures.
-
-The Bank of Thailand’s current policy rate is broadly neutral, Sethaput Suthiwartnarueput told Reuters on Tuesday ahead of the central bank’s next rate meeting on 7 Feb. adding that the country was not facing a deflationary situation.
-
-His comments came after Prime Minister Srettha Thavisin – a real estate mogul and political newcomer – urged the central bank to cut the policy rate, which is at a decade-high of 2.50%, to help revive the economy.
-
-“If you want to raise the long-term potential growth rate, you’ve got to do the structural stuff. You’ve got to get productivity up. But the way to get there is not just by engaging in short-term stimulus type measures,” Sethaput said.
-
-...
-
-[Data](articles/c83fed20.json)
-
-[Extended Data](ext_articles/c83fed20.ext.json)
-
----
-
-### Fostering economic ties: Sri Lanka-Thailand Business Council
-
-*2024-02-02 05:29:35* · [`dailyftlk`](https://www.ft.lk/business/Fostering-economic-ties-Sri-Lanka-Thailand-Business-Council/34-758063) · `en`
-
-In an era where globalisation and interconnected economies play a pivotal role, fostering bilateral economic relationships is crucial for the growth and development of nations. The Sri Lanka-Thailand Business Council emerges as a significant platform, facilitating collaboration and synergy between two dynamic nations in South Asia and Southeast Asia. This article explores the importance of the council, its objectives, and the potential it holds in enhancing trade, investment, and cultural ties between Sri Lanka and Thailand.
-
-Sri Lanka and Thailand, despite being geographically distant, share historical ties and cultural affinities. Both nations have vibrant economies with unique strengths, making them ideal partners for collaboration. Recognising the untapped potential in their relationship, the Sri Lanka-Thailand Business Council was established in the year 2000 by five founder members, to serve as a catalyst for increased economic and business cooperation.
-
-...
-
-[Data](articles/0534b176.json)
-
-[Extended Data](ext_articles/0534b176.ext.json)
-
----
-
-### A K D D Arandara appointed Chairman of Sri Lanka Telecom
-
-*2024-02-02 05:20:00* · [`economynextcom`](https://economynext.com/a-k-d-d-arandara-appointed-chairman-of-sri-lanka-telecom-149683/) · `en`
-
-ECONOMYNEXT- A K D D D Arandara, an Additional Secretary at the Department of Legal Affairs has been appointed at Chairman, Sri Lanka Telecom said in a stock exchange filing.
-
-His appointment was reviewed and recommended by the nominations and governance committee, the filing said.
-
-He has joined the public service in 2000 as Senior Assistant Secretary to the Ministry of Justice and Director General of the Consumer Affairs Authority.
-
-Arandara is a lawyer with a 25 years experience. (Colombo/Feb03/2024)
-
-◼️
-
-[Data](articles/f008f19a.json)
-
-[Extended Data](ext_articles/f008f19a.ext.json)
 
 ---

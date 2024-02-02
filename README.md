@@ -1,82 +1,320 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 12:33:03**
+As of **2024-02-02 12:48:37**
 
 ## Newspaper Stats
 
-*Scraped **4,309** Articles*
+*Scraped **4,324** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 50
-bbccomsinhala | 65
+bbccomsinhala | 66
 dbsjeyarajcom | 132
 islandlk | 230
 economynextcom | 244
-newsfirstlk | 266
+newsfirstlk | 268
 dailyftlk | 272
 adalk | 382
-virakesarilk | 477
+virakesarilk | 482
 adaderanasinhalalk | 513
-adaderanalk | 536
-tamilmirrorlk | 551
-dailymirrorlk | 591
+adaderanalk | 539
+tamilmirrorlk | 552
+dailymirrorlk | 594
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,305 (99.9%) of 4,309 articles have been extended.
+4,309 (99.7%) of 4,324 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
 
-### ශිෂ්‍යත්ව ප්‍රතිඵල අනුව පාසල් සඳහා ඇතුළත්වීමේ කඩඉම් ලකුණු නිකුත් කෙරේ
+### வெட்டுப்புள்ளிகள் வெளியாகின
+
+*2024-02-02 12:19:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெட்டுப்புள்ளிகள்-வெளியாகின/175-332541) · `ta`
+
+2023 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சைக்கமைய, பாடசாலை வெட்டுப்புள்ளிகள் கல்வி அமைச்சினால் வெளியிடப்பட்டுள்ளன.
+
+இந்த பாடசாலை வெட்டுப் புள்ளிகளுக்கு அமைய, தரம் 5 புலமைப்பரிசில் பரீட்சையில் சித்திபெற்ற மாணவர்களை, 6ஆம் தரத்துக்காக பிரபல பாடசாலைகளில் சேர்க்கும் செயன்முறை பின்பற்றப்படுகிறது.  R
+
+◼️
+
+[Data](articles/288e8cde.json)
+
+---
+
+### School cut-off marks of 2023 Grade 5 Scholarship exam released
+
+*2024-02-02 12:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96941/school-cut-off-marks-of-2023-grade-5-scholarship-exam-released) · `en`
+
+The school cut-off marks for the admission of students to Grade 06 of the schools based on the results of the 2023 Grade 5 Scholarship Examination have been released by the Ministry of Education.
+
+Accordingly, the ministry said the students can check the schools that they have been selected to, using the following link starting February 05: https://g6application.moe.gov.lk/#/
+
+◼️
+
+[Data](articles/43ef0dd8.json)
+
+---
+
+### 2023 Grade five scholarship exam: Cut-off marks released
+
+*2024-02-02 12:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/2023-Grade-five-scholarship-exam-Cut-off-marks-released/108-276212) · `en`
+
+Colombo, Feb 2 (Daily Mirror) - The Examinations Department today released the cut-off marks for the enrolment of students into Grade Six next year, based on the 2023 Grade 5 Scholarship Examination.
+
+Also, the students are requested to enter their correct examination numbers to obtain the results.
+
+Cut-off marks according to the district basis for Sinhala and tamil medium students are as follows:
+
+◼️
+
+[Data](articles/6cc17c8d.json)
+
+---
+
+### வவுனியா கடவுச்சீட்டு காரியாலயம் முன்பாக மரத்தில் ஏறி நபர் ஒருவர் தற்கொலை முயற்சி
+
+*2024-02-02 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175372) · `ta`
+
+வவுனியாவில் உள்ள கடவுச்சீட்டு காரியாலயத்தின் முன்பாக உள்ள மரம் ஒன்றில் கடவுச்சீட்டு பெற வந்த நபர் ஒருவர் திடீரென மரத்தில் ஏறி தற்கொலை செய்வேன் என்று கூறியதால் அப்பகுதியில் பதற்றமான சூழ்நிலை காணப்பட்டது.
+
+திருகோணமலை மஹாயபுர பகுதியை சேர்ந்த 51வயதுடைய அநுரகுமார என்பவர் கடந்த மூன்று தினங்களாக வவுனியாவில் உள்ள கடவுச்சீட்டு காரியாலயத்திற்கு கடவுச்சீட்டு பெறுவதற்காக வந்து சென்றதாகவும் எனினும் தனக்கு கடவுச்சீட்டை பெறமுடியாமல் போனதாகவும் தெரிவித்துள்ளார்.
+
+இதனால் விரக்தி அடைந்த குறித்த நபர் கடவுச்சீட்டு காரியாலயம் முன்பாக இருந்த மரத்தில் ஏறி தற்கொலை செய்வேன் என கூறி போராட்டம் ஒன்றை மேற்கொண்டிருந்தார் இதனால் அப்பகுதி பெரும் பதற்ற சூழ்நிலைக்கானது
+
+உடனடியாக செயல்பட்ட காரியாலய உத்தியோகத்தர்கள் அவருக்கு வெள்ளிக்கிழமை (02) கடவுச்சீட்டு பெறுவதற்கான உத்தரவாதத்தை வழங்கியிருந்தனர். இதனை தொடர்ந்து குறித்த நபர் மரத்திலிருந்து கீழ் இறங்கியிருந்தார்.
+
+...
+
+[Data](articles/d401da3d.json)
+
+---
+
+### Maradariat marks for schools released according to scholarship results
 
 *2024-02-02 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192877) · `si`
 
-2023 වර්ෂයේ 5 ශ්‍රේණියේ ශිෂ්‍යත්ව ප්‍රතිඵල මත පාසල් සඳහා ඇතුළත්වීමේ කඩඉම් ලකුණු අද (02) දින නිකුත් කර තිබේ.
+The cut-off marks for schools have been released on Grade 5 scholarship results in Grade 5 scholarships.
 
-පාසල් සඳහා තීරණය වු කඩඉම් ලකුණු පිළිබඳ තොරතුරු අධ්‍යාපන අමාත්‍යාංශ වෙබ් අඩවියෙන් http://www.moe.gov.lk ලබා ගත හැකිය.
+Information on the cut-off marks for schools is available from the Ministry of Education website from the Ministry of Education website.
 
-තවද, සිසුන්ට ලැබී ඇති පාසල් සම්බන්ධයෙන් 2024.02.05 දින සිට https://g6application.moe.gov.lk/#/   යන වෙබ් පිටුවට පිවිස පරීක්ෂා කර ගත හැකි බවද දැනුම්දෙයි.
+It is also known that the students received by the students who have received from 05.02.2012 to https://g6application.gov.lk/#/.
 
 ◼️
 
 [Data](articles/9d47ac85.json)
 
+[Extended Data](ext_articles/9d47ac85.ext.json)
+
 ---
 
-### பாடாய் படுத்தும் பாண்: பார்த்து வாங்குங்கள்
+### உறுமய தேசிய செயற்பாட்டு செயலகம் ஜனாதிபதியின் செயலாளர் தலைமையில் திறந்து வைப்பு
+
+*2024-02-02 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/175367) · `ta`
+
+உறுமய தேசிய செயற்பாட்டு செயலகம் வியாழக்கிழமை (01) ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்கவினால் செத்தம் வீதியில் உள்ள பழைய ஸ்டாண்டர்ட் சார்ட்டர்ட் கட்டிடத்தில் திறந்து வைக்கப்பட்டது.
+
+மக்களின் காணி உரிமையை உறுதிப்படுத்தும் வகையில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் எண்ணக்கருவிற்கமைய 20 இலட்சம் விவசாயக் குடும்பங்களுக்கு முழு உரிமையுடைய காணி உறுதிப்பத்திரங்களை வழங்க அரசாங்கம் திட்டமிட்டுள்ளது.
+
+உறுமய வேலைத்திட்டத்தை நடைமுறைப்படுத்துவதற்காக இவ்வருட வரவுசெலவுத் திட்டத்தில் இரண்டு பில்லியன் ரூபா ஒதுக்கீடு செய்யப்பட்டுள்ளதுடன், காணி அபிவிருத்தி கட்டளைச் சட்டத்தின் கீழ் வழங்கப்பட்ட காணி அனுமதிப்பத்திரங்கள் அனைத்தும் காணி உறுதிப் பத்திரங்களாக மாற்றப்பட்டு அவற்றை பயன்டுத்திய விவசாயிகளுக்கு வழங்கப்படும்.
+
+மக்கள் முன்வைக்கும் பிரச்சினைகளுக்கு உடனடித் தீர்வுகளை வழங்குவதற்கும், சம்பந்தப்பட்ட நிறுவனங்களை ஒருங்கிணைத்தல் மற்றும் வழிநடத்தல் பொறிமுறையை செயற்படுத்துவதற்காக ஜனாதிபதி அலுவலகத்தின் கீழ் "உறுமய " தேசிய செயற்பாட்டு செயலகம் ஆரம்பிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/6d305b4c.json)
+
+---
+
+### Brutal Beliatte killings: Two more suspects arrested
+
+*2024-02-02 11:42:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/brutal-beliatte-killings-two-more-suspects-arrested/) · `en`
+
+COLOMBO (News 1st); Two more suspects have been arrested in connection with the murder of five individuals including Leader of the Ape Jana Bala Party Saman Perera, in Beliatte.
+
+The duo were arrested by a group of officers of the Police Special Task Force.
+
+Police said the 39-year-old wife of a retired Navy personnel and her 72-year-old father were arrested.
+
+21 grams and 350 milligrams of heroin were seized from the suspect's possession.
+
+During interrogations, it was revealed that the suspect's husband, an ex-Navy personnel, was the main shooter involved in this murder.
+
+Investigations revealed that he went to Beliatte on the 21st of January, carried out the shootings with another gunman on the 22nd, and fled to Dubai.
+
+Flight tickets were arranged for the two suspects by an individual named Nipuna in Dubai.
+
+...
+
+[Data](articles/7681bbd3.json)
+
+---
+
+### Patai Panna: Buy watch
 
 *2024-02-02 11:38:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடாய்-படுத்தும்-பாண்-பார்த்து-வாங்குங்கள்/175-332540) · `ta`
 
-ஒரு இறாத்தல் பாண் மற்றும் அரை இறாத்தல் பாணின் நிர்ணயிக்கப்பட்ட எடையைக் குறிப்பிடும் அதிவிசேட வர்த்தமானி அறிவித்தலை நுகர்வோர் விவகார அதிகார சபை வெளியிட்டுள்ளது.
+The Consumer Affairs Authority has issued a notification of the Extraordinary Gazette notification that refers to a determined weight of a fell and semi -dumping style.
 
-அதன்படி, ஒரு இறாத்தல் பாணியின் பரிந்துரைக்கப்பட்ட எடை 450 கிராமாக இருக்க வேண்டும் என்றும் அதன் மாறுபாடு 13.5 கிராமிற்கு குறையாமல் இருக்க வேண்டும் என குறித்த வர்த்தமானி அறிவித்தலில் குறிப்பிடப்பட்டுள்ளது.
+According to the gazette notification, the recommended weight of a feast style should be 450 grams and its variation should not be less than 13.5 grams.
 
-அரை இறாத்தல் பாணியின் பரிந்துரைக்கப்பட்ட எடை 225 கிராமாக இருக்க வேண்டும் எனவும் அதன் மாறுபாடு 09 கிராமுக்கு குறையாமல் இருக்க வேண்டும் எனவும் குறிப்பிடப்பட்டுள்ளது.
+It has been noted that the recommended weight of the semi -feast style should be 225 grams and its variation should not be less than 9 grams.
 
-இதேவேளை, விற்பனைக்கு காட்சிப்படுத்தப்படும் பாணியின் எடை தௌிவாக காணக்கூடிய வகையில் இருக்க வேண்டும் என நுகர்வோர் விவகார அதிகார சபை வௌியிட்டுள்ள வர்த்தமானி அறிவித்தலில் குறிப்பிடப்பட்டுள்ளது. R
+Meanwhile, the Consumer Affairs Affairs Authority has stated in the gazette notification that the weight of the style that is visualized for sale. Remble
 
 ◼️
 
 [Data](articles/d1f9fa4b.json)
 
+[Extended Data](ext_articles/d1f9fa4b.ext.json)
+
 ---
 
-### லிட்ரோ அதிரடி அறிவிப்பு
+### Announced on Litro Gas Price Revision!
+
+*2024-02-02 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175362) · `ta`
+
+Considering the various issues faced by the people, the company said that in February, Litro gas prices will not be amended.. Based on this, Litro Gas Company has decided to maintain the current price.
+
+◼️
+
+[Data](articles/2dc0eae2.json)
+
+[Extended Data](ext_articles/2dc0eae2.ext.json)
+
+---
+
+### தொடரும் யுக்திய நடவடிக்கை: மேலும் 703 பேர் கைது!
+
+*2024-02-02 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/175364) · `ta`
+
+நாடளாவிய ரீதியில் கடந்த 24 மணித்தியாலங்களில்  மேற்கொள்ளப்பட்ட யுக்திய  நடவடிக்கையின்போது 703 பேர் சந்தேகத்தில் கைது செய்யப்பட்டுள்ளனர்.
+
+இவர்களில் போதைப்பொருள் குற்றங்களுடன் தொடர்புடைய 525 சந்தேக நபர்களும் குற்றப் பிரிவுகளின்  பட்டியலில்  பெயர் குறிப்பிடப்பட்டுள்ள  178 சந்தேக நபர்களும் அடங்குவதாக பொலிஸார் தெரிவித்தனர்.
+
+போதைப்பொருள் குற்றங்களுடன் தொடர்புடைய 525 சந்தேக நபர்களில் ஒரு சந்தேகநபர் தடுப்புக்காவல் உத்தரவின் பேரில் மேலதிக விசாரணைக்கு உட்படுத்தப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/a14edc91.json)
+
+---
+
+### ஸ்ரீலங்கா பொதுஜன பெரமுன உட்பட  ஆளும் கட்சி பிரதிநிதிகளுடன் ஜனாதிபதி ரணில் கலந்துரையாடல்!
+
+*2024-02-02 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175370) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுன மற்றும் ஆளும் கட்சியை பிரதிநிதித்துவப்படுத்தும் ஏனைய கட்சிகளின் பிரதிநிதிகளின் கூட்டம் ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் ஜனாதிபதி செயலகத்தில் இடம்பெற்றது.
+
+இந்த கலந்துரையாடலில் ஜனாதிபதி தேர்தல் தொடர்பில் அதிக கவனம் செலுத்தப்பட்டதாக நாடாளுமன்ற உறுப்பினர் எஸ்.எம்  சந்திரசேன தெரிவித்துள்ளார்.
+
+ஜனாதிபதி வேட்பாளராக பொதுஜன பெரமுனவின் ஆதரவைப் பெறுவதற்கு, கட்சித் தலைமையுடன் பேச்சுவார்த்தைகளை ஆரம்பிக்குமாறு ஜனாதிபதியிடம் கோரப்பட்டுள்ளதாக நாடாளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/bad44c47.json)
+
+---
+
+### Litro Action Notification
 
 *2024-02-02 11:31:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-அதிரடி-அறிவிப்பு/175-332539) · `ta`
 
-லிட்ரோ உள்நாட்டு எரிவாயுவின் விலை தொடர்பில் எரிவாயு நிறுவனத்தின் தலைவர் முதித பீரிஸ் சில நிமிடங்களுக்கு முன்னர் முக்கிய அறிவிப்பொன்றை விடுத்தார்.
+Gas Chairman Muditha Peiris made a major announcement a few minutes ago regarding the price of Litro domestic gas.
 
-இதன்படி, லிட்ரோ உள்நாட்டு எரிவாயு சிலிண்டர்களின் மூன்று அளவுகளின் விலையும் கடந்த மாதத்தைப் போலவே இருக்கும் என்றும் அவர் மேலும் தெரிவித்தார்.
+Accordingly, the price of three domestic gas cylinders will be similar to last month, he added.
 
 ◼️
 
 [Data](articles/603977b0.json)
+
+[Extended Data](ext_articles/603977b0.ext.json)
+
+---
+
+### 76 ஆவது சுதந்திர தினத்தன்று  உறவினர், நண்பர்கள்  கைதிகளை  சிறைச்சாலை திறந்தவெளியில் பார்வையிடலாம்!
+
+*2024-02-02 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175369) · `ta`
+
+76 ஆவது சுதந்திர தினத்தன்று கைதிகளை  சிறைச்சாலை திறந்தவெளியில் பார்வையிடும்   திட்டம் இம்மாதம் 4ஆம் திகதி ஞாயிற்றுக்கிழமை அமுல்படுத்தப்படும் என சிறைச்சாலை ஆணையாளர் காமினி பி. திஸாநாயக்க தெரிவித்தார்.
+
+அன்றைய தினம் சிறைச்சாலை விதிமுறைகள் மற்றும் சுகாதார பாதுகாப்பு முறைகளைப்  பின்பற்றி நாடளாவிய ரீதியில் உள்ள அனைத்து சிறைச்சாலைகளிலும் இந்த வேலைத்திட்டம் அமுல்படுத்தப்படும்.
+
+ஒரு கைதியை உறவினர்கள் மற்றும் நண்பர்கள் என  மூவர் பார்வையிடும் சந்தர்ப்பம் வழங்கப்படும் எனவும் அவர் தெரிவித்தார்.
+
+இதேவேளை, கைதியின் உறவினர்கள் கொண்டு வரும் உணவு மற்றும் உடைகளின் பொதி ஒருவருக்கு ஏற்ற  அளவில் மட்டுமே கைதிக்கு வழங்கப்பட வேண்டும் எனவும், தடை செய்யப்பட்ட பொருட்களை சிறைச்சாலை வளாகத்துக்குள் கொண்டு வருவது தடை செய்யப்பட்டுள்ளதாகவும் ஊடகப் பேச்சாளர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/ae504dbc.json)
+
+---
+
+### Nairobi fire: Huge gas blast in Kenyan capital kills 2, injures hundreds
+
+*2024-02-02 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96940/nairobi-fire-huge-gas-blast-in-kenyan-capital-kills-2-injures-hundreds) · `en`
+
+A huge gas blast in the Kenyan capital, Nairobi, has killed at least two people and injured at least 222.
+
+A lorry carrying gas exploded in Embakasi district around 23:30 (20:30 GMT), “igniting a huge ball of fire”, a government spokesperson said.
+
+Housing, businesses and cars were damaged with video showing a huge blaze raging close to blocks of flats.
+
+Earlier, the government had said the blast happened at a gas plant. The cause is still being established.
+
+Mr Mwaura said the fireball from the blast had “spread widely”, and a flying gas cylinder had hit a garments and textiles warehouse, burning it down.
+
+The blaze is also reported to have spread through several apartment complexes.
+
+Witnesses told local media they had felt tremors immediately after the blast.
+
+Many of the injured are said to have inhalation injuries and they include at least 25 children, the Standard newspaper reports.
+
+...
+
+[Data](articles/91c6a4b3.json)
+
+---
+
+### Displaying weight, price of a loaf of bread made mandatory
+
+*2024-02-02 11:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Displaying-weight-price-of-a-loaf-of-bread-made-mandatory/108-276209) · `en`
+
+Colombo, Feb. 2 (Daily Mirror)- The Consumer Affairs Authority (CAA) has taken steps to issue an extraordinary gazette notification, making it mandatory for sellers to display the proper weight and price for bread, which is a bakery-related product.
+
+The gazette was issued according to its chairman, Shantha Niriella and the announcement is for the safety of the consumers.
+
+According to the gazette, it has been made mandatory for those engaged in the preparation, packaging, storage and wholesale as well as retailing bread to ensure that the weight of the bread displayed for sale contains the specified weight and to clearly display the weight of the bread displayed for sale.
+
+The standard weight of a loaf of bread is 450 grams and the standard weight of a half loaf of bread is 225 grams.
+
+◼️
+
+[Data](articles/428aaab5.json)
+
+---
+
+### No LP gas price revision this month: Litro
+
+*2024-02-02 11:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-LP-gas-price-revision-this-month-Litro/108-276210) · `en`
+
+Colombo, Feb 2 (Daily Mirror) - Litro Gas announced today that they have decided not to revise their current domestic LP gas prices, despite the increase in international market prices.
+
+Addressing the media, Litro Chairman and CEO Muditha Peiris said that the decision was made after considering the financial hardships experienced by the public.
+
+As a result, there will be no revision in LP gas prices for this month, and this decision was made in light of the financial challenges being experienced by consumers.
+
+Peiris stated that the company has chosen to shoulder the larger portion of the incurred loss by refraining from revising the rates.
+
+As per the decision, the current Litro LP gas rates are as follows: The retail price of the 12.5kg cylinder of gas will remain at Rs. 4,250, the 5kg cylinder will stay at Rs. 1,707 and the 2.3kg cylinder will be maintained at Rs. 795.
+
+◼️
+
+[Data](articles/7fb6432c.json)
 
 ---
 
@@ -100,17 +338,61 @@ The Consumer Affairs Authority states that the consumer Affairs Authority (CAA) 
 
 ---
 
-### Announced on Litro Gas Price Revision!
+### Special gazette issued stipulating standard weight for bread
 
-*2024-02-02 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175362) · `ta`
+*2024-02-02 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96939/special-gazette-issued-stipulating-standard-weight-for-bread) · `en`
 
-Considering the various issues faced by the people, the company said that in February, Litro gas prices will not be amended.. Based on this, Litro Gas Company has decided to maintain the current price.
+The Consumer Affairs Authority (CAA) has issued an Extraordinary Gazette specifying the standard weight of a loaf of bread.
+
+Accordingly, the standard weight of a loaf of bread should be 450g with an allowed deficiency of 13.5g and for half a loaf of bread the standard weight is stipulated as 225g with 9g deficiency.
+
+The CAA has noted that any type of bread manufactured, packed, stored, offered for sale, displayed for sale or sold retail or wholesale should contain the standard weight specified in the gazette extraordinary.
+
+Meanwhile, all traders have been ordered to display the weight of bread displayed for sale.
 
 ◼️
 
-[Data](articles/2dc0eae2.json)
+[Data](articles/78ffd792.json)
 
-[Extended Data](ext_articles/2dc0eae2.ext.json)
+---
+
+### Massive gas in Nairobi - two killed - more than 220 injured
+
+*2024-02-02 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175360) · `ta`
+
+Two people were killed and more than 220 injured in a gas -laid in Kenya's capital, Nairobi.
+
+Videos have been revealed that homes and shopping centers have been damaged and a massive fireplace near the barracks.
+
+Police have asked the public to avoid the area.
+
+◼️
+
+[Data](articles/82170b57.json)
+
+[Extended Data](ext_articles/82170b57.ext.json)
+
+---
+
+### Huge blast rocks Kenyan capital, injuring hundreds and destroying homes
+
+*2024-02-02 10:49:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/huge-blast-rocks-kenyan-capital-injuring-hundreds-and-destroying-homes/) · `en`
+
+Colombo (News 1st) – A huge blast rocked the Kenyan capital Nairobi close to midnight Thursday, as a truck carrying gas exploded, killing two and injuring over 200, destroying houses, apartments, shops and vehicles, foreign media said.
+
+The explosion took place at 11:30 p.m. local time in the Embakasi district, sending thousands of people fleeing in terror from the flames. The death toll could rise.
+
+Government spokesman Isaac Mwaura said "Kenyans are hereby advised to keep off the cordoned area in order to allow the rescue mission to be carried out with minimal disruptions".
+
+The Kenya Red Cross said on social media that crews had been "tirelessly battling the flames".
+
+Huge blast rocks Kenyan capital, injuring hundreds and destroying homes
+
+Face The Nation | Freedom Lost or Freedom Gained | 31st January 2024
+
+◼️
+
+[Data](articles/973b3e77.json)
 
 ---
 
@@ -131,24 +413,6 @@ After the price hike announced in January, the Litro Gas prices now stand at the
 [Data](articles/ab42f57f.json)
 
 [Extended Data](ext_articles/ab42f57f.ext.json)
-
----
-
-### Massive gas in Nairobi - two killed - more than 220 injured
-
-*2024-02-02 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175360) · `ta`
-
-Two people were killed and more than 220 injured in a gas -laid in Kenya's capital, Nairobi.
-
-Videos have been revealed that homes and shopping centers have been damaged and a massive fireplace near the barracks.
-
-Police have asked the public to avoid the area.
-
-◼️
-
-[Data](articles/82170b57.json)
-
-[Extended Data](ext_articles/82170b57.ext.json)
 
 ---
 
@@ -234,7 +498,7 @@ In this case, he died yesterday without treatment. Sudden Death Investigation Of
 
 *2024-02-02 10:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-naval-officer-identified-as-main-gunman-in-Beliatta-shooting-Wife-father-arrested/108-276202) · `en`
 
-The Police Special Task Force of (STF) arrested the wife and father of the person suspected to be the main gunman in the killing of five people, including the leader of the Ape Jana Bala Party, Saman Perera in Beliatta.
+The Police Special Task Force (STF) arrested the wife and father of the person suspected to be the main gunman in the killing of five people, including the leader of the Ape Jana Bala Party, Saman Perera in Beliatta.
 
 Police said the main gunman of the Beliatta shooting has been identified as a former naval person.
 
@@ -242,9 +506,11 @@ They said the main gunman's 39-year-old wife, who also served in the Navy and hi
 
 The suspects were arrested with 21 grams and 350 milligrams of heroin while they were in hiding at Pathagama in the Pallewela area.
 
-During questioning them, it was revealed that the main shooter an…
+During questioning them, it was revealed that the main shooter and two other gunmen who had arrived for the Beliatta shooting had fled to Dubai after the incident.
 
-◼️
+It has also been revealed that their flight tickets have been arranged by another individual engaged in organized crimes, 'Nipuna' who is in Dubai.
+
+...
 
 [Data](articles/ae4492cd.json)
 
@@ -260,11 +526,11 @@ The Police Special Task Force (STF) has arrested the wife of a retired naval per
 
 The retired naval person in question was reportedly the leading gunman in this mass murder.
 
-Accordingly, a total of 11 suspects have thus far been arrested over the shooting which took place on January 23 near the Beliatta interchange of the Southern Expressway.
+Thus far, 11 suspects in total have been arrested over the shooting which took place on January 23 near the Beliatta interchange of the Southern Expressway. Among the arrestees is the driver of the vehicle in which the assailants had arrived.
 
-A group of assailants in an SUV had opened fire at a white Defender, killing four persons at the scene. The other victim who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, but he was pronounced dead shortly.
+A group of assailants in an SUV had opened fire at a white Defender, killing four persons at the scene. The fifth person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, but he was pronounced dead shortly.
 
-◼️
+...
 
 [Data](articles/2c70ba53.json)
 
@@ -1112,6 +1378,26 @@ The Central Bank announced yesterday that the Governing Board, at its meeting he
 
 ---
 
+### කෙහෙළිය රඹුක්වැල්ල: හිටපු සෞඛ්‍ය ඇමති චුදිතයෙක් වෙන්නේ කොහොමද?
+
+*2024-02-02 05:09:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce7l28ddn0go) · `si`
+
+ප්‍රශ්නගත ප්‍රතිදේහ එන්නත් සිද්ධිය සම්බන්ධයෙන් හිටපු සෞඛ්‍ය අමාත්‍ය සහ වත්මන් පරිසර අමාත්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ලට එරෙහිව සිවිල් සංවිධාන විසින් දිගින් දිගටම චෝදනා එල්ල කරමින් සිටියි.
+
+එම මෙම සිද්ධිය සම්බන්ධයෙන් ප්‍රකාශයක් ලබා දීමට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට (CID) යට පැමිණෙන ලෙස දැනුම් දුන්නද පසුගිය ජනවාරි 31 වැනිදා ඔහු එහි නොගියේ තමන්ට වෙනත් කටයුත්තක් මෙන්ම මහාධිකරණය හමුවේ පෙනී සිටීමට ඇති බවට CID යට ලිඛිතව ලිපියක් යොමු කරමින් ය.
+
+මෙලෙස අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී නොසිටි අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල අද (පෙබරවාරි 02) උදෑසන 9.00ට පමණ අපරාධ පාරීක්ෂණ දෙපාර්තමේන්තුව හමුවට පැමිණියේය. ඒ එම දෙපාර්තමේන්තුව වෙත ගොස් ප්‍රකාශයක් ලබා දෙන ලෙස මාලිගාකන්ද මහේස්ත්‍රාත් අධිකරණය විසින් (පෙබරවාරි 01 වැනිදා) නියෝග කරනු ලැබීමෙන් අනතුරුවය.
+
+'සාගලගේ ඉල්ලීම නිසා ද අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මේ පරික්ෂණ හංගන්නේ?'
+
+මාලිගාකන්ද මහේස්ත්‍රාත් අධිකරණය විසින් කෙහෙළිය රඹුක්වැල්ල අමාත්‍යවරයාට එරෙහිව විදෙස් ගමන් තහනමක් පනවනු ලැබීය.
+
+...
+
+[Data](articles/29d9d917.json)
+
+---
+
 ### SriLankan Airlines CEO points to technical woes, spare part delays
 
 *2024-02-02 05:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SriLankan-Airlines-CEO-points-to-technical-woes-spare-part-delays/155-276155) · `en`
@@ -1516,19 +1802,23 @@ Former President of the Sri Lanka TNA. The general secretary has the powers rela
 
 ---
 
-### ’ ஊடகங்களுக்கு கருத்து தெரிவித்தால் உட்கட்சி முரண்பாடுகள் வரும்’
+### Commenting on the media
 
 *2024-02-02 02:04:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஊடகங்களுக்கு-கருத்து-தெரிவித்தால்-உட்கட்சி-முரண்பாடுகள்-வரும்/150-332522) · `ta`
 
-கூட்டத்தை ஒத்தி வைப்பது தொடர்பான அதிகாரம் பதில் பொதுச் செயலாளருக்குத்தான் உள்ளது. இது ஒரு சட்ட ரீதியான விடயமாகும் அந்த அடிப்படையில் கூட்ட தீர்மானம் என்ன என்பது தொடர்பில் அவர் தலைவருக்கு கடிதம் எழுதியுள்ளதாக நான் அறிகின்றேன்.  அதற்குரிய கடிதத்தையும் நான் பார்த்திருந்தேன்.
+The General Secretary has the authority to postpone the meeting. This is a legal issue and I know that he has written to the leader on what the meeting is on that basis.I also saw the letter.
 
-இந்த விடையம் தொடர்பில் ஊடகங்களுக்கு கருத்துக்கள் வழங்கினால்  உட்கட்சி முரண்பாடுகள் பல வரும் காரணமாக இதுதொடர்பில் மேலதிக விபரங்களை நான் தெரிவிக்க விரும்பவில்லை  என இலங்கைத் தமிழரசுக் கட்சியின் மட்டக்களப்பு பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன் தெரிவித்துள்ளார்.
+"I do not want to report further details in this regard," said R. Sanakiyan, a member of the Sri Lanka Tamil National Alliance (TNA).
 
-மட்டக்களப்பு மாவட்டம் மண்முனை தென் எருவில்பற்று பிரதேசத்திற்கான அபிவிருத்திக்குழுக் கூட்டம் களுவாஞ்சிகுடியில் அமைந்துள்ள பிரதேச செயலக மாநாட்டு மண்டபத்தில் வியாழக்கிழமை (01) நடைபெற்றது. இதன்போது கலந்து கொண்ட பின்னர் ஊடகவியலாளர்களின் கேள்விகளுக்குப் பதிலளிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+The Development Committee meeting for the Manmunai South Eruvilpattu area in Batticaloa district was held on Thursday (01) at the Divisional Secretariat Conference Hall in Kaluwanchikudi. He said this while responding to questions from journalists after attending.
+
+Former President of the Sri Lanka TNA. The general secretary has the powers relating to the holding and postponing party meetings. The second deputy secretary of parliament MA Sumanthiran was held in accordance with the party's Yap as the doctor Sathiyalingam, who served as the General Secretary in response to the recent party meeting in Trincomalee.
 
 ...
 
 [Data](articles/8618b189.json)
+
+[Extended Data](ext_articles/8618b189.ext.json)
 
 ---
 
@@ -1701,309 +1991,5 @@ In his opening remarks Dr. Dzung stated that today negotiation skills, whether t
 [Data](articles/058e6855.json)
 
 [Extended Data](ext_articles/058e6855.ext.json)
-
----
-
-### 162 graduates appointed to address growing interest in foreign languages
-
-*2024-02-01 23:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/162-graduates-appointed-to-address-growing-interest-in-foreign-languages/108-276159) · `en`
-
-Colombo, Feb 1 (Daily Mirror) - Considering the increasing tendency among students to learn foreign languages, the global economic trends and current economic priorities in Sri Lanka, a total of 162 graduates were recruited today to teach foreign languages in national schools.
-
-While participating in the ceremony at the Ministry to hand over the appointments, Education Minister Susil Premajayantha said the teacher appointments were made to 3-1 (a) Grade in the Sri Lanka Teaching Service.
-
-A Cabinet decision was taken to recruit qualified graduates as teachers to teach French, Japanese, Chinese, Korean, Hindi and German subjects in government schools with the aim of introducing new foreign languages to schools where language laboratories are currently operating, with the aim of expanding the number of foreign language schools currently in the school system.
-
-◼️
-
-[Data](articles/1aa00a70.json)
-
-[Extended Data](ext_articles/1aa00a70.ext.json)
-
----
-
-### Petition filed challenging Cabinet decision to split SLIC into two institutions
-
-*2024-02-01 22:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96931/petition-filed-challenging-cabinet-decision-to-split-slic-into-two-institutions) · `en`
-
-General Secretary of the Sri Lanka Insurance Corporation (SLIC) Udayanga Rathna Diwakara on Thursday (01 Feb.) filed a petition before the Court of Appeals, seeking a writ order annulling the Cabinet decision that SLIC be split into two institutions.
-
-A total of 56 persons, including Prime Minister Dinesh Gunawardena, the Cabinet of Ministers, the SLIC and its Board of Directors, were named as respondents in the petition which claims that such a decision cannot be made solely by the Cabinet in the absence of parliamentary approval.
-
-Diwakara further pointed out that the SLIC is not only a profit-making institution but also one that also brings large amounts of welfare benefits to the public.
-
-Apart from requesting the Appellate Court to issue an interim order against the relevant decision, in his petition Diwakara also sought an order against the SLIC’s Board of Directors, preventing the company’s assets and properties from being split into two institutions.
-
-...
-
-[Data](articles/3de311a6.json)
-
-[Extended Data](ext_articles/3de311a6.ext.json)
-
----
-
-### ILO assures fullest support towards developing Sri Lanka’s labour sector
-
-*2024-02-01 22:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/96930/ilo-assures-fullest-support-towards-developing-sri-lankas-labour-sector) · `en`
-
-Prime Minister Dinesh Gunawardena requested the International Labour Organisation (ILO) to assist the government’s initiative to introduce a dispute prevention and resolution mechanism to public service.
-
-He made this request when ILO Country Director Joni Simpson called on the Prime Minister at the Temple Trees today (01 Feb.), together with United Nations Resident Coordinator Marc-André Franche.
-
-The delegation thanked the Prime Minister for the initiative taken in this regard and obtaining the approval of the Cabinet of Ministers for the proposal.
-
-They assured the Prime Minister their fullest support to implement the proposed mechanism, which would not only result in resolving disputes, but also the prevention of disputes in future through a system of tripartite dialogue.
-
-...
-
-[Data](articles/3cc599d7.json)
-
-[Extended Data](ext_articles/3cc599d7.ext.json)
-
----
-
-### General Daya Ratnayake has not left SJB: Party official
-
-*2024-02-01 22:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/General-Daya-Ratnayake-has-not-left-SJB-Party-official/108-276158) · `en`
-
-Colombo, Feb 1 (Daily Mirror) - The report which said the former Army Commander had left Samagi Jana Balawegaya (SJB) is false, an official statement from the party said.
-
-In a statement signed by Sujeewa Senasinghe who has been appointed as campaign manager, said the report that Ratnayake had joined Mawbima Janatha Party was false.
-
-"The photograph circulated in social media taken with businessman Dilith Jayaweera is an old photograph," he said.
-
-Meanwhile, it was reported that some MPs from the SJB has called for a working committee meeting to discuss the crisis that had hit the party following the appointment of General Ratnayake as a senior advisor by party leader Sajith Premadasa.
-
-◼️
-
-[Data](articles/ed7da4a1.json)
-
-[Extended Data](ext_articles/ed7da4a1.ext.json)
-
----
-
-### Without the unwise woman who was close to a woman near Kosgama
-
-*2024-02-01 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192864) · `si`
-
-Police have commenced investigations into a woman who had fled a gold necklace at Kosgama fair.
-
-The incident is a resident of the Kosgama Temple Road area.
-
-The woman had arrived at Kosgama town for a blood test, and then she had gone to Kosgama fair.
-
-The woman had told the police that the suspect had the meeting and told her that she was fainted at a moment.
-
-Later, she had lodged a complaint with the police that she had been sitting at a chair and stayed near it.
-
-The woman has added that the gold rulletin, which is burdening two pounds, heavy and two hundred and twenty-thousand pertishes were hanged.
-
-According to a complaint, the Kosgama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/bf9acaa1.json)
-
-[Extended Data](ext_articles/bf9acaa1.ext.json)
-
----
-
-### Petition against a Cabinet Decision
-
-*2024-02-01 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192863) · `si`
-
-Sri Lanka Insurance Society General Secretary General of the Commonwealth Insurance Union, the General Secretary of the Sri Lanka Insurance Union, has filed a petition before the Court of Appeal today to issue a decomposed line of the Sri Lanka Insurance Corporation to be allocated as two companies..
-
-Prime Minister Dinesh Gunawardena has been named as the respondents, the Prime Minister, Sri Lanka Insurance Corporation and its Board of Directors.
-
-The petitioner says that he had heard that the Cabinet had decided to allocate the Sri Lanka Insurance Corporation and companies.
-
-He said that the Chairman of the Insurance Corporation had issued this statement on April 25.
-
-He pointed out that there is no legal right to the Cabinet of Parliament without obtaining this decision.
-
-He says the Sri Lanka Insurance Corporation is a profit making organization and it will provide a great success for the people.
-
-...
-
-[Data](articles/2afdfa95.json)
-
-[Extended Data](ext_articles/2afdfa95.ext.json)
-
----
-
-### Sri Lanka Telecom announces second leadership transition in seven months
-
-*2024-02-01 21:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-Telecom-announces-second-leadership-transition-in-seven-months/155-276153) · `en`
-
-Sri Lanka Telecom has seen its leadership change for the second time in about seven months with the entity affirming the appointment of a new Chairman.
-
-The stressed state-owned telco, which has been making headlines this week for the changes in its Board, disclosed to the Colombo Stock Exchange (CSE) that upon the review and recommendation of the Nominations and Governance Committee, A.K.D.D.D. Arandara has been appointed as a Non-Independent Non-Executive Director and Chairman with effect from 1 February.
-
-Earlier this week, Reyaz Mihular stepped down from his position as Chairman after the government said it would reconstitute the SLT Board. The decision was due to the latter refusing to withdraw the case against the proposed merger between industry leader Dialog Axiata and Airtel.
-
-◼️
-
-[Data](articles/40ae4d22.json)
-
-[Extended Data](ext_articles/40ae4d22.ext.json)
-
----
-
-### Sri Lanka Telecom announces second leadership transition in seven months
-
-*2024-02-01 21:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Telecom-announces-second-leadership-transition-in-seven-months/108-276153) · `en`
-
-Sri Lanka Telecom has seen its leadership change for the second time in about seven months with the entity affirming the appointment of a new Chairman.
-
-The stressed state-owned telco, which has been making headlines this week for the changes in its Board, disclosed to the Colombo Stock Exchange (CSE) that upon the review and recommendation of the Nominations and Governance Committee, A.K.D.D.D. Arandara has been appointed as a Non-Independent Non-Executive Director and Chairman with effect from 1 February.
-
-Earlier this week, Reyaz Mihular stepped down from his position as Chairman after the government said it would reconstitute the SLT Board. The decision was due to the latter refusing to withdraw the case against the proposed merger between industry leader Dialog Axiata and Airtel.
-
-◼️
-
-[Data](articles/a53c3391.json)
-
-[Extended Data](ext_articles/a53c3391.ext.json)
-
----
-
-### Sri Lanka face Afghanistan in historic Test
-
-*2024-02-01 21:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-face-Afghanistan-in-historic-Test/108-276152) · `en`
-
-Feb. 1 - Sri Lanka will hope to revive their flagging Test fortunes when they take on Afghanistan in their historic one-off match starting at the SSC Grounds in Maitland Place Tomorrow.
-
-The island nation is last on the World Test Championship Rankings and their previous match in October at the same ground saw a humiliating innings and 222-run loss to Pakistan in their worst ever home defeat.
-
-Dhananjaya de Silva, a middle-order batsman and handy off-spinner, takes charge with three uncapped players among the 16-member Sri Lanka Squad.
-
-Bowlers Chamika Gunasekara and Milan Rathnayake alongside opener Lahiru Udara have been selected while fast bowler Kasun Rajitha, who missed the recent home series against Zimbabwe due to injury, is making a comeback into the side.
-
-Meanwhile, Afghanistan are making a name for themselves in white-ball cricket but have had less chance to impress in five-day matches since being granted Test status in 2017.
-
-...
-
-[Data](articles/d08f2d3f.json)
-
-[Extended Data](ext_articles/d08f2d3f.ext.json)
-
----
-
-### New job from police to catch beef thieves
-
-*2024-02-01 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192862) · `si`
-
-Police have planned to launch a new program to prevent theft of cattle in the North Central Province.
-
-The assistance of community police committees and the Civil Defense Forces will be acquired for this program.
-
-The new program is scheduled to commence on the second week of February on the second week of February, acting IGP.
-
-It is reported that 335 persons have been reported in the North Central Province to Rs.
-
-◼️
-
-[Data](articles/f34f9ea9.json)
-
-[Extended Data](ext_articles/f34f9ea9.ext.json)
-
----
-
-### Biden to issue executive order targeting Israeli settlers attacking Palestinians in West Bank
-
-*2024-02-01 21:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/96929/-biden-to-issue-executive-order-targeting-israeli-settlers-attacking-palestinians-in-west-bank) · `en`
-
-President Joe Biden is expected to issue an executive order targeting Israeli settlers in the West Bank who have been attacking Palestinians in the occupied territory, according to four people familiar with the matter.
-
-A senior administration official, who like the others was not authorized to comment publicly and spoke on condition of anonymity, said the White House was expected to announce the order later Thursday.
-
-Biden has spoken out against retaliatory attacks by Israeli settlers against Palestinians in the West Bank in the aftermath of the Hamas attacks against Israel on Oct. 7. The president has pledged that those responsible for the violence will be held accountable.
-
-The executive order is expected to set the ground for imposing sanctions on individuals who have engaged in violence against Palestinians in the West Bank.
-
-...
-
-[Data](articles/1db371de.json)
-
-[Extended Data](ext_articles/1db371de.ext.json)
-
----
-
-### Sri Lanka cannot afford to be isolated on global stage - State Minister
-
-*2024-02-01 21:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/96928/sri-lanka-cannot-afford-to-be-isolated-on-global-stage-state-minister) · `en`
-
-State Minister of Foreign Affairs Tharaka Balasuriya, has defended the President’s recent foreign trips against criticism. He dismissed claims that the trips were unnecessary, emphasizing their importance in strengthening Sri Lanka’s foreign relations and securing new partnerships.
-
-Mr. Balasuriya stressed that Sri Lanka cannot afford to be isolated on the global stage.
-
-He argued that foreign relations are crucial for the country’s development, and that the President’s visits are essential for building bridges and fostering cooperation with other nations. He dismissed criticisms of the trips as baseless, asserting that they play a vital role in Sri Lanka’s pursuit of progress.
-
-State Minister of Foreign Affairs Tharaka Balasuriya, speaking at a press briefing today (01) titled ‘Collective Path to a Stable Country,’ held at the President Media Centre (PMC) highlighted recent efforts to attract investment and rebuild the nation.
-
-...
-
-[Data](articles/08163f63.json)
-
-[Extended Data](ext_articles/08163f63.ext.json)
-
----
-
-### Sri Lanka cannot afford to be isolated on the global stage - State Minister
-
-*2024-02-01 21:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/96928/sri-lanka-cannot-afford-to-be-isolated-on-the-global-stage-state-minister) · `en`
-
-State Minister of Foreign Affairs Tharaka Balasuriya, has defended the President’s recent foreign trips against criticism. He dismissed claims that the trips were unnecessary, emphasizing their importance in strengthening Sri Lanka’s foreign relations and securing new partnerships.
-
-Mr. Balasuriya stressed that Sri Lanka cannot afford to be isolated on the global stage.
-
-He argued that foreign relations are crucial for the country’s development, and that the President’s visits are essential for building bridges and fostering cooperation with other nations. He dismissed criticisms of the trips as baseless, asserting that they play a vital role in Sri Lanka’s pursuit of progress.
-
-State Minister of Foreign Affairs Tharaka Balasuriya, speaking at a press briefing today (01) titled ‘Collective Path to a Stable Country,’ held at the President Media Centre (PMC) highlighted recent efforts to attract investment and rebuild the nation.
-
-...
-
-[Data](articles/2261928b.json)
-
-[Extended Data](ext_articles/2261928b.ext.json)
-
----
-
-### State Minister defends President’s foreign trips
-
-*2024-02-01 21:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/State-Minister-defends-Presidents-foreign-trips/108-276151) · `en`
-
-Colombo, Feb 01 -  State Minister of Foreign Affairs Taraka Balasuriya, has defended President Ranil Wickremesinghe's recent foreign trips against criticism and stressed that Sri Lanka cannot afford to be isolated on the global stage.
-
-He dismissed claims that the trips were unnecessary, emphasizing their importance in strengthening Sri Lanka's foreign relations and securing new partnerships, the President’s Media Division said.
-
-He argued that foreign relations are crucial for the country's development, and that the President's visits are essential for building bridges and fostering cooperation with other nations. He dismissed criticisms of the trips as baseless, asserting that they play a vital role in Sri Lanka's pursuit of progress.
-
-State Minister of Foreign Affairs Tharaka Balasuriya, speaking at a press briefing yesterday (01) titled 'Collective Path to a Stable Country,' held at the President Media Centre (PMC) highlighted recent efforts to attract investment and rebuild the nation.
-
-...
-
-[Data](articles/2eab194f.json)
-
-[Extended Data](ext_articles/2eab194f.ext.json)
-
----
-
-### Cricket ball which went to space
-
-*2024-02-01 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192861) · `si`
-
-The International Cricket Council has published a unique video of the International Cricket Council to promote the Twenty20 World Cup.
-
-The sportsmen have now been able to book tickets to view the Twenty20 World Cup.
-
-According to the visitors to Tickets.T20worldcup.com, the lovers have the opportunity to hear the Twenty20 World Cup, which will be held under the benefit of the West Indies and West Indies.
-
-◼️
-
-[Data](articles/7ae9b1c9.json)
-
-[Extended Data](ext_articles/7ae9b1c9.ext.json)
 
 ---

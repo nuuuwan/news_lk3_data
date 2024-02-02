@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 14:50:03**
+As of **2024-02-02 15:02:20**
 
 ## Newspaper Stats
 
-*Scraped **4,350** Articles*
+*Scraped **4,356** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,56 @@ bbccomsinhala | 67
 dbsjeyarajcom | 132
 islandlk | 230
 economynextcom | 244
-newsfirstlk | 269
+newsfirstlk | 270
 dailyftlk | 272
-adalk | 385
+adalk | 386
 virakesarilk | 488
 adaderanasinhalalk | 517
-adaderanalk | 543
-tamilmirrorlk | 555
+adaderanalk | 545
+tamilmirrorlk | 557
 dailymirrorlk | 598
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,340 (99.8%) of 4,350 articles have been extended.
+4,350 (99.9%) of 4,356 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### Online Safety Act gazetted
+
+*2024-02-02 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96948/online-safety-act-gazetted) · `en`
+
+The Online Safety Act has been published in the government gazette, enacting it as the Online Safety Act, No. 9 of 2024.
+
+Accordingly, the Act will provide for the establishment of the Online Safety Commission, safety from prohibited statements made online and prevention of the use of online accounts and inauthentic online accounts for prohibited purposes.
+
+It is also expected to make provisions to identify and declare online locations used for prohibited purposes in Sri Lanka and suppress the financing and other support of communication of prohibited statements and for matters connected therewith or incidental thereto.
+
+The legislation which seeks to regulate online content was passed in Parliament, with amendments on 24 January, amidst objections from opposition politicians and activists who allege the new law will muzzle free speech.
+
+...
+
+[Data](articles/46d7c802.json)
+
+---
+
+### Anti-Terrorism Bill: Petition hearing concludes, SC to send determination to Speaker
+
+*2024-02-02 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/96947/anti-terrorism-bill-petition-hearing-concludes-sc-to-send-determination-to-speaker) · `en`
+
+The Supreme Court on Friday (Feb.02) concluded the hearing of petitions filed challenging the government’s new Anti-Terrorism Bill.
+
+Accordingly, the determination of the Supreme Court is slated to be forwarded to the Speaker of Parliament soon.
+
+◼️
+
+[Data](articles/4fb6327b.json)
+
+---
 
 ### Self-proclaimed ‘Vishwa Buddha’ remanded further
 
@@ -47,6 +79,8 @@ The Colombo Magistrate’s Court, advising the suspect, had ordered him not to b
 ...
 
 [Data](articles/6eff3e2c.json)
+
+[Extended Data](ext_articles/6eff3e2c.ext.json)
 
 ---
 
@@ -84,17 +118,21 @@ The MP alleged that the Minister’s involvement in the Human Immunoglobulin sca
 
 [Data](articles/e1f673d5.json)
 
+[Extended Data](ext_articles/e1f673d5.ext.json)
+
 ---
 
-### தொடரும் சுகாதாரத்துறையினரின் பணிப்புறக்கணிப்பு
+### Continuity
 
 *2024-02-02 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175380) · `ta`
 
-வைத்தியர்களுக்கு வழங்கப்பட்டு வரும் 30 ஆயிரம் ரூபா  கொடுப்பனவை தங்களுக்கும் வழங்குமாறு கோரி 72 சுகாதார சங்கங்கள் ஆரம்பித்துள்ள பணிப்புறக்கணிப்பு காரணமாக நேற்றும் வவுனியா வைத்தியசாலை நடவடிக்கைகளும் முடங்கியமை குறிப்பிடத்தக்கது.
+It is noteworthy that the Vavuniya Hospital yesterday was stalled due to the launch of 72 health societies, demanding the payment of 30 thousand rupees of payments to the doctors.
 
 ◼️
 
 [Data](articles/a1124785.json)
+
+[Extended Data](ext_articles/a1124785.ext.json)
 
 ---
 
@@ -116,25 +154,45 @@ In 2013, the first film of Nisha, "Nasa" had joined Bollywood cinema.
 
 ---
 
-### நடிகை பூனம் பாண்டே காலமானார்
+### Actress Poonam Pandey has passed away
 
 *2024-02-02 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/175384) · `ta`
 
-நடிகை பூனம் பாண்டே (32) புற்றுநோயால் இன்று வெள்ளிக்கிழமை (02) காலை காலமாகியுள்ளார்.
+Actress Poonam Pandey (32) has passed away this Friday morning (02).
 
-சர்ச்சைக்குரிய நடிகை பூனம் பாண்டே கர்ப்பை புற்றுநோயால்  உயிரிழந்துவிட்டதாக அவரது மேலாளர் அதிகாரபூர்வமாக அறிவித்துள்ளார்.
+Controversial actress Poonam Pandey has officially announced that her dies of pregnancy has died.
 
-பூனம் பாண்டே 2011 உலகக் கோப்பையில் இந்தியா வென்றால் நிர்வாணமாக வீடியோ வெளியிடுகிறேன் எனக் கூறி பின்னர் கூறியபடி செய்தும் பிரபலமானவர்.
+Poonam Pandey is famous for later saying that if India wins the 2011 World Cup, I will release the video naked.
 
-இவர் கடந்த 2020 ஆம் ஆண்டு தன் காதலன் சாம் பாம்பெயை திருமணம் செய்துகொண்டார்.
+He married her boyfriend Sam Bombay in 2020.
 
-இதனிடையே, பூனம் பாண்டே கருப்பை வாய் புற்றுநோயால் பாதிக்கப்பட்டார். இதற்காக அவர் சிகிச்சை பெற்றுவந்தார்.
+In the meantime, Poonam Pandey suffered from cervical cancer. He was treated for this.
 
-இந்நிலையில், கர்ப்பப்பை வாய் புற்றுநோயால் பாதிக்கப்பட்ட பூனம் பாண்டே இன்று சிகிச்சை பலனின்றி உயிரிழந்தார்.
+In this case, Poonam Pandey died of cervical cancer today died without treatment.
 
 ◼️
 
 [Data](articles/e3a41347.json)
+
+[Extended Data](ext_articles/e3a41347.ext.json)
+
+---
+
+### ’’தமிழக வெற்றி கழகம்’’: கட்சியை பதிவு செய்தார்  விஜய்
+
+*2024-02-02 13:33:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-வெற்றி-கழகம்-கட்சியை-பதிவு-செய்தார்-விஜய்/175-332547) · `ta`
+
+நடிகர் விஜய் "தமிழக வெற்றி கழகம்" என்ற புதிய கட்சியை தொடங்கியுள்ளார். தனது கட்சியின் பெயரை புதுடெல்லி தேர்தல் ஆணையத்தில் பதிவு செய்துள்ளார்.
+
+"விஜய் மக்கள் இயக்கம்" பல வருடங்களாக தன்னால் இயன்ற வரையில் பல்வேறு மக்கள் நலத்திட்டங்களையும், சமூக சேவைகளையும், நிவாரண உதவிகளையும் செய்துவருவது நீங்கள் அனைவரும் அறிந்ததே. இருப்பினும், முழுமையான சமூக, பொருளாதார, அரசியல் சீர்திருத்தங்களை கொண்டுவர ஒரு தன்னார்வ அமைப்பினால் மட்டும் இயலாத காரியம். அதற்கு அரசியல் அதிகாரம் தேவைப்படுகிறது.
+
+தற்போதைய அரசியல் சூழல் பற்றி நீங்கள் அனைவரும் அறிந்ததே. நிர்வாக சீர்கேடுகள் மற்றும் "ஊழல் மலிந்த அரசியல் கலாச்சாரம்"
+
+ஒருபுறம் என்றால், நம் மக்களை சாதி மத பேதங்கள் வாயிலாக பிளவுபடுத்த துடிக்கும் "பிளவுவாத அரசியல் கலாச்சாரம்" மறுபுறம், என்று இருபுறமும் நம் ஒற்றுமைக்கும் முன்னேற்றத்திற்குமான முட்டுக்கட்டைகள் நிறைந்துள்ளன.
+
+...
+
+[Data](articles/12f61645.json)
 
 ---
 
@@ -176,39 +234,49 @@ Accordingly, most of the famous songflies such as Taylor Swift, Drake and Olives
 
 ---
 
-### வவுனியா நடைபாதை வியாபார நிலையங்கள் நகரசபையால் அகற்றம்!!
+### Vavuniya sidewalk businesses remove the municipality !!
 
 *2024-02-02 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175382) · `ta`
 
-வவுனியா சந்தை சுற்றுவட்ட வீதியில் அமைந்துள்ள நடைபாதை வியாபார நிலையங்கள் நகரசபையால் வெள்ளிக்கிழமை (02) அகற்றப்பட்டது.
+The corridor businesses located on the Vavuniya market surrounding road were removed by the Municipality on Friday.
 
-வவுனியா பொது வைத்தியசாலை சந்தியில் இருந்து கொரவப்பொத்தான வீதி மற்றும் சந்தை உள்வட்ட வீதி ஆகியவை நடைபாதை வியாபாரிகளால் ஆக்கிரமிக்கப்பட்டுள்ளதால் பாதசாரிகள் பல்வேறு அசௌகரியங்களை எதிர்கொண்டுவருகின்றனர். இதனால் அடிக்கடி வாகன நெரிசல் ஏற்பட்டுவருவதுடன், விபத்துக்களை சந்திக்கும் நிலைமையும் எற்பட்டுள்ளது.
+Pedestrians are facing various inconveniences because of the Vavuniya General Hospital junction and the Koravapotha road and the market inner street are occupied by corridors.. This causes frequent traffic congestion and causes accidents.
 
-நடைபாதைகளை ஆக்கிரமித்து வியாபாரம் மேற்கொள்ளப்படுவதால் பாதசாரிகள் பிரதான வீதியால் நடந்து செல்லவேண்டிய அவலநிலைமை ஏற்பட்டுள்ளது.
+The trade is occupied by the sidewalks and has caused pedestrians to walk on the main road.
 
-இது தொடர்பில் நகரசபை நடவடிக்கை எடுத்திருந்தபோதிலும் தினந்தோறும் நடைபாதையினை ஆக்கிரமிக்கும் வியாபார நிலையங்கள் அதிகரித்து செல்கின்றது.
+Although the municipal council has taken action in this regard, there is an increase in business centers that occupy the sidewalk daily.
 
-இந்நிலையில் சந்தைசுற்றுவட்ட வீதிக்கு வெள்ளிக்கிழமை (02) சென்ற வவுனியா நகரசபை உத்தியோகத்தர்கள் மற்றும் போக்குவரத்து பொலிசார் நடைபாதை வியாபாரநிலையங்களை அகற்றியதுடன், அவர்களது பொருட்களையும் பறிமுதல் செய்தனர்.
+In this case, the Vavuniya Municipal Officers and Transport Police, who went to the Marketback Road on Friday (02), removed the corridors and confiscated their goods.
 
-...
+Meanwhile, the public has demanded that the municipal council take steps to remove the corridor outlets located on the road.
+
+◼️
 
 [Data](articles/b8bfad99.json)
 
+[Extended Data](ext_articles/b8bfad99.ext.json)
+
 ---
 
-### சர்வதேச அபிவிருத்திக்கான ஐக்கிய அமெரிக்க முகவர் நிறுவன அதிகாரி ஷனன் கிரீன் பாராளுமன்றத்துக்கு விஜயம்
+### Shannan Green visited parliament for international development
 
 *2024-02-02 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175381) · `ta`
 
-சர்வதேச அபிவிருத்திக்கான ஐக்கிய அமெரிக்க முகவர் நிறுவனத்தின் (USAID) ஜனநாயகம், மனித உரிமைகள் மற்றும் நிர்வாகத்திற்கான பணியகத்தின் நிர்வாக உதவியாளர் ஷனன் கிரீன் தலைமையிலான தூதுக்குழுவினர் இலங்கை பாராளுமன்றத்துக்கு அண்மையில் விஜயம் செய்தனர்.
+A delegation led by Shanan Greene, a Bureau of Bureau for Democracy, Human Rights and Administration for Democracy, Human Rights and Administration, has recently visited the Sri Lankan parliament.
 
-இந்தத் தூதுக்குழுவினர் சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன, பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர, பணியாட்தொகுதியின் பிரதானியும் பாராளுமன்ற பிரதி செயலாளர் நாயகமுமான சமிந்த குலரத்ன மற்றும் பாராளுமன்ற உதவிச் செயலாளர் நாயகம் ஹன்ஸ அபேரத்ன ஆகியோருடன் கலந்துரையாடல்களை மேற்கொண்டனர்.
+The delegation held discussions with Speaker Mahinda Yapa Abeywardena, Parliamentary Secretary General Kushani Rohanadeera, Chief of the Station and Deputy Secretary General of Parliament and Hansa Abeyratne.
 
-அத்துடன், திறந்த பாராளுமன்ற முன்னெடுப்புக்கான பாராளுமன்ற ஒன்றியத்தின் உறுப்பினர்களுடனும்  தூதுக்குழுவினர் கலந்துரையாடியதுடன், இதன்போது பாராளுமன்ற உறுப்பினர்களான கோகிலா குணவர்தன, நிரோஷன் பெரேரா மற்றும் கௌரவ பிரேம்நாத் சி தொலவத்த ஆகியோரும் கலந்துகொண்டனர்.
+The delegation also discussed with members of the Parliamentary Union for the Open Parliamentary Affairs and the members of Parliament Kokila Gunawardena, Niroshan Perera and Hon.
+
+These discussions focused on the implementation of the Open Government Partnership in Sri Lanka, the Parliamentary Supervisory Committees, the Parliamentary Union for the Open Parliamentary Affairs, and the favorable initiatives of the Members of Parliament.
+
+It was also discussed on the measures being taken to ensure the role of the public in democracy, transparency and the role of the public in legal process.
 
 ...
 
 [Data](articles/2c52bb25.json)
+
+[Extended Data](ext_articles/2c52bb25.ext.json)
 
 ---
 
@@ -239,6 +307,32 @@ The two suspects have been referred to the forensic doctor and the foreign girl 
 [Data](articles/6995a296.json)
 
 [Extended Data](ext_articles/6995a296.ext.json)
+
+---
+
+### Hospital activities severely disrupted due to strike action
+
+*2024-02-02 13:11:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/hospital-activities-severely-disrupted-due-to-strike-action/) · `en`
+
+COLOMBO (News 1st); There have been serious disruptions to hospital activities on Friday (02) as well, due to the strike launched by 72 health trade unions.
+
+News 1st correspondent said issuing medicines, conducting tests and conducting radiological tests in many hospitals was hampered.
+
+The members of 72 health trade unions launched the strike at 6.30am on Thursday (01) demanding that the Rs.35,000 allowance granted to doctors be given to them as well.
+
+The Health Trade Union Alliance said health authorities did not provide a response to their demands on Thursday (01).
+
+Co-Convener of the Health Trade Union Alliance Ravi Kumudesh said the strike action was a success.
+
+He said the trade union leaders will convene on Friday (02) afternoon to discuss the future measures.
+
+Army Spokesperson Major General Rasika Kumara said 1,000 Army personnel were deployed to restore the hospital services disrupted by the strike.
+
+Gazette issued making it mandatory to display weight and price of bread
+
+...
+
+[Data](articles/aa15ce2a.json)
 
 ---
 
@@ -288,35 +382,39 @@ Furthermore, MP Dayasiri claimed that none of the political parties have any fai
 
 ---
 
-### வவுனியாவில் சிறைச்சாலை அதிகாரிகளின் காவலில் இருந்த சந்தேகநபர் தப்பியோட்டம்  ; பொலிஸார் தேடுதல் வேட்டை
+### The suspect, who was under the custody of prison authorities in Vavuniya;The police are searching
 
 *2024-02-02 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175378) · `ta`
 
-வவுனியா மாவட்ட பொது வைத்தியசாலையில் சிறைச்சாலை அதிகாரிகளின் காவலில் இருந்த சந்தேகநபர் ஒருவர் நேற்று  முன்தினம் புதன்கிழமை (31) காலை தப்பியோடியுள்ளமை தொடர்பில் பொலிஸார்  தேடுதல் நடவடிக்கையினை முன்னெடுத்துள்ளனர்.
+Police have launched a search operation on the escape of a suspect in the custody of the prison officials at the Vavuniya District General Hospital on Wednesday morning.
 
-கஞ்சா விற்பனை மற்றும் வைத்திருந்தமை குற்றச்சாட்டில் கடந்த 26.01.2024 அன்று நெளுக்குளம் பொலிஸாரினானால் கைது செய்யப்பட்ட 28 வயதுடைய இளைஞன் வவுனியா மாவட்ட நீதிவான் நீதிமன்றில் ஆயர்படுத்தப்பட்ட பின்னர் வவுனியா சிறைச்சாலையில் தடுப்புக்காவலில் வைக்கப்பட்டிருந்தார்.
+The 28 -year -old youth arrested by the Nelukkulam Police on 26.01.2024 was detained at the Vavuniya Prison after being submitted to the Vavuniya District Magistrate's Court on 26.01.2024.
 
-இந்நிலையில் 29.01.2024 அன்று சிறைச்சாலையில் அவ் சந்தேகநபரான 28 வயதுடைய இளைஞருக்கு ஏற்பட்ட சுகயீனம் காரணமாக வவுனியா மாவட்ட பொது வைத்தியசாலையில் சிறைச்சாலை அதிகாரிகளின் காவலில் அவருக்கு சிகிச்சை வழங்கப்பட்டது.
+In this case, he was treated in the custody of the prison authorities at the Vavuniya District General Hospital due to his illness on the 28 -year -old youth at the prison on 29.01.2024.
 
-இந்நிலையிலேயே நேற்று முன்தினம் காலை 6.00 மணியளவில் வவுனியா மாவட்ட பொது வைத்தியசாலையிலிருந்து தப்பியோடியுள்ளார். தப்பியோடிய குறித்த சந்தேகநபரை கைது செய்வதற்குரிய நடவடிக்கையினை வவுனியா பொலிஸார் மற்றும் சிறைச்சாலை அதிகாரிகள் முன்னெடுத்துள்ளனர்.
+In the meantime, he fled the Vavuniya District General Hospital at 6.00 am yesterday.. Vavuniya police and prison officials have taken steps to arrest the suspect.
 
 ◼️
 
 [Data](articles/e86837b2.json)
 
+[Extended Data](ext_articles/e86837b2.ext.json)
+
 ---
 
-### தரம் 5 புலமைப்பரிசில் பரீட்சை வெட்டுப்புள்ளி வெளியானது
+### Grade 5 Scholarship Examination has been released
 
 *2024-02-02 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/175376) · `ta`
 
-நாடளாவிய ரீதியில் நடத்தப்பட்ட 2023ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சையின் அடிப்படையில், அடுத்த வருடம் 6ஆம் தரத்துக்கு மாணவர்களை பாடசாலைகளில் இணைத்துக்கொள்வதற்கான வெட்டுப்புள்ளிகளை இன்று வெள்ளிக்கிழமை (02) பரீட்சைகள் திணைக்களம் வெளியிட்டுள்ளது.
+The Department of Examinations today (02) has released the cut off points for enrolling students to school for the 6th of next year, based on the Grade 5 Scholarship Examination for 2023.
 
-இணையதளங்களில் முடிவுகளை பெற விரும்பும் மாணவர்கள் தங்கள் சரியான பரீட்சை சுட்டெண்ணை உள்ளிடுமாறு கேட்டுக்கொள்ளப்படுகின்றனர்.
+Students who wish to get results on websites are asked to enter their correct examination index.
 
 ◼️
 
 [Data](articles/2d4d1ba8.json)
+
+[Extended Data](ext_articles/2d4d1ba8.ext.json)
 
 ---
 
@@ -375,6 +473,8 @@ The contract aims to bring Thai goods to new markets in South Asia by accelerati
 ...
 
 [Data](articles/956f4e64.json)
+
+[Extended Data](ext_articles/956f4e64.ext.json)
 
 ---
 
@@ -474,6 +574,20 @@ According to these school cutting points, the students who have passed the Grade
 
 ---
 
+### வெட்டுப்புள்ளிகள் வெளியாகின: பாடசாலை விபரங்கள் இணைப்பு
+
+*2024-02-02 12:19:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெட்டுப்புள்ளிகள்-வெளியாகின-பாடசாலை-விபரங்கள்-இணைப்பு/175-332541) · `ta`
+
+2023 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சைக்கமைய, பிரபல பாடசாலைகளுக்கான வெட்டுப்புள்ளிகள் கல்வி அமைச்சினால் வெளியிடப்பட்டுள்ளன.
+
+இந்த பாடசாலைகளுக்கான வெட்டுப் புள்ளிகளுக்கு அமைய, தரம் 5 புலமைப்பரிசில் பரீட்சையில் சித்திபெற்ற மாணவர்களை, 6ஆம் தரத்துக்காக பிரபல பாடசாலைகளில் சேர்க்கும் செயன்முறை பின்பற்றப்படுகிறது.
+
+◼️
+
+[Data](articles/3271e8c4.json)
+
+---
+
 ### School cut-off marks of 2023 Grade 5 Scholarship exam released
 
 *2024-02-02 12:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96941/school-cut-off-marks-of-2023-grade-5-scholarship-exam-released) · `en`
@@ -544,6 +658,8 @@ Sri Lankan military personnel take part in the fourth day of rehearsals for the 
 
 [Data](articles/b9ec005a.json)
 
+[Extended Data](ext_articles/b9ec005a.ext.json)
+
 ---
 
 ### Maradariat marks for schools released according to scholarship results
@@ -561,6 +677,26 @@ It is also known that the students received by the students who have received fr
 [Data](articles/9d47ac85.json)
 
 [Extended Data](ext_articles/9d47ac85.ext.json)
+
+---
+
+### කැතේ පැසිෆික් යළි ලංකාවට ඒයි
+
+*2024-02-02 11:58:03* · [`adalk`](https://www.ada.lk/breaking_news/කැතේ-පැසිෆික්-යළි-ලංකාවට-ඒයි/11-407867) · `si`
+
+කොවිඩ් වසංගත සමයේ , එනම්  2020 මාර්තු මාසයේ සිට  තාවකාලිකව සිය ගුවන් ගමන් මෙහෙයුම්  අත්හිහිටුවා තිබූ කැතේ ෆැසිපික් ගුවන් සේවාව , යළිත් තම ගුවන් ගමන් මෙහෙයුම්  02/01 දින සිට සක්‍රීය කරමින් මංගල ගුවන් යානය  කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය .
+
+ඒ අනුව සතියේ  සෑම  අගහරුවාදා , බ්‍රහස්පතින්දා සහ සෙනසුරාදා යන දින වල හොංකොං සිට කටුනායක දක්වා ඍජු ගුවන් ගමන් සේවා කැතේ ෆැසිපික් ගුවන් සේවයේ මෙතැන් සිට ක්‍රියාත්මක කිරීමට නියමිතය .
+
+කැතේ ෆැසිපික් ගුවන් සේවයේ සී.එක්ස්.- 611 දරන ගුවන් යානය  02/01 දින මධ්‍යම රාත්‍රී 11.35 ට ගුවන් මගීන් 253 දෙනෙකු රැගෙන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+කැතේ ෆැසිපික් ගුවන් සේවය මෙම ගමන සදහා එයාර් බස් 330 - 300 වර්ගයේ ගුවන් යානයක් යොදවා තිබුණි .
+
+කැතේ ෆැසිපික් ගුවන් සේවා හොංකොං සිට ලොව පුරා රටවල් 80 ක ගමනාන්ත කරා සිය ගුවන් ගමන් මෙහෙයුම් සිදු කරමින් සිටිති .
+
+◼️
+
+[Data](articles/3a41f54e.json)
 
 ---
 
@@ -1885,123 +2021,5 @@ Arandara is a lawyer with a 25 years experience. (Colombo/Feb03/2024)
 [Data](articles/f008f19a.json)
 
 [Extended Data](ext_articles/f008f19a.ext.json)
-
----
-
-### Six new Assistant Governors at CBSL
-
-*2024-02-02 05:17:46* · [`dailyftlk`](https://www.ft.lk/news/Six-new-Assistant-Governors-at-CBSL/56-758057) · `en`
-
-The Central Bank announced yesterday that the Governing Board, at its meeting held on 19 January has promoted Dr. C. Amarasekara, W. A. Dilrukshini, Dr. P.K.G. Harischandra,D.S.W. Samaratunga, E.H. Mohotty, R.D.T. Gunasekara to the post of Assistant Governors with effect from 22 January.
-
-...
-
-[Data](articles/f67eb904.json)
-
-[Extended Data](ext_articles/f67eb904.ext.json)
-
----
-
-### Keheliya Rambukwella: How can a former Health Minister Help?
-
-*2024-02-02 05:09:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce7l28ddn0go) · `si`
-
-The former Health Minister and Minister of Environmental Minister Keheliya Rambukwella has been continuously accusing of former Health Minister and Minister of Environment Minister in the interpreter.
-
-The Criminal Investigation Department (CID) was given to the Department of Criminal Investigation (CID) but he did not go under the CID that he had to appear before the High Court and the CID.
-
-Minister Keheliya Rambukwella arrived at the Criminal Perpetratory Department at around 9.00 am (February 02). The Maligakanda Magistrate's Court (Maligakanda Magistrate) to go to the Department and ordered the statement (Feb 01).
-
-'Do I hide this investigation by Sagala's request?'
-
-The Maligakanda Magistrate's Court imposed a foreign travel ban against Minister Keheliya Rambukwella.
-
-The court ordered the release of the Consignment Controller of the Medical Supplies Division of the Ministry of Health on two personal bail of Rs.
-
-...
-
-[Data](articles/29d9d917.json)
-
-[Extended Data](ext_articles/29d9d917.ext.json)
-
----
-
-### SriLankan Airlines CEO points to technical woes, spare part delays
-
-*2024-02-02 05:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SriLankan-Airlines-CEO-points-to-technical-woes-spare-part-delays/155-276155) · `en`
-
-Colombo, Feb 01 (Daily Mirror) -  Chief Executive Officer (CEO) of SriLankan Airlines Richard Nuttall, who responded to concerns over flight delays, said though the delays were in line with the world averages, there are more delays than used to be because of technical issues.
-
-He said it is common for every airline to have delays but whenever there is a delay here, people tend to report it as it is the end of the world.
-
-“Every airline has flight delays. If Qatar Airways has a flight delay, it is not reported in the press in Qatar,” he said.
-
-He said SriLankan’s on-time performance was better than the average of the Oneworld carriers.
-
-“Every time I have an AOG (Aircraft on Ground), everything about the ability of that aircraft to fly again is governed by very strict manuals and checks and balances.
-
-...
-
-[Data](articles/e01234ac.json)
-
-[Extended Data](ext_articles/e01234ac.ext.json)
-
----
-
-### SriLankan Airlines CEO points to technical woes, spare part delays
-
-*2024-02-02 05:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-CEO-points-to-technical-woes-spare-part-delays/108-276155) · `en`
-
-Colombo, Feb 01 (Daily Mirror) -  Chief Executive Officer (CEO) of SriLankan Airlines Richard Nuttall, who responded to concerns over flight delays, said though the delays were in line with the world averages, there are more delays than used to be because of technical issues.
-
-He said it is common for every airline to have delays but whenever there is a delay here, people tend to report it as it is the end of the world.
-
-“Every airline has flight delays. If Qatar Airways has a flight delay, it is not reported in the press in Qatar,” he said.
-
-He said SriLankan’s on-time performance was better than the average of the Oneworld carriers.
-
-“Every time I have an AOG (Aircraft on Ground), everything about the ability of that aircraft to fly again is governed by very strict manuals and checks and balances.
-
-...
-
-[Data](articles/e191e3e1.json)
-
-[Extended Data](ext_articles/e191e3e1.ext.json)
-
----
-
-### Energy Minister holds crucial discussion for LNG power generation
-
-*2024-02-02 04:40:57* · [`dailyftlk`](https://www.ft.lk/news/Energy-Minister-holds-crucial-discussion-for-LNG-power-generation/56-758056) · `en`
-
-Power and Energy Minister Kanchana Wijesekera announced crucial discussions on LNG infrastructure development and gas supply to the Yughadhanavi and Sobhadabavi power plants.
-
-The announcement was made following a meeting at the Ministry, where key stakeholders explored avenues to expedite the transition to LNG for power generation. The Minister noted that requirements to facilitate the interim solution were discussed with the officials of the Ministry, Indian High Commission, Ceylon Electricity Board (CEB), Lanka Transformers Limited (LTL) and PetroNet LNG.
-
-“In the efforts to expedite the process to generate power from LNG the Government of India has proposed an interim solution from PetroNet LNG,” Wijesekera noted via ‘X’.
-
-◼️
-
-[Data](articles/ba8aa9f2.json)
-
-[Extended Data](ext_articles/ba8aa9f2.ext.json)
-
----
-
-### Bandaranaike Academy for Leadership and Public Policy dialogue on regulating online safety on 8 Feb
-
-*2024-02-02 04:39:55* · [`dailyftlk`](https://www.ft.lk/news/Bandaranaike-Academy-for-Leadership-and-Public-Policy-dialogue-on-regulating-online-safety-on-8-Feb/56-758055) · `en`
-
-The Bandaranaike Academy for Leadership and Public Policy (BALPP) will host a thought-provoking policy dialogue on the critical topic of “Regulating Online Safety: Ethics, Practice, and Legal Norms” on 8 February from 3:30 p.m. to 5:30 p.m. at the BMICH in Colombo 7.
-
-The Policy Dialogue, will be led by the students of the BALPP’s Cybersecurity Postgraduate Diploma course and Course Director Asela Waidyalankara. The event promises to delve deep into the multifaceted aspects of online safety and the controversial aspects of the recently passed Online Safety Bill.
-
-The distinguished panelists include: Colombo University Emeritus Prof of Law and former Vice Chancellor Prof Savitri Gunasekera and The Disinformation Project New Zealand Research Director and Groundviews, Sri Lanka’s first and award-winning civic media website Founding Editor  Dr. Sanjana Hattotuwa.
-
-...
-
-[Data](articles/9eb110e3.json)
-
-[Extended Data](ext_articles/9eb110e3.ext.json)
 
 ---

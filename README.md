@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 20:49:56**
+As of **2024-02-02 21:02:18**
 
 ## Newspaper Stats
 
-*Scraped **4,417** Articles*
+*Scraped **4,418** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 272
 newsfirstlk | 274
 adalk | 387
 virakesarilk | 498
-adaderanasinhalalk | 532
+adaderanasinhalalk | 533
 adaderanalk | 553
 tamilmirrorlk | 563
 dailymirrorlk | 612
@@ -26,11 +26,43 @@ dailymirrorlk | 612
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,415 (100.0%) of 4,417 articles have been extended.
+4,418 (100.0%) of 4,418 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### Beliatta murder of Beliatta revealed
+
+*2024-02-02 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192898) · `si`
+
+The main shot of the Beliatta murder has fled to Dubai state.
+
+The main shot of the Pantember murder of the Beliatta has been a pension soldier.
+
+The suspect has revealed that the three-year-old wife of the suspect had been arrested yesterday (01) after his arrest yesterday.
+
+They had been arrested while hiding in the Gonnahena camp in the Police Special Task Force.
+
+They found 21 grams and 350 milligrams of heroin.
+
+The suspects have told the police that the main shotter, retired Navy, and had joined the busy bus before the murder.
+
+After the assassination, the major shotler had fled to Dubai and the airline tickets were prepared in Dubai-kingdoms.
+
+Recently, a former former former MP in the Senaigama Pradeshiya Sabha near the 17th of June, last year, has also revealed the assassination of a former member of the Ratgama Pradeshiya Sabha.
+
+Former UNP UNP UNP MP Dulaj waves were shot dead.
+
+The suspects have told police a 23 year old resident of Dodddro, a 23 year old resident of Doddduwe.
+
+...
+
+[Data](articles/b56491f6.json)
+
+[Extended Data](ext_articles/b56491f6.ext.json)
+
+---
 
 ### Former Health Minister Keheliya Rambukwella arrested
 
@@ -47,6 +79,8 @@ After more than 10 hours of interrogation, the minister was arrested in connecti
 ◼️
 
 [Data](articles/0d48c612.json)
+
+[Extended Data](ext_articles/0d48c612.ext.json)
 
 ---
 
@@ -87,6 +121,8 @@ Understanding Sri Lanka’s Online Safety Act: What You Need to Know
 ◼️
 
 [Data](articles/315c9734.json)
+
+[Extended Data](ext_articles/315c9734.ext.json)
 
 ---
 
@@ -2007,19 +2043,5 @@ Meanwhile, the Consumer Affairs Affairs Authority has stated in the gazette noti
 [Data](articles/d1f9fa4b.json)
 
 [Extended Data](ext_articles/d1f9fa4b.ext.json)
-
----
-
-### Announced on Litro Gas Price Revision!
-
-*2024-02-02 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175362) · `ta`
-
-Considering the various issues faced by the people, the company said that in February, Litro gas prices will not be amended.. Based on this, Litro Gas Company has decided to maintain the current price.
-
-◼️
-
-[Data](articles/2dc0eae2.json)
-
-[Extended Data](ext_articles/2dc0eae2.ext.json)
 
 ---

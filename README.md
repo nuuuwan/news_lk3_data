@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 23:51:47**
+As of **2024-02-03 00:02:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 615
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,440 (100.0%) of 4,441 articles have been extended.
+4,441 (100.0%) of 4,441 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -702,23 +702,33 @@ A bond maturing on 01.07.2032 closed at 13.25/45 down from 13.45/60 percent. (Co
 
 ---
 
-### නාරම්මල පොලිස් වෙඩි තැබීම: වීඩියෝ දර්ශන මුලින්ම සමාජ මාධ්‍ය වෙත මුදා හැරී පුද්ගලයා ගැන සෙව්වේ කවුද?
+### Narammala Police Shoot: Videos Release to Social Media first and seek the person?
 
 *2024-02-02 17:14:11* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq57e0y1dlvo) · `si`
 
-නාරම්මල පොලිස් වෙඩි තැබීම: වීඩියෝ දර්ශන මුලින්ම සමාජ මාධ්‍ය වෙත මුදා හැරී පුද්ගලයා ගැන සෙව්වේ කවුද?
+Narammala Police Shoot: Videos Release to Social Media first and seek the person?
 
-නාරම්මල ප්‍රදේශයේදී පොලිස් නිලධාරියෙකු විසින් කළ වෙඩි තැබීමෙන් මියගිය වඩු කාර්මික ශිල්පියා මරණයට පත් වූ අවස්ථාවේ වීඩියෝ දර්ශන පළමු වරට සමාජ මාධ්‍ය වෙත මුදා හැරී පුද්ගලයා පිළිබඳ කිසියම් පුද්ගලයෙකු විසින් සොයා බලා ඇතැයි, නාරම්මල මහේස්ත්‍රාත් අධිකරණයේදී අද (පෙබරවාරි 2 වැනිදා) අනාවරණය විය.
+At the Narammala, when a carpenter was killed by a police officer in the Narammala, a person was released to the Social Media for the first time.
 
-යතුරුපැදියකින් පැමිණි පුද්ගලයකු යම් සංවිධානයකින් යැයි පවසා වඩු කාර්මික ශිල්පියා ඝාතනය වූ ස්ථානයේ පිහිටි එළවළු වෙළඳ සැලෙහි සේවකයින්හට (පෙබරවාරි 01 වැනිදා) පවසා ඇත්තේ මෙම සිද්ධියෙහි වීඩියෝ දර්ශන මුලින්ම සමාජ මාධ්‍ය වෙත මුදා හැරී පුද්ගලයා පිළිබඳ හෙළි කරන්නේ නම් මුදල් ත්‍යාගයක් දෙන බවය.
+A person who came from a motorcycle was in some organization (February 1), the vegetable shop (February 1) has stated that the videos of the incident first will be released to the social media.
 
-මෙම වෙඩි තැබීමේ සිද්ධිය පිළිබඳ මහේස්ත්‍රාත් පරීක්ෂණයේ සාක්ෂි විමසීම අද දෙවැනි දිනටත් නාරම්මල මහේස්ත්‍රාත් අධිකරණය හමුවේ කැඳවූ අවස්ථාවේදී සාක්ෂි දෙමින් එළවළු වෙළෙඳසැලේ සේවකයින් අධිකරණය හමුවේ මේ බව කියා සිටියේය.
+The vegetable market employees were in the courts and the vegetable shoppers have been instrumental when he was summoned before the Narammala Magistrate's Court today.
 
-ඔහු නැවත පැමිණෙන බව ප්‍රකාශ කර පිටව ගිය බව ද සාක්ෂි කරුවෙකු සඳහන් කළේය.
+A witness also stated that he had told him that he was returning.
+
+The police were informed by the police that he would investigate this.
+
+Narammala Police Shoot: Can a police officer shot a civilian garment?
+
+Motorcycle of Police
+
+The Kuliyapitiya Division Criminal Investigation Unit (Far on February 2) has reported to court today (Feb 02).
 
 ...
 
 [Data](articles/5447a349.json)
+
+[Extended Data](ext_articles/5447a349.ext.json)
 
 ---
 

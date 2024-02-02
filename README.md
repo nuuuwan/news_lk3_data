@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 17:02:28**
+As of **2024-02-02 17:17:12**
 
 ## Newspaper Stats
 
-*Scraped **4,376** Articles*
+*Scraped **4,384** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailyftlk | 272
 adalk | 387
 virakesarilk | 493
 adaderanasinhalalk | 526
-adaderanalk | 549
-tamilmirrorlk | 557
-dailymirrorlk | 598
+adaderanalk | 550
+tamilmirrorlk | 558
+dailymirrorlk | 604
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,375 (100.0%) of 4,376 articles have been extended.
+4,376 (99.8%) of 4,384 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### Health trade unions temporarily call off strike action
+
+*2024-02-02 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96953/health-trade-unions-temporarily-call-off-strike-action) · `en`
+
+The health sector trade unions have decided to temporarily call off the ongoing island-wide strike action by 06.30 a.m. on Saturday (Feb. 03).
+
+A collective of 72 trade unions from the health sector resorted to a one-day strike across the country last morning (Feb.01), which continued for the second day straight today, urging the government to address the issues concerning allowances without delay.
+
+The doctors’ unions and the All Ceylon Nurses’ Union, however, decided to refrain from joining the strike action, alleging that the planned strike action was a conspiracy by the government.
+
+In response to the island-wide strike, tri-force personnel were deployed to the state hospitals across the country, depending on the requirements at each facility to ensure uninterrupted provision of essential medical services to the public.
+
+◼️
+
+[Data](articles/1f6455f0.json)
+
+---
+
+### சீன புறாவை விடுவித்தது இந்தியா
+
+*2024-02-02 16:34:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீன-புறாவை-விடுவித்தது-இந்தியா/175-332555) · `ta`
+
+இந்தியாவை உளவு பார்க்க சீனா பயன்படுத்தியதாக சந்தேகிக்கப்படும் புறா ஒன்று பிடிபட்டது. கால்நடை மருத்துவமனையில் காவலில் வைக்கப்பட்டிருந்ததாக அந்தப் புறா எட்டு மாதங்களுக்குப் பிறகு புதன்கிழமை விடுவிக்கப்பட்டுள்ளது என மும்பை காவல்துறை கூறியுள்ளது.
+
+மும்பையில் உள்ள பரேல் பகுதியில் உள்ள விலங்குகளுக்கான பாய் சகர்பாய் மருத்துவமனை திங்கள்கிழமை பறவையை விடுவிக்க காவல்துறையின் அனுமதியைக் கோரியது. அதைத் தொடர்ந்து புறா விடுவிக்கப்பட்டது என்று மும்பையின் ஆர்சிஎஃப் காவல் நிலைய அதிகாரி தெரிவிக்கிறார்.
+
+புறநகர் பகுதியான செம்பூரில் உள்ள பிர் பாவ் ஜெட்டியில் கடந்த ஆண்டு மே மாதம் இந்தப் புறா பிடிபட்டது.
+
+புறாவிற்கு இரண்டு மோதிரங்கள் அணிவிக்கப்பட்டிருந்தன. அவற்றில் ஒன்று தாமிரம் மற்றும் மற்றொன்று அலுமினியத்தால் ஆனவை. புறாவின் இரண்டு இறக்கைகளின் கீழ் பக்கத்திலும் சீன எழுத்துக்களில் எழுதப்பட்ட செய்திகள் இருந்தன. இது தொடர்பாக ஆர்சிஎஃப் பொலிஸார் வழக்குப்பதிவு செய்தனர். விசாரணைக்குப் பின் உளவுக் குற்றச்சாட்டு கைவிடப்பட்டது.
+
+...
+
+[Data](articles/55034ce3.json)
+
+---
+
+### Nethmi, Dewmi steer SL Women to title win
+
+*2024-02-02 16:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nethmi-Dewmi-steer-SL-Women-to-title-win/108-276221) · `en`
+
+Feb. 2 (Daily Mirror) - A quick-fire 57-ball knock of 66 inclusive of eight boundaries by Nethmi Senaratne and a fine all-round performance by Dewmi Wijeratne helped Sri Lanka beat Bangladesh by 36 runs in the Women’s Under-19 Tri-Nation Twenty20 final played at the Sheikh Kamal Cricket Stadium in Cox’s Bazar, Bangladesh.
+
+It was sweet revenge for the champion Sri Lanka team as they came into the final having suffered two defeats against the home side during the league segment.
+
+The foundation for Sri Lanka’s win was laid by the openers Nethmi Senaratme and Dewmi Wijeratne, as the pair gave the side a solid start of 104 runs in 86 balls, which helped them to end with a challenging score of 148 for three.
+
+Later Dewmi, who bagged three scalps spearheaded the bowling attack and along with Madushani Herath and Rismi Sanjana, who shared four wickets between them, succeeded in restricting the home side for 112.
+
+...
+
+[Data](articles/4ac835fb.json)
+
+---
 
 ### Appeals Court delivers decision on contempt petitions against Sanath Nishantha
 
@@ -47,6 +101,8 @@ The Appeals Court, which accepted the request allowed the three petitions to be 
 ...
 
 [Data](articles/6e21f88c.json)
+
+[Extended Data](ext_articles/6e21f88c.ext.json)
 
 ---
 
@@ -74,6 +130,24 @@ It is also reported that the suspect is tightly addicted to drugs.
 
 ---
 
+### UN Human Rights office calls for amendment to Online Safety Act
+
+*2024-02-02 15:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UN-Human-Rights-office-calls-for-amendment-to-Online-Safety-Act/108-276219) · `en`
+
+Feb 02 -  The United Nations Human Rights office has urged the government to consider amending the controversial Online Safety Act to ensure it complies with human rights obligations.
+
+The UN Human Rights said, "The new Online Safety Act will have far reaching negative implications for human rights, including freedom of expression," in a post on X, formerly known as Twitter.
+
+"We urge the Government to consider amending the law to address concerns of civil society and industry groups and ensure it complies with human rights obligations," the post also read.
+
+The Act, which has been widely critized both locally and internationally, became law yesterday after it was endorsed by Speaker Mahinda Yapa Abeywardena.
+
+◼️
+
+[Data](articles/b8df12ae.json)
+
+---
+
 ### SI arrested over Narammala ‘accidental’ shooting further remanded
 
 *2024-02-02 15:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/96951/si-arrested-over-narammala-accidental-shooting-further-remanded) · `en`
@@ -93,6 +167,20 @@ The concerned SI and a Police Constable had then chased down the lorry and pulle
 [Data](articles/aaab6783.json)
 
 [Extended Data](ext_articles/aaab6783.ext.json)
+
+---
+
+### Thalapathy’ Vijay announces he’s quitting cinema for full-time politics
+
+*2024-02-02 15:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thalapathy-Vijay-announces-hes-quitting-cinema-for-full-time-politics/108-276218) · `en`
+
+Tamil Nadu, Feb 2 (Indiane Epress) - The much-awaited announcement from actor Vijay is finally here. The Tamil star has announced the formation of his political party, Tamizhaga Vetri Kazhagam aka TVK (Tamil Nadu’s Victory Party), and shared a statement on X (formerly Twitter). The title of the party is.
+
+In the long official statement, Vijay said that though his fan club Vijay Makkal Iyakkam has been doing social work for the past many years, there is a need for political power to do the same in a full-fledged manner.
+
+...
+
+[Data](articles/a4b89169.json)
 
 ---
 
@@ -137,6 +225,60 @@ Wimalasena Lavakumar told the regional journalists that he had been investigatin
 [Data](articles/8cbc4d6b.json)
 
 [Extended Data](ext_articles/8cbc4d6b.ext.json)
+
+---
+
+### Online Safety Bill gazetted, enacted as law
+
+*2024-02-02 15:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Online-Safety-Bill-gazetted-enacted-as-law/108-276217) · `en`
+
+Colombo, Feb 2 (Daily Mirror) - The controversial Online Safety Bill, which was passed in Parliament last week and was endorsed by Speaker Mahinda Yapa Abeywardena yesterday, was gazetted and enacted as law.
+
+The third reading of the bill was passed without a vote on January 24, and several amendments recommended by the Supreme Court were incorporated, though opposition MPs accused the government that the bill that was passed did not properly accommodate those recommendations.
+
+The Asia Internet Coalition, an industry association that promotes understanding and resolution of Internet policy issues in the Asia Pacific region and works with tech giants such as Google, Meta and X, have criticised the bill, calling it “unworkable”.
+
+◼️
+
+[Data](articles/d6588cb7.json)
+
+---
+
+### India releases pigeon accused of spying for China
+
+*2024-02-02 15:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-releases-pigeon-accused-of-spying-for-China/108-276216) · `en`
+
+Indian police released a pigeon after eight months in custody, as it was finally cleared of charges of being a suspected Chinese spy.
+
+The bird was caught at Pir Pau Jetty in the Mumbai suburb of Chemburin. It had two rings tied to its leg with "messages written in a Chinese-like script" on its wings, Indian daily newspaper Times of India reported.
+
+Police took in the pigeon, later sending it to Mumbai's Bai Sakarbai Dinshaw Petit Hospital for Animals.
+
+A case of spying was registered against the bird, but later dropped upon completion of the inquiry.
+
+Police found out that it was an open-water racing bird from Taiwan that had escaped and made its way to India.
+
+A representative from the non-profit organization People for the Ethical Treatment of Animals (PETA) got in touch with the police asking for the release of the pigeon.
+
+The bird was transferred from the hospital to the Bombay Society for the Prevention of Cruelty to Animals, whose doctors set it free on Tuesday.
+
+...
+
+[Data](articles/c8c044c6.json)
+
+---
+
+### Sri Lanka secures USD 150 million from World Bank
+
+*2024-02-02 15:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-secures-USD-150-million-from-World-Bank/108-276220) · `en`
+
+Colombo, Feb 02 (Daily Mirror) -  The Government of Sri Lanka has negotiated a financial assistance package of USD 150 million from the International Development Association (IDA) of the World Bank Group. The funds are earmarked for the implementation of the Financial Sector Safety Net Strengthening Project.
+
+The primary focus of the project is to enhance the robustness of Sri Lanka's financial sector safety net, with particular attention to the Sri Lanka Deposit Insurance Scheme (SLDIS), managed by the Central Bank of Sri Lanka (CBSL). The initiative aims to fortify the financial and institutional capacities of SLDIS, aligning them with international best practices governing effective deposit insurance schemes.
+
+...
+
+[Data](articles/87c30f6e.json)
 
 ---
 
@@ -1845,189 +1987,5 @@ Colombo, Feb 02 (Daily Mirror) -  The Constitutional Council (CC) has declined 
 [Data](articles/1ce4cade.json)
 
 [Extended Data](ext_articles/1ce4cade.ext.json)
-
----
-
-### Sri Lanka’s India-funded Unique ID project to have new consultant: Indian HC
-
-*2024-02-02 08:52:00* · [`economynextcom`](https://economynext.com/sri-lankas-india-funded-unique-id-project-to-have-new-consultant-indian-hc-149671/) · `en`
-
-ECONOMYNEXT – India-funded Unique ID card project is in the process of appointing a new consultant while fresh tenders have been called after the failed bids, Indian High Commissioner to Sri Lanka Santhosh Jha said.
-
-President Ranil Wickremesinghe’s government has disqualified the two Indian bidders Madras Security Printers (MSP) and Protein Technologies which won the tenders in the previous bidding process.
-
-India has already given an advance aid of 450 million Indian rupees to President Wickremesinghe’s government to fund the digital ID project, which aims to collect biographic and biometric information, including facial, iris, and fingerprint data.
-
-“The process for doing a new tender is ongoing because the last one was not a success. Currently we are in the process of appointing a consultant,” Jha told reporters in Colombo on Thursday (01).
-
-“Middle of this year you should be able to see something happening.”
-
-...
-
-[Data](articles/b63cfa04.json)
-
-[Extended Data](ext_articles/b63cfa04.ext.json)
-
----
-
-### US approves plan to strike Iranian targets in Syria and Iraq, officials say
-
-*2024-02-02 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/96934/us-approves-plan-to-strike-iranian-targets-in-syria-and-iraq-officials-say) · `en`
-
-The US has approved plans for a series of strikes on Iranian targets in Syria and Iraq, officials have told the BBC’s US partner CBS News.
-
-The strikes will take place over a number of days, officials said, and weather conditions will likely dictate when they are launched.
-
-It comes after a drone attack killed three US soldiers in Jordan, close to the Syrian border, on Sunday.
-
-The US blamed an Iranian-backed militia group for that attack.
-
-That group, the Islamic Resistance in Iraq, is believed to contain multiple militias that have been armed, funded and trained by Iran’s Revolutionary Guards force. It has said it was responsible for Sunday’s strike.
-
-Iran, meanwhile, has denied any role in the attack which injured 41 other US troops at the military base, known as Tower 22.
-
-US officials have said that US intelligence believes that the drone used to attack the facility was manufactured by Iran - and is similar to the drones Iran has been sending to Russia for its invasion of Ukraine.
-
-...
-
-[Data](articles/425bff13.json)
-
-[Extended Data](ext_articles/425bff13.ext.json)
-
----
-
-### US approves plan to strike Iranian targets in Syria and Iraq
-
-*2024-02-02 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/96934/us-approves-plan-to-strike-iranian-targets-in-syria-and-iraq) · `en`
-
-The US has approved plans for a series of strikes on Iranian targets in Syria and Iraq, officials have told the BBC’s US partner CBS News.
-
-The strikes will take place over a number of days, officials said, and weather conditions will likely dictate when they are launched.
-
-It comes after a drone attack killed three US soldiers in Jordan, close to the Syrian border, on Sunday.
-
-The US blamed an Iranian-backed militia group for that attack.
-
-That group, the Islamic Resistance in Iraq, is believed to contain multiple militias that have been armed, funded and trained by Iran’s Revolutionary Guards force. It has said it was responsible for Sunday’s strike.
-
-Iran, meanwhile, has denied any role in the attack which injured 41 other US troops at the military base, known as Tower 22.
-
-US officials have said that US intelligence believes that the drone used to attack the facility was manufactured by Iran - and is similar to the drones Iran has been sending to Russia for its invasion of Ukraine.
-
-...
-
-[Data](articles/6bd7cd24.json)
-
-[Extended Data](ext_articles/6bd7cd24.ext.json)
-
----
-
-### Thailand Prime Minister to participate in 76th Independence Day
-
-*2024-02-02 08:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thailand-Prime-Minister-to-participate-in-76th-Independence-Day/108-276179) · `en`
-
-Colombo, Feb 2 (Daily Mirror) - The Thailand Prime Minister Srettha Thavisin will visit Sri Lanka as the chief guest of honour at the invitation of the President and the Prime Minister of Sri Lanka to celebrate the 76th Independence Day, which falls on Sunday (4), Home Affairs State Minister Ashoka Priyantha said.
-
-While issuing a media communiqué, he said that due to the sudden illness, his two-day visit to Sri Lanka is limited to one day.
-
-However, in honour of the President's request, the Thai Prime Minister is scheduled to participate in the Independence Day event for about an hour.
-
-◼️
-
-[Data](articles/7906fd53.json)
-
-[Extended Data](ext_articles/7906fd53.ext.json)
-
----
-
-### Health trade unions’ strike continues for second day straight
-
-*2024-02-02 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/96933/health-trade-unions-strike-continues-for-second-day-straight) · `en`
-
-The island-wide strike action launched by the collective of health sector trade unions yesterday entered its second consecutive day today (Feb.02).
-
-President of Paramedical Services Front (PMSF) Upul Rohana said a final decision is expected to be taken on proceeding with the strike later today at the discussion planned to be convened with the participation of trade union representatives.
-
-Health workers decided to carry on the trade union action on account of not receiving a favourable response from the government with regard to their demands.
-
-A collective of 72 trade unions from the health sector resorted to a one-day strike across the country last morning (Feb.01), urging the government to address the issues concerning allowances without delay.
-
-The doctors’ unions and the All Ceylon Nurses’ Union, however, decided to refrain from joining the strike action, alleging that the planned strike action was a conspiracy by the government.
-
-...
-
-[Data](articles/029c2888.json)
-
-[Extended Data](ext_articles/029c2888.ext.json)
-
----
-
-### The wife and father arrested for the murder of Beliatta
-
-*2024-02-02 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192870) · `si`
-
-Police STF officers have been arrested by the wife of the Five persons including the leader Saman Perera, including the leader Saman Perera.
-
-According to the police, the suspect shooter is currently a former naval person who receives pension.
-
-The murder was carried out in Beliatta on 22.01.2012.
-
-The murder of the murder of the Navy has been arrested by the Navy, a 39-year-old father, aged 72, has been arrested.
-
-The suspect and the suspect were arrested while hiding in Pathagama, Mudaragama with 21 grams of heroin and 350 grams of heroin.
-
-The main shooter, the main shooter, has fled to the Beliatta on January 21st on January 21st on January 21st day.
-
-It has also been revealed that the Nakayaka of the kingdom of Dubai has been submitted.
-
-It is suspected that this is a close associate of the underworld leader Kosgoda Zoe, who is currently a close associate of the drug dealer, Harandra Gunatilleke, Harsha.
-
-...
-
-[Data](articles/19750040.json)
-
-[Extended Data](ext_articles/19750040.ext.json)
-
----
-
-### Jordan retaliates - US military permits to attack Iranian targets in Iraq in Syria
-
-*2024-02-02 08:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175349) · `ta`
-
-The US has given its military permission to launch an attack on the US military in Jordan.
-
-The BBC says the US military has been allowed to attack Iraqi states in Syria.
-
-US officials said the attacks would be decided when the attacks would be based on the continuous climate for several days.
-
-US intelligence agencies are found in Iran that the unmanned aircraft used to attack the Jordan site is manufactured in Iran.
-
-◼️
-
-[Data](articles/08575630.json)
-
-[Extended Data](ext_articles/08575630.ext.json)
-
----
-
-### Acting Inspector General of Working Inspector
-
-*2024-02-02 07:54:28* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-මැද--ගව-සොරකම්-මඩින්න-වැඩ-බලන-පොලිස්පතිගේ-වැඩසටහනක්/11-407863) · `si`
-
-Acting Inspector Tennakoon has planned to launch a new program to prevent the assistance of the Community Police Competition and the Civil Defense Force personnel to prevent the assistance of the section of the Community Police Competition and the Civil Defense Force Officers.
-
-Special discussion in this regard is to be held with the Director General of Civil Defense Force Air Vice Marshal RS Bianwala this week with high police officers in the North Central Province
-
-Acting IGP planned to be implemented in the second week of this month
-
-It has been reported that 572 cows have been stolen in 335 cow of cow carriers in the North Central Province from 01.01.2013 to Rs.
-
-Farmers in the North Central Province under this joint operation have taken this decision after the acting IPP has taken the attention to the problem of the issue of the long run.
-
-◼️
-
-[Data](articles/6e3db16c.json)
-
-[Extended Data](ext_articles/6e3db16c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 12:48:37**
+As of **2024-02-02 13:02:09**
 
 ## Newspaper Stats
 
-*Scraped **4,324** Articles*
+*Scraped **4,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 230
 economynextcom | 244
 newsfirstlk | 268
 dailyftlk | 272
-adalk | 382
+adalk | 384
 virakesarilk | 482
 adaderanasinhalalk | 513
 adaderanalk | 539
@@ -26,23 +26,25 @@ dailymirrorlk | 594
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,309 (99.7%) of 4,324 articles have been extended.
+4,324 (100.0%) of 4,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
 
-### வெட்டுப்புள்ளிகள் வெளியாகின
+### Cuttings were released
 
 *2024-02-02 12:19:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெட்டுப்புள்ளிகள்-வெளியாகின/175-332541) · `ta`
 
-2023 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சைக்கமைய, பாடசாலை வெட்டுப்புள்ளிகள் கல்வி அமைச்சினால் வெளியிடப்பட்டுள்ளன.
+According to the Grade 5 Scholarship Examination for 2023, the school cut points have been published by the Ministry of Education.
 
-இந்த பாடசாலை வெட்டுப் புள்ளிகளுக்கு அமைய, தரம் 5 புலமைப்பரிசில் பரீட்சையில் சித்திபெற்ற மாணவர்களை, 6ஆம் தரத்துக்காக பிரபல பாடசாலைகளில் சேர்க்கும் செயன்முறை பின்பற்றப்படுகிறது.  R
+According to these school cutting points, the students who have passed the Grade 5 Scholarship Examination are admitted to the 10th grade of the 10th grade.R
 
 ◼️
 
 [Data](articles/288e8cde.json)
+
+[Extended Data](ext_articles/288e8cde.ext.json)
 
 ---
 
@@ -57,6 +59,8 @@ Accordingly, the ministry said the students can check the schools that they have
 ◼️
 
 [Data](articles/43ef0dd8.json)
+
+[Extended Data](ext_articles/43ef0dd8.ext.json)
 
 ---
 
@@ -74,23 +78,29 @@ Cut-off marks according to the district basis for Sinhala and tamil medium stude
 
 [Data](articles/6cc17c8d.json)
 
+[Extended Data](ext_articles/6cc17c8d.ext.json)
+
 ---
 
-### வவுனியா கடவுச்சீட்டு காரியாலயம் முன்பாக மரத்தில் ஏறி நபர் ஒருவர் தற்கொலை முயற்சி
+### A man attempted suicide
 
 *2024-02-02 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175372) · `ta`
 
-வவுனியாவில் உள்ள கடவுச்சீட்டு காரியாலயத்தின் முன்பாக உள்ள மரம் ஒன்றில் கடவுச்சீட்டு பெற வந்த நபர் ஒருவர் திடீரென மரத்தில் ஏறி தற்கொலை செய்வேன் என்று கூறியதால் அப்பகுதியில் பதற்றமான சூழ்நிலை காணப்பட்டது.
+There was a tense situation in the area as a person who had come to get a passport in a tree in front of the passport office in Vavuniya would suddenly climb into the tree and commit suicide.
 
-திருகோணமலை மஹாயபுர பகுதியை சேர்ந்த 51வயதுடைய அநுரகுமார என்பவர் கடந்த மூன்று தினங்களாக வவுனியாவில் உள்ள கடவுச்சீட்டு காரியாலயத்திற்கு கடவுச்சீட்டு பெறுவதற்காக வந்து சென்றதாகவும் எனினும் தனக்கு கடவுச்சீட்டை பெறமுடியாமல் போனதாகவும் தெரிவித்துள்ளார்.
+Anuragumara, a 51 -year -old from Mahayapura, Trincomalee, has come to the passport office in Vavuniya for the past three days and has not been able to get a passport.
 
-இதனால் விரக்தி அடைந்த குறித்த நபர் கடவுச்சீட்டு காரியாலயம் முன்பாக இருந்த மரத்தில் ஏறி தற்கொலை செய்வேன் என கூறி போராட்டம் ஒன்றை மேற்கொண்டிருந்தார் இதனால் அப்பகுதி பெரும் பதற்ற சூழ்நிலைக்கானது
+Frustrated by this, the person who was in a tree in front of the passport office, claimed that he would commit suicide by claiming that he would commit suicide.
 
-உடனடியாக செயல்பட்ட காரியாலய உத்தியோகத்தர்கள் அவருக்கு வெள்ளிக்கிழமை (02) கடவுச்சீட்டு பெறுவதற்கான உத்தரவாதத்தை வழங்கியிருந்தனர். இதனை தொடர்ந்து குறித்த நபர் மரத்திலிருந்து கீழ் இறங்கியிருந்தார்.
+Immediately after the office officers were given a guarantee of obtaining a passport on Friday (02). Following this, the person got down from the tree.
+
+Commenting on the media, the man has been accused of having a leg and he is unable to stand for a long time, but some Mafia groups have been selling them in the area for the past three days to obtain a passport for the past three days.He said.
 
 ...
 
 [Data](articles/d401da3d.json)
+
+[Extended Data](ext_articles/d401da3d.ext.json)
 
 ---
 
@@ -112,21 +122,35 @@ It is also known that the students received by the students who have received fr
 
 ---
 
-### உறுமய தேசிய செயற்பாட்டு செயலகம் ஜனாதிபதியின் செயலாளர் தலைமையில் திறந்து வைப்பு
+### The National Secretariat of Urumaya opened the President's Secretary
 
 *2024-02-02 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/175367) · `ta`
 
-உறுமய தேசிய செயற்பாட்டு செயலகம் வியாழக்கிழமை (01) ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்கவினால் செத்தம் வீதியில் உள்ள பழைய ஸ்டாண்டர்ட் சார்ட்டர்ட் கட்டிடத்தில் திறந்து வைக்கப்பட்டது.
+The National Secretariat Secretariat was opened on Thursday (01) at the Old Standard Chartered Building at Setham Road by President of the President Saman Ekanayake.
 
-மக்களின் காணி உரிமையை உறுதிப்படுத்தும் வகையில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் எண்ணக்கருவிற்கமைய 20 இலட்சம் விவசாயக் குடும்பங்களுக்கு முழு உரிமையுடைய காணி உறுதிப்பத்திரங்களை வழங்க அரசாங்கம் திட்டமிட்டுள்ளது.
+The government is planning to provide full owned land guarantees to 20 lakh agricultural families, according to President Ranil Wickremesinghe's concept to ensure the people's land rights.
 
-உறுமய வேலைத்திட்டத்தை நடைமுறைப்படுத்துவதற்காக இவ்வருட வரவுசெலவுத் திட்டத்தில் இரண்டு பில்லியன் ரூபா ஒதுக்கீடு செய்யப்பட்டுள்ளதுடன், காணி அபிவிருத்தி கட்டளைச் சட்டத்தின் கீழ் வழங்கப்பட்ட காணி அனுமதிப்பத்திரங்கள் அனைத்தும் காணி உறுதிப் பத்திரங்களாக மாற்றப்பட்டு அவற்றை பயன்டுத்திய விவசாயிகளுக்கு வழங்கப்படும்.
+Two billion rupees has been allocated for the implementation of the Urumaya program and all the land permits issued under the Land Development Ordinance will be converted into land guarantees and will be issued to the beneficiaries.
 
-மக்கள் முன்வைக்கும் பிரச்சினைகளுக்கு உடனடித் தீர்வுகளை வழங்குவதற்கும், சம்பந்தப்பட்ட நிறுவனங்களை ஒருங்கிணைத்தல் மற்றும் வழிநடத்தல் பொறிமுறையை செயற்படுத்துவதற்காக ஜனாதிபதி அலுவலகத்தின் கீழ் "உறுமய " தேசிய செயற்பாட்டு செயலகம் ஆரம்பிக்கப்பட்டுள்ளது.
+The "Urumaya" National Operational Secretariat has been launched under the President's Office to provide immediate solutions to the problems proposed by the people and to implement a coordination and guidance mechanism of relevant companies.
 
 ...
 
 [Data](articles/6d305b4c.json)
+
+[Extended Data](ext_articles/6d305b4c.ext.json)
+
+---
+
+### ලිට්‍රෝ මිල වෙනස් නොවෙයි
+
+*2024-02-02 11:45:21* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-මිල-වෙනස්-නොවෙයි/11-407866) · `si`
+
+ලිට්‍රෝ ගෘහස්ථ ගෑස් මිල මෙම මස වෙනස් නොකිරමට එම සමාගම තීරණය කර තිබේ. ඒ අනුව ලිට්‍රො ගෘහස්ථ ගෑස්  සිලින්ඩරවලට අදාළව පසුගිය මස පැවැති අගයන් මේ මාසයේදීත් ක්‍රියාත්මක වෙනු ඇත.
+
+◼️
+
+[Data](articles/bae39767.json)
 
 ---
 
@@ -151,6 +175,8 @@ Flight tickets were arranged for the two suspects by an individual named Nipuna 
 ...
 
 [Data](articles/7681bbd3.json)
+
+[Extended Data](ext_articles/7681bbd3.ext.json)
 
 ---
 
@@ -188,35 +214,39 @@ Considering the various issues faced by the people, the company said that in Feb
 
 ---
 
-### தொடரும் யுக்திய நடவடிக்கை: மேலும் 703 பேர் கைது!
+### Continuing strategy: 703 arrested
 
 *2024-02-02 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/175364) · `ta`
 
-நாடளாவிய ரீதியில் கடந்த 24 மணித்தியாலங்களில்  மேற்கொள்ளப்பட்ட யுக்திய  நடவடிக்கையின்போது 703 பேர் சந்தேகத்தில் கைது செய்யப்பட்டுள்ளனர்.
+Over 703 suspects have been arrested during the last 24 hours of the country.
 
-இவர்களில் போதைப்பொருள் குற்றங்களுடன் தொடர்புடைய 525 சந்தேக நபர்களும் குற்றப் பிரிவுகளின்  பட்டியலில்  பெயர் குறிப்பிடப்பட்டுள்ள  178 சந்தேக நபர்களும் அடங்குவதாக பொலிஸார் தெரிவித்தனர்.
+The police said 525 suspects involved in drug crimes and 178 suspects named the list of criminals.
 
-போதைப்பொருள் குற்றங்களுடன் தொடர்புடைய 525 சந்தேக நபர்களில் ஒரு சந்தேகநபர் தடுப்புக்காவல் உத்தரவின் பேரில் மேலதிக விசாரணைக்கு உட்படுத்தப்பட்டுள்ளார்.
+One of the 525 suspects involved in drug offenses has been subjected to further inquiries on the detention order.
 
 ◼️
 
 [Data](articles/a14edc91.json)
 
+[Extended Data](ext_articles/a14edc91.ext.json)
+
 ---
 
-### ஸ்ரீலங்கா பொதுஜன பெரமுன உட்பட  ஆளும் கட்சி பிரதிநிதிகளுடன் ஜனாதிபதி ரணில் கலந்துரையாடல்!
+### President Ranil discusses with ruling party representatives including Sri Lanka PA
 
 *2024-02-02 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175370) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுன மற்றும் ஆளும் கட்சியை பிரதிநிதித்துவப்படுத்தும் ஏனைய கட்சிகளின் பிரதிநிதிகளின் கூட்டம் ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் ஜனாதிபதி செயலகத்தில் இடம்பெற்றது.
+A meeting of representatives of other parties representing the Sri Lanka PA and the ruling party was held at the Presidential Secretariat chaired by President Ranil Wickremesinghe.
 
-இந்த கலந்துரையாடலில் ஜனாதிபதி தேர்தல் தொடர்பில் அதிக கவனம் செலுத்தப்பட்டதாக நாடாளுமன்ற உறுப்பினர் எஸ்.எம்  சந்திரசேன தெரிவித்துள்ளார்.
+Parliamentarian SM Chandrasena said he was more focused on the presidential election during the discussion.
 
-ஜனாதிபதி வேட்பாளராக பொதுஜன பெரமுனவின் ஆதரவைப் பெறுவதற்கு, கட்சித் தலைமையுடன் பேச்சுவார்த்தைகளை ஆரம்பிக்குமாறு ஜனாதிபதியிடம் கோரப்பட்டுள்ளதாக நாடாளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன தெரிவித்துள்ளார்.
+Parliamentarian Rohitha Abeygunawardena has said that the president has been asked to start talks with the party leadership to get the support of the PA as the presidential candidate.
 
 ◼️
 
 [Data](articles/bad44c47.json)
+
+[Extended Data](ext_articles/bad44c47.ext.json)
 
 ---
 
@@ -236,21 +266,23 @@ Accordingly, the price of three domestic gas cylinders will be similar to last m
 
 ---
 
-### 76 ஆவது சுதந்திர தினத்தன்று  உறவினர், நண்பர்கள்  கைதிகளை  சிறைச்சாலை திறந்தவெளியில் பார்வையிடலாம்!
+### Relatives and friends can visit the prison open on the 76th Independence Day!
 
 *2024-02-02 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175369) · `ta`
 
-76 ஆவது சுதந்திர தினத்தன்று கைதிகளை  சிறைச்சாலை திறந்தவெளியில் பார்வையிடும்   திட்டம் இம்மாதம் 4ஆம் திகதி ஞாயிற்றுக்கிழமை அமுல்படுத்தப்படும் என சிறைச்சாலை ஆணையாளர் காமினி பி. திஸாநாயக்க தெரிவித்தார்.
+Prison Commissioner Gamini B.. Dissanayake said.
 
-அன்றைய தினம் சிறைச்சாலை விதிமுறைகள் மற்றும் சுகாதார பாதுகாப்பு முறைகளைப்  பின்பற்றி நாடளாவிய ரீதியில் உள்ள அனைத்து சிறைச்சாலைகளிலும் இந்த வேலைத்திட்டம் அமுல்படுத்தப்படும்.
+The program will be implemented in all prisons across the country, following the prison regulations and health care systems that day.
 
-ஒரு கைதியை உறவினர்கள் மற்றும் நண்பர்கள் என  மூவர் பார்வையிடும் சந்தர்ப்பம் வழங்கப்படும் எனவும் அவர் தெரிவித்தார்.
+He also said that the opportunity to visit a prisoner as relatives and friends.
 
-இதேவேளை, கைதியின் உறவினர்கள் கொண்டு வரும் உணவு மற்றும் உடைகளின் பொதி ஒருவருக்கு ஏற்ற  அளவில் மட்டுமே கைதிக்கு வழங்கப்பட வேண்டும் எனவும், தடை செய்யப்பட்ட பொருட்களை சிறைச்சாலை வளாகத்துக்குள் கொண்டு வருவது தடை செய்யப்பட்டுள்ளதாகவும் ஊடகப் பேச்சாளர் தெரிவித்துள்ளார்.
+Meanwhile, a media spokesman said that the package of food and clothing brought by the relatives of the prisoner should only be given to the prisoner and that the banned items are banned into the premises.
 
 ◼️
 
 [Data](articles/ae504dbc.json)
+
+[Extended Data](ext_articles/ae504dbc.ext.json)
 
 ---
 
@@ -278,6 +310,8 @@ Many of the injured are said to have inhalation injuries and they include at lea
 
 [Data](articles/91c6a4b3.json)
 
+[Extended Data](ext_articles/91c6a4b3.ext.json)
+
 ---
 
 ### Displaying weight, price of a loaf of bread made mandatory
@@ -295,6 +329,8 @@ The standard weight of a loaf of bread is 450 grams and the standard weight of a
 ◼️
 
 [Data](articles/428aaab5.json)
+
+[Extended Data](ext_articles/428aaab5.ext.json)
 
 ---
 
@@ -315,6 +351,8 @@ As per the decision, the current Litro LP gas rates are as follows: The retail p
 ◼️
 
 [Data](articles/7fb6432c.json)
+
+[Extended Data](ext_articles/7fb6432c.ext.json)
 
 ---
 
@@ -353,6 +391,8 @@ Meanwhile, all traders have been ordered to display the weight of bread displaye
 ◼️
 
 [Data](articles/78ffd792.json)
+
+[Extended Data](ext_articles/78ffd792.ext.json)
 
 ---
 
@@ -393,6 +433,8 @@ Face The Nation | Freedom Lost or Freedom Gained | 31st January 2024
 ◼️
 
 [Data](articles/973b3e77.json)
+
+[Extended Data](ext_articles/973b3e77.ext.json)
 
 ---
 
@@ -667,6 +709,18 @@ In accordance with the announcement of the Public Administration, Home Affairs, 
 [Data](articles/7b1cf352.json)
 
 [Extended Data](ext_articles/7b1cf352.ext.json)
+
+---
+
+### කෙහෙළිය සී.අයි.ඩි.යට පැමිණෙයි
+
+*2024-02-02 09:33:20* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-සී-අයි-ඩි-යට-පැමිණෙයි/11-407865) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ප්‍රකාශයක් ලබාදීම සඳහා අද (02) පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ තිබේ. මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය කළ නියෝගයකට අනුව ඔහු මෙසේ එම ප්‍රකාශය ලබාදීම සඳහා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ තිබේ.
+
+◼️
+
+[Data](articles/104b8502.json)
 
 ---
 
@@ -1378,23 +1432,27 @@ The Central Bank announced yesterday that the Governing Board, at its meeting he
 
 ---
 
-### කෙහෙළිය රඹුක්වැල්ල: හිටපු සෞඛ්‍ය ඇමති චුදිතයෙක් වෙන්නේ කොහොමද?
+### Keheliya Rambukwella: How can a former Health Minister Help?
 
 *2024-02-02 05:09:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce7l28ddn0go) · `si`
 
-ප්‍රශ්නගත ප්‍රතිදේහ එන්නත් සිද්ධිය සම්බන්ධයෙන් හිටපු සෞඛ්‍ය අමාත්‍ය සහ වත්මන් පරිසර අමාත්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ලට එරෙහිව සිවිල් සංවිධාන විසින් දිගින් දිගටම චෝදනා එල්ල කරමින් සිටියි.
+The former Health Minister and Minister of Environmental Minister Keheliya Rambukwella has been continuously accusing of former Health Minister and Minister of Environment Minister in the interpreter.
 
-එම මෙම සිද්ධිය සම්බන්ධයෙන් ප්‍රකාශයක් ලබා දීමට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට (CID) යට පැමිණෙන ලෙස දැනුම් දුන්නද පසුගිය ජනවාරි 31 වැනිදා ඔහු එහි නොගියේ තමන්ට වෙනත් කටයුත්තක් මෙන්ම මහාධිකරණය හමුවේ පෙනී සිටීමට ඇති බවට CID යට ලිඛිතව ලිපියක් යොමු කරමින් ය.
+The Criminal Investigation Department (CID) was given to the Department of Criminal Investigation (CID) but he did not go under the CID that he had to appear before the High Court and the CID.
 
-මෙලෙස අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී නොසිටි අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල අද (පෙබරවාරි 02) උදෑසන 9.00ට පමණ අපරාධ පාරීක්ෂණ දෙපාර්තමේන්තුව හමුවට පැමිණියේය. ඒ එම දෙපාර්තමේන්තුව වෙත ගොස් ප්‍රකාශයක් ලබා දෙන ලෙස මාලිගාකන්ද මහේස්ත්‍රාත් අධිකරණය විසින් (පෙබරවාරි 01 වැනිදා) නියෝග කරනු ලැබීමෙන් අනතුරුවය.
+Minister Keheliya Rambukwella arrived at the Criminal Perpetratory Department at around 9.00 am (February 02). The Maligakanda Magistrate's Court (Maligakanda Magistrate) to go to the Department and ordered the statement (Feb 01).
 
-'සාගලගේ ඉල්ලීම නිසා ද අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මේ පරික්ෂණ හංගන්නේ?'
+'Do I hide this investigation by Sagala's request?'
 
-මාලිගාකන්ද මහේස්ත්‍රාත් අධිකරණය විසින් කෙහෙළිය රඹුක්වැල්ල අමාත්‍යවරයාට එරෙහිව විදෙස් ගමන් තහනමක් පනවනු ලැබීය.
+The Maligakanda Magistrate's Court imposed a foreign travel ban against Minister Keheliya Rambukwella.
+
+The court ordered the release of the Consignment Controller of the Medical Supplies Division of the Ministry of Health on two personal bail of Rs.
 
 ...
 
 [Data](articles/29d9d917.json)
+
+[Extended Data](ext_articles/29d9d917.ext.json)
 
 ---
 
@@ -1957,39 +2015,5 @@ Herath added: ‘We know, the contribution of agriculture to the national GDP is
 [Data](articles/dcea95d0.json)
 
 [Extended Data](ext_articles/dcea95d0.ext.json)
-
----
-
-### MBSL Insurance bids farewell to chairman D. P. K. Gunasekera
-
-*2024-02-01 23:13:00* · [`islandlk`](http://island.lk/mbsl-insurance-bids-farewell-to-chairman-d-p-k-gunasekera/) · `en`
-
-MBSL Insurance Company Limited marks a significant moment as it bids farewell to its esteemed Chairman D. P. K. Gunasekera. With deep gratitude and appreciation, the company reflects on Gunasekera’s invaluable contributions throughout his tenure.
-
-Under Gunasekera’s leadership, MBSL Insurance witnessed a remarkable business growth whilst simultaneously facing and overcoming market challenges. His leadership and unwavering commitment to serve both customers and employees have left an indelible mark in the company’s journey.
-
-A veteran banker, former General Manager of Bank of Ceylon, D. P. K. Gunasekera was appointed as the Chairman of MBSL Insurance Company Limited in the year 2021.
-
-...
-
-[Data](articles/47004fd5.json)
-
-[Extended Data](ext_articles/47004fd5.ext.json)
-
----
-
-### Sri Lankan ambassador conducts international seminar on “Strategic Negotiations” at Hanoi Business School
-
-*2024-02-01 23:12:00* · [`islandlk`](http://island.lk/sri-lankan-ambassador-conducts-international-seminar-on-strategic-negotiations-at-hanoi-business-school/) · `en`
-
-Ambassador of Sri Lanka to Viet Nam, Prof. A Saj U. Mendis, was invited by the elite Hanoi Business School (HSB) of Viet Nam National University to deliver a special lecture on “International Strategic Negotiations” to senior faculty and graduate students of HSB in Hanoi. The select seminar on ‘International Strategic Negotiations’ was attended by nearly 100 chosen graduate students and faculty members. The seminar was chaired by Dr. Mai Viet Dzung, Head of Science and Development Cooperation Department and a senior faculty of HSB.
-
-In his opening remarks Dr. Dzung stated that today negotiation skills, whether they be bilateral, trilateral, multilateral, national or international, have become an inherent and intrinsic attribute for advancement, promotion, augmentation and marketability as well as value addition to any given entity or organization.
-
-...
-
-[Data](articles/058e6855.json)
-
-[Extended Data](ext_articles/058e6855.ext.json)
 
 ---

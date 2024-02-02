@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 22:50:49**
+As of **2024-02-02 23:02:20**
 
 ## Newspaper Stats
 
-*Scraped **4,438** Articles*
+*Scraped **4,440** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 274
 adalk | 389
 virakesarilk | 498
 adaderanasinhalalk | 538
-adaderanalk | 554
+adaderanalk | 556
 tamilmirrorlk | 564
 dailymirrorlk | 615
 
@@ -26,11 +26,35 @@ dailymirrorlk | 615
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,436 (100.0%) of 4,438 articles have been extended.
+4,440 (100.0%) of 4,440 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### Two UK teens get life sentence for ‘sadistic’ killing of trans girl
+
+*2024-02-02 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96960/two-uk-teens-get-life-sentence-for-sadistic-killing-of-trans-girl) · `en`
+
+Two British teenagers were ordered to be detained for life on Friday for the “sadistic” knife murder of a 16-year-old transgender girl that shocked the country.
+
+Scarlett Jenkinson and Eddie Ratcliffe, both 16, killed Brianna Ghey in Warrington, northwest England, in February last year, in what the judge called a planned “frenzied and ferocious” assault.
+
+Ghey was stabbed 28 times in the head, neck, back and chest after believing she was going to meet a friend. Her body was discovered by dog walkers in a park.
+
+“You both took part in a brutal and planned murder which was sadistic in nature,” judge Amanda Yip told the pair as she handed down the sentence at Manchester Crown Court.
+
+Yip said that Jenkinson’s “primary motivation” had been a desire to kill, but the pair had also been motivated in part by Ghey’s transgender identity.
+
+The judge ruled that Jenkinson must serve a minimum of 22 years before being considered for release, while Ratcliffe must serve at least 20 years.
+
+...
+
+[Data](articles/b359d482.json)
+
+[Extended Data](ext_articles/b359d482.ext.json)
+
+---
 
 ### Two police sergeants nabbed for soliciting Rs. 10,000 bribe
 
@@ -71,6 +95,24 @@ This gantry crane is 72 meters long, and a 26-container ships can be operated at
 [Data](articles/1e6fc8b8.json)
 
 [Extended Data](ext_articles/1e6fc8b8.ext.json)
+
+---
+
+### “Urumaya” National Operations Secretariat launched to address long-standing land rights issues
+
+*2024-02-02 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/96959/urumaya-national-operations-secretariat-launched-to-address-long-standing-land-rights-issues) · `en`
+
+“Urumaya” National Operations Secretariat was inaugurated on Thursday (Feb.01) by Presidential Secretary Saman Ekanayake at the President’s Office in the Old Standard Chartered Building.
+
+President Ranil Wickremesinghe’s vision of empowering farmers through land ownership takes shape as the government announces plans to grant freehold titles to two million families. This initiative aims to address long-standing concerns regarding land rights in rural Sri Lanka.
+
+The government’s plan to distribute two million freehold land titles to farming families has sparked discussions about its potential impact on rural communities and land ownership in Sri Lanka. This initiative, aligned with President Ranil Wickremesinghe’s vision, seeks to address concerns about land security for farmers.
+
+...
+
+[Data](articles/1c8e8ef6.json)
+
+[Extended Data](ext_articles/1c8e8ef6.ext.json)
 
 ---
 
@@ -174,23 +216,25 @@ When they died before the age of 55, the salaries and allowances were to be prov
 
 ---
 
-### පළමු දිනයේ වැඩි ගෞරව ශ්‍රී ලංකාවට
+### Sri Lanka's first honors date
 
 *2024-02-02 20:42:03* · [`adalk`](https://www.ada.lk/sports/පළමු-දිනයේ-වැඩි-ගෞරව-ශ්‍රී-ලංකාවට/9-407872) · `si`
 
-සංචාරක ඇෆ්ගනිස්ථාන කණ්ඩායම හා ශ්‍රී ලංකා කණ්ඩායම අතර කොළඹ එස්.එස්.සී. පිටියේ පැවැත්වෙන ටෙස්ට් තරගයේ පළමු දිනය නිමාවන විට ශ්‍රී ලංකා කණ්ඩායම කිසිවෙකු නොදැවී ලකුණු 80ක් රැස්කරගෙන සිටියේය.
+SSC between Sri Lanka team and Sri Lankan team. When the first day of the Test match of the Test, Sri Lanka, the Sri Lankan team scored 80 runs.
 
-තරගයේ මුලින්ම පන්දුවට පහරදුන් ඇෆ්ගනිස්ථාන කණ්ඩායම ලකුණු 198කට සීමා කිරීමට ශ්‍රී ලංකා පන්දු යවන්නෝ සමත්වූහ.
+The Afghan group scored 198 marks to bat first.
 
-ඇෆ්ගනිස්ථානයේ රහමත් ෂා ලකුණු 91ක් රැස්කළත් සෙසු පිතිකරුවන් අසාර්ථක වීම හේතුවෙන් ඇෆ්ගනිස්ථාන ඉනිම ලකුණු 198ට සීමා විය.
+Shasan Shah scored 91 runs in Afghanistan, but the Afghan innings were limited to 198 marks.
 
-අසිත ප්‍රනාන්දු ලකුණු 24ට කඩුලු 3ක්ද, විශ්ව ප්‍රනාන්දු ලකුණු51ට කඩුලු 4ක්ද, ප්‍රභාත් ජයසූරිය ලකුණු 67ට කඩුලු 3ක්ද දවා ගැනීමට සමත්වූය.
+Asapha Fernando took 3 wickets for 24 runs and 41 runs and Prabath Jayasuriya took 3 wickets for 67 runs.
 
-ශ්‍රී ලංකා ඉනිම ආරම්භ කළ නිශාන් මධුශංක 36* හා දිමුත් කරුණාරත්න 42* නොදැවී පිටියේ රැදී සිටින්නේ ශ්‍රී ලංකා ඉනිම ලකුණු 80ක් දක්වා රැගෙන යමිනි.
+Sri Lanka 36 * and Dimuth Karunaratne who started innings was 42 * from the Sri Lankan innings to 80 runs.
 
 ◼️
 
 [Data](articles/62c8070d.json)
+
+[Extended Data](ext_articles/62c8070d.ext.json)
 
 ---
 
@@ -1898,21 +1942,23 @@ UN Warns Sri Lanka’s Online Safety Act Threatens Human Rights
 
 ---
 
-### 13 හැවැරිදි පාසල් රග්බි ක්‍රීඩකයා දිවි තොර ගත්තේ ඡංගම දුරකතනය අරන් දුන් නැති නිසාද?
+### 13 Is the ragby player of the Rugby player of the Rugby player of the ragby-rugby?
 
 *2024-02-02 13:07:22* · [`adalk`](https://www.ada.lk/breaking_news/13-හැවැරිදි-පාසල්-රග්බි-ක්‍රීඩකයා-දිවි-තොර-ගත්තේ-ඡංගම-දුරකතනය-අරන්-දුන්-නැති-නිසාද-/11-407870) · `si`
 
-මහනුවර නගරයේ ප්‍රධාන පෙළේ පිරිමි පාසලක දහතුන් හැවිරිදි සිසුවෙකු නිවසේ කාමරයක් තුළ ගෙල වැලලා ගෙන මියගොස් ඇති බව පොත්තපිටිය පොලිසිය කියයි .
+Pottapitiya Police say that a Thirteenth-old student had died in a house room in Kandy.
 
-එසේ සිය දිවි හානි කරගෙන ඇත්තේ පොත්තපිටිය පොලිස් වසමේ මැණික්දිවෙල ප්‍රදේශයේ රොනිත් හුඩුපිටිය (13) නමැති 08 වසරේ ඉගෙනුම ලබන පාසල් සිසුවෙකි .
+The suicide was committed to Ronithpitiya (13), a year old year old.
 
-එම සිසුවා පාසලේ කනිෂ්ඨ රග්බි ක්‍රීඩකයෙකු වශයෙන්ද කටයුතු කොට ඇති අතර ඔහු තම දෙමව්පියන්ගෙන් ජංගම දුරකථනයක් ඉල්ලා සිටියත් දෙමව්පියන් එය ලබාදීම ප්‍රතික්ෂේප කොට ඇති බවට පොලිස් පරීක්ෂණවරිදි අනාවරණය වී තිබේ .
+The police investigation has revealed that the student had also act as a junior rugby in the school and he declined it.
 
-පොත්තපිටිය පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ප්‍රියන්ත රණසිංහ මහතා ඇතුළු පොලිස් කණ්ඩායමක් සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදු කරයි .
+Police OIC Chief Inspector Priyantha Ranasinghe, including Priyantha Ranasinghe, conducts further investigations.
 
 ◼️
 
 [Data](articles/7b111cab.json)
+
+[Extended Data](ext_articles/7b111cab.ext.json)
 
 ---
 
@@ -2025,43 +2071,5 @@ Accordingly, Yasaratne added that all state institutions will run as usual on Mo
 [Data](articles/a288fcfe.json)
 
 [Extended Data](ext_articles/a288fcfe.ext.json)
-
----
-
-### Memories Of H. L. D. Mahindapala
-
-*2024-02-02 12:47:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/memories-of-h-l-d-mahindapala/) · `en`
-
-H. L. D. Mahindapala, former editor-in-chief of Sri Lanka’s Sunday Observer and a renowned writer, passed away on January 30 in Colombo. I was introduced to Mahindapala by Noel Nadesan, a literary friend of mine who lives in Melbourne. Nadesan was publishing a bilingual (Tamil-English) newspaper called Uthayam at the time. Mahindapala also spoke at some of Uthayam’s seminar’s. Mahindapala migrated from Sri Lanka to Melbourne, Australia, in the 1970s with his wife, Ranjini. Ranjini was a Tamil lady whom Mahindapala loved and married. Despite the absence of offspring, their love blossomed for half a century, imbued with the pure, innocent affection of childlike devotion.
-
-They wanted to live in their homeland in their final years. Mahindapala’s beloved wife, Ranjini, passed away in Colombo in May 2021.
-
-...
-
-[Data](articles/27a0cc69.json)
-
-[Extended Data](ext_articles/27a0cc69.ext.json)
-
----
-
-### Celebrity Actress Poonam Pandey Death
-
-*2024-02-02 12:43:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பிரபல-நடிகை-பூனம்-பாண்டே-மரணம்/54-332544) · `ta`
-
-Popular Bollywood actress Poonam Pandey (age 32). She is famous for her modeling and made her debut in Hindi, Kannada and Telugu films.
-
-He was embroiled in controversy, saying that if India won the 2011 World Cup cricket series, I would pose naked.
-
-He married her boyfriend Sam Bombay in 2020. In the meantime, Poonam Pandey suffered from cervical cancer. He was treated for this.
-
-In this case, Poonam Pandey died of cervical cancer today died without treatment.
-
-The death of actress Poonam Pandey has shocked her fans.
-
-◼️
-
-[Data](articles/3df7c9b1.json)
-
-[Extended Data](ext_articles/3df7c9b1.ext.json)
 
 ---

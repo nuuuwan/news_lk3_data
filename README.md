@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 20:02:18**
+As of **2024-02-02 20:17:20**
 
 ## Newspaper Stats
 
-*Scraped **4,411** Articles*
+*Scraped **4,413** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 51
+colombotelegraphcom | 52
 bbccomsinhala | 68
 dbsjeyarajcom | 132
 islandlk | 230
@@ -18,7 +18,7 @@ newsfirstlk | 273
 adalk | 387
 virakesarilk | 498
 adaderanasinhalalk | 530
-adaderanalk | 552
+adaderanalk | 553
 tamilmirrorlk | 563
 dailymirrorlk | 611
 
@@ -26,27 +26,43 @@ dailymirrorlk | 611
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,404 (99.8%) of 4,411 articles have been extended.
+4,411 (100.0%) of 4,413 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
 
-### விஜயின் அரசியல் பிரவேசத்திற்கு நாமல் வாழ்த்து
+### Ex-Health Minister Keheliya Rambukwella arrested
+
+*2024-02-02 19:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96957/ex-health-minister-keheliya-rambukwella-arrested) · `en`
+
+Former Health Minister Keheliya Rambukwella has been arrested in connection with his alleged complicity in the procurement of substandard medicines.
+
+The lawmaker arrived at the Criminal Investigation Department (CID) premises this morning (Feb.02), complying with a court order issued yesterday.
+
+◼️
+
+[Data](articles/5efd1de7.json)
+
+---
+
+### Namal congratulates Vijay's political entry
 
 *2024-02-02 19:12:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயின்-அரசியல்-பிரவேசத்திற்கு-நாமல்-வாழ்த்து/175-332560) · `ta`
 
-நடிகர் விஜயின் அரசியல் பிரவேசத்திற்கு இலங்கை பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ தனது வாழ்த்துக்களை தெரிவித்துள்ளார்.
+Sri Lankan parliamentarian Namal Rajapaksa congratulates actor Vijay's political entry.
 
-அரசியலுக்கு வந்த நடிகர் விஜய்க்கு எனது மனமார்ந்த வாழ்த்துக்கள். உங்கள் புதிய அத்தியாயத்திற்கு நல்வாழ்த்துக்கள் என தனது X தளத்தில் நாமல் ராஜபக்ச பதிவொன்றை இட்டு வாழ்த்துக்களை தெரிவித்துள்ளார்.
+My heartfelt congratulations to actor Vijay who came to politics. Namal Rajapaksa congratulates your new chapter on his X -site.
 
-நடிகர் விஜய் தனது அரசியல் கட்சியின் பெயரை தமிழக வெற்றிக் கழகம் என இன்று அறிவித்திருந்தார்.
+Actor Vijay has announced his name as the Tamil Nadu Victory Corporation.
 
-2026-ஆம் ஆண்டு சட்டப் பேரவைத் தேர்தலைக் குறிவைத்து தனது கட்சி செயல்படும் என்றும் விஜய் வெளியிட்டிருக்கும் அறிக்கையில் குறிப்பிடப்பட்டுள்ளது. R
+In a statement issued by Vijay, he said that his party would act on the 2026 legislative assembly elections.. Remble
 
 ◼️
 
 [Data](articles/3fa3b6ca.json)
+
+[Extended Data](ext_articles/3fa3b6ca.ext.json)
 
 ---
 
@@ -67,6 +83,8 @@ Shah joined by Skipper Hashmatullah Shahidi saw the side through to the lunch br
 ...
 
 [Data](articles/8281292c.json)
+
+[Extended Data](ext_articles/8281292c.ext.json)
 
 ---
 
@@ -102,6 +120,8 @@ The event was held at the Presidential Secretariat today (02).
 
 [Data](articles/997a9fe1.json)
 
+[Extended Data](ext_articles/997a9fe1.ext.json)
+
 ---
 
 ### Two arrested for alleged sexual assault, theft of American woman
@@ -125,6 +145,8 @@ The victim also complained that a gold bracelet worth USD 2,400, a necklace wort
 ◼️
 
 [Data](articles/08ae7063.json)
+
+[Extended Data](ext_articles/08ae7063.ext.json)
 
 ---
 
@@ -240,6 +262,8 @@ Joshua Schulte was convicted in July 2022 on four counts each of espionage and c
 
 [Data](articles/aa2f5bd4.json)
 
+[Extended Data](ext_articles/aa2f5bd4.ext.json)
+
 ---
 
 ### Namal congratulates commander Vijay
@@ -271,6 +295,8 @@ In his first outing as the next Sri Lanka Test captain, Dhananjaya de Silva buck
 ...
 
 [Data](articles/3c200f5a.json)
+
+[Extended Data](ext_articles/3c200f5a.ext.json)
 
 ---
 
@@ -672,6 +698,8 @@ The Act, which has been widely critized both locally and internationally, became
 
 [Data](articles/f7edf1f9.json)
 
+[Extended Data](ext_articles/f7edf1f9.ext.json)
+
 ---
 
 ### SI arrested over Narammala ‘accidental’ shooting further remanded
@@ -1067,6 +1095,22 @@ He said that I saw a meeting held by Nimal Lansa last week and I noticed that th
 [Data](articles/f553f25c.json)
 
 [Extended Data](ext_articles/f553f25c.ext.json)
+
+---
+
+### Abolition Of The Provincial Councils System: Reply To Milinda Moragoda’s Utterance
+
+*2024-02-02 14:21:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/abolition-of-the-provincial-councils-system-reply-to-milinda-moragodas-utterance/) · `en`
+
+Erstwhile Sri Lanka’s High Commissioner in India and the presently activated Founder of the Pathfinder Foundation has recently called for the abolition of the Provincial Councils system and has advocated direct devolution of powers to strengthen and reconfigure Local, Urban and Municipal Councils. He has argued that an additional layer of administration in the form of Provincial Councils in unnecessary. He has proposed achieving necessary coordination between the centre and the periphery through a District Level framework involving Members of Parliament.
+
+He has argued that the Provincial Councils have proven to be redundant, costly, divisive and inefficient. In lieu of the Provincial Council layer he has recommended establishing an empowered Senate or Upper House to handle matters related to religious, ethnic and regional diversity.
+
+He had earlier advised Gotabaya Rajapaksa similarly asking 13th Amendment to be repealed to abolish “the dysfunctional and expensive” Provincial Councils.
+
+...
+
+[Data](articles/2cff0941.json)
 
 ---
 
@@ -1965,53 +2009,5 @@ Meanwhile, a media spokesman said that the package of food and clothing brought 
 [Data](articles/ae504dbc.json)
 
 [Extended Data](ext_articles/ae504dbc.ext.json)
-
----
-
-### Nairobi fire: Huge gas blast in Kenyan capital kills 2, injures hundreds
-
-*2024-02-02 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96940/nairobi-fire-huge-gas-blast-in-kenyan-capital-kills-2-injures-hundreds) · `en`
-
-A huge gas blast in the Kenyan capital, Nairobi, has killed at least two people and injured at least 222.
-
-A lorry carrying gas exploded in Embakasi district around 23:30 (20:30 GMT), “igniting a huge ball of fire”, a government spokesperson said.
-
-Housing, businesses and cars were damaged with video showing a huge blaze raging close to blocks of flats.
-
-Earlier, the government had said the blast happened at a gas plant. The cause is still being established.
-
-Mr Mwaura said the fireball from the blast had “spread widely”, and a flying gas cylinder had hit a garments and textiles warehouse, burning it down.
-
-The blaze is also reported to have spread through several apartment complexes.
-
-Witnesses told local media they had felt tremors immediately after the blast.
-
-Many of the injured are said to have inhalation injuries and they include at least 25 children, the Standard newspaper reports.
-
-...
-
-[Data](articles/91c6a4b3.json)
-
-[Extended Data](ext_articles/91c6a4b3.ext.json)
-
----
-
-### Displaying weight, price of a loaf of bread made mandatory
-
-*2024-02-02 11:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Displaying-weight-price-of-a-loaf-of-bread-made-mandatory/108-276209) · `en`
-
-Colombo, Feb. 2 (Daily Mirror)- The Consumer Affairs Authority (CAA) has taken steps to issue an extraordinary gazette notification, making it mandatory for sellers to display the proper weight and price for bread, which is a bakery-related product.
-
-The gazette was issued according to its chairman, Shantha Niriella and the announcement is for the safety of the consumers.
-
-According to the gazette, it has been made mandatory for those engaged in the preparation, packaging, storage and wholesale as well as retailing bread to ensure that the weight of the bread displayed for sale contains the specified weight and to clearly display the weight of the bread displayed for sale.
-
-The standard weight of a loaf of bread is 450 grams and the standard weight of a half loaf of bread is 225 grams.
-
-◼️
-
-[Data](articles/428aaab5.json)
-
-[Extended Data](ext_articles/428aaab5.ext.json)
 
 ---

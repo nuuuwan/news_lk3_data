@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 03:02:15**
+As of **2024-02-03 03:17:23**
 
 ## Newspaper Stats
 
-*Scraped **4,449** Articles*
+*Scraped **4,450** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 389
 virakesarilk | 498
 adaderanasinhalalk | 538
 adaderanalk | 556
-tamilmirrorlk | 564
+tamilmirrorlk | 565
 dailymirrorlk | 618
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,449 (100.0%) of 4,449 articles have been extended.
+4,449 (100.0%) of 4,450 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### பயங்கரவாத எதிர்ப்பு சட்டமூல விசாரணைகள் நிறைவு
+
+*2024-02-03 02:18:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-எதிர்ப்பு-சட்டமூல-விசாரணைகள்-நிறைவு/175-332574) · `ta`
+
+அரசாங்கம் நாடாளுமன்றத்தில் சமர்ப்பித்துள்ள பயங்கரவாத எதிர்ப்பு சட்டமூலத்திற்கு எதிராக தாக்கல் செய்யப்பட்ட மனுக்கள் மீதான விசாரணை நேற்று நிறைவடைந்தது.
+
+உயர் நீதிமன்றத்தின் தீர்ப்பை சபாநாயகருக்கு அனுப்ப நடவடிக்கை எடுப்பதாக நீதிபதிகள் குழாம் விசாரணை நிறைவில் அறிவித்தது.
+
+பிரதம நீதியரசர் ஜயந்த ஜயசூரிய, விஜித் மலல்கொட, ஏ.எச்.எம்.டி. நவாஸ், ஷிரான் குணரத்ன, அர்ஜூன அபேசேகர ஆகிய ஐவர் அடங்கிய நீதியசர்கள் குழாம் முன்னிலையில் ஆறு நாள்கள் மனுக்கள் தொடர்பிலான விசாரணை நடைபெற்றது.
+
+பயங்கரவாத எதிர்ப்பு சட்டத்தின் சில சரத்துகள் அரசியலமைப்பிற்கு முரணானது என தீர்ப்பு வழங்குமாறு கோரி உயர் நீதிமன்றத்தில் 31 மனுக்கள் தாக்கல் செய்யப்பட்டிருந்தன.  (a)
+
+◼️
+
+[Data](articles/673beaf5.json)
+
+---
 
 ### Foreign Minister Sabry meets Belgium entrepreneurs connected to Sri Lanka
 
@@ -2035,27 +2053,5 @@ Space is not enough. That is why we are struggling today. Northern Provincial Of
 [Data](articles/2317a263.json)
 
 [Extended Data](ext_articles/2317a263.ext.json)
-
----
-
-### Shannan Green visited parliament for international development
-
-*2024-02-02 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175381) · `ta`
-
-A delegation led by Shanan Greene, a Bureau of Bureau for Democracy, Human Rights and Administration for Democracy, Human Rights and Administration, has recently visited the Sri Lankan parliament.
-
-The delegation held discussions with Speaker Mahinda Yapa Abeywardena, Parliamentary Secretary General Kushani Rohanadeera, Chief of the Station and Deputy Secretary General of Parliament and Hansa Abeyratne.
-
-The delegation also discussed with members of the Parliamentary Union for the Open Parliamentary Affairs and the members of Parliament Kokila Gunawardena, Niroshan Perera and Hon.
-
-These discussions focused on the implementation of the Open Government Partnership in Sri Lanka, the Parliamentary Supervisory Committees, the Parliamentary Union for the Open Parliamentary Affairs, and the favorable initiatives of the Members of Parliament.
-
-It was also discussed on the measures being taken to ensure the role of the public in democracy, transparency and the role of the public in legal process.
-
-...
-
-[Data](articles/2c52bb25.json)
-
-[Extended Data](ext_articles/2c52bb25.ext.json)
 
 ---

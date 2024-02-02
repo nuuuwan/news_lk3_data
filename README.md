@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 01:32:57**
+As of **2024-02-03 01:49:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,444 (99.9%) of 4,449 articles have been extended.
+4,449 (100.0%) of 4,449 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Sri Lanka’s Ambassador-designate to Belgium and European Union Chandana Weeras
 
 [Data](articles/ef72af3c.json)
 
+[Extended Data](ext_articles/ef72af3c.ext.json)
+
 ---
 
 ### Seylan Bank launches Solar Loan Facility
@@ -61,6 +63,8 @@ The Solar Loan Facility is designed with the rising electricity costs in mind, e
 ...
 
 [Data](articles/b7a82679.json)
+
+[Extended Data](ext_articles/b7a82679.ext.json)
 
 ---
 
@@ -78,6 +82,8 @@ Recognising the financial challenges faced by many customers, particularly durin
 
 [Data](articles/902967d8.json)
 
+[Extended Data](ext_articles/902967d8.ext.json)
+
 ---
 
 ### 76 years on is Sri Lanka independent or in-dependence? What are we celebrating?
@@ -91,6 +97,8 @@ There was no fight for . . . freedom which involved a fight for principles, poli
 ...
 
 [Data](articles/50019617.json)
+
+[Extended Data](ext_articles/50019617.ext.json)
 
 ---
 
@@ -111,6 +119,8 @@ There is therefore some merit in examining the way we dealt in the year past wit
 ...
 
 [Data](articles/12871ea9.json)
+
+[Extended Data](ext_articles/12871ea9.ext.json)
 
 ---
 

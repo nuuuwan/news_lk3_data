@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 08:17:15**
+As of **2024-02-02 08:32:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 585
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,262 (100.0%) of 4,264 articles have been extended.
+4,264 (100.0%) of 4,264 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -684,25 +684,27 @@ Former President of the Sri Lanka TNA. The general secretary has the powers rela
 
 ---
 
-### දේශපාලනයේ කාන්තා නියෝජනය : සැමියන්, පියවරුන්, සහෝදරයන් මියයාමෙන් පසු  ජාතික දේශපාලනයට පිවිසුණු කාන්තාවෝ
+### People's Representation: Women who entered the national politics after the death of husbands, fathers, brothers
 
 *2024-02-02 01:50:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cldq5klpl20o) · `si`
 
-දේශපාලනයේ කාන්තා නියෝජනය : සැමියන්, පියවරුන්, සහෝදරයන් මියයාමෙන් පසු  ජාතික දේශපාලනයට පිවිසුණු කාන්තාවෝ
+People's Representation: Women who entered the national politics after the death of husbands, fathers, brothers
 
-නියෝජිත ප්‍රජාතන්ත්‍රවාදය ක්‍රියාත්මක වන ඇතැම් රටවල් මුහුණ දී තිබෙන ප්‍රධාන ප්‍රශ්නයක් වන්නේ ජනගහනයට සාපේක්ෂව කාන්තා මහජන නියෝජිතවරියන් දේශපාලනය තුළ නියෝජනය නොවීමය.
+A major issue faced by representative democracy is that women's representatives are not represented in politics compared to the population.
 
-යුරෝපය සහ එක්සත් ජනපදය වැනි රටවල් මේ සම්බන්ධයෙන් යම් ප්‍රගතියක් අත් කරගෙන තිබෙන නමුත්, අප්‍රිකානු හා ආසියානු රටවල් තවමත් මෙම ගැටලුවට මුහුණ දෙමින් සිටියි.
+Countries such as Europe and the United States have made some progress in this regard, but African and Asian countries are still facing this problem.
 
-ස්වාධීන කාන්තාවකට දේශපාලනයට පැමිණ ජාතික තලය දක්වා පිවිසීමට දැවැන්ත බාධක රැසක් ඇති දකුණු ආසියානු කලාපය යනු කාන්තාවන් රාජ්‍ය නායකයන් ලෙස පත් වූ පළමු රටවල් වීම ද විශේෂත්වයකි.
+The South Asian region is the first countries that have become the first countries that have become the leaders of the heads of state.
 
-එවැනි අවස්ථා තිබියදීත් තවමත් කාන්තාවන් දේශපාලනයට පැමිණීම මෙම රටවල්වල සැලකිය යුතු තරම් අඩු මට්ටමක පවතින්නේ ඇයි?
+Despite such situations, why are women still undergoing politics in these countries?
 
-එහිදී නිරීක්ෂණය කළ හැකි එක් කරුණක් වන්නේ  ආරම්භයේ පටන් වර්තමානය දක්වා දකුණු ආසියානු රටවල් වල ජාතික තලයේ සාර්ථක වූ හෝ දැවැන්ත චරිත ලෙසින් ඉස්මතුව ඇති බහුතරයක් කාන්තාවන් සිය සැමියා, පියා හෝ පිරිමි සහෝදරයන් මිය යාමෙන් පසුව ඔවුන් වෙනුවට ඔවුන්ගේ බලය පවත්වාගෙන යාමට පැමිණි අයවලුන්  වීමයි.
+One of those who can observe where they have been highlighted or enormous in South Asian countries from the outset since the beginning of the country, they have been the victims of their husband instead of their power.
 
 ...
 
 [Data](articles/629e9680.json)
+
+[Extended Data](ext_articles/629e9680.ext.json)
 
 ---
 
@@ -1220,27 +1222,29 @@ Ye saw Zhang’s two children as an “obstacle” to them getting married and a
 
 ---
 
-### දයා ඇවිත් ගියේ නැතිලු
+### Daya did not go
 
 *2024-02-01 20:04:50* · [`adalk`](https://www.ada.lk/breaking_news/දයා-ඇවිත්-ගියේ-නැතිලු/11-407862) · `si`
 
-සමගි ජන බලවේගය සමග එක් වූ හිටපු යුද හමුදාපති දයා රත්නායක මහතා මව්බිම ජනතා පක්ෂය සමග එකතු වූ බවට වන පුවත අසත්‍ය පුවතක් බව  සමගි ජන බලවේගයේ ජනාධිපතිවරණ මෙහෙයුම් ප්‍රධානී සුජීව සේනසිංහ මහතා නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+President of the Presidential Electorate, Chief of Parliament, Manguira Senasinghe, who joined the Motherland People's Party, has issued a statement.
 
-විවිධ පාර්ශ්ව සමගි ජන බලවේගය සමග ඒකරාශී වීමේදී මෙවැනි අසත්‍ය ප්‍රචාර ඉදිරියේදීද සිදු විය හැකි බව එහි සඳහන් කර තිබේ.
+It is said that such false propaganda may also be in the future when the various parties gather.
 
-අදාළ නිවේදනයේ වැඩිදුරටත් සුජීව සේනසිංහ මහතා මෙලෙස සඳහන් කර ඇත.
+Speaking further Mr. Sujeewa Senasinghe has stated this way.
 
-'සමගි ජන බලවේගය සමග එකතු වූ හිටපු යුද හමුදාපති දයා රත්නායක මහතා මව්බිම ජනතා පක්ෂය සමග එකතු වූවා යැයි හැ‌‌ෙඟන ප්‍රවෘත්තියක් සමාජ මාධ්‍ය ජාලා හරහා සංසරණය වෙමින් පවති.
+"Former Army Commander Daya Ratnayake, who joined the Motherland People's Party, is circulated through social media coincups.
 
-මෙය අසත්‍ය පුවතක් වන අතර එවැනි සිදුවීමක් සිදු වී නොමැති බව අවධාරණය කරමු.
+This is false, emphasizes that there is no such incident.
 
-සමගි ජන බලවේගය ශක්තිමත් කිරීම සඳහා විවිධ පාර්ශ්ව ඒකරාශීවීම තුළ මෙවැනි අසත්‍ය ප්‍රචාර ඉදිරියේදී ද සිදු විය හැක. ඒ පිළිබඳව අපි දැඩි අවධානයෙන් පසුවෙමු.
+Such false propaganda may also be in the future to strengthen the harmony community. We are very close to that.
 
-මෙවැනි ඡායාරූප පළ කිරීමට පෙර අදාළ පාර්ශ්වයක් ජනරාල් දයා රත්නායක මහතා විමසා කටයුතු කළේ නම් එය යහපත් මාධ්‍ය භාවිතයක් බවද පෙන්වා දෙනු කැමැත්තෙමි.'
+If you have taken measures to publish such photos,
 
 ◼️
 
 [Data](articles/73262e63.json)
+
+[Extended Data](ext_articles/73262e63.ext.json)
 
 ---
 

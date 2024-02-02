@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 03:17:23**
+As of **2024-02-03 03:32:37**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,449 (100.0%) of 4,450 articles have been extended.
+4,450 (100.0%) of 4,450 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
 
-### பயங்கரவாத எதிர்ப்பு சட்டமூல விசாரணைகள் நிறைவு
+### Complete the Investigation of the Anti -Terrorism Bill
 
 *2024-02-03 02:18:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-எதிர்ப்பு-சட்டமூல-விசாரணைகள்-நிறைவு/175-332574) · `ta`
 
-அரசாங்கம் நாடாளுமன்றத்தில் சமர்ப்பித்துள்ள பயங்கரவாத எதிர்ப்பு சட்டமூலத்திற்கு எதிராக தாக்கல் செய்யப்பட்ட மனுக்கள் மீதான விசாரணை நேற்று நிறைவடைந்தது.
+The investigation into the petitions filed against the anti -terrorist bill filed in Parliament was completed yesterday.
 
-உயர் நீதிமன்றத்தின் தீர்ப்பை சபாநாயகருக்கு அனுப்ப நடவடிக்கை எடுப்பதாக நீதிபதிகள் குழாம் விசாரணை நிறைவில் அறிவித்தது.
+At the conclusion of the hearing of the judges, the panel of judges will take steps to send the Supreme Court's decision to the Speaker.
 
-பிரதம நீதியரசர் ஜயந்த ஜயசூரிய, விஜித் மலல்கொட, ஏ.எச்.எம்.டி. நவாஸ், ஷிரான் குணரத்ன, அர்ஜூன அபேசேகர ஆகிய ஐவர் அடங்கிய நீதியசர்கள் குழாம் முன்னிலையில் ஆறு நாள்கள் மனுக்கள் தொடர்பிலான விசாரணை நடைபெற்றது.
+Chief Justice Jayantha Jayasuriya, Vijith Malkoda, AHMT. The six -day hearing was held in the presence of a panel of judges comprising Nawaz, Shiran Gunaratne and Arjuna Abeysekara.
 
-பயங்கரவாத எதிர்ப்பு சட்டத்தின் சில சரத்துகள் அரசியலமைப்பிற்கு முரணானது என தீர்ப்பு வழங்குமாறு கோரி உயர் நீதிமன்றத்தில் 31 மனுக்கள் தாக்கல் செய்யப்பட்டிருந்தன.  (a)
+31 petitions have been filed in the Supreme Court demanding that some of the anti -terror laws be ruled out of the constitution.(a)
 
 ◼️
 
 [Data](articles/673beaf5.json)
+
+[Extended Data](ext_articles/673beaf5.ext.json)
 
 ---
 

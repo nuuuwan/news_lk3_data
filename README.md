@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 09:51:43**
+As of **2024-02-02 10:03:27**
 
 ## Newspaper Stats
 
-*Scraped **4,278** Articles*
+*Scraped **4,281** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ newsfirstlk | 265
 dailyftlk | 272
 adalk | 380
 virakesarilk | 470
-adaderanasinhalalk | 507
+adaderanasinhalalk | 508
 adaderanalk | 532
 tamilmirrorlk | 546
-dailymirrorlk | 586
+dailymirrorlk | 588
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,278 (100.0%) of 4,278 articles have been extended.
+4,281 (100.0%) of 4,281 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### President and the budget about the presidential candidate
+
+*2024-02-02 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192872) · `si`
+
+The Presidential Secretariat has held a meeting of the Sri Lanka Civil Front and other parties representing the government under President Ranil Wickremesinghe.
+
+SM discussion addressed the presidential election. Chandrasena said MP Chandrasena said.
+
+The President had asked the President to start talks with the party leadership to seek the support of the Presidential Elections Candidate.
+
+"Whatever it takes, you need to negotiate. We told the discussion with former President Mahinda Rajapakse and Basil Rajapaksa. We are clearly shown to the President. "
+
+◼️
+
+[Data](articles/b30beac0.json)
+
+[Extended Data](ext_articles/b30beac0.ext.json)
+
+---
 
 ### Ex-Health Minister Keheliya arrives at CID
 
@@ -72,6 +92,20 @@ Keheliya Rambukwella has been asked to appear before the Criminal Investigation 
 
 ---
 
+### Constitutional Council rejects President’s Supreme Court pick
+
+*2024-02-02 08:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Constitutional-Council-rejects-Presidents-Supreme-Court-pick/108-276156) · `en`
+
+Colombo, Feb 02 (Daily Mirror) -  The Constitutional Council (CC) has declined to endorse the nomination of Court of Appeal President Nissanka Bandula Karunaratne as a Supreme Court judge by President Ranil Wickremesinghe triggering him to be on a collision course with the parliamentary body, Daily Mirror learns.
+
+...
+
+[Data](articles/1ce4cade.json)
+
+[Extended Data](ext_articles/1ce4cade.ext.json)
+
+---
+
 ### US approves plan to strike Iranian targets in Syria and Iraq
 
 *2024-02-02 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/96934/us-approves-plan-to-strike-iranian-targets-in-syria-and-iraq) · `en`
@@ -95,6 +129,24 @@ US officials have said that US intelligence believes that the drone used to atta
 [Data](articles/6bd7cd24.json)
 
 [Extended Data](ext_articles/6bd7cd24.ext.json)
+
+---
+
+### Thailand Prime Minister to participate in 76th Independence Day
+
+*2024-02-02 08:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thailand-Prime-Minister-to-participate-in-76th-Independence-Day/108-276179) · `en`
+
+Colombo, Feb 2 (Daily Mirror) - The Thailand Prime Minister Srettha Thavisin will visit Sri Lanka as the chief guest of honour at the invitation of the President and the Prime Minister of Sri Lanka to celebrate the 76th Independence Day, which falls on Sunday (4), Home Affairs State Minister Ashoka Priyantha said.
+
+While issuing a media communiqué, he said that due to the sudden illness, his two-day visit to Sri Lanka is limited to one day.
+
+However, in honour of the President's request, the Thai Prime Minister is scheduled to participate in the Independence Day event for about an hour.
+
+◼️
+
+[Data](articles/7906fd53.json)
+
+[Extended Data](ext_articles/7906fd53.ext.json)
 
 ---
 
@@ -1999,65 +2051,5 @@ The Constitutional Council is obliged to perform his work in accordance with the
 [Data](articles/c60604c6.json)
 
 [Extended Data](ext_articles/c60604c6.ext.json)
-
----
-
-### Lunch lunches in March to primary grades
-
-*2024-02-01 18:30:17* · [`adalk`](https://www.ada.lk/breaking_news/මාර්තු-සිට-ප්‍රාථමික-ශ්‍රේණිවල-සියලු‍-දරුවන්ට-දිවා-ආහාරය/11-407855) · `si`
-
-Sri Lanka's schools have about 1 lakhs of 1-5 children and to provide a sum of Rs.Minister of Education Susil Premajayantha said that action will be taken.
-
-The Minister also said that all the school text books needed for 2024 have been printed and will be provided to the third book and uniforms to school children as soon as school.
-
-The Minister made these comments participating in the grade of 162 graduates who were recruited to grade appointments to grade appointments to grade appointment in national schools today (a).
-
-French is aimed at expanding the number of foreign languages that teach foreign languages in the school system and the country's current economic priorities to learn foreign languages.These appointments were conducted in a Cabinet decision received by a Cabinet decision received by the Cabinet Rulers received to recruit teachers to teachers in public schools, Japanese, Chinese, Koreans, Hindi, German.
-
-◼️
-
-[Data](articles/7c4bf23c.json)
-
-[Extended Data](ext_articles/7c4bf23c.ext.json)
-
----
-
-### US $ 1.5 million from USA for port human resource development
-
-*2024-02-01 18:22:49* · [`adalk`](https://www.ada.lk/breaking_news/වරාය-මානව-සම්පත්-සංවර්ධනයට-ඇමරිකා‍වෙන්-ඩොලර්-මිලියන-1-5-ක-ප්‍රදානයක්/11-407854) · `si`
-
-Ports, the Ministry of Maritime and Aviation has been awarded US $ 1.5 million for the development of Sri Lanka's port sector.
-
-The United States Method (Colombo-Plan) was presented by the Colombo Methodology.
-
-Under this finance, the Sri Lanka Ports Authority (SLPA) and employees will be provided to officials and employees of the Sri Lanka Ports Authority (100) to improve their professional competencies.
-
-The Memorandum of MoU was signing the Minister of Ports and Aviation Minister Nimal Siripala de Silva and Sri Lanka's US Ambassador to July Chang.
-
-Minister Nimal Siripala de Silva said:. The Minister said that the present government is working to be successfully overcome by the present government and the present government is working on the economic crisis and that the present government is doing well.
-
-The Minister appreciated the contributions of US Ambassador to July Chang and the Colombo Secretariat on behalf of the development and future development in Sri Lanka.
-
-◼️
-
-[Data](articles/64f60ea0.json)
-
-[Extended Data](ext_articles/64f60ea0.ext.json)
-
----
-
-### Steps to provide mid-day meals to all primary school children from March
-
-*2024-02-01 18:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Steps-to-provide-mid-day-meals-to-all-primary-school-children-from-March/108-276145) · `en`
-
-Colombo, Feb 1 (Daily Mirror) - Education Minister Susil Premajayantha said that a sum of Rs. 16 million has been allocated to facilitate the provision of school lunches for students in Grades 1 to 5, and measures will be implemented to ensure that all children in these primary grades receive lunch starting in March this year.
-
-The Minister further said that all school textbooks required for 2024 have been printed, and arrangements have been made to provide the textbooks and uniforms to the schoolchildren immediately after the end of the third term.
-
-◼️
-
-[Data](articles/0cdfb418.json)
-
-[Extended Data](ext_articles/0cdfb418.ext.json)
 
 ---

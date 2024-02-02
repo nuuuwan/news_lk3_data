@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 08:50:17**
+As of **2024-02-02 09:02:17**
 
 ## Newspaper Stats
 
@@ -26,49 +26,57 @@ dailymirrorlk | 586
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,264 (99.8%) of 4,273 articles have been extended.
+4,273 (100.0%) of 4,273 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
 
-### බෙලිඅත්ත පංච පුද්ගල ඝාතනයේ ප්‍රධාන වෙඩික්කරුගේ බිරිඳ සහ පියා අත්අඩංගුවට
+### The wife and father arrested for the murder of Beliatta
 
 *2024-02-02 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192870) · `si`
 
-අපේ ජනබල පක්ෂයේ නායක සමන් පෙරේරා ඇතුලු පුද්ගලයින් 05 දෙනෙකු ඝාතන සිද්ධියේ ප්‍රධාන වෙඩික්කරු බවට සැකකෙරෙන පුද්ගලයාගේ බිරිඳ සහ පියාව පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් අත්අඩංගුවට ගෙන තිබේ.
+Police STF officers have been arrested by the wife of the Five persons including the leader Saman Perera, including the leader Saman Perera.
 
-පොලීසිය පවසන පරිදි එම සිද්ධියේ සැකකාර වෙඩික්කරු දැනට නාවික හමුදාවෙන් විශ්‍රාම වැටුප් ලබන හිටපු නාවික හමුදා භටයෙකි.
+According to the police, the suspect shooter is currently a former naval person who receives pension.
 
-2024.01.22 දින බෙලිඅත්ත ප්‍රදේශයේදී මෙම පංච පුද්ගල ඝාතනය සිදු කෙරුණි.
+The murder was carried out in Beliatta on 22.01.2012.
 
-කලක් නාවික හමුදාවේ සේවය කර මේ වනවිට විශ්‍රාම වැටුප් ලබන නාවික හමුදා සෙබලෙකු වන මෙම ඝාතනයේ ප්‍රධාන වෙඩික්කරුගේ වයස අවුරුදු 39ක් වන බිරිඳ හා එයට අනුබල දුන් වයස අවුරුදු 72ක් වන පියා ව මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+The murder of the murder of the Navy has been arrested by the Navy, a 39-year-old father, aged 72, has been arrested.
 
-හෙරොයින් ග්‍රෑම් 21යි මිලි ග්‍රෑම් 350 ක් සමග පල්ලෙවෙල පොලිස් වසමේ පාතගම, මුද්දරගම සැඟවී සිටියදී සැකකරු සහ සැකකාරිය අත්අඩංගුවට ගෙන ඇත.
+The suspect and the suspect were arrested while hiding in Pathagama, Mudaragama with 21 grams of heroin and 350 grams of heroin.
 
-මොවුන්ගෙන් කරනු ලබන ප්‍රශ්න කිරීම්වලදී ප්‍රධාන වෙඩික්කරු වන විශ්‍රාමික නාවික හමුදා සෙබළා ජනවාරි මස 21 වන දින බස් රථයෙන් බෙලිඅත්ත ප්‍රදේශයට පිටව ගොස් 22 වන දින තවත් වෙඩික්කරුවන් දෙදෙනෙකු සමග මෙම ඝාතනය සිදු කර ඩුබායි රාජ්‍යය වෙත පළාගොස් ඇති බවටත් පවසා ඇත.
+The main shooter, the main shooter, has fled to the Beliatta on January 21st on January 21st on January 21st day.
+
+It has also been revealed that the Nakayaka of the kingdom of Dubai has been submitted.
+
+It is suspected that this is a close associate of the underworld leader Kosgoda Zoe, who is currently a close associate of the drug dealer, Harandra Gunatilleke, Harsha.
 
 ...
 
 [Data](articles/19750040.json)
 
+[Extended Data](ext_articles/19750040.ext.json)
+
 ---
 
-### ஜோர்தான் தாக்குதலிற்கு பதிலடி - ஈராக் சிரியாவில் உள்ள ஈரானிய இலக்குகள் மீது தாக்குதலை மேற்கொள்வதற்கு அமெரிக்க இராணுவத்திற்கு அனுமதி
+### Jordan retaliates - US military permits to attack Iranian targets in Iraq in Syria
 
 *2024-02-02 08:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175349) · `ta`
 
-ஜோர்தானில் அமெரிக்க இராணுவதளத்தின் மீது மேற்கொள்ளப்பட்ட தாக்குதலிற்கு பதில் தாக்குதலை மேற்கொள்வதற்கான அனுமதியை அமெரிக்கா தனது இராணுவத்திற்கு வழங்கியுள்ளது.
+The US has given its military permission to launch an attack on the US military in Jordan.
 
-ஈராக் சிரியாவில் உள்ள  ஈரான்நிலைகளின் மீது தாக்குதலை மேற்கொள்வதற்கு அமெரிக்க இராணுவத்திற்கு அனுமதி வழங்கப்பட்டுள்ளதாக பிபிசி தெரிவித்துள்ளது.
+The BBC says the US military has been allowed to attack Iraqi states in Syria.
 
-இந்த தாக்குதல்கள் தொடர்ச்சியாக பல நாட்களிற்கு இடம்பெறும் காலநிலையை அடிப்படையாக வைத்தே தாக்குதல்களை எப்போது மேற்கொள்வது என்பது தீர்மானிக்கப்படும் என அமெரிக்க அதிகாரிகள் தெரிவித்துள்ளனர்.
+US officials said the attacks would be decided when the attacks would be based on the continuous climate for several days.
 
-ஜோர்தான் தளத்தின் மீது தாக்குதலை மேற்கொள்வதற்காக பயன்படுத்தப்பட்ட ஆளில்லா விமானம் ஈரானில் தயாரிக்கப்பட்டது என அமெரிக்க புலனாய்வு தரப்பினர் காணப்படுகின்றனர்-உக்ரைனிற்கு எதிரான தாக்குதலிற்காக ரஸ்யாவிற்கு வழங்கப்பட்ட ஈரானில் தயாரிக்கப்பட்ட ஆளில்லா விமானங்கள் போல இவை காணப்படுகின்றன எனவும் புலனாய்வு தரப்பினர் தெரிவித்துள்ளனர்.
+US intelligence agencies are found in Iran that the unmanned aircraft used to attack the Jordan site is manufactured in Iran.
 
 ◼️
 
 [Data](articles/08575630.json)
+
+[Extended Data](ext_articles/08575630.ext.json)
 
 ---
 
@@ -92,21 +100,23 @@ Meanwhile, Environment Minister Keheliya Rambukwella has also been imposed on fo
 
 ---
 
-### අමෙරිකාව තවත් ප්‍රහාරයකට සැරසෙයි
+### US preparing another attack
 
 *2024-02-02 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192869) · `si`
 
-සිරියාවේ සහ ඉරාකයේ පිහිටි ඉරාන ඉලක්ක වෙත ප්‍රහාර මාලාවක් එල්ල කිරීම සඳහා වන අමෙරිකානු සැලැස්මට එරට බලධාරීන්ගේ අනුමැතිය හිමිවී තිබේ.
+The US authorities have approved the American authorities to launch a series of attacks on Iranian goals in Syria and Iraq.
 
-ජෝර්දානයේ පිහිටි අමෙරිකානු කඳවුරකට ඩ්‍රෝන ප්‍රහාරයක් එල්ල කර අමෙරිකානු භටයන් තිදෙනෙකු ඝාතනය කිරීමේ සිද්ධියට ඉරාන සහාය ලබන මිලීෂියා කණ්ඩායමට චෝදනා එල්ලවී තිබුණි.
+The Militia, who is supporting Iranian backed by a drone strike in Jordan, was accused of killing three US troops.
 
-අදාළ කණ්ඩායමට ඉරානයේ සහාය ලැබෙන බව අමෙරිකාව ප්‍රකාශ කළ අතර ඉරානය එය ප්‍රතික්ෂේප කරයි.
+The United States expressed the assistance of Iran and Iran refuses to support Iran.
 
-එම ප්‍රහාරයෙන් අමෙරිකානු භටයන් 41 දෙනෙකු තුවාල ලැබූ අතර අමෙරිකාවට එල්ල වන ප්‍රහාර ඉවසා නොසිටින බව ඊයේ පැවති මාධ්‍ය හමුවකදී ආරක්ෂක ලේකම් ලොයිඩ් ඔස්ටින් පවසා තිබුණි.
+At a press conference held yesterday, 41 people were injured in the attack and the attack on the US would not tolerate attacks on the US.
 
 ◼️
 
 [Data](articles/6c462c46.json)
+
+[Extended Data](ext_articles/6c462c46.ext.json)
 
 ---
 
@@ -125,6 +135,8 @@ Police told court that the suspect Veterinary Surgeon had issued a forged docume
 ...
 
 [Data](articles/9382ca65.json)
+
+[Extended Data](ext_articles/9382ca65.ext.json)
 
 ---
 
@@ -221,6 +233,8 @@ The $442 million project was given to the Indian firm as an unsolicited deal aft
 ...
 
 [Data](articles/180b97ac.json)
+
+[Extended Data](ext_articles/180b97ac.ext.json)
 
 ---
 
@@ -326,6 +340,8 @@ The initiative will see technical training exchanges, conferences, visits to US 
 
 [Data](articles/b746cdb9.json)
 
+[Extended Data](ext_articles/b746cdb9.ext.json)
+
 ---
 
 ### Changing Tamil perspectives in the struggle for independence
@@ -415,6 +431,8 @@ Arandara is a lawyer with a 25 years experience. (Colombo/Feb03/2024)
 ◼️
 
 [Data](articles/f008f19a.json)
+
+[Extended Data](ext_articles/f008f19a.ext.json)
 
 ---
 
@@ -644,17 +662,19 @@ The party was forced to issue a clarification after images depicting Ratnayake i
 
 ---
 
-### இந்தியத் தூதுவரை சந்தித்தார் சந்திரிகா
+### Chandrika met Indian Ambassador
 
 *2024-02-02 04:28:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியத்-தூதுவரை-சந்தித்தார்-சந்திரிகா/175-332528) · `ta`
 
-இலங்கைக்கான இந்தியாவின் புதிய தூதுவர் சந்தோஷ் ஜாவை முன்னாள் ஜனாதிபதி சந்திரிகா சந்தித்துக் கலந்துரையாடியுள்ளார்.
+Former President Chandrika has met with India's new ambassador to Sri Lanka Santosh Ja.
 
-கொழும்பில் நேற்று நடைபெற்ற இந்தச் சந்திப்பில் இந்தியாவுக்கும் இலங்கைக்கும் இடையிலான இரு தரப்பு உறவுகளில் அண்மையில் ஏற்பட்ட முன்னேற்றங்கள் தொடர்பில் கலந்துரையாடப்பட்டுள்ளது. (a)
+The meeting, which was held in Colombo yesterday, discussed the recent improvements in the two -party relations between India and Sri Lanka.. (A)
 
 ◼️
 
 [Data](articles/6fe3dd8f.json)
+
+[Extended Data](ext_articles/6fe3dd8f.ext.json)
 
 ---
 
@@ -849,6 +869,8 @@ It is not clear yet whether a second extension could be obtained from court.
 ...
 
 [Data](articles/8fd03b65.json)
+
+[Extended Data](ext_articles/8fd03b65.ext.json)
 
 ---
 

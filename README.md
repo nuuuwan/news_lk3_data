@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 06:16:12**
+As of **2024-02-02 06:53:36**
 
 ## Newspaper Stats
 
-*Scraped **4,239** Articles*
+*Scraped **4,242** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 50
 bbccomsinhala | 64
 dbsjeyarajcom | 132
-islandlk | 227
+islandlk | 230
 economynextcom | 239
 newsfirstlk | 265
 dailyftlk | 267
@@ -26,7 +26,7 @@ dailymirrorlk | 581
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,231 (99.8%) of 4,239 articles have been extended.
+4,239 (99.9%) of 4,242 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -294,21 +294,25 @@ Q SriLankan Airlines is the most cash-strapped government institution at the mo
 
 ---
 
-### மார்ச் 12 இயக்கம் கடும் கண்டனம்
+### March 12 Movement
 
 *2024-02-02 02:20:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மார்ச்-12-இயக்கம்-கடும்-கண்டனம்/175-332524) · `ta`
 
-நிகழ்நிலைக் காப்புச்சட்டமூலமானது சட்டத்திற்குப் புறம்பான முறையில் நிறைவேற்றப்பட்டதனை  மார்ச் 12 இயக்கம் கடுமையாகக் கண்டித்துள்ளது.
+The March 12 movement has strongly condemned the illegal passage of the Act.
 
-இந்த சட்டமூலம் பாராளுமன்றத்தில் 2024 ஆம் ஆண்டு ஜனவரி 24 ஆம் திகதியன்று நிறைவேற்றப்பட்டது.
+The bill was passed in Parliament on January 24, 2024.
 
-இந்த நிகழ்நிலைக் காப்புச் சட்டமூலமானது இலங்கையின் அரசியலமைப்பில் இடம்பெற்றுள்ள அடிப்படை உரிமைகள் மற்றும் ஜனநாயகக் கொள்கைகளுக்கு கடுமையான அச்சுறுத்தலை ஏற்படுத்துகின்றது என்பதனை நாம் மீண்டும் வலியுறுத்துகின்றோம்.
+We reiterate that the Functional Backup Bill threatens the fundamental rights and democratic policies in the Constitution of Sri Lanka.
 
-அத்துடன், தற்போதைய அரசாங்கமானது இந்தச் சட்டமூலத்தினை நிறைவேற்றப் பிடிவாதமாகச்  செயற்படுகின்றது; பொருளாதார சீர்திருத்தம் மற்றும் நடைபெறவிருக்கும் தேர்தல்கள் ஆகிய முக்கியமான நிகழ்வுகளில் கருத்து வேறுபாடுகளினை மௌனமாக்குவதும், சிவில் செயற்பாடுகளை ஒடுக்குவதும் அரசாங்கத்தின் நோக்கமாக உள்ளமை இதிலிருந்து தெளிவாகத் தென்படுகின்றது என்பதனைவருத்தத்துடன் தெரிவிக்கின்றோம் என்றும் குறிப்பிடப்பட்டுள்ளது.
+In addition, the current government is stubborn to pass this bill;It is stated that the government's aim is to silence disagreement and suppress civil activities in important events of economic reform and upcoming elections.
+
+The March 12 movement is very concerned that the Parliament has acted out by violating the rights that have been guaranteed by the Constitution in order to reconsider the judiciary before the introduction of the anti -democratic law.
 
 ...
 
 [Data](articles/eb3362e0.json)
+
+[Extended Data](ext_articles/eb3362e0.ext.json)
 
 ---
 
@@ -424,6 +428,8 @@ The “Abhiman Semarum” Fixed Deposit offers the highest interest rate in the 
 
 [Data](articles/48d9b269.json)
 
+[Extended Data](ext_articles/48d9b269.ext.json)
+
 ---
 
 ### Techno innovations being put in place to transform agriculture
@@ -439,6 +445,8 @@ Herath added: ‘We know, the contribution of agriculture to the national GDP is
 ...
 
 [Data](articles/dcea95d0.json)
+
+[Extended Data](ext_articles/dcea95d0.ext.json)
 
 ---
 
@@ -456,6 +464,8 @@ A veteran banker, former General Manager of Bank of Ceylon, D. P. K. Gunasekera 
 
 [Data](articles/47004fd5.json)
 
+[Extended Data](ext_articles/47004fd5.ext.json)
+
 ---
 
 ### Sri Lankan ambassador conducts international seminar on “Strategic Negotiations” at Hanoi Business School
@@ -469,6 +479,8 @@ In his opening remarks Dr. Dzung stated that today negotiation skills, whether t
 ...
 
 [Data](articles/058e6855.json)
+
+[Extended Data](ext_articles/058e6855.ext.json)
 
 ---
 
@@ -937,6 +949,8 @@ World Leprosy Day, observed annually, serves as a reminder of the ongoing battle
 ...
 
 [Data](articles/c914de3c.json)
+
+[Extended Data](ext_articles/c914de3c.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 22:02:36**
+As of **2024-02-02 22:17:07**
 
 ## Newspaper Stats
 
-*Scraped **4,430** Articles*
+*Scraped **4,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ dailyftlk | 272
 newsfirstlk | 274
 adalk | 387
 virakesarilk | 498
-adaderanasinhalalk | 536
+adaderanasinhalalk | 538
 adaderanalk | 554
-tamilmirrorlk | 563
-dailymirrorlk | 612
+tamilmirrorlk | 564
+dailymirrorlk | 614
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,430 (100.0%) of 4,430 articles have been extended.
+4,430 (99.9%) of 4,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### පළමු ගැන්ට්‍රි දොඹකර ත්‍රිත්වය දිවයිනට
+
+*2024-02-02 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192903) · `si`
+
+කොළඹ වරායේ නැගෙනහිර පර්යන්තය සඳහා ඇණවුම් කළ ගැන්ට්‍රි දොඹකර 12න් පළමු දොඹකර ත්‍රිත්වය දිවයිනට අද (02) ගෙන එනු ලැබිණි.
+
+එම දොඹකර භාරගනු ලැබුවේ වරාය, නාවික හා ගුවන්සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා විසිනි.
+
+චීනයේ ෂැන්ග්හයි නුවර සිට 'ෂෙන්හුවා - 24' නෞකාව මගින් මෙම දොඹකර ශ්‍රී ලංකාව වෙත ගෙන ආ බව සඳහන්ය.
+
+නැගෙනහිර පර්යන්තයේ ග්‍රැන්ටි දොඹකර 12ක් සහ පර්යන්ත දොඹකර 40ක් සවි කිරීමට නියමිත අතර, එහි සමස්ත වටිනාකම අමෙරිකානු ඩොලර් මිලියන 282ක් බව වාර්තා වේ.
+
+මෙම ගැන්ට්‍රි දොඹකරයක් මීටර් 72ක දිගින් යුතු වන අතර හරස් අතට බහාලුම් 26කින් යුත් නෞකාවක් එකවර මෙහෙයවීමේ හැකියාව ලැබේ.
+
+◼️
+
+[Data](articles/1e6fc8b8.json)
+
+---
+
+### විජේ දේශපාලනයට
+
+*2024-02-02 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192902) · `si`
+
+එසේම ඔහු සිය දේශපාලන පක්ෂය 'ටැමිලගා වෙට්‍රි කසාගම්' ලෙස නම් කර ඇති බව වාර්තා වේ.
+
+දැනට වැඩ අවසන් වෙමින් පවතින සිනමා පට දෙකෙහි කටයුතු අවසන් වූ පසු ඔහු සිනමා වෘත්තීයෙන් සමුගෙන පූර්ණකාලීනව දේශපාලනයේ නිරත වීමට අදහස් කරයි.
+
+◼️
+
+[Data](articles/0512eed1.json)
+
+---
 
 ### Request for Amendment of Online Act
 
@@ -45,6 +79,18 @@ The council pointed out that the government requests the amendment to amend the 
 [Data](articles/95320771.json)
 
 [Extended Data](ext_articles/95320771.ext.json)
+
+---
+
+### Rivalries aside...
+
+*2024-02-02 21:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Rivalries-aside/110-276232) · `en`
+
+President Ranil Wickremesinghe and former President Chandrika Bandaranaike Kumaratunga, once political adversaries, share a moment at the inauguration of the Matara Festival of the Arts (MFA) today (02). This groundbreaking event showcases contemporary art and music from Sri Lanka and beyond, taking place at the historic Matara Fort till February 4. The festival endeavors to promote economic and social revitalization through collaborative efforts among art organizations and the cultural community.
+
+◼️
+
+[Data](articles/3d416efb.json)
 
 ---
 
@@ -102,6 +148,26 @@ When they died before the age of 55, the salaries and allowances were to be prov
 
 ---
 
+### Controversial Bollywood actor dies of cervical cancer
+
+*2024-02-02 20:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Controversial-Bollywood-actor-dies-of-cervical-cancer/108-276233) · `en`
+
+India, Feb 02 -  Bollywood actor and model Poonam Pandey has died from cervical cancer at the age of 32, according to a statement shared on social media that has shocked her fans.
+
+Her team shared a post on Pandey’s Instagram account, which has over 1.3 million followers, on Friday (2 February), which read: “This morning is a tough one for us.
+
+“Deeply saddened to inform you that we have lost our beloved Poonam to cervical cancer. Every living form that ever came in contact with her was met with pure love and kindness.”
+
+The news was later confirmed by Pandey’s manager Nikita Sharma, in a statement to NDTV.
+
+“Poonam Pandey, the beloved actress and social media personality, has tragically passed away this morning due to cervical cancer, leaving the entertainment industry in shock and mourning,” Sharma reportedly said.
+
+◼️
+
+[Data](articles/f00f5e4b.json)
+
+---
+
 ### Beliatta murder of Beliatta revealed
 
 *2024-02-02 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192898) · `si`
@@ -131,6 +197,24 @@ The suspects have told police a 23 year old resident of Dodddro, a 23 year old r
 [Data](articles/b56491f6.json)
 
 [Extended Data](ext_articles/b56491f6.ext.json)
+
+---
+
+### கெஹலிய ரம்புக்வெல்ல கைது
+
+*2024-02-02 20:22:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-ரம்புக்வெல்ல-கைது/175-332561) · `ta`
+
+தரமற்ற ஊசியை இறக்குமதி செய்தமை தொடர்பில் முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல சற்று முன்னர் குற்றப் புலனாய்வுப் பிரிவினரால் (சிஐடி) கைது செய்யப்பட்டுள்ளார்.
+
+நீதிமன்ற உத்தரவுக்கு அமைய கெஹலிய ரம்புக்வெல்ல வாக்குமூலம் வழங்குவதற்காக இன்று காலை குற்றப் புலனாய்வுப் பிரிவுக்கு வருகை தந்தார்.
+
+சர்ச்சைக்குரிய இம்யூனோகுளோபுலின் ஊசியை கொள்வனவு வழக்கு தொடர்பான நீதிமன்ற விசாரணையின் போது, வெள்ளிக்கிழமை (2) காலை 9 மணிக்கு குற்றப் புலனாய்வுப் பிரிவில் ஆஜராகுமாறு மாளிகாகந்த நீதவான் நேற்று உத்தரவிட்டார்.
+
+10 மணி நேரத்துக்கும் மேலாக நடைபெற்ற விசாரணைக்குப் பிறகு, கெஹலிய ரம்புக்வெல்ல கைது செய்யப்பட்டார்.
+
+◼️
+
+[Data](articles/7fb95860.json)
 
 ---
 
@@ -1975,95 +2059,5 @@ Meanwhile, MP Rohitha Abeygunawardena, commenting in this regard, expressed that
 [Data](articles/1e8c2775.json)
 
 [Extended Data](ext_articles/1e8c2775.ext.json)
-
----
-
-### Military marks for schools released on scholarship results released
-
-*2024-02-02 12:30:11* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-ප්‍රතිඵල-මත--පාසල්-සඳහා-ඇතුළත්වීමේ-කඩඉම්-ලකුණු-නිකුත්-කෙරේ/11-407868) · `si`
-
-The cut-off marks for schools will be released on Grade 5 scholarship results in Grade 5 scholarships.
-
-Information on the cut off marks for schools can be obtained from the Ministry of Education (www.moe.gov.lk).
-
-Further, students received from 05.02.2014 to 30.02.2024, from 05.02.2012 to $ 1.02.2012 to the https:/g6application.gov.lk/#/.
-
-◼️
-
-[Data](articles/817531a0.json)
-
-[Extended Data](ext_articles/817531a0.ext.json)
-
----
-
-### As the tree climbed into the tree for a passport
-
-*2024-02-02 12:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கடவுச்சீட்டுக்காக-மரத்தில்-ஏறியதால்-பரபரப்பு/72-332543) · `ta`
-
-Tensions in the Vavuniya Regional Office in the Vavuniya Regional Office were issued as a person who had come to obtain a passport suddenly climbed into a tree in front of the ticket office.
-
-Anuragumara, a 51 -year -old from Mahayapura, Trincomalee, said that he had come for the past three days to obtain a passport to the passport office in Vavuniya.
-
-Thus, the frustrated person staged a protest by claiming that he would climb into the tree in front of the passport office
-
-Subsequently, the Office of the Office of the Office of the Passport was given a guarantee of obtaining a passport today. Following this, the person got down from the tree.
-
-◼️
-
-[Data](articles/203b6873.json)
-
-[Extended Data](ext_articles/203b6873.ext.json)
-
----
-
-### Cuttings were released
-
-*2024-02-02 12:19:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெட்டுப்புள்ளிகள்-வெளியாகின/175-332541) · `ta`
-
-According to the Grade 5 Scholarship Examination for 2023, the school cut points have been published by the Ministry of Education.
-
-According to these school cutting points, the students who have passed the Grade 5 Scholarship Examination are admitted to the 10th grade of the 10th grade.R
-
-◼️
-
-[Data](articles/288e8cde.json)
-
-[Extended Data](ext_articles/288e8cde.ext.json)
-
----
-
-### Cut spots released: school details link
-
-*2024-02-02 12:19:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெட்டுப்புள்ளிகள்-வெளியாகின-பாடசாலை-விபரங்கள்-இணைப்பு/175-332541) · `ta`
-
-According to the Grade 5 Scholarship Examination for 2023, the cut -off points for popular schools have been published by the Ministry of Education.
-
-According to the cutting points for these schools, the students who have passed the Grade 5 Scholarship Examination are admitted to the 10th grade for the 6th grade.
-
-◼️
-
-[Data](articles/3271e8c4.json)
-
-[Extended Data](ext_articles/3271e8c4.ext.json)
-
----
-
-### School cut-off marks of 2023 Grade 5 Scholarship exam released
-
-*2024-02-02 12:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96941/school-cut-off-marks-of-2023-grade-5-scholarship-exam-released) · `en`
-
-The school cut-off marks for the admission of students to Grade 06 of the schools based on the results of the 2023 Grade 5 Scholarship Examination have been released by the Ministry of Education.
-
-Accordingly, the ministry said the students can check the schools that they have been selected to, using the following link starting February 05: https://g6application.moe.gov.lk/#/
-
-The Grade 05 Scholarship Examination was held on October 15, 2023 at 2,888 exam centres across the island, with an estimated total of 337,956 candidates having facing the exam.
-
-The results were released on November 16, 2023 and the cut-off marks for both Sinhala and Tamil mediums for all districts were made public the following day. According to the Examinations Department, a total of 50,664 students (15.22%) had topped the cut-off marks in 2023, marking an increase of 0.58% in comparison to the 14.64% recorded in the year before.
-
-◼️
-
-[Data](articles/43ef0dd8.json)
-
-[Extended Data](ext_articles/43ef0dd8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 19:32:57**
+As of **2024-02-02 19:49:56**
 
 ## Newspaper Stats
 
-*Scraped **4,403** Articles*
+*Scraped **4,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 273
 adalk | 387
 virakesarilk | 498
 adaderanasinhalalk | 530
-adaderanalk | 551
+adaderanalk | 552
 tamilmirrorlk | 562
 dailymirrorlk | 605
 
@@ -26,11 +26,27 @@ dailymirrorlk | 605
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,403 (100.0%) of 4,403 articles have been extended.
+4,404 (100.0%) of 4,404 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### UN Human Rights Office calls for amending Sri Lanka’s new online safety laws
+
+*2024-02-02 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/96956/un-human-rights-office-calls-for-amending-sri-lankas-new-online-safety-laws) · `en`
+
+The UN Office of the High Commissioner for Human Rights (OHCHR) states that Sri Lanka’s new Online Safety Act will have far reaching negative implications for human rights, including freedom of expression.
+
+Posing on X (formerly Twitter), the UN Human Rights Office urged the Government of Sri Lanka to consider amending the relevant law to address concerns of civil society and industry groups and ensure that it complies with human rights obligations.
+
+◼️
+
+[Data](articles/cc47b2fc.json)
+
+[Extended Data](ext_articles/cc47b2fc.ext.json)
+
+---
 
 ### Special traffic plan tomorrow and tomorrow
 
@@ -2007,29 +2023,5 @@ A 37 -year -old police officer was admitted to the Dharmapuram Hospital after he
 [Data](articles/be8cdc3b.json)
 
 [Extended Data](ext_articles/be8cdc3b.ext.json)
-
----
-
-### 703 suspects arrested
-
-*2024-02-02 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192874) · `si`
-
-703 suspects have been arrested in the last 24 hours.
-
-Police said that 525 suspects in the list of drug misbehavior and 178 suspects on the list of criminal sections.
-
-Among the 525 arrested suspects involved in drug misconduct is conducting further investigations and six drug addicts have been sent to rehabilitate.
-
-Four suspects were also arrested in the list of the Police Narcotics Bureau and the Police Special Secretariat.
-
-The police said that among the 178 suspects arrested on the list of the Criminal Sector, there are 11 suspects in the open warrants and non-drug errands regarding drugs.
-
-Two suspects and nine suspects have been arrested in the operation and nine suspects who were not arrested in the media.
-
-◼️
-
-[Data](articles/4cd455d3.json)
-
-[Extended Data](ext_articles/4cd455d3.ext.json)
 
 ---

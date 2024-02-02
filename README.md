@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 09:33:00**
+As of **2024-02-02 09:51:43**
 
 ## Newspaper Stats
 
-*Scraped **4,277** Articles*
+*Scraped **4,278** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 265
 dailyftlk | 272
 adalk | 380
 virakesarilk | 470
-adaderanasinhalalk | 506
+adaderanasinhalalk | 507
 adaderanalk | 532
 tamilmirrorlk | 546
 dailymirrorlk | 586
@@ -26,7 +26,7 @@ dailymirrorlk | 586
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,275 (100.0%) of 4,277 articles have been extended.
+4,278 (100.0%) of 4,278 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,28 @@ On Thursday (Feb.01), the Maligakanda Magistrate ordered the former health minis
 ...
 
 [Data](articles/441e2c4a.json)
+
+[Extended Data](ext_articles/441e2c4a.ext.json)
+
+---
+
+### The Keheliya CID comes under CID
+
+*2024-02-02 08:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192871) · `si`
+
+Former Health Minister Keheliya Rambukwella arrived at the CID this morning, our correspondents.
+
+The Court today ordered the CID to enter the Criminal Investigation Department.
+
+Police Media Spokesperson DIG Nihal Talduuwa said that the court was taken into the case with regard to the medicinal of the substandard Human Emmount Pharmacy yesterday.
+
+Keheliya Rambukwella has been asked to appear before the Criminal Investigation Department.
+
+◼️
+
+[Data](articles/1650ba41.json)
+
+[Extended Data](ext_articles/1650ba41.ext.json)
 
 ---
 
@@ -1740,21 +1762,25 @@ Following are the names of the diplomats who submitted their credentials today.
 
 ---
 
-### වන සංරක්ෂණයට කෝටි 188ක ආදායමක් හිඟයි
+### Forest Conservation launches Rs. 188 crores
 
 *2024-02-01 19:14:28* · [`adalk`](https://www.ada.lk/breaking_news/වන-සංරක්ෂණයට-කෝටි-188ක-ආදායමක්-හිඟයි/11-407861) · `si`
 
-වන සංරක්ෂණ දෙපාර්තමේන්තුව සඳහා කැලෑවලින් හා පෞද්ගලික දැව ප්‍රවාහනයෙන් හිඟ ආදායම වශයෙන් ලැබිය යුතු මුදල  2023 දෙසැ.මස 31 වැනිදා වනවිට රුපියල් එකසිය අසූ අට කෝටි පනස් එක් ලක්ෂ අසූ දහස් තුන්සීය හැත්තෑ දෙක දක්වා ඉහළ ගොස් තිබූ බව ජනවාරි 30 දින නිකුත් කරන ලද  විගණන වාර්තාවක සඳහන් වේ.
+The audit report released on January 30, a year earlier was estimated to the forest of forest conservation, the year 2023, on the 31st two hundred and six hundred thousand three hundred and six hundred thousand millions of three million three million three million rupees..
 
-වන සංරක්ෂණ දෙපාර්තමේන්තුවේ ප්‍රධාන ආදායම් ප්‍රභවය වන්නේ කැලෑවලින් හා පෞද්ගලික දැව ප්‍රවාහනයෙන් ලැබෙන ආදායම වේ. මෙකී ආදායම් නිවැරදි ව ඇස්තමේන්තු කිරීම, හිඟ ආදායම් ගණනය කිරීම සහ අය කර ගැනීම සඳහා පලදායී අභ්‍යන්තර පාලන ක්‍රම ස්ථාපිත කොට ව්‍යවස්ථාපිත කොට නොතිබූ බවද එම විගණන වාර්තාවේ සඳහන් වේ.
+The main source of forest conservation department is the income from jungles and personal timber transport. The audit report states that this income is correct to estimate and revenue the deficit income, the audit report states that there was not installed and established.
 
-මේ හේතුවෙන් අදාළ පාර්ශ්ව විසින් රාජ්‍ය ආදායමට මුදල් බැර කිරීම පැහැර හරිනු ලබන බව නිරීක්ෂණය වන්නේ යැයිද එම විගණන වාර්තාවේ දැක් වේ.
+The audit report will observer that the parties will be observed by the relevant parties to repair money to state revenue.
 
-මේ පිළිබඳ වන සංරක්ෂණ දෙපාර්තමේන්තුවේ ගණන් දීමේ නිලධාරියා විසින් විගණනයට සඳහන් කර ඇත්තේ පුරස්කාර ක්‍රමවේදය මත ලැබෙන මෙම ආදායම නිෂ්පාදන ඒකක මත ගණනය කිරීමෙන් පසුව අය කරගන්නා බැවින් නිරන්තරයෙන් වර්ෂ දෙකක කාලයක් තුළ හිඟ ආදායම් ඇති වී ඇති බවය.
+The Forest Department's Counting Officer is listed on the archive system after calculating the production units, as the income has been increased in two years.
 
-...
+The bureaucracy is stated to the audit that all arrears are being taken after the contractual contraction of 2024.
+
+◼️
 
 [Data](articles/356745f0.json)
+
+[Extended Data](ext_articles/356745f0.ext.json)
 
 ---
 
@@ -2033,25 +2059,5 @@ The Minister further said that all school textbooks required for 2024 have been 
 [Data](articles/0cdfb418.json)
 
 [Extended Data](ext_articles/0cdfb418.ext.json)
-
----
-
-### One suspect in the vaccine incident released on bail
-
-*2024-02-01 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192852) · `si`
-
-The court has ordered the release of a suspect who was arrested in connection with the substandard Human Immunulin incident.
-
-The Maligakanda Magistrate's Court ordered him to be released on two bail of Rs.
-
-The 5th suspect, the 5th suspect, was released on bail.
-
-Meanwhile, the suspects have been remanded to remand further remanded until the 15th of this incident.
-
-◼️
-
-[Data](articles/0d01b9c8.json)
-
-[Extended Data](ext_articles/0d01b9c8.ext.json)
 
 ---

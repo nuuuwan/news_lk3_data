@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 00:48:03**
+As of **2024-02-03 01:02:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,441 (99.9%) of 4,444 articles have been extended.
+4,444 (100.0%) of 4,444 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The party expected to bring into Colombo 50,000 protestors. Unfortunately that e
 
 [Data](articles/3dd56567.json)
 
+[Extended Data](ext_articles/3dd56567.ext.json)
+
 ---
 
 ### Celebrating the Deaths of ‘Others’
@@ -57,6 +59,8 @@ How did you feel when the news about the tragic death of State Minister Sanath N
 ...
 
 [Data](articles/cc7b3bef.json)
+
+[Extended Data](ext_articles/cc7b3bef.ext.json)
 
 ---
 
@@ -77,6 +81,8 @@ According to GMOF president Dr. Rukshan Bellana, tenders initiated during the fo
 ...
 
 [Data](articles/464f5963.json)
+
+[Extended Data](ext_articles/464f5963.ext.json)
 
 ---
 

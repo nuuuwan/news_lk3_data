@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 11:17:28**
+As of **2024-02-02 11:35:19**
 
 ## Newspaper Stats
 
-*Scraped **4,303** Articles*
+*Scraped **4,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 266
 dailyftlk | 272
 adalk | 382
 virakesarilk | 477
-adaderanasinhalalk | 510
+adaderanasinhalalk | 512
 adaderanalk | 536
 tamilmirrorlk | 548
 dailymirrorlk | 591
@@ -26,21 +26,43 @@ dailymirrorlk | 591
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,294 (99.8%) of 4,303 articles have been extended.
+4,305 (100.0%) of 4,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
 
-### லிட்ரோ எரிவாயு விலை திருத்தம்  தொடர்பில் வெளியான அறிவித்தல்!
+### Gazette notification on burden of bread
+
+*2024-02-02 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192876) · `si`
+
+The Consumer Affairs Authority has issued a gazette notification by referring the heavy weight of a bread and half a bread.
+
+Accordingly, the heavy weight of a bread should be 450 grams and can be 13.5 grams.
+
+The weight of half a bread should be 225 grams and not more than 9 minutes.
+
+The Consumer Affairs Authority states that the consumer Affairs Authority (CAA) should be clear when displaying breads to sell.
+
+◼️
+
+[Data](articles/0edb4550.json)
+
+[Extended Data](ext_articles/0edb4550.ext.json)
+
+---
+
+### Announced on Litro Gas Price Revision!
 
 *2024-02-02 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175362) · `ta`
 
-மக்கள் எதிர்கொண்டுள்ள பல்வேறு பிரச்சினைகளைக் கருத்தில் கொண்டு    பெப்ரவரி மாதம் லிட்ரோ எரிவாயு விலையில் திருத்தம் மேற்கொள்ளப்படாது என அந்த நிறுவனம் தெரிவித்துள்ளது. இதன் அடிப்படையில், தற்போதைய விலையையே பேணுவதற்கு தீர்மானித்துள்ளதாக லிட்ரோ எரிவாயு நிறுவனம் தெரிவித்துள்ளது.
+Considering the various issues faced by the people, the company said that in February, Litro gas prices will not be amended.. Based on this, Litro Gas Company has decided to maintain the current price.
 
 ◼️
 
 [Data](articles/2dc0eae2.json)
+
+[Extended Data](ext_articles/2dc0eae2.ext.json)
 
 ---
 
@@ -60,21 +82,41 @@ After the price hike announced in January, the Litro Gas prices now stand at the
 
 [Data](articles/ab42f57f.json)
 
+[Extended Data](ext_articles/ab42f57f.ext.json)
+
 ---
 
-### நைரோபியில் பாரிய எரிவாயுவெடிவிபத்து - இருவர் பலி - 220க்கும் அதிகமானவர்கள் படுகாயம்
+### Massive gas in Nairobi - two killed - more than 220 injured
 
 *2024-02-02 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175360) · `ta`
 
-கென்யா தலைநகர் நைரோபியில் இடம்பெற்ற எரிவாயுவெடிவிபத்தில் இருவர் கொல்லப்பட்டுள்ளதுடன் 220க்கும் அதிகமானவர்கள் காயமடைந்துள்ளனர்.
+Two people were killed and more than 220 injured in a gas -laid in Kenya's capital, Nairobi.
 
-வீடுகள் வர்த்தக நிலையங்கள் வாகனங்கள் சேதமடைந்துள்ளதையும் தொடர்மாடிக்கு அருகில் பாரிய தீப்பிளம்பையும் காண்பிக்கும் வீடியோக்கள் வெளியாகியுள்ளன.
+Videos have been revealed that homes and shopping centers have been damaged and a massive fireplace near the barracks.
 
-மீட்பு நடவடிக்கைகளிற்காக குறிப்பிட்;ட பகுதியை சுற்றிவளைத்துள்ளதாக தெரிவித்துள்ள பொலிஸார் அந்த பகுதியை தவிர்க்குமாறு பொதுமக்களை கேட்டுக்கொண்டுள்ளனர்.
+Police have asked the public to avoid the area.
 
 ◼️
 
 [Data](articles/82170b57.json)
+
+[Extended Data](ext_articles/82170b57.ext.json)
+
+---
+
+### Notice of gas price
+
+*2024-02-02 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192875) · `si`
+
+Litro Gas Company says that in February had decided to maintain the existing prices without amending the prices of Litro Gas.
+
+Despite the constant prices of this month, Litro Gas Chairman Prince said,
+
+◼️
+
+[Data](articles/5e7450de.json)
+
+[Extended Data](ext_articles/5e7450de.ext.json)
 
 ---
 
@@ -158,6 +200,8 @@ During questioning them, it was revealed that the main shooter an…
 
 [Data](articles/ae4492cd.json)
 
+[Extended Data](ext_articles/ae4492cd.ext.json)
+
 ---
 
 ### Beliatta mass shooting: Two including main gunman’s wife arrested
@@ -175,6 +219,8 @@ A group of assailants in an SUV had opened fire at a white Defender, killing fou
 ◼️
 
 [Data](articles/2c70ba53.json)
+
+[Extended Data](ext_articles/2c70ba53.ext.json)
 
 ---
 
@@ -213,6 +259,8 @@ The inaugural flight carried 253 passengers and they were welcomed by a cultural
 ...
 
 [Data](articles/22fedfeb.json)
+
+[Extended Data](ext_articles/22fedfeb.ext.json)
 
 ---
 
@@ -287,6 +335,8 @@ In adherence to a court order issued on Thursday, former Health Minister Keheliy
 ◼️
 
 [Data](articles/0ca064eb.json)
+
+[Extended Data](ext_articles/0ca064eb.ext.json)
 
 ---
 
@@ -379,6 +429,8 @@ According to the ministry, the narcotics taken into custody during this period i
 ◼️
 
 [Data](articles/d70bf831.json)
+
+[Extended Data](ext_articles/d70bf831.ext.json)
 
 ---
 
@@ -501,6 +553,8 @@ US officials have said that US intelligence believes that the drone used to atta
 ...
 
 [Data](articles/425bff13.json)
+
+[Extended Data](ext_articles/425bff13.ext.json)
 
 ---
 
@@ -1969,53 +2023,5 @@ Ye saw Zhang’s two children as an “obstacle” to them getting married and a
 [Data](articles/e3869017.json)
 
 [Extended Data](ext_articles/e3869017.ext.json)
-
----
-
-### Daya did not go
-
-*2024-02-01 20:04:50* · [`adalk`](https://www.ada.lk/breaking_news/දයා-ඇවිත්-ගියේ-නැතිලු/11-407862) · `si`
-
-President of the Presidential Electorate, Chief of Parliament, Manguira Senasinghe, who joined the Motherland People's Party, has issued a statement.
-
-It is said that such false propaganda may also be in the future when the various parties gather.
-
-Speaking further Mr. Sujeewa Senasinghe has stated this way.
-
-"Former Army Commander Daya Ratnayake, who joined the Motherland People's Party, is circulated through social media coincups.
-
-This is false, emphasizes that there is no such incident.
-
-Such false propaganda may also be in the future to strengthen the harmony community. We are very close to that.
-
-If you have taken measures to publish such photos,
-
-◼️
-
-[Data](articles/73262e63.json)
-
-[Extended Data](ext_articles/73262e63.ext.json)
-
----
-
-### The allegations made on the president's foreign trips are unfounded - Taraka Balasuriya
-
-*2024-02-01 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175341) · `ta`
-
-Foreign Affairs Minister Taraka Balasuriya said the allegations made by some on the President's Foreign Tourism were unfounded.
-
-He pointed out that Sri Lanka could not be an isolated island and that it was necessary to strengthen foreign relations and establish a new foreign relationship if it was to lead the country to development.
-
-He said this at a media briefing held at the Presidential Media Center on Thursday (01).
-
-“President Ranil Wickremesinghe and the Minister of Foreign Affairs went to attend the World Economic Forum in Davos, Switzerland.. There was also a trade community. They had a decisive negotiations on the rebuilding of Sri Lanka.There were also talks on bringing investors to Sri Lanka.
-
-Similarly, at the Non -Aligned Conference held in Kampala, Uganda, the President said that the world was working with the wealthy countries of the world.. He also discussed the changes to the Sri Lankan economy to suit the 2050 global economy.
-
-...
-
-[Data](articles/7f814078.json)
-
-[Extended Data](ext_articles/7f814078.ext.json)
 
 ---

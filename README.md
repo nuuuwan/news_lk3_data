@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 17:52:59**
+As of **2024-02-02 18:07:55**
 
 ## Newspaper Stats
 
-*Scraped **4,388** Articles*
+*Scraped **4,397** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,62 @@ bbccomsinhala | 68
 dbsjeyarajcom | 132
 islandlk | 230
 economynextcom | 244
-newsfirstlk | 270
+newsfirstlk | 272
 dailyftlk | 272
 adalk | 387
-virakesarilk | 493
+virakesarilk | 498
 adaderanasinhalalk | 528
 adaderanalk | 551
-tamilmirrorlk | 558
+tamilmirrorlk | 560
 dailymirrorlk | 605
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,388 (100.0%) of 4,388 articles have been extended.
+4,390 (99.8%) of 4,397 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### Namal congratulates commander Vijay
+
+*2024-02-02 17:22:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தளபதி-விஜய்க்கு-நாமல்-வாழ்த்து/175-332557) · `ta`
+
+Parliamentarian Namal Rajapaksa congratulates actor Vijay's new party
+
+◼️
+
+[Data](articles/73f0c047.json)
+
+[Extended Data](ext_articles/73f0c047.ext.json)
+
+---
+
+### Once again no confidence motion against Keheliya
+
+*2024-02-02 17:11:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-எதிராக-மீண்டும்-நம்பிக்கையில்லா-பிரேரணை/175-332556) · `ta`
+
+Parliamentarian Kavinda Jayawardena has said that the United People's Power will bring a no -confidence motion against former health minister Keheliya Rambukwella.
+
+The Member of Parliament made this statement at a media briefing held at the opposition leader's office today.
+
+A few weeks ago, our party decided to bring a second no -confidence motion against Minister Rambukwella. But knowing that President Ranil Wickremesinghe is going to postpone the parliamentary session, we have not begun the signature collection.
+
+However, following the meeting on the 7th of February, we will begin the signing of the no -confidence motion from MPs.
+
+Who is going to support corruption?This time we will make public the signature details of the public to know who is the opposite.
+
+The parliamentarian further pointed out that the involvement of Minister Keheliya Rambukwella and the fraud of human immunoglobulin is clearly visible in court.
+
+◼️
+
+[Data](articles/5ccc063e.json)
+
+[Extended Data](ext_articles/5ccc063e.ext.json)
+
+---
 
 ### The health strike is over
 
@@ -52,6 +90,42 @@ However, trade union members further say whether or not the strike will be reuni
 
 ---
 
+### சிறுவர்களின் போஷாக்கை மேம்படுத்த ஜனாதிபதி விசேட கவனம் : மக்களின் வறுமையைப் போக்க அஸ்வெசும அரசியல் சாரா வேலைத்திட்டமாகும் - சாகல ரத்நாயக்க
+
+*2024-02-02 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175400) · `ta`
+
+மக்களின் வறுமையைப் போக்கி சிறுவரகளின் போஷாக்கை மேம்படுத்துவதில் ஜனாதிபதி விசேட கவனம் செலுத்தியிருப்பதாகவும்,  அதற்காக ஜனாதிபதியின் பணிப்புரையின் கீழ் பல்வேறு வேலைத்திட்டங்கள் முன்னெடுக்கப்பட்டு வருவதாகவும் தேசிய பாதுகாப்பு தொடர்பிலான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க தெரிவித்தார்.
+
+ஜனாதிபதியின் எண்ணக்கருவிற்கமைய ஆரம்பிக்கப்பட்ட "அஸ்வெசும" வேலைத்திட்டம் அரசியல் சாராமல் இந்நாட்டு மக்களின் வறுமையைப் போக்குவதற்கான பெரும் பணியாக அமைந்துள்ளதெனவும் அவர் சுட்டிக்காட்டினார்.
+
+கொழும்பு ரமதா ஹோட்டலில் வியாழக்கிழமை (01) பாடசாலை மாணவர்களின் மதிய உணவு வேலைக்கான ஊட்டச்சத்து அரிசி (Fortified Rice) வழங்கும் நிகழ்விலேயே அவர் இதனைத் தெரிவித்தார்.
+
+பாடசாலை மாணவர்களின் போஷாக்கை மேம்படுத்தும் நோக்கில் விவசாய மற்றும் பெருந்தோட்ட தொழில்துறை அமைச்சு, கல்வி அமைச்சு, உலக உணவு வேலைத்திட்டம் (World Food Programme),உணவு மேம்பாட்டுச் சபை, பில் மற்றும் மெலிண்டா கேட்ஸ் மன்றம் (Bill & Melinda Gates Foundation) உள்ளிட்ட தரப்புக்கள் இணைந்து இந்த வேலைத் திட்டத்தை முன்னெடுக்கவுள்ளன.
+
+...
+
+[Data](articles/7d77aa09.json)
+
+---
+
+### Sri Lanka Urged to Revise Laws Over Human Rights Concerns
+
+*2024-02-02 17:04:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/sri-lanka-urged-to-revise-laws-over-human-rights-concerns/) · `en`
+
+COLOMBO (News 1st); Forum Asia has voiced strong concerns about the recent passage of two controversial bills in Sri Lanka: the revised Anti-Terrorism Bill and the Online Safety Bill.
+
+Forum Asia, or The Asian Forum for Human Rights and Development is a network of 85 member organisations across 23 countries, mainly in Asia.
+
+The Anti-Terrorism Bill and the Online Safety Bill, viewed by many as detrimental to human rights and freedoms, have drawn criticism from civil society organizations and rights groups across the country.
+
+According to Forum Asia, the revised Anti-Terrorism Bill, set to replace the draconian Prevention of Terrorism Act (PTA), closely mirrors its predecessor, sparking concerns about its expansive definition of terrorism, limited judicial oversight, and constraints on the Human Rights Commission.
+
+...
+
+[Data](articles/c38b80f2.json)
+
+---
+
 ### Ahead of election, Pakistan seals plan to sell national airline
 
 *2024-02-02 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96954/ahead-of-election-pakistan-seals-plan-to-sell-national-airline) · `en`
@@ -69,6 +143,30 @@ The caretaker administration, which took office in August to oversee the Feb. 8 
 [Data](articles/71df9a31.json)
 
 [Extended Data](ext_articles/71df9a31.ext.json)
+
+---
+
+### Understanding Sri Lanka’s Online Safety Act: What You Need to Know
+
+*2024-02-02 16:58:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/understanding-sri-lanka-s-online-safety-act-what-you-need-to-know/) · `en`
+
+COLOMBO (News 1st); The Sri Lankan government has officially published the Online Safety Act by way of a Gazette.
+
+This Act introduces several new laws, including a provision granting a newly established five-member commission the power to ban the communication of "false statements" online.
+
+Mahinda Yapa Abeywardana, Speaker of Parliament endorsed the certificate on the Online Safety Bill which was passed in Parliament, and it was published via an official gazette.
+
+Multiple factors influence the labeling of a statement as false.
+
+A “false statement” means a statement that is known or believed by its maker to be incorrect or untrue
+
+In addition, a “false statement” means statement made especially with intent to deceive or mislead
+
+However, it does not include a caution, an opinion or imputation made in good faith.
+
+...
+
+[Data](articles/018146a5.json)
 
 ---
 
@@ -152,6 +250,66 @@ Pigeon was released after police claimed that there was no objection to release 
 
 ---
 
+### Massive gas in Nairobi - two killed - more than 220 injured
+
+*2024-02-02 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175360) · `ta`
+
+Two people were killed and more than 220 injured in a gas -laid in Kenya's capital, Nairobi.
+
+Videos have been revealed that homes and shopping centers have been damaged and a massive fireplace near the barracks.
+
+Police have asked the public to avoid the area.
+
+◼️
+
+[Data](articles/82170b57.json)
+
+[Extended Data](ext_articles/82170b57.ext.json)
+
+---
+
+### 2023 இல் ஆயுர்வேதக் கூட்டுத்தாபனம் 195 மில்லியன் ரூபா இலாபம் ஈட்டியுள்ளது - சுதேச வைத்திய இராஜாங்க அமைச்சர் சிசிர ஜயகொடி
+
+*2024-02-02 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175403) · `ta`
+
+ஆயுர்வேதக் கூட்டுத்தாபனம் 2023 இல் 195 மில்லியன் ரூபா இலாபத்தை ஈட்டியுள்ளதாக சுதேச வைத்திய இராஜாங்க அமைச்சர் சிசிர ஜயகொடி தெரிவித்தார்.
+
+இந்த இலாபமானது 2017ஆம் ஆண்டுக்குப் பின்னர் கிடைத்த அதிகூடிய இலாபம் என சுட்டிக்காட்டிய இராஜாங்க அமைச்சர், ஆயுர்வேதக் கூட்டுத்தாபனத்தின் புதிய நிர்வாகத்தினூடாக இந்த இலாபத்தை ஈட்ட முடிந்ததாகவும் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் இன்று (02) நடைபெற்ற ஊடக சந்திப்பில் கருத்துத் தெரிவிக்கும்போதே சுதேச வைத்திய இராஜாங்க அமைச்சர் சிசிர ஜயகொடி இவ்வாறு தெரிவித்தார்.
+
+76 ஆவது தேசிய சுதந்திர தினத்தை முன்னிட்டு நாடளாவிய ரீதியில் பத்து இலட்சம் மூலிகைச் செடிகளை நடும் வேலைத்திட்டம் ஆரம்பிக்கப்பட்டுள்ளது.
+
+இந்த வேலைத்திட்டத்தின் முதல் கட்டம் இன்று (02) ஆரம்பமானது. இதன்படி ஏப்ரல் 7ஆம் திகதி வரை இந்த வேலைத்திட்டம் நடைமுறைப்படுத்தப்படவுள்ளது.
+
+இதனை சுதேச மருத்துவ இராஜாங்க அமைச்சு, ஆயுர்வேதக் திணைக்களம் மற்றும் பொது நிர்வாக அமைச்சு ஆகியன இணைந்து ஆரம்பித்துள்ளது.
+
+...
+
+[Data](articles/8c3b5317.json)
+
+---
+
+### 17 மாதங்களில் 119 பிரசவ கால உயிரிழப்புகள் - ஆய்வில் தகவல்
+
+*2024-02-02 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175398) · `ta`
+
+கடந்த 2022 ஜனவரி மாதம் முதல் 2023 மே  மாதம் வரையிலான 17 மாதங்களில் 119 பிரசவ கால உயிரிழப்புக்கள் இடம்பெற்றுள்ளன.
+
+சுகாதார அமைச்சினால் வெளியிடப்பட்ட 2023ஆம் ஆண்டுக்கான செயலாற்றுகை அறிக்கையில் இந்த தகவல்கள் வெளிப்படுத்தப்பட்டுள்ளன.
+
+பல்வேறு சம்பவங்கள் தொடர்பான பின்னணியை கண்டறியும் நோக்கில் துறை சார்ந்தும் நிறுவன மட்டத்திலும் மிகக் கவனமாக ஆராயப்பட்டே இந்த தகவல்கள் பெறப்பட்டுள்ளமை அறிக்கையூடாக வெளிப்படுகிறது.
+
+அத்தோடு, தாய் - சேய் இறப்புக்கள் குறித்த கண்காணிப்பு நடவடிக்கைகள், விசாரணைகளை மேலும் வலுப்படுத்தும் நோக்கில் மேல் மற்றும் தென் மாகாணங்களில் இரகசிய விசாரணை முறையொன்று அறிமுகப்படுத்தப்பட்டுள்ளதாகவும் இந்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+இலங்கையில் இடம்பெறும் பிரசவ கால உயிரிழப்பு வீதத்தை குறைப்பதற்காக நாடெங்கும் உள்ள அனைத்து வைத்தியசாலைகளிலும் பிரசவ கால மற்றும் பிரசவத்துக்குப் பின்னரான மரணங்கள் தொடர்பில் கண்காணிக்கும் குழுக்கள் நியமிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/e135126f.json)
+
+---
+
 ### Nethmi, Dewmi steer SL Women to title win
 
 *2024-02-02 16:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nethmi-Dewmi-steer-SL-Women-to-title-win/108-276221) · `en`
@@ -189,6 +347,24 @@ The Appeals Court, which accepted the request allowed the three petitions to be 
 [Data](articles/6e21f88c.json)
 
 [Extended Data](ext_articles/6e21f88c.ext.json)
+
+---
+
+### 75ஆவது சுதந்திர தினத்தில் வங்குரோத்தடைந்த நாடு என்று முத்திரை குத்தப்பட்டிருந்ததிலிருந்து விடுபட்டுள்ளோம் - ஜனாதிபதி
+
+*2024-02-02 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/175401) · `ta`
+
+இலங்கையின் 75ஆவது சுதந்திர தினத்தைக் கொண்டாடும் போது, வங்குரோத்தடைந்த நாடு என்று முத்திரை குத்தப்பட்டிருந்தோம். ஆனால், 76ஆவது சுதந்திர தினத்தில், பல இடர்பாடுகளுக்கு மத்தியிலும், அந்த நிலையிலிருந்து விடுபட்டு, பொருளாதாரத்தை நிலையான நிலைக்கு கொண்டு வர முடிந்துள்ளது என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+இலங்கையின் 76 ஆவது சுதந்திரதினத்தை முன்னிட்டு ஜனாதிபதி ஊடகப்பிரிவு அனுப்பியுள்ள அறிக்கையில் மேலும் குறிப்பிட்டுள்ளதாவது,
+
+இலங்கையின் 75ஆவது சுதந்திர தினத்தைக் கொண்டாடும் போது, வங்குரோத்தடைந்த நாடு என்று முத்திரை குத்தப்பட்டிருந்தோம். ஆனால், 76ஆவது சுதந்திர தினத்தில், பல இடர்பாடுகளுக்கு மத்தியிலும், அந்த நிலையிலிருந்து விடுபட்டு, பொருளாதாரத்தை நிலையான நிலைக்கு கொண்டு வர முடிந்துள்ளது.
+
+நாட்டின் பெரும்பான்மையான மக்கள், துன்பங்களைச் சகித்துக்கொண்டு நாட்டை மீளக் கட்டியெழுப்பும் நீண்ட கால வேலைத்திட்டத்திற்கு ஆதரவளித்ததால் எம்மால்  மெதுவாக முன்னேற முடிந்தது.
+
+...
+
+[Data](articles/97745019.json)
 
 ---
 
@@ -864,6 +1040,22 @@ Meanwhile, the public has demanded that the municipal council take steps to remo
 
 ---
 
+### மன்னாரில் வீடமைப்பிற்கு ஒதுக்கப்பட்ட காணியை வனத்துறை விடுவிக்காமைக்கு எதிர்ப்பு தெரிவித்து மக்கள் ஆர்ப்பாட்டம்
+
+*2024-02-02 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175375) · `ta`
+
+எட்டு வருடங்களுக்கு முன்னர் அரசாங்கத்தினால் வீடுகளை நிர்மாணிப்பதற்காக ஒதுக்கப்பட்ட காணியை உடனடியாக விடுவிக்குமாறு கோரி மன்னார் பிரதேச மக்கள் குழுவொன்று போராட்டம் ஒன்றை நடத்தியுள்ளது.
+
+மன்னார் மாவட்டம் நானாட்டான் பிரதேச செயலகத்திற்குட்பட்ட இசைமாலைத்தாழ்வு பிரதேச மக்கள் தமது கிராமத்தில் வசிக்கும் 113 குடும்பங்களுக்கு வீடுகளை நிர்மாணிப்பதற்காக கொம்பன்சாய்ந்தகுளம் பிரதேசத்தில் 46 ஏக்கர் காணியை அரசாங்கம் ஒதுக்கீடு செய்த போதிலும் வனத்துறையினர் இதுவரையில் அந்த காணியை விடுவிக்கவில்லை எனத் தெரிவித்து கவனயீர்ப்பு போராட்டம் ஒன்றை நேற்று முன்தினம் முன்னெடுத்தனர்.
+
+“எங்கள் ஊருக்கு அருகில் இருக்கும் கொம்பன்சாய்ந்த குளத்தில் எங்கள் மக்களுக்கு குடியிருப்புக் காணி அவசியம். எங்கள் ஊரில் ஒரு வீட்டில் மூன்று நான்கு குடும்பங்கள் வாழ்கின்றோம்.
+
+...
+
+[Data](articles/2317a263.json)
+
+---
+
 ### Shannan Green visited parliament for international development
 
 *2024-02-02 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175381) · `ta`
@@ -934,7 +1126,7 @@ He said the trade union leaders will convene on Friday (02) afternoon to discuss
 
 Army Spokesperson Major General Rasika Kumara said 1,000 Army personnel were deployed to restore the hospital services disrupted by the strike.
 
-Gazette issued making it mandatory to display weight and price of bread
+Understanding Sri Lanka’s Online Safety Act: What You Need to Know
 
 ...
 
@@ -956,9 +1148,9 @@ It adds that the weight of half a loaf of bread should be 225g.
 
 The gazette also states “tolerance deficiency”, which means the content less than the standard weight which is allowed, for a 450g loaf of bread is 13.5g.
 
-Gazette issued making it mandatory to display weight and price of bread
+Understanding Sri Lanka’s Online Safety Act: What You Need to Know
 
-Huge blast rocks Kenyan capital, injuring hundreds and destroying homes
+Gazette issued making it mandatory to display weight and price of bread
 
 ◼️
 
@@ -1602,24 +1794,6 @@ Meanwhile, all traders have been ordered to display the weight of bread displaye
 
 ---
 
-### Massive gas in Nairobi - two killed - more than 220 injured
-
-*2024-02-02 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175360) · `ta`
-
-Two people were killed and more than 220 injured in a gas -laid in Kenya's capital, Nairobi.
-
-Videos have been revealed that homes and shopping centers have been damaged and a massive fireplace near the barracks.
-
-Police have asked the public to avoid the area.
-
-◼️
-
-[Data](articles/82170b57.json)
-
-[Extended Data](ext_articles/82170b57.ext.json)
-
----
-
 ### Huge blast rocks Kenyan capital, injuring hundreds and destroying homes
 
 *2024-02-02 10:49:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/huge-blast-rocks-kenyan-capital-injuring-hundreds-and-destroying-homes/) · `en`
@@ -1632,9 +1806,9 @@ Government spokesman Isaac Mwaura said "Kenyans are hereby advised to keep off t
 
 The Kenya Red Cross said on social media that crews had been "tirelessly battling the flames".
 
-Gazette issued making it mandatory to display weight and price of bread
+Understanding Sri Lanka’s Online Safety Act: What You Need to Know
 
-Huge blast rocks Kenyan capital, injuring hundreds and destroying homes
+Gazette issued making it mandatory to display weight and price of bread
 
 ◼️
 
@@ -1845,167 +2019,5 @@ However, Pavadarini, the daughter and background singer of composer musician Ila
 [Data](articles/6b201d33.json)
 
 [Extended Data](ext_articles/6b201d33.ext.json)
-
----
-
-### Gehaliya Criminal Investigation Division
-
-*2024-02-02 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/175354) · `ta`
-
-Former Health Minister and current Environment Minister Keheliya Rambukwella has appeared before the Criminal Investigation Division.
-
-Keheliya Rambukwella was summoned to the Criminal Investigation Division yesterday to give a statement regarding the importation of non -standard immunoglobulin vaccine vials.. However, he did not attend the Criminal Investigation Department yesterday.
-
-Former Health Minister and current Environment Minister Keheliya Rambukwella has appeared in the Criminal Investigation Division (CID) at 9 am on Friday (2).
-
-Meanwhile, the Mallikkanda Magistrate's Court has ordered the former Health Minister and the current environment minister Keheliya Rambukwella on a foreign tour.
-
-◼️
-
-[Data](articles/5040cb94.json)
-
-[Extended Data](ext_articles/5040cb94.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-02-02 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192873) · `si`
-
-Test match between Sri Lanka and Afghanistan will be held in Colombo today.
-
-Sri Lanka won the advantage of its coin and was first given to Afghanistan.
-
-The leader of the Afghanistan team stated that his group who has been played for seven Test matches to provide a sharp competition in front of Sri Lanka.
-
-Sri Lanka team will attend the competition for the first time under the leadership of Dhananjaya de Silva.
-
-◼️
-
-[Data](articles/8e531253.json)
-
-[Extended Data](ext_articles/8e531253.ext.json)
-
----
-
-### Keheliya arrives at CID
-
-*2024-02-02 09:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliya-arrives-at-CID/108-276190) · `en`
-
-In adherence to a court order issued on Thursday, former Health Minister Keheliya Rambukwella reported to the premises of the Criminal Investigation Department (CID) this morning.
-
-◼️
-
-[Data](articles/0ca064eb.json)
-
-[Extended Data](ext_articles/0ca064eb.ext.json)
-
----
-
-### Instruction to close meat shops
-
-*2024-02-02 09:34:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/இறைச்சிக்-கடைகளை-மூடுமாறு-அறிவுறுத்தல்/74-332531) · `ta`
-
-Municipal Commissioner ALM Azmi has announced that all the zoos and meat shops will be locked within the border of the Kalmunai Municipal Council on Sunday, the 76th Independence Day of the country.
-
-In accordance with the announcement of the Public Administration, Home Affairs, Provincial Councils and Local Government Ministry, the Commissioner has given a letter to those involved to close beef, poultry and mutton stores and zoos, which are under the Kalmunai Municipal Council.
-
-◼️
-
-[Data](articles/7b1cf352.json)
-
-[Extended Data](ext_articles/7b1cf352.ext.json)
-
----
-
-### Keheliya arrives at CID
-
-*2024-02-02 09:33:20* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-සී-අයි-ඩි-යට-පැමිණෙයි/11-407865) · `si`
-
-Former Health Minister Keheliya Rambukwella has arrived at the CID this morning.According to the orders of the Maligakanda Magistrate, he has come to the CID to provide the statement.
-
-◼️
-
-[Data](articles/104b8502.json)
-
-[Extended Data](ext_articles/104b8502.ext.json)
-
----
-
-### Youth attacked by police in Jaffna - Human Rights Commission
-
-*2024-02-02 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175353) · `ta`
-
-The Jaffna Regional Office of the Sri Lanka Human Rights Commission has launched an investigation into the incident where a youth who was injured in the attack of Achuveli police officers was admitted to the Jaffna Teaching Hospital.
-
-The Jaffna Regional Coordinator of the Sri Lanka Human Rights Commission, T. Kanagaraj, said that his affidavit was registered and investigated by us on Thursday (01) following the complaint lodged by the victim.
-
-Meanwhile, he added that the confession of the person who was treated at the Jaffna Hospital on the orders of a man arrested by the Chunnakam police was registered and investigated.
-
-◼️
-
-[Data](articles/31463e25.json)
-
-[Extended Data](ext_articles/31463e25.ext.json)
-
----
-
-### President and the budget about the presidential candidate
-
-*2024-02-02 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192872) · `si`
-
-The Presidential Secretariat has held a meeting of the Sri Lanka Civil Front and other parties representing the government under President Ranil Wickremesinghe.
-
-SM discussion addressed the presidential election. Chandrasena said MP Chandrasena said.
-
-The President had asked the President to start talks with the party leadership to seek the support of the Presidential Elections Candidate.
-
-"Whatever it takes, you need to negotiate. We told the discussion with former President Mahinda Rajapakse and Basil Rajapaksa. We are clearly shown to the President. "
-
-◼️
-
-[Data](articles/b30beac0.json)
-
-[Extended Data](ext_articles/b30beac0.ext.json)
-
----
-
-### The wife of the Beliatta's wife's wife arrested - the shooter escaped to Dubai?
-
-*2024-02-02 09:27:50* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්ත-පංච-පුද්ගල-ඝාතනයේ-වෙඩික්කරුගේ-බිරිඳ-අල්ලයි---වෙඩික්කරු-ඩුබායි-වෙත-පැන-ගිහිල්ලා-/11-407864) · `si`
-
-Police STF officers have been arrested by the wife of the Five persons including the leader Saman Perera, including the leader Saman Perera.
-
-Police Special Task Force has been arrested by the Police Special Task Force in Pallewela Police Division. The main shot of the Beliatta murder is currently a former naval guard in the Navy.
-
-The murder of the murder was arrested by the 39 year old wife, aged 72, aged 72.They were arrested with 21 grams and 350 grams of heroin.
-
-The main shooter, the main shooter, has fled to the Beliatta on January 21st on January 21st on January 21st day.
-
-◼️
-
-[Data](articles/cee2f9b9.json)
-
-[Extended Data](ext_articles/cee2f9b9.ext.json)
-
----
-
-### ‘Yukthiya’ operation: 703 more suspects arrested within 24 hours
-
-*2024-02-02 09:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/96936/yukthiya-operation-703-more-suspects-arrested-within-24-hours) · `en`
-
-Another 703 suspects have been arrested by Sri Lanka’s police and security forces personnel within 24 hours which ended at 12.30 a.m. today (Feb.02). The arrests were made as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-Among the arrestees are 525 suspects who were taken into custody on narcotics-related charges and 178 others who were on the list of wanted criminal suspects.
-
-Detention orders have been secured against one of the drug suspects, while another six were referred to rehabilitation centres, the Ministry of Public Security said.
-
-According to the ministry, the narcotics taken into custody during this period include 204g of heroin, 118g of crystal methamphetamine (Ice), 3.1kg of cannabis and 477 narcotic pills.
-
-◼️
-
-[Data](articles/d70bf831.json)
-
-[Extended Data](ext_articles/d70bf831.ext.json)
 
 ---

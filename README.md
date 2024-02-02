@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 22:17:07**
+As of **2024-02-02 22:32:57**
 
 ## Newspaper Stats
 
-*Scraped **4,435** Articles*
+*Scraped **4,436** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,49 +20,71 @@ virakesarilk | 498
 adaderanasinhalalk | 538
 adaderanalk | 554
 tamilmirrorlk | 564
-dailymirrorlk | 614
+dailymirrorlk | 615
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,430 (99.9%) of 4,435 articles have been extended.
+4,435 (100.0%) of 4,436 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
 
-### පළමු ගැන්ට්‍රි දොඹකර ත්‍රිත්වය දිවයිනට
+### Two police sergeants nabbed for soliciting Rs. 10,000 bribe
+
+*2024-02-02 21:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-police-sergeants-nabbed-for-soliciting-Rs-10-000-bribe/108-276241) · `en`
+
+Matale, Feb 02 (Daily Mirror) - Officials from the Bribery Commission arrested two police sergeants at Madipola in Matale today on charges of soliciting a bribe of Rs. 10,000.
+
+The arrest was made following a complaint by an individual in Yatawatte.
+
+According to the Bribery Commission, the two sergeants had allegedly demanded a Rs. 100,000 bribe from an individual over an expired vehicle license, pledging not to proceed with legal proceedings. However, the bribe had been decreased to Rs 50,000.
+
+As such, the seargents were arrested while they were accepting a bribe of Rs. 10,000.
+
+◼️
+
+[Data](articles/22e0549a.json)
+
+---
+
+### First Gantri Crane Triple
 
 *2024-02-02 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192903) · `si`
 
-කොළඹ වරායේ නැගෙනහිර පර්යන්තය සඳහා ඇණවුම් කළ ගැන්ට්‍රි දොඹකර 12න් පළමු දොඹකර ත්‍රිත්වය දිවයිනට අද (02) ගෙන එනු ලැබිණි.
+The first 12 crane triplendar to the East Terminal of the Colombo harbor was brought to the island today.
 
-එම දොඹකර භාරගනු ලැබුවේ වරාය, නාවික හා ගුවන්සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා විසිනි.
+The cranes were accepted by the Minister of Ports, Naval and Aviation Minister Nimal Siripala de Silva.
 
-චීනයේ ෂැන්ග්හයි නුවර සිට 'ෂෙන්හුවා - 24' නෞකාව මගින් මෙම දොඹකර ශ්‍රී ලංකාව වෙත ගෙන ආ බව සඳහන්ය.
+The crane was brought to Sri Lanka by Shanghii to Sri Lanka by Shanghii to Sri Lanka by Shanghii.
 
-නැගෙනහිර පර්යන්තයේ ග්‍රැන්ටි දොඹකර 12ක් සහ පර්යන්ත දොඹකර 40ක් සවි කිරීමට නියමිත අතර, එහි සමස්ත වටිනාකම අමෙරිකානු ඩොලර් මිලියන 282ක් බව වාර්තා වේ.
+The total value of Grandi cranes and 40 peripheral cranes are to be mounted and 40 peripheral cranes are to be mounted.
 
-මෙම ගැන්ට්‍රි දොඹකරයක් මීටර් 72ක දිගින් යුතු වන අතර හරස් අතට බහාලුම් 26කින් යුත් නෞකාවක් එකවර මෙහෙයවීමේ හැකියාව ලැබේ.
+This gantry crane is 72 meters long, and a 26-container ships can be operated at once.
 
 ◼️
 
 [Data](articles/1e6fc8b8.json)
 
+[Extended Data](ext_articles/1e6fc8b8.ext.json)
+
 ---
 
-### විජේ දේශපාලනයට
+### Vijay to politics
 
 *2024-02-02 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192902) · `si`
 
-එසේම ඔහු සිය දේශපාලන පක්ෂය 'ටැමිලගා වෙට්‍රි කසාගම්' ලෙස නම් කර ඇති බව වාර්තා වේ.
+He has also been named 'Tamilaga Votri Kazakam'.
 
-දැනට වැඩ අවසන් වෙමින් පවතින සිනමා පට දෙකෙහි කටයුතු අවසන් වූ පසු ඔහු සිනමා වෘත්තීයෙන් සමුගෙන පූර්ණකාලීනව දේශපාලනයේ නිරත වීමට අදහස් කරයි.
+After completing the work of the two film complexes, he intends to quit the film career and engage in politics.
 
 ◼️
 
 [Data](articles/0512eed1.json)
+
+[Extended Data](ext_articles/0512eed1.ext.json)
 
 ---
 
@@ -91,6 +113,8 @@ President Ranil Wickremesinghe and former President Chandrika Bandaranaike Kumar
 ◼️
 
 [Data](articles/3d416efb.json)
+
+[Extended Data](ext_articles/3d416efb.ext.json)
 
 ---
 
@@ -166,6 +190,8 @@ The news was later confirmed by Pandey’s manager Nikita Sharma, in a statement
 
 [Data](articles/f00f5e4b.json)
 
+[Extended Data](ext_articles/f00f5e4b.ext.json)
+
 ---
 
 ### Beliatta murder of Beliatta revealed
@@ -200,21 +226,23 @@ The suspects have told police a 23 year old resident of Dodddro, a 23 year old r
 
 ---
 
-### கெஹலிய ரம்புக்வெல்ல கைது
+### Keheliya Rambukwella arrested
 
 *2024-02-02 20:22:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-ரம்புக்வெல்ல-கைது/175-332561) · `ta`
 
-தரமற்ற ஊசியை இறக்குமதி செய்தமை தொடர்பில் முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல சற்று முன்னர் குற்றப் புலனாய்வுப் பிரிவினரால் (சிஐடி) கைது செய்யப்பட்டுள்ளார்.
+Former Health Minister Keheliya Rambukwella has been arrested by the Criminal Investigation Department (CIT) for the importation of substandard injections.
 
-நீதிமன்ற உத்தரவுக்கு அமைய கெஹலிய ரம்புக்வெல்ல வாக்குமூலம் வழங்குவதற்காக இன்று காலை குற்றப் புலனாய்வுப் பிரிவுக்கு வருகை தந்தார்.
+Keheliya Rambukwella visited the Criminal Investigation Division this morning to make a confession on a court order.
 
-சர்ச்சைக்குரிய இம்யூனோகுளோபுலின் ஊசியை கொள்வனவு வழக்கு தொடர்பான நீதிமன்ற விசாரணையின் போது, வெள்ளிக்கிழமை (2) காலை 9 மணிக்கு குற்றப் புலனாய்வுப் பிரிவில் ஆஜராகுமாறு மாளிகாகந்த நீதவான் நேற்று உத்தரவிட்டார்.
+The Magistrate yesterday ordered the Criminal Investigation Department to appear at the Criminal Investigation Division (CID) at 9 am on Friday (2) during a court hearing on the controversial immunoglobulin.
 
-10 மணி நேரத்துக்கும் மேலாக நடைபெற்ற விசாரணைக்குப் பிறகு, கெஹலிய ரம்புக்வெல்ல கைது செய்யப்பட்டார்.
+After more than 10 hours of trial, Keheliya Rambukwella was arrested.
 
 ◼️
 
 [Data](articles/7fb95860.json)
+
+[Extended Data](ext_articles/7fb95860.ext.json)
 
 ---
 
@@ -2039,25 +2067,5 @@ The contract aims to bring Thai goods to new markets in South Asia by accelerati
 [Data](articles/9c801754.json)
 
 [Extended Data](ext_articles/9c801754.ext.json)
-
----
-
-### President Ranil and SLPP hold talks on presidential candidacy in upcoming polls
-
-*2024-02-02 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/96942/president-ranil-and-slpp-hold-talks-on-presidential-candidacy-in-upcoming-polls) · `en`
-
-The representatives of Sri Lanka Podujana Peramuna (SLPP) and all other political parties of the ruling party have held a meeting headed by President Ranil Wickremesinghe at the President’s Secretariat.
-
-SLPP Parliamentarian S.M. Chandrasena said the focus of the meeting largely fell on the upcoming presidential election.
-
-Meanwhile, MP Rohitha Abeygunawardena, commenting in this regard, expressed that President Wickremesinghe was requested to initiate discussions with the SLPP leadership, in order to obtain the party’s support as a presidential candidate.
-
-“Whatever happens, discussions must be carried out. Therefore we asked the President to hold discussions with former President Mahinda Rajapaksa and Basil Rajapaksa regarding the matter”, he added.
-
-◼️
-
-[Data](articles/1e8c2775.json)
-
-[Extended Data](ext_articles/1e8c2775.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 03:50:08**
+As of **2024-02-03 04:02:18**
 
 ## Newspaper Stats
 
-*Scraped **4,450** Articles*
+*Scraped **4,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 132
 islandlk | 230
 economynextcom | 252
 newsfirstlk | 274
-dailyftlk | 277
+dailyftlk | 280
 adalk | 389
 virakesarilk | 498
 adaderanasinhalalk | 538
@@ -26,7 +26,7 @@ dailymirrorlk | 618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,450 (100.0%) of 4,450 articles have been extended.
+4,450 (99.9%) of 4,453 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,58 @@ Chief Justice Jayantha Jayasuriya, Vijith Malkoda, AHMT. The six -day hearing wa
 [Data](articles/673beaf5.json)
 
 [Extended Data](ext_articles/673beaf5.ext.json)
+
+---
+
+### Lawyers group criticises Tiran Alles for personalising anti-drug initiative
+
+*2024-02-03 01:50:32* · [`dailyftlk`](https://www.ft.lk/news/Lawyers-group-criticises-Tiran-Alles-for-personalising-anti-drug-initiative/56-758110) · `en`
+
+The Lawyers Collective, a recently formed civil society group in a letter to Justice Minister Wijeyadasa Rajapakshe, yesterday expressed grave concerns in the manner the Public Security Minister is exercising his powers in relation to the ‘Yukthiya’ Anti-Drug Campaign.
+
+The organisation said the campaign must conform to the Rule of Law and cannot be a passionate, personal, initiative that the Minister seeks to implement outside the law.
+
+“The manner in which you are conducting this campaign and making public statements on the media indicates that you will consider any laws that you think restrict your authority as obstacles that you have every right to disregard and that all who comment or criticise the manner in which the campaign is conducted are drug dealers and drug addicts,” it noted.
+
+The organisation said the Minister has repeatedly referred to lawyers in this manner, despite a statement from the Bar Association of Sri Lanka objecting to this attack on the legal profession.
+
+...
+
+[Data](articles/4e07c334.json)
+
+---
+
+### Cabinet approves enhanced benefits  under Aswesuma welfare program
+
+*2024-02-03 01:49:16* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-enhanced-benefits-under-Aswesuma-welfare-program/56-758109) · `en`
+
+The Cabinet of Ministers has approved the implementation of the Aswesuma Scheme, with significant revisions aimed at extending support to vulnerable social groups.
+
+The scheme, which has already been in effect, will undergo key changes to enhance its impact on those facing economic challenges.
+
+The approved revisions include the number of eligible families set to increase to 2.4 million, reflecting an inclusion of additional eligible families. It also includes initiating the call for applications for the second round within the first quarter of 2024 and finalising it by June 2024, the revised scheme aims to make payments starting from July.
+
+...
+
+[Data](articles/e5c1ad7d.json)
+
+---
+
+### ‘Urumaya’ to issue permanent land ownership for 2 m people
+
+*2024-02-03 01:48:26* · [`dailyftlk`](https://www.ft.lk/news/Urumaya-to-issue-permanent-land-ownership-for-2-m-people/56-758108) · `en`
+
+Lands Minister Harin Fernando says distribution of freehold deeds to 10,000 will begin on 5 Feb.
+
+Underscores new initiative to empower 1 m young minds, transform them into architects of their own destinies
+
+In a major step towards resolving land ownership issues for over two million Sri Lankans, the “Urumaya” program will be officially launched on 5 February in Dambulla, Tourism, Lands and Sports and Youth Affairs Minister Harin Fernando announced.
+
+Speaking to journalists at a briefing held at President Media Centre on Wednesday, he said the program aims to provide permanent land ownership solutions, noting that over 10,000 land licensees currently holding Ran Bhoomi, Jaya Bhoomi, and Swarna Bhoomi licenses will be among the first beneficiaries of this program.
+
+...
+
+[Data](articles/18583633.json)
 
 ---
 
@@ -1993,67 +2045,5 @@ The project also aims at strengthening the financial and institutional capacity 
 [Data](articles/c15c3bd6.json)
 
 [Extended Data](ext_articles/c15c3bd6.ext.json)
-
----
-
-### Here are the parts out of the tiktak
-
-*2024-02-02 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192879) · `si`
-
-The company has decided to remove all the songs issued under the Universal Musk Group's label, which circulate the Tiktok social network.
-
-It is due to the failure of the two companies to renew the agreement between the two companies.
-
-Accordingly, most of the famous songflies such as Taylor Swift, Drake and Olives Rodrigo will no longer see in the Tiktok network.
-
-◼️
-
-[Data](articles/6901cbcd.json)
-
-[Extended Data](ext_articles/6901cbcd.ext.json)
-
----
-
-### Vavuniya sidewalk businesses remove the municipality !!
-
-*2024-02-02 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175382) · `ta`
-
-The corridor businesses located on the Vavuniya market surrounding road were removed by the Municipality on Friday.
-
-Pedestrians are facing various inconveniences because of the Vavuniya General Hospital junction and the Koravapotha road and the market inner street are occupied by corridors.. This causes frequent traffic congestion and causes accidents.
-
-The trade is occupied by the sidewalks and has caused pedestrians to walk on the main road.
-
-Although the municipal council has taken action in this regard, there is an increase in business centers that occupy the sidewalk daily.
-
-In this case, the Vavuniya Municipal Officers and Transport Police, who went to the Marketback Road on Friday (02), removed the corridors and confiscated their goods.
-
-Meanwhile, the public has demanded that the municipal council take steps to remove the corridor outlets located on the road.
-
-◼️
-
-[Data](articles/b8bfad99.json)
-
-[Extended Data](ext_articles/b8bfad99.ext.json)
-
----
-
-### People protest against the release of the land allocated to the housing in Mannar
-
-*2024-02-02 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175375) · `ta`
-
-A group of people in Mannar have staged a protest demanding the immediate release of the land allocated to the government to construct houses by the government eight years ago.
-
-The people of the Nanatan Divisional Secretariat of Mannar district have launched a protest yesterday, although the government has allocated 46 acres of land in the Kombansanakkulam area to construct houses for 113 families living in their village.
-
-“Our people need a residential land in the Kombanayan pond near our town. We live in three four families in a house in our town.
-
-Space is not enough. That is why we are struggling today. Northern Provincial Officers have announced that this land will be given to us in 2016. But the Forest Department has not yet released this. The former Divisional Secretary did not do this even though. “A woman who participated in the protest said.
-
-...
-
-[Data](articles/2317a263.json)
-
-[Extended Data](ext_articles/2317a263.ext.json)
 
 ---

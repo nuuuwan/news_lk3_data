@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 09:17:36**
+As of **2024-02-02 09:33:00**
 
 ## Newspaper Stats
 
-*Scraped **4,275** Articles*
+*Scraped **4,277** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ islandlk | 230
 economynextcom | 243
 newsfirstlk | 265
 dailyftlk | 272
-adalk | 379
+adalk | 380
 virakesarilk | 470
 adaderanasinhalalk | 506
-adaderanalk | 531
+adaderanalk | 532
 tamilmirrorlk | 546
 dailymirrorlk | 586
 
@@ -26,11 +26,29 @@ dailymirrorlk | 586
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,273 (100.0%) of 4,275 articles have been extended.
+4,275 (100.0%) of 4,277 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### Ex-Health Minister Keheliya arrives at CID
+
+*2024-02-02 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96935/ex-health-minister-keheliya-arrives-at-cid) · `en`
+
+Former Health Minister Keheliya Rambukwella arrived at the Criminal Investigation Department (CID) premises on Friday morning (Feb.02) in compliance with a court order issued on Thursday.
+
+The former health minister was supposed to make an appearance before the CID on Wednesday (Jan.31), but he failed to do so on account of attending the proceedings of a case heard before the Colombo High Court, as well as a ministerial sub-committee meeting convened at the Presidential Secretariat.
+
+Thus, Rambukwella has sought the CID, in writing, to fix another date for him to provide his statement.
+
+On Thursday (Feb.01), the Maligakanda Magistrate ordered the former health minister to appear before the CID to record a statement pertaining to his alleged involvement in the substandard medicines procurement. Additionally, a ban was imposed on the lawmaker’s foreign travels.
+
+...
+
+[Data](articles/441e2c4a.json)
+
+---
 
 ### US approves plan to strike Iranian targets in Syria and Iraq
 
@@ -54,6 +72,8 @@ US officials have said that US intelligence believes that the drone used to atta
 
 [Data](articles/6bd7cd24.json)
 
+[Extended Data](ext_articles/6bd7cd24.ext.json)
+
 ---
 
 ### Health trade unions’ strike continues for second day straight
@@ -73,6 +93,8 @@ The doctors’ unions and the All Ceylon Nurses’ Union, however, decided to re
 ...
 
 [Data](articles/029c2888.json)
+
+[Extended Data](ext_articles/029c2888.ext.json)
 
 ---
 
@@ -106,7 +128,7 @@ It is suspected that this is a close associate of the underworld leader Kosgoda 
 
 ### Jordan retaliates - US military permits to attack Iranian targets in Iraq in Syria
 
-*2024-02-02 08:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175349) · `ta`
+*2024-02-02 08:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175349) · `ta`
 
 The US has given its military permission to launch an attack on the US military in Jordan.
 
@@ -1718,6 +1740,24 @@ Following are the names of the diplomats who submitted their credentials today.
 
 ---
 
+### වන සංරක්ෂණයට කෝටි 188ක ආදායමක් හිඟයි
+
+*2024-02-01 19:14:28* · [`adalk`](https://www.ada.lk/breaking_news/වන-සංරක්ෂණයට-කෝටි-188ක-ආදායමක්-හිඟයි/11-407861) · `si`
+
+වන සංරක්ෂණ දෙපාර්තමේන්තුව සඳහා කැලෑවලින් හා පෞද්ගලික දැව ප්‍රවාහනයෙන් හිඟ ආදායම වශයෙන් ලැබිය යුතු මුදල  2023 දෙසැ.මස 31 වැනිදා වනවිට රුපියල් එකසිය අසූ අට කෝටි පනස් එක් ලක්ෂ අසූ දහස් තුන්සීය හැත්තෑ දෙක දක්වා ඉහළ ගොස් තිබූ බව ජනවාරි 30 දින නිකුත් කරන ලද  විගණන වාර්තාවක සඳහන් වේ.
+
+වන සංරක්ෂණ දෙපාර්තමේන්තුවේ ප්‍රධාන ආදායම් ප්‍රභවය වන්නේ කැලෑවලින් හා පෞද්ගලික දැව ප්‍රවාහනයෙන් ලැබෙන ආදායම වේ. මෙකී ආදායම් නිවැරදි ව ඇස්තමේන්තු කිරීම, හිඟ ආදායම් ගණනය කිරීම සහ අය කර ගැනීම සඳහා පලදායී අභ්‍යන්තර පාලන ක්‍රම ස්ථාපිත කොට ව්‍යවස්ථාපිත කොට නොතිබූ බවද එම විගණන වාර්තාවේ සඳහන් වේ.
+
+මේ හේතුවෙන් අදාළ පාර්ශ්ව විසින් රාජ්‍ය ආදායමට මුදල් බැර කිරීම පැහැර හරිනු ලබන බව නිරීක්ෂණය වන්නේ යැයිද එම විගණන වාර්තාවේ දැක් වේ.
+
+මේ පිළිබඳ වන සංරක්ෂණ දෙපාර්තමේන්තුවේ ගණන් දීමේ නිලධාරියා විසින් විගණනයට සඳහන් කර ඇත්තේ පුරස්කාර ක්‍රමවේදය මත ලැබෙන මෙම ආදායම නිෂ්පාදන ඒකක මත ගණනය කිරීමෙන් පසුව අය කරගන්නා බැවින් නිරන්තරයෙන් වර්ෂ දෙකක කාලයක් තුළ හිඟ ආදායම් ඇති වී ඇති බවය.
+
+...
+
+[Data](articles/356745f0.json)
+
+---
+
 ### Do you know this?
 
 *2024-02-01 19:10:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களே-உங்களுக்கு-இவரை-தெரியுமா/175-332503) · `ta`
@@ -2013,47 +2053,5 @@ Meanwhile, the suspects have been remanded to remand further remanded until the 
 [Data](articles/0d01b9c8.json)
 
 [Extended Data](ext_articles/0d01b9c8.ext.json)
-
----
-
-### Six including ex-Health Secretary further remanded, one accused granted bail
-
-*2024-02-01 18:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/96925/six-including-ex-health-secretary-further-remanded-one-accused-granted-bail) · `en`
-
-The fifth suspect in the ongoing case concerning the controversial procurement of substandard human immunoglobulin vials has been released on bail on orders of the Maligakanda Magistrate’s Court.
-
-As per the relevant court order, the suspect, identified as the Medical Supplies Division’s storekeeper, was released on two personal bails of Rs. 01 million each.
-
-Meanwhile, the six other suspects, including the former Secretary to the Ministry of Health, Janaka Chandragupta, were further remanded until 15 February.
-
-Chandragupta was arrested by the Criminal Investigation Department (CID) on 18 December 2022, when he arrived at the premises to record a statement regarding the substandard human immunoglobulin scandal, which had taken place during his tenure as Health Secretary.
-
-...
-
-[Data](articles/7697ea41.json)
-
-[Extended Data](ext_articles/7697ea41.ext.json)
-
----
-
-### What did our first forgetful wealth were first reminded
-
-*2024-02-01 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192851) · `si`
-
-Sri Lanka Test leader Dananjaya de Silva said he would honor the Debwarawewa National School, which launched cricket.
-
-He was speaking at a press conference held today before the first Test against the Afghanistan group.
-
-Speaking further Test captain Dhananjaya de Silva also commemorated his father about his father.
-
-Dhananja de Silva said that he would always be happy if he was always playing for his Father and he would be pleased.
-
-Dhananjaya de Silva also commented on the Sri Lankan team and the rival Afghanistan group.
-
-◼️
-
-[Data](articles/f5cef570.json)
-
-[Extended Data](ext_articles/f5cef570.ext.json)
 
 ---

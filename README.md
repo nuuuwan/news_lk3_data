@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 20:17:20**
+As of **2024-02-02 20:32:55**
 
 ## Newspaper Stats
 
-*Scraped **4,413** Articles*
+*Scraped **4,415** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 272
 newsfirstlk | 273
 adalk | 387
 virakesarilk | 498
-adaderanasinhalalk | 530
+adaderanasinhalalk | 532
 adaderanalk | 553
 tamilmirrorlk | 563
 dailymirrorlk | 611
@@ -26,11 +26,23 @@ dailymirrorlk | 611
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,411 (100.0%) of 4,413 articles have been extended.
+4,413 (100.0%) of 4,415 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### කෙහෙළිය රඹුක්වැල්ල අත්අඩංගුවට
+
+*2024-02-02 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192897) · `si`
+
+ප්‍රමිතියෙන් තොර හියුමන් ඉමියුනෝග්ලොබියුලින් මිල දී ගැනීමේ වංචාව සම්බන්ධයෙන් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/bf10c552.json)
+
+---
 
 ### Ex-Health Minister Keheliya Rambukwella arrested
 
@@ -43,6 +55,28 @@ The lawmaker arrived at the Criminal Investigation Department (CID) premises thi
 ◼️
 
 [Data](articles/5efd1de7.json)
+
+[Extended Data](ext_articles/5efd1de7.ext.json)
+
+---
+
+### හිටපු සෞඛ්‍ය ඇමති බොරු කිව්වා - නියෝජ්‍ය සොලිසිටර් ජනරාල්
+
+*2024-02-02 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192896) · `si`
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදීගැනීමේ වංචාව සම්බන්ධයෙන් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පැය 10කට ආසන්න කාලයක් පුරා මේ වනවිටත් ප්‍රශ්න කරමින් සිටී.
+
+ඒ අදාළ සිදුවීම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිට ප්‍රකාශයක් ලබාදෙන ලෙස මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය අමාත්‍යවරයාට ඊයේ (01) ලබාදුන් නියෝගයට අනුවය.
+
+ඒ අනූව උදෑසන 10ට පමණ හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ප්‍රකාශයක් ලබාදීමට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණියේය.
+
+මෙම නඩුව ඊයේ (01) පස්වරුවේ මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයේදී යළි කැඳවුණු අතර, හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාට CIDය හමුවේ ප්‍රකාශයක් ලබාදෙන ලෙස දන්වා තිබියදී ඔහු ඒ සඳහා නොපැමිණ අසත්‍ය තොරතුරු ඉදිරිපත් කළ බවට රජයේ නියෝජ්‍ය සොලිසිටර් ජනරාල් ලක්මිණී ගිරිහාගම මෙනෙවිය එහිදී අධිකරණයට කරුණු ඉදිරිපත් කළාය.
+
+ඇය සිදුකළ ඉල්ලීමක් මත මාලිගාකන්ද මහෙස්ත්‍රාත් ලෝචනී අබේවික්‍රම මහත්මිය කෙහෙළිය රඹුක්වැල්ල අමාත්‍යවරයාට නියෝග කළේ, අද දින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ ප්‍රකාශයක් ලබාදෙන ලෙසටය.
+
+...
+
+[Data](articles/287082f7.json)
 
 ---
 
@@ -1112,6 +1146,8 @@ He had earlier advised Gotabaya Rajapaksa similarly asking 13th Amendment to be 
 
 [Data](articles/2cff0941.json)
 
+[Extended Data](ext_articles/2cff0941.ext.json)
+
 ---
 
 ### Si will be remanded again in Narammala shooting incident
@@ -1973,41 +2009,5 @@ Parliamentarian Rohitha Abeygunawardena has said that the president has been ask
 [Data](articles/bad44c47.json)
 
 [Extended Data](ext_articles/bad44c47.ext.json)
-
----
-
-### Litro Action Notification
-
-*2024-02-02 11:31:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-அதிரடி-அறிவிப்பு/175-332539) · `ta`
-
-Gas Chairman Muditha Peiris made a major announcement a few minutes ago regarding the price of Litro domestic gas.
-
-Accordingly, the price of three domestic gas cylinders will be similar to last month, he added.
-
-◼️
-
-[Data](articles/603977b0.json)
-
-[Extended Data](ext_articles/603977b0.ext.json)
-
----
-
-### Relatives and friends can visit the prison open on the 76th Independence Day!
-
-*2024-02-02 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175369) · `ta`
-
-Prison Commissioner Gamini B.. Dissanayake said.
-
-The program will be implemented in all prisons across the country, following the prison regulations and health care systems that day.
-
-He also said that the opportunity to visit a prisoner as relatives and friends.
-
-Meanwhile, a media spokesman said that the package of food and clothing brought by the relatives of the prisoner should only be given to the prisoner and that the banned items are banned into the premises.
-
-◼️
-
-[Data](articles/ae504dbc.json)
-
-[Extended Data](ext_articles/ae504dbc.ext.json)
 
 ---

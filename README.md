@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 13:33:05**
+As of **2024-02-02 13:51:35**
 
 ## Newspaper Stats
 
-*Scraped **4,332** Articles*
+*Scraped **4,335** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 67
 dbsjeyarajcom | 132
 islandlk | 230
 economynextcom | 244
-newsfirstlk | 268
+newsfirstlk | 269
 dailyftlk | 272
-adalk | 384
+adalk | 385
 virakesarilk | 482
-adaderanasinhalalk | 513
+adaderanasinhalalk | 514
 adaderanalk | 540
 tamilmirrorlk | 555
 dailymirrorlk | 595
@@ -26,43 +26,103 @@ dailymirrorlk | 595
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,328 (99.9%) of 4,332 articles have been extended.
+4,335 (100.0%) of 4,335 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
 
-### திங்கள் விடுமுறையா?: ​அறிவிப்பு வெளியானது
+### Two arrested for abuse of an American girl
+
+*2024-02-02 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192878) · `si`
+
+Two suspects have been arrested for a 25 year old American girl who had come to visit.
+
+It is reported that the suspects have also stolen of gold jewelery worth about $ 6,000.
+
+The Criminal Investigation Unit of the Kandy Police (CID) said that a person who was a tourist guide and another.
+
+A large number of passengers were weeping to Badulla from Kandy to Badulla and have been referred to her to the Nanu Oya Police.
+
+According to the interrogation of the Nanu Oya police officers, the girl had said that he had been abandoned at a lodging in Kandy on the 29th.
+
+She has also lodged a complaint with the suspects, a 3,600 necklace worth of gold, US $ 3,600 and a wake.
+
+The girl told the police that with the two suspects, he had been drinking at a lodging in Kandy and there was no memory of what happened.
+
+She has told the police that since he is diagnosed again, she was a miracle.
+
+The two suspects have been referred to the forensic doctor and the foreign girl tried to refer to the forensic doctor.
+
+...
+
+[Data](articles/6995a296.json)
+
+[Extended Data](ext_articles/6995a296.ext.json)
+
+---
+
+### Gazette issued making it mandatory to display weight and price of bread
+
+*2024-02-02 13:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/gazette-issued-making-it-mandatory-to-display-weight-and-price-of-bread/) · `en`
+
+COLOMBO (News 1st); The Consumer Affairs Authority has issued a special gazette notification making it mandatory to display the standard weight of a loaf of bread and its price.
+
+The relevant gazette issued in accordance with the powers vested to the Chairman of the Consumer Affairs Authority states the standard weight of a loaf of bread should be 450g.
+
+It adds that the weight of half a loaf of bread should be 225g.
+
+The gazette also states “tolerance deficiency”, which means the content less than the standard weight which is allowed, for a 450g loaf of bread is 13.5g.
+
+Gazette issued making it mandatory to display weight and price of bread
+
+Huge blast rocks Kenyan capital, injuring hundreds and destroying homes
+
+Face The Nation | Freedom Lost or Freedom Gained | 31st January 2024
+
+◼️
+
+[Data](articles/02c4f57e.json)
+
+[Extended Data](ext_articles/02c4f57e.ext.json)
+
+---
+
+### Monday vacation?: Notification was released
 
 *2024-02-02 12:53:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திங்கள்-விடுமுறையா-அறிவிப்பு-வெளியானது/175-332545) · `ta`
 
-76 ஆவது சுதந்திர தினம் எதிர்வரும் ஞாயிற்றுக்கிழமை (04) கொண்டாடப்பட்டாலும் அதற்கு மறுநாள் திங்கட்கிழமை (05) பொது விடுமுறை தினமாக பிரகடனப்படுத்தப்பட மாட்டாது என பொது நிர்வாக அமைச்சின் செயலாளர்  .பிரதீப் யசரத்ன, வௌ்ளிக்கிழமை (2) தெரிவித்தார்.
+Secretary of the Ministry of Public Administration, Pradeep Yasaratne, said that the 76th Independence Day will not be declared as a public holiday on Monday (05) the next Monday (05).
 
-இதன்படி, திங்கட்கிழமை அனைத்து அரச நிறுவனங்களும் வழமை போன்று இயங்கும் எனவும்  யசரத்ன மேலும் தெரிவித்தார்.
+Accordingly, Yasaratne added that all state institutions will run as usual on Monday.
 
 ◼️
 
 [Data](articles/a288fcfe.json)
 
+[Extended Data](ext_articles/a288fcfe.ext.json)
+
 ---
 
-### பிரபல  நடிகை பூனம் பாண்டே மரணம்
+### Celebrity Actress Poonam Pandey Death
 
 *2024-02-02 12:43:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பிரபல-நடிகை-பூனம்-பாண்டே-மரணம்/54-332544) · `ta`
 
-பிரபல பாலிவுட் நடிகை பூனம் பாண்டே (வயது 32). மாடலிங் துறையில் பிரபலமான இவர் நிஷா என்ற திரைப்படம் மூலம் அறிமுகமாகி இந்தி, கன்னடா, தெலுங்கு படங்களில் நடித்துள்ளார்.
+Popular Bollywood actress Poonam Pandey (age 32). She is famous for her modeling and made her debut in Hindi, Kannada and Telugu films.
 
-2011ம் ஆண்டு நடைபெற்ற உலகக்கோப்பை கிரிக்கெட் தொடரில் இந்தியா கோப்பையை வென்றால் நிர்வாணமாக போஸ் கொடுப்பேன் என கூறி சர்ச்சைக்குள் சிக்கினார்.
+He was embroiled in controversy, saying that if India won the 2011 World Cup cricket series, I would pose naked.
 
-இவர் கடந்த 2020ம் ஆண்டு தன் காதலன் சாம் பாம்பெயை திருமணம் செய்துகொண்டார். இதனிடையே, பூனம் பாண்டே கர்ப்பப்பை வாய் புற்றுநோயால் பாதிக்கப்பட்டார். இதற்காக அவர் சிகிச்சை பெற்றுவந்தார்.
+He married her boyfriend Sam Bombay in 2020. In the meantime, Poonam Pandey suffered from cervical cancer. He was treated for this.
 
-இந்நிலையில், கர்ப்பப்பை வாய் புற்றுநோயால் பாதிக்கப்பட்ட பூனம் பாண்டே இன்று சிகிச்சை பலனின்றி உயிரிழந்தார்.
+In this case, Poonam Pandey died of cervical cancer today died without treatment.
 
-நடிகை பூனம் பாண்டே மரணமடைந்த சம்பவம் அவரது ரசிகர்கள் மத்தியில் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+The death of actress Poonam Pandey has shocked her fans.
 
 ◼️
 
 [Data](articles/3df7c9b1.json)
+
+[Extended Data](ext_articles/3df7c9b1.ext.json)
 
 ---
 
@@ -108,21 +168,41 @@ Meanwhile, MP Rohitha Abeygunawardena, commenting in this regard, expressed that
 
 ---
 
-### கடவுச்சீட்டுக்காக மரத்தில் ஏறியதால் பரபரப்பு
+### Military marks for schools released on scholarship results released
+
+*2024-02-02 12:30:11* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-ප්‍රතිඵල-මත--පාසල්-සඳහා-ඇතුළත්වීමේ-කඩඉම්-ලකුණු-නිකුත්-කෙරේ/11-407868) · `si`
+
+The cut-off marks for schools will be released on Grade 5 scholarship results in Grade 5 scholarships.
+
+Information on the cut off marks for schools can be obtained from the Ministry of Education (www.moe.gov.lk).
+
+Further, students received from 05.02.2014 to 30.02.2024, from 05.02.2012 to $ 1.02.2012 to the https:/g6application.gov.lk/#/.
+
+◼️
+
+[Data](articles/817531a0.json)
+
+[Extended Data](ext_articles/817531a0.ext.json)
+
+---
+
+### As the tree climbed into the tree for a passport
 
 *2024-02-02 12:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கடவுச்சீட்டுக்காக-மரத்தில்-ஏறியதால்-பரபரப்பு/72-332543) · `ta`
 
-கடவுச்சீட்டு பெற வந்த நபர் ஒருவர்கடவுச்சீட்டு காரியாலயத்தின் முன்பாக உள்ள மரமொன்றில்  திடீரென ஏறி அபாய அறிவிப்பு விடுத்தமையால்  வவுனியா பிராந்திய காரியாலய பகுதியில் பதற்றம் ஏற்பட்டது.
+Tensions in the Vavuniya Regional Office in the Vavuniya Regional Office were issued as a person who had come to obtain a passport suddenly climbed into a tree in front of the ticket office.
 
-திருகோணமலை மஹாயபுர பகுதியை சேர்ந்த 51வயதுடைய அநுரகுமார என்பவர், வவுனியாவில் உள்ள கடவுச்சீட்டு காரியாலயத்திற்கு கடவுச்சீட்டு பெறுவதற்காக கடந்த மூன்று தினங்களாக வந்து சென்றதாகவும் எனினும், தனக்கு கடவுச்சீட்டை பெறமுடியாமல் போனதாகவும் தெரிவித்துள்ளார்.
+Anuragumara, a 51 -year -old from Mahayapura, Trincomalee, said that he had come for the past three days to obtain a passport to the passport office in Vavuniya.
 
-இதனால், விரக்தி அடைந்த குறித்த நபர் கடவுச்சீட்டு காரியாலயம் முன்பாக இருந்த மரத்தில் ஏறி தன்னுயிரை மாய்ப்பேன் என கூறி போராட்டம் ஒன்றை மேற்கொண்டிருந்தார்
+Thus, the frustrated person staged a protest by claiming that he would climb into the tree in front of the passport office
 
-இதனையடுத்து காரியாலய உத்தியோகத்தர்கள்   கடவுச்சீட்டு இன்றையதினம் (வௌ்ளிக்கிழமை) பெறுவதற்கான உத்தரவாதத்தை வழங்கியிருந்தனர்.  இதனை தொடர்ந்து குறித்த நபர் மரத்திலிருந்து கீழ் இறங்கினார்.
+Subsequently, the Office of the Office of the Office of the Passport was given a guarantee of obtaining a passport today. Following this, the person got down from the tree.
 
 ◼️
 
 [Data](articles/203b6873.json)
+
+[Extended Data](ext_articles/203b6873.ext.json)
 
 ---
 
@@ -525,6 +605,8 @@ The explosion took place at 11:30 p.m. local time in the Embakasi district, send
 Government spokesman Isaac Mwaura said "Kenyans are hereby advised to keep off the cordoned area in order to allow the rescue mission to be carried out with minimal disruptions".
 
 The Kenya Red Cross said on social media that crews had been "tirelessly battling the flames".
+
+Gazette issued making it mandatory to display weight and price of bread
 
 Huge blast rocks Kenyan capital, injuring hundreds and destroying homes
 
@@ -1224,21 +1306,25 @@ Police told court that the suspect Veterinary Surgeon had issued a forged docume
 
 ---
 
-### ලංකා කඩොලාන කෞතුකාගාරය බලන්න යමු ද?
+### Come to the Sri Lanka Wood Museum?
 
 *2024-02-02 07:23:58* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72g75571epo) · `si`
 
-කළපු ධීවරයකු ලෙස රැකියාව ආරම්භ කර, මේ වන විට දශක තුනක පමණ කාලයක් තිස්සේ මෙරට සිටින මුල් පෙළේ කඩොලාන සංරක්ෂකයෙකු වන ඩග්ලස් තිසේරා ලංකා කඩොලාන කෞතුකාගාරයේ ආරම්භය ගැන බීබීසී සිංහල වෙත කියා සිටියේය.
+Daglas Tissera, who has been in Sri Lanka for nearly three decades, has now begun work as a fisherman.
 
-ඔහු හලාවත, පම්බල ඇති කඩොලාන කෞතුකාගාරයේ අධ්‍යක්ෂ ලෙස කටයුතු කරනු ලබයි.
+He is the Director of the Mangrove Museum of Chilaw.
 
-“පටන් ගත්තේ කඩොලාන සංරක්ෂණ වැඩසටහනකින් පසුව ඒක විකාශනය වුණා. 1996 කඩොලාන මධ්‍යස්ථානයක් මෙතන හැදුවා. ඒක විකාශනය වෙලා 2016 දී අද තියෙන කඩොලාන කෞතුකාගාරය විවෘත කෙරුවා.”
+"Started after a mangrove conservation program was broadcast. A 1996 mangrove center was made here. The mangrove museum has been opened today in 2016. "
 
-කෘතිම ඉස්සන් වගාවට අවශ්‍ය ගොවිපොළවල් සෑදීමටත්, ලුණු කර්මාන්තයට අවශ්‍ය භූමිය ලෙස මෙන්ම සංචාරක හෝටල් හා සංචාරක කර්මාන්තය නිසාත් රට පුරා කඩොලාන පද්ධතියට දැඩි බලපෑමක් එල්ල විය.
+Saltive prawns cultivation, as far as the salt industry, and the tourism industry and tourism and tourism and tourism and tourism industry have been affected.
+
+"I'm a fisherman. In 1985, artificial shrimp came to Puttalam District artificial shrimp to the Puttalam district.. I made a struggle with this industry. The Ceylon Sudhapezis Federation came and created organizations while doing so struggle. Then the organization made an organization in this village. That's the chairman of that. We saw that the system would be destroyed with prawns. It was a little place to stop it. It is the broadcast of the 2016 museum today. "
 
 ...
 
 [Data](articles/b8f11149.json)
+
+[Extended Data](ext_articles/b8f11149.ext.json)
 
 ---
 
@@ -1957,65 +2043,5 @@ This proposed Bill is going to create a Poor Liz Kingdom. There is a risk of ter
 [Data](articles/9a0b1189.json)
 
 [Extended Data](ext_articles/9a0b1189.ext.json)
-
----
-
-### Model Infantry Conflicts
-
-*2024-02-02 02:04:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உட்கட்சி-முரண்பாடுகள்-வரும்/175-332522) · `ta`
-
-The authority to postpone the meeting is for the General Secretary. I know that this is a legal issue and that he has written to the leader on what the meeting is on that basis.I also saw the letter.
-
-"I do not want to report further details in this regard," said R. Sanakiyan, a member of the Sri Lanka Tamil National Alliance (TNA).
-
-The Development Committee meeting for the Manmunai South Eruvilpattu area in Batticaloa district was held on Thursday (01) at the Divisional Secretariat Conference Hall in Kaluwanchikudi. He said this while responding to questions from journalists after attending.
-
-Former President of the Sri Lanka TNA. The general secretary has the powers relating to the meeting and postponing party meetings. The second deputy secretary of parliament MA Sumanthiran was held in accordance with the party's Yap as the doctor Sathiyalingam, who served as the General Secretary in response to the recent party meeting in Trincomalee.
-
-...
-
-[Data](articles/5b8f519b.json)
-
-[Extended Data](ext_articles/5b8f519b.ext.json)
-
----
-
-### Commenting on the media
-
-*2024-02-02 02:04:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஊடகங்களுக்கு-கருத்து-தெரிவித்தால்-உட்கட்சி-முரண்பாடுகள்-வரும்/150-332522) · `ta`
-
-The General Secretary has the authority to postpone the meeting. This is a legal issue and I know that he has written to the leader on what the meeting is on that basis.I also saw the letter.
-
-"I do not want to report further details in this regard," said R. Sanakiyan, a member of the Sri Lanka Tamil National Alliance (TNA).
-
-The Development Committee meeting for the Manmunai South Eruvilpattu area in Batticaloa district was held on Thursday (01) at the Divisional Secretariat Conference Hall in Kaluwanchikudi. He said this while responding to questions from journalists after attending.
-
-Former President of the Sri Lanka TNA. The general secretary has the powers relating to the holding and postponing party meetings. The second deputy secretary of parliament MA Sumanthiran was held in accordance with the party's Yap as the doctor Sathiyalingam, who served as the General Secretary in response to the recent party meeting in Trincomalee.
-
-...
-
-[Data](articles/8618b189.json)
-
-[Extended Data](ext_articles/8618b189.ext.json)
-
----
-
-### Sri Lanka private creditors said to be frustrated over lack of progress
-
-*2024-02-02 01:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-creditors-said-to-be-frustrated-over-lack-of-progress-149662/) · `en`
-
-ECONOMYNEXT – Some of Sri Lanka’s bondholders who were willing to negotiate a deal before a judgement was delivered in a case filed by holdout investor Hamilton Reserve, are frustrated at what is seen as no progress in discussions, sources familiar with their thinking said.
-
-While Hamilton Reserve has gone to court claiming to represent a 250 million dollar or 25 percent share in a billion-dollar bond with a so-called ‘single series’ collective action clause, a large majority of bondholders who have other bonds, have formed a committee to negotiate with Sri Lanka.
-
-Western governments including the US and France have asked that the court action be stayed until negotiations with other bondholders conclude, but prospects of a deal being concluded by the time the first deadline given by the court has now dimmed.
-
-It is not clear yet whether a second extension could be obtained from court.
-
-...
-
-[Data](articles/8fd03b65.json)
-
-[Extended Data](ext_articles/8fd03b65.ext.json)
 
 ---

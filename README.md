@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 12:17:15**
+As of **2024-02-02 12:33:03**
 
 ## Newspaper Stats
 
-*Scraped **4,305** Articles*
+*Scraped **4,309** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ newsfirstlk | 266
 dailyftlk | 272
 adalk | 382
 virakesarilk | 477
-adaderanasinhalalk | 512
+adaderanasinhalalk | 513
 adaderanalk | 536
-tamilmirrorlk | 548
+tamilmirrorlk | 551
 dailymirrorlk | 591
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,305 (100.0%) of 4,305 articles have been extended.
+4,305 (99.9%) of 4,309 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### ශිෂ්‍යත්ව ප්‍රතිඵල අනුව පාසල් සඳහා ඇතුළත්වීමේ කඩඉම් ලකුණු නිකුත් කෙරේ
+
+*2024-02-02 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192877) · `si`
+
+2023 වර්ෂයේ 5 ශ්‍රේණියේ ශිෂ්‍යත්ව ප්‍රතිඵල මත පාසල් සඳහා ඇතුළත්වීමේ කඩඉම් ලකුණු අද (02) දින නිකුත් කර තිබේ.
+
+පාසල් සඳහා තීරණය වු කඩඉම් ලකුණු පිළිබඳ තොරතුරු අධ්‍යාපන අමාත්‍යාංශ වෙබ් අඩවියෙන් http://www.moe.gov.lk ලබා ගත හැකිය.
+
+තවද, සිසුන්ට ලැබී ඇති පාසල් සම්බන්ධයෙන් 2024.02.05 දින සිට https://g6application.moe.gov.lk/#/   යන වෙබ් පිටුවට පිවිස පරීක්ෂා කර ගත හැකි බවද දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/9d47ac85.json)
+
+---
+
+### பாடாய் படுத்தும் பாண்: பார்த்து வாங்குங்கள்
+
+*2024-02-02 11:38:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடாய்-படுத்தும்-பாண்-பார்த்து-வாங்குங்கள்/175-332540) · `ta`
+
+ஒரு இறாத்தல் பாண் மற்றும் அரை இறாத்தல் பாணின் நிர்ணயிக்கப்பட்ட எடையைக் குறிப்பிடும் அதிவிசேட வர்த்தமானி அறிவித்தலை நுகர்வோர் விவகார அதிகார சபை வெளியிட்டுள்ளது.
+
+அதன்படி, ஒரு இறாத்தல் பாணியின் பரிந்துரைக்கப்பட்ட எடை 450 கிராமாக இருக்க வேண்டும் என்றும் அதன் மாறுபாடு 13.5 கிராமிற்கு குறையாமல் இருக்க வேண்டும் என குறித்த வர்த்தமானி அறிவித்தலில் குறிப்பிடப்பட்டுள்ளது.
+
+அரை இறாத்தல் பாணியின் பரிந்துரைக்கப்பட்ட எடை 225 கிராமாக இருக்க வேண்டும் எனவும் அதன் மாறுபாடு 09 கிராமுக்கு குறையாமல் இருக்க வேண்டும் எனவும் குறிப்பிடப்பட்டுள்ளது.
+
+இதேவேளை, விற்பனைக்கு காட்சிப்படுத்தப்படும் பாணியின் எடை தௌிவாக காணக்கூடிய வகையில் இருக்க வேண்டும் என நுகர்வோர் விவகார அதிகார சபை வௌியிட்டுள்ள வர்த்தமானி அறிவித்தலில் குறிப்பிடப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/d1f9fa4b.json)
+
+---
+
+### லிட்ரோ அதிரடி அறிவிப்பு
+
+*2024-02-02 11:31:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-அதிரடி-அறிவிப்பு/175-332539) · `ta`
+
+லிட்ரோ உள்நாட்டு எரிவாயுவின் விலை தொடர்பில் எரிவாயு நிறுவனத்தின் தலைவர் முதித பீரிஸ் சில நிமிடங்களுக்கு முன்னர் முக்கிய அறிவிப்பொன்றை விடுத்தார்.
+
+இதன்படி, லிட்ரோ உள்நாட்டு எரிவாயு சிலிண்டர்களின் மூன்று அளவுகளின் விலையும் கடந்த மாதத்தைப் போலவே இருக்கும் என்றும் அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/603977b0.json)
+
+---
 
 ### Gazette notification on burden of bread
 
@@ -1468,6 +1516,22 @@ Former President of the Sri Lanka TNA. The general secretary has the powers rela
 
 ---
 
+### ’ ஊடகங்களுக்கு கருத்து தெரிவித்தால் உட்கட்சி முரண்பாடுகள் வரும்’
+
+*2024-02-02 02:04:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஊடகங்களுக்கு-கருத்து-தெரிவித்தால்-உட்கட்சி-முரண்பாடுகள்-வரும்/150-332522) · `ta`
+
+கூட்டத்தை ஒத்தி வைப்பது தொடர்பான அதிகாரம் பதில் பொதுச் செயலாளருக்குத்தான் உள்ளது. இது ஒரு சட்ட ரீதியான விடயமாகும் அந்த அடிப்படையில் கூட்ட தீர்மானம் என்ன என்பது தொடர்பில் அவர் தலைவருக்கு கடிதம் எழுதியுள்ளதாக நான் அறிகின்றேன்.  அதற்குரிய கடிதத்தையும் நான் பார்த்திருந்தேன்.
+
+இந்த விடையம் தொடர்பில் ஊடகங்களுக்கு கருத்துக்கள் வழங்கினால்  உட்கட்சி முரண்பாடுகள் பல வரும் காரணமாக இதுதொடர்பில் மேலதிக விபரங்களை நான் தெரிவிக்க விரும்பவில்லை  என இலங்கைத் தமிழரசுக் கட்சியின் மட்டக்களப்பு பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன் தெரிவித்துள்ளார்.
+
+மட்டக்களப்பு மாவட்டம் மண்முனை தென் எருவில்பற்று பிரதேசத்திற்கான அபிவிருத்திக்குழுக் கூட்டம் களுவாஞ்சிகுடியில் அமைந்துள்ள பிரதேச செயலக மாநாட்டு மண்டபத்தில் வியாழக்கிழமை (01) நடைபெற்றது. இதன்போது கலந்து கொண்ட பின்னர் ஊடகவியலாளர்களின் கேள்விகளுக்குப் பதிலளிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/8618b189.json)
+
+---
+
 ### Sri Lanka private creditors said to be frustrated over lack of progress
 
 *2024-02-02 01:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-creditors-said-to-be-frustrated-over-lack-of-progress-149662/) · `en`
@@ -1941,87 +2005,5 @@ According to the visitors to Tickets.T20worldcup.com, the lovers have the opport
 [Data](articles/7ae9b1c9.json)
 
 [Extended Data](ext_articles/7ae9b1c9.ext.json)
-
----
-
-### Fort police governance was injured and hospitalized
-
-*2024-02-01 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192860) · `si`
-
-The OIC of the Fort police station has been admitted to the ground and hospitalized.
-
-The police say that the suspects have been ted the floor during a protest in front of the CID.
-
-The injured sub-inspector has been admitted to the Narahenpita Police Hospital for treatment.
-
-◼️
-
-[Data](articles/6fb17488.json)
-
-[Extended Data](ext_articles/6fb17488.ext.json)
-
----
-
-### Foreign employment racket heels
-
-*2024-02-01 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192859) · `si`
-
-Ada Derana Ukkasa was revealed about a racket that had been paid by the Minister of Foreign Employment.
-
-We assured us that this racket is a person who appeared as a Minister's Private Secretary to avoid the name of the Foreign Employment.
-
-Accordingly, a woman involved in the racket was attached by telephone.
-
-She said we are going to the place where we are interviewed by foreign employment in Colombo Fort along with a strategic.
-
-There we first meet the woman we have contacted us.
-
-The racketeer application is given to us to complete it.
-
-After confirmation of the racket, the officers of the Foreign Employment Bureau were raided.
-
-The disclosed was revealed that it was an illegal foreign employment agency that was not licensed.
-
-Ada Derana has a few people today to reveal such illegal acts in the future.
-
-◼️
-
-[Data](articles/87beec9a.json)
-
-[Extended Data](ext_articles/87beec9a.ext.json)
-
----
-
-### Central Bank has appointed 6 new assistant governors
-
-*2024-02-01 20:26:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்திய-வங்கி-6-புதிய-உதவி-ஆளுநர்களை-நியமித்துள்ளது/175-332508) · `ta`
-
-The Central Bank's ruling council has appointed six assistant governors to come into effect from January 22.
-
-◼️
-
-[Data](articles/b4b97d14.json)
-
-[Extended Data](ext_articles/b4b97d14.ext.json)
-
----
-
-### China executes couple for double child murder
-
-*2024-02-01 20:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/China-executes-couple-for-double-child-murder/108-276150) · `en`
-
-Feb 01, (BBC) - China has executed a couple for throwing two toddlers out of a high-rise apartment window, in a case that provoked nationwide outrage.
-
-The man and his girlfriend were found guilty of killing the children from his first marriage by staging an accidental fall from a residential tower in the southwestern metropolis of Chongqing, so that they could start a new family.
-
-The father, Zhang Bo, began an affair with Ye Chengchen and initially hid the fact that he was married with children, but Ye found out and Zhang divorced his wife, according to China’s supreme court.
-
-Ye saw Zhang’s two children as an “obstacle” to them getting married and a “burden on their future life together,” the court heard. She repeatedly urged Zhang to kill the toddlers and threatened to break up with him if he didn’t.
-
-...
-
-[Data](articles/e3869017.json)
-
-[Extended Data](ext_articles/e3869017.ext.json)
 
 ---

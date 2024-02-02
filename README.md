@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 13:51:35**
+As of **2024-02-02 14:02:21**
 
 ## Newspaper Stats
 
-*Scraped **4,335** Articles*
+*Scraped **4,336** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 269
 dailyftlk | 272
 adalk | 385
 virakesarilk | 482
-adaderanasinhalalk | 514
+adaderanasinhalalk | 515
 adaderanalk | 540
 tamilmirrorlk | 555
 dailymirrorlk | 595
@@ -26,11 +26,29 @@ dailymirrorlk | 595
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,335 (100.0%) of 4,335 articles have been extended.
+4,336 (100.0%) of 4,336 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### Here are the parts out of the tiktak
+
+*2024-02-02 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192879) · `si`
+
+The company has decided to remove all the songs issued under the Universal Musk Group's label, which circulate the Tiktok social network.
+
+It is due to the failure of the two companies to renew the agreement between the two companies.
+
+Accordingly, most of the famous songflies such as Taylor Swift, Drake and Olives Rodrigo will no longer see in the Tiktok network.
+
+◼️
+
+[Data](articles/6901cbcd.json)
+
+[Extended Data](ext_articles/6901cbcd.ext.json)
+
+---
 
 ### Two arrested for abuse of an American girl
 
@@ -2023,25 +2041,5 @@ The March 12 movement is very concerned that the Parliament has acted out by vio
 [Data](articles/eb3362e0.json)
 
 [Extended Data](ext_articles/eb3362e0.ext.json)
-
----
-
-### The referendum is essential
-
-*2024-02-02 02:13:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வஜன-வாக்கெடுப்பு-அவசியம்/175-332523) · `ta`
-
-Sri Lanka Muslim Congress leader Rauf Hakeem on Tuesday (30) argued in the Supreme Court that a two -thirds majority in Parliament is necessary to make it legal because it is completely contrary to the constitution by the anti -terrorism law.
-
-The Muslim Congress leader was taken in the Supreme Court on the day of the SD.Sc.No.27.24, filed by the party's Secretary of State Attorney Nizam Kariyapper on behalf of the Sri Lanka Muslim Congress (SLMC) on the Anti Terrorism Bill.Mudumani Rauf Hakeem himself put the arguments.
-
-The case was taken up in the presence of a panel of judges, headed by Chief Justice Jayantha Jayasuriya, Judges Vijith Malgoda, AHM Nawaz, Shiran Gunaratne and Aruna Obayososkera.. Different 36 petitions were filed.
-
-This proposed Bill is going to create a Poor Liz Kingdom. There is a risk of terrible and intimidation, and as a result of their mobilization of young people. When we get older, we have to leave a footpath in a way that can live with the law and live the good.
-
-...
-
-[Data](articles/9a0b1189.json)
-
-[Extended Data](ext_articles/9a0b1189.ext.json)
 
 ---

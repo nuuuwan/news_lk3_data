@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 08:02:02**
+As of **2024-02-02 08:17:15**
 
 ## Newspaper Stats
 
-*Scraped **4,262** Articles*
+*Scraped **4,264** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 50
-bbccomsinhala | 64
+bbccomsinhala | 65
 dbsjeyarajcom | 132
 islandlk | 230
 economynextcom | 239
 newsfirstlk | 265
 dailyftlk | 272
-adalk | 378
+adalk | 379
 virakesarilk | 469
 adaderanasinhalalk | 504
 adaderanalk | 529
@@ -26,43 +26,47 @@ dailymirrorlk | 585
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,253 (99.8%) of 4,262 articles have been extended.
+4,262 (100.0%) of 4,264 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
 
-### CIDயில் கெஹெலிய ரம்புக்வெல்ல இன்று முன்னிலை
+### Keheliya Rambukwella in CID today
 
 *2024-02-02 07:36:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CIDயில்-கெஹெலிய-ரம்புக்வெல்ல-இன்று-முன்னிலை/175-332530) · `ta`
 
-முன்னாள் சுகாதார அமைச்சர் கெஹெலிய ரம்புக்வெல்ல குற்றப் புலனாய்வு திணைக்களத்தில் இன்று முன்னிலையாகவுள்ளார்.
+Former Health Minister Keheliya Rambukwella will be present at the Criminal Investigation Department today.
 
-நாட்டுக்கு 22,500 தரமற்ற தடுப்பூசி குப்பிகளை இறக்குமதி செய்த சம்பவம் தொடர்பில் வாக்குமூலத்தை பெற்றுக்கொள்வதற்காக அவர் நேற்று அங்கு அழைக்கப்பட்டிருந்தார்.
+He was summoned yesterday to obtain a confession regarding the importation of 22,500 non -standard vaccines to the country.
 
-எனினும் அவர் குற்றப்புலனாய்வு திணைக்களத்திற்கு சமூகமளித்திருக்கவில்லை. இந்தநிலையில், அவரை இன்றைய தினம் குற்றப்புலனாய்வு திணைக்களத்தில் முன்னிலையாகி வாக்குமூலத்தை வழங்குமாறு மாளிகாகந்தை நீதவான் நீதிமன்றம் உத்தரவிட்டது.
+However, he has not been accompanied by the Criminal Investigation Department. In the meantime, the Malakkanda Magistrate's Court has ordered him to appear before the Criminal Investigation Department today.
 
-இதேவேளை, சுற்றாடல்துறை அமைச்சர் கெஹெலிய ரம்புக்வெல்லவுக்கு வெளிநாட்டு பயணத் தடையும் விதிக்கப்பட்டுள்ளது. (N)
+Meanwhile, Environment Minister Keheliya Rambukwella has also been imposed on foreign travel ban.. (Of)
 
 ◼️
 
 [Data](articles/d3471ad3.json)
 
+[Extended Data](ext_articles/d3471ad3.ext.json)
+
 ---
 
-### காலநிலையில் ஏற்பட்டுள்ள மாற்றம்
+### Climate change
 
 *2024-02-02 07:23:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலநிலையில்-ஏற்பட்டுள்ள-மாற்றம்/175-332529) · `ta`
 
-நாட்டின் சில பகுதிகளில் மழையுடனான காலநிலை நிலவும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+The Department of Meteorology has forecast rainy weather in some parts of the country.
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் பொலன்னறுவை, முல்லைத்தீவு, மாத்தளை மற்றும் நுவரெலியா ஆகிய மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக்கூடும்.
+Rainfall is expected in the Eastern and Uva provinces and the districts of Polonnaruwa, Mullaitivu, Matale and Nuwara Eliya.
 
-மேல், சபரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் காலி, மாத்தறை மற்றும் கண்டி மாவட்டங்களிலும் பிற்பகல் 2 மணிக்கு பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது. (N)
+The Department of Meteorology has announced that rain or thunderstorms will occur at Galle, Matara and Kandy at 2 pm. (Of)
 
 ◼️
 
 [Data](articles/da8e776e.json)
+
+[Extended Data](ext_articles/da8e776e.ext.json)
 
 ---
 
@@ -101,6 +105,8 @@ Ravi Kumudesh, President of the Joint Council for Professions of Supplementary M
 ...
 
 [Data](articles/95c1308b.json)
+
+[Extended Data](ext_articles/95c1308b.ext.json)
 
 ---
 
@@ -159,6 +165,8 @@ However, Shah was quick to rule out any radical move to reduce employment in the
 ...
 
 [Data](articles/50105a3a.json)
+
+[Extended Data](ext_articles/50105a3a.ext.json)
 
 ---
 
@@ -305,6 +313,8 @@ He said SriLankan’s on-time performance was better than the average of the One
 ...
 
 [Data](articles/e01234ac.json)
+
+[Extended Data](ext_articles/e01234ac.ext.json)
 
 ---
 
@@ -498,51 +508,59 @@ The party was forced to issue a clarification after images depicting Ratnayake i
 
 ---
 
-### கட்டுதுவக்கு வெடித்ததில் பொலிஸ் உத்தியோத்தர் காயம்
+### Police officer injured in bursting
 
 *2024-02-02 04:12:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுதுவக்கு-வெடித்ததில்-பொலிஸ்-உத்தியோத்தர்-காயம்/175-332527) · `ta`
 
-கிளிநொச்சி தர்மபுரம் பகுதியில் கசிப்பு உற்பத்தியில் ஈடுபட்டவரைப் பிடிக்க முற்பட்ட பொலிஸ் உத்தியோகத்தர் ஒருவர் கட்டு துப்பாக்கி வெடித்ததில் காயமடைந்துள்ளார்.
+A police officer who attempted to catch a leak man who was involved in a leak manner in Kilinochchi has been injured in a gunfight.
 
-கிளிநொச்சி தர்மபுரம் பொலிஸ் நிலையத்தில் கடமையாற்றும் பொலிஸ் உத்தியோகத்தர் ஒருவரே இவ்வாறு காயமடைந்த நிலையில் கிளிநொச்சி மாவட்ட வைத்தியசாலையில் சேர்க்கப்பட்டுள்ளார்.
+A police officer working at the Dharmapuram police station in Kilinochchi has been admitted to the Kilinochchi District Hospital after being injured.
 
 ◼️
 
 [Data](articles/04a8ddd0.json)
 
+[Extended Data](ext_articles/04a8ddd0.ext.json)
+
 ---
 
-### இன்றும் பணிப்புறக்கணிப்பு
+### Workplace still today
 
 *2024-02-02 03:29:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பணிப்புறக்கணிப்பு/175-332526) · `ta`
 
-72 சுகாதார தொழிற்சங்கத்தினர் முன்னெடுத்து வரும் பணிப்புறக்கணிப்பை இன்றைய தினமும் தொடர்வதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+It has been decided to continue the workshop on the upcoming 72 health union.
 
-சுகாதார அமைச்சின் அதிகாரிகளுடன் இடம்பெற்ற கலந்துரையாடலில் இணக்கப்பாடு ஏற்படாததை அடுத்து, இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது என சுகாதார தொழிற்சங்கத்தினர் அறிவித்துள்ளனர்.
+Health union has announced that the decision has been taken following the lack of compliance with the officials of the Ministry of Health.
 
-வைத்தியர்களுக்கு வழங்கப்படவுள்ள 35 ஆயிரம் ரூபா போக்குவரத்து கொடுப்பனவை தமக்கும் வழங்க வேண்டும் எனக் கோரி சுகாதார தொழிற்சங்கத்தினர் நேற்று பணிப்புறக்கணிப்பை முன்னெடுத்தனர்.
+The health trade unions yesterday launched the workplace demanding that the 35 thousand rupees of transportation be paid to the doctors.
 
-இதன் காரணமாக, நாடளாவிய ரீதியில் உள்ள வைத்தியசாலைகளில் இராணுவத்தினர் சேவையில் ஈடுபடுத்தப்பட்டிருந்தார். (a)
+Because of this, he was deployed in the army in hospitals across the country. (A)
 
 ◼️
 
 [Data](articles/64708479.json)
 
+[Extended Data](ext_articles/64708479.ext.json)
+
 ---
 
-### ’ஜனாதிபதி தொடர்பான குற்றச்சாட்டுகள் ஆதாரமற்றவை’
+### The allegations of the president's president are unfounded
 
 *2024-02-02 02:55:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தொடர்பான-குற்றச்சாட்டுகள்-ஆதாரமற்றவை/175-332525) · `ta`
 
-ஜனாதிபதியின் வெளிநாட்டு சுற்றுப் பயணங்கள் தொடர்பில் சிலரால் முன்வைக்கப்படும் குற்றச்சாட்டுக்கள் ஆதாரமற்றவை என வெளிநாட்டலுவல்கள் இராஜாங்க அமைச்சர் தாரக்க பாலசூரிய தெரிவித்தார்.
+Foreign Affairs Minister Taraka Balasuriya said the allegations made by some on the president's foreign tour were unfounded.
 
-இலங்கை தனிமைப்படுத்தப்பட்ட தீவாக இருக்க முடியாதெனவும்,  நாட்டை அபிவிருத்தியை நோக்கி இட்டுச் செல்ல வேண்டுமாயின் வெளிநாட்டு தொடர்புகளை பலப்படுத்திக்கொள்வதும், புதிய வெளிநாட்டு உறவுளை ஏற்படுத்தகொள்வதும் அவசியம் எனத் தெரிவித்த அவர், அதற்காக வெளிநாட்டுச் சுற்றுப்பயணங்கள் முக்கியமானதாகும் என்றும் சுட்டிக்காட்டினார்.
+He pointed out that Sri Lanka cannot be an isolated island and that it is necessary to strengthen foreign relations and establish a new foreign relationship if it is to lead the country to development, he pointed out that foreign tours are important for it.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+He said this at a media briefing held at the Presidential Media Center yesterday.
+
+"The criticism of the president's foreign tour is unfounded. Participating in these international conferences can strengthen the links between us and the world countries and make new contacts.. Political leaders will be able to strengthen the development activities with traders and investors in consultation with the private sector.
 
 ...
 
 [Data](articles/e17daa4f.json)
+
+[Extended Data](ext_articles/e17daa4f.ext.json)
 
 ---
 
@@ -663,6 +681,28 @@ Former President of the Sri Lanka TNA. The general secretary has the powers rela
 [Data](articles/5b8f519b.json)
 
 [Extended Data](ext_articles/5b8f519b.ext.json)
+
+---
+
+### දේශපාලනයේ කාන්තා නියෝජනය : සැමියන්, පියවරුන්, සහෝදරයන් මියයාමෙන් පසු  ජාතික දේශපාලනයට පිවිසුණු කාන්තාවෝ
+
+*2024-02-02 01:50:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cldq5klpl20o) · `si`
+
+දේශපාලනයේ කාන්තා නියෝජනය : සැමියන්, පියවරුන්, සහෝදරයන් මියයාමෙන් පසු  ජාතික දේශපාලනයට පිවිසුණු කාන්තාවෝ
+
+නියෝජිත ප්‍රජාතන්ත්‍රවාදය ක්‍රියාත්මක වන ඇතැම් රටවල් මුහුණ දී තිබෙන ප්‍රධාන ප්‍රශ්නයක් වන්නේ ජනගහනයට සාපේක්ෂව කාන්තා මහජන නියෝජිතවරියන් දේශපාලනය තුළ නියෝජනය නොවීමය.
+
+යුරෝපය සහ එක්සත් ජනපදය වැනි රටවල් මේ සම්බන්ධයෙන් යම් ප්‍රගතියක් අත් කරගෙන තිබෙන නමුත්, අප්‍රිකානු හා ආසියානු රටවල් තවමත් මෙම ගැටලුවට මුහුණ දෙමින් සිටියි.
+
+ස්වාධීන කාන්තාවකට දේශපාලනයට පැමිණ ජාතික තලය දක්වා පිවිසීමට දැවැන්ත බාධක රැසක් ඇති දකුණු ආසියානු කලාපය යනු කාන්තාවන් රාජ්‍ය නායකයන් ලෙස පත් වූ පළමු රටවල් වීම ද විශේෂත්වයකි.
+
+එවැනි අවස්ථා තිබියදීත් තවමත් කාන්තාවන් දේශපාලනයට පැමිණීම මෙම රටවල්වල සැලකිය යුතු තරම් අඩු මට්ටමක පවතින්නේ ඇයි?
+
+එහිදී නිරීක්ෂණය කළ හැකි එක් කරුණක් වන්නේ  ආරම්භයේ පටන් වර්තමානය දක්වා දකුණු ආසියානු රටවල් වල ජාතික තලයේ සාර්ථක වූ හෝ දැවැන්ත චරිත ලෙසින් ඉස්මතුව ඇති බහුතරයක් කාන්තාවන් සිය සැමියා, පියා හෝ පිරිමි සහෝදරයන් මිය යාමෙන් පසුව ඔවුන් වෙනුවට ඔවුන්ගේ බලය පවත්වාගෙන යාමට පැමිණි අයවලුන්  වීමයි.
+
+...
+
+[Data](articles/629e9680.json)
 
 ---
 
@@ -954,6 +994,8 @@ Earlier this week, Reyaz Mihular stepped down from his position as Chairman aft
 
 [Data](articles/a53c3391.json)
 
+[Extended Data](ext_articles/a53c3391.ext.json)
+
 ---
 
 ### Sri Lanka face Afghanistan in historic Test
@@ -1175,6 +1217,30 @@ Ye saw Zhang’s two children as an “obstacle” to them getting married and a
 [Data](articles/e3869017.json)
 
 [Extended Data](ext_articles/e3869017.ext.json)
+
+---
+
+### දයා ඇවිත් ගියේ නැතිලු
+
+*2024-02-01 20:04:50* · [`adalk`](https://www.ada.lk/breaking_news/දයා-ඇවිත්-ගියේ-නැතිලු/11-407862) · `si`
+
+සමගි ජන බලවේගය සමග එක් වූ හිටපු යුද හමුදාපති දයා රත්නායක මහතා මව්බිම ජනතා පක්ෂය සමග එකතු වූ බවට වන පුවත අසත්‍ය පුවතක් බව  සමගි ජන බලවේගයේ ජනාධිපතිවරණ මෙහෙයුම් ප්‍රධානී සුජීව සේනසිංහ මහතා නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+
+විවිධ පාර්ශ්ව සමගි ජන බලවේගය සමග ඒකරාශී වීමේදී මෙවැනි අසත්‍ය ප්‍රචාර ඉදිරියේදීද සිදු විය හැකි බව එහි සඳහන් කර තිබේ.
+
+අදාළ නිවේදනයේ වැඩිදුරටත් සුජීව සේනසිංහ මහතා මෙලෙස සඳහන් කර ඇත.
+
+'සමගි ජන බලවේගය සමග එකතු වූ හිටපු යුද හමුදාපති දයා රත්නායක මහතා මව්බිම ජනතා පක්ෂය සමග එකතු වූවා යැයි හැ‌‌ෙඟන ප්‍රවෘත්තියක් සමාජ මාධ්‍ය ජාලා හරහා සංසරණය වෙමින් පවති.
+
+මෙය අසත්‍ය පුවතක් වන අතර එවැනි සිදුවීමක් සිදු වී නොමැති බව අවධාරණය කරමු.
+
+සමගි ජන බලවේගය ශක්තිමත් කිරීම සඳහා විවිධ පාර්ශ්ව ඒකරාශීවීම තුළ මෙවැනි අසත්‍ය ප්‍රචාර ඉදිරියේදී ද සිදු විය හැක. ඒ පිළිබඳව අපි දැඩි අවධානයෙන් පසුවෙමු.
+
+මෙවැනි ඡායාරූප පළ කිරීමට පෙර අදාළ පාර්ශ්වයක් ජනරාල් දයා රත්නායක මහතා විමසා කටයුතු කළේ නම් එය යහපත් මාධ්‍ය භාවිතයක් බවද පෙන්වා දෙනු කැමැත්තෙමි.'
+
+◼️
+
+[Data](articles/73262e63.json)
 
 ---
 
@@ -1969,45 +2035,5 @@ Accordingly, the price of Petrol 92 Octane has been increased by Rs. 05 to Rs. 3
 [Data](articles/e3212232.json)
 
 [Extended Data](ext_articles/e3212232.ext.json)
-
----
-
-### Notice of bus fares
-
-*2024-02-01 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192847) · `si`
-
-The National Transport Commission says that the bus fare will not be increased compared to the increase in diesel.
-
-◼️
-
-[Data](articles/8a9e9101.json)
-
-[Extended Data](ext_articles/8a9e9101.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 313.25/50 to the US dollar
-
-*2024-02-01 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-313-25-50-to-the-us-dollar-149651/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 313.25/50 to the US dollar on Thursday, from 315.50/70 the previous day, dealers said.
-
-A bond maturing on 01.02.2026 closed down at 12.20/35 percent from 12.10/25 percent.
-
-A bond maturing on 15.09.2027 closed at 12.80/13.00 percent from 12.70/80 percent.
-
-A bond maturing on 15.03.2028 closed at 13.10/15 percent from 12.85/13.00 percent.
-
-A bond maturing on 15.07.2029 closed at 13.20/35 percent from 12.95/13.15 percent.
-
-A bond maturing on 15.05.2030 closed at 13.20/35 percent from 13.30/50 percent.
-
-A bond maturing on 01.07.2032 closed at 13.45/60 percent from 13.40/60 percent. (Colombo/Feb1/2024)
-
-◼️
-
-[Data](articles/94292095.json)
-
-[Extended Data](ext_articles/94292095.ext.json)
 
 ---

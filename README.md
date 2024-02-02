@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 07:53:24**
+As of **2024-02-02 08:02:02**
 
 ## Newspaper Stats
 
-*Scraped **4,253** Articles*
+*Scraped **4,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 378
 virakesarilk | 469
 adaderanasinhalalk | 504
 adaderanalk | 529
-tamilmirrorlk | 540
-dailymirrorlk | 581
+tamilmirrorlk | 545
+dailymirrorlk | 585
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,253 (100.0%) of 4,253 articles have been extended.
+4,253 (99.8%) of 4,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### CIDயில் கெஹெலிய ரம்புக்வெல்ல இன்று முன்னிலை
+
+*2024-02-02 07:36:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CIDயில்-கெஹெலிய-ரம்புக்வெல்ல-இன்று-முன்னிலை/175-332530) · `ta`
+
+முன்னாள் சுகாதார அமைச்சர் கெஹெலிய ரம்புக்வெல்ல குற்றப் புலனாய்வு திணைக்களத்தில் இன்று முன்னிலையாகவுள்ளார்.
+
+நாட்டுக்கு 22,500 தரமற்ற தடுப்பூசி குப்பிகளை இறக்குமதி செய்த சம்பவம் தொடர்பில் வாக்குமூலத்தை பெற்றுக்கொள்வதற்காக அவர் நேற்று அங்கு அழைக்கப்பட்டிருந்தார்.
+
+எனினும் அவர் குற்றப்புலனாய்வு திணைக்களத்திற்கு சமூகமளித்திருக்கவில்லை. இந்தநிலையில், அவரை இன்றைய தினம் குற்றப்புலனாய்வு திணைக்களத்தில் முன்னிலையாகி வாக்குமூலத்தை வழங்குமாறு மாளிகாகந்தை நீதவான் நீதிமன்றம் உத்தரவிட்டது.
+
+இதேவேளை, சுற்றாடல்துறை அமைச்சர் கெஹெலிய ரம்புக்வெல்லவுக்கு வெளிநாட்டு பயணத் தடையும் விதிக்கப்பட்டுள்ளது. (N)
+
+◼️
+
+[Data](articles/d3471ad3.json)
+
+---
+
+### காலநிலையில் ஏற்பட்டுள்ள மாற்றம்
+
+*2024-02-02 07:23:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலநிலையில்-ஏற்பட்டுள்ள-மாற்றம்/175-332529) · `ta`
+
+நாட்டின் சில பகுதிகளில் மழையுடனான காலநிலை நிலவும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் பொலன்னறுவை, முல்லைத்தீவு, மாத்தளை மற்றும் நுவரெலியா ஆகிய மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக்கூடும்.
+
+மேல், சபரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் காலி, மாத்தறை மற்றும் கண்டி மாவட்டங்களிலும் பிற்பகல் 2 மணிக்கு பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது. (N)
+
+◼️
+
+[Data](articles/da8e776e.json)
+
+---
 
 ### Dayasiri revealed about Maithri's alliance
 
@@ -47,6 +81,26 @@ The MP further stated that no political party has been confident of Maithripala 
 [Data](articles/92f38c3c.json)
 
 [Extended Data](ext_articles/92f38c3c.ext.json)
+
+---
+
+### Health strike brings people to their knees
+
+*2024-02-02 07:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-strike-brings-people-to-their-knees/108-276154) · `en`
+
+Colombo, Feb 01 (Daily Mirror) -  The healthcare services across the country were hampered as health workers resorted to strike action from yesterday (1).
+
+The strike was initiated at 6:30 a.m. by at least 72 trade unions within the health sector in protest of the government’s refusal to grant Disturbance, Availability, and Transport (DAT) allowance of Rs. 35,000 to the professionals.
+
+The trade union action unfolded across all government hospitals, drawing attention to the concerns of supplementary medical professionals who feel overlooked in the government’s recent decision-making.
+
+As such, patients within hospitals expressed their distress, citing inconveniences resulting from the disruption in healthcare services.
+
+Ravi Kumudesh, President of the Joint Council for Professions of Supplementary Medicine, voiced strong opposition to the Cabinet’s choice to abstain from increasing the DAT allowance for health professionals.
+
+...
+
+[Data](articles/95c1308b.json)
 
 ---
 
@@ -85,6 +139,26 @@ The public requests the public to take steps to reduce the damages caused by tem
 [Data](articles/9af0af30.json)
 
 [Extended Data](ext_articles/9af0af30.ext.json)
+
+---
+
+### Efficient public sector operations possible with fully digitalized workforce of 200,000: Suresh Shah
+
+*2024-02-02 06:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Efficient-public-sector-operations-possible-with-fully-digitalized-workforce-of-200-000-Suresh-Shah/108-276176) · `en`
+
+The public sector can smoothly run with a workforce as low as 200,000 persons through digitalization, against the current public sector workforce of 1.3 million, according to the Head of State-Owned Enterprises Restructuring Unit (SOERU) Suresh Shah.
+
+He noted that even without digitalization, the public sector workforce can be cut by half and the public services can be maintained efficiently.
+
+Sri Lanka’s bloated public sector shrunk by 135,000 to 1.393 million by the end of 2022 from 1.401 million in 2021 and from 1.528 million in 2020 as the government started to reduce the excess cadre while freezing recruits.
+
+Shah claimed that if the public service is fully digitalized, the public sector cadre could be brought down to 200,000 people.
+
+However, Shah was quick to rule out any radical move to reduce employment in the public sector.
+
+...
+
+[Data](articles/50105a3a.json)
 
 ---
 
@@ -211,6 +285,26 @@ The Central Bank announced yesterday that the Governing Board, at its meeting he
 [Data](articles/f67eb904.json)
 
 [Extended Data](ext_articles/f67eb904.ext.json)
+
+---
+
+### SriLankan Airlines CEO points to technical woes, spare part delays
+
+*2024-02-02 05:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SriLankan-Airlines-CEO-points-to-technical-woes-spare-part-delays/155-276155) · `en`
+
+Colombo, Feb 01 (Daily Mirror) -  Chief Executive Officer (CEO) of SriLankan Airlines Richard Nuttall, who responded to concerns over flight delays, said though the delays were in line with the world averages, there are more delays than used to be because of technical issues.
+
+He said it is common for every airline to have delays but whenever there is a delay here, people tend to report it as it is the end of the world.
+
+“Every airline has flight delays. If Qatar Airways has a flight delay, it is not reported in the press in Qatar,” he said.
+
+He said SriLankan’s on-time performance was better than the average of the Oneworld carriers.
+
+“Every time I have an AOG (Aircraft on Ground), everything about the ability of that aircraft to fly again is governed by very strict manuals and checks and balances.
+
+...
+
+[Data](articles/e01234ac.json)
 
 ---
 
@@ -401,6 +495,54 @@ The party was forced to issue a clarification after images depicting Ratnayake i
 [Data](articles/dfb01634.json)
 
 [Extended Data](ext_articles/dfb01634.ext.json)
+
+---
+
+### கட்டுதுவக்கு வெடித்ததில் பொலிஸ் உத்தியோத்தர் காயம்
+
+*2024-02-02 04:12:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுதுவக்கு-வெடித்ததில்-பொலிஸ்-உத்தியோத்தர்-காயம்/175-332527) · `ta`
+
+கிளிநொச்சி தர்மபுரம் பகுதியில் கசிப்பு உற்பத்தியில் ஈடுபட்டவரைப் பிடிக்க முற்பட்ட பொலிஸ் உத்தியோகத்தர் ஒருவர் கட்டு துப்பாக்கி வெடித்ததில் காயமடைந்துள்ளார்.
+
+கிளிநொச்சி தர்மபுரம் பொலிஸ் நிலையத்தில் கடமையாற்றும் பொலிஸ் உத்தியோகத்தர் ஒருவரே இவ்வாறு காயமடைந்த நிலையில் கிளிநொச்சி மாவட்ட வைத்தியசாலையில் சேர்க்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/04a8ddd0.json)
+
+---
+
+### இன்றும் பணிப்புறக்கணிப்பு
+
+*2024-02-02 03:29:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பணிப்புறக்கணிப்பு/175-332526) · `ta`
+
+72 சுகாதார தொழிற்சங்கத்தினர் முன்னெடுத்து வரும் பணிப்புறக்கணிப்பை இன்றைய தினமும் தொடர்வதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+
+சுகாதார அமைச்சின் அதிகாரிகளுடன் இடம்பெற்ற கலந்துரையாடலில் இணக்கப்பாடு ஏற்படாததை அடுத்து, இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது என சுகாதார தொழிற்சங்கத்தினர் அறிவித்துள்ளனர்.
+
+வைத்தியர்களுக்கு வழங்கப்படவுள்ள 35 ஆயிரம் ரூபா போக்குவரத்து கொடுப்பனவை தமக்கும் வழங்க வேண்டும் எனக் கோரி சுகாதார தொழிற்சங்கத்தினர் நேற்று பணிப்புறக்கணிப்பை முன்னெடுத்தனர்.
+
+இதன் காரணமாக, நாடளாவிய ரீதியில் உள்ள வைத்தியசாலைகளில் இராணுவத்தினர் சேவையில் ஈடுபடுத்தப்பட்டிருந்தார். (a)
+
+◼️
+
+[Data](articles/64708479.json)
+
+---
+
+### ’ஜனாதிபதி தொடர்பான குற்றச்சாட்டுகள் ஆதாரமற்றவை’
+
+*2024-02-02 02:55:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தொடர்பான-குற்றச்சாட்டுகள்-ஆதாரமற்றவை/175-332525) · `ta`
+
+ஜனாதிபதியின் வெளிநாட்டு சுற்றுப் பயணங்கள் தொடர்பில் சிலரால் முன்வைக்கப்படும் குற்றச்சாட்டுக்கள் ஆதாரமற்றவை என வெளிநாட்டலுவல்கள் இராஜாங்க அமைச்சர் தாரக்க பாலசூரிய தெரிவித்தார்.
+
+இலங்கை தனிமைப்படுத்தப்பட்ட தீவாக இருக்க முடியாதெனவும்,  நாட்டை அபிவிருத்தியை நோக்கி இட்டுச் செல்ல வேண்டுமாயின் வெளிநாட்டு தொடர்புகளை பலப்படுத்திக்கொள்வதும், புதிய வெளிநாட்டு உறவுளை ஏற்படுத்தகொள்வதும் அவசியம் எனத் தெரிவித்த அவர், அதற்காக வெளிநாட்டுச் சுற்றுப்பயணங்கள் முக்கியமானதாகும் என்றும் சுட்டிக்காட்டினார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/e17daa4f.json)
 
 ---
 
@@ -795,6 +937,22 @@ Earlier this week, Reyaz Mihular stepped down from his position as Chairman aft
 [Data](articles/40ae4d22.json)
 
 [Extended Data](ext_articles/40ae4d22.ext.json)
+
+---
+
+### Sri Lanka Telecom announces second leadership transition in seven months
+
+*2024-02-01 21:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Telecom-announces-second-leadership-transition-in-seven-months/108-276153) · `en`
+
+Sri Lanka Telecom has seen its leadership change for the second time in about seven months with the entity affirming the appointment of a new Chairman.
+
+The stressed state-owned telco, which has been making headlines this week for the changes in its Board, disclosed to the Colombo Stock Exchange (CSE) that upon the review and recommendation of the Nominations and Governance Committee, A.K.D.D.D. Arandara has been appointed as a Non-Independent Non-Executive Director and Chairman with effect from 1 February.
+
+Earlier this week, Reyaz Mihular stepped down from his position as Chairman after the government said it would reconstitute the SLT Board. The decision was due to the latter refusing to withdraw the case against the proposed merger between industry leader Dialog Axiata and Airtel.
+
+◼️
+
+[Data](articles/a53c3391.json)
 
 ---
 
@@ -1851,189 +2009,5 @@ A bond maturing on 01.07.2032 closed at 13.45/60 percent from 13.40/60 percent. 
 [Data](articles/94292095.json)
 
 [Extended Data](ext_articles/94292095.ext.json)
-
----
-
-### Declaration from the Maha leader of Social Media
-
-*2024-02-01 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192846) · `si`
-
-The General Leader of the Malwatte Sumana Sumana Sumanawa says that the introduction of law is not wrong to controll the various insults on social media for a long time.
-
-The Thera said this at the time of the general leader of the International Human Rights Council today (01).
-
-Speaking further the General Leader added that he had been insulting on the social media over no basis.
-
-The Maha leader added that the persons using social media should be able to use it without interruption.
-
-He said that if the government is going to regulate social media without political goals, he says.
-
-◼️
-
-[Data](articles/7c3ab899.json)
-
-[Extended Data](ext_articles/7c3ab899.ext.json)
-
----
-
-### British High Commission
-
-*2024-02-01 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/175331) · `ta`
-
-British High Commissioner to Sri Lanka Andrew Petric has met with Sreedharan, the new leader of the Tamil party.
-
-The British High Commissioner mentioned the meeting on his X (X) site,
-
-The meeting with Sreedharan, who was elected as the leader of the Sri Lankan Tamil party, was a useful.
-
-He said that we both discussed the key issues within the Tamil community in the North and East.
-
-◼️
-
-[Data](articles/27e5f291.json)
-
-[Extended Data](ext_articles/27e5f291.ext.json)
-
----
-
-### Nine Activists Released on Bail After Protest Demanding Ex-Minister’s Arrest
-
-*2024-02-01 17:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/nine-activists-released-on-bail-after-protest-demanding-ex-minister-s-arrest/) · `en`
-
-COLOMBO (News 1st); Nine activists were released on bail after being arrested during a protest outside the Criminal Investigation Department (CID) in Colombo.
-
-The activists, who were among a group of ten demonstrating, were demanding the arrest of former Health Minister Keheliya Rambukwella in connection with an alleged human immunoglobulin drug scandal.
-
-The protestors were arrested on Wednesday (31) while gathered outside the CID headquarters, and they were producued to the Fort Magistrate's Court on Thursday (1).
-
-However, one member, Sanjay Mahawatta, was not brought before the court due to hospitalization.
-
-The protest stemmed from ongoing investigations into the procurement of human immunoglobulin.
-
-Face The Nation | Freedom Lost or Freedom Gained | 31st January 2024
-
-The People’s Platform | Conversations From The Galle Literary Festival | Christina Lamb
-
-Nine Activists Released on Bail After Protest Demanding Ex-Minister’s Arrest
-
-◼️
-
-[Data](articles/b2257322.json)
-
-[Extended Data](ext_articles/b2257322.ext.json)
-
----
-
-### Daily food for state school students
-
-*2024-02-01 16:59:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-பாடசாலை-மாணவர்களுக்கு-தினசரி-உணவு/175-332490) · `ta`
-
-Minister of Education Susil Premajayantha said that children from Grade 1 to Grade 5 will be provided with daily food from March.
-
-The Minister said that the government would cost Rs 1600 crore for the project and that a child must spend 110 rupees per day.
-
-◼️
-
-[Data](articles/3435da5f.json)
-
-[Extended Data](ext_articles/3435da5f.ext.json)
-
----
-
-### Sri Lanka, Australia to collaborate on strengthening governance, market systems development
-
-*2024-02-01 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96922/sri-lanka-australia-to-collaborate-on-strengthening-governance-market-systems-development) · `en`
-
-Sri Lanka and Australia have signed two subsidiary arrangements aimed at collaborating on strengthening governance and expanding cooperation in market systems development.
-
-In a media release, the Australian High Commission in Colombo said a 10-year subsidiary arrangement that commits an initial AUD 30 million (LKR 6.3 billion) over five years to support improved governance in Sri Lanka.
-
-Through a suite of programs, the arrangement supports the Sri Lankan government, nonprofit institutions and civil society to improve evidence-based policy and decision-making, deliver better services for communities, and increase the voice and agency of marginalised groups, including women.
-
-Lead delivery partners include the World Bank, The Asia Foundation, and International Foundation of Electoral Systems. The program will also support twinning arrangements between Australian and Sri Lankan institutions.
-
-...
-
-[Data](articles/ce84a656.json)
-
-[Extended Data](ext_articles/ce84a656.ext.json)
-
----
-
-### PMD Weighs in on IGP Appointment Debate
-
-*2024-02-01 16:50:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/01/pmd-weighs-in-on-igp-appointment-debate/) · `en`
-
-COLOMBO (News 1st); The President's Media Division releases statement on the powers of the Constitutional Council and President, especially regarding the appointment of the Inspector General of Police.
-
-The President's Media Division issued a statement titled 'Performance of the Constitutional Duties of the President and the Constitutional Council'
-
-The statement noted that the Constitutional Council, which is chaired by the Speaker of Parliament and established under the Constitution has been empowered to assist the President in the making of certain decisions and is part of the Executive.
-
-It also noted that any restraint placed on the President in the performance of his Constitutional duty would be in contravention of the Constitution.
-
-...
-
-[Data](articles/5deba796.json)
-
-[Extended Data](ext_articles/5deba796.ext.json)
-
----
-
-### Sri Lanka stocks close up, 1bn turnover
-
-*2024-02-01 16:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-1bn-turnover-149646/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The All Share Price Index was up 0. 63 percent, or 64.57 points, at 10,375.
-
-The S&P SL20 index was up 1.27 percent, or 36.82 points, at 2,933.
-
-Turnover was at 1.1 billion. Trading in LB Finance Plc contributed (216mn) of this, and the share closed down at 61.00.
-
-Nations Trust Bank Plc also saw fairly high volumes being traded (203mn) and the share closed up at 101.25.
-
-The banks industry group as a whole contributed the most to the day’s turnover (420mn), followed by the diversified financials sector (261). The two sectors have seen some selling pressure in the last month ahead of the country’s external debt restructuring completion.
-
-...
-
-[Data](articles/f730fb9d.json)
-
-[Extended Data](ext_articles/f730fb9d.ext.json)
-
----
-
-### Health trade unions decide to continue strike action
-
-*2024-02-01 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96921/health-trade-unions-decide-to-continue-strike-action) · `en`
-
-The collective of health sector trade unions has decided to continue their island-wide strike throughout Friday (02 Feb.) as well, Convenor of the Health Service Trade Unions Ravi Kumudesh revealed.
-
-Kumudesh explained that the decision was taken on account of not receiving a favourable response from the government with regards to their demands.
-
-A collective of 72 trade unions from the health sector launched a one-day strike across the country this morning (01 Feb.), urging the government to address their issues without delay.
-
-The doctors’ unions and the All Ceylon Nurses’ Union, however, decided to refrain from joining the strike action, alleging that the panned strike action was a conspiracy by the government.
-
-◼️
-
-[Data](articles/1ed2bd06.json)
-
-[Extended Data](ext_articles/1ed2bd06.ext.json)
-
----
-
-### Colombo hosts Pakistan Lifestyle Exhibition
-
-*2024-02-01 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Colombo-hosts-Pakistan-Lifestyle-Exhibition/110-276142) · `en`
-
-Pakistan Lifestyle Exhibition is being held at BMICH until February 5. The Exhibition features leading Pakistani companies and manufacturers of Textile and Clothing, Designer wear, Handicraft and Traditional Textiles, Cutlery, Furniture, Carpets, Marble and Services. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/6fb58a54.json)
-
-[Extended Data](ext_articles/6fb58a54.ext.json)
 
 ---

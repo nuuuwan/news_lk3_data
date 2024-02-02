@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 10:03:27**
+As of **2024-02-02 10:17:18**
 
 ## Newspaper Stats
 
-*Scraped **4,281** Articles*
+*Scraped **4,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,127 @@ colombotelegraphcom | 50
 bbccomsinhala | 65
 dbsjeyarajcom | 132
 islandlk | 230
-economynextcom | 243
+economynextcom | 244
 newsfirstlk | 265
 dailyftlk | 272
-adalk | 380
-virakesarilk | 470
-adaderanasinhalalk | 508
+adalk | 382
+virakesarilk | 473
+adaderanasinhalalk | 509
 adaderanalk | 532
-tamilmirrorlk | 546
+tamilmirrorlk | 548
 dailymirrorlk | 588
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,281 (100.0%) of 4,281 articles have been extended.
+4,281 (99.8%) of 4,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### அளவுக்கு அதிகமான போதையில் வீதியில் விழுந்தவர் உயிரிழப்பு!
+
+*2024-02-02 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175355) · `ta`
+
+துவிச்சக்கர வண்டியில் பயணித்துக் கொண்டு இருந்தவேளை வீதியில் விழுந்த நபர் ஒருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்த நிலையில் நேற்றைய தினம் உயிரிழந்தார். இச்சம்பத்தில் அளவெட்டி தெற்கு பகுதியைச் சேர்ந்த சிவனடியான் சிவராசா (வயது 42) என்ற நபரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த நபர் கடந்த 28ஆம் திகதி ஆறு மணியளவில் தனது துவிச்சக்கர வண்டியில் பயணித்துக் கொண்டிருந்த போது கீழே விழுந்துள்ளார். இதன்போது வீதியில் சென்றவர்கள் அவரை மீட்டு தெல்லிப்பழை வைத்தியசாலைக்கு கொண்டு சென்றனர். பின்னர் அவர் மேலதிக சிகிச்சைக்காக யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு மாற்றப்பட்டார்.
+
+இந்நிலையில், அவர் சிகிச்சை பலனின்றி நேற்றையதினம் உயிரிழந்துள்ளார். அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் மேற்கொண்டார். மேலும் சம்பவம் நிகழ்ந்தபோது அவர் அதிக மது போதையில் இருந்ததாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/429fd04b.json)
+
+---
+
+### இளையராஜா இசை நிகழ்ச்சி; புதிய திகதிகள் அறிவிப்பு!
+
+*2024-02-02 09:44:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளையராஜா-இசை-நிகழ்ச்சி-புதிய-திகதிகள்-அறிவிப்பு/175-332532) · `ta`
+
+கொழும்பில் ஏற்பாடு செய்யப்பட்டுள்ள இசையமைப்பாளர் இசைஞானி இளையராஜாவின் “என்றும் ராஜா ராஜாதான்” என்ற இசை நிகழ்ச்சிக்கான புதிய திகதிகள் அறிவிக்கப்பட்டுள்ளன.
+
+குறித்த இசை நிகழ்வு, எதிர்வரும் ஏப்ரல் மாதம் 20 மற்றும் 21 ஆம் திகதிகளில் இடம்பெறும் என நிகழ்ச்சி ஏற்பாட்டாளர்கள் தெரிவித்துள்ளனர்.
+
+ஏற்கெனவே நுழைவு சீட்டுக்களை பெற்றுள்ள மற்றும் பதிவு செய்துள்ளவர்கள், அந்த நுழைவுசீட்டுக்களையே பயன்படுத்தி நிகழ்ச்சியை பார்வையிட முடியும் எனவும் அறிவிக்கப்பட்டுள்ளது.
+
+இந்த இசை நிகழ்வு, கடந்த மாதம் 27ஆம் மற்றும் 28ஆம் திகதிகளில் கொழும்பு சுகததாஸ உள்ளக விளையாட்டரங்கில் இடம்பெறவிருந்தது.
+
+எனினும், இசையமைப்பாளர் இசைஞானி இளையராஜாவின் புதல்வியும் பின்னணி பாடகியுமான பவதாரிணி, புற்றுநோய் காரணமாக இலங்கையில் சிகிச்சை பெற்று வந்த நிலையில் காலமானார்.
+
+◼️
+
+[Data](articles/6b201d33.json)
+
+---
+
+### கெஹலிய குற்றப்புலனாய்வுப் பிரிவில் ஆஜர் !
+
+*2024-02-02 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/175354) · `ta`
+
+முன்னாள் சுகாதார அமைச்சரும் தற்போதைய சுற்றாடல் துறை அமைச்சருமான கெஹலிய ரம்புக்வெல்லவை குற்றப்புலனாய்வுப் பிரிவில் சற்றுமுன்னர் ஆஜராகியுள்ளார்.
+
+தரமற்ற இம்யூனோகுளோபுளின் தடுப்பூசி குப்பிகளை இறக்குமதி செய்த சம்பவம் தொடர்பில் வாக்குமூலத்தை வழங்குவதற்காகவே கெஹலிய ரம்புக்வெல்ல நேற்றைய தினம் குற்றப்புலனாய்வுப் பிரிவுக்கு அழைக்கப்பட்டிருந்தார். இருப்பினும் அவர் நேற்றைய தினம் குற்றப்புலனாய்வு திணைக்களத்திற்கு சமுகமளித்திருக்கவில்லை.
+
+இந்நிலையில், முன்னாள் சுகாதார அமைச்சரும் தற்போதைய சுற்றாடல் துறை அமைச்சருமான கெஹலிய ரம்புக்வெல்லவை குற்றப்புலனாய்வுப் பிரிவில் இன்று வெள்ளிக்கிழமை (2) காலை 9 மணிக்கு ஆஜராகுமாறு மாளிகாகந்தை நீதிவான் நீதிமன்றம் நேற்றையதினம் உத்தரவிட்ட நிலையில், இன்று ஆஜராகியுள்ளார்.
+
+இதேவேளை, முன்னாள் சுகாதார அமைச்சரும் தற்போதைய சுற்றாடல் துறை அமைச்சருமான கெஹலிய ரம்புக்வெல்லவுக்கு வெளிநாட்டு பயணத்தடை விதித்தும் மாளிகாகந்தை நீதிவான் நீதிமன்றம் உத்தரவிட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/5040cb94.json)
+
+---
+
+### කාසියේ වාසිය ශ්‍රී ලංකාවට
+
+*2024-02-02 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192873) · `si`
+
+ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්ථානය අතර ටෙස්ට් ක්‍රිකට් තරගය අද (02) කොළඹදී පැවැත්වෙයි.
+
+එහි කාසියේ  වාසිය දිනාගැනීමට ශ්‍රී ලංකාව සමත්වූ අතර ප්‍රථමයෙන් පන්දුවට පහරදීමේ අවස්ථාව ඇෆ්ගනිස්තානය වෙත ලබාදුනි.
+
+ඇෆ්ගනිස්ථාන කණ්ඩායමේ නායකයා ප්‍රකාශ කළේ මීට පෙර ටෙස්ට් තරඟ 07කට පමණක් ක්‍රිඩා කර ඇති තම කණ්ඩායම ප්‍රබල ශ්‍රී ලංකාව හමුවේ තියුණු තරඟයක් ලබාදීමට බලාපොරොත්තු වන බවය.
+
+ශ්‍රී ලංකා කණ්ඩායම ධනංජය ද සිල්වාගේ නායකත්වයෙන් පළමු වරට මෙම තරඟයට සහභාගී වෙයි.
+
+◼️
+
+[Data](articles/8e531253.json)
+
+---
+
+### இறைச்சிக் கடைகளை மூடுமாறு அறிவுறுத்தல்
+
+*2024-02-02 09:34:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/இறைச்சிக்-கடைகளை-மூடுமாறு-அறிவுறுத்தல்/74-332531) · `ta`
+
+நாட்டின் 76ஆவது சுதந்திர தினத்தை முன்னிட்டு, எதிர்வரும் 04 ஆம் திகதி ஞாயிற்றுக்கிழமை, கல்முனை மாநகர சபை ஆள்புல எல்லையினுள் விலங்கறுமனை மற்றும் இறைச்சிக் கடைகள் யாவும் பூட்டப்படும் என மாநகர ஆணையாளர் ஏ.எல்.எம்.அஸ்மி அறிவித்துள்ளார்.
+
+பொது நிர்வாக, உள்நாட்டலுவல்கள், மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சின் அறிவித்தலுக்கு அமைவாக, அன்றைய தினம் கல்முனை மாநகர சபைக்குட்பட்ட மாட்டிறைச்சி, கோழியிறைச்சி மற்றும் ஆட்டிறைச்சி விற்பனை நிலையங்களையும் விலங்கறுமனைகளையும் திறக்காமல் மூடிவிடுமாறு சம்மந்தப்பட்டவர்களுக்கு கடிதம் மூலம் ஆணையாளர் அறிவுறுத்தல் வழங்கியுள்ளார்.
+
+◼️
+
+[Data](articles/7b1cf352.json)
+
+---
+
+### யாழில் பொலிஸாரின் தாக்குதலுக்கு இலக்கான இளைஞர்கள் - மனிதவுரிமை ஆணைக்குழு விசாரணை
+
+*2024-02-02 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175353) · `ta`
+
+அச்சுவேலி பொலிஸ் உத்தியோகத்தர்களின் தாக்குதலில் படுகாயமடைந்த இளைஞரொருவர் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ள சம்பவம் தொடர்பாக இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாணப் பிராந்திய அலுவலகம் விசாரணைகளை ஆரம்பித்துள்ளது.
+
+பாதிக்கப்பட்ட நபரால் மேற்கொள்ளப்பட்ட முறைப்பாட்டினை தொடர்ந்து அவரது வாக்குமூலம் நேற்று வியாழக்கிழமை (01) எம்மால் பதிவுசெய்யப்பட்டு விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன என இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாணப் பிராந்திய இணைப்பாளர் த.கனகராஜ் தெரிவித்தார்.
+
+இதேவேளை சுன்னாகம் பொலிஸாரால் கைதுசெய்யப்பட்ட நபரொருவர் தாக்கப்பட்ட சம்பவம் தொடர்பில் நீதிமன்ற கட்டளையின் பேரில் யாழ்ப்பாண வைத்தியசாலையில் சிகிச்சை பெற்றுவந்த நபரது வாக்குமூலம் எம்மால் யாழ்ப்பாண சிறைச்சாலைக்கு சென்று பதிவுசெய்யப்பட்டதுடன் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன என்றும் அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/31463e25.json)
+
+---
 
 ### President and the budget about the presidential candidate
 
@@ -49,6 +151,24 @@ The President had asked the President to start talks with the party leadership t
 [Data](articles/b30beac0.json)
 
 [Extended Data](ext_articles/b30beac0.ext.json)
+
+---
+
+### බෙලිඅත්ත පංච පුද්ගල ඝාතනයේ වෙඩික්කරුගේ බිරිඳ අල්ලයි - වෙඩික්කරු ඩුබායි වෙත පැන ගිහිල්ලා?
+
+*2024-02-02 09:27:50* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්ත-පංච-පුද්ගල-ඝාතනයේ-වෙඩික්කරුගේ-බිරිඳ-අල්ලයි---වෙඩික්කරු-ඩුබායි-වෙත-පැන-ගිහිල්ලා-/11-407864) · `si`
+
+අපේ ජනබල පක්ෂයේ නායක සමන් පෙරේරා ඇතුලු පුද්ගලයින් 05 දෙනෙකු ඝාතන සිද්ධියේ ප්‍රධාන වෙඩික්කරු බවට සැකකෙරෙන පුද්ගලයාගේ බිරිඳ සහ පියාව පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් අත්අඩංගුවට ගෙන තිබේ.
+
+පල්ලෙවෙල පොලිස් වසමේදී පොලිස් විශේෂ කාර්ය බලකාය විසින් මෙම අත්අඩංගුවට ගෙන තිබේ. බෙලිඅත්ත පංච පුද්ගල ඝාතනයේ ප්‍රධාන වෙඩික්කරු දැනට නාවික හමුදාවෙන් විශ්‍රාම වැටුප් ලබන හිටපු නාවික හමුදා භටයෙක් බවට තොරතුරු අණාවරණය කරගෙන තිබේ.
+
+මෙම ඝාතනයේ ප්‍රධාන වෙඩික්කරුගේ වයස අවුරුදු 39ක් වන බිරිඳ හා එයට අනුබල දුන් වයස අවුරුදු 72ක් වන පියා ව මෙලෙස අත්අඩංගුවට ගෙන ඇත. හෙරොයින් ග්‍රෑම් 21යි මිලි ග්‍රෑම් 350 ක් සමග ඔවුන් අත්අඩංගුවට ගෙන තිබේ.
+
+මොවුන්ගෙන් කරනු ලබන ප්‍රශ්න කිරීම්වලදී ප්‍රධාන වෙඩික්කරු වන විශ්‍රාමික නාවික හමුදා සෙබළා ජනවාරි මස 21 වන දින බස් රථයෙන් බෙලිඅත්ත ප්‍රදේශයට පිටව ගොස් 22 වන දින තවත් වෙඩික්කරුවන් දෙදෙනෙකු සමග මෙම ඝාතනය සිදු කර ඩුබායි රාජ්‍යය වෙත පළාගොස් ඇති බවටත් පවසා ඇත.
+
+◼️
+
+[Data](articles/cee2f9b9.json)
 
 ---
 
@@ -103,6 +223,26 @@ Colombo, Feb 02 (Daily Mirror) -  The Constitutional Council (CC) has declined 
 [Data](articles/1ce4cade.json)
 
 [Extended Data](ext_articles/1ce4cade.ext.json)
+
+---
+
+### Sri Lanka’s India-funded Unique ID project to have new consultant: Indian HC
+
+*2024-02-02 08:52:00* · [`economynextcom`](https://economynext.com/sri-lankas-india-funded-unique-id-project-to-have-new-consultant-indian-hc-149671/) · `en`
+
+ECONOMYNEXT – India-funded Unique ID card project is in the process of appointing a new consultant while fresh tenders have been called after the failed bids, Indian High Commissioner to Sri Lanka Santhosh Jha said.
+
+President Ranil Wickremesinghe’s government has disqualified the two Indian bidders Madras Security Printers (MSP) and Protein Technologies which won the tenders in the previous bidding process.
+
+India has already given an advance aid of 450 million Indian rupees to President Wickremesinghe’s government to fund the digital ID project, which aims to collect biographic and biometric information, including facial, iris, and fingerprint data.
+
+“The process for doing a new tender is ongoing because the last one was not a success. Currently we are in the process of appointing a consultant,” Jha told reporters in Colombo on Thursday (01).
+
+“Middle of this year you should be able to see something happening.”
+
+...
+
+[Data](articles/b63cfa04.json)
 
 ---
 
@@ -217,6 +357,24 @@ US intelligence agencies are found in Iran that the unmanned aircraft used to at
 [Data](articles/08575630.json)
 
 [Extended Data](ext_articles/08575630.ext.json)
+
+---
+
+### උතුරු මැද  ගව සොරකම් මඩින්න වැඩ බලන පොලිස්පතිගේ වැඩසටහනක්
+
+*2024-02-02 07:54:28* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-මැද--ගව-සොරකම්-මඩින්න-වැඩ-බලන-පොලිස්පතිගේ-වැඩසටහනක්/11-407863) · `si`
+
+උතුරු මැද පළාත තුළ සිදුවන ගව සොරකම් වැළැක්වීම සදහා ප්‍රජා පොලිස් කමිටු සාමාජිකයින් සහ සිවිල් ආරක්ෂක බලකා නිළධාරීන්ගේ සහාය ලබාගනිමින් නව වැඩපිළිවෙලක් ආරම්භ කිරීමට   වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් ⁣මහතා විසින් සැලසුම් කර ඇතැයි පොලිස් මූලස්ථාන ආරංචිමාර්ග සදහන් කරයි.
+
+මේ සම්බන්ධයෙන් විශේෂ සාකච්ඡාවක් සිවිල් ආරක්ෂක බලකාය භාර අධ්‍යක්ෂ ජනරාල් එයාර් වයිස් මාර්ෂල් ආර්.එස් බියන්වල මහතා සහ උතුරු මැද පළාතේ උසස් පොලිස්  නිළධාරීන් සමග මෙම සතිය තුළ පැවැත්වීමට කටයුතු සුදානම් කර ඇත
+
+ඒ සඳහා ආරම්භ කරන නව වැඩපිළිවෙල මෙම මස දෙවන සතිය තුළ ක්‍රියාත්මක කිරීමට  වැඩ බලන පොලිස්පතිවරයා විසින් සැලසුම් කර ඇත
+
+2023.01.01 දින සිට 2024.01.24 දක්වා කාලය තුළ උතුරුමැද පළාතේ ගව සොරකම් අපරාධ 335 කදී ගවයින් 572 ක් සොරාගෙන ගොස් ඇති බව වාර්තා වී   ඇති අතර, මෙලෙස සොරකම් කරන ලද ගවයින්ගේ වෙළදපල වටිනාකම රුපියල් කෝටි 10 කට ආසන්න බව අනාවරණය වී ඇත.
+
+...
+
+[Data](articles/6e3db16c.json)
 
 ---
 
@@ -1871,185 +2029,5 @@ Meanwhile, new High Commissioner and Ambassadors were also a short discussion wi
 [Data](articles/982d7f89.json)
 
 [Extended Data](ext_articles/982d7f89.ext.json)
-
----
-
-### There is no increase in bus fare
-
-*2024-02-01 19:08:42* · [`adalk`](https://www.ada.lk/breaking_news/බස්-ගාස්තු-වැඩිවීමක්-නෑ/11-407860) · `si`
-
-Although diesel prices are increased, the National Transport Commission states that bus fare is not increased. The Commission further stated that the bus fares will not increase the cost of racing costs to increase bus fares but will not increase the bus fare.
-
-◼️
-
-[Data](articles/5bec205e.json)
-
-[Extended Data](ext_articles/5bec205e.ext.json)
-
----
-
-### Keheliya banned tourists
-
-*2024-02-01 18:57:52* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියට-රට-ගමන්-තහනම්/11-407859) · `si`
-
-Maligakanda Magistrate's Court has been ordered to babin former Health Minister Keheliya Rambukwella. He has also ordered the Criminal Investigation Department to provide a statement tomorrow.
-
-◼️
-
-[Data](articles/289c9b64.json)
-
-[Extended Data](ext_articles/289c9b64.ext.json)
-
----
-
-### $ 55 billion aid package to Ukraine
-
-*2024-02-01 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192854) · `si`
-
-The 27 leaders representing the European Council have agreed to provide a $ 55 billion aid package to Ukraine.
-
-Chairman Chairman Charles Michel had officially announced this.
-
-However, a suspicion that Hungarian President Victor Orbers conducted by Aberra was not blocked by the statement that he would be blocked.
-
-Commenting on the approval of the aid package, the Chairman of the European Commission has said that this day is a very important date for Europe.
-
-◼️
-
-[Data](articles/20d19fd2.json)
-
-[Extended Data](ext_articles/20d19fd2.ext.json)
-
----
-
-### The resolution taken on bus charges
-
-*2024-02-01 18:55:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டணங்கள்-குறித்து-எடுக்கப்பட்ட-தீர்மானம்/175-332502) · `ta`
-
-The National Transport Commission has said that the bus fares will not be increased even if diesel prices have increased.
-
-Meanwhile, bus union representatives have said that other fares should be increased from the minimum bus fare.
-
-In addition, the National Transport Commission said that the bus fares will not be increased even though they have demanded that the tariff revision be implemented before the 15th of February.. Remble
-
-◼️
-
-[Data](articles/49ded100.json)
-
-[Extended Data](ext_articles/49ded100.ext.json)
-
----
-
-### Increase in school van fares from today
-
-*2024-02-01 18:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Increase-in-school-van-fares-from-today/108-276147) · `en`
-
-Colombo, Feb 1 (Daily Mirror) - The internal committee of the All Ceylon Inter-Provincial School Children Transport Services Association has decided to take a collective decision to increase the school children's transport fares from today, Associations chairman E.H. Ruwan Prasad said.
-
-He told the media that 10% of the existing transport fare will be increased for short-distance school services and 15% will be increased for long-distance school services.
-
-"Therefore, the association requests the government to give a firm decision before implementing the new transport fares. With the increase in the fare, parents always have to suffer. We cannot stay silent with this fuel price increase. We can increase the school van transport fares along with the government's decision to increase fuel prices, but it is unfortunate to say that there is no procedure introduced by the government to reduce the prices," Prasad said.
-
-...
-
-[Data](articles/3f28cc5c.json)
-
-[Extended Data](ext_articles/3f28cc5c.ext.json)
-
----
-
-### Four new Heads of Mission present credentials to the President
-
-*2024-02-01 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/96926/four-new-heads-of-mission-present-credentials-to-the-president) · `en`
-
-A newly appointed High Commissioner and three Ambassadors to Sri Lanka have presented Letters of Credence to President Ranil Wickremesinghe at a ceremony held at the Presidential Secretariat in Colombo this afternoon (01).
-
-Among them is the new High Commissioner for the Kingdom of Eswatini, along with the newly appointed Ambassadors for Romania, the Kyrgyz Republic and Turkmenistan, the President’s Media Division (PMD) said.
-
-The diplomats who submitted their credentials today are as follows;
-
-1. Mr. Menzie Sipho Dlamini – High Commissioner-designate of the Kingdom of Eswatini based in Kuala Lumpur
-
-2. Ms. Steluta Arhire – Ambassador-designate of Romania based in Colombo
-
-3. Mr. Askar Beshimov – Ambassador-designate of the Kyrgyz Republic based in New Delhi
-
-4. Mr. Shalar Geldynazarov – Ambassador-designate of Turkmenistan based in New Delhi
-
-Minister of State for Foreign Affairs Tharaka Balasuriya and President’s Secretary Saman Ekanayake were also present on this occasion, the PMD reported.
-
-...
-
-[Data](articles/6ff4696f.json)
-
-[Extended Data](ext_articles/6ff4696f.ext.json)
-
----
-
-### Criticism on Foreign Travels' Foreign Travels
-
-*2024-02-01 18:46:38* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-විදෙස්-සංචාර-ගැන-එල්ල-වන-විවේචන-පදනම්-විරහිතයි/11-407858) · `si`
-
-Minister of External Affairs Tharaka Balasuriya said that although some have made critical statements on the president's foreign visit, all claims are baseless.
-
-The official visits are vital if Sri Lanka cannot exist as isolated isolated island and strengthening foreign relations to develop foreign relations.
-
-Minister of External Affairs Tharaka Balasuriya made this statement participating at a press conference held at the Presidential Media Center today (01).
-
-State Minister of External Affairs Tharaka Balasuriya said:
-
-President Ranil Wickremesinghe and the Minister of External Affairs attended the World Economic Forum in Dawos, Switzerland. There the business community was also found. In deep discussions on how Sri Lanka was rebuilding. We also discussed how investors called for investors.
-
-Also, the President discussed how to deal with the world's power camps at the Non-Aligned Summit in Kampala, Uganda.. The year 2050 was also discussed in the world economy in Sri Lanka.
-
-...
-
-[Data](articles/dd18ad70.json)
-
-[Extended Data](ext_articles/dd18ad70.ext.json)
-
----
-
-### Declares three new wetlands
-
-*2024-02-01 18:42:14* · [`adalk`](https://www.ada.lk/breaking_news/නව-තෙත්-බිම්-තුනක්-ප්‍රකාශ-කරයි/11-407857) · `si`
-
-Minister of Irrigation, Wildlife and Forest Minister Pavithra Wanniarachchi says that the Wildlife Department has planned to declare three new wetlands in Sri Lanka under the Ramisar Convention.
-
-This was stated by the Minister in response to the media to mark the World Wet Landing Day as World Wet Landing on February 02.
-
-Accordingly, the Wildlife Department has planned to be named as the Wedithalthivu Natural Reserve of the Mannar District, Adam's Bridge National Park, and the Chundikulam National Park in the Jaffna district.
-
-The Minister said that steps have been taken to expand the Venkui Sanctuary, Vedithabhavu to the Nearest Reserve.
-
-Meanwhile, Pavithra Wanniarachchi said that the Miissa Marine Sanctuary is also underway to publish within this year.
-
-◼️
-
-[Data](articles/ed7d2f94.json)
-
-[Extended Data](ext_articles/ed7d2f94.ext.json)
-
----
-
-### Notice of the President's Functions and Obstacles
-
-*2024-02-01 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192853) · `si`
-
-The Presidential Media Unit says that any contacting of the Constitution is a violation of the constitution.
-
-If the president is carrying out his powers in contravention of the Constitution, the remedy is provided in the Constitution.
-
-Therefore, the President has to perform a constitutional duties without any hindrance or intervention.. The IGP is being appointed under the Constitution after the recommendation made by the President was approved by the Constitution.
-
-The Constitutional Council of the Parliament who is established by the Constitution is part of the Executive and the Constitutional Council will support the President to carry out his statutory role.
-
-The Constitutional Council is obliged to perform his work in accordance with the Constitution and the Constitution is 41 c. It also shows that the Constitutional Council is a violation of the Constitution to refrain from the appointment of the IGP under the constitution.
-
-...
-
-[Data](articles/c60604c6.json)
-
-[Extended Data](ext_articles/c60604c6.ext.json)
 
 ---

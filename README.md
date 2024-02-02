@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 15:17:26**
+As of **2024-02-02 15:32:58**
 
 ## Newspaper Stats
 
-*Scraped **4,359** Articles*
+*Scraped **4,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 272
 adalk | 386
 virakesarilk | 490
 adaderanasinhalalk | 517
-adaderanalk | 546
+adaderanalk | 547
 tamilmirrorlk | 557
 dailymirrorlk | 598
 
@@ -26,11 +26,25 @@ dailymirrorlk | 598
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,356 (99.9%) of 4,359 articles have been extended.
+4,360 (100.0%) of 4,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### No domestic gas price revision in February - LAUGFS
+
+*2024-02-02 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96950/no-domestic-gas-price-revision-in-february-laugfs) · `en`
+
+LAUGFS Gas PLC has also decided not to revise the prices of domestic LP gas cylinders in the month of February, mirroring Litro Gas Lanka’s move.
+
+◼️
+
+[Data](articles/4ad78463.json)
+
+[Extended Data](ext_articles/4ad78463.ext.json)
+
+---
 
 ### US ambassador hails Sri Lanka’s Pekoe Trail inclusion in Nat Geo ranking
 
@@ -46,17 +60,21 @@ The National Geographic recently announced their picks for ‘BEST OF THE WORLD 
 
 [Data](articles/1ca976f7.json)
 
+[Extended Data](ext_articles/1ca976f7.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-02-02 14:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/175391) · `ta`
 
-இன்று வெள்ளக்கிழழைம (பெப்ரவரி 02) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 307.1762 ஆகவும் விற்பனை விலை ரூபா 316.9979 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar purchasing price was Rs 307.1762 and the sale price was 316.9979 based on the Central Bank's currency exchange rate today (February 02).
 
 ◼️
 
 [Data](articles/50f053f3.json)
+
+[Extended Data](ext_articles/50f053f3.ext.json)
 
 ---
 
@@ -96,19 +114,21 @@ Accordingly, the determination of the Supreme Court is slated to be forwarded to
 
 ---
 
-### மைத்திரிபால சிறிசேனவின் தலைமைத்துவத்தில் பலருக்கு நம்பிக்கை இல்லை! - தயாசிறி ஜயசேகர
+### Many people do not believe in the leadership of Maithripala Sirisena!- Dayasiri Jayasekara
 
 *2024-02-02 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175387) · `ta`
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியினால் உருவாக்க திட்டமிடப்பட்டுள்ள புதிய கூட்டணி எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு ஆதரவளிக்க தீர்மானித்துள்ளதாக தான் அறிவதாக நாடாளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர தெரிவித்துள்ளார்.
+Parliamentarian Dayasiri Jayasekara has said he knows that the new coalition planned by the Sri Lanka Freedom Party (SLFP) has decided to support President Ranil Wickremesinghe in the upcoming presidential election.
 
-மேலும், முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவினால் உருவாக்கப்பட்ட கூட்டணிகள் மீது எந்த ஓர்  அரசியல் கட்சிக்கும் நம்பிக்கை இல்லை எனவும் அவர் தெரிவித்துள்ளார்.
+He also said that no political party has confidence in alliances formed by former President Maithripala Sirisena.
 
-கடந்த வாரம் நிமல் லான்சா நடத்திய  கூட்டத்தைப் பார்த்தேன், அவர்கள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்கப் போவதை நான் கவனித்தேன் என்றும் அவர் தெரிவித்தார்.
+He said that I saw a meeting held by Nimal Lansa last week and I noticed that they were going to support President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/f553f25c.json)
+
+[Extended Data](ext_articles/f553f25c.ext.json)
 
 ---
 
@@ -1999,23 +2019,5 @@ Even as the greater part of the island is enveloped in a melodious mood, a disco
 [Data](articles/f5cda53c.json)
 
 [Extended Data](ext_articles/f5cda53c.ext.json)
-
----
-
-### Electoral prospects spark optimism for Sri Lanka’s underprivileged
-
-*2024-02-02 05:38:22* · [`dailyftlk`](https://www.ft.lk/columns/Electoral-prospects-spark-optimism-for-Sri-Lanka-s-underprivileged/4-758067) · `en`
-
-The forthcoming general election holds promise for Sri Lanka’s impoverished majority – Pic by Shehan Gunasekara
-
-As the spectre of a general election looms over Sri Lanka, the political elite and the economically powerful are gripped with panic. Recent newspaper articles have been rife with speculations about the potential upheaval that such an election could bring. However, amidst their apprehension, it’s crucial to recognise that elections present a beacon of hope, particularly for the impoverished masses of Sri Lanka.
-
-The anticipation of a general election has sent shockwaves through the corridors of power, primarily because it threatens to dismantle the entrenched privileges enjoyed by a select few. Despite the prevailing economic and debt crises plaguing the nation, a significant segment of society continues to benefit from a system riddled with corruption, mismanagement, and poor governance.
-
-...
-
-[Data](articles/47a4daa0.json)
-
-[Extended Data](ext_articles/47a4daa0.ext.json)
 
 ---

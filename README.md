@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 14:17:23**
+As of **2024-02-02 14:34:00**
 
 ## Newspaper Stats
 
-*Scraped **4,338** Articles*
+*Scraped **4,340** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 269
 dailyftlk | 272
 adalk | 385
 virakesarilk | 482
-adaderanasinhalalk | 515
+adaderanasinhalalk | 517
 adaderanalk | 542
 tamilmirrorlk | 555
 dailymirrorlk | 595
@@ -26,11 +26,47 @@ dailymirrorlk | 595
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,336 (100.0%) of 4,338 articles have been extended.
+4,340 (100.0%) of 4,340 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### Universal Buddha further remanded
+
+*2024-02-02 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192881) · `si`
+
+The person named 'Universal Buddha' has been remanded until Feb 16.
+
+He has been accused of being accused of contempt of the universal Buddha in the social media.
+
+Although the court had ordered him to bail, but due to insulting the republic of the court, the man named Universal Buddha was resatered to the court.
+
+◼️
+
+[Data](articles/a37ba429.json)
+
+[Extended Data](ext_articles/a37ba429.ext.json)
+
+---
+
+### A beautiful Bollywood actress is for life
+
+*2024-02-02 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192880) · `si`
+
+The deceased has been identified as Indian beautiful actress, Poonam.
+
+It states that she has died due to cervical cancer.
+
+In 2013, the first film of Nisha, "Nasa" had joined Bollywood cinema.
+
+◼️
+
+[Data](articles/f239b854.json)
+
+[Extended Data](ext_articles/f239b854.ext.json)
+
+---
 
 ### Sri Lanka to borrow USD 150mn from World Bank
 
@@ -47,6 +83,8 @@ The government says it will also support boosting the reserves of SLDIS in order
 ...
 
 [Data](articles/c15c3bd6.json)
+
+[Extended Data](ext_articles/c15c3bd6.ext.json)
 
 ---
 
@@ -139,6 +177,8 @@ Furthermore, MP Dayasiri claimed that none of the political parties have any fai
 ◼️
 
 [Data](articles/467ec177.json)
+
+[Extended Data](ext_articles/467ec177.ext.json)
 
 ---
 
@@ -1997,39 +2037,5 @@ He said this at a media briefing held at the Presidential Media Center yesterday
 [Data](articles/e17daa4f.json)
 
 [Extended Data](ext_articles/e17daa4f.ext.json)
-
----
-
-### Fund cuts for UNRWA point to a clash of civilisations
-
-*2024-02-02 02:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Fund-cuts-for-UNRWA-point-to-a-clash-of-civilisations/172-276174) · `en`
-
-Palestinian civilians including children stage a demonstration in Rafah in the southern Gaza Strip, calling for continued international support to UNRWA. AFP
-
-Peace-loving people worldwide are probably sick and tired of seeing and hearing the triumph of evil and injustice. Each time they hoped for a ceasefire in the Gaza Strip so that the besieged people could breathe the air of melancholic freedom, they were dealt yet another blow by the war party.
-
-The latest is what followed the International Court of Justice’s ruling on January 26. The world court ruled by a majority decision that Israel should “take all measures within its power” to prevent acts of genocide in the Gaza Strip. The court also ordered Israel to allow humanitarian aid into Gaza. Although it stopped short of ordering a ceasefire, most jurists believe a ceasefire is implied.
-
-...
-
-[Data](articles/9ac88f51.json)
-
-[Extended Data](ext_articles/9ac88f51.ext.json)
-
----
-
-### Being Used in a Nation that Forgets - EDITORIAL
-
-*2024-02-02 02:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Being-Used-in-a-Nation-that-Forgets-EDITORIAL/172-276173) · `en`
-
-Sri Lankans are known for forgetting their history fast. This piece of writing is not about dementia or amnesia. It’s about history that fades away quite fast in our brains, because the subject matter is boring beyond description, or it contains nothing worthwhile to be noted even in the last page of a notebook.
-
-State Minister, Sanath Nishantha died under tragic circumstances on January 25 (Thursday) and his funeral rites were performed on the 28th (Sunday). Massive crowds were there to mourn his death and most stages of his funeral received wide media attention.
-
-...
-
-[Data](articles/d39cf3fa.json)
-
-[Extended Data](ext_articles/d39cf3fa.ext.json)
 
 ---

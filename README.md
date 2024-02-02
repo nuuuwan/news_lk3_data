@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 00:33:08**
+As of **2024-02-03 00:48:03**
 
 ## Newspaper Stats
 
-*Scraped **4,441** Articles*
+*Scraped **4,444** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,65 @@ virakesarilk | 498
 adaderanasinhalalk | 538
 adaderanalk | 556
 tamilmirrorlk | 564
-dailymirrorlk | 615
+dailymirrorlk | 618
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,441 (100.0%) of 4,441 articles have been extended.
+4,441 (99.9%) of 4,444 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-02-03 (Saturday)
+
+### SJB Protest Turns Out A Damp Squib
+
+*2024-02-03 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/SJB-Protest-Turns-Out-A-Damp-Squib/172-276236) · `en`
+
+Electioneering is in the air. The usual rounds of protests are commencing. The NPP/JVP combine commenced their programme to ‘educate’ the electorate of issues at hand some time ago. On Tuesday, the main opposition party (SJB) held what it expected to be a massive demonstration against the ‘Online Safety Bill’ (OSB), the imposition of taxes, various price hikes and a skyrocketing cost of living.
+
+The party expected to bring into Colombo 50,000 protestors. Unfortunately that expectation fell short by around 48,000. While many applaud the SJB sentiment of drawing attention to the dangers posed by the imposition of the OSB and the unbearable cost of living, everyone was aghast at the SJB’s claim of having led the ‘Aragalaya’ and the toppling of ex-President Gotabaya Rakapakasa.
+
+...
+
+[Data](articles/3dd56567.json)
+
+---
+
+### Celebrating the Deaths of ‘Others’
+
+*2024-02-03 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Celebrating-the-Deaths-of-Others/172-276237) · `en`
+
+People in many parts of the country lit fire crackers when Former President Ranasinghe Premadasa was killed in a suicide attack by the LTTE on May 1, 1993 and people in many southern parts of the country shared “kiribath” and lit crackers over the killing of LTTE leader Velupillai Prabakaran by the army on May 19, 2009.
+
+How did you feel when the news about the tragic death of State Minister Sanath Nishantha first reached you? Did it make you feel sorrow or happy? Indeed, we all might have felt either one of the two, though sometimes we might have regretted rejoicing over the tragedy later.
+
+...
+
+[Data](articles/cc7b3bef.json)
+
+---
+
 ### 2024-02-02 (Friday)
+
+### Fraud, corruption rampant at SPC : GMOF
+
+*2024-02-02 23:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fraud-corruption-rampant-at-SPC-GMOF/108-276243) · `en`
+
+Feb 2 (Daily Mirror) -  Fraud and corruption activities persisted at the State Pharmaceuticals Corporation of Sri Lanka (SPC) during the tenure of former Health Minister Keheliya Rambukwella, claims the Government Medical Officers' Forum (GMOF).
+
+They further claim that these issues are ongoing, even following the appointment of a new Minister to the Health Ministry.
+
+According to GMOF president Dr. Rukshan Bellana, tenders initiated during the former chairmanship of Sarath Liyanage at the State Pharmaceuticals Corporation (SPC) were cancelled. However, he alleges that the same tenders are being reintroduced under the new SPC chairmanship, with the values inflated to ten times their previous amounts.
+
+"Despite the new Minister being aware of these revised tender procedures, he maintains a silent approach. Consequently, the GMOF is compelled to take decisive action to draw attention to this situation and address the matter with the Minister," the GMOF president said.
+
+...
+
+[Data](articles/464f5963.json)
+
+---
 
 ### Two UK teens get life sentence for ‘sadistic’ killing of trans girl
 
@@ -2029,61 +2077,5 @@ The Ministry of Examinations will inform the Commissioner of Examinations to inf
 [Data](articles/079b5742.json)
 
 [Extended Data](ext_articles/079b5742.ext.json)
-
----
-
-### Dayasiri says no faith in Maithripala’s leadership
-
-*2024-02-02 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96943/dayasiri-says-no-faith-in-maithripalas-leadership) · `en`
-
-MP Dayasiri Jayasekara states that the new alliance planned to be formed by the Sri Lanka Freedom Party (SLFP) has decided to support President Ranil Wickremesinghe in the upcoming presidential election.
-
-Furthermore, MP Dayasiri claimed that none of the political parties have any faith on the alliances formed by the former President Maithripala Sirisena.
-
-“Many people don’t believe in the leadership of Maithripala Sirisena now”, he said.
-
-“I saw the last week’s rally held by Mr. [Nimal] Lanza, and noticed that they are going to back President Ranil Wickremesinghe. The alliance they are going to form… the SLFP will support Mr. Ranil Wickremesinghe. It is a problem for the SLFP supporters at the grass-root level”, he added.
-
-◼️
-
-[Data](articles/467ec177.json)
-
-[Extended Data](ext_articles/467ec177.ext.json)
-
----
-
-### The suspect, who was under the custody of prison authorities in Vavuniya;The police are searching
-
-*2024-02-02 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175378) · `ta`
-
-Police have launched a search operation on the escape of a suspect in the custody of the prison officials at the Vavuniya District General Hospital on Wednesday morning.
-
-The 28 -year -old youth arrested by the Nelukkulam Police on 26.01.2024 was detained at the Vavuniya Prison after being submitted to the Vavuniya District Magistrate's Court on 26.01.2024.
-
-In this case, he was treated in the custody of the prison authorities at the Vavuniya District General Hospital due to his illness on the 28 -year -old youth at the prison on 29.01.2024.
-
-In the meantime, he fled the Vavuniya District General Hospital at 6.00 am yesterday.. Vavuniya police and prison officials have taken steps to arrest the suspect.
-
-◼️
-
-[Data](articles/e86837b2.json)
-
-[Extended Data](ext_articles/e86837b2.ext.json)
-
----
-
-### Grade 5 Scholarship Examination has been released
-
-*2024-02-02 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/175376) · `ta`
-
-The Department of Examinations today (02) has released the cut off points for enrolling students to school for the 6th of next year, based on the Grade 5 Scholarship Examination for 2023.
-
-Students who wish to get results on websites are asked to enter their correct examination index.
-
-◼️
-
-[Data](articles/2d4d1ba8.json)
-
-[Extended Data](ext_articles/2d4d1ba8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 10:32:39**
+As of **2024-02-02 10:50:42**
 
 ## Newspaper Stats
 
-*Scraped **4,290** Articles*
+*Scraped **4,294** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 65
 dbsjeyarajcom | 132
 islandlk | 230
 economynextcom | 244
-newsfirstlk | 265
+newsfirstlk | 266
 dailyftlk | 272
 adalk | 382
-virakesarilk | 473
-adaderanasinhalalk | 509
+virakesarilk | 475
+adaderanasinhalalk | 510
 adaderanalk | 532
 tamilmirrorlk | 548
 dailymirrorlk | 588
@@ -26,11 +26,65 @@ dailymirrorlk | 588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,290 (100.0%) of 4,290 articles have been extended.
+4,290 (99.9%) of 4,294 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### கட்டு துப்பாக்கி வெடித்ததில் பொலிஸ்  உத்தியோத்தர்  ஒருவர் படுகாயம்
+
+*2024-02-02 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175358) · `ta`
+
+கிளிநொச்சி தர்மபுரம் பொலிஸ் நிலையத்தில் கடமையாற்றும் பொலிஸ் உத்தியோகத்தர் ஒருவரே இவ்வாறு காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+நேற்று  வியாழக்கிழமை (01) தருமபுரம் பொலிஸ் பிரிவுக்குற்பட்ட கோரமோட்டை பகுதியில் சட்டவிரோத கசிப்பு உற்பத்தி இடம் பெறுவதாக கிடைக்கப்பெற்ற தகவலுக்கு அமைவாக அப்பகுதிக்கு விரைந்த  தருமபுரம் பொலிஸார் குறித்த செயற்பாட்டில் ஈடுபட்ட சந்தேக நபரை கைது செய்ய முற்பட்ட வேளை  சந்தேக நபர் அங்கிருந்து தப்பி ஒடியுள்ளார்.
+
+அதன்போது அவரை கைது செய்யும் நோக்கில் துரத்திச் சென்ற வேளை மிருக வேட்டைக்காக வைக்கப்பட்டிருந்த கட்டுதுவக்கு வெடித்ததில் 37 வயதுடைய பொலிஸ் உத்தியோகத்தர் ஒருவர் படுகாயம் அடைந்த நிலையில் தர்மபுரம் வைத்தியசாலையில் அனுமதிக்கப்பட்டு, அங்கிருந்து மேலதிக சிகிச்சைகளுக்காக கிளிநொச்சி  பொது வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/be8cdc3b.json)
+
+---
+
+### තවත් සැකකරුවන් 703ක් අත්අඩංගුවට
+
+*2024-02-02 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192874) · `si`
+
+ගතවු පැය 24 තුළ දිවයින පුරා සිදුකළ මෙහෙයුම්වලින් සැකකරුවන් 703 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ මත්ද්‍රව්‍ය වැරදි සම්බන්ධ සැකකරුවන් 525ක් සහ අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ සිටි සැකකරුවන් 178ක් ඒ අතර වන බවය.
+
+මත්ද්‍රව්‍ය වැරදි සම්බන්ධ අත්අඩංගුවට ගත් සැකකරුවන් 525 දෙනා අතරින් සැකකරුවකු රැඳවුම් නියෝග මත වැඩිදුර විමර්ශන සිදුකරන අතර මත්ද්‍රව්‍යවලට ඇබ්බැහිවූවන් 06 ක් පුනරුත්ථාපනය සඳහා යොමුකර ඇත.
+
+පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශය සහ පොලිස් විශේෂ කාර්යංශයේ ලැයිස්තුවේ සිටි සැකකරුවන් 04 ක්ද අත්අඩංගුවට ගෙන තිබේ.
+
+අපරාධ අංශවෙත යොමු කළ ලැයිස්තුවේ අත්අඩංගුවට ගත් සැකකරුවන් 178 දෙනා අතරින් මත්ද්‍රව්‍ය වැරදි සම්බන්ධව විවෘත වරෙන්තු නිකුත්ව සිටි සැකකරුවන් 11 ක් සහ මත්ද්‍රව්‍ය නොවන වැරදි සම්බන්ධව විවෘත වරෙන්තුකරුවන් 156 ක්ද සිටින බව පොලීසිය පැවසීය.
+
+ඇඟිලි සටහන් මාධ්‍යයෙන් හඳුනාගෙන අත්අඩංගුවට ගෙන නොමැතිව සිටි සැකකරුවන් දෙදෙනෙක් සහ අපරාධවලට අවශ්‍ය කරන සැකකරුවන් 09 ක්ද මෙහෙයුම්වලදී අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/4cd455d3.json)
+
+---
+
+### கிளிநொச்சி - ஆனையிறவு விபத்தில் மேலும் ஒருவர் உயிரிழப்பு
+
+*2024-02-02 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175356) · `ta`
+
+கிளிநொச்சி - ஆனையிறவு பகுதியில் இடம்பெற்ற விபத்தில் சிக்கிய குடும்பஸ்தர் ஒருவர் சிகிச்சை பலனின்றி நேற்றையதினம் உயிரிழந்துள்ளார். இதன்போது கிளிநொச்சி - சாந்தபுரம் பகுதியைச் சேர்ந்த கோபாலசிங்கம் சதீஸ்குமார் (வயது 25) என்ற இரண்டு பிள்ளைகளின் தந்தையே இவ்வாறு உயிரிழந்துள்ளார்.
+
+கடந்த சில தினங்களுக்கு முன்னர் குறித்த குடும்பஸ்தர் கிளிநொச்சி - ஆனையிறவு பகுதியில் இருந்து இரணைமடுவுக்கு மாடுகளை கொண்டு சென்றுள்ளார். இதன்போது வீதியால் வந்த அரச பஸ் குறித்த நபரையும் அவரது 8 மாடுகளையும் மோதிவிட்டு, தவறான பக்கத்துக்கு சென்று, எதிரே வந்த ஹையேஸ் ரக வாகனத்தையும் மோதியது.
+
+இதன்போது 8 மாடுகளும், இளம் குடும்பப்பெண் ஒருவரும் சம்பவ இடத்திலேயே உயிரிழந்ததுடன், குறித்த நபர் கிளிநொச்சி வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு பின்னர் அங்கிருந்து யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு அங்கு அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்துள்ளார்.
+
+...
+
+[Data](articles/90a99ccf.json)
+
+---
 
 ### The death of the road falls on the road
 
@@ -183,6 +237,26 @@ The main shooter, the main shooter, has fled to the Beliatta on January 21st on 
 [Data](articles/cee2f9b9.json)
 
 [Extended Data](ext_articles/cee2f9b9.ext.json)
+
+---
+
+### Keheliya at CID over immunoglobulin scandal
+
+*2024-02-02 09:04:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/keheliya-at-cid-over-immunoglobulin-scandal/) · `en`
+
+COLOMBO (News 1st); Sri Lanka's Former Health Minister Rambukwella arrived at the Criminal Investigations Department in Colombo on Friday (2) morning, complying with a Court Order issued a day earlier.
+
+He is expected to provide a statement to the CID with regard to the controversial human immunoglobulin procurement.
+
+Maligakanda Magistrate Lochana Abeywickrama ordered Minister Keheliya Rambukwella to report to the Criminal Investigations Department in Colombo at  9 AM on Friday (2) to provide a statement.
+
+The order was made upon considering the submissions that were made by Deputy Solicitor General Lakmini Girihagama on behalf of the Attorney General when the case filed over the controversial human immunoglobulin procurement was taken up in court.
+
+The Deputy Solicitor General also told the court that one of the reasons provided by Keheliya Rambukwella for failing to make a scheduled appearance at the CID on Wednesday (31), is also false.
+
+...
+
+[Data](articles/9ebb1908.json)
 
 ---
 
@@ -534,7 +608,7 @@ The strike was launched yesterday on the strike, which has commenced three to tw
 
 ---
 
-### Indian envoy hopes timely progress in Adani’s wind power deal
+### Indian envoy hopes for timely progress in Adani’s wind power deal
 
 *2024-02-02 06:54:00* · [`economynextcom`](https://economynext.com/indian-envoy-hopes-timely-progress-in-adanis-wind-power-deal-149664/) · `en`
 
@@ -1963,91 +2037,5 @@ Ye saw Zhang’s two children as an “obstacle” to them getting married and a
 [Data](articles/8b59fd0b.json)
 
 [Extended Data](ext_articles/8b59fd0b.ext.json)
-
----
-
-### Newly appointed envoys presented letters of credence to President
-
-*2024-02-01 19:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Newly-appointed-envoys-presented-letters-of-credence-to-President/108-276148) · `en`
-
-Feb 1 (PMD) -  A newly appointed High Commissioner and three Ambassadors to Sri Lanka presented Letters of Credence to President Ranil Wickremesinghe at a ceremony held at the Presidential Secretariat in Colombo this afternoon (01).
-
-Among them is the new High Commissioner for the Kingdom of Eswatini, along with the newly appointed Ambassadors for Romania, the Kyrgyz Republic and Turkmenistan.
-
-Following are the names of the diplomats who submitted their credentials today.
-
-1. Mr. Menzie Sipho Dlamini - High Commissioner-designate of the Kingdom of Eswatini based in Kuala Lumpur
-
-2. Ms. Steluta Arhire - Ambassador-designate of Romania based in Colombo
-
-3. Mr. Askar Beshimov - Ambassador-designate of the Kyrgyz Republic based in New Delhi
-
-4. Mr. Shalar Geldynazarov - Ambassador-designate of Turkmenistan based in New Delhi
-
-◼️
-
-[Data](articles/6a9f8f67.json)
-
-[Extended Data](ext_articles/6a9f8f67.ext.json)
-
----
-
-### Forest Conservation launches Rs. 188 crores
-
-*2024-02-01 19:14:28* · [`adalk`](https://www.ada.lk/breaking_news/වන-සංරක්ෂණයට-කෝටි-188ක-ආදායමක්-හිඟයි/11-407861) · `si`
-
-The audit report released on January 30, a year earlier was estimated to the forest of forest conservation, the year 2023, on the 31st two hundred and six hundred thousand three hundred and six hundred thousand millions of three million three million three million rupees..
-
-The main source of forest conservation department is the income from jungles and personal timber transport. The audit report states that this income is correct to estimate and revenue the deficit income, the audit report states that there was not installed and established.
-
-The audit report will observer that the parties will be observed by the relevant parties to repair money to state revenue.
-
-The Forest Department's Counting Officer is listed on the archive system after calculating the production units, as the income has been increased in two years.
-
-The bureaucracy is stated to the audit that all arrears are being taken after the contractual contraction of 2024.
-
-◼️
-
-[Data](articles/356745f0.json)
-
-[Extended Data](ext_articles/356745f0.ext.json)
-
----
-
-### Do you know this?
-
-*2024-02-01 19:10:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களே-உங்களுக்கு-இவரை-தெரியுமா/175-332503) · `ta`
-
-Police have asked the public to arrest the suspect in connection with the murder.
-
-If you get information about the photo, the police have asked to contact the Kaluppitti Police Station or 0742 226 022, 0718 591 492, 0718 594 455. Remble
-
-◼️
-
-[Data](articles/58568046.json)
-
-[Extended Data](ext_articles/58568046.ext.json)
-
----
-
-### New diplomats who have been appointed to Sri Lanka
-
-*2024-02-01 19:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192856) · `si`
-
-A new High Commissioner and three ambassadors arrived in Sri Lanka this afternoon President Ranil Wickremesinghe in the presidential office.
-
-The new ambassadors of the new High Commissioner for the Kingdom of Esavini and the New High Commissioner for the Kingdom and the Republic of Romania, Kirgis and Turkmentan.
-
-01. Menzy Siro Dlamini - High Commissioner - Esvartini Kingdom
-
-Minister of External Affairs Tharaka Balasuriya, Presidential Secretary Saman Ekanayake were also present.
-
-Meanwhile, new High Commissioner and Ambassadors were also a short discussion with the Presidential Advisor of the National Security and the Presidential Chief of Staff Sagala Ratnayake.
-
-◼️
-
-[Data](articles/982d7f89.json)
-
-[Extended Data](ext_articles/982d7f89.ext.json)
 
 ---

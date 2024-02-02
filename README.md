@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 21:17:16**
+As of **2024-02-02 21:32:47**
 
 ## Newspaper Stats
 
-*Scraped **4,419** Articles*
+*Scraped **4,421** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 272
 newsfirstlk | 274
 adalk | 387
 virakesarilk | 498
-adaderanasinhalalk | 533
+adaderanasinhalalk | 535
 adaderanalk | 554
 tamilmirrorlk | 563
 dailymirrorlk | 612
@@ -26,11 +26,29 @@ dailymirrorlk | 612
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,418 (100.0%) of 4,419 articles have been extended.
+4,419 (100.0%) of 4,421 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### නාරම්මල වෙඩි තැබීමේ සිද්ධියේ අලුත් කතාවක් එළියට
+
+*2024-02-02 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192900) · `si`
+
+නාරම්මලදී ගිනි අවිය ක්‍රියාත්මක වීමෙන් ලොරි රථ රියදුරෙකු මියයෑමේ සිද්ධියට සම්බන්ධ පොලිස් නිලධාරින් ගමන්ගත් යතුරුපැදිය ව්‍යාජ අංක තහඩු සවිකර භාවිත කළ එකක් බව හෙළි වී ඇත.
+
+කුලියාපිටිය කොට්ඨාස අපරාධ විමර්ශන ඒකකය අධිකරණයට ඒ බව වාර්තා කර තිබේ.
+
+2007 වසරේදී අලෙවිසලකින් මිලදී ගෙන ඇති එම යතුරුපැදිය මේ වන තෙක් ලියාපදිංචි කර නොමැති බව වැඩිදුරටත් අනාවරණ වී ඇත.
+
+සිද්ධියට සම්බන්ධ සැකකාර උපපොලිස් පරීක්ෂකවරයා ලබන 16 වනදා දක්වා යළි රක්ෂිත බන්ධනාගාරගත කර ඇති අතර අනෙක් පොලිස් නිලධාරියාගේ විදෙස් ගමන් තහනම් කෙරිණි.
+
+◼️
+
+[Data](articles/d349ca51.json)
+
+---
 
 ### Special announcement on salaries, allowances paid to retired disabled soldiers and dependents
 
@@ -45,6 +63,22 @@ Accordingly, full salaries and allowances of such tri-forces personnel will be p
 ...
 
 [Data](articles/127192e2.json)
+
+[Extended Data](ext_articles/127192e2.ext.json)
+
+---
+
+### ආරක්ෂක අමාත්‍යාංශයෙන් නිවේදනයක්
+
+*2024-02-02 20:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192899) · `si`
+
+2009.05.19 දිනට පෙර මෙරට පැවති යුද්ධයට සක්‍රිය ව දායකත්වය ලබා දී ත්‍රස්තවාදී ක්‍රියා හේතුවෙන් මිය ගිය, ආබාධිත ව වෛද්‍ය හේතූන් මත විශ්‍රාම ගොස් සිටින ත්‍රිවිධ හමුදා සාමාජිකයින්ට පූර්ණ වැටුප හා දීමනා ලබා දීමට අමාත්‍ය මණ්ඩලය තීරණය කර ඇති බව ආරක්ෂක අමාත්‍යාංශය නිවේදනය කරයි.
+
+ඔවුන්ගේ වයස අවුරුදු 55 එළැඹීමට පෙර මිය ගිය අවස්ථාවක දී අදාළ හමුදා සාමාජිකයාගේ වයස අවුරුදු 55 එළඹෙන දිනය දක්වා ඔවුන්ගේ යැපෙන්නන් වෙත මෙම වැටුප් හා දීමනා ලබා දීමට නියමිත ව තිබේ.
+
+◼️
+
+[Data](articles/0037cb00.json)
 
 ---
 
@@ -2003,45 +2037,5 @@ The "Urumaya" National Operational Secretariat has been launched under the Presi
 [Data](articles/6d305b4c.json)
 
 [Extended Data](ext_articles/6d305b4c.ext.json)
-
----
-
-### Litro is not different
-
-*2024-02-02 11:45:21* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-මිල-වෙනස්-නොවෙයි/11-407866) · `si`
-
-The company has decided not to change the Litro house gas price this month.Accordingly, the values of last month will be implemented this month.
-
-◼️
-
-[Data](articles/bae39767.json)
-
-[Extended Data](ext_articles/bae39767.ext.json)
-
----
-
-### Brutal Beliatte killings: Two more suspects arrested
-
-*2024-02-02 11:42:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/brutal-beliatte-killings-two-more-suspects-arrested/) · `en`
-
-COLOMBO (News 1st); Two more suspects have been arrested in connection with the murder of five individuals including Leader of the Ape Jana Bala Party Saman Perera, in Beliatte.
-
-The duo were arrested by a group of officers of the Police Special Task Force.
-
-Police said the 39-year-old wife of a retired Navy personnel and her 72-year-old father were arrested.
-
-21 grams and 350 milligrams of heroin were seized from the suspect's possession.
-
-During interrogations, it was revealed that the suspect's husband, an ex-Navy personnel, was the main shooter involved in this murder.
-
-Investigations revealed that he went to Beliatte on the 21st of January, carried out the shootings with another gunman on the 22nd, and fled to Dubai.
-
-Flight tickets were arranged for the two suspects by an individual named Nipuna in Dubai.
-
-...
-
-[Data](articles/7681bbd3.json)
-
-[Extended Data](ext_articles/7681bbd3.ext.json)
 
 ---

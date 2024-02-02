@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 17:17:12**
+As of **2024-02-02 17:33:07**
 
 ## Newspaper Stats
 
-*Scraped **4,384** Articles*
+*Scraped **4,387** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ newsfirstlk | 270
 dailyftlk | 272
 adalk | 387
 virakesarilk | 493
-adaderanasinhalalk | 526
+adaderanasinhalalk | 528
 adaderanalk | 550
 tamilmirrorlk | 558
-dailymirrorlk | 604
+dailymirrorlk | 605
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,376 (99.8%) of 4,384 articles have been extended.
+4,384 (99.9%) of 4,387 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### සෞඛ්‍ය වැඩ වර්ජනය අවසන්
+
+*2024-02-02 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192893) · `si`
+
+සෞඛ්‍ය වැඩ වර්ජනය හෙට (03) පෙරවරු 06.30න් පසු ව අවසන් කරන බව සෞඛ්‍ය වෘත්තීය සමිති පවසයි.
+
+සෞඛ්‍ය වෘත්තීයවේදීන්ගේ විද්වත් සංගමයේ සභාපති රවී කුමුදේශ් මහතා මේ බව අවධාරණය කර ඇත.
+
+අද පස්වරුවේ පැවති සාකච්ඡාවෙන් අනතුරුව මෙම තීරණයට එළැඹුණ බව අද පැවති මාධ්‍ය හමුවක දී ඒ මහතා ප්‍රකාශ කළේ ය.
+
+කෙසේ වෙතත් එළැඹෙන අඟහරුවාදා දිනයේ නැවත සාකච්ඡාවක් සිදු කර බදාදා දිනයේ සිට වැඩවර්ජනය යළි ක්‍රියාත්මක කරනවා ද නැද්ද යන්න තීරණය කරන බව ද වෘත්තීය සමිති සමාජිකයෝ වැඩිදුරටත් පවසති.
+
+◼️
+
+[Data](articles/0684545c.json)
+
+---
+
+### Ongoing health strike to be called off
+
+*2024-02-02 16:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ongoing-health-strike-to-be-called-off/108-276222) · `en`
+
+Colombo, Feb 02 (Daily Mirror) -  The trade unions representing the health sector have decided to suspend the ongoing strike action from 6.30 am tomorrow (03).
+
+At least 72 trade unions within the health sector resorted to an island-wide strike yesterday (01) in protest of the long-standing dispute over the Disturbance, Availability and Transport (DAT) allowance.
+
+◼️
+
+[Data](articles/a847f04d.json)
+
+---
 
 ### Health trade unions temporarily call off strike action
 
@@ -48,23 +80,49 @@ In response to the island-wide strike, tri-force personnel were deployed to the 
 
 [Data](articles/1f6455f0.json)
 
+[Extended Data](ext_articles/1f6455f0.ext.json)
+
 ---
 
-### சீன புறாவை விடுவித்தது இந்தியா
+### ඇෆ්ගනිස්තාන පළමු ඉනිම ලකුණු 198කට සීමා වෙයි
+
+*2024-02-02 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192892) · `si`
+
+ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර පැවැත්වෙන පළමු හා එකම ටෙස්ට් තරගයේ පළමු දිනය වන අද (02) සිය පළමු ඉනිම ක්‍රීඩා කළ ඇෆ්ගනිස්තානය සියලු දෙනා දැවී ලකුණු 198ක් ලබා ගත්තේ ය.
+
+කාසියේ වාසිය දිනූ ශ්‍රී ලංකා නායකයාගේ ආරාධනයෙන් ඇෆ්ගනිස්තාන කණ්ඩායම පළමුව පන්දුවට පහර දීම සඳහා පිටියට පිවිසුණු නමුත් ඔවුන්ට විශාල ලකුණු පුවරුවක් නිර්මාණය කිරීමට නොහැකි විය.
+
+ඇෆ්ගනිස්තානය වෙනුවෙන් සාර්ථක ඉනිමක් දියත් කළ රහ්මට් ශා ලකුණු 91ක් රැස් කළේ ය.
+
+අසිත ප්‍රනාන්දු හා ප්‍රභාත් ජයසූරිය අතරේ කඩුලු 03 බැගින් බෙදී ගියේ ය.
+
+◼️
+
+[Data](articles/0454b018.json)
+
+---
+
+### India released Chinese pigeon
 
 *2024-02-02 16:34:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீன-புறாவை-விடுவித்தது-இந்தியா/175-332555) · `ta`
 
-இந்தியாவை உளவு பார்க்க சீனா பயன்படுத்தியதாக சந்தேகிக்கப்படும் புறா ஒன்று பிடிபட்டது. கால்நடை மருத்துவமனையில் காவலில் வைக்கப்பட்டிருந்ததாக அந்தப் புறா எட்டு மாதங்களுக்குப் பிறகு புதன்கிழமை விடுவிக்கப்பட்டுள்ளது என மும்பை காவல்துறை கூறியுள்ளது.
+A pigeon suspected of China used to spy on India. Mumbai police said that the pigeon was released on Wednesday after eight months.
 
-மும்பையில் உள்ள பரேல் பகுதியில் உள்ள விலங்குகளுக்கான பாய் சகர்பாய் மருத்துவமனை திங்கள்கிழமை பறவையை விடுவிக்க காவல்துறையின் அனுமதியைக் கோரியது. அதைத் தொடர்ந்து புறா விடுவிக்கப்பட்டது என்று மும்பையின் ஆர்சிஎஃப் காவல் நிலைய அதிகாரி தெரிவிக்கிறார்.
+Bai Celeboy Hospital for animals in Parel, Mumbai, sought the permission of the police to release the bird on Monday. Mumbai's RCF police officer said that the pigeon was released.
 
-புறநகர் பகுதியான செம்பூரில் உள்ள பிர் பாவ் ஜெட்டியில் கடந்த ஆண்டு மே மாதம் இந்தப் புறா பிடிபட்டது.
+The pigeon was caught in May last year at the Bir Bao Jetti in the suburbs of Sempur.
 
-புறாவிற்கு இரண்டு மோதிரங்கள் அணிவிக்கப்பட்டிருந்தன. அவற்றில் ஒன்று தாமிரம் மற்றும் மற்றொன்று அலுமினியத்தால் ஆனவை. புறாவின் இரண்டு இறக்கைகளின் கீழ் பக்கத்திலும் சீன எழுத்துக்களில் எழுதப்பட்ட செய்திகள் இருந்தன. இது தொடர்பாக ஆர்சிஎஃப் பொலிஸார் வழக்குப்பதிவு செய்தனர். விசாரணைக்குப் பின் உளவுக் குற்றச்சாட்டு கைவிடப்பட்டது.
+Two rings were worn for pigeon. One of them is copper and the other are made of aluminum. There were messages written in Chinese letters on the lower side of the dove's two wings. RCF police have filed a case in this regard. After the investigation, the intelligence allegation was abandoned.
 
-...
+At the hearing of the case, the police found that the dove caught in Taiwan was racing in Taiwan.. Police say the pigeon flew during a race.
+
+Pigeon was released after police claimed that there was no objection to release the pigeon. Mumbai police say the bird's health was good when it was released. Remble
+
+◼️
 
 [Data](articles/55034ce3.json)
+
+[Extended Data](ext_articles/55034ce3.ext.json)
 
 ---
 
@@ -83,6 +141,8 @@ Later Dewmi, who bagged three scalps spearheaded the bowling attack and along wi
 ...
 
 [Data](articles/4ac835fb.json)
+
+[Extended Data](ext_articles/4ac835fb.ext.json)
 
 ---
 
@@ -146,6 +206,8 @@ The Act, which has been widely critized both locally and internationally, became
 
 [Data](articles/b8df12ae.json)
 
+[Extended Data](ext_articles/b8df12ae.ext.json)
+
 ---
 
 ### SI arrested over Narammala ‘accidental’ shooting further remanded
@@ -181,6 +243,8 @@ In the long official statement, Vijay said that though his fan club Vijay Makkal
 ...
 
 [Data](articles/a4b89169.json)
+
+[Extended Data](ext_articles/a4b89169.ext.json)
 
 ---
 
@@ -242,6 +306,8 @@ The Asia Internet Coalition, an industry association that promotes understanding
 
 [Data](articles/d6588cb7.json)
 
+[Extended Data](ext_articles/d6588cb7.ext.json)
+
 ---
 
 ### India releases pigeon accused of spying for China
@@ -266,6 +332,8 @@ The bird was transferred from the hospital to the Bombay Society for the Prevent
 
 [Data](articles/c8c044c6.json)
 
+[Extended Data](ext_articles/c8c044c6.ext.json)
+
 ---
 
 ### Sri Lanka secures USD 150 million from World Bank
@@ -279,6 +347,8 @@ The primary focus of the project is to enhance the robustness of Sri Lanka's fin
 ...
 
 [Data](articles/87c30f6e.json)
+
+[Extended Data](ext_articles/87c30f6e.ext.json)
 
 ---
 
@@ -1933,59 +2003,5 @@ The Deputy Solicitor General also told the court that one of the reasons provide
 [Data](articles/9ebb1908.json)
 
 [Extended Data](ext_articles/9ebb1908.ext.json)
-
----
-
-### Ex-Health Minister Keheliya arrives at CID
-
-*2024-02-02 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96935/ex-health-minister-keheliya-arrives-at-cid) · `en`
-
-Former Health Minister Keheliya Rambukwella arrived at the Criminal Investigation Department (CID) premises on Friday morning (Feb.02) in compliance with a court order issued on Thursday.
-
-The former health minister was supposed to make an appearance before the CID on Wednesday (Jan.31), but he failed to do so on account of attending the proceedings of a case heard before the Colombo High Court, as well as a ministerial sub-committee meeting convened at the Presidential Secretariat.
-
-Thus, Rambukwella had sought the CID, in writing, to fix another date for him to provide his statement.
-
-On Thursday (Feb.01), the Maligakanda Magistrate ordered the former health minister to appear before the CID to record a statement pertaining to his alleged involvement in the substandard medicines procurement. Additionally, the lawmaker was also slapped with a foreign travel ban.
-
-...
-
-[Data](articles/441e2c4a.json)
-
-[Extended Data](ext_articles/441e2c4a.ext.json)
-
----
-
-### The Keheliya CID comes under CID
-
-*2024-02-02 08:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192871) · `si`
-
-Former Health Minister Keheliya Rambukwella arrived at the CID this morning, our correspondents.
-
-The Court today ordered the CID to enter the Criminal Investigation Department.
-
-Police Media Spokesperson DIG Nihal Talduuwa said that the court was taken into the case with regard to the medicinal of the substandard Human Emmount Pharmacy yesterday.
-
-Keheliya Rambukwella has been asked to appear before the Criminal Investigation Department.
-
-◼️
-
-[Data](articles/1650ba41.json)
-
-[Extended Data](ext_articles/1650ba41.ext.json)
-
----
-
-### Constitutional Council rejects President’s Supreme Court pick
-
-*2024-02-02 08:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Constitutional-Council-rejects-Presidents-Supreme-Court-pick/108-276156) · `en`
-
-Colombo, Feb 02 (Daily Mirror) -  The Constitutional Council (CC) has declined to endorse the nomination of Court of Appeal President Nissanka Bandula Karunaratne as a Supreme Court judge by President Ranil Wickremesinghe triggering him to be on a collision course with the parliamentary body, Daily Mirror learns.
-
-...
-
-[Data](articles/1ce4cade.json)
-
-[Extended Data](ext_articles/1ce4cade.ext.json)
 
 ---

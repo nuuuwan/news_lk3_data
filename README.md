@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 07:15:46**
+As of **2024-02-02 07:53:24**
 
 ## Newspaper Stats
 
-*Scraped **4,250** Articles*
+*Scraped **4,253** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 265
 dailyftlk | 272
 adalk | 378
 virakesarilk | 469
-adaderanasinhalalk | 501
+adaderanasinhalalk | 504
 adaderanalk | 529
 tamilmirrorlk | 540
 dailymirrorlk | 581
@@ -26,11 +26,67 @@ dailymirrorlk | 581
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,242 (99.8%) of 4,250 articles have been extended.
+4,253 (100.0%) of 4,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### Dayasiri revealed about Maithri's alliance
+
+*2024-02-02 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192868) · `si`
+
+MP Dayasiri Jayasekara says that Ranil Wickremesinghe has decided to appoint the new UPFA's support to the President of the Sri Lanka Freedom Party.
+
+The MP further stated that no political party has been confident of Maithripala Sirisena.
+
+"A lot of people today does not believe in Mr. Maithripala Sirisena. That is the leadership councils. At the meeting of last week, I saw hearing herself to support Ranil Wickremesinghe. They are in the join.. Sri Lanka Freedom Party (SLFP) to support Mr. Ranil Wickremesinghe. It's a problem for Sri Lankans in the village. "
+
+◼️
+
+[Data](articles/92f38c3c.json)
+
+[Extended Data](ext_articles/92f38c3c.ext.json)
+
+---
+
+### Health strike today
+
+*2024-02-02 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192867) · `si`
+
+The Health strike will continue today (02), says the trade unions.
+
+The Paradic Service Joint Joint Joint Front Mr. Upul Rohana said that a final decision will be taken regarding the next meeting with the participation of the trade union representatives.
+
+The strike was launched yesterday on the strike, which has commenced three to two health unions, who have begun to give the Dat allowance at Rs.
+
+◼️
+
+[Data](articles/871a588e.json)
+
+[Extended Data](ext_articles/871a588e.ext.json)
+
+---
+
+### Several showers today
+
+*2024-02-02 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192866) · `si`
+
+Several spells of showers in the Polonnaruwa District and the Polonnaruwa District today.
+
+The statement further shows the central, Sabaragamuwa and Southern provinces today. Showers or thundershowers will occur at several places after 4.00.
+
+In some places in the Central and Sabaragamuwa Province, some locations are expected in the morning in some places in the Galle and Matara districts.
+
+The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/9af0af30.json)
+
+[Extended Data](ext_articles/9af0af30.ext.json)
+
+---
 
 ### Evening thundershowers possible in several provinces
 
@@ -54,6 +110,8 @@ Winds will be north-easterly or easterly and wind speed will be 20-30 kmph.
 
 [Data](articles/9aeab7fd.json)
 
+[Extended Data](ext_articles/9aeab7fd.ext.json)
+
 ---
 
 ### Nippon Paint Rugby League 2023/24 – Week 8 Preview
@@ -65,6 +123,8 @@ Just a few weeks ago, the men from Havelock Town came well prepared to take on t
 ...
 
 [Data](articles/9ee67204.json)
+
+[Extended Data](ext_articles/9ee67204.ext.json)
 
 ---
 
@@ -82,6 +142,8 @@ Even as the greater part of the island is enveloped in a melodious mood, a disco
 
 [Data](articles/f5cda53c.json)
 
+[Extended Data](ext_articles/f5cda53c.ext.json)
+
 ---
 
 ### Electoral prospects spark optimism for Sri Lanka’s underprivileged
@@ -97,6 +159,8 @@ The anticipation of a general election has sent shockwaves through the corridors
 ...
 
 [Data](articles/47a4daa0.json)
+
+[Extended Data](ext_articles/47a4daa0.ext.json)
 
 ---
 
@@ -116,6 +180,8 @@ His comments came after Prime Minister Srettha Thavisin – a real estate mogul 
 
 [Data](articles/c83fed20.json)
 
+[Extended Data](ext_articles/c83fed20.ext.json)
+
 ---
 
 ### Fostering economic ties: Sri Lanka-Thailand Business Council
@@ -129,6 +195,8 @@ Sri Lanka and Thailand, despite being geographically distant, share historical t
 ...
 
 [Data](articles/0534b176.json)
+
+[Extended Data](ext_articles/0534b176.ext.json)
 
 ---
 
@@ -994,37 +1062,47 @@ Subsequently, the High Commissioner and Ambassadors appointed on Thursday (01) h
 
 ---
 
-### சுதந்திர தின நிகழ்வுகளை குழப்பும் எதிர்க்கட்சிகளின் திட்டத்துக்கு மக்கள் துணைபோகக்கூடாது - ஐக்கிய தேசிய கட்சி
+### People should not support the plan of opposition parties to confuse Independence Day events - the United National Party
 
 *2024-02-01 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175343) · `ta`
 
-வங்குரோத்து நிலையில் இருந்த நாட்டை அதில் இருந்து மீட்ட நிலையில் நாட்டின் சுதந்திர தினத்தை கொண்டாட கிடைத்திருப்பது பெரும் பாக்கியமாகும்.
+It is a great privilege to celebrate the country's Independence Day in the restoration of the country.
 
-என்றாலும் சுதந்திர தின நிகழ்வுகளை குழப்புவதற்கு எதிர்க்கட்சிகள் பல்வேறு நாசகார செயல்களில் ஈடுபட்டு வருகின்றன. மக்கள் அதற்கு இடமளிக்கக்கூடாது என ஐக்கிய தேசிய கட்சியின் அரசியல்குழு உறுப்பினர் சாந்தினி கோன்கஹகே தெரிவித்தார்.
+However, the opposition parties are engaged in various sabotage to confuse the Independence Day events. United National Party (UNP Political Committee) Santini Gonahake said that the people should not be allowed.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் வியாழக்கிழமை (01) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு  கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+He was speaking at a press conference held at the UNP headquarters in Sirikotha on Thursday (01).
 
-மக்கள் கடந்த ஒன்றரை வருடத்துக்கு முன்னர் பல்வேறு அடிப்படை வசதிகள் இல்லாமல் கஷ்டப்பட்டுக்கொண்டிருந்த நிலையில் ஜனாதிபதி ரணில் விக்ரமசிங்க நாட்டை பொறுப்பேற்று, மிகவும் கஷ்டத்துக்கு மத்தியில் நாட்டின் பொருளாதாரத்தை ஸ்திர நிலைக்கு கொண்டுவர நடவடிக்கை எடுத்து வருகிறார்.
+President Ranil Wickremesinghe is taking over the country and taking steps to ensure the country's economy amidst great difficulties as people are suffering from various basic amenities last year.
+
+That is why people can get fuel, gas and other essential commodities today. Although the price of goods is slightly higher, all the products are in the market today.
+
+And people were struggling to obtain their land rights. However, the president has allocated 2 billion rupees in the budget this time to grant land guarantees.
 
 ...
 
 [Data](articles/ac574c0b.json)
 
+[Extended Data](ext_articles/ac574c0b.ext.json)
+
 ---
 
-### அரசாங்கத்தின் கொள்கைப் பிரகடன உரை மீதான சபை ஒத்திவைப்பு விவாதம் 08ஆம் 09ஆம் திகதிகளில் -  பாராளுமன்ற செயலாளர் நாயகம்
+### House adjournment debate on government's policy declaration on 08th 09th -Parliamentary Secretary General
 
 *2024-02-01 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175344) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் எதிர்வரும் 07ஆம் திகதி புதன்கிழமை பாராளுமன்றத்தில் முன்வைக்கப்படவுள்ள அரசாங்கத்தின் கொள்கைப் பிரகடனம் குறித்த சபை ஒத்திவைப்பு விவாதத்தை எதிர்வரும் 08ஆம் 09ஆம் திகதிகளில் நடத்துவதற்கு தீர்மானிக்கப்பட்டதாக பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹனதீர தெரிவித்தார்.
+Parliamentary Secretary General Kushani Rohanadheera said that it was decided to hold a postponement debate on the government's policy declaration on Wednesday, which will be presented in Parliament by President Ranil Wickremesinghe on Wednesday.
 
-சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் வியாழக்கிழமை (01) பாராளுமன்றத்தில் நடைபெற்ற கட்சித் தலைவர்கள் கூட்டத்தின் பாேதே இவ்வாறு தீர்மானிக்கப்பட்டதாகவும் செயலாளர் தெரிவித்தார்.
+The Secretary said that this was decided by the party leaders' meeting held in Parliament on Thursday (01) chaired by Speaker Mahinda Yapa Abeywardena.
 
-அதற்கு அமைய ஒன்பதாவது பாராளுமன்றத்தின் ஐந்தாவது கூட்டத்தொடர் எதிர்வரும்  07ஆம் திகதி  ஜனாதிபதி தலைமையில் வைபரீதியாக ஆரம்பித்துவைக்கப்படவிருப்பதுடன், அன்றையதினம் பாராளுமன்றத்துக்குத் தலைமை தாங்கும் ஜனாதிபதியினால்  காலை 10.30 மணிக்கு அரசாங்கத்தின் கொள்கைப் பிரகடனம் முன்வைக்கப்படவுள்ளது. கொள்கை பிரகடன உரையை தொடர்ந்து பாராளுமன்றம் மறுநாள் காலை 9,30 மணிவரை ஜனாதிபதியால் ஒத்திவைக்கப்படும்.
+Accordingly, the fifth session of the ninth parliament will be inaugurated by the President on the 7th of this month and the government's policy announcement will be presented at 10.30 am by the president headed by the President of Parliament that day.. The Parliament will be postponed by the President until 9,30 am the next day following the policy declaration speech.
 
-...
+Accordingly, on Thursday, 08th and 09th of this month, the House of Representatives will be postponed to the President's Policy Declaration, which will be presented by the President from 9.30 am to 5.30 pm.
+
+◼️
 
 [Data](articles/326fdb67.json)
+
+[Extended Data](ext_articles/326fdb67.ext.json)
 
 ---
 
@@ -1957,57 +2035,5 @@ Pakistan Lifestyle Exhibition is being held at BMICH until February 5. The Exhib
 [Data](articles/6fb58a54.json)
 
 [Extended Data](ext_articles/6fb58a54.ext.json)
-
----
-
-### Police call for public assistance to arrest a suspect
-
-*2024-02-01 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192844) · `si`
-
-Police seek public assistance to arrest a suspect in relation to investigations into an incident of controversial murder.
-
-Police had released a photo of the suspect who was involved in the incident.
-
-If you know information about the suspect, the Kollupitiya Police call to inform the Kollupitiya Police.
-
-◼️
-
-[Data](articles/34126e4f.json)
-
-[Extended Data](ext_articles/34126e4f.ext.json)
-
----
-
-### Health strike continues
-
-*2024-02-01 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192843) · `si`
-
-The Health strike will continue tomorrow and will continue tomorrow.
-
-◼️
-
-[Data](articles/2c3cdea8.json)
-
-[Extended Data](ext_articles/2c3cdea8.ext.json)
-
----
-
-### No bus fare increase: Shashi Welgama; Increase bus fare by 10% within two weeks: Gemunu
-
-*2024-02-01 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-bus-fare-increase-Shashi-Welgama-Increase-bus-fare-by-10-within-two-weeks-Gemunu/108-276143) · `en`
-
-Colombo, Feb 1 (Daily Mirror) - National Transport Commission Chairman, Shashi Welgama said today that there is no provision to increase bus fares even though the price of diesel has increased by Rs. 5.
-
-He said that according to the existing laws and agreements on bus fares, it is not possible to increase fares at this time, and no one has made a request to increase the bus fares so far.
-
-Meanwhile, considering yesterday's and previous fuel price revisions, the private bus associations have incurred a total loss of Rs. 22, which cannot be afforded, and therefore a bus fare revision is a must this time, Lanka Private Bus Owners' Association (LPBOA) Chairman Gemunu Wijerathne said.
-
-Every time fuel price revisions had taken place, as responsible bus associations, we have worked according to the national bus fare policy while bearing our losses.
-
-...
-
-[Data](articles/d0569ca9.json)
-
-[Extended Data](ext_articles/d0569ca9.ext.json)
 
 ---

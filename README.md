@@ -1,36 +1,122 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 18:32:40**
+As of **2024-02-02 18:49:54**
 
 ## Newspaper Stats
 
-*Scraped **4,397** Articles*
+*Scraped **4,403** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 50
+colombotelegraphcom | 51
 bbccomsinhala | 68
 dbsjeyarajcom | 132
 islandlk | 230
 economynextcom | 244
-newsfirstlk | 272
 dailyftlk | 272
+newsfirstlk | 273
 adalk | 387
 virakesarilk | 498
-adaderanasinhalalk | 528
+adaderanasinhalalk | 530
 adaderanalk | 551
-tamilmirrorlk | 560
+tamilmirrorlk | 562
 dailymirrorlk | 605
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,397 (100.0%) of 4,397 articles have been extended.
+4,397 (99.9%) of 4,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### හෙට සහ අනිද්දා විශේෂ රථ වාහන සැලසුමක්
+
+*2024-02-02 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192895) · `si`
+
+76 වැනි ජාතික නිදහස් උත්සවය වෙනුවෙන් හෙට (03) සහ අනිද්දා දෙදින කොළඹ ආශ්‍රිතව විශේෂ රථ වාහන සැලැසුමක් ක්‍රියාත්මක වන බව පොලීසිය පවසයි.
+
+අද රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති මාධ්‍ය හමුවක දී පොලිස් මාධ්‍ය ප්‍රකාශක නීතිඥ නිහාල් තල්දූව මහතා සහ නියෝජ්‍ය පොලිස්පති රථ වාහන දිසාව භාර ඉන්දික හපුගොඩ මහතා මේ බව පැහැදිලි කළේ ය.
+
+◼️
+
+[Data](articles/5f09ad3f.json)
+
+---
+
+### UN Warns Sri Lanka’s Online Safety Act Threatens Human Rights
+
+*2024-02-02 18:06:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/un-warns-sri-lanka-s-online-safety-act-threatens-human-rights/) · `en`
+
+COLOMBO (News 1st); The UN Human Rights Office on Friday (2) said that Sri Lanka's new Online Safety Act will have far reaching negative implications for human rights, including freedom of expression.
+
+In a statement posted on X, formerly known as Twitter, the UN Human Rights Office urges the government of Sri Lanka to consider amending the law to address concerns of civil society & industry groups & ensure it complies with human rights obligations
+
+UN Warns Sri Lanka’s Online Safety Act Threatens Human Rights
+
+Understanding Sri Lanka’s Online Safety Act: What You Need to Know
+
+Gazette issued making it mandatory to display weight and price of bread
+
+◼️
+
+[Data](articles/06e18cbd.json)
+
+---
+
+### இளைஞனை கடத்திச் சென்று சரமாரியாக தாக்கிய கும்பல்
+
+*2024-02-02 17:51:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞனை-கடத்திச்-சென்று-சரமாரியாக-தாக்கிய-கும்பல்/175-332559) · `ta`
+
+எம்பிலிப்பிட்டிய பிரதேசத்தில் இளைஞன் ஒருவரை கடத்திச் சென்ற குண்டர்கள் குழுவொன்று காட்டுப்பகுதியில் வைத்து கூரிய ஆயுதங்களால் தாக்கியுள்ளனர்.
+
+இதையடுத்து குட்டிகல மற்றும் எம்பிலிப்பிட்டிய பொலிஸார் இணைந்து குறித்த பிரதேசத்தில் மேற்கொண்ட தேடுதல் நடவடிக்கையினால் இளைஞனின் உயிர் காப்பாற்றப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+எம்பிலிப்பிட்டிய, கிருலவெல்கடுவ பிரதேசத்தைச் சேர்ந்த அடையாளம் தெரியாத இளைஞனே இவ்வாறு தாக்கப்பட்டதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
+
+மேலும், பொலிஸார் அந்த இடத்தை சுற்றிவளைத்த போது, ​​குற்றவாளிகள் வேனில் தப்பிச் சென்றதாகவும், சந்தேகநபர்களில் ஒருவர் பெரும் முயற்சியில் கைது செய்யப்பட்டதாகவும் பொலிஸார் தெரிவிக்கின்றனர். R
+
+◼️
+
+[Data](articles/3731267d.json)
+
+---
+
+### துண்டிக்கப்பட்ட கையை வெற்றிகரமாக இணைத்த கண்டி மருத்துவர்கள்
+
+*2024-02-02 17:41:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துண்டிக்கப்பட்ட-கையை-வெற்றிகரமாக-இணைத்த-கண்டி-மருத்துவர்கள்/175-332558) · `ta`
+
+கண்டி தேசிய வைத்தியசாலையின் விசேட சத்திரசிகிச்சை நிபுணர் டொக்டர் அமில சசங்க ரத்நாயக்க தலைமையிலான குழுவினர் பெண்ணொருவரின் துண்டாக்கப்பட்ட வலது கையை மீண்டும் வெற்றிகரமாக பொருத்தியுள்ளனர்.
+
+தென்னை அறுக்கும் இயந்திரத்தை சுத்தம் செய்யும் போது, ​​திடீரென இயந்திரம் வேலை செய்ய ஆரம்பித்ததால், வலது கையின் முழங்கைக்கு மேல் உள்ள பகுதி, இயந்திரத்தில் சிக்கி, தோளில் இருந்து, நான்கு அங்குலம் தள்ளி வெட்டுப்பட்டுள்ளது.
+
+அனுராதபுரத்தைச் சேர்ந்த 35 வயதுடைய பெண்ணே இந்த விபத்திற்கு முகம் கொடுத்துள்ளார். கண்டி வைத்தியசாலையில் மேற்கொள்ளப்பட்ட ஆறு மணித்தியால சத்திரசிகிச்சையின் பின்னர் கை வெற்றிகரமாக இணைக்கப்பட்டுள்ளது..
+
+டாக்டர் அமில சசங்க ரத்னாயக்கவின் வழிகாட்டுதலின் கீழ் டாக்டர் உதய கிரிடேன, பிளாஸ்டிக் அறுவை சிகிச்சை நிபுணர் சமிலா ஜயரத்ன, டாக்டர் சதீர பிரேமரத்ன, எலும்பு அறுவை சிகிச்சை நிபுணர், சிரேஷ்ட பதிவாளர் உதர ரத்நாயக்க, மயக்க மருந்து நிபுணர் டாக்டர் உடுவெல, டாக்டர் கசுன் மற்றும் சேனக ஆகியோர் இந்த நடவடிக்கையில் ஈடுபட்டனர்.
+
+...
+
+[Data](articles/aba4e2e3.json)
+
+---
+
+### පළමු දිනයේ වැඩි ගෞරවය ශ්‍රි ලංකාවට
+
+*2024-02-02 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192894) · `si`
+
+ශ්‍රී ලංකා ඇෆ්ගනිස්තාන පළමු සහ එකම ටෙස්ට් තරගයේ පළමු දිනය නිමා වන විට පළමු ඉනිම ක්‍රීඩා කරන ශ්‍රී ලංකා කණ්ඩායම කිසිවකු නොදැවී ලකුණු 80ක් රැස් කිරීමට සමත් විය.
+
+ඒ, ඇෆ්ගනිස්තාන කණ්ඩායම සිය පළමු ඉනිම සඳහා සියලු දෙනා දැවී රැස් කළ ලකුණු 198ට පිළිතුරු වශයෙනි.
+
+නොදැවී පන්දුවට පහර දෙන දිමුත් කරුණාරත්න ලකුණු 42ක් සහ නිශාන් මධුෂ්ක ලකුණු 36ක් රැස් කරගෙන සිටිති.
+
+◼️
+
+[Data](articles/002af569.json)
+
+---
 
 ### Namal congratulates commander Vijay
 
@@ -1146,7 +1232,7 @@ He said the trade union leaders will convene on Friday (02) afternoon to discuss
 
 Army Spokesperson Major General Rasika Kumara said 1,000 Army personnel were deployed to restore the hospital services disrupted by the strike.
 
-Understanding Sri Lanka’s Online Safety Act: What You Need to Know
+UN Warns Sri Lanka’s Online Safety Act Threatens Human Rights
 
 ...
 
@@ -1167,6 +1253,8 @@ The relevant gazette issued in accordance with the powers vested to the Chairman
 It adds that the weight of half a loaf of bread should be 225g.
 
 The gazette also states “tolerance deficiency”, which means the content less than the standard weight which is allowed, for a 450g loaf of bread is 13.5g.
+
+UN Warns Sri Lanka’s Online Safety Act Threatens Human Rights
 
 Understanding Sri Lanka’s Online Safety Act: What You Need to Know
 
@@ -1265,6 +1353,20 @@ Accordingly, Yasaratne added that all state institutions will run as usual on Mo
 [Data](articles/a288fcfe.json)
 
 [Extended Data](ext_articles/a288fcfe.ext.json)
+
+---
+
+### Memories Of H. L. D. Mahindapala
+
+*2024-02-02 12:47:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/memories-of-h-l-d-mahindapala/) · `en`
+
+H. L. D. Mahindapala, former editor-in-chief of Sri Lanka’s Sunday Observer and a renowned writer, passed away on January 30 in Colombo. I was introduced to Mahindapala by Noel Nadesan, a literary friend of mine who lives in Melbourne. Nadesan was publishing a bilingual (Tamil-English) newspaper called Uthayam at the time. Mahindapala also spoke at some of Uthayam’s seminar’s. Mahindapala migrated from Sri Lanka to Melbourne, Australia, in the 1970s with his wife, Ranjini. Ranjini was a Tamil lady whom Mahindapala loved and married. Despite the absence of offspring, their love blossomed for half a century, imbued with the pure, innocent affection of childlike devotion.
+
+They wanted to live in their homeland in their final years. Mahindapala’s beloved wife, Ranjini, passed away in Colombo in May 2021.
+
+...
+
+[Data](articles/27a0cc69.json)
 
 ---
 
@@ -1826,6 +1928,8 @@ Government spokesman Isaac Mwaura said "Kenyans are hereby advised to keep off t
 
 The Kenya Red Cross said on social media that crews had been "tirelessly battling the flames".
 
+UN Warns Sri Lanka’s Online Safety Act Threatens Human Rights
+
 Understanding Sri Lanka’s Online Safety Act: What You Need to Know
 
 Gazette issued making it mandatory to display weight and price of bread
@@ -1913,131 +2017,5 @@ Two suspects and nine suspects have been arrested in the operation and nine susp
 [Data](articles/4cd455d3.json)
 
 [Extended Data](ext_articles/4cd455d3.ext.json)
-
----
-
-### Kilinochchi - One person dies in an elephant accident
-
-*2024-02-02 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175356) · `ta`
-
-A family member who was involved in an accident in Kilinochchi - Elephant. The father of two children, Gopalasingham Sathiskumar (age 25), from Kilinochchi - Shantapuram, died.
-
-A few days ago, the family of the Kilinochchi - Elephant Passal. The man collided with the man and his 8 cows on the road, which went to the wrong side, and the Haiyas vehicle in the opposite direction crashed.
-
-Eight cows and a young woman died on the spot and the man was taken to the Kilinochchi Hospital and was later taken to the Jaffna Teaching Hospital.
-
-In this case, he died yesterday without treatment. Sudden Death Investigation Officer Namasivayam Premkumar. Police said during the death investigation. The body was handed over to relatives after anatomical examination.
-
-◼️
-
-[Data](articles/90a99ccf.json)
-
-[Extended Data](ext_articles/90a99ccf.ext.json)
-
----
-
-### Former naval officer identified as main gunman in Beliatta shooting - Wife, father arrested
-
-*2024-02-02 10:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-naval-officer-identified-as-main-gunman-in-Beliatta-shooting-Wife-father-arrested/108-276202) · `en`
-
-The Police Special Task Force (STF) arrested the wife and father of the person suspected to be the main gunman in the killing of five people, including the leader of the Ape Jana Bala Party, Saman Perera in Beliatta.
-
-Police said the main gunman of the Beliatta shooting has been identified as a former naval person.
-
-They said the main gunman's 39-year-old wife, who also served in the Navy and his 72-year-old father were arrested yesterday for aiding in the shooting.
-
-The suspects were arrested with 21 grams and 350 milligrams of heroin while they were in hiding at Pathagama in the Pallewela area.
-
-During questioning them, it was revealed that the main shooter and two other gunmen who had arrived for the Beliatta shooting had fled to Dubai after the incident.
-
-It has also been revealed that their flight tickets have been arranged by another individual engaged in organized crimes, 'Nipuna' who is in Dubai.
-
-...
-
-[Data](articles/ae4492cd.json)
-
-[Extended Data](ext_articles/ae4492cd.ext.json)
-
----
-
-### Beliatta mass shooting: Two including main gunman’s wife arrested
-
-*2024-02-02 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96937/beliatta-mass-shooting-two-including-main-gunmans-wife-arrested) · `en`
-
-The Police Special Task Force (STF) has arrested the wife of a retired naval person and his father on suspicion of being complicit in the Beliatta mass shooting that claimed the lives of five people.
-
-The retired naval person in question was reportedly the leading gunman in this mass murder.
-
-Thus far, 11 suspects in total have been arrested over the shooting which took place on January 23 near the Beliatta interchange of the Southern Expressway. Among the arrestees is the driver of the vehicle in which the assailants had arrived.
-
-A group of assailants in an SUV had opened fire at a white Defender, killing four persons at the scene. The fifth person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, but he was pronounced dead shortly.
-
-...
-
-[Data](articles/2c70ba53.json)
-
-[Extended Data](ext_articles/2c70ba53.ext.json)
-
----
-
-### The death of the road falls on the road
-
-*2024-02-02 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175355) · `ta`
-
-A man who fell on the road was admitted to a hospital while he was traveling in a bicycle.. Sivanadiyan Sivarasa (age 42), a resident of Alavetti south, died in the incident.
-
-The man fell down while traveling in his bicycle at six o'clock on the 28th. Those who went on the street rescued him and took him to the Tellippallai Hospital. He was later transferred to the Jaffna Teaching Hospital for further treatment.
-
-In this case, he died yesterday without treatment. Sudden Death Investigation Officer Namasivayam Premkumar. He is also reported to have been intoxicated when the incident occurred.
-
-◼️
-
-[Data](articles/429fd04b.json)
-
-[Extended Data](ext_articles/429fd04b.ext.json)
-
----
-
-### Cathay Pacific re-commences flight operations to Sri Lanka
-
-*2024-02-02 09:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cathay-Pacific-re-commences-flight-operations-to-Sri-Lanka/108-276194) · `en`
-
-Colombo, Feb 2 (Daily Mirror) - Scheduled flight operations by Cathay Pacific Airways were resumed with the inaugural flight, CX 611, which arrived at the Bandaranaike International Airport (BIA) last night, the Airport and Aviation Services (Sri Lanka) Limited said.
-
-They said the airline recommenced passenger flight operations using an Airbus 330-300 aircraft, and the days of operation will be Tuesdays, Thursdays and Saturdays.
-
-Cathay Pacific has been catering to the Sri Lankan market for over 30 years. The airline temporarily stopped flight operations in March 2020 due to the global Covid 19 pandemic situation.
-
-However, the airline operated a Boeing 747 freighter carrying vital supplies, including Covid vaccines, during the pandemic.
-
-The inaugural flight carried 253 passengers and they were welcomed by a cultural dancing performance organized by Sri Lanka Tourism at the BIA.
-
-...
-
-[Data](articles/22fedfeb.json)
-
-[Extended Data](ext_articles/22fedfeb.ext.json)
-
----
-
-### Ilayaraja concert;Announced New Dates!
-
-*2024-02-02 09:44:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளையராஜா-இசை-நிகழ்ச்சி-புதிய-திகதிகள்-அறிவிப்பு/175-332532) · `ta`
-
-The new dates have been announced for the concert of the musician Ilayaraja, the music composer in Colombo, "Raja Rajadhan".
-
-The music event will take place on April 20 and 21, the event organizers said.
-
-It has also been announced that those who have already received and registered tickets can use those tickets and view the show.
-
-The music event will take place on the 27th and 28th of last month at the Sugathadasa Indoor Stadium in Colombo.
-
-However, Pavadarini, the daughter and background singer of composer musician Ilayaraja, passed away after being treated in Sri Lanka due to cancer.
-
-◼️
-
-[Data](articles/6b201d33.json)
-
-[Extended Data](ext_articles/6b201d33.ext.json)
 
 ---

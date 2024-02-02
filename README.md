@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 21:51:26**
+As of **2024-02-02 22:02:36**
 
 ## Newspaper Stats
 
-*Scraped **4,429** Articles*
+*Scraped **4,430** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 272
 newsfirstlk | 274
 adalk | 387
 virakesarilk | 498
-adaderanasinhalalk | 535
+adaderanasinhalalk | 536
 adaderanalk | 554
 tamilmirrorlk | 563
 dailymirrorlk | 612
@@ -26,11 +26,27 @@ dailymirrorlk | 612
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,429 (100.0%) of 4,429 articles have been extended.
+4,430 (100.0%) of 4,430 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### Request for Amendment of Online Act
+
+*2024-02-02 21:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192901) · `si`
+
+The United Nations Human Rights Council (UNHRC) says that human rights are a negative impact on human rights, including freedom of expression.
+
+The council pointed out that the government requests the amendment to amend the law to ensure that the issues of civil society and the industry.
+
+◼️
+
+[Data](articles/95320771.json)
+
+[Extended Data](ext_articles/95320771.ext.json)
+
+---
 
 ### New story of Narammala Shooting incident
 
@@ -2049,23 +2065,5 @@ The results were released on November 16, 2023 and the cut-off marks for both Si
 [Data](articles/43ef0dd8.json)
 
 [Extended Data](ext_articles/43ef0dd8.ext.json)
-
----
-
-### 2023 Grade five scholarship exam: Cut-off marks released
-
-*2024-02-02 12:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/2023-Grade-five-scholarship-exam-Cut-off-marks-released/108-276212) · `en`
-
-Colombo, Feb 2 (Daily Mirror) - The Examinations Department today released the cut-off marks for the enrolment of students into Grade Six next year, based on the 2023 Grade 5 Scholarship Examination.
-
-Also, the students are requested to enter their correct examination numbers to obtain the results.
-
-Cut-off marks according to the district basis for Sinhala and tamil medium students are as follows:
-
-◼️
-
-[Data](articles/6cc17c8d.json)
-
-[Extended Data](ext_articles/6cc17c8d.ext.json)
 
 ---

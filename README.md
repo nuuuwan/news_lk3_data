@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 15:50:54**
+As of **2024-02-02 16:02:26**
 
 ## Newspaper Stats
 
-*Scraped **4,367** Articles*
+*Scraped **4,371** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 50
-bbccomsinhala | 67
+bbccomsinhala | 68
 dbsjeyarajcom | 132
 islandlk | 230
 economynextcom | 244
 newsfirstlk | 270
 dailyftlk | 272
 adalk | 386
-virakesarilk | 490
+virakesarilk | 493
 adaderanasinhalalk | 524
 adaderanalk | 547
 tamilmirrorlk | 557
@@ -26,11 +26,33 @@ dailymirrorlk | 598
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,367 (100.0%) of 4,367 articles have been extended.
+4,371 (100.0%) of 4,371 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### Investigation Police Investigate to the activist who was released by the court
+
+*2024-02-02 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175394) · `ta`
+
+A civil society activist of the Eastern Province, who was arrested and released by the court, has been investigated for about three hours in connection with the invitation to the Anti -Terrorism and Investigation Unit.
+
+Despite the release of the court, Wimalasena Lavakumar has stated that the anti -terrorism and intelligence unit questioned him that he was a violation of the rights.
+
+“Who gave you permission to make Heroes Day?How did you take permission?With whom do you have contact with Diaspora?Why did you go to the Heroes Day event?Their entire inquiry was able to observe the issues that deny the rights. ”
+
+On the morning of January 26, 2023, the Valaichenai police announced him to the Batticaloa Anti -Terrorism and Investigation Division on the morning of the 27th.
+
+Wimalasena Lavakumar told the regional journalists that he had been investigating until two o'clock in the afternoon at 11 am.
+
+...
+
+[Data](articles/8cbc4d6b.json)
+
+[Extended Data](ext_articles/8cbc4d6b.ext.json)
+
+---
 
 ### LAUGFS announced on gas price
 
@@ -56,11 +78,41 @@ Litro, the Litro, announced this morning to change the domestic gas prices for F
 
 LAUGFS Gas PLC has also decided not to revise the prices of domestic LP gas cylinders in the month of February, mirroring Litro Gas Lanka’s move.
 
+The announcement comes hours after Litro Gas Lanka revealed its decision to not amend the prices this month according to the pricing formula.
+
+Addressing a special media briefing this morning (Feb.02), Litro Chairman Muditha Peiris said the decision was reached after taking into account the financial difficulties facing the members of the public. Although the domestic gas cylinder prices should ideally be increased in line with the price hikes in the global market, Mr. Peiris said the company decided to bear the greater share of the loss incurred on account of non-revision of rates.
+
+After the price hike announced in January, Litro’s domestic gas prices now stand at the following rates:
+
 ◼️
 
 [Data](articles/4ad78463.json)
 
 [Extended Data](ext_articles/4ad78463.ext.json)
+
+---
+
+### Minister Tran Ales criticizes those who criticize his actions as addictive - the lawyers' worries are concerned
+
+*2024-02-02 15:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/175392) · `ta`
+
+Attorneys have issued a compassion for the Minister of Public Security Tran Alas.
+
+In a letter to the Minister of Public Safety, Tran Ales, the lawyers jointly pointed out the reports issued by the Minister and his actions.
+
+The lawyers organization has urged the need to carry out anti -narcotics measures within the framework of the law.
+
+At the same time it is necessary to find a solution to the drug problem, but at the same time it should not be carried out in order to restrict the fundamental rights to ignore the legal system or to disperse the fundamental rights.
+
+At the same time, it is a matter of concern that ignoring the laws that can control its powers and branding those who criticize its actions as addictive and addictive, and that the international ethics and standards on human rights are foreign influential.
+
+The lawyers' organization has also questioned the appointment of Deshabanduthenkon, who claimed that he was involved in torture in charge of the strategy.
+
+...
+
+[Data](articles/b6ad62e5.json)
+
+[Extended Data](ext_articles/b6ad62e5.ext.json)
 
 ---
 
@@ -107,6 +159,26 @@ Sudesh Madushanku, Langagoda Piyaratha Maha Vidyalaya, was erected in the Dellam
 [Data](articles/6e8cad7e.json)
 
 [Extended Data](ext_articles/6e8cad7e.ext.json)
+
+---
+
+### Actor Vijay started the political party
+
+*2024-02-02 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/175389) · `ta`
+
+Actor Vijay has landed on the political field. He officially announced that his party was named 'Tamil Nadu Victory Corporation'.
+
+You all know that the Vijay People's Movement has been doing various people's welfare programs, social services and relief as long as he can.
+
+However, it requires political authority that only a volunteer organization is impossible to bring about complete social, economic and political reforms.
+
+On the one hand, the current political environment, administrative disorders, and 'corrupt political culture', on the one hand, the 'split political culture' on the other hand, which is trying to divide our people through caste religions, is full of impediments for our unity and progress.
+
+...
+
+[Data](articles/6960fd1a.json)
+
+[Extended Data](ext_articles/6960fd1a.ext.json)
 
 ---
 
@@ -202,11 +274,15 @@ The project is also aimed at improving the financial and corporate capacity of t
 
 *2024-02-02 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/96947/anti-terrorism-bill-petition-hearing-concludes-sc-to-send-determination-to-speaker) · `en`
 
-The Supreme Court on Friday (Feb.02) concluded the hearing of petitions filed challenging the government’s new Anti-Terrorism Bill.
+The Supreme Court on Friday (Feb.02) concluded the hearing of petitions filed challenging the government’s new Anti-Terrorism Bill following the lengthy proceedings that continued for six days in total.
 
 Accordingly, the determination of the Supreme Court is slated to be forwarded to the Speaker of Parliament soon.
 
-◼️
+Thirty-one petitions had been put forward against the proposed legislation which seeks to replace the controversial Prevention of Terrorism Act (PTA).
+
+Among the petitioners are His Eminence Malcolm Cardinal Ranjith, General Secretary of Samagi Jana Balawegaya (SJB) Ranjith Madduma Bandara, National People’s Power (NPP) MP Vijitha Herath, Centre for Policy Alternatives (CPA), Socialist Youth Union (SYU), Duminda Nagamuwa of Frontline Socialist Party (FSP) and the Ceylon Teachers’ Union (CTU).
+
+...
 
 [Data](articles/4fb6327b.json)
 
@@ -1894,6 +1970,36 @@ At a press conference held yesterday, 41 people were injured in the attack and t
 
 ---
 
+### 'How I Write': Kathleen Jayawardena
+
+*2024-02-02 07:32:33* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw0rw4242nwo) · `si`
+
+Kathleen Jayawardena is not a writer for Sinhala readers.
+
+We have met with the novels of she novels for twenty over twenty acts of acts, unique, unnney, liquid, Halkey, Mahasen, Indicoratne, Indusen, Indicoratne.
+
+In addition, the columns and works she has written about the local and foreign literature have contributed significantly to the nutrition of Sinhala literary.
+
+When she talked to her as a novel, she to understand her feelings and writing when she was in a note.
+
+The questions I hear in this discussion is currently published by the 'History of Nimna' (2019) and the novels of this secret wind.
+
+It is well known for all writer's writing process.
+
+Where writing, how to write, how to write, the writing of writing, belong to the writer's abuse of the writer.
+
+The conversation is seeking to pointer to that secret site of the newcomers.
+
+The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
+
+...
+
+[Data](articles/3d2e0e2b.json)
+
+[Extended Data](ext_articles/3d2e0e2b.ext.json)
+
+---
+
 ### Veterinary Surgeon arrested for theft of cows
 
 *2024-02-02 07:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Veterinary-Surgeon-arrested-for-theft-of-cows/108-276177) · `en`
@@ -1933,81 +2039,5 @@ Saltive prawns cultivation, as far as the salt industry, and the tourism industr
 [Data](articles/b8f11149.json)
 
 [Extended Data](ext_articles/b8f11149.ext.json)
-
----
-
-### Climate change
-
-*2024-02-02 07:23:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலநிலையில்-ஏற்பட்டுள்ள-மாற்றம்/175-332529) · `ta`
-
-The Department of Meteorology has forecast rainy weather in some parts of the country.
-
-Rainfall is expected in the Eastern and Uva provinces and the districts of Polonnaruwa, Mullaitivu, Matale and Nuwara Eliya.
-
-The Department of Meteorology has announced that rain or thunderstorms will occur at Galle, Matara and Kandy at 2 pm. (Of)
-
-◼️
-
-[Data](articles/da8e776e.json)
-
-[Extended Data](ext_articles/da8e776e.ext.json)
-
----
-
-### Dayasiri revealed about Maithri's alliance
-
-*2024-02-02 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192868) · `si`
-
-MP Dayasiri Jayasekara says that Ranil Wickremesinghe has decided to appoint the new UPFA's support to the President of the Sri Lanka Freedom Party.
-
-The MP further stated that no political party has been confident of Maithripala Sirisena.
-
-"A lot of people today does not believe in Mr. Maithripala Sirisena. That is the leadership councils. At the meeting of last week, I saw hearing herself to support Ranil Wickremesinghe. They are in the join.. Sri Lanka Freedom Party (SLFP) to support Mr. Ranil Wickremesinghe. It's a problem for Sri Lankans in the village. "
-
-◼️
-
-[Data](articles/92f38c3c.json)
-
-[Extended Data](ext_articles/92f38c3c.ext.json)
-
----
-
-### Health strike brings people to their knees
-
-*2024-02-02 07:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-strike-brings-people-to-their-knees/108-276154) · `en`
-
-Colombo, Feb 01 (Daily Mirror) -  The healthcare services across the country were hampered as health workers resorted to strike action from yesterday (1).
-
-The strike was initiated at 6:30 a.m. by at least 72 trade unions within the health sector in protest of the government’s refusal to grant Disturbance, Availability, and Transport (DAT) allowance of Rs. 35,000 to the professionals.
-
-The trade union action unfolded across all government hospitals, drawing attention to the concerns of supplementary medical professionals who feel overlooked in the government’s recent decision-making.
-
-As such, patients within hospitals expressed their distress, citing inconveniences resulting from the disruption in healthcare services.
-
-Ravi Kumudesh, President of the Joint Council for Professions of Supplementary Medicine, voiced strong opposition to the Cabinet’s choice to abstain from increasing the DAT allowance for health professionals.
-
-...
-
-[Data](articles/95c1308b.json)
-
-[Extended Data](ext_articles/95c1308b.ext.json)
-
----
-
-### Health strike today
-
-*2024-02-02 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192867) · `si`
-
-The Health strike will continue today (02), says the trade unions.
-
-The Paradic Service Joint Joint Joint Front Mr. Upul Rohana said that a final decision will be taken regarding the next meeting with the participation of the trade union representatives.
-
-The strike was launched yesterday on the strike, which has commenced three to two health unions, who have begun to give the Dat allowance at Rs.
-
-◼️
-
-[Data](articles/871a588e.json)
-
-[Extended Data](ext_articles/871a588e.ext.json)
 
 ---

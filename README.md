@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 16:02:26**
+As of **2024-02-02 16:17:28**
 
 ## Newspaper Stats
 
-*Scraped **4,371** Articles*
+*Scraped **4,372** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 270
 dailyftlk | 272
 adalk | 386
 virakesarilk | 493
-adaderanasinhalalk | 524
+adaderanasinhalalk | 525
 adaderanalk | 547
 tamilmirrorlk | 557
 dailymirrorlk | 598
@@ -26,11 +26,31 @@ dailymirrorlk | 598
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,371 (100.0%) of 4,371 articles have been extended.
+4,371 (100.0%) of 4,372 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### පාකිස්තානයත් ජාතික ගුවන්සේවය විකිණීමට සැරසෙයි
+
+*2024-02-02 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192890) · `si`
+
+පාකිස්තානයේ ජාතික ගුවන්සේවය වන පාකිස්තාන ජාත්‍යන්තර ගුවන්සේවය විකුණා දැමීමට එරට පාලනය කටයුතු කරමින් සිටින බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+මේ වනවිට පාකිස්තානය දැඩි ආර්ථික අර්බුදයකට මුහුණ දෙමින් සිටින අතර පසුගිය ජූනි මාසයේදී එරට බලධාරීන් ආර්ථික ප්‍රතිසංස්කරණ හඳුන්වා දීමට ජාත්‍යන්තර මූල්‍ය අරමුදලට එකඟ විය.
+
+අනතුරුව ජාත්‍යන්තර මූල්‍ය අරමුදලින් පාකිස්තානයට ඩොලර් බිලියන 3ක අරමුදල් අනුමත වූ අතර අදාළ ගිවිසුම අත්සන් කර සති කිහිපයක් තුළ ජාතික ගුවන්සේවය ඇතුළු පාඩු ලබන රාජ්‍ය ව්‍යවසායන් ප්‍රතිව්‍යුහගත කිරීමට කටයුතු කළේය.
+
+භාරකාර රජයේ "පුද්ගලිකකරණය සම්බන්ධ අමාත්‍ය" ෆවාඩ් හසන් ෆවාඩ් පැවසුවේ ඊට අදාළ කටයුතු වලින් 98%ක් නිමකර ඇති බවයි.
+
+ගුවන්සේවය විකිණීමට අදාළ කැබිනට් අනුමැතිය ලබාගැනීම ද ඉදිරි දින කිහිපය තුළදී සිදුකිරීමට නියමිත බව සඳහන් ය.
+
+◼️
+
+[Data](articles/ec9d8993.json)
+
+---
 
 ### Investigation Police Investigate to the activist who was released by the court
 
@@ -2017,27 +2037,5 @@ Police told court that the suspect Veterinary Surgeon had issued a forged docume
 [Data](articles/9382ca65.json)
 
 [Extended Data](ext_articles/9382ca65.ext.json)
-
----
-
-### Come to the Sri Lanka Wood Museum?
-
-*2024-02-02 07:23:58* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72g75571epo) · `si`
-
-Daglas Tissera, who has been in Sri Lanka for nearly three decades, has now begun work as a fisherman.
-
-He is the Director of the Mangrove Museum of Chilaw.
-
-"Started after a mangrove conservation program was broadcast. A 1996 mangrove center was made here. The mangrove museum has been opened today in 2016. "
-
-Saltive prawns cultivation, as far as the salt industry, and the tourism industry and tourism and tourism and tourism and tourism industry have been affected.
-
-"I'm a fisherman. In 1985, artificial shrimp came to Puttalam District artificial shrimp to the Puttalam district.. I made a struggle with this industry. The Ceylon Sudhapezis Federation came and created organizations while doing so struggle. Then the organization made an organization in this village. That's the chairman of that. We saw that the system would be destroyed with prawns. It was a little place to stop it. It is the broadcast of the 2016 museum today. "
-
-...
-
-[Data](articles/b8f11149.json)
-
-[Extended Data](ext_articles/b8f11149.ext.json)
 
 ---

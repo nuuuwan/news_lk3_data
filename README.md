@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 18:49:54**
+As of **2024-02-02 19:02:02**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ dailymirrorlk | 605
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,397 (99.9%) of 4,403 articles have been extended.
+4,403 (100.0%) of 4,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
 
-### හෙට සහ අනිද්දා විශේෂ රථ වාහන සැලසුමක්
+### Special traffic plan tomorrow and tomorrow
 
 *2024-02-02 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192895) · `si`
 
-76 වැනි ජාතික නිදහස් උත්සවය වෙනුවෙන් හෙට (03) සහ අනිද්දා දෙදින කොළඹ ආශ්‍රිතව විශේෂ රථ වාහන සැලැසුමක් ක්‍රියාත්මක වන බව පොලීසිය පවසයි.
+A special traffic plan is being operated at the 76th National Independence Day celebrations tomorrow (03) and tomorrow.
 
-අද රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති මාධ්‍ය හමුවක දී පොලිස් මාධ්‍ය ප්‍රකාශක නීතිඥ නිහාල් තල්දූව මහතා සහ නියෝජ්‍ය පොලිස්පති රථ වාහන දිසාව භාර ඉන්දික හපුගොඩ මහතා මේ බව පැහැදිලි කළේ ය.
+Speaking at a press conference held at the Government Information Department, Police Media Spokesman Indika Hapugoda, in charge of the DIG, has said this.
 
 ◼️
 
 [Data](articles/5f09ad3f.json)
+
+[Extended Data](ext_articles/5f09ad3f.ext.json)
 
 ---
 
@@ -64,57 +66,67 @@ Gazette issued making it mandatory to display weight and price of bread
 
 [Data](articles/06e18cbd.json)
 
+[Extended Data](ext_articles/06e18cbd.ext.json)
+
 ---
 
-### இளைஞனை கடத்திச் சென்று சரமாரியாக தாக்கிய கும்பல்
+### A gang who abducted the teenager and attacked
 
 *2024-02-02 17:51:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞனை-கடத்திச்-சென்று-சரமாரியாக-தாக்கிய-கும்பல்/175-332559) · `ta`
 
-எம்பிலிப்பிட்டிய பிரதேசத்தில் இளைஞன் ஒருவரை கடத்திச் சென்ற குண்டர்கள் குழுவொன்று காட்டுப்பகுதியில் வைத்து கூரிய ஆயுதங்களால் தாக்கியுள்ளனர்.
+A group of thugs who abducted a youth in the Embilipitiya area have been attacked with sharp weapons in the forest.
 
-இதையடுத்து குட்டிகல மற்றும் எம்பிலிப்பிட்டிய பொலிஸார் இணைந்து குறித்த பிரதேசத்தில் மேற்கொண்ட தேடுதல் நடவடிக்கையினால் இளைஞனின் உயிர் காப்பாற்றப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+The police said that the youth's life was saved by a search operation in the area by Kuttikala and Embilipitiya.
 
-எம்பிலிப்பிட்டிய, கிருலவெல்கடுவ பிரதேசத்தைச் சேர்ந்த அடையாளம் தெரியாத இளைஞனே இவ்வாறு தாக்கப்பட்டதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
+An unidentified youth from Kirulavelgaduwa area, Embilipitiya, was attacked, police said.
 
-மேலும், பொலிஸார் அந்த இடத்தை சுற்றிவளைத்த போது, ​​குற்றவாளிகள் வேனில் தப்பிச் சென்றதாகவும், சந்தேகநபர்களில் ஒருவர் பெரும் முயற்சியில் கைது செய்யப்பட்டதாகவும் பொலிஸார் தெரிவிக்கின்றனர். R
+In addition, police said that when the police surrounded the place, the culprits escaped in the van and one of the suspects was arrested in a major attempt.. Remble
 
 ◼️
 
 [Data](articles/3731267d.json)
 
+[Extended Data](ext_articles/3731267d.ext.json)
+
 ---
 
-### துண்டிக்கப்பட்ட கையை வெற்றிகரமாக இணைத்த கண்டி மருத்துவர்கள்
+### Kandy doctors who have successfully attached the disconnected hand
 
 *2024-02-02 17:41:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துண்டிக்கப்பட்ட-கையை-வெற்றிகரமாக-இணைத்த-கண்டி-மருத்துவர்கள்/175-332558) · `ta`
 
-கண்டி தேசிய வைத்தியசாலையின் விசேட சத்திரசிகிச்சை நிபுணர் டொக்டர் அமில சசங்க ரத்நாயக்க தலைமையிலான குழுவினர் பெண்ணொருவரின் துண்டாக்கப்பட்ட வலது கையை மீண்டும் வெற்றிகரமாக பொருத்தியுள்ளனர்.
+A team led by Special Survey expert at the Kandy National Hospital, Dr. Amy Sasanka Ratnayake, has successfully re -applied the shredded right hand of a woman.
 
-தென்னை அறுக்கும் இயந்திரத்தை சுத்தம் செய்யும் போது, ​​திடீரென இயந்திரம் வேலை செய்ய ஆரம்பித்ததால், வலது கையின் முழங்கைக்கு மேல் உள்ள பகுதி, இயந்திரத்தில் சிக்கி, தோளில் இருந்து, நான்கு அங்குலம் தள்ளி வெட்டுப்பட்டுள்ளது.
+When cleaning the coconut chopping machine, the engine suddenly started working, the area on the top of the elbow of the right hand, trapped in the machine, was pushed from the shoulder to four inches.
 
-அனுராதபுரத்தைச் சேர்ந்த 35 வயதுடைய பெண்ணே இந்த விபத்திற்கு முகம் கொடுத்துள்ளார். கண்டி வைத்தியசாலையில் மேற்கொள்ளப்பட்ட ஆறு மணித்தியால சத்திரசிகிச்சையின் பின்னர் கை வெற்றிகரமாக இணைக்கப்பட்டுள்ளது..
+A 35 -year -old woman from Anuradhapura faced the accident. After a six -hour surgery carried out at the Kandy Hospital, the hand is successfully attached.
 
-டாக்டர் அமில சசங்க ரத்னாயக்கவின் வழிகாட்டுதலின் கீழ் டாக்டர் உதய கிரிடேன, பிளாஸ்டிக் அறுவை சிகிச்சை நிபுணர் சமிலா ஜயரத்ன, டாக்டர் சதீர பிரேமரத்ன, எலும்பு அறுவை சிகிச்சை நிபுணர், சிரேஷ்ட பதிவாளர் உதர ரத்நாயக்க, மயக்க மருந்து நிபுணர் டாக்டர் உடுவெல, டாக்டர் கசுன் மற்றும் சேனக ஆகியோர் இந்த நடவடிக்கையில் ஈடுபட்டனர்.
+Under the guidance of Dr. Aila Sasanka Ratnayake, Dr. Udaya Gridena, plastic surgeon Samila Jayaratne, Dr. Sadeera Premaratne, Senior Registrar, Senior Registrar Udara Ratnayake, Anesthan expert Dr. Uduwela, Dr. Kasun and Senaka were involved in the operation.
 
-...
+Nurses, including Shyama Nanayakkara, Siddara Suraweera, Chandima Senawaratne, Thilini Abeywardena, Endi Madushani and Sasani Costa, helped the operation.. Remble
+
+◼️
 
 [Data](articles/aba4e2e3.json)
 
+[Extended Data](ext_articles/aba4e2e3.ext.json)
+
 ---
 
-### පළමු දිනයේ වැඩි ගෞරවය ශ්‍රි ලංකාවට
+### Sri Lanka to visit Sri Lanka
 
 *2024-02-02 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192894) · `si`
 
-ශ්‍රී ලංකා ඇෆ්ගනිස්තාන පළමු සහ එකම ටෙස්ට් තරගයේ පළමු දිනය නිමා වන විට පළමු ඉනිම ක්‍රීඩා කරන ශ්‍රී ලංකා කණ්ඩායම කිසිවකු නොදැවී ලකුණු 80ක් රැස් කිරීමට සමත් විය.
+Sri Lanka's first day of Afghanistan first and the first Test of the Same Test celebrations were able to score 80 runs in their first innings.
 
-ඒ, ඇෆ්ගනිස්තාන කණ්ඩායම සිය පළමු ඉනිම සඳහා සියලු දෙනා දැවී රැස් කළ ලකුණු 198ට පිළිතුරු වශයෙනි.
+The Afghanistan group answered 198 marks 198 marks for the loss of all wickets for their first innings.
 
-නොදැවී පන්දුවට පහර දෙන දිමුත් කරුණාරත්න ලකුණු 42ක් සහ නිශාන් මධුෂ්ක ලකුණු 36ක් රැස් කරගෙන සිටිති.
+Dimuth Karunaratne who assaulted unbeaten on 42 runs and Nishan Madushka scored 36 runs.
 
 ◼️
 
 [Data](articles/002af569.json)
+
+[Extended Data](ext_articles/002af569.ext.json)
 
 ---
 
@@ -1367,6 +1379,8 @@ They wanted to live in their homeland in their final years. Mahindapala’s belo
 ...
 
 [Data](articles/27a0cc69.json)
+
+[Extended Data](ext_articles/27a0cc69.ext.json)
 
 ---
 

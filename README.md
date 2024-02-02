@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 21:32:47**
+As of **2024-02-02 21:51:26**
 
 ## Newspaper Stats
 
-*Scraped **4,421** Articles*
+*Scraped **4,429** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 52
 bbccomsinhala | 68
 dbsjeyarajcom | 132
 islandlk | 230
-economynextcom | 244
+economynextcom | 252
 dailyftlk | 272
 newsfirstlk | 274
 adalk | 387
@@ -26,27 +26,29 @@ dailymirrorlk | 612
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,419 (100.0%) of 4,421 articles have been extended.
+4,429 (100.0%) of 4,429 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
 
-### නාරම්මල වෙඩි තැබීමේ සිද්ධියේ අලුත් කතාවක් එළියට
+### New story of Narammala Shooting incident
 
 *2024-02-02 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192900) · `si`
 
-නාරම්මලදී ගිනි අවිය ක්‍රියාත්මක වීමෙන් ලොරි රථ රියදුරෙකු මියයෑමේ සිද්ධියට සම්බන්ධ පොලිස් නිලධාරින් ගමන්ගත් යතුරුපැදිය ව්‍යාජ අංක තහඩු සවිකර භාවිත කළ එකක් බව හෙළි වී ඇත.
+It is revealed that the motorcycle used by police officers involved in the death of a lorry driver in Narammamala.
 
-කුලියාපිටිය කොට්ඨාස අපරාධ විමර්ශන ඒකකය අධිකරණයට ඒ බව වාර්තා කර තිබේ.
+The Kuliyapitiya Divisional Criminal Investigation Unit has reported this to the court.
 
-2007 වසරේදී අලෙවිසලකින් මිලදී ගෙන ඇති එම යතුරුපැදිය මේ වන තෙක් ලියාපදිංචි කර නොමැති බව වැඩිදුරටත් අනාවරණ වී ඇත.
+It has been revealed that the motorcycle purchased from a stone in 2007 has been registered until now.
 
-සිද්ධියට සම්බන්ධ සැකකාර උපපොලිස් පරීක්ෂකවරයා ලබන 16 වනදා දක්වා යළි රක්ෂිත බන්ධනාගාරගත කර ඇති අතර අනෙක් පොලිස් නිලධාරියාගේ විදෙස් ගමන් තහනම් කෙරිණි.
+The suspect Inspector Association has been remanded until the 16th and the other police officer was banned.
 
 ◼️
 
 [Data](articles/d349ca51.json)
+
+[Extended Data](ext_articles/d349ca51.ext.json)
 
 ---
 
@@ -68,17 +70,19 @@ Accordingly, full salaries and allowances of such tri-forces personnel will be p
 
 ---
 
-### ආරක්ෂක අමාත්‍යාංශයෙන් නිවේදනයක්
+### Ministry of Defense announced
 
 *2024-02-02 20:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192899) · `si`
 
-2009.05.19 දිනට පෙර මෙරට පැවති යුද්ධයට සක්‍රිය ව දායකත්වය ලබා දී ත්‍රස්තවාදී ක්‍රියා හේතුවෙන් මිය ගිය, ආබාධිත ව වෛද්‍ය හේතූන් මත විශ්‍රාම ගොස් සිටින ත්‍රිවිධ හමුදා සාමාජිකයින්ට පූර්ණ වැටුප හා දීමනා ලබා දීමට අමාත්‍ය මණ්ඩලය තීරණය කර ඇති බව ආරක්ෂක අමාත්‍යාංශය නිවේදනය කරයි.
+The Ministry of Defense has decided to provide full salary and allowances to the three armed forces who have been retired due to terrorist activities before 19.05.2009.
 
-ඔවුන්ගේ වයස අවුරුදු 55 එළැඹීමට පෙර මිය ගිය අවස්ථාවක දී අදාළ හමුදා සාමාජිකයාගේ වයස අවුරුදු 55 එළඹෙන දිනය දක්වා ඔවුන්ගේ යැපෙන්නන් වෙත මෙම වැටුප් හා දීමනා ලබා දීමට නියමිත ව තිබේ.
+When they died before the age of 55, the salaries and allowances were to be provided to their dependents until the age of 55 years of age.
 
 ◼️
 
 [Data](articles/0037cb00.json)
+
+[Extended Data](ext_articles/0037cb00.ext.json)
 
 ---
 
@@ -474,6 +478,56 @@ In his first outing as the next Sri Lanka Test captain, Dhananjaya de Silva buck
 
 ---
 
+### Sri Lanka rupee closes stronger at 312.75 to the US dollar
+
+*2024-02-02 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-312-75-to-the-us-dollar-149750/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 313.25/50 to the US dollar Friday, from 315.50/70 a day earlier, dealers said.
+
+The rupee strengthened as much as 311 to the rupee in early trade until official buying resumed.
+
+A bond maturing on 01.02.2026 closed at 12.00/15 down from 12.10/25 percent Thursday.
+
+A bond maturing on 15.09.2027 closed at 12.65/72 down form 12.80/13.00 percent.
+
+A bond maturing on 15.03.2028 closed at 12.90/95 down from 13.10/15 percent.
+
+A bond maturing on 15.07.2029 closed at 13.00/20  down from 13.20/35 percent.
+
+A bond maturing on 15.05.2030 closed at 13.15/30 down from 13.20/35 percent.
+
+A bond maturing on 15.05.2031 closed at 13.25/45 down from 13.40/55 percent.
+
+A bond maturing on 01.07.2032 closed at 13.25/45 down from 13.45/60 percent. (Colombo/Feb1/2024)
+
+◼️
+
+[Data](articles/43bf7a5f.json)
+
+[Extended Data](ext_articles/43bf7a5f.ext.json)
+
+---
+
+### Sri Lanka launches fortified rice lunch programme to address malnutrition
+
+*2024-02-02 17:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-launches-fortified-rice-lunch-programme-to-address-malnutrition-149747/) · `en`
+
+ECONOMYNEXT — Some half a million school children in Sri Lanka are expected to benefit from a fortified rice lunch distribution programme over an eight month period, the government said.
+
+The Ministry of Agriculture and Plantation Industries, the Ministry of Education, the World Food Programme, the National Food Promotion Board and the Bill & Melinda Gates Foundation (BMGF) have collaborated on the project, a statement from the president’s office said.
+
+The launch of the programme was held in Colombo on Thursday February 01.
+
+“The program smeeeks to enhance the nutritional status of school children, addressing issues such as anemia, memory impairment and stunted growth. Approximately five hundred thousand school children are expected to benefit from fortified rice lunches over an eight-month period,” the statement said.
+
+...
+
+[Data](articles/374e9181.json)
+
+[Extended Data](ext_articles/374e9181.ext.json)
+
+---
+
 ### Once again no confidence motion against Keheliya
 
 *2024-02-02 17:11:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-எதிராக-மீண்டும்-நம்பிக்கையில்லா-பிரேரணை/175-332556) · `ta`
@@ -620,6 +674,34 @@ At least 72 trade unions within the health sector resorted to an island-wide str
 
 ---
 
+### Sri Lanka stocks close up 0.5-pct
+
+*2024-02-02 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-0-5-pct-149745/) · `en`
+
+ECONOMYNEXT – Sri Lanka stocks closed up 0.5 percent amid foreign selling, preliminary stock exchange data showed.
+
+The broader CSE All Share Index closed up 55 points at 10,430 points while the S&P SL20 Index went up 9.7 points to close at 2,943 points, up 0.33 percent.
+
+Foreign sales were 166 million and purchases were 8.5 million rupees.
+
+Central Finance closed at 103.00 rupees up 0.75 rupees, Commercial Bank of Ceylon was 88 rupees, down 10 cents, Cargills Bank was flat at 7.80 rupees, DFCC was 75.40 rupees, Hatton National Bank was 134 rupees, up 2.75,
+
+Dialog was 9.20 up 10 cents and Sri Lanka Telecom was 99.60 rupees, up 20 cents.
+
+Ceylon Cold Stores was 45 rupees up 2.40 rupees, Distilleries was 26.50 down 30 cents and
+
+Dipped Products was 26.90 up 20 cents, Expo Lanka was 130.50 rupees, down 25 cents, Hayleys was 73.10 rupees down 40 cents and Haycarb was 71.20 rupees.
+
+Chevron Lubricants was 94.00 rupees flat and Lanka IOC was 104.50 rupees, up 2.50 rupees. (Colombo/Feb02/2024)
+
+◼️
+
+[Data](articles/f8a1c174.json)
+
+[Extended Data](ext_articles/f8a1c174.ext.json)
+
+---
+
 ### Health trade unions temporarily call off strike action
 
 *2024-02-02 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96953/health-trade-unions-temporarily-call-off-strike-action) · `en`
@@ -637,6 +719,28 @@ In response to the island-wide strike, tri-force personnel were deployed to the 
 [Data](articles/1f6455f0.json)
 
 [Extended Data](ext_articles/1f6455f0.ext.json)
+
+---
+
+### Sri Lanka launches operations secretariat for free hold land distribution
+
+*2024-02-02 16:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-launches-operations-secretariat-for-free-hold-land-distribution-149741/) · `en`
+
+ECONOMYNEXT — Sri Lanka has launched a ‘National Operations Secretariat’ named Urumaya at the president’s office to oversee plans to grant freehold land titles to two million families.
+
+The secretariat is located at the president’s office in the old Standard Chartered Building, Colombo.
+
+“President Ranil Wickremesinghe’s vision of empowering farmers through land ownership takes shape as the government announces plans to grant freehold titles to two million families. This initiative aims to address long-standing concerns regarding land rights in rural Sri Lanka,” a statement from the president’s media division (PMD) said.
+
+President Wickremesinghe first announced the plan during the 2024 budget speech in November 2023, noting that 2 billion rupees has been allocated for the project.
+
+Sri Lanka has large tracts of state land, some of which were given to settler families under various agricultural schemes after independence, but without freehold.
+
+...
+
+[Data](articles/1411689b.json)
+
+[Extended Data](ext_articles/1411689b.ext.json)
 
 ---
 
@@ -1346,6 +1450,28 @@ The Colombo Magistrate’s Court, advising the suspect, had ordered him not to b
 
 ---
 
+### Sri Lanka signs World Bank $150 deposit insurance loan
+
+*2024-02-02 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-signs-world-bank-150-deposit-insurance-loan-149738/) · `en`
+
+ECONOMYNEXT – Sri Lanka has signed an agreement with Washington-based World Bank to borrow 150 million US dollars to strengthen a deposit insurance scheme, the island’s Finance Ministry said.
+
+The funds will come from the low-interest International Development Association window to which Sr Lanka re-qualified after its sovereign default.
+
+The project will strengthened the “financial and institutional capacity” of the Sri Lanka Deposit Insurance Scheme run by the central bank in line with international best practices for effective deposit insurance schemes, the statement said.
+
+It will increase the reserves of the deposit insurance fund which can be used to pay customers of banks that are liquidated.
+
+The loan agreement was signed by K.M. Mahinda Siriwardana, Secretary to the Treasury, and Faris H. Hadad-Zervos, Country Director for Maldives, Nepal and Sri Lanka on January 31, 2024. (Colombo/Feb02/2024)
+
+◼️
+
+[Data](articles/a464414d.json)
+
+[Extended Data](ext_articles/a464414d.ext.json)
+
+---
+
 ### Universal Buddha further remanded
 
 *2024-02-02 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192881) · `si`
@@ -1941,101 +2067,5 @@ Cut-off marks according to the district basis for Sinhala and tamil medium stude
 [Data](articles/6cc17c8d.json)
 
 [Extended Data](ext_articles/6cc17c8d.ext.json)
-
----
-
-### A man attempted suicide
-
-*2024-02-02 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175372) · `ta`
-
-There was a tense situation in the area as a person who had come to get a passport in a tree in front of the passport office in Vavuniya would suddenly climb into the tree and commit suicide.
-
-Anuragumara, a 51 -year -old from Mahayapura, Trincomalee, has come to the passport office in Vavuniya for the past three days and has not been able to get a passport.
-
-Frustrated by this, the person who was in a tree in front of the passport office, claimed that he would commit suicide by claiming that he would commit suicide.
-
-Immediately after the office officers were given a guarantee of obtaining a passport on Friday (02). Following this, the person got down from the tree.
-
-Commenting on the media, the man has been accused of having a leg and he is unable to stand for a long time, but some Mafia groups have been selling them in the area for the past three days to obtain a passport for the past three days.He said.
-
-...
-
-[Data](articles/d401da3d.json)
-
-[Extended Data](ext_articles/d401da3d.ext.json)
-
----
-
-### Independence rehearsal Day 4
-
-*2024-02-02 12:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Independence-rehearsal-Day-4/110-276211) · `en`
-
-Sri Lankan military personnel take part in the fourth day of rehearsals for the Independence Day parade in Colombo. Sri Lanka will celebrate its 76th Independence Day on February 4. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/b9ec005a.json)
-
-[Extended Data](ext_articles/b9ec005a.ext.json)
-
----
-
-### Maradariat marks for schools released according to scholarship results
-
-*2024-02-02 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192877) · `si`
-
-The cut-off marks for schools have been released on Grade 5 scholarship results in Grade 5 scholarships.
-
-Information on the cut-off marks for schools is available from the Ministry of Education website from the Ministry of Education website.
-
-It is also known that the students received by the students who have received from 05.02.2012 to https://g6application.gov.lk/#/.
-
-◼️
-
-[Data](articles/9d47ac85.json)
-
-[Extended Data](ext_articles/9d47ac85.ext.json)
-
----
-
-### Cathay Pacific returns to Sri Lanka
-
-*2024-02-02 11:58:03* · [`adalk`](https://www.ada.lk/breaking_news/කැතේ-පැසිෆික්-යළි-ලංකාවට-ඒයි/11-407867) · `si`
-
-During the Covid Epidemiology, from March 2020, arrived at the Katunayake airport, which had been temporarily handed over to the handicrafted flight operations from March 2/01.
-
-Accordingly, on Thursday and Saturday, Thursday and Saturday will be operated from Hong Kong to Katunayake on Saturday and Saturday.
-
-Cathay Facik Airlines COX. The 611 aircraft had arrived at the Katunayake airport at 11.31 pm on 02.01 midnight.
-
-Cathay Facikic Airlines had been deployed by a 330 - 300 aircraft for this trip.
-
-Cathay Facik Air Services is from Hong Kong to the destinations of 80 countries around the world.
-
-◼️
-
-[Data](articles/3a41f54e.json)
-
-[Extended Data](ext_articles/3a41f54e.ext.json)
-
----
-
-### The National Secretariat of Urumaya opened the President's Secretary
-
-*2024-02-02 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/175367) · `ta`
-
-The National Secretariat Secretariat was opened on Thursday (01) at the Old Standard Chartered Building at Setham Road by President of the President Saman Ekanayake.
-
-The government is planning to provide full owned land guarantees to 20 lakh agricultural families, according to President Ranil Wickremesinghe's concept to ensure the people's land rights.
-
-Two billion rupees has been allocated for the implementation of the Urumaya program and all the land permits issued under the Land Development Ordinance will be converted into land guarantees and will be issued to the beneficiaries.
-
-The "Urumaya" National Operational Secretariat has been launched under the President's Office to provide immediate solutions to the problems proposed by the people and to implement a coordination and guidance mechanism of relevant companies.
-
-...
-
-[Data](articles/6d305b4c.json)
-
-[Extended Data](ext_articles/6d305b4c.ext.json)
 
 ---

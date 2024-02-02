@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 04:02:18**
+As of **2024-02-03 04:17:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,450 (99.9%) of 4,453 articles have been extended.
+4,453 (100.0%) of 4,453 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -68,6 +68,8 @@ The organisation said the Minister has repeatedly referred to lawyers in this ma
 
 [Data](articles/4e07c334.json)
 
+[Extended Data](ext_articles/4e07c334.ext.json)
+
 ---
 
 ### Cabinet approves enhanced benefits  under Aswesuma welfare program
@@ -83,6 +85,8 @@ The approved revisions include the number of eligible families set to increase t
 ...
 
 [Data](articles/e5c1ad7d.json)
+
+[Extended Data](ext_articles/e5c1ad7d.ext.json)
 
 ---
 
@@ -101,6 +105,8 @@ Speaking to journalists at a briefing held at President Media Centre on Wednesda
 ...
 
 [Data](articles/18583633.json)
+
+[Extended Data](ext_articles/18583633.ext.json)
 
 ---
 

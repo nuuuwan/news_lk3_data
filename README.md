@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 15:32:58**
+As of **2024-02-02 15:50:54**
 
 ## Newspaper Stats
 
-*Scraped **4,360** Articles*
+*Scraped **4,367** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 270
 dailyftlk | 272
 adalk | 386
 virakesarilk | 490
-adaderanasinhalalk | 517
+adaderanasinhalalk | 524
 adaderanalk | 547
 tamilmirrorlk | 557
 dailymirrorlk | 598
@@ -26,11 +26,29 @@ dailymirrorlk | 598
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,360 (100.0%) of 4,360 articles have been extended.
+4,367 (100.0%) of 4,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### LAUGFS announced on gas price
+
+*2024-02-02 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192888) · `si`
+
+LAUGFS said that he would not be revised to the price of domestic gas for the month of February.
+
+Accordingly, the company said that the prices of January were applicable for February.
+
+Litro, the Litro, announced this morning to change the domestic gas prices for February.
+
+◼️
+
+[Data](articles/62d32262.json)
+
+[Extended Data](ext_articles/62d32262.ext.json)
+
+---
 
 ### No domestic gas price revision in February - LAUGFS
 
@@ -43,6 +61,52 @@ LAUGFS Gas PLC has also decided not to revise the prices of domestic LP gas cyli
 [Data](articles/4ad78463.json)
 
 [Extended Data](ext_articles/4ad78463.ext.json)
+
+---
+
+### Three petitions against Sanath Nishantha
+
+*2024-02-02 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192887) · `si`
+
+The Court of Appeal was issued today (01) to withdraw three petitions filed against former State Minister Sanath Nishantha accusing him.
+
+These petitions were called before the Court of Appeal of Sobhitha Rajara and Dhammika Ganepola today.
+
+Attorneys who appeared on behalf of the petitioners appear before the courts, the Supreme Sanath Nishantha has not been able to maintain the petitions.
+
+The accepted judiciary was given permission to withdraw the petitions.
+
+The petitions were presented by the Sri Lanka Judicial Officers Association and two lawyers, Priylal Sirisena and Vijitha Kumara.
+
+At a press conference held at the Sri Lanka Front Secretariat on a press conference held at the Sri Lanka Federation Office in August, 2022, the petitions were presented by the Magistrate's actions.
+
+◼️
+
+[Data](articles/17ec02a6.json)
+
+[Extended Data](ext_articles/17ec02a6.ext.json)
+
+---
+
+### Child dies after a short wall rolling up a short wall
+
+*2024-02-02 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192886) · `si`
+
+A 15-year-old child was killed.
+
+The accident had taken place in the Galwattawatta area in Navalwatta, Kurunegala yesterday evening.
+
+A 15-year-old Sudash Madushanka, the child is hazardous when it comes to hiding near the house with friends.
+
+The victim has died on the ground in a nearby house and died on admission to the Kurunegala Teaching Hospital.
+
+Sudesh Madushanku, Langagoda Piyaratha Maha Vidyalaya, was erected in the Dellampitiya Sri Piyarathana Maha Vidyalaya.
+
+◼️
+
+[Data](articles/6e8cad7e.json)
+
+[Extended Data](ext_articles/6e8cad7e.ext.json)
 
 ---
 
@@ -78,6 +142,22 @@ The US dollar purchasing price was Rs 307.1762 and the sale price was 316.9979 b
 
 ---
 
+### Out of the online bill
+
+*2024-02-02 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192885) · `si`
+
+The gazette, the Gazette on the Online Schemes Act has been announced.
+
+On the 24ths there was amendment to the Parliament of On-On-On-On-On-On-On-line security bill with amendments.
+
+◼️
+
+[Data](articles/46abb1ba.json)
+
+[Extended Data](ext_articles/46abb1ba.ext.json)
+
+---
+
 ### Online Safety Act gazetted
 
 *2024-02-02 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96948/online-safety-act-gazetted) · `en`
@@ -95,6 +175,26 @@ The legislation which seeks to regulate online content was passed in Parliament,
 [Data](articles/46d7c802.json)
 
 [Extended Data](ext_articles/46d7c802.ext.json)
+
+---
+
+### $ 150 million loan
+
+*2024-02-02 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192884) · `si`
+
+The Government of Sri Lanka has announced that the Government of Sri Lanka has acquired an US $ 150 million loan facility from the International Development Coordinator of the World Bank to strengthen the Financial Sector Protection Network (IDA).
+
+The Ministry of Finance stated that the financial agreement was signed recently.
+
+The Ministry of Finance has also contributed to strengthen the Sri Lanka Financial Sector Protection Network in Sri Lanka by strengthening the Sri Lanka Deposit Insurance Scheme managed by the Central Bank of Sri Lanka.
+
+The project is also aimed at improving the financial and corporate capacity of the Sri Lanka Depository Insurance Scheme in accordance with the highest recognized deposit insurance scheme.
+
+◼️
+
+[Data](articles/3fd20f6c.json)
+
+[Extended Data](ext_articles/3fd20f6c.ext.json)
 
 ---
 
@@ -129,6 +229,42 @@ He said that I saw a meeting held by Nimal Lansa last week and I noticed that th
 [Data](articles/f553f25c.json)
 
 [Extended Data](ext_articles/f553f25c.ext.json)
+
+---
+
+### Si will be remanded again in Narammala shooting incident
+
+*2024-02-02 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192883) · `si`
+
+The sub-inspector of the Naramma has been remanded until February 16.
+
+The Trust Inspector's firearm was shot dead by the Tarketer of the Lori when a lorry was chased down on January 18.
+
+◼️
+
+[Data](articles/1c0ccb74.json)
+
+[Extended Data](ext_articles/1c0ccb74.ext.json)
+
+---
+
+### A verdict on anti-terrorism
+
+*2024-02-02 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192882) · `si`
+
+The Petition filed by the Government of the Terrorism Bill, which was presented to Parliament, has been completed as contrary to the Constitution.
+
+Accordingly, the Supreme Court has announced its secret sentence to the Speaker.
+
+31 petitions have been filed with the challenges of the relevant Bill and has been examined for six days.
+
+After the end of the petition, the Supreme Court published this decision.
+
+◼️
+
+[Data](articles/41659e79.json)
+
+[Extended Data](ext_articles/41659e79.ext.json)
 
 ---
 
@@ -1873,151 +2009,5 @@ The strike was launched yesterday on the strike, which has commenced three to tw
 [Data](articles/871a588e.json)
 
 [Extended Data](ext_articles/871a588e.ext.json)
-
----
-
-### Indian envoy hopes for timely progress in Adani’s wind power deal
-
-*2024-02-02 06:54:00* · [`economynextcom`](https://economynext.com/indian-envoy-hopes-timely-progress-in-adanis-wind-power-deal-149664/) · `en`
-
-ECONOMYNEXT – Indian High Commissioner for Sri Lanka Santosh Jha said the Adani’s 500 MW wind power deal in the island nation’s Northern province should progress after a better negotiation process.
-
-Sri Lankan officials have said the Adani wind power project has been facing some delays as a Cabinet Appointed Negotiation Committee (CANC) has been raising concerns over the project components.
-
-The $442 million project was given to the Indian firm as an unsolicited deal after it was changed to a government-to-government deal with Adani Green Energy was issued provisional approval for two wind projects of 286 MW in Sri Lanka’s northwestern Mannar and 234 MW in the Northern Pooneryn.
-
-“It is a commercial venture by Adani. They would be the right people to answer the question,” Santosh Jha told reporters in Colombo at a meeting with senior journalists on Thursday (01).
-
-“It should progress,” he said when asked about the delays in the project.
-
-...
-
-[Data](articles/180b97ac.json)
-
-[Extended Data](ext_articles/180b97ac.ext.json)
-
----
-
-### Several showers today
-
-*2024-02-02 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192866) · `si`
-
-Several spells of showers in the Polonnaruwa District and the Polonnaruwa District today.
-
-The statement further shows the central, Sabaragamuwa and Southern provinces today. Showers or thundershowers will occur at several places after 4.00.
-
-In some places in the Central and Sabaragamuwa Province, some locations are expected in the morning in some places in the Galle and Matara districts.
-
-The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/9af0af30.json)
-
-[Extended Data](ext_articles/9af0af30.ext.json)
-
----
-
-### Efficient public sector operations possible with fully digitalized workforce of 200,000: Suresh Shah
-
-*2024-02-02 06:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Efficient-public-sector-operations-possible-with-fully-digitalized-workforce-of-200-000-Suresh-Shah/108-276176) · `en`
-
-The public sector can smoothly run with a workforce as low as 200,000 persons through digitalization, against the current public sector workforce of 1.3 million, according to the Head of State-Owned Enterprises Restructuring Unit (SOERU) Suresh Shah.
-
-He noted that even without digitalization, the public sector workforce can be cut by half and the public services can be maintained efficiently.
-
-Sri Lanka’s bloated public sector shrunk by 135,000 to 1.393 million by the end of 2022 from 1.401 million in 2021 and from 1.528 million in 2020 as the government started to reduce the excess cadre while freezing recruits.
-
-Shah claimed that if the public service is fully digitalized, the public sector cadre could be brought down to 200,000 people.
-
-However, Shah was quick to rule out any radical move to reduce employment in the public sector.
-
-...
-
-[Data](articles/50105a3a.json)
-
-[Extended Data](ext_articles/50105a3a.ext.json)
-
----
-
-### Evening thundershowers possible in several provinces
-
-*2024-02-02 06:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/96932/evening-thundershowers-possible-in-several-provinces) · `en`
-
-Several spells of showers will occur in Eastern and Uva provinces, as well as in Matale and Polonnaruwa districts, the Department of Meteorology says.
-
-Showers or thundershowers may occur at a few places in Central, Sabaragamuwa and Southern provinces after 4.00 p.m.
-
-Misty conditions can be expected at some places in Central and Sabaragamuwa provinces and Galle and Matara districts during the morning.
-
-The public is urged to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-Showers or thundershowers will occur at several places in the sea areas off the coast extending from Mullaitivu to Hambantota via Trincomalee and Batticaloa.
-
-Showers or thundershowers may occur at a few places in the sea areas off the coast extending from Puttalam to Galle via Colombo during the evening or night.
-
-Winds will be north-easterly or easterly and wind speed will be 20-30 kmph.
-
-...
-
-[Data](articles/9aeab7fd.json)
-
-[Extended Data](ext_articles/9aeab7fd.ext.json)
-
----
-
-### Nippon Paint Rugby League 2023/24 – Week 8 Preview
-
-*2024-02-02 06:00:14* · [`dailyftlk`](https://www.ft.lk/opinion/Nippon-Paint-Rugby-League-2023-24-Week-8-Preview/14-758078) · `en`
-
-Just a few weeks ago, the men from Havelock Town came well prepared to take on the dominating and unbeaten Ceylonese Rugby and Football Club, and turned the chips in their favour to bamboozle the home team in the first half. Being the second team on that weekend that believed in the old saying “the best form of defence is attack”, they pounced on the Hosts from the word go, before the red Jerseys could ever think of settling down.
-
-...
-
-[Data](articles/9ee67204.json)
-
-[Extended Data](ext_articles/9ee67204.ext.json)
-
----
-
-### Sri Lanka’s Colombo Port builds expertise to be key hub backed by US
-
-*2024-02-02 05:53:00* · [`economynextcom`](https://economynext.com/sri-lankas-colombo-port-builds-expertise-to-be-key-hub-backed-by-us-149687/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Colombo Port has embarked on an exercise to build technical expertise, introduce global best practices as it aims to double capacity and become a maritime hub for the region expanding its service offering.
-
-The Colombo Plan program with funding from the United States is carrying out the three-year program.
-
-“The program will build human resources as the port competes in the region as a major hub,” lead consultant to the program Rohan Masakorale said.
-
-Colombo Port has already started building terminals that will see capacity doubling to 15 million containers by 2026, Sri Lanka Ports Authority Chairman Keith Bernard said.
-
-The program will boost sustainability of maritime and port operations in Sri Lanka by introducing modern port systems, new technologies, and international best practices.
-
-The initiative will see technical training exchanges, conferences, visits to US ports and workshops conducted by both local and international experts.
-
-...
-
-[Data](articles/b746cdb9.json)
-
-[Extended Data](ext_articles/b746cdb9.ext.json)
-
----
-
-### Changing Tamil perspectives in the struggle for independence
-
-*2024-02-02 05:43:13* · [`dailyftlk`](https://www.ft.lk/columns/Changing-Tamil-perspectives-in-the-struggle-for-independence/4-758068) · `en`
-
-Independence Day would be a day of joy and happiness. But that has not been so for the Ilankaith Thamizhar of Sri Lanka for many, many years – Pic by Shehan Gunasekara
-
-Sri Lanka known formerly as Ceylon gained independence from British rule on 4 February 1948. The island nation celebrates the 76th anniversary of her “tryst with destiny” on Sunday. Events marking freedom day festivity are scheduled for the week-end.
-
-Even as the greater part of the island is enveloped in a melodious mood, a discordant note is struck in the Tamil dominated Northern Province and the Tamil majority Eastern Province. The Jaffna University Students Union and organisations representing the families of disappeared persons have proclaimed 4 February 2024 as a “Kari Naal” (black or dark day) and declared it as a day of mourning.
-
-...
-
-[Data](articles/f5cda53c.json)
-
-[Extended Data](ext_articles/f5cda53c.ext.json)
 
 ---

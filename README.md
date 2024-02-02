@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 13:17:05**
+As of **2024-02-02 13:33:05**
 
 ## Newspaper Stats
 
-*Scraped **4,328** Articles*
+*Scraped **4,332** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 50
-bbccomsinhala | 66
+bbccomsinhala | 67
 dbsjeyarajcom | 132
 islandlk | 230
 economynextcom | 244
@@ -19,18 +19,52 @@ adalk | 384
 virakesarilk | 482
 adaderanasinhalalk | 513
 adaderanalk | 540
-tamilmirrorlk | 552
+tamilmirrorlk | 555
 dailymirrorlk | 595
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,326 (100.0%) of 4,328 articles have been extended.
+4,328 (99.9%) of 4,332 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### திங்கள் விடுமுறையா?: ​அறிவிப்பு வெளியானது
+
+*2024-02-02 12:53:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திங்கள்-விடுமுறையா-அறிவிப்பு-வெளியானது/175-332545) · `ta`
+
+76 ஆவது சுதந்திர தினம் எதிர்வரும் ஞாயிற்றுக்கிழமை (04) கொண்டாடப்பட்டாலும் அதற்கு மறுநாள் திங்கட்கிழமை (05) பொது விடுமுறை தினமாக பிரகடனப்படுத்தப்பட மாட்டாது என பொது நிர்வாக அமைச்சின் செயலாளர்  .பிரதீப் யசரத்ன, வௌ்ளிக்கிழமை (2) தெரிவித்தார்.
+
+இதன்படி, திங்கட்கிழமை அனைத்து அரச நிறுவனங்களும் வழமை போன்று இயங்கும் எனவும்  யசரத்ன மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/a288fcfe.json)
+
+---
+
+### பிரபல  நடிகை பூனம் பாண்டே மரணம்
+
+*2024-02-02 12:43:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பிரபல-நடிகை-பூனம்-பாண்டே-மரணம்/54-332544) · `ta`
+
+பிரபல பாலிவுட் நடிகை பூனம் பாண்டே (வயது 32). மாடலிங் துறையில் பிரபலமான இவர் நிஷா என்ற திரைப்படம் மூலம் அறிமுகமாகி இந்தி, கன்னடா, தெலுங்கு படங்களில் நடித்துள்ளார்.
+
+2011ம் ஆண்டு நடைபெற்ற உலகக்கோப்பை கிரிக்கெட் தொடரில் இந்தியா கோப்பையை வென்றால் நிர்வாணமாக போஸ் கொடுப்பேன் என கூறி சர்ச்சைக்குள் சிக்கினார்.
+
+இவர் கடந்த 2020ம் ஆண்டு தன் காதலன் சாம் பாம்பெயை திருமணம் செய்துகொண்டார். இதனிடையே, பூனம் பாண்டே கர்ப்பப்பை வாய் புற்றுநோயால் பாதிக்கப்பட்டார். இதற்காக அவர் சிகிச்சை பெற்றுவந்தார்.
+
+இந்நிலையில், கர்ப்பப்பை வாய் புற்றுநோயால் பாதிக்கப்பட்ட பூனம் பாண்டே இன்று சிகிச்சை பலனின்றி உயிரிழந்தார்.
+
+நடிகை பூனம் பாண்டே மரணமடைந்த சம்பவம் அவரது ரசிகர்கள் மத்தியில் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/3df7c9b1.json)
+
+---
 
 ### FTA with Thailand to bring range of goods to Sri Lanka
 
@@ -50,6 +84,8 @@ The contract aims to bring Thai goods to new markets in South Asia by accelerati
 
 [Data](articles/9c801754.json)
 
+[Extended Data](ext_articles/9c801754.ext.json)
+
 ---
 
 ### President Ranil and SLPP hold talks on presidential candidacy in upcoming polls
@@ -67,6 +103,26 @@ Meanwhile, MP Rohitha Abeygunawardena, commenting in this regard, expressed that
 ◼️
 
 [Data](articles/1e8c2775.json)
+
+[Extended Data](ext_articles/1e8c2775.ext.json)
+
+---
+
+### கடவுச்சீட்டுக்காக மரத்தில் ஏறியதால் பரபரப்பு
+
+*2024-02-02 12:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கடவுச்சீட்டுக்காக-மரத்தில்-ஏறியதால்-பரபரப்பு/72-332543) · `ta`
+
+கடவுச்சீட்டு பெற வந்த நபர் ஒருவர்கடவுச்சீட்டு காரியாலயத்தின் முன்பாக உள்ள மரமொன்றில்  திடீரென ஏறி அபாய அறிவிப்பு விடுத்தமையால்  வவுனியா பிராந்திய காரியாலய பகுதியில் பதற்றம் ஏற்பட்டது.
+
+திருகோணமலை மஹாயபுர பகுதியை சேர்ந்த 51வயதுடைய அநுரகுமார என்பவர், வவுனியாவில் உள்ள கடவுச்சீட்டு காரியாலயத்திற்கு கடவுச்சீட்டு பெறுவதற்காக கடந்த மூன்று தினங்களாக வந்து சென்றதாகவும் எனினும், தனக்கு கடவுச்சீட்டை பெறமுடியாமல் போனதாகவும் தெரிவித்துள்ளார்.
+
+இதனால், விரக்தி அடைந்த குறித்த நபர் கடவுச்சீட்டு காரியாலயம் முன்பாக இருந்த மரத்தில் ஏறி தன்னுயிரை மாய்ப்பேன் என கூறி போராட்டம் ஒன்றை மேற்கொண்டிருந்தார்
+
+இதனையடுத்து காரியாலய உத்தியோகத்தர்கள்   கடவுச்சீட்டு இன்றையதினம் (வௌ்ளிக்கிழமை) பெறுவதற்கான உத்தரவாதத்தை வழங்கியிருந்தனர்.  இதனை தொடர்ந்து குறித்த நபர் மரத்திலிருந்து கீழ் இறங்கினார்.
+
+◼️
+
+[Data](articles/203b6873.json)
 
 ---
 
@@ -1168,6 +1224,24 @@ Police told court that the suspect Veterinary Surgeon had issued a forged docume
 
 ---
 
+### ලංකා කඩොලාන කෞතුකාගාරය බලන්න යමු ද?
+
+*2024-02-02 07:23:58* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72g75571epo) · `si`
+
+කළපු ධීවරයකු ලෙස රැකියාව ආරම්භ කර, මේ වන විට දශක තුනක පමණ කාලයක් තිස්සේ මෙරට සිටින මුල් පෙළේ කඩොලාන සංරක්ෂකයෙකු වන ඩග්ලස් තිසේරා ලංකා කඩොලාන කෞතුකාගාරයේ ආරම්භය ගැන බීබීසී සිංහල වෙත කියා සිටියේය.
+
+ඔහු හලාවත, පම්බල ඇති කඩොලාන කෞතුකාගාරයේ අධ්‍යක්ෂ ලෙස කටයුතු කරනු ලබයි.
+
+“පටන් ගත්තේ කඩොලාන සංරක්ෂණ වැඩසටහනකින් පසුව ඒක විකාශනය වුණා. 1996 කඩොලාන මධ්‍යස්ථානයක් මෙතන හැදුවා. ඒක විකාශනය වෙලා 2016 දී අද තියෙන කඩොලාන කෞතුකාගාරය විවෘත කෙරුවා.”
+
+කෘතිම ඉස්සන් වගාවට අවශ්‍ය ගොවිපොළවල් සෑදීමටත්, ලුණු කර්මාන්තයට අවශ්‍ය භූමිය ලෙස මෙන්ම සංචාරක හෝටල් හා සංචාරක කර්මාන්තය නිසාත් රට පුරා කඩොලාන පද්ධතියට දැඩි බලපෑමක් එල්ල විය.
+
+...
+
+[Data](articles/b8f11149.json)
+
+---
+
 ### Climate change
 
 *2024-02-02 07:23:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலநிலையில்-ஏற்பட்டுள்ள-மாற்றம்/175-332529) · `ta`
@@ -1943,87 +2017,5 @@ It is not clear yet whether a second extension could be obtained from court.
 [Data](articles/8fd03b65.json)
 
 [Extended Data](ext_articles/8fd03b65.ext.json)
-
----
-
-### People's Representation: Women who entered the national politics after the death of husbands, fathers, brothers
-
-*2024-02-02 01:50:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cldq5klpl20o) · `si`
-
-People's Representation: Women who entered the national politics after the death of husbands, fathers, brothers
-
-A major issue faced by representative democracy is that women's representatives are not represented in politics compared to the population.
-
-Countries such as Europe and the United States have made some progress in this regard, but African and Asian countries are still facing this problem.
-
-The South Asian region is the first countries that have become the first countries that have become the leaders of the heads of state.
-
-Despite such situations, why are women still undergoing politics in these countries?
-
-One of those who can observe where they have been highlighted or enormous in South Asian countries from the outset since the beginning of the country, they have been the victims of their husband instead of their power.
-
-...
-
-[Data](articles/629e9680.json)
-
-[Extended Data](ext_articles/629e9680.ext.json)
-
----
-
-### 2024-02-01 (Thursday)
-
-### The mysterious package thrown into the prison
-
-*2024-02-01 23:46:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைச்சாலைக்குள்-வீசப்பட்ட-மர்ம-பொதி/175-332521) · `ta`
-
-Prison Commissioner Gamini B. Dissanayake said.
-
-Prison office officials have seen two men on a motorbike thrown a package into the jail from the road.
-
-Officials said that 10 cigarettes were found in the package thrown into the jail, ice and heroin, one SIM card, two lighters and two mobile phone batteries.
-
-Prison Commissioner Gamini B.. Dissanayake added. Remble
-
-◼️
-
-[Data](articles/99a787b1.json)
-
-[Extended Data](ext_articles/99a787b1.ext.json)
-
----
-
-### Teachers boycott A/L marking over unpaid allowances
-
-*2024-02-01 23:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teachers-boycott-AL-marking-over-unpaid-allowances/108-276157) · `en`
-
-Colombo, Feb 01 (Daily Mirror) - The Teachers and Principals Trade Union said that the Rs. 2,000 per day allowance given for marking the A/L answer sheets was not given this time, so they have decided to withdraw from the evaluation of the answer sheets.
-
-Joseph Stalin of the Union said that although a special allowance of Rs. 2,000 per day was given last year for the marking of examination of A/L answer sheets but this time the allowance has been removed prompting them to withdraw from the marking of answer sheets.
-
-◼️
-
-[Data](articles/988b5bb0.json)
-
-[Extended Data](ext_articles/988b5bb0.ext.json)
-
----
-
-### Action arrested for setting fire to president's house
-
-*2024-02-01 23:29:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-வீட்டுக்கு-தீ-வைத்தவர்-அதிரடி-கைது/175-332520) · `ta`
-
-Criminal Investigation Department officials have arrested a suspect in connection with the incident of the current President Ranil Wickremesinghe's house during the protest against the Gotabhaya government.
-
-Police Media Spokesperson, Senior Superintendent of Police, Attorney Nihal Dalduwa said this.
-
-He said that a 30 -year -old man from Kotadeniya was arrested.
-
-The arrested suspect also noted that he was working in a private company. Remble
-
-◼️
-
-[Data](articles/01a2072a.json)
-
-[Extended Data](ext_articles/01a2072a.ext.json)
 
 ---

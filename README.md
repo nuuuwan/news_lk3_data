@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 20:32:55**
+As of **2024-02-02 20:49:56**
 
 ## Newspaper Stats
 
-*Scraped **4,415** Articles*
+*Scraped **4,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,33 +14,79 @@ dbsjeyarajcom | 132
 islandlk | 230
 economynextcom | 244
 dailyftlk | 272
-newsfirstlk | 273
+newsfirstlk | 274
 adalk | 387
 virakesarilk | 498
 adaderanasinhalalk | 532
 adaderanalk | 553
 tamilmirrorlk | 563
-dailymirrorlk | 611
+dailymirrorlk | 612
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,413 (100.0%) of 4,415 articles have been extended.
+4,415 (100.0%) of 4,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
 
-### කෙහෙළිය රඹුක්වැල්ල අත්අඩංගුවට
+### Former Health Minister Keheliya Rambukwella arrested
+
+*2024-02-02 19:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Former-Health-Minister-Keheliya-Rambukwella-arrested/155-276229) · `en`
+
+Colombo, Feb 02 (Daily Mirror) - Former Health Minister Keheliya Rambukwella has been arrested  by the Criminal Investigation Department (CID) a short while ago in connection with the importation of substandard Immunoglobulin injections.
+
+Rambukwella complied with a court order, arrived at the CID this morning to provide a statement.
+
+Maligakanda Magistrate Lochana Abeywickrama had directed Rambukwella to report to the CID at 9 AM on Friday (2) following submissions by Deputy Solicitor General Lakmini Girihagama on behalf of the Attorney General during a court hearing on the controversial human immunoglobulin procurement case.
+
+After more than 10 hours of interrogation, the minister was arrested in connection with the matter.
+
+◼️
+
+[Data](articles/0d48c612.json)
+
+---
+
+### Keheliya Rambukwella arrested
 
 *2024-02-02 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192897) · `si`
 
-ප්‍රමිතියෙන් තොර හියුමන් ඉමියුනෝග්ලොබියුලින් මිල දී ගැනීමේ වංචාව සම්බන්ධයෙන් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන තිබේ.
+Former Health Minister Keheliya Rambukwella has been arrested by the CID to the CID.
 
 ◼️
 
 [Data](articles/bf10c552.json)
+
+[Extended Data](ext_articles/bf10c552.ext.json)
+
+---
+
+### BREAKING: Keheliya arrested by CID over immunoglobulin scandal
+
+*2024-02-02 19:43:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/breaking-keheliya-arrested-by-cid-over-immunoglobulin-scandal/) · `en`
+
+COLOMBO (News 1st); Sri Lanka's Former Health Minister Keheliya Rambukwella has been arrested over the controversial human immunoglobulin procurement scandal.
+
+Sri Lanka's Former Health Minister Rambukwella arrived at the Criminal Investigations Department in Colombo on Friday (2) morning, complying with a Court Order issued a day earlier.
+
+He was at the CID to provide a statement with regard to the controversial human immunoglobulin procurement.
+
+Maligakanda Magistrate Lochana Abeywickrama ordered Minister Keheliya Rambukwella to report to the Criminal Investigations Department in Colombo at  9 AM on Friday (2) to provide a statement.
+
+In addition, the Maligakanda Magistrate imposed an overseas travel ban on the Minister.
+
+As per the court order, Keheliya Rambukwella appeared at the CID at 9 AM.
+
+UN Warns Sri Lanka’s Online Safety Act Threatens Human Rights
+
+Understanding Sri Lanka’s Online Safety Act: What You Need to Know
+
+◼️
+
+[Data](articles/315c9734.json)
 
 ---
 
@@ -60,23 +106,29 @@ The lawmaker arrived at the Criminal Investigation Department (CID) premises thi
 
 ---
 
-### හිටපු සෞඛ්‍ය ඇමති බොරු කිව්වා - නියෝජ්‍ය සොලිසිටර් ජනරාල්
+### Former Health Minister lied - Deputy Solicitor General
 
 *2024-02-02 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192896) · `si`
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදීගැනීමේ වංචාව සම්බන්ධයෙන් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පැය 10කට ආසන්න කාලයක් පුරා මේ වනවිටත් ප්‍රශ්න කරමින් සිටී.
+Former Health Minister Keheliya Rambukwella is currently being questioned over 10 hours of the CID.
 
-ඒ අදාළ සිදුවීම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිට ප්‍රකාශයක් ලබාදෙන ලෙස මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය අමාත්‍යවරයාට ඊයේ (01) ලබාදුන් නියෝගයට අනුවය.
+The Maligakanda Magistrate's Court yesterday (Mar) yesterday (01) has been handed over to the Minister yesterday.
 
-ඒ අනූව උදෑසන 10ට පමණ හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ප්‍රකාශයක් ලබාදීමට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණියේය.
+Former Health Minister Keheliya Rambukwella has arrived at the CID regarding former Health Minister Keheliya Rambukwella about 10 am.
 
-මෙම නඩුව ඊයේ (01) පස්වරුවේ මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයේදී යළි කැඳවුණු අතර, හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාට CIDය හමුවේ ප්‍රකාශයක් ලබාදෙන ලෙස දන්වා තිබියදී ඔහු ඒ සඳහා නොපැමිණ අසත්‍ය තොරතුරු ඉදිරිපත් කළ බවට රජයේ නියෝජ්‍ය සොලිසිටර් ජනරාල් ලක්මිණී ගිරිහාගම මෙනෙවිය එහිදී අධිකරණයට කරුණු ඉදිරිපත් කළාය.
+The case was taken up again in the Maligakanda Magistrate's Court yesterday (01) and the government's Deputy Solicitor General Lakhahagama has filed falsehood.
 
-ඇය සිදුකළ ඉල්ලීමක් මත මාලිගාකන්ද මහෙස්ත්‍රාත් ලෝචනී අබේවික්‍රම මහත්මිය කෙහෙළිය රඹුක්වැල්ල අමාත්‍යවරයාට නියෝග කළේ, අද දින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ ප්‍රකාශයක් ලබාදෙන ලෙසටය.
+On a request made by her request, Maligakanda Magistrate Luthi Abeywickrama ordered Minister Keheliya Rambukwella to arrive at the CID today.
 
-...
+The article was handing over to the official residence at the Minister's Wijerama Mawatha, including that order last evening.
+
+During his appointment of the Ministerial Statement, representatives of several civilian organizations and a protest in front of the CID.
+
+◼️
 
 [Data](articles/287082f7.json)
+
+[Extended Data](ext_articles/287082f7.ext.json)
 
 ---
 
@@ -211,8 +263,6 @@ In a statement posted on X, formerly known as Twitter, the UN Human Rights Offic
 UN Warns Sri Lanka’s Online Safety Act Threatens Human Rights
 
 Understanding Sri Lanka’s Online Safety Act: What You Need to Know
-
-Gazette issued making it mandatory to display weight and price of bread
 
 ◼️
 
@@ -1498,8 +1548,6 @@ UN Warns Sri Lanka’s Online Safety Act Threatens Human Rights
 
 Understanding Sri Lanka’s Online Safety Act: What You Need to Know
 
-Gazette issued making it mandatory to display weight and price of bread
-
 ◼️
 
 [Data](articles/02c4f57e.json)
@@ -1973,41 +2021,5 @@ Considering the various issues faced by the people, the company said that in Feb
 [Data](articles/2dc0eae2.json)
 
 [Extended Data](ext_articles/2dc0eae2.ext.json)
-
----
-
-### Continuing strategy: 703 arrested
-
-*2024-02-02 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/175364) · `ta`
-
-Over 703 suspects have been arrested during the last 24 hours of the country.
-
-The police said 525 suspects involved in drug crimes and 178 suspects named the list of criminals.
-
-One of the 525 suspects involved in drug offenses has been subjected to further inquiries on the detention order.
-
-◼️
-
-[Data](articles/a14edc91.json)
-
-[Extended Data](ext_articles/a14edc91.ext.json)
-
----
-
-### President Ranil discusses with ruling party representatives including Sri Lanka PA
-
-*2024-02-02 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175370) · `ta`
-
-A meeting of representatives of other parties representing the Sri Lanka PA and the ruling party was held at the Presidential Secretariat chaired by President Ranil Wickremesinghe.
-
-Parliamentarian SM Chandrasena said he was more focused on the presidential election during the discussion.
-
-Parliamentarian Rohitha Abeygunawardena has said that the president has been asked to start talks with the party leadership to get the support of the PA as the presidential candidate.
-
-◼️
-
-[Data](articles/bad44c47.json)
-
-[Extended Data](ext_articles/bad44c47.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 18:07:55**
+As of **2024-02-02 18:20:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 605
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,390 (99.8%) of 4,397 articles have been extended.
+4,397 (100.0%) of 4,397 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -90,21 +90,23 @@ However, trade union members further say whether or not the strike will be reuni
 
 ---
 
-### சிறுவர்களின் போஷாக்கை மேம்படுத்த ஜனாதிபதி விசேட கவனம் : மக்களின் வறுமையைப் போக்க அஸ்வெசும அரசியல் சாரா வேலைத்திட்டமாகும் - சாகல ரத்நாயக்க
+### President's Special Focus to To improve children's nutrition
 
 *2024-02-02 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175400) · `ta`
 
-மக்களின் வறுமையைப் போக்கி சிறுவரகளின் போஷாக்கை மேம்படுத்துவதில் ஜனாதிபதி விசேட கவனம் செலுத்தியிருப்பதாகவும்,  அதற்காக ஜனாதிபதியின் பணிப்புரையின் கீழ் பல்வேறு வேலைத்திட்டங்கள் முன்னெடுக்கப்பட்டு வருவதாகவும் தேசிய பாதுகாப்பு தொடர்பிலான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க தெரிவித்தார்.
+Sagala Ratnayake, a senior adviser to the National Security and Presidential Commission, said that the President had paid special attention to the poverty of the people and that the President had focused on improving the nutrition of the child and that various programs are being carried out under the President's Directorate.
 
-ஜனாதிபதியின் எண்ணக்கருவிற்கமைய ஆரம்பிக்கப்பட்ட "அஸ்வெசும" வேலைத்திட்டம் அரசியல் சாராமல் இந்நாட்டு மக்களின் வறுமையைப் போக்குவதற்கான பெரும் பணியாக அமைந்துள்ளதெனவும் அவர் சுட்டிக்காட்டினார்.
+He also pointed out that the "Assuma" program, which was initiated by the president's opinion, is a great task of overcoming the poverty of the people of this country.
 
-கொழும்பு ரமதா ஹோட்டலில் வியாழக்கிழமை (01) பாடசாலை மாணவர்களின் மதிய உணவு வேலைக்கான ஊட்டச்சத்து அரிசி (Fortified Rice) வழங்கும் நிகழ்விலேயே அவர் இதனைத் தெரிவித்தார்.
+He was speaking at a fortified rice for the lunch work of schoolchildren on Thursday (01) at the Rama Hotel in Colombo.
 
-பாடசாலை மாணவர்களின் போஷாக்கை மேம்படுத்தும் நோக்கில் விவசாய மற்றும் பெருந்தோட்ட தொழில்துறை அமைச்சு, கல்வி அமைச்சு, உலக உணவு வேலைத்திட்டம் (World Food Programme),உணவு மேம்பாட்டுச் சபை, பில் மற்றும் மெலிண்டா கேட்ஸ் மன்றம் (Bill & Melinda Gates Foundation) உள்ளிட்ட தரப்புக்கள் இணைந்து இந்த வேலைத் திட்டத்தை முன்னெடுக்கவுள்ளன.
+The program will be launched to improve the nutrition of schoolchildren, including the Ministry of Agriculture and Plantation Industries, the Ministry of Education, the World Food Program, Food Development Board, Bill & Melinda Gates Foundation.
 
 ...
 
 [Data](articles/7d77aa09.json)
+
+[Extended Data](ext_articles/7d77aa09.ext.json)
 
 ---
 
@@ -123,6 +125,8 @@ According to Forum Asia, the revised Anti-Terrorism Bill, set to replace the dra
 ...
 
 [Data](articles/c38b80f2.json)
+
+[Extended Data](ext_articles/c38b80f2.ext.json)
 
 ---
 
@@ -167,6 +171,8 @@ However, it does not include a caution, an opinion or imputation made in good fa
 ...
 
 [Data](articles/018146a5.json)
+
+[Extended Data](ext_articles/018146a5.ext.json)
 
 ---
 
@@ -268,45 +274,51 @@ Police have asked the public to avoid the area.
 
 ---
 
-### 2023 இல் ஆயுர்வேதக் கூட்டுத்தாபனம் 195 மில்லியன் ரூபா இலாபம் ஈட்டியுள்ளது - சுதேச வைத்திய இராஜாங்க அமைச்சர் சிசிர ஜயகொடி
+### In 2023, the Ayurvedic Corporation made a profit of 195 million rupees - Indigenous Medical Minister Sisira Jayakody
 
 *2024-02-02 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175403) · `ta`
 
-ஆயுர்வேதக் கூட்டுத்தாபனம் 2023 இல் 195 மில்லியன் ரூபா இலாபத்தை ஈட்டியுள்ளதாக சுதேச வைத்திய இராஜாங்க அமைச்சர் சிசிர ஜயகொடி தெரிவித்தார்.
+The Ayurvedic Corporation has made a profit of 195 million rupees in 2023, said Sisira Jayakody, Minister of State for Indigenous Medicine.
 
-இந்த இலாபமானது 2017ஆம் ஆண்டுக்குப் பின்னர் கிடைத்த அதிகூடிய இலாபம் என சுட்டிக்காட்டிய இராஜாங்க அமைச்சர், ஆயுர்வேதக் கூட்டுத்தாபனத்தின் புதிய நிர்வாகத்தினூடாக இந்த இலாபத்தை ஈட்ட முடிந்ததாகவும் குறிப்பிட்டார்.
+Pointing out that this profit was the highest profit from 2017, the Minister of State said that the profit was made through the new administration of the Ayurvedic Corporation.
 
-ஜனாதிபதி ஊடக மையத்தில் இன்று (02) நடைபெற்ற ஊடக சந்திப்பில் கருத்துத் தெரிவிக்கும்போதே சுதேச வைத்திய இராஜாங்க அமைச்சர் சிசிர ஜயகொடி இவ்வாறு தெரிவித்தார்.
+Speaking at a media briefing held at the Presidential Media Center today (02), Minister of State for Medicine Sisira Jayakody said this.
 
-76 ஆவது தேசிய சுதந்திர தினத்தை முன்னிட்டு நாடளாவிய ரீதியில் பத்து இலட்சம் மூலிகைச் செடிகளை நடும் வேலைத்திட்டம் ஆரம்பிக்கப்பட்டுள்ளது.
+The planting program of planting ten lakhs of herbal plants across the country has been launched on the occasion of the 76th National Independence Day.
 
-இந்த வேலைத்திட்டத்தின் முதல் கட்டம் இன்று (02) ஆரம்பமானது. இதன்படி ஏப்ரல் 7ஆம் திகதி வரை இந்த வேலைத்திட்டம் நடைமுறைப்படுத்தப்படவுள்ளது.
+The first phase of this program began today (02). Accordingly, the program will be implemented until April 7.
 
-இதனை சுதேச மருத்துவ இராஜாங்க அமைச்சு, ஆயுர்வேதக் திணைக்களம் மற்றும் பொது நிர்வாக அமைச்சு ஆகியன இணைந்து ஆரம்பித்துள்ளது.
+It has been inaugurated by the Ministry of Indigenous Medicine, Ayurvedic Department and the Ministry of Public Administration.
+
+Arrangements have been made to implement this national program, focusing on all the Grama Niladhari Divisions across the country.
 
 ...
 
 [Data](articles/8c3b5317.json)
 
+[Extended Data](ext_articles/8c3b5317.ext.json)
+
 ---
 
-### 17 மாதங்களில் 119 பிரசவ கால உயிரிழப்புகள் - ஆய்வில் தகவல்
+### 119 childbirth deaths in 17 months - Information in the study
 
 *2024-02-02 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175398) · `ta`
 
-கடந்த 2022 ஜனவரி மாதம் முதல் 2023 மே  மாதம் வரையிலான 17 மாதங்களில் 119 பிரசவ கால உயிரிழப்புக்கள் இடம்பெற்றுள்ளன.
+From January 2022 to May 2023, there were 119 delivery deaths in the 17 months.
 
-சுகாதார அமைச்சினால் வெளியிடப்பட்ட 2023ஆம் ஆண்டுக்கான செயலாற்றுகை அறிக்கையில் இந்த தகவல்கள் வெளிப்படுத்தப்பட்டுள்ளன.
+This information was revealed in the Action Report for 2023 issued by the Ministry of Health.
 
-பல்வேறு சம்பவங்கள் தொடர்பான பின்னணியை கண்டறியும் நோக்கில் துறை சார்ந்தும் நிறுவன மட்டத்திலும் மிகக் கவனமாக ஆராயப்பட்டே இந்த தகவல்கள் பெறப்பட்டுள்ளமை அறிக்கையூடாக வெளிப்படுகிறது.
+The report reveals that the information has been obtained at the department and the company level in order to detect the backdrop of various incidents.
 
-அத்தோடு, தாய் - சேய் இறப்புக்கள் குறித்த கண்காணிப்பு நடவடிக்கைகள், விசாரணைகளை மேலும் வலுப்படுத்தும் நோக்கில் மேல் மற்றும் தென் மாகாணங்களில் இரகசிய விசாரணை முறையொன்று அறிமுகப்படுத்தப்பட்டுள்ளதாகவும் இந்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+The report also stated that a secret investigation system has been introduced in the upper and southern provinces to further strengthen surveillance and investigation into the deaths of Mother -Sey.
 
-இலங்கையில் இடம்பெறும் பிரசவ கால உயிரிழப்பு வீதத்தை குறைப்பதற்காக நாடெங்கும் உள்ள அனைத்து வைத்தியசாலைகளிலும் பிரசவ கால மற்றும் பிரசவத்துக்குப் பின்னரான மரணங்கள் தொடர்பில் கண்காணிக்கும் குழுக்கள் நியமிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+It is noteworthy that all hospitals across the country have been appointed to monitor post -delivery and post -delivery deaths in order to reduce the childbirth rate in Sri Lanka.
 
 ◼️
 
 [Data](articles/e135126f.json)
+
+[Extended Data](ext_articles/e135126f.ext.json)
 
 ---
 
@@ -350,21 +362,25 @@ The Appeals Court, which accepted the request allowed the three petitions to be 
 
 ---
 
-### 75ஆவது சுதந்திர தினத்தில் வங்குரோத்தடைந்த நாடு என்று முத்திரை குத்தப்பட்டிருந்ததிலிருந்து விடுபட்டுள்ளோம் - ஜனாதிபதி
+### On the 75th Independence Day, we have been branded as a bankrupt country - the President
 
 *2024-02-02 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/175401) · `ta`
 
-இலங்கையின் 75ஆவது சுதந்திர தினத்தைக் கொண்டாடும் போது, வங்குரோத்தடைந்த நாடு என்று முத்திரை குத்தப்பட்டிருந்தோம். ஆனால், 76ஆவது சுதந்திர தினத்தில், பல இடர்பாடுகளுக்கு மத்தியிலும், அந்த நிலையிலிருந்து விடுபட்டு, பொருளாதாரத்தை நிலையான நிலைக்கு கொண்டு வர முடிந்துள்ளது என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+While celebrating Sri Lanka's 75th Independence Day, we were branded as a bankrupt country. However, on the 76th Independence Day, despite the many risks, the economy has been able to get out of that position, said President Ranil Wickremesinghe.
 
-இலங்கையின் 76 ஆவது சுதந்திரதினத்தை முன்னிட்டு ஜனாதிபதி ஊடகப்பிரிவு அனுப்பியுள்ள அறிக்கையில் மேலும் குறிப்பிட்டுள்ளதாவது,
+In a statement issued by the Presidential Media Unit on the 76th Independence Day of Sri Lanka, he added.
 
-இலங்கையின் 75ஆவது சுதந்திர தினத்தைக் கொண்டாடும் போது, வங்குரோத்தடைந்த நாடு என்று முத்திரை குத்தப்பட்டிருந்தோம். ஆனால், 76ஆவது சுதந்திர தினத்தில், பல இடர்பாடுகளுக்கு மத்தியிலும், அந்த நிலையிலிருந்து விடுபட்டு, பொருளாதாரத்தை நிலையான நிலைக்கு கொண்டு வர முடிந்துள்ளது.
+While celebrating Sri Lanka's 75th Independence Day, we were branded as a bankrupt country. But on the 76th Independence Day, despite many risks, the economy has been able to get rid of that position and bring the economy to a stable.
 
-நாட்டின் பெரும்பான்மையான மக்கள், துன்பங்களைச் சகித்துக்கொண்டு நாட்டை மீளக் கட்டியெழுப்பும் நீண்ட கால வேலைத்திட்டத்திற்கு ஆதரவளித்ததால் எம்மால்  மெதுவாக முன்னேற முடிந்தது.
+The majority of the people of the country have been able to slow down because they have supported the long -standing program of rebuilding the country.
+
+As it continues on this path, the difficulties will disappear. Diminishing life load. The economy will be strengthened. Sri Lankan mother will re -dawn.
 
 ...
 
 [Data](articles/97745019.json)
+
+[Extended Data](ext_articles/97745019.ext.json)
 
 ---
 
@@ -1040,19 +1056,23 @@ Meanwhile, the public has demanded that the municipal council take steps to remo
 
 ---
 
-### மன்னாரில் வீடமைப்பிற்கு ஒதுக்கப்பட்ட காணியை வனத்துறை விடுவிக்காமைக்கு எதிர்ப்பு தெரிவித்து மக்கள் ஆர்ப்பாட்டம்
+### People protest against the release of the land allocated to the housing in Mannar
 
 *2024-02-02 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175375) · `ta`
 
-எட்டு வருடங்களுக்கு முன்னர் அரசாங்கத்தினால் வீடுகளை நிர்மாணிப்பதற்காக ஒதுக்கப்பட்ட காணியை உடனடியாக விடுவிக்குமாறு கோரி மன்னார் பிரதேச மக்கள் குழுவொன்று போராட்டம் ஒன்றை நடத்தியுள்ளது.
+A group of people in Mannar have staged a protest demanding the immediate release of the land allocated to the government to construct houses by the government eight years ago.
 
-மன்னார் மாவட்டம் நானாட்டான் பிரதேச செயலகத்திற்குட்பட்ட இசைமாலைத்தாழ்வு பிரதேச மக்கள் தமது கிராமத்தில் வசிக்கும் 113 குடும்பங்களுக்கு வீடுகளை நிர்மாணிப்பதற்காக கொம்பன்சாய்ந்தகுளம் பிரதேசத்தில் 46 ஏக்கர் காணியை அரசாங்கம் ஒதுக்கீடு செய்த போதிலும் வனத்துறையினர் இதுவரையில் அந்த காணியை விடுவிக்கவில்லை எனத் தெரிவித்து கவனயீர்ப்பு போராட்டம் ஒன்றை நேற்று முன்தினம் முன்னெடுத்தனர்.
+The people of the Nanatan Divisional Secretariat of Mannar district have launched a protest yesterday, although the government has allocated 46 acres of land in the Kombansanakkulam area to construct houses for 113 families living in their village.
 
-“எங்கள் ஊருக்கு அருகில் இருக்கும் கொம்பன்சாய்ந்த குளத்தில் எங்கள் மக்களுக்கு குடியிருப்புக் காணி அவசியம். எங்கள் ஊரில் ஒரு வீட்டில் மூன்று நான்கு குடும்பங்கள் வாழ்கின்றோம்.
+“Our people need a residential land in the Kombanayan pond near our town. We live in three four families in a house in our town.
+
+Space is not enough. That is why we are struggling today. Northern Provincial Officers have announced that this land will be given to us in 2016. But the Forest Department has not yet released this. The former Divisional Secretary did not do this even though. “A woman who participated in the protest said.
 
 ...
 
 [Data](articles/2317a263.json)
+
+[Extended Data](ext_articles/2317a263.ext.json)
 
 ---
 

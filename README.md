@@ -1,220 +1,36 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 05:55:18**
+As of **2024-02-02 05:17:02**
 
 ## Newspaper Stats
 
-*Scraped **4,239** Articles*
+*Scraped **4,221** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 50
 bbccomsinhala | 64
 dbsjeyarajcom | 132
-islandlk | 227
+islandlk | 220
 economynextcom | 239
+dailyftlk | 258
 newsfirstlk | 265
-dailyftlk | 267
 adalk | 378
 virakesarilk | 467
 adaderanasinhalalk | 501
 adaderanalk | 528
-tamilmirrorlk | 540
-dailymirrorlk | 581
+tamilmirrorlk | 539
+dailymirrorlk | 580
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,221 (99.6%) of 4,239 articles have been extended.
+4,221 (100.0%) of 4,221 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
-
-### Six new Assistant Governors at CBSL
-
-*2024-02-02 05:17:46* · [`dailyftlk`](https://www.ft.lk/news/Six-new-Assistant-Governors-at-CBSL/56-758057) · `en`
-
-The Central Bank announced yesterday that the Governing Board, at its meeting held on 19 January has promoted Dr. C. Amarasekara, W. A. Dilrukshini, Dr. P.K.G. Harischandra,D.S.W. Samaratunga, E.H. Mohotty, R.D.T. Gunasekara to the post of Assistant Governors with effect from 22 January.
-
-...
-
-[Data](articles/f67eb904.json)
-
----
-
-### SriLankan Airlines CEO points to technical woes, spare part delays
-
-*2024-02-02 05:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-CEO-points-to-technical-woes-spare-part-delays/108-276155) · `en`
-
-Colombo, Feb 01 (Daily Mirror) -  Chief Executive Officer (CEO) of SriLankan Airlines Richard Nuttall, who responded to concerns over flight delays, said though the delays were in line with the world averages, there are more delays than used to be because of technical issues.
-
-He said it is common for every airline to have delays but whenever there is a delay here, people tend to report it as it is the end of the world.
-
-“Every airline has flight delays. If Qatar Airways has a flight delay, it is not reported in the press in Qatar,” he said.
-
-He said SriLankan’s on-time performance was better than the average of the Oneworld carriers.
-
-“Every time I have an AOG (Aircraft on Ground), everything about the ability of that aircraft to fly again is governed by very strict manuals and checks and balances.
-
-...
-
-[Data](articles/e191e3e1.json)
-
----
-
-### Energy Minister holds crucial discussion for LNG power generation
-
-*2024-02-02 04:40:57* · [`dailyftlk`](https://www.ft.lk/news/Energy-Minister-holds-crucial-discussion-for-LNG-power-generation/56-758056) · `en`
-
-Power and Energy Minister Kanchana Wijesekera announced crucial discussions on LNG infrastructure development and gas supply to the Yughadhanavi and Sobhadabavi power plants.
-
-The announcement was made following a meeting at the Ministry, where key stakeholders explored avenues to expedite the transition to LNG for power generation. The Minister noted that requirements to facilitate the interim solution were discussed with the officials of the Ministry, Indian High Commission, Ceylon Electricity Board (CEB), Lanka Transformers Limited (LTL) and PetroNet LNG.
-
-“In the efforts to expedite the process to generate power from LNG the Government of India has proposed an interim solution from PetroNet LNG,” Wijesekera noted via ‘X’.
-
-◼️
-
-[Data](articles/ba8aa9f2.json)
-
----
-
-### Bandaranaike Academy for Leadership and Public Policy dialogue on regulating online safety on 8 Feb
-
-*2024-02-02 04:39:55* · [`dailyftlk`](https://www.ft.lk/news/Bandaranaike-Academy-for-Leadership-and-Public-Policy-dialogue-on-regulating-online-safety-on-8-Feb/56-758055) · `en`
-
-The Bandaranaike Academy for Leadership and Public Policy (BALPP) will host a thought-provoking policy dialogue on the critical topic of “Regulating Online Safety: Ethics, Practice, and Legal Norms” on 8 February from 3:30 p.m. to 5:30 p.m. at the BMICH in Colombo 7.
-
-The Policy Dialogue, will be led by the students of the BALPP’s Cybersecurity Postgraduate Diploma course and Course Director Asela Waidyalankara. The event promises to delve deep into the multifaceted aspects of online safety and the controversial aspects of the recently passed Online Safety Bill.
-
-The distinguished panelists include: Colombo University Emeritus Prof of Law and former Vice Chancellor Prof Savitri Gunasekera and The Disinformation Project New Zealand Research Director and Groundviews, Sri Lanka’s first and award-winning civic media website Founding Editor  Dr. Sanjana Hattotuwa.
-
-...
-
-[Data](articles/9eb110e3.json)
-
----
-
-### Teejay records positive Q3 despite market challenges
-
-*2024-02-02 04:38:59* · [`dailyftlk`](https://www.ft.lk/business/Teejay-records-positive-Q3-despite-market-challenges/34-758054) · `en`
-
-Teejay Lanka PLC said yesterday it has maintained its positive trajectory in the third quarter of 2023-24, recording noteworthy pre- and post-tax profit growth for the three months ending 31 December 2023 and reversing the losses of the corresponding quarter of the previous year.
-
-Sri Lanka’s first multinational textile manufacturer has reported profit before tax of Rs. 677.7 million for the third quarter of the financial year, as against a pre-tax loss of Rs. 24.4 million for the third quarter of 2022-23, recording a growth of 2870%.
-
-The Group posted a net profit of Rs. 477.4 million for the three months, a gain of Rs. 843.3 million or 230% over the net loss of Rs. 366 million reported for the corresponding three months of the preceding year.
-
-...
-
-[Data](articles/ce638d99.json)
-
----
-
-### Harin joins CTC Board
-
-*2024-02-02 04:37:28* · [`dailyftlk`](https://www.ft.lk/business/Harin-joins-CTC-Board/34-758053) · `en`
-
-A top professional, Harin A. de Silva Wijeyeratne has been appointed to the Ceylon Tobacco Company PLC Board as an Independent Non-Executive Director.
-
-He fills the vacancy created by the retirement of Yudi Kanagasabai in the CTC Board.
-
-Harin counts over 30 years’ experience in the fields of general management, financial management and auditing acquired while being employed at Investcorp Bank Bahrain, Grindlays Bahrain Bank, Ernst & Young Bahrain and Ernst & Young Sri Lanka.
-
-In addition, he has held the position of CEO at the Sri Lanka Institute of Nanotechnology Ltd., (SLINTEC) for over five years (2013 to 2019).
-
-Harin was an Independent Director of Union Assurance PLC and also the Board Audit and Compliance Committee Chairman, and retired in September 2020, completing nine years.
-
-Harin is an Associate member of The Institute of Chartered Accountants of Sri Lanka and a Fellow member of the Chartered Institute of Management Accountants, UK.
-
-...
-
-[Data](articles/8d34018f.json)
-
----
-
-### Rohini accuses President of ordering attack on former supporters
-
-*2024-02-02 04:35:34* · [`dailyftlk`](https://www.ft.lk/news/Rohini-accuses-President-of-ordering-attack-on-former-supporters/56-758052) · `en`
-
-SJB MP Rohini Wijerathna condemns 30 Jan crackdown on SJB protest and claims tear gas was even fired on children gathered close by
-
-Stresses SJB will will persist with its protest campaign nationwide alongside oppressed citizens
-
-Accuses JVP of collaborating with Govt. and says only SJB has dared to protest against Govt.
-
-SJB MP S.M Marikkar asks Govt. not to blame SJB for damage caused to SL’s image by cracking down on protests
-
-SJB’s Sujeewa Senasinghe urges people to not look for a saviour within JVP to punish wrong doers
-
-Samagi Jana Balawegaya (SJB) Matale district MP Rohini Kumari Wijerathna yesterday accused President Ranil Wickremesinghe of ordering a police crackdown on former supporters who had dedicated 26 years of hard work for him.
-
-...
-
-[Data](articles/de5ab6ab.json)
-
----
-
-### Speaker endorses certificate on controversial Online Safety Bill
-
-*2024-02-02 04:33:04* · [`dailyftlk`](https://www.ft.lk/news/Speaker-endorses-certificate-on-controversial-Online-Safety-Bill/56-758051) · `en`
-
-Speaker of Parliament Mahinda Yapa Abeywardana yesterday endorsed the certificate on the controversial Online Safety Bill which was passed in Parliament with amendments following the two-day debate on 23 and 24 January.
-
-Following the move, the Bill has come into effect as the Online Safety Act No.9 of 2024.
-
-The Speaker endorsed the certificate on National Hydrographic Bill passed on 9 January with amendments and the Contempt of a Court, Tribunal or Institution Bill passed on 10 January with amendments.
-
-The two Bills will come into effect as the National Hydrographic Act No.7 of 2024 and the Contempt of a Court, Tribunal or Institution Act No.8 of 2024.
-
-◼️
-
-[Data](articles/3a26bf0a.json)
-
----
-
-### Immunoglobin Scam - Court imposes travel ban on Keheliya
-
-*2024-02-02 04:31:57* · [`dailyftlk`](https://www.ft.lk/news/Immunoglobin-Scam-Court-imposes-travel-ban-on-Keheliya/56-758050) · `en`
-
-CID informs court on previous occasion that minutes from files seized from Rambukwella on immunoglobulin procurement were missing
-
-Maligakanda Magistrate Lochani Abeywickrama imposed a travel ban on former Minister of Health Keheliya Rambukwella in connection to the case regarding the controversial immunoglobulin scam yesterday.
-
-The Magistrate also ordered Rambukwella to present himself before the Police Criminal Investigations Department (CID) at 9.00 a.m. today when the case was taken up for consideration before the court.
-
-The order was issued in consideration of the Minister’s refusal to appear before the CID on a previous occasion.
-
-Earlier this week, the CID notified the Maligakanda Magistrate Court that minutes from the files seized from former Health Minister Keheliya Rambukwella, related to the fraudulent acquisition of counterfeit immunoglobulin were missing.
-
-...
-
-[Data](articles/7d9d2cd2.json)
-
----
-
-### SJB denies defection: Daya Ratnayake not joining MJP
-
-*2024-02-02 04:31:03* · [`dailyftlk`](https://www.ft.lk/news/SJB-denies-defection-Daya-Ratnayake-not-joining-MJP/56-758049) · `en`
-
-Condemns spread of false information using old photographs of duo
-
-Warns recurrence of such groundless false news will be commonplace going forward due to upcoming polls
-
-MJP also refutes reports and says they are an attempt to tarnish party’s good name
-
-Maintains images were from a previous meeting between duo who are close friends
-
-In a statement issued yesterday, the Samagi Jana Balawegaya (SJB) denied that its latest member, former Army Commander Daya Ratnayake has defected to the Mawbima Janatha Party (MJP) led by business tycoon Dilith Jayaweera.
-
-The party was forced to issue a clarification after images depicting Ratnayake in a seemingly one-on-one discussion with Jayaweera surfaced online yesterday. The images were accompanied by reports suggesting that the two had met yesterday at the MJP office in Borella, leading to speculation that Ratnayake had left the SJB to join the MJP.
-
-...
-
-[Data](articles/dfb01634.json)
-
----
 
 ### Fund cuts for UNRWA point to a clash of civilisations
 
@@ -271,24 +87,6 @@ Q SriLankan Airlines is the most cash-strapped government institution at the mo
 [Data](articles/706887c3.json)
 
 [Extended Data](ext_articles/706887c3.ext.json)
-
----
-
-### மார்ச் 12 இயக்கம் கடும் கண்டனம்
-
-*2024-02-02 02:20:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மார்ச்-12-இயக்கம்-கடும்-கண்டனம்/175-332524) · `ta`
-
-நிகழ்நிலைக் காப்புச்சட்டமூலமானது சட்டத்திற்குப் புறம்பான முறையில் நிறைவேற்றப்பட்டதனை  மார்ச் 12 இயக்கம் கடுமையாகக் கண்டித்துள்ளது.
-
-இந்த சட்டமூலம் பாராளுமன்றத்தில் 2024 ஆம் ஆண்டு ஜனவரி 24 ஆம் திகதியன்று நிறைவேற்றப்பட்டது.
-
-இந்த நிகழ்நிலைக் காப்புச் சட்டமூலமானது இலங்கையின் அரசியலமைப்பில் இடம்பெற்றுள்ள அடிப்படை உரிமைகள் மற்றும் ஜனநாயகக் கொள்கைகளுக்கு கடுமையான அச்சுறுத்தலை ஏற்படுத்துகின்றது என்பதனை நாம் மீண்டும் வலியுறுத்துகின்றோம்.
-
-அத்துடன், தற்போதைய அரசாங்கமானது இந்தச் சட்டமூலத்தினை நிறைவேற்றப் பிடிவாதமாகச்  செயற்படுகின்றது; பொருளாதார சீர்திருத்தம் மற்றும் நடைபெறவிருக்கும் தேர்தல்கள் ஆகிய முக்கியமான நிகழ்வுகளில் கருத்து வேறுபாடுகளினை மௌனமாக்குவதும், சிவில் செயற்பாடுகளை ஒடுக்குவதும் அரசாங்கத்தின் நோக்கமாக உள்ளமை இதிலிருந்து தெளிவாகத் தென்படுகின்றது என்பதனைவருத்தத்துடன் தெரிவிக்கின்றோம் என்றும் குறிப்பிடப்பட்டுள்ளது.
-
-...
-
-[Data](articles/eb3362e0.json)
 
 ---
 
@@ -387,68 +185,6 @@ The arrested suspect also noted that he was working in a private company. Remble
 [Data](articles/01a2072a.json)
 
 [Extended Data](ext_articles/01a2072a.ext.json)
-
----
-
-### National Savings Bank introduces “Abhiman Semarum”
-
-*2024-02-01 23:14:00* · [`islandlk`](http://island.lk/national-savings-bank-introduces-abhiman-semarum/) · `en`
-
-As Sri Lanka marks its 76th Independence Day, the National Savings Bank (NSB) introduces its latest financial offering – the “Abhiman Semarum” 2-Year Fixed Deposit. This innovative instrument not only symbolizes financial security but also reflects NSB’s unwavering commitment to empowering the citizens and fostering economic prosperity.
-
-The “Abhiman Semarum” Fixed Deposit offers the highest interest rate in the market, standing at an impressive 11.5%. p.a. This lucrative opportunity underscores NSB’s dedication to providing competitive returns and rewarding investment choices for its valued customers.
-
-“At NSB, we recognize the importance of financial empowerment in driving economic growth and fostering a prosperous future for all Sri Lankans,” stated Ms. Shashi Kandambi, GM/CEO of NSB. “The introduction of the ‘Abhiman Semarum’ Fixed Deposit underlines our commitment to offering innovative solutions that empower individuals to secure their financial future.”
-
-...
-
-[Data](articles/48d9b269.json)
-
----
-
-### Techno innovations being put in place to transform agriculture
-
-*2024-02-01 23:14:00* · [`islandlk`](http://island.lk/techno-innovations-being-put-in-place-to-transform-agriculture/) · `en`
-
-Sri Lanka should take necessary steps to modernize the agro sector to reap real economic benefits for both farmers and consumers, State Minister of Technology, Kanaka Herath said.
-
-“The time has come to accelerate the transformation of this sector with technology with the ever increasing demand for food due population growth. Inclusive Digital Agriculture Transformation is the national strategy to achieve this. Agriculture has been the backbone of the Sri Lankan community for generations and nearly 30 percent of the population is engaged in agricultural activities, he told the media at the launch of the “Govi Lab” Agri Tech Accelerator, jointly with Sarvodaya – a leading grassroots organization, in collaboration with Hatch Works.
-
-Herath added: ‘We know, the contribution of agriculture to the national GDP is less than 10 percent. So there is a significant gap. Over 40 percent of the produce is wasted due to wildlife encounters and other issues.
-
-...
-
-[Data](articles/dcea95d0.json)
-
----
-
-### MBSL Insurance bids farewell to chairman D. P. K. Gunasekera
-
-*2024-02-01 23:13:00* · [`islandlk`](http://island.lk/mbsl-insurance-bids-farewell-to-chairman-d-p-k-gunasekera/) · `en`
-
-MBSL Insurance Company Limited marks a significant moment as it bids farewell to its esteemed Chairman D. P. K. Gunasekera. With deep gratitude and appreciation, the company reflects on Gunasekera’s invaluable contributions throughout his tenure.
-
-Under Gunasekera’s leadership, MBSL Insurance witnessed a remarkable business growth whilst simultaneously facing and overcoming market challenges. His leadership and unwavering commitment to serve both customers and employees have left an indelible mark in the company’s journey.
-
-A veteran banker, former General Manager of Bank of Ceylon, D. P. K. Gunasekera was appointed as the Chairman of MBSL Insurance Company Limited in the year 2021.
-
-...
-
-[Data](articles/47004fd5.json)
-
----
-
-### Sri Lankan ambassador conducts international seminar on “Strategic Negotiations” at Hanoi Business School
-
-*2024-02-01 23:12:00* · [`islandlk`](http://island.lk/sri-lankan-ambassador-conducts-international-seminar-on-strategic-negotiations-at-hanoi-business-school/) · `en`
-
-Ambassador of Sri Lanka to Viet Nam, Prof. A Saj U. Mendis, was invited by the elite Hanoi Business School (HSB) of Viet Nam National University to deliver a special lecture on “International Strategic Negotiations” to senior faculty and graduate students of HSB in Hanoi. The select seminar on ‘International Strategic Negotiations’ was attended by nearly 100 chosen graduate students and faculty members. The seminar was chaired by Dr. Mai Viet Dzung, Head of Science and Development Cooperation Department and a senior faculty of HSB.
-
-In his opening remarks Dr. Dzung stated that today negotiation skills, whether they be bilateral, trilateral, multilateral, national or international, have become an inherent and intrinsic attribute for advancement, promotion, augmentation and marketability as well as value addition to any given entity or organization.
-
-...
-
-[Data](articles/058e6855.json)
 
 ---
 
@@ -903,20 +639,6 @@ Subsequently, the appointed High Commissioner and Ambassadors held a discussion 
 [Data](articles/ed91e4cd.json)
 
 [Extended Data](ext_articles/ed91e4cd.ext.json)
-
----
-
-### Hemas Pharmaceuticals and Anti Leprosy Campaign unite to mark World Leprosy Day 2024, reach 50,000
-
-*2024-02-01 19:42:00* · [`islandlk`](http://island.lk/hemas-pharmaceuticals-and-anti-leprosy-campaign-unite-to-mark-world-leprosy-day-2024-reach-50000/) · `en`
-
-In a significant initiative commemorating World Leprosy Day 2024, Hemas Pharmaceuticals, the Anti Leprosy Campaign, Provincial Director of Health Western Province, Regional Director of Health Services Colombo, Gampaha and Kalutara Districts and the MOH Offices in the Western Province joined forces to conduct a wide-reaching awareness campaign. The collaborative effort distributed informative flyers to 50,000 individuals at key high-traffic transportation hubs, including train and bus stations.
-
-World Leprosy Day, observed annually, serves as a reminder of the ongoing battle against leprosy and the importance of fostering awareness within communities. With the recent unforeseen rise in Leprosy in the country, Hemas Pharmaceuticals and the Anti Leprosy Campaign have decided to leverage this day to make a tangible impact on leprosy awareness.
-
-...
-
-[Data](articles/c914de3c.json)
 
 ---
 
@@ -2011,5 +1733,321 @@ The minister also states that it will provide a lot of strength to the growth of
 [Data](articles/5fa9bad9.json)
 
 [Extended Data](ext_articles/5fa9bad9.ext.json)
+
+---
+
+### Allegations against a former president who allowed students to school in contrary to the circular
+
+*2024-02-01 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175292) · `ta`
+
+A court has appointed a court to investigate the allegations against the former principal of the school allegedly allowed to allow students to use fake documents to the women's high school in Katugastota.
+
+Central Provincial Education Secretary Menaka Herath said a retired senior management officer has been appointed.
+
+A five -member committee appointed by the Central Provincial Education Secretary has taken preliminary inquiries into the incident and the chargesheet has been sent to the former Chancellor.
+
+As he denied the allegations, a person was appointed to conduct a proper investigation into the matter.
+
+The case is currently being heard in court regarding the allowing students to use fake documents at the school in Katugastot.
+
+As the investigation began, steps were taken to transfer the Chancellor of the Central Provincial Ministry of Education to the Central Provincial Education Department and the Gampola Divisional Education Office.
+
+◼️
+
+[Data](articles/ed7b75cc.json)
+
+[Extended Data](ext_articles/ed7b75cc.ext.json)
+
+---
+
+### Mahinda, Tilanga resigns
+
+*2024-02-01 15:42:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-திலங்க-இராஜினாமா/175-332486) · `ta`
+
+Mahinda Amaraweera and Thilanga Sumathipala have handed over the resignation letter from the post of General Secretary of the United People's Freedom Alliance.
+
+◼️
+
+[Data](articles/3cd9af94.json)
+
+[Extended Data](ext_articles/3cd9af94.ext.json)
+
+---
+
+### Government policy statement to be debated for two days
+
+*2024-02-01 15:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-policy-statement-to-be-debated-for-two-days/108-276141) · `en`
+
+Party leaders representing Parliament have decided to hold a two-day adjournment debate on the government policy statement to be presented in Parliament by the President on February 7 at the ceremonial opening of the fifth dession of the ninth Parliament.
+
+The ceremonial opening of the fifth session of the ninth Parliament will take place at 10.30 am on February 7.
+
+The Adjournment Debate on the government polic statement will be held from 9.30 am to 5.30 pm on February 8 and 9.
+
+◼️
+
+[Data](articles/3e708013.json)
+
+[Extended Data](ext_articles/3e708013.ext.json)
+
+---
+
+### Speaking of Indian High Commissioner Chandrika!
+
+*2024-02-01 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/175309) · `ta`
+
+Indian High Commissioner Santosh Ja has met with former President Chandrika Bandaranaike Kumaratunga.
+
+The recent improvements in the two -party relations between India and Sri Lanka have been discussed.
+
+◼️
+
+[Data](articles/f5539492.json)
+
+[Extended Data](ext_articles/f5539492.ext.json)
+
+---
+
+### Money that is not educated and health is allocated for repression - Sajith Premadasa
+
+*2024-02-01 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/175325) · `ta`
+
+The Opposition Leader said that even though the government cannot allocate funds for education and health in the country, the money has been allocated to buy tear gas, rubber bullets and water tanks to suppress the people.
+
+Although the government does not have money to provide lunch during the time of President Ranasinghe Premadasa, people have been paid for repression.
+
+Due to this, the opposition leader said that the country's school students are facing severe difficulties.
+
+The government has implemented a new trend on Independence Day from 31st to 4th.
+
+When the government does this, the United People's Shakti will provide 17 smart classrooms to 17 schools in Matara, Galle and Anuradhapura districts from 31st to 4th.
+
+Opposition Leader Sajith Premadasa said that when celebrating Independence Day on February 4, its aim was to make the meaning of true free education.
+
+He said this while addressing a function on Wednesday (31) at the 74th phase of the Universe Information Technology Program.
+
+...
+
+[Data](articles/51fadc52.json)
+
+[Extended Data](ext_articles/51fadc52.ext.json)
+
+---
+
+### Sri Lanka to host ICC’s annual general meeting in July
+
+*2024-02-01 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96919/sri-lanka-to-host-iccs-annual-general-meeting-in-july) · `en`
+
+The Annual General Meeting of the International Cricket Council (ICC) will be hosted by Sri Lanka in July 2024, Minister of Sports Harin Fernando said.
+
+Accordingly, the ICC’s Annual General Meeting of the year 2024 will take place from 19 to 22 July 2024 in Colombo, the minister said.
+
+Taking to X (formerly Twitter) to announce this, Minister Fernando expressed that this will be a great boost for Sri Lanka with regards to both cricket and tourism.
+
+On 10 November, the ICC suspended the membership of Sri Lanka Cricket (SLC), with immediate effect, on the grounds that the governing body is in serious breach of its obligations as a Member, in particular, the requirement to manage its affairs autonomously and ensure that there is no government interference in the governance, regulation and/or administration of cricket in Sri Lanka.
+
+...
+
+[Data](articles/241d3feb.json)
+
+[Extended Data](ext_articles/241d3feb.ext.json)
+
+---
+
+### Afghanistan prepares in Colombo ahead of Test match tomorrow
+
+*2024-02-01 15:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Afghanistan-prepares-in-Colombo-ahead-of-Test-match-tomorrow/110-276139) · `en`
+
+The Afghanistan cricket team was spotted practicing at the SSC ground in Colombo ahead of the Test match scheduled to commence tomorrow. Both the Sri Lankan and Afghan captains participated in the pre-match press conference at the SSC. Pix by Waruna Wanniarachchi
+
+◼️
+
+[Data](articles/0956a06d.json)
+
+[Extended Data](ext_articles/0956a06d.ext.json)
+
+---
+
+### Is China start a war?
+
+*2024-02-01 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192840) · `si`
+
+In the next few years, the United States and their friends have a powerful doubt that the US President Xi Jinnings will issue an order to acquire Taiwan island in the next few years.
+
+China is now considered a developed land with high technological advancement of a democratic governance.
+
+In fact, in the history of Taiwan, the Southern government leaders of the Chinese have fled to Taiwan when he was established in Taiwan history.
+
+But the return to the Chinese domination of Chinese domination is a situation where the US countries, including the US.
+
+Therefore, the US is now evaluating how the US can now evaluate how to face Chinese troops if they try to acquire Taiwan.
+
+They have been reviewed how the logistic (logistic) or logistic (logistic) in Taiwan, especially in the United States, has been reviewed.
+
+It is reported that the United States has been in a collaboration with Australia with a joint war exercise every two years.
+
+...
+
+[Data](articles/6bb37477.json)
+
+[Extended Data](ext_articles/6bb37477.ext.json)
+
+---
+
+### Travel ban imposed on Keheliya Rambukwella
+
+*2024-02-01 15:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Travel-ban-imposed-on-Keheliya-Rambukwella/108-276140) · `en`
+
+Colombo, Feb 01 (Daily Mirror) -  An overseas travel ban has been imposed on former Health Minister Keheliya Rambukwella by the Maligakanda Magistrate.
+
+The magistrate's decision comes in conjunction with an order directing Rambukwella to appear before the Criminal Investigation Department (CID) on Friday, February 2.
+
+Rambukwella's overseas travel restrictions come in light of his failure to comply with a prior summons from the CID, scheduled for Wednesday, January 31. On that day, Rambukwella was notably absent, attributing his absence to his involvement in a hearing at the Colombo High Court regarding an ongoing case and his attendance at a committee meeting convened at the Presidential Secretariat.
+
+In response to the CID's summons, Rambukwella has formally requested, in writing, for the CID to designate an alternative date for him to provide his statement.
+
+◼️
+
+[Data](articles/50d06d7e.json)
+
+[Extended Data](ext_articles/50d06d7e.ext.json)
+
+---
+
+### Travel ban imposed on Keheliya Rambukwella
+
+*2024-02-01 15:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Travel-ban-imposed-on-Keheliya-Rambukwella/155-276140) · `en`
+
+Colombo, Feb 01 (Daily Mirror) -  An overseas travel ban has been imposed on former Health Minister Keheliya Rambukwella by the Maligakanda Magistrate.
+
+The magistrate's decision comes in conjunction with an order directing Rambukwella to appear before the Criminal Investigation Department (CID) on Friday, February 2.
+
+Rambukwella's overseas travel restrictions come in light of his failure to comply with a prior summons from the CID, scheduled for Wednesday, January 31. On that day, Rambukwella was notably absent, attributing his absence to his involvement in a hearing at the Colombo High Court regarding an ongoing case and his attendance at a committee meeting convened at the Presidential Secretariat.
+
+In response to the CID's summons, Rambukwella has formally requested, in writing, for the CID to designate an alternative date for him to provide his statement.
+
+◼️
+
+[Data](articles/7cec421e.json)
+
+[Extended Data](ext_articles/7cec421e.ext.json)
+
+---
+
+### The government should not consider the silence of the people as obedient - March 12 Movement
+
+*2024-02-01 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175321) · `ta`
+
+The March 12 Movement said that the rulers should not be considered silence as the people suffer silent amid increasing life costs, such as hunger.
+
+The March 12 Movement made this statement in a statement issued by the Foundation Protection Bill.
+
+We would like to reiterate that it is very dangerous to fundamental rights through the Ceremonial Protection Act and that the democratic policies of the Sri Lankan constitution are dangerous.
+
+Moreover, the stubbornness of the current government continues to take on this bill is worried that the most important economic reformity and the government's intention to suppress civil activities that silence those who have disagreements in the upcoming election.
+
+The May 12 movement also points out that the Parliament was acting in a pre -judicial study and the passage of the Constitution, which was passed beyond the introduction of anti -democratic law.
+
+...
+
+[Data](articles/c67b953d.json)
+
+[Extended Data](ext_articles/c67b953d.ext.json)
+
+---
+
+### Teachers out of the A / L answer sheets?
+
+*2024-02-01 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192839) · `si`
+
+Teacher Principal Trade Union Alliance says that the government has left the answer shelter to the answer scripting Rs.
+
+The UPFA, Ven. Yalwela Pannanansara Thero said that the UPFA has said that the teachers who checked the answer sheets have been in a heavy economic crisis today.
+
+"Although a few days are informed about this, the government has not taken measures to pay Rs. 2,000 and the advantage allowance. Therefore, we have reported that teachers of these centers had left the evaluation from this afternoon.. They say that this daily allowance is Rs. 2,000 to pay immediately. That is why they volunteer to evaluate work volunteer. It is a profound impact on education in this country. When asked Minister about this, he was told that the cabinet leaves a cabinet paper next Monday and then payments. We regret that an important cabinet paper not before. Children who have been impact on duty are being affected. We will tell the government to solve this very quickly. "
+
+...
+
+[Data](articles/9c6870f2.json)
+
+[Extended Data](ext_articles/9c6870f2.ext.json)
+
+---
+
+### The Unity Backup Act to suppress our struggles: The North and East
+
+*2024-02-01 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175318) · `ta`
+
+Leelavathi Anandarasa, secretary of the North and East, said that our struggles and the problems of our people are being brought to the outside world.
+
+Association Secretary of the North and East. The took place on Thursday (01) at Kodikamam.He said this while commenting.
+
+Both the Campaigning Act and the Terrorism Act are today. The law brought on the self -fighting race is the Terrorism Act.
+
+Our struggles and the problems of our people to the outside world are to be suppressed.
+
+The opposition leader launched a massive struggle against it. Even in the case of repression used. What would be our condition if they were so.
+
+Sinhalese leaders act as a model when they are in power and when they are not.
+
+We have been carrying out the struggles of the missing persons. We are also older. He said university students and the younger generation should continue these struggles.
+
+◼️
+
+[Data](articles/64cda82b.json)
+
+[Extended Data](ext_articles/64cda82b.ext.json)
+
+---
+
+### Traveling to Keheliya
+
+*2024-02-01 15:06:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-பயண-தடை/175-332485) · `ta`
+
+The court has also ordered him to appear before the Criminal Investigation Department tomorrow (02).
+
+◼️
+
+[Data](articles/f89df7c8.json)
+
+[Extended Data](ext_articles/f89df7c8.ext.json)
+
+---
+
+### Fall in the price of karot
+
+*2024-02-01 15:04:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கரட்-விலையில்-வீழ்ச்சி/76-332484) · `ta`
+
+The Nuwara Eliya Economic Center Office said today (01) that the price of Karat has fallen in Nuwara Eliya.
+
+Accordingly, the total price of Nuwara Eliya, which was sold at a total price of more than 1100 rupees till Wednesday (31), has been announced today (01) for Rs.
+
+He also pointed out that the yields of the affected vegetables in the past in the past have been steady in Nuwara Eliya.
+
+He also said that more than 12,000 kg of carrots were shipped on Wednesday (31) evening and other vegetables were sent to the outer markets for more than 55 thousand kg of vegetables.
+
+◼️
+
+[Data](articles/f7a276c4.json)
+
+[Extended Data](ext_articles/f7a276c4.ext.json)
+
+---
+
+### Keheliya banned
+
+*2024-02-01 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192838) · `si`
+
+Former Minister of Health Keheliya Rambukwella has banned a foreign travel.
+
+The maligakanda Magistrate's Court has banned the abroad ban.
+
+The Court has ordered to appear before the CID tomorrow.
+
+◼️
+
+[Data](articles/10b6747e.json)
+
+[Extended Data](ext_articles/10b6747e.ext.json)
 
 ---

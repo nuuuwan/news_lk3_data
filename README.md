@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 16:32:43**
+As of **2024-02-02 16:48:01**
 
 ## Newspaper Stats
 
-*Scraped **4,374** Articles*
+*Scraped **4,375** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 270
 dailyftlk | 272
 adalk | 387
 virakesarilk | 493
-adaderanasinhalalk | 525
+adaderanasinhalalk | 526
 adaderanalk | 548
 tamilmirrorlk | 557
 dailymirrorlk | 598
@@ -26,11 +26,35 @@ dailymirrorlk | 598
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,372 (100.0%) of 4,374 articles have been extended.
+4,375 (100.0%) of 4,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### Man dies in an attack
+
+*2024-02-02 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192891) · `si`
+
+One person was killed in a heated attack on a heated argument between two in the Navigoda area in Minuwangoda.
+
+The police said that the person had died due to an assault carried out by a sharwn weapon.
+
+The deceased has been identified as a 32-year-old father of 32-year-old residents.
+
+Previously, the army was taken to the house of the soldier on a previous day and had been assaulted by the army soldier with a sharp object when he went to question the man with a sharp weapon.has.
+
+The suspect has been arrested and the Minuwangoda police are conducting further investigations.
+
+It is also reported that the suspect is tightly addicted to drugs.
+
+◼️
+
+[Data](articles/da172849.json)
+
+[Extended Data](ext_articles/da172849.ext.json)
+
+---
 
 ### SI arrested over Narammala ‘accidental’ shooting further remanded
 
@@ -49,6 +73,8 @@ The concerned SI and a Police Constable had then chased down the lorry and pulle
 ◼️
 
 [Data](articles/aaab6783.json)
+
+[Extended Data](ext_articles/aaab6783.ext.json)
 
 ---
 
@@ -686,17 +712,19 @@ Huge blast rocks Kenyan capital, injuring hundreds and destroying homes
 
 ---
 
-### උපෙළ උත්තර පත්‍ර සමීක්ෂණයේදී රු. 2000ක සංයුක්ත දීමනාව මෙවරත්
+### Submit Action Survey. 2000 compact allowance this year
 
 *2024-02-02 13:00:27* · [`adalk`](https://www.ada.lk/breaking_news/උපෙළ උත්තර-පත්‍ර-සමීක්ෂණයේදී-රු--2000ක-සංයුක්ත-දීමනාව-මෙවරත්/11-407869) · `si`
 
-2023 අ.පො.ස. (උ.පෙළ) උත්තර පත්‍ර ඇගයීම් සඳහා පසුගිය වර්ෂයේ දී ලබාදුන් දීමනාව වන රු.2,000/- ක සංයුක්ත දීමනාව මෙවර ද ලබාදීමට කටයුතු කරන බව අධ්‍යාපන අමාත්‍යාංශය කියයි.
+2023 GCE Advanced Level. The Allowance to the Assessments (A / L) requests will be provided with the Allowance of Rs. 2,000 / -.
 
-මේ පිළිබඳව  විභාග කොමසාරිස්වරයා විසින් සියලු ඇගයීම් මධ්‍යස්ථානවල පරීක්ෂකවරුන් දැනුවත්  කිරීමට කටයුතු කරන බවද අමාත්‍යාංශය වැඩිදුරටත් දන්වා සිටියි.
+The Ministry of Examinations will inform the Commissioner of Examinations to inform the inspectors of all evaluation centers.
 
 ◼️
 
 [Data](articles/079b5742.json)
+
+[Extended Data](ext_articles/079b5742.ext.json)
 
 ---
 
@@ -2003,25 +2031,5 @@ Meanwhile, Environment Minister Keheliya Rambukwella has also been imposed on fo
 [Data](articles/d3471ad3.json)
 
 [Extended Data](ext_articles/d3471ad3.ext.json)
-
----
-
-### US preparing another attack
-
-*2024-02-02 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192869) · `si`
-
-The US authorities have approved the American authorities to launch a series of attacks on Iranian goals in Syria and Iraq.
-
-The Militia, who is supporting Iranian backed by a drone strike in Jordan, was accused of killing three US troops.
-
-The United States expressed the assistance of Iran and Iran refuses to support Iran.
-
-At a press conference held yesterday, 41 people were injured in the attack and the attack on the US would not tolerate attacks on the US.
-
-◼️
-
-[Data](articles/6c462c46.json)
-
-[Extended Data](ext_articles/6c462c46.ext.json)
 
 ---

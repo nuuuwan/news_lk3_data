@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 10:17:18**
+As of **2024-02-02 10:32:39**
 
 ## Newspaper Stats
 
@@ -26,111 +26,123 @@ dailymirrorlk | 588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,281 (99.8%) of 4,290 articles have been extended.
+4,290 (100.0%) of 4,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
 
-### அளவுக்கு அதிகமான போதையில் வீதியில் விழுந்தவர் உயிரிழப்பு!
+### The death of the road falls on the road
 
 *2024-02-02 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175355) · `ta`
 
-துவிச்சக்கர வண்டியில் பயணித்துக் கொண்டு இருந்தவேளை வீதியில் விழுந்த நபர் ஒருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்த நிலையில் நேற்றைய தினம் உயிரிழந்தார். இச்சம்பத்தில் அளவெட்டி தெற்கு பகுதியைச் சேர்ந்த சிவனடியான் சிவராசா (வயது 42) என்ற நபரே இவ்வாறு உயிரிழந்துள்ளார்.
+A man who fell on the road was admitted to a hospital while he was traveling in a bicycle.. Sivanadiyan Sivarasa (age 42), a resident of Alavetti south, died in the incident.
 
-குறித்த நபர் கடந்த 28ஆம் திகதி ஆறு மணியளவில் தனது துவிச்சக்கர வண்டியில் பயணித்துக் கொண்டிருந்த போது கீழே விழுந்துள்ளார். இதன்போது வீதியில் சென்றவர்கள் அவரை மீட்டு தெல்லிப்பழை வைத்தியசாலைக்கு கொண்டு சென்றனர். பின்னர் அவர் மேலதிக சிகிச்சைக்காக யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு மாற்றப்பட்டார்.
+The man fell down while traveling in his bicycle at six o'clock on the 28th. Those who went on the street rescued him and took him to the Tellippallai Hospital. He was later transferred to the Jaffna Teaching Hospital for further treatment.
 
-இந்நிலையில், அவர் சிகிச்சை பலனின்றி நேற்றையதினம் உயிரிழந்துள்ளார். அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் மேற்கொண்டார். மேலும் சம்பவம் நிகழ்ந்தபோது அவர் அதிக மது போதையில் இருந்ததாக தெரிவிக்கப்படுகிறது.
+In this case, he died yesterday without treatment. Sudden Death Investigation Officer Namasivayam Premkumar. He is also reported to have been intoxicated when the incident occurred.
 
 ◼️
 
 [Data](articles/429fd04b.json)
 
+[Extended Data](ext_articles/429fd04b.ext.json)
+
 ---
 
-### இளையராஜா இசை நிகழ்ச்சி; புதிய திகதிகள் அறிவிப்பு!
+### Ilayaraja concert;Announced New Dates!
 
 *2024-02-02 09:44:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளையராஜா-இசை-நிகழ்ச்சி-புதிய-திகதிகள்-அறிவிப்பு/175-332532) · `ta`
 
-கொழும்பில் ஏற்பாடு செய்யப்பட்டுள்ள இசையமைப்பாளர் இசைஞானி இளையராஜாவின் “என்றும் ராஜா ராஜாதான்” என்ற இசை நிகழ்ச்சிக்கான புதிய திகதிகள் அறிவிக்கப்பட்டுள்ளன.
+The new dates have been announced for the concert of the musician Ilayaraja, the music composer in Colombo, "Raja Rajadhan".
 
-குறித்த இசை நிகழ்வு, எதிர்வரும் ஏப்ரல் மாதம் 20 மற்றும் 21 ஆம் திகதிகளில் இடம்பெறும் என நிகழ்ச்சி ஏற்பாட்டாளர்கள் தெரிவித்துள்ளனர்.
+The music event will take place on April 20 and 21, the event organizers said.
 
-ஏற்கெனவே நுழைவு சீட்டுக்களை பெற்றுள்ள மற்றும் பதிவு செய்துள்ளவர்கள், அந்த நுழைவுசீட்டுக்களையே பயன்படுத்தி நிகழ்ச்சியை பார்வையிட முடியும் எனவும் அறிவிக்கப்பட்டுள்ளது.
+It has also been announced that those who have already received and registered tickets can use those tickets and view the show.
 
-இந்த இசை நிகழ்வு, கடந்த மாதம் 27ஆம் மற்றும் 28ஆம் திகதிகளில் கொழும்பு சுகததாஸ உள்ளக விளையாட்டரங்கில் இடம்பெறவிருந்தது.
+The music event will take place on the 27th and 28th of last month at the Sugathadasa Indoor Stadium in Colombo.
 
-எனினும், இசையமைப்பாளர் இசைஞானி இளையராஜாவின் புதல்வியும் பின்னணி பாடகியுமான பவதாரிணி, புற்றுநோய் காரணமாக இலங்கையில் சிகிச்சை பெற்று வந்த நிலையில் காலமானார்.
+However, Pavadarini, the daughter and background singer of composer musician Ilayaraja, passed away after being treated in Sri Lanka due to cancer.
 
 ◼️
 
 [Data](articles/6b201d33.json)
 
+[Extended Data](ext_articles/6b201d33.ext.json)
+
 ---
 
-### கெஹலிய குற்றப்புலனாய்வுப் பிரிவில் ஆஜர் !
+### Gehaliya Criminal Investigation Division
 
 *2024-02-02 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/175354) · `ta`
 
-முன்னாள் சுகாதார அமைச்சரும் தற்போதைய சுற்றாடல் துறை அமைச்சருமான கெஹலிய ரம்புக்வெல்லவை குற்றப்புலனாய்வுப் பிரிவில் சற்றுமுன்னர் ஆஜராகியுள்ளார்.
+Former Health Minister and current Environment Minister Keheliya Rambukwella has appeared before the Criminal Investigation Division.
 
-தரமற்ற இம்யூனோகுளோபுளின் தடுப்பூசி குப்பிகளை இறக்குமதி செய்த சம்பவம் தொடர்பில் வாக்குமூலத்தை வழங்குவதற்காகவே கெஹலிய ரம்புக்வெல்ல நேற்றைய தினம் குற்றப்புலனாய்வுப் பிரிவுக்கு அழைக்கப்பட்டிருந்தார். இருப்பினும் அவர் நேற்றைய தினம் குற்றப்புலனாய்வு திணைக்களத்திற்கு சமுகமளித்திருக்கவில்லை.
+Keheliya Rambukwella was summoned to the Criminal Investigation Division yesterday to give a statement regarding the importation of non -standard immunoglobulin vaccine vials.. However, he did not attend the Criminal Investigation Department yesterday.
 
-இந்நிலையில், முன்னாள் சுகாதார அமைச்சரும் தற்போதைய சுற்றாடல் துறை அமைச்சருமான கெஹலிய ரம்புக்வெல்லவை குற்றப்புலனாய்வுப் பிரிவில் இன்று வெள்ளிக்கிழமை (2) காலை 9 மணிக்கு ஆஜராகுமாறு மாளிகாகந்தை நீதிவான் நீதிமன்றம் நேற்றையதினம் உத்தரவிட்ட நிலையில், இன்று ஆஜராகியுள்ளார்.
+Former Health Minister and current Environment Minister Keheliya Rambukwella has appeared in the Criminal Investigation Division (CID) at 9 am on Friday (2).
 
-இதேவேளை, முன்னாள் சுகாதார அமைச்சரும் தற்போதைய சுற்றாடல் துறை அமைச்சருமான கெஹலிய ரம்புக்வெல்லவுக்கு வெளிநாட்டு பயணத்தடை விதித்தும் மாளிகாகந்தை நீதிவான் நீதிமன்றம் உத்தரவிட்டுள்ளமை குறிப்பிடத்தக்கது.
+Meanwhile, the Mallikkanda Magistrate's Court has ordered the former Health Minister and the current environment minister Keheliya Rambukwella on a foreign tour.
 
 ◼️
 
 [Data](articles/5040cb94.json)
 
+[Extended Data](ext_articles/5040cb94.ext.json)
+
 ---
 
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
+### Sri Lanka to benefit the coin
 
 *2024-02-02 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192873) · `si`
 
-ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්ථානය අතර ටෙස්ට් ක්‍රිකට් තරගය අද (02) කොළඹදී පැවැත්වෙයි.
+Test match between Sri Lanka and Afghanistan will be held in Colombo today.
 
-එහි කාසියේ  වාසිය දිනාගැනීමට ශ්‍රී ලංකාව සමත්වූ අතර ප්‍රථමයෙන් පන්දුවට පහරදීමේ අවස්ථාව ඇෆ්ගනිස්තානය වෙත ලබාදුනි.
+Sri Lanka won the advantage of its coin and was first given to Afghanistan.
 
-ඇෆ්ගනිස්ථාන කණ්ඩායමේ නායකයා ප්‍රකාශ කළේ මීට පෙර ටෙස්ට් තරඟ 07කට පමණක් ක්‍රිඩා කර ඇති තම කණ්ඩායම ප්‍රබල ශ්‍රී ලංකාව හමුවේ තියුණු තරඟයක් ලබාදීමට බලාපොරොත්තු වන බවය.
+The leader of the Afghanistan team stated that his group who has been played for seven Test matches to provide a sharp competition in front of Sri Lanka.
 
-ශ්‍රී ලංකා කණ්ඩායම ධනංජය ද සිල්වාගේ නායකත්වයෙන් පළමු වරට මෙම තරඟයට සහභාගී වෙයි.
+Sri Lanka team will attend the competition for the first time under the leadership of Dhananjaya de Silva.
 
 ◼️
 
 [Data](articles/8e531253.json)
 
+[Extended Data](ext_articles/8e531253.ext.json)
+
 ---
 
-### இறைச்சிக் கடைகளை மூடுமாறு அறிவுறுத்தல்
+### Instruction to close meat shops
 
 *2024-02-02 09:34:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/இறைச்சிக்-கடைகளை-மூடுமாறு-அறிவுறுத்தல்/74-332531) · `ta`
 
-நாட்டின் 76ஆவது சுதந்திர தினத்தை முன்னிட்டு, எதிர்வரும் 04 ஆம் திகதி ஞாயிற்றுக்கிழமை, கல்முனை மாநகர சபை ஆள்புல எல்லையினுள் விலங்கறுமனை மற்றும் இறைச்சிக் கடைகள் யாவும் பூட்டப்படும் என மாநகர ஆணையாளர் ஏ.எல்.எம்.அஸ்மி அறிவித்துள்ளார்.
+Municipal Commissioner ALM Azmi has announced that all the zoos and meat shops will be locked within the border of the Kalmunai Municipal Council on Sunday, the 76th Independence Day of the country.
 
-பொது நிர்வாக, உள்நாட்டலுவல்கள், மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சின் அறிவித்தலுக்கு அமைவாக, அன்றைய தினம் கல்முனை மாநகர சபைக்குட்பட்ட மாட்டிறைச்சி, கோழியிறைச்சி மற்றும் ஆட்டிறைச்சி விற்பனை நிலையங்களையும் விலங்கறுமனைகளையும் திறக்காமல் மூடிவிடுமாறு சம்மந்தப்பட்டவர்களுக்கு கடிதம் மூலம் ஆணையாளர் அறிவுறுத்தல் வழங்கியுள்ளார்.
+In accordance with the announcement of the Public Administration, Home Affairs, Provincial Councils and Local Government Ministry, the Commissioner has given a letter to those involved to close beef, poultry and mutton stores and zoos, which are under the Kalmunai Municipal Council.
 
 ◼️
 
 [Data](articles/7b1cf352.json)
 
+[Extended Data](ext_articles/7b1cf352.ext.json)
+
 ---
 
-### யாழில் பொலிஸாரின் தாக்குதலுக்கு இலக்கான இளைஞர்கள் - மனிதவுரிமை ஆணைக்குழு விசாரணை
+### Youth attacked by police in Jaffna - Human Rights Commission
 
 *2024-02-02 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175353) · `ta`
 
-அச்சுவேலி பொலிஸ் உத்தியோகத்தர்களின் தாக்குதலில் படுகாயமடைந்த இளைஞரொருவர் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ள சம்பவம் தொடர்பாக இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாணப் பிராந்திய அலுவலகம் விசாரணைகளை ஆரம்பித்துள்ளது.
+The Jaffna Regional Office of the Sri Lanka Human Rights Commission has launched an investigation into the incident where a youth who was injured in the attack of Achuveli police officers was admitted to the Jaffna Teaching Hospital.
 
-பாதிக்கப்பட்ட நபரால் மேற்கொள்ளப்பட்ட முறைப்பாட்டினை தொடர்ந்து அவரது வாக்குமூலம் நேற்று வியாழக்கிழமை (01) எம்மால் பதிவுசெய்யப்பட்டு விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன என இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாணப் பிராந்திய இணைப்பாளர் த.கனகராஜ் தெரிவித்தார்.
+The Jaffna Regional Coordinator of the Sri Lanka Human Rights Commission, T. Kanagaraj, said that his affidavit was registered and investigated by us on Thursday (01) following the complaint lodged by the victim.
 
-இதேவேளை சுன்னாகம் பொலிஸாரால் கைதுசெய்யப்பட்ட நபரொருவர் தாக்கப்பட்ட சம்பவம் தொடர்பில் நீதிமன்ற கட்டளையின் பேரில் யாழ்ப்பாண வைத்தியசாலையில் சிகிச்சை பெற்றுவந்த நபரது வாக்குமூலம் எம்மால் யாழ்ப்பாண சிறைச்சாலைக்கு சென்று பதிவுசெய்யப்பட்டதுடன் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன என்றும் அவர் மேலும் தெரிவித்தார்.
+Meanwhile, he added that the confession of the person who was treated at the Jaffna Hospital on the orders of a man arrested by the Chunnakam police was registered and investigated.
 
 ◼️
 
 [Data](articles/31463e25.json)
+
+[Extended Data](ext_articles/31463e25.ext.json)
 
 ---
 
@@ -154,21 +166,23 @@ The President had asked the President to start talks with the party leadership t
 
 ---
 
-### බෙලිඅත්ත පංච පුද්ගල ඝාතනයේ වෙඩික්කරුගේ බිරිඳ අල්ලයි - වෙඩික්කරු ඩුබායි වෙත පැන ගිහිල්ලා?
+### The wife of the Beliatta's wife's wife arrested - the shooter escaped to Dubai?
 
 *2024-02-02 09:27:50* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්ත-පංච-පුද්ගල-ඝාතනයේ-වෙඩික්කරුගේ-බිරිඳ-අල්ලයි---වෙඩික්කරු-ඩුබායි-වෙත-පැන-ගිහිල්ලා-/11-407864) · `si`
 
-අපේ ජනබල පක්ෂයේ නායක සමන් පෙරේරා ඇතුලු පුද්ගලයින් 05 දෙනෙකු ඝාතන සිද්ධියේ ප්‍රධාන වෙඩික්කරු බවට සැකකෙරෙන පුද්ගලයාගේ බිරිඳ සහ පියාව පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් අත්අඩංගුවට ගෙන තිබේ.
+Police STF officers have been arrested by the wife of the Five persons including the leader Saman Perera, including the leader Saman Perera.
 
-පල්ලෙවෙල පොලිස් වසමේදී පොලිස් විශේෂ කාර්ය බලකාය විසින් මෙම අත්අඩංගුවට ගෙන තිබේ. බෙලිඅත්ත පංච පුද්ගල ඝාතනයේ ප්‍රධාන වෙඩික්කරු දැනට නාවික හමුදාවෙන් විශ්‍රාම වැටුප් ලබන හිටපු නාවික හමුදා භටයෙක් බවට තොරතුරු අණාවරණය කරගෙන තිබේ.
+Police Special Task Force has been arrested by the Police Special Task Force in Pallewela Police Division. The main shot of the Beliatta murder is currently a former naval guard in the Navy.
 
-මෙම ඝාතනයේ ප්‍රධාන වෙඩික්කරුගේ වයස අවුරුදු 39ක් වන බිරිඳ හා එයට අනුබල දුන් වයස අවුරුදු 72ක් වන පියා ව මෙලෙස අත්අඩංගුවට ගෙන ඇත. හෙරොයින් ග්‍රෑම් 21යි මිලි ග්‍රෑම් 350 ක් සමග ඔවුන් අත්අඩංගුවට ගෙන තිබේ.
+The murder of the murder was arrested by the 39 year old wife, aged 72, aged 72.They were arrested with 21 grams and 350 grams of heroin.
 
-මොවුන්ගෙන් කරනු ලබන ප්‍රශ්න කිරීම්වලදී ප්‍රධාන වෙඩික්කරු වන විශ්‍රාමික නාවික හමුදා සෙබළා ජනවාරි මස 21 වන දින බස් රථයෙන් බෙලිඅත්ත ප්‍රදේශයට පිටව ගොස් 22 වන දින තවත් වෙඩික්කරුවන් දෙදෙනෙකු සමග මෙම ඝාතනය සිදු කර ඩුබායි රාජ්‍යය වෙත පළාගොස් ඇති බවටත් පවසා ඇත.
+The main shooter, the main shooter, has fled to the Beliatta on January 21st on January 21st on January 21st day.
 
 ◼️
 
 [Data](articles/cee2f9b9.json)
+
+[Extended Data](ext_articles/cee2f9b9.ext.json)
 
 ---
 
@@ -243,6 +257,8 @@ India has already given an advance aid of 450 million Indian rupees to President
 ...
 
 [Data](articles/b63cfa04.json)
+
+[Extended Data](ext_articles/b63cfa04.ext.json)
 
 ---
 
@@ -360,21 +376,25 @@ US intelligence agencies are found in Iran that the unmanned aircraft used to at
 
 ---
 
-### උතුරු මැද  ගව සොරකම් මඩින්න වැඩ බලන පොලිස්පතිගේ වැඩසටහනක්
+### Acting Inspector General of Working Inspector
 
 *2024-02-02 07:54:28* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-මැද--ගව-සොරකම්-මඩින්න-වැඩ-බලන-පොලිස්පතිගේ-වැඩසටහනක්/11-407863) · `si`
 
-උතුරු මැද පළාත තුළ සිදුවන ගව සොරකම් වැළැක්වීම සදහා ප්‍රජා පොලිස් කමිටු සාමාජිකයින් සහ සිවිල් ආරක්ෂක බලකා නිළධාරීන්ගේ සහාය ලබාගනිමින් නව වැඩපිළිවෙලක් ආරම්භ කිරීමට   වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් ⁣මහතා විසින් සැලසුම් කර ඇතැයි පොලිස් මූලස්ථාන ආරංචිමාර්ග සදහන් කරයි.
+Acting Inspector Tennakoon has planned to launch a new program to prevent the assistance of the Community Police Competition and the Civil Defense Force personnel to prevent the assistance of the section of the Community Police Competition and the Civil Defense Force Officers.
 
-මේ සම්බන්ධයෙන් විශේෂ සාකච්ඡාවක් සිවිල් ආරක්ෂක බලකාය භාර අධ්‍යක්ෂ ජනරාල් එයාර් වයිස් මාර්ෂල් ආර්.එස් බියන්වල මහතා සහ උතුරු මැද පළාතේ උසස් පොලිස්  නිළධාරීන් සමග මෙම සතිය තුළ පැවැත්වීමට කටයුතු සුදානම් කර ඇත
+Special discussion in this regard is to be held with the Director General of Civil Defense Force Air Vice Marshal RS Bianwala this week with high police officers in the North Central Province
 
-ඒ සඳහා ආරම්භ කරන නව වැඩපිළිවෙල මෙම මස දෙවන සතිය තුළ ක්‍රියාත්මක කිරීමට  වැඩ බලන පොලිස්පතිවරයා විසින් සැලසුම් කර ඇත
+Acting IGP planned to be implemented in the second week of this month
 
-2023.01.01 දින සිට 2024.01.24 දක්වා කාලය තුළ උතුරුමැද පළාතේ ගව සොරකම් අපරාධ 335 කදී ගවයින් 572 ක් සොරාගෙන ගොස් ඇති බව වාර්තා වී   ඇති අතර, මෙලෙස සොරකම් කරන ලද ගවයින්ගේ වෙළදපල වටිනාකම රුපියල් කෝටි 10 කට ආසන්න බව අනාවරණය වී ඇත.
+It has been reported that 572 cows have been stolen in 335 cow of cow carriers in the North Central Province from 01.01.2013 to Rs.
 
-...
+Farmers in the North Central Province under this joint operation have taken this decision after the acting IPP has taken the attention to the problem of the issue of the long run.
+
+◼️
 
 [Data](articles/6e3db16c.json)
+
+[Extended Data](ext_articles/6e3db16c.ext.json)
 
 ---
 

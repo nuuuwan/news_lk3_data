@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 21:02:18**
+As of **2024-02-02 21:17:16**
 
 ## Newspaper Stats
 
-*Scraped **4,418** Articles*
+*Scraped **4,419** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 274
 adalk | 387
 virakesarilk | 498
 adaderanasinhalalk | 533
-adaderanalk | 553
+adaderanalk | 554
 tamilmirrorlk | 563
 dailymirrorlk | 612
 
@@ -26,11 +26,27 @@ dailymirrorlk | 612
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,418 (100.0%) of 4,418 articles have been extended.
+4,418 (100.0%) of 4,419 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### Special announcement on salaries, allowances paid to retired disabled soldiers and dependents
+
+*2024-02-02 20:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96958/special-announcement-on-salaries-allowances-paid-to-retired-disabled-soldiers-and-dependents) · `en`
+
+The Defence Ministry has issued a special notice on payment of salaries and allowances to the dependents of tri-forces personnel who were forced to retire from service on medical grounds after being disabled in the civil war prior to 19 May 2009 and died before reaching 55 years of age.
+
+Accordingly, full salaries and allowances of such tri-forces personnel will be paid to their dependents until the date of completing 55 years of age of the deceased.
+
+“Also, the fixed monthly stipend previously granted to these beneficiaries as per a Cabinet approval, i.e. salary, pension and allowances that would have been entitled when he reached the age of 55 years if that person had been alive, will be entitled to his widow for her lifetime,” the Ministry said further in its media release.
+
+...
+
+[Data](articles/127192e2.json)
+
+---
 
 ### Beliatta murder of Beliatta revealed
 
@@ -130,11 +146,15 @@ Understanding Sri Lanka’s Online Safety Act: What You Need to Know
 
 *2024-02-02 19:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96957/ex-health-minister-keheliya-rambukwella-arrested) · `en`
 
-Former Health Minister Keheliya Rambukwella has been arrested in connection with his alleged complicity in the procurement of substandard medicines.
+Former Health Minister Keheliya Rambukwella was arrested on Friday evening (Feb.02) in connection with his alleged complicity in the procurement of substandard human intravenous immunoglobulin (IVIG).
 
-The lawmaker arrived at the Criminal Investigation Department (CID) premises this morning (Feb.02), complying with a court order issued yesterday.
+The arrest comes hot on the heels of mounting pressure from civil society activists and health sector trade unionists who have been calling for the immediate apprehension of the lawmaker.
 
-◼️
+The current Environment Minister arrived at the Criminal Investigation Department (CID) premises on Friday morning, complying with a court order issued yesterday. He was grilled for nearly 10 hours.
+
+The former health minister was supposed to make an appearance before the CID on Wednesday (Jan.31), but he failed to do so on account of attending the proceedings of a case heard before the Colombo High Court, as well as a ministerial sub-committee meeting convened at the Presidential Secretariat. Thus, Rambukwella had requested the CID to fix another date for him to provide his statement.
+
+...
 
 [Data](articles/5efd1de7.json)
 
@@ -2023,25 +2043,5 @@ Flight tickets were arranged for the two suspects by an individual named Nipuna 
 [Data](articles/7681bbd3.json)
 
 [Extended Data](ext_articles/7681bbd3.ext.json)
-
----
-
-### Patai Panna: Buy watch
-
-*2024-02-02 11:38:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடாய்-படுத்தும்-பாண்-பார்த்து-வாங்குங்கள்/175-332540) · `ta`
-
-The Consumer Affairs Authority has issued a notification of the Extraordinary Gazette notification that refers to a determined weight of a fell and semi -dumping style.
-
-According to the gazette notification, the recommended weight of a feast style should be 450 grams and its variation should not be less than 13.5 grams.
-
-It has been noted that the recommended weight of the semi -feast style should be 225 grams and its variation should not be less than 9 grams.
-
-Meanwhile, the Consumer Affairs Affairs Authority has stated in the gazette notification that the weight of the style that is visualized for sale. Remble
-
-◼️
-
-[Data](articles/d1f9fa4b.json)
-
-[Extended Data](ext_articles/d1f9fa4b.ext.json)
 
 ---

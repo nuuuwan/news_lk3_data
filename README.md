@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 19:49:56**
+As of **2024-02-02 20:02:18**
 
 ## Newspaper Stats
 
-*Scraped **4,404** Articles*
+*Scraped **4,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 387
 virakesarilk | 498
 adaderanasinhalalk | 530
 adaderanalk | 552
-tamilmirrorlk | 562
-dailymirrorlk | 605
+tamilmirrorlk | 563
+dailymirrorlk | 611
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,404 (100.0%) of 4,404 articles have been extended.
+4,404 (99.8%) of 4,411 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
+
+### விஜயின் அரசியல் பிரவேசத்திற்கு நாமல் வாழ்த்து
+
+*2024-02-02 19:12:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயின்-அரசியல்-பிரவேசத்திற்கு-நாமல்-வாழ்த்து/175-332560) · `ta`
+
+நடிகர் விஜயின் அரசியல் பிரவேசத்திற்கு இலங்கை பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ தனது வாழ்த்துக்களை தெரிவித்துள்ளார்.
+
+அரசியலுக்கு வந்த நடிகர் விஜய்க்கு எனது மனமார்ந்த வாழ்த்துக்கள். உங்கள் புதிய அத்தியாயத்திற்கு நல்வாழ்த்துக்கள் என தனது X தளத்தில் நாமல் ராஜபக்ச பதிவொன்றை இட்டு வாழ்த்துக்களை தெரிவித்துள்ளார்.
+
+நடிகர் விஜய் தனது அரசியல் கட்சியின் பெயரை தமிழக வெற்றிக் கழகம் என இன்று அறிவித்திருந்தார்.
+
+2026-ஆம் ஆண்டு சட்டப் பேரவைத் தேர்தலைக் குறிவைத்து தனது கட்சி செயல்படும் என்றும் விஜய் வெளியிட்டிருக்கும் அறிக்கையில் குறிப்பிடப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/3fa3b6ca.json)
+
+---
+
+### Vishwa, Prabath, Asitha wreck Afghanistan
+
+*2024-02-02 19:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vishwa-Prabath-Asitha-wreck-Afghanistan/108-276227) · `en`
+
+Colombo, Feb. 2 (Daily Mirror) - Sri Lanka ended in a strong position at 80 for no loss with openers Nishan Madushka unbeaten on 36 and Dimuth Karunaratne on 42 on the opening day of the one-off Test match against Afghanistan at the SSC Grounds in Maitland Place.
+
+This was after Sri Lanka’s bowling trio of right-arm pacie Vishwa Fernando, left-arm spinner Prabath Jayasuriya and left-arm pacie Asitha Fernando shared 10 wickets between them to bowl out the visitors for 198.
+
+The Afghans began their innings in an inauspicious start with the loss of their first wicket in the second ball of the first over.
+
+Rahmat Shah along with debutant Noor Ali Zadran came to the rescue with the pair putting on a valuable 57-run stand for the second wicket.
+
+Shah joined by Skipper Hashmatullah Shahidi saw the side through to the lunch break with Afghanistan on 90 for two.
+
+...
+
+[Data](articles/8281292c.json)
+
+---
 
 ### UN Human Rights Office calls for amending Sri Lanka’s new online safety laws
 
@@ -45,6 +83,48 @@ Posing on X (formerly Twitter), the UN Human Rights Office urged the Government 
 [Data](articles/cc47b2fc.json)
 
 [Extended Data](ext_articles/cc47b2fc.ext.json)
+
+---
+
+### Army Commander commended for historic parachute jump
+
+*2024-02-02 19:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Army-Commander-commended-for-historic-parachute-jump/108-276226) · `en`
+
+Colombo, Feb 02 (PMD) - Lieutenant General Vikum Liyanage, the Commander of the Army, received commendation for his recent ground-breaking static parachute jump.
+
+The event, officiated by Sagala Ratnayake, Senior Adviser to the President on National Security and Chief of the Presidential Staff, along with E. M. S. B. Ekanayake, Secretary to the President, celebrated Lieutenant General Vikum Liyanage as a dedicated and highly trained military leader.
+
+The placement of the parachute insignia (Airborne) on the Army Commander's uniform serves as a symbolic representation of this extraordinary accomplishment, signifying Lieutenant General Vikum Liyanage's unparalleled dedication to pushing boundaries and leading by example.
+
+The event was held at the Presidential Secretariat today (02).
+
+◼️
+
+[Data](articles/997a9fe1.json)
+
+---
+
+### Two arrested for alleged sexual assault, theft of American woman
+
+*2024-02-02 18:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-arrested-for-alleged-sexual-assault-theft-of-American-woman/108-276224) · `en`
+
+Kandy, Feb 02 (Daily Mirror) -  Two suspects were arrested for allegedly sexually assaulting a 25-year-old American woman visiting Sri Lanka.
+
+The suspects had also reportedly stolen gold jewelry worth approximately USD 6,000 from the woman.
+
+The Crimes Investigation Division of the Kandy Police arrested the suspects, including a tourist guide.
+
+The incident was reported to the Nanu Oya Police, with the victim alleging that she was sexually abused at a guest house in Kandy on January 29.
+
+According to her complaint, she had consumed liquor with the suspects that night and she alleged that she was drugged and made unconscious.
+
+Upon regaining consciousness, she found herself naked on a bed.
+
+The victim also complained that a gold bracelet worth USD 2,400, a necklace worth USD 3,600 and a pair of diamond-studded earrings were stolen.
+
+◼️
+
+[Data](articles/08ae7063.json)
 
 ---
 
@@ -146,6 +226,22 @@ Dimuth Karunaratne who assaulted unbeaten on 42 runs and Nishan Madushka scored 
 
 ---
 
+### Former CIA hacker sentenced to 40 years in prison
+
+*2024-02-02 17:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-CIA-hacker-sentenced-to-40-years-in-prison/108-276225) · `en`
+
+WASHINGTON, Feb 2 (Reuters) - A former Central Intelligence Agency (CIA) software engineer who was convicted for carrying out, opens new tab the largest theft of classified information in the agency's history and of child pornography charges was sentenced to 40 years in prison on Thursday.
+
+The 40-year sentence by U.S. District Judge Jesse Furman was for "crimes of espionage, computer hacking, contempt of Court, making false statements to the FBI, and child pornography," U.S. federal prosecutors said in a statement. The judge did not impose a life sentence as sought by prosecutors.
+
+Joshua Schulte was convicted in July 2022 on four counts each of espionage and computer hacking and one count of lying to FBI agents, after giving classified materials to whistleblowing agency WikiLeaks in the so-called Vault 7 leak. Last August, a judge mostly upheld the conviction.
+
+...
+
+[Data](articles/aa2f5bd4.json)
+
+---
+
 ### Namal congratulates commander Vijay
 
 *2024-02-02 17:22:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தளபதி-விஜய்க்கு-நாமல்-வாழ்த்து/175-332557) · `ta`
@@ -157,6 +253,24 @@ Parliamentarian Namal Rajapaksa congratulates actor Vijay's new party
 [Data](articles/73f0c047.json)
 
 [Extended Data](ext_articles/73f0c047.ext.json)
+
+---
+
+### Sri Lanka fight back, reach 80 for no loss at day one stumps against Afghanistan
+
+*2024-02-02 17:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-fight-back-reach-80-for-no-loss-at-day-one-stumps-against-Afghanistan/108-276223) · `en`
+
+Sri Lanka fought back to dismiss Afghanistan for 198, before ending day one of the one-off Test at the Singhalese Sports Club (SSC) on 80 for 0.
+
+Left arm fast bowler Vishwa Fernando accounted for three of Afghanistan's middle-order batters, along with the scalp of opener Noor Ali, to finish with figures of 4 for 51, the best of the hosts’ bowlers.
+
+Right-arm fast bowler Asitha Fernando and left arm spinner Prabath Jayasuriya finished with three wickets a piece, as Afghanistan collapsed to lose their last six wickets for 43 and struggled to find big contributions outside of Rahmat Shah’s 91.
+
+In his first outing as the next Sri Lanka Test captain, Dhananjaya de Silva bucked conventional wisdom by opting to bowl first at the historically bat-first SSC – a decision likely to have been influenced by the green-top pitch – with the hosts’ playing three fast bowlers, which include debutant Chamika Gunasekera.
+
+...
+
+[Data](articles/3c200f5a.json)
 
 ---
 
@@ -539,6 +653,24 @@ The Act, which has been widely critized both locally and internationally, became
 [Data](articles/b8df12ae.json)
 
 [Extended Data](ext_articles/b8df12ae.ext.json)
+
+---
+
+### UN Human Rights office calls for amendment to Online Safety Act
+
+*2024-02-02 15:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/UN-Human-Rights-office-calls-for-amendment-to-Online-Safety-Act/155-276219) · `en`
+
+Feb 02 -  The United Nations Human Rights office has urged the government to consider amending the controversial Online Safety Act to ensure it complies with human rights obligations.
+
+The UN Human Rights said, "The new Online Safety Act will have far reaching negative implications for human rights, including freedom of expression," in a post on X, formerly known as Twitter.
+
+"We urge the Government to consider amending the law to address concerns of civil society and industry groups and ensure it complies with human rights obligations," the post also read.
+
+The Act, which has been widely critized both locally and internationally, became law yesterday after it was endorsed by Speaker Mahinda Yapa Abeywardena.
+
+◼️
+
+[Data](articles/f7edf1f9.json)
 
 ---
 
@@ -1881,147 +2013,5 @@ The standard weight of a loaf of bread is 450 grams and the standard weight of a
 [Data](articles/428aaab5.json)
 
 [Extended Data](ext_articles/428aaab5.ext.json)
-
----
-
-### No LP gas price revision this month: Litro
-
-*2024-02-02 11:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-LP-gas-price-revision-this-month-Litro/108-276210) · `en`
-
-Colombo, Feb 2 (Daily Mirror) - Litro Gas announced today that they have decided not to revise their current domestic LP gas prices, despite the increase in international market prices.
-
-Addressing the media, Litro Chairman and CEO Muditha Peiris said that the decision was made after considering the financial hardships experienced by the public.
-
-As a result, there will be no revision in LP gas prices for this month, and this decision was made in light of the financial challenges being experienced by consumers.
-
-Peiris stated that the company has chosen to shoulder the larger portion of the incurred loss by refraining from revising the rates.
-
-As per the decision, the current Litro LP gas rates are as follows: The retail price of the 12.5kg cylinder of gas will remain at Rs. 4,250, the 5kg cylinder will stay at Rs. 1,707 and the 2.3kg cylinder will be maintained at Rs. 795.
-
-◼️
-
-[Data](articles/7fb6432c.json)
-
-[Extended Data](ext_articles/7fb6432c.ext.json)
-
----
-
-### Gazette notification on burden of bread
-
-*2024-02-02 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192876) · `si`
-
-The Consumer Affairs Authority has issued a gazette notification by referring the heavy weight of a bread and half a bread.
-
-Accordingly, the heavy weight of a bread should be 450 grams and can be 13.5 grams.
-
-The weight of half a bread should be 225 grams and not more than 9 minutes.
-
-The Consumer Affairs Authority states that the consumer Affairs Authority (CAA) should be clear when displaying breads to sell.
-
-◼️
-
-[Data](articles/0edb4550.json)
-
-[Extended Data](ext_articles/0edb4550.ext.json)
-
----
-
-### Special gazette issued stipulating standard weight for bread
-
-*2024-02-02 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96939/special-gazette-issued-stipulating-standard-weight-for-bread) · `en`
-
-The Consumer Affairs Authority (CAA) has issued an Extraordinary Gazette specifying the standard weight of a loaf of bread.
-
-Accordingly, the standard weight of a loaf of bread should be 450g with an allowed deficiency of 13.5g and for half a loaf of bread the standard weight is stipulated as 225g with 9g deficiency.
-
-The CAA has noted that any type of bread manufactured, packed, stored, offered for sale, displayed for sale or sold retail or wholesale should contain the standard weight specified in the gazette extraordinary.
-
-Meanwhile, all traders have been ordered to display the weight of bread displayed for sale.
-
-◼️
-
-[Data](articles/78ffd792.json)
-
-[Extended Data](ext_articles/78ffd792.ext.json)
-
----
-
-### Huge blast rocks Kenyan capital, injuring hundreds and destroying homes
-
-*2024-02-02 10:49:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/huge-blast-rocks-kenyan-capital-injuring-hundreds-and-destroying-homes/) · `en`
-
-Colombo (News 1st) – A huge blast rocked the Kenyan capital Nairobi close to midnight Thursday, as a truck carrying gas exploded, killing two and injuring over 200, destroying houses, apartments, shops and vehicles, foreign media said.
-
-The explosion took place at 11:30 p.m. local time in the Embakasi district, sending thousands of people fleeing in terror from the flames. The death toll could rise.
-
-Government spokesman Isaac Mwaura said "Kenyans are hereby advised to keep off the cordoned area in order to allow the rescue mission to be carried out with minimal disruptions".
-
-The Kenya Red Cross said on social media that crews had been "tirelessly battling the flames".
-
-UN Warns Sri Lanka’s Online Safety Act Threatens Human Rights
-
-Understanding Sri Lanka’s Online Safety Act: What You Need to Know
-
-Gazette issued making it mandatory to display weight and price of bread
-
-◼️
-
-[Data](articles/973b3e77.json)
-
-[Extended Data](ext_articles/973b3e77.ext.json)
-
----
-
-### Litro Gas decides not to revise prices in February
-
-*2024-02-02 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/96938/litro-gas-decides-not-to-revise-prices-in-february) · `en`
-
-Litro Gas Lanka has decided not to revise the prices of its domestic LP gas cylinders in the month of February.
-
-Addressing a special media briefing convened this morning (Feb.02), Litro Chairman Muditha Peiris said the decision was reached after taking into account the financial difficulties facing the members of the public.
-
-Although the domestic gas cylinder prices should ideally be increased in line with the price hikes in the global market, Mr. Peiris said the company decided to bear the greater share of the loss incurred on account of non-revision of rates.
-
-After the price hike announced in January, the Litro Gas prices now stand at the following rates:
-
-◼️
-
-[Data](articles/ab42f57f.json)
-
-[Extended Data](ext_articles/ab42f57f.ext.json)
-
----
-
-### Notice of gas price
-
-*2024-02-02 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192875) · `si`
-
-Litro Gas Company says that in February had decided to maintain the existing prices without amending the prices of Litro Gas.
-
-Despite the constant prices of this month, Litro Gas Chairman Prince said,
-
-◼️
-
-[Data](articles/5e7450de.json)
-
-[Extended Data](ext_articles/5e7450de.ext.json)
-
----
-
-### A police officer injured in a gun explosion
-
-*2024-02-02 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175358) · `ta`
-
-A police officer working at the Dharmapuram police station in Kilinochchi has been admitted to the hospital.
-
-The suspect has fled the scene when the Dharmapuram police rushed to the area on Thursday (01), who rushed to the area in accordance with information available in the Koramotta area of the Dharmapuram police division.
-
-A 37 -year -old police officer was admitted to the Dharmapuram Hospital after he was injured when he was chased away for arrest.
-
-◼️
-
-[Data](articles/be8cdc3b.json)
-
-[Extended Data](ext_articles/be8cdc3b.ext.json)
 
 ---

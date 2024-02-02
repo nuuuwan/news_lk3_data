@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-02 07:42:22**
+As of **2024-02-02 07:15:46**
 
 ## Newspaper Stats
 
-*Scraped **4,253** Articles*
+*Scraped **4,250** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 265
 dailyftlk | 272
 adalk | 378
 virakesarilk | 469
-adaderanasinhalalk | 504
+adaderanasinhalalk | 501
 adaderanalk | 529
 tamilmirrorlk | 540
 dailymirrorlk | 581
@@ -26,61 +26,11 @@ dailymirrorlk | 581
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,245 (99.8%) of 4,253 articles have been extended.
+4,242 (99.8%) of 4,250 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-02 (Friday)
-
-### මෛත්‍රීගේ සන්ධානය ගැන දයාසිරිගෙන් අනාවරණයක්
-
-*2024-02-02 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192868) · `si`
-
-ශ්‍රී ලංකා නිදහස් පක්ෂය නිර්මාණය කිරීමට සුදානම් වන නව සන්ධානයේ සහාය රනිල් වික්‍රමසිංහ ජනාධිපතිවරයාට ලබාදීමට තීරණය කර ඇති බව පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා පවසයි.
-
-මන්ත්‍රීවරයා තවදුරටත් ප්‍රකාශ කළේ මෛත්‍රීපාල සිරිසේන මහතාගේ සන්ධාන පිළිබඳ කිසිදු දේශපාලන පක්ෂයකට විශ්වාසයක් නොමැති බවය.
-
-"මෛත්‍රීපාල සිරිසේන මහතාගේ නායකත්වය අද බොහෝ දෙනෙක් විශ්වාස කරන්නේ නැහැ. ඒක තමයි නායකත්ව මණ්ඩල ඉල්ලන්නේ. ගිය සතියේ තිබුණු ලාන්සා මැතිතුමාලාගේ රැස්වීමේදී මම දැක්කා එතුමලා සහාය දෙන්න හදන්නේ රනිල් වික්‍රමසිංහ මැතිතුමාට. ඒ අය එකතුවෙලා හදන සන්ධානයේ.. ශ්‍රී ලංකා නිදහස් පක්ෂය සහයෝගය දෙන්නේ රනිල් වික්‍රමසිංහ මැතිතුමාට. ගමේ ඉන්න ශ්‍රී ලංකාකාරයින්ට ඒක ප්‍රශ්නයක්."
-
-◼️
-
-[Data](articles/92f38c3c.json)
-
----
-
-### සෞඛ්‍ය වැඩවර්ජනය අදත්
-
-*2024-02-02 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192867) · `si`
-
-සෞඛ්‍ය වැඩවර්ජනය අද (02) දිනයේත් අඛණ්ඩව ක්‍රියාත්මක කරන බව වෘත්තීය සමිති පවසයි.
-
-අතුරු වෛද්‍ය සේවා ඒකාබද්ධ පෙරමුණේ සභාපති උපුල් රෝහණ මහතා පැවසුවේ වෘත්තීය සමිති නියෝජිතයින්ගේ සහභාගීත්වයෙන් අද පස්වරුවේ පැවැත්වෙන සාකච්ඡාවේදී වර්ජනයේ ඉදිරි කටයුතු සම්බන්ධයෙන් අවසන් තීරණයක් ගන්නා බවය.
-
-වෛද්‍යවරුන්ට ලබාදුන් රුපියල් තිස් පන්දහසක ඩැට් දීමනාව තමන්ටද ලබා දෙන්නැයි ඉල්ලා සෞඛ්‍ය වෘත්තීය සමිති හැත්තෑ දෙකක් එක්වී ආරම්භ කළ වැඩ වර්ජනයෙන් ඊයේ දිනයේත් රෝහල් කටයුතු අඩපණ වී තිබුණි.
-
-◼️
-
-[Data](articles/871a588e.json)
-
----
-
-### අදත් වැසි වාර කිහිපයක්
-
-*2024-02-02 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192866) · `si`
-
-උතුරු, නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව දිස්ත්‍රික්කයේත් අද (02) දිනයේ වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
-
-එම නිවේදනයේ තවදුරටත් දැක්වෙන්නේ මධ්‍යම, සබරගමුව සහ දකුණු පළාත්වල අද ප.ව. 4.00 න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
-
-මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
-
-◼️
-
-[Data](articles/9af0af30.json)
-
----
 
 ### Evening thundershowers possible in several provinces
 
@@ -104,8 +54,6 @@ Winds will be north-easterly or easterly and wind speed will be 20-30 kmph.
 
 [Data](articles/9aeab7fd.json)
 
-[Extended Data](ext_articles/9aeab7fd.ext.json)
-
 ---
 
 ### Nippon Paint Rugby League 2023/24 – Week 8 Preview
@@ -117,8 +65,6 @@ Just a few weeks ago, the men from Havelock Town came well prepared to take on t
 ...
 
 [Data](articles/9ee67204.json)
-
-[Extended Data](ext_articles/9ee67204.ext.json)
 
 ---
 
@@ -135,8 +81,6 @@ Even as the greater part of the island is enveloped in a melodious mood, a disco
 ...
 
 [Data](articles/f5cda53c.json)
-
-[Extended Data](ext_articles/f5cda53c.ext.json)
 
 ---
 
@@ -2013,5 +1957,57 @@ Pakistan Lifestyle Exhibition is being held at BMICH until February 5. The Exhib
 [Data](articles/6fb58a54.json)
 
 [Extended Data](ext_articles/6fb58a54.ext.json)
+
+---
+
+### Police call for public assistance to arrest a suspect
+
+*2024-02-01 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192844) · `si`
+
+Police seek public assistance to arrest a suspect in relation to investigations into an incident of controversial murder.
+
+Police had released a photo of the suspect who was involved in the incident.
+
+If you know information about the suspect, the Kollupitiya Police call to inform the Kollupitiya Police.
+
+◼️
+
+[Data](articles/34126e4f.json)
+
+[Extended Data](ext_articles/34126e4f.ext.json)
+
+---
+
+### Health strike continues
+
+*2024-02-01 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192843) · `si`
+
+The Health strike will continue tomorrow and will continue tomorrow.
+
+◼️
+
+[Data](articles/2c3cdea8.json)
+
+[Extended Data](ext_articles/2c3cdea8.ext.json)
+
+---
+
+### No bus fare increase: Shashi Welgama; Increase bus fare by 10% within two weeks: Gemunu
+
+*2024-02-01 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-bus-fare-increase-Shashi-Welgama-Increase-bus-fare-by-10-within-two-weeks-Gemunu/108-276143) · `en`
+
+Colombo, Feb 1 (Daily Mirror) - National Transport Commission Chairman, Shashi Welgama said today that there is no provision to increase bus fares even though the price of diesel has increased by Rs. 5.
+
+He said that according to the existing laws and agreements on bus fares, it is not possible to increase fares at this time, and no one has made a request to increase the bus fares so far.
+
+Meanwhile, considering yesterday's and previous fuel price revisions, the private bus associations have incurred a total loss of Rs. 22, which cannot be afforded, and therefore a bus fare revision is a must this time, Lanka Private Bus Owners' Association (LPBOA) Chairman Gemunu Wijerathne said.
+
+Every time fuel price revisions had taken place, as responsible bus associations, we have worked according to the national bus fare policy while bearing our losses.
+
+...
+
+[Data](articles/d0569ca9.json)
+
+[Extended Data](ext_articles/d0569ca9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 01:17:05**
+As of **2024-02-03 01:32:57**
 
 ## Newspaper Stats
 
-*Scraped **4,444** Articles*
+*Scraped **4,449** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ bbccomsinhala | 69
 dbsjeyarajcom | 132
 islandlk | 230
 economynextcom | 252
-dailyftlk | 272
 newsfirstlk | 274
+dailyftlk | 277
 adalk | 389
 virakesarilk | 498
 adaderanasinhalalk | 538
@@ -26,11 +26,93 @@ dailymirrorlk | 618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,444 (100.0%) of 4,444 articles have been extended.
+4,444 (99.9%) of 4,449 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### Foreign Minister Sabry meets Belgium entrepreneurs connected to Sri Lanka
+
+*2024-02-03 00:14:15* · [`dailyftlk`](https://www.ft.lk/business/Foreign-Minister-Sabry-meets-Belgium-entrepreneurs-connectedto-Sri-Lanka/34-758097) · `en`
+
+On the sidelines of the third EU Indo-Pacific Ministerial Forum in Belgium, Foreign Minister Ali Sabry met with Belgium entrepreneurs connected to Sri Lanka at the ‘Brussels Enterprises Commerce and Industry’ (BECI) on 31 January.
+
+With a view to encourage more trade, investments and tourism, the Foreign Minister shared insights on Sri Lanka’s economic rebound, reforms and the efforts of Economic and Social transformation for a sustainable growth of the country at this interactive session, co-organised by Sri Lanka Embassy in Brussels, ‘Brussels Enterprises Commerce and Industry’ (BECI) and Sri Lanka Honorary Consul in Antwerp Monique De Decker.
+
+Sri Lanka’s Ambassador-designate to Belgium and European Union Chandana Weerasena conveyed that the Sri Lanka Embassy in Brussels will focus on connecting with private sectors of both countries to reach the maximum potential of economic opportunities.
+
+...
+
+[Data](articles/ef72af3c.json)
+
+---
+
+### Seylan Bank launches Solar Loan Facility
+
+*2024-02-03 00:13:24* · [`dailyftlk`](https://www.ft.lk/business/Seylan-Bank-launches-Solar-Loan-Facility/34-758096) · `en`
+
+Seylan Bank has introduced a solution to address the challenge of rising electricity bills.
+
+In response to the pressing need for sustainable and cost-effective energy solutions, Seylan Bank’s Solar Loan Facility will help its customers achieve financial independence and make sustainable choices for their energy needs.
+
+The Solar Loan Facility is designed with the rising electricity costs in mind, ensuring that people no longer need to compromise on the comforts of their home or allocate a significant portion of their earnings towards their monthly electricity bills. Instead, Seylan Bank offers the opportunity to pay a fixed instalment over a period of time, ultimately leading to a lifetime of free electricity as power generation via the unit will be considered as income to offset the electricity bill.
+
+...
+
+[Data](articles/b7a82679.json)
+
+---
+
+### “Abans Tiken Tika Pay” to provide relief for customers in challenging times
+
+*2024-02-03 00:11:50* · [`dailyftlk`](https://www.ft.lk/business/Abans-Tiken-Tika-Pay-to-provide-relief-for-customers-in-challenging-times/34-758095) · `en`
+
+In the midst of economic uncertainties and challenging times, Abans, has stepped forward as a pillar of support for its valued customers.
+
+The unveiling of the “Abans Tiken Tika Pay” scheme not only streamlines the purchasing process but also serves as a vital lifeline for individuals navigating through these trying circumstances.
+
+Recognising the financial challenges faced by many customers, particularly during economically challenging periods, Abans has devised a solution to alleviate the strain. The Abans Tiken Tika Pay initiative introduces flexible payment plans through Abans’ hire purchase terms and an extensive array of interest-free credit card terms. This strategic move aims to empower customers, enabling them to acquire essential appliances and electronics without compromising their budget or financial stability.
+
+...
+
+[Data](articles/902967d8.json)
+
+---
+
+### 76 years on is Sri Lanka independent or in-dependence? What are we celebrating?
+
+*2024-02-03 00:11:00* · [`dailyftlk`](https://www.ft.lk/columns/76-years-on-is-Sri-Lanka-independent-or-in-dependence-What-are-we-celebrating/4-758094) · `en`
+
+Sri Lanka has not had the benefit of a local Mahatma Gandhi, neither then, nor even today. So the country has to have a different model to India. The ideal model would be a collective leadership with a high level multiparty governing council for a period of time at least to chart a common economic program that sets some key parameters and strategies to set the country on a long term economic and social revival
+
+There was no fight for . . . freedom which involved a fight for principles, policies, and programmes … No. It just came overnight. We just woke up one day and we were told, “You are a dominion now.” - S.W.R.D. Bandaranaike, Ceylon Prime Minister
+
+...
+
+[Data](articles/50019617.json)
+
+---
+
+### March past a milepost and a new hope in court’s steps
+
+*2024-02-03 00:07:48* · [`dailyftlk`](https://www.ft.lk/columns/March-past-a-milepost-and-a-new-hope-in-court-s-steps/4-758093) · `en`
+
+It sings of a stauncher freedom and untrammelled liberty, which we earnestly desire but often find to be out of reach year after year, generation after generation – Pic by Ruwan Walpola
+
+As Sri Lanka parades past its 76th milepost on a journey of independence from colonial dominion today, there are a few factors to my mind that may help discern how the wind in that flag flies in the face of our march past.
+
+It sings of a stauncher freedom and untrammelled liberty, which we earnestly desire but often find to be out of reach year after year, generation after generation.
+
+The way we spend our days, of course, is the way we live our lives. This is as true of nations as it is of individuals.
+
+There is therefore some merit in examining the way we dealt in the year past with diurnal events as individuals, as it may indicate the turn that our destiny as a nation is taking.
+
+...
+
+[Data](articles/12871ea9.json)
+
+---
 
 ### SJB Protest Turns Out A Damp Squib
 
@@ -1965,123 +2047,5 @@ It was also discussed on the measures being taken to ensure the role of the publ
 [Data](articles/2c52bb25.json)
 
 [Extended Data](ext_articles/2c52bb25.ext.json)
-
----
-
-### Two arrested for abuse of an American girl
-
-*2024-02-02 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192878) · `si`
-
-Two suspects have been arrested for a 25 year old American girl who had come to visit.
-
-It is reported that the suspects have also stolen of gold jewelery worth about $ 6,000.
-
-The Criminal Investigation Unit of the Kandy Police (CID) said that a person who was a tourist guide and another.
-
-A large number of passengers were weeping to Badulla from Kandy to Badulla and have been referred to her to the Nanu Oya Police.
-
-According to the interrogation of the Nanu Oya police officers, the girl had said that he had been abandoned at a lodging in Kandy on the 29th.
-
-She has also lodged a complaint with the suspects, a 3,600 necklace worth of gold, US $ 3,600 and a wake.
-
-The girl told the police that with the two suspects, he had been drinking at a lodging in Kandy and there was no memory of what happened.
-
-She has told the police that since he is diagnosed again, she was a miracle.
-
-The two suspects have been referred to the forensic doctor and the foreign girl tried to refer to the forensic doctor.
-
-...
-
-[Data](articles/6995a296.json)
-
-[Extended Data](ext_articles/6995a296.ext.json)
-
----
-
-### Hospital activities severely disrupted due to strike action
-
-*2024-02-02 13:11:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/hospital-activities-severely-disrupted-due-to-strike-action/) · `en`
-
-COLOMBO (News 1st); There have been serious disruptions to hospital activities on Friday (02) as well, due to the strike launched by 72 health trade unions.
-
-News 1st correspondent said issuing medicines, conducting tests and conducting radiological tests in many hospitals was hampered.
-
-The members of 72 health trade unions launched the strike at 6.30am on Thursday (01) demanding that the Rs.35,000 allowance granted to doctors be given to them as well.
-
-The Health Trade Union Alliance said health authorities did not provide a response to their demands on Thursday (01).
-
-Co-Convener of the Health Trade Union Alliance Ravi Kumudesh said the strike action was a success.
-
-He said the trade union leaders will convene on Friday (02) afternoon to discuss the future measures.
-
-Army Spokesperson Major General Rasika Kumara said 1,000 Army personnel were deployed to restore the hospital services disrupted by the strike.
-
-UN Warns Sri Lanka’s Online Safety Act Threatens Human Rights
-
-...
-
-[Data](articles/aa15ce2a.json)
-
-[Extended Data](ext_articles/aa15ce2a.ext.json)
-
----
-
-### 13 Is the ragby player of the Rugby player of the Rugby player of the ragby-rugby?
-
-*2024-02-02 13:07:22* · [`adalk`](https://www.ada.lk/breaking_news/13-හැවැරිදි-පාසල්-රග්බි-ක්‍රීඩකයා-දිවි-තොර-ගත්තේ-ඡංගම-දුරකතනය-අරන්-දුන්-නැති-නිසාද-/11-407870) · `si`
-
-Pottapitiya Police say that a Thirteenth-old student had died in a house room in Kandy.
-
-The suicide was committed to Ronithpitiya (13), a year old year old.
-
-The police investigation has revealed that the student had also act as a junior rugby in the school and he declined it.
-
-Police OIC Chief Inspector Priyantha Ranasinghe, including Priyantha Ranasinghe, conducts further investigations.
-
-◼️
-
-[Data](articles/7b111cab.json)
-
-[Extended Data](ext_articles/7b111cab.ext.json)
-
----
-
-### Gazette issued making it mandatory to display weight and price of bread
-
-*2024-02-02 13:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/gazette-issued-making-it-mandatory-to-display-weight-and-price-of-bread/) · `en`
-
-COLOMBO (News 1st); The Consumer Affairs Authority has issued a special gazette notification making it mandatory to display the standard weight of a loaf of bread and its price.
-
-The relevant gazette issued in accordance with the powers vested to the Chairman of the Consumer Affairs Authority states the standard weight of a loaf of bread should be 450g.
-
-It adds that the weight of half a loaf of bread should be 225g.
-
-The gazette also states “tolerance deficiency”, which means the content less than the standard weight which is allowed, for a 450g loaf of bread is 13.5g.
-
-UN Warns Sri Lanka’s Online Safety Act Threatens Human Rights
-
-Understanding Sri Lanka’s Online Safety Act: What You Need to Know
-
-◼️
-
-[Data](articles/02c4f57e.json)
-
-[Extended Data](ext_articles/02c4f57e.ext.json)
-
----
-
-### Submit Action Survey. 2000 compact allowance this year
-
-*2024-02-02 13:00:27* · [`adalk`](https://www.ada.lk/breaking_news/උපෙළ උත්තර-පත්‍ර-සමීක්ෂණයේදී-රු--2000ක-සංයුක්ත-දීමනාව-මෙවරත්/11-407869) · `si`
-
-2023 GCE Advanced Level. The Allowance to the Assessments (A / L) requests will be provided with the Allowance of Rs. 2,000 / -.
-
-The Ministry of Examinations will inform the Commissioner of Examinations to inform the inspectors of all evaluation centers.
-
-◼️
-
-[Data](articles/079b5742.json)
-
-[Extended Data](ext_articles/079b5742.ext.json)
 
 ---

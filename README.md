@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 09:02:27**
+As of **2024-02-03 09:17:18**
 
 ## Newspaper Stats
 
-*Scraped **4,480** Articles*
+*Scraped **4,483** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ virakesarilk | 499
 adaderanasinhalalk | 545
 adaderanalk | 556
 tamilmirrorlk | 565
-dailymirrorlk | 620
+dailymirrorlk | 623
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,478 (100.0%) of 4,480 articles have been extended.
+4,480 (99.9%) of 4,483 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### CID to produce MInister Keheliya Rambukwella before court today
+
+*2024-02-03 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-to-produce-MInister-Keheliya-Rambukwella-before-court-today/108-276272) · `en`
+
+Colombo, Feb 03 (Daily Mirror) - Former Health Minister Keheliya Rambukwella who was arrested yesterday by the Criminal Investigation Department (CID) over the ongoing probe into the import of substandard Immunoglobulin injections, will be produced before the Maligakanda Magistrate's Court today.
+
+Rambukwella, currently serving as Environment Minister, becomes the highest-ranking official arrested so far in the widening investigations.
+
+Rambukwella arrived at the Criminal Investigation Department around 9 am yesterday, complying with a order issued by the Maligakanda Magistrate's Court.
+
+Maligakanda Magistrate Lochana Abeywickrama also imposed an overseas travel ban on Rambukwella on Thursday after he failed to report to the CID.
+
+...
+
+[Data](articles/563e0e8e.json)
+
+---
 
 ### Yukthiya operation should not be passionate or personal initiative outside law
 
@@ -44,25 +62,43 @@ The collective said it would have been best if the campaign had been commenced w
 
 [Data](articles/7c641d6f.json)
 
+[Extended Data](ext_articles/7c641d6f.ext.json)
+
 ---
 
-### දූරියන් ගසක ඇද තිබූ විදුලි රැහැනක පැටලී තරුණයෙක් මරුට
+### Yukthiya operation should not be passionate or personal initiative outside law
+
+*2024-02-03 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Yukthiya-operation-should-not-be-passionate-or-personal-initiative-outside-law/155-276269) · `en`
+
+The Lawyers’ Collective, in an open letter to Minister of Public Security Tiran Alles yesterday said the Yukthiya Anti-drug Campaign must conform to the rule of law and should not be a passionate, personal initiative that seeks implementation outside the law.
+
+The collective said it would have been best if the campaign had been commenced when the Minister took office rather than in the election year of 2024. The letter is as follows; We are writing this letter to you as members of the Lawyers Collective. we will send copies to the President and Prime Minister and will place the letter in the public domain. we are doing so because we consider the manner in which you are exercising your powers in the “Yukthiya” anti-Drug Campaign, a matter of grave public concern.
+
+...
+
+[Data](articles/d87fa776.json)
+
+---
+
+### Youth dies in a power cord of a durian tree
 
 *2024-02-03 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192910) · `si`
 
-බටහිර පත්බේරිය - වටප්පිටිය ප්‍රදේශයේ පෞද්ගලික ඉඩමක මිය ගොස් සිටි පිරිමි පුද්ගලයෙකුගේ මළ සිරුරක් තිබී හමු ව ඇත.
+A dead body of a dead man was found in a private land in the West palappitiya.
 
-ඇහැලියගොඩ පොලීසියට ලද දැනුම්දීමක් මත ඒ සම්බන්ධයෙන් සිදු කළ විමර්ශනයකට අනුව හෙළි වී ඇත්තේ, මිය ගිය පුද්ගලයා අවුරුදු 27ක වටප්පිටිය - පරකඩුව ප්‍රදේශයේ පදිංචි ව සිටි පුද්ගලයෙකු බවයි.
+According to an investigation made by Eheliyagoda police, the deceased has been identified as a 27-year-old resident of the Parakaduwa area.
 
-මිය ගිය පුද්ගලයා එක් පාදයක පිළිස්සුම් තුවාල සහිත ව එම ඉඩමේ දූරියන් ගසක් ආසන්නයේ වැටී සිට තිබේ.
+The deceased has fallen into a tree near the land with one foot burn injury.
 
-ඉඩමේ හිමිකරු විසින් දූරියන් ආරක්ෂා කරගැනීමට ඉඩමට විදුලි රැහැන් ඇද තිබී ඇති අතර, මෙම පුද්ගලයා විදුලිසැර වැදීමෙන් මිය ගොස් ඇති බවට පොලීසිය සිදු කළ විමර්ශන අනුව වැඩිදුරටත් අනාවරණය වී ඇත.
+The owner of the land was to protect the durian and the police had detected the death of the individual.
 
-මේ සම්බන්ධයෙන් ඉඩමේ හිමිකරු වූ 51 හැවිරිදි පුද්ගලයෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A 51-year-old man has been arrested by the police, who was the owner of the land.
 
 ◼️
 
 [Data](articles/742a216c.json)
+
+[Extended Data](ext_articles/742a216c.ext.json)
 
 ---
 
@@ -959,6 +995,24 @@ The $442 million project was given to the Indian firm as an unsolicited deal aft
 [Data](articles/be089375.json)
 
 [Extended Data](ext_articles/be089375.ext.json)
+
+---
+
+### Former Health Minister Keheliya Rambukwella arrested
+
+*2024-02-02 19:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Health-Minister-Keheliya-Rambukwella-arrested/108-276229) · `en`
+
+Colombo, Feb 02 (Daily Mirror) - Former Health Minister Keheliya Rambukwella has been arrested  by the Criminal Investigation Department (CID) a short while ago in connection with the importation of substandard Immunoglobulin injections.
+
+Rambukwella complied with a court order, arrived at the CID this morning to provide a statement.
+
+Maligakanda Magistrate Lochana Abeywickrama had directed Rambukwella to report to the CID at 9 AM on Friday (2) following submissions by Deputy Solicitor General Lakmini Girihagama on behalf of the Attorney General during a court hearing on the controversial human immunoglobulin procurement case.
+
+After more than 10 hours of interrogation, the minister was arrested in connection with the matter.
+
+◼️
+
+[Data](articles/06910b89.json)
 
 ---
 
@@ -1957,67 +2011,5 @@ In the long official statement, Vijay said that though his fan club Vijay Makkal
 [Data](articles/a4b89169.json)
 
 [Extended Data](ext_articles/a4b89169.ext.json)
-
----
-
-### Pakistan is also ready to sell sales
-
-*2024-02-02 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192890) · `si`
-
-Foreign media reports that Pakistani's national airline, the national airlighted in Pakistan, is being governed to sell the International Airlinary Airlines.
-
-Pakistan is facing a heavy economic crisis and in June last June, the IMF agreed to introduce economic reforms.
-
-The International Monetary Fund was approved by $ 3 billion to Pakistan and restructured public enterprises in a period of weeks after the agreement signed.
-
-Fahuad Hasan Fuad, Minister of Trustee Government, said that 98% of the relevant activities had been completed.
-
-The cabinet approval relating to the sale of the airline is also due to be held within the next few days.
-
-◼️
-
-[Data](articles/ec9d8993.json)
-
-[Extended Data](ext_articles/ec9d8993.ext.json)
-
----
-
-### Investigation Police Investigate to the activist who was released by the court
-
-*2024-02-02 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175394) · `ta`
-
-A civil society activist of the Eastern Province, who was arrested and released by the court, has been investigated for about three hours in connection with the invitation to the Anti -Terrorism and Investigation Unit.
-
-Despite the release of the court, Wimalasena Lavakumar has stated that the anti -terrorism and intelligence unit questioned him that he was a violation of the rights.
-
-“Who gave you permission to make Heroes Day?How did you take permission?With whom do you have contact with Diaspora?Why did you go to the Heroes Day event?Their entire inquiry was able to observe the issues that deny the rights. ”
-
-On the morning of January 26, 2023, the Valaichenai police announced him to the Batticaloa Anti -Terrorism and Investigation Division on the morning of the 27th.
-
-Wimalasena Lavakumar told the regional journalists that he had been investigating until two o'clock in the afternoon at 11 am.
-
-...
-
-[Data](articles/8cbc4d6b.json)
-
-[Extended Data](ext_articles/8cbc4d6b.ext.json)
-
----
-
-### Online Safety Bill gazetted, enacted as law
-
-*2024-02-02 15:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Online-Safety-Bill-gazetted-enacted-as-law/108-276217) · `en`
-
-Colombo, Feb 2 (Daily Mirror) - The controversial Online Safety Bill, which was passed in Parliament last week and was endorsed by Speaker Mahinda Yapa Abeywardena yesterday, was gazetted and enacted as law.
-
-The third reading of the bill was passed without a vote on January 24, and several amendments recommended by the Supreme Court were incorporated, though opposition MPs accused the government that the bill that was passed did not properly accommodate those recommendations.
-
-The Asia Internet Coalition, an industry association that promotes understanding and resolution of Internet policy issues in the Asia Pacific region and works with tech giants such as Google, Meta and X, have criticised the bill, calling it “unworkable”.
-
-◼️
-
-[Data](articles/d6588cb7.json)
-
-[Extended Data](ext_articles/d6588cb7.ext.json)
 
 ---

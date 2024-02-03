@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 20:32:36**
+As of **2024-02-03 20:49:20**
 
 ## Newspaper Stats
 
-*Scraped **4,585** Articles*
+*Scraped **4,586** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 281
 adalk | 393
 virakesarilk | 517
-adaderanasinhalalk | 567
+adaderanasinhalalk | 568
 adaderanalk | 574
 tamilmirrorlk | 579
 dailymirrorlk | 642
@@ -26,11 +26,37 @@ dailymirrorlk | 642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,585 (100.0%) of 4,585 articles have been extended.
+4,585 (100.0%) of 4,586 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### අධිකරණයේදී කෙහෙළියට එල්ල කළ චෝදනාව
+
+*2024-02-03 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192935) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙලිය රඹුක්වැල්ල මහතා පෙබරවාරි 15වනදා තෙක් රක්ෂිත බන්ධනාගාරගත කිරීමට මාළිගාකන්ද මහේස්ත්‍රාත් අධිකරණය අද (02) නියෝග කළේය.
+
+ඒ අනුව රක්ෂිත බන්ධනාගාරගත කෙරුණු කෙහෙළිය රඹුක්වැල්ල මහතාව පසුව බන්ධනාගාර රෝහලට ඇතුළත් කෙරුණි.
+
+ප්‍රශ්නගත ප්‍රතිදේහ එන්නත් සිද්ධිය සම්බන්ධයෙන් වූ නඩුවට අදාළව ඔහුට චෝදනා එල්ලවී තිබේ.
+
+සිද්ධිය සම්බන්ධයෙන් මාලිගාකන්ද මහෙස්ත්‍රාත් ලෝචනී අබේවික්‍රම මහත්මිය ඉදිරියේ කරුණු දැක්වීම ඇරඹු රජයේ
+
+නියෝජ්‍ය සොලිසිටර් ජනරාල් ලක්මිණි ගිරිහාගම මෙනෙවිය අධිකරණයට දැනුම් දුන්නේ, ප්‍රශ්නගත "හියුමන්
+
+ඉමියුනොග්ලොබියුලින්" ප්‍රතිදේහ එන්නත් මාත්‍රා පිළිබඳ නඩුවේ 08 වන සැකකරු ලෙස හිටපු සෞඛ්‍ය
+
+"ස්වාමිනි, අද දින ඔබගේ අධිකරණයට මේ සැකකරු ඉදිරිපත් කරනු ලබන්නේ පොදු දේපොළ පනතේ 5/1
+
+වගන්තිය ප්‍රකාරව ශ්‍රී ලංකා ජනරජයේ මුදල් සාපරාධි සාවද්‍ය පරිහරණය කිරීමට ආධාර අනුබලදීම සම්බන්ධයෙන්."
+
+...
+
+[Data](articles/7874256b.json)
+
+---
 
 ### Indian submarine in Colombo ahead of Sri Lanka’s Independence Day celebrations
 
@@ -1977,27 +2003,5 @@ Special traffic plan in action in Colombo for Independence day celebration
 [Data](articles/9c16b63a.json)
 
 [Extended Data](ext_articles/9c16b63a.ext.json)
-
----
-
-### Air Force fighter jets raid Syrian targets
-
-*2024-02-03 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192908) · `si`
-
-The US army has launched air strikes to Syria's goals.
-
-According to foreign reports, 3 soldiers have recently launched the attack on the death of 3 soldiers in a US camp in Jordan.
-
-According to the Syrian Monitoring Center for Human Rights Syrian monitoring Center, six Iranian fighters killed in the East.
-
-In October, they were the first US military officers who were killed in the Middle East after the commencement of the war of Israel in October.
-
-Forestry, USA and coalition troops, including drones, rockets and short distances ballistic missiles have been launched in Iraq, Syria and Jordan.
-
-◼️
-
-[Data](articles/84e2f655.json)
-
-[Extended Data](ext_articles/84e2f655.ext.json)
 
 ---

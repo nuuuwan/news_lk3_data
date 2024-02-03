@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 18:49:50**
+As of **2024-02-03 19:02:19**
 
 ## Newspaper Stats
 
-*Scraped **4,577** Articles*
+*Scraped **4,579** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 281
 adalk | 393
 virakesarilk | 516
 adaderanasinhalalk | 566
-adaderanalk | 571
+adaderanalk | 573
 tamilmirrorlk | 577
 dailymirrorlk | 641
 
@@ -26,11 +26,43 @@ dailymirrorlk | 641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,577 (100.0%) of 4,577 articles have been extended.
+4,577 (100.0%) of 4,579 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### Sri Lanka, Thailand to boost defence and security cooperation to curb transnational crimes
+
+*2024-02-03 18:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96977/sri-lanka-thailand-to-boost-defence-and-security-cooperation-to-curb-transnational-crimes) · `en`
+
+In a gesture of warm hospitality, President Ranil Wickremesinghe extended a cordial welcome to the distinguished Prime Minister of the Kingdom of Thailand, Srettha Thavisin, and the accompanying official delegation at the Presidential Secretariat this afternoon (Feb.03).
+
+After the gracious reception by the Sri Lankan leader, a formal ceremony unfolded, where the Chief of Defence Staff accompanied both leaders to the saluting dais. Amidst the ceremonial ambiance, a Guard of Honour was awarded to the distinguished guests followed by a 19-gun salute.
+
+After the formal introduction of the delegations from both countries, President Wickremesinghe and PM Thavisin engaged in an exclusive one-to-one meeting, hosted at the President’s Office.
+
+...
+
+[Data](articles/279e060d.json)
+
+---
+
+### Electricity and petroleum supply again gazetted as essential services
+
+*2024-02-03 18:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/96976/electricity-and-petroleum-supply-again-gazetted-as-essential-services) · `en`
+
+President Ranil Wickremesinghe issued an Extraordinary Gazette notification this evening (Feb. 03) declaring all services connected to the supply of electricity and the supply or distribution of petroleum products and fuel as essential public services.
+
+The Gazette has been issued by virtue of the powers vested in the President in terms of Section 2 of the Essential Public Services Act, No. 61 of 1979.
+
+The new communiqué comes a month after the services related to electricity and petroleum were gazetted as essential to the life of the community.
+
+◼️
+
+[Data](articles/769e412a.json)
+
+---
 
 ### Sri Lanka scored 212 runs
 
@@ -1941,47 +1973,5 @@ Speaking further Mr. Sagala Ratnayake said that the future generation is essenti
 [Data](articles/2805cbe6.json)
 
 [Extended Data](ext_articles/2805cbe6.ext.json)
-
----
-
-### Sri Lanka to call investors for Jaffna airport PPP
-
-*2024-02-03 06:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-call-investors-for-jaffna-airport-ppp-149759/) · `en`
-
-ECONOMYNEXT – Sri Lanka will call expressions of interest to operate Jaffna International Airport as a public private partnership, Shipping and Aviation Minister Nimal Siripala de Silva said.
-
-Prepatory work was underway and the EOI will be called soon, he said.
-
-Jaffna airport in Palaly was designated an international airport and is currently seeing  scheduled flights from India through smaller turboprop aircraft.
-
-The airport needs a runway extension to land jets at least in the Airbus A320 class.
-
-Sri Lanka is close to awarding the management of Mattala Rajapaksa International Airport to a consortium of Russian and Indian companies, Minister de Silva said. (Colombo/Feb03/2024)
-
-◼️
-
-[Data](articles/69a68b4c.json)
-
-[Extended Data](ext_articles/69a68b4c.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-02-03 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192904) · `si`
-
-The Department of Meteorology has announced that several showers may occur in the Polonnaruwa and Matale Districts, Eastern and Uva provinces.
-
-Showers or thundershowers will occur at several places in the Western and Sabaragamuwa provinces, in the Kandy, Nuwara Elamuwa, Galle and Matara districts.
-
-In some places in the Central and Sabaragamuwa provinces, in some locations, are expected to be found in the morning in the Galle and Matara districts.
-
-The Meteorological Department urges the public to take necessary steps to reduce the temporary winds and lightning activities caused by thunderstorms.
-
-◼️
-
-[Data](articles/ad05d8b6.json)
-
-[Extended Data](ext_articles/ad05d8b6.ext.json)
 
 ---

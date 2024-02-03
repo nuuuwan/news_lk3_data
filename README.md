@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 12:02:38**
+As of **2024-02-03 12:17:21**
 
 ## Newspaper Stats
 
-*Scraped **4,520** Articles*
+*Scraped **4,523** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 54
 bbccomsinhala | 70
 dbsjeyarajcom | 134
-islandlk | 238
-economynextcom | 252
+islandlk | 239
+economynextcom | 253
 newsfirstlk | 280
 dailyftlk | 280
 adalk | 392
 virakesarilk | 503
 adaderanasinhalalk | 551
-adaderanalk | 561
+adaderanalk | 562
 tamilmirrorlk | 575
 dailymirrorlk | 630
 
@@ -26,11 +26,29 @@ dailymirrorlk | 630
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,520 (100.0%) of 4,520 articles have been extended.
+4,520 (99.9%) of 4,523 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### Special changes made to Coastal Line train schedule for Independence Day
+
+*2024-02-03 11:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96967/special-changes-made-to-coastal-line-train-schedule-for-independence-day-) · `en`
+
+The trains operating on the Coastal Line will not make stops at several major railway stations tomorrow (Feb. 04), the Department of Railways said.
+
+Accordingly, the trains on the Coastal Line will not stop at the Bambalapitiya, Kollupitiya and Secretariat Railway Stations from 05.00 a.m. to 09.00 a.m. tomorrow.
+
+The Department of Railways said that this decision was taken in order to ensure the safety of both local and foreign dignitaries participating in the Independence Day ceremony, as well as the armed forces and police personnel taking part in the parade.
+
+The 76th National Independence Day celebrations will be held at Galle Face Green in Colombo tomorrow in a dignified manner presided over by President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena. In the meantime, Prime Minister of Thailand Srettha Thavisin, is also scheduled to grace the event as the guest of honour, together with many other local and foreign delegations.
+
+◼️
+
+[Data](articles/970502bf.json)
+
+---
 
 ### SLPP demands resolution of issues
 
@@ -891,6 +909,26 @@ Speaking further Mr. Sagala Ratnayake said that the future generation is essenti
 [Data](articles/2805cbe6.json)
 
 [Extended Data](ext_articles/2805cbe6.ext.json)
+
+---
+
+### Sri Lanka to call investors for Jaffna airport PPP
+
+*2024-02-03 06:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-call-investors-for-jaffna-airport-ppp-149759/) · `en`
+
+ECONOMYNEXT – Sri Lanka will call expressions of interest to operate Jaffna International Airport as a public private partnership, Shipping and Aviation Minister Nimal Siripala de Silva said.
+
+Prepatory work was underway and the EOI will be called soon, he said.
+
+Jaffna airport in Palaly was designated an international airport and is currently seeing  scheduled flights from India through smaller turboprop aircraft.
+
+The airport needs a runway extension to land jets at least in the Airbus A320 class.
+
+Sri Lanka is close to awarding the management of Mattala Rajapaksa International Airport to a consortium of Russian and Indian companies, Minister de Silva said. (Colombo/Feb03/2024)
+
+◼️
+
+[Data](articles/69a68b4c.json)
 
 ---
 
@@ -1919,51 +1957,5 @@ The event was held at the Presidential Secretariat today (02).
 [Data](articles/997a9fe1.json)
 
 [Extended Data](ext_articles/997a9fe1.ext.json)
-
----
-
-### Sri Lanka private creditors said to be frustrated over lack of progress
-
-*2024-02-02 18:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-creditors-said-to-be-frustrated-over-lack-of-progress-149662/) · `en`
-
-ECONOMYNEXT – Some of Sri Lanka’s bondholders who were willing to negotiate a deal before a judgement was delivered in a case filed by holdout investor Hamilton Reserve, are frustrated at what is seen as no progress in discussions, sources familiar with their thinking said.
-
-While Hamilton Reserve has gone to court claiming to represent a 250 million dollar or 25 percent share in a billion-dollar bond with a so-called ‘single series’ collective action clause, a large majority of bondholders who have other bonds, have formed a committee to negotiate with Sri Lanka.
-
-Western governments including the US and France have asked that the court action be stayed until negotiations with other bondholders conclude, but prospects of a deal being concluded by the time the first deadline given by the court has now dimmed.
-
-It is not clear yet whether a second extension could be obtained from court.
-
-...
-
-[Data](articles/8fd03b65.json)
-
-[Extended Data](ext_articles/8fd03b65.ext.json)
-
----
-
-### Two arrested for alleged sexual assault, theft of American woman
-
-*2024-02-02 18:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-arrested-for-alleged-sexual-assault-theft-of-American-woman/108-276224) · `en`
-
-Kandy, Feb 02 (Daily Mirror) -  Two suspects were arrested for allegedly sexually assaulting a 25-year-old American woman visiting Sri Lanka.
-
-The suspects had also reportedly stolen gold jewelry worth approximately USD 6,000 from the woman.
-
-The Crimes Investigation Division of the Kandy Police arrested the suspects, including a tourist guide.
-
-The incident was reported to the Nanu Oya Police, with the victim alleging that she was sexually abused at a guest house in Kandy on January 29.
-
-According to her complaint, she had consumed liquor with the suspects that night and she alleged that she was drugged and made unconscious.
-
-Upon regaining consciousness, she found herself naked on a bed.
-
-The victim also complained that a gold bracelet worth USD 2,400, a necklace worth USD 3,600 and a pair of diamond-studded earrings were stolen.
-
-◼️
-
-[Data](articles/08ae7063.json)
-
-[Extended Data](ext_articles/08ae7063.ext.json)
 
 ---

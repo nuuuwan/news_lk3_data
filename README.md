@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 05:17:11**
+As of **2024-02-03 05:36:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,453 (100.0%) of 4,455 articles have been extended.
+4,455 (100.0%) of 4,455 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -264,6 +264,8 @@ According to GMOF president Dr. Rukshan Bellana, tenders initiated during the fo
 
 [Data](articles/8fbc9276.json)
 
+[Extended Data](ext_articles/8fbc9276.ext.json)
+
 ---
 
 ### Independent Of What & Whom?
@@ -275,6 +277,8 @@ It reminds us of the saying â€œPride costs us more than hunger, thirst and coldâ
 ...
 
 [Data](articles/0c21676a.json)
+
+[Extended Data](ext_articles/0c21676a.ext.json)
 
 ---
 

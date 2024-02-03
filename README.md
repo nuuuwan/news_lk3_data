@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 21:32:54**
+As of **2024-02-03 21:51:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,587 (99.9%) of 4,590 articles have been extended.
+4,590 (100.0%) of 4,590 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,21 +50,25 @@ Khan is in prison in the garrison city of Rawalpindi, while his wife will serve 
 
 [Data](articles/46581735.json)
 
+[Extended Data](ext_articles/46581735.ext.json)
+
 ---
 
-### කෙහෙළිය රිමාන්ඩ්
+### Keheliya remanded
 
 *2024-02-03 20:37:09* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-රිමාන්ඩ්/11-407877) · `si`
 
-සී.අයි.ඩී අත්අඩංගුවට ගත් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙලිය රඹුක්වැල්ල ලබන 15 දින දක්වා රිමාන්ඩ් බාරයේ තබන්නැයි මාළිගාකන්ද අධිකරණයෙන් නියෝගය කළේය.
+The Maligakanda court ordered to remand back to the 15th of Sri Lanka Health Minister Keheliya Rambukwella to the 15th.
 
-ඉන්දියානු ණය යෝජනා ක්‍රමය යටතේ මෙරටට ඖෂධ ගෙන්වීමේ සිද්ධියක් සම්බන්ධයෙන් අධිකරණ නියොගයකට අනුව ඔහු ඊයේ දින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගනු ලැබීය.
+He was arrested by the CID yesterday (CID) yesterday.
 
-බාල ප්‍රතිදේහක ඖෂධ බෙදා හැරීවමෙන් රජයට කෝටි ගණනක අලාභයක් කිරීම  එරෙහිව ඔහු චෝදනා ලබා ඇත.
+He has been accused of distributing billions of crores to the government.
 
 ◼️
 
 [Data](articles/dd961ba1.json)
+
+[Extended Data](ext_articles/dd961ba1.ext.json)
 
 ---
 
@@ -938,21 +942,23 @@ The INS will leave the country on the 05th after completing an official trip to 
 
 ---
 
-### ඉන්දීය සබ්මැරිනයක් කොළඹට එයි
+### Indian submarine returns to Colombo
 
 *2024-02-03 13:41:21* · [`adalk`](https://www.ada.lk/picture_story/ඉන්දීය-සබ්මැරිනයක්-කොළඹට-එයි/10-407876) · `si`
 
-ඉන්දීය නාවික හමුදාවට අයත් ‘INS Karanj’ සබ්මැරීනය නිල සංචාරයක් සඳහා අද දින (2024 පෙබරවාරි 03) උදෑසන කොළඹ වරායට සේන්දු වූ අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම සබ්මැරීනය නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීමට කටයුතු කෙරිණි.
+In the morning of the Indian Navy, the Siriranj submarine arrived at the Port of Colombo today (February 2024).
 
-මෙලෙස කොළඹ වරායට සේන්දු වූ ‘INS Karanj’සබ්මැරීනය, දිගින් මීටර් 67.5 ක් හා නැව් මුළුව 53 ක ගෙන් සමන්විත වන අතර, එහි අණදෙන නිලධාරී ලෙස කොමාණ්ඩර් අරුනාබ් (Commander Arunabh) කටයුතු කරනු ලබයි.
+The inscription of the Colombo port is comprised of 67.5 meters and 53 meters and 53 meters and 53 meters and 53 meters.
 
-‘INS Karanj’සබ්මැරීනය දිවයිනේ රැඳී සිටින කාල සීමාව තුළ එහි මෙහෙයුම් ක්‍රියාකරීත්වය පිළිබඳව පැවැත්වෙන දැනුවත් කිරීමේ වැඩසටහනක් සඳහා ශ්‍රී ලංකා නාවික හමුදා පුද්ගලයන් සහභාගී වීමට නියමිතව ඇති අතර,  සබ්මැරීනයේ නැව් මුළුව දිවයිනේ වැදගත් ස්ථාන නැරඹීම සඳහා ප්‍රදේශ කිහිපයක සංචාරය කිරීමටද නියමිතව ඇත.
+The 'Ins Karanj' submarine is scheduled to attend a awareness program on its operational operation during the period of operational operation.
 
-තවද, මෙම නිල සංචාරය නිමා කරමින් 2024 පෙබරවාරි මස 05 වන දින ‘INS Karanj’ සබ්මැරීනය දිවයිනෙන් පිටත්ව යාමට නියමිතව ඇත.
+Further, on February 20, 2024, will be leaving the island on February 5, 2024 ending the official visit.
 
 ◼️
 
 [Data](articles/95decc90.json)
+
+[Extended Data](ext_articles/95decc90.ext.json)
 
 ---
 

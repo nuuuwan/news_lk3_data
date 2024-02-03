@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 13:33:18**
+As of **2024-02-03 13:51:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 630
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,532 (100.0%) of 4,533 articles have been extended.
+4,533 (100.0%) of 4,533 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -975,6 +975,8 @@ Jaffna offers little hope of recovery. People talk much of an intellectual reviv
 ...
 
 [Data](articles/e60abe6a.json)
+
+[Extended Data](ext_articles/e60abe6a.ext.json)
 
 ---
 

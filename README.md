@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 10:02:14**
+As of **2024-02-03 10:17:20**
 
 ## Newspaper Stats
 
-*Scraped **4,501** Articles*
+*Scraped **4,503** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 280
 adalk | 391
 virakesarilk | 502
 adaderanasinhalalk | 548
-adaderanalk | 558
+adaderanalk | 560
 tamilmirrorlk | 572
 dailymirrorlk | 625
 
@@ -26,27 +26,45 @@ dailymirrorlk | 625
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,498 (99.9%) of 4,501 articles have been extended.
+4,501 (100.0%) of 4,503 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
 
-### மக்களை துன்புறுத்துவதற்கான அதிகாரங்களை வழங்குகின்ற சட்டங்களை அரசாங்கம் விலக்கிக்கொள்ளவேண்டும் - முன்னாள் ஜனாதிபதி சந்திரிகா
+### Keheliya Rambukwella produced before court
+
+*2024-02-03 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96964/keheliya-rambukwella-produced-before-court) · `en`
+
+Former Health Minister Keheliya Rambukwella has been produced before the Maligakanda Magistrate’s Court this morning (Feb.03).
+
+He was taken into custody by the Criminal Investigation Department (CID) on Friday evening (Feb.02) in connection with his alleged complicity in the procurement of substandard human intravenous immunoglobulin (IVIG). He made an appearance before the CID on Friday morning, complying with a court order issued yesterday and was grilled for nearly 10 hours.
+
+The arrest came hot on the heels of mounting pressure from civil society activists and health sector trade unionists who have been calling for the immediate apprehension of the lawmaker.
+
+...
+
+[Data](articles/a76e6749.json)
+
+---
+
+### The government should withdraw the laws that give power to harass people - former President Chandrika
 
 *2024-02-03 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175425) · `ta`
 
-நிகழ்நிலை பாதுகாப்பு சட்டமும் பயங்கரவாத எதிர்ப்பு சட்டமூலமும் ,ஜனநாயக உரிமைகளை பயன்படுத்தி அரசாங்கத்தை விமர்சிக்கின்ற எதிர்ப்பு தெரிவிக்கின்ற மக்களை துன்புறுத்துவதற்கான அதிகாரங்களை இந்த சட்டமூலங்கள் அரசாங்கத்திற்கு வழங்குகின்றன என முன்னாள் ஜனாதிபதி சந்திரிகா குமாரதுங்க தெரிவித்துள்ளார்
+Former President Chandrika Kumaratunga has said that these bills give the government the powers to harass the people who criticize the government using democratic rights and the anti -terrorism bill and the anti -terrorism bill.
 
-இந்த சட்டமூலங்கள் குறித்து விவாதிக்கப்பட்டுள்ளதால்  கலந்துரையாடப்பட்டுள்ளதால் போராட்டங்கள் வீதிகளில் இடம்பெற்றுள்ளதால் இந்த சட்டங்கள் குறித்து நான் தெளிவுபடுத்தப்போவதில்லை .
+I am not going to clarify these laws as the protests have taken place on the streets as these bills have been discussed and discussed.
 
-ஒரு சிரேஸ்ட பிரஜை என்ற அடிப்படையில் எனது கருத்து என்னவென்றால் இரண்டும் மிகவும் பாரதூரமானவை ஆபத்தானவை.
+My opinion on the basis of a senior citizen is that both are very serious.
 
-இந்த சட்டங்கள் ஜனநாயக வழியில் செயற்படும் மக்களை துன்புறுத்துவதற்கான தேவைக்கு அதிகமான அதிகாரங்களை அரசாங்கத்திற்கு வழங்குகின்றன,ஜனநாயக உரிமைகளை பயன்படுத்தி அரசாங்கத்தை விமர்சிக்கின்ற எதிர்ப்பு தெரிவிக்கின்ற மக்களை துன்புறுத்துவதற்கான அதிகாரங்களை இந்த சட்டமூலங்கள் அரசாங்கத்திற்கு வழங்குகின்றன.
+These laws give the government more powers to harass the people who are working on a democratic way, and these bills give the government the powers to harass the people who criticize the government by using democratic rights.
 
 ◼️
 
 [Data](articles/45106870.json)
+
+[Extended Data](ext_articles/45106870.ext.json)
 
 ---
 
@@ -66,19 +84,43 @@ The CID has recorded statements from the former Minister of Controversial Human 
 
 ---
 
-### இலஞ்ச குற்றச்சாட்டில் இரு பொலிஸ் உத்தியோகத்தர்கள் கைது!
+### Two police officers arrested for bribery
 
 *2024-02-03 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/175424) · `ta`
 
-மாத்தளை மஹாவெல பொலிஸ் நிலையத்தின் போக்குவரத்துப் பிரிவில் கடமையாற்றும் பொலிஸ் சார்ஜன்ட்கள் இருவர்,  ஒருவரிடம் 10,000 ரூபாவை இலஞ்சமாகப் பெற்ற குற்றச்சாட்டில் இலஞ்ச ஒழிப்பு திணைக்கள அதிகாரிகளினால் கைது செய்யப்பட்டுள்ளனர்.
+Two police sergeants on duty at the Mahawella Police Station Matale have been arrested by the Department of Bribery on a bribery charges for a bribe of 10,000 rupees.
 
-மாத்தளை மஹாவெல பிரதேசத்தில் வசிக்கும் ஒருவருக்கு போக்குவரத்து குற்றத்துக்கான  அபராதத் தொகையை குறைப்பதற்காக சம்பந்தப்பட்ட நபரிடமிருந்து இலஞ்சம் கோரிய நிலையிலேயே இவர்கள் கைது செய்யப்பட்டனர்.
+They were arrested for allegedly bribing a person in Mahawella area in Matale in Mahawela.
 
-வருமான அனுமதிப்பத்திரம் மற்றும் காப்புறுதி சான்றிதழ் இன்றி வாகனம் செலுத்திய நபருக்கு குறைந்த தொகையில் அபராதப்பத்திரம் வழங்குவதற்காக இந்த இரண்டு பொலிஸ் சார்ஜன்ட்களும் தன்னிடம் 10,000 ரூபா இலஞ்சம் கேட்டதாக குறித்த நபர் இலஞ்ச ஒழிப்பு திணைக்களத்தில் செய்த முறைப்பாட்டின் பிரகாரம் இரண்டு பொலிஸ் உத்தியோகத்தர்களும் கைது செய்யப்பட்டுள்ளனர்.
+Two police officers have been arrested in accordance with the Bribery Department's complaint that the two police sergeants and the bribery of Rs 10,000 have been asked for a minimum penalty of a person who has been driving without an income license and insurance certificate.
 
 ◼️
 
 [Data](articles/e56178df.json)
+
+[Extended Data](ext_articles/e56178df.ext.json)
+
+---
+
+### STF arrests man with cache of controlled drugs worth Rs. 100mn
+
+*2024-02-03 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96963/stf-arrests-man-with-cache-of-controlled-drugs-worth-rs-100mn) · `en`
+
+The Police Special Task Force (STF) has arrested a man who was in possession of a large cache of controlled drugs without a valid licence.
+
+The arrest was made on Friday (Feb.02) in Enderamulla, Wattala, as part of the ongoing ‘Yukthiya’ island-wide operation to crack down on drug distribution and criminal offences.
+
+According to the STF, the 40-year-old was taken into custody with 192,000 capsules of 150mg Pregabalin worth approximately Rs. 100 million.
+
+The suspect, who hails from Badulla, has been handed over to the Enderamulla Police for onward investigations.
+
+Meanwhile, under the ongoing ‘Yukthiya’ operation, the police and security forces personnel have arrested another 770 suspects within the 24-hour window that ended at 12.30 a.m. today (Feb.03).
+
+Among the arrestees are 567 suspects who were taken into custody on narcotics-related charges and 203 others who were on the list of wanted criminal suspects.
+
+...
+
+[Data](articles/ec47c066.json)
 
 ---
 
@@ -126,17 +168,19 @@ Also, among the 203 suspects arrested on the list of the list of the criminal se
 
 ---
 
-### 100 மில்லியன் ரூபா பெறுமதியான போதை மாத்திரைகளுடன் வத்தளையில் ஒருவர் கைது
+### One person arrested in Wettala with drug pills worth Rs 100 million
 
 *2024-02-03 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175423) · `ta`
 
-வத்தளை - ஏந்தேரமுல்லை பகுதியில் போதை மாத்திரைகளுடன் நபரொருவர் விசேட அதிரடிப்படையினரால் கைதுசெய்யப்பட்டுள்ளார்.
+A person has been arrested by Special Task Force with drug pills in the Wattala - Aentaramulla area.
 
-இவ்வாறு கைப்பற்றப்பட்ட போதை மாத்திரைகளின் பெறுமதி 100 மில்லியன் ரூபாவென விசேட அதிரடிப்படையினர் தெரிவித்தனர்.
+Special Task Force said the value of the seized pills was 100 million rupees.
 
 ◼️
 
 [Data](articles/a460f843.json)
+
+[Extended Data](ext_articles/a460f843.ext.json)
 
 ---
 
@@ -1923,45 +1967,5 @@ The program will be launched to improve the nutrition of schoolchildren, includi
 [Data](articles/7d77aa09.json)
 
 [Extended Data](ext_articles/7d77aa09.ext.json)
-
----
-
-### Sri Lanka Urged to Revise Laws Over Human Rights Concerns
-
-*2024-02-02 17:04:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/sri-lanka-urged-to-revise-laws-over-human-rights-concerns/) · `en`
-
-COLOMBO (News 1st); Forum Asia has voiced strong concerns about the recent passage of two controversial bills in Sri Lanka: the revised Anti-Terrorism Bill and the Online Safety Bill.
-
-Forum Asia, or The Asian Forum for Human Rights and Development is a network of 85 member organisations across 23 countries, mainly in Asia.
-
-The Anti-Terrorism Bill and the Online Safety Bill, viewed by many as detrimental to human rights and freedoms, have drawn criticism from civil society organizations and rights groups across the country.
-
-According to Forum Asia, the revised Anti-Terrorism Bill, set to replace the draconian Prevention of Terrorism Act (PTA), closely mirrors its predecessor, sparking concerns about its expansive definition of terrorism, limited judicial oversight, and constraints on the Human Rights Commission.
-
-...
-
-[Data](articles/c38b80f2.json)
-
-[Extended Data](ext_articles/c38b80f2.ext.json)
-
----
-
-### Ahead of election, Pakistan seals plan to sell national airline
-
-*2024-02-02 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96954/ahead-of-election-pakistan-seals-plan-to-sell-national-airline) · `en`
-
-Ahead of elections next week, Pakistan’s caretaker administration is making binding plans for a new government to sell loss-making Pakistan International Airlines, according to the minister in charge of the process and other officials.
-
-In the past, elected governments have shied away from undertaking unpopular reforms, including the sale of the flag carrier. But Pakistan, in deep economic crisis, agreed in June to overhaul loss-making state-owned enterprises under a deal with the International Monetary Fund (IMF) for a $3 billion bailout.
-
-The government decided to privatise PIA just weeks after signing the IMF agreement.
-
-The caretaker administration, which took office in August to oversee the Feb. 8 election, was empowered by the outgoing parliament to take any steps needed to meet the budgetary targets agreed with the IMF.
-
-...
-
-[Data](articles/71df9a31.json)
-
-[Extended Data](ext_articles/71df9a31.ext.json)
 
 ---

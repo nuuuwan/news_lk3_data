@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 17:33:55**
+As of **2024-02-03 17:52:49**
 
 ## Newspaper Stats
 
-*Scraped **4,564** Articles*
+*Scraped **4,574** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,177 @@ economynextcom | 253
 dailyftlk | 280
 newsfirstlk | 281
 adalk | 393
-virakesarilk | 514
-adaderanasinhalalk | 562
+virakesarilk | 516
+adaderanasinhalalk | 564
 adaderanalk | 570
 tamilmirrorlk | 577
-dailymirrorlk | 635
+dailymirrorlk | 641
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,564 (100.0%) of 4,564 articles have been extended.
+4,574 (100.0%) of 4,574 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### Two policemen arrested for bribery charge
+
+*2024-02-03 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192931) · `si`
+
+Two police sergeants have been arrested by the Commission to Investigation Commission on charges of accepting Rs. 10,000.
+
+The Bribery Police said that the two suspects were arrested during a raid conducted by a person from Yatawatta, Matale.
+
+It is reported that the bribe of Rs.
+
+However, the Bribery Commission said that the two police sergeants were arrested at the time of reducing Rs.
+
+◼️
+
+[Data](articles/b87e5eff.json)
+
+[Extended Data](ext_articles/b87e5eff.ext.json)
+
+---
+
+### Allow Shantan to come to Sri Lanka;Pa. Members Sreedharan, Manohanesan jointly request;The president is sure to consider favorably
+
+*2024-02-03 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175478) · `ta`
+
+Members of Parliament Sivagnanam Sreedharan and Tamil Progressive Alliance leader Mano Ganesan met President Ranil Wickremesinghe on Saturday afternoon to allow Shantan to come to Sri Lanka in the Rajiv Gandhi assassination case.
+
+The President has promised that Shantan will come to Sri Lanka and meet his elderly mother.
+
+During the meeting, the President has issued a directive to the President's Advisor for National Security Sagala Ratnayaka to take the next step in this regard.
+
+It is noteworthy that President Sreedharan has requested MP to provide Santhan's mother's request and further information.
+
+◼️
+
+[Data](articles/ed45d112.json)
+
+[Extended Data](ext_articles/ed45d112.ext.json)
+
+---
+
+### Withdraw Online Safety Act: Chandrika urges government
+
+*2024-02-03 17:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Withdraw-Online-Safety-Act-Chandrika-urges-government/108-276284) · `en`
+
+Colombo, Feb. 03 (Daily Mirror)- Former President Chandrika Bandaranaike Kumaratunge urged the government to withdraw the Online Safety Act and the Anti-Terrorism Bill, claiming that they were dangerous acts which could be used by the government at any time to violate people's fundamental rights.
+
+Making a special statement on social media, she said the youth and the people must act democratically against these laws.
+
+...
+
+[Data](articles/fb9eb5d6.json)
+
+[Extended Data](ext_articles/fb9eb5d6.ext.json)
+
+---
+
+### Suspect arrested at railway station in France
+
+*2024-02-03 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175483) · `ta`
+
+A knife attack at the Cardillon Railway Station has suffered a serious injury in the stomach.
+
+It is reported that a person who was found with a knife and hammer was attacked by the public.
+
+Police said that he was arrested by the railway security officer.
+
+The incident did not appear to be a terrorist attack, police said.
+
+France's Home Minister has praised the suspects who have said that this is an unbearable incident.
+
+It is noteworthy that a series of knives in France take place. A German tourist was killed in an attack near the Eiffel Tower in December.
+
+◼️
+
+[Data](articles/27a0995b.json)
+
+[Extended Data](ext_articles/27a0995b.ext.json)
+
+---
+
+### Police gifts of police officers
+
+*2024-02-03 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192930) · `si`
+
+Police have taken steps to provide school equipments for the children and civil staff of the police officers and civil staff invested in the year 2024.
+
+4,547 police officers in various types of injuries island wide and Rs.
+
+The police headquarters stated that acting IGP Deshabandu Tennakoon has approved it.
+
+Solis hotel in Nugegoda and two civil staff officers were handed over to 66 police officers in Nugenai, Nugegoda and 66 children of civil staff.
+
+◼️
+
+[Data](articles/dcd3c412.json)
+
+[Extended Data](ext_articles/dcd3c412.ext.json)
+
+---
+
+### Keheliya remanded
+
+*2024-02-03 16:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Keheliya-remanded/110-276287) · `en`
+
+Former Health Minister Keheliya Rambukwella who was arrested by the Criminal Investigation Department (CID) yesterday over the importation of substandard Immunoglobulin injections, has been remanded until February 15. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/5bfa4b5b.json)
+
+[Extended Data](ext_articles/5bfa4b5b.ext.json)
+
+---
+
+### FTA signed between Thailand and Sri Lanka
+
+*2024-02-03 16:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/FTA-signed-between-Thailand-and-Sri-Lanka/108-276286) · `en`
+
+Colombo, Feb. 03 (Daily Mirror)- A Free Trade Agreement (FTA) was signed between Thailand and Sri Lanka at the Presidential secretariat a short while ago,President's Media Division (PMD) said.
+
+The FTA is aimed at enhancing market opportunities, with negotiations covering various aspects such as Trade in Goods, Investment, Customs Procedure and Intellectual Property Rights, the PMD said.
+
+Meanwhile, Sri Lanka and Thailand signed a new Bilateral Air Services Agreement, providing for liberalized air services between the two countries.
+
+The Gem and Jewellery Research and Training Institute (GJRTI) of Sri Lanka and the Gem and Jewellery Institute of Thailand (GIT) solidified their commitment to enhance bilateral cooperation and signed a Memorandum of Understanding, the PMD said.
+
+◼️
+
+[Data](articles/43cc53b3.json)
+
+[Extended Data](ext_articles/43cc53b3.ext.json)
+
+---
+
+### President Ranil welcomes a group of people including Thailand Prime Minister
+
+*2024-02-03 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175469) · `ta`
+
+President Ranil Wickremesinghe was formally welcomed at the Presidential Secretariat at the Presidential Secretariat.
+
+Thailand's Prime Minister Shreta Davis arrived in Sri Lanka on Saturday afternoon.
+
+He has visited the country on the invitation of President Ranil Wickremesinghe and is the chief guest at the 76th Independence Day celebration of Sri Lanka.
+
+Prime Minister Dinesh Gunawardena made a special welcome at the Bandaranaike International Airport as the Prime Minister of Thailand Shretha Thavisin has visited the high -level delegation including Deputy Prime Minister Bhumdam Vechayachai.
+
+Meanwhile, the Prime Minister of Thailand will also participate in the signing of the Sri Lanka -Thailand Free Trade Agreement.
+
+◼️
+
+[Data](articles/8ad147fa.json)
+
+[Extended Data](ext_articles/8ad147fa.ext.json)
+
+---
 
 ### 12 -year -old student dies in a vehicle accident
 
@@ -134,28 +290,6 @@ Negotiations for the free trade agreement between Sri Lanka and Thailand resumed
 
 ---
 
-### President Ranil welcomes a group of people including Thailand Prime Minister
-
-*2024-02-03 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/175469) · `ta`
-
-President Ranil Wickremesinghe was formally welcomed at the Presidential Secretariat at the Presidential Secretariat.
-
-Thailand's Prime Minister Shreta Davis arrived in Sri Lanka on Saturday afternoon.
-
-He has visited the country on the invitation of President Ranil Wickremesinghe and is the chief guest at the 76th Independence Day celebration of Sri Lanka.
-
-Prime Minister Dinesh Gunawardena made a special welcome at the Bandaranaike International Airport as the Prime Minister of Thailand Shretha Thavisin has visited the high -level delegation including Deputy Prime Minister Bhumdam Vechayachai.
-
-Meanwhile, the Prime Minister of Thailand will also participate in the signing of the Sri Lanka -Thailand Free Trade Agreement.
-
-◼️
-
-[Data](articles/8ad147fa.json)
-
-[Extended Data](ext_articles/8ad147fa.ext.json)
-
----
-
 ### Century from Mathews
 
 *2024-02-03 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192927) · `si`
@@ -228,6 +362,20 @@ Prime Minister Smetha Tendas and President Ranil Wickremesinghe met at the Presi
 
 ---
 
+### Thai PM in Sri Lanka
+
+*2024-02-03 15:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Thai-PM-in-Sri-Lanka/110-276282) · `en`
+
+Prime Minister of Thailand Srettha Thavisin arrived in the island this afternoon, accompanied by a delegation. He is to participate in Sri Lanka's 76th Independence Day ceremony tomorrow (04) as the guest of honour. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/afd4491d.json)
+
+[Extended Data](ext_articles/afd4491d.ext.json)
+
+---
+
 ### Ayurvedic Drugs Corporation’s profits hit record high of Rs. 195mn in 2023 - State Minister
 
 *2024-02-03 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/96972/ayurvedic-drugs-corporations-profits-hit-record-high-of-rs-195mn-in-2023-state-minister) · `en`
@@ -265,6 +413,22 @@ Prime Minister Dinesh Gunawardena made a special welcome at the Bandaranaike Int
 [Data](articles/965e13d9.json)
 
 [Extended Data](ext_articles/965e13d9.ext.json)
+
+---
+
+### Over 700 prisoners to be released on Independence Day: Prisons spokesman
+
+*2024-02-03 15:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-700-prisoners-to-be-released-on-Independence-Day-Prisons-spokesman/108-276285) · `en`
+
+Colombo, Feb. 03 (Daily Mirror)- A total of 754 prisoners including 25 female inmates will be released from prisons island-wide tomorrow on Presidential amnesty to mark the 76th Independence Day, Prisons Commissioner and Prisons Spokesman Gamini B. Dissanayake said.
+
+He said the prisoners will be released according to the powers vested with the President under Article 34 of the Constitution and in view of the Independence Day.
+
+◼️
+
+[Data](articles/de6ed81c.json)
+
+[Extended Data](ext_articles/de6ed81c.ext.json)
 
 ---
 
@@ -321,6 +485,22 @@ The former health minister was ordered to be remanded by the Maligakanda Magistr
 [Data](articles/d193b690.json)
 
 [Extended Data](ext_articles/d193b690.ext.json)
+
+---
+
+### Keheliya Rambukwella remanded until February 15
+
+*2024-02-03 15:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Keheliya-Rambukwella-remanded-until-February-15/155-276281) · `en`
+
+Colombo, Feb 03 (Daily Mirror) -Former Health Minister Keheliya Rambukwella who was arrested by the Criminal Investigation Department (CID) yesterday over the importation of substandard Immunoglobulin injections, has been remanded until February 15.
+
+The former health minister was ordered to be remanded by the Maligakanda Magistrate.
+
+◼️
+
+[Data](articles/f2a3b702.json)
+
+[Extended Data](ext_articles/f2a3b702.ext.json)
 
 ---
 
@@ -1825,187 +2005,5 @@ In this case, the Vijay People's Movement has announced that it will begin a pol
 [Data](articles/9d23f724.json)
 
 [Extended Data](ext_articles/9d23f724.ext.json)
-
----
-
-### Arrested with 15 kg of cannabis
-
-*2024-02-03 02:53:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-கிலோ-கஞ்சாவுடன்-ஒருவர்-கைது/175-332578) · `ta`
-
-Jaffna during a special round of work carried out in Jaffna. One person has been arrested with 15 kg of cannabis by the District Crime Prevention Police Division
-
-◼️
-
-[Data](articles/23f194ff.json)
-
-[Extended Data](ext_articles/23f194ff.ext.json)
-
----
-
-### Special attention to improve children's nutrition
-
-*2024-02-03 02:44:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்களின்-போஷாக்கை-மேம்படுத்த-விசேட-கவனம்/175-332577) · `ta`
-
-Sagala Ratnayake, a senior adviser to the National Security and Presidential Association, said that the President has focused special attention to the poverty of the people and the president's work is being carried out under the President's Workshop.
-
-He was speaking at a function to provide nutritional rice for lunch work at the Rama Hotel in Colombo.
-
-Various programs have been implemented from time to time to alleviate poverty in our country and improve the nutritional status of the people. The Samurdhi Program was a major place and it was further expanded through the Ashewasuma project launched by the current government.. (A)
-
-◼️
-
-[Data](articles/c333370e.json)
-
-[Extended Data](ext_articles/c333370e.ext.json)
-
----
-
-### Appreciate the commander of the parachute adventure
-
-*2024-02-03 02:38:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரசூட்-சாகசம்-செய்த-தளபதிக்கு-பாராட்டு/175-332576) · `ta`
-
-Lieutenant General Lieutenant General Vikki Liyanage was honored at the presidential office yesterday to showcase his talent as a military parasite soldier.
-
-The Army Commander Parasood adventure on the 22nd of last month at the Kudaoya Commando Region Training School to renew the history of the Parasood adventure of the Sri Lankan army.
-
-Lieutenant General Vikku Liyanage's efforts and dedication were applauded for the army commander, which was the role of the military leadership.
-
-The honor was granted by the President's Advisor on National Security and the President of the Presidential Committee, Sagala Ratnayake.. (A)
-
-◼️
-
-[Data](articles/01e7d094.json)
-
-[Extended Data](ext_articles/01e7d094.ext.json)
-
----
-
-### Completed work
-
-*2024-02-03 02:32:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணிப்பகிஷ்கரிப்பு-நிறைவு/175-332575) · `ta`
-
-It is decided to complete the trade union action carried out by 72 health unions at 6.30 am today.
-
-The trade unions have warned that union action will be carried out again from Wednesday if they are not provided with solutions.
-
-◼️
-
-[Data](articles/8b1ab7eb.json)
-
-[Extended Data](ext_articles/8b1ab7eb.ext.json)
-
----
-
-### Complete the Investigation of the Anti -Terrorism Bill
-
-*2024-02-03 02:18:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-எதிர்ப்பு-சட்டமூல-விசாரணைகள்-நிறைவு/175-332574) · `ta`
-
-The investigation into the petitions filed against the anti -terrorist bill filed in Parliament was completed yesterday.
-
-At the conclusion of the hearing of the judges, the panel of judges will take steps to send the Supreme Court's decision to the Speaker.
-
-Chief Justice Jayantha Jayasuriya, Vijith Malkoda, AHMT. The six -day hearing was held in the presence of a panel of judges comprising Nawaz, Shiran Gunaratne and Arjuna Abeysekara.
-
-31 petitions have been filed in the Supreme Court demanding that some of the anti -terror laws be ruled out of the constitution.(a)
-
-◼️
-
-[Data](articles/673beaf5.json)
-
-[Extended Data](ext_articles/673beaf5.ext.json)
-
----
-
-### Lawyers group criticises Tiran Alles for personalising anti-drug initiative
-
-*2024-02-03 01:50:32* · [`dailyftlk`](https://www.ft.lk/news/Lawyers-group-criticises-Tiran-Alles-for-personalising-anti-drug-initiative/56-758110) · `en`
-
-The Lawyers Collective, a recently formed civil society group in a letter to Justice Minister Wijeyadasa Rajapakshe, yesterday expressed grave concerns in the manner the Public Security Minister is exercising his powers in relation to the ‘Yukthiya’ Anti-Drug Campaign.
-
-The organisation said the campaign must conform to the Rule of Law and cannot be a passionate, personal, initiative that the Minister seeks to implement outside the law.
-
-“The manner in which you are conducting this campaign and making public statements on the media indicates that you will consider any laws that you think restrict your authority as obstacles that you have every right to disregard and that all who comment or criticise the manner in which the campaign is conducted are drug dealers and drug addicts,” it noted.
-
-The organisation said the Minister has repeatedly referred to lawyers in this manner, despite a statement from the Bar Association of Sri Lanka objecting to this attack on the legal profession.
-
-...
-
-[Data](articles/4e07c334.json)
-
-[Extended Data](ext_articles/4e07c334.ext.json)
-
----
-
-### Cabinet approves enhanced benefits  under Aswesuma welfare program
-
-*2024-02-03 01:49:16* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-enhanced-benefits-under-Aswesuma-welfare-program/56-758109) · `en`
-
-The Cabinet of Ministers has approved the implementation of the Aswesuma Scheme, with significant revisions aimed at extending support to vulnerable social groups.
-
-The scheme, which has already been in effect, will undergo key changes to enhance its impact on those facing economic challenges.
-
-The approved revisions include the number of eligible families set to increase to 2.4 million, reflecting an inclusion of additional eligible families. It also includes initiating the call for applications for the second round within the first quarter of 2024 and finalising it by June 2024, the revised scheme aims to make payments starting from July.
-
-...
-
-[Data](articles/e5c1ad7d.json)
-
-[Extended Data](ext_articles/e5c1ad7d.ext.json)
-
----
-
-### ‘Urumaya’ to issue permanent land ownership for 2 m people
-
-*2024-02-03 01:48:26* · [`dailyftlk`](https://www.ft.lk/news/Urumaya-to-issue-permanent-land-ownership-for-2-m-people/56-758108) · `en`
-
-Lands Minister Harin Fernando says distribution of freehold deeds to 10,000 will begin on 5 Feb.
-
-Underscores new initiative to empower 1 m young minds, transform them into architects of their own destinies
-
-In a major step towards resolving land ownership issues for over two million Sri Lankans, the “Urumaya” program will be officially launched on 5 February in Dambulla, Tourism, Lands and Sports and Youth Affairs Minister Harin Fernando announced.
-
-Speaking to journalists at a briefing held at President Media Centre on Wednesday, he said the program aims to provide permanent land ownership solutions, noting that over 10,000 land licensees currently holding Ran Bhoomi, Jaya Bhoomi, and Swarna Bhoomi licenses will be among the first beneficiaries of this program.
-
-...
-
-[Data](articles/18583633.json)
-
-[Extended Data](ext_articles/18583633.ext.json)
-
----
-
-### Foreign Minister Sabry meets Belgium entrepreneurs connected to Sri Lanka
-
-*2024-02-03 00:14:15* · [`dailyftlk`](https://www.ft.lk/business/Foreign-Minister-Sabry-meets-Belgium-entrepreneurs-connectedto-Sri-Lanka/34-758097) · `en`
-
-On the sidelines of the third EU Indo-Pacific Ministerial Forum in Belgium, Foreign Minister Ali Sabry met with Belgium entrepreneurs connected to Sri Lanka at the ‘Brussels Enterprises Commerce and Industry’ (BECI) on 31 January.
-
-With a view to encourage more trade, investments and tourism, the Foreign Minister shared insights on Sri Lanka’s economic rebound, reforms and the efforts of Economic and Social transformation for a sustainable growth of the country at this interactive session, co-organised by Sri Lanka Embassy in Brussels, ‘Brussels Enterprises Commerce and Industry’ (BECI) and Sri Lanka Honorary Consul in Antwerp Monique De Decker.
-
-Sri Lanka’s Ambassador-designate to Belgium and European Union Chandana Weerasena conveyed that the Sri Lanka Embassy in Brussels will focus on connecting with private sectors of both countries to reach the maximum potential of economic opportunities.
-
-...
-
-[Data](articles/ef72af3c.json)
-
-[Extended Data](ext_articles/ef72af3c.ext.json)
-
----
-
-### Seylan Bank launches Solar Loan Facility
-
-*2024-02-03 00:13:24* · [`dailyftlk`](https://www.ft.lk/business/Seylan-Bank-launches-Solar-Loan-Facility/34-758096) · `en`
-
-Seylan Bank has introduced a solution to address the challenge of rising electricity bills.
-
-In response to the pressing need for sustainable and cost-effective energy solutions, Seylan Bank’s Solar Loan Facility will help its customers achieve financial independence and make sustainable choices for their energy needs.
-
-The Solar Loan Facility is designed with the rising electricity costs in mind, ensuring that people no longer need to compromise on the comforts of their home or allocate a significant portion of their earnings towards their monthly electricity bills. Instead, Seylan Bank offers the opportunity to pay a fixed instalment over a period of time, ultimately leading to a lifetime of free electricity as power generation via the unit will be considered as income to offset the electricity bill.
-
-...
-
-[Data](articles/b7a82679.json)
-
-[Extended Data](ext_articles/b7a82679.ext.json)
 
 ---

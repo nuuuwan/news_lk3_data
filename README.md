@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 21:51:41**
+As of **2024-02-03 22:02:53**
 
 ## Newspaper Stats
 
-*Scraped **4,590** Articles*
+*Scraped **4,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 281
 adalk | 395
 virakesarilk | 517
-adaderanasinhalalk | 568
+adaderanasinhalalk | 571
 adaderanalk | 576
 tamilmirrorlk | 579
 dailymirrorlk | 642
@@ -26,11 +26,51 @@ dailymirrorlk | 642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,590 (100.0%) of 4,590 articles have been extended.
+4,590 (99.9%) of 4,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### ශ්‍රී ලංකා - තායිලන්ත නිදහස් වෙළෙඳ ගිවිසුම ගැන ව්‍යාපාරිකයින් දැනුවත් කරයි
+
+*2024-02-03 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192939) · `si`
+
+ශ්‍රී ලංකා - තායිලන්ත ආර්ථික සබඳතාව යළි පණ ගැන්වීමට එක්වන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා දෙරටේ ආයෝජකයන්ගෙන් ඉල්ලා සිටී.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කළේ අද (03) පස්වරුවේ කොළඹදී පැවැති ශ්‍රී ලංකා - තායිලන්ත ව්‍යාපාරික හමුව අමතමිනි.
+
+මෙම අවස්ථාවට තායිලන්ත අගමැති ප්‍රමුඛ එරට දූත පිරිස ද එක්විය.
+
+ආහාර, ආහාර හා සැකසුම්, සෞඛ්‍ය, බලශක්ති, ආගන්තුක සත්කාර, සංචාරක, ධීවර, කෘෂිකර්මික සහ නිෂ්පාදන ක්ෂේත්‍ර නියෝජනය කරමින් තායිලන්තයේ ඉහළ පෙළේ සමාගම් රැසක ව්‍යාපාරිකයින් සහ ආයෝජකයින් මේ සඳහා එක්විය.
+
+ජනාධිපතිවරයා මෙහිදී සඳහන් කළේ ආසියාන් රටක් සමග එළැඹි දෙවන නිදහස් වෙළෙඳ ගිවිසුම ලෙස ශ්‍රී ලංකාව සහ තායිලන්තය අතර නිදහස් වෙළෙඳ ගිවිසුමට (FTA) අත්සන් තැබූ බවය.
+
+රටවල් දෙකෙහිම ව්‍යාපාරිකයින්ගෙන් ජනාධිපතිවරයා ඉල්ලා සිටියේ උදාවී ඇති අවස්ථාවන්ගෙන් ප්‍රයෝජන ගනිමින් ප්‍රතලාභ අත්කර ගැනීමට සහයෝගීව කටයුතු කරන ලෙසය.
+
+...
+
+[Data](articles/9a04329d.json)
+
+---
+
+### කථානායක ගැන අපිට විශ්වාසයක් නැහැ - සජිත්
+
+*2024-02-03 21:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192938) · `si`
+
+මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත ගෙන ඒමේදී ශ්‍රේෂ්ඨාධිකරණය ලබාදුන් නිර්දේශ 09ක් නොසලකා හරිමින් කථානායකවරයා ක්‍රියාකර ඇති බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+ඒ හේතුවෙන් ඔහු පිළිබඳව විශ්වාසභංගයකට යාමට ඉදිරියේදී සිදුවිය හැකි බව විපක්ෂ නායකවරයා සඳහන් කරයි.
+
+එමෙන්ම සමගි ජන බලවේගය පක්ෂයේ සිටිමින් පක්ෂය විවේචනය කරන සාමාජිකයින්ට තරාතිරම නොබලා විනය පරීක්ෂණ පවත්වන බවටද මෙහිදී විපක්ෂ නායකවරයා අනතුරු අඟවා සිටියේය..
+
+"කථානායක අනීතිකව මාර්ගගත පනතට අනුමැතිය දුන්නා. මේ ගැන අපි විශ්ලේෂණයක් කළා .අවස්ථා 9කදී ශ්‍රේෂ්ඨාධිකරණ නිර්දේශ අමතක කරලා. කථානායක ගැන අපිට විශ්වාසයක් නැහැ. කථානායක ගැන විශ්වාසයක් තියෙනවාද? නැද්ද ? ඒ ගැන ඉදිරියේදී පාර්ලිමේන්තුවේදී සලකා බලන්න වෙයි."
+
+◼️
+
+[Data](articles/3ac85d66.json)
+
+---
 
 ### Pakistan ex-PM Imran Khan and wife jailed for 7 years for unlawful marriage
 
@@ -51,6 +91,20 @@ Khan is in prison in the garrison city of Rawalpindi, while his wife will serve 
 [Data](articles/46581735.json)
 
 [Extended Data](ext_articles/46581735.ext.json)
+
+---
+
+### ඉම්රාන් ඛාන් සහ බිරිඳට තවත් සිර දඬුවමක්
+
+*2024-02-03 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192937) · `si`
+
+පාකිස්තානයේ හිටපු අගමැති ඉම්රාන් ඛාන්ට සහ ඔහුගේ බිරිඳට දැනට පනවා ඇති සිර දඩුවම්වලට අමතරව තවත් සිරදඬුවමක් නියම කර තිබේ.
+
+එම වරද වෙනුවෙන් ඔවුන්ට තවත් වසර 7ක සිරදඬුවමක් අධිකරණයෙන් නියම කර තිබේ.
+
+◼️
+
+[Data](articles/816e07ad.json)
 
 ---
 
@@ -1943,63 +1997,5 @@ The collective said it would have been best if the campaign had been commenced w
 [Data](articles/d87fa776.json)
 
 [Extended Data](ext_articles/d87fa776.ext.json)
-
----
-
-### Sri Lanka a chance to bangled in Bangladesh to be bangled, Mathews for a Test, ODI and Twenty20 tournament
-
-*2024-02-03 08:08:08* · [`adalk`](https://www.ada.lk/sports/ටෙස්ට්--එක්දින-හා-විස්සයි20-තරගාවලියකට-ලංකාව-බංග්ලදේශයට--මැතිව්ස්ට-වාඩුව-ගැනීමට-අවස්ථාවක්/9-407874) · `si`
-
-Sri Lanka will visit Bangled next month to join two matches in Test World Championships next month to joining three matches with three matches.
-
-Sri Lanka will closely close to Dhaka on March 1 to join the tournament. First, the Twenty20 matches will be held at Senerat on March 4, 6 and 9.
-
-Thereafter, the ODI will be held on the 13th and 15th and onions in Chittagong on the 15th and 18th. The first two matches will be held day and nights and the third match will be a day.
-
-Then the two Tests will be held. The first Test match will begin on March 22 and the second match will commence on March 30 in Chithagong.
-
-◼️
-
-[Data](articles/034e635e.json)
-
-[Extended Data](ext_articles/034e635e.ext.json)
-
----
-
-### Youth dies in a power cord of a durian tree
-
-*2024-02-03 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192910) · `si`
-
-A dead body of a dead man was found in a private land in the West palappitiya.
-
-According to an investigation made by Eheliyagoda police, the deceased has been identified as a 27-year-old resident of the Parakaduwa area.
-
-The deceased has fallen into a tree near the land with one foot burn injury.
-
-The owner of the land was to protect the durian and the police had detected the death of the individual.
-
-A 51-year-old man has been arrested by the police, who was the owner of the land.
-
-◼️
-
-[Data](articles/742a216c.json)
-
-[Extended Data](ext_articles/742a216c.ext.json)
-
----
-
-### Like the brothers and the brothers
-
-*2024-02-03 07:44:01* · [`adalk`](https://www.ada.lk/sports/මල්ලිලත්-අයියලා-වගේමයි/9-407873) · `si`
-
-The Sri Lankan team was thrown out of the World Cup after 119 runs in the 19th World Cup match. South Africa qualified for the semi-round.
-
-South Africa first scored 232 runs while in the reply, Sri Lanka were able to score only 113 runs.
-
-◼️
-
-[Data](articles/bd305780.json)
-
-[Extended Data](ext_articles/bd305780.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 23:17:22**
+As of **2024-02-03 23:33:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 643
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,600 (100.0%) of 4,602 articles have been extended.
+4,602 (100.0%) of 4,602 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -87,6 +87,8 @@ The exclusive event brought together eminent dignitaries and esteemed guests for
 ...
 
 [Data](articles/a755440d.json)
+
+[Extended Data](ext_articles/a755440d.ext.json)
 
 ---
 
@@ -172,17 +174,19 @@ President Wickremesinghe emphasized the historic trade relationship between the 
 
 ---
 
-### අපිට ඉන්න එකම අප්‍රිකානු ඇතා දැක ගන්න අවස්ථාව
+### Opportunity to see the only African
 
 *2024-02-03 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192940) · `si`
 
-ශ්‍රී ලංකාවේ මේ වනවිට ඉතිරිව ඇති එකම ''අප්‍රිකානු ඇතා'' නැරඹීමට ඉදිරියේදී දෙස් විදෙස් සංචාරකයින්ට අවස්ථාව සලසා දෙන බව හම්බන්තොට රිදියගම සෆාරි උද්‍යානය නිවේදනය කරයි.
+The Ridiyagama Safari Park is announced that the only foreign tourists will be given in the future to visit Sri Lanka.
 
-එම අප්‍රිකානු ඇතා සහ මෙරට තුළ ප්‍රචණ්ඩ ලෙස හැසුරුණු, මේ වනවිට පුනුරුත්ථාපනය කර ඇති කණ්ඩුල සහ කලණ යන හස්තීන් දෙදෙනා ද නැරඹීමටත් සංචාරකයින්ට ඉදිරි සතිවලදී අවස්ථාව හිමිවෙයි.
+The tourists will be on the coming weeks, which have been violently acting violently violently violent in the country.
 
 ◼️
 
 [Data](articles/bdce2798.json)
+
+[Extended Data](ext_articles/bdce2798.ext.json)
 
 ---
 

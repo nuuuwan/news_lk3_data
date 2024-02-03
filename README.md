@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 18:19:15**
+As of **2024-02-03 18:33:13**
 
 ## Newspaper Stats
 
-*Scraped **4,576** Articles*
+*Scraped **4,577** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 281
 adalk | 393
 virakesarilk | 516
-adaderanasinhalalk | 565
+adaderanasinhalalk | 566
 adaderanalk | 571
 tamilmirrorlk | 577
 dailymirrorlk | 641
@@ -26,11 +26,27 @@ dailymirrorlk | 641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,575 (100.0%) of 4,576 articles have been extended.
+4,576 (100.0%) of 4,577 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### ශ්‍රී ලංකාව ලකුණු 212ක් ඉදිරියෙන‍්
+
+*2024-02-03 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192933) · `si`
+
+ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර පැවැත්වෙන ටෙස්ට් තරගයේ දෙවැනි දිනය නිමා වනවිට ශ්‍රී ලංකා කණ්ඩායම සිය පළමු ඉනිම සඳහා කඩුලු 6ක් දැවී ලකුණු 410ක් රැස් කරගෙන සිටී.
+
+අද දිනයේ ඇන්ජලෝ මැතිව්ස් සිය 16වෙනි ටෙස්ට් ශතකය වාර්තා කිරීමට සමත් වූ අතර දිනේෂ් චන්දිමාල් 15වෙනි ටෙස්ට් ශතකය රැස්කිරීමට සමත් විය.
+
+ඇෆ්ගනිස්තාන කණ්ඩායම සිය පළමු ඉනිම සඳහා රැස්කර ගනු ලැබුවේ ලකුණු 198ක් පමණි.
+
+◼️
+
+[Data](articles/72fcde01.json)
+
+---
 
 ### Keheliya hospitalized to Keheliya
 
@@ -59,6 +75,8 @@ The lawmaker was remanded until 15 February on the orders of Maligakanda Magistr
 ◼️
 
 [Data](articles/bba28cdf.json)
+
+[Extended Data](ext_articles/bba28cdf.ext.json)
 
 ---
 
@@ -1963,29 +1981,5 @@ The Meteorological Department urges the public to take necessary steps to reduce
 [Data](articles/ad05d8b6.json)
 
 [Extended Data](ext_articles/ad05d8b6.ext.json)
-
----
-
-### 1948: News Home on the First 'Independence Day "
-
-*2024-02-03 05:36:20* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gk531l1e8o) · `si`
-
-Sri Lanka has been released on Western nations for centuries and 76 years on February 4 this year.
-
-Dominion was a colony in February 4, 1948, for many reasons that the long-term struggles, as well as independence to the Indian subcontinent.
-
-In this article, you will bring the freedom of Sri Lanka in seventy-six years ago by printed media.
-
-Dinamina, a daily newspaper, was the main headline of the newspaper on February 4, 1948. It is reported from another subheading subheading and the following is a quote in the report posted in the newspaper.
-
-"Today Sri Lanka will take place between Canada, Australia, New Zealand, South Africa, South Africa, India, Pakistan, C.. R. Prime Minister of Sri Lanka to mark Mr. Atley to be released. Eyes. The message sent to Senanayake is mentioned. "
-
-When studying the newspapers of the National Architecture, the debate on the National Flag, a few months ago, was observed by the newspapers.
-
-...
-
-[Data](articles/b2060221.json)
-
-[Extended Data](ext_articles/b2060221.ext.json)
 
 ---

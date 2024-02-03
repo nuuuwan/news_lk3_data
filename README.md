@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 08:02:20**
+As of **2024-02-03 08:17:22**
 
 ## Newspaper Stats
 
-*Scraped **4,467** Articles*
+*Scraped **4,475** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,110 @@ islandlk | 238
 economynextcom | 252
 newsfirstlk | 275
 dailyftlk | 280
-adalk | 389
+adalk | 390
 virakesarilk | 499
-adaderanasinhalalk | 538
+adaderanasinhalalk | 544
 adaderanalk | 556
 tamilmirrorlk | 565
-dailymirrorlk | 618
+dailymirrorlk | 619
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,467 (100.0%) of 4,467 articles have been extended.
+4,467 (99.8%) of 4,475 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### දුම්රිය දෙපාර්තමේන්තුවෙන් දැනුම්දීමක්
+
+*2024-02-03 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192909) · `si`
+
+හෙට (04) දිනයේ මුහුදුබඩ මාර්ගයේ ධාවනය වන දුම්රිය, ප්‍රධාන දුම්රිය ස්ථාන කිහිපයක නොනවත්වා ධාවනය කිරීමට කටයුතු සැලසුම් කර ඇති බව දුම්රිය දෙපාර්තමේන්තුව දැනුම් දී තිබේ.
+
+මහලේකම් දුම්රිය ස්ථානය, කොල්ලුපිටිය සහ බම්බලපිටිය යන දුම්රිය ස්ථානවල පෙරවරු 05.00 සිට පෙරවරු 09.00 දක්වා මෙලෙස දුම්රිය නොනවත්වන බව දැනුම් දී ඇත.
+
+76 වැනි ජාතික නිදහස් දින උලෙළ ජනාධිපති, අග්‍රාමාත්‍ය ඇතුළු දෙස් විදෙස් ප්‍රභූවරුන්ගේ සහභාගිත්වයෙන් හෙට දිනයේ කොළඹ ගාලු මුවදොර පිටියේ දී උත්කර්ශවත් අන්දමින් පැවැත්වීමට සියලු කටයුතු සූදානම් කර තිබේ.
+
+නිදහස් උත්සවය සඳහා සහභාගි වන ප්‍රභූවරුන්ගේ සහ පෙළපාලිය සඳහා සහභාගි වන ත්‍රිවිධ හමුදා හා පොලිස් භට පිරිස්වල ආරක්ෂාව තහවුරු කිරීම සඳහා මෙලෙස දුම්රිය නොනවත්වා ධාවනය කිරීමට සැලසුම් කර ඇති බව වැඩිදුරටත් දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/14285110.json)
+
+---
+
+### FSL promote 14 officials as FIFA Referees
+
+*2024-02-03 07:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/FSL-promote-14-officials-as-FIFA-Referees/108-276231) · `en`
+
+Colombo, Fab. 3 (Daily Mirror) - A total of 14 Sri Lankan referees were promoted by Football Sri Lanka (FSL) to officiate in international football matches under the direction of FIFA.
+
+Accordingly, five FIFA Referees, seven FIFA Assistant Referees, one Women’s FIFA Referee and one Women’s FIFA Assistant Referee were presented with certificates by FSL at a ceremony in Colombo.
+
+FIFA Referees – Men’s: Dilan Perera (Kalutara), Nivon Robesh (Colombo), Lakmal Weerakkody (Gampola), Mohamed Jafran (Ampara) and Sasanka Madushanka (Gampaha).
+
+FIFA Assistant Referees – Men’s: Palitha Hemathunga (Gampola), Sanjeewa Premalal (Badulla), Iran Udayakantha (Bandarawela), Buddhika Dias (Colombo), L. S. D. Gunawardena (Gampaha), D. D. I. Sandanayaka (Matugama) and Lahiru Jeyaneththi (Kalutara).
+
+◼️
+
+[Data](articles/e92e2d7f.json)
+
+---
+
+### අමෙරිකාවෙන් සිරියානු ඉලක්ක වෙත ගුවන් ප්‍රහාර
+
+*2024-02-03 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192908) · `si`
+
+අමෙරිකානු හමුදාව සිරියාවේ ඉලක්ක වෙත ගුවන් ප්‍රහාර දියත් කිරීම ආරම්භ කර තිබේ.
+
+විදෙස් වාර්තා සඳහන් කළේ, ජෝර්දානයේ ඇමරිකානු කඳවුරක දී සොල්දාදුවන් තිදෙනෙකු මෑතක දී මිය යාමේ සිද්ධිය මූලික කරගනිමින් මෙම ප්‍රහාරය දියත් කර ඇති බවයි.
+
+මානව හිමිකම් සඳහා වූ සිරියානු නිරීක්ෂණ මධ්‍යස්ථානය සඳහන් කරන පරිදි නැගෙනහිර සිරියාවේ ප්‍රහාරවලින් ඉරාන හිතවාදී සටන්කරුවන් හය දෙනෙකු මිය ගොස් තිබේ.
+
+ඔක්තෝම්බර් මාසයේ දී ඊශ්‍රායල - හමාස් යුද්ධය ආරම්භ වීමෙන් පසු මැද පෙරදිග ප්‍රහාරයකින් මිය ගිය පළමු අමෙරිකානු හමුදා නිලධාරින් ඔවුන් වූ අතර, ප්‍රහාරයෙන් 40කට වැඩි පිරිසක් තුවාල ලබා ඇත.
+
+ඩ්‍රෝන යානා, රොකට් සහ කෙටි දුර බැලස්ටික් මිසයිල ඇතුළු ආයුධවලින් අමෙරිකාව සහ සභාග හමුදා ඉරාකයේ, සිරියාවේ සහ ජෝර්දානයේ දී ප්‍රහාර 165කට වඩා එල්ල කර ඇති බව විදෙස් වාර්තා සඳහන් කරයි.
+
+◼️
+
+[Data](articles/84e2f655.json)
+
+---
+
+### විශ්වවිද්‍යාල ආචාර්‍යවරුන් අර්බුදයක
+
+*2024-02-03 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192907) · `si`
+
+පොත් සඳහා සියයට 18ක වැට් බදු පැනවීම හේතුවෙන් අධ්‍යාපන කාර්යයන් සිදු කිරීමේ දී විශ්වවිද්‍යාල අචාර්යවරුන්ට ගැටලු රැසක් මතු ව ඇති බව මහාචාර්ය අගලකඩ සිරිසුමන හිමියෝ පවසති.
+
+උන්වහන්සේ පවසන්නේ, මෙම ක්‍රියාව නූගත් පරපුරක් රට තුළ බිහි කිරීම සඳහා රජය දරන වෑයමක් බවයි.
+
+මෙම බදු පැනවීම මඟින් නිර්මාණ සාහිත්‍යය මෙන්ම ශාස්ත්‍රීය පර්යේෂණවලට ද බාධාවක් වී ඇති බව මහාචාර්ය ප්‍රණීත් අබේසුන්දර මහතා අවධාරණය කර තිබේ.
+
+◼️
+
+[Data](articles/7ef72b7b.json)
+
+---
+
+### රථවාහන රාජකාරි සඳහා පොලිස් නිලධාරින් 1,500ක්
+
+*2024-02-03 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192906) · `si`
+
+76 වැනි ජාතික නිදහස් උත්සවයේ රථ වාහන රාජකාරී සඳහා පොලිස් නිලධාරීන් 1,500කට ආසන්න පිරිසක් යොදවා ඇති බව පොලීසිය පවසයි.
+
+රථ වාහන දිසාව භාර නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා සඳහන් කළේ, ආරක්ෂාව සහ වෙනත් රාජකාරි සඳහා නිලධාරින් 4,000ක් යොදවා ඇති බවයි.
+
+ජාතික නිදහස් උත්සවය වෙනුවෙන් අද සහ හෙට දෙදින කොළඹ ආශ්‍රිතව විශේෂ රථ වාහන සැලැසුමක් ක්‍රියාත්මක වන බව ද නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා සඳහන් කළේ ය.
+
+◼️
+
+[Data](articles/001a6e19.json)
+
+---
 
 ### Iraq - Syria launches attack on Iran's positions in the United States: More than 85 goals attack
 
@@ -51,6 +139,42 @@ It has been reported that many aircraft, including long -term B1 attacks of the 
 [Data](articles/6f2568e8.json)
 
 [Extended Data](ext_articles/6f2568e8.ext.json)
+
+---
+
+### ජනපතිගේ උත්සාහයක් ගැන දැනුම්දීමක්
+
+*2024-02-03 06:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192905) · `si`
+
+මෙරට ජනතාවගේ දිළිඳුකම පිටුදැකීම සහ දරුවන්ගේ පෝෂණය ඉහළ නැංවීම වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රමුඛ අවධානයක් යොමු කර කටයුතු කරන බව ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක හා ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානී සාගල රත්නායක මහතා පවසයි.
+
+ඔහු සඳහන් කළේ, ඒ වෙනුවෙන් ජනාධිපතිවරයාගේ මඟපෙන්වීම ඇති ව මේ වන විට වැඩසටහන් රැසක් ක්‍රියාවට නංවා ඇති බවයි.
+
+ජනාධිපතිවරයාගේ සංකල්පයක් මත ආරම්භ කෙරුණු 'අස්වැසුම' වැඩසටහන මෙරට දිළිඳුකම පිටුදැකීම සඳහා පුරෝගාමී මෙහෙවරක් ඉටු කරන බැවින් කිසිසේත් දේශපාලනීකරණය නොවූ අස්වැසුම මෙරට ජනතාවගේ දිළිඳුකම පිටුදැකීම වෙනුවෙන් ශක්තිමත් දායකත්වයක් ලබාදෙනු ඇති බව ඔහු පවසයි.
+
+මෙහි දී වැඩිදුරටත් අදහස් දැක්වූ සාගල රත්නායක මහතා පෙන්වා දුන්නේ, අනාගත පරපුර නිරෝගී පරපුරක් ලෙස ගොඩනැඟීම අත්‍යවශ්‍ය වන බැවින් පෝෂණය යනු, කුසගින්න නිවා දැමීම පමණක් නොව රටේ අනාගතය හැඩගැස්වීමේ දී තීරණාත්මක කාර්යභාරයක් ඉටු කරනු ලබන සාධකයක් බවයි.
+
+◼️
+
+[Data](articles/2805cbe6.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට වැසි වාර
+
+*2024-02-03 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192904) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව සහ මාතලේ දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කර තිබේ.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් පස්වරු 02.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+
+මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේ දී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමඟ ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/ad05d8b6.json)
 
 ---
 
@@ -665,6 +789,18 @@ The suspects have told police a 23 year old resident of Dodddro, a 23 year old r
 [Data](articles/b56491f6.json)
 
 [Extended Data](ext_articles/b56491f6.ext.json)
+
+---
+
+### කෙහෙළිය අත්අඩංගුවට
+
+*2024-02-02 20:25:55* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-අත්අඩංගුවට/11-407871) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගෙන තිබේ. අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව විසින් ඔහුගේ පැය 10කට ආසන්න කාලයක් ප්‍රකාශ සටහන් කර ගැනීමෙන් අනතුරුව මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/be50da3d.json)
 
 ---
 
@@ -1875,159 +2011,5 @@ The lawyers' organization has also questioned the appointment of Deshabanduthenk
 [Data](articles/b6ad62e5.json)
 
 [Extended Data](ext_articles/b6ad62e5.ext.json)
-
----
-
-### Three petitions against Sanath Nishantha
-
-*2024-02-02 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192887) · `si`
-
-The Court of Appeal was issued today (01) to withdraw three petitions filed against former State Minister Sanath Nishantha accusing him.
-
-These petitions were called before the Court of Appeal of Sobhitha Rajara and Dhammika Ganepola today.
-
-Attorneys who appeared on behalf of the petitioners appear before the courts, the Supreme Sanath Nishantha has not been able to maintain the petitions.
-
-The accepted judiciary was given permission to withdraw the petitions.
-
-The petitions were presented by the Sri Lanka Judicial Officers Association and two lawyers, Priylal Sirisena and Vijitha Kumara.
-
-At a press conference held at the Sri Lanka Front Secretariat on a press conference held at the Sri Lanka Federation Office in August, 2022, the petitions were presented by the Magistrate's actions.
-
-◼️
-
-[Data](articles/17ec02a6.json)
-
-[Extended Data](ext_articles/17ec02a6.ext.json)
-
----
-
-### Child dies after a short wall rolling up a short wall
-
-*2024-02-02 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192886) · `si`
-
-A 15-year-old child was killed.
-
-The accident had taken place in the Galwattawatta area in Navalwatta, Kurunegala yesterday evening.
-
-A 15-year-old Sudash Madushanka, the child is hazardous when it comes to hiding near the house with friends.
-
-The victim has died on the ground in a nearby house and died on admission to the Kurunegala Teaching Hospital.
-
-Sudesh Madushanku, Langagoda Piyaratha Maha Vidyalaya, was erected in the Dellampitiya Sri Piyarathana Maha Vidyalaya.
-
-◼️
-
-[Data](articles/6e8cad7e.json)
-
-[Extended Data](ext_articles/6e8cad7e.ext.json)
-
----
-
-### Actor Vijay started the political party
-
-*2024-02-02 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/175389) · `ta`
-
-Actor Vijay has landed on the political field. He officially announced that his party was named 'Tamil Nadu Victory Corporation'.
-
-You all know that the Vijay People's Movement has been doing various people's welfare programs, social services and relief as long as he can.
-
-However, it requires political authority that only a volunteer organization is impossible to bring about complete social, economic and political reforms.
-
-On the one hand, the current political environment, administrative disorders, and 'corrupt political culture', on the one hand, the 'split political culture' on the other hand, which is trying to divide our people through caste religions, is full of impediments for our unity and progress.
-
-...
-
-[Data](articles/6960fd1a.json)
-
-[Extended Data](ext_articles/6960fd1a.ext.json)
-
----
-
-### US ambassador hails Sri Lanka’s Pekoe Trail inclusion in Nat Geo ranking
-
-*2024-02-02 14:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/96949/us-ambassador-hails-sri-lankas-pekoe-trail-inclusion-in-nat-geo-ranking) · `en`
-
-The Ambassador of the United States to Sri Lanka, Julie Chung has hailed Sri Lanka’s Pekoe Trail being profiled among the “Top 20 Travel Experiences for 2024” as named by National Geographic’s Global Editorial Teams.
-
-Posting on X (formerly Twitter), the US envoy mentioned that the historic trail was further developed with funding support from the United States Agency for International Development (USAID) and the European Union (EU), adding that it is an example of how the US and Sri Lankan partnerships develop tourism entrepreneurism and encourage people from all over the world to Visit Sri Lanka.
-
-The National Geographic recently announced their picks for ‘BEST OF THE WORLD 2024’, the brand’s annual guide of the most exciting, meaningful, and one-of-a-kind travel experiences for 2024, whereas the Pekoe Trail, a 300km trekking trail that travels through the central hills of Sri Lanka, was ranked number 16 in the “Top 20 Travel Experiences” category.
-
-...
-
-[Data](articles/1ca976f7.json)
-
-[Extended Data](ext_articles/1ca976f7.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-02-02 14:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/175391) · `ta`
-
-The US dollar purchasing price was Rs 307.1762 and the sale price was 316.9979 based on the Central Bank's currency exchange rate today (February 02).
-
-◼️
-
-[Data](articles/50f053f3.json)
-
-[Extended Data](ext_articles/50f053f3.ext.json)
-
----
-
-### Out of the online bill
-
-*2024-02-02 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192885) · `si`
-
-The gazette, the Gazette on the Online Schemes Act has been announced.
-
-On the 24ths there was amendment to the Parliament of On-On-On-On-On-On-On-line security bill with amendments.
-
-◼️
-
-[Data](articles/46abb1ba.json)
-
-[Extended Data](ext_articles/46abb1ba.ext.json)
-
----
-
-### Online Safety Act gazetted
-
-*2024-02-02 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96948/online-safety-act-gazetted) · `en`
-
-The Online Safety Act has been published in the government gazette, bringing it into effect as the Online Safety Act, No. 9 of 2024.
-
-Accordingly, the Act will provide for the establishment of the Online Safety Commission, safety from prohibited statements made online and prevention of the use of online accounts and inauthentic online accounts for prohibited purposes.
-
-It is also expected to make provisions to identify and declare online locations used for prohibited purposes in Sri Lanka and suppress the financing and other support of communication of prohibited statements and for matters connected therewith or incidental thereto.
-
-The legislation which seeks to regulate online content was passed in Parliament, with amendments on 24 January, amidst objections from opposition politicians and activists who allege the new law will muzzle free speech.
-
-...
-
-[Data](articles/46d7c802.json)
-
-[Extended Data](ext_articles/46d7c802.ext.json)
-
----
-
-### $ 150 million loan
-
-*2024-02-02 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192884) · `si`
-
-The Government of Sri Lanka has announced that the Government of Sri Lanka has acquired an US $ 150 million loan facility from the International Development Coordinator of the World Bank to strengthen the Financial Sector Protection Network (IDA).
-
-The Ministry of Finance stated that the financial agreement was signed recently.
-
-The Ministry of Finance has also contributed to strengthen the Sri Lanka Financial Sector Protection Network in Sri Lanka by strengthening the Sri Lanka Deposit Insurance Scheme managed by the Central Bank of Sri Lanka.
-
-The project is also aimed at improving the financial and corporate capacity of the Sri Lanka Depository Insurance Scheme in accordance with the highest recognized deposit insurance scheme.
-
-◼️
-
-[Data](articles/3fd20f6c.json)
-
-[Extended Data](ext_articles/3fd20f6c.ext.json)
 
 ---

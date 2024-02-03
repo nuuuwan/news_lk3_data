@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 13:51:40**
+As of **2024-02-03 14:02:20**
 
 ## Newspaper Stats
 
-*Scraped **4,533** Articles*
+*Scraped **4,534** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 280
 adalk | 392
 virakesarilk | 508
 adaderanasinhalalk | 553
-adaderanalk | 563
+adaderanalk | 564
 tamilmirrorlk | 575
 dailymirrorlk | 630
 
@@ -26,11 +26,27 @@ dailymirrorlk | 630
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,533 (100.0%) of 4,533 articles have been extended.
+4,533 (100.0%) of 4,534 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### Over 750 prisoners to receive presidential pardon on 76th Independence Day
+
+*2024-02-03 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96969/over-750-prisoners-to-receive-presidential-pardon-on-76th-independence-day) · `en`
+
+Over 700 inmates detained at prisons across the island will be released on Sunday (Feb.04) in view of the 76th Independence Day of Sri Lanka, the Prisons Department said.
+
+Accordingly, a total of 754 prisoners including 25 female inmates are slated to receive a special presidential pardon.
+
+The special pardon is granted by virtue of the powers vested in the President under Article 34 of the Constitution, the Prisons Commissioner (Operation/ Intelligence) and Spokesman Gamini B. Dissanayake explained.
+
+◼️
+
+[Data](articles/dd57a2b7.json)
+
+---
 
 ### 38-year-old brutally hacked to death in Matugama
 
@@ -1917,25 +1933,5 @@ Former Health Minister Keheliya Rambukwella has been arrested by the CID. The ar
 [Data](articles/be50da3d.json)
 
 [Extended Data](ext_articles/be50da3d.ext.json)
-
----
-
-### Keheliya Rambukwella arrested
-
-*2024-02-02 20:22:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-ரம்புக்வெல்ல-கைது/175-332561) · `ta`
-
-Former Health Minister Keheliya Rambukwella has been arrested by the Criminal Investigation Department (CIT) for the importation of substandard injections.
-
-Keheliya Rambukwella visited the Criminal Investigation Division this morning to make a confession on a court order.
-
-The Magistrate yesterday ordered the Criminal Investigation Department to appear at the Criminal Investigation Division (CID) at 9 am on Friday (2) during a court hearing on the controversial immunoglobulin.
-
-After more than 10 hours of trial, Keheliya Rambukwella was arrested.
-
-◼️
-
-[Data](articles/7fb95860.json)
-
-[Extended Data](ext_articles/7fb95860.ext.json)
 
 ---

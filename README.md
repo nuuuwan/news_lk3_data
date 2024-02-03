@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 17:02:19**
+As of **2024-02-03 17:17:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,563 (100.0%) of 4,564 articles have been extended.
+4,564 (100.0%) of 4,564 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -129,6 +129,8 @@ Negotiations for the free trade agreement between Sri Lanka and Thailand resumed
 ...
 
 [Data](articles/e7600526.json)
+
+[Extended Data](ext_articles/e7600526.ext.json)
 
 ---
 

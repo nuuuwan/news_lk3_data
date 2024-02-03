@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 09:32:39**
+As of **2024-02-03 09:50:59**
 
 ## Newspaper Stats
 
-*Scraped **4,488** Articles*
+*Scraped **4,498** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ newsfirstlk | 278
 dailyftlk | 280
 adalk | 391
 virakesarilk | 499
-adaderanasinhalalk | 545
+adaderanasinhalalk | 548
 adaderanalk | 558
-tamilmirrorlk | 565
+tamilmirrorlk | 572
 dailymirrorlk | 625
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,483 (99.9%) of 4,488 articles have been extended.
+4,498 (100.0%) of 4,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### Keheliya
+
+*2024-02-03 09:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192913) · `si`
+
+Former Health Minister Keheliya Rambukwella has been taken to the Maligakanda Court yesterday (02) by the CID yesterday.
+
+The CID has recorded statements from the former Minister of Controversial Human Emiyankulabulin incident yesterday.
+
+◼️
+
+[Data](articles/7c694cd7.json)
+
+[Extended Data](ext_articles/7c694cd7.ext.json)
+
+---
+
+### Karl Werers killed
+
+*2024-02-03 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192912) · `si`
+
+According to foreign reports, the Carl Werers who started life in the middle of the 1970s, Carl Werers were 76 years old.
+
+In 1987, the Werers who played the 'Prredetter' in 1987 and recently contributed to the Star Wars' ballore on the small screen.
+
+His contribution to movies, television, art, arts and games, he has placed a long sign.
+
+◼️
+
+[Data](articles/d6beb80b.json)
+
+[Extended Data](ext_articles/d6beb80b.ext.json)
+
+---
+
+### 770 suspects arrested
+
+*2024-02-03 09:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192911) · `si`
+
+770 criminals have been arrested by operations island wide during the 24 hours of 'Justice' operation.
+
+In the meantime, there are 567 suspects in the list of drugs and the list of criminal sections.
+
+4,416 grams, 1,416 grams, 129G, 129G, 129G, 129G, 129G, 129G, 129Gs, 129Gs, 129G, 129G, 129G, 129Gs, 129Gs, 129G, 129G, 129Gs, 129Gs, 129Gs, 129G, 129G, 129Gs, were found in their possession.
+
+Among the 567 suspects of drug misconduct, 6 suspects are conducted on detention orders and two drug addicts have been rehabilitated.
+
+Five suspects have been arrested in the Police Narcotics Bureau and the Police Special Bureau's list.
+
+Also, among the 203 suspects arrested on the list of the list of the criminal sections, there are 160 suspects who were released in drugs and non-drug errors.
+
+11 suspects and 11 suspects who were not arrested in the media and 11 suspects have been arrested in operations.
+
+◼️
+
+[Data](articles/b7ab58dc.json)
+
+[Extended Data](ext_articles/b7ab58dc.ext.json)
+
+---
 
 ### STF busts major narcotics haul worth Rs. 100 million in Wattala
 
@@ -48,6 +108,8 @@ Police said both the suspect and the substantial cache of narcotics were handed 
 
 [Data](articles/91e74d81.json)
 
+[Extended Data](ext_articles/91e74d81.ext.json)
+
 ---
 
 ### Army Commander receives commendation for historic parachute jump
@@ -63,6 +125,8 @@ The placement of the parachute insignia (Airborne) on the Army Commander’s uni
 ...
 
 [Data](articles/00951f7d.json)
+
+[Extended Data](ext_articles/00951f7d.ext.json)
 
 ---
 
@@ -83,6 +147,8 @@ Winds will be north-easterly or easterly and wind speed will be 20-30 kmph.
 ...
 
 [Data](articles/f1f43581.json)
+
+[Extended Data](ext_articles/f1f43581.ext.json)
 
 ---
 
@@ -121,6 +187,46 @@ Maligakanda Magistrate Lochana Abeywickrama also imposed an overseas travel ban 
 ...
 
 [Data](articles/8d474ecb.json)
+
+[Extended Data](ext_articles/8d474ecb.ext.json)
+
+---
+
+### Some trains will not stand tomorrow - notice
+
+*2024-02-03 08:36:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-சில-ரயில்கள்-நிற்காது-வெளியான-அறிவிப்பு/175-332581) · `ta`
+
+The Railway Department said that the trains running along the coastal route will be operated tomorrow (04).
+
+All arrangements have been made to hold the 76th National Independence Day celebration with the participation of the President, the Prime Minister, the Prime Minister, the Prime Minister, the domestic and the foreigners.
+
+In this case, the trains will not stop at Kaluppitti and Bambalapitiya railway stations from 05.00 am to 09.00 am.
+
+It is also reported that the trains are scheduled to be operated to ensure the safety of the soldiers and the policemen who participated in the Independence Ceremony and the parade.
+
+◼️
+
+[Data](articles/f567a030.json)
+
+[Extended Data](ext_articles/f567a030.ext.json)
+
+---
+
+### 1,500 policemen on the streets of Colombo
+
+*2024-02-03 08:27:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-வீதிகளில்-களமிறக்கப்பட்டுள்ள-1-500-பொலிஸார்/175-332580) · `ta`
+
+About 1500 police officers have been deployed for special traffic duties in Colombo on the 76th Independence Day, police said.
+
+The Deputy Inspector General of Police Indika Hapugoda said that 4,000 officers have been deployed for security and other obligations.
+
+Meanwhile, a special traffic plan will be implemented in Colombo today and tomorrow. (Of)
+
+◼️
+
+[Data](articles/bdd09f68.json)
+
+[Extended Data](ext_articles/bdd09f68.ext.json)
 
 ---
 
@@ -178,17 +284,19 @@ A 51-year-old man has been arrested by the police, who was the owner of the land
 
 ---
 
-### මල්ලිලත් අයියලා වගේමයි
+### Like the brothers and the brothers
 
 *2024-02-03 07:44:01* · [`adalk`](https://www.ada.lk/sports/මල්ලිලත්-අයියලා-වගේමයි/9-407873) · `si`
 
-19න් පහළ ලෝක කුසලාන තරගාවලියේ දකුණු අප්‍රිකාව සමග පැවැති තරගය ලකුණු 119ක් පරාජය වීමෙන් අනතුරුව ශ්‍රි ලංකා කණ්ඩායම ලෝක කුසලානයෙන් ඉවතට ගිය අතර දකුණු අප්‍රිකාව අවසන් පූර්ව වටය සඳහා සුදුසුකම් ලබ ගත්තේය.
+The Sri Lankan team was thrown out of the World Cup after 119 runs in the 19th World Cup match. South Africa qualified for the semi-round.
 
-මුලින්ම පන්දුවට  පහරදුන් දකුණු අප්‍රිකාව ලකුණු 232ක් රැස් කළ අතර පිළිතුරු ඉනිම ක්‍රීඩා කළ ශ්‍රී ලංකා කණ්ඩායමට රැස් කළ හැකිවූයේ ලකුණු 113ක් පමණි.
+South Africa first scored 232 runs while in the reply, Sri Lanka were able to score only 113 runs.
 
 ◼️
 
 [Data](articles/bd305780.json)
+
+[Extended Data](ext_articles/bd305780.ext.json)
 
 ---
 
@@ -441,6 +549,96 @@ Special traffic plan in action in Colombo for Independence day celebration
 [Data](articles/91d68a1b.json)
 
 [Extended Data](ext_articles/91d68a1b.ext.json)
+
+---
+
+### Jeevan congratulates Vijay's political journey
+
+*2024-02-03 03:04:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்யின்-அரசியல்-பயணத்துக்கு-ஜீவன்-வாழ்த்து/175-332579) · `ta`
+
+Jeevan Thondaman, the General Secretary of the Ceylon Workers Congress and the Minister of Water Resources and Estate Infrastructure Development, said that Vijay, the commander of the fanfare through the cinema, will be fully confident that he will act through politics.
+
+I congratulate the Vijay -led Tamil Nadu Victory Association to continue the journey.
+
+Minister Jeevan Thondaman commented on the official announcement of actor Vijay's political entry
+
+"Actor Vijay is the peak of the cinema industry. He has fans bandwidth for him. Commander -in -Chief has treated him with elegance and honesty in the cinema industry as fans celebrate him. Moreover, the Vijay people's movement, which was formed for himself, has made various welfare schemes.
+
+In this case, the Vijay People's Movement has announced that it will begin a political journey as a success of the Tamil Nadu Victory Council for furthering the work, equality and social justice. ”. (A)
+
+◼️
+
+[Data](articles/9d23f724.json)
+
+[Extended Data](ext_articles/9d23f724.ext.json)
+
+---
+
+### Arrested with 15 kg of cannabis
+
+*2024-02-03 02:53:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-கிலோ-கஞ்சாவுடன்-ஒருவர்-கைது/175-332578) · `ta`
+
+Jaffna during a special round of work carried out in Jaffna. One person has been arrested with 15 kg of cannabis by the District Crime Prevention Police Division
+
+◼️
+
+[Data](articles/23f194ff.json)
+
+[Extended Data](ext_articles/23f194ff.ext.json)
+
+---
+
+### Special attention to improve children's nutrition
+
+*2024-02-03 02:44:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்களின்-போஷாக்கை-மேம்படுத்த-விசேட-கவனம்/175-332577) · `ta`
+
+Sagala Ratnayake, a senior adviser to the National Security and Presidential Association, said that the President has focused special attention to the poverty of the people and the president's work is being carried out under the President's Workshop.
+
+He was speaking at a function to provide nutritional rice for lunch work at the Rama Hotel in Colombo.
+
+Various programs have been implemented from time to time to alleviate poverty in our country and improve the nutritional status of the people. The Samurdhi Program was a major place and it was further expanded through the Ashewasuma project launched by the current government.. (A)
+
+◼️
+
+[Data](articles/c333370e.json)
+
+[Extended Data](ext_articles/c333370e.ext.json)
+
+---
+
+### Appreciate the commander of the parachute adventure
+
+*2024-02-03 02:38:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரசூட்-சாகசம்-செய்த-தளபதிக்கு-பாராட்டு/175-332576) · `ta`
+
+Lieutenant General Lieutenant General Vikki Liyanage was honored at the presidential office yesterday to showcase his talent as a military parasite soldier.
+
+The Army Commander Parasood adventure on the 22nd of last month at the Kudaoya Commando Region Training School to renew the history of the Parasood adventure of the Sri Lankan army.
+
+Lieutenant General Vikku Liyanage's efforts and dedication were applauded for the army commander, which was the role of the military leadership.
+
+The honor was granted by the President's Advisor on National Security and the President of the Presidential Committee, Sagala Ratnayake.. (A)
+
+◼️
+
+[Data](articles/01e7d094.json)
+
+[Extended Data](ext_articles/01e7d094.ext.json)
+
+---
+
+### Completed work
+
+*2024-02-03 02:32:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணிப்பகிஷ்கரிப்பு-நிறைவு/175-332575) · `ta`
+
+It is decided to complete the trade union action carried out by 72 health unions at 6.30 am today.
+
+The trade unions have warned that union action will be carried out again from Wednesday if they are not provided with solutions.
+
+◼️
+
+[Data](articles/8b1ab7eb.json)
+
+[Extended Data](ext_articles/8b1ab7eb.ext.json)
 
 ---
 
@@ -1787,219 +1985,5 @@ Chevron Lubricants was 94.00 rupees flat and Lanka IOC was 104.50 rupees, up 2.5
 [Data](articles/f8a1c174.json)
 
 [Extended Data](ext_articles/f8a1c174.ext.json)
-
----
-
-### Health trade unions temporarily call off strike action
-
-*2024-02-02 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96953/health-trade-unions-temporarily-call-off-strike-action) · `en`
-
-The health sector trade unions have decided to temporarily call off the ongoing island-wide strike action by 06.30 a.m. on Saturday (Feb. 03).
-
-A collective of 72 trade unions from the health sector resorted to a one-day strike across the country last morning (Feb.01), which continued for the second day straight today, urging the government to address the issues concerning allowances without delay.
-
-The doctors’ unions and the All Ceylon Nurses’ Union, however, decided to refrain from joining the strike action, alleging that the planned strike action was a conspiracy by the government.
-
-In response to the island-wide strike, tri-force personnel were deployed to the state hospitals across the country, depending on the requirements at each facility to ensure uninterrupted provision of essential medical services to the public.
-
-◼️
-
-[Data](articles/1f6455f0.json)
-
-[Extended Data](ext_articles/1f6455f0.ext.json)
-
----
-
-### Sri Lanka launches operations secretariat for free hold land distribution
-
-*2024-02-02 16:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-launches-operations-secretariat-for-free-hold-land-distribution-149741/) · `en`
-
-ECONOMYNEXT — Sri Lanka has launched a ‘National Operations Secretariat’ named Urumaya at the president’s office to oversee plans to grant freehold land titles to two million families.
-
-The secretariat is located at the president’s office in the old Standard Chartered Building, Colombo.
-
-“President Ranil Wickremesinghe’s vision of empowering farmers through land ownership takes shape as the government announces plans to grant freehold titles to two million families. This initiative aims to address long-standing concerns regarding land rights in rural Sri Lanka,” a statement from the president’s media division (PMD) said.
-
-President Wickremesinghe first announced the plan during the 2024 budget speech in November 2023, noting that 2 billion rupees has been allocated for the project.
-
-Sri Lanka has large tracts of state land, some of which were given to settler families under various agricultural schemes after independence, but without freehold.
-
-...
-
-[Data](articles/1411689b.json)
-
-[Extended Data](ext_articles/1411689b.ext.json)
-
----
-
-### Afghan first innings are limited to 198
-
-*2024-02-02 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192892) · `si`
-
-The first day of Afghanistan, who played the first and the first innings of the first Test between Sri Lanka and Afghanistan, won 198 runs.
-
-In the invitation of the Sri Lankan captain of the coin, the Afghan group entered the field to bat first, but they could not create a big scoreboard.
-
-Rheerat scored 91 runs in a successful innings for Afghanistan.
-
-Among the Asitha Fernando and Prabath Jayasuriya was divided into three wickets each.
-
-◼️
-
-[Data](articles/0454b018.json)
-
-[Extended Data](ext_articles/0454b018.ext.json)
-
----
-
-### India released Chinese pigeon
-
-*2024-02-02 16:34:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீன-புறாவை-விடுவித்தது-இந்தியா/175-332555) · `ta`
-
-A pigeon suspected of China used to spy on India. Mumbai police said that the pigeon was released on Wednesday after eight months.
-
-Bai Celeboy Hospital for animals in Parel, Mumbai, sought the permission of the police to release the bird on Monday. Mumbai's RCF police officer said that the pigeon was released.
-
-The pigeon was caught in May last year at the Bir Bao Jetti in the suburbs of Sempur.
-
-Two rings were worn for pigeon. One of them is copper and the other are made of aluminum. There were messages written in Chinese letters on the lower side of the dove's two wings. RCF police have filed a case in this regard. After the investigation, the intelligence allegation was abandoned.
-
-At the hearing of the case, the police found that the dove caught in Taiwan was racing in Taiwan.. Police say the pigeon flew during a race.
-
-Pigeon was released after police claimed that there was no objection to release the pigeon. Mumbai police say the bird's health was good when it was released. Remble
-
-◼️
-
-[Data](articles/55034ce3.json)
-
-[Extended Data](ext_articles/55034ce3.ext.json)
-
----
-
-### Massive gas in Nairobi - two killed - more than 220 injured
-
-*2024-02-02 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175360) · `ta`
-
-Two people were killed and more than 220 injured in a gas -laid in Kenya's capital, Nairobi.
-
-Videos have been revealed that homes and shopping centers have been damaged and a massive fireplace near the barracks.
-
-Police have asked the public to avoid the area.
-
-◼️
-
-[Data](articles/82170b57.json)
-
-[Extended Data](ext_articles/82170b57.ext.json)
-
----
-
-### In 2023, the Ayurvedic Corporation made a profit of 195 million rupees - Indigenous Medical Minister Sisira Jayakody
-
-*2024-02-02 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175403) · `ta`
-
-The Ayurvedic Corporation has made a profit of 195 million rupees in 2023, said Sisira Jayakody, Minister of State for Indigenous Medicine.
-
-Pointing out that this profit was the highest profit from 2017, the Minister of State said that the profit was made through the new administration of the Ayurvedic Corporation.
-
-Speaking at a media briefing held at the Presidential Media Center today (02), Minister of State for Medicine Sisira Jayakody said this.
-
-The planting program of planting ten lakhs of herbal plants across the country has been launched on the occasion of the 76th National Independence Day.
-
-The first phase of this program began today (02). Accordingly, the program will be implemented until April 7.
-
-It has been inaugurated by the Ministry of Indigenous Medicine, Ayurvedic Department and the Ministry of Public Administration.
-
-Arrangements have been made to implement this national program, focusing on all the Grama Niladhari Divisions across the country.
-
-...
-
-[Data](articles/8c3b5317.json)
-
-[Extended Data](ext_articles/8c3b5317.ext.json)
-
----
-
-### 119 childbirth deaths in 17 months - Information in the study
-
-*2024-02-02 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175398) · `ta`
-
-From January 2022 to May 2023, there were 119 delivery deaths in the 17 months.
-
-This information was revealed in the Action Report for 2023 issued by the Ministry of Health.
-
-The report reveals that the information has been obtained at the department and the company level in order to detect the backdrop of various incidents.
-
-The report also stated that a secret investigation system has been introduced in the upper and southern provinces to further strengthen surveillance and investigation into the deaths of Mother -Sey.
-
-It is noteworthy that all hospitals across the country have been appointed to monitor post -delivery and post -delivery deaths in order to reduce the childbirth rate in Sri Lanka.
-
-◼️
-
-[Data](articles/e135126f.json)
-
-[Extended Data](ext_articles/e135126f.ext.json)
-
----
-
-### Nethmi, Dewmi steer SL Women to title win
-
-*2024-02-02 16:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nethmi-Dewmi-steer-SL-Women-to-title-win/108-276221) · `en`
-
-Feb. 2 (Daily Mirror) - A quick-fire 57-ball knock of 66 inclusive of eight boundaries by Nethmi Senaratne and a fine all-round performance by Dewmi Wijeratne helped Sri Lanka beat Bangladesh by 36 runs in the Women’s Under-19 Tri-Nation Twenty20 final played at the Sheikh Kamal Cricket Stadium in Cox’s Bazar, Bangladesh.
-
-It was sweet revenge for the champion Sri Lanka team as they came into the final having suffered two defeats against the home side during the league segment.
-
-The foundation for Sri Lanka’s win was laid by the openers Nethmi Senaratme and Dewmi Wijeratne, as the pair gave the side a solid start of 104 runs in 86 balls, which helped them to end with a challenging score of 148 for three.
-
-Later Dewmi, who bagged three scalps spearheaded the bowling attack and along with Madushani Herath and Rismi Sanjana, who shared four wickets between them, succeeded in restricting the home side for 112.
-
-...
-
-[Data](articles/4ac835fb.json)
-
-[Extended Data](ext_articles/4ac835fb.ext.json)
-
----
-
-### Appeals Court delivers decision on contempt petitions against Sanath Nishantha
-
-*2024-02-02 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/96952/appeals-court-delivers-decision-on-contempt-petitions-against-sanath-nishantha) · `en`
-
-The Court of Appeal has permitted to withdraw three petitions filed against the late State Minister Sanath Nishantha over contempt of court charges.
-
-The relevant petitions were taken up before the two-member judge bench consisting of Justices Sobhitha Rajakaruna and Dhammika Ganepola today (Feb. 02).
-
-There, the attorneys-at-law who appeared on behalf of the petitioning parties told the court that the petitions are not required to be maintained since the defendant of the case, State Minister Sanath Nishantha has passed away, and therefore, requested permission to withdraw the relevant petitions.
-
-The Appeals Court, which accepted the request allowed the three petitions to be withdrawn.
-
-...
-
-[Data](articles/6e21f88c.json)
-
-[Extended Data](ext_articles/6e21f88c.ext.json)
-
----
-
-### On the 75th Independence Day, we have been branded as a bankrupt country - the President
-
-*2024-02-02 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/175401) · `ta`
-
-While celebrating Sri Lanka's 75th Independence Day, we were branded as a bankrupt country. However, on the 76th Independence Day, despite the many risks, the economy has been able to get out of that position, said President Ranil Wickremesinghe.
-
-In a statement issued by the Presidential Media Unit on the 76th Independence Day of Sri Lanka, he added.
-
-While celebrating Sri Lanka's 75th Independence Day, we were branded as a bankrupt country. But on the 76th Independence Day, despite many risks, the economy has been able to get rid of that position and bring the economy to a stable.
-
-The majority of the people of the country have been able to slow down because they have supported the long -standing program of rebuilding the country.
-
-As it continues on this path, the difficulties will disappear. Diminishing life load. The economy will be strengthened. Sri Lankan mother will re -dawn.
-
-...
-
-[Data](articles/97745019.json)
-
-[Extended Data](ext_articles/97745019.ext.json)
 
 ---

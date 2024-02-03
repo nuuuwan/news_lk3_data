@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 15:33:06**
+As of **2024-02-03 15:50:15**
 
 ## Newspaper Stats
 
-*Scraped **4,546** Articles*
+*Scraped **4,547** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ virakesarilk | 511
 adaderanasinhalalk | 556
 adaderanalk | 566
 tamilmirrorlk | 575
-dailymirrorlk | 633
+dailymirrorlk | 634
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,544 (100.0%) of 4,546 articles have been extended.
+4,546 (100.0%) of 4,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### Keheliya Rambukwella remanded until February 15
+
+*2024-02-03 15:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliya-Rambukwella-remanded-until-February-15/108-276281) · `en`
+
+Colombo, Feb 03 (Daily Mirror) -Former Health Minister Keheliya Rambukwella who was arrested by the Criminal Investigation Department (CID) yesterday over the importation of substandard Immunoglobulin injections, has been remanded until February 15.
+
+The former health minister was ordered to be remanded by the Maligakanda Magistrate.
+
+◼️
+
+[Data](articles/d193b690.json)
+
+---
 
 ### Keheliya Rambukwella remanded
 
@@ -45,6 +59,8 @@ He was taken into custody by the Criminal Investigation Department (CID) on Frid
 ◼️
 
 [Data](articles/1229b35b.json)
+
+[Extended Data](ext_articles/1229b35b.ext.json)
 
 ---
 
@@ -123,6 +139,8 @@ Additionally, witnessing the signing of the historic Sri Lanka - Thailand Free T
 ...
 
 [Data](articles/6ffe3618.json)
+
+[Extended Data](ext_articles/6ffe3618.ext.json)
 
 ---
 
@@ -1947,25 +1965,5 @@ In a statement issued by the actor, he said, “We are making an application tod
 [Data](articles/40689478.json)
 
 [Extended Data](ext_articles/40689478.ext.json)
-
----
-
-### New story of Narammala Shooting incident
-
-*2024-02-02 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192900) · `si`
-
-It is revealed that the motorcycle used by police officers involved in the death of a lorry driver in Narammamala.
-
-The Kuliyapitiya Divisional Criminal Investigation Unit has reported this to the court.
-
-It has been revealed that the motorcycle purchased from a stone in 2007 has been registered until now.
-
-The suspect Inspector Association has been remanded until the 16th and the other police officer was banned.
-
-◼️
-
-[Data](articles/d349ca51.json)
-
-[Extended Data](ext_articles/d349ca51.ext.json)
 
 ---

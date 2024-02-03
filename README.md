@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 20:02:17**
+As of **2024-02-03 20:17:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,582 (99.9%) of 4,585 articles have been extended.
+4,585 (100.0%) of 4,585 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,41 +52,53 @@ INS ‘Karanj’ will depart the island nation on February 5, symbolising the st
 
 ---
 
-### බෙලිඅත්ත පංච පුද්ගල ඝාතනයේ රහස් රැසක් හෙළිවෙයි
+### Several secrets of Beliatta's five-day killing reveals
 
 *2024-02-03 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192934) · `si`
 
-බෙලිඅත්ත පංච පුද්ගල ඝාතනයට වෙඩික්කරුවන් පැමිණි ජීප් රථය වැඩ තහනමට ලක්වී සිටින උපපොලිස් පරීක්ෂකවරයෙකු මහනුවර ප්‍රදේශයෙන් රුපියල් ලක්ෂ 24කට මිලදී ගෙන ඇතැයි තොරතුරු අනාවරණවූ බව පොලීසිය පවසයි.
+According to police, it has been revealed that a suburbs inspector who had come to the killing of the Beliatta's assassination has been purchased for Rs.
 
-කෙසේ වෙතත් එම පුද්ගලයා දැනටමත් දිවයිනෙන් පළා ගොස් ඇතැයි සැක මතුවී තිබේ.
+However, it is suspected that the man has already fled the island.
 
-මේ අතර ඝාතනයට සම්බන්ධවූ වෙඩික්කරුවන් දෙදෙනාගෙන් අයෙක් කවුරුන්ද යන්න පිළිබඳව මෙතෙක් තහවුරු වී නොමැත.
+Meanwhile, the number of two shooters involved in the murder has not yet been established.
 
-අපේ ජනබල පක්ෂයේ සභාපති සමන් පෙරේරා හෙවත් රෝයල් බීච් සමන් ඇතුළු පුද්ගලයන් පස්දෙනෙකු පසුගිය 22වනදා බෙලිඅත්තේදී වෙඩි තබා ඝාතනය කෙරුණි.
+Five people including chairman of our apological party Saman Perera and Royal Beach Samil were shot dead in Beliatta on the 22nd.
 
-ඒ සම්බන්ධයෙන් පාර්ශ්ව රැසක් විමර්ශන සිදුකළ අතර එහිදී අනාවරණ කරගෙන තිබුණේ ප්‍රහාරය සඳහා පැමිණි වෙඩික්කරුවන් දෙදෙනාගෙන් අයෙක් චම්පික ප්‍රසන්න කුමාර නම් නාවික හමුදාවේ විශ්‍රාමික සෙබළෙක් බවය.
+Several parties were investigated in the incident.
 
-ඔහු ඝාතනයෙන් අනතුරුව කඹුරුපිටිය බස්නැවතුම්පොළ අසලින් පෙජරෝ රථයෙන් බැස යන පුද්ගලයා බව විමර්ශන නිලධාරීන් පසුව අනාවරණ කරගත්තේය.
+Investigators later revealed that after the assassination, the investigation officials revealed that the petro was going down from the Kamburupitiya Bus Stand.
+
+After the assassination, he had gone to various parts and the October 29 am today
+
+It is also reported that he has been abroad using their real details abroad.
+
+Meanwhile, the Pigeor who had arrived in a murder was purchased in about Rs.
+
+He said that he had served in the CID and then served in the Ministerial Security.
 
 ...
 
 [Data](articles/d344447c.json)
 
+[Extended Data](ext_articles/d344447c.ext.json)
+
 ---
 
-### தாய்லாந்துக்கும் இலங்கைக்கு இடையே நாளாந்தம் விமான சேவை
+### Everyday Airlines between Thailand and Sri Lanka
 
 *2024-02-03 19:02:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்லாந்துக்கும்-இலங்கைக்கு-இடையே-நாளாந்தம்-விமான-சேவை/175-332591) · `ta`
 
-மார்ச் மாத இறுதியில் இருந்து தாய்லாந்து தாய்லாந்து மற்றும் இலங்கைக்கு இடையேயான நாளாந்த விமான சேவையான இன்டர்நேஷனல் ஏர்லைன்ஸ் மீண்டும் ஆரம்பிக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+Steps have been taken to resume the daily flight between Thailand and Sri Lanka, the International Airlines, from the end of March.
 
-ஜனாதிபதி செயலகத்தில் நடைபெற்ற இணை ஊடகவியலாளர் மாநாட்டில் இது தொடர்பில் கவனம் செலுத்தப்பட்டுள்ளது.
+This has been focused at the Joint Media Conference held at the Presidential Secretariat.
 
-மேலும், தாய்லாந்து மற்றும் இலங்கைக்கு இடையிலான சுற்றுலா, மீன்பிடி, விவசாயம் மற்றும் வர்த்தக ஒத்துழைப்புகளை மேலும் மேம்படுத்துவதை உறுதிசெய்ய தாய்லாந்து பிரதமர் இதை சுட்டிக்காட்டினார்.  R
+The Prime Minister of Thailand also pointed out this to ensure further improving the tourism, fishing, agriculture and trade cooperation between Thailand and Sri Lanka.R
 
 ◼️
 
 [Data](articles/c7f05e2c.json)
+
+[Extended Data](ext_articles/c7f05e2c.ext.json)
 
 ---
 
@@ -144,19 +156,21 @@ The Afghan group was collected for their first innings.
 
 ---
 
-### கெஹலிய திடீரென வைத்தியசாலையில் அனுமதி
+### Keheliya suddenly admitted to the hospital
 
 *2024-02-03 17:52:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-திடீரென-வைத்தியசாலையில்-அனுமதி/175-332590) · `ta`
 
-விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+Former Health Minister Keheliya Rambukwella has been admitted to the Prison Hospital.
 
-குற்றப் புலனாய்வுப் திணைக்களத்தின் அதிகாரிகளால் நேற்று (02) கைது செய்யப்பட்ட கெஹலிய ரம்புக்வெல்ல,
+Keheliya Rambukwella, who was arrested yesterday (02) by officials of the Criminal Investigation Department
 
-இன்று (03) மாளிகாகந்த நீதிமன்றத்திற்கு அழைத்து வரப்பட்ட நிலையில், எதிர்வரும் 15 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதிமன்றம் உத்தரவிட்டது.
+The court has ordered to be kept in remand until the 15th of this month.
 
 ◼️
 
 [Data](articles/4a5fa3a8.json)
+
+[Extended Data](ext_articles/4a5fa3a8.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 04:33:55**
+As of **2024-02-04 04:49:33**
 
 ## Newspaper Stats
 
@@ -26,29 +26,33 @@ dailymirrorlk | 643
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,607 (100.0%) of 4,608 articles have been extended.
+4,608 (100.0%) of 4,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
 
-### ’சுபீட்சமான இலங்கைக்காக செயலாற்றுவோம்’
+### We will work for Sri Lanka
 
 *2024-02-04 03:48:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுபீட்சமான-இலங்கைக்காக-செயலாற்றுவோம்/175-332606) · `ta`
 
-சுபீட்சமான இலங்கைக்காக உலக நாடுகளுடன் ஒத்துழைத்துச் செயலாற்றுவோம் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe has said that we will cooperate with the world for the prosperity of Sri Lanka.
 
-தாய்லாந்து உள்ளிட்ட கிழக்காசிய நாடுகள், ஆசியான் வலய நாடுகள் வசமாக காணப்படும் எதிர்காலத்துக்கான முன்னோடி பொருளாதார வலுவைக் கொண்டிருக்கும் தரப்புகளுடன் இருதரப்பு வர்த்தகத்தை பலப்படுத்திகொள்ள இலங்கை எதிர்பார்க்கிறது என்றும் அவர் தெரிவித்துள்ளார்.
+He said Sri Lanka expects to strengthen bilateral trade with the pioneer economic strength of the East Asian countries, including Thailand, and the ASEAN Zone.
 
-தாய்லாந்து பிரதமர் ஸ்ரேத்தா தவிசினுடனான இருதரப்பு சந்திப்பின் பின்னர் நேற்று  பிற்பகல் ஜனாதிபதி அலுவலகத்தில் நடைபெற்ற இரு தலைவர்களினதும் பங்கேற்புடன் இடம்பெற்ற இணை ஊடகவியலாளர் மாநாட்டிலேயே ஜனாதிபதி இவ்வாறு தெரிவித்தார்.
+The President made this statement at a joint media conference held at the Presidential Office held at the Presidential Office yesterday afternoon after a bilateral meeting with Thailand Prime Minister Shreta Tavisin.
 
-இணை ஊடகவியலாளர் மாநாட்டில் கலந்துகொண்ட பின்னர், தாய்லாந்து பிரதமர், ஜனாதிபதி அலுவலகத்தில் வைக்கப்பட்டுள்ள விசேட அதிதிகளின் நினைவுப் புத்தகத்திலும் எண்ணங்களைப் பதிவிட்டார்.
+After attending the Joint Media Conference, the Prime Minister of Thailand also posted thoughts in the Memorial of the Special Guests at the Presidential Office.
 
-இணை ஊடகவியலாளர் மாநாட்டில் தாய்லாந்து பிரதமர் ஷரேதா தவீசின் கருத்து தெரிவிக்கையில்,  2025 – 2027 வரையிலான மனித உரிமைகள் பேரவையின் உறுப்புரிமைக்கான ஆசியான் பிராந்திய அமைப்பின் பிரதித்துவமாக தாய்லாந்து செயற்படுகிறது என்று குறிப்பிட்டார்.
+Speaking at the Joint Media Conference, Thailand's Prime Minister Shareta Taiz said that Thailand is acting as a deputy of the ASEAN Regional Organization for Membership of the Human Rights Council from 2025 to 2027.
+
+Moreover, Thailand has a meditation status in the development of the conference's relations
 
 ...
 
 [Data](articles/aa99f603.json)
+
+[Extended Data](ext_articles/aa99f603.ext.json)
 
 ---
 

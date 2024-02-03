@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 23:33:05**
+As of **2024-02-03 23:51:31**
 
 ## Newspaper Stats
 
-*Scraped **4,602** Articles*
+*Scraped **4,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 239
 economynextcom | 253
 dailyftlk | 280
 newsfirstlk | 282
-adalk | 395
+adalk | 399
 virakesarilk | 518
 adaderanasinhalalk | 572
 adaderanalk | 579
@@ -26,11 +26,57 @@ dailymirrorlk | 643
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,602 (100.0%) of 4,602 articles have been extended.
+4,606 (100.0%) of 4,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### President and Thailand Prime Minister Conference
+
+*2024-02-03 22:55:18* · [`adalk`](https://www.ada.lk/picture_story/ජනපති-සහ-තායිලන්ත-අගමැති-ද්විපාර්ශ්වික-සාකච්ඡාවල/10-407881) · `si`
+
+Attention to enhance the cooperation between trade, tourism, fisheries and agriculture sectors.
+
+The President pays five on luxury hotels in Colombo and new investment opportunities in public enterprises
+
+President calls for assistance from Thailand to restore Sri Lankans affected by human trafficking in Myanmar.
+
+The leaders of the two countries focus on a new chapter of the historical relationship between Sri Lanka and Thailand.
+
+Thailandha Thavisin, Prime Minister of Thailandha Tavi Tavisin and President Ranil Wickremesinghe was held between the Sri Lanka and President Ranil Wickremesinghe today (03) at the Presidential Secretariat.
+
+Thailand's Prime Minister was very friendly by President Ranil Wickremesinghe.
+
+The welcomes took place with the acceptance of military saltiness with 19 saluts.
+
+After the introduction of the delegation in the two countries, two leaders joined a friendly talk.
+
+...
+
+[Data](articles/77e33339.json)
+
+[Extended Data](ext_articles/77e33339.ext.json)
+
+---
+
+### 8 billion bead leaves nabbed with army intelligence head
+
+*2024-02-03 22:44:30* · [`adalk`](https://www.ada.lk/breaking_news/යුධ-හමුදා-බුද්ධි-ඔත්තුවෙන්-හොර-පාරෙන්-ගෙනා-කෝටි-8-ක-බීඩි-කොළ-දැලේ/11-407880) · `si`
+
+According to the Army Intelligence Union, 2058.3 kilograms of beed leaves were arrested by the Army Intelligence, which is suspected to import the illegal from the sea.
+
+The lorry has been arrested with a suspect when transporting the stock of illegal beeded leaves from Negombo to Jail canals.
+
+The suspect is a resident of Negombo and has been handed over to the Customs Review Office of the Katunayake.
+
+◼️
+
+[Data](articles/682494d2.json)
+
+[Extended Data](ext_articles/682494d2.ext.json)
+
+---
 
 ### 51 people living in 7 districts of the North and East
 
@@ -309,6 +355,22 @@ They have been sentenced to another seven years in prison for the fault.
 [Data](articles/816e07ad.json)
 
 [Extended Data](ext_articles/816e07ad.ext.json)
+
+---
+
+### Keheliya Prison Hospital
+
+*2024-02-03 20:39:15* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-බන්ධනාගාර-රෝහලට/11-407878) · `si`
+
+Former Health Minister Keheliya Rambukwella has been admitted to the Prison Hospital due to a condition.
+
+The former Health Minister has been admitted to the Prison Hospital following the medical recommendation.
+
+◼️
+
+[Data](articles/dcacabd3.json)
+
+[Extended Data](ext_articles/dcacabd3.ext.json)
 
 ---
 
@@ -1178,6 +1240,26 @@ The INS will leave the country on the 05th after completing an official trip to 
 
 ### Indian submarine returns to Colombo
 
+*2024-02-03 13:41:21* · [`adalk`](https://www.ada.lk/uncategorized/ඉන්දීය-සබ්මැරිනයක්-කොළඹට-එයි/1-407876) · `si`
+
+In the morning of the Indian Navy, the Siriranj submarine arrived at the Port of Colombo today (February 2024).
+
+The inscription of the Colombo port is comprised of 67.5 meters and 53 meters and 53 meters and 53 meters and 53 meters.
+
+The 'Ins Karanj' submarine is scheduled to attend a awareness program on its operational operation during the period of operational operation.
+
+Further, on February 20, 2024, will be leaving the island on February 5, 2024 ending the official visit.
+
+◼️
+
+[Data](articles/5644884d.json)
+
+[Extended Data](ext_articles/5644884d.ext.json)
+
+---
+
+### Indian submarine returns to Colombo
+
 *2024-02-03 13:41:21* · [`adalk`](https://www.ada.lk/picture_story/ඉන්දීය-සබ්මැරිනයක්-කොළඹට-එයි/10-407876) · `si`
 
 In the morning of the Indian Navy, the Siriranj submarine arrived at the Port of Colombo today (February 2024).
@@ -1933,85 +2015,5 @@ Among the arrestees are 567 suspects who were taken into custody on narcotics-re
 [Data](articles/ec47c066.json)
 
 [Extended Data](ext_articles/ec47c066.ext.json)
-
----
-
-### Karl Werers killed
-
-*2024-02-03 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192912) · `si`
-
-According to foreign reports, the Carl Werers who started life in the middle of the 1970s, Carl Werers were 76 years old.
-
-In 1987, the Werers who played the 'Prredetter' in 1987 and recently contributed to the Star Wars' ballore on the small screen.
-
-His contribution to movies, television, art, arts and games, he has placed a long sign.
-
-◼️
-
-[Data](articles/d6beb80b.json)
-
-[Extended Data](ext_articles/d6beb80b.ext.json)
-
----
-
-### 770 suspects arrested
-
-*2024-02-03 09:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192911) · `si`
-
-770 criminals have been arrested by operations island wide during the 24 hours of 'Justice' operation.
-
-In the meantime, there are 567 suspects in the list of drugs and the list of criminal sections.
-
-4,416 grams, 1,416 grams, 129G, 129G, 129G, 129G, 129G, 129G, 129Gs, 129Gs, 129G, 129G, 129G, 129Gs, 129Gs, 129G, 129G, 129Gs, 129Gs, 129Gs, 129G, 129G, 129Gs, were found in their possession.
-
-Among the 567 suspects of drug misconduct, 6 suspects are conducted on detention orders and two drug addicts have been rehabilitated.
-
-Five suspects have been arrested in the Police Narcotics Bureau and the Police Special Bureau's list.
-
-Also, among the 203 suspects arrested on the list of the list of the criminal sections, there are 160 suspects who were released in drugs and non-drug errors.
-
-11 suspects and 11 suspects who were not arrested in the media and 11 suspects have been arrested in operations.
-
-◼️
-
-[Data](articles/b7ab58dc.json)
-
-[Extended Data](ext_articles/b7ab58dc.ext.json)
-
----
-
-### One person arrested in Wettala with drug pills worth Rs 100 million
-
-*2024-02-03 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175423) · `ta`
-
-A person has been arrested by Special Task Force with drug pills in the Wattala - Aentaramulla area.
-
-Special Task Force said the value of the seized pills was 100 million rupees.
-
-◼️
-
-[Data](articles/a460f843.json)
-
-[Extended Data](ext_articles/a460f843.ext.json)
-
----
-
-### STF busts major narcotics haul worth Rs. 100 million in Wattala
-
-*2024-02-03 08:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/STF-busts-major-narcotics-haul-worth-Rs-100-million-in-Wattala/108-276273) · `en`
-
-Wattala, Feb 3 (Daily Mirror) - The Police Special Task Force (STF) arrested a 39-year-old individual in Wattala and siezed 192,000 narcotic pills with a street value exceeding Rs. 100 million.
-
-Acting on an intelligence report provided by the STF Intelligence Division, a team of officers led by CI Nadeeka Silva raided a residence in Wattala last night.
-
-During the operation, the STF arrested a suspect in possession of 192,000 150 mg capsules of Pregab (PREGAB), a substance utilized illicitly.
-
-Police said both the suspect and the substantial cache of narcotics were handed over to the custody of the Ederamulla Police Station.
-
-◼️
-
-[Data](articles/91e74d81.json)
-
-[Extended Data](ext_articles/91e74d81.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 08:33:53**
+As of **2024-02-03 08:51:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 619
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,475 (99.9%) of 4,478 articles have been extended.
+4,478 (100.0%) of 4,478 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -70,6 +70,8 @@ Special traffic plan in action in Colombo for Independence day celebration
 
 [Data](articles/d91300dc.json)
 
+[Extended Data](ext_articles/d91300dc.ext.json)
+
 ---
 
 ### FSL promote 14 officials as FIFA Referees
@@ -111,6 +113,8 @@ Special traffic plan in action in Colombo for Independence day celebration
 ◼️
 
 [Data](articles/9c16b63a.json)
+
+[Extended Data](ext_articles/9c16b63a.ext.json)
 
 ---
 
@@ -211,6 +215,8 @@ The Ministry of Foreign Affairs stated that the development of trade and investm
 ...
 
 [Data](articles/432cb4c9.json)
+
+[Extended Data](ext_articles/432cb4c9.ext.json)
 
 ---
 

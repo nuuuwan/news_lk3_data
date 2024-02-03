@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 11:02:24**
+As of **2024-02-03 11:17:29**
 
 ## Newspaper Stats
 
-*Scraped **4,513** Articles*
+*Scraped **4,519** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,112 @@ bbccomsinhala | 69
 dbsjeyarajcom | 134
 islandlk | 238
 economynextcom | 252
-newsfirstlk | 278
+newsfirstlk | 280
 dailyftlk | 280
-adalk | 391
+adalk | 392
 virakesarilk | 503
 adaderanasinhalalk | 551
 adaderanalk | 561
-tamilmirrorlk | 573
-dailymirrorlk | 629
+tamilmirrorlk | 575
+dailymirrorlk | 630
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,513 (100.0%) of 4,513 articles have been extended.
+4,513 (99.9%) of 4,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### SLPP demands resolution of issues
+
+*2024-02-03 10:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-demands-resolution-of-issues/108-276271) · `en`
+
+Colombo, Feb 3 (Daily Mirror) - In a recent meeting with President Ranil Wickremesinghe, the Sri Lanka Podujana Peramuna (SLPP) emphasized the necessity of addressing key issues before committing to support him in the upcoming presidential election, according to a reliable source.
+
+The meeting, initially planned at the President’s official residence, saw a change of venue to the Presidential Secretariat. SLPP General Secretary Sagara Kariyawasam objected to the meeting being turned into an all-party gathering without prior notice.
+
+Initially invited to the President’s residence, the SLPP attended the meeting under the impression that it would be an exclusive discussion between the party and the President.
+
+At the outset of the meeting, President Wickremesinghe expressed his intent to gather perspectives on the modalities for contesting the forthcoming presidential election.
+
+...
+
+[Data](articles/c60b4e31.json)
+
+---
+
+### மலையகக்குயில் அஷாணிக்கு கௌரவிப்பு
+
+*2024-02-03 10:31:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையகக்குயில்-அஷாணிக்கு-கௌரவிப்பு/76-332586) · `ta`
+
+மலையக மண்ணுக்கு பெருமை தேடிக்கொடுத்த மலையக  குயில் அஷாணியை கௌரவிக்கும் நிகழ்வு இம்மாதம் 4 ஆம்  திகதி சுதந்திர தினத்தன்று கொட்டக்கலை வூட்டன் கோவில் மண்டபத்தில் நடைபெறவுள்ளது.
+
+மலையகத்தின் இலை மறை காயாக இருந்து தென்னிந்திய தொலைக்காட்சியில் சரி கம பா நிகழ்ச்சியில் கலந்து கொண்டு தனது இசைத்துறையில் உள்ள திறமைகளை வெளிகாட்டி மலையக மண்ணுக்கு கௌரவத்தை தேடி கொடுத்த மலையக குயில் கௌரவிப்பதற்கான ஏற்பாடுகளை மலையக மக்கள் சக்தி முன்னெடுத்துள்ளது.
+
+அமைப்பின் தலைவர் ராமன் செந்தூரன் தலைமையில் நடைபெற இருக்கும் இந்நிகழ்வில் அனைவரையும் கலந்து கொள்ளுமாறு அழைக்கப்படுகின்றனர். R
+
+◼️
+
+[Data](articles/1408705a.json)
+
+---
+
+### 2 arrested in connection to Jinthupitiya murder
+
+*2024-02-03 10:25:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/03/2-arrested-in-connection-to-jinthupitiya-murder/) · `en`
+
+COLOMBO (News 1st) – 2 were arrested in connection to the shooting that killed a person in Aduruppuveediya in Colombo.
+
+The two suspects are 28 and 39 years of age and residents of Kadawatha and Aduruppuveediya.
+
+The main suspect of the murder was arrested by the Aduruppuveediya police.
+
+The shooting took place on the 24th of January in Jinthupitiya, Aduruppuveediya.
+
+Special traffic plan in action in Colombo for Independence day celebration
+
+◼️
+
+[Data](articles/bb58dce2.json)
+
+---
+
+### Operation Yukthiya nets 770 suspects in 24 hours
+
+*2024-02-03 10:21:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/03/operation-yukthiya-nets-770-suspects-in-24-hours/) · `en`
+
+COLOMBO (News 1st) – 770 suspects were apprehended in the past 24 hours under Operation Yukthiya.
+
+The Ministry of Public Security says that 203 suspects are on the list forwarded to the country's crime control authorities.
+
+Police seized 132 grams of Heroin, 128 grams of ICE, and 15kg and 900 grams of cannabis as well.
+
+6 of the apprehended suspects are being questioned based on detention orders.
+
+Special traffic plan in action in Colombo for Independence day celebration
+
+◼️
+
+[Data](articles/75ee4d63.json)
+
+---
+
+### 2 கிலோ கஞ்சாவுடன் நபர் கைது
+
+*2024-02-03 10:20:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-கிலோ-கஞ்சாவுடன்-நபர்-கைது/175-332584) · `ta`
+
+பொலிஸ் விசேட பணியகத்திற்கு கிடைத்த தகவலின் படி சுற்றி வளைப்பில் ஈடுபட்ட பொலிஸார் பூநகரி பள்ளிக்குடாவில் கேரள கஞ்சா 02 கிலோ 100 கிராமுடன் நபர் ஒருவரை கைது செய்துள்ளனர்.
+
+பூநகரி பொலிஸாரினால் கைது செய்யப்பட்ட 43 வயதுடைய நபர் நீதிமன்றத்தில் முன்னிலைப்படுத்தப்பட உள்ளார். R
+
+◼️
+
+[Data](articles/54240f8c.json)
+
+---
 
 ### Yall. Tamil People's Alliance supports university student union struggle
 
@@ -527,6 +615,24 @@ The collective said it would have been best if the campaign had been commenced w
 [Data](articles/d87fa776.json)
 
 [Extended Data](ext_articles/d87fa776.ext.json)
+
+---
+
+### ටෙස්ට්, එක්දින හා විස්සයි20 තරගාවලියකට ලංකාව බංග්ලදේශයට, මැතිව්ස්ට වාඩුව ගැනීමට අවස්ථාවක්
+
+*2024-02-03 08:08:08* · [`adalk`](https://www.ada.lk/sports/ටෙස්ට්--එක්දින-හා-විස්සයි20-තරගාවලියකට-ලංකාව-බංග්ලදේශයට--මැතිව්ස්ට-වාඩුව-ගැනීමට-අවස්ථාවක්/9-407874) · `si`
+
+ටෙස්ට් ලෝක ශූරතාවලියේ තරග දෙකකට, එක්දින තරග තුනකට හා විස්සයි20 තරග තුනකට එක්වීම සඳහා ශ්‍රී ලංකා කණ්ඩායම ලබන මාසයේදි බංග්ලදේශයේ සංචාරය කිරීමට නියමිතය.
+
+තරගාවලියට එක්වීම සඳහා ශ්‍රි ලංකා කණ්ඩායම මාර්තු 01 දා ඩකා වෙත ළගාවීමට නියමිතය. මුලින්ම විස්සයි20 තරග තුන පැවැත්වෙන අතර එම තරග මාර්තු 4, 6 හා 9 දා සියල්හොට්හිදී පැවැත්වෙයි.
+
+ඉන් අනතුරුව එක්දින තරග තුන 13දා, 15 දා හා 18 දා චිතගොංහි පැවැත්වීමට නියමිතය. මෙම තරග තුනෙන් පළමු තරග දෙක දිවා රාත්‍රී තරග ලෙසින් පැවැත්වෙන අතර තෙවැනි තරගය දිවා තරගයක් ලෙසින් පැවැත්වෙයි.
+
+ඉන් අනතුරුව ටෙස්ට් තරග දෙක පැවැත්වීමට නියමිතය. එම තරග දෙනේ පළමු ටෙස්ට් තරගය මාර්තු 22 දා සියල්හොට් හිදී ආරම්භ වීමට නියමිත අතර දෙවැනි තරගය චිතගොං හිදී මාර්තු 30 ආරම්භ වීමට නියමිතය.
+
+◼️
+
+[Data](articles/034e635e.json)
 
 ---
 
@@ -1839,117 +1945,5 @@ Speaking at a press conference held at the Government Information Department, Po
 [Data](articles/5f09ad3f.json)
 
 [Extended Data](ext_articles/5f09ad3f.ext.json)
-
----
-
-### Dr. Neelan Tiruchelvam: Foremost Intellectual was the Brightest Star In Tamil Political Firmament.
-
-*2024-02-02 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83524) · `en`
-
-Today (Jan 31) is the birthday of eminent constitutional lawyer, academic and politician Dr. Neelakandan Tiruchelvam. Neelan as he was popularly known would have completed eighty  years , had he been among the living today. Born on January 31, 1944, Neelan Tiruchelvam was brutally assassinated 25 years ago by the   Liberation Tigers of Tamil Eelam(LTTE)  on July 29, 1999. He was 55 at the time of his death.
-
-I had a close personal relationship with Neelan. He was my friend, philosopher and guide. He was greatly instrumental in moulding my career. He was in a sense my political mentor. It was as a journalist on the Tamil daily “Virakesari” that I first began interacting with Neelan Tiruchelvam. My relationship with him grew over the years as I moved into English journalism via ‘‘The Island ‘’and ‘‘The Hindu ‘’.
-
-...
-
-[Data](articles/528a9dbd.json)
-
-[Extended Data](ext_articles/528a9dbd.ext.json)
-
----
-
-### Tamil Nadu’s First DMK Chief Minister CN Annadurai known as “Anna” made very significant contributions to Tamil theatre, cinema,  and literature.
-
-*2024-02-02 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83543) · `en`
-
-Former Chief Minister C.N. Annadurai may have been instrumental in shaping the course of Tamil Nadu’s political history. But his artistic and literary persona played a major role in his achieving the rare iconic status he enjoyed.
-
-His contributions as a writer and actor undoubtedly aided him in his propaganda all the way. However, when viewed sans the political agenda, his work can be seen as having made very significant contributions to Tamil theatre, cinema and literature.
-
-Some of Anna’s plays were made into films and are regarded as very important productions in Kollywood. ’Velaikkari’ and ’Or Iravu’ are two of his most popular films.
-
-Both were stage plays penned by him that were later made into films which also had Anna penning the story and dialogue. In fact, at one point producers began capitalising on the audience’s response to mere mention of ’Kadai, Vasanam – C.N.Annadurai’ on the title cards. So much so that it would precede even the actors’ and directors’ names.
-
-...
-
-[Data](articles/ab759710.json)
-
-[Extended Data](ext_articles/ab759710.ext.json)
-
----
-
-### UN Warns Sri Lanka’s Online Safety Act Threatens Human Rights
-
-*2024-02-02 18:06:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/un-warns-sri-lanka-s-online-safety-act-threatens-human-rights/) · `en`
-
-COLOMBO (News 1st); The UN Human Rights Office on Friday (2) said that Sri Lanka's new Online Safety Act will have far reaching negative implications for human rights, including freedom of expression.
-
-In a statement posted on X, formerly known as Twitter, the UN Human Rights Office urges the government of Sri Lanka to consider amending the law to address concerns of civil society & industry groups & ensure it complies with human rights obligations
-
-Special traffic plan in action in Colombo for Independence day celebration
-
-◼️
-
-[Data](articles/06e18cbd.json)
-
-[Extended Data](ext_articles/06e18cbd.ext.json)
-
----
-
-### Former Health Minister and  current Environment Minister Keheliya Rambukwella arrested by the CID (CID) in connection with the controversial scam involving the importat of substandard human immunoglobulin IV vials to Sri Lanka.
-
-*2024-02-02 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83540) · `en`
-
-Former Health Minister and the current Environment Minister Keheliya Rambukwella was arrested by the Criminal Investigations Department (CID) yesterday in connection to the controversial scam involving the import of substandard human immunoglobulin IV vials to Sri Lanka.
-
-Rambukwella was taken into custody following a 10-hour statement provided to the Criminal Investigation Department (CID). On Thursday Maligakanda Magistrate Lochani Abeywickrama, issued an order for him to appear before the CID yesterday after he failed to appear before the CID earlier in the week and had submitted written justifications for his absence.
-
-...
-
-[Data](articles/1027796b.json)
-
-[Extended Data](ext_articles/1027796b.ext.json)
-
----
-
-### A gang who abducted the teenager and attacked
-
-*2024-02-02 17:51:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞனை-கடத்திச்-சென்று-சரமாரியாக-தாக்கிய-கும்பல்/175-332559) · `ta`
-
-A group of thugs who abducted a youth in the Embilipitiya area have been attacked with sharp weapons in the forest.
-
-The police said that the youth's life was saved by a search operation in the area by Kuttikala and Embilipitiya.
-
-An unidentified youth from Kirulavelgaduwa area, Embilipitiya, was attacked, police said.
-
-In addition, police said that when the police surrounded the place, the culprits escaped in the van and one of the suspects was arrested in a major attempt.. Remble
-
-◼️
-
-[Data](articles/3731267d.json)
-
-[Extended Data](ext_articles/3731267d.ext.json)
-
----
-
-### Kandy doctors who have successfully attached the disconnected hand
-
-*2024-02-02 17:41:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துண்டிக்கப்பட்ட-கையை-வெற்றிகரமாக-இணைத்த-கண்டி-மருத்துவர்கள்/175-332558) · `ta`
-
-A team led by Special Survey expert at the Kandy National Hospital, Dr. Amy Sasanka Ratnayake, has successfully re -applied the shredded right hand of a woman.
-
-When cleaning the coconut chopping machine, the engine suddenly started working, the area on the top of the elbow of the right hand, trapped in the machine, was pushed from the shoulder to four inches.
-
-A 35 -year -old woman from Anuradhapura faced the accident. After a six -hour surgery carried out at the Kandy Hospital, the hand is successfully attached.
-
-Under the guidance of Dr. Aila Sasanka Ratnayake, Dr. Udaya Gridena, plastic surgeon Samila Jayaratne, Dr. Sadeera Premaratne, Senior Registrar, Senior Registrar Udara Ratnayake, Anesthan expert Dr. Uduwela, Dr. Kasun and Senaka were involved in the operation.
-
-Nurses, including Shyama Nanayakkara, Siddara Suraweera, Chandima Senawaratne, Thilini Abeywardena, Endi Madushani and Sasani Costa, helped the operation.. Remble
-
-◼️
-
-[Data](articles/aba4e2e3.json)
-
-[Extended Data](ext_articles/aba4e2e3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 14:49:29**
+As of **2024-02-03 15:02:25**
 
 ## Newspaper Stats
 
-*Scraped **4,543** Articles*
+*Scraped **4,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 239
 economynextcom | 253
 newsfirstlk | 280
 dailyftlk | 280
-adalk | 392
+adalk | 393
 virakesarilk | 511
 adaderanasinhalalk | 556
 adaderanalk | 564
@@ -26,7 +26,7 @@ dailymirrorlk | 633
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,543 (100.0%) of 4,543 articles have been extended.
+4,543 (100.0%) of 4,544 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -994,6 +994,18 @@ Meanwhile, a special traffic plan will be implemented in Colombo today and tomor
 
 ---
 
+### ජනවාරියේදී සංචාරකයන් 208253ක් ඇවිත්
+
+*2024-02-03 08:15:09* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරියේදී-සංචාරකයන්-208253ක්-ඇවිත්/11-407875) · `si`
+
+මේ වසරේ ජනවාරි මාසයේදී සංචාරකයන් 208 253ක් දිවයිනට පැමිණ ඇති බව සංචාරක අමාත්‍ය හරින් ප්‍රනාන්දු මහතා සිය ට්විටර් ගිණුමේ ඇතුළත් කළ දත්ත සටහක දැක්වෙයි. එය පසුගිය වසරේ ජනවාරි (102545) හා සැසදීමේදී සියයට 103ක වර්ධනයකි.
+
+◼️
+
+[Data](articles/1887b7e6.json)
+
+---
+
 ### Yukthiya operation should not be passionate or personal initiative outside law
 
 *2024-02-03 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yukthiya-operation-should-not-be-passionate-or-personal-initiative-outside-law/108-276269) · `en`
@@ -1953,27 +1965,5 @@ When they died before the age of 55, the salaries and allowances were to be prov
 [Data](articles/0037cb00.json)
 
 [Extended Data](ext_articles/0037cb00.ext.json)
-
----
-
-### Sri Lanka's first honors date
-
-*2024-02-02 20:42:03* · [`adalk`](https://www.ada.lk/sports/පළමු-දිනයේ-වැඩි-ගෞරව-ශ්‍රී-ලංකාවට/9-407872) · `si`
-
-SSC between Sri Lanka team and Sri Lankan team. When the first day of the Test match of the Test, Sri Lanka, the Sri Lankan team scored 80 runs.
-
-The Afghan group scored 198 marks to bat first.
-
-Shasan Shah scored 91 runs in Afghanistan, but the Afghan innings were limited to 198 marks.
-
-Asapha Fernando took 3 wickets for 24 runs and 41 runs and Prabath Jayasuriya took 3 wickets for 67 runs.
-
-Sri Lanka 36 * and Dimuth Karunaratne who started innings was 42 * from the Sri Lankan innings to 80 runs.
-
-◼️
-
-[Data](articles/62c8070d.json)
-
-[Extended Data](ext_articles/62c8070d.ext.json)
 
 ---

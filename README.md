@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 08:51:18**
+As of **2024-02-03 09:02:27**
 
 ## Newspaper Stats
 
-*Scraped **4,478** Articles*
+*Scraped **4,480** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ newsfirstlk | 278
 dailyftlk | 280
 adalk | 390
 virakesarilk | 499
-adaderanasinhalalk | 544
+adaderanasinhalalk | 545
 adaderanalk | 556
 tamilmirrorlk | 565
-dailymirrorlk | 619
+dailymirrorlk | 620
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,478 (100.0%) of 4,478 articles have been extended.
+4,478 (100.0%) of 4,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### Yukthiya operation should not be passionate or personal initiative outside law
+
+*2024-02-03 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yukthiya-operation-should-not-be-passionate-or-personal-initiative-outside-law/108-276269) · `en`
+
+The Lawyers’ Collective, in an open letter to Minister of Public Security Tiran Alles yesterday said the Yukthiya Anti-drug Campaign must conform to the rule of law and should not be a passionate, personal initiative that seeks implementation outside the law.
+
+The collective said it would have been best if the campaign had been commenced when the Minister took office rather than in the election year of 2024. The letter is as follows; We are writing this letter to you as members of the Lawyers Collective. we will send copies to the President and Prime Minister and will place the letter in the public domain. we are doing so because we consider the manner in which you are exercising your powers in the “Yukthiya” anti-Drug Campaign, a matter of grave public concern.
+
+...
+
+[Data](articles/7c641d6f.json)
+
+---
+
+### දූරියන් ගසක ඇද තිබූ විදුලි රැහැනක පැටලී තරුණයෙක් මරුට
+
+*2024-02-03 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192910) · `si`
+
+බටහිර පත්බේරිය - වටප්පිටිය ප්‍රදේශයේ පෞද්ගලික ඉඩමක මිය ගොස් සිටි පිරිමි පුද්ගලයෙකුගේ මළ සිරුරක් තිබී හමු ව ඇත.
+
+ඇහැලියගොඩ පොලීසියට ලද දැනුම්දීමක් මත ඒ සම්බන්ධයෙන් සිදු කළ විමර්ශනයකට අනුව හෙළි වී ඇත්තේ, මිය ගිය පුද්ගලයා අවුරුදු 27ක වටප්පිටිය - පරකඩුව ප්‍රදේශයේ පදිංචි ව සිටි පුද්ගලයෙකු බවයි.
+
+මිය ගිය පුද්ගලයා එක් පාදයක පිළිස්සුම් තුවාල සහිත ව එම ඉඩමේ දූරියන් ගසක් ආසන්නයේ වැටී සිට තිබේ.
+
+ඉඩමේ හිමිකරු විසින් දූරියන් ආරක්ෂා කරගැනීමට ඉඩමට විදුලි රැහැන් ඇද තිබී ඇති අතර, මෙම පුද්ගලයා විදුලිසැර වැදීමෙන් මිය ගොස් ඇති බවට පොලීසිය සිදු කළ විමර්ශන අනුව වැඩිදුරටත් අනාවරණය වී ඇත.
+
+මේ සම්බන්ධයෙන් ඉඩමේ හිමිකරු වූ 51 හැවිරිදි පුද්ගලයෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/742a216c.json)
+
+---
 
 ### A notification from the Railway Department
 
@@ -274,9 +308,7 @@ US Central Command said its forces conducted airstrikes against Iran’s Islamic
 
 The strikes came from a range of US forces, including long-range B1 bombers that flew in from the United States. Seven locations were hit – four in Syria and three in Iraq – with over 125 bombs and missiles.
 
-UN Warns Sri Lanka’s Online Safety Act Threatens Human Rights
-
-Understanding Sri Lanka’s Online Safety Act: What You Need to Know
+Special traffic plan in action in Colombo for Independence day celebration
 
 ◼️
 
@@ -980,9 +1012,7 @@ In addition, the Maligakanda Magistrate imposed an overseas travel ban on the Mi
 
 As per the court order, Keheliya Rambukwella appeared at the CID at 9 AM.
 
-UN Warns Sri Lanka’s Online Safety Act Threatens Human Rights
-
-Understanding Sri Lanka’s Online Safety Act: What You Need to Know
+Special traffic plan in action in Colombo for Independence day celebration
 
 ◼️
 
@@ -1222,9 +1252,7 @@ COLOMBO (News 1st); The UN Human Rights Office on Friday (2) said that Sri Lanka
 
 In a statement posted on X, formerly known as Twitter, the UN Human Rights Office urges the government of Sri Lanka to consider amending the law to address concerns of civil society & industry groups & ensure it complies with human rights obligations
 
-UN Warns Sri Lanka’s Online Safety Act Threatens Human Rights
-
-Understanding Sri Lanka’s Online Safety Act: What You Need to Know
+Special traffic plan in action in Colombo for Independence day celebration
 
 ◼️
 
@@ -1991,47 +2019,5 @@ The Asia Internet Coalition, an industry association that promotes understanding
 [Data](articles/d6588cb7.json)
 
 [Extended Data](ext_articles/d6588cb7.ext.json)
-
----
-
-### India releases pigeon accused of spying for China
-
-*2024-02-02 15:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-releases-pigeon-accused-of-spying-for-China/108-276216) · `en`
-
-Indian police released a pigeon after eight months in custody, as it was finally cleared of charges of being a suspected Chinese spy.
-
-The bird was caught at Pir Pau Jetty in the Mumbai suburb of Chemburin. It had two rings tied to its leg with "messages written in a Chinese-like script" on its wings, Indian daily newspaper Times of India reported.
-
-Police took in the pigeon, later sending it to Mumbai's Bai Sakarbai Dinshaw Petit Hospital for Animals.
-
-A case of spying was registered against the bird, but later dropped upon completion of the inquiry.
-
-Police found out that it was an open-water racing bird from Taiwan that had escaped and made its way to India.
-
-A representative from the non-profit organization People for the Ethical Treatment of Animals (PETA) got in touch with the police asking for the release of the pigeon.
-
-The bird was transferred from the hospital to the Bombay Society for the Prevention of Cruelty to Animals, whose doctors set it free on Tuesday.
-
-...
-
-[Data](articles/c8c044c6.json)
-
-[Extended Data](ext_articles/c8c044c6.ext.json)
-
----
-
-### Sri Lanka secures USD 150 million from World Bank
-
-*2024-02-02 15:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-secures-USD-150-million-from-World-Bank/108-276220) · `en`
-
-Colombo, Feb 02 (Daily Mirror) -  The Government of Sri Lanka has negotiated a financial assistance package of USD 150 million from the International Development Association (IDA) of the World Bank Group. The funds are earmarked for the implementation of the Financial Sector Safety Net Strengthening Project.
-
-The primary focus of the project is to enhance the robustness of Sri Lanka's financial sector safety net, with particular attention to the Sri Lanka Deposit Insurance Scheme (SLDIS), managed by the Central Bank of Sri Lanka (CBSL). The initiative aims to fortify the financial and institutional capacities of SLDIS, aligning them with international best practices governing effective deposit insurance schemes.
-
-...
-
-[Data](articles/87c30f6e.json)
-
-[Extended Data](ext_articles/87c30f6e.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 19:17:18**
+As of **2024-02-03 19:32:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,579 (100.0%) of 4,580 articles have been extended.
+4,580 (100.0%) of 4,580 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -105,6 +105,8 @@ The pair put on a 232-run partnership for the fourth wicket, before Chandimal wa
 ...
 
 [Data](articles/87ed5803.json)
+
+[Extended Data](ext_articles/87ed5803.ext.json)
 
 ---
 

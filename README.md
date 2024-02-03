@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 15:02:25**
+As of **2024-02-03 15:17:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 633
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,543 (100.0%) of 4,544 articles have been extended.
+4,544 (100.0%) of 4,544 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -994,15 +994,17 @@ Meanwhile, a special traffic plan will be implemented in Colombo today and tomor
 
 ---
 
-### ජනවාරියේදී සංචාරකයන් 208253ක් ඇවිත්
+### 208253 tourists arrived in January
 
 *2024-02-03 08:15:09* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරියේදී-සංචාරකයන්-208253ක්-ඇවිත්/11-407875) · `si`
 
-මේ වසරේ ජනවාරි මාසයේදී සංචාරකයන් 208 253ක් දිවයිනට පැමිණ ඇති බව සංචාරක අමාත්‍ය හරින් ප්‍රනාන්දු මහතා සිය ට්විටර් ගිණුමේ ඇතුළත් කළ දත්ත සටහක දැක්වෙයි. එය පසුගිය වසරේ ජනවාරි (102545) හා සැසදීමේදී සියයට 103ක වර්ධනයකි.
+Travel Minister Harin Fernando is in the country's Twitter account that 208 tourists have arrived in the island in January this year.It is a 103 percent growth in January (102545).
 
 ◼️
 
 [Data](articles/1887b7e6.json)
+
+[Extended Data](ext_articles/1887b7e6.ext.json)
 
 ---
 

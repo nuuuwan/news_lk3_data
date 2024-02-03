@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 11:17:29**
+As of **2024-02-03 11:33:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 630
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,513 (99.9%) of 4,519 articles have been extended.
+4,519 (100.0%) of 4,519 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,21 +48,25 @@ At the outset of the meeting, President Wickremesinghe expressed his intent to g
 
 [Data](articles/c60b4e31.json)
 
+[Extended Data](ext_articles/c60b4e31.ext.json)
+
 ---
 
-### மலையகக்குயில் அஷாணிக்கு கௌரவிப்பு
+### Honor to Ashani in the hill country
 
 *2024-02-03 10:31:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையகக்குயில்-அஷாணிக்கு-கௌரவிப்பு/76-332586) · `ta`
 
-மலையக மண்ணுக்கு பெருமை தேடிக்கொடுத்த மலையக  குயில் அஷாணியை கௌரவிக்கும் நிகழ்வு இம்மாதம் 4 ஆம்  திகதி சுதந்திர தினத்தன்று கொட்டக்கலை வூட்டன் கோவில் மண்டபத்தில் நடைபெறவுள்ளது.
+The event will be held at the Kottakkalai Wutton Temple Hall on the 4th of this month at the Kotakkalai Woodon Temple Hall.
 
-மலையகத்தின் இலை மறை காயாக இருந்து தென்னிந்திய தொலைக்காட்சியில் சரி கம பா நிகழ்ச்சியில் கலந்து கொண்டு தனது இசைத்துறையில் உள்ள திறமைகளை வெளிகாட்டி மலையக மண்ணுக்கு கௌரவத்தை தேடி கொடுத்த மலையக குயில் கௌரவிப்பதற்கான ஏற்பாடுகளை மலையக மக்கள் சக்தி முன்னெடுத்துள்ளது.
+The Upcountry Power has made arrangements to honor the hill country quail, who attended the Kama Pa event on the South Indian television show from the leaf of the hill country and searched for the honor of the hill country.
 
-அமைப்பின் தலைவர் ராமன் செந்தூரன் தலைமையில் நடைபெற இருக்கும் இந்நிகழ்வில் அனைவரையும் கலந்து கொள்ளுமாறு அழைக்கப்படுகின்றனர். R
+The event will be chaired by the President of the organization Raman Senthuran to attend the event.. Remble
 
 ◼️
 
 [Data](articles/1408705a.json)
+
+[Extended Data](ext_articles/1408705a.ext.json)
 
 ---
 
@@ -84,6 +88,8 @@ Special traffic plan in action in Colombo for Independence day celebration
 
 [Data](articles/bb58dce2.json)
 
+[Extended Data](ext_articles/bb58dce2.ext.json)
+
 ---
 
 ### Operation Yukthiya nets 770 suspects in 24 hours
@@ -104,19 +110,23 @@ Special traffic plan in action in Colombo for Independence day celebration
 
 [Data](articles/75ee4d63.json)
 
+[Extended Data](ext_articles/75ee4d63.ext.json)
+
 ---
 
-### 2 கிலோ கஞ்சாவுடன் நபர் கைது
+### Arrested in person with 2 kg of cannabis
 
 *2024-02-03 10:20:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-கிலோ-கஞ்சாவுடன்-நபர்-கைது/175-332584) · `ta`
 
-பொலிஸ் விசேட பணியகத்திற்கு கிடைத்த தகவலின் படி சுற்றி வளைப்பில் ஈடுபட்ட பொலிஸார் பூநகரி பள்ளிக்குடாவில் கேரள கஞ்சா 02 கிலோ 100 கிராமுடன் நபர் ஒருவரை கைது செய்துள்ளனர்.
+According to information received by the Police Special Bureau, the police have arrested a man with a 2 kg of 100 grams of Kerala ganja at Poonakari Pallikkuda.
 
-பூநகரி பொலிஸாரினால் கைது செய்யப்பட்ட 43 வயதுடைய நபர் நீதிமன்றத்தில் முன்னிலைப்படுத்தப்பட உள்ளார். R
+A 43 -year -old man arrested by Poonakari Police is to be produced in court. Remble
 
 ◼️
 
 [Data](articles/54240f8c.json)
+
+[Extended Data](ext_articles/54240f8c.ext.json)
 
 ---
 
@@ -618,21 +628,23 @@ The collective said it would have been best if the campaign had been commenced w
 
 ---
 
-### ටෙස්ට්, එක්දින හා විස්සයි20 තරගාවලියකට ලංකාව බංග්ලදේශයට, මැතිව්ස්ට වාඩුව ගැනීමට අවස්ථාවක්
+### Sri Lanka a chance to bangled in Bangladesh to be bangled, Mathews for a Test, ODI and Twenty20 tournament
 
 *2024-02-03 08:08:08* · [`adalk`](https://www.ada.lk/sports/ටෙස්ට්--එක්දින-හා-විස්සයි20-තරගාවලියකට-ලංකාව-බංග්ලදේශයට--මැතිව්ස්ට-වාඩුව-ගැනීමට-අවස්ථාවක්/9-407874) · `si`
 
-ටෙස්ට් ලෝක ශූරතාවලියේ තරග දෙකකට, එක්දින තරග තුනකට හා විස්සයි20 තරග තුනකට එක්වීම සඳහා ශ්‍රී ලංකා කණ්ඩායම ලබන මාසයේදි බංග්ලදේශයේ සංචාරය කිරීමට නියමිතය.
+Sri Lanka will visit Bangled next month to join two matches in Test World Championships next month to joining three matches with three matches.
 
-තරගාවලියට එක්වීම සඳහා ශ්‍රි ලංකා කණ්ඩායම මාර්තු 01 දා ඩකා වෙත ළගාවීමට නියමිතය. මුලින්ම විස්සයි20 තරග තුන පැවැත්වෙන අතර එම තරග මාර්තු 4, 6 හා 9 දා සියල්හොට්හිදී පැවැත්වෙයි.
+Sri Lanka will closely close to Dhaka on March 1 to join the tournament. First, the Twenty20 matches will be held at Senerat on March 4, 6 and 9.
 
-ඉන් අනතුරුව එක්දින තරග තුන 13දා, 15 දා හා 18 දා චිතගොංහි පැවැත්වීමට නියමිතය. මෙම තරග තුනෙන් පළමු තරග දෙක දිවා රාත්‍රී තරග ලෙසින් පැවැත්වෙන අතර තෙවැනි තරගය දිවා තරගයක් ලෙසින් පැවැත්වෙයි.
+Thereafter, the ODI will be held on the 13th and 15th and onions in Chittagong on the 15th and 18th. The first two matches will be held day and nights and the third match will be a day.
 
-ඉන් අනතුරුව ටෙස්ට් තරග දෙක පැවැත්වීමට නියමිතය. එම තරග දෙනේ පළමු ටෙස්ට් තරගය මාර්තු 22 දා සියල්හොට් හිදී ආරම්භ වීමට නියමිත අතර දෙවැනි තරගය චිතගොං හිදී මාර්තු 30 ආරම්භ වීමට නියමිතය.
+Then the two Tests will be held. The first Test match will begin on March 22 and the second match will commence on March 30 in Chithagong.
 
 ◼️
 
 [Data](articles/034e635e.json)
+
+[Extended Data](ext_articles/034e635e.ext.json)
 
 ---
 

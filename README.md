@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 21:02:29**
+As of **2024-02-03 21:17:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,586 (100.0%) of 4,587 articles have been extended.
+4,587 (100.0%) of 4,587 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Meanwhile, the Opposition Leader warned that disciplinary action will be sought,
 ◼️
 
 [Data](articles/5b067a34.json)
+
+[Extended Data](ext_articles/5b067a34.ext.json)
 
 ---
 

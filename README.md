@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 00:32:48**
+As of **2024-02-04 00:47:23**
 
 ## Newspaper Stats
 
@@ -630,9 +630,13 @@ Keheliya Rambukwella had been arrested by the Criminal Investigation Department 
 
 Former Health Minister Keheliya Rambukwella, who was put behind bars on remand earlier today, has been admitted to the Prisons Hospital on medical recommendation.
 
-The lawmaker was remanded until 15 February on the orders of Maligakanda Magistrate’s Court.
+The lawmaker, arrested on Friday (Feb.02) by the Criminal Investigation Department (CID), was remanded until 15 February on the orders of Maligakanda Magistrate Lochani Abeywickrama.
 
-◼️
+He was also listed as the 8th suspect in the ongoing case on the substandard human immunoglobulin procurement.
+
+Prior to the apprehension of Rambukwella, seven arrests had been made connection with the drug procurement scam. But the fifth accused was later released on bail. As such, the former Health Secretary, the Director of the Health Ministry’s Medical Supplies Division (MSD) and three other officials of the same division, as well as the owner of the company, which is said to have supplied the substandard batch of immunoglobulin vials, now remain in custody on remand.
+
+...
 
 [Data](articles/bba28cdf.json)
 
@@ -1116,13 +1120,13 @@ The former health minister was ordered to be remanded by the Maligakanda Magistr
 
 Former Health Minister Keheliya Rambukwella has been remanded until 15 February on the orders of Maligakanda Magistrate’s Court.
 
-The current Environment Minister was produced before the court this morning (Feb.03).
+The current Environment Minister was produced before Maligakanda Magistrate Lochani Abeywickrama this morning (Feb.03).
 
-The Criminal Investigation Department (CID) arrested the lawmaker on Friday (Feb.02) in connection with the procurement of substandard human intravenous immunoglobulin (IVIG). He had made an appearance before the CID on Friday morning, complying with a court order issued yesterday and was grilled for nearly 10 hours before being arrested.
+The Criminal Investigation Department (CID) arrested the lawmaker on Friday (Feb.02) in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived there, complying with a court order. He had been grilled for nearly 10 hours before being arrested.
 
-On 01 February, the Maligakanda Magistrate ordered the former health minister to record a statement with the CID on Friday as he had failed to do so on Wednesday. Further, a foreign travel ban was also imposed on him.
+The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
 
-Pressure has been mounting from civil society activists and health sector trade unionists, calling for the immediate apprehension of the lawmaker.
+During today’s court proceedings, Rambukwella was also listed as the 8th suspect in the ongoing case on the substandard human immunoglobulin procurement.
 
 ...
 

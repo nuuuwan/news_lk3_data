@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 09:17:18**
+As of **2024-02-03 09:32:39**
 
 ## Newspaper Stats
 
-*Scraped **4,483** Articles*
+*Scraped **4,488** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ islandlk | 238
 economynextcom | 252
 newsfirstlk | 278
 dailyftlk | 280
-adalk | 390
+adalk | 391
 virakesarilk | 499
 adaderanasinhalalk | 545
-adaderanalk | 556
+adaderanalk | 558
 tamilmirrorlk | 565
-dailymirrorlk | 623
+dailymirrorlk | 625
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,480 (99.9%) of 4,483 articles have been extended.
+4,483 (99.9%) of 4,488 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### STF busts major narcotics haul worth Rs. 100 million in Wattala
+
+*2024-02-03 08:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/STF-busts-major-narcotics-haul-worth-Rs-100-million-in-Wattala/108-276273) · `en`
+
+Wattala, Feb 3 (Daily Mirror) - The Police Special Task Force (STF) arrested a 39-year-old individual in Wattala and siezed 192,000 narcotic pills with a street value exceeding Rs. 100 million.
+
+Acting on an intelligence report provided by the STF Intelligence Division, a team of officers raided a residence in Wattala last night.
+
+During the operation, the STF arrested a suspect in possession of 192,000 150 mg capsules of Pregab (PREGAB), a substance utilized illicitly.
+
+Police said both the suspect and the substantial cache of narcotics were handed over to the custody of the Ederamulla Police Station.
+
+◼️
+
+[Data](articles/91e74d81.json)
+
+---
+
+### Army Commander receives commendation for historic parachute jump
+
+*2024-02-03 08:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/96962/army-commander-receives-commendation-for-historic-parachute-jump) · `en`
+
+Commander of Sri Lanka Army, Lieutenant General Vikum Liyanage received commendation for his ground-breaking static parachute jump in a ceremony held at the Presidential Secretariat on Friday (Feb.02).
+
+The event, officiated by Sagala Ratnayake, Senior Adviser to the President on National Security and Chief of the Presidential Staff, along with Saman Ekanayake, Secretary to the President, celebrated Lt. Gen. Liyanage as a dedicated and highly trained military leader.
+
+The placement of the parachute insignia (Airborne) on the Army Commander’s uniform serves as a symbolic representation of this extraordinary accomplishment, signifying Lt. Gen. Liyanage’s unparalleled dedication to pushing boundaries and leading by example, the President’s Media Division (PMD) said.
+
+...
+
+[Data](articles/00951f7d.json)
+
+---
+
+### Thundershowers likely in some areas after 2pm
+
+*2024-02-03 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/96961/thundershowers-likely-in-some-areas-after-2pm) · `en`
+
+Several spells of showers are expected today (Feb.03) in Eastern and Uva provinces and Polonnaruwa and Matale districts, the Department of Meteorology says.
+
+Showers or thundershowers will occur in parts of Western and Sabaragamuwa provinces and Kandy, Nuwara-Eliya, Galle and Matara districts after 2.00 p.m.
+
+The public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Showers or thundershowers will occur at a few places in the sea areas off the coast extending from Trincomalee to Pottuvil via Batticaloa. Showers or thundershowers may occur at a few places in the sea areas off the coast extending from Matara to Colombo via Galle during the evening or night.
+
+Winds will be north-easterly or easterly and wind speed will be 20-30 kmph.
+
+...
+
+[Data](articles/f1f43581.json)
+
+---
 
 ### CID to produce MInister Keheliya Rambukwella before court today
 
@@ -47,6 +101,26 @@ Maligakanda Magistrate Lochana Abeywickrama also imposed an overseas travel ban 
 ...
 
 [Data](articles/563e0e8e.json)
+
+[Extended Data](ext_articles/563e0e8e.ext.json)
+
+---
+
+### CID to produce Minister Keheliya Rambukwella before court today
+
+*2024-02-03 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-to-produce-Minister-Keheliya-Rambukwella-before-court-today/108-276272) · `en`
+
+Colombo, Feb 03 (Daily Mirror) - Former Health Minister Keheliya Rambukwella who was arrested yesterday by the Criminal Investigation Department (CID) over the ongoing probe into the import of substandard Immunoglobulin injections, will be produced before the Maligakanda Magistrate's Court today.
+
+Rambukwella, currently serving as Environment Minister, becomes the highest-ranking official arrested so far in the widening investigations.
+
+Rambukwella arrived at the Criminal Investigation Department around 9 am yesterday, complying with a order issued by the Maligakanda Magistrate's Court.
+
+Maligakanda Magistrate Lochana Abeywickrama also imposed an overseas travel ban on Rambukwella on Thursday after he failed to report to the CID.
+
+...
+
+[Data](articles/8d474ecb.json)
 
 ---
 
@@ -78,6 +152,8 @@ The collective said it would have been best if the campaign had been commenced w
 
 [Data](articles/d87fa776.json)
 
+[Extended Data](ext_articles/d87fa776.ext.json)
+
 ---
 
 ### Youth dies in a power cord of a durian tree
@@ -99,6 +175,20 @@ A 51-year-old man has been arrested by the police, who was the owner of the land
 [Data](articles/742a216c.json)
 
 [Extended Data](ext_articles/742a216c.ext.json)
+
+---
+
+### මල්ලිලත් අයියලා වගේමයි
+
+*2024-02-03 07:44:01* · [`adalk`](https://www.ada.lk/sports/මල්ලිලත්-අයියලා-වගේමයි/9-407873) · `si`
+
+19න් පහළ ලෝක කුසලාන තරගාවලියේ දකුණු අප්‍රිකාව සමග පැවැති තරගය ලකුණු 119ක් පරාජය වීමෙන් අනතුරුව ශ්‍රි ලංකා කණ්ඩායම ලෝක කුසලානයෙන් ඉවතට ගිය අතර දකුණු අප්‍රිකාව අවසන් පූර්ව වටය සඳහා සුදුසුකම් ලබ ගත්තේය.
+
+මුලින්ම පන්දුවට  පහරදුන් දකුණු අප්‍රිකාව ලකුණු 232ක් රැස් කළ අතර පිළිතුරු ඉනිම ක්‍රීඩා කළ ශ්‍රී ලංකා කණ්ඩායමට රැස් කළ හැකිවූයේ ලකුණු 113ක් පමණි.
+
+◼️
+
+[Data](articles/bd305780.json)
 
 ---
 
@@ -1014,6 +1104,8 @@ After more than 10 hours of interrogation, the minister was arrested in connecti
 
 [Data](articles/06910b89.json)
 
+[Extended Data](ext_articles/06910b89.ext.json)
+
 ---
 
 ### Former Health Minister Keheliya Rambukwella arrested
@@ -1909,107 +2001,5 @@ As it continues on this path, the difficulties will disappear. Diminishing life 
 [Data](articles/97745019.json)
 
 [Extended Data](ext_articles/97745019.ext.json)
-
----
-
-### Man dies in an attack
-
-*2024-02-02 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192891) · `si`
-
-One person was killed in a heated attack on a heated argument between two in the Navigoda area in Minuwangoda.
-
-The police said that the person had died due to an assault carried out by a sharwn weapon.
-
-The deceased has been identified as a 32-year-old father of 32-year-old residents.
-
-Previously, the army was taken to the house of the soldier on a previous day and had been assaulted by the army soldier with a sharp object when he went to question the man with a sharp weapon.has.
-
-The suspect has been arrested and the Minuwangoda police are conducting further investigations.
-
-It is also reported that the suspect is tightly addicted to drugs.
-
-◼️
-
-[Data](articles/da172849.json)
-
-[Extended Data](ext_articles/da172849.ext.json)
-
----
-
-### UN Human Rights office calls for amendment to Online Safety Act
-
-*2024-02-02 15:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UN-Human-Rights-office-calls-for-amendment-to-Online-Safety-Act/108-276219) · `en`
-
-Feb 02 -  The United Nations Human Rights office has urged the government to consider amending the controversial Online Safety Act to ensure it complies with human rights obligations.
-
-The UN Human Rights said, "The new Online Safety Act will have far reaching negative implications for human rights, including freedom of expression," in a post on X, formerly known as Twitter.
-
-"We urge the Government to consider amending the law to address concerns of civil society and industry groups and ensure it complies with human rights obligations," the post also read.
-
-The Act, which has been widely critized both locally and internationally, became law yesterday after it was endorsed by Speaker Mahinda Yapa Abeywardena.
-
-◼️
-
-[Data](articles/b8df12ae.json)
-
-[Extended Data](ext_articles/b8df12ae.ext.json)
-
----
-
-### UN Human Rights office calls for amendment to Online Safety Act
-
-*2024-02-02 15:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/UN-Human-Rights-office-calls-for-amendment-to-Online-Safety-Act/155-276219) · `en`
-
-Feb 02 -  The United Nations Human Rights office has urged the government to consider amending the controversial Online Safety Act to ensure it complies with human rights obligations.
-
-The UN Human Rights said, "The new Online Safety Act will have far reaching negative implications for human rights, including freedom of expression," in a post on X, formerly known as Twitter.
-
-"We urge the Government to consider amending the law to address concerns of civil society and industry groups and ensure it complies with human rights obligations," the post also read.
-
-The Act, which has been widely critized both locally and internationally, became law yesterday after it was endorsed by Speaker Mahinda Yapa Abeywardena.
-
-◼️
-
-[Data](articles/f7edf1f9.json)
-
-[Extended Data](ext_articles/f7edf1f9.ext.json)
-
----
-
-### SI arrested over Narammala ‘accidental’ shooting further remanded
-
-*2024-02-02 15:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/96951/si-arrested-over-narammala-accidental-shooting-further-remanded) · `en`
-
-The Sub-Inspector (SI) of Police who was arrested over the alleged ‘accidental’ shooting of a lorry driver in Narammala recently has been further remanded.
-
-Accordingly, the SI was ordered to be remanded until 16 February on orders of the Narammala Magistrate’s Court.
-
-On January 18, a 41-year-old lorry driver was killed after a police officer in civilian attire had ‘accidentally’ discharged his firearm during a vehicle inspection. The victim was identified as a resident of Maharachchimulla area.
-
-The police media division said the driver had failed to comply with a signal to stop at a police checkpoint in Dampelessa, Narammala.
-
-The concerned SI and a Police Constable had then chased down the lorry and pulled.
-
-◼️
-
-[Data](articles/aaab6783.json)
-
-[Extended Data](ext_articles/aaab6783.ext.json)
-
----
-
-### Thalapathy’ Vijay announces he’s quitting cinema for full-time politics
-
-*2024-02-02 15:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thalapathy-Vijay-announces-hes-quitting-cinema-for-full-time-politics/108-276218) · `en`
-
-Tamil Nadu, Feb 2 (Indiane Epress) - The much-awaited announcement from actor Vijay is finally here. The Tamil star has announced the formation of his political party, Tamizhaga Vetri Kazhagam aka TVK (Tamil Nadu’s Victory Party), and shared a statement on X (formerly Twitter). The title of the party is.
-
-In the long official statement, Vijay said that though his fan club Vijay Makkal Iyakkam has been doing social work for the past many years, there is a need for political power to do the same in a full-fledged manner.
-
-...
-
-[Data](articles/a4b89169.json)
-
-[Extended Data](ext_articles/a4b89169.ext.json)
 
 ---

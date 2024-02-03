@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 00:47:23**
+As of **2024-02-04 01:02:09**
 
 ## Newspaper Stats
 
-*Scraped **4,606** Articles*
+*Scraped **4,607** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 55
 bbccomsinhala | 70
 dbsjeyarajcom | 135
 islandlk | 239
-economynextcom | 253
+economynextcom | 254
 dailyftlk | 280
 newsfirstlk | 282
 adalk | 399
@@ -26,7 +26,7 @@ dailymirrorlk | 643
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,606 (100.0%) of 4,606 articles have been extended.
+4,606 (100.0%) of 4,607 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -509,6 +509,24 @@ The Prime Minister of Thailand also pointed out this to ensure further improving
 [Data](articles/c7f05e2c.json)
 
 [Extended Data](ext_articles/c7f05e2c.ext.json)
+
+---
+
+### Dubai based QX Lab launches AI tool with Sinhalese and Tamil interface
+
+*2024-02-03 18:38:00* · [`economynextcom`](https://economynext.com/dubai-based-qx-lab-launches-ai-tool-with-sinhalese-and-tamil-interface-149755/) · `en`
+
+ECONOMYNEXT – Dubai based QX Lab AI has lauched an artificial intelligence platform which can be used Sinhalese and Tamil, among 100+ languages, oficials said.
+
+“Ask QX boasts unparalleled language proficiency and accuracy across multiple languages. Our vision for Ask QX is to bridge the existing gap, ensuring that the transformative potential of AI is accessible to all, not limited to a privileged few,” Tilakraj Parmar, Co-Founder and CEO, QX Lab AI said at a lauch event in Dubai Friday (2).
+
+The Indian-origin developers said they wanted to focus on the rich linguistic tapestry in India and neighboring markets like the Middle East and Sri Lanka.
+
+Apart from English, Ask QX is available in Arabic (and recognizes regional dialects), French, Spanish, Japanese, German, Italian, Korean, Portuguese, Russian, Sinhala, Tamil and 11 other Indian languages, as well as other global languages.
+
+...
+
+[Data](articles/9ee28661.json)
 
 ---
 
@@ -1995,29 +2013,5 @@ Two police officers have been arrested in accordance with the Bribery Department
 [Data](articles/e56178df.json)
 
 [Extended Data](ext_articles/e56178df.ext.json)
-
----
-
-### STF arrests man with cache of controlled drugs worth Rs. 100mn
-
-*2024-02-03 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96963/stf-arrests-man-with-cache-of-controlled-drugs-worth-rs-100mn) · `en`
-
-The Police Special Task Force (STF) has arrested a man who was in possession of a large cache of controlled drugs without a valid licence.
-
-The arrest was made on Friday (Feb.02) in Enderamulla, Wattala, as part of the ongoing ‘Yukthiya’ island-wide operation to crack down on drug distribution and criminal offences.
-
-According to the STF, the 40-year-old was taken into custody with 192,000 capsules of 150mg Pregabalin worth approximately Rs. 100 million.
-
-The suspect, who hails from Badulla, has been handed over to the Enderamulla Police for onward investigations.
-
-Meanwhile, under the ongoing ‘Yukthiya’ operation, the police and security forces personnel have arrested another 770 suspects within the 24-hour window that ended at 12.30 a.m. today (Feb.03).
-
-Among the arrestees are 567 suspects who were taken into custody on narcotics-related charges and 203 others who were on the list of wanted criminal suspects.
-
-...
-
-[Data](articles/ec47c066.json)
-
-[Extended Data](ext_articles/ec47c066.ext.json)
 
 ---

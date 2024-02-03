@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 19:02:19**
+As of **2024-02-03 19:17:18**
 
 ## Newspaper Stats
 
-*Scraped **4,579** Articles*
+*Scraped **4,580** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ virakesarilk | 516
 adaderanasinhalalk | 566
 adaderanalk | 573
 tamilmirrorlk | 577
-dailymirrorlk | 641
+dailymirrorlk | 642
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,577 (100.0%) of 4,579 articles have been extended.
+4,579 (100.0%) of 4,580 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -38,13 +38,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 In a gesture of warm hospitality, President Ranil Wickremesinghe extended a cordial welcome to the distinguished Prime Minister of the Kingdom of Thailand, Srettha Thavisin, and the accompanying official delegation at the Presidential Secretariat this afternoon (Feb.03).
 
-After the gracious reception by the Sri Lankan leader, a formal ceremony unfolded, where the Chief of Defence Staff accompanied both leaders to the saluting dais. Amidst the ceremonial ambiance, a Guard of Honour was awarded to the distinguished guests followed by a 19-gun salute.
+After the gracious reception by the Sri Lankan leader, a formal ceremony unfolded, with the Chief of Defence Staff accompanying both leaders to the saluting dais. Amidst the ceremonial ambience, a Guard of Honour was awarded to the distinguished guests followed by a 19-gun salute.
 
 After the formal introduction of the delegations from both countries, President Wickremesinghe and PM Thavisin engaged in an exclusive one-to-one meeting, hosted at the President’s Office.
 
 ...
 
 [Data](articles/279e060d.json)
+
+[Extended Data](ext_articles/279e060d.ext.json)
 
 ---
 
@@ -61,6 +63,8 @@ The new communiqué comes a month after the services related to electricity and 
 ◼️
 
 [Data](articles/769e412a.json)
+
+[Extended Data](ext_articles/769e412a.ext.json)
 
 ---
 
@@ -79,6 +83,28 @@ The Afghan group was collected for their first innings.
 [Data](articles/72fcde01.json)
 
 [Extended Data](ext_articles/72fcde01.ext.json)
+
+---
+
+### Mathews, Chandimal centuries put Sri Lanka in control of Afghanistan Test
+
+*2024-02-03 17:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mathews-Chandimal-centuries-put-Sri-Lanka-in-control-of-Afghanistan-Test/108-276288) · `en`
+
+Centuries from Angelo Mathews and Dinesh Chandimal consolidated Sri Lanka's strong position on day two of their one-off Test against Afghanistan at the Singhalese Sports Club today.
+
+Sri Lanka started the day with a 118-run deficit, but reached stumps on 410 for 6, and 212 runs ahead of the visiting team who toiled through much of the day with little success.
+
+Such was the control and comfort Mathews enjoyed for a majority of his time at the crease in reaching his 16th century in the format, that it took a freak dismissal to end the former Sri Lanka captain's innings for 141.
+
+In the final over of the day, Mathews swept hard at a poor delivery from Qais Ahmed, but hit the stumps on his follow through, to dislodge the bails.
+
+Together with Chandimal, Mathews ground out the Aghanistan bowlers through the second session of play, which went wicketless.
+
+The pair put on a 232-run partnership for the fourth wicket, before Chandimal was caught behind shortly after reaching his 15th Test century.
+
+...
+
+[Data](articles/87ed5803.json)
 
 ---
 
@@ -1953,25 +1979,5 @@ The Ministry of Foreign Affairs stated that the development of trade and investm
 [Data](articles/432cb4c9.json)
 
 [Extended Data](ext_articles/432cb4c9.ext.json)
-
----
-
-### Notice on President's efforts
-
-*2024-02-03 06:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192905) · `si`
-
-Senior Advisor to the Presidential Advisor to the Presidential Advisor and Presidential Staff Head of the President Sagala Ratnayake says that President Ranil Wickremesinghe has paid attention to the poverty of the people of this country and increase the nutrition of children.
-
-He said many programs have been implemented in the guidance of the President.
-
-He says that the 'Requirement' Program is being carried out on a poverty in the presence of the president, the revenue is not politicized.
-
-Speaking further Mr. Sagala Ratnayake said that the future generation is essential to the formation of a healthy generation, nourishment is a factor in turning a crucial role not only to fix the future of the country.
-
-◼️
-
-[Data](articles/2805cbe6.json)
-
-[Extended Data](ext_articles/2805cbe6.ext.json)
 
 ---

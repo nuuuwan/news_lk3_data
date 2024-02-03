@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 19:49:32**
+As of **2024-02-03 20:02:17**
 
 ## Newspaper Stats
 
-*Scraped **4,582** Articles*
+*Scraped **4,585** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ dailyftlk | 280
 newsfirstlk | 281
 adalk | 393
 virakesarilk | 517
-adaderanasinhalalk | 566
+adaderanasinhalalk | 567
 adaderanalk | 574
-tamilmirrorlk | 577
+tamilmirrorlk | 579
 dailymirrorlk | 642
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,580 (100.0%) of 4,582 articles have been extended.
+4,582 (99.9%) of 4,585 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,46 @@ INS ‘Karanj’ will depart the island nation on February 5, symbolising the st
 ◼️
 
 [Data](articles/f675018f.json)
+
+[Extended Data](ext_articles/f675018f.ext.json)
+
+---
+
+### බෙලිඅත්ත පංච පුද්ගල ඝාතනයේ රහස් රැසක් හෙළිවෙයි
+
+*2024-02-03 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192934) · `si`
+
+බෙලිඅත්ත පංච පුද්ගල ඝාතනයට වෙඩික්කරුවන් පැමිණි ජීප් රථය වැඩ තහනමට ලක්වී සිටින උපපොලිස් පරීක්ෂකවරයෙකු මහනුවර ප්‍රදේශයෙන් රුපියල් ලක්ෂ 24කට මිලදී ගෙන ඇතැයි තොරතුරු අනාවරණවූ බව පොලීසිය පවසයි.
+
+කෙසේ වෙතත් එම පුද්ගලයා දැනටමත් දිවයිනෙන් පළා ගොස් ඇතැයි සැක මතුවී තිබේ.
+
+මේ අතර ඝාතනයට සම්බන්ධවූ වෙඩික්කරුවන් දෙදෙනාගෙන් අයෙක් කවුරුන්ද යන්න පිළිබඳව මෙතෙක් තහවුරු වී නොමැත.
+
+අපේ ජනබල පක්ෂයේ සභාපති සමන් පෙරේරා හෙවත් රෝයල් බීච් සමන් ඇතුළු පුද්ගලයන් පස්දෙනෙකු පසුගිය 22වනදා බෙලිඅත්තේදී වෙඩි තබා ඝාතනය කෙරුණි.
+
+ඒ සම්බන්ධයෙන් පාර්ශ්ව රැසක් විමර්ශන සිදුකළ අතර එහිදී අනාවරණ කරගෙන තිබුණේ ප්‍රහාරය සඳහා පැමිණි වෙඩික්කරුවන් දෙදෙනාගෙන් අයෙක් චම්පික ප්‍රසන්න කුමාර නම් නාවික හමුදාවේ විශ්‍රාමික සෙබළෙක් බවය.
+
+ඔහු ඝාතනයෙන් අනතුරුව කඹුරුපිටිය බස්නැවතුම්පොළ අසලින් පෙජරෝ රථයෙන් බැස යන පුද්ගලයා බව විමර්ශන නිලධාරීන් පසුව අනාවරණ කරගත්තේය.
+
+...
+
+[Data](articles/d344447c.json)
+
+---
+
+### தாய்லாந்துக்கும் இலங்கைக்கு இடையே நாளாந்தம் விமான சேவை
+
+*2024-02-03 19:02:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்லாந்துக்கும்-இலங்கைக்கு-இடையே-நாளாந்தம்-விமான-சேவை/175-332591) · `ta`
+
+மார்ச் மாத இறுதியில் இருந்து தாய்லாந்து தாய்லாந்து மற்றும் இலங்கைக்கு இடையேயான நாளாந்த விமான சேவையான இன்டர்நேஷனல் ஏர்லைன்ஸ் மீண்டும் ஆரம்பிக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+ஜனாதிபதி செயலகத்தில் நடைபெற்ற இணை ஊடகவியலாளர் மாநாட்டில் இது தொடர்பில் கவனம் செலுத்தப்பட்டுள்ளது.
+
+மேலும், தாய்லாந்து மற்றும் இலங்கைக்கு இடையிலான சுற்றுலா, மீன்பிடி, விவசாயம் மற்றும் வர்த்தக ஒத்துழைப்புகளை மேலும் மேம்படுத்துவதை உறுதிசெய்ய தாய்லாந்து பிரதமர் இதை சுட்டிக்காட்டினார்.  R
+
+◼️
+
+[Data](articles/c7f05e2c.json)
 
 ---
 
@@ -101,6 +141,22 @@ The Afghan group was collected for their first innings.
 [Data](articles/72fcde01.json)
 
 [Extended Data](ext_articles/72fcde01.ext.json)
+
+---
+
+### கெஹலிய திடீரென வைத்தியசாலையில் அனுமதி
+
+*2024-02-03 17:52:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-திடீரென-வைத்தியசாலையில்-அனுமதி/175-332590) · `ta`
+
+விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+குற்றப் புலனாய்வுப் திணைக்களத்தின் அதிகாரிகளால் நேற்று (02) கைது செய்யப்பட்ட கெஹலிய ரம்புக்வெல்ல,
+
+இன்று (03) மாளிகாகந்த நீதிமன்றத்திற்கு அழைத்து வரப்பட்ட நிலையில், எதிர்வரும் 15 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதிமன்றம் உத்தரவிட்டது.
+
+◼️
+
+[Data](articles/4a5fa3a8.json)
 
 ---
 
@@ -160,23 +216,27 @@ The lawmaker was remanded until 15 February on the orders of Maligakanda Magistr
 
 ---
 
-### இலங்கை - தாய்லாந்துக்கிடையில் சுதந்திர வர்த்தக உடன்படிக்கை கைச்சாத்து !
+### Sri Lanka and Thailand signs free trade agreement
 
 *2024-02-03 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175481) · `ta`
 
-தாய்லாந்துக்கும் இலங்கைக்கும் இடையிலான பொருட்கள் வர்த்தகம், முதலீடு, சுங்க செயற்பாடுகள் மற்றும் அறிவுசார் சொத்துரிமை உள்ளிட்ட பல்வேறு அம்சங்களை உள்ளடக்கிய சந்தை வாய்ப்புகளை மேம்படுத்தும், சுதந்திர வர்த்தக ஒப்பந்தம் ஜனாதிபதி செயலகத்தில் கைச்சாத்திடப்பட்டது.
+The Independent Trade Agreement was signed at the Presidential Secretariat to improve market opportunities, including business, investment, customs activities and intellectual property rights between Thailand and Sri Lanka.
 
-அத்துடன் இலங்கை - தாய்லாந்து விமான சேவைகளுக்கு இடையிலான தாராளமயப்படுத்தப்பட்ட புதிய இரு தரப்பு விமான சேவைகள் புரிந்துணர்வு ஒப்பந்தமும் ஜனாதிபதி செயலகத்தில் கைச்சாத்திடப்பட்டது.
+In addition, the liberal bilateral flights between the Sri Lanka -Thailand airlines have been signed at the Presidential Secretariat.
 
-மேலும் இலங்கையின் இரத்தினக்கல் ஆபரண ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனம் (GJRTI) மற்றும் தாய்லாந்தின் இரத்தினக்கல் ஆபரண நிறுவனம் (GIT) ஆகியவற்றுக்கு இடையிலான இருதரப்பு ஒத்துழைப்பைப் பலப்படுத்துவதற்கான புரிந்துணர்வு ஒப்பந்தமும் ஜனாதிபதி செயலகத்தில் கைசாத்திடப்பட்டது.
+In addition, a Memorandum of Understanding (MoU) was signed at the Presidential Secretariat to strengthen bilateral cooperation between Sri Lanka's Gem Jewelery and Training Institute (GJRTI) and Thailand's Gem Orana Organization (GIT).
 
-முன்னதாக தாய்லாந்து பிரதமர் ஸ்ரேத்தா தவிசின் உள்ளிட்ட குழுவினர் இலங்கைக்கான விஜயத்தை மேற்கொண்டு இன்று சனிக்கிழமை (3) பிற்பகல் இலங்கையை வந்தடைந்தார்.
+Earlier, a group of Thailand's Prime Minister Shreta Davisin arrived in Sri Lanka on Saturday afternoon.
 
-அவர்களுக்கு பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் பிரதமர் தினேஷ் குணவர்தன சிறப்பு வரவேற்பளித்தார்.
+Prime Minister Dinesh Gunawardena welcomed them at the Bandaranaike International Airport.
+
+Following this, President Ranil Wickremesinghe greeted the Prime Minister of Sri Lanka Shreta Tavisin and his team at the Presidential Secretariat at the Presidential Secretariat.
 
 ...
 
 [Data](articles/2a7623f6.json)
+
+[Extended Data](ext_articles/2a7623f6.ext.json)
 
 ---
 
@@ -1925,55 +1985,5 @@ Forestry, USA and coalition troops, including drones, rockets and short distance
 [Data](articles/84e2f655.json)
 
 [Extended Data](ext_articles/84e2f655.ext.json)
-
----
-
-### The Ups & Downs Of Jaffna
-
-*2024-02-03 07:17:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-ups-downs-of-jaffna/) · `en`
-
-Jaffna offers little hope of recovery. People talk much of an intellectual revival but I see few signs of it. Indeed, there is no sign of English revival. Without it, there can be no intellectual revival. I see greater hope in the visibly evident emerging service industries doing more for us than the university where there is a great problem in the use of English. The much touted Engineering Faculty is running aground with few Ph.D holders teaching. The signs are that the Dean too will flee as his term ends. His efforts at recruitment are opposed by his staff threatening to strike should he bring in people of good quality.
-
-...
-
-[Data](articles/e60abe6a.json)
-
-[Extended Data](ext_articles/e60abe6a.ext.json)
-
----
-
-### University lecturers in crisis
-
-*2024-02-03 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192907) · `si`
-
-Prof. Therakada Sirisuman Thero says that there have been a number of issues for the university legalists to carry out 18 percent VAT.
-
-The Thero says that this act is an attempt to produce an illiterate generation in the country.
-
-Professor Praranith Abeysundara has stressed that this tax imposing creation and academic research has also been hindered.
-
-◼️
-
-[Data](articles/7ef72b7b.json)
-
-[Extended Data](ext_articles/7ef72b7b.ext.json)
-
----
-
-### 1,500 police officers for traffic duties
-
-*2024-02-03 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192906) · `si`
-
-Nearly 1,500 police officers have been deployed for vehicle duties at the 76th Independence Day.
-
-Deputy Inspector General of Police Indika Hapugoda stated that 4,000 officers have been deployed for security and other duties.
-
-DIG Indika Hapugoda stated that a special traffic plan is being operated in Colombo today and tomorrow.
-
-◼️
-
-[Data](articles/001a6e19.json)
-
-[Extended Data](ext_articles/001a6e19.ext.json)
 
 ---

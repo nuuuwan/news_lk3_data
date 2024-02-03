@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 20:49:20**
+As of **2024-02-03 21:02:29**
 
 ## Newspaper Stats
 
-*Scraped **4,586** Articles*
+*Scraped **4,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 281
 adalk | 393
 virakesarilk | 517
 adaderanasinhalalk | 568
-adaderanalk | 574
+adaderanalk | 575
 tamilmirrorlk | 579
 dailymirrorlk | 642
 
@@ -26,35 +26,57 @@ dailymirrorlk | 642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,585 (100.0%) of 4,586 articles have been extended.
+4,586 (100.0%) of 4,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
 
-### අධිකරණයේදී කෙහෙළියට එල්ල කළ චෝදනාව
+### SJB to bring no-confidence motion against Speaker?
+
+*2024-02-03 20:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96979/sjb-to-bring-no-confidence-motion-against-speaker) · `en`
+
+A no-confidence motion will have to be brought against Speaker of the Parliament Mahinda Yapa Abeywardena, since he has ignored nine recommendations given by the Supreme Court while enacting the Online Safety Act, says the Opposition Leader Sajith Premadasa.
+
+Addressing an event held in Galle today (Feb. 03), Premadasa said that they have no faith in the Speaker anymore.
+
+“The Speaker has granted approval for the Online Safety Act in an unlawful manner. We carried out an analysis regarding the matter. The recommendations of the Supreme Court have been neglected on 09 instances”, he said.
+
+“We have no confidence on the Speaker anymore. We will have to consider whether [the parliament] has confidence on the Speaker or not, in the future”, he added.
+
+Meanwhile, the Opposition Leader warned that disciplinary action will be sought, regardless of their ranks, against the members of the Samagi Jana Balawegaya (SJB) who criticizes the party while being part of it.
+
+◼️
+
+[Data](articles/5b067a34.json)
+
+---
+
+### Allegation launched in court
 
 *2024-02-03 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192935) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙලිය රඹුක්වැල්ල මහතා පෙබරවාරි 15වනදා තෙක් රක්ෂිත බන්ධනාගාරගත කිරීමට මාළිගාකන්ද මහේස්ත්‍රාත් අධිකරණය අද (02) නියෝග කළේය.
+Former Health Minister Keheliya Rambukwella remanded until February 15 (02), the Maligakanda Magistrate yesterday.
 
-ඒ අනුව රක්ෂිත බන්ධනාගාරගත කෙරුණු කෙහෙළිය රඹුක්වැල්ල මහතාව පසුව බන්ධනාගාර රෝහලට ඇතුළත් කෙරුණි.
+Keheliya Rambukwella, who was remanded, was later admitted to the Prison Hospital.
 
-ප්‍රශ්නගත ප්‍රතිදේහ එන්නත් සිද්ධිය සම්බන්ධයෙන් වූ නඩුවට අදාළව ඔහුට චෝදනා එල්ලවී තිබේ.
+He has been accused of the case with regard to the questionable antibodies.
 
-සිද්ධිය සම්බන්ධයෙන් මාලිගාකන්ද මහෙස්ත්‍රාත් ලෝචනී අබේවික්‍රම මහත්මිය ඉදිරියේ කරුණු දැක්වීම ඇරඹු රජයේ
+Maligakanda Magistrate Luchanicanda Luchanika Abeywickrema begins
 
-නියෝජ්‍ය සොලිසිටර් ජනරාල් ලක්මිණි ගිරිහාගම මෙනෙවිය අධිකරණයට දැනුම් දුන්නේ, ප්‍රශ්නගත "හියුමන්
+Deputy Solicitor General Lakhahagi Girihagama informed the judiciary, questionable "humian
 
-ඉමියුනොග්ලොබියුලින්" ප්‍රතිදේහ එන්නත් මාත්‍රා පිළිබඳ නඩුවේ 08 වන සැකකරු ලෙස හිටපු සෞඛ්‍ය
+Former suspect in the case of Emmoglobulin "Anthetic Vaccine Dosage case
 
-"ස්වාමිනි, අද දින ඔබගේ අධිකරණයට මේ සැකකරු ඉදිරිපත් කරනු ලබන්නේ පොදු දේපොළ පනතේ 5/1
+"Lord, today this suspect is presented to your judiciary today in the Public Adapted Act
 
-වගන්තිය ප්‍රකාරව ශ්‍රී ලංකා ජනරජයේ මුදල් සාපරාධි සාවද්‍ය පරිහරණය කිරීමට ආධාර අනුබලදීම සම්බන්ධයෙන්."
+In terms of Article, the cash withdrawals in the Republic of Sri Lanka to support criminal false trick. "
 
 ...
 
 [Data](articles/7874256b.json)
+
+[Extended Data](ext_articles/7874256b.ext.json)
 
 ---
 
@@ -1979,29 +2001,5 @@ FIFA Assistant Referees – Men’s: Palitha Hemathunga (Gampola), Sanjeewa Prem
 [Data](articles/e92e2d7f.json)
 
 [Extended Data](ext_articles/e92e2d7f.ext.json)
-
----
-
-### Special traffic plan in action in Colombo for Independence day celebration
-
-*2024-02-03 07:25:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/03/special-traffic-plan-in-action-in-colombo-for-independence-day-celebration/) · `en`
-
-COLOMBO (News 1st) – DIG in charge of the Traffic Division, Indika Hapugoda said that a special traffic plan will be implemented in Colombo from 2 pm today.
-
-He said that the traffic plan will be in place until the 76th Independence Day celebrations are concluded.
-
-DIG Indika Hapugoda informs the general public to use alternative routes during the relevant period.
-
-He said that related facilities will also be provided to people heading for the Katunayake Airport.
-
-Meanwhile, the Department of Railways says that trains running on the coastal line from 5 am to 9 am tomorrow will not stop at the Presidential Secretariat, Kollupitiya, and Bambalapitiya stations, due to the Independence Day ceremony held at Galle Face Green.
-
-Special traffic plan in action in Colombo for Independence day celebration
-
-◼️
-
-[Data](articles/9c16b63a.json)
-
-[Extended Data](ext_articles/9c16b63a.ext.json)
 
 ---

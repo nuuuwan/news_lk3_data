@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 14:17:32**
+As of **2024-02-03 14:32:48**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 632
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,534 (99.9%) of 4,539 articles have been extended.
+4,539 (100.0%) of 4,539 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
 
-### තායිලන්ත අගමැති දිවයිනට
+### Thai Prime Minister to visit Sri Lanka
 
 *2024-02-03 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192922) · `si`
 
-හෙට පැවැත්වෙන ශ්‍රී ලංකාවේ 76 වැනි නිදහස් සමරු උලෙළේ ප්‍රධාන ආරාධිතයා ලෙස ද තායිලන්ත අග්‍රාමාත්‍යවරයා එක් වීමට නියමිතයි.
+Thailand's Prime Minister is also the Chief Guest at the 76th Independence Day of Sri Lanka tomorrow.
 
-තායිලන්ත අග්‍රාමාත්‍යවරයාගේ මෙරට සංචාරයට සමගාමීව ශ්‍රී ලංකා – තායිලන්ත නිදහස් වෙළෙඳ ගිවිසුමට හා ශ්‍රී ලංකා මැණික් හා ස්වර්ණාභරණ පර්යේෂණ හා අභ්‍යාස ආයතනය හා තායිලන්ත මැණික් හා ස්වර්ණාභරණ ආයතනය අතර අවබෝධතා ගිවිසුමකට අත්සන් තැබීමට ද නියමිත බව වාර්තා වේ.
+It is reported that the Sri Lanka - Thai and Jewelery Research and Training Institute and the Institute of MoU and the Thailand Menik and Jewelery Institute is to be signed in parallel to the Sri Lankan Prime Minister.
 
-මේ අතර, තායිලන්ත අග්‍රාමාත්‍ය ස්‍රෙතා තවිසින් මහතා හෙට දහවල් කොළඹ කොටහේන දිපදුත්තාරාම තායි රාජ මහා විහාරයට ද පැමිණීමට නියමිතයි.
+Meanwhile, Thailand Prime Minister Sranditha Wikwaran tomorrow is due to the Dipupathararamaya Thai Maha Viharaya in Colombo tomorrow.
 
 ◼️
 
 [Data](articles/bc062120.json)
+
+[Extended Data](ext_articles/bc062120.ext.json)
 
 ---
 
@@ -66,55 +68,69 @@ The special pardon is granted by virtue of the powers vested in the President un
 
 ---
 
-### පැහැරගෙන ගොස් පහරදුන් සැකකරුවන් සොයා විමර්ශනයක්
+### Investigation into abduction and assault suspects
 
 *2024-02-03 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192920) · `si`
 
-ඇඹිලිපිටිය - කිරලවැල්කටුව ප්‍රදේශයේ පදිංචි තරුණයෙකු ඊයේ (02) පස්වරුවේ වෑන් රථයකින් පැමිණි කිසියම් පිරිසක් විසින් පැහැරගෙන ගොස් තිබේ.
+Embilipitiya - A resident of Kirippalawwawa has been abducted by a group of people from a van yesterday.
 
-පොලීසිය පැවසුවේ අදාළ පිරිස එම තරුණයා කැලෑබද ප්‍රදේශයකට රැගෙන ගොස් ඔහුට තියුණු ආයුධවලින් අමානුෂික ලෙස පහර දී ඇති බවයි.
+Police said that the group had taken the young man to a jungle and was brutally attacked him with sharp weapons.
 
-තරුණයාට පහර දෙමින් එය වීඩියෝගත කළ ඔවුන් එය සමාජ මාධ්‍යය වෙත ද මුදාහැර තිබිණි.
+They were violated and they were violated and released to the social media.
 
-තරුණයා පැහැරගත් පිරිස එම රූප රාමු ඔහුගේ ඥාතීන් වෙත ද යවා ඇති අතර එම දර්ශන දුටු ඔහුගේ ඥාතීන් ඒ පිළිබඳ ඇඹිලිපිටිය කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී සුදත් මාසිංහ මහතා වෙත දැනුම් දී තිබේ.
+The young man had been sent to his relatives to his relatives and told him Sudath Masinghe to see the scenes.
 
-ඒ අනුව කුට්ටිගල පොලීසිය හා ඇඹිලිපිටිය මූලස්ථාන පොලීසිය එක්ව විමර්ශනයක් ආරම්භ කර අදාළ තරුණයා රඳවා සිටි කැලෑබද ප්‍රදේශයට ගොස් ඔහු මුදාගෙන ඇත.
+Accordingly, the Kattigala Police and Embilipitiya Headquarters Police have commenced investigation and has gone to the forest area.
 
-පොලීසිය පැවසුවේ වැටලීම සිදු කළ අවස්ථාවේ සැකකරුවන් පිරිස එම ස්ථානයෙන් පළා ගොස් ඇති බවත් ඔවුන්ට ඔත්තු සැපයූ පුද්ගලයෙකු අත්අඩංගුවට ගත් බවත් ය.
+The police said that the suspects had fled the area and was arrested.
 
-එම අවස්ථාවේ දී රෝහල තුළ සෞඛ්‍ය වර්ජනය පැවැත්වීම හේතුවෙන් නොසන්සුන්තාවක් ද හටගෙන තිබිණි.
+At the time, the hospital had been unease due to the health boycott.
 
-මෙලෙස පහරකෑමට ලක් වී තිබුණේ, 24 හැවිරිදි කිරලවැල්කටුව ප්‍රදේශයේ පදිංචි තරුණයෙකි.
+The victim was a 24 year old resident of Kirawwwawa area.
 
-...
+The youth had intervened to resolve a confrontation of previous conflict, and this attack has been carried out on a dispute.
+
+Investigations are conducting further investigations to arrest the other suspects involved in the incident.
+
+◼️
 
 [Data](articles/fb37ca5f.json)
 
+[Extended Data](ext_articles/fb37ca5f.ext.json)
+
 ---
 
-### වගා හානි සඳහා රුපියල් ලක්ෂයක් ඉල්ලයි
+### Cultivated Rs. 100,000
 
 *2024-02-03 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192919) · `si`
 
-ස්වාභාවික හේතූන් මත විනාශ වූ වගාවන් සඳහා අක්කරයකට රුපියල් ලක්ෂයක මුදලක් ලබාදීමට රජය කටයුතු කළ යුතු බව සමස්ත ලංකා ගොවිජන සම්මේලනයේ ජාතික සංවිධායක නාමල් කරුණාරත්න මහතා පවසයි.
+Namal Karunaratne says that the government should take a sum of Rs.
 
-අම්පාර ප්‍රදේශයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් ඔහු මෙම අදහස් පළ කළේය.
+He was speaking at a press conference held in Ampara.
 
-මේ අතර, කීඩෑ උවදුරක් හේතුවෙන් අනුරාධපුර දිස්ත්‍රික්කයේ ප්‍රදේශ රැසක වී වගාවට දැඩි බලපෑම් එල්ල වී ඇත.
+Meanwhile, paddy cultivation has been affected in many parts of the Anuradhapura district due to a midwife.
 
-අනුරාධපුර දිස්ත්‍රික්කයේ වගා බිම් සියල්ලම පාහේ මෙවර මහ කන්නය වෙනුවෙන් වී වගා කර තිබේ.
+Almost all the farmland in the Anuradhapura district has been cultivated for the Maha season.
 
-එම දිස්ත්‍රික්කයේ නෑගම්පහ, මානේරුව සහ වම්බටුවැව යන ප්‍රදේශ එලෙස වැඩි වශයෙන් වී වගාව සිදු කෙරුණ ප්‍රදේශ කිහිපයකි.
+There are several areas where the paddy cultivation was increased in the district.
 
-නමුත් මේ දිනවල පැතිර යන කීඩෑ උවදුරක් හේතුවෙන් ප්‍රදේශයේ වී වගාවට දැඩි බලපෑම් එල්ල වී තිබේ.
+But due to a spread gathering these days, paddy cultivation in the area has been severely affected.
 
-ප්‍රදේශයේ ගොවීන් පවසන්නේ, මාස දෙක හමාර පසු වී ඇති කිරි වදින ගොයමට මෙම කීඩෑ උවදුරෙන් වැඩිම බලපෑම එල්ල වී ඇති බවයි.
+The farmers of the area say that the largest affected sufferers have been affected by the dairy dwellers.
 
-ගොවීන් බලධාරින්ගෙන් ඉල්ලා සිටින්නේ, විශාල මුදලක් වැය කර සිදු කළ ගොවිතැන් විනාශ වීම වළක්වා ගැනීමට කඩිනම් පියවර ගන්නා ලෙසයි.
+Farmers are requested to take immediate action to prevent the cost of deception.
+
+Meanwhile, corn cultivation in the Mahaweli B Zone of Mahaweli B Zone has been destroyed due to heavy rains.
+
+Maize cultivars that have been saved due to the spread of maize cultivation.
+
+The farmers produce that maize cultivation of about 180 acres of land.
 
 ...
 
 [Data](articles/e475579c.json)
+
+[Extended Data](ext_articles/e475579c.ext.json)
 
 ---
 
@@ -133,6 +149,8 @@ Concluding the official visit, INS ‘Karanj’ will depart the island on 05 Feb
 ◼️
 
 [Data](articles/11058273.json)
+
+[Extended Data](ext_articles/11058273.ext.json)
 
 ---
 
@@ -289,6 +307,8 @@ Sri Lanka are currently last in the World Test Championship points table, having
 ◼️
 
 [Data](articles/d3a840e2.json)
+
+[Extended Data](ext_articles/d3a840e2.ext.json)
 
 ---
 

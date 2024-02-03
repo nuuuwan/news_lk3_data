@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 16:17:17**
+As of **2024-02-03 16:33:08**
 
 ## Newspaper Stats
 
-*Scraped **4,551** Articles*
+*Scraped **4,555** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,75 @@ newsfirstlk | 281
 adalk | 393
 virakesarilk | 512
 adaderanasinhalalk | 556
-adaderanalk | 568
-tamilmirrorlk | 575
-dailymirrorlk | 634
+adaderanalk | 569
+tamilmirrorlk | 577
+dailymirrorlk | 635
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,549 (100.0%) of 4,551 articles have been extended.
+4,551 (99.9%) of 4,555 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### Poonam Pandey says ’’Didn’t die of cervical cancer’’
+
+*2024-02-03 16:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Poonam-Pandey-says-Didnt-die-of-cervical-cancer/108-276283) · `en`
+
+India- Feb 03 - Pandey, model and reality TV star, today announced that she hasn't died of cervical cancer. Her announcement on Instagram came a day after the model's manager announced that she had died of cervical cancer.
+
+"I am alive. I didn't die of cervical cancer. Unfortunately, I cannot say the same about the hundreds and thousands of women who have lost their lives due to cervical cancer."
+
+"I am sorry caused this tear and I am sorry to those I have hurt. My intention: to shock everyone into the conversation that we are not talking enough about - cervical cancer," she said in another post.
+
+She said that her "death" post was an effort to initiate a conversation and spread awareness about cervical cancer.
+
+"Unlike some other cancers, Cervical Cancer is entirely preventable. The key lies in the HPV vaccine and early detection tests. We have the means to ensure no one loses their life to this disease," she said.
+
+...
+
+[Data](articles/783b8684.json)
+
+---
+
+### Sri Lanka - Thailand Free Trade Agreement signed
+
+*2024-02-03 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/96974/sri-lanka-thailand-free-trade-agreement-signed) · `en`
+
+The historic Sri Lanka - Thailand Free Trade Agreement (SLTFTA) has been signed, a short while ago at the Presidential Secretariat in the presence of Prime Minister of Thailand Srettha Thavisin and President Ranil Wickremesinghe.
+
+Thai PM Thavisin arrived on the island earlier today (Feb.03) for a 2-day visit, accompanied by a high-level delegation. He is also scheduled to grace the national ceremony to mark the 76th Anniversary of the Independence of Sri Lanka as Guest of Honour.
+
+The FTA is expected to bolster trade and investment ties between the two nations, and also promote deeper integration with the Asian economies.
+
+Negotiations for the free trade agreement between Sri Lanka and Thailand resumed in November 2023 after being put on hold for 4 years consequent to the Covid-19 pandemic and ongoing restructuring of Sri Lanka’s state-owned entities.
+
+...
+
+[Data](articles/4e307549.json)
+
+---
+
+### பாடசாலை மதிலை துவம்சம் செய்த காட்டுயானை
+
+*2024-02-03 15:49:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பாடசாலை-மதிலை-துவம்சம்-செய்த-காட்டுயானை/73-332589) · `ta`
+
+மட்டக்களப்பு மாவட்டத்தின் படுவாங்கரைப் பிரதேசத்திற்குட்பட்ட வெல்லாவெளி, பாலையடிவட்டை, திக்கோடை, களுமுந்தன்வெளி, தும்பங்கேணி, மண்டூர், காந்திபுரம், உள்ளிட்ட பல பகுதிகளிலும், காட்டுயானைகளின் அட்டகாசங்கள் அதிகரித்து வருகின்றன.
+
+இந்நிலையில் வெள்ளிக்கிழமை(02) இரவு ` தும்பங்கேணி கண்ணகி வித்தியாலயத்தின் சுற்று மதிலின் ஒரு பகுதியை உடைத்து துவம்சம் செய்து விட்டுச் சென்றுள்ளதாக அப்பகுதியிலுள்ள மக்கள் தெரிவிக்கின்றனர்.
+
+பட்டிருப்புக் கல்வி வலயத்தின் கீழுள்ள தும்பங்கேணி கண்ணகி வித்தியாலயத்தியாலயம் விவசாயச் சூழலில் அமைந்துள்ளது. மிகத் தொலைவிலிருந்து பல சிரமங்களுக்கு மத்தியில் அப்பாடசாலைக்கு ஆசிரியர்கள் சென்று அப்பகுதி மாணவர்களுக்கு கல்வி புகட்டி வருகின்றனர்.
+
+அதிபர் ஆசிரியர்களினதும், பாடசாலை அபிவிருத்திச் சங்கத்தினரதும் முயற்சிகளின் பலனாக அப்பாடசாலைக்கு ஒருபக்க மதில் கட்டப்பட்டுள்ளது. பாடசாலைக்கு மாணவர்களும் காட்டு யானைகளின் அச்சத்தின் மத்தியிலேயே சென்று வருகின்றனர்.
+
+...
+
+[Data](articles/3dc4d753.json)
+
+---
 
 ### President Ranil welcomes Thai PM Thavisin
 
@@ -41,6 +97,8 @@ President Ranil Wickremesinghe has ceremonially welcomed the visiting Thai Prime
 ◼️
 
 [Data](articles/1ca832e1.json)
+
+[Extended Data](ext_articles/1ca832e1.ext.json)
 
 ---
 
@@ -100,6 +158,8 @@ Special traffic plan in action in Colombo for Independence day celebration
 
 [Data](articles/b9d70ccf.json)
 
+[Extended Data](ext_articles/b9d70ccf.ext.json)
+
 ---
 
 ### "I'm alive";Shocked Poonam Pandey
@@ -155,6 +215,24 @@ He had made an appearance before the CID on Friday morning, complying with a cou
 [Data](articles/1229b35b.json)
 
 [Extended Data](ext_articles/1229b35b.ext.json)
+
+---
+
+### விபத்தில் 12 வயது மாணவன் ஸ்தலத்திலேயே மரணம்
+
+*2024-02-03 14:24:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/விபத்தில்-12-வயது-மாணவன்-ஸ்தலத்திலேயே-மரணம்/73-332587) · `ta`
+
+சம்மாந்துறை – அம்பாரை பிரதான வீதியில் தென்கிழக்கு பல்கலைக் கழகத்தின் சம்மாந்துறை பிரயோக விஞ்ஞான  பீடத்தின் முன்னால் இடம்பெற்ற விபத்தில் 12 வயதுடைய சிறுவன் உடல் நசுங்கி இன்று பலியாகினார்.
+
+குறித்த சிறுவன் பல்கலைக்கழக  பீடத்தின் பக்கத்திலிருந்து வீதியை கடந்து அடுத்த பக்கத்தில் உள்ள தமது வீட்டுக்குச் சென்று கொண்டிருந்த குறித்த மாணவனை சம்மாந்துறை பகுதியில் இருந்து  அம்பாறையை நோக்கி   வந்த  கென்டர் ரக வாகனம் மோதியலில்  மாணவன் ஸ்தலத்திலேயே மரணமடைந்துள்ளார்.
+
+இதன் போது சம்மாந்துறை பிரதான வீதி  உடங்கா 02 இல்  வசிக்கும்  ஏ.எம்.பாஸீர் (வயது 12) எனும் மாணவன்  மரணமடைந்துள்ளதுடன் லொரி சாரதி  கைது செய்யப்பட்டுள்ளார்.
+
+விபத்துக்குள்ளான வாகனம் சம்மாந்துறை பொலிஸ் நிலையத்தில் நிறுத்தி வைக்கப்பட்டுள்ளதோடு மரணமடைந்த மாணவனின் உடல் சம்மாந்துறை ஆதார வைத்தியசாலையில் வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/e40bb318.json)
 
 ---
 
@@ -1895,81 +1973,5 @@ The judge ruled that Jenkinson must serve a minimum of 22 years before being con
 [Data](articles/b359d482.json)
 
 [Extended Data](ext_articles/b359d482.ext.json)
-
----
-
-### Two police sergeants nabbed for soliciting Rs. 10,000 bribe
-
-*2024-02-02 21:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-police-sergeants-nabbed-for-soliciting-Rs-10-000-bribe/108-276241) · `en`
-
-Matale, Feb 02 (Daily Mirror) - Officials from the Bribery Commission arrested two police sergeants at Madipola in Matale today on charges of soliciting a bribe of Rs. 10,000.
-
-The arrest was made following a complaint by an individual in Yatawatte.
-
-According to the Bribery Commission, the two sergeants had allegedly demanded a Rs. 100,000 bribe from an individual over an expired vehicle license, pledging not to proceed with legal proceedings. However, the bribe had been decreased to Rs 50,000.
-
-As such, the seargents were arrested while they were accepting a bribe of Rs. 10,000.
-
-◼️
-
-[Data](articles/22e0549a.json)
-
-[Extended Data](ext_articles/22e0549a.ext.json)
-
----
-
-### First Gantri Crane Triple
-
-*2024-02-02 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192903) · `si`
-
-The first 12 crane triplendar to the East Terminal of the Colombo harbor was brought to the island today.
-
-The cranes were accepted by the Minister of Ports, Naval and Aviation Minister Nimal Siripala de Silva.
-
-The crane was brought to Sri Lanka by Shanghii to Sri Lanka by Shanghii to Sri Lanka by Shanghii.
-
-The total value of Grandi cranes and 40 peripheral cranes are to be mounted and 40 peripheral cranes are to be mounted.
-
-This gantry crane is 72 meters long, and a 26-container ships can be operated at once.
-
-◼️
-
-[Data](articles/1e6fc8b8.json)
-
-[Extended Data](ext_articles/1e6fc8b8.ext.json)
-
----
-
-### “Urumaya” National Operations Secretariat launched to address long-standing land rights issues
-
-*2024-02-02 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/96959/urumaya-national-operations-secretariat-launched-to-address-long-standing-land-rights-issues) · `en`
-
-“Urumaya” National Operations Secretariat was inaugurated on Thursday (Feb.01) by Presidential Secretary Saman Ekanayake at the President’s Office in the Old Standard Chartered Building.
-
-President Ranil Wickremesinghe’s vision of empowering farmers through land ownership takes shape as the government announces plans to grant freehold titles to two million families. This initiative aims to address long-standing concerns regarding land rights in rural Sri Lanka.
-
-The government’s plan to distribute two million freehold land titles to farming families has sparked discussions about its potential impact on rural communities and land ownership in Sri Lanka. This initiative, aligned with President Ranil Wickremesinghe’s vision, seeks to address concerns about land security for farmers.
-
-...
-
-[Data](articles/1c8e8ef6.json)
-
-[Extended Data](ext_articles/1c8e8ef6.ext.json)
-
----
-
-### Vijay to politics
-
-*2024-02-02 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192902) · `si`
-
-He has also been named 'Tamilaga Votri Kazakam'.
-
-After completing the work of the two film complexes, he intends to quit the film career and engage in politics.
-
-◼️
-
-[Data](articles/0512eed1.json)
-
-[Extended Data](ext_articles/0512eed1.ext.json)
 
 ---

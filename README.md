@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 11:51:24**
+As of **2024-02-03 12:02:38**
 
 ## Newspaper Stats
 
-*Scraped **4,519** Articles*
+*Scraped **4,520** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 54
-bbccomsinhala | 69
+bbccomsinhala | 70
 dbsjeyarajcom | 134
 islandlk | 238
 economynextcom | 252
@@ -26,7 +26,7 @@ dailymirrorlk | 630
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,519 (100.0%) of 4,519 articles have been extended.
+4,520 (100.0%) of 4,520 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -911,6 +911,30 @@ The Meteorological Department urges the public to take necessary steps to reduce
 [Data](articles/ad05d8b6.json)
 
 [Extended Data](ext_articles/ad05d8b6.ext.json)
+
+---
+
+### 1948: News Home on the First 'Independence Day "
+
+*2024-02-03 05:36:20* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gk531l1e8o) · `si`
+
+Sri Lanka has been released on Western nations for centuries and 76 years on February 4 this year.
+
+Dominion was a colony in February 4, 1948, for many reasons that the long-term struggles, as well as independence to the Indian subcontinent.
+
+In this article, you will bring the freedom of Sri Lanka in seventy-six years ago by printed media.
+
+Dinamina, a daily newspaper, was the main headline of the newspaper on February 4, 1948. It is reported from another subheading subheading and the following is a quote in the report posted in the newspaper.
+
+"Today Sri Lanka will take place between Canada, Australia, New Zealand, South Africa, South Africa, India, Pakistan, C.. R. Prime Minister of Sri Lanka to mark Mr. Atley to be released. Eyes. The message sent to Senanayake is mentioned. "
+
+When studying the newspapers of the National Architecture, the debate on the National Flag, a few months ago, was observed by the newspapers.
+
+...
+
+[Data](articles/b2060221.json)
+
+[Extended Data](ext_articles/b2060221.ext.json)
 
 ---
 
@@ -1941,21 +1965,5 @@ The victim also complained that a gold bracelet worth USD 2,400, a necklace wort
 [Data](articles/08ae7063.json)
 
 [Extended Data](ext_articles/08ae7063.ext.json)
-
----
-
-### Special traffic plan tomorrow and tomorrow
-
-*2024-02-02 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192895) · `si`
-
-A special traffic plan is being operated at the 76th National Independence Day celebrations tomorrow (03) and tomorrow.
-
-Speaking at a press conference held at the Government Information Department, Police Media Spokesman Indika Hapugoda, in charge of the DIG, has said this.
-
-◼️
-
-[Data](articles/5f09ad3f.json)
-
-[Extended Data](ext_articles/5f09ad3f.ext.json)
 
 ---

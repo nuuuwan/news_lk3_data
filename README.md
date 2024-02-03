@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 09:50:59**
+As of **2024-02-03 10:02:14**
 
 ## Newspaper Stats
 
-*Scraped **4,498** Articles*
+*Scraped **4,501** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 252
 newsfirstlk | 278
 dailyftlk | 280
 adalk | 391
-virakesarilk | 499
+virakesarilk | 502
 adaderanasinhalalk | 548
 adaderanalk | 558
 tamilmirrorlk | 572
@@ -26,11 +26,29 @@ dailymirrorlk | 625
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,498 (100.0%) of 4,498 articles have been extended.
+4,498 (99.9%) of 4,501 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### மக்களை துன்புறுத்துவதற்கான அதிகாரங்களை வழங்குகின்ற சட்டங்களை அரசாங்கம் விலக்கிக்கொள்ளவேண்டும் - முன்னாள் ஜனாதிபதி சந்திரிகா
+
+*2024-02-03 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175425) · `ta`
+
+நிகழ்நிலை பாதுகாப்பு சட்டமும் பயங்கரவாத எதிர்ப்பு சட்டமூலமும் ,ஜனநாயக உரிமைகளை பயன்படுத்தி அரசாங்கத்தை விமர்சிக்கின்ற எதிர்ப்பு தெரிவிக்கின்ற மக்களை துன்புறுத்துவதற்கான அதிகாரங்களை இந்த சட்டமூலங்கள் அரசாங்கத்திற்கு வழங்குகின்றன என முன்னாள் ஜனாதிபதி சந்திரிகா குமாரதுங்க தெரிவித்துள்ளார்
+
+இந்த சட்டமூலங்கள் குறித்து விவாதிக்கப்பட்டுள்ளதால்  கலந்துரையாடப்பட்டுள்ளதால் போராட்டங்கள் வீதிகளில் இடம்பெற்றுள்ளதால் இந்த சட்டங்கள் குறித்து நான் தெளிவுபடுத்தப்போவதில்லை .
+
+ஒரு சிரேஸ்ட பிரஜை என்ற அடிப்படையில் எனது கருத்து என்னவென்றால் இரண்டும் மிகவும் பாரதூரமானவை ஆபத்தானவை.
+
+இந்த சட்டங்கள் ஜனநாயக வழியில் செயற்படும் மக்களை துன்புறுத்துவதற்கான தேவைக்கு அதிகமான அதிகாரங்களை அரசாங்கத்திற்கு வழங்குகின்றன,ஜனநாயக உரிமைகளை பயன்படுத்தி அரசாங்கத்தை விமர்சிக்கின்ற எதிர்ப்பு தெரிவிக்கின்ற மக்களை துன்புறுத்துவதற்கான அதிகாரங்களை இந்த சட்டமூலங்கள் அரசாங்கத்திற்கு வழங்குகின்றன.
+
+◼️
+
+[Data](articles/45106870.json)
+
+---
 
 ### Keheliya
 
@@ -45,6 +63,22 @@ The CID has recorded statements from the former Minister of Controversial Human 
 [Data](articles/7c694cd7.json)
 
 [Extended Data](ext_articles/7c694cd7.ext.json)
+
+---
+
+### இலஞ்ச குற்றச்சாட்டில் இரு பொலிஸ் உத்தியோகத்தர்கள் கைது!
+
+*2024-02-03 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/175424) · `ta`
+
+மாத்தளை மஹாவெல பொலிஸ் நிலையத்தின் போக்குவரத்துப் பிரிவில் கடமையாற்றும் பொலிஸ் சார்ஜன்ட்கள் இருவர்,  ஒருவரிடம் 10,000 ரூபாவை இலஞ்சமாகப் பெற்ற குற்றச்சாட்டில் இலஞ்ச ஒழிப்பு திணைக்கள அதிகாரிகளினால் கைது செய்யப்பட்டுள்ளனர்.
+
+மாத்தளை மஹாவெல பிரதேசத்தில் வசிக்கும் ஒருவருக்கு போக்குவரத்து குற்றத்துக்கான  அபராதத் தொகையை குறைப்பதற்காக சம்பந்தப்பட்ட நபரிடமிருந்து இலஞ்சம் கோரிய நிலையிலேயே இவர்கள் கைது செய்யப்பட்டனர்.
+
+வருமான அனுமதிப்பத்திரம் மற்றும் காப்புறுதி சான்றிதழ் இன்றி வாகனம் செலுத்திய நபருக்கு குறைந்த தொகையில் அபராதப்பத்திரம் வழங்குவதற்காக இந்த இரண்டு பொலிஸ் சார்ஜன்ட்களும் தன்னிடம் 10,000 ரூபா இலஞ்சம் கேட்டதாக குறித்த நபர் இலஞ்ச ஒழிப்பு திணைக்களத்தில் செய்த முறைப்பாட்டின் பிரகாரம் இரண்டு பொலிஸ் உத்தியோகத்தர்களும் கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/e56178df.json)
 
 ---
 
@@ -89,6 +123,20 @@ Also, among the 203 suspects arrested on the list of the list of the criminal se
 [Data](articles/b7ab58dc.json)
 
 [Extended Data](ext_articles/b7ab58dc.ext.json)
+
+---
+
+### 100 மில்லியன் ரூபா பெறுமதியான போதை மாத்திரைகளுடன் வத்தளையில் ஒருவர் கைது
+
+*2024-02-03 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175423) · `ta`
+
+வத்தளை - ஏந்தேரமுல்லை பகுதியில் போதை மாத்திரைகளுடன் நபரொருவர் விசேட அதிரடிப்படையினரால் கைதுசெய்யப்பட்டுள்ளார்.
+
+இவ்வாறு கைப்பற்றப்பட்ட போதை மாத்திரைகளின் பெறுமதி 100 மில்லியன் ரூபாவென விசேட அதிரடிப்படையினர் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/a460f843.json)
 
 ---
 
@@ -1915,75 +1963,5 @@ The caretaker administration, which took office in August to oversee the Feb. 8 
 [Data](articles/71df9a31.json)
 
 [Extended Data](ext_articles/71df9a31.ext.json)
-
----
-
-### Understanding Sri Lanka’s Online Safety Act: What You Need to Know
-
-*2024-02-02 16:58:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/understanding-sri-lanka-s-online-safety-act-what-you-need-to-know/) · `en`
-
-COLOMBO (News 1st); The Sri Lankan government has officially published the Online Safety Act by way of a Gazette.
-
-This Act introduces several new laws, including a provision granting a newly established five-member commission the power to ban the communication of "false statements" online.
-
-Mahinda Yapa Abeywardana, Speaker of Parliament endorsed the certificate on the Online Safety Bill which was passed in Parliament, and it was published via an official gazette.
-
-Multiple factors influence the labeling of a statement as false.
-
-A “false statement” means a statement that is known or believed by its maker to be incorrect or untrue
-
-In addition, a “false statement” means statement made especially with intent to deceive or mislead
-
-However, it does not include a caution, an opinion or imputation made in good faith.
-
-...
-
-[Data](articles/018146a5.json)
-
-[Extended Data](ext_articles/018146a5.ext.json)
-
----
-
-### Ongoing health strike to be called off
-
-*2024-02-02 16:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ongoing-health-strike-to-be-called-off/108-276222) · `en`
-
-Colombo, Feb 02 (Daily Mirror) -  The trade unions representing the health sector have decided to suspend the ongoing strike action from 6.30 am tomorrow (03).
-
-At least 72 trade unions within the health sector resorted to an island-wide strike yesterday (01) in protest of the long-standing dispute over the Disturbance, Availability and Transport (DAT) allowance.
-
-◼️
-
-[Data](articles/a847f04d.json)
-
-[Extended Data](ext_articles/a847f04d.ext.json)
-
----
-
-### Sri Lanka stocks close up 0.5-pct
-
-*2024-02-02 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-0-5-pct-149745/) · `en`
-
-ECONOMYNEXT – Sri Lanka stocks closed up 0.5 percent amid foreign selling, preliminary stock exchange data showed.
-
-The broader CSE All Share Index closed up 55 points at 10,430 points while the S&P SL20 Index went up 9.7 points to close at 2,943 points, up 0.33 percent.
-
-Foreign sales were 166 million and purchases were 8.5 million rupees.
-
-Central Finance closed at 103.00 rupees up 0.75 rupees, Commercial Bank of Ceylon was 88 rupees, down 10 cents, Cargills Bank was flat at 7.80 rupees, DFCC was 75.40 rupees, Hatton National Bank was 134 rupees, up 2.75,
-
-Dialog was 9.20 up 10 cents and Sri Lanka Telecom was 99.60 rupees, up 20 cents.
-
-Ceylon Cold Stores was 45 rupees up 2.40 rupees, Distilleries was 26.50 down 30 cents and
-
-Dipped Products was 26.90 up 20 cents, Expo Lanka was 130.50 rupees, down 25 cents, Hayleys was 73.10 rupees down 40 cents and Haycarb was 71.20 rupees.
-
-Chevron Lubricants was 94.00 rupees flat and Lanka IOC was 104.50 rupees, up 2.50 rupees. (Colombo/Feb02/2024)
-
-◼️
-
-[Data](articles/f8a1c174.json)
-
-[Extended Data](ext_articles/f8a1c174.ext.json)
 
 ---

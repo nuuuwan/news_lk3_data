@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 14:02:20**
+As of **2024-02-03 14:17:32**
 
 ## Newspaper Stats
 
-*Scraped **4,534** Articles*
+*Scraped **4,539** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ newsfirstlk | 280
 dailyftlk | 280
 adalk | 392
 virakesarilk | 508
-adaderanasinhalalk | 553
+adaderanasinhalalk | 556
 adaderanalk | 564
 tamilmirrorlk | 575
-dailymirrorlk | 630
+dailymirrorlk | 632
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,533 (100.0%) of 4,534 articles have been extended.
+4,534 (99.9%) of 4,539 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### තායිලන්ත අගමැති දිවයිනට
+
+*2024-02-03 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192922) · `si`
+
+හෙට පැවැත්වෙන ශ්‍රී ලංකාවේ 76 වැනි නිදහස් සමරු උලෙළේ ප්‍රධාන ආරාධිතයා ලෙස ද තායිලන්ත අග්‍රාමාත්‍යවරයා එක් වීමට නියමිතයි.
+
+තායිලන්ත අග්‍රාමාත්‍යවරයාගේ මෙරට සංචාරයට සමගාමීව ශ්‍රී ලංකා – තායිලන්ත නිදහස් වෙළෙඳ ගිවිසුමට හා ශ්‍රී ලංකා මැණික් හා ස්වර්ණාභරණ පර්යේෂණ හා අභ්‍යාස ආයතනය හා තායිලන්ත මැණික් හා ස්වර්ණාභරණ ආයතනය අතර අවබෝධතා ගිවිසුමකට අත්සන් තැබීමට ද නියමිත බව වාර්තා වේ.
+
+මේ අතර, තායිලන්ත අග්‍රාමාත්‍ය ස්‍රෙතා තවිසින් මහතා හෙට දහවල් කොළඹ කොටහේන දිපදුත්තාරාම තායි රාජ මහා විහාරයට ද පැමිණීමට නියමිතයි.
+
+◼️
+
+[Data](articles/bc062120.json)
+
+---
 
 ### Over 750 prisoners to receive presidential pardon on 76th Independence Day
 
@@ -45,6 +61,78 @@ The special pardon is granted by virtue of the powers vested in the President un
 ◼️
 
 [Data](articles/dd57a2b7.json)
+
+[Extended Data](ext_articles/dd57a2b7.ext.json)
+
+---
+
+### පැහැරගෙන ගොස් පහරදුන් සැකකරුවන් සොයා විමර්ශනයක්
+
+*2024-02-03 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192920) · `si`
+
+ඇඹිලිපිටිය - කිරලවැල්කටුව ප්‍රදේශයේ පදිංචි තරුණයෙකු ඊයේ (02) පස්වරුවේ වෑන් රථයකින් පැමිණි කිසියම් පිරිසක් විසින් පැහැරගෙන ගොස් තිබේ.
+
+පොලීසිය පැවසුවේ අදාළ පිරිස එම තරුණයා කැලෑබද ප්‍රදේශයකට රැගෙන ගොස් ඔහුට තියුණු ආයුධවලින් අමානුෂික ලෙස පහර දී ඇති බවයි.
+
+තරුණයාට පහර දෙමින් එය වීඩියෝගත කළ ඔවුන් එය සමාජ මාධ්‍යය වෙත ද මුදාහැර තිබිණි.
+
+තරුණයා පැහැරගත් පිරිස එම රූප රාමු ඔහුගේ ඥාතීන් වෙත ද යවා ඇති අතර එම දර්ශන දුටු ඔහුගේ ඥාතීන් ඒ පිළිබඳ ඇඹිලිපිටිය කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී සුදත් මාසිංහ මහතා වෙත දැනුම් දී තිබේ.
+
+ඒ අනුව කුට්ටිගල පොලීසිය හා ඇඹිලිපිටිය මූලස්ථාන පොලීසිය එක්ව විමර්ශනයක් ආරම්භ කර අදාළ තරුණයා රඳවා සිටි කැලෑබද ප්‍රදේශයට ගොස් ඔහු මුදාගෙන ඇත.
+
+පොලීසිය පැවසුවේ වැටලීම සිදු කළ අවස්ථාවේ සැකකරුවන් පිරිස එම ස්ථානයෙන් පළා ගොස් ඇති බවත් ඔවුන්ට ඔත්තු සැපයූ පුද්ගලයෙකු අත්අඩංගුවට ගත් බවත් ය.
+
+එම අවස්ථාවේ දී රෝහල තුළ සෞඛ්‍ය වර්ජනය පැවැත්වීම හේතුවෙන් නොසන්සුන්තාවක් ද හටගෙන තිබිණි.
+
+මෙලෙස පහරකෑමට ලක් වී තිබුණේ, 24 හැවිරිදි කිරලවැල්කටුව ප්‍රදේශයේ පදිංචි තරුණයෙකි.
+
+...
+
+[Data](articles/fb37ca5f.json)
+
+---
+
+### වගා හානි සඳහා රුපියල් ලක්ෂයක් ඉල්ලයි
+
+*2024-02-03 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192919) · `si`
+
+ස්වාභාවික හේතූන් මත විනාශ වූ වගාවන් සඳහා අක්කරයකට රුපියල් ලක්ෂයක මුදලක් ලබාදීමට රජය කටයුතු කළ යුතු බව සමස්ත ලංකා ගොවිජන සම්මේලනයේ ජාතික සංවිධායක නාමල් කරුණාරත්න මහතා පවසයි.
+
+අම්පාර ප්‍රදේශයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් ඔහු මෙම අදහස් පළ කළේය.
+
+මේ අතර, කීඩෑ උවදුරක් හේතුවෙන් අනුරාධපුර දිස්ත්‍රික්කයේ ප්‍රදේශ රැසක වී වගාවට දැඩි බලපෑම් එල්ල වී ඇත.
+
+අනුරාධපුර දිස්ත්‍රික්කයේ වගා බිම් සියල්ලම පාහේ මෙවර මහ කන්නය වෙනුවෙන් වී වගා කර තිබේ.
+
+එම දිස්ත්‍රික්කයේ නෑගම්පහ, මානේරුව සහ වම්බටුවැව යන ප්‍රදේශ එලෙස වැඩි වශයෙන් වී වගාව සිදු කෙරුණ ප්‍රදේශ කිහිපයකි.
+
+නමුත් මේ දිනවල පැතිර යන කීඩෑ උවදුරක් හේතුවෙන් ප්‍රදේශයේ වී වගාවට දැඩි බලපෑම් එල්ල වී තිබේ.
+
+ප්‍රදේශයේ ගොවීන් පවසන්නේ, මාස දෙක හමාර පසු වී ඇති කිරි වදින ගොයමට මෙම කීඩෑ උවදුරෙන් වැඩිම බලපෑම එල්ල වී ඇති බවයි.
+
+ගොවීන් බලධාරින්ගෙන් ඉල්ලා සිටින්නේ, විශාල මුදලක් වැය කර සිදු කළ ගොවිතැන් විනාශ වීම වළක්වා ගැනීමට කඩිනම් පියවර ගන්නා ලෙසයි.
+
+...
+
+[Data](articles/e475579c.json)
+
+---
+
+### Indian submarine ’Karanj’ arrives in Colombo
+
+*2024-02-03 12:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-submarine-Karanj-arrives-in-Colombo/108-276279) · `en`
+
+Colombo, Feb 03 (Daily Mirror) - INS 'Karanj' – a submarine of the Indian Navy arrived at the port of Colombo today (03 February) on a formal visit. The visiting submarine was welcomed by the Sri Lanka Navy in precision of naval traditions.
+
+‘INS Karanj is a 67.5m long submarine with a crew of 53 and is commanded by Commander Arunabh.
+
+While the submarine is in the island, Sri Lanka Navy personnel will participate in a submarine awareness programme, and the submarine crew is set to explore some of the country’s tourist attractions.
+
+Concluding the official visit, INS ‘Karanj’ will depart the island on 05 February.
+
+◼️
+
+[Data](articles/11058273.json)
 
 ---
 
@@ -181,6 +269,26 @@ The Central Bank is the agent of the Sri Lanka Deposit Insurance Scheme. Sri Lan
 [Data](articles/8235af5e.json)
 
 [Extended Data](ext_articles/8235af5e.ext.json)
+
+---
+
+### Sri Lanka to take on Bangladesh in all-format tour next month
+
+*2024-02-03 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-take-on-Bangladesh-in-all-format-tour-next-month/108-276277) · `en`
+
+(Daily Mirror) - Sri Lanka will begin their all-format tour of Bangladesh next month with three T20Is, before the teams square off in ODI and Test series.
+
+The three T20Is will provide valuable preparation for both teams as they gear up for the T20 World Cup later this year in the West Indies and United States.
+
+After the three T20Is in Sylhet, the teams will travel to Chattogram for a three-match ODI series on March 13, 15 and 18.
+
+This will be followed by two Test matches, the first in Sylhet and the second in Chattogram, an opportunity for both teams to resume their World Test Championship campaigns for this year.
+
+Sri Lanka are currently last in the World Test Championship points table, having lost both Tests they have played so far in the current WTC cycle, against Pakistan last year, while Bangladesh are fourth, having split a two-match series against New Zealand.
+
+◼️
+
+[Data](articles/d3a840e2.json)
 
 ---
 
@@ -1827,111 +1935,5 @@ The Commercial Bank Goldnet Symposium 2024 organised by the Bank for Goldnet mem
 [Data](articles/af45ad7c.json)
 
 [Extended Data](ext_articles/af45ad7c.ext.json)
-
----
-
-### Room to Read and Colombo Stock Exchange ring the bell on behalf of education
-
-*2024-02-02 20:38:00* · [`islandlk`](http://island.lk/room-to-read-and-colombo-stock-exchange-ring-the-bell-on-behalf-of-education/) · `en`
-
-On behalf of the ‘International Day of Education’ which was celebrated on the 24th of January, Room to Read Sri Lanka partnered with the Colombo Stock Exchange to ring the opening bell for trading. Room to Read marks this occasion as it approaches a significant milestone of transforming the lives of 40 million children across the globe through quality education in 2024.
-
-Room to Read is a global nonprofit organization which creates a world free from illiteracy and gender inequality. It achieves this goal by helping children in historically low-income communities develop literacy skills and a habit of reading through its Literacy Program, and by supporting girls in secondary education with life skills and financial literacy via its Girls’ Education Program, as they build skills to succeed in school and negotiate key life decisions. It collaborates with governments and other partner organizations to deliver positive outcomes for children at scale.
-
-...
-
-[Data](articles/cb2e0781.json)
-
-[Extended Data](ext_articles/cb2e0781.ext.json)
-
----
-
-### Controversial Bollywood actor dies of cervical cancer
-
-*2024-02-02 20:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Controversial-Bollywood-actor-dies-of-cervical-cancer/107-276233) · `en`
-
-India, Feb 02 -  Bollywood actor and model Poonam Pandey has died from cervical cancer at the age of 32, according to a statement shared on social media that has shocked her fans.
-
-Her team shared a post on Pandey’s Instagram account, which has over 1.3 million followers, on Friday (2 February), which read: “This morning is a tough one for us.
-
-“Deeply saddened to inform you that we have lost our beloved Poonam to cervical cancer. Every living form that ever came in contact with her was met with pure love and kindness.”
-
-The news was later confirmed by Pandey’s manager Nikita Sharma, in a statement to NDTV.
-
-“Poonam Pandey, the beloved actress and social media personality, has tragically passed away this morning due to cervical cancer, leaving the entertainment industry in shock and mourning,” Sharma reportedly said.
-
-◼️
-
-[Data](articles/e8bb0534.json)
-
-[Extended Data](ext_articles/e8bb0534.ext.json)
-
----
-
-### Controversial Bollywood actor dies of cervical cancer
-
-*2024-02-02 20:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Controversial-Bollywood-actor-dies-of-cervical-cancer/108-276233) · `en`
-
-India, Feb 02 -  Bollywood actor and model Poonam Pandey has died from cervical cancer at the age of 32, according to a statement shared on social media that has shocked her fans.
-
-Her team shared a post on Pandey’s Instagram account, which has over 1.3 million followers, on Friday (2 February), which read: “This morning is a tough one for us.
-
-“Deeply saddened to inform you that we have lost our beloved Poonam to cervical cancer. Every living form that ever came in contact with her was met with pure love and kindness.”
-
-The news was later confirmed by Pandey’s manager Nikita Sharma, in a statement to NDTV.
-
-“Poonam Pandey, the beloved actress and social media personality, has tragically passed away this morning due to cervical cancer, leaving the entertainment industry in shock and mourning,” Sharma reportedly said.
-
-◼️
-
-[Data](articles/f00f5e4b.json)
-
-[Extended Data](ext_articles/f00f5e4b.ext.json)
-
----
-
-### Beliatta murder of Beliatta revealed
-
-*2024-02-02 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192898) · `si`
-
-The main shot of the Beliatta murder has fled to Dubai state.
-
-The main shot of the Pantember murder of the Beliatta has been a pension soldier.
-
-The suspect has revealed that the three-year-old wife of the suspect had been arrested yesterday (01) after his arrest yesterday.
-
-They had been arrested while hiding in the Gonnahena camp in the Police Special Task Force.
-
-They found 21 grams and 350 milligrams of heroin.
-
-The suspects have told the police that the main shotter, retired Navy, and had joined the busy bus before the murder.
-
-After the assassination, the major shotler had fled to Dubai and the airline tickets were prepared in Dubai-kingdoms.
-
-Recently, a former former former MP in the Senaigama Pradeshiya Sabha near the 17th of June, last year, has also revealed the assassination of a former member of the Ratgama Pradeshiya Sabha.
-
-Former UNP UNP UNP MP Dulaj waves were shot dead.
-
-The suspects have told police a 23 year old resident of Dodddro, a 23 year old resident of Doddduwe.
-
-...
-
-[Data](articles/b56491f6.json)
-
-[Extended Data](ext_articles/b56491f6.ext.json)
-
----
-
-### Keheliya arrested
-
-*2024-02-02 20:25:55* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-අත්අඩංගුවට/11-407871) · `si`
-
-Former Health Minister Keheliya Rambukwella has been arrested by the CID. The arrest was made after his arrival was taken by the Criminal Investigation Department for nearly 10 hours.
-
-◼️
-
-[Data](articles/be50da3d.json)
-
-[Extended Data](ext_articles/be50da3d.ext.json)
 
 ---

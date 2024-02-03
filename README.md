@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 18:33:13**
+As of **2024-02-03 18:49:50**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,576 (100.0%) of 4,577 articles have been extended.
+4,577 (100.0%) of 4,577 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
 
-### ශ්‍රී ලංකාව ලකුණු 212ක් ඉදිරියෙන‍්
+### Sri Lanka scored 212 runs
 
 *2024-02-03 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192933) · `si`
 
-ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර පැවැත්වෙන ටෙස්ට් තරගයේ දෙවැනි දිනය නිමා වනවිට ශ්‍රී ලංකා කණ්ඩායම සිය පළමු ඉනිම සඳහා කඩුලු 6ක් දැවී ලකුණු 410ක් රැස් කරගෙන සිටී.
+The Sri Lankan team scored 410 runs for the loss of 6 wickets for the loss of 6 wickets in their first innings.
 
-අද දිනයේ ඇන්ජලෝ මැතිව්ස් සිය 16වෙනි ටෙස්ට් ශතකය වාර්තා කිරීමට සමත් වූ අතර දිනේෂ් චන්දිමාල් 15වෙනි ටෙස්ට් ශතකය රැස්කිරීමට සමත් විය.
+Today, Angelo Mathews won the 16th Test century and Dinesh Chandimal collect to score 15th Test century.
 
-ඇෆ්ගනිස්තාන කණ්ඩායම සිය පළමු ඉනිම සඳහා රැස්කර ගනු ලැබුවේ ලකුණු 198ක් පමණි.
+The Afghan group was collected for their first innings.
 
 ◼️
 
 [Data](articles/72fcde01.json)
+
+[Extended Data](ext_articles/72fcde01.ext.json)
 
 ---
 

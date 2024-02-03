@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 07:29:03**
+As of **2024-02-03 07:51:09**
 
 ## Newspaper Stats
 
-*Scraped **4,466** Articles*
+*Scraped **4,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 252
 newsfirstlk | 275
 dailyftlk | 280
 adalk | 389
-virakesarilk | 498
+virakesarilk | 499
 adaderanasinhalalk | 538
 adaderanalk | 556
 tamilmirrorlk | 565
@@ -26,11 +26,33 @@ dailymirrorlk | 618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,464 (100.0%) of 4,466 articles have been extended.
+4,467 (100.0%) of 4,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### Iraq - Syria launches attack on Iran's positions in the United States: More than 85 goals attack
+
+*2024-02-03 07:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/175421) · `ta`
+
+The US has launched attacks on pro -Iranian groups in Iraq and Syria.
+
+According to reports, the US has so far attacked more than 85 targets.
+
+The US has carried out the attack in response to the attack on its site in Jordan.
+
+The United States Federal Ordinance said that it was attacked on the positions of Iran's military and the positions of armed groups involved.
+
+It has been reported that many aircraft, including long -term B1 attacks of the United States, have been used for the attacks.
+
+◼️
+
+[Data](articles/6f2568e8.json)
+
+[Extended Data](ext_articles/6f2568e8.ext.json)
+
+---
 
 ### US strikes 85 Iran-linked targets in Iraq and Syria
 
@@ -2007,25 +2029,5 @@ The project is also aimed at improving the financial and corporate capacity of t
 [Data](articles/3fd20f6c.json)
 
 [Extended Data](ext_articles/3fd20f6c.ext.json)
-
----
-
-### Anti-Terrorism Bill: Petition hearing concludes, SC to send determination to Speaker
-
-*2024-02-02 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/96947/anti-terrorism-bill-petition-hearing-concludes-sc-to-send-determination-to-speaker) · `en`
-
-The Supreme Court on Friday (Feb.02) concluded the hearing of petitions filed challenging the government’s new Anti-Terrorism Bill following the lengthy proceedings that continued for six days in total.
-
-Accordingly, the determination of the Supreme Court is slated to be forwarded to the Speaker of Parliament soon.
-
-Thirty-one petitions had been put forward against the proposed legislation which seeks to replace the controversial Prevention of Terrorism Act (PTA).
-
-Among the petitioners are His Eminence Malcolm Cardinal Ranjith, General Secretary of Samagi Jana Balawegaya (SJB) Ranjith Madduma Bandara, National People’s Power (NPP) MP Vijitha Herath, Centre for Policy Alternatives (CPA), Socialist Youth Union (SYU), Duminda Nagamuwa of Frontline Socialist Party (FSP) and the Ceylon Teachers’ Union (CTU).
-
-...
-
-[Data](articles/4fb6327b.json)
-
-[Extended Data](ext_articles/4fb6327b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 18:07:37**
+As of **2024-02-03 18:19:15**
 
 ## Newspaper Stats
 
-*Scraped **4,575** Articles*
+*Scraped **4,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 281
 adalk | 393
 virakesarilk | 516
 adaderanasinhalalk | 565
-adaderanalk | 570
+adaderanalk | 571
 tamilmirrorlk | 577
 dailymirrorlk | 641
 
@@ -26,7 +26,7 @@ dailymirrorlk | 641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,575 (100.0%) of 4,575 articles have been extended.
+4,575 (100.0%) of 4,576 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,20 @@ Keheliya Rambukwella had been arrested by the Criminal Investigation Department 
 [Data](articles/d4303049.json)
 
 [Extended Data](ext_articles/d4303049.ext.json)
+
+---
+
+### Keheliya admitted to Prison Hospital
+
+*2024-02-03 17:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96975/keheliya-admitted-to-prison-hospital-) · `en`
+
+Former Health Minister Keheliya Rambukwella, who was put behind bars on remand earlier today, has been admitted to the Prisons Hospital on medical recommendation.
+
+The lawmaker was remanded until 15 February on the orders of Maligakanda Magistrate’s Court.
+
+◼️
+
+[Data](articles/bba28cdf.json)
 
 ---
 
@@ -290,13 +304,11 @@ Negotiations for the free trade agreement between Sri Lanka and Thailand resumed
 
 *2024-02-03 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/96974/sri-lanka-thailand-sign-historic-free-trade-agreement) · `en`
 
-The historic Sri Lanka - Thailand Free Trade Agreement (SLTFTA) has been signed, a short while ago at the Presidential Secretariat in the presence of Prime Minister of Thailand Srettha Thavisin and President Ranil Wickremesinghe.
+In Sri Lanka’s pursuit of transforming into a high-income country by 2048 involving trade negotiations with countries like Thailand, the Sri Lanka Thailand Free Trade Agreement (SLTFTA), was signed, during the visit of Thai Prime Minister Srettha Thavisin and his delegation of business dignitaries today (03) at the Presidential Secretariat.
 
-Thai PM Thavisin arrived on the island earlier today (Feb.03) for a 2-day visit, accompanied by a high-level delegation. He is also scheduled to grace the national ceremony to mark the 76th Anniversary of the Independence of Sri Lanka as Guest of Honour.
+This move aims to enhance market opportunities, with negotiations covering various aspects such as Trade in Goods, Investment, Customs Procedure, and Intellectual Property Rights.
 
-The FTA is expected to bolster trade and investment ties between the two nations, and also promote deeper integration with the Asian economies.
-
-Negotiations for the free trade agreement between Sri Lanka and Thailand resumed in November 2023 after being put on hold for 4 years consequent to the Covid-19 pandemic and ongoing restructuring of Sri Lanka’s state-owned entities.
+Minister of Trade, Commerce, and Food Security, Mr. Nalin Fernando, represented Sri Lanka by signing the agreement, while Phumtham Wechayachai, Deputy Prime Minister and Minister of Commerce, represented Thailand by signing the accord.
 
 ...
 
@@ -1975,29 +1987,5 @@ When studying the newspapers of the National Architecture, the debate on the Nat
 [Data](articles/b2060221.json)
 
 [Extended Data](ext_articles/b2060221.ext.json)
-
----
-
-### US strikes 85 Iran-linked targets in Iraq and Syria
-
-*2024-02-03 05:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/03/us-strikes-85-iran-linked-targets-in-iraq-and-syria/) · `en`
-
-Colombo (News 1st) – US forces struck 85 individual targets in 7 locations in Syria and Iraq early Saturday (3rd) that it claims are linked to Iran, in a significant expansion of hostilities in the Middle East, foreign media reported.
-
-The massive escalation came in response to the drone attack on a US base in Jordan more than a week ago that killed three US soldiers and injured over 40.
-
-President Joe Biden said in a statement "Our response began today. It will continue at times and places of our choosing."
-
-US Central Command said its forces conducted airstrikes against Iran’s Islamic Revolutionary Guards Corp Quds Force and affiliated militia groups.
-
-The strikes came from a range of US forces, including long-range B1 bombers that flew in from the United States. Seven locations were hit – four in Syria and three in Iraq – with over 125 bombs and missiles.
-
-Special traffic plan in action in Colombo for Independence day celebration
-
-◼️
-
-[Data](articles/91d68a1b.json)
-
-[Extended Data](ext_articles/91d68a1b.ext.json)
 
 ---

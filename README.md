@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 22:49:47**
+As of **2024-02-03 23:02:33**
 
 ## Newspaper Stats
 
-*Scraped **4,598** Articles*
+*Scraped **4,600** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 253
 dailyftlk | 280
 newsfirstlk | 282
 adalk | 395
-virakesarilk | 517
+virakesarilk | 518
 adaderanasinhalalk | 571
-adaderanalk | 578
+adaderanalk | 579
 tamilmirrorlk | 581
 dailymirrorlk | 642
 
@@ -26,11 +26,77 @@ dailymirrorlk | 642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,598 (100.0%) of 4,598 articles have been extended.
+4,600 (100.0%) of 4,600 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### 51 people living in 7 districts of the North and East
+
+*2024-02-03 22:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175482) · `ta`
+
+The swearing -in ceremony of Sri Lanka's citizenship was held at the Vavuniya District Secretariat on Saturday (03).
+
+Many people who have returned to the country after the end of the war with the children who were born in India due to the war and lived in India, are facing various crises.
+
+The Ober Ceylon Company has taken steps to provide a rapid birth certificate as a mobile program by the District Secretariat and the Department of Immigration and Emigration.
+
+In the meantime, 51 persons from the Northern and Eastern districts of Vavuniya, Mannar, Mullaitivu, Kilinochchi, Jaffna, Batticaloa and Trincomalee have taken steps to obtain citizenship and birth certificate.
+
+Vavuniya District Government Agent PA Sarathchandra, District Additional Government Agent Threskumar, Deputy Commissioner of Immigration and Emigration, EH Nayana, Officers of the Department of Immigration and Emigration. Suryakumari Director and many others were present.
+
+◼️
+
+[Data](articles/216bf9c4.json)
+
+[Extended Data](ext_articles/216bf9c4.ext.json)
+
+---
+
+### Indonesia and Sri Lanka blast EU for ‘double standards’ on Gaza
+
+*2024-02-03 22:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96983/-indonesia-and-sri-lanka-blast-eu-for-double-standards-on-gaza) · `en`
+
+Indonesia and Sri Lanka’s foreign ministers called on the European Union to be consistent in its approach to the conflict in Gaza as it has with Ukraine, as ministers from Europe, the Indo-Pacific and the Association of Southeast Asian Nations gathered for meetings in Brussels on Friday.
+
+“ASEAN and the EU should be at the front line in respecting values and principles of international law, the respect should also be applied to Palestine, to Gaza,” Indonesian Foreign Minister Retno Marsudi told a forum of Indo-Pacific and European ministers.
+
+“I do believe that the EU and all of us, as firm supporters of upholding international law, will also have a consistent position when it comes to Gaza,” she added.
+
+Ali Sabry, Sri Lanka’s foreign minister, echoed the sentiment, telling reporters, “We represent the sentiment of the Global South, that there’s double standards when it comes to the Middle East.”
+
+...
+
+[Data](articles/8c8a14a0.json)
+
+[Extended Data](ext_articles/8c8a14a0.ext.json)
+
+---
+
+### Sri Lanka and Thailand signs free trade agreement
+
+*2024-02-03 22:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175481) · `ta`
+
+The Independent Trade Agreement was signed at the Presidential Secretariat to improve market opportunities, including business, investment, customs activities and intellectual property rights between Thailand and Sri Lanka.
+
+In addition, the liberal bilateral flights between the Sri Lanka -Thailand airlines have been signed at the Presidential Secretariat.
+
+In addition, a Memorandum of Understanding (MoU) was signed at the Presidential Secretariat to strengthen bilateral cooperation between Sri Lanka's Gem Jewelery and Training Institute (GJRTI) and Thailand's Gem Orana Organization (GIT).
+
+Earlier, a group of Thailand's Prime Minister Shreta Davisin arrived in Sri Lanka on Saturday afternoon.
+
+Prime Minister Dinesh Gunawardena welcomed them at the Bandaranaike International Airport.
+
+Following this, President Ranil Wickremesinghe greeted the Prime Minister of Sri Lanka Shreta Tavisin and his team at the Presidential Secretariat at the Presidential Secretariat.
+
+...
+
+[Data](articles/2a7623f6.json)
+
+[Extended Data](ext_articles/2a7623f6.ext.json)
+
+---
 
 ### Sri Lanka’s trade deficit dropped to lowest in 2023 after 13 years - CBSL
 
@@ -475,30 +541,6 @@ The lawmaker was remanded until 15 February on the orders of Maligakanda Magistr
 [Data](articles/bba28cdf.json)
 
 [Extended Data](ext_articles/bba28cdf.ext.json)
-
----
-
-### Sri Lanka and Thailand signs free trade agreement
-
-*2024-02-03 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175481) · `ta`
-
-The Independent Trade Agreement was signed at the Presidential Secretariat to improve market opportunities, including business, investment, customs activities and intellectual property rights between Thailand and Sri Lanka.
-
-In addition, the liberal bilateral flights between the Sri Lanka -Thailand airlines have been signed at the Presidential Secretariat.
-
-In addition, a Memorandum of Understanding (MoU) was signed at the Presidential Secretariat to strengthen bilateral cooperation between Sri Lanka's Gem Jewelery and Training Institute (GJRTI) and Thailand's Gem Orana Organization (GIT).
-
-Earlier, a group of Thailand's Prime Minister Shreta Davisin arrived in Sri Lanka on Saturday afternoon.
-
-Prime Minister Dinesh Gunawardena welcomed them at the Bandaranaike International Airport.
-
-Following this, President Ranil Wickremesinghe greeted the Prime Minister of Sri Lanka Shreta Tavisin and his team at the Presidential Secretariat at the Presidential Secretariat.
-
-...
-
-[Data](articles/2a7623f6.json)
-
-[Extended Data](ext_articles/2a7623f6.ext.json)
 
 ---
 
@@ -1977,45 +2019,5 @@ Winds will be north-easterly or easterly and wind speed will be 20-30 kmph.
 [Data](articles/f1f43581.json)
 
 [Extended Data](ext_articles/f1f43581.ext.json)
-
----
-
-### CID to produce MInister Keheliya Rambukwella before court today
-
-*2024-02-03 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-to-produce-MInister-Keheliya-Rambukwella-before-court-today/108-276272) · `en`
-
-Colombo, Feb 03 (Daily Mirror) - Former Health Minister Keheliya Rambukwella who was arrested yesterday by the Criminal Investigation Department (CID) over the ongoing probe into the import of substandard Immunoglobulin injections, will be produced before the Maligakanda Magistrate's Court today.
-
-Rambukwella, currently serving as Environment Minister, becomes the highest-ranking official arrested so far in the widening investigations.
-
-Rambukwella arrived at the Criminal Investigation Department around 9 am yesterday, complying with a order issued by the Maligakanda Magistrate's Court.
-
-Maligakanda Magistrate Lochana Abeywickrama also imposed an overseas travel ban on Rambukwella on Thursday after he failed to report to the CID.
-
-...
-
-[Data](articles/563e0e8e.json)
-
-[Extended Data](ext_articles/563e0e8e.ext.json)
-
----
-
-### CID to produce Minister Keheliya Rambukwella before court today
-
-*2024-02-03 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-to-produce-Minister-Keheliya-Rambukwella-before-court-today/108-276272) · `en`
-
-Colombo, Feb 03 (Daily Mirror) - Former Health Minister Keheliya Rambukwella who was arrested yesterday by the Criminal Investigation Department (CID) over the ongoing probe into the import of substandard Immunoglobulin injections, will be produced before the Maligakanda Magistrate's Court today.
-
-Rambukwella, currently serving as Environment Minister, becomes the highest-ranking official arrested so far in the widening investigations.
-
-Rambukwella arrived at the Criminal Investigation Department around 9 am yesterday, complying with a order issued by the Maligakanda Magistrate's Court.
-
-Maligakanda Magistrate Lochana Abeywickrama also imposed an overseas travel ban on Rambukwella on Thursday after he failed to report to the CID.
-
-...
-
-[Data](articles/8d474ecb.json)
-
-[Extended Data](ext_articles/8d474ecb.ext.json)
 
 ---

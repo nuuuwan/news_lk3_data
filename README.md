@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 16:33:08**
+As of **2024-02-03 16:47:33**
 
 ## Newspaper Stats
 
-*Scraped **4,555** Articles*
+*Scraped **4,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 253
 dailyftlk | 280
 newsfirstlk | 281
 adalk | 393
-virakesarilk | 512
-adaderanasinhalalk | 556
+virakesarilk | 514
+adaderanasinhalalk | 562
 adaderanalk | 569
 tamilmirrorlk | 577
 dailymirrorlk | 635
@@ -26,11 +26,51 @@ dailymirrorlk | 635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,551 (99.9%) of 4,555 articles have been extended.
+4,563 (100.0%) of 4,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### 12 -year -old student dies in a vehicle accident
+
+*2024-02-03 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175472) · `ta`
+
+A 12 -year -old student was killed when a lorry collided.
+
+The incident took place on Saturday (03) in front of the Southeastern University of Southeastern University of Samanthurai - Ambarai.
+
+A student who was traveling from the side of the university faculty to his house on the next side has died in a collision with a Kentor vehicle collision from Samanthurai.
+
+AM Basir (age 12), a resident of Samanthurai main road, has died and the driver of the lorry has been arrested.
+
+The vehicle of the accident has been parked at the Samanthurai police station and the body of the student who died. Further investigations are being carried out by Samanthurai police.
+
+◼️
+
+[Data](articles/87111445.json)
+
+[Extended Data](ext_articles/87111445.ext.json)
+
+---
+
+### Thailand commercial agreement signs Sri Lanka
+
+*2024-02-03 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192928) · `si`
+
+Sri Lanka's Thailand Free Trade Agreement was held today (03).
+
+The Prime Minister of Thailand was signed in parallel to the country's visit to Sri Lanka.
+
+The Sri Lanka - Thailand signed the Free Trade Agreement, the Sri Lanka Gem and Jewelery Research and Training Institute and the Signing of a Memorandum of Understanding between Thailand Menik and Jewelery Institute.
+
+◼️
+
+[Data](articles/69d3c669.json)
+
+[Extended Data](ext_articles/69d3c669.ext.json)
+
+---
 
 ### Poonam Pandey says ’’Didn’t die of cervical cancer’’
 
@@ -50,6 +90,8 @@ She said that her "death" post was an effort to initiate a conversation and spre
 
 [Data](articles/783b8684.json)
 
+[Extended Data](ext_articles/783b8684.ext.json)
+
 ---
 
 ### Sri Lanka - Thailand Free Trade Agreement signed
@@ -68,23 +110,73 @@ Negotiations for the free trade agreement between Sri Lanka and Thailand resumed
 
 [Data](articles/4e307549.json)
 
+[Extended Data](ext_articles/4e307549.ext.json)
+
 ---
 
-### பாடசாலை மதிலை துவம்சம் செய்த காட்டுயானை
+### President Ranil welcomes a group of people including Thailand Prime Minister
+
+*2024-02-03 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/175469) · `ta`
+
+President Ranil Wickremesinghe was formally welcomed at the Presidential Secretariat at the Presidential Secretariat.
+
+Thailand's Prime Minister Shreta Davis arrived in Sri Lanka on Saturday afternoon.
+
+He has visited the country on the invitation of President Ranil Wickremesinghe and is the chief guest at the 76th Independence Day celebration of Sri Lanka.
+
+Prime Minister Dinesh Gunawardena made a special welcome at the Bandaranaike International Airport as the Prime Minister of Thailand Shretha Thavisin has visited the high -level delegation including Deputy Prime Minister Bhumdam Vechayachai.
+
+Meanwhile, the Prime Minister of Thailand will also participate in the signing of the Sri Lanka -Thailand Free Trade Agreement.
+
+◼️
+
+[Data](articles/8ad147fa.json)
+
+[Extended Data](ext_articles/8ad147fa.ext.json)
+
+---
+
+### Century from Mathews
+
+*2024-02-03 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192927) · `si`
+
+Angelo Mathews won the 16th Test century today (03).
+
+The Test match against the Afghan group was held with the Afghan group.
+
+Batting first innings Sri Lankan team scored 335 runs for the loss of 03 wickets.
+
+Angelo Mathews scored 105 runs and Dinesh Chandimal scored 90 runs.
+
+The Afghan group obtained only 198 marks for their first innings.
+
+◼️
+
+[Data](articles/f451d2ee.json)
+
+[Extended Data](ext_articles/f451d2ee.ext.json)
+
+---
+
+### A wild elephant that started school wall
 
 *2024-02-03 15:49:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பாடசாலை-மதிலை-துவம்சம்-செய்த-காட்டுயானை/73-332589) · `ta`
 
-மட்டக்களப்பு மாவட்டத்தின் படுவாங்கரைப் பிரதேசத்திற்குட்பட்ட வெல்லாவெளி, பாலையடிவட்டை, திக்கோடை, களுமுந்தன்வெளி, தும்பங்கேணி, மண்டூர், காந்திபுரம், உள்ளிட்ட பல பகுதிகளிலும், காட்டுயானைகளின் அட்டகாசங்கள் அதிகரித்து வருகின்றன.
+In many areas including Wellaveli, Palayadavatti, Thikkodai, Kalumundanveli, Thumbangeni, Mandur, Gandhipuram, etc., in the Paduwangarai area of the Batticaloa district, there is an increasing number of wild elephants.
 
-இந்நிலையில் வெள்ளிக்கிழமை(02) இரவு ` தும்பங்கேணி கண்ணகி வித்தியாலயத்தின் சுற்று மதிலின் ஒரு பகுதியை உடைத்து துவம்சம் செய்து விட்டுச் சென்றுள்ளதாக அப்பகுதியிலுள்ள மக்கள் தெரிவிக்கின்றனர்.
+In this case, people in the area say that a portion of the wall of the Thumbangeni Kannaki Vidyalaya has been broken down on Friday night (02).
 
-பட்டிருப்புக் கல்வி வலயத்தின் கீழுள்ள தும்பங்கேணி கண்ணகி வித்தியாலயத்தியாலயம் விவசாயச் சூழலில் அமைந்துள்ளது. மிகத் தொலைவிலிருந்து பல சிரமங்களுக்கு மத்தியில் அப்பாடசாலைக்கு ஆசிரியர்கள் சென்று அப்பகுதி மாணவர்களுக்கு கல்வி புகட்டி வருகின்றனர்.
+The Thumbangeni Kannaki Vidyalaya under the Education Zone is located in the agricultural environment. Amidst many difficulties, teachers go to the school amidst many difficulties.
 
-அதிபர் ஆசிரியர்களினதும், பாடசாலை அபிவிருத்திச் சங்கத்தினரதும் முயற்சிகளின் பலனாக அப்பாடசாலைக்கு ஒருபக்க மதில் கட்டப்பட்டுள்ளது. பாடசாலைக்கு மாணவர்களும் காட்டு யானைகளின் அச்சத்தின் மத்தியிலேயே சென்று வருகின்றனர்.
+The school is built on one side of the school as a result of the efforts of the Chancellor Teachers and the School Development Association.. Students of the school also go to the fear of wild elephants.
 
-...
+The school development association is worried that the wild elephant has been started by a part of it.. Remble
+
+◼️
 
 [Data](articles/3dc4d753.json)
+
+[Extended Data](ext_articles/3dc4d753.ext.json)
 
 ---
 
@@ -99,6 +191,20 @@ President Ranil Wickremesinghe has ceremonially welcomed the visiting Thai Prime
 [Data](articles/1ca832e1.json)
 
 [Extended Data](ext_articles/1ca832e1.ext.json)
+
+---
+
+### President and Thailand meets Prime Minister
+
+*2024-02-03 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192926) · `si`
+
+Prime Minister Smetha Tendas and President Ranil Wickremesinghe met at the Presidential Secretariat today (03).
+
+◼️
+
+[Data](articles/8ec55485.json)
+
+[Extended Data](ext_articles/8ec55485.ext.json)
 
 ---
 
@@ -218,21 +324,87 @@ He had made an appearance before the CID on Friday morning, complying with a cou
 
 ---
 
-### விபத்தில் 12 வயது மாணவன் ஸ்தலத்திலேயே மரணம்
+### Keheliya will be remanded
+
+*2024-02-03 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192925) · `si`
+
+Former Health Minister Keheliya Rambukwella has been remanded until the 15th of this month.
+
+Keheliya Rambukwella had been arrested by the Criminal Investigation Department yesterday (03).
+
+The Criminal Investigations Department (CID) has recorded the former minister for more than 10 hours yesterday of the controversial Human Emiyankulabulin incident.
+
+◼️
+
+[Data](articles/25b2bdaf.json)
+
+[Extended Data](ext_articles/25b2bdaf.ext.json)
+
+---
+
+### A group of prisoners tomorrow
+
+*2024-02-03 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192924) · `si`
+
+Presidential pardons will be held to a group of prisoners to mark the 76th Independence Day.
+
+Accordingly, 754 prisoners are to be released tomorrow (04).
+
+The President has preserved the special state forgiveness in depending on the powers vested in Section 34 of the Constitution.
+
+Accordingly, there are 729 male prisoners who qualify for the National Independence Day and 25 female prisoners of women.. Mr. Dissanayake said.
+
+◼️
+
+[Data](articles/2799ba40.json)
+
+[Extended Data](ext_articles/2799ba40.ext.json)
+
+---
+
+### The deceased is beautiful Bollywood actress
+
+*2024-02-03 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192923) · `si`
+
+The Indian designator and actor who reported the death of a cervical cancer yesterday (02) has stated that he is alive.
+
+A video on its social media account today, she said she expressed the sadness of the hurt.
+
+She had a note yesterday that she had died in a social media account that Phula was dead.
+
+However, it is aimed at the focus of the society regarding the attention of Phandy Padaya Cervical cancer, which has issued a video of the video that he is alive today.
+
+She said that she was able to make the objective through false propaganda on his death.
+
+However, it is said that many people are being expressed in the social media over this act.
+
+Poomal is considered as one who was in the social media expressing controversial statements.
+
+◼️
+
+[Data](articles/7f99803f.json)
+
+[Extended Data](ext_articles/7f99803f.ext.json)
+
+---
+
+### 12 -year -old student dies in an accident
 
 *2024-02-03 14:24:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/விபத்தில்-12-வயது-மாணவன்-ஸ்தலத்திலேயே-மரணம்/73-332587) · `ta`
 
-சம்மாந்துறை – அம்பாரை பிரதான வீதியில் தென்கிழக்கு பல்கலைக் கழகத்தின் சம்மாந்துறை பிரயோக விஞ்ஞான  பீடத்தின் முன்னால் இடம்பெற்ற விபத்தில் 12 வயதுடைய சிறுவன் உடல் நசுங்கி இன்று பலியாகினார்.
+A 12 -year -old boy was killed in a accident in front of the Southeastern University of Southeastern University on the main road of Samanthurai - Ambarai.
 
-குறித்த சிறுவன் பல்கலைக்கழக  பீடத்தின் பக்கத்திலிருந்து வீதியை கடந்து அடுத்த பக்கத்தில் உள்ள தமது வீட்டுக்குச் சென்று கொண்டிருந்த குறித்த மாணவனை சம்மாந்துறை பகுதியில் இருந்து  அம்பாறையை நோக்கி   வந்த  கென்டர் ரக வாகனம் மோதியலில்  மாணவன் ஸ்தலத்திலேயே மரணமடைந்துள்ளார்.
+The boy who was traveling from the side of the university faculty to his house on the next side, the student who was traveling from the Samanthurai area to Amparai was killed in a collision with a student in the collision of a vehicle.
 
-இதன் போது சம்மாந்துறை பிரதான வீதி  உடங்கா 02 இல்  வசிக்கும்  ஏ.எம்.பாஸீர் (வயது 12) எனும் மாணவன்  மரணமடைந்துள்ளதுடன் லொரி சாரதி  கைது செய்யப்பட்டுள்ளார்.
+AM Basir (age 12), a resident of Uda 02, Samanthurai, has been arrested and the lorry driver has been arrested.
 
-விபத்துக்குள்ளான வாகனம் சம்மாந்துறை பொலிஸ் நிலையத்தில் நிறுத்தி வைக்கப்பட்டுள்ளதோடு மரணமடைந்த மாணவனின் உடல் சம்மாந்துறை ஆதார வைத்தியசாலையில் வைக்கப்பட்டுள்ளது.
+The vehicle has been parked at the Samanthurai police station and the body of the student who died has been kept at the Samanthurai Resource Hospital.
 
 ◼️
 
 [Data](articles/e40bb318.json)
+
+[Extended Data](ext_articles/e40bb318.ext.json)
 
 ---
 
@@ -1831,147 +2003,5 @@ Recognising the financial challenges faced by many customers, particularly durin
 [Data](articles/902967d8.json)
 
 [Extended Data](ext_articles/902967d8.ext.json)
-
----
-
-### 76 years on is Sri Lanka independent or in-dependence? What are we celebrating?
-
-*2024-02-03 00:11:00* · [`dailyftlk`](https://www.ft.lk/columns/76-years-on-is-Sri-Lanka-independent-or-in-dependence-What-are-we-celebrating/4-758094) · `en`
-
-Sri Lanka has not had the benefit of a local Mahatma Gandhi, neither then, nor even today. So the country has to have a different model to India. The ideal model would be a collective leadership with a high level multiparty governing council for a period of time at least to chart a common economic program that sets some key parameters and strategies to set the country on a long term economic and social revival
-
-There was no fight for . . . freedom which involved a fight for principles, policies, and programmes … No. It just came overnight. We just woke up one day and we were told, “You are a dominion now.” - S.W.R.D. Bandaranaike, Ceylon Prime Minister
-
-...
-
-[Data](articles/50019617.json)
-
-[Extended Data](ext_articles/50019617.ext.json)
-
----
-
-### March past a milepost and a new hope in court’s steps
-
-*2024-02-03 00:07:48* · [`dailyftlk`](https://www.ft.lk/columns/March-past-a-milepost-and-a-new-hope-in-court-s-steps/4-758093) · `en`
-
-It sings of a stauncher freedom and untrammelled liberty, which we earnestly desire but often find to be out of reach year after year, generation after generation – Pic by Ruwan Walpola
-
-As Sri Lanka parades past its 76th milepost on a journey of independence from colonial dominion today, there are a few factors to my mind that may help discern how the wind in that flag flies in the face of our march past.
-
-It sings of a stauncher freedom and untrammelled liberty, which we earnestly desire but often find to be out of reach year after year, generation after generation.
-
-The way we spend our days, of course, is the way we live our lives. This is as true of nations as it is of individuals.
-
-There is therefore some merit in examining the way we dealt in the year past with diurnal events as individuals, as it may indicate the turn that our destiny as a nation is taking.
-
-...
-
-[Data](articles/12871ea9.json)
-
-[Extended Data](ext_articles/12871ea9.ext.json)
-
----
-
-### SJB Protest Turns Out A Damp Squib
-
-*2024-02-03 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/SJB-Protest-Turns-Out-A-Damp-Squib/172-276236) · `en`
-
-Electioneering is in the air. The usual rounds of protests are commencing. The NPP/JVP combine commenced their programme to ‘educate’ the electorate of issues at hand some time ago. On Tuesday, the main opposition party (SJB) held what it expected to be a massive demonstration against the ‘Online Safety Bill’ (OSB), the imposition of taxes, various price hikes and a skyrocketing cost of living.
-
-The party expected to bring into Colombo 50,000 protestors. Unfortunately that expectation fell short by around 48,000. While many applaud the SJB sentiment of drawing attention to the dangers posed by the imposition of the OSB and the unbearable cost of living, everyone was aghast at the SJB’s claim of having led the ‘Aragalaya’ and the toppling of ex-President Gotabaya Rakapakasa.
-
-...
-
-[Data](articles/3dd56567.json)
-
-[Extended Data](ext_articles/3dd56567.ext.json)
-
----
-
-### Celebrating the Deaths of ‘Others’
-
-*2024-02-03 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Celebrating-the-Deaths-of-Others/172-276237) · `en`
-
-People in many parts of the country lit fire crackers when Former President Ranasinghe Premadasa was killed in a suicide attack by the LTTE on May 1, 1993 and people in many southern parts of the country shared “kiribath” and lit crackers over the killing of LTTE leader Velupillai Prabakaran by the army on May 19, 2009.
-
-How did you feel when the news about the tragic death of State Minister Sanath Nishantha first reached you? Did it make you feel sorrow or happy? Indeed, we all might have felt either one of the two, though sometimes we might have regretted rejoicing over the tragedy later.
-
-...
-
-[Data](articles/cc7b3bef.json)
-
-[Extended Data](ext_articles/cc7b3bef.ext.json)
-
----
-
-### 2024-02-02 (Friday)
-
-### Fraud, corruption rampant at SPC : GMOF
-
-*2024-02-02 23:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fraud-corruption-rampant-at-SPC-GMOF/108-276243) · `en`
-
-Feb 2 (Daily Mirror) -  Fraud and corruption activities persisted at the State Pharmaceuticals Corporation of Sri Lanka (SPC) during the tenure of former Health Minister Keheliya Rambukwella, claims the Government Medical Officers' Forum (GMOF).
-
-They further claim that these issues are ongoing, even following the appointment of a new Minister to the Health Ministry.
-
-According to GMOF president Dr. Rukshan Bellana, tenders initiated during the former chairmanship of Sarath Liyanage at the State Pharmaceuticals Corporation (SPC) were cancelled. However, he alleges that the same tenders are being reintroduced under the new SPC chairmanship, with the values inflated to ten times their previous amounts.
-
-"Despite the new Minister being aware of these revised tender procedures, he maintains a silent approach. Consequently, the GMOF is compelled to take decisive action to draw attention to this situation and address the matter with the Minister," the GMOF president said.
-
-...
-
-[Data](articles/464f5963.json)
-
-[Extended Data](ext_articles/464f5963.ext.json)
-
----
-
-### Les Enfants Du Paradis – Part II
-
-*2024-02-02 23:06:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/les-enfants-du-paradis-part-ii/) · `en`
-
-...
-
-[Data](articles/8fbc9276.json)
-
-[Extended Data](ext_articles/8fbc9276.ext.json)
-
----
-
-### Independent Of What & Whom?
-
-*2024-02-02 22:49:51* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/independent-of-what-whom/) · `en`
-
-It reminds us of the saying “Pride costs us more than hunger, thirst and cold” by Thomas Jefferson, when we see how rulers of an economically bankrupt nation are preparing themselves to celebrate their independence from the British colonialism. Even though it is true that the independence which is a process contributed by lots of men and women in the country should be celebrated and appreciated annually, the value of its financial cost is questionable at this crucial juncture where citizens are unprecedentedly taxed, inhumanely ignoring the capability of fulfilling even their basic needs. On the other hand, independence remains important and celebrate-worthy, given the fact that independence is gained from what or whom, especially how big the threat is. It is in that sense that we are able to figure out that the independence to be gained is more important and valuable than the one that our forefathers fought for.
-
-...
-
-[Data](articles/0c21676a.json)
-
-[Extended Data](ext_articles/0c21676a.ext.json)
-
----
-
-### Two UK teens get life sentence for ‘sadistic’ killing of trans girl
-
-*2024-02-02 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96960/two-uk-teens-get-life-sentence-for-sadistic-killing-of-trans-girl) · `en`
-
-Two British teenagers were ordered to be detained for life on Friday for the “sadistic” knife murder of a 16-year-old transgender girl that shocked the country.
-
-Scarlett Jenkinson and Eddie Ratcliffe, both 16, killed Brianna Ghey in Warrington, northwest England, in February last year, in what the judge called a planned “frenzied and ferocious” assault.
-
-Ghey was stabbed 28 times in the head, neck, back and chest after believing she was going to meet a friend. Her body was discovered by dog walkers in a park.
-
-“You both took part in a brutal and planned murder which was sadistic in nature,” judge Amanda Yip told the pair as she handed down the sentence at Manchester Crown Court.
-
-Yip said that Jenkinson’s “primary motivation” had been a desire to kill, but the pair had also been motivated in part by Ghey’s transgender identity.
-
-The judge ruled that Jenkinson must serve a minimum of 22 years before being considered for release, while Ratcliffe must serve at least 20 years.
-
-...
-
-[Data](articles/b359d482.json)
-
-[Extended Data](ext_articles/b359d482.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 10:49:53**
+As of **2024-02-03 11:02:24**
 
 ## Newspaper Stats
 
@@ -26,25 +26,29 @@ dailymirrorlk | 629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,508 (99.9%) of 4,513 articles have been extended.
+4,513 (100.0%) of 4,513 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
 
-### யாழ். பல்கலைக்கழக மாணவர் ஒன்றியத்தின் போராட்டத்திற்கு தமிழ் மக்கள் கூட்டணி ஆதரவு
+### Yall. Tamil People's Alliance supports university student union struggle
 
 *2024-02-03 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175429) · `ta`
 
-யாழ்ப்பாண பல்கலைக்கழக மாணவர் ஒன்றியத்தினர் நாளை  4 ஆம் திகதியினை கரிநாள் எனப் பிரகடனப்படுத்தி அந் நாளில் கிளிநொச்சி நகரில் முன்னெடுக்கப்படவுள்ள போராட்டத்திற்கும் பேரணிக்கும் தமிழ் மக்கள் கூட்டணி தனது பூரண ஆதரவினைத் தெரிவித்துள்ளது.
+The Tamil People's Alliance (TNA) has expressed its full support for the Jaffna University Students Union to declare the day of the day as a black day.
 
-இது தொடர்பில் அக்கட்சியின் செயலாளர் நாயகமும் பாராளுமன்ற உறுப்பினருமான க.வி.விக்னேஸ்வரன் ஊடகங்களுக்கு அனுப்பி வைத்துள்ள செய்திக் குறிப்பில் இவ்விடயம் தெரிவிக்கப்பட்டுள்ளது.
+This was stated in a press release sent to the media, Secretary General of the party and Member of Parliament KV Wigneswaran.
 
-அந்த செய்திக் குறிப்பில்,1948ஆம் ஆண்டு பெப்ரவரி 4ஆம் திகதியானது ஒற்றையாட்சி என்ற விருச்சத்தின் கீழ் அதிகாரம் முழுவதையும் பெரும்பான்மை சிங்களவரிடம் கொடுத்து மதம், மொழி, இனம் போன்ற பேரினவாத கொள்கைகளை சிறுபான்மை இனத்தின் மீது மக்கள் தொகை பலத்தின் மூலம் பெரும்பான்மை சிங்கள மக்கள் திணிக்க ஏதுவாகவிட்டுச் சென்றநாள்.
+According to the news, on February 4, 1948, under the scoring of a single government, the majority of the Sinhalese, the chauvinist policies of religion, language and ethnicity, left the majority of the Sinhalese, through the strength of the majority of the Sinhalese.
+
+After the authority was handed over to the Sinhalese majority. Sinhalese Buddhist chauvinist states, who have changed the ruling of Sri Lanka from the UK's shoemaism, have been suppressed by the Tamil people and thought about how to extort their traditional lands. The Sinhalese soldiers stood for it.
 
 ...
 
 [Data](articles/974862ca.json)
+
+[Extended Data](ext_articles/974862ca.ext.json)
 
 ---
 
@@ -66,35 +70,39 @@ The U.S. strikes appeared to stop short of directly targeting Iran or senior lea
 
 ---
 
-### ටෙස්ට් තරගයේ දෙවැනි දිනය ඇරඹෙයි
+### Test Competition begins
 
 *2024-02-03 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192916) · `si`
 
-ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර පැවැත්වෙන ටෙස්ට් තරගයේ දෙවැනි දිනය අද (03) ආරම්භ විය.
+The second day of the Test match between Sri Lanka and Afghanistan commenced today (03).
 
-පළමු ඉනිම වෙනුවෙන් ඇෆ්ගනිස්තාන කණ්ඩායම සියලු දෙනා දැවී ලකුණු 198ක් රැස් කළ අතර, ශ්‍රී ලංකා කණ්ඩායම දිනය නිමා වන විට කිසිවෙකු නොදැවී ලකුණු 80ක් රැස් කරගෙන සිටියේ ය.
+The Afghan group scored 198 runs for the loss of 198, while the Sri Lankan team concluded 80 runs.
 
 ◼️
 
 [Data](articles/17693b46.json)
 
+[Extended Data](ext_articles/17693b46.ext.json)
+
 ---
 
-### මතුගම සලිත කළ ඝාතනය
+### Murder of Matugama
 
 *2024-02-03 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192915) · `si`
 
-තියුණු ආයුධවලින් කපා කොටා අද (03) අලුයම පුද්ගලයෙකු ඝාතනය කර ඇති බව මතුගම පොලීසිය පවසයි.
+The Matugama Police say that a person has been murdered at a sharp weapons.
 
-මෙසේ ඝාතනයට ලක් ව ඇත්තේ, මතුගම ඕවිටිගල ප්‍රදේශයේ පදිංචි ව සිටි එම්.කලණ නමැති 38 හැවිරිදි පුද්ගලයෙකු බව පොලීසිය සඳහන් කර තිබේ.
+The victim is a 38 year old, who was living in Ovitigala area in Matugama, Matugama.
 
-නාඳුනන පුද්ගලයන් පිරිසක් පැමිණ අද අලුයම එම පහරදීම සිදු කර ඇති අතර, ඔහු බරපතළ තුවාල සහිත ව කළුතර - නාගොඩ ශික්ෂණ රෝහලට ඇතුළු කිරීමේ දී මිය ගොස් ඇති බව වාර්තා වේ.
+A group of unidentified persons came and had taken place this morning, reports say he had died in admission to the Nagoda Teaching Hospital with serious injuries.
 
-සැකකරුවන් මෙතෙක් හඳුනාගෙන නොමැති අතර, සිද්ධිය සම්බන්ධයෙන් මතුගම පොලීසිය වැඩිදුර පරීක්ෂණ පවත්වයි.
+The Matugama Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/e13bd2f7.json)
+
+[Extended Data](ext_articles/e13bd2f7.ext.json)
 
 ---
 
@@ -140,21 +148,23 @@ Accordingly, the Ministry further said that all government institutions will fun
 
 ---
 
-### කෝටි 10ක නීතිවිරෝධී මත්කරල් සමඟ පුද්ගලයෙකු අත්අඩංගුවට
+### Man arrested with illegal drugs
 
 *2024-02-03 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192914) · `si`
 
-නීති විරෝධී ව රුපියල් කෝටි 10කට අධික 'ප්‍රීගැබ්' මිලිගෑම් 150 වර්ගයේ මත් කරල් තොගයක් ජාවාරම් කිරීම සඳහා සන්තකයේ තබාගෙන සිටි පුද්ගලයෙකු පොලිස් විශේෂ කාර්ය බළකාය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+A person has been arrested by the STF in possession of Rs.
 
-පොලිස් විශේෂ කාර්ය බළකා බුද්ධි කොට්ඨාසයේ නිලධා‍රින් කණ්ඩායමක් එඬේරමුල්ල - වත්තල ප්‍රදේශයේ සිදු කළ වැටලීමක දී මෙම මත්පෙති සොයාගත් බව පොලිස් විශේෂ කාර්ය බළකාය සඳහන් කරයි.
+A team of the Police Special Task Force in the Police Special Task Force states that the drug was found in a raid in the Wattala, Wattala.
 
-සැකකරු සතු ව තිබී ප්‍රීගැබ් මිලිග්‍රෑම් 150 වර්ගයේ මත් කරල් 192,000ක් සොයාගෙන ඇත.
+192,000 Milligrams of Fighter have been recovered from the suspect.
 
-සැකකරු බදුල්ල ප්‍රදේශයේ පදිංචි වයස අවුරුදු 40ක පුද්ගලයෙකු වන අතර, ඔහු වැඩිදුර විමර්ශන කටයුතු සඳහා එඬේරමුල්ල පොලිස් ස්ථානය වෙත භාර දී ඇති බව සඳහන් ය.
+The suspect is a 40 year old resident of Badulla, and he has been handed over to the capturemulla police station for further investigations.
 
 ◼️
 
 [Data](articles/c9adef35.json)
+
+[Extended Data](ext_articles/c9adef35.ext.json)
 
 ---
 
@@ -1451,6 +1461,8 @@ The news was later confirmed by Pandey’s manager Nikita Sharma, in a statement
 ◼️
 
 [Data](articles/e8bb0534.json)
+
+[Extended Data](ext_articles/e8bb0534.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 17:52:49**
+As of **2024-02-03 18:07:37**
 
 ## Newspaper Stats
 
-*Scraped **4,574** Articles*
+*Scraped **4,575** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 281
 adalk | 393
 virakesarilk | 516
-adaderanasinhalalk | 564
+adaderanasinhalalk | 565
 adaderanalk | 570
 tamilmirrorlk | 577
 dailymirrorlk | 641
@@ -26,11 +26,27 @@ dailymirrorlk | 641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,574 (100.0%) of 4,574 articles have been extended.
+4,575 (100.0%) of 4,575 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### Keheliya hospitalized to Keheliya
+
+*2024-02-03 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192932) · `si`
+
+Former Health Minister Keheliya Rambukwella has been admitted to the Prison Hospital.
+
+Keheliya Rambukwella had been arrested by the Criminal Investigation Department yesterday (03). He was remanded until the 15th of this month.
+
+◼️
+
+[Data](articles/d4303049.json)
+
+[Extended Data](ext_articles/d4303049.ext.json)
+
+---
 
 ### Two policemen arrested for bribery charge
 
@@ -1983,27 +1999,5 @@ Special traffic plan in action in Colombo for Independence day celebration
 [Data](articles/91d68a1b.json)
 
 [Extended Data](ext_articles/91d68a1b.ext.json)
-
----
-
-### Jeevan congratulates Vijay's political journey
-
-*2024-02-03 03:04:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்யின்-அரசியல்-பயணத்துக்கு-ஜீவன்-வாழ்த்து/175-332579) · `ta`
-
-Jeevan Thondaman, the General Secretary of the Ceylon Workers Congress and the Minister of Water Resources and Estate Infrastructure Development, said that Vijay, the commander of the fanfare through the cinema, will be fully confident that he will act through politics.
-
-I congratulate the Vijay -led Tamil Nadu Victory Association to continue the journey.
-
-Minister Jeevan Thondaman commented on the official announcement of actor Vijay's political entry
-
-"Actor Vijay is the peak of the cinema industry. He has fans bandwidth for him. Commander -in -Chief has treated him with elegance and honesty in the cinema industry as fans celebrate him. Moreover, the Vijay people's movement, which was formed for himself, has made various welfare schemes.
-
-In this case, the Vijay People's Movement has announced that it will begin a political journey as a success of the Tamil Nadu Victory Council for furthering the work, equality and social justice. ”. (A)
-
-◼️
-
-[Data](articles/9d23f724.json)
-
-[Extended Data](ext_articles/9d23f724.ext.json)
 
 ---

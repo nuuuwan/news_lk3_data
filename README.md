@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 23:02:33**
+As of **2024-02-03 23:17:22**
 
 ## Newspaper Stats
 
-*Scraped **4,600** Articles*
+*Scraped **4,602** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ dailyftlk | 280
 newsfirstlk | 282
 adalk | 395
 virakesarilk | 518
-adaderanasinhalalk | 571
+adaderanasinhalalk | 572
 adaderanalk | 579
 tamilmirrorlk | 581
-dailymirrorlk | 642
+dailymirrorlk | 643
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,600 (100.0%) of 4,600 articles have been extended.
+4,600 (100.0%) of 4,602 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,22 @@ Ali Sabry, Sri Lanka’s foreign minister, echoed the sentiment, telling reporte
 [Data](articles/8c8a14a0.json)
 
 [Extended Data](ext_articles/8c8a14a0.ext.json)
+
+---
+
+### Diplomatic grandeur follows Non- Aligned Summit in Uganda
+
+*2024-02-03 22:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Diplomatic-grandeur-follows-Non-Aligned-Summit-in-Uganda/108-276289) · `en`
+
+Kampala, 22 – The recent Summit of the Heads of State and Government of the Non-Aligned Movement (NAM) and the Group of 77 (G77) and China Third South Summit, held in Kampala, Uganda from January 18 to 22, 2024, witnessed robust participation from countries worldwide, fostering collaborative dialogue on global issues.
+
+In a notable highlight, an extraordinary Opulent Five-Course Silver Service Dinner was hosted by Kana Kananathan at his private residence in Kampala, honoring the distinguished presence of President Ranil Wickremesinghe.
+
+The exclusive event brought together eminent dignitaries and esteemed guests for an evening of diplomatic camaraderie at the High Commissioner's residence, set amidst the breathtaking beauty of nature in Uganda’s capital.
+
+...
+
+[Data](articles/a755440d.json)
 
 ---
 
@@ -153,6 +169,20 @@ President Wickremesinghe emphasized the historic trade relationship between the 
 [Data](articles/9542c32a.json)
 
 [Extended Data](ext_articles/9542c32a.ext.json)
+
+---
+
+### අපිට ඉන්න එකම අප්‍රිකානු ඇතා දැක ගන්න අවස්ථාව
+
+*2024-02-03 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192940) · `si`
+
+ශ්‍රී ලංකාවේ මේ වනවිට ඉතිරිව ඇති එකම ''අප්‍රිකානු ඇතා'' නැරඹීමට ඉදිරියේදී දෙස් විදෙස් සංචාරකයින්ට අවස්ථාව සලසා දෙන බව හම්බන්තොට රිදියගම සෆාරි උද්‍යානය නිවේදනය කරයි.
+
+එම අප්‍රිකානු ඇතා සහ මෙරට තුළ ප්‍රචණ්ඩ ලෙස හැසුරුණු, මේ වනවිට පුනුරුත්ථාපනය කර ඇති කණ්ඩුල සහ කලණ යන හස්තීන් දෙදෙනා ද නැරඹීමටත් සංචාරකයින්ට ඉදිරි සතිවලදී අවස්ථාව හිමිවෙයි.
+
+◼️
+
+[Data](articles/bdce2798.json)
 
 ---
 
@@ -1979,45 +2009,5 @@ Police said both the suspect and the substantial cache of narcotics were handed 
 [Data](articles/91e74d81.json)
 
 [Extended Data](ext_articles/91e74d81.ext.json)
-
----
-
-### Army Commander receives commendation for historic parachute jump
-
-*2024-02-03 08:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/96962/army-commander-receives-commendation-for-historic-parachute-jump) · `en`
-
-Commander of Sri Lanka Army, Lieutenant General Vikum Liyanage received commendation for his ground-breaking static parachute jump in a ceremony held at the Presidential Secretariat on Friday (Feb.02).
-
-The event, officiated by Sagala Ratnayake, Senior Adviser to the President on National Security and Chief of the Presidential Staff, along with Saman Ekanayake, Secretary to the President, celebrated Lt. Gen. Liyanage as a dedicated and highly trained military leader.
-
-The placement of the parachute insignia (Airborne) on the Army Commander’s uniform serves as a symbolic representation of this extraordinary accomplishment, signifying Lt. Gen. Liyanage’s unparalleled dedication to pushing boundaries and leading by example, the President’s Media Division (PMD) said.
-
-...
-
-[Data](articles/00951f7d.json)
-
-[Extended Data](ext_articles/00951f7d.ext.json)
-
----
-
-### Thundershowers likely in some areas after 2pm
-
-*2024-02-03 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/96961/thundershowers-likely-in-some-areas-after-2pm) · `en`
-
-Several spells of showers are expected today (Feb.03) in Eastern and Uva provinces and Polonnaruwa and Matale districts, the Department of Meteorology says.
-
-Showers or thundershowers will occur in parts of Western and Sabaragamuwa provinces and Kandy, Nuwara-Eliya, Galle and Matara districts after 2.00 p.m.
-
-The public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-Showers or thundershowers will occur at a few places in the sea areas off the coast extending from Trincomalee to Pottuvil via Batticaloa. Showers or thundershowers may occur at a few places in the sea areas off the coast extending from Matara to Colombo via Galle during the evening or night.
-
-Winds will be north-easterly or easterly and wind speed will be 20-30 kmph.
-
-...
-
-[Data](articles/f1f43581.json)
-
-[Extended Data](ext_articles/f1f43581.ext.json)
 
 ---

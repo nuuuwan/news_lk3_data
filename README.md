@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 16:47:33**
+As of **2024-02-03 17:02:19**
 
 ## Newspaper Stats
 
-*Scraped **4,563** Articles*
+*Scraped **4,564** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 281
 adalk | 393
 virakesarilk | 514
 adaderanasinhalalk | 562
-adaderanalk | 569
+adaderanalk | 570
 tamilmirrorlk | 577
 dailymirrorlk | 635
 
@@ -26,7 +26,7 @@ dailymirrorlk | 635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,563 (100.0%) of 4,563 articles have been extended.
+4,563 (100.0%) of 4,564 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -111,6 +111,24 @@ Negotiations for the free trade agreement between Sri Lanka and Thailand resumed
 [Data](articles/4e307549.json)
 
 [Extended Data](ext_articles/4e307549.ext.json)
+
+---
+
+### Sri Lanka, Thailand sign historic Free Trade Agreement
+
+*2024-02-03 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/96974/sri-lanka-thailand-sign-historic-free-trade-agreement) · `en`
+
+The historic Sri Lanka - Thailand Free Trade Agreement (SLTFTA) has been signed, a short while ago at the Presidential Secretariat in the presence of Prime Minister of Thailand Srettha Thavisin and President Ranil Wickremesinghe.
+
+Thai PM Thavisin arrived on the island earlier today (Feb.03) for a 2-day visit, accompanied by a high-level delegation. He is also scheduled to grace the national ceremony to mark the 76th Anniversary of the Independence of Sri Lanka as Guest of Honour.
+
+The FTA is expected to bolster trade and investment ties between the two nations, and also promote deeper integration with the Asian economies.
+
+Negotiations for the free trade agreement between Sri Lanka and Thailand resumed in November 2023 after being put on hold for 4 years consequent to the Covid-19 pandemic and ongoing restructuring of Sri Lanka’s state-owned entities.
+
+...
+
+[Data](articles/e7600526.json)
 
 ---
 
@@ -1985,23 +2003,5 @@ The Solar Loan Facility is designed with the rising electricity costs in mind, e
 [Data](articles/b7a82679.json)
 
 [Extended Data](ext_articles/b7a82679.ext.json)
-
----
-
-### “Abans Tiken Tika Pay” to provide relief for customers in challenging times
-
-*2024-02-03 00:11:50* · [`dailyftlk`](https://www.ft.lk/business/Abans-Tiken-Tika-Pay-to-provide-relief-for-customers-in-challenging-times/34-758095) · `en`
-
-In the midst of economic uncertainties and challenging times, Abans, has stepped forward as a pillar of support for its valued customers.
-
-The unveiling of the “Abans Tiken Tika Pay” scheme not only streamlines the purchasing process but also serves as a vital lifeline for individuals navigating through these trying circumstances.
-
-Recognising the financial challenges faced by many customers, particularly during economically challenging periods, Abans has devised a solution to alleviate the strain. The Abans Tiken Tika Pay initiative introduces flexible payment plans through Abans’ hire purchase terms and an extensive array of interest-free credit card terms. This strategic move aims to empower customers, enabling them to acquire essential appliances and electronics without compromising their budget or financial stability.
-
-...
-
-[Data](articles/902967d8.json)
-
-[Extended Data](ext_articles/902967d8.ext.json)
 
 ---

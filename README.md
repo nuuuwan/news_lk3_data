@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 01:02:09**
+As of **2024-02-04 01:17:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 643
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,606 (100.0%) of 4,607 articles have been extended.
+4,607 (100.0%) of 4,607 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -527,6 +527,8 @@ Apart from English, Ask QX is available in Arabic (and recognizes regional diale
 ...
 
 [Data](articles/9ee28661.json)
+
+[Extended Data](ext_articles/9ee28661.ext.json)
 
 ---
 

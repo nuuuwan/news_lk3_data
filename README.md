@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 10:17:20**
+As of **2024-02-03 10:32:53**
 
 ## Newspaper Stats
 
-*Scraped **4,503** Articles*
+*Scraped **4,508** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,105 @@ dailyftlk | 280
 adalk | 391
 virakesarilk | 502
 adaderanasinhalalk | 548
-adaderanalk | 560
-tamilmirrorlk | 572
-dailymirrorlk | 625
+adaderanalk | 561
+tamilmirrorlk | 573
+dailymirrorlk | 628
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,501 (100.0%) of 4,503 articles have been extended.
+4,503 (99.9%) of 4,508 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### US strikes at militias in Iraq and Syria, retaliating for fatal drone attack
+
+*2024-02-03 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/96965/us-strikes-at-militias-in-iraq-and-syria-retaliating-for-fatal-drone-attack) · `en`
+
+The U.S. military launched an air assault on dozens of sites in Iraq and Syria used by Iranian-backed militias and the Iranian Revolutionary Guard Friday, in the opening salvo of retaliation for the drone strike that killed three U.S. troops in Jordan last weekend.
+
+The massive barrage of strikes hit more than 85 targets at seven locations, including command and control headquarters, intelligence centers, rockets and missiles, drone and ammunition storage sites and other facilities that were connected to the militias or the IRGC’s Quds Force, the Guard’s expeditionary unit that handles Tehran’s relationship with and arming of regional militias. And President Joe Biden made it clear in a statement that there will be more to come.
+
+The U.S. strikes appeared to stop short of directly targeting Iran or senior leaders of the Revolutionary Guard Quds Force within its borders, as the U.S. tries to prevent the conflict from escalating even further. Iran has denied it was behind the Jordan attack.
+
+...
+
+[Data](articles/acf644ad.json)
+
+---
+
+### Carl Weathers dies aged 76
+
+*2024-02-03 09:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Carl-Weathers-dies-aged-76/108-276275) · `en`
+
+Feb 3 (BBC) - US actor Carl Weathers has died at the age of 76, according to his family.
+
+Weathers, who starred as Apollo Creed in the first four Rocky films, "died peacefully in his sleep", according to a statement released by his family.
+
+His other film credits include Predator, with Arnold Schwarzenegger, and Adam Sandler's Happy Gilmore.
+
+Weathers, who began his career as an NFL linebacker, "was an exceptional human being who lived an extraordinary life", his family's statement added.
+
+"Through his contributions to film, television, the arts and sports, he has left an indelible mark and is recognized worldwide and across generations," said the family.
+
+"He was a beloved brother, father, grandfather, partner, and friend."
+
+The athlete-turned-actor was comfortable starring in action and comedy, in appearances ranging from Arrested Development to The Mandalorian, where he featured in all three seasons of the Disney+ hit series.
+
+...
+
+[Data](articles/87bdc46b.json)
+
+---
+
+### No special holiday on Monday
+
+*2024-02-03 09:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-special-holiday-on-Monday/108-276274) · `en`
+
+Colombo, Feb 3 (Daily Mirror) The Home Affairs Minister today announced that no special holiday has been declared for Monday (5) which is the day following the 76th Independence day.
+
+Accordingly, the Ministry further said that all government institutions will function as usual.
+
+◼️
+
+[Data](articles/59f1062b.json)
+
+---
+
+### CBK back in the fray to lead SLFP-LED People’s Alliance
+
+*2024-02-03 09:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CBK-back-in-the-fray-to-lead-SLFP-LED-Peoples-Alliance/108-276270) · `en`
+
+Sri Lanka Freedom Party (SLFP) has reinstated the membership of former President Chandrika Bandaranaike Kumaratunga, enabling her to lead the party-dominated Podujana Eksath Peramuna (People’s Alliance), the Daily Mirror learns.
+
+SLFP leader former President Maithripala Sirisena has already informed Ms. Kumaratunga about the membership reinstatement. The party has now decided to revive the People’s Alliance under its chair symbol. The alliance was originally formed ahead of the general election in 1994 as a move to defeat the 17-year rule of the United National Party (UNP). The People’s Alliance remained in power until 2001 when it was defeated by the UNP again.
+
+In 2004, the SLFP took the lead in forming the United People’s Freedom Alliance (UPFA).
+
+Since then, the People’s Alliance remained idle in politics. In what appeared to be a new political development ahead of the presidential elections, it will be revived with Ms. Kumaratunga as the leader.
+
+...
+
+[Data](articles/393c2215.json)
+
+---
+
+### நீதிமன்றத்தில் கெஹலிய ஆஜர்
+
+*2024-02-03 09:34:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தில்-கெஹலிய-ஆஜர்/175-332582) · `ta`
+
+சர்ச்சைக்குரிய மருந்து இறக்குமதி தொடர்பில் குற்றப் புலனாய்வுத் திணைக்களம் நேற்று 10 மணித்தியாலங்களுக்கு மேலாக வாக்குமூலம் பதிவு செய்திருந்தது.
+
+அதனையடுத்து, குற்றப் புலனாய்வுப் பிரிவினரால் அவர் நேற்று (02) கைது செய்யப்பட்டார். (N)
+
+◼️
+
+[Data](articles/731f9812.json)
+
+---
 
 ### Keheliya Rambukwella produced before court
 
@@ -46,11 +132,13 @@ The arrest came hot on the heels of mounting pressure from civil society activis
 
 [Data](articles/a76e6749.json)
 
+[Extended Data](ext_articles/a76e6749.ext.json)
+
 ---
 
 ### The government should withdraw the laws that give power to harass people - former President Chandrika
 
-*2024-02-03 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175425) · `ta`
+*2024-02-03 09:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/175425) · `ta`
 
 Former President Chandrika Kumaratunga has said that these bills give the government the powers to harass the people who criticize the government using democratic rights and the anti -terrorism bill and the anti -terrorism bill.
 
@@ -122,6 +210,8 @@ Among the arrestees are 567 suspects who were taken into custody on narcotics-re
 
 [Data](articles/ec47c066.json)
 
+[Extended Data](ext_articles/ec47c066.ext.json)
+
 ---
 
 ### Karl Werers killed
@@ -190,7 +280,7 @@ Special Task Force said the value of the seized pills was 100 million rupees.
 
 Wattala, Feb 3 (Daily Mirror) - The Police Special Task Force (STF) arrested a 39-year-old individual in Wattala and siezed 192,000 narcotic pills with a street value exceeding Rs. 100 million.
 
-Acting on an intelligence report provided by the STF Intelligence Division, a team of officers raided a residence in Wattala last night.
+Acting on an intelligence report provided by the STF Intelligence Division, a team of officers led by CI Nadeeka Silva raided a residence in Wattala last night.
 
 During the operation, the STF arrested a suspect in possession of 192,000 150 mg capsules of Pregab (PREGAB), a substance utilized illicitly.
 
@@ -1853,119 +1943,5 @@ A bond maturing on 01.07.2032 closed at 13.25/45 down from 13.45/60 percent. (Co
 [Data](articles/43bf7a5f.json)
 
 [Extended Data](ext_articles/43bf7a5f.ext.json)
-
----
-
-### Narammala Police Shoot: Videos Release to Social Media first and seek the person?
-
-*2024-02-02 17:14:11* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq57e0y1dlvo) · `si`
-
-Narammala Police Shoot: Videos Release to Social Media first and seek the person?
-
-At the Narammala, when a carpenter was killed by a police officer in the Narammala, a person was released to the Social Media for the first time.
-
-A person who came from a motorcycle was in some organization (February 1), the vegetable shop (February 1) has stated that the videos of the incident first will be released to the social media.
-
-The vegetable market employees were in the courts and the vegetable shoppers have been instrumental when he was summoned before the Narammala Magistrate's Court today.
-
-A witness also stated that he had told him that he was returning.
-
-The police were informed by the police that he would investigate this.
-
-Narammala Police Shoot: Can a police officer shot a civilian garment?
-
-Motorcycle of Police
-
-The Kuliyapitiya Division Criminal Investigation Unit (Far on February 2) has reported to court today (Feb 02).
-
-...
-
-[Data](articles/5447a349.json)
-
-[Extended Data](ext_articles/5447a349.ext.json)
-
----
-
-### Sri Lanka launches fortified rice lunch programme to address malnutrition
-
-*2024-02-02 17:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-launches-fortified-rice-lunch-programme-to-address-malnutrition-149747/) · `en`
-
-ECONOMYNEXT — Some half a million school children in Sri Lanka are expected to benefit from a fortified rice lunch distribution programme over an eight month period, the government said.
-
-The Ministry of Agriculture and Plantation Industries, the Ministry of Education, the World Food Programme, the National Food Promotion Board and the Bill & Melinda Gates Foundation (BMGF) have collaborated on the project, a statement from the president’s office said.
-
-The launch of the programme was held in Colombo on Thursday February 01.
-
-“The program smeeeks to enhance the nutritional status of school children, addressing issues such as anemia, memory impairment and stunted growth. Approximately five hundred thousand school children are expected to benefit from fortified rice lunches over an eight-month period,” the statement said.
-
-...
-
-[Data](articles/374e9181.json)
-
-[Extended Data](ext_articles/374e9181.ext.json)
-
----
-
-### Once again no confidence motion against Keheliya
-
-*2024-02-02 17:11:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-எதிராக-மீண்டும்-நம்பிக்கையில்லா-பிரேரணை/175-332556) · `ta`
-
-Parliamentarian Kavinda Jayawardena has said that the United People's Power will bring a no -confidence motion against former health minister Keheliya Rambukwella.
-
-The Member of Parliament made this statement at a media briefing held at the opposition leader's office today.
-
-A few weeks ago, our party decided to bring a second no -confidence motion against Minister Rambukwella. But knowing that President Ranil Wickremesinghe is going to postpone the parliamentary session, we have not begun the signature collection.
-
-However, following the meeting on the 7th of February, we will begin the signing of the no -confidence motion from MPs.
-
-Who is going to support corruption?This time we will make public the signature details of the public to know who is the opposite.
-
-The parliamentarian further pointed out that the involvement of Minister Keheliya Rambukwella and the fraud of human immunoglobulin is clearly visible in court.
-
-◼️
-
-[Data](articles/5ccc063e.json)
-
-[Extended Data](ext_articles/5ccc063e.ext.json)
-
----
-
-### The health strike is over
-
-*2024-02-02 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192893) · `si`
-
-The health strike will be completed tomorrow (03) after 06.
-
-The Chairman of the Indigenous Association of Health Professional Association (Virlogy) has emphasized this.
-
-He was speaking at a press conference held today after the discussion held this afternoon.
-
-However, trade union members further say whether or not the strike will be reunited on Tuesdays.
-
-◼️
-
-[Data](articles/0684545c.json)
-
-[Extended Data](ext_articles/0684545c.ext.json)
-
----
-
-### President's Special Focus to To improve children's nutrition
-
-*2024-02-02 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175400) · `ta`
-
-Sagala Ratnayake, a senior adviser to the National Security and Presidential Commission, said that the President had paid special attention to the poverty of the people and that the President had focused on improving the nutrition of the child and that various programs are being carried out under the President's Directorate.
-
-He also pointed out that the "Assuma" program, which was initiated by the president's opinion, is a great task of overcoming the poverty of the people of this country.
-
-He was speaking at a fortified rice for the lunch work of schoolchildren on Thursday (01) at the Rama Hotel in Colombo.
-
-The program will be launched to improve the nutrition of schoolchildren, including the Ministry of Agriculture and Plantation Industries, the Ministry of Education, the World Food Program, Food Development Board, Bill & Melinda Gates Foundation.
-
-...
-
-[Data](articles/7d77aa09.json)
-
-[Extended Data](ext_articles/7d77aa09.ext.json)
 
 ---

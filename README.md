@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 21:17:23**
+As of **2024-02-03 21:32:54**
 
 ## Newspaper Stats
 
-*Scraped **4,587** Articles*
+*Scraped **4,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ islandlk | 239
 economynextcom | 253
 dailyftlk | 280
 newsfirstlk | 281
-adalk | 393
+adalk | 395
 virakesarilk | 517
 adaderanasinhalalk | 568
-adaderanalk | 575
+adaderanalk | 576
 tamilmirrorlk | 579
 dailymirrorlk | 642
 
@@ -26,11 +26,47 @@ dailymirrorlk | 642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,587 (100.0%) of 4,587 articles have been extended.
+4,587 (99.9%) of 4,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### Pakistan ex-PM Imran Khan and wife jailed for 7 years for unlawful marriage
+
+*2024-02-03 20:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/96980/pakistan-ex-pm-imran-khan-and-wife-jailed-for-7-years-for-unlawful-marriage) · `en`
+
+Former Pakistan Prime Minister Imran Khan and his wife Bushra Khan were sentenced to seven years in prison and fined on Saturday by a court that ruled their 2018 marriage broke the law, his party said.
+
+It was the third ruling against Khan this week and comes ahead of national elections on Thursday that he is barred from contesting.
+
+Khan, 71, has in recent days been sentenced to 10 years for leaking state secrets and 14 years along with this wife for illegally selling state gifts. His representatives say he will launch appeals in all three cases.
+
+It was not immediately clear if his various sentences would run concurrently.
+
+Khan is in prison in the garrison city of Rawalpindi, while his wife will serve her sentence at their hilltop mansion in nearby Islamabad. He already faces a 10-year disqualification from holding public office.
+
+...
+
+[Data](articles/46581735.json)
+
+---
+
+### කෙහෙළිය රිමාන්ඩ්
+
+*2024-02-03 20:37:09* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-රිමාන්ඩ්/11-407877) · `si`
+
+සී.අයි.ඩී අත්අඩංගුවට ගත් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙලිය රඹුක්වැල්ල ලබන 15 දින දක්වා රිමාන්ඩ් බාරයේ තබන්නැයි මාළිගාකන්ද අධිකරණයෙන් නියෝගය කළේය.
+
+ඉන්දියානු ණය යෝජනා ක්‍රමය යටතේ මෙරටට ඖෂධ ගෙන්වීමේ සිද්ධියක් සම්බන්ධයෙන් අධිකරණ නියොගයකට අනුව ඔහු ඊයේ දින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගනු ලැබීය.
+
+බාල ප්‍රතිදේහක ඖෂධ බෙදා හැරීවමෙන් රජයට කෝටි ගණනක අලාභයක් කිරීම  එරෙහිව ඔහු චෝදනා ලබා ඇත.
+
+◼️
+
+[Data](articles/dd961ba1.json)
+
+---
 
 ### SJB to bring no-confidence motion against Speaker?
 
@@ -899,6 +935,24 @@ The INS will leave the country on the 05th after completing an official trip to 
 [Data](articles/ecba8168.json)
 
 [Extended Data](ext_articles/ecba8168.ext.json)
+
+---
+
+### ඉන්දීය සබ්මැරිනයක් කොළඹට එයි
+
+*2024-02-03 13:41:21* · [`adalk`](https://www.ada.lk/picture_story/ඉන්දීය-සබ්මැරිනයක්-කොළඹට-එයි/10-407876) · `si`
+
+ඉන්දීය නාවික හමුදාවට අයත් ‘INS Karanj’ සබ්මැරීනය නිල සංචාරයක් සඳහා අද දින (2024 පෙබරවාරි 03) උදෑසන කොළඹ වරායට සේන්දු වූ අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම සබ්මැරීනය නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීමට කටයුතු කෙරිණි.
+
+මෙලෙස කොළඹ වරායට සේන්දු වූ ‘INS Karanj’සබ්මැරීනය, දිගින් මීටර් 67.5 ක් හා නැව් මුළුව 53 ක ගෙන් සමන්විත වන අතර, එහි අණදෙන නිලධාරී ලෙස කොමාණ්ඩර් අරුනාබ් (Commander Arunabh) කටයුතු කරනු ලබයි.
+
+‘INS Karanj’සබ්මැරීනය දිවයිනේ රැඳී සිටින කාල සීමාව තුළ එහි මෙහෙයුම් ක්‍රියාකරීත්වය පිළිබඳව පැවැත්වෙන දැනුවත් කිරීමේ වැඩසටහනක් සඳහා ශ්‍රී ලංකා නාවික හමුදා පුද්ගලයන් සහභාගී වීමට නියමිතව ඇති අතර,  සබ්මැරීනයේ නැව් මුළුව දිවයිනේ වැදගත් ස්ථාන නැරඹීම සඳහා ප්‍රදේශ කිහිපයක සංචාරය කිරීමටද නියමිතව ඇත.
+
+තවද, මෙම නිල සංචාරය නිමා කරමින් 2024 පෙබරවාරි මස 05 වන දින ‘INS Karanj’ සබ්මැරීනය දිවයිනෙන් පිටත්ව යාමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/95decc90.json)
 
 ---
 
@@ -1941,67 +1995,5 @@ South Africa first scored 232 runs while in the reply, Sri Lanka were able to sc
 [Data](articles/bd305780.json)
 
 [Extended Data](ext_articles/bd305780.ext.json)
-
----
-
-### A notification from the Railway Department
-
-*2024-02-03 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192909) · `si`
-
-The Railway Department has informed the running of the coastal route on the coastal route tomorrow (04).
-
-The train has been informed that the General Secretary Railway Station, Kollupitiya and Bambalapitiya until 09 am.
-
-The 76th National Independence Day, all arrangements have been made to hold the 76th National Independence Day and Prime Minister, including the local and foreign elite.
-
-The train has also been planned to run the security of the Armed Forces and Police Troops participating in the Independence of the elite and the parade.
-
-◼️
-
-[Data](articles/14285110.json)
-
-[Extended Data](ext_articles/14285110.ext.json)
-
----
-
-### Keheliya to be produced before court on Saturday (03)
-
-*2024-02-03 07:32:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/03/keheliya-to-be-produced-before-court-on-saturday-03/) · `en`
-
-COLOMBO (News 1st) – Former Health Minister Keheliya Rambukwella, who was arrested on Friday (02), is scheduled to appear before the court on Saturday (03).
-
-The former minister of health was arrested by the Criminal Investigations Department on Friday (02) night, when he came to give a statement regarding the controversial human immunoglobulin scandal.
-
-Maligakanda Magistrate Ms. Lochani Abeywickrama ordered Keheliya Rambukwella to come to the Criminal Investigation Department and give a statement in this regard.
-
-The Director of the Criminal Investigation Department said that the Minister arrived at the Criminal Investigation Department at around 11:00 am on Friday (02) and was arrested after a long interrogation.
-
-Special traffic plan in action in Colombo for Independence day celebration
-
-◼️
-
-[Data](articles/d91300dc.json)
-
-[Extended Data](ext_articles/d91300dc.ext.json)
-
----
-
-### FSL promote 14 officials as FIFA Referees
-
-*2024-02-03 07:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/FSL-promote-14-officials-as-FIFA-Referees/108-276231) · `en`
-
-Colombo, Fab. 3 (Daily Mirror) - A total of 14 Sri Lankan referees were promoted by Football Sri Lanka (FSL) to officiate in international football matches under the direction of FIFA.
-
-Accordingly, five FIFA Referees, seven FIFA Assistant Referees, one Women’s FIFA Referee and one Women’s FIFA Assistant Referee were presented with certificates by FSL at a ceremony in Colombo.
-
-FIFA Referees – Men’s: Dilan Perera (Kalutara), Nivon Robesh (Colombo), Lakmal Weerakkody (Gampola), Mohamed Jafran (Ampara) and Sasanka Madushanka (Gampaha).
-
-FIFA Assistant Referees – Men’s: Palitha Hemathunga (Gampola), Sanjeewa Premalal (Badulla), Iran Udayakantha (Bandarawela), Buddhika Dias (Colombo), L. S. D. Gunawardena (Gampaha), D. D. I. Sandanayaka (Matugama) and Lahiru Jeyaneththi (Kalutara).
-
-◼️
-
-[Data](articles/e92e2d7f.json)
-
-[Extended Data](ext_articles/e92e2d7f.ext.json)
 
 ---

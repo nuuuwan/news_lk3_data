@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 04:17:20**
+As of **2024-02-04 04:33:55**
 
 ## Newspaper Stats
 
-*Scraped **4,607** Articles*
+*Scraped **4,608** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,38 @@ adalk | 399
 virakesarilk | 518
 adaderanasinhalalk | 572
 adaderanalk | 579
-tamilmirrorlk | 581
+tamilmirrorlk | 582
 dailymirrorlk | 643
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,607 (100.0%) of 4,607 articles have been extended.
+4,607 (100.0%) of 4,608 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-02-04 (Sunday)
+
+### ’சுபீட்சமான இலங்கைக்காக செயலாற்றுவோம்’
+
+*2024-02-04 03:48:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுபீட்சமான-இலங்கைக்காக-செயலாற்றுவோம்/175-332606) · `ta`
+
+சுபீட்சமான இலங்கைக்காக உலக நாடுகளுடன் ஒத்துழைத்துச் செயலாற்றுவோம் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+தாய்லாந்து உள்ளிட்ட கிழக்காசிய நாடுகள், ஆசியான் வலய நாடுகள் வசமாக காணப்படும் எதிர்காலத்துக்கான முன்னோடி பொருளாதார வலுவைக் கொண்டிருக்கும் தரப்புகளுடன் இருதரப்பு வர்த்தகத்தை பலப்படுத்திகொள்ள இலங்கை எதிர்பார்க்கிறது என்றும் அவர் தெரிவித்துள்ளார்.
+
+தாய்லாந்து பிரதமர் ஸ்ரேத்தா தவிசினுடனான இருதரப்பு சந்திப்பின் பின்னர் நேற்று  பிற்பகல் ஜனாதிபதி அலுவலகத்தில் நடைபெற்ற இரு தலைவர்களினதும் பங்கேற்புடன் இடம்பெற்ற இணை ஊடகவியலாளர் மாநாட்டிலேயே ஜனாதிபதி இவ்வாறு தெரிவித்தார்.
+
+இணை ஊடகவியலாளர் மாநாட்டில் கலந்துகொண்ட பின்னர், தாய்லாந்து பிரதமர், ஜனாதிபதி அலுவலகத்தில் வைக்கப்பட்டுள்ள விசேட அதிதிகளின் நினைவுப் புத்தகத்திலும் எண்ணங்களைப் பதிவிட்டார்.
+
+இணை ஊடகவியலாளர் மாநாட்டில் தாய்லாந்து பிரதமர் ஷரேதா தவீசின் கருத்து தெரிவிக்கையில்,  2025 – 2027 வரையிலான மனித உரிமைகள் பேரவையின் உறுப்புரிமைக்கான ஆசியான் பிராந்திய அமைப்பின் பிரதித்துவமாக தாய்லாந்து செயற்படுகிறது என்று குறிப்பிட்டார்.
+
+...
+
+[Data](articles/aa99f603.json)
+
+---
 
 ### 2024-02-03 (Saturday)
 
@@ -1997,23 +2019,5 @@ The CID has recorded statements from the former Minister of Controversial Human 
 [Data](articles/7c694cd7.json)
 
 [Extended Data](ext_articles/7c694cd7.ext.json)
-
----
-
-### Two police officers arrested for bribery
-
-*2024-02-03 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/175424) · `ta`
-
-Two police sergeants on duty at the Mahawella Police Station Matale have been arrested by the Department of Bribery on a bribery charges for a bribe of 10,000 rupees.
-
-They were arrested for allegedly bribing a person in Mahawella area in Matale in Mahawela.
-
-Two police officers have been arrested in accordance with the Bribery Department's complaint that the two police sergeants and the bribery of Rs 10,000 have been asked for a minimum penalty of a person who has been driving without an income license and insurance certificate.
-
-◼️
-
-[Data](articles/e56178df.json)
-
-[Extended Data](ext_articles/e56178df.ext.json)
 
 ---

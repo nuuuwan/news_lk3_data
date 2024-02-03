@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 19:32:41**
+As of **2024-02-03 19:49:32**
 
 ## Newspaper Stats
 
-*Scraped **4,580** Articles*
+*Scraped **4,582** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 253
 dailyftlk | 280
 newsfirstlk | 281
 adalk | 393
-virakesarilk | 516
+virakesarilk | 517
 adaderanasinhalalk | 566
-adaderanalk | 573
+adaderanalk | 574
 tamilmirrorlk | 577
 dailymirrorlk | 642
 
@@ -26,11 +26,29 @@ dailymirrorlk | 642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,580 (100.0%) of 4,580 articles have been extended.
+4,580 (100.0%) of 4,582 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### Indian submarine in Colombo ahead of Sri Lanka’s Independence Day celebrations
+
+*2024-02-03 19:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96978/indian-submarine-in-colombo-ahead-of-sri-lankas-independence-day-celebrations) · `en`
+
+INS Karanj, an Indian Navy submarine, arrived in the port of Colombo on Thursday, ahead of Sri Lanka’s 76th Independence Day celebrations on Sunday.
+
+On a two-day visit, the submarine was welcomed by the Sri Lanka Navy.
+
+INS Karanj is 67.5 metres long with a crew of 53 under the commandeering of Commander Arunabh, the Sri Lanka Navy said.
+
+INS ‘Karanj’ will depart the island nation on February 5, symbolising the strengthened maritime relations between India and Sri Lanka, LankaNewsWeb.net, a news portal said, adding, “The diplomatic and cultural exchange during this visit contributes to the broader cooperation between the two nations in the maritime domain.”
+
+◼️
+
+[Data](articles/f675018f.json)
+
+---
 
 ### Sri Lanka, Thailand to boost defence and security cooperation to curb transnational crimes
 
@@ -139,6 +157,26 @@ The lawmaker was remanded until 15 February on the orders of Maligakanda Magistr
 [Data](articles/bba28cdf.json)
 
 [Extended Data](ext_articles/bba28cdf.ext.json)
+
+---
+
+### இலங்கை - தாய்லாந்துக்கிடையில் சுதந்திர வர்த்தக உடன்படிக்கை கைச்சாத்து !
+
+*2024-02-03 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175481) · `ta`
+
+தாய்லாந்துக்கும் இலங்கைக்கும் இடையிலான பொருட்கள் வர்த்தகம், முதலீடு, சுங்க செயற்பாடுகள் மற்றும் அறிவுசார் சொத்துரிமை உள்ளிட்ட பல்வேறு அம்சங்களை உள்ளடக்கிய சந்தை வாய்ப்புகளை மேம்படுத்தும், சுதந்திர வர்த்தக ஒப்பந்தம் ஜனாதிபதி செயலகத்தில் கைச்சாத்திடப்பட்டது.
+
+அத்துடன் இலங்கை - தாய்லாந்து விமான சேவைகளுக்கு இடையிலான தாராளமயப்படுத்தப்பட்ட புதிய இரு தரப்பு விமான சேவைகள் புரிந்துணர்வு ஒப்பந்தமும் ஜனாதிபதி செயலகத்தில் கைச்சாத்திடப்பட்டது.
+
+மேலும் இலங்கையின் இரத்தினக்கல் ஆபரண ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனம் (GJRTI) மற்றும் தாய்லாந்தின் இரத்தினக்கல் ஆபரண நிறுவனம் (GIT) ஆகியவற்றுக்கு இடையிலான இருதரப்பு ஒத்துழைப்பைப் பலப்படுத்துவதற்கான புரிந்துணர்வு ஒப்பந்தமும் ஜனாதிபதி செயலகத்தில் கைசாத்திடப்பட்டது.
+
+முன்னதாக தாய்லாந்து பிரதமர் ஸ்ரேத்தா தவிசின் உள்ளிட்ட குழுவினர் இலங்கைக்கான விஜயத்தை மேற்கொண்டு இன்று சனிக்கிழமை (3) பிற்பகல் இலங்கையை வந்தடைந்தார்.
+
+அவர்களுக்கு பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் பிரதமர் தினேஷ் குணவர்தன சிறப்பு வரவேற்பளித்தார்.
+
+...
+
+[Data](articles/2a7623f6.json)
 
 ---
 
@@ -1937,49 +1975,5 @@ DIG Indika Hapugoda stated that a special traffic plan is being operated in Colo
 [Data](articles/001a6e19.json)
 
 [Extended Data](ext_articles/001a6e19.ext.json)
-
----
-
-### Iraq - Syria launches attack on Iran's positions in the United States: More than 85 goals attack
-
-*2024-02-03 07:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/175421) · `ta`
-
-The US has launched attacks on pro -Iranian groups in Iraq and Syria.
-
-According to reports, the US has so far attacked more than 85 targets.
-
-The US has carried out the attack in response to the attack on its site in Jordan.
-
-The United States Federal Ordinance said that it was attacked on the positions of Iran's military and the positions of armed groups involved.
-
-It has been reported that many aircraft, including long -term B1 attacks of the United States, have been used for the attacks.
-
-◼️
-
-[Data](articles/6f2568e8.json)
-
-[Extended Data](ext_articles/6f2568e8.ext.json)
-
----
-
-### Thai Prime Minister to arrive in Sri Lanka
-
-*2024-02-03 07:00:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/03/thai-prime-minister-to-arrive-in-sri-lanka/) · `en`
-
-COLOMBO (News 1st) – Prime Minister of Thailand Srettha Thavisin is scheduled to visit Sri Lanka on Saturday (03) for an official visit.
-
-The Ministry of Foreign Affairs said that the Prime Minister of Thailand will visit the island at the invitation of President Ranil Wickremesinghe to attend the 76th Independence Day ceremony on Sunday (04).
-
-During this visit, the Prime Minister of Thailand is also scheduled to hold discussions with President Ranil Wickremesinghe and scheduled to attend the signing of the Sri Lanka-Thailand Free Trade Agreement.
-
-Thailand's Deputy Prime Minister and Commerce Minister Wechayachai and Minister of Trade, Commerce and Food Security of Sri Lanka, Nalin Fernando will sign the free trade agreement.
-
-The Ministry of Foreign Affairs stated that the development of trade and investment relations between the two countries is expected from the Sri Lanka-Thailand Free Trade Agreement.
-
-...
-
-[Data](articles/432cb4c9.json)
-
-[Extended Data](ext_articles/432cb4c9.ext.json)
 
 ---

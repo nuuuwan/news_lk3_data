@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 22:02:53**
+As of **2024-02-03 22:17:24**
 
 ## Newspaper Stats
 
-*Scraped **4,593** Articles*
+*Scraped **4,598** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,61 +14,153 @@ dbsjeyarajcom | 135
 islandlk | 239
 economynextcom | 253
 dailyftlk | 280
-newsfirstlk | 281
+newsfirstlk | 282
 adalk | 395
 virakesarilk | 517
 adaderanasinhalalk | 571
-adaderanalk | 576
-tamilmirrorlk | 579
+adaderanalk | 578
+tamilmirrorlk | 581
 dailymirrorlk | 642
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,590 (99.9%) of 4,593 articles have been extended.
+4,593 (99.9%) of 4,598 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
 
-### ශ්‍රී ලංකා - තායිලන්ත නිදහස් වෙළෙඳ ගිවිසුම ගැන ව්‍යාපාරිකයින් දැනුවත් කරයි
+### Sri Lanka’s trade deficit dropped to lowest in 2023 after 13 years - CBSL
 
-*2024-02-03 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192939) · `si`
+*2024-02-03 21:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/96982/sri-lankas-trade-deficit-dropped-to-lowest-in-2023-after-13-years-cbsl) · `en`
 
-ශ්‍රී ලංකා - තායිලන්ත ආර්ථික සබඳතාව යළි පණ ගැන්වීමට එක්වන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා දෙරටේ ආයෝජකයන්ගෙන් ඉල්ලා සිටී.
+The Central Bank of Sri Lanka (CBSL) says that the cumulative deficit in Sri Lanka’s trade account narrowed to USD 4.9 billion from USD 5.2 billion within last year, the lowest recorded since 2010.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කළේ අද (03) පස්වරුවේ කොළඹදී පැවැති ශ්‍රී ලංකා - තායිලන්ත ව්‍යාපාරික හමුව අමතමිනි.
+However, the CBSL also stated that the country’s trade deficit widened in December 2023 compared to the trade deficit recorded a year earlier.
 
-මෙම අවස්ථාවට තායිලන්ත අගමැති ප්‍රමුඛ එරට දූත පිරිස ද එක්විය.
+The Central Bank made those disclosures while presenting its latest reports on the performance of the external sector of the country’s economy.
 
-ආහාර, ආහාර හා සැකසුම්, සෞඛ්‍ය, බලශක්ති, ආගන්තුක සත්කාර, සංචාරක, ධීවර, කෘෂිකර්මික සහ නිෂ්පාදන ක්ෂේත්‍ර නියෝජනය කරමින් තායිලන්තයේ ඉහළ පෙළේ සමාගම් රැසක ව්‍යාපාරිකයින් සහ ආයෝජකයින් මේ සඳහා එක්විය.
+In December, Sri Lanka’s merchandise exports revenue declined by 6.2% to USD 1 billion from a year earlier, due to a decline in earnings from industrial exports and mineral exports, while an increase was recorded in agricultural exports in December 2023.
 
-ජනාධිපතිවරයා මෙහිදී සඳහන් කළේ ආසියාන් රටක් සමග එළැඹි දෙවන නිදහස් වෙළෙඳ ගිවිසුම ලෙස ශ්‍රී ලංකාව සහ තායිලන්තය අතර නිදහස් වෙළෙඳ ගිවිසුමට (FTA) අත්සන් තැබූ බවය.
-
-රටවල් දෙකෙහිම ව්‍යාපාරිකයින්ගෙන් ජනාධිපතිවරයා ඉල්ලා සිටියේ උදාවී ඇති අවස්ථාවන්ගෙන් ප්‍රයෝජන ගනිමින් ප්‍රතලාභ අත්කර ගැනීමට සහයෝගීව කටයුතු කරන ලෙසය.
+The Central Bank said cumulative export earnings during the period from January to December also declined by 9.1% compared to 2022, to USD 11.91 billion.
 
 ...
 
-[Data](articles/9a04329d.json)
+[Data](articles/71b31b08.json)
 
 ---
 
-### කථානායක ගැන අපිට විශ්වාසයක් නැහැ - සජිත්
+### “நான் இறக்கவில்லை” பூனம் பாண்டே பரபரப்பு
+
+*2024-02-03 21:45:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/நான்-இறக்கவில்லை-பூனம்-பாண்டே-பரபரப்பு/54-332593) · `ta`
+
+கர்ப்பப்பை வாய்ப் புற்றுநோய் காரணமாக நடிகை பூனம் பாண்டே இறந்துவிட்டதாக நேற்று தகவல் வெளியான நிலையில், இன்று தான் உயிருடன் இருப்பதாக அவர் வீடியோ ஒன்றை வெளியிட்டுள்ளார்.
+
+கர்ப்பப்பை வாய்ப் புற்றுநோய் காரணமாக நடிகை பூனம் பாண்டே இறந்துவிட்டதாக நேற்று தகவல் வெளியான நிலையில், இன்று தான் உயிருடன் இருப்பதாக அவர் வீடியோ ஒன்றை வெளியிட்டுள்ளார்
+
+கர்ப்பப்பை வாய் புற்றுநோய் குறித்த விழிப்புணர்வை ஏற்படுத்தவே தான் இறந்துவிட்டதாக அறிவித்ததாகவும் அவர் கூறியுள்ளார். இதுதொடர்பாக தனது இன்ஸ்டா பக்கத்தில் தான் பேசும் வீடியோ ஒன்றையும் அவர் பதிவிட்டுள்ளார்.
+
+தான் தற்போது நலமாக இருப்பதாகவும், பல உயிர்களைப் பலிவாங்கியுள்ள கர்ப்பப்பை வாய்ப் புற்றுநோயைப் பற்றிய விழிப்புணர்வைப் பரப்புவதற்காக இதை செய்ததாகவும் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/e479bd1b.json)
+
+---
+
+### Land bridge project to connect Sri Lankan ports with Gulf of Thailand
+
+*2024-02-03 21:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96981/land-bridge-project-to-connect-sri-lankan-ports-with-gulf-of-thailand) · `en`
+
+In a significant development, President Ranil Wickremesinghe addressed the Thailand-Sri Lanka Business Forum at the Kingsbury Hotel, highlighting the auspicious timing of the event. The President announced the signing of a ground-breaking free trade agreement (FTA) between Sri Lanka and Thailand, marking the second FTA with an ASEAN country.
+
+President Wickremesinghe emphasized the historic trade relationship between the two nations, which predates even the Sukhothai Kingdom. He urged a revival of this connection, considering the strategic positions of Sri Lanka in the Indian Ocean and Thailand in the Asia Pacific. The President also acknowledged the cultural ties, including shared traditions like the Ramayana and Theravada Buddhism, the President’s Media Division (PMD) said in a statement.
+
+...
+
+[Data](articles/9542c32a.json)
+
+---
+
+### Imran Khan and wife convicted for illegal marriage and jailed for 7 years
+
+*2024-02-03 21:28:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/03/imran-khan-and-wife-convicted-for-illegal-marriage-and-jailed-for-7-years/) · `en`
+
+Colombo (News 1st) – A Pakistani court ruled Saturday (3rd) that former Prime Minister Imran Khan’s marriage violated Islamic law, and jailed both him and his wife for seven years, in the latest jail sentence for the already imprisoned popular politician, Pakistani media reported.
+
+Khan, 71, who heads the Tehreek-e-Insaf (PTI) party, married Bushra Bibi in 2018, his third marriage. But Bibi’s former husband filed a case alleging that Bibi did not wait three months after the divorce as required by Islamic law, before marrying Khan. The wedding took place shortly before Khan became Prime Minister in 1918. He was deposed in 2022 through a no-confidence vote in parliament.
+
+This is Khan’s third conviction this week, with general elections scheduled for next Thursday (8th) in which he is not eligible to run due to his convictions.
+
+...
+
+[Data](articles/60546b17.json)
+
+---
+
+### Sri Lanka - Thailand's Free Trade Agreement in Thailand
+
+*2024-02-03 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192939) · `si`
+
+President Ranil Wickremesinghe urges the two countries to join the revivement of the Sri Lanka - Thailand's economic connection.
+
+The President made this observation addressing the business briefing held in Colombo this afternoon.
+
+Thai Prime Minister's deaths were also elected.
+
+Businessmen and investors representing the businessmen and investors of Thailand representing food, food, energy, energy, hospitality, tourism, agriculture, agricultural and production.
+
+The President stated that the Second Free Trade Agreement with a Asian country and the Free Trade Agreement (FTA) were signed.
+
+The President demanded the businessmen in both countries to take advantage of the opportunities that the arisen will be collaborative.
+
+The Andornam Sea said that Sri Lanka is a decisive partner at Thailand's Prime Minister, Thailand, the Prime Minister of Thailand and Thailand to become a supply center in Southeast Asia.
+
+◼️
+
+[Data](articles/9a04329d.json)
+
+[Extended Data](ext_articles/9a04329d.ext.json)
+
+---
+
+### சாந்தன் இலங்கை வர அனுமதி? ஜனாதிபதி வழங்கியுள்ள உறுதி
+
+*2024-02-03 21:19:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தன்-இலங்கை-வர-அனுமதி-ஜனாதிபதி-வழங்கியுள்ள-உறுதி/175-332592) · `ta`
+
+இன்று சனிக்கிழமை நண்பகல் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை நேரில்  சந்தித்த பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன், தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசன் ஆகியோர், ராஜிவ் காந்தி கொலை வழக்கில் விடுதலை பெற்றுள்ள சாந்தனை இலங்கை வர அனுமதிக்குமாறு கோரினர்.
+
+இக்கோரிக்கையை சாதகமாக பரிசீலித்து, சாந்தன் இலங்கை வந்து தன் வயதான தாயாரைச் சந்திக்கும் வாய்ப்பை ஏற்படுத்தித் தருவதாக ஜனாதிபதி உறுதியளித்துள்ளார்.
+
+இது தொடர்பான அடுத்தகட்ட நடவடிக்கைகளை மேற்கொள்ளுமாறு தேசிய பாதுகாப்புக்கான ஜனாதிபதி  ஆலோசகர் சாகல ரட்னாயக்கவுக்கு,  சந்திப்பின் போதே  ஜனாதிபதி பணிப்புரை விடுத்துள்ளார்.
+
+சாந்தனின் தாயாரின் கோரிக்கைக்  கடிதம் மற்றும் மேலதிக தகவல்களை தருமாறும் ஜனாதிபதி இலங்கை சிறீதரன் எம்.பியிடம் கோரியுள்ளார்.  R
+
+◼️
+
+[Data](articles/29fa7505.json)
+
+---
+
+### We are not sure about Speaker - Sajith
 
 *2024-02-03 21:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192938) · `si`
 
-මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත ගෙන ඒමේදී ශ්‍රේෂ්ඨාධිකරණය ලබාදුන් නිර්දේශ 09ක් නොසලකා හරිමින් කථානායකවරයා ක්‍රියාකර ඇති බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Opposition Leader Sajith Premadasa says that the Speaker has acted with regard to the Secretary of the Supreme Court while bringing the security of online methods.
 
-ඒ හේතුවෙන් ඔහු පිළිබඳව විශ්වාසභංගයකට යාමට ඉදිරියේදී සිදුවිය හැකි බව විපක්ෂ නායකවරයා සඳහන් කරයි.
+The Opposition Leader said that he could come to a no confidence in him.
 
-එමෙන්ම සමගි ජන බලවේගය පක්ෂයේ සිටිමින් පක්ෂය විවේචනය කරන සාමාජිකයින්ට තරාතිරම නොබලා විනය පරීක්ෂණ පවත්වන බවටද මෙහිදී විපක්ෂ නායකවරයා අනතුරු අඟවා සිටියේය..
+The Opposition Leader also warned that the residents of the party would be investigated without ranking members of the party.
 
-"කථානායක අනීතිකව මාර්ගගත පනතට අනුමැතිය දුන්නා. මේ ගැන අපි විශ්ලේෂණයක් කළා .අවස්ථා 9කදී ශ්‍රේෂ්ඨාධිකරණ නිර්දේශ අමතක කරලා. කථානායක ගැන අපිට විශ්වාසයක් නැහැ. කථානායක ගැන විශ්වාසයක් තියෙනවාද? නැද්ද ? ඒ ගැන ඉදිරියේදී පාර්ලිමේන්තුවේදී සලකා බලන්න වෙයි."
+"Speaker gave approval to the Online Act. We were analyzed .We forget Supreme Court recommendations in 9 ops. We are not sure about Speaker. Is there any confidence in Speaker?Not?In Parliament, it will be considered in Parliament. "
 
 ◼️
 
 [Data](articles/3ac85d66.json)
+
+[Extended Data](ext_articles/3ac85d66.ext.json)
 
 ---
 
@@ -94,17 +186,19 @@ Khan is in prison in the garrison city of Rawalpindi, while his wife will serve 
 
 ---
 
-### ඉම්රාන් ඛාන් සහ බිරිඳට තවත් සිර දඬුවමක්
+### Imran Khan and wife sentenced to prison
 
 *2024-02-03 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192937) · `si`
 
-පාකිස්තානයේ හිටපු අගමැති ඉම්රාන් ඛාන්ට සහ ඔහුගේ බිරිඳට දැනට පනවා ඇති සිර දඩුවම්වලට අමතරව තවත් සිරදඬුවමක් නියම කර තිබේ.
+Former Pakistan's Pakistan, Imran Khan and his wife, has been sentenced to another prison in addition to the prison punishment.
 
-එම වරද වෙනුවෙන් ඔවුන්ට තවත් වසර 7ක සිරදඬුවමක් අධිකරණයෙන් නියම කර තිබේ.
+They have been sentenced to another seven years in prison for the fault.
 
 ◼️
 
 [Data](articles/816e07ad.json)
+
+[Extended Data](ext_articles/816e07ad.ext.json)
 
 ---
 
@@ -806,7 +900,7 @@ Minister Keheliya Rambukwella was arrested by the CID over the controversial hum
 
 Maligakanda Magistrate Lochana Abeywickrama imposed an overseas travel ban on Minister Keheliya Rambukwella and ordered him to report to the Criminal Investigations Department to provide a statement.
 
-Special traffic plan in action in Colombo for Independence day celebration
+Imran Khan and wife convicted for illegal marriage and jailed for 7 years
 
 ◼️
 
@@ -1422,7 +1516,7 @@ The main suspect of the murder was arrested by the Aduruppuveediya police.
 
 The shooting took place on the 24th of January in Jinthupitiya, Aduruppuveediya.
 
-Special traffic plan in action in Colombo for Independence day celebration
+Imran Khan and wife convicted for illegal marriage and jailed for 7 years
 
 ◼️
 
@@ -1462,7 +1556,7 @@ Police seized 132 grams of Heroin, 128 grams of ICE, and 15kg and 900 grams of c
 
 6 of the apprehended suspects are being questioned based on detention orders.
 
-Special traffic plan in action in Colombo for Independence day celebration
+Imran Khan and wife convicted for illegal marriage and jailed for 7 years
 
 ◼️
 
@@ -1913,89 +2007,5 @@ Maligakanda Magistrate Lochana Abeywickrama also imposed an overseas travel ban 
 [Data](articles/8d474ecb.json)
 
 [Extended Data](ext_articles/8d474ecb.ext.json)
-
----
-
-### Some trains will not stand tomorrow - notice
-
-*2024-02-03 08:36:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-சில-ரயில்கள்-நிற்காது-வெளியான-அறிவிப்பு/175-332581) · `ta`
-
-The Railway Department said that the trains running along the coastal route will be operated tomorrow (04).
-
-All arrangements have been made to hold the 76th National Independence Day celebration with the participation of the President, the Prime Minister, the Prime Minister, the Prime Minister, the domestic and the foreigners.
-
-In this case, the trains will not stop at Kaluppitti and Bambalapitiya railway stations from 05.00 am to 09.00 am.
-
-It is also reported that the trains are scheduled to be operated to ensure the safety of the soldiers and the policemen who participated in the Independence Ceremony and the parade.
-
-◼️
-
-[Data](articles/f567a030.json)
-
-[Extended Data](ext_articles/f567a030.ext.json)
-
----
-
-### 1,500 policemen on the streets of Colombo
-
-*2024-02-03 08:27:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-வீதிகளில்-களமிறக்கப்பட்டுள்ள-1-500-பொலிஸார்/175-332580) · `ta`
-
-About 1500 police officers have been deployed for special traffic duties in Colombo on the 76th Independence Day, police said.
-
-The Deputy Inspector General of Police Indika Hapugoda said that 4,000 officers have been deployed for security and other obligations.
-
-Meanwhile, a special traffic plan will be implemented in Colombo today and tomorrow. (Of)
-
-◼️
-
-[Data](articles/bdd09f68.json)
-
-[Extended Data](ext_articles/bdd09f68.ext.json)
-
----
-
-### 208253 tourists arrived in January
-
-*2024-02-03 08:15:09* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරියේදී-සංචාරකයන්-208253ක්-ඇවිත්/11-407875) · `si`
-
-Travel Minister Harin Fernando is in the country's Twitter account that 208 tourists have arrived in the island in January this year.It is a 103 percent growth in January (102545).
-
-◼️
-
-[Data](articles/1887b7e6.json)
-
-[Extended Data](ext_articles/1887b7e6.ext.json)
-
----
-
-### Yukthiya operation should not be passionate or personal initiative outside law
-
-*2024-02-03 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yukthiya-operation-should-not-be-passionate-or-personal-initiative-outside-law/108-276269) · `en`
-
-The Lawyers’ Collective, in an open letter to Minister of Public Security Tiran Alles yesterday said the Yukthiya Anti-drug Campaign must conform to the rule of law and should not be a passionate, personal initiative that seeks implementation outside the law.
-
-The collective said it would have been best if the campaign had been commenced when the Minister took office rather than in the election year of 2024. The letter is as follows; We are writing this letter to you as members of the Lawyers Collective. we will send copies to the President and Prime Minister and will place the letter in the public domain. we are doing so because we consider the manner in which you are exercising your powers in the “Yukthiya” anti-Drug Campaign, a matter of grave public concern.
-
-...
-
-[Data](articles/7c641d6f.json)
-
-[Extended Data](ext_articles/7c641d6f.ext.json)
-
----
-
-### Yukthiya operation should not be passionate or personal initiative outside law
-
-*2024-02-03 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Yukthiya-operation-should-not-be-passionate-or-personal-initiative-outside-law/155-276269) · `en`
-
-The Lawyers’ Collective, in an open letter to Minister of Public Security Tiran Alles yesterday said the Yukthiya Anti-drug Campaign must conform to the rule of law and should not be a passionate, personal initiative that seeks implementation outside the law.
-
-The collective said it would have been best if the campaign had been commenced when the Minister took office rather than in the election year of 2024. The letter is as follows; We are writing this letter to you as members of the Lawyers Collective. we will send copies to the President and Prime Minister and will place the letter in the public domain. we are doing so because we consider the manner in which you are exercising your powers in the “Yukthiya” anti-Drug Campaign, a matter of grave public concern.
-
-...
-
-[Data](articles/d87fa776.json)
-
-[Extended Data](ext_articles/d87fa776.ext.json)
 
 ---

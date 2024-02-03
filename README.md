@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 10:32:53**
+As of **2024-02-03 10:49:53**
 
 ## Newspaper Stats
 
-*Scraped **4,508** Articles*
+*Scraped **4,513** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ economynextcom | 252
 newsfirstlk | 278
 dailyftlk | 280
 adalk | 391
-virakesarilk | 502
-adaderanasinhalalk | 548
+virakesarilk | 503
+adaderanasinhalalk | 551
 adaderanalk | 561
 tamilmirrorlk | 573
-dailymirrorlk | 628
+dailymirrorlk | 629
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,503 (99.9%) of 4,508 articles have been extended.
+4,508 (99.9%) of 4,513 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### யாழ். பல்கலைக்கழக மாணவர் ஒன்றியத்தின் போராட்டத்திற்கு தமிழ் மக்கள் கூட்டணி ஆதரவு
+
+*2024-02-03 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175429) · `ta`
+
+யாழ்ப்பாண பல்கலைக்கழக மாணவர் ஒன்றியத்தினர் நாளை  4 ஆம் திகதியினை கரிநாள் எனப் பிரகடனப்படுத்தி அந் நாளில் கிளிநொச்சி நகரில் முன்னெடுக்கப்படவுள்ள போராட்டத்திற்கும் பேரணிக்கும் தமிழ் மக்கள் கூட்டணி தனது பூரண ஆதரவினைத் தெரிவித்துள்ளது.
+
+இது தொடர்பில் அக்கட்சியின் செயலாளர் நாயகமும் பாராளுமன்ற உறுப்பினருமான க.வி.விக்னேஸ்வரன் ஊடகங்களுக்கு அனுப்பி வைத்துள்ள செய்திக் குறிப்பில் இவ்விடயம் தெரிவிக்கப்பட்டுள்ளது.
+
+அந்த செய்திக் குறிப்பில்,1948ஆம் ஆண்டு பெப்ரவரி 4ஆம் திகதியானது ஒற்றையாட்சி என்ற விருச்சத்தின் கீழ் அதிகாரம் முழுவதையும் பெரும்பான்மை சிங்களவரிடம் கொடுத்து மதம், மொழி, இனம் போன்ற பேரினவாத கொள்கைகளை சிறுபான்மை இனத்தின் மீது மக்கள் தொகை பலத்தின் மூலம் பெரும்பான்மை சிங்கள மக்கள் திணிக்க ஏதுவாகவிட்டுச் சென்றநாள்.
+
+...
+
+[Data](articles/974862ca.json)
+
+---
 
 ### US strikes at militias in Iraq and Syria, retaliating for fatal drone attack
 
@@ -45,6 +61,40 @@ The U.S. strikes appeared to stop short of directly targeting Iran or senior lea
 ...
 
 [Data](articles/acf644ad.json)
+
+[Extended Data](ext_articles/acf644ad.ext.json)
+
+---
+
+### ටෙස්ට් තරගයේ දෙවැනි දිනය ඇරඹෙයි
+
+*2024-02-03 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192916) · `si`
+
+ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර පැවැත්වෙන ටෙස්ට් තරගයේ දෙවැනි දිනය අද (03) ආරම්භ විය.
+
+පළමු ඉනිම වෙනුවෙන් ඇෆ්ගනිස්තාන කණ්ඩායම සියලු දෙනා දැවී ලකුණු 198ක් රැස් කළ අතර, ශ්‍රී ලංකා කණ්ඩායම දිනය නිමා වන විට කිසිවෙකු නොදැවී ලකුණු 80ක් රැස් කරගෙන සිටියේ ය.
+
+◼️
+
+[Data](articles/17693b46.json)
+
+---
+
+### මතුගම සලිත කළ ඝාතනය
+
+*2024-02-03 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192915) · `si`
+
+තියුණු ආයුධවලින් කපා කොටා අද (03) අලුයම පුද්ගලයෙකු ඝාතනය කර ඇති බව මතුගම පොලීසිය පවසයි.
+
+මෙසේ ඝාතනයට ලක් ව ඇත්තේ, මතුගම ඕවිටිගල ප්‍රදේශයේ පදිංචි ව සිටි එම්.කලණ නමැති 38 හැවිරිදි පුද්ගලයෙකු බව පොලීසිය සඳහන් කර තිබේ.
+
+නාඳුනන පුද්ගලයන් පිරිසක් පැමිණ අද අලුයම එම පහරදීම සිදු කර ඇති අතර, ඔහු බරපතළ තුවාල සහිත ව කළුතර - නාගොඩ ශික්ෂණ රෝහලට ඇතුළු කිරීමේ දී මිය ගොස් ඇති බව වාර්තා වේ.
+
+සැකකරුවන් මෙතෙක් හඳුනාගෙන නොමැති අතර, සිද්ධිය සම්බන්ධයෙන් මතුගම පොලීසිය වැඩිදුර පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/e13bd2f7.json)
 
 ---
 
@@ -70,6 +120,8 @@ The athlete-turned-actor was comfortable starring in action and comedy, in appea
 
 [Data](articles/87bdc46b.json)
 
+[Extended Data](ext_articles/87bdc46b.ext.json)
+
 ---
 
 ### No special holiday on Monday
@@ -83,6 +135,26 @@ Accordingly, the Ministry further said that all government institutions will fun
 ◼️
 
 [Data](articles/59f1062b.json)
+
+[Extended Data](ext_articles/59f1062b.ext.json)
+
+---
+
+### කෝටි 10ක නීතිවිරෝධී මත්කරල් සමඟ පුද්ගලයෙකු අත්අඩංගුවට
+
+*2024-02-03 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192914) · `si`
+
+නීති විරෝධී ව රුපියල් කෝටි 10කට අධික 'ප්‍රීගැබ්' මිලිගෑම් 150 වර්ගයේ මත් කරල් තොගයක් ජාවාරම් කිරීම සඳහා සන්තකයේ තබාගෙන සිටි පුද්ගලයෙකු පොලිස් විශේෂ කාර්ය බළකාය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් විශේෂ කාර්ය බළකා බුද්ධි කොට්ඨාසයේ නිලධා‍රින් කණ්ඩායමක් එඬේරමුල්ල - වත්තල ප්‍රදේශයේ සිදු කළ වැටලීමක දී මෙම මත්පෙති සොයාගත් බව පොලිස් විශේෂ කාර්ය බළකාය සඳහන් කරයි.
+
+සැකකරු සතු ව තිබී ප්‍රීගැබ් මිලිග්‍රෑම් 150 වර්ගයේ මත් කරල් 192,000ක් සොයාගෙන ඇත.
+
+සැකකරු බදුල්ල ප්‍රදේශයේ පදිංචි වයස අවුරුදු 40ක පුද්ගලයෙකු වන අතර, ඔහු වැඩිදුර විමර්ශන කටයුතු සඳහා එඬේරමුල්ල පොලිස් ස්ථානය වෙත භාර දී ඇති බව සඳහන් ය.
+
+◼️
+
+[Data](articles/c9adef35.json)
 
 ---
 
@@ -102,19 +174,23 @@ Since then, the People’s Alliance remained idle in politics. In what appeared 
 
 [Data](articles/393c2215.json)
 
+[Extended Data](ext_articles/393c2215.ext.json)
+
 ---
 
-### நீதிமன்றத்தில் கெஹலிய ஆஜர்
+### Keheliya Azhar in court
 
 *2024-02-03 09:34:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தில்-கெஹலிய-ஆஜர்/175-332582) · `ta`
 
-சர்ச்சைக்குரிய மருந்து இறக்குமதி தொடர்பில் குற்றப் புலனாய்வுத் திணைக்களம் நேற்று 10 மணித்தியாலங்களுக்கு மேலாக வாக்குமூலம் பதிவு செய்திருந்தது.
+The Criminal Investigation Department (CID) has recorded a statement on controversial drug imports for more than 10 hours yesterday.
 
-அதனையடுத்து, குற்றப் புலனாய்வுப் பிரிவினரால் அவர் நேற்று (02) கைது செய்யப்பட்டார். (N)
+Subsequently, he was arrested by the Criminal Investigation Department yesterday (02). (Of)
 
 ◼️
 
 [Data](articles/731f9812.json)
+
+[Extended Data](ext_articles/731f9812.ext.json)
 
 ---
 
@@ -1360,6 +1436,26 @@ Room to Read is a global nonprofit organization which creates a world free from 
 
 ### Controversial Bollywood actor dies of cervical cancer
 
+*2024-02-02 20:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Controversial-Bollywood-actor-dies-of-cervical-cancer/107-276233) · `en`
+
+India, Feb 02 -  Bollywood actor and model Poonam Pandey has died from cervical cancer at the age of 32, according to a statement shared on social media that has shocked her fans.
+
+Her team shared a post on Pandey’s Instagram account, which has over 1.3 million followers, on Friday (2 February), which read: “This morning is a tough one for us.
+
+“Deeply saddened to inform you that we have lost our beloved Poonam to cervical cancer. Every living form that ever came in contact with her was met with pure love and kindness.”
+
+The news was later confirmed by Pandey’s manager Nikita Sharma, in a statement to NDTV.
+
+“Poonam Pandey, the beloved actress and social media personality, has tragically passed away this morning due to cervical cancer, leaving the entertainment industry in shock and mourning,” Sharma reportedly said.
+
+◼️
+
+[Data](articles/e8bb0534.json)
+
+---
+
+### Controversial Bollywood actor dies of cervical cancer
+
 *2024-02-02 20:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Controversial-Bollywood-actor-dies-of-cervical-cancer/108-276233) · `en`
 
 India, Feb 02 -  Bollywood actor and model Poonam Pandey has died from cervical cancer at the age of 32, according to a statement shared on social media that has shocked her fans.
@@ -1843,105 +1939,5 @@ Nurses, including Shyama Nanayakkara, Siddara Suraweera, Chandima Senawaratne, T
 [Data](articles/aba4e2e3.json)
 
 [Extended Data](ext_articles/aba4e2e3.ext.json)
-
----
-
-### Sri Lanka to visit Sri Lanka
-
-*2024-02-02 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192894) · `si`
-
-Sri Lanka's first day of Afghanistan first and the first Test of the Same Test celebrations were able to score 80 runs in their first innings.
-
-The Afghanistan group answered 198 marks 198 marks for the loss of all wickets for their first innings.
-
-Dimuth Karunaratne who assaulted unbeaten on 42 runs and Nishan Madushka scored 36 runs.
-
-◼️
-
-[Data](articles/002af569.json)
-
-[Extended Data](ext_articles/002af569.ext.json)
-
----
-
-### Former CIA hacker sentenced to 40 years in prison
-
-*2024-02-02 17:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-CIA-hacker-sentenced-to-40-years-in-prison/108-276225) · `en`
-
-WASHINGTON, Feb 2 (Reuters) - A former Central Intelligence Agency (CIA) software engineer who was convicted for carrying out, opens new tab the largest theft of classified information in the agency's history and of child pornography charges was sentenced to 40 years in prison on Thursday.
-
-The 40-year sentence by U.S. District Judge Jesse Furman was for "crimes of espionage, computer hacking, contempt of Court, making false statements to the FBI, and child pornography," U.S. federal prosecutors said in a statement. The judge did not impose a life sentence as sought by prosecutors.
-
-Joshua Schulte was convicted in July 2022 on four counts each of espionage and computer hacking and one count of lying to FBI agents, after giving classified materials to whistleblowing agency WikiLeaks in the so-called Vault 7 leak. Last August, a judge mostly upheld the conviction.
-
-...
-
-[Data](articles/aa2f5bd4.json)
-
-[Extended Data](ext_articles/aa2f5bd4.ext.json)
-
----
-
-### Namal congratulates commander Vijay
-
-*2024-02-02 17:22:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தளபதி-விஜய்க்கு-நாமல்-வாழ்த்து/175-332557) · `ta`
-
-Parliamentarian Namal Rajapaksa congratulates actor Vijay's new party
-
-◼️
-
-[Data](articles/73f0c047.json)
-
-[Extended Data](ext_articles/73f0c047.ext.json)
-
----
-
-### Sri Lanka fight back, reach 80 for no loss at day one stumps against Afghanistan
-
-*2024-02-02 17:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-fight-back-reach-80-for-no-loss-at-day-one-stumps-against-Afghanistan/108-276223) · `en`
-
-Sri Lanka fought back to dismiss Afghanistan for 198, before ending day one of the one-off Test at the Singhalese Sports Club (SSC) on 80 for 0.
-
-Left arm fast bowler Vishwa Fernando accounted for three of Afghanistan's middle-order batters, along with the scalp of opener Noor Ali, to finish with figures of 4 for 51, the best of the hosts’ bowlers.
-
-Right-arm fast bowler Asitha Fernando and left arm spinner Prabath Jayasuriya finished with three wickets a piece, as Afghanistan collapsed to lose their last six wickets for 43 and struggled to find big contributions outside of Rahmat Shah’s 91.
-
-In his first outing as the next Sri Lanka Test captain, Dhananjaya de Silva bucked conventional wisdom by opting to bowl first at the historically bat-first SSC – a decision likely to have been influenced by the green-top pitch – with the hosts’ playing three fast bowlers, which include debutant Chamika Gunasekera.
-
-...
-
-[Data](articles/3c200f5a.json)
-
-[Extended Data](ext_articles/3c200f5a.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 312.75 to the US dollar
-
-*2024-02-02 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-312-75-to-the-us-dollar-149750/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 313.25/50 to the US dollar Friday, from 315.50/70 a day earlier, dealers said.
-
-The rupee strengthened as much as 311 to the rupee in early trade until official buying resumed.
-
-A bond maturing on 01.02.2026 closed at 12.00/15 down from 12.10/25 percent Thursday.
-
-A bond maturing on 15.09.2027 closed at 12.65/72 down form 12.80/13.00 percent.
-
-A bond maturing on 15.03.2028 closed at 12.90/95 down from 13.10/15 percent.
-
-A bond maturing on 15.07.2029 closed at 13.00/20  down from 13.20/35 percent.
-
-A bond maturing on 15.05.2030 closed at 13.15/30 down from 13.20/35 percent.
-
-A bond maturing on 15.05.2031 closed at 13.25/45 down from 13.40/55 percent.
-
-A bond maturing on 01.07.2032 closed at 13.25/45 down from 13.45/60 percent. (Colombo/Feb1/2024)
-
-◼️
-
-[Data](articles/43bf7a5f.json)
-
-[Extended Data](ext_articles/43bf7a5f.ext.json)
 
 ---

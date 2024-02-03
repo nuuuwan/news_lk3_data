@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 22:17:24**
+As of **2024-02-03 22:33:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,593 (99.9%) of 4,598 articles have been extended.
+4,598 (100.0%) of 4,598 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,27 @@ The Central Bank said cumulative export earnings during the period from January 
 
 [Data](articles/71b31b08.json)
 
+[Extended Data](ext_articles/71b31b08.ext.json)
+
 ---
 
-### “நான் இறக்கவில்லை” பூனம் பாண்டே பரபரப்பு
+### "I am not dying" Poonam Pandey
 
 *2024-02-03 21:45:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/நான்-இறக்கவில்லை-பூனம்-பாண்டே-பரபரப்பு/54-332593) · `ta`
 
-கர்ப்பப்பை வாய்ப் புற்றுநோய் காரணமாக நடிகை பூனம் பாண்டே இறந்துவிட்டதாக நேற்று தகவல் வெளியான நிலையில், இன்று தான் உயிருடன் இருப்பதாக அவர் வீடியோ ஒன்றை வெளியிட்டுள்ளார்.
+She has released a video that actress Poonam Pandey has died due to cervical cancer yesterday.
 
-கர்ப்பப்பை வாய்ப் புற்றுநோய் காரணமாக நடிகை பூனம் பாண்டே இறந்துவிட்டதாக நேற்று தகவல் வெளியான நிலையில், இன்று தான் உயிருடன் இருப்பதாக அவர் வீடியோ ஒன்றை வெளியிட்டுள்ளார்
+She has released a video that actress Poonam Pandey has died due to cervical cancer yesterday.
 
-கர்ப்பப்பை வாய் புற்றுநோய் குறித்த விழிப்புணர்வை ஏற்படுத்தவே தான் இறந்துவிட்டதாக அறிவித்ததாகவும் அவர் கூறியுள்ளார். இதுதொடர்பாக தனது இன்ஸ்டா பக்கத்தில் தான் பேசும் வீடியோ ஒன்றையும் அவர் பதிவிட்டுள்ளார்.
+He also said that he was dead to raise awareness about cervical cancer. He has also posted a video of him talking on his Insta page.
 
-தான் தற்போது நலமாக இருப்பதாகவும், பல உயிர்களைப் பலிவாங்கியுள்ள கர்ப்பப்பை வாய்ப் புற்றுநோயைப் பற்றிய விழிப்புணர்வைப் பரப்புவதற்காக இதை செய்ததாகவும் தெரிவித்துள்ளார். R
+He said that he is currently in good health and has done this to spread awareness about cervical cancer that has been sacrificed many lives.. Remble
 
 ◼️
 
 [Data](articles/e479bd1b.json)
+
+[Extended Data](ext_articles/e479bd1b.ext.json)
 
 ---
 
@@ -81,6 +85,8 @@ President Wickremesinghe emphasized the historic trade relationship between the 
 ...
 
 [Data](articles/9542c32a.json)
+
+[Extended Data](ext_articles/9542c32a.ext.json)
 
 ---
 
@@ -97,6 +103,8 @@ This is Khan’s third conviction this week, with general elections scheduled fo
 ...
 
 [Data](articles/60546b17.json)
+
+[Extended Data](ext_articles/60546b17.ext.json)
 
 ---
 
@@ -126,21 +134,23 @@ The Andornam Sea said that Sri Lanka is a decisive partner at Thailand's Prime M
 
 ---
 
-### சாந்தன் இலங்கை வர அனுமதி? ஜனாதிபதி வழங்கியுள்ள உறுதி
+### Santhan allowed to come to Sri Lanka?Confirmation
 
 *2024-02-03 21:19:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தன்-இலங்கை-வர-அனுமதி-ஜனாதிபதி-வழங்கியுள்ள-உறுதி/175-332592) · `ta`
 
-இன்று சனிக்கிழமை நண்பகல் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை நேரில்  சந்தித்த பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன், தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசன் ஆகியோர், ராஜிவ் காந்தி கொலை வழக்கில் விடுதலை பெற்றுள்ள சாந்தனை இலங்கை வர அனுமதிக்குமாறு கோரினர்.
+Parliamentarian Sivagnanam Sreedharan and Tamil Progressive Alliance leader Mano Ganesan, who met President Ranil Wickremesinghe on Saturday afternoon, demanded that Shantan, who was released in the Rajiv Gandhi assassination case, demanded that Sri Lanka be released in Sri Lanka.
 
-இக்கோரிக்கையை சாதகமாக பரிசீலித்து, சாந்தன் இலங்கை வந்து தன் வயதான தாயாரைச் சந்திக்கும் வாய்ப்பை ஏற்படுத்தித் தருவதாக ஜனாதிபதி உறுதியளித்துள்ளார்.
+The President has promised that Shantan will come to Sri Lanka and meet his elderly mother.
 
-இது தொடர்பான அடுத்தகட்ட நடவடிக்கைகளை மேற்கொள்ளுமாறு தேசிய பாதுகாப்புக்கான ஜனாதிபதி  ஆலோசகர் சாகல ரட்னாயக்கவுக்கு,  சந்திப்பின் போதே  ஜனாதிபதி பணிப்புரை விடுத்துள்ளார்.
+During the meeting, the President has issued a directive to the President's Advisor for National Security Sagala Ratnayaka to take the next step in this regard.
 
-சாந்தனின் தாயாரின் கோரிக்கைக்  கடிதம் மற்றும் மேலதிக தகவல்களை தருமாறும் ஜனாதிபதி இலங்கை சிறீதரன் எம்.பியிடம் கோரியுள்ளார்.  R
+President Sri Lanka Sridharan has also requested the Sri Lankan MP to provide Santhan's mother's request and further information.R
 
 ◼️
 
 [Data](articles/29fa7505.json)
+
+[Extended Data](ext_articles/29fa7505.ext.json)
 
 ---
 

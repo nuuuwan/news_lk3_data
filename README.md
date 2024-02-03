@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 06:16:10**
+As of **2024-02-03 06:52:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,455 (100.0%) of 4,456 articles have been extended.
+4,456 (100.0%) of 4,456 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,8 @@ Understanding Sri Lanka’s Online Safety Act: What You Need to Know
 ◼️
 
 [Data](articles/91d68a1b.json)
+
+[Extended Data](ext_articles/91d68a1b.ext.json)
 
 ---
 

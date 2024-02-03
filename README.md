@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 12:32:59**
+As of **2024-02-03 12:48:33**
 
 ## Newspaper Stats
 
-*Scraped **4,530** Articles*
+*Scraped **4,532** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 54
 bbccomsinhala | 70
-dbsjeyarajcom | 134
+dbsjeyarajcom | 135
 islandlk | 239
 economynextcom | 253
 newsfirstlk | 280
@@ -18,7 +18,7 @@ dailyftlk | 280
 adalk | 392
 virakesarilk | 508
 adaderanasinhalalk | 553
-adaderanalk | 562
+adaderanalk | 563
 tamilmirrorlk | 575
 dailymirrorlk | 630
 
@@ -26,47 +26,71 @@ dailymirrorlk | 630
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,523 (99.8%) of 4,530 articles have been extended.
+4,532 (100.0%) of 4,532 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
 
-### நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டார் கெஹலிய ரம்புக்வெல்ல
+### 38-year-old brutally hacked to death in Matugama
+
+*2024-02-03 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/96968/38-year-old-brutally-hacked-to-death-in-matugama) · `en`
+
+A person has been brutally attacked to death with sharp weapons in the Ovitigala area of Matugama early this morning (03), the police said.
+
+The 38-year-old victim, identified as M. Kalana, was a resident of the same area, according to Matugama Police.
+
+An unidentified group of assailants had carried out the attack early this morning, the police said, adding that the victim, who sustained critical injuries, was pronounced dead upon admission to the Nagoda Teaching Hospital in Kalutara.
+
+The suspects have not been identified yet, and Matugama Police is conducting further investigations regarding the incident.
+
+◼️
+
+[Data](articles/a5e28262.json)
+
+[Extended Data](ext_articles/a5e28262.ext.json)
+
+---
+
+### Keheliya Rambukwella appeared in court
 
 *2024-02-03 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175433) · `ta`
 
-முன்னாள் சுகாதார அமைச்சரும் தற்போதைய சுற்றாடல்துறை அமைச்சருமான கெஹலிய ரம்புக்வெல்ல நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டார்.
+Former Health Minister and current Minister of Environment Keheliya Rambukwella has been produced in court.
 
-நேற்று வெள்ளிக்கிழமை குற்றப்புலனாய்வுப் பிரிவில் ஆஜராகி கெஹலிய ரம்புக்வெல்ல வாக்கு மூலம் அளித்திருந்த நிலையில், குற்றப்புலனாய்வுப் பிரிவினர் அவரை கைதுசெய்தனர்.
+The Criminal Investigation Division (CID) arrested him as he appeared in the Criminal Investigation Division on Friday and voted by Keheliya Rambukwella.
 
-இதேவேளை, கெஹலிய ரம்புக்வெல்லவுக்கு வெளிநாட்டு பயணத்தடை விதித்து மாளிகாகந்தை நீதிவான் நீதிமன்றம் உத்தரவிட்டுள்ளமை குறிப்பிடத்தக்கது.
+Meanwhile, the Magistrate's Magistrate's Court has ordered Keheliya Rambukwella to impose a foreign trip.
 
 ◼️
 
 [Data](articles/55169a22.json)
 
+[Extended Data](ext_articles/55169a22.ext.json)
+
 ---
 
-### බදුල්ල ඩිපෝවේ බස්රථ සේවකයන් සේවයෙන් ඉවතට
+### Bus workers in Badulla depot from service
 
 *2024-02-03 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192918) · `si`
 
-ශ්‍රී ලංගම බදුල්ල ඩිපෝවේ බස් සේවකයන් හා සීමාසහිත බදුල්ල අන්තර් පළාත් මගී ප්‍රවාහන සංගමය අතර ඇති වූ මතභේදාත්මක තත්ත්වක් හේතුවෙන් බදුල්ල ඩිපෝ බස්රථ සේවකයන් සේවයෙන් ඉවත් ව තිබේ.
+Badulla depot bus workers have been dismissed due to the controversy of the Sri Lanka Inter-Provincial Passenger Association and the Sri Lanka Inter-Provincial Passenger Association.
 
-අද දෙරණ වාර්තාකරු පැවසුවේ එම ඩිපෝව මගින් ධාවනය වන බස්රථ ධාවනය ඊයේ (02) පස්වරුවේ සිට නතර වීම හේතුවෙන් මගීන් මහත් අපහසුතාවට පත් ව සිටින බවයි.
+The Ada Derana reporter said that the passengers were running out of the rapid buses from the depot yesterday (02).
 
-මාර්ග අංක 99  බදුල්ල - කොළඹ ඒකාබද්ධ සේවය මෙම සමාගමේ බස්රථ විසින් විධිමත්ම සිදුනොකරන බව පවසන ලංගම සේවකයෝ මෙම සමාගමට අයත් බස්රථ මධ්‍යම බස් නැවතුම්පොළේ නතර කිරීමට ද විරෝධය දක්වා ඇත.
+Roads - Colombo - Colombo Combined Service The buses belonging to the SLTB are also protesting at the Central Bus Stand.
 
-ඔවුන් පවසන්නේ එම බස්රථ පෞද්ගලික බස් නැවතුමේ නතර කළ යුතු බවටයි.
+They say that buses should be stopped at the private bus stand.
 
-නමුත් බදුල්ල මගී ප්‍රවාහන සංගමය පවසන්නේ අධිකරණ නියෝගවලට අනුකූලව තම බස්රථ ධාවනය වන බවයි.
+However, the Road Passenger Transport Association says his buses run in accordance with court orders.
 
-කෙසේ වෙතත් පෞද්ගලික බස් සේවා සියල්ල බාධාවකින් තොරව ධාවනය වන අතර, බදුල්ල දිස්ත්‍රික්කයේ අනෙකුත් ලංගම ඩිපෝවල බස්රථ ද සාමාන්‍ය පරිදි ධාවනය වන බව අද ‍‍දෙරණ වාර්තාකරු වැඩිදුරටත් සඳහන් කළේ ය.
+However, the private bus services are running out of the other CTB depots in the Badulla District and the buses in the Badulla District are also normal.
 
 ◼️
 
 [Data](articles/e7e26114.json)
+
+[Extended Data](ext_articles/e7e26114.ext.json)
 
 ---
 
@@ -90,51 +114,57 @@ The 76th National Independence Day celebrations will be held at Galle Face Green
 
 ---
 
-### கிளிநொச்சியில் ரயிலில் மோதி குடும்பஸ்தர் உயிரிழப்பு
+### Kilinochchi
 
 *2024-02-03 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175438) · `ta`
 
-கிளிநொச்சி டிப்போ வீதியில் தொடருந்து நிலையத்துக்கு அண்மித்துள்ள பாதுகாப்பான தொடருந்து கடவை மூடப்பட்ட நிலையில், குறித்த கடவையை கடக்க முற்பட்டவரையே தொடருந்து மோதியுள்ளது.
+A safe haven near the Kilinochchi depot road has been closed, with the man who tried to cross the cross.
 
-விபத்தில் மோட்டார் சைக்கிளில் தொடருந்து கடவையை கடக்க முயன்ற 5 பிள்ளைகளின் தந்தையே இவ்வாறு உயிரிழந்துள்ளார்.
+The father of five children who tried to cross the crossing of a motorcycle in the accident has died.
 
 ◼️
 
 [Data](articles/16ee09c8.json)
 
+[Extended Data](ext_articles/16ee09c8.ext.json)
+
 ---
 
-### பொருளாதார பிரச்சினைக்கு தீர்வுகாண முடியுமான ஒரே தலைவர் ரணில் விக்லமசிங்க மாத்திரமாகும் - ஐ.தே.க. உபதலைவர்
+### Ranil Wickremesinghe is the only leader who can solve the economic problem - the UNP. President
 
 *2024-02-03 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175436) · `ta`
 
-நாட்டில்  அரசியல் பிரச்சினை இருந்தால் அதற்கு தீர்வுகாண பல தலைவர்கள் இருக்கின்றனர். ஆனால் தற்போது பொருளாதார பிரச்சினையே இருக்கிறது. அதற்கு தீர்வுகாண ரணில் விக்ரமசிங்கவுக்கு மாத்திரமே முடியும் என ஐக்கிய தேசிய கட்சியின் உப தலைவர் அகிலவிராஜ் காரியவசம் தெரிவித்தார்.
+If there is a political issue in the country, there are many leaders to solve it. But now there is an economic problem. UNP Vice President Akhilaviraj Kariyawasam said that Ranil Wickremesinghe could only solve it.
 
-ஐக்கிய தேசிய கட்சியின் அநுராதபும் மாவட்ட சம்மேளனம் நேற்று  வெள்ளிக்கிழமை அநுராதபுரம் இளைஞர் சேவை மன்றத்தில் இடம்பெற்றது. இதில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+The United National Party (UNP) and District Federation held at the Youth Service Council on Friday. He said this while addressing the gathering.
 
-நாட்டில் தற்போது பொருளாதார பிரச்சினையே இருந்து வருகிறது. அதற்கு தீர்வுகாண முடியாமல் போனதாலே நாடு வீழ்ச்சியடைந்தது. பொருளாதார ரீதியில் வீழ்ச்சியடைந்த நாட்டை கட்டியெழுப்ப யாரும் முன்வராத நிலையில் ரணில் விக்ரமசிங்க முன்வந்து தற்போது நாட்டின் பொருளாதாரத்தை படிப்படியாக ஸ்திர நிலைக்கு கொண்டுவர நடவடிக்கை எடுத்திருக்கிறார். அதனால் தற்போது நாட்டை பொறுப்பெற்க பலரும் முன்வருகிறார்கள்.
+The country is currently the economic problem. The country collapsed because it was unable to resolve it. Ranil Wickremesinghe has now taken steps to ensure that the economy of the country has been gradually stabilized as no one has come forward to build a country that has fallen economically.. So many people are now in charge of the country.
 
 ...
 
 [Data](articles/31b125d1.json)
 
+[Extended Data](ext_articles/31b125d1.ext.json)
+
 ---
 
-### இலங்கையின் நிதித்துறையின் ஸ்திரத்தன்மையை உறுதிப்படுத்த 150 மில்லியன் டொலர் நிதியுதவி - உலக வங்கி
+### $ 150 million to ensure the stability of Sri Lanka's financial sector - World Bank
 
 *2024-02-03 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/175435) · `ta`
 
-இலங்கையின் நிதித்துறையின் பின்னடைவை வலுப்படுத்த இலங்கை அரசாங்கமும், உலக வங்கியும் 'நிதித்துறை பாதுகாப்பு வலை வலுப்படுத்தல்' திட்டத்தின் கீழ் 150 மில்லியன் டொலர் நிதியுதவிக்கான ஒப்பந்தத்தில் கைச்சாத்திட்டுள்ளன.
+The Sri Lankan government and the World Bank have signed an agreement for a $ 150 million financial assistance under the 'Financial Security Web Scheme' scheme to strengthen the Sri Lankan financial sector.
 
-உலக வங்கிக்கும், இலங்கை மத்திய வங்கிக்கும் இடையிலான திட்ட ஒப்பந்த அமுலாக்கத்துக்கு இணையாக இந்த நிதியுதவி ஒப்பந்தம் கைச்சாத்திடப்பட்டுள்ளது.
+The funding agreement has been signed in parallel with the implementation of the project contract between the World Bank and the Central Bank of Sri Lanka.
 
-மத்திய வங்கியால் நிர்வகிக்கப்படும் இலங்கை வைப்புத்தொகை காப்புறுதி திட்டத்தில் கவனம் செலுத்தி இலங்கையின் நிதித்துறை பாதுகாப்பு உறுதிப்பாட்டை வலுப்படுத்துவது இந்த திட்டத்தின் பிரதான இலக்காகும்.
+The main goal of the project is to strengthen the Sri Lankan deposit security commitment to the Sri Lanka Deposit Insurance Scheme, which is administered by the Central Bank.
 
-மத்திய வங்கியானது இலங்கை வைப்புத்தொகை காப்புறுதித் திட்டத்தில்   செயற்படுத்தும் முகவராகவுள்ளது. இலங்கையின் வைப்புத்தொகை காப்புறுதித் திட்டம் சட்டபூர்வமாக ஆரம்பிக்கப்பட்டு, 2023 ஆம் ஆண்டின் 17 ஆம் இலக்க வங்கியியல் (சிறப்பு ஏற்பாடுகள்) சட்டத்தின் மூலம் இலங்கை வைப்புத்தொகை காப்புறுதித் திட்டம் என பெயரிடப்பட்டது.
+The Central Bank is the agent of the Sri Lanka Deposit Insurance Scheme. Sri Lanka's Deposit Insurance Scheme was legally launched and named the Sri Lanka Deposit Insurance Scheme by the Banking (Special Arrangements) Act No. 17 of 2023.
 
 ...
 
 [Data](articles/8235af5e.json)
+
+[Extended Data](ext_articles/8235af5e.ext.json)
 
 ---
 
@@ -176,19 +206,21 @@ The event will be chaired by the President of the organization Raman Senthuran t
 
 ---
 
-### சில புகையிரத நிலையங்களில் புகையிரதம் நிறுத்தப்படமாட்டாது - புகையிரத திணைக்களம்
+### The train will not stop at some railway stations - the Department of Railways
 
 *2024-02-03 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175431) · `ta`
 
-சுதந்திர தினத்தில் நிகழ்வுகளில் பங்குப்பற்றுபவர்களின் பாதுகாப்பை உறுதிப்படுத்தும் நோக்கில்   நாளை  மறுதினம் (ஞாயிற்றுக்கிழமை) காலை 05 மணிமுதல் 09 வரையான காலப்பகுதியில் செயலக புகையிரத நிலையம்,கொள்ளுப்பிட்டி மற்றும் பம்பலப்பிட்டி ஆகிய புகையிரத நிலையங்களில் புகையிரதம் நிறுத்தப்படமாட்டாது என புகையிரத திணைக்களம் அறிவித்துள்ளது.
+The Department of Railways has announced that the train will not be stopped at the Secretariat Railway Station, Kaluppitti and Bambalapitiya railway stations tomorrow (Sunday) from 5 am to 09 am to ensure the safety of those who participated in the Independence Day.
 
-76 ஆவது சுதந்திர தின நிகழ்வுகள் காலி முகத்திடலில் நாளை  மறுதினம் (ஞாயிற்றுக்கிழமை)  காலை ஜனாதிபதி, பிரதமர், அரசியல் பிரமுகர்கள், வெளிநாட்டு இராஜதந்திரிகள் ஆகியோரின் பங்குப்பற்றலுடன் இடம்பெறவுள்ளன.
+The 76th Independence Day event will be held tomorrow morning (Sunday) with the participation of the President, Prime Minister, Political figures and foreign diplomats.
 
-இந்நிகழ்வில் கலந்துக் கொள்பவர்களின் பாதுகாப்பை உறுதிப்படுத்தும் நோக்கில் நாளை  மறுதினம் (ஞாயிற்றுக்கிழமை)  காலை 05 மணி முதல்  09 மணி வரையான காலப்பகுதியில் கரையோர புகையிரத சேவையில் செயலக பிரிவு புகையிரத நிலையம்,கொள்ளுப்பிட்டி மற்றும் பம்பலப்பிட்டி ஆகிய புகையிரத நிலையங்களில்  புகையிரதம்  நிறுத்தப்படமாட்டாது.
+In order to ensure the safety of those who attend the event, the train will not be stopped at the Coastal Railway Service Center, Kaluppitti and Bambalapitiya from 05 am to 9 pm tomorrow (Sunday).
 
 ◼️
 
 [Data](articles/eebf17ed.json)
+
+[Extended Data](ext_articles/eebf17ed.ext.json)
 
 ---
 
@@ -214,19 +246,21 @@ Special traffic plan in action in Colombo for Independence day celebration
 
 ---
 
-### ජින්තුපිටිය වෙඩි තැබීමේ සිද්ධියේ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට
+### Two suspects arrested in Jedanapitiya shooting incident
 
 *2024-02-03 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192917) · `si`
 
-ආදුරුප්පුවීදිය - ජින්තුපිටිය ප්‍රදේශයේ දී වෙඩි තබා පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධියට අදාළ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Two suspects have been arrested in connection with the killing of a person in Jedippapitiya.
 
-පොලීසිය පැවසුවේ, අදාළ වෙඩි තැබීම සිදු කළ ප්‍රධාන සැකකරු සහ අධාර අනුබල දුන් පුද්ගලයෙකු මෙලෙස අත්අඩංගුවට ගෙන ඇති බවයි.
+Police said that the main suspect and aid of the shooting had been arrested.
 
-අත්අඩංගුවට ගෙන ඇත්තේ, 28 හා 39 හැවිරිදි වියේ පසු වන කඩවත සහ ආදුරුප්පුවීදිය යන ප්‍රදේශවල පදිංචිකරුවන් දෙදෙනෙකි.
+Two residents of Kadawatha and Adrappu areas have been arrested, 28 and 39.
 
 ◼️
 
 [Data](articles/4a927173.json)
+
+[Extended Data](ext_articles/4a927173.ext.json)
 
 ---
 
@@ -1562,6 +1596,22 @@ After completing the work of the two film complexes, he intends to quit the film
 
 ---
 
+### Dr. Neelan Tiruchelvam: Foremost Intellectual was the Brightest Star In Tamil Political Firmament.
+
+*2024-02-02 21:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83524) · `en`
+
+Today (Jan 31) is the birthday of eminent constitutional lawyer, academic and politician Dr. Neelakandan Tiruchelvam. Neelan as he was popularly known would have completed eighty  years , had he been among the living today. Born on January 31, 1944, Neelan Tiruchelvam was brutally assassinated 25 years ago by the   Liberation Tigers of Tamil Eelam(LTTE)  on July 29, 1999. He was 55 at the time of his death.
+
+I had a close personal relationship with Neelan. He was my friend, philosopher and guide. He was greatly instrumental in moulding my career. He was in a sense my political mentor. It was as a journalist on the Tamil daily “Virakesari” that I first began interacting with Neelan Tiruchelvam. My relationship with him grew over the years as I moved into English journalism via ‘‘The Island ‘’and ‘‘The Hindu ‘’.
+
+...
+
+[Data](articles/528a9dbd.json)
+
+[Extended Data](ext_articles/528a9dbd.ext.json)
+
+---
+
 ### Request for Amendment of Online Act
 
 *2024-02-02 21:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192901) · `si`
@@ -1589,6 +1639,26 @@ President Ranil Wickremesinghe and former President Chandrika Bandaranaike Kumar
 [Data](articles/3d416efb.json)
 
 [Extended Data](ext_articles/3d416efb.ext.json)
+
+---
+
+### Tamil  Film actor Vijay announces  Launch of political party named ‘Tamilaga Vettri Kazhagam’ (Tamil Nadu Victory Association); Party to Contest 2026 Tamil Nadu State Election
+
+*2024-02-02 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83546) · `en`
+
+Tamil actor Thalapathy Vijay on Friday announced the formation of political party, ‘Tamilaga Vettri Kazhagam,’ stating his commitment to “fundamental political change” with transparent, caste-free, and corruption-free administration.
+
+The actor made the big announcement after his fan club, Vijay Makkal Iyakkam, gave a nod to the formation of the political party in a meeting held in Chennai last week.
+
+In a statement issued by the actor, he said, “We are making an application today to the EC to register our party ‘Tamizhaga Vetri Kazhagam’. Our goal is to contest and win the upcoming 2026 assembly elections and bring about the fundamental political change that people want.”
+
+“Politics is not just another career for me. It is a sacred people’s work. I have been preparing myself for it for a long time. Politics is not a hobby for me. That is my deepest desire. I want to fully involve myself in it,” the actor said.
+
+...
+
+[Data](articles/40689478.json)
+
+[Extended Data](ext_articles/40689478.ext.json)
 
 ---
 
@@ -1875,59 +1945,5 @@ The $442 million project was given to the Indian firm as an unsolicited deal aft
 [Data](articles/be089375.json)
 
 [Extended Data](ext_articles/be089375.ext.json)
-
----
-
-### Former Health Minister Keheliya Rambukwella arrested
-
-*2024-02-02 19:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Health-Minister-Keheliya-Rambukwella-arrested/108-276229) · `en`
-
-Colombo, Feb 02 (Daily Mirror) - Former Health Minister Keheliya Rambukwella has been arrested  by the Criminal Investigation Department (CID) a short while ago in connection with the importation of substandard Immunoglobulin injections.
-
-Rambukwella complied with a court order, arrived at the CID this morning to provide a statement.
-
-Maligakanda Magistrate Lochana Abeywickrama had directed Rambukwella to report to the CID at 9 AM on Friday (2) following submissions by Deputy Solicitor General Lakmini Girihagama on behalf of the Attorney General during a court hearing on the controversial human immunoglobulin procurement case.
-
-After more than 10 hours of interrogation, the minister was arrested in connection with the matter.
-
-◼️
-
-[Data](articles/06910b89.json)
-
-[Extended Data](ext_articles/06910b89.ext.json)
-
----
-
-### Former Health Minister Keheliya Rambukwella arrested
-
-*2024-02-02 19:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Former-Health-Minister-Keheliya-Rambukwella-arrested/155-276229) · `en`
-
-Colombo, Feb 02 (Daily Mirror) - Former Health Minister Keheliya Rambukwella has been arrested  by the Criminal Investigation Department (CID) a short while ago in connection with the importation of substandard Immunoglobulin injections.
-
-Rambukwella complied with a court order, arrived at the CID this morning to provide a statement.
-
-Maligakanda Magistrate Lochana Abeywickrama had directed Rambukwella to report to the CID at 9 AM on Friday (2) following submissions by Deputy Solicitor General Lakmini Girihagama on behalf of the Attorney General during a court hearing on the controversial human immunoglobulin procurement case.
-
-After more than 10 hours of interrogation, the minister was arrested in connection with the matter.
-
-◼️
-
-[Data](articles/0d48c612.json)
-
-[Extended Data](ext_articles/0d48c612.ext.json)
-
----
-
-### Keheliya Rambukwella arrested
-
-*2024-02-02 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192897) · `si`
-
-Former Health Minister Keheliya Rambukwella has been arrested by the CID to the CID.
-
-◼️
-
-[Data](articles/bf10c552.json)
-
-[Extended Data](ext_articles/bf10c552.ext.json)
 
 ---

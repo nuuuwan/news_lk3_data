@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 13:17:19**
+As of **2024-02-03 13:33:18**
 
 ## Newspaper Stats
 
-*Scraped **4,532** Articles*
+*Scraped **4,533** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 54
+colombotelegraphcom | 55
 bbccomsinhala | 70
 dbsjeyarajcom | 135
 islandlk | 239
@@ -26,7 +26,7 @@ dailymirrorlk | 630
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,532 (100.0%) of 4,532 articles have been extended.
+4,532 (100.0%) of 4,533 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -963,6 +963,18 @@ Forestry, USA and coalition troops, including drones, rockets and short distance
 [Data](articles/84e2f655.json)
 
 [Extended Data](ext_articles/84e2f655.ext.json)
+
+---
+
+### The Ups & Downs Of Jaffna
+
+*2024-02-03 07:17:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-ups-downs-of-jaffna/) · `en`
+
+Jaffna offers little hope of recovery. People talk much of an intellectual revival but I see few signs of it. Indeed, there is no sign of English revival. Without it, there can be no intellectual revival. I see greater hope in the visibly evident emerging service industries doing more for us than the university where there is a great problem in the use of English. The much touted Engineering Faculty is running aground with few Ph.D holders teaching. The signs are that the Dean too will flee as his term ends. His efforts at recruitment are opposed by his staff threatening to strike should he bring in people of good quality.
+
+...
+
+[Data](articles/e60abe6a.json)
 
 ---
 
@@ -1923,27 +1935,5 @@ After more than 10 hours of trial, Keheliya Rambukwella was arrested.
 [Data](articles/7fb95860.json)
 
 [Extended Data](ext_articles/7fb95860.ext.json)
-
----
-
-### Indian envoy hopes for timely progress in Adani’s wind power deal
-
-*2024-02-02 19:54:00* · [`economynextcom`](https://economynext.com/indian-envoy-hopes-for-timely-progress-in-adanis-wind-power-deal-149664/) · `en`
-
-ECONOMYNEXT – Indian High Commissioner for Sri Lanka Santosh Jha said the Adani’s 500 MW wind power deal in the island nation’s Northern province should progress after a better negotiation process.
-
-Sri Lankan officials have said the Adani wind power project has been facing some delays as a Cabinet Appointed Negotiation Committee (CANC) has been raising concerns over the project components.
-
-The $442 million project was given to the Indian firm as an unsolicited deal after it was changed to a government-to-government deal with Adani Green Energy was issued provisional approval for two wind projects of 286 MW in Sri Lanka’s northwestern Mannar and 234 MW in the Northern Pooneryn.
-
-“It is a commercial venture by Adani. They would be the right people to answer the question,” Santosh Jha told reporters in Colombo at a meeting with senior journalists on Thursday (01).
-
-“It should progress,” he said when asked about the delays in the project.
-
-...
-
-[Data](articles/be089375.json)
-
-[Extended Data](ext_articles/be089375.ext.json)
 
 ---

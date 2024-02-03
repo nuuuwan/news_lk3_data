@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 15:17:12**
+As of **2024-02-03 15:33:06**
 
 ## Newspaper Stats
 
-*Scraped **4,544** Articles*
+*Scraped **4,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 280
 adalk | 393
 virakesarilk | 511
 adaderanasinhalalk | 556
-adaderanalk | 564
+adaderanalk | 566
 tamilmirrorlk | 575
 dailymirrorlk | 633
 
@@ -26,11 +26,27 @@ dailymirrorlk | 633
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,544 (100.0%) of 4,544 articles have been extended.
+4,544 (100.0%) of 4,546 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### Keheliya Rambukwella remanded
+
+*2024-02-03 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/96971/keheliya-rambukwella-remanded-) · `en`
+
+Former Health Minister Keheliya Rambukwella has been remanded until February 15 on the orders of Maligakanda Magistrate’s Court.
+
+The current Environment Minister was produced before the court this morning (Feb.03).
+
+He was taken into custody by the Criminal Investigation Department (CID) on Friday (Feb.02) in connection with his alleged complicity in the procurement of substandard human intravenous immunoglobulin (IVIG). He had made an appearance before the CID on Friday morning, complying with a court order issued yesterday and was grilled for nearly 10 hours.
+
+◼️
+
+[Data](articles/1229b35b.json)
+
+---
 
 ### Indian submarine arrives in Colombo
 
@@ -89,6 +105,24 @@ The primary highlight of Prime Minister Thavisin's visit is his participation in
 [Data](articles/3a6661a7.json)
 
 [Extended Data](ext_articles/3a6661a7.ext.json)
+
+---
+
+### Thai Prime Minister arrives in Sri Lanka
+
+*2024-02-03 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96970/thai-prime-minister-arrives-in-sri-lanka) · `en`
+
+The Prime Minister of Thailand, Srettha Thavisin arrived in Sri Lanka on Saturday afternoon (Feb.03) on an official visit.
+
+Accompanied by a high-level Thai delegation, PM Thavisin was welcomed at the Bandaranaike International Airport (BIA) in Katunayake by his Sri Lankan counterpart PM Dinesh Gunawardena.
+
+The Thai Prime Minister will undertake a two-day official visit in Sri Lanka from 03 - 04 February 2024 at the invitation of President Ranil Wickremesinghe. He is also scheduled to grace the national ceremony to mark the 76th Anniversary of the Independence of Sri Lanka as Guest of Honour.
+
+Additionally, witnessing the signing of the historic Sri Lanka - Thailand Free Trade Agreement (SLTFTA) this evening (03) is also high on the agenda during the Thai Prime Minister’s official discussions with President Wickremesinghe.
+
+...
+
+[Data](articles/6ffe3618.json)
 
 ---
 
@@ -1933,39 +1967,5 @@ The suspect Inspector Association has been remanded until the 16th and the other
 [Data](articles/d349ca51.json)
 
 [Extended Data](ext_articles/d349ca51.ext.json)
-
----
-
-### Special announcement on salaries, allowances paid to retired disabled soldiers and dependents
-
-*2024-02-02 20:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96958/special-announcement-on-salaries-allowances-paid-to-retired-disabled-soldiers-and-dependents) · `en`
-
-The Defence Ministry has issued a special notice on payment of salaries and allowances to the dependents of tri-forces personnel who were forced to retire from service on medical grounds after being disabled in the civil war prior to 19 May 2009 and died before reaching 55 years of age.
-
-Accordingly, full salaries and allowances of such tri-forces personnel will be paid to their dependents until the date of completing 55 years of age of the deceased.
-
-“Also, the fixed monthly stipend previously granted to these beneficiaries as per a Cabinet approval, i.e. salary, pension and allowances that would have been entitled when he reached the age of 55 years if that person had been alive, will be entitled to his widow for her lifetime,” the Ministry said further in its media release.
-
-...
-
-[Data](articles/127192e2.json)
-
-[Extended Data](ext_articles/127192e2.ext.json)
-
----
-
-### Ministry of Defense announced
-
-*2024-02-02 20:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192899) · `si`
-
-The Ministry of Defense has decided to provide full salary and allowances to the three armed forces who have been retired due to terrorist activities before 19.05.2009.
-
-When they died before the age of 55, the salaries and allowances were to be provided to their dependents until the age of 55 years of age.
-
-◼️
-
-[Data](articles/0037cb00.json)
-
-[Extended Data](ext_articles/0037cb00.ext.json)
 
 ---

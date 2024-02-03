@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 16:02:18**
+As of **2024-02-03 16:17:17**
 
 ## Newspaper Stats
 
-*Scraped **4,549** Articles*
+*Scraped **4,551** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 70
 dbsjeyarajcom | 135
 islandlk | 239
 economynextcom | 253
-newsfirstlk | 280
 dailyftlk | 280
+newsfirstlk | 281
 adalk | 393
 virakesarilk | 512
 adaderanasinhalalk | 556
-adaderanalk | 567
+adaderanalk | 568
 tamilmirrorlk | 575
 dailymirrorlk | 634
 
@@ -26,11 +26,23 @@ dailymirrorlk | 634
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,549 (100.0%) of 4,549 articles have been extended.
+4,549 (100.0%) of 4,551 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### President Ranil welcomes Thai PM Thavisin
+
+*2024-02-03 15:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96973/president-ranil-welcomes-thai-pm-thavisin) · `en`
+
+President Ranil Wickremesinghe has ceremonially welcomed the visiting Thai Prime Minister Srettha Thavisin and his delegation. The much-anticipated meeting took place at the Presidential Secretariat on Saturday afternoon (Feb.03).
+
+◼️
+
+[Data](articles/1ca832e1.json)
+
+---
 
 ### Ayurvedic Drugs Corporation’s profits hit record high of Rs. 195mn in 2023 - State Minister
 
@@ -69,6 +81,24 @@ Prime Minister Dinesh Gunawardena made a special welcome at the Bandaranaike Int
 [Data](articles/965e13d9.json)
 
 [Extended Data](ext_articles/965e13d9.ext.json)
+
+---
+
+### Keheliya Rambukwella remanded until February 15
+
+*2024-02-03 15:16:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/03/keheliya-rambukwella-remanded-until-february-15/) · `en`
+
+COLOMBO (News 1st) – Minister Keheliya Rambukwella has been remanded until the 15th of February after he was produced before court on Saturday morning following his arrest by the Criminal Investigations Department on Friday.
+
+Minister Keheliya Rambukwella was arrested by the CID over the controversial human immunoglobulin procurement scandal.
+
+Maligakanda Magistrate Lochana Abeywickrama imposed an overseas travel ban on Minister Keheliya Rambukwella and ordered him to report to the Criminal Investigations Department to provide a statement.
+
+Special traffic plan in action in Colombo for Independence day celebration
+
+◼️
+
+[Data](articles/b9d70ccf.json)
 
 ---
 
@@ -1941,37 +1971,5 @@ After completing the work of the two film complexes, he intends to quit the film
 [Data](articles/0512eed1.json)
 
 [Extended Data](ext_articles/0512eed1.ext.json)
-
----
-
-### Dr. Neelan Tiruchelvam: Foremost Intellectual was the Brightest Star In Tamil Political Firmament.
-
-*2024-02-02 21:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83524) · `en`
-
-Today (Jan 31) is the birthday of eminent constitutional lawyer, academic and politician Dr. Neelakandan Tiruchelvam. Neelan as he was popularly known would have completed eighty  years , had he been among the living today. Born on January 31, 1944, Neelan Tiruchelvam was brutally assassinated 25 years ago by the   Liberation Tigers of Tamil Eelam(LTTE)  on July 29, 1999. He was 55 at the time of his death.
-
-I had a close personal relationship with Neelan. He was my friend, philosopher and guide. He was greatly instrumental in moulding my career. He was in a sense my political mentor. It was as a journalist on the Tamil daily “Virakesari” that I first began interacting with Neelan Tiruchelvam. My relationship with him grew over the years as I moved into English journalism via ‘‘The Island ‘’and ‘‘The Hindu ‘’.
-
-...
-
-[Data](articles/528a9dbd.json)
-
-[Extended Data](ext_articles/528a9dbd.ext.json)
-
----
-
-### Request for Amendment of Online Act
-
-*2024-02-02 21:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192901) · `si`
-
-The United Nations Human Rights Council (UNHRC) says that human rights are a negative impact on human rights, including freedom of expression.
-
-The council pointed out that the government requests the amendment to amend the law to ensure that the issues of civil society and the industry.
-
-◼️
-
-[Data](articles/95320771.json)
-
-[Extended Data](ext_articles/95320771.ext.json)
 
 ---

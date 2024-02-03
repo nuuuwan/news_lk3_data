@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 06:52:12**
+As of **2024-02-03 07:14:45**
 
 ## Newspaper Stats
 
-*Scraped **4,456** Articles*
+*Scraped **4,466** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 54
 bbccomsinhala | 69
-dbsjeyarajcom | 132
-islandlk | 230
+dbsjeyarajcom | 134
+islandlk | 238
 economynextcom | 252
 newsfirstlk | 275
 dailyftlk | 280
@@ -26,7 +26,7 @@ dailymirrorlk | 618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,456 (100.0%) of 4,456 articles have been extended.
+4,456 (99.8%) of 4,466 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -514,6 +514,74 @@ Sri Lanka 36 * and Dimuth Karunaratne who started innings was 42 * from the Sri 
 
 ---
 
+### Bargain-hunting peps-up share market; indices move up
+
+*2024-02-02 20:40:00* · [`islandlk`](http://island.lk/bargain-hunting-peps-up-share-market-indices-move-up/) · `en`
+
+Bargain hunters were active in the share market yesterday looking for and purchasing valued stocks at a lower rate. Consequently, the stock market began on a spirited note in an apparent rebound in investor sentiment, market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 55.07 points and S and P SL20 rose by 20.88 points. Turnover stood at Rs 1.39 billion with three crossings. Those crossing were reported in LB Finance, where 4.2 million shares crossed to the tune of Rs 254 million; its shares traded at Rs 61, Colombo Fort Land 5.7 million shares crossed for Rs 171 million; its shares sold at Rs 30 and Hela Apparel 5 million shares crossed for Rs 25 million; its shares traded at Rs 5.
+
+...
+
+[Data](articles/e173adfa.json)
+
+---
+
+### Sri Lanka Tourism collaborates with UL Korea GSA and influencers
+
+*2024-02-02 20:39:00* · [`islandlk`](http://island.lk/sri-lanka-tourism-collaborates-with-ul-korea-gsa-and-influencers/) · `en`
+
+Han Moon Chul , a popular YouTube sensation with 1.78 million subscribers and a Broadcaster in Korea , visited Sri Lanka on the 27th of January 2024 , and received a warm welcome from the Sri Lanka Tourism Promotion Bureau , where he had a high level meeting with the top management of the Sri Lanka Tourism Promotion Bureau (SLTPB ) on how to promote Sri Lanka as a travel destination.
+
+Han Moon Chul is also a lawyer, specializing in traffic accidents and compensation for damages, which adds to his portfolio as a talented you tuber and Broadcaster. His main purpose is to promote Sri Lanka among his Korean followers who are unfamiliar with Sri Lanka and encourage them to visit the destination by highlighting its diverse culture, ethnicity and beauty through his you tube channel.
+
+...
+
+[Data](articles/0745c1b8.json)
+
+---
+
+### Adani Power’s Q3 FY24 financials driven by ‘improved power demand’
+
+*2024-02-02 20:39:00* · [`islandlk`](http://island.lk/adani-powers-q3-fy24-financials-driven-by-improved-power-demand/) · `en`
+
+Adani Power Ltd. (APL), a part of Adani portfolio companies, recently announced the financial results for the third quarter ended at 31st December 2023.Commenting on the quarterly results, S.B Khyalia, CEO, Adani Power Limited, said, “Adani Power continues to demonstrate its leadership across domains by achieving ever-higher standards of excellence, as evidenced by the financial results for the third quarter of FY 2023-24. The Company’s strategically located power plants and optimal capacity allocation between PPAs and merchant capacities, coupled with its strength in fuel management & logistics and excellence in power plant O&M, have allowed it to address growing power demand and generate robust profitability.
+
+...
+
+[Data](articles/5853681b.json)
+
+---
+
+### ComBank celebrates 16 years of providing card payment solutions via ‘Goldnet’
+
+*2024-02-02 20:39:00* · [`islandlk`](http://island.lk/combank-celebrates-16-years-of-providing-card-payment-solutions-via-goldnet/) · `en`
+
+The Commercial Bank of Ceylon recently celebrated 16 years of successful operations of the ComBank Goldnet System – the Bank’s payment card services platform which currently hosts six domestic banks and financial institutions as well as the country’s two leading telecommunications service providers.
+
+The Commercial Bank Goldnet Symposium 2024 organised by the Bank for Goldnet members comprised of a series of technical presentations on topics relevant to the payment cards ecosystem, and the presentation of tokens of appreciation to Goldnet members in recognition of their unwavering and continuous partnership with Commercial Bank and their contribution to promoting digital payments in Sri Lanka.
+
+...
+
+[Data](articles/af45ad7c.json)
+
+---
+
+### Room to Read and Colombo Stock Exchange ring the bell on behalf of education
+
+*2024-02-02 20:38:00* · [`islandlk`](http://island.lk/room-to-read-and-colombo-stock-exchange-ring-the-bell-on-behalf-of-education/) · `en`
+
+On behalf of the ‘International Day of Education’ which was celebrated on the 24th of January, Room to Read Sri Lanka partnered with the Colombo Stock Exchange to ring the opening bell for trading. Room to Read marks this occasion as it approaches a significant milestone of transforming the lives of 40 million children across the globe through quality education in 2024.
+
+Room to Read is a global nonprofit organization which creates a world free from illiteracy and gender inequality. It achieves this goal by helping children in historically low-income communities develop literacy skills and a habit of reading through its Literacy Program, and by supporting girls in secondary education with life skills and financial literacy via its Girls’ Education Program, as they build skills to succeed in school and negotiate key life decisions. It collaborates with governments and other partner organizations to deliver positive outcomes for children at scale.
+
+...
+
+[Data](articles/cb2e0781.json)
+
+---
+
 ### Controversial Bollywood actor dies of cervical cancer
 
 *2024-02-02 20:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Controversial-Bollywood-actor-dies-of-cervical-cancer/108-276233) · `en`
@@ -585,6 +653,28 @@ After more than 10 hours of trial, Keheliya Rambukwella was arrested.
 [Data](articles/7fb95860.json)
 
 [Extended Data](ext_articles/7fb95860.ext.json)
+
+---
+
+### Indian envoy hopes for timely progress in Adani’s wind power deal
+
+*2024-02-02 19:54:00* · [`economynextcom`](https://economynext.com/indian-envoy-hopes-for-timely-progress-in-adanis-wind-power-deal-149664/) · `en`
+
+ECONOMYNEXT – Indian High Commissioner for Sri Lanka Santosh Jha said the Adani’s 500 MW wind power deal in the island nation’s Northern province should progress after a better negotiation process.
+
+Sri Lankan officials have said the Adani wind power project has been facing some delays as a Cabinet Appointed Negotiation Committee (CANC) has been raising concerns over the project components.
+
+The $442 million project was given to the Indian firm as an unsolicited deal after it was changed to a government-to-government deal with Adani Green Energy was issued provisional approval for two wind projects of 286 MW in Sri Lanka’s northwestern Mannar and 234 MW in the Northern Pooneryn.
+
+“It is a commercial venture by Adani. They would be the right people to answer the question,” Santosh Jha told reporters in Colombo at a meeting with senior journalists on Thursday (01).
+
+“It should progress,” he said when asked about the delays in the project.
+
+...
+
+[Data](articles/be089375.json)
+
+[Extended Data](ext_articles/be089375.ext.json)
 
 ---
 
@@ -774,6 +864,26 @@ The event was held at the Presidential Secretariat today (02).
 
 ---
 
+### Sri Lanka private creditors said to be frustrated over lack of progress
+
+*2024-02-02 18:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-creditors-said-to-be-frustrated-over-lack-of-progress-149662/) · `en`
+
+ECONOMYNEXT – Some of Sri Lanka’s bondholders who were willing to negotiate a deal before a judgement was delivered in a case filed by holdout investor Hamilton Reserve, are frustrated at what is seen as no progress in discussions, sources familiar with their thinking said.
+
+While Hamilton Reserve has gone to court claiming to represent a 250 million dollar or 25 percent share in a billion-dollar bond with a so-called ‘single series’ collective action clause, a large majority of bondholders who have other bonds, have formed a committee to negotiate with Sri Lanka.
+
+Western governments including the US and France have asked that the court action be stayed until negotiations with other bondholders conclude, but prospects of a deal being concluded by the time the first deadline given by the court has now dimmed.
+
+It is not clear yet whether a second extension could be obtained from court.
+
+...
+
+[Data](articles/8fd03b65.json)
+
+[Extended Data](ext_articles/8fd03b65.ext.json)
+
+---
+
 ### Two arrested for alleged sexual assault, theft of American woman
 
 *2024-02-02 18:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-arrested-for-alleged-sexual-assault-theft-of-American-woman/108-276224) · `en`
@@ -816,6 +926,40 @@ Speaking at a press conference held at the Government Information Department, Po
 
 ---
 
+### Dr. Neelan Tiruchelvam: Foremost Intellectual was the Brightest Star In Tamil Political Firmament.
+
+*2024-02-02 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83524) · `en`
+
+Today (Jan 31) is the birthday of eminent constitutional lawyer, academic and politician Dr. Neelakandan Tiruchelvam. Neelan as he was popularly known would have completed eighty  years , had he been among the living today. Born on January 31, 1944, Neelan Tiruchelvam was brutally assassinated 25 years ago by the   Liberation Tigers of Tamil Eelam(LTTE)  on July 29, 1999. He was 55 at the time of his death.
+
+I had a close personal relationship with Neelan. He was my friend, philosopher and guide. He was greatly instrumental in moulding my career. He was in a sense my political mentor. It was as a journalist on the Tamil daily “Virakesari” that I first began interacting with Neelan Tiruchelvam. My relationship with him grew over the years as I moved into English journalism via ‘‘The Island ‘’and ‘‘The Hindu ‘’.
+
+...
+
+[Data](articles/528a9dbd.json)
+
+[Extended Data](ext_articles/528a9dbd.ext.json)
+
+---
+
+### Tamil Nadu’s First DMK Chief Minister CN Annadurai known as “Anna” made very significant contributions to Tamil theatre, cinema,  and literature.
+
+*2024-02-02 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83543) · `en`
+
+Former Chief Minister C.N. Annadurai may have been instrumental in shaping the course of Tamil Nadu’s political history. But his artistic and literary persona played a major role in his achieving the rare iconic status he enjoyed.
+
+His contributions as a writer and actor undoubtedly aided him in his propaganda all the way. However, when viewed sans the political agenda, his work can be seen as having made very significant contributions to Tamil theatre, cinema and literature.
+
+Some of Anna’s plays were made into films and are regarded as very important productions in Kollywood. ’Velaikkari’ and ’Or Iravu’ are two of his most popular films.
+
+Both were stage plays penned by him that were later made into films which also had Anna penning the story and dialogue. In fact, at one point producers began capitalising on the audience’s response to mere mention of ’Kadai, Vasanam – C.N.Annadurai’ on the title cards. So much so that it would precede even the actors’ and directors’ names.
+
+...
+
+[Data](articles/ab759710.json)
+
+---
+
 ### UN Warns Sri Lanka’s Online Safety Act Threatens Human Rights
 
 *2024-02-02 18:06:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/un-warns-sri-lanka-s-online-safety-act-threatens-human-rights/) · `en`
@@ -833,6 +977,20 @@ Understanding Sri Lanka’s Online Safety Act: What You Need to Know
 [Data](articles/06e18cbd.json)
 
 [Extended Data](ext_articles/06e18cbd.ext.json)
+
+---
+
+### Former Health Minister and  current Environment Minister Keheliya Rambukwella arrested by the CID (CID) in connection with the controversial scam involving the importat of substandard human immunoglobulin IV vials to Sri Lanka.
+
+*2024-02-02 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83540) · `en`
+
+Former Health Minister and the current Environment Minister Keheliya Rambukwella was arrested by the Criminal Investigations Department (CID) yesterday in connection to the controversial scam involving the import of substandard human immunoglobulin IV vials to Sri Lanka.
+
+Rambukwella was taken into custody following a 10-hour statement provided to the Criminal Investigation Department (CID). On Thursday Maligakanda Magistrate Lochani Abeywickrama, issued an order for him to appear before the CID yesterday after he failed to appear before the CID earlier in the week and had submitted written justifications for his absence.
+
+...
+
+[Data](articles/1027796b.json)
 
 ---
 
@@ -1855,189 +2013,5 @@ Among the petitioners are His Eminence Malcolm Cardinal Ranjith, General Secreta
 [Data](articles/4fb6327b.json)
 
 [Extended Data](ext_articles/4fb6327b.ext.json)
-
----
-
-### Many people do not believe in the leadership of Maithripala Sirisena!- Dayasiri Jayasekara
-
-*2024-02-02 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175387) · `ta`
-
-Parliamentarian Dayasiri Jayasekara has said he knows that the new coalition planned by the Sri Lanka Freedom Party (SLFP) has decided to support President Ranil Wickremesinghe in the upcoming presidential election.
-
-He also said that no political party has confidence in alliances formed by former President Maithripala Sirisena.
-
-He said that I saw a meeting held by Nimal Lansa last week and I noticed that they were going to support President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/f553f25c.json)
-
-[Extended Data](ext_articles/f553f25c.ext.json)
-
----
-
-### Abolition Of The Provincial Councils System: Reply To Milinda Moragoda’s Utterance
-
-*2024-02-02 14:21:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/abolition-of-the-provincial-councils-system-reply-to-milinda-moragodas-utterance/) · `en`
-
-Erstwhile Sri Lanka’s High Commissioner in India and the presently activated Founder of the Pathfinder Foundation has recently called for the abolition of the Provincial Councils system and has advocated direct devolution of powers to strengthen and reconfigure Local, Urban and Municipal Councils. He has argued that an additional layer of administration in the form of Provincial Councils in unnecessary. He has proposed achieving necessary coordination between the centre and the periphery through a District Level framework involving Members of Parliament.
-
-He has argued that the Provincial Councils have proven to be redundant, costly, divisive and inefficient. In lieu of the Provincial Council layer he has recommended establishing an empowered Senate or Upper House to handle matters related to religious, ethnic and regional diversity.
-
-He had earlier advised Gotabaya Rajapaksa similarly asking 13th Amendment to be repealed to abolish “the dysfunctional and expensive” Provincial Councils.
-
-...
-
-[Data](articles/2cff0941.json)
-
-[Extended Data](ext_articles/2cff0941.ext.json)
-
----
-
-### Si will be remanded again in Narammala shooting incident
-
-*2024-02-02 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192883) · `si`
-
-The sub-inspector of the Naramma has been remanded until February 16.
-
-The Trust Inspector's firearm was shot dead by the Tarketer of the Lori when a lorry was chased down on January 18.
-
-◼️
-
-[Data](articles/1c0ccb74.json)
-
-[Extended Data](ext_articles/1c0ccb74.ext.json)
-
----
-
-### A verdict on anti-terrorism
-
-*2024-02-02 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192882) · `si`
-
-The Petition filed by the Government of the Terrorism Bill, which was presented to Parliament, has been completed as contrary to the Constitution.
-
-Accordingly, the Supreme Court has announced its secret sentence to the Speaker.
-
-31 petitions have been filed with the challenges of the relevant Bill and has been examined for six days.
-
-After the end of the petition, the Supreme Court published this decision.
-
-◼️
-
-[Data](articles/41659e79.json)
-
-[Extended Data](ext_articles/41659e79.ext.json)
-
----
-
-### Self-proclaimed ‘Vishwa Buddha’ remanded further
-
-*2024-02-02 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/96946/self-proclaimed-vishwa-buddha-remanded-further) · `en`
-
-The saffron-robed person claiming to be ‘Vishwa Buddha’ has been ordered to be further remanded in custody until 16 February, 2024.
-
-This order was issued when he was produced before the Gangodawila Magistrate’s Court in Nugegoda, Ada Derana reporter said.
-
-The suspect, who was out on bail, was re-arrested on 23 January by the Criminal Investigations Department (CID) over breach of bail conditions and was presented before the Gangodawila Magistrate’s Court. However, later he was presented before the Colombo Magistrate’s Court as per the orders of the Gangodawila Magistrate.
-
-The Colombo Magistrate’s Court, advising the suspect, had ordered him not to breach his bail conditions, however, he was further kept in remand custody over another pending case being heard before the Gangodawila Magistrate’s Court.
-
-...
-
-[Data](articles/6eff3e2c.json)
-
-[Extended Data](ext_articles/6eff3e2c.ext.json)
-
----
-
-### Sri Lanka signs World Bank $150 deposit insurance loan
-
-*2024-02-02 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-signs-world-bank-150-deposit-insurance-loan-149738/) · `en`
-
-ECONOMYNEXT – Sri Lanka has signed an agreement with Washington-based World Bank to borrow 150 million US dollars to strengthen a deposit insurance scheme, the island’s Finance Ministry said.
-
-The funds will come from the low-interest International Development Association window to which Sr Lanka re-qualified after its sovereign default.
-
-The project will strengthened the “financial and institutional capacity” of the Sri Lanka Deposit Insurance Scheme run by the central bank in line with international best practices for effective deposit insurance schemes, the statement said.
-
-It will increase the reserves of the deposit insurance fund which can be used to pay customers of banks that are liquidated.
-
-The loan agreement was signed by K.M. Mahinda Siriwardana, Secretary to the Treasury, and Faris H. Hadad-Zervos, Country Director for Maldives, Nepal and Sri Lanka on January 31, 2024. (Colombo/Feb02/2024)
-
-◼️
-
-[Data](articles/a464414d.json)
-
-[Extended Data](ext_articles/a464414d.ext.json)
-
----
-
-### Universal Buddha further remanded
-
-*2024-02-02 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192881) · `si`
-
-The person named 'Universal Buddha' has been remanded until Feb 16.
-
-He has been accused of being accused of contempt of the universal Buddha in the social media.
-
-Although the court had ordered him to bail, but due to insulting the republic of the court, the man named Universal Buddha was resatered to the court.
-
-◼️
-
-[Data](articles/a37ba429.json)
-
-[Extended Data](ext_articles/a37ba429.ext.json)
-
----
-
-### SJB to bring in second No Faith motion against Keheliya
-
-*2024-02-02 13:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-to-bring-in-second-No-Faith-motion-against-Keheliya/108-276214) · `en`
-
-Colombo, Feb 2 (Daily Mirror) - The Samagi Jana Balawegaya (SJB) is to bring in another No Confidence motion against Minister Keheliya Rambukwella, Member of Parliament Kavinda Jayawardene said today.
-
-“Our party decided to bring in a second No Faith motion against Minister Rambukwella some weeks ago, but we did not collect signatures as we knew President Ranil Wickremesinghe was going to prorogue Parliament. However, we will start collecting signatures from MPs for the No Confidence motion from February 7 when the House convenes,” MP Jayawardene said.
-
-“We will publish the signatures we get for the motion this time so that the public will know who will go against corruption,” he added.
-
-The MP alleged that the Minister’s involvement in the Human Immunoglobulin scam is becoming clear with the information that is being disclosed before the judiciary.
-
-◼️
-
-[Data](articles/e1f673d5.json)
-
-[Extended Data](ext_articles/e1f673d5.ext.json)
-
----
-
-### Continuity
-
-*2024-02-02 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175380) · `ta`
-
-It is noteworthy that the Vavuniya Hospital yesterday was stalled due to the launch of 72 health societies, demanding the payment of 30 thousand rupees of payments to the doctors.
-
-◼️
-
-[Data](articles/a1124785.json)
-
-[Extended Data](ext_articles/a1124785.ext.json)
-
----
-
-### A beautiful Bollywood actress is for life
-
-*2024-02-02 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192880) · `si`
-
-The deceased has been identified as Indian beautiful actress, Poonam.
-
-It states that she has died due to cervical cancer.
-
-In 2013, the first film of Nisha, "Nasa" had joined Bollywood cinema.
-
-◼️
-
-[Data](articles/f239b854.json)
-
-[Extended Data](ext_articles/f239b854.ext.json)
 
 ---

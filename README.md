@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 17:17:23**
+As of **2024-02-03 17:33:55**
 
 ## Newspaper Stats
 
@@ -332,11 +332,13 @@ Former Health Minister Keheliya Rambukwella has been remanded until 15 February 
 
 The current Environment Minister was produced before the court this morning (Feb.03).
 
-The Criminal Investigation Department (CID) arrested the lawmaker on Friday (Feb.02) in connection with the procurement of substandard human intravenous immunoglobulin (IVIG).
+The Criminal Investigation Department (CID) arrested the lawmaker on Friday (Feb.02) in connection with the procurement of substandard human intravenous immunoglobulin (IVIG). He had made an appearance before the CID on Friday morning, complying with a court order issued yesterday and was grilled for nearly 10 hours before being arrested.
 
-He had made an appearance before the CID on Friday morning, complying with a court order issued yesterday and was grilled for nearly 10 hours before being arrested.
+On 01 February, the Maligakanda Magistrate ordered the former health minister to record a statement with the CID on Friday as he had failed to do so on Wednesday. Further, a foreign travel ban was also imposed on him.
 
-◼️
+Pressure has been mounting from civil society activists and health sector trade unionists, calling for the immediate apprehension of the lawmaker.
+
+...
 
 [Data](articles/1229b35b.json)
 

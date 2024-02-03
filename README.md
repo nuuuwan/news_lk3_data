@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 15:50:15**
+As of **2024-02-03 16:02:18**
 
 ## Newspaper Stats
 
-*Scraped **4,547** Articles*
+*Scraped **4,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 253
 newsfirstlk | 280
 dailyftlk | 280
 adalk | 393
-virakesarilk | 511
+virakesarilk | 512
 adaderanasinhalalk | 556
-adaderanalk | 566
+adaderanalk | 567
 tamilmirrorlk | 575
 dailymirrorlk | 634
 
@@ -26,11 +26,71 @@ dailymirrorlk | 634
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,546 (100.0%) of 4,547 articles have been extended.
+4,549 (100.0%) of 4,549 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### Ayurvedic Drugs Corporation’s profits hit record high of Rs. 195mn in 2023 - State Minister
+
+*2024-02-03 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/96972/ayurvedic-drugs-corporations-profits-hit-record-high-of-rs-195mn-in-2023-state-minister) · `en`
+
+Sri Lanka Ayurvedic Drugs Corporation (SLADC) has made Rs. Rs. 195 million in profits in 2023, marking the highest-ever figure the institution has recorded since 2017, State Minister of Indigenous Medicine Sisira Jayakody said on Friday (Feb.02).
+
+This achievement marks a significant turnaround for the SLADC, highlighting the positive impact of the new management’s strategies, the lawmaker commented further addressing a press briefing held at the President’s Media Centre (PMC).
+
+The state minister, emphasizing the remarkable progress made by the SLADC under its new leadership. He attributed this success to the implementation of effective measures by the new management, which have revitalized the corporation’s operations and financial standing.
+
+...
+
+[Data](articles/fb38bad6.json)
+
+[Extended Data](ext_articles/fb38bad6.ext.json)
+
+---
+
+### Thailand Prime Minister Shreta Davis's Sri Lankan
+
+*2024-02-03 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175451) · `ta`
+
+Thailand's Prime Minister Shreta Davis arrived at the Katunayake airport shortly before on his visit to Sri Lanka.
+
+He has visited the country on the invitation of President Ranil Wickremesinghe and is the chief guest at the 76th Independence Day celebration of Sri Lanka.
+
+During the visit, Thailand Prime Minister Shreta Tavis will hold discussions with President Ranil Wickremesinghe.
+
+The Ministry of External Affairs said that he will also participate in the signing of the Sri Lanka -Thailand Free Trade Agreement.
+
+Prime Minister Dinesh Gunawardena made a special welcome at the Bandaranaike International Airport as the Prime Minister of Thailand Shretha Thavisin has visited the high -level delegation including Deputy Prime Minister Bhumdam Vechayachai.
+
+◼️
+
+[Data](articles/965e13d9.json)
+
+[Extended Data](ext_articles/965e13d9.ext.json)
+
+---
+
+### "I'm alive";Shocked Poonam Pandey
+
+*2024-02-03 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175462) · `ta`
+
+Bollywood actress Poonam Pandey, who was said to have died of cervical cancer, said, “I'm alive. The disease was not victimized, ”he said.
+
+Celebrity Bollywood actress Poonam Pandey (32) has passed away on Friday after suffering from cervical cancer. His relatives also confirmed this on social media.
+
+In this case, Poonam Pandey 'I did not die. I am alive. '
+
+In that record, I am alive. I do not die for cervical cancer. But thousands of women are suffering from the disease. They have no awareness about this. Like other cancers, cervical cancer is also completely cured. It is necessary to test in advance and vaccinate. I posted that I was dead for awareness of cancer. Bollywood filmmakers condoled that he was dead. I apologize to everyone. ”
+
+◼️
+
+[Data](articles/ada4daec.json)
+
+[Extended Data](ext_articles/ada4daec.ext.json)
+
+---
 
 ### Keheliya Rambukwella remanded until February 15
 
@@ -44,17 +104,21 @@ The former health minister was ordered to be remanded by the Maligakanda Magistr
 
 [Data](articles/d193b690.json)
 
+[Extended Data](ext_articles/d193b690.ext.json)
+
 ---
 
 ### Keheliya Rambukwella remanded
 
 *2024-02-03 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/96971/keheliya-rambukwella-remanded-) · `en`
 
-Former Health Minister Keheliya Rambukwella has been remanded until February 15 on the orders of Maligakanda Magistrate’s Court.
+Former Health Minister Keheliya Rambukwella has been remanded until 15 February on the orders of Maligakanda Magistrate’s Court.
 
 The current Environment Minister was produced before the court this morning (Feb.03).
 
-He was taken into custody by the Criminal Investigation Department (CID) on Friday (Feb.02) in connection with his alleged complicity in the procurement of substandard human intravenous immunoglobulin (IVIG). He had made an appearance before the CID on Friday morning, complying with a court order issued yesterday and was grilled for nearly 10 hours.
+The Criminal Investigation Department (CID) arrested the lawmaker on Friday (Feb.02) in connection with the procurement of substandard human intravenous immunoglobulin (IVIG).
+
+He had made an appearance before the CID on Friday morning, complying with a court order issued yesterday and was grilled for nearly 10 hours before being arrested.
 
 ◼️
 
@@ -141,28 +205,6 @@ Additionally, witnessing the signing of the historic Sri Lanka - Thailand Free T
 [Data](articles/6ffe3618.json)
 
 [Extended Data](ext_articles/6ffe3618.ext.json)
-
----
-
-### Thailand Prime Minister Shreta Davis's Sri Lankan
-
-*2024-02-03 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175451) · `ta`
-
-Thailand's Prime Minister Shreta Davis arrived at the Katunayake airport shortly before on his visit to Sri Lanka.
-
-He has visited the country on the invitation of President Ranil Wickremesinghe and is the chief guest at the 76th Independence Day celebration of Sri Lanka.
-
-During the visit, Thailand Prime Minister Shreta Tavis will hold discussions with President Ranil Wickremesinghe.
-
-The Ministry of External Affairs said that he will also participate in the signing of the Sri Lanka -Thailand Free Trade Agreement.
-
-Prime Minister Dinesh Gunawardena made a special welcome at the Bandaranaike International Airport as the Prime Minister of Thailand Shretha Thavisin has visited the high -level delegation including Deputy Prime Minister Bhumdam Vechayachai.
-
-◼️
-
-[Data](articles/965e13d9.json)
-
-[Extended Data](ext_articles/965e13d9.ext.json)
 
 ---
 
@@ -1931,39 +1973,5 @@ The council pointed out that the government requests the amendment to amend the 
 [Data](articles/95320771.json)
 
 [Extended Data](ext_articles/95320771.ext.json)
-
----
-
-### Rivalries aside...
-
-*2024-02-02 21:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Rivalries-aside/110-276232) · `en`
-
-President Ranil Wickremesinghe and former President Chandrika Bandaranaike Kumaratunga, once political adversaries, share a moment at the inauguration of the Matara Festival of the Arts (MFA) today (02). This groundbreaking event showcases contemporary art and music from Sri Lanka and beyond, taking place at the historic Matara Fort till February 4. The festival endeavors to promote economic and social revitalization through collaborative efforts among art organizations and the cultural community.
-
-◼️
-
-[Data](articles/3d416efb.json)
-
-[Extended Data](ext_articles/3d416efb.ext.json)
-
----
-
-### Tamil  Film actor Vijay announces  Launch of political party named ‘Tamilaga Vettri Kazhagam’ (Tamil Nadu Victory Association); Party to Contest 2026 Tamil Nadu State Election
-
-*2024-02-02 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83546) · `en`
-
-Tamil actor Thalapathy Vijay on Friday announced the formation of political party, ‘Tamilaga Vettri Kazhagam,’ stating his commitment to “fundamental political change” with transparent, caste-free, and corruption-free administration.
-
-The actor made the big announcement after his fan club, Vijay Makkal Iyakkam, gave a nod to the formation of the political party in a meeting held in Chennai last week.
-
-In a statement issued by the actor, he said, “We are making an application today to the EC to register our party ‘Tamizhaga Vetri Kazhagam’. Our goal is to contest and win the upcoming 2026 assembly elections and bring about the fundamental political change that people want.”
-
-“Politics is not just another career for me. It is a sacred people’s work. I have been preparing myself for it for a long time. Politics is not a hobby for me. That is my deepest desire. I want to fully involve myself in it,” the actor said.
-
-...
-
-[Data](articles/40689478.json)
-
-[Extended Data](ext_articles/40689478.ext.json)
 
 ---

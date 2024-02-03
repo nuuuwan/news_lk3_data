@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 08:17:22**
+As of **2024-02-03 08:33:53**
 
 ## Newspaper Stats
 
-*Scraped **4,475** Articles*
+*Scraped **4,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 69
 dbsjeyarajcom | 134
 islandlk | 238
 economynextcom | 252
-newsfirstlk | 275
+newsfirstlk | 278
 dailyftlk | 280
 adalk | 390
 virakesarilk | 499
@@ -26,27 +26,49 @@ dailymirrorlk | 619
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,467 (99.8%) of 4,475 articles have been extended.
+4,475 (99.9%) of 4,478 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
 
-### දුම්රිය දෙපාර්තමේන්තුවෙන් දැනුම්දීමක්
+### A notification from the Railway Department
 
 *2024-02-03 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192909) · `si`
 
-හෙට (04) දිනයේ මුහුදුබඩ මාර්ගයේ ධාවනය වන දුම්රිය, ප්‍රධාන දුම්රිය ස්ථාන කිහිපයක නොනවත්වා ධාවනය කිරීමට කටයුතු සැලසුම් කර ඇති බව දුම්රිය දෙපාර්තමේන්තුව දැනුම් දී තිබේ.
+The Railway Department has informed the running of the coastal route on the coastal route tomorrow (04).
 
-මහලේකම් දුම්රිය ස්ථානය, කොල්ලුපිටිය සහ බම්බලපිටිය යන දුම්රිය ස්ථානවල පෙරවරු 05.00 සිට පෙරවරු 09.00 දක්වා මෙලෙස දුම්රිය නොනවත්වන බව දැනුම් දී ඇත.
+The train has been informed that the General Secretary Railway Station, Kollupitiya and Bambalapitiya until 09 am.
 
-76 වැනි ජාතික නිදහස් දින උලෙළ ජනාධිපති, අග්‍රාමාත්‍ය ඇතුළු දෙස් විදෙස් ප්‍රභූවරුන්ගේ සහභාගිත්වයෙන් හෙට දිනයේ කොළඹ ගාලු මුවදොර පිටියේ දී උත්කර්ශවත් අන්දමින් පැවැත්වීමට සියලු කටයුතු සූදානම් කර තිබේ.
+The 76th National Independence Day, all arrangements have been made to hold the 76th National Independence Day and Prime Minister, including the local and foreign elite.
 
-නිදහස් උත්සවය සඳහා සහභාගි වන ප්‍රභූවරුන්ගේ සහ පෙළපාලිය සඳහා සහභාගි වන ත්‍රිවිධ හමුදා හා පොලිස් භට පිරිස්වල ආරක්ෂාව තහවුරු කිරීම සඳහා මෙලෙස දුම්රිය නොනවත්වා ධාවනය කිරීමට සැලසුම් කර ඇති බව වැඩිදුරටත් දැනුම් දී තිබේ.
+The train has also been planned to run the security of the Armed Forces and Police Troops participating in the Independence of the elite and the parade.
 
 ◼️
 
 [Data](articles/14285110.json)
+
+[Extended Data](ext_articles/14285110.ext.json)
+
+---
+
+### Keheliya to be produced before court on Saturday (03)
+
+*2024-02-03 07:32:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/03/keheliya-to-be-produced-before-court-on-saturday-03/) · `en`
+
+COLOMBO (News 1st) – Former Health Minister Keheliya Rambukwella, who was arrested on Friday (02), is scheduled to appear before the court on Saturday (03).
+
+The former minister of health was arrested by the Criminal Investigations Department on Friday (02) night, when he came to give a statement regarding the controversial human immunoglobulin scandal.
+
+Maligakanda Magistrate Ms. Lochani Abeywickrama ordered Keheliya Rambukwella to come to the Criminal Investigation Department and give a statement in this regard.
+
+The Director of the Criminal Investigation Department said that the Minister arrived at the Criminal Investigation Department at around 11:00 am on Friday (02) and was arrested after a long interrogation.
+
+Special traffic plan in action in Colombo for Independence day celebration
+
+◼️
+
+[Data](articles/d91300dc.json)
 
 ---
 
@@ -66,57 +88,87 @@ FIFA Assistant Referees – Men’s: Palitha Hemathunga (Gampola), Sanjeewa Prem
 
 [Data](articles/e92e2d7f.json)
 
+[Extended Data](ext_articles/e92e2d7f.ext.json)
+
 ---
 
-### අමෙරිකාවෙන් සිරියානු ඉලක්ක වෙත ගුවන් ප්‍රහාර
+### Special traffic plan in action in Colombo for Independence day celebration
+
+*2024-02-03 07:25:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/03/special-traffic-plan-in-action-in-colombo-for-independence-day-celebration/) · `en`
+
+COLOMBO (News 1st) – DIG in charge of the Traffic Division, Indika Hapugoda said that a special traffic plan will be implemented in Colombo from 2 pm today.
+
+He said that the traffic plan will be in place until the 76th Independence Day celebrations are concluded.
+
+DIG Indika Hapugoda informs the general public to use alternative routes during the relevant period.
+
+He said that related facilities will also be provided to people heading for the Katunayake Airport.
+
+Meanwhile, the Department of Railways says that trains running on the coastal line from 5 am to 9 am tomorrow will not stop at the Presidential Secretariat, Kollupitiya, and Bambalapitiya stations, due to the Independence Day ceremony held at Galle Face Green.
+
+Special traffic plan in action in Colombo for Independence day celebration
+
+◼️
+
+[Data](articles/9c16b63a.json)
+
+---
+
+### Air Force fighter jets raid Syrian targets
 
 *2024-02-03 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192908) · `si`
 
-අමෙරිකානු හමුදාව සිරියාවේ ඉලක්ක වෙත ගුවන් ප්‍රහාර දියත් කිරීම ආරම්භ කර තිබේ.
+The US army has launched air strikes to Syria's goals.
 
-විදෙස් වාර්තා සඳහන් කළේ, ජෝර්දානයේ ඇමරිකානු කඳවුරක දී සොල්දාදුවන් තිදෙනෙකු මෑතක දී මිය යාමේ සිද්ධිය මූලික කරගනිමින් මෙම ප්‍රහාරය දියත් කර ඇති බවයි.
+According to foreign reports, 3 soldiers have recently launched the attack on the death of 3 soldiers in a US camp in Jordan.
 
-මානව හිමිකම් සඳහා වූ සිරියානු නිරීක්ෂණ මධ්‍යස්ථානය සඳහන් කරන පරිදි නැගෙනහිර සිරියාවේ ප්‍රහාරවලින් ඉරාන හිතවාදී සටන්කරුවන් හය දෙනෙකු මිය ගොස් තිබේ.
+According to the Syrian Monitoring Center for Human Rights Syrian monitoring Center, six Iranian fighters killed in the East.
 
-ඔක්තෝම්බර් මාසයේ දී ඊශ්‍රායල - හමාස් යුද්ධය ආරම්භ වීමෙන් පසු මැද පෙරදිග ප්‍රහාරයකින් මිය ගිය පළමු අමෙරිකානු හමුදා නිලධාරින් ඔවුන් වූ අතර, ප්‍රහාරයෙන් 40කට වැඩි පිරිසක් තුවාල ලබා ඇත.
+In October, they were the first US military officers who were killed in the Middle East after the commencement of the war of Israel in October.
 
-ඩ්‍රෝන යානා, රොකට් සහ කෙටි දුර බැලස්ටික් මිසයිල ඇතුළු ආයුධවලින් අමෙරිකාව සහ සභාග හමුදා ඉරාකයේ, සිරියාවේ සහ ජෝර්දානයේ දී ප්‍රහාර 165කට වඩා එල්ල කර ඇති බව විදෙස් වාර්තා සඳහන් කරයි.
+Forestry, USA and coalition troops, including drones, rockets and short distances ballistic missiles have been launched in Iraq, Syria and Jordan.
 
 ◼️
 
 [Data](articles/84e2f655.json)
 
+[Extended Data](ext_articles/84e2f655.ext.json)
+
 ---
 
-### විශ්වවිද්‍යාල ආචාර්‍යවරුන් අර්බුදයක
+### University lecturers in crisis
 
 *2024-02-03 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192907) · `si`
 
-පොත් සඳහා සියයට 18ක වැට් බදු පැනවීම හේතුවෙන් අධ්‍යාපන කාර්යයන් සිදු කිරීමේ දී විශ්වවිද්‍යාල අචාර්යවරුන්ට ගැටලු රැසක් මතු ව ඇති බව මහාචාර්ය අගලකඩ සිරිසුමන හිමියෝ පවසති.
+Prof. Therakada Sirisuman Thero says that there have been a number of issues for the university legalists to carry out 18 percent VAT.
 
-උන්වහන්සේ පවසන්නේ, මෙම ක්‍රියාව නූගත් පරපුරක් රට තුළ බිහි කිරීම සඳහා රජය දරන වෑයමක් බවයි.
+The Thero says that this act is an attempt to produce an illiterate generation in the country.
 
-මෙම බදු පැනවීම මඟින් නිර්මාණ සාහිත්‍යය මෙන්ම ශාස්ත්‍රීය පර්යේෂණවලට ද බාධාවක් වී ඇති බව මහාචාර්ය ප්‍රණීත් අබේසුන්දර මහතා අවධාරණය කර තිබේ.
+Professor Praranith Abeysundara has stressed that this tax imposing creation and academic research has also been hindered.
 
 ◼️
 
 [Data](articles/7ef72b7b.json)
 
+[Extended Data](ext_articles/7ef72b7b.ext.json)
+
 ---
 
-### රථවාහන රාජකාරි සඳහා පොලිස් නිලධාරින් 1,500ක්
+### 1,500 police officers for traffic duties
 
 *2024-02-03 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192906) · `si`
 
-76 වැනි ජාතික නිදහස් උත්සවයේ රථ වාහන රාජකාරී සඳහා පොලිස් නිලධාරීන් 1,500කට ආසන්න පිරිසක් යොදවා ඇති බව පොලීසිය පවසයි.
+Nearly 1,500 police officers have been deployed for vehicle duties at the 76th Independence Day.
 
-රථ වාහන දිසාව භාර නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා සඳහන් කළේ, ආරක්ෂාව සහ වෙනත් රාජකාරි සඳහා නිලධාරින් 4,000ක් යොදවා ඇති බවයි.
+Deputy Inspector General of Police Indika Hapugoda stated that 4,000 officers have been deployed for security and other duties.
 
-ජාතික නිදහස් උත්සවය වෙනුවෙන් අද සහ හෙට දෙදින කොළඹ ආශ්‍රිතව විශේෂ රථ වාහන සැලැසුමක් ක්‍රියාත්මක වන බව ද නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා සඳහන් කළේ ය.
+DIG Indika Hapugoda stated that a special traffic plan is being operated in Colombo today and tomorrow.
 
 ◼️
 
 [Data](articles/001a6e19.json)
+
+[Extended Data](ext_articles/001a6e19.ext.json)
 
 ---
 
@@ -142,39 +194,63 @@ It has been reported that many aircraft, including long -term B1 attacks of the 
 
 ---
 
-### ජනපතිගේ උත්සාහයක් ගැන දැනුම්දීමක්
+### Thai Prime Minister to arrive in Sri Lanka
+
+*2024-02-03 07:00:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/03/thai-prime-minister-to-arrive-in-sri-lanka/) · `en`
+
+COLOMBO (News 1st) – Prime Minister of Thailand Srettha Thavisin is scheduled to visit Sri Lanka on Saturday (03) for an official visit.
+
+The Ministry of Foreign Affairs said that the Prime Minister of Thailand will visit the island at the invitation of President Ranil Wickremesinghe to attend the 76th Independence Day ceremony on Sunday (04).
+
+During this visit, the Prime Minister of Thailand is also scheduled to hold discussions with President Ranil Wickremesinghe and scheduled to attend the signing of the Sri Lanka-Thailand Free Trade Agreement.
+
+Thailand's Deputy Prime Minister and Commerce Minister Wechayachai and Minister of Trade, Commerce and Food Security of Sri Lanka, Nalin Fernando will sign the free trade agreement.
+
+The Ministry of Foreign Affairs stated that the development of trade and investment relations between the two countries is expected from the Sri Lanka-Thailand Free Trade Agreement.
+
+...
+
+[Data](articles/432cb4c9.json)
+
+---
+
+### Notice on President's efforts
 
 *2024-02-03 06:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192905) · `si`
 
-මෙරට ජනතාවගේ දිළිඳුකම පිටුදැකීම සහ දරුවන්ගේ පෝෂණය ඉහළ නැංවීම වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රමුඛ අවධානයක් යොමු කර කටයුතු කරන බව ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක හා ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානී සාගල රත්නායක මහතා පවසයි.
+Senior Advisor to the Presidential Advisor to the Presidential Advisor and Presidential Staff Head of the President Sagala Ratnayake says that President Ranil Wickremesinghe has paid attention to the poverty of the people of this country and increase the nutrition of children.
 
-ඔහු සඳහන් කළේ, ඒ වෙනුවෙන් ජනාධිපතිවරයාගේ මඟපෙන්වීම ඇති ව මේ වන විට වැඩසටහන් රැසක් ක්‍රියාවට නංවා ඇති බවයි.
+He said many programs have been implemented in the guidance of the President.
 
-ජනාධිපතිවරයාගේ සංකල්පයක් මත ආරම්භ කෙරුණු 'අස්වැසුම' වැඩසටහන මෙරට දිළිඳුකම පිටුදැකීම සඳහා පුරෝගාමී මෙහෙවරක් ඉටු කරන බැවින් කිසිසේත් දේශපාලනීකරණය නොවූ අස්වැසුම මෙරට ජනතාවගේ දිළිඳුකම පිටුදැකීම වෙනුවෙන් ශක්තිමත් දායකත්වයක් ලබාදෙනු ඇති බව ඔහු පවසයි.
+He says that the 'Requirement' Program is being carried out on a poverty in the presence of the president, the revenue is not politicized.
 
-මෙහි දී වැඩිදුරටත් අදහස් දැක්වූ සාගල රත්නායක මහතා පෙන්වා දුන්නේ, අනාගත පරපුර නිරෝගී පරපුරක් ලෙස ගොඩනැඟීම අත්‍යවශ්‍ය වන බැවින් පෝෂණය යනු, කුසගින්න නිවා දැමීම පමණක් නොව රටේ අනාගතය හැඩගැස්වීමේ දී තීරණාත්මක කාර්යභාරයක් ඉටු කරනු ලබන සාධකයක් බවයි.
+Speaking further Mr. Sagala Ratnayake said that the future generation is essential to the formation of a healthy generation, nourishment is a factor in turning a crucial role not only to fix the future of the country.
 
 ◼️
 
 [Data](articles/2805cbe6.json)
 
+[Extended Data](ext_articles/2805cbe6.ext.json)
+
 ---
 
-### ප්‍රදේශ කිහිපයකට වැසි වාර
+### Showers in several areas
 
 *2024-02-03 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192904) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව සහ මාතලේ දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කර තිබේ.
+The Department of Meteorology has announced that several showers may occur in the Polonnaruwa and Matale Districts, Eastern and Uva provinces.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් පස්වරු 02.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+Showers or thundershowers will occur at several places in the Western and Sabaragamuwa provinces, in the Kandy, Nuwara Elamuwa, Galle and Matara districts.
 
-මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේ දී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+In some places in the Central and Sabaragamuwa provinces, in some locations, are expected to be found in the morning in the Galle and Matara districts.
 
-ගිගුරුම් සහිත වැසි සමඟ ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+The Meteorological Department urges the public to take necessary steps to reduce the temporary winds and lightning activities caused by thunderstorms.
 
 ◼️
 
 [Data](articles/ad05d8b6.json)
+
+[Extended Data](ext_articles/ad05d8b6.ext.json)
 
 ---
 
@@ -792,15 +868,17 @@ The suspects have told police a 23 year old resident of Dodddro, a 23 year old r
 
 ---
 
-### කෙහෙළිය අත්අඩංගුවට
+### Keheliya arrested
 
 *2024-02-02 20:25:55* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-අත්අඩංගුවට/11-407871) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගෙන තිබේ. අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව විසින් ඔහුගේ පැය 10කට ආසන්න කාලයක් ප්‍රකාශ සටහන් කර ගැනීමෙන් අනතුරුව මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබේ.
+Former Health Minister Keheliya Rambukwella has been arrested by the CID. The arrest was made after his arrival was taken by the Criminal Investigation Department for nearly 10 hours.
 
 ◼️
 
 [Data](articles/be50da3d.json)
+
+[Extended Data](ext_articles/be50da3d.ext.json)
 
 ---
 
@@ -1949,67 +2027,5 @@ The primary focus of the project is to enhance the robustness of Sri Lanka's fin
 [Data](articles/87c30f6e.json)
 
 [Extended Data](ext_articles/87c30f6e.ext.json)
-
----
-
-### LAUGFS announced on gas price
-
-*2024-02-02 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192888) · `si`
-
-LAUGFS said that he would not be revised to the price of domestic gas for the month of February.
-
-Accordingly, the company said that the prices of January were applicable for February.
-
-Litro, the Litro, announced this morning to change the domestic gas prices for February.
-
-◼️
-
-[Data](articles/62d32262.json)
-
-[Extended Data](ext_articles/62d32262.ext.json)
-
----
-
-### No domestic gas price revision in February - LAUGFS
-
-*2024-02-02 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96950/no-domestic-gas-price-revision-in-february-laugfs) · `en`
-
-LAUGFS Gas PLC has also decided not to revise the prices of domestic LP gas cylinders in the month of February, mirroring Litro Gas Lanka’s move.
-
-The announcement comes hours after Litro Gas Lanka revealed its decision to not amend the prices this month according to the pricing formula.
-
-Addressing a special media briefing this morning (Feb.02), Litro Chairman Muditha Peiris said the decision was reached after taking into account the financial difficulties facing the members of the public. Although the domestic gas cylinder prices should ideally be increased in line with the price hikes in the global market, Mr. Peiris said the company decided to bear the greater share of the loss incurred on account of non-revision of rates.
-
-After the price hike announced in January, Litro’s domestic gas prices now stand at the following rates:
-
-◼️
-
-[Data](articles/4ad78463.json)
-
-[Extended Data](ext_articles/4ad78463.ext.json)
-
----
-
-### Minister Tran Ales criticizes those who criticize his actions as addictive - the lawyers' worries are concerned
-
-*2024-02-02 15:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/175392) · `ta`
-
-Attorneys have issued a compassion for the Minister of Public Security Tran Alas.
-
-In a letter to the Minister of Public Safety, Tran Ales, the lawyers jointly pointed out the reports issued by the Minister and his actions.
-
-The lawyers organization has urged the need to carry out anti -narcotics measures within the framework of the law.
-
-At the same time it is necessary to find a solution to the drug problem, but at the same time it should not be carried out in order to restrict the fundamental rights to ignore the legal system or to disperse the fundamental rights.
-
-At the same time, it is a matter of concern that ignoring the laws that can control its powers and branding those who criticize its actions as addictive and addictive, and that the international ethics and standards on human rights are foreign influential.
-
-The lawyers' organization has also questioned the appointment of Deshabanduthenkon, who claimed that he was involved in torture in charge of the strategy.
-
-...
-
-[Data](articles/b6ad62e5.json)
-
-[Extended Data](ext_articles/b6ad62e5.ext.json)
 
 ---

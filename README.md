@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 14:32:48**
+As of **2024-02-03 14:49:29**
 
 ## Newspaper Stats
 
-*Scraped **4,539** Articles*
+*Scraped **4,543** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,103 @@ economynextcom | 253
 newsfirstlk | 280
 dailyftlk | 280
 adalk | 392
-virakesarilk | 508
+virakesarilk | 511
 adaderanasinhalalk | 556
 adaderanalk | 564
 tamilmirrorlk | 575
-dailymirrorlk | 632
+dailymirrorlk | 633
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,539 (100.0%) of 4,539 articles have been extended.
+4,543 (100.0%) of 4,543 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### Indian submarine arrives in Colombo
+
+*2024-02-03 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/175455) · `ta`
+
+The Indian Navy's submarine, INS 'Corinch' arrived in the port of Colombo today (03).
+
+The 67.5 -meter -long INS Coronation submarine has been accompanied by 53 employees, headed by Arunab, Commander of the ship.
+
+Sri Lankan navy will be participating in a submarine awareness program to be held on the arrival of the ship.
+
+In addition, the submarine team is about to study some of the country's tourist destinations.
+
+The INS will leave the country on the 05th after completing an official trip to the 'Karanj' submarine.
+
+◼️
+
+[Data](articles/ecba8168.json)
+
+[Extended Data](ext_articles/ecba8168.ext.json)
+
+---
+
+### Resistance to free bus service for women;Fire for three wheelers in Telangana, India
+
+*2024-02-03 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/175449) · `ta`
+
+In the state of Telangana, India, a driver set fire to a three -wheeler in front of the chief minister's office, "Our survival has been burned."
+
+After the regime change in Telangana and the Congress came to power, women have been given free buses in the name of Mahalakshmi.. Women can travel free of Telangana for all state buses other than luxury buses. Three -wheeler drivers and taxi drivers have been accused of suffering their livelihood due to the government's Mahalakshmi project.
+
+The Chief Minister's office in Hyderabad set fire to his three -wheeler in opposition to the Mahalakshmi project.Immediately, the police immediately informed the fire truck and controlled the burning fire.Police handed over the driver of the three -wheeler, who were allegedly in the liquor.
+
+◼️
+
+[Data](articles/745ef7ab.json)
+
+[Extended Data](ext_articles/745ef7ab.ext.json)
+
+---
+
+### Thailand Prime Minister arrives in Sri Lanka
+
+*2024-02-03 13:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thailand-Prime-Minister-arrives-in-Sri-Lanka/108-276280) · `en`
+
+Colombo, Feb 03 (PMD) -  Prime Minister of Thailand Srettha Thavisin, arrived in the country a short while ago, the President’s Media Division said.
+
+The Thai Prime Minister is accompanied by a distinguished delegation, including Deputy Prime Minister Phumtham Wechayachai.
+
+Upon their arrival at the Bandaranaike International Airport, the Thai delegation was received by Sri Lankan Prime Minister Dinesh Gunawardena, setting the tone for bilateral discussions and engagements.
+
+The primary highlight of Prime Minister Thavisin's visit is his participation in Sri Lanka's 76th Independence Day ceremony, scheduled for tomorrow.
+
+◼️
+
+[Data](articles/3a6661a7.json)
+
+[Extended Data](ext_articles/3a6661a7.ext.json)
+
+---
+
+### Thailand Prime Minister Shreta Davis's Sri Lankan
+
+*2024-02-03 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175451) · `ta`
+
+Thailand's Prime Minister Shreta Davis arrived at the Katunayake airport shortly before on his visit to Sri Lanka.
+
+He has visited the country on the invitation of President Ranil Wickremesinghe and is the chief guest at the 76th Independence Day celebration of Sri Lanka.
+
+During the visit, Thailand Prime Minister Shreta Tavis will hold discussions with President Ranil Wickremesinghe.
+
+The Ministry of External Affairs said that he will also participate in the signing of the Sri Lanka -Thailand Free Trade Agreement.
+
+Prime Minister Dinesh Gunawardena made a special welcome at the Bandaranaike International Airport as the Prime Minister of Thailand Shretha Thavisin has visited the high -level delegation including Deputy Prime Minister Bhumdam Vechayachai.
+
+◼️
+
+[Data](articles/965e13d9.json)
+
+[Extended Data](ext_articles/965e13d9.ext.json)
+
+---
 
 ### Thai Prime Minister to visit Sri Lanka
 
@@ -1893,67 +1975,5 @@ Sri Lanka 36 * and Dimuth Karunaratne who started innings was 42 * from the Sri 
 [Data](articles/62c8070d.json)
 
 [Extended Data](ext_articles/62c8070d.ext.json)
-
----
-
-### Bargain-hunting peps-up share market; indices move up
-
-*2024-02-02 20:40:00* · [`islandlk`](http://island.lk/bargain-hunting-peps-up-share-market-indices-move-up/) · `en`
-
-Bargain hunters were active in the share market yesterday looking for and purchasing valued stocks at a lower rate. Consequently, the stock market began on a spirited note in an apparent rebound in investor sentiment, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 55.07 points and S and P SL20 rose by 20.88 points. Turnover stood at Rs 1.39 billion with three crossings. Those crossing were reported in LB Finance, where 4.2 million shares crossed to the tune of Rs 254 million; its shares traded at Rs 61, Colombo Fort Land 5.7 million shares crossed for Rs 171 million; its shares sold at Rs 30 and Hela Apparel 5 million shares crossed for Rs 25 million; its shares traded at Rs 5.
-
-...
-
-[Data](articles/e173adfa.json)
-
-[Extended Data](ext_articles/e173adfa.ext.json)
-
----
-
-### Sri Lanka Tourism collaborates with UL Korea GSA and influencers
-
-*2024-02-02 20:39:00* · [`islandlk`](http://island.lk/sri-lanka-tourism-collaborates-with-ul-korea-gsa-and-influencers/) · `en`
-
-Han Moon Chul , a popular YouTube sensation with 1.78 million subscribers and a Broadcaster in Korea , visited Sri Lanka on the 27th of January 2024 , and received a warm welcome from the Sri Lanka Tourism Promotion Bureau , where he had a high level meeting with the top management of the Sri Lanka Tourism Promotion Bureau (SLTPB ) on how to promote Sri Lanka as a travel destination.
-
-Han Moon Chul is also a lawyer, specializing in traffic accidents and compensation for damages, which adds to his portfolio as a talented you tuber and Broadcaster. His main purpose is to promote Sri Lanka among his Korean followers who are unfamiliar with Sri Lanka and encourage them to visit the destination by highlighting its diverse culture, ethnicity and beauty through his you tube channel.
-
-...
-
-[Data](articles/0745c1b8.json)
-
-[Extended Data](ext_articles/0745c1b8.ext.json)
-
----
-
-### Adani Power’s Q3 FY24 financials driven by ‘improved power demand’
-
-*2024-02-02 20:39:00* · [`islandlk`](http://island.lk/adani-powers-q3-fy24-financials-driven-by-improved-power-demand/) · `en`
-
-Adani Power Ltd. (APL), a part of Adani portfolio companies, recently announced the financial results for the third quarter ended at 31st December 2023.Commenting on the quarterly results, S.B Khyalia, CEO, Adani Power Limited, said, “Adani Power continues to demonstrate its leadership across domains by achieving ever-higher standards of excellence, as evidenced by the financial results for the third quarter of FY 2023-24. The Company’s strategically located power plants and optimal capacity allocation between PPAs and merchant capacities, coupled with its strength in fuel management & logistics and excellence in power plant O&M, have allowed it to address growing power demand and generate robust profitability.
-
-...
-
-[Data](articles/5853681b.json)
-
-[Extended Data](ext_articles/5853681b.ext.json)
-
----
-
-### ComBank celebrates 16 years of providing card payment solutions via ‘Goldnet’
-
-*2024-02-02 20:39:00* · [`islandlk`](http://island.lk/combank-celebrates-16-years-of-providing-card-payment-solutions-via-goldnet/) · `en`
-
-The Commercial Bank of Ceylon recently celebrated 16 years of successful operations of the ComBank Goldnet System – the Bank’s payment card services platform which currently hosts six domestic banks and financial institutions as well as the country’s two leading telecommunications service providers.
-
-The Commercial Bank Goldnet Symposium 2024 organised by the Bank for Goldnet members comprised of a series of technical presentations on topics relevant to the payment cards ecosystem, and the presentation of tokens of appreciation to Goldnet members in recognition of their unwavering and continuous partnership with Commercial Bank and their contribution to promoting digital payments in Sri Lanka.
-
-...
-
-[Data](articles/af45ad7c.json)
-
-[Extended Data](ext_articles/af45ad7c.ext.json)
 
 ---

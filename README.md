@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 05:55:31**
+As of **2024-02-03 06:16:10**
 
 ## Newspaper Stats
 
-*Scraped **4,455** Articles*
+*Scraped **4,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 69
 dbsjeyarajcom | 132
 islandlk | 230
 economynextcom | 252
-newsfirstlk | 274
+newsfirstlk | 275
 dailyftlk | 280
 adalk | 389
 virakesarilk | 498
@@ -26,11 +26,35 @@ dailymirrorlk | 618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,455 (100.0%) of 4,455 articles have been extended.
+4,455 (100.0%) of 4,456 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### US strikes 85 Iran-linked targets in Iraq and Syria
+
+*2024-02-03 05:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/03/us-strikes-85-iran-linked-targets-in-iraq-and-syria/) · `en`
+
+Colombo (News 1st) – US forces struck 85 individual targets in 7 locations in Syria and Iraq early Saturday (3rd) that it claims are linked to Iran, in a significant expansion of hostilities in the Middle East, foreign media reported.
+
+The massive escalation came in response to the drone attack on a US base in Jordan more than a week ago that killed three US soldiers and injured over 40.
+
+President Joe Biden said in a statement "Our response began today. It will continue at times and places of our choosing."
+
+US Central Command said its forces conducted airstrikes against Iran’s Islamic Revolutionary Guards Corp Quds Force and affiliated militia groups.
+
+The strikes came from a range of US forces, including long-range B1 bombers that flew in from the United States. Seven locations were hit – four in Syria and three in Iraq – with over 125 bombs and missiles.
+
+UN Warns Sri Lanka’s Online Safety Act Threatens Human Rights
+
+Understanding Sri Lanka’s Online Safety Act: What You Need to Know
+
+◼️
+
+[Data](articles/91d68a1b.json)
+
+---
 
 ### Complete the Investigation of the Anti -Terrorism Bill
 
@@ -2013,29 +2037,5 @@ In 2013, the first film of Nisha, "Nasa" had joined Bollywood cinema.
 [Data](articles/f239b854.json)
 
 [Extended Data](ext_articles/f239b854.ext.json)
-
----
-
-### Actress Poonam Pandey has passed away
-
-*2024-02-02 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/175384) · `ta`
-
-Actress Poonam Pandey (32) has passed away this Friday morning (02).
-
-Controversial actress Poonam Pandey has officially announced that her dies of pregnancy has died.
-
-Poonam Pandey is famous for later saying that if India wins the 2011 World Cup, I will release the video naked.
-
-He married her boyfriend Sam Bombay in 2020.
-
-In the meantime, Poonam Pandey suffered from cervical cancer. He was treated for this.
-
-In this case, Poonam Pandey died of cervical cancer today died without treatment.
-
-◼️
-
-[Data](articles/e3a41347.json)
-
-[Extended Data](ext_articles/e3a41347.ext.json)
 
 ---

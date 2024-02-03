@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 12:17:21**
+As of **2024-02-03 12:32:59**
 
 ## Newspaper Stats
 
-*Scraped **4,523** Articles*
+*Scraped **4,530** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 253
 newsfirstlk | 280
 dailyftlk | 280
 adalk | 392
-virakesarilk | 503
-adaderanasinhalalk | 551
+virakesarilk | 508
+adaderanasinhalalk | 553
 adaderanalk | 562
 tamilmirrorlk | 575
 dailymirrorlk | 630
@@ -26,11 +26,49 @@ dailymirrorlk | 630
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,520 (99.9%) of 4,523 articles have been extended.
+4,523 (99.8%) of 4,530 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-03 (Saturday)
+
+### நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டார் கெஹலிய ரம்புக்வெல்ல
+
+*2024-02-03 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175433) · `ta`
+
+முன்னாள் சுகாதார அமைச்சரும் தற்போதைய சுற்றாடல்துறை அமைச்சருமான கெஹலிய ரம்புக்வெல்ல நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டார்.
+
+நேற்று வெள்ளிக்கிழமை குற்றப்புலனாய்வுப் பிரிவில் ஆஜராகி கெஹலிய ரம்புக்வெல்ல வாக்கு மூலம் அளித்திருந்த நிலையில், குற்றப்புலனாய்வுப் பிரிவினர் அவரை கைதுசெய்தனர்.
+
+இதேவேளை, கெஹலிய ரம்புக்வெல்லவுக்கு வெளிநாட்டு பயணத்தடை விதித்து மாளிகாகந்தை நீதிவான் நீதிமன்றம் உத்தரவிட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/55169a22.json)
+
+---
+
+### බදුල්ල ඩිපෝවේ බස්රථ සේවකයන් සේවයෙන් ඉවතට
+
+*2024-02-03 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192918) · `si`
+
+ශ්‍රී ලංගම බදුල්ල ඩිපෝවේ බස් සේවකයන් හා සීමාසහිත බදුල්ල අන්තර් පළාත් මගී ප්‍රවාහන සංගමය අතර ඇති වූ මතභේදාත්මක තත්ත්වක් හේතුවෙන් බදුල්ල ඩිපෝ බස්රථ සේවකයන් සේවයෙන් ඉවත් ව තිබේ.
+
+අද දෙරණ වාර්තාකරු පැවසුවේ එම ඩිපෝව මගින් ධාවනය වන බස්රථ ධාවනය ඊයේ (02) පස්වරුවේ සිට නතර වීම හේතුවෙන් මගීන් මහත් අපහසුතාවට පත් ව සිටින බවයි.
+
+මාර්ග අංක 99  බදුල්ල - කොළඹ ඒකාබද්ධ සේවය මෙම සමාගමේ බස්රථ විසින් විධිමත්ම සිදුනොකරන බව පවසන ලංගම සේවකයෝ මෙම සමාගමට අයත් බස්රථ මධ්‍යම බස් නැවතුම්පොළේ නතර කිරීමට ද විරෝධය දක්වා ඇත.
+
+ඔවුන් පවසන්නේ එම බස්රථ පෞද්ගලික බස් නැවතුමේ නතර කළ යුතු බවටයි.
+
+නමුත් බදුල්ල මගී ප්‍රවාහන සංගමය පවසන්නේ අධිකරණ නියෝගවලට අනුකූලව තම බස්රථ ධාවනය වන බවයි.
+
+කෙසේ වෙතත් පෞද්ගලික බස් සේවා සියල්ල බාධාවකින් තොරව ධාවනය වන අතර, බදුල්ල දිස්ත්‍රික්කයේ අනෙකුත් ලංගම ඩිපෝවල බස්රථ ද සාමාන්‍ය පරිදි ධාවනය වන බව අද ‍‍දෙරණ වාර්තාකරු වැඩිදුරටත් සඳහන් කළේ ය.
+
+◼️
+
+[Data](articles/e7e26114.json)
+
+---
 
 ### Special changes made to Coastal Line train schedule for Independence Day
 
@@ -47,6 +85,56 @@ The 76th National Independence Day celebrations will be held at Galle Face Green
 ◼️
 
 [Data](articles/970502bf.json)
+
+[Extended Data](ext_articles/970502bf.ext.json)
+
+---
+
+### கிளிநொச்சியில் ரயிலில் மோதி குடும்பஸ்தர் உயிரிழப்பு
+
+*2024-02-03 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175438) · `ta`
+
+கிளிநொச்சி டிப்போ வீதியில் தொடருந்து நிலையத்துக்கு அண்மித்துள்ள பாதுகாப்பான தொடருந்து கடவை மூடப்பட்ட நிலையில், குறித்த கடவையை கடக்க முற்பட்டவரையே தொடருந்து மோதியுள்ளது.
+
+விபத்தில் மோட்டார் சைக்கிளில் தொடருந்து கடவையை கடக்க முயன்ற 5 பிள்ளைகளின் தந்தையே இவ்வாறு உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/16ee09c8.json)
+
+---
+
+### பொருளாதார பிரச்சினைக்கு தீர்வுகாண முடியுமான ஒரே தலைவர் ரணில் விக்லமசிங்க மாத்திரமாகும் - ஐ.தே.க. உபதலைவர்
+
+*2024-02-03 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175436) · `ta`
+
+நாட்டில்  அரசியல் பிரச்சினை இருந்தால் அதற்கு தீர்வுகாண பல தலைவர்கள் இருக்கின்றனர். ஆனால் தற்போது பொருளாதார பிரச்சினையே இருக்கிறது. அதற்கு தீர்வுகாண ரணில் விக்ரமசிங்கவுக்கு மாத்திரமே முடியும் என ஐக்கிய தேசிய கட்சியின் உப தலைவர் அகிலவிராஜ் காரியவசம் தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சியின் அநுராதபும் மாவட்ட சம்மேளனம் நேற்று  வெள்ளிக்கிழமை அநுராதபுரம் இளைஞர் சேவை மன்றத்தில் இடம்பெற்றது. இதில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+நாட்டில் தற்போது பொருளாதார பிரச்சினையே இருந்து வருகிறது. அதற்கு தீர்வுகாண முடியாமல் போனதாலே நாடு வீழ்ச்சியடைந்தது. பொருளாதார ரீதியில் வீழ்ச்சியடைந்த நாட்டை கட்டியெழுப்ப யாரும் முன்வராத நிலையில் ரணில் விக்ரமசிங்க முன்வந்து தற்போது நாட்டின் பொருளாதாரத்தை படிப்படியாக ஸ்திர நிலைக்கு கொண்டுவர நடவடிக்கை எடுத்திருக்கிறார். அதனால் தற்போது நாட்டை பொறுப்பெற்க பலரும் முன்வருகிறார்கள்.
+
+...
+
+[Data](articles/31b125d1.json)
+
+---
+
+### இலங்கையின் நிதித்துறையின் ஸ்திரத்தன்மையை உறுதிப்படுத்த 150 மில்லியன் டொலர் நிதியுதவி - உலக வங்கி
+
+*2024-02-03 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/175435) · `ta`
+
+இலங்கையின் நிதித்துறையின் பின்னடைவை வலுப்படுத்த இலங்கை அரசாங்கமும், உலக வங்கியும் 'நிதித்துறை பாதுகாப்பு வலை வலுப்படுத்தல்' திட்டத்தின் கீழ் 150 மில்லியன் டொலர் நிதியுதவிக்கான ஒப்பந்தத்தில் கைச்சாத்திட்டுள்ளன.
+
+உலக வங்கிக்கும், இலங்கை மத்திய வங்கிக்கும் இடையிலான திட்ட ஒப்பந்த அமுலாக்கத்துக்கு இணையாக இந்த நிதியுதவி ஒப்பந்தம் கைச்சாத்திடப்பட்டுள்ளது.
+
+மத்திய வங்கியால் நிர்வகிக்கப்படும் இலங்கை வைப்புத்தொகை காப்புறுதி திட்டத்தில் கவனம் செலுத்தி இலங்கையின் நிதித்துறை பாதுகாப்பு உறுதிப்பாட்டை வலுப்படுத்துவது இந்த திட்டத்தின் பிரதான இலக்காகும்.
+
+மத்திய வங்கியானது இலங்கை வைப்புத்தொகை காப்புறுதித் திட்டத்தில்   செயற்படுத்தும் முகவராகவுள்ளது. இலங்கையின் வைப்புத்தொகை காப்புறுதித் திட்டம் சட்டபூர்வமாக ஆரம்பிக்கப்பட்டு, 2023 ஆம் ஆண்டின் 17 ஆம் இலக்க வங்கியியல் (சிறப்பு ஏற்பாடுகள்) சட்டத்தின் மூலம் இலங்கை வைப்புத்தொகை காப்புறுதித் திட்டம் என பெயரிடப்பட்டது.
+
+...
+
+[Data](articles/8235af5e.json)
 
 ---
 
@@ -88,6 +176,22 @@ The event will be chaired by the President of the organization Raman Senthuran t
 
 ---
 
+### சில புகையிரத நிலையங்களில் புகையிரதம் நிறுத்தப்படமாட்டாது - புகையிரத திணைக்களம்
+
+*2024-02-03 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175431) · `ta`
+
+சுதந்திர தினத்தில் நிகழ்வுகளில் பங்குப்பற்றுபவர்களின் பாதுகாப்பை உறுதிப்படுத்தும் நோக்கில்   நாளை  மறுதினம் (ஞாயிற்றுக்கிழமை) காலை 05 மணிமுதல் 09 வரையான காலப்பகுதியில் செயலக புகையிரத நிலையம்,கொள்ளுப்பிட்டி மற்றும் பம்பலப்பிட்டி ஆகிய புகையிரத நிலையங்களில் புகையிரதம் நிறுத்தப்படமாட்டாது என புகையிரத திணைக்களம் அறிவித்துள்ளது.
+
+76 ஆவது சுதந்திர தின நிகழ்வுகள் காலி முகத்திடலில் நாளை  மறுதினம் (ஞாயிற்றுக்கிழமை)  காலை ஜனாதிபதி, பிரதமர், அரசியல் பிரமுகர்கள், வெளிநாட்டு இராஜதந்திரிகள் ஆகியோரின் பங்குப்பற்றலுடன் இடம்பெறவுள்ளன.
+
+இந்நிகழ்வில் கலந்துக் கொள்பவர்களின் பாதுகாப்பை உறுதிப்படுத்தும் நோக்கில் நாளை  மறுதினம் (ஞாயிற்றுக்கிழமை)  காலை 05 மணி முதல்  09 மணி வரையான காலப்பகுதியில் கரையோர புகையிரத சேவையில் செயலக பிரிவு புகையிரத நிலையம்,கொள்ளுப்பிட்டி மற்றும் பம்பலப்பிட்டி ஆகிய புகையிரத நிலையங்களில்  புகையிரதம்  நிறுத்தப்படமாட்டாது.
+
+◼️
+
+[Data](articles/eebf17ed.json)
+
+---
+
 ### 2 arrested in connection to Jinthupitiya murder
 
 *2024-02-03 10:25:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/03/2-arrested-in-connection-to-jinthupitiya-murder/) · `en`
@@ -107,6 +211,22 @@ Special traffic plan in action in Colombo for Independence day celebration
 [Data](articles/bb58dce2.json)
 
 [Extended Data](ext_articles/bb58dce2.ext.json)
+
+---
+
+### ජින්තුපිටිය වෙඩි තැබීමේ සිද්ධියේ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට
+
+*2024-02-03 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192917) · `si`
+
+ආදුරුප්පුවීදිය - ජින්තුපිටිය ප්‍රදේශයේ දී වෙඩි තබා පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධියට අදාළ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ, අදාළ වෙඩි තැබීම සිදු කළ ප්‍රධාන සැකකරු සහ අධාර අනුබල දුන් පුද්ගලයෙකු මෙලෙස අත්අඩංගුවට ගෙන ඇති බවයි.
+
+අත්අඩංගුවට ගෙන ඇත්තේ, 28 හා 39 හැවිරිදි වියේ පසු වන කඩවත සහ ආදුරුප්පුවීදිය යන ප්‍රදේශවල පදිංචිකරුවන් දෙදෙනෙකි.
+
+◼️
+
+[Data](articles/4a927173.json)
 
 ---
 
@@ -929,6 +1049,8 @@ Sri Lanka is close to awarding the management of Mattala Rajapaksa International
 ◼️
 
 [Data](articles/69a68b4c.json)
+
+[Extended Data](ext_articles/69a68b4c.ext.json)
 
 ---
 
@@ -1807,155 +1929,5 @@ Former Health Minister Keheliya Rambukwella has been arrested by the CID to the 
 [Data](articles/bf10c552.json)
 
 [Extended Data](ext_articles/bf10c552.ext.json)
-
----
-
-### BREAKING: Keheliya arrested by CID over immunoglobulin scandal
-
-*2024-02-02 19:43:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/02/breaking-keheliya-arrested-by-cid-over-immunoglobulin-scandal/) · `en`
-
-COLOMBO (News 1st); Sri Lanka's Former Health Minister Keheliya Rambukwella has been arrested over the controversial human immunoglobulin procurement scandal.
-
-Sri Lanka's Former Health Minister Rambukwella arrived at the Criminal Investigations Department in Colombo on Friday (2) morning, complying with a Court Order issued a day earlier.
-
-He was at the CID to provide a statement with regard to the controversial human immunoglobulin procurement.
-
-Maligakanda Magistrate Lochana Abeywickrama ordered Minister Keheliya Rambukwella to report to the Criminal Investigations Department in Colombo at  9 AM on Friday (2) to provide a statement.
-
-In addition, the Maligakanda Magistrate imposed an overseas travel ban on the Minister.
-
-As per the court order, Keheliya Rambukwella appeared at the CID at 9 AM.
-
-Special traffic plan in action in Colombo for Independence day celebration
-
-◼️
-
-[Data](articles/315c9734.json)
-
-[Extended Data](ext_articles/315c9734.ext.json)
-
----
-
-### Ex-Health Minister Keheliya Rambukwella arrested
-
-*2024-02-02 19:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96957/ex-health-minister-keheliya-rambukwella-arrested) · `en`
-
-Former Health Minister Keheliya Rambukwella was arrested on Friday evening (Feb.02) in connection with his alleged complicity in the procurement of substandard human intravenous immunoglobulin (IVIG).
-
-The arrest comes hot on the heels of mounting pressure from civil society activists and health sector trade unionists who have been calling for the immediate apprehension of the lawmaker.
-
-The current Environment Minister arrived at the Criminal Investigation Department (CID) premises on Friday morning, complying with a court order issued yesterday. He was grilled for nearly 10 hours.
-
-The former health minister was supposed to make an appearance before the CID on Wednesday (Jan.31), but he failed to do so on account of attending the proceedings of a case heard before the Colombo High Court, as well as a ministerial sub-committee meeting convened at the Presidential Secretariat. Thus, Rambukwella had requested the CID to fix another date for him to provide his statement.
-
-...
-
-[Data](articles/5efd1de7.json)
-
-[Extended Data](ext_articles/5efd1de7.ext.json)
-
----
-
-### Former Health Minister lied - Deputy Solicitor General
-
-*2024-02-02 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192896) · `si`
-
-Former Health Minister Keheliya Rambukwella is currently being questioned over 10 hours of the CID.
-
-The Maligakanda Magistrate's Court yesterday (Mar) yesterday (01) has been handed over to the Minister yesterday.
-
-Former Health Minister Keheliya Rambukwella has arrived at the CID regarding former Health Minister Keheliya Rambukwella about 10 am.
-
-The case was taken up again in the Maligakanda Magistrate's Court yesterday (01) and the government's Deputy Solicitor General Lakhahagama has filed falsehood.
-
-On a request made by her request, Maligakanda Magistrate Luthi Abeywickrama ordered Minister Keheliya Rambukwella to arrive at the CID today.
-
-The article was handing over to the official residence at the Minister's Wijerama Mawatha, including that order last evening.
-
-During his appointment of the Ministerial Statement, representatives of several civilian organizations and a protest in front of the CID.
-
-◼️
-
-[Data](articles/287082f7.json)
-
-[Extended Data](ext_articles/287082f7.ext.json)
-
----
-
-### Namal congratulates Vijay's political entry
-
-*2024-02-02 19:12:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயின்-அரசியல்-பிரவேசத்திற்கு-நாமல்-வாழ்த்து/175-332560) · `ta`
-
-Sri Lankan parliamentarian Namal Rajapaksa congratulates actor Vijay's political entry.
-
-My heartfelt congratulations to actor Vijay who came to politics. Namal Rajapaksa congratulates your new chapter on his X -site.
-
-Actor Vijay has announced his name as the Tamil Nadu Victory Corporation.
-
-In a statement issued by Vijay, he said that his party would act on the 2026 legislative assembly elections.. Remble
-
-◼️
-
-[Data](articles/3fa3b6ca.json)
-
-[Extended Data](ext_articles/3fa3b6ca.ext.json)
-
----
-
-### Vishwa, Prabath, Asitha wreck Afghanistan
-
-*2024-02-02 19:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vishwa-Prabath-Asitha-wreck-Afghanistan/108-276227) · `en`
-
-Colombo, Feb. 2 (Daily Mirror) - Sri Lanka ended in a strong position at 80 for no loss with openers Nishan Madushka unbeaten on 36 and Dimuth Karunaratne on 42 on the opening day of the one-off Test match against Afghanistan at the SSC Grounds in Maitland Place.
-
-This was after Sri Lanka’s bowling trio of right-arm pacie Vishwa Fernando, left-arm spinner Prabath Jayasuriya and left-arm pacie Asitha Fernando shared 10 wickets between them to bowl out the visitors for 198.
-
-The Afghans began their innings in an inauspicious start with the loss of their first wicket in the second ball of the first over.
-
-Rahmat Shah along with debutant Noor Ali Zadran came to the rescue with the pair putting on a valuable 57-run stand for the second wicket.
-
-Shah joined by Skipper Hashmatullah Shahidi saw the side through to the lunch break with Afghanistan on 90 for two.
-
-...
-
-[Data](articles/8281292c.json)
-
-[Extended Data](ext_articles/8281292c.ext.json)
-
----
-
-### UN Human Rights Office calls for amending Sri Lanka’s new online safety laws
-
-*2024-02-02 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/96956/un-human-rights-office-calls-for-amending-sri-lankas-new-online-safety-laws) · `en`
-
-The UN Office of the High Commissioner for Human Rights (OHCHR) states that Sri Lanka’s new Online Safety Act will have far reaching negative implications for human rights, including freedom of expression.
-
-Posing on X (formerly Twitter), the UN Human Rights Office urged the Government of Sri Lanka to consider amending the relevant law to address concerns of civil society and industry groups and ensure that it complies with human rights obligations.
-
-◼️
-
-[Data](articles/cc47b2fc.json)
-
-[Extended Data](ext_articles/cc47b2fc.ext.json)
-
----
-
-### Army Commander commended for historic parachute jump
-
-*2024-02-02 19:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Army-Commander-commended-for-historic-parachute-jump/108-276226) · `en`
-
-Colombo, Feb 02 (PMD) - Lieutenant General Vikum Liyanage, the Commander of the Army, received commendation for his recent ground-breaking static parachute jump.
-
-The event, officiated by Sagala Ratnayake, Senior Adviser to the President on National Security and Chief of the Presidential Staff, along with E. M. S. B. Ekanayake, Secretary to the President, celebrated Lieutenant General Vikum Liyanage as a dedicated and highly trained military leader.
-
-The placement of the parachute insignia (Airborne) on the Army Commander's uniform serves as a symbolic representation of this extraordinary accomplishment, signifying Lieutenant General Vikum Liyanage's unparalleled dedication to pushing boundaries and leading by example.
-
-The event was held at the Presidential Secretariat today (02).
-
-◼️
-
-[Data](articles/997a9fe1.json)
-
-[Extended Data](ext_articles/997a9fe1.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-03 07:14:45**
+As of **2024-02-03 07:29:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,456 (99.8%) of 4,466 articles have been extended.
+4,464 (100.0%) of 4,466 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -526,6 +526,8 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 
 [Data](articles/e173adfa.json)
 
+[Extended Data](ext_articles/e173adfa.ext.json)
+
 ---
 
 ### Sri Lanka Tourism collaborates with UL Korea GSA and influencers
@@ -540,6 +542,8 @@ Han Moon Chul is also a lawyer, specializing in traffic accidents and compensati
 
 [Data](articles/0745c1b8.json)
 
+[Extended Data](ext_articles/0745c1b8.ext.json)
+
 ---
 
 ### Adani Power’s Q3 FY24 financials driven by ‘improved power demand’
@@ -551,6 +555,8 @@ Adani Power Ltd. (APL), a part of Adani portfolio companies, recently announced 
 ...
 
 [Data](articles/5853681b.json)
+
+[Extended Data](ext_articles/5853681b.ext.json)
 
 ---
 
@@ -566,6 +572,8 @@ The Commercial Bank Goldnet Symposium 2024 organised by the Bank for Goldnet mem
 
 [Data](articles/af45ad7c.json)
 
+[Extended Data](ext_articles/af45ad7c.ext.json)
+
 ---
 
 ### Room to Read and Colombo Stock Exchange ring the bell on behalf of education
@@ -579,6 +587,8 @@ Room to Read is a global nonprofit organization which creates a world free from 
 ...
 
 [Data](articles/cb2e0781.json)
+
+[Extended Data](ext_articles/cb2e0781.ext.json)
 
 ---
 
@@ -958,6 +968,8 @@ Both were stage plays penned by him that were later made into films which also h
 
 [Data](articles/ab759710.json)
 
+[Extended Data](ext_articles/ab759710.ext.json)
+
 ---
 
 ### UN Warns Sri Lanka’s Online Safety Act Threatens Human Rights
@@ -991,6 +1003,8 @@ Rambukwella was taken into custody following a 10-hour statement provided to the
 ...
 
 [Data](articles/1027796b.json)
+
+[Extended Data](ext_articles/1027796b.ext.json)
 
 ---
 

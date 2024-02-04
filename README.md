@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 13:51:34**
+As of **2024-02-04 14:02:29**
 
 ## Newspaper Stats
 
-*Scraped **4,697** Articles*
+*Scraped **4,699** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 287
 adalk | 405
 virakesarilk | 523
-adaderanalk | 586
+adaderanalk | 588
 adaderanasinhalalk | 593
 tamilmirrorlk | 598
 dailymirrorlk | 654
@@ -26,11 +26,41 @@ dailymirrorlk | 654
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,697 (100.0%) of 4,697 articles have been extended.
+4,697 (100.0%) of 4,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### 211 Army Officers, over 1,200 other ranks promoted on Independence Day
+
+*2024-02-04 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96992/211-army-officers-over-1200-other-ranks-promoted-on-independence-day) · `en`
+
+President Ranil Wickremesinghe, Commander-in-Chief of the Armed Forces, promoted 211 Officers of the Sri Lanka Army (Regular and Volunteer Force) and 1,239 Other Ranks of the Army (Regular Force and Volunteer Force) to their respective next rank, as part of the 76th Independence Day celebrations.
+
+Accordingly, the promotions of the 211 Army Officers were as follows; 02 Brigadiers were promoted to the rank of Major General, 12 Colonels were promoted to the rank of Brigadier, 13 Lieutenant Colonels were promoted to the rank of Colonel, 17 Majors were promoted to the rank of Lieutenant Colonel, 29 Captains were promoted to the rank of Major (Including Quartermasters), 13 Lieutenants were promoted to the rank of Captain (Including Quartermasters) and 125 Second Lieutenants were promoted to the rank of Lieutenant (Regular Force & Volunteer Force).
+
+...
+
+[Data](articles/d2128f22.json)
+
+---
+
+### Civil offenders to be sentenced to house-arrest to control prison overcrowding?
+
+*2024-02-04 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/96991/civil-offenders-to-be-sentenced-to-house-arrest-to-control-prison-overcrowding) · `en`
+
+Measures are afoot to sentence those found guilty of civil offences to house-arrest, in a bid to control the rate of overcrowding in the country’s prisons, State Minister of Justice and Prison Affairs Anuradha Jayaratne said.
+
+Accordingly, the State Minister revealed that steps have been taken to draft the relevant laws in this regard, adding that the Legal Draftsman’s Department is already working in this regard, following which the draft is slated to be presented in Parliament later this year.
+
+State Minister Jayaratne further added that parallel to these measures, several Acts, including the Bail Act will have to be amended.
+
+◼️
+
+[Data](articles/94f49f77.json)
+
+---
 
 ### 76th Independence Day celebrates
 
@@ -2009,39 +2039,5 @@ In terms of Article, the cash withdrawals in the Republic of Sri Lanka to suppor
 [Data](articles/7874256b.json)
 
 [Extended Data](ext_articles/7874256b.ext.json)
-
----
-
-### Indian submarine in Colombo ahead of Sri Lanka’s Independence Day celebrations
-
-*2024-02-03 19:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96978/indian-submarine-in-colombo-ahead-of-sri-lankas-independence-day-celebrations) · `en`
-
-INS Karanj, an Indian Navy submarine, arrived in the port of Colombo on Thursday, ahead of Sri Lanka’s 76th Independence Day celebrations on Sunday.
-
-On a two-day visit, the submarine was welcomed by the Sri Lanka Navy.
-
-INS Karanj is 67.5 metres long with a crew of 53 under the commandeering of Commander Arunabh, the Sri Lanka Navy said.
-
-INS ‘Karanj’ will depart the island nation on February 5, symbolising the strengthened maritime relations between India and Sri Lanka, LankaNewsWeb.net, a news portal said, adding, “The diplomatic and cultural exchange during this visit contributes to the broader cooperation between the two nations in the maritime domain.”
-
-◼️
-
-[Data](articles/f675018f.json)
-
-[Extended Data](ext_articles/f675018f.ext.json)
-
----
-
-### DS Senanayake, the all time great: “If he did not live, Ceylon would have been very different”
-
-*2024-02-03 19:12:00* · [`islandlk`](http://island.lk/ds-senanayake-the-all-time-great-if-he-did-not-live-ceylon-would-have-been-very-different/) · `en`
-
-One morning in March 1952, Don Stephen Senanayake, Ceylon’s first Prime Minister, fell off the horse he was riding on the Galle Face Green in Colombo and died 33 hours later. He was in his 68th year and was probably the victim of a stroke which made him lose control of the horse. He was found laid out on the turf with his face downwards and bleeding from his nose. The nation mourned the man who had led it to independence and had made the parched lands of the Island bloom.
-
-...
-
-[Data](articles/b7e082dd.json)
-
-[Extended Data](ext_articles/b7e082dd.ext.json)
 
 ---

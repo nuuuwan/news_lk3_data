@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 00:33:11**
+As of **2024-02-05 00:47:35**
 
 ## Newspaper Stats
 
-*Scraped **4,789** Articles*
+*Scraped **4,790** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 288
 adalk | 414
 virakesarilk | 546
-adaderanalk | 599
+adaderanalk | 600
 tamilmirrorlk | 606
 adaderanasinhalalk | 610
 dailymirrorlk | 671
@@ -26,7 +26,7 @@ dailymirrorlk | 671
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,789 (100.0%) of 4,789 articles have been extended.
+4,790 (100.0%) of 4,790 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,26 @@ The Army as well as the police, as well as the police, has already control the s
 [Data](articles/4f300e3e.json)
 
 [Extended Data](ext_articles/4f300e3e.ext.json)
+
+---
+
+### JVP delegation to make official visit to India
+
+*2024-02-04 23:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97006/jvp-delegation-to-make-official-visit-to-india) · `en`
+
+A delegation of the Janatha Vimukthi Peramuna (JVP), a Marxist–Leninist communist party which led an anti-India campaign in 1987-90 against the Indo-Lanka Accord, will on Monday (05 Feb.) start on an official visit to India.
+
+“The delegation of JVP, the largest party under the broad entity National People’s Power (NPP), is to leave Colombo tomorrow (Monday) for India on an official invitation of the Indian government,’’ a statement from the party said.
+
+The delegation to India comprises JVP leader Anura Kumara Dissanayake, senior legislator Vijitha Herath, Secretary Nihal Abeysinghe and executive committee member Prof Anil Jayantha, the statement said.
+
+The Indo-Sri Lanka Peace Accord, signed in Colombo on July 29, 1987, between Indian Prime Minister Rajiv Gandhi and Sri Lankan President J. R. Jayewardene, was expected to resolve the Sri Lankan Civil War by enabling the Thirteenth Amendment to the Constitution of Sri Lanka.
+
+...
+
+[Data](articles/1d4be38e.json)
+
+[Extended Data](ext_articles/1d4be38e.ext.json)
 
 ---
 
@@ -188,7 +208,15 @@ Police said the cause of the conflict has not been revealed yet and the inmates 
 
 *2024-02-04 21:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97004/several-inmates-and-soldier-injured-in-clash-at-kandakadu-camp) · `en`
 
-At least ten inmates and an army soldier have reportedly been injured in a clash between two groups of inmates at the Kandakadu Rehabilitation and Treatment Centre, police reported.
+Several inmates and an army soldier have reportedly been injured in a clash between two groups at the Kandakadu Rehabilitation and Treatment Centre, police reported.
+
+According to the Welikanda Police, the injured persons are currently receiving treatment at the Welikanda Hospital, while 34 inmates have been arrested in connection with the incident.
+
+While the cause of the clash is yet to be determined, police reported that those involved had damaged property within the Kandakadu camp, while several poles and clubs believed to have been used in the clash had been taken into police custody.
+
+Meanwhile, police also seized a stock of narcotics found within the premises.
+
+The arrestees are due to be produced before the Polonnaruwa Magistrate’s Court on Monday (05 Feb.).
 
 ◼️
 
@@ -1921,25 +1949,5 @@ The Retail License for Liquor in Municipal Areas was reduced from Rs. 15 million
 [Data](articles/eb51fc00.json)
 
 [Extended Data](ext_articles/eb51fc00.ext.json)
-
----
-
-### Carrots will fall to Rs 700 - the price of vegetables
-
-*2024-02-04 12:01:19* · [`adalk`](https://www.ada.lk/breaking_news/කැරට්-කිලෝව-රු-700ට-අඩුවෙයි---අනෙකුත්-එළවළු-මිලත්-පහළට/11-407888) · `si`
-
-Keppetipola has fallen by a kilogram of carrots last week and the price of other vegetables and other vegetables have fallen by Rs.
-
-Keppetipola will come to their daily areas from various parts of the country to buy vegetables all over the country to buy vegetables across the country to buy vegetables across the country.
-
-The Economic Center says that a kilo of carrots of Keppetipola, which rose about Rs.
-
-Egen vegetables at Keppetipola Special Economic Center Cragx carrots- 550 - 600 - 400, 420, 420, 420, tomato 600 - 630, beans 450 - 500. Robs 100 -130, Potatoes (Welimada) 250 - 300
-
-◼️
-
-[Data](articles/96cb9550.json)
-
-[Extended Data](ext_articles/96cb9550.ext.json)
 
 ---

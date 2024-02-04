@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 15:50:33**
+As of **2024-02-04 16:02:22**
 
 ## Newspaper Stats
 
-*Scraped **4,709** Articles*
+*Scraped **4,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,96 @@ islandlk | 254
 economynextcom | 256
 dailyftlk | 280
 newsfirstlk | 287
-adalk | 407
-virakesarilk | 523
+adalk | 409
+virakesarilk | 526
 adaderanalk | 589
 adaderanasinhalalk | 595
 tamilmirrorlk | 599
-dailymirrorlk | 658
+dailymirrorlk | 660
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,709 (100.0%) of 4,709 articles have been extended.
+4,709 (99.9%) of 4,716 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### Protest in Jaffna against Independence Day celebrations, five arrested
+
+*2024-02-04 15:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Protest-in-Jaffna-against-Independence-Day-celebrations-five-arrested/108-276306) · `en`
+
+Jaffna, Feb. 04 (Daily Mirror)- Police fired tear gas and water cannons to disperse a group of Jaffna University students and political leaders of the North, who staged a protest in Iranamadu, Kilinochchi calling the Independence Day a 'black day'.
+
+Five university students were taken into police custody during the protest for unruly behaviour.
+
+The protesters claimed that there is no proper situation in the country to celebrate Independence Day due to various reasons such as restrictions to media freedom and enacting Acts restricting freedom of speech.
+
+Ilankai Thamil Arasu Kachchi leader S. Sridharan, Parliamentarian Charles Nirmalanathan and civil activists particpiated in this protest.
+
+◼️
+
+[Data](articles/985897c3.json)
+
+---
+
+### Sri Lanka celebrates 76th Independence Day
+
+*2024-02-04 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sri-Lanka-celebrates-76th-Independence-Day/110-276305) · `en`
+
+◼️
+
+[Data](articles/9371e4f5.json)
+
+---
+
+### தமி­ழ­ர­சுக்­கட்­சியின் தலை­மைத்­துவ போட்­டிக்கு முடிவு கட்ட வேண்டும்!
+
+*2024-02-04 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175524) · `ta`
+
+இலங்கை தமி­ழ­ர­சுக்­கட்­சியின் செய­லாளர் நிய­மன விவ­கா­ரத்தில் பெரும் சர்ச்சை ஏற்­பட்­டி­ருக்­கின்­றது. கடந்த 27ஆம் திகதி  இலங்கை தமி­ழ­ர­சுக்­கட்­சியின் மத்­தி­யக்­கு­ழுக்­கூட்டம் திரு­கோ­ண­ம­லையில் இடம்­பெற்­றது. இதன்­போது பொதுச்­செ­ய­லாளர் பத­விக்­கான தெரிவு இடம்­பெற்­ற­போது சர்ச்­சைக்கு மத்­தியில் சண்­முகம் குக­தாசன் அந்தப் பத­விக்கு நிய­மிக்­கப்­பட்டார்.
+
+அத்­துடன்  சிரேஷ்ட உப­த­லை­வ­ராக  சி.வி.கே. சிவ­ஞா­னமும்  இணை பொரு­ளா­ளர்­க­ளாக ஞா, சிறி­நேசன்,  கன­க­ச­பா­பதி   ஆகி­யோரும்   துணைத்­த­லை­வர்­க­ளாக  கே.வி. தவ­ராசா, சார்ள்ஸ் நிர்­ம­ல­நாதன், தவ­ராசா  கலை­ய­ரசன்,  பாக்­கி­யச்­செல்வம் அரி­ய­நேந்­திரன், வைத்­தியர்  சத்­தி­ய­லிங்கம் ஆகி­யோரும்  இணைச்­செ­ய­லா­ளர்­க­ளாக திரு­மதி சாந்தி  சிறிஸ்­கந்­த­ராஜா,  திரு­மதி ரஞ்­சனி கன­க­ராஜா,  எம். சர­வ­ண­பவன்,   இரா. சாணக்­கியன், சிவ­மோகன் ஆகி­யோரும் எம்.ஏ.சுமந்­திரன் உட்­பட 13 செயற்குழு உறுப்­பி­னர்­களும் தெரிவு செய்­யப்­பட்­டனர்.
+
+...
+
+[Data](articles/57f1a195.json)
+
+---
+
+### வரி என்றால் என்ன?
+
+*2024-02-04 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175517) · `ta`
+
+இந்த வாதங்கள், சுகா­தாரம், கல்வி, உட்­கட்­ட­மைப்பு மற்றும் சமூகப் பாது­காப்பு வலைகள் போன்ற அத்­தி­யா­வ­சிய பொதுச் சேவை­க­ளுக்கு நிதி­ய­ளிப்­பதில் வரி­வி­திப்பின் முக்­கிய பங்கை பெரும்­பாலும் கவ­னிக்­க­வில்லை. பொதுச் சேவை­க­ளுக்கு போது­மான நிதியை உறுதி செய்­வ­தோடு பொரு­ளா­தார வளர்ச்­சியின் தேவையை சம­நி­லைப்­ப­டுத்­து­வது இலங்கை மற்றும் பல நாடுகள் எதிர்­கொள்ளும் ஒரு சிக்­க­லான சவா­லாகும்.
+
+நிச்­ச­ய­மாக, வரி­வி­திப்­புக்கு எதி­ரான வாதங்­களும் உள்­ளன. சிலர் வரிகள் அதி­க­மாக இருப்­ப­தா­கவும், அவை பொரு­ளா­தார வளர்ச்­சியை முடக்­கு­வ­தா­கவும் வாதி­டு­கின்­றனர். மற்­ற­வர்கள் வரிகள் நியா­ய­மற்­றவை என்றும், அவை ஏழை­க­ளுக்கு விகி­தாசா­ரத்தில் சுமையை ஏற்­ப­டுத்­து­கின்­றன என்றும் வாதி­டு­கின்­றனர்.
+
+வரி விதிப்பு குறித்த விவாதம் இன்னும் பல ஆண்­டு­க­ளுக்கு தொடரும். இருப்­பினும், ஒன்று தெளி­வாக உள்­ளது. எந்­த­வொரு நவீன சமு­தா­யத்­திலும் வரிகள் இன்­றி­ய­மை­யாத பகு­தி­யாகும், மேலும் நாம் அனை­வரும் நம்­பி­யி­ருக்கும்  பொது பொருட்கள் மற்றும் சேவைகளுக்கு நிதியளிப்பதில் அவை முக்கிய பங்கு வகிக்கின்றன.
+
+◼️
+
+[Data](articles/a67dc87d.json)
+
+---
+
+### நிகழ்நிலை பாதுகாப்புச் சட்டம்: யாருக்காக?
+
+*2024-02-04 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175525) · `ta`
+
+எது எப்­ப­டி­யி­ருப்­பினும், நிகழ்­நிலை சட்­ட ­மூ­லத்தின் ஆழ, அக­லங்­களைத் புரிந்து கொண்டோ அல்­லது வழக்கம் போலவோ நமது எம்.பி.க்களில் பெரும்பாலானவர்கள் ஆதரவாக வாக்களித்ததால், அச் சட்டமூலம் நிறைவேறிவிட்டது.    சபாநாயகரின் ஒப்பத்துடன் சட்டமாக அமுலுக்கு வந்தும் விட்டது. எனவே இந்த யதார்த்தத்தை மக்கள் புரிந்து கொண்டு மிகக் கவனமாக செயற்பட வேண்டும்.
+
+இங்கு முக்கியமான விடயம் என்ன வென்றால், இலங்கையில் இருக்கின்ற பிரச்சினை சட்டம் அல்லது சட்டவாக்கம்; பற்றியதல்ல. அதன் முறையான அமுலாக்கம் பற்றியதாகும். என்னதான் சட்டங்கள் எழுத்தில் இருந்தாலும் அது சரியாக அமுல்படுத்தப்படுவதில்லை.     சட்டம் எல்லோர் மீதும் சமவீச்சில் பாய்வ தில்லை     என்பதை நாம் பல தடவை கண்டி ருக்கின்றோம்.
+
+ஆகவே, இப் புதிய சட்டமும் அந்த விதத்திலோ அல்லது கருத்துச் சுதந்திரத்திற்கு எதிராகவோ நடைமுறைப்படுத்தப்படுமாக இருந்தால் அதன் விளைவுகள் முன் கணிப்பிடாதவையாக இருக்கலாம் என்பதை அரசாங்கம்  மறந்து விடக்கூடாது.
+
+◼️
+
+[Data](articles/6a610cf7.json)
+
+---
 
 ### World leaders congratulate Sri Lanka on its 76th Independence Day
 
@@ -286,6 +360,24 @@ The Archbishop is greatly thrilling Malcolm Cardinal, speaking further.
 
 ---
 
+### කන්දකාඩුවෙන් පැනගිය රැඳවියන් බස් රථයක් කොල්ලකෑමට ගිය උත්සාහය වරදියි
+
+*2024-02-04 12:38:58* · [`adalk`](https://www.ada.lk/breaking_news/කන්දකාඩුවෙන්-පැනගිය-රැඳවියන්-බස්-රථයක්-කොල්ලකෑමට-ගිය-උත්සාහය-වරදියි/11-407890) · `si`
+
+පොළොන්නරුව වැලිකන්ද කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයෙන් හතරවෙනිදා අලුයම පැනගිය රැඳවියන් දහඅට දෙනෙකුගෙන් කීප දෙනෙකු සෝමාවතීය පුදබිමේ නවතා තිබු බස්‍ රථයක් පැහැර ගෙන යාමට උත්සහ දැරිමේදි,එහි ආරක්ෂක අංශයේ නිලධාරියකු එය වැළැක්වීමට ලියාපදිංචි ගිනි අවියකින් අහසට වෙඩි තැබීමෙන් පසු ඔහුට අයත්, රුපියල් පනස්දාහක මුදලක් හා ජංගම දුරකතන දෙකක් පැහැර ගෙන පලාගොස් ඇති බව   වැලිකන්ද පොලිසිය කියයි.
+
+රැදවියන් මෙහිදී එම ස්ථානයේ අයෙකුට පිහියකින් පහරදීමෙන් පසු තුවාල ව්‍යාපාරිකයෙකු පොළොන්නරුව මහ රෝහලට ඇතුළත් කර ඇති බවද වැලිකන්ද පොලිසිය සඳහන් කරයි.
+
+එම අවස්ථාවේදී අගලවත්ත ප්‍රදේශයෙන් පැමිණි ව්‍යාපාරිකයෙකුට අයත් ලියාපදිංචි ගිනි අවියකින් අහසට වෙඩි දෙකක් තබා ඇති අතර එහිදී බස් රථය පැහැර ගැනීමට පැමිණි සියලු රැඳවියන් පලාගොස් ඇති බවද පොලිසිය පවසයි.
+
+වැලිකන්ද පොලිස් ස්ථානාධිපති පොලිස් පරීක්ෂක සමන්ත රත්නායක මහතා අප කළ විමසීමේ සඳහන් කළේ පලාගිය එම සියලු රැඳවියන් මේ වනවිට කන්දකාඩු  පුනරුත්ථාපන මධ්‍යස්ථානයට බාර වී ඇති බවයි.
+
+...
+
+[Data](articles/d088610f.json)
+
+---
+
 ### Attack against Haithi rebels - Australia also support
 
 *2024-02-04 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175515) · `ta`
@@ -323,6 +415,24 @@ According to the Sri Lanka Cricket, Sri Lanka Cricket announced that fast bowler
 [Data](articles/73dc8f57.json)
 
 [Extended Data](ext_articles/73dc8f57.ext.json)
+
+---
+
+### 2024 පාසල් වාරයේ පළමු අදියර 19දා සිට ඇරඹෙයි
+
+*2024-02-04 12:27:06* · [`adalk`](https://www.ada.lk/breaking_news/2024-පාසල්-වාරයේ-පළමු-අදියර-19දා-සිට-ඇරඹෙයි/11-407889) · `si`
+
+රජයේ හා රජය අනුමත සියලු සිංහල හා දෙමළ මාධ්‍ය පාසල්වල  2023 පාසල් වර්ෂයේ තෙවන වාරයේ දෙවන අදියර හෙට (5)සිට ආරම්භ කෙරෙන බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+ඉකුත් පළමුවෙනිදා මෙම අදියර ආරම්භ කිරීමට නියමිතව තිබුණද විභාගයට පෙර පිටවීම නිසා අවලංගු කළ  උසස් පෙළ කෘෂි විද්‍යාව ප්‍රශ්න පත්‍ර දෙක එදින යළි පැවැත්වීමට විභාග දෙපාර්තමේන්තුව කටයුතු  යොදා තිබූ හෙයින් එය 5 දා දක්වා කල් දැමීමට සිදුවූ බව අධ්‍යාපන අමාත්‍යාංශය සඳහන් කරයි.
+
+5 දා ආරම්භ කෙරෙන මෙම දෙවන අදියර සියලු පාසල්වල පෙබරවාරි 16 දායින් අවසන් වන බවද අධ්‍යාපන අමාත්‍යාංශය පැවසීය .
+
+එමෙන්ම  සියලු පාසල්වල 2024 පාසල් වර්ෂයේ පළමු වාරයේ පළමු අදියර පෙබරවාරි 19 දින සිට ආරම්භවන අතර එය සිංහල හා දෙමළ පාසල්වල අප්‍රේල්  10 දක්වාත් මුස්ලිම් පාසල්වල මාර්තු 7 දක්වාත්  පැවැත්වෙන බවද   අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+◼️
+
+[Data](articles/f49bc427.json)
 
 ---
 
@@ -1907,141 +2017,5 @@ The Central Bank said cumulative export earnings during the period from January 
 [Data](articles/71b31b08.json)
 
 [Extended Data](ext_articles/71b31b08.ext.json)
-
----
-
-### "I am not dying" Poonam Pandey
-
-*2024-02-03 21:45:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/நான்-இறக்கவில்லை-பூனம்-பாண்டே-பரபரப்பு/54-332593) · `ta`
-
-She has released a video that actress Poonam Pandey has died due to cervical cancer yesterday.
-
-She has released a video that actress Poonam Pandey has died due to cervical cancer yesterday.
-
-He also said that he was dead to raise awareness about cervical cancer. He has also posted a video of him talking on his Insta page.
-
-He said that he is currently in good health and has done this to spread awareness about cervical cancer that has been sacrificed many lives.. Remble
-
-◼️
-
-[Data](articles/e479bd1b.json)
-
-[Extended Data](ext_articles/e479bd1b.ext.json)
-
----
-
-### Land bridge project to connect Sri Lankan ports with Gulf of Thailand
-
-*2024-02-03 21:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96981/land-bridge-project-to-connect-sri-lankan-ports-with-gulf-of-thailand) · `en`
-
-In a significant development, President Ranil Wickremesinghe addressed the Thailand-Sri Lanka Business Forum at the Kingsbury Hotel, highlighting the auspicious timing of the event. The President announced the signing of a ground-breaking free trade agreement (FTA) between Sri Lanka and Thailand, marking the second FTA with an ASEAN country.
-
-President Wickremesinghe emphasized the historic trade relationship between the two nations, which predates even the Sukhothai Kingdom. He urged a revival of this connection, considering the strategic positions of Sri Lanka in the Indian Ocean and Thailand in the Asia Pacific. The President also acknowledged the cultural ties, including shared traditions like the Ramayana and Theravada Buddhism, the President’s Media Division (PMD) said in a statement.
-
-...
-
-[Data](articles/9542c32a.json)
-
-[Extended Data](ext_articles/9542c32a.ext.json)
-
----
-
-### Opportunity to see the only African
-
-*2024-02-03 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192940) · `si`
-
-The Ridiyagama Safari Park is announced that the only foreign tourists will be given in the future to visit Sri Lanka.
-
-The tourists will be on the coming weeks, which have been violently acting violently violently violent in the country.
-
-◼️
-
-[Data](articles/bdce2798.json)
-
-[Extended Data](ext_articles/bdce2798.ext.json)
-
----
-
-### Imran Khan and wife convicted for illegal marriage and jailed for 7 years
-
-*2024-02-03 21:28:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/03/imran-khan-and-wife-convicted-for-illegal-marriage-and-jailed-for-7-years/) · `en`
-
-Colombo (News 1st) – A Pakistani court ruled Saturday (3rd) that former Prime Minister Imran Khan’s marriage violated Islamic law, and jailed both him and his wife for seven years, in the latest jail sentence for the already imprisoned popular politician, Pakistani media reported.
-
-Khan, 71, who heads the Tehreek-e-Insaf (PTI) party, married Bushra Bibi in 2018, his third marriage. But Bibi’s former husband filed a case alleging that Bibi did not wait three months after the divorce as required by Islamic law, before marrying Khan. The wedding took place shortly before Khan became Prime Minister in 2018. He was deposed in 2022 through a no-confidence vote in parliament.
-
-This is Khan’s third conviction this week, with general elections scheduled for next Thursday (8th) in which he is not eligible to run due to his convictions.
-
-...
-
-[Data](articles/60546b17.json)
-
-[Extended Data](ext_articles/60546b17.ext.json)
-
----
-
-### Sri Lanka - Thailand's Free Trade Agreement in Thailand
-
-*2024-02-03 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192939) · `si`
-
-President Ranil Wickremesinghe urges the two countries to join the revivement of the Sri Lanka - Thailand's economic connection.
-
-The President made this observation addressing the business briefing held in Colombo this afternoon.
-
-Thai Prime Minister's deaths were also elected.
-
-Businessmen and investors representing the businessmen and investors of Thailand representing food, food, energy, energy, hospitality, tourism, agriculture, agricultural and production.
-
-The President stated that the Second Free Trade Agreement with a Asian country and the Free Trade Agreement (FTA) were signed.
-
-The President demanded the businessmen in both countries to take advantage of the opportunities that the arisen will be collaborative.
-
-The Andornam Sea said that Sri Lanka is a decisive partner at Thailand's Prime Minister, Thailand, the Prime Minister of Thailand and Thailand to become a supply center in Southeast Asia.
-
-◼️
-
-[Data](articles/9a04329d.json)
-
-[Extended Data](ext_articles/9a04329d.ext.json)
-
----
-
-### Santhan allowed to come to Sri Lanka?Confirmation
-
-*2024-02-03 21:19:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தன்-இலங்கை-வர-அனுமதி-ஜனாதிபதி-வழங்கியுள்ள-உறுதி/175-332592) · `ta`
-
-Parliamentarian Sivagnanam Sreedharan and Tamil Progressive Alliance leader Mano Ganesan, who met President Ranil Wickremesinghe on Saturday afternoon, demanded that Shantan, who was released in the Rajiv Gandhi assassination case, demanded that Sri Lanka be released in Sri Lanka.
-
-The President has promised that Shantan will come to Sri Lanka and meet his elderly mother.
-
-During the meeting, the President has issued a directive to the President's Advisor for National Security Sagala Ratnayaka to take the next step in this regard.
-
-President Sri Lanka Sridharan has also requested the Sri Lankan MP to provide Santhan's mother's request and further information.R
-
-◼️
-
-[Data](articles/29fa7505.json)
-
-[Extended Data](ext_articles/29fa7505.ext.json)
-
----
-
-### We are not sure about Speaker - Sajith
-
-*2024-02-03 21:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192938) · `si`
-
-Opposition Leader Sajith Premadasa says that the Speaker has acted with regard to the Secretary of the Supreme Court while bringing the security of online methods.
-
-The Opposition Leader said that he could come to a no confidence in him.
-
-The Opposition Leader also warned that the residents of the party would be investigated without ranking members of the party.
-
-"Speaker gave approval to the Online Act. We were analyzed .We forget Supreme Court recommendations in 9 ops. We are not sure about Speaker. Is there any confidence in Speaker?Not?In Parliament, it will be considered in Parliament. "
-
-◼️
-
-[Data](articles/3ac85d66.json)
-
-[Extended Data](ext_articles/3ac85d66.ext.json)
 
 ---

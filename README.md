@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 11:02:18**
+As of **2024-02-04 11:17:20**
 
 ## Newspaper Stats
 
-*Scraped **4,658** Articles*
+*Scraped **4,664** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,98 @@ islandlk | 254
 economynextcom | 254
 dailyftlk | 280
 newsfirstlk | 286
-adalk | 400
-virakesarilk | 520
-adaderanalk | 583
+adalk | 402
+virakesarilk | 521
+adaderanalk | 584
 adaderanasinhalalk | 584
 tamilmirrorlk | 590
-dailymirrorlk | 646
+dailymirrorlk | 648
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,658 (100.0%) of 4,658 articles have been extended.
+4,658 (99.9%) of 4,664 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### බාල බෙහෙත් වංචාවට යුක්තිය ඉටුවේවි කිය සිතනවා
+
+*2024-02-04 10:50:13* · [`adalk`](https://www.ada.lk/breaking_news/බාල-බෙහෙත්-වංචාවට-යුක්තිය-ඉටුවේවි-කිය-සිතනවා/11-407884) · `si`
+
+සෞඛ්‍ය ක්ෂේත්‍රයේ සිදුවූ දැවැන්ත වංචා නිසා හිටපු සෞඛ්‍ය ඇමතිවරයා අත්අඩංගුවට ගෙන රිමාන්ඩ් කර ඇති අතර මේ ක්‍රමවේදය තුළ යුක්තිය සාධාරණත්වය ඉටු වේ කියා අපේක්ෂාවෙන් සිටින බවත් විපක්ෂ නායකවරයා පැවසීය.
+
+බියුපි වැකේන්, හියුමන් ඉමියුනෝ ග්ලොබියුලින් වැනි ඖෂධ ගුණාත්මකභාවයෙන් ඉහළ බෙහෙත් වෙනුවට බාල බෙහෙත් ලබා දීම නිසා නුවරඑළිය දිස්ත්‍රික්කයේ 20කට අධික පිරිසක් අන්ධ වී ඇති බවත් බංකොලොත් රටේ මේ කළ ක්‍රියාවන් සාපරාධි මංකොල්ලකෑම් ලෙස දකින බවත් මේ මංකොල්ලකෑම්වලට සමගි ජන බලවේග රජයක් තුළ ඉඩක් නොමැති බවත් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා මේ බව කියා සිටියේ (3) සක්වල තොරතුරු තාක්ෂණ වැඩසටහනේ 81 වැනි අදියර යටතේ ගාල්ල ගිංතොට මහා විද්‍යාලයට රුපියල් ලක්ෂ 10ක් වටිනා සුහුරු පන්ති කාමර උපකරණ ලබා දීමේ අවස්ථාවට එක්වෙමිනි.
+
+◼️
+
+[Data](articles/a93d6904.json)
+
+---
+
+### பொது மக்களின் ஆர்ப்பாட்டங்கள் எதிர்ப்புகளை பயங்கரவாதம் என முத்திரைகுத்தி அடிப்படை உரிமைகளை நசுக்குவதற்கு உத்தேச பயங்கரவாத எதிர்ப்பு சட்டமூலம் பயன்படுத்தப்படலாம் - நீதிமன்றில் சாலியபீரிஸ்
+
+*2024-02-04 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/175501) · `ta`
+
+உத்தேச பயங்கரவாத எதிர்ப்பு சட்டமூலம்மக்களின் அடிப்படை உரிமைகளை மீறுகின்றது என சட்டத்தரணிகள் வாதிட்டுள்ளனர்
+
+உத்தேச பயங்கரவாத எதிர்ப்பு சட்டமூலத்திற்கு எதிரான மனுக்கள் மீதான விசாரணையின்போதே அவர்கள் இதனை தெரிவித்துள்ளனர்.
+
+மக்களின் ஆர்ப்பாட்டங்கள் எதிர்ப்புகள் உட்பட அரசாங்கத்தின் கொள்கையுடன் உடன்படமறுக்கும் மக்களின் நடவடிக்கைகளை  பயங்கரவாதம் என முத்திரைகுத்தி மக்கள் அடிப்படை உரிமைகளை நசுக்குவதற்கு உத்தேச பயங்கரவாத எதிர்ப்பு சட்டத்தில் உள்ள  ஏற்பாடுகளை பயன்படுத்த முடியும் என சட்டத்தரணிகள் சுட்டிக்காட்டியுள்ளனர்.
+
+பயங்கரவாத எதிர்ப்பு சட்டமூலத்திற்கு எதிரான மனுக்கள் மீதான விசாரணை வெள்ளிக்கிழமை முடிவடைந்துள்ளது – நீதிமன்றம் தனது முடிவை சபாநாயகருக்கு அனுப்பிவைக்கவுள்ளது.
+
+உயர்நீதிமன்றத்தின் ஐந்து நீதிபதிகள் அடங்கிய குழு இந்த வாரம் மனுக்கள் மீதான விவாதங்களை செவிமடுத்தது.
+
+...
+
+[Data](articles/0f2769ec.json)
+
+---
+
+### Operation ‘Yukthiya’: 660 more suspects arrested
+
+*2024-02-04 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96988/operation-yukthiya-660-more-suspects-arrested) · `en`
+
+A total of 660 more suspects have been arrested by the security forces personnel within a 24-hour window ending at 12.30 a.m. today (04 Feb.) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+Among the arrestees are 552 suspects who were taken into custody on narcotics-related charges, of whom one was sent for rehabilitation, while the 108 others were on the list of wanted criminal suspects.
+
+Additionally, three suspects who were on the list of registered suspects of the Police Narcotics Bureau and the Police Special Task Force have also been arrested during the special operation.
+
+According to the Ministry of Public Security, the narcotics taken into custody during this 24-hour window include 152g of heroin, 134g of crystal methamphetamine (Ice), 04kg 150g of cannabis, 775 cannabis plants and 192,826 narcotic pills.
+
+◼️
+
+[Data](articles/b5c5adce.json)
+
+---
+
+### The DMK is only blamed for the extinction of Eelam but no one talks about the politics of the world! ”- Thirumavalavan
+
+*2024-02-04 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/175495) · `ta`
+
+The leader of the Liberation Panthers Party, Thirumavalavan, has said that the DMK is not only blamed for the destruction of Eelam but no one has spoken about the politics of Eelam worldwide.
+
+Sir PBT in Chennai. Thirumavalavan, the leader of the Liberation Panthers Party, participated in the Eelam event held at Thiagarayar Hall.
+
+The reason for the shooting of the Eelam Tamils is that Karunanidhi and DMK are the reason for politicians, but it does not always benefit the Eelam Tamils.
+
+Those in Tamil Nadu only criticized the DMK and Karunanidhi for the destruction of Eelam. But no one talks about the politics of Eelam worldwide.
+
+There is not even a struggle in support of Eelam Tamils in India. The nations of the world have repeatedly criticized Eelam Tamils as terrorists. Congress has made Eelam Tamils the largest armed groups. Thus, the leader of the Liberation Panthers Party Thirumavalavan spoke.
+
+◼️
+
+[Data](articles/cc58430c.json)
+
+[Extended Data](ext_articles/cc58430c.ext.json)
+
+---
 
 ### Youth arrested with Italy
 
@@ -96,28 +172,6 @@ Police are arrested and detained at the police station. Remble
 
 ---
 
-### The DMK is only blamed for the extinction of Eelam but no one talks about the politics of the world! ”- Thirumavalavan
-
-*2024-02-04 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175495) · `ta`
-
-The leader of the Liberation Panthers Party, Thirumavalavan, has said that the DMK is not only blamed for the destruction of Eelam but no one has spoken about the politics of Eelam worldwide.
-
-Sir PBT in Chennai. Thirumavalavan, the leader of the Liberation Panthers Party, participated in the Eelam event held at Thiagarayar Hall.
-
-The reason for the shooting of the Eelam Tamils is that Karunanidhi and DMK are the reason for politicians, but it does not always benefit the Eelam Tamils.
-
-Those in Tamil Nadu only criticized the DMK and Karunanidhi for the destruction of Eelam. But no one talks about the politics of Eelam worldwide.
-
-There is not even a struggle in support of Eelam Tamils in India. The nations of the world have repeatedly criticized Eelam Tamils as terrorists. Congress has made Eelam Tamils the largest armed groups. Thus, the leader of the Liberation Panthers Party Thirumavalavan spoke.
-
-◼️
-
-[Data](articles/cc58430c.json)
-
-[Extended Data](ext_articles/cc58430c.ext.json)
-
----
-
 ### Singaporean TikTok CEO Denies Chinese Communist Party Ties
 
 *2024-02-04 09:32:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/04/singaporean-tiktok-ceo-denies-chinese-communist-party-ties/) · `en`
@@ -126,11 +180,11 @@ There is not even a struggle in support of Eelam Tamils in India. The nations of
 
 In this minute-long exchange, Mr Cotton asks Mr Chew about his citizenship, passport and whether he is a member of the CCP, to which he replies "Senator, I'm Singaporean. No."
 
-Mr Chew denies his company has ever shared or received a request to share US users' data with the Chinese government.
+Chew denies his company has ever shared or received a request to share US users' data with the Chinese government.
 
-Imran Khan and wife convicted for illegal marriage and jailed for 7 years
+Chew faced the hearing in the US Senate alongside CEOs from Meta, X and other social media companies who were grilled by the US lawmakers over the dangers that children and teens face using the social media platforms.
 
-◼️
+...
 
 [Data](articles/aa0b7280.json)
 
@@ -246,6 +300,22 @@ It is noteworthy that this is the third attack on the United States and Britain 
 
 ---
 
+### ’Contribute utmost energy to noble mission of rebuilding our nation’: President
+
+*2024-02-04 08:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Contribute-utmost-energy-to-noble-mission-of-rebuilding-our-nation-President/108-276295) · `en`
+
+Colombo, Feb. 4 (Daily Mirror)- President Ranil Wickremesinghe in his Independence Day message invited all Sri Lankans, at home and abroad, to contribute their utmost energy to the noble mission of rebuilding the nation.
+
+The President  said,“as we commemorated the 75th year of our nation’s independence, we encountered the indignity of being labeled a financially bankrupt country. Nevertheless, upon the advent of the 76th Independence Day, we have effectively navigated through these challenges, steering the economy toward stability despite numerous impediments and challenges.
+
+Achievements were realized progressively, owing to the steadfast support of our citizens who endured hardships in keeping with a comprehensive, long-term national rebuilding programme.throughout this journey, challenges will gradually dissipate, life’s burdens will lighten, the economy will fortify and Mother Sri Lanka will undergo a renaissance.
+
+...
+
+[Data](articles/22bfa52b.json)
+
+---
+
 ### 76th Independence Day will be marked as a new turning point in Sri Lanka’s economy - PM
 
 *2024-02-04 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96986/76th-independence-day-will-be-marked-as-a-new-turning-point-in-sri-lankas-economy-pm) · `en`
@@ -355,6 +425,18 @@ The President said that upon gaining independence in 1948, global expectations e
 [Data](articles/d2e6a833.json)
 
 [Extended Data](ext_articles/d2e6a833.ext.json)
+
+---
+
+### 76 වැනි අභිමානවත් නිදහස් දිනය අදයි
+
+*2024-02-04 08:34:18* · [`adalk`](https://www.ada.lk/breaking_news/76-වැනි-අභිමානවත්-නිදහස්-දිනය-අදයි/11-407882) · `si`
+
+ශ්‍රී ලංකාවේ 76 වැනි ජාතික නිදහස් උත්සවය අදට (04දා) යෙදි තිබේ. මෙවර ජාතික උත්සවය කොළඹ ගාලුමුවදොර පිටියේදී පැවැත්වෙන අතර ප්‍රධාන ආරාධිත අමුත්තා ලෙස තායිලන්ත අග්‍රාමාත්‍යවරයා ඇතුළු දූත පිරිසක් එක්ව සිටියි.
+
+◼️
+
+[Data](articles/ad818b94.json)
 
 ---
 
@@ -585,6 +667,22 @@ Rambukwella, remanded until February 15, was produced before Maligakanda Magistr
 [Data](articles/33f9761c.json)
 
 [Extended Data](ext_articles/33f9761c.ext.json)
+
+---
+
+### Keheliya Rambukwella admitted to prison hospital
+
+*2024-02-04 07:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Keheliya-Rambukwella-admitted-to-prison-hospital/155-276290) · `en`
+
+Colombo, Feb 04 (Daily Mirror) - Former Health Minister Keheliya Rambukwella, who was remanded over importation of substandard Immunoglobulin injections, was admitted to Prison Hospital.
+
+Prisons Spokesman Gamini Dissanayake said that Rambukwella was admitted due to illness, following doctor's recommendation.
+
+Rambukwella, remanded until February 15, was produced before Maligakanda Magistrate's Court.
+
+◼️
+
+[Data](articles/ff3149f7.json)
 
 ---
 
@@ -1883,115 +1981,5 @@ The state minister, emphasizing the remarkable progress made by the SLADC under 
 [Data](articles/fb38bad6.json)
 
 [Extended Data](ext_articles/fb38bad6.ext.json)
-
----
-
-### Thailand Prime Minister Shreta Davis's Sri Lankan
-
-*2024-02-03 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175451) · `ta`
-
-Thailand's Prime Minister Shreta Davis arrived at the Katunayake airport shortly before on his visit to Sri Lanka.
-
-He has visited the country on the invitation of President Ranil Wickremesinghe and is the chief guest at the 76th Independence Day celebration of Sri Lanka.
-
-During the visit, Thailand Prime Minister Shreta Tavis will hold discussions with President Ranil Wickremesinghe.
-
-The Ministry of External Affairs said that he will also participate in the signing of the Sri Lanka -Thailand Free Trade Agreement.
-
-Prime Minister Dinesh Gunawardena made a special welcome at the Bandaranaike International Airport as the Prime Minister of Thailand Shretha Thavisin has visited the high -level delegation including Deputy Prime Minister Bhumdam Vechayachai.
-
-◼️
-
-[Data](articles/965e13d9.json)
-
-[Extended Data](ext_articles/965e13d9.ext.json)
-
----
-
-### Over 700 prisoners to be released on Independence Day: Prisons spokesman
-
-*2024-02-03 15:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-700-prisoners-to-be-released-on-Independence-Day-Prisons-spokesman/108-276285) · `en`
-
-Colombo, Feb. 03 (Daily Mirror)- A total of 754 prisoners including 25 female inmates will be released from prisons island-wide tomorrow on Presidential amnesty to mark the 76th Independence Day, Prisons Commissioner and Prisons Spokesman Gamini B. Dissanayake said.
-
-He said the prisoners will be released according to the powers vested with the President under Article 34 of the Constitution and in view of the Independence Day.
-
-◼️
-
-[Data](articles/de6ed81c.json)
-
-[Extended Data](ext_articles/de6ed81c.ext.json)
-
----
-
-### Keheliya Rambukwella remanded until February 15
-
-*2024-02-03 15:16:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/03/keheliya-rambukwella-remanded-until-february-15/) · `en`
-
-COLOMBO (News 1st) – Minister Keheliya Rambukwella has been remanded until the 15th of February after he was produced before court on Saturday morning following his arrest by the Criminal Investigations Department on Friday.
-
-Minister Keheliya Rambukwella was arrested by the CID over the controversial human immunoglobulin procurement scandal.
-
-Maligakanda Magistrate Lochana Abeywickrama imposed an overseas travel ban on Minister Keheliya Rambukwella and ordered him to report to the Criminal Investigations Department to provide a statement.
-
-Imran Khan and wife convicted for illegal marriage and jailed for 7 years
-
-◼️
-
-[Data](articles/b9d70ccf.json)
-
-[Extended Data](ext_articles/b9d70ccf.ext.json)
-
----
-
-### "I'm alive";Shocked Poonam Pandey
-
-*2024-02-03 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175462) · `ta`
-
-Bollywood actress Poonam Pandey, who was said to have died of cervical cancer, said, “I'm alive. The disease was not victimized, ”he said.
-
-Celebrity Bollywood actress Poonam Pandey (32) has passed away on Friday after suffering from cervical cancer. His relatives also confirmed this on social media.
-
-In this case, Poonam Pandey 'I did not die. I am alive. '
-
-In that record, I am alive. I do not die for cervical cancer. But thousands of women are suffering from the disease. They have no awareness about this. Like other cancers, cervical cancer is also completely cured. It is necessary to test in advance and vaccinate. I posted that I was dead for awareness of cancer. Bollywood filmmakers condoled that he was dead. I apologize to everyone. ”
-
-◼️
-
-[Data](articles/ada4daec.json)
-
-[Extended Data](ext_articles/ada4daec.ext.json)
-
----
-
-### Keheliya Rambukwella remanded until February 15
-
-*2024-02-03 15:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliya-Rambukwella-remanded-until-February-15/108-276281) · `en`
-
-Colombo, Feb 03 (Daily Mirror) -Former Health Minister Keheliya Rambukwella who was arrested by the Criminal Investigation Department (CID) yesterday over the importation of substandard Immunoglobulin injections, has been remanded until February 15.
-
-The former health minister was ordered to be remanded by the Maligakanda Magistrate.
-
-◼️
-
-[Data](articles/d193b690.json)
-
-[Extended Data](ext_articles/d193b690.ext.json)
-
----
-
-### Keheliya Rambukwella remanded until February 15
-
-*2024-02-03 15:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Keheliya-Rambukwella-remanded-until-February-15/155-276281) · `en`
-
-Colombo, Feb 03 (Daily Mirror) -Former Health Minister Keheliya Rambukwella who was arrested by the Criminal Investigation Department (CID) yesterday over the importation of substandard Immunoglobulin injections, has been remanded until February 15.
-
-The former health minister was ordered to be remanded by the Maligakanda Magistrate.
-
-◼️
-
-[Data](articles/f2a3b702.json)
-
-[Extended Data](ext_articles/f2a3b702.ext.json)
 
 ---

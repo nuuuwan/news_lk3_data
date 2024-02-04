@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 13:32:44**
+As of **2024-02-04 13:51:34**
 
 ## Newspaper Stats
 
@@ -26,33 +26,27 @@ dailymirrorlk | 654
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,691 (99.9%) of 4,697 articles have been extended.
+4,697 (100.0%) of 4,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
 
-### 76 වන නිදහස් දිනය අභිමානයෙක් සැමරේ
+### 76th Independence Day celebrates
 
 *2024-02-04 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192961) · `si`
 
-76 වන ජාතික නිදහස් දින සැමරුම අද (04) පෙරවරුවේ කොළඹ ගාලුමුවදොරදී අභිමානවත් අයුරින් පැවැත්විණි.
+The 76th National Independence Day celebrations were held at the Galle Galle Face today (04).
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පැවති මෙවර ජාතික දින උත්සවයේ තේමාව වුයේ 'හදමු අලුත් රටක්' යන්නයි.
+The theme of the National Day celebration was headed by President Ranil Wickremesinghe.
 
-ප්‍රථමයෙන් ගාලුමුවදොර වෙත ආරාධිත අමුත්තන්ගේ සම්ප්‍රාප්තිය සිදුවූ අතර වැඩබලන පොලිස්පතිවරයා, ත්‍රිවිධ හමුදාපතිවරුන්, ආරක්ෂක මාණ්ඩලික ප්‍රධානි, ආරක්ෂක ලේකම්වරයා, අගවිනිසුරුවරයා, කථානායකවරයා සහ අග්‍රාමාත්‍යවරයාගේ සම්ප්‍රාප්තිය සිදුවුණේ ඉන් අනතුරුවයි.
-
-විදේශීය තානාපතිවරුන්, රාජ්‍ය නියෝජිතයින් ඇතුළු සම්භාවනීය ආරාධිතයින් රැසක් මෙවර උත්සවයට සහභාගි වූ අතර ප්‍රධාන ආරාධිතයා ලෙස තායිලන්ත අග්‍රාමාත්‍ය ස්‍රෙතා තවිසින් මහතා සහභාගි විය.
-
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සම්ප්‍රාප්තියත් සමග නිදහස් දින සැමරුම් උත්සවයේ කටයුතු ආරම්භ විය.
-
-ජාතිය වෙනුවෙන් දිවි පිදු විරුවන් සිහිකිරීම වෙනුවෙන් විනාඩි 2ක නිහඬතාවක් ද පැවැත්විණි.
-
-ජනාධිපතිවරයා වෙනුවෙන් ත්‍රිවිධ හමුදා උත්තමාචාරය හා ආචාර වෙඩි මුර 21ක් පිරිනැමුණේ ඉන් අනතුරුවයි.
+The approval of guests from Galle Faceora came to the Galle Faceora, and the acting IPP, Chief of Defense Staff, Defense Secretary, the Chief Justice, Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker and the Prime Minister
 
 ...
 
 [Data](articles/3bbf2d80.json)
+
+[Extended Data](ext_articles/3bbf2d80.ext.json)
 
 ---
 
@@ -72,6 +66,8 @@ Sri Lanka posted a total of 439 all out in their first innings in response to Af
 
 [Data](articles/a6cef746.json)
 
+[Extended Data](ext_articles/a6cef746.ext.json)
+
 ---
 
 ### SJB to take disciplinary action against SF?
@@ -89,6 +85,8 @@ This offensive remark by Premadasa came just a few days after MP Fonseka critici
 ...
 
 [Data](articles/7a8176dd.json)
+
+[Extended Data](ext_articles/7a8176dd.ext.json)
 
 ---
 
@@ -112,23 +110,25 @@ The Archbishop is greatly thrilling Malcolm Cardinal, speaking further.
 
 ---
 
-### ஹெளத்தி கிளர்ச்சியாளர்களிற்கு எதிரான தாக்குதல் - அவுஸ்திரேலியாவும் ஆதரவு
+### Attack against Haithi rebels - Australia also support
 
 *2024-02-04 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175515) · `ta`
 
-யேமனின் ஹெளத்திகிளர்ச்சியாளர்களிற்கு எதிராக அமெரிக்காவும் பிரிட்டனும் இணைந்து முன்னெடுத்துவரும் தாக்குதல்களிற்கு அவுஸ்திரேலியா தனது ஆதரவை வெளியிட்டுள்ளது.
+Australia has expressed its support for the US and Britain's attacks on Yemen's Hournights.
 
-நேற்றும் அமெரிக்காவும் பிரிட்டனும் இணைந்து தாக்குதலை மேற்கொண்டுள்ள நிலையிலேயே அவுஸ்திரேலியா இந்த தாக்குதலிற்கு தனது ஆதரவை வெளியிட்டுள்ளது.
+Australia expressed its support for the attack as the US and Britain launched an attack yesterday.
 
-செங்கடல் வழியாக பயணம் மேற்கொள்ளும் அப்பாவி மாலுமிகளின் உயிர்களிற்கும் சர்வதேசவர்த்தகத்திற்கும் ஆபத்தை ஏற்படுத்தும் ஹெளத்தி கிளர்ச்சியாளர்களின் தாக்குதல் திறனை குறைப்பதை நோக்கமாக கொண்ட நோக்கிலேயே இந்த துல்லியமான தாக்குதல்கள் இடம்பெறுகின்றன என ரிச்சட் மார்லஸ் தெரிவித்துள்ளார்.
+Richard Marles said these accurate attacks are aimed at reducing the ability of the anti -insurgents that are dangerous to the lives and international community of innocent sailors traveling through the Red Sea.
 
-செங்கடல் பகுதியில் பதற்றத்தை குறைப்பதும் அந்தபகுதியில் ஸ்திரதன்மையை ஏற்படுத்துவதுமே இந்த தாக்குதலின் நோக்கம் என தெரிவித்துள்ள அவர் நாங்கள் ஹெளத்திகிளர்ச்சி குழுக்களின் தலைமைக்கு எங்களின் எச்சரிக்கையை மீண்டும் தெரிவிப்போம் என குறிப்பிட்டுள்ளார்.
+He said that the purpose of the attack is to reduce tension in the Red Sea and to cause stability in the area, he said.
 
-உலகின் மிகமுக்கியமான கடல்பாதையில் சுதந்திரமான வர்த்தகம் மற்றும் உயிர்களை நாங்கள் பாதுகாப்போம் எனவும் அவர் தெரிவித்துள்ளார்.
+"We will protect free trade and lives on the world's most important seas," he said.
 
 ◼️
 
 [Data](articles/3a6c7a7f.json)
+
+[Extended Data](ext_articles/3a6c7a7f.ext.json)
 
 ---
 
@@ -163,6 +163,8 @@ Accordingly, 02 Brigadiers to the rank of Major General, 12 Colonels to the rank
 ...
 
 [Data](articles/01736c1c.json)
+
+[Extended Data](ext_articles/01736c1c.ext.json)
 
 ---
 
@@ -296,21 +298,25 @@ The annual license fee for municipal areas has been reduced to Rs.
 
 ---
 
-### හරක් කටාට පැන යන්න කුමන්ත්‍රණය කලැයි අත්අඩංගුවට ගත් පීසීගේ වැඩ තහනම්
+### PC's work suspended
 
 *2024-02-04 11:37:51* · [`adalk`](https://www.ada.lk/breaking_news/හරක්-කටාට-පැන-යන්න-කුමන්ත්‍රණය-කලැයි-අත්අඩංගුවට-ගත්-පීසීගේ-වැඩ-තහනම්/11-407886) · `si`
 
-රඳවා ගැනීමේ නියෝග මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අත්අඩංගුවේ සිටින සංවිධානාත්මක අපරාධකරුවකු මෙන්ම මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන. නදුන් චින්තක වික්‍රමරත්න නොහොත් හරක් කටා නැමැත්තාට අත්අඩංගුවෙන් මිදී පලායාමට කුමන්ත්‍රණය සිදුකිරීම සම්බන්ධයෙන්  පොලිස්  අත්අඩංගුවට ගත් කොස්තාපල්වරයාගේ වැඩ තහනම් කළ බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ උසස් නිලධාරියකු පැවසීය.
+Detention orders are an organized criminal as well as a large-scale drug dealer. A senior police officer of the CID said that the suspected constable inquirge was suspended for plotting to flee the custody.
 
-වැඩ තහනම් කරනු ලැබුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට අනුයුක්ත පොලිස් කොස්තාපල් 97386 ජි ජි එම් එල් සඳරුවන් නැමති කොස්තාපල්වරයාගේය.
+The work was banned by the Constable, 97386 Police Constable attached to the CID.
 
-2023 සැප්තැම්බර් 10 වන දින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අත්අඩංගුවේ  සිටි නදුන් චින්තක වික්‍රමරත්න නොහොත්  හරක් කටා නමැති සැකකරු පොලිස් කොස්තාපල් 97402 සන්ධිප නිලධාරියාගේ සහයෝගයෙන්  එම දෙපාර්තමේන්තුවේ පොලිස් නිලධාරින් හට  රසායනික ද්‍රවයක් ශරීර ගත ගත කර ආරක්ෂාවට සිටි එස් ටි එෆ් සෙබලාගේ ගිණිය අවිය උදුරාගෙන පලායාමට උත්සාහ කර තිබිණි.
+The suspects were cooperated by the Police Constable Appeal, allegedly in custody of the Criminal Investigation Department (CID) was in the collaboration of the Police Constables.
 
-එම සිද්ධියත් සමගම  සන්ධිප නමැති එම කොස්තාපල්වරයා පලා ගොස් මාස හතරකට කාලයක් ආසන්නව ඇතත් මේ වන තෙක් ඔහු  අත්අඩංගුවට ගැනීමට පොලිසියට නොහැකි වීය.
+The event had the same constable with the UPFA and had been nearly four months after the police, police not to arrest him.
+
+Police investigations revealed by the Criminal Investigations of the Criminal Investigations and the Regional Criminal Investigations of the Regional Investigations by the Criminal Investigations Department by the Criminal Investigations Department by the Criminal Investigations of the Regional Investigations.it was
 
 ...
 
 [Data](articles/f559c107.json)
+
+[Extended Data](ext_articles/f559c107.ext.json)
 
 ---
 

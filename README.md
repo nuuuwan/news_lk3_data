@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 16:02:22**
+As of **2024-02-04 16:17:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 660
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,709 (99.9%) of 4,716 articles have been extended.
+4,716 (100.0%) of 4,716 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Ilankai Thamil Arasu Kachchi leader S. Sridharan, Parliamentarian Charles Nirmal
 
 [Data](articles/985897c3.json)
 
+[Extended Data](ext_articles/985897c3.ext.json)
+
 ---
 
 ### Sri Lanka celebrates 76th Independence Day
@@ -58,51 +60,61 @@ Ilankai Thamil Arasu Kachchi leader S. Sridharan, Parliamentarian Charles Nirmal
 
 [Data](articles/9371e4f5.json)
 
+[Extended Data](ext_articles/9371e4f5.ext.json)
+
 ---
 
-### தமி­ழ­ர­சுக்­கட்­சியின் தலை­மைத்­துவ போட்­டிக்கு முடிவு கட்ட வேண்டும்!
+### End of the leadership competition of the Tamil party!
 
 *2024-02-04 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175524) · `ta`
 
-இலங்கை தமி­ழ­ர­சுக்­கட்­சியின் செய­லாளர் நிய­மன விவ­கா­ரத்தில் பெரும் சர்ச்சை ஏற்­பட்­டி­ருக்­கின்­றது. கடந்த 27ஆம் திகதி  இலங்கை தமி­ழ­ர­சுக்­கட்­சியின் மத்­தி­யக்­கு­ழுக்­கூட்டம் திரு­கோ­ண­ம­லையில் இடம்­பெற்­றது. இதன்­போது பொதுச்­செ­ய­லாளர் பத­விக்­கான தெரிவு இடம்­பெற்­ற­போது சர்ச்­சைக்கு மத்­தியில் சண்­முகம் குக­தாசன் அந்தப் பத­விக்கு நிய­மிக்­கப்­பட்டார்.
+There has been a great deal of controversy over the appointment of Secretary of the Sri Lanka Tamil National Alliance (TNA). The Central Committee of the Sri Lanka Tamil National Alliance (TNA) was held in Trincomalee on the 27th. Shanmugam Kukadasan was appointed to the post when the election was held for the post of General Secretary.
 
-அத்­துடன்  சிரேஷ்ட உப­த­லை­வ­ராக  சி.வி.கே. சிவ­ஞா­னமும்  இணை பொரு­ளா­ளர்­க­ளாக ஞா, சிறி­நேசன்,  கன­க­ச­பா­பதி   ஆகி­யோரும்   துணைத்­த­லை­வர்­க­ளாக  கே.வி. தவ­ராசா, சார்ள்ஸ் நிர்­ம­ல­நாதன், தவ­ராசா  கலை­ய­ரசன்,  பாக்­கி­யச்­செல்வம் அரி­ய­நேந்­திரன், வைத்­தியர்  சத்­தி­ய­லிங்கம் ஆகி­யோரும்  இணைச்­செ­ய­லா­ளர்­க­ளாக திரு­மதி சாந்தி  சிறிஸ்­கந்­த­ராஜா,  திரு­மதி ரஞ்­சனி கன­க­ராஜா,  எம். சர­வ­ண­பவன்,   இரா. சாணக்­கியன், சிவ­மோகன் ஆகி­யோரும் எம்.ஏ.சுமந்­திரன் உட்­பட 13 செயற்குழு உறுப்­பி­னர்­களும் தெரிவு செய்­யப்­பட்­டனர்.
+As well as CVK as Senior Vice President. Sivagnanam and co -treasurer of Gnanasan and Kanakasabapathi are Vice Presidents. Tavarasa, Charles Nirmalanathan, Tavarasa Kalaiyarasan, Bhagiyachchelvam Ariyanendran and Dr. Sathiyalingam are Mrs. Shanti Siriskandarajah, Mrs. Ranjani Kanakarajah, M. Saravanapavan, Ira. Chanakyan and Sivamohan and 13 members of the executive committee including MA Sumanthiran were elected.
+
+However, there was a great deal of controversy during the first day of the public meeting held at the Central Executive Committee meeting.The situation worsened as the arguments among members of the members were increasing.
 
 ...
 
 [Data](articles/57f1a195.json)
 
+[Extended Data](ext_articles/57f1a195.ext.json)
+
 ---
 
-### வரி என்றால் என்ன?
+### What is the line?
 
 *2024-02-04 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175517) · `ta`
 
-இந்த வாதங்கள், சுகா­தாரம், கல்வி, உட்­கட்­ட­மைப்பு மற்றும் சமூகப் பாது­காப்பு வலைகள் போன்ற அத்­தி­யா­வ­சிய பொதுச் சேவை­க­ளுக்கு நிதி­ய­ளிப்­பதில் வரி­வி­திப்பின் முக்­கிய பங்கை பெரும்­பாலும் கவ­னிக்­க­வில்லை. பொதுச் சேவை­க­ளுக்கு போது­மான நிதியை உறுதி செய்­வ­தோடு பொரு­ளா­தார வளர்ச்­சியின் தேவையை சம­நி­லைப்­ப­டுத்­து­வது இலங்கை மற்றும் பல நாடுகள் எதிர்­கொள்ளும் ஒரு சிக்­க­லான சவா­லாகும்.
+These arguments often notice the key role in financing to essential public services such as health, education, infrastructure and social security nets.. To ensure adequate funds for public services and balance the need for economic growth, Sri Lanka and many countries are facing a complex challenge.
 
-நிச்­ச­ய­மாக, வரி­வி­திப்­புக்கு எதி­ரான வாதங்­களும் உள்­ளன. சிலர் வரிகள் அதி­க­மாக இருப்­ப­தா­கவும், அவை பொரு­ளா­தார வளர்ச்­சியை முடக்­கு­வ­தா­கவும் வாதி­டு­கின்­றனர். மற்­ற­வர்கள் வரிகள் நியா­ய­மற்­றவை என்றும், அவை ஏழை­க­ளுக்கு விகி­தாசா­ரத்தில் சுமையை ஏற்­ப­டுத்­து­கின்­றன என்றும் வாதி­டு­கின்­றனர்.
+Of course, there are arguments against taxation. Some argue that taxes are high and they are free of economic growth. Others argue that the taxes are unfair and that they are burdened with proportions for the poor.
 
-வரி விதிப்பு குறித்த விவாதம் இன்னும் பல ஆண்­டு­க­ளுக்கு தொடரும். இருப்­பினும், ஒன்று தெளி­வாக உள்­ளது. எந்­த­வொரு நவீன சமு­தா­யத்­திலும் வரிகள் இன்­றி­ய­மை­யாத பகு­தி­யாகும், மேலும் நாம் அனை­வரும் நம்­பி­யி­ருக்கும்  பொது பொருட்கள் மற்றும் சேவைகளுக்கு நிதியளிப்பதில் அவை முக்கிய பங்கு வகிக்கின்றன.
+The debate on taxation will continue for many more years. However, one is clearly. Taxes are essential in any modern society, and they play an important role in financing the public goods and services we all believe in.
 
 ◼️
 
 [Data](articles/a67dc87d.json)
 
+[Extended Data](ext_articles/a67dc87d.ext.json)
+
 ---
 
-### நிகழ்நிலை பாதுகாப்புச் சட்டம்: யாருக்காக?
+### Ceremonial Security Act: For whom?
 
 *2024-02-04 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175525) · `ta`
 
-எது எப்­ப­டி­யி­ருப்­பினும், நிகழ்­நிலை சட்­ட ­மூ­லத்தின் ஆழ, அக­லங்­களைத் புரிந்து கொண்டோ அல்­லது வழக்கம் போலவோ நமது எம்.பி.க்களில் பெரும்பாலானவர்கள் ஆதரவாக வாக்களித்ததால், அச் சட்டமூலம் நிறைவேறிவிட்டது.    சபாநாயகரின் ஒப்பத்துடன் சட்டமாக அமுலுக்கு வந்தும் விட்டது. எனவே இந்த யதார்த்தத்தை மக்கள் புரிந்து கொண்டு மிகக் கவனமாக செயற்பட வேண்டும்.
+In any case, the bill has been passed as most of our MPs voted in favor of the deepest and widths of the status law.. The law has come into effect with the similarity of the Speaker. So people need to understand this reality and act very carefully.
 
-இங்கு முக்கியமான விடயம் என்ன வென்றால், இலங்கையில் இருக்கின்ற பிரச்சினை சட்டம் அல்லது சட்டவாக்கம்; பற்றியதல்ல. அதன் முறையான அமுலாக்கம் பற்றியதாகும். என்னதான் சட்டங்கள் எழுத்தில் இருந்தாலும் அது சரியாக அமுல்படுத்தப்படுவதில்லை.     சட்டம் எல்லோர் மீதும் சமவீச்சில் பாய்வ தில்லை     என்பதை நாம் பல தடவை கண்டி ருக்கின்றோம்.
+What is important here is that the issue in Sri Lanka is a law or legalization;Is not about. Its proper implementation is on. Whatever the laws are written, it is not properly implemented. We have repeatedly condemned the law that the law does not go on all.
 
-ஆகவே, இப் புதிய சட்டமும் அந்த விதத்திலோ அல்லது கருத்துச் சுதந்திரத்திற்கு எதிராகவோ நடைமுறைப்படுத்தப்படுமாக இருந்தால் அதன் விளைவுகள் முன் கணிப்பிடாதவையாக இருக்கலாம் என்பதை அரசாங்கம்  மறந்து விடக்கூடாது.
+Therefore, the government should not forget that if the new law is implemented in that way or against freedom of expression, its consequences may not be predicted.
 
 ◼️
 
 [Data](articles/6a610cf7.json)
+
+[Extended Data](ext_articles/6a610cf7.ext.json)
 
 ---
 
@@ -360,21 +372,27 @@ The Archbishop is greatly thrilling Malcolm Cardinal, speaking further.
 
 ---
 
-### කන්දකාඩුවෙන් පැනගිය රැඳවියන් බස් රථයක් කොල්ලකෑමට ගිය උත්සාහය වරදියි
+### Attachment attempted to rob an inmate bus from Kandakada
 
 *2024-02-04 12:38:58* · [`adalk`](https://www.ada.lk/breaking_news/කන්දකාඩුවෙන්-පැනගිය-රැඳවියන්-බස්-රථයක්-කොල්ලකෑමට-ගිය-උත්සාහය-වරදියි/11-407890) · `si`
 
-පොළොන්නරුව වැලිකන්ද කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයෙන් හතරවෙනිදා අලුයම පැනගිය රැඳවියන් දහඅට දෙනෙකුගෙන් කීප දෙනෙකු සෝමාවතීය පුදබිමේ නවතා තිබු බස්‍ රථයක් පැහැර ගෙන යාමට උත්සහ දැරිමේදි,එහි ආරක්ෂක අංශයේ නිලධාරියකු එය වැළැක්වීමට ලියාපදිංචි ගිනි අවියකින් අහසට වෙඩි තැබීමෙන් පසු ඔහුට අයත්, රුපියල් පනස්දාහක මුදලක් හා ජංගම දුරකතන දෙකක් පැහැර ගෙන පලාගොස් ඇති බව   වැලිකන්ද පොලිසිය කියයි.
+Polonnaruwa Welikanda Rehabilitation Center at Welikanda Kandakadu Rehabilitation Center at Third Sayurani at the site of a security officer in the somawayWelikanda Police say have fled.
 
-රැදවියන් මෙහිදී එම ස්ථානයේ අයෙකුට පිහියකින් පහරදීමෙන් පසු තුවාල ව්‍යාපාරිකයෙකු පොළොන්නරුව මහ රෝහලට ඇතුළත් කර ඇති බවද වැලිකන්ද පොලිසිය සඳහන් කරයි.
+A businessman has been admitted to the Polonnaruwa General Hospital after the inventors were assaulted by a knife.
 
-එම අවස්ථාවේදී අගලවත්ත ප්‍රදේශයෙන් පැමිණි ව්‍යාපාරිකයෙකුට අයත් ලියාපදිංචි ගිනි අවියකින් අහසට වෙඩි දෙකක් තබා ඇති අතර එහිදී බස් රථය පැහැර ගැනීමට පැමිණි සියලු රැඳවියන් පලාගොස් ඇති බවද පොලිසිය පවසයි.
+The police said that two inmates who had come to the abduction of the bus have fled the abduction of the bus.
 
-වැලිකන්ද පොලිස් ස්ථානාධිපති පොලිස් පරීක්ෂක සමන්ත රත්නායක මහතා අප කළ විමසීමේ සඳහන් කළේ පලාගිය එම සියලු රැඳවියන් මේ වනවිට කන්දකාඩු  පුනරුත්ථාපන මධ්‍යස්ථානයට බාර වී ඇති බවයි.
+Welikanda OIC Inspector Samantha Ratnayake said all the detainees fled to the Kandakadu Rehabilitation Center has been handed over to the Kandakadu Rehabilitation Center.
 
-...
+A police officer in charge of the area said that the inmates at the Kandakadu Rehabilitation Center were crying and conflicting the freedom of the day.
+
+A group of detainees of the Kundakadu Rehabilitation Center were arrested on January 12 and arrested the detainees.
+
+◼️
 
 [Data](articles/d088610f.json)
+
+[Extended Data](ext_articles/d088610f.ext.json)
 
 ---
 
@@ -418,21 +436,23 @@ According to the Sri Lanka Cricket, Sri Lanka Cricket announced that fast bowler
 
 ---
 
-### 2024 පාසල් වාරයේ පළමු අදියර 19දා සිට ඇරඹෙයි
+### 2024 The first phase of the school starts on the 19th
 
 *2024-02-04 12:27:06* · [`adalk`](https://www.ada.lk/breaking_news/2024-පාසල්-වාරයේ-පළමු-අදියර-19දා-සිට-ඇරඹෙයි/11-407889) · `si`
 
-රජයේ හා රජය අනුමත සියලු සිංහල හා දෙමළ මාධ්‍ය පාසල්වල  2023 පාසල් වර්ෂයේ තෙවන වාරයේ දෙවන අදියර හෙට (5)සිට ආරම්භ කෙරෙන බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+The second phase of the Third Phase 3 of the 2023 school year of the government and the government approved will commence tomorrow (5).
 
-ඉකුත් පළමුවෙනිදා මෙම අදියර ආරම්භ කිරීමට නියමිතව තිබුණද විභාගයට පෙර පිටවීම නිසා අවලංගු කළ  උසස් පෙළ කෘෂි විද්‍යාව ප්‍රශ්න පත්‍ර දෙක එදින යළි පැවැත්වීමට විභාග දෙපාර්තමේන්තුව කටයුතු  යොදා තිබූ හෙයින් එය 5 දා දක්වා කල් දැමීමට සිදුවූ බව අධ්‍යාපන අමාත්‍යාංශය සඳහන් කරයි.
+The phase of the stage was to be started on the first day, but it had to be postponed until the Department of Examinations had taken place on the two A / L students.
 
-5 දා ආරම්භ කෙරෙන මෙම දෙවන අදියර සියලු පාසල්වල පෙබරවාරි 16 දායින් අවසන් වන බවද අධ්‍යාපන අමාත්‍යාංශය පැවසීය .
+The second phase of this second phase will be completed on the 5 schools, the Ministry of Education said.
 
-එමෙන්ම  සියලු පාසල්වල 2024 පාසල් වර්ෂයේ පළමු වාරයේ පළමු අදියර පෙබරවාරි 19 දින සිට ආරම්භවන අතර එය සිංහල හා දෙමළ පාසල්වල අප්‍රේල්  10 දක්වාත් මුස්ලිම් පාසල්වල මාර්තු 7 දක්වාත්  පැවැත්වෙන බවද   අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+The first phase of the first stage of the year 2024 in all schools will commence from February 19, the Ministry of Education says that it will be held from February 19 and March 10 in Sinhala and Tamil schools.
 
 ◼️
 
 [Data](articles/f49bc427.json)
+
+[Extended Data](ext_articles/f49bc427.ext.json)
 
 ---
 

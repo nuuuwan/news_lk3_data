@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 14:02:29**
+As of **2024-02-04 14:17:24**
 
 ## Newspaper Stats
 
-*Scraped **4,699** Articles*
+*Scraped **4,700** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ virakesarilk | 523
 adaderanalk | 588
 adaderanasinhalalk | 593
 tamilmirrorlk | 598
-dailymirrorlk | 654
+dailymirrorlk | 655
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,697 (100.0%) of 4,699 articles have been extended.
+4,699 (100.0%) of 4,700 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### Biden will win South Carolina Democratic primary, earning first delegates of 2024
+
+*2024-02-04 13:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Biden-will-win-South-Carolina-Democratic-primary-earning-first-delegates-of-2024/108-276303) · `en`
+
+US, Feb 04 (CNN) - South Carolina, the state that launched Joe Biden to the Democratic nomination four years ago, will deliver the president his first official primary victory of the 2024 campaign on Saturday, CNN projects.
+
+In a result that was largely expected, Biden will defeat his two nearest challengers, Minnesota Rep. Dean Phillips and author Marianne Williamson, as he claims his first delegates in his quest to win his party’s nomination again. Biden won all 55 delegates at stake in the South Carolina primary.
+
+This year marks the first time South Carolina has appeared at the front of the official Democratic nominating calendar — a change made largely due to Biden’s urging.
+
+Biden, who was in Los Angeles for a fundraising event Saturday evening when his win was projected, said in a statement that South Carolina put him on a path toward victory.
+
+...
+
+[Data](articles/4f5ead1d.json)
+
+---
 
 ### 211 Army Officers, over 1,200 other ranks promoted on Independence Day
 
@@ -43,6 +61,8 @@ Accordingly, the promotions of the 211 Army Officers were as follows; 02 Brigadi
 ...
 
 [Data](articles/d2128f22.json)
+
+[Extended Data](ext_articles/d2128f22.ext.json)
 
 ---
 
@@ -59,6 +79,8 @@ State Minister Jayaratne further added that parallel to these measures, several 
 ◼️
 
 [Data](articles/94f49f77.json)
+
+[Extended Data](ext_articles/94f49f77.ext.json)
 
 ---
 
@@ -2011,33 +2033,5 @@ Meanwhile, the Opposition Leader warned that disciplinary action will be sought,
 [Data](articles/5b067a34.json)
 
 [Extended Data](ext_articles/5b067a34.ext.json)
-
----
-
-### Allegation launched in court
-
-*2024-02-03 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192935) · `si`
-
-Former Health Minister Keheliya Rambukwella remanded until February 15 (02), the Maligakanda Magistrate yesterday.
-
-Keheliya Rambukwella, who was remanded, was later admitted to the Prison Hospital.
-
-He has been accused of the case with regard to the questionable antibodies.
-
-Maligakanda Magistrate Luchanicanda Luchanika Abeywickrema begins
-
-Deputy Solicitor General Lakhahagi Girihagama informed the judiciary, questionable "humian
-
-Former suspect in the case of Emmoglobulin "Anthetic Vaccine Dosage case
-
-"Lord, today this suspect is presented to your judiciary today in the Public Adapted Act
-
-In terms of Article, the cash withdrawals in the Republic of Sri Lanka to support criminal false trick. "
-
-...
-
-[Data](articles/7874256b.json)
-
-[Extended Data](ext_articles/7874256b.ext.json)
 
 ---

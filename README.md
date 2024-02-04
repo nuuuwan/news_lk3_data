@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 06:18:48**
+As of **2024-02-04 06:56:42**
 
 ## Newspaper Stats
 
-*Scraped **4,616** Articles*
+*Scraped **4,624** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 55
 bbccomsinhala | 70
 dbsjeyarajcom | 135
-islandlk | 247
+islandlk | 254
 economynextcom | 254
 dailyftlk | 280
 newsfirstlk | 282
@@ -19,18 +19,50 @@ adalk | 399
 virakesarilk | 518
 adaderanasinhalalk | 572
 adaderanalk | 579
-tamilmirrorlk | 582
+tamilmirrorlk | 583
 dailymirrorlk | 643
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,609 (99.8%) of 4,616 articles have been extended.
+4,612 (99.7%) of 4,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### Historic Agreements strengthen ties between Sri Lanka and Thailand
+
+*2024-02-04 04:24:00* · [`islandlk`](http://island.lk/historic-agreements-strengthen-ties-between-sri-lanka-and-thailand/) · `en`
+
+In Sri Lanka’s pursuit of transforming into a high-income country by 2048 involving trade negotiations with countries like Thailand, the Sri Lanka Thailand Free Trade Agreement (SLTFTA), was signed, during the visit of Thai Prime Minister Srettha Thavisin and his delegation of business dignitaries today (03) at the Presidential Secretariat.
+
+This move aims to enhance market opportunities, with negotiations covering various aspects such as Trade in Goods, Investment, Customs Procedure, and Intellectual Property Rights.
+
+Minister of Trade, Commerce, and Food Security,  Nalin Fernando, represented Sri Lanka by signing the agreement, while  Phumtham Wechayachai, Deputy Prime Minister and Minister of Commerce, represented Thailand by signing the accord.
+
+...
+
+[Data](articles/7e64b262.json)
+
+---
+
+### இன்று 76 ஆவது சுதந்திர தினம் கொண்டாட்டம்
+
+*2024-02-04 03:52:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-76-ஆவது-சுதந்திர-தினம்-கொண்டாட்டம்/175-332607) · `ta`
+
+76 ஆவது சுதந்திர தின விழாவை இன்று காலி முகத்திடலில் நடத்துவதற்கான அனைத்து ஏற்பாடுகளும் முன்னெடுக்கப்பட்டுள்ளன.
+
+இம்முறை சுதந்திர தின விழாவை பல்வேறு கலை நிகழ்வுகள் அலங்கரிக்கவுள்ளன. முப்படைகளின் அணிவகுப்புகளும் கோலாகலமாக இடம்பெறவுள்ளன.
+
+மரியாதை அணிவகுப்பிப்பில் இராணுவத்தை பிரதிநிதித்துவப்படுத்தி 3 ஆயிரத்து 461 பேர் கலந்துகொள்ளவுள்ளனர். (a)
+
+◼️
+
+[Data](articles/5a5b2287.json)
+
+---
 
 ### We will work for Sri Lanka
 
@@ -358,6 +390,8 @@ None of these rumours have ever been established, and to this day remain as rumo
 
 [Data](articles/bc3599cd.json)
 
+[Extended Data](ext_articles/bc3599cd.ext.json)
+
 ---
 
 ### Pakistan ex-PM Imran Khan and wife jailed for 7 years for unlawful marriage
@@ -393,6 +427,8 @@ He spent his last years in an Elders’ Home well cared for by its professional 
 ...
 
 [Data](articles/be06d3d6.json)
+
+[Extended Data](ext_articles/be06d3d6.ext.json)
 
 ---
 
@@ -457,6 +493,8 @@ The great god of the Hindus is Lord Brahma and in ancient times the great book o
 ...
 
 [Data](articles/36d29e68.json)
+
+[Extended Data](ext_articles/36d29e68.ext.json)
 
 ---
 
@@ -1580,6 +1618,48 @@ The farmers produce that maize cultivation of about 180 acres of land.
 
 ---
 
+### Nailspa celebrates their 20th anniversary
+
+*2024-02-03 12:46:00* · [`islandlk`](http://island.lk/nailspa-celebrates-their-20th-anniversary/) · `en`
+
+NailSpa celebrated its 20th anniversary, as pioneers in the nail industry recently. Twenty years ago, Nilanthi Genevieve Weerasinghe, founded NailSpa (Pvt) Ltd., and pioneered the opening of the very first stand-alone professional nail salon in Sri Lanka. Specializing in hand & feet treatments, her nail salon focused on nail extensions and nail art, and soon evolved into offering its fast-growing clientele extensive hand and feet treatments.
+
+The gala event of 20th anniversary was held at Grand Raffles Residence on 11th December with a host of distinguished guests gracing the occasion.
+
+...
+
+[Data](articles/afb70e8d.json)
+
+---
+
+### SLT-MOBITEL Annual Report 2022 Secures Gold at TAGS Awards 2023
+
+*2024-02-03 12:33:00* · [`islandlk`](http://island.lk/slt-mobitel-annual-report-2022-secures-gold-at-tags-awards-2023/) · `en`
+
+Celebrated for remarkable excellence in corporate reporting the Sri Lanka Telecom’s (SLT) Annual Report 2022 was honoured with the prestigious Gold Award in the Telecommunications & Technology Sector at the TAGS (Transparency, Accountability, Governance and Sustainability) Awards 2023 ceremony held in Colombo recently.
+
+Janaka Abeysinghe, chief executive offer – SLT received the award and Sanjeewa Samaranayake, chief finance officer and Anuruddha Suriyarachhi, GM/Marketing services together with several other senior officials from SLT-MOBITEL who participated in the ceremony.
+
+...
+
+[Data](articles/6f1e4d9b.json)
+
+---
+
+### SLIC embarks on a new era: Legal segregation marks a historic milestone
+
+*2024-02-03 12:32:00* · [`islandlk`](http://island.lk/slic-embarks-on-a-new-era-legal-segregation-marks-a-historic-milestone/) · `en`
+
+Sri Lanka Insurance Corporation, the pioneering insurance giant with a rich history spanning over 60 years, has officially entered a new chapter with the legal segregation of its Life and General insurance businesses. This monumental decision, in compliance with the regulatory framework set by the Insurance Regulatory Commission of Sri Lanka (IRCSL), takes effect from Feb 1.
+
+A momentous event to mark this historic occasion was held at the Sri Lanka Insurance head office on Feb 1, following traditional Sri Lankan customs. At the ceremony, the Chairman of Sri Lanka Insurance President Counsel Ronald C Perera presented the business registrations to the Group CEO Chandana L Aluthgama, symbolizing the establishment of two distinct entities: Sri Lanka Insurance Corporation Life Limited and Sri Lanka Insurance Corporation General Limited.
+
+...
+
+[Data](articles/51364689.json)
+
+---
+
 ### Indian submarine ’Karanj’ arrives in Colombo
 
 *2024-02-03 12:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-submarine-Karanj-arrives-in-Colombo/108-276279) · `en`
@@ -1889,105 +1969,5 @@ A 43 -year -old man arrested by Poonakari Police is to be produced in court. Rem
 [Data](articles/54240f8c.json)
 
 [Extended Data](ext_articles/54240f8c.ext.json)
-
----
-
-### Yall. Tamil People's Alliance supports university student union struggle
-
-*2024-02-03 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175429) · `ta`
-
-The Tamil People's Alliance (TNA) has expressed its full support for the Jaffna University Students Union to declare the day of the day as a black day.
-
-This was stated in a press release sent to the media, Secretary General of the party and Member of Parliament KV Wigneswaran.
-
-According to the news, on February 4, 1948, under the scoring of a single government, the majority of the Sinhalese, the chauvinist policies of religion, language and ethnicity, left the majority of the Sinhalese, through the strength of the majority of the Sinhalese.
-
-After the authority was handed over to the Sinhalese majority. Sinhalese Buddhist chauvinist states, who have changed the ruling of Sri Lanka from the UK's shoemaism, have been suppressed by the Tamil people and thought about how to extort their traditional lands. The Sinhalese soldiers stood for it.
-
-...
-
-[Data](articles/974862ca.json)
-
-[Extended Data](ext_articles/974862ca.ext.json)
-
----
-
-### US strikes at militias in Iraq and Syria, retaliating for fatal drone attack
-
-*2024-02-03 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/96965/us-strikes-at-militias-in-iraq-and-syria-retaliating-for-fatal-drone-attack) · `en`
-
-The U.S. military launched an air assault on dozens of sites in Iraq and Syria used by Iranian-backed militias and the Iranian Revolutionary Guard Friday, in the opening salvo of retaliation for the drone strike that killed three U.S. troops in Jordan last weekend.
-
-The massive barrage of strikes hit more than 85 targets at seven locations, including command and control headquarters, intelligence centers, rockets and missiles, drone and ammunition storage sites and other facilities that were connected to the militias or the IRGC’s Quds Force, the Guard’s expeditionary unit that handles Tehran’s relationship with and arming of regional militias. And President Joe Biden made it clear in a statement that there will be more to come.
-
-The U.S. strikes appeared to stop short of directly targeting Iran or senior leaders of the Revolutionary Guard Quds Force within its borders, as the U.S. tries to prevent the conflict from escalating even further. Iran has denied it was behind the Jordan attack.
-
-...
-
-[Data](articles/acf644ad.json)
-
-[Extended Data](ext_articles/acf644ad.ext.json)
-
----
-
-### Test Competition begins
-
-*2024-02-03 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192916) · `si`
-
-The second day of the Test match between Sri Lanka and Afghanistan commenced today (03).
-
-The Afghan group scored 198 runs for the loss of 198, while the Sri Lankan team concluded 80 runs.
-
-◼️
-
-[Data](articles/17693b46.json)
-
-[Extended Data](ext_articles/17693b46.ext.json)
-
----
-
-### Murder of Matugama
-
-*2024-02-03 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192915) · `si`
-
-The Matugama Police say that a person has been murdered at a sharp weapons.
-
-The victim is a 38 year old, who was living in Ovitigala area in Matugama, Matugama.
-
-A group of unidentified persons came and had taken place this morning, reports say he had died in admission to the Nagoda Teaching Hospital with serious injuries.
-
-The Matugama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/e13bd2f7.json)
-
-[Extended Data](ext_articles/e13bd2f7.ext.json)
-
----
-
-### Carl Weathers dies aged 76
-
-*2024-02-03 09:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Carl-Weathers-dies-aged-76/108-276275) · `en`
-
-Feb 3 (BBC) - US actor Carl Weathers has died at the age of 76, according to his family.
-
-Weathers, who starred as Apollo Creed in the first four Rocky films, "died peacefully in his sleep", according to a statement released by his family.
-
-His other film credits include Predator, with Arnold Schwarzenegger, and Adam Sandler's Happy Gilmore.
-
-Weathers, who began his career as an NFL linebacker, "was an exceptional human being who lived an extraordinary life", his family's statement added.
-
-"Through his contributions to film, television, the arts and sports, he has left an indelible mark and is recognized worldwide and across generations," said the family.
-
-"He was a beloved brother, father, grandfather, partner, and friend."
-
-The athlete-turned-actor was comfortable starring in action and comedy, in appearances ranging from Arrested Development to The Mandalorian, where he featured in all three seasons of the Disney+ hit series.
-
-...
-
-[Data](articles/87bdc46b.json)
-
-[Extended Data](ext_articles/87bdc46b.ext.json)
 
 ---

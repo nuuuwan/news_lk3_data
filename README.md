@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 00:02:24**
+As of **2024-02-05 00:17:20**
 
 ## Newspaper Stats
 
-*Scraped **4,788** Articles*
+*Scraped **4,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 254
 economynextcom | 257
 dailyftlk | 280
 newsfirstlk | 288
-adalk | 413
+adalk | 414
 virakesarilk | 546
 adaderanalk | 599
 tamilmirrorlk | 606
@@ -26,25 +26,43 @@ dailymirrorlk | 671
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,783 (99.9%) of 4,788 articles have been extended.
+4,788 (100.0%) of 4,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
 
-### මර්වින් මිනී පෙට්ටියක් අරගෙන කනත්තක විරෝධයේ
+### Mervyn took a coffin and objections to a cemetery
 
 *2024-02-04 23:28:42* · [`adalk`](https://www.ada.lk/breaking_news/මර්වින්-මිනී-පෙට්ටියක්-අරගෙන-කනත්තක-විරෝධයේ/11-407895) · `si`
 
-මාර්ග ගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනතට විරෝධය පළ කරමින් හිටපු අමාත්‍ය මර්වින් සිල්වා මහතා ඇතුළු පිරිසක් අද (4)  මෘත දේහයක් රැගෙන යන අයුරින්  බොරැල්ල කනත්තට ඇතුළු වී විරෝධතාවයක් පැවැත්වූහ.
+Former minister Mervyn Silva and a group of former Minister Mervyn Silva and a group of former Minister Mervyn Silva were taken to carry out a disorder to the security of the road.
 
-සමාජ මාධ්‍යයේ මරණය භූමිදානය කිරීම නමින් විරෝධතාවය පැවැත්විණි.  හිටපු අමාත්‍යවරයාව ප්‍රමුඛ පිරිස     කනත්තට ඇතුළු වන අවස්ථාවේදී කනත්තේ ආරක්ෂක නිලධාරීන් ඊට එරෙහිව සිය විරෝධය දැක්වූ  අතර එහිදී තරමක උණුසුම් තත්ත්වයක් ඇති විය.
+The protest was held by the burial of the death of social media.At the time of the former minister, the guard in the ceremony had objected against the cemetery, where there was a tense situation.
 
-නමුත් හිටපු අමාත්‍යවරයා ප්‍රමුඛ පිරිස එම විරෝධතාවය නොතකා කනත්තට ඇතුළු වි සිය විරෝධතාවය  පැවැත්වූහ.
+However, former Minister, led by the premises, held the protest and entered the cemetery.
 
 ◼️
 
 [Data](articles/834b42a1.json)
+
+[Extended Data](ext_articles/834b42a1.ext.json)
+
+---
+
+### කන්දකාඩුවේ ගැටුමක් රැඳවියන් 10කා හමුදා සෙබලෙක් තුවාල ලබයි
+
+*2024-02-04 23:15:13* · [`adalk`](https://www.ada.lk/breaking_news/කන්දකාඩුවේ-ගැටුමක්-රැඳවියන්-10කා-හමුදා-සෙබලෙක්-තුවාල-ලබයි/11-407894) · `si`
+
+පොළොන්නරුව කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ 04 වෙනිදා සවස හයට පමණක්ම රැඳවියන්    දෙපිරිසක් අතර ඇතිවූ ගැටුමකින් රඳවියන් දහදෙනෙකු සහ හමුදා සෙබලෙකු තුවාල ලබා වැලිකන්ද     රෝහලේ ප්‍රතිකාර ලබන බව වැලිකන්ද පොලිසිය කියයි.
+
+මෙම ගැටුමට හේතු මෙතෙක් අනාවරණය වී නොමැති අතර රැඳවියන් විසින් කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ මුළුතැන්ගෙයි සහ තවත් ස්ථාන කිහිපයක දේපළවලට අලාභ හානී කර ඇති බවද පොලිසිය සඳහන් කරයි.
+
+කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ දේපළ අලාභ හානි කිරීමට සම්බන්ධ යොදා  යකඩ පොලු සහ මුගුරු  මෙන්ම ගැටුමක් ඇතිකර ගැනීමට යොදාගත් බව කියන පොලු මුගුරු සහ තවත් මත්ද්‍රව්‍ය තොගයක් පොලිස් භාරයට ගෙන ඇති බවද වැලිකන්ද පොලිසිය සඳහන් කරයි.
+
+...
+
+[Data](articles/4f300e3e.json)
 
 ---
 
@@ -86,17 +104,19 @@ The ceremonial opening included the traditional Sri Lankan gesture of offering b
 
 ---
 
-### கந்தகாடு புனர்வாழ்வு நிலையத்தில் பதற்றம்
+### Tension at Kandagadu rehabilitation station
 
 *2024-02-04 22:22:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கந்தகாடு-புனர்வாழ்வு-நிலையத்தில்-பதற்றம்/175-332670) · `ta`
 
-பொலன்னறுவை கந்தகாடு புனர்வாழ்வு நிலையத்தில் இன்று மாலை இரு குழுக்களுக்கிடையில் இடம்பெற்ற மோதலில் பத்து கைதிகளும் ஒரு இராணுவ சிப்பாயும் காயமடைந்துள்ளனர்.
+Ten prisoners and an army soldier were injured in a clash between two groups this evening at the Kandagadu rehabilitation center in Polonnaruwa.
 
-மோதலுக்கான காரணம் இதுவரை தெரியவரவில்லை எனவும், கந்தகாடு புனர்வாழ்வு நிலையத்தின் சமையல் அறைகள் மற்றும் பல இடங்களில் கைதிகள் சேதம் விளைவித்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+Police said the cause of the conflict was unknown and the kitchen at the Kandagadu rehabilitation station and the prisoners had been damaged in many places.
 
 ◼️
 
 [Data](articles/020059c4.json)
+
+[Extended Data](ext_articles/020059c4.ext.json)
 
 ---
 
@@ -135,6 +155,8 @@ The Cardinal accused the government of self-serving agendas and prioritizing per
 ...
 
 [Data](articles/3b985b5f.json)
+
+[Extended Data](ext_articles/3b985b5f.ext.json)
 
 ---
 
@@ -564,6 +586,8 @@ People of the ASEAN region can travel within the countries without visa. Most ai
 
 [Data](articles/c9e72be3.json)
 
+[Extended Data](ext_articles/c9e72be3.ext.json)
+
 ---
 
 ### President retires to death in Namibia
@@ -760,19 +784,23 @@ However, there have been no lives or property damage.
 
 ---
 
-### පාන් ගෙඩියට හොර කරන අයට හෙට සිට වැඩ වරදියි
+### Those who make bread is worried tomorrow
 
 *2024-02-04 17:36:11* · [`adalk`](https://www.ada.lk/breaking_news/පාන්-ගෙඩියට-හොර-කරන-අයට-හෙට-සිට-වැඩ-වරදියි/11-407893) · `si`
 
-පාන් ගෙඩියක නියමිත බර නොමැතිනම් හා මිල ප්‍රදර්ශණය නොකරන වෙළද සල් ( 05) වන සදදා දින සිට වටලමින්  අවශ්‍ය නීතිමය පියවර ගන්නා බව වෙළද පාරිභෝගික හා ආහාර සුරක්ෂිත අමාත්‍ය නලීන් ප්‍රනාන්දු මහතා පවසයි. නලීන් ප්‍රනාන්දු මහතා එලෙස පැවසුවේ ජාඇල දඩුගම ඒ මහතාගේ කාර්යාලයේ මාධ්‍ය හමුවක් පවත්වමිනි.
+Trade consumers and Food Samaradem Nalin Fernando says that the necessary legal action will be taken from the lack of burden on a bread and the non-exhibition shops.. Nalin Fernando said that a media briefing at the office of Daddugama.
 
-වෙළද පාරිභෝගික හා ආහාර සුරක්ෂතා අමාත්‍ය වරයා මෙහිදී වැඩිදුරටත් පවසා සිටියේ වසර 60-70ක් පැරණි පාන් සම්බන්ධව පනතේ තිබු අඩුපාඩුකම් හා ගැටළු විසදා ගැනීමෙන් පසු පනත ක්‍රියාත්මක කිරීමට අවශ්‍ය ගැසට්ටුව නිකුත් කළ බවයි.
+The Minister of Trade and Protection and the Minister said that the gazette required to implement the bill was issued to the implementation of the bill after being solved 60-70 years old.
 
-ඒ අනුව පාන් ගෙඩියක බර ග්‍රෑම් 450 ක් විය යුතුය  පාන් භාගයක බර ග්‍රෑම් 225ක් විය යුතුය. එලෙසම පාන් වල මිල ප්‍රදර්ශණය කිරීමද අනිවාර්ය වේ. පාන් වලට වටිනාකම් එකතු කරමින් සැන්විච් හා වෙනත් නම් යොදාගෙන අලවි කලද නියමිත පාන් රාත්තල කුමක්ද යන්න පාරිභෝගිකයා , වෙළෙන්දා සේම අදාල නිලධාරීන්ද දන්නා බැවින් සදුදා දින සිට වැටලීම් කිරීම ගැටළුවක් නොවන බවද වෙළද පාරිභෝගික හා ආහාර සුරක්ෂතා අමාත්‍ය වරයා පවසා සිටියේය.
+Accordingly, 450 grams of bread must be 450g of bread to be 225g of weight. Similarly, the price of bread is also compulsory. Minister of Customer and Protecting Minister said that the customer and other officials were not concerned with the applicable bread and other names to be used by the bread.
 
-...
+The Minister said that the necessary legal action will be taken to ensure the weight and expenditure of the bread.
+
+◼️
 
 [Data](articles/ffef0610.json)
+
+[Extended Data](ext_articles/ffef0610.ext.json)
 
 ---
 
@@ -1905,25 +1933,5 @@ Egen vegetables at Keppetipola Special Economic Center Cragx carrots- 550 - 600 
 [Data](articles/96cb9550.json)
 
 [Extended Data](ext_articles/96cb9550.ext.json)
-
----
-
-### Tension in Kilinochchi
-
-*2024-02-04 12:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கிளிநொச்சியில்-பதற்றம்/72-332625) · `ta`
-
-Police are ready to prevent the protest in Kilinochchi on Sunday (04), the 76th Independence Day. As a result, there has been some kind of tense situation in Kilinochchi,
-
-The police were prepared to prevent the protest in Kilinochchi today (04) in protest of Sri Lanka's 76th Independence Day.
-
-Yall. A protest has been organized in Kilinochchi in the arrangement of the University Student Union.
-
-The police had received a ban on five persons who were carrying out the struggle to curb the struggle.In addition, the police were prepared with a large number of police and a reservoir vehicle.
-
-◼️
-
-[Data](articles/b8c536ba.json)
-
-[Extended Data](ext_articles/b8c536ba.ext.json)
 
 ---

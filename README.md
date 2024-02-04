@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 23:02:31**
+As of **2024-02-04 23:17:20**
 
 ## Newspaper Stats
 
-*Scraped **4,778** Articles*
+*Scraped **4,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,66 @@ adalk | 411
 virakesarilk | 546
 adaderanalk | 598
 tamilmirrorlk | 605
-adaderanasinhalalk | 609
-dailymirrorlk | 668
+adaderanasinhalalk | 610
+dailymirrorlk | 671
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,778 (100.0%) of 4,778 articles have been extended.
+4,778 (99.9%) of 4,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### ජීවයේ පැවැත්මට හිතකර අලුත් ග්‍රහලෝකයක්
+
+*2024-02-04 22:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192979) · `si`
+
+අමෙරිකාවේ නාසා ආයතනය විසින් ජීවයේ පැවැත්මට හිතකර පරිසරයක් සහිත නව ග්‍රහලෝකයක් "super-Earth" පිළිබඳව සිදුකරන ලද පර්යේෂණ වාර්තා එළිදක්වා තිබේ.
+
+මෙම නව ග්‍රහලෝකය "TOI-715 b"  ලෙස නම් කර ඇති අතර එය පෘථිවියට ආලෝක වර්ෂ 137 ක් දුරින් පිහිටා ඇති බව නාසා ආයතනය උපුටා දක්වමින් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+මෙය රතු පැහැති කුඩා තාරකාවක් වටා පරිභ්‍රමණය වන බවත් ඒ සඳහා දින 19ක්  වැනි කාලයක් ගත වන බවත් එම වාර්තාවල සඳහන්ව තිබේ.
+
+විශාලත්වය පෘථිවිය මෙන් එකහමාරක පමණ ප්‍රමාණයක් වන මෙම ග්‍රහලෝකය සම්බන්ධයෙන් නාසා ආයතනය වැඩිදුරටත් පරීක්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/1cbbaa9b.json)
+
+---
+
+### Sri Lankan High Commission in Kenya celebrates Independence Day
+
+*2024-02-04 22:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-High-Commission-in-Kenya-celebrates-Independence-Day/108-276316) · `en`
+
+Kenya, Feb. 04 (Dail.y Mirror)- The Sri Lankan High Commission in Kenya organised an event to commemorate Sri Lanka's 76th Independence Day, attended by Cabinet Ministers of Kenya, the TRI forces Chief of Kenya, and other distinguished guests.
+
+Around 350 distinguished guests, including Deputy Governor of Nairobi City  Njoroge Muchiri, Ambassadors, UN officials, business leaders, and members of the Sri Lankan community residing in Kenya attended the event.
+
+The ceremonial opening included the traditional Sri Lankan gesture of offering beetle leaves and Independence Day commemorative shawls to the guests. High Commissioner Kana  Kananathan then hoisted the national flag, accompanied by the Kenyan Police Band playing the Sri Lankan national anthem.
+
+...
+
+[Data](articles/d26aac8a.json)
+
+---
+
+### Tense situation in Kandakadu Rehabilitation Centre
+
+*2024-02-04 21:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tense-situation-in-Kandakadu-Rehabilitation-Centre/108-276315) · `en`
+
+Polonnaruwa, Feb 04 ( Daily Mirror) - At least ten inmates and a soldier were injured in a clash between two groups of inmates at the Kandakadu Rehabilitation Centre in Polonnaruwa this evening.
+
+Police said the cause of the conflict has not been revealed yet and the inmates have damaged the kitchens of the Kandakadu Rehabilitation Centre and several other places.
+
+◼️
+
+[Data](articles/63f21d46.json)
+
+---
 
 ### Several inmates and soldier injured in clash at Kandakadu camp
 
@@ -249,6 +297,18 @@ Parliamentarian Vijitha Herath,  NPP Secretary Dr. Nihal Abeysinghe and Nationa
 [Data](articles/8b74e5de.json)
 
 [Extended Data](ext_articles/8b74e5de.ext.json)
+
+---
+
+### Protest against Online Safety Act...
+
+*2024-02-04 18:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protest-against-Online-Safety-Act/110-276309) · `en`
+
+Former Minister Mervyn Silva and a group entered the Borella cemetery and held a protest against the Online Safety Act.
+
+◼️
+
+[Data](articles/1f52f171.json)
 
 ---
 
@@ -1891,91 +1951,5 @@ The match will be held with Hong Kong, a Major League football club.
 [Data](articles/501bab7e.json)
 
 [Extended Data](ext_articles/501bab7e.ext.json)
-
----
-
-### A program to minimize congestion in prisons
-
-*2024-02-04 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192956) · `si`
-
-State Minister of Justice Anuradha Jayaratne says that today is the guilty of civil mistakes to reduce the congestion in prisons.
-
-He emphasized the laws from the legal draft sector after the report of the committee appointed to prepare the rules.
-
-He added that with the implementation of this program several statutes have to be amended.
-
-◼️
-
-[Data](articles/4366024d.json)
-
-[Extended Data](ext_articles/4366024d.ext.json)
-
----
-
-### US, Britain wage strikes against Iran-linked Houthis in Yemen
-
-*2024-02-04 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96989/us-britain-wage-strikes-against-iran-linked-houthis-in-yemen) · `en`
-
-The United States and Britain launched strikes against 36 Houthi targets in Yemen on Saturday, in the second day of major U.S. operations against Iran-linked groups following a deadly attack on American troops last weekend.
-
-The strikes hit buried weapons storage facilities, missile systems, launchers and other capabilities the Houthis have used to attack Red Sea shipping, the Pentagon said, adding it targeted 13 locations across the country.
-
-It was the latest sign of spreading conflict in the Middle East since war erupted between Israel and Hamas after the militant Palestinian group’s deadly assault on Israel on Oct.7.
-
-“This collective action sends a clear message to the Houthis that they will continue to bear further consequences if they do not end their illegal attacks on international shipping and naval vessels,” U.S. Defense Secretary Lloyd Austin said.
-
-Houthi military spokesperson Yahya Sarea said the U.S. strikes “will not pass without a response and consequences.”
-
-...
-
-[Data](articles/96a56130.json)
-
-[Extended Data](ext_articles/96a56130.ext.json)
-
----
-
-### Police sent back those who went to the demonstration
-
-*2024-02-04 11:13:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ஆர்ப்பாட்டத்துக்குச்-சென்றவர்களை-திருப்பி-அனுப்பிய-பொலிஸார்/73-332622) · `ta`
-
-Those who went from Trincomalee have been sent back by the police and security forces to attend a protest march organized by the missing association in Batticaloa district today (04).
-
-It is reported that the police and security forces who were on the buses on a bus were asked by the security forces and the security forces, who were then unloaded from the bus and subjected to the bus.
-
-In addition, the police have received all the details and the driver of the bus and the conductor's documents have been seized by the police.
-
-It is reported that if not returned, the case will be filed and that the photographs have bought the phone and destroyed everything and re -provided it.
-
-After a long argument, the bus was sent back to Trincomalee.
-
-The missing union members of the Trincomalee District and the victims were traveling on the bus to attend the event.. It is noteworthy that 43 women and 10 men.
-
-◼️
-
-[Data](articles/b1e944d4.json)
-
-[Extended Data](ext_articles/b1e944d4.ext.json)
-
----
-
-### 660 more arrests in the country
-
-*2024-02-04 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175503) · `ta`
-
-660 suspects have been arrested in the 24 hours after the 'Yuktiya' operation of the nationwide nationwide -eradicated 'strategy'.
-
-552 of them have been arrested on drug charges. One has been sent to the rehabilitation center.
-
-In addition, 108 of the detainees are on the list of those who are searching for some other criminal cases by the police.
-
-In addition, three persons have been arrested on the list of the suspects registered in the Special Bureau of Police and the Special Bureau of Police, police said.
-
-In addition, the police have seized 152 grams of heroin, 134 grams of ice, 4 kg 150 g of cannabis, 775 cannabis and 192,826 pills from these suspects.
-
-◼️
-
-[Data](articles/e3c6a41f.json)
-
-[Extended Data](ext_articles/e3c6a41f.ext.json)
 
 ---

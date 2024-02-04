@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 02:02:39**
+As of **2024-02-05 02:17:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,792 (99.9%) of 4,797 articles have been extended.
+4,797 (100.0%) of 4,797 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The gruesome killing of five individuals including the leader of a registered po
 
 [Data](articles/67a83182.json)
 
+[Extended Data](ext_articles/67a83182.ext.json)
+
 ---
 
 ### Independence and Self-Sufficiency: Co-operation in Times of Crisis
@@ -57,6 +59,8 @@ For close to a decade and a half I have been studying co-operatives, particularl
 ...
 
 [Data](articles/74345147.json)
+
+[Extended Data](ext_articles/74345147.ext.json)
 
 ---
 
@@ -74,6 +78,8 @@ The 76th ‘February 4th’ has passed, marked by four days of aerobatics, consu
 
 [Data](articles/4189eb2d.json)
 
+[Extended Data](ext_articles/4189eb2d.ext.json)
+
 ---
 
 ### Will ITAK New Chief, Sritharan put the Tamil Movement on a Radical Path?
@@ -90,6 +96,8 @@ After the election of Sritharan by the party’s General Council in a secret bal
 
 [Data](articles/558bae56.json)
 
+[Extended Data](ext_articles/558bae56.ext.json)
+
 ---
 
 ### Dialog Television celebrates Independence weekend by offering access to the full bouquet of channels without any additional charge
@@ -103,6 +111,8 @@ Dialog Television customers will also be delighted to know that the offer is jus
 ...
 
 [Data](articles/d2e0e781.json)
+
+[Extended Data](ext_articles/d2e0e781.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 20:17:14**
+As of **2024-02-04 20:32:51**
 
 ## Newspaper Stats
 
-*Scraped **4,765** Articles*
+*Scraped **4,766** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 287
 adalk | 411
 virakesarilk | 546
 adaderanalk | 595
-tamilmirrorlk | 604
+tamilmirrorlk | 605
 adaderanasinhalalk | 607
 dailymirrorlk | 663
 
@@ -26,11 +26,29 @@ dailymirrorlk | 663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,765 (100.0%) of 4,765 articles have been extended.
+4,765 (100.0%) of 4,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### ஆவா குழுவின் தலைவர் கைது
+
+*2024-02-04 19:43:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆவா-குழுவின்-தலைவர்-கைது/175-332656) · `ta`
+
+யாழ்ப்பாணத்தில் 'ஆவா' குழுவின் தலைவர் என சந்தேகிக்கப்படும் நபரை வலான ஊழல் ஒழிப்புப் பிரிவினர் கைது செய்துள்ளனர்.
+
+கல்கிஸ்ஸை யசோரபுர பகுதியில் உள்ள இரண்டு மாடி வீடொன்றின் மேல் மாடியில் தங்கியிருந்த போதே குறித்த சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+இவர் வெளிநாட்டிற்கு தப்பிச் செல்லும் நோக்கில் இவ்வாறு கல்கிஸ்ஸை பகுதியில் தங்கியிருந்திருக்கலாம் என சந்தேகிக்கப்படுவதாக பொலிஸார் மேலும் தெரிவிக்கின்றனர்.
+
+ஐஸ் போதைப்பொருள் பாவனைக்கு அதிகளவில் அடிமையாகியுள்ள நிலையில், கைது செய்யப்படும் போதும் அவரிடம் இருந்து 1 கிராம் 300 மில்லி கிராம் ஐஸ் போதைப்பொருளும் கைப்பற்றப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/acc0bda2.json)
+
+---
 
 ### Mervyn takes a coffin to Borella cemetery
 
@@ -1963,25 +1981,5 @@ If used to spread false messages and create political instability, the laws in t
 [Data](articles/759b2585.json)
 
 [Extended Data](ext_articles/759b2585.ext.json)
-
----
-
-### 20 killed in Ukraine at Ukraine
-
-*2024-02-04 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192953) · `si`
-
-Twenty people were killed in attacks on the East of Ukraine, Russia.
-
-It is reported that the Ukrainian shells were attacked to the Lynian town of Ukraine.
-
-About 10 people were injured and rescued operations were further implemented.
-
-Moscow army has added that the attack has been launched targeting a baker at Kiev.
-
-◼️
-
-[Data](articles/5e28b1ce.json)
-
-[Extended Data](ext_articles/5e28b1ce.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 11:17:20**
+As of **2024-02-04 11:32:53**
 
 ## Newspaper Stats
 
-*Scraped **4,664** Articles*
+*Scraped **4,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 286
 adalk | 402
 virakesarilk | 521
 adaderanalk | 584
-adaderanasinhalalk | 584
+adaderanasinhalalk | 586
 tamilmirrorlk | 590
 dailymirrorlk | 648
 
@@ -26,45 +26,75 @@ dailymirrorlk | 648
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,658 (99.9%) of 4,664 articles have been extended.
+4,664 (100.0%) of 4,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
 
-### බාල බෙහෙත් වංචාවට යුක්තිය ඉටුවේවි කිය සිතනවා
+### තවත් සැකකරුවන් 660 දෙනෙකු අත්අඩංගුවට
+
+*2024-02-04 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192954) · `si`
+
+යුක්තිය මෙහෙයුම යටතේ අද (04) අලුයම 12.30න් අවසන් වූ පැය 24 තුළ දිවයින පුරා සිදු කළ මෙහෙයුම්වල දී සැකකරුවන් 660 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මත්ද්‍රව්‍ය වැරදි සම්බන්ධයෙන් සැකකරුවන් 552 දෙනෙකු සහ අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ සිටි සැකකරුවන් 108 දෙනෙකු මෙහි දී අත්අඩංගුවට ගෙන ඇති බව මහජන ආරක්ෂක අමාත්‍යාංශය පැවසුවේය.
+
+මෙහෙයුම්වල දී හෙරොයින් ග්‍රෑම් 152ක්, අයිස් ග්‍රෑම් 134ක් ඇතුළු මත්ද්‍රව්‍ය එහි දී ආරක්ෂක අංශ භාරයට ගෙන තිබේ.
+
+මත්ද්‍රව්‍ය වැරදි සම්බන්ධ අත්අඩංගුවට ගත් සැකකරුවන් 552 දෙනා අතරින් මත්ද්‍රව්‍යවලට ඇබ්බැහි වූවන් 01ක් පුනරුත්ථාපනය සඳහා යොමු කර ඇත.
+
+පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය සහ පොලිස් විශේෂ කාර්යාංශ ලැයිස්තුවේ සිටි සැකකරුවන් 03ක් ද අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ, අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ අත්අඩංගුවට ගත් සැකකරුවන් 108 දෙනා අතරින් මත්ද්‍රව්‍ය වැරදි සම්බන්ධ ව විවෘත වරෙන්තු නිකුත්ව සිටි සැකකරුවන් 08ක් සහ මත්ද්‍රව්‍ය නොවන වැරදි සම්බන්ධව විවෘත වරෙන්තුකරුවන් 95ක් ද සිටින බව ය.
+
+...
+
+[Data](articles/edff3be5.json)
+
+---
+
+### Imagine justice for younger medicine fraud
 
 *2024-02-04 10:50:13* · [`adalk`](https://www.ada.lk/breaking_news/බාල-බෙහෙත්-වංචාවට-යුක්තිය-ඉටුවේවි-කිය-සිතනවා/11-407884) · `si`
 
-සෞඛ්‍ය ක්ෂේත්‍රයේ සිදුවූ දැවැන්ත වංචා නිසා හිටපු සෞඛ්‍ය ඇමතිවරයා අත්අඩංගුවට ගෙන රිමාන්ඩ් කර ඇති අතර මේ ක්‍රමවේදය තුළ යුක්තිය සාධාරණත්වය ඉටු වේ කියා අපේක්ෂාවෙන් සිටින බවත් විපක්ෂ නායකවරයා පැවසීය.
+The Opposition Leader said that the former Health Minister arrested and remanded due to massive frauds in the health sector and remanded in this methodology.
 
-බියුපි වැකේන්, හියුමන් ඉමියුනෝ ග්ලොබියුලින් වැනි ඖෂධ ගුණාත්මකභාවයෙන් ඉහළ බෙහෙත් වෙනුවට බාල බෙහෙත් ලබා දීම නිසා නුවරඑළිය දිස්ත්‍රික්කයේ 20කට අධික පිරිසක් අන්ධ වී ඇති බවත් බංකොලොත් රටේ මේ කළ ක්‍රියාවන් සාපරාධි මංකොල්ලකෑම් ලෙස දකින බවත් මේ මංකොල්ලකෑම්වලට සමගි ජන බලවේග රජයක් තුළ ඉඩක් නොමැති බවත් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+Leader of the Opposition Sajith Premadasa has been blinded due to favorable medicine in the bankruptcy in the bankruptcy in bankruptcyHe said.
 
-විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා මේ බව කියා සිටියේ (3) සක්වල තොරතුරු තාක්ෂණ වැඩසටහනේ 81 වැනි අදියර යටතේ ගාල්ල ගිංතොට මහා විද්‍යාලයට රුපියල් ලක්ෂ 10ක් වටිනා සුහුරු පන්ති කාමර උපකරණ ලබා දීමේ අවස්ථාවට එක්වෙමිනි.
+Opposition Leader Sajith Premadasa made this observation at a ceremony of Gintota Maha Vidyalaya in Galle under the 81st Phase of the Sakwa IT Program.
 
 ◼️
 
 [Data](articles/a93d6904.json)
 
+[Extended Data](ext_articles/a93d6904.ext.json)
+
 ---
 
-### பொது மக்களின் ஆர்ப்பாட்டங்கள் எதிர்ப்புகளை பயங்கரவாதம் என முத்திரைகுத்தி அடிப்படை உரிமைகளை நசுக்குவதற்கு உத்தேச பயங்கரவாத எதிர்ப்பு சட்டமூலம் பயன்படுத்தப்படலாம் - நீதிமன்றில் சாலியபீரிஸ்
+### The proposed anti -terrorism bill may be used to brainize public protests as terrorism - Saliaberis in court
 
 *2024-02-04 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/175501) · `ta`
 
-உத்தேச பயங்கரவாத எதிர்ப்பு சட்டமூலம்மக்களின் அடிப்படை உரிமைகளை மீறுகின்றது என சட்டத்தரணிகள் வாதிட்டுள்ளனர்
+Attorneys have argued that the proposed anti -terrorism bill violates the fundamental rights
 
-உத்தேச பயங்கரவாத எதிர்ப்பு சட்டமூலத்திற்கு எதிரான மனுக்கள் மீதான விசாரணையின்போதே அவர்கள் இதனை தெரிவித்துள்ளனர்.
+They said this while hearing on petitions against the proposed anti -terrorism bill.
 
-மக்களின் ஆர்ப்பாட்டங்கள் எதிர்ப்புகள் உட்பட அரசாங்கத்தின் கொள்கையுடன் உடன்படமறுக்கும் மக்களின் நடவடிக்கைகளை  பயங்கரவாதம் என முத்திரைகுத்தி மக்கள் அடிப்படை உரிமைகளை நசுக்குவதற்கு உத்தேச பயங்கரவாத எதிர்ப்பு சட்டத்தில் உள்ள  ஏற்பாடுகளை பயன்படுத்த முடியும் என சட்டத்தரணிகள் சுட்டிக்காட்டியுள்ளனர்.
+Attorneys have pointed out that the proposed anti -terrorism law can be used to brush people's actions as terrorism as terrorism, including the government's policy, including protests and protests.
 
-பயங்கரவாத எதிர்ப்பு சட்டமூலத்திற்கு எதிரான மனுக்கள் மீதான விசாரணை வெள்ளிக்கிழமை முடிவடைந்துள்ளது – நீதிமன்றம் தனது முடிவை சபாநாயகருக்கு அனுப்பிவைக்கவுள்ளது.
+The hearing on petitions against the Anti -Terrorism Bill ends on Friday - the court will send its decision to the Speaker.
 
-உயர்நீதிமன்றத்தின் ஐந்து நீதிபதிகள் அடங்கிய குழு இந்த வாரம் மனுக்கள் மீதான விவாதங்களை செவிமடுத்தது.
+A group of five judges of the Supreme Court listened to the debate on the petitions this week.
+
+Attorney -at -Law Saliyaberis, who appeared on behalf of the President of the Sri Lanka Lawyers Association, said that the definition of terrorism is widespread.
+
+Pointing out how security and politicians abused Sri Lanka's security laws in the past, he said that the possibility of abuse of the new Bill was real.
 
 ...
 
 [Data](articles/0f2769ec.json)
+
+[Extended Data](ext_articles/0f2769ec.ext.json)
 
 ---
 
@@ -83,6 +113,26 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 ◼️
 
 [Data](articles/b5c5adce.json)
+
+[Extended Data](ext_articles/b5c5adce.ext.json)
+
+---
+
+### යුක්‍රේනයට එල්ල වූ ප්‍රහාරයකින් 20 දෙනෙකු මරුට
+
+*2024-02-04 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192953) · `si`
+
+යුක්‍රේනයේ නැගෙනහිර ප්‍රදේශයට එල්ල කළ ප්‍රහාරවලින් පුද්ගලයින් 20 දෙනෙකු මිය ගොස් ඇති බව රුසියාව පවසයි.
+
+යුක්‍රේනයේ ලයිසිචෑන්ස්ක් නගරයට මෙම යුක්‍රේන ෂෙල් වෙඩි ප්‍රහාර එල්ල වී ඇති බවයි වාර්තා වේ.
+
+ප්‍රහාරවලින් පුද්ගලයින් 10 දෙනෙකු පමණ තුවාල ලබා ඇති අතර, ගලවාගැනීමේ මෙහෙයුම් තවදුරටත් ක්‍රියාත්මක බව සඳහන් ය.
+
+කියෙව්හි බේකරියක් ඉලක්ක කර ගනිමින් එම ප්‍රහාරය එල්ල කර ඇති බව මොස්කව් හමුදා වැඩිදුරටත් සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/5e28b1ce.json)
 
 ---
 
@@ -314,6 +364,8 @@ Achievements were realized progressively, owing to the steadfast support of our 
 
 [Data](articles/22bfa52b.json)
 
+[Extended Data](ext_articles/22bfa52b.ext.json)
+
 ---
 
 ### 76th Independence Day will be marked as a new turning point in Sri Lanka’s economy - PM
@@ -428,15 +480,17 @@ The President said that upon gaining independence in 1948, global expectations e
 
 ---
 
-### 76 වැනි අභිමානවත් නිදහස් දිනය අදයි
+### Today is the Independent Day of Independence Day
 
 *2024-02-04 08:34:18* · [`adalk`](https://www.ada.lk/breaking_news/76-වැනි-අභිමානවත්-නිදහස්-දිනය-අදයි/11-407882) · `si`
 
-ශ්‍රී ලංකාවේ 76 වැනි ජාතික නිදහස් උත්සවය අදට (04දා) යෙදි තිබේ. මෙවර ජාතික උත්සවය කොළඹ ගාලුමුවදොර පිටියේදී පැවැත්වෙන අතර ප්‍රධාන ආරාධිත අමුත්තා ලෙස තායිලන්ත අග්‍රාමාත්‍යවරයා ඇතුළු දූත පිරිසක් එක්ව සිටියි.
+Sri Lanka's 76th National Independence Day celebration today (04). This year's National Festival will be held at the Galle Face Granduwa Granduwa, the Chief Guest at the Chief Guest.
 
 ◼️
 
 [Data](articles/ad818b94.json)
+
+[Extended Data](ext_articles/ad818b94.ext.json)
 
 ---
 
@@ -683,6 +737,8 @@ Rambukwella, remanded until February 15, was produced before Maligakanda Magistr
 ◼️
 
 [Data](articles/ff3149f7.json)
+
+[Extended Data](ext_articles/ff3149f7.ext.json)
 
 ---
 
@@ -1949,37 +2005,5 @@ Prime Minister Smetha Tendas and President Ranil Wickremesinghe met at the Presi
 [Data](articles/8ec55485.json)
 
 [Extended Data](ext_articles/8ec55485.ext.json)
-
----
-
-### Thai PM in Sri Lanka
-
-*2024-02-03 15:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Thai-PM-in-Sri-Lanka/110-276282) · `en`
-
-Prime Minister of Thailand Srettha Thavisin arrived in the island this afternoon, accompanied by a delegation. He is to participate in Sri Lanka's 76th Independence Day ceremony tomorrow (04) as the guest of honour. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/afd4491d.json)
-
-[Extended Data](ext_articles/afd4491d.ext.json)
-
----
-
-### Ayurvedic Drugs Corporation’s profits hit record high of Rs. 195mn in 2023 - State Minister
-
-*2024-02-03 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/96972/ayurvedic-drugs-corporations-profits-hit-record-high-of-rs-195mn-in-2023-state-minister) · `en`
-
-Sri Lanka Ayurvedic Drugs Corporation (SLADC) has made Rs. Rs. 195 million in profits in 2023, marking the highest-ever figure the institution has recorded since 2017, State Minister of Indigenous Medicine Sisira Jayakody said on Friday (Feb.02).
-
-This achievement marks a significant turnaround for the SLADC, highlighting the positive impact of the new management’s strategies, the lawmaker commented further addressing a press briefing held at the President’s Media Centre (PMC).
-
-The state minister, emphasizing the remarkable progress made by the SLADC under its new leadership. He attributed this success to the implementation of effective measures by the new management, which have revitalized the corporation’s operations and financial standing.
-
-...
-
-[Data](articles/fb38bad6.json)
-
-[Extended Data](ext_articles/fb38bad6.ext.json)
 
 ---

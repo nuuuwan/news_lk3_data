@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 17:17:06**
+As of **2024-02-04 17:33:14**
 
 ## Newspaper Stats
 
-*Scraped **4,722** Articles*
+*Scraped **4,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,107 @@ newsfirstlk | 287
 adalk | 409
 virakesarilk | 526
 adaderanalk | 591
-adaderanasinhalalk | 596
-tamilmirrorlk | 601
+adaderanasinhalalk | 598
+tamilmirrorlk | 604
 dailymirrorlk | 660
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,722 (100.0%) of 4,722 articles have been extended.
+4,722 (99.9%) of 4,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### மூன்றாம் தவணை நாளை​ ஆரம்பம்
+
+*2024-02-04 16:50:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்றாம்-தவணை-நாளை-ஆரம்பம்/175-332652) · `ta`
+
+அரச மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளின் மூன்றாம் தவணைக்கான இரண்டாம் கட்ட கல்வி நடவடிக்கைகள் திங்கட்கிழமை (05) ஆரம்பமாகவுள்ளது.
+
+இதேவேளை உயர்தரப் பரீட்சை காரணமாக கடந்த டிசெம்பர் 23 ஆம் திகதி பாடசாலைகளுக்கு விடுமுறை வழங்கப்பட்டதுடன், பெப்ரவரி மாதம் முதலாம் திகதி பாடசாலை ஆரம்பமாகும் என அறிவிக்கப்பட்டது.
+
+இருப்பினும், சமூக வலைதளங்களில் உயர்தர விவசாய விஞ்ஞானப் பாட பரீட்சை வினாத்தாள் கசிந்ததையடுத்து வினாத்தாளை இரத்து செய்த பரீட்சைகள் திணைக்களம், மீண்டும் குறித்த பாடத்திற்கான பரீட்சையை கடந்த முதலாம் திகதி நடத்தியது.
+
+எனவே, பெப்ரவரி முதலாம் திகதி ஆரம்பமாக இருந்த அரச மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளின் மூன்றாம் தவணைக்கான இரண்டாம் கட்ட கல்வி நடவடிக்கைகள் திங்கட்கிழமை (05) ஆரம்பமாகவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/9953780e.json)
+
+---
+
+### මැතිවරණයක් කල්දමයි
+
+*2024-02-04 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192967) · `si`
+
+සෙනගාල් ජාතික මැතිවරණය කල්දැමීමට එරට ජනාධිපති මැකී සෝල් තීරණය කර තිබේ.
+
+විරුද්ධවාදීන් පිරිසකගේ අපේක්ෂකත්වය තහනම් කිරිමත් සමඟ ඇතිවූ අර්බුදකාරී තත්ත්වයක් මත මැතිවරණය කල්දමා ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+පවතින වතාවරණය සම්බන්ධයෙන් විවෘත ජාතික සංවාදයක් පවත්වා යළි මැතිවරණය පැවැත්වෙන දිනය ප්‍රකාශයට පත් කරන බවද සෙනගාල් ජනාධිපතිවරයා ප්‍රකාශ කර ඇති බව වාර්තා වේ.
+
+කෙසේවෙතත් මැතිවරණය කල් දැමීමට ජනාධිපතිවරයා ගත් තීරණය ආණ්ඩුක්‍රම ව්‍යවස්ථා කුමන්ත්‍රණයක් බව එරට විපක්ෂය සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/d5663d84.json)
+
+---
+
+### தாலிக்கு பதிலாக போலி  ;  யுவதி கைது
+
+*2024-02-04 16:28:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாலிக்கு-பதிலாக-போலி-யுவதி-கைது/175-332645) · `ta`
+
+வாய் பேச முடியாத பெண்னொருவரிடமிருந்து 21 பவுண் தாலிக்கொடியை  வாங்கி மோசடி செய்த குற்றச்சாட்டில் யுவதி ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+யாழ்ப்பாணம் - சுன்னாகம் பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் வசிக்கும் வாய் பேசமுடியாத பெண்ணொருவரிடம்,  அயலவரான யுவதி ஒருவர் விசேட நிகழ்வுகளுக்குச் செல்லும்போது,  தாலிக்கொடியை இரவலாகப்பெற்று அணிந்து சென்று, பின்னர் அதனை மீள அப்பெண்ணிடம் கையளிப்பதனை வழமையாகக் கொண்டிருந்துள்ளார்.
+
+இந்நிலையில், அண்மையில் வழமைபோல்,  தாலிக்கொடியை இரவலாக வாங்கி சென்ற யுவதி,  தாலிக்கொடியை திருப்பி கொடுத்தபோது, கொடியின் அமைப்பில் வித்தியாசத்தை உணர்ந்த பெண்,  அதனை நகைக் கடை ஒன்றுக்குக் கொடுத்து சோதித்தபோது, அது போலியானது என தெரியவந்துள்ளது.
+
+இதன்பேரில் ,  தாலிக்கொடியை  வாங்கி சென்ற யுவதியை  கைது செய்த பொலிஸார், அவரிடம் விசாரணைகளை முன்னெடுத்தபோது, சுன்னாகம் பகுதியில் உள்ள நகைக்கடை ஒன்றில் இரவலாகப் பெற்ற தாலிக்கொடியை விற்பனைசெய்து,  அதே போன்று போலி தாலிக்கொடியை அப்பெண்ணிடம் கொடுத்துள்ளதாக தெரிவித்தார்.
+
+...
+
+[Data](articles/e005140a.json)
+
+---
+
+### 23 இந்திய மீனவர்கள் கைது
+
+*2024-02-04 16:21:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/23-இந்திய-மீனவர்கள்-கைது/175-332640) · `ta`
+
+எல்லை தாண்டி மீன் பிடித்த இந்திய மீனவர்கள் 23 பேர் சனிக்கிழமை (03) இலங்கை கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+மேலும், கைது செய்யப்பட்ட இந்திய மீனவர்கள் 23 பேர் மற்றும் மீன்பிடி படகுகள் 02 கைப்பற்றப்பட்டு காங்கேசன்துறை துறைமுகத்திற்கு கொண்டு வரப்பட்டதுடன், கைதானவர்கள் மேலதிக சட்ட நடவடிக்கைகளுக்காக மயிலடி கடற்றொழில் பரிசோதகரிடம் ஒப்படைக்கப்படவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d2c531e4.json)
+
+---
+
+### කළුතර අධිකරණ භූමියේදී සැකකරුවෙකු පළායයි
+
+*2024-02-04 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192966) · `si`
+
+සොරකම් කිරීමේ සිද්ධියක් සහ හෙරොයින් සන්තකයේ තබාගැනීම සම්බන්ධයෙන් එම සැකකරුට අධිකරණය විසින් වරෙන්තු නිකුත් කර තිබුණි.
+
+වරෙන්තු නිකුත් කර තිබූ සැකකරුවෙකු අලුත්ගම පොලීසිය විසින් අත්අඩංගුවට ගෙන අධිකරණ භූමියට රැගෙනවිත් තිබූ අතර ඔහු මෙලෙස පළාගොස් ඇති බව වාර්තාවෙයි.
+
+පොලිස් ජීප් රථයෙන් සැකකරු අධිකරණ භූමියට රැගෙන විත් එහි දොර විවෘත කරන අවස්ථාවේ ඔහු සමග විලංගු ලා සිටි අනෙකු සැකකරුගේ මුහුණට ගසා දෑත් විලංගු ගලවාගෙන එම සැකකරු මෙලෙස පළාගොස් ඇති බව වාර්තාවෙයි.
+
+වැඩිදුරටත් වාර්තාවන්නේ අධිකරණ භූමියේ රාජකාරියේ නිරතව සිටි පොලිස් නිලධාරීන් සහ සැකකරු අධිකරණ භූමියට රැගෙන ආ නිලධාරීන් පසුපස හඹා ගියද සැකකරු ඔවුන් මගහැර පළායාමට සමත්ව ඇති බවටය.
+
+සැකකරු සොයා අලුත්ගම පොලීසිය සහ තවත් පොලිස් කණ්ඩායම් කිහිපයක් විශේෂ විමර්ශනයක් ආරම්භ කර ඇත.
+
+◼️
+
+[Data](articles/49c636a8.json)
+
+---
 
 ### 23 Indian fishermen, two trawlers arrested in Sri Lankan waters
 
@@ -1933,113 +2021,5 @@ Jaffna Headquarters Police have filed a petition seeking a ban on some represent
 [Data](articles/67247651.json)
 
 [Extended Data](ext_articles/67247651.ext.json)
-
----
-
-### Killing
-
-*2024-02-04 03:56:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடும்பஸ்தர்-வெட்டிக்-கொலை/175-332608) · `ta`
-
-A young family member has been hacked to death.The incident took place yesterday in Matugama, Ovitigala.
-
-The deceased and the suspect who allegedly attacked him were close relatives, police said.
-
-A 27 -year -old suspect, who is alleged to carry out a sword attack, has been arrested by police after he was in hiding after the attack.. (A)
-
-◼️
-
-[Data](articles/ee14a812.json)
-
-[Extended Data](ext_articles/ee14a812.ext.json)
-
----
-
-### Today is the 76th Independence Day Celebration
-
-*2024-02-04 03:52:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-76-ஆவது-சுதந்திர-தினம்-கொண்டாட்டம்/175-332607) · `ta`
-
-All arrangements have been made to hold the 76th Independence Day in the Galle face today.
-
-Various art events will be decorated this time. The parade of the armed forces will also be held.
-
-3 thousand 461 people will attend the army representing the army at the honor parade. (A)
-
-◼️
-
-[Data](articles/5a5b2287.json)
-
-[Extended Data](ext_articles/5a5b2287.ext.json)
-
----
-
-### We will work for Sri Lanka
-
-*2024-02-04 03:48:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுபீட்சமான-இலங்கைக்காக-செயலாற்றுவோம்/175-332606) · `ta`
-
-President Ranil Wickremesinghe has said that we will cooperate with the world for the prosperity of Sri Lanka.
-
-He said Sri Lanka expects to strengthen bilateral trade with the pioneer economic strength of the East Asian countries, including Thailand, and the ASEAN Zone.
-
-The President made this statement at a joint media conference held at the Presidential Office held at the Presidential Office yesterday afternoon after a bilateral meeting with Thailand Prime Minister Shreta Tavisin.
-
-After attending the Joint Media Conference, the Prime Minister of Thailand also posted thoughts in the Memorial of the Special Guests at the Presidential Office.
-
-Speaking at the Joint Media Conference, Thailand's Prime Minister Shareta Taiz said that Thailand is acting as a deputy of the ASEAN Regional Organization for Membership of the Human Rights Council from 2025 to 2027.
-
-Moreover, Thailand has a meditation status in the development of the conference's relations
-
-...
-
-[Data](articles/aa99f603.json)
-
-[Extended Data](ext_articles/aa99f603.ext.json)
-
----
-
-### 2024-02-03 (Saturday)
-
-### President and Thailand Prime Minister Conference
-
-*2024-02-03 22:55:18* · [`adalk`](https://www.ada.lk/picture_story/ජනපති-සහ-තායිලන්ත-අගමැති-ද්විපාර්ශ්වික-සාකච්ඡාවල/10-407881) · `si`
-
-Attention to enhance the cooperation between trade, tourism, fisheries and agriculture sectors.
-
-The President pays five on luxury hotels in Colombo and new investment opportunities in public enterprises
-
-President calls for assistance from Thailand to restore Sri Lankans affected by human trafficking in Myanmar.
-
-The leaders of the two countries focus on a new chapter of the historical relationship between Sri Lanka and Thailand.
-
-Thailandha Thavisin, Prime Minister of Thailandha Tavi Tavisin and President Ranil Wickremesinghe was held between the Sri Lanka and President Ranil Wickremesinghe today (03) at the Presidential Secretariat.
-
-Thailand's Prime Minister was very friendly by President Ranil Wickremesinghe.
-
-The welcomes took place with the acceptance of military saltiness with 19 saluts.
-
-After the introduction of the delegation in the two countries, two leaders joined a friendly talk.
-
-...
-
-[Data](articles/77e33339.json)
-
-[Extended Data](ext_articles/77e33339.ext.json)
-
----
-
-### 8 billion bead leaves nabbed with army intelligence head
-
-*2024-02-03 22:44:30* · [`adalk`](https://www.ada.lk/breaking_news/යුධ-හමුදා-බුද්ධි-ඔත්තුවෙන්-හොර-පාරෙන්-ගෙනා-කෝටි-8-ක-බීඩි-කොළ-දැලේ/11-407880) · `si`
-
-According to the Army Intelligence Union, 2058.3 kilograms of beed leaves were arrested by the Army Intelligence, which is suspected to import the illegal from the sea.
-
-The lorry has been arrested with a suspect when transporting the stock of illegal beeded leaves from Negombo to Jail canals.
-
-The suspect is a resident of Negombo and has been handed over to the Customs Review Office of the Katunayake.
-
-◼️
-
-[Data](articles/682494d2.json)
-
-[Extended Data](ext_articles/682494d2.ext.json)
 
 ---

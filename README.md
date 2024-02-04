@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 23:17:20**
+As of **2024-02-04 23:32:55**
 
 ## Newspaper Stats
 
-*Scraped **4,782** Articles*
+*Scraped **4,783** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 287
 adalk | 411
 virakesarilk | 546
-adaderanalk | 598
+adaderanalk | 599
 tamilmirrorlk | 605
 adaderanasinhalalk | 610
 dailymirrorlk | 671
@@ -26,27 +26,29 @@ dailymirrorlk | 671
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,778 (99.9%) of 4,782 articles have been extended.
+4,782 (100.0%) of 4,783 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
 
-### ජීවයේ පැවැත්මට හිතකර අලුත් ග්‍රහලෝකයක්
+### A new planet for the existence of life
 
 *2024-02-04 22:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192979) · `si`
 
-අමෙරිකාවේ නාසා ආයතනය විසින් ජීවයේ පැවැත්මට හිතකර පරිසරයක් සහිත නව ග්‍රහලෝකයක් "super-Earth" පිළිබඳව සිදුකරන ලද පර්යේෂණ වාර්තා එළිදක්වා තිබේ.
+The research reports on the 'super-earth "have been released on the' Super-Earth" with NASA.
 
-මෙම නව ග්‍රහලෝකය "TOI-715 b"  ලෙස නම් කර ඇති අතර එය පෘථිවියට ආලෝක වර්ෂ 137 ක් දුරින් පිහිටා ඇති බව නාසා ආයතනය උපුටා දක්වමින් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+The new planet has been named as "Toi-715 B" and is a number of 137 lights from the Earth.
 
-මෙය රතු පැහැති කුඩා තාරකාවක් වටා පරිභ්‍රමණය වන බවත් ඒ සඳහා දින 19ක්  වැනි කාලයක් ගත වන බවත් එම වාර්තාවල සඳහන්ව තිබේ.
+The report also states that a red little star will be rotate and will take 19 days for it.
 
-විශාලත්වය පෘථිවිය මෙන් එකහමාරක පමණ ප්‍රමාණයක් වන මෙම ග්‍රහලෝකය සම්බන්ධයෙන් නාසා ආයතනය වැඩිදුරටත් පරීක්ෂණ සිදුකරයි.
+NASA is conducting further investigations into the planet, which is about two and a half of the earth.
 
 ◼️
 
 [Data](articles/1cbbaa9b.json)
+
+[Extended Data](ext_articles/1cbbaa9b.ext.json)
 
 ---
 
@@ -64,6 +66,26 @@ The ceremonial opening included the traditional Sri Lankan gesture of offering b
 
 [Data](articles/d26aac8a.json)
 
+[Extended Data](ext_articles/d26aac8a.ext.json)
+
+---
+
+### US intends further strikes on Iran-backed groups, national security adviser says
+
+*2024-02-04 22:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97005/us-intends-further-strikes-on-iran-backed-groups-national-security-adviser-says) · `en`
+
+The United States intends to launch further strikes at Iran-backed groups in the Middle East, the White House national security adviser said on Sunday, after hitting Tehran-aligned factions in Iraq, Syria and Yemen over the last two days.
+
+The United States and Britain unleashed attacks against 36 Houthi targets in Yemen, a day after the U.S. military hit Tehran-backed groups in Iraq and Syria in retaliation for a deadly attack on U.S. troops in Jordan.
+
+“We intend to take additional strikes, and additional action, to continue to send a clear message that the United States will respond when our forces are attacked, when our people are killed,” White House National Security Adviser Jake Sullivan told NBC’s “Meet the Press” program on Sunday.
+
+The strikes are the latest blows in a conflict that has spread into the Middle East since Oct. 7, when the Iran-backed Palestinian militant group Hamas stormed Israel from the Gaza Strip, igniting war.
+
+...
+
+[Data](articles/45ecc7e4.json)
+
 ---
 
 ### Tense situation in Kandakadu Rehabilitation Centre
@@ -77,6 +99,8 @@ Police said the cause of the conflict has not been revealed yet and the inmates 
 ◼️
 
 [Data](articles/63f21d46.json)
+
+[Extended Data](ext_articles/63f21d46.ext.json)
 
 ---
 
@@ -309,6 +333,8 @@ Former Minister Mervyn Silva and a group entered the Borella cemetery and held a
 ◼️
 
 [Data](articles/1f52f171.json)
+
+[Extended Data](ext_articles/1f52f171.ext.json)
 
 ---
 
@@ -1929,27 +1955,5 @@ It is noteworthy that the prisoners who did not pay the minority punishment were
 [Data](articles/3721a9e1.json)
 
 [Extended Data](ext_articles/3721a9e1.ext.json)
-
----
-
-### Messi goes hookon
-
-*2024-02-04 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192957) · `si`
-
-Super Football Player Lynol Messi has arrived at Hong Kong yesterday (03).
-
-The International Miami Soccer Sports Club and Major League Football Soccer will be held at 01.30 pm today.
-
-The Inter Miami soccer team is defeated after the defeat of the MC NZZar Football Team.
-
-The inter Miami football team was defeated as 0 points.
-
-The match will be held with Hong Kong, a Major League football club.
-
-◼️
-
-[Data](articles/501bab7e.json)
-
-[Extended Data](ext_articles/501bab7e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 13:17:13**
+As of **2024-02-04 13:32:44**
 
 ## Newspaper Stats
 
-*Scraped **4,691** Articles*
+*Scraped **4,697** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,54 +15,154 @@ islandlk | 254
 economynextcom | 256
 dailyftlk | 280
 newsfirstlk | 287
-adalk | 404
-virakesarilk | 522
+adalk | 405
+virakesarilk | 523
 adaderanalk | 586
-adaderanasinhalalk | 592
+adaderanasinhalalk | 593
 tamilmirrorlk | 598
-dailymirrorlk | 651
+dailymirrorlk | 654
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,689 (100.0%) of 4,691 articles have been extended.
+4,691 (99.9%) of 4,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
 
-### නිදහස යනු කුමක් දැයි කාදිනල් හිමි අසයි
+### 76 වන නිදහස් දිනය අභිමානයෙක් සැමරේ
+
+*2024-02-04 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192961) · `si`
+
+76 වන ජාතික නිදහස් දින සැමරුම අද (04) පෙරවරුවේ කොළඹ ගාලුමුවදොරදී අභිමානවත් අයුරින් පැවැත්විණි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පැවති මෙවර ජාතික දින උත්සවයේ තේමාව වුයේ 'හදමු අලුත් රටක්' යන්නයි.
+
+ප්‍රථමයෙන් ගාලුමුවදොර වෙත ආරාධිත අමුත්තන්ගේ සම්ප්‍රාප්තිය සිදුවූ අතර වැඩබලන පොලිස්පතිවරයා, ත්‍රිවිධ හමුදාපතිවරුන්, ආරක්ෂක මාණ්ඩලික ප්‍රධානි, ආරක්ෂක ලේකම්වරයා, අගවිනිසුරුවරයා, කථානායකවරයා සහ අග්‍රාමාත්‍යවරයාගේ සම්ප්‍රාප්තිය සිදුවුණේ ඉන් අනතුරුවයි.
+
+විදේශීය තානාපතිවරුන්, රාජ්‍ය නියෝජිතයින් ඇතුළු සම්භාවනීය ආරාධිතයින් රැසක් මෙවර උත්සවයට සහභාගි වූ අතර ප්‍රධාන ආරාධිතයා ලෙස තායිලන්ත අග්‍රාමාත්‍ය ස්‍රෙතා තවිසින් මහතා සහභාගි විය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සම්ප්‍රාප්තියත් සමග නිදහස් දින සැමරුම් උත්සවයේ කටයුතු ආරම්භ විය.
+
+ජාතිය වෙනුවෙන් දිවි පිදු විරුවන් සිහිකිරීම වෙනුවෙන් විනාඩි 2ක නිහඬතාවක් ද පැවැත්විණි.
+
+ජනාධිපතිවරයා වෙනුවෙන් ත්‍රිවිධ හමුදා උත්තමාචාරය හා ආචාර වෙඩි මුර 21ක් පිරිනැමුණේ ඉන් අනතුරුවයි.
+
+...
+
+[Data](articles/3bbf2d80.json)
+
+---
+
+### Debutant Chamika replaced after helmet blow
+
+*2024-02-04 12:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Debutant-Chamika-replaced-after-helmet-blow/108-276300) · `en`
+
+Colombo, Feb 04 (Daily Mirror) - Kasun Rajitha has been approved as the 'concussion replacement' for Chamika Gunasekera, who was hit on the helmet while batting during Sri Lanka's 1st inning.
+
+Chamika Gunasekera, making his debut in the Test match against Afghanistan, was retired hurt after sustaining a blow to the helmet while batting, scoring 16 runs.
+
+Today is the third day of the Sri Lanka-Afghanistan Test cricket match.
+
+Sri Lanka posted a total of 439 all out in their first innings in response to Afghanistan's 198 in their opening inning.
+
+◼️
+
+[Data](articles/a6cef746.json)
+
+---
+
+### SJB to take disciplinary action against SF?
+
+*2024-02-04 12:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-to-take-disciplinary-action-against-SF/108-276299) · `en`
+
+Taking an offensive stance against Field Marshal Sarath Fonseka, Leader of the Opposition and Samagi Jana Balawegaya (SJB) leader Sajith Premadasa said he will not hesitate to take displinary action against those who criticise decisions taken by him and his party.
+
+This offensive remark by Premadasa came just a few days after MP Fonseka criticised the decision made by Premadasa to appoint former Army Commander, General (Retired) Daya Ratnayake as Senior Advisor to the SJB.
+
+"No one should call me and tell me whom I should give party membership to. I will ignore such people who try to advice me. I will not hesitate to take bold decisions to take disciplinary action against those who criticize the party," Sajith Premadasa told a gathering in Galle over the weekend.
+
+"It is the duty of SJB members to safeguard the party and see that it emerges victorious at future elections. Those who cannot carry out that duty should get out," he added.
+
+...
+
+[Data](articles/7a8176dd.json)
+
+---
+
+### Cardinal asks what freedom is
 
 *2024-02-04 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192960) · `si`
 
-පීඩාකාරී නායකත්වයෙන් රට මුදාගෙන නව නායකයෙක් රටට පත්කර ගැනීමට කාලය එළැඹ ඇතැයි අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණෝ පවසති.
+Excellent Malcolm Cardinal Ranjith says the time has come to rescue the country from oppressive leadership.
 
-නිදහස් දිනය වෙනුවෙන් පුංචි බොරැල්ල සියලු ශාන්තුවරුන්ගේ දේවස්ථානයේ පැවති විශේෂ දේව මෙහෙයට එක්වෙමින් කාදිනල් හිමියෝ එම අදහස් පළ කළහ.
+Kidinal Thero expressed these views to the special service held at the Punchi Borella's church on behalf of the day.
 
-එහි දී වැඩිදුරටත් අදහස් දැක්වූ අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන්,
+The Archbishop is greatly thrilling Malcolm Cardinal, speaking further.
 
-"දේශපාලන හා ආර්ථිකමය වශයෙන් රට පහළට වැටිලා. නායකයින්ගෙන් අසන්නේ සමරන්නේ කාගේ නිදහසද? පාලකයන්ගේ නිදහසද? ජනතාවගේ නිදහසද? පිටරට නියෝජිතයින් ගෙන්වා, රටේ ප්‍රභූවරුන් ඉදිරියේ බඩගින්නේ සිටින ජනතාව හෑල්ලු කිරීම නිදහසද? සුන්දර අපේ මව්බිම අවාසනාවන්තයි. පීඩාකාරි පාලන පැලැන්තියෙන් රට මුදාගත යුතුයි. නිවැරදි නායකයෙක් රටට පත්කරගත යුතුයි"
+"The country has fallen down political and economically. Whose Freedom Celebrate Leaders?Are the regrets of rulers?Is the freedom of people?Are the representatives of overseas and hunger people are freedom to be hungry before the elite?Beautiful our motherland unfortunate. The country should be liberated from oppressive control elimination. A right leader should be appointed to the country. "
 
 ◼️
 
 [Data](articles/85d447b6.json)
 
+[Extended Data](ext_articles/85d447b6.ext.json)
+
 ---
 
-### චාමික වෙනුවට කසුන් රාජිත
+### ஹெளத்தி கிளர்ச்சியாளர்களிற்கு எதிரான தாக்குதல் - அவுஸ்திரேலியாவும் ஆதரவு
+
+*2024-02-04 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175515) · `ta`
+
+யேமனின் ஹெளத்திகிளர்ச்சியாளர்களிற்கு எதிராக அமெரிக்காவும் பிரிட்டனும் இணைந்து முன்னெடுத்துவரும் தாக்குதல்களிற்கு அவுஸ்திரேலியா தனது ஆதரவை வெளியிட்டுள்ளது.
+
+நேற்றும் அமெரிக்காவும் பிரிட்டனும் இணைந்து தாக்குதலை மேற்கொண்டுள்ள நிலையிலேயே அவுஸ்திரேலியா இந்த தாக்குதலிற்கு தனது ஆதரவை வெளியிட்டுள்ளது.
+
+செங்கடல் வழியாக பயணம் மேற்கொள்ளும் அப்பாவி மாலுமிகளின் உயிர்களிற்கும் சர்வதேசவர்த்தகத்திற்கும் ஆபத்தை ஏற்படுத்தும் ஹெளத்தி கிளர்ச்சியாளர்களின் தாக்குதல் திறனை குறைப்பதை நோக்கமாக கொண்ட நோக்கிலேயே இந்த துல்லியமான தாக்குதல்கள் இடம்பெறுகின்றன என ரிச்சட் மார்லஸ் தெரிவித்துள்ளார்.
+
+செங்கடல் பகுதியில் பதற்றத்தை குறைப்பதும் அந்தபகுதியில் ஸ்திரதன்மையை ஏற்படுத்துவதுமே இந்த தாக்குதலின் நோக்கம் என தெரிவித்துள்ள அவர் நாங்கள் ஹெளத்திகிளர்ச்சி குழுக்களின் தலைமைக்கு எங்களின் எச்சரிக்கையை மீண்டும் தெரிவிப்போம் என குறிப்பிட்டுள்ளார்.
+
+உலகின் மிகமுக்கியமான கடல்பாதையில் சுதந்திரமான வர்த்தகம் மற்றும் உயிர்களை நாங்கள் பாதுகாப்போம் எனவும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/3a6c7a7f.json)
+
+---
+
+### Kasun Rajitha instead of Charmic
 
 *2024-02-04 12:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192959) · `si`
 
-ශ්‍රී ලංකා - ඇෆ්ගනිස්තාන ටෙස්ට් ක්‍රිකට් තරගයේ තුන්වැනි දිනය අදයි.
+Today is the third day of Sri Lanka - Afghanistan Test series.
 
-එහිදී, පන්දුවට පහර දෙමින් සිටියදී හිස් ආවරණයේ පන්දුව වැදීම හේතුවෙන් පිටියෙන් ඉවත්වූ චාමික ගුණසේකර වෙනුවට වෙනත් ක්‍රීඩකයෙක් යෙදවීමට ශ්‍රී ලංකා කණ්ඩායම ට අනුමැතිය ලැබී තිබේ.
+The Sri Lankan team has approved the appointment of Chamaik Gunasekera who left the floor due to the ballship with the ball.
 
-ඒ අනුව වේගපන්දු යවන ක්‍රීඩක කසුන් රාජිත ව කණ්ඩායම ට කැඳවූ බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේය.
+According to the Sri Lanka Cricket, Sri Lanka Cricket announced that fast bowler cars called Rajitha.
 
 ◼️
 
 [Data](articles/73dc8f57.json)
+
+[Extended Data](ext_articles/73dc8f57.ext.json)
+
+---
+
+### Army promotes 211 officers, 1,239 other ranks on Independence Day
+
+*2024-02-04 12:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Army-promotes-211-officers-1-239-other-ranks-on-Independence-Day/108-276298) · `en`
+
+Colombo, Feb 04 (Daily Mirror) -  A total of 211 officers of the Sri Lanka Army (Regular and Volunteer Force) and 1,239 Other Ranks of the Army (Regular Force and Volunteer Force) have been promoted to their next respective ranks in view of the 76th Independence Day (04 February 2024).
+
+The Sri Lanka Army said the promotions were made by President Ranil Wickremesinghe, Commander-in-Chief of the Armed Forces, on the recommendation of the Ministry of Defence and Army Commander Lieutenant General Vikum Liyanage.
+
+Accordingly, 02 Brigadiers to the rank of Major General, 12 Colonels to the rank of Brigadier, 13 Lieutenant Colonels to the rank of Colonel, 17 Majors to the rank of Lieutenant Colonel, 29 Captains to the rank of Major (Including Quartermasters), 13 Lieutenants to the rank of Captain (Including Quartermasters) and 125 Second Lieutenants to the rank of Lieutenant (Regular Force & Volunteer Force) have been thus promoted in the officers' category.
+
+...
+
+[Data](articles/01736c1c.json)
 
 ---
 
@@ -193,6 +293,24 @@ The annual license fee for municipal areas has been reduced to Rs.
 [Data](articles/a8730fea.json)
 
 [Extended Data](ext_articles/a8730fea.ext.json)
+
+---
+
+### හරක් කටාට පැන යන්න කුමන්ත්‍රණය කලැයි අත්අඩංගුවට ගත් පීසීගේ වැඩ තහනම්
+
+*2024-02-04 11:37:51* · [`adalk`](https://www.ada.lk/breaking_news/හරක්-කටාට-පැන-යන්න-කුමන්ත්‍රණය-කලැයි-අත්අඩංගුවට-ගත්-පීසීගේ-වැඩ-තහනම්/11-407886) · `si`
+
+රඳවා ගැනීමේ නියෝග මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අත්අඩංගුවේ සිටින සංවිධානාත්මක අපරාධකරුවකු මෙන්ම මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන. නදුන් චින්තක වික්‍රමරත්න නොහොත් හරක් කටා නැමැත්තාට අත්අඩංගුවෙන් මිදී පලායාමට කුමන්ත්‍රණය සිදුකිරීම සම්බන්ධයෙන්  පොලිස්  අත්අඩංගුවට ගත් කොස්තාපල්වරයාගේ වැඩ තහනම් කළ බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ උසස් නිලධාරියකු පැවසීය.
+
+වැඩ තහනම් කරනු ලැබුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට අනුයුක්ත පොලිස් කොස්තාපල් 97386 ජි ජි එම් එල් සඳරුවන් නැමති කොස්තාපල්වරයාගේය.
+
+2023 සැප්තැම්බර් 10 වන දින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අත්අඩංගුවේ  සිටි නදුන් චින්තක වික්‍රමරත්න නොහොත්  හරක් කටා නමැති සැකකරු පොලිස් කොස්තාපල් 97402 සන්ධිප නිලධාරියාගේ සහයෝගයෙන්  එම දෙපාර්තමේන්තුවේ පොලිස් නිලධාරින් හට  රසායනික ද්‍රවයක් ශරීර ගත ගත කර ආරක්ෂාවට සිටි එස් ටි එෆ් සෙබලාගේ ගිණිය අවිය උදුරාගෙන පලායාමට උත්සාහ කර තිබිණි.
+
+එම සිද්ධියත් සමගම  සන්ධිප නමැති එම කොස්තාපල්වරයා පලා ගොස් මාස හතරකට කාලයක් ආසන්නව ඇතත් මේ වන තෙක් ඔහු  අත්අඩංගුවට ගැනීමට පොලිසියට නොහැකි වීය.
+
+...
+
+[Data](articles/f559c107.json)
 
 ---
 
@@ -1919,129 +2037,5 @@ One morning in March 1952, Don Stephen Senanayake, Ceylon’s first Prime Minist
 [Data](articles/b7e082dd.json)
 
 [Extended Data](ext_articles/b7e082dd.ext.json)
-
----
-
-### Several secrets of Beliatta's five-day killing reveals
-
-*2024-02-03 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192934) · `si`
-
-According to police, it has been revealed that a suburbs inspector who had come to the killing of the Beliatta's assassination has been purchased for Rs.
-
-However, it is suspected that the man has already fled the island.
-
-Meanwhile, the number of two shooters involved in the murder has not yet been established.
-
-Five people including chairman of our apological party Saman Perera and Royal Beach Samil were shot dead in Beliatta on the 22nd.
-
-Several parties were investigated in the incident.
-
-Investigators later revealed that after the assassination, the investigation officials revealed that the petro was going down from the Kamburupitiya Bus Stand.
-
-After the assassination, he had gone to various parts and the October 29 am today
-
-It is also reported that he has been abroad using their real details abroad.
-
-Meanwhile, the Pigeor who had arrived in a murder was purchased in about Rs.
-
-He said that he had served in the CID and then served in the Ministerial Security.
-
-...
-
-[Data](articles/d344447c.json)
-
-[Extended Data](ext_articles/d344447c.ext.json)
-
----
-
-### Everyday Airlines between Thailand and Sri Lanka
-
-*2024-02-03 19:02:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்லாந்துக்கும்-இலங்கைக்கு-இடையே-நாளாந்தம்-விமான-சேவை/175-332591) · `ta`
-
-Steps have been taken to resume the daily flight between Thailand and Sri Lanka, the International Airlines, from the end of March.
-
-This has been focused at the Joint Media Conference held at the Presidential Secretariat.
-
-The Prime Minister of Thailand also pointed out this to ensure further improving the tourism, fishing, agriculture and trade cooperation between Thailand and Sri Lanka.R
-
-◼️
-
-[Data](articles/c7f05e2c.json)
-
-[Extended Data](ext_articles/c7f05e2c.ext.json)
-
----
-
-### Dubai based QX Lab launches AI tool with Sinhalese and Tamil interface
-
-*2024-02-03 18:38:00* · [`economynextcom`](https://economynext.com/dubai-based-qx-lab-launches-ai-tool-with-sinhalese-and-tamil-interface-149755/) · `en`
-
-ECONOMYNEXT – Dubai based QX Lab AI has lauched an artificial intelligence platform which can be used Sinhalese and Tamil, among 100+ languages, oficials said.
-
-“Ask QX boasts unparalleled language proficiency and accuracy across multiple languages. Our vision for Ask QX is to bridge the existing gap, ensuring that the transformative potential of AI is accessible to all, not limited to a privileged few,” Tilakraj Parmar, Co-Founder and CEO, QX Lab AI said at a lauch event in Dubai Friday (2).
-
-The Indian-origin developers said they wanted to focus on the rich linguistic tapestry in India and neighboring markets like the Middle East and Sri Lanka.
-
-Apart from English, Ask QX is available in Arabic (and recognizes regional dialects), French, Spanish, Japanese, German, Italian, Korean, Portuguese, Russian, Sinhala, Tamil and 11 other Indian languages, as well as other global languages.
-
-...
-
-[Data](articles/9ee28661.json)
-
-[Extended Data](ext_articles/9ee28661.ext.json)
-
----
-
-### Sri Lanka, Thailand to boost defence and security cooperation to curb transnational crimes
-
-*2024-02-03 18:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96977/sri-lanka-thailand-to-boost-defence-and-security-cooperation-to-curb-transnational-crimes) · `en`
-
-In a gesture of warm hospitality, President Ranil Wickremesinghe extended a cordial welcome to the distinguished Prime Minister of the Kingdom of Thailand, Srettha Thavisin, and the accompanying official delegation at the Presidential Secretariat this afternoon (Feb.03).
-
-After the gracious reception by the Sri Lankan leader, a formal ceremony unfolded, with the Chief of Defence Staff accompanying both leaders to the saluting dais. Amidst the ceremonial ambience, a Guard of Honour was awarded to the distinguished guests followed by a 19-gun salute.
-
-After the formal introduction of the delegations from both countries, President Wickremesinghe and PM Thavisin engaged in an exclusive one-to-one meeting, hosted at the President’s Office.
-
-...
-
-[Data](articles/279e060d.json)
-
-[Extended Data](ext_articles/279e060d.ext.json)
-
----
-
-### Jaffna  Youth Congress was the First to Demand “Poorana Swaraj”( Complete Self-Rule) For Ceylon/SriLanka From  Britain.
-
-*2024-02-03 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83550) · `en`
-
-Sri Lanka known formerly as Ceylon gained independence from British rule on 4 February 1948. The Island nation celebrates the 76th anniversary of her “tryst with destiny” on Sunday. Events marking freedom day festivity are scheduled for the week-end.
-
-Even as the greater part of the Island is enveloped in a melodious mood, a discordant note is struck in the Tamil dominated Northern province and  the  Tamil Majority Eastern Province. The Jaffna University Students Union and organizations representing the families of disappeared persons have proclaimed 4 February 2024 as a ”Kari Naal”( black or dark day) and declared it as a day of mourning.
-
-It has been announced that “Kavana Eerppu Poaraattangal”(Attention drawing demonstrations)would be held in the five districts of the  North and three districts of the east. Several  Sri Lankan Tamil nationalist parties and civil society organizations have endorsed and lent support  to the call for observing freedom day as a black day.
-
-...
-
-[Data](articles/30eff12a.json)
-
-[Extended Data](ext_articles/30eff12a.ext.json)
-
----
-
-### Electricity and petroleum supply again gazetted as essential services
-
-*2024-02-03 18:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/96976/electricity-and-petroleum-supply-again-gazetted-as-essential-services) · `en`
-
-President Ranil Wickremesinghe issued an Extraordinary Gazette notification this evening (Feb. 03) declaring all services connected to the supply of electricity and the supply or distribution of petroleum products and fuel as essential public services.
-
-The Gazette has been issued by virtue of the powers vested in the President in terms of Section 2 of the Essential Public Services Act, No. 61 of 1979.
-
-The new communiqué comes a month after the services related to electricity and petroleum were gazetted as essential to the life of the community.
-
-◼️
-
-[Data](articles/769e412a.json)
-
-[Extended Data](ext_articles/769e412a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 09:32:56**
+As of **2024-02-04 09:51:09**
 
 ## Newspaper Stats
 
-*Scraped **4,647** Articles*
+*Scraped **4,650** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,9 +14,9 @@ dbsjeyarajcom | 136
 islandlk | 254
 economynextcom | 254
 dailyftlk | 280
-newsfirstlk | 282
+newsfirstlk | 284
 adalk | 400
-virakesarilk | 518
+virakesarilk | 519
 adaderanasinhalalk | 581
 adaderanalk | 583
 tamilmirrorlk | 588
@@ -26,11 +26,55 @@ dailymirrorlk | 646
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,642 (99.9%) of 4,647 articles have been extended.
+4,647 (99.9%) of 4,650 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### Sri Lanka celebrates 76th Independence Day
+
+*2024-02-04 09:04:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/04/sri-lanka-celebrates-76th-independence-day/) · `en`
+
+COLOMBO (News 1st) – All arrangements are in place to hold the 76th Independence Day celebrations today at Galle Face Green.
+
+The theme of this year's Independence Day is: Let's Build a New Country.
+
+President Ranil Wickremesinghe will preside over the 76th Independence Day celebrations, with Thai Prime Minister Srettha Thavisin serving as the Guest of Honour.
+
+This year's Independence Day celebration will feature a multitude of spectacular events, with a march by members of the Tri-forces, Police, Civil Defense Force, and Cadets, celebrating Sri Lanka's independence.
+
+3461 Members of the Sri Lanka Army will take part in the Independence Day Salute Parade.
+
+19 aircraft representing the Air Force will grace the airspace this time in the Independence Day Parade.
+
+Seven helicopters, five MI-16 type airplanes, and three jets are included among them.
+
+A contingent of 85 Air Force officers and 784 other ranks, accompanied by 28 armored vehicles, will proudly march in the Independence Day parade.
+
+...
+
+[Data](articles/67baa836.json)
+
+---
+
+### Special traffic plan in Colombo
+
+*2024-02-04 09:02:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/04/special-taffic-plan-in-colombo/) · `en`
+
+COLOMBO (News 1st) – A special traffic plan was implemented in Colombo until noon today, in line with the Independence Day celebrations.
+
+Roads from Colpetty Junction to Galle Face and the roads from Ceramic Junction to Galle Face will be closed until the conclusion of the independence day ceremony.
+
+The Railways Department says that all trains on the Coastal line will operate. Trains will not stop at the Colpetty and Bambalapitiya railway stations from 5 am to 9 am.
+
+Imran Khan and wife convicted for illegal marriage and jailed for 7 years
+
+◼️
+
+[Data](articles/221e70bd.json)
+
+---
 
 ### 76th Independence Day celebrations begin at Galle Face
 
@@ -45,6 +89,26 @@ The Prime Minister of Thailand, Mr. Srettha Thavisin, is the chief guest of the 
 ◼️
 
 [Data](articles/ded9b866.json)
+
+[Extended Data](ext_articles/ded9b866.ext.json)
+
+---
+
+### ஹெளத்தி கிளர்ச்சியாளர்களிற்கு எதிரான  நடவடிக்கை தொடர்கின்றது – அமெரிக்காவும் பிரிட்டனும் மீண்டும் தாக்குதல்
+
+*2024-02-04 08:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/175493) · `ta`
+
+யேமனின் ஹெளத்தி கிளர்ச்சியாளர்களின் நிலைகள் மீது சனிக்கிழமை அமெரிக்காவும் பிரி;ட்டனும் மீண்டும் தாக்குதலை மேற்கொண்டதாக அமெரிக்க பாதுகாப்பு செயலாளர் தெரிவித்துள்ளார்.
+
+இஸ்ரேல் ஹமாஸ் யுத்தத்திற்கு பதில்நடவடிக்கையாக செங்கடலில் அமெரிக்காவின் இலக்குகளை தாக்கிவரும் ஈரான் சார்பு குழுவை மேலும் பலவீனமாக்குவதற்காக இந்த தாக்குதலை அமெரிக்காவும் பிரிட்டனும் மேற்கொண்டுள்ளன.
+
+சர்வதேச கப்பல் போக்குவரத்து மற்றும் கடற்படை கலங்கள் மீதான தங்களின் சட்டவிரோத தாக்குதல்களை ஹெளத்தி கிளர்ச்சியாளர்கள் நிறுத்தாவிட்டால் அவர்கள் தொடர்ந்தும் விளைவுகளை எதிர்கொள்வார்கள் என்ற செய்தியை தெரிவிப்பதற்காகவே இந்த தாக்குதல் என அமெரிக்க பாதுகாப்பு செயலாளர் லொயிட் ஒஸ்டின் தெரிவித்துள்ளார்.
+
+13 பகுதிகளில் ஹெளத்தி கிளர்ச்சியாளர்களின் இலக்குகள் தாக்கப்பட்டுள்ளன அமெரிக்காவின் போர்க்கப்பலில் இருந்து புறப்பட்ட எவ்ஏ 18 போர் விமானங்களும்,பிரிட்டனின் டைபூன் எவ்ஜிஆர்4 ர விமானங்களும் தாக்குதலை மேற்கொண்ட அதேவேளை அமெரிக்காவின் போர்க்கப்பலில் இருந்து ஏவுகணை தாக்குதலும் இடம்பெற்றுள்ளது.
+
+...
+
+[Data](articles/0f86e564.json)
 
 ---
 
@@ -65,6 +129,8 @@ Our ancestors created a proud history for us. As their children and grandchildre
 ...
 
 [Data](articles/2ee6ba23.json)
+
+[Extended Data](ext_articles/2ee6ba23.ext.json)
 
 ---
 
@@ -106,6 +172,8 @@ The President said that upon gaining independence in 1948, global expectations e
 
 [Data](articles/d2e6a833.json)
 
+[Extended Data](ext_articles/d2e6a833.ext.json)
+
 ---
 
 ### Man missing in Mahaweli River
@@ -145,6 +213,8 @@ The public is kindly requested to take adequate precautions to minimize damages 
 ◼️
 
 [Data](articles/6e17c4f1.json)
+
+[Extended Data](ext_articles/6e17c4f1.ext.json)
 
 ---
 
@@ -544,21 +614,23 @@ The suspect is a resident of Negombo and has been handed over to the Customs Rev
 
 ---
 
-### යාපනය සරසවි ශිෂ්‍ය සංගමය නිදහස් දින කළු දිනයක් ලෙස ප්‍රකාශ කරයි
+### Jaffna University Students Union declared to be released on Independence Day
 
 *2024-02-03 22:39:52* · [`adalk`](https://www.ada.lk/breaking_news/යාපනය-සරසවි-ශිෂ්‍ය-සංගමය-නිදහස්-දින-කළු-දිනයක්-ලෙස-ප්‍රකාශ-කරයි/11-407879) · `si`
 
-යාපනය විශ්වවිද්‍යාල ශිෂ්‍ය සංගමය ශ්‍රී ලංකාවෙ නිදහස් දිනය කළු දිනයක් ලෙස ප්‍රකාශ කර ඇති අතර එයට විරෝධය දක්වමින් සිවිල් සංවිධාන නියෝජිතයන් අධිකරණයට කරුණු දක්වා තිබේ.
+University Students Union has stated in Sri Lanka's Independence Day as a black date and protesting the civil organizations representatives have been made in court.
 
-ශ්‍රී ලංකාවේ 76 වන නිදහස් දිනය අභිමානවත් ලෙස සැමරීමට සියළු කටයුුතු සූදානම් කර ඇති පසුබිමක මෙම දිනය වර්ජනය කරමින් කළු පැල්ලමක් එක් කරන්නට යම් කණ්ඩායම් කොටසක් මේ වන විට ක්‍රියාත්මක වෙමින් පවතී.
+A group of tea leaves is currently underway to add a black stain to the date of the 76th Independence Day to celebrate the 76th Independence Day.
 
-මෙය දේශීය මෙන්ම විදේශීය වශයෙන්ද මෙරට අපකීර්තියට සහ අපහසුතාවයට පත්කිරීමේ උත්සාහයක් ලෙස සෘජුවම පෙන්වා දිය හැකි අතර මෙහි යටි අරමුණ දීර්ඝකාලීන බෙදුම්වාදයක නැවත මුලපිරීමක්දැයි මේ වන විට ගැටළුවක් මතුවෙමින් පවතී.
+This can be directly pointed to the unique and embarrassment of Sri Lanka as an exciting and uncomfortable in Sri Lanka.
 
-යාපනය විශ්ව විද්‍යාලයේ ශිෂ්‍ය සංගමය විසින් පසුගිය ජනවාරි 26 වන දින මාධ්‍ය සාකච්ඡාවක් පැවැත්වූ අතර දෙමළ ප්‍රජාවගේ ඉල්ලීම් ඉටු නොකිරීමට විරෝධය පළ කරමින්  පෙබරවාරි 04 'කළු දිනයක්' (ශෝක දිනයක්) ලෙස ප්‍රකාශයට පත් කිරීම හා එදින වර්ජනය කරන ලෙස දැනුවත් කර ඇත.
+The Jaffna University Students Union held a press conference on January 26 and anti-Shares 'Black Date' (a grief) and aware that the date of the Tamil community has been announced not to meet the demands of the Tamil community.
 
 ...
 
 [Data](articles/a8758481.json)
+
+[Extended Data](ext_articles/a8758481.ext.json)
 
 ---
 
@@ -1907,63 +1979,5 @@ Further, on February 20, 2024, will be leaving the island on February 5, 2024 en
 [Data](articles/95decc90.json)
 
 [Extended Data](ext_articles/95decc90.ext.json)
-
----
-
-### Resistance to free bus service for women;Fire for three wheelers in Telangana, India
-
-*2024-02-03 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/175449) · `ta`
-
-In the state of Telangana, India, a driver set fire to a three -wheeler in front of the chief minister's office, "Our survival has been burned."
-
-After the regime change in Telangana and the Congress came to power, women have been given free buses in the name of Mahalakshmi.. Women can travel free of Telangana for all state buses other than luxury buses. Three -wheeler drivers and taxi drivers have been accused of suffering their livelihood due to the government's Mahalakshmi project.
-
-The Chief Minister's office in Hyderabad set fire to his three -wheeler in opposition to the Mahalakshmi project.Immediately, the police immediately informed the fire truck and controlled the burning fire.Police handed over the driver of the three -wheeler, who were allegedly in the liquor.
-
-◼️
-
-[Data](articles/745ef7ab.json)
-
-[Extended Data](ext_articles/745ef7ab.ext.json)
-
----
-
-### Thailand Prime Minister arrives in Sri Lanka
-
-*2024-02-03 13:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thailand-Prime-Minister-arrives-in-Sri-Lanka/108-276280) · `en`
-
-Colombo, Feb 03 (PMD) -  Prime Minister of Thailand Srettha Thavisin, arrived in the country a short while ago, the President’s Media Division said.
-
-The Thai Prime Minister is accompanied by a distinguished delegation, including Deputy Prime Minister Phumtham Wechayachai.
-
-Upon their arrival at the Bandaranaike International Airport, the Thai delegation was received by Sri Lankan Prime Minister Dinesh Gunawardena, setting the tone for bilateral discussions and engagements.
-
-The primary highlight of Prime Minister Thavisin's visit is his participation in Sri Lanka's 76th Independence Day ceremony, scheduled for tomorrow.
-
-◼️
-
-[Data](articles/3a6661a7.json)
-
-[Extended Data](ext_articles/3a6661a7.ext.json)
-
----
-
-### Thai Prime Minister arrives in Sri Lanka
-
-*2024-02-03 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96970/thai-prime-minister-arrives-in-sri-lanka) · `en`
-
-The Prime Minister of Thailand, Srettha Thavisin arrived in Sri Lanka on Saturday afternoon (Feb.03) on an official visit.
-
-Accompanied by a high-level Thai delegation, PM Thavisin was welcomed at the Bandaranaike International Airport (BIA) in Katunayake by his Sri Lankan counterpart PM Dinesh Gunawardena.
-
-The Thai Prime Minister will undertake a two-day official visit in Sri Lanka from 03 - 04 February 2024 at the invitation of President Ranil Wickremesinghe. He is also scheduled to grace the national ceremony to mark the 76th Anniversary of the Independence of Sri Lanka as Guest of Honour.
-
-Additionally, witnessing the signing of the historic Sri Lanka - Thailand Free Trade Agreement (SLTFTA) this evening (03) is also high on the agenda during the Thai Prime Minister’s official discussions with President Wickremesinghe.
-
-...
-
-[Data](articles/6ffe3618.json)
-
-[Extended Data](ext_articles/6ffe3618.ext.json)
 
 ---

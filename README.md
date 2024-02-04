@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 22:02:22**
+As of **2024-02-04 22:17:18**
 
 ## Newspaper Stats
 
-*Scraped **4,776** Articles*
+*Scraped **4,778** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 411
 virakesarilk | 546
 adaderanalk | 598
 tamilmirrorlk | 605
-adaderanasinhalalk | 607
+adaderanasinhalalk | 609
 dailymirrorlk | 668
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,775 (100.0%) of 4,776 articles have been extended.
+4,776 (100.0%) of 4,778 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,50 @@ At least ten inmates and an army soldier have reportedly been injured in a clash
 ◼️
 
 [Data](articles/b4d02903.json)
+
+[Extended Data](ext_articles/b4d02903.ext.json)
+
+---
+
+### කන්දකාඩුවේ උණුසුම් තත්ත්වයක්
+
+*2024-02-04 21:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192978) · `si`
+
+ගැටුම හේතුවෙන් තුවාල ලැබූ එහි රැඳවියන් පිරිසක් සහ සෙබළෙකු ප්‍රතිකාර සඳහා රෝහල්ගතකර ඇත.
+
+මේ අතර අද (04) අලුයම පළාගිය රැඳවියන් පිරිසක් විසින් සෝමාවතිය වන්දනාවේ පැමිණි බස් රථයක් පැහැරගැනීමට උත්සාහ දැරීම සහ ව්‍යාපාරිකයෙකුගෙන් රුපියල් පනස් දහසක මුදලක් සහ ජංගම දුරකථන දෙකක් පැහැරගෙන ගොස් ඇති බව වාර්තාවෙයි.
+
+මෙම සිදුවීම්වලට සම්බන්ධ බවට සැකපිට රැඳවියන් 34 දෙනෙකු මේ වනවිට වැලිකන්ද පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරුවන් හෙට අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිත අතර මේ වනවිට තත්ත්වය පාලනය කර ඇති බව වැලිකන්ද පොලීසිය පවසයි.
+
+මීට පෙර ද අවස්ථා කිහිපයකදීම කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ ගැටුම් ඇතිවූ බව ආහාර ගැටළු සහ විවිධ ගැටළු මුල්කරගනිමින් එහි නිරන්තරයෙන් ගැටුම් ඇතිවන බව වාර්තාවෙයි.
+
+◼️
+
+[Data](articles/fce65efb.json)
+
+---
+
+### ලෝකයේ සීඝ්‍රයෙන් පැතිරෙන මාරාත්තික දිලීරයක්
+
+*2024-02-04 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192977) · `si`
+
+අමෙරිකාවේ සීඝ්‍රයෙන් පැතිර යන භයානක දිලීර ආසාදනයක් පිළිබඳව විදෙස් මාධ්‍ය තොරතුරු වාර්තා කර තිබේ.
+
+මෙලෙස විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ Candida auris දිලීර ආසාදනය පිළිබඳවය.
+
+මෙම  දිලීර ආසාදනය මීට වසර ගණනාවකට පෙර සොයාගෙන තිබුණ ද මාසයක් තුළදී වොෂින්ටන් හි ආසාදිතයින් සිව්දෙනෙකු වාර්තාවීමත් සමග ලෝකයේම අවධානය මේ පිළිබඳව යොමුව ඇත.
+
+ඉතා වේගයෙන් ආසාදනය විය හැකි Candida auris ඖෂධ ලබාදීම හරහා සුවකිරීම ද අපහසු බව සඳහන් වෙයි.
+
+Candida auris ප්‍රතිශක්තිය අඩු රෝගීන්ට ඉක්මණින් වැළඳිය හැකි අතර ඔක්සිජන් නළ භාවිත කරන සහ කැතීට භාවිතයට ගනු ලබන රෝගීන්ට ඉතා පහසුවෙන් එම දිලීරය ආසාදනය වීමේ වැඩි අවදානමක් පවතින බව වෛද්‍ය විශේෂඥන් පවසයි.
+
+ශරීරයේ විවෘත තුවාල සහ කන් ආශ්‍රිතව ද මෙම Candida auris ආසාදන තත්ත්වයන් ඇතිවීමේ අවදානමක් ඇති බව වෛද්‍යවරුන් පෙන්වාදෙයි.
+
+◼️
+
+[Data](articles/9bf5e60a.json)
 
 ---
 
@@ -1931,39 +1975,5 @@ In addition, the police have seized 152 grams of heroin, 134 grams of ice, 4 kg 
 [Data](articles/e3c6a41f.json)
 
 [Extended Data](ext_articles/e3c6a41f.ext.json)
-
----
-
-### Chamika and champicated suddenly withdraw
-
-*2024-02-04 11:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192955) · `si`
-
-Sri Lanka - Afghanistan Test match will be held at the SC Stadium in Colombo.
-
-Chamik Gunasekera was suddenly withdrawn from the field before a while ago.
-
-The competition commentators said that it would have decided to resign from the charmic colony due to the difficulty caused by it.
-
-◼️
-
-[Data](articles/47c3408d.json)
-
-[Extended Data](ext_articles/47c3408d.ext.json)
-
----
-
-### Navy Seizes Two Poaching Trawlers & 23 Indian Nationals in Sri Lankan Waters
-
-*2024-02-04 10:57:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/04/navy-seizes-two-poaching-trawlers-23-indian-nationals-in-sri-lankan-waters/) · `en`
-
-COLOMBO (News 1st) – The Sri Lanka Navy conducted a special operation to chase away Indian poaching trawlers from Sri Lankan waters on the night of 03rd February 2024. The operation resulted in the seizure of 02 Indian trawlers and apprehension of 23 Indian nationals poaching in northern waters of Sri Lanka, off the Delft Island in Jaffna.
-
-The Navy conducts regular patrols and operations in Sri Lankan waters to curb illegal fishing practices by foreign fishing trawlers, taking into account the consequences of these practices on the livelihood of local fishermen.
-
-...
-
-[Data](articles/21dc4f72.json)
-
-[Extended Data](ext_articles/21dc4f72.ext.json)
 
 ---

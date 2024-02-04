@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 20:32:51**
+As of **2024-02-04 20:49:36**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,765 (100.0%) of 4,766 articles have been extended.
+4,766 (100.0%) of 4,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
 
-### ஆவா குழுவின் தலைவர் கைது
+### Arrests
 
 *2024-02-04 19:43:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆவா-குழுவின்-தலைவர்-கைது/175-332656) · `ta`
 
-யாழ்ப்பாணத்தில் 'ஆவா' குழுவின் தலைவர் என சந்தேகிக்கப்படும் நபரை வலான ஊழல் ஒழிப்புப் பிரிவினர் கைது செய்துள்ளனர்.
+A man who is suspected of being the leader of the 'Ava' group in Jaffna has been arrested by the Anti -Corruption Unit.
 
-கல்கிஸ்ஸை யசோரபுர பகுதியில் உள்ள இரண்டு மாடி வீடொன்றின் மேல் மாடியில் தங்கியிருந்த போதே குறித்த சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+The suspect has been arrested while staying on the top floor of a two -storey house in Kalkis.
 
-இவர் வெளிநாட்டிற்கு தப்பிச் செல்லும் நோக்கில் இவ்வாறு கல்கிஸ்ஸை பகுதியில் தங்கியிருந்திருக்கலாம் என சந்தேகிக்கப்படுவதாக பொலிஸார் மேலும் தெரிவிக்கின்றனர்.
+Police say he may have been suspected of staying in the Kalkissa area to flee abroad.
 
-ஐஸ் போதைப்பொருள் பாவனைக்கு அதிகளவில் அடிமையாகியுள்ள நிலையில், கைது செய்யப்படும் போதும் அவரிடம் இருந்து 1 கிராம் 300 மில்லி கிராம் ஐஸ் போதைப்பொருளும் கைப்பற்றப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது. R
+It is reported that 1 g 300 milligrams of ice have been seized from him despite his arrest, while ice drugs are increasingly addicted to use.. Remble
 
 ◼️
 
 [Data](articles/acc0bda2.json)
+
+[Extended Data](ext_articles/acc0bda2.ext.json)
 
 ---
 

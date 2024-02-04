@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 16:17:35**
+As of **2024-02-04 16:32:49**
 
 ## Newspaper Stats
 
-*Scraped **4,716** Articles*
+*Scraped **4,719** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ newsfirstlk | 287
 adalk | 409
 virakesarilk | 526
 adaderanalk | 589
-adaderanasinhalalk | 595
-tamilmirrorlk | 599
+adaderanasinhalalk | 596
+tamilmirrorlk | 601
 dailymirrorlk | 660
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,716 (100.0%) of 4,716 articles have been extended.
+4,716 (99.9%) of 4,719 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### பொன்சேகாவிற்கு எதிராக ஒழுக்காற்று நடவடிக்கை?
+
+*2024-02-04 16:02:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவிற்கு-எதிராக-ஒழுக்காற்று-நடவடிக்கை/175-332634) · `ta`
+
+பீல்ட் மார்ஷல் சரத் பொன்சேகாவிற்கு எதிராக அவதூறான நிலைப்பாட்டை எடுத்துள்ள எதிர்க்கட்சித் தலைவரும், ஐக்கிய மக்கள் சக்தி கட்சியின் தலைவருமான சஜித் பிரேமதாச, தன்னையும் தனது கட்சியையும் விமர்சிப்பவர்களுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்கத் தான் தயங்கமாட்டார் எனவும் தெரிவித்துள்ளார்.
+
+முன்னாள் இராணுவத் தளபதி ஜெனரல் (ஓய்வுபெற்ற) தயா ரத்நாயக்கவை SJB யின் மூத்த ஆலோசகராக நியமிக்க பிரேமதாச எடுத்த தீர்மானத்தை பாராளுமன்ற உறுப்பினர் பொன்சேகா விமர்சித்த சில நாட்களுக்குப் பின்னர் பிரேமதாசவின் இந்த கருத்து வெளியாகியுள்ளது.
+
+"யாருக்கு நான் கட்சி உறுப்புரிமை வழங்க வேண்டும் என்று யாரும் எனக்கு போன் செய்து சொல்ல வேண்டாம். எனக்கு அறிவுரை கூற முயல்பவர்களை புறக்கணிப்பேன். கட்சியை விமர்சிப்பவர்களுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுப்பது போன்ற துணிச்சலான முடிவுகளை எடுக்க தயங்கமாட்டேன்" என காலியில் நடைபெற்ற கூட்டம் ஒன்றில் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/b613661b.json)
+
+---
+
+### හෙට සිට මාර්තු 11 දක්වා වැසෙන කොළඹ පාරවල්
+
+*2024-02-04 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192964) · `si`
+
+කොල්ලුපිටිය සහ කොම්පඤ්ඤවීදිය පොලිස් වසම් ආශ්‍රිතව උත්තරානන්ද මාවත, පෙරහැර මාවත සහ නවම් මාවත හෙට සිට පියවර කිහිපයක් යටතේ වසා තැබෙන බව පොලීසිය පවසයි.
+
+ඒ නාගරික ඉංජිනේරු දෙපාර්තමේන්තුව විසින් එම මාර්ග ආශ්‍රිතව භූගත නළ එලීමේ කටයුතු සිදුකිරීම හේතුවෙන්.
+
+මෙහිදී හෙට (05) සිට එළඹෙන 19 වනදා දක්වා උත්තරානන්ද මාවතේ නවම් මාවත සිට දුම්රිය හරස් මාර්ගය දක්වා කොටස වසා තැබීමට නියමිතය.
+
+එසේම පෙබරවාරි 20 වනදා සිට මාර්තු 04 වනදා දක්වා කාලය තුළ උත්තරානන්ද මාවතේ පෙරහැර මාවත සිට නවම් මාවත දක්වා කොටස වසා තැබීමට නියමිතය.
+
+එහි තුන්වන අදියර යටතේ මාර්තු මස 05 වනදා සිට මාර්තු 11 වනදා දක්වා කාලය තුළ උත්තරානන්ද මාවත පෙරහැර මාවත ආශ්‍රිතව රෝටුන්ඩාගාඩ්න් මංසන්ධිය කොටස වසා තැබෙන බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/196f712a.json)
+
+---
 
 ### Protest in Jaffna against Independence Day celebrations, five arrested
 
@@ -55,6 +91,8 @@ Ilankai Thamil Arasu Kachchi leader S. Sridharan, Parliamentarian Charles Nirmal
 ### Sri Lanka celebrates 76th Independence Day
 
 *2024-02-04 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sri-Lanka-celebrates-76th-Independence-Day/110-276305) · `en`
+
+The official ceremony to mark the 76th Independence Day of the Democratic Socialist Republic of Sri Lanka got off the ground at the Galle Face Green this morning Thai Prime Minister Srettha Thavisin as the guest of honour. The event saw the participation of President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena, visiting foreign dignitaries, diplomats, military personnel, religious leaders and politicians. Pix by Kushan Pathiraja
 
 ◼️
 
@@ -115,6 +153,24 @@ Therefore, the government should not forget that if the new law is implemented i
 [Data](articles/6a610cf7.json)
 
 [Extended Data](ext_articles/6a610cf7.ext.json)
+
+---
+
+### தாய்லாந்து பிரதமர்  புறப்பட்டார்
+
+*2024-02-04 14:58:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்லாந்து-பிரதமர்-புறப்பட்டார்/175-332629) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அழைப்பின் பேரில் 76வது சுதந்திர விழாவில் கௌரவ அதிதியாக பங்கேற்றிருந்த. தாய்லாந்து பிரதமர் ஸ்ரேத்தா தவிசின் இரண்டு நாட்கள் உத்தியோகபூர்வ விஜயத்தை முடித்துக்கொண்டு நாடு திரும்பினார்.
+
+குறித்த உத்தியோகபூர்வ விஜயத்தின் போது, தாய்லாந்து பிரதமர் ஜனாதிபதியுடன் உத்தியோகபூர்வ கலந்துரையாடல்களில் ஈடுபட்டதுடன், வரலாற்று சிறப்புமிக்க இலங்கை - தாய்லாந்து சுதந்திர வர்த்தக உடன்படிக்கையில் கைச்சாத்திடுவதையும் பார்வையிட்டார்.
+
+மேலும், சுதந்திர வர்த்தக ஒப்பந்தத்தில் தாய்லாந்தின் துணைப் பிரதமரும், வர்த்தக அமைச்சருமான பும்தம் வெச்சயாச்சாய் மற்றும் இலங்கையின் வணிக, வர்த்தக மற்றும் உணவுப் பாதுகாப்பு அமைச்சர் நலின் பெர்னாண்டோ ஆகியோர் கைச்சாத்திட்டனர்.
+
+இலங்கை - தாய்லாந்து சுதந்திர வர்த்தக உடன்படிக்கையின் வாயிலாக இரு நாடுகளுக்கும் இடையிலான வர்த்தக மற்றும் முதலீட்டு உறவுகளை அதிகரிப்பதற்கும், ஆசியான் பொருளாதாரங்களுடன் ஆழமான ஒருங்கிணைப்பை ஊக்குவிப்பதற்கும் எதிர்பார்க்கப்படுகின்றமை குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/81f11234.json)
 
 ---
 
@@ -1973,69 +2029,5 @@ Ali Sabry, Sri Lanka’s foreign minister, echoed the sentiment, telling reporte
 [Data](articles/8c8a14a0.json)
 
 [Extended Data](ext_articles/8c8a14a0.ext.json)
-
----
-
-### Diplomatic grandeur follows Non- Aligned Summit in Uganda
-
-*2024-02-03 22:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Diplomatic-grandeur-follows-Non-Aligned-Summit-in-Uganda/108-276289) · `en`
-
-Kampala, 22 – The recent Summit of the Heads of State and Government of the Non-Aligned Movement (NAM) and the Group of 77 (G77) and China Third South Summit, held in Kampala, Uganda from January 18 to 22, 2024, witnessed robust participation from countries worldwide, fostering collaborative dialogue on global issues.
-
-In a notable highlight, an extraordinary Opulent Five-Course Silver Service Dinner was hosted by Kana Kananathan at his private residence in Kampala, honoring the distinguished presence of President Ranil Wickremesinghe.
-
-The exclusive event brought together eminent dignitaries and esteemed guests for an evening of diplomatic camaraderie at the High Commissioner's residence, set amidst the breathtaking beauty of nature in Uganda’s capital.
-
-...
-
-[Data](articles/a755440d.json)
-
-[Extended Data](ext_articles/a755440d.ext.json)
-
----
-
-### Sri Lanka and Thailand signs free trade agreement
-
-*2024-02-03 22:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175481) · `ta`
-
-The Independent Trade Agreement was signed at the Presidential Secretariat to improve market opportunities, including business, investment, customs activities and intellectual property rights between Thailand and Sri Lanka.
-
-In addition, the liberal bilateral flights between the Sri Lanka -Thailand airlines have been signed at the Presidential Secretariat.
-
-In addition, a Memorandum of Understanding (MoU) was signed at the Presidential Secretariat to strengthen bilateral cooperation between Sri Lanka's Gem Jewelery and Training Institute (GJRTI) and Thailand's Gem Orana Organization (GIT).
-
-Earlier, a group of Thailand's Prime Minister Shreta Davisin arrived in Sri Lanka on Saturday afternoon.
-
-Prime Minister Dinesh Gunawardena welcomed them at the Bandaranaike International Airport.
-
-Following this, President Ranil Wickremesinghe greeted the Prime Minister of Sri Lanka Shreta Tavisin and his team at the Presidential Secretariat at the Presidential Secretariat.
-
-...
-
-[Data](articles/2a7623f6.json)
-
-[Extended Data](ext_articles/2a7623f6.ext.json)
-
----
-
-### Sri Lanka’s trade deficit dropped to lowest in 2023 after 13 years - CBSL
-
-*2024-02-03 21:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/96982/sri-lankas-trade-deficit-dropped-to-lowest-in-2023-after-13-years-cbsl) · `en`
-
-The Central Bank of Sri Lanka (CBSL) says that the cumulative deficit in Sri Lanka’s trade account narrowed to USD 4.9 billion from USD 5.2 billion within last year, the lowest recorded since 2010.
-
-However, the CBSL also stated that the country’s trade deficit widened in December 2023 compared to the trade deficit recorded a year earlier.
-
-The Central Bank made those disclosures while presenting its latest reports on the performance of the external sector of the country’s economy.
-
-In December, Sri Lanka’s merchandise exports revenue declined by 6.2% to USD 1 billion from a year earlier, due to a decline in earnings from industrial exports and mineral exports, while an increase was recorded in agricultural exports in December 2023.
-
-The Central Bank said cumulative export earnings during the period from January to December also declined by 9.1% compared to 2022, to USD 11.91 billion.
-
-...
-
-[Data](articles/71b31b08.json)
-
-[Extended Data](ext_articles/71b31b08.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 18:19:21**
+As of **2024-02-04 18:32:57**
 
 ## Newspaper Stats
 
-*Scraped **4,748** Articles*
+*Scraped **4,749** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 287
 adalk | 410
 virakesarilk | 539
-adaderanalk | 593
+adaderanalk | 594
 adaderanasinhalalk | 600
 tamilmirrorlk | 604
 dailymirrorlk | 663
@@ -26,11 +26,27 @@ dailymirrorlk | 663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,743 (99.9%) of 4,748 articles have been extended.
+4,748 (100.0%) of 4,749 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### Leader of ‘Ava’ criminal gang arrested
+
+*2024-02-04 18:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97000/leader-of-ava-criminal-gang-arrested-) · `en`
+
+The suspected leader of the notorious criminal gang known as ‘Ava’ group, which has committed various crimes including extortion in Jaffna, has been arrested by police.
+
+The arrest was made by officers of the Walana Anti- Vice Unit at a residence in the Mt. Lavinia area.
+
+According to police, the suspect was preparing to flee overseas at the time of his arrest.
+
+◼️
+
+[Data](articles/44fbe30a.json)
+
+---
 
 ### Seven injured following collision on Tissamaharama–Matara road
 
@@ -47,6 +63,8 @@ The injured persons have been identified as residents of Hunagama and Tangalle, 
 ◼️
 
 [Data](articles/3394314e.json)
+
+[Extended Data](ext_articles/3394314e.ext.json)
 
 ---
 
@@ -70,23 +88,25 @@ He said that the women were dragged without the female police and were thrown in
 
 ---
 
-### 76 ஆவது தேசிய சுதந்திர தின விழா : பிரதம அதிதியாக தாய்லாந்து பிரதமர்; உலகத் தலைவர்கள் வாழ்த்து
+### 76th National Independence Day Celebration: Prime Minister of ThailandGreeting the world leaders
 
 *2024-02-04 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/175532) · `ta`
 
-76 ஆவது தேசிய சுதந்திர தின விழா ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் “புதிய தேசம் அமைப்போம்” எனும் தொனிப்பொருளில் ஞாயிற்றுக்கிழமை (04) காலை கொழும்பு காலி முகத்திடலில் வெகுவிமர்சையாக நடைபெற்றது.
+The 76th National Independence Day Celebration was held on Sunday morning at the Galle Face of Colombo under the theme 'New Nation Share "under the leadership of President Ranil Wickremesinghe.
 
-இந்த நிகழ்வில் தாய்லாந்து பிரதமர் ஸ்ரேத்தா தவிசின் பிரதம அதிதியாக கலந்து கொண்டதோடு  உலகில் உள்ள அனைவரின் ஆதரவோடும் மீண்டும் கட்டியெழுப்பப்படும்  இலங்கையின் அடையாளத்தை உலகிற்கு எடுத்துரைப்பதே இதன் நோக்கமாகும்.
+The purpose of the event was to highlight the identity of Sri Lanka, which will be rebuilt with the support of all the world's Prime Minister Shreta Tavis.
 
-ஜனாதிபதியின் வருகையைக் குறிக்கும் வகையில் இலங்கை இராணுவத்தினர் இசைவாத்தியங்களை இசைத்த பின்னர், பாதுகாப்பு படைகளின் பிரதானி, முப்படைத் தளபதிகள் மற்றும் பதில்  பொலிஸ் மா அதிபர் ஆகியோரால் ஜனாதிபதி, விழா நடைபெறும் மைதானத்தின் கொடிக் கம்பம் அருகே அழைத்து வரப்பட்டார்.
+After the Sri Lankan military played the musicians to mark the president's arrival, the President was brought near the flag pole of the ceremony by the chief of the security forces, the commanders of the security forces and the police chief.
 
-அதனைத் தொடர்ந்து பாரம்பரிய மகுல்  இசை மற்றும் சக் ஓசைக்கு  மத்தியில் ஜனாதிபதியால் தேசியக் கொடி ஏற்றி வைக்கப்பட்டதைத் தொடர்ந்து விழா நிகழ்வுகள் ஆரம்பமாகின.
+Following this, the ceremony began following the president's flag hoisting by the president amidst the traditional Magul music and chuckle.
 
-ஜனாதிபதி விசேட மேடைக்கு அழைத்துச் செல்லப்பட்டதைத் தொடர்ந்து 105 பாடசாலை மாணவிகள்  தேசிய கீதத்தை பாடினர். அதனை தொடர்ந்து பாடசாலை மாணவிகள் ஜெயமங்கல கீதம் மற்றும் காத்தா இசைத்தனர்.
+105 school students sang the national anthem after the president was taken to the special stage. Following this, the school students played the Jayamangala anthem and Katha.
 
 ...
 
 [Data](articles/067d95f5.json)
+
+[Extended Data](ext_articles/067d95f5.ext.json)
 
 ---
 
@@ -164,6 +184,8 @@ Residents said the strikes shook buildings in Houthi-controlled Sanaa. The group
 
 [Data](articles/fcd0f69e.json)
 
+[Extended Data](ext_articles/fcd0f69e.ext.json)
+
 ---
 
 ### Will the unity of evolving?
@@ -201,6 +223,8 @@ The Cardinal who compared the Singaporean leaders with the Sri Lankan counterpar
 ◼️
 
 [Data](articles/2242efa5.json)
+
+[Extended Data](ext_articles/2242efa5.ext.json)
 
 ---
 
@@ -755,6 +779,8 @@ The complex six-hour operation, carried out at the Kandy Hospital, involved a te
 ◼️
 
 [Data](articles/723e1084.json)
+
+[Extended Data](ext_articles/723e1084.ext.json)
 
 ---
 
@@ -1999,25 +2025,5 @@ As a result of the protest march from Kalladi Bridge to Gandhi Park in Batticalo
 [Data](articles/d4132f79.json)
 
 [Extended Data](ext_articles/d4132f79.ext.json)
-
----
-
-### Imperative to obtain insights from past mistakes and avoid repetition – President
-
-*2024-02-04 08:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96985/imperative-to-obtain-insights-from-past-mistakes-and-avoid-repetition-president) · `en`
-
-In his Independence Day message, President Ranil Wickremesinghe invited all Sri Lankans, here and abroad, to contribute their utmost energy to the noble mission of rebuilding the nation.
-
-He said that achievements were realized progressively, owing to the steadfast support of the country’s citizens who endured hardships in keeping with a comprehensive, long-term national rebuilding programme.
-
-“Throughout this journey, challenges will gradually dissipate, life’s burdens will lighten, the economy will fortify and Mother Sri Lanka will undergo a renaissance,” he said.
-
-The President said that upon gaining independence in 1948, global expectations envisioned Sri Lanka evolving into a developed nation in the East, given its favourable background. “Regrettably, we deviated from this course and found ourselves grappling with economic difficulties,” he said.
-
-...
-
-[Data](articles/d2e6a833.json)
-
-[Extended Data](ext_articles/d2e6a833.ext.json)
 
 ---

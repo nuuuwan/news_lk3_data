@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 01:32:56**
+As of **2024-02-05 01:49:30**
 
 ## Newspaper Stats
 
-*Scraped **4,790** Articles*
+*Scraped **4,792** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 57
+colombotelegraphcom | 59
 bbccomsinhala | 71
 dbsjeyarajcom | 136
 islandlk | 254
@@ -26,7 +26,7 @@ dailymirrorlk | 671
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,790 (100.0%) of 4,790 articles have been extended.
+4,790 (100.0%) of 4,792 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -416,6 +416,18 @@ However, the protesters, including the security personnel, had entered the prote
 
 ---
 
+### Les Enfants Du Paradis – Part III
+
+*2024-02-04 19:18:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/les-enfants-du-paradis-part-iii/) · `en`
+
+The collapse of the rule of law can be illustrated by three examples.
+
+...
+
+[Data](articles/56065451.json)
+
+---
+
 ### Anura Kumara to leave for India tomorrow on official invitation
 
 *2024-02-04 19:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-Kumara-to-leave-for-India-tomorrow-on-official-invitation/108-276310) · `en`
@@ -429,6 +441,22 @@ Parliamentarian Vijitha Herath,  NPP Secretary Dr. Nihal Abeysinghe and Nationa
 [Data](articles/8b74e5de.json)
 
 [Extended Data](ext_articles/8b74e5de.ext.json)
+
+---
+
+### A Letter To Anura Kumara Dissanayake – Spell Out Your Agenda
+
+*2024-02-04 19:13:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-letter-to-anura-kumara-dissanayake-spell-out-your-agenda/) · `en`
+
+Today, Sri Lankans are totally fed up with both political parties. Millions of Lankans have finally realized that together the two major parties ran our country to ground while protecting each other when laws were broken, and corruption was evident.
+
+Thank to the contribution of the social media, an angry public who were deprived of the very basic necessities of life rallied together and managed to chase away a president who mismanaged the country, a historic first in our beloved island.
+
+Two of his catastrophic decisions were giving a tax to the tune of around Rs 600 billion without figuring out how to pay for it (now RW has made the people pay for it with increased taxes) and later opting to go for organic fertilizer during a global pandemic thereby ruining the only healthy sector of our economy which was agriculture. Had Gota not been given the huge tax cut he might have had the money to buy chemical fertilizer.
+
+...
+
+[Data](articles/7a5703cd.json)
 
 ---
 
@@ -1909,45 +1937,5 @@ The complex six-hour operation, carried out at the Kandy Hospital, involved a te
 [Data](articles/647073c1.json)
 
 [Extended Data](ext_articles/647073c1.ext.json)
-
----
-
-### “Turtle Rabbit Act comes"
-
-*2024-02-04 12:12:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆமை-முயல்-சட்டம்-வருகிறது/175-332626) · `ta`
-
-The Ministry of Transport and Highways has decided to implement the law against drivers driving at a lower speed on the highway.
-
-Most of the accidents reported on highways are caused by drivers driving at a low speed, a ministry official said.
-
-Meanwhile, Transport Minister Dr. Bandula Gunawardena has decided to introduce new rules on speeding.
-
-◼️
-
-[Data](articles/9e72e877.json)
-
-[Extended Data](ext_articles/9e72e877.ext.json)
-
----
-
-### Annual Excise License fees revised
-
-*2024-02-04 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96990/annual-excise-license-fees-revised-) · `en`
-
-The Annual Excise License fees imposed earlier this year including on taverns and liquor retail outlets have been revised, effective from 01 February, the Ministry of Finance revealed.
-
-Accordingly, while the fee of Rs. 25 million imposed on new taverns remains unchanged, the Annual Tavern License fee has been reduced from Rs. 2.5 million to Rs. 02 million.
-
-Meanwhile, the license fee levied for the bottling of coconut toddy was reduced from Rs.10 million to Rs. 1.5 million while the bottling of palmyra toddy was also reduced to Rs. 500,000.
-
-The license fee for manufacturing vinegar was also reduced from Rs. 2.5 million to Rs. 500,000.
-
-The Retail License for Liquor in Municipal Areas was reduced from Rs. 15 million to Rs. 1 million, while that imposed in Urban Council areas was reduced from Rs. 12.5 million to Rs. 800,000 and the license fee of Rs. 10 million imposed in all other areas was reduced from Rs. 10 million to Rs. 600,000.
-
-◼️
-
-[Data](articles/eb51fc00.json)
-
-[Extended Data](ext_articles/eb51fc00.ext.json)
 
 ---

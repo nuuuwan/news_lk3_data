@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 19:17:18**
+As of **2024-02-04 19:32:34**
 
 ## Newspaper Stats
 
-*Scraped **4,763** Articles*
+*Scraped **4,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 287
 adalk | 411
 virakesarilk | 546
-adaderanalk | 594
+adaderanalk | 595
 tamilmirrorlk | 604
 adaderanasinhalalk | 606
 dailymirrorlk | 663
@@ -26,7 +26,7 @@ dailymirrorlk | 663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,763 (100.0%) of 4,763 articles have been extended.
+4,763 (100.0%) of 4,764 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -131,6 +131,26 @@ It is better to re -discuss the election and choose the unanimously with no comp
 [Data](articles/097e4717.json)
 
 [Extended Data](ext_articles/097e4717.ext.json)
+
+---
+
+### Namibia’s President Hage Geingob dies after cancer diagnosis
+
+*2024-02-04 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97001/namibias-president-hage-geingob-dies-after-cancer-diagnosis) · `en`
+
+Namibia’s President Hage Geingob, 82, died in hospital early on Sunday, the presidency said, weeks after he was diagnosed with cancer.
+
+Geingob had been in charge of the thinly populated and mostly arid southern African country since 2015, the year he announced he had survived prostate cancer.
+
+Vice President Nangolo Mbumba takes the helm in Namibia - a mining hotspot with significant deposits of diamonds and the electric car battery ingredient lithium - until presidential and parliamentary elections at the end of the year.
+
+A presidency post on social media platform X did not give a cause of death, but late last month the presidency said he had travelled to the United States for “a two-day novel treatment for cancerous cells”, after being diagnosed following a regular medical check-up.
+
+Born in 1941, Geingob was a prominent politician since before Namibia achieved independence from white minority-ruled South Africa in 1990.
+
+...
+
+[Data](articles/e79cf89b.json)
 
 ---
 
@@ -1965,25 +1985,5 @@ There is not even a struggle in support of Eelam Tamils in India. The nations of
 [Data](articles/cc58430c.json)
 
 [Extended Data](ext_articles/cc58430c.ext.json)
-
----
-
-### Youth arrested with Italy
-
-*2024-02-04 09:50:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இத்தாலி-துப்பாகியுடன்-இளைஞன்-கைது/175-332614) · `ta`
-
-Based on information from the Bentota police, police said that the handgun made abroad from a 17 -year -old youth walking on the road in Bentota Warahahena area was seized from a foreign man.
-
-Is the captured gun involved in any crime?Police said they were investigating.
-
-The suspect who was arrested on Saturday afternoon (3) afternoon was a policeman, police said.
-
-The suspect is being produced before the Magistrate's Court and will be kept in detention for seven days for further inquiries. They are.
-
-◼️
-
-[Data](articles/41d0cf99.json)
-
-[Extended Data](ext_articles/41d0cf99.ext.json)
 
 ---

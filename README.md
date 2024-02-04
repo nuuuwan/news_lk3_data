@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 17:52:49**
+As of **2024-02-04 18:07:08**
 
 ## Newspaper Stats
 
-*Scraped **4,736** Articles*
+*Scraped **4,743** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ islandlk | 254
 economynextcom | 256
 dailyftlk | 280
 newsfirstlk | 287
-adalk | 409
-virakesarilk | 532
+adalk | 410
+virakesarilk | 538
 adaderanalk | 591
 adaderanasinhalalk | 600
 tamilmirrorlk | 604
@@ -26,11 +26,125 @@ dailymirrorlk | 661
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,736 (100.0%) of 4,736 articles have been extended.
+4,743 (100.0%) of 4,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### Democratic path
+
+*2024-02-04 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175518) · `ta`
+
+There is no doubt that the two great ideological sides are interested in ensuring that the strength of the Tamil people is going to be a Western force with a democratic strength, or that the Maldives is going to be a democratic face -like autocratic ideology.. It is very important that political leadership take advantage of this position in favor of the concept of their homeland theory.
+
+It is inevitable that every political party in the world has different ideas and positions. It is not forgotten that the best characteristic of a political party is to solve all of them independently.
+
+At the same time, other political parties and organizations are working through their general conferences through internal election democracy and their democratic values transparency.. Also, thinkers, civil organizations, journalists and writers are felt that they should continue to act as the guards of national sovereignty.
+
+◼️
+
+[Data](articles/40456735.json)
+
+[Extended Data](ext_articles/40456735.ext.json)
+
+---
+
+### International Court and Gaza genocide!
+
+*2024-02-04 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/175513) · `ta`
+
+The verdict does not deal with South Africa's main allegation of Israeli genocide in Palestine. On the contrary, the actions demanded by South Africa are aimed at protecting the rights of the Palestinian people under the genocide.
+
+Temporary measures demanded by South Africa are demands to be put before the final judgment of the main case, and it may take years to the final judgment.
+
+It is true that the rulings of the International Court of Justice are controlled by all sides, but there is no way to implement them.
+
+◼️
+
+[Data](articles/2dcec39f.json)
+
+[Extended Data](ext_articles/2dcec39f.ext.json)
+
+---
+
+### When I went to save university students, the attack was also attacked - women were dragged without police - Sreedharan
+
+*2024-02-04 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175555) · `ta`
+
+Parliamentarian Sreedharan said that a policeman had attacked me when I rescued the university students.
+
+Today, the police have brought the anarchy of the Sri Lankan government to the eyes of the international community, ”he said.
+
+He also noted that the police were very brutally acting on university students and the public.
+
+He said that the women were dragged without the female police and were thrown into the sky.
+
+◼️
+
+[Data](articles/6c55943e.json)
+
+[Extended Data](ext_articles/6c55943e.ext.json)
+
+---
+
+### Anurakumara and calling
+
+*2024-02-04 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175549) · `ta`
+
+Anuragumara Dissanayake has used India to express its pro -Indian status by welcoming the country through national unity.
+
+It is noteworthy, however, that his party is providing China's relief packages in the North.
+
+Creating conflict on the island of Sri Lanka may be rulers. The JVP was also the cause of those conflicts.
+
+Especially in 2006, the role of the JVP in pushing the country into war was not underestimated by anyone.
+
+It is only through those who have felt the mistakes of the past, and those who accept those mistakes and provide remedy justice can be embraced by the Tamil people.
+
+◼️
+
+[Data](articles/00d71762.json)
+
+[Extended Data](ext_articles/00d71762.ext.json)
+
+---
+
+### Will the unity of evolving?
+
+*2024-02-04 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175553) · `ta`
+
+India is in a state of confusion as to whether the Tamils are excluded to handle Colombo - whether to handle the Tamils and handle the Tamils.
+
+India has not yet moved towards the choice of handling Tamils with Tamils.
+
+Until that situation is created, India will keep the 13th Amendment and the time to create a united position among the Tamil national parties.
+
+However, the Tamil issue has not resolved and the blame for India has abandoned them.
+
+◼️
+
+[Data](articles/96704ed4.json)
+
+[Extended Data](ext_articles/96704ed4.ext.json)
+
+---
+
+### 'Yuktha' that has caused opposition
+
+*2024-02-04 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175551) · `ta`
+
+Minister of International Human Rights Organizations, including the UN Human Rights Commission, demanded that the move be halted, Minister Tran Ales did not care about it.. The Minister, who asked why I should be a minister in this government, said that if there is no underworld, some lawyers in the country will not appear in court, and they are opposed to these actions due to their unable reasons.
+
+The Minister and the Inspector General of Police must recognize that if the country is to control the crimes, it cannot be implemented without the support of the people.. Because people are more aware of the thieves than the police.
+
+◼️
+
+[Data](articles/a60b8162.json)
+
+[Extended Data](ext_articles/a60b8162.ext.json)
+
+---
 
 ### Suspect arrested for over Rs.10 million
 
@@ -619,6 +733,28 @@ Accordingly, the promotions of the 211 Army Officers were as follows; 02 Brigadi
 [Data](articles/d2128f22.json)
 
 [Extended Data](ext_articles/d2128f22.ext.json)
+
+---
+
+### Presidential election - New President appointed on October 14
+
+*2024-02-04 12:59:24* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-ඔක්තෝබර්-පළමු-සතියේදී---නව-ජනපති-ඔක්තෝබර්-14දා-පත්වෙයි/11-407891) · `si`
+
+The best doctor to build the deadly sick country is that the presidential election will be held on October 14, Minister Harin Fernando, Minister Harin Fernando.
+
+He said that although he would be reluctant, but the people of the country would have been responsible for the president in the future, even if they were reluctant.
+
+The people have bowed the bitter medicine, but it is due to the intensive care unit again due to the ward, which is in the ward.
+
+President Ranil Wickremesinghe has been prepared to be held at the Rangiri Dambulla International Cricket Stadium on the 5th of the 5th of the country's land ownership.. Harin Fernando said this on the 3rd when he came to an observation work in the program.
+
+Ranil Wickremesinghe is a member of the presidential election in the presidential election and another 47 percent of the country's elections is a dream and Harin Fernando said that he would never come true.
+
+...
+
+[Data](articles/a979c5ec.json)
+
+[Extended Data](ext_articles/a979c5ec.ext.json)
 
 ---
 
@@ -1883,137 +2019,5 @@ The body is in the same place and will be conducted today (04).
 [Data](articles/652799a8.json)
 
 [Extended Data](ext_articles/652799a8.ext.json)
-
----
-
-### 76th Independence Day (Live)
-
-*2024-02-04 08:10:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/76ஆவது-சுதந்திர-தினம்-நேரலை/52-332610) · `ta`
-
-The main ceremony of the country's 76th Independence Day is being held in Colombo-Kali face.
-
-◼️
-
-[Data](articles/3fc24a4c.json)
-
-[Extended Data](ext_articles/3fc24a4c.ext.json)
-
----
-
-### Today is the third day of the Test match
-
-*2024-02-04 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192947) · `si`
-
-The third day of the Test match between Afghanistan and Sri Lanka is today.
-
-When the match was stopped yesterday, Sri Lanka scored 410 wickets for the first innings.
-
-The Afghan group was bowled out for the first innings, only 198 points.
-
-Accordingly, the Sri Lankan team is 212 runs in the first innings.
-
-◼️
-
-[Data](articles/fa183e50.json)
-
-[Extended Data](ext_articles/fa183e50.ext.json)
-
----
-
-### 76th Independence Day Celebration begins
-
-*2024-02-04 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192946) · `si`
-
-The rest of the ceremony is scheduled to commence with President Ranil Wickremesinghe.
-
-Thailand's Prime Minister Shrathna Thailand is the Chief Guest at the Galle Face.
-
-◼️
-
-[Data](articles/bade7d93.json)
-
-[Extended Data](ext_articles/bade7d93.ext.json)
-
----
-
-### Google Doodle celebrates Sri Lanka’s Independence Day 2024
-
-*2024-02-04 07:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Google-Doodle-celebrates-Sri-Lankas-Independence-Day-2024/108-276293) · `en`
-
-Colombo, Feb 04 (Daily Mirror) - Google celebrated Sri Lanka’s 76th Independence Day today with a Google Doodle featuring the Sri Lankan flag with ‘Google’ below it.
-
-Google periodically changes its doodle to mark a historic occasion.
-
-Google released the doodle marking this occasion that spans the region of Sri Lanka over its visibility.
-
-◼️
-
-[Data](articles/ef1bdde3.json)
-
-[Extended Data](ext_articles/ef1bdde3.ext.json)
-
----
-
-### Floral tributes offered to late Prime Minister D.S. Senanayake
-
-*2024-02-04 07:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Floral-tributes-offered-to-late-Prime-Minister-D-S-Senanayake/110-276292) · `en`
-
-Late Prime Minister D.S. Senanayake was honored with floral tributes at his statue in Independence Square, Colombo today to mark the 76th Independence Day. Minister Susil Premjayantha, Former Speaker Karu Jayasuriya, Senior Advisor to President Ranil Wickremesinghe on Climate Change Ruwan Wijewardene, Colombo Municipal Commissioner Bhadrani Jayawardena, and Former Minister Hemakumara Nanayakkara paid their respects at the late Premier’s statue. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/2f622993.json)
-
-[Extended Data](ext_articles/2f622993.ext.json)
-
----
-
-### Joint Attack on Hoost Goals
-
-*2024-02-04 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192945) · `si`
-
-Britain and America have served a combined attacks on Yemen's poorest goals.
-
-The Pentagon was announced that 36 digitaries of Yemen were attacked.
-
-The target of weapons, missile systems, air protection systems and radar centers are targeted.
-
-Attack attack on LTTE targets in Syria and Iraq, the attack on the Yemen again.
-
-The United Nations Security Council has decided to summon an urgent meeting tomorrow (05) after the latest attack.
-
-The meeting is reported to be summoned on the request of Russia and Iranian pro-employers.
-
-◼️
-
-[Data](articles/b94a5084.json)
-
-[Extended Data](ext_articles/b94a5084.ext.json)
-
----
-
-### Imran Khan and wife Bushra Bibi jailed for illegal marriage
-
-*2024-02-04 07:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Imran-Khan-and-wife-Bushra-Bibi-jailed-for-illegal-marriage/108-276291) · `en`
-
-Pakistan, Feb 04 (BBC) - A Pakistani court has jailed Imran Khan and his wife for seven years after voiding their marriage, in the latest sentence against the ex-prime minister.
-
-The court ruled that Khan's 2018 marriage with Bushra Bibi, a faith healer, was un-Islamic and illegal.
-
-He is already in jail for corruption. Last Wednesday, a week before a general election, the pair were convicted of profiting from state gifts.
-
-Khan, 71, has said the numerous cases against him are politically motivated.
-
-Pakistan's former cricket captain-turned-politician was ousted as prime minister in 2022.
-
-A court was set up inside the Adiala Jail in Rawalpindi, where Khan is serving his previous sentences, for the latest case.
-
-The complaint was filed by Bibi's ex-husband, who said her marriage with Khan had been fraudulent.
-
-...
-
-[Data](articles/1ad0fe7f.json)
-
-[Extended Data](ext_articles/1ad0fe7f.ext.json)
 
 ---

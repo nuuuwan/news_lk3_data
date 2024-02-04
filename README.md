@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 18:32:57**
+As of **2024-02-04 18:51:05**
 
 ## Newspaper Stats
 
-*Scraped **4,749** Articles*
+*Scraped **4,754** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,63 @@ newsfirstlk | 287
 adalk | 410
 virakesarilk | 539
 adaderanalk | 594
-adaderanasinhalalk | 600
 tamilmirrorlk | 604
+adaderanasinhalalk | 605
 dailymirrorlk | 663
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,748 (100.0%) of 4,749 articles have been extended.
+4,754 (100.0%) of 4,754 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### Today is the 20th birthday
+
+*2024-02-04 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192974) · `si`
+
+Facebook's Social Media Network is for 20 years on Facebook Social Media Network.
+
+In February 4, 2004, the origin of the face of the world was the origin of the world.
+
+Squerberg may not think that Facebook is so popular in the world that he created by the goal of the man's welfare.
+
+However, this is a special conversation in this regard, however, has a special conversation with the founder of the United States Senate.
+
+For the extent there is the best measure of the founder of its Creator's apology.
+
+There he apologized for the damage caused by Facebook.
+
+In addition to Facebook, many social media columns have been created by now and Facebook excelled as a turning point in digital world.
+
+◼️
+
+[Data](articles/02720b16.json)
+
+[Extended Data](ext_articles/02720b16.ext.json)
+
+---
+
+### President retires to death in Namibia
+
+*2024-02-04 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192973) · `si`
+
+Foreign media reports that President of Namibia has died.
+
+Since 2015, he has held the presidency of Namibia since 2015.
+
+Earlier, foreign media reports that President Hage Geingob could suffer from a cancer.
+
+◼️
+
+[Data](articles/d9166855.json)
+
+[Extended Data](ext_articles/d9166855.ext.json)
+
+---
 
 ### Leader of ‘Ava’ criminal gang arrested
 
@@ -45,6 +89,46 @@ According to police, the suspect was preparing to flee overseas at the time of h
 ◼️
 
 [Data](articles/44fbe30a.json)
+
+[Extended Data](ext_articles/44fbe30a.ext.json)
+
+---
+
+### Makalla Boss arrested
+
+*2024-02-04 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192972) · `si`
+
+Arrested for many crimes in Jaffna
+
+The suspect has been arrested following a raid conducted by the OIC Chief Inspector Indika Weerasinghe by the Director of the Walana Wickremasinghe.
+
+The suspect was arrested while staying in a two storied house in Yashorapura, Mount Lavinia.
+
+The police further states that he may have been in the case of the Mount Lavinia, in view of a foreign country.
+
+He was strictly with ice drugs and found 1 mm of ice drugs and 300 milligrams of ice.
+
+◼️
+
+[Data](articles/34fdbf58.json)
+
+[Extended Data](ext_articles/34fdbf58.ext.json)
+
+---
+
+### Champika hospitalized
+
+*2024-02-04 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192971) · `si`
+
+Sri Lanka Cricket has issued a statement regarding the condition of Chamakan Gunasekera, who was leaving the competition during the Test match between Sri Lanka-Afghanistan Test match.
+
+It states that he is currently under the medical supervision.
+
+◼️
+
+[Data](articles/cfef6ce2.json)
+
+[Extended Data](ext_articles/cfef6ce2.ext.json)
 
 ---
 
@@ -107,6 +191,22 @@ Following this, the ceremony began following the president's flag hoisting by th
 [Data](articles/067d95f5.json)
 
 [Extended Data](ext_articles/067d95f5.ext.json)
+
+---
+
+### An earthquake of India
+
+*2024-02-04 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192970) · `si`
+
+The earthquake has caused a 3.8 units of the Richter's thumb, foreign media reports say.
+
+However, there have been no lives or property damage.
+
+◼️
+
+[Data](articles/687ffcd8.json)
+
+[Extended Data](ext_articles/687ffcd8.ext.json)
 
 ---
 
@@ -1915,115 +2015,5 @@ It is noteworthy that this is the third attack on the United States and Britain 
 [Data](articles/0f86e564.json)
 
 [Extended Data](ext_articles/0f86e564.ext.json)
-
----
-
-### ’Contribute utmost energy to noble mission of rebuilding our nation’: President
-
-*2024-02-04 08:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Contribute-utmost-energy-to-noble-mission-of-rebuilding-our-nation-President/108-276295) · `en`
-
-Colombo, Feb. 4 (Daily Mirror)- President Ranil Wickremesinghe in his Independence Day message invited all Sri Lankans, at home and abroad, to contribute their utmost energy to the noble mission of rebuilding the nation.
-
-The President  said,“as we commemorated the 75th year of our nation’s independence, we encountered the indignity of being labeled a financially bankrupt country. Nevertheless, upon the advent of the 76th Independence Day, we have effectively navigated through these challenges, steering the economy toward stability despite numerous impediments and challenges.
-
-Achievements were realized progressively, owing to the steadfast support of our citizens who endured hardships in keeping with a comprehensive, long-term national rebuilding programme.throughout this journey, challenges will gradually dissipate, life’s burdens will lighten, the economy will fortify and Mother Sri Lanka will undergo a renaissance.
-
-...
-
-[Data](articles/22bfa52b.json)
-
-[Extended Data](ext_articles/22bfa52b.ext.json)
-
----
-
-### 76th Independence Day will be marked as a new turning point in Sri Lanka’s economy - PM
-
-*2024-02-04 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96986/76th-independence-day-will-be-marked-as-a-new-turning-point-in-sri-lankas-economy-pm) · `en`
-
-Prime Minister Dinesh Gunawardena says Sri Lanka is celebrating Independence Day at a time when the country is slowly returning to the right path of progress after facing an unprecedented economic crisis.
-
-“We are crossing those difficult hurdles by embarking on a number of measures towards food security, rural revitalization and a productive economy,” he said in his Independence Day message.
-
-He said the 76th National Independence Day will be marked as a new turning point in the economy in anticipation of overcoming challenges and building a prosperous country.
-
-“Let’s all move forward together for the development and progress of the country while preserving freedom,” he urged.
-
-Our ancestors created a proud history for us. As their children and grandchildren, we should bequeath it meaningfully to the next generation.
-
-...
-
-[Data](articles/2ee6ba23.json)
-
-[Extended Data](ext_articles/2ee6ba23.ext.json)
-
----
-
-### Shoots a mistake from Iran
-
-*2024-02-04 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192951) · `si`
-
-Iran says that American air strikes are a strategic wrong to Iraq and Syria.
-
-Last Friday, the US had attacked 85 targets in Iraq and Syria.
-
-The White House stated that three soldiers were killed and more than 40 were killed and more than 40 others injured.
-
-The Foreign Minister of Iranian Foreign Minister said that the attacks would not result from the stress and instability in the region.
-
-Iraqi authorities have said that 16 persons including civilians were killed in the attack.
-
-◼️
-
-[Data](articles/671f3891.json)
-
-[Extended Data](ext_articles/671f3891.ext.json)
-
----
-
-### Four killed in road accidents
-
-*2024-02-04 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192950) · `si`
-
-A couple was killed in an accident in the Talatthaoya Police Division in Thalathuoya Police Division.
-
-The accident had occurred yesterday (03) at the time.
-
-The accident occurred in the van which was driven from Ragala to the right road to turn a motorcycle towards the Ragala down to the Ragala.
-
-The motorcyclist and the followers were rushed to the Kandy hospital.
-
-The deceased is a 68 year old and 62-year-old resident of the Medirigiriya address.
-
-Meanwhile, a 70-year-old man was killed in accident and a car collided with a car and a vehicle in Narammala - Katupotha road.
-
-Meanwhile, 63
-
-◼️
-
-[Data](articles/2f0b5271.json)
-
-[Extended Data](ext_articles/2f0b5271.ext.json)
-
----
-
-### Handing over to those who were sleeping
-
-*2024-02-04 08:40:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/நித்திரையில்-இருந்தவர்களிடம்-தடை-உத்தரவு-கையளிப்பு/73-332612) · `ta`
-
-The court has issued a ban on 17 members of parliamentarians and organizers of the party, which is scheduled to be held in Batticaloa, which was organized in Batticaloa against Independence Day.
-
-The police have issued a ban issued on Saturday (03) to the homes of those who are in the night.
-
-Northern and Eastern University students organized a massive demonstration in the north and east, declaration of a day in the North and East, celebrating the 76th Independence Day of Sri Lanka, February (04).
-
-The associations of the missing relations and some political parties announced that it would support it.
-
-As a result of the protest march from Kalladi Bridge to Gandhi Park in Batticaloa. Independence Day Celebration will be held at Weber Ground.
-
-...
-
-[Data](articles/d4132f79.json)
-
-[Extended Data](ext_articles/d4132f79.ext.json)
 
 ---

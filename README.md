@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 12:33:10**
+As of **2024-02-04 12:49:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,673 (99.7%) of 4,688 articles have been extended.
+4,688 (100.0%) of 4,688 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,55 +46,63 @@ The complex six-hour operation, carried out at the Kandy Hospital, involved a te
 
 [Data](articles/4d142b79.json)
 
+[Extended Data](ext_articles/4d142b79.ext.json)
+
 ---
 
-### “ஆமை முயல் சட்டம் வருகிறது”
+### “Turtle Rabbit Act comes"
 
 *2024-02-04 12:12:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆமை-முயல்-சட்டம்-வருகிறது/175-332626) · `ta`
 
-அதிவேக நெடுஞ்சாலையில் குறைந்தபட்ச வேகத்தை விட குறைவான வேகத்தில் வாகனம் ஓட்டும் ஓட்டுனர்களுக்கு எதிராக சட்டத்தை அமல்படுத்தவும் போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சு முடிவு செய்துள்ளது.
+The Ministry of Transport and Highways has decided to implement the law against drivers driving at a lower speed on the highway.
 
-அதிவேக நெடுஞ்சாலைகளில் பதிவாகும் பெரும்பாலான விபத்துகளுக்கு ஓட்டுனர்கள் குறைந்த வேகத்தில் வாகனம் ஓட்டுவதாலேயே ஏற்படுவதாக அமைச்சின் அதிகாரி ஒருவர் தெரிவித்தார்.
+Most of the accidents reported on highways are caused by drivers driving at a low speed, a ministry official said.
 
-இதேவேளை, அதிவேகமாக வாகனம் செலுத்துவது தொடர்பில் புதிய விதிமுறைகளை அறிமுகப்படுத்த போக்குவரத்து அமைச்சர் கலாநிதி பந்துல குணவர்தன தீர்மானித்துள்ளார்.
+Meanwhile, Transport Minister Dr. Bandula Gunawardena has decided to introduce new rules on speeding.
 
 ◼️
 
 [Data](articles/9e72e877.json)
 
+[Extended Data](ext_articles/9e72e877.ext.json)
+
 ---
 
-### கிளிநொச்சியில் பதற்றம்
+### Tension in Kilinochchi
 
 *2024-02-04 12:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கிளிநொச்சியில்-பதற்றம்/72-332625) · `ta`
 
-76 வது சுதந்திர தினமான ஞாயிற்றுக்கிழமை (04)  கிளிநொச்சியில் இடம்பெறவுள்ள போராட்டத்தை   தடுக்க பொலிஸார் தயார் நிலையில் வைக்கப்பட்டுள்ளனர். இதனால், கிளிநொச்சியில் ஒருவகையான பதற்றமான நிலை ஏற்பட்டுள்ளது,
+Police are ready to prevent the protest in Kilinochchi on Sunday (04), the 76th Independence Day. As a result, there has been some kind of tense situation in Kilinochchi,
 
-இலங்கையின் 76 வது சுதந்திர தின நிகழ்வுக்கு எதிர்ப்பு தெரிவித்து கிளிநொச்சியில் இன்று (04) மேற்கொள்ளப்படவிருக்கும் போராட்டத்தை தடுக்கும் வகையில்  பொலிஸார் தயார்ப்படுத்தப்பட்டிருந்தனர்.
+The police were prepared to prevent the protest in Kilinochchi today (04) in protest of Sri Lanka's 76th Independence Day.
 
-யாழ். பல்கலைக்கழக மாணவர் ஒன்றியத்தின் ஏற்பாட்டில் “சுதந்திர நாள் கரிநாள்” என்றுகூறி  கிளிநொச்சியில் போராட்டம் ஒன்று மேற்கொள்ள ஏற்பாடு செய்யப்பட்டுள்ளது.
+Yall. A protest has been organized in Kilinochchi in the arrangement of the University Student Union.
 
-குறித்த போராட்டத்தை கட்டுப்படுத்தும் வகையில் போராட்டத்தை செயற்படுத்தும் ஐந்து நபர்களுக்கு தடை உத்தரவு பொலிஸாரால் பெறப்பட்டிருந்தன.  அத்தோடு அதிகளவான பொலிஸார் மற்றும் நீர்த்தாரை  பிரயோக வாகனம் உள்ளிட்டவற்றுடன் பொலிஸார் தயார்ப்படுத்தப்பட்டிருந்தனர்.
+The police had received a ban on five persons who were carrying out the struggle to curb the struggle.In addition, the police were prepared with a large number of police and a reservoir vehicle.
 
 ◼️
 
 [Data](articles/b8c536ba.json)
 
+[Extended Data](ext_articles/b8c536ba.ext.json)
+
 ---
 
-### கார் திருடிய சம்பவத்தில் ஒருவர் கைது
+### A man arrested for stealing car
 
 *2024-02-04 11:59:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கார்-திருடிய-சம்பவத்தில்-ஒருவர்-கைது/175-332624) · `ta`
 
-கம்பஹா வீரகுல பிரதேசத்தில் கார் திருடப்பட்ட சம்பவம் தொடர்பில் 28 வயதுடைய சந்தேக நபர் நிட்டபுவ பிரதேசத்தில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+A 28 -year -old suspect has been arrested in Nitapuwa area in connection with the stealing of a car in Veerakula area.
 
-திருடப்பட்ட கார் கம்பஹா மேல் யாகொட பகுதியில் உள்ள வீதியொன்றில் கைவிடப்பட்ட நிலையில் காணப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+The stolen car was found abandoned on a road in the upper Yagoda area of Gampaha, police said.
 
-குறித்த சம்பவத்துடன் மற்றுமொரு நபருக்கு தொடர்பு இருப்பதாக பொலிஸார் தெரிவித்ததுடன், சந்தேக நபரை கைது செய்வதற்கான விசாரணைகள் தொடர்ந்தும் முன்னெடுக்கப்பட்டு வருகின்றன.
+Police said that another person was involved in the incident and investigations to arrest the suspect are ongoing.
 
 ◼️
 
 [Data](articles/a4182332.json)
+
+[Extended Data](ext_articles/a4182332.ext.json)
 
 ---
 
@@ -132,19 +140,21 @@ The annual license fee for municipal areas has been reduced to Rs.
 
 ---
 
-### கைதிகளுக்கு பொதுமன்னிப்பு
+### Amnesty
 
 *2024-02-04 11:35:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதிகளுக்கு-பொதுமன்னிப்பு/175-332623) · `ta`
 
-இலங்கையின் 76வது சுதந்திர தினத்தை  முன்னிட்டு மட்டக்களப்பு சிறைச்சாலையிலிருந்து 26  கைதிகள் இன்று (04) காலை ஜனாதிபதியின் பொது மன்னிப்பின் கீழ் விடுதலை செய்யப்பட்டுள்ளனர். ரீ. எல். ஜவ்பர்கான்
+26 inmates from the Batticaloa Prison have been released this morning on the 76th Independence Day of Sri Lanka under the president's amnesty.Re -. L. Jawburgan
 
-மட்டக்களப்பு சிறைச்சாலை அத்தியட்சகர் என் பிரபாகரன் தலைமையில் இடம்பெற்ற கைதிகள் விடுதலை செய்யப்படும் நிகழ்வில் பிரதம ஜெயிலர் உட்பட பலரும் கலந்து கொண்டனர்.
+The release of the prisoners, led by the Superintendent of Prison, Batticaloa Prison, was released.
 
-சிறு குற்றம் புரிந்த தண்டணைப் பணம் செலுத்தாத கைதிகளே இன்று விடுதலை செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+It is noteworthy that the prisoners who did not pay the minority punishment were released today.
 
 ◼️
 
 [Data](articles/3721a9e1.json)
+
+[Extended Data](ext_articles/3721a9e1.ext.json)
 
 ---
 
@@ -210,21 +220,27 @@ Houthi military spokesperson Yahya Sarea said the U.S. strikes “will not pass 
 
 ---
 
-### ஆர்ப்பாட்டத்துக்குச் சென்றவர்களை திருப்பி அனுப்பிய பொலிஸார்
+### Police sent back those who went to the demonstration
 
 *2024-02-04 11:13:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ஆர்ப்பாட்டத்துக்குச்-சென்றவர்களை-திருப்பி-அனுப்பிய-பொலிஸார்/73-332622) · `ta`
 
-மட்டக்களப்பு மாவட்ட காணாமல் ஆக்கப்பட்ட சங்கத்தினரால் மட்டக்களப்பு – கல்லடியில் இன்றைய தினம் (04) ஏற்பாடு செய்யப்பட்டிருந்த எதிர்ப்பு ஆர்பாட்டத்தில் கலந்து கொள்வதற்காக திருகோணமலையிலிருந்து சென்றவர்களை பொலிஸார் மற்றும் பாதுகாப்புப்படையினரால் திருப்பி அனுப்பி வைக்கப்பட்டுள்ளனர்.
+Those who went from Trincomalee have been sent back by the police and security forces to attend a protest march organized by the missing association in Batticaloa district today (04).
 
-பஸ்ஸொன்றில் சென்றவர்களை வெருகல் பாலத்திலுள்ள பொலிஸ் சேதனைச்சாவடியில் வழிமறித்த பொலிஸார் மற்றும் பாதுகாப்புப்படையினர் அவர்களிடம் பஸ் டிக்கட்டுக்களை கேட்டதாகவும் பின்னர் அவர்கள் அனைவரையும் பஸ்ஸில் இருந்து இறக்கி விசாரணைக்கு உட்படுத்தியதுடன், பஸ்ஸையும் சோதனைக்கு உட்படுத்தியிருந்ததாகவும் தெரிவிக்கப்பட்டுள்ளது.
+It is reported that the police and security forces who were on the buses on a bus were asked by the security forces and the security forces, who were then unloaded from the bus and subjected to the bus.
 
-மேலும், பொலிஸாரால் அனைவருடைய விபரங்களும் பெறப்பட்டுள்ளதோடு  மற்றும் பஸ்ஸின் சாரதி, நடத்துனரின் ஆவணங்களையும் பொலிஸாரால் பறித்தெடுக்கப்பட்டதாக தெரிவிக்கப்படுகிறது.
+In addition, the police have received all the details and the driver of the bus and the conductor's documents have been seized by the police.
 
-திரும்பிச்செல்லாவிட்டால் வழக்கு தாக்கல் செய்வதாகவும் குறிப்பிட்டதோடு புகைப்படங்களை எடுத்தவர்களுடைய கைத் தொலைபேசியை வாங்கி அனைத்தையும் அழித்துவிட்டு மீண்டும் வழங்கியதாகவும் தெரிவிக்கப்படுகின்றது.
+It is reported that if not returned, the case will be filed and that the photographs have bought the phone and destroyed everything and re -provided it.
 
-...
+After a long argument, the bus was sent back to Trincomalee.
+
+The missing union members of the Trincomalee District and the victims were traveling on the bus to attend the event.. It is noteworthy that 43 women and 10 men.
+
+◼️
 
 [Data](articles/b1e944d4.json)
+
+[Extended Data](ext_articles/b1e944d4.ext.json)
 
 ---
 
@@ -284,21 +300,23 @@ The Navy conducts regular patrols and operations in Sri Lankan waters to curb il
 
 ---
 
-### දූරියන් ගහට එන රිලවුන්ට දැමූ විදුලි රැහැනට රැහැන දැමූ අයම බිලි
+### Billy developed the light cord that arrives at the durian tree
 
 *2024-02-04 10:55:58* · [`adalk`](https://www.ada.lk/breaking_news/දූරියන්-ගහට-එන-රිලවුන්ට-දැමූ-විදුලි-රැහැනට-රැහැන-දැමූ-අයම-බිලි/11-407885) · `si`
 
-තම නිවසේ දූරියන් ගහට පැමිණෙන රිලවුන් පලවා හැරීම සඳහා අනාරක්ෂිත ලෙස ඇද තිබූ විදුලි රැහැනක ගැටීමෙන් වයස අවුරුදු (47) ක තිදරුපියකු මියගොස් ඇතැයි මාතලේ පොලිසිය පවසයි.
+The Matale Police said that the age of 47 was killed after the collapse of the power stagnation of the house of durian.
 
-මෙසේ මරණයට පත්ව ඇත්තේ මාතලේ රත්තොට උකුවෙල පූජා ගොඩ ප්‍රදේශයේ පදිංචි ගල් කොටුවාවේ ගෙදර රත්නපාර යන අයයි.
+The deceased has been identified as Ratnapura, Ratnapura, a resident of Ukattota, Matale.
 
-අදාල සිද්ධිය වූ ස්ථානයේ  නිවෙස් හිමියා විසින්  ඔහුගේ ගෙවත්තට නිතර නිතර පැමිණෙන රිලවන් දඬුලේනුන් ඇතුළු සතුන්ගේ පැමිණීම වැළැක්වීම සඳහා නිවසේ  ප්‍රධාන ස්විචයෙන් අනාරක්ෂිත ලෙස විදුලි රැහැන් රැගෙන ගෙවත්ත වටා  කණු හිටවා ඇද ඇති අතර අදින ලද එම වයරයේ තැනින් තැන පළුදු කොට බකට් කම්බි විදුලිය කාන්දු වන සේ සම්බන්ධ කර  තිබූනු අතර එම කම්බිවල ගැටීමෙන් මෙම පුද්ගලයා මරණයට පත්වන්නට ඇති බවට සැක පළ කරනු ලබයි.
+At the same place, the homeowner had been insecure and pulling into the house of the house to prevent the wealth of the animals and pulls in the house, which was pulled in the house and connected to the baked wire electricity to spill the place in the area.The man was suspicious that the man had to be killed when collided with these wire.
 
-අදාල සිද්ධිය සම්බන්ධයෙන් එම නිවසේ පදිංචි පුද්ගලයා  මාතලේ පොලිසිය විසින් සැකපිට අත්අඩංගුවට ගෙන තිබේ සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ කටයුතු මාතලේ පොලිසිය විසින් සිදු කරනු ලබයි.
+The resident of the house has been arrested by the Matale Police on suspicion of further investigations into the incident.
 
 ◼️
 
 [Data](articles/98fc52c5.json)
+
+[Extended Data](ext_articles/98fc52c5.ext.json)
 
 ---
 
@@ -386,19 +404,29 @@ In continuation of these efforts, the Northern Naval Command deployed Fast Attac
 
 [Data](articles/18673ab3.json)
 
+[Extended Data](ext_articles/18673ab3.ext.json)
+
 ---
 
-### නවීකරණය කළ දඹුල්ල හෙට විවෘත කරයි
+### Opens Dambulla tomorrow
 
 *2024-02-04 10:40:41* · [`adalk`](https://www.ada.lk/sports/නවීකරණය-කළ-දඹුල්ල-හෙට-විවෘත-කරයි/9-407883) · `si`
 
-රංගිරි  දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගනය නැවත ක්‍රීඩාවලට ආරම්භ කිරීම හා පුද්ගලයන් මිලියන දෙකක් සඳහා ඉඩම් හිමිකම් ඔප්පු ලබාදීම  ජාතික වැඩපිළිවෙළ 05 දින පස්වරුවේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ කැබිනට් මණ්ඩලයේ ප්‍රධානත්වයෙන්  රංගිරි  දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී ඇරඹෙන බව ක්‍රීඩා  යෞවන කටයුතු හා ඉඩම් අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පැවසීය.
+Sports Minister Harin Fernando said that the Rangiri Dambulla International Cricket Stadium back to sports and providing land title deeds for two million people launched at Rangiri Dambulla International Cricket Stadium.
 
-ඒ අනුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් ඉඩම් ඔප්පු දොළොස් දහසක් ලබාදීම මෙදින සිදුකෙරෙන බවත් ඊට අමතරව රංගිරි  දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ සවිකරන ලද නව විදුලි පද්ධතිය ආරම්භ කිරීම,  ක්‍රිඩාංගණය තුළ අලුතින් ඉදි කරන ලද පිහිනුම් තටාකය විවෘත කිරීම හා ක්‍රිඩාංගනය සංචාරක  ක්ෂේත්‍රයට යොදා ගැනීම සඳහා වැඩසටහන ආරම්භ කිරීම මෙදින සිදුකිරීමට නියමිත බවද අමාත්‍යවරයා සඳහන් කළේය.
+Accordingly, the proof of land offered by President Ranil Wickremesinghe will be provided with twelve thousand land deeds, starting the new electrical network and starting the newly built swimming pool in the Rangiri Dambulla International Cricket Stadium.The Minister said that it is deadly.
+
+The Minister said that the new program had been named in the heritage of the country when the people of the country had lost her land and had no right to no right in the future.
+
+Accordingly, all the necessary steps have been taken to issue all lands title deeds in the island following the fifteen day.
+
+He also said that MPs representing the parliamentary representatives to attend the event, but the opposition is not confident about participating in the road.
 
 ...
 
 [Data](articles/17d37d1f.json)
+
+[Extended Data](ext_articles/17d37d1f.ext.json)
 
 ---
 
@@ -419,6 +447,8 @@ Sri Lanka defaulted in 2022 after the most aggressive growth by printing money (
 ...
 
 [Data](articles/fb87b9cb.json)
+
+[Extended Data](ext_articles/fb87b9cb.ext.json)
 
 ---
 
@@ -442,37 +472,43 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 
 ---
 
-### தமிழ் மொழியிலும் தேசியக்கீதம் இசைக்கப்பட்டது
+### The national anthem was also played in the Tamil language
 
 *2024-02-04 10:38:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-மொழியிலும்-தேசியக்கீதம்-இசைக்கப்பட்டது/175-332618) · `ta`
 
-இலங்கையின் 76 வது சுதந்திர தினத்தின் பிரதான நிகழ்வு, ஜனாதிபதியும் முப்படைகளின் தளபதியுமான ரணில் விக்கிரமசிங்கவின் தலைமையில், ஞாயிற்றுக்கிழமை (4) காலி முகத்திடலில் நடைபெற்றது.
+The main event of Sri Lanka's 76th Independence Day was held on Sunday (4) at the Galle Face, headed by President and Commander of the Armed Forces Ranil Wickremesinghe.
 
-நிகழ்வை ஆரம்பிக்கும் வகையில், பாடசாலை மாணவர்களால் சிங்கள மொழியில் தேசிய கீதம் இசைக்கப்பட்டது. பிரதான நிகழ்வுகளுக்குப் பின்னர், நிகழ்வின் நிறைவில் தேசிய கீதம் தமிழ்மொழியில் இசைக்கப்பட்டமை சிறப்பு அம்சமாகும்.
+To begin the event, the national anthem was played by schoolchildren in Sinhala. After the main events, the national anthem was played in the Tamil language at the conclusion of the event.
 
-தமிழ்மொழியில் தேசிய கீதம் இசைக்கப்பட்டமை மற்றும் இசைக்கப்படாமை தொடர்பில் கடந்த காலங்களில் பல்வேறான விமர்சனங்கள் இடம்பெற்றமை குறிப்பிடத்தக்கது.
+It is noteworthy that in the past, there has been a lot of criticism of the national anthem in the Tamil language and the lack of music.
 
 ◼️
 
 [Data](articles/63470ef2.json)
 
+[Extended Data](ext_articles/63470ef2.ext.json)
+
 ---
 
-### ”ஒன்லைன் பாதுகாப்புச் சட்டம் தொடர்பில் சந்தேகமாக உள்ளது”
+### “Suspicion of the Online Security Act”
 
 *2024-02-04 10:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-பாதுகாப்புச்-சட்டம்-தொடர்பில்-சந்தேகமாக-உள்ளது/175-332616) · `ta`
 
-ஒன்லைன் பாதுகாப்புச் சட்டம் மற்றும் பயங்கரவாதத் தடுப்புச்  சட்டமூலம் போன்றவற்றை அரசாங்கம் திரும்பப் பெற வேண்டும் என்று முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்க வலியுறுத்தியுள்ளார். அவற்றால் மக்களின் அடிப்படை உரிமைகள் எந்நேரத்திலும் மீறப்படலாம் என்பதால் அவை  ஆபத்தானவை என அவர் தெரிவித்துள்ளார்.
+Former President Chandrika Bandaranaike Kumaratunga has urged the government to withdraw the ONE LANGUAGE Act and the Prevention of Terrorism Bill. They are dangerous because they can be violated by the basic rights of the people at any time.
 
-சமூக ஊடகங்களில் விசேட அறிக்கை ஒன்றை வெளியிட்ட அவர், இந்த சட்டங்களுக்கு எதிராக இளைஞர்களும் மக்களும் ஜனநாயக ரீதியாக செயல்பட வேண்டும் என்றார்.
+He posted a special statement on social media and said the youth and the people should act democratically against these laws.
 
-"ஒன்லைன் பாதுகாப்புச் சட்டம் மற்றும் பயங்கரவாத எதிர்ப்பு சட்டமூலம் ஆகியவை மிகவும் ஆபத்தானவை. அரசு விரும்பினால், இந்தச் சட்டங்களில் எந்த நேரத்திலும் மக்களின் அடிப்படை உரிமைகளை எளிதில் மீறும் வகையில் ஏற்பாடுகள் உள்ளன.
+“The Online Security Act and the Anti -Terrorism Bill are more dangerous. If the government wishes, there are arrangements to easily violate the fundamental rights of the people at any time.
 
-அரசாங்கம் முந்தைய சந்தர்ப்பங்களில் எவ்வாறு செயல்பட்டது என்பதை நாம் கருத்தில் கொள்ளும்போது இந்தச் சட்டங்களை அரசாங்கம் எப்படிப் பயன்படுத்துமோ என்ற அச்சம் எங்களுக்கு உள்ளது. ​​​​இணையம் மற்றும் சமூக ஊடகங்களை அவர்கள் விரும்பியபடி பயன்படுத்த மக்களுக்கு உரிமை உண்டு.
+When we consider how the government acted on previous occasions, we fear how the government would use these laws. People have the right to use the Internet and social media as they wish.
+
+If used to spread false messages and create political instability, the laws in the country are sufficient. To act against such activities. There is no need for special laws, ”he said.
 
 ...
 
 [Data](articles/759b2585.json)
+
+[Extended Data](ext_articles/759b2585.ext.json)
 
 ---
 
@@ -1008,6 +1044,8 @@ Late Prime Minister D.S. Senanayake was honored with floral tributes at his stat
 
 [Data](articles/2f622993.json)
 
+[Extended Data](ext_articles/2f622993.ext.json)
+
 ---
 
 ### Joint Attack on Hoost Goals
@@ -1149,6 +1187,8 @@ A new bilateral air services agreement was also signed. Thai air will begin dail
 ...
 
 [Data](articles/b4df820b.json)
+
+[Extended Data](ext_articles/b4df820b.ext.json)
 
 ---
 

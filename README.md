@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 21:02:42**
+As of **2024-02-04 21:17:27**
 
 ## Newspaper Stats
 
-*Scraped **4,766** Articles*
+*Scraped **4,767** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 287
 adalk | 411
 virakesarilk | 546
-adaderanalk | 595
+adaderanalk | 596
 tamilmirrorlk | 605
 adaderanasinhalalk | 607
 dailymirrorlk | 663
@@ -26,7 +26,7 @@ dailymirrorlk | 663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,766 (100.0%) of 4,766 articles have been extended.
+4,766 (100.0%) of 4,767 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,26 @@ It is reported that 1 g 300 milligrams of ice have been seized from him despite 
 [Data](articles/acc0bda2.json)
 
 [Extended Data](ext_articles/acc0bda2.ext.json)
+
+---
+
+### Former MP Mervyn Silva protests against Online Safety Bill
+
+*2024-02-04 19:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97002/former-mp-mervyn-silva-protests-against-online-safety-bill) · `en`
+
+A group including former Parliamentarian Mervyn Silva was seen carrying a false coffin into the Borella Cemetery on Sunday (04 Feb.), in protest against the Online Safety Bill.
+
+Security personnel at the entrance of the cemetery had reportedly attempted to prevent the group from entering into the premises.
+
+Despite their attempt, however, the group had entered the premises and staged a protest against the highly controversial Online Safety Bill, which came into effect earlier this month.
+
+The legislation which seeks to regulate online content was passed in Parliament, with amendments, on 24 January, amidst objections from opposition politicians and activists who allege the new law will muzzle free speech.
+
+The controversial Bill garnered not only the attention of local activists and organisations, but also that of diplomats and large international organisations, claiming that the Bill had numerous problematic aspects.
+
+...
+
+[Data](articles/f38d6984.json)
 
 ---
 
@@ -288,11 +308,17 @@ The arrested drug dealer has taken steps to produce them in court after investig
 
 The suspected leader of the notorious criminal gang known as ‘Ava’ group, which has committed various crimes including extortion in Jaffna, has been arrested by police.
 
-The arrest was made by officers of the Walana Anti- Vice Unit at a residence in the Mt. Lavinia area.
+The arrest was made by officers of the Walana Anti- Vice Unit at a residence in the Mt. Lavinia area, believed to be owned by a 72-year-old female.
 
-According to police, the suspect was preparing to flee overseas at the time of his arrest.
+Investigations revealed that the suspect had paid a monthly rent of Rs. 25,000 since October 2023.
 
-◼️
+According to police, the suspect was preparing to flee to Dubai at the time of his arrest.
+
+‘Prabha’ was also reportedly in possession of 01g 330mg of crystal methamphetamine (‘Ice’), along with a leaflet and a Rs. 100 note with the ‘Ava’ group logo at the time of his arrest.
+
+The arrestee was reportedly involved in several crimes including murder, property damage and obstructing the duties of police personnel, in the Thellipalai, Chunnakam, Manipay, Jaffna and Kilinochchi areas.
+
+...
 
 [Data](articles/44fbe30a.json)
 
@@ -1961,27 +1987,5 @@ It is noteworthy that in the past, there has been a lot of criticism of the nati
 [Data](articles/63470ef2.json)
 
 [Extended Data](ext_articles/63470ef2.ext.json)
-
----
-
-### “Suspicion of the Online Security Act”
-
-*2024-02-04 10:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-பாதுகாப்புச்-சட்டம்-தொடர்பில்-சந்தேகமாக-உள்ளது/175-332616) · `ta`
-
-Former President Chandrika Bandaranaike Kumaratunga has urged the government to withdraw the ONE LANGUAGE Act and the Prevention of Terrorism Bill. They are dangerous because they can be violated by the basic rights of the people at any time.
-
-He posted a special statement on social media and said the youth and the people should act democratically against these laws.
-
-“The Online Security Act and the Anti -Terrorism Bill are more dangerous. If the government wishes, there are arrangements to easily violate the fundamental rights of the people at any time.
-
-When we consider how the government acted on previous occasions, we fear how the government would use these laws. People have the right to use the Internet and social media as they wish.
-
-If used to spread false messages and create political instability, the laws in the country are sufficient. To act against such activities. There is no need for special laws, ”he said.
-
-...
-
-[Data](articles/759b2585.json)
-
-[Extended Data](ext_articles/759b2585.ext.json)
 
 ---

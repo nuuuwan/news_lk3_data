@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 20:02:19**
+As of **2024-02-04 20:17:14**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,764 (100.0%) of 4,765 articles have been extended.
+4,765 (100.0%) of 4,765 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
 
-### මිනී පෙට්ටියක් රැගෙන මර්වින් බොරැල්ල කනත්තට යයි
+### Mervyn takes a coffin to Borella cemetery
 
 *2024-02-04 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192976) · `si`
 
-හිටපු අමාත්‍ය මර්වින් සිල්වා මහතා ඇතුළු පිරිසක් මිනී පෙට්ටියක් රැගෙන අද (04) සවස බොරැල්ල කනත්තට ගොස් තිබුණි.
+Former Minister Mervyn Silva and several others had gone to Borella Cemetery today (04).
 
-එම පිරිස බොරැල්ල කනත්තට ඇතුළු වීමට උත්සාහ කිරීමේදි එහි ආරක්ෂක නිලධාරින් ඊට එරෙහිවී ඇති අතර එහිදී දෙපිරිස අතර නොසන්සුන් තත්ත්වයක් ඇතිවිය.
+The security officers of the area were against the Borella cemetery and there was no restriction.
 
-කෙසේවෙතත් ආරක්ෂක නිලධාරීන්ගේ විරෝධය මැදම හිටපු අමාත්‍යවරයා ඇතුළු විරෝධතාකරුවන් ඊට ඇතුළු වී තිබේ.
+However, the protesters, including the security personnel, had entered the protesters.
 
 ◼️
 
 [Data](articles/eb91675a.json)
+
+[Extended Data](ext_articles/eb91675a.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 19:49:23**
+As of **2024-02-04 20:02:19**
 
 ## Newspaper Stats
 
-*Scraped **4,764** Articles*
+*Scraped **4,765** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 411
 virakesarilk | 546
 adaderanalk | 595
 tamilmirrorlk | 604
-adaderanasinhalalk | 606
+adaderanasinhalalk | 607
 dailymirrorlk | 663
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,764 (100.0%) of 4,764 articles have been extended.
+4,764 (100.0%) of 4,765 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### මිනී පෙට්ටියක් රැගෙන මර්වින් බොරැල්ල කනත්තට යයි
+
+*2024-02-04 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192976) · `si`
+
+හිටපු අමාත්‍ය මර්වින් සිල්වා මහතා ඇතුළු පිරිසක් මිනී පෙට්ටියක් රැගෙන අද (04) සවස බොරැල්ල කනත්තට ගොස් තිබුණි.
+
+එම පිරිස බොරැල්ල කනත්තට ඇතුළු වීමට උත්සාහ කිරීමේදි එහි ආරක්ෂක නිලධාරින් ඊට එරෙහිවී ඇති අතර එහිදී දෙපිරිස අතර නොසන්සුන් තත්ත්වයක් ඇතිවිය.
+
+කෙසේවෙතත් ආරක්ෂක නිලධාරීන්ගේ විරෝධය මැදම හිටපු අමාත්‍යවරයා ඇතුළු විරෝධතාකරුවන් ඊට ඇතුළු වී තිබේ.
+
+◼️
+
+[Data](articles/eb91675a.json)
+
+---
 
 ### An unexpected attack from Afghanistan
 
@@ -1965,27 +1981,5 @@ Moscow army has added that the attack has been launched targeting a baker at Kie
 [Data](articles/5e28b1ce.json)
 
 [Extended Data](ext_articles/5e28b1ce.ext.json)
-
----
-
-### The DMK is only blamed for the extinction of Eelam but no one talks about the politics of the world! ”- Thirumavalavan
-
-*2024-02-04 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/175495) · `ta`
-
-The leader of the Liberation Panthers Party, Thirumavalavan, has said that the DMK is not only blamed for the destruction of Eelam but no one has spoken about the politics of Eelam worldwide.
-
-Sir PBT in Chennai. Thirumavalavan, the leader of the Liberation Panthers Party, participated in the Eelam event held at Thiagarayar Hall.
-
-The reason for the shooting of the Eelam Tamils is that Karunanidhi and DMK are the reason for politicians, but it does not always benefit the Eelam Tamils.
-
-Those in Tamil Nadu only criticized the DMK and Karunanidhi for the destruction of Eelam. But no one talks about the politics of Eelam worldwide.
-
-There is not even a struggle in support of Eelam Tamils in India. The nations of the world have repeatedly criticized Eelam Tamils as terrorists. Congress has made Eelam Tamils the largest armed groups. Thus, the leader of the Liberation Panthers Party Thirumavalavan spoke.
-
-◼️
-
-[Data](articles/cc58430c.json)
-
-[Extended Data](ext_articles/cc58430c.ext.json)
 
 ---

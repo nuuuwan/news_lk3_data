@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 08:33:00**
+As of **2024-02-04 08:50:27**
 
 ## Newspaper Stats
 
-*Scraped **4,636** Articles*
+*Scraped **4,637** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 280
 newsfirstlk | 282
 adalk | 399
 virakesarilk | 518
-adaderanasinhalalk | 579
 adaderanalk | 579
+adaderanasinhalalk | 580
 tamilmirrorlk | 584
 dailymirrorlk | 646
 
@@ -26,41 +26,65 @@ dailymirrorlk | 646
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,632 (99.9%) of 4,636 articles have been extended.
+4,637 (100.0%) of 4,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
 
-### ටෙස්ට් තරගයේ තෙවැනි දිනය අදයි
+### Unidentified body found in tank reserve
+
+*2024-02-04 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192948) · `si`
+
+An unidentified body was found in the tanks of the Tank Reserve in Alape.
+
+It was information received by the police that there was a body of a man of the reserve yesterday (03).
+
+The identity of the death of the death is yet to be determined, police said.
+
+The body is in the same place and will be conducted today (04).
+
+◼️
+
+[Data](articles/652799a8.json)
+
+[Extended Data](ext_articles/652799a8.ext.json)
+
+---
+
+### Today is the third day of the Test match
 
 *2024-02-04 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192947) · `si`
 
-ඇෆ්ගනිස්තානය සහ ශ්‍රී ලංකාව අතර පැවැත්වෙන ටෙස්ට් ක්‍රිකට් තරගයේ තෙවැනි දිනය අද (04)යි.
+The third day of the Test match between Afghanistan and Sri Lanka is today.
 
-ඊයේ තරගය නතර කරන විට ශ්‍රී ලංකා කණ්ඩායම සිය පළමු ඉනිම සඳහා කඩුලු 06ක් පමණක් බිඳ වැටී ලකුණු 410ක් ලබා සිටියේ ය.
+When the match was stopped yesterday, Sri Lanka scored 410 wickets for the first innings.
 
-ඇෆ්ගනිස්තාන කණ්ඩායම පළමු ඉනිම සඳහා සියලු දෙනා දැවී ලබා ගත්තේ, ලකුණු 198ක් පමණි.
+The Afghan group was bowled out for the first innings, only 198 points.
 
-ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම පළමු ඉනිමේ දී ඇෆ්ගනිස්තානයට වඩා ලකුණු 212ක් ඉදිරියෙන් පසු වේ.
+Accordingly, the Sri Lankan team is 212 runs in the first innings.
 
 ◼️
 
 [Data](articles/fa183e50.json)
 
+[Extended Data](ext_articles/fa183e50.ext.json)
+
 ---
 
-### 76 වැනි නිදහස් උත්සවය ඇරඹෙයි
+### 76th Independence Day Celebration begins
 
 *2024-02-04 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192946) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සම්ප්‍රාප්තියත් සමඟ උත්සවයේ සෙසු කටයුතු ආරම්භ වීමට නියමිත ය.
+The rest of the ceremony is scheduled to commence with President Ranil Wickremesinghe.
 
-ගාලු මුවදොර පිටියේ දී උත්සවය පැවැත්වෙන අතර, එහි ප්‍රධාන ආරාධිත අමුත්තා ලෙස තායිලන්ත අග්‍රාමාත්‍ය ශ්‍රෙත්ථා තවිසින් මහතා සහභාගි වීමට නියමිතයි.
+Thailand's Prime Minister Shrathna Thailand is the Chief Guest at the Galle Face.
 
 ◼️
 
 [Data](articles/bade7d93.json)
+
+[Extended Data](ext_articles/bade7d93.ext.json)
 
 ---
 
@@ -82,25 +106,27 @@ Google released the doodle marking this occasion that spans the region of Sri La
 
 ---
 
-### හූති ඉලක්ක වෙත ඒකාබද්ධ ප්‍රහාරයක්
+### Joint Attack on Hoost Goals
 
 *2024-02-04 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192945) · `si`
 
-යේමනයේ හූති ඉලක්ක වෙත බ්‍රිතාන්‍යය සහ අමෙරිකාව ඒකාබද්ධ ප්‍රහාර මාලාවක් එල්ල කර තිබේ.
+Britain and America have served a combined attacks on Yemen's poorest goals.
 
-පෙන්ටගනය නිවේදනය කළේ, යේමනයේ ස්ථාන 13ක හූති ඉලක්ක 36ක් වෙත ප්‍රහාර එල්ල කළ බවයි.
+The Pentagon was announced that 36 digitaries of Yemen were attacked.
 
-අවි ගබඩා, මිසයිල පද්ධති, ගුවන් ආරක්ෂණ පද්ධති සහ රේඩාර් මධ්‍යස්ථාන ප්‍රහාරයේ ඉලක්ක වී ඇත.
+The target of weapons, missile systems, air protection systems and radar centers are targeted.
 
-සිරියාවේ සහ ඉරාකයේ ත්‍රස්ත ඉලක්ක වෙත ප්‍රහාර එල්ල කිරීමෙන් පසු නැවතත් යේමනයට ප්‍රහාර එල්ල කිරීම විශේෂත්වයකි.
+Attack attack on LTTE targets in Syria and Iraq, the attack on the Yemen again.
 
-අමෙරිකාවේ නවතම ප්‍රහාරයෙන් පසු හෙට (05) එක්සත් ජාතීන්ගේ ආරක්ෂක කවුන්සිලය හදිසි රැස්වීමක් කැදවීමට තීරණය කර තිබේ.
+The United Nations Security Council has decided to summon an urgent meeting tomorrow (05) after the latest attack.
 
-රුසියාව සහ ඉරාන හිතවාදී සාමාජිකයන්ගේ ඉල්ලීම මත මෙම රැස්වීම කැඳවන බව වාර්තා වේ.
+The meeting is reported to be summoned on the request of Russia and Iranian pro-employers.
 
 ◼️
 
 [Data](articles/b94a5084.json)
+
+[Extended Data](ext_articles/b94a5084.ext.json)
 
 ---
 
@@ -130,19 +156,21 @@ The complaint was filed by Bibi's ex-husband, who said her marriage with Khan ha
 
 ---
 
-### 'උරුමය' වැඩසටහන ඇරඹෙයි
+### 'Heritage' begins
 
 *2024-02-04 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192944) · `si`
 
-රටේ ජනතාවගේ ඉඩම් අයිතිය ලබාදෙන 'උරුමය' ජාතික වැඩසටහන හෙට (05) සිට ආරම්භ කරන බව ඉඩම්, ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+Land, Sports and Youth Affairs Minister Harin Fernando says that the land ownership of the people of the country will be opened tomorrow (05).
 
-අමාත්‍යවරයා ප්‍රකාශ කළේ, එහි ජාතික උත්සවය හෙට ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් රංගිරි දඹුලු ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ දී පැවැත්වෙන බවයි.
+The Minister stated that the National Festival will be held at the Rangiri Dambulla International Cricket Stadium under the patronage of President Ranil Wickremesinghe.
 
-හෙට ඉඩම් ඔප්පු දොළොස් දහසක් පමණ ප්‍රධානය කිරීමට නියමිත අතර, ලබන 15 වනදායින් පසුව පළාත් මට්ටමින් සහ දිස්ත්‍රික් මට්ටමින් ඉඩම් ඔප්පු ලබාදීමේ වැඩපිළිවෙළ ක්‍රියාත්මක කිරීමට රජය සැලසුම් කර ඇති බව අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා සඳහන් කර තිබේ.
+Minister Harin Fernando has said that the government plans to implement the program of providing land deeds at the provincial level and district level tomorrow and after the 15th of this month.
 
 ◼️
 
 [Data](articles/a22cccea.json)
+
+[Extended Data](ext_articles/a22cccea.ext.json)
 
 ---
 
@@ -1967,29 +1995,5 @@ Meanwhile, the Magistrate's Magistrate's Court has ordered Keheliya Rambukwella 
 [Data](articles/55169a22.json)
 
 [Extended Data](ext_articles/55169a22.ext.json)
-
----
-
-### Bus workers in Badulla depot from service
-
-*2024-02-03 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192918) · `si`
-
-Badulla depot bus workers have been dismissed due to the controversy of the Sri Lanka Inter-Provincial Passenger Association and the Sri Lanka Inter-Provincial Passenger Association.
-
-The Ada Derana reporter said that the passengers were running out of the rapid buses from the depot yesterday (02).
-
-Roads - Colombo - Colombo Combined Service The buses belonging to the SLTB are also protesting at the Central Bus Stand.
-
-They say that buses should be stopped at the private bus stand.
-
-However, the Road Passenger Transport Association says his buses run in accordance with court orders.
-
-However, the private bus services are running out of the other CTB depots in the Badulla District and the buses in the Badulla District are also normal.
-
-◼️
-
-[Data](articles/e7e26114.json)
-
-[Extended Data](ext_articles/e7e26114.ext.json)
 
 ---

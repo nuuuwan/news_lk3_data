@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 08:03:40**
+As of **2024-02-04 08:17:20**
 
 ## Newspaper Stats
 
-*Scraped **4,629** Articles*
+*Scraped **4,632** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,73 @@ virakesarilk | 518
 adaderanasinhalalk | 575
 adaderanalk | 579
 tamilmirrorlk | 584
-dailymirrorlk | 643
+dailymirrorlk | 646
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,629 (100.0%) of 4,629 articles have been extended.
+4,629 (99.9%) of 4,632 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### Google Doodle celebrates Sri Lanka’s Independence Day 2024
+
+*2024-02-04 07:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Google-Doodle-celebrates-Sri-Lankas-Independence-Day-2024/108-276293) · `en`
+
+Colombo, Feb 04 (Daily Mirror) - Google celebrated Sri Lanka’s 76th Independence Day today with a Google Doodle featuring the Sri Lankan flag with ‘Google’ below it.
+
+Google periodically changes its doodle to mark a historic occasion.
+
+Google released the doodle marking this occasion that spans the region of Sri Lanka over its visibility.
+
+◼️
+
+[Data](articles/ef1bdde3.json)
+
+---
+
+### Imran Khan and wife Bushra Bibi jailed for illegal marriage
+
+*2024-02-04 07:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Imran-Khan-and-wife-Bushra-Bibi-jailed-for-illegal-marriage/108-276291) · `en`
+
+Pakistan, Feb 04 (BBC) - A Pakistani court has jailed Imran Khan and his wife for seven years after voiding their marriage, in the latest sentence against the ex-prime minister.
+
+The court ruled that Khan's 2018 marriage with Bushra Bibi, a faith healer, was un-Islamic and illegal.
+
+He is already in jail for corruption. Last Wednesday, a week before a general election, the pair were convicted of profiting from state gifts.
+
+Khan, 71, has said the numerous cases against him are politically motivated.
+
+Pakistan's former cricket captain-turned-politician was ousted as prime minister in 2022.
+
+A court was set up inside the Adiala Jail in Rawalpindi, where Khan is serving his previous sentences, for the latest case.
+
+The complaint was filed by Bibi's ex-husband, who said her marriage with Khan had been fraudulent.
+
+...
+
+[Data](articles/1ad0fe7f.json)
+
+---
+
+### Keheliya Rambukwella admitted to prison hospital
+
+*2024-02-04 07:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliya-Rambukwella-admitted-to-prison-hospital/108-276290) · `en`
+
+Colombo, Feb 04 (Daily Mirror) - Former Health Minister Keheliya Rambukwella, who was remanded over importation of substandard Immunoglobulin injections, was admitted to Prison Hospital.
+
+Prisons Spokesman Gamini Dissanayake said that Rambukwella was admitted due to illness, following doctor's recommendation.
+
+Rambukwella, remanded until February 15, was produced before Maligakanda Magistrate's Court.
+
+◼️
+
+[Data](articles/33f9761c.json)
+
+---
 
 ### Notification of Financial Management
 
@@ -388,7 +444,7 @@ The tourists will be on the coming weeks, which have been violently acting viole
 
 Colombo (News 1st) – A Pakistani court ruled Saturday (3rd) that former Prime Minister Imran Khan’s marriage violated Islamic law, and jailed both him and his wife for seven years, in the latest jail sentence for the already imprisoned popular politician, Pakistani media reported.
 
-Khan, 71, who heads the Tehreek-e-Insaf (PTI) party, married Bushra Bibi in 2018, his third marriage. But Bibi’s former husband filed a case alleging that Bibi did not wait three months after the divorce as required by Islamic law, before marrying Khan. The wedding took place shortly before Khan became Prime Minister in 1918. He was deposed in 2022 through a no-confidence vote in parliament.
+Khan, 71, who heads the Tehreek-e-Insaf (PTI) party, married Bushra Bibi in 2018, his third marriage. But Bibi’s former husband filed a case alleging that Bibi did not wait three months after the divorce as required by Islamic law, before marrying Khan. The wedding took place shortly before Khan became Prime Minister in 2018. He was deposed in 2022 through a no-confidence vote in parliament.
 
 This is Khan’s third conviction this week, with general elections scheduled for next Thursday (8th) in which he is not eligible to run due to his convictions.
 
@@ -1933,65 +1989,5 @@ The Central Bank is the agent of the Sri Lanka Deposit Insurance Scheme. Sri Lan
 [Data](articles/8235af5e.json)
 
 [Extended Data](ext_articles/8235af5e.ext.json)
-
----
-
-### Sri Lanka to take on Bangladesh in all-format tour next month
-
-*2024-02-03 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-take-on-Bangladesh-in-all-format-tour-next-month/108-276277) · `en`
-
-(Daily Mirror) - Sri Lanka will begin their all-format tour of Bangladesh next month with three T20Is, before the teams square off in ODI and Test series.
-
-The three T20Is will provide valuable preparation for both teams as they gear up for the T20 World Cup later this year in the West Indies and United States.
-
-After the three T20Is in Sylhet, the teams will travel to Chattogram for a three-match ODI series on March 13, 15 and 18.
-
-This will be followed by two Test matches, the first in Sylhet and the second in Chattogram, an opportunity for both teams to resume their World Test Championship campaigns for this year.
-
-Sri Lanka are currently last in the World Test Championship points table, having lost both Tests they have played so far in the current WTC cycle, against Pakistan last year, while Bangladesh are fourth, having split a two-match series against New Zealand.
-
-◼️
-
-[Data](articles/d3a840e2.json)
-
-[Extended Data](ext_articles/d3a840e2.ext.json)
-
----
-
-### SLPP demands resolution of issues
-
-*2024-02-03 10:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-demands-resolution-of-issues/108-276271) · `en`
-
-Colombo, Feb 3 (Daily Mirror) - In a recent meeting with President Ranil Wickremesinghe, the Sri Lanka Podujana Peramuna (SLPP) emphasized the necessity of addressing key issues before committing to support him in the upcoming presidential election, according to a reliable source.
-
-The meeting, initially planned at the President’s official residence, saw a change of venue to the Presidential Secretariat. SLPP General Secretary Sagara Kariyawasam objected to the meeting being turned into an all-party gathering without prior notice.
-
-Initially invited to the President’s residence, the SLPP attended the meeting under the impression that it would be an exclusive discussion between the party and the President.
-
-At the outset of the meeting, President Wickremesinghe expressed his intent to gather perspectives on the modalities for contesting the forthcoming presidential election.
-
-...
-
-[Data](articles/c60b4e31.json)
-
-[Extended Data](ext_articles/c60b4e31.ext.json)
-
----
-
-### Honor to Ashani in the hill country
-
-*2024-02-03 10:31:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையகக்குயில்-அஷாணிக்கு-கௌரவிப்பு/76-332586) · `ta`
-
-The event will be held at the Kottakkalai Wutton Temple Hall on the 4th of this month at the Kotakkalai Woodon Temple Hall.
-
-The Upcountry Power has made arrangements to honor the hill country quail, who attended the Kama Pa event on the South Indian television show from the leaf of the hill country and searched for the honor of the hill country.
-
-The event will be chaired by the President of the organization Raman Senthuran to attend the event.. Remble
-
-◼️
-
-[Data](articles/1408705a.json)
-
-[Extended Data](ext_articles/1408705a.ext.json)
 
 ---

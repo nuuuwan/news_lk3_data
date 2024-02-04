@@ -1,36 +1,92 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 07:17:13**
+As of **2024-02-04 07:41:03**
 
 ## Newspaper Stats
 
-*Scraped **4,624** Articles*
+*Scraped **4,629** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 55
 bbccomsinhala | 70
-dbsjeyarajcom | 135
+dbsjeyarajcom | 136
 islandlk | 254
 economynextcom | 254
 dailyftlk | 280
 newsfirstlk | 282
 adalk | 399
 virakesarilk | 518
-adaderanasinhalalk | 572
+adaderanasinhalalk | 575
 adaderanalk | 579
-tamilmirrorlk | 583
+tamilmirrorlk | 584
 dailymirrorlk | 643
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,616 (99.8%) of 4,624 articles have been extended.
+4,622 (99.8%) of 4,629 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### මූල්‍ය කළමනාකරණය ගැන දැනුම්දීමක්
+
+*2024-02-04 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192943) · `si`
+
+ආණ්ඩුව මේ මොහොතේ මූල්‍ය කළමනාකරණය සිදු කරනු ලබන්නේ, ඡන්දය පැවැත්වීම සම්බන්ධ අදහසකින් නොවන බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+ඔහු ප්‍රකාශ කරන්නේ, ජනතාවට සහන ලබා දීම ආණ්ඩුවේ උපරිම උත්සාහය බවයි.
+
+◼️
+
+[Data](articles/336840d5.json)
+
+---
+
+### 76 වැනි නිදහස් දිනය අදයි
+
+*2024-02-04 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192942) · `si`
+
+76 වැනි නිදහස් දින සැමරුම් උලෙළ අද (04) ගාලු මුවදොර පිටියේ දී අභිමානවත් ලෙස පැවැත්වීමට නියමිත ව තිබේ.
+
+‘හදමු අලුත් රටක්‘ යන තේමාව යටතේ මෙවර ජාතික නිදහස් දින සැමරුම් උලෙළ පැවැත්වෙන බව ස්වදේශ කටයුතු අමාත්‍යාංශය සඳහන් කරයි.
+
+නිදහස් දින සැමරුම් උලළේ ප්‍රධාන ආරාධිත අමුත්තා ලෙස තායිලන්ත අග්‍රාමාත්‍ය ශ්‍රෙත්ථා තවිසින් මහතා සහභාගි වීමට නියමිතයි.
+
+මීට අමතරව තායිලන්ත දුත පිරිසක් ද මෙම අවස්ථාවට සහභාගි වීමට නියමිත අතර, තානාපතිවරුන් ඇතුළු ආරාධිත අමුත්තන් සීමිත පිරිසකගේ සහභාගිත්වයෙන් මෙවර නිදහස් දින සැමරුම් උලෙල පැවැත්වෙනු ඇත.
+
+සැමරුම් පෙළපාලිය සඳහා යුද, ගුවන්, නාවික, පොලිස්, සිවිල් ආරක්ෂක බළකාය සහ ජාතික ශිෂ්‍යභට බළකායේ සාමාජිකයින් එක්වීමට නියමිත බව ආරක්ෂක ලේකම් විශ්‍රාමික ජෙනරාල් කමල් ගුණරත්න මහතා සඳහන් කරයි.
+
+මීට අමතරව සැමරුම් පෙළපාලිය සඳහා ගුවන් යානා 19ක් සහ ගුවන් හමුදාවේ නව තාක්ෂණ නිපැයුම් එක්කර ඇති බව ගුවන් හමුදාපති එයාර් වයිස් මාර්ෂල් උදේනි රාජපක්ෂ මහතා සඳහන් කර තිබේ.
+
+...
+
+[Data](articles/95f2b3ed.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට විටින් විට වැසි
+
+*2024-02-04 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192941) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව සහ මාතලේ දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, අනුරාධපුර සහ හම්බන්තොට දිස්ත්‍රික්කවල වැසි වාර කිහිපයක් ඇති විය හැකි බවය.
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (04) ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/a5ac3f44.json)
+
+---
 
 ### Historic Agreements strengthen ties between Sri Lanka and Thailand
 
@@ -47,6 +103,22 @@ Minister of Trade, Commerce, and Food Security,  Nalin Fernando, represented Sr
 [Data](articles/7e64b262.json)
 
 [Extended Data](ext_articles/7e64b262.ext.json)
+
+---
+
+### குடும்பஸ்தர் வெட்டிக் கொலை
+
+*2024-02-04 03:56:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடும்பஸ்தர்-வெட்டிக்-கொலை/175-332608) · `ta`
+
+இளம் குடும்பஸ்தர் ஒருவர் வெட்டிப் படுகொலை செய்யப்பட்டுள்ளார்.  இந்தச் சம்பவம் மத்துகம, ஓவிட்டிகல பகுதியில் நேற்று இடம்பெற்றுள்ளது.
+
+உயிரிழந்தவரும் அவரைத் தாக்கினார் எனக் கூறப்படும் சந்தேகநபரும் நெருங்கிய உறவினர்கள் என்று பொலிஸார் தெரிவித்துள்ளனர்.
+
+வாள்வெட்டுத் தாக்குதலை நடத்தியவர் எனக் கூறப்படும் 27 வயதுடைய சந்தேகநபர், தாக்குதலின் பின்னர் தலைமறைவாகியிருந்த நிலையில் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/ee14a812.json)
 
 ---
 
@@ -690,6 +762,22 @@ After the formal introduction of the delegations from both countries, President 
 
 ---
 
+### Jaffna  Youth Congress was the First to Demand “Poorana Swaraj”( Complete Self-Rule) For Ceylon/SriLanka From  Britain.
+
+*2024-02-03 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83550) · `en`
+
+Sri Lanka known formerly as Ceylon gained independence from British rule on 4 February 1948. The Island nation celebrates the 76th anniversary of her “tryst with destiny” on Sunday. Events marking freedom day festivity are scheduled for the week-end.
+
+Even as the greater part of the Island is enveloped in a melodious mood, a discordant note is struck in the Tamil dominated Northern province and  the  Tamil Majority Eastern Province. The Jaffna University Students Union and organizations representing the families of disappeared persons have proclaimed 4 February 2024 as a ”Kari Naal”( black or dark day) and declared it as a day of mourning.
+
+It has been announced that “Kavana Eerppu Poaraattangal”(Attention drawing demonstrations)would be held in the five districts of the  North and three districts of the east. Several  Sri Lankan Tamil nationalist parties and civil society organizations have endorsed and lent support  to the call for observing freedom day as a black day.
+
+...
+
+[Data](articles/30eff12a.json)
+
+---
+
 ### Electricity and petroleum supply again gazetted as essential services
 
 *2024-02-03 18:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/96976/electricity-and-petroleum-supply-again-gazetted-as-essential-services) · `en`
@@ -928,6 +1016,8 @@ Apart from livelihoods, post-tsunami, children’s education was one of the most
 
 [Data](articles/93a1343b.json)
 
+[Extended Data](ext_articles/93a1343b.ext.json)
+
 ---
 
 ### Ramzi Rahaman – The master craftsman
@@ -939,6 +1029,8 @@ It is said that a woman’s crowning glory is her ‘hair’ and it’s the crow
 ...
 
 [Data](articles/6dd202c6.json)
+
+[Extended Data](ext_articles/6dd202c6.ext.json)
 
 ---
 
@@ -1638,6 +1730,8 @@ The gala event of 20th anniversary was held at Grand Raffles Residence on 11th D
 
 [Data](articles/afb70e8d.json)
 
+[Extended Data](ext_articles/afb70e8d.ext.json)
+
 ---
 
 ### SLT-MOBITEL Annual Report 2022 Secures Gold at TAGS Awards 2023
@@ -1652,6 +1746,8 @@ Janaka Abeysinghe, chief executive offer – SLT received the award and Sanjeewa
 
 [Data](articles/6f1e4d9b.json)
 
+[Extended Data](ext_articles/6f1e4d9b.ext.json)
+
 ---
 
 ### SLIC embarks on a new era: Legal segregation marks a historic milestone
@@ -1665,6 +1761,8 @@ A momentous event to mark this historic occasion was held at the Sri Lanka Insur
 ...
 
 [Data](articles/51364689.json)
+
+[Extended Data](ext_articles/51364689.ext.json)
 
 ---
 
@@ -1881,101 +1979,5 @@ The event will be chaired by the President of the organization Raman Senthuran t
 [Data](articles/1408705a.json)
 
 [Extended Data](ext_articles/1408705a.ext.json)
-
----
-
-### The train will not stop at some railway stations - the Department of Railways
-
-*2024-02-03 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175431) · `ta`
-
-The Department of Railways has announced that the train will not be stopped at the Secretariat Railway Station, Kaluppitti and Bambalapitiya railway stations tomorrow (Sunday) from 5 am to 09 am to ensure the safety of those who participated in the Independence Day.
-
-The 76th Independence Day event will be held tomorrow morning (Sunday) with the participation of the President, Prime Minister, Political figures and foreign diplomats.
-
-In order to ensure the safety of those who attend the event, the train will not be stopped at the Coastal Railway Service Center, Kaluppitti and Bambalapitiya from 05 am to 9 pm tomorrow (Sunday).
-
-◼️
-
-[Data](articles/eebf17ed.json)
-
-[Extended Data](ext_articles/eebf17ed.ext.json)
-
----
-
-### 2 arrested in connection to Jinthupitiya murder
-
-*2024-02-03 10:25:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/03/2-arrested-in-connection-to-jinthupitiya-murder/) · `en`
-
-COLOMBO (News 1st) – 2 were arrested in connection to the shooting that killed a person in Aduruppuveediya in Colombo.
-
-The two suspects are 28 and 39 years of age and residents of Kadawatha and Aduruppuveediya.
-
-The main suspect of the murder was arrested by the Aduruppuveediya police.
-
-The shooting took place on the 24th of January in Jinthupitiya, Aduruppuveediya.
-
-Imran Khan and wife convicted for illegal marriage and jailed for 7 years
-
-◼️
-
-[Data](articles/bb58dce2.json)
-
-[Extended Data](ext_articles/bb58dce2.ext.json)
-
----
-
-### Two suspects arrested in Jedanapitiya shooting incident
-
-*2024-02-03 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192917) · `si`
-
-Two suspects have been arrested in connection with the killing of a person in Jedippapitiya.
-
-Police said that the main suspect and aid of the shooting had been arrested.
-
-Two residents of Kadawatha and Adrappu areas have been arrested, 28 and 39.
-
-◼️
-
-[Data](articles/4a927173.json)
-
-[Extended Data](ext_articles/4a927173.ext.json)
-
----
-
-### Operation Yukthiya nets 770 suspects in 24 hours
-
-*2024-02-03 10:21:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/03/operation-yukthiya-nets-770-suspects-in-24-hours/) · `en`
-
-COLOMBO (News 1st) – 770 suspects were apprehended in the past 24 hours under Operation Yukthiya.
-
-The Ministry of Public Security says that 203 suspects are on the list forwarded to the country's crime control authorities.
-
-Police seized 132 grams of Heroin, 128 grams of ICE, and 15kg and 900 grams of cannabis as well.
-
-6 of the apprehended suspects are being questioned based on detention orders.
-
-Imran Khan and wife convicted for illegal marriage and jailed for 7 years
-
-◼️
-
-[Data](articles/75ee4d63.json)
-
-[Extended Data](ext_articles/75ee4d63.ext.json)
-
----
-
-### Arrested in person with 2 kg of cannabis
-
-*2024-02-03 10:20:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-கிலோ-கஞ்சாவுடன்-நபர்-கைது/175-332584) · `ta`
-
-According to information received by the Police Special Bureau, the police have arrested a man with a 2 kg of 100 grams of Kerala ganja at Poonakari Pallikkuda.
-
-A 43 -year -old man arrested by Poonakari Police is to be produced in court. Remble
-
-◼️
-
-[Data](articles/54240f8c.json)
-
-[Extended Data](ext_articles/54240f8c.ext.json)
 
 ---

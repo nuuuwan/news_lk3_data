@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 22:32:41**
+As of **2024-02-04 22:49:30**
 
 ## Newspaper Stats
 
@@ -1064,9 +1064,7 @@ There are several instances of the use of overkill to guarantee failure. There h
 
 With the wisdom of hindsight, the Root Causes of Sri Lanka’s first Sovereign Default, staged three years ago on the eve of 75 years of ‘Independence’ from the British Raj are clearly discernible.
 
-Back in March 2021 when the default happened there was too much Aragalaya hype and confusion to discern the deep structures, transnational financial networks, and vested interests (including members of the Lankan Diaspora) embedded in the debt pile up:
-
-Amid protests at soaring cost of living, the claim was that Sri Lanka, South Asia’s wealthiest country with the best human and social development indicators in the region was “bankrupt” because it lacked exorbitantly privileged US dollars to buy food and fuel. This was after the shadowy off-shore Hamilton Reserve Bank had filed a case in the New York courts against the country for non-payment of a small amount of interest owned.
+Back in March 2021 when the default happened there was too much Aragalaya hype and confusion to discern the deep structures, transnational financial networks, and vested interests (including members of the Lankan Diaspora) embedded in the debt pile up. Amid protests at soaring cost of living, the claim was that Sri Lanka, South Asia’s wealthiest country with the best human and social development indicators in the region was “bankrupt” because it lacked exorbitantly privileged US dollars to buy food and fuel. This was after the shadowy off-shore Hamilton Reserve Bank had filed a case in the New York courts against the country for non-payment of a small amount of interest owned.
 
 ...
 

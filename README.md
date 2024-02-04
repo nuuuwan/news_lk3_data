@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 13:02:26**
+As of **2024-02-04 13:17:13**
 
 ## Newspaper Stats
 
-*Scraped **4,689** Articles*
+*Scraped **4,691** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 287
 adalk | 404
 virakesarilk | 522
 adaderanalk | 586
-adaderanasinhalalk | 590
+adaderanasinhalalk | 592
 tamilmirrorlk | 598
 dailymirrorlk | 651
 
@@ -26,11 +26,45 @@ dailymirrorlk | 651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,688 (100.0%) of 4,689 articles have been extended.
+4,689 (100.0%) of 4,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### නිදහස යනු කුමක් දැයි කාදිනල් හිමි අසයි
+
+*2024-02-04 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192960) · `si`
+
+පීඩාකාරී නායකත්වයෙන් රට මුදාගෙන නව නායකයෙක් රටට පත්කර ගැනීමට කාලය එළැඹ ඇතැයි අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණෝ පවසති.
+
+නිදහස් දිනය වෙනුවෙන් පුංචි බොරැල්ල සියලු ශාන්තුවරුන්ගේ දේවස්ථානයේ පැවති විශේෂ දේව මෙහෙයට එක්වෙමින් කාදිනල් හිමියෝ එම අදහස් පළ කළහ.
+
+එහි දී වැඩිදුරටත් අදහස් දැක්වූ අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන්,
+
+"දේශපාලන හා ආර්ථිකමය වශයෙන් රට පහළට වැටිලා. නායකයින්ගෙන් අසන්නේ සමරන්නේ කාගේ නිදහසද? පාලකයන්ගේ නිදහසද? ජනතාවගේ නිදහසද? පිටරට නියෝජිතයින් ගෙන්වා, රටේ ප්‍රභූවරුන් ඉදිරියේ බඩගින්නේ සිටින ජනතාව හෑල්ලු කිරීම නිදහසද? සුන්දර අපේ මව්බිම අවාසනාවන්තයි. පීඩාකාරි පාලන පැලැන්තියෙන් රට මුදාගත යුතුයි. නිවැරදි නායකයෙක් රටට පත්කරගත යුතුයි"
+
+◼️
+
+[Data](articles/85d447b6.json)
+
+---
+
+### චාමික වෙනුවට කසුන් රාජිත
+
+*2024-02-04 12:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192959) · `si`
+
+ශ්‍රී ලංකා - ඇෆ්ගනිස්තාන ටෙස්ට් ක්‍රිකට් තරගයේ තුන්වැනි දිනය අදයි.
+
+එහිදී, පන්දුවට පහර දෙමින් සිටියදී හිස් ආවරණයේ පන්දුව වැදීම හේතුවෙන් පිටියෙන් ඉවත්වූ චාමික ගුණසේකර වෙනුවට වෙනත් ක්‍රීඩකයෙක් යෙදවීමට ශ්‍රී ලංකා කණ්ඩායම ට අනුමැතිය ලැබී තිබේ.
+
+ඒ අනුව වේගපන්දු යවන ක්‍රීඩක කසුන් රාජිත ව කණ්ඩායම ට කැඳවූ බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/73dc8f57.json)
+
+---
 
 ### Kandy Hospital team transplants woman’s severed hand
 
@@ -85,6 +119,8 @@ The Retail License for Liquor in Municipal Areas was reduced from Rs. 15 million
 ◼️
 
 [Data](articles/eb51fc00.json)
+
+[Extended Data](ext_articles/eb51fc00.ext.json)
 
 ---
 
@@ -2007,41 +2043,5 @@ The new communiqué comes a month after the services related to electricity and 
 [Data](articles/769e412a.json)
 
 [Extended Data](ext_articles/769e412a.ext.json)
-
----
-
-### Sri Lanka scored 212 runs
-
-*2024-02-03 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192933) · `si`
-
-The Sri Lankan team scored 410 runs for the loss of 6 wickets for the loss of 6 wickets in their first innings.
-
-Today, Angelo Mathews won the 16th Test century and Dinesh Chandimal collect to score 15th Test century.
-
-The Afghan group was collected for their first innings.
-
-◼️
-
-[Data](articles/72fcde01.json)
-
-[Extended Data](ext_articles/72fcde01.ext.json)
-
----
-
-### Keheliya suddenly admitted to the hospital
-
-*2024-02-03 17:52:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-திடீரென-வைத்தியசாலையில்-அனுமதி/175-332590) · `ta`
-
-Former Health Minister Keheliya Rambukwella has been admitted to the Prison Hospital.
-
-Keheliya Rambukwella, who was arrested yesterday (02) by officials of the Criminal Investigation Department
-
-The court has ordered to be kept in remand until the 15th of this month.
-
-◼️
-
-[Data](articles/4a5fa3a8.json)
-
-[Extended Data](ext_articles/4a5fa3a8.ext.json)
 
 ---

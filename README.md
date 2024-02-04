@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 10:17:19**
+As of **2024-02-04 10:33:03**
 
 ## Newspaper Stats
 
@@ -26,87 +26,95 @@ dailymirrorlk | 646
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,651 (99.8%) of 4,658 articles have been extended.
+4,658 (100.0%) of 4,658 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
 
-### இத்தாலி துப்பாகியுடன் இளைஞன் கைது
+### Youth arrested with Italy
 
 *2024-02-04 09:50:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இத்தாலி-துப்பாகியுடன்-இளைஞன்-கைது/175-332614) · `ta`
 
-​பெந்தோட்டை பொலிஸாருக்குகிடைத்த தகவலின் அடிப்படையில் பெந்தோட்ட வராஹேன பிரதேசத்தில், வீதியில் நடந்துச் சென்றுக்கொண்டிருந்த 17 வயதான இளைஞனிடம் இருந்து வெளிநாட்டில் தயாரிக்கப்பட்ட வகை கைத்துப்பாக்கி மற்றும் 5,580 மில்லிகாரம் ஹெரோய்ன் ​கைப்பற்றப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+Based on information from the Bentota police, police said that the handgun made abroad from a 17 -year -old youth walking on the road in Bentota Warahahena area was seized from a foreign man.
 
-கைப்பற்றப்பட்ட துப்பாக்கி ஏதேனும் குற்றச் சம்பவத்துடன் தொடர்புடையதா? என்பது குறித்து விசாரணை நடத்தி வருவதாக பொலிஸார் தெரிவித்தனர்.
+Is the captured gun involved in any crime?Police said they were investigating.
 
-சனிக்கிழமை (3) பிற்பகல் கைது செய்யப்பட்ட சந்தேக நபர் பெந்தோட்டை அங்ககொட பகுதியைச் சேர்ந்வர் என பொலிஸார் தெரிவித்தனர்.
+The suspect who was arrested on Saturday afternoon (3) afternoon was a policeman, police said.
 
-சந்தேக நபரை பலபிட்டிய நீதவான் நீதிமன்றில் ஆஜர்படுத்தி மேலதிக விசாரணைகளுக்காக ஏழு நாட்கள் தடுப்புக்காவலில் வைக்கவுள்ளதாக பெந்தோட்டை பொலிஸ் நிலைய பொறுப்பதிகாரி துஷாரகரி தெரிவித்தார். ள்ளனர்.
+The suspect is being produced before the Magistrate's Court and will be kept in detention for seven days for further inquiries. They are.
 
 ◼️
 
 [Data](articles/41d0cf99.json)
 
+[Extended Data](ext_articles/41d0cf99.ext.json)
+
 ---
 
-### කප්පම් ඉල්ලූ පුද්ගලයෙකු අත්අඩංගුවට
+### Man arrested for ransom
 
 *2024-02-04 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192952) · `si`
 
-මරණීය තර්ජන එල්ල කර කප්පම් ලබා ගැනීමට උත්සාහ කළ පුද්ගලයෙකු කොළඹ අපරාධ කොට්ඨාසය මගින් අත්අඩංගුවට ගෙන තිබේ.
+The Colombo Crimes Division has been arrested by the Colombo Crimes Division.
 
-කොට්ටාව බස් නැවතුම්පොළේ නවතා තිබූ බස්රථයක රියදුරෙකුට කිසියම් පුද්ගලයෙකු රුපියල් 20,000ක මුදලක් ලබා දෙන ලෙස තර්ජනය කර ඇති බව පොලීසිය පවසයි.
+Police say a person has threatened a driver at a bus parked at the Kottawa bus stand, police said.
 
-අනතුරුව ඔවුන් පිටකොටුව බස් නැවතුමට පැමිණ රථය නවතා තිබිය දී බස් රථයට නැගි පුද්ගලයෙකු රියදුරුගේ ඡායාරූපයක් ලබාගෙන තිබේ.
+Then, a person stood by the bus, had taken a photo of the driver while they had arrived at Pettah bus stand.
 
-ඒ පිළිබඳ සැක සිතූ රියදුරු ඇතුළු පුද්ගලයින් අදාළ පුද්ගලයා අල්ලා දුරකථනය පරීක්ෂා කිරීමේ දී රියදුරුගෙන් ලබාගත් ඡායාරූපය වට්ස්ඇප් ඔස්සේ විදේශීය දුරකථන අංකයට යොමු කර ඇති බව අනාවරණය කරගෙන ඇත.
+It has been revealed that the driver of the persons who were suspicious of the suspected person and inspect the phone to the foreign telephone number along whatsapp.
 
-පසුව විදේශීය දුරකථන අංකයකින් අදාළ රියදුරුට රුපියල් 25,000ක කප්පමක් ගෙවන ලෙසට තර්ජනාත්මක ඇමතුමක් ලැබී තිබේ.
+Later, the driver of the relevant driver has received a threatening call to pay a ransom of Rs. 25,000.
 
-මේ සම්බන්ධයෙන් පොලීසියට කළ පැමිණිල්ලකට අනුව සැකකරු අත්අඩංගුවට ගෙන දින 07ක රැඳවුම් නියෝග මත ප්‍රශ්න කිරීම් සිදු කරන බව පොලීසිය සඳහන් කරයි.
+According to a complaint lodged at the police, the suspect was arrested and interrogated on 07 days detention orders.
 
-අත්අඩංගුවට ගත් සැකකරු විදේශ රටක සිට මෙරට මත්ද්‍රව්‍ය ජාවාරම් සහ අපරාධ සිදු කරනු ලබන සංවිධානාත්මක අපරාධකරුවෙකු විසින් මෙහෙයවා ඇති බවට අනාවරණය වී තිබේ.
+The suspect has been taken by the arrested suspect in a foreign country by a organized criminal committed by the country's drug trafficking and crimes.
 
 ◼️
 
 [Data](articles/6f9e0651.json)
 
+[Extended Data](ext_articles/6f9e0651.ext.json)
+
 ---
 
-### போதையில் நுழைய முற்பட்ட இருவர் கைது
+### Two persons arrested for trying to enter into intoxicated
 
 *2024-02-04 09:47:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/போதையில்-நுழைய-முற்பட்ட-இருவர்-கைது/71-332613) · `ta`
 
-யாழ். போதனா வைத்தியசாலையில் மது போதையில் அத்துமீறி நுழைய முற்பட்ட இருவர் நேற்றைய தினம் பொலிஸாரினால் கைது செய்யப்பட்டுள்ளனர்.
+Yall. Two persons have been arrested by the police yesterday for attempting to enter the teaching hospital.
 
-மது போதையில் போதனா வைத்தியசாலை மதிலினால் ஏறி வைத்தியசாலைக்குள் உட்புகுந்த இருவரை வைத்தியசாலை பாதுகாப்பு உத்தியோகஸ்தர்கள் மடக்கிப் பிடித்து பொலிஸாரிடம் ஒப்படைத்துள்ளனர்.
+Hospital security officers have been caught and handed over to the police.
 
-பொலிஸார் இருவரையும் கைது செய்து பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை முன்னெடுத்து வருகின்றனர். R
+Police are arrested and detained at the police station. Remble
 
 ◼️
 
 [Data](articles/54d570f6.json)
 
+[Extended Data](ext_articles/54d570f6.ext.json)
+
 ---
 
-### ஈழம் அழிந்ததற்கு திமுகவை மட்டும் குறை கூறுகிறார்கள் ஆனால் உலக அளவில் நடந்த அரசியலைப் பற்றி யாரும் பேசவில்லை!” – திருமாவளவன்
+### The DMK is only blamed for the extinction of Eelam but no one talks about the politics of the world! ”- Thirumavalavan
 
 *2024-02-04 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175495) · `ta`
 
-ஈழம் அழிந்ததற்கு திமுகவை மட்டும் குறை கூறுகிறார்கள் ஆனால் உலக அளவில் ஈழத்தை அழிக்க செய்யப்பட்ட அரசியலைப் பற்றி யாரும் பேசவில்லை என விடுதலை சிறுத்தைகள் கட்சித்தலைவர் திருமாவளவன் கூறியுள்ளார்.
+The leader of the Liberation Panthers Party, Thirumavalavan, has said that the DMK is not only blamed for the destruction of Eelam but no one has spoken about the politics of Eelam worldwide.
 
-சென்னையில் சர்.பிட்டி. தியாகராயர் மண்டபத்தில் நடைபெற்ற ஈழம் குறித்த நிகழ்வில் விடுதலை சிறுத்தைகள் கட்சித்தலைவர் திருமாவளவன் பங்கேற்றார்.
+Sir PBT in Chennai. Thirumavalavan, the leader of the Liberation Panthers Party, participated in the Eelam event held at Thiagarayar Hall.
 
-ஈழத் தமிழர்கள் சுட்டுக் கொல்லப்பட்டதற்கு காரணம் கருணாநிதி மற்றும் திமுக தான் என்று கூறினால் அது அரசியல்வாதிகளுக்கு வேண்டுமானால் பயன் தரலாம் ,ஆனால் ஈழத்தமிழர்களுக்கு எப்போதும் பயன் தராது.
+The reason for the shooting of the Eelam Tamils is that Karunanidhi and DMK are the reason for politicians, but it does not always benefit the Eelam Tamils.
 
-ஈழம் அழிந்ததற்கு தமிழ்நாட்டில் உள்ளவர்கள் திமுகவையும் கருணாநிதியை மட்டுமே குறை கூறினார்கள். ஆனால் உலக அளவில் ஈழத்தை அழிக்க செய்யப்பட்ட அரசியலைப் பற்றி யாரும் பேசவில்லை.
+Those in Tamil Nadu only criticized the DMK and Karunanidhi for the destruction of Eelam. But no one talks about the politics of Eelam worldwide.
 
-இந்தியாவில் ஈழத் தமிழர்களுக்கு ஆதரவாக ஒரு போராட்டம் கூட நடைபெறவில்லை. உலக நாடுகள் ஈழத் தமிழர்களை பயங்கரவாதிகள் என திரும்ப திரும்ப குறை கூறியுள்ளனர். ஈழத் தமிழர்களை மிகப் பெரிய ஆயுதக் குழுக்களாக மாற்றியது காங்கிரஸ்தான். இவ்வாறு விடுதலை சிறுத்தைகள் கட்சித்தலைவர் திருமாவளவன் பேசினார்.
+There is not even a struggle in support of Eelam Tamils in India. The nations of the world have repeatedly criticized Eelam Tamils as terrorists. Congress has made Eelam Tamils the largest armed groups. Thus, the leader of the Liberation Panthers Party Thirumavalavan spoke.
 
 ◼️
 
 [Data](articles/cc58430c.json)
+
+[Extended Data](ext_articles/cc58430c.ext.json)
 
 ---
 
@@ -125,6 +133,8 @@ Imran Khan and wife convicted for illegal marriage and jailed for 7 years
 ◼️
 
 [Data](articles/aa0b7280.json)
+
+[Extended Data](ext_articles/aa0b7280.ext.json)
 
 ---
 
@@ -258,47 +268,51 @@ Our ancestors created a proud history for us. As their children and grandchildre
 
 ---
 
-### ඉරානයෙන් වැරැද්දක් පෙන්වා දෙයි
+### Shoots a mistake from Iran
 
 *2024-02-04 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192951) · `si`
 
-ඉරාකය සහ සිරියාව වෙත අමෙරිකානු ගුවන් ප්‍රහාර එල්ල කිරීම මුලෝපායික වරදක් බව ඉරානය පවසයි.
+Iran says that American air strikes are a strategic wrong to Iraq and Syria.
 
-පසුගිය සිකුරාදා අමෙරිකාව විසින් ඉරාකයේ සහ සිරියාවේ ඉලක්ක 85ක් වෙත ප්‍රහාර එල්ල කර තිබිණි.
+Last Friday, the US had attacked 85 targets in Iraq and Syria.
 
-අමෙරිකානු හමුදා කඳවුරකට ඩ්‍රෝන ප්‍රහාරයක් එල්ල කරමින් සෙබළුන් තිදෙනෙකු මිය ගොස් තවත් 40කට වැඩි පිරිසක් තුවාල කිරීමේ සිද්ධියට ඉරාන හිතවාදී ත්‍රස්ත කණ්ඩායම් සම්බන්ධ බවට ධවල මන්දිරය ප්‍රකාශ කළේ ය.
+The White House stated that three soldiers were killed and more than 40 were killed and more than 40 others injured.
 
-ඒ සම්බන්ධයෙන් අදහස් දක්වන ඉරාන විදේශ අමාත්‍යවරයා ප්‍රකාශ කළේ, එම ප්‍රහාරවලින් කලාපයේ ආතතිය සහ අස්ථාවරත්වය හැර වෙනත් ප්‍රතිඵලයක් නොලැබෙන බවයි.
+The Foreign Minister of Iranian Foreign Minister said that the attacks would not result from the stress and instability in the region.
 
-ප්‍රහාරයෙන් සිවිල් වැසියන් ඇතුළු 16 දෙනෙකු මිය ගොස් තිබූ බව ඉරාක බලධාරින් ප්‍රකාශ කර ඇත.
+Iraqi authorities have said that 16 persons including civilians were killed in the attack.
 
 ◼️
 
 [Data](articles/671f3891.json)
 
+[Extended Data](ext_articles/671f3891.ext.json)
+
 ---
 
-### රිය අනතුරුවලින් සිව් දෙනෙකු මරුට
+### Four killed in road accidents
 
 *2024-02-04 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192950) · `si`
 
-තලාතුඔය පොලිස් වසමේ තැන්නේකුඹුර - රාගල මාර්ගයේ හරාගම ප්‍රදේශයේ දී සිදුවූ රිය අනතුරකින් අඹුසැමි යුවළක් ජීවිතක්ෂයට පත්ව තිබේ.
+A couple was killed in an accident in the Talatthaoya Police Division in Thalathuoya Police Division.
 
-ඊයේ (03) දහවල් කාලයේ දී එම අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
+The accident had occurred yesterday (03) at the time.
 
-තැන්නේකුඹුර දෙස සිට රාගල දෙසට ධාවනය වූ යතුරුපැදියක් අතුරු මාර්ගයකට හැරවීමට මාර්ගයේ දකුණු පසට ගැනීමේ දී රාගල දෙස සිට තැන්නේකුඹුරු දෙසට ධාවනය වූ වෑන් රථයේ ගැටී එම අනතුර සිදුව ඇත.
+The accident occurred in the van which was driven from Ragala to the right road to turn a motorcycle towards the Ragala down to the Ragala.
 
-අනතුරින් බරපතළ තුවාල ලැබූ යතුරුපැදිකරු හා පසුපැදිකාරිය මහනුවර රෝහලට ඇතුළත් කිරීමෙන් පසු දෙදෙනාම මිය ගොස් තිබේ.
+The motorcyclist and the followers were rushed to the Kandy hospital.
 
-මිය ගොස් ඇත්තේ, කවුඩුල්ල, මැදිරිගිරිය ලිපිනයේ පදිංචි 68 හැවිරිදි හා 62 හැවිරිදි අඹුසැමි යුවළකි.
+The deceased is a 68 year old and 62-year-old resident of the Medirigiriya address.
 
-මේ අතර, නාරම්මල - කටුපොත මාර්ගයේ දී මෝටර් රථයක් හා පා පැදියක් ගැටී සිදුවූ අනතුරකින් 70 හැවිරිදි පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Meanwhile, a 70-year-old man was killed in accident and a car collided with a car and a vehicle in Narammala - Katupotha road.
 
-මේ අතර, අම්පාර - අක්කරේපත්තුව මාර්ගයේ මදිනාපුර ප්‍රදේශයේ දී ලංගම බස් රථයක් මාර්ගයේ ගමන්ගත් පදිකයෙකුගේ ගැටී සිදුවූ අනතුරකින් 63 හැවිරිදි කාන්තාවක් ජීවිතක්ෂයට පත්ව ඇත.
+Meanwhile, 63
 
 ◼️
 
 [Data](articles/2f0b5271.json)
+
+[Extended Data](ext_articles/2f0b5271.ext.json)
 
 ---
 

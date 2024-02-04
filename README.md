@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 11:32:53**
+As of **2024-02-04 11:51:30**
 
 ## Newspaper Stats
 
-*Scraped **4,666** Articles*
+*Scraped **4,668** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 136
 islandlk | 254
 economynextcom | 254
 dailyftlk | 280
-newsfirstlk | 286
+newsfirstlk | 287
 adalk | 402
 virakesarilk | 521
 adaderanalk | 584
-adaderanasinhalalk | 586
+adaderanasinhalalk | 587
 tamilmirrorlk | 590
 dailymirrorlk | 648
 
@@ -26,31 +26,65 @@ dailymirrorlk | 648
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,664 (100.0%) of 4,666 articles have been extended.
+4,666 (100.0%) of 4,668 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
 
-### තවත් සැකකරුවන් 660 දෙනෙකු අත්අඩංගුවට
+### පන්දුවට පහර දෙමින් සිටි චාමික හදිසියේම පිටියෙන් ඉවත් වෙයි
 
-*2024-02-04 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192954) · `si`
+*2024-02-04 11:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192955) · `si`
 
-යුක්තිය මෙහෙයුම යටතේ අද (04) අලුයම 12.30න් අවසන් වූ පැය 24 තුළ දිවයින පුරා සිදු කළ මෙහෙයුම්වල දී සැකකරුවන් 660 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+ශ්‍රී ලංකා - ඇෆ්ගනිස්තාන ටෙස්ට් ක්‍රිකට් තරගය මේ වනවිට කොළඹ එස් එස් සී ක්‍රීඩාංගණයේදී පැවැත්වෙයි.
 
-මත්ද්‍රව්‍ය වැරදි සම්බන්ධයෙන් සැකකරුවන් 552 දෙනෙකු සහ අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ සිටි සැකකරුවන් 108 දෙනෙකු මෙහි දී අත්අඩංගුවට ගෙන ඇති බව මහජන ආරක්ෂක අමාත්‍යාංශය පැවසුවේය.
+මීට සුළු මොහොතක ට පෙර පන්දුවට පහර දෙමින් සිටි චාමික ගුණසේකර හදිසියේම පිටියෙන් ඉවත්විය.
 
-මෙහෙයුම්වල දී හෙරොයින් ග්‍රෑම් 152ක්, අයිස් ග්‍රෑම් 134ක් ඇතුළු මත්ද්‍රව්‍ය එහි දී ආරක්ෂක අංශ භාරයට ගෙන තිබේ.
+තරගයේ විස්තර විචාරකයන් පැවසුවේ ඒ හේතුවෙන් ඇතිවූ අපහසුතාවයක් නිසා චාමික පිටියෙන් ඉවත්වන්න තීරණය කරන්නට ඇති බවය.
 
-මත්ද්‍රව්‍ය වැරදි සම්බන්ධ අත්අඩංගුවට ගත් සැකකරුවන් 552 දෙනා අතරින් මත්ද්‍රව්‍යවලට ඇබ්බැහි වූවන් 01ක් පුනරුත්ථාපනය සඳහා යොමු කර ඇත.
+◼️
 
-පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය සහ පොලිස් විශේෂ කාර්යාංශ ලැයිස්තුවේ සිටි සැකකරුවන් 03ක් ද අත්අඩංගුවට ගෙන තිබේ.
+[Data](articles/47c3408d.json)
 
-පොලීසිය පැවසුවේ, අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ අත්අඩංගුවට ගත් සැකකරුවන් 108 දෙනා අතරින් මත්ද්‍රව්‍ය වැරදි සම්බන්ධ ව විවෘත වරෙන්තු නිකුත්ව සිටි සැකකරුවන් 08ක් සහ මත්ද්‍රව්‍ය නොවන වැරදි සම්බන්ධව විවෘත වරෙන්තුකරුවන් 95ක් ද සිටින බව ය.
+---
+
+### Navy Seizes Two Poaching Trawlers & 23 Indian Nationals in Sri Lankan Waters
+
+*2024-02-04 10:57:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/04/navy-seizes-two-poaching-trawlers-23-indian-nationals-in-sri-lankan-waters/) · `en`
+
+COLOMBO (News 1st) – The Sri Lanka Navy conducted a special operation to chase away Indian poaching trawlers from Sri Lankan waters on the night of 03rd February 2024. The operation resulted in the seizure of 02 Indian trawlers and apprehension of 23 Indian nationals poaching in northern waters of Sri Lanka, off the Delft Island in Jaffna.
+
+The Navy conducts regular patrols and operations in Sri Lankan waters to curb illegal fishing practices by foreign fishing trawlers, taking into account the consequences of these practices on the livelihood of local fishermen.
 
 ...
 
+[Data](articles/21dc4f72.json)
+
+---
+
+### Another 660 suspects arrested
+
+*2024-02-04 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192954) · `si`
+
+660 suspects have been arrested in the 24-hour operations island wide during the 24 hours ended at the operation of justice.
+
+The Ministry of People said that 552 suspects were arrested in the list of drug misconduct and the list of criminal sections.
+
+The security forces have taken 152 grams of heroin, including 134 grams of ice.
+
+Out of the 552 arrested suspects, 552 arrested suspects have been rehabilitated for rehabilitation of drug addicts.
+
+There were also arrested three suspects in the Police Narcotics Bureau and the Police Special Bureau.
+
+Police said that among the 108 suspects arrested on the list of the criminal sections, there are eight suspects who were invited in drug wrong and 95 open warrants on non-drug errors.
+
+Two suspects and three suspects who were not arrested in the media and three suspects were arrested in operations.
+
+◼️
+
 [Data](articles/edff3be5.json)
+
+[Extended Data](ext_articles/edff3be5.ext.json)
 
 ---
 
@@ -118,21 +152,23 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 
 ---
 
-### යුක්‍රේනයට එල්ල වූ ප්‍රහාරයකින් 20 දෙනෙකු මරුට
+### 20 killed in Ukraine at Ukraine
 
 *2024-02-04 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192953) · `si`
 
-යුක්‍රේනයේ නැගෙනහිර ප්‍රදේශයට එල්ල කළ ප්‍රහාරවලින් පුද්ගලයින් 20 දෙනෙකු මිය ගොස් ඇති බව රුසියාව පවසයි.
+Twenty people were killed in attacks on the East of Ukraine, Russia.
 
-යුක්‍රේනයේ ලයිසිචෑන්ස්ක් නගරයට මෙම යුක්‍රේන ෂෙල් වෙඩි ප්‍රහාර එල්ල වී ඇති බවයි වාර්තා වේ.
+It is reported that the Ukrainian shells were attacked to the Lynian town of Ukraine.
 
-ප්‍රහාරවලින් පුද්ගලයින් 10 දෙනෙකු පමණ තුවාල ලබා ඇති අතර, ගලවාගැනීමේ මෙහෙයුම් තවදුරටත් ක්‍රියාත්මක බව සඳහන් ය.
+About 10 people were injured and rescued operations were further implemented.
 
-කියෙව්හි බේකරියක් ඉලක්ක කර ගනිමින් එම ප්‍රහාරය එල්ල කර ඇති බව මොස්කව් හමුදා වැඩිදුරටත් සඳහන් කර ඇත.
+Moscow army has added that the attack has been launched targeting a baker at Kiev.
 
 ◼️
 
 [Data](articles/5e28b1ce.json)
+
+[Extended Data](ext_articles/5e28b1ce.ext.json)
 
 ---
 
@@ -1977,33 +2013,5 @@ The school development association is worried that the wild elephant has been st
 [Data](articles/3dc4d753.json)
 
 [Extended Data](ext_articles/3dc4d753.ext.json)
-
----
-
-### President Ranil welcomes Thai PM Thavisin
-
-*2024-02-03 15:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96973/president-ranil-welcomes-thai-pm-thavisin) · `en`
-
-President Ranil Wickremesinghe has ceremonially welcomed the visiting Thai Prime Minister Srettha Thavisin and his delegation. The much-anticipated meeting took place at the Presidential Secretariat on Saturday afternoon (Feb.03).
-
-◼️
-
-[Data](articles/1ca832e1.json)
-
-[Extended Data](ext_articles/1ca832e1.ext.json)
-
----
-
-### President and Thailand meets Prime Minister
-
-*2024-02-03 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192926) · `si`
-
-Prime Minister Smetha Tendas and President Ranil Wickremesinghe met at the Presidential Secretariat today (03).
-
-◼️
-
-[Data](articles/8ec55485.json)
-
-[Extended Data](ext_articles/8ec55485.ext.json)
 
 ---

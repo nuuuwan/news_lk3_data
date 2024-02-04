@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 08:50:27**
+As of **2024-02-04 09:02:19**
 
 ## Newspaper Stats
 
-*Scraped **4,637** Articles*
+*Scraped **4,642** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,71 @@ newsfirstlk | 282
 adalk | 399
 virakesarilk | 518
 adaderanalk | 579
-adaderanasinhalalk | 580
-tamilmirrorlk | 584
+adaderanasinhalalk | 581
+tamilmirrorlk | 588
 dailymirrorlk | 646
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,637 (100.0%) of 4,637 articles have been extended.
+4,638 (99.9%) of 4,642 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### நித்திரையில் இருந்தவர்களிடம் தடை உத்தரவு கையளிப்பு
+
+*2024-02-04 08:40:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/நித்திரையில்-இருந்தவர்களிடம்-தடை-உத்தரவு-கையளிப்பு/73-332612) · `ta`
+
+சுதந்திர தினத்தை எதிர்த்து மட்டக்களப்பில் ஏற்பாடு செய்யப்பட்டிருந்த கரிநாள் ஆர்ப்பாட்டத்தில் ஈடுபடவுள்ள இன்னால் முன்னால் பாராளுமன்ற உறுப்பினர்கள் மற்றும் கட்சிகளின் அமைப்பாளர் சமூக செயற்பாட்டளாகள் 17 பேருக்கு நீதிமன்றம் தடையுத்தரவு பிறப்பித்துள்ளது.
+
+சனிக்கிழமை (03) பிறப்பிக்கப்பட்ட தடை உத்தரவை பொலிஸார் இரவோடு  இரவா உரியவர்களின் வீடுகளுக்கு சென்று வழங்கியுள்ளனர்.
+
+இலங்கையின் 76 ஆவது சுதந்திர தினமான  பெப்பிரவரி (04) நாடு பூராகவும் கொண்டாடும்  நிலையில் வடக்கு கிழக்கில் அதனை கரிநாளாக பிரகடனப்படுத்தி  வடக்கு, கிழக்கு பல்கலைக்கழக மாணவர்கள் வடக்கிலும் கிழக்கிலும் பாரிய ஆர்ப்பாட்ட பேரணிக்கு ஏற்பாடு செய்திருந்தனர்.
+
+இதற்கு  வலிந்து காணாமல் போன உறவுகளின் சங்கங்கள் மற்றும் சில அரசியல்கட்சிகள் ஆதரவு வழங்குவதாக அறிவித்தன.
+
+இந்த நிலையில் மட்டக்களப்பில் கல்லடி பாலத்தில் இருந்து காந்தி பூங்கா வரையில் ஆர்ப்பாட்ட பேரணி இடம்பெற இருந்துள்ள நிலையில் மட்டு. வெபர் மைதானத்தில் சுதந்திர தின விழா இடம்பெறவுள்ளது.
+
+...
+
+[Data](articles/d4132f79.json)
+
+---
+
+### Man missing in Mahaweli River
+
+*2024-02-04 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192949) · `si`
+
+One of four persons in the Mahaweli River was disappeared.
+
+The accident occurred at the Mahaweli River, Mahaweli River in the Peradeniya Police Division in the Peradeniya Police Division.
+
+A 59 year old resident of Peradeniya has been disappeared.
+
+Police and Navy's life officers are operating in search of the missing person.
+
+◼️
+
+[Data](articles/00337357.json)
+
+[Extended Data](ext_articles/00337357.ext.json)
+
+---
+
+### கூகுள் டூடுல் வாழ்த்து
+
+*2024-02-04 08:19:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூகுள்-டூடுல்-வாழ்த்து/175-332611) · `ta`
+
+நாட்டின் 76 ஆவது சுதந்திர தினத்தின் பிரதான வைபவம் கொழும்பு-காலி முகத்திடலில் வெகு விமர்சையாக நடைபெறுகின்றது. இந்நிலையில், கூகுல் நிறுவனம், கூகுள் டூடுல் வாழ்த்தியுள்ளது.
+
+◼️
+
+[Data](articles/95351d70.json)
+
+---
 
 ### Unidentified body found in tank reserve
 
@@ -49,6 +101,18 @@ The body is in the same place and will be conducted today (04).
 [Data](articles/652799a8.json)
 
 [Extended Data](ext_articles/652799a8.ext.json)
+
+---
+
+### 76ஆவது சுதந்திர தினம் (நேரலை)
+
+*2024-02-04 08:10:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/76ஆவது-சுதந்திர-தினம்-நேரலை/52-332610) · `ta`
+
+நாட்டின் 76 ஆவது சுதந்திர தினத்தின் பிரதான வைபவம் கொழும்பு-காலி முகத்திடலில் வெகு விமர்சையாக நடைபெறுகின்றது.
+
+◼️
+
+[Data](articles/3fc24a4c.json)
 
 ---
 
@@ -273,6 +337,20 @@ Minister of Trade, Commerce, and Food Security,  Nalin Fernando, represented Sr
 [Data](articles/7e64b262.json)
 
 [Extended Data](ext_articles/7e64b262.ext.json)
+
+---
+
+### தடையுத்தரவு கோரும் மனு நிராகரிப்பு
+
+*2024-02-04 04:02:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடையுத்தரவு-கோரும்-மனு-நிராகரிப்பு/175-332609) · `ta`
+
+இலங்கையின் 76ஆவது சுதந்திர தினத்துக்கு எதிராக யாழ்ப்பாணத்தில் போராட்டங்கள் முன்னெடுக்கப்படலாம் எனக் கருதிய பொலிஸார், யாழ்ப்பாணம் நீதிவான் நீதிமன்றம் ஊடாக தடையுத்தரவைப் பெற முயற்சித்த போதிலும் அந்தக் கோரிக்கை நிராகரிக்கப்பட்டது.
+
+யாழ்ப்பாணம் தலைமையகப் பொலிஸாரால் அரசியல் கட்சிகளின் பிரதிநிதிகள் சிலருக்குப் போராட்டம் நடத்தத் தடை விதிக்கக் கோரிய மனுவை யாழ். நீதிமன்ற பதில் நீதிவான் பா.தவபாலன் நேற்று நிராகரித்தார். (a)
+
+◼️
+
+[Data](articles/67247651.json)
 
 ---
 
@@ -1905,95 +1983,5 @@ The gala event of 20th anniversary was held at Grand Raffles Residence on 11th D
 [Data](articles/afb70e8d.json)
 
 [Extended Data](ext_articles/afb70e8d.ext.json)
-
----
-
-### SLT-MOBITEL Annual Report 2022 Secures Gold at TAGS Awards 2023
-
-*2024-02-03 12:33:00* · [`islandlk`](http://island.lk/slt-mobitel-annual-report-2022-secures-gold-at-tags-awards-2023/) · `en`
-
-Celebrated for remarkable excellence in corporate reporting the Sri Lanka Telecom’s (SLT) Annual Report 2022 was honoured with the prestigious Gold Award in the Telecommunications & Technology Sector at the TAGS (Transparency, Accountability, Governance and Sustainability) Awards 2023 ceremony held in Colombo recently.
-
-Janaka Abeysinghe, chief executive offer – SLT received the award and Sanjeewa Samaranayake, chief finance officer and Anuruddha Suriyarachhi, GM/Marketing services together with several other senior officials from SLT-MOBITEL who participated in the ceremony.
-
-...
-
-[Data](articles/6f1e4d9b.json)
-
-[Extended Data](ext_articles/6f1e4d9b.ext.json)
-
----
-
-### SLIC embarks on a new era: Legal segregation marks a historic milestone
-
-*2024-02-03 12:32:00* · [`islandlk`](http://island.lk/slic-embarks-on-a-new-era-legal-segregation-marks-a-historic-milestone/) · `en`
-
-Sri Lanka Insurance Corporation, the pioneering insurance giant with a rich history spanning over 60 years, has officially entered a new chapter with the legal segregation of its Life and General insurance businesses. This monumental decision, in compliance with the regulatory framework set by the Insurance Regulatory Commission of Sri Lanka (IRCSL), takes effect from Feb 1.
-
-A momentous event to mark this historic occasion was held at the Sri Lanka Insurance head office on Feb 1, following traditional Sri Lankan customs. At the ceremony, the Chairman of Sri Lanka Insurance President Counsel Ronald C Perera presented the business registrations to the Group CEO Chandana L Aluthgama, symbolizing the establishment of two distinct entities: Sri Lanka Insurance Corporation Life Limited and Sri Lanka Insurance Corporation General Limited.
-
-...
-
-[Data](articles/51364689.json)
-
-[Extended Data](ext_articles/51364689.ext.json)
-
----
-
-### Indian submarine ’Karanj’ arrives in Colombo
-
-*2024-02-03 12:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-submarine-Karanj-arrives-in-Colombo/108-276279) · `en`
-
-Colombo, Feb 03 (Daily Mirror) - INS 'Karanj' – a submarine of the Indian Navy arrived at the port of Colombo today (03 February) on a formal visit. The visiting submarine was welcomed by the Sri Lanka Navy in precision of naval traditions.
-
-‘INS Karanj is a 67.5m long submarine with a crew of 53 and is commanded by Commander Arunabh.
-
-While the submarine is in the island, Sri Lanka Navy personnel will participate in a submarine awareness programme, and the submarine crew is set to explore some of the country’s tourist attractions.
-
-Concluding the official visit, INS ‘Karanj’ will depart the island on 05 February.
-
-◼️
-
-[Data](articles/11058273.json)
-
-[Extended Data](ext_articles/11058273.ext.json)
-
----
-
-### 38-year-old brutally hacked to death in Matugama
-
-*2024-02-03 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/96968/38-year-old-brutally-hacked-to-death-in-matugama) · `en`
-
-A person has been brutally attacked to death with sharp weapons in the Ovitigala area of Matugama early this morning (03), the police said.
-
-The 38-year-old victim, identified as M. Kalana, was a resident of the same area, according to Matugama Police.
-
-An unidentified group of assailants had carried out the attack early this morning, the police said, adding that the victim, who sustained critical injuries, was pronounced dead upon admission to the Nagoda Teaching Hospital in Kalutara.
-
-The suspects have not been identified yet, and Matugama Police is conducting further investigations regarding the incident.
-
-◼️
-
-[Data](articles/a5e28262.json)
-
-[Extended Data](ext_articles/a5e28262.ext.json)
-
----
-
-### Keheliya Rambukwella appeared in court
-
-*2024-02-03 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175433) · `ta`
-
-Former Health Minister and current Minister of Environment Keheliya Rambukwella has been produced in court.
-
-The Criminal Investigation Division (CID) arrested him as he appeared in the Criminal Investigation Division on Friday and voted by Keheliya Rambukwella.
-
-Meanwhile, the Magistrate's Magistrate's Court has ordered Keheliya Rambukwella to impose a foreign trip.
-
-◼️
-
-[Data](articles/55169a22.json)
-
-[Extended Data](ext_articles/55169a22.ext.json)
 
 ---

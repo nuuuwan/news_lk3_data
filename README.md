@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 12:49:41**
+As of **2024-02-04 13:02:26**
 
 ## Newspaper Stats
 
-*Scraped **4,688** Articles*
+*Scraped **4,689** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 287
 adalk | 404
 virakesarilk | 522
-adaderanalk | 585
+adaderanalk | 586
 adaderanasinhalalk | 590
 tamilmirrorlk | 598
 dailymirrorlk | 651
@@ -26,7 +26,7 @@ dailymirrorlk | 651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,688 (100.0%) of 4,688 articles have been extended.
+4,688 (100.0%) of 4,689 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -65,6 +65,26 @@ Meanwhile, Transport Minister Dr. Bandula Gunawardena has decided to introduce n
 [Data](articles/9e72e877.json)
 
 [Extended Data](ext_articles/9e72e877.ext.json)
+
+---
+
+### Annual Excise License fees revised
+
+*2024-02-04 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96990/annual-excise-license-fees-revised-) · `en`
+
+The Annual Excise License fees imposed earlier this year including on taverns and liquor retail outlets have been revised, effective from 01 February, the Ministry of Finance revealed.
+
+Accordingly, while the fee of Rs. 25 million imposed on new taverns remains unchanged, the Annual Tavern License fee has been reduced from Rs. 2.5 million to Rs. 02 million.
+
+Meanwhile, the license fee levied for the bottling of coconut toddy was reduced from Rs.10 million to Rs. 1.5 million while the bottling of palmyra toddy was also reduced to Rs. 500,000.
+
+The license fee for manufacturing vinegar was also reduced from Rs. 2.5 million to Rs. 500,000.
+
+The Retail License for Liquor in Municipal Areas was reduced from Rs. 15 million to Rs. 1 million, while that imposed in Urban Council areas was reduced from Rs. 12.5 million to Rs. 800,000 and the license fee of Rs. 10 million imposed in all other areas was reduced from Rs. 10 million to Rs. 600,000.
+
+◼️
+
+[Data](articles/eb51fc00.json)
 
 ---
 
@@ -2023,29 +2043,5 @@ The court has ordered to be kept in remand until the 15th of this month.
 [Data](articles/4a5fa3a8.json)
 
 [Extended Data](ext_articles/4a5fa3a8.ext.json)
-
----
-
-### Mathews, Chandimal centuries put Sri Lanka in control of Afghanistan Test
-
-*2024-02-03 17:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mathews-Chandimal-centuries-put-Sri-Lanka-in-control-of-Afghanistan-Test/108-276288) · `en`
-
-Centuries from Angelo Mathews and Dinesh Chandimal consolidated Sri Lanka's strong position on day two of their one-off Test against Afghanistan at the Singhalese Sports Club today.
-
-Sri Lanka started the day with a 118-run deficit, but reached stumps on 410 for 6, and 212 runs ahead of the visiting team who toiled through much of the day with little success.
-
-Such was the control and comfort Mathews enjoyed for a majority of his time at the crease in reaching his 16th century in the format, that it took a freak dismissal to end the former Sri Lanka captain's innings for 141.
-
-In the final over of the day, Mathews swept hard at a poor delivery from Qais Ahmed, but hit the stumps on his follow through, to dislodge the bails.
-
-Together with Chandimal, Mathews ground out the Aghanistan bowlers through the second session of play, which went wicketless.
-
-The pair put on a 232-run partnership for the fourth wicket, before Chandimal was caught behind shortly after reaching his 15th Test century.
-
-...
-
-[Data](articles/87ed5803.json)
-
-[Extended Data](ext_articles/87ed5803.ext.json)
 
 ---

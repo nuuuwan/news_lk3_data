@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 07:41:03**
+As of **2024-02-04 08:03:40**
 
 ## Newspaper Stats
 
@@ -26,65 +26,75 @@ dailymirrorlk | 643
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,622 (99.8%) of 4,629 articles have been extended.
+4,629 (100.0%) of 4,629 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
 
-### මූල්‍ය කළමනාකරණය ගැන දැනුම්දීමක්
+### Notification of Financial Management
 
 *2024-02-04 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192943) · `si`
 
-ආණ්ඩුව මේ මොහොතේ මූල්‍ය කළමනාකරණය සිදු කරනු ලබන්නේ, ඡන්දය පැවැත්වීම සම්බන්ධ අදහසකින් නොවන බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+Government Minister Ranjith Siyambalapitiya says that financial management is conducting financial management at the moment.
 
-ඔහු ප්‍රකාශ කරන්නේ, ජනතාවට සහන ලබා දීම ආණ්ඩුවේ උපරිම උත්සාහය බවයි.
+He declares that it is the maximum effort of the government to provide relief to the people.
 
 ◼️
 
 [Data](articles/336840d5.json)
 
+[Extended Data](ext_articles/336840d5.ext.json)
+
 ---
 
-### 76 වැනි නිදහස් දිනය අදයි
+### 76th Independence Day today
 
 *2024-02-04 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192942) · `si`
 
-76 වැනි නිදහස් දින සැමරුම් උලෙළ අද (04) ගාලු මුවදොර පිටියේ දී අභිමානවත් ලෙස පැවැත්වීමට නියමිත ව තිබේ.
+The 76th Independence Day celebration is scheduled to be held pride in the Galle Face Green today (04).
 
-‘හදමු අලුත් රටක්‘ යන තේමාව යටතේ මෙවර ජාතික නිදහස් දින සැමරුම් උලෙළ පැවැත්වෙන බව ස්වදේශ කටයුතු අමාත්‍යාංශය සඳහන් කරයි.
+The Ministry of Home Affairs said that this year's National Independence Day will be held this year under the theme 'building new country'.
 
-නිදහස් දින සැමරුම් උලළේ ප්‍රධාන ආරාධිත අමුත්තා ලෙස තායිලන්ත අග්‍රාමාත්‍ය ශ්‍රෙත්ථා තවිසින් මහතා සහභාගි වීමට නියමිතයි.
+Prime Minister of Prime Minister Shrathna Thailand is the Chief Guest at the Independence Day Celebration.
 
-මීට අමතරව තායිලන්ත දුත පිරිසක් ද මෙම අවස්ථාවට සහභාගි වීමට නියමිත අතර, තානාපතිවරුන් ඇතුළු ආරාධිත අමුත්තන් සීමිත පිරිසකගේ සහභාගිත්වයෙන් මෙවර නිදහස් දින සැමරුම් උලෙල පැවැත්වෙනු ඇත.
+In addition, an ounction will also attend the event.
 
-සැමරුම් පෙළපාලිය සඳහා යුද, ගුවන්, නාවික, පොලිස්, සිවිල් ආරක්ෂක බළකාය සහ ජාතික ශිෂ්‍යභට බළකායේ සාමාජිකයින් එක්වීමට නියමිත බව ආරක්ෂක ලේකම් විශ්‍රාමික ජෙනරාල් කමල් ගුණරත්න මහතා සඳහන් කරයි.
+Defense Secretary said that the war, air, aircraft, the Civil Defense Force and the National Cadet Corps will be added to the commemoration parade.
 
-මීට අමතරව සැමරුම් පෙළපාලිය සඳහා ගුවන් යානා 19ක් සහ ගුවන් හමුදාවේ නව තාක්ෂණ නිපැයුම් එක්කර ඇති බව ගුවන් හමුදාපති එයාර් වයිස් මාර්ෂල් උදේනි රාජපක්ෂ මහතා සඳහන් කර තිබේ.
+Commander of the Air Force Vice Marshal has said that 19 aircrafts and new technologies have been added to the celebration parade.
+
+Meanwhile, DIG Indika Hapugoda says that a special traffic planning will be in operation for Independence Day today.
+
+The Railway Department announced that the coastal railway stations from the coastal railway line from the coastal railway line from the 76th to 9.00am to 9.00 am today.
 
 ...
 
 [Data](articles/95f2b3ed.json)
 
+[Extended Data](ext_articles/95f2b3ed.ext.json)
+
 ---
 
-### ප්‍රදේශ කිහිපයකට විටින් විට වැසි
+### Showers at times
 
 *2024-02-04 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192941) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව සහ මාතලේ දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers will occur at times in the Eastern and Uva provinces, Polonnaruwa and Matale Districts.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, අනුරාධපුර සහ හම්බන්තොට දිස්ත්‍රික්කවල වැසි වාර කිහිපයක් ඇති විය හැකි බවය.
+The department states that several showers in the Anuradhapura and Hambantota districts can be established.
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (04) ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+The Kandy, Nuwara Eliya, Galle and Matara districts have been in the Western, Sabaragamuwa and Northwestern provinces.. Showers or thundershowers will occur at several places about 2.00.
 
-මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology says that in some places in the Central and Sabaragamuwa Province and in the Galle and Matara districts, the Met Department said.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/a5ac3f44.json)
+
+[Extended Data](ext_articles/a5ac3f44.ext.json)
 
 ---
 
@@ -106,19 +116,21 @@ Minister of Trade, Commerce, and Food Security,  Nalin Fernando, represented Sr
 
 ---
 
-### குடும்பஸ்தர் வெட்டிக் கொலை
+### Killing
 
 *2024-02-04 03:56:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடும்பஸ்தர்-வெட்டிக்-கொலை/175-332608) · `ta`
 
-இளம் குடும்பஸ்தர் ஒருவர் வெட்டிப் படுகொலை செய்யப்பட்டுள்ளார்.  இந்தச் சம்பவம் மத்துகம, ஓவிட்டிகல பகுதியில் நேற்று இடம்பெற்றுள்ளது.
+A young family member has been hacked to death.The incident took place yesterday in Matugama, Ovitigala.
 
-உயிரிழந்தவரும் அவரைத் தாக்கினார் எனக் கூறப்படும் சந்தேகநபரும் நெருங்கிய உறவினர்கள் என்று பொலிஸார் தெரிவித்துள்ளனர்.
+The deceased and the suspect who allegedly attacked him were close relatives, police said.
 
-வாள்வெட்டுத் தாக்குதலை நடத்தியவர் எனக் கூறப்படும் 27 வயதுடைய சந்தேகநபர், தாக்குதலின் பின்னர் தலைமறைவாகியிருந்த நிலையில் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார். (a)
+A 27 -year -old suspect, who is alleged to carry out a sword attack, has been arrested by police after he was in hiding after the attack.. (A)
 
 ◼️
 
 [Data](articles/ee14a812.json)
+
+[Extended Data](ext_articles/ee14a812.ext.json)
 
 ---
 
@@ -775,6 +787,8 @@ It has been announced that “Kavana Eerppu Poaraattangal”(Attention drawing d
 ...
 
 [Data](articles/30eff12a.json)
+
+[Extended Data](ext_articles/30eff12a.ext.json)
 
 ---
 

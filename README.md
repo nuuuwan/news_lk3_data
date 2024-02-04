@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 18:07:08**
+As of **2024-02-04 18:19:21**
 
 ## Newspaper Stats
 
-*Scraped **4,743** Articles*
+*Scraped **4,748** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ economynextcom | 256
 dailyftlk | 280
 newsfirstlk | 287
 adalk | 410
-virakesarilk | 538
-adaderanalk | 591
+virakesarilk | 539
+adaderanalk | 593
 adaderanasinhalalk | 600
 tamilmirrorlk | 604
-dailymirrorlk | 661
+dailymirrorlk | 663
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,743 (100.0%) of 4,743 articles have been extended.
+4,743 (99.9%) of 4,748 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### Seven injured following collision on Tissamaharama–Matara road
+
+*2024-02-04 17:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96999/seven-injured-following-collision-on-tissamaharamamatara-road-) · `en`
+
+Seven persons have been hospitalised after sustaining injuries in a vehicular collision along the Tissamaharama – Matara main road this afternoon (04 Feb.).
+
+A van and a car had collided earlier today, after the van had reportedly attempted to overtake a bus n the Tissamaharama – Matara main road.
+
+According to police, five persons travelling in the car and two others who were travelling in the van had been admitted to the Tangalle, Angunakolapelessa and Hamabntota hospitals after sustaining injuries.
+
+The injured persons have been identified as residents of Hunagama and Tangalle, while further investigations into the accident were carried out by the Hunagama Police.
+
+◼️
+
+[Data](articles/3394314e.json)
+
+---
+
+### When I went to save university students, the attack was also attacked - women were dragged without police - Sreedharan
+
+*2024-02-04 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175555) · `ta`
+
+Parliamentarian Sreedharan said that a policeman had attacked me when I rescued the university students.
+
+Today, the police have brought the anarchy of the Sri Lankan government to the eyes of the international community, ”he said.
+
+He also noted that the police were very brutally acting on university students and the public.
+
+He said that the women were dragged without the female police and were thrown into the sky.
+
+◼️
+
+[Data](articles/6c55943e.json)
+
+[Extended Data](ext_articles/6c55943e.ext.json)
+
+---
+
+### 76 ஆவது தேசிய சுதந்திர தின விழா : பிரதம அதிதியாக தாய்லாந்து பிரதமர்; உலகத் தலைவர்கள் வாழ்த்து
+
+*2024-02-04 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/175532) · `ta`
+
+76 ஆவது தேசிய சுதந்திர தின விழா ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் “புதிய தேசம் அமைப்போம்” எனும் தொனிப்பொருளில் ஞாயிற்றுக்கிழமை (04) காலை கொழும்பு காலி முகத்திடலில் வெகுவிமர்சையாக நடைபெற்றது.
+
+இந்த நிகழ்வில் தாய்லாந்து பிரதமர் ஸ்ரேத்தா தவிசின் பிரதம அதிதியாக கலந்து கொண்டதோடு  உலகில் உள்ள அனைவரின் ஆதரவோடும் மீண்டும் கட்டியெழுப்பப்படும்  இலங்கையின் அடையாளத்தை உலகிற்கு எடுத்துரைப்பதே இதன் நோக்கமாகும்.
+
+ஜனாதிபதியின் வருகையைக் குறிக்கும் வகையில் இலங்கை இராணுவத்தினர் இசைவாத்தியங்களை இசைத்த பின்னர், பாதுகாப்பு படைகளின் பிரதானி, முப்படைத் தளபதிகள் மற்றும் பதில்  பொலிஸ் மா அதிபர் ஆகியோரால் ஜனாதிபதி, விழா நடைபெறும் மைதானத்தின் கொடிக் கம்பம் அருகே அழைத்து வரப்பட்டார்.
+
+அதனைத் தொடர்ந்து பாரம்பரிய மகுல்  இசை மற்றும் சக் ஓசைக்கு  மத்தியில் ஜனாதிபதியால் தேசியக் கொடி ஏற்றி வைக்கப்பட்டதைத் தொடர்ந்து விழா நிகழ்வுகள் ஆரம்பமாகின.
+
+ஜனாதிபதி விசேட மேடைக்கு அழைத்துச் செல்லப்பட்டதைத் தொடர்ந்து 105 பாடசாலை மாணவிகள்  தேசிய கீதத்தை பாடினர். அதனை தொடர்ந்து பாடசாலை மாணவிகள் ஜெயமங்கல கீதம் மற்றும் காத்தா இசைத்தனர்.
+
+...
+
+[Data](articles/067d95f5.json)
+
+---
 
 ### Democratic path
 
@@ -68,26 +126,6 @@ It is true that the rulings of the International Court of Justice are controlled
 
 ---
 
-### When I went to save university students, the attack was also attacked - women were dragged without police - Sreedharan
-
-*2024-02-04 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175555) · `ta`
-
-Parliamentarian Sreedharan said that a policeman had attacked me when I rescued the university students.
-
-Today, the police have brought the anarchy of the Sri Lankan government to the eyes of the international community, ”he said.
-
-He also noted that the police were very brutally acting on university students and the public.
-
-He said that the women were dragged without the female police and were thrown into the sky.
-
-◼️
-
-[Data](articles/6c55943e.json)
-
-[Extended Data](ext_articles/6c55943e.ext.json)
-
----
-
 ### Anurakumara and calling
 
 *2024-02-04 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175549) · `ta`
@@ -110,6 +148,24 @@ It is only through those who have felt the mistakes of the past, and those who a
 
 ---
 
+### Yemen’s Houthis vow response after U.S., British strikes
+
+*2024-02-04 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96998/yemens-houthis-vow-response-after-us-british-strikes) · `en`
+
+The United States and Britain launched strikes against 36 Houthi targets in Yemen, in the second day of major U.S. operations against Iran-linked groups following a deadly attack on American troops last weekend.
+
+The strikes late on Saturday hit buried weapons storage facilities, missile systems, launchers and other capabilities the Houthis have used to attack Red Sea shipping, the Pentagon said, adding it targeted 13 locations across the country.
+
+They are the latest blows in a conflict that has spread into the Middle East since Oct. 7, when the Palestinian militant group Hamas stormed Israel from the Gaza Strip, igniting a war that has drawn in an array of armed groups backed by Tehran.
+
+Residents said the strikes shook buildings in Houthi-controlled Sanaa. The group’s military spokesperson Yahya Sarea said the U.S. strikes “will not pass without a response and consequences.” The group did not announce any casualties. Houthi-run media called these “the most violent” strikes yet.
+
+...
+
+[Data](articles/fcd0f69e.json)
+
+---
+
 ### Will the unity of evolving?
 
 *2024-02-04 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175553) · `ta`
@@ -127,6 +183,24 @@ However, the Tamil issue has not resolved and the blame for India has abandoned 
 [Data](articles/96704ed4.json)
 
 [Extended Data](ext_articles/96704ed4.ext.json)
+
+---
+
+### Cardinal Malcolm Ranjith calls for new class of leadership in Sri Lanka
+
+*2024-02-04 17:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cardinal-Malcolm-Ranjith-calls-for-new-class-of-leadership-in-Sri-Lanka/108-276308) · `en`
+
+Colombo, Feb 04 (Daily Mirror) - Archbishop of Colombo Cardinal Malcolm Ranjith today urged Sri Lankan people to be courageous enough to handover the nation to a new class of leadership.
+
+Speaking during a service held in Colombo to mark the 76th year of independence, Cardinal Ranjith said the current leadership class should be removed from power.
+
+"Those who ruled our nation during the latter years have only thought of their future instead of the people's wellbeing. Therefore it is essential to remove this class of leadership and replace them with a new class of leadership," he said.
+
+The Cardinal who compared the Singaporean leaders with the Sri Lankan counterparts said Sri Lankan leaders used certain sections of the population to capture power and safeguard power. Singaporean leaders brought, Chinese, Indian origin and Malay people together," he recalled.
+
+◼️
+
+[Data](articles/2242efa5.json)
 
 ---
 
@@ -665,6 +739,22 @@ Biden, who was in Los Angeles for a fundraising event Saturday evening when his 
 [Data](articles/4f5ead1d.json)
 
 [Extended Data](ext_articles/4f5ead1d.ext.json)
+
+---
+
+### Kandy Hospital team replants woman’s severed hand
+
+*2024-02-04 13:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kandy-Hospital-team-replants-womans-severed-hand/108-276307) · `en`
+
+Kandy, Feb 04 (Daily Mirror) -  A team led by Dr. Amila Sasanka Ratnayake, a specialist surgeon at the National Hospital, Kandy successfully replanted the right arm of a thirty-five-year-old woman from Anuradhapura.
+
+The patient had faced the mishap while cleaning a coir grinding machine, resulting in the separation of her right hand from below the elbow.
+
+The complex six-hour operation, carried out at the Kandy Hospital, involved a team of medical professionals, including plastic surgeon Dr. Udaya Kiridena, plastic surgeon Chamila Jayaratne, orthopedic surgeon Dr. Satira Premaratne, senior registrar Udara Ratnayake, anesthetist Dr. Uduwela, and Dr. Kasun and Dr. Senaka.
+
+◼️
+
+[Data](articles/723e1084.json)
 
 ---
 
@@ -1929,95 +2019,5 @@ The President said that upon gaining independence in 1948, global expectations e
 [Data](articles/d2e6a833.json)
 
 [Extended Data](ext_articles/d2e6a833.ext.json)
-
----
-
-### Today is the Independent Day of Independence Day
-
-*2024-02-04 08:34:18* · [`adalk`](https://www.ada.lk/breaking_news/76-වැනි-අභිමානවත්-නිදහස්-දිනය-අදයි/11-407882) · `si`
-
-Sri Lanka's 76th National Independence Day celebration today (04). This year's National Festival will be held at the Galle Face Granduwa Granduwa, the Chief Guest at the Chief Guest.
-
-◼️
-
-[Data](articles/ad818b94.json)
-
-[Extended Data](ext_articles/ad818b94.ext.json)
-
----
-
-### Man missing in Mahaweli River
-
-*2024-02-04 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192949) · `si`
-
-One of four persons in the Mahaweli River was disappeared.
-
-The accident occurred at the Mahaweli River, Mahaweli River in the Peradeniya Police Division in the Peradeniya Police Division.
-
-A 59 year old resident of Peradeniya has been disappeared.
-
-Police and Navy's life officers are operating in search of the missing person.
-
-◼️
-
-[Data](articles/00337357.json)
-
-[Extended Data](ext_articles/00337357.ext.json)
-
----
-
-### Showers expected in parts of the country
-
-*2024-02-04 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/96984/showers-expected-in-parts-of-the-country) · `en`
-
-Showers will occur at times in Eastern and Uva provinces and in Polonnaruwa and Matale districts, according to the Meteorology Department.
-
-Several spells of showers may occur in Anuradhapura and Hambantota districts, it said.
-
-Showers or thundershowers will occur at several places in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts after 2.00 p.m.
-
-Misty conditions can be expected at some places in Central and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
-
-The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/6e17c4f1.json)
-
-[Extended Data](ext_articles/6e17c4f1.ext.json)
-
----
-
-### Greeting Google Doodle
-
-*2024-02-04 08:19:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூகுள்-டூடுல்-வாழ்த்து/175-332611) · `ta`
-
-The main ceremony of the country's 76th Independence Day is being held in Colombo-Kali face. In this case, Google has congratulated Google Doodle.
-
-◼️
-
-[Data](articles/95351d70.json)
-
-[Extended Data](ext_articles/95351d70.ext.json)
-
----
-
-### Unidentified body found in tank reserve
-
-*2024-02-04 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192948) · `si`
-
-An unidentified body was found in the tanks of the Tank Reserve in Alape.
-
-It was information received by the police that there was a body of a man of the reserve yesterday (03).
-
-The identity of the death of the death is yet to be determined, police said.
-
-The body is in the same place and will be conducted today (04).
-
-◼️
-
-[Data](articles/652799a8.json)
-
-[Extended Data](ext_articles/652799a8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 15:02:36**
+As of **2024-02-04 15:17:24**
 
 ## Newspaper Stats
 
-*Scraped **4,702** Articles*
+*Scraped **4,709** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,68 @@ islandlk | 254
 economynextcom | 256
 dailyftlk | 280
 newsfirstlk | 287
-adalk | 406
+adalk | 407
 virakesarilk | 523
 adaderanalk | 589
-adaderanasinhalalk | 593
-tamilmirrorlk | 598
-dailymirrorlk | 655
+adaderanasinhalalk | 595
+tamilmirrorlk | 599
+dailymirrorlk | 658
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,702 (100.0%) of 4,702 articles have been extended.
+4,702 (99.9%) of 4,709 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### World leaders congratulate Sri Lanka on its 76th Independence Day
+
+*2024-02-04 14:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/World-leaders-congratulate-Sri-Lanka-on-its-76th-Independence-Day/108-276304) · `en`
+
+Colombo, Feb. 04 (Daily Mirror)- Several world leaders, including His Holiness Pope Francis, King Charles III of the UK, US President Joe Biden, Chinese President Xi Jinping and Indian President Droupadi Murmu congratulated Sri Lanka on its 76th Independence Day, the President’s Media Division (PMD) said.
+
+Emperor Naruhito of Japan, President Vladimir Putin of Russia, President Yun Suk Yeol of South Korea, President Tharman Shanmugaratnam of Singapore, President of Libya Dr. Mohamed Y. AL-Menfi, Governor General of Australia General David Hurley as well as the President of Pakistan, President of Bangladesh, Emir of the State of Kuwait were among other leaders who congratulated Sri Lanka.
+
+◼️
+
+[Data](articles/01f5267c.json)
+
+---
+
+### විරෝධතාවයක් අතර උණුසුම් තත්ත්වයක්
+
+*2024-02-04 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192963) · `si`
+
+යාපනය නුවර ප්‍රධානය මාර්ගය අවහිර කරමින් කිලිනොච්චිය ප්‍රදේශයේ පැවති විරෝධතා පා ගමනක් අතරතුරදී විශ්වවිද්‍යාල සිසුන් 5ක් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+උතුරු නැගෙනහිර ජනතාවගේ ගැටළු වෙනුවෙන් ස්ථිර විසඳුමක් නොලැබීම, මාධ්‍ය නිදහසට බාධා කිරීම, අදහස් ප්‍රකාශ කිරීමේ නිදහසට බාධා ඇතිවන පනත් සම්මත කර ගැනීම හා වර්තමානයේ ජනතාවට දරාගැනීමට නොහැකි ගැටළු වෙනුවෙන් විසදුම් නොලැබීම යන කරුණු මුල්කරගනිමින් මෙම විරෝධතාවය පැවැත්වීය.
+
+මෙම විරෝධතා පා ගමන සඳහා ඉලංගෙයි තමිල් අරසු පක්ෂයේ නව නායක එස්.ශ්‍රීධරන් මහතා, පාර්ලිමේන්තු මන්ත්‍රී චාර්ල්ස් නිර්මලනාදන් මහතා ඇතුළු දේශපාලන පක්ෂ නියෝජිතයින් පිරිසක්ද එක්ව සිටියේය.
+
+◼️
+
+[Data](articles/46c4eb59.json)
+
+---
+
+### கொழும்பில் 3 வீதிகளுக்கு மார்ச் 11 வரை பூட்டு
+
+*2024-02-04 14:15:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-3-வீதிகளுக்கு-மார்ச்-11-வரை-பூட்டு/175-332628) · `ta`
+
+கொள்ளுப்பிட்டி கொம்பனி வீதி பொலிஸ் பிரிவுகளில் உள்ள உத்தரானந்த மாவத்தை, பெரஹர மாவத்தை மற்றும் நவம் மாவத்தை, நீர் வெளியேறும் குழாய் அமைப்பதன் காரணமாக தற்காலிகமாக மூடப்படும் என பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+
+இந்த கழிவு நீர் வெளியேற்றப்படும் குழாய் கொழும்பு துறைமுக நகரத்துடன் இணைக்கப்படும் எனவும், உத்தரானந்த மாவத்தை, பெரஹர மாவத்தை மற்றும் நவம் மாவத்தையில் வசிப்பவர்கள் வீதியை பயன்படுத்துவதை தவிர்க்குமாறு பொலிஸார் அறிவித்துள்ளனர்.
+
+அதன்படி, உத்தரானந்த மாவத்தை, நவம் மாவத்தையில் இருந்து புகையிரத கடவை வரையான பகுதி திங்கட்கிழமை (5) முதல் (19) வரை மற்றும் உத்தரானந்த மாவத்தை, பெரஹர மாவத்தை முதல் நவம் மாவத்தை வரையிலான பகுதி பெப்ரவரி (20) முதல் மார்ச் (4) வரையிலும் உத்தரானந்த மாவத்தை, பெரஹர மாவத்தை, ரொட்டுண்டா தோட்டம் சந்தி வரையான பகுதி மார்ச் (5) முதல் மார்ச் (11) வரை தற்காலிகமாக மூடப்படவுள்ளதுடன், மாற்று வழிகளைப் பயன்படுத்துமாறு பொலிஸார் கேட்டுக்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/44f61e4b.json)
+
+---
 
 ### Whose freedom are you celebrating? – Cardinal
 
@@ -67,6 +113,50 @@ Biden, who was in Los Angeles for a fundraising event Saturday evening when his 
 [Data](articles/4f5ead1d.json)
 
 [Extended Data](ext_articles/4f5ead1d.ext.json)
+
+---
+
+### Open visit to prisons
+
+*2024-02-04 13:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Open-visit-to-prisons/110-276302) · `en`
+
+On the occasion of the 76th Independence Day, an open visit to the inmates will be conducted in all prisons on the island today, following the prison rules and health and safety procedures.
+
+◼️
+
+[Data](articles/08a94ac8.json)
+
+---
+
+### Prisoners released
+
+*2024-02-04 13:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Prisoners-released/110-276301) · `en`
+
+A total of 754 prisoners, including 25 female inmates, were released from prisons island-wide today under a presidential amnesty to commemorate the 76th Independence Day. The release was executed in accordance with the powers vested in the President under Article 34 of the Constitution.
+
+◼️
+
+[Data](articles/ac58325c.json)
+
+---
+
+### යුද හමුදා නිලධාරීන් 1,450කට උසස් වීම්
+
+*2024-02-04 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192962) · `si`
+
+76 වන ජාතික නිදහස් දින සංවත්සරය වෙනුවෙන් යුද හමුදා නිලධාරීන් 1,450ක පිරිසකට උසස් වීම් ලබා දී තිබේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ අනුමැතිය මත යුද හමුදාපති ලුතිතන් ජෙනරාල් විකුම් ලියනගේ මහතා සහ ආරක්ෂක අමාත්‍යාංශය විසින් අදාළ උසස්වීම් ලබා දී ඇති බව සඳහන් ය.
+
+ඒ අනුව ශ්‍රී ලංකා යුද හමුදා නිත්‍ය හා ස්වෙච්ඡා බල සේනාවල නිලධාරීන් 211 දෙනෙකුට සහ සෙසු නිලයන් 1,239 දෙනෙකු වෙත එම උසස් වීම් ලබා දී තිබේ.
+
+එහි දී බ්‍රිගේඩියර් නිලයේ ජ්‍යේෂ්ඨ නිලධාරීන් දෙදෙනෙකු මේජර් ජෙනරාල් නිලයට, කර්නල් නිලයේ ජ්‍යේෂ්ඨ නිලධාරීන් 12 දෙනෙකු බ්‍රිගේඩියර් නිලයට, ලුතිතන් කර්නල් නිලයේ ජ්‍යෙෂ්ඨ නිලධාරීන් 13 දෙනෙකු කර්නල් නිලයටත් උසස් කර තිබේ.
+
+මේ අතර මේජර් නිලයේ ජ්‍යේෂ්ඨ නිලධාරීන් 17 දෙනෙකු ලුතිතන් කර්නල් නිලයට, කපිතාන් නිලයේ නිලධාරීන් 29 දෙනෙකු මේජර් නිලයට, ලුතිතන් නිලයේ නිලධාරීන් 13 දෙනෙකු කපිතාන් නිලයට දෙවන ලුතිතන් නිලයේ නිලධාරීන් 125 දෙනෙකු ලුතිතන් නිලයටත් උසස් වීම් ලබා දී ඇති බව යුද හමුදා මධ්‍ය අංශය සඳහන් කරයි.
+
+...
+
+[Data](articles/b5440fd0.json)
 
 ---
 
@@ -295,6 +385,22 @@ The Retail License for Liquor in Municipal Areas was reduced from Rs. 15 million
 [Data](articles/eb51fc00.json)
 
 [Extended Data](ext_articles/eb51fc00.ext.json)
+
+---
+
+### කැරට් කිලෝව රු 700ට අඩුවෙයි - අනෙකුත් එළවළු මිලත් පහළට
+
+*2024-02-04 12:01:19* · [`adalk`](https://www.ada.lk/breaking_news/කැරට්-කිලෝව-රු-700ට-අඩුවෙයි---අනෙකුත්-එළවළු-මිලත්-පහළට/11-407888) · `si`
+
+පසුගිය සතියේ ඉහල ගිය කැරට් කිලෝවක තොග මිල මේ වන විට රුපියල් 700 කින් පමණ පහත වැටී ඇති බවත් අනෙකුත් එළවළු වර්ග වල මිල ද රුපියල් සියයත් එකසිය පහනත් අතර මිලකින් පහත වැටී ඇතැයි කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ වෙලෙදුන් කියා සිටී.
+
+උඩරට එළවළු වර්ග රට පුරා බෙදා හරින ප්‍රධාවතම ආර්ථීක මධ්‍යස්ථානයක් වන කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයට එළවළු තොග මිලට ගැනීම සදහා දිවයිනේ විවිධ ප්‍රදේශවල සිට වෙලෙදුන් දෛනිකව පැමිනෙන අතර මේ වන විට එලෙස පැමිනෙන වෙලෙදුන්ගේ ප්‍රමාණයද යම් තරමකට අඩුවී ඇති බවත් කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ වෙලෙදුන් පවසති.
+
+පසුගිය සතියේ රුපියල් එක්දහස් හයසියයකය පමණ මිල ඉහල ගිය කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ කැරට් කිලෝවක් මේ වන විට රුපියල් හත්සියයක් දක්වා පහත වැටී ඇති බවත් ආර්ථීක මධ්‍යස්ථානය වෙත මේ වන විට ලැබෙන එළවළු වර්ග ප්‍රමාණයේ සුළු වැඩි වීමක් ඇති බවත් වෙලෙදුන් කියා සිටී.
+
+...
+
+[Data](articles/96cb9550.json)
 
 ---
 
@@ -1919,125 +2025,5 @@ The Opposition Leader also warned that the residents of the party would be inves
 [Data](articles/3ac85d66.json)
 
 [Extended Data](ext_articles/3ac85d66.ext.json)
-
----
-
-### Lionel Wendt, Count de Mauny, David Paynter and Raman
-
-*2024-02-03 21:09:00* · [`islandlk`](http://island.lk/lionel-wendt-count-de-mauny-david-paynter-and-raman/) · `en`
-
-The self styled “Count”. De Mauny was born as Maurice Marie Talavande on March 21, 1886. The circumstances under which he left for Ceylon were controversial, some writers suggesting that he was compelled to leave France for misbehaviour with young men in his charge.
-
-None of these rumours have ever been established, and to this day remain as rumours. According to William Warren, author of the book “Tropical Asian Style”, de Mauny was first invited to Ceylon in 1912 by SIr Thomas Lipton the tea magnate. He followed that up with several subsequent visits concluding with his purchase of an island off the coast of Weligama, which was only a rocky outcrop one and a half acres in extent and overrun with weeds.
-
-...
-
-[Data](articles/bc3599cd.json)
-
-[Extended Data](ext_articles/bc3599cd.ext.json)
-
----
-
-### Pakistan ex-PM Imran Khan and wife jailed for 7 years for unlawful marriage
-
-*2024-02-03 20:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/96980/pakistan-ex-pm-imran-khan-and-wife-jailed-for-7-years-for-unlawful-marriage) · `en`
-
-Former Pakistan Prime Minister Imran Khan and his wife Bushra Khan were sentenced to seven years in prison and fined on Saturday by a court that ruled their 2018 marriage broke the law, his party said.
-
-It was the third ruling against Khan this week and comes ahead of national elections on Thursday that he is barred from contesting.
-
-Khan, 71, has in recent days been sentenced to 10 years for leaking state secrets and 14 years along with this wife for illegally selling state gifts. His representatives say he will launch appeals in all three cases.
-
-It was not immediately clear if his various sentences would run concurrently.
-
-Khan is in prison in the garrison city of Rawalpindi, while his wife will serve her sentence at their hilltop mansion in nearby Islamabad. He already faces a 10-year disqualification from holding public office.
-
-...
-
-[Data](articles/46581735.json)
-
-[Extended Data](ext_articles/46581735.ext.json)
-
----
-
-### Memories of Geoff Weinman
-
-*2024-02-03 20:47:00* · [`islandlk`](http://island.lk/memories-of-geoff-weinman/) · `en`
-
-The news of the recent demise of Geoff Weinman after a long span of 93 years did not come as a surprise to me. I am saddened, nevertheless, as over the years, beginning from around 1957 I had enjoyed a very rewarding relationship with him.
-
-He spent his last years in an Elders’ Home well cared for by its professional staff. I was in constant touch with him on a regular basis even after he emigrated to Australia until unfortunate circumstances made him incommunicado. Thereafter, it was a case of obtaining regular updates on his health from the professional staff of the Elders’ Home. Perhaps the last Sri Lankans to visit him there were two of my former teammates, long-time residents in Sydney, Dr. Shivantha Arudpragasam and Rex Perera, inseparable second-row forwards of my time!
-
-...
-
-[Data](articles/be06d3d6.json)
-
-[Extended Data](ext_articles/be06d3d6.ext.json)
-
----
-
-### Imran Khan and wife sentenced to prison
-
-*2024-02-03 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192937) · `si`
-
-Former Pakistan's Pakistan, Imran Khan and his wife, has been sentenced to another prison in addition to the prison punishment.
-
-They have been sentenced to another seven years in prison for the fault.
-
-◼️
-
-[Data](articles/816e07ad.json)
-
-[Extended Data](ext_articles/816e07ad.ext.json)
-
----
-
-### Keheliya Prison Hospital
-
-*2024-02-03 20:39:15* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-බන්ධනාගාර-රෝහලට/11-407878) · `si`
-
-Former Health Minister Keheliya Rambukwella has been admitted to the Prison Hospital due to a condition.
-
-The former Health Minister has been admitted to the Prison Hospital following the medical recommendation.
-
-◼️
-
-[Data](articles/dcacabd3.json)
-
-[Extended Data](ext_articles/dcacabd3.ext.json)
-
----
-
-### Keheliya remanded
-
-*2024-02-03 20:37:09* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-රිමාන්ඩ්/11-407877) · `si`
-
-The Maligakanda court ordered to remand back to the 15th of Sri Lanka Health Minister Keheliya Rambukwella to the 15th.
-
-He was arrested by the CID yesterday (CID) yesterday.
-
-He has been accused of distributing billions of crores to the government.
-
-◼️
-
-[Data](articles/dd961ba1.json)
-
-[Extended Data](ext_articles/dd961ba1.ext.json)
-
----
-
-### HOW THE GODS AND DEMONS LEARNED TO PLAY TOGETHER
-
-*2024-02-03 20:31:00* · [`islandlk`](http://island.lk/how-the-gods-and-demons-learned-to-play-together/) · `en`
-
-Derived from chapter one, six and seven of the Natyasashtra, on the origin of drama, and published in The Monkey King And Other Stories, Canada 1995 and in Scarless Face And Other Stories, India 2006.
-
-The great god of the Hindus is Lord Brahma and in ancient times the great book of the Hindus made up of many parts was called the Vedas which told the Hindus about life, through artistic methods. India is a very large place, and people just moved across land from one place to another, meeting other, different kinds of people as they went. Lord Brahma and his Hindus who started in the North of India began moving to the South, carrying with them the great books of the Vedas. The people of Lord Brahma moved right across the whole of Southern India and into the country now called Sri Lanka, for in those days the narrow and shallow sea that divides Sri Lanka from India was all land.
-
-...
-
-[Data](articles/36d29e68.json)
-
-[Extended Data](ext_articles/36d29e68.ext.json)
 
 ---

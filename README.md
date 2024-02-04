@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 21:51:23**
+As of **2024-02-04 22:02:22**
 
 ## Newspaper Stats
 
-*Scraped **4,775** Articles*
+*Scraped **4,776** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 287
 adalk | 411
 virakesarilk | 546
-adaderanalk | 597
+adaderanalk | 598
 tamilmirrorlk | 605
 adaderanasinhalalk | 607
 dailymirrorlk | 668
@@ -26,11 +26,23 @@ dailymirrorlk | 668
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,775 (100.0%) of 4,775 articles have been extended.
+4,775 (100.0%) of 4,776 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### Several inmates and soldier injured in clash at Kandakadu camp
+
+*2024-02-04 21:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97004/several-inmates-and-soldier-injured-in-clash-at-kandakadu-camp) · `en`
+
+At least ten inmates and an army soldier have reportedly been injured in a clash between two groups of inmates at the Kandakadu Rehabilitation and Treatment Centre, police reported.
+
+◼️
+
+[Data](articles/b4d02903.json)
+
+---
 
 ### Man arrested in India with 4.3kg of gold biscuits smuggled from Sri Lanka
 
@@ -1953,25 +1965,5 @@ The Navy conducts regular patrols and operations in Sri Lankan waters to curb il
 [Data](articles/21dc4f72.json)
 
 [Extended Data](ext_articles/21dc4f72.ext.json)
-
----
-
-### Billy developed the light cord that arrives at the durian tree
-
-*2024-02-04 10:55:58* · [`adalk`](https://www.ada.lk/breaking_news/දූරියන්-ගහට-එන-රිලවුන්ට-දැමූ-විදුලි-රැහැනට-රැහැන-දැමූ-අයම-බිලි/11-407885) · `si`
-
-The Matale Police said that the age of 47 was killed after the collapse of the power stagnation of the house of durian.
-
-The deceased has been identified as Ratnapura, Ratnapura, a resident of Ukattota, Matale.
-
-At the same place, the homeowner had been insecure and pulling into the house of the house to prevent the wealth of the animals and pulls in the house, which was pulled in the house and connected to the baked wire electricity to spill the place in the area.The man was suspicious that the man had to be killed when collided with these wire.
-
-The resident of the house has been arrested by the Matale Police on suspicion of further investigations into the incident.
-
-◼️
-
-[Data](articles/98fc52c5.json)
-
-[Extended Data](ext_articles/98fc52c5.ext.json)
 
 ---

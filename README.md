@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 09:51:09**
+As of **2024-02-04 10:02:32**
 
 ## Newspaper Stats
 
-*Scraped **4,650** Articles*
+*Scraped **4,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 136
 islandlk | 254
 economynextcom | 254
 dailyftlk | 280
-newsfirstlk | 284
+newsfirstlk | 285
 adalk | 400
 virakesarilk | 519
 adaderanasinhalalk | 581
@@ -26,11 +26,29 @@ dailymirrorlk | 646
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,647 (99.9%) of 4,650 articles have been extended.
+4,650 (100.0%) of 4,651 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### President Emphasizes on progressive approach in Independence Day message
+
+*2024-02-04 09:07:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/04/president-emphasizes-on-progressive-approach-in-independence-day-message/) · `en`
+
+COLOMBO (News 1st) – The President Through His Independence Day message said "As we commemorated the 75th year of our nation's independence, we encountered the indignity of being labeled a financially bankrupt country. Nevertheless, upon the advent of the 76th Independence Day, we have effectively navigated through these challenges, steering the economy toward stability despite numerous impediments and challenges."
+
+The President stressed the importance of obtaining insights from past mistakes and avoiding their repetition. With the current growth trajectory acknowledged globally, He asked for a collective effort to persist on this path and reinstate prosperity.
+
+President Concluded his message by inviting all Sri Lankans, at home and abroad, to contribute their utmost energy to the noble mission of rebuilding our nation.
+
+Imran Khan and wife convicted for illegal marriage and jailed for 7 years
+
+◼️
+
+[Data](articles/e83d45f9.json)
+
+---
 
 ### Sri Lanka celebrates 76th Independence Day
 
@@ -56,6 +74,8 @@ A contingent of 85 Air Force officers and 784 other ranks, accompanied by 28 arm
 
 [Data](articles/67baa836.json)
 
+[Extended Data](ext_articles/67baa836.ext.json)
+
 ---
 
 ### Special traffic plan in Colombo
@@ -73,6 +93,8 @@ Imran Khan and wife convicted for illegal marriage and jailed for 7 years
 ◼️
 
 [Data](articles/221e70bd.json)
+
+[Extended Data](ext_articles/221e70bd.ext.json)
 
 ---
 
@@ -94,21 +116,25 @@ The Prime Minister of Thailand, Mr. Srettha Thavisin, is the chief guest of the 
 
 ---
 
-### ஹெளத்தி கிளர்ச்சியாளர்களிற்கு எதிரான  நடவடிக்கை தொடர்கின்றது – அமெரிக்காவும் பிரிட்டனும் மீண்டும் தாக்குதல்
+### Action against Haundi rebels continues - US and Britain again attack
 
 *2024-02-04 08:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/175493) · `ta`
 
-யேமனின் ஹெளத்தி கிளர்ச்சியாளர்களின் நிலைகள் மீது சனிக்கிழமை அமெரிக்காவும் பிரி;ட்டனும் மீண்டும் தாக்குதலை மேற்கொண்டதாக அமெரிக்க பாதுகாப்பு செயலாளர் தெரிவித்துள்ளார்.
+The US Defense Secretary said that the United States and the United States had re -attacked the conditions of Yemen's Hydic insurgents on Saturday.
 
-இஸ்ரேல் ஹமாஸ் யுத்தத்திற்கு பதில்நடவடிக்கையாக செங்கடலில் அமெரிக்காவின் இலக்குகளை தாக்கிவரும் ஈரான் சார்பு குழுவை மேலும் பலவீனமாக்குவதற்காக இந்த தாக்குதலை அமெரிக்காவும் பிரிட்டனும் மேற்கொண்டுள்ளன.
+The US and Britain have launched the attack to further weaken the pro -Iranian group that strikes US targets in the Red Sea in response to the War of Israel.
 
-சர்வதேச கப்பல் போக்குவரத்து மற்றும் கடற்படை கலங்கள் மீதான தங்களின் சட்டவிரோத தாக்குதல்களை ஹெளத்தி கிளர்ச்சியாளர்கள் நிறுத்தாவிட்டால் அவர்கள் தொடர்ந்தும் விளைவுகளை எதிர்கொள்வார்கள் என்ற செய்தியை தெரிவிப்பதற்காகவே இந்த தாக்குதல் என அமெரிக்க பாதுகாப்பு செயலாளர் லொயிட் ஒஸ்டின் தெரிவித்துள்ளார்.
+US Defense Secretary Loyit Ostin said that the attack was to report that if the anti -insurgents would not stop their illegal attacks on international shipping and naval cells, they would continue to face the consequences.
 
-13 பகுதிகளில் ஹெளத்தி கிளர்ச்சியாளர்களின் இலக்குகள் தாக்கப்பட்டுள்ளன அமெரிக்காவின் போர்க்கப்பலில் இருந்து புறப்பட்ட எவ்ஏ 18 போர் விமானங்களும்,பிரிட்டனின் டைபூன் எவ்ஜிஆர்4 ர விமானங்களும் தாக்குதலை மேற்கொண்ட அதேவேளை அமெரிக்காவின் போர்க்கப்பலில் இருந்து ஏவுகணை தாக்குதலும் இடம்பெற்றுள்ளது.
+The targets of Hewthi insurgents have been attacked in 13 areas.
 
-...
+It is noteworthy that this is the third attack on the United States and Britain against the Haithi rebels.
+
+◼️
 
 [Data](articles/0f86e564.json)
+
+[Extended Data](ext_articles/0f86e564.ext.json)
 
 ---
 
@@ -1959,25 +1985,5 @@ Further, on February 20, 2024, will be leaving the island on February 5, 2024 en
 [Data](articles/5644884d.json)
 
 [Extended Data](ext_articles/5644884d.ext.json)
-
----
-
-### Indian submarine returns to Colombo
-
-*2024-02-03 13:41:21* · [`adalk`](https://www.ada.lk/picture_story/ඉන්දීය-සබ්මැරිනයක්-කොළඹට-එයි/10-407876) · `si`
-
-In the morning of the Indian Navy, the Siriranj submarine arrived at the Port of Colombo today (February 2024).
-
-The inscription of the Colombo port is comprised of 67.5 meters and 53 meters and 53 meters and 53 meters and 53 meters.
-
-The 'Ins Karanj' submarine is scheduled to attend a awareness program on its operational operation during the period of operational operation.
-
-Further, on February 20, 2024, will be leaving the island on February 5, 2024 ending the official visit.
-
-◼️
-
-[Data](articles/95decc90.json)
-
-[Extended Data](ext_articles/95decc90.ext.json)
 
 ---

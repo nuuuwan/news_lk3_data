@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 18:51:05**
+As of **2024-02-04 19:02:32**
 
 ## Newspaper Stats
 
-*Scraped **4,754** Articles*
+*Scraped **4,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ islandlk | 254
 economynextcom | 256
 dailyftlk | 280
 newsfirstlk | 287
-adalk | 410
-virakesarilk | 539
+adalk | 411
+virakesarilk | 546
 adaderanalk | 594
 tamilmirrorlk | 604
-adaderanasinhalalk | 605
+adaderanasinhalalk | 606
 dailymirrorlk | 663
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,754 (100.0%) of 4,754 articles have been extended.
+4,754 (99.8%) of 4,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### ඇෆ්ගනිස්තානයෙන් නොසිතූ ප්‍රහාරයක්
+
+*2024-02-04 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192975) · `si`
+
+ශ්‍රී ලංකාව සමග පැවැත්වෙන පළමු ටෙස්ට් තරගයේ තුන්වන දිනය නිමාවන විට සිය දෙවන ඉනිම ක්‍රීඩා කරමින් සිටින ඇෆ්ගනිස්තාන කණ්ඩායම එක් කඩුල්ලක් දැවී ලකුණු 199ක් ලබා සිටියේය.
+
+එහිදී අගනා ඉනිමක් ක්‍රීඩා කරමින් නොදැවී පන්දුවට පහරදෙමින් සිටින Ibrahim Zadran පන්දු 217කදී හතරේ පහර 11ක් සමග ලකුණු 101ක් රැස්කරගෙන සිටී.
+
+ඔහුට අගනා සහායක් ලබාදෙමින් පන්දුවට පහරදෙමින් සිටින පළමු ඉනිමේ ද ඇෆ්ගනිස්තානය වෙනුවෙන් විශිෂ්ඨ ඉනිමක් ක්‍රීඩා කළ Rahmat Shah පන්දු 98කදී හතරේ පහර 5ක් සමග ලකුණු 46ක් රැස්කරගෙන නොදැවී පන්දුවට පහරදෙමින් සිටී.
+
+Noor Ali Zadran අගනා ඉනිමක් ක්‍රීඩා කරමින් ලකුණු 47ක් රැස්කරගෙන සිටියදී ඔහුව කඩුල්ල මුවාකිරීමේ වරදට හසුකරගැනීමට අසිත ප්‍රනාන්දු සමත්විය.
+
+ඇෆ්ගනිස්තානය සිය පළමු ඉනිම සඳහා සියලුදෙනා දැවී රැස්කරගත්තේ ලකුණු 198ක් පමණි.
+
+ශ්‍රී ලංකාව සිය පළමු ඉනිම සඳහා සියලුදෙනා දැවී ලකුණු 439ක් රැස්කරගත්තේය.
+
+ඒ අනුව 3 වන දිනය නිමාවේදී ඇෆ්ගනිස්තාන කණ්ඩායම ශ්‍රී ලංකාවට වඩා ලකුණු 42ක් පසුපසින් සිටියේය.
+
+◼️
+
+[Data](articles/d21ce845.json)
+
+---
+
+### சர்ச்சையை கிளப்பிய நியமனம்
+
+*2024-02-04 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175535) · `ta`
+
+போர்க்காலத்தில் இடம்பெற்ற மீறல்களை நிராகரிப்பவராக மாத்திரமன்றி அந்த காலகட்ட சம்பவங்களுக்கு பதிலளிக்க வேண்டியவர் என்பதால் தான்,  தயா ரத்நாயக்கவின் இந்த நியமனம் சர்ச்சையை உருவாக்கி இருக்கிறது.
+
+தயா ரத்நாயக்கவுக்கு  ஆலோசகர் பதவியை வழங்கியிருப்பதன் மூலம், கோட்டாபய ராஜபக் ஷவுடன், நெருக்கத்தை ஏற்படுத்த சஜித் பிரேமதாச முற்படுகிறாரா என்ற சரத் பொன்சேகாவின்  கேள்வியும், பொறுப்புக்கூறல் தொடர்பான ஐக்கிய மக்கள் சக்தியின் நிலைப்பாட்டின் மீது அம்பிகா சற்குணநாதன் எழுப்பியுள்ள ஐயமும்  கூர்ந்து நோக்கப்பட வேண்டியவை.
+
+◼️
+
+[Data](articles/53a8cc70.json)
+
+---
 
 ### Today is the 20th birthday
 
@@ -58,6 +96,66 @@ In addition to Facebook, many social media columns have been created by now and 
 
 ---
 
+### பின்லாந்து தேர்தலும்  மூன்றாம் உலகப்போரும்?
+
+*2024-02-04 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175537) · `ta`
+
+இரு­வரில் யார் தெரி­வா­னாலும் அவ­ருக்கு அடுத்­து­வரும் 6 வரு­டங்­களில் தலை­யிடி காத்­தி­ருக்­கி­றது என்­பது மாத்­திரம் உண்மை. உக்ரேன் போரில் ரஷ்யா வெற்றி பெற்­று­விட்டால் அது ஏனைய அயல் நாடுகள் மீது படை­யெ­டுப்பை நடத்தக் கூடும் என்ற வதந்­திகள் மேற்குலகில் வெளிவரத் தொடங்கி விட்டன.
+
+ஐரோப்பாவினுள் நுழையும் அகதிகளைக் கட்டுப்படுத்தும் நோக்கில் ரஷ்யாவுடனான தனது எல்லைகளை அண்மையில் பின்லாந்து மூடியிருந்த நிலையில், ரஷ்யாவின் தொடரப் போகும் எதிர்வினைகள் மற்றொரு மோதலுக்கு வழிவகுக்குமா? நேட்டோ ஆதரவு நாடு ஒன்றுடன் ரஷ்யா மோதும் நிலை உருவானால் அது மூன்றாம் உலகப் போருக்கு வித்திடுமா? அத்தகைய ஒரு போரை உலகம் தாங்குமா?
+
+இவை தற்போது வரை விடை தெரியாத கேள்விகள். ஆனால் இந்த ஒவ்வொரு நிலையிலும் பின்லாந்தில் புதிதாகத் தெரிவாகும் அரசுத் தலைவர் சம்பந்தப்பட்டே ஆகவேண்டும் என்பது மாத்திரம் உண்மை.
+
+◼️
+
+[Data](articles/102468cd.json)
+
+---
+
+### தாயக ஒருமைப்பாடே முக்கியமானது
+
+*2024-02-04 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175539) · `ta`
+
+பொதுச் செயலாளர் கட்சியின் நிர்வாக வேலையில் ஈடுபட வேண்டியிருப்பதனால் தேர்தல் அரசியலில் அவர் இறங்காமல் இருப்பது நல்லது. ஜே.வி.பி. இல் அந்த ஒழுங்கே இருக்கின்றது. அங்கு அதன் செயலாளர் ரில்வின் சில்வா தேர்தலில் போட்டியிடுவதில்லை.
+
+பொதுச் செயலாளர் தெரிவை மீள கலந்துரையாடலுக்கு உட்படுத்தி போட்டிகள் எதுவும் இல்லாமல் ஏக மனதாக தெரிவு செய்வதே நல்லது. போட்டி தவிர்க்க முடியாததாக இருப்பின் தலைவர் தெரிவு போல இரகசியமான வாக்கெடுப்பின் மூலம் தெரிவு செய்யப்படுவதே ஆரோக்கியமானது. இங்கே தேர்தலை விட முக்கியமானது தாயக ஒருமைப்பாடு . கிழக்குத்தரப்பு அதிருப்தியுடன் வெளியேறிச் செல்லும் நிலையை உருவாக்க ஒரு போதும் முனையக் கூடாது. அவ்வாறு முனையும் எந்த முயற்சியும் பெருந்தேசியவாதத்திற்கு சேவகம் செய்வதாகவே அமையும்.
+
+◼️
+
+[Data](articles/097e4717.json)
+
+---
+
+### மீண்டும் குறைவடையவுள்ள கடன், வைப்பு வட்டி வீதங்கள்?
+
+*2024-02-04 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/175556) · `ta`
+
+2048 ஆண்டில் இலங்கை வளர்ச்சியடைந்த நாடாக மாறவேண்டுமானால்  இலங்கை வருடாந்தம் 7.8 வீத பொருளாதார வளர்ச்சியை பதிவு செய்யவேண்டும்  என்று  பாராளுமன்ற உறுப்பினரும் பொருளாதார நிபுணருமான ஹர்ஷ டி. சில்வா கூறுகிறார்.
+
+அதனால் அடுத்து வரும் காலங்களில் நாட்­டில் பொருளாதார வளர்ச்சியை ஏற்படுத்த வேண்டுமாயின் உற்பத்திகளை அதிகரிக்க வேண்டியது அவசியமாகும். அதற்கு வங்கி  வட்டி விகிதங்கள் மேலும் குறைவடைய வேண்டும். மக்கள் அதிக அளவு கடன்களை பெற்றுக் கொள்ள வேண்டும். அதாவது தனியார் கடன்கள் அதிகரிப்பது அவசியமாகவிருக்கிறது.   அதனூடாக முதலீடு­களை செய்ய வேண்டும்.  சாவியும் பூட்டும்  இருக்கின்றன. சரியாக திட்டமிட்டு திறப்பதே முக்கியமாகவுள்ளது.
+
+◼️
+
+[Data](articles/245ffb17.json)
+
+---
+
+### இலங்கையுடனான கடல்சார் பொருளாதார உறவுகளை அமெரிக்கா மேலும் ஆழமாக்கவுள்ளது – சுதந்திர தினத்துக்கான செய்தியில் அன்டனி பிளிங்கென்
+
+*2024-02-04 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/175560) · `ta`
+
+இலங்கையுடன் கடல்சார் பொருளாதார உறவுகளை அமெரிக்கா மேலும் ஆழமாக்கவுள்ளதாக அமெரிக்க இராஜாங்க செயலாளர் அன்டனி பிளிங்கென் தெரிவித்துள்ளார்.
+
+இலங்கைக்கும் அமெரிக்காவிற்கும் இடையிலான வலுவான கூட்டு என்பது பகிரப்பட்ட விழுமியங்கள் ஜனநாயகத்திற்கான அர்ப்பணிப்பு சுதந்திரமான வெளிப்படையான பாதுகாப்பான இந்தோ பசுபிக் போன்றவற்றை அடிப்படையாக கொண்டது என தெரிவித்துள்ள அன்டனி பிளிங்கென் எங்கள் உறவு பாதுகாப்பு ஒத்துழைப்பு பரஸ்பரம் நன்மை பயக்கும் வர்த்தகம் மற்றும் முதலீடு அத்துடன் கல்விபரிமாற்றங்கள் அறிவியல் கூட்டாண்மைகளால் வளர்க்கப்படும் மக்களிடையேயான உறவுகளை அடிப்படையாக கொண்டது எனவும் அவர் தெரிவித்துள்ளார்.
+
+எதிர்வரும் வருடங்களில் இந்தோபசுபிக்கின் சகாக்கள் என்ற அடிப்படையில் நாங்கள் இலங்கையுடனான பொருளாதார கடல்சார் உறவுகளை மேலும்வலுப்படுத்துவோம் காலநிலை நெருக்கடி மற்றும் எங்களின் கரிசனைக்குரிய ஏனைய விடயங்களிற்கு தீர்வை காணமுயல்வோம் எனவும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/f9e8cbc3.json)
+
+---
+
 ### President retires to death in Namibia
 
 *2024-02-04 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192973) · `si`
@@ -73,6 +171,36 @@ Earlier, foreign media reports that President Hage Geingob could suffer from a c
 [Data](articles/d9166855.json)
 
 [Extended Data](ext_articles/d9166855.ext.json)
+
+---
+
+### பின்னிப் பிணைந்த உறவு
+
+*2024-02-04 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175554) · `ta`
+
+பாதுகாப்பில் மாத்திரமன்றி அபிவிருத்தியிலும் இது முக்கியமானது. அதனால் தான் இந்தியா இப்போது இலங்கையில் தனது முதலீடுகளை விரிவாக்குவதில் கவனம் செலுத்துகிறது.
+
+இந்தியாவும் இலங்கையும் விரைவில் பெரும் தேர்தல்களை எதிர்கொள்ள உள்ள சூழ்நிலையில் இரண்டு நாடுகளும் பாதுகாப்பு மற்றும் அபிவிருத்தி நலன்களில் தங்களுக்கிடையில் உள்ள, தொடர்புகளை விட்டுக் கொடுக்கத் தயாராக இருக்காது.
+
+இதனை நிலை நிறுத்துவதற்காக- இந்த உறவுக்கு பாதிப்பு ஏற்படுத்தக் கூடிய விடயங்களில் விட்டுக் கொடுப்புகளுக்கும் சமரசங்களுக்கும் தயாராக இருக்கும்.
+
+◼️
+
+[Data](articles/f10ed678.json)
+
+---
+
+### மட்டக்களப்பில் ஐஸ் போதைப்பொருளுடன் பிரதேச செயலகத்தில் கடமையாற்றும் நபர் உள்ளிட்ட மூவர் கைது
+
+*2024-02-04 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/175557) · `ta`
+
+மட்டக்களப்பு பட்டிப்பளைபிரதேச செயலகத்தில் கடமையாற்றும் போதைப்பொருள் வியாபாரி ஒருவர் உட்பட மூவரை 4 கிராம் 760 மில்லிக்கிராம் ஐஸ் போதைப்பொருளுடன் சனிக்கிழமை (03) கல்லடி பகுதியில் வைத்து விசேட அதிரடிப்படையினர் கைது செய்து ஒப்படைத்துள்ளதாக காத்தான்குடி பொலிசார் தெரிவித்தனர்.
+
+சம்பவதினமான சனிக்கிழமை (04) காலை 10 மணியளவில் கல்லடி பகுதியிலுள்ள வீதி ஒன்றில் கண்காணிப்பில் ஈடுபட்டுக் கொண்டிருந்தபோது அங்கு மோட்டார் சைக்கிள் ஒன்றில் வியாபாரத்துக்காக ஐஸ் போதைப்பொருளை எடுத்துக்கொண்டு வந்து வியாபாரத்தில் ஈடுபட்டுக் கொண்டிருந்தவரையும் அதனை வாங்க வந்த இருவரையும் அங்கிருந்த விசேட அதிரடிப்படையினர் சுற்றிவளைத்து மடக்கி பிடித்ததுடன் அவர்களிடமிருந்து 4 கிராம் 760 மில்லிக்கிராம் ஐஸ் போதைப்பொருள் மோட்டர்சைக்கிள் ஒன்று இரண்டு கையடக்கத்தொபேசிகளை மீட்டனர்.
+
+...
+
+[Data](articles/2c673354.json)
 
 ---
 
@@ -285,6 +413,24 @@ Residents said the strikes shook buildings in Houthi-controlled Sanaa. The group
 [Data](articles/fcd0f69e.json)
 
 [Extended Data](ext_articles/fcd0f69e.ext.json)
+
+---
+
+### රනිල් වික්‍රමසිංහ එදා කාශ්‍යප රජු වගේ යැයි මනූෂ කියයි
+
+*2024-02-04 17:28:34* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-වික්‍රමසිංහ-එදා-කාශ්‍යප-රජු-වගේ-යැයි-මනූෂ-කියයි/11-407892) · `si`
+
+නිදහස සමරන එක වැරදියි කියන්නෙ ජාතික හැඟීමක් නැති පිරිසක් බව කම්කරු හා විදේශ රැකියා අමාත්‍ය මනූෂ නානායක්කාර මහතා පැවසීය.
+
+"8/89 කාලයේ දී මිනිස්සු මරපු එක ඉල් මහ කියලා සමරන්න හොඳයි,   ඒත් නිදහස සමරන එක වැරදියි කියනවා" යැයි ද අනුරාධපුර යොවුන් නිකේතනයේ දී (03) පැවති එක්සත් ජාතික පක්ෂයේ මගෙන් පටන් ගමු තරුණ සමුළුවට එක්වෙමින් අමාත්‍ය මනූෂ නානායක්කාර මහතා පැවසීය.
+
+කාශ්‍යප වගේ රජෙක්, රටට ඩොලර් ගේන රජෙක් අපට අද සිටින බව සිහිපත් කළ අමාත්‍යවරයා, ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කාශ්‍යප රජු මෙන් රට තාක්ෂණයෙන් දියුණු කළ හැකි නායකයෙක් බව පෙන්වා දුන්නේය.
+
+"අපි ලස්සනට ඇන්දොත් තමයි අපි ගැන ප්‍රසන්න බවක් එන්නේ. පොතක පිටකවරය බලන්න එපා කිව්වාට ඇත්තමට පිටකවරයත් ලස්සනට තියෙන්න ඕනේ. හිතන්න මම මෙතනට පිළිවෙලක් නැතිව ආවා නම් ඔබ මං දිහා බලනවාද? ඒ කියන්නේ අපිට බාහිර පෙනුම වගේම ඇතුලත් ප්‍රසන්න වීම ඉතාම වැදගත්.
+
+...
+
+[Data](articles/030dc4d3.json)
 
 ---
 
@@ -1817,203 +1963,5 @@ The suspect is being produced before the Magistrate's Court and will be kept in 
 [Data](articles/41d0cf99.json)
 
 [Extended Data](ext_articles/41d0cf99.ext.json)
-
----
-
-### Man arrested for ransom
-
-*2024-02-04 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192952) · `si`
-
-The Colombo Crimes Division has been arrested by the Colombo Crimes Division.
-
-Police say a person has threatened a driver at a bus parked at the Kottawa bus stand, police said.
-
-Then, a person stood by the bus, had taken a photo of the driver while they had arrived at Pettah bus stand.
-
-It has been revealed that the driver of the persons who were suspicious of the suspected person and inspect the phone to the foreign telephone number along whatsapp.
-
-Later, the driver of the relevant driver has received a threatening call to pay a ransom of Rs. 25,000.
-
-According to a complaint lodged at the police, the suspect was arrested and interrogated on 07 days detention orders.
-
-The suspect has been taken by the arrested suspect in a foreign country by a organized criminal committed by the country's drug trafficking and crimes.
-
-◼️
-
-[Data](articles/6f9e0651.json)
-
-[Extended Data](ext_articles/6f9e0651.ext.json)
-
----
-
-### Two persons arrested for trying to enter into intoxicated
-
-*2024-02-04 09:47:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/போதையில்-நுழைய-முற்பட்ட-இருவர்-கைது/71-332613) · `ta`
-
-Yall. Two persons have been arrested by the police yesterday for attempting to enter the teaching hospital.
-
-Hospital security officers have been caught and handed over to the police.
-
-Police are arrested and detained at the police station. Remble
-
-◼️
-
-[Data](articles/54d570f6.json)
-
-[Extended Data](ext_articles/54d570f6.ext.json)
-
----
-
-### Singaporean TikTok CEO Denies Chinese Communist Party Ties
-
-*2024-02-04 09:32:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/04/singaporean-tiktok-ceo-denies-chinese-communist-party-ties/) · `en`
-
-(BBC) – US Senator Tom Cotton repeatedly asked Shou Zi Chew, the CEO of Chinese-owned social media app TikTok, about his links to the Chinese Communist Party, despite Mr Chew repeatedly asserting that he is Singaporean at a hearing in Washington DC on Wednesday.
-
-In this minute-long exchange, Mr Cotton asks Mr Chew about his citizenship, passport and whether he is a member of the CCP, to which he replies "Senator, I'm Singaporean. No."
-
-Chew denies his company has ever shared or received a request to share US users' data with the Chinese government.
-
-Chew faced the hearing in the US Senate alongside CEOs from Meta, X and other social media companies who were grilled by the US lawmakers over the dangers that children and teens face using the social media platforms.
-
-...
-
-[Data](articles/aa0b7280.json)
-
-[Extended Data](ext_articles/aa0b7280.ext.json)
-
----
-
-### Interrupting protests in the North and EastFour University students arrested
-
-*2024-02-04 09:16:58* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cyx7w51rlgro) · `si`
-
-Interrupting protests in the North and EastFour University students arrested
-
-Four Jaffna university students who joined a protest in Kilinochchi have been arrested today (04).
-
-Jaffna Universities will not be able to celebrate the Independence Day to interfere with the issues of the North and East.Students, relatives of the disappeared and civil organizations jointly protest against the 'Black Independence Day' in Kilinochchi today (04).
-
-The Jaffna Kandy main road was blocked and protest and attempted to take action to dissolve the protesters.
-
-It was also called the police fighter bowsers and police curly prevention unit to control the situation.
-
-A group of political parties including the new leader of the Ilangai Tamil Arasu Kachchi Party for the protest program were also present.
-
-The Black Flags of Jaffna University had raised the university in the unclear situation that could celebrate a free day.
-
-...
-
-[Data](articles/6954b52f.json)
-
-[Extended Data](ext_articles/6954b52f.ext.json)
-
----
-
-### President Emphasizes on progressive approach in Independence Day message
-
-*2024-02-04 09:07:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/04/president-emphasizes-on-progressive-approach-in-independence-day-message/) · `en`
-
-COLOMBO (News 1st) – The President Through His Independence Day message said "As we commemorated the 75th year of our nation's independence, we encountered the indignity of being labeled a financially bankrupt country. Nevertheless, upon the advent of the 76th Independence Day, we have effectively navigated through these challenges, steering the economy toward stability despite numerous impediments and challenges."
-
-The President stressed the importance of obtaining insights from past mistakes and avoiding their repetition. With the current growth trajectory acknowledged globally, He asked for a collective effort to persist on this path and reinstate prosperity.
-
-President Concluded his message by inviting all Sri Lankans, at home and abroad, to contribute their utmost energy to the noble mission of rebuilding our nation.
-
-Navy Seizes Two Poaching Trawlers & 23 Indian Nationals in Sri Lankan Waters
-
-◼️
-
-[Data](articles/e83d45f9.json)
-
-[Extended Data](ext_articles/e83d45f9.ext.json)
-
----
-
-### Sri Lanka celebrates 76th Independence Day
-
-*2024-02-04 09:04:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/04/sri-lanka-celebrates-76th-independence-day/) · `en`
-
-COLOMBO (News 1st) – All arrangements are in place to hold the 76th Independence Day celebrations today at Galle Face Green.
-
-The theme of this year's Independence Day is: Let's Build a New Country.
-
-President Ranil Wickremesinghe will preside over the 76th Independence Day celebrations, with Thai Prime Minister Srettha Thavisin serving as the Guest of Honour.
-
-This year's Independence Day celebration will feature a multitude of spectacular events, with a march by members of the Tri-forces, Police, Civil Defense Force, and Cadets, celebrating Sri Lanka's independence.
-
-3461 Members of the Sri Lanka Army will take part in the Independence Day Salute Parade.
-
-19 aircraft representing the Air Force will grace the airspace this time in the Independence Day Parade.
-
-Seven helicopters, five MI-16 type airplanes, and three jets are included among them.
-
-A contingent of 85 Air Force officers and 784 other ranks, accompanied by 28 armored vehicles, will proudly march in the Independence Day parade.
-
-...
-
-[Data](articles/67baa836.json)
-
-[Extended Data](ext_articles/67baa836.ext.json)
-
----
-
-### Special traffic plan in Colombo
-
-*2024-02-04 09:02:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/04/special-taffic-plan-in-colombo/) · `en`
-
-COLOMBO (News 1st) – A special traffic plan was implemented in Colombo until noon today, in line with the Independence Day celebrations.
-
-Roads from Colpetty Junction to Galle Face and the roads from Ceramic Junction to Galle Face will be closed until the conclusion of the independence day ceremony.
-
-The Railways Department says that all trains on the Coastal line will operate. Trains will not stop at the Colpetty and Bambalapitiya railway stations from 5 am to 9 am.
-
-Navy Seizes Two Poaching Trawlers & 23 Indian Nationals in Sri Lankan Waters
-
-◼️
-
-[Data](articles/221e70bd.json)
-
-[Extended Data](ext_articles/221e70bd.ext.json)
-
----
-
-### 76th Independence Day celebrations begin at Galle Face
-
-*2024-02-04 09:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/96987/76th-independence-day-celebrations-begin-at-galle-face) · `en`
-
-Sri Lanka’s 76th National Independence Day celebrations have kicked off at the Galle Face Green in Colombo on Sunday (04).
-
-The official ceremony commenced with the arrival of President Ranil Wickramasinghe.
-
-The Prime Minister of Thailand, Mr. Srettha Thavisin, is the chief guest of the Independence Day celebrations which is being held under the theme - ‘Let’s build a new country’.
-
-◼️
-
-[Data](articles/ded9b866.json)
-
-[Extended Data](ext_articles/ded9b866.ext.json)
-
----
-
-### Action against Haundi rebels continues - US and Britain again attack
-
-*2024-02-04 08:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/175493) · `ta`
-
-The US Defense Secretary said that the United States and the United States had re -attacked the conditions of Yemen's Hydic insurgents on Saturday.
-
-The US and Britain have launched the attack to further weaken the pro -Iranian group that strikes US targets in the Red Sea in response to the War of Israel.
-
-US Defense Secretary Loyit Ostin said that the attack was to report that if the anti -insurgents would not stop their illegal attacks on international shipping and naval cells, they would continue to face the consequences.
-
-The targets of Hewthi insurgents have been attacked in 13 areas.
-
-It is noteworthy that this is the third attack on the United States and Britain against the Haithi rebels.
-
-◼️
-
-[Data](articles/0f86e564.json)
-
-[Extended Data](ext_articles/0f86e564.ext.json)
 
 ---

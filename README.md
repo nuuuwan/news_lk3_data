@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 14:32:48**
+As of **2024-02-04 14:49:04**
 
 ## Newspaper Stats
 
-*Scraped **4,701** Articles*
+*Scraped **4,702** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 287
 adalk | 406
 virakesarilk | 523
-adaderanalk | 588
+adaderanalk | 589
 adaderanasinhalalk | 593
 tamilmirrorlk | 598
 dailymirrorlk | 655
@@ -26,11 +26,29 @@ dailymirrorlk | 655
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,700 (100.0%) of 4,701 articles have been extended.
+4,702 (100.0%) of 4,702 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### Whose freedom are you celebrating? – Cardinal
+
+*2024-02-04 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96993/whose-freedom-are-you-celebrating-cardinal-) · `en`
+
+Archbishop of Colombo Cardinal Malcolm Ranjith has emphasised the need to ‘free the country’ from oppressive leadership, and appoint a new leader.
+
+Speaking at a special service held at the All Saint’s Church in Borella in view of Sri Lanka’s 76th Independence Day, the Cardinal charged that as of now, the country has fallen not only economically, but also politically.
+
+“We ask the leaders whose freedom are you celebrating? The freedom of the rulers? The freedom of the people? Is it ‘freedom’ to invite foreign diplomats, and belittle those who are starving in front of the country’s elites?”, Cardinal Malcolm Ranjith questioned.
+
+◼️
+
+[Data](articles/c564652f.json)
+
+[Extended Data](ext_articles/c564652f.ext.json)
+
+---
 
 ### Biden will win South Carolina Democratic primary, earning first delegates of 2024
 
@@ -318,21 +336,27 @@ Police said that another person was involved in the incident and investigations 
 
 ---
 
-### පක්ෂය කඩන්නේ නෑ, රාජපක්ෂලා⁣ට විරැද්ධ නෑ, රනිල්ගේ ගොට්ටෙක් වෙන්නෙත් නෑ
+### The party does not break the Rajapaksas, no greatest
 
 *2024-02-04 11:49:48* · [`adalk`](https://www.ada.lk/breaking_news/පක්ෂය-කඩන්නේ-නෑ--රාජපක්ෂලා⁣ට-විරැද්ධ-නෑ--රනිල්ගේ-ගොට්ටෙක්-වෙන්නෙත්-නෑ/11-407887) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට නැවත අවස්ථාවක් ලබා දිය යුතු බවට තමන් කළ ප්‍රකාශය හේතුවෙන් තමන් රනිල් වික්‍රමසිංහ මහතාගේ ගොට්ටෙකු බවටත්, පක්ෂය කැඩීමට සූදානම් වන බවටත්, රාජපක්ෂලාට විරුද්ධ බවටත් ඇතැමුන් කරන චෝදනා දැඩි ලෙස ප්‍රතික්ෂේප කරන බව ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+Chief Government Whip Prasanna Ranatunga, Minister of Urban Development and HousingMr. said Mr. said.
 
-ඔහු අවධාරණය කරන්නේ මේ මොහොතේ රනිල් හැර රටට වෙන විකල්පයක් නොමැති නිසා තමන් රනිල් වික්‍රමසිංහ මහතා වෙනුවෙන් පෙනී සිටින බවයි. තම හෘද සාක්ෂියට අනුව සිදු කරන්නක් බවද ඇමතිවරයා පෙන්වා දෙයි.
+He emphasizes that he is speaking to Mr. Ranil Wickremesinghe as there is no alternative other than Ranil. The Minister pointed out that it is done according to his conscience.
 
-එය කිසිසේතම පක්ෂයට හෝ රාජපක්ෂලාට එරෙහි වීමක් නොවන බව අවධාරණය කරන ඇමතිවරයා තමන් මේ ප්‍රකාශය කරන්නේ රට ගැන සිතා බවද කියයි.
+The Minister emphasizes that it is not an opposed to the party or the Rajapaksas are not against the Rajapaksas.
 
-ඇමති ප්‍රසන්න රණතුංග මහතා මේ බව සඳහන් කළේ ඊයේ (03) කටාන සහ දිවුලපිටිය හිටපු පළාත් පාලන නියෝජිතයන් සමඟ සාකච්ඡාවකට එක්වෙමිණි. ඉදිරි දේශපාලන කටයුතු පිළිබඳව සාකච්ඡා කිරීම සඳහා මෙය කැඳවා තිබූ අතර ඇමතිවරයාගේ උඩුගම්පල කාර්යාලයේදී එය පැවැත්විණි.
+Minister Prasanna Ranatunga was speaking at a discussion with the Katana and Divulapitiya former local government representatives yesterday. This was called to discuss the future and it was held at the Minister's Udugampala office.
+
+All local government representatives of Katana and Divulapitiya were also present at the discussion.
+
+During the discussion, the minister urged the local government representatives to propose if there is alternative to the presidential election. All of them said there was no such option.
 
 ...
 
 [Data](articles/ff12845e.json)
+
+[Extended Data](ext_articles/ff12845e.ext.json)
 
 ---
 
@@ -2015,21 +2039,5 @@ The great god of the Hindus is Lord Brahma and in ancient times the great book o
 [Data](articles/36d29e68.json)
 
 [Extended Data](ext_articles/36d29e68.ext.json)
-
----
-
-### Krishantha Cooray saved my life
-
-*2024-02-03 20:27:00* · [`islandlk`](http://island.lk/krishantha-cooray-saved-my-life/) · `en`
-
-Many have been my blessings over the past 15 years after a fresh lease of life afforded me in 2008. Spending quality time with my family including my grandchild more recently as well as attending spiritual retreats, with the latest ending on Australia Day long weekend, have been standouts.
-
-Retreats are a time to reflect on life and the mysterious workings of God in one’s life. It was definitely the mercy of God that afforded me a fresh lease of life after my abductors were hellbent on literally silencing me after torture. God works on earth through angelic as well as human beings through their acts of goodness – the essence of God. At Christmas, the angels announced, “Glory to God on high and peace to men of goodwill”. Hence, a good person irrespective of their faith is already inclined towards God.
-
-...
-
-[Data](articles/3f59c45f.json)
-
-[Extended Data](ext_articles/3f59c45f.ext.json)
 
 ---

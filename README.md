@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 01:49:30**
+As of **2024-02-05 02:02:39**
 
 ## Newspaper Stats
 
-*Scraped **4,792** Articles*
+*Scraped **4,797** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,15 +20,91 @@ virakesarilk | 546
 adaderanalk | 600
 tamilmirrorlk | 606
 adaderanasinhalalk | 610
-dailymirrorlk | 671
+dailymirrorlk | 676
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,790 (100.0%) of 4,792 articles have been extended.
+4,792 (99.9%) of 4,797 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-02-05 (Monday)
+
+### Police Action Alone is Insufficient to Combat Rising Crime - EDITORIAL
+
+*2024-02-05 00:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Police-Action-Alone-is-Insufficient-to-Combat-Rising-Crime-EDITORIAL/172-276325) · `en`
+
+Since 2021, there has been a serious uptick in the crime rate in our country. Statistics show criminal activity in our land has seen a dramatic rise since 2021. Data from the Police Department reveal there were 522 murders, 2,263 robberies and 6,813 house break-ins reported in 2021, while there were 183 murders, 948 robberies and 2,224 house break-ins in the first few months of 2022 alone.
+
+For the first time since the ethnic war ended, the country witnessed a mass killing, when the Ape Janabala Pakshaya leader, Saman Perera and four others travelling with him were ambushed and killed in the vicinity of a hotel near the Beliatta Interchange of the Southern Expressway.
+
+The gruesome killing of five individuals including the leader of a registered political party sent shock waves through the country.
+
+...
+
+[Data](articles/67a83182.json)
+
+---
+
+### Independence and Self-Sufficiency: Co-operation in Times of Crisis
+
+*2024-02-05 00:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Independence-and-Self-Sufficiency-Co-operation-in-Times-of-Crisis/172-276324) · `en`
+
+For close to a decade and a half I have been studying co-operatives, particularly as I was preoccupied with questions about the post-war reconstruction of Jaffna. As I watched the failure of development policies that prioritised building transport and urban infrastructure over rural livelihoods, supported the proliferation of financial institutions leading to indebtedness, and grand claims about the private sector generating employment that did not materialize, I became more and more involved with the co-operative movement. Drawing on the institutional memory of the co-operative movement and the vast network of co-operatives that survived the war, some of us began to see an alternative for social and economic revival of the still rural war-torn society in the North.
+
+...
+
+[Data](articles/74345147.json)
+
+---
+
+### Unlocking Independence and Freedom within Yourself
+
+*2024-02-05 00:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Unlocking-Independence-and-Freedom-within-Yourself/172-276323) · `en`
+
+True freedom cannot be bestowed by an external entity; it resides within you. Unleash it from within yourself
+
+The 76th ‘February 4th’ has passed, marked by four days of aerobatics, consuming considerable aviation fuel and time.
+
+The 76th ‘February 4th’ has passed, marked by four days of aerobatics, consuming considerable aviation fuel and time. This prompts questions about resource usage during such events. The primary question persists: why, after 76 years of independence, hasn’t this celebration translated into genuine freedom? To attain complete freedom for Sri Lankans, there is a need to fully implement the 13th Amendment or consider extending beyond its provisions.
+
+...
+
+[Data](articles/4189eb2d.json)
+
+---
+
+### Will ITAK New Chief, Sritharan put the Tamil Movement on a Radical Path?
+
+*2024-02-05 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Will-ITAK-New-Chief-Sritharan-put-the-Tamil-Movement-on-a-Radical-Path/172-276322) · `en`
+
+Although Jaffna district Member of Parliament, Sivagnanam Sritharan had told the media on what principles he would lead the struggle for the political rights of the Tamil people after being elected as the leader of the Ilankai Tamil Arasu Kachchi (ITAK) – popularly known as the Federal Party – it was expected that he would officially explain his policies after assuming office at the party’s convention that was to be held in Trincomalee last Sunday.
+
+However, the convention was postponed indefinitely due to controversies surrounding selections for other posts, including the post of the General Secretary of the party. So the new leader was unable to deliver that important speech.
+
+After the election of Sritharan by the party’s General Council in a secret ballot at Trincomalee Town Hall on 21 January, the other contender, Member of Parliament, M.A. Sumanthiran had publicly announced that he would cooperate with the new leader.
+
+...
+
+[Data](articles/558bae56.json)
+
+---
+
+### Dialog Television celebrates Independence weekend by offering access to the full bouquet of channels without any additional charge
+
+*2024-02-05 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Dialog-Television-celebrates-Independence-weekend-by-offering-access-to-the-full-bouquet-of-channels-without-any-additional-charge/172-276321) · `en`
+
+Sri Lanka’s #1 Pay-TV service provider, Dialog Television, has announced access to its extensive array of channels at no additional charge to all viewers from 2nd - 5th February 2024, targeting the Independence weekend. Viewers together with the whole family can enjoy over 120 local and international channels, including 18 in High Definition, broadcasting everything from the best in sporting action and latest in global entertainment, to premier educational and edutainment channels for kids, and up-to-date news channels from around the world.
+
+Dialog Television customers will also be delighted to know that the offer is just in time for some of the most exciting entertainment fixtures on the 2024 calendar including the test match of Afghanistan Tour of Sri Lanka 2024 on Ten Cricket (ch. 65) and Sony Sports Ten 5 HD (ch. 124), round one of Six Nations on Premier Sports (ch. 125), the Grammys on HITS NOW (ch. 114) .
+
+...
+
+[Data](articles/d2e0e781.json)
+
+---
 
 ### 2024-02-04 (Sunday)
 
@@ -426,6 +502,8 @@ The collapse of the rule of law can be illustrated by three examples.
 
 [Data](articles/56065451.json)
 
+[Extended Data](ext_articles/56065451.ext.json)
+
 ---
 
 ### Anura Kumara to leave for India tomorrow on official invitation
@@ -457,6 +535,8 @@ Two of his catastrophic decisions were giving a tax to the tune of around Rs 600
 ...
 
 [Data](articles/7a5703cd.json)
+
+[Extended Data](ext_articles/7a5703cd.ext.json)
 
 ---
 
@@ -1845,97 +1925,5 @@ He said that the purpose of the attack is to reduce tension in the Red Sea and t
 [Data](articles/3a6c7a7f.json)
 
 [Extended Data](ext_articles/3a6c7a7f.ext.json)
-
----
-
-### Kasun Rajitha instead of Charmic
-
-*2024-02-04 12:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192959) · `si`
-
-Today is the third day of Sri Lanka - Afghanistan Test series.
-
-The Sri Lankan team has approved the appointment of Chamaik Gunasekera who left the floor due to the ballship with the ball.
-
-According to the Sri Lanka Cricket, Sri Lanka Cricket announced that fast bowler cars called Rajitha.
-
-◼️
-
-[Data](articles/73dc8f57.json)
-
-[Extended Data](ext_articles/73dc8f57.ext.json)
-
----
-
-### 2024 The first phase of the school starts on the 19th
-
-*2024-02-04 12:27:06* · [`adalk`](https://www.ada.lk/breaking_news/2024-පාසල්-වාරයේ-පළමු-අදියර-19දා-සිට-ඇරඹෙයි/11-407889) · `si`
-
-The second phase of the Third Phase 3 of the 2023 school year of the government and the government approved will commence tomorrow (5).
-
-The phase of the stage was to be started on the first day, but it had to be postponed until the Department of Examinations had taken place on the two A / L students.
-
-The second phase of this second phase will be completed on the 5 schools, the Ministry of Education said.
-
-The first phase of the first stage of the year 2024 in all schools will commence from February 19, the Ministry of Education says that it will be held from February 19 and March 10 in Sinhala and Tamil schools.
-
-◼️
-
-[Data](articles/f49bc427.json)
-
-[Extended Data](ext_articles/f49bc427.ext.json)
-
----
-
-### Army promotes 211 officers, 1,239 other ranks on Independence Day
-
-*2024-02-04 12:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Army-promotes-211-officers-1-239-other-ranks-on-Independence-Day/108-276298) · `en`
-
-Colombo, Feb 04 (Daily Mirror) -  A total of 211 officers of the Sri Lanka Army (Regular and Volunteer Force) and 1,239 Other Ranks of the Army (Regular Force and Volunteer Force) have been promoted to their next respective ranks in view of the 76th Independence Day (04 February 2024).
-
-The Sri Lanka Army said the promotions were made by President Ranil Wickremesinghe, Commander-in-Chief of the Armed Forces, on the recommendation of the Ministry of Defence and Army Commander Lieutenant General Vikum Liyanage.
-
-Accordingly, 02 Brigadiers to the rank of Major General, 12 Colonels to the rank of Brigadier, 13 Lieutenant Colonels to the rank of Colonel, 17 Majors to the rank of Lieutenant Colonel, 29 Captains to the rank of Major (Including Quartermasters), 13 Lieutenants to the rank of Captain (Including Quartermasters) and 125 Second Lieutenants to the rank of Lieutenant (Regular Force & Volunteer Force) have been thus promoted in the officers' category.
-
-...
-
-[Data](articles/01736c1c.json)
-
-[Extended Data](ext_articles/01736c1c.ext.json)
-
----
-
-### Kandy Hospital team transplants woman’s severed hand
-
-*2024-02-04 12:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kandy-Hospital-team-transplants-womans-severed-hand/108-276297) · `en`
-
-Kandy, Feb 04 (Daily Mirror) -  A team led by Dr. Amila Sasanka Ratnayake, a specialist surgeon at the National Hospital, Kandy successfully transplanted the right arm of a thirty-five-year-old woman from Anuradhapura.
-
-The patient had faced the mishap while cleaning a coir grinding machine, resulting in the separation of her right hand from below the elbow.
-
-The complex six-hour operation, carried out at the Kandy Hospital, involved a team of medical professionals, including plastic surgeon Dr. Udaya Kiridena, plastic surgeon Chamila Jayaratne, orthopedic surgeon Dr. Satira Premaratne, senior registrar Udara Ratnayake, anesthetist Dr. Uduwela, and Dr. Kasun and Dr. Senaka.
-
-◼️
-
-[Data](articles/4d142b79.json)
-
-[Extended Data](ext_articles/4d142b79.ext.json)
-
----
-
-### Kandy Hospital team replants woman’s severed hand
-
-*2024-02-04 12:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kandy-Hospital-team-replants-womans-severed-hand/108-276297) · `en`
-
-Kandy, Feb 04 (Daily Mirror) -  A team led by Dr. Amila Sasanka Ratnayake, a specialist surgeon at the National Hospital, Kandy successfully replanted the right arm of a thirty-five-year-old woman from Anuradhapura.
-
-The patient had faced the mishap while cleaning a coir grinding machine, resulting in the separation of her right hand from below the elbow.
-
-The complex six-hour operation, carried out at the Kandy Hospital, involved a team of medical professionals, including plastic surgeon Dr. Udaya Kiridena, plastic surgeon Chamila Jayaratne, orthopedic surgeon Dr. Satira Premaratne, senior registrar Udara Ratnayake, anesthetist Dr. Uduwela, and Dr. Kasun and Dr. Senaka.
-
-◼️
-
-[Data](articles/647073c1.json)
-
-[Extended Data](ext_articles/647073c1.ext.json)
 
 ---

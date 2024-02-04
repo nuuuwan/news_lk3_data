@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 17:02:21**
+As of **2024-02-04 17:17:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 660
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,721 (100.0%) of 4,722 articles have been extended.
+4,722 (100.0%) of 4,722 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1272,23 +1272,29 @@ Chew faced the hearing in the US Senate alongside CEOs from Meta, X and other so
 
 ---
 
-### උතුරේ හා නැගෙනහිර 'කළු නිදහස් දින' විරෝධතා වලට බාධා; යාපනය විශ්වවිද්‍යාල සිසුන් හතරක් අත්අඩංගුවට
+### Interrupting protests in the North and EastFour University students arrested
 
 *2024-02-04 09:16:58* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cyx7w51rlgro) · `si`
 
-උතුරේ හා නැගෙනහිර 'කළු නිදහස් දින' විරෝධතා වලට බාධා; යාපනය විශ්වවිද්‍යාල සිසුන් හතරක් අත්අඩංගුවට
+Interrupting protests in the North and EastFour University students arrested
 
-කිලිනොච්චියේ පැවැත් වූ  විරෝධතාවයක් වෙනුවෙන් එක්වු යාපනය විශ්වවිද්‍යාල සිසුන් සිව්දෙනෙකු අද(04) අත්අඩංගුවට ගත් බව කිලිනොච්චිය පොලිසිය පවසයි.
+Four Jaffna university students who joined a protest in Kilinochchi have been arrested today (04).
 
-උතුර හා නැගෙනහිර ජනතාවගේ ගැටළු වෙනුවෙන් ස්ථිර නිදහසක් නොලැබීම,මාධ්‍ය නිදහසට බාධා කිරීම,අදහස් ප්‍රකාශ කිරීමේ නිදහසට බාධා ඇතිවන පනත් සම්මත කර ගැනීම හා වර්තමානයේ ජනතාවට දරා ගැනීමට නොහැකි ගැටළු වෙනුවෙන් විසදුම් නොලැබීම යන කාරණා හේතුවෙන් නිදහස් දිනය සැමරීමට නොහැකි තත්වයක් උදාවි ඇති බව සඳහන් කරමින් යාපනය විශ්වවිද්‍යාල සිසුන්,අතුරුදහන්වූවන්ගේ ඥාතීන් හා සිවිල් සංවිධාන එක්ව අද(04) කිලිනොච්චිය නගරයේදී 'කළු නිදහස් දින' සැමරුම නමින් විරෝධතාවයක නිරත විණ.
+Jaffna Universities will not be able to celebrate the Independence Day to interfere with the issues of the North and East.Students, relatives of the disappeared and civil organizations jointly protest against the 'Black Independence Day' in Kilinochchi today (04).
 
-යාපනය නුවර ප්‍රධාන මාර්ගය අවහිර කරමින් විරෝධතාවය පැවැත් වූ අතර විරෝධතාකරුවන් විසුරුවා හැරීමට පොලිසිය කටයුතු කිරීමට උත්සාහ කිරීමේදී නොසන්සුන්තාවයක් හට ගත්තේය.
+The Jaffna Kandy main road was blocked and protest and attempted to take action to dissolve the protesters.
 
-තත්වය පාලනය කිරීමට ජල ප්‍රහාරක බවුසර හා පොලිස් කැරලි මර්දන ඒකකයද කැඳවා තිබිණ.
+It was also called the police fighter bowsers and police curly prevention unit to control the situation.
+
+A group of political parties including the new leader of the Ilangai Tamil Arasu Kachchi Party for the protest program were also present.
+
+The Black Flags of Jaffna University had raised the university in the unclear situation that could celebrate a free day.
 
 ...
 
 [Data](articles/6954b52f.json)
+
+[Extended Data](ext_articles/6954b52f.ext.json)
 
 ---
 

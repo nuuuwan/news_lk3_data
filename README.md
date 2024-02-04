@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 09:17:21**
+As of **2024-02-04 09:32:56**
 
 ## Newspaper Stats
 
-*Scraped **4,642** Articles*
+*Scraped **4,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ islandlk | 254
 economynextcom | 254
 dailyftlk | 280
 newsfirstlk | 282
-adalk | 399
+adalk | 400
 virakesarilk | 518
-adaderanalk | 579
 adaderanasinhalalk | 581
+adaderanalk | 583
 tamilmirrorlk | 588
 dailymirrorlk | 646
 
@@ -26,11 +26,47 @@ dailymirrorlk | 646
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,642 (100.0%) of 4,642 articles have been extended.
+4,642 (99.9%) of 4,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### 76th Independence Day celebrations begin at Galle Face
+
+*2024-02-04 09:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/96987/76th-independence-day-celebrations-begin-at-galle-face) · `en`
+
+Sri Lanka’s 76th National Independence Day celebrations have kicked off at the Galle Face Green in Colombo on Sunday (04).
+
+The official ceremony commenced with the arrival of President Ranil Wickramasinghe.
+
+The Prime Minister of Thailand, Mr. Srettha Thavisin, is the chief guest of the Independence Day celebrations which is being held under the theme - ‘Let’s build a new country’.
+
+◼️
+
+[Data](articles/ded9b866.json)
+
+---
+
+### 76th Independence Day will be marked as a new turning point in Sri Lanka’s economy - PM
+
+*2024-02-04 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96986/76th-independence-day-will-be-marked-as-a-new-turning-point-in-sri-lankas-economy-pm) · `en`
+
+Prime Minister Dinesh Gunawardena says Sri Lanka is celebrating Independence Day at a time when the country is slowly returning to the right path of progress after facing an unprecedented economic crisis.
+
+“We are crossing those difficult hurdles by embarking on a number of measures towards food security, rural revitalization and a productive economy,” he said in his Independence Day message.
+
+He said the 76th National Independence Day will be marked as a new turning point in the economy in anticipation of overcoming challenges and building a prosperous country.
+
+“Let’s all move forward together for the development and progress of the country while preserving freedom,” he urged.
+
+Our ancestors created a proud history for us. As their children and grandchildren, we should bequeath it meaningfully to the next generation.
+
+...
+
+[Data](articles/2ee6ba23.json)
+
+---
 
 ### Handing over to those who were sleeping
 
@@ -54,6 +90,24 @@ As a result of the protest march from Kalladi Bridge to Gandhi Park in Batticalo
 
 ---
 
+### Imperative to obtain insights from past mistakes and avoid repetition – President
+
+*2024-02-04 08:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96985/imperative-to-obtain-insights-from-past-mistakes-and-avoid-repetition-president) · `en`
+
+In his Independence Day message, President Ranil Wickremesinghe invited all Sri Lankans, here and abroad, to contribute their utmost energy to the noble mission of rebuilding the nation.
+
+He said that achievements were realized progressively, owing to the steadfast support of the country’s citizens who endured hardships in keeping with a comprehensive, long-term national rebuilding programme.
+
+“Throughout this journey, challenges will gradually dissipate, life’s burdens will lighten, the economy will fortify and Mother Sri Lanka will undergo a renaissance,” he said.
+
+The President said that upon gaining independence in 1948, global expectations envisioned Sri Lanka evolving into a developed nation in the East, given its favourable background. “Regrettably, we deviated from this course and found ourselves grappling with economic difficulties,” he said.
+
+...
+
+[Data](articles/d2e6a833.json)
+
+---
+
 ### Man missing in Mahaweli River
 
 *2024-02-04 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192949) · `si`
@@ -71,6 +125,26 @@ Police and Navy's life officers are operating in search of the missing person.
 [Data](articles/00337357.json)
 
 [Extended Data](ext_articles/00337357.ext.json)
+
+---
+
+### Showers expected in parts of the country
+
+*2024-02-04 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/96984/showers-expected-in-parts-of-the-country) · `en`
+
+Showers will occur at times in Eastern and Uva provinces and in Polonnaruwa and Matale districts, according to the Meteorology Department.
+
+Several spells of showers may occur in Anuradhapura and Hambantota districts, it said.
+
+Showers or thundershowers will occur at several places in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts after 2.00 p.m.
+
+Misty conditions can be expected at some places in Central and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
+
+The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/6e17c4f1.json)
 
 ---
 
@@ -467,6 +541,24 @@ The suspect is a resident of Negombo and has been handed over to the Customs Rev
 [Data](articles/682494d2.json)
 
 [Extended Data](ext_articles/682494d2.ext.json)
+
+---
+
+### යාපනය සරසවි ශිෂ්‍ය සංගමය නිදහස් දින කළු දිනයක් ලෙස ප්‍රකාශ කරයි
+
+*2024-02-03 22:39:52* · [`adalk`](https://www.ada.lk/breaking_news/යාපනය-සරසවි-ශිෂ්‍ය-සංගමය-නිදහස්-දින-කළු-දිනයක්-ලෙස-ප්‍රකාශ-කරයි/11-407879) · `si`
+
+යාපනය විශ්වවිද්‍යාල ශිෂ්‍ය සංගමය ශ්‍රී ලංකාවෙ නිදහස් දිනය කළු දිනයක් ලෙස ප්‍රකාශ කර ඇති අතර එයට විරෝධය දක්වමින් සිවිල් සංවිධාන නියෝජිතයන් අධිකරණයට කරුණු දක්වා තිබේ.
+
+ශ්‍රී ලංකාවේ 76 වන නිදහස් දිනය අභිමානවත් ලෙස සැමරීමට සියළු කටයුුතු සූදානම් කර ඇති පසුබිමක මෙම දිනය වර්ජනය කරමින් කළු පැල්ලමක් එක් කරන්නට යම් කණ්ඩායම් කොටසක් මේ වන විට ක්‍රියාත්මක වෙමින් පවතී.
+
+මෙය දේශීය මෙන්ම විදේශීය වශයෙන්ද මෙරට අපකීර්තියට සහ අපහසුතාවයට පත්කිරීමේ උත්සාහයක් ලෙස සෘජුවම පෙන්වා දිය හැකි අතර මෙහි යටි අරමුණ දීර්ඝකාලීන බෙදුම්වාදයක නැවත මුලපිරීමක්දැයි මේ වන විට ගැටළුවක් මතුවෙමින් පවතී.
+
+යාපනය විශ්ව විද්‍යාලයේ ශිෂ්‍ය සංගමය විසින් පසුගිය ජනවාරි 26 වන දින මාධ්‍ය සාකච්ඡාවක් පැවැත්වූ අතර දෙමළ ප්‍රජාවගේ ඉල්ලීම් ඉටු නොකිරීමට විරෝධය පළ කරමින්  පෙබරවාරි 04 'කළු දිනයක්' (ශෝක දිනයක්) ලෙස ප්‍රකාශයට පත් කිරීම හා එදින වර්ජනය කරන ලෙස දැනුවත් කර ඇත.
+
+...
+
+[Data](articles/a8758481.json)
 
 ---
 
@@ -1136,13 +1228,13 @@ Keheliya Rambukwella had been arrested by the Criminal Investigation Department 
 
 *2024-02-03 17:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96975/keheliya-admitted-to-prison-hospital-) · `en`
 
-Former Health Minister Keheliya Rambukwella, who was put behind bars on remand earlier today, has been admitted to the Prisons Hospital on medical recommendation.
+Former Health Minister Keheliya Rambukwella, who was put behind bars on remand earlier today, has been admitted to the Prison Hospital on medical recommendation.
 
-The lawmaker, arrested on Friday (Feb.02) by the Criminal Investigation Department (CID), was remanded until 15 February on the orders of Maligakanda Magistrate Lochani Abeywickrama.
+The lawmaker, arrested on Friday (Feb.02) by the Criminal Investigation Department (CID), was remanded until February 15 on the orders of Maligakanda Magistrate Lochani Abeywickrama.
 
-He was also listed as the 8th suspect in the ongoing case on the substandard human immunoglobulin procurement.
+He was also listed as the 8th suspect in the ongoing case into substandard human immunoglobulin procurement.
 
-Prior to the apprehension of Rambukwella, seven arrests had been made connection with the drug procurement scam. But the fifth accused was later released on bail. As such, the former Health Secretary, the Director of the Health Ministry’s Medical Supplies Division (MSD) and three other officials of the same division, as well as the owner of the company, which is said to have supplied the substandard batch of immunoglobulin vials, now remain in custody on remand.
+Prior to the apprehension of Rambukwella, seven arrests had been made in connection with the drug procurement scam. But the fifth accused was later released on bail. As such, the former Health Secretary, the Director of the Health Ministry’s Medical Supplies Division (MSD) and three other officials of the same division, as well as the owner of the company, which is said to have supplied the substandard batch of immunoglobulin vials, now remain in custody on remand.
 
 ...
 
@@ -1662,7 +1754,7 @@ The Criminal Investigation Department (CID) arrested the lawmaker on Friday (Feb
 
 The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
 
-During today’s court proceedings, Rambukwella was also listed as the 8th suspect in the ongoing case on the substandard human immunoglobulin procurement.
+During today’s court proceedings, Rambukwella was also listed as the 8th suspect in the ongoing case on substandard human immunoglobulin procurement.
 
 ...
 
@@ -1873,123 +1965,5 @@ Additionally, witnessing the signing of the historic Sri Lanka - Thailand Free T
 [Data](articles/6ffe3618.json)
 
 [Extended Data](ext_articles/6ffe3618.ext.json)
-
----
-
-### Thai Prime Minister to visit Sri Lanka
-
-*2024-02-03 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192922) · `si`
-
-Thailand's Prime Minister is also the Chief Guest at the 76th Independence Day of Sri Lanka tomorrow.
-
-It is reported that the Sri Lanka - Thai and Jewelery Research and Training Institute and the Institute of MoU and the Thailand Menik and Jewelery Institute is to be signed in parallel to the Sri Lankan Prime Minister.
-
-Meanwhile, Thailand Prime Minister Sranditha Wikwaran tomorrow is due to the Dipupathararamaya Thai Maha Viharaya in Colombo tomorrow.
-
-◼️
-
-[Data](articles/bc062120.json)
-
-[Extended Data](ext_articles/bc062120.ext.json)
-
----
-
-### Over 750 prisoners to receive presidential pardon on 76th Independence Day
-
-*2024-02-03 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96969/over-750-prisoners-to-receive-presidential-pardon-on-76th-independence-day) · `en`
-
-Over 700 inmates detained at prisons across the island will be released on Sunday (Feb.04) in view of the 76th Independence Day of Sri Lanka, the Prisons Department said.
-
-Accordingly, a total of 754 prisoners including 25 female inmates are slated to receive a special presidential pardon.
-
-The special pardon is granted by virtue of the powers vested in the President under Article 34 of the Constitution, the Prisons Commissioner (Operation/ Intelligence) and Spokesman Gamini B. Dissanayake explained.
-
-◼️
-
-[Data](articles/dd57a2b7.json)
-
-[Extended Data](ext_articles/dd57a2b7.ext.json)
-
----
-
-### Investigation into abduction and assault suspects
-
-*2024-02-03 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192920) · `si`
-
-Embilipitiya - A resident of Kirippalawwawa has been abducted by a group of people from a van yesterday.
-
-Police said that the group had taken the young man to a jungle and was brutally attacked him with sharp weapons.
-
-They were violated and they were violated and released to the social media.
-
-The young man had been sent to his relatives to his relatives and told him Sudath Masinghe to see the scenes.
-
-Accordingly, the Kattigala Police and Embilipitiya Headquarters Police have commenced investigation and has gone to the forest area.
-
-The police said that the suspects had fled the area and was arrested.
-
-At the time, the hospital had been unease due to the health boycott.
-
-The victim was a 24 year old resident of Kirawwwawa area.
-
-The youth had intervened to resolve a confrontation of previous conflict, and this attack has been carried out on a dispute.
-
-Investigations are conducting further investigations to arrest the other suspects involved in the incident.
-
-◼️
-
-[Data](articles/fb37ca5f.json)
-
-[Extended Data](ext_articles/fb37ca5f.ext.json)
-
----
-
-### Cultivated Rs. 100,000
-
-*2024-02-03 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192919) · `si`
-
-Namal Karunaratne says that the government should take a sum of Rs.
-
-He was speaking at a press conference held in Ampara.
-
-Meanwhile, paddy cultivation has been affected in many parts of the Anuradhapura district due to a midwife.
-
-Almost all the farmland in the Anuradhapura district has been cultivated for the Maha season.
-
-There are several areas where the paddy cultivation was increased in the district.
-
-But due to a spread gathering these days, paddy cultivation in the area has been severely affected.
-
-The farmers of the area say that the largest affected sufferers have been affected by the dairy dwellers.
-
-Farmers are requested to take immediate action to prevent the cost of deception.
-
-Meanwhile, corn cultivation in the Mahaweli B Zone of Mahaweli B Zone has been destroyed due to heavy rains.
-
-Maize cultivars that have been saved due to the spread of maize cultivation.
-
-The farmers produce that maize cultivation of about 180 acres of land.
-
-...
-
-[Data](articles/e475579c.json)
-
-[Extended Data](ext_articles/e475579c.ext.json)
-
----
-
-### Nailspa celebrates their 20th anniversary
-
-*2024-02-03 12:46:00* · [`islandlk`](http://island.lk/nailspa-celebrates-their-20th-anniversary/) · `en`
-
-NailSpa celebrated its 20th anniversary, as pioneers in the nail industry recently. Twenty years ago, Nilanthi Genevieve Weerasinghe, founded NailSpa (Pvt) Ltd., and pioneered the opening of the very first stand-alone professional nail salon in Sri Lanka. Specializing in hand & feet treatments, her nail salon focused on nail extensions and nail art, and soon evolved into offering its fast-growing clientele extensive hand and feet treatments.
-
-The gala event of 20th anniversary was held at Grand Raffles Residence on 11th December with a host of distinguished guests gracing the occasion.
-
-...
-
-[Data](articles/afb70e8d.json)
-
-[Extended Data](ext_articles/afb70e8d.ext.json)
 
 ---

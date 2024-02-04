@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 16:47:30**
+As of **2024-02-04 17:02:21**
 
 ## Newspaper Stats
 
-*Scraped **4,721** Articles*
+*Scraped **4,722** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 55
-bbccomsinhala | 70
+bbccomsinhala | 71
 dbsjeyarajcom | 136
 islandlk | 254
 economynextcom | 256
@@ -26,7 +26,7 @@ dailymirrorlk | 660
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,721 (100.0%) of 4,721 articles have been extended.
+4,721 (100.0%) of 4,722 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -122,7 +122,7 @@ Five university students were taken into police custody during the protest for u
 
 The protesters claimed that there is no proper situation in the country to celebrate Independence Day due to various reasons such as restrictions to media freedom and enacting Acts restricting freedom of speech.
 
-Ilankai Thamil Arasu Kachchi leader S. Sridharan, Parliamentarian Charles Nirmalanathan and civil activists particpiated in this protest.
+Ilankai Thamil Arasu Kachchi leader S. Sridharan, Parliamentarian Charles Nirmalanathan and civil activists participated in this protest.
 
 ◼️
 
@@ -1272,6 +1272,26 @@ Chew faced the hearing in the US Senate alongside CEOs from Meta, X and other so
 
 ---
 
+### උතුරේ හා නැගෙනහිර 'කළු නිදහස් දින' විරෝධතා වලට බාධා; යාපනය විශ්වවිද්‍යාල සිසුන් හතරක් අත්අඩංගුවට
+
+*2024-02-04 09:16:58* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cyx7w51rlgro) · `si`
+
+උතුරේ හා නැගෙනහිර 'කළු නිදහස් දින' විරෝධතා වලට බාධා; යාපනය විශ්වවිද්‍යාල සිසුන් හතරක් අත්අඩංගුවට
+
+කිලිනොච්චියේ පැවැත් වූ  විරෝධතාවයක් වෙනුවෙන් එක්වු යාපනය විශ්වවිද්‍යාල සිසුන් සිව්දෙනෙකු අද(04) අත්අඩංගුවට ගත් බව කිලිනොච්චිය පොලිසිය පවසයි.
+
+උතුර හා නැගෙනහිර ජනතාවගේ ගැටළු වෙනුවෙන් ස්ථිර නිදහසක් නොලැබීම,මාධ්‍ය නිදහසට බාධා කිරීම,අදහස් ප්‍රකාශ කිරීමේ නිදහසට බාධා ඇතිවන පනත් සම්මත කර ගැනීම හා වර්තමානයේ ජනතාවට දරා ගැනීමට නොහැකි ගැටළු වෙනුවෙන් විසදුම් නොලැබීම යන කාරණා හේතුවෙන් නිදහස් දිනය සැමරීමට නොහැකි තත්වයක් උදාවි ඇති බව සඳහන් කරමින් යාපනය විශ්වවිද්‍යාල සිසුන්,අතුරුදහන්වූවන්ගේ ඥාතීන් හා සිවිල් සංවිධාන එක්ව අද(04) කිලිනොච්චිය නගරයේදී 'කළු නිදහස් දින' සැමරුම නමින් විරෝධතාවයක නිරත විණ.
+
+යාපනය නුවර ප්‍රධාන මාර්ගය අවහිර කරමින් විරෝධතාවය පැවැත් වූ අතර විරෝධතාකරුවන් විසුරුවා හැරීමට පොලිසිය කටයුතු කිරීමට උත්සාහ කිරීමේදී නොසන්සුන්තාවයක් හට ගත්තේය.
+
+තත්වය පාලනය කිරීමට ජල ප්‍රහාරක බවුසර හා පොලිස් කැරලි මර්දන ඒකකයද කැඳවා තිබිණ.
+
+...
+
+[Data](articles/6954b52f.json)
+
+---
+
 ### President Emphasizes on progressive approach in Independence Day message
 
 *2024-02-04 09:07:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/04/president-emphasizes-on-progressive-approach-in-independence-day-message/) · `en`
@@ -2015,25 +2035,5 @@ The suspect is a resident of Negombo and has been handed over to the Customs Rev
 [Data](articles/682494d2.json)
 
 [Extended Data](ext_articles/682494d2.ext.json)
-
----
-
-### Jaffna University Students Union declared to be released on Independence Day
-
-*2024-02-03 22:39:52* · [`adalk`](https://www.ada.lk/breaking_news/යාපනය-සරසවි-ශිෂ්‍ය-සංගමය-නිදහස්-දින-කළු-දිනයක්-ලෙස-ප්‍රකාශ-කරයි/11-407879) · `si`
-
-University Students Union has stated in Sri Lanka's Independence Day as a black date and protesting the civil organizations representatives have been made in court.
-
-A group of tea leaves is currently underway to add a black stain to the date of the 76th Independence Day to celebrate the 76th Independence Day.
-
-This can be directly pointed to the unique and embarrassment of Sri Lanka as an exciting and uncomfortable in Sri Lanka.
-
-The Jaffna University Students Union held a press conference on January 26 and anti-Shares 'Black Date' (a grief) and aware that the date of the Tamil community has been announced not to meet the demands of the Tamil community.
-
-...
-
-[Data](articles/a8758481.json)
-
-[Extended Data](ext_articles/a8758481.ext.json)
 
 ---

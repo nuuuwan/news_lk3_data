@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 06:56:42**
+As of **2024-02-04 07:17:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 643
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,612 (99.7%) of 4,624 articles have been extended.
+4,616 (99.8%) of 4,624 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,21 +46,25 @@ Minister of Trade, Commerce, and Food Security,  Nalin Fernando, represented Sr
 
 [Data](articles/7e64b262.json)
 
+[Extended Data](ext_articles/7e64b262.ext.json)
+
 ---
 
-### இன்று 76 ஆவது சுதந்திர தினம் கொண்டாட்டம்
+### Today is the 76th Independence Day Celebration
 
 *2024-02-04 03:52:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-76-ஆவது-சுதந்திர-தினம்-கொண்டாட்டம்/175-332607) · `ta`
 
-76 ஆவது சுதந்திர தின விழாவை இன்று காலி முகத்திடலில் நடத்துவதற்கான அனைத்து ஏற்பாடுகளும் முன்னெடுக்கப்பட்டுள்ளன.
+All arrangements have been made to hold the 76th Independence Day in the Galle face today.
 
-இம்முறை சுதந்திர தின விழாவை பல்வேறு கலை நிகழ்வுகள் அலங்கரிக்கவுள்ளன. முப்படைகளின் அணிவகுப்புகளும் கோலாகலமாக இடம்பெறவுள்ளன.
+Various art events will be decorated this time. The parade of the armed forces will also be held.
 
-மரியாதை அணிவகுப்பிப்பில் இராணுவத்தை பிரதிநிதித்துவப்படுத்தி 3 ஆயிரத்து 461 பேர் கலந்துகொள்ளவுள்ளனர். (a)
+3 thousand 461 people will attend the army representing the army at the honor parade. (A)
 
 ◼️
 
 [Data](articles/5a5b2287.json)
+
+[Extended Data](ext_articles/5a5b2287.ext.json)
 
 ---
 
@@ -510,6 +514,8 @@ Retreats are a time to reflect on life and the mysterious workings of God in one
 
 [Data](articles/3f59c45f.json)
 
+[Extended Data](ext_articles/3f59c45f.ext.json)
+
 ---
 
 ### SJB to bring no-confidence motion against Speaker?
@@ -591,6 +597,8 @@ One morning in March 1952, Don Stephen Senanayake, Ceylon’s first Prime Minist
 ...
 
 [Data](articles/b7e082dd.json)
+
+[Extended Data](ext_articles/b7e082dd.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 19:32:34**
+As of **2024-02-04 19:49:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,763 (100.0%) of 4,764 articles have been extended.
+4,764 (100.0%) of 4,764 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -151,6 +151,8 @@ Born in 1941, Geingob was a prominent politician since before Namibia achieved i
 ...
 
 [Data](articles/e79cf89b.json)
+
+[Extended Data](ext_articles/e79cf89b.ext.json)
 
 ---
 

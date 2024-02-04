@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 12:02:15**
+As of **2024-02-04 12:17:13**
 
 ## Newspaper Stats
 
-*Scraped **4,669** Articles*
+*Scraped **4,673** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 254
 dailyftlk | 280
 newsfirstlk | 287
 adalk | 402
-virakesarilk | 521
+virakesarilk | 522
 adaderanalk | 585
-adaderanasinhalalk | 587
+adaderanasinhalalk | 590
 tamilmirrorlk | 590
 dailymirrorlk | 648
 
@@ -26,11 +26,73 @@ dailymirrorlk | 648
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,669 (100.0%) of 4,669 articles have been extended.
+4,669 (99.9%) of 4,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### ‍වාර්ෂික සුරාබදු බලපත්‍ර ගාස්තු යළි සංශෝධනය කෙරේ
+
+*2024-02-04 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192958) · `si`
+
+වාර්ෂික සුරාබදු බලපත්‍ර සඳහා අයකරනු ලබන ගාස්තු යළිත් වරක් සංශෝධනය කිරිමට මුදල් අමාත්‍යාංශය තීරණය කර තිබේ.
+
+පෙබරවාරි මස පළමු වන දින සිට ක්‍රියාත්මක වන පරිදි අදාළ සංශෝධනයන් සිදුකර ඇති බව මුදල් අමාත්‍යාංශය සඳහන් කරයි.
+
+සුරාබදු ආඥා පනතට අනුව ජනවාරි මස 12 වැනි දින සිට ක්‍රියාත්මක වන පරිදි සුරාබදු බලපත්‍ර ගාස්තුව සංශෝධනය කිරිමට මුදල් අමාත්‍යාංශය කටයුතු කර තිබේ.
+
+කෙසේ වෙතත් අදාළ සංශෝධනයන්වලට සුරාබදු බලපත්‍රලාභීන් විරෝධය පළ කිරිමත් සමඟ යළිත් වරක් වාර්ෂික සුරාබදු බලපත්‍ර ගාස්තු සංශෝධනය කිරිමට පියවර ගෙන ඇත.
+
+ඒ අනුව දෙකෝටි පනස් ලක්ෂයක් වූ වාර්ෂික ස්කාගාර බලපත්‍ර ගාස්තුව රුපියල් ලක්ෂ 20 දක්වා අඩුකර ඇති බව වාර්තා වේ.
+
+නව ගාස්තු සංශෝධනයට අනුව කර්මාන්ත ප්‍රවේශය සඳහා එක්වරක් පමණක් අයකරනු ලබන ගාස්තුව රුපියල් දෙකෝටි පනස් ලක්ෂයක් බව මුදල් අමාත්‍යාංශය පවසයි.
+
+පොල් රා බෝතල් කිරිම සඳහා මිලියන 10ක්ව පැවැති වාර්ෂික බලපත්‍ර ගාස්තුව ලක්ෂ 15 දක්වා අඩුකර ඇත.
+
+තල් රා බොතල්ගත කිරිමේ බලපත්‍ර ගාස්තුව නව සංශෝධනයට අනුව රුපියල් ලක්ෂ 05ක් බව මුදල් අමාත්‍යාංශය සඳහන් කරයි.
+
+...
+
+[Data](articles/a8730fea.json)
+
+---
+
+### මෙසී හොකොං යයි
+
+*2024-02-04 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192957) · `si`
+
+සුපිරි පාපන්දු ක්‍රීඩක ලියනොල් මෙසී සුහද පාපන්දු තරගයක් වෙනුවෙන් ඊයේ (03) හොංකොං වෙත පැමිණ තිබේ.
+
+ඉන්ටර් මියාමි පාපන්දු ක්‍රීඩා සමාජය සහ මේජර් ලීග් පාපන්දු සමාජයක් වන හොංකො ලෙවන් පාපන්දු සමාජය අතර තරගයක් අද දහවල් 01.30ට පැවැත්වීමට නියමිතයි.
+
+ඉන්ටර් මියාමි පාපන්දු  කණ්ඩායම එම තරගයට සහභාගි වන්නේ පෙබරවාරි 01 වැනි දා අල් නසාර් පාපන්දු කණ්ඩායම සමඟ පැවති තරගය පරාජය වීමෙන් අනතුරුව ය.
+
+එම තරගය ඉන්ටර් මියාමි පාපන්දු කණ්ඩායම ලකුණු 6 ට 0ක් ලෙස පරාජය විය.
+
+මේජර් ලීග් පාපන්දු සමාජයක් වන හොංකො ලෙවන් සමඟ අද තරගය පැවැත්වෙන්නේ එම පරාජයෙන් පසුවයි.
+
+◼️
+
+[Data](articles/501bab7e.json)
+
+---
+
+### බන්ධනාගාර තුළ තදබදය අවම කිරීම සඳහා වැඩපිළිවෙළක්
+
+*2024-02-04 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192956) · `si`
+
+වර්තමානයේ බන්ධනාගාර තුළ පවතින තදබදය අවම කිරීම සඳහා සිවිල් වැරදි සම්බන්ධ වැරදිකරුවන් වන සියලු දෙනා නිවාස අඩස්සියේ තැබීමේ වැඩපිළිවෙළක් මෙම වසරේ දී ක්‍රියාත්මක කරන බව අධිකරණ හා බන්ධනාගාර කටයුතු පිළිබඳ රාජ්‍ය අමාත්‍ය නීතිඥ අනුරාධ ජයරත්න මහතා පවසයි.
+
+මේ සඳහා නීති සකස් කිරීම සඳහා පත් කළ කමිටු වාර්තාව ලබා දීමෙන් පසු මේ වනවිට නීති කෙටුම්පත් අංශය මගින් අදාළ නීති සකස් කරමින් පවතින බවත් එම කටයුතු නිම වීමෙන් පසු එය පාර්ලිමේන්තුවට ඉදිරිපත් කර නීතියක් බවට පත් කිරීම මෙම වසරේ දී ම සිදු කරන බවත් ඔහු අවධාරණය කරයි.
+
+මෙම වැඩපිළිවෙළ ක්‍රියාත්මක කිරීමත් සමඟ ඇප පනත වැනි පනත් කිහිපයක් සංශෝධනය කිරීමට සිදු වන බව ද ඔහු සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/4366024d.json)
+
+---
 
 ### US, Britain wage strikes against Iran-linked Houthis in Yemen
 
@@ -51,6 +113,26 @@ Houthi military spokesperson Yahya Sarea said the U.S. strikes “will not pass 
 [Data](articles/96a56130.json)
 
 [Extended Data](ext_articles/96a56130.ext.json)
+
+---
+
+### நாட்டில் மேலும் 660 பேர் கைது
+
+*2024-02-04 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175503) · `ta`
+
+நாடு முழுவதும் முன்னெடுக்கப்பட்டு வரும் போதை ஒழிப்பு நோக்கிலான 'யுக்திய' நடவடிக்கையின் கீழ் இன்று (04) அதிகாலை 12.30 மணியுடன் நிறைவடைந்த 24 மணித்தியாலங்களில் 660 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+அவர்களில் 552 பேர் போதைப்பொருள் தொடர்பான குற்றச்சாட்டில் கைதாகியுள்ளனர். ஒருவர் புனர்வாழ்வு நிலையத்துக்கு அனுப்பி வைக்கப்பட்டுள்ளார்.
+
+மேலும், கைதானவர்களில் 108 பேர் பொலிஸாரால் வேறு சில குற்ற வழக்குகள் தொடர்பில் தேடப்படுவோர் பட்டியலில் உள்ளவர்கள் ஆவர்.
+
+அத்தோடு, பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவு மற்றும் பொலிஸ் விசேட பணியகத்தில் பதிவு செய்யப்பட்ட சந்தேக நபர்கள் பட்டியலில் உள்ள  3 பேரும் இதன்போது கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மேலும், இந்த சந்தேக நபர்களிடமிருந்து 152 கிராம் ஹெரோயின், 134 கிராம் ஐஸ், 4 கிலோ 150 கிராம் கஞ்சா, 775 கஞ்சா செடிகள், 192,826 போதை மாத்திரைகள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளதாக பொதுமக்கள் பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/e3c6a41f.json)
 
 ---
 
@@ -85,6 +167,32 @@ The Navy conducts regular patrols and operations in Sri Lankan waters to curb il
 [Data](articles/21dc4f72.json)
 
 [Extended Data](ext_articles/21dc4f72.ext.json)
+
+---
+
+### The proposed anti -terrorism bill may be used to brainize public protests as terrorism - Saliaberis in court
+
+*2024-02-04 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175501) · `ta`
+
+Attorneys have argued that the proposed anti -terrorism bill violates the fundamental rights
+
+They said this while hearing on petitions against the proposed anti -terrorism bill.
+
+Attorneys have pointed out that the proposed anti -terrorism law can be used to brush people's actions as terrorism as terrorism, including the government's policy, including protests and protests.
+
+The hearing on petitions against the Anti -Terrorism Bill ends on Friday - the court will send its decision to the Speaker.
+
+A group of five judges of the Supreme Court listened to the debate on the petitions this week.
+
+Attorney -at -Law Saliyaberis, who appeared on behalf of the President of the Sri Lanka Lawyers Association, said that the definition of terrorism is widespread.
+
+Pointing out how security and politicians abused Sri Lanka's security laws in the past, he said that the possibility of abuse of the new Bill was real.
+
+...
+
+[Data](articles/0f2769ec.json)
+
+[Extended Data](ext_articles/0f2769ec.ext.json)
 
 ---
 
@@ -129,32 +237,6 @@ Opposition Leader Sajith Premadasa made this observation at a ceremony of Gintot
 [Data](articles/a93d6904.json)
 
 [Extended Data](ext_articles/a93d6904.ext.json)
-
----
-
-### The proposed anti -terrorism bill may be used to brainize public protests as terrorism - Saliaberis in court
-
-*2024-02-04 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/175501) · `ta`
-
-Attorneys have argued that the proposed anti -terrorism bill violates the fundamental rights
-
-They said this while hearing on petitions against the proposed anti -terrorism bill.
-
-Attorneys have pointed out that the proposed anti -terrorism law can be used to brush people's actions as terrorism as terrorism, including the government's policy, including protests and protests.
-
-The hearing on petitions against the Anti -Terrorism Bill ends on Friday - the court will send its decision to the Speaker.
-
-A group of five judges of the Supreme Court listened to the debate on the petitions this week.
-
-Attorney -at -Law Saliyaberis, who appeared on behalf of the President of the Sri Lanka Lawyers Association, said that the definition of terrorism is widespread.
-
-Pointing out how security and politicians abused Sri Lanka's security laws in the past, he said that the possibility of abuse of the new Bill was real.
-
-...
-
-[Data](articles/0f2769ec.json)
-
-[Extended Data](ext_articles/0f2769ec.ext.json)
 
 ---
 
@@ -1935,87 +2017,5 @@ The Sri Lanka - Thailand signed the Free Trade Agreement, the Sri Lanka Gem and 
 [Data](articles/69d3c669.json)
 
 [Extended Data](ext_articles/69d3c669.ext.json)
-
----
-
-### Poonam Pandey says ’’Didn’t die of cervical cancer’’
-
-*2024-02-03 16:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Poonam-Pandey-says-Didnt-die-of-cervical-cancer/108-276283) · `en`
-
-India- Feb 03 - Pandey, model and reality TV star, today announced that she hasn't died of cervical cancer. Her announcement on Instagram came a day after the model's manager announced that she had died of cervical cancer.
-
-"I am alive. I didn't die of cervical cancer. Unfortunately, I cannot say the same about the hundreds and thousands of women who have lost their lives due to cervical cancer."
-
-"I am sorry caused this tear and I am sorry to those I have hurt. My intention: to shock everyone into the conversation that we are not talking enough about - cervical cancer," she said in another post.
-
-She said that her "death" post was an effort to initiate a conversation and spread awareness about cervical cancer.
-
-"Unlike some other cancers, Cervical Cancer is entirely preventable. The key lies in the HPV vaccine and early detection tests. We have the means to ensure no one loses their life to this disease," she said.
-
-...
-
-[Data](articles/783b8684.json)
-
-[Extended Data](ext_articles/783b8684.ext.json)
-
----
-
-### Sri Lanka - Thailand Free Trade Agreement signed
-
-*2024-02-03 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/96974/sri-lanka-thailand-free-trade-agreement-signed) · `en`
-
-The historic Sri Lanka - Thailand Free Trade Agreement (SLTFTA) has been signed, a short while ago at the Presidential Secretariat in the presence of Prime Minister of Thailand Srettha Thavisin and President Ranil Wickremesinghe.
-
-Thai PM Thavisin arrived on the island earlier today (Feb.03) for a 2-day visit, accompanied by a high-level delegation. He is also scheduled to grace the national ceremony to mark the 76th Anniversary of the Independence of Sri Lanka as Guest of Honour.
-
-The FTA is expected to bolster trade and investment ties between the two nations, and also promote deeper integration with the Asian economies.
-
-Negotiations for the free trade agreement between Sri Lanka and Thailand resumed in November 2023 after being put on hold for 4 years consequent to the Covid-19 pandemic and ongoing restructuring of Sri Lanka’s state-owned entities.
-
-...
-
-[Data](articles/4e307549.json)
-
-[Extended Data](ext_articles/4e307549.ext.json)
-
----
-
-### Sri Lanka, Thailand sign historic Free Trade Agreement
-
-*2024-02-03 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/96974/sri-lanka-thailand-sign-historic-free-trade-agreement) · `en`
-
-In Sri Lanka’s pursuit of transforming into a high-income country by 2048 involving trade negotiations with countries like Thailand, the Sri Lanka Thailand Free Trade Agreement (SLTFTA), was signed, during the visit of Thai Prime Minister Srettha Thavisin and his delegation of business dignitaries today (03) at the Presidential Secretariat.
-
-This move aims to enhance market opportunities, with negotiations covering various aspects such as Trade in Goods, Investment, Customs Procedure, and Intellectual Property Rights.
-
-Minister of Trade, Commerce, and Food Security, Mr. Nalin Fernando, represented Sri Lanka by signing the agreement, while Phumtham Wechayachai, Deputy Prime Minister and Minister of Commerce, represented Thailand by signing the accord.
-
-...
-
-[Data](articles/e7600526.json)
-
-[Extended Data](ext_articles/e7600526.ext.json)
-
----
-
-### Century from Mathews
-
-*2024-02-03 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192927) · `si`
-
-Angelo Mathews won the 16th Test century today (03).
-
-The Test match against the Afghan group was held with the Afghan group.
-
-Batting first innings Sri Lankan team scored 335 runs for the loss of 03 wickets.
-
-Angelo Mathews scored 105 runs and Dinesh Chandimal scored 90 runs.
-
-The Afghan group obtained only 198 marks for their first innings.
-
-◼️
-
-[Data](articles/f451d2ee.json)
-
-[Extended Data](ext_articles/f451d2ee.ext.json)
 
 ---

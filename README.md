@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 08:17:20**
+As of **2024-02-04 08:33:00**
 
 ## Newspaper Stats
 
-*Scraped **4,632** Articles*
+*Scraped **4,636** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 282
 adalk | 399
 virakesarilk | 518
-adaderanasinhalalk | 575
+adaderanasinhalalk | 579
 adaderanalk | 579
 tamilmirrorlk | 584
 dailymirrorlk | 646
@@ -26,11 +26,43 @@ dailymirrorlk | 646
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,629 (99.9%) of 4,632 articles have been extended.
+4,632 (99.9%) of 4,636 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### ටෙස්ට් තරගයේ තෙවැනි දිනය අදයි
+
+*2024-02-04 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192947) · `si`
+
+ඇෆ්ගනිස්තානය සහ ශ්‍රී ලංකාව අතර පැවැත්වෙන ටෙස්ට් ක්‍රිකට් තරගයේ තෙවැනි දිනය අද (04)යි.
+
+ඊයේ තරගය නතර කරන විට ශ්‍රී ලංකා කණ්ඩායම සිය පළමු ඉනිම සඳහා කඩුලු 06ක් පමණක් බිඳ වැටී ලකුණු 410ක් ලබා සිටියේ ය.
+
+ඇෆ්ගනිස්තාන කණ්ඩායම පළමු ඉනිම සඳහා සියලු දෙනා දැවී ලබා ගත්තේ, ලකුණු 198ක් පමණි.
+
+ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම පළමු ඉනිමේ දී ඇෆ්ගනිස්තානයට වඩා ලකුණු 212ක් ඉදිරියෙන් පසු වේ.
+
+◼️
+
+[Data](articles/fa183e50.json)
+
+---
+
+### 76 වැනි නිදහස් උත්සවය ඇරඹෙයි
+
+*2024-02-04 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192946) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සම්ප්‍රාප්තියත් සමඟ උත්සවයේ සෙසු කටයුතු ආරම්භ වීමට නියමිත ය.
+
+ගාලු මුවදොර පිටියේ දී උත්සවය පැවැත්වෙන අතර, එහි ප්‍රධාන ආරාධිත අමුත්තා ලෙස තායිලන්ත අග්‍රාමාත්‍ය ශ්‍රෙත්ථා තවිසින් මහතා සහභාගි වීමට නියමිතයි.
+
+◼️
+
+[Data](articles/bade7d93.json)
+
+---
 
 ### Google Doodle celebrates Sri Lanka’s Independence Day 2024
 
@@ -45,6 +77,30 @@ Google released the doodle marking this occasion that spans the region of Sri La
 ◼️
 
 [Data](articles/ef1bdde3.json)
+
+[Extended Data](ext_articles/ef1bdde3.ext.json)
+
+---
+
+### හූති ඉලක්ක වෙත ඒකාබද්ධ ප්‍රහාරයක්
+
+*2024-02-04 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192945) · `si`
+
+යේමනයේ හූති ඉලක්ක වෙත බ්‍රිතාන්‍යය සහ අමෙරිකාව ඒකාබද්ධ ප්‍රහාර මාලාවක් එල්ල කර තිබේ.
+
+පෙන්ටගනය නිවේදනය කළේ, යේමනයේ ස්ථාන 13ක හූති ඉලක්ක 36ක් වෙත ප්‍රහාර එල්ල කළ බවයි.
+
+අවි ගබඩා, මිසයිල පද්ධති, ගුවන් ආරක්ෂණ පද්ධති සහ රේඩාර් මධ්‍යස්ථාන ප්‍රහාරයේ ඉලක්ක වී ඇත.
+
+සිරියාවේ සහ ඉරාකයේ ත්‍රස්ත ඉලක්ක වෙත ප්‍රහාර එල්ල කිරීමෙන් පසු නැවතත් යේමනයට ප්‍රහාර එල්ල කිරීම විශේෂත්වයකි.
+
+අමෙරිකාවේ නවතම ප්‍රහාරයෙන් පසු හෙට (05) එක්සත් ජාතීන්ගේ ආරක්ෂක කවුන්සිලය හදිසි රැස්වීමක් කැදවීමට තීරණය කර තිබේ.
+
+රුසියාව සහ ඉරාන හිතවාදී සාමාජිකයන්ගේ ඉල්ලීම මත මෙම රැස්වීම කැඳවන බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/b94a5084.json)
 
 ---
 
@@ -70,6 +126,24 @@ The complaint was filed by Bibi's ex-husband, who said her marriage with Khan ha
 
 [Data](articles/1ad0fe7f.json)
 
+[Extended Data](ext_articles/1ad0fe7f.ext.json)
+
+---
+
+### 'උරුමය' වැඩසටහන ඇරඹෙයි
+
+*2024-02-04 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192944) · `si`
+
+රටේ ජනතාවගේ ඉඩම් අයිතිය ලබාදෙන 'උරුමය' ජාතික වැඩසටහන හෙට (05) සිට ආරම්භ කරන බව ඉඩම්, ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+
+අමාත්‍යවරයා ප්‍රකාශ කළේ, එහි ජාතික උත්සවය හෙට ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් රංගිරි දඹුලු ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ දී පැවැත්වෙන බවයි.
+
+හෙට ඉඩම් ඔප්පු දොළොස් දහසක් පමණ ප්‍රධානය කිරීමට නියමිත අතර, ලබන 15 වනදායින් පසුව පළාත් මට්ටමින් සහ දිස්ත්‍රික් මට්ටමින් ඉඩම් ඔප්පු ලබාදීමේ වැඩපිළිවෙළ ක්‍රියාත්මක කිරීමට රජය සැලසුම් කර ඇති බව අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/a22cccea.json)
+
 ---
 
 ### Keheliya Rambukwella admitted to prison hospital
@@ -85,6 +159,8 @@ Rambukwella, remanded until February 15, was produced before Maligakanda Magistr
 ◼️
 
 [Data](articles/33f9761c.json)
+
+[Extended Data](ext_articles/33f9761c.ext.json)
 
 ---
 
@@ -1915,79 +1991,5 @@ However, the private bus services are running out of the other CTB depots in the
 [Data](articles/e7e26114.json)
 
 [Extended Data](ext_articles/e7e26114.ext.json)
-
----
-
-### Special changes made to Coastal Line train schedule for Independence Day
-
-*2024-02-03 11:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96967/special-changes-made-to-coastal-line-train-schedule-for-independence-day-) · `en`
-
-The trains operating on the Coastal Line will not make stops at several major railway stations tomorrow (Feb. 04), the Department of Railways said.
-
-Accordingly, the trains on the Coastal Line will not stop at the Bambalapitiya, Kollupitiya and Secretariat Railway Stations from 05.00 a.m. to 09.00 a.m. tomorrow.
-
-The Department of Railways said that this decision was taken in order to ensure the safety of both local and foreign dignitaries participating in the Independence Day ceremony, as well as the armed forces and police personnel taking part in the parade.
-
-The 76th National Independence Day celebrations will be held at Galle Face Green in Colombo tomorrow in a dignified manner presided over by President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena. In the meantime, Prime Minister of Thailand Srettha Thavisin, is also scheduled to grace the event as the guest of honour, together with many other local and foreign delegations.
-
-◼️
-
-[Data](articles/970502bf.json)
-
-[Extended Data](ext_articles/970502bf.ext.json)
-
----
-
-### Kilinochchi
-
-*2024-02-03 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175438) · `ta`
-
-A safe haven near the Kilinochchi depot road has been closed, with the man who tried to cross the cross.
-
-The father of five children who tried to cross the crossing of a motorcycle in the accident has died.
-
-◼️
-
-[Data](articles/16ee09c8.json)
-
-[Extended Data](ext_articles/16ee09c8.ext.json)
-
----
-
-### Ranil Wickremesinghe is the only leader who can solve the economic problem - the UNP. President
-
-*2024-02-03 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175436) · `ta`
-
-If there is a political issue in the country, there are many leaders to solve it. But now there is an economic problem. UNP Vice President Akhilaviraj Kariyawasam said that Ranil Wickremesinghe could only solve it.
-
-The United National Party (UNP) and District Federation held at the Youth Service Council on Friday. He said this while addressing the gathering.
-
-The country is currently the economic problem. The country collapsed because it was unable to resolve it. Ranil Wickremesinghe has now taken steps to ensure that the economy of the country has been gradually stabilized as no one has come forward to build a country that has fallen economically.. So many people are now in charge of the country.
-
-...
-
-[Data](articles/31b125d1.json)
-
-[Extended Data](ext_articles/31b125d1.ext.json)
-
----
-
-### $ 150 million to ensure the stability of Sri Lanka's financial sector - World Bank
-
-*2024-02-03 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/175435) · `ta`
-
-The Sri Lankan government and the World Bank have signed an agreement for a $ 150 million financial assistance under the 'Financial Security Web Scheme' scheme to strengthen the Sri Lankan financial sector.
-
-The funding agreement has been signed in parallel with the implementation of the project contract between the World Bank and the Central Bank of Sri Lanka.
-
-The main goal of the project is to strengthen the Sri Lankan deposit security commitment to the Sri Lanka Deposit Insurance Scheme, which is administered by the Central Bank.
-
-The Central Bank is the agent of the Sri Lanka Deposit Insurance Scheme. Sri Lanka's Deposit Insurance Scheme was legally launched and named the Sri Lanka Deposit Insurance Scheme by the Banking (Special Arrangements) Act No. 17 of 2023.
-
-...
-
-[Data](articles/8235af5e.json)
-
-[Extended Data](ext_articles/8235af5e.ext.json)
 
 ---

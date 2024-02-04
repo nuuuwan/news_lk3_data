@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 03:02:16**
+As of **2024-02-05 03:17:07**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ dailymirrorlk | 676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,797 (100.0%) of 4,798 articles have been extended.
+4,798 (100.0%) of 4,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
 
-### நமீபியாவின் ஜனாதிபதி காலமானார்
+### Namibia's president has passed away
 
 *2024-02-05 01:29:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நமீபியாவின்-ஜனாதிபதி-காலமானார்/50-332671) · `ta`
 
-தலைநகர் வின்ட்ஹோக்கில் உள்ள மருத்துவமனையில் சிகிச்சை பெற்று வந்த நிலையில் அவர் காலமானார் என சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+International media reports that he passed away after being treated at a hospital in Windhok, the capital.
 
-அந்த நாட்டின் அரசியலமைப்பின் படி, ஹேஜ் ஜியிங்கோப்பின் பதவிக்காலம் நிறைவடைவதற்கு சுமார் ஒரு வருட காலம் உள்ளமையினால் உப ஜனாதிபதியாக இருந்த நாங்கோலோ பும்பா பதில் ஜனாதிபதியாக செயல்படுவார் என அறிவிக்கப்பட்டுள்ளது. (a)
+According to the Constitution of the country, it has been announced that Vice President Nankolo Bumba will act as president, as Hajj Gyingopp's term is over.. (A)
 
 ◼️
 
 [Data](articles/8f10108d.json)
+
+[Extended Data](ext_articles/8f10108d.ext.json)
 
 ---
 

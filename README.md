@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 21:17:27**
+As of **2024-02-04 21:32:56**
 
 ## Newspaper Stats
 
-*Scraped **4,767** Articles*
+*Scraped **4,775** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 55
+colombotelegraphcom | 57
 bbccomsinhala | 71
 dbsjeyarajcom | 136
 islandlk | 254
@@ -17,20 +17,96 @@ dailyftlk | 280
 newsfirstlk | 287
 adalk | 411
 virakesarilk | 546
-adaderanalk | 596
+adaderanalk | 597
 tamilmirrorlk | 605
 adaderanasinhalalk | 607
-dailymirrorlk | 663
+dailymirrorlk | 668
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,766 (100.0%) of 4,767 articles have been extended.
+4,767 (99.8%) of 4,775 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### Man arrested in India with 4.3kg of gold biscuits smuggled from Sri Lanka
+
+*2024-02-04 20:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97003/man-arrested-in-india-with-43kg-of-gold-biscuits-smuggled-from-sri-lanka) · `en`
+
+India’s Central Intelligence Unit (CIU) together with the Customs Preventive Commissionerate, Trichy, on Saturday (03 Feb.) arrested a man from Ramanathapuram in possession of seized 4.3kg of gold biscuits reportedly smuggled from Sri Lanka.
+
+The arrest was made based on a tip-off received by the CIU about an alleged gold-smuggling attempt, via sea, to Kunthukal near Rameswaram in the Ramanathapuram district.
+
+On enquiry, it was found that the man, identified as C Namburajan of Rameswaram, was in possession of 4.3kg of gold biscuits worth around INR 22 million (approximately over LKR 82 million).
+
+Accordingly, the suspect was arrested, while the consignment of gold and his motorcycle were seized. Further investigations into the incident are underway, Indian media reported.
+
+◼️
+
+[Data](articles/f5895f03.json)
+
+---
+
+### Japan Cricket Association receives ACC membership
+
+*2024-02-04 20:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japan-Cricket-Association-receives-ACC-membership/108-276314) · `en`
+
+Bali, Feb 04 ( Daily Mirror) - Japan Cricket Association (JCA ) has received the Asian Cricket Council (ACC )membership from Jay Shah- President of ACC in Bali, Indonesia during its AGM.
+
+Shammi Silva- Executive Board member  and Chairman of Finance and Marketing committee of ACC had a separate meeting with Alex-san and Ashley De Silva- CEO, SLC in attendance.
+
+They discussed a possible MoU between SLC and JCA for Japan 's development in Cricket .
+
+Priyantha Kariyapperuma - Special Adviser to JCA and Goodwill ambassador to develop cricket in Japan coordinated the meeting between JCA and SLC.
+
+◼️
+
+[Data](articles/88d4e3b2.json)
+
+---
+
+### Suspected ’Ava’ gang leader arrested in Mount Lavinia
+
+*2024-02-04 20:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspected-Ava-gang-leader-arrested-in-Mount-Lavinia/108-276313) · `en`
+
+Colombo, Feb 04 (Daily Mirror) -  The Walana Anti-Corruption Unit has arrested the suspected leader of the 'Ava' gang, involved in numerous crimes in Jaffna, during a raid in Mount Lavinia.
+
+The suspect was arrested while staying on the upper floor of a two-storey house in Mount Lavinia.
+
+Police believe the suspect may have been planning to flee the country.
+
+It was revealed that the suspect has a severe addiction to ice drugs and with 01 gram and 300 mg of the substance discovered in his possession at the time of arrest.
+
+◼️
+
+[Data](articles/1bf620e1.json)
+
+---
+
+### Afghanistan fightback reduces Sri Lanka’s lead to 42
+
+*2024-02-04 20:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Afghanistan-fightback-reduces-Sri-Lankas-lead-to-42/108-276312) · `en`
+
+Colombo, Feb 04 (AFP) - A maiden Test hundred by Ibrahim Zadran helped Afghanistan recover in the one-off Test against Sri Lanka in Colombo, as the tourists ended day three on 199 for one on Sunday.
+
+Afghanistan had to show fight in their second dig after being shot out for 198 in the first innings to concede a lead of 241.
+
+Ibrahim went past his previous best Test score of 87 and then completed his maiden Test hundred in the last over of the day with a single to covers, leaving him unbeaten on 101.
+
+The first was on 39 when Prabath Jayasuriya put down a tough return catch, and then again on 63 when Nishan Madushka at short mid-off dropped a catch off Jayasuriya's bowling.
+
+The wicket had flattened out but still the Afghan batters had to show application, and they put up a fine show as Sri Lanka struggled to find the breakthroughs.
+
+It was a disciplined effort by the bowlers and Jayasuriya was required to bowl long spells, sending down 32 overs but without picking up a wicket.
+
+...
+
+[Data](articles/1cbd3f8b.json)
+
+---
 
 ### Arrests
 
@@ -70,6 +146,8 @@ The controversial Bill garnered not only the attention of local activists and or
 
 [Data](articles/f38d6984.json)
 
+[Extended Data](ext_articles/f38d6984.ext.json)
+
 ---
 
 ### Mervyn takes a coffin to Borella cemetery
@@ -87,6 +165,20 @@ However, the protesters, including the security personnel, had entered the prote
 [Data](articles/eb91675a.json)
 
 [Extended Data](ext_articles/eb91675a.ext.json)
+
+---
+
+### Anura Kumara to leave for India tomorrow on official invitation
+
+*2024-02-04 19:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-Kumara-to-leave-for-India-tomorrow-on-official-invitation/108-276310) · `en`
+
+Colombo, Feb. 04 (Daily Mirror)- A group led by NPP leader Anura Kumara Dissanayake is to leave for India tomorrow on an official invitation by the Indian government, party sources said.
+
+Parliamentarian Vijitha Herath,  NPP Secretary Dr. Nihal Abeysinghe and National Executive Member Prof. Anil Jayantha will accompany the NPP leader.
+
+◼️
+
+[Data](articles/8b74e5de.json)
 
 ---
 
@@ -880,6 +972,36 @@ The comment was made just days after Parliamentarian Fonseka criticized Premadas
 
 ---
 
+### Yukuthiya & The Perils Of Overkill
+
+*2024-02-04 15:49:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/yukuthiya-the-perils-of-overkill/) · `en`
+
+The term overkill means “excessive, or more than necessary.” The current “Yukthiya” is an excellent example, but not the only one of several such, relating to recent happenings. A justifiable query is why such actions, so obviously necessary, possible and long overdue, have not already been executed. Is the inaction deliberate? Has it awaited this chance, to create an image of heroic efficiency? It could also suggest an awakening from a long slumber, now mixed with an element of theatre.
+
+There are several instances of the use of overkill to guarantee failure. There have also been examples where this “all or nothing” approach has created drastic ill-effects.
+
+...
+
+[Data](articles/b1de804c.json)
+
+---
+
+### Of Elections, Bond Scams & Money Politics: The Anatomy Of Default @75
+
+*2024-02-04 15:43:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/of-elections-bond-scams-money-politics-the-anatomy-of-default-75/) · `en`
+
+With the wisdom of hindsight, the Root Causes of Sri Lanka’s first Sovereign Default, staged three years ago on the eve of 75 years of ‘Independence’ from the British Raj are clearly discernible.
+
+Back in March 2021 when the default happened there was too much Aragalaya hype and confusion to discern the deep structures, transnational financial networks, and vested interests (including members of the Lankan Diaspora) embedded in the debt pile up:
+
+Amid protests at soaring cost of living, the claim was that Sri Lanka, South Asia’s wealthiest country with the best human and social development indicators in the region was “bankrupt” because it lacked exorbitantly privileged US dollars to buy food and fuel. This was after the shadowy off-shore Hamilton Reserve Bank had filed a case in the New York courts against the country for non-payment of a small amount of interest owned.
+
+...
+
+[Data](articles/ce737579.json)
+
+---
+
 ### Colombo roads closed from tomorrow to March 11
 
 *2024-02-04 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192964) · `si`
@@ -1281,6 +1403,24 @@ Sri Lanka posted a total of 439 all out in their first innings in response to Af
 [Data](articles/a6cef746.json)
 
 [Extended Data](ext_articles/a6cef746.ext.json)
+
+---
+
+### SJB to take disciplinary action against SF?
+
+*2024-02-04 12:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SJB-to-take-disciplinary-action-against-SF/155-276299) · `en`
+
+Taking an offensive stance against Field Marshal Sarath Fonseka, Leader of the Opposition and Samagi Jana Balawegaya (SJB) leader Sajith Premadasa said he will not hesitate to take displinary action against those who criticise decisions taken by him and his party.
+
+This offensive remark by Premadasa came just a few days after MP Fonseka criticised the decision made by Premadasa to appoint former Army Commander, General (Retired) Daya Ratnayake as Senior Advisor to the SJB.
+
+"No one should call me and tell me whom I should give party membership to. I will ignore such people who try to advice me. I will not hesitate to take bold decisions to take disciplinary action against those who criticize the party," Sajith Premadasa told a gathering in Galle over the weekend.
+
+"It is the duty of SJB members to safeguard the party and see that it emerges victorious at future elections. Those who cannot carry out that duty should get out," he added.
+
+...
+
+[Data](articles/7a1cee94.json)
 
 ---
 
@@ -1817,175 +1957,5 @@ The resident of the house has been arrested by the Matale Police on suspicion of
 [Data](articles/98fc52c5.json)
 
 [Extended Data](ext_articles/98fc52c5.ext.json)
-
----
-
-### The proposed anti -terrorism bill may be used to brainize public protests as terrorism - Saliaberis in court
-
-*2024-02-04 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175501) · `ta`
-
-Attorneys have argued that the proposed anti -terrorism bill violates the fundamental rights
-
-They said this while hearing on petitions against the proposed anti -terrorism bill.
-
-Attorneys have pointed out that the proposed anti -terrorism law can be used to brush people's actions as terrorism as terrorism, including the government's policy, including protests and protests.
-
-The hearing on petitions against the Anti -Terrorism Bill ends on Friday - the court will send its decision to the Speaker.
-
-A group of five judges of the Supreme Court listened to the debate on the petitions this week.
-
-Attorney -at -Law Saliyaberis, who appeared on behalf of the President of the Sri Lanka Lawyers Association, said that the definition of terrorism is widespread.
-
-Pointing out how security and politicians abused Sri Lanka's security laws in the past, he said that the possibility of abuse of the new Bill was real.
-
-...
-
-[Data](articles/0f2769ec.json)
-
-[Extended Data](ext_articles/0f2769ec.ext.json)
-
----
-
-### Another 660 suspects arrested
-
-*2024-02-04 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192954) · `si`
-
-660 suspects have been arrested in the 24-hour operations island wide during the 24 hours ended at the operation of justice.
-
-The Ministry of People said that 552 suspects were arrested in the list of drug misconduct and the list of criminal sections.
-
-The security forces have taken 152 grams of heroin, including 134 grams of ice.
-
-Out of the 552 arrested suspects, 552 arrested suspects have been rehabilitated for rehabilitation of drug addicts.
-
-There were also arrested three suspects in the Police Narcotics Bureau and the Police Special Bureau.
-
-Police said that among the 108 suspects arrested on the list of the criminal sections, there are eight suspects who were invited in drug wrong and 95 open warrants on non-drug errors.
-
-Two suspects and three suspects who were not arrested in the media and three suspects were arrested in operations.
-
-◼️
-
-[Data](articles/edff3be5.json)
-
-[Extended Data](ext_articles/edff3be5.ext.json)
-
----
-
-### Imagine justice for younger medicine fraud
-
-*2024-02-04 10:50:13* · [`adalk`](https://www.ada.lk/breaking_news/බාල-බෙහෙත්-වංචාවට-යුක්තිය-ඉටුවේවි-කිය-සිතනවා/11-407884) · `si`
-
-The Opposition Leader said that the former Health Minister arrested and remanded due to massive frauds in the health sector and remanded in this methodology.
-
-Leader of the Opposition Sajith Premadasa has been blinded due to favorable medicine in the bankruptcy in the bankruptcy in bankruptcyHe said.
-
-Opposition Leader Sajith Premadasa made this observation at a ceremony of Gintota Maha Vidyalaya in Galle under the 81st Phase of the Sakwa IT Program.
-
-◼️
-
-[Data](articles/a93d6904.json)
-
-[Extended Data](ext_articles/a93d6904.ext.json)
-
----
-
-### Navy arrests 23 Indian fishermen in two poaching trawlers in Sri Lankan waters
-
-*2024-02-04 10:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Navy-arrests-23-Indian-fishermen-in-two-poaching-trawlers-in-Sri-Lankan-waters/108-276296) · `en`
-
-Jaffna, Feb 04 (Daily Mirror) - The Sri Lanka Navy arrested 23 Indian fishermen in two Indian trawlers while poaching on the northern waters of Sri Lanka, off the Delft Island in Jaffna.
-
-The Navy conducts regular patrols and operations on Sri Lankan waters to curb illegal fishing practices by foreign fishing trawlers, taking into account the consequences of these practices on the livelihood of local fishermen.
-
-In continuation of these efforts, the Northern Naval Command deployed Fast Attack Craft of the Navy and Sri Lanka Coast Guard to chase away a cluster of Indian poaching trawlers, as they were detected engaging in illegal fishing in Sri Lankan waters on 03 February. In this operation, naval personnel held 02 Indian poaching trawlers with 23 Indian fishermen who continued to remain within island's waters off the Delft Island.
-
-...
-
-[Data](articles/18673ab3.json)
-
-[Extended Data](ext_articles/18673ab3.ext.json)
-
----
-
-### Opens Dambulla tomorrow
-
-*2024-02-04 10:40:41* · [`adalk`](https://www.ada.lk/sports/නවීකරණය-කළ-දඹුල්ල-හෙට-විවෘත-කරයි/9-407883) · `si`
-
-Sports Minister Harin Fernando said that the Rangiri Dambulla International Cricket Stadium back to sports and providing land title deeds for two million people launched at Rangiri Dambulla International Cricket Stadium.
-
-Accordingly, the proof of land offered by President Ranil Wickremesinghe will be provided with twelve thousand land deeds, starting the new electrical network and starting the newly built swimming pool in the Rangiri Dambulla International Cricket Stadium.The Minister said that it is deadly.
-
-The Minister said that the new program had been named in the heritage of the country when the people of the country had lost her land and had no right to no right in the future.
-
-Accordingly, all the necessary steps have been taken to issue all lands title deeds in the island following the fifteen day.
-
-He also said that MPs representing the parliamentary representatives to attend the event, but the opposition is not confident about participating in the road.
-
-...
-
-[Data](articles/17d37d1f.json)
-
-[Extended Data](ext_articles/17d37d1f.ext.json)
-
----
-
-### Sri Lanka inching forward on 76th independence as people backed difficult program: President
-
-*2024-02-04 10:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-inching-forward-on-76th-independence-as-people-backed-difficult-program-president-149804/) · `en`
-
-ECONOMYNEXT – Sri Lanka is inching forward from bankruptcy because people backed a program to stabilize the country amid great hardships, President Ranil Wickremesinghe said in his independence day message.
-
-When Sri Lanka marked the 75th day of independence last year the country was labelled bankrupt.
-
-“Undergoing various hardships, becuase the majority of the people supported a long term program to rebuild country we are now inching forward,” President Ranil Wickremesinghe said.
-
-“If we go in this road, the difficulties will fade away. The cost of living will become lighter. Economy will become stronger. Mother Sri Lanka will flower.”
-
-Sri Lanka defaulted in 2022 after the most aggressive growth by printing money (macro-economic policy) ever deployed macro-economists in the country in the history of the central bank which was set up in 1950.
-
-...
-
-[Data](articles/fb87b9cb.json)
-
-[Extended Data](ext_articles/fb87b9cb.ext.json)
-
----
-
-### Operation ‘Yukthiya’: 660 more suspects arrested
-
-*2024-02-04 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96988/operation-yukthiya-660-more-suspects-arrested) · `en`
-
-A total of 660 more suspects have been arrested by the security forces personnel within a 24-hour window ending at 12.30 a.m. today (04 Feb.) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-Among the arrestees are 552 suspects who were taken into custody on narcotics-related charges, of whom one was sent for rehabilitation, while the 108 others were on the list of wanted criminal suspects.
-
-Additionally, three suspects who were on the list of registered suspects of the Police Narcotics Bureau and the Police Special Task Force have also been arrested during the special operation.
-
-According to the Ministry of Public Security, the narcotics taken into custody during this 24-hour window include 152g of heroin, 134g of crystal methamphetamine (Ice), 04kg 150g of cannabis, 775 cannabis plants and 192,826 narcotic pills.
-
-◼️
-
-[Data](articles/b5c5adce.json)
-
-[Extended Data](ext_articles/b5c5adce.ext.json)
-
----
-
-### The national anthem was also played in the Tamil language
-
-*2024-02-04 10:38:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-மொழியிலும்-தேசியக்கீதம்-இசைக்கப்பட்டது/175-332618) · `ta`
-
-The main event of Sri Lanka's 76th Independence Day was held on Sunday (4) at the Galle Face, headed by President and Commander of the Armed Forces Ranil Wickremesinghe.
-
-To begin the event, the national anthem was played by schoolchildren in Sinhala. After the main events, the national anthem was played in the Tamil language at the conclusion of the event.
-
-It is noteworthy that in the past, there has been a lot of criticism of the national anthem in the Tamil language and the lack of music.
-
-◼️
-
-[Data](articles/63470ef2.json)
-
-[Extended Data](ext_articles/63470ef2.ext.json)
 
 ---

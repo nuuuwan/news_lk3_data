@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 02:47:47**
+As of **2024-02-05 03:02:16**
 
 ## Newspaper Stats
 
-*Scraped **4,797** Articles*
+*Scraped **4,798** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 288
 adalk | 414
 virakesarilk | 546
 adaderanalk | 600
-tamilmirrorlk | 606
+tamilmirrorlk | 607
 adaderanasinhalalk | 610
 dailymirrorlk | 676
 
@@ -26,11 +26,25 @@ dailymirrorlk | 676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,797 (100.0%) of 4,797 articles have been extended.
+4,797 (100.0%) of 4,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### நமீபியாவின் ஜனாதிபதி காலமானார்
+
+*2024-02-05 01:29:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நமீபியாவின்-ஜனாதிபதி-காலமானார்/50-332671) · `ta`
+
+தலைநகர் வின்ட்ஹோக்கில் உள்ள மருத்துவமனையில் சிகிச்சை பெற்று வந்த நிலையில் அவர் காலமானார் என சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+
+அந்த நாட்டின் அரசியலமைப்பின் படி, ஹேஜ் ஜியிங்கோப்பின் பதவிக்காலம் நிறைவடைவதற்கு சுமார் ஒரு வருட காலம் உள்ளமையினால் உப ஜனாதிபதியாக இருந்த நாங்கோலோ பும்பா பதில் ஜனாதிபதியாக செயல்படுவார் என அறிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/8f10108d.json)
+
+---
 
 ### Police Action Alone is Insufficient to Combat Rising Crime - EDITORIAL
 
@@ -1913,27 +1927,5 @@ A group of detainees of the Kundakadu Rehabilitation Center were arrested on Jan
 [Data](articles/d088610f.json)
 
 [Extended Data](ext_articles/d088610f.ext.json)
-
----
-
-### Attack against Haithi rebels - Australia also support
-
-*2024-02-04 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175515) · `ta`
-
-Australia has expressed its support for the US and Britain's attacks on Yemen's Hournights.
-
-Australia expressed its support for the attack as the US and Britain launched an attack yesterday.
-
-Richard Marles said these accurate attacks are aimed at reducing the ability of the anti -insurgents that are dangerous to the lives and international community of innocent sailors traveling through the Red Sea.
-
-He said that the purpose of the attack is to reduce tension in the Red Sea and to cause stability in the area, he said.
-
-"We will protect free trade and lives on the world's most important seas," he said.
-
-◼️
-
-[Data](articles/3a6c7a7f.json)
-
-[Extended Data](ext_articles/3a6c7a7f.ext.json)
 
 ---

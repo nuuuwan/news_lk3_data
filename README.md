@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 16:32:49**
+As of **2024-02-04 16:47:30**
 
 ## Newspaper Stats
 
-*Scraped **4,719** Articles*
+*Scraped **4,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 287
 adalk | 409
 virakesarilk | 526
-adaderanalk | 589
+adaderanalk | 591
 adaderanasinhalalk | 596
 tamilmirrorlk | 601
 dailymirrorlk | 660
@@ -26,45 +26,89 @@ dailymirrorlk | 660
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,716 (99.9%) of 4,719 articles have been extended.
+4,721 (100.0%) of 4,721 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
 
-### பொன்சேகாவிற்கு எதிராக ஒழுக்காற்று நடவடிக்கை?
+### 23 Indian fishermen, two trawlers arrested in Sri Lankan waters
+
+*2024-02-04 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96996/23-indian-fishermen-two-trawlers-arrested-in-sri-lankan-waters) · `en`
+
+A group of 23 Indian nationals, together with two fishing trawlers were seized by the Sri Lanka Navy in Jaffna on Saturday night (03 Feb.).
+
+According to the navy, the apprehended individuals had been poaching in northern waters off the Delft Island in Jaffna.
+
+In continuation of the regular patrols and operations conducted by the Navy to curb illegal fishing practices by foreign fishing trawlers, the Northern Naval Command, on Saturday night, deployed Fast Attack Craft belonging to the Navy and Sri Lanka Coast Guard to chase away a cluster of Indian poaching trawlers, as the trawlers were detected engaging in illegal fishing.
+
+As such, the arrested fishermen, together with the trawlers, were brought to the Kankasanthurai Harbour and are due to be handed over to the Mailadi Fisheries Inspector for onward legal action.
+
+◼️
+
+[Data](articles/176ca017.json)
+
+[Extended Data](ext_articles/176ca017.ext.json)
+
+---
+
+### Disciplinary action against Fonseka?
 
 *2024-02-04 16:02:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவிற்கு-எதிராக-ஒழுக்காற்று-நடவடிக்கை/175-332634) · `ta`
 
-பீல்ட் மார்ஷல் சரத் பொன்சேகாவிற்கு எதிராக அவதூறான நிலைப்பாட்டை எடுத்துள்ள எதிர்க்கட்சித் தலைவரும், ஐக்கிய மக்கள் சக்தி கட்சியின் தலைவருமான சஜித் பிரேமதாச, தன்னையும் தனது கட்சியையும் விமர்சிப்பவர்களுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்கத் தான் தயங்கமாட்டார் எனவும் தெரிவித்துள்ளார்.
+Sajith Premadasa, the leader of the Opposition and the leader of the United People's Power Party, who has taken a slanderous position against Field Marshal Sarath Fonseka, has said that he will not hesitate to take disciplinary action against those who criticize himself and his party.
 
-முன்னாள் இராணுவத் தளபதி ஜெனரல் (ஓய்வுபெற்ற) தயா ரத்நாயக்கவை SJB யின் மூத்த ஆலோசகராக நியமிக்க பிரேமதாச எடுத்த தீர்மானத்தை பாராளுமன்ற உறுப்பினர் பொன்சேகா விமர்சித்த சில நாட்களுக்குப் பின்னர் பிரேமதாசவின் இந்த கருத்து வெளியாகியுள்ளது.
+The comment was made just days after Parliamentarian Fonseka criticized Premadasa's decision to appoint former Army Commander General (retired) Daya Ratnayake as a senior adviser to SJB.
 
-"யாருக்கு நான் கட்சி உறுப்புரிமை வழங்க வேண்டும் என்று யாரும் எனக்கு போன் செய்து சொல்ல வேண்டாம். எனக்கு அறிவுரை கூற முயல்பவர்களை புறக்கணிப்பேன். கட்சியை விமர்சிப்பவர்களுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுப்பது போன்ற துணிச்சலான முடிவுகளை எடுக்க தயங்கமாட்டேன்" என காலியில் நடைபெற்ற கூட்டம் ஒன்றில் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+“To whom I don't call me party membership. I will ignore those who try to advise me. "I will not hesitate to make brave decisions such as taking disciplinary action against those who criticize the party," said Sajith Premadasa at a meeting in Galle.
+
+“It is the duty of SJB members to protect the party and to observe it in the future elections. Those who cannot do that duty should leave, "he added.
 
 ...
 
 [Data](articles/b613661b.json)
 
+[Extended Data](ext_articles/b613661b.ext.json)
+
 ---
 
-### හෙට සිට මාර්තු 11 දක්වා වැසෙන කොළඹ පාරවල්
+### Colombo roads closed from tomorrow to March 11
 
 *2024-02-04 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192964) · `si`
 
-කොල්ලුපිටිය සහ කොම්පඤ්ඤවීදිය පොලිස් වසම් ආශ්‍රිතව උත්තරානන්ද මාවත, පෙරහැර මාවත සහ නවම් මාවත හෙට සිට පියවර කිහිපයක් යටතේ වසා තැබෙන බව පොලීසිය පවසයි.
+Under the Kollupitiya and Slave Island Police Divisions, Utharanna Mawatha, Perahera Mawatha and Nawam Mawatha will be closed from tomorrow.
 
-ඒ නාගරික ඉංජිනේරු දෙපාර්තමේන්තුව විසින් එම මාර්ග ආශ්‍රිතව භූගත නළ එලීමේ කටයුතු සිදුකිරීම හේතුවෙන්.
+The Urban Engineering Department has laid underground tube on the road.
 
-මෙහිදී හෙට (05) සිට එළඹෙන 19 වනදා දක්වා උත්තරානන්ද මාවතේ නවම් මාවත සිට දුම්රිය හරස් මාර්ගය දක්වා කොටස වසා තැබීමට නියමිතය.
+From tomorrow (05) to the 19th of the Navam Mawatha, Nawam Mawatha to the Navam Mawatha, is to be closed.
 
-එසේම පෙබරවාරි 20 වනදා සිට මාර්තු 04 වනදා දක්වා කාලය තුළ උත්තරානන්ද මාවතේ පෙරහැර මාවත සිට නවම් මාවත දක්වා කොටස වසා තැබීමට නියමිතය.
+The section of the UK Perahera road from Perahera Mawatha to Nawam Mawatha will be closed from February 20 to March 31.
 
-එහි තුන්වන අදියර යටතේ මාර්තු මස 05 වනදා සිට මාර්තු 11 වනදා දක්වා කාලය තුළ උත්තරානන්ද මාවත පෙරහැර මාවත ආශ්‍රිතව රෝටුන්ඩාගාඩ්න් මංසන්ධිය කොටස වසා තැබෙන බව පොලීසිය පවසයි.
+According to its third stage, the Rotungagodan junction will be closed around March 5 to March 11th, police said.
 
 ◼️
 
 [Data](articles/196f712a.json)
+
+[Extended Data](ext_articles/196f712a.ext.json)
+
+---
+
+### Five students of Jaffna Uni. arrested during protest march
+
+*2024-02-04 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/96994/five-students-of-jaffna-uni-arrested-during-protest-march) · `en`
+
+Five students of the University of Jaffna were arrested in the Kilinochchi area on Sunday (04 Feb.), for blocking the main road while staging a protest march.
+
+The protest march was staged over several concerns, including the failure to resolve not only those issues faced by the people of the North and East, but also those currently faced by the public and the adoption of laws that pose a threat to both, the freedom of expression and that of the media.
+
+Several representatives of political parties, including the leader of the Ilankai Tamil Arasu Katchi (ITAK) S. Sritharan and MP Charles Nirmalanathan, also participated in the protest march, Ada Derana learns.
+
+◼️
+
+[Data](articles/1962f0fa.json)
+
+[Extended Data](ext_articles/1962f0fa.ext.json)
 
 ---
 
@@ -156,21 +200,25 @@ Therefore, the government should not forget that if the new law is implemented i
 
 ---
 
-### தாய்லாந்து பிரதமர்  புறப்பட்டார்
+### The Prime Minister of Thailand has departed
 
 *2024-02-04 14:58:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்லாந்து-பிரதமர்-புறப்பட்டார்/175-332629) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அழைப்பின் பேரில் 76வது சுதந்திர விழாவில் கௌரவ அதிதியாக பங்கேற்றிருந்த. தாய்லாந்து பிரதமர் ஸ்ரேத்தா தவிசின் இரண்டு நாட்கள் உத்தியோகபூர்வ விஜயத்தை முடித்துக்கொண்டு நாடு திரும்பினார்.
+At the invitation of President Ranil Wickremesinghe, the 76th Independence Celebration. Thailand's Prime Minister Shreta Tavis returned to the country after completing a two -day official visit.
 
-குறித்த உத்தியோகபூர்வ விஜயத்தின் போது, தாய்லாந்து பிரதமர் ஜனாதிபதியுடன் உத்தியோகபூர்வ கலந்துரையாடல்களில் ஈடுபட்டதுடன், வரலாற்று சிறப்புமிக்க இலங்கை - தாய்லாந்து சுதந்திர வர்த்தக உடன்படிக்கையில் கைச்சாத்திடுவதையும் பார்வையிட்டார்.
+During the official visit, the Prime Minister of Thailand engaged in official discussions with the President and visited the historic Sri Lanka -Thailand Free Trade Agreement.
 
-மேலும், சுதந்திர வர்த்தக ஒப்பந்தத்தில் தாய்லாந்தின் துணைப் பிரதமரும், வர்த்தக அமைச்சருமான பும்தம் வெச்சயாச்சாய் மற்றும் இலங்கையின் வணிக, வர்த்தக மற்றும் உணவுப் பாதுகாப்பு அமைச்சர் நலின் பெர்னாண்டோ ஆகியோர் கைச்சாத்திட்டனர்.
+In addition, Thailand's Deputy Prime Minister and Trade Minister Bumtham Vechchai and Sri Lanka's Commercial, Business and Food Defense Minister Nalin Fernando signed the Independent Trade Agreement.
 
-இலங்கை - தாய்லாந்து சுதந்திர வர்த்தக உடன்படிக்கையின் வாயிலாக இரு நாடுகளுக்கும் இடையிலான வர்த்தக மற்றும் முதலீட்டு உறவுகளை அதிகரிப்பதற்கும், ஆசியான் பொருளாதாரங்களுடன் ஆழமான ஒருங்கிணைப்பை ஊக்குவிப்பதற்கும் எதிர்பார்க்கப்படுகின்றமை குறிப்பிடத்தக்கது.
+It is noteworthy that the Sri Lanka -Thailand Free Trade Agreement is expected to increase trade and investment ties between the two countries and promote deep integration with ASEAN economies.
+
+The Sri Lanka -Thailand Free Trade Agreement is expected to increase trade and investment ties between the two countries and promote deep integration with ASEAN economies.
 
 ...
 
 [Data](articles/81f11234.json)
+
+[Extended Data](ext_articles/81f11234.ext.json)
 
 ---
 
@@ -1987,47 +2035,5 @@ The Jaffna University Students Union held a press conference on January 26 and a
 [Data](articles/a8758481.json)
 
 [Extended Data](ext_articles/a8758481.ext.json)
-
----
-
-### 51 people living in 7 districts of the North and East
-
-*2024-02-03 22:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175482) · `ta`
-
-The swearing -in ceremony of Sri Lanka's citizenship was held at the Vavuniya District Secretariat on Saturday (03).
-
-Many people who have returned to the country after the end of the war with the children who were born in India due to the war and lived in India, are facing various crises.
-
-The Ober Ceylon Company has taken steps to provide a rapid birth certificate as a mobile program by the District Secretariat and the Department of Immigration and Emigration.
-
-In the meantime, 51 persons from the Northern and Eastern districts of Vavuniya, Mannar, Mullaitivu, Kilinochchi, Jaffna, Batticaloa and Trincomalee have taken steps to obtain citizenship and birth certificate.
-
-Vavuniya District Government Agent PA Sarathchandra, District Additional Government Agent Threskumar, Deputy Commissioner of Immigration and Emigration, EH Nayana, Officers of the Department of Immigration and Emigration. Suryakumari Director and many others were present.
-
-◼️
-
-[Data](articles/216bf9c4.json)
-
-[Extended Data](ext_articles/216bf9c4.ext.json)
-
----
-
-### Indonesia and Sri Lanka blast EU for ‘double standards’ on Gaza
-
-*2024-02-03 22:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96983/-indonesia-and-sri-lanka-blast-eu-for-double-standards-on-gaza) · `en`
-
-Indonesia and Sri Lanka’s foreign ministers called on the European Union to be consistent in its approach to the conflict in Gaza as it has with Ukraine, as ministers from Europe, the Indo-Pacific and the Association of Southeast Asian Nations gathered for meetings in Brussels on Friday.
-
-“ASEAN and the EU should be at the front line in respecting values and principles of international law, the respect should also be applied to Palestine, to Gaza,” Indonesian Foreign Minister Retno Marsudi told a forum of Indo-Pacific and European ministers.
-
-“I do believe that the EU and all of us, as firm supporters of upholding international law, will also have a consistent position when it comes to Gaza,” she added.
-
-Ali Sabry, Sri Lanka’s foreign minister, echoed the sentiment, telling reporters, “We represent the sentiment of the Global South, that there’s double standards when it comes to the Middle East.”
-
-...
-
-[Data](articles/8c8a14a0.json)
-
-[Extended Data](ext_articles/8c8a14a0.ext.json)
 
 ---

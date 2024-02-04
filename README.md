@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 19:02:32**
+As of **2024-02-04 19:17:18**
 
 ## Newspaper Stats
 
@@ -26,47 +26,51 @@ dailymirrorlk | 663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,754 (99.8%) of 4,763 articles have been extended.
+4,763 (100.0%) of 4,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
 
-### ඇෆ්ගනිස්තානයෙන් නොසිතූ ප්‍රහාරයක්
+### An unexpected attack from Afghanistan
 
 *2024-02-04 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192975) · `si`
 
-ශ්‍රී ලංකාව සමග පැවැත්වෙන පළමු ටෙස්ට් තරගයේ තුන්වන දිනය නිමාවන විට සිය දෙවන ඉනිම ක්‍රීඩා කරමින් සිටින ඇෆ්ගනිස්තාන කණ්ඩායම එක් කඩුල්ලක් දැවී ලකුණු 199ක් ලබා සිටියේය.
+When the third day of the first Test match with Sri Lanka, the Afghan group scored one wicket.
 
-එහිදී අගනා ඉනිමක් ක්‍රීඩා කරමින් නොදැවී පන්දුවට පහරදෙමින් සිටින Ibrahim Zadran පන්දු 217කදී හතරේ පහර 11ක් සමග ලකුණු 101ක් රැස්කරගෙන සිටී.
+Ibrahim Zadran, who is in a unbeaten in an unbeaten, has scored 101 runs in 217 balls with 11 fours.
 
-ඔහුට අගනා සහායක් ලබාදෙමින් පන්දුවට පහරදෙමින් සිටින පළමු ඉනිමේ ද ඇෆ්ගනිස්තානය වෙනුවෙන් විශිෂ්ඨ ඉනිමක් ක්‍රීඩා කළ Rahmat Shah පන්දු 98කදී හතරේ පහර 5ක් සමග ලකුණු 46ක් රැස්කරගෙන නොදැවී පන්දුවට පහරදෙමින් සිටී.
+Rahmat SHhah, who played a great innings to the Afghanistan, was playing a score of 46 runs in the first innings and five fours in the first innings.
 
-Noor Ali Zadran අගනා ඉනිමක් ක්‍රීඩා කරමින් ලකුණු 47ක් රැස්කරගෙන සිටියදී ඔහුව කඩුල්ල මුවාකිරීමේ වරදට හසුකරගැනීමට අසිත ප්‍රනාන්දු සමත්විය.
+Noor Ali Zadran scored 47 runs while gunning 47 runs while he was able to guilty him with the wicket.
 
-ඇෆ්ගනිස්තානය සිය පළමු ඉනිම සඳහා සියලුදෙනා දැවී රැස්කරගත්තේ ලකුණු 198ක් පමණි.
+Afghanistan scored only 198 marks for the first innings.
 
-ශ්‍රී ලංකාව සිය පළමු ඉනිම සඳහා සියලුදෙනා දැවී ලකුණු 439ක් රැස්කරගත්තේය.
+Sri Lanka scored 439 runs for the loss of all wickets in their first innings.
 
-ඒ අනුව 3 වන දිනය නිමාවේදී ඇෆ්ගනිස්තාන කණ්ඩායම ශ්‍රී ලංකාවට වඩා ලකුණු 42ක් පසුපසින් සිටියේය.
+Accordingly, the Afghan group was 42 run over Sri Lanka in the end of the 3rd.
 
 ◼️
 
 [Data](articles/d21ce845.json)
 
+[Extended Data](ext_articles/d21ce845.ext.json)
+
 ---
 
-### சர்ச்சையை கிளப்பிய நியமனம்
+### Appointment
 
 *2024-02-04 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175535) · `ta`
 
-போர்க்காலத்தில் இடம்பெற்ற மீறல்களை நிராகரிப்பவராக மாத்திரமன்றி அந்த காலகட்ட சம்பவங்களுக்கு பதிலளிக்க வேண்டியவர் என்பதால் தான்,  தயா ரத்நாயக்கவின் இந்த நியமனம் சர்ச்சையை உருவாக்கி இருக்கிறது.
+This appointment of Daya Ratnayake has created controversy because he has to respond to the events of the war.
 
-தயா ரத்நாயக்கவுக்கு  ஆலோசகர் பதவியை வழங்கியிருப்பதன் மூலம், கோட்டாபய ராஜபக் ஷவுடன், நெருக்கத்தை ஏற்படுத்த சஜித் பிரேமதாச முற்படுகிறாரா என்ற சரத் பொன்சேகாவின்  கேள்வியும், பொறுப்புக்கூறல் தொடர்பான ஐக்கிய மக்கள் சக்தியின் நிலைப்பாட்டின் மீது அம்பிகா சற்குணநாதன் எழுப்பியுள்ள ஐயமும்  கூர்ந்து நோக்கப்பட வேண்டியவை.
+Sarath Fonseka's question of whether Sajith Premadasa is trying to create a close with Gotabhaya Rajapaksa, and the suspicion raised by Ambika Chakkunanathan on the position of the United People's Power on accountability.
 
 ◼️
 
 [Data](articles/53a8cc70.json)
+
+[Extended Data](ext_articles/53a8cc70.ext.json)
 
 ---
 
@@ -96,63 +100,71 @@ In addition to Facebook, many social media columns have been created by now and 
 
 ---
 
-### பின்லாந்து தேர்தலும்  மூன்றாம் உலகப்போரும்?
+### Finland election and World War II?
 
 *2024-02-04 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175537) · `ta`
 
-இரு­வரில் யார் தெரி­வா­னாலும் அவ­ருக்கு அடுத்­து­வரும் 6 வரு­டங்­களில் தலை­யிடி காத்­தி­ருக்­கி­றது என்­பது மாத்­திரம் உண்மை. உக்ரேன் போரில் ரஷ்யா வெற்றி பெற்­று­விட்டால் அது ஏனைய அயல் நாடுகள் மீது படை­யெ­டுப்பை நடத்தக் கூடும் என்ற வதந்­திகள் மேற்குலகில் வெளிவரத் தொடங்கி விட்டன.
+It is only true that whoever chooses to be intervened in the 6 years of his next. Rumors have begun to emerge in the West that Russia can invade other foreign countries if it won the Ukraine war.
 
-ஐரோப்பாவினுள் நுழையும் அகதிகளைக் கட்டுப்படுத்தும் நோக்கில் ரஷ்யாவுடனான தனது எல்லைகளை அண்மையில் பின்லாந்து மூடியிருந்த நிலையில், ரஷ்யாவின் தொடரப் போகும் எதிர்வினைகள் மற்றொரு மோதலுக்கு வழிவகுக்குமா? நேட்டோ ஆதரவு நாடு ஒன்றுடன் ரஷ்யா மோதும் நிலை உருவானால் அது மூன்றாம் உலகப் போருக்கு வித்திடுமா? அத்தகைய ஒரு போரை உலகம் தாங்குமா?
+With Finland's recent closure of its borders with Russia in order to control refugees entering Europe, will Russia's continuing reactions lead to another conflict?If Russia clashes with a NATO -backed country, will it be a third world war?Will the world bear such a war?
 
-இவை தற்போது வரை விடை தெரியாத கேள்விகள். ஆனால் இந்த ஒவ்வொரு நிலையிலும் பின்லாந்தில் புதிதாகத் தெரிவாகும் அரசுத் தலைவர் சம்பந்தப்பட்டே ஆகவேண்டும் என்பது மாத்திரம் உண்மை.
+These are unanswered questions until now. But it is only true that in this case, the newly elected head of state in Finland should be involved.
 
 ◼️
 
 [Data](articles/102468cd.json)
 
+[Extended Data](ext_articles/102468cd.ext.json)
+
 ---
 
-### தாயக ஒருமைப்பாடே முக்கியமானது
+### Homeland integrity is important
 
 *2024-02-04 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175539) · `ta`
 
-பொதுச் செயலாளர் கட்சியின் நிர்வாக வேலையில் ஈடுபட வேண்டியிருப்பதனால் தேர்தல் அரசியலில் அவர் இறங்காமல் இருப்பது நல்லது. ஜே.வி.பி. இல் அந்த ஒழுங்கே இருக்கின்றது. அங்கு அதன் செயலாளர் ரில்வின் சில்வா தேர்தலில் போட்டியிடுவதில்லை.
+It is good that he does not descend into electoral politics as the general secretary has to work on the party's administration. JVP. In that order. There, its secretary Rilvin Silva does not contest the election.
 
-பொதுச் செயலாளர் தெரிவை மீள கலந்துரையாடலுக்கு உட்படுத்தி போட்டிகள் எதுவும் இல்லாமல் ஏக மனதாக தெரிவு செய்வதே நல்லது. போட்டி தவிர்க்க முடியாததாக இருப்பின் தலைவர் தெரிவு போல இரகசியமான வாக்கெடுப்பின் மூலம் தெரிவு செய்யப்படுவதே ஆரோக்கியமானது. இங்கே தேர்தலை விட முக்கியமானது தாயக ஒருமைப்பாடு . கிழக்குத்தரப்பு அதிருப்தியுடன் வெளியேறிச் செல்லும் நிலையை உருவாக்க ஒரு போதும் முனையக் கூடாது. அவ்வாறு முனையும் எந்த முயற்சியும் பெருந்தேசியவாதத்திற்கு சேவகம் செய்வதாகவே அமையும்.
+It is better to re -discuss the election and choose the unanimously with no competitions. If the competition is inevitable, it is healthy to be chosen by a secret vote as the leader. Homeland integrity is more important than the election here. Eastern Site. Any effort and any effort will be serving great philosophy.
 
 ◼️
 
 [Data](articles/097e4717.json)
 
+[Extended Data](ext_articles/097e4717.ext.json)
+
 ---
 
-### மீண்டும் குறைவடையவுள்ள கடன், வைப்பு வட்டி வீதங்கள்?
+### Debt and deposit interest rates to be reduced again?
 
 *2024-02-04 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/175556) · `ta`
 
-2048 ஆண்டில் இலங்கை வளர்ச்சியடைந்த நாடாக மாறவேண்டுமானால்  இலங்கை வருடாந்தம் 7.8 வீத பொருளாதார வளர்ச்சியை பதிவு செய்யவேண்டும்  என்று  பாராளுமன்ற உறுப்பினரும் பொருளாதார நிபுணருமான ஹர்ஷ டி. சில்வா கூறுகிறார்.
+If Sri Lanka is to become a developed country in 2048, Sri Lanka must register 7.8 percent of the economic growth annually by Harsha D. Harsha D.. Says Silva.
 
-அதனால் அடுத்து வரும் காலங்களில் நாட்­டில் பொருளாதார வளர்ச்சியை ஏற்படுத்த வேண்டுமாயின் உற்பத்திகளை அதிகரிக்க வேண்டியது அவசியமாகும். அதற்கு வங்கி  வட்டி விகிதங்கள் மேலும் குறைவடைய வேண்டும். மக்கள் அதிக அளவு கடன்களை பெற்றுக் கொள்ள வேண்டும். அதாவது தனியார் கடன்கள் அதிகரிப்பது அவசியமாகவிருக்கிறது.   அதனூடாக முதலீடு­களை செய்ய வேண்டும்.  சாவியும் பூட்டும்  இருக்கின்றன. சரியாக திட்டமிட்டு திறப்பதே முக்கியமாகவுள்ளது.
+So if the country is to increase economic growth in the coming years, it is necessary to increase the products. Bank interest rates should be further reduced. People need to get more debts. This means that private loans are necessary. To make investments through it. The keys and lock are. It is important to properly open.
 
 ◼️
 
 [Data](articles/245ffb17.json)
 
+[Extended Data](ext_articles/245ffb17.ext.json)
+
 ---
 
-### இலங்கையுடனான கடல்சார் பொருளாதார உறவுகளை அமெரிக்கா மேலும் ஆழமாக்கவுள்ளது – சுதந்திர தினத்துக்கான செய்தியில் அன்டனி பிளிங்கென்
+### The US will deepen maritime economic ties with Sri Lanka - Antony Blinken in the news for Independence Day
 
 *2024-02-04 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/175560) · `ta`
 
-இலங்கையுடன் கடல்சார் பொருளாதார உறவுகளை அமெரிக்கா மேலும் ஆழமாக்கவுள்ளதாக அமெரிக்க இராஜாங்க செயலாளர் அன்டனி பிளிங்கென் தெரிவித்துள்ளார்.
+US Secretary of State Antony Blinken says the US will deepen maritime economic ties with Sri Lanka.
 
-இலங்கைக்கும் அமெரிக்காவிற்கும் இடையிலான வலுவான கூட்டு என்பது பகிரப்பட்ட விழுமியங்கள் ஜனநாயகத்திற்கான அர்ப்பணிப்பு சுதந்திரமான வெளிப்படையான பாதுகாப்பான இந்தோ பசுபிக் போன்றவற்றை அடிப்படையாக கொண்டது என தெரிவித்துள்ள அன்டனி பிளிங்கென் எங்கள் உறவு பாதுகாப்பு ஒத்துழைப்பு பரஸ்பரம் நன்மை பயக்கும் வர்த்தகம் மற்றும் முதலீடு அத்துடன் கல்விபரிமாற்றங்கள் அறிவியல் கூட்டாண்மைகளால் வளர்க்கப்படும் மக்களிடையேயான உறவுகளை அடிப்படையாக கொண்டது எனவும் அவர் தெரிவித்துள்ளார்.
+Strong joints between Sri Lanka and the United States are based on shared values and dedication to democracy, such as independent Indo Pacific, Antony Blinken, our relationship is based on the safety cooperation of our relationship, and that education is based on trade and investment, as well as the relations of the people who are raised by science.
 
-எதிர்வரும் வருடங்களில் இந்தோபசுபிக்கின் சகாக்கள் என்ற அடிப்படையில் நாங்கள் இலங்கையுடனான பொருளாதார கடல்சார் உறவுகளை மேலும்வலுப்படுத்துவோம் காலநிலை நெருக்கடி மற்றும் எங்களின் கரிசனைக்குரிய ஏனைய விடயங்களிற்கு தீர்வை காணமுயல்வோம் எனவும் அவர் தெரிவித்துள்ளார்.
+He said that in the coming years, we will resort to economic maritime relations with Sri Lanka in the coming years, he said.
 
 ◼️
 
 [Data](articles/f9e8cbc3.json)
+
+[Extended Data](ext_articles/f9e8cbc3.ext.json)
 
 ---
 
@@ -174,33 +186,39 @@ Earlier, foreign media reports that President Hage Geingob could suffer from a c
 
 ---
 
-### பின்னிப் பிணைந்த உறவு
+### Knitting relationship
 
 *2024-02-04 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175554) · `ta`
 
-பாதுகாப்பில் மாத்திரமன்றி அபிவிருத்தியிலும் இது முக்கியமானது. அதனால் தான் இந்தியா இப்போது இலங்கையில் தனது முதலீடுகளை விரிவாக்குவதில் கவனம் செலுத்துகிறது.
+It is also important in the development of security in safety. That is why India is now focusing on expanding its investments in Sri Lanka.
 
-இந்தியாவும் இலங்கையும் விரைவில் பெரும் தேர்தல்களை எதிர்கொள்ள உள்ள சூழ்நிலையில் இரண்டு நாடுகளும் பாதுகாப்பு மற்றும் அபிவிருத்தி நலன்களில் தங்களுக்கிடையில் உள்ள, தொடர்புகளை விட்டுக் கொடுக்கத் தயாராக இருக்காது.
+In the event that India and Sri Lanka are in the face of major elections, the two countries will not be ready to give up their connections between security and development interests.
 
-இதனை நிலை நிறுத்துவதற்காக- இந்த உறவுக்கு பாதிப்பு ஏற்படுத்தக் கூடிய விடயங்களில் விட்டுக் கொடுப்புகளுக்கும் சமரசங்களுக்கும் தயாராக இருக்கும்.
+To establish this- this relationship will be prepared for giving and compromises on things that can affect this relationship.
 
 ◼️
 
 [Data](articles/f10ed678.json)
 
+[Extended Data](ext_articles/f10ed678.ext.json)
+
 ---
 
-### மட்டக்களப்பில் ஐஸ் போதைப்பொருளுடன் பிரதேச செயலகத்தில் கடமையாற்றும் நபர் உள்ளிட்ட மூவர் கைது
+### Three persons, including a person working in the Divisional Secretariat with ice drugs in Batticaloa
 
 *2024-02-04 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/175557) · `ta`
 
-மட்டக்களப்பு பட்டிப்பளைபிரதேச செயலகத்தில் கடமையாற்றும் போதைப்பொருள் வியாபாரி ஒருவர் உட்பட மூவரை 4 கிராம் 760 மில்லிக்கிராம் ஐஸ் போதைப்பொருளுடன் சனிக்கிழமை (03) கல்லடி பகுதியில் வைத்து விசேட அதிரடிப்படையினர் கைது செய்து ஒப்படைத்துள்ளதாக காத்தான்குடி பொலிசார் தெரிவித்தனர்.
+Kattankudy police said that three persons, including a drug dealer who works at the Batticaloa Pattipalai Divisional Secretariat, has been arrested by the Special Task Force in Kalladi on Saturday (03).
 
-சம்பவதினமான சனிக்கிழமை (04) காலை 10 மணியளவில் கல்லடி பகுதியிலுள்ள வீதி ஒன்றில் கண்காணிப்பில் ஈடுபட்டுக் கொண்டிருந்தபோது அங்கு மோட்டார் சைக்கிள் ஒன்றில் வியாபாரத்துக்காக ஐஸ் போதைப்பொருளை எடுத்துக்கொண்டு வந்து வியாபாரத்தில் ஈடுபட்டுக் கொண்டிருந்தவரையும் அதனை வாங்க வந்த இருவரையும் அங்கிருந்த விசேட அதிரடிப்படையினர் சுற்றிவளைத்து மடக்கி பிடித்ததுடன் அவர்களிடமிருந்து 4 கிராம் 760 மில்லிக்கிராம் ஐஸ் போதைப்பொருள் மோட்டர்சைக்கிள் ஒன்று இரண்டு கையடக்கத்தொபேசிகளை மீட்டனர்.
+On Saturday (04) at 10 am, while watching a road in the Kalladi area, there was a motorcycle in a motorcycle and who had been involved in the business and the two men who had been involved in the business and to buy it.
 
-...
+The arrested drug dealer has taken steps to produce them in court after investigations, from the Special Task Force (STF), who belonged to the Kalladipa area, which is serving at the Padippalai Divisional Secretariat.
+
+◼️
 
 [Data](articles/2c673354.json)
+
+[Extended Data](ext_articles/2c673354.ext.json)
 
 ---
 
@@ -416,21 +434,25 @@ Residents said the strikes shook buildings in Houthi-controlled Sanaa. The group
 
 ---
 
-### රනිල් වික්‍රමසිංහ එදා කාශ්‍යප රජු වගේ යැයි මනූෂ කියයි
+### Manusha says Ranil Wickremesinghe is like King Kashyapa
 
 *2024-02-04 17:28:34* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-වික්‍රමසිංහ-එදා-කාශ්‍යප-රජු-වගේ-යැයි-මනූෂ-කියයි/11-407892) · `si`
 
-නිදහස සමරන එක වැරදියි කියන්නෙ ජාතික හැඟීමක් නැති පිරිසක් බව කම්කරු හා විදේශ රැකියා අමාත්‍ය මනූෂ නානායක්කාර මහතා පැවසීය.
+Labor and Foreign Employment Minister Manusha Nanayakkara said that it is not a national sense of independence.
 
-"8/89 කාලයේ දී මිනිස්සු මරපු එක ඉල් මහ කියලා සමරන්න හොඳයි,   ඒත් නිදහස සමරන එක වැරදියි කියනවා" යැයි ද අනුරාධපුර යොවුන් නිකේතනයේ දී (03) පැවති එක්සත් ජාතික පක්ෂයේ මගෙන් පටන් ගමු තරුණ සමුළුවට එක්වෙමින් අමාත්‍ය මනූෂ නානායක්කාර මහතා පැවසීය.
+"At 8/89, I was good to celebrate the Il Maha Nayaka, but it was wrong to celebrate the freedom," Addressing the UNP, Minister Manusha Nanayakkara said.
 
-කාශ්‍යප වගේ රජෙක්, රටට ඩොලර් ගේන රජෙක් අපට අද සිටින බව සිහිපත් කළ අමාත්‍යවරයා, ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කාශ්‍යප රජු මෙන් රට තාක්ෂණයෙන් දියුණු කළ හැකි නායකයෙක් බව පෙන්වා දුන්නේය.
+The Minister recalled that a king like a king of the country to the country, he pointed out that President Ranil Wickremesinghe was a technology capable of developing as King Kashyapa.
 
-"අපි ලස්සනට ඇන්දොත් තමයි අපි ගැන ප්‍රසන්න බවක් එන්නේ. පොතක පිටකවරය බලන්න එපා කිව්වාට ඇත්තමට පිටකවරයත් ලස්සනට තියෙන්න ඕනේ. හිතන්න මම මෙතනට පිළිවෙලක් නැතිව ආවා නම් ඔබ මං දිහා බලනවාද? ඒ කියන්නේ අපිට බාහිර පෙනුම වගේම ඇතුලත් ප්‍රසන්න වීම ඉතාම වැදගත්.
+"It's the one who makes us beautifully that is pleasing to us. It should also be nice to say not to say no to see don't see. Imagine if I am not in order here, do you look at me?That means it is very important to be pleasant, including an outward appearance.
+
+When we change, we need to change our outward appearance. Only you can change that. The government cannot do that. I want to start.To change, you need to change before everyone else.
 
 ...
 
 [Data](articles/030dc4d3.json)
+
+[Extended Data](ext_articles/030dc4d3.ext.json)
 
 ---
 

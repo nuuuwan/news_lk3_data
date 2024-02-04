@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 23:51:57**
+As of **2024-02-05 00:02:24**
 
 ## Newspaper Stats
 
-*Scraped **4,783** Articles*
+*Scraped **4,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 57
 bbccomsinhala | 71
 dbsjeyarajcom | 136
 islandlk | 254
-economynextcom | 256
+economynextcom | 257
 dailyftlk | 280
-newsfirstlk | 287
-adalk | 411
+newsfirstlk | 288
+adalk | 413
 virakesarilk | 546
 adaderanalk | 599
-tamilmirrorlk | 605
+tamilmirrorlk | 606
 adaderanasinhalalk | 610
 dailymirrorlk | 671
 
@@ -26,11 +26,27 @@ dailymirrorlk | 671
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,783 (100.0%) of 4,783 articles have been extended.
+4,783 (99.9%) of 4,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### මර්වින් මිනී පෙට්ටියක් අරගෙන කනත්තක විරෝධයේ
+
+*2024-02-04 23:28:42* · [`adalk`](https://www.ada.lk/breaking_news/මර්වින්-මිනී-පෙට්ටියක්-අරගෙන-කනත්තක-විරෝධයේ/11-407895) · `si`
+
+මාර්ග ගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනතට විරෝධය පළ කරමින් හිටපු අමාත්‍ය මර්වින් සිල්වා මහතා ඇතුළු පිරිසක් අද (4)  මෘත දේහයක් රැගෙන යන අයුරින්  බොරැල්ල කනත්තට ඇතුළු වී විරෝධතාවයක් පැවැත්වූහ.
+
+සමාජ මාධ්‍යයේ මරණය භූමිදානය කිරීම නමින් විරෝධතාවය පැවැත්විණි.  හිටපු අමාත්‍යවරයාව ප්‍රමුඛ පිරිස     කනත්තට ඇතුළු වන අවස්ථාවේදී කනත්තේ ආරක්ෂක නිලධාරීන් ඊට එරෙහිව සිය විරෝධය දැක්වූ  අතර එහිදී තරමක උණුසුම් තත්ත්වයක් ඇති විය.
+
+නමුත් හිටපු අමාත්‍යවරයා ප්‍රමුඛ පිරිස එම විරෝධතාවය නොතකා කනත්තට ඇතුළු වි සිය විරෝධතාවය  පැවැත්වූහ.
+
+◼️
+
+[Data](articles/834b42a1.json)
+
+---
 
 ### A new planet for the existence of life
 
@@ -70,6 +86,20 @@ The ceremonial opening included the traditional Sri Lankan gesture of offering b
 
 ---
 
+### கந்தகாடு புனர்வாழ்வு நிலையத்தில் பதற்றம்
+
+*2024-02-04 22:22:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கந்தகாடு-புனர்வாழ்வு-நிலையத்தில்-பதற்றம்/175-332670) · `ta`
+
+பொலன்னறுவை கந்தகாடு புனர்வாழ்வு நிலையத்தில் இன்று மாலை இரு குழுக்களுக்கிடையில் இடம்பெற்ற மோதலில் பத்து கைதிகளும் ஒரு இராணுவ சிப்பாயும் காயமடைந்துள்ளனர்.
+
+மோதலுக்கான காரணம் இதுவரை தெரியவரவில்லை எனவும், கந்தகாடு புனர்வாழ்வு நிலையத்தின் சமையல் அறைகள் மற்றும் பல இடங்களில் கைதிகள் சேதம் விளைவித்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/020059c4.json)
+
+---
+
 ### US intends further strikes on Iran-backed groups, national security adviser says
 
 *2024-02-04 22:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97005/us-intends-further-strikes-on-iran-backed-groups-national-security-adviser-says) · `en`
@@ -87,6 +117,24 @@ The strikes are the latest blows in a conflict that has spread into the Middle E
 [Data](articles/45ecc7e4.json)
 
 [Extended Data](ext_articles/45ecc7e4.ext.json)
+
+---
+
+### Cardinal calls for a transition to new leadership in Sri Lanka
+
+*2024-02-04 21:45:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/04/cardinal-calls-for-a-transition-to-new-leadership-in-sri-lanka/) · `en`
+
+COLOMBO (News 1st) – Archbishop of Colombo His Eminence Malcolm Cardinal Ranjith has called for a transition to new leadership in Sri Lanka.
+
+Cardinal Ranjith highlighted the contrasting approaches taken by Singapore and Sri Lanka after independence. While Singapore's leaders prioritized unity and the well-being of all communities, he decried the division sowed by Sri Lankan leadership based on language and religion.
+
+He further praised Singapore's strong legal system and emphasis on discipline, contrasting them with the perceived disregard for law and order in Sri Lanka.
+
+The Cardinal accused the government of self-serving agendas and prioritizing personal gain over the nation's well-being. He questioned the legitimacy of their "independence celebrations" at a time of economic and political turmoil, suggesting that they only celebrate their own freedom, not that of the suffering people.
+
+...
+
+[Data](articles/3b985b5f.json)
 
 ---
 
@@ -498,6 +546,26 @@ He said that in the coming years, we will resort to economic maritime relations 
 
 ---
 
+### Sri Lanka and Thailand eye visa free travel
+
+*2024-02-04 18:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-and-thailand-eye-visa-free-travel-149818/) · `en`
+
+ECONOMYNEXT – Sri Lanka and Thailand are considering visa free travel to strengthen economic links between the two countries President Ranil Wickremesinghe said, after signing a free trade  with the South East Asian nation.
+
+“In order to facilitate travel between the two countries, we have agreed to consider entering into an agreement for a visa free travel arrangement on reciprocal basis,” President Ranil Wickremesinghe said after bilateral talks with a delegation led by Thai Prime Minister.
+
+Sri Lanka already has a free trade agreement with Singapore, also a key member of the Association of South East Asian Nations.
+
+The two countries has had visa free travel before the FTA was inked.
+
+People of the ASEAN region can travel within the countries without visa. Most airports in member countries has a special track for ASEAN passport holders. (Colombo/Feb04/2024)
+
+◼️
+
+[Data](articles/c9e72be3.json)
+
+---
+
 ### President retires to death in Namibia
 
 *2024-02-04 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192973) · `si`
@@ -689,6 +757,22 @@ However, there have been no lives or property damage.
 [Data](articles/687ffcd8.json)
 
 [Extended Data](ext_articles/687ffcd8.ext.json)
+
+---
+
+### පාන් ගෙඩියට හොර කරන අයට හෙට සිට වැඩ වරදියි
+
+*2024-02-04 17:36:11* · [`adalk`](https://www.ada.lk/breaking_news/පාන්-ගෙඩියට-හොර-කරන-අයට-හෙට-සිට-වැඩ-වරදියි/11-407893) · `si`
+
+පාන් ගෙඩියක නියමිත බර නොමැතිනම් හා මිල ප්‍රදර්ශණය නොකරන වෙළද සල් ( 05) වන සදදා දින සිට වටලමින්  අවශ්‍ය නීතිමය පියවර ගන්නා බව වෙළද පාරිභෝගික හා ආහාර සුරක්ෂිත අමාත්‍ය නලීන් ප්‍රනාන්දු මහතා පවසයි. නලීන් ප්‍රනාන්දු මහතා එලෙස පැවසුවේ ජාඇල දඩුගම ඒ මහතාගේ කාර්යාලයේ මාධ්‍ය හමුවක් පවත්වමිනි.
+
+වෙළද පාරිභෝගික හා ආහාර සුරක්ෂතා අමාත්‍ය වරයා මෙහිදී වැඩිදුරටත් පවසා සිටියේ වසර 60-70ක් පැරණි පාන් සම්බන්ධව පනතේ තිබු අඩුපාඩුකම් හා ගැටළු විසදා ගැනීමෙන් පසු පනත ක්‍රියාත්මක කිරීමට අවශ්‍ය ගැසට්ටුව නිකුත් කළ බවයි.
+
+ඒ අනුව පාන් ගෙඩියක බර ග්‍රෑම් 450 ක් විය යුතුය  පාන් භාගයක බර ග්‍රෑම් 225ක් විය යුතුය. එලෙසම පාන් වල මිල ප්‍රදර්ශණය කිරීමද අනිවාර්ය වේ. පාන් වලට වටිනාකම් එකතු කරමින් සැන්විච් හා වෙනත් නම් යොදාගෙන අලවි කලද නියමිත පාන් රාත්තල කුමක්ද යන්න පාරිභෝගිකයා , වෙළෙන්දා සේම අදාල නිලධාරීන්ද දන්නා බැවින් සදුදා දින සිට වැටලීම් කිරීම ගැටළුවක් නොවන බවද වෙළද පාරිභෝගික හා ආහාර සුරක්ෂතා අමාත්‍ය වරයා පවසා සිටියේය.
+
+...
+
+[Data](articles/ffef0610.json)
 
 ---
 
@@ -1841,121 +1925,5 @@ The police had received a ban on five persons who were carrying out the struggle
 [Data](articles/b8c536ba.json)
 
 [Extended Data](ext_articles/b8c536ba.ext.json)
-
----
-
-### A man arrested for stealing car
-
-*2024-02-04 11:59:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கார்-திருடிய-சம்பவத்தில்-ஒருவர்-கைது/175-332624) · `ta`
-
-A 28 -year -old suspect has been arrested in Nitapuwa area in connection with the stealing of a car in Veerakula area.
-
-The stolen car was found abandoned on a road in the upper Yagoda area of Gampaha, police said.
-
-Police said that another person was involved in the incident and investigations to arrest the suspect are ongoing.
-
-◼️
-
-[Data](articles/a4182332.json)
-
-[Extended Data](ext_articles/a4182332.ext.json)
-
----
-
-### The party does not break the Rajapaksas, no greatest
-
-*2024-02-04 11:49:48* · [`adalk`](https://www.ada.lk/breaking_news/පක්ෂය-කඩන්නේ-නෑ--රාජපක්ෂලා⁣ට-විරැද්ධ-නෑ--රනිල්ගේ-ගොට්ටෙක්-වෙන්නෙත්-නෑ/11-407887) · `si`
-
-Chief Government Whip Prasanna Ranatunga, Minister of Urban Development and HousingMr. said Mr. said.
-
-He emphasizes that he is speaking to Mr. Ranil Wickremesinghe as there is no alternative other than Ranil. The Minister pointed out that it is done according to his conscience.
-
-The Minister emphasizes that it is not an opposed to the party or the Rajapaksas are not against the Rajapaksas.
-
-Minister Prasanna Ranatunga was speaking at a discussion with the Katana and Divulapitiya former local government representatives yesterday. This was called to discuss the future and it was held at the Minister's Udugampala office.
-
-All local government representatives of Katana and Divulapitiya were also present at the discussion.
-
-During the discussion, the minister urged the local government representatives to propose if there is alternative to the presidential election. All of them said there was no such option.
-
-...
-
-[Data](articles/ff12845e.json)
-
-[Extended Data](ext_articles/ff12845e.ext.json)
-
----
-
-### Annual Excise License fees revised
-
-*2024-02-04 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192958) · `si`
-
-The Ministry of Finance has decided to revise the fees for the Annual Excise License.
-
-The relevant amendments have been carried out on effect from the first day of February.
-
-According to the Excise Ordinance, the Ministry of Finance has taken measures to revise the Excise License fee for effect from 12th January.
-
-However, steps have been taken to amend the annual Excise License fees again with the protest of the relevant amendments.
-
-Accordingly, the annual distillery fee for two two million dootics has been reduced to Rs.
-
-According to the new fee revision, the fee charged only a journey is Rs.
-
-The annual license fee for the coconut bottle has been reduced to Rs.
-
-The Ministry of Finance stated that the license paper of the palm bunish fee is Rs. 500,000.
-
-Vinegar has been reduced from Rs. 25 million to Rs.
-
-The liquor retail retail fee was held in the Municipal Council areas, which was reduced to Rs.
-
-The annual license fee for municipal areas has been reduced to Rs.
-
-◼️
-
-[Data](articles/a8730fea.json)
-
-[Extended Data](ext_articles/a8730fea.ext.json)
-
----
-
-### PC's work suspended
-
-*2024-02-04 11:37:51* · [`adalk`](https://www.ada.lk/breaking_news/හරක්-කටාට-පැන-යන්න-කුමන්ත්‍රණය-කලැයි-අත්අඩංගුවට-ගත්-පීසීගේ-වැඩ-තහනම්/11-407886) · `si`
-
-Detention orders are an organized criminal as well as a large-scale drug dealer. A senior police officer of the CID said that the suspected constable inquirge was suspended for plotting to flee the custody.
-
-The work was banned by the Constable, 97386 Police Constable attached to the CID.
-
-The suspects were cooperated by the Police Constable Appeal, allegedly in custody of the Criminal Investigation Department (CID) was in the collaboration of the Police Constables.
-
-The event had the same constable with the UPFA and had been nearly four months after the police, police not to arrest him.
-
-Police investigations revealed by the Criminal Investigations of the Criminal Investigations and the Regional Criminal Investigations of the Regional Investigations by the Criminal Investigations Department by the Criminal Investigations Department by the Criminal Investigations of the Regional Investigations.it was
-
-...
-
-[Data](articles/f559c107.json)
-
-[Extended Data](ext_articles/f559c107.ext.json)
-
----
-
-### Amnesty
-
-*2024-02-04 11:35:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதிகளுக்கு-பொதுமன்னிப்பு/175-332623) · `ta`
-
-26 inmates from the Batticaloa Prison have been released this morning on the 76th Independence Day of Sri Lanka under the president's amnesty.Re -. L. Jawburgan
-
-The release of the prisoners, led by the Superintendent of Prison, Batticaloa Prison, was released.
-
-It is noteworthy that the prisoners who did not pay the minority punishment were released today.
-
-◼️
-
-[Data](articles/3721a9e1.json)
-
-[Extended Data](ext_articles/3721a9e1.ext.json)
 
 ---

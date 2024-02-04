@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 21:32:56**
+As of **2024-02-04 21:51:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 668
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,767 (99.8%) of 4,775 articles have been extended.
+4,775 (100.0%) of 4,775 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Accordingly, the suspect was arrested, while the consignment of gold and his mot
 
 [Data](articles/f5895f03.json)
 
+[Extended Data](ext_articles/f5895f03.ext.json)
+
 ---
 
 ### Japan Cricket Association receives ACC membership
@@ -66,6 +68,8 @@ Priyantha Kariyapperuma - Special Adviser to JCA and Goodwill ambassador to deve
 
 [Data](articles/88d4e3b2.json)
 
+[Extended Data](ext_articles/88d4e3b2.ext.json)
+
 ---
 
 ### Suspected ’Ava’ gang leader arrested in Mount Lavinia
@@ -83,6 +87,8 @@ It was revealed that the suspect has a severe addiction to ice drugs and with 01
 ◼️
 
 [Data](articles/1bf620e1.json)
+
+[Extended Data](ext_articles/1bf620e1.ext.json)
 
 ---
 
@@ -105,6 +111,8 @@ It was a disciplined effort by the bowlers and Jayasuriya was required to bowl l
 ...
 
 [Data](articles/1cbd3f8b.json)
+
+[Extended Data](ext_articles/1cbd3f8b.ext.json)
 
 ---
 
@@ -179,6 +187,8 @@ Parliamentarian Vijitha Herath,  NPP Secretary Dr. Nihal Abeysinghe and Nationa
 ◼️
 
 [Data](articles/8b74e5de.json)
+
+[Extended Data](ext_articles/8b74e5de.ext.json)
 
 ---
 
@@ -984,6 +994,8 @@ There are several instances of the use of overkill to guarantee failure. There h
 
 [Data](articles/b1de804c.json)
 
+[Extended Data](ext_articles/b1de804c.ext.json)
+
 ---
 
 ### Of Elections, Bond Scams & Money Politics: The Anatomy Of Default @75
@@ -999,6 +1011,8 @@ Amid protests at soaring cost of living, the claim was that Sri Lanka, South Asi
 ...
 
 [Data](articles/ce737579.json)
+
+[Extended Data](ext_articles/ce737579.ext.json)
 
 ---
 
@@ -1421,6 +1435,8 @@ This offensive remark by Premadasa came just a few days after MP Fonseka critici
 ...
 
 [Data](articles/7a1cee94.json)
+
+[Extended Data](ext_articles/7a1cee94.ext.json)
 
 ---
 

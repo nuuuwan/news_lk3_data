@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 15:17:24**
+As of **2024-02-04 15:32:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 658
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,702 (99.9%) of 4,709 articles have been extended.
+4,709 (100.0%) of 4,709 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,37 +44,43 @@ Emperor Naruhito of Japan, President Vladimir Putin of Russia, President Yun Suk
 
 [Data](articles/01f5267c.json)
 
+[Extended Data](ext_articles/01f5267c.ext.json)
+
 ---
 
-### විරෝධතාවයක් අතර උණුසුම් තත්ත්වයක්
+### There is a hot situation between a protest
 
 *2024-02-04 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192963) · `si`
 
-යාපනය නුවර ප්‍රධානය මාර්ගය අවහිර කරමින් කිලිනොච්චිය ප්‍රදේශයේ පැවති විරෝධතා පා ගමනක් අතරතුරදී විශ්වවිද්‍යාල සිසුන් 5ක් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Police have arrested five university students during a protest in Kilinochchi.
 
-උතුරු නැගෙනහිර ජනතාවගේ ගැටළු වෙනුවෙන් ස්ථිර විසඳුමක් නොලැබීම, මාධ්‍ය නිදහසට බාධා කිරීම, අදහස් ප්‍රකාශ කිරීමේ නිදහසට බාධා ඇතිවන පනත් සම්මත කර ගැනීම හා වර්තමානයේ ජනතාවට දරාගැනීමට නොහැකි ගැටළු වෙනුවෙන් විසදුම් නොලැබීම යන කරුණු මුල්කරගනිමින් මෙම විරෝධතාවය පැවැත්වීය.
+The protest was based on the absence of a permanent solution to the problems of the people of the North and East and to disturb the statutes, and the people who are not able to afford to bear.
 
-මෙම විරෝධතා පා ගමන සඳහා ඉලංගෙයි තමිල් අරසු පක්ෂයේ නව නායක එස්.ශ්‍රීධරන් මහතා, පාර්ලිමේන්තු මන්ත්‍රී චාර්ල්ස් නිර්මලනාදන් මහතා ඇතුළු දේශපාලන පක්ෂ නියෝජිතයින් පිරිසක්ද එක්ව සිටියේය.
+The new leader of the Ilangai Tamil Ahazi Ahazi Arasu Party was also present at the protest.
 
 ◼️
 
 [Data](articles/46c4eb59.json)
 
+[Extended Data](ext_articles/46c4eb59.ext.json)
+
 ---
 
-### கொழும்பில் 3 வீதிகளுக்கு மார்ச் 11 வரை பூட்டு
+### Lock for 3 roads in Colombo until March 11
 
 *2024-02-04 14:15:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-3-வீதிகளுக்கு-மார்ச்-11-வரை-பூட்டு/175-332628) · `ta`
 
-கொள்ளுப்பிட்டி கொம்பனி வீதி பொலிஸ் பிரிவுகளில் உள்ள உத்தரானந்த மாவத்தை, பெரஹர மாவத்தை மற்றும் நவம் மாவத்தை, நீர் வெளியேறும் குழாய் அமைப்பதன் காரணமாக தற்காலிகமாக மூடப்படும் என பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+The police headquarters in Kaluppitti Kompani Road will be temporarily closed due to the construction of the Uttarananda Mawatha, Perahara Mawatha and Navam Mawatha.
 
-இந்த கழிவு நீர் வெளியேற்றப்படும் குழாய் கொழும்பு துறைமுக நகரத்துடன் இணைக்கப்படும் எனவும், உத்தரானந்த மாவத்தை, பெரஹர மாவத்தை மற்றும் நவம் மாவத்தையில் வசிப்பவர்கள் வீதியை பயன்படுத்துவதை தவிர்க்குமாறு பொலிஸார் அறிவித்துள்ளனர்.
+The police have announced that the sewage pipe will be connected to the Colombo port city and the residents of Uttaranda Mawatha, Perahara Mawatha and Navam Mawatha have been asked to avoid the use of the road.
 
-அதன்படி, உத்தரானந்த மாவத்தை, நவம் மாவத்தையில் இருந்து புகையிரத கடவை வரையான பகுதி திங்கட்கிழமை (5) முதல் (19) வரை மற்றும் உத்தரானந்த மாவத்தை, பெரஹர மாவத்தை முதல் நவம் மாவத்தை வரையிலான பகுதி பெப்ரவரி (20) முதல் மார்ச் (4) வரையிலும் உத்தரானந்த மாவத்தை, பெரஹர மாவத்தை, ரொட்டுண்டா தோட்டம் சந்தி வரையான பகுதி மார்ச் (5) முதல் மார்ச் (11) வரை தற்காலிகமாக மூடப்படவுள்ளதுடன், மாற்று வழிகளைப் பயன்படுத்துமாறு பொலிஸார் கேட்டுக்கொண்டுள்ளனர்.
+Accordingly, the area from Uttarananda Mawatha, Navam Mawatha, from Navam Mawatha to Railway Kadavai from Monday (19) and Uttarananda Mawatha, Perahara Mawatha to Navam Mawatha, from February 20 to March (March 4)The area will be temporarily closed from March 5 to March (March 11) and the police have been asked to use alternatives.
 
 ◼️
 
 [Data](articles/44f61e4b.json)
+
+[Extended Data](ext_articles/44f61e4b.ext.json)
 
 ---
 
@@ -126,6 +132,8 @@ On the occasion of the 76th Independence Day, an open visit to the inmates will 
 
 [Data](articles/08a94ac8.json)
 
+[Extended Data](ext_articles/08a94ac8.ext.json)
+
 ---
 
 ### Prisoners released
@@ -138,25 +146,31 @@ A total of 754 prisoners, including 25 female inmates, were released from prison
 
 [Data](articles/ac58325c.json)
 
+[Extended Data](ext_articles/ac58325c.ext.json)
+
 ---
 
-### යුද හමුදා නිලධාරීන් 1,450කට උසස් වීම්
+### Promotions to 1,450 Army officers
 
 *2024-02-04 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192962) · `si`
 
-76 වන ජාතික නිදහස් දින සංවත්සරය වෙනුවෙන් යුද හමුදා නිලධාරීන් 1,450ක පිරිසකට උසස් වීම් ලබා දී තිබේ.
+The 76th Independence Day anniversary has been given promotions to a group of Rs.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ අනුමැතිය මත යුද හමුදාපති ලුතිතන් ජෙනරාල් විකුම් ලියනගේ මහතා සහ ආරක්ෂක අමාත්‍යාංශය විසින් අදාළ උසස්වීම් ලබා දී ඇති බව සඳහන් ය.
+Army Commander Lieutenant General Vikule and the Ministry of Defense has been given the promotions on the approval of President Ranil Wickremesinghe.
 
-ඒ අනුව ශ්‍රී ලංකා යුද හමුදා නිත්‍ය හා ස්වෙච්ඡා බල සේනාවල නිලධාරීන් 211 දෙනෙකුට සහ සෙසු නිලයන් 1,239 දෙනෙකු වෙත එම උසස් වීම් ලබා දී තිබේ.
+Accordingly, the Sri Lanka Army has given 211 permanent and voluntary bodies.
 
-එහි දී බ්‍රිගේඩියර් නිලයේ ජ්‍යේෂ්ඨ නිලධාරීන් දෙදෙනෙකු මේජර් ජෙනරාල් නිලයට, කර්නල් නිලයේ ජ්‍යේෂ්ඨ නිලධාරීන් 12 දෙනෙකු බ්‍රිගේඩියර් නිලයට, ලුතිතන් කර්නල් නිලයේ ජ්‍යෙෂ්ඨ නිලධාරීන් 13 දෙනෙකු කර්නල් නිලයටත් උසස් කර තිබේ.
+Two senior officials of Brigadier officials have been promoted to the rank of Brigadier and 13 senior officials of the rank of Brigadier.
 
-මේ අතර මේජර් නිලයේ ජ්‍යේෂ්ඨ නිලධාරීන් 17 දෙනෙකු ලුතිතන් කර්නල් නිලයට, කපිතාන් නිලයේ නිලධාරීන් 29 දෙනෙකු මේජර් නිලයට, ලුතිතන් නිලයේ නිලධාරීන් 13 දෙනෙකු කපිතාන් නිලයට දෙවන ලුතිතන් නිලයේ නිලධාරීන් 125 දෙනෙකු ලුතිතන් නිලයටත් උසස් වීම් ලබා දී ඇති බව යුද හමුදා මධ්‍ය අංශය සඳහන් කරයි.
+Meanwhile, 17 senior officials of the Major ranks of the Major rank and 29 officers have been promoted to the rank of the Captain, the Second Lieutenant officials.
+
+49 non-official officers in the officer II of the Official II of the Official II of the Divisional II and 135 senior commissions of the staff of Staff Series advanced from the official senior officials of the staff.Has been done.
 
 ...
 
 [Data](articles/b5440fd0.json)
+
+[Extended Data](ext_articles/b5440fd0.ext.json)
 
 ---
 
@@ -388,19 +402,23 @@ The Retail License for Liquor in Municipal Areas was reduced from Rs. 15 million
 
 ---
 
-### කැරට් කිලෝව රු 700ට අඩුවෙයි - අනෙකුත් එළවළු මිලත් පහළට
+### Carrots will fall to Rs 700 - the price of vegetables
 
 *2024-02-04 12:01:19* · [`adalk`](https://www.ada.lk/breaking_news/කැරට්-කිලෝව-රු-700ට-අඩුවෙයි---අනෙකුත්-එළවළු-මිලත්-පහළට/11-407888) · `si`
 
-පසුගිය සතියේ ඉහල ගිය කැරට් කිලෝවක තොග මිල මේ වන විට රුපියල් 700 කින් පමණ පහත වැටී ඇති බවත් අනෙකුත් එළවළු වර්ග වල මිල ද රුපියල් සියයත් එකසිය පහනත් අතර මිලකින් පහත වැටී ඇතැයි කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ වෙලෙදුන් කියා සිටී.
+Keppetipola has fallen by a kilogram of carrots last week and the price of other vegetables and other vegetables have fallen by Rs.
 
-උඩරට එළවළු වර්ග රට පුරා බෙදා හරින ප්‍රධාවතම ආර්ථීක මධ්‍යස්ථානයක් වන කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයට එළවළු තොග මිලට ගැනීම සදහා දිවයිනේ විවිධ ප්‍රදේශවල සිට වෙලෙදුන් දෛනිකව පැමිනෙන අතර මේ වන විට එලෙස පැමිනෙන වෙලෙදුන්ගේ ප්‍රමාණයද යම් තරමකට අඩුවී ඇති බවත් කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ වෙලෙදුන් පවසති.
+Keppetipola will come to their daily areas from various parts of the country to buy vegetables all over the country to buy vegetables across the country to buy vegetables across the country.
 
-පසුගිය සතියේ රුපියල් එක්දහස් හයසියයකය පමණ මිල ඉහල ගිය කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ කැරට් කිලෝවක් මේ වන විට රුපියල් හත්සියයක් දක්වා පහත වැටී ඇති බවත් ආර්ථීක මධ්‍යස්ථානය වෙත මේ වන විට ලැබෙන එළවළු වර්ග ප්‍රමාණයේ සුළු වැඩි වීමක් ඇති බවත් වෙලෙදුන් කියා සිටී.
+The Economic Center says that a kilo of carrots of Keppetipola, which rose about Rs.
 
-...
+Egen vegetables at Keppetipola Special Economic Center Cragx carrots- 550 - 600 - 400, 420, 420, 420, tomato 600 - 630, beans 450 - 500. Robs 100 -130, Potatoes (Welimada) 250 - 300
+
+◼️
 
 [Data](articles/96cb9550.json)
+
+[Extended Data](ext_articles/96cb9550.ext.json)
 
 ---
 

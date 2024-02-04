@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 12:17:13**
+As of **2024-02-04 12:33:10**
 
 ## Newspaper Stats
 
-*Scraped **4,673** Articles*
+*Scraped **4,688** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,85 +12,179 @@ colombotelegraphcom | 55
 bbccomsinhala | 70
 dbsjeyarajcom | 136
 islandlk | 254
-economynextcom | 254
+economynextcom | 256
 dailyftlk | 280
 newsfirstlk | 287
-adalk | 402
+adalk | 404
 virakesarilk | 522
 adaderanalk | 585
 adaderanasinhalalk | 590
-tamilmirrorlk | 590
-dailymirrorlk | 648
+tamilmirrorlk | 598
+dailymirrorlk | 651
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,669 (99.9%) of 4,673 articles have been extended.
+4,673 (99.7%) of 4,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
 
-### ‍වාර්ෂික සුරාබදු බලපත්‍ර ගාස්තු යළි සංශෝධනය කෙරේ
+### Kandy Hospital team transplants woman’s severed hand
 
-*2024-02-04 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192958) · `si`
+*2024-02-04 12:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kandy-Hospital-team-transplants-womans-severed-hand/108-276297) · `en`
 
-වාර්ෂික සුරාබදු බලපත්‍ර සඳහා අයකරනු ලබන ගාස්තු යළිත් වරක් සංශෝධනය කිරිමට මුදල් අමාත්‍යාංශය තීරණය කර තිබේ.
+Kandy, Feb 04 (Daily Mirror) -  A team led by Dr. Amila Sasanka Ratnayake, a specialist surgeon at the National Hospital, Kandy successfully transplanted the right arm of a thirty-five-year-old woman from Anuradhapura.
 
-පෙබරවාරි මස පළමු වන දින සිට ක්‍රියාත්මක වන පරිදි අදාළ සංශෝධනයන් සිදුකර ඇති බව මුදල් අමාත්‍යාංශය සඳහන් කරයි.
+The patient had faced the mishap while cleaning a coir grinding machine, resulting in the separation of her right hand from below the elbow.
 
-සුරාබදු ආඥා පනතට අනුව ජනවාරි මස 12 වැනි දින සිට ක්‍රියාත්මක වන පරිදි සුරාබදු බලපත්‍ර ගාස්තුව සංශෝධනය කිරිමට මුදල් අමාත්‍යාංශය කටයුතු කර තිබේ.
+The complex six-hour operation, carried out at the Kandy Hospital, involved a team of medical professionals, including plastic surgeon Dr. Udaya Kiridena, plastic surgeon Chamila Jayaratne, orthopedic surgeon Dr. Satira Premaratne, senior registrar Udara Ratnayake, anesthetist Dr. Uduwela, and Dr. Kasun and Dr. Senaka.
 
-කෙසේ වෙතත් අදාළ සංශෝධනයන්වලට සුරාබදු බලපත්‍රලාභීන් විරෝධය පළ කිරිමත් සමඟ යළිත් වරක් වාර්ෂික සුරාබදු බලපත්‍ර ගාස්තු සංශෝධනය කිරිමට පියවර ගෙන ඇත.
+◼️
 
-ඒ අනුව දෙකෝටි පනස් ලක්ෂයක් වූ වාර්ෂික ස්කාගාර බලපත්‍ර ගාස්තුව රුපියල් ලක්ෂ 20 දක්වා අඩුකර ඇති බව වාර්තා වේ.
-
-නව ගාස්තු සංශෝධනයට අනුව කර්මාන්ත ප්‍රවේශය සඳහා එක්වරක් පමණක් අයකරනු ලබන ගාස්තුව රුපියල් දෙකෝටි පනස් ලක්ෂයක් බව මුදල් අමාත්‍යාංශය පවසයි.
-
-පොල් රා බෝතල් කිරිම සඳහා මිලියන 10ක්ව පැවැති වාර්ෂික බලපත්‍ර ගාස්තුව ලක්ෂ 15 දක්වා අඩුකර ඇත.
-
-තල් රා බොතල්ගත කිරිමේ බලපත්‍ර ගාස්තුව නව සංශෝධනයට අනුව රුපියල් ලක්ෂ 05ක් බව මුදල් අමාත්‍යාංශය සඳහන් කරයි.
-
-...
-
-[Data](articles/a8730fea.json)
+[Data](articles/4d142b79.json)
 
 ---
 
-### මෙසී හොකොං යයි
+### “ஆமை முயல் சட்டம் வருகிறது”
+
+*2024-02-04 12:12:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆமை-முயல்-சட்டம்-வருகிறது/175-332626) · `ta`
+
+அதிவேக நெடுஞ்சாலையில் குறைந்தபட்ச வேகத்தை விட குறைவான வேகத்தில் வாகனம் ஓட்டும் ஓட்டுனர்களுக்கு எதிராக சட்டத்தை அமல்படுத்தவும் போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சு முடிவு செய்துள்ளது.
+
+அதிவேக நெடுஞ்சாலைகளில் பதிவாகும் பெரும்பாலான விபத்துகளுக்கு ஓட்டுனர்கள் குறைந்த வேகத்தில் வாகனம் ஓட்டுவதாலேயே ஏற்படுவதாக அமைச்சின் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+இதேவேளை, அதிவேகமாக வாகனம் செலுத்துவது தொடர்பில் புதிய விதிமுறைகளை அறிமுகப்படுத்த போக்குவரத்து அமைச்சர் கலாநிதி பந்துல குணவர்தன தீர்மானித்துள்ளார்.
+
+◼️
+
+[Data](articles/9e72e877.json)
+
+---
+
+### கிளிநொச்சியில் பதற்றம்
+
+*2024-02-04 12:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கிளிநொச்சியில்-பதற்றம்/72-332625) · `ta`
+
+76 வது சுதந்திர தினமான ஞாயிற்றுக்கிழமை (04)  கிளிநொச்சியில் இடம்பெறவுள்ள போராட்டத்தை   தடுக்க பொலிஸார் தயார் நிலையில் வைக்கப்பட்டுள்ளனர். இதனால், கிளிநொச்சியில் ஒருவகையான பதற்றமான நிலை ஏற்பட்டுள்ளது,
+
+இலங்கையின் 76 வது சுதந்திர தின நிகழ்வுக்கு எதிர்ப்பு தெரிவித்து கிளிநொச்சியில் இன்று (04) மேற்கொள்ளப்படவிருக்கும் போராட்டத்தை தடுக்கும் வகையில்  பொலிஸார் தயார்ப்படுத்தப்பட்டிருந்தனர்.
+
+யாழ். பல்கலைக்கழக மாணவர் ஒன்றியத்தின் ஏற்பாட்டில் “சுதந்திர நாள் கரிநாள்” என்றுகூறி  கிளிநொச்சியில் போராட்டம் ஒன்று மேற்கொள்ள ஏற்பாடு செய்யப்பட்டுள்ளது.
+
+குறித்த போராட்டத்தை கட்டுப்படுத்தும் வகையில் போராட்டத்தை செயற்படுத்தும் ஐந்து நபர்களுக்கு தடை உத்தரவு பொலிஸாரால் பெறப்பட்டிருந்தன.  அத்தோடு அதிகளவான பொலிஸார் மற்றும் நீர்த்தாரை  பிரயோக வாகனம் உள்ளிட்டவற்றுடன் பொலிஸார் தயார்ப்படுத்தப்பட்டிருந்தனர்.
+
+◼️
+
+[Data](articles/b8c536ba.json)
+
+---
+
+### கார் திருடிய சம்பவத்தில் ஒருவர் கைது
+
+*2024-02-04 11:59:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கார்-திருடிய-சம்பவத்தில்-ஒருவர்-கைது/175-332624) · `ta`
+
+கம்பஹா வீரகுல பிரதேசத்தில் கார் திருடப்பட்ட சம்பவம் தொடர்பில் 28 வயதுடைய சந்தேக நபர் நிட்டபுவ பிரதேசத்தில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+
+திருடப்பட்ட கார் கம்பஹா மேல் யாகொட பகுதியில் உள்ள வீதியொன்றில் கைவிடப்பட்ட நிலையில் காணப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+குறித்த சம்பவத்துடன் மற்றுமொரு நபருக்கு தொடர்பு இருப்பதாக பொலிஸார் தெரிவித்ததுடன், சந்தேக நபரை கைது செய்வதற்கான விசாரணைகள் தொடர்ந்தும் முன்னெடுக்கப்பட்டு வருகின்றன.
+
+◼️
+
+[Data](articles/a4182332.json)
+
+---
+
+### Annual Excise License fees revised
+
+*2024-02-04 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192958) · `si`
+
+The Ministry of Finance has decided to revise the fees for the Annual Excise License.
+
+The relevant amendments have been carried out on effect from the first day of February.
+
+According to the Excise Ordinance, the Ministry of Finance has taken measures to revise the Excise License fee for effect from 12th January.
+
+However, steps have been taken to amend the annual Excise License fees again with the protest of the relevant amendments.
+
+Accordingly, the annual distillery fee for two two million dootics has been reduced to Rs.
+
+According to the new fee revision, the fee charged only a journey is Rs.
+
+The annual license fee for the coconut bottle has been reduced to Rs.
+
+The Ministry of Finance stated that the license paper of the palm bunish fee is Rs. 500,000.
+
+Vinegar has been reduced from Rs. 25 million to Rs.
+
+The liquor retail retail fee was held in the Municipal Council areas, which was reduced to Rs.
+
+The annual license fee for municipal areas has been reduced to Rs.
+
+◼️
+
+[Data](articles/a8730fea.json)
+
+[Extended Data](ext_articles/a8730fea.ext.json)
+
+---
+
+### கைதிகளுக்கு பொதுமன்னிப்பு
+
+*2024-02-04 11:35:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதிகளுக்கு-பொதுமன்னிப்பு/175-332623) · `ta`
+
+இலங்கையின் 76வது சுதந்திர தினத்தை  முன்னிட்டு மட்டக்களப்பு சிறைச்சாலையிலிருந்து 26  கைதிகள் இன்று (04) காலை ஜனாதிபதியின் பொது மன்னிப்பின் கீழ் விடுதலை செய்யப்பட்டுள்ளனர். ரீ. எல். ஜவ்பர்கான்
+
+மட்டக்களப்பு சிறைச்சாலை அத்தியட்சகர் என் பிரபாகரன் தலைமையில் இடம்பெற்ற கைதிகள் விடுதலை செய்யப்படும் நிகழ்வில் பிரதம ஜெயிலர் உட்பட பலரும் கலந்து கொண்டனர்.
+
+சிறு குற்றம் புரிந்த தண்டணைப் பணம் செலுத்தாத கைதிகளே இன்று விடுதலை செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3721a9e1.json)
+
+---
+
+### Messi goes hookon
 
 *2024-02-04 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192957) · `si`
 
-සුපිරි පාපන්දු ක්‍රීඩක ලියනොල් මෙසී සුහද පාපන්දු තරගයක් වෙනුවෙන් ඊයේ (03) හොංකොං වෙත පැමිණ තිබේ.
+Super Football Player Lynol Messi has arrived at Hong Kong yesterday (03).
 
-ඉන්ටර් මියාමි පාපන්දු ක්‍රීඩා සමාජය සහ මේජර් ලීග් පාපන්දු සමාජයක් වන හොංකො ලෙවන් පාපන්දු සමාජය අතර තරගයක් අද දහවල් 01.30ට පැවැත්වීමට නියමිතයි.
+The International Miami Soccer Sports Club and Major League Football Soccer will be held at 01.30 pm today.
 
-ඉන්ටර් මියාමි පාපන්දු  කණ්ඩායම එම තරගයට සහභාගි වන්නේ පෙබරවාරි 01 වැනි දා අල් නසාර් පාපන්දු කණ්ඩායම සමඟ පැවති තරගය පරාජය වීමෙන් අනතුරුව ය.
+The Inter Miami soccer team is defeated after the defeat of the MC NZZar Football Team.
 
-එම තරගය ඉන්ටර් මියාමි පාපන්දු කණ්ඩායම ලකුණු 6 ට 0ක් ලෙස පරාජය විය.
+The inter Miami football team was defeated as 0 points.
 
-මේජර් ලීග් පාපන්දු සමාජයක් වන හොංකො ලෙවන් සමඟ අද තරගය පැවැත්වෙන්නේ එම පරාජයෙන් පසුවයි.
+The match will be held with Hong Kong, a Major League football club.
 
 ◼️
 
 [Data](articles/501bab7e.json)
 
+[Extended Data](ext_articles/501bab7e.ext.json)
+
 ---
 
-### බන්ධනාගාර තුළ තදබදය අවම කිරීම සඳහා වැඩපිළිවෙළක්
+### A program to minimize congestion in prisons
 
 *2024-02-04 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192956) · `si`
 
-වර්තමානයේ බන්ධනාගාර තුළ පවතින තදබදය අවම කිරීම සඳහා සිවිල් වැරදි සම්බන්ධ වැරදිකරුවන් වන සියලු දෙනා නිවාස අඩස්සියේ තැබීමේ වැඩපිළිවෙළක් මෙම වසරේ දී ක්‍රියාත්මක කරන බව අධිකරණ හා බන්ධනාගාර කටයුතු පිළිබඳ රාජ්‍ය අමාත්‍ය නීතිඥ අනුරාධ ජයරත්න මහතා පවසයි.
+State Minister of Justice Anuradha Jayaratne says that today is the guilty of civil mistakes to reduce the congestion in prisons.
 
-මේ සඳහා නීති සකස් කිරීම සඳහා පත් කළ කමිටු වාර්තාව ලබා දීමෙන් පසු මේ වනවිට නීති කෙටුම්පත් අංශය මගින් අදාළ නීති සකස් කරමින් පවතින බවත් එම කටයුතු නිම වීමෙන් පසු එය පාර්ලිමේන්තුවට ඉදිරිපත් කර නීතියක් බවට පත් කිරීම මෙම වසරේ දී ම සිදු කරන බවත් ඔහු අවධාරණය කරයි.
+He emphasized the laws from the legal draft sector after the report of the committee appointed to prepare the rules.
 
-මෙම වැඩපිළිවෙළ ක්‍රියාත්මක කිරීමත් සමඟ ඇප පනත වැනි පනත් කිහිපයක් සංශෝධනය කිරීමට සිදු වන බව ද ඔහු සඳහන් කර ඇත.
+He added that with the implementation of this program several statutes have to be amended.
 
 ◼️
 
 [Data](articles/4366024d.json)
+
+[Extended Data](ext_articles/4366024d.ext.json)
 
 ---
 
@@ -116,23 +210,43 @@ Houthi military spokesperson Yahya Sarea said the U.S. strikes “will not pass 
 
 ---
 
-### நாட்டில் மேலும் 660 பேர் கைது
+### ஆர்ப்பாட்டத்துக்குச் சென்றவர்களை திருப்பி அனுப்பிய பொலிஸார்
+
+*2024-02-04 11:13:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ஆர்ப்பாட்டத்துக்குச்-சென்றவர்களை-திருப்பி-அனுப்பிய-பொலிஸார்/73-332622) · `ta`
+
+மட்டக்களப்பு மாவட்ட காணாமல் ஆக்கப்பட்ட சங்கத்தினரால் மட்டக்களப்பு – கல்லடியில் இன்றைய தினம் (04) ஏற்பாடு செய்யப்பட்டிருந்த எதிர்ப்பு ஆர்பாட்டத்தில் கலந்து கொள்வதற்காக திருகோணமலையிலிருந்து சென்றவர்களை பொலிஸார் மற்றும் பாதுகாப்புப்படையினரால் திருப்பி அனுப்பி வைக்கப்பட்டுள்ளனர்.
+
+பஸ்ஸொன்றில் சென்றவர்களை வெருகல் பாலத்திலுள்ள பொலிஸ் சேதனைச்சாவடியில் வழிமறித்த பொலிஸார் மற்றும் பாதுகாப்புப்படையினர் அவர்களிடம் பஸ் டிக்கட்டுக்களை கேட்டதாகவும் பின்னர் அவர்கள் அனைவரையும் பஸ்ஸில் இருந்து இறக்கி விசாரணைக்கு உட்படுத்தியதுடன், பஸ்ஸையும் சோதனைக்கு உட்படுத்தியிருந்ததாகவும் தெரிவிக்கப்பட்டுள்ளது.
+
+மேலும், பொலிஸாரால் அனைவருடைய விபரங்களும் பெறப்பட்டுள்ளதோடு  மற்றும் பஸ்ஸின் சாரதி, நடத்துனரின் ஆவணங்களையும் பொலிஸாரால் பறித்தெடுக்கப்பட்டதாக தெரிவிக்கப்படுகிறது.
+
+திரும்பிச்செல்லாவிட்டால் வழக்கு தாக்கல் செய்வதாகவும் குறிப்பிட்டதோடு புகைப்படங்களை எடுத்தவர்களுடைய கைத் தொலைபேசியை வாங்கி அனைத்தையும் அழித்துவிட்டு மீண்டும் வழங்கியதாகவும் தெரிவிக்கப்படுகின்றது.
+
+...
+
+[Data](articles/b1e944d4.json)
+
+---
+
+### 660 more arrests in the country
 
 *2024-02-04 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175503) · `ta`
 
-நாடு முழுவதும் முன்னெடுக்கப்பட்டு வரும் போதை ஒழிப்பு நோக்கிலான 'யுக்திய' நடவடிக்கையின் கீழ் இன்று (04) அதிகாலை 12.30 மணியுடன் நிறைவடைந்த 24 மணித்தியாலங்களில் 660 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+660 suspects have been arrested in the 24 hours after the 'Yuktiya' operation of the nationwide nationwide -eradicated 'strategy'.
 
-அவர்களில் 552 பேர் போதைப்பொருள் தொடர்பான குற்றச்சாட்டில் கைதாகியுள்ளனர். ஒருவர் புனர்வாழ்வு நிலையத்துக்கு அனுப்பி வைக்கப்பட்டுள்ளார்.
+552 of them have been arrested on drug charges. One has been sent to the rehabilitation center.
 
-மேலும், கைதானவர்களில் 108 பேர் பொலிஸாரால் வேறு சில குற்ற வழக்குகள் தொடர்பில் தேடப்படுவோர் பட்டியலில் உள்ளவர்கள் ஆவர்.
+In addition, 108 of the detainees are on the list of those who are searching for some other criminal cases by the police.
 
-அத்தோடு, பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவு மற்றும் பொலிஸ் விசேட பணியகத்தில் பதிவு செய்யப்பட்ட சந்தேக நபர்கள் பட்டியலில் உள்ள  3 பேரும் இதன்போது கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+In addition, three persons have been arrested on the list of the suspects registered in the Special Bureau of Police and the Special Bureau of Police, police said.
 
-மேலும், இந்த சந்தேக நபர்களிடமிருந்து 152 கிராம் ஹெரோயின், 134 கிராம் ஐஸ், 4 கிலோ 150 கிராம் கஞ்சா, 775 கஞ்சா செடிகள், 192,826 போதை மாத்திரைகள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளதாக பொதுமக்கள் பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+In addition, the police have seized 152 grams of heroin, 134 grams of ice, 4 kg 150 g of cannabis, 775 cannabis and 192,826 pills from these suspects.
 
 ◼️
 
 [Data](articles/e3c6a41f.json)
+
+[Extended Data](ext_articles/e3c6a41f.ext.json)
 
 ---
 
@@ -167,6 +281,24 @@ The Navy conducts regular patrols and operations in Sri Lankan waters to curb il
 [Data](articles/21dc4f72.json)
 
 [Extended Data](ext_articles/21dc4f72.ext.json)
+
+---
+
+### දූරියන් ගහට එන රිලවුන්ට දැමූ විදුලි රැහැනට රැහැන දැමූ අයම බිලි
+
+*2024-02-04 10:55:58* · [`adalk`](https://www.ada.lk/breaking_news/දූරියන්-ගහට-එන-රිලවුන්ට-දැමූ-විදුලි-රැහැනට-රැහැන-දැමූ-අයම-බිලි/11-407885) · `si`
+
+තම නිවසේ දූරියන් ගහට පැමිණෙන රිලවුන් පලවා හැරීම සඳහා අනාරක්ෂිත ලෙස ඇද තිබූ විදුලි රැහැනක ගැටීමෙන් වයස අවුරුදු (47) ක තිදරුපියකු මියගොස් ඇතැයි මාතලේ පොලිසිය පවසයි.
+
+මෙසේ මරණයට පත්ව ඇත්තේ මාතලේ රත්තොට උකුවෙල පූජා ගොඩ ප්‍රදේශයේ පදිංචි ගල් කොටුවාවේ ගෙදර රත්නපාර යන අයයි.
+
+අදාල සිද්ධිය වූ ස්ථානයේ  නිවෙස් හිමියා විසින්  ඔහුගේ ගෙවත්තට නිතර නිතර පැමිණෙන රිලවන් දඬුලේනුන් ඇතුළු සතුන්ගේ පැමිණීම වැළැක්වීම සඳහා නිවසේ  ප්‍රධාන ස්විචයෙන් අනාරක්ෂිත ලෙස විදුලි රැහැන් රැගෙන ගෙවත්ත වටා  කණු හිටවා ඇද ඇති අතර අදින ලද එම වයරයේ තැනින් තැන පළුදු කොට බකට් කම්බි විදුලිය කාන්දු වන සේ සම්බන්ධ කර  තිබූනු අතර එම කම්බිවල ගැටීමෙන් මෙම පුද්ගලයා මරණයට පත්වන්නට ඇති බවට සැක පළ කරනු ලබයි.
+
+අදාල සිද්ධිය සම්බන්ධයෙන් එම නිවසේ පදිංචි පුද්ගලයා  මාතලේ පොලිසිය විසින් සැකපිට අත්අඩංගුවට ගෙන තිබේ සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ කටයුතු මාතලේ පොලිසිය විසින් සිදු කරනු ලබයි.
+
+◼️
+
+[Data](articles/98fc52c5.json)
 
 ---
 
@@ -240,6 +372,56 @@ Opposition Leader Sajith Premadasa made this observation at a ceremony of Gintot
 
 ---
 
+### Navy arrests 23 Indian fishermen in two poaching trawlers in Sri Lankan waters
+
+*2024-02-04 10:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Navy-arrests-23-Indian-fishermen-in-two-poaching-trawlers-in-Sri-Lankan-waters/108-276296) · `en`
+
+Jaffna, Feb 04 (Daily Mirror) - The Sri Lanka Navy arrested 23 Indian fishermen in two Indian trawlers while poaching on the northern waters of Sri Lanka, off the Delft Island in Jaffna.
+
+The Navy conducts regular patrols and operations on Sri Lankan waters to curb illegal fishing practices by foreign fishing trawlers, taking into account the consequences of these practices on the livelihood of local fishermen.
+
+In continuation of these efforts, the Northern Naval Command deployed Fast Attack Craft of the Navy and Sri Lanka Coast Guard to chase away a cluster of Indian poaching trawlers, as they were detected engaging in illegal fishing in Sri Lankan waters on 03 February. In this operation, naval personnel held 02 Indian poaching trawlers with 23 Indian fishermen who continued to remain within island's waters off the Delft Island.
+
+...
+
+[Data](articles/18673ab3.json)
+
+---
+
+### නවීකරණය කළ දඹුල්ල හෙට විවෘත කරයි
+
+*2024-02-04 10:40:41* · [`adalk`](https://www.ada.lk/sports/නවීකරණය-කළ-දඹුල්ල-හෙට-විවෘත-කරයි/9-407883) · `si`
+
+රංගිරි  දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගනය නැවත ක්‍රීඩාවලට ආරම්භ කිරීම හා පුද්ගලයන් මිලියන දෙකක් සඳහා ඉඩම් හිමිකම් ඔප්පු ලබාදීම  ජාතික වැඩපිළිවෙළ 05 දින පස්වරුවේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ කැබිනට් මණ්ඩලයේ ප්‍රධානත්වයෙන්  රංගිරි  දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී ඇරඹෙන බව ක්‍රීඩා  යෞවන කටයුතු හා ඉඩම් අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පැවසීය.
+
+ඒ අනුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් ඉඩම් ඔප්පු දොළොස් දහසක් ලබාදීම මෙදින සිදුකෙරෙන බවත් ඊට අමතරව රංගිරි  දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ සවිකරන ලද නව විදුලි පද්ධතිය ආරම්භ කිරීම,  ක්‍රිඩාංගණය තුළ අලුතින් ඉදි කරන ලද පිහිනුම් තටාකය විවෘත කිරීම හා ක්‍රිඩාංගනය සංචාරක  ක්ෂේත්‍රයට යොදා ගැනීම සඳහා වැඩසටහන ආරම්භ කිරීම මෙදින සිදුකිරීමට නියමිත බවද අමාත්‍යවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/17d37d1f.json)
+
+---
+
+### Sri Lanka inching forward on 76th independence as people backed difficult program: President
+
+*2024-02-04 10:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-inching-forward-on-76th-independence-as-people-backed-difficult-program-president-149804/) · `en`
+
+ECONOMYNEXT – Sri Lanka is inching forward from bankruptcy because people backed a program to stabilize the country amid great hardships, President Ranil Wickremesinghe said in his independence day message.
+
+When Sri Lanka marked the 75th day of independence last year the country was labelled bankrupt.
+
+“Undergoing various hardships, becuase the majority of the people supported a long term program to rebuild country we are now inching forward,” President Ranil Wickremesinghe said.
+
+“If we go in this road, the difficulties will fade away. The cost of living will become lighter. Economy will become stronger. Mother Sri Lanka will flower.”
+
+Sri Lanka defaulted in 2022 after the most aggressive growth by printing money (macro-economic policy) ever deployed macro-economists in the country in the history of the central bank which was set up in 1950.
+
+...
+
+[Data](articles/fb87b9cb.json)
+
+---
+
 ### Operation ‘Yukthiya’: 660 more suspects arrested
 
 *2024-02-04 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96988/operation-yukthiya-660-more-suspects-arrested) · `en`
@@ -257,6 +439,40 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 [Data](articles/b5c5adce.json)
 
 [Extended Data](ext_articles/b5c5adce.ext.json)
+
+---
+
+### தமிழ் மொழியிலும் தேசியக்கீதம் இசைக்கப்பட்டது
+
+*2024-02-04 10:38:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-மொழியிலும்-தேசியக்கீதம்-இசைக்கப்பட்டது/175-332618) · `ta`
+
+இலங்கையின் 76 வது சுதந்திர தினத்தின் பிரதான நிகழ்வு, ஜனாதிபதியும் முப்படைகளின் தளபதியுமான ரணில் விக்கிரமசிங்கவின் தலைமையில், ஞாயிற்றுக்கிழமை (4) காலி முகத்திடலில் நடைபெற்றது.
+
+நிகழ்வை ஆரம்பிக்கும் வகையில், பாடசாலை மாணவர்களால் சிங்கள மொழியில் தேசிய கீதம் இசைக்கப்பட்டது. பிரதான நிகழ்வுகளுக்குப் பின்னர், நிகழ்வின் நிறைவில் தேசிய கீதம் தமிழ்மொழியில் இசைக்கப்பட்டமை சிறப்பு அம்சமாகும்.
+
+தமிழ்மொழியில் தேசிய கீதம் இசைக்கப்பட்டமை மற்றும் இசைக்கப்படாமை தொடர்பில் கடந்த காலங்களில் பல்வேறான விமர்சனங்கள் இடம்பெற்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/63470ef2.json)
+
+---
+
+### ”ஒன்லைன் பாதுகாப்புச் சட்டம் தொடர்பில் சந்தேகமாக உள்ளது”
+
+*2024-02-04 10:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-பாதுகாப்புச்-சட்டம்-தொடர்பில்-சந்தேகமாக-உள்ளது/175-332616) · `ta`
+
+ஒன்லைன் பாதுகாப்புச் சட்டம் மற்றும் பயங்கரவாதத் தடுப்புச்  சட்டமூலம் போன்றவற்றை அரசாங்கம் திரும்பப் பெற வேண்டும் என்று முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்க வலியுறுத்தியுள்ளார். அவற்றால் மக்களின் அடிப்படை உரிமைகள் எந்நேரத்திலும் மீறப்படலாம் என்பதால் அவை  ஆபத்தானவை என அவர் தெரிவித்துள்ளார்.
+
+சமூக ஊடகங்களில் விசேட அறிக்கை ஒன்றை வெளியிட்ட அவர், இந்த சட்டங்களுக்கு எதிராக இளைஞர்களும் மக்களும் ஜனநாயக ரீதியாக செயல்பட வேண்டும் என்றார்.
+
+"ஒன்லைன் பாதுகாப்புச் சட்டம் மற்றும் பயங்கரவாத எதிர்ப்பு சட்டமூலம் ஆகியவை மிகவும் ஆபத்தானவை. அரசு விரும்பினால், இந்தச் சட்டங்களில் எந்த நேரத்திலும் மக்களின் அடிப்படை உரிமைகளை எளிதில் மீறும் வகையில் ஏற்பாடுகள் உள்ளன.
+
+அரசாங்கம் முந்தைய சந்தர்ப்பங்களில் எவ்வாறு செயல்பட்டது என்பதை நாம் கருத்தில் கொள்ளும்போது இந்தச் சட்டங்களை அரசாங்கம் எப்படிப் பயன்படுத்துமோ என்ற அச்சம் எங்களுக்கு உள்ளது. ​​​​இணையம் மற்றும் சமூக ஊடகங்களை அவர்கள் விரும்பியபடி பயன்படுத்த மக்களுக்கு உரிமை உண்டு.
+
+...
+
+[Data](articles/759b2585.json)
 
 ---
 
@@ -396,7 +612,7 @@ The President stressed the importance of obtaining insights from past mistakes a
 
 President Concluded his message by inviting all Sri Lankans, at home and abroad, to contribute their utmost energy to the noble mission of rebuilding our nation.
 
-Imran Khan and wife convicted for illegal marriage and jailed for 7 years
+Navy Seizes Two Poaching Trawlers & 23 Indian Nationals in Sri Lankan Waters
 
 ◼️
 
@@ -444,7 +660,7 @@ Roads from Colpetty Junction to Galle Face and the roads from Ceramic Junction t
 
 The Railways Department says that all trains on the Coastal line will operate. Trains will not stop at the Colpetty and Bambalapitiya railway stations from 5 am to 9 am.
 
-Imran Khan and wife convicted for illegal marriage and jailed for 7 years
+Navy Seizes Two Poaching Trawlers & 23 Indian Nationals in Sri Lankan Waters
 
 ◼️
 
@@ -782,6 +998,18 @@ Google released the doodle marking this occasion that spans the region of Sri La
 
 ---
 
+### Floral tributes offered to late Prime Minister D.S. Senanayake
+
+*2024-02-04 07:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Floral-tributes-offered-to-late-Prime-Minister-D-S-Senanayake/110-276292) · `en`
+
+Late Prime Minister D.S. Senanayake was honored with floral tributes at his statue in Independence Square, Colombo today to mark the 76th Independence Day. Minister Susil Premjayantha, Former Speaker Karu Jayasuriya, Senior Advisor to President Ranil Wickremesinghe on Climate Change Ruwan Wijewardene, Colombo Municipal Commissioner Bhadrani Jayawardena, and Former Minister Hemakumara Nanayakkara paid their respects at the late Premier’s statue. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/2f622993.json)
+
+---
+
 ### Joint Attack on Hoost Goals
 
 *2024-02-04 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192945) · `si`
@@ -899,6 +1127,28 @@ He declares that it is the maximum effort of the government to provide relief to
 [Data](articles/336840d5.json)
 
 [Extended Data](ext_articles/336840d5.ext.json)
+
+---
+
+### Sri Lanka Thailand FTA to unlock untapped trade and investment: President
+
+*2024-02-04 07:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-thailand-fta-to-unlock-untapped-trade-and-investment-president-149799/) · `en`
+
+ECONOMYNEXT – A free trade agreement with Thailand during the visit of Prime Minister Srettha Thavisin will allow the two countries to benefit from potential trade and investment that is untapped at the moment, President Ranil Wickremesinghe has said.
+
+“There is considerable potential to develop tourism, trade and other areas of economic cooperation between Sri Lanka and Thailand,” President Wickremesinghe was quoted as saying in a statement after bilateral discussion the a delegation led by Prime Minster Thaivisin.
+
+“We see great potential for enhanced investments from Thailand coming into Sri Lanka and we discussed possible areas for collaboration.”
+
+“There is significant potential for the expansion of trade and investment ties between our two countries which have remain largely untapped.”
+
+Sri Lanka has also signed an agreement to co-operate on gem and jewellery.
+
+A new bilateral air services agreement was also signed. Thai air will begin daily flights to Sri Lanka from March 31.
+
+...
+
+[Data](articles/b4df820b.json)
 
 ---
 
@@ -1757,265 +2007,5 @@ The pair put on a 232-run partnership for the fourth wicket, before Chandimal wa
 [Data](articles/87ed5803.json)
 
 [Extended Data](ext_articles/87ed5803.ext.json)
-
----
-
-### Keheliya hospitalized to Keheliya
-
-*2024-02-03 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192932) · `si`
-
-Former Health Minister Keheliya Rambukwella has been admitted to the Prison Hospital.
-
-Keheliya Rambukwella had been arrested by the Criminal Investigation Department yesterday (03). He was remanded until the 15th of this month.
-
-◼️
-
-[Data](articles/d4303049.json)
-
-[Extended Data](ext_articles/d4303049.ext.json)
-
----
-
-### Keheliya admitted to Prison Hospital
-
-*2024-02-03 17:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96975/keheliya-admitted-to-prison-hospital-) · `en`
-
-Former Health Minister Keheliya Rambukwella, who was put behind bars on remand earlier today, has been admitted to the Prison Hospital on medical recommendation.
-
-The lawmaker, arrested on Friday (Feb.02) by the Criminal Investigation Department (CID), was remanded until February 15 on the orders of Maligakanda Magistrate Lochani Abeywickrama.
-
-He was also listed as the 8th suspect in the ongoing case into substandard human immunoglobulin procurement.
-
-Prior to the apprehension of Rambukwella, seven arrests had been made in connection with the drug procurement scam. But the fifth accused was later released on bail. As such, the former Health Secretary, the Director of the Health Ministry’s Medical Supplies Division (MSD) and three other officials of the same division, as well as the owner of the company, which is said to have supplied the substandard batch of immunoglobulin vials, now remain in custody on remand.
-
-...
-
-[Data](articles/bba28cdf.json)
-
-[Extended Data](ext_articles/bba28cdf.ext.json)
-
----
-
-### Two policemen arrested for bribery charge
-
-*2024-02-03 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192931) · `si`
-
-Two police sergeants have been arrested by the Commission to Investigation Commission on charges of accepting Rs. 10,000.
-
-The Bribery Police said that the two suspects were arrested during a raid conducted by a person from Yatawatta, Matale.
-
-It is reported that the bribe of Rs.
-
-However, the Bribery Commission said that the two police sergeants were arrested at the time of reducing Rs.
-
-◼️
-
-[Data](articles/b87e5eff.json)
-
-[Extended Data](ext_articles/b87e5eff.ext.json)
-
----
-
-### Allow Shantan to come to Sri Lanka;Pa. Members Sreedharan, Manohanesan jointly request;The president is sure to consider favorably
-
-*2024-02-03 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175478) · `ta`
-
-Members of Parliament Sivagnanam Sreedharan and Tamil Progressive Alliance leader Mano Ganesan met President Ranil Wickremesinghe on Saturday afternoon to allow Shantan to come to Sri Lanka in the Rajiv Gandhi assassination case.
-
-The President has promised that Shantan will come to Sri Lanka and meet his elderly mother.
-
-During the meeting, the President has issued a directive to the President's Advisor for National Security Sagala Ratnayaka to take the next step in this regard.
-
-It is noteworthy that President Sreedharan has requested MP to provide Santhan's mother's request and further information.
-
-◼️
-
-[Data](articles/ed45d112.json)
-
-[Extended Data](ext_articles/ed45d112.ext.json)
-
----
-
-### Withdraw Online Safety Act: Chandrika urges government
-
-*2024-02-03 17:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Withdraw-Online-Safety-Act-Chandrika-urges-government/108-276284) · `en`
-
-Colombo, Feb. 03 (Daily Mirror)- Former President Chandrika Bandaranaike Kumaratunge urged the government to withdraw the Online Safety Act and the Anti-Terrorism Bill, claiming that they were dangerous acts which could be used by the government at any time to violate people's fundamental rights.
-
-Making a special statement on social media, she said the youth and the people must act democratically against these laws.
-
-...
-
-[Data](articles/fb9eb5d6.json)
-
-[Extended Data](ext_articles/fb9eb5d6.ext.json)
-
----
-
-### Suspect arrested at railway station in France
-
-*2024-02-03 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175483) · `ta`
-
-A knife attack at the Cardillon Railway Station has suffered a serious injury in the stomach.
-
-It is reported that a person who was found with a knife and hammer was attacked by the public.
-
-Police said that he was arrested by the railway security officer.
-
-The incident did not appear to be a terrorist attack, police said.
-
-France's Home Minister has praised the suspects who have said that this is an unbearable incident.
-
-It is noteworthy that a series of knives in France take place. A German tourist was killed in an attack near the Eiffel Tower in December.
-
-◼️
-
-[Data](articles/27a0995b.json)
-
-[Extended Data](ext_articles/27a0995b.ext.json)
-
----
-
-### Police gifts of police officers
-
-*2024-02-03 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192930) · `si`
-
-Police have taken steps to provide school equipments for the children and civil staff of the police officers and civil staff invested in the year 2024.
-
-4,547 police officers in various types of injuries island wide and Rs.
-
-The police headquarters stated that acting IGP Deshabandu Tennakoon has approved it.
-
-Solis hotel in Nugegoda and two civil staff officers were handed over to 66 police officers in Nugenai, Nugegoda and 66 children of civil staff.
-
-◼️
-
-[Data](articles/dcd3c412.json)
-
-[Extended Data](ext_articles/dcd3c412.ext.json)
-
----
-
-### Keheliya remanded
-
-*2024-02-03 16:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Keheliya-remanded/110-276287) · `en`
-
-Former Health Minister Keheliya Rambukwella who was arrested by the Criminal Investigation Department (CID) yesterday over the importation of substandard Immunoglobulin injections, has been remanded until February 15. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/5bfa4b5b.json)
-
-[Extended Data](ext_articles/5bfa4b5b.ext.json)
-
----
-
-### EDUCATION IN THE PLANTATION SECTOR
-
-*2024-02-03 16:40:00* · [`islandlk`](http://island.lk/education-in-the-plantation-sector/) · `en`
-
-Apart from livelihoods, post-tsunami, children’s education was one of the most deeply-affected dimensions. Our team established pre-schools for children in the affected areas and supplied teachers, specially trained by the Foundation not only to educate but also to handle emotional and physical trauma, resulting from the tsunami experience.
-
-...
-
-[Data](articles/93a1343b.json)
-
-[Extended Data](ext_articles/93a1343b.ext.json)
-
----
-
-### Ramzi Rahaman – The master craftsman
-
-*2024-02-03 16:23:00* · [`islandlk`](http://island.lk/ramzi-rahaman-the-master-craftsman/) · `en`
-
-It is said that a woman’s crowning glory is her ‘hair’ and it’s the crown she never takes off! For centuries ‘hair’ has been seen as a symbol of strength and beauty in women and from the dawn of civilisation, hair’ has been a fashion statement. Queen Cleopatra’s intriguing braids to heavily sprayed and back-combed beehive and bouffant hairdo of the 70s, to posh bobs and cute fringes, hair curled or waved in rollers, dreadlocks, braids, chignons, buns et al, in all forms and shapes have dominated fashion over time. And truly a good hair day is a boost to one’s self confidence to take on the world.
-
-...
-
-[Data](articles/6dd202c6.json)
-
-[Extended Data](ext_articles/6dd202c6.ext.json)
-
----
-
-### FTA signed between Thailand and Sri Lanka
-
-*2024-02-03 16:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/FTA-signed-between-Thailand-and-Sri-Lanka/108-276286) · `en`
-
-Colombo, Feb. 03 (Daily Mirror)- A Free Trade Agreement (FTA) was signed between Thailand and Sri Lanka at the Presidential secretariat a short while ago,President's Media Division (PMD) said.
-
-The FTA is aimed at enhancing market opportunities, with negotiations covering various aspects such as Trade in Goods, Investment, Customs Procedure and Intellectual Property Rights, the PMD said.
-
-Meanwhile, Sri Lanka and Thailand signed a new Bilateral Air Services Agreement, providing for liberalized air services between the two countries.
-
-The Gem and Jewellery Research and Training Institute (GJRTI) of Sri Lanka and the Gem and Jewellery Institute of Thailand (GIT) solidified their commitment to enhance bilateral cooperation and signed a Memorandum of Understanding, the PMD said.
-
-◼️
-
-[Data](articles/43cc53b3.json)
-
-[Extended Data](ext_articles/43cc53b3.ext.json)
-
----
-
-### President Ranil welcomes a group of people including Thailand Prime Minister
-
-*2024-02-03 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175469) · `ta`
-
-President Ranil Wickremesinghe was formally welcomed at the Presidential Secretariat at the Presidential Secretariat.
-
-Thailand's Prime Minister Shreta Davis arrived in Sri Lanka on Saturday afternoon.
-
-He has visited the country on the invitation of President Ranil Wickremesinghe and is the chief guest at the 76th Independence Day celebration of Sri Lanka.
-
-Prime Minister Dinesh Gunawardena made a special welcome at the Bandaranaike International Airport as the Prime Minister of Thailand Shretha Thavisin has visited the high -level delegation including Deputy Prime Minister Bhumdam Vechayachai.
-
-Meanwhile, the Prime Minister of Thailand will also participate in the signing of the Sri Lanka -Thailand Free Trade Agreement.
-
-◼️
-
-[Data](articles/8ad147fa.json)
-
-[Extended Data](ext_articles/8ad147fa.ext.json)
-
----
-
-### 12 -year -old student dies in a vehicle accident
-
-*2024-02-03 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175472) · `ta`
-
-A 12 -year -old student was killed when a lorry collided.
-
-The incident took place on Saturday (03) in front of the Southeastern University of Southeastern University of Samanthurai - Ambarai.
-
-A student who was traveling from the side of the university faculty to his house on the next side has died in a collision with a Kentor vehicle collision from Samanthurai.
-
-AM Basir (age 12), a resident of Samanthurai main road, has died and the driver of the lorry has been arrested.
-
-The vehicle of the accident has been parked at the Samanthurai police station and the body of the student who died. Further investigations are being carried out by Samanthurai police.
-
-◼️
-
-[Data](articles/87111445.json)
-
-[Extended Data](ext_articles/87111445.ext.json)
-
----
-
-### Thailand commercial agreement signs Sri Lanka
-
-*2024-02-03 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192928) · `si`
-
-Sri Lanka's Thailand Free Trade Agreement was held today (03).
-
-The Prime Minister of Thailand was signed in parallel to the country's visit to Sri Lanka.
-
-The Sri Lanka - Thailand signed the Free Trade Agreement, the Sri Lanka Gem and Jewelery Research and Training Institute and the Signing of a Memorandum of Understanding between Thailand Menik and Jewelery Institute.
-
-◼️
-
-[Data](articles/69d3c669.json)
-
-[Extended Data](ext_articles/69d3c669.ext.json)
 
 ---

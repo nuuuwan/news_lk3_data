@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 09:02:19**
+As of **2024-02-04 09:17:21**
 
 ## Newspaper Stats
 
@@ -26,29 +26,31 @@ dailymirrorlk | 646
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,638 (99.9%) of 4,642 articles have been extended.
+4,642 (100.0%) of 4,642 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
 
-### நித்திரையில் இருந்தவர்களிடம் தடை உத்தரவு கையளிப்பு
+### Handing over to those who were sleeping
 
 *2024-02-04 08:40:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/நித்திரையில்-இருந்தவர்களிடம்-தடை-உத்தரவு-கையளிப்பு/73-332612) · `ta`
 
-சுதந்திர தினத்தை எதிர்த்து மட்டக்களப்பில் ஏற்பாடு செய்யப்பட்டிருந்த கரிநாள் ஆர்ப்பாட்டத்தில் ஈடுபடவுள்ள இன்னால் முன்னால் பாராளுமன்ற உறுப்பினர்கள் மற்றும் கட்சிகளின் அமைப்பாளர் சமூக செயற்பாட்டளாகள் 17 பேருக்கு நீதிமன்றம் தடையுத்தரவு பிறப்பித்துள்ளது.
+The court has issued a ban on 17 members of parliamentarians and organizers of the party, which is scheduled to be held in Batticaloa, which was organized in Batticaloa against Independence Day.
 
-சனிக்கிழமை (03) பிறப்பிக்கப்பட்ட தடை உத்தரவை பொலிஸார் இரவோடு  இரவா உரியவர்களின் வீடுகளுக்கு சென்று வழங்கியுள்ளனர்.
+The police have issued a ban issued on Saturday (03) to the homes of those who are in the night.
 
-இலங்கையின் 76 ஆவது சுதந்திர தினமான  பெப்பிரவரி (04) நாடு பூராகவும் கொண்டாடும்  நிலையில் வடக்கு கிழக்கில் அதனை கரிநாளாக பிரகடனப்படுத்தி  வடக்கு, கிழக்கு பல்கலைக்கழக மாணவர்கள் வடக்கிலும் கிழக்கிலும் பாரிய ஆர்ப்பாட்ட பேரணிக்கு ஏற்பாடு செய்திருந்தனர்.
+Northern and Eastern University students organized a massive demonstration in the north and east, declaration of a day in the North and East, celebrating the 76th Independence Day of Sri Lanka, February (04).
 
-இதற்கு  வலிந்து காணாமல் போன உறவுகளின் சங்கங்கள் மற்றும் சில அரசியல்கட்சிகள் ஆதரவு வழங்குவதாக அறிவித்தன.
+The associations of the missing relations and some political parties announced that it would support it.
 
-இந்த நிலையில் மட்டக்களப்பில் கல்லடி பாலத்தில் இருந்து காந்தி பூங்கா வரையில் ஆர்ப்பாட்ட பேரணி இடம்பெற இருந்துள்ள நிலையில் மட்டு. வெபர் மைதானத்தில் சுதந்திர தின விழா இடம்பெறவுள்ளது.
+As a result of the protest march from Kalladi Bridge to Gandhi Park in Batticaloa. Independence Day Celebration will be held at Weber Ground.
 
 ...
 
 [Data](articles/d4132f79.json)
+
+[Extended Data](ext_articles/d4132f79.ext.json)
 
 ---
 
@@ -72,15 +74,17 @@ Police and Navy's life officers are operating in search of the missing person.
 
 ---
 
-### கூகுள் டூடுல் வாழ்த்து
+### Greeting Google Doodle
 
 *2024-02-04 08:19:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூகுள்-டூடுல்-வாழ்த்து/175-332611) · `ta`
 
-நாட்டின் 76 ஆவது சுதந்திர தினத்தின் பிரதான வைபவம் கொழும்பு-காலி முகத்திடலில் வெகு விமர்சையாக நடைபெறுகின்றது. இந்நிலையில், கூகுல் நிறுவனம், கூகுள் டூடுல் வாழ்த்தியுள்ளது.
+The main ceremony of the country's 76th Independence Day is being held in Colombo-Kali face. In this case, Google has congratulated Google Doodle.
 
 ◼️
 
 [Data](articles/95351d70.json)
+
+[Extended Data](ext_articles/95351d70.ext.json)
 
 ---
 
@@ -104,15 +108,17 @@ The body is in the same place and will be conducted today (04).
 
 ---
 
-### 76ஆவது சுதந்திர தினம் (நேரலை)
+### 76th Independence Day (Live)
 
 *2024-02-04 08:10:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/76ஆவது-சுதந்திர-தினம்-நேரலை/52-332610) · `ta`
 
-நாட்டின் 76 ஆவது சுதந்திர தினத்தின் பிரதான வைபவம் கொழும்பு-காலி முகத்திடலில் வெகு விமர்சையாக நடைபெறுகின்றது.
+The main ceremony of the country's 76th Independence Day is being held in Colombo-Kali face.
 
 ◼️
 
 [Data](articles/3fc24a4c.json)
+
+[Extended Data](ext_articles/3fc24a4c.ext.json)
 
 ---
 
@@ -340,17 +346,19 @@ Minister of Trade, Commerce, and Food Security,  Nalin Fernando, represented Sr
 
 ---
 
-### தடையுத்தரவு கோரும் மனு நிராகரிப்பு
+### Dispensation
 
 *2024-02-04 04:02:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடையுத்தரவு-கோரும்-மனு-நிராகரிப்பு/175-332609) · `ta`
 
-இலங்கையின் 76ஆவது சுதந்திர தினத்துக்கு எதிராக யாழ்ப்பாணத்தில் போராட்டங்கள் முன்னெடுக்கப்படலாம் எனக் கருதிய பொலிஸார், யாழ்ப்பாணம் நீதிவான் நீதிமன்றம் ஊடாக தடையுத்தரவைப் பெற முயற்சித்த போதிலும் அந்தக் கோரிக்கை நிராகரிக்கப்பட்டது.
+The police thought that protests could be waged in Jaffna against Sri Lanka's 76th Independence Day, but the request was rejected by the Jaffna Magistrate's Court.
 
-யாழ்ப்பாணம் தலைமையகப் பொலிஸாரால் அரசியல் கட்சிகளின் பிரதிநிதிகள் சிலருக்குப் போராட்டம் நடத்தத் தடை விதிக்கக் கோரிய மனுவை யாழ். நீதிமன்ற பதில் நீதிவான் பா.தவபாலன் நேற்று நிராகரித்தார். (a)
+Jaffna Headquarters Police have filed a petition seeking a ban on some representatives of political parties to protest. Judge P. Thavapalan rejected the court yesterday. (A)
 
 ◼️
 
 [Data](articles/67247651.json)
+
+[Extended Data](ext_articles/67247651.ext.json)
 
 ---
 

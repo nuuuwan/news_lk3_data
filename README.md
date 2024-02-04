@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 14:17:24**
+As of **2024-02-04 14:32:48**
 
 ## Newspaper Stats
 
-*Scraped **4,700** Articles*
+*Scraped **4,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 254
 economynextcom | 256
 dailyftlk | 280
 newsfirstlk | 287
-adalk | 405
+adalk | 406
 virakesarilk | 523
 adaderanalk | 588
 adaderanasinhalalk | 593
@@ -26,7 +26,7 @@ dailymirrorlk | 655
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,699 (100.0%) of 4,700 articles have been extended.
+4,700 (100.0%) of 4,701 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Biden, who was in Los Angeles for a fundraising event Saturday evening when his 
 ...
 
 [Data](articles/4f5ead1d.json)
+
+[Extended Data](ext_articles/4f5ead1d.ext.json)
 
 ---
 
@@ -313,6 +315,24 @@ Police said that another person was involved in the incident and investigations 
 [Data](articles/a4182332.json)
 
 [Extended Data](ext_articles/a4182332.ext.json)
+
+---
+
+### පක්ෂය කඩන්නේ නෑ, රාජපක්ෂලා⁣ට විරැද්ධ නෑ, රනිල්ගේ ගොට්ටෙක් වෙන්නෙත් නෑ
+
+*2024-02-04 11:49:48* · [`adalk`](https://www.ada.lk/breaking_news/පක්ෂය-කඩන්නේ-නෑ--රාජපක්ෂලා⁣ට-විරැද්ධ-නෑ--රනිල්ගේ-ගොට්ටෙක්-වෙන්නෙත්-නෑ/11-407887) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට නැවත අවස්ථාවක් ලබා දිය යුතු බවට තමන් කළ ප්‍රකාශය හේතුවෙන් තමන් රනිල් වික්‍රමසිංහ මහතාගේ ගොට්ටෙකු බවටත්, පක්ෂය කැඩීමට සූදානම් වන බවටත්, රාජපක්ෂලාට විරුද්ධ බවටත් ඇතැමුන් කරන චෝදනා දැඩි ලෙස ප්‍රතික්ෂේප කරන බව ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+
+ඔහු අවධාරණය කරන්නේ මේ මොහොතේ රනිල් හැර රටට වෙන විකල්පයක් නොමැති නිසා තමන් රනිල් වික්‍රමසිංහ මහතා වෙනුවෙන් පෙනී සිටින බවයි. තම හෘද සාක්ෂියට අනුව සිදු කරන්නක් බවද ඇමතිවරයා පෙන්වා දෙයි.
+
+එය කිසිසේතම පක්ෂයට හෝ රාජපක්ෂලාට එරෙහි වීමක් නොවන බව අවධාරණය කරන ඇමතිවරයා තමන් මේ ප්‍රකාශය කරන්නේ රට ගැන සිතා බවද කියයි.
+
+ඇමති ප්‍රසන්න රණතුංග මහතා මේ බව සඳහන් කළේ ඊයේ (03) කටාන සහ දිවුලපිටිය හිටපු පළාත් පාලන නියෝජිතයන් සමඟ සාකච්ඡාවකට එක්වෙමිණි. ඉදිරි දේශපාලන කටයුතු පිළිබඳව සාකච්ඡා කිරීම සඳහා මෙය කැඳවා තිබූ අතර ඇමතිවරයාගේ උඩුගම්පල කාර්යාලයේදී එය පැවැත්විණි.
+
+...
+
+[Data](articles/ff12845e.json)
 
 ---
 
@@ -2011,27 +2031,5 @@ Retreats are a time to reflect on life and the mysterious workings of God in one
 [Data](articles/3f59c45f.json)
 
 [Extended Data](ext_articles/3f59c45f.ext.json)
-
----
-
-### SJB to bring no-confidence motion against Speaker?
-
-*2024-02-03 20:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96979/sjb-to-bring-no-confidence-motion-against-speaker) · `en`
-
-A no-confidence motion will have to be brought against Speaker of the Parliament Mahinda Yapa Abeywardena, since he has ignored nine recommendations given by the Supreme Court while enacting the Online Safety Act, says the Opposition Leader Sajith Premadasa.
-
-Addressing an event held in Galle today (Feb. 03), Premadasa said that they have no faith in the Speaker anymore.
-
-“The Speaker has granted approval for the Online Safety Act in an unlawful manner. We carried out an analysis regarding the matter. The recommendations of the Supreme Court have been neglected on 09 instances”, he said.
-
-“We have no confidence on the Speaker anymore. We will have to consider whether [the parliament] has confidence on the Speaker or not, in the future”, he added.
-
-Meanwhile, the Opposition Leader warned that disciplinary action will be sought, regardless of their ranks, against the members of the Samagi Jana Balawegaya (SJB) who criticizes the party while being part of it.
-
-◼️
-
-[Data](articles/5b067a34.json)
-
-[Extended Data](ext_articles/5b067a34.ext.json)
 
 ---

@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 05:57:39**
+As of **2024-02-04 06:18:48**
 
 ## Newspaper Stats
 
-*Scraped **4,609** Articles*
+*Scraped **4,616** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 55
 bbccomsinhala | 70
 dbsjeyarajcom | 135
-islandlk | 240
+islandlk | 247
 economynextcom | 254
 dailyftlk | 280
 newsfirstlk | 282
@@ -26,7 +26,7 @@ dailymirrorlk | 643
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,609 (100.0%) of 4,609 articles have been extended.
+4,609 (99.8%) of 4,616 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -346,6 +346,20 @@ The Opposition Leader also warned that the residents of the party would be inves
 
 ---
 
+### Lionel Wendt, Count de Mauny, David Paynter and Raman
+
+*2024-02-03 21:09:00* · [`islandlk`](http://island.lk/lionel-wendt-count-de-mauny-david-paynter-and-raman/) · `en`
+
+The self styled “Count”. De Mauny was born as Maurice Marie Talavande on March 21, 1886. The circumstances under which he left for Ceylon were controversial, some writers suggesting that he was compelled to leave France for misbehaviour with young men in his charge.
+
+None of these rumours have ever been established, and to this day remain as rumours. According to William Warren, author of the book “Tropical Asian Style”, de Mauny was first invited to Ceylon in 1912 by SIr Thomas Lipton the tea magnate. He followed that up with several subsequent visits concluding with his purchase of an island off the coast of Weligama, which was only a rocky outcrop one and a half acres in extent and overrun with weeds.
+
+...
+
+[Data](articles/bc3599cd.json)
+
+---
+
 ### Pakistan ex-PM Imran Khan and wife jailed for 7 years for unlawful marriage
 
 *2024-02-03 20:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/96980/pakistan-ex-pm-imran-khan-and-wife-jailed-for-7-years-for-unlawful-marriage) · `en`
@@ -365,6 +379,20 @@ Khan is in prison in the garrison city of Rawalpindi, while his wife will serve 
 [Data](articles/46581735.json)
 
 [Extended Data](ext_articles/46581735.ext.json)
+
+---
+
+### Memories of Geoff Weinman
+
+*2024-02-03 20:47:00* · [`islandlk`](http://island.lk/memories-of-geoff-weinman/) · `en`
+
+The news of the recent demise of Geoff Weinman after a long span of 93 years did not come as a surprise to me. I am saddened, nevertheless, as over the years, beginning from around 1957 I had enjoyed a very rewarding relationship with him.
+
+He spent his last years in an Elders’ Home well cared for by its professional staff. I was in constant touch with him on a regular basis even after he emigrated to Australia until unfortunate circumstances made him incommunicado. Thereafter, it was a case of obtaining regular updates on his health from the professional staff of the Elders’ Home. Perhaps the last Sri Lankans to visit him there were two of my former teammates, long-time residents in Sydney, Dr. Shivantha Arudpragasam and Rex Perera, inseparable second-row forwards of my time!
+
+...
+
+[Data](articles/be06d3d6.json)
 
 ---
 
@@ -415,6 +443,34 @@ He has been accused of distributing billions of crores to the government.
 [Data](articles/dd961ba1.json)
 
 [Extended Data](ext_articles/dd961ba1.ext.json)
+
+---
+
+### HOW THE GODS AND DEMONS LEARNED TO PLAY TOGETHER
+
+*2024-02-03 20:31:00* · [`islandlk`](http://island.lk/how-the-gods-and-demons-learned-to-play-together/) · `en`
+
+Derived from chapter one, six and seven of the Natyasashtra, on the origin of drama, and published in The Monkey King And Other Stories, Canada 1995 and in Scarless Face And Other Stories, India 2006.
+
+The great god of the Hindus is Lord Brahma and in ancient times the great book of the Hindus made up of many parts was called the Vedas which told the Hindus about life, through artistic methods. India is a very large place, and people just moved across land from one place to another, meeting other, different kinds of people as they went. Lord Brahma and his Hindus who started in the North of India began moving to the South, carrying with them the great books of the Vedas. The people of Lord Brahma moved right across the whole of Southern India and into the country now called Sri Lanka, for in those days the narrow and shallow sea that divides Sri Lanka from India was all land.
+
+...
+
+[Data](articles/36d29e68.json)
+
+---
+
+### Krishantha Cooray saved my life
+
+*2024-02-03 20:27:00* · [`islandlk`](http://island.lk/krishantha-cooray-saved-my-life/) · `en`
+
+Many have been my blessings over the past 15 years after a fresh lease of life afforded me in 2008. Spending quality time with my family including my grandchild more recently as well as attending spiritual retreats, with the latest ending on Australia Day long weekend, have been standouts.
+
+Retreats are a time to reflect on life and the mysterious workings of God in one’s life. It was definitely the mercy of God that afforded me a fresh lease of life after my abductors were hellbent on literally silencing me after torture. God works on earth through angelic as well as human beings through their acts of goodness – the essence of God. At Christmas, the angels announced, “Glory to God on high and peace to men of goodwill”. Hence, a good person irrespective of their faith is already inclined towards God.
+
+...
+
+[Data](articles/3f59c45f.json)
 
 ---
 
@@ -485,6 +541,18 @@ INS ‘Karanj’ will depart the island nation on February 5, symbolising the st
 [Data](articles/f675018f.json)
 
 [Extended Data](ext_articles/f675018f.ext.json)
+
+---
+
+### DS Senanayake, the all time great: “If he did not live, Ceylon would have been very different”
+
+*2024-02-03 19:12:00* · [`islandlk`](http://island.lk/ds-senanayake-the-all-time-great-if-he-did-not-live-ceylon-would-have-been-very-different/) · `en`
+
+One morning in March 1952, Don Stephen Senanayake, Ceylon’s first Prime Minister, fell off the horse he was riding on the Galle Face Green in Colombo and died 33 hours later. He was in his 68th year and was probably the victim of a stroke which made him lose control of the horse. He was found laid out on the turf with his face downwards and bleeding from his nose. The nation mourned the man who had led it to independence and had made the parched lands of the Island bloom.
+
+...
+
+[Data](articles/b7e082dd.json)
 
 ---
 
@@ -801,6 +869,30 @@ Former Health Minister Keheliya Rambukwella who was arrested by the Criminal Inv
 [Data](articles/5bfa4b5b.json)
 
 [Extended Data](ext_articles/5bfa4b5b.ext.json)
+
+---
+
+### EDUCATION IN THE PLANTATION SECTOR
+
+*2024-02-03 16:40:00* · [`islandlk`](http://island.lk/education-in-the-plantation-sector/) · `en`
+
+Apart from livelihoods, post-tsunami, children’s education was one of the most deeply-affected dimensions. Our team established pre-schools for children in the affected areas and supplied teachers, specially trained by the Foundation not only to educate but also to handle emotional and physical trauma, resulting from the tsunami experience.
+
+...
+
+[Data](articles/93a1343b.json)
+
+---
+
+### Ramzi Rahaman – The master craftsman
+
+*2024-02-03 16:23:00* · [`islandlk`](http://island.lk/ramzi-rahaman-the-master-craftsman/) · `en`
+
+It is said that a woman’s crowning glory is her ‘hair’ and it’s the crown she never takes off! For centuries ‘hair’ has been seen as a symbol of strength and beauty in women and from the dawn of civilisation, hair’ has been a fashion statement. Queen Cleopatra’s intriguing braids to heavily sprayed and back-combed beehive and bouffant hairdo of the 70s, to posh bobs and cute fringes, hair curled or waved in rollers, dreadlocks, braids, chignons, buns et al, in all forms and shapes have dominated fashion over time. And truly a good hair day is a boost to one’s self confidence to take on the world.
+
+...
+
+[Data](articles/6dd202c6.json)
 
 ---
 
@@ -1897,131 +1989,5 @@ The athlete-turned-actor was comfortable starring in action and comedy, in appea
 [Data](articles/87bdc46b.json)
 
 [Extended Data](ext_articles/87bdc46b.ext.json)
-
----
-
-### No special holiday on Monday
-
-*2024-02-03 09:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-special-holiday-on-Monday/108-276274) · `en`
-
-Colombo, Feb 3 (Daily Mirror) The Home Affairs Minister today announced that no special holiday has been declared for Monday (5) which is the day following the 76th Independence day.
-
-Accordingly, the Ministry further said that all government institutions will function as usual.
-
-◼️
-
-[Data](articles/59f1062b.json)
-
-[Extended Data](ext_articles/59f1062b.ext.json)
-
----
-
-### Man arrested with illegal drugs
-
-*2024-02-03 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192914) · `si`
-
-A person has been arrested by the STF in possession of Rs.
-
-A team of the Police Special Task Force in the Police Special Task Force states that the drug was found in a raid in the Wattala, Wattala.
-
-192,000 Milligrams of Fighter have been recovered from the suspect.
-
-The suspect is a 40 year old resident of Badulla, and he has been handed over to the capturemulla police station for further investigations.
-
-◼️
-
-[Data](articles/c9adef35.json)
-
-[Extended Data](ext_articles/c9adef35.ext.json)
-
----
-
-### CBK back in the fray to lead SLFP-LED People’s Alliance
-
-*2024-02-03 09:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CBK-back-in-the-fray-to-lead-SLFP-LED-Peoples-Alliance/108-276270) · `en`
-
-Sri Lanka Freedom Party (SLFP) has reinstated the membership of former President Chandrika Bandaranaike Kumaratunga, enabling her to lead the party-dominated Podujana Eksath Peramuna (People’s Alliance), the Daily Mirror learns.
-
-SLFP leader former President Maithripala Sirisena has already informed Ms. Kumaratunga about the membership reinstatement. The party has now decided to revive the People’s Alliance under its chair symbol. The alliance was originally formed ahead of the general election in 1994 as a move to defeat the 17-year rule of the United National Party (UNP). The People’s Alliance remained in power until 2001 when it was defeated by the UNP again.
-
-In 2004, the SLFP took the lead in forming the United People’s Freedom Alliance (UPFA).
-
-Since then, the People’s Alliance remained idle in politics. In what appeared to be a new political development ahead of the presidential elections, it will be revived with Ms. Kumaratunga as the leader.
-
-...
-
-[Data](articles/393c2215.json)
-
-[Extended Data](ext_articles/393c2215.ext.json)
-
----
-
-### Keheliya Azhar in court
-
-*2024-02-03 09:34:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தில்-கெஹலிய-ஆஜர்/175-332582) · `ta`
-
-The Criminal Investigation Department (CID) has recorded a statement on controversial drug imports for more than 10 hours yesterday.
-
-Subsequently, he was arrested by the Criminal Investigation Department yesterday (02). (Of)
-
-◼️
-
-[Data](articles/731f9812.json)
-
-[Extended Data](ext_articles/731f9812.ext.json)
-
----
-
-### Keheliya Rambukwella produced before court
-
-*2024-02-03 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96964/keheliya-rambukwella-produced-before-court) · `en`
-
-Former Health Minister Keheliya Rambukwella has been produced before the Maligakanda Magistrate’s Court this morning (Feb.03).
-
-He was taken into custody by the Criminal Investigation Department (CID) on Friday evening (Feb.02) in connection with his alleged complicity in the procurement of substandard human intravenous immunoglobulin (IVIG). He made an appearance before the CID on Friday morning, complying with a court order issued yesterday and was grilled for nearly 10 hours.
-
-The arrest came hot on the heels of mounting pressure from civil society activists and health sector trade unionists who have been calling for the immediate apprehension of the lawmaker.
-
-...
-
-[Data](articles/a76e6749.json)
-
-[Extended Data](ext_articles/a76e6749.ext.json)
-
----
-
-### The government should withdraw the laws that give power to harass people - former President Chandrika
-
-*2024-02-03 09:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/175425) · `ta`
-
-Former President Chandrika Kumaratunga has said that these bills give the government the powers to harass the people who criticize the government using democratic rights and the anti -terrorism bill and the anti -terrorism bill.
-
-I am not going to clarify these laws as the protests have taken place on the streets as these bills have been discussed and discussed.
-
-My opinion on the basis of a senior citizen is that both are very serious.
-
-These laws give the government more powers to harass the people who are working on a democratic way, and these bills give the government the powers to harass the people who criticize the government by using democratic rights.
-
-◼️
-
-[Data](articles/45106870.json)
-
-[Extended Data](ext_articles/45106870.ext.json)
-
----
-
-### Keheliya
-
-*2024-02-03 09:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192913) · `si`
-
-Former Health Minister Keheliya Rambukwella has been taken to the Maligakanda Court yesterday (02) by the CID yesterday.
-
-The CID has recorded statements from the former Minister of Controversial Human Emiyankulabulin incident yesterday.
-
-◼️
-
-[Data](articles/7c694cd7.json)
-
-[Extended Data](ext_articles/7c694cd7.ext.json)
 
 ---

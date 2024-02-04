@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 11:51:30**
+As of **2024-02-04 12:02:15**
 
 ## Newspaper Stats
 
-*Scraped **4,668** Articles*
+*Scraped **4,669** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 287
 adalk | 402
 virakesarilk | 521
-adaderanalk | 584
+adaderanalk | 585
 adaderanasinhalalk | 587
 tamilmirrorlk | 590
 dailymirrorlk | 648
@@ -26,25 +26,49 @@ dailymirrorlk | 648
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,666 (100.0%) of 4,668 articles have been extended.
+4,669 (100.0%) of 4,669 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
 
-### පන්දුවට පහර දෙමින් සිටි චාමික හදිසියේම පිටියෙන් ඉවත් වෙයි
+### US, Britain wage strikes against Iran-linked Houthis in Yemen
+
+*2024-02-04 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96989/us-britain-wage-strikes-against-iran-linked-houthis-in-yemen) · `en`
+
+The United States and Britain launched strikes against 36 Houthi targets in Yemen on Saturday, in the second day of major U.S. operations against Iran-linked groups following a deadly attack on American troops last weekend.
+
+The strikes hit buried weapons storage facilities, missile systems, launchers and other capabilities the Houthis have used to attack Red Sea shipping, the Pentagon said, adding it targeted 13 locations across the country.
+
+It was the latest sign of spreading conflict in the Middle East since war erupted between Israel and Hamas after the militant Palestinian group’s deadly assault on Israel on Oct.7.
+
+“This collective action sends a clear message to the Houthis that they will continue to bear further consequences if they do not end their illegal attacks on international shipping and naval vessels,” U.S. Defense Secretary Lloyd Austin said.
+
+Houthi military spokesperson Yahya Sarea said the U.S. strikes “will not pass without a response and consequences.”
+
+...
+
+[Data](articles/96a56130.json)
+
+[Extended Data](ext_articles/96a56130.ext.json)
+
+---
+
+### Chamika and champicated suddenly withdraw
 
 *2024-02-04 11:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192955) · `si`
 
-ශ්‍රී ලංකා - ඇෆ්ගනිස්තාන ටෙස්ට් ක්‍රිකට් තරගය මේ වනවිට කොළඹ එස් එස් සී ක්‍රීඩාංගණයේදී පැවැත්වෙයි.
+Sri Lanka - Afghanistan Test match will be held at the SC Stadium in Colombo.
 
-මීට සුළු මොහොතක ට පෙර පන්දුවට පහර දෙමින් සිටි චාමික ගුණසේකර හදිසියේම පිටියෙන් ඉවත්විය.
+Chamik Gunasekera was suddenly withdrawn from the field before a while ago.
 
-තරගයේ විස්තර විචාරකයන් පැවසුවේ ඒ හේතුවෙන් ඇතිවූ අපහසුතාවයක් නිසා චාමික පිටියෙන් ඉවත්වන්න තීරණය කරන්නට ඇති බවය.
+The competition commentators said that it would have decided to resign from the charmic colony due to the difficulty caused by it.
 
 ◼️
 
 [Data](articles/47c3408d.json)
+
+[Extended Data](ext_articles/47c3408d.ext.json)
 
 ---
 
@@ -59,6 +83,8 @@ The Navy conducts regular patrols and operations in Sri Lankan waters to curb il
 ...
 
 [Data](articles/21dc4f72.json)
+
+[Extended Data](ext_articles/21dc4f72.ext.json)
 
 ---
 
@@ -1991,27 +2017,5 @@ The Afghan group obtained only 198 marks for their first innings.
 [Data](articles/f451d2ee.json)
 
 [Extended Data](ext_articles/f451d2ee.ext.json)
-
----
-
-### A wild elephant that started school wall
-
-*2024-02-03 15:49:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பாடசாலை-மதிலை-துவம்சம்-செய்த-காட்டுயானை/73-332589) · `ta`
-
-In many areas including Wellaveli, Palayadavatti, Thikkodai, Kalumundanveli, Thumbangeni, Mandur, Gandhipuram, etc., in the Paduwangarai area of the Batticaloa district, there is an increasing number of wild elephants.
-
-In this case, people in the area say that a portion of the wall of the Thumbangeni Kannaki Vidyalaya has been broken down on Friday night (02).
-
-The Thumbangeni Kannaki Vidyalaya under the Education Zone is located in the agricultural environment. Amidst many difficulties, teachers go to the school amidst many difficulties.
-
-The school is built on one side of the school as a result of the efforts of the Chancellor Teachers and the School Development Association.. Students of the school also go to the fear of wild elephants.
-
-The school development association is worried that the wild elephant has been started by a part of it.. Remble
-
-◼️
-
-[Data](articles/3dc4d753.json)
-
-[Extended Data](ext_articles/3dc4d753.ext.json)
 
 ---

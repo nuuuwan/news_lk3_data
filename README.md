@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 17:33:14**
+As of **2024-02-04 17:52:49**
 
 ## Newspaper Stats
 
-*Scraped **4,727** Articles*
+*Scraped **4,736** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,107 +16,261 @@ economynextcom | 256
 dailyftlk | 280
 newsfirstlk | 287
 adalk | 409
-virakesarilk | 526
+virakesarilk | 532
 adaderanalk | 591
-adaderanasinhalalk | 598
+adaderanasinhalalk | 600
 tamilmirrorlk | 604
-dailymirrorlk | 660
+dailymirrorlk | 661
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,722 (99.9%) of 4,727 articles have been extended.
+4,736 (100.0%) of 4,736 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
 
-### மூன்றாம் தவணை நாளை​ ஆரம்பம்
+### Suspect arrested for over Rs.10 million
+
+*2024-02-04 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192969) · `si`
+
+Indian authorities have arrested a suspect with a gold biscuit who was taken to India from Sri Lanka to India.
+
+The suspect has been arrested following a racket on information regarding a racket.
+
+Tamil Nadu media reports that the relevant authorities have taken a motorcycle with the suspect.
+
+It is also reported that Sri Lanka has exceeded Rs.
+
+◼️
+
+[Data](articles/fff343ec.json)
+
+[Extended Data](ext_articles/fff343ec.ext.json)
+
+---
+
+### Hungama terrible accident
+
+*2024-02-04 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192968) · `si`
+
+A horrific injury has been reported in the Hungama area on the Tissa-Matara main road.
+
+Seven persons have been admitted to Tangakolapelessa and Hambantota hospitals for treatment.
+
+At the time of the accident, five were in the vehicle and two suspects in the van.
+
+They are residents of Tangalle and Hungama areas.
+
+At attempting to pass a bus to go after a bus, the suspection of collided with the car.
+
+◼️
+
+[Data](articles/dfcad5b9.json)
+
+[Extended Data](ext_articles/dfcad5b9.ext.json)
+
+---
+
+### Tulirkuma re -federation?
+
+*2024-02-04 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175548) · `ta`
+
+The question arises as to whether he has the intention of fulfilling the wishes of the forces, which the TNA, which was created with the LTTE's blessing, should not last.
+
+In this case, the re -formation of the Tamil National Alliance is possible, depending on the extent that the Tamil National parties are ready for concessions.
+
+◼️
+
+[Data](articles/3a2dcdb7.json)
+
+[Extended Data](ext_articles/3a2dcdb7.ext.json)
+
+---
+
+### Will you slip off the opportunity?
+
+*2024-02-04 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175547) · `ta`
+
+If the TNA misses these two opportunities, it will be a massive mistake in history.
+
+Leaders and parties that fail to take advantage of the opportunities available have disappeared from history.
+
+Such a situation is in the hands of the party's leadership, the fact that the TNA does not occur.
+
+◼️
+
+[Data](articles/bab8c506.json)
+
+[Extended Data](ext_articles/bab8c506.ext.json)
+
+---
+
+### Intellectuals must formulate the plan for Muslims
+
+*2024-02-04 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/175544) · `ta`
+
+Muslim intellectuals must come forward to lead politicians and community. This year is the year of elections because the Muslim intellectuals must formulate a plan that includes solutions to the problems of Muslims.. It should be socialized and the Muslim political parties must accept it. Like the diverted birds, the Muslim parties must put an end to the work of moving the ministerial positions in the direction of the governing body.. The Muslim parties must seek to implement the plan set by the intellectuals, no matter what the bigotry party has.
+
+◼️
+
+[Data](articles/d6994086.json)
+
+[Extended Data](ext_articles/d6994086.ext.json)
+
+---
+
+### Ranil said the common candidate
+
+*2024-02-04 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/175545) · `ta`
+
+In that respect, Sumanthiran's team cannot expect to re -make choices or give recognitions. At the same time, it is not possible to guarantee that there is no chaos, even when the choices are taking place.
+
+Therefore, despite the current choices of the Sri Lankan Tamil party, the complex conditions are going on, even if the new choices are made.. Therefore, it is not to say that it will be completed smoothly in any site of the public event of the 17th National Conference.
+
+◼️
+
+[Data](articles/600be2e9.json)
+
+[Extended Data](ext_articles/600be2e9.ext.json)
+
+---
+
+### Truth test for Tamils
+
+*2024-02-04 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175546) · `ta`
+
+If the National Conference is held according to the choice, then the next step is to take the formula of 'Sridharan and Sumanthiran General Secretary', which Sumanthiran has proposed.
+
+If that is the case, it is sure to lose the North and East face, which has a traditional political party, the Tamil National Party. Therefore, the party will continue the truth test without giving up
+
+◼️
+
+[Data](articles/653270fa.json)
+
+[Extended Data](ext_articles/653270fa.ext.json)
+
+---
+
+### The third installment is beginning tomorrow
 
 *2024-02-04 16:50:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்றாம்-தவணை-நாளை-ஆரம்பம்/175-332652) · `ta`
 
-அரச மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளின் மூன்றாம் தவணைக்கான இரண்டாம் கட்ட கல்வி நடவடிக்கைகள் திங்கட்கிழமை (05) ஆரம்பமாகவுள்ளது.
+The second phase of educational activities for the third term of state and state -approved private schools will commence on Monday (05).
 
-இதேவேளை உயர்தரப் பரீட்சை காரணமாக கடந்த டிசெம்பர் 23 ஆம் திகதி பாடசாலைகளுக்கு விடுமுறை வழங்கப்பட்டதுடன், பெப்ரவரி மாதம் முதலாம் திகதி பாடசாலை ஆரம்பமாகும் என அறிவிக்கப்பட்டது.
+Meanwhile, schools were given holidays on December 23 last year due to the GCE Advanced Level Examination and it was announced that the school will begin on the first of February.
 
-இருப்பினும், சமூக வலைதளங்களில் உயர்தர விவசாய விஞ்ஞானப் பாட பரீட்சை வினாத்தாள் கசிந்ததையடுத்து வினாத்தாளை இரத்து செய்த பரீட்சைகள் திணைக்களம், மீண்டும் குறித்த பாடத்திற்கான பரீட்சையை கடந்த முதலாம் திகதி நடத்தியது.
+However, the Department of Examinations, which canceled the questionnaire after leaking the high -quality agricultural science exam exam on social networks, conducted the exam for the first day.
 
-எனவே, பெப்ரவரி முதலாம் திகதி ஆரம்பமாக இருந்த அரச மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளின் மூன்றாம் தவணைக்கான இரண்டாம் கட்ட கல்வி நடவடிக்கைகள் திங்கட்கிழமை (05) ஆரம்பமாகவுள்ளமை குறிப்பிடத்தக்கது.
+Therefore, it is noteworthy that the second phase of educational activities for the third term of state and state -approved private schools, which began on February 1, will commence on Monday (05).
 
 ◼️
 
 [Data](articles/9953780e.json)
 
+[Extended Data](ext_articles/9953780e.ext.json)
+
 ---
 
-### මැතිවරණයක් කල්දමයි
+### Elections for elections
 
 *2024-02-04 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192967) · `si`
 
-සෙනගාල් ජාතික මැතිවරණය කල්දැමීමට එරට ජනාධිපති මැකී සෝල් තීරණය කර තිබේ.
+President Mahinda Rajapaksa has decided to postpone the Senegal National Election.
 
-විරුද්ධවාදීන් පිරිසකගේ අපේක්ෂකත්වය තහනම් කිරිමත් සමඟ ඇතිවූ අර්බුදකාරී තත්ත්වයක් මත මැතිවරණය කල්දමා ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Foreign media reports that the elections have been postponed due to a crisis caused by a group of opponents.
 
-පවතින වතාවරණය සම්බන්ධයෙන් විවෘත ජාතික සංවාදයක් පවත්වා යළි මැතිවරණය පැවැත්වෙන දිනය ප්‍රකාශයට පත් කරන බවද සෙනගාල් ජනාධිපතිවරයා ප්‍රකාශ කර ඇති බව වාර්තා වේ.
+The President has said that the President has stated that the President has stated that the date on which the existing national dialogue has been announced on the current situation.
 
-කෙසේවෙතත් මැතිවරණය කල් දැමීමට ජනාධිපතිවරයා ගත් තීරණය ආණ්ඩුක්‍රම ව්‍යවස්ථා කුමන්ත්‍රණයක් බව එරට විපක්ෂය සඳහන් කර ඇත.
+However, the opposition has stated that the decision of the President has decided to postpone the election.
 
 ◼️
 
 [Data](articles/d5663d84.json)
 
+[Extended Data](ext_articles/d5663d84.ext.json)
+
 ---
 
-### தாலிக்கு பதிலாக போலி  ;  யுவதி கைது
+### "Independence Day of Sri Lanka"
 
-*2024-02-04 16:28:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாலிக்கு-பதிலாக-போலி-யுவதி-கைது/175-332645) · `ta`
+*2024-02-04 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175534) · `ta`
 
-வாய் பேச முடியாத பெண்னொருவரிடமிருந்து 21 பவுண் தாலிக்கொடியை  வாங்கி மோசடி செய்த குற்றச்சாட்டில் யுவதி ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+The Independence Day of Sri Lanka is declared in front of the Mullaitivu District Secretariat today (04), demanding seven major issues.
 
-யாழ்ப்பாணம் - சுன்னாகம் பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் வசிக்கும் வாய் பேசமுடியாத பெண்ணொருவரிடம்,  அயலவரான யுவதி ஒருவர் விசேட நிகழ்வுகளுக்குச் செல்லும்போது,  தாலிக்கொடியை இரவலாகப்பெற்று அணிந்து சென்று, பின்னர் அதனை மீள அப்பெண்ணிடம் கையளிப்பதனை வழமையாகக் கொண்டிருந்துள்ளார்.
+The demonstration was held under the patronage of Tilakanathan Kindujan, the organizer of the Mullaitivu district of the Tamil National People's Front.
 
-இந்நிலையில், அண்மையில் வழமைபோல்,  தாலிக்கொடியை இரவலாக வாங்கி சென்ற யுவதி,  தாலிக்கொடியை திருப்பி கொடுத்தபோது, கொடியின் அமைப்பில் வித்தியாசத்தை உணர்ந்த பெண்,  அதனை நகைக் கடை ஒன்றுக்குக் கொடுத்து சோதித்தபோது, அது போலியானது என தெரியவந்துள்ளது.
+"International Justice for the Disappeared"Seven issues were emphasized, including 'Do not destroy the historical archaeological evidence of the homeland', 'sovereignty, self -determination and recognized Samastit solution'.
 
-இதன்பேரில் ,  தாலிக்கொடியை  வாங்கி சென்ற யுவதியை  கைது செய்த பொலிஸார், அவரிடம் விசாரணைகளை முன்னெடுத்தபோது, சுன்னாகம் பகுதியில் உள்ள நகைக்கடை ஒன்றில் இரவலாகப் பெற்ற தாலிக்கொடியை விற்பனைசெய்து,  அதே போன்று போலி தாலிக்கொடியை அப்பெண்ணிடம் கொடுத்துள்ளதாக தெரிவித்தார்.
+It was also pointed out that the Maithri -Ranil government, named the Good Governance Government, co -produced with the Tamil National Alliance (TNA), the Tamil National People's Front, which was produced by the Tamil party.
 
 ...
 
-[Data](articles/e005140a.json)
+[Data](articles/e21fa462.json)
+
+[Extended Data](ext_articles/e21fa462.ext.json)
 
 ---
 
-### 23 இந்திய மீனவர்கள் கைது
+### Fake instead of talisman;Youth arrested
+
+*2024-02-04 16:28:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாலிக்கு-பதிலாக-போலி-யுவதி-கைது/175-332645) · `ta`
+
+A woman has been arrested for allegedly defrauding a 21 -pound talisman from a woman who cannot speak.
+
+When a neighbor, a neighbor, was going to special events to a woman who was living in the Jaffna -Chunnakam police division area, she was wearing a talisman night and then handing over it to the woman.
+
+In the meantime, as usual, the woman who bought the talisman night and returned the talisman, the woman who felt the difference in the flag structure and gave it to a jewelry store.
+
+Following this, the police arrested the woman who bought the talisman, and said that when he was investigating the inquiry, she said that she had sold a nightclub in a jewelery shop in the Chunnakam area and gave her a fake talisman.
+
+It has been revealed that the police are conducting further investigations by police.
+
+◼️
+
+[Data](articles/e005140a.json)
+
+[Extended Data](ext_articles/e005140a.ext.json)
+
+---
+
+### 23 Indian fishermen arrested
 
 *2024-02-04 16:21:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/23-இந்திய-மீனவர்கள்-கைது/175-332640) · `ta`
 
-எல்லை தாண்டி மீன் பிடித்த இந்திய மீனவர்கள் 23 பேர் சனிக்கிழமை (03) இலங்கை கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+23 Indian fishermen who were fishing across the border have been arrested by the Sri Lankan navy on Saturday (03).
 
-மேலும், கைது செய்யப்பட்ட இந்திய மீனவர்கள் 23 பேர் மற்றும் மீன்பிடி படகுகள் 02 கைப்பற்றப்பட்டு காங்கேசன்துறை துறைமுகத்திற்கு கொண்டு வரப்பட்டதுடன், கைதானவர்கள் மேலதிக சட்ட நடவடிக்கைகளுக்காக மயிலடி கடற்றொழில் பரிசோதகரிடம் ஒப்படைக்கப்படவுள்ளமை குறிப்பிடத்தக்கது.
+In addition, 23 arrested Indian fishermen and fishing boats were seized and brought to the Kankesanthurai port and the detainees will be handed over to the Mayiladi Fisheries Inspector for further legal action.
 
 ◼️
 
 [Data](articles/d2c531e4.json)
 
+[Extended Data](ext_articles/d2c531e4.ext.json)
+
 ---
 
-### කළුතර අධිකරණ භූමියේදී සැකකරුවෙකු පළායයි
+### Suspect is on the following road
 
 *2024-02-04 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192966) · `si`
 
-සොරකම් කිරීමේ සිද්ධියක් සහ හෙරොයින් සන්තකයේ තබාගැනීම සම්බන්ධයෙන් එම සැකකරුට අධිකරණය විසින් වරෙන්තු නිකුත් කර තිබුණි.
+The court issued warrants to the suspect in the suspect and the possession of heroin.
 
-වරෙන්තු නිකුත් කර තිබූ සැකකරුවෙකු අලුත්ගම පොලීසිය විසින් අත්අඩංගුවට ගෙන අධිකරණ භූමියට රැගෙනවිත් තිබූ අතර ඔහු මෙලෙස පළාගොස් ඇති බව වාර්තාවෙයි.
+The Aluthgama Police have been arrested by the Aluthgama Police and he was taken to the court premises and he had fled.
 
-පොලිස් ජීප් රථයෙන් සැකකරු අධිකරණ භූමියට රැගෙන විත් එහි දොර විවෘත කරන අවස්ථාවේ ඔහු සමග විලංගු ලා සිටි අනෙකු සැකකරුගේ මුහුණට ගසා දෑත් විලංගු ගලවාගෙන එම සැකකරු මෙලෙස පළාගොස් ඇති බව වාර්තාවෙයි.
+It is reported that the suspect had fled the suspect's face with the suspect's face to the court premises at the police jeep.
 
-වැඩිදුරටත් වාර්තාවන්නේ අධිකරණ භූමියේ රාජකාරියේ නිරතව සිටි පොලිස් නිලධාරීන් සහ සැකකරු අධිකරණ භූමියට රැගෙන ආ නිලධාරීන් පසුපස හඹා ගියද සැකකරු ඔවුන් මගහැර පළායාමට සමත්ව ඇති බවටය.
+Speaking on duty on the court premises, the suspect had pursued the court premises but the suspect had passed away.
 
-සැකකරු සොයා අලුත්ගම පොලීසිය සහ තවත් පොලිස් කණ්ඩායම් කිහිපයක් විශේෂ විමර්ශනයක් ආරම්භ කර ඇත.
+The Aluthgama Police and several other police teams have been launched in search of the suspect.
 
 ◼️
 
 [Data](articles/49c636a8.json)
+
+[Extended Data](ext_articles/49c636a8.ext.json)
 
 ---
 
@@ -681,6 +835,24 @@ The complex six-hour operation, carried out at the Kandy Hospital, involved a te
 [Data](articles/4d142b79.json)
 
 [Extended Data](ext_articles/4d142b79.ext.json)
+
+---
+
+### Kandy Hospital team replants woman’s severed hand
+
+*2024-02-04 12:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kandy-Hospital-team-replants-womans-severed-hand/108-276297) · `en`
+
+Kandy, Feb 04 (Daily Mirror) -  A team led by Dr. Amila Sasanka Ratnayake, a specialist surgeon at the National Hospital, Kandy successfully replanted the right arm of a thirty-five-year-old woman from Anuradhapura.
+
+The patient had faced the mishap while cleaning a coir grinding machine, resulting in the separation of her right hand from below the elbow.
+
+The complex six-hour operation, carried out at the Kandy Hospital, involved a team of medical professionals, including plastic surgeon Dr. Udaya Kiridena, plastic surgeon Chamila Jayaratne, orthopedic surgeon Dr. Satira Premaratne, senior registrar Udara Ratnayake, anesthetist Dr. Uduwela, and Dr. Kasun and Dr. Senaka.
+
+◼️
+
+[Data](articles/647073c1.json)
+
+[Extended Data](ext_articles/647073c1.ext.json)
 
 ---
 
@@ -1843,183 +2015,5 @@ The complaint was filed by Bibi's ex-husband, who said her marriage with Khan ha
 [Data](articles/1ad0fe7f.json)
 
 [Extended Data](ext_articles/1ad0fe7f.ext.json)
-
----
-
-### 'Heritage' begins
-
-*2024-02-04 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192944) · `si`
-
-Land, Sports and Youth Affairs Minister Harin Fernando says that the land ownership of the people of the country will be opened tomorrow (05).
-
-The Minister stated that the National Festival will be held at the Rangiri Dambulla International Cricket Stadium under the patronage of President Ranil Wickremesinghe.
-
-Minister Harin Fernando has said that the government plans to implement the program of providing land deeds at the provincial level and district level tomorrow and after the 15th of this month.
-
-◼️
-
-[Data](articles/a22cccea.json)
-
-[Extended Data](ext_articles/a22cccea.ext.json)
-
----
-
-### Keheliya Rambukwella admitted to prison hospital
-
-*2024-02-04 07:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliya-Rambukwella-admitted-to-prison-hospital/108-276290) · `en`
-
-Colombo, Feb 04 (Daily Mirror) - Former Health Minister Keheliya Rambukwella, who was remanded over importation of substandard Immunoglobulin injections, was admitted to Prison Hospital.
-
-Prisons Spokesman Gamini Dissanayake said that Rambukwella was admitted due to illness, following doctor's recommendation.
-
-Rambukwella, remanded until February 15, was produced before Maligakanda Magistrate's Court.
-
-◼️
-
-[Data](articles/33f9761c.json)
-
-[Extended Data](ext_articles/33f9761c.ext.json)
-
----
-
-### Keheliya Rambukwella admitted to prison hospital
-
-*2024-02-04 07:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Keheliya-Rambukwella-admitted-to-prison-hospital/155-276290) · `en`
-
-Colombo, Feb 04 (Daily Mirror) - Former Health Minister Keheliya Rambukwella, who was remanded over importation of substandard Immunoglobulin injections, was admitted to Prison Hospital.
-
-Prisons Spokesman Gamini Dissanayake said that Rambukwella was admitted due to illness, following doctor's recommendation.
-
-Rambukwella, remanded until February 15, was produced before Maligakanda Magistrate's Court.
-
-◼️
-
-[Data](articles/ff3149f7.json)
-
-[Extended Data](ext_articles/ff3149f7.ext.json)
-
----
-
-### Notification of Financial Management
-
-*2024-02-04 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192943) · `si`
-
-Government Minister Ranjith Siyambalapitiya says that financial management is conducting financial management at the moment.
-
-He declares that it is the maximum effort of the government to provide relief to the people.
-
-◼️
-
-[Data](articles/336840d5.json)
-
-[Extended Data](ext_articles/336840d5.ext.json)
-
----
-
-### Sri Lanka Thailand FTA to unlock untapped trade and investment: President
-
-*2024-02-04 07:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-thailand-fta-to-unlock-untapped-trade-and-investment-president-149799/) · `en`
-
-ECONOMYNEXT – A free trade agreement with Thailand during the visit of Prime Minister Srettha Thavisin will allow the two countries to benefit from potential trade and investment that is untapped at the moment, President Ranil Wickremesinghe has said.
-
-“There is considerable potential to develop tourism, trade and other areas of economic cooperation between Sri Lanka and Thailand,” President Wickremesinghe was quoted as saying in a statement after bilateral discussion the a delegation led by Prime Minster Thaivisin.
-
-“We see great potential for enhanced investments from Thailand coming into Sri Lanka and we discussed possible areas for collaboration.”
-
-“There is significant potential for the expansion of trade and investment ties between our two countries which have remain largely untapped.”
-
-Sri Lanka has also signed an agreement to co-operate on gem and jewellery.
-
-A new bilateral air services agreement was also signed. Thai air will begin daily flights to Sri Lanka from March 31.
-
-...
-
-[Data](articles/b4df820b.json)
-
-[Extended Data](ext_articles/b4df820b.ext.json)
-
----
-
-### 76th Independence Day today
-
-*2024-02-04 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192942) · `si`
-
-The 76th Independence Day celebration is scheduled to be held pride in the Galle Face Green today (04).
-
-The Ministry of Home Affairs said that this year's National Independence Day will be held this year under the theme 'building new country'.
-
-Prime Minister of Prime Minister Shrathna Thailand is the Chief Guest at the Independence Day Celebration.
-
-In addition, an ounction will also attend the event.
-
-Defense Secretary said that the war, air, aircraft, the Civil Defense Force and the National Cadet Corps will be added to the commemoration parade.
-
-Commander of the Air Force Vice Marshal has said that 19 aircrafts and new technologies have been added to the celebration parade.
-
-Meanwhile, DIG Indika Hapugoda says that a special traffic planning will be in operation for Independence Day today.
-
-The Railway Department announced that the coastal railway stations from the coastal railway line from the coastal railway line from the 76th to 9.00am to 9.00 am today.
-
-...
-
-[Data](articles/95f2b3ed.json)
-
-[Extended Data](ext_articles/95f2b3ed.ext.json)
-
----
-
-### Showers at times
-
-*2024-02-04 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192941) · `si`
-
-Showers will occur at times in the Eastern and Uva provinces, Polonnaruwa and Matale Districts.
-
-The department states that several showers in the Anuradhapura and Hambantota districts can be established.
-
-The Kandy, Nuwara Eliya, Galle and Matara districts have been in the Western, Sabaragamuwa and Northwestern provinces.. Showers or thundershowers will occur at several places about 2.00.
-
-The Department of Meteorology says that in some places in the Central and Sabaragamuwa Province and in the Galle and Matara districts, the Met Department said.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/a5ac3f44.json)
-
-[Extended Data](ext_articles/a5ac3f44.ext.json)
-
----
-
-### Historic Agreements strengthen ties between Sri Lanka and Thailand
-
-*2024-02-04 04:24:00* · [`islandlk`](http://island.lk/historic-agreements-strengthen-ties-between-sri-lanka-and-thailand/) · `en`
-
-In Sri Lanka’s pursuit of transforming into a high-income country by 2048 involving trade negotiations with countries like Thailand, the Sri Lanka Thailand Free Trade Agreement (SLTFTA), was signed, during the visit of Thai Prime Minister Srettha Thavisin and his delegation of business dignitaries today (03) at the Presidential Secretariat.
-
-This move aims to enhance market opportunities, with negotiations covering various aspects such as Trade in Goods, Investment, Customs Procedure, and Intellectual Property Rights.
-
-Minister of Trade, Commerce, and Food Security,  Nalin Fernando, represented Sri Lanka by signing the agreement, while  Phumtham Wechayachai, Deputy Prime Minister and Minister of Commerce, represented Thailand by signing the accord.
-
-...
-
-[Data](articles/7e64b262.json)
-
-[Extended Data](ext_articles/7e64b262.ext.json)
-
----
-
-### Dispensation
-
-*2024-02-04 04:02:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடையுத்தரவு-கோரும்-மனு-நிராகரிப்பு/175-332609) · `ta`
-
-The police thought that protests could be waged in Jaffna against Sri Lanka's 76th Independence Day, but the request was rejected by the Jaffna Magistrate's Court.
-
-Jaffna Headquarters Police have filed a petition seeking a ban on some representatives of political parties to protest. Judge P. Thavapalan rejected the court yesterday. (A)
-
-◼️
-
-[Data](articles/67247651.json)
-
-[Extended Data](ext_articles/67247651.ext.json)
 
 ---

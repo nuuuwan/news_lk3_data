@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-04 10:02:32**
+As of **2024-02-04 10:17:19**
 
 ## Newspaper Stats
 
-*Scraped **4,651** Articles*
+*Scraped **4,658** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,119 @@ dbsjeyarajcom | 136
 islandlk | 254
 economynextcom | 254
 dailyftlk | 280
-newsfirstlk | 285
+newsfirstlk | 286
 adalk | 400
-virakesarilk | 519
-adaderanasinhalalk | 581
+virakesarilk | 520
 adaderanalk | 583
-tamilmirrorlk | 588
+adaderanasinhalalk | 584
+tamilmirrorlk | 590
 dailymirrorlk | 646
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,650 (100.0%) of 4,651 articles have been extended.
+4,651 (99.8%) of 4,658 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-04 (Sunday)
+
+### இத்தாலி துப்பாகியுடன் இளைஞன் கைது
+
+*2024-02-04 09:50:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இத்தாலி-துப்பாகியுடன்-இளைஞன்-கைது/175-332614) · `ta`
+
+​பெந்தோட்டை பொலிஸாருக்குகிடைத்த தகவலின் அடிப்படையில் பெந்தோட்ட வராஹேன பிரதேசத்தில், வீதியில் நடந்துச் சென்றுக்கொண்டிருந்த 17 வயதான இளைஞனிடம் இருந்து வெளிநாட்டில் தயாரிக்கப்பட்ட வகை கைத்துப்பாக்கி மற்றும் 5,580 மில்லிகாரம் ஹெரோய்ன் ​கைப்பற்றப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+கைப்பற்றப்பட்ட துப்பாக்கி ஏதேனும் குற்றச் சம்பவத்துடன் தொடர்புடையதா? என்பது குறித்து விசாரணை நடத்தி வருவதாக பொலிஸார் தெரிவித்தனர்.
+
+சனிக்கிழமை (3) பிற்பகல் கைது செய்யப்பட்ட சந்தேக நபர் பெந்தோட்டை அங்ககொட பகுதியைச் சேர்ந்வர் என பொலிஸார் தெரிவித்தனர்.
+
+சந்தேக நபரை பலபிட்டிய நீதவான் நீதிமன்றில் ஆஜர்படுத்தி மேலதிக விசாரணைகளுக்காக ஏழு நாட்கள் தடுப்புக்காவலில் வைக்கவுள்ளதாக பெந்தோட்டை பொலிஸ் நிலைய பொறுப்பதிகாரி துஷாரகரி தெரிவித்தார். ள்ளனர்.
+
+◼️
+
+[Data](articles/41d0cf99.json)
+
+---
+
+### කප්පම් ඉල්ලූ පුද්ගලයෙකු අත්අඩංගුවට
+
+*2024-02-04 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192952) · `si`
+
+මරණීය තර්ජන එල්ල කර කප්පම් ලබා ගැනීමට උත්සාහ කළ පුද්ගලයෙකු කොළඹ අපරාධ කොට්ඨාසය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+කොට්ටාව බස් නැවතුම්පොළේ නවතා තිබූ බස්රථයක රියදුරෙකුට කිසියම් පුද්ගලයෙකු රුපියල් 20,000ක මුදලක් ලබා දෙන ලෙස තර්ජනය කර ඇති බව පොලීසිය පවසයි.
+
+අනතුරුව ඔවුන් පිටකොටුව බස් නැවතුමට පැමිණ රථය නවතා තිබිය දී බස් රථයට නැගි පුද්ගලයෙකු රියදුරුගේ ඡායාරූපයක් ලබාගෙන තිබේ.
+
+ඒ පිළිබඳ සැක සිතූ රියදුරු ඇතුළු පුද්ගලයින් අදාළ පුද්ගලයා අල්ලා දුරකථනය පරීක්ෂා කිරීමේ දී රියදුරුගෙන් ලබාගත් ඡායාරූපය වට්ස්ඇප් ඔස්සේ විදේශීය දුරකථන අංකයට යොමු කර ඇති බව අනාවරණය කරගෙන ඇත.
+
+පසුව විදේශීය දුරකථන අංකයකින් අදාළ රියදුරුට රුපියල් 25,000ක කප්පමක් ගෙවන ලෙසට තර්ජනාත්මක ඇමතුමක් ලැබී තිබේ.
+
+මේ සම්බන්ධයෙන් පොලීසියට කළ පැමිණිල්ලකට අනුව සැකකරු අත්අඩංගුවට ගෙන දින 07ක රැඳවුම් නියෝග මත ප්‍රශ්න කිරීම් සිදු කරන බව පොලීසිය සඳහන් කරයි.
+
+අත්අඩංගුවට ගත් සැකකරු විදේශ රටක සිට මෙරට මත්ද්‍රව්‍ය ජාවාරම් සහ අපරාධ සිදු කරනු ලබන සංවිධානාත්මක අපරාධකරුවෙකු විසින් මෙහෙයවා ඇති බවට අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/6f9e0651.json)
+
+---
+
+### போதையில் நுழைய முற்பட்ட இருவர் கைது
+
+*2024-02-04 09:47:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/போதையில்-நுழைய-முற்பட்ட-இருவர்-கைது/71-332613) · `ta`
+
+யாழ். போதனா வைத்தியசாலையில் மது போதையில் அத்துமீறி நுழைய முற்பட்ட இருவர் நேற்றைய தினம் பொலிஸாரினால் கைது செய்யப்பட்டுள்ளனர்.
+
+மது போதையில் போதனா வைத்தியசாலை மதிலினால் ஏறி வைத்தியசாலைக்குள் உட்புகுந்த இருவரை வைத்தியசாலை பாதுகாப்பு உத்தியோகஸ்தர்கள் மடக்கிப் பிடித்து பொலிஸாரிடம் ஒப்படைத்துள்ளனர்.
+
+பொலிஸார் இருவரையும் கைது செய்து பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை முன்னெடுத்து வருகின்றனர். R
+
+◼️
+
+[Data](articles/54d570f6.json)
+
+---
+
+### ஈழம் அழிந்ததற்கு திமுகவை மட்டும் குறை கூறுகிறார்கள் ஆனால் உலக அளவில் நடந்த அரசியலைப் பற்றி யாரும் பேசவில்லை!” – திருமாவளவன்
+
+*2024-02-04 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175495) · `ta`
+
+ஈழம் அழிந்ததற்கு திமுகவை மட்டும் குறை கூறுகிறார்கள் ஆனால் உலக அளவில் ஈழத்தை அழிக்க செய்யப்பட்ட அரசியலைப் பற்றி யாரும் பேசவில்லை என விடுதலை சிறுத்தைகள் கட்சித்தலைவர் திருமாவளவன் கூறியுள்ளார்.
+
+சென்னையில் சர்.பிட்டி. தியாகராயர் மண்டபத்தில் நடைபெற்ற ஈழம் குறித்த நிகழ்வில் விடுதலை சிறுத்தைகள் கட்சித்தலைவர் திருமாவளவன் பங்கேற்றார்.
+
+ஈழத் தமிழர்கள் சுட்டுக் கொல்லப்பட்டதற்கு காரணம் கருணாநிதி மற்றும் திமுக தான் என்று கூறினால் அது அரசியல்வாதிகளுக்கு வேண்டுமானால் பயன் தரலாம் ,ஆனால் ஈழத்தமிழர்களுக்கு எப்போதும் பயன் தராது.
+
+ஈழம் அழிந்ததற்கு தமிழ்நாட்டில் உள்ளவர்கள் திமுகவையும் கருணாநிதியை மட்டுமே குறை கூறினார்கள். ஆனால் உலக அளவில் ஈழத்தை அழிக்க செய்யப்பட்ட அரசியலைப் பற்றி யாரும் பேசவில்லை.
+
+இந்தியாவில் ஈழத் தமிழர்களுக்கு ஆதரவாக ஒரு போராட்டம் கூட நடைபெறவில்லை. உலக நாடுகள் ஈழத் தமிழர்களை பயங்கரவாதிகள் என திரும்ப திரும்ப குறை கூறியுள்ளனர். ஈழத் தமிழர்களை மிகப் பெரிய ஆயுதக் குழுக்களாக மாற்றியது காங்கிரஸ்தான். இவ்வாறு விடுதலை சிறுத்தைகள் கட்சித்தலைவர் திருமாவளவன் பேசினார்.
+
+◼️
+
+[Data](articles/cc58430c.json)
+
+---
+
+### Singaporean TikTok CEO Denies Chinese Communist Party Ties
+
+*2024-02-04 09:32:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/04/singaporean-tiktok-ceo-denies-chinese-communist-party-ties/) · `en`
+
+(BBC) – US Senator Tom Cotton repeatedly asked Shou Zi Chew, the CEO of Chinese-owned social media app TikTok, about his links to the Chinese Communist Party, despite Mr Chew repeatedly asserting that he is Singaporean at a hearing in Washington DC on Wednesday.
+
+In this minute-long exchange, Mr Cotton asks Mr Chew about his citizenship, passport and whether he is a member of the CCP, to which he replies "Senator, I'm Singaporean. No."
+
+Mr Chew denies his company has ever shared or received a request to share US users' data with the Chinese government.
+
+Imran Khan and wife convicted for illegal marriage and jailed for 7 years
+
+◼️
+
+[Data](articles/aa0b7280.json)
+
+---
 
 ### President Emphasizes on progressive approach in Independence Day message
 
@@ -47,6 +143,8 @@ Imran Khan and wife convicted for illegal marriage and jailed for 7 years
 ◼️
 
 [Data](articles/e83d45f9.json)
+
+[Extended Data](ext_articles/e83d45f9.ext.json)
 
 ---
 
@@ -157,6 +255,50 @@ Our ancestors created a proud history for us. As their children and grandchildre
 [Data](articles/2ee6ba23.json)
 
 [Extended Data](ext_articles/2ee6ba23.ext.json)
+
+---
+
+### ඉරානයෙන් වැරැද්දක් පෙන්වා දෙයි
+
+*2024-02-04 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192951) · `si`
+
+ඉරාකය සහ සිරියාව වෙත අමෙරිකානු ගුවන් ප්‍රහාර එල්ල කිරීම මුලෝපායික වරදක් බව ඉරානය පවසයි.
+
+පසුගිය සිකුරාදා අමෙරිකාව විසින් ඉරාකයේ සහ සිරියාවේ ඉලක්ක 85ක් වෙත ප්‍රහාර එල්ල කර තිබිණි.
+
+අමෙරිකානු හමුදා කඳවුරකට ඩ්‍රෝන ප්‍රහාරයක් එල්ල කරමින් සෙබළුන් තිදෙනෙකු මිය ගොස් තවත් 40කට වැඩි පිරිසක් තුවාල කිරීමේ සිද්ධියට ඉරාන හිතවාදී ත්‍රස්ත කණ්ඩායම් සම්බන්ධ බවට ධවල මන්දිරය ප්‍රකාශ කළේ ය.
+
+ඒ සම්බන්ධයෙන් අදහස් දක්වන ඉරාන විදේශ අමාත්‍යවරයා ප්‍රකාශ කළේ, එම ප්‍රහාරවලින් කලාපයේ ආතතිය සහ අස්ථාවරත්වය හැර වෙනත් ප්‍රතිඵලයක් නොලැබෙන බවයි.
+
+ප්‍රහාරයෙන් සිවිල් වැසියන් ඇතුළු 16 දෙනෙකු මිය ගොස් තිබූ බව ඉරාක බලධාරින් ප්‍රකාශ කර ඇත.
+
+◼️
+
+[Data](articles/671f3891.json)
+
+---
+
+### රිය අනතුරුවලින් සිව් දෙනෙකු මරුට
+
+*2024-02-04 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192950) · `si`
+
+තලාතුඔය පොලිස් වසමේ තැන්නේකුඹුර - රාගල මාර්ගයේ හරාගම ප්‍රදේශයේ දී සිදුවූ රිය අනතුරකින් අඹුසැමි යුවළක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඊයේ (03) දහවල් කාලයේ දී එම අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
+
+තැන්නේකුඹුර දෙස සිට රාගල දෙසට ධාවනය වූ යතුරුපැදියක් අතුරු මාර්ගයකට හැරවීමට මාර්ගයේ දකුණු පසට ගැනීමේ දී රාගල දෙස සිට තැන්නේකුඹුරු දෙසට ධාවනය වූ වෑන් රථයේ ගැටී එම අනතුර සිදුව ඇත.
+
+අනතුරින් බරපතළ තුවාල ලැබූ යතුරුපැදිකරු හා පසුපැදිකාරිය මහනුවර රෝහලට ඇතුළත් කිරීමෙන් පසු දෙදෙනාම මිය ගොස් තිබේ.
+
+මිය ගොස් ඇත්තේ, කවුඩුල්ල, මැදිරිගිරිය ලිපිනයේ පදිංචි 68 හැවිරිදි හා 62 හැවිරිදි අඹුසැමි යුවළකි.
+
+මේ අතර, නාරම්මල - කටුපොත මාර්ගයේ දී මෝටර් රථයක් හා පා පැදියක් ගැටී සිදුවූ අනතුරකින් 70 හැවිරිදි පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+මේ අතර, අම්පාර - අක්කරේපත්තුව මාර්ගයේ මදිනාපුර ප්‍රදේශයේ දී ලංගම බස් රථයක් මාර්ගයේ ගමන්ගත් පදිකයෙකුගේ ගැටී සිදුවූ අනතුරකින් 63 හැවිරිදි කාන්තාවක් ජීවිතක්ෂයට පත්ව ඇත.
+
+◼️
+
+[Data](articles/2f0b5271.json)
 
 ---
 
@@ -1837,153 +1979,5 @@ The former health minister was ordered to be remanded by the Maligakanda Magistr
 [Data](articles/f2a3b702.json)
 
 [Extended Data](ext_articles/f2a3b702.ext.json)
-
----
-
-### Keheliya Rambukwella remanded
-
-*2024-02-03 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/96971/keheliya-rambukwella-remanded-) · `en`
-
-Former Health Minister Keheliya Rambukwella has been remanded until 15 February on the orders of Maligakanda Magistrate’s Court.
-
-The current Environment Minister was produced before Maligakanda Magistrate Lochani Abeywickrama this morning (Feb.03).
-
-The Criminal Investigation Department (CID) arrested the lawmaker on Friday (Feb.02) in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived there, complying with a court order. He had been grilled for nearly 10 hours before being arrested.
-
-The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
-
-During today’s court proceedings, Rambukwella was also listed as the 8th suspect in the ongoing case on substandard human immunoglobulin procurement.
-
-...
-
-[Data](articles/1229b35b.json)
-
-[Extended Data](ext_articles/1229b35b.ext.json)
-
----
-
-### Keheliya will be remanded
-
-*2024-02-03 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192925) · `si`
-
-Former Health Minister Keheliya Rambukwella has been remanded until the 15th of this month.
-
-Keheliya Rambukwella had been arrested by the Criminal Investigation Department yesterday (03).
-
-The Criminal Investigations Department (CID) has recorded the former minister for more than 10 hours yesterday of the controversial Human Emiyankulabulin incident.
-
-◼️
-
-[Data](articles/25b2bdaf.json)
-
-[Extended Data](ext_articles/25b2bdaf.ext.json)
-
----
-
-### A group of prisoners tomorrow
-
-*2024-02-03 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192924) · `si`
-
-Presidential pardons will be held to a group of prisoners to mark the 76th Independence Day.
-
-Accordingly, 754 prisoners are to be released tomorrow (04).
-
-The President has preserved the special state forgiveness in depending on the powers vested in Section 34 of the Constitution.
-
-Accordingly, there are 729 male prisoners who qualify for the National Independence Day and 25 female prisoners of women.. Mr. Dissanayake said.
-
-◼️
-
-[Data](articles/2799ba40.json)
-
-[Extended Data](ext_articles/2799ba40.ext.json)
-
----
-
-### The deceased is beautiful Bollywood actress
-
-*2024-02-03 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192923) · `si`
-
-The Indian designator and actor who reported the death of a cervical cancer yesterday (02) has stated that he is alive.
-
-A video on its social media account today, she said she expressed the sadness of the hurt.
-
-She had a note yesterday that she had died in a social media account that Phula was dead.
-
-However, it is aimed at the focus of the society regarding the attention of Phandy Padaya Cervical cancer, which has issued a video of the video that he is alive today.
-
-She said that she was able to make the objective through false propaganda on his death.
-
-However, it is said that many people are being expressed in the social media over this act.
-
-Poomal is considered as one who was in the social media expressing controversial statements.
-
-◼️
-
-[Data](articles/7f99803f.json)
-
-[Extended Data](ext_articles/7f99803f.ext.json)
-
----
-
-### 12 -year -old student dies in an accident
-
-*2024-02-03 14:24:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/விபத்தில்-12-வயது-மாணவன்-ஸ்தலத்திலேயே-மரணம்/73-332587) · `ta`
-
-A 12 -year -old boy was killed in a accident in front of the Southeastern University of Southeastern University on the main road of Samanthurai - Ambarai.
-
-The boy who was traveling from the side of the university faculty to his house on the next side, the student who was traveling from the Samanthurai area to Amparai was killed in a collision with a student in the collision of a vehicle.
-
-AM Basir (age 12), a resident of Uda 02, Samanthurai, has been arrested and the lorry driver has been arrested.
-
-The vehicle has been parked at the Samanthurai police station and the body of the student who died has been kept at the Samanthurai Resource Hospital.
-
-◼️
-
-[Data](articles/e40bb318.json)
-
-[Extended Data](ext_articles/e40bb318.ext.json)
-
----
-
-### Indian submarine arrives in Colombo
-
-*2024-02-03 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/175455) · `ta`
-
-The Indian Navy's submarine, INS 'Corinch' arrived in the port of Colombo today (03).
-
-The 67.5 -meter -long INS Coronation submarine has been accompanied by 53 employees, headed by Arunab, Commander of the ship.
-
-Sri Lankan navy will be participating in a submarine awareness program to be held on the arrival of the ship.
-
-In addition, the submarine team is about to study some of the country's tourist destinations.
-
-The INS will leave the country on the 05th after completing an official trip to the 'Karanj' submarine.
-
-◼️
-
-[Data](articles/ecba8168.json)
-
-[Extended Data](ext_articles/ecba8168.ext.json)
-
----
-
-### Indian submarine returns to Colombo
-
-*2024-02-03 13:41:21* · [`adalk`](https://www.ada.lk/uncategorized/ඉන්දීය-සබ්මැරිනයක්-කොළඹට-එයි/1-407876) · `si`
-
-In the morning of the Indian Navy, the Siriranj submarine arrived at the Port of Colombo today (February 2024).
-
-The inscription of the Colombo port is comprised of 67.5 meters and 53 meters and 53 meters and 53 meters and 53 meters.
-
-The 'Ins Karanj' submarine is scheduled to attend a awareness program on its operational operation during the period of operational operation.
-
-Further, on February 20, 2024, will be leaving the island on February 5, 2024 ending the official visit.
-
-◼️
-
-[Data](articles/5644884d.json)
-
-[Extended Data](ext_articles/5644884d.ext.json)
 
 ---

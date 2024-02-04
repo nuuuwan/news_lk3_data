@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 00:17:20**
+As of **2024-02-05 00:33:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 671
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,788 (100.0%) of 4,789 articles have been extended.
+4,789 (100.0%) of 4,789 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,19 +50,27 @@ However, former Minister, led by the premises, held the protest and entered the 
 
 ---
 
-### කන්දකාඩුවේ ගැටුමක් රැඳවියන් 10කා හමුදා සෙබලෙක් තුවාල ලබයි
+### Kandakada clash injured 10 inmates injured
 
 *2024-02-04 23:15:13* · [`adalk`](https://www.ada.lk/breaking_news/කන්දකාඩුවේ-ගැටුමක්-රැඳවියන්-10කා-හමුදා-සෙබලෙක්-තුවාල-ලබයි/11-407894) · `si`
 
-පොළොන්නරුව කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ 04 වෙනිදා සවස හයට පමණක්ම රැඳවියන්    දෙපිරිසක් අතර ඇතිවූ ගැටුමකින් රඳවියන් දහදෙනෙකු සහ හමුදා සෙබලෙකු තුවාල ලබා වැලිකන්ද     රෝහලේ ප්‍රතිකාර ලබන බව වැලිකන්ද පොලිසිය කියයි.
+In the Kandakadu Rehabilitation Center at the Kandakadu Rehabilitation Center was injured in a clash between two groups of detainees and a soldier was injured in the Welikanda Hospital.
 
-මෙම ගැටුමට හේතු මෙතෙක් අනාවරණය වී නොමැති අතර රැඳවියන් විසින් කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ මුළුතැන්ගෙයි සහ තවත් ස්ථාන කිහිපයක දේපළවලට අලාභ හානී කර ඇති බවද පොලිසිය සඳහන් කරයි.
+The conflict has been disclosed on the kitchen and several other locations at the Kandakadu Rehabilitation Center.
 
-කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ දේපළ අලාභ හානි කිරීමට සම්බන්ධ යොදා  යකඩ පොලු සහ මුගුරු  මෙන්ම ගැටුමක් ඇතිකර ගැනීමට යොදාගත් බව කියන පොලු මුගුරු සහ තවත් මත්ද්‍රව්‍ය තොගයක් පොලිස් භාරයට ගෙන ඇති බවද වැලිකන්ද පොලිසිය සඳහන් කරයි.
+The police have seized a stock of balas and another drugs that have been used to damage the Kandakadu Rehabilitation Center, which is used to harm property loss and clubs.
+
+Twenty-five inmates fleeing a bus in the Soparuwalaya of Somavaya and two other mobile phones and two mobile phones were arrested by the policeWelikanda OIC Inspector Samantha Ratnayake said.
+
+The suspects are to be produced before the Polonnaruwa Magistrate's Court on the 5th day.
+
+The Army as well as the police, as well as the police, has already control the situation at the Kandakadu Rehabilitation Center.
 
 ...
 
 [Data](articles/4f300e3e.json)
+
+[Extended Data](ext_articles/4f300e3e.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 13:33:07**
+As of **2024-02-05 13:51:46**
 
 ## Newspaper Stats
 
-*Scraped **4,889** Articles*
+*Scraped **4,893** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 280
 newsfirstlk | 296
 adalk | 421
 virakesarilk | 558
-adaderanalk | 607
-tamilmirrorlk | 622
+adaderanalk | 609
+tamilmirrorlk | 624
 adaderanasinhalalk | 627
 dailymirrorlk | 687
 
@@ -26,11 +26,61 @@ dailymirrorlk | 687
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,889 (100.0%) of 4,889 articles have been extended.
+4,893 (100.0%) of 4,893 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### Child killed, three injured after tree falls at school
+
+*2024-02-05 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97016/child-killed-three-injured-after-tree-falls-at-school) · `en`
+
+One child has been reported dead, while three others were injured after a tree collapsed at an international school in the Gampola area.
+
+Meanwhile, three other students who were also reportedly injured during the incident have been hospitalised.
+
+◼️
+
+[Data](articles/71885d53.json)
+
+[Extended Data](ext_articles/71885d53.ext.json)
+
+---
+
+### Three arrested over shooting of Buddhist monk in Gampaha
+
+*2024-02-05 13:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97015/three-arrested-over-shooting-of-buddhist-monk-in-gampaha-) · `en`
+
+Three suspects have been arrested in connection with the shooting of a Buddhist monk in the Gampaha area last month.
+
+On 23 January, 45-year-old Ven. Kalapaluwawe Dhammarathana Thero was shot dead inside a temple in the Malwathuhiripitiya area of Gampaha.
+
+Four unidentified individuals had arrived in a car, claiming to be officers from the Criminal Investigations Department (CID), and opened fire at the monk with a T-56 assault rifle.
+
+The Buddhist monk had sustained critical injuries in the incident and was subsequently rushed to the Gampaha Hospital, where he later succumbed to his injuries.
+
+◼️
+
+[Data](articles/efa00a42.json)
+
+[Extended Data](ext_articles/efa00a42.ext.json)
+
+---
+
+### Increase in the price of carrots again
+
+*2024-02-05 12:56:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கேரட்-விலை-மீண்டும்-அதிகரிப்பு/76-332700) · `ta`
+
+The price of Nuwara Eliya Carrot has increased again. The price of 1 kg carrot, which was at a cost of Rs.
+
+◼️
+
+[Data](articles/1a462859.json)
+
+[Extended Data](ext_articles/1a462859.ext.json)
+
+---
 
 ### Flight operations affected at Delhi Airport due to heavy fog
 
@@ -91,6 +141,28 @@ The shooting had been made by saying that he had arrived in a car to be CID offi
 [Data](articles/1d5ecd03.json)
 
 [Extended Data](ext_articles/1d5ecd03.ext.json)
+
+---
+
+### Rag
+
+*2024-02-05 12:16:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாண்-எடை-தொடர்பில்-சுற்றிவளைப்பு/175-332697) · `ta`
+
+Is Pan sold in accordance with the Gazette notification that refers to the weight of the pan?The Consumer Affairs Authority (CAA) said that the country will be carried out across the country from Monday (05).
+
+Accordingly, the gazette is stated that the recommended weight of a feast style should be 450 grams and its variation should not be less than 13.5 grams.
+
+The recommended weight of the semi -dumping style should be 225 grams and its variation should not be less than 9 grams.
+
+The announcement also stated that the weight of the style should be displayed and that all the travelers have been notified of bakery owners and traders.
+
+According to the gazette notification, legal action will be taken after the first round of the first round of the first round of the Gazette against traders who do not sell Pan.
+
+◼️
+
+[Data](articles/77081178.json)
+
+[Extended Data](ext_articles/77081178.ext.json)
 
 ---
 
@@ -1953,85 +2025,5 @@ The outreach of a crane is 72 meters, spanning to operate 26TEUs across. Back re
 [Data](articles/cfd1d5e0.json)
 
 [Extended Data](ext_articles/cfd1d5e0.ext.json)
-
----
-
-### John Keells Group’s Plasticcycle and Pearl Protectors collect over 1 MT of plastic waste from seabed
-
-*2024-02-04 21:10:00* · [`islandlk`](http://island.lk/john-keells-groups-plasticcycle-and-pearl-protectors-collect-over-1-mt-of-plastic-waste-from-seabed/) · `en`
-
-Plasticcycle, the social entrepreneurship project of the John Keells Group & The Pearl Protectors (TPP), held the official partnership ceremony of the “Cleaner Seabeds for Sri Lanka Expedition” on 30th January 2024. The ceremony was aligned with the 21st dive at the Palagala North Reef in Dehiwala and included an awareness session for the invitees about the diving and clean-up process, safety standards maintained by the PADI-certified volunteer divers, the audit done once waste is collected, the upcycling and recycling efforts made for collected plastic waste and the positive impact achieved thus far through the partnership.
-
-...
-
-[Data](articles/a327e8e5.json)
-
-[Extended Data](ext_articles/a327e8e5.ext.json)
-
----
-
-### A hot situation in Kandakada
-
-*2024-02-04 21:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192978) · `si`
-
-A group of detainees and a soldier were hospitalized due to the confrontation.
-
-Meanwhile, it is reported that a group of detainees who have fled the Somawathi Vandana and two hundred and two mobile phones have been abducted by a group of detainees.
-
-34 inmates have been arrested by the Welikanda Police on suspicion of involvement.
-
-The suspects are to be produced before courts tomorrow and the situation has been managed by the Welikanda Police.
-
-It is reported that the clashes erupted at the Kandakadu Rehabilitation Center in several occasions occurred in several occasions.
-
-◼️
-
-[Data](articles/fce65efb.json)
-
-[Extended Data](ext_articles/fce65efb.ext.json)
-
----
-
-### Maratic fungus spreading rapidly in the world
-
-*2024-02-04 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192977) · `si`
-
-Foreign media information has been reported on a dangerous fungal infection that spread rapidly spreading in America.
-
-The foreign media has reportedly reported candida auris fungus.
-
-Although the fungus was infection many years ago, the world's focus is on the world.
-
-It is said that it is difficult to heal through providing infected candida auris.
-
-Physical experts say that the immunity lowing immunity can quickly, and the patients who use oxygen tubes and the patients who use oxygen tubes and cathet patients have at more risk of the fungus.
-
-Doctors show that the candidia Auris infection is at risk of this candidia Auris infection.
-
-◼️
-
-[Data](articles/9bf5e60a.json)
-
-[Extended Data](ext_articles/9bf5e60a.ext.json)
-
----
-
-### Man arrested in India with 4.3kg of gold biscuits smuggled from Sri Lanka
-
-*2024-02-04 20:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97003/man-arrested-in-india-with-43kg-of-gold-biscuits-smuggled-from-sri-lanka) · `en`
-
-India’s Central Intelligence Unit (CIU) together with the Customs Preventive Commissionerate, Trichy, on Saturday (03 Feb.) arrested a man from Ramanathapuram in possession of seized 4.3kg of gold biscuits reportedly smuggled from Sri Lanka.
-
-The arrest was made based on a tip-off received by the CIU about an alleged gold-smuggling attempt, via sea, to Kunthukal near Rameswaram in the Ramanathapuram district.
-
-On enquiry, it was found that the man, identified as C Namburajan of Rameswaram, was in possession of 4.3kg of gold biscuits worth around INR 22 million (approximately over LKR 82 million).
-
-Accordingly, the suspect was arrested, while the consignment of gold and his motorcycle were seized. Further investigations into the incident are underway, Indian media reported.
-
-◼️
-
-[Data](articles/f5895f03.json)
-
-[Extended Data](ext_articles/f5895f03.ext.json)
 
 ---

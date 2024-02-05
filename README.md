@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 08:17:29**
+As of **2024-02-05 08:32:53**
 
 ## Newspaper Stats
 
@@ -26,63 +26,69 @@ dailymirrorlk | 676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,811 (99.9%) of 4,816 articles have been extended.
+4,816 (100.0%) of 4,816 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
 
-### தரம்குறைந்த மருந்துகளை இறக்குமதி செய்வதற்காக மருந்து தட்டுப்பாடு குறித்த போலியான  அச்சத்தை ஏற்படுத்தினார் கெஹெலிய – பிரதி சொலிசிட்டர் ஜெனரல்
+### Keheliya - Deputy Solicitor General made fake fear of drug shortages to import low -quality drugs
 
 *2024-02-05 08:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175576) · `ta`
 
-மருந்து தட்டுப்பாடு குறித்த போலியான அச்சத்தை அமைச்சரவையில் ஏற்படுத்திய முன்னாள் அமைச்சர் கெஹெலிய ரம்புக்வெல அதனை பயன்படுத்தி தரம்குறைந்த மருந்துகளை இறக்குமதி செய்தார் என பிரதிசொலிசிட்டர் ஜெனரல் தெரிவித்துள்ளார்.
+Former Minister Keheliya Rambukwella, who has caused fake fears of drug shortages, has imported the low -quality drugs, said the Deputy Solitte General.
 
-2022 மே 30 ம் திகதி மருந்து தட்டுப்பாடு காரணமாக நாட்டின் சுகாதார துறை மூன்று வாரங்களிற்குள் வீழ்;ச்சியடையும் என அமைச்சரவையில் அச்சத்தை ஏற்படுத்திய முன்னாள் அமைச்சர் அதனை பயன்படுத்தி தரம்குறைந்த மருந்துகளை அரசாங்க மருத்துவமனைக்கு விநியோகம் செய்தார் என பிரதிசொலிசிட்டர் ஜெனரல் மாளிகாகந்த நீதவான் முன்னிலையில் தெரிவித்துள்ளார்.
+In the presence of the Deputy Inspector General of the Magistrate, the former minister, who feared the Cabinet, had used it to distribute the low -quality drugs to the Government Hospital, "he said.
 
-இந்திய கடன் உதவியில் எஞ்சியிருந்த நிதியை கூடிய விரைவில் பயன்படுத்துவதற்கான பொறிமுறையொன்றை வகுக்குமாறு அவர் விடுத்த வேண்டுகோளை அரசமருந்தாக்கல் கூட்டுத்தாபனம் ஏற்றுக்கொள்ள மறுத்ததை தொடர்ந்தே சந்தேக நபர் இவ்வாறு நடந்துகொண்டார் என பிரதிசொலிசிட்டர் ஜெனரல் தெரிவித்துள்ளார்.
+The Deputy Stool -Commerce General said that the suspect was following the refusal of the State Trade Corporation to accept his request to formulate a mechanism for the use of the remaining funds in the Indian credit assistance.
 
 ◼️
 
 [Data](articles/2f4b8bda.json)
 
+[Extended Data](ext_articles/2f4b8bda.ext.json)
+
 ---
 
-### කන්දකාඩු යළි උණුසුම්
+### Hot the Kandakadu again
 
 *2024-02-05 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192986) · `si`
 
-කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ ඇති වු ගැටුමකින් හමුදා සෙබළෙකු සහ රැඳවියන් පිරිසක් තුවාල ලබා තිබේ.
+Army soldier and a group of detainees were injured in a confrontation at the Kandakadu Rehabilitation Center.
 
-තුවාල ලැබු පිරිස වැලිකන්ද රෝහලේ ප්‍රතිකාර සඳහා යොමු කර ඇති බව පොලීසිය පැවසුවේය.
+The injured have been treated at the Welikanda Hospital.
 
-ගැටුමට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර රැඳවියන් විසින් කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ මුළුතැන්ගෙයි සහ තවත් ස්ථාන කිහිපයක දේපළවලට හානි සිදුකර තිබේ.
+The cause of the conflict is yet to be determined by the inmates and the inmates have damaged the kitchen and other places in the Kandakadu Rehabilitation Center.
 
-පුනරුත්ථාපන මධ්‍යස්ථානයේ දේපළවලට අලාභ හානි සිදුකිරීම සඳහා යොදාගත් බව කියන පොලු මුඟුරු තොගයක් ද පොලිස් භාරයට ගෙන ඇති බව වැලිකන්ද පොලීසිය සඳහන් කළේය.
+Police have also taken into custody, police said, a large quantity of poles used to cause damage to the rehabilitation center's property.
 
 ◼️
 
 [Data](articles/a6e438e3.json)
 
+[Extended Data](ext_articles/a6e438e3.ext.json)
+
 ---
 
-### දියේ ගිලෙමින් සිටි 6 දෙනෙකු බේරාගනී
+### Save six drowning
 
 *2024-02-05 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192987) · `si`
 
-පානදුර වෙරළ තීරයේ  දියනාමින් සිටි පිරිසක් අතරින් 6 දෙනෙකු දිය වැලකට හසු වී ගසාගෙන යමින් සිටියදී පානදුර පොලිස් ජීවිතාරක්ෂක ඒකකයේ නිලධාරීන් දෙදෙනෙකු විසින් බේරාගෙන ඇත.
+A total of 6 people in Panadura coastal coast rescued by two officers of the Panadura police warrard unit.
 
-මෙලෙස දිවිබේරාගෙන ඇත්තේ අවුරුදු 16ත් 21ත් අතර වයසැති පිරිමි ළමුන් තිදෙනෙකු සහ ගැහැණු ළමුන් තිදෙනෙකු‍ ය.
+The wasntwoman three boys and three girls aged 16 to 21 years old.
 
-මෙම දරුවන්ගේ දිවි බේරාගැනීමට සමත්ව ඇත්තේ පානදුර පොලිස් ජීවිතාරක්ෂක ඒකකයේ පොලිස් කොස්තාපල්වරුන් වන 69951  පුෂ්පකුමාර හා 93731 දේශාන් යන නිලධාරින් දෙදෙනා විසිනි.
+The police constables, 69951, Pushpakumara and Leaders of Palankara were elected to the survival of these children.
 
-ඊයේ (04) සවස් කාලයේ මෙම දරුවන් දියවැලට හසු වූ අවස්ථාවේ මෙම නිලධාරින් දෙදෙනා එකතුව මෙම දරුවන් වෙරළට රැගෙනවිත් වාහාම මූලික ප්‍රථමාධාර ලබා දී දරුවන්ව ඥාතීන් වෙත භාර දී ඇත.
+At the evening, the two officers were taken to the coast when the children were caught in the Diabend in the evening, the two officers were handed over to their children with basic first financial aid.
 
-මෙලෙස අනතුර මුහුණ දී ඇත්තේ රත්නපුර ප්‍රදේශයේ පදිංචි පිරිසක් බව පොලීසිය වැඩිදුරටත් සඳහන් කළේය.
+The victim was a resident of the Ratnapura area, police said.
 
 ◼️
 
 [Data](articles/ea9a744d.json)
+
+[Extended Data](ext_articles/ea9a744d.ext.json)
 
 ---
 
@@ -106,31 +112,35 @@ The public is kindly requested to take adequate precautions to minimize damages 
 
 ---
 
-### යුක්තියට තවත් පිරිසක් කොටුවෙති
+### Justice is boxing
 
 *2024-02-05 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192985) · `si`
 
-දිවයින පුරා ක්‍රියාත්මක යුක්තිය මෙහෙයුම යටතේ අද (05) අලුයම අවසන් වූ ගතවු පැය 24 තුළ සැකකරුවන් 667 දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+Police say that 667 suspects were arrested in the last 24 hours in the country under the operation of justice.
 
 ◼️
 
 [Data](articles/71441172.json)
 
+[Extended Data](ext_articles/71441172.ext.json)
+
 ---
 
-### කොළඹ මාර්ග කිහිපයක් අද සිට වැසෙයි
+### Several roads closed from today
 
 *2024-02-05 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192984) · `si`
 
-භූගත නළ එලීමේ කටයුත්තක් හේතුවෙන් කොල්ලුපිටිය සහ කොම්පඤ්ඤවීදිය ප්‍රදේශයන් හි මාර්ග කිහිපයක් අදියර 03ක් යටතේ අද (05) සිට වසා තැබෙන බව පොලීසිය පවසයි.
+According to police, Kollupitiya and Slave Island areas will be closed down in Kollupitiya and Slave Island areas today (05).
 
-ඒ අනුව අද සිට ලබන 19 වනදා දක්වා උත්තරානන්ද මාවත, නවම් මාවත සිට දුම්රිය හරස් මාර්ගය දක්වා කොටස වසා තැබෙන බව පොලීසිය පැවසුවේය.
+Accordingly, the part of the Unamem Mawatha, Navam Mawatha will be closed from today to the 19th.
 
-පෙබරවාරි 20 වනදා සිට මාර්තු 04 වනදා දක්වා කාලය තුළ උත්තරානන්ද මාවත, පෙරහැර මාවත සිට නවම් මාවත දක්වා කොටස වසා තැබෙන අතර එහි තුන්වන අදියර ලෙස මාර්තු මස 05 වනදා සිට 11 වනදා දක්වා උත්තරානන්ද මාවත, පෙරහැර මාවත ආශ්‍රිතව රොටුන්ඩාගාඩ්න් මංසන්ධිය කොටස වසා තැබේ.
+The section of Udathana Mawatha, Perahera Mawatha to Nawam Mawatha to Nawam Road, is closed from March 5 to 11th March.
 
 ◼️
 
 [Data](articles/8653c5f0.json)
+
+[Extended Data](ext_articles/8653c5f0.ext.json)
 
 ---
 

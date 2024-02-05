@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 21:17:26**
+As of **2024-02-05 21:33:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 706
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,984 (100.0%) of 4,986 articles have been extended.
+4,986 (100.0%) of 4,986 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -76,17 +76,19 @@ The State Minister further stated that the local investors also allow the opport
 
 ---
 
-### சனத் நிஷாந்தவின் சாரதிக்கு பிணை
+### Bail for Sanath Nishantha's driver
 
 *2024-02-05 20:02:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவின்-சாரதிக்கு-பிணை/175-332724) · `ta`
 
-மறைந்த முன்னாள் இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் வாகன சாரதி, பிணையில் செல்ல அனுமதிக்கப்பட்டுள்ளார்.
+The driver of the late former diplomatic minister Sanath Nishantha has been allowed to go on bail.
 
-சந்தேகநபர் இன்றைய தினம் வெலிசறை நீதவான் நீதிமன்றில் முன்னிலைப்படுத்திய போது, அவரை 5 இலட்சம் ரூபாய் சரீர பிணையில் செல்ல நீதவான் அனுமதி வழங்கினார். R
+When the suspect was produced before the Welisara Magistrate's Court today, the magistrate gave him permission to go on bail of Rs.. Remble
 
 ◼️
 
 [Data](articles/51311b0e.json)
+
+[Extended Data](ext_articles/51311b0e.ext.json)
 
 ---
 
@@ -122,17 +124,21 @@ Matters concerning regional security and bilateral ties between India and Sri La
 
 ---
 
-### கெஹலியவினால் டெலிபோனுக்குள் குழப்பம்
+### Confused with the telephone by Keheliya
 
 *2024-02-05 19:43:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவினால்-டெலிபோனுக்குள்-குழப்பம்/175-332723) · `ta`
 
-தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ள அமைச்சர் கெஹலிய ரம்புக்வெல்லவுக்கு எதிராக எடுக்கப்பட வேண்டிய நடவடிக்கை தொடர்பில் கட்சியின் நிலைப்பாடு குறித்து ஐக்கிய மக்கள் சக்தி (SJB) பாராளுமன்ற உறுப்பினர்கள் பரஸ்பரம் முரண்பட்டுள்ளனர்.
+The United People's Power (SJB) parliamentarians are mutually conflicted with the party's position on the action taken against Minister Keheliya Rambukwella, who is currently being interrogated.
 
-அமைச்சர் ரம்புக்வெல்லவுக்கு எதிராக இரண்டாவது நம்பிக்கையில்லாப் பிரேரணையை கொண்டு வருவதற்கு தமது கட்சி தீர்மானித்துள்ளதாக கடந்த வாரம் SJB பாராளுமன்ற உறுப்பினர் காவிந்த ஜயவர்தன அறிவித்திருந்த போதிலும், ரம்புக்வெல்லவுக்கு எதிராகவும் மருந்து கொள்வனவு மோசடியில் பாதிக்கப்பட்டவர்களுக்கு நீதி வழங்கவும் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் நடவடிக்கை எடுக்குமாறு கோரும் தீர்மானத்தை பாராளுமன்றத்தில் சமர்ப்பிப்பதைதே செய்ய வேண்டும் என SJB தேசிய ஒருங்கிணைப்பாளர் திஸ்ஸ அத்தநாயக்க தெரிவித்தார்.
+Last week, SJB Parliamentarian Kavinda Jayawardena announced that his party had decided to bring a second no -confidence motion against Minister Rambukwella, but the SJB Member of Parliament said that the SJB of Parliament was demanding a decision to take action against President Ranil Wickremesinghe to provide justice to the victims of Rambukwella.
+
+"We should focus on the resolution of President Wickremesinghe to take action against Minister Rambukwella and get justice for the people affected by the low -quality drugs purchased without tenders," Parliamentarian Attanayake told the media today.
 
 ...
 
 [Data](articles/e90e480b.json)
+
+[Extended Data](ext_articles/e90e480b.ext.json)
 
 ---
 

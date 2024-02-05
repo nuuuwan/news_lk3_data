@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 00:17:19**
+As of **2024-02-06 00:33:00**
 
 ## Newspaper Stats
 
-*Scraped **5,004** Articles*
+*Scraped **5,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 433
 virakesarilk | 580
 adaderanalk | 620
 tamilmirrorlk | 634
-adaderanasinhalalk | 648
+adaderanasinhalalk | 649
 dailymirrorlk | 711
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,004 (100.0%) of 5,004 articles have been extended.
+5,004 (100.0%) of 5,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### චාල්ස් රජුට පිළිකාවක්
+
+*2024-02-05 23:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193021) · `si`
+
+3 වන චාල්ස් රජුට පිළිකාවක් වැළඳී ඇති බව බකිංහැම් මාලිගය නිවේදනයක් නිකුත් කරමින් සඳහන් කර තිබේ.
+
+මේ වනවිට රජුට අවශ්‍ය ප්‍රතිකාර ආරම්භ කර ඇති බවත් ඔහු සහභාගි වීමට නියමිතව තිබූ සියලු වැඩ කටයුතු කල්දමා ඇති බවත් එම නිවේදනයේ වැඩිදුරටත් සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/750bad63.json)
+
+---
 
 ### Executive President is responsible for the people
 
@@ -1983,25 +1997,5 @@ The Archbishop of Colombo was filed before the Negombo District Court about the 
 [Data](articles/ee4b1bec.json)
 
 [Extended Data](ext_articles/ee4b1bec.ext.json)
-
----
-
-### Three arrested over shooting of Buddhist monk in Gampaha
-
-*2024-02-05 13:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97015/three-arrested-over-shooting-of-buddhist-monk-in-gampaha-) · `en`
-
-Three suspects have been arrested in connection with the shooting of a Buddhist monk in the Gampaha area last month.
-
-On 23 January, 45-year-old Ven. Kalapaluwawe Dhammarathana Thero was shot dead inside a temple in the Malwathuhiripitiya area of Gampaha.
-
-Four unidentified individuals had arrived in a car, claiming to be officers from the Criminal Investigations Department (CID), and opened fire at the monk with a T-56 assault rifle.
-
-The Buddhist monk had sustained critical injuries in the incident and was subsequently rushed to the Gampaha Hospital, where he later succumbed to his injuries.
-
-◼️
-
-[Data](articles/efa00a42.json)
-
-[Extended Data](ext_articles/efa00a42.ext.json)
 
 ---

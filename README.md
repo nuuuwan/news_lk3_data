@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 04:02:24**
+As of **2024-02-06 04:17:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,021 (99.8%) of 5,031 articles have been extended.
+5,029 (100.0%) of 5,031 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -102,6 +102,8 @@ Dissanayake along with a delegation of NPP politicians are currently on an offic
 
 [Data](articles/5888f3ea.json)
 
+[Extended Data](ext_articles/5888f3ea.ext.json)
+
 ---
 
 ### Janaka Ratnayake compares immunoglobulin scam to Hitler’s atrocities
@@ -124,6 +126,8 @@ Ratnayake noted that the Minister had facilitated the importation of the sub-sta
 
 [Data](articles/a4f79977.json)
 
+[Extended Data](ext_articles/a4f79977.ext.json)
+
 ---
 
 ### Industry veteran Saifudeen Jafferjee elected Chairman of JAAF at 20th AGM
@@ -137,6 +141,8 @@ Delivering the inaugural Chairman’s address, Jafferjee highlighted six key pol
 ...
 
 [Data](articles/ca6e666d.json)
+
+[Extended Data](ext_articles/ca6e666d.ext.json)
 
 ---
 
@@ -160,6 +166,8 @@ According to CIOB, the CBSL is allowing only $ 1 million for cross border guaran
 
 [Data](articles/b8299093.json)
 
+[Extended Data](ext_articles/b8299093.ext.json)
+
 ---
 
 ### ComBank LEAP GlobalLinker partners IDB to support SMEs
@@ -176,6 +184,8 @@ The partnership will provide stakeholders of the IDB access to ‘Commercial Ban
 
 [Data](articles/96b44f50.json)
 
+[Extended Data](ext_articles/96b44f50.ext.json)
+
 ---
 
 ### Sri Lankans should fight for economic freedom and not for economic independence
@@ -191,6 +201,8 @@ Sri Lanka as a matter of routine habit celebrated the anniversary of independenc
 ...
 
 [Data](articles/4b8260ab.json)
+
+[Extended Data](ext_articles/4b8260ab.ext.json)
 
 ---
 
@@ -232,6 +244,8 @@ It goes without saying that the non-payment of due taxes by international digita
 
 [Data](articles/35dc514b.json)
 
+[Extended Data](ext_articles/35dc514b.ext.json)
+
 ---
 
 ### Big Tech’s role and the OSB
@@ -243,6 +257,8 @@ Meta CEO Mark Zuckerberg testifying at a Senate Judiciary Committee hearing at t
 ...
 
 [Data](articles/b702f24d.json)
+
+[Extended Data](ext_articles/b702f24d.ext.json)
 
 ---
 

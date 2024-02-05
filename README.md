@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 03:02:39**
+As of **2024-02-06 03:17:16**
 
 ## Newspaper Stats
 
-*Scraped **5,015** Articles*
+*Scraped **5,021** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 265
 dailyftlk | 280
 newsfirstlk | 303
 adalk | 433
-virakesarilk | 580
+virakesarilk | 586
 adaderanalk | 621
 tamilmirrorlk | 635
 adaderanasinhalalk | 649
@@ -26,7 +26,7 @@ dailymirrorlk | 714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,015 (100.0%) of 5,015 articles have been extended.
+5,015 (99.9%) of 5,021 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,38 @@ In this case, I am happy with the approval of the Cabinet, ”said Diana Kamage.
 [Data](articles/0a9e1551.json)
 
 [Extended Data](ext_articles/0a9e1551.ext.json)
+
+---
+
+### யாழ்ப்பாணத்தில் 14 மாதங்கள் நிரம்பிய குழந்தை பரிதாபமாக உயரிழப்பு!
+
+*2024-02-06 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/175670) · `ta`
+
+யாழ்ப்பாணத்தில் 14 மாதங்கள் நிரம்பிய குழந்தை ஒன்று திங்கட்கிழமை (5) உயிரிழந்தமை சோகத்தை ஏற்படுத்தியுள்ளது. இதன்போது சாவகச்சேரி - இத்தியடி பகுதியை சேர்ந்த ரகுராம் சாந்திரா என்ற குழந்தையே இவ்வாறு உயிரிழந்துள்ளது.
+
+குறித்த குழந்தை இரண்டு நாட்கள் காய்ச்சலால் பீடிக்கப்பட்டிருந்தது. இந்நிலையில் குழந்தை திங்கட்கிழமை (5) காலை 8 மணியளவில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டது. இருப்பினும் சிகிச்சை பலனின்றி திங்கட்கிழமை (5) பி.ப 1 மணியளவில் குழந்தை உயிரிழந்தது.
+
+குழந்தையின் சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/ed9d8f59.json)
+
+---
+
+### மாடியில் வேலை செய்த குடும்பஸ்தர் கீழே விழுந்து உயிரிழப்பு!
+
+*2024-02-06 01:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175668) · `ta`
+
+கொக்குவில் பகுதியில் திங்கட்கிழமை (05) 2வது மாடி கட்டிடத்தில் வேலை செய்த இளம் குடும்பஸ்தர் ஒருவர் தவறி கீழே விழுந்த நிலையில் உயிரிழந்துள்ளார். இச்சம்பவத்தில் இளவாலை - பெரியவிளான் பகுதியை சேர்ந்த சூசை சுதர்சன் (வயது 38) என்ற குடும்பஸ்தரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த நபர்  திங்கட்கிழமை (05) வேலை செய்துகொண்டிருந்தவேளை இச்சம்பவம் இடம்பெற்றுள்ளது. இதன்போது அவர் மீட்கப்பட்டு யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
+
+இந்நிலையில் சிகிச்சை பலனின்றி உயிரிழந்தார். அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அறிக்கையில் நமசிவாயம் பிறேம்குமார் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/55f3ec4f.json)
 
 ---
 
@@ -135,6 +167,72 @@ The statement further states that the king has initiated the necessary treatment
 [Data](articles/750bad63.json)
 
 [Extended Data](ext_articles/750bad63.ext.json)
+
+---
+
+### யாழில் அனுமதிப்பத்திரமின்றி தேக்கு மரப் பலகைகளை கொண்டுசென்றவர் கைது
+
+*2024-02-05 23:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/175660) · `ta`
+
+யாழ்ப்பாணம் - புத்தூர் பகுதியில் அனுமதிப் பத்திரமின்றி தேக்கு மரப் பலகைகளை சட்டவிரோதமாக கொண்டுசென்றவர் திங்கட்கிழமை (05) கைது செய்யப்பட்டார்.
+
+வன்னிப் பகுதியில் இருந்து லொறியில் தேக்கு மரப் பலகைகள் கொண்டுவரப்பட்ட போதே காங்கேசன்துறை பிராந்திய குற்றத்தடுப்பு பிரிவு பொலிஸாரால் சந்தேக நபர் கைது செய்யப்பட்டார்.
+
+மேலதிக சட்ட நடவடிக்கைக்காக கைப்பற்றப்பட்ட பொருட்களுடன் சந்தேக நபரை அச்சுவேலி பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/b33297ed.json)
+
+---
+
+### கஞ்சாசெடியை பயிரிட அமைச்சரவை அனுமதி
+
+*2024-02-05 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175662) · `ta`
+
+ஏற்றுமதி நோக்கத்திற்காக கஞ்சாசெடியை பயிரிடுவதற்கு அமைச்சரவையின் அங்கீகாரம் கிடைத்துள்ளதாக சுற்றுலாத்துறை இராஜாங்க அமைச்சர் டயனா கமகே தெரிவித்தார்.
+
+இராஜாங்க அமைச்சர் டயனா கமகேவினால் சமர்ப்பிக்கப்பட்ட அமைச்சரவைப் பத்திரத்திற்கு அமைச்சரவை அங்கீகாரம் கிடைத்துள்ளமை குறிப்பிடத்தக்கது.
+
+இவ்வாறு அங்கீகாரம் கிடைத்துள்ளமை தனக்கு மிகவும் மகிழ்ச்சியைத் தருவதாக அவர் இராஜாங்க அமைச்சர் டயனா கமகே குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/123abe3e.json)
+
+---
+
+### சிறைச்சாலையிலுள்ள சந்தேக நபர்களை ஓன்லைன் முறையின் மூலம் நீதித்துறை நடவடிக்கைகளுக்கு அனுப்ப திட்டம் -  சிறைச்சாலைகள் ஆணையாளர் நாயகம்
+
+*2024-02-05 23:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175663) · `ta`
+
+சிறைச்சாலையில் உள்ள சந்தேக நபர்களை ஓன்லைன் முறையின் மூலம் நீதித்துறை நடவடிக்கைகளுக்கு அனுப்புவதற்கான சட்டத் திருத்தத்தை நீதி அமைச்சு மேற்கொண்டு வருகிறது என சிறைச்சாலைகள் ஆணையாளர் நாயகம் துஷார உபுல்தெனிய தெரிவித்தார்.
+
+ஐக்கிய நாடுகளின் குற்றத்தடுப்பு அலுவலகத்தின் அனுசரணையுடன் தென் மாகாணத்தில் இந்த வேலைத்திட்டம் சம்பிரதாயபூர்வமாக நடைமுறைப்படுத்தப்பட்டு வருவதாகவும், நாடளாவிய ரீதியில் இதனை நடைமுறைப்படுத்துவதில் கவனம் செலுத்தி, உரிய சட்ட திருத்தங்கள் மேற்கொள்ளப்படும் எனவும் அவர் தெரிவித்தார்.
+
+பல்லேகல திறந்தவெளி சிறைச்சாலை முகாமில் சனிக்கிழமையன்று (03) இடம்பெற்ற நிகழ்வொன்றின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே உபுல்தெனிய மேற்கண்டவாறு தெரிவித்தார்.
+
+கோவிட் தொற்றுநோய்க்கு கைதிகள் பலியாவது உட்பட பல காரணிகளால், கொவிட்  காலத்தில்   சிறையில் உள்ள சந்தேக நபர்களை ஓன்லைன் அமைப்பின் மூலம் நீதிமன்றத்தில் ஆஜர்படுத்திய துடன், அதன் நேர்மறையான அம்சங்களை மையமாகக் கொண்டு, புதிய திட்டம்  ஆரம்பிக்கப்படும்  என்றும் கூறினார்.
+
+...
+
+[Data](articles/09d72d12.json)
+
+---
+
+### சிவில் குற்றங்களில் ஈடுபடும் அனைவரையும் வீட்டுக் காவலில் வைக்கும் வேலைத்திட்டம் - இராஜாங்க அமைச்சர் அனுராத ஜயரத்ன
+
+*2024-02-05 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175659) · `ta`
+
+சிறைச்சாலைகளில் நெரிசலைக் குறைக்கும் நோக்கில் சிவில் குற்றங்களில் ஈடுபட்ட அனைவரையும் வீட்டுக் காவலில் வைக்கும் வேலைத்திட்டம் இவ்வருடம் நடைமுறைப்படுத்தப்படும் என நீதி மற்றும் சிறைச்சாலை விவகார இராஜாங்க அமைச்சர் அனுராத ஜயரத்ன தெரிவித்துள்ளார்.
+
+இதற்கான சட்டங்களை தயாரிப்பதற்காக நியமிக்கப்பட்ட குழுவின் அறிக்கையை வழங்கிய பின்னர், சட்ட வரைவுப் பிரிவினால் அதற்கான சட்டங்கள் தயாரிக்கப்பட்டு வருவதாகவும், பணிகள் நிறைவடைந்த பின்னர் பாராளுமன்றத்தில் சமர்ப்பித்து ஐந்தவருடமே  சட்டமாக்கப்படும் எனவும் அவர் தெரிவித்தார்.
+
+ஐக்கிய நாடுகள் சபையின் போதைப்பொருள் மற்றும் குற்றத்தடுப்பு அலுவலகம் 05 மில்லியன் ரூபா பெறுமதியான பேக்கரி உபகரணங்களை பல்லேகல திறந்தவெளி சிறைச்சாலைக்கு கடந்த சனிக்கிழமை (03) வழங்கியதன் பின்னர் கைதிகளுக்கான பேக்கரி பயிற்சிப் பாடசாலையை திறந்து வைக்கும் நிகழ்வில் கலந்து கொண்ட இராஜாங்க அமைச்சர் இதனை தெரிவித்தார்.
+
+...
+
+[Data](articles/eab15755.json)
 
 ---
 
@@ -1895,131 +1993,5 @@ The Minister was speaking at the Sri Lanka General Manage at the Calidimla Divis
 [Data](articles/555221e0.json)
 
 [Extended Data](ext_articles/555221e0.ext.json)
-
----
-
-### The Senegal is a military page by postpoor
-
-*2024-02-05 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193002) · `si`
-
-Assets supporters of the opposition parties with the decision to postpone the elections to postpone elections.
-
-Foreign media said that police tears were attacked by tear gas to control the protesters and later arrested several people.
-
-Saturday (03), the President said that the election will be postponed to the presidential election in the next few months.
-
-Among the arrested persons is a candidate that has been nominated for the former Prime Minister Aminata Toore and the next presidential election.
-
-The authorities reblogged the signal while the "Walf", a private channel of the country.
-
-◼️
-
-[Data](articles/8e3c8ef1.json)
-
-[Extended Data](ext_articles/8e3c8ef1.ext.json)
-
----
-
-### 112 killed in Chilean wildfire
-
-*2024-02-05 14:18:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சிலி-காட்டுத்தீயில்-112-பேர்-பலி/50-332707) · `ta`
-
-Terrific wildfire has occurred in the southern American country of Chile.. The fire is spreading rapidly to other areas.
-
-Subsequently, firefighters rushed there and were trying to control the fire by spraying water by helicopters.. Yet the fire is burning.
-
-The wildfire is said to have been destroyed by about 20 thousand hectares of forest so far. The rare plants and animals died in the fire. The fire spread to the surrounding Estrella and Navidab. Of these, 1,200 houses were destroyed.
-
-In this case, the death toll from the wildfire in Chile has risen to 112. The fastest spreading fire is the challenge of extinguishing. So President Gabriel Boric has asked the public to help rescue personnel in the process of extinguishing the fire. Firefighters are actively engaged in controlling the fire in the forest.
-
-Weather officials have warned that the temperature will increase by 104 degrees in the coming days.
-
-◼️
-
-[Data](articles/c0bfdf22.json)
-
-[Extended Data](ext_articles/c0bfdf22.ext.json)
-
----
-
-### Sri Lanka a target of 56 runs
-
-*2024-02-05 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193001) · `si`
-
-The Afghan group scored 296 runs in their second innings in the Test match against Sri Lanka.
-
-Accordingly, Sri Lanka has scored 56 runs for the winning match.
-
-Sri Lanka Supermarket Prabath Jayasuriya was able to stay in a strong place when yesterday completing yesterday.
-
-Asapitha Fernando took 3 wickets and Kasun had two wickets.
-
-Ibraim scored 114 runs with 12 fours.
-
-Sri Lanka scored 439 runs for their first innings and Afghanistan scored 198 runs for the first innings.
-
-◼️
-
-[Data](articles/501b278e.json)
-
-[Extended Data](ext_articles/501b278e.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-02-05 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175612) · `ta`
-
-The US dollar purchasing price was Rs 307.7088 and the sales price were 317.2528 based on the currency exchange rate released by the Central Bank on Monday (February 05).
-
-◼️
-
-[Data](articles/40aa789f.json)
-
-[Extended Data](ext_articles/40aa789f.ext.json)
-
----
-
-### New York selected to host 2026 FIFA World Cup final
-
-*2024-02-05 13:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-York-selected-to-host-2026-FIFA-World-Cup-final/108-276346) · `en`
-
-Miami, Feb 5 (Daily Mirror) - The 2026 World Cup final will be held at MetLife Stadium in New York/New Jersey, organisers FIFA announced on Sunday.
-
-The New York bid held off a strong challenge from Dallas to secure the July 19 game, the culmination of the expanded 48-team tournament being co-hosted by the USA, Canada and Mexico.
-
-The competition will kickoff with the opening game at Mexico City's iconic Azteca Stadium on June 11.
-
-"The most inclusive and impactful FIFA World Cup ever is no longer a dream but a reality that will take shape in the form of 104 matches in 16 state-of-the-art stadiums across Canada, Mexico and the USA," said FIFA president Gianni Infantino.
-
-"From the opening match at the iconic Estadio Azteca to the spectacular final in New York New Jersey, players and fans have been at the core of our extensive planning for this game-changing tournament... that will not only set new records but also leave an indelible legacy."
-
-...
-
-[Data](articles/8faa10f4.json)
-
-[Extended Data](ext_articles/8faa10f4.ext.json)
-
----
-
-### Anura Kumara meets Indian Foreign Minister in Delhi
-
-*2024-02-05 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97017/anura-kumara-meets-indian-foreign-minister-in-delhi-) · `en`
-
-Leader of the Janatha Vimukthi Peramuna (JVP) Anura Kumara Dissanayake has met with India’s Minister of External Affairs Dr. S. Jaishankar on Monday morning (05 Feb.).
-
-During the meeting, the parties discussed the exiting bilateral relationship between the two countries, and the mutual benefits that could be reaped from its further deepening.
-
-Taking to ‘X’ (formerly Twitter), Dr. Jaishankar added that they “also spoke about Sri Lanka’s economic challenges and the path ahead”.
-
-“India, with its Neighbourhood First and SAGAR policies, will always be a reliable friend and trusted partner of Sri Lanka”, the Indian Minister assured.
-
-A delegation of the JVP party comprising of JVP leader Anura Kumara Dissanayake, senior legislator Vijitha Herath, Secretary Nihal Abeysinghe and executive committee member Prof Anil Jayantha, left for Delhi, India early this morning, on an official invitation of the Indian government, as per a statement issued by the party.
-
-◼️
-
-[Data](articles/c7eadc48.json)
-
-[Extended Data](ext_articles/c7eadc48.ext.json)
 
 ---

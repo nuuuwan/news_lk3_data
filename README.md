@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 22:03:12**
+As of **2024-02-05 22:17:20**
 
 ## Newspaper Stats
 
-*Scraped **4,987** Articles*
+*Scraped **4,993** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ economynextcom | 260
 islandlk | 263
 dailyftlk | 280
 newsfirstlk | 302
-adalk | 431
-virakesarilk | 575
-adaderanalk | 618
+adalk | 432
+virakesarilk | 579
+adaderanalk | 619
 tamilmirrorlk | 634
 adaderanasinhalalk | 646
 dailymirrorlk | 706
@@ -26,11 +26,43 @@ dailymirrorlk | 706
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,987 (100.0%) of 4,987 articles have been extended.
+4,987 (99.9%) of 4,993 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### Thai PM urges state energy firm to invest in Sri Lanka’s solar farm
+
+*2024-02-05 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97026/thai-pm-urges-state-energy-firm-to-invest-in-sri-lankas-solar-farm) · `en`
+
+Thailand’s Prime Minister Srettha Thavisin has called a meeting with the newly appointed CEO and board chairman of PTT Plc, the state-owned listed oil and gas company, to discuss support for Thai startups and investing in Sri Lanka’s solar farm.
+
+Srettha, in his capacity as finance minister, invited PTT CEO Kongkrapan Intarajang and PTT board chairman Chatchai Promlert, to Government House on Monday. The Finance Ministry is a major shareholder of PTT Public Company Limited or simply PTT, Thai media reported.
+
+After the meeting, Srettha told the media that he had discussed investment opportunities with the PTT CEO and board chairman.
+
+He said he urged the two executives to seek investment opportunities overseas, especially in Sri Lanka’s floating solar farm, which requires more funding.
+
+“After returning, I invited the chairman to talk about PTT’s investment opportunities abroad, such as the solar floating farm in Sri Lanka that is open to investment from Thailand,” the premier said.
+
+...
+
+[Data](articles/befdabca.json)
+
+---
+
+### மீண்டும் குறைவடையவுள்ள கடன், வைப்பு வட்டி வீதங்கள்?
+
+*2024-02-05 21:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/175658) · `ta`
+
+வங்கி வட்டி வீதங்கள் மீண்டும் குறைவடையுமா?  மக்கள் கடன்களை பெற்றுக் கொள்ள பொருத்தமான காலமா? கடன்களுக்கான வட்டி விகிதம் குறைவடையுமா? அதேபோன்று வைப்புகளுக்கான வட்டி வீதமும்...
+
+◼️
+
+[Data](articles/74c6c1f8.json)
+
+---
 
 ### Cabinet approval to cultivate cannabis for export
 
@@ -47,6 +79,62 @@ State Minister of Tourism further stated that the local investors will also have
 [Data](articles/c1b5d18f.json)
 
 [Extended Data](ext_articles/c1b5d18f.ext.json)
+
+---
+
+### மக்களுக்கான சேவையை உரியமுறையில் நிறைவேற்றுவதே அரச உத்தியோகத்தர்களின் கடமை - வடக்கு ஆளுநர்
+
+*2024-02-05 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/175645) · `ta`
+
+வடக்கு மாகாணத்தின் கல்வி அபிவிருத்தி தொடர்பான மீளாய்வு கூட்டம், கல்வி அமைச்சர் கலாநிதி சுசில் பிரேமஜயந்தவின் பங்கேற்புடன், யாழ் மத்திய கல்லூரியில் திங்கட்கிழமை (05) நடைபெற்றது.
+
+வடக்கு மாகாண  ஆளுநர் பி.எஸ்.எம். சார்ள்ஸின் தலைமையில் நடைபெற்ற இந்நிகழ்வில், பாராளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதன், மத்திய அமைச்சின் உயர் அதிகாரிகள், மாகாண அமைச்சின் அதிகாரிகள், கல்வித்துறைசார் உத்தியோகஸ்தர்கள், அதிபர்கள், ஆசிரியர்கள் என பலரும் கலந்துக்கொண்டனர்.
+
+வடக்கு மாகாணத்தில் யாழ் மாவட்டத்தின் கல்வி அபிவிருத்தி தொடர்பிலேயே திங்கட்கிழமை (05) கூட்டத்தில் கலந்தாலோசிக்கப்பட்டது.
+
+அந்தவகையில், கடந்த ஐந்து வருடங்களில் யாழ் மாவட்ட மாணவர்கள், தரம் ஐந்து, சாதாரண மற்றும் உயர் தரங்களில் பெற்றுக்கொண்ட பெறுபேறுகளின் அடிப்படையில், ஏனைய மாவட்டங்களுடன் ஒப்பிடுகையில் யாழ் மாவட்டத்தில் சிறந்த முன்னேற்றங்கள் ஏற்பட்டுள்ளதாக கல்வி அமைச்சின் அதிகாரிகள் குறிப்பிட்டனர்.
+
+எனினும் குறைந்த வருமானம் பெறும் குடும்பங்களை சேர்ந்த மாணவர்களின் கல்வி நிலை தொடர்பில் அதிக கரிசனை செலுத்த வேண்டியுள்ளதாகவும் அதிகாரிகள் குறிப்பிட்டனர்.
+
+...
+
+[Data](articles/a15a2b52.json)
+
+---
+
+### இலங்கையில் புற்றுநோயால் சிறுவர்கள் அதிகம் பாதிப்பு  - விசேட வைத்திய நிபுணர் தீபால் பெரேரா
+
+*2024-02-05 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/175607) · `ta`
+
+மக்களின் வாழ்க்கை முறையில் ஏற்பட்டுள்ள மாற்றத்தினால் இலங்கையில் புற்றுநோயால் சிறுவர்கள் பாதிக்கப்படுவது அதிகரித்துள்ளதாக அதிர்ச்சித் தகவல் வெளியாகியுள்ளது.
+
+கொழும்பு சீமாட்டி சிறுவர் வைத்தியசாலையின் சிறுவர் நோய் தொடர்பான விசேட வைத்திய நிபுணர் தீபால் பெரேரா இதனைத் தெரிவித்துள்ளார்.
+
+ஆண்டுதோரும் வெளியாகும் தரவுகளின் படி புற்றுநோயால் பாதிக்கப்பட்ட சிறுவர்களின் எண்ணிக்கை இரட்டிப்பாகியுள்ளது. அதாவது 450 இல் இருந்து 900 ஆக அதிகரித்துள்ளது.
+
+சிறுவர்கள் ஒரே இடத்தில் நீண்ட நேரம் அமர்ந்திருப்பதும், அதையே தொடர்ந்து நாளாந்தம்  செய்வதுமே இதற்கு  காரணமாகும். குறிப்பாக சிறுவர்கள் கையடக்கத் தொலைபேசிகளுக்கு அடிமையாகி வருவது பிரதான காரணமாக விளங்குகிறது.
+
+ஒரே இடத்தில் நீண்ட நேரம் அமர்ந்திருப்பதற்கும் தொற்றா நோய்களின் அதிகரிப்புக்கும் இடையே  தொடர்பு உள்ளது.  குறிப்பாக இளம் வயதினரிடையே லுகேமியா மற்றும் மூளை புற்றுநோய் அதிகரித்து வருகிறது.
+
+...
+
+[Data](articles/5157ce96.json)
+
+---
+
+### புரட்சியின்றி மக்களின் காணி உரிமையை உறுதிப்படுத்தியமை அரசாங்கத்திற்குக் கிடைத்த வெற்றி - ஜனாதிபதி
+
+*2024-02-05 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175656) · `ta`
+
+காணி உரிமை கோரி உலகில் பல புரட்சிகள் இடம்பெற்ற போதிலும், புரட்சியின்றி இந்நாட்டு மக்களுக்கு நிரந்த காணி உரிமையை வழங்க முடிந்தமை தற்போதைய அரசாங்கத்திற்குக் கிடைத்த  தனித்துவமான வெற்றியாகும் என ஜனாதிபதி ரணில் விக்ரமசிங்க வலியுறுத்தினார்.
+
+நாட்டை வங்குரோத்து நிலையில் இருந்து மீட்பதே தற்போதைய அரசாங்கம் பெற்ற முதல் வெற்றி என சுட்டிக்காட்டிய ஜனாதிபதி, 20 இலட்சம் பேர் பயன்பெறும் “அஸ்வெசும” திட்டத்தை அமுல்படுத்தியமையும் 15 இலட்சம் அரச ஊழியர்களின் சம்பளத்தை அதிகரித்ததும்  ஏனைய சாதனைகளாகும் எனவும் சுட்டிக்காட்டினார்.
+
+பாராளுமன்றத்தின் ஒரு பகுதியினரின் ஆதரவுடன் இரண்டு வருடங்கள் என்ற குறுகிய காலப்பகுதியில் நாட்டு மக்களின் முன்னேற்றத்திற்காக இவ்வாறான பரந்த பணியை அரசாங்கம் நிறைவேற்ற முடியுமாக இருந்தால் பாராளுமன்றத்தில் உள்ள அனைவரின் ஒத்துழைப்பும் கிடைத்தால் நாட்டை எந்த இடத்தில் வைக்க முடியும் என்பதை அனைவரும் சிந்திக்க வேண்டும் எனவும் ஜனாதிபதி தெரிவித்தார்.
+
+...
+
+[Data](articles/fad5f1f0.json)
 
 ---
 
@@ -139,6 +227,20 @@ Matters concerning regional security and bilateral ties between India and Sri La
 [Data](articles/aec4670e.json)
 
 [Extended Data](ext_articles/aec4670e.ext.json)
+
+---
+
+### රු. මිලියනයකට තට්ටු වූ නින්ද
+
+*2024-02-05 19:44:47* · [`adalk`](https://www.ada.lk/breaking_news/රු--මිලියනයකට-තට්ටු-වූ-නින්ද/11-407912) · `si`
+
+කටුගස්තොට සිට මහනුවර දක්වා ධාවනය වෙමින් තිබූ වෑන් රථයක රියදුරට නින්ද යාම හේතුවෙන් වෑන් රථය පාරෙන් ඉවතට පැන මහනුවර මහ නගර සභාවට අයත් මල් පෝච්චි තුනක්ද සුනු විසුණු කරවමින් විදුලි බල මණ්ඩලයට අයත් දැවැන්ත යකඩ විදුලි කණුවක් ද කඩාගෙන ගොස් ඇති බව කටුගස්තොට පොලීසිය කියයි .
+
+එම අනතුර හේතුවෙන් විනාශයට පත් වූ විදුලි බල මණ්ඩලයට අයත් ජකඩ විදුලි කණුවේ අලාභය වශයෙන් විදුලිබල මණ්ඩලයට රුපියල් ලක්ෂ නවයක මුදලක් සහ මහනුවර මහ නගර සභාවට අයත් මල් පෝච්චි තුනේ වටිනාකම වශයෙන් රුපියල් ලක්ෂයකට ආසන්න මුදලක් එහි රියදුරට ගෙවීමට සිදුවන බව පොලිසිය කියයි .
+
+◼️
+
+[Data](articles/d9bc9ef6.json)
 
 ---
 
@@ -1885,121 +1987,5 @@ All shops and bakeries should issue a bill for the bread sold.
 [Data](articles/ac41b815.json)
 
 [Extended Data](ext_articles/ac41b815.ext.json)
-
----
-
-### Shantan's consent to come to Sri Lanka
-
-*2024-02-05 12:05:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தன்-இலங்கைக்கு-வர-ஜனாதிபதி-சம்மதம்/175-332695) · `ta`
-
-It is reported that President Ranil Wickremesinghe has agreed to bring Shantan to Sri Lanka, one of the arrested in the Rajiv Gandhi murder case.
-
-Minister Douglas Devananda spoke to the President and the Minister of External Affairs during a cabinet meeting held today.
-
-◼️
-
-[Data](articles/81b50fc0.json)
-
-[Extended Data](ext_articles/81b50fc0.ext.json)
-
----
-
-### 140 lakh inweight earns to prison
-
-*2024-02-05 12:01:12* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-රැඳවියෝ-ලක්ෂ 140ක්-බන්ධනාගාරයට-උපයා-දෙති/11-407906) · `si`
-
-The Department of Prisons Mohan Karunaratne has earned a sum of Rs.
-
-During the rainfall, the harvesting of about five acres has been cultivated in the open area of the open-up of the Anuradhapura Prison without using any chemical fends.
-
-In addition, the organic paddy cultivation in the inmates of the inmates is also grown in the inmates of the prison.Revealed.
-
-Prison superintendent, the Department of Prisons has earned more than Rs.
-
-මෙම නිෂ්පාදන අනුරාධපුර  බන්ධනාගාරය තුල සිටින රැඳවියන් වෙනුවෙන් පරිභෝජනය කරනු ලබන අතර, අතිරික්ත  නිෂ්පාදන දිවයිනේ අනෙකුත් බන්ධනාගාර වල රඳවියන් හට  ලබා දීමත්, අනුරාධපුර බන්ධනාගාරය තුල ඇති අලෙවි කුටිය මගින්  පාරිභෝගික මහජනතාවට අලෙවි කිරීමත් සිදු කරන බව බන්ධනාගාර දෙපාර්තමේන්තුවේ කෘෂිකර්ම උපදේශක පී. S. Mr. Wijesiri said.
-
-◼️
-
-[Data](articles/a785f637.json)
-
-[Extended Data](ext_articles/a785f637.ext.json)
-
----
-
-### President appoints steering committee for his Presidential election campaign
-
-*2024-02-05 11:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-appoints-steering-committee-for-his-Presidential-election-campaign/108-276338) · `en`
-
-Colombo, Feb. 05 (Daily Mirror)- President Ranil Wickremesinghe has appointed a Steering Committee for his campaign for the forthcoming Presidential election under chairmanship leading lawyer and renowned President's Counsel Ronald Perera who is currently serving as the Chairman of the Bank of Ceylon (BOC).
-
-Colombo District Manger of the United National Party (UNP) Lasantha Gunawardena, Executive Director of Sirikotha, the UNP Headquarters Shamal Senarath and Working Committee member of the party Krishan Theodor are other members of the committee.
-
-Coordinating the other political parties that currently supports Mr. Wickremesinghe and handling the propaganda activities are the main tasks entrusted to the Ronald Perera Committee.
-
-President as the leader of the UNP has advised the committee to find an appropriate venue for the mobilization of his election campaign and instructed them to prepare a management plan for the campaign.
-
-...
-
-[Data](articles/3d31b739.json)
-
-[Extended Data](ext_articles/3d31b739.ext.json)
-
----
-
-### Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
-
-*2024-02-05 11:52:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/talk-of-the-town-maithri-gunaratne-pc-no-liberty-no-safety/) · `en`
-
-Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
-
-Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
-
-Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
-
-◼️
-
-[Data](articles/3ba545ad.json)
-
-[Extended Data](ext_articles/3ba545ad.ext.json)
-
----
-
-### 14 crowdly seized by Kandakara
-
-*2024-02-05 11:50:43* · [`adalk`](https://www.ada.lk/breaking_news/කන්දකාඩුවෙන්-පැන්න-14ක්-යළි-අල්ලයි/11-407905) · `si`
-
-Awaitaries and Army soldiers were injured in a confrontation between the Mount Kadaka and Army and soldiers were injured in a confrontation between the Mount and Army and soldiers.
-
-Infants and army personnel are receiving treatment at the 2st of Royal.The arrested detainees were arrested by the Welikanda police last night after the officials were arrested by the Welikanda Police last night.
-
-It was also the Ulitha in the camp at the clashes between the heels of the war and the war.
-
-◼️
-
-[Data](articles/91a448c4.json)
-
-[Extended Data](ext_articles/91a448c4.ext.json)
-
----
-
-### Several roads in Colombo closed till March 11
-
-*2024-02-05 11:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Several-roads-in-Colombo-closed-till-March-11/108-276336) · `en`
-
-Colombo, Feb 05 (Daily MIrror) - Several roads in the Kollupitiya and Kompanna Vidiya areas will be temporarily closed from today (05 Feb.) due to the laying of underground pipelines.
-
-Police said the section from Nawam Mawatha to the Kompanna Vidiya railway station, along Sri Uttarananda Mawatha, will be inaccessible from today until 19 February.
-
-In the second phase, the road from Perahera Mawatha to Nawam Mawatha, also along Sri Uttarananda Mawatha, will be closed from 20 February until 04 March.
-
-Following these closures, roads near the Rotunda Gardens junction and Perahera Mawatha will be closed down from 05 to 11 March as part of the maintenance project.
-
-Police urged motorists to use alternative roads due to the closure of the roads
-
-◼️
-
-[Data](articles/69f22eba.json)
-
-[Extended Data](ext_articles/69f22eba.ext.json)
 
 ---

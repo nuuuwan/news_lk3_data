@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 21:51:38**
+As of **2024-02-05 22:03:12**
 
 ## Newspaper Stats
 
-*Scraped **4,986** Articles*
+*Scraped **4,987** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 302
 adalk | 431
 virakesarilk | 575
-adaderanalk | 617
+adaderanalk | 618
 tamilmirrorlk | 634
 adaderanasinhalalk | 646
 dailymirrorlk | 706
@@ -26,11 +26,29 @@ dailymirrorlk | 706
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,986 (100.0%) of 4,986 articles have been extended.
+4,987 (100.0%) of 4,987 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### Cabinet approval to cultivate cannabis for export
+
+*2024-02-05 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97025/cabinet-approval-to-cultivate-cannabis-for-export) · `en`
+
+The Cabinet of Ministers on Monday approved a proposal in relation to the cultivation and export of cannabis for medicinal purposes, according to State Minister Diana Gamage.
+
+Speaking to Ada Derana, she said that the process of inviting foreign investors for that purpose will be carried out through the Board of Investment (BoI) in the future.
+
+State Minister of Tourism further stated that the local investors will also have the opportunity for this and that investors will be required to make relevant investments in US Dollars.
+
+◼️
+
+[Data](articles/c1b5d18f.json)
+
+[Extended Data](ext_articles/c1b5d18f.ext.json)
+
+---
 
 ### We can't be a beggar nation again
 
@@ -1983,31 +2001,5 @@ Police urged motorists to use alternative roads due to the closure of the roads
 [Data](articles/69f22eba.json)
 
 [Extended Data](ext_articles/69f22eba.ext.json)
-
----
-
-### Retired Post OIC killed unexpectedly
-
-*2024-02-05 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192996) · `si`
-
-Dambulla Police say that a resident of Sisirawatte has been killed and another resident of Dambarawatta, undermining the tree.
-
-The deceased has been identified as the Wubl residing in Sisirawatte area in Dambulla Sisirawatta. M. Jayasena is a seventy-three-year-old name.
-
-Several colon tree in the garden in Dambulla and his friends in the area of Athuphalaya area had joined the removal of a large tree.
-
-The police say that the coloon tree tall is taller than fifty feet, police said.
-
-Relatives say that the rope of the rope of the rope of the rope of the rope of the rope is to discuss the tree to jump out of the tree.
-
-But the tree was hit by the tree at once and had been submerged.
-
-After the incident, the people of the area were taken out of the residents of the area and was taken to the Dambulla Base Hospital, a hospital spokesman said.
-
-◼️
-
-[Data](articles/b5d4a4bf.json)
-
-[Extended Data](ext_articles/b5d4a4bf.ext.json)
 
 ---

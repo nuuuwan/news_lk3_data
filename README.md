@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 12:33:18**
+As of **2024-02-05 12:49:14**
 
 ## Newspaper Stats
 
-*Scraped **4,874** Articles*
+*Scraped **4,875** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 263
 dailyftlk | 280
 newsfirstlk | 294
 adalk | 420
-virakesarilk | 557
+virakesarilk | 558
 adaderanalk | 606
 tamilmirrorlk | 622
 adaderanasinhalalk | 623
@@ -26,11 +26,29 @@ dailymirrorlk | 681
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,874 (100.0%) of 4,874 articles have been extended.
+4,875 (100.0%) of 4,875 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### Senthil Thondaman discusses with the Indian High Commission in Sri Lanka on the development of the East and the Upcountry
+
+*2024-02-05 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175599) · `ta`
+
+The newly appointed Indian High Commissioner to the newly appointed Sri Lanka Santosh Ja met with the Governor of the Eastern Province and the President of the Ceylon Workers Congress, Senthil Thondaman.
+
+During the meeting, the necessary assistance to the development of the Eastern Province and the Upcountry was discussed.
+
+Indian High Commissioner Santosh Ja promised to provide his full assistance to Sri Lanka's development.
+
+◼️
+
+[Data](articles/8b533e48.json)
+
+[Extended Data](ext_articles/8b533e48.ext.json)
+
+---
 
 ### Shantan's consent to come to Sri Lanka
 
@@ -1955,23 +1973,5 @@ Parliamentarian Vijitha Herath,  NPP Secretary Dr. Nihal Abeysinghe and Nationa
 [Data](articles/8b74e5de.json)
 
 [Extended Data](ext_articles/8b74e5de.ext.json)
-
----
-
-### A Letter To Anura Kumara Dissanayake – Spell Out Your Agenda
-
-*2024-02-04 19:13:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-letter-to-anura-kumara-dissanayake-spell-out-your-agenda/) · `en`
-
-Today, Sri Lankans are totally fed up with both political parties. Millions of Lankans have finally realized that together the two major parties ran our country to ground while protecting each other when laws were broken, and corruption was evident.
-
-Thank to the contribution of the social media, an angry public who were deprived of the very basic necessities of life rallied together and managed to chase away a president who mismanaged the country, a historic first in our beloved island.
-
-Two of his catastrophic decisions were giving a tax to the tune of around Rs 600 billion without figuring out how to pay for it (now RW has made the people pay for it with increased taxes) and later opting to go for organic fertilizer during a global pandemic thereby ruining the only healthy sector of our economy which was agriculture. Had Gota not been given the huge tax cut he might have had the money to buy chemical fertilizer.
-
-...
-
-[Data](articles/7a5703cd.json)
-
-[Extended Data](ext_articles/7a5703cd.ext.json)
 
 ---

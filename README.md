@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 20:49:44**
+As of **2024-02-05 21:02:39**
 
 ## Newspaper Stats
 
@@ -26,29 +26,33 @@ dailymirrorlk | 706
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,979 (99.9%) of 4,984 articles have been extended.
+4,984 (100.0%) of 4,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
 
-### අපිට ආයෙත් හිඟන ජාතියක් වෙන්න බෑ
+### We can't be a beggar nation again
 
 *2024-02-05 20:19:46* · [`adalk`](https://www.ada.lk/breaking_news/අපිට-ආයෙත්-හිඟන-ජාතියක්-වෙන්න-බෑ/11-407917) · `si`
 
-සියලු ජනතාවට අභිමානයෙන් ජීවත්විය හැකි රටක් ගොඩනැගීමට කැප වෙනවා – ජනපති.
+President is committed to building a country where all people can live in pride
 
-ආණ්ඩුවේ වැඩපිළිවෙළ සමඟ එක්වන ලෙස ජනපති සියලු පාර්ශ්වයන්ට නැවත ඇරයුම් කරයි.
+President invites all parties to join the government's program.
 
-ඉඩම් අයිතිය ඉල්ලා ලෝකයේ විප්ලව රැසක් සිදු වූවද විප්ලවයකින් තොරවම මෙරට ජනතාවගේ ඉඩම් අයිතිය ලබා දීමට හැකිවීම වත්මන් ආණ්ඩුව ලැබූ සුවිශේෂී ජයග්‍රහණයක් බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+President Ranil Wickremesinghe stressed that the present government was able to provide the land ownership of the people in the country without a revolution.
 
-වත්මන් ආණ්ඩුව ලැබූ පළමු ජයග්‍රහණය රට බංකොලොත්භාවයෙන් මුදවා ගැනීම බව පෙන්වා දුන් ජනාධිපතිවරයා ලක්ෂ 20ෙක ජනතාවට ප්‍රතිලාභ සැලසෙන “අස්වැසුම” වැඩසටහන ක්‍රියාත්මක කිරීම සහ රාජ්‍ය සේවකයන් ලක්ෂ 15කට වැටුප් වැඩි කිරීම අනෙකුත් ජයග්‍රහණ බවද පෙන්වා දුන්නේය.
+The President has pointed out that the President has shown that the first achievement of the country is to relieve the country with the rewarding of the country and implement salary increases.
 
-පාර්ලිමේන්තුවේ කොටසකගේ පමණක් සහාය ඇතිව වසර දෙකක් වැනි කෙටි කාලයක් තුළ රටේ ජනතාවගේ අභිවෘද්ධිය වෙනුවෙන් මෙවන් පුළුල් වැඩකොටසක් ඉටු කිරීමට ආණ්ඩුව සමත් වූවා නම් පාර්ලිමේන්තුවේ සියලුදෙනාගේ සහාය ඇතිව රට ඔසවා තැබිය හැක්කේ කුමන ස්ථානයකට කියා සියලුදෙනා සිතා බැලිය යුතු බව ජනාධිපතිවරයා පැවසීය.
+The President said that if the government was able to perform a broader role in the betterment of the people in the country, the President should think about the location of the people.
+
+President Ranil Wickremesinghe addressing the ceremony at Rangeiri Dambulla Stadium this afternoon to present 10,000 free procedures to the farmers in the heritage program.
 
 ...
 
 [Data](articles/32c1f345.json)
+
+[Extended Data](ext_articles/32c1f345.ext.json)
 
 ---
 
@@ -72,17 +76,19 @@ The State Minister further stated that the local investors also allow the opport
 
 ---
 
-### திருகோணமலை - கொழும்பு ரயில் பயணிகளுக்கான அறிவித்தல்!
+### Notice for Trincomalee - Colombo train passengers!
 
 *2024-02-05 19:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175655) · `ta`
 
-கெக்கிராவ மற்றும் பலுகஸ்வெவ ரயில் நிலையங்களுக்கு இடையில் 118ஆவது மைல் கல் அருகில் உள்ள கடவை திருத்தம் காரணமாக திருமலையிலிருந்து கொழும்பு கோட்டைக்குச் செல்லும் ரயில் நாளை (07) மாலை 4.00 மணிக்கே  திருமலையிலிருந்து புறப்படும் என ரயில்வே பிரதி பொது முகாமையாளர் (போக்குவரத்து) தெரிவித்துள்ளார்.
+The Railway Deputy General Manager (Transport) said that the train from Tirumala to Colombo will leave Tirumalai at 4.00 pm tomorrow (07) due to the 118th mile stations between Kekirawa and Palukaswewa railway stations.
 
-திருகோணமலை ரயில் நிலையத்திலிருந்து வழமையாக  இந்த ரயில் பகல் 12.15 பயணத்தை ஆரம்பிப்பதாகவும் அவர் கூறியுள்ளார்.
+He also said that the train will start a 12.15 day from the Trincomalee railway station.
 
 ◼️
 
 [Data](articles/94189608.json)
+
+[Extended Data](ext_articles/94189608.ext.json)
 
 ---
 
@@ -97,6 +103,8 @@ Matters concerning regional security and bilateral ties between India and Sri La
 ◼️
 
 [Data](articles/aec4670e.json)
+
+[Extended Data](ext_articles/aec4670e.ext.json)
 
 ---
 
@@ -224,19 +232,21 @@ Responding to the comments made by SJB leader Sajith Premadasa on the weekend, F
 
 ---
 
-### කෙහෙළිය විදේශීය ඖෂධම භාවිත කරන්න අවසර ඉල්ලයි?
+### Will the Keheliya demand the use of foreign drugs?
 
 *2024-02-05 18:53:16* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-විදේශීය-ඖෂධම-භාවිත-කරන්න-අවසර-ඉල්ලයි-/11-407911) · `si`
 
-ඉන්දියානු ණය යෝජනා ක්‍රමය යටතේ ව්‍යාජ ලේඛන සකස් කර ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් රජයේ රෝහල්වලට බෙදා හැරීම මඟින් රුපියල් කෝටි ගණනක වංචා කිරීම සහ රෝගී ජීවීත අනාරක්‍ෂිත තත්වයකට පත් කිරීමේ සිද්ධිය සම්බන්ධයෙන් රිමාන්ඩ් බාරයට පත් කළ හිටපු සෞඛ්‍ය අමාත්‍ය මෙන්ම පරිසර අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගේ රෝගී තත්වයන් සඳහා ඔහු පාවිච්චි කරන විදේශිය ඖෂධ වර්ගම පාවිච්චි කිරීමට බන්ධනාගාර නිලධාරීන්ගෙන් අවසර ඉල්ලා ඇතැයි වාර්තාවේ.
+Former Health Minister Keheliya Rambukwella, Minister of Health and Environmental Minister Keheliya Rambukwella has been used to prepare the pseudo-free documents under the Indian loan scheme and distributing the substandard antibodies and distribution of diseased livelihoods.It is reported that the prison officials have requested permission to use foreign pharmaceuticals.
 
-රිමාන්ඩ් බාරයට පත් කරනු ලැබු කෙහෙළිය රඹුක්වැල්ල මහතා යම් යම් රෝගී තත්වයන් හේතූවෙන් ඖෂධ වර්ග 08ක් පමණ පාවිච්චි කරනු ලබයි.
+Keheliya Rambukwella, who was appointed pristed, is used in about eight medicinals.
 
-කාලයක් තිස්සේ ඔහු පාවිච්චි කරනු ලබන විදේශිය ඖෂධ වර්ගම බන්ධනාගාරය තුළදීත් ඔහුට පාවිච්චි කිරීමට අවසර දෙන්නැයි ඔහු මෙලෙස අවසර ඉල්ලා ඇතැයි වාර්තාවේ.
+It is reported that he has asked for permission to use the foreign pharmaceuticals at Virunar Virugama prison for a long time.
 
 ◼️
 
 [Data](articles/e0b3c1ca.json)
+
+[Extended Data](ext_articles/e0b3c1ca.ext.json)
 
 ---
 
@@ -256,19 +266,21 @@ Craig howard, the former first-text player, has been appointed as the spinner co
 
 ---
 
-### අනුර හා ඉන්දීය විදේශ කටයුතු ඇමති අතර හමුවක්
+### Anura and Indian Foreign Minister meets
 
 *2024-02-05 18:48:59* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-හා-ඉන්දීය-විදේශ කටයුතු-ඇමති-අතර-හමුවක්/11-407910) · `si`
 
-ඉන්දීය රජයේ නිල ආරාධනාවක් අනුව ඉන්දීය සංචාරයකට එක්ව සිටින ජනතා විමුක්ති පෙරමුණේ නායක අනුර කුමාර දිසානායක මහතා ඇතුළු දූත පිරිස ඉන්දීය විදේශ කටයුතු අමාත්‍ය එස්. ජයශංකර් හමුවී ද්විපාර්ශ්වීය සාකච්ඡා පවත්වා තිබේ.
+JVP leader Anura Kumara Dissanayake and delegation participated in Indian visit to India on an official invitation of the Indian government.. Meeting and bilateral negotiations were held in Jayasankara.
 
-අද පෙරවරුවේ මෙම ද්විපාර්ශ්වීය සාකච්ඡා පවත්වා තිබේ. මෙහිදී ද්විපාර්වීය සබඳතා මෙන්ම අනාගතයේදී දෙරටටම වැදගත් වන කරුණු පිළිබඳව සාකච්ඡා පවත්වා තිබේ.
+These bilateral discussions have been held this morning. Discussions have held bilateral relations and matters important to the two countries.
 
-මෙහිදී ශ්‍රී ලංකාවේ ආර්ථික සබඳතා අභියෝගතා සම්බන්ධයෙන් සාකච්ඡා කළ බව ඉන්දීය විදේශ කටයුතු අමාත්‍යවරයා සිය x ගිණුමෙන් ප්‍රකාශ කරයි.
+The Indian Foreign Minister expresses his website that economic relations in Sri Lanka have discussed challenges.
 
 ◼️
 
 [Data](articles/b7d88406.json)
+
+[Extended Data](ext_articles/b7d88406.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 08:50:46**
+As of **2024-02-05 09:02:37**
 
 ## Newspaper Stats
 
-*Scraped **4,817** Articles*
+*Scraped **4,820** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ dailyftlk | 280
 newsfirstlk | 288
 adalk | 414
 virakesarilk | 547
-adaderanalk | 601
+adaderanalk | 603
 tamilmirrorlk | 607
 adaderanasinhalalk | 618
-dailymirrorlk | 676
+dailymirrorlk | 677
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,817 (100.0%) of 4,817 articles have been extended.
+4,817 (99.9%) of 4,820 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### Keheliya - Deputy Solicitor General made fake fear of drug shortages to import low -quality drugs
+
+*2024-02-05 08:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175576) · `ta`
+
+Former Minister Keheliya Rambukwella, who has caused fake fears of drug shortages, has imported the low -quality drugs, said the Deputy Solitte General.
+
+In the presence of the Deputy Inspector General of the Magistrate, the former minister, who feared the Cabinet, had used it to distribute the low -quality drugs to the Government Hospital, "he said.
+
+The Deputy Stool -Commerce General said that the suspect was following the refusal of the State Trade Corporation to accept his request to formulate a mechanism for the use of the remaining funds in the Indian credit assistance.
+
+◼️
+
+[Data](articles/2f4b8bda.json)
+
+[Extended Data](ext_articles/2f4b8bda.ext.json)
+
+---
 
 ### A bridge in Embilipitiya collapses
 
@@ -50,21 +68,25 @@ The accident has not been damaged and the police are informed to use alternative
 
 ---
 
-### Keheliya - Deputy Solicitor General made fake fear of drug shortages to import low -quality drugs
+### Beliatta mass shooting: another suspect arrested
 
-*2024-02-05 08:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175576) · `ta`
+*2024-02-05 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97009/beliatta-mass-shooting-another-suspect-arrested) · `en`
 
-Former Minister Keheliya Rambukwella, who has caused fake fears of drug shortages, has imported the low -quality drugs, said the Deputy Solitte General.
+Police have arrested another suspect in connection with the shooting and killing of five persons in the Beliatta area in Hambantota District.
 
-In the presence of the Deputy Inspector General of the Magistrate, the former minister, who feared the Cabinet, had used it to distribute the low -quality drugs to the Government Hospital, "he said.
+The Police Media Division said the suspect was arrested in Habaraduwa yesterday (04) by officers of the Matara Division Children & Women Bureau, on charges of aiding and abetting in the murders.
 
-The Deputy Stool -Commerce General said that the suspect was following the refusal of the State Trade Corporation to accept his request to formulate a mechanism for the use of the remaining funds in the Indian credit assistance.
+The arrested suspect is a 28-year-old resident of Katudampe in Ratgama.
 
-◼️
+Meanwhile this brings the total number of suspects arrested over the murders to 12 thus far.
 
-[Data](articles/2f4b8bda.json)
+The shooting took place on January 23 near the Beliatta interchange of the Southern Expressway.
 
-[Extended Data](ext_articles/2f4b8bda.ext.json)
+A group of assailants in an SUV had opened fire at a white Defender, killing four persons at the scene. The fifth person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, but he was pronounced dead shortly after.
+
+...
+
+[Data](articles/206a19eb.json)
 
 ---
 
@@ -107,6 +129,20 @@ The victim was a resident of the Ratnapura area, police said.
 [Data](articles/ea9a744d.json)
 
 [Extended Data](ext_articles/ea9a744d.ext.json)
+
+---
+
+### Operation ‘Yukthiya’: 667 more suspects arrested within 24 hours
+
+*2024-02-05 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97008/operation-yukthiya-667-more-suspects-arrested-within-24-hours) · `en`
+
+A total of 667 more suspects have been arrested by Sri Lanka’s police and security forces personnel within a 24-hour window ending at 12.30 a.m. today (Feb. 05) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+According to the Ministry of Public Security, the narcotics taken into custody during this period include 191 grams of heroin and 103 grams of crystal methamphetamine (Ice).
+
+◼️
+
+[Data](articles/9937c8a2.json)
 
 ---
 
@@ -841,6 +877,20 @@ The collapse of the rule of law can be illustrated by three examples.
 [Data](articles/56065451.json)
 
 [Extended Data](ext_articles/56065451.ext.json)
+
+---
+
+### Anura Kumara to leave for India tomorrow on official invitation
+
+*2024-02-04 19:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Anura-Kumara-to-leave-for-India-tomorrow-on-official-invitation/155-276310) · `en`
+
+Colombo, Feb. 04 (Daily Mirror)- A group led by NPP leader Anura Kumara Dissanayake is to leave for India tomorrow on an official invitation by the Indian government, party sources said.
+
+Parliamentarian Vijitha Herath,  NPP Secretary Dr. Nihal Abeysinghe and National Executive Member Prof. Anil Jayantha will accompany the NPP leader.
+
+◼️
+
+[Data](articles/525bc2ba.json)
 
 ---
 
@@ -1863,61 +1913,5 @@ The debate on taxation will continue for many more years. However, one is clearl
 [Data](articles/a67dc87d.json)
 
 [Extended Data](ext_articles/a67dc87d.ext.json)
-
----
-
-### Ceremonial Security Act: For whom?
-
-*2024-02-04 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175525) · `ta`
-
-In any case, the bill has been passed as most of our MPs voted in favor of the deepest and widths of the status law.. The law has come into effect with the similarity of the Speaker. So people need to understand this reality and act very carefully.
-
-What is important here is that the issue in Sri Lanka is a law or legalization;Is not about. Its proper implementation is on. Whatever the laws are written, it is not properly implemented. We have repeatedly condemned the law that the law does not go on all.
-
-Therefore, the government should not forget that if the new law is implemented in that way or against freedom of expression, its consequences may not be predicted.
-
-◼️
-
-[Data](articles/6a610cf7.json)
-
-[Extended Data](ext_articles/6a610cf7.ext.json)
-
----
-
-### The Prime Minister of Thailand has departed
-
-*2024-02-04 14:58:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்லாந்து-பிரதமர்-புறப்பட்டார்/175-332629) · `ta`
-
-At the invitation of President Ranil Wickremesinghe, the 76th Independence Celebration. Thailand's Prime Minister Shreta Tavis returned to the country after completing a two -day official visit.
-
-During the official visit, the Prime Minister of Thailand engaged in official discussions with the President and visited the historic Sri Lanka -Thailand Free Trade Agreement.
-
-In addition, Thailand's Deputy Prime Minister and Trade Minister Bumtham Vechchai and Sri Lanka's Commercial, Business and Food Defense Minister Nalin Fernando signed the Independent Trade Agreement.
-
-It is noteworthy that the Sri Lanka -Thailand Free Trade Agreement is expected to increase trade and investment ties between the two countries and promote deep integration with ASEAN economies.
-
-The Sri Lanka -Thailand Free Trade Agreement is expected to increase trade and investment ties between the two countries and promote deep integration with ASEAN economies.
-
-...
-
-[Data](articles/81f11234.json)
-
-[Extended Data](ext_articles/81f11234.ext.json)
-
----
-
-### World leaders congratulate Sri Lanka on its 76th Independence Day
-
-*2024-02-04 14:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/World-leaders-congratulate-Sri-Lanka-on-its-76th-Independence-Day/108-276304) · `en`
-
-Colombo, Feb. 04 (Daily Mirror)- Several world leaders, including His Holiness Pope Francis, King Charles III of the UK, US President Joe Biden, Chinese President Xi Jinping and Indian President Droupadi Murmu congratulated Sri Lanka on its 76th Independence Day, the President’s Media Division (PMD) said.
-
-Emperor Naruhito of Japan, President Vladimir Putin of Russia, President Yun Suk Yeol of South Korea, President Tharman Shanmugaratnam of Singapore, President of Libya Dr. Mohamed Y. AL-Menfi, Governor General of Australia General David Hurley as well as the President of Pakistan, President of Bangladesh, Emir of the State of Kuwait were among other leaders who congratulated Sri Lanka.
-
-◼️
-
-[Data](articles/01f5267c.json)
-
-[Extended Data](ext_articles/01f5267c.ext.json)
 
 ---

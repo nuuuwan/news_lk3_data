@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 17:02:41**
+As of **2024-02-05 17:17:19**
 
 ## Newspaper Stats
 
-*Scraped **4,928** Articles*
+*Scraped **4,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 299
 adalk | 426
 virakesarilk | 565
-adaderanalk | 612
+adaderanalk | 613
 tamilmirrorlk | 627
 adaderanasinhalalk | 636
 dailymirrorlk | 688
@@ -26,11 +26,33 @@ dailymirrorlk | 688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,926 (100.0%) of 4,928 articles have been extended.
+4,929 (100.0%) of 4,929 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### Sanath Nishantha’s driver granted bail
+
+*2024-02-05 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97020/sanath-nishanthas-driver-granted-bail-) · `en`
+
+The driver of late State Minister Sanath Nishantha, who was arrested over the fatal accident that claimed two lives including the lawmaker, was granted bail on Monday (05 Feb.).
+
+Accordingly, the driver was released on a personal bail of Rs. 500,000 on the orders of the Welisara Magistrate’s Court.
+
+The suspect had been arrested on 26 January and remanded until 05 February, on orders of the Welisara Magistrate’s Court after the police recorded a statement from him with regard to the fatal crash.
+
+On 25 January, Sanath Nishantha’s vehicle had crashed against the roadside barrier on the Katunayake Expressway, after rear-ending a moving container truck at around 02:00 a.m., according to police.
+
+Following the fatal collision, three injured persons, including the State Minister, were rushed to the Colombo North Teaching Hospital in Ragama, but the lawmaker and his security guard, identified as a police constable attached to his security detail, had later succumbed to their injuries.
+
+◼️
+
+[Data](articles/ad0d500b.json)
+
+[Extended Data](ext_articles/ad0d500b.ext.json)
+
+---
 
 ### Mullaitivu female dies in Jaffna
 
@@ -764,21 +786,25 @@ Minister Douglas Devananda spoke to the President and the Minister of External A
 
 ---
 
-### අපුර රැඳවියෝ ලක්ෂ 140ක් බන්ධනාගාරයට උපයා දෙති
+### 140 lakh inweight earns to prison
 
 *2024-02-05 12:01:12* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-රැඳවියෝ-ලක්ෂ 140ක්-බන්ධනාගාරයට-උපයා-දෙති/11-407906) · `si`
 
-අනුරාධපුර බන්ධනාගාරයේ රැඳවියන් විසින් නිෂ්පාදනය කරනු ලබන ආහාර වලින් පසුගිය වර්ෂයේදී (2023) පමණක් රුපියල් ලක්ෂ එකසිය හතළිස් හයක පමණ මුදලක් බන්ධනාගාර දෙපාර්තමේන්තුව මගින්  උපයා ගෙන ඇති බව අනුරාධපුර බන්ධනාගාර අධිකාරී  මොහාන් කරුණාරත්න මහතා පැවසීය.
+The Department of Prisons Mohan Karunaratne has earned a sum of Rs.
 
-කිසිදු රසායනික පොහොරක් භාවිතා නොකර අහස් වැස්සෙන් පමණක් අනුරාධපුර බන්ධනාගාරයේ එළිමහන් සිර කඳවුර තුළ අක්කර පහක පමණ භූමි ප්‍රමාණයක වී වගාව සිදු කර ඇති අතර මේ වන විට එහි අස්වනු නෙළීම ආරම්භ කර තිබේ.
+During the rainfall, the harvesting of about five acres has been cultivated in the open area of the open-up of the Anuradhapura Prison without using any chemical fends.
 
-වාර්ෂිකව මෙම ආකාරයට කාබනික වී වගාව රැඳවියන්ගේ සහායෙන් සිදු කරනු ලබන අතර මීට අමතරව පලතුරු සහ එළවළු වර්ගද මෙම එළිමහන් සිර කඳවුර තුල වගා කෙරෙන බවත් මීට අමතරව  නිෂ්පාදනය කරනු ලබන බේකරි ආහාර වර්ග අලෙවි කිරීම ද ඇතුළුව පසුගිය වර්ෂයේදී පමණක්  රුපියල් ලක්ෂ 146ක ආදායමක් බන්ධනාගාර දෙපාර්තමේන්තු උපයා ඇති බව අනාවරණය විය.
+In addition, the organic paddy cultivation in the inmates of the inmates is also grown in the inmates of the prison.Revealed.
 
-අනුරාධපුර බන්ධනාගාරයේ රැඳවියන් විසින් සිදු කරනු ලබන කාබනික බෝග වගාවෙන් පමණක්  පසුගිය වර්ෂය තුළදී පමණක් රුපියල් ලක්ෂ 70කට වැඩි ආදායමක් ශ්‍රී ලංකා බන්ධනාගාර දෙපාර්තමේන්තුව විසින් උපයා ඇති බව බන්ධනාගාර අධිකාරීවරයා කීය.
+Prison superintendent, the Department of Prisons has earned more than Rs.
 
-...
+මෙම නිෂ්පාදන අනුරාධපුර  බන්ධනාගාරය තුල සිටින රැඳවියන් වෙනුවෙන් පරිභෝජනය කරනු ලබන අතර, අතිරික්ත  නිෂ්පාදන දිවයිනේ අනෙකුත් බන්ධනාගාර වල රඳවියන් හට  ලබා දීමත්, අනුරාධපුර බන්ධනාගාරය තුල ඇති අලෙවි කුටිය මගින්  පාරිභෝගික මහජනතාවට අලෙවි කිරීමත් සිදු කරන බව බන්ධනාගාර දෙපාර්තමේන්තුවේ කෘෂිකර්ම උපදේශක පී. S. Mr. Wijesiri said.
+
+◼️
 
 [Data](articles/a785f637.json)
+
+[Extended Data](ext_articles/a785f637.ext.json)
 
 ---
 
@@ -2055,19 +2081,5 @@ The public is kindly requested to take adequate precautions to minimize damages 
 [Data](articles/6d4d364e.json)
 
 [Extended Data](ext_articles/6d4d364e.ext.json)
-
----
-
-### Justice is boxing
-
-*2024-02-05 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192985) · `si`
-
-Police say that 667 suspects were arrested in the last 24 hours in the country under the operation of justice.
-
-◼️
-
-[Data](articles/71441172.json)
-
-[Extended Data](ext_articles/71441172.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 11:02:19**
+As of **2024-02-05 11:17:09**
 
 ## Newspaper Stats
 
-*Scraped **4,846** Articles*
+*Scraped **4,856** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,191 @@ dbsjeyarajcom | 137
 economynextcom | 257
 islandlk | 263
 dailyftlk | 280
-newsfirstlk | 291
+newsfirstlk | 292
 adalk | 419
-virakesarilk | 548
+virakesarilk | 552
 adaderanalk | 603
-tamilmirrorlk | 617
-adaderanasinhalalk | 621
-dailymirrorlk | 679
+tamilmirrorlk | 618
+adaderanasinhalalk | 623
+dailymirrorlk | 681
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,846 (100.0%) of 4,846 articles have been extended.
+4,846 (99.8%) of 4,856 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### Sri Lanka’s youth divers seek glory at BIMSTEC Water Sport Games in India
+
+*2024-02-05 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-youth-divers-seek-glory-at-BIMSTEC-Water-Sport-Games-in-India/108-276331) · `en`
+
+Colombo, Feb. 5 (Daily Mirror) - Sri Lanka’s nine-member youth men and women diving teams will depart for New Delhi on February 5 to take part in the BIMSTEC Youth Aquatic Meet in India. The event is scheduled to be held from February 6–9.
+
+The divers were selected through their achievements at the recently concluded Diving National Championship 2023. The nine divers will participate in six individual events in both men and women categories and compete against peers from India, Nepal, Bangladesh, Myanmar, Thailand, and Bhutan.
+
+The boys’ team consists of 5 members, notably all hail from Royal College: Matheesha Marambe (Captain), Mikhail Jayaweera, Yusuf Shihar, Ruel Wickramarathne, and Venuka Kankanamge.
+
+The girls’ team includes four talented female divers: Kithmi Marambe (Captain) and Shania Silva from Bishop’s College, Vinudi Kankanamge from Visakha Vidyalaya, and Kisara Ranawaka from St. Bridget’s Convent.
+
+...
+
+[Data](articles/cd039368.json)
+
+---
+
+### පුත්තලමේ බිහිසුණු ත්‍රිවිල් අනතුරක්
+
+*2024-02-05 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192993) · `si`
+
+කල්පිටිය පොලිස් වසමේ කල්පිටිය පාලවිය මාර්ගයේ කුරිඤ්ඤම්පිටියේ කතොලික දේවස්ථානය ඉදිරිපිට මාරක රිය අනතුරක් සිදුව තිබේ.
+
+ත්‍රීරෝද රථයක් කල්පිටියේ සිට පාලවිය දෙසට ධාවනය කර අතුරු මාර්ගයකට හැරවීමේ දී එම මාර්ගයේ ඉදිරියෙන් පැමිණි තවත් ත්‍රීරෝද රථයක අනතුර සිදුව තිබේ.
+
+අනතුර සිදුවන අවස්ථාවේ රියදුරන් ඇතුළුව ත්‍රීරෝද රථ දෙකෙහි පුද්ගලයින් 8 දෙනෙකු ගමන් කර ඇත.
+
+අනතුරින් එක් අයෙක් ජීවිතක්ෂයට පත්වු අතර තුවාලකරුවන් කල්පිටිය රෝහලට ඇතුළත් කර වැඩිදුර ප්‍රතිකාර සඳහා පුත්තලම රෝහල වෙත මාරුකර යවා ඇත.
+
+◼️
+
+[Data](articles/fa1d20a1.json)
+
+---
+
+### விபத்தில், தாய் மரணம்;  தந்தை, மகள் படுகாயம்
+
+*2024-02-05 10:46:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-தாய்-மரணம்-தந்தை-மகள்-படுகாயம்/175-332687) · `ta`
+
+ஒரே குடும்பத்தைச் சேர்ந்த தாய், தந்தை மற்றும் மூன்று வயது மகள் ஆகியோர் பயணித்த முச்சக்கரவண்டி, பஸ்ஸுடன் மோதி விபத்துக்குள்ளானதாக ஹொரண பொலிஸார் தெரிவித்தனர்.
+
+பண்டாரகம, ரைகம பகுதியைச் சேர்ந்த ஒரு பிள்ளையின் தாயான ஆர்.ஏ.தனுஜா பிரியதர்ஷனி (வயது 40) என்பவரே விபத்தில் உயிரிழந்துள்ளார்.
+
+ஹொரண நகருக்கு வந்து வீடு திரும்பிக் கொண்டிருந்த போதே இவ்விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/7f774600.json)
+
+---
+
+### யாழில் இரவலாக தாலிக்கொடியை பெற்று மோசடி ; யுவதி கைது
+
+*2024-02-05 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175585) · `ta`
+
+யாழ்ப்பாணத்தில் வாய் பேச முடியாத பெண்ணிடம் 21 பவுண் தாலிக்கொடியை இரவலாக வாங்கி மோசடி செய்த குற்றச்சாட்டில் யுவதி ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+யாழ்ப்பாணம் - சுன்னாகம் பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் வசிக்கும் வாய் பேச முடியாத பெண்ணொருவரிடம், அயலவரான யுவதி ஒருவர் கொண்டாட்டங்களுக்கு செல்லும் போது, தாலிக்கொடியை இரவலாக பெற்று அணிந்து சென்ற பின்னர் அதனை மீள அப்பெண்ணிடம் கையளிப்பதனை வழமையாக கொண்டு இருந்துள்ளார்.
+
+இந்நிலையில் அண்மையில் வழமை போன்று, தாலிக்கொடியை இரவலாக வாங்கி சென்ற யுவதி, தாலிக்கொடியை திருப்பி கொடுத்த போது, கொடியின் அமைப்பில் வித்தியாசத்தை உணர்ந்த தாலிக்கொடியை இரவல் கொடுத்த பெண், அதனை நகைக்கடை ஒன்றில் சோதித்த போது, அது போலியானது (கவரிங்) என தெரியவந்துள்ளது.
+
+அதனையடுத்து குறித்த பெண் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்ததை அடுத்து, அயலவரான யுவதியை பொலிஸார் கைது செய்து விசாரணைகளை முன்னெடுத்த போது, சுன்னாகம் பகுதியில் உள்ள நகைக்கடை ஒன்றில் இரவலாக பெற்ற தாலிக்கொடியை விற்று விட்டு, அதே போன்று போலி தாலிக்கொடியை (கவரிங்) செய்து, அதனை அப்பெண்ணிடம் கொடுத்தமை தெரிய வந்துள்ளது.
+
+...
+
+[Data](articles/05c6308c.json)
+
+---
+
+### Sri Lanka raises fine for supplying substandard drugs
+
+*2024-02-05 10:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-raises-fine-for-supplying-substandard-drugs/108-276328) · `en`
+
+Colombo, Feb 05 (Daily Mirror) - In the wake of former Health Minister and top officials being found to have been embroiled in the import of substandard Immunoglobulin injections, authorities have decided to increase the penalty for the act of supplying or selling substandard medicines, sources said.
+
+Accordingly, the fine has been increased substantially from Rs.100 to Rs.100,000 for individuals found guilty of this offence.
+
+Previously, the fine for offences related to compromising the quality of a specific medicine and deliberately dispensing it from a dispensary was set at a meager Rs. 100.
+
+This adjustment comes as a response to the need for stricter measures to ensure the quality and safety of pharmaceuticals in the country.
+
+The proposal to enhance the fine was put forward by Dr. Wijayadasa Rajapaksha, the Minister of Justice, Prison Affairs and Constitutional Reforms.
+
+◼️
+
+[Data](articles/b234fab6.json)
+
+---
+
+### Another 667 suspects arrested during Operation ‘Yukthiya’
+
+*2024-02-05 10:30:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/another-667-suspects-arrested-during-operation-yukthiya/) · `en`
+
+COLOMBO (News 1st); Another 667 suspects have been arrested during Operation 'Yukthiya' over the past 24 hours.
+
+The Ministry of Public Security said 108 suspects who were on the list sent to the crimes division were also among the arrested group.
+
+Police seized 191 grams of heroin, 103 grams of ICE and 2kg and 300g of cannabis from the suspects' possession.
+
+Three suspects arrested on drug-related charges were directed to rehabilitation centers.
+
+Cardinal calls for a transition to new leadership in Sri Lanka
+
+◼️
+
+[Data](articles/4eac9363.json)
+
+---
+
+### இலங்கை புதிய தலைமைத்துவத்திற்கு மாறவேண்டும் - கர்தினால் மல்கம் ரஞ்சித்
+
+*2024-02-05 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175583) · `ta`
+
+சுதந்திரத்தின் பின்னர் சிங்கப்பூரும் இலங்கையும் பின்பற்றிய அணுகுமுறைகளில் உள்ள வித்தியாசங்களை சுட்டிக்காட்டியுள்ள அவர் சிங்கப்பூர் ஐக்கியத்திற்கும் தனது மக்களின் நலனிற்கும் முக்கியத்துவம் கொடுத்தது என தெரிவித்துள்ளதுடன் இலங்கையின் தலைமைத்துவம் மதமொழி அடிப்படையில் சமூகங்களை பிரித்ததை கடுமையாக கண்டித்துள்ளார்.
+
+சிங்கப்பூரின் வலுவான சட்டஅமைப்பினை பாராட்டியுள்ள அவர்  அது ஒழுக்கத்திற்கு முக்கியத்துவம் அளிக்கின்றது எனவும் குறிப்பிட்டுள்ளார்.
+
+இலங்கை அரசாங்கம் சுயநலம் மிக்க நிகழ்ச்சிநிரலை முன்னெடுக்கின்றது தேசத்தின் நலனை விட  தனிப்பட்ட நலனிற்கு முன்னுரிமையளிக்கின்றது எனவும் தெரிவித்துள்ள கர்தினால் அரசியல் பொருளாதார நெருக்கடிகள் காணப்படும் சூழ்நிலையில் சுதந்திரதின கொண்டாட்டங்களின் நியாயத்தன்மை குறித்து கேள்வி எழுப்பியுள்ள அவர் அரசாங்கம் தனது சுதந்திரத்தை கொண்டாடுகின்றது எனவும் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/b1e2df30.json)
+
+---
+
+### චීනයේ දී අත්අඩංගුවට ගත් ඔස්ට්‍රේලියානු ආචාර්යවරයාට මරණ දඬුවම
+
+*2024-02-05 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192992) · `si`
+
+චීනයේ සංචාරයක් අතරතුරදී අත්අඩංගුවට ගැනුණු ඔස්ට්‍රේලියානු ජාතිකයෙකුට චීන අධිකරණයක් විසින් අත්හිටවූ මරණ දණ්ඩනය නියම කර තිබේ.
+
+ඔත්තු බැලූ බවට චෝදනා කරමින් චීන බලධාරීන් විසින් ආචාර්ය යැන්ග් හෙන්ග්ජුන් මීට වසර 5කට පෙර අත්අඩංගුවට ගත් අතර ඔහු එම චෝදනා ප්‍රතික්ෂේප කළේය.
+
+ග්‍රන්ථ කර්තෘවරයෙක්, ආචාර්යවරයෙක් මෙන්ම චීන කටයුතු සම්බන්ධ ප්‍රවීණයෙක් වන හෙන්ග්ජුන් ට ලබාදී ඇති දඬුවම වසර දෙකකට පසුව ජීවිතාන්තය දක්වා වූ සිරදඬුවමක් බවට සංශෝධනය කෙරෙතැයි අනුමාන කෙරේ.
+
+ඔහු ට එරෙහිව එල්ලකර ඇති චෝදනා පත්‍රය මෙතෙක් ප්‍රසිද්ධ කර නොමැත.
+
+චීන අධිකරණ තීන්දුව පිළිකුලෙන් බැහැර කරන බව ඔස්ට්‍රේලියානු රජය පැවසීය.
+
+◼️
+
+[Data](articles/cc84e5f7.json)
+
+---
+
+### கற்பிட்டியில் முச்சக்கரவண்டி விபத்து ; ஒருவர் பலி ; 7 பேர் காயம்
+
+*2024-02-05 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175580) · `ta`
+
+புத்தளம் - கற்பிட்டி பிரதான வீதியின் குறிஞ்சிப்பிட்டிப் பகுதியில் நேற்று ஞாயிற்றுக்கிழமை (04)  இடம்பெற்ற வாகன விபத்தில் ஒருவர் ஸ்தலத்திலேயே உயிரிழந்துள்ளதுடன் ஏழு பேர் காயங்களுக்கு உள்ளாகியுள்ளனர்.
+
+புத்தளத்தில் இடம்பெற்ற சுதந்திர தின நிகழ்வை பார்வையிடச் சென்றுவிட்டு முச்சக்கர வண்டியில் திரும்பிச் செல்லும் போது கற்பிட்டி பகுதியிலிருந்து வந்த முச்சக்கர வண்டியுடன் மோதி இந்த விபத்து இடம்பெற்றுள்ளது.
+
+இதன்போது கற்பிட்டியிலிருந்து முச்சக்கர வண்டியில் பின்புறத்தில் அமர்ந்திருந்த ஐந்து பேரில் ஒருவர்  ஸ்தலத்திலேயே உயிரிழந்துள்ளார்.
+
+இதன்போது இரண்டு முச்சக்கர வண்டிகளிலும் பயணித்த ஏழு பேர் படுகாயங்களுக்கு உள்ளாகிய நிலையில், கற்பிட்டி ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டதுடன் ஆறு பேர் மேலதிக சிகிச்சைகளுக்காக புத்தளம் ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+விபத்தில் உயிரிழந்தவரின் சடலம் புத்தளம் ஆதார வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+குறித்த விபத்தில் உயிரிழந்தவர் 67 வயதுடைய கற்பிட்டி மண்டலக்குடாப் பகுதியைச் சேர்ந்தவரென பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/ad165853.json)
+
+---
 
 ### There is no one-handed guy who didn't have a unborn job for constable
 
@@ -53,6 +221,22 @@ The Apprentice Constable of the incident has been instructed by the Acting Inspe
 [Data](articles/8b7fe13a.json)
 
 [Extended Data](ext_articles/8b7fe13a.ext.json)
+
+---
+
+### எம்பிலிப்பிட்டியவில் இடிந்து வீழ்ந்த பாலம் : போக்குவரத்து தடை
+
+*2024-02-05 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175578) · `ta`
+
+எம்பிலிப்பிட்டிய நகரிலிருந்து தோரகொலயாய ஊடாக மித்தெனிய செல்லும் பிரதான வீதியில் ஹுலந்த ஓயா பாலம் இடிந்து வீழ்ந்ததில் குறித்த வீதியூடான போக்குவரத்துக்கு தடைப்பட்டுள்ளது.
+
+இன்று திங்கட்கிழமை (05) காலை மரக்கட்டைகளை ஏற்றிய லொறி ஒன்று பாலத்தை கடக்கும் போதே குறித்த பாலம் இவ்வாறு இடிந்து விழுந்துள்ளது.
+
+பாலம் இடிந்து வீழ்ந்தமையினால் எம்பிலிப்பிட்டியவில் இருந்து மாத்தறை, பெலியத்த, தங்காலை நோக்கிய போக்குவரத்திற்கு தடை ஏற்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/dfe28999.json)
 
 ---
 
@@ -244,8 +428,6 @@ Clashes were reported among inmates of the Kandakadu Rehabilitation Center based
 
 Cardinal calls for a transition to new leadership in Sri Lanka
 
-Navy Seizes Two Poaching Trawlers & 23 Indian Nationals in Sri Lankan Waters
-
 ◼️
 
 [Data](articles/005c95ad.json)
@@ -302,8 +484,6 @@ The group is due to hold an official meeting with Indian government officials on
 
 Cardinal calls for a transition to new leadership in Sri Lanka
 
-Navy Seizes Two Poaching Trawlers & 23 Indian Nationals in Sri Lankan Waters
-
 ◼️
 
 [Data](articles/9d4f3eaf.json)
@@ -323,8 +503,6 @@ The Ministry of Education said the second phase of the third term will end on th
 The first school term of 2024 is scheduled to commence on the 19th of February.
 
 Cardinal calls for a transition to new leadership in Sri Lanka
-
-Navy Seizes Two Poaching Trawlers & 23 Indian Nationals in Sri Lankan Waters
 
 ◼️
 
@@ -1751,203 +1929,5 @@ It states that he is currently under the medical supervision.
 [Data](articles/cfef6ce2.json)
 
 [Extended Data](ext_articles/cfef6ce2.ext.json)
-
----
-
-### Seven injured following collision on Tissamaharama–Matara road
-
-*2024-02-04 17:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96999/seven-injured-following-collision-on-tissamaharamamatara-road-) · `en`
-
-Seven persons have been hospitalised after sustaining injuries in a vehicular collision along the Tissamaharama – Matara main road this afternoon (04 Feb.).
-
-A van and a car had collided earlier today, after the van had reportedly attempted to overtake a bus n the Tissamaharama – Matara main road.
-
-According to police, five persons travelling in the car and two others who were travelling in the van had been admitted to the Tangalle, Angunakolapelessa and Hamabntota hospitals after sustaining injuries.
-
-The injured persons have been identified as residents of Hunagama and Tangalle, while further investigations into the accident were carried out by the Hunagama Police.
-
-◼️
-
-[Data](articles/3394314e.json)
-
-[Extended Data](ext_articles/3394314e.ext.json)
-
----
-
-### When I went to save university students, the attack was also attacked - women were dragged without police - Sreedharan
-
-*2024-02-04 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175555) · `ta`
-
-Parliamentarian Sreedharan said that a policeman had attacked me when I rescued the university students.
-
-Today, the police have brought the anarchy of the Sri Lankan government to the eyes of the international community, ”he said.
-
-He also noted that the police were very brutally acting on university students and the public.
-
-He said that the women were dragged without the female police and were thrown into the sky.
-
-◼️
-
-[Data](articles/6c55943e.json)
-
-[Extended Data](ext_articles/6c55943e.ext.json)
-
----
-
-### 76th National Independence Day Celebration: Prime Minister of ThailandGreeting the world leaders
-
-*2024-02-04 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/175532) · `ta`
-
-The 76th National Independence Day Celebration was held on Sunday morning at the Galle Face of Colombo under the theme 'New Nation Share "under the leadership of President Ranil Wickremesinghe.
-
-The purpose of the event was to highlight the identity of Sri Lanka, which will be rebuilt with the support of all the world's Prime Minister Shreta Tavis.
-
-After the Sri Lankan military played the musicians to mark the president's arrival, the President was brought near the flag pole of the ceremony by the chief of the security forces, the commanders of the security forces and the police chief.
-
-Following this, the ceremony began following the president's flag hoisting by the president amidst the traditional Magul music and chuckle.
-
-105 school students sang the national anthem after the president was taken to the special stage. Following this, the school students played the Jayamangala anthem and Katha.
-
-...
-
-[Data](articles/067d95f5.json)
-
-[Extended Data](ext_articles/067d95f5.ext.json)
-
----
-
-### An earthquake of India
-
-*2024-02-04 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192970) · `si`
-
-The earthquake has caused a 3.8 units of the Richter's thumb, foreign media reports say.
-
-However, there have been no lives or property damage.
-
-◼️
-
-[Data](articles/687ffcd8.json)
-
-[Extended Data](ext_articles/687ffcd8.ext.json)
-
----
-
-### Those who make bread is worried tomorrow
-
-*2024-02-04 17:36:11* · [`adalk`](https://www.ada.lk/breaking_news/පාන්-ගෙඩියට-හොර-කරන-අයට-හෙට-සිට-වැඩ-වරදියි/11-407893) · `si`
-
-Trade consumers and Food Samaradem Nalin Fernando says that the necessary legal action will be taken from the lack of burden on a bread and the non-exhibition shops.. Nalin Fernando said that a media briefing at the office of Daddugama.
-
-The Minister of Trade and Protection and the Minister said that the gazette required to implement the bill was issued to the implementation of the bill after being solved 60-70 years old.
-
-Accordingly, 450 grams of bread must be 450g of bread to be 225g of weight. Similarly, the price of bread is also compulsory. Minister of Customer and Protecting Minister said that the customer and other officials were not concerned with the applicable bread and other names to be used by the bread.
-
-The Minister said that the necessary legal action will be taken to ensure the weight and expenditure of the bread.
-
-◼️
-
-[Data](articles/ffef0610.json)
-
-[Extended Data](ext_articles/ffef0610.ext.json)
-
----
-
-### Democratic path
-
-*2024-02-04 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175518) · `ta`
-
-There is no doubt that the two great ideological sides are interested in ensuring that the strength of the Tamil people is going to be a Western force with a democratic strength, or that the Maldives is going to be a democratic face -like autocratic ideology.. It is very important that political leadership take advantage of this position in favor of the concept of their homeland theory.
-
-It is inevitable that every political party in the world has different ideas and positions. It is not forgotten that the best characteristic of a political party is to solve all of them independently.
-
-At the same time, other political parties and organizations are working through their general conferences through internal election democracy and their democratic values transparency.. Also, thinkers, civil organizations, journalists and writers are felt that they should continue to act as the guards of national sovereignty.
-
-◼️
-
-[Data](articles/40456735.json)
-
-[Extended Data](ext_articles/40456735.ext.json)
-
----
-
-### International Court and Gaza genocide!
-
-*2024-02-04 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/175513) · `ta`
-
-The verdict does not deal with South Africa's main allegation of Israeli genocide in Palestine. On the contrary, the actions demanded by South Africa are aimed at protecting the rights of the Palestinian people under the genocide.
-
-Temporary measures demanded by South Africa are demands to be put before the final judgment of the main case, and it may take years to the final judgment.
-
-It is true that the rulings of the International Court of Justice are controlled by all sides, but there is no way to implement them.
-
-◼️
-
-[Data](articles/2dcec39f.json)
-
-[Extended Data](ext_articles/2dcec39f.ext.json)
-
----
-
-### Anurakumara and calling
-
-*2024-02-04 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175549) · `ta`
-
-Anuragumara Dissanayake has used India to express its pro -Indian status by welcoming the country through national unity.
-
-It is noteworthy, however, that his party is providing China's relief packages in the North.
-
-Creating conflict on the island of Sri Lanka may be rulers. The JVP was also the cause of those conflicts.
-
-Especially in 2006, the role of the JVP in pushing the country into war was not underestimated by anyone.
-
-It is only through those who have felt the mistakes of the past, and those who accept those mistakes and provide remedy justice can be embraced by the Tamil people.
-
-◼️
-
-[Data](articles/00d71762.json)
-
-[Extended Data](ext_articles/00d71762.ext.json)
-
----
-
-### Yemen’s Houthis vow response after U.S., British strikes
-
-*2024-02-04 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96998/yemens-houthis-vow-response-after-us-british-strikes) · `en`
-
-The United States and Britain launched strikes against 36 Houthi targets in Yemen, in the second day of major U.S. operations against Iran-linked groups following a deadly attack on American troops last weekend.
-
-The strikes late on Saturday hit buried weapons storage facilities, missile systems, launchers and other capabilities the Houthis have used to attack Red Sea shipping, the Pentagon said, adding it targeted 13 locations across the country.
-
-They are the latest blows in a conflict that has spread into the Middle East since Oct. 7, when the Palestinian militant group Hamas stormed Israel from the Gaza Strip, igniting a war that has drawn in an array of armed groups backed by Tehran.
-
-Residents said the strikes shook buildings in Houthi-controlled Sanaa. The group’s military spokesperson Yahya Sarea said the U.S. strikes “will not pass without a response and consequences.” The group did not announce any casualties. Houthi-run media called these “the most violent” strikes yet.
-
-...
-
-[Data](articles/fcd0f69e.json)
-
-[Extended Data](ext_articles/fcd0f69e.ext.json)
-
----
-
-### Manusha says Ranil Wickremesinghe is like King Kashyapa
-
-*2024-02-04 17:28:34* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-වික්‍රමසිංහ-එදා-කාශ්‍යප-රජු-වගේ-යැයි-මනූෂ-කියයි/11-407892) · `si`
-
-Labor and Foreign Employment Minister Manusha Nanayakkara said that it is not a national sense of independence.
-
-"At 8/89, I was good to celebrate the Il Maha Nayaka, but it was wrong to celebrate the freedom," Addressing the UNP, Minister Manusha Nanayakkara said.
-
-The Minister recalled that a king like a king of the country to the country, he pointed out that President Ranil Wickremesinghe was a technology capable of developing as King Kashyapa.
-
-"It's the one who makes us beautifully that is pleasing to us. It should also be nice to say not to say no to see don't see. Imagine if I am not in order here, do you look at me?That means it is very important to be pleasant, including an outward appearance.
-
-When we change, we need to change our outward appearance. Only you can change that. The government cannot do that. I want to start.To change, you need to change before everyone else.
-
-...
-
-[Data](articles/030dc4d3.json)
-
-[Extended Data](ext_articles/030dc4d3.ext.json)
 
 ---

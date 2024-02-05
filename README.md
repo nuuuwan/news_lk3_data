@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 09:02:37**
+As of **2024-02-05 09:17:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 677
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,817 (99.9%) of 4,820 articles have been extended.
+4,820 (100.0%) of 4,820 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -88,6 +88,8 @@ A group of assailants in an SUV had opened fire at a white Defender, killing fou
 
 [Data](articles/206a19eb.json)
 
+[Extended Data](ext_articles/206a19eb.ext.json)
+
 ---
 
 ### Hot the Kandakadu again
@@ -143,6 +145,8 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 ◼️
 
 [Data](articles/9937c8a2.json)
+
+[Extended Data](ext_articles/9937c8a2.ext.json)
 
 ---
 
@@ -891,6 +895,8 @@ Parliamentarian Vijitha Herath,  NPP Secretary Dr. Nihal Abeysinghe and Nationa
 ◼️
 
 [Data](articles/525bc2ba.json)
+
+[Extended Data](ext_articles/525bc2ba.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 14:32:53**
+As of **2024-02-05 14:50:05**
 
 ## Newspaper Stats
 
-*Scraped **4,902** Articles*
+*Scraped **4,903** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,56 @@ adalk | 422
 virakesarilk | 560
 adaderanalk | 609
 tamilmirrorlk | 625
-adaderanasinhalalk | 630
+adaderanasinhalalk | 631
 dailymirrorlk | 688
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,899 (99.9%) of 4,902 articles have been extended.
+4,903 (100.0%) of 4,903 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
 
-### ඉන්දියාවට ගිය අනුර විශේෂ හමුවක
+### Sri Lanka a target of 56 runs
+
+*2024-02-05 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193001) · `si`
+
+The Afghan group scored 296 runs in their second innings in the Test match against Sri Lanka.
+
+Accordingly, Sri Lanka has scored 56 runs for the winning match.
+
+Sri Lanka Supermarket Prabath Jayasuriya was able to stay in a strong place when yesterday completing yesterday.
+
+Asapitha Fernando took 3 wickets and Kasun had two wickets.
+
+Ibraim scored 114 runs with 12 fours.
+
+Sri Lanka scored 439 runs for their first innings and Afghanistan scored 198 runs for the first innings.
+
+◼️
+
+[Data](articles/501b278e.json)
+
+[Extended Data](ext_articles/501b278e.ext.json)
+
+---
+
+### Anura Special Meeting visited India
 
 *2024-02-05 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193000) · `si`
 
-ඉන්දියාවේ සංචාරයක නිරතවන ජාතික ජන බලවේගයේ නායක, අනුර කුමාර දිසානායක මහතා අද (05) ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජයිශංකර් සමග සාකච්ඡා පවත්වා තිබේ.
+Anura Kumara Dissanayake, leader of the national propagation of India, is today (05), Indian External Affairs Minister Dr. S.. Discussions have been held with Jeyasankar.
 
-ජයිශංකර් මහතා සිය X ගිණුමෙහි සටහනක් තබමින් පවසන්නේ, ද්විපාර්ශික සම්බන්ධතා සම්බන්ධයෙන් මෙන්ම ශ්‍රී ලංකාවේ ආර්ථික අභියෝග සම්බන්ධයෙන් අදහස් හුවමාරු කරගත් බවය.
+Mr. Jeyzankar lays note in his X account, and exchanged views on bilateral relations and economic challenges in Sri Lanka.
 
 ◼️
 
 [Data](articles/c37ebea1.json)
+
+[Extended Data](ext_articles/c37ebea1.ext.json)
 
 ---
 
@@ -102,21 +128,27 @@ Meanwhile, the three other students who were also reportedly injured during the 
 
 ---
 
-### ලෙල්ලම ගැන අධිකරණ නියෝගයක්
+### Court order on the dating
 
 *2024-02-05 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192999) · `si`
 
-ලෙල්ලම යනුවෙන් ජනප්‍රිය වී ඇති මීගමුව ධීවර වෙළෙඳ මධ්‍යස්ථානයේ දේපොළ පරිපාලනය සහ කළමනාකරණය පිටිපන එක්සත් ධීවර සමිතියෙන් ඉවත් කර භාරකරුවෙකු වෙත පත්කරන ලෙස මීගමුව දිසා අධිකරණය නීයෝග කර තිබේ.
+The Negombo District Court has been removed and managed management of property administration and management of the Pithawa Fisheries Society of Negombo.
 
-මීගමුව දිසා විනිසුරු ලලිත් කන්නංගර මහතා විසින් මෙම නියෝගය නිකුත් කර ඇත්තේ පිටිපන එක්සත් ධීවර සමිතියේ නිලධාරි මණ්ඩලයට එරෙහිව අගරදගුරු හිමිපාණන් ගොනුකර ඇති පැමිණිල්ලකට අදාළ නඩුව පසුගියදා කැඳවු අවස්ථාවේදිය.
+Negombo District Judge Lalith Kannnara has been released when the Archbishop was taken up for a complaint filed against the Pitrantana United Fisheries Society.
 
-කොළඹ අගරදගුරු හිමිපාණන්ට අයත් දේපොළක් තෑගි ඔප්පුවක් මඟින් " ලෙල්ලම" ධීවර වෙළෙඳ මධ්‍යස්ථානය සඳහා පිටිපන එක්සත් ධීවර සමිතිය වෙත පවරා දී ඇත්තේ 1963 වර්ෂයේදීය.
+A property of the Archbishop of Colombo has been handed over to the United Fisheries Society in 1963.
 
-අදාළ පවරාදීමේදී එම දේපොළවලින් උපයන ආදායමෙන් කොටසක් පිටිපන දේවස්ථානය වෙත භාරදිය යුතු බවට කොන්දේසියක් පනවා ඇත්තේ පිටිපන මීසමේ ජීවත්වන අඩු ආදායම්ලාභි ජනතාවගේ සුබසිද්ධිය වෙනුවෙන් වැයකිරීම වෙනුවෙනි.
+The transfer is to be handed over to the Pitipana Below, a part of the property to be submitted to the Pitipana Yewana, a part of the property in the transfer.
+
+However, the Archbishop was able to cancel the gift deed without the pre-permission of the property and other than the pre-permission of the Tharmakuru.
+
+The Archbishop of Colombo was filed before the Negombo District Court about the reconstruction of the gift deed.
 
 ...
 
 [Data](articles/ee4b1bec.json)
+
+[Extended Data](ext_articles/ee4b1bec.ext.json)
 
 ---
 
@@ -140,15 +172,17 @@ The Buddhist monk had sustained critical injuries in the incident and was subseq
 
 ---
 
-### ජාත්‍යන්තර පාසලක ගසක් කඩා වැටී දරුවෙක් මරුට
+### Child dies after a tree collapses in an international school
 
 *2024-02-05 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192998) · `si`
 
-ගම්පොළ ප්‍රදේශයේ ජාත්‍යන්තර පාසලක ගසක් කඩා වැටීමෙන් දරුවෙක් ජීවිතක්ෂයට පත්ව ඇතැයි වාර්තා වේ.
+A child has died after a tree in the International School in Gampola.
 
 ◼️
 
 [Data](articles/a42a23ff.json)
+
+[Extended Data](ext_articles/a42a23ff.ext.json)
 
 ---
 
@@ -1991,29 +2025,5 @@ However, former Minister, led by the premises, held the protest and entered the 
 [Data](articles/834b42a1.json)
 
 [Extended Data](ext_articles/834b42a1.ext.json)
-
----
-
-### Kandakada clash injured 10 inmates injured
-
-*2024-02-04 23:15:13* · [`adalk`](https://www.ada.lk/breaking_news/කන්දකාඩුවේ-ගැටුමක්-රැඳවියන්-10කා-හමුදා-සෙබලෙක්-තුවාල-ලබයි/11-407894) · `si`
-
-In the Kandakadu Rehabilitation Center at the Kandakadu Rehabilitation Center was injured in a clash between two groups of detainees and a soldier was injured in the Welikanda Hospital.
-
-The conflict has been disclosed on the kitchen and several other locations at the Kandakadu Rehabilitation Center.
-
-The police have seized a stock of balas and another drugs that have been used to damage the Kandakadu Rehabilitation Center, which is used to harm property loss and clubs.
-
-Twenty-five inmates fleeing a bus in the Soparuwalaya of Somavaya and two other mobile phones and two mobile phones were arrested by the policeWelikanda OIC Inspector Samantha Ratnayake said.
-
-The suspects are to be produced before the Polonnaruwa Magistrate's Court on the 5th day.
-
-The Army as well as the police, as well as the police, has already control the situation at the Kandakadu Rehabilitation Center.
-
-...
-
-[Data](articles/4f300e3e.json)
-
-[Extended Data](ext_articles/4f300e3e.ext.json)
 
 ---

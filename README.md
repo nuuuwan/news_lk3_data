@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 07:16:45**
+As of **2024-02-05 07:42:19**
 
 ## Newspaper Stats
 
-*Scraped **4,808** Articles*
+*Scraped **4,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,74 @@ adalk | 414
 virakesarilk | 546
 adaderanalk | 600
 tamilmirrorlk | 607
-adaderanasinhalalk | 611
+adaderanasinhalalk | 613
 dailymirrorlk | 676
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,807 (100.0%) of 4,808 articles have been extended.
+4,808 (100.0%) of 4,810 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
 
-### ප්‍රදේශ කිහිපයකට වැසි වාර කිහිපයක්
+### අනුර කුමාර දිල්ලි යයි
+
+*2024-02-05 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192983) · `si`
+
+ජාතික ජන බලවේගය පක්ෂයේ නායක අනුර කුමාර දිසානායක මහතා ඇතුළු සිව්දෙනෙකු ඉන්දීය සංචාරයක් සඳහා පිටත්ව ගොස් තිබේ.
+
+පාර්ලිමේන්තු මන්ත්‍රී විජිත හේරත් මහතා සහ තවත් දෙදෙනෙකු ද අද (05) අලුයම නවදිල්ලි නුවර බලා පිටත් වු බව "අද දෙරණ" වාර්තාකරු පැවසුවේය.
+
+ජාතික ජන බලවේගය පක්ෂය මුලික වශයෙන් ජනතා විමුක්ති පෙරමුණ මත ගොඩ නැගී ඇති අතර එම පක්ෂය මීට පෙර ඉන්දීය විරෝධී ප්‍රතිපත්තියක් අනුගමනය කර තිබුණි.
+
+ඉන්දු - ලංකා සාම ගිවිසුම අවස්ථාවේ ජනතා විමුක්ති පෙරමුණ ඊට එරෙහිව ප්‍රසිද්ධියේ කටයුතු කළ අතර ඉන්දීය ව්‍යාප්තවාදයට එරෙහි මතවාදයක් ඔවුන් විසින් මෙහෙයවන ලැබීය.
+
+ඉන්දියාවේ මැදිහත්වීමෙන් ආණ්ඩුක්‍රම ව්‍යවස්ථාවට එක්වුණු 13 ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය මඟින් මෙරටට පළාත් සභා ක්‍රමය හඳුන්වා දීමට ද ජනතා විමුක්ති පෙරමුණ විරෝධය පළ කර තිබුණි.
+
+සිය පක්ෂයට සාමාජිකයින් බඳවා ගැනීමේ දී සිදුකරන පන්ති පහ පැවැත්වීමේ දී ද ඉන්දීය ව්‍යාප්තවාදය සම්බන්ධයෙන් ඉගැන්වීමක් සිදුකළ බව වාර්තා වේ.
+
+...
+
+[Data](articles/bdcc40bb.json)
+
+---
+
+### බෙලිඅත්තේ පංච පුද්ගල ඝාතනයට තවත් සැකකරුවෙක් කොටුවෙයි
+
+*2024-02-05 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192982) · `si`
+
+බෙලිඅත්තේ දී පුද්ගලයින් 5 දෙනෙකු වෙඩිතබා ඝාතනය කිරීමේ සිදුවීමට තවත් සැකකරුවෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේ, ඊයේ (04) අදාළ සැකකරුව මිනී මැරීමට ආධාර අනුබල දීමේ චෝදනාව මත මාතර කොට්ඨාස ළමා හා කාන්තා කාර්යාංශයේ නිලධාරීන් විස්න් හබරාදූවේ දී අත්අඩංගුවට ගෙන ඇති බවය.
+
+එලෙස අත්අඩංගුවට පත්ව ඇත්තේ අවුරුදු 28ක් වූ කටුදම්පේ, රත්ගම ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+◼️
+
+[Data](articles/32ef9450.json)
+
+---
+
+### Several times for several areas
 
 *2024-02-05 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192981) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව සහ මාතලේ දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Several spells of showers in the Polonnaruwa and Matale Districts, the Eastern and Uva provinces.
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව. 2න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+From the Western, Sabaragamuwa and North Western provinces, in Kandy, Nuwara Eliya, Galle and Matara districts. Showers or thundershowers will occur at several times after 2.
 
-මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+In some places in the Central and Sabaragamuwa Province, some locations are expected in the morning in some places in the Galle and Matara districts.
 
-ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/1beabbd8.json)
+
+[Extended Data](ext_articles/1beabbd8.ext.json)
 
 ---
 
@@ -1861,45 +1901,5 @@ A total of 754 prisoners, including 25 female inmates, were released from prison
 [Data](articles/ac58325c.json)
 
 [Extended Data](ext_articles/ac58325c.ext.json)
-
----
-
-### Promotions to 1,450 Army officers
-
-*2024-02-04 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192962) · `si`
-
-The 76th Independence Day anniversary has been given promotions to a group of Rs.
-
-Army Commander Lieutenant General Vikule and the Ministry of Defense has been given the promotions on the approval of President Ranil Wickremesinghe.
-
-Accordingly, the Sri Lanka Army has given 211 permanent and voluntary bodies.
-
-Two senior officials of Brigadier officials have been promoted to the rank of Brigadier and 13 senior officials of the rank of Brigadier.
-
-Meanwhile, 17 senior officials of the Major ranks of the Major rank and 29 officers have been promoted to the rank of the Captain, the Second Lieutenant officials.
-
-49 non-official officers in the officer II of the Official II of the Official II of the Divisional II and 135 senior commissions of the staff of Staff Series advanced from the official senior officials of the staff.Has been done.
-
-...
-
-[Data](articles/b5440fd0.json)
-
-[Extended Data](ext_articles/b5440fd0.ext.json)
-
----
-
-### 211 Army Officers, over 1,200 other ranks promoted on Independence Day
-
-*2024-02-04 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96992/211-army-officers-over-1200-other-ranks-promoted-on-independence-day) · `en`
-
-President Ranil Wickremesinghe, Commander-in-Chief of the Armed Forces, promoted 211 Officers of the Sri Lanka Army (Regular and Volunteer Force) and 1,239 Other Ranks of the Army (Regular Force and Volunteer Force) to their respective next rank, as part of the 76th Independence Day celebrations.
-
-Accordingly, the promotions of the 211 Army Officers were as follows; 02 Brigadiers were promoted to the rank of Major General, 12 Colonels were promoted to the rank of Brigadier, 13 Lieutenant Colonels were promoted to the rank of Colonel, 17 Majors were promoted to the rank of Lieutenant Colonel, 29 Captains were promoted to the rank of Major (Including Quartermasters), 13 Lieutenants were promoted to the rank of Captain (Including Quartermasters) and 125 Second Lieutenants were promoted to the rank of Lieutenant (Regular Force & Volunteer Force).
-
-...
-
-[Data](articles/d2128f22.json)
-
-[Extended Data](ext_articles/d2128f22.ext.json)
 
 ---

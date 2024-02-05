@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 19:32:56**
+As of **2024-02-05 19:50:08**
 
 ## Newspaper Stats
 
-*Scraped **4,972** Articles*
+*Scraped **4,973** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 302
 adalk | 428
 virakesarilk | 574
 adaderanalk | 616
-tamilmirrorlk | 628
+tamilmirrorlk | 629
 adaderanasinhalalk | 645
 dailymirrorlk | 704
 
@@ -26,11 +26,27 @@ dailymirrorlk | 704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,972 (100.0%) of 4,972 articles have been extended.
+4,972 (100.0%) of 4,973 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### தாக்குதலை நியாயப்படுத்துகிறார் பொன்சேகா
+
+*2024-02-05 19:14:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாக்குதலை-நியாயப்படுத்துகிறார்-பொன்சேகா/175-332719) · `ta`
+
+ஐக்கிய மக்கள் சக்தி (SJB) தலைவர் சஜித் பிரேமதாச மீது தாம் மேற்கொண்ட காரசாரமான வாய்மொழித் தாக்குதலை நியாயப்படுத்திய அக்கட்சியின் தவிசாளர் சரத் பொன்சேகா, கட்சியின் மேலிடங்கள் ஒருதலைப்பட்சமான முடிவுகளை எடுக்கின்றன எனவே கட்சியின் குறைகளை பகிரங்கமாக தெரிவிப்பதைத் தவிர வேறு வழியில்லை என தெரிவித்துள்ளார்.
+
+SJB தலைவர் சஜித் பிரேமதாச வாரயிறுதியில் தெரிவித்த கருத்துக்களுக்குப் பதிலளித்த அவர், கட்சித் தலைமையை விமர்சிப்பவர்களுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்கப்படும் என்றும் திரு.பிரேமதாச தெரிவித்த கருத்தை சுட்டிக்காட்டிய பொன்சேகா அவற்றிற்கு பதிலளித்தார்.
+
+“ஒருமைப்பாட்டுடன் முடிவுகள் எடுக்கப்படும்போதும், கட்சிக்குள் விவாதம் மற்றும் பேச்சு வார்த்தைக்கான வாய்ப்பு கிடைக்காதபோதும், இந்தக் குறைகளை பொதுமக்களிடம் தெரிவிப்பதுதான் எஞ்சியிருக்கும் ஒரே வழி. கட்சியின் பலம் அதன் உறுப்பினர்களும் நலன் விரும்பிகளும்தான் என்பதை நாம் எப்போதும் நினைவில் கொள்ள வேண்டும், தேர்ந்தெடுக்கப்பட்ட சிலர் மட்டும் அல்ல,” என பீல்ட் மார்ஷல் பொன்சேகா தனது சமீபத்திய பதிவில் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/b8678109.json)
+
+---
 
 ### A spinner coach to Sri Lanka
 
@@ -2027,27 +2043,5 @@ The police said that his physical examination was to be carried out in the prese
 [Data](articles/38d04913.json)
 
 [Extended Data](ext_articles/38d04913.ext.json)
-
----
-
-### Sri Lanka sees surge in Paediatric cancer cases
-
-*2024-02-05 11:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-sees-surge-in-Paediatric-cancer-cases/108-276332) · `en`
-
-Colombo, Feb 05 (Daily Mirror) -  Sri Lanka has witnessed a significant spike in paediatric cancer cases over the years, raising concerns over haphazard lifestyle practices.
-
-This was revealed by Dr. Deepal Perera, a Paediatrician at Lady Ridgeway Children's Hospital in Colombo.
-
-“The annual number of reported cases has doubled, escalating from 450 to a staggering 900, raising concerns within the healthcare community,” he pointed out.
-
-Speaking to Daily Mirror, Dr. Perera attributed this concerning surge to the growing prevalence of sedentary lifestyles among children, notably pointing out the increasing addiction to mobile phones as a contributing factor.
-
-He underscored the link between this lifestyle trend and the rise in non-communicable diseases, with leukaemia and brain cancer notably on the rise among the younger population.
-
-...
-
-[Data](articles/703f6e2c.json)
-
-[Extended Data](ext_articles/703f6e2c.ext.json)
 
 ---

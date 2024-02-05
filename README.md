@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 09:17:11**
+As of **2024-02-05 09:32:59**
 
 ## Newspaper Stats
 
-*Scraped **4,820** Articles*
+*Scraped **4,823** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 59
 bbccomsinhala | 71
-dbsjeyarajcom | 136
+dbsjeyarajcom | 137
 economynextcom | 257
 islandlk | 263
 dailyftlk | 280
@@ -20,17 +20,31 @@ virakesarilk | 547
 adaderanalk | 603
 tamilmirrorlk | 607
 adaderanasinhalalk | 618
-dailymirrorlk | 677
+dailymirrorlk | 679
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,820 (100.0%) of 4,820 articles have been extended.
+4,820 (99.9%) of 4,823 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### Keheliya created false alarm in the Cabinet to purchase substandard medicine-DSG
+
+*2024-02-05 08:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliya-created-false-alarm-in-the-Cabinet-to-purchase-substandard-medicine-DSG/108-276327) · `en`
+
+Deputy Solicitor General Lakmini Girihagama told Maligakanda Magistrate Lochani Abeywickrama on Saturday that suspect Keheliya Rambukwella has gained the opportunity to supply substandard medicine to government hospitals by creating a false alarm among members of the Cabinet on May 30, 2022 that the health sector would collapse within three weeks due to shortage of medicines.
+
+She submitted that the suspect had done so after the State Pharmaceutical Corporation (SPC) had refused to comply with his instruction to formulate a mechanism to use the balance money from an Indian Credit Line as soon as possible
+
+...
+
+[Data](articles/6d70b10b.json)
+
+---
 
 ### Keheliya - Deputy Solicitor General made fake fear of drug shortages to import low -quality drugs
 
@@ -181,6 +195,18 @@ Police say that 667 suspects were arrested in the last 24 hours in the country u
 [Data](articles/71441172.json)
 
 [Extended Data](ext_articles/71441172.ext.json)
+
+---
+
+### Muslim religious ceremony for Independence Day
+
+*2024-02-05 07:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Muslim-religious-ceremony-for-Independence-Day/110-276326) · `en`
+
+A Muslim religious ceremony to mark the 76th Independence Day was held yesterday at the Al Jami Ul Alfar Masjid (Red Mosque) in Colombo under the patronage of the Minister of Foreign Affairs Ali Sabri. Pix by Jayamal Chandrasiri
+
+◼️
+
+[Data](articles/b9aa680d.json)
 
 ---
 
@@ -1072,6 +1098,24 @@ Born in 1941, Geingob was a prominent politician since before Namibia achieved i
 
 ---
 
+### Jaffna  Youth Congress was the First to Demand “Poorana Swaraj”( Complete Self-Rule) For Ceylon/SriLanka From  Britain.
+
+*2024-02-04 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83550) · `en`
+
+Sri Lanka known formerly as Ceylon gained independence from British rule on 4 February 1948. The Island nation celebrates the 76th anniversary of her “tryst with destiny” on Sunday. Events marking freedom day festivity are scheduled for the week-end.
+
+Even as the greater part of the Island is enveloped in a melodious mood, a discordant note is struck in the Tamil dominated Northern province and  the  Tamil Majority Eastern Province. The Jaffna University Students Union and organizations representing the families of disappeared persons have proclaimed 4 February 2024 as a ”Kari Naal”( black or dark day) and declared it as a day of mourning.
+
+It has been announced that “Kavana Eerppu Poaraattangal”(Attention drawing demonstrations)would be held in the five districts of the  North and three districts of the east. Several  Sri Lankan Tamil nationalist parties and civil society organizations have endorsed and lent support  to the call for observing freedom day as a black day.
+
+...
+
+[Data](articles/30eff12a.json)
+
+[Extended Data](ext_articles/30eff12a.ext.json)
+
+---
+
 ### Debt and deposit interest rates to be reduced again?
 
 *2024-02-04 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/175556) · `ta`
@@ -1203,6 +1247,22 @@ The arrestee was reportedly involved in several crimes including murder, propert
 [Data](articles/44fbe30a.json)
 
 [Extended Data](ext_articles/44fbe30a.ext.json)
+
+---
+
+### India Extends Official Invitation to JVP for the First Time; JVP Leader Anura Kumara Dissanayake to head Party Delegation on 5 Day Visit to New Delhi, Ahmedabad and Thiruvananthapuram
+
+*2024-02-04 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83555) · `en`
+
+The Indian government has invited a delegation led by Anura Kumara Dissanayake, leader of Sri Lanka’s leftist Janatha Vimukthi Peramuna (JVP or People’s Liberation Front), to New Delhi, in a significant outreach to the island nation’s most popular politician at the moment.
+
+“We leave tomorrow [Monday] morning and will be there for five days for meetings,” JVP legislator Vijitha Herath, who is part of the delegation, told The Hindu on Sunday night. This is the first time that the JVP leader, who helms the National People’s Power [NPP] alliance, has received an official invitation from the Government of India.
+
+Sources at the Indian High Commission said the delegation is scheduled to visit three cities —New Delhi, Ahmedabad, and Thiruvananthapuram — and hold meetings with government officials, members of the business community, in addition to visiting centres of excellence in agriculture and industry.
+
+...
+
+[Data](articles/64f940bc.json)
 
 ---
 
@@ -1849,75 +1909,5 @@ Several representatives of political parties, including the leader of the Ilanka
 [Data](articles/1962f0fa.json)
 
 [Extended Data](ext_articles/1962f0fa.ext.json)
-
----
-
-### Protest in Jaffna against Independence Day celebrations, five arrested
-
-*2024-02-04 15:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Protest-in-Jaffna-against-Independence-Day-celebrations-five-arrested/108-276306) · `en`
-
-Jaffna, Feb. 04 (Daily Mirror)- Police fired tear gas and water cannons to disperse a group of Jaffna University students and political leaders of the North, who staged a protest in Iranamadu, Kilinochchi calling the Independence Day a 'black day'.
-
-Five university students were taken into police custody during the protest for unruly behaviour.
-
-The protesters claimed that there is no proper situation in the country to celebrate Independence Day due to various reasons such as restrictions to media freedom and enacting Acts restricting freedom of speech.
-
-Ilankai Thamil Arasu Kachchi leader S. Sridharan, Parliamentarian Charles Nirmalanathan and civil activists participated in this protest.
-
-◼️
-
-[Data](articles/985897c3.json)
-
-[Extended Data](ext_articles/985897c3.ext.json)
-
----
-
-### Sri Lanka celebrates 76th Independence Day
-
-*2024-02-04 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sri-Lanka-celebrates-76th-Independence-Day/110-276305) · `en`
-
-The official ceremony to mark the 76th Independence Day of the Democratic Socialist Republic of Sri Lanka got off the ground at the Galle Face Green this morning Thai Prime Minister Srettha Thavisin as the guest of honour. The event saw the participation of President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena, visiting foreign dignitaries, diplomats, military personnel, religious leaders and politicians. Pix by Kushan Pathiraja
-
-◼️
-
-[Data](articles/9371e4f5.json)
-
-[Extended Data](ext_articles/9371e4f5.ext.json)
-
----
-
-### End of the leadership competition of the Tamil party!
-
-*2024-02-04 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175524) · `ta`
-
-There has been a great deal of controversy over the appointment of Secretary of the Sri Lanka Tamil National Alliance (TNA). The Central Committee of the Sri Lanka Tamil National Alliance (TNA) was held in Trincomalee on the 27th. Shanmugam Kukadasan was appointed to the post when the election was held for the post of General Secretary.
-
-As well as CVK as Senior Vice President. Sivagnanam and co -treasurer of Gnanasan and Kanakasabapathi are Vice Presidents. Tavarasa, Charles Nirmalanathan, Tavarasa Kalaiyarasan, Bhagiyachchelvam Ariyanendran and Dr. Sathiyalingam are Mrs. Shanti Siriskandarajah, Mrs. Ranjani Kanakarajah, M. Saravanapavan, Ira. Chanakyan and Sivamohan and 13 members of the executive committee including MA Sumanthiran were elected.
-
-However, there was a great deal of controversy during the first day of the public meeting held at the Central Executive Committee meeting.The situation worsened as the arguments among members of the members were increasing.
-
-...
-
-[Data](articles/57f1a195.json)
-
-[Extended Data](ext_articles/57f1a195.ext.json)
-
----
-
-### What is the line?
-
-*2024-02-04 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175517) · `ta`
-
-These arguments often notice the key role in financing to essential public services such as health, education, infrastructure and social security nets.. To ensure adequate funds for public services and balance the need for economic growth, Sri Lanka and many countries are facing a complex challenge.
-
-Of course, there are arguments against taxation. Some argue that taxes are high and they are free of economic growth. Others argue that the taxes are unfair and that they are burdened with proportions for the poor.
-
-The debate on taxation will continue for many more years. However, one is clearly. Taxes are essential in any modern society, and they play an important role in financing the public goods and services we all believe in.
-
-◼️
-
-[Data](articles/a67dc87d.json)
-
-[Extended Data](ext_articles/a67dc87d.ext.json)
 
 ---

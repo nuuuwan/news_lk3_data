@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 22:32:48**
+As of **2024-02-05 22:50:07**
 
 ## Newspaper Stats
 
-*Scraped **4,994** Articles*
+*Scraped **5,000** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ economynextcom | 260
 islandlk | 263
 dailyftlk | 280
 newsfirstlk | 302
-adalk | 432
+adalk | 433
 virakesarilk | 579
 adaderanalk | 620
 tamilmirrorlk | 634
 adaderanasinhalalk | 646
-dailymirrorlk | 706
+dailymirrorlk | 711
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,992 (100.0%) of 4,994 articles have been extended.
+4,994 (99.9%) of 5,000 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The President emphasized that the government achieved significant progress for t
 ...
 
 [Data](articles/04ad142c.json)
+
+[Extended Data](ext_articles/04ad142c.ext.json)
 
 ---
 
@@ -81,6 +83,24 @@ Will bank interest rates be reduced again?Is it time for people to get loans?Wil
 [Data](articles/74c6c1f8.json)
 
 [Extended Data](ext_articles/74c6c1f8.ext.json)
+
+---
+
+### Sri Lanka eyes US$5 billion in foreign funds after debt restructure
+
+*2024-02-05 21:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-eyes-US-5-billion-in-foreign-funds-after-debt-restructure/108-276363) · `en`
+
+Feb 5 (Business Times) - Sri Lanka expects to attract about US$5 billion in foreign funds in the next two years once it is able to finalise the restructuring of its overseas debt, the country’s foreign minister said on Monday (Feb 5).
+
+The nation defaulted on its overseas debt in May, 2022 after a severe shortage of foreign exchange reserves triggered the worst financial crisis since independence from Britain in 1948.
+
+Sri Lanka has since made progress on about US$11 billion of bilateral debt restructuring and hopes to have agreements in place with all key creditors, including bondholders, by May at the latest, Foreign Minister Ali Sabry told Reuters.
+
+It will then focus on kick-starting major infrastructure projects suspended during the crisis, including a highway, an expansion of the main airport near Colombo and a US$2 billion light railway project with Japan.
+
+...
+
+[Data](articles/82578666.json)
 
 ---
 
@@ -170,6 +190,22 @@ The first phase of the Urithu (Urumaya) project was held at the Rangiri Dambulla
 
 ---
 
+### English tuition teacher arrested for setting fire to Ranil’s private residence
+
+*2024-02-05 21:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/English-tuition-teacher-arrested-for-setting-fire-to-Ranils-private-residence/108-276362) · `en`
+
+Colombo, Feb 5 (Daily Mirror) - The Criminal Investigation Department arrested a 46-year-old suspect in connection with the incident of setting fire to President Ranil Wickremesinghe's private residence on 09 July 2022.
+
+The suspect, a resident of Boralesgamuwa, was identified as a teacher who conducts English tuition classes at homes.
+
+The suspect is scheduled to be produced before the Fort Magistrate's Court tomorrow.
+
+◼️
+
+[Data](articles/94147620.json)
+
+---
+
 ### We can't be a beggar nation again
 
 *2024-02-05 20:19:46* · [`adalk`](https://www.ada.lk/breaking_news/අපිට-ආයෙත්-හිඟන-ජාතියක්-වෙන්න-බෑ/11-407917) · `si`
@@ -246,6 +282,22 @@ He also said that the train will start a 12.15 day from the Trincomalee railway 
 
 ---
 
+### හොර නෝට්ටු මුද්‍රණාලයක් පවත්වාගෙන ගිය පුද්ගලයෙක් අල්ලයි
+
+*2024-02-05 19:50:45* · [`adalk`](https://www.ada.lk/breaking_news/හොර-නෝට්ටු-මුද්‍රණාලයක්-පවත්වාගෙන-ගිය-පුද්ගලයෙක්-අල්ලයි/11-407913) · `si`
+
+ව්‍යාජ මුදල් නෝට්ටු මුද්‍රණාලයක් පවත්වාගෙන ගිය යුධහමුදා විශ්‍රාමික කර්නල් වරයෙකුගේ පුත්‍රයෙකු රුපියල් 5000 ක හොර මුදල් නෝට්ටු 30 ක් සහ එක් පැත්තක් මුද්‍රණය කල නෝට්ටු 10 ක් සමග අද (05)  අත්අඩංගුවට ගත්බව එගොඩඋයන පොලිසිය පවසයි .
+
+වාද්දුව මොල්ලිගොඩ ප්‍රදේශයේ පදිංචි 47 හැව්රිදි පුද්ගලයකු මෙසේ අත්අඩංගුවට ගෙන ඇති  බව පොලිසිය කීය.
+
+ලද තොරතුරක් මත පොලිස් කණ්ඩායම එගොඩඋයන වටරවුම ආසන්නයේ දී සැකකරු  පරීක්ෂා කිරීමේදී රුපියල් 5000  ව්‍යාජ මුදල් නෝට්ටු 10 ක් සොයාගෙන සැකකරු ගේ නිවස පරීක්ෂා කිරීමේදී තවත් මුදල් නෝට්ටු 20 ක්, එක් පැත්තක් මුද්‍රණය කල නෝට්ටු 10 ක් සහ මුද්‍රණ යන්ත්‍රයක් තීන්ත බෝතල් 2 ක්, කටර් එකක්, අඩිකොදුවක් මුද්‍රණ කඩදාසි  10 ක් ඇතුළු උපකරණද සොයාගත් බව බව පොලිසිය කීය.
+
+◼️
+
+[Data](articles/26c3f846.json)
+
+---
+
 ### Anura meets India’s National Security Adviser Ajit Doval
 
 *2024-02-05 19:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-meets-Indias-National-Security-Adviser-Ajit-Doval/108-276359) · `en`
@@ -262,17 +314,33 @@ Matters concerning regional security and bilateral ties between India and Sri La
 
 ---
 
-### රු. මිලියනයකට තට්ටු වූ නින්ද
+### Anura meets India’s National Security Adviser Ajit Doval
+
+*2024-02-05 19:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Anura-meets-Indias-National-Security-Adviser-Ajit-Doval/155-276359) · `en`
+
+India, Feb. 5 (Daily Mirror)-NPP leader Anura Kumara Dissanayake met India's National Security Adviser (NSA) Ajit Doval this afternoon, party sources said.
+
+Matters concerning regional security and bilateral ties between India and Sri Lanka were broadly discussed during the meeting.
+
+◼️
+
+[Data](articles/dd259d36.json)
+
+---
+
+### Rs. The knocked sleep per million
 
 *2024-02-05 19:44:47* · [`adalk`](https://www.ada.lk/breaking_news/රු--මිලියනයකට-තට්ටු-වූ-නින්ද/11-407912) · `si`
 
-කටුගස්තොට සිට මහනුවර දක්වා ධාවනය වෙමින් තිබූ වෑන් රථයක රියදුරට නින්ද යාම හේතුවෙන් වෑන් රථය පාරෙන් ඉවතට පැන මහනුවර මහ නගර සභාවට අයත් මල් පෝච්චි තුනක්ද සුනු විසුණු කරවමින් විදුලි බල මණ්ඩලයට අයත් දැවැන්ත යකඩ විදුලි කණුවක් ද කඩාගෙන ගොස් ඇති බව කටුගස්තොට පොලීසිය කියයි .
+Katugastota Police say that the van has fallen off the road and collapsed a massive iron teleriast of the CEB and a massive iron teleriast of the CEB.
 
-එම අනතුර හේතුවෙන් විනාශයට පත් වූ විදුලි බල මණ්ඩලයට අයත් ජකඩ විදුලි කණුවේ අලාභය වශයෙන් විදුලිබල මණ්ඩලයට රුපියල් ලක්ෂ නවයක මුදලක් සහ මහනුවර මහ නගර සභාවට අයත් මල් පෝච්චි තුනේ වටිනාකම වශයෙන් රුපියල් ලක්ෂයකට ආසන්න මුදලක් එහි රියදුරට ගෙවීමට සිදුවන බව පොලිසිය කියයි .
+Police say that the driver of the criminal board of the CEB has to pay Rs.
 
 ◼️
 
 [Data](articles/d9bc9ef6.json)
+
+[Extended Data](ext_articles/d9bc9ef6.ext.json)
 
 ---
 
@@ -520,6 +588,22 @@ He was responding to the remarks made by SJB Leader Sajith Premadasa during the 
 
 ---
 
+### Fonseka justifies his action to criticize SJB leadership
+
+*2024-02-05 18:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fonseka-justifies-his-action-to-criticize-SJB-leadership/108-276357) · `en`
+
+Colombo, Feb 5 (Daily Mirror) - Justifying his earlier verbal attack on Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa, the party Chairman Sarath Fonseka said he did not have any other option but to voice his grievances in public when the party higher-ups are making unilateral decisions.
+
+He was responding to the remarks made by SJB Leader Sajith Premadasa during the weekend, where he said those who criticize the party leadership and break discipline can leave the party. Mr. Premadasa also indicated that disciplinary action would be taken against MP. Fonseka.
+
+“When decisions are taken unitarily, and when the opportunity for discussion and discourse is not provided within the party, the only option left is to voice these grievances to the public. We should always remember that the strength of the party is its members and well-wishers and not just a select few,” Field Marshal Fonseka said in his latest post on X.
+
+...
+
+[Data](articles/23e480b5.json)
+
+---
+
 ### President awards first set of ‘Urumaya’ land deeds
 
 *2024-02-05 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97023/president-awards-first-set-of-urumaya-land-deeds) · `en`
@@ -689,6 +773,24 @@ Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
 [Data](articles/32489cd3.json)
 
 [Extended Data](ext_articles/32489cd3.ext.json)
+
+---
+
+### Human Rights activist Dr. Chamal Sanjeewa released on bail
+
+*2024-02-05 17:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Human-Rights-activist-Dr-Chamal-Sanjeewa-released-on-bail/108-276355) · `en`
+
+Colombo, Feb 5 (Daily Mirror) - Human Rights activist Dr. Chamal Sanjeewa was released on a personal bail of Rs. 25,000 by the Colombo Chief Magistrate today.
+
+The doctor appeared before the Colombo Chief Magistrate Prasanna De Alwis through a motion filed by his Counsel Rajitha Lakmal.
+
+During the inquiry Counsel told the Magistrate that on 1st of January, during a protest opposite the entrance to the CID, Police had arrested the doctor and some other suspects who were later produced before the Fort Magistrate's Court.
+
+During the inquiry, the Cinnamon Garden Police had submitted to the Fort Magistrate's Court that the Colombo Chief Magistrate had ordered the Cinnamon Gardens Police to arrest three suspects including Dr. Chamal Sanjeewa and two others and to produce them before the Chief Magistrate today (5) allegedly for placing a funeral wreath opposite the house of former Health Minister Keheliya Rambukwell on January 01 .
+
+...
+
+[Data](articles/665b4a52.json)
 
 ---
 
@@ -1879,123 +1981,5 @@ Meanwhile, the India Meteorological Department (IMD) said that no major dense fo
 [Data](articles/e33f7e75.json)
 
 [Extended Data](ext_articles/e33f7e75.ext.json)
-
----
-
-### Jaishankar meets AKD; Affirms Strong Ties with Sri Lanka
-
-*2024-02-05 12:31:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/jaishankar-meets-akd-affirms-strong-ties-with-sri-lanka/) · `en`
-
-COLOMBO (News 1st); Indian External Affairs Minister Dr. S. Jaishankar met with Anura Kumara Dissanayake, the leader of Sri Lanka's Jathika Jana Balavegaya (JJB) and Janatha Vimukthi Peramuna (JVP), on Monday morning.
-
-The meeting focused on bilateral relations between the two countries and Sri Lanka's current economic challenges.
-
-Dr. Jaishankar expressed his satisfaction with the discussion, highlighting the "mutual benefits" of further strengthening the India-Sri Lanka relationship.
-
-He also acknowledged Sri Lanka's economic difficulties and offered support, stating that "India, with its Neighbourhood First and SAGAR policies, will always be a reliable friend and trusted partner of Sri Lanka."
-
-Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
-
-Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
-
-◼️
-
-[Data](articles/11dc30e6.json)
-
-[Extended Data](ext_articles/11dc30e6.ext.json)
-
----
-
-### Three arrested in connection with the murder of Dhammaratana Thero
-
-*2024-02-05 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192997) · `si`
-
-It is reported that three suspects have been arrested in connection with the death of a monk on January 23 in Gampaha, Gampaha.
-
-The shooting was a 44-year-old monk, the most popularity for astrologers.
-
-The shooting had been made by saying that he had arrived in a car to be CID officials.
-
-◼️
-
-[Data](articles/1d5ecd03.json)
-
-[Extended Data](ext_articles/1d5ecd03.ext.json)
-
----
-
-### Premalatha posted the image of actor Vijayakanth
-
-*2024-02-05 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175597) · `ta`
-
-In honor of the late actor Vijayakanth, his wife Premalatha has tattooed the portrait.
-
-Actor and TMC leader Vijayakanth passed away on December 28 last year at the Coimbatore Temutika headquarters, who are being buried at the Coimbatore Temutika headquarters.
-
-In this case, Premalatha tattooed her husband Vijayakanth's image in her right hand.The image of Vijayakanth, who is beautifully tattooed, is attracting everyone's attention.
-
-◼️
-
-[Data](articles/3435e9ac.json)
-
-[Extended Data](ext_articles/3435e9ac.ext.json)
-
----
-
-### Ratings from several provinces reduced from tomorrow
-
-*2024-02-05 12:19:53* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-කිහිපයකට-පැවැති-වැස්ස-හෙට-සිට-අඩුවෙයි/11-407907) · `si`
-
-The Department of Meteorology states that a show of showers in the Western, Sabaragamuwa, Central, Southern, Uva and Eastern provinces will be expected from tomorrow.
-
-However, tomorrow due to tomorrow, there will be showers at several places in Kalutara, Galle and Matara districts tomorrow, according to the Department.
-
-The Department of Meteorology has stated that there is a major rainy weather in the island, but the Department of Meteorology has been released today.
-
-◼️
-
-[Data](articles/4d8aeff5.json)
-
-[Extended Data](ext_articles/4d8aeff5.ext.json)
-
----
-
-### Rag
-
-*2024-02-05 12:16:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாண்-எடை-தொடர்பில்-சுற்றிவளைப்பு/175-332697) · `ta`
-
-Is Pan sold in accordance with the Gazette notification that refers to the weight of the pan?The Consumer Affairs Authority (CAA) said that the country will be carried out across the country from Monday (05).
-
-Accordingly, the gazette is stated that the recommended weight of a feast style should be 450 grams and its variation should not be less than 13.5 grams.
-
-The recommended weight of the semi -dumping style should be 225 grams and its variation should not be less than 9 grams.
-
-The announcement also stated that the weight of the style should be displayed and that all the travelers have been notified of bakery owners and traders.
-
-According to the gazette notification, legal action will be taken after the first round of the first round of the first round of the Gazette against traders who do not sell Pan.
-
-◼️
-
-[Data](articles/77081178.json)
-
-[Extended Data](ext_articles/77081178.ext.json)
-
----
-
-### Senthil Thondaman discusses with the Indian High Commission in Sri Lanka on the development of the East and the Upcountry
-
-*2024-02-05 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175599) · `ta`
-
-The newly appointed Indian High Commissioner to the newly appointed Sri Lanka Santosh Ja met with the Governor of the Eastern Province and the President of the Ceylon Workers Congress, Senthil Thondaman.
-
-During the meeting, the necessary assistance to the development of the Eastern Province and the Upcountry was discussed.
-
-Indian High Commissioner Santosh Ja promised to provide his full assistance to Sri Lanka's development.
-
-◼️
-
-[Data](articles/8b533e48.json)
-
-[Extended Data](ext_articles/8b533e48.ext.json)
 
 ---

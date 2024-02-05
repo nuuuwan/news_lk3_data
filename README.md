@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 11:51:56**
+As of **2024-02-05 12:02:47**
 
 ## Newspaper Stats
 
-*Scraped **4,860** Articles*
+*Scraped **4,864** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ dbsjeyarajcom | 137
 economynextcom | 257
 islandlk | 263
 dailyftlk | 280
-newsfirstlk | 292
+newsfirstlk | 293
 adalk | 419
 virakesarilk | 555
-adaderanalk | 603
+adaderanalk | 606
 tamilmirrorlk | 619
 adaderanasinhalalk | 623
 dailymirrorlk | 681
@@ -26,11 +26,31 @@ dailymirrorlk | 681
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,860 (100.0%) of 4,860 articles have been extended.
+4,864 (100.0%) of 4,864 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### Several roads in Colombo to be temporarily closed from today
+
+*2024-02-05 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97012/several-roads-in-colombo-to-be-temporarily-closed-from-today-) · `en`
+
+Several roads in the Kollupitiya and Kompanna Vidiya domains will be temporarily closed from today (05 Feb.), as part of a three-phase maintenance project to lay underground pipelines.
+
+According to police, the stretch from Nawam Mawatha to the Kompanna Vidiya railway station, on Sri Uttarananda Mawatha, will be closed from today until 19 February.
+
+As part for the second phase, the road from Perahera Mawatha to Nawam Mawatha, along Sri Uttarananda Mawatha, will be closed from 20 February until 04 March.
+
+Roads in the vicinity of the Rotunda Gardens junction and Perahera Mawatha will subsequently be closed from 05 to 11 March.
+
+◼️
+
+[Data](articles/1700d95b.json)
+
+[Extended Data](ext_articles/1700d95b.ext.json)
+
+---
 
 ### For a former member of the Municipal Council, the former member of the Municipal Council requested the President
 
@@ -144,6 +164,26 @@ The girls’ team includes four talented female divers: Kithmi Marambe (Captain)
 
 ---
 
+### Several roads in Colombo to be closed temporarily
+
+*2024-02-05 10:56:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/several-roads-in-colombo-to-be-closed-temporarily/) · `en`
+
+COLOMBO (News 1st); A decision has been reached to temporarily close Sri Uttarananda Mawatha, Perahara Mawatha and Nawam Mawatha in the Colpettty and Kompannavidiya Police divisions, under three phases from Monday (05).
+
+Police said the roads will be closed to lay an underground wastewater pipeline that will be connected to Colombo Port City.
+
+The section from Sri Uttarananda Mawatha and Nawam Mawatha to the Railway Crossing will be closed from Monday (05) till the 19th of February while the section from Sri Uttarananda Mawatha and Perahara Mawatha to Nawam Mawatha will be closed from the 20th of February till the 4th of March.
+
+The section up to Rotunda Gardens Junction from Sri Uttarananda Mawatha and Perahara Mawatha will be closed from Monday (05) till the 11th of March.
+
+◼️
+
+[Data](articles/6cce51a9.json)
+
+[Extended Data](ext_articles/6cce51a9.ext.json)
+
+---
+
 ### Puttalam's terrible Triplar accident in Puttalam
 
 *2024-02-05 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192993) · `si`
@@ -238,13 +278,29 @@ Police seized 191 grams of heroin, 103 grams of ICE and 2kg and 300g of cannabis
 
 Three suspects arrested on drug-related charges were directed to rehabilitation centers.
 
-Cardinal calls for a transition to new leadership in Sri Lanka
-
 ◼️
 
 [Data](articles/4eac9363.json)
 
 [Extended Data](ext_articles/4eac9363.ext.json)
+
+---
+
+### Hulanda Oya Bridge collapses
+
+*2024-02-05 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97011/hulanda-oya-bridge-collapses-) · `en`
+
+Traffic plying on the Embilitipitya – Middeniya main road has been blocked after the Hulanda Oya bridge collapsed earlier this morning (05 Feb.).
+
+It is reported that the bridge had collapsed while a logging truck was travelling across.
+
+However, no casualties have been reported thus far, while motorists have been urged to use alternative routes.
+
+◼️
+
+[Data](articles/580463b1.json)
+
+[Extended Data](ext_articles/580463b1.ext.json)
 
 ---
 
@@ -315,6 +371,28 @@ Kalpitiya police said they were continuing investigations into the incident.
 [Data](articles/ad165853.json)
 
 [Extended Data](ext_articles/ad165853.ext.json)
+
+---
+
+### 46 reported dead in Chile as forest fires move into densely populated central areas
+
+*2024-02-05 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97010/46-reported-dead-in-chile-as-forest-fires-move-into-densely-populated-central-areas) · `en`
+
+Intense forest fires burning around a densely populated area of central Chile have caused at least 46 deaths, Chile’s president said Saturday evening, and officials said at least 1,100 homes had been destroyed.
+
+In a nationally televised address, President Gabriel Boric warned that the death toll could worsen as four large fires burn in the region of Valparaiso, where firefighters have struggled to reach the most threatened neighborhoods.
+
+“If you are told to evacuate don’t hesitate to do it,” he said. “The fires are advancing fast and climatic conditions have made them difficult to control. There are high temperatures, strong winds and low humidity.”
+
+Interior Minister Carolina Tohá said earlier Saturday that 92 forest fires were burning in the center and south of the country, where temperatures have been unusually high this week.
+
+The deadliest of the fires were in the Valparaíso region, where authorities urged thousands of people to evacuate their homes.
+
+...
+
+[Data](articles/e1f3c0f3.json)
+
+[Extended Data](ext_articles/e1f3c0f3.ext.json)
 
 ---
 
@@ -546,8 +624,6 @@ Police have taken 14 suspects into custody in relation to the incident.
 
 Clashes were reported among inmates of the Kandakadu Rehabilitation Center based on various issues on several occassions.
 
-Cardinal calls for a transition to new leadership in Sri Lanka
-
 ◼️
 
 [Data](articles/005c95ad.json)
@@ -602,8 +678,6 @@ The delegation includes Secretary of the party Dr. Nihal Abeysinghe, MP Vijitha 
 
 The group is due to hold an official meeting with Indian government officials on Monday (05).
 
-Cardinal calls for a transition to new leadership in Sri Lanka
-
 ◼️
 
 [Data](articles/9d4f3eaf.json)
@@ -621,8 +695,6 @@ COLOMBO (News 1st); The second phase of the third school term of 2023 will comme
 The Ministry of Education said the second phase of the third term will end on the 16th of February.
 
 The first school term of 2024 is scheduled to commence on the 19th of February.
-
-Cardinal calls for a transition to new leadership in Sri Lanka
 
 ◼️
 
@@ -1893,81 +1965,5 @@ He said that in the coming years, we will resort to economic maritime relations 
 [Data](articles/f9e8cbc3.json)
 
 [Extended Data](ext_articles/f9e8cbc3.ext.json)
-
----
-
-### Sri Lanka and Thailand eye visa free travel
-
-*2024-02-04 18:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-and-thailand-eye-visa-free-travel-149818/) · `en`
-
-ECONOMYNEXT – Sri Lanka and Thailand are considering visa free travel to strengthen economic links between the two countries President Ranil Wickremesinghe said, after signing a free trade  with the South East Asian nation.
-
-“In order to facilitate travel between the two countries, we have agreed to consider entering into an agreement for a visa free travel arrangement on reciprocal basis,” President Ranil Wickremesinghe said after bilateral talks with a delegation led by Thai Prime Minister.
-
-Sri Lanka already has a free trade agreement with Singapore, also a key member of the Association of South East Asian Nations.
-
-The two countries has had visa free travel before the FTA was inked.
-
-People of the ASEAN region can travel within the countries without visa. Most airports in member countries has a special track for ASEAN passport holders. (Colombo/Feb04/2024)
-
-◼️
-
-[Data](articles/c9e72be3.json)
-
-[Extended Data](ext_articles/c9e72be3.ext.json)
-
----
-
-### President retires to death in Namibia
-
-*2024-02-04 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192973) · `si`
-
-Foreign media reports that President of Namibia has died.
-
-Since 2015, he has held the presidency of Namibia since 2015.
-
-Earlier, foreign media reports that President Hage Geingob could suffer from a cancer.
-
-◼️
-
-[Data](articles/d9166855.json)
-
-[Extended Data](ext_articles/d9166855.ext.json)
-
----
-
-### Knitting relationship
-
-*2024-02-04 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175554) · `ta`
-
-It is also important in the development of security in safety. That is why India is now focusing on expanding its investments in Sri Lanka.
-
-In the event that India and Sri Lanka are in the face of major elections, the two countries will not be ready to give up their connections between security and development interests.
-
-To establish this- this relationship will be prepared for giving and compromises on things that can affect this relationship.
-
-◼️
-
-[Data](articles/f10ed678.json)
-
-[Extended Data](ext_articles/f10ed678.ext.json)
-
----
-
-### Three persons, including a person working in the Divisional Secretariat with ice drugs in Batticaloa
-
-*2024-02-04 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/175557) · `ta`
-
-Kattankudy police said that three persons, including a drug dealer who works at the Batticaloa Pattipalai Divisional Secretariat, has been arrested by the Special Task Force in Kalladi on Saturday (03).
-
-On Saturday (04) at 10 am, while watching a road in the Kalladi area, there was a motorcycle in a motorcycle and who had been involved in the business and the two men who had been involved in the business and to buy it.
-
-The arrested drug dealer has taken steps to produce them in court after investigations, from the Special Task Force (STF), who belonged to the Kalladipa area, which is serving at the Padippalai Divisional Secretariat.
-
-◼️
-
-[Data](articles/2c673354.json)
-
-[Extended Data](ext_articles/2c673354.ext.json)
 
 ---

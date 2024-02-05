@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 21:02:39**
+As of **2024-02-05 21:17:26**
 
 ## Newspaper Stats
 
-*Scraped **4,984** Articles*
+*Scraped **4,986** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 302
 adalk | 431
 virakesarilk | 575
 adaderanalk | 617
-tamilmirrorlk | 632
+tamilmirrorlk | 634
 adaderanasinhalalk | 646
 dailymirrorlk | 706
 
@@ -26,7 +26,7 @@ dailymirrorlk | 706
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,984 (100.0%) of 4,984 articles have been extended.
+4,984 (100.0%) of 4,986 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -76,6 +76,20 @@ The State Minister further stated that the local investors also allow the opport
 
 ---
 
+### சனத் நிஷாந்தவின் சாரதிக்கு பிணை
+
+*2024-02-05 20:02:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவின்-சாரதிக்கு-பிணை/175-332724) · `ta`
+
+மறைந்த முன்னாள் இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் வாகன சாரதி, பிணையில் செல்ல அனுமதிக்கப்பட்டுள்ளார்.
+
+சந்தேகநபர் இன்றைய தினம் வெலிசறை நீதவான் நீதிமன்றில் முன்னிலைப்படுத்திய போது, அவரை 5 இலட்சம் ரூபாய் சரீர பிணையில் செல்ல நீதவான் அனுமதி வழங்கினார். R
+
+◼️
+
+[Data](articles/51311b0e.json)
+
+---
+
 ### Notice for Trincomalee - Colombo train passengers!
 
 *2024-02-05 19:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175655) · `ta`
@@ -105,6 +119,20 @@ Matters concerning regional security and bilateral ties between India and Sri La
 [Data](articles/aec4670e.json)
 
 [Extended Data](ext_articles/aec4670e.ext.json)
+
+---
+
+### கெஹலியவினால் டெலிபோனுக்குள் குழப்பம்
+
+*2024-02-05 19:43:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவினால்-டெலிபோனுக்குள்-குழப்பம்/175-332723) · `ta`
+
+தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ள அமைச்சர் கெஹலிய ரம்புக்வெல்லவுக்கு எதிராக எடுக்கப்பட வேண்டிய நடவடிக்கை தொடர்பில் கட்சியின் நிலைப்பாடு குறித்து ஐக்கிய மக்கள் சக்தி (SJB) பாராளுமன்ற உறுப்பினர்கள் பரஸ்பரம் முரண்பட்டுள்ளனர்.
+
+அமைச்சர் ரம்புக்வெல்லவுக்கு எதிராக இரண்டாவது நம்பிக்கையில்லாப் பிரேரணையை கொண்டு வருவதற்கு தமது கட்சி தீர்மானித்துள்ளதாக கடந்த வாரம் SJB பாராளுமன்ற உறுப்பினர் காவிந்த ஜயவர்தன அறிவித்திருந்த போதிலும், ரம்புக்வெல்லவுக்கு எதிராகவும் மருந்து கொள்வனவு மோசடியில் பாதிக்கப்பட்டவர்களுக்கு நீதி வழங்கவும் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் நடவடிக்கை எடுக்குமாறு கோரும் தீர்மானத்தை பாராளுமன்றத்தில் சமர்ப்பிப்பதைதே செய்ய வேண்டும் என SJB தேசிய ஒருங்கிணைப்பாளர் திஸ்ஸ அத்தநாயக்க தெரிவித்தார்.
+
+...
+
+[Data](articles/e90e480b.json)
 
 ---
 
@@ -1975,43 +2003,5 @@ After the incident, the people of the area were taken out of the residents of th
 [Data](articles/b5d4a4bf.json)
 
 [Extended Data](ext_articles/b5d4a4bf.ext.json)
-
----
-
-### Attacks on students expose the Sri Lankan government's corporation
-
-*2024-02-05 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/175595) · `ta`
-
-The Sri Lankan government's anarchy on students and political leaders who fought in Kilinochchi on Independence Day of Sri Lanka. Former minister of the country from Canada Nimal Vinayagamoorthy has condemned.
-
-We are publishing heavy continents in the diaspora, as the Sri Lankan police have been brutally attacked by political leaders, students and people who have rally the peaceful rally on the day of Sri Lanka's Independence Day.
-
-If the Sri Lankan government is a democratic state, Sri Lanka is a democratic country. The Sri Lankan police have carried out tears of tears, and the water strikes on the protesting students.
-
-At the same time, the attacks have also taken place on the relations of the missing persons involved in the struggle. As well as the appreciation of the Member of Parliament, Sivagnanam Sreedharan and Charles Nirmalanathan have been attacked.. The Sri Lankan government has expressed its claim face, attacking the people and the elected representatives.
-
-...
-
-[Data](articles/c5eee436.json)
-
-[Extended Data](ext_articles/c5eee436.ext.json)
-
----
-
-### The price of an egg rose to 58 rupees!
-
-*2024-02-05 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175594) · `ta`
-
-The price of an egg has been reduced to 40 rupees a few weeks ago, but the price of an egg has risen to 58 rupees again.
-
-Bakery owners say they buy an egg for a total price of 60 rupees. Egg merchants say that poultry owners have raised the price of eggs.
-
-Meanwhile, Agriculture and Plantation Industries Minister Mahinda Amaraweera has said that a group of intermediaries have increased the price of eggs.. The Minister said that some action should be taken in the future to curb the rapidly rising egg prices.
-
-◼️
-
-[Data](articles/819664dc.json)
-
-[Extended Data](ext_articles/819664dc.ext.json)
 
 ---

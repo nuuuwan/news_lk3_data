@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 07:42:19**
+As of **2024-02-05 07:55:03**
 
 ## Newspaper Stats
 
@@ -26,47 +26,55 @@ dailymirrorlk | 676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,808 (100.0%) of 4,810 articles have been extended.
+4,810 (100.0%) of 4,810 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
 
-### අනුර කුමාර දිල්ලි යයි
+### Anura Kumara goes to Delhi
 
 *2024-02-05 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192983) · `si`
 
-ජාතික ජන බලවේගය පක්ෂයේ නායක අනුර කුමාර දිසානායක මහතා ඇතුළු සිව්දෙනෙකු ඉන්දීය සංචාරයක් සඳහා පිටත්ව ගොස් තිබේ.
+Four of the national folk leader Anura Kumara Dissanayake and four others were on a visit to India.
 
-පාර්ලිමේන්තු මන්ත්‍රී විජිත හේරත් මහතා සහ තවත් දෙදෙනෙකු ද අද (05) අලුයම නවදිල්ලි නුවර බලා පිටත් වු බව "අද දෙරණ" වාර්තාකරු පැවසුවේය.
+The Ada Derana reporter said that MP Vijitha Herath and two others left for New Delhi this morning.
 
-ජාතික ජන බලවේගය පක්ෂය මුලික වශයෙන් ජනතා විමුක්ති පෙරමුණ මත ගොඩ නැගී ඇති අතර එම පක්ෂය මීට පෙර ඉන්දීය විරෝධී ප්‍රතිපත්තියක් අනුගමනය කර තිබුණි.
+The National Folk Force has created the national folk force on the JVP and the party had previously adopted an anti-Indian policy.
 
-ඉන්දු - ලංකා සාම ගිවිසුම අවස්ථාවේ ජනතා විමුක්ති පෙරමුණ ඊට එරෙහිව ප්‍රසිද්ධියේ කටයුතු කළ අතර ඉන්දීය ව්‍යාප්තවාදයට එරෙහි මතවාදයක් ඔවුන් විසින් මෙහෙයවන ලැබීය.
+The JVP was well-known for the Indo-Lanka Peace Treatment and served against Indian expansion.
 
-ඉන්දියාවේ මැදිහත්වීමෙන් ආණ්ඩුක්‍රම ව්‍යවස්ථාවට එක්වුණු 13 ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය මඟින් මෙරටට පළාත් සභා ක්‍රමය හඳුන්වා දීමට ද ජනතා විමුක්ති පෙරමුණ විරෝධය පළ කර තිබුණි.
+The JVP has also opposed the introduction of the provincial council system to introduce the provincial council system to the Sri Lanka.
 
-සිය පක්ෂයට සාමාජිකයින් බඳවා ගැනීමේ දී සිදුකරන පන්ති පහ පැවැත්වීමේ දී ද ඉන්දීය ව්‍යාප්තවාදය සම්බන්ධයෙන් ඉගැන්වීමක් සිදුකළ බව වාර්තා වේ.
+It is reported that the Indian expansion has been taught in the five classes to recruit members to their party.
 
-...
+However, JVP leader Anura Kumara Dissanayake had previously stated that the national folk force was prepared to deal with India with a good vision.
+
+Anura Kumara Dissanayake has decided to contest as a candidate for the upcoming presidential election.
+
+◼️
 
 [Data](articles/bdcc40bb.json)
 
+[Extended Data](ext_articles/bdcc40bb.ext.json)
+
 ---
 
-### බෙලිඅත්තේ පංච පුද්ගල ඝාතනයට තවත් සැකකරුවෙක් කොටුවෙයි
+### Another suspect arrested for murder of Festival in Beliwatta
 
 *2024-02-05 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192982) · `si`
 
-බෙලිඅත්තේ දී පුද්ගලයින් 5 දෙනෙකු වෙඩිතබා ඝාතනය කිරීමේ සිදුවීමට තවත් සැකකරුවෙක් අත්අඩංගුවට ගෙන තිබේ.
+In Beliathe, five persons have been arrested for shot dead.
 
-පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේ, ඊයේ (04) අදාළ සැකකරුව මිනී මැරීමට ආධාර අනුබල දීමේ චෝදනාව මත මාතර කොට්ඨාස ළමා හා කාන්තා කාර්යාංශයේ නිලධාරීන් විස්න් හබරාදූවේ දී අත්අඩංගුවට ගෙන ඇති බවය.
+The police media division stated that the officials of the Matara Divisional Children's and Women's Bureau were arrested at Wisul Habaradunewa on charges of supporting the murder yesterday (04).
 
-එලෙස අත්අඩංගුවට පත්ව ඇත්තේ අවුරුදු 28ක් වූ කටුදම්පේ, රත්ගම ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The arrestedium is a resident of Rathgama, 28 years.
 
 ◼️
 
 [Data](articles/32ef9450.json)
+
+[Extended Data](ext_articles/32ef9450.ext.json)
 
 ---
 

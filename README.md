@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 12:02:47**
+As of **2024-02-05 12:17:14**
 
 ## Newspaper Stats
 
-*Scraped **4,864** Articles*
+*Scraped **4,874** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 59
 bbccomsinhala | 72
 dbsjeyarajcom | 137
-economynextcom | 257
+economynextcom | 260
 islandlk | 263
 dailyftlk | 280
-newsfirstlk | 293
-adalk | 419
-virakesarilk | 555
+newsfirstlk | 294
+adalk | 420
+virakesarilk | 557
 adaderanalk | 606
-tamilmirrorlk | 619
+tamilmirrorlk | 622
 adaderanasinhalalk | 623
 dailymirrorlk | 681
 
@@ -26,11 +26,141 @@ dailymirrorlk | 681
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,864 (100.0%) of 4,864 articles have been extended.
+4,864 (99.8%) of 4,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### சாந்தன் இலங்கைக்கு வர ஜனாதிபதி சம்மதம்
+
+*2024-02-05 12:05:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தன்-இலங்கைக்கு-வர-ஜனாதிபதி-சம்மதம்/175-332695) · `ta`
+
+ரஜீவ்காந்தி கொலை வழக்கில் கைது செய்யப்பட்டு விடுதலையானவர்களுள் ஒருவரான சாந்தனை இலங்கைக்கு அழைத்து வருவதற்கு ஜனாதிபதி ரணில் விக்ரமசிங்க சம்மதம் தெரிவித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+குறித்த விடயம் தொடர்பாக இன்று நடைபெற்ற அமைச்சரவை கூட்டத்தின் போது ஜனாதிபதி மற்றும் வெளிவிவகார அமைச்சர் ஆகியோருடன் அமைச்சர் டக்ளஸ் தேவானந்தா உரையாடிய நிலையிலேயே ஜனாதிபதியினால் மேற்படி சம்மதம் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/81b50fc0.json)
+
+---
+
+### மாணவர்கள்மீதான தாக்குதல்கள் இலங்கை  அரசின் கோரமுகத்தை  அம்பலப்படுத்துகின்றது -நாடு கடந்த தமிழீழ அரசின் கனடா உறுப்பினர்கண்டனம்
+
+*2024-02-05 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/175595) · `ta`
+
+இலங்கையின் சுதந்திரதினத்தன்று  கிளிநொச்சியில் அறவழியில் போராடிய மாணவர்கள் மற்றும் அரசியல் தலைவர்கள்மீது இலங்கை அரசின்  காவல்துறை மேற்கொண்ட அராஜகமான தாக்குதல் இலங்கை அரசின் கோரமுகத்தை மீண்டும் அம்பலப்படுத்தியுள்ளது. என கனடாவிலிருந்து நாடு கடந்த அரசாங்கத்தின் முன்னாள் அமைச்சர் நிமால் விநாயகமூர்த்தி கண்டனம் தெரிவித்துள்ளார்.
+
+ஸ்ரீலங்காவின் சுதந்திரதினத்தை புறக்கணிக்கும் விதமாகவும் அந் நாளை கரிநாளாக பிரகடனப்படுத்தியும் அமைதி வழியில் பேரணி சென்ற அரசியல் தலைவர்கள், மாணவர்கள், மக்கள்மீது மிகவும் கொடூரமான முறையில் ஸ்ரீலங்கா காவல்துறையினர் தாக்குதல் நடாத்தியுள்ளமை கண்டு புலம்பெயர் தேசமாக கடும் கண்டங்களை வெளியிடுகின்றோம்.
+
+ஸ்ரீலங்கா அரசு ஒரு ஜனநாயக அரசென்றால், ஸ்ரீலங்கா நாடு ஒரு ஜனநாயக நாடென்றால் இப்படியான தாக்குதல் சம்பவம் இடம்பெற்றிராது. போராட்டத்தில் ஈடுபட்ட மாணவர்கள்மீது கண்ணீர் குண்டு பிரயோகம் மேற்கொண்டு, நீர்தாரை தாக்குதலையும் தொடுத்திருந்ததுடன், அவர்கள்மீது கடுமையான தாக்குதல்களையும் ஸ்ரீலங்கா காவல்துறையினர் மேற்கொண்டுள்ளனர்.
+
+...
+
+[Data](articles/c5eee436.json)
+
+---
+
+### முட்டை ஒன்றின் விலை 58 ரூபாவாக உயர்ந்தது!
+
+*2024-02-05 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175594) · `ta`
+
+கடந்த சில வாரங்களுக்கு முன்னர் முட்டை ஒன்றின் விலை 40 ரூபாவாக குறைக்கப்பட்ட போதிலும் மீண்டும் ஒரு முட்டையின் விலை 58 ரூபாவாக உயர்வடைந்துள்ளது.
+
+தாம் ஒரு முட்டையை மொத்த விலையில் 60 ரூபாவுக்கு கொள்வனவு செய்வதாக  பேக்கரி உரிமையாளர்கள் கூறுகின்றனர். கோழிப்பண்ணை உரிமையாளர்களே இவ்வாறு முட்டை விலையை உயர்த்தியதாக முட்டை வியாபாரிகள்  தெரிவிக்கின்றனர்.
+
+இதேவேளை, இடைத்தரகர்கள் குழுவொன்றே  முட்டையின் விலையை அதிகரித்துள்ளதாக விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர தெரிவித்துள்ளார். வேகமாக அதிகரித்து வரும் முட்டை விலையைக்  கட்டுப்படுத்த எதிர்காலத்தில் சில நடவடிக்கை எடுக்க வேண்டும் என்றும் அமைச்சர் கூறினார்.
+
+◼️
+
+[Data](articles/819664dc.json)
+
+---
+
+### Seychelles authorities record statements from rescued Sri Lankan fishermen
+
+*2024-02-05 11:35:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/seychelles-authorities-record-statements-from-rescued-sri-lankan-fishermen/) · `en`
+
+COLOMBO (News 1st); Seychelles authorities have recorded statements from the Sri Lankan fishermen who were rescued from an armed group.
+
+The High Commission of Sri Lanka in Seychelles said the statements will be translated and forwarded to the Seychelles Police on Monday (05).
+
+Accordingly, their repatriation date will be announced over the next few days.
+
+The High Commission of Sri Lanka added the relevant fishermen are currently detained at a fisheries harbour in Seychelles.
+
+'Lorenzo Putha 4', left the port of Dikkowita on the 12th of January for its maiden voyage, with six fishermen on board.
+
+They are all residents of Marawila, Chilaw, and three of them are members of the same family.
+
+They were rescued by Seychelles security forces with the intervention of the Sri Lanka Navy.
+
+◼️
+
+[Data](articles/e5e4d29f.json)
+
+---
+
+### பூனம் பாண்டேவுக்கு 5 ஆண்டுகள் சிறை ?
+
+*2024-02-05 11:32:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பூனம்-பாண்டேவுக்கு-5-ஆண்டுகள்-சிறை/54-332691) · `ta`
+
+நடிகை பூனம் பாண்டே  கர்ப்பப்பை வாய் புற்றுநோய் காரணமாக காலமானதாக கடந்த 2 நாட்களுக்கு முன் செய்திகள் வெளியாகின. அடுத்த நாள் மர்ம மரணம் என மேலாளர் அறிவித்தார். அவருடைய தோழி பூனம் உயிருடன் இருந்ததாக பதிவிட்டார். இதனால் ரசிகர்கள் அதிர்ச்சியும், குழப்பமும் அடைந்தனர்.
+
+இந்த தகவல்களுக்கு முடிவு கட்டும் வகையில்   திடீரென பூனம் பாண்டே தனது இன்ஸ்டா  பக்கத்தில் தான் உயிருடன் இருப்பதாகவும், கர்ப்பப்பை வாய் புற்று நோய் குறித்த விழிப்புணர்வை ஏற்படுத்துவதற்காக இந்த செய்தியை வெளியிட்டதாகவும் பதிவு ஒன்றை வெளியிட்டார்.
+
+அத்துடன்  இந்த செய்தி யார் மனதையாவது பாதித்திருந்தால் மன்னிப்பு கேட்டுக் கொள்கிறேன் எனவும் குறிப்பிட்டிருந்தார்.  இந்த வீடியோவிற்கு சமூக வலைதளங்களில் பல்வேறு கருத்துகள் வெளியாகின.  நோய்க்குரிய விழிப்புணர்வை ஏற்படுத்துவதற்காக இவ்வாறு பொய் சொல்வது மட்டமான செயல் . சுய விளம்பரத்திற்காக செய்யும் பைத்தியக்காரத்தனம் எனவும்  நெட்டிசன்கள் விமர்சனம் செய்தனர்.
+
+...
+
+[Data](articles/680f5586.json)
+
+---
+
+### பிரேமதாஸ நிர்மாணித்த பாலம் இடிந்து விழுந்தது
+
+*2024-02-05 11:26:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/பிரேமதாஸ-நிர்மாணித்த-பாலம்-இடிந்து-விழுந்தது/93-332690) · `ta`
+
+முன்னாள் ஜனாதிபதியான மறைந்த  ரணசிங்க பிரேமதாஸவின் ஆட்சி காலத்தில் நிர்மாணிக்கப்பட்ட பாலங்களில் ஒன்று இடிந்து விழுந்துள்ளது.
+
+எம்பிலிபிட்டிய - மித்தெனிய வீதியில் ஹுலந்த ஓயாவின் குறுக்கே கும்புகொடர பிரதேசத்தில் நிர்மாணிக்கப்பட்ட பாலமே  இடிந்து விழுந்துள்ளது. இதனால் போக்குவரத்து ஸ்தம்பிதமடைந்துள்ளது.
+
+திங்கட்கிழமை (05) காலை 6.30 மணி முதல் 7.30 மணிக்குள் மரக்கட்டை ஏற்றிச் சென்ற லொரியால் இந்த சம்பவம் நடந்துள்ளது.
+
+மரக்குற்றிகளை ஏற்றிச் சென்ற பாரவூர்தி இன்று (05) காலை பாலத்தின் ஊடாகச் சென்ற நிலையில் குறித்த பாலம் இடிந்து வீழ்ந்துள்ளதோடு பாரவூர்தி ஓடையில் வீழ்ந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இதன்போது யாருக்கும் காயம் ஏற்படவில்லை என தெரிவிக்கப்பட்டுள்ளது. இந்த நிலையில் பாலம் இடிந்து வீழ்ந்தமையினால் எம்பிலிப்பிட்டியவில் இருந்து மாத்தறை, பெலியத்த , தங்காலை நோக்கிக் செல்லும் வாகனங்களுக்குக் பாதிப்பு ஏற்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/5d5ea64a.json)
+
+---
+
+### For a former member of the Municipal Council, the former member of the Municipal Council requested the President
+
+*2024-02-05 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175592) · `ta`
+
+Former United National Party Colombo Municipal Council Member Elbert Sampath has said that the President should take steps to suspend the increase in 10 thousand rupees for good deeds in the border of Colombo Municipal Council.
+
+This was stated in a letter sent to President Ranil Wickremesinghe in this regard.
+
+The decision of the Commissioner of Colombo Municipal Council to increase the massive fee for goodwill. Therefore, steps should be taken to prevent the tariff increase.
+
+The Colombo Municipal Council has been charged only 1,500 rupees. However, it has increased to 10 thousand rupees and the fee of 5 thousand rupees has been increased to 20 thousand rupees.
+
+With the massive economic crisis of the people, this massive increase is a move to make people more difficult.
+
+Therefore, I urge the people of the city to take steps to take advantage of this request, stop the tariff increase and take good action for the existing fee.
+
+...
+
+[Data](articles/2c2639d6.json)
+
+[Extended Data](ext_articles/2c2639d6.ext.json)
+
+---
 
 ### Several roads in Colombo to be temporarily closed from today
 
@@ -52,27 +182,27 @@ Roads in the vicinity of the Rotunda Gardens junction and Perahera Mawatha will 
 
 ---
 
-### For a former member of the Municipal Council, the former member of the Municipal Council requested the President
+### China announces execution for Australian writer
 
-*2024-02-05 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175592) · `ta`
+*2024-02-05 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175590) · `ta`
 
-Former United National Party Colombo Municipal Council Member Elbert Sampath has said that the President should take steps to suspend the increase in 10 thousand rupees for good deeds in the border of Colombo Municipal Council.
+China has imposed an adjournment of Australian writer Yang Hengjun, who was arrested on a spying charge in China.
 
-This was stated in a letter sent to President Ranil Wickremesinghe in this regard.
+Australian officials said the execution could be converted into life imprisonment two years later.
 
-The decision of the Commissioner of Colombo Municipal Council to increase the massive fee for goodwill. Therefore, steps should be taken to prevent the tariff increase.
+Yang has rejected the allegations that China has reported on affairs.
 
-The Colombo Municipal Council has been charged only 1,500 rupees. However, it has increased to 10 thousand rupees and the fee of 5 thousand rupees has been increased to 20 thousand rupees.
+Australian Foreign Minister Benivong said in a statement that all Australians want to join Yang with his family.
 
-With the massive economic crisis of the people, this massive increase is a move to make people more difficult.
+His writings, formerly known as Yang, who had worked at the Ministry of State Security in China, were called a democratic kidnapper, avoiding direct criticism of the government.
 
-Therefore, I urge the people of the city to take steps to take advantage of this request, stop the tariff increase and take good action for the existing fee.
+He was subsequently investigated behind the closed doors - a secret hearing in 2021.
 
-...
+◼️
 
-[Data](articles/2c2639d6.json)
+[Data](articles/1e684089.json)
 
-[Extended Data](ext_articles/2c2639d6.ext.json)
+[Extended Data](ext_articles/1e684089.ext.json)
 
 ---
 
@@ -95,30 +225,6 @@ The police said that his physical examination was to be carried out in the prese
 [Data](articles/38d04913.json)
 
 [Extended Data](ext_articles/38d04913.ext.json)
-
----
-
-### China announces execution for Australian writer
-
-*2024-02-05 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175590) · `ta`
-
-China has imposed an adjournment of Australian writer Yang Hengjun, who was arrested on a spying charge in China.
-
-Australian officials said the execution could be converted into life imprisonment two years later.
-
-Yang has rejected the allegations that China has reported on affairs.
-
-Australian Foreign Minister Benivong said in a statement that all Australians want to join Yang with his family.
-
-His writings, formerly known as Yang, who had worked at the Ministry of State Security in China, were called a democratic kidnapper, avoiding direct criticism of the government.
-
-He was subsequently investigated behind the closed doors - a secret hearing in 2021.
-
-◼️
-
-[Data](articles/1e684089.json)
-
-[Extended Data](ext_articles/1e684089.ext.json)
 
 ---
 
@@ -201,6 +307,24 @@ One died in accident and the injured were transferred to the Kalpitiya hospital 
 [Data](articles/fa1d20a1.json)
 
 [Extended Data](ext_articles/fa1d20a1.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 312.30/70 to the US dollar
+
+*2024-02-05 10:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-312-30-70-to-the-us-dollar-149871/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 312.30/70 to the US dollar Monday, from 313.25/50 a day earlier, dealers said.
+
+A bond maturing on 01.02.2026 was quoted at 11.95/12.05 down from 12.00/15 percent Friday.
+
+A bond maturing on 15.09.2027 was quoted at 12.45/55 down form 12.65/72 percent.
+
+A bond maturing on 01.07.2028 was quoted at 12.70/78. (Colombo/Feb5/2024)
+
+◼️
+
+[Data](articles/2584f60f.json)
 
 ---
 
@@ -301,6 +425,20 @@ However, no casualties have been reported thus far, while motorists have been ur
 [Data](articles/580463b1.json)
 
 [Extended Data](ext_articles/580463b1.ext.json)
+
+---
+
+### කුබුගොඩආර හුලංදාඔය පාලම කඩා වැටෙයි
+
+*2024-02-05 10:29:45* · [`adalk`](https://www.ada.lk/picture_story/කුබුගොඩආර-හුලංදාඔය-පාලම-කඩා-වැටෙයි/10-407901) · `si`
+
+ඇඹිලිපිටිය තෝරකොලයාය හරහා මිද්දෙණිය ප්‍රධාන මාර්යේ කුබුගොඩආර හුලංදාඔය පාලම ලොරියක් සමග අද පෙරවරුවේ කඩා ඇත.
+
+ඇත විකල්ප මාර්ගයක් ලෙස කදුරැගස්ආර මාර්ගය බාවිතා කල හැකිය. 1985 පැවැති ඇබිලිපිටිය ගමි උදාවට සමගාමීව මෙය ඉදිකරන ලද්දකි.
+
+◼️
+
+[Data](articles/5635e0a7.json)
 
 ---
 
@@ -770,6 +908,24 @@ The victim was a resident of the Ratnapura area, police said.
 
 ---
 
+### Sri Lanka private credit surge Rs97bn in Dec 2023
+
+*2024-02-05 07:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-credit-surge-rs97bn-in-dec-2023-149846/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s private credit to businesses and individuals surged in December 2023 97.5 billion rupees from 62.5 billion rupees a month earlier, official data shows as bank loans continue a positive trend.
+
+Sri Lanka’s private credit became negative around June 2022 after rates were hiked in April and intervention using Indian ACU balances also ended a little later, allowing the economy to adjust to market linked inflows.
+
+Countries usually go through a period of de-leveraging or a recession when stabilization policies are applied after a central bank mis-target rates with inflationary open market operations, and fires credit beyond deposits available in the banking system.
+
+In countries with floating exchange rates with positive inflation targets, where balance of payments problems in the form of forex shortages do not take place, long periods of mis-targeted rates with reverse repo operations end up in housing or asset price bubbles.
+
+...
+
+[Data](articles/fd83dafe.json)
+
+---
+
 ### Operation ‘Yukthiya’: 667 more suspects arrested within 24 hours
 
 *2024-02-05 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97008/operation-yukthiya-667-more-suspects-arrested-within-24-hours) · `en`
@@ -959,6 +1115,22 @@ The arrestedium is a resident of Rathgama, 28 years.
 [Data](articles/32ef9450.json)
 
 [Extended Data](ext_articles/32ef9450.ext.json)
+
+---
+
+### Sri Lanka transfers balance CPC forex crisis bank debt to government
+
+*2024-02-05 06:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-transfers-balance-cpc-forex-crisis-bank-debt-to-government-149823/) · `en`
+
+ECONOMYNEXT – Sri Lanka has transferred the balance remaining of Ceylon Petroleum Corporation bank debt to the central government, official data shows, as part of restructuring state enterprise balance sheets under an International Monetary Fund program
+
+State-run banks gave over loans to the Ceylon Petroleum Corporation as forex shortages emerged from inflationary rate cuts (rates suppressed with reverse repo operations or sterilized dollar sales interventions).
+
+In December 2023 credit to state corporations went down by 350 billion rupees to 769.8 billion rupees (about a billion US dollars) while credit to government, which includes new debt taken (mostly to roll over interest), went up 562.5 billion rupees to 8,285 million dollars, central bank data showed.
+
+...
+
+[Data](articles/f5fd6374.json)
 
 ---
 
@@ -1775,195 +1947,5 @@ Two of his catastrophic decisions were giving a tax to the tune of around Rs 600
 [Data](articles/7a5703cd.json)
 
 [Extended Data](ext_articles/7a5703cd.ext.json)
-
----
-
-### Protest against Online Safety Act...
-
-*2024-02-04 18:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protest-against-Online-Safety-Act/110-276309) · `en`
-
-Former Minister Mervyn Silva and a group entered the Borella cemetery and held a protest against the Online Safety Act.
-
-◼️
-
-[Data](articles/1f52f171.json)
-
-[Extended Data](ext_articles/1f52f171.ext.json)
-
----
-
-### An unexpected attack from Afghanistan
-
-*2024-02-04 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192975) · `si`
-
-When the third day of the first Test match with Sri Lanka, the Afghan group scored one wicket.
-
-Ibrahim Zadran, who is in a unbeaten in an unbeaten, has scored 101 runs in 217 balls with 11 fours.
-
-Rahmat SHhah, who played a great innings to the Afghanistan, was playing a score of 46 runs in the first innings and five fours in the first innings.
-
-Noor Ali Zadran scored 47 runs while gunning 47 runs while he was able to guilty him with the wicket.
-
-Afghanistan scored only 198 marks for the first innings.
-
-Sri Lanka scored 439 runs for the loss of all wickets in their first innings.
-
-Accordingly, the Afghan group was 42 run over Sri Lanka in the end of the 3rd.
-
-◼️
-
-[Data](articles/d21ce845.json)
-
-[Extended Data](ext_articles/d21ce845.ext.json)
-
----
-
-### Appointment
-
-*2024-02-04 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175535) · `ta`
-
-This appointment of Daya Ratnayake has created controversy because he has to respond to the events of the war.
-
-Sarath Fonseka's question of whether Sajith Premadasa is trying to create a close with Gotabhaya Rajapaksa, and the suspicion raised by Ambika Chakkunanathan on the position of the United People's Power on accountability.
-
-◼️
-
-[Data](articles/53a8cc70.json)
-
-[Extended Data](ext_articles/53a8cc70.ext.json)
-
----
-
-### Today is the 20th birthday
-
-*2024-02-04 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192974) · `si`
-
-Facebook's Social Media Network is for 20 years on Facebook Social Media Network.
-
-In February 4, 2004, the origin of the face of the world was the origin of the world.
-
-Squerberg may not think that Facebook is so popular in the world that he created by the goal of the man's welfare.
-
-However, this is a special conversation in this regard, however, has a special conversation with the founder of the United States Senate.
-
-For the extent there is the best measure of the founder of its Creator's apology.
-
-There he apologized for the damage caused by Facebook.
-
-In addition to Facebook, many social media columns have been created by now and Facebook excelled as a turning point in digital world.
-
-◼️
-
-[Data](articles/02720b16.json)
-
-[Extended Data](ext_articles/02720b16.ext.json)
-
----
-
-### Finland election and World War II?
-
-*2024-02-04 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175537) · `ta`
-
-It is only true that whoever chooses to be intervened in the 6 years of his next. Rumors have begun to emerge in the West that Russia can invade other foreign countries if it won the Ukraine war.
-
-With Finland's recent closure of its borders with Russia in order to control refugees entering Europe, will Russia's continuing reactions lead to another conflict?If Russia clashes with a NATO -backed country, will it be a third world war?Will the world bear such a war?
-
-These are unanswered questions until now. But it is only true that in this case, the newly elected head of state in Finland should be involved.
-
-◼️
-
-[Data](articles/102468cd.json)
-
-[Extended Data](ext_articles/102468cd.ext.json)
-
----
-
-### Homeland integrity is important
-
-*2024-02-04 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175539) · `ta`
-
-It is good that he does not descend into electoral politics as the general secretary has to work on the party's administration. JVP. In that order. There, its secretary Rilvin Silva does not contest the election.
-
-It is better to re -discuss the election and choose the unanimously with no competitions. If the competition is inevitable, it is healthy to be chosen by a secret vote as the leader. Homeland integrity is more important than the election here. Eastern Site. Any effort and any effort will be serving great philosophy.
-
-◼️
-
-[Data](articles/097e4717.json)
-
-[Extended Data](ext_articles/097e4717.ext.json)
-
----
-
-### Namibia’s President Hage Geingob dies after cancer diagnosis
-
-*2024-02-04 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97001/namibias-president-hage-geingob-dies-after-cancer-diagnosis) · `en`
-
-Namibia’s President Hage Geingob, 82, died in hospital early on Sunday, the presidency said, weeks after he was diagnosed with cancer.
-
-Geingob had been in charge of the thinly populated and mostly arid southern African country since 2015, the year he announced he had survived prostate cancer.
-
-Vice President Nangolo Mbumba takes the helm in Namibia - a mining hotspot with significant deposits of diamonds and the electric car battery ingredient lithium - until presidential and parliamentary elections at the end of the year.
-
-A presidency post on social media platform X did not give a cause of death, but late last month the presidency said he had travelled to the United States for “a two-day novel treatment for cancerous cells”, after being diagnosed following a regular medical check-up.
-
-Born in 1941, Geingob was a prominent politician since before Namibia achieved independence from white minority-ruled South Africa in 1990.
-
-...
-
-[Data](articles/e79cf89b.json)
-
-[Extended Data](ext_articles/e79cf89b.ext.json)
-
----
-
-### Jaffna  Youth Congress was the First to Demand “Poorana Swaraj”( Complete Self-Rule) For Ceylon/SriLanka From  Britain.
-
-*2024-02-04 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83550) · `en`
-
-Sri Lanka known formerly as Ceylon gained independence from British rule on 4 February 1948. The Island nation celebrates the 76th anniversary of her “tryst with destiny” on Sunday. Events marking freedom day festivity are scheduled for the week-end.
-
-Even as the greater part of the Island is enveloped in a melodious mood, a discordant note is struck in the Tamil dominated Northern province and  the  Tamil Majority Eastern Province. The Jaffna University Students Union and organizations representing the families of disappeared persons have proclaimed 4 February 2024 as a ”Kari Naal”( black or dark day) and declared it as a day of mourning.
-
-It has been announced that “Kavana Eerppu Poaraattangal”(Attention drawing demonstrations)would be held in the five districts of the  North and three districts of the east. Several  Sri Lankan Tamil nationalist parties and civil society organizations have endorsed and lent support  to the call for observing freedom day as a black day.
-
-...
-
-[Data](articles/30eff12a.json)
-
-[Extended Data](ext_articles/30eff12a.ext.json)
-
----
-
-### Debt and deposit interest rates to be reduced again?
-
-*2024-02-04 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/175556) · `ta`
-
-If Sri Lanka is to become a developed country in 2048, Sri Lanka must register 7.8 percent of the economic growth annually by Harsha D. Harsha D.. Says Silva.
-
-So if the country is to increase economic growth in the coming years, it is necessary to increase the products. Bank interest rates should be further reduced. People need to get more debts. This means that private loans are necessary. To make investments through it. The keys and lock are. It is important to properly open.
-
-◼️
-
-[Data](articles/245ffb17.json)
-
-[Extended Data](ext_articles/245ffb17.ext.json)
-
----
-
-### The US will deepen maritime economic ties with Sri Lanka - Antony Blinken in the news for Independence Day
-
-*2024-02-04 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/175560) · `ta`
-
-US Secretary of State Antony Blinken says the US will deepen maritime economic ties with Sri Lanka.
-
-Strong joints between Sri Lanka and the United States are based on shared values and dedication to democracy, such as independent Indo Pacific, Antony Blinken, our relationship is based on the safety cooperation of our relationship, and that education is based on trade and investment, as well as the relations of the people who are raised by science.
-
-He said that in the coming years, we will resort to economic maritime relations with Sri Lanka in the coming years, he said.
-
-◼️
-
-[Data](articles/f9e8cbc3.json)
-
-[Extended Data](ext_articles/f9e8cbc3.ext.json)
 
 ---

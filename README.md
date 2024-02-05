@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 18:20:30**
+As of **2024-02-05 18:32:56**
 
 ## Newspaper Stats
 
-*Scraped **4,951** Articles*
+*Scraped **4,959** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 263
 dailyftlk | 280
 newsfirstlk | 302
 adalk | 426
-virakesarilk | 565
+virakesarilk | 572
 adaderanalk | 615
-tamilmirrorlk | 627
+tamilmirrorlk | 628
 adaderanasinhalalk | 641
 dailymirrorlk | 700
 
@@ -26,7 +26,7 @@ dailymirrorlk | 700
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,947 (99.9%) of 4,951 articles have been extended.
+4,951 (99.8%) of 4,959 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,22 @@ On 09 July 2022, then-Prime Minister Wickremesinghe’s private residence in Cin
 ◼️
 
 [Data](articles/ef0f51e0.json)
+
+[Extended Data](ext_articles/ef0f51e0.ext.json)
+
+---
+
+### சாந்தன் விவகாரம் ;  அமைச்சரவையில் பிரஸ்தாபித்தார் டக்ளஸ்
+
+*2024-02-05 17:42:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தன்-விவகாரம்-அமைச்சரவையில்-பிரஸ்தாபித்தார்-டக்ளஸ்/175-332718) · `ta`
+
+முன்னாள் இந்தியப் பிரதமர் ரஜீவ்காந்தி கொலை தொடர்பில் கைது செய்யப்பட்டு விடுதலையானவர்களுள் ஒருவரான சாந்தனை  இலங்கைக்கு அழைத்து வருவதற்கு சம்மதம் தெரிவித்துள்ள ஜனாதிபதி ரணில் விக்கிரமசிங்க தேவையான ஏற்பாடுகளை செய்வதற்கும் இணக்கம் தெரிவித்துள்ளார்.
+
+குறித்த விடயம் தொடர்பாக திங்கட்கிழமை (05) நடைபெற்ற அமைச்சரவை கூட்டத்தின் போது ஜனாதிபதி மற்றும் வெளிவிவகார அமைச்சர் ஆகியோருடன் அமைச்சர் டக்ளஸ் தேவானந்தா பிரஸ்தாபித்த நிலையிலேயே ஜனாதிபதியினால் சம்மதம் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/dda13048.json)
 
 ---
 
@@ -66,6 +82,24 @@ The ‘India Energy Week’ conference will be held from 06 to 09 February in Go
 
 ---
 
+### கடந்த தேர்தலில் மூன்றுவீதம் பெற்ற கட்சி இம்முறை ஐம்பது வீதம் பெறும் கனவுடன் - ஹரீன் பெர்ணான்டோ
+
+*2024-02-05 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175647) · `ta`
+
+உயிராபத்தை ஏற்படுத்தக்கூடிய நோயினால் பாதிக்கப்பட்டுள்ள நோயாளியின் நிலையில் உள்ள நாட்டிற்கு ரணில்விக்கிரமசிங்கவே சிறந்த மருத்துவர் என அமைச்சர் ஹரீன்பெர்ணான்டோ தெரிவித்துள்ளார்
+
+ஜனாதிபதி தேர்தல் இந்த வருடம் ஒக்டோபர் மாதம் முதல் வாரத்தில் நடைபெறவேண்டும் என தெரிவித்துள்ள அமைச்சர் 14ம் திகதிக்குள் புதிய ஜனாதிபதி பதவியேற்கவேண்டும் எனவும் தெரிவித்துள்ளார்.
+
+கடந்த முறை தேர்தலில் மூன்றுவீதம் மாத்திரம் பெற்ற கட்சி இம்முறை மேலும் 47 வீதம் பெறவேண்டும் இது ஒருகனவு எனவும் தெரிவித்துள்ள ஹரீன்பெர்ணான்டோ அவர்கள் அந்த கனவில் திளைத்திருப்பதற்கு அனுமதிப்பது சிறந்த விடயம் ஆனால் கனவுகள் ஒருபோதும் நிஜமாவதில்லை எனவும் குறிப்பிட்டுள்ளார்.
+
+வங்குரோத்து நிலையில் காணப்பட்ட தேசத்திற்கு குறுகிய காலத்தில் உயிர்கொடுத்தவர் ஜனாதிபதி ரணில்விக்கிரமசிங்க என்பதால் தேசத்தை கட்டியெழுப்புவதற்கு அவருக்கு மீண்டும் ஒரு வாய்ப்பை வழங்கவேண்டும் எனவும் ஹரீன்பெர்ணான்டோ தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/a5b75836.json)
+
+---
+
 ### TISL slams “outrageous” passage of Online Safety Act
 
 *2024-02-05 17:13:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/tisl-slams-outrageous-passage-of-online-safety-act/) · `en`
@@ -83,6 +117,8 @@ Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
 ...
 
 [Data](articles/32489cd3.json)
+
+[Extended Data](ext_articles/32489cd3.ext.json)
 
 ---
 
@@ -106,6 +142,20 @@ The Minister also pointed out that the computer resource centers established in 
 
 ---
 
+### சாந்தன் விவகாரம் அமைச்சரவையிலும் பேச்சு
+
+*2024-02-05 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/175639) · `ta`
+
+முன்னாள் இந்தியப் பிரதமர் ரஜீவ்காந்தி கொலை தொடர்பில் கைது செய்யப்பட்டு விடுதலையானவர்களுள் ஒருவரான சாந்தனை இலங்கைக்கு அழைத்து வருவதற்கு சம்மதம் தெரிவித்துள்ள ஜனாதிபதி ரணில் விக்கிரமசிங்க தேவையான ஏற்பாடுகளை செய்வதற்கும் இணக்கம் தெரிவித்துள்ளார் என தெரிவிக்கப்படுகிறது.
+
+குறித்த விடயம் தொடர்பாக இன்று திங்கட்கிழமை (05) நடைபெற்ற அமைச்சரவை கூட்டத்தின் போது ஜனாதிபதி மற்றும் வெளிவிவகார அமைச்சர் ஆகியோருடன் அமைச்சர் டக்ளஸ் தேவானந்தா பிரஸ்தாபித்த நிலையிலேயே ஜனாதிபதியினால் சம்மதம் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/46943ebe.json)
+
+---
+
 ### Sanath Nishantha’s driver granted bail
 
 *2024-02-05 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97020/sanath-nishanthas-driver-granted-bail-) · `en`
@@ -125,6 +175,24 @@ Following the fatal collision, three injured persons, including the State Minist
 [Data](articles/ad0d500b.json)
 
 [Extended Data](ext_articles/ad0d500b.ext.json)
+
+---
+
+### யாழ். வட்டுக்கோட்டை பொலிஸாரினால் யாழ்.பல்கலை மாணவன் சித்திரவதை - மனிதவுரிமை ஆணைக்குழுவில் முறைப்பாடு
+
+*2024-02-05 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/175635) · `ta`
+
+யாழ்ப்பாணம் வட்டுக்கோட்டை பொலிஸ் நிலையத்தில் உள்ள இரகசிய அறையில் வைத்து, தன்னை தலைகீழாக தூக்கி, அடித்து சித்திரவதைக்கு உள்ளாகியுள்ளதாக யாழ். பல்கலைக்கழக மாணவன் மனிதவுரிமை ஆணைக்குழுவில் முறைப்பாடு செய்துள்ளார்.
+
+மனிதவுரிமை ஆணைக்குழுவின் யாழ்ப்பாண பிராந்திய அலுவலகத்தில் , பல்கலைக்கழக மாணவனான கருணாகரன் நிதர்சன் எனும் மாணவன் இன்று திங்கட்கிழமை (05) முறைப்பாடு பதிவு செய்துள்ளார்.
+
+வட்டுக்கோட்டை மாவடி பகுதியில் பொலிஸ் உத்தியோகஸ்தர் ஒருவர் தன்னை வழிமறித்து , தான் மறிக்கும் போது ஏன் மோட்டார் சைக்கிளை நிறுத்தவில்லை என என்னுடன் முரண்பட்டார்.
+
+அதற்கு நான் நீங்கள் மறித்ததை கவனிக்கவில்லை. என கூறி, ஆவணங்கள் அனைத்தும் என்னிடம் உள்ளன, என அவற்றை எடுத்து கொடுத்த போது, அதனை வாங்காது, மேலதிக பொலிஸார் அவ்விடத்திற்கு வரவழைத்தார்.
+
+...
+
+[Data](articles/1c7e2562.json)
 
 ---
 
@@ -190,6 +258,8 @@ One location reportedly houses 8 youths near the Moi River which located closed 
 
 [Data](articles/42be6298.json)
 
+[Extended Data](ext_articles/42be6298.ext.json)
+
 ---
 
 ### Chascope for anyone unexpectedly unearthed down in Beliatta
@@ -213,6 +283,82 @@ The police were also arrested by the police, who were transporting firearms, and
 [Data](articles/a64419ea.json)
 
 [Extended Data](ext_articles/a64419ea.ext.json)
+
+---
+
+### நிகழ்நிலைக் காப்புச் சட்டம் உள்ளிட்ட பல விடயங்களை இந்திய உயர்ஸ்தானிகருக்கு விளக்கினார் எதிர்க்கட்சித் தலைவர் சஜித்
+
+*2024-02-05 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175627) · `ta`
+
+நிகழ்நிலைக் காப்புச் சட்டம் உள்ளிட்ட பல விடயங்கள் தொடர்பாக இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவுக்கு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ விளக்கமளித்துள்ளார்.
+
+இந்தியாவின் இலங்கைக்கான புதிய உயர்ஸ்தானிகராக நியமிக்கப்பட்டுள்ள சிரேஷ்ட இராஜதந்திரியான ஸ்ரீ சந்தோஷ் ஜா (Santosh Jha) மற்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச ஆகியோருக்கு இடையிலான சந்திப்பொன்று அண்மையில் எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் இடம்பெற்றது.
+
+இரு நாடுகளுக்கும் இடையே நீண்ட காலமாக நிலவிவரும் சமூக, பொருளாதார மற்றும் அரசியல் விவகாரங்களுடன் தொடர்பான பல்வேறு விடயங்களை இருவரும் பரிமாறிக்கொண்டனர்.
+
+தற்போதைய அரசாங்கம் கொண்டு வந்துள்ள சட்டவிரோத மற்றும் நியாயமற்ற வரிக் கொள்கை குறித்த விடயங்களை எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இந்திய உயர்ஸ்தானிகருக்கு தெரியப்படுத்தினார்.
+
+...
+
+[Data](articles/cb23c859.json)
+
+---
+
+### கெஹெலிய படுகொலையில் ஈடுபட்டுள்ளார் - அவருக்கு வழங்கப்படும் தண்டனை அரசியல்வாதியொருவருக்கு வழங்கப்பட்ட சிறந்த தண்டனையாக அமையவேண்டும் - ஜனக ரத்நாயக்க
+
+*2024-02-05 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175631) · `ta`
+
+முன்னாள் சுகாதார அமைச்சர் கெஹெலிய ரம்புக்வெலவின் இம்யுனோகுளோபுளின்   மோசடி ஒரு படுகொலை நடவடிக்கை என பொதுப்பயன்பாட்டு ஆணைக்குழுவின் முன்னாள் தலைவர் ஜனகரத்நாயக்க  தெரிவித்துள்ளார்.
+
+முன்னாள் சுகாதார அமைச்சருக்கு எதிராக சுமத்தப்பட்டுள்ள தரம்குறைந்த இம்யுனோகுளோபுளினை இறக்குமதி செய்தார் என்ற குற்றச்சாட்டு சுமத்தப்பட்டுள்ள நிலையில் அமைச்சர் மோசடியில் ஈடுபட்டுள்ளார் படுகொலையில் ஈடுபட்டுள்ளார் எனகருதவேண்டும் என அவர் குறிப்பிட்டுள்ளார்.
+
+அமைச்சர் உரிய நடைமுறைகளை பின்பற்றாமல் மருந்துகளை இறக்குமதிசெய்துள்ளதுடன் நாட்டின் அப்பாவி மக்களிற்கு அவற்றை வழங்கியுள்ளார் என ஜனகரத்நாயக்க தெரிவித்துள்ளார்.
+
+எத்தனை பேர் இதன்காரணமாக உயிரிழந்தனர் என்பது எங்களிற்கு தெரியாது ஆகவே இந்த விவகாரம் குறித்து நாங்கள் மேலும் ஆராயவேண்டும் இரண்டாம் உலக யுத்தத்தில் ஹிட்லரின் படுகொலைகள் போன்றது இது என கருதவேண்டும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+கெஹெலியவிற்கு வழங்கப்படும் தண்டனை இலங்கையில் அரசியல்வாதியொருவருக்கு வழங்கப்பட்ம மிகச்சிறந்த தண்டனையாக இருக்கவேண்டும் எனவும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/37eaf031.json)
+
+---
+
+### இலஞ்சம், ஊழல்  தொடர்பில்  கைதானவர்களில் பெரும் எண்ணிக்கையானோர் பொலிஸ் அதிகாரிகள்!
+
+*2024-02-05 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175632) · `ta`
+
+இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவினால் வெளியிடப்பட்டுள்ள அறிக்கையின்படி, கடந்த வருடம் இலஞ்சம்,  ஊழல் குற்றச்சாட்டுக்கள் தொடர்பில் 3,431 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளன.
+
+இலஞ்சம் மற்றும் ஊழல் முறைப்பாடுகளுக்காக கைது செய்யப்பட்டவர்களில் பெரும் எண்ணிக்கையானோர் பொலிஸ் அதிகாரிகள் என்றும்   தெரிவித்துள்ளது.
+
+இந்த  முறைப்பாடுகளில் 2,789 முநைப்பாடுகள் விசாரணைக் குழுவிடம் சமர்ப்பிக்கப்பட்டுள்ளதாகவும் அந்த  அறிக்கை சுட்டிக்காட்டியுள்ளது.
+
+◼️
+
+[Data](articles/483f49b7.json)
+
+---
+
+### பனை, தென்னை வள சங்க முகாமையாளரின் தாக்குதலுக்கு இலக்கான சீவல் தொழிலாளி ஒருவர் உயிரிழப்பு
+
+*2024-02-05 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175628) · `ta`
+
+யாழ்ப்பாணப்பாணத்தில் பனை, தென்னை வள சங்க முகாமையாளரின் தாக்குதலுக்கு இலக்கான சீவல் தொழிலாளி ஒருவர் உயிரிழந்துள்ளார்.
+
+கரவெட்டி வடக்கைச் சேர்ந்த வேலன் பிரேமதாஸா (வயது 54) என்பவரே வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் , சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+கடந்த 28ஆம் திகதி பனை தென்னை வள சங்கத்திற்கு தொழிலாளி சென்ற வேளை, முகாமையாளருடன் தர்க்கம் ஏற்பட்டதை அடுத்து, தொழிலாளி மீது முகாமையாளர் மூர்க்கதனமாக தாக்குதல் மேற்கொண்டுள்ளார்.
+
+அதனை அடுத்து வீடு திரும்பிய தொழிலாளி, சுகவீனமுற்ற நிலையில் 31ஆம் திகதி பருத்தித்துறை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்துள்ளார்.
+
+உயிரிழப்பை அடுத்து சட்ட வைத்திய அதிகாரியினால் மேற்கொள்ளப்பட்ட உடற்கூற்று பரிசோதனையில், கால் மற்றும் விலா எலும்புகளில் முறிவுகள் ஏற்பட்டு உள்ளமையும், அந்த முறிவுகளினால் ஏற்பட்ட கிருமி தொற்று காரணமாக நிமோனியா ஏற்பட்டு, உயிரிழப்பு சம்பவித்துள்ளது என அறிக்கையிடப்பட்டுள்ளது.
+
+அதனை தொடர்ந்து நெல்லியடி பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளதுடன், முகாமையாளரை கைது செய்வதற்கான நடவடிக்கையையும் முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/dc068078.json)
 
 ---
 
@@ -339,6 +485,8 @@ Nurses reported for duty in civilian attire instead of their official uniforms a
 ...
 
 [Data](articles/648b17a5.json)
+
+[Extended Data](ext_articles/648b17a5.ext.json)
 
 ---
 
@@ -1911,173 +2059,5 @@ However, no casualties have been reported thus far, while motorists have been ur
 [Data](articles/580463b1.json)
 
 [Extended Data](ext_articles/580463b1.ext.json)
-
----
-
-### Kubugodaara Hulanda Oya bridge collapses
-
-*2024-02-05 10:29:45* · [`adalk`](https://www.ada.lk/picture_story/කුබුගොඩආර-හුලංදාඔය-පාලම-කඩා-වැටෙයි/10-407901) · `si`
-
-The Kubugodaara Hulanadda Oya Bridge this morning has been collapsed along the Destroge.
-
-There may be the Kadagasara road as an alternative route. It was built in conjunction with the Ebilipitiya village garment in 1985.
-
-◼️
-
-[Data](articles/5635e0a7.json)
-
-[Extended Data](ext_articles/5635e0a7.ext.json)
-
----
-
-### Sri Lanka should switch to new leadership - Cardinal Malcolm Ranjith
-
-*2024-02-05 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175583) · `ta`
-
-Pointing out the differences in the approach to Singapore and Sri Lanka after independence, he said that the unity of Singapore and the welfare of his people has been strongly condemned by the leadership of Sri Lanka's leadership.
-
-He praised Singapore's strong legal and noted that it is important to morality.
-
-He said that the Sri Lankan government is carrying out a selfish agenda and provides priority to the welfare of the nation than the welfare of the nation.
-
-He said that the nation should be free from the clutches of the oppressive governance, and that Cardinal should elect the country and the people who love the country and the people who love the people.
-
-◼️
-
-[Data](articles/b1e2df30.json)
-
-[Extended Data](ext_articles/b1e2df30.ext.json)
-
----
-
-### Australian lecturer sentenced to death in China
-
-*2024-02-05 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192992) · `si`
-
-A Sri Lanka Court has been suspended by a Chinese court to a Australian court during a visit to China.
-
-Dr. Yang Hengjun was arrested five years ago by Chinese authorities, accusing spying.
-
-The punishment given to Hengjun, a bio editor, as well as the Chinese work veteran, is aimed at a life sentence in two years.
-
-The allegation sheet has not been published against him.
-
-The Australian government said the Chinese court order would be dismissed.
-
-◼️
-
-[Data](articles/cc84e5f7.json)
-
-[Extended Data](ext_articles/cc84e5f7.ext.json)
-
----
-
-### Three -wheeler accident in Kalpitiya;One kills;7 people injured
-
-*2024-02-05 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175580) · `ta`
-
-One person was killed in a vehicle accident on Sunday (04) at the Kurinjipitti area of Puttalam - Kalpitiya main road and seven others were injured.
-
-The accident occurred when a three -wheeler from the Kalpitiya area collided with a three -wheeler on his way to visit the Independence Day event in Puttalam.
-
-One of the five people sitting on the back of the three -wheeler from Kalpitiya died on the spot.
-
-Seven people who were traveling in two three -wheelers were injured and admitted to the Kalpitiya Resource Hospital and six others have been admitted to the Puttalam Hospital for further treatment.
-
-The body of the deceased in the accident was placed in the funeral room of the Puttalam Hospital, police said.
-
-The man who died in the accident belonged to the 67 -year -old Kalpitiya Mandalakkudabu area, police said.
-
-The video of the accident recorded on the mobile phone is being shared on social media.
-
-Kalpitiya police said they were continuing investigations into the incident.
-
-◼️
-
-[Data](articles/ad165853.json)
-
-[Extended Data](ext_articles/ad165853.ext.json)
-
----
-
-### 46 reported dead in Chile as forest fires move into densely populated central areas
-
-*2024-02-05 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97010/46-reported-dead-in-chile-as-forest-fires-move-into-densely-populated-central-areas) · `en`
-
-Intense forest fires burning around a densely populated area of central Chile have caused at least 46 deaths, Chile’s president said Saturday evening, and officials said at least 1,100 homes had been destroyed.
-
-In a nationally televised address, President Gabriel Boric warned that the death toll could worsen as four large fires burn in the region of Valparaiso, where firefighters have struggled to reach the most threatened neighborhoods.
-
-“If you are told to evacuate don’t hesitate to do it,” he said. “The fires are advancing fast and climatic conditions have made them difficult to control. There are high temperatures, strong winds and low humidity.”
-
-Interior Minister Carolina Tohá said earlier Saturday that 92 forest fires were burning in the center and south of the country, where temperatures have been unusually high this week.
-
-The deadliest of the fires were in the Valparaíso region, where authorities urged thousands of people to evacuate their homes.
-
-...
-
-[Data](articles/e1f3c0f3.json)
-
-[Extended Data](ext_articles/e1f3c0f3.ext.json)
-
----
-
-### There is no one-handed guy who didn't have a unborn job for constable
-
-*2024-02-05 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192991) · `si`
-
-A special investigation has been launched into the OIC of the Police OIC, who had sexually abused an amateur police constable.
-
-According to the Senior DIG in charge of the North Western Province, the Investigations are conducted by the Children's and Women's Bureau.
-
-The OIC of the Kalpitiya Police is said to have been charged with sexual harassment and financial issues.
-
-Accordingly, the Inspector of the Inspector of Police has taken steps to transfer the North Central Province to the North Central Province, but the Inspector of Police (IGP) had taken steps to climb the location on political pressure.
-
-Meanwhile, the OIC of the Kalpitiya has attempted to sexually abusing an amateur police constable in his police station recently.
-
-The Apprentice Constable of the incident has been instructed by the Acting Inspector General of North Western Province to investigate the incident.
-
-...
-
-[Data](articles/8b7fe13a.json)
-
-[Extended Data](ext_articles/8b7fe13a.ext.json)
-
----
-
-### The Duminda Silva Pardon
-
-*2024-02-05 09:57:36* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-duminda-silva-pardon/) · `en`
-
-The Attorney-General had indicted 13 persons on 17 counts including murder following the death of one Bharatha Lakshman Premachandra in 2012.  In September 2016, in the High Court of Colombo, at the conclusion of a Trial-at-Bar before three Judges, in a majority judgment, five accused were convicted of several offences including murder, and were sentenced to death on the charge of murder, and to life imprisonment and varying periods of imprisonment and fines on the other charges. Eight were acquitted.
-
-...
-
-[Data](articles/6b0c307d.json)
-
-[Extended Data](ext_articles/6b0c307d.ext.json)
-
----
-
-### 'Mines go to the mining work gone to cut the wood. I want to take the child to a good place. '
-
-*2024-02-05 09:42:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz9ewqz1rr2o) · `si`
-
-There is nothing here. Play Video, "'Go if the miningless lack of work goes on the wood. I want to get the kid to a good place. '"
-
-'Mines go to the mining work gone to cut the wood. I want to take the child to a good place. '
-
-Living in the Maoya Village of Maoya, Laggala, Matale
-
-Although she lost her husband as well as a shade of the head, she is working with men to feed their daughter six years old. During the mining days, the daughter was gone to the jungle and selling the heavy.
-
-"We have settled in a temporary place in a side of elephants, no lights. The owner of this land tell us to go. Only at night we cook. I'm thinking that if you have a good thing to teach, I think Iresha Sadali was told to BBC Sinhala.
-
-◼️
-
-[Data](articles/c75c4585.json)
-
-[Extended Data](ext_articles/c75c4585.ext.json)
 
 ---

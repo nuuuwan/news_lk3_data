@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 20:02:25**
+As of **2024-02-05 20:17:28**
 
 ## Newspaper Stats
 
@@ -26,43 +26,49 @@ dailymirrorlk | 705
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,973 (99.9%) of 4,978 articles have been extended.
+4,978 (100.0%) of 4,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
 
-### தனக்கெதிரான வழக்கை வாபஸ் பெறுமாறு கோருகிறார் பௌசி
+### Bowzi demands the withdrawal of the case against himself
 
 *2024-02-05 19:36:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனக்கெதிரான-வழக்கை-வாபஸ்-பெறுமாறு-கோருகிறார்-பௌசி/175-332722) · `ta`
 
-ஊழல் குற்றச்சாட்டில் தமக்கு எதிராக தாக்கல் செய்யப்பட்ட குற்றப்பத்திரிக்கையை திரும்ப பெறுமாறு இலஞ்ச ஊழல் ஆணைக்குழுவிடம் ஐக்கிய மக்கள் சக்தி (SJB) பாராளுமன்ற உறுப்பினர் ஏ.எச்.எம்.பௌசி கோரிக்கை விடுத்துள்ளார்.
+United People's Power (SJB) parliamentarian AHM Fouzi has asked the Bribery Commission to withdraw the indictment filed against him on corruption charges.
 
-பாராளுமன்ற உறுப்பினர் பௌசியின் சார்பில் ஆஜரான ஜனாதிபதி சட்டத்தரணி ஷவீந்திர பெர்னாண்டோ, குற்றப்பத்திரிகையை பேணக்கூடிய தன்மையைக் கருத்தில் கொண்டு அதனை திரும்ப பெறுமாறு இலஞ்ச ஊழல் ஆணைக்குழுவிடம் தனது சட்டத்தரணி ஊடாக கோரியுள்ளதாக நீதிமன்றில் அறிவித்தார்.
+President's Attorney -at -Law Shawindra Fernando, appearing on behalf of parliamentarian Pouzi, announced in court that he had requested the Bribery Commission to withdraw the charge sheet.
 
-2010 மற்றும் 2015 ஆம் ஆண்டு காலப்பகுதியில் அனர்த்த முகாமைத்துவ நிலையத்திற்கு சொந்தமான வாகனத்தை முறைகேடாக பயன்படுத்தியதன் மூலம் அரசாங்கத்திற்கு 1.07 மில்லியன் ரூபா சட்டவிரோதமான நஷ்டத்தை ஏற்படுத்தியதாக ஏ.எச்.எம்.பௌசிக்கு எதிராக இலஞ்ச ஊழல் ஆணைக்குழுவினால் இந்த வழக்கு தாக்கல் செய்யப்பட்டது
+The case was filed by the Bribery Commission against AHM Bouzi for allegedly misusing the vehicle belonging to the Disaster Management Center in 2010 and 2015
 
-கொழும்பு மேல்நீதிமன்ற நீதவான் நவரத்ண மாரசிங்க முன் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட பின் வழக்கு ஏப்ரல் 29 ஆம் திகதிக்கு ஒத்திவைக்கப்பட்டது.
+The case was adjourned to April 29 after the Colombo High Court Magistrate Navaratna Marasinghe was taken up before the hearing.
+
+The Director General of the Commission to Investigate Bribery or Corruption has filed a case against the accused under Section 70 of the Bribery Act under four charges.
 
 ...
 
 [Data](articles/5c9bcb75.json)
 
+[Extended Data](ext_articles/5c9bcb75.ext.json)
+
 ---
 
-### ஜனாதிபதியின் வீடு எரிப்பு - ஆசிரியர் கைது
+### President's house burning - teacher arrested
 
 *2024-02-05 19:36:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-வீடு-எரிப்பு-ஆசிரியர்-கைது/175-332721) · `ta`
 
-கொள்ளுப்பிட்டியில் உள்ள ஜனாதிபதியின் தனிப்பட்ட இல்லம் எரிக்கப்பட்ட சம்பவம் தொடர்பில் மற்றுமொரு சந்தேகநபரை குற்றப் புலனாய்வுப் பிரிவினர் கைது செய்துள்ளனர்.
+Another suspect has been arrested by the Criminal Investigation Department in connection with the burning of the President's personal residence in Kalupitiya.
 
-கைது செய்யப்பட்ட சந்தேக நபர் தனியார் மேலதிக வகுப்புகளை நடத்தும் ஆசிரியர் என தெரியவந்துள்ளது.
+The arrested suspect has been revealed as a teacher who conducts private classes.
 
-இதேவேளை குறித்த சம்பவம் தொடர்பில் இதற்கு முன்னரும் ஒருவர் கைது செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+Meanwhile, one person has been arrested in connection with the incident.. Remble
 
 ◼️
 
 [Data](articles/18918b7f.json)
+
+[Extended Data](ext_articles/18918b7f.ext.json)
 
 ---
 
@@ -82,23 +88,27 @@ It will then focus on kick-starting major infrastructure projects suspended duri
 
 [Data](articles/d1d9b531.json)
 
+[Extended Data](ext_articles/d1d9b531.ext.json)
+
 ---
 
-### ஜூன் மாதத்திற்குள் டிஜிட்டல் மயமாக்கப்படும் பாடசாலைகள்
+### Digitalized schools by June
 
 *2024-02-05 19:29:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜூன்-மாதத்திற்குள்-டிஜிட்டல்-மயமாக்கப்படும்-பாடசாலைகள்/175-332720) · `ta`
 
-எதிர்வரும் ஜூன் மாதத்திற்குள் இலங்கையில் உயர்தரத்துடன் கூடிய பாடசாலைகள் டிஜிட்டல் மயமாக்கப்படும் என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்துள்ளார்.
+Minister of Education Susil Premajayantha said that high -quality schools in Sri Lanka will be digitized by June.
 
-யாழ்ப்பாணம் இந்து வித்தியாலயத்தில் இன்று (05) இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்ட போதே அமைச்சர் இவ்வாறு தெரிவித்தார்.
+The Minister said this while attending an event held at the Jaffna Hindu Vidyalaya today (05).
 
-இதன்படி, புதிய தொழில்நுட்பத்தின் மூலம் பிள்ளைகள் நேரடியாக கல்வியைத் தொடர சந்தர்ப்பம் வழங்கப்படும் எனவும் அமைச்சர் மேலும் தெரிவித்தார்.
+Accordingly, the new technology will be given the opportunity to continue their education directly.
 
-நாட்டில் உள்ள 3,000 உயர்தர பாடசாலைகள் டிஜிட்டல் மயமாக்கப்படும் என்றும் ஆசிரியர்களுக்கான பயிற்சி வரும் மார்ச் மாதம் முதல் தொடங்கப்படும் என்றும் அமைச்சர் கூறினார். R
+The Minister said that 3,000 high schools in the country will be digitized and training for teachers will be launched from March.. Remble
 
 ◼️
 
 [Data](articles/a7230100.json)
+
+[Extended Data](ext_articles/a7230100.ext.json)
 
 ---
 
@@ -123,6 +133,8 @@ He has also functioned as the assistant coach on tours for the Australia ‘A’
 ...
 
 [Data](articles/9b9bc5e6.json)
+
+[Extended Data](ext_articles/9b9bc5e6.ext.json)
 
 ---
 

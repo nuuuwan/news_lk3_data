@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 13:17:30**
+As of **2024-02-05 13:33:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 687
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,879 (99.8%) of 4,889 articles have been extended.
+4,889 (100.0%) of 4,889 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Meanwhile, the India Meteorological Department (IMD) said that no major dense fo
 
 [Data](articles/e33f7e75.json)
 
+[Extended Data](ext_articles/e33f7e75.ext.json)
+
 ---
 
 ### Jaishankar meets AKD; Affirms Strong Ties with Sri Lanka
@@ -69,6 +71,8 @@ Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
 ◼️
 
 [Data](articles/11dc30e6.json)
+
+[Extended Data](ext_articles/11dc30e6.ext.json)
 
 ---
 
@@ -126,6 +130,8 @@ All shops and bakeries should issue a bill for the bread sold.
 
 [Data](articles/ac41b815.json)
 
+[Extended Data](ext_articles/ac41b815.ext.json)
+
 ---
 
 ### Shantan's consent to come to Sri Lanka
@@ -160,6 +166,8 @@ President as the leader of the UNP has advised the committee to find an appropri
 
 [Data](articles/3d31b739.json)
 
+[Extended Data](ext_articles/3d31b739.ext.json)
+
 ---
 
 ### Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
@@ -173,6 +181,8 @@ Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
 ◼️
 
 [Data](articles/3ba545ad.json)
+
+[Extended Data](ext_articles/3ba545ad.ext.json)
 
 ---
 
@@ -193,6 +203,8 @@ Police urged motorists to use alternative roads due to the closure of the roads
 ◼️
 
 [Data](articles/69f22eba.json)
+
+[Extended Data](ext_articles/69f22eba.ext.json)
 
 ---
 
@@ -394,6 +406,8 @@ The bridge, constructed in 1985 during the tenure of late President Ranasinghe P
 
 [Data](articles/b9b38f8b.json)
 
+[Extended Data](ext_articles/b9b38f8b.ext.json)
+
 ---
 
 ### For a former member of the Municipal Council, the former member of the Municipal Council requested the President
@@ -503,6 +517,8 @@ He underscored the link between this lifestyle trend and the rise in non-communi
 ...
 
 [Data](articles/703f6e2c.json)
+
+[Extended Data](ext_articles/703f6e2c.ext.json)
 
 ---
 
@@ -650,23 +666,31 @@ Further investigations are being carried out by the police in the police detenti
 
 ---
 
-### ත්‍රිරෝද රථ අනතුරින් මව මරුට, දියණියට බරපතලයි
+### Three-wheeler kills wife, daughter
 
 *2024-02-05 10:36:47* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිරෝද-රථ-අනතුරින්-මව-මරුට--දියණියට-බරපතලයි/11-407902) · `si`
 
-එකම පවුලේ මව පියා හා තුන් හැවිරිදි දියණියක් ගමන් ගත් තීරෝද රථයක් හොරණ පානදුර මාර්ගයේ කුළුපන ප්‍රදේශයේදී ලංගම බස් රථයක් හා ගැටීමෙන්  මව මියගොස් දැරිය හා පියා  බරපතල තුවාල ලබා ඇතැයි හොරණ මූලස්ථාන පොලිසිය කියයි.
+The mother was killed and the mother was seriously injured in the same family mother and a three-year-old daughter in the same family.
 
-අනතුරින් මියගොස් ඇත්තේ බණ්ඩාරගම රයිගම කොස්වත්තපාර පදිංචිව සිටි ආර් ඒ තනූජා ප්‍රියදර්ශනී (40) එක්දරු මවකි.
+The deceased has been identified as Hriuja Priyadarshani (40) a mother of Rawigawatte.
 
-මවුපියන් දෙදෙනා සිය එකම දියණියගේ අවශ්‍යතාවයක් සඳහා හොරණ නගරයට තීරෝද රථයෙන් පැමිණ   යළි නිවස කරා යමින් සිටියදී මෙම අනතුර වී ඇතැයි පොලිසිය සඳහන් කරයි.
+The two parents were in the process of the city of Horana for the need for their only daughter, police said.
 
-ත්‍රී රෝද රථය හොරණ සිට බණ්ඩාරගම දෙසට ගමන් කිරීමේදී මාර්ගයේ  පිටුපස සිටි මියගිය කාන්තාවක් සැමියා අමතා ඔන්න බස් එකක් එනවා යැයි පැවසීමත් සමඟම ඔහු එකවරම තීරෝද රථය වමට හැරවීමේදී ත්‍රී රෝද රථය මාර්ගයේ වට දෙකක් පෙරළී මීටර් කීපයක් ඉදිරියට ඇදී ගොස් පානදුර සිට ඇඹිලිපිටිය දක්වා ගමන් ගත් ඇඹිලිපිටිය ඩිපෝවට අයත්  බස් රථයේ ඉදිරි දකුණු පස බෆරරේ ගැටි නතර වී ඇතැයි පොලිසිය කියයි.
+The three-wheeler was hit by the three-wheeler on the road to a dead girl at the same time in Horana to Bandaragama.Buffarera beaten in the right hand side of the bus is stopped.
 
-අනතුර සිදුවූ වහාම ප්‍රදේශවාසීන් විසින් මව පියා සහ කුඩා දැරිය හොරණ මූලික රෝහල වෙත ඇතුළත් කරන විටත්  මව මියගොස් සිටි බව රෝහල් ප්‍රකාශකයකු පැවසීය.
+The mother of the residents soon after the accident was admitted to the Horana Base Hospital, said a hospital spokesman said.
 
-...
+A hospital spokesman said that the condition of the injured girl was seriously delegated at the Ridgeway Children's Hospital, Colombo.
+
+The hospital spokesman added that the father's right-hand and chest has been injured in the hospital
+
+The driver of the SLTB has been arrested and is to be produced before the Horana Magistrate's Court.
+
+◼️
 
 [Data](articles/95af5eb9.json)
+
+[Extended Data](ext_articles/95af5eb9.ext.json)
 
 ---
 
@@ -1029,6 +1053,8 @@ He said the interest rates for Treasury Bills held by the government were reduce
 ◼️
 
 [Data](articles/8b8132d0.json)
+
+[Extended Data](ext_articles/8b8132d0.ext.json)
 
 ---
 

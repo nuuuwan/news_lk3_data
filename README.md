@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 17:17:19**
+As of **2024-02-05 17:33:30**
 
 ## Newspaper Stats
 
-*Scraped **4,929** Articles*
+*Scraped **4,946** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 426
 virakesarilk | 565
 adaderanalk | 613
 tamilmirrorlk | 627
-adaderanasinhalalk | 636
-dailymirrorlk | 688
+adaderanasinhalalk | 641
+dailymirrorlk | 700
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,929 (100.0%) of 4,929 articles have been extended.
+4,929 (99.7%) of 4,946 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### 3,000 schools with A/L will be digitized in March: Minister
+
+*2024-02-05 16:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/3-000-schools-with-AL-will-be-digitized-in-March-Minister/108-276353) · `en`
+
+Jaffna, Feb 5 (Daily Mirror) - With the aim of providing equal opportunities in education, a total of 3,000 schools with Advanced Level (A/L) classes will be digitized in March, Education Minister Susil Premajayantha said.
+
+While addressing an event at the Hindu College in Jaffna, he said the children will be given the opportunity to continue their educational activities by directly connecting with new technology.
+
+The Minister further mentioned that the training of teachers related to the digitalization of the 3,000 schools will start in March, and interactive boards will be provided to all the schools concerned.
+
+The Minister also pointed out that the computer resource centers established in every education zone have been updated.
+
+◼️
+
+[Data](articles/142a206a.json)
+
+---
 
 ### Sanath Nishantha’s driver granted bail
 
@@ -51,6 +69,150 @@ Following the fatal collision, three injured persons, including the State Minist
 [Data](articles/ad0d500b.json)
 
 [Extended Data](ext_articles/ad0d500b.ext.json)
+
+---
+
+### සනත් නිශාන්තගේ රියදුරුට ඇප
+
+*2024-02-05 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193011) · `si`
+
+කටුනායක කොළඹ අධිවේගී මාර්ගයේ සිදුවූ අනතුරකින් මියගිය හිටපු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ රියදුරු ඇප මත නිදහස් කර තිබේ.
+
+වැලිසර මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව සැකකාර රියදුරු ලක්ෂ 5ක ශරීර ඇපයක් මත නිදහස් කර ඇත.
+
+එම අනතුරින් හිටපු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ ආරක්ෂක නිලධාරියාද ජීවිතක්ෂයට පත්විය.
+
+◼️
+
+[Data](articles/d101d78b.json)
+
+---
+
+### ඉන්දියාවට ජය
+
+*2024-02-05 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193010) · `si`
+
+ඉන්දියාව සහ එංගලන්තය අතර පැවති දෙවැනි ටෙස්ට් ක්‍රිකට් තරගය ලකුණු 106කින් ජයග්‍රහණය කිරීමට සත්කාරක ඉන්දියාව සමත් විය.
+
+ඒ ජයග්‍රහණය සඳහා ලකුණු 399ක ඉලක්කයක් හඹා ගිය එංගලන්ත කණ්ඩායම සිය දෙවැනි ඉනිම සඳහා අද ලකුණු 292කට දැවී යාමත් සමගය.
+
+තරගයේ පළමුව පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම ලකුණු 396ක් රැස්කළ අතර ඊට පිළිතුරු ලෙස එංගලන්තය ලකුණු 253ක් රැස්කළේය.
+
+ඉන්දියාව සිය දෙවැනි ඉනිම සඳහා ලකුණු 255ක් රැස්කරමින් සංචාරක එංගලන්ත කණ්ඩායමට ලකුණු 399ක් ඉලක්කයක් ලබාදුනි.
+
+පන්දු යැවීමෙන් ජස්ප්‍රිට් බුම්රා සහ රවිචන්ද්‍රන් අස්වින් කඩුලු 3 බැගින් දවා ගත්හ.
+
+ඒ අනුව තරග 5කින් සමන්විත තරගාවලියේ කණ්ඩායම් දෙකම එක තරගය බැගින් ජයගෙන තිබේ.
+
+◼️
+
+[Data](articles/43d8c88e.json)
+
+---
+
+### බෙලිඅත්ත පංච පුද්ගල ඝාතනය ගැන කිසිවෙක් නොසිතූ තොරතුරක් එළියට
+
+*2024-02-05 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193009) · `si`
+
+බෙලිඅත්ත පංච පුද්ගල ඝාතනයට ආධාර අනුබලදීම සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරු හෙට (06) දක්වා රඳවා ගෙන ප්‍රශ්න කිරීමට තංගල්ල මහෙස්ත්‍රාත් අධිකරණය නියෝග  කළේය.
+
+මාතර කොට්ඨාස ළමා හා කාන්තා කාර්යංශයේ නිලධාරින් විසින් මෙම සැකකරුව ඊයේ (05) හබරාදුවේදී අත්අඩංගුවට ගෙන තිබිණි.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ රත්ගම කටුදම්පේ පදිංචි 28 හැවිරිදි තරුණයෙකි.
+
+බෙලිඅත්ත පංච පුද්ගල ඝාතනයෙන් පසු වෙඩික්කරුවන් සතුව තිබූ ගිනි අවි අකුරැස්සේ සිට ගාල්ල කරාපිටිය දක්වා සැකකරුවන් දෙදෙනකු විසින් යතුරුපැදියකින් ගෙන ගොස් තිබූ අතර එම යතුරුපැදිකරුවන්ට ආරක්ෂාව දී ඇත්තේ මෙම සැකකරු බව හඳුනාගෙන ඇත.
+
+යතුරුපැදිකරුවන් ගිනිඅවි සමග පසුපසින් ගමන් කරද්දි ඊට ඉදිරියෙන් මෙම සැකකරු පොලීසිය සිටින්නේදැයි ඔත්තු බලමින් පසුපස යතුරුපැදිය සමග දුරකතනය ඔස්සේ සම්බන්ධතාව පවත්වාගනිමින් ගොස් ඇතැයි හඳුනාගෙන තිබේ.
+
+ගිනිඅවි ප්‍රවාහනය කළ සැකකරුවන් දෙදෙනාද පොලිසිය මීට ඉහතදී අත්අඩංගුවට ගෙන තිබූ අතර ඉන් එක් සැකකරුවෙක් සහ ඔත්තු බැලූ සැකකරු ඥාතී සහෝදරයන් වන බවට හඳුනාගෙන ඇත.
+
+◼️
+
+[Data](articles/a64419ea.json)
+
+---
+
+### සැකකරුවෙකු සහ සැකකාරියන් දෙදෙනෙකු අත්අඩංගුවට
+
+*2024-02-05 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193008) · `si`
+
+මූල්‍ය ආයතනයක් බිඳ මුදල් සොරකම් කිරීමේ සිද්ධියකට අවශ්‍ය කර සිටි සැකකරුවෙකු සහ සැකකාරියන් දෙදෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පුත්තලම කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය විසින් සිදුකළ විමර්ශනයකදී මෙම පිරිස අත්අඩංගුවට ගෙන ඇත.
+
+ජනවාරි මස 31 වනදා හලාවත පොලිස් වසමේ මූල්‍ය ආයතනයක් බිඳ මුදලින් රුපියල් 7,090,939ක් සොරකම් කිරීම සම්බන්ධයෙන් ඔවුන්ට එරෙහිව චෝදනා එල්ලවී තිබුණි.
+
+සිද්ධිය සම්බන්ධයෙන් විමර්ශන ආරම්භ කළ පොලීසිය එම සැකකරු ඊයේ (04) කොල්ලුපිටිය ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබුණි.
+
+සිද්ධියට ආධාර අනුබල දීමේ චෝදනාව යටතේ අත්අඩංගුවට ගෙන ඇති එක් සැකකාරියන් දෙදෙනා මාදිවෙල ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇත.
+
+වයස අවුරුදු 33 සහ 46 හැවිරිදි වියේ පසුවන එම සැකකාරියන් පස්ගොඩ සහ කඩුවෙල ප්‍රදේශවල පදිංචිකාරිණියන් බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/1f2f7d26.json)
+
+---
+
+### වසර 5කට පසු චීන ආයෝජනවල ශීඝ්‍ර වර්ධනයක්
+
+*2024-02-05 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193007) · `si`
+
+චීනයේ නව සේද මාවත එක් තීරයක් - එක් මාවතක් හෙවත් බෙල්ට් ඇන්ඩ් රෝඩ් ව්‍යාපෘතිය සඳහා පසුගිය 2023 වසරේදී චීනය වාර්තාගත අන්දමින් ආයෝජනය කර ඇති බව බ්ලූම්බර්ග් ව්‍යාපාරික වෙබ් අඩවිය වාර්තා කරයි.
+
+2018 වසරෙන් පසු බෙල්ට් ඇන්ඩ් රෝඩ් ව්‍යාපෘතියට චීනය වැඩිම ආයෝජනයක් සිදුකර ඇත්තේ පසුගිය වසරේදී ය.
+
+එහිදී චීනය විදේශීය ව්‍යාපෘති සඳහා ආයෝජනය කර ඇති මුදල ඩොලර්  බිලියන 50කට අධික ය.
+
+2023 වසරේදී චීනය බෙල්ට් ඇන්ඩ් රෝඩ් ව්‍යාපෘති සඳහා ආයෝජනය කළ මුදල 2022 වසරට සාපේක්ෂව 80%ක් පමණ වර්ධනයක් වීම විශේෂ කරුණකි.
+
+ඒ අනුව 2013 වසරේ සිට චීනය, බේල්ට් ඇන්ඩ් රෝඩ් යටිතල පහසුකම් ව්‍යාපෘති සඳහා වැයකර ඇති මුදල අමෙරිකානු ඩොලර් ට්‍රිලියනය ඉක්මවයි.
+
+බ්ලූම්බර්ග් ව්‍යාපාරික වෙබ් අඩවිය එම දත්ත ලබාගෙන ඇත්තේ ඔස්ට්‍රේලියාවේ ග්‍රිෆිත් සරසවිය සහ ෂැංහයි නුවර ෆුඩාන් සරසවිය ඒකාබද්ධ ඉදිරිපත් කළ වාර්තාවකිනි.
+
+චීනය පසුගිය 2023 වසරේ බෙල්ට් ඇන්ඩ් රෝඩ් ව්‍යාපෘතිය යටතේ සිදුකළ ආයෝජනවලින් වැඩි ප්‍රමාණයක් අධි තාක්ෂණික ව්‍යාපෘති වීම විශේෂයකි.
+
+එහිදී විද්‍යුත් වාහන නිෂ්පාදනයද කැපී පෙනෙන ලෙස ඉහළ නැංවීමද දැකිය හැකිවෙයි.
+
+...
+
+[Data](articles/43af16dd.json)
+
+---
+
+### Asia Cup 2023: PAK-SL board locked in financial dispute over extra expenses
+
+*2024-02-05 15:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Asia-Cup-2023-PAK-SL-board-locked-in-financial-dispute-over-extra-expenses/108-276351) · `en`
+
+Feb. 5 (BS) - The cricket boards of Pakistan and Sri Lanka are locked in a financial dispute over who should bear the additional $3-4 million burden incurred due to the shifting of the Asia Cup to the island nation last year.
+
+With the BCCI unwilling to send its team to Pakistan, the original host, due to geo-political tensions, the Asian Cricket Council (ACC) and the Pakistan Cricket Board (PCB) decided on a hybrid model and roped in Sri Lanka to host the majority of the matches.
+
+This resulted in extra expenses being incurred on chartered flights, hotel bookings, venue hiring fees and travel, among others.
+
+Sri Lanka Cricket (SLC) made it clear during the ACC council meeting in Bali last week that it was not willing to take the financial burden as it did not earn extra and was also not the official host of the tournament.
+
+The expenses also reportedly soared because the former PCB chairman, Zaka Ashraf, changed the venue of the first match from Lahore to Multan.
+
+...
+
+[Data](articles/4a1b03f4.json)
+
+---
+
+### Action against Keheliya - SJB MPs contradict each other
+
+*2024-02-05 15:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Action-against-Keheliya-SJB-MPs-contradict-each-other/108-276352) · `en`
+
+Colombo, Feb. 05 (Daily Mirror)- Samagi Jana Balawegya (SJB) Members of Parliament contradicted each other on the party’s position regarding action that has to be taken against Minister keheliya Rambukwella, who is in remand prison at the moment.
+
+Though SJB MP Kavinda Jayawardene announced last week that his party has decided to bring in a second no confidence motion against Minister Rambukwella, SJB National Organizer Tissa Attanayake said what has to be done is to submit a resolution in Parliament requesting President Ranil Wickremeisnghe to take action against Rambukwella and to mete out justice to those who have been affected by the drug purchasing scam.
+
+“What we should focus on is bringing a resolution requesting President Wickremesinghe to take action against Minister Rambukwella and mete out justice to the people who have been affected by the inferior quality drugs which have been purchased without tenders,” MP Attanayake told the media today.
+
+...
+
+[Data](articles/63302de2.json)
 
 ---
 
@@ -212,6 +374,22 @@ In this backdrop, the fans who see Yuvan Shankar Raja will visit the Lotus Tower
 
 ---
 
+### ICC release ITT for media rights in Bangladesh, Pakistan and Sri Lanka
+
+*2024-02-05 15:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICC-release-ITT-for-media-rights-in-Bangladesh-Pakistan-and-Sri-Lanka/108-276350) · `en`
+
+Feb. 5 (ICC) - The International Cricket Council will today release its Invitation To Tender (ITT) for media rights in three territories, Bangladesh, Pakistan and Sri Lanka for 2024 to 2025.
+
+Following the successful conclusion of media rights agreements in several markets including India, the United Kingdom and Ireland, the USA and Canada, Sub-Saharan Africa region, Australia and Middle East and North Africa the ICC is now starting the process in Bangladesh, Pakistan and Sri Lanka.
+
+In Pakistan there are two packages available combining both TV and digital rights including both men’s and women’s rights, with one TV and digital combined package available in Bangladesh and Sri Lanka respectively. The packages will be for three women’s events and three men’s events up until the end of next year.
+
+...
+
+[Data](articles/7426e131.json)
+
+---
+
 ### School digital begins with Advanced Level
 
 *2024-02-05 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193005) · `si`
@@ -256,6 +434,24 @@ Janaka Ratnayake, Former PUCSL Chairman, stated, "This shouldn't be seen as mere
 
 ---
 
+### Prabath, Asitha help Sri Lanka coast to comfortable win
+
+*2024-02-05 14:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prabath-Asitha-help-Sri-Lanka-coast-to-comfortable-win/108-276349) · `en`
+
+Colombo, Feb. 5 (Daily Mirror) - Left arm spinner Prabath Jayasuriya and right arm pacman Asitha Fernando along with Kasun Rajith combined to help Sri Lanka coast to a comfortable ten wicket win over Afghanistan with a day to spare in the one off Test match concluded at the SSC ground.
+
+Sri Lanka set a simple run chase of 56 runs saw the openers Dimuth Karunaratne and Nishan Madushka guiding the side to race to the target with ease in 7.2 overs with the match coming to an end before the tea break.
+
+The morning session of proceedings was just the opposite of the final session's play on day three as the Sri Lanka bowlers made the Afghanistan batsmen work hard for their runs.
+
+Rahmat Shah who was unbeaten on 46 succeeded to reach his half ton but four runs later he was the first Afghanistan wicket to fall having associated in a 108 runs stand for the second wicket with Zadran.
+
+...
+
+[Data](articles/55e75987.json)
+
+---
+
 ### To digitizing 3,000 schools with Advanced Level by June
 
 *2024-02-05 14:57:00* · [`adalk`](https://www.ada.lk/breaking_news/ජුනි-මාසය-වනවිට-උසස්-පෙළ-සහිත-පාසල්-3-000-ඩිජිටල්කරණයට‍/11-407909) · `si`
@@ -271,6 +467,26 @@ A year and a half years ago, the oil queue was taken over and the gas was taken 
 [Data](articles/6b148199.json)
 
 [Extended Data](ext_articles/6b148199.ext.json)
+
+---
+
+### Immunoglobulin scandal a massacre: Janaka Ratnayaka
+
+*2024-02-05 14:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Immunoglobulin-scandal-a-massacre-Janaka-Ratnayaka/108-276348) · `en`
+
+Colombo, Feb 5 (Daily Mirror) - Former Health Minister Keheliya Rambukwella's accusations over the import of substandard immunoglobulin injections should be considered as a fraud and a massacre, former Public Utilities Commission of Sri Lanka (PUCSL) chairman Janaka Ratnayaka said.
+
+Addressing the media, he said that the Minister had imported the immunoglobulin injections without following any procedures and had administered them to innocent people in the country.
+
+"We do not know how many people have lost their lives. Therefore, we should work on this issue, considering it similar to a massacre by Hitler during World War II. Hitler also engaged in killing people using poisonous injections," Ratnayaka said.
+
+He said the punishment given to Keheliya Rambukwella can be considered the best punishment in history given to a Sri Lankan politician.
+
+"I don't know what will happen in the future. My take is that this vaccine should be administered to all parliamentarians to check the symptoms.
+
+...
+
+[Data](articles/3b3b4144.json)
 
 ---
 
@@ -313,6 +529,18 @@ In reply, Sri Lanka piled on a mammoth 439 runs, building a commanding lead. Vet
 [Data](articles/12100456.json)
 
 [Extended Data](ext_articles/12100456.ext.json)
+
+---
+
+### Loving Sri Lanka....
+
+*2024-02-05 14:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Loving-Sri-Lanka/110-276311) · `en`
+
+A tourist couple carrying a Sri Lankan national flag at the Independence Square on Independence Day. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/2e4a1767.json)
 
 ---
 
@@ -440,6 +668,26 @@ The US dollar purchasing price was Rs 307.7088 and the sales price were 317.2528
 
 ---
 
+### New York selected to host 2026 FIFA World Cup final
+
+*2024-02-05 13:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-York-selected-to-host-2026-FIFA-World-Cup-final/108-276346) · `en`
+
+Miami, Feb 5 (Daily Mirror) - The 2026 World Cup final will be held at MetLife Stadium in New York/New Jersey, organisers FIFA announced on Sunday.
+
+The New York bid held off a strong challenge from Dallas to secure the July 19 game, the culmination of the expanded 48-team tournament being co-hosted by the USA, Canada and Mexico.
+
+The competition will kickoff with the opening game at Mexico City's iconic Azteca Stadium on June 11.
+
+"The most inclusive and impactful FIFA World Cup ever is no longer a dream but a reality that will take shape in the form of 104 matches in 16 state-of-the-art stadiums across Canada, Mexico and the USA," said FIFA president Gianni Infantino.
+
+"From the opening match at the iconic Estadio Azteca to the spectacular final in New York New Jersey, players and fans have been at the core of our extensive planning for this game-changing tournament... that will not only set new records but also leave an indelible legacy."
+
+...
+
+[Data](articles/8faa10f4.json)
+
+---
+
 ### Anura Kumara meets Indian Foreign Minister in Delhi
 
 *2024-02-05 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97017/anura-kumara-meets-indian-foreign-minister-in-delhi-) · `en`
@@ -462,6 +710,22 @@ A delegation of the JVP party comprising of JVP leader Anura Kumara Dissanayake,
 
 ---
 
+### Tree collapses killing pre-grade student, injuring three others
+
+*2024-02-05 13:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tree-collapses-killing-pre-grade-student-injuring-three-others/108-276345) · `en`
+
+Gampola, Feb 05 (Daily Mirror) - A five-year-old student was killed and three other students were injured when a tree collapsed on them at an international school in Gampola.
+
+Police said one student who was in a critical condition has been admitted to the General Hospital, Kandy.
+
+They said a tree collapsed while some 30 students of the nursery section, were playing beneath.
+
+◼️
+
+[Data](articles/7dbd3e97.json)
+
+---
+
 ### Anura Special Meeting visited India
 
 *2024-02-05 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193000) · `si`
@@ -475,6 +739,30 @@ Mr. Jeyzankar lays note in his X account, and exchanged views on bilateral relat
 [Data](articles/c37ebea1.json)
 
 [Extended Data](ext_articles/c37ebea1.ext.json)
+
+---
+
+### Commemoration...
+
+*2024-02-05 13:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Commemoration/110-276343) · `en`
+
+A Bodhi puja pinkama was held recently in view of the 67th anniversary of Dr. Ven. Bodagama Chandima Thera, the founder of the Nagananda International Buddhist College and the Vice Chancellor of the Thai Chief Sangha. In line with the Bodhi puja pinkama, a tree-planting ceremony was held and school accessories were handed over to low-income families while meditation programme too was held.
+
+◼️
+
+[Data](articles/59689f14.json)
+
+---
+
+### Save Kashmir...
+
+*2024-02-05 13:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Save-Kashmir/110-276341) · `en`
+
+A symbolic demonstration was held today in front of the United Nations (UN) Headquarters in Colombo to mark the Kashmir Solidarity Day, in which former city councillors of Colombo participated.
+
+◼️
+
+[Data](articles/1d35986f.json)
 
 ---
 
@@ -1222,6 +1510,26 @@ He underscored the link between this lifestyle trend and the rise in non-communi
 
 ---
 
+### Sri Lanka sees surge in Paediatric cancer cases
+
+*2024-02-05 11:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-sees-surge-in-Paediatric-cancer-cases/155-276332) · `en`
+
+Colombo, Feb 05 (Daily Mirror) -  Sri Lanka has witnessed a significant spike in paediatric cancer cases over the years, raising concerns over haphazard lifestyle practices.
+
+This was revealed by Dr. Deepal Perera, a Paediatrician at Lady Ridgeway Children's Hospital in Colombo.
+
+“The annual number of reported cases has doubled, escalating from 450 to a staggering 900, raising concerns within the healthcare community,” he pointed out.
+
+Speaking to Daily Mirror, Dr. Perera attributed this concerning surge to the growing prevalence of sedentary lifestyles among children, notably pointing out the increasing addiction to mobile phones as a contributing factor.
+
+He underscored the link between this lifestyle trend and the rise in non-communicable diseases, with leukaemia and brain cancer notably on the rise among the younger population.
+
+...
+
+[Data](articles/a7ae4c2b.json)
+
+---
+
 ### Female Constable Sexual Abuse: Transfer of Police in charge of political pressure
 
 *2024-02-05 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175589) · `ta`
@@ -1733,353 +2041,5 @@ The suspect is a 28 year old resident of Rathgama and has been handed over to th
 [Data](articles/c44f57aa.json)
 
 [Extended Data](ext_articles/c44f57aa.ext.json)
-
----
-
-### The second phase of the third installment is beginning today
-
-*2024-02-05 09:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175577) · `ta`
-
-The second phase of the third term of the year 2023 has been launched in all schools in the country today.
-
-Schools have been reopened as the holidays have been granted from December 23 for the GCE Advanced Level Examination.
-
-The school holidays have been extended as the Agricultural Science Questionnaire of the Education Public Level Examination has been published on social media.
-
-In this case, the examination was repeated on February 1, canceling the questionnaire posted on social media.. As a result, the school, which began on February 1, was postponed to date.
-
-◼️
-
-[Data](articles/763ab1fe.json)
-
-[Extended Data](ext_articles/763ab1fe.ext.json)
-
----
-
-### Fatal pretending - 112 lives will be lost
-
-*2024-02-05 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192990) · `si`
-
-At least 112 persons have died due to the spread of Valpachao in the Walpezo area of the Chile.
-
-President Gabriel Borik has declared an urgent situation and has done all the necessary activities to relieve the situation.
-
-This is considered deadly, out of the wildfires in the Chile, Chile.
-
-It is said that many of the victims and many who were affected by the victims came to the coastal zone during the summer.
-
-The health warning of this area has been taken to place temporary hospitals.
-
-Relief groups say that the victims are suffering from the beravice to beraw and hearing the affected areas.
-
-Meanwhile, the authorities of the country have said that the number of deaths could increase in the next few hours.
-
-Between 3,000 and 6,000 houses have been destroyed by wildfires.
-
-◼️
-
-[Data](articles/86e0c9e0.json)
-
-[Extended Data](ext_articles/86e0c9e0.ext.json)
-
----
-
-### Keheliya created false alarm in the Cabinet to purchase substandard medicine-DSG
-
-*2024-02-05 08:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliya-created-false-alarm-in-the-Cabinet-to-purchase-substandard-medicine-DSG/108-276327) · `en`
-
-Deputy Solicitor General Lakmini Girihagama told Maligakanda Magistrate Lochani Abeywickrama on Saturday that suspect Keheliya Rambukwella has gained the opportunity to supply substandard medicine to government hospitals by creating a false alarm among members of the Cabinet on May 30, 2022 that the health sector would collapse within three weeks due to shortage of medicines.
-
-She submitted that the suspect had done so after the State Pharmaceutical Corporation (SPC) had refused to comply with his instruction to formulate a mechanism to use the balance money from an Indian Credit Line as soon as possible
-
-...
-
-[Data](articles/6d70b10b.json)
-
-[Extended Data](ext_articles/6d70b10b.ext.json)
-
----
-
-### Central Bank denied over Rs. 700 Bn revenue due to interest rates reduction in DDO process
-
-*2024-02-05 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-denied-over-Rs-700-Bn-revenue-due-to-interest-rates-reduction-in-DDO-process/108-276337) · `en`
-
-Colombo, Feb 05 (Daily Mirror) - United Republican Front (URF) leader MP Patali Champika Ranawaka said the Central Bank had been denied over Rs. 700 billion due to Treasury Bill interest rates reduction and it would be serious in case a financial crisis emerged.
-
-Making remarks at the event to mark Independence Day celebrations by his party , he said the Central Bank reduced interest rates in the process of Domestic Debt Optimization last year .
-
-He said the interest rates for Treasury Bills held by the government were reduced from 25-26 percent to 5-6 percent and the Central Bank lost as much as Rs. 700 billion as a result.
-
-◼️
-
-[Data](articles/8b8132d0.json)
-
-[Extended Data](ext_articles/8b8132d0.ext.json)
-
----
-
-### A cabinet paper to call investors for hemp cultivation
-
-*2024-02-05 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192989) · `si`
-
-The cabinet paper to obtain the legal power to be called for hemp to produce investors to cultivate drugs is due to be produced today (05).
-
-Indigenous Medicine Sisira Jayakody is looking to legalize the cultivation only for exports.
-
-"At present the 1971 Ayurvedic Act has been amended and given legal power to plant medicinal plants. The bill to provide legal conditions for the era of legal conditions of the Ayerolist, we submitted to the Attorney General by legal conditions. The legal regime received from him is to be produced before the Cabinet. Once the Cabinet approves, we can make arrangements to be called a foreign exchange of foreign exchange.. Through the Ayurvedic Board, he has to call these investors. "
-
-◼️
-
-[Data](articles/78bb83ea.json)
-
-[Extended Data](ext_articles/78bb83ea.ext.json)
-
----
-
-### Save three young couples who were in the sea
-
-*2024-02-05 08:10:37* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදේ-ගහගෙන-ගිය-තරුණ-යුවළ-තුනක්-බේරාගෙන/11-407899) · `si`
-
-Due to the Independence Day security personnel, Panaduravasuriya has survived the lives of three young couples in Panadura sea.
-
-The three youths, Selvas Anthony (20), Selvas Anthodha (16), is the three youths, Mohadas, Twodusika (16) and Mohadasy Tokika (15) and Mohadasy Rukusasika (15) and Muzunason Tokika (15) and Muzasanasis (16), Mohadas, Tokika (15) and Muzunason Estabi (15) and Paradanascasy (15).Mentioned.
-
-The six are about 50 meters to the beach, they have been waiting for 50 meters to the beach, they have been hanging towards the daughter.
-
-Later, they were asked for help, accordingly, the Sergeant Susantha and Constable Lene first escaped the life security tube. Later, the Navy's Life-Defense Officer was also assisted to escape.
-
-Life security personnel said they were dispatched after their first aid was given.
-
-◼️
-
-[Data](articles/ee758a49.json)
-
-[Extended Data](ext_articles/ee758a49.ext.json)
-
----
-
-### Eight injured in a clash between Kandakadu inmates
-
-*2024-02-05 08:10:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/eight-injured-in-a-clash-between-kandakadu-inmates/) · `en`
-
-COLOMBO (News 1st); Eight people were injured in a clash between two groups of inmates at the Kandakadu Rehabilitation Center on Sunday (04) night.
-
-Police said they were transferred to the Polonnaruwa Hospital for further treatment after initially being admitted to the Welikanda Hospital.
-
-Police have taken 14 suspects into custody in relation to the incident.
-
-Clashes were reported among inmates of the Kandakadu Rehabilitation Center based on various issues on several occassions.
-
-Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
-
-Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
-
-◼️
-
-[Data](articles/005c95ad.json)
-
-[Extended Data](ext_articles/005c95ad.ext.json)
-
----
-
-### Keheliya - Deputy Solicitor General made fake fear of drug shortages to import low -quality drugs
-
-*2024-02-05 08:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175576) · `ta`
-
-Former Minister Keheliya Rambukwella, who has caused fake fears of drug shortages, has imported the low -quality drugs, said the Deputy Solitte General.
-
-In the presence of the Deputy Inspector General of the Magistrate, the former minister, who feared the Cabinet, had used it to distribute the low -quality drugs to the Government Hospital, "he said.
-
-The Deputy Stool -Commerce General said that the suspect was following the refusal of the State Trade Corporation to accept his request to formulate a mechanism for the use of the remaining funds in the Indian credit assistance.
-
-◼️
-
-[Data](articles/2f4b8bda.json)
-
-[Extended Data](ext_articles/2f4b8bda.ext.json)
-
----
-
-### A bridge in Embilipitiya collapses
-
-*2024-02-05 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192988) · `si`
-
-The Hulandda Oya Bridge, located on the main road from the Embilipitiya town, has collapsed today (05).
-
-Our correspondent said that the bridge had collapsed on the bridge.
-
-The accident has not been damaged and the police are informed to use alternative routes to drivers traveling along the above road.
-
-◼️
-
-[Data](articles/0fb159ec.json)
-
-[Extended Data](ext_articles/0fb159ec.ext.json)
-
----
-
-### Jathika Jana Balawegaya delegation leaves for India
-
-*2024-02-05 08:08:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/jathika-jana-balawegaya-delegation-leaves-for-india/) · `en`
-
-COLOMBO (News 1st); A delegation including Leader of the Jathika Jana Balawegaya Anura Kumara Dissanayake left for India on Monday (05), following an official invitation from the Government of India.
-
-The delegation includes Secretary of the party Dr. Nihal Abeysinghe, MP Vijitha Herath and National Executive Member Professor Anil Jayantha.
-
-The group is due to hold an official meeting with Indian government officials on Monday (05).
-
-Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
-
-Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
-
-◼️
-
-[Data](articles/9d4f3eaf.json)
-
-[Extended Data](ext_articles/9d4f3eaf.ext.json)
-
----
-
-### Second phase of the 3rd school term to commence
-
-*2024-02-05 08:06:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/second-phase-of-the-3rd-school-term-to-commence/) · `en`
-
-COLOMBO (News 1st); The second phase of the third school term of 2023 will commence on Monday (05) for government and government-approved schools.
-
-The Ministry of Education said the second phase of the third term will end on the 16th of February.
-
-The first school term of 2024 is scheduled to commence on the 19th of February.
-
-Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
-
-Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
-
-◼️
-
-[Data](articles/808eaf97.json)
-
-[Extended Data](ext_articles/808eaf97.ext.json)
-
----
-
-### Beliatta mass shooting: another suspect arrested
-
-*2024-02-05 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97009/beliatta-mass-shooting-another-suspect-arrested) · `en`
-
-Police have arrested another suspect in connection with the shooting and killing of five persons in the Beliatta area in Hambantota District.
-
-The Police Media Division said the suspect was arrested in Habaraduwa yesterday (04) by officers of the Matara Division Children & Women Bureau, on charges of aiding and abetting in the murders.
-
-The arrested suspect is a 28-year-old resident of Katudampe in Ratgama.
-
-Meanwhile this brings the total number of suspects arrested over the murders to 12 thus far.
-
-The shooting took place on January 23 near the Beliatta interchange of the Southern Expressway.
-
-A group of assailants in an SUV had opened fire at a white Defender, killing four persons at the scene. The fifth person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, but he was pronounced dead shortly after.
-
-...
-
-[Data](articles/206a19eb.json)
-
-[Extended Data](ext_articles/206a19eb.ext.json)
-
----
-
-### Hot the Kandakadu again
-
-*2024-02-05 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192986) · `si`
-
-Army soldier and a group of detainees were injured in a confrontation at the Kandakadu Rehabilitation Center.
-
-The injured have been treated at the Welikanda Hospital.
-
-The cause of the conflict is yet to be determined by the inmates and the inmates have damaged the kitchen and other places in the Kandakadu Rehabilitation Center.
-
-Police have also taken into custody, police said, a large quantity of poles used to cause damage to the rehabilitation center's property.
-
-◼️
-
-[Data](articles/a6e438e3.json)
-
-[Extended Data](ext_articles/a6e438e3.ext.json)
-
----
-
-### Save six drowning
-
-*2024-02-05 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192987) · `si`
-
-A total of 6 people in Panadura coastal coast rescued by two officers of the Panadura police warrard unit.
-
-The wasntwoman three boys and three girls aged 16 to 21 years old.
-
-The police constables, 69951, Pushpakumara and Leaders of Palankara were elected to the survival of these children.
-
-At the evening, the two officers were taken to the coast when the children were caught in the Diabend in the evening, the two officers were handed over to their children with basic first financial aid.
-
-The victim was a resident of the Ratnapura area, police said.
-
-◼️
-
-[Data](articles/ea9a744d.json)
-
-[Extended Data](ext_articles/ea9a744d.ext.json)
-
----
-
-### Sri Lanka private credit surge Rs97bn in Dec 2023
-
-*2024-02-05 07:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-credit-surge-rs97bn-in-dec-2023-149846/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s private credit to businesses and individuals surged in December 2023 97.5 billion rupees from 62.5 billion rupees a month earlier, official data shows as bank loans continue a positive trend.
-
-Sri Lanka’s private credit became negative around June 2022 after rates were hiked in April and intervention using Indian ACU balances also ended a little later, allowing the economy to adjust to market linked inflows.
-
-Countries usually go through a period of de-leveraging or a recession when stabilization policies are applied after a central bank mis-target rates with inflationary open market operations, and fires credit beyond deposits available in the banking system.
-
-In countries with floating exchange rates with positive inflation targets, where balance of payments problems in the form of forex shortages do not take place, long periods of mis-targeted rates with reverse repo operations end up in housing or asset price bubbles.
-
-...
-
-[Data](articles/fd83dafe.json)
-
-[Extended Data](ext_articles/fd83dafe.ext.json)
-
----
-
-### Operation ‘Yukthiya’: 667 more suspects arrested within 24 hours
-
-*2024-02-05 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97008/operation-yukthiya-667-more-suspects-arrested-within-24-hours) · `en`
-
-A total of 667 more suspects have been arrested by Sri Lanka’s police and security forces personnel within a 24-hour window ending at 12.30 a.m. today (Feb. 05) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-According to the Ministry of Public Security, the narcotics taken into custody during this period include 191 grams of heroin and 103 grams of crystal methamphetamine (Ice).
-
-◼️
-
-[Data](articles/9937c8a2.json)
-
-[Extended Data](ext_articles/9937c8a2.ext.json)
-
----
-
-### Showers expected in parts of the country
-
-*2024-02-05 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97007/showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says several spells of showers will occur in Eastern and Uva provinces and in Polonnaruwa and Matale districts while a few showers may occur in Anuradhapura and Hambantota districts.
-
-Showers or thundershowers will occur at several places in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts after 2.00 p.m.
-
-Misty conditions can be expected at some places in Central and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
-
-The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/6d4d364e.json)
-
-[Extended Data](ext_articles/6d4d364e.ext.json)
 
 ---

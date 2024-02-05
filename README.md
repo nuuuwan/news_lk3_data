@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 03:33:58**
+As of **2024-02-06 03:50:55**
 
 ## Newspaper Stats
 
-*Scraped **5,021** Articles*
+*Scraped **5,031** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 73
 dbsjeyarajcom | 139
 islandlk | 263
 economynextcom | 265
-dailyftlk | 280
+dailyftlk | 290
 newsfirstlk | 303
 adalk | 433
 virakesarilk | 586
@@ -26,7 +26,7 @@ dailymirrorlk | 714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,021 (100.0%) of 5,021 articles have been extended.
+5,021 (99.8%) of 5,031 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -82,6 +82,118 @@ In this case, he died without treatment. Namasivayam Premkumar carried out a sud
 
 ---
 
+### AKD meets Jaishankar and Doval in Delhi
+
+*2024-02-06 00:59:13* · [`dailyftlk`](https://www.ft.lk/news/AKD-meets-Jaishankar-and-Doval-in-Delhi/56-758164) · `en`
+
+NPP leader Anura Kumara Dissanayake and Indian External Affairs Minister S. Jaishankar
+
+AKD and Jaishankar’s discussion focused on bilateral relationship and SL’s economic challenges
+
+Meeting with Doval centred on security and bilateral issues concerning India and SL
+
+Delegation led by AKD is scheduled for a five-day visit to India covering three cities
+
+National People’s Party (NPP) and Janatha Vimukthi Peramuna (JVP) leader Anura Kumara Dissanayake met with Indian External Affairs Minister S. Jaishankar and National Security Adviser (NSA) Ajit Doval in Delhi yesterday.
+
+Dissanayake along with a delegation of NPP politicians are currently on an official visit to India at the invitation of the Indian Government. The delegation includes NPP General Secretary Dr. Nihal Abeysinghe and NPP National Executive Members Prof. Anil Jayantha and MP Vijitha Herath.
+
+...
+
+[Data](articles/5888f3ea.json)
+
+---
+
+### Janaka Ratnayake compares immunoglobulin scam to Hitler’s atrocities
+
+*2024-02-06 00:58:34* · [`dailyftlk`](https://www.ft.lk/news/Janaka-Ratnayake-compares-immunoglobulin-scam-to-Hitler-s-atrocities/56-758163) · `en`
+
+Calls importation of substandard human immunoglobulin IV vials to Sri Lanka a ‘massacre’
+
+Says since number of lives lost remains uncertain it must be treated similarly to atrocities committed by Hitler during WWII
+
+Stresses politicians only display ‘symptoms’ of various ailments when they find themselves facing legal consequences
+
+Presidential hopeful and former Public Utilities Commission of Sri Lanka Chairman Janaka Ratnayake yesterday declared the controversial scam involving the importation of substandard human immunoglobulin IV vials to Sri Lanka, a ‘massacre’.
+
+Addressing the media, Ratnayake said the accusations against the former Health Minister Keheliya Rambukwella should be considered as both a fraud and a massacre.
+
+Ratnayake noted that the Minister had facilitated the importation of the sub-standard human immunoglobulin vials without adhering to any proper procedures, subsequently administering them to unsuspecting patients in the country.
+
+...
+
+[Data](articles/a4f79977.json)
+
+---
+
+### Industry veteran Saifudeen Jafferjee elected Chairman of JAAF at 20th AGM
+
+*2024-02-06 00:56:30* · [`dailyftlk`](https://www.ft.lk/business/Industry-veteran-Saifudeen-Jafferjee-elected-Chairman-of-JAAF-at-20th-AGM/34-758161) · `en`
+
+Industry veteran Saifudeen Jafferjee was elected Chairman of the Joint Apparel Association Forum (JAAF), which is the apex body that guides Sri Lanka apparel towards its ultimate goal of being the world’s number one apparel sourcing destination. At the 20th Annual General Meeting held recently, the Executive Committee including Deputy Chairmen Felix Fernando and Aroon Hirdaramani were re-elected.
+
+Delivering the inaugural Chairman’s address, Jafferjee highlighted six key policy areas that the industry is seeking government support to propel the apparel sector to meet its ultimate objective of becoming the world’s number one apparel sourcing destination.
+
+...
+
+[Data](articles/ca6e666d.json)
+
+---
+
+### CIOB says EDB can support export of construction industry to boost forex earnings
+
+*2024-02-06 00:55:31* · [`dailyftlk`](https://www.ft.lk/business/CIOB-says-EDB-can-support-export-of-construction-industry-to-boost-forex-earnings/34-758160) · `en`
+
+From left: EDB Assistant Director Kumudini Irugalbandara, Ch.QS. Lalith Ratnayake, EDB Chairman
+
+Dr. Kingsley Bernard, CIOB President Dr. Rohan Karunaratne and Secretary Eng. Saliya Kaluarachchi
+
+The Ceylon Institute of Builders (CIOB) says the SLEDB can support the exports of the construction industry to boost foreign exchange earnings.
+
+“This is the best time for the Construction Industry to look for opportunities overseas. This is because; due to the economic crisis, over 60% of the construction industry in Sri Lanka has been halted,” CIOB President Dr. Rohan Karunaratne said.
+
+“Many contractors are trying to accrue overseas projects and the main barrier for them is the Central Bank ruling which restricts cross-border guarantees and capital funding to establish abroad,” he added.
+
+According to CIOB, the CBSL is allowing only $ 1 million for cross border guarantees which is severely insufficient and does not even begin to scratch the surface of contractors’ requirements.
+
+...
+
+[Data](articles/b8299093.json)
+
+---
+
+### ComBank LEAP GlobalLinker partners IDB to support SMEs
+
+*2024-02-06 00:54:46* · [`dailyftlk`](https://www.ft.lk/business/ComBank-LEAP-GlobalLinker-partners-IDB-to-support-SMEs/34-758159) · `en`
+
+Commercial Bank Managing Director/CEO Sanath Manatunge and Chief Operating Officer S. Prabagar participate in the signing of the MoU with IDB Chairman Dr. Saranga Alahapperuma and Board Member P.L.U. Rathnamalala in the presence of members of the corporate management of the bank and officials of the two institutions, while DigiVation CEO Sameer Vakil joined the event virtually
+
+The Commercial Bank of Ceylon has launched a new initiative to support small and medium-sized enterprises (SMEs) via a partnership with the Industrial Development Board (IDB), the premier state organisation entrusted with the progress of the industrial sector in Sri Lanka.
+
+The partnership will provide stakeholders of the IDB access to ‘Commercial Bank LEAP GlobalLinker’ – the Bank’s digital platform designed to empower SMEs to reach cross-border levels in the global market – from the ‘BizConnect‘ portal on the IDB’s website.
+
+...
+
+[Data](articles/96b44f50.json)
+
+---
+
+### Sri Lankans should fight for economic freedom and not for economic independence
+
+*2024-02-06 00:47:57* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lankans-should-fight-for-economic-freedom-and-not-for-economic-independence/4-758152) · `en`
+
+It is the economic interdependence and not economic independence that matters
+
+Sri Lankans’ fight for economic independence is futile since modern economies are interdependent. But they should aspire to win economic freedom since it helps them to become creative and win over those who are moving forward fast in the globe. That will necessarily require them to worship brain over belly
+
+Sri Lanka as a matter of routine habit celebrated the anniversary of independence from Britain on 4 February. This relates to the political independence in which Sri Lankans are empowered to elect their own rulers. The exercise of this power has happened on numerous occasions in the past 76 years. As such, Sri Lanka has been branded as one of the longest surviving democracies in South Asia, next only to India which has done so for 77 years.
+
+...
+
+[Data](articles/4b8260ab.json)
+
+---
+
 ### At least 10 killed in attack on police station in Pakistan
 
 *2024-02-06 00:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97028/at-least-10-killed-in-attack-on-police-station-in-pakistan) · `en`
@@ -101,6 +213,52 @@ A national assembly candidate was shot dead on Wednesday elsewhere in Khyber-Pak
 [Data](articles/9f12d83c.json)
 
 [Extended Data](ext_articles/9f12d83c.ext.json)
+
+---
+
+### Global digital operators have to pay VAT according to Sri Lankan tax laws
+
+*2024-02-06 00:22:43* · [`dailyftlk`](https://www.ft.lk/opinion/Global-digital-operators-have-to-pay-VAT-according-to-Sri-Lankan-tax-laws/14-758134) · `en`
+
+Following is an interview with Department of Inland Revenue former Deputy Commissioner General N.M.M. Mifly
+
+Q: Digital company taxation local versus foreign has become a subject of concern in the COPF, where it has been pointed out that an unfair playing field is prevalent with the advantage going to foreign digital players operating in Sri Lanka. How do you think this has happened?
+
+A: The digital economy allows room for tax evasion, avoidance, and double non-taxation of both direct and indirect taxes, by using loopholes in the domestic tax statutes. This is done, especially by non-resident digital service providers.
+
+It goes without saying that the non-payment of due taxes by international digital service providers has a direct adverse impact on their local competitors/counterparts. Creating such an uneven playing field has resulted in a loss of confidence in the efficiency of our tax system.
+
+...
+
+[Data](articles/35dc514b.json)
+
+---
+
+### Big Tech’s role and the OSB
+
+*2024-02-06 00:10:29* · [`dailyftlk`](https://www.ft.lk/columns/Big-Tech-s-role-and-the-OSB/4-758129) · `en`
+
+Meta CEO Mark Zuckerberg testifying at a Senate Judiciary Committee hearing at the Dirksen Senate Office Building on 31 January, 2024, in Washington, D.C., apologises to families who claim their children were hurt by using Facebook (Kent Nishimura/Bloomberg via Getty images)
+
+...
+
+[Data](articles/b702f24d.json)
+
+---
+
+### March 12 Movement denounces passage of Online Safety Bill in an unlawful manner
+
+*2024-02-06 00:07:09* · [`dailyftlk`](https://www.ft.lk/opinion/March-12-Movement-denounces-passage-of-Online-Safety-Bill-in-an-unlawful-manner/14-758128) · `en`
+
+The March 12 Movement yesterday in a statement denounced the passage of the Online Safety Bill in an unlawful manner.
+
+“We reiterate that the Online Safety Bill poses a grave threat to fundamental rights and democratic principles enshrined in the Constitution of Sri Lanka and regret to note that the current Government’s adamant pursuit of this legislation is a clear indication of its intention to silence dissent and suppress civic activism during this critical time of economic reform and upcoming elections,” the statement read.
+
+The March 12 Movement said it noted with grave concern that in addition to introducing an undemocratic law, Parliament outrageously acted in violation of the constitutionally guaranteed right to pre-enactment judicial review of legislation.
+
+...
+
+[Data](articles/f5fc737a.json)
 
 ---
 
@@ -157,6 +315,22 @@ On Thursday, Maligakanda Magistrate, Lochani Abeywickrama ordered him to appear 
 ---
 
 ### 2024-02-05 (Monday)
+
+### ABCs of the inflation fan chart
+
+*2024-02-05 23:53:53* · [`dailyftlk`](https://www.ft.lk/columns/ABCs-of-the-inflation-fan-chart/4-758126) · `en`
+
+It is important for central banks to guide the perception and expectations of economic agents towards the desired path of inflation
+
+Improved transparency and credibility of the central bank through effective communication and better public understanding of this communication would be mutually beneficial to maintain low and stable inflation, which is the prime objective of the central bank.
+
+The CBSL fully recognises the importance of transparency and effective communication in shaping inflation expectations of the public. Several efforts are being taken to increase information sharing with the public. In this regard, an updated inflation fan chart is published in the monthly inflation press releases, six monetary policy reviews in the year, and two bi-annual Monetary Policy Reports with detailed explanations
+
+...
+
+[Data](articles/41606ad8.json)
+
+---
 
 ### Cancer to King Charles
 
@@ -1803,213 +1977,5 @@ The Minister also said that the purpose of the Ministry of Education is the aim 
 [Data](articles/6620c910.json)
 
 [Extended Data](ext_articles/6620c910.ext.json)
-
----
-
-### Public Petition Calls for Rambukwella’s Removal
-
-*2024-02-05 15:05:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/public-petition-calls-for-rambukwella-s-removal/) · `en`
-
-COLOMBO (News 1st); The National Civil Organization Front (NCOF), a coalition of civil society groups, raised concerns regarding the alleged medicine scandal, calling for the entire cabinet to be held accountable.
-
-Furthermore, the activists launched a public petition demanding the immediate removal of Minister Keheliya Rambukwella from his position.
-
-In a further development surrounding the alleged medicine procurement scandal, the National Civil Organization Front (NCOF) and mass organizations jointly organized a signature campaign today.
-
-The program, held in front of the Fort railway station in Colombo, aimed to garner public support for their demands.  Several prominent figures voiced their outrage and called for action.
-
-Janaka Ratnayake, Former PUCSL Chairman, stated, "This shouldn't be seen as mere corruption, but as genocide. If such a scandal occurred abroad, the minister would resign. Yet, in Sri Lanka, this never happens. This individual must step down to set a precedent."
-
-...
-
-[Data](articles/b9040830.json)
-
-[Extended Data](ext_articles/b9040830.ext.json)
-
----
-
-### Prabath, Asitha help Sri Lanka coast to comfortable win
-
-*2024-02-05 14:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prabath-Asitha-help-Sri-Lanka-coast-to-comfortable-win/108-276349) · `en`
-
-Colombo, Feb. 5 (Daily Mirror) - Left arm spinner Prabath Jayasuriya and right arm pacman Asitha Fernando along with Kasun Rajith combined to help Sri Lanka coast to a comfortable ten wicket win over Afghanistan with a day to spare in the one off Test match concluded at the SSC ground.
-
-Sri Lanka set a simple run chase of 56 runs saw the openers Dimuth Karunaratne and Nishan Madushka guiding the side to race to the target with ease in 7.2 overs with the match coming to an end before the tea break.
-
-The morning session of proceedings was just the opposite of the final session's play on day three as the Sri Lanka bowlers made the Afghanistan batsmen work hard for their runs.
-
-Rahmat Shah who was unbeaten on 46 succeeded to reach his half ton but four runs later he was the first Afghanistan wicket to fall having associated in a 108 runs stand for the second wicket with Zadran.
-
-...
-
-[Data](articles/55e75987.json)
-
-[Extended Data](ext_articles/55e75987.ext.json)
-
----
-
-### To digitizing 3,000 schools with Advanced Level by June
-
-*2024-02-05 14:57:00* · [`adalk`](https://www.ada.lk/breaking_news/ජුනි-මාසය-වනවිට-උසස්-පෙළ-සහිත-පාසල්-3-000-ඩිජිටල්කරණයට‍/11-407909) · `si`
-
-Minister of Education Dr. Susil is the intention of acquisition of equal opportunities of education in the country and directly with the new text in Sri Lanka as a step in the country.Samanantha said.
-
-The Minister made these comments participating at a festival at Hindu College today (05). Accordingly, 3,000 schools in Sri Lanka will be identified from March and that teachers will be trained from March and provide haimers from March.. The Minister pointed out that the computer resource centers established in every educational zone have been updated.
-
-A year and a half years ago, the oil queue was taken over and the gas was taken over the country, the government charged as Minister of Education and to make the right decision to run the school system.He also remembered that the Minister of Received the commitment of all the country to develop the country's educational system in the next few weeks, he expends all educational authorities in the next few weeks.
-
-...
-
-[Data](articles/6b148199.json)
-
-[Extended Data](ext_articles/6b148199.ext.json)
-
----
-
-### Immunoglobulin scandal a massacre: Janaka Ratnayaka
-
-*2024-02-05 14:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Immunoglobulin-scandal-a-massacre-Janaka-Ratnayaka/108-276348) · `en`
-
-Colombo, Feb 5 (Daily Mirror) - Former Health Minister Keheliya Rambukwella's accusations over the import of substandard immunoglobulin injections should be considered as a fraud and a massacre, former Public Utilities Commission of Sri Lanka (PUCSL) chairman Janaka Ratnayaka said.
-
-Addressing the media, he said that the Minister had imported the immunoglobulin injections without following any procedures and had administered them to innocent people in the country.
-
-"We do not know how many people have lost their lives. Therefore, we should work on this issue, considering it similar to a massacre by Hitler during World War II. Hitler also engaged in killing people using poisonous injections," Ratnayaka said.
-
-He said the punishment given to Keheliya Rambukwella can be considered the best punishment in history given to a Sri Lankan politician.
-
-"I don't know what will happen in the future. My take is that this vaccine should be administered to all parliamentarians to check the symptoms.
-
-...
-
-[Data](articles/3b3b4144.json)
-
-[Extended Data](ext_articles/3b3b4144.ext.json)
-
----
-
-### CID including CID Director including CID directory
-
-*2024-02-05 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193004) · `si`
-
-Fourth Detention Order issued by the Criminal Investigation Department (CID) is named as a deputy dictatorship detention order to be released.The Supreme Court today ordered the petitioner today to take action notice to the officers including the Director of the Criminal Investigation Department.
-
-The petition was called before the Supreme Court Judge of Priyantha Jayawardena and Kumuduni Wickremasinghe and Arjuna Obeysekere.
-
-Attorneys at the time of the respondents did not appear on behalf of the respondents when they were called to consider the petition.
-
-Accordingly, the Supreme Court ordered the Supreme Court to consider the petition informed to the respondents to re-issue the respondents.
-
-The petitioner has been informed of the petitioner, 'Beef' courts 'beef' courts under the Prevention of Terrorism Act without any new investigation.
-
-The petitioner is requested to give a decision that the detention order is violated by this.
-
-◼️
-
-[Data](articles/b7e7f415.json)
-
-[Extended Data](ext_articles/b7e7f415.ext.json)
-
----
-
-### Sri Lanka Crush Afghanistan by 10 Wickets in Colombo Test!
-
-*2024-02-05 14:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/sri-lanka-crush-afghanistan-by-10-wickets-in-colombo-test/) · `en`
-
-COLOMBO (News 1st): Sri Lanka beat Afghanistan by 10 wickets to win the only test match between the two nations, in Colombo.
-
-Afghanistan, batting first, were bundled out for a modest 198 runs. Opening batsman Rahmat Shah top-scored with a fighting 91, but the Sri Lankan bowling attack, led by the pace of Vishwa Fernando (4 wickets) and the spin of Asitha Fernando and Prabath Jayasuriya (3 wickets each), proved too strong.
-
-In reply, Sri Lanka piled on a mammoth 439 runs, building a commanding lead. Veteran Angelo Mathews anchored the innings with a masterful 141, while Dinesh Chandimal provided valuable support with a fluent 107. Opener Dimuth Karunaratne also chipped in with a solid 77. Despite Naveed Zadran's four-wicket haul for Afghanistan, the Sri Lankan batting line-up proved too deep and diverse.
-
-...
-
-[Data](articles/12100456.json)
-
-[Extended Data](ext_articles/12100456.ext.json)
-
----
-
-### Loving Sri Lanka....
-
-*2024-02-05 14:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Loving-Sri-Lanka/110-276311) · `en`
-
-A tourist couple carrying a Sri Lankan national flag at the Independence Square on Independence Day. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/2e4a1767.json)
-
-[Extended Data](ext_articles/2e4a1767.ext.json)
-
----
-
-### Test win for four out of six
-
-*2024-02-05 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193003) · `si`
-
-Sri Lanka won the Test match against Afghanistan by 10 wickets.
-
-Chasing a target of 56 in the second innings, the Sri Lanka scored a target of 7 overs and scored the target in 7 overs.
-
-Dimuth Karunaratne played fast innings and scored 32 off 22 balls with two fours.
-
-Nishan Madashka scored 22 runs with four unbeaten and four fours.
-
-◼️
-
-[Data](articles/e742988d.json)
-
-[Extended Data](ext_articles/e742988d.ext.json)
-
----
-
-### Police and protesters clash after Senegal election postponed
-
-*2024-02-05 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97018/police-and-protesters-clash-after-senegal-election-postponed) · `en`
-
-Police made arrests and fired tear gas as opposition supporters protested President Macky Sall’s decision to postopne elections in Senegal.
-
-Clashes erupted on Sunday as federal lawmakers prepared to debate a bill to formalise the delay of the February 25 vote.
-
-Demonstrators rallied in the capital Dakar after leading opposition figures and candidates in the presidential election rejected Saturday’s announcement and called on citizens to defend democracy.
-
-Among those arrested as the protests spread was former Prime Minister Aminata Toure, as well as Anta Babacar Ngom, one of the candidates in the postponed vote.
-
-The government cut the signal of private television channel Walf as it broadcast the protest live. The New York-based non-profit Committee to Protect Journalists condemned the move in a post on social media platform X, urging Senegalese authorities to ensure that “journalists can work without hindrance”.
-
-...
-
-[Data](articles/8f830de9.json)
-
-[Extended Data](ext_articles/8f830de9.ext.json)
-
----
-
-### Need to think about the country than the party
-
-*2024-02-05 14:35:21* · [`adalk`](https://www.ada.lk/breaking_news/පක්ෂයට-වඩා-රට-ගැන-හිතන්න-ඕන/11-407908) · `si`
-
-At the moment, it is best to give the president of the president's appointment more than the current president ...
-
-Give President Ranil Wickremesinghe if it is worth ...
-
-At this moment, a prosperity leader must be appointed to the challenges of the country ...
-
-The JVP who has been horred to thief is the 88/89 forgetting himself ...
-
-I say Mr. Kumara said that he did not go to the country without political politics.
-
-At the moment, if the present President is desirable to give the president's party to the Presidency, he is definitely the opportunity to appoint President Ranil Wickremesinghe, Chief Government Whip Prasanna Ranatunga.
-
-Minister says that at this moment a prospective leader who can face the challenges of the country should be appointed. The present President has the highest qualifications for it.
-
-The Minister was speaking at the Sri Lanka General Manage at the Calidimla Division meeting yesterday (4).
-
-...
-
-[Data](articles/555221e0.json)
-
-[Extended Data](ext_articles/555221e0.ext.json)
 
 ---

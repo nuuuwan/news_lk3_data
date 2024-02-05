@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 06:17:14**
+As of **2024-02-05 06:55:03**
 
 ## Newspaper Stats
 
-*Scraped **4,798** Articles*
+*Scraped **4,807** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 59
 bbccomsinhala | 71
 dbsjeyarajcom | 136
-islandlk | 254
 economynextcom | 257
+islandlk | 263
 dailyftlk | 280
 newsfirstlk | 288
 adalk | 414
@@ -26,7 +26,7 @@ dailymirrorlk | 676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,798 (100.0%) of 4,798 articles have been extended.
+4,798 (99.8%) of 4,807 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -328,6 +328,34 @@ The arrestees are due to be produced before the Polonnaruwa Magistrate’s Court
 
 ---
 
+### SLPA receives brand new cranes to boost operational capacity at East Container Terminal
+
+*2024-02-04 21:11:00* · [`islandlk`](http://island.lk/slpa-receives-brand-new-cranes-to-boost-operational-capacity-at-east-container-terminal/) · `en`
+
+Sri Lanka Ports Authority (SLPA) is to receive brand new 12 STS Gantry cranes and 40 ARMG cranes from China to a total cost of USD 282 million. 03 STS Gantry cranes out of above total were received at the SLPA’s East Container Terminal (ECT) on February 2. The cranes will be installed at the ECT of the Port of Colombo. The total cost of the cranes is borne by SLPA.
+
+The specifications for the new STS Gantry cranes at the Port of Colombo are as follows:
+
+The outreach of a crane is 72 meters, spanning to operate 26TEUs across. Back reach extends to 25m, with a lifting height above the rail of 55m and a lifting height below the rail of 18m. The maximum load capacity under the spreader is 65T while under the lifting beam, a crane can handle up to 75T.
+
+...
+
+[Data](articles/cfd1d5e0.json)
+
+---
+
+### John Keells Group’s Plasticcycle and Pearl Protectors collect over 1 MT of plastic waste from seabed
+
+*2024-02-04 21:10:00* · [`islandlk`](http://island.lk/john-keells-groups-plasticcycle-and-pearl-protectors-collect-over-1-mt-of-plastic-waste-from-seabed/) · `en`
+
+Plasticcycle, the social entrepreneurship project of the John Keells Group & The Pearl Protectors (TPP), held the official partnership ceremony of the “Cleaner Seabeds for Sri Lanka Expedition” on 30th January 2024. The ceremony was aligned with the 21st dive at the Palagala North Reef in Dehiwala and included an awareness session for the invitees about the diving and clean-up process, safety standards maintained by the PADI-certified volunteer divers, the audit done once waste is collected, the upcycling and recycling efforts made for collected plastic waste and the positive impact achieved thus far through the partnership.
+
+...
+
+[Data](articles/a327e8e5.json)
+
+---
+
 ### A hot situation in Kandakada
 
 *2024-02-04 21:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192978) · `si`
@@ -391,6 +419,80 @@ Accordingly, the suspect was arrested, while the consignment of gold and his mot
 [Data](articles/f5895f03.json)
 
 [Extended Data](ext_articles/f5895f03.ext.json)
+
+---
+
+### Cathay Pacific to operate three non-stop flights per week from Colombo to Hong Kong
+
+*2024-02-04 20:53:00* · [`islandlk`](http://island.lk/cathay-pacific-to-operate-three-non-stop-flights-per-week-from-colombo-to-hong-kong/) · `en`
+
+Hong Kong’s home carrier Cathay Pacific’s much awaited direct flights between Sri Lanka and Hong Kong are officially back following a four-year hiatus, resuming a legacy of serving the Sri Lankan market for over 30 years.
+
+The first flight from Bandaranaike International Airport successfully took off on 2 February, marking the return of Cathay Pacific’s three-times-weekly service from Colombo, operating on Wednesdays, Fridays and Sundays. Flights are operated by the airline’s Airbus A330 aircraft, offering 28 fully flat seats in Business class and 265 spacious seats in Economy, ensuring a comfortable and premium travel experience for all customers.
+
+For both business and leisure travellers, the flights will serve as a gateway, offering exceptional connectivity via Hong Kong to Asia, the Southwest Pacific and North America. The airline is also promoting special fares for students travelling from Colombo to Sydney, Auckland, Singapore, Tokyo, and Kuala Lumpur.
+
+...
+
+[Data](articles/ffdacdf9.json)
+
+---
+
+### AIA Insurance empowers women entrepreneurs
+
+*2024-02-04 20:51:00* · [`islandlk`](http://island.lk/aia-insurance-empowers-women-entrepreneurs/) · `en`
+
+AIA Insurance announced its strategic partnership with the Women’s Chamber of Industry and Commerce (WCIC) as the platinum sponsor for the upcoming Prathibhabhisheka – Women Entrepreneur Awards. This initiative reflects AIA’s commitment to fostering inclusivity, empowering women in business, and celebrating their remarkable achievements.
+
+The company is dedicated to amplifying the impact of the Women Entrepreneur Awards by extending its support as the Platinum Sponsor. This sponsorship aligns seamlessly with AIA’s values of promoting inclusivity and supporting initiatives that empower women in business.
+
+Chathuri Munaweera, CEO AIA Insurance said, ” This partnership is a testimony to our dedication to fostering an environment where women entrepreneurs can thrive and make significant contributions to the business world. At AIA, we believe in the power of diversity and are excited to support and celebrate the achievements of women in entrepreneurship.”
+
+...
+
+[Data](articles/4b451c60.json)
+
+---
+
+### Yara Technologies enters African market, targets rapidly-growing FinTech
+
+*2024-02-04 20:51:00* · [`islandlk`](http://island.lk/yara-technologies-enters-african-market-targets-rapidly-growing-fintech/) · `en`
+
+Yara Technologies Sri Lanka’s premier EdFinTech company, expanded into the African market by partnering with Meus Technologies, Zambia. This move is strategically aligned with Africa’s rapidly growing FinTech landscape, presenting significant opportunities for Yara to enhance access to capital, especially for the expanding middle class. The company expects the FinTech adoption to be propelled by the enhancing mobile penetration, rising demand for capital among students, employees and the growing entrepreneurs/ SME segment. Currently, in Zambia, the combined consumer loan & educational loan market is close to USD 3 billion per annum, and the collaboration expects to make healthy inroads in this market.
+
+...
+
+[Data](articles/d3afe114.json)
+
+---
+
+### Sanasa Life Insurance accredited with ‘Great Place to Work’
+
+*2024-02-04 20:48:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-accredited-with-great-place-to-work/) · `en`
+
+Sanasa Life Insurance Company PLC has announced that that they have earned the certification by Great Place to Work for 2024 by the authority on workplace culture, employee experience, Employee satisfaction, Employee benefits and effective leadership.
+
+This certification was directed through an independent company assessment based entirely on employees’ feedback about their workplace experiences and have made the progress in making their work place and work culture to make the employee feel satisfied and risk free environment with work-life balance.
+
+Shaliya Silva, Assistant General Manager Training and Development stated that the staff at Sanasa Life Insurance Company PLC were thrilled to be named a Great Place to Work certified company and they would keep on sustaining their commitment to foster a grate work environment where their team members both permanent and non-permanent would have meaningful work and development within the organization.
+
+...
+
+[Data](articles/b7626d9c.json)
+
+---
+
+### Nadodi’s Nomadic Dining takes centre stage at Cinnamon Grand Colombo
+
+*2024-02-04 20:47:00* · [`islandlk`](http://island.lk/nadodis-nomadic-dining-takes-centre-stage-at-cinnamon-grand-colombo/) · `en`
+
+Nadodi, the groundbreaking restaurant renowned for redefining South Indian and Sri Lankan cuisine, is set to enthrall diners at Chutney’s Cinnamon Grand Colombo on February 21st and 22nd, 2024, exclusively for dinner. This exclusive event, featuring a restaurant takeover, promises an extraordinary set menu meticulously curated by the culinary maestros behind Nadodi.
+
+Founded by Cinnamon Group CEO, Abbi Kanthasamy, in collaboration with Chef Johnson Ebenezer and Chef Sricharan, Nadodi pays homage to the early settlers of Malaysia and the surrounding region. The curated degustation menus showcase reimagined heritage dishes, skillfully crafted to retain the authentic yet diverse flavours and richness of the South Indian Subcontinent.
+
+...
+
+[Data](articles/f8120848.json)
 
 ---
 
@@ -1789,145 +1891,5 @@ Ranil Wickremesinghe is a member of the presidential election in the presidentia
 [Data](articles/a979c5ec.json)
 
 [Extended Data](ext_articles/a979c5ec.ext.json)
-
----
-
-### Civil offenders to be sentenced to house-arrest to control prison overcrowding?
-
-*2024-02-04 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/96991/civil-offenders-to-be-sentenced-to-house-arrest-to-control-prison-overcrowding) · `en`
-
-Measures are afoot to sentence those found guilty of civil offences to house-arrest, in a bid to control the rate of overcrowding in the country’s prisons, State Minister of Justice and Prison Affairs Anuradha Jayaratne said.
-
-Accordingly, the State Minister revealed that steps have been taken to draft the relevant laws in this regard, adding that the Legal Draftsman’s Department is already working in this regard, following which the draft is slated to be presented in Parliament later this year.
-
-State Minister Jayaratne further added that parallel to these measures, several Acts, including the Bail Act will have to be amended.
-
-◼️
-
-[Data](articles/94f49f77.json)
-
-[Extended Data](ext_articles/94f49f77.ext.json)
-
----
-
-### 76th Independence Day celebrates
-
-*2024-02-04 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192961) · `si`
-
-The 76th National Independence Day celebrations were held at the Galle Galle Face today (04).
-
-The theme of the National Day celebration was headed by President Ranil Wickremesinghe.
-
-The approval of guests from Galle Faceora came to the Galle Faceora, and the acting IPP, Chief of Defense Staff, Defense Secretary, the Chief Justice, Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker, the Speaker and the Prime Minister
-
-...
-
-[Data](articles/3bbf2d80.json)
-
-[Extended Data](ext_articles/3bbf2d80.ext.json)
-
----
-
-### Debutant Chamika replaced after helmet blow
-
-*2024-02-04 12:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Debutant-Chamika-replaced-after-helmet-blow/108-276300) · `en`
-
-Colombo, Feb 04 (Daily Mirror) - Kasun Rajitha has been approved as the 'concussion replacement' for Chamika Gunasekera, who was hit on the helmet while batting during Sri Lanka's 1st inning.
-
-Chamika Gunasekera, making his debut in the Test match against Afghanistan, was retired hurt after sustaining a blow to the helmet while batting, scoring 16 runs.
-
-Today is the third day of the Sri Lanka-Afghanistan Test cricket match.
-
-Sri Lanka posted a total of 439 all out in their first innings in response to Afghanistan's 198 in their opening inning.
-
-◼️
-
-[Data](articles/a6cef746.json)
-
-[Extended Data](ext_articles/a6cef746.ext.json)
-
----
-
-### SJB to take disciplinary action against SF?
-
-*2024-02-04 12:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SJB-to-take-disciplinary-action-against-SF/155-276299) · `en`
-
-Taking an offensive stance against Field Marshal Sarath Fonseka, Leader of the Opposition and Samagi Jana Balawegaya (SJB) leader Sajith Premadasa said he will not hesitate to take displinary action against those who criticise decisions taken by him and his party.
-
-This offensive remark by Premadasa came just a few days after MP Fonseka criticised the decision made by Premadasa to appoint former Army Commander, General (Retired) Daya Ratnayake as Senior Advisor to the SJB.
-
-"No one should call me and tell me whom I should give party membership to. I will ignore such people who try to advice me. I will not hesitate to take bold decisions to take disciplinary action against those who criticize the party," Sajith Premadasa told a gathering in Galle over the weekend.
-
-"It is the duty of SJB members to safeguard the party and see that it emerges victorious at future elections. Those who cannot carry out that duty should get out," he added.
-
-...
-
-[Data](articles/7a1cee94.json)
-
-[Extended Data](ext_articles/7a1cee94.ext.json)
-
----
-
-### SJB to take disciplinary action against SF?
-
-*2024-02-04 12:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-to-take-disciplinary-action-against-SF/108-276299) · `en`
-
-Taking an offensive stance against Field Marshal Sarath Fonseka, Leader of the Opposition and Samagi Jana Balawegaya (SJB) leader Sajith Premadasa said he will not hesitate to take displinary action against those who criticise decisions taken by him and his party.
-
-This offensive remark by Premadasa came just a few days after MP Fonseka criticised the decision made by Premadasa to appoint former Army Commander, General (Retired) Daya Ratnayake as Senior Advisor to the SJB.
-
-"No one should call me and tell me whom I should give party membership to. I will ignore such people who try to advice me. I will not hesitate to take bold decisions to take disciplinary action against those who criticize the party," Sajith Premadasa told a gathering in Galle over the weekend.
-
-"It is the duty of SJB members to safeguard the party and see that it emerges victorious at future elections. Those who cannot carry out that duty should get out," he added.
-
-...
-
-[Data](articles/7a8176dd.json)
-
-[Extended Data](ext_articles/7a8176dd.ext.json)
-
----
-
-### Cardinal asks what freedom is
-
-*2024-02-04 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192960) · `si`
-
-Excellent Malcolm Cardinal Ranjith says the time has come to rescue the country from oppressive leadership.
-
-Kidinal Thero expressed these views to the special service held at the Punchi Borella's church on behalf of the day.
-
-The Archbishop is greatly thrilling Malcolm Cardinal, speaking further.
-
-"The country has fallen down political and economically. Whose Freedom Celebrate Leaders?Are the regrets of rulers?Is the freedom of people?Are the representatives of overseas and hunger people are freedom to be hungry before the elite?Beautiful our motherland unfortunate. The country should be liberated from oppressive control elimination. A right leader should be appointed to the country. "
-
-◼️
-
-[Data](articles/85d447b6.json)
-
-[Extended Data](ext_articles/85d447b6.ext.json)
-
----
-
-### Attachment attempted to rob an inmate bus from Kandakada
-
-*2024-02-04 12:38:58* · [`adalk`](https://www.ada.lk/breaking_news/කන්දකාඩුවෙන්-පැනගිය-රැඳවියන්-බස්-රථයක්-කොල්ලකෑමට-ගිය-උත්සාහය-වරදියි/11-407890) · `si`
-
-Polonnaruwa Welikanda Rehabilitation Center at Welikanda Kandakadu Rehabilitation Center at Third Sayurani at the site of a security officer in the somawayWelikanda Police say have fled.
-
-A businessman has been admitted to the Polonnaruwa General Hospital after the inventors were assaulted by a knife.
-
-The police said that two inmates who had come to the abduction of the bus have fled the abduction of the bus.
-
-Welikanda OIC Inspector Samantha Ratnayake said all the detainees fled to the Kandakadu Rehabilitation Center has been handed over to the Kandakadu Rehabilitation Center.
-
-A police officer in charge of the area said that the inmates at the Kandakadu Rehabilitation Center were crying and conflicting the freedom of the day.
-
-A group of detainees of the Kundakadu Rehabilitation Center were arrested on January 12 and arrested the detainees.
-
-◼️
-
-[Data](articles/d088610f.json)
-
-[Extended Data](ext_articles/d088610f.ext.json)
 
 ---

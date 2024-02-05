@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 23:33:04**
+As of **2024-02-05 23:52:03**
 
 ## Newspaper Stats
 
-*Scraped **5,002** Articles*
+*Scraped **5,004** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 433
 virakesarilk | 580
 adaderanalk | 620
 tamilmirrorlk | 634
-adaderanasinhalalk | 646
+adaderanasinhalalk | 648
 dailymirrorlk | 711
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,002 (100.0%) of 5,002 articles have been extended.
+5,004 (100.0%) of 5,004 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### Executive President is responsible for the people
+
+*2024-02-05 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193020) · `si`
+
+Parliamentarian Professor Charit Herath says that not only Parliament but also responsible for the people.
+
+He was speaking to the President by a letter.
+
+The letter has been referred to the President based on the issues of the parliamentary structured and the president.
+
+◼️
+
+[Data](articles/a6043395.json)
+
+[Extended Data](ext_articles/a6043395.ext.json)
+
+---
 
 ### ‘We must avoid falling into debt again and becoming a nation of beggars’ – President
 
@@ -63,6 +81,28 @@ Police said the Moneragala Prison Superintendent had informed the arrest of the 
 [Data](articles/ca3f24ca.json)
 
 [Extended Data](ext_articles/ca3f24ca.ext.json)
+
+---
+
+### Opening of Excellent Center Opens
+
+*2024-02-05 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193019) · `si`
+
+The President opened the President of Excellence in the Dambulla Stadium today (05).
+
+Cricketers in Sri Lanka were created in parallel to the national program, "the National Cricket Development Passion", which is launched to provide equal opportunities for the national team representing the national team.
+
+The President also opened the new swimming pool at the Dambulla Stadium premises and had also participated in the swimming pool practical activities.
+
+President Ranil Wickremesinghe was opened by President Ranil Wickremesinghe.
+
+Meanwhile, the President also launched the root stone at the Rangiri Dambulla International Cricket Stadium and the Center of Excellence, the new auditorium and the domestic station.
+
+◼️
+
+[Data](articles/125d65c3.json)
+
+[Extended Data](ext_articles/125d65c3.ext.json)
 
 ---
 
@@ -1963,33 +2003,5 @@ The Buddhist monk had sustained critical injuries in the incident and was subseq
 [Data](articles/efa00a42.json)
 
 [Extended Data](ext_articles/efa00a42.ext.json)
-
----
-
-### Child dies after a tree collapses in an international school
-
-*2024-02-05 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192998) · `si`
-
-A child has died after a tree in the International School in Gampola.
-
-◼️
-
-[Data](articles/a42a23ff.json)
-
-[Extended Data](ext_articles/a42a23ff.ext.json)
-
----
-
-### Increase in the price of carrots again
-
-*2024-02-05 12:56:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கேரட்-விலை-மீண்டும்-அதிகரிப்பு/76-332700) · `ta`
-
-The price of Nuwara Eliya Carrot has increased again. The price of 1 kg carrot, which was at a cost of Rs.
-
-◼️
-
-[Data](articles/1a462859.json)
-
-[Extended Data](ext_articles/1a462859.ext.json)
 
 ---

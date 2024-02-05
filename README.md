@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 19:17:24**
+As of **2024-02-05 19:32:56**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ dailymirrorlk | 704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,966 (99.9%) of 4,972 articles have been extended.
+4,972 (100.0%) of 4,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
 
-### ශ්‍රී ලංකා කණ්ඩායමට දඟ පන්දු පුහුණුකරුවෙක්
+### A spinner coach to Sri Lanka
 
 *2024-02-05 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193016) · `si`
 
-ශ්‍රී ලංකා ජාතික ක්‍රිකට් කණ්ඩායමට නව දඟ පන්දු පුහුණුකරුවෙක් පත්කර ඇති බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පවසයි.
+Sri Lanka National Cricket team has been appointed to the Sri Lanka National Cricket team.
 
-ඔස්ට්‍රේලියානු හිටපු පළමු පෙළ ක්‍රීඩකයෙකු වන Craig Howard මෙලෙස ජාතික කණ්ඩායමේ දඟ පන්දු පුහුණුකරු ලෙස පත්කර තිබේ.
+Craig howard, the former first-text player, has been appointed as the spinner coach of the national team.
 
 ◼️
 
 [Data](articles/28cde943.json)
+
+[Extended Data](ext_articles/28cde943.ext.json)
 
 ---
 
@@ -91,6 +93,8 @@ He was responding to the remarks made by SJB Leader Sajith Premadasa during the 
 ...
 
 [Data](articles/0c01bb2d.json)
+
+[Extended Data](ext_articles/0c01bb2d.ext.json)
 
 ---
 
@@ -282,6 +286,8 @@ During the inquiry, the Cinnamon Garden Police had submitted to the Fort Magistr
 
 [Data](articles/86f8409e.json)
 
+[Extended Data](ext_articles/86f8409e.ext.json)
+
 ---
 
 ### Fowzie urges Bribery Commission to withdraw his corruption case
@@ -299,6 +305,8 @@ After the matter was called before Colombo High Court Judge Nawaratne Marasinghe
 ...
 
 [Data](articles/f1582ca4.json)
+
+[Extended Data](ext_articles/f1582ca4.ext.json)
 
 ---
 
@@ -1052,27 +1060,31 @@ The government cut the signal of private television channel Walf as it broadcast
 
 ---
 
-### පක්ෂයට වඩා රට ගැන හිතන්න ඕන
+### Need to think about the country than the party
 
 *2024-02-05 14:35:21* · [`adalk`](https://www.ada.lk/breaking_news/පක්ෂයට-වඩා-රට-ගැන-හිතන්න-ඕන/11-407908) · `si`
 
-මේ මොහොතේදී ජනාධිපති අපෙක්ෂකත්වයට වත්මන් ජනාධිපතිවරයාට වඩා සුදුස්සකු තම පක්ෂයේ සිටීනම් ඒ සඳහා ඔහුට අවස්ථාව ලබාදීම සුදුසුයි...
+At the moment, it is best to give the president of the president's appointment more than the current president ...
 
-සුදුස්සකු නැතිනම් ඒ අවස්ථාව අනිවාර්යයෙන්ම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාටම ලබාදෙන්න...
+Give President Ranil Wickremesinghe if it is worth ...
 
-මේ මොහොතේදී පක්ෂයට වඩා රට ගැන සිතා අභියෝගවලට මුහුණදිය හැකි අනාගතවාදී නායකයකු පත්කරගත යුතුයි...
+At this moment, a prosperity leader must be appointed to the challenges of the country ...
 
-රාජපක්ෂලා හොරා කෑව කියන ජනතා විමුක්ති පෙරමුණට 88/89 තමන් කරපුව අමතකයි...
+The JVP who has been horred to thief is the 88/89 forgetting himself ...
 
-මලකඩ කාපු දේශපාලන නොකර රට ගැන හිතලා වැඩ කරන්න කියලා මම අනුර කුමාර කියනවා..
+I say Mr. Kumara said that he did not go to the country without political politics.
 
-මේ මොහොතේදී ජනාධිපති අපෙක්ෂකත්වයට වත්මන් ජනාධිපතිවරයාට වඩා සුදුස්සකු තම පක්ෂයේ සිටීනම් ඒ සඳහා ඔහුට අවස්ථාව ලබාදීම සුදුසු බවත් එසේ සුදුස්සකු නැතිනම් ඒ අවස්ථාව අනිවාර්යයෙන්ම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාටම ලබාදිය යුතු බවත් ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා අවධාරණය කරයි.
+At the moment, if the present President is desirable to give the president's party to the Presidency, he is definitely the opportunity to appoint President Ranil Wickremesinghe, Chief Government Whip Prasanna Ranatunga.
 
-අමාත්‍යවරයා පවසන්නේ මේ මොහොතේදී පක්ෂයට වඩා රට ගැන සිතා අභියෝගවලට මුහුණදිය හැකි අනාගතවාදී නායකයකු පත්කරගත යුතු බවයි. වත්මන් ජනාධිපතිවරයා ඒ සඳහා ඉහළම සුදුසුකම් ඇති බවද ඔහු පවසයි.
+Minister says that at this moment a prospective leader who can face the challenges of the country should be appointed. The present President has the highest qualifications for it.
+
+The Minister was speaking at the Sri Lanka General Manage at the Calidimla Division meeting yesterday (4).
 
 ...
 
 [Data](articles/555221e0.json)
+
+[Extended Data](ext_articles/555221e0.ext.json)
 
 ---
 
@@ -1211,6 +1223,8 @@ Several members of the Health Trade Union Alliance (HTUA) staged a protest in fr
 ◼️
 
 [Data](articles/d6f904a0.json)
+
+[Extended Data](ext_articles/d6f904a0.ext.json)
 
 ---
 

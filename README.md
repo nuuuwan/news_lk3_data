@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 09:51:48**
+As of **2024-02-05 10:02:55**
 
 ## Newspaper Stats
 
-*Scraped **4,826** Articles*
+*Scraped **4,840** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 137
 economynextcom | 257
 islandlk | 263
 dailyftlk | 280
-newsfirstlk | 288
-adalk | 414
+newsfirstlk | 291
+adalk | 416
 virakesarilk | 548
 adaderanalk | 603
-tamilmirrorlk | 607
+tamilmirrorlk | 616
 adaderanasinhalalk | 620
 dailymirrorlk | 679
 
@@ -26,11 +26,57 @@ dailymirrorlk | 679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,826 (100.0%) of 4,826 articles have been extended.
+4,826 (99.7%) of 4,840 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### நீரில் மூழ்கிய 6 பேர் மீட்பு
+
+*2024-02-05 09:31:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கிய-6-பேர்-மீட்பு/175-332682) · `ta`
+
+பாணந்துறை கடற்கரையில் நீராடச் சென்ற 6 பேர், அலையில்  சிக்கி அடித்துச் செல்லப்பட்ட போது, ​​பாணந்துறை பொலிஸ் உயிர்காப்புப் பிரிவின் அதிகாரிகள் இருவரினால் காப்பாற்றப்பட்டுள்ளனர்.
+
+16 வயதுக்கும் 21 வயதுக்கும் இடைப்பட்ட மூன்று சிறுவர்களும் மூன்று சிறுமிகளும் இவ்வாறு உயிர் பிழைத்துள்ளனர்.
+
+நேற்று (04) மாலை இந்த சம்பவம் இடம்பெற்றுள்ளதுடன், அவர்களை காப்பாற்றிய உயிர்காப்புப் பிரிவின் அதிகாரிகள், அவர்களுக்கு முதலுதவி செய்து உறவினர்களிடம் ஒப்படைத்தனர்.
+
+◼️
+
+[Data](articles/b69635b6.json)
+
+---
+
+### பெலியத்த துப்பாக்கி சூடு: மற்றுமொரு சந்தேக நபர் கைது
+
+*2024-02-05 09:26:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலியத்த-துப்பாக்கி-சூடு-மற்றுமொரு-சந்தேக-நபர்-கைது/175-332681) · `ta`
+
+ஹம்பாந்தோட்டை பெலியத்த பிரதேசத்தில் ஐந்து பேர் சுட்டுக் கொல்லப்பட்ட சம்பவம் தொடர்பில் மேலும் ஒரு சந்தேக நபரை பொலிஸார் கைது செய்துள்ளனர்.
+
+கொலைகளுக்கு உதவிய குற்றச்சாட்டில் சந்தேக நபர் நேற்று (04) ஹபராதுவையில் கைது செய்யப்பட்டதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+கைது செய்யப்பட்ட சந்தேக நபர் ரத்கம, கட்டுடம்பே பிரதேசத்தை சேர்ந்த 28 வயதுடையவர்.
+
+◼️
+
+[Data](articles/c7062ff3.json)
+
+---
+
+### யுக்தியவில் மேலும் 667 சந்தேக நபர்கள் கைது
+
+*2024-02-05 09:22:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்தியவில்-மேலும்-667-சந்தேக-நபர்கள்-கைது/175-332680) · `ta`
+
+கடந்த 24 மணி நேரத்தில் மேலும் 667 சந்தேக நபர்கள் இலங்கையின் பொலிஸ் மற்றும் பாதுகாப்புப் படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+இதன்போது, 191 கிராம் ஹெரோய்ன் மற்றும் 103 கிராம் ஐஸ் போதைப்பொருள் கைப்பற்றப்பட்டதாக பொது பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/6eb18c80.json)
+
+---
 
 ### The second phase of the third installment is beginning today
 
@@ -114,6 +160,28 @@ Indigenous Medicine Sisira Jayakody is looking to legalize the cultivation only 
 
 ---
 
+### Eight injured in a clash between Kandakadu inmates
+
+*2024-02-05 08:10:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/eight-injured-in-a-clash-between-kandakadu-inmates/) · `en`
+
+COLOMBO (News 1st); Eight people were injured in a clash between two groups of inmates at the Kandakadu Rehabilitation Center on Sunday (04) night.
+
+Police said they were transferred to the Polonnaruwa Hospital for further treatment after initially being admitted to the Welikanda Hospital.
+
+Police have taken 14 suspects into custody in relation to the incident.
+
+Clashes were reported among inmates of the Kandakadu Rehabilitation Center based on various issues on several occassions.
+
+Cardinal calls for a transition to new leadership in Sri Lanka
+
+Navy Seizes Two Poaching Trawlers & 23 Indian Nationals in Sri Lankan Waters
+
+◼️
+
+[Data](articles/005c95ad.json)
+
+---
+
 ### Keheliya - Deputy Solicitor General made fake fear of drug shortages to import low -quality drugs
 
 *2024-02-05 08:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175576) · `ta`
@@ -147,6 +215,46 @@ The accident has not been damaged and the police are informed to use alternative
 [Data](articles/0fb159ec.json)
 
 [Extended Data](ext_articles/0fb159ec.ext.json)
+
+---
+
+### Jathika Jana Balawegaya delegation leaves for India
+
+*2024-02-05 08:08:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/jathika-jana-balawegaya-delegation-leaves-for-india/) · `en`
+
+COLOMBO (News 1st); A delegation including Leader of the Jathika Jana Balawegaya Anura Kumara Dissanayake left for India on Monday (05), following an official invitation from the Government of India.
+
+The delegation includes Secretary of the party Dr. Nihal Abeysinghe, MP Vijitha Herath and National Executive Member Professor Anil Jayantha.
+
+The group is due to hold an official meeting with Indian government officials on Monday (05).
+
+Cardinal calls for a transition to new leadership in Sri Lanka
+
+Navy Seizes Two Poaching Trawlers & 23 Indian Nationals in Sri Lankan Waters
+
+◼️
+
+[Data](articles/9d4f3eaf.json)
+
+---
+
+### Second phase of the 3rd school term to commence
+
+*2024-02-05 08:06:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/second-phase-of-the-3rd-school-term-to-commence/) · `en`
+
+COLOMBO (News 1st); The second phase of the third school term of 2023 will commence on Monday (05) for government and government-approved schools.
+
+The Ministry of Education said the second phase of the third term will end on the 16th of February.
+
+The first school term of 2024 is scheduled to commence on the 19th of February.
+
+Cardinal calls for a transition to new leadership in Sri Lanka
+
+Navy Seizes Two Poaching Trawlers & 23 Indian Nationals in Sri Lankan Waters
+
+◼️
+
+[Data](articles/808eaf97.json)
 
 ---
 
@@ -266,6 +374,40 @@ Police say that 667 suspects were arrested in the last 24 hours in the country u
 
 ---
 
+### சவப்பெட்டியுடன் மயானம் சென்றார் மேர்வின் சில்வா
+
+*2024-02-05 07:42:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவப்பெட்டியுடன்-மயானம்-சென்றார்-மேர்வின்-சில்வா/175-332679) · `ta`
+
+முன்னாள் அமைச்சர் மேர்வின் சில்வா உட்பட சிலர் நேற்று (04) மாலை பொரளை மயானத்துக்கு சவப்பெட்டியுடன் சென்றுள்ளனர்.
+
+நிகழ்நிலை காப்புச் சட்டத்துக்கு எதிர்ப்புத் தெரிவிக்கும் வகையில் இவ்வாறு அவர்கள் சவப்பெட்டியுடன் சென்றதாக தெரிவிக்கப்படுகிறது.
+
+குறித்த குழுவினர் பொரளை மயானத்துக்குள் பிரவேசிக்க முற்பட்ட போது பாதுகாப்பு உத்தியோகத்தர்கள் அதனை எதிர்த்ததால் இரு குழுக்களுக்குமிடையில் முறுகல் நிலை ஏற்பட்டது.
+
+எனினும் பாதுகாப்பு அதிகாரிகளின் எதிர்ப்பையும் மீறி முன்னாள் அமைச்சர் உள்ளிட்டோர் உள்ளே நுழைந்து தமது எதிர்பை வெளிப்படுத்தியுள்ளனர்.
+
+◼️
+
+[Data](articles/dd35f64c.json)
+
+---
+
+### ඉන්දීය නිල ආරාධනාවකට අනුර ඇතුළු පිරිසක් ඉන්දීය සංචාරයක
+
+*2024-02-05 07:38:44* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-නිල-ආරාධනාවකට-අනුර-ඇතුළු-පිරිසක්-ඉන්දීය-සංචාරයක/11-407897) · `si`
+
+ඉන්දීය රජයේ නිල ආරාධනයකට අනුව ජාතික ජනබල වේගයේ නායක අනුර කුමාර දිසානායක මහතා ඇතුළු සිව් දෙනෙකු අද (05දා) අලුයම ඉන්දියාවේ නවදිල්ලි නුවර බලා පිටත්ව ගිය බව කටුනායක ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා සනාථ කළේය .
+
+අනුර කුමාර දිසානායක මහතා සමග එහි පාර්ලිමේන්තු මන්ත්‍රී  විජිත හේරත්, විශේෂඥ වෛද්‍ය නිහාල් අබේසිංහ සහ මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු යන මහත්වරුන් මෙම සංචාරය සදහා එක් වී සිටියහ .
+
+මෙම පිරිස 02/05 දින අලුයම 04.41 ට ඉන්දීය ගුවන් සේවයට අයත් ඒ.අයි.- 284 දරන ගුවන් යානයෙන් ඉන්දියාවේ නවදිල්ලි නුවර බලා පිටත්ව ගියහ.
+
+◼️
+
+[Data](articles/5df9069d.json)
+
+---
+
 ### Muslim religious ceremony for Independence Day
 
 *2024-02-05 07:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Muslim-religious-ceremony-for-Independence-Day/110-276326) · `en`
@@ -277,6 +419,28 @@ A Muslim religious ceremony to mark the 76th Independence Day was held yesterday
 [Data](articles/b9aa680d.json)
 
 [Extended Data](ext_articles/b9aa680d.ext.json)
+
+---
+
+### பிற்பகல் 2 மணிக்கு பின்னர் பலத்த மழை பெய்யும்
+
+*2024-02-05 07:32:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிற்பகல்-2-மணிக்கு-பின்னர்-பலத்த-மழை-பெய்யும்/175-332678) · `ta`
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் அத்துடன்  பொலநறுவை மற்றும் மாத்தளை மாவட்டங்களிலும்  இடைக்கிடையே மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+சப்ரகமுவ, மேல் மற்றும் வடமேல்  மாகாணங்களின்  பல இடங்களிலும் அத்துடன் கண்டி, நுவரேலியா, காலி மற்றும் மாத்தறை மாவட்டங்களின் பல இடங்களிலும்  பிற்பகல் இரண்டு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக்  காணப்படுகின்றது.
+
+மத்திய மற்றும்  சப்ரகமுவ  மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும்  காலை வேளையில் பனிமூட்டம் காணப்படும்.
+
+திருகோணமலை தொடக்கம் பொத்துவில் ஊடாக ஹம்பாந்தோட்டை  வரையான  கரையோரத்திற்கு அப்பால் உள்ள கடல் பிராந்தியங்களின் பல இடங்களில்  மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+மாத்தறை தொடக்கம் காலி, கொழும்பு ஊடாக சிலாபம் வரையான கடல் பிராந்தியங்களின் பல இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 20 - 30 கிலோமீற்றர் வேகத்தில் வடகிழக்குத்  திசையில் இருந்து  காற்று வீசும்.
+
+...
+
+[Data](articles/0765bb30.json)
 
 ---
 
@@ -361,6 +525,70 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/1beabbd8.json)
 
 [Extended Data](ext_articles/1beabbd8.ext.json)
+
+---
+
+### சுதந்திர தின விழாவில் மயங்கிய மாணவர்கள்
+
+*2024-02-05 01:58:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுதந்திர-தின-விழாவில்-மயங்கிய-மாணவர்கள்/175-332675) · `ta`
+
+வவுனியாவில் மாணவர்கள், சிவில் பாதுகாப்பு உத்தியோகத்தர்கள் உட்பட 4 பேர் திடீரென மயங்கியுள்ளனர். அவர்களுக்கு முதலுதவி வழங்கப்பட்டுள்ளது.
+
+இலங்கையின் 76 ஆவது சுதந்திர தின விழா வவுனியா மாவட்டத்தில் நேற்றுக் காலை நகர சபை மைதானத்தில் இடம்பெற்றது. இதன்போதே அவர்கள் மயங்கி வீழ்ந்துள்ளனர்.
+
+அணிவகுப்பில் கலந்துகொண்ட பாடசாலை மாணவர்கள், சிவில் பாதுகாப்புப் படையினர், பொலிஸார் அணி வகுப்பு நிறைவடைந்த பின்னர் பிரதான நிகழ்வு மண்டபத்துக்கு முன்பாக உள்ள மைதானத்தில் தங்க வைக்கப்பட்டிருந்தனர்.
+
+இந்த மாணவர்கள், பொலிஸார் மற்றும் சிவில் பாதுகாப்பு உத்தியோகத்தர்கள் ஒரு மணி நேரமாக மைதானத்தில் தங்க வைக்கப்பட்டிருந்த நிலையில், 2 மாணவர்களும் 2 சிவில் பாதுகாப்பு உத்தியோகத்தர்களும் மயங்கி விழுந்துள்ளனர். (a)
+
+◼️
+
+[Data](articles/94b152e4.json)
+
+---
+
+### அம்பாந்தோட்டையில் விபத்து: 6 பேர் படுகாயம்
+
+*2024-02-05 01:52:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பாந்தோட்டையில்-விபத்து-6-பேர்-படுகாயம்/175-332674) · `ta`
+
+தங்காலை அம்பாந்தோட்டை பிரதான வீதியில் நேற்று இடம்பெற்ற வாகன விபத்தில் 6 பேர் படுகாயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர் என்று ஹங்கம பொலிஸார் தெரிவித்தனர்.
+
+அம்பலாந்தோட்டையில் இருந்து தங்காலை நோக்கிச் சென்ற சிறிய காரொன்றும், ஹங்கமவில் இருந்து அம்பலாந்தோட்டை நோக்கிச் சென்ற வானும் மோதியதில் இவ்விபத்து நேர்ந்துள்ளது என்று பொலிஸார் குறிப்பிட்டனர். (a)
+
+◼️
+
+[Data](articles/0e74124a.json)
+
+---
+
+### இன்று இந்தியா செல்கிறார் அநுரகுமார
+
+*2024-02-05 01:45:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இந்தியா-செல்கிறார்-அநுரகுமார/175-332673) · `ta`
+
+இந்திய அரசாங்கத்தின் உத்தியோகப்பூர்வ அழைப்பினை ஏற்று தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க உள்ளிட்ட கட்சியின் பிரதிநிதிகள் இன்று இந்தியாவிற்குச் செல்கின்றனர்.
+
+தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க, செயலாளர் வைத்திய நிபுணர் நிஹால் அபேசிங்க, பாராளுமன்ற உறுப்பினர் விஜித ஹேரத், தேசிய நிறைவேற்று பேரவை உறுப்பினர் பேராசிரியர் அனில் ஜயந்த ஆகியோரே ந்தியாவிற்குச் செல்கின்றனர். (a)
+
+◼️
+
+[Data](articles/a54ce085.json)
+
+---
+
+### 23 இந்திய மீனவர்களுக்கு விளக்கமறியல்
+
+*2024-02-05 01:41:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/23-இந்திய-மீனவர்களுக்கு-விளக்கமறியல்/175-332672) · `ta`
+
+நெடுந்தீவு கடற்பகுதியில் சட்டவிரோதமாக மீன்பிடியில் ஈடுபட்ட குற்றச்சாட்டில் கைதான 23 இந்திய மீனவர்களும் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+குறித்த மீனவர்கள் நேற்று  முன்தினம் இரவு இலங்கை கடற்படையினரால் கைது செய்யப்பட்டதுடன், அவர்கள் பயணித்த இரண்டு படகுகளும் பறிமுதல் செய்யப்பட்டன.
+
+இதனையடுத்து, குறித்த இந்திய மீனவர்கள் ஊர்காவற்துறை நீதவான் ஜெ.கஜநிதிபாலன் முன்னிலையில் நேற்று முன்னிலைப்படுத்தப்பட்டனர்.
+
+அதன்போது, குறித்த 23 இந்திய மீனவர்களையும் எதிர்வரும் 14ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/aafbc2e3.json)
 
 ---
 
@@ -465,6 +693,22 @@ Dialog Television customers will also be delighted to know that the offer is jus
 ---
 
 ### 2024-02-04 (Sunday)
+
+### කෝටිපති ව්‍යාපරිකයාගේ නිවස ඉදිරිපිට මල්වඩමක් තියලා
+
+*2024-02-04 23:43:08* · [`adalk`](https://www.ada.lk/breaking_news/කෝටිපති-ව්‍යාපරිකයාගේ-නිවස-ඉදිරිපිට-මල්වඩමක්-තියලා/11-407896) · `si`
+
+කෝටිපති ව්‍යාපාරිකයකුගේ නවගමුව නිවස ඉදිරිපිට විදේශගතව සිටින සංවිධානාත්මක අපරාධකරුවෙකු  දුරකථන අංකයක් සඳහන් කර මල්වඩමක් තැබීම සම්බන්ධයෙන් පොලිස් කණ්ඩායම් කීපයක් විශේෂ විමර්ශන ආරම්භ කර ඇතැයි නුගේගොඩ පොලිස් කොට්ඨාසයේ උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+
+එම මල්වඩමේ    "  අප අතරින් වෙන් වී යන --------------------(ව්‍යාපාරිකයාගේ නම) bozata නිවන් සුව" යනුවෙන්   විශාල අකුරින් හා " අවසන් ලියුමයි ඔබට ලියන්නේ "   යනුවෙන්  කාඩ්බෝඩ් කැබැල්ලක  සඳහන් කර මල්වඩමේ  රඳවා  ඇතැයි ද පොලිස් ආරංචි මාර්ග සඳහන් කරයි.
+
+පාතාල කල්ලි සාමාජික  සපුගේ මනෝජ් මුතු කුමාර නොහොත් මුතු යන අය  මෙම ව්‍යාපාරිකයා අතුරුගිරියට මුදල් ලබාදෙන බවත් ( ි අතුරුගිරිය යනුවෙන් අදහස් කර ඇත්තේ සංවිධානාත්මක අපරාධ කල්ලි නායක ලඩියා යන අයගේ පාර්ශවයට මුදල් ලබා දෙන බවත්ය)  එය නතර නොකළොත් ඔහු ගැන බලාගන්නා බවටත් ප්‍රකාශ කර ඇති බවටද  පොලිස් ආරංචි මාර්ග සඳහන් කරයි.
+
+...
+
+[Data](articles/eb680215.json)
+
+---
 
 ### Mervyn took a coffin and objections to a cemetery
 
@@ -1669,261 +1913,5 @@ At attempting to pass a bus to go after a bus, the suspection of collided with t
 [Data](articles/dfcad5b9.json)
 
 [Extended Data](ext_articles/dfcad5b9.ext.json)
-
----
-
-### Tulirkuma re -federation?
-
-*2024-02-04 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175548) · `ta`
-
-The question arises as to whether he has the intention of fulfilling the wishes of the forces, which the TNA, which was created with the LTTE's blessing, should not last.
-
-In this case, the re -formation of the Tamil National Alliance is possible, depending on the extent that the Tamil National parties are ready for concessions.
-
-◼️
-
-[Data](articles/3a2dcdb7.json)
-
-[Extended Data](ext_articles/3a2dcdb7.ext.json)
-
----
-
-### Will you slip off the opportunity?
-
-*2024-02-04 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175547) · `ta`
-
-If the TNA misses these two opportunities, it will be a massive mistake in history.
-
-Leaders and parties that fail to take advantage of the opportunities available have disappeared from history.
-
-Such a situation is in the hands of the party's leadership, the fact that the TNA does not occur.
-
-◼️
-
-[Data](articles/bab8c506.json)
-
-[Extended Data](ext_articles/bab8c506.ext.json)
-
----
-
-### Intellectuals must formulate the plan for Muslims
-
-*2024-02-04 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/175544) · `ta`
-
-Muslim intellectuals must come forward to lead politicians and community. This year is the year of elections because the Muslim intellectuals must formulate a plan that includes solutions to the problems of Muslims.. It should be socialized and the Muslim political parties must accept it. Like the diverted birds, the Muslim parties must put an end to the work of moving the ministerial positions in the direction of the governing body.. The Muslim parties must seek to implement the plan set by the intellectuals, no matter what the bigotry party has.
-
-◼️
-
-[Data](articles/d6994086.json)
-
-[Extended Data](ext_articles/d6994086.ext.json)
-
----
-
-### Ranil said the common candidate
-
-*2024-02-04 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/175545) · `ta`
-
-In that respect, Sumanthiran's team cannot expect to re -make choices or give recognitions. At the same time, it is not possible to guarantee that there is no chaos, even when the choices are taking place.
-
-Therefore, despite the current choices of the Sri Lankan Tamil party, the complex conditions are going on, even if the new choices are made.. Therefore, it is not to say that it will be completed smoothly in any site of the public event of the 17th National Conference.
-
-◼️
-
-[Data](articles/600be2e9.json)
-
-[Extended Data](ext_articles/600be2e9.ext.json)
-
----
-
-### Truth test for Tamils
-
-*2024-02-04 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175546) · `ta`
-
-If the National Conference is held according to the choice, then the next step is to take the formula of 'Sridharan and Sumanthiran General Secretary', which Sumanthiran has proposed.
-
-If that is the case, it is sure to lose the North and East face, which has a traditional political party, the Tamil National Party. Therefore, the party will continue the truth test without giving up
-
-◼️
-
-[Data](articles/653270fa.json)
-
-[Extended Data](ext_articles/653270fa.ext.json)
-
----
-
-### The third installment is beginning tomorrow
-
-*2024-02-04 16:50:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்றாம்-தவணை-நாளை-ஆரம்பம்/175-332652) · `ta`
-
-The second phase of educational activities for the third term of state and state -approved private schools will commence on Monday (05).
-
-Meanwhile, schools were given holidays on December 23 last year due to the GCE Advanced Level Examination and it was announced that the school will begin on the first of February.
-
-However, the Department of Examinations, which canceled the questionnaire after leaking the high -quality agricultural science exam exam on social networks, conducted the exam for the first day.
-
-Therefore, it is noteworthy that the second phase of educational activities for the third term of state and state -approved private schools, which began on February 1, will commence on Monday (05).
-
-◼️
-
-[Data](articles/9953780e.json)
-
-[Extended Data](ext_articles/9953780e.ext.json)
-
----
-
-### Elections for elections
-
-*2024-02-04 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192967) · `si`
-
-President Mahinda Rajapaksa has decided to postpone the Senegal National Election.
-
-Foreign media reports that the elections have been postponed due to a crisis caused by a group of opponents.
-
-The President has said that the President has stated that the President has stated that the date on which the existing national dialogue has been announced on the current situation.
-
-However, the opposition has stated that the decision of the President has decided to postpone the election.
-
-◼️
-
-[Data](articles/d5663d84.json)
-
-[Extended Data](ext_articles/d5663d84.ext.json)
-
----
-
-### "Independence Day of Sri Lanka"
-
-*2024-02-04 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175534) · `ta`
-
-The Independence Day of Sri Lanka is declared in front of the Mullaitivu District Secretariat today (04), demanding seven major issues.
-
-The demonstration was held under the patronage of Tilakanathan Kindujan, the organizer of the Mullaitivu district of the Tamil National People's Front.
-
-"International Justice for the Disappeared"Seven issues were emphasized, including 'Do not destroy the historical archaeological evidence of the homeland', 'sovereignty, self -determination and recognized Samastit solution'.
-
-It was also pointed out that the Maithri -Ranil government, named the Good Governance Government, co -produced with the Tamil National Alliance (TNA), the Tamil National People's Front, which was produced by the Tamil party.
-
-...
-
-[Data](articles/e21fa462.json)
-
-[Extended Data](ext_articles/e21fa462.ext.json)
-
----
-
-### Fake instead of talisman;Youth arrested
-
-*2024-02-04 16:28:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாலிக்கு-பதிலாக-போலி-யுவதி-கைது/175-332645) · `ta`
-
-A woman has been arrested for allegedly defrauding a 21 -pound talisman from a woman who cannot speak.
-
-When a neighbor, a neighbor, was going to special events to a woman who was living in the Jaffna -Chunnakam police division area, she was wearing a talisman night and then handing over it to the woman.
-
-In the meantime, as usual, the woman who bought the talisman night and returned the talisman, the woman who felt the difference in the flag structure and gave it to a jewelry store.
-
-Following this, the police arrested the woman who bought the talisman, and said that when he was investigating the inquiry, she said that she had sold a nightclub in a jewelery shop in the Chunnakam area and gave her a fake talisman.
-
-It has been revealed that the police are conducting further investigations by police.
-
-◼️
-
-[Data](articles/e005140a.json)
-
-[Extended Data](ext_articles/e005140a.ext.json)
-
----
-
-### 23 Indian fishermen arrested
-
-*2024-02-04 16:21:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/23-இந்திய-மீனவர்கள்-கைது/175-332640) · `ta`
-
-23 Indian fishermen who were fishing across the border have been arrested by the Sri Lankan navy on Saturday (03).
-
-In addition, 23 arrested Indian fishermen and fishing boats were seized and brought to the Kankesanthurai port and the detainees will be handed over to the Mayiladi Fisheries Inspector for further legal action.
-
-◼️
-
-[Data](articles/d2c531e4.json)
-
-[Extended Data](ext_articles/d2c531e4.ext.json)
-
----
-
-### Suspect is on the following road
-
-*2024-02-04 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192966) · `si`
-
-The court issued warrants to the suspect in the suspect and the possession of heroin.
-
-The Aluthgama Police have been arrested by the Aluthgama Police and he was taken to the court premises and he had fled.
-
-It is reported that the suspect had fled the suspect's face with the suspect's face to the court premises at the police jeep.
-
-Speaking on duty on the court premises, the suspect had pursued the court premises but the suspect had passed away.
-
-The Aluthgama Police and several other police teams have been launched in search of the suspect.
-
-◼️
-
-[Data](articles/49c636a8.json)
-
-[Extended Data](ext_articles/49c636a8.ext.json)
-
----
-
-### 23 Indian fishermen, two trawlers arrested in Sri Lankan waters
-
-*2024-02-04 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96996/23-indian-fishermen-two-trawlers-arrested-in-sri-lankan-waters) · `en`
-
-A group of 23 Indian nationals, together with two fishing trawlers were seized by the Sri Lanka Navy in Jaffna on Saturday night (03 Feb.).
-
-According to the navy, the apprehended individuals had been poaching in northern waters off the Delft Island in Jaffna.
-
-In continuation of the regular patrols and operations conducted by the Navy to curb illegal fishing practices by foreign fishing trawlers, the Northern Naval Command, on Saturday night, deployed Fast Attack Craft belonging to the Navy and Sri Lanka Coast Guard to chase away a cluster of Indian poaching trawlers, as the trawlers were detected engaging in illegal fishing.
-
-As such, the arrested fishermen, together with the trawlers, were brought to the Kankasanthurai Harbour and are due to be handed over to the Mailadi Fisheries Inspector for onward legal action.
-
-◼️
-
-[Data](articles/176ca017.json)
-
-[Extended Data](ext_articles/176ca017.ext.json)
-
----
-
-### Disciplinary action against Fonseka?
-
-*2024-02-04 16:02:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவிற்கு-எதிராக-ஒழுக்காற்று-நடவடிக்கை/175-332634) · `ta`
-
-Sajith Premadasa, the leader of the Opposition and the leader of the United People's Power Party, who has taken a slanderous position against Field Marshal Sarath Fonseka, has said that he will not hesitate to take disciplinary action against those who criticize himself and his party.
-
-The comment was made just days after Parliamentarian Fonseka criticized Premadasa's decision to appoint former Army Commander General (retired) Daya Ratnayake as a senior adviser to SJB.
-
-“To whom I don't call me party membership. I will ignore those who try to advise me. "I will not hesitate to make brave decisions such as taking disciplinary action against those who criticize the party," said Sajith Premadasa at a meeting in Galle.
-
-“It is the duty of SJB members to protect the party and to observe it in the future elections. Those who cannot do that duty should leave, "he added.
-
-...
-
-[Data](articles/b613661b.json)
-
-[Extended Data](ext_articles/b613661b.ext.json)
-
----
-
-### Yukuthiya & The Perils Of Overkill
-
-*2024-02-04 15:49:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/yukuthiya-the-perils-of-overkill/) · `en`
-
-The term overkill means “excessive, or more than necessary.” The current “Yukthiya” is an excellent example, but not the only one of several such, relating to recent happenings. A justifiable query is why such actions, so obviously necessary, possible and long overdue, have not already been executed. Is the inaction deliberate? Has it awaited this chance, to create an image of heroic efficiency? It could also suggest an awakening from a long slumber, now mixed with an element of theatre.
-
-There are several instances of the use of overkill to guarantee failure. There have also been examples where this “all or nothing” approach has created drastic ill-effects.
-
-...
-
-[Data](articles/b1de804c.json)
-
-[Extended Data](ext_articles/b1de804c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 18:50:40**
+As of **2024-02-05 19:02:31**
 
 ## Newspaper Stats
 
-*Scraped **4,962** Articles*
+*Scraped **4,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ economynextcom | 260
 islandlk | 263
 dailyftlk | 280
 newsfirstlk | 302
-adalk | 426
-virakesarilk | 572
-adaderanalk | 615
+adalk | 427
+virakesarilk | 574
+adaderanalk | 616
 tamilmirrorlk | 628
 adaderanasinhalalk | 644
 dailymirrorlk | 700
@@ -26,45 +26,93 @@ dailymirrorlk | 700
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,959 (99.9%) of 4,962 articles have been extended.
+4,962 (99.9%) of 4,966 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
 
-### මේ මගේ රට... මා ඉපදුණු රට... - ජනපති (සජීවී විකාශය)
+### சனத் நிஷாந்தவின் சாரதிக்கு பிணை!
+
+*2024-02-05 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175651) · `ta`
+
+கட்டுநாயக்க கொழும்பு அதிவேக வீதியில் இடம்பெற்ற விபத்தில் உயிரிழந்த முன்னாள் இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் சாரதி வெலிசர நீதவான் நீதிமன்றத்தினால் பிணையில் விடுவிக்கப்பட்டுள்ளார்.
+
+சந்தேக நபரான சாரதி வெலிசர நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்டதன் பின்னர் 5 இலட்சம் ரூபா சரீரப் பிணையில் திங்கட்கிழமை (5) விடுவிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/8a5e852e.json)
+
+---
+
+### சாந்தன் விரைவில் நாடு திரும்ப ஏற்பாடு - அமைச்சர் டக்ளஸ் நடவடிக்கை
+
+*2024-02-05 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175652) · `ta`
+
+முன்னாள் இந்தியப் பிரதமர் ரஜீவ்காந்தி கொலை தொடர்பில் கைது செய்யப்பட்டு விடுதலையானவர்களுள் ஒருவரான சாந்தனை  இலங்கைக்கு அழைத்து வருவதற்கு சம்மதம் தெரிவித்துள்ள ஜனாதிபதி ரணில் விக்கிரமசிங்க தேவையான ஏற்பாடுகளை செய்வதற்கும் இணக்கம் தெரிவித்துள்ளார்.
+
+குறித்த விடயம் தொடர்பாக திங்கட்கிழமை (05) நடைபெற்ற அமைச்சரவை கூட்டத்தின் போது ஜனாதிபதி மற்றும் வெளிவிவகார அமைச்சர் ஆகியோருடன் அமைச்சர் டக்ளஸ் தேவானந்தா முன்வைத்த நிலையிலேயே ஜனாதிபதியினால் சம்மதம் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f458d86e.json)
+
+---
+
+### President awards first set of ‘Urumaya’ land deeds
+
+*2024-02-05 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97023/president-awards-first-set-of-urumaya-land-deeds) · `en`
+
+The initial set of the ‘Urumaya’ land deeds are due to be awarded to their respective recipients by President Ranil Wickremesinghe at an ongoing ceremony in Dambulla.
+
+The initiative is a part of President Wickremesinghe’s efforts to empower farmers through land ownership with freehold titles awarded to two million families, the President’s Media Division (PMD) reported
+
+◼️
+
+[Data](articles/c3266ef8.json)
+
+---
+
+### This is my country.. The country I was born.. - President (Live Accident)
 
 *2024-02-05 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193015) · `si`
 
-"උරුමය" නිදහස් ඔප්පු ප්‍රදානය කිරීමේ ජාතික වැඩසටහන මේ වනවිට දඹුල්ලේදී පැවැත්වෙයි.
+The National Program for "Inheritance" National Program is currently held in Dambulla.
 
-ඒ අවස්ථාවට එක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිදුකරන කතාව ඉහළින් ඔබට නැරඹියහැකිය .
+On top of the President who joined the occasion, you can view the speech of Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/78d977ec.json)
 
+[Extended Data](ext_articles/78d977ec.ext.json)
+
 ---
 
-### අම්පාරේ වනඅලි මරණ වැළැක්වීමේ වැඩපිළිවෙලක් ඉල්ලා අධිකරණයට පෙත්සමක්
+### Petition to court demanding a prevention program in Ampara
 
 *2024-02-05 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193014) · `si`
 
-අම්පාර දිස්ත්‍රික්කයේ සිදුවන වනඅලි මරණ වැළැක්වීමේ වැඩපිළිවෙලක් සකස් කරන ලෙස මධ්‍යම පරිසර අධිකාරිය ඇතුළු ආයතනවලට නියෝග කරන්නයි ඉල්ලා අභියාචනාදීකරණයට රිට් පෙත්සමක් ඉදිරිපත් කර තිබේ.
+The Central Environmental Authority (CEA) and other institutions have been submitted to ordered to order a prevention program in the Ampara District.
 
-ශ්‍රී ලංකා යුක්තිය උදෙසා වූ සංවිධානය විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබුණි.
+The petition was presented by the organization for justice for Sri Lanka.
 
-එහි වගඋත්තරකරුවන් ලෙස වන ජීවී අධ්‍යක්ෂ ජනරාල්වරයා, මධ්‍යම පරිසර අධිකාරිය සහ අඩ්ඩාලච්චේන ප්‍රාදේශීය සභාවේ ලේකම්වරයා නම් කර තිබේ.
+The Director General of the Gardoners, the Director General of the Gardore, the Central Environmental Authority and the Partition Authority (PC) secretariat have been named.
 
-නීතිඥ නාගානන්ද කොඩිතුවක්කු මහතා මාර්ගයෙන් ගොනුකර ඇති මෙම පෙත්සමේ කියා තිබෙන්නේ 2018 වසරේ සිට  2023 වසර දක්වා කාලසීමාව තුළ අලි මිනිස් ගැටුම හේතුවෙන් අම්පාර දිස්ත්‍රික්කය තුළ අලි ඇතුන් 255ක් සහ මිනිසුන් 78 දෙනෙකු මියගොස් ඇති බවය.
+The petition filed by lawyer Nagananda Kodituwakku has been tabled in the year 2018 to 2023, 255 elephants were killed in the Ampara District due to August 2018 and 78 people were killed.
 
-අඩ්ඩාලච්චේන ප්‍රාදේශීය සභා බල ප්‍රදේශයේ පිහිටි  පල්ලේකාඩු නැමති කුණු කන්දේ  ඇති අපද්‍රව්‍ය අනුභව කිරීමට පැමිණීම හේතුවෙන් මෙම අලි ඇතුන් අනතුරට ලක්වන බවත් පෙත්සමේ  සඳහන් කර තිබේ.
+The petitioner has stated that the elephants are in danger due to the arrival of the garbage in the Partition Pradeshiya Sabha area.
 
-අපද්‍රව්‍ය බැහැර කිරීමේ විධිමත් වැඩපිළිවෙලක් අදාළ ප්‍රාදේශීය සභාව විසින් මෙතෙක් නිර්මාණය කර නොතිබීම හේතුවෙන් අලි මිනිස් ගැටුම උග්‍රවීමට හේතුවී තිබෙන බවත් පෙත්සමේ චෝදනා කර තිබුණි.
+The petition was accused of exacerbating the human conflict because the pradeshiya sabha had not created a proper program to dispose of waste.
+
+Accordingly, the petition has requested the respondents to recycle of garbage in Ampara District to prevent the human human conflict.
 
 ...
 
 [Data](articles/2a9adcbf.json)
+
+[Extended Data](ext_articles/2a9adcbf.ext.json)
 
 ---
 
@@ -120,17 +168,19 @@ The ‘India Energy Week’ conference will be held from 06 to 09 February in Go
 
 ---
 
-### ජනපතිගේ නිවසට ගිනි තැබීමේ සිද්ධියට සැකපිට පුද්ගලයෙකු අත්අඩංගුවට
+### Man arrested on suspicion of fire to President's house
 
 *2024-02-05 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193013) · `si`
 
-වත්මන් ජනාධිපතිවරයාගේ කොල්ලුපිටියේ පිහිටි පුද්ගලික නිවසට ගිනි තැබීමේ සිද්ධිය සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ විසින් සැකපිට පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+The Criminal Investigations Department has arrested a man on suspicion of the burning of the private home in Kollupitiya, the current president.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ බොරලැස්ගමුව ප්‍රදේශයේ පදිංචි 46 හැවිරිදි වියේ පසුවන පුද්ගලයෙකි.
+The victim is a 46 year old resident of Boralesgamuwa.
 
 ◼️
 
 [Data](articles/d1f01494.json)
+
+[Extended Data](ext_articles/d1f01494.ext.json)
 
 ---
 
@@ -1348,6 +1398,22 @@ In this case, Premalatha tattooed her husband Vijayakanth's image in her right h
 
 ---
 
+### පළාත් කිහිපයකට පැවැති වැස්ස හෙට සිට අඩුවෙයි
+
+*2024-02-05 12:19:53* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-කිහිපයකට-පැවැති-වැස්ස-හෙට-සිට-අඩුවෙයි/11-407907) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණ, ඌව සහ නැගෙනහිර පළාත්වල පැවැති වැසි තත්ත්වයේ අඩුවීමක් හෙට දින සිට අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+කෙසේ වෙතත් හෙට දිනයේදී සබරගමුව පළාතෙත් කළුතර, ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් පස්වරු 2න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+දිවයිනේ හසසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතින බවද හෙට දිනයට අදාළව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අද මධ්‍යාහ්න නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+◼️
+
+[Data](articles/4d8aeff5.json)
+
+---
+
 ### Rag
 
 *2024-02-05 12:16:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாண்-எடை-தொடர்பில்-சுற்றிவளைப்பு/175-332697) · `ta`
@@ -1987,93 +2053,5 @@ A bond maturing on 01.07.2028 was quoted at 12.70/78. (Colombo/Feb5/2024)
 [Data](articles/2584f60f.json)
 
 [Extended Data](ext_articles/2584f60f.ext.json)
-
----
-
-### The bread gazette is also the opportunity to eat
-
-*2024-02-05 10:49:51* · [`adalk`](https://www.ada.lk/breaking_news/පාන්-ගැසට්ටුව-නිසා-පාන්-කන්න-තියෙන-අවස්ථාවත්-නැතිවෙනවලු/11-407903) · `si`
-
-The Sri Lanka National Front Leader Asela Sampath said that the relevant authorities today (5) at Elpitiya, the Sri Lanka National Association said that the people who could not stick to bread.
-
-At the meeting held at a media briefing held in Alpitting today, Mr. Asela said that today.
-
-The authorities continue to do so, the authorities have to do a priced of a gram of a bread not gathered.
-
-Mr. Asela said that the laundry sheet is now a program to spread bread from bread and producing bread from selling bread.
-
-◼️
-
-[Data](articles/4b3471aa.json)
-
-[Extended Data](ext_articles/4b3471aa.ext.json)
-
----
-
-### In the accident, the mother's death;Father and daughter injured
-
-*2024-02-05 10:46:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-தாய்-மரணம்-தந்தை-மகள்-படுகாயம்/175-332687) · `ta`
-
-A three -wheeler, a three -year -old daughter from the same family, crashed with a bus, Horana police said.
-
-RA Danuja Priyadarshani (age 40), the mother of a child from Bandaragama, Raigama, died in the accident.
-
-Police say the incident took place while returning home from Horana.
-
-◼️
-
-[Data](articles/7f774600.json)
-
-[Extended Data](ext_articles/7f774600.ext.json)
-
----
-
-### Fraud in Jaffna nightYouth arrested
-
-*2024-02-05 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175585) · `ta`
-
-A woman has been arrested for allegedly defrauding a 21 -pound talisman for a woman who cannot speak in Jaffna.
-
-When a neighbor, a neighbor, is on a celebrations to a woman who is living in the Jaffna -Chunnakam police division area, she has been handed over to the woman after wearing a talisman.
-
-In this case, as usual, the woman who bought the talisman at night and returned the talisman, the woman who felt the difference in the flag structure, and when she checked it in a jewelery shop, it was fake.
-
-Following a complaint at the police station, the police arrested the neighbors and carried out investigations, and it was revealed that she had sold a nightclub in a jewelery shop in the Chunnakam area, as well as the fake talisman.
-
-Further investigations are being carried out by the police in the police detention.
-
-◼️
-
-[Data](articles/05c6308c.json)
-
-[Extended Data](ext_articles/05c6308c.ext.json)
-
----
-
-### Three-wheeler kills wife, daughter
-
-*2024-02-05 10:36:47* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිරෝද-රථ-අනතුරින්-මව-මරුට--දියණියට-බරපතලයි/11-407902) · `si`
-
-The mother was killed and the mother was seriously injured in the same family mother and a three-year-old daughter in the same family.
-
-The deceased has been identified as Hriuja Priyadarshani (40) a mother of Rawigawatte.
-
-The two parents were in the process of the city of Horana for the need for their only daughter, police said.
-
-The three-wheeler was hit by the three-wheeler on the road to a dead girl at the same time in Horana to Bandaragama.Buffarera beaten in the right hand side of the bus is stopped.
-
-The mother of the residents soon after the accident was admitted to the Horana Base Hospital, said a hospital spokesman said.
-
-A hospital spokesman said that the condition of the injured girl was seriously delegated at the Ridgeway Children's Hospital, Colombo.
-
-The hospital spokesman added that the father's right-hand and chest has been injured in the hospital
-
-The driver of the SLTB has been arrested and is to be produced before the Horana Magistrate's Court.
-
-◼️
-
-[Data](articles/95af5eb9.json)
-
-[Extended Data](ext_articles/95af5eb9.ext.json)
 
 ---

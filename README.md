@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 16:17:26**
+As of **2024-02-05 16:32:50**
 
 ## Newspaper Stats
 
@@ -26,77 +26,89 @@ dailymirrorlk | 688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,911 (99.7%) of 4,925 articles have been extended.
+4,925 (100.0%) of 4,925 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
 
-### தொடர் காய்ச்சலினால் முல்லைத்தீவு பெண் யாழில் உயிரிழப்பு
+### Mullaitivu female dies in Jaffna
 
 *2024-02-05 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/175623) · `ta`
 
-முல்லைத்தீவு , முள்ளியவளை பகுதியை சேர்ந்த அன்ரன் அனிஸ்ரலஸ் (வயது 53) என்பவரே உயிரிழந்துள்ளார்.
+The deceased is Anton Anisralus (53 years old) from Mullaitivu, Mulliyawala.
 
-கடந்த 29ஆம் திகதி காய்ச்சல் ஏற்பட்டதை அடுத்து முல்லைத்தீவு வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் , மேலதிக சிகிச்சைக்காக யாழ்.போதனா வைத்தியசாலைக்கு மாற்றப்பட்டார்.
+Following the fever on the 29th, he was admitted to the Mullaitivu Hospital and was transferred to the Jaffna Bodhana Hospital for further treatment.
 
-அங்கு சிகிச்சை பெற்று வந்த நிலையில் சிகிச்சை பெற்று வந்த நிலையில் சிகிச்சை பலனின்றி நேற்று ஞாயிற்றுக்கிழமை உயிரிழந்துள்ளார்.
+He died on Sunday without treatment.
 
 ◼️
 
 [Data](articles/d1f62840.json)
 
+[Extended Data](ext_articles/d1f62840.ext.json)
+
 ---
 
-### 23 இந்திய மீனவர்களுக்கு விளக்கமறியல்
+### 23 Indian fishermen
 
 *2024-02-05 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175622) · `ta`
 
-யாழ்.நெடுந்தீவு கடற்பரப்பில் எல்லை தாண்டி மீன் பிடித்த குற்றச்சாட்டில் கடந்த 03 ஆம் திகதி 23 மீனவர்களும் கடற்படையினரால் கைது செய்யப்பட்டனர்.
+23 fishermen were arrested by the Navy on the 3rd of this month for allegedly fishing across the border.
 
-பின்னர் 23 மீனவர்களும் ஊர்காவற்றுறை நீதவான் நீதிமன்ற நீதிவான் ஜெ.கஜநிதிபாலன் முன்னிலையில் ஆஜர்படுத்தப்பட்டனர்.
+The 23 fishermen were later produced before the Kayts Magistrate's Court Judge J. Gajanidipalan.
 
-அவர்களை எதிர்வரும் 16 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவிட்டதாக யாழ். மாவட்ட நீரியல்வள திணைக்களம் தெரிவித்துள்ளது.
+The magistrate has ordered them to be remanded until the 16th of this month.. The Department of Aquatic Resources said.
 
-இந்த ஆண்டின் இதுவரையான காலப்பகுதியில் எல்லை தாண்டி மீன் பிடித்த குற்றச்சாட்டில் 46 இந்திய மீனவர்கள் கைது செய்யப்பட்டுள்ளதுடன் 8 படகுகள் கைப்பற்றப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+46 Indian fishermen have been arrested on charges of fishing across the border so far this year and 8 boats have been seized.
 
 ◼️
 
 [Data](articles/58521e04.json)
 
+[Extended Data](ext_articles/58521e04.ext.json)
+
 ---
 
-### “ஆணுறுப்பை குறிவைத்து பொலிஸார் கடுமையாக தாக்கினர்”
+### “The police are hit hard by targeting the penis”
 
 *2024-02-05 15:33:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஆணுறுப்பை-குறிவைத்து-பொலிஸார்-கடுமையாக-தாக்கினர்/71-332712) · `ta`
 
-யாழ்ப்பாணம் வட்டுக்கோட்டை பொலிஸ் நிலையத்தில் உள்ள இரகசிய அறையில் வைத்து, தன்னை தலைகீழாக தூக்கி, அடித்து சித்திரவதைக்கு உள்ளாகினர் என மனித உரிமை ஆணைக்குழுவில் யாழ்.பல்கலைக்கழக மாணவன், முறைப்பாடு செய்துள்ளார்.
+The Jaffna University student has lodged a complaint with the Human Rights Commission that he was upside down and beaten himself upside down and beaten himself in the secret room at the Vaddukoddai police station in Jaffna.
 
-மனிதவுரிமை ஆணைக்குழுவின் யாழ்ப்பாண பிராந்திய அலுவலகத்தில் ,  கருணாகரன் நிதர்சன் எனும் மாணவன் திங்கட்கிழமை (05) முறைப்பாடு பதிவு செய்துள்ளார்.
+Karunakaran Nitarshan, a student at the Jaffna Regional Office of the Human Rights Commission, filed a complaint on Monday (05).
 
-“வட்டுக்கோட்டை மாவடி பகுதியில் பொலிஸ் உத்தியோகஸ்தர் ஒருவர் என்னை வழிமறித்து, தான் மறிக்கும் போது ஏன் மோட்டார் சைக்கிளை  நிறுத்தவில்லை என என்னுடன் முரண்பட்டார்.
+“A police officer in the Vaddukoddottai area led me and contradicted me as to why he did not stop the motorcycle when he was forgotten.
 
-அதற்கு நான் நீங்கள் மறித்ததை கவனிக்கவில்லை. எனக் கூறினேன். அதன்பின்னர் ஆவணங்களை கேட்டார். ஆவணங்கள் அனைத்தும் என்னிடம் உள்ளன எனக்கூறி? அவற்றை எடுத்து கொடுத்த போது , அதனை வாங்கி பார்க்காது , மேலதிக பொலிஸாரை அவ்விடத்திற்கு வரவழைத்தார்.
+For that I don't notice you. Said. He then asked for the documents. Do I have all the documents?When they took them, he did not buy it and summoned the additional police.
+
+At the time, more than 7 police officers who came in civil clothes were struck by the road without any hearing.. The incident that strikes me is also recorded in surveillance cameras at a nearby shop. And I took a video of me hitting me on my cell phone.
 
 ...
 
 [Data](articles/60cffb9b.json)
 
+[Extended Data](ext_articles/60cffb9b.ext.json)
+
 ---
 
-### புதுருவகல  பாடசாலை மாணவர்களுக்கு வழங்கிய வாக்குறுதியை மிகக் குறுகிய காலத்தில் நிறைவேற்றும்  ஜனாதிபதி!
+### The President will fulfill the promise made to Puduwarakala school students in a very short time!
 
 *2024-02-05 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175619) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் மொனராகலை புதுருவகல  மகா வித்தியாலய மாணவர்களுக்கு வழங்கிய வாக்குறுதியை மிகக் குறுகிய காலத்தில் நிறைவேற்றும் வகையில் பெறுமதிவாய்ந்த இசைக்கருவிகள் பாடசாலைக்கு பெப்ரவரி 09 ஆம் திகதி   வழங்கப்படவுள்ளது.
+President Ranil Wickremesinghe will be given the promise to the students of the Puthuvagala Maha Vidyalaya in Moneragala on February 9 to fulfill the promise of the students of Moneragala.
 
-கடந்த நவம்பர் 03 ஆம் திகதி ஜனாதிபதி ரணில் விக்ரமசிங்க பயணித்த உலங்குவானூர்தி மோசமான காலநிலை காரணமாக மொனராகலை புதுருவகல  மகா வித்தியாலய மைதானத்தில் அவசரமாக தரையிறக்கப்பட்டது. இதன்போது குறித்த மாணவர்களால் தங்களின் பாடசாலைக்கு இசைக் கருவிகள் வேண்டும் என்ற கோரிக்கையை முன்வைத்தனர்.
+President Ranil Wickremesinghe, who was traveling on November 03, landed in a hurry at the Moneragala Maha Vidyalaya Ground due to the worst weather conditions.. The students demanded that their school had musical instruments.
 
-தங்கள்  பாடசாலைக்கு திடீரென வருகை தந்த விருந்தினர் நாட்டின் ஜனாதிபதி என்பதை அறிந்து கொண்ட மாணவர்களும் ஆசிரியர்களும் மகிழ்ச்சியில் ஆழ்ந்தனர்.  அந்த சமயத்தில் உலங்குவானூர்திக்கு அருகில் வந்து ஜனாதிபதி ரணில் விக்ரமசிங்கவுடன் சிநேகபூர்வ உரையாடலில் மாணவர்கள் ஈடுபட்டனர். பாடசாலை மற்றும் அதனைச் சுற்றியுள்ள பகுதிகளில் உள்ள குறைபாடுகள் குறித்தும் ஜனாதிபதி அவர்களிடம் கேட்டறிந்தார்.
+Students and teachers who were suddenly visiting their school were delighted to know that the guest was the president of the country.At that time, the students came near Ulanguwanurdi and the students engaged in a speech with President Ranil Wickremesinghe. The President also asked them about the shortcomings in the school and the surrounding areas.
+
+They told the president that there was a shortage of musical instruments in the school. President Ranil Wickremesinghe promised to fulfill the demand and directed the relevant authorities to take immediate action on it.
 
 ...
 
 [Data](articles/370fa7f2.json)
+
+[Extended Data](ext_articles/370fa7f2.ext.json)
 
 ---
 
@@ -116,57 +128,65 @@ Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
 
 [Data](articles/2cd83b8c.json)
 
+[Extended Data](ext_articles/2cd83b8c.ext.json)
+
 ---
 
-### සම්මාන අරන් ගෙදර යන්න ගිය රැප් ගායකයා අත්අඩංගුවට
+### The rap singer arrested for the awards
 
 *2024-02-05 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193006) · `si`
 
-66 වැනි ග්‍රැමී සම්මාන උලෙළේදී සිදුවූ සුවිශේෂී සිදුවීමක් වෙත මේ වනවිට ලෝකයේම අවධානය යොමුව් තිබේ.
+The innovation of the world is currently focused on an unique event at the 66th Grami Awards.
 
-එහිදී සම්මාන උලෙළේදී සම්මාන ත්‍රිත්වයක් හිමිකරගත් රැප් ගායකයෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+The police have arrested a award triple at the awards ceremony.
 
-කෙසේ වෙතත් අදාළ සිදුවීම සම්බන්ධයෙන් නිශ්චිත ප්‍රකාශයක් මේ දක්වා බලධාරීන් විසින් නිකුත් කර නොමැති බව ද එම වාර්තා සඳහන් කරයි.
+However, it has not been issued by the authorities, however.
 
 ◼️
 
 [Data](articles/6d4c5622.json)
 
+[Extended Data](ext_articles/6d4c5622.ext.json)
+
 ---
 
-### இன்று யுவனின் ரசிகர்களுக்கு கிடைத்துள்ள வாய்ப்பு !
+### The opportunity for Yuvan's fans today!
 
 *2024-02-05 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175617) · `ta`
 
-பிரபல இசையமைப்பாளர் யுவன் சங்கர் ராஜா இலங்கையில் பிரம்மாண்டமான இசை நிகழ்ச்சியை நடத்தவுள்ள நிலையில், அதற்கான ஊடகவியலாளர் சந்திப்பு இன்று திங்கட்கிழமை (05) இடம்பெறவுள்ளது.
+Famous composer Yuvan Shankar Raja is set to hold a massive concert in Sri Lanka, and a media briefing will be held on Monday (05).
 
-குறித்த ஊடகவியலாளர் சந்திப்பு இன்றைய தினம் மாலை 06.00 மணிக்கு கொழும்பு தாமரைக் கோபுரத்தில் உள்ள மண்டபத்தில் இடம்பெறவுள்ளது.
+The media briefing will be held today at 06.00 pm at the Hall at the Lotus Tower in Colombo.
 
-இந்நிலையில், யுவன் சங்கர் ராஜாவை காணாவிரும்பும் ரசிகர்கள் இன்று மாலை 5 மணிக்கு கொழும்பு தாமரைக் கோபுர முன்றலிற்கு வருகை தருமாறு ஏற்பாட்டுக்குழுவினர் கேட்டுக்கொண்டுள்ளனர்.
+In this backdrop, the fans who see Yuvan Shankar Raja will visit the Lotus Tower in Colombo at 5 pm today.
 
 ◼️
 
 [Data](articles/29ceb97b.json)
 
+[Extended Data](ext_articles/29ceb97b.ext.json)
+
 ---
 
-### උසස් පෙළ සහිත පාසල් ඩිජිටල්කරණය අරඹයි
+### School digital begins with Advanced Level
 
 *2024-02-05 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193005) · `si`
 
-එළැඹෙන ජුනි මාසය වනවිට මෙරට උසස් පෙළ සහිත පාසල් ඩිජිටල්කරණයට ලක්කරන බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසයි.
+Minister of Education Susil Premajayantha says he is digitizing schools with high schools in the country by coming.
 
-ඒ අනුව නව තාක්ෂණය සමඟ සෘජුව සම්බන්ධ වෙමින් අධ්‍යාපන කටයුතු කරගෙන යාමට දරුවන්ට අවස්ථාව සලසා දෙන බව අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
+Accordingly, the children will allow children directly involved with the new technology and provide opportunities to carry out education.
 
-ඔහු මෙ බව පැවසුවේ  අද (05) යාපනය හින්දු විද්‍යාලයේ පැවති උත්සව අවස්ථාවකට එක්වෙමිනි.
+He was speaking at a ceremony held at the Hindu College, Jaffna today (05).
 
-එහිදී මෙරට උසස් පෙළ සහිත පාසල් 3,000ක් ඩිජිටල්කරණයට ලක් කෙරෙන අතර, මීට අදාළව ගුරුවරුන් පුහුණු කිරීම එළැඹෙන මාර්තු මාසයේ සිට ආරම්භ කරන බවත් අමාත්‍යවරයා ප්‍රකාශ කළේය.
+The Minister stated that 3,000 schools in the country are digitized and teachers in this regard are being trained from March.
 
-රටේ සියලු‍ දරුවන්ට අධ්‍යාපනයේ සමාන අවස්ථා අත්පත්කරදීම අධ්‍යාපන අමාත්‍යාංශයේ අරමුණ බව ද අමාත්‍යවරයා වැඩිදුරටත් ප්‍රකාශ කළේය.
+The Minister also said that the purpose of the Ministry of Education is the aim of the Ministry of Education.
 
 ◼️
 
 [Data](articles/6620c910.json)
+
+[Extended Data](ext_articles/6620c910.ext.json)
 
 ---
 
@@ -188,19 +208,25 @@ Janaka Ratnayake, Former PUCSL Chairman, stated, "This shouldn't be seen as mere
 
 [Data](articles/b9040830.json)
 
+[Extended Data](ext_articles/b9040830.ext.json)
+
 ---
 
-### ජුනි මාසය වනවිට උසස් පෙළ සහිත පාසල් 3,000 ඩිජිටල්කරණයට‍
+### To digitizing 3,000 schools with Advanced Level by June
 
 *2024-02-05 14:57:00* · [`adalk`](https://www.ada.lk/breaking_news/ජුනි-මාසය-වනවිට-උසස්-පෙළ-සහිත-පාසල්-3-000-ඩිජිටල්කරණයට‍/11-407909) · `si`
 
-අධ්‍යාපන අමාත්‍යාංශයේ අරමුණ රටේ සියලු‍ දරුවන්ට අධ්‍යාපනයේ සමාන අවස්ථා අත්පත්කරදීම  බවත්, එහි එක් පියවරක් වශයෙන් එළඹෙන ජුනි මාසය වනවිට මෙරට උසස් පෙළ සහිත පාසල් ඩිජිටල්කරණයට ලක්කරන බවත්, ඒ අනුව නව තාක්ෂණය සමග සෘජුව සම්බන්ධ වෙමින් අධ්‍යාපන කටයුතු කරගෙන යාමට දරුවන්ට අවස්ථාව සලසා දෙන බවත් අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+Minister of Education Dr. Susil is the intention of acquisition of equal opportunities of education in the country and directly with the new text in Sri Lanka as a step in the country.Samanantha said.
 
-අමාත්‍යවරයා මේ අදහස් පළ කළේ අද (05) යාපනය හින්දු විද්‍යාලයේ පැවති උත්සව අවස්ථාවකට එක්වෙමිනි. ඒ අනුව, මෙරට උසස් පෙළ සහිත පාසල් 3,000 ඩිජිටල්කරණයට ලක් කෙරෙන අතර, මීට අදාළව ගුරුවරුන් පුහුණු කිරීම එළඹෙන මාර්තු මාසයේ සිට ආරම්භ කරන බවත්, අදාළ පාසල් සියල්ලට ම සුහුරු පුවරු ලබාදෙන බවත් (Smart Interactive Board)  අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේ ය. මීට සමගාමී ව සෑම අධ්‍යාපන කලාපයක ම පිහිටුවා ඇති පරිගණක සම්පත් මධ්‍යස්ථාන යාවත්කාලීන කර ඇති බව ද, අමාත්‍යවරයා පෙන්වා  දුන්නේ ය.
+The Minister made these comments participating at a festival at Hindu College today (05). Accordingly, 3,000 schools in Sri Lanka will be identified from March and that teachers will be trained from March and provide haimers from March.. The Minister pointed out that the computer resource centers established in every educational zone have been updated.
+
+A year and a half years ago, the oil queue was taken over and the gas was taken over the country, the government charged as Minister of Education and to make the right decision to run the school system.He also remembered that the Minister of Received the commitment of all the country to develop the country's educational system in the next few weeks, he expends all educational authorities in the next few weeks.
 
 ...
 
 [Data](articles/6b148199.json)
+
+[Extended Data](ext_articles/6b148199.ext.json)
 
 ---
 
@@ -241,6 +267,8 @@ In reply, Sri Lanka piled on a mammoth 439 runs, building a commanding lead. Vet
 ...
 
 [Data](articles/12100456.json)
+
+[Extended Data](ext_articles/12100456.ext.json)
 
 ---
 
@@ -354,15 +382,17 @@ Sri Lanka scored 439 runs for their first innings and Afghanistan scored 198 run
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-02-05 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175612) · `ta`
 
-இன்று திங்கட்கிழமை (பெப்ரவரி 05) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 307.7088 ஆகவும் விற்பனை விலை ரூபா 317.2528  ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar purchasing price was Rs 307.7088 and the sales price were 317.2528 based on the currency exchange rate released by the Central Bank on Monday (February 05).
 
 ◼️
 
 [Data](articles/40aa789f.json)
+
+[Extended Data](ext_articles/40aa789f.ext.json)
 
 ---
 
@@ -1526,25 +1556,29 @@ The Attorney-General had indicted 13 persons on 17 counts including murder follo
 
 [Data](articles/6b0c307d.json)
 
+[Extended Data](ext_articles/6b0c307d.ext.json)
+
 ---
 
-### 'පතල් වැඩ නැති දාට කැලේ යනවා දර කපන්න. මට ඕනා ළමයව හොඳ තැනකට ගෙනියන්න.'
+### 'Mines go to the mining work gone to cut the wood. I want to take the child to a good place. '
 
 *2024-02-05 09:42:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz9ewqz1rr2o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.Play video, "'පතල් වැඩ නැති දාට කැලේ යනවා දර කපන්න. මට ඕනා ළමයව හොඳ තැනකට ගෙනියන්න.'", ධාවන කාලය 3,0003:00වීඩියෝ ශීර්ෂ වැකිය, ''කොහොම හරි ළමයට උගන්වලා හොඳ තැනකට ගෙනාවොත් ඇති කියලා තමයි මම කල්පනා කරමින් ඉන්නේ.''
+There is nothing here. Play Video, "'Go if the miningless lack of work goes on the wood. I want to get the kid to a good place. '"
 
-'පතල් වැඩ නැති දාට කැලේ යනවා දර කපන්න. මට ඕනා ළමයව හොඳ තැනකට ගෙනියන්න.'
+'Mines go to the mining work gone to cut the wood. I want to take the child to a good place. '
 
-මාතලේ, ලග්ගල පිහිටි මාඔය ගම්මානයේ ජීවත් වෙන 28 හැවිරිදි ඉරේෂා සදමාලි  දරුවන් සමග ජීවන අරගලයට මුහුණ දෙන දිරිය කාන්තාවකී.
+Living in the Maoya Village of Maoya, Laggala, Matale
 
-සැමියාගේ රැකවරණය මෙන්ම හිසට සෙවනක් අහිමි වුව ද ඇය අවුරුදු හයක් වයස සිය දියණිය පෝෂණය කිරීම සඳහා පිරිමින් සමග පතල් රැකියාවේ නිරත වන්නීය. එමෙන්ම පතල් වැඩ නොලැබුණු දිනවල දී දියණිය සමග කැලයට ගොස් දර රැගෙනවිත් අලෙවි කරන්නීය.
+Although she lost her husband as well as a shade of the head, she is working with men to feed their daughter six years old. During the mining days, the daughter was gone to the jungle and selling the heavy.
 
-''ලයිට් නැති, අලි ඉන්න පැත්තක තාවකාලික තැනක අපි පදිංචි වෙලා ඉන්නේ. මේ ඉඩමේ අයිතිකාරයොත් අපිට යන්න කියනවා. රෑට විතරයි අපි උයන්නේ. කොහොම හරි ළමයට උගන්වලා හොඳ තැනකට ගෙනාවොත් ඇති කියලා තමයි මම කල්පනා කරමින් ඉන්නේ.'' යනුවෙන්  ඉරේෂා සදමාලි BBC සිංහල සේවයට පැවසුවාය.
+"We have settled in a temporary place in a side of elephants, no lights. The owner of this land tell us to go. Only at night we cook. I'm thinking that if you have a good thing to teach, I think Iresha Sadali was told to BBC Sinhala.
 
 ◼️
 
 [Data](articles/c75c4585.json)
+
+[Extended Data](ext_articles/c75c4585.ext.json)
 
 ---
 

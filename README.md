@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 15:33:00**
+As of **2024-02-05 15:51:34**
 
 ## Newspaper Stats
 
@@ -26,45 +26,53 @@ dailymirrorlk | 688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,906 (99.9%) of 4,911 articles have been extended.
+4,911 (100.0%) of 4,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
 
-### හරක් කටාගේ පෙත්සමට CID අධ්‍යක්ෂක ඇතුළු පිරිසකට නොතීසි
+### CID including CID Director including CID directory
 
 *2024-02-05 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193004) · `si`
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන සිටින මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවකු බව කියන නඳුන් චින්තක වික්‍රමරත්න හෙවත් 'හරක් කටා' නමැත්තා රඳවා ගැනීම සඳහා නිකුත් කර තිබෙන හතරවන රැඳවුම් නියෝගය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන්නයි ඉල්ලා ගොනුකර ඇති පෙත්සම සම්බන්ධයෙන් කරුණු දක්වන ලෙස එහි වග උත්තරකරුවන් වශයෙන් නම් කර සිටින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂවරයා ඇතුළු නිලධාරීන් නොතීසි ලබා දීමට පියවර ගන්නා ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (05) පෙත්සම්කාර පාර්ශවයට නියෝග කළේය.
+Fourth Detention Order issued by the Criminal Investigation Department (CID) is named as a deputy dictatorship detention order to be released.The Supreme Court today ordered the petitioner today to take action notice to the officers including the Director of the Criminal Investigation Department.
 
-මෙම පෙත්සම අද ප්‍රියන්ත ජයවර්ධන, කුමුදුනී වික්‍රමසිංහ සහ අර්ජුන ඔබේසේකර යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+The petition was called before the Supreme Court Judge of Priyantha Jayawardena and Kumuduni Wickremasinghe and Arjuna Obeysekere.
 
-පෙත්සම සලකා බැලීම සඳහා කැඳවනු ලැබූ අවස්ථාවේදී එහි වගඋත්තරකරුවන් වෙනුවෙන් නීතිඥවරු පෙනී සිටියේ නැහැ.
+Attorneys at the time of the respondents did not appear on behalf of the respondents when they were called to consider the petition.
 
-ඒ අනුව වගඋත්තරකරුවන්ට යළි නොතීසි නිකුත් කරන ලෙස පෙත්සම්කාර පාර්ශ්වයට දැනුම් දුන් ශ්‍රේෂ්ඨාධිකරණය පෙත්සම සලකා බැලීම සඳහා ලබන 28 වනදා කැඳවන ලෙසත් නියෝග කළේය.
+Accordingly, the Supreme Court ordered the Supreme Court to consider the petition informed to the respondents to re-issue the respondents.
 
-...
+The petitioner has been informed of the petitioner, 'Beef' courts 'beef' courts under the Prevention of Terrorism Act without any new investigation.
+
+The petitioner is requested to give a decision that the detention order is violated by this.
+
+◼️
 
 [Data](articles/b7e7f415.json)
 
+[Extended Data](ext_articles/b7e7f415.ext.json)
+
 ---
 
-### හයෙන් හතරෙන් ටෙස්ට් ජය ශ්‍රී ලංකාවට
+### Test win for four out of six
 
 *2024-02-05 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193003) · `si`
 
-ඇෆ්ගනිස්තාන කණ්ඩායමට එරෙහිව පැවති ටෙස්ට් තරගය කඩුලු 10කින්  ජය හිමිකරගැනීමට ශ්‍රී ලංකාව අද සමත්විය.
+Sri Lanka won the Test match against Afghanistan by 10 wickets.
 
-එහිදී දෙවන ඉනිමේදී ලකුණු 56ක ඉලක්කයක් හඹා ගිය ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 7යි පන්දු 2කදී එම ඉලක්කය පසුකර ගියේය.
+Chasing a target of 56 in the second innings, the Sri Lanka scored a target of 7 overs and scored the target in 7 overs.
 
-මෙහිදී වේගවත් ඉනිමක් ක්‍රීඩා කළ දිමුත් කරුණාරත්න නොදැවී පන්දු 22කදී හයේ පහරක් සහ හතරේ පහර 3ක් සමග ලකුණු 32ක් රැස්කරගත්තේය.
+Dimuth Karunaratne played fast innings and scored 32 off 22 balls with two fours.
 
-ඔහුට අගනා සහායක් ලබාදුන් නිශාන් මදුෂ්ක නොදැවී හතරේ පහර 4ක් සමග ලකුණු 22ක් රැස්කරගත්තේය.
+Nishan Madashka scored 22 runs with four unbeaten and four fours.
 
 ◼️
 
 [Data](articles/e742988d.json)
+
+[Extended Data](ext_articles/e742988d.ext.json)
 
 ---
 
@@ -90,41 +98,47 @@ The government cut the signal of private television channel Walf as it broadcast
 
 ---
 
-### මැතිවරණ කල්දැමීමෙන් සෙනගාලය යුද පිටියක් වෙයි
+### The Senegal is a military page by postpoor
 
 *2024-02-05 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193002) · `si`
 
-මැතිවරණ කල් දැමීමට සෙනගාලයේ ජනාධිපති මැකී සෝල් තීරණය කිරීමත් සමග එරට විරුද්ධ පක්ෂ වල ආධාරකරුවන් විරෝධතා ආරම්භ කර තිබේ.
+Assets supporters of the opposition parties with the decision to postpone the elections to postpone elections.
 
-විදෙස් මාධ්‍ය පැවසුවේ විරෝධතාකරුවන් පාලනයට පොලීසිය කඳුළු ගෑස් ප්‍රහාර එල්ලකළ බවත් පසුව කිහිපදෙනෙක්ව අත්අඩංගුවට ගත් බවත් ය.
+Foreign media said that police tears were attacked by tear gas to control the protesters and later arrested several people.
 
-එරට ජනාධිපතිවරණය ඉදිරි මාස කිහිපය තුළ පැවැත්වීමට නියමිතව තිබියදී සෙනසුරාදා (03) ජනාධිපතිවරයා පැවසුවේ මැතිවරණය කල්දමන බවයි.
+Saturday (03), the President said that the election will be postponed to the presidential election in the next few months.
 
-අත්අඩංගුවට ගත් පිරිස අතර හිටපු අගමැති Aminata Toure මෙන්ම ඉදිරි ජනාධිපතිවරණයට නාමයෝජනා දී ඇති අපේක්ෂකයක් ද වෙයි.
+Among the arrested persons is a candidate that has been nominated for the former Prime Minister Aminata Toore and the next presidential election.
 
-එරට පෞද්ගලික නාලිකාවක් වන "Walf" නම් නාලිකාව එම උද්ඝෝෂණය සජීවීව විකාශය කරමින් සිටින අතරතුර බලධාරීන් එහි සංඥා අවහිර කළේය.
+The authorities reblogged the signal while the "Walf", a private channel of the country.
 
 ◼️
 
 [Data](articles/8e3c8ef1.json)
 
+[Extended Data](ext_articles/8e3c8ef1.ext.json)
+
 ---
 
-### சிலி காட்டுத்தீயில்  112 பேர் பலி
+### 112 killed in Chilean wildfire
 
 *2024-02-05 14:18:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சிலி-காட்டுத்தீயில்-112-பேர்-பலி/50-332707) · `ta`
 
-தென் அமெரிக்க நாடான சிலியின் வினாடெல்மார் மலைப்பகுதியில் பயங்கர காட்டுத்தீ ஏற்பட்டுள்ளது. இந்த தீ மற்ற பகுதிகளுக்கும் வேகமாக பரவி வருகிறது.
+Terrific wildfire has occurred in the southern American country of Chile.. The fire is spreading rapidly to other areas.
 
-இதனையடுத்து தீயணைப்பு வீரர்கள் அங்கு விரைந்து ஹெலிகாப்டர்கள் மூலம் தண்ணீரை தெளித்து தீயை கட்டுப்படுத்த முயன்று வருகின்றனர். ஆனாலும் தீ கட்டுக்கடங்காமல் எரிந்து வருகிறது.
+Subsequently, firefighters rushed there and were trying to control the fire by spraying water by helicopters.. Yet the fire is burning.
 
-இந்த காட்டுத்தீயால் இதுவரை சுமார் 20 ஆயிரம் எக்டேர் வனப்பகுதி எரிந்து நாசமாகியுள்ளதாக கூறப்படுகிறது. இதனால் அங்குள்ள அரிய வகை தாவரங்கள், விலங்கினங்கள் தீயில் கருகி மடிந்தன. அதனை சுற்றியுள்ள எஸ்ட்ரெல்லா, நவிடாப் ஆகிய பகுதிகளுக்கும் இந்த தீ பரவியது. இதில் அங்குள்ள 1,200 வீடுகள் எரிந்து நாசமாகின.
+The wildfire is said to have been destroyed by about 20 thousand hectares of forest so far. The rare plants and animals died in the fire. The fire spread to the surrounding Estrella and Navidab. Of these, 1,200 houses were destroyed.
 
-இந் நிலையில் சிலியில் எரியும் காட்டுத் தீயினால் இறந்தவர்களின் எண்ணிக்கை 112 ஆக உயர்ந்துள்ளது. வேகமாக பரவி வரும் இந்த தீயை அணைப்பது சவாலாக உள்ளது. எனவே தீயை அணைக்கும் பணியில் மீட்பு படையினருக்கு உதவும்படி பொதுமக்களை அந்நாட்டு ஜனாதிபதி கேப்ரியல் போரிக் கேட்டுக்கொண்டுள்ளார். வனப்பகுதியில் ஏற்பட்டுள்ள தீயை கட்டுப்படுத்தும் பணியில் தீயணைப்புப்படையினர் தீவிரமாக ஈடுபட்டுள்ளனர்.
+In this case, the death toll from the wildfire in Chile has risen to 112. The fastest spreading fire is the challenge of extinguishing. So President Gabriel Boric has asked the public to help rescue personnel in the process of extinguishing the fire. Firefighters are actively engaged in controlling the fire in the forest.
 
-...
+Weather officials have warned that the temperature will increase by 104 degrees in the coming days.
+
+◼️
 
 [Data](articles/c0bfdf22.json)
+
+[Extended Data](ext_articles/c0bfdf22.ext.json)
 
 ---
 
@@ -532,19 +546,21 @@ Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
 
 ---
 
-### කන්දකාඩුවෙන් පැන්න 14ක් යළි අල්ලයි
+### 14 crowdly seized by Kandakara
 
 *2024-02-05 11:50:43* · [`adalk`](https://www.ada.lk/breaking_news/කන්දකාඩුවෙන්-පැන්න-14ක්-යළි-අල්ලයි/11-407905) · `si`
 
-කන්දකාඩු පුනරුත්ථාපන කදවුරේ  පෙරේදා 4 වෙනි දින සවස 6 පමණ  රැදවියන් හා යුද හමුදා සෙඔලුන් අතර සිදුවු ගැටුමකින් රැදවියන් 10 දෙනෙක්  හා යුදහමුදා සෙබළෙකු තුවාල ලබා පොලොන්නරුව රොහලට අතුලත් කර ඇති බව වැලිකන්ද පොලිසිය කියයි .
+Awaitaries and Army soldiers were injured in a confrontation between the Mount Kadaka and Army and soldiers were injured in a confrontation between the Mount and Army and soldiers.
 
-තුවාල ලැබුවන් රැදවියන් හා යුද හමුදා සෙඔළෙකු රොහලේ 2 ⁣වාට්ටුවේ ප්‍රතිකාර ලබමින් සිටී. ⁣ගැටුමෙන් පසු පලාගිය රැදවියන් 14 දෙනෙක් වැලිකන්ද පොලිසිය නිලධාරීන් විසින් ඊයේ රාත්‍රි කාලයේ දිම අත්අඩංගුවට ගත් බවත්  අත්අඩංගුවට ගත් රැදවියන් ඊයේ උදේ පොලොන්නරුව මහේස්ත්‍රාත් අධිකරණ වෙත ඉදිරිපත් කරන බව
+Infants and army personnel are receiving treatment at the 2st of Royal.The arrested detainees were arrested by the Welikanda police last night after the officials were arrested by the Welikanda Police last night.
 
-රැදවියන් හා  යුද හමුවේ සෙබලුන් අතර සිදුවු ගැටුම්  අවස්ථාවේ කදවුර තුල පොලු උල් පහියා ද තිබුන බවද
+It was also the Ulitha in the camp at the clashes between the heels of the war and the war.
 
 ◼️
 
 [Data](articles/91a448c4.json)
+
+[Extended Data](ext_articles/91a448c4.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 23:03:01**
+As of **2024-02-05 23:17:23**
 
 ## Newspaper Stats
 
-*Scraped **5,001** Articles*
+*Scraped **5,002** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 263
 dailyftlk | 280
 newsfirstlk | 303
 adalk | 433
-virakesarilk | 579
+virakesarilk | 580
 adaderanalk | 620
 tamilmirrorlk | 634
 adaderanasinhalalk | 646
@@ -26,7 +26,7 @@ dailymirrorlk | 711
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,000 (100.0%) of 5,001 articles have been extended.
+5,001 (100.0%) of 5,002 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,20 @@ The President emphasized that the government achieved significant progress for t
 [Data](articles/04ad142c.json)
 
 [Extended Data](ext_articles/04ad142c.ext.json)
+
+---
+
+### போதைப்பொருளுடன் சிறைச்சாலை புனர்வாழ்வுப் பிரிவு அதிகாரி கைது!
+
+*2024-02-05 22:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175661) · `ta`
+
+மொனராகலை சிறைச்சாலையில் கடமையாற்றும் புனர்வாழ்வுப் பிரிவு அதிகாரி ஒருவரை மொனராகலை நகரில் ஹெரோயின் போதைப்பொருளுடன் மொனராகலை பொலிஸார் கைது செய்துள்ளதாக சிரேஷ்ட பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+குறித்த அதிகாரி ஹெரோயினுடன் கைது செய்யப்பட்டமை தொடர்பில் மொனராகலை சிறைச்சாலை அத்தியட்சகருக்கு அறிவித்துள்ளதாக பொலிஸார் கூறினர்.
+
+◼️
+
+[Data](articles/ca3f24ca.json)
 
 ---
 
@@ -209,6 +223,8 @@ Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
 ◼️
 
 [Data](articles/4d8c4eff.json)
+
+[Extended Data](ext_articles/4d8c4eff.ext.json)
 
 ---
 
@@ -1973,25 +1989,5 @@ The price of Nuwara Eliya Carrot has increased again. The price of 1 kg carrot, 
 [Data](articles/1a462859.json)
 
 [Extended Data](ext_articles/1a462859.ext.json)
-
----
-
-### Meeting Indian Foreign Minister
-
-*2024-02-05 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175602) · `ta`
-
-JVP leader Anura Kumaratisanayake, who has visited India, has met with Indian Foreign Minister Jaishankar.
-
-Jaishankar said that the meeting was investigated on the mutual benefits that can be developed by further strengthening our bilateral relations.
-
-The Indian External Affairs Minister said that the economic challenges of Sri Lanka were also investigated during talks with the JVP leader.
-
-The Minister of India has said that India will be a friend of Sri Lanka and a credible colleague due to the policy of its foreign country and Sagar policy.
-
-◼️
-
-[Data](articles/26783a43.json)
-
-[Extended Data](ext_articles/26783a43.ext.json)
 
 ---

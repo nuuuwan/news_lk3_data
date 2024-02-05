@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 16:32:50**
+As of **2024-02-05 16:48:11**
 
 ## Newspaper Stats
 
-*Scraped **4,925** Articles*
+*Scraped **4,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 299
 adalk | 425
 virakesarilk | 565
-adaderanalk | 611
+adaderanalk | 612
 tamilmirrorlk | 627
 adaderanasinhalalk | 636
 dailymirrorlk | 688
@@ -26,7 +26,7 @@ dailymirrorlk | 688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,925 (100.0%) of 4,925 articles have been extended.
+4,926 (100.0%) of 4,926 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -89,6 +89,28 @@ At the time, more than 7 police officers who came in civil clothes were struck b
 [Data](articles/60cffb9b.json)
 
 [Extended Data](ext_articles/60cffb9b.ext.json)
+
+---
+
+### SLC, PCB at loggerheads over extra expenses during Asia Cup 2023 - report
+
+*2024-02-05 15:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97019/slc-pcb-at-loggerheads-over-extra-expenses-during-asia-cup-2023-report) · `en`
+
+The cricket boards of Pakistan and Sri Lanka are locked in a financial dispute over who should bear the additional $3-4 million burden incurred due to the shifting of the Asia Cup to the island nation last year.
+
+With the BCCI unwilling to send its team to Pakistan, the original host, due to geo-political tensions, the Asian Cricket Council (ACC) and the Pakistan Cricket Board (PCB) decided on a hybrid model and roped in Sri Lanka to host the majority of the matches.
+
+This resulted in extra expenses being incurred on chartered flights, hotel bookings, venue hiring fees and travel, among others.
+
+Sri Lanka Cricket (SLC) made it clear during the ACC council meeting in Bali last week that it was not willing to take the financial burden as it did not earn extra and was also not the official host of the tournament.
+
+The expenses also reportedly soared because the former PCB chairman, Zaka Ashraf, changed the venue of the first match from Lahore to Multan.
+
+...
+
+[Data](articles/62336e91.json)
+
+[Extended Data](ext_articles/62336e91.ext.json)
 
 ---
 
@@ -2049,23 +2071,5 @@ However, despite the opposition of security officials, the former minister and o
 [Data](articles/dd35f64c.json)
 
 [Extended Data](ext_articles/dd35f64c.ext.json)
-
----
-
-### Anura including Indian official invitation to India
-
-*2024-02-05 07:38:44* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-නිල-ආරාධනාවකට-අනුර-ඇතුළු-පිරිසක්-ඉන්දීය-සංචාරයක/11-407897) · `si`
-
-The officer in charge of the Nathanayake Airport, who was on the official invitation of the Government of India and four have been leaving for New Delhi in India.
-
-Vijitha Herath, MP Vijitha Herath, Experinist Dr. Nihal Abeysinghe and Professor Anil Jayantha Fernando were joined.
-
-The Indian Airlines belongs to the Indian Airlines at 04.05 days at 4.41 am.
-
-◼️
-
-[Data](articles/5df9069d.json)
-
-[Extended Data](ext_articles/5df9069d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 17:53:02**
+As of **2024-02-05 18:08:59**
 
 ## Newspaper Stats
 
-*Scraped **4,946** Articles*
+*Scraped **4,947** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 299
 adalk | 426
 virakesarilk | 565
-adaderanalk | 613
+adaderanalk | 614
 tamilmirrorlk | 627
 adaderanasinhalalk | 641
 dailymirrorlk | 700
@@ -26,11 +26,29 @@ dailymirrorlk | 700
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,946 (100.0%) of 4,946 articles have been extended.
+4,947 (100.0%) of 4,947 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### Minister Kanchana to attend ‘India Energy Week 2024’
+
+*2024-02-05 17:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97021/minister-kanchana-to-attend-india-energy-week-2024) · `en`
+
+Sri Lanka’s Power and Energy Minister Kanchana Wijesekera is set to participate in the ‘India Energy Week’ conference in Goa, at the invitation of the Ministry of Petroleum and Natural Gas of India.
+
+Accordingly, Wijesekera will make a two-day visit to India, during which he is also expected to engage in several meetings including those of bilateral concerns, ministerial roundtables, and meetings with the Indian Oil Corporation (IOC), Petronet LNG, Oil and Natural Gas Corporation of India, NTPC India and other investors.
+
+The ‘India Energy Week’ conference will be held from 06 to 09 February in Goa, India, under the patronage of the Ministry of Petroleum & Natural Gas, Government of India, and officially supported by the Federation of Indian Petroleum Industry (FIPI). Indian Prime Minister Narendra Modi is expected to inaugurate India’s largest and only all-encompassing energy exhibition and conference.
+
+...
+
+[Data](articles/8803992c.json)
+
+[Extended Data](ext_articles/8803992c.ext.json)
+
+---
 
 ### 3,000 schools with A/L will be digitized in March: Minister
 
@@ -2059,23 +2077,5 @@ The Ministry of Public Safety said that 191 grams of heroin and 103 grams of Ice
 [Data](articles/6eb18c80.json)
 
 [Extended Data](ext_articles/6eb18c80.ext.json)
-
----
-
-### Another person involved in Beliatta arrested
-
-*2024-02-05 09:11:28* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්ත-පංච-පුද්ගල-ඝාතයට-සම්බන්ධ-තවත්-අයෙක්-අල්ලයි/11-407900) · `si`
-
-The Matara Divisional Children's and Women's bunker has been arrested by the Matara Divisional Children's and Women's Bureau.
-
-The suspect was arrested yesterday (04) at Habaraduwa Police Division.
-
-The suspect is a 28 year old resident of Rathgama and has been handed over to the Beliatta Police for further investigations.
-
-◼️
-
-[Data](articles/c44f57aa.json)
-
-[Extended Data](ext_articles/c44f57aa.ext.json)
 
 ---

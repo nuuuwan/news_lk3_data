@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 12:17:14**
+As of **2024-02-05 12:33:18**
 
 ## Newspaper Stats
 
@@ -26,55 +26,63 @@ dailymirrorlk | 681
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,864 (99.8%) of 4,874 articles have been extended.
+4,874 (100.0%) of 4,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
 
-### சாந்தன் இலங்கைக்கு வர ஜனாதிபதி சம்மதம்
+### Shantan's consent to come to Sri Lanka
 
 *2024-02-05 12:05:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தன்-இலங்கைக்கு-வர-ஜனாதிபதி-சம்மதம்/175-332695) · `ta`
 
-ரஜீவ்காந்தி கொலை வழக்கில் கைது செய்யப்பட்டு விடுதலையானவர்களுள் ஒருவரான சாந்தனை இலங்கைக்கு அழைத்து வருவதற்கு ஜனாதிபதி ரணில் விக்ரமசிங்க சம்மதம் தெரிவித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+It is reported that President Ranil Wickremesinghe has agreed to bring Shantan to Sri Lanka, one of the arrested in the Rajiv Gandhi murder case.
 
-குறித்த விடயம் தொடர்பாக இன்று நடைபெற்ற அமைச்சரவை கூட்டத்தின் போது ஜனாதிபதி மற்றும் வெளிவிவகார அமைச்சர் ஆகியோருடன் அமைச்சர் டக்ளஸ் தேவானந்தா உரையாடிய நிலையிலேயே ஜனாதிபதியினால் மேற்படி சம்மதம் தெரிவிக்கப்பட்டுள்ளது.
+Minister Douglas Devananda spoke to the President and the Minister of External Affairs during a cabinet meeting held today.
 
 ◼️
 
 [Data](articles/81b50fc0.json)
 
+[Extended Data](ext_articles/81b50fc0.ext.json)
+
 ---
 
-### மாணவர்கள்மீதான தாக்குதல்கள் இலங்கை  அரசின் கோரமுகத்தை  அம்பலப்படுத்துகின்றது -நாடு கடந்த தமிழீழ அரசின் கனடா உறுப்பினர்கண்டனம்
+### Attacks on students expose the Sri Lankan government's corporation
 
 *2024-02-05 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/175595) · `ta`
 
-இலங்கையின் சுதந்திரதினத்தன்று  கிளிநொச்சியில் அறவழியில் போராடிய மாணவர்கள் மற்றும் அரசியல் தலைவர்கள்மீது இலங்கை அரசின்  காவல்துறை மேற்கொண்ட அராஜகமான தாக்குதல் இலங்கை அரசின் கோரமுகத்தை மீண்டும் அம்பலப்படுத்தியுள்ளது. என கனடாவிலிருந்து நாடு கடந்த அரசாங்கத்தின் முன்னாள் அமைச்சர் நிமால் விநாயகமூர்த்தி கண்டனம் தெரிவித்துள்ளார்.
+The Sri Lankan government's anarchy on students and political leaders who fought in Kilinochchi on Independence Day of Sri Lanka. Former minister of the country from Canada Nimal Vinayagamoorthy has condemned.
 
-ஸ்ரீலங்காவின் சுதந்திரதினத்தை புறக்கணிக்கும் விதமாகவும் அந் நாளை கரிநாளாக பிரகடனப்படுத்தியும் அமைதி வழியில் பேரணி சென்ற அரசியல் தலைவர்கள், மாணவர்கள், மக்கள்மீது மிகவும் கொடூரமான முறையில் ஸ்ரீலங்கா காவல்துறையினர் தாக்குதல் நடாத்தியுள்ளமை கண்டு புலம்பெயர் தேசமாக கடும் கண்டங்களை வெளியிடுகின்றோம்.
+We are publishing heavy continents in the diaspora, as the Sri Lankan police have been brutally attacked by political leaders, students and people who have rally the peaceful rally on the day of Sri Lanka's Independence Day.
 
-ஸ்ரீலங்கா அரசு ஒரு ஜனநாயக அரசென்றால், ஸ்ரீலங்கா நாடு ஒரு ஜனநாயக நாடென்றால் இப்படியான தாக்குதல் சம்பவம் இடம்பெற்றிராது. போராட்டத்தில் ஈடுபட்ட மாணவர்கள்மீது கண்ணீர் குண்டு பிரயோகம் மேற்கொண்டு, நீர்தாரை தாக்குதலையும் தொடுத்திருந்ததுடன், அவர்கள்மீது கடுமையான தாக்குதல்களையும் ஸ்ரீலங்கா காவல்துறையினர் மேற்கொண்டுள்ளனர்.
+If the Sri Lankan government is a democratic state, Sri Lanka is a democratic country. The Sri Lankan police have carried out tears of tears, and the water strikes on the protesting students.
+
+At the same time, the attacks have also taken place on the relations of the missing persons involved in the struggle. As well as the appreciation of the Member of Parliament, Sivagnanam Sreedharan and Charles Nirmalanathan have been attacked.. The Sri Lankan government has expressed its claim face, attacking the people and the elected representatives.
 
 ...
 
 [Data](articles/c5eee436.json)
 
+[Extended Data](ext_articles/c5eee436.ext.json)
+
 ---
 
-### முட்டை ஒன்றின் விலை 58 ரூபாவாக உயர்ந்தது!
+### The price of an egg rose to 58 rupees!
 
 *2024-02-05 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175594) · `ta`
 
-கடந்த சில வாரங்களுக்கு முன்னர் முட்டை ஒன்றின் விலை 40 ரூபாவாக குறைக்கப்பட்ட போதிலும் மீண்டும் ஒரு முட்டையின் விலை 58 ரூபாவாக உயர்வடைந்துள்ளது.
+The price of an egg has been reduced to 40 rupees a few weeks ago, but the price of an egg has risen to 58 rupees again.
 
-தாம் ஒரு முட்டையை மொத்த விலையில் 60 ரூபாவுக்கு கொள்வனவு செய்வதாக  பேக்கரி உரிமையாளர்கள் கூறுகின்றனர். கோழிப்பண்ணை உரிமையாளர்களே இவ்வாறு முட்டை விலையை உயர்த்தியதாக முட்டை வியாபாரிகள்  தெரிவிக்கின்றனர்.
+Bakery owners say they buy an egg for a total price of 60 rupees. Egg merchants say that poultry owners have raised the price of eggs.
 
-இதேவேளை, இடைத்தரகர்கள் குழுவொன்றே  முட்டையின் விலையை அதிகரித்துள்ளதாக விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர தெரிவித்துள்ளார். வேகமாக அதிகரித்து வரும் முட்டை விலையைக்  கட்டுப்படுத்த எதிர்காலத்தில் சில நடவடிக்கை எடுக்க வேண்டும் என்றும் அமைச்சர் கூறினார்.
+Meanwhile, Agriculture and Plantation Industries Minister Mahinda Amaraweera has said that a group of intermediaries have increased the price of eggs.. The Minister said that some action should be taken in the future to curb the rapidly rising egg prices.
 
 ◼️
 
 [Data](articles/819664dc.json)
+
+[Extended Data](ext_articles/819664dc.ext.json)
 
 ---
 
@@ -100,41 +108,51 @@ They were rescued by Seychelles security forces with the intervention of the Sri
 
 [Data](articles/e5e4d29f.json)
 
+[Extended Data](ext_articles/e5e4d29f.ext.json)
+
 ---
 
-### பூனம் பாண்டேவுக்கு 5 ஆண்டுகள் சிறை ?
+### 5 years in prison for Poonam Pandey?
 
 *2024-02-05 11:32:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பூனம்-பாண்டேவுக்கு-5-ஆண்டுகள்-சிறை/54-332691) · `ta`
 
-நடிகை பூனம் பாண்டே  கர்ப்பப்பை வாய் புற்றுநோய் காரணமாக காலமானதாக கடந்த 2 நாட்களுக்கு முன் செய்திகள் வெளியாகின. அடுத்த நாள் மர்ம மரணம் என மேலாளர் அறிவித்தார். அவருடைய தோழி பூனம் உயிருடன் இருந்ததாக பதிவிட்டார். இதனால் ரசிகர்கள் அதிர்ச்சியும், குழப்பமும் அடைந்தனர்.
+Actress Poonam Pandey passed away 2 days ago that she passed away due to cervical cancer. The manager declared that the next day was mysterious death. His girlfriend Poonam posted that she was alive. This made the fans shocked and confused.
 
-இந்த தகவல்களுக்கு முடிவு கட்டும் வகையில்   திடீரென பூனம் பாண்டே தனது இன்ஸ்டா  பக்கத்தில் தான் உயிருடன் இருப்பதாகவும், கர்ப்பப்பை வாய் புற்று நோய் குறித்த விழிப்புணர்வை ஏற்படுத்துவதற்காக இந்த செய்தியை வெளியிட்டதாகவும் பதிவு ஒன்றை வெளியிட்டார்.
+In an end to this information, Poonam Pandey issued a record that he was still alive on his Insta of his Insta and published the news to raise awareness about cervical cancer.
 
-அத்துடன்  இந்த செய்தி யார் மனதையாவது பாதித்திருந்தால் மன்னிப்பு கேட்டுக் கொள்கிறேன் எனவும் குறிப்பிட்டிருந்தார்.  இந்த வீடியோவிற்கு சமூக வலைதளங்களில் பல்வேறு கருத்துகள் வெளியாகின.  நோய்க்குரிய விழிப்புணர்வை ஏற்படுத்துவதற்காக இவ்வாறு பொய் சொல்வது மட்டமான செயல் . சுய விளம்பரத்திற்காக செய்யும் பைத்தியக்காரத்தனம் எனவும்  நெட்டிசன்கள் விமர்சனம் செய்தனர்.
+He also apologized if the news was affected by the mind. Various comments have been released on social networks for this video. It is a damn act to raise awareness of the disease. The Nettisans also criticized the madness for self -advertising.
+
+According to the Information Technology section enacted in 2000, you will be sentenced to 3 years in prison for misinformation on social networks. It is also said that the same mistake will be sentenced to 5 years in prison. It has also been reported that Rs 5 lakh to 10 lakh can be imposed.
 
 ...
 
 [Data](articles/680f5586.json)
 
+[Extended Data](ext_articles/680f5586.ext.json)
+
 ---
 
-### பிரேமதாஸ நிர்மாணித்த பாலம் இடிந்து விழுந்தது
+### The bridge built by Premadasa collapsed
 
 *2024-02-05 11:26:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/பிரேமதாஸ-நிர்மாணித்த-பாலம்-இடிந்து-விழுந்தது/93-332690) · `ta`
 
-முன்னாள் ஜனாதிபதியான மறைந்த  ரணசிங்க பிரேமதாஸவின் ஆட்சி காலத்தில் நிர்மாணிக்கப்பட்ட பாலங்களில் ஒன்று இடிந்து விழுந்துள்ளது.
+One of the bridges built during the reign of former President Ranasinghe Premadasa have collapsed.
 
-எம்பிலிபிட்டிய - மித்தெனிய வீதியில் ஹுலந்த ஓயாவின் குறுக்கே கும்புகொடர பிரதேசத்தில் நிர்மாணிக்கப்பட்ட பாலமே  இடிந்து விழுந்துள்ளது. இதனால் போக்குவரத்து ஸ்தம்பிதமடைந்துள்ளது.
+A bridge built in Kumbukodara area across Hulanda Oya on Embilipitiya - Mitteniya road. This has caused traffic.
 
-திங்கட்கிழமை (05) காலை 6.30 மணி முதல் 7.30 மணிக்குள் மரக்கட்டை ஏற்றிச் சென்ற லொரியால் இந்த சம்பவம் நடந்துள்ளது.
+The incident took place on Monday (05) from 6.30 am to 7.30 am by a lorry carrying a tree.
 
-மரக்குற்றிகளை ஏற்றிச் சென்ற பாரவூர்தி இன்று (05) காலை பாலத்தின் ஊடாகச் சென்ற நிலையில் குறித்த பாலம் இடிந்து வீழ்ந்துள்ளதோடு பாரவூர்தி ஓடையில் வீழ்ந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Police said the bridge had collapsed and fell into the stream of Paravurthi.
 
-இதன்போது யாருக்கும் காயம் ஏற்படவில்லை என தெரிவிக்கப்பட்டுள்ளது. இந்த நிலையில் பாலம் இடிந்து வீழ்ந்தமையினால் எம்பிலிப்பிட்டியவில் இருந்து மாத்தறை, பெலியத்த , தங்காலை நோக்கிக் செல்லும் வாகனங்களுக்குக் பாதிப்பு ஏற்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+No one was injured at this time. Due to the collapse of the bridge, the vehicles from Embilipitiya have been affected by vehicles traveling to Matara, Beliatta and Tangalle.
 
-...
+Local residents say that the bridge, built in 1985 during the reign of the late President Ranasinghe Premadasa, was demolished due to the widening of the road without proper maintenance.
+
+◼️
 
 [Data](articles/5d5ea64a.json)
+
+[Extended Data](ext_articles/5d5ea64a.ext.json)
 
 ---
 
@@ -326,6 +344,8 @@ A bond maturing on 01.07.2028 was quoted at 12.70/78. (Colombo/Feb5/2024)
 
 [Data](articles/2584f60f.json)
 
+[Extended Data](ext_articles/2584f60f.ext.json)
+
 ---
 
 ### In the accident, the mother's death;Father and daughter injured
@@ -428,17 +448,19 @@ However, no casualties have been reported thus far, while motorists have been ur
 
 ---
 
-### කුබුගොඩආර හුලංදාඔය පාලම කඩා වැටෙයි
+### Kubugodaara Hulanda Oya bridge collapses
 
 *2024-02-05 10:29:45* · [`adalk`](https://www.ada.lk/picture_story/කුබුගොඩආර-හුලංදාඔය-පාලම-කඩා-වැටෙයි/10-407901) · `si`
 
-ඇඹිලිපිටිය තෝරකොලයාය හරහා මිද්දෙණිය ප්‍රධාන මාර්යේ කුබුගොඩආර හුලංදාඔය පාලම ලොරියක් සමග අද පෙරවරුවේ කඩා ඇත.
+The Kubugodaara Hulanadda Oya Bridge this morning has been collapsed along the Destroge.
 
-ඇත විකල්ප මාර්ගයක් ලෙස කදුරැගස්ආර මාර්ගය බාවිතා කල හැකිය. 1985 පැවැති ඇබිලිපිටිය ගමි උදාවට සමගාමීව මෙය ඉදිකරන ලද්දකි.
+There may be the Kadagasara road as an alternative route. It was built in conjunction with the Ebilipitiya village garment in 1985.
 
 ◼️
 
 [Data](articles/5635e0a7.json)
+
+[Extended Data](ext_articles/5635e0a7.ext.json)
 
 ---
 
@@ -924,6 +946,8 @@ In countries with floating exchange rates with positive inflation targets, where
 
 [Data](articles/fd83dafe.json)
 
+[Extended Data](ext_articles/fd83dafe.ext.json)
+
 ---
 
 ### Operation ‘Yukthiya’: 667 more suspects arrested within 24 hours
@@ -1131,6 +1155,8 @@ In December 2023 credit to state corporations went down by 350 billion rupees to
 ...
 
 [Data](articles/f5fd6374.json)
+
+[Extended Data](ext_articles/f5fd6374.ext.json)
 
 ---
 

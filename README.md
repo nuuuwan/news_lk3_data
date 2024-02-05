@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 18:08:59**
+As of **2024-02-05 18:20:30**
 
 ## Newspaper Stats
 
-*Scraped **4,947** Articles*
+*Scraped **4,951** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ dbsjeyarajcom | 139
 economynextcom | 260
 islandlk | 263
 dailyftlk | 280
-newsfirstlk | 299
+newsfirstlk | 302
 adalk | 426
 virakesarilk | 565
-adaderanalk | 614
+adaderanalk | 615
 tamilmirrorlk | 627
 adaderanasinhalalk | 641
 dailymirrorlk | 700
@@ -26,11 +26,27 @@ dailymirrorlk | 700
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,947 (100.0%) of 4,947 articles have been extended.
+4,947 (99.9%) of 4,951 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### CID arrest tutor over torching of President Ranil’s house
+
+*2024-02-05 17:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97022/cid-arrest-tutor-over-torching-of-president-ranils-house) · `en`
+
+The Criminal Investigations Department (CID) has arrested a 46-year-old suspect in connection with the torching of President Ranil Wickremesinghe’s private residence in 2022.
+
+The suspect has been identified as a tuition class teacher in the Boralesgamuwa area, according to police.
+
+On 09 July 2022, then-Prime Minister Wickremesinghe’s private residence in Cinnamon Gardens was set ablaze by anti-government protesters.
+
+◼️
+
+[Data](articles/ef0f51e0.json)
+
+---
 
 ### Minister Kanchana to attend ‘India Energy Week 2024’
 
@@ -47,6 +63,26 @@ The ‘India Energy Week’ conference will be held from 06 to 09 February in Go
 [Data](articles/8803992c.json)
 
 [Extended Data](ext_articles/8803992c.ext.json)
+
+---
+
+### TISL slams “outrageous” passage of Online Safety Act
+
+*2024-02-05 17:13:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/tisl-slams-outrageous-passage-of-online-safety-act/) · `en`
+
+COLOMBO (News 1st); Transparency International Sri Lanka expressed its outrage at the government's passage of the Online Safety Act, despite failing to implement crucial amendments mandated by the Supreme Court.
+
+In a statement, Transparency International Sri Lanka said: "We are appalled by the outrageous conduct of the Government, Parliament, Attorney General, and the Speaker in signing off on a version of the Online Safety Act that does not contain several of the amendments required by the Supreme Court in its determination on the bill."
+
+The organization went on to criticize the move as a "blatant violation of the Constitutional safeguard" provided for citizens to seek the redress of the court against the attempts of the legislature to impose unconstitutional laws.
+
+They condemned it as an "unprecedented abuse of power by the legislature" and demanded immediate corrective action.
+
+Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
+
+...
+
+[Data](articles/32489cd3.json)
 
 ---
 
@@ -131,6 +167,28 @@ Accordingly, both groups of the five matches have won one match.
 [Data](articles/43d8c88e.json)
 
 [Extended Data](ext_articles/43d8c88e.ext.json)
+
+---
+
+### Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
+
+*2024-02-05 16:30:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/sri-lanka-seeks-thailand-s-help-to-free-56-citizens-held-in-myanmar/) · `en`
+
+COLOMBO (News 1st);  Sri Lankan President Ranil Wickremesinghe has appealed to Thailand's Prime Minister Srettha Thavisin for assistance in securing the release of 56 Sri Lankan nationals allegedly held captive by Chinese criminal organizations in Myanmar.
+
+Sri Lankan Ambassador to Myanmar Janaka Bandara confirmed that the request was made during the Thai Prime Minister's visit to Sri Lanka for the nation's Independence Day celebrations on February 4th.
+
+56 Sri Lankan youth are being held captive in Myanmar by a non-state armed group and forced to engage in cybercrime.
+
+The youths, lured with promises of computer-related jobs, were reportedly taken to Myanmar and detained in three separate locations near the Thai border.
+
+News 1st is in possession of GPS locations of the three sites where the Sri Lankans are being held in the Myawaddy region in Myanmar.
+
+One location reportedly houses 8 youths near the Moi River which located closed to the Myawaddy Town.
+
+...
+
+[Data](articles/42be6298.json)
 
 ---
 
@@ -270,6 +328,20 @@ He died on Sunday without treatment.
 
 ---
 
+### Nurses Don Civilian Attire in Nationwide Action
+
+*2024-02-05 15:42:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/nurses-don-civilian-attire-in-nationwide-action/) · `en`
+
+COLOMBO (News 1st); Members of the Public Service United Nurses Union (PSUNU) across Sri Lanka engaged in a work-to-rule action today, highlighting their demands for improved support and working conditions.
+
+Nurses reported for duty in civilian attire instead of their official uniforms at major hospitals such as the Colombo National Hospital, Kandy General Hospital, Karapitiya Teaching Hospital, Kurunegala Teaching Hospital, Matara Hospital, and Anuradhapura Hospital. Despite the action, treatment services were reportedly not disrupted.
+
+...
+
+[Data](articles/648b17a5.json)
+
+---
+
 ### 23 Indian fishermen
 
 *2024-02-05 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175622) · `ta`
@@ -364,7 +436,7 @@ Professor Peiris, expressed dissatisfaction with the Online Safety Bill, stating
 
 Responding to a question about potential action against the speaker, Professor Peiris confirmed the planned no-confidence motion. He emphasized the urgency of this action, stating that continued acceptance of the speaker's alleged conduct would amount to "betraying the country."
 
-Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
+Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
 
 ...
 
@@ -1000,9 +1072,9 @@ Dr. Jaishankar expressed his satisfaction with the discussion, highlighting the 
 
 He also acknowledged Sri Lanka's economic difficulties and offered support, stating that "India, with its Neighbourhood First and SAGAR policies, will always be a reliable friend and trusted partner of Sri Lanka."
 
-Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
+Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
 
-Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
+Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
 
 ◼️
 
@@ -1174,9 +1246,9 @@ President as the leader of the UNP has advised the committee to find an appropri
 
 Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
 
-Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
+Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
 
-Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
+Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
 
 ◼️
 
@@ -1308,9 +1380,9 @@ They are all residents of Marawila, Chilaw, and three of them are members of the
 
 They were rescued by Seychelles security forces with the intervention of the Sri Lanka Navy.
 
-Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
+Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
 
-Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
+Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
 
 ◼️
 
@@ -1638,9 +1710,9 @@ The section from Sri Uttarananda Mawatha and Nawam Mawatha to the Railway Crossi
 
 The section up to Rotunda Gardens Junction from Sri Uttarananda Mawatha and Perahara Mawatha will be closed from Monday (05) till the 11th of March.
 
-Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
+Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
 
-Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
+Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
 
 ◼️
 
@@ -1812,9 +1884,9 @@ Police seized 191 grams of heroin, 103 grams of ICE and 2kg and 300g of cannabis
 
 Three suspects arrested on drug-related charges were directed to rehabilitation centers.
 
-Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
+Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
 
-Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
+Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
 
 ◼️
 
@@ -2007,75 +2079,5 @@ Although she lost her husband as well as a shade of the head, she is working wit
 [Data](articles/c75c4585.json)
 
 [Extended Data](ext_articles/c75c4585.ext.json)
-
----
-
-### Bridge in Embilipitiya: Traffic Prohibition
-
-*2024-02-05 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175578) · `ta`
-
-Hulanda Oya Bridge collapsed on the main road from Embilipitiya to Mitteniya via Torakolaiyaya has been blocked.
-
-The bridge collapsed on Monday (05) morning when a lorry loaded with wooden bundles crossed the bridge.
-
-Due to the collapse of the bridge, traffic from Embilipitiya has been blocked from Matara, Beliatta and Tangalle.
-
-◼️
-
-[Data](articles/dfe28999.json)
-
-[Extended Data](ext_articles/dfe28999.ext.json)
-
----
-
-### 6 people drowning in the water rescue
-
-*2024-02-05 09:31:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கிய-6-பேர்-மீட்பு/175-332682) · `ta`
-
-Two officers of the Panadura Police Life Safety Division have been rescued when six people who were drowned in the Panadura coast were trapped in a wave.
-
-Three boys and three girls between the ages of 16 and 21 have survived.
-
-The incident took place yesterday evening (04) and the officers of the Life Protection Unit who saved them and handed them first aid and handed them over to relatives.
-
-◼️
-
-[Data](articles/b69635b6.json)
-
-[Extended Data](ext_articles/b69635b6.ext.json)
-
----
-
-### Beliatta firing: Another suspect arrested
-
-*2024-02-05 09:26:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலியத்த-துப்பாக்கி-சூடு-மற்றுமொரு-சந்தேக-நபர்-கைது/175-332681) · `ta`
-
-Police have arrested another suspect in connection with the shooting of five people in Beliatta area in Hambantota.
-
-The suspect was arrested yesterday (04) in Habaraduwa, the police media unit said.
-
-The arrested suspect is 28 years old from Ratgama, Katuttambe area.
-
-◼️
-
-[Data](articles/c7062ff3.json)
-
-[Extended Data](ext_articles/c7062ff3.ext.json)
-
----
-
-### 667 more suspects arrested in Yukati
-
-*2024-02-05 09:22:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்தியவில்-மேலும்-667-சந்தேக-நபர்கள்-கைது/175-332680) · `ta`
-
-In the last 24 hours, 667 more suspects have been arrested by Sri Lankan police and security forces.
-
-The Ministry of Public Safety said that 191 grams of heroin and 103 grams of Ice were seized.
-
-◼️
-
-[Data](articles/6eb18c80.json)
-
-[Extended Data](ext_articles/6eb18c80.ext.json)
 
 ---

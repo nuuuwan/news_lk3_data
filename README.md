@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 10:17:28**
+As of **2024-02-05 10:33:01**
 
 ## Newspaper Stats
 
-*Scraped **4,842** Articles*
+*Scraped **4,844** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,39 @@ newsfirstlk | 291
 adalk | 417
 virakesarilk | 548
 adaderanalk | 603
-tamilmirrorlk | 616
-adaderanasinhalalk | 620
+tamilmirrorlk | 617
+adaderanasinhalalk | 621
 dailymirrorlk | 679
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,840 (100.0%) of 4,842 articles have been extended.
+4,842 (100.0%) of 4,844 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### කොස්තාපල්වරියට නොහොබිනා වැඩක් කළ OIC ආගිය අතක් නෑ
+
+*2024-02-05 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192991) · `si`
+
+ආධුනික පොලිස් කොස්තාපල්වරියකට ලිංගික අතවර සිදුකළ බව කියන කල්පිටිය පොලීසියේ ස්ථානාධිපතිවරයා සම්බන්ධයෙන් විශේෂ විමර්ශනයක් ආරම්භ කර තිබේ.
+
+වයඹ පළාත් භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරයාගේ නියෝග පරිදි එම විමර්ශන කටයුතු කටුපොත පොලිසියේ ළමා හා කාන්තා කාර්යාංශය විසින් සිදුකෙරේ.
+
+කල්පිටිය පොලිසියේ ස්ථානාධිපතිවරයා ලෙස කටයුතු කරන පොලිස් පරීක්ෂකවරයාට මීට පෙර අවස්ථා කිහිපයකදී ලිංගික හිරිහැර සහ මූල්‍ය ගැටලු සම්බන්ධයෙන් චෝදනාවන් එල්ල වී තිබූ බව පැවසේ.
+
+ඒ අනුව එම පොලිස් පරීක්ෂකවරයා වහාම ක්‍රියාත්මක වන පරිදි උතුරු මැද පළාතට ස්ථාන මාරු කිරීමට හිටපු පොලිස්පතිවරයා කටයුතු කර තිබුණද දේශපාලන බලපෑම් මත එම ස්ථානමාරුව අවංලගු කර ගැනීමට එම පොලිස් පරීක්ෂකවරයා පියවර ගෙන තිබිණි.
+
+මේ අතර පසුගිය දිනක තම පොලිස් ස්ථානය තුළදී ආධුනික පොලිස් කොස්තාපල්වරියකට ලිංගික අතවර කිරීමට කල්පිටිය පොලිස් ස්ථානාධිපතිවරයා උත්සාහ කර ඇත.
+
+...
+
+[Data](articles/8b7fe13a.json)
+
+---
 
 ### 6 people drowning in the water rescue
 
@@ -166,23 +186,25 @@ Indigenous Medicine Sisira Jayakody is looking to legalize the cultivation only 
 
 ---
 
-### මුහුදේ ගහගෙන ගිය තරුණ යුවළ තුනක් බේරාගෙන
+### Save three young couples who were in the sea
 
 *2024-02-05 08:10:37* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදේ-ගහගෙන-ගිය-තරුණ-යුවළ-තුනක්-බේරාගෙන/11-407899) · `si`
 
-නිදහස් දින පානදුර මුහුදේ ගහගෙන ගිය තරුණ ජෝඩු තුනකගේ ජීවිත දිවි බේරාගැනීමට පානදුර ජීවිත ආරක්ෂක නිළධාරීන් සමත්ව ඇත.
+Due to the Independence Day security personnel, Panaduravasuriya has survived the lives of three young couples in Panadura sea.
 
-මෙසේ දිවි බේරාගෙන ඇත්තේ රත්නපුර, ලෙල්ලුපිටිය ප්‍රදේශයේ පදිංචි චාල්ස් ඇන්තනී (20), සෙල්වරාජා සන්තෝෂ් (16) , ෆැන්සීස් විනෝද් (16) යන තරුණයන් තිදෙනා සහ සන්තුරුක්සන් රුක්සිකා (16), මොහන්දාස් දිණූෂා (15) සහ පරදන් දිනූසිකා (16) නමැති තරුණියන් බව සදහන් වේ.
+The three youths, Selvas Anthony (20), Selvas Anthodha (16), is the three youths, Mohadas, Twodusika (16) and Mohadasy Tokika (15) and Mohadasy Rukusasika (15) and Muzunason Tokika (15) and Muzasanasis (16), Mohadas, Tokika (15) and Muzunason Estabi (15) and Paradanascasy (15).Mentioned.
 
-හය දෙනා පානදුර වෙරළට පැමිණ විනෝදවී පසුව දියනාමින් සිට ඇති බවත් ,  වෙරළට මීටර් 50 ක ආසන්නයේ  සිටි ඔවුන්  රළ පහරකට හසුව කෙමෙන් කෙමෙන් දියඹ දෙසට ඇදීගොස් ඇති බවත් සදහන් වේ.
+The six are about 50 meters to the beach, they have been waiting for 50 meters to the beach, they have been hanging towards the daughter.
 
-පසුව ඔවුන් උදව් ඉල්ලා කෑ ගසා ඇති අතර , ඒ අනුව සැරයන් සුසන්ත සහ කොස්තාපල්  දේශාන් පළමුව ජීවිත ආරක්ෂක ටියුබ් රැගෙන  දියට පැන තිබේ. පසුව ඒ ආසන්නයේ නාවික හමුදා ජීවිත ආරක්ෂක නිළධාරීයාද දියට පැන බේරාගැනීමට සහයවී තිබේ.
+Later, they were asked for help, accordingly, the Sergeant Susantha and Constable Lene first escaped the life security tube. Later, the Navy's Life-Defense Officer was also assisted to escape.
 
-මුලික ප්‍රථමාධාර ලබාදීමෙන් පසු පිටත්කර යැවූ බව ජීවිත ආරක්ෂක නිළධාරීන් පැවසීය.
+Life security personnel said they were dispatched after their first aid was given.
 
 ◼️
 
 [Data](articles/ee758a49.json)
+
+[Extended Data](ext_articles/ee758a49.ext.json)
 
 ---
 
@@ -568,23 +590,25 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### කළුගල් අපනයනයට අවසර දීම: 'අර්බුද රැසකට හේතුවක්'; 'කිසිසේත් ඉඩ නොදිය යුතුයි'
+### Approval of the export of grants: "Crisis";'Should not be allowed at all'
 
 *2024-02-05 03:48:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c03q7p8v3p7o) · `si`
 
-කළුගල් අපනයනයට අවසර දීම: 'අර්බුද රැසකට හේතුවක්'; 'කිසිසේත් ඉඩ නොදිය යුතුයි'
+Approval of the export of grants: "Crisis";'Should not be allowed at all'
 
-මීට වසර ගණනාවකට පෙර මහාචාර්ය සුනිල් ආරියරත්න රචනා කර, විශාරද නන්දා මාලිනී ගායනා කළ "රට කරවන්න නම්" නමැති ගීතයේ "කළුගල්වලට විකුණා‌ගෙන සීගිරිය" යනුවෙන් පද්‍ය ඛණ්ඩයක් තිබේ.
+Many years ago, there is a pole, selling the "country", composed by Prof. Sunil Ariyaratne many years ago.
 
-සීමාවන්ට යටත්ව කළුගල් අපනයනය කිරීම සඳහා ජනවාරි 29 වන දා පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී කැබිනට් අනුමැතිය හිමි වී තිබිණි.
+Cabinet was approved at the Cabinet meeting held on January 29 to export the shallows subject to the limits.
 
-එම අනුමැතිය දීම සාධාරණීකරණය කරමින් රජය ප්‍රකාශ කළේ, "රට තුළ මේ වන විට ඉදිකිරීම් හා සංවර්ධන කටයුතු සඳහා කළුගල් අවශ්‍යතාව සාපේක්ෂ වශයෙන් පහළ මට්ටමක පැවතීම නිසා කළුගල් කැණීම් කර්මාන්තයේ නිරත කැණීම්කරුවන් හා ඒ හා සම්බන්ධිත ප්‍රජාවන්ගේ ජීවනෝපාය මාර්ගයන්ට දැඩි බලපෑමක් එල්ල වී තිබීම හේතුවෙන් මෙලෙස කළුගල් අපනයනයට තීරණය කළ," බව ය.
+Government declared the granting of the approval, "the relatively low level of the country in the country, the livelihood exacerbacious in the country and the livelihoods of the shallowest excavators in the country and the livelihoods of the shallowest excavators and related communities have decided to export the plumsDone, "That is.
 
-මේ තත්ත්වය සැලකිල්ලට ගනිමින් සීමාකාරී තත්ත්වයන්ට යටත්ව කළුගල් අපනයනය කිරීම මගින් විදේශ විනිමය ඉපයීමේ වැඩපිළිවෙළක් කෙටිකාලීනව ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබෙන බව රජය නිවේදනය කළේ ය.
+Considering this, the government announced that the exporting of malfunctioning subject to the limits was to be implemented.
 
 ...
 
 [Data](articles/6ab572f7.json)
+
+[Extended Data](ext_articles/6ab572f7.ext.json)
 
 ---
 
@@ -637,6 +661,20 @@ National People's Power Leader Anura Kumara Dissanayake, Secretary Nihal Abeysin
 [Data](articles/a54ce085.json)
 
 [Extended Data](ext_articles/a54ce085.ext.json)
+
+---
+
+### இன்று இந்தியா செல்கிறார் அநுரகுமார
+
+*2024-02-05 01:45:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/இன்று-இந்தியா-செல்கிறார்-அநுரகுமார/150-332673) · `ta`
+
+இந்திய அரசாங்கத்தின் உத்தியோகப்பூர்வ அழைப்பினை ஏற்று தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க உள்ளிட்ட கட்சியின் பிரதிநிதிகள் இன்று இந்தியாவிற்குச் செல்கின்றனர்.
+
+தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க, செயலாளர் வைத்திய நிபுணர் நிஹால் அபேசிங்க, பாராளுமன்ற உறுப்பினர் விஜித ஹேரத், தேசிய நிறைவேற்று பேரவை உறுப்பினர் பேராசிரியர் அனில் ஜயந்த ஆகியோரே ந்தியாவிற்குச் செல்கின்றனர். (a)
+
+◼️
+
+[Data](articles/c812517f.json)
 
 ---
 
@@ -1907,41 +1945,5 @@ However, the Tamil issue has not resolved and the blame for India has abandoned 
 [Data](articles/96704ed4.json)
 
 [Extended Data](ext_articles/96704ed4.ext.json)
-
----
-
-### Cardinal Malcolm Ranjith calls for new class of leadership in Sri Lanka
-
-*2024-02-04 17:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cardinal-Malcolm-Ranjith-calls-for-new-class-of-leadership-in-Sri-Lanka/108-276308) · `en`
-
-Colombo, Feb 04 (Daily Mirror) - Archbishop of Colombo Cardinal Malcolm Ranjith today urged Sri Lankan people to be courageous enough to handover the nation to a new class of leadership.
-
-Speaking during a service held in Colombo to mark the 76th year of independence, Cardinal Ranjith said the current leadership class should be removed from power.
-
-"Those who ruled our nation during the latter years have only thought of their future instead of the people's wellbeing. Therefore it is essential to remove this class of leadership and replace them with a new class of leadership," he said.
-
-The Cardinal who compared the Singaporean leaders with the Sri Lankan counterparts said Sri Lankan leaders used certain sections of the population to capture power and safeguard power. Singaporean leaders brought, Chinese, Indian origin and Malay people together," he recalled.
-
-◼️
-
-[Data](articles/2242efa5.json)
-
-[Extended Data](ext_articles/2242efa5.ext.json)
-
----
-
-### 'Yuktha' that has caused opposition
-
-*2024-02-04 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175551) · `ta`
-
-Minister of International Human Rights Organizations, including the UN Human Rights Commission, demanded that the move be halted, Minister Tran Ales did not care about it.. The Minister, who asked why I should be a minister in this government, said that if there is no underworld, some lawyers in the country will not appear in court, and they are opposed to these actions due to their unable reasons.
-
-The Minister and the Inspector General of Police must recognize that if the country is to control the crimes, it cannot be implemented without the support of the people.. Because people are more aware of the thieves than the police.
-
-◼️
-
-[Data](articles/a60b8162.json)
-
-[Extended Data](ext_articles/a60b8162.ext.json)
 
 ---

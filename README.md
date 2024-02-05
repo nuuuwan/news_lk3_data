@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 02:17:23**
+As of **2024-02-06 02:32:49**
 
 ## Newspaper Stats
 
-*Scraped **5,014** Articles*
+*Scraped **5,015** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 303
 adalk | 433
 virakesarilk | 580
 adaderanalk | 621
-tamilmirrorlk | 634
+tamilmirrorlk | 635
 adaderanasinhalalk | 649
 dailymirrorlk | 714
 
@@ -26,11 +26,23 @@ dailymirrorlk | 714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,014 (100.0%) of 5,014 articles have been extended.
+5,014 (100.0%) of 5,015 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### கஞ்சா பயிரிடுவதற்கு அமைச்சரவை அனுமதி
+
+*2024-02-06 02:02:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சா-பயிரிடுவதற்கு-அமைச்சரவை-அனுமதி/175-332737) · `ta`
+
+இந்த நிலையில், அமைச்சரவையின் அனுமதி கிடைத்தமையால்  மகிழ்ச்சியடைகின்றேன் என்று டயனா கமகே தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/0a9e1551.json)
+
+---
 
 ### At least 10 killed in attack on police station in Pakistan
 
@@ -2007,19 +2019,5 @@ A delegation of the JVP party comprising of JVP leader Anura Kumara Dissanayake,
 [Data](articles/c7eadc48.json)
 
 [Extended Data](ext_articles/c7eadc48.ext.json)
-
----
-
-### Demand over several health issues
-
-*2024-02-05 13:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Demand-over-several-health-issues/110-276344) · `en`
-
-Several members of the Health Trade Union Alliance (HTUA) staged a protest in front of the Lady Ridgeway Hospital for Children (LRH) today, demanding the government to grant them the allowance that is reserved for other government staffers and provide immediate solutions to their salary anomalies. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/d6f904a0.json)
-
-[Extended Data](ext_articles/d6f904a0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 07:55:03**
+As of **2024-02-05 08:05:34**
 
 ## Newspaper Stats
 
-*Scraped **4,810** Articles*
+*Scraped **4,811** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 288
 adalk | 414
 virakesarilk | 546
-adaderanalk | 600
+adaderanalk | 601
 tamilmirrorlk | 607
 adaderanasinhalalk | 613
 dailymirrorlk | 676
@@ -26,11 +26,29 @@ dailymirrorlk | 676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,810 (100.0%) of 4,810 articles have been extended.
+4,810 (100.0%) of 4,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### Showers expected in parts of the country
+
+*2024-02-05 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97007/showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department says several spells of showers will occur in Eastern and Uva provinces and in Polonnaruwa and Matale districts while a few showers may occur in Anuradhapura and Hambantota districts.
+
+Showers or thundershowers will occur at several places in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts after 2.00 p.m.
+
+Misty conditions can be expected at some places in Central and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
+
+The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/6d4d364e.json)
+
+---
 
 ### Anura Kumara goes to Delhi
 
@@ -1895,19 +1913,5 @@ On the occasion of the 76th Independence Day, an open visit to the inmates will 
 [Data](articles/08a94ac8.json)
 
 [Extended Data](ext_articles/08a94ac8.ext.json)
-
----
-
-### Prisoners released
-
-*2024-02-04 13:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Prisoners-released/110-276301) · `en`
-
-A total of 754 prisoners, including 25 female inmates, were released from prisons island-wide today under a presidential amnesty to commemorate the 76th Independence Day. The release was executed in accordance with the powers vested in the President under Article 34 of the Constitution.
-
-◼️
-
-[Data](articles/ac58325c.json)
-
-[Extended Data](ext_articles/ac58325c.ext.json)
 
 ---

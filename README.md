@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 04:17:14**
+As of **2024-02-06 04:32:53**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,029 (100.0%) of 5,031 articles have been extended.
+5,031 (100.0%) of 5,031 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -276,6 +276,8 @@ The March 12 Movement said it noted with grave concern that in addition to intro
 
 [Data](articles/f5fc737a.json)
 
+[Extended Data](ext_articles/f5fc737a.ext.json)
+
 ---
 
 ### Solution for Somali Piracy has to be found on Land, not at Sea
@@ -345,6 +347,8 @@ The CBSL fully recognises the importance of transparency and effective communica
 ...
 
 [Data](articles/41606ad8.json)
+
+[Extended Data](ext_articles/41606ad8.ext.json)
 
 ---
 

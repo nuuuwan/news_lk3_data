@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 16:03:46**
+As of **2024-02-05 16:17:26**
 
 ## Newspaper Stats
 
-*Scraped **4,921** Articles*
+*Scraped **4,925** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 59
-bbccomsinhala | 72
+colombotelegraphcom | 60
+bbccomsinhala | 73
 dbsjeyarajcom | 138
 economynextcom | 260
 islandlk | 263
 dailyftlk | 280
 newsfirstlk | 299
 adalk | 425
-virakesarilk | 563
+virakesarilk | 565
 adaderanalk | 611
 tamilmirrorlk | 627
 adaderanasinhalalk | 636
@@ -26,11 +26,45 @@ dailymirrorlk | 688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,911 (99.8%) of 4,921 articles have been extended.
+4,911 (99.7%) of 4,925 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### தொடர் காய்ச்சலினால் முல்லைத்தீவு பெண் யாழில் உயிரிழப்பு
+
+*2024-02-05 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/175623) · `ta`
+
+முல்லைத்தீவு , முள்ளியவளை பகுதியை சேர்ந்த அன்ரன் அனிஸ்ரலஸ் (வயது 53) என்பவரே உயிரிழந்துள்ளார்.
+
+கடந்த 29ஆம் திகதி காய்ச்சல் ஏற்பட்டதை அடுத்து முல்லைத்தீவு வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் , மேலதிக சிகிச்சைக்காக யாழ்.போதனா வைத்தியசாலைக்கு மாற்றப்பட்டார்.
+
+அங்கு சிகிச்சை பெற்று வந்த நிலையில் சிகிச்சை பெற்று வந்த நிலையில் சிகிச்சை பலனின்றி நேற்று ஞாயிற்றுக்கிழமை உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/d1f62840.json)
+
+---
+
+### 23 இந்திய மீனவர்களுக்கு விளக்கமறியல்
+
+*2024-02-05 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175622) · `ta`
+
+யாழ்.நெடுந்தீவு கடற்பரப்பில் எல்லை தாண்டி மீன் பிடித்த குற்றச்சாட்டில் கடந்த 03 ஆம் திகதி 23 மீனவர்களும் கடற்படையினரால் கைது செய்யப்பட்டனர்.
+
+பின்னர் 23 மீனவர்களும் ஊர்காவற்றுறை நீதவான் நீதிமன்ற நீதிவான் ஜெ.கஜநிதிபாலன் முன்னிலையில் ஆஜர்படுத்தப்பட்டனர்.
+
+அவர்களை எதிர்வரும் 16 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவிட்டதாக யாழ். மாவட்ட நீரியல்வள திணைக்களம் தெரிவித்துள்ளது.
+
+இந்த ஆண்டின் இதுவரையான காலப்பகுதியில் எல்லை தாண்டி மீன் பிடித்த குற்றச்சாட்டில் 46 இந்திய மீனவர்கள் கைது செய்யப்பட்டுள்ளதுடன் 8 படகுகள் கைப்பற்றப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/58521e04.json)
+
+---
 
 ### “ஆணுறுப்பை குறிவைத்து பொலிஸார் கடுமையாக தாக்கினர்”
 
@@ -1482,6 +1516,38 @@ The Apprentice Constable of the incident has been instructed by the Acting Inspe
 
 ---
 
+### The Duminda Silva Pardon
+
+*2024-02-05 09:57:36* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-duminda-silva-pardon/) · `en`
+
+The Attorney-General had indicted 13 persons on 17 counts including murder following the death of one Bharatha Lakshman Premachandra in 2012.  In September 2016, in the High Court of Colombo, at the conclusion of a Trial-at-Bar before three Judges, in a majority judgment, five accused were convicted of several offences including murder, and were sentenced to death on the charge of murder, and to life imprisonment and varying periods of imprisonment and fines on the other charges. Eight were acquitted.
+
+...
+
+[Data](articles/6b0c307d.json)
+
+---
+
+### 'පතල් වැඩ නැති දාට කැලේ යනවා දර කපන්න. මට ඕනා ළමයව හොඳ තැනකට ගෙනියන්න.'
+
+*2024-02-05 09:42:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz9ewqz1rr2o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.Play video, "'පතල් වැඩ නැති දාට කැලේ යනවා දර කපන්න. මට ඕනා ළමයව හොඳ තැනකට ගෙනියන්න.'", ධාවන කාලය 3,0003:00වීඩියෝ ශීර්ෂ වැකිය, ''කොහොම හරි ළමයට උගන්වලා හොඳ තැනකට ගෙනාවොත් ඇති කියලා තමයි මම කල්පනා කරමින් ඉන්නේ.''
+
+'පතල් වැඩ නැති දාට කැලේ යනවා දර කපන්න. මට ඕනා ළමයව හොඳ තැනකට ගෙනියන්න.'
+
+මාතලේ, ලග්ගල පිහිටි මාඔය ගම්මානයේ ජීවත් වෙන 28 හැවිරිදි ඉරේෂා සදමාලි  දරුවන් සමග ජීවන අරගලයට මුහුණ දෙන දිරිය කාන්තාවකී.
+
+සැමියාගේ රැකවරණය මෙන්ම හිසට සෙවනක් අහිමි වුව ද ඇය අවුරුදු හයක් වයස සිය දියණිය පෝෂණය කිරීම සඳහා පිරිමින් සමග පතල් රැකියාවේ නිරත වන්නීය. එමෙන්ම පතල් වැඩ නොලැබුණු දිනවල දී දියණිය සමග කැලයට ගොස් දර රැගෙනවිත් අලෙවි කරන්නීය.
+
+''ලයිට් නැති, අලි ඉන්න පැත්තක තාවකාලික තැනක අපි පදිංචි වෙලා ඉන්නේ. මේ ඉඩමේ අයිතිකාරයොත් අපිට යන්න කියනවා. රෑට විතරයි අපි උයන්නේ. කොහොම හරි ළමයට උගන්වලා හොඳ තැනකට ගෙනාවොත් ඇති කියලා තමයි මම කල්පනා කරමින් ඉන්නේ.'' යනුවෙන්  ඉරේෂා සදමාලි BBC සිංහල සේවයට පැවසුවාය.
+
+◼️
+
+[Data](articles/c75c4585.json)
+
+---
+
 ### Bridge in Embilipitiya: Traffic Prohibition
 
 *2024-02-05 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175578) · `ta`
@@ -1967,91 +2033,5 @@ The Indian Airlines belongs to the Indian Airlines at 04.05 days at 4.41 am.
 [Data](articles/5df9069d.json)
 
 [Extended Data](ext_articles/5df9069d.ext.json)
-
----
-
-### Muslim religious ceremony for Independence Day
-
-*2024-02-05 07:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Muslim-religious-ceremony-for-Independence-Day/110-276326) · `en`
-
-A Muslim religious ceremony to mark the 76th Independence Day was held yesterday at the Al Jami Ul Alfar Masjid (Red Mosque) in Colombo under the patronage of the Minister of Foreign Affairs Ali Sabri. Pix by Jayamal Chandrasiri
-
-◼️
-
-[Data](articles/b9aa680d.json)
-
-[Extended Data](ext_articles/b9aa680d.ext.json)
-
----
-
-### It will rain at 2 pm and then heavy rains
-
-*2024-02-05 07:32:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிற்பகல்-2-மணிக்கு-பின்னர்-பலத்த-மழை-பெய்யும்/175-332678) · `ta`
-
-The Department of Meteorology has said that rainfall will occur in the Eastern and Uva provinces as well as in the Polonnaruwa and Matale districts.
-
-Rainfall or thunderstorms are expected after two o'clock in the afternoon in many parts of Sabaragamuwa, Upper and North Western Provinces as well as many parts of Kandy, Nuwarali, Galle and Matara districts.
-
-In the morning, there is a snowfall in some parts of the Central and Sabaragamuwa provinces, as well as some of the Galle and Matara districts.
-
-Rainfall or thunderstorms are likely to occur in many parts of the sea regions along the coast of Trincomalee to Pottuvil.
-
-Rainfall or thunderstorms are expected in many parts of the sea regions from Matara to Galle and Chilaw.
-
-Winds from the northeast at 20 - 30 km / h in the sea regions.
-
-From Colombo to Puttalam, Mannar via Kankesanthurai as well as Galle to Pottuvil via Hambantota, the winds may increase at 45 kilometers per hour.. In such cases, these sea regions are somewhat turbulent.
-
-...
-
-[Data](articles/0765bb30.json)
-
-[Extended Data](ext_articles/0765bb30.ext.json)
-
----
-
-### Several roads closed from today
-
-*2024-02-05 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192984) · `si`
-
-According to police, Kollupitiya and Slave Island areas will be closed down in Kollupitiya and Slave Island areas today (05).
-
-Accordingly, the part of the Unamem Mawatha, Navam Mawatha will be closed from today to the 19th.
-
-The section of Udathana Mawatha, Perahera Mawatha to Nawam Mawatha to Nawam Road, is closed from March 5 to 11th March.
-
-◼️
-
-[Data](articles/8653c5f0.json)
-
-[Extended Data](ext_articles/8653c5f0.ext.json)
-
----
-
-### Anura Kumara goes to Delhi
-
-*2024-02-05 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192983) · `si`
-
-Four of the national folk leader Anura Kumara Dissanayake and four others were on a visit to India.
-
-The Ada Derana reporter said that MP Vijitha Herath and two others left for New Delhi this morning.
-
-The National Folk Force has created the national folk force on the JVP and the party had previously adopted an anti-Indian policy.
-
-The JVP was well-known for the Indo-Lanka Peace Treatment and served against Indian expansion.
-
-The JVP has also opposed the introduction of the provincial council system to introduce the provincial council system to the Sri Lanka.
-
-It is reported that the Indian expansion has been taught in the five classes to recruit members to their party.
-
-However, JVP leader Anura Kumara Dissanayake had previously stated that the national folk force was prepared to deal with India with a good vision.
-
-Anura Kumara Dissanayake has decided to contest as a candidate for the upcoming presidential election.
-
-◼️
-
-[Data](articles/bdcc40bb.json)
-
-[Extended Data](ext_articles/bdcc40bb.ext.json)
 
 ---

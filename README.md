@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 11:33:16**
+As of **2024-02-05 11:51:56**
 
 ## Newspaper Stats
 
-*Scraped **4,856** Articles*
+*Scraped **4,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 263
 dailyftlk | 280
 newsfirstlk | 292
 adalk | 419
-virakesarilk | 552
+virakesarilk | 555
 adaderanalk | 603
-tamilmirrorlk | 618
+tamilmirrorlk | 619
 adaderanasinhalalk | 623
 dailymirrorlk | 681
 
@@ -26,11 +26,103 @@ dailymirrorlk | 681
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,856 (100.0%) of 4,856 articles have been extended.
+4,860 (100.0%) of 4,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### For a former member of the Municipal Council, the former member of the Municipal Council requested the President
+
+*2024-02-05 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175592) · `ta`
+
+Former United National Party Colombo Municipal Council Member Elbert Sampath has said that the President should take steps to suspend the increase in 10 thousand rupees for good deeds in the border of Colombo Municipal Council.
+
+This was stated in a letter sent to President Ranil Wickremesinghe in this regard.
+
+The decision of the Commissioner of Colombo Municipal Council to increase the massive fee for goodwill. Therefore, steps should be taken to prevent the tariff increase.
+
+The Colombo Municipal Council has been charged only 1,500 rupees. However, it has increased to 10 thousand rupees and the fee of 5 thousand rupees has been increased to 20 thousand rupees.
+
+With the massive economic crisis of the people, this massive increase is a move to make people more difficult.
+
+Therefore, I urge the people of the city to take steps to take advantage of this request, stop the tariff increase and take good action for the existing fee.
+
+...
+
+[Data](articles/2c2639d6.json)
+
+[Extended Data](ext_articles/2c2639d6.ext.json)
+
+---
+
+### Student death by wood
+
+*2024-02-05 11:14:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கிளையால்-மாணவன்-மரணம்/76-332689) · `ta`
+
+An incident where a student died in a tragic death of a tree when she was walking to the hairstyle shop was held at 12 noon on Saturday (03).
+
+Vachikwam Murugan Ashal (age 14), a student of Newton Estate, who is studying in the Ninewood Tamil Vidyalaya, has died.
+
+Following the incident, he was admitted to the Tikoya-Klangan Resource Hospital and was taken to the Kandy Teaching Hospital for further treatment.
+
+He died on the way to carry. The body of Ammanavan was placed in the funeral room of the Nawalapitiya Resource Hospital.
+
+The police said that his physical examination was to be carried out in the presence of the boy's father Murugan, the legal officer of the Nawalapitiya Resource Hospital.
+
+◼️
+
+[Data](articles/38d04913.json)
+
+[Extended Data](ext_articles/38d04913.ext.json)
+
+---
+
+### China announces execution for Australian writer
+
+*2024-02-05 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175590) · `ta`
+
+China has imposed an adjournment of Australian writer Yang Hengjun, who was arrested on a spying charge in China.
+
+Australian officials said the execution could be converted into life imprisonment two years later.
+
+Yang has rejected the allegations that China has reported on affairs.
+
+Australian Foreign Minister Benivong said in a statement that all Australians want to join Yang with his family.
+
+His writings, formerly known as Yang, who had worked at the Ministry of State Security in China, were called a democratic kidnapper, avoiding direct criticism of the government.
+
+He was subsequently investigated behind the closed doors - a secret hearing in 2021.
+
+◼️
+
+[Data](articles/1e684089.json)
+
+[Extended Data](ext_articles/1e684089.ext.json)
+
+---
+
+### Female Constable Sexual Abuse: Transfer of Police in charge of political pressure
+
+*2024-02-05 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175589) · `ta`
+
+A special investigation has been launched in charge of the Kalpitiya Police Station, allegedly sexually abusing a woman police constable.
+
+Investigations are being carried out by the Children's and Women's Bureau of the Kottupa Police Division on the orders of the Senior Deputy Inspector General of Police in charge of the Northwest Province.
+
+Police investigations have revealed that he has lodged several complaints of sexual abuse.
+
+It is also reported that the officer has been arranged to relocate to the North Central Province with immediate implementation.
+
+Meanwhile, it is reported that the Child and Women Bureau of the Katupotha Police Division went to the Kalpitiya Police Station on the 29th to obtain a statement to the police officer in connection with the incident.
+
+◼️
+
+[Data](articles/ef25579a.json)
+
+[Extended Data](ext_articles/ef25579a.ext.json)
+
+---
 
 ### Sri Lanka’s youth divers seek glory at BIMSTEC Water Sport Games in India
 
@@ -1877,85 +1969,5 @@ The arrested drug dealer has taken steps to produce them in court after investig
 [Data](articles/2c673354.json)
 
 [Extended Data](ext_articles/2c673354.ext.json)
-
----
-
-### Leader of ‘Ava’ criminal gang arrested
-
-*2024-02-04 18:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97000/leader-of-ava-criminal-gang-arrested-) · `en`
-
-The suspected leader of the notorious criminal gang known as ‘Ava’ group, which has committed various crimes including extortion in Jaffna, has been arrested by police.
-
-The arrest was made by officers of the Walana Anti- Vice Unit at a residence in the Mt. Lavinia area, believed to be owned by a 72-year-old female.
-
-Investigations revealed that the suspect had paid a monthly rent of Rs. 25,000 since October 2023.
-
-According to police, the suspect was preparing to flee to Dubai at the time of his arrest.
-
-‘Prabha’ was also reportedly in possession of 01g 330mg of crystal methamphetamine (‘Ice’), along with a leaflet and a Rs. 100 note with the ‘Ava’ group logo at the time of his arrest.
-
-The arrestee was reportedly involved in several crimes including murder, property damage and obstructing the duties of police personnel, in the Thellipalai, Chunnakam, Manipay, Jaffna and Kilinochchi areas.
-
-...
-
-[Data](articles/44fbe30a.json)
-
-[Extended Data](ext_articles/44fbe30a.ext.json)
-
----
-
-### India Extends Official Invitation to JVP for the First Time; JVP Leader Anura Kumara Dissanayake to head Party Delegation on 5 Day Visit to New Delhi, Ahmedabad and Thiruvananthapuram
-
-*2024-02-04 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83555) · `en`
-
-The Indian government has invited a delegation led by Anura Kumara Dissanayake, leader of Sri Lanka’s leftist Janatha Vimukthi Peramuna (JVP or People’s Liberation Front), to New Delhi, in a significant outreach to the island nation’s most popular politician at the moment.
-
-“We leave tomorrow [Monday] morning and will be there for five days for meetings,” JVP legislator Vijitha Herath, who is part of the delegation, told The Hindu on Sunday night. This is the first time that the JVP leader, who helms the National People’s Power [NPP] alliance, has received an official invitation from the Government of India.
-
-Sources at the Indian High Commission said the delegation is scheduled to visit three cities —New Delhi, Ahmedabad, and Thiruvananthapuram — and hold meetings with government officials, members of the business community, in addition to visiting centres of excellence in agriculture and industry.
-
-...
-
-[Data](articles/64f940bc.json)
-
-[Extended Data](ext_articles/64f940bc.ext.json)
-
----
-
-### Makalla Boss arrested
-
-*2024-02-04 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192972) · `si`
-
-Arrested for many crimes in Jaffna
-
-The suspect has been arrested following a raid conducted by the OIC Chief Inspector Indika Weerasinghe by the Director of the Walana Wickremasinghe.
-
-The suspect was arrested while staying in a two storied house in Yashorapura, Mount Lavinia.
-
-The police further states that he may have been in the case of the Mount Lavinia, in view of a foreign country.
-
-He was strictly with ice drugs and found 1 mm of ice drugs and 300 milligrams of ice.
-
-◼️
-
-[Data](articles/34fdbf58.json)
-
-[Extended Data](ext_articles/34fdbf58.ext.json)
-
----
-
-### Champika hospitalized
-
-*2024-02-04 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192971) · `si`
-
-Sri Lanka Cricket has issued a statement regarding the condition of Chamakan Gunasekera, who was leaving the competition during the Test match between Sri Lanka-Afghanistan Test match.
-
-It states that he is currently under the medical supervision.
-
-◼️
-
-[Data](articles/cfef6ce2.json)
-
-[Extended Data](ext_articles/cfef6ce2.ext.json)
 
 ---

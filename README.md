@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 00:33:00**
+As of **2024-02-06 00:48:12**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ dailymirrorlk | 711
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,004 (100.0%) of 5,005 articles have been extended.
+5,005 (100.0%) of 5,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
 
-### චාල්ස් රජුට පිළිකාවක්
+### Cancer to King Charles
 
 *2024-02-05 23:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193021) · `si`
 
-3 වන චාල්ස් රජුට පිළිකාවක් වැළඳී ඇති බව බකිංහැම් මාලිගය නිවේදනයක් නිකුත් කරමින් සඳහන් කර තිබේ.
+The 3rd Charles was said to have announced that the 3rd Charles had caught cancer.
 
-මේ වනවිට රජුට අවශ්‍ය ප්‍රතිකාර ආරම්භ කර ඇති බවත් ඔහු සහභාගි වීමට නියමිතව තිබූ සියලු වැඩ කටයුතු කල්දමා ඇති බවත් එම නිවේදනයේ වැඩිදුරටත් සඳහන් වෙයි.
+The statement further states that the king has initiated the necessary treatment and all the work he has been postponed to be deferred.
 
 ◼️
 
 [Data](articles/750bad63.json)
+
+[Extended Data](ext_articles/750bad63.ext.json)
 
 ---
 

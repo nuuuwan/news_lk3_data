@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 11:17:09**
+As of **2024-02-05 11:33:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 681
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,846 (99.8%) of 4,856 articles have been extended.
+4,856 (100.0%) of 4,856 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,57 +48,67 @@ The girls’ team includes four talented female divers: Kithmi Marambe (Captain)
 
 [Data](articles/cd039368.json)
 
+[Extended Data](ext_articles/cd039368.ext.json)
+
 ---
 
-### පුත්තලමේ බිහිසුණු ත්‍රිවිල් අනතුරක්
+### Puttalam's terrible Triplar accident in Puttalam
 
 *2024-02-05 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192993) · `si`
 
-කල්පිටිය පොලිස් වසමේ කල්පිටිය පාලවිය මාර්ගයේ කුරිඤ්ඤම්පිටියේ කතොලික දේවස්ථානය ඉදිරිපිට මාරක රිය අනතුරක් සිදුව තිබේ.
+The cities of Kurumagediya road in Kalpitiya Police had a fatal accident in front of the Catholic Church.
 
-ත්‍රීරෝද රථයක් කල්පිටියේ සිට පාලවිය දෙසට ධාවනය කර අතුරු මාර්ගයකට හැරවීමේ දී එම මාර්ගයේ ඉදිරියෙන් පැමිණි තවත් ත්‍රීරෝද රථයක අනතුර සිදුව තිබේ.
+Another three-wheeler had taken place in a three-wheeler in the road to run the three-wheeler to Kalpitiya to control.
 
-අනතුර සිදුවන අවස්ථාවේ රියදුරන් ඇතුළුව ත්‍රීරෝද රථ දෙකෙහි පුද්ගලයින් 8 දෙනෙකු ගමන් කර ඇත.
+Eight of the three-wheelers, including drivers were traveling in the accident.
 
-අනතුරින් එක් අයෙක් ජීවිතක්ෂයට පත්වු අතර තුවාලකරුවන් කල්පිටිය රෝහලට ඇතුළත් කර වැඩිදුර ප්‍රතිකාර සඳහා පුත්තලම රෝහල වෙත මාරුකර යවා ඇත.
+One died in accident and the injured were transferred to the Kalpitiya hospital and transferred to the Puttalam Hospital for further treatment.
 
 ◼️
 
 [Data](articles/fa1d20a1.json)
 
+[Extended Data](ext_articles/fa1d20a1.ext.json)
+
 ---
 
-### விபத்தில், தாய் மரணம்;  தந்தை, மகள் படுகாயம்
+### In the accident, the mother's death;Father and daughter injured
 
 *2024-02-05 10:46:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-தாய்-மரணம்-தந்தை-மகள்-படுகாயம்/175-332687) · `ta`
 
-ஒரே குடும்பத்தைச் சேர்ந்த தாய், தந்தை மற்றும் மூன்று வயது மகள் ஆகியோர் பயணித்த முச்சக்கரவண்டி, பஸ்ஸுடன் மோதி விபத்துக்குள்ளானதாக ஹொரண பொலிஸார் தெரிவித்தனர்.
+A three -wheeler, a three -year -old daughter from the same family, crashed with a bus, Horana police said.
 
-பண்டாரகம, ரைகம பகுதியைச் சேர்ந்த ஒரு பிள்ளையின் தாயான ஆர்.ஏ.தனுஜா பிரியதர்ஷனி (வயது 40) என்பவரே விபத்தில் உயிரிழந்துள்ளார்.
+RA Danuja Priyadarshani (age 40), the mother of a child from Bandaragama, Raigama, died in the accident.
 
-ஹொரண நகருக்கு வந்து வீடு திரும்பிக் கொண்டிருந்த போதே இவ்விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Police say the incident took place while returning home from Horana.
 
 ◼️
 
 [Data](articles/7f774600.json)
 
+[Extended Data](ext_articles/7f774600.ext.json)
+
 ---
 
-### யாழில் இரவலாக தாலிக்கொடியை பெற்று மோசடி ; யுவதி கைது
+### Fraud in Jaffna nightYouth arrested
 
 *2024-02-05 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175585) · `ta`
 
-யாழ்ப்பாணத்தில் வாய் பேச முடியாத பெண்ணிடம் 21 பவுண் தாலிக்கொடியை இரவலாக வாங்கி மோசடி செய்த குற்றச்சாட்டில் யுவதி ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A woman has been arrested for allegedly defrauding a 21 -pound talisman for a woman who cannot speak in Jaffna.
 
-யாழ்ப்பாணம் - சுன்னாகம் பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் வசிக்கும் வாய் பேச முடியாத பெண்ணொருவரிடம், அயலவரான யுவதி ஒருவர் கொண்டாட்டங்களுக்கு செல்லும் போது, தாலிக்கொடியை இரவலாக பெற்று அணிந்து சென்ற பின்னர் அதனை மீள அப்பெண்ணிடம் கையளிப்பதனை வழமையாக கொண்டு இருந்துள்ளார்.
+When a neighbor, a neighbor, is on a celebrations to a woman who is living in the Jaffna -Chunnakam police division area, she has been handed over to the woman after wearing a talisman.
 
-இந்நிலையில் அண்மையில் வழமை போன்று, தாலிக்கொடியை இரவலாக வாங்கி சென்ற யுவதி, தாலிக்கொடியை திருப்பி கொடுத்த போது, கொடியின் அமைப்பில் வித்தியாசத்தை உணர்ந்த தாலிக்கொடியை இரவல் கொடுத்த பெண், அதனை நகைக்கடை ஒன்றில் சோதித்த போது, அது போலியானது (கவரிங்) என தெரியவந்துள்ளது.
+In this case, as usual, the woman who bought the talisman at night and returned the talisman, the woman who felt the difference in the flag structure, and when she checked it in a jewelery shop, it was fake.
 
-அதனையடுத்து குறித்த பெண் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்ததை அடுத்து, அயலவரான யுவதியை பொலிஸார் கைது செய்து விசாரணைகளை முன்னெடுத்த போது, சுன்னாகம் பகுதியில் உள்ள நகைக்கடை ஒன்றில் இரவலாக பெற்ற தாலிக்கொடியை விற்று விட்டு, அதே போன்று போலி தாலிக்கொடியை (கவரிங்) செய்து, அதனை அப்பெண்ணிடம் கொடுத்தமை தெரிய வந்துள்ளது.
+Following a complaint at the police station, the police arrested the neighbors and carried out investigations, and it was revealed that she had sold a nightclub in a jewelery shop in the Chunnakam area, as well as the fake talisman.
 
-...
+Further investigations are being carried out by the police in the police detention.
+
+◼️
 
 [Data](articles/05c6308c.json)
+
+[Extended Data](ext_articles/05c6308c.ext.json)
 
 ---
 
@@ -120,6 +130,8 @@ The proposal to enhance the fine was put forward by Dr. Wijayadasa Rajapaksha, t
 
 [Data](articles/b234fab6.json)
 
+[Extended Data](ext_articles/b234fab6.ext.json)
+
 ---
 
 ### Another 667 suspects arrested during Operation ‘Yukthiya’
@@ -140,63 +152,77 @@ Cardinal calls for a transition to new leadership in Sri Lanka
 
 [Data](articles/4eac9363.json)
 
+[Extended Data](ext_articles/4eac9363.ext.json)
+
 ---
 
-### இலங்கை புதிய தலைமைத்துவத்திற்கு மாறவேண்டும் - கர்தினால் மல்கம் ரஞ்சித்
+### Sri Lanka should switch to new leadership - Cardinal Malcolm Ranjith
 
 *2024-02-05 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175583) · `ta`
 
-சுதந்திரத்தின் பின்னர் சிங்கப்பூரும் இலங்கையும் பின்பற்றிய அணுகுமுறைகளில் உள்ள வித்தியாசங்களை சுட்டிக்காட்டியுள்ள அவர் சிங்கப்பூர் ஐக்கியத்திற்கும் தனது மக்களின் நலனிற்கும் முக்கியத்துவம் கொடுத்தது என தெரிவித்துள்ளதுடன் இலங்கையின் தலைமைத்துவம் மதமொழி அடிப்படையில் சமூகங்களை பிரித்ததை கடுமையாக கண்டித்துள்ளார்.
+Pointing out the differences in the approach to Singapore and Sri Lanka after independence, he said that the unity of Singapore and the welfare of his people has been strongly condemned by the leadership of Sri Lanka's leadership.
 
-சிங்கப்பூரின் வலுவான சட்டஅமைப்பினை பாராட்டியுள்ள அவர்  அது ஒழுக்கத்திற்கு முக்கியத்துவம் அளிக்கின்றது எனவும் குறிப்பிட்டுள்ளார்.
+He praised Singapore's strong legal and noted that it is important to morality.
 
-இலங்கை அரசாங்கம் சுயநலம் மிக்க நிகழ்ச்சிநிரலை முன்னெடுக்கின்றது தேசத்தின் நலனை விட  தனிப்பட்ட நலனிற்கு முன்னுரிமையளிக்கின்றது எனவும் தெரிவித்துள்ள கர்தினால் அரசியல் பொருளாதார நெருக்கடிகள் காணப்படும் சூழ்நிலையில் சுதந்திரதின கொண்டாட்டங்களின் நியாயத்தன்மை குறித்து கேள்வி எழுப்பியுள்ள அவர் அரசாங்கம் தனது சுதந்திரத்தை கொண்டாடுகின்றது எனவும் தெரிவித்துள்ளார்.
+He said that the Sri Lankan government is carrying out a selfish agenda and provides priority to the welfare of the nation than the welfare of the nation.
 
-...
+He said that the nation should be free from the clutches of the oppressive governance, and that Cardinal should elect the country and the people who love the country and the people who love the people.
+
+◼️
 
 [Data](articles/b1e2df30.json)
 
+[Extended Data](ext_articles/b1e2df30.ext.json)
+
 ---
 
-### චීනයේ දී අත්අඩංගුවට ගත් ඔස්ට්‍රේලියානු ආචාර්යවරයාට මරණ දඬුවම
+### Australian lecturer sentenced to death in China
 
 *2024-02-05 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192992) · `si`
 
-චීනයේ සංචාරයක් අතරතුරදී අත්අඩංගුවට ගැනුණු ඔස්ට්‍රේලියානු ජාතිකයෙකුට චීන අධිකරණයක් විසින් අත්හිටවූ මරණ දණ්ඩනය නියම කර තිබේ.
+A Sri Lanka Court has been suspended by a Chinese court to a Australian court during a visit to China.
 
-ඔත්තු බැලූ බවට චෝදනා කරමින් චීන බලධාරීන් විසින් ආචාර්ය යැන්ග් හෙන්ග්ජුන් මීට වසර 5කට පෙර අත්අඩංගුවට ගත් අතර ඔහු එම චෝදනා ප්‍රතික්ෂේප කළේය.
+Dr. Yang Hengjun was arrested five years ago by Chinese authorities, accusing spying.
 
-ග්‍රන්ථ කර්තෘවරයෙක්, ආචාර්යවරයෙක් මෙන්ම චීන කටයුතු සම්බන්ධ ප්‍රවීණයෙක් වන හෙන්ග්ජුන් ට ලබාදී ඇති දඬුවම වසර දෙකකට පසුව ජීවිතාන්තය දක්වා වූ සිරදඬුවමක් බවට සංශෝධනය කෙරෙතැයි අනුමාන කෙරේ.
+The punishment given to Hengjun, a bio editor, as well as the Chinese work veteran, is aimed at a life sentence in two years.
 
-ඔහු ට එරෙහිව එල්ලකර ඇති චෝදනා පත්‍රය මෙතෙක් ප්‍රසිද්ධ කර නොමැත.
+The allegation sheet has not been published against him.
 
-චීන අධිකරණ තීන්දුව පිළිකුලෙන් බැහැර කරන බව ඔස්ට්‍රේලියානු රජය පැවසීය.
+The Australian government said the Chinese court order would be dismissed.
 
 ◼️
 
 [Data](articles/cc84e5f7.json)
 
+[Extended Data](ext_articles/cc84e5f7.ext.json)
+
 ---
 
-### கற்பிட்டியில் முச்சக்கரவண்டி விபத்து ; ஒருவர் பலி ; 7 பேர் காயம்
+### Three -wheeler accident in Kalpitiya;One kills;7 people injured
 
 *2024-02-05 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175580) · `ta`
 
-புத்தளம் - கற்பிட்டி பிரதான வீதியின் குறிஞ்சிப்பிட்டிப் பகுதியில் நேற்று ஞாயிற்றுக்கிழமை (04)  இடம்பெற்ற வாகன விபத்தில் ஒருவர் ஸ்தலத்திலேயே உயிரிழந்துள்ளதுடன் ஏழு பேர் காயங்களுக்கு உள்ளாகியுள்ளனர்.
+One person was killed in a vehicle accident on Sunday (04) at the Kurinjipitti area of Puttalam - Kalpitiya main road and seven others were injured.
 
-புத்தளத்தில் இடம்பெற்ற சுதந்திர தின நிகழ்வை பார்வையிடச் சென்றுவிட்டு முச்சக்கர வண்டியில் திரும்பிச் செல்லும் போது கற்பிட்டி பகுதியிலிருந்து வந்த முச்சக்கர வண்டியுடன் மோதி இந்த விபத்து இடம்பெற்றுள்ளது.
+The accident occurred when a three -wheeler from the Kalpitiya area collided with a three -wheeler on his way to visit the Independence Day event in Puttalam.
 
-இதன்போது கற்பிட்டியிலிருந்து முச்சக்கர வண்டியில் பின்புறத்தில் அமர்ந்திருந்த ஐந்து பேரில் ஒருவர்  ஸ்தலத்திலேயே உயிரிழந்துள்ளார்.
+One of the five people sitting on the back of the three -wheeler from Kalpitiya died on the spot.
 
-இதன்போது இரண்டு முச்சக்கர வண்டிகளிலும் பயணித்த ஏழு பேர் படுகாயங்களுக்கு உள்ளாகிய நிலையில், கற்பிட்டி ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டதுடன் ஆறு பேர் மேலதிக சிகிச்சைகளுக்காக புத்தளம் ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Seven people who were traveling in two three -wheelers were injured and admitted to the Kalpitiya Resource Hospital and six others have been admitted to the Puttalam Hospital for further treatment.
 
-விபத்தில் உயிரிழந்தவரின் சடலம் புத்தளம் ஆதார வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The body of the deceased in the accident was placed in the funeral room of the Puttalam Hospital, police said.
 
-குறித்த விபத்தில் உயிரிழந்தவர் 67 வயதுடைய கற்பிட்டி மண்டலக்குடாப் பகுதியைச் சேர்ந்தவரென பொலிஸார் தெரிவித்தனர்.
+The man who died in the accident belonged to the 67 -year -old Kalpitiya Mandalakkudabu area, police said.
 
-...
+The video of the accident recorded on the mobile phone is being shared on social media.
+
+Kalpitiya police said they were continuing investigations into the incident.
+
+◼️
 
 [Data](articles/ad165853.json)
+
+[Extended Data](ext_articles/ad165853.ext.json)
 
 ---
 
@@ -224,19 +250,21 @@ The Apprentice Constable of the incident has been instructed by the Acting Inspe
 
 ---
 
-### எம்பிலிப்பிட்டியவில் இடிந்து வீழ்ந்த பாலம் : போக்குவரத்து தடை
+### Bridge in Embilipitiya: Traffic Prohibition
 
 *2024-02-05 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175578) · `ta`
 
-எம்பிலிப்பிட்டிய நகரிலிருந்து தோரகொலயாய ஊடாக மித்தெனிய செல்லும் பிரதான வீதியில் ஹுலந்த ஓயா பாலம் இடிந்து வீழ்ந்ததில் குறித்த வீதியூடான போக்குவரத்துக்கு தடைப்பட்டுள்ளது.
+Hulanda Oya Bridge collapsed on the main road from Embilipitiya to Mitteniya via Torakolaiyaya has been blocked.
 
-இன்று திங்கட்கிழமை (05) காலை மரக்கட்டைகளை ஏற்றிய லொறி ஒன்று பாலத்தை கடக்கும் போதே குறித்த பாலம் இவ்வாறு இடிந்து விழுந்துள்ளது.
+The bridge collapsed on Monday (05) morning when a lorry loaded with wooden bundles crossed the bridge.
 
-பாலம் இடிந்து வீழ்ந்தமையினால் எம்பிலிப்பிட்டியவில் இருந்து மாத்தறை, பெலியத்த, தங்காலை நோக்கிய போக்குவரத்திற்கு தடை ஏற்பட்டுள்ளது.
+Due to the collapse of the bridge, traffic from Embilipitiya has been blocked from Matara, Beliatta and Tangalle.
 
 ◼️
 
 [Data](articles/dfe28999.json)
+
+[Extended Data](ext_articles/dfe28999.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 08:05:34**
+As of **2024-02-05 08:17:29**
 
 ## Newspaper Stats
 
-*Scraped **4,811** Articles*
+*Scraped **4,816** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 263
 dailyftlk | 280
 newsfirstlk | 288
 adalk | 414
-virakesarilk | 546
+virakesarilk | 547
 adaderanalk | 601
 tamilmirrorlk | 607
-adaderanasinhalalk | 613
+adaderanasinhalalk | 617
 dailymirrorlk | 676
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,810 (100.0%) of 4,811 articles have been extended.
+4,811 (99.9%) of 4,816 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### தரம்குறைந்த மருந்துகளை இறக்குமதி செய்வதற்காக மருந்து தட்டுப்பாடு குறித்த போலியான  அச்சத்தை ஏற்படுத்தினார் கெஹெலிய – பிரதி சொலிசிட்டர் ஜெனரல்
+
+*2024-02-05 08:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175576) · `ta`
+
+மருந்து தட்டுப்பாடு குறித்த போலியான அச்சத்தை அமைச்சரவையில் ஏற்படுத்திய முன்னாள் அமைச்சர் கெஹெலிய ரம்புக்வெல அதனை பயன்படுத்தி தரம்குறைந்த மருந்துகளை இறக்குமதி செய்தார் என பிரதிசொலிசிட்டர் ஜெனரல் தெரிவித்துள்ளார்.
+
+2022 மே 30 ம் திகதி மருந்து தட்டுப்பாடு காரணமாக நாட்டின் சுகாதார துறை மூன்று வாரங்களிற்குள் வீழ்;ச்சியடையும் என அமைச்சரவையில் அச்சத்தை ஏற்படுத்திய முன்னாள் அமைச்சர் அதனை பயன்படுத்தி தரம்குறைந்த மருந்துகளை அரசாங்க மருத்துவமனைக்கு விநியோகம் செய்தார் என பிரதிசொலிசிட்டர் ஜெனரல் மாளிகாகந்த நீதவான் முன்னிலையில் தெரிவித்துள்ளார்.
+
+இந்திய கடன் உதவியில் எஞ்சியிருந்த நிதியை கூடிய விரைவில் பயன்படுத்துவதற்கான பொறிமுறையொன்றை வகுக்குமாறு அவர் விடுத்த வேண்டுகோளை அரசமருந்தாக்கல் கூட்டுத்தாபனம் ஏற்றுக்கொள்ள மறுத்ததை தொடர்ந்தே சந்தேக நபர் இவ்வாறு நடந்துகொண்டார் என பிரதிசொலிசிட்டர் ஜெனரல் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/2f4b8bda.json)
+
+---
+
+### කන්දකාඩු යළි උණුසුම්
+
+*2024-02-05 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192986) · `si`
+
+කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ ඇති වු ගැටුමකින් හමුදා සෙබළෙකු සහ රැඳවියන් පිරිසක් තුවාල ලබා තිබේ.
+
+තුවාල ලැබු පිරිස වැලිකන්ද රෝහලේ ප්‍රතිකාර සඳහා යොමු කර ඇති බව පොලීසිය පැවසුවේය.
+
+ගැටුමට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර රැඳවියන් විසින් කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ මුළුතැන්ගෙයි සහ තවත් ස්ථාන කිහිපයක දේපළවලට හානි සිදුකර තිබේ.
+
+පුනරුත්ථාපන මධ්‍යස්ථානයේ දේපළවලට අලාභ හානි සිදුකිරීම සඳහා යොදාගත් බව කියන පොලු මුඟුරු තොගයක් ද පොලිස් භාරයට ගෙන ඇති බව වැලිකන්ද පොලීසිය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/a6e438e3.json)
+
+---
+
+### දියේ ගිලෙමින් සිටි 6 දෙනෙකු බේරාගනී
+
+*2024-02-05 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192987) · `si`
+
+පානදුර වෙරළ තීරයේ  දියනාමින් සිටි පිරිසක් අතරින් 6 දෙනෙකු දිය වැලකට හසු වී ගසාගෙන යමින් සිටියදී පානදුර පොලිස් ජීවිතාරක්ෂක ඒකකයේ නිලධාරීන් දෙදෙනෙකු විසින් බේරාගෙන ඇත.
+
+මෙලෙස දිවිබේරාගෙන ඇත්තේ අවුරුදු 16ත් 21ත් අතර වයසැති පිරිමි ළමුන් තිදෙනෙකු සහ ගැහැණු ළමුන් තිදෙනෙකු‍ ය.
+
+මෙම දරුවන්ගේ දිවි බේරාගැනීමට සමත්ව ඇත්තේ පානදුර පොලිස් ජීවිතාරක්ෂක ඒකකයේ පොලිස් කොස්තාපල්වරුන් වන 69951  පුෂ්පකුමාර හා 93731 දේශාන් යන නිලධාරින් දෙදෙනා විසිනි.
+
+ඊයේ (04) සවස් කාලයේ මෙම දරුවන් දියවැලට හසු වූ අවස්ථාවේ මෙම නිලධාරින් දෙදෙනා එකතුව මෙම දරුවන් වෙරළට රැගෙනවිත් වාහාම මූලික ප්‍රථමාධාර ලබා දී දරුවන්ව ඥාතීන් වෙත භාර දී ඇත.
+
+මෙලෙස අනතුර මුහුණ දී ඇත්තේ රත්නපුර ප්‍රදේශයේ පදිංචි පිරිසක් බව පොලීසිය වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/ea9a744d.json)
+
+---
 
 ### Showers expected in parts of the country
 
@@ -47,6 +101,36 @@ The public is kindly requested to take adequate precautions to minimize damages 
 ◼️
 
 [Data](articles/6d4d364e.json)
+
+[Extended Data](ext_articles/6d4d364e.ext.json)
+
+---
+
+### යුක්තියට තවත් පිරිසක් කොටුවෙති
+
+*2024-02-05 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192985) · `si`
+
+දිවයින පුරා ක්‍රියාත්මක යුක්තිය මෙහෙයුම යටතේ අද (05) අලුයම අවසන් වූ ගතවු පැය 24 තුළ සැකකරුවන් 667 දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/71441172.json)
+
+---
+
+### කොළඹ මාර්ග කිහිපයක් අද සිට වැසෙයි
+
+*2024-02-05 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192984) · `si`
+
+භූගත නළ එලීමේ කටයුත්තක් හේතුවෙන් කොල්ලුපිටිය සහ කොම්පඤ්ඤවීදිය ප්‍රදේශයන් හි මාර්ග කිහිපයක් අදියර 03ක් යටතේ අද (05) සිට වසා තැබෙන බව පොලීසිය පවසයි.
+
+ඒ අනුව අද සිට ලබන 19 වනදා දක්වා උත්තරානන්ද මාවත, නවම් මාවත සිට දුම්රිය හරස් මාර්ගය දක්වා කොටස වසා තැබෙන බව පොලීසිය පැවසුවේය.
+
+පෙබරවාරි 20 වනදා සිට මාර්තු 04 වනදා දක්වා කාලය තුළ උත්තරානන්ද මාවත, පෙරහැර මාවත සිට නවම් මාවත දක්වා කොටස වසා තැබෙන අතර එහි තුන්වන අදියර ලෙස මාර්තු මස 05 වනදා සිට 11 වනදා දක්වා උත්තරානන්ද මාවත, පෙරහැර මාවත ආශ්‍රිතව රොටුන්ඩාගාඩ්න් මංසන්ධිය කොටස වසා තැබේ.
+
+◼️
+
+[Data](articles/8653c5f0.json)
 
 ---
 
@@ -1825,93 +1909,5 @@ The new leader of the Ilangai Tamil Ahazi Ahazi Arasu Party was also present at 
 [Data](articles/46c4eb59.json)
 
 [Extended Data](ext_articles/46c4eb59.ext.json)
-
----
-
-### Lock for 3 roads in Colombo until March 11
-
-*2024-02-04 14:15:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-3-வீதிகளுக்கு-மார்ச்-11-வரை-பூட்டு/175-332628) · `ta`
-
-The police headquarters in Kaluppitti Kompani Road will be temporarily closed due to the construction of the Uttarananda Mawatha, Perahara Mawatha and Navam Mawatha.
-
-The police have announced that the sewage pipe will be connected to the Colombo port city and the residents of Uttaranda Mawatha, Perahara Mawatha and Navam Mawatha have been asked to avoid the use of the road.
-
-Accordingly, the area from Uttarananda Mawatha, Navam Mawatha, from Navam Mawatha to Railway Kadavai from Monday (19) and Uttarananda Mawatha, Perahara Mawatha to Navam Mawatha, from February 20 to March (March 4)The area will be temporarily closed from March 5 to March (March 11) and the police have been asked to use alternatives.
-
-◼️
-
-[Data](articles/44f61e4b.json)
-
-[Extended Data](ext_articles/44f61e4b.ext.json)
-
----
-
-### Whose freedom are you celebrating? – Cardinal
-
-*2024-02-04 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96993/whose-freedom-are-you-celebrating-cardinal-) · `en`
-
-Archbishop of Colombo Cardinal Malcolm Ranjith has emphasised the need to ‘free the country’ from oppressive leadership, and appoint a new leader.
-
-Speaking at a special service held at the All Saint’s Church in Borella in view of Sri Lanka’s 76th Independence Day, the Cardinal charged that as of now, the country has fallen not only economically, but also politically.
-
-“We ask the leaders whose freedom are you celebrating? The freedom of the rulers? The freedom of the people? Is it ‘freedom’ to invite foreign diplomats, and belittle those who are starving in front of the country’s elites?”, Cardinal Malcolm Ranjith questioned.
-
-◼️
-
-[Data](articles/c564652f.json)
-
-[Extended Data](ext_articles/c564652f.ext.json)
-
----
-
-### Biden will win South Carolina Democratic primary, earning first delegates of 2024
-
-*2024-02-04 13:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Biden-will-win-South-Carolina-Democratic-primary-earning-first-delegates-of-2024/108-276303) · `en`
-
-US, Feb 04 (CNN) - South Carolina, the state that launched Joe Biden to the Democratic nomination four years ago, will deliver the president his first official primary victory of the 2024 campaign on Saturday, CNN projects.
-
-In a result that was largely expected, Biden will defeat his two nearest challengers, Minnesota Rep. Dean Phillips and author Marianne Williamson, as he claims his first delegates in his quest to win his party’s nomination again. Biden won all 55 delegates at stake in the South Carolina primary.
-
-This year marks the first time South Carolina has appeared at the front of the official Democratic nominating calendar — a change made largely due to Biden’s urging.
-
-Biden, who was in Los Angeles for a fundraising event Saturday evening when his win was projected, said in a statement that South Carolina put him on a path toward victory.
-
-...
-
-[Data](articles/4f5ead1d.json)
-
-[Extended Data](ext_articles/4f5ead1d.ext.json)
-
----
-
-### Kandy Hospital team replants woman’s severed hand
-
-*2024-02-04 13:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kandy-Hospital-team-replants-womans-severed-hand/108-276307) · `en`
-
-Kandy, Feb 04 (Daily Mirror) -  A team led by Dr. Amila Sasanka Ratnayake, a specialist surgeon at the National Hospital, Kandy successfully replanted the right arm of a thirty-five-year-old woman from Anuradhapura.
-
-The patient had faced the mishap while cleaning a coir grinding machine, resulting in the separation of her right hand from below the elbow.
-
-The complex six-hour operation, carried out at the Kandy Hospital, involved a team of medical professionals, including plastic surgeon Dr. Udaya Kiridena, plastic surgeon Chamila Jayaratne, orthopedic surgeon Dr. Satira Premaratne, senior registrar Udara Ratnayake, anesthetist Dr. Uduwela, and Dr. Kasun and Dr. Senaka.
-
-◼️
-
-[Data](articles/723e1084.json)
-
-[Extended Data](ext_articles/723e1084.ext.json)
-
----
-
-### Open visit to prisons
-
-*2024-02-04 13:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Open-visit-to-prisons/110-276302) · `en`
-
-On the occasion of the 76th Independence Day, an open visit to the inmates will be conducted in all prisons on the island today, following the prison rules and health and safety procedures.
-
-◼️
-
-[Data](articles/08a94ac8.json)
-
-[Extended Data](ext_articles/08a94ac8.ext.json)
 
 ---

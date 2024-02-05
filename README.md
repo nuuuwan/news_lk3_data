@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 10:33:01**
+As of **2024-02-05 10:50:45**
 
 ## Newspaper Stats
 
-*Scraped **4,844** Articles*
+*Scraped **4,846** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ economynextcom | 257
 islandlk | 263
 dailyftlk | 280
 newsfirstlk | 291
-adalk | 417
+adalk | 419
 virakesarilk | 548
 adaderanalk | 603
 tamilmirrorlk | 617
@@ -26,29 +26,33 @@ dailymirrorlk | 679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,842 (100.0%) of 4,844 articles have been extended.
+4,844 (100.0%) of 4,846 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
 
-### කොස්තාපල්වරියට නොහොබිනා වැඩක් කළ OIC ආගිය අතක් නෑ
+### There is no one-handed guy who didn't have a unborn job for constable
 
 *2024-02-05 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192991) · `si`
 
-ආධුනික පොලිස් කොස්තාපල්වරියකට ලිංගික අතවර සිදුකළ බව කියන කල්පිටිය පොලීසියේ ස්ථානාධිපතිවරයා සම්බන්ධයෙන් විශේෂ විමර්ශනයක් ආරම්භ කර තිබේ.
+A special investigation has been launched into the OIC of the Police OIC, who had sexually abused an amateur police constable.
 
-වයඹ පළාත් භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරයාගේ නියෝග පරිදි එම විමර්ශන කටයුතු කටුපොත පොලිසියේ ළමා හා කාන්තා කාර්යාංශය විසින් සිදුකෙරේ.
+According to the Senior DIG in charge of the North Western Province, the Investigations are conducted by the Children's and Women's Bureau.
 
-කල්පිටිය පොලිසියේ ස්ථානාධිපතිවරයා ලෙස කටයුතු කරන පොලිස් පරීක්ෂකවරයාට මීට පෙර අවස්ථා කිහිපයකදී ලිංගික හිරිහැර සහ මූල්‍ය ගැටලු සම්බන්ධයෙන් චෝදනාවන් එල්ල වී තිබූ බව පැවසේ.
+The OIC of the Kalpitiya Police is said to have been charged with sexual harassment and financial issues.
 
-ඒ අනුව එම පොලිස් පරීක්ෂකවරයා වහාම ක්‍රියාත්මක වන පරිදි උතුරු මැද පළාතට ස්ථාන මාරු කිරීමට හිටපු පොලිස්පතිවරයා කටයුතු කර තිබුණද දේශපාලන බලපෑම් මත එම ස්ථානමාරුව අවංලගු කර ගැනීමට එම පොලිස් පරීක්ෂකවරයා පියවර ගෙන තිබිණි.
+Accordingly, the Inspector of the Inspector of Police has taken steps to transfer the North Central Province to the North Central Province, but the Inspector of Police (IGP) had taken steps to climb the location on political pressure.
 
-මේ අතර පසුගිය දිනක තම පොලිස් ස්ථානය තුළදී ආධුනික පොලිස් කොස්තාපල්වරියකට ලිංගික අතවර කිරීමට කල්පිටිය පොලිස් ස්ථානාධිපතිවරයා උත්සාහ කර ඇත.
+Meanwhile, the OIC of the Kalpitiya has attempted to sexually abusing an amateur police constable in his police station recently.
+
+The Apprentice Constable of the incident has been instructed by the Acting Inspector General of North Western Province to investigate the incident.
 
 ...
 
 [Data](articles/8b7fe13a.json)
+
+[Extended Data](ext_articles/8b7fe13a.ext.json)
 
 ---
 
@@ -101,6 +105,22 @@ The Ministry of Public Safety said that 191 grams of heroin and 103 grams of Ice
 [Data](articles/6eb18c80.json)
 
 [Extended Data](ext_articles/6eb18c80.ext.json)
+
+---
+
+### බෙලිඅත්ත පංච පුද්ගල ඝාතයට සම්බන්ධ තවත් අයෙක් අල්ලයි
+
+*2024-02-05 09:11:28* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්ත-පංච-පුද්ගල-ඝාතයට-සම්බන්ධ-තවත්-අයෙක්-අල්ලයි/11-407900) · `si`
+
+බෙලිඅත්තේදී වෙඩි තබා පුද්ගලයන් 05 දෙනෙකු ඝාතනය කිරීමේ අපරාධයට ආධාර අනුබල දීම සම්බන්ධ තවත සැකකරුවෙක් මාතර කොට්ඨාස ළමා හා කාන්තා කාර්යංශය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරු ඊයේ (04දා) උදෑසන හබරාදූව පොලිස් වසමේදි අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරු අවුරුදු 28ක් වන රත්ගම පදිංචිකරුවෙක් වෙන අතර වැඩිදුර විමර්ශන කටයුතු සඳහා බෙලිඅත්ත පොලීසියට භාර දි තිබේ.
+
+◼️
+
+[Data](articles/c44f57aa.json)
 
 ---
 
@@ -664,17 +684,19 @@ National People's Power Leader Anura Kumara Dissanayake, Secretary Nihal Abeysin
 
 ---
 
-### இன்று இந்தியா செல்கிறார் அநுரகுமார
+### Anurakumara is going to India today
 
 *2024-02-05 01:45:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/இன்று-இந்தியா-செல்கிறார்-அநுரகுமார/150-332673) · `ta`
 
-இந்திய அரசாங்கத்தின் உத்தியோகப்பூர்வ அழைப்பினை ஏற்று தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க உள்ளிட்ட கட்சியின் பிரதிநிதிகள் இன்று இந்தியாவிற்குச் செல்கின்றனர்.
+Representatives of the National People's Power, including the leader of the National People's Power, Anura Kumara Dissanayake, are going to India today.
 
-தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க, செயலாளர் வைத்திய நிபுணர் நிஹால் அபேசிங்க, பாராளுமன்ற உறுப்பினர் விஜித ஹேரத், தேசிய நிறைவேற்று பேரவை உறுப்பினர் பேராசிரியர் அனில் ஜயந்த ஆகியோரே ந்தியாவிற்குச் செல்கின்றனர். (a)
+National People's Power Leader Anura Kumara Dissanayake, Secretary Nihal Abeysinghe, Parliamentarian Vijitha Herath and National Executive Member Professor Anil Jayantha. (A)
 
 ◼️
 
 [Data](articles/c812517f.json)
+
+[Extended Data](ext_articles/c812517f.ext.json)
 
 ---
 
@@ -1925,25 +1947,5 @@ When we change, we need to change our outward appearance. Only you can change th
 [Data](articles/030dc4d3.json)
 
 [Extended Data](ext_articles/030dc4d3.ext.json)
-
----
-
-### Will the unity of evolving?
-
-*2024-02-04 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175553) · `ta`
-
-India is in a state of confusion as to whether the Tamils are excluded to handle Colombo - whether to handle the Tamils and handle the Tamils.
-
-India has not yet moved towards the choice of handling Tamils with Tamils.
-
-Until that situation is created, India will keep the 13th Amendment and the time to create a united position among the Tamil national parties.
-
-However, the Tamil issue has not resolved and the blame for India has abandoned them.
-
-◼️
-
-[Data](articles/96704ed4.json)
-
-[Extended Data](ext_articles/96704ed4.ext.json)
 
 ---

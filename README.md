@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 10:50:45**
+As of **2024-02-05 11:02:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,844 (100.0%) of 4,846 articles have been extended.
+4,846 (100.0%) of 4,846 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -108,19 +108,21 @@ The Ministry of Public Safety said that 191 grams of heroin and 103 grams of Ice
 
 ---
 
-### බෙලිඅත්ත පංච පුද්ගල ඝාතයට සම්බන්ධ තවත් අයෙක් අල්ලයි
+### Another person involved in Beliatta arrested
 
 *2024-02-05 09:11:28* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්ත-පංච-පුද්ගල-ඝාතයට-සම්බන්ධ-තවත්-අයෙක්-අල්ලයි/11-407900) · `si`
 
-බෙලිඅත්තේදී වෙඩි තබා පුද්ගලයන් 05 දෙනෙකු ඝාතනය කිරීමේ අපරාධයට ආධාර අනුබල දීම සම්බන්ධ තවත සැකකරුවෙක් මාතර කොට්ඨාස ළමා හා කාන්තා කාර්යංශය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The Matara Divisional Children's and Women's bunker has been arrested by the Matara Divisional Children's and Women's Bureau.
 
-සැකකරු ඊයේ (04දා) උදෑසන හබරාදූව පොලිස් වසමේදි අත්අඩංගුවට ගෙන තිබේ.
+The suspect was arrested yesterday (04) at Habaraduwa Police Division.
 
-අත්අඩංගුවට ගත් සැකකරු අවුරුදු 28ක් වන රත්ගම පදිංචිකරුවෙක් වෙන අතර වැඩිදුර විමර්ශන කටයුතු සඳහා බෙලිඅත්ත පොලීසියට භාර දි තිබේ.
+The suspect is a 28 year old resident of Rathgama and has been handed over to the Beliatta Police for further investigations.
 
 ◼️
 
 [Data](articles/c44f57aa.json)
+
+[Extended Data](ext_articles/c44f57aa.ext.json)
 
 ---
 

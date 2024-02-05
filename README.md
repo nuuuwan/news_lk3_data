@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 15:02:52**
+As of **2024-02-05 15:17:22**
 
 ## Newspaper Stats
 
-*Scraped **4,904** Articles*
+*Scraped **4,906** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ economynextcom | 260
 islandlk | 263
 dailyftlk | 280
 newsfirstlk | 296
-adalk | 422
+adalk | 423
 virakesarilk | 560
-adaderanalk | 610
+adaderanalk | 611
 tamilmirrorlk | 625
 adaderanasinhalalk | 631
 dailymirrorlk | 688
@@ -26,11 +26,31 @@ dailymirrorlk | 688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,903 (100.0%) of 4,904 articles have been extended.
+4,904 (100.0%) of 4,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### Police and protesters clash after Senegal election postponed
+
+*2024-02-05 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97018/police-and-protesters-clash-after-senegal-election-postponed) · `en`
+
+Police made arrests and fired tear gas as opposition supporters protested President Macky Sall’s decision to postopne elections in Senegal.
+
+Clashes erupted on Sunday as federal lawmakers prepared to debate a bill to formalise the delay of the February 25 vote.
+
+Demonstrators rallied in the capital Dakar after leading opposition figures and candidates in the presidential election rejected Saturday’s announcement and called on citizens to defend democracy.
+
+Among those arrested as the protests spread was former Prime Minister Aminata Toure, as well as Anta Babacar Ngom, one of the candidates in the postponed vote.
+
+The government cut the signal of private television channel Walf as it broadcast the protest live. The New York-based non-profit Committee to Protect Journalists condemned the move in a post on social media platform X, urging Senegalese authorities to ensure that “journalists can work without hindrance”.
+
+...
+
+[Data](articles/8f830de9.json)
+
+---
 
 ### Sri Lanka a target of 56 runs
 
@@ -73,6 +93,8 @@ A delegation of the JVP party comprising of JVP leader Anura Kumara Dissanayake,
 ◼️
 
 [Data](articles/c7eadc48.json)
+
+[Extended Data](ext_articles/c7eadc48.ext.json)
 
 ---
 
@@ -679,6 +701,24 @@ Therefore, I urge the people of the city to take steps to take advantage of this
 [Data](articles/2c2639d6.json)
 
 [Extended Data](ext_articles/2c2639d6.ext.json)
+
+---
+
+### කතුන් ගේ රන්මාල කොල්ලකෑ පයාගල මකා අත්අඩංගුවට
+
+*2024-02-05 11:20:58* · [`adalk`](https://www.ada.lk/breaking_news/කතුන්-ගේ-රන්මාල-කොල්ලකෑ-පයාගල-මකා-අත්අඩංගුවට/11-407904) · `si`
+
+කළුතර සහ පානදුර ප්‍රදේශවල මහමග ගමන්ගත් කාන්තාවන්ගේ ගෙලබැදි  රන්මාල යතුරුපැදි වලින් ගොස් කොල්ලකෑ පුද්ගලයකු අත්අඩංගුවට ගත්බව කළුතර කොට්ඨාස විෂ මත්ද්‍රව්‍ය වැටලීම් ඒකකය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ පයාගල මකා නමැති අන්වර්ථ නාමයෙන් හදුන්වන  25 හැව්රිදි පුද්ගලයකු බව පොලිසිය කීය.
+
+ලද තොරතුරක් මත පොලිස් නිළධාරීන් සැකකරු පයාගල පඹේ ප්‍රදේශයේ දී යතුරුපැදියකින් යමින් සිටියදී නවතා පරීක්ෂා කොට හෙරෝයින් මත්කුඩු ග්‍රෑම් හයයි මිලිග්රැම් 670 ක් සහ යතුරුපැදිය  සමග අත්අඩංගුවට ගෙන තිබේ.
+
+ඔහුගෙන් සිදුකල ප්‍රශ්න කිරීමේදී කොල්ලකෑ රන්මාලයක් සොයාගත් බවත් පොලිසිය කීය.
+
+◼️
+
+[Data](articles/137841ad.json)
 
 ---
 
@@ -1989,43 +2029,5 @@ After the election of Sritharan by the party’s General Council in a secret bal
 [Data](articles/558bae56.json)
 
 [Extended Data](ext_articles/558bae56.ext.json)
-
----
-
-### Dialog Television celebrates Independence weekend by offering access to the full bouquet of channels without any additional charge
-
-*2024-02-05 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Dialog-Television-celebrates-Independence-weekend-by-offering-access-to-the-full-bouquet-of-channels-without-any-additional-charge/172-276321) · `en`
-
-Sri Lanka’s #1 Pay-TV service provider, Dialog Television, has announced access to its extensive array of channels at no additional charge to all viewers from 2nd - 5th February 2024, targeting the Independence weekend. Viewers together with the whole family can enjoy over 120 local and international channels, including 18 in High Definition, broadcasting everything from the best in sporting action and latest in global entertainment, to premier educational and edutainment channels for kids, and up-to-date news channels from around the world.
-
-Dialog Television customers will also be delighted to know that the offer is just in time for some of the most exciting entertainment fixtures on the 2024 calendar including the test match of Afghanistan Tour of Sri Lanka 2024 on Ten Cricket (ch. 65) and Sony Sports Ten 5 HD (ch. 124), round one of Six Nations on Premier Sports (ch. 125), the Grammys on HITS NOW (ch. 114) .
-
-...
-
-[Data](articles/d2e0e781.json)
-
-[Extended Data](ext_articles/d2e0e781.ext.json)
-
----
-
-### 2024-02-04 (Sunday)
-
-### Millionaire is set in front of the house of the businessman
-
-*2024-02-04 23:43:08* · [`adalk`](https://www.ada.lk/breaking_news/කෝටිපති-ව්‍යාපරිකයාගේ-නිවස-ඉදිරිපිට-මල්වඩමක්-තියලා/11-407896) · `si`
-
-An organized police officer in the Nugegoda Police said that several police teams have been conducting special investigations into a criminal criminal in front of the Nawagamuwa House.
-
-The flower of those flower is "separated from the name of the business ---------------------------Sources from the police say that the flower has been retained.
-
-Police sources said that the businessman would give money to the part of the organized criminal gang leaderMeans the roads.
-
-The two persons have been identified by two persons who have called on the house in front of the businessman's house and placed the wreath in front of the businessman and the two persons have fled the area.Police have also known that police protection has been deployed to the house of the businessman.Several special police teams are conducting further investigations.
-
-◼️
-
-[Data](articles/eb680215.json)
-
-[Extended Data](ext_articles/eb680215.ext.json)
 
 ---

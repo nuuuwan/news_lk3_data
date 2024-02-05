@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 14:17:25**
+As of **2024-02-05 14:32:53**
 
 ## Newspaper Stats
 
-*Scraped **4,899** Articles*
+*Scraped **4,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 422
 virakesarilk | 560
 adaderanalk | 609
 tamilmirrorlk | 625
-adaderanasinhalalk | 627
+adaderanasinhalalk | 630
 dailymirrorlk | 688
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,899 (100.0%) of 4,899 articles have been extended.
+4,899 (99.9%) of 4,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### ඉන්දියාවට ගිය අනුර විශේෂ හමුවක
+
+*2024-02-05 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193000) · `si`
+
+ඉන්දියාවේ සංචාරයක නිරතවන ජාතික ජන බලවේගයේ නායක, අනුර කුමාර දිසානායක මහතා අද (05) ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජයිශංකර් සමග සාකච්ඡා පවත්වා තිබේ.
+
+ජයිශංකර් මහතා සිය X ගිණුමෙහි සටහනක් තබමින් පවසන්නේ, ද්විපාර්ශික සම්බන්ධතා සම්බන්ධයෙන් මෙන්ම ශ්‍රී ලංකාවේ ආර්ථික අභියෝග සම්බන්ධයෙන් අදහස් හුවමාරු කරගත් බවය.
+
+◼️
+
+[Data](articles/c37ebea1.json)
+
+---
 
 ### Anura Kumara holds talks with Jaishankar in India
 
@@ -88,6 +102,24 @@ Meanwhile, the three other students who were also reportedly injured during the 
 
 ---
 
+### ලෙල්ලම ගැන අධිකරණ නියෝගයක්
+
+*2024-02-05 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192999) · `si`
+
+ලෙල්ලම යනුවෙන් ජනප්‍රිය වී ඇති මීගමුව ධීවර වෙළෙඳ මධ්‍යස්ථානයේ දේපොළ පරිපාලනය සහ කළමනාකරණය පිටිපන එක්සත් ධීවර සමිතියෙන් ඉවත් කර භාරකරුවෙකු වෙත පත්කරන ලෙස මීගමුව දිසා අධිකරණය නීයෝග කර තිබේ.
+
+මීගමුව දිසා විනිසුරු ලලිත් කන්නංගර මහතා විසින් මෙම නියෝගය නිකුත් කර ඇත්තේ පිටිපන එක්සත් ධීවර සමිතියේ නිලධාරි මණ්ඩලයට එරෙහිව අගරදගුරු හිමිපාණන් ගොනුකර ඇති පැමිණිල්ලකට අදාළ නඩුව පසුගියදා කැඳවු අවස්ථාවේදිය.
+
+කොළඹ අගරදගුරු හිමිපාණන්ට අයත් දේපොළක් තෑගි ඔප්පුවක් මඟින් " ලෙල්ලම" ධීවර වෙළෙඳ මධ්‍යස්ථානය සඳහා පිටිපන එක්සත් ධීවර සමිතිය වෙත පවරා දී ඇත්තේ 1963 වර්ෂයේදීය.
+
+අදාළ පවරාදීමේදී එම දේපොළවලින් උපයන ආදායමෙන් කොටසක් පිටිපන දේවස්ථානය වෙත භාරදිය යුතු බවට කොන්දේසියක් පනවා ඇත්තේ පිටිපන මීසමේ ජීවත්වන අඩු ආදායම්ලාභි ජනතාවගේ සුබසිද්ධිය වෙනුවෙන් වැයකිරීම වෙනුවෙනි.
+
+...
+
+[Data](articles/ee4b1bec.json)
+
+---
+
 ### Three arrested over shooting of Buddhist monk in Gampaha
 
 *2024-02-05 13:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97015/three-arrested-over-shooting-of-buddhist-monk-in-gampaha-) · `en`
@@ -105,6 +137,18 @@ The Buddhist monk had sustained critical injuries in the incident and was subseq
 [Data](articles/efa00a42.json)
 
 [Extended Data](ext_articles/efa00a42.ext.json)
+
+---
+
+### ජාත්‍යන්තර පාසලක ගසක් කඩා වැටී දරුවෙක් මරුට
+
+*2024-02-05 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192998) · `si`
+
+ගම්පොළ ප්‍රදේශයේ ජාත්‍යන්තර පාසලක ගසක් කඩා වැටීමෙන් දරුවෙක් ජීවිතක්ෂයට පත්ව ඇතැයි වාර්තා වේ.
+
+◼️
+
+[Data](articles/a42a23ff.json)
 
 ---
 
@@ -1971,63 +2015,5 @@ The Army as well as the police, as well as the police, has already control the s
 [Data](articles/4f300e3e.json)
 
 [Extended Data](ext_articles/4f300e3e.ext.json)
-
----
-
-### JVP delegation to make official visit to India
-
-*2024-02-04 23:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97006/jvp-delegation-to-make-official-visit-to-india) · `en`
-
-A delegation of the Janatha Vimukthi Peramuna (JVP), a Marxist–Leninist communist party which led an anti-India campaign in 1987-90 against the Indo-Lanka Accord, will on Monday (05 Feb.) start on an official visit to India.
-
-“The delegation of JVP, the largest party under the broad entity National People’s Power (NPP), is to leave Colombo tomorrow (Monday) for India on an official invitation of the Indian government,’’ a statement from the party said.
-
-The delegation to India comprises JVP leader Anura Kumara Dissanayake, senior legislator Vijitha Herath, Secretary Nihal Abeysinghe and executive committee member Prof Anil Jayantha, the statement said.
-
-The Indo-Sri Lanka Peace Accord, signed in Colombo on July 29, 1987, between Indian Prime Minister Rajiv Gandhi and Sri Lankan President J. R. Jayewardene, was expected to resolve the Sri Lankan Civil War by enabling the Thirteenth Amendment to the Constitution of Sri Lanka.
-
-...
-
-[Data](articles/1d4be38e.json)
-
-[Extended Data](ext_articles/1d4be38e.ext.json)
-
----
-
-### A new planet for the existence of life
-
-*2024-02-04 22:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192979) · `si`
-
-The research reports on the 'super-earth "have been released on the' Super-Earth" with NASA.
-
-The new planet has been named as "Toi-715 B" and is a number of 137 lights from the Earth.
-
-The report also states that a red little star will be rotate and will take 19 days for it.
-
-NASA is conducting further investigations into the planet, which is about two and a half of the earth.
-
-◼️
-
-[Data](articles/1cbbaa9b.json)
-
-[Extended Data](ext_articles/1cbbaa9b.ext.json)
-
----
-
-### Sri Lankan High Commission in Kenya celebrates Independence Day
-
-*2024-02-04 22:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-High-Commission-in-Kenya-celebrates-Independence-Day/108-276316) · `en`
-
-Kenya, Feb. 04 (Dail.y Mirror)- The Sri Lankan High Commission in Kenya organised an event to commemorate Sri Lanka's 76th Independence Day, attended by Cabinet Ministers of Kenya, the TRI forces Chief of Kenya, and other distinguished guests.
-
-Around 350 distinguished guests, including Deputy Governor of Nairobi City  Njoroge Muchiri, Ambassadors, UN officials, business leaders, and members of the Sri Lankan community residing in Kenya attended the event.
-
-The ceremonial opening included the traditional Sri Lankan gesture of offering beetle leaves and Independence Day commemorative shawls to the guests. High Commissioner Kana  Kananathan then hoisted the national flag, accompanied by the Kenyan Police Band playing the Sri Lankan national anthem.
-
-...
-
-[Data](articles/d26aac8a.json)
-
-[Extended Data](ext_articles/d26aac8a.ext.json)
 
 ---

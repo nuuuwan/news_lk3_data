@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 14:02:21**
+As of **2024-02-05 14:17:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,893 (99.9%) of 4,899 articles have been extended.
+4,899 (100.0%) of 4,899 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,23 +48,27 @@ A good discussion on our bilateral relationship and the mutual benefits from its
 
 [Data](articles/733ffde9.json)
 
+[Extended Data](ext_articles/733ffde9.ext.json)
+
 ---
 
-### ஜனராணி என்ன சொல்கிறார்
+### What does Janaran say
 
 *2024-02-05 13:20:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனராணி-என்ன-சொல்கிறார்/175-332702) · `ta`
 
-ஜனராணி என்ன சொல்லி இருக்கிறார் என்பதை பாருங்கள்...  தரம் குறைந்த மருந்துகளை இறக்குமதிச் செய்த குற்றச்சாட்டுக்காக கைது செய்யப்பட்ட முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல, நீதிமன்ற உத்தரவின் பிரகாரம் எதிர்வரும் 15 ஆம் திகதி வரையிலும் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+Former Health Minister Keheliya Rambukwella, who has been arrested on charges of importing low quality drugs, has been kept in detention until the 15th of this month.
 
-அவ​ரை சிறைச்சாலைக்கு அழைத்துச் செல்வதற்காக, சிறைச்சாலை வாகனத்தில் ஏற்றியபோது, திடீ​ரென சுகயீனமடைந்த அவர், சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
+When he was loaded with a prison vehicle, he was sick and was admitted to the Prison Hospital.
 
-இது தொடர்பில் எமது சகோதர பத்திரிக்கையான ‘அத’ பத்திரிக்கையில் ‘சித்திர’கதையொன்று இன்று (05) எழுதப்பட்டுள்ளது.
+In this regard, our brotherly magazine, the telephone magazine, has been written today (05).
 
-பின்குறிப்பு: வைத்தியசாலைக்குச் செல்லும் அனைவரும் வெளியே வருவதில்லை அதனால் தான், வைத்தியசாலைகளுக்கு முன்பாக மலர் சாலைகள் உள்ளன என கெஹலிய ரம்புக்வெல சுகாதார அமைச்சராக பதவியில் இருந்த​போது தெரிவித்திருந்தமை குறிப்பிடத்தக்கது.
+Footnote: It is noteworthy that Keheliya Rambukwella was in office as the Minister of Health.
 
 ◼️
 
 [Data](articles/f99ded4d.json)
+
+[Extended Data](ext_articles/f99ded4d.ext.json)
 
 ---
 
@@ -118,21 +122,23 @@ The price of Nuwara Eliya Carrot has increased again. The price of 1 kg carrot, 
 
 ---
 
-### இந்திய வெளிவிவகார அமைச்சரை சந்தித்தார் அனுரகுமார - புதுடில்லியில் முக்கிய பேச்சுவார்த்தை
+### Meeting Indian Foreign Minister
 
 *2024-02-05 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175602) · `ta`
 
-இந்தியாவிற்கு விஜயம் மேற்கொண்டுள்ள ஜேவிபியின் தலைவர் அனுரகுமாரதிசநாயக்க இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கரை சந்தித்து பேச்சுவார்த்தைகளை மேற்கொண்டுள்ளார்.
+JVP leader Anura Kumaratisanayake, who has visited India, has met with Indian Foreign Minister Jaishankar.
 
-எங்கள் இருதரப்பு உறவுகள் குறித்தும் அதனை மேலும் வலுப்படுத்துதால் உருவாகக்கூடிய பரஸ்பர நன்மைகள் குறித்து  இந்த சந்திப்பின்பொது ஆராயப்பட்டதாக ஜெய்சங்கர் தெரிவித்துள்ளார்.
+Jaishankar said that the meeting was investigated on the mutual benefits that can be developed by further strengthening our bilateral relations.
 
-இலங்கையின் பொருளாதார சவால்கள் முன்னோக்கிய பாதை குறித்தும் ஜேவிபி தலைவருடனான பேச்சுவார்த்தைகளின் போது ஆராயப்பட்டதாக இந்திய வெளிவிவகார அமைச்சர் தெரிவித்துள்ளார்.
+The Indian External Affairs Minister said that the economic challenges of Sri Lanka were also investigated during talks with the JVP leader.
 
-இந்தியா தனது அயல்நாட்டிற்கு முதலிடம் என்ற கொள்கை காரணமாகவும் சாகர் கொள்கை காரணமாகவும் இலங்கையின் நண்பனாகவும் நம்பகதன்மை மிக்க சகாவாகவும் விளங்கும் என இந்தியவெளிவிவகார அமைச்சர் தெரிவித்துள்ளார்.
+The Minister of India has said that India will be a friend of Sri Lanka and a credible colleague due to the policy of its foreign country and Sagar policy.
 
 ◼️
 
 [Data](articles/26783a43.json)
+
+[Extended Data](ext_articles/26783a43.ext.json)
 
 ---
 
@@ -198,19 +204,21 @@ The shooting had been made by saying that he had arrived in a car to be CID offi
 
 ---
 
-### நடிகர் விஜயகாந்தின் உருவத்தை கையில் பதித்தார் பிரேமலதா
+### Premalatha posted the image of actor Vijayakanth
 
 *2024-02-05 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175597) · `ta`
 
-மறைந்த நடிகர் விஜயகாந்தின் நினைவாக அவரது மனைவி பிரேமலதா உருவப்படத்தை  வலது கையில் பச்சை குத்தியுள்ளார்.
+In honor of the late actor Vijayakanth, his wife Premalatha has tattooed the portrait.
 
-நடிகரும் தேமுதிக கட்சியிக் தலைவருமான விஜயகாந்த் கடந்த வருடம் டிசம்பர் 28ஆம் திகதி காலமான நிலையில் அவரது உடல் அடக்கம் செய்யப்பட்ட கோயம்பேடு தேமுதிக தலைமை அலுவலகத்தில் பலரும் அஞ்சலி செலுத்தி வருவதுடன் பிரேமலதாவுக்கு நேரில் ஆறுதலும் கூறி வருகின்றனர்.
+Actor and TMC leader Vijayakanth passed away on December 28 last year at the Coimbatore Temutika headquarters, who are being buried at the Coimbatore Temutika headquarters.
 
-இந்நிலையில், பிரேமலதா தனது கணவர் விஜயகாந்த்தின் உருவத்தை தன்னுடைய வலது கையில் பச்சை குத்தியுள்ளார். அழகாக பச்சை குத்தப்பட்டுள்ள விஜயகாந்தின் உருவம் அனைவரின் கவனத்தையும் ஈர்த்து வருகிறது.
+In this case, Premalatha tattooed her husband Vijayakanth's image in her right hand.The image of Vijayakanth, who is beautifully tattooed, is attracting everyone's attention.
 
 ◼️
 
 [Data](articles/3435e9ac.json)
+
+[Extended Data](ext_articles/3435e9ac.ext.json)
 
 ---
 
@@ -768,21 +776,23 @@ A bond maturing on 01.07.2028 was quoted at 12.70/78. (Colombo/Feb5/2024)
 
 ---
 
-### පාන් ගැසට්ටුව නිසා පාන් කන්න තියෙන අවස්ථාවත් නැතිවෙනවලු
+### The bread gazette is also the opportunity to eat
 
 *2024-02-05 10:49:51* · [`adalk`](https://www.ada.lk/breaking_news/පාන්-ගැසට්ටුව-නිසා-පාන්-කන්න-තියෙන-අවස්ථාවත්-නැතිවෙනවලු/11-407903) · `si`
 
-පාන් කියා ගන්නවත් ඉන්න බැරි ජනතාවට පාන් කෑල්ලක්වත් කන්න තිබෙන අවස්ථාව පාන්වලට ගැසෙට්ටු ගසා නැති නොකරන්න යයි සිය සංවිධානය ඊට අදාළ බලධාරීන්ගෙන් ඉල්ලා සිටින බව ශ්‍රී ලංකා ජාතික පෙරමුණේ නායක අසේල සම්පත් මහතා අද(5) ඇල්පිටියේදී කීවේය.
+The Sri Lanka National Front Leader Asela Sampath said that the relevant authorities today (5) at Elpitiya, the Sri Lanka National Association said that the people who could not stick to bread.
 
-පාන්වලට ගැසෙට්ටු ගැසීම සම්බන්ධයෙන් අද (5) ඇල්පිටියේ පැවති මාධය හමුවකදී අසේල මහතා එසේ කීවේය.
+At the meeting held at a media briefing held in Alpitting today, Mr. Asela said that today.
 
-එහිදී තවදුරටත් කතා කරමින් බලධාරීන් කළ යුතුව ඇත්තේ පාන් වලට ගැසෙට්ටු ගැසීම නොව පාන් ගෙඩියක ඇති ග්රෑම් එකක මිලක් තීරනය කළ බව ද අසේල මහතා කීවේය.
+The authorities continue to do so, the authorities have to do a priced of a gram of a bread not gathered.
 
-මේ දියත් වන්නේ පාන් වලට ගැසෙට්ටු ගසා බේකරි හිමියන් බය කොට ඔවුන් පාන් නිශ්පාදනයෙන් ඈත්කිරීමේ වැඩපිළිවෙළක් බවද අසේල මහතා කීවේය.මේ පාන් ගැසෙට්ටුව නිසා දැන් දැන් ආපනශාලා හිමියන්ද පාන් අලෙවි කිරීමෙන් වැලකී සිටින බවද අසේල මහතා කීවේය.
+Mr. Asela said that the laundry sheet is now a program to spread bread from bread and producing bread from selling bread.
 
 ◼️
 
 [Data](articles/4b3471aa.json)
+
+[Extended Data](ext_articles/4b3471aa.ext.json)
 
 ---
 
@@ -1811,6 +1821,8 @@ According to the Constitution of the country, it has been announced that Vice Pr
 ...
 
 [Data](articles/f4b88f9c.json)
+
+[Extended Data](ext_articles/f4b88f9c.ext.json)
 
 ---
 

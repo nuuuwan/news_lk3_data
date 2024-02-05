@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 12:49:14**
+As of **2024-02-05 13:02:35**
 
 ## Newspaper Stats
 
-*Scraped **4,875** Articles*
+*Scraped **4,879** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 420
 virakesarilk | 558
 adaderanalk | 606
 tamilmirrorlk | 622
-adaderanasinhalalk | 623
+adaderanasinhalalk | 627
 dailymirrorlk | 681
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,875 (100.0%) of 4,875 articles have been extended.
+4,875 (99.9%) of 4,879 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### කලපලුවාවේ ධම්මරතන හිමි ඝාතනය සම්බන්ධයෙන් තිදෙනෙක් අත්අඩංගුවට
+
+*2024-02-05 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192997) · `si`
+
+ගම්පහ,මල්වතුහිරිපිටිය ප්‍රදේශයේ විහාරස්ථානයක් තුළදී පසුගිය ජනවාරි මස 23වනදා ස්වාමීන් වහන්සේ නමක් වෙඩි තබා ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගෙන ඇති බව වාර්තාවෙයි.
+
+වෙඩි වැදීමෙන් අපවත් වූයේ ජ්‍යෝතිෂය කටයුතු සඳහා සුප්‍රසිද්ධව සිටි පූජ්‍ය කලපලුවාවේ ධම්මරතන නම් වයස අවුරුදු 44ක හිමිනමකි.
+
+මෝටර් රථයකින් පැමිණි සිව්දෙනෙකු තමන් CID නිලධාරීන් බව පවසා මෙම වෙඩිතැබීම සිදුකර පළා ගොස් තිබුණි.
+
+◼️
+
+[Data](articles/1d5ecd03.json)
+
+---
 
 ### Senthil Thondaman discusses with the Indian High Commission in Sri Lanka on the development of the East and the Upcountry
 
@@ -63,6 +79,30 @@ Minister Douglas Devananda spoke to the President and the Minister of External A
 [Data](articles/81b50fc0.json)
 
 [Extended Data](ext_articles/81b50fc0.ext.json)
+
+---
+
+### විශ්‍රාමික තැපැල් ස්ථානාධිපතිවරයා අනපේක්ෂිත ලෙස මරුට
+
+*2024-02-05 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192996) · `si`
+
+ගසක් කපා බිම හෙළීමට උත්සාහ කිරීමේදී එම ගසටම යටවී දඹුල්ල සිසිරවත්ත ප්‍රදේශයේ පදිංචිව සිටි විශ්‍රාමික තැපැල් ස්ථානාධිපතිවරයකු මියගොස් ඇතැයි දඹුල්ල පොලීසිය කියයි.
+
+එසේ මියගොස් ඇත්තේ දඹුල්ල සිසිරවත්ත ප්‍රදේශයේ පදිංචිව සිටි ඩබ්ලිව්. එම්. ජයසේන නම් හැත්තෑ තුන් හැවිරිදි අයෙකි.
+
+දඹුල්ල, අතුපාරයාය ප්‍රදේශයේ ඔහුගේ හිතවතුන්ගේ ගෙවත්තක තිබූ විශාල කොලොන් ගසක් කපා ඉවත්කිරීම සඳහා කිහිපදෙනෙකු එක්වී තිබුණි.
+
+අඩි පනහකට වඩා උසින් යුතු මෙම කොලොන් ගස කිහිපදෙනෙකු කියත් යන්ත්‍රයක් යොදාගෙන කැපීම සිදුකරද්දී කඳ මැදට ලණුවක් දමා තවත් කිහිපදෙනෙකු ගස පෙරළීම සඳහා උත්සාහ කර ඇතැයි පොලීසිය කියයි.
+
+එම කඳ ඇදීම සඳහා ඇති ලණුව දිග ප්‍රමාණය මදි වීම නිසා ඇදීම සිදුකළ පිරිස ගස පෙරළෙනවාත් සමඟ ඉන් ඉවතට පැනීමට සාකච්ඡා කරගෙන තිබුණු බව ඥාතීහු කියති.
+
+එහෙත් එම ගස එකවරම ගස බිම පතිත වී ඇති අතර ඊට එම පුද්ගලයා යටවී තිබුණි.
+
+සිද්ධියෙන් පසුව ප්‍රදේශවාසීන් ගසට යට වී සිටි පුද්ගලයාව ඉන් එළියට ගෙන දඹුල්ල මූලික රෝහලට රැගෙන යන අවස්ථාව වන විටත් ඔහු මියගොස් සිටි බව රෝහල් ප්‍රකාශකයෙකු සඳහන් කළේය.
+
+◼️
+
+[Data](articles/b5d4a4bf.json)
 
 ---
 
@@ -147,6 +187,48 @@ According to the Information Technology section enacted in 2000, you will be sen
 [Data](articles/680f5586.json)
 
 [Extended Data](ext_articles/680f5586.ext.json)
+
+---
+
+### අධික මීදුමෙන් දිල්ලි ගුවන් ගමන්වලට බලපෑම්
+
+*2024-02-05 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192995) · `si`
+
+අධික මීදුම් සහිත තත්ත්වය හේතුවෙන් දිල්ලියේ ගුවන් ගමන් සඳහා දැඩි බලපෑම් එල්ල වී තිබේ.
+
+ඉන්දිරා ගාන්ධි ජාත්‍යන්තර ගුවන්තොටුපොළ පවසන්නේ, මේ හේතුවෙන් ගුවන් ගමන් කිහිපයක්ම අද (05) දිනයේ ප්‍රමාද වනු ඇති බවය.
+
+යාවත්කාලීන ගුවන් ගමන් තොරතුරු පිළිබඳව අදාළ සමාගම් සම්බන්ධ කර ගනිමින් මගීන්ව දැනුවත් කර තිබේ.
+
+ඊයේ (04) දිනයේ එම ප්‍රදේශයට අධික වර්ෂාපතනයක් පැවති අතර පංජාබ් සහ බටහිර රාජස්ථාන් ප්‍රදේශයේ මීදුම් තත්ත්වය පවතින බව ඉන්දීය මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/2ed62bc7.json)
+
+---
+
+### ග්‍රැමි සම්මාන උළෙලේ දී ඉන්දියාව නැවතත් ඉදිරියට
+
+*2024-02-05 11:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192994) · `si`
+
+2024 ග්‍රැමී සම්මාන උළෙලේ දී ඉන්දීය බෙර වාදක සකීර් හුසේන් සහ බටනාලා වාදක රාකේෂ් චෞරාසියා "Best Global Music Performance"  සම්මානයට පාත්‍ර වී තිබේ.
+
+එමෙන්ම සකීර් හුසේන් ප්‍රමුඛ ශක්ති නම් සංගීත කණ්ඩායම  "Best Global Music Album" සම්මානය ද දිනාගත්තේය.
+
+එහි සංගීත ශිල්පී ලෙස ශංකර් මහදේවන්, වායලින් වාදක ලෙස එල් ශංකර්, බෙර වාදක වික්කු විනයක්‍රම් සහ ගිටාර් වාදක ලෙස බ්‍රිතාන්‍ය ජෝන් මැක්ලෝලින් කටයුතු කර තිබේ.
+
+66 වැනි ග්‍රැමී සම්මාන උළෙල මේ වන විට අමෙරිකාවේ ලොස්ඇන්ජලිස් නුවර උත්කර්ශවත් ලෙස පැවැත් විය.
+
+වසරේ ගීතයට හිමි සම්මානය බිලී අයිලිෂ් (Billie Eilish)  දිනාගත්තේ Baby සිනමාපටයේ එන What Was I Made For? ගීතය සඳහායි.
+
+වසරේ ගීත ඇල්බමයට හිමි සම්මානය හිමිවුණේ ටේලර් ස්විෆ්ට්ගේ (Taylor Swift)   Midnights ඇල්බමයටයි.
+
+මේ අතර වසරේ හොඳම ගීත නිර්මාණය වූයේ මයිලි සයිරස්ගේ (Miley Cyrus)   Flowers නම් ගීතය යි.
+
+◼️
+
+[Data](articles/f30c7035.json)
 
 ---
 
@@ -1909,69 +1991,5 @@ The controversial Bill garnered not only the attention of local activists and or
 [Data](articles/f38d6984.json)
 
 [Extended Data](ext_articles/f38d6984.ext.json)
-
----
-
-### Mervyn takes a coffin to Borella cemetery
-
-*2024-02-04 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192976) · `si`
-
-Former Minister Mervyn Silva and several others had gone to Borella Cemetery today (04).
-
-The security officers of the area were against the Borella cemetery and there was no restriction.
-
-However, the protesters, including the security personnel, had entered the protesters.
-
-◼️
-
-[Data](articles/eb91675a.json)
-
-[Extended Data](ext_articles/eb91675a.ext.json)
-
----
-
-### Les Enfants Du Paradis – Part III
-
-*2024-02-04 19:18:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/les-enfants-du-paradis-part-iii/) · `en`
-
-The collapse of the rule of law can be illustrated by three examples.
-
-...
-
-[Data](articles/56065451.json)
-
-[Extended Data](ext_articles/56065451.ext.json)
-
----
-
-### Anura Kumara to leave for India tomorrow on official invitation
-
-*2024-02-04 19:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Anura-Kumara-to-leave-for-India-tomorrow-on-official-invitation/155-276310) · `en`
-
-Colombo, Feb. 04 (Daily Mirror)- A group led by NPP leader Anura Kumara Dissanayake is to leave for India tomorrow on an official invitation by the Indian government, party sources said.
-
-Parliamentarian Vijitha Herath,  NPP Secretary Dr. Nihal Abeysinghe and National Executive Member Prof. Anil Jayantha will accompany the NPP leader.
-
-◼️
-
-[Data](articles/525bc2ba.json)
-
-[Extended Data](ext_articles/525bc2ba.ext.json)
-
----
-
-### Anura Kumara to leave for India tomorrow on official invitation
-
-*2024-02-04 19:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-Kumara-to-leave-for-India-tomorrow-on-official-invitation/108-276310) · `en`
-
-Colombo, Feb. 04 (Daily Mirror)- A group led by NPP leader Anura Kumara Dissanayake is to leave for India tomorrow on an official invitation by the Indian government, party sources said.
-
-Parliamentarian Vijitha Herath,  NPP Secretary Dr. Nihal Abeysinghe and National Executive Member Prof. Anil Jayantha will accompany the NPP leader.
-
-◼️
-
-[Data](articles/8b74e5de.json)
-
-[Extended Data](ext_articles/8b74e5de.ext.json)
 
 ---

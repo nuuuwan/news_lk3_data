@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 16:48:11**
+As of **2024-02-05 17:02:41**
 
 ## Newspaper Stats
 
-*Scraped **4,926** Articles*
+*Scraped **4,928** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 60
 bbccomsinhala | 73
-dbsjeyarajcom | 138
+dbsjeyarajcom | 139
 economynextcom | 260
 islandlk | 263
 dailyftlk | 280
 newsfirstlk | 299
-adalk | 425
+adalk | 426
 virakesarilk | 565
 adaderanalk | 612
 tamilmirrorlk | 627
@@ -26,7 +26,7 @@ dailymirrorlk | 688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,926 (100.0%) of 4,926 articles have been extended.
+4,926 (100.0%) of 4,928 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -761,6 +761,24 @@ Minister Douglas Devananda spoke to the President and the Minister of External A
 [Data](articles/81b50fc0.json)
 
 [Extended Data](ext_articles/81b50fc0.ext.json)
+
+---
+
+### අපුර රැඳවියෝ ලක්ෂ 140ක් බන්ධනාගාරයට උපයා දෙති
+
+*2024-02-05 12:01:12* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-රැඳවියෝ-ලක්ෂ 140ක්-බන්ධනාගාරයට-උපයා-දෙති/11-407906) · `si`
+
+අනුරාධපුර බන්ධනාගාරයේ රැඳවියන් විසින් නිෂ්පාදනය කරනු ලබන ආහාර වලින් පසුගිය වර්ෂයේදී (2023) පමණක් රුපියල් ලක්ෂ එකසිය හතළිස් හයක පමණ මුදලක් බන්ධනාගාර දෙපාර්තමේන්තුව මගින්  උපයා ගෙන ඇති බව අනුරාධපුර බන්ධනාගාර අධිකාරී  මොහාන් කරුණාරත්න මහතා පැවසීය.
+
+කිසිදු රසායනික පොහොරක් භාවිතා නොකර අහස් වැස්සෙන් පමණක් අනුරාධපුර බන්ධනාගාරයේ එළිමහන් සිර කඳවුර තුළ අක්කර පහක පමණ භූමි ප්‍රමාණයක වී වගාව සිදු කර ඇති අතර මේ වන විට එහි අස්වනු නෙළීම ආරම්භ කර තිබේ.
+
+වාර්ෂිකව මෙම ආකාරයට කාබනික වී වගාව රැඳවියන්ගේ සහායෙන් සිදු කරනු ලබන අතර මීට අමතරව පලතුරු සහ එළවළු වර්ගද මෙම එළිමහන් සිර කඳවුර තුල වගා කෙරෙන බවත් මීට අමතරව  නිෂ්පාදනය කරනු ලබන බේකරි ආහාර වර්ග අලෙවි කිරීම ද ඇතුළුව පසුගිය වර්ෂයේදී පමණක්  රුපියල් ලක්ෂ 146ක ආදායමක් බන්ධනාගාර දෙපාර්තමේන්තු උපයා ඇති බව අනාවරණය විය.
+
+අනුරාධපුර බන්ධනාගාරයේ රැඳවියන් විසින් සිදු කරනු ලබන කාබනික බෝග වගාවෙන් පමණක්  පසුගිය වර්ෂය තුළදී පමණක් රුපියල් ලක්ෂ 70කට වැඩි ආදායමක් ශ්‍රී ලංකා බන්ධනාගාර දෙපාර්තමේන්තුව විසින් උපයා ඇති බව බන්ධනාගාර අධිකාරීවරයා කීය.
+
+...
+
+[Data](articles/a785f637.json)
 
 ---
 
@@ -2051,25 +2069,5 @@ Police say that 667 suspects were arrested in the last 24 hours in the country u
 [Data](articles/71441172.json)
 
 [Extended Data](ext_articles/71441172.ext.json)
-
----
-
-### Mervyn Silva went with the coffin
-
-*2024-02-05 07:42:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவப்பெட்டியுடன்-மயானம்-சென்றார்-மேர்வின்-சில்வா/175-332679) · `ta`
-
-Some people, including former minister Mervyn Silva, went to the Borella cemetery yesterday evening with a coffin.
-
-It is reported that they went with the coffin to protest the Ceremony Backup Act.
-
-When the team tried to enter the Borella cemetery, there was a clash between the two groups as security officers opposed it.
-
-However, despite the opposition of security officials, the former minister and others have entered and expressed their expectation.
-
-◼️
-
-[Data](articles/dd35f64c.json)
-
-[Extended Data](ext_articles/dd35f64c.ext.json)
 
 ---

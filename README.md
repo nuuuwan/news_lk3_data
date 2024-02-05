@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 06:55:03**
+As of **2024-02-05 07:16:45**
 
 ## Newspaper Stats
 
-*Scraped **4,807** Articles*
+*Scraped **4,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 414
 virakesarilk | 546
 adaderanalk | 600
 tamilmirrorlk | 607
-adaderanasinhalalk | 610
+adaderanasinhalalk | 611
 dailymirrorlk | 676
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,798 (99.8%) of 4,807 articles have been extended.
+4,807 (100.0%) of 4,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### ප්‍රදේශ කිහිපයකට වැසි වාර කිහිපයක්
+
+*2024-02-05 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192981) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව සහ මාතලේ දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව. 2න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/1beabbd8.json)
+
+---
 
 ### Namibia's president has passed away
 
@@ -342,6 +360,8 @@ The outreach of a crane is 72 meters, spanning to operate 26TEUs across. Back re
 
 [Data](articles/cfd1d5e0.json)
 
+[Extended Data](ext_articles/cfd1d5e0.ext.json)
+
 ---
 
 ### John Keells Group’s Plasticcycle and Pearl Protectors collect over 1 MT of plastic waste from seabed
@@ -353,6 +373,8 @@ Plasticcycle, the social entrepreneurship project of the John Keells Group & The
 ...
 
 [Data](articles/a327e8e5.json)
+
+[Extended Data](ext_articles/a327e8e5.ext.json)
 
 ---
 
@@ -436,6 +458,8 @@ For both business and leisure travellers, the flights will serve as a gateway, o
 
 [Data](articles/ffdacdf9.json)
 
+[Extended Data](ext_articles/ffdacdf9.ext.json)
+
 ---
 
 ### AIA Insurance empowers women entrepreneurs
@@ -452,6 +476,8 @@ Chathuri Munaweera, CEO AIA Insurance said, ” This partnership is a testimony 
 
 [Data](articles/4b451c60.json)
 
+[Extended Data](ext_articles/4b451c60.ext.json)
+
 ---
 
 ### Yara Technologies enters African market, targets rapidly-growing FinTech
@@ -463,6 +489,8 @@ Yara Technologies Sri Lanka’s premier EdFinTech company, expanded into the Afr
 ...
 
 [Data](articles/d3afe114.json)
+
+[Extended Data](ext_articles/d3afe114.ext.json)
 
 ---
 
@@ -480,6 +508,8 @@ Shaliya Silva, Assistant General Manager Training and Development stated that th
 
 [Data](articles/b7626d9c.json)
 
+[Extended Data](ext_articles/b7626d9c.ext.json)
+
 ---
 
 ### Nadodi’s Nomadic Dining takes centre stage at Cinnamon Grand Colombo
@@ -493,6 +523,8 @@ Founded by Cinnamon Group CEO, Abbi Kanthasamy, in collaboration with Chef Johns
 ...
 
 [Data](articles/f8120848.json)
+
+[Extended Data](ext_articles/f8120848.ext.json)
 
 ---
 
@@ -1869,27 +1901,5 @@ Accordingly, the promotions of the 211 Army Officers were as follows; 02 Brigadi
 [Data](articles/d2128f22.json)
 
 [Extended Data](ext_articles/d2128f22.ext.json)
-
----
-
-### Presidential election - New President appointed on October 14
-
-*2024-02-04 12:59:24* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-ඔක්තෝබර්-පළමු-සතියේදී---නව-ජනපති-ඔක්තෝබර්-14දා-පත්වෙයි/11-407891) · `si`
-
-The best doctor to build the deadly sick country is that the presidential election will be held on October 14, Minister Harin Fernando, Minister Harin Fernando.
-
-He said that although he would be reluctant, but the people of the country would have been responsible for the president in the future, even if they were reluctant.
-
-The people have bowed the bitter medicine, but it is due to the intensive care unit again due to the ward, which is in the ward.
-
-President Ranil Wickremesinghe has been prepared to be held at the Rangiri Dambulla International Cricket Stadium on the 5th of the 5th of the country's land ownership.. Harin Fernando said this on the 3rd when he came to an observation work in the program.
-
-Ranil Wickremesinghe is a member of the presidential election in the presidential election and another 47 percent of the country's elections is a dream and Harin Fernando said that he would never come true.
-
-...
-
-[Data](articles/a979c5ec.json)
-
-[Extended Data](ext_articles/a979c5ec.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 02:32:49**
+As of **2024-02-06 02:48:55**
 
 ## Newspaper Stats
 
@@ -26,21 +26,23 @@ dailymirrorlk | 714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,014 (100.0%) of 5,015 articles have been extended.
+5,015 (100.0%) of 5,015 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
 
-### கஞ்சா பயிரிடுவதற்கு அமைச்சரவை அனுமதி
+### Cabinet allowed to cultivate cannabis
 
 *2024-02-06 02:02:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சா-பயிரிடுவதற்கு-அமைச்சரவை-அனுமதி/175-332737) · `ta`
 
-இந்த நிலையில், அமைச்சரவையின் அனுமதி கிடைத்தமையால்  மகிழ்ச்சியடைகின்றேன் என்று டயனா கமகே தெரிவித்துள்ளார். (a)
+In this case, I am happy with the approval of the Cabinet, ”said Diana Kamage.. (A)
 
 ◼️
 
 [Data](articles/0a9e1551.json)
+
+[Extended Data](ext_articles/0a9e1551.ext.json)
 
 ---
 

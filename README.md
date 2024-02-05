@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 03:17:16**
+As of **2024-02-06 03:33:58**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,015 (99.9%) of 5,021 articles have been extended.
+5,021 (100.0%) of 5,021 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,35 +46,39 @@ In this case, I am happy with the approval of the Cabinet, ”said Diana Kamage.
 
 ---
 
-### யாழ்ப்பாணத்தில் 14 மாதங்கள் நிரம்பிய குழந்தை பரிதாபமாக உயரிழப்பு!
+### 14 months -long baby in Jaffna
 
 *2024-02-06 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/175670) · `ta`
 
-யாழ்ப்பாணத்தில் 14 மாதங்கள் நிரம்பிய குழந்தை ஒன்று திங்கட்கிழமை (5) உயிரிழந்தமை சோகத்தை ஏற்படுத்தியுள்ளது. இதன்போது சாவகச்சேரி - இத்தியடி பகுதியை சேர்ந்த ரகுராம் சாந்திரா என்ற குழந்தையே இவ்வாறு உயிரிழந்துள்ளது.
+The death of a 14 -month -old child in Jaffna on Monday (5). The death of Raghuram Chandra, a resident of Chavakachcheri - Ithiyadi area.
 
-குறித்த குழந்தை இரண்டு நாட்கள் காய்ச்சலால் பீடிக்கப்பட்டிருந்தது. இந்நிலையில் குழந்தை திங்கட்கிழமை (5) காலை 8 மணியளவில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டது. இருப்பினும் சிகிச்சை பலனின்றி திங்கட்கிழமை (5) பி.ப 1 மணியளவில் குழந்தை உயிரிழந்தது.
+The baby was suffering from fever for two days. The child was admitted to the Jaffna Teaching Hospital on Monday (5) at 8 am. However, the baby died at 1 pm on Monday (5) without treatment.
 
-குழந்தையின் சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+Namasivayam Premkumar carried out a death investigation into the death of the child. The body was handed over to relatives after anatomical examination.
 
 ◼️
 
 [Data](articles/ed9d8f59.json)
 
+[Extended Data](ext_articles/ed9d8f59.ext.json)
+
 ---
 
-### மாடியில் வேலை செய்த குடும்பஸ்தர் கீழே விழுந்து உயிரிழப்பு!
+### Farmers who worked on the floor fall down and die!
 
 *2024-02-06 01:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175668) · `ta`
 
-கொக்குவில் பகுதியில் திங்கட்கிழமை (05) 2வது மாடி கட்டிடத்தில் வேலை செய்த இளம் குடும்பஸ்தர் ஒருவர் தவறி கீழே விழுந்த நிலையில் உயிரிழந்துள்ளார். இச்சம்பவத்தில் இளவாலை - பெரியவிளான் பகுதியை சேர்ந்த சூசை சுதர்சன் (வயது 38) என்ற குடும்பஸ்தரே இவ்வாறு உயிரிழந்துள்ளார்.
+A young family member who worked in the 2nd -storey building in Kokuvil on Monday (05) died after falling down. The deceased is Susai Sudarshan (age 38) from Ilavalai - Periyavilan.
 
-குறித்த நபர்  திங்கட்கிழமை (05) வேலை செய்துகொண்டிருந்தவேளை இச்சம்பவம் இடம்பெற்றுள்ளது. இதன்போது அவர் மீட்கப்பட்டு யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
+The incident took place while the person was working on Monday (05). He was rescued and admitted to the Jaffna Teaching Hospital.
 
-இந்நிலையில் சிகிச்சை பலனின்றி உயிரிழந்தார். அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அறிக்கையில் நமசிவாயம் பிறேம்குமார் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+In this case, he died without treatment. Namasivayam Premkumar carried out a sudden death investigation into his body. The body was handed over to relatives after anatomical examination.
 
 ◼️
 
 [Data](articles/55f3ec4f.json)
+
+[Extended Data](ext_articles/55f3ec4f.ext.json)
 
 ---
 
@@ -170,69 +174,83 @@ The statement further states that the king has initiated the necessary treatment
 
 ---
 
-### யாழில் அனுமதிப்பத்திரமின்றி தேக்கு மரப் பலகைகளை கொண்டுசென்றவர் கைது
+### A man arrested for carrying teak wooden boards without permission in Jaffna
 
 *2024-02-05 23:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/175660) · `ta`
 
-யாழ்ப்பாணம் - புத்தூர் பகுதியில் அனுமதிப் பத்திரமின்றி தேக்கு மரப் பலகைகளை சட்டவிரோதமாக கொண்டுசென்றவர் திங்கட்கிழமை (05) கைது செய்யப்பட்டார்.
+He was arrested on Monday (05) for illegally carrying teak wooden boards without permission in Jaffna - Buddhur area.
 
-வன்னிப் பகுதியில் இருந்து லொறியில் தேக்கு மரப் பலகைகள் கொண்டுவரப்பட்ட போதே காங்கேசன்துறை பிராந்திய குற்றத்தடுப்பு பிரிவு பொலிஸாரால் சந்தேக நபர் கைது செய்யப்பட்டார்.
+The suspect was arrested by the Kankesanthurai Regional Criminal Investigation Division when the teak wooden boards were brought in a lorry from the Vanni area.
 
-மேலதிக சட்ட நடவடிக்கைக்காக கைப்பற்றப்பட்ட பொருட்களுடன் சந்தேக நபரை அச்சுவேலி பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளார்.
+The suspect has been handed over to the Achchuveli police with goods seized for further legal action.
 
 ◼️
 
 [Data](articles/b33297ed.json)
 
+[Extended Data](ext_articles/b33297ed.ext.json)
+
 ---
 
-### கஞ்சாசெடியை பயிரிட அமைச்சரவை அனுமதி
+### Cabinet permits to cultivate cannabis
 
 *2024-02-05 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175662) · `ta`
 
-ஏற்றுமதி நோக்கத்திற்காக கஞ்சாசெடியை பயிரிடுவதற்கு அமைச்சரவையின் அங்கீகாரம் கிடைத்துள்ளதாக சுற்றுலாத்துறை இராஜாங்க அமைச்சர் டயனா கமகே தெரிவித்தார்.
+Minister of Tourism Diana Kamage said the Cabinet has been approved to cultivate cannabis for export.
 
-இராஜாங்க அமைச்சர் டயனா கமகேவினால் சமர்ப்பிக்கப்பட்ட அமைச்சரவைப் பத்திரத்திற்கு அமைச்சரவை அங்கீகாரம் கிடைத்துள்ளமை குறிப்பிடத்தக்கது.
+It is noteworthy that the Cabinet paper has been approved by the Cabinet paper submitted by the Minister of State Diana Kamage.
 
-இவ்வாறு அங்கீகாரம் கிடைத்துள்ளமை தனக்கு மிகவும் மகிழ்ச்சியைத் தருவதாக அவர் இராஜாங்க அமைச்சர் டயனா கமகே குறிப்பிட்டுள்ளார்.
+He said that he was very happy that he was recognized.
 
 ◼️
 
 [Data](articles/123abe3e.json)
 
+[Extended Data](ext_articles/123abe3e.ext.json)
+
 ---
 
-### சிறைச்சாலையிலுள்ள சந்தேக நபர்களை ஓன்லைன் முறையின் மூலம் நீதித்துறை நடவடிக்கைகளுக்கு அனுப்ப திட்டம் -  சிறைச்சாலைகள் ஆணையாளர் நாயகம்
+### Plan to send suspects in prison to judicial activities through the online system
 
 *2024-02-05 23:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175663) · `ta`
 
-சிறைச்சாலையில் உள்ள சந்தேக நபர்களை ஓன்லைன் முறையின் மூலம் நீதித்துறை நடவடிக்கைகளுக்கு அனுப்புவதற்கான சட்டத் திருத்தத்தை நீதி அமைச்சு மேற்கொண்டு வருகிறது என சிறைச்சாலைகள் ஆணையாளர் நாயகம் துஷார உபுல்தெனிய தெரிவித்தார்.
+The Commissioner General of Prisons Tushara Upuldeeniya said that the Ministry of Justice is making amendment to send the suspects in the prison through the online system.
 
-ஐக்கிய நாடுகளின் குற்றத்தடுப்பு அலுவலகத்தின் அனுசரணையுடன் தென் மாகாணத்தில் இந்த வேலைத்திட்டம் சம்பிரதாயபூர்வமாக நடைமுறைப்படுத்தப்பட்டு வருவதாகவும், நாடளாவிய ரீதியில் இதனை நடைமுறைப்படுத்துவதில் கவனம் செலுத்தி, உரிய சட்ட திருத்தங்கள் மேற்கொள்ளப்படும் எனவும் அவர் தெரிவித்தார்.
+He said that the program is being formally implemented in the Southern Province with the sponsorship of the United Nations Crime Office and focused on implementing it nationwide.
 
-பல்லேகல திறந்தவெளி சிறைச்சாலை முகாமில் சனிக்கிழமையன்று (03) இடம்பெற்ற நிகழ்வொன்றின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே உபுல்தெனிய மேற்கண்டவாறு தெரிவித்தார்.
+Upuldeniya said this while speaking to the media after an event held on Saturday (03) at the Pallekela Open Prison Camp.
 
-கோவிட் தொற்றுநோய்க்கு கைதிகள் பலியாவது உட்பட பல காரணிகளால், கொவிட்  காலத்தில்   சிறையில் உள்ள சந்தேக நபர்களை ஓன்லைன் அமைப்பின் மூலம் நீதிமன்றத்தில் ஆஜர்படுத்திய துடன், அதன் நேர்மறையான அம்சங்களை மையமாகக் கொண்டு, புதிய திட்டம்  ஆரம்பிக்கப்படும்  என்றும் கூறினார்.
+Due to a number of factors, including the death of the Govid infection, the new project will be launched, focusing on its positive aspects of the Online by the Online Organization.
 
-...
+In the case of court judges, the Commissioner added that the number of prisoners is now doing things to extend the date of the investigation of the prisoner's investigation, which can reduce the problems of taking severe criminals to court.
+
+◼️
 
 [Data](articles/09d72d12.json)
 
+[Extended Data](ext_articles/09d72d12.ext.json)
+
 ---
 
-### சிவில் குற்றங்களில் ஈடுபடும் அனைவரையும் வீட்டுக் காவலில் வைக்கும் வேலைத்திட்டம் - இராஜாங்க அமைச்சர் அனுராத ஜயரத்ன
+### Housing Program for Housing Crimes - State Minister Anuradha Jayaratne
 
 *2024-02-05 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175659) · `ta`
 
-சிறைச்சாலைகளில் நெரிசலைக் குறைக்கும் நோக்கில் சிவில் குற்றங்களில் ஈடுபட்ட அனைவரையும் வீட்டுக் காவலில் வைக்கும் வேலைத்திட்டம் இவ்வருடம் நடைமுறைப்படுத்தப்படும் என நீதி மற்றும் சிறைச்சாலை விவகார இராஜாங்க அமைச்சர் அனுராத ஜயரத்ன தெரிவித்துள்ளார்.
+Minister of Justice and Prison Affairs Anuradha Jayaratne said that this year's program will be implemented by the housing detention program for all those involved in civil crimes in order to reduce congestion in prisons.
 
-இதற்கான சட்டங்களை தயாரிப்பதற்காக நியமிக்கப்பட்ட குழுவின் அறிக்கையை வழங்கிய பின்னர், சட்ட வரைவுப் பிரிவினால் அதற்கான சட்டங்கள் தயாரிக்கப்பட்டு வருவதாகவும், பணிகள் நிறைவடைந்த பின்னர் பாராளுமன்றத்தில் சமர்ப்பித்து ஐந்தவருடமே  சட்டமாக்கப்படும் எனவும் அவர் தெரிவித்தார்.
+He said that after issuing the report of the committee appointed to prepare the laws, the laws are being prepared by the Laws and that the law will be submitted to Parliament after completing the work.
 
-ஐக்கிய நாடுகள் சபையின் போதைப்பொருள் மற்றும் குற்றத்தடுப்பு அலுவலகம் 05 மில்லியன் ரூபா பெறுமதியான பேக்கரி உபகரணங்களை பல்லேகல திறந்தவெளி சிறைச்சாலைக்கு கடந்த சனிக்கிழமை (03) வழங்கியதன் பின்னர் கைதிகளுக்கான பேக்கரி பயிற்சிப் பாடசாலையை திறந்து வைக்கும் நிகழ்வில் கலந்து கொண்ட இராஜாங்க அமைச்சர் இதனை தெரிவித்தார்.
+The Minister of State for Drugs and Criminal Investigation at the opening of the bakery training school for the Pallekela Open Prison last Saturday (03) at the Pallekela Open Prison.
+
+By implementing this project, many laws, such as the Bail Law, have to be amended, and the homeowner is monitored by GPS technology?It was also urged to do this by the prison and a nearby police station.
+
+The Minister of State said that about 13,000 inmates were forced to stay in prisons, but the number of prisoners arrested daily by justice has increased to 33,000.
 
 ...
 
 [Data](articles/eab15755.json)
+
+[Extended Data](ext_articles/eab15755.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 22:17:20**
+As of **2024-02-05 22:32:48**
 
 ## Newspaper Stats
 
-*Scraped **4,993** Articles*
+*Scraped **4,994** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 302
 adalk | 432
 virakesarilk | 579
-adaderanalk | 619
+adaderanalk | 620
 tamilmirrorlk | 634
 adaderanasinhalalk | 646
 dailymirrorlk | 706
@@ -26,11 +26,27 @@ dailymirrorlk | 706
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,987 (99.9%) of 4,993 articles have been extended.
+4,992 (100.0%) of 4,994 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### ‘We must avoid falling into debt again and becoming a nation of beggars’ – President
+
+*2024-02-05 22:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97027/we-must-avoid-falling-into-debt-again-and-becoming-a-nation-of-beggars-president-) · `en`
+
+President Ranil Wickremesinghe on Monday underscored the distinctive accomplishment of the current government in providing land rights to the people of the country without the need for a revolution, despite numerous global movements advocating for land rights.
+
+Highlighting the initial success of the present government in in rescuing the country from bankruptcy, President Ranil Wickremesinghe also emphasized additional achievements such as the “Aswasuma” program benefiting 02 million people and salary increases for 1.5 million government employees.
+
+The President emphasized that the government achieved significant progress for the country’s betterment in just two years with the support of a partial parliament. He encouraged everyone to contemplate the potential advancements the country could achieve with the backing of all parliament members.
+
+...
+
+[Data](articles/04ad142c.json)
+
+---
 
 ### Thai PM urges state energy firm to invest in Sri Lanka’s solar farm
 
@@ -50,17 +66,21 @@ He said he urged the two executives to seek investment opportunities overseas, e
 
 [Data](articles/befdabca.json)
 
+[Extended Data](ext_articles/befdabca.ext.json)
+
 ---
 
-### மீண்டும் குறைவடையவுள்ள கடன், வைப்பு வட்டி வீதங்கள்?
+### Debt and deposit interest rates to decline again?
 
 *2024-02-05 21:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/175658) · `ta`
 
-வங்கி வட்டி வீதங்கள் மீண்டும் குறைவடையுமா?  மக்கள் கடன்களை பெற்றுக் கொள்ள பொருத்தமான காலமா? கடன்களுக்கான வட்டி விகிதம் குறைவடையுமா? அதேபோன்று வைப்புகளுக்கான வட்டி வீதமும்...
+Will bank interest rates be reduced again?Is it time for people to get loans?Will the interest rate on loans decrease?Similarly, the interest rate for deposits ...
 
 ◼️
 
 [Data](articles/74c6c1f8.json)
+
+[Extended Data](ext_articles/74c6c1f8.ext.json)
 
 ---
 
@@ -82,59 +102,71 @@ State Minister of Tourism further stated that the local investors will also have
 
 ---
 
-### மக்களுக்கான சேவையை உரியமுறையில் நிறைவேற்றுவதே அரச உத்தியோகத்தர்களின் கடமை - வடக்கு ஆளுநர்
+### The duty of the Public Officers is to fulfill the service of the people - the Northern Governor
 
 *2024-02-05 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/175645) · `ta`
 
-வடக்கு மாகாணத்தின் கல்வி அபிவிருத்தி தொடர்பான மீளாய்வு கூட்டம், கல்வி அமைச்சர் கலாநிதி சுசில் பிரேமஜயந்தவின் பங்கேற்புடன், யாழ் மத்திய கல்லூரியில் திங்கட்கிழமை (05) நடைபெற்றது.
+A review meeting on the Northern Province of the Northern Province was held on Monday (05) at the Jaffna Central College with the participation of Education Minister Dr. Susil Premajayantha.
 
-வடக்கு மாகாண  ஆளுநர் பி.எஸ்.எம். சார்ள்ஸின் தலைமையில் நடைபெற்ற இந்நிகழ்வில், பாராளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதன், மத்திய அமைச்சின் உயர் அதிகாரிகள், மாகாண அமைச்சின் அதிகாரிகள், கல்வித்துறைசார் உத்தியோகஸ்தர்கள், அதிபர்கள், ஆசிரியர்கள் என பலரும் கலந்துக்கொண்டனர்.
+Governor of the Northern Province BSM. The event, chaired by Charles, was attended by Parliamentarian Anganan Ramanathan, top officials of the Union Ministry, Officers of the Provincial Ministry, Educational Officers, Principals and Teachers.
 
-வடக்கு மாகாணத்தில் யாழ் மாவட்டத்தின் கல்வி அபிவிருத்தி தொடர்பிலேயே திங்கட்கிழமை (05) கூட்டத்தில் கலந்தாலோசிக்கப்பட்டது.
+The meeting was held on Monday (05) at the Education Development of the Jaffna District in the Northern Province.
 
-அந்தவகையில், கடந்த ஐந்து வருடங்களில் யாழ் மாவட்ட மாணவர்கள், தரம் ஐந்து, சாதாரண மற்றும் உயர் தரங்களில் பெற்றுக்கொண்ட பெறுபேறுகளின் அடிப்படையில், ஏனைய மாவட்டங்களுடன் ஒப்பிடுகையில் யாழ் மாவட்டத்தில் சிறந்த முன்னேற்றங்கள் ஏற்பட்டுள்ளதாக கல்வி அமைச்சின் அதிகாரிகள் குறிப்பிட்டனர்.
+According to officials from the Ministry of Education, the Jaffna district students have made the best advances in the Jaffna district compared to other districts based on the results of the Grade Five, Normal and High Qualifications in the last five years.
 
-எனினும் குறைந்த வருமானம் பெறும் குடும்பங்களை சேர்ந்த மாணவர்களின் கல்வி நிலை தொடர்பில் அதிக கரிசனை செலுத்த வேண்டியுள்ளதாகவும் அதிகாரிகள் குறிப்பிட்டனர்.
+However, officials said they had to pay more concern for the educational status of students from low -income families.
 
 ...
 
 [Data](articles/a15a2b52.json)
 
+[Extended Data](ext_articles/a15a2b52.ext.json)
+
 ---
 
-### இலங்கையில் புற்றுநோயால் சிறுவர்கள் அதிகம் பாதிப்பு  - விசேட வைத்திய நிபுணர் தீபால் பெரேரா
+### Deepal Perera is the most affected by cancer in Sri Lanka
 
 *2024-02-05 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/175607) · `ta`
 
-மக்களின் வாழ்க்கை முறையில் ஏற்பட்டுள்ள மாற்றத்தினால் இலங்கையில் புற்றுநோயால் சிறுவர்கள் பாதிக்கப்படுவது அதிகரித்துள்ளதாக அதிர்ச்சித் தகவல் வெளியாகியுள்ளது.
+Shocking reports have revealed that the change in the lifestyle of the people has increased the risk of cancer in Sri Lanka.
 
-கொழும்பு சீமாட்டி சிறுவர் வைத்தியசாலையின் சிறுவர் நோய் தொடர்பான விசேட வைத்திய நிபுணர் தீபால் பெரேரா இதனைத் தெரிவித்துள்ளார்.
+Deepal Perera, a specialist on children's illness at the Semati Children's Hospital in Colombo.
 
-ஆண்டுதோரும் வெளியாகும் தரவுகளின் படி புற்றுநோயால் பாதிக்கப்பட்ட சிறுவர்களின் எண்ணிக்கை இரட்டிப்பாகியுள்ளது. அதாவது 450 இல் இருந்து 900 ஆக அதிகரித்துள்ளது.
+According to data released annually, the number of children suffering from cancer has doubled. That means increased from 450 to 900.
 
-சிறுவர்கள் ஒரே இடத்தில் நீண்ட நேரம் அமர்ந்திருப்பதும், அதையே தொடர்ந்து நாளாந்தம்  செய்வதுமே இதற்கு  காரணமாகும். குறிப்பாக சிறுவர்கள் கையடக்கத் தொலைபேசிகளுக்கு அடிமையாகி வருவது பிரதான காரணமாக விளங்குகிறது.
+This is due to the fact that the boys sit in one place for a long time and continue to do the same day. The main reason is that children are addicted to mobile phones in particular.
 
-ஒரே இடத்தில் நீண்ட நேரம் அமர்ந்திருப்பதற்கும் தொற்றா நோய்களின் அதிகரிப்புக்கும் இடையே  தொடர்பு உள்ளது.  குறிப்பாக இளம் வயதினரிடையே லுகேமியா மற்றும் மூளை புற்றுநோய் அதிகரித்து வருகிறது.
+There is a connection between sitting in one place for a long time and an increase in infectious diseases.Lukemia and brain cancer are on the rise, especially in teens.
 
-...
+So everyday lifestyle plays an important role in controlling cancer. Parents need to control the consuming of sweet drinks and snacks.
+
+He said children should breastfeed up to two years of age to prevent cancer.
+
+◼️
 
 [Data](articles/5157ce96.json)
 
+[Extended Data](ext_articles/5157ce96.ext.json)
+
 ---
 
-### புரட்சியின்றி மக்களின் காணி உரிமையை உறுதிப்படுத்தியமை அரசாங்கத்திற்குக் கிடைத்த வெற்றி - ஜனாதிபதி
+### The government has won the government to ensure people's land rights without revolution - President
 
 *2024-02-05 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175656) · `ta`
 
-காணி உரிமை கோரி உலகில் பல புரட்சிகள் இடம்பெற்ற போதிலும், புரட்சியின்றி இந்நாட்டு மக்களுக்கு நிரந்த காணி உரிமையை வழங்க முடிந்தமை தற்போதைய அரசாங்கத்திற்குக் கிடைத்த  தனித்துவமான வெற்றியாகும் என ஜனாதிபதி ரணில் விக்ரமசிங்க வலியுறுத்தினார்.
+President Ranil Wickremesinghe emphasized that despite the many revolutions in the world demanding land rights, the fact that the people of this country were able to grant their permanent land rights without revolution were a unique victory for the current government.
 
-நாட்டை வங்குரோத்து நிலையில் இருந்து மீட்பதே தற்போதைய அரசாங்கம் பெற்ற முதல் வெற்றி என சுட்டிக்காட்டிய ஜனாதிபதி, 20 இலட்சம் பேர் பயன்பெறும் “அஸ்வெசும” திட்டத்தை அமுல்படுத்தியமையும் 15 இலட்சம் அரச ஊழியர்களின் சம்பளத்தை அதிகரித்ததும்  ஏனைய சாதனைகளாகும் எனவும் சுட்டிக்காட்டினார்.
+The President pointed out that the current government was the first victory to recover the country from bankruptcy, and pointed out that the implementation of the “Assumsuma” program of 20 million people and the increase in the salaries of 15 lakh civil servants is the other achievements.
 
-பாராளுமன்றத்தின் ஒரு பகுதியினரின் ஆதரவுடன் இரண்டு வருடங்கள் என்ற குறுகிய காலப்பகுதியில் நாட்டு மக்களின் முன்னேற்றத்திற்காக இவ்வாறான பரந்த பணியை அரசாங்கம் நிறைவேற்ற முடியுமாக இருந்தால் பாராளுமன்றத்தில் உள்ள அனைவரின் ஒத்துழைப்பும் கிடைத்தால் நாட்டை எந்த இடத்தில் வைக்க முடியும் என்பதை அனைவரும் சிந்திக்க வேண்டும் எனவும் ஜனாதிபதி தெரிவித்தார்.
+The President said that if the government is able to carry out such a vast task for the progress of the people in a short period of time, with the support of a part of Parliament, everyone should think about where the country can be placed.
+
+The first phase of the Urithu (Urumaya) project was held at the Rangiri Dambulla Stadium on Monday afternoon (05) afternoon.. President Ranil Wickremesinghe said this while addressing the event.
 
 ...
 
 [Data](articles/fad5f1f0.json)
+
+[Extended Data](ext_articles/fad5f1f0.ext.json)
 
 ---
 
@@ -1965,27 +1997,5 @@ Indian High Commissioner Santosh Ja promised to provide his full assistance to S
 [Data](articles/8b533e48.json)
 
 [Extended Data](ext_articles/8b533e48.ext.json)
-
----
-
-### CAA to raid under-weight bread sellers from today
-
-*2024-02-05 12:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CAA-to-raid-under-weight-bread-sellers-from-today/108-276339) · `en`
-
-Colombo, Feb 5 (Daily Mirror) - The Consumer Affairs Authority (CAA) is set to initiate raids targeting the sale of underweight bread in bakeries starting today, Director of the CAA Special Raids Unit, Sanjaya Irasinghe announced.
-
-He told the media that raids will be conducted in every district. A gazette in this regard was issued on Saturday as prior notice and to make preparations to maintain the standard weight of a loaf of bread and half a loaf of bread.
-
-It is mandatory to display a weighing scale at the bakery or shop for consumers to weigh the bread. The weighing scale should be with valid license issued from the Measurement Units Department.
-
-Irasinghe requested the consumers lodge a complaint if any to the CAA via hotline 1977 if a weighing scale is not available at the bakery or the shop.
-
-All shops and bakeries should issue a bill for the bread sold.
-
-◼️
-
-[Data](articles/ac41b815.json)
-
-[Extended Data](ext_articles/ac41b815.ext.json)
 
 ---

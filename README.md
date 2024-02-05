@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 13:02:35**
+As of **2024-02-05 13:17:30**
 
 ## Newspaper Stats
 
-*Scraped **4,879** Articles*
+*Scraped **4,889** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,37 +14,79 @@ dbsjeyarajcom | 137
 economynextcom | 260
 islandlk | 263
 dailyftlk | 280
-newsfirstlk | 294
-adalk | 420
+newsfirstlk | 296
+adalk | 421
 virakesarilk | 558
-adaderanalk | 606
+adaderanalk | 607
 tamilmirrorlk | 622
 adaderanasinhalalk | 627
-dailymirrorlk | 681
+dailymirrorlk | 687
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,875 (99.9%) of 4,879 articles have been extended.
+4,879 (99.8%) of 4,889 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
 
-### කලපලුවාවේ ධම්මරතන හිමි ඝාතනය සම්බන්ධයෙන් තිදෙනෙක් අත්අඩංගුවට
+### Flight operations affected at Delhi Airport due to heavy fog
+
+*2024-02-05 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97014/flight-operations-affected-at-delhi-airport-due-to-heavy-fog) · `en`
+
+Several flights were delayed at the Indira Gandhi International Airport in Delhi since flight operations were affected as a layer of fog enveloped the national capital on Monday (05 Feb.).
+
+The Delhi Airport issued an advisory for passengers saying that flights that are not CAT III compliant may be affected.
+
+“While landing and takeoffs continue at Delhi Airport, flights that are not CAT III compliant may be affected. Passengers are requested to contact the airline concerned for updated flight information. Any inconvenience caused is deeply regretted,” the advisory shared on ‘X’ read.
+
+“Low Visibility Procedures are in progress at Delhi Airport. All flight operations are presently normal. Passengers are requested to contact the airline concerned for updated flight information,” the Delhi Airport said in another advisory.
+
+Meanwhile, the India Meteorological Department (IMD) said that no major dense fog conditions were recorded in the country except in Punjab and West Rajasthan.
+
+...
+
+[Data](articles/e33f7e75.json)
+
+---
+
+### Jaishankar meets AKD; Affirms Strong Ties with Sri Lanka
+
+*2024-02-05 12:31:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/jaishankar-meets-akd-affirms-strong-ties-with-sri-lanka/) · `en`
+
+COLOMBO (News 1st); Indian External Affairs Minister Dr. S. Jaishankar met with Anura Kumara Dissanayake, the leader of Sri Lanka's Jathika Jana Balavegaya (JJB) and Janatha Vimukthi Peramuna (JVP), on Monday morning.
+
+The meeting focused on bilateral relations between the two countries and Sri Lanka's current economic challenges.
+
+Dr. Jaishankar expressed his satisfaction with the discussion, highlighting the "mutual benefits" of further strengthening the India-Sri Lanka relationship.
+
+He also acknowledged Sri Lanka's economic difficulties and offered support, stating that "India, with its Neighbourhood First and SAGAR policies, will always be a reliable friend and trusted partner of Sri Lanka."
+
+Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
+
+◼️
+
+[Data](articles/11dc30e6.json)
+
+---
+
+### Three arrested in connection with the murder of Dhammaratana Thero
 
 *2024-02-05 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192997) · `si`
 
-ගම්පහ,මල්වතුහිරිපිටිය ප්‍රදේශයේ විහාරස්ථානයක් තුළදී පසුගිය ජනවාරි මස 23වනදා ස්වාමීන් වහන්සේ නමක් වෙඩි තබා ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගෙන ඇති බව වාර්තාවෙයි.
+It is reported that three suspects have been arrested in connection with the death of a monk on January 23 in Gampaha, Gampaha.
 
-වෙඩි වැදීමෙන් අපවත් වූයේ ජ්‍යෝතිෂය කටයුතු සඳහා සුප්‍රසිද්ධව සිටි පූජ්‍ය කලපලුවාවේ ධම්මරතන නම් වයස අවුරුදු 44ක හිමිනමකි.
+The shooting was a 44-year-old monk, the most popularity for astrologers.
 
-මෝටර් රථයකින් පැමිණි සිව්දෙනෙකු තමන් CID නිලධාරීන් බව පවසා මෙම වෙඩිතැබීම සිදුකර පළා ගොස් තිබුණි.
+The shooting had been made by saying that he had arrived in a car to be CID officials.
 
 ◼️
 
 [Data](articles/1d5ecd03.json)
+
+[Extended Data](ext_articles/1d5ecd03.ext.json)
 
 ---
 
@@ -66,6 +108,26 @@ Indian High Commissioner Santosh Ja promised to provide his full assistance to S
 
 ---
 
+### CAA to raid under-weight bread sellers from today
+
+*2024-02-05 12:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CAA-to-raid-under-weight-bread-sellers-from-today/108-276339) · `en`
+
+Colombo, Feb 5 (Daily Mirror) - The Consumer Affairs Authority (CAA) is set to initiate raids targeting the sale of underweight bread in bakeries starting today, Director of the CAA Special Raids Unit, Sanjaya Irasinghe announced.
+
+He told the media that raids will be conducted in every district. A gazette in this regard was issued on Saturday as prior notice and to make preparations to maintain the standard weight of a loaf of bread and half a loaf of bread.
+
+It is mandatory to display a weighing scale at the bakery or shop for consumers to weigh the bread. The weighing scale should be with valid license issued from the Measurement Units Department.
+
+Irasinghe requested the consumers lodge a complaint if any to the CAA via hotline 1977 if a weighing scale is not available at the bakery or the shop.
+
+All shops and bakeries should issue a bill for the bread sold.
+
+◼️
+
+[Data](articles/ac41b815.json)
+
+---
+
 ### Shantan's consent to come to Sri Lanka
 
 *2024-02-05 12:05:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தன்-இலங்கைக்கு-வர-ஜனாதிபதி-சம்மதம்/175-332695) · `ta`
@@ -82,27 +144,81 @@ Minister Douglas Devananda spoke to the President and the Minister of External A
 
 ---
 
-### විශ්‍රාමික තැපැල් ස්ථානාධිපතිවරයා අනපේක්ෂිත ලෙස මරුට
+### President appoints steering committee for his Presidential election campaign
+
+*2024-02-05 11:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-appoints-steering-committee-for-his-Presidential-election-campaign/108-276338) · `en`
+
+Colombo, Feb. 05 (Daily Mirror)- President Ranil Wickremesinghe has appointed a Steering Committee for his campaign for the forthcoming Presidential election under chairmanship leading lawyer and renowned President's Counsel Ronald Perera who is currently serving as the Chairman of the Bank of Ceylon (BOC).
+
+Colombo District Manger of the United National Party (UNP) Lasantha Gunawardena, Executive Director of Sirikotha, the UNP Headquarters Shamal Senarath and Working Committee member of the party Krishan Theodor are other members of the committee.
+
+Coordinating the other political parties that currently supports Mr. Wickremesinghe and handling the propaganda activities are the main tasks entrusted to the Ronald Perera Committee.
+
+President as the leader of the UNP has advised the committee to find an appropriate venue for the mobilization of his election campaign and instructed them to prepare a management plan for the campaign.
+
+...
+
+[Data](articles/3d31b739.json)
+
+---
+
+### Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
+
+*2024-02-05 11:52:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/talk-of-the-town-maithri-gunaratne-pc-no-liberty-no-safety/) · `en`
+
+Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
+
+Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
+
+◼️
+
+[Data](articles/3ba545ad.json)
+
+---
+
+### Several roads in Colombo closed till March 11
+
+*2024-02-05 11:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Several-roads-in-Colombo-closed-till-March-11/108-276336) · `en`
+
+Colombo, Feb 05 (Daily MIrror) - Several roads in the Kollupitiya and Kompanna Vidiya areas will be temporarily closed from today (05 Feb.) due to the laying of underground pipelines.
+
+Police said the section from Nawam Mawatha to the Kompanna Vidiya railway station, along Sri Uttarananda Mawatha, will be inaccessible from today until 19 February.
+
+In the second phase, the road from Perahera Mawatha to Nawam Mawatha, also along Sri Uttarananda Mawatha, will be closed from 20 February until 04 March.
+
+Following these closures, roads near the Rotunda Gardens junction and Perahera Mawatha will be closed down from 05 to 11 March as part of the maintenance project.
+
+Police urged motorists to use alternative roads due to the closure of the roads
+
+◼️
+
+[Data](articles/69f22eba.json)
+
+---
+
+### Retired Post OIC killed unexpectedly
 
 *2024-02-05 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192996) · `si`
 
-ගසක් කපා බිම හෙළීමට උත්සාහ කිරීමේදී එම ගසටම යටවී දඹුල්ල සිසිරවත්ත ප්‍රදේශයේ පදිංචිව සිටි විශ්‍රාමික තැපැල් ස්ථානාධිපතිවරයකු මියගොස් ඇතැයි දඹුල්ල පොලීසිය කියයි.
+Dambulla Police say that a resident of Sisirawatte has been killed and another resident of Dambarawatta, undermining the tree.
 
-එසේ මියගොස් ඇත්තේ දඹුල්ල සිසිරවත්ත ප්‍රදේශයේ පදිංචිව සිටි ඩබ්ලිව්. එම්. ජයසේන නම් හැත්තෑ තුන් හැවිරිදි අයෙකි.
+The deceased has been identified as the Wubl residing in Sisirawatte area in Dambulla Sisirawatta. M. Jayasena is a seventy-three-year-old name.
 
-දඹුල්ල, අතුපාරයාය ප්‍රදේශයේ ඔහුගේ හිතවතුන්ගේ ගෙවත්තක තිබූ විශාල කොලොන් ගසක් කපා ඉවත්කිරීම සඳහා කිහිපදෙනෙකු එක්වී තිබුණි.
+Several colon tree in the garden in Dambulla and his friends in the area of Athuphalaya area had joined the removal of a large tree.
 
-අඩි පනහකට වඩා උසින් යුතු මෙම කොලොන් ගස කිහිපදෙනෙකු කියත් යන්ත්‍රයක් යොදාගෙන කැපීම සිදුකරද්දී කඳ මැදට ලණුවක් දමා තවත් කිහිපදෙනෙකු ගස පෙරළීම සඳහා උත්සාහ කර ඇතැයි පොලීසිය කියයි.
+The police say that the coloon tree tall is taller than fifty feet, police said.
 
-එම කඳ ඇදීම සඳහා ඇති ලණුව දිග ප්‍රමාණය මදි වීම නිසා ඇදීම සිදුකළ පිරිස ගස පෙරළෙනවාත් සමඟ ඉන් ඉවතට පැනීමට සාකච්ඡා කරගෙන තිබුණු බව ඥාතීහු කියති.
+Relatives say that the rope of the rope of the rope of the rope of the rope of the rope is to discuss the tree to jump out of the tree.
 
-එහෙත් එම ගස එකවරම ගස බිම පතිත වී ඇති අතර ඊට එම පුද්ගලයා යටවී තිබුණි.
+But the tree was hit by the tree at once and had been submerged.
 
-සිද්ධියෙන් පසුව ප්‍රදේශවාසීන් ගසට යට වී සිටි පුද්ගලයාව ඉන් එළියට ගෙන දඹුල්ල මූලික රෝහලට රැගෙන යන අවස්ථාව වන විටත් ඔහු මියගොස් සිටි බව රෝහල් ප්‍රකාශකයෙකු සඳහන් කළේය.
+After the incident, the people of the area were taken out of the residents of the area and was taken to the Dambulla Base Hospital, a hospital spokesman said.
 
 ◼️
 
 [Data](articles/b5d4a4bf.json)
+
+[Extended Data](ext_articles/b5d4a4bf.ext.json)
 
 ---
 
@@ -162,6 +278,8 @@ They are all residents of Marawila, Chilaw, and three of them are members of the
 
 They were rescued by Seychelles security forces with the intervention of the Sri Lanka Navy.
 
+Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
+
 ◼️
 
 [Data](articles/e5e4d29f.json)
@@ -190,45 +308,49 @@ According to the Information Technology section enacted in 2000, you will be sen
 
 ---
 
-### අධික මීදුමෙන් දිල්ලි ගුවන් ගමන්වලට බලපෑම්
+### Delhi flights influenced by heavy fog
 
 *2024-02-05 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192995) · `si`
 
-අධික මීදුම් සහිත තත්ත්වය හේතුවෙන් දිල්ලියේ ගුවන් ගමන් සඳහා දැඩි බලපෑම් එල්ල වී තිබේ.
+Delhi's flights have been severely affected by the heavy station.
 
-ඉන්දිරා ගාන්ධි ජාත්‍යන්තර ගුවන්තොටුපොළ පවසන්නේ, මේ හේතුවෙන් ගුවන් ගමන් කිහිපයක්ම අද (05) දිනයේ ප්‍රමාද වනු ඇති බවය.
+Indira Gandhi International Airport says that several flights will delay in the day (05).
 
-යාවත්කාලීන ගුවන් ගමන් තොරතුරු පිළිබඳව අදාළ සමාගම් සම්බන්ධ කර ගනිමින් මගීන්ව දැනුවත් කර තිබේ.
+The relevant companies on updated flight information have been made aware of the passengers.
 
-ඊයේ (04) දිනයේ එම ප්‍රදේශයට අධික වර්ෂාපතනයක් පැවති අතර පංජාබ් සහ බටහිර රාජස්ථාන් ප්‍රදේශයේ මීදුම් තත්ත්වය පවතින බව ඉන්දීය මාධ්‍ය වාර්තා කළේය.
+Indian media reported that there is over rainfall yesterday (04), Indian media reported that there is over rainfall.
 
 ◼️
 
 [Data](articles/2ed62bc7.json)
 
+[Extended Data](ext_articles/2ed62bc7.ext.json)
+
 ---
 
-### ග්‍රැමි සම්මාන උළෙලේ දී ඉන්දියාව නැවතත් ඉදිරියට
+### India forward again at Gramei Awards
 
 *2024-02-05 11:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192994) · `si`
 
-2024 ග්‍රැමී සම්මාන උළෙලේ දී ඉන්දීය බෙර වාදක සකීර් හුසේන් සහ බටනාලා වාදක රාකේෂ් චෞරාසියා "Best Global Music Performance"  සම්මානයට පාත්‍ර වී තිබේ.
+Indian Drumper Organism Brotherar Hussein and Banolu Forest Racal Music Performance "The Best Global Music Performance" has been recognized at the year 2024.
 
-එමෙන්ම සකීර් හුසේන් ප්‍රමුඛ ශක්ති නම් සංගීත කණ්ඩායම  "Best Global Music Album" සම්මානය ද දිනාගත්තේය.
+Sakire also won the "Best Global Music Album 'award.
 
-එහි සංගීත ශිල්පී ලෙස ශංකර් මහදේවන්, වායලින් වාදක ලෙස එල් ශංකර්, බෙර වාදක වික්කු විනයක්‍රම් සහ ගිටාර් වාදක ලෙස බ්‍රිතාන්‍ය ජෝන් මැක්ලෝලින් කටයුතු කර තිබේ.
+The Shankar Massernizer, as the music artist, British, drumisackey wikkoon disciplines, and guitarists have acted as British John McClolin.
 
-66 වැනි ග්‍රැමී සම්මාන උළෙල මේ වන විට අමෙරිකාවේ ලොස්ඇන්ජලිස් නුවර උත්කර්ශවත් ලෙස පැවැත් විය.
+The 66th Grami Awards Celebrations were held at the Kandy of US in America.
 
-වසරේ ගීතයට හිමි සම්මානය බිලී අයිලිෂ් (Billie Eilish)  දිනාගත්තේ Baby සිනමාපටයේ එන What Was I Made For? ගීතය සඳහායි.
+The Award of the Year award won the Billie Eilyz (Billie Eilyz), which comes from the Moat WAS I MADE?For the song.
 
-වසරේ ගීත ඇල්බමයට හිමි සම්මානය හිමිවුණේ ටේලර් ස්විෆ්ට්ගේ (Taylor Swift)   Midnights ඇල්බමයටයි.
+Taylor Swift the Midnights album of Taylor Swift the Year Album Award.
 
-මේ අතර වසරේ හොඳම ගීත නිර්මාණය වූයේ මයිලි සයිරස්ගේ (Miley Cyrus)   Flowers නම් ගීතය යි.
+Meanwhile, the best songs of the year was the Flowers named Milerus Flowers.
 
 ◼️
 
 [Data](articles/f30c7035.json)
+
+[Extended Data](ext_articles/f30c7035.ext.json)
 
 ---
 
@@ -253,6 +375,24 @@ Local residents say that the bridge, built in 1985 during the reign of the late 
 [Data](articles/5d5ea64a.json)
 
 [Extended Data](ext_articles/5d5ea64a.ext.json)
+
+---
+
+### Bridge collapses causing traffic standstill at Embilipitiya
+
+*2024-02-05 11:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bridge-collapses-causing-traffic-standstill-at-Embilipitiya/108-276335) · `en`
+
+Embilipitiya, Feb 05, (Daily Mirror) -  The bridge across the Hulanda Oya on the Embilipitiya-Middeniya road, originating from the Kumbugodaara area collapsed, creating a traffic standstill.
+
+The incident, which occurred between 6:30 and 7:30 an was caused by a lorry loaded with timber.
+
+According to local residents, water supply has also been disrupted in some areas due to the incident.
+
+The bridge, constructed in 1985 during the tenure of late President Ranasinghe Premadasa, collapsed due to the widening of the road on both sides without proper maintenance. The widening, according to locals, left the bridge vulnerable, leading to its collapse this morning.
+
+◼️
+
+[Data](articles/b9b38f8b.json)
 
 ---
 
@@ -346,6 +486,26 @@ The police said that his physical examination was to be carried out in the prese
 
 ---
 
+### Sri Lanka sees surge in Paediatric cancer cases
+
+*2024-02-05 11:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-sees-surge-in-Paediatric-cancer-cases/108-276332) · `en`
+
+Colombo, Feb 05 (Daily Mirror) -  Sri Lanka has witnessed a significant spike in paediatric cancer cases over the years, raising concerns over haphazard lifestyle practices.
+
+This was revealed by Dr. Deepal Perera, a Paediatrician at Lady Ridgeway Children's Hospital in Colombo.
+
+“The annual number of reported cases has doubled, escalating from 450 to a staggering 900, raising concerns within the healthcare community,” he pointed out.
+
+Speaking to Daily Mirror, Dr. Perera attributed this concerning surge to the growing prevalence of sedentary lifestyles among children, notably pointing out the increasing addiction to mobile phones as a contributing factor.
+
+He underscored the link between this lifestyle trend and the rise in non-communicable diseases, with leukaemia and brain cancer notably on the rise among the younger population.
+
+...
+
+[Data](articles/703f6e2c.json)
+
+---
+
 ### Female Constable Sexual Abuse: Transfer of Police in charge of political pressure
 
 *2024-02-05 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175589) · `ta`
@@ -399,6 +559,8 @@ Police said the roads will be closed to lay an underground wastewater pipeline t
 The section from Sri Uttarananda Mawatha and Nawam Mawatha to the Railway Crossing will be closed from Monday (05) till the 19th of February while the section from Sri Uttarananda Mawatha and Perahara Mawatha to Nawam Mawatha will be closed from the 20th of February till the 4th of March.
 
 The section up to Rotunda Gardens Junction from Sri Uttarananda Mawatha and Perahara Mawatha will be closed from Monday (05) till the 11th of March.
+
+Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
 
 ◼️
 
@@ -488,6 +650,26 @@ Further investigations are being carried out by the police in the police detenti
 
 ---
 
+### ත්‍රිරෝද රථ අනතුරින් මව මරුට, දියණියට බරපතලයි
+
+*2024-02-05 10:36:47* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිරෝද-රථ-අනතුරින්-මව-මරුට--දියණියට-බරපතලයි/11-407902) · `si`
+
+එකම පවුලේ මව පියා හා තුන් හැවිරිදි දියණියක් ගමන් ගත් තීරෝද රථයක් හොරණ පානදුර මාර්ගයේ කුළුපන ප්‍රදේශයේදී ලංගම බස් රථයක් හා ගැටීමෙන්  මව මියගොස් දැරිය හා පියා  බරපතල තුවාල ලබා ඇතැයි හොරණ මූලස්ථාන පොලිසිය කියයි.
+
+අනතුරින් මියගොස් ඇත්තේ බණ්ඩාරගම රයිගම කොස්වත්තපාර පදිංචිව සිටි ආර් ඒ තනූජා ප්‍රියදර්ශනී (40) එක්දරු මවකි.
+
+මවුපියන් දෙදෙනා සිය එකම දියණියගේ අවශ්‍යතාවයක් සඳහා හොරණ නගරයට තීරෝද රථයෙන් පැමිණ   යළි නිවස කරා යමින් සිටියදී මෙම අනතුර වී ඇතැයි පොලිසිය සඳහන් කරයි.
+
+ත්‍රී රෝද රථය හොරණ සිට බණ්ඩාරගම දෙසට ගමන් කිරීමේදී මාර්ගයේ  පිටුපස සිටි මියගිය කාන්තාවක් සැමියා අමතා ඔන්න බස් එකක් එනවා යැයි පැවසීමත් සමඟම ඔහු එකවරම තීරෝද රථය වමට හැරවීමේදී ත්‍රී රෝද රථය මාර්ගයේ වට දෙකක් පෙරළී මීටර් කීපයක් ඉදිරියට ඇදී ගොස් පානදුර සිට ඇඹිලිපිටිය දක්වා ගමන් ගත් ඇඹිලිපිටිය ඩිපෝවට අයත්  බස් රථයේ ඉදිරි දකුණු පස බෆරරේ ගැටි නතර වී ඇතැයි පොලිසිය කියයි.
+
+අනතුර සිදුවූ වහාම ප්‍රදේශවාසීන් විසින් මව පියා සහ කුඩා දැරිය හොරණ මූලික රෝහල වෙත ඇතුළත් කරන විටත්  මව මියගොස් සිටි බව රෝහල් ප්‍රකාශකයකු පැවසීය.
+
+...
+
+[Data](articles/95af5eb9.json)
+
+---
+
 ### Sri Lanka raises fine for supplying substandard drugs
 
 *2024-02-05 10:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-raises-fine-for-supplying-substandard-drugs/108-276328) · `en`
@@ -521,6 +703,8 @@ The Ministry of Public Security said 108 suspects who were on the list sent to t
 Police seized 191 grams of heroin, 103 grams of ICE and 2kg and 300g of cannabis from the suspects' possession.
 
 Three suspects arrested on drug-related charges were directed to rehabilitation centers.
+
+Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
 
 ◼️
 
@@ -832,6 +1016,22 @@ She submitted that the suspect had done so after the State Pharmaceutical Corpor
 
 ---
 
+### Central Bank denied over Rs. 700 Bn revenue due to interest rates reduction in DDO process
+
+*2024-02-05 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-denied-over-Rs-700-Bn-revenue-due-to-interest-rates-reduction-in-DDO-process/108-276337) · `en`
+
+Colombo, Feb 05 (Daily Mirror) - United Republican Front (URF) leader MP Patali Champika Ranawaka said the Central Bank had been denied over Rs. 700 billion due to Treasury Bill interest rates reduction and it would be serious in case a financial crisis emerged.
+
+Making remarks at the event to mark Independence Day celebrations by his party , he said the Central Bank reduced interest rates in the process of Domestic Debt Optimization last year .
+
+He said the interest rates for Treasury Bills held by the government were reduced from 25-26 percent to 5-6 percent and the Central Bank lost as much as Rs. 700 billion as a result.
+
+◼️
+
+[Data](articles/8b8132d0.json)
+
+---
+
 ### A cabinet paper to call investors for hemp cultivation
 
 *2024-02-05 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192989) · `si`
@@ -883,6 +1083,8 @@ Police said they were transferred to the Polonnaruwa Hospital for further treatm
 Police have taken 14 suspects into custody in relation to the incident.
 
 Clashes were reported among inmates of the Kandakadu Rehabilitation Center based on various issues on several occassions.
+
+Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
 
 ◼️
 
@@ -938,6 +1140,8 @@ The delegation includes Secretary of the party Dr. Nihal Abeysinghe, MP Vijitha 
 
 The group is due to hold an official meeting with Indian government officials on Monday (05).
 
+Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
+
 ◼️
 
 [Data](articles/9d4f3eaf.json)
@@ -955,6 +1159,8 @@ COLOMBO (News 1st); The second phase of the third school term of 2023 will comme
 The Ministry of Education said the second phase of the third term will end on the 16th of February.
 
 The first school term of 2024 is scheduled to commence on the 19th of February.
+
+Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
 
 ◼️
 
@@ -1801,195 +2007,5 @@ Accordingly, the suspect was arrested, while the consignment of gold and his mot
 [Data](articles/f5895f03.json)
 
 [Extended Data](ext_articles/f5895f03.ext.json)
-
----
-
-### Cathay Pacific to operate three non-stop flights per week from Colombo to Hong Kong
-
-*2024-02-04 20:53:00* · [`islandlk`](http://island.lk/cathay-pacific-to-operate-three-non-stop-flights-per-week-from-colombo-to-hong-kong/) · `en`
-
-Hong Kong’s home carrier Cathay Pacific’s much awaited direct flights between Sri Lanka and Hong Kong are officially back following a four-year hiatus, resuming a legacy of serving the Sri Lankan market for over 30 years.
-
-The first flight from Bandaranaike International Airport successfully took off on 2 February, marking the return of Cathay Pacific’s three-times-weekly service from Colombo, operating on Wednesdays, Fridays and Sundays. Flights are operated by the airline’s Airbus A330 aircraft, offering 28 fully flat seats in Business class and 265 spacious seats in Economy, ensuring a comfortable and premium travel experience for all customers.
-
-For both business and leisure travellers, the flights will serve as a gateway, offering exceptional connectivity via Hong Kong to Asia, the Southwest Pacific and North America. The airline is also promoting special fares for students travelling from Colombo to Sydney, Auckland, Singapore, Tokyo, and Kuala Lumpur.
-
-...
-
-[Data](articles/ffdacdf9.json)
-
-[Extended Data](ext_articles/ffdacdf9.ext.json)
-
----
-
-### AIA Insurance empowers women entrepreneurs
-
-*2024-02-04 20:51:00* · [`islandlk`](http://island.lk/aia-insurance-empowers-women-entrepreneurs/) · `en`
-
-AIA Insurance announced its strategic partnership with the Women’s Chamber of Industry and Commerce (WCIC) as the platinum sponsor for the upcoming Prathibhabhisheka – Women Entrepreneur Awards. This initiative reflects AIA’s commitment to fostering inclusivity, empowering women in business, and celebrating their remarkable achievements.
-
-The company is dedicated to amplifying the impact of the Women Entrepreneur Awards by extending its support as the Platinum Sponsor. This sponsorship aligns seamlessly with AIA’s values of promoting inclusivity and supporting initiatives that empower women in business.
-
-Chathuri Munaweera, CEO AIA Insurance said, ” This partnership is a testimony to our dedication to fostering an environment where women entrepreneurs can thrive and make significant contributions to the business world. At AIA, we believe in the power of diversity and are excited to support and celebrate the achievements of women in entrepreneurship.”
-
-...
-
-[Data](articles/4b451c60.json)
-
-[Extended Data](ext_articles/4b451c60.ext.json)
-
----
-
-### Yara Technologies enters African market, targets rapidly-growing FinTech
-
-*2024-02-04 20:51:00* · [`islandlk`](http://island.lk/yara-technologies-enters-african-market-targets-rapidly-growing-fintech/) · `en`
-
-Yara Technologies Sri Lanka’s premier EdFinTech company, expanded into the African market by partnering with Meus Technologies, Zambia. This move is strategically aligned with Africa’s rapidly growing FinTech landscape, presenting significant opportunities for Yara to enhance access to capital, especially for the expanding middle class. The company expects the FinTech adoption to be propelled by the enhancing mobile penetration, rising demand for capital among students, employees and the growing entrepreneurs/ SME segment. Currently, in Zambia, the combined consumer loan & educational loan market is close to USD 3 billion per annum, and the collaboration expects to make healthy inroads in this market.
-
-...
-
-[Data](articles/d3afe114.json)
-
-[Extended Data](ext_articles/d3afe114.ext.json)
-
----
-
-### Sanasa Life Insurance accredited with ‘Great Place to Work’
-
-*2024-02-04 20:48:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-accredited-with-great-place-to-work/) · `en`
-
-Sanasa Life Insurance Company PLC has announced that that they have earned the certification by Great Place to Work for 2024 by the authority on workplace culture, employee experience, Employee satisfaction, Employee benefits and effective leadership.
-
-This certification was directed through an independent company assessment based entirely on employees’ feedback about their workplace experiences and have made the progress in making their work place and work culture to make the employee feel satisfied and risk free environment with work-life balance.
-
-Shaliya Silva, Assistant General Manager Training and Development stated that the staff at Sanasa Life Insurance Company PLC were thrilled to be named a Great Place to Work certified company and they would keep on sustaining their commitment to foster a grate work environment where their team members both permanent and non-permanent would have meaningful work and development within the organization.
-
-...
-
-[Data](articles/b7626d9c.json)
-
-[Extended Data](ext_articles/b7626d9c.ext.json)
-
----
-
-### Nadodi’s Nomadic Dining takes centre stage at Cinnamon Grand Colombo
-
-*2024-02-04 20:47:00* · [`islandlk`](http://island.lk/nadodis-nomadic-dining-takes-centre-stage-at-cinnamon-grand-colombo/) · `en`
-
-Nadodi, the groundbreaking restaurant renowned for redefining South Indian and Sri Lankan cuisine, is set to enthrall diners at Chutney’s Cinnamon Grand Colombo on February 21st and 22nd, 2024, exclusively for dinner. This exclusive event, featuring a restaurant takeover, promises an extraordinary set menu meticulously curated by the culinary maestros behind Nadodi.
-
-Founded by Cinnamon Group CEO, Abbi Kanthasamy, in collaboration with Chef Johnson Ebenezer and Chef Sricharan, Nadodi pays homage to the early settlers of Malaysia and the surrounding region. The curated degustation menus showcase reimagined heritage dishes, skillfully crafted to retain the authentic yet diverse flavours and richness of the South Indian Subcontinent.
-
-...
-
-[Data](articles/f8120848.json)
-
-[Extended Data](ext_articles/f8120848.ext.json)
-
----
-
-### Japan Cricket Association receives ACC membership
-
-*2024-02-04 20:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japan-Cricket-Association-receives-ACC-membership/108-276314) · `en`
-
-Bali, Feb 04 ( Daily Mirror) - Japan Cricket Association (JCA ) has received the Asian Cricket Council (ACC )membership from Jay Shah- President of ACC in Bali, Indonesia during its AGM.
-
-Shammi Silva- Executive Board member  and Chairman of Finance and Marketing committee of ACC had a separate meeting with Alex-san and Ashley De Silva- CEO, SLC in attendance.
-
-They discussed a possible MoU between SLC and JCA for Japan 's development in Cricket .
-
-Priyantha Kariyapperuma - Special Adviser to JCA and Goodwill ambassador to develop cricket in Japan coordinated the meeting between JCA and SLC.
-
-◼️
-
-[Data](articles/88d4e3b2.json)
-
-[Extended Data](ext_articles/88d4e3b2.ext.json)
-
----
-
-### Suspected ’Ava’ gang leader arrested in Mount Lavinia
-
-*2024-02-04 20:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspected-Ava-gang-leader-arrested-in-Mount-Lavinia/108-276313) · `en`
-
-Colombo, Feb 04 (Daily Mirror) -  The Walana Anti-Corruption Unit has arrested the suspected leader of the 'Ava' gang, involved in numerous crimes in Jaffna, during a raid in Mount Lavinia.
-
-The suspect was arrested while staying on the upper floor of a two-storey house in Mount Lavinia.
-
-Police believe the suspect may have been planning to flee the country.
-
-It was revealed that the suspect has a severe addiction to ice drugs and with 01 gram and 300 mg of the substance discovered in his possession at the time of arrest.
-
-◼️
-
-[Data](articles/1bf620e1.json)
-
-[Extended Data](ext_articles/1bf620e1.ext.json)
-
----
-
-### Afghanistan fightback reduces Sri Lanka’s lead to 42
-
-*2024-02-04 20:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Afghanistan-fightback-reduces-Sri-Lankas-lead-to-42/108-276312) · `en`
-
-Colombo, Feb 04 (AFP) - A maiden Test hundred by Ibrahim Zadran helped Afghanistan recover in the one-off Test against Sri Lanka in Colombo, as the tourists ended day three on 199 for one on Sunday.
-
-Afghanistan had to show fight in their second dig after being shot out for 198 in the first innings to concede a lead of 241.
-
-Ibrahim went past his previous best Test score of 87 and then completed his maiden Test hundred in the last over of the day with a single to covers, leaving him unbeaten on 101.
-
-The first was on 39 when Prabath Jayasuriya put down a tough return catch, and then again on 63 when Nishan Madushka at short mid-off dropped a catch off Jayasuriya's bowling.
-
-The wicket had flattened out but still the Afghan batters had to show application, and they put up a fine show as Sri Lanka struggled to find the breakthroughs.
-
-It was a disciplined effort by the bowlers and Jayasuriya was required to bowl long spells, sending down 32 overs but without picking up a wicket.
-
-...
-
-[Data](articles/1cbd3f8b.json)
-
-[Extended Data](ext_articles/1cbd3f8b.ext.json)
-
----
-
-### Arrests
-
-*2024-02-04 19:43:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆவா-குழுவின்-தலைவர்-கைது/175-332656) · `ta`
-
-A man who is suspected of being the leader of the 'Ava' group in Jaffna has been arrested by the Anti -Corruption Unit.
-
-The suspect has been arrested while staying on the top floor of a two -storey house in Kalkis.
-
-Police say he may have been suspected of staying in the Kalkissa area to flee abroad.
-
-It is reported that 1 g 300 milligrams of ice have been seized from him despite his arrest, while ice drugs are increasingly addicted to use.. Remble
-
-◼️
-
-[Data](articles/acc0bda2.json)
-
-[Extended Data](ext_articles/acc0bda2.ext.json)
-
----
-
-### Former MP Mervyn Silva protests against Online Safety Bill
-
-*2024-02-04 19:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97002/former-mp-mervyn-silva-protests-against-online-safety-bill) · `en`
-
-A group including former Parliamentarian Mervyn Silva was seen carrying a false coffin into the Borella Cemetery on Sunday (04 Feb.), in protest against the Online Safety Bill.
-
-Security personnel at the entrance of the cemetery had reportedly attempted to prevent the group from entering into the premises.
-
-Despite their attempt, however, the group had entered the premises and staged a protest against the highly controversial Online Safety Bill, which came into effect earlier this month.
-
-The legislation which seeks to regulate online content was passed in Parliament, with amendments, on 24 January, amidst objections from opposition politicians and activists who allege the new law will muzzle free speech.
-
-The controversial Bill garnered not only the attention of local activists and organisations, but also that of diplomats and large international organisations, claiming that the Bill had numerous problematic aspects.
-
-...
-
-[Data](articles/f38d6984.json)
-
-[Extended Data](ext_articles/f38d6984.ext.json)
 
 ---

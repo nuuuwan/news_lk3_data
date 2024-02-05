@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 01:32:40**
+As of **2024-02-06 01:50:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,012 (100.0%) of 5,014 articles have been extended.
+5,014 (100.0%) of 5,014 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ A national assembly candidate was shot dead on Wednesday elsewhere in Khyber-Pak
 ...
 
 [Data](articles/9f12d83c.json)
+
+[Extended Data](ext_articles/9f12d83c.ext.json)
 
 ---
 
@@ -99,6 +101,8 @@ On Thursday, Maligakanda Magistrate, Lochani Abeywickrama ordered him to appear 
 ...
 
 [Data](articles/944e9b2c.json)
+
+[Extended Data](ext_articles/944e9b2c.ext.json)
 
 ---
 

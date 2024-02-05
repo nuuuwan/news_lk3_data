@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 19:02:31**
+As of **2024-02-05 19:17:24**
 
 ## Newspaper Stats
 
-*Scraped **4,966** Articles*
+*Scraped **4,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,48 +15,82 @@ economynextcom | 260
 islandlk | 263
 dailyftlk | 280
 newsfirstlk | 302
-adalk | 427
+adalk | 428
 virakesarilk | 574
 adaderanalk | 616
 tamilmirrorlk | 628
-adaderanasinhalalk | 644
-dailymirrorlk | 700
+adaderanasinhalalk | 645
+dailymirrorlk | 704
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,962 (99.9%) of 4,966 articles have been extended.
+4,966 (99.9%) of 4,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
 
-### சனத் நிஷாந்தவின் சாரதிக்கு பிணை!
+### ශ්‍රී ලංකා කණ්ඩායමට දඟ පන්දු පුහුණුකරුවෙක්
+
+*2024-02-05 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193016) · `si`
+
+ශ්‍රී ලංකා ජාතික ක්‍රිකට් කණ්ඩායමට නව දඟ පන්දු පුහුණුකරුවෙක් පත්කර ඇති බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පවසයි.
+
+ඔස්ට්‍රේලියානු හිටපු පළමු පෙළ ක්‍රීඩකයෙකු වන Craig Howard මෙලෙස ජාතික කණ්ඩායමේ දඟ පන්දු පුහුණුකරු ලෙස පත්කර තිබේ.
+
+◼️
+
+[Data](articles/28cde943.json)
+
+---
+
+### Bail for Sanath Nishantha's driver!
 
 *2024-02-05 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175651) · `ta`
 
-கட்டுநாயக்க கொழும்பு அதிவேக வீதியில் இடம்பெற்ற விபத்தில் உயிரிழந்த முன்னாள் இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் சாரதி வெலிசர நீதவான் நீதிமன்றத்தினால் பிணையில் விடுவிக்கப்பட்டுள்ளார்.
+Former State Minister Sanath Nishantha's driver Velisara Magistrate's Court has been released on bail by the court in Katunayake.
 
-சந்தேக நபரான சாரதி வெலிசர நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்டதன் பின்னர் 5 இலட்சம் ரூபா சரீரப் பிணையில் திங்கட்கிழமை (5) விடுவிக்கப்பட்டுள்ளார்.
+The suspect has been released on Monday (5) on bail of Rs.
 
 ◼️
 
 [Data](articles/8a5e852e.json)
 
+[Extended Data](ext_articles/8a5e852e.ext.json)
+
 ---
 
-### சாந்தன் விரைவில் நாடு திரும்ப ஏற்பாடு - அமைச்சர் டக்ளஸ் நடவடிக்கை
+### Shantan's return to the country soon - Minister Douglas action
 
 *2024-02-05 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175652) · `ta`
 
-முன்னாள் இந்தியப் பிரதமர் ரஜீவ்காந்தி கொலை தொடர்பில் கைது செய்யப்பட்டு விடுதலையானவர்களுள் ஒருவரான சாந்தனை  இலங்கைக்கு அழைத்து வருவதற்கு சம்மதம் தெரிவித்துள்ள ஜனாதிபதி ரணில் விக்கிரமசிங்க தேவையான ஏற்பாடுகளை செய்வதற்கும் இணக்கம் தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe has agreed to make the necessary arrangements for the arrest of former Indian Prime Minister Rajiv Gandhi's murder.
 
-குறித்த விடயம் தொடர்பாக திங்கட்கிழமை (05) நடைபெற்ற அமைச்சரவை கூட்டத்தின் போது ஜனாதிபதி மற்றும் வெளிவிவகார அமைச்சர் ஆகியோருடன் அமைச்சர் டக்ளஸ் தேவானந்தா முன்வைத்த நிலையிலேயே ஜனாதிபதியினால் சம்மதம் தெரிவிக்கப்பட்டுள்ளது.
+Minister Douglas Devananda has agreed by the President and the Minister of External Affairs during a Cabinet meeting held on Monday (05).
 
 ◼️
 
 [Data](articles/f458d86e.json)
+
+[Extended Data](ext_articles/f458d86e.ext.json)
+
+---
+
+### SF justifies his action to criticize SJB leadership
+
+*2024-02-05 18:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SF-justifies-his-action-to-criticize-SJB-leadership/108-276357) · `en`
+
+Colombo, Feb 5 (Daily Mirror) - Justifying his earlier verbal attack on Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa, the party Chairman Sarath Fonseka said he did not have any other option but to voice his grievances in public when the party higher-ups are making unilateral decisions.
+
+He was responding to the remarks made by SJB Leader Sajith Premadasa during the weekend, where he said those who criticize the party leadership and break discipline can leave the party. Mr. Premadasa also indicated that disciplinary action would be taken against MP. Fonseka.
+
+“When decisions are taken unitarily, and when the opportunity for discussion and discourse is not provided within the party, the only option left is to voice these grievances to the public. We should always remember that the strength of the party is its members and well-wishers and not just a select few,” Field Marshal Fonseka said in his latest post on X.
+
+...
+
+[Data](articles/0c01bb2d.json)
 
 ---
 
@@ -71,6 +105,8 @@ The initiative is a part of President Wickremesinghe’s efforts to empower farm
 ◼️
 
 [Data](articles/c3266ef8.json)
+
+[Extended Data](ext_articles/c3266ef8.ext.json)
 
 ---
 
@@ -227,6 +263,42 @@ Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
 [Data](articles/32489cd3.json)
 
 [Extended Data](ext_articles/32489cd3.ext.json)
+
+---
+
+### HR activist Dr. Chamal Sanjeewa released on bail
+
+*2024-02-05 17:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/HR-activist-Dr-Chamal-Sanjeewa-released-on-bail/108-276355) · `en`
+
+Colombo, Feb 5 (Daily Mirror) - Human Rights activist Dr. Chamal Sanjeewa was released on a personal bail of Rs. 25,000 by the Colombo Chief Magistrate today.
+
+The doctor appeared before the Colombo Chief Magistrate Prasanna De Alwis through a motion filed by his Counsel Rajitha Lakmal.
+
+During the inquiry Counsel told the Magistrate that on 1st of January, during a protest opposite the entrance to the CID, Police had arrested the doctor and some other suspects who were later produced before the Fort Magistrate's Court.
+
+During the inquiry, the Cinnamon Garden Police had submitted to the Fort Magistrate's Court that the Colombo Chief Magistrate had ordered the Cinnamon Gardens Police to arrest three suspects including Dr. Chamal Sanjeewa and two others and to produce them before the Chief Magistrate today (5) allegedly for placing a funeral wreath opposite the house of former Health Minister Keheliya Rambukwell on January 01 .
+
+...
+
+[Data](articles/86f8409e.json)
+
+---
+
+### Fowzie urges Bribery Commission to withdraw his corruption case
+
+*2024-02-05 17:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fowzie-urges-Bribery-Commission-to-withdraw-his-corruption-case/108-276354) · `en`
+
+Colombo, Feb 5 (Daily Mirror) - It transpired before Colombo High Court that Samagi Jana Balawegaya (SJB) parliamentarian A.H.M. Fowzie has requested the Bribery Commission to withdraw the indictment filed against him on corruption charges.
+
+President's Counsel Shavindra Fernando, appearing for Parliamentarian Fowzie, informed court that his client, through his lawyer, had requested the Bribery Commission to withdraw the indictment considering its maintainability.
+
+The Bribery Commission filed this corruption case against A.H.M. Fowzie for allegedly causing a Rs.1.07 million unlawful loss to the government by misusing a vehicle belonging to the Disaster Management Centre between 2010 and 2015.
+
+After the matter was called before Colombo High Court Judge Nawaratne Marasinghe, the case was fixed for April 29.
+
+...
+
+[Data](articles/f1582ca4.json)
 
 ---
 
@@ -980,6 +1052,30 @@ The government cut the signal of private television channel Walf as it broadcast
 
 ---
 
+### පක්ෂයට වඩා රට ගැන හිතන්න ඕන
+
+*2024-02-05 14:35:21* · [`adalk`](https://www.ada.lk/breaking_news/පක්ෂයට-වඩා-රට-ගැන-හිතන්න-ඕන/11-407908) · `si`
+
+මේ මොහොතේදී ජනාධිපති අපෙක්ෂකත්වයට වත්මන් ජනාධිපතිවරයාට වඩා සුදුස්සකු තම පක්ෂයේ සිටීනම් ඒ සඳහා ඔහුට අවස්ථාව ලබාදීම සුදුසුයි...
+
+සුදුස්සකු නැතිනම් ඒ අවස්ථාව අනිවාර්යයෙන්ම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාටම ලබාදෙන්න...
+
+මේ මොහොතේදී පක්ෂයට වඩා රට ගැන සිතා අභියෝගවලට මුහුණදිය හැකි අනාගතවාදී නායකයකු පත්කරගත යුතුයි...
+
+රාජපක්ෂලා හොරා කෑව කියන ජනතා විමුක්ති පෙරමුණට 88/89 තමන් කරපුව අමතකයි...
+
+මලකඩ කාපු දේශපාලන නොකර රට ගැන හිතලා වැඩ කරන්න කියලා මම අනුර කුමාර කියනවා..
+
+මේ මොහොතේදී ජනාධිපති අපෙක්ෂකත්වයට වත්මන් ජනාධිපතිවරයාට වඩා සුදුස්සකු තම පක්ෂයේ සිටීනම් ඒ සඳහා ඔහුට අවස්ථාව ලබාදීම සුදුසු බවත් එසේ සුදුස්සකු නැතිනම් ඒ අවස්ථාව අනිවාර්යයෙන්ම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාටම ලබාදිය යුතු බවත් ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා අවධාරණය කරයි.
+
+අමාත්‍යවරයා පවසන්නේ මේ මොහොතේදී පක්ෂයට වඩා රට ගැන සිතා අභියෝගවලට මුහුණදිය හැකි අනාගතවාදී නායකයකු පත්කරගත යුතු බවයි. වත්මන් ජනාධිපතිවරයා ඒ සඳහා ඉහළම සුදුසුකම් ඇති බවද ඔහු පවසයි.
+
+...
+
+[Data](articles/555221e0.json)
+
+---
+
 ### The Senegal is a military page by postpoor
 
 *2024-02-05 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193002) · `si`
@@ -1103,6 +1199,18 @@ A delegation of the JVP party comprising of JVP leader Anura Kumara Dissanayake,
 [Data](articles/c7eadc48.json)
 
 [Extended Data](ext_articles/c7eadc48.ext.json)
+
+---
+
+### Demand over several health issues
+
+*2024-02-05 13:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Demand-over-several-health-issues/110-276344) · `en`
+
+Several members of the Health Trade Union Alliance (HTUA) staged a protest in front of the Lady Ridgeway Hospital for Children (LRH) today, demanding the government to grant them the allowance that is reserved for other government staffers and provide immediate solutions to their salary anomalies. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/d6f904a0.json)
 
 ---
 
@@ -1398,19 +1506,21 @@ In this case, Premalatha tattooed her husband Vijayakanth's image in her right h
 
 ---
 
-### පළාත් කිහිපයකට පැවැති වැස්ස හෙට සිට අඩුවෙයි
+### Ratings from several provinces reduced from tomorrow
 
 *2024-02-05 12:19:53* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-කිහිපයකට-පැවැති-වැස්ස-හෙට-සිට-අඩුවෙයි/11-407907) · `si`
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණ, ඌව සහ නැගෙනහිර පළාත්වල පැවැති වැසි තත්ත්වයේ අඩුවීමක් හෙට දින සිට අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+The Department of Meteorology states that a show of showers in the Western, Sabaragamuwa, Central, Southern, Uva and Eastern provinces will be expected from tomorrow.
 
-කෙසේ වෙතත් හෙට දිනයේදී සබරගමුව පළාතෙත් කළුතර, ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් පස්වරු 2න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+However, tomorrow due to tomorrow, there will be showers at several places in Kalutara, Galle and Matara districts tomorrow, according to the Department.
 
-දිවයිනේ හසසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතින බවද හෙට දිනයට අදාළව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අද මධ්‍යාහ්න නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+The Department of Meteorology has stated that there is a major rainy weather in the island, but the Department of Meteorology has been released today.
 
 ◼️
 
 [Data](articles/4d8aeff5.json)
+
+[Extended Data](ext_articles/4d8aeff5.ext.json)
 
 ---
 
@@ -1925,133 +2035,5 @@ He underscored the link between this lifestyle trend and the rise in non-communi
 [Data](articles/703f6e2c.json)
 
 [Extended Data](ext_articles/703f6e2c.ext.json)
-
----
-
-### Sri Lanka sees surge in Paediatric cancer cases
-
-*2024-02-05 11:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-sees-surge-in-Paediatric-cancer-cases/155-276332) · `en`
-
-Colombo, Feb 05 (Daily Mirror) -  Sri Lanka has witnessed a significant spike in paediatric cancer cases over the years, raising concerns over haphazard lifestyle practices.
-
-This was revealed by Dr. Deepal Perera, a Paediatrician at Lady Ridgeway Children's Hospital in Colombo.
-
-“The annual number of reported cases has doubled, escalating from 450 to a staggering 900, raising concerns within the healthcare community,” he pointed out.
-
-Speaking to Daily Mirror, Dr. Perera attributed this concerning surge to the growing prevalence of sedentary lifestyles among children, notably pointing out the increasing addiction to mobile phones as a contributing factor.
-
-He underscored the link between this lifestyle trend and the rise in non-communicable diseases, with leukaemia and brain cancer notably on the rise among the younger population.
-
-...
-
-[Data](articles/a7ae4c2b.json)
-
-[Extended Data](ext_articles/a7ae4c2b.ext.json)
-
----
-
-### Female Constable Sexual Abuse: Transfer of Police in charge of political pressure
-
-*2024-02-05 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175589) · `ta`
-
-A special investigation has been launched in charge of the Kalpitiya Police Station, allegedly sexually abusing a woman police constable.
-
-Investigations are being carried out by the Children's and Women's Bureau of the Kottupa Police Division on the orders of the Senior Deputy Inspector General of Police in charge of the Northwest Province.
-
-Police investigations have revealed that he has lodged several complaints of sexual abuse.
-
-It is also reported that the officer has been arranged to relocate to the North Central Province with immediate implementation.
-
-Meanwhile, it is reported that the Child and Women Bureau of the Katupotha Police Division went to the Kalpitiya Police Station on the 29th to obtain a statement to the police officer in connection with the incident.
-
-◼️
-
-[Data](articles/ef25579a.json)
-
-[Extended Data](ext_articles/ef25579a.ext.json)
-
----
-
-### Sri Lanka’s youth divers seek glory at BIMSTEC Water Sport Games in India
-
-*2024-02-05 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-youth-divers-seek-glory-at-BIMSTEC-Water-Sport-Games-in-India/108-276331) · `en`
-
-Colombo, Feb. 5 (Daily Mirror) - Sri Lanka’s nine-member youth men and women diving teams will depart for New Delhi on February 5 to take part in the BIMSTEC Youth Aquatic Meet in India. The event is scheduled to be held from February 6–9.
-
-The divers were selected through their achievements at the recently concluded Diving National Championship 2023. The nine divers will participate in six individual events in both men and women categories and compete against peers from India, Nepal, Bangladesh, Myanmar, Thailand, and Bhutan.
-
-The boys’ team consists of 5 members, notably all hail from Royal College: Matheesha Marambe (Captain), Mikhail Jayaweera, Yusuf Shihar, Ruel Wickramarathne, and Venuka Kankanamge.
-
-The girls’ team includes four talented female divers: Kithmi Marambe (Captain) and Shania Silva from Bishop’s College, Vinudi Kankanamge from Visakha Vidyalaya, and Kisara Ranawaka from St. Bridget’s Convent.
-
-...
-
-[Data](articles/cd039368.json)
-
-[Extended Data](ext_articles/cd039368.ext.json)
-
----
-
-### Several roads in Colombo to be closed temporarily
-
-*2024-02-05 10:56:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/several-roads-in-colombo-to-be-closed-temporarily/) · `en`
-
-COLOMBO (News 1st); A decision has been reached to temporarily close Sri Uttarananda Mawatha, Perahara Mawatha and Nawam Mawatha in the Colpettty and Kompannavidiya Police divisions, under three phases from Monday (05).
-
-Police said the roads will be closed to lay an underground wastewater pipeline that will be connected to Colombo Port City.
-
-The section from Sri Uttarananda Mawatha and Nawam Mawatha to the Railway Crossing will be closed from Monday (05) till the 19th of February while the section from Sri Uttarananda Mawatha and Perahara Mawatha to Nawam Mawatha will be closed from the 20th of February till the 4th of March.
-
-The section up to Rotunda Gardens Junction from Sri Uttarananda Mawatha and Perahara Mawatha will be closed from Monday (05) till the 11th of March.
-
-Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
-
-Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
-
-◼️
-
-[Data](articles/6cce51a9.json)
-
-[Extended Data](ext_articles/6cce51a9.ext.json)
-
----
-
-### Puttalam's terrible Triplar accident in Puttalam
-
-*2024-02-05 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192993) · `si`
-
-The cities of Kurumagediya road in Kalpitiya Police had a fatal accident in front of the Catholic Church.
-
-Another three-wheeler had taken place in a three-wheeler in the road to run the three-wheeler to Kalpitiya to control.
-
-Eight of the three-wheelers, including drivers were traveling in the accident.
-
-One died in accident and the injured were transferred to the Kalpitiya hospital and transferred to the Puttalam Hospital for further treatment.
-
-◼️
-
-[Data](articles/fa1d20a1.json)
-
-[Extended Data](ext_articles/fa1d20a1.ext.json)
-
----
-
-### Sri Lanka rupee opens at 312.30/70 to the US dollar
-
-*2024-02-05 10:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-312-30-70-to-the-us-dollar-149871/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 312.30/70 to the US dollar Monday, from 313.25/50 a day earlier, dealers said.
-
-A bond maturing on 01.02.2026 was quoted at 11.95/12.05 down from 12.00/15 percent Friday.
-
-A bond maturing on 15.09.2027 was quoted at 12.45/55 down form 12.65/72 percent.
-
-A bond maturing on 01.07.2028 was quoted at 12.70/78. (Colombo/Feb5/2024)
-
-◼️
-
-[Data](articles/2584f60f.json)
-
-[Extended Data](ext_articles/2584f60f.ext.json)
 
 ---

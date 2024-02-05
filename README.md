@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 17:33:30**
+As of **2024-02-05 17:53:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 700
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,929 (99.7%) of 4,946 articles have been extended.
+4,946 (100.0%) of 4,946 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The Minister also pointed out that the computer resource centers established in 
 ◼️
 
 [Data](articles/142a206a.json)
+
+[Extended Data](ext_articles/142a206a.ext.json)
 
 ---
 
@@ -72,111 +74,123 @@ Following the fatal collision, three injured persons, including the State Minist
 
 ---
 
-### සනත් නිශාන්තගේ රියදුරුට ඇප
+### Sanath Nishantha's driver released on bail
 
 *2024-02-05 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193011) · `si`
 
-කටුනායක කොළඹ අධිවේගී මාර්ගයේ සිදුවූ අනතුරකින් මියගිය හිටපු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ රියදුරු ඇප මත නිදහස් කර තිබේ.
+Former State Minister Sanath Nishantha's driver was released on bail after the accident conducted by Katunayake Expressway.
 
-වැලිසර මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව සැකකාර රියදුරු ලක්ෂ 5ක ශරීර ඇපයක් මත නිදහස් කර ඇත.
+Welisara Magistrate was produced before the courts and released on a bail of Rs. 500,000.
 
-එම අනතුරින් හිටපු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ ආරක්ෂක නිලධාරියාද ජීවිතක්ෂයට පත්විය.
+Former State Minister Sanath Nishantha's security officer was also killed.
 
 ◼️
 
 [Data](articles/d101d78b.json)
 
+[Extended Data](ext_articles/d101d78b.ext.json)
+
 ---
 
-### ඉන්දියාවට ජය
+### India wins
 
 *2024-02-05 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193010) · `si`
 
-ඉන්දියාව සහ එංගලන්තය අතර පැවති දෙවැනි ටෙස්ට් ක්‍රිකට් තරගය ලකුණු 106කින් ජයග්‍රහණය කිරීමට සත්කාරක ඉන්දියාව සමත් විය.
+India and India won the second Test match between India and England by 106 runs.
 
-ඒ ජයග්‍රහණය සඳහා ලකුණු 399ක ඉලක්කයක් හඹා ගිය එංගලන්ත කණ්ඩායම සිය දෙවැනි ඉනිම සඳහා අද ලකුණු 292කට දැවී යාමත් සමගය.
+Chasing a 399 runs target for that victory, the England bowl was bowled out for 292 in their second innings.
 
-තරගයේ පළමුව පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම ලකුණු 396ක් රැස්කළ අතර ඊට පිළිතුරු ලෙස එංගලන්තය ලකුණු 253ක් රැස්කළේය.
+The Indian team scored 396 runs while England scored 253 runs.
 
-ඉන්දියාව සිය දෙවැනි ඉනිම සඳහා ලකුණු 255ක් රැස්කරමින් සංචාරක එංගලන්ත කණ්ඩායමට ලකුණු 399ක් ඉලක්කයක් ලබාදුනි.
+India scored 255 runs for the tourist agency scored 255 runs for his second innings.
 
-පන්දු යැවීමෙන් ජස්ප්‍රිට් බුම්රා සහ රවිචන්ද්‍රන් අස්වින් කඩුලු 3 බැගින් දවා ගත්හ.
+Josephrit Bumra and Ravicchandran took three wickets each.
 
-ඒ අනුව තරග 5කින් සමන්විත තරගාවලියේ කණ්ඩායම් දෙකම එක තරගය බැගින් ජයගෙන තිබේ.
+Accordingly, both groups of the five matches have won one match.
 
 ◼️
 
 [Data](articles/43d8c88e.json)
 
+[Extended Data](ext_articles/43d8c88e.ext.json)
+
 ---
 
-### බෙලිඅත්ත පංච පුද්ගල ඝාතනය ගැන කිසිවෙක් නොසිතූ තොරතුරක් එළියට
+### Chascope for anyone unexpectedly unearthed down in Beliatta
 
 *2024-02-05 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193009) · `si`
 
-බෙලිඅත්ත පංච පුද්ගල ඝාතනයට ආධාර අනුබලදීම සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරු හෙට (06) දක්වා රඳවා ගෙන ප්‍රශ්න කිරීමට තංගල්ල මහෙස්ත්‍රාත් අධිකරණය නියෝග  කළේය.
+Tangalle Magistrate ordered the court to hold the suspect for the assassination of the Beliatta to resign to tomorrow (06).
 
-මාතර කොට්ඨාස ළමා හා කාන්තා කාර්යංශයේ නිලධාරින් විසින් මෙම සැකකරුව ඊයේ (05) හබරාදුවේදී අත්අඩංගුවට ගෙන තිබිණි.
+The suspect was arrested by the officers of the Matara Divisional Children's and Women's Buddhist monastery yesterday (05).
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ රත්ගම කටුදම්පේ පදිංචි 28 හැවිරිදි තරුණයෙකි.
+The victim is a 28 year old resident of Rathgama Kathantha.
 
-බෙලිඅත්ත පංච පුද්ගල ඝාතනයෙන් පසු වෙඩික්කරුවන් සතුව තිබූ ගිනි අවි අකුරැස්සේ සිට ගාල්ල කරාපිටිය දක්වා සැකකරුවන් දෙදෙනකු විසින් යතුරුපැදියකින් ගෙන ගොස් තිබූ අතර එම යතුරුපැදිකරුවන්ට ආරක්ෂාව දී ඇත්තේ මෙම සැකකරු බව හඳුනාගෙන ඇත.
+Two suspects were taken by the shooters from the firearms of the Beliatta from Akuressa from Akuressa from Akuressa, Galle.
 
-යතුරුපැදිකරුවන් ගිනිඅවි සමග පසුපසින් ගමන් කරද්දි ඊට ඉදිරියෙන් මෙම සැකකරු පොලීසිය සිටින්නේදැයි ඔත්තු බලමින් පසුපස යතුරුපැදිය සමග දුරකතනය ඔස්සේ සම්බන්ධතාව පවත්වාගනිමින් ගොස් ඇතැයි හඳුනාගෙන තිබේ.
+When the motorcyclists traveled with firearms, they have been identified as the track of the suspect with the trailing motorcycle.
 
-ගිනිඅවි ප්‍රවාහනය කළ සැකකරුවන් දෙදෙනාද පොලිසිය මීට ඉහතදී අත්අඩංගුවට ගෙන තිබූ අතර ඉන් එක් සැකකරුවෙක් සහ ඔත්තු බැලූ සැකකරු ඥාතී සහෝදරයන් වන බවට හඳුනාගෙන ඇත.
+The police were also arrested by the police, who were transporting firearms, and the suspect and the spying suspect have been identified as relatives.
 
 ◼️
 
 [Data](articles/a64419ea.json)
 
+[Extended Data](ext_articles/a64419ea.ext.json)
+
 ---
 
-### සැකකරුවෙකු සහ සැකකාරියන් දෙදෙනෙකු අත්අඩංගුවට
+### Suspect and two suspects arrested
 
 *2024-02-05 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193008) · `si`
 
-මූල්‍ය ආයතනයක් බිඳ මුදල් සොරකම් කිරීමේ සිද්ධියකට අවශ්‍ය කර සිටි සැකකරුවෙකු සහ සැකකාරියන් දෙදෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Police have arrested two suspects and two suspects have been arrested by the police.
 
-පුත්තලම කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය විසින් සිදුකළ විමර්ශනයකදී මෙම පිරිස අත්අඩංගුවට ගෙන ඇත.
+The group was arrested following the investigation by the Puttalam Division Criminal Investigation Bureau.
 
-ජනවාරි මස 31 වනදා හලාවත පොලිස් වසමේ මූල්‍ය ආයතනයක් බිඳ මුදලින් රුපියල් 7,090,939ක් සොරකම් කිරීම සම්බන්ධයෙන් ඔවුන්ට එරෙහිව චෝදනා එල්ලවී තිබුණි.
+On January 31, they were accused of stealing Rs.
 
-සිද්ධිය සම්බන්ධයෙන් විමර්ශන ආරම්භ කළ පොලීසිය එම සැකකරු ඊයේ (04) කොල්ලුපිටිය ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබුණි.
+The suspect was arrested in connection with the incident in general area Kollupitiya yesterday (04).
 
-සිද්ධියට ආධාර අනුබල දීමේ චෝදනාව යටතේ අත්අඩංගුවට ගෙන ඇති එක් සැකකාරියන් දෙදෙනා මාදිවෙල ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇත.
+The two suspects arrested in Madiwela have been arrested in Madiwela area.
 
-වයස අවුරුදු 33 සහ 46 හැවිරිදි වියේ පසුවන එම සැකකාරියන් පස්ගොඩ සහ කඩුවෙල ප්‍රදේශවල පදිංචිකාරිණියන් බව පොලීසිය පවසයි.
+The suspects were 33 and 46 years old and residents in the Pasgoda and Kaduwela areas.
 
 ◼️
 
 [Data](articles/1f2f7d26.json)
 
+[Extended Data](ext_articles/1f2f7d26.ext.json)
+
 ---
 
-### වසර 5කට පසු චීන ආයෝජනවල ශීඝ්‍ර වර්ධනයක්
+### Rapid growth in Chinese Urget after five years
 
 *2024-02-05 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193007) · `si`
 
-චීනයේ නව සේද මාවත එක් තීරයක් - එක් මාවතක් හෙවත් බෙල්ට් ඇන්ඩ් රෝඩ් ව්‍යාපෘතිය සඳහා පසුගිය 2023 වසරේදී චීනය වාර්තාගත අන්දමින් ආයෝජනය කර ඇති බව බ්ලූම්බර්ග් ව්‍යාපාරික වෙබ් අඩවිය වාර්තා කරයි.
+Bloomberg business website reports that China has invested China recorded in 2003 in the year 2023, one round of China.
 
-2018 වසරෙන් පසු බෙල්ට් ඇන්ඩ් රෝඩ් ව්‍යාපෘතියට චීනය වැඩිම ආයෝජනයක් සිදුකර ඇත්තේ පසුගිය වසරේදී ය.
+After the year 2018, China has made the highest investment for the Belt and Road Project.
 
-එහිදී චීනය විදේශීය ව්‍යාපෘති සඳහා ආයෝජනය කර ඇති මුදල ඩොලර්  බිලියන 50කට අධික ය.
+China is over $ 50 billion in foreign projects.
 
-2023 වසරේදී චීනය බෙල්ට් ඇන්ඩ් රෝඩ් ව්‍යාපෘති සඳහා ආයෝජනය කළ මුදල 2022 වසරට සාපේක්ෂව 80%ක් පමණ වර්ධනයක් වීම විශේෂ කරුණකි.
+In 2023, China is a significant amount of 80% over the year 2022.
 
-ඒ අනුව 2013 වසරේ සිට චීනය, බේල්ට් ඇන්ඩ් රෝඩ් යටිතල පහසුකම් ව්‍යාපෘති සඳහා වැයකර ඇති මුදල අමෙරිකානු ඩොලර් ට්‍රිලියනය ඉක්මවයි.
+Accordingly, the amount spent on China, Bett & Road Infrastructure projects have been spent on US dollars.
 
-බ්ලූම්බර්ග් ව්‍යාපාරික වෙබ් අඩවිය එම දත්ත ලබාගෙන ඇත්තේ ඔස්ට්‍රේලියාවේ ග්‍රිෆිත් සරසවිය සහ ෂැංහයි නුවර ෆුඩාන් සරසවිය ඒකාබද්ධ ඉදිරිපත් කළ වාර්තාවකිනි.
+Bloomberg Business Web Site has obtained the data from the report that has been presented to Grifith University and Shangan University in Shanghai.
 
-චීනය පසුගිය 2023 වසරේ බෙල්ට් ඇන්ඩ් රෝඩ් ව්‍යාපෘතිය යටතේ සිදුකළ ආයෝජනවලින් වැඩි ප්‍රමාණයක් අධි තාක්ෂණික ව්‍යාපෘති වීම විශේෂයකි.
+Most of the investors carried out under the Belt and Road Project in the 2023 of the year 2023 are high technology.
 
-එහිදී විද්‍යුත් වාහන නිෂ්පාදනයද කැපී පෙනෙන ලෙස ඉහළ නැංවීමද දැකිය හැකිවෙයි.
+The electrical vehicles production also also appears.
+
+The electrical vehicles have been allocated $ 8 billion to expand the battery production and the construction of a Battery factory in South Korea.
 
 ...
 
 [Data](articles/43af16dd.json)
+
+[Extended Data](ext_articles/43af16dd.ext.json)
 
 ---
 
@@ -198,6 +212,8 @@ The expenses also reportedly soared because the former PCB chairman, Zaka Ashraf
 
 [Data](articles/4a1b03f4.json)
 
+[Extended Data](ext_articles/4a1b03f4.ext.json)
+
 ---
 
 ### Action against Keheliya - SJB MPs contradict each other
@@ -213,6 +229,8 @@ Though SJB MP Kavinda Jayawardene announced last week that his party has decided
 ...
 
 [Data](articles/63302de2.json)
+
+[Extended Data](ext_articles/63302de2.ext.json)
 
 ---
 
@@ -388,6 +406,8 @@ In Pakistan there are two packages available combining both TV and digital right
 
 [Data](articles/7426e131.json)
 
+[Extended Data](ext_articles/7426e131.ext.json)
+
 ---
 
 ### School digital begins with Advanced Level
@@ -450,6 +470,8 @@ Rahmat Shah who was unbeaten on 46 succeeded to reach his half ton but four runs
 
 [Data](articles/55e75987.json)
 
+[Extended Data](ext_articles/55e75987.ext.json)
+
 ---
 
 ### To digitizing 3,000 schools with Advanced Level by June
@@ -487,6 +509,8 @@ He said the punishment given to Keheliya Rambukwella can be considered the best 
 ...
 
 [Data](articles/3b3b4144.json)
+
+[Extended Data](ext_articles/3b3b4144.ext.json)
 
 ---
 
@@ -541,6 +565,8 @@ A tourist couple carrying a Sri Lankan national flag at the Independence Square 
 ◼️
 
 [Data](articles/2e4a1767.json)
+
+[Extended Data](ext_articles/2e4a1767.ext.json)
 
 ---
 
@@ -686,6 +712,8 @@ The competition will kickoff with the opening game at Mexico City's iconic Aztec
 
 [Data](articles/8faa10f4.json)
 
+[Extended Data](ext_articles/8faa10f4.ext.json)
+
 ---
 
 ### Anura Kumara meets Indian Foreign Minister in Delhi
@@ -724,6 +752,8 @@ They said a tree collapsed while some 30 students of the nursery section, were p
 
 [Data](articles/7dbd3e97.json)
 
+[Extended Data](ext_articles/7dbd3e97.ext.json)
+
 ---
 
 ### Anura Special Meeting visited India
@@ -752,6 +782,8 @@ A Bodhi puja pinkama was held recently in view of the 67th anniversary of Dr. Ve
 
 [Data](articles/59689f14.json)
 
+[Extended Data](ext_articles/59689f14.ext.json)
+
 ---
 
 ### Save Kashmir...
@@ -763,6 +795,8 @@ A symbolic demonstration was held today in front of the United Nations (UN) Head
 ◼️
 
 [Data](articles/1d35986f.json)
+
+[Extended Data](ext_articles/1d35986f.ext.json)
 
 ---
 
@@ -1527,6 +1561,8 @@ He underscored the link between this lifestyle trend and the rise in non-communi
 ...
 
 [Data](articles/a7ae4c2b.json)
+
+[Extended Data](ext_articles/a7ae4c2b.ext.json)
 
 ---
 

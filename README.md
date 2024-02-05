@@ -1,44 +1,80 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 13:51:46**
+As of **2024-02-05 14:02:21**
 
 ## Newspaper Stats
 
-*Scraped **4,893** Articles*
+*Scraped **4,899** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 59
 bbccomsinhala | 72
-dbsjeyarajcom | 137
+dbsjeyarajcom | 138
 economynextcom | 260
 islandlk | 263
 dailyftlk | 280
 newsfirstlk | 296
-adalk | 421
-virakesarilk | 558
+adalk | 422
+virakesarilk | 560
 adaderanalk | 609
-tamilmirrorlk | 624
+tamilmirrorlk | 625
 adaderanasinhalalk | 627
-dailymirrorlk | 687
+dailymirrorlk | 688
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,893 (100.0%) of 4,893 articles have been extended.
+4,893 (99.9%) of 4,899 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
 
+### Anura Kumara holds talks with Jaishankar in India
+
+*2024-02-05 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-Kumara-holds-talks-with-Jaishankar-in-India/108-276340) · `en`
+
+India, Feb 05 (Daily Mirror) - National People’s Power(NPP) leader Anura Kumara Dissanayake held talks with Indian External Affairs Minister Dr. S. Jaishankar in New Delhi today.
+
+Dr. Jaishankar said in a message on X, “It was a good discussion on our bilateral relationship and the mutual benefits from its further deepening.  Also spoke about Sri Lanka’s economic challenges and the path ahead,”
+
+Pleased to meet @anuradisanayake, Leader of NPP and JVP of Sri Lanka this morning.
+
+A good discussion on our bilateral relationship and the mutual benefits from its further deepening. Also spoke about Sri Lanka’s economic challenges and the path ahead.
+
+◼️
+
+[Data](articles/733ffde9.json)
+
+---
+
+### ஜனராணி என்ன சொல்கிறார்
+
+*2024-02-05 13:20:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனராணி-என்ன-சொல்கிறார்/175-332702) · `ta`
+
+ஜனராணி என்ன சொல்லி இருக்கிறார் என்பதை பாருங்கள்...  தரம் குறைந்த மருந்துகளை இறக்குமதிச் செய்த குற்றச்சாட்டுக்காக கைது செய்யப்பட்ட முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல, நீதிமன்ற உத்தரவின் பிரகாரம் எதிர்வரும் 15 ஆம் திகதி வரையிலும் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+அவ​ரை சிறைச்சாலைக்கு அழைத்துச் செல்வதற்காக, சிறைச்சாலை வாகனத்தில் ஏற்றியபோது, திடீ​ரென சுகயீனமடைந்த அவர், சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
+
+இது தொடர்பில் எமது சகோதர பத்திரிக்கையான ‘அத’ பத்திரிக்கையில் ‘சித்திர’கதையொன்று இன்று (05) எழுதப்பட்டுள்ளது.
+
+பின்குறிப்பு: வைத்தியசாலைக்குச் செல்லும் அனைவரும் வெளியே வருவதில்லை அதனால் தான், வைத்தியசாலைகளுக்கு முன்பாக மலர் சாலைகள் உள்ளன என கெஹலிய ரம்புக்வெல சுகாதார அமைச்சராக பதவியில் இருந்த​போது தெரிவித்திருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/f99ded4d.json)
+
+---
+
 ### Child killed, three injured after tree falls at school
 
 *2024-02-05 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97016/child-killed-three-injured-after-tree-falls-at-school) · `en`
 
-One child has been reported dead, while three others were injured after a tree collapsed at an international school in the Gampola area.
+A five-year-old child has been reported dead, while three others were injured after a tree collapsed on them at an international school in the Gampola area.
 
-Meanwhile, three other students who were also reportedly injured during the incident have been hospitalised.
+Meanwhile, the three other students who were also reportedly injured during the incident have been hospitalised, the Disaster Management Centre (DMC) reported.
 
 ◼️
 
@@ -79,6 +115,24 @@ The price of Nuwara Eliya Carrot has increased again. The price of 1 kg carrot, 
 [Data](articles/1a462859.json)
 
 [Extended Data](ext_articles/1a462859.ext.json)
+
+---
+
+### இந்திய வெளிவிவகார அமைச்சரை சந்தித்தார் அனுரகுமார - புதுடில்லியில் முக்கிய பேச்சுவார்த்தை
+
+*2024-02-05 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175602) · `ta`
+
+இந்தியாவிற்கு விஜயம் மேற்கொண்டுள்ள ஜேவிபியின் தலைவர் அனுரகுமாரதிசநாயக்க இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கரை சந்தித்து பேச்சுவார்த்தைகளை மேற்கொண்டுள்ளார்.
+
+எங்கள் இருதரப்பு உறவுகள் குறித்தும் அதனை மேலும் வலுப்படுத்துதால் உருவாகக்கூடிய பரஸ்பர நன்மைகள் குறித்து  இந்த சந்திப்பின்பொது ஆராயப்பட்டதாக ஜெய்சங்கர் தெரிவித்துள்ளார்.
+
+இலங்கையின் பொருளாதார சவால்கள் முன்னோக்கிய பாதை குறித்தும் ஜேவிபி தலைவருடனான பேச்சுவார்த்தைகளின் போது ஆராயப்பட்டதாக இந்திய வெளிவிவகார அமைச்சர் தெரிவித்துள்ளார்.
+
+இந்தியா தனது அயல்நாட்டிற்கு முதலிடம் என்ற கொள்கை காரணமாகவும் சாகர் கொள்கை காரணமாகவும் இலங்கையின் நண்பனாகவும் நம்பகதன்மை மிக்க சகாவாகவும் விளங்கும் என இந்தியவெளிவிவகார அமைச்சர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/26783a43.json)
 
 ---
 
@@ -141,6 +195,22 @@ The shooting had been made by saying that he had arrived in a car to be CID offi
 [Data](articles/1d5ecd03.json)
 
 [Extended Data](ext_articles/1d5ecd03.ext.json)
+
+---
+
+### நடிகர் விஜயகாந்தின் உருவத்தை கையில் பதித்தார் பிரேமலதா
+
+*2024-02-05 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175597) · `ta`
+
+மறைந்த நடிகர் விஜயகாந்தின் நினைவாக அவரது மனைவி பிரேமலதா உருவப்படத்தை  வலது கையில் பச்சை குத்தியுள்ளார்.
+
+நடிகரும் தேமுதிக கட்சியிக் தலைவருமான விஜயகாந்த் கடந்த வருடம் டிசம்பர் 28ஆம் திகதி காலமான நிலையில் அவரது உடல் அடக்கம் செய்யப்பட்ட கோயம்பேடு தேமுதிக தலைமை அலுவலகத்தில் பலரும் அஞ்சலி செலுத்தி வருவதுடன் பிரேமலதாவுக்கு நேரில் ஆறுதலும் கூறி வருகின்றனர்.
+
+இந்நிலையில், பிரேமலதா தனது கணவர் விஜயகாந்த்தின் உருவத்தை தன்னுடைய வலது கையில் பச்சை குத்தியுள்ளார். அழகாக பச்சை குத்தப்பட்டுள்ள விஜயகாந்தின் உருவம் அனைவரின் கவனத்தையும் ஈர்த்து வருகிறது.
+
+◼️
+
+[Data](articles/3435e9ac.json)
 
 ---
 
@@ -695,6 +765,24 @@ A bond maturing on 01.07.2028 was quoted at 12.70/78. (Colombo/Feb5/2024)
 [Data](articles/2584f60f.json)
 
 [Extended Data](ext_articles/2584f60f.ext.json)
+
+---
+
+### පාන් ගැසට්ටුව නිසා පාන් කන්න තියෙන අවස්ථාවත් නැතිවෙනවලු
+
+*2024-02-05 10:49:51* · [`adalk`](https://www.ada.lk/breaking_news/පාන්-ගැසට්ටුව-නිසා-පාන්-කන්න-තියෙන-අවස්ථාවත්-නැතිවෙනවලු/11-407903) · `si`
+
+පාන් කියා ගන්නවත් ඉන්න බැරි ජනතාවට පාන් කෑල්ලක්වත් කන්න තිබෙන අවස්ථාව පාන්වලට ගැසෙට්ටු ගසා නැති නොකරන්න යයි සිය සංවිධානය ඊට අදාළ බලධාරීන්ගෙන් ඉල්ලා සිටින බව ශ්‍රී ලංකා ජාතික පෙරමුණේ නායක අසේල සම්පත් මහතා අද(5) ඇල්පිටියේදී කීවේය.
+
+පාන්වලට ගැසෙට්ටු ගැසීම සම්බන්ධයෙන් අද (5) ඇල්පිටියේ පැවති මාධය හමුවකදී අසේල මහතා එසේ කීවේය.
+
+එහිදී තවදුරටත් කතා කරමින් බලධාරීන් කළ යුතුව ඇත්තේ පාන් වලට ගැසෙට්ටු ගැසීම නොව පාන් ගෙඩියක ඇති ග්රෑම් එකක මිලක් තීරනය කළ බව ද අසේල මහතා කීවේය.
+
+මේ දියත් වන්නේ පාන් වලට ගැසෙට්ටු ගසා බේකරි හිමියන් බය කොට ඔවුන් පාන් නිශ්පාදනයෙන් ඈත්කිරීමේ වැඩපිළිවෙළක් බවද අසේල මහතා කීවේය.මේ පාන් ගැසෙට්ටුව නිසා දැන් දැන් ආපනශාලා හිමියන්ද පාන් අලෙවි කිරීමෙන් වැලකී සිටින බවද අසේල මහතා කීවේය.
+
+◼️
+
+[Data](articles/4b3471aa.json)
 
 ---
 
@@ -1710,6 +1798,22 @@ According to the Constitution of the country, it has been announced that Vice Pr
 
 ---
 
+### தமிழரசு கட்சியின் தலைவராக சிறிதரனும் தமிழர் அரசியலும்
+
+*2024-02-05 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83558) · `en`
+
+தேசிய இனப்பிரச்சினைக்கு  அரசியல் இணக்கத்தீர்வைக்  காணும் முயற்சிகளிலும்  வடக்கு,கிழக்கில்  எதிர்நோக்கப்படும்  பல்வேறு மனிதாபிமானப் பிரச்சினைகளுக்கு தீர்வைக் காணும் முயற்சிகளிலும் தமிழ் அரசியல் கட்சிகள் ஐக்கியப்பட்டு ஒருமித்த அணுகுமுறையைக் கடைப்பிடிக்கவேண்டும் என்பதே தமிழ் மக்களினதும் அவர்களின் நலன்களில் அக்கறைகொண்ட சிவில் சமூகம் மற்றும் அவதானிகளினதும்  இடையறாத வேண்டுகோளாக  இருந்து வருகிறது.
+
+ஆனால், தமிழ்க் கட்சிகளின் தலைவர்கள் அது குறித்து அக்கறை காட்டக்கூடிய மனநிலையில் இல்லை. ஏற்கனவே இருபது வருடங்களுக்கும் அதிகமான காலமாக பல்வேறு மாச்சரியங்களுக்கு மத்தியிலும் கூட நீடித்து நின்ற தமிழ் தேசிய கூட்டமைப்பும் கடந்த முற்பகுதியில் இல்லாமற் போய்விட்டது.
+
+கடந்தவாரம் தமிழ்க் கட்சிகளின் தலைவர்களை சந்தித்த புதிய இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவும் அரசியல் தீர்வுக்கான கோரிக்கையை அந்த கட்சிகள் ஐக்கியப்பட்ட ஒரு அமைப்பாக ஒருமித்து  முன்வைக்கவேண்டும் என்று வலியுறுத்திக் கூறியிருக்கிறார்.
+
+...
+
+[Data](articles/f4b88f9c.json)
+
+---
+
 ### Police Action Alone is Insufficient to Combat Rising Crime - EDITORIAL
 
 *2024-02-05 00:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Police-Action-Alone-is-Insufficient-to-Combat-Rising-Crime-EDITORIAL/172-276325) · `en`
@@ -1913,117 +2017,5 @@ The ceremonial opening included the traditional Sri Lankan gesture of offering b
 [Data](articles/d26aac8a.json)
 
 [Extended Data](ext_articles/d26aac8a.ext.json)
-
----
-
-### Tension at Kandagadu rehabilitation station
-
-*2024-02-04 22:22:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கந்தகாடு-புனர்வாழ்வு-நிலையத்தில்-பதற்றம்/175-332670) · `ta`
-
-Ten prisoners and an army soldier were injured in a clash between two groups this evening at the Kandagadu rehabilitation center in Polonnaruwa.
-
-Police said the cause of the conflict was unknown and the kitchen at the Kandagadu rehabilitation station and the prisoners had been damaged in many places.
-
-◼️
-
-[Data](articles/020059c4.json)
-
-[Extended Data](ext_articles/020059c4.ext.json)
-
----
-
-### US intends further strikes on Iran-backed groups, national security adviser says
-
-*2024-02-04 22:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97005/us-intends-further-strikes-on-iran-backed-groups-national-security-adviser-says) · `en`
-
-The United States intends to launch further strikes at Iran-backed groups in the Middle East, the White House national security adviser said on Sunday, after hitting Tehran-aligned factions in Iraq, Syria and Yemen over the last two days.
-
-The United States and Britain unleashed attacks against 36 Houthi targets in Yemen, a day after the U.S. military hit Tehran-backed groups in Iraq and Syria in retaliation for a deadly attack on U.S. troops in Jordan.
-
-“We intend to take additional strikes, and additional action, to continue to send a clear message that the United States will respond when our forces are attacked, when our people are killed,” White House National Security Adviser Jake Sullivan told NBC’s “Meet the Press” program on Sunday.
-
-The strikes are the latest blows in a conflict that has spread into the Middle East since Oct. 7, when the Iran-backed Palestinian militant group Hamas stormed Israel from the Gaza Strip, igniting war.
-
-...
-
-[Data](articles/45ecc7e4.json)
-
-[Extended Data](ext_articles/45ecc7e4.ext.json)
-
----
-
-### Cardinal calls for a transition to new leadership in Sri Lanka
-
-*2024-02-04 21:45:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/04/cardinal-calls-for-a-transition-to-new-leadership-in-sri-lanka/) · `en`
-
-COLOMBO (News 1st) – Archbishop of Colombo His Eminence Malcolm Cardinal Ranjith has called for a transition to new leadership in Sri Lanka.
-
-Cardinal Ranjith highlighted the contrasting approaches taken by Singapore and Sri Lanka after independence. While Singapore's leaders prioritized unity and the well-being of all communities, he decried the division sowed by Sri Lankan leadership based on language and religion.
-
-He further praised Singapore's strong legal system and emphasis on discipline, contrasting them with the perceived disregard for law and order in Sri Lanka.
-
-The Cardinal accused the government of self-serving agendas and prioritizing personal gain over the nation's well-being. He questioned the legitimacy of their "independence celebrations" at a time of economic and political turmoil, suggesting that they only celebrate their own freedom, not that of the suffering people.
-
-...
-
-[Data](articles/3b985b5f.json)
-
-[Extended Data](ext_articles/3b985b5f.ext.json)
-
----
-
-### Tense situation in Kandakadu Rehabilitation Centre
-
-*2024-02-04 21:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tense-situation-in-Kandakadu-Rehabilitation-Centre/108-276315) · `en`
-
-Polonnaruwa, Feb 04 ( Daily Mirror) - At least ten inmates and a soldier were injured in a clash between two groups of inmates at the Kandakadu Rehabilitation Centre in Polonnaruwa this evening.
-
-Police said the cause of the conflict has not been revealed yet and the inmates have damaged the kitchens of the Kandakadu Rehabilitation Centre and several other places.
-
-◼️
-
-[Data](articles/63f21d46.json)
-
-[Extended Data](ext_articles/63f21d46.ext.json)
-
----
-
-### Several inmates and soldier injured in clash at Kandakadu camp
-
-*2024-02-04 21:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97004/several-inmates-and-soldier-injured-in-clash-at-kandakadu-camp) · `en`
-
-Several inmates and an army soldier have reportedly been injured in a clash between two groups at the Kandakadu Rehabilitation and Treatment Centre, police reported.
-
-According to the Welikanda Police, the injured persons are currently receiving treatment at the Welikanda Hospital, while 34 inmates have been arrested in connection with the incident.
-
-While the cause of the clash is yet to be determined, police reported that those involved had damaged property within the Kandakadu camp, while several poles and clubs believed to have been used in the clash had been taken into police custody.
-
-Meanwhile, police also seized a stock of narcotics found within the premises.
-
-The arrestees are due to be produced before the Polonnaruwa Magistrate’s Court on Monday (05 Feb.).
-
-◼️
-
-[Data](articles/b4d02903.json)
-
-[Extended Data](ext_articles/b4d02903.ext.json)
-
----
-
-### SLPA receives brand new cranes to boost operational capacity at East Container Terminal
-
-*2024-02-04 21:11:00* · [`islandlk`](http://island.lk/slpa-receives-brand-new-cranes-to-boost-operational-capacity-at-east-container-terminal/) · `en`
-
-Sri Lanka Ports Authority (SLPA) is to receive brand new 12 STS Gantry cranes and 40 ARMG cranes from China to a total cost of USD 282 million. 03 STS Gantry cranes out of above total were received at the SLPA’s East Container Terminal (ECT) on February 2. The cranes will be installed at the ECT of the Port of Colombo. The total cost of the cranes is borne by SLPA.
-
-The specifications for the new STS Gantry cranes at the Port of Colombo are as follows:
-
-The outreach of a crane is 72 meters, spanning to operate 26TEUs across. Back reach extends to 25m, with a lifting height above the rail of 55m and a lifting height below the rail of 18m. The maximum load capacity under the spreader is 65T while under the lifting beam, a crane can handle up to 75T.
-
-...
-
-[Data](articles/cfd1d5e0.json)
-
-[Extended Data](ext_articles/cfd1d5e0.ext.json)
 
 ---

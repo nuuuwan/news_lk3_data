@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 20:32:45**
+As of **2024-02-05 20:49:44**
 
 ## Newspaper Stats
 
-*Scraped **4,978** Articles*
+*Scraped **4,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,90 @@ economynextcom | 260
 islandlk | 263
 dailyftlk | 280
 newsfirstlk | 302
-adalk | 428
-virakesarilk | 574
+adalk | 431
+virakesarilk | 575
 adaderanalk | 617
 tamilmirrorlk | 632
-adaderanasinhalalk | 645
-dailymirrorlk | 705
+adaderanasinhalalk | 646
+dailymirrorlk | 706
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,978 (100.0%) of 4,978 articles have been extended.
+4,979 (99.9%) of 4,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### අපිට ආයෙත් හිඟන ජාතියක් වෙන්න බෑ
+
+*2024-02-05 20:19:46* · [`adalk`](https://www.ada.lk/breaking_news/අපිට-ආයෙත්-හිඟන-ජාතියක්-වෙන්න-බෑ/11-407917) · `si`
+
+සියලු ජනතාවට අභිමානයෙන් ජීවත්විය හැකි රටක් ගොඩනැගීමට කැප වෙනවා – ජනපති.
+
+ආණ්ඩුවේ වැඩපිළිවෙළ සමඟ එක්වන ලෙස ජනපති සියලු පාර්ශ්වයන්ට නැවත ඇරයුම් කරයි.
+
+ඉඩම් අයිතිය ඉල්ලා ලෝකයේ විප්ලව රැසක් සිදු වූවද විප්ලවයකින් තොරවම මෙරට ජනතාවගේ ඉඩම් අයිතිය ලබා දීමට හැකිවීම වත්මන් ආණ්ඩුව ලැබූ සුවිශේෂී ජයග්‍රහණයක් බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+
+වත්මන් ආණ්ඩුව ලැබූ පළමු ජයග්‍රහණය රට බංකොලොත්භාවයෙන් මුදවා ගැනීම බව පෙන්වා දුන් ජනාධිපතිවරයා ලක්ෂ 20ෙක ජනතාවට ප්‍රතිලාභ සැලසෙන “අස්වැසුම” වැඩසටහන ක්‍රියාත්මක කිරීම සහ රාජ්‍ය සේවකයන් ලක්ෂ 15කට වැටුප් වැඩි කිරීම අනෙකුත් ජයග්‍රහණ බවද පෙන්වා දුන්නේය.
+
+පාර්ලිමේන්තුවේ කොටසකගේ පමණක් සහාය ඇතිව වසර දෙකක් වැනි කෙටි කාලයක් තුළ රටේ ජනතාවගේ අභිවෘද්ධිය වෙනුවෙන් මෙවන් පුළුල් වැඩකොටසක් ඉටු කිරීමට ආණ්ඩුව සමත් වූවා නම් පාර්ලිමේන්තුවේ සියලුදෙනාගේ සහාය ඇතිව රට ඔසවා තැබිය හැක්කේ කුමන ස්ථානයකට කියා සියලුදෙනා සිතා බැලිය යුතු බව ජනාධිපතිවරයා පැවසීය.
+
+...
+
+[Data](articles/32c1f345.json)
+
+---
+
+### New Cabinet Decision on Starking in Sri Lanka
+
+*2024-02-05 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193017) · `si`
+
+Cabinet has approved a resolution submitted to the Cabinet to export herbal cultivation in Sri Lanka.
+
+In response to Ada Derana, the Minister of State Diyana Gamage said that.
+
+Speaking further, Minister of Tourism said that the call of foreign investors will be taken through the Board of Investment of Sri Lanka.
+
+The State Minister further stated that the local investors also allow the opportunity to be done by dollars.
+
+◼️
+
+[Data](articles/13aee2e2.json)
+
+[Extended Data](ext_articles/13aee2e2.ext.json)
+
+---
+
+### திருகோணமலை - கொழும்பு ரயில் பயணிகளுக்கான அறிவித்தல்!
+
+*2024-02-05 19:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175655) · `ta`
+
+கெக்கிராவ மற்றும் பலுகஸ்வெவ ரயில் நிலையங்களுக்கு இடையில் 118ஆவது மைல் கல் அருகில் உள்ள கடவை திருத்தம் காரணமாக திருமலையிலிருந்து கொழும்பு கோட்டைக்குச் செல்லும் ரயில் நாளை (07) மாலை 4.00 மணிக்கே  திருமலையிலிருந்து புறப்படும் என ரயில்வே பிரதி பொது முகாமையாளர் (போக்குவரத்து) தெரிவித்துள்ளார்.
+
+திருகோணமலை ரயில் நிலையத்திலிருந்து வழமையாக  இந்த ரயில் பகல் 12.15 பயணத்தை ஆரம்பிப்பதாகவும் அவர் கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/94189608.json)
+
+---
+
+### Anura meets India’s National Security Adviser Ajit Doval
+
+*2024-02-05 19:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-meets-Indias-National-Security-Adviser-Ajit-Doval/108-276359) · `en`
+
+India, Feb. 5 (Daily Mirror)-NPP leader Anura Kumara Dissanayake met India's National Security Adviser (NSA) Ajit Doval this afternoon, party sources said.
+
+Matters concerning regional security and bilateral ties between India and Sri Lanka were broadly discussed during the meeting.
+
+◼️
+
+[Data](articles/aec4670e.json)
+
+---
 
 ### Bowzi demands the withdrawal of the case against himself
 
@@ -156,6 +224,22 @@ Responding to the comments made by SJB leader Sajith Premadasa on the weekend, F
 
 ---
 
+### කෙහෙළිය විදේශීය ඖෂධම භාවිත කරන්න අවසර ඉල්ලයි?
+
+*2024-02-05 18:53:16* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-විදේශීය-ඖෂධම-භාවිත-කරන්න-අවසර-ඉල්ලයි-/11-407911) · `si`
+
+ඉන්දියානු ණය යෝජනා ක්‍රමය යටතේ ව්‍යාජ ලේඛන සකස් කර ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් රජයේ රෝහල්වලට බෙදා හැරීම මඟින් රුපියල් කෝටි ගණනක වංචා කිරීම සහ රෝගී ජීවීත අනාරක්‍ෂිත තත්වයකට පත් කිරීමේ සිද්ධිය සම්බන්ධයෙන් රිමාන්ඩ් බාරයට පත් කළ හිටපු සෞඛ්‍ය අමාත්‍ය මෙන්ම පරිසර අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගේ රෝගී තත්වයන් සඳහා ඔහු පාවිච්චි කරන විදේශිය ඖෂධ වර්ගම පාවිච්චි කිරීමට බන්ධනාගාර නිලධාරීන්ගෙන් අවසර ඉල්ලා ඇතැයි වාර්තාවේ.
+
+රිමාන්ඩ් බාරයට පත් කරනු ලැබු කෙහෙළිය රඹුක්වැල්ල මහතා යම් යම් රෝගී තත්වයන් හේතූවෙන් ඖෂධ වර්ග 08ක් පමණ පාවිච්චි කරනු ලබයි.
+
+කාලයක් තිස්සේ ඔහු පාවිච්චි කරනු ලබන විදේශිය ඖෂධ වර්ගම බන්ධනාගාරය තුළදීත් ඔහුට පාවිච්චි කිරීමට අවසර දෙන්නැයි ඔහු මෙලෙස අවසර ඉල්ලා ඇතැයි වාර්තාවේ.
+
+◼️
+
+[Data](articles/e0b3c1ca.json)
+
+---
+
 ### A spinner coach to Sri Lanka
 
 *2024-02-05 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193016) · `si`
@@ -169,6 +253,22 @@ Craig howard, the former first-text player, has been appointed as the spinner co
 [Data](articles/28cde943.json)
 
 [Extended Data](ext_articles/28cde943.ext.json)
+
+---
+
+### අනුර හා ඉන්දීය විදේශ කටයුතු ඇමති අතර හමුවක්
+
+*2024-02-05 18:48:59* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-හා-ඉන්දීය-විදේශ කටයුතු-ඇමති-අතර-හමුවක්/11-407910) · `si`
+
+ඉන්දීය රජයේ නිල ආරාධනාවක් අනුව ඉන්දීය සංචාරයකට එක්ව සිටින ජනතා විමුක්ති පෙරමුණේ නායක අනුර කුමාර දිසානායක මහතා ඇතුළු දූත පිරිස ඉන්දීය විදේශ කටයුතු අමාත්‍ය එස්. ජයශංකර් හමුවී ද්විපාර්ශ්වීය සාකච්ඡා පවත්වා තිබේ.
+
+අද පෙරවරුවේ මෙම ද්විපාර්ශ්වීය සාකච්ඡා පවත්වා තිබේ. මෙහිදී ද්විපාර්වීය සබඳතා මෙන්ම අනාගතයේදී දෙරටටම වැදගත් වන කරුණු පිළිබඳව සාකච්ඡා පවත්වා තිබේ.
+
+මෙහිදී ශ්‍රී ලංකාවේ ආර්ථික සබඳතා අභියෝගතා සම්බන්ධයෙන් සාකච්ඡා කළ බව ඉන්දීය විදේශ කටයුතු අමාත්‍යවරයා සිය x ගිණුමෙන් ප්‍රකාශ කරයි.
+
+◼️
+
+[Data](articles/b7d88406.json)
 
 ---
 
@@ -1901,145 +2001,5 @@ Meanwhile, Agriculture and Plantation Industries Minister Mahinda Amaraweera has
 [Data](articles/819664dc.json)
 
 [Extended Data](ext_articles/819664dc.ext.json)
-
----
-
-### Seychelles authorities record statements from rescued Sri Lankan fishermen
-
-*2024-02-05 11:35:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/seychelles-authorities-record-statements-from-rescued-sri-lankan-fishermen/) · `en`
-
-COLOMBO (News 1st); Seychelles authorities have recorded statements from the Sri Lankan fishermen who were rescued from an armed group.
-
-The High Commission of Sri Lanka in Seychelles said the statements will be translated and forwarded to the Seychelles Police on Monday (05).
-
-Accordingly, their repatriation date will be announced over the next few days.
-
-The High Commission of Sri Lanka added the relevant fishermen are currently detained at a fisheries harbour in Seychelles.
-
-'Lorenzo Putha 4', left the port of Dikkowita on the 12th of January for its maiden voyage, with six fishermen on board.
-
-They are all residents of Marawila, Chilaw, and three of them are members of the same family.
-
-They were rescued by Seychelles security forces with the intervention of the Sri Lanka Navy.
-
-Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
-
-Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
-
-◼️
-
-[Data](articles/e5e4d29f.json)
-
-[Extended Data](ext_articles/e5e4d29f.ext.json)
-
----
-
-### 5 years in prison for Poonam Pandey?
-
-*2024-02-05 11:32:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பூனம்-பாண்டேவுக்கு-5-ஆண்டுகள்-சிறை/54-332691) · `ta`
-
-Actress Poonam Pandey passed away 2 days ago that she passed away due to cervical cancer. The manager declared that the next day was mysterious death. His girlfriend Poonam posted that she was alive. This made the fans shocked and confused.
-
-In an end to this information, Poonam Pandey issued a record that he was still alive on his Insta of his Insta and published the news to raise awareness about cervical cancer.
-
-He also apologized if the news was affected by the mind. Various comments have been released on social networks for this video. It is a damn act to raise awareness of the disease. The Nettisans also criticized the madness for self -advertising.
-
-According to the Information Technology section enacted in 2000, you will be sentenced to 3 years in prison for misinformation on social networks. It is also said that the same mistake will be sentenced to 5 years in prison. It has also been reported that Rs 5 lakh to 10 lakh can be imposed.
-
-...
-
-[Data](articles/680f5586.json)
-
-[Extended Data](ext_articles/680f5586.ext.json)
-
----
-
-### Delhi flights influenced by heavy fog
-
-*2024-02-05 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192995) · `si`
-
-Delhi's flights have been severely affected by the heavy station.
-
-Indira Gandhi International Airport says that several flights will delay in the day (05).
-
-The relevant companies on updated flight information have been made aware of the passengers.
-
-Indian media reported that there is over rainfall yesterday (04), Indian media reported that there is over rainfall.
-
-◼️
-
-[Data](articles/2ed62bc7.json)
-
-[Extended Data](ext_articles/2ed62bc7.ext.json)
-
----
-
-### India forward again at Gramei Awards
-
-*2024-02-05 11:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192994) · `si`
-
-Indian Drumper Organism Brotherar Hussein and Banolu Forest Racal Music Performance "The Best Global Music Performance" has been recognized at the year 2024.
-
-Sakire also won the "Best Global Music Album 'award.
-
-The Shankar Massernizer, as the music artist, British, drumisackey wikkoon disciplines, and guitarists have acted as British John McClolin.
-
-The 66th Grami Awards Celebrations were held at the Kandy of US in America.
-
-The Award of the Year award won the Billie Eilyz (Billie Eilyz), which comes from the Moat WAS I MADE?For the song.
-
-Taylor Swift the Midnights album of Taylor Swift the Year Album Award.
-
-Meanwhile, the best songs of the year was the Flowers named Milerus Flowers.
-
-◼️
-
-[Data](articles/f30c7035.json)
-
-[Extended Data](ext_articles/f30c7035.ext.json)
-
----
-
-### The bridge built by Premadasa collapsed
-
-*2024-02-05 11:26:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/பிரேமதாஸ-நிர்மாணித்த-பாலம்-இடிந்து-விழுந்தது/93-332690) · `ta`
-
-One of the bridges built during the reign of former President Ranasinghe Premadasa have collapsed.
-
-A bridge built in Kumbukodara area across Hulanda Oya on Embilipitiya - Mitteniya road. This has caused traffic.
-
-The incident took place on Monday (05) from 6.30 am to 7.30 am by a lorry carrying a tree.
-
-Police said the bridge had collapsed and fell into the stream of Paravurthi.
-
-No one was injured at this time. Due to the collapse of the bridge, the vehicles from Embilipitiya have been affected by vehicles traveling to Matara, Beliatta and Tangalle.
-
-Local residents say that the bridge, built in 1985 during the reign of the late President Ranasinghe Premadasa, was demolished due to the widening of the road without proper maintenance.
-
-◼️
-
-[Data](articles/5d5ea64a.json)
-
-[Extended Data](ext_articles/5d5ea64a.ext.json)
-
----
-
-### Bridge collapses causing traffic standstill at Embilipitiya
-
-*2024-02-05 11:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bridge-collapses-causing-traffic-standstill-at-Embilipitiya/108-276335) · `en`
-
-Embilipitiya, Feb 05, (Daily Mirror) -  The bridge across the Hulanda Oya on the Embilipitiya-Middeniya road, originating from the Kumbugodaara area collapsed, creating a traffic standstill.
-
-The incident, which occurred between 6:30 and 7:30 an was caused by a lorry loaded with timber.
-
-According to local residents, water supply has also been disrupted in some areas due to the incident.
-
-The bridge, constructed in 1985 during the tenure of late President Ranasinghe Premadasa, collapsed due to the widening of the road on both sides without proper maintenance. The widening, according to locals, left the bridge vulnerable, leading to its collapse this morning.
-
-◼️
-
-[Data](articles/b9b38f8b.json)
-
-[Extended Data](ext_articles/b9b38f8b.ext.json)
 
 ---

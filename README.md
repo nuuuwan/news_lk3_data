@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 01:02:25**
+As of **2024-02-06 01:17:20**
 
 ## Newspaper Stats
 
-*Scraped **5,010** Articles*
+*Scraped **5,013** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,15 +20,63 @@ virakesarilk | 580
 adaderanalk | 620
 tamilmirrorlk | 634
 adaderanasinhalalk | 649
-dailymirrorlk | 711
+dailymirrorlk | 714
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,005 (99.9%) of 5,010 articles have been extended.
+5,010 (99.9%) of 5,013 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-02-06 (Tuesday)
+
+### Solution for Somali Piracy has to be found on Land, not at Sea
+
+*2024-02-06 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Solution-for-Somali-Piracy-has-to-be-found-on-Land-not-at-Sea/172-276367) · `en`
+
+The SalamaFikira (FP) Group, a leading global security and risk management firm, warned in January, that despite a perceived decline in Somali piracy, recent incidents indicate that the menace has not been eradicated and remains a formidable challenge.
+
+By January 2011, 736 people were taken as hostages and 32 ships were captured by pirates. Piracy impeded the delivery of shipments and increased shipping expenses, costing an estimated US $ 6.9 billion a year in global trade, according to Oceans Beyond Piracy (OBP).
+
+According to the German Institute for Economic Research (DIW), a veritable industry of profiteers also arose around the piracy. Insurance companies significantly increased their profits from the pirate attacks as these companies hiked premium rates in response.
+
+...
+
+[Data](articles/639db13f.json)
+
+---
+
+### “Govt. tax policies are based on deals” -Dr. HariniAmarasuriya
+
+*2024-02-06 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Govt-tax-policies-are-based-on-deals-Dr-HariniAmarasuriya/231-276364) · `en`
+
+There is nothing underground or clandestine how we do things.
+
+Taking a more flexible line on geopolitics compared to several decades ago the NPP is ready to deal with any foreign power by placing national interest in the forefront
+
+We must engage with a country based on an agenda that best suits us. Whether it’s India, China or America no other country is going to come and work with us or engage with us without an agenda.
+
+...
+
+[Data](articles/67d96714.json)
+
+---
+
+### Are Politicians Above The Law?
+
+*2024-02-06 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Are-Politicians-Above-The-Law/172-276366) · `en`
+
+Following months of allegations of mismanagement of the health sector against him, former Health Minister Keheliya Rambukwella was arrested by the Criminal Investigation Department (CID) on Friday over an alleged scam involving the importation of substandard human immunoglobulin vials to Sri Lanka.
+
+On Thursday, Maligakanda Magistrate, Lochani Abeywickrama ordered him to appear before the CID on February 2, after he had failed to do so on Wednesday (January 31) and submit written justifications for his absence.
+
+...
+
+[Data](articles/944e9b2c.json)
+
+---
 
 ### 2024-02-05 (Monday)
 
@@ -480,6 +528,8 @@ President Ranil Wickremesinghe government has promised a non-aligned foreign pol
 
 [Data](articles/d74f8877.json)
 
+[Extended Data](ext_articles/d74f8877.ext.json)
+
 ---
 
 ### Bowzi demands the withdrawal of the case against himself
@@ -836,6 +886,8 @@ The webpage offers a user–friendly, confidential process for submitting inform
 
 [Data](articles/e469fb75.json)
 
+[Extended Data](ext_articles/e469fb75.ext.json)
+
 ---
 
 ### Minister Kanchana to attend ‘India Energy Week 2024’
@@ -919,6 +971,8 @@ A bond maturing on 01.07.2032 closed at 13.00/30 down from 13.25/45 percent. (Co
 ◼️
 
 [Data](articles/b76b8cbf.json)
+
+[Extended Data](ext_articles/b76b8cbf.ext.json)
 
 ---
 
@@ -1281,6 +1335,8 @@ Associations representing local publishers, printers, booksellers and importers 
 ...
 
 [Data](articles/9f0fbb11.json)
+
+[Extended Data](ext_articles/9f0fbb11.ext.json)
 
 ---
 
@@ -1955,49 +2011,5 @@ They said a tree collapsed while some 30 students of the nursery section, were p
 [Data](articles/7dbd3e97.json)
 
 [Extended Data](ext_articles/7dbd3e97.ext.json)
-
----
-
-### Anura Special Meeting visited India
-
-*2024-02-05 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193000) · `si`
-
-Anura Kumara Dissanayake, leader of the national propagation of India, is today (05), Indian External Affairs Minister Dr. S.. Discussions have been held with Jeyasankar.
-
-Mr. Jeyzankar lays note in his X account, and exchanged views on bilateral relations and economic challenges in Sri Lanka.
-
-◼️
-
-[Data](articles/c37ebea1.json)
-
-[Extended Data](ext_articles/c37ebea1.ext.json)
-
----
-
-### Commemoration...
-
-*2024-02-05 13:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Commemoration/110-276343) · `en`
-
-A Bodhi puja pinkama was held recently in view of the 67th anniversary of Dr. Ven. Bodagama Chandima Thera, the founder of the Nagananda International Buddhist College and the Vice Chancellor of the Thai Chief Sangha. In line with the Bodhi puja pinkama, a tree-planting ceremony was held and school accessories were handed over to low-income families while meditation programme too was held.
-
-◼️
-
-[Data](articles/59689f14.json)
-
-[Extended Data](ext_articles/59689f14.ext.json)
-
----
-
-### Save Kashmir...
-
-*2024-02-05 13:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Save-Kashmir/110-276341) · `en`
-
-A symbolic demonstration was held today in front of the United Nations (UN) Headquarters in Colombo to mark the Kashmir Solidarity Day, in which former city councillors of Colombo participated.
-
-◼️
-
-[Data](articles/1d35986f.json)
-
-[Extended Data](ext_articles/1d35986f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 14:50:05**
+As of **2024-02-05 15:02:52**
 
 ## Newspaper Stats
 
-*Scraped **4,903** Articles*
+*Scraped **4,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 296
 adalk | 422
 virakesarilk | 560
-adaderanalk | 609
+adaderanalk | 610
 tamilmirrorlk | 625
 adaderanasinhalalk | 631
 dailymirrorlk | 688
@@ -26,7 +26,7 @@ dailymirrorlk | 688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,903 (100.0%) of 4,903 articles have been extended.
+4,903 (100.0%) of 4,904 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,26 @@ Sri Lanka scored 439 runs for their first innings and Afghanistan scored 198 run
 [Data](articles/501b278e.json)
 
 [Extended Data](ext_articles/501b278e.ext.json)
+
+---
+
+### Anura Kumara meets Indian Foreign Minister in Delhi
+
+*2024-02-05 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97017/anura-kumara-meets-indian-foreign-minister-in-delhi-) · `en`
+
+Leader of the Janatha Vimukthi Peramuna (JVP) Anura Kumara Dissanayake has met with India’s Minister of External Affairs Dr. S. Jaishankar on Monday morning (05 Feb.).
+
+During the meeting, the parties discussed the exiting bilateral relationship between the two countries, and the mutual benefits that could be reaped from its further deepening.
+
+Taking to ‘X’ (formerly Twitter), Dr. Jaishankar added that they “also spoke about Sri Lanka’s economic challenges and the path ahead”.
+
+“India, with its Neighbourhood First and SAGAR policies, will always be a reliable friend and trusted partner of Sri Lanka”, the Indian Minister assured.
+
+A delegation of the JVP party comprising of JVP leader Anura Kumara Dissanayake, senior legislator Vijitha Herath, Secretary Nihal Abeysinghe and executive committee member Prof Anil Jayantha, left for Delhi, India early this morning, on an official invitation of the Indian government, as per a statement issued by the party.
+
+◼️
+
+[Data](articles/c7eadc48.json)
 
 ---
 
@@ -2007,23 +2027,5 @@ The two persons have been identified by two persons who have called on the house
 [Data](articles/eb680215.json)
 
 [Extended Data](ext_articles/eb680215.ext.json)
-
----
-
-### Mervyn took a coffin and objections to a cemetery
-
-*2024-02-04 23:28:42* · [`adalk`](https://www.ada.lk/breaking_news/මර්වින්-මිනී-පෙට්ටියක්-අරගෙන-කනත්තක-විරෝධයේ/11-407895) · `si`
-
-Former minister Mervyn Silva and a group of former Minister Mervyn Silva and a group of former Minister Mervyn Silva were taken to carry out a disorder to the security of the road.
-
-The protest was held by the burial of the death of social media.At the time of the former minister, the guard in the ceremony had objected against the cemetery, where there was a tense situation.
-
-However, former Minister, led by the premises, held the protest and entered the cemetery.
-
-◼️
-
-[Data](articles/834b42a1.json)
-
-[Extended Data](ext_articles/834b42a1.ext.json)
 
 ---

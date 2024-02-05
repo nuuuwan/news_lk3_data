@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 01:17:20**
+As of **2024-02-06 01:32:40**
 
 ## Newspaper Stats
 
-*Scraped **5,013** Articles*
+*Scraped **5,014** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 280
 newsfirstlk | 303
 adalk | 433
 virakesarilk | 580
-adaderanalk | 620
+adaderanalk | 621
 tamilmirrorlk | 634
 adaderanasinhalalk | 649
 dailymirrorlk | 714
@@ -26,11 +26,31 @@ dailymirrorlk | 714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,010 (99.9%) of 5,013 articles have been extended.
+5,012 (100.0%) of 5,014 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### At least 10 killed in attack on police station in Pakistan
+
+*2024-02-06 00:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97028/at-least-10-killed-in-attack-on-police-station-in-pakistan) · `en`
+
+(Reuters) - At least 10 police personnel were killed and six others injured in a pre-dawn attack on Monday by militants on a police station in northwest Pakistan, police said, as violence escalated ahead of general elections this week.
+
+At around 3 a.m. local time (2200 GMT Sunday) militants attacked the police station with sniper fire and then entered the building, said police officers in Pakistan’s Draban region in Khyber-Pakhtunkhwa province.
+
+“After entering the building, the terrorists used hand grenades which caused more casualties to the police,” said Malik Anees ul Hassan, the deputy superintendent of police in Draban.
+
+It was not immediately clear who was behind the attack and whether it was related to the election.
+
+A national assembly candidate was shot dead on Wednesday elsewhere in Khyber-Pakhtunkhwa. On the same day, another political leader was shot dead in his party’s election office in Balochistan province.
+
+...
+
+[Data](articles/9f12d83c.json)
+
+---
 
 ### Solution for Somali Piracy has to be found on Land, not at Sea
 
@@ -45,6 +65,8 @@ According to the German Institute for Economic Research (DIW), a veritable indus
 ...
 
 [Data](articles/639db13f.json)
+
+[Extended Data](ext_articles/639db13f.ext.json)
 
 ---
 
@@ -61,6 +83,8 @@ We must engage with a country based on an agenda that best suits us. Whether it�
 ...
 
 [Data](articles/67d96714.json)
+
+[Extended Data](ext_articles/67d96714.ext.json)
 
 ---
 
@@ -1993,23 +2017,5 @@ Several members of the Health Trade Union Alliance (HTUA) staged a protest in fr
 [Data](articles/d6f904a0.json)
 
 [Extended Data](ext_articles/d6f904a0.ext.json)
-
----
-
-### Tree collapses killing pre-grade student, injuring three others
-
-*2024-02-05 13:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tree-collapses-killing-pre-grade-student-injuring-three-others/108-276345) · `en`
-
-Gampola, Feb 05 (Daily Mirror) - A five-year-old student was killed and three other students were injured when a tree collapsed on them at an international school in Gampola.
-
-Police said one student who was in a critical condition has been admitted to the General Hospital, Kandy.
-
-They said a tree collapsed while some 30 students of the nursery section, were playing beneath.
-
-◼️
-
-[Data](articles/7dbd3e97.json)
-
-[Extended Data](ext_articles/7dbd3e97.ext.json)
 
 ---

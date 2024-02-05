@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 00:48:12**
+As of **2024-02-06 01:02:25**
 
 ## Newspaper Stats
 
-*Scraped **5,005** Articles*
+*Scraped **5,010** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 60
 bbccomsinhala | 73
 dbsjeyarajcom | 139
-economynextcom | 260
 islandlk | 263
+economynextcom | 265
 dailyftlk | 280
 newsfirstlk | 303
 adalk | 433
@@ -26,7 +26,7 @@ dailymirrorlk | 711
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,005 (100.0%) of 5,005 articles have been extended.
+5,005 (99.9%) of 5,010 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -464,6 +464,24 @@ Last week, SJB Parliamentarian Kavinda Jayawardena announced that his party had 
 
 ---
 
+### Sri Lanka needs to balance global powers for economic growth: Minister
+
+*2024-02-05 19:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-to-balance-global-powers-for-economic-growth-minister-149918/) · `en`
+
+ECONOMYNEXT – Sri Lanka will have to manage and balance all the global powers to achieve its economic growth and thus the island nation’s foreign policy should aim for economic diplomacy instead of political diplomacy, State Foreign Minister Tharaka Balasuriya said.
+
+Analysts say Sri Lanka has become the center of proxy geopolitical war between the country’s neighbour India and the World’s second largest economy China.
+
+China’s increasing influence in Sri Lanka has raised security concerns to India and that has already led Colombo to suspend the arrival of Chinese research vessels to the island nation.
+
+President Ranil Wickremesinghe government has promised a non-aligned foreign policy which was not followed by his predecessors. Successive Colombo governments’ foreign policy had leaned towards either China or the West in the past.
+
+...
+
+[Data](articles/d74f8877.json)
+
+---
+
 ### Bowzi demands the withdrawal of the case against himself
 
 *2024-02-05 19:36:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனக்கெதிரான-வழக்கை-வாபஸ்-பெறுமாறு-கோருகிறார்-பௌசி/175-332722) · `ta`
@@ -802,6 +820,24 @@ Minister Douglas Devananda has agreed with the President and the Minister of Ext
 
 ---
 
+### Sri Lanka SEC launches webpage to report dodgy social media
+
+*2024-02-05 17:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-sec-launches-webpage-to-report-dodgy-social-media-149910/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Securities and Exchange Commission said it had started a webpage to report “suspected market related wrongdoing on social media.”
+
+“With the rapid evolution of communication channels and the increase of social media influence in the financial markets, the SEC recognized the need for proactive measures to identify and address potential social media wrongdoings that may impact investors and market stability,” SEC Deputy Director General Tushara Jayaratne was quoted in the statement.
+
+“Considering these developments, the SEC has taken a significant step towards enhancing investor protection and market integrity with the launch of a dedicated webpage to report suspected market related wrongdoing on social media.”
+
+The webpage offers a user–friendly, confidential process for submitting information related to potential market manipulation, fraudulent activities, and other securities-related misconduct.
+
+...
+
+[Data](articles/e469fb75.json)
+
+---
+
 ### Minister Kanchana to attend ‘India Energy Week 2024’
 
 *2024-02-05 17:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97021/minister-kanchana-to-attend-india-energy-week-2024) · `en`
@@ -857,6 +893,32 @@ Harin Fernando said that Ranil Wickremesinghe is the best doctor for the country
 [Data](articles/a5b75836.json)
 
 [Extended Data](ext_articles/a5b75836.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 312.40/80 to the US dollar
+
+*2024-02-05 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-312-40-80-to-the-us-dollar-149896/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 312.40/80 to the US dollar Monday, from 313.25/50 on Friday, dealers said.
+
+A bond maturing on 01.02.2026 closed at 11.80/95 down from 12.00/15 percent Friday.
+
+A bond maturing on 15.09.2027 closed at 12.35/55 down from 12.65/72 percent.
+
+A bond maturing on 15.03.2028 closed at 12.55/65 down from 12.90/95 percent.
+
+A bond maturing on 15.07.2029 closed at 12.80/13.10 down from 13.00/20 percent.
+
+A bond maturing on 15.05.2030 closed at 13.00/15 down from 13.15/30 percent.
+
+A bond maturing on 15.05.2031 closed at 13.10/25 down from 13.25/45 percent.
+
+A bond maturing on 01.07.2032 closed at 13.00/30 down from 13.25/45 percent. (Colombo/Feb5/2024)
+
+◼️
+
+[Data](articles/b76b8cbf.json)
 
 ---
 
@@ -1201,6 +1263,24 @@ Following this, the Nelliyadi police have carried out investigations and have ta
 [Data](articles/dc068078.json)
 
 [Extended Data](ext_articles/dc068078.ext.json)
+
+---
+
+### Sri Lanka VAT on books makes knowledge unaffordable, violates UNESCO convention: industry
+
+*2024-02-05 16:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-vat-on-books-makes-knowledge-unaffordable-violates-unesco-convention-industry-149888/) · `en`
+
+ECONOMYNEXT  – Sri Lanka’s book industry has called for a reversal of the value added tax on books, which they warned will make knowledge unaffordable to many and the island may also be in violation of a UNESCO convention on educational materials and books.
+
+Under an International Monetary Fund program to boost revenues rather than cutting spending, called ‘revenue based fiscal consolidation’ Sri Lanka has to raise taxes and reduce exemptions.
+
+The country ran into external default after macro-economist engaged in extreme policy involving and tax rate cuts, after two currency crises from previous money printing to target ‘potential output’, ended up reducing growth.
+
+Associations representing local publishers, printers, booksellers and importers and writers and academics are protesting the tax on books.
+
+...
+
+[Data](articles/9f0fbb11.json)
 
 ---
 
@@ -1919,85 +1999,5 @@ A symbolic demonstration was held today in front of the United Nations (UN) Head
 [Data](articles/1d35986f.json)
 
 [Extended Data](ext_articles/1d35986f.ext.json)
-
----
-
-### Anura Kumara holds talks with Jaishankar in India
-
-*2024-02-05 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-Kumara-holds-talks-with-Jaishankar-in-India/108-276340) · `en`
-
-India, Feb 05 (Daily Mirror) - National People’s Power(NPP) leader Anura Kumara Dissanayake held talks with Indian External Affairs Minister Dr. S. Jaishankar in New Delhi today.
-
-Dr. Jaishankar said in a message on X, “It was a good discussion on our bilateral relationship and the mutual benefits from its further deepening.  Also spoke about Sri Lanka’s economic challenges and the path ahead,”
-
-Pleased to meet @anuradisanayake, Leader of NPP and JVP of Sri Lanka this morning.
-
-A good discussion on our bilateral relationship and the mutual benefits from its further deepening. Also spoke about Sri Lanka’s economic challenges and the path ahead.
-
-◼️
-
-[Data](articles/733ffde9.json)
-
-[Extended Data](ext_articles/733ffde9.ext.json)
-
----
-
-### What does Janaran say
-
-*2024-02-05 13:20:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனராணி-என்ன-சொல்கிறார்/175-332702) · `ta`
-
-Former Health Minister Keheliya Rambukwella, who has been arrested on charges of importing low quality drugs, has been kept in detention until the 15th of this month.
-
-When he was loaded with a prison vehicle, he was sick and was admitted to the Prison Hospital.
-
-In this regard, our brotherly magazine, the telephone magazine, has been written today (05).
-
-Footnote: It is noteworthy that Keheliya Rambukwella was in office as the Minister of Health.
-
-◼️
-
-[Data](articles/f99ded4d.json)
-
-[Extended Data](ext_articles/f99ded4d.ext.json)
-
----
-
-### Child killed, three injured after tree falls at school
-
-*2024-02-05 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97016/child-killed-three-injured-after-tree-falls-at-school) · `en`
-
-A five-year-old child has been reported dead, while three others were injured after a tree collapsed on them at an international school in the Gampola area.
-
-Meanwhile, the three other students who were also reportedly injured during the incident have been hospitalised, the Disaster Management Centre (DMC) reported.
-
-◼️
-
-[Data](articles/71885d53.json)
-
-[Extended Data](ext_articles/71885d53.ext.json)
-
----
-
-### Court order on the dating
-
-*2024-02-05 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192999) · `si`
-
-The Negombo District Court has been removed and managed management of property administration and management of the Pithawa Fisheries Society of Negombo.
-
-Negombo District Judge Lalith Kannnara has been released when the Archbishop was taken up for a complaint filed against the Pitrantana United Fisheries Society.
-
-A property of the Archbishop of Colombo has been handed over to the United Fisheries Society in 1963.
-
-The transfer is to be handed over to the Pitipana Below, a part of the property to be submitted to the Pitipana Yewana, a part of the property in the transfer.
-
-However, the Archbishop was able to cancel the gift deed without the pre-permission of the property and other than the pre-permission of the Tharmakuru.
-
-The Archbishop of Colombo was filed before the Negombo District Court about the reconstruction of the gift deed.
-
-...
-
-[Data](articles/ee4b1bec.json)
-
-[Extended Data](ext_articles/ee4b1bec.ext.json)
 
 ---

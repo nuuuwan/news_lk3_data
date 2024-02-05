@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 15:17:22**
+As of **2024-02-05 15:33:00**
 
 ## Newspaper Stats
 
-*Scraped **4,906** Articles*
+*Scraped **4,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ economynextcom | 260
 islandlk | 263
 dailyftlk | 280
 newsfirstlk | 296
-adalk | 423
+adalk | 424
 virakesarilk | 560
 adaderanalk | 611
-tamilmirrorlk | 625
-adaderanasinhalalk | 631
+tamilmirrorlk | 626
+adaderanasinhalalk | 634
 dailymirrorlk | 688
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,904 (100.0%) of 4,906 articles have been extended.
+4,906 (99.9%) of 4,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### හරක් කටාගේ පෙත්සමට CID අධ්‍යක්ෂක ඇතුළු පිරිසකට නොතීසි
+
+*2024-02-05 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193004) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන සිටින මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවකු බව කියන නඳුන් චින්තක වික්‍රමරත්න හෙවත් 'හරක් කටා' නමැත්තා රඳවා ගැනීම සඳහා නිකුත් කර තිබෙන හතරවන රැඳවුම් නියෝගය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන්නයි ඉල්ලා ගොනුකර ඇති පෙත්සම සම්බන්ධයෙන් කරුණු දක්වන ලෙස එහි වග උත්තරකරුවන් වශයෙන් නම් කර සිටින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂවරයා ඇතුළු නිලධාරීන් නොතීසි ලබා දීමට පියවර ගන්නා ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (05) පෙත්සම්කාර පාර්ශවයට නියෝග කළේය.
+
+මෙම පෙත්සම අද ප්‍රියන්ත ජයවර්ධන, කුමුදුනී වික්‍රමසිංහ සහ අර්ජුන ඔබේසේකර යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+පෙත්සම සලකා බැලීම සඳහා කැඳවනු ලැබූ අවස්ථාවේදී එහි වගඋත්තරකරුවන් වෙනුවෙන් නීතිඥවරු පෙනී සිටියේ නැහැ.
+
+ඒ අනුව වගඋත්තරකරුවන්ට යළි නොතීසි නිකුත් කරන ලෙස පෙත්සම්කාර පාර්ශ්වයට දැනුම් දුන් ශ්‍රේෂ්ඨාධිකරණය පෙත්සම සලකා බැලීම සඳහා ලබන 28 වනදා කැඳවන ලෙසත් නියෝග කළේය.
+
+...
+
+[Data](articles/b7e7f415.json)
+
+---
+
+### හයෙන් හතරෙන් ටෙස්ට් ජය ශ්‍රී ලංකාවට
+
+*2024-02-05 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193003) · `si`
+
+ඇෆ්ගනිස්තාන කණ්ඩායමට එරෙහිව පැවති ටෙස්ට් තරගය කඩුලු 10කින්  ජය හිමිකරගැනීමට ශ්‍රී ලංකාව අද සමත්විය.
+
+එහිදී දෙවන ඉනිමේදී ලකුණු 56ක ඉලක්කයක් හඹා ගිය ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 7යි පන්දු 2කදී එම ඉලක්කය පසුකර ගියේය.
+
+මෙහිදී වේගවත් ඉනිමක් ක්‍රීඩා කළ දිමුත් කරුණාරත්න නොදැවී පන්දු 22කදී හයේ පහරක් සහ හතරේ පහර 3ක් සමග ලකුණු 32ක් රැස්කරගත්තේය.
+
+ඔහුට අගනා සහායක් ලබාදුන් නිශාන් මදුෂ්ක නොදැවී හතරේ පහර 4ක් සමග ලකුණු 22ක් රැස්කරගත්තේය.
+
+◼️
+
+[Data](articles/e742988d.json)
+
+---
 
 ### Police and protesters clash after Senegal election postponed
 
@@ -49,6 +85,46 @@ The government cut the signal of private television channel Walf as it broadcast
 ...
 
 [Data](articles/8f830de9.json)
+
+[Extended Data](ext_articles/8f830de9.ext.json)
+
+---
+
+### මැතිවරණ කල්දැමීමෙන් සෙනගාලය යුද පිටියක් වෙයි
+
+*2024-02-05 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193002) · `si`
+
+මැතිවරණ කල් දැමීමට සෙනගාලයේ ජනාධිපති මැකී සෝල් තීරණය කිරීමත් සමග එරට විරුද්ධ පක්ෂ වල ආධාරකරුවන් විරෝධතා ආරම්භ කර තිබේ.
+
+විදෙස් මාධ්‍ය පැවසුවේ විරෝධතාකරුවන් පාලනයට පොලීසිය කඳුළු ගෑස් ප්‍රහාර එල්ලකළ බවත් පසුව කිහිපදෙනෙක්ව අත්අඩංගුවට ගත් බවත් ය.
+
+එරට ජනාධිපතිවරණය ඉදිරි මාස කිහිපය තුළ පැවැත්වීමට නියමිතව තිබියදී සෙනසුරාදා (03) ජනාධිපතිවරයා පැවසුවේ මැතිවරණය කල්දමන බවයි.
+
+අත්අඩංගුවට ගත් පිරිස අතර හිටපු අගමැති Aminata Toure මෙන්ම ඉදිරි ජනාධිපතිවරණයට නාමයෝජනා දී ඇති අපේක්ෂකයක් ද වෙයි.
+
+එරට පෞද්ගලික නාලිකාවක් වන "Walf" නම් නාලිකාව එම උද්ඝෝෂණය සජීවීව විකාශය කරමින් සිටින අතරතුර බලධාරීන් එහි සංඥා අවහිර කළේය.
+
+◼️
+
+[Data](articles/8e3c8ef1.json)
+
+---
+
+### சிலி காட்டுத்தீயில்  112 பேர் பலி
+
+*2024-02-05 14:18:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சிலி-காட்டுத்தீயில்-112-பேர்-பலி/50-332707) · `ta`
+
+தென் அமெரிக்க நாடான சிலியின் வினாடெல்மார் மலைப்பகுதியில் பயங்கர காட்டுத்தீ ஏற்பட்டுள்ளது. இந்த தீ மற்ற பகுதிகளுக்கும் வேகமாக பரவி வருகிறது.
+
+இதனையடுத்து தீயணைப்பு வீரர்கள் அங்கு விரைந்து ஹெலிகாப்டர்கள் மூலம் தண்ணீரை தெளித்து தீயை கட்டுப்படுத்த முயன்று வருகின்றனர். ஆனாலும் தீ கட்டுக்கடங்காமல் எரிந்து வருகிறது.
+
+இந்த காட்டுத்தீயால் இதுவரை சுமார் 20 ஆயிரம் எக்டேர் வனப்பகுதி எரிந்து நாசமாகியுள்ளதாக கூறப்படுகிறது. இதனால் அங்குள்ள அரிய வகை தாவரங்கள், விலங்கினங்கள் தீயில் கருகி மடிந்தன. அதனை சுற்றியுள்ள எஸ்ட்ரெல்லா, நவிடாப் ஆகிய பகுதிகளுக்கும் இந்த தீ பரவியது. இதில் அங்குள்ள 1,200 வீடுகள் எரிந்து நாசமாகின.
+
+இந் நிலையில் சிலியில் எரியும் காட்டுத் தீயினால் இறந்தவர்களின் எண்ணிக்கை 112 ஆக உயர்ந்துள்ளது. வேகமாக பரவி வரும் இந்த தீயை அணைப்பது சவாலாக உள்ளது. எனவே தீயை அணைக்கும் பணியில் மீட்பு படையினருக்கு உதவும்படி பொதுமக்களை அந்நாட்டு ஜனாதிபதி கேப்ரியல் போரிக் கேட்டுக்கொண்டுள்ளார். வனப்பகுதியில் ஏற்பட்டுள்ள தீயை கட்டுப்படுத்தும் பணியில் தீயணைப்புப்படையினர் தீவிரமாக ஈடுபட்டுள்ளனர்.
+
+...
+
+[Data](articles/c0bfdf22.json)
 
 ---
 
@@ -456,6 +532,22 @@ Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
 
 ---
 
+### කන්දකාඩුවෙන් පැන්න 14ක් යළි අල්ලයි
+
+*2024-02-05 11:50:43* · [`adalk`](https://www.ada.lk/breaking_news/කන්දකාඩුවෙන්-පැන්න-14ක්-යළි-අල්ලයි/11-407905) · `si`
+
+කන්දකාඩු පුනරුත්ථාපන කදවුරේ  පෙරේදා 4 වෙනි දින සවස 6 පමණ  රැදවියන් හා යුද හමුදා සෙඔලුන් අතර සිදුවු ගැටුමකින් රැදවියන් 10 දෙනෙක්  හා යුදහමුදා සෙබළෙකු තුවාල ලබා පොලොන්නරුව රොහලට අතුලත් කර ඇති බව වැලිකන්ද පොලිසිය කියයි .
+
+තුවාල ලැබුවන් රැදවියන් හා යුද හමුදා සෙඔළෙකු රොහලේ 2 ⁣වාට්ටුවේ ප්‍රතිකාර ලබමින් සිටී. ⁣ගැටුමෙන් පසු පලාගිය රැදවියන් 14 දෙනෙක් වැලිකන්ද පොලිසිය නිලධාරීන් විසින් ඊයේ රාත්‍රි කාලයේ දිම අත්අඩංගුවට ගත් බවත්  අත්අඩංගුවට ගත් රැදවියන් ඊයේ උදේ පොලොන්නරුව මහේස්ත්‍රාත් අධිකරණ වෙත ඉදිරිපත් කරන බව
+
+රැදවියන් හා  යුද හමුවේ සෙබලුන් අතර සිදුවු ගැටුම්  අවස්ථාවේ කදවුර තුල පොලු උල් පහියා ද තිබුන බවද
+
+◼️
+
+[Data](articles/91a448c4.json)
+
+---
+
 ### Several roads in Colombo closed till March 11
 
 *2024-02-05 11:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Several-roads-in-Colombo-closed-till-March-11/108-276336) · `en`
@@ -704,21 +796,23 @@ Therefore, I urge the people of the city to take steps to take advantage of this
 
 ---
 
-### කතුන් ගේ රන්මාල කොල්ලකෑ පයාගල මකා අත්අඩංගුවට
+### Bomber arrested for robbery
 
 *2024-02-05 11:20:58* · [`adalk`](https://www.ada.lk/breaking_news/කතුන්-ගේ-රන්මාල-කොල්ලකෑ-පයාගල-මකා-අත්අඩංගුවට/11-407904) · `si`
 
-කළුතර සහ පානදුර ප්‍රදේශවල මහමග ගමන්ගත් කාන්තාවන්ගේ ගෙලබැදි  රන්මාල යතුරුපැදි වලින් ගොස් කොල්ලකෑ පුද්ගලයකු අත්අඩංගුවට ගත්බව කළුතර කොට්ඨාස විෂ මත්ද්‍රව්‍ය වැටලීම් ඒකකය පවසයි.
+A large number of robbers were arrested in Kalutara and Panadura, who had gone to the necklaces of women in Kalutara and Panadura.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ පයාගල මකා නමැති අන්වර්ථ නාමයෙන් හදුන්වන  25 හැව්රිදි පුද්ගලයකු බව පොලිසිය කීය.
+The suspect was arrested by a 25 shade that is known in the nickname of Payagala.
 
-ලද තොරතුරක් මත පොලිස් නිළධාරීන් සැකකරු පයාගල පඹේ ප්‍රදේශයේ දී යතුරුපැදියකින් යමින් සිටියදී නවතා පරීක්ෂා කොට හෙරෝයින් මත්කුඩු ග්‍රෑම් හයයි මිලිග්රැම් 670 ක් සහ යතුරුපැදිය  සමග අත්අඩංගුවට ගෙන තිබේ.
+Police officers were expelled by a motorcycle in Payagala Pambu, police officers were sent to a motorcycle in Payagala Pambu, 670 grams of drugs and 670 grams and motorbike.
 
-ඔහුගෙන් සිදුකල ප්‍රශ්න කිරීමේදී කොල්ලකෑ රන්මාලයක් සොයාගත් බවත් පොලිසිය කීය.
+Police said a robbery raw was found in question.
 
 ◼️
 
 [Data](articles/137841ad.json)
+
+[Extended Data](ext_articles/137841ad.ext.json)
 
 ---
 
@@ -1943,91 +2037,5 @@ According to the Constitution of the country, it has been announced that Vice Pr
 [Data](articles/8f10108d.json)
 
 [Extended Data](ext_articles/8f10108d.ext.json)
-
----
-
-### தமிழரசு கட்சியின் தலைவராக சிறிதரனும் தமிழர் அரசியலும்
-
-*2024-02-05 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83558) · `en`
-
-தேசிய இனப்பிரச்சினைக்கு  அரசியல் இணக்கத்தீர்வைக்  காணும் முயற்சிகளிலும்  வடக்கு,கிழக்கில்  எதிர்நோக்கப்படும்  பல்வேறு மனிதாபிமானப் பிரச்சினைகளுக்கு தீர்வைக் காணும் முயற்சிகளிலும் தமிழ் அரசியல் கட்சிகள் ஐக்கியப்பட்டு ஒருமித்த அணுகுமுறையைக் கடைப்பிடிக்கவேண்டும் என்பதே தமிழ் மக்களினதும் அவர்களின் நலன்களில் அக்கறைகொண்ட சிவில் சமூகம் மற்றும் அவதானிகளினதும்  இடையறாத வேண்டுகோளாக  இருந்து வருகிறது.
-
-ஆனால், தமிழ்க் கட்சிகளின் தலைவர்கள் அது குறித்து அக்கறை காட்டக்கூடிய மனநிலையில் இல்லை. ஏற்கனவே இருபது வருடங்களுக்கும் அதிகமான காலமாக பல்வேறு மாச்சரியங்களுக்கு மத்தியிலும் கூட நீடித்து நின்ற தமிழ் தேசிய கூட்டமைப்பும் கடந்த முற்பகுதியில் இல்லாமற் போய்விட்டது.
-
-கடந்தவாரம் தமிழ்க் கட்சிகளின் தலைவர்களை சந்தித்த புதிய இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவும் அரசியல் தீர்வுக்கான கோரிக்கையை அந்த கட்சிகள் ஐக்கியப்பட்ட ஒரு அமைப்பாக ஒருமித்து  முன்வைக்கவேண்டும் என்று வலியுறுத்திக் கூறியிருக்கிறார்.
-
-...
-
-[Data](articles/f4b88f9c.json)
-
-[Extended Data](ext_articles/f4b88f9c.ext.json)
-
----
-
-### Police Action Alone is Insufficient to Combat Rising Crime - EDITORIAL
-
-*2024-02-05 00:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Police-Action-Alone-is-Insufficient-to-Combat-Rising-Crime-EDITORIAL/172-276325) · `en`
-
-Since 2021, there has been a serious uptick in the crime rate in our country. Statistics show criminal activity in our land has seen a dramatic rise since 2021. Data from the Police Department reveal there were 522 murders, 2,263 robberies and 6,813 house break-ins reported in 2021, while there were 183 murders, 948 robberies and 2,224 house break-ins in the first few months of 2022 alone.
-
-For the first time since the ethnic war ended, the country witnessed a mass killing, when the Ape Janabala Pakshaya leader, Saman Perera and four others travelling with him were ambushed and killed in the vicinity of a hotel near the Beliatta Interchange of the Southern Expressway.
-
-The gruesome killing of five individuals including the leader of a registered political party sent shock waves through the country.
-
-...
-
-[Data](articles/67a83182.json)
-
-[Extended Data](ext_articles/67a83182.ext.json)
-
----
-
-### Independence and Self-Sufficiency: Co-operation in Times of Crisis
-
-*2024-02-05 00:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Independence-and-Self-Sufficiency-Co-operation-in-Times-of-Crisis/172-276324) · `en`
-
-For close to a decade and a half I have been studying co-operatives, particularly as I was preoccupied with questions about the post-war reconstruction of Jaffna. As I watched the failure of development policies that prioritised building transport and urban infrastructure over rural livelihoods, supported the proliferation of financial institutions leading to indebtedness, and grand claims about the private sector generating employment that did not materialize, I became more and more involved with the co-operative movement. Drawing on the institutional memory of the co-operative movement and the vast network of co-operatives that survived the war, some of us began to see an alternative for social and economic revival of the still rural war-torn society in the North.
-
-...
-
-[Data](articles/74345147.json)
-
-[Extended Data](ext_articles/74345147.ext.json)
-
----
-
-### Unlocking Independence and Freedom within Yourself
-
-*2024-02-05 00:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Unlocking-Independence-and-Freedom-within-Yourself/172-276323) · `en`
-
-True freedom cannot be bestowed by an external entity; it resides within you. Unleash it from within yourself
-
-The 76th ‘February 4th’ has passed, marked by four days of aerobatics, consuming considerable aviation fuel and time.
-
-The 76th ‘February 4th’ has passed, marked by four days of aerobatics, consuming considerable aviation fuel and time. This prompts questions about resource usage during such events. The primary question persists: why, after 76 years of independence, hasn’t this celebration translated into genuine freedom? To attain complete freedom for Sri Lankans, there is a need to fully implement the 13th Amendment or consider extending beyond its provisions.
-
-...
-
-[Data](articles/4189eb2d.json)
-
-[Extended Data](ext_articles/4189eb2d.ext.json)
-
----
-
-### Will ITAK New Chief, Sritharan put the Tamil Movement on a Radical Path?
-
-*2024-02-05 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Will-ITAK-New-Chief-Sritharan-put-the-Tamil-Movement-on-a-Radical-Path/172-276322) · `en`
-
-Although Jaffna district Member of Parliament, Sivagnanam Sritharan had told the media on what principles he would lead the struggle for the political rights of the Tamil people after being elected as the leader of the Ilankai Tamil Arasu Kachchi (ITAK) – popularly known as the Federal Party – it was expected that he would officially explain his policies after assuming office at the party’s convention that was to be held in Trincomalee last Sunday.
-
-However, the convention was postponed indefinitely due to controversies surrounding selections for other posts, including the post of the General Secretary of the party. So the new leader was unable to deliver that important speech.
-
-After the election of Sritharan by the party’s General Council in a secret ballot at Trincomalee Town Hall on 21 January, the other contender, Member of Parliament, M.A. Sumanthiran had publicly announced that he would cooperate with the new leader.
-
-...
-
-[Data](articles/558bae56.json)
-
-[Extended Data](ext_articles/558bae56.ext.json)
 
 ---

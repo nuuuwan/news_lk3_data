@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 22:50:07**
+As of **2024-02-05 23:03:01**
 
 ## Newspaper Stats
 
-*Scraped **5,000** Articles*
+*Scraped **5,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 139
 economynextcom | 260
 islandlk | 263
 dailyftlk | 280
-newsfirstlk | 302
+newsfirstlk | 303
 adalk | 433
 virakesarilk | 579
 adaderanalk | 620
@@ -26,7 +26,7 @@ dailymirrorlk | 711
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,994 (99.9%) of 5,000 articles have been extended.
+5,000 (100.0%) of 5,001 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -101,6 +101,8 @@ It will then focus on kick-starting major infrastructure projects suspended duri
 ...
 
 [Data](articles/82578666.json)
+
+[Extended Data](ext_articles/82578666.ext.json)
 
 ---
 
@@ -190,6 +192,26 @@ The first phase of the Urithu (Urumaya) project was held at the Rangiri Dambulla
 
 ---
 
+### IMF Mission To Provide Technical Assistance on Fiscal Issues
+
+*2024-02-05 21:04:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/imf-mission-to-provide-technical-assistance-on-fiscal-issues/) · `en`
+
+COLOMBO (News 1st); An IMF capacity development mission will be in Sri Lanka to provide technical assistance on fiscal issues, confirmed an IMF Spokesperson to News 1st on Monday (5).
+
+At the request of the government, the IMF provides technical assistance and training to its member countries on critical economic issues to strengthen capacity of institutions.
+
+This mission is separate from program review missions, said the spokesperson.
+
+Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
+
+Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
+
+◼️
+
+[Data](articles/4d8c4eff.json)
+
+---
+
 ### English tuition teacher arrested for setting fire to Ranil’s private residence
 
 *2024-02-05 21:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/English-tuition-teacher-arrested-for-setting-fire-to-Ranils-private-residence/108-276362) · `en`
@@ -203,6 +225,8 @@ The suspect is scheduled to be produced before the Fort Magistrate's Court tomor
 ◼️
 
 [Data](articles/94147620.json)
+
+[Extended Data](ext_articles/94147620.ext.json)
 
 ---
 
@@ -282,19 +306,21 @@ He also said that the train will start a 12.15 day from the Trincomalee railway 
 
 ---
 
-### හොර නෝට්ටු මුද්‍රණාලයක් පවත්වාගෙන ගිය පුද්ගලයෙක් අල්ලයි
+### Man arrested for running notes
 
 *2024-02-05 19:50:45* · [`adalk`](https://www.ada.lk/breaking_news/හොර-නෝට්ටු-මුද්‍රණාලයක්-පවත්වාගෙන-ගිය-පුද්ගලයෙක්-අල්ලයි/11-407913) · `si`
 
-ව්‍යාජ මුදල් නෝට්ටු මුද්‍රණාලයක් පවත්වාගෙන ගිය යුධහමුදා විශ්‍රාමික කර්නල් වරයෙකුගේ පුත්‍රයෙකු රුපියල් 5000 ක හොර මුදල් නෝට්ටු 30 ක් සහ එක් පැත්තක් මුද්‍රණය කල නෝට්ටු 10 ක් සමග අද (05)  අත්අඩංගුවට ගත්බව එගොඩඋයන පොලිසිය පවසයි .
+A son of a pensioner of a fake currency notes was arrested in a sum of Rs.
 
-වාද්දුව මොල්ලිගොඩ ප්‍රදේශයේ පදිංචි 47 හැව්රිදි පුද්ගලයකු මෙසේ අත්අඩංගුවට ගෙන ඇති  බව පොලිසිය කීය.
+A 47 shadow, a resident of Wadduwa, was arrested.
 
-ලද තොරතුරක් මත පොලිස් කණ්ඩායම එගොඩඋයන වටරවුම ආසන්නයේ දී සැකකරු  පරීක්ෂා කිරීමේදී රුපියල් 5000  ව්‍යාජ මුදල් නෝට්ටු 10 ක් සොයාගෙන සැකකරු ගේ නිවස පරීක්ෂා කිරීමේදී තවත් මුදල් නෝට්ටු 20 ක්, එක් පැත්තක් මුද්‍රණය කල නෝට්ටු 10 ක් සහ මුද්‍රණ යන්ත්‍රයක් තීන්ත බෝතල් 2 ක්, කටර් එකක්, අඩිකොදුවක් මුද්‍රණ කඩදාසි  10 ක් ඇතුළු උපකරණද සොයාගත් බව බව පොලිසිය කීය.
+The policemen found 10 fake currency notes, two more notes, and a printing notes, and a printer in search of the suspect on information.Police said that the equipment included 10 printing paper.
 
 ◼️
 
 [Data](articles/26c3f846.json)
+
+[Extended Data](ext_articles/26c3f846.ext.json)
 
 ---
 
@@ -325,6 +351,8 @@ Matters concerning regional security and bilateral ties between India and Sri La
 ◼️
 
 [Data](articles/dd259d36.json)
+
+[Extended Data](ext_articles/dd259d36.ext.json)
 
 ---
 
@@ -602,17 +630,21 @@ He was responding to the remarks made by SJB Leader Sajith Premadasa during the 
 
 [Data](articles/23e480b5.json)
 
+[Extended Data](ext_articles/23e480b5.ext.json)
+
 ---
 
 ### President awards first set of ‘Urumaya’ land deeds
 
 *2024-02-05 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97023/president-awards-first-set-of-urumaya-land-deeds) · `en`
 
-The initial set of the ‘Urumaya’ land deeds are due to be awarded to their respective recipients by President Ranil Wickremesinghe at an ongoing ceremony in Dambulla.
+President Ranil Wickremesinghe on Monday underscored the distinctive accomplishment of the current government in providing land rights to the people of the country without the need for a revolution, despite numerous global movements advocating for land rights.
 
-The initiative is a part of President Wickremesinghe’s efforts to empower farmers through land ownership with freehold titles awarded to two million families, the President’s Media Division (PMD) reported
+Highlighting the initial success of the present government in in rescuing the country from bankruptcy, President Ranil Wickremesinghe also emphasized additional achievements such as the “Aswasuma” program benefiting 02 million people and salary increases for 1.5 million government employees.
 
-◼️
+The President emphasized that the government achieved significant progress for the country’s betterment in just two years with the support of a partial parliament. He encouraged everyone to contemplate the potential advancements the country could achieve with the backing of all parliament members.
+
+...
 
 [Data](articles/c3266ef8.json)
 
@@ -791,6 +823,8 @@ During the inquiry, the Cinnamon Garden Police had submitted to the Fort Magistr
 ...
 
 [Data](articles/665b4a52.json)
+
+[Extended Data](ext_articles/665b4a52.ext.json)
 
 ---
 
@@ -1959,27 +1993,5 @@ The Minister of India has said that India will be a friend of Sri Lanka and a cr
 [Data](articles/26783a43.json)
 
 [Extended Data](ext_articles/26783a43.ext.json)
-
----
-
-### Flight operations affected at Delhi Airport due to heavy fog
-
-*2024-02-05 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97014/flight-operations-affected-at-delhi-airport-due-to-heavy-fog) · `en`
-
-Several flights were delayed at the Indira Gandhi International Airport in Delhi since flight operations were affected as a layer of fog enveloped the national capital on Monday (05 Feb.).
-
-The Delhi Airport issued an advisory for passengers saying that flights that are not CAT III compliant may be affected.
-
-“While landing and takeoffs continue at Delhi Airport, flights that are not CAT III compliant may be affected. Passengers are requested to contact the airline concerned for updated flight information. Any inconvenience caused is deeply regretted,” the advisory shared on ‘X’ read.
-
-“Low Visibility Procedures are in progress at Delhi Airport. All flight operations are presently normal. Passengers are requested to contact the airline concerned for updated flight information,” the Delhi Airport said in another advisory.
-
-Meanwhile, the India Meteorological Department (IMD) said that no major dense fog conditions were recorded in the country except in Punjab and West Rajasthan.
-
-...
-
-[Data](articles/e33f7e75.json)
-
-[Extended Data](ext_articles/e33f7e75.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 08:32:53**
+As of **2024-02-05 08:50:46**
 
 ## Newspaper Stats
 
-*Scraped **4,816** Articles*
+*Scraped **4,817** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 414
 virakesarilk | 547
 adaderanalk | 601
 tamilmirrorlk | 607
-adaderanasinhalalk | 617
+adaderanasinhalalk | 618
 dailymirrorlk | 676
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,816 (100.0%) of 4,816 articles have been extended.
+4,817 (100.0%) of 4,817 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### A bridge in Embilipitiya collapses
+
+*2024-02-05 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192988) · `si`
+
+The Hulandda Oya Bridge, located on the main road from the Embilipitiya town, has collapsed today (05).
+
+Our correspondent said that the bridge had collapsed on the bridge.
+
+The accident has not been damaged and the police are informed to use alternative routes to drivers traveling along the above road.
+
+◼️
+
+[Data](articles/0fb159ec.json)
+
+[Extended Data](ext_articles/0fb159ec.ext.json)
+
+---
 
 ### Keheliya - Deputy Solicitor General made fake fear of drug shortages to import low -quality drugs
 
@@ -1901,23 +1919,5 @@ Emperor Naruhito of Japan, President Vladimir Putin of Russia, President Yun Suk
 [Data](articles/01f5267c.json)
 
 [Extended Data](ext_articles/01f5267c.ext.json)
-
----
-
-### There is a hot situation between a protest
-
-*2024-02-04 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192963) · `si`
-
-Police have arrested five university students during a protest in Kilinochchi.
-
-The protest was based on the absence of a permanent solution to the problems of the people of the North and East and to disturb the statutes, and the people who are not able to afford to bear.
-
-The new leader of the Ilangai Tamil Ahazi Ahazi Arasu Party was also present at the protest.
-
-◼️
-
-[Data](articles/46c4eb59.json)
-
-[Extended Data](ext_articles/46c4eb59.ext.json)
 
 ---

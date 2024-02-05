@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 09:32:59**
+As of **2024-02-05 09:51:48**
 
 ## Newspaper Stats
 
-*Scraped **4,823** Articles*
+*Scraped **4,826** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ islandlk | 263
 dailyftlk | 280
 newsfirstlk | 288
 adalk | 414
-virakesarilk | 547
+virakesarilk | 548
 adaderanalk | 603
 tamilmirrorlk | 607
-adaderanasinhalalk | 618
+adaderanasinhalalk | 620
 dailymirrorlk | 679
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,820 (99.9%) of 4,823 articles have been extended.
+4,826 (100.0%) of 4,826 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### The second phase of the third installment is beginning today
+
+*2024-02-05 09:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175577) · `ta`
+
+The second phase of the third term of the year 2023 has been launched in all schools in the country today.
+
+Schools have been reopened as the holidays have been granted from December 23 for the GCE Advanced Level Examination.
+
+The school holidays have been extended as the Agricultural Science Questionnaire of the Education Public Level Examination has been published on social media.
+
+In this case, the examination was repeated on February 1, canceling the questionnaire posted on social media.. As a result, the school, which began on February 1, was postponed to date.
+
+◼️
+
+[Data](articles/763ab1fe.json)
+
+[Extended Data](ext_articles/763ab1fe.ext.json)
+
+---
+
+### Fatal pretending - 112 lives will be lost
+
+*2024-02-05 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192990) · `si`
+
+At least 112 persons have died due to the spread of Valpachao in the Walpezo area of the Chile.
+
+President Gabriel Borik has declared an urgent situation and has done all the necessary activities to relieve the situation.
+
+This is considered deadly, out of the wildfires in the Chile, Chile.
+
+It is said that many of the victims and many who were affected by the victims came to the coastal zone during the summer.
+
+The health warning of this area has been taken to place temporary hospitals.
+
+Relief groups say that the victims are suffering from the beravice to beraw and hearing the affected areas.
+
+Meanwhile, the authorities of the country have said that the number of deaths could increase in the next few hours.
+
+Between 3,000 and 6,000 houses have been destroyed by wildfires.
+
+◼️
+
+[Data](articles/86e0c9e0.json)
+
+[Extended Data](ext_articles/86e0c9e0.ext.json)
+
+---
 
 ### Keheliya created false alarm in the Cabinet to purchase substandard medicine-DSG
 
@@ -43,6 +91,26 @@ She submitted that the suspect had done so after the State Pharmaceutical Corpor
 ...
 
 [Data](articles/6d70b10b.json)
+
+[Extended Data](ext_articles/6d70b10b.ext.json)
+
+---
+
+### A cabinet paper to call investors for hemp cultivation
+
+*2024-02-05 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192989) · `si`
+
+The cabinet paper to obtain the legal power to be called for hemp to produce investors to cultivate drugs is due to be produced today (05).
+
+Indigenous Medicine Sisira Jayakody is looking to legalize the cultivation only for exports.
+
+"At present the 1971 Ayurvedic Act has been amended and given legal power to plant medicinal plants. The bill to provide legal conditions for the era of legal conditions of the Ayerolist, we submitted to the Attorney General by legal conditions. The legal regime received from him is to be produced before the Cabinet. Once the Cabinet approves, we can make arrangements to be called a foreign exchange of foreign exchange.. Through the Ayurvedic Board, he has to call these investors. "
+
+◼️
+
+[Data](articles/78bb83ea.json)
+
+[Extended Data](ext_articles/78bb83ea.ext.json)
 
 ---
 
@@ -207,6 +275,8 @@ A Muslim religious ceremony to mark the 76th Independence Day was held yesterday
 ◼️
 
 [Data](articles/b9aa680d.json)
+
+[Extended Data](ext_articles/b9aa680d.ext.json)
 
 ---
 
@@ -1264,6 +1334,8 @@ Sources at the Indian High Commission said the delegation is scheduled to visit 
 
 [Data](articles/64f940bc.json)
 
+[Extended Data](ext_articles/64f940bc.ext.json)
+
 ---
 
 ### Makalla Boss arrested
@@ -1853,61 +1925,5 @@ There are several instances of the use of overkill to guarantee failure. There h
 [Data](articles/b1de804c.json)
 
 [Extended Data](ext_articles/b1de804c.ext.json)
-
----
-
-### Of Elections, Bond Scams & Money Politics: The Anatomy Of Default @75
-
-*2024-02-04 15:43:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/of-elections-bond-scams-money-politics-the-anatomy-of-default-75/) · `en`
-
-With the wisdom of hindsight, the Root Causes of Sri Lanka’s first Sovereign Default, staged three years ago on the eve of 75 years of ‘Independence’ from the British Raj are clearly discernible.
-
-Back in March 2021 when the default happened there was too much Aragalaya hype and confusion to discern the deep structures, transnational financial networks, and vested interests (including members of the Lankan Diaspora) embedded in the debt pile up. Amid protests at soaring cost of living, the claim was that Sri Lanka, South Asia’s wealthiest country with the best human and social development indicators in the region was “bankrupt” because it lacked exorbitantly privileged US dollars to buy food and fuel. This was after the shadowy off-shore Hamilton Reserve Bank had filed a case in the New York courts against the country for non-payment of a small amount of interest owned.
-
-...
-
-[Data](articles/ce737579.json)
-
-[Extended Data](ext_articles/ce737579.ext.json)
-
----
-
-### Colombo roads closed from tomorrow to March 11
-
-*2024-02-04 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192964) · `si`
-
-Under the Kollupitiya and Slave Island Police Divisions, Utharanna Mawatha, Perahera Mawatha and Nawam Mawatha will be closed from tomorrow.
-
-The Urban Engineering Department has laid underground tube on the road.
-
-From tomorrow (05) to the 19th of the Navam Mawatha, Nawam Mawatha to the Navam Mawatha, is to be closed.
-
-The section of the UK Perahera road from Perahera Mawatha to Nawam Mawatha will be closed from February 20 to March 31.
-
-According to its third stage, the Rotungagodan junction will be closed around March 5 to March 11th, police said.
-
-◼️
-
-[Data](articles/196f712a.json)
-
-[Extended Data](ext_articles/196f712a.ext.json)
-
----
-
-### Five students of Jaffna Uni. arrested during protest march
-
-*2024-02-04 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/96994/five-students-of-jaffna-uni-arrested-during-protest-march) · `en`
-
-Five students of the University of Jaffna were arrested in the Kilinochchi area on Sunday (04 Feb.), for blocking the main road while staging a protest march.
-
-The protest march was staged over several concerns, including the failure to resolve not only those issues faced by the people of the North and East, but also those currently faced by the public and the adoption of laws that pose a threat to both, the freedom of expression and that of the media.
-
-Several representatives of political parties, including the leader of the Ilankai Tamil Arasu Katchi (ITAK) S. Sritharan and MP Charles Nirmalanathan, also participated in the protest march, Ada Derana learns.
-
-◼️
-
-[Data](articles/1962f0fa.json)
-
-[Extended Data](ext_articles/1962f0fa.ext.json)
 
 ---

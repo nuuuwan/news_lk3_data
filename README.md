@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 10:02:55**
+As of **2024-02-05 10:17:28**
 
 ## Newspaper Stats
 
-*Scraped **4,840** Articles*
+*Scraped **4,842** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 59
-bbccomsinhala | 71
+bbccomsinhala | 72
 dbsjeyarajcom | 137
 economynextcom | 257
 islandlk | 263
 dailyftlk | 280
 newsfirstlk | 291
-adalk | 416
+adalk | 417
 virakesarilk | 548
 adaderanalk | 603
 tamilmirrorlk | 616
@@ -26,55 +26,61 @@ dailymirrorlk | 679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,826 (99.7%) of 4,840 articles have been extended.
+4,840 (100.0%) of 4,842 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
 
-### நீரில் மூழ்கிய 6 பேர் மீட்பு
+### 6 people drowning in the water rescue
 
 *2024-02-05 09:31:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கிய-6-பேர்-மீட்பு/175-332682) · `ta`
 
-பாணந்துறை கடற்கரையில் நீராடச் சென்ற 6 பேர், அலையில்  சிக்கி அடித்துச் செல்லப்பட்ட போது, ​​பாணந்துறை பொலிஸ் உயிர்காப்புப் பிரிவின் அதிகாரிகள் இருவரினால் காப்பாற்றப்பட்டுள்ளனர்.
+Two officers of the Panadura Police Life Safety Division have been rescued when six people who were drowned in the Panadura coast were trapped in a wave.
 
-16 வயதுக்கும் 21 வயதுக்கும் இடைப்பட்ட மூன்று சிறுவர்களும் மூன்று சிறுமிகளும் இவ்வாறு உயிர் பிழைத்துள்ளனர்.
+Three boys and three girls between the ages of 16 and 21 have survived.
 
-நேற்று (04) மாலை இந்த சம்பவம் இடம்பெற்றுள்ளதுடன், அவர்களை காப்பாற்றிய உயிர்காப்புப் பிரிவின் அதிகாரிகள், அவர்களுக்கு முதலுதவி செய்து உறவினர்களிடம் ஒப்படைத்தனர்.
+The incident took place yesterday evening (04) and the officers of the Life Protection Unit who saved them and handed them first aid and handed them over to relatives.
 
 ◼️
 
 [Data](articles/b69635b6.json)
 
+[Extended Data](ext_articles/b69635b6.ext.json)
+
 ---
 
-### பெலியத்த துப்பாக்கி சூடு: மற்றுமொரு சந்தேக நபர் கைது
+### Beliatta firing: Another suspect arrested
 
 *2024-02-05 09:26:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலியத்த-துப்பாக்கி-சூடு-மற்றுமொரு-சந்தேக-நபர்-கைது/175-332681) · `ta`
 
-ஹம்பாந்தோட்டை பெலியத்த பிரதேசத்தில் ஐந்து பேர் சுட்டுக் கொல்லப்பட்ட சம்பவம் தொடர்பில் மேலும் ஒரு சந்தேக நபரை பொலிஸார் கைது செய்துள்ளனர்.
+Police have arrested another suspect in connection with the shooting of five people in Beliatta area in Hambantota.
 
-கொலைகளுக்கு உதவிய குற்றச்சாட்டில் சந்தேக நபர் நேற்று (04) ஹபராதுவையில் கைது செய்யப்பட்டதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+The suspect was arrested yesterday (04) in Habaraduwa, the police media unit said.
 
-கைது செய்யப்பட்ட சந்தேக நபர் ரத்கம, கட்டுடம்பே பிரதேசத்தை சேர்ந்த 28 வயதுடையவர்.
+The arrested suspect is 28 years old from Ratgama, Katuttambe area.
 
 ◼️
 
 [Data](articles/c7062ff3.json)
 
+[Extended Data](ext_articles/c7062ff3.ext.json)
+
 ---
 
-### யுக்தியவில் மேலும் 667 சந்தேக நபர்கள் கைது
+### 667 more suspects arrested in Yukati
 
 *2024-02-05 09:22:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்தியவில்-மேலும்-667-சந்தேக-நபர்கள்-கைது/175-332680) · `ta`
 
-கடந்த 24 மணி நேரத்தில் மேலும் 667 சந்தேக நபர்கள் இலங்கையின் பொலிஸ் மற்றும் பாதுகாப்புப் படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+In the last 24 hours, 667 more suspects have been arrested by Sri Lankan police and security forces.
 
-இதன்போது, 191 கிராம் ஹெரோய்ன் மற்றும் 103 கிராம் ஐஸ் போதைப்பொருள் கைப்பற்றப்பட்டதாக பொது பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+The Ministry of Public Safety said that 191 grams of heroin and 103 grams of Ice were seized.
 
 ◼️
 
 [Data](articles/6eb18c80.json)
+
+[Extended Data](ext_articles/6eb18c80.ext.json)
 
 ---
 
@@ -160,6 +166,26 @@ Indigenous Medicine Sisira Jayakody is looking to legalize the cultivation only 
 
 ---
 
+### මුහුදේ ගහගෙන ගිය තරුණ යුවළ තුනක් බේරාගෙන
+
+*2024-02-05 08:10:37* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදේ-ගහගෙන-ගිය-තරුණ-යුවළ-තුනක්-බේරාගෙන/11-407899) · `si`
+
+නිදහස් දින පානදුර මුහුදේ ගහගෙන ගිය තරුණ ජෝඩු තුනකගේ ජීවිත දිවි බේරාගැනීමට පානදුර ජීවිත ආරක්ෂක නිළධාරීන් සමත්ව ඇත.
+
+මෙසේ දිවි බේරාගෙන ඇත්තේ රත්නපුර, ලෙල්ලුපිටිය ප්‍රදේශයේ පදිංචි චාල්ස් ඇන්තනී (20), සෙල්වරාජා සන්තෝෂ් (16) , ෆැන්සීස් විනෝද් (16) යන තරුණයන් තිදෙනා සහ සන්තුරුක්සන් රුක්සිකා (16), මොහන්දාස් දිණූෂා (15) සහ පරදන් දිනූසිකා (16) නමැති තරුණියන් බව සදහන් වේ.
+
+හය දෙනා පානදුර වෙරළට පැමිණ විනෝදවී පසුව දියනාමින් සිට ඇති බවත් ,  වෙරළට මීටර් 50 ක ආසන්නයේ  සිටි ඔවුන්  රළ පහරකට හසුව කෙමෙන් කෙමෙන් දියඹ දෙසට ඇදීගොස් ඇති බවත් සදහන් වේ.
+
+පසුව ඔවුන් උදව් ඉල්ලා කෑ ගසා ඇති අතර , ඒ අනුව සැරයන් සුසන්ත සහ කොස්තාපල්  දේශාන් පළමුව ජීවිත ආරක්ෂක ටියුබ් රැගෙන  දියට පැන තිබේ. පසුව ඒ ආසන්නයේ නාවික හමුදා ජීවිත ආරක්ෂක නිළධාරීයාද දියට පැන බේරාගැනීමට සහයවී තිබේ.
+
+මුලික ප්‍රථමාධාර ලබාදීමෙන් පසු පිටත්කර යැවූ බව ජීවිත ආරක්ෂක නිළධාරීන් පැවසීය.
+
+◼️
+
+[Data](articles/ee758a49.json)
+
+---
+
 ### Eight injured in a clash between Kandakadu inmates
 
 *2024-02-05 08:10:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/eight-injured-in-a-clash-between-kandakadu-inmates/) · `en`
@@ -179,6 +205,8 @@ Navy Seizes Two Poaching Trawlers & 23 Indian Nationals in Sri Lankan Waters
 ◼️
 
 [Data](articles/005c95ad.json)
+
+[Extended Data](ext_articles/005c95ad.ext.json)
 
 ---
 
@@ -236,6 +264,8 @@ Navy Seizes Two Poaching Trawlers & 23 Indian Nationals in Sri Lankan Waters
 
 [Data](articles/9d4f3eaf.json)
 
+[Extended Data](ext_articles/9d4f3eaf.ext.json)
+
 ---
 
 ### Second phase of the 3rd school term to commence
@@ -255,6 +285,8 @@ Navy Seizes Two Poaching Trawlers & 23 Indian Nationals in Sri Lankan Waters
 ◼️
 
 [Data](articles/808eaf97.json)
+
+[Extended Data](ext_articles/808eaf97.ext.json)
 
 ---
 
@@ -374,37 +406,41 @@ Police say that 667 suspects were arrested in the last 24 hours in the country u
 
 ---
 
-### சவப்பெட்டியுடன் மயானம் சென்றார் மேர்வின் சில்வா
+### Mervyn Silva went with the coffin
 
 *2024-02-05 07:42:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவப்பெட்டியுடன்-மயானம்-சென்றார்-மேர்வின்-சில்வா/175-332679) · `ta`
 
-முன்னாள் அமைச்சர் மேர்வின் சில்வா உட்பட சிலர் நேற்று (04) மாலை பொரளை மயானத்துக்கு சவப்பெட்டியுடன் சென்றுள்ளனர்.
+Some people, including former minister Mervyn Silva, went to the Borella cemetery yesterday evening with a coffin.
 
-நிகழ்நிலை காப்புச் சட்டத்துக்கு எதிர்ப்புத் தெரிவிக்கும் வகையில் இவ்வாறு அவர்கள் சவப்பெட்டியுடன் சென்றதாக தெரிவிக்கப்படுகிறது.
+It is reported that they went with the coffin to protest the Ceremony Backup Act.
 
-குறித்த குழுவினர் பொரளை மயானத்துக்குள் பிரவேசிக்க முற்பட்ட போது பாதுகாப்பு உத்தியோகத்தர்கள் அதனை எதிர்த்ததால் இரு குழுக்களுக்குமிடையில் முறுகல் நிலை ஏற்பட்டது.
+When the team tried to enter the Borella cemetery, there was a clash between the two groups as security officers opposed it.
 
-எனினும் பாதுகாப்பு அதிகாரிகளின் எதிர்ப்பையும் மீறி முன்னாள் அமைச்சர் உள்ளிட்டோர் உள்ளே நுழைந்து தமது எதிர்பை வெளிப்படுத்தியுள்ளனர்.
+However, despite the opposition of security officials, the former minister and others have entered and expressed their expectation.
 
 ◼️
 
 [Data](articles/dd35f64c.json)
 
+[Extended Data](ext_articles/dd35f64c.ext.json)
+
 ---
 
-### ඉන්දීය නිල ආරාධනාවකට අනුර ඇතුළු පිරිසක් ඉන්දීය සංචාරයක
+### Anura including Indian official invitation to India
 
 *2024-02-05 07:38:44* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-නිල-ආරාධනාවකට-අනුර-ඇතුළු-පිරිසක්-ඉන්දීය-සංචාරයක/11-407897) · `si`
 
-ඉන්දීය රජයේ නිල ආරාධනයකට අනුව ජාතික ජනබල වේගයේ නායක අනුර කුමාර දිසානායක මහතා ඇතුළු සිව් දෙනෙකු අද (05දා) අලුයම ඉන්දියාවේ නවදිල්ලි නුවර බලා පිටත්ව ගිය බව කටුනායක ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා සනාථ කළේය .
+The officer in charge of the Nathanayake Airport, who was on the official invitation of the Government of India and four have been leaving for New Delhi in India.
 
-අනුර කුමාර දිසානායක මහතා සමග එහි පාර්ලිමේන්තු මන්ත්‍රී  විජිත හේරත්, විශේෂඥ වෛද්‍ය නිහාල් අබේසිංහ සහ මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු යන මහත්වරුන් මෙම සංචාරය සදහා එක් වී සිටියහ .
+Vijitha Herath, MP Vijitha Herath, Experinist Dr. Nihal Abeysinghe and Professor Anil Jayantha Fernando were joined.
 
-මෙම පිරිස 02/05 දින අලුයම 04.41 ට ඉන්දීය ගුවන් සේවයට අයත් ඒ.අයි.- 284 දරන ගුවන් යානයෙන් ඉන්දියාවේ නවදිල්ලි නුවර බලා පිටත්ව ගියහ.
+The Indian Airlines belongs to the Indian Airlines at 04.05 days at 4.41 am.
 
 ◼️
 
 [Data](articles/5df9069d.json)
+
+[Extended Data](ext_articles/5df9069d.ext.json)
 
 ---
 
@@ -422,25 +458,29 @@ A Muslim religious ceremony to mark the 76th Independence Day was held yesterday
 
 ---
 
-### பிற்பகல் 2 மணிக்கு பின்னர் பலத்த மழை பெய்யும்
+### It will rain at 2 pm and then heavy rains
 
 *2024-02-05 07:32:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிற்பகல்-2-மணிக்கு-பின்னர்-பலத்த-மழை-பெய்யும்/175-332678) · `ta`
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் அத்துடன்  பொலநறுவை மற்றும் மாத்தளை மாவட்டங்களிலும்  இடைக்கிடையே மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology has said that rainfall will occur in the Eastern and Uva provinces as well as in the Polonnaruwa and Matale districts.
 
-சப்ரகமுவ, மேல் மற்றும் வடமேல்  மாகாணங்களின்  பல இடங்களிலும் அத்துடன் கண்டி, நுவரேலியா, காலி மற்றும் மாத்தறை மாவட்டங்களின் பல இடங்களிலும்  பிற்பகல் இரண்டு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக்  காணப்படுகின்றது.
+Rainfall or thunderstorms are expected after two o'clock in the afternoon in many parts of Sabaragamuwa, Upper and North Western Provinces as well as many parts of Kandy, Nuwarali, Galle and Matara districts.
 
-மத்திய மற்றும்  சப்ரகமுவ  மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும்  காலை வேளையில் பனிமூட்டம் காணப்படும்.
+In the morning, there is a snowfall in some parts of the Central and Sabaragamuwa provinces, as well as some of the Galle and Matara districts.
 
-திருகோணமலை தொடக்கம் பொத்துவில் ஊடாக ஹம்பாந்தோட்டை  வரையான  கரையோரத்திற்கு அப்பால் உள்ள கடல் பிராந்தியங்களின் பல இடங்களில்  மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+Rainfall or thunderstorms are likely to occur in many parts of the sea regions along the coast of Trincomalee to Pottuvil.
 
-மாத்தறை தொடக்கம் காலி, கொழும்பு ஊடாக சிலாபம் வரையான கடல் பிராந்தியங்களின் பல இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+Rainfall or thunderstorms are expected in many parts of the sea regions from Matara to Galle and Chilaw.
 
-கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 20 - 30 கிலோமீற்றர் வேகத்தில் வடகிழக்குத்  திசையில் இருந்து  காற்று வீசும்.
+Winds from the northeast at 20 - 30 km / h in the sea regions.
+
+From Colombo to Puttalam, Mannar via Kankesanthurai as well as Galle to Pottuvil via Hambantota, the winds may increase at 45 kilometers per hour.. In such cases, these sea regions are somewhat turbulent.
 
 ...
 
 [Data](articles/0765bb30.json)
+
+[Extended Data](ext_articles/0765bb30.ext.json)
 
 ---
 
@@ -528,67 +568,95 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### சுதந்திர தின விழாவில் மயங்கிய மாணவர்கள்
+### කළුගල් අපනයනයට අවසර දීම: 'අර්බුද රැසකට හේතුවක්'; 'කිසිසේත් ඉඩ නොදිය යුතුයි'
+
+*2024-02-05 03:48:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c03q7p8v3p7o) · `si`
+
+කළුගල් අපනයනයට අවසර දීම: 'අර්බුද රැසකට හේතුවක්'; 'කිසිසේත් ඉඩ නොදිය යුතුයි'
+
+මීට වසර ගණනාවකට පෙර මහාචාර්ය සුනිල් ආරියරත්න රචනා කර, විශාරද නන්දා මාලිනී ගායනා කළ "රට කරවන්න නම්" නමැති ගීතයේ "කළුගල්වලට විකුණා‌ගෙන සීගිරිය" යනුවෙන් පද්‍ය ඛණ්ඩයක් තිබේ.
+
+සීමාවන්ට යටත්ව කළුගල් අපනයනය කිරීම සඳහා ජනවාරි 29 වන දා පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී කැබිනට් අනුමැතිය හිමි වී තිබිණි.
+
+එම අනුමැතිය දීම සාධාරණීකරණය කරමින් රජය ප්‍රකාශ කළේ, "රට තුළ මේ වන විට ඉදිකිරීම් හා සංවර්ධන කටයුතු සඳහා කළුගල් අවශ්‍යතාව සාපේක්ෂ වශයෙන් පහළ මට්ටමක පැවතීම නිසා කළුගල් කැණීම් කර්මාන්තයේ නිරත කැණීම්කරුවන් හා ඒ හා සම්බන්ධිත ප්‍රජාවන්ගේ ජීවනෝපාය මාර්ගයන්ට දැඩි බලපෑමක් එල්ල වී තිබීම හේතුවෙන් මෙලෙස කළුගල් අපනයනයට තීරණය කළ," බව ය.
+
+මේ තත්ත්වය සැලකිල්ලට ගනිමින් සීමාකාරී තත්ත්වයන්ට යටත්ව කළුගල් අපනයනය කිරීම මගින් විදේශ විනිමය ඉපයීමේ වැඩපිළිවෙළක් කෙටිකාලීනව ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබෙන බව රජය නිවේදනය කළේ ය.
+
+...
+
+[Data](articles/6ab572f7.json)
+
+---
+
+### Students who are fed up at Independence Day Celebration
 
 *2024-02-05 01:58:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுதந்திர-தின-விழாவில்-மயங்கிய-மாணவர்கள்/175-332675) · `ta`
 
-வவுனியாவில் மாணவர்கள், சிவில் பாதுகாப்பு உத்தியோகத்தர்கள் உட்பட 4 பேர் திடீரென மயங்கியுள்ளனர். அவர்களுக்கு முதலுதவி வழங்கப்பட்டுள்ளது.
+Four people, including students and civil defense officers in Vavuniya, suddenly fainted. They have been given first aid.
 
-இலங்கையின் 76 ஆவது சுதந்திர தின விழா வவுனியா மாவட்டத்தில் நேற்றுக் காலை நகர சபை மைதானத்தில் இடம்பெற்றது. இதன்போதே அவர்கள் மயங்கி வீழ்ந்துள்ளனர்.
+Sri Lanka's 76th Independence Day was held in Vavuniya district yesterday morning at the city council grounds. They have fallen faint.
 
-அணிவகுப்பில் கலந்துகொண்ட பாடசாலை மாணவர்கள், சிவில் பாதுகாப்புப் படையினர், பொலிஸார் அணி வகுப்பு நிறைவடைந்த பின்னர் பிரதான நிகழ்வு மண்டபத்துக்கு முன்பாக உள்ள மைதானத்தில் தங்க வைக்கப்பட்டிருந்தனர்.
+School students, Civil Security Forces and the police team were placed in the ground in front of the main event after the police team was completed.
 
-இந்த மாணவர்கள், பொலிஸார் மற்றும் சிவில் பாதுகாப்பு உத்தியோகத்தர்கள் ஒரு மணி நேரமாக மைதானத்தில் தங்க வைக்கப்பட்டிருந்த நிலையில், 2 மாணவர்களும் 2 சிவில் பாதுகாப்பு உத்தியோகத்தர்களும் மயங்கி விழுந்துள்ளனர். (a)
+While these students, police and civil security officers were staying at the stadium for an hour, 2 students and 2 civil defense officers were fed up.. (A)
 
 ◼️
 
 [Data](articles/94b152e4.json)
 
+[Extended Data](ext_articles/94b152e4.ext.json)
+
 ---
 
-### அம்பாந்தோட்டையில் விபத்து: 6 பேர் படுகாயம்
+### Accident in Hambantota: 6 people injured
 
 *2024-02-05 01:52:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பாந்தோட்டையில்-விபத்து-6-பேர்-படுகாயம்/175-332674) · `ta`
 
-தங்காலை அம்பாந்தோட்டை பிரதான வீதியில் நேற்று இடம்பெற்ற வாகன விபத்தில் 6 பேர் படுகாயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர் என்று ஹங்கம பொலிஸார் தெரிவித்தனர்.
+Hangama police said that six people were injured in a vehicle accident on the main road in Tangalle yesterday.
 
-அம்பலாந்தோட்டையில் இருந்து தங்காலை நோக்கிச் சென்ற சிறிய காரொன்றும், ஹங்கமவில் இருந்து அம்பலாந்தோட்டை நோக்கிச் சென்ற வானும் மோதியதில் இவ்விபத்து நேர்ந்துள்ளது என்று பொலிஸார் குறிப்பிட்டனர். (a)
+Police said that a small car from Ambalantota to Tangalle and the sky from Hangama to Ambalantota collided.. (A)
 
 ◼️
 
 [Data](articles/0e74124a.json)
 
+[Extended Data](ext_articles/0e74124a.ext.json)
+
 ---
 
-### இன்று இந்தியா செல்கிறார் அநுரகுமார
+### Anurakumara is going to India today
 
 *2024-02-05 01:45:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இந்தியா-செல்கிறார்-அநுரகுமார/175-332673) · `ta`
 
-இந்திய அரசாங்கத்தின் உத்தியோகப்பூர்வ அழைப்பினை ஏற்று தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க உள்ளிட்ட கட்சியின் பிரதிநிதிகள் இன்று இந்தியாவிற்குச் செல்கின்றனர்.
+Representatives of the National People's Power, including the leader of the National People's Power, Anura Kumara Dissanayake, are going to India today.
 
-தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க, செயலாளர் வைத்திய நிபுணர் நிஹால் அபேசிங்க, பாராளுமன்ற உறுப்பினர் விஜித ஹேரத், தேசிய நிறைவேற்று பேரவை உறுப்பினர் பேராசிரியர் அனில் ஜயந்த ஆகியோரே ந்தியாவிற்குச் செல்கின்றனர். (a)
+National People's Power Leader Anura Kumara Dissanayake, Secretary Nihal Abeysinghe, Parliamentarian Vijitha Herath and National Executive Member Professor Anil Jayantha. (A)
 
 ◼️
 
 [Data](articles/a54ce085.json)
 
+[Extended Data](ext_articles/a54ce085.ext.json)
+
 ---
 
-### 23 இந்திய மீனவர்களுக்கு விளக்கமறியல்
+### 23 Indian fishermen
 
 *2024-02-05 01:41:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/23-இந்திய-மீனவர்களுக்கு-விளக்கமறியல்/175-332672) · `ta`
 
-நெடுந்தீவு கடற்பகுதியில் சட்டவிரோதமாக மீன்பிடியில் ஈடுபட்ட குற்றச்சாட்டில் கைதான 23 இந்திய மீனவர்களும் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+23 Indian fishermen arrested on charges of illegal fishing in the Nedundevu waters have been detained.
 
-குறித்த மீனவர்கள் நேற்று  முன்தினம் இரவு இலங்கை கடற்படையினரால் கைது செய்யப்பட்டதுடன், அவர்கள் பயணித்த இரண்டு படகுகளும் பறிமுதல் செய்யப்பட்டன.
+The fishermen were arrested by the Sri Lankan navy last night and two boats they passengers were confiscated.
 
-இதனையடுத்து, குறித்த இந்திய மீனவர்கள் ஊர்காவற்துறை நீதவான் ஜெ.கஜநிதிபாலன் முன்னிலையில் நேற்று முன்னிலைப்படுத்தப்பட்டனர்.
+Subsequently, the Indian fishermen were produced before the Kayts Magistrate J. Gajanidipalan yesterday.
 
-அதன்போது, குறித்த 23 இந்திய மீனவர்களையும் எதிர்வரும் 14ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவிட்டுள்ளார். (a)
+The magistrate has ordered the 23 Indian fishermen to be remanded until the 14th of this month.. (A)
 
 ◼️
 
 [Data](articles/aafbc2e3.json)
+
+[Extended Data](ext_articles/aafbc2e3.ext.json)
 
 ---
 
@@ -694,19 +762,23 @@ Dialog Television customers will also be delighted to know that the offer is jus
 
 ### 2024-02-04 (Sunday)
 
-### කෝටිපති ව්‍යාපරිකයාගේ නිවස ඉදිරිපිට මල්වඩමක් තියලා
+### Millionaire is set in front of the house of the businessman
 
 *2024-02-04 23:43:08* · [`adalk`](https://www.ada.lk/breaking_news/කෝටිපති-ව්‍යාපරිකයාගේ-නිවස-ඉදිරිපිට-මල්වඩමක්-තියලා/11-407896) · `si`
 
-කෝටිපති ව්‍යාපාරිකයකුගේ නවගමුව නිවස ඉදිරිපිට විදේශගතව සිටින සංවිධානාත්මක අපරාධකරුවෙකු  දුරකථන අංකයක් සඳහන් කර මල්වඩමක් තැබීම සම්බන්ධයෙන් පොලිස් කණ්ඩායම් කීපයක් විශේෂ විමර්ශන ආරම්භ කර ඇතැයි නුගේගොඩ පොලිස් කොට්ඨාසයේ උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+An organized police officer in the Nugegoda Police said that several police teams have been conducting special investigations into a criminal criminal in front of the Nawagamuwa House.
 
-එම මල්වඩමේ    "  අප අතරින් වෙන් වී යන --------------------(ව්‍යාපාරිකයාගේ නම) bozata නිවන් සුව" යනුවෙන්   විශාල අකුරින් හා " අවසන් ලියුමයි ඔබට ලියන්නේ "   යනුවෙන්  කාඩ්බෝඩ් කැබැල්ලක  සඳහන් කර මල්වඩමේ  රඳවා  ඇතැයි ද පොලිස් ආරංචි මාර්ග සඳහන් කරයි.
+The flower of those flower is "separated from the name of the business ---------------------------Sources from the police say that the flower has been retained.
 
-පාතාල කල්ලි සාමාජික  සපුගේ මනෝජ් මුතු කුමාර නොහොත් මුතු යන අය  මෙම ව්‍යාපාරිකයා අතුරුගිරියට මුදල් ලබාදෙන බවත් ( ි අතුරුගිරිය යනුවෙන් අදහස් කර ඇත්තේ සංවිධානාත්මක අපරාධ කල්ලි නායක ලඩියා යන අයගේ පාර්ශවයට මුදල් ලබා දෙන බවත්ය)  එය නතර නොකළොත් ඔහු ගැන බලාගන්නා බවටත් ප්‍රකාශ කර ඇති බවටද  පොලිස් ආරංචි මාර්ග සඳහන් කරයි.
+Police sources said that the businessman would give money to the part of the organized criminal gang leaderMeans the roads.
 
-...
+The two persons have been identified by two persons who have called on the house in front of the businessman's house and placed the wreath in front of the businessman and the two persons have fled the area.Police have also known that police protection has been deployed to the house of the businessman.Several special police teams are conducting further investigations.
+
+◼️
 
 [Data](articles/eb680215.json)
+
+[Extended Data](ext_articles/eb680215.ext.json)
 
 ---
 
@@ -1871,47 +1943,5 @@ The Minister and the Inspector General of Police must recognize that if the coun
 [Data](articles/a60b8162.json)
 
 [Extended Data](ext_articles/a60b8162.ext.json)
-
----
-
-### Suspect arrested for over Rs.10 million
-
-*2024-02-04 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192969) · `si`
-
-Indian authorities have arrested a suspect with a gold biscuit who was taken to India from Sri Lanka to India.
-
-The suspect has been arrested following a racket on information regarding a racket.
-
-Tamil Nadu media reports that the relevant authorities have taken a motorcycle with the suspect.
-
-It is also reported that Sri Lanka has exceeded Rs.
-
-◼️
-
-[Data](articles/fff343ec.json)
-
-[Extended Data](ext_articles/fff343ec.ext.json)
-
----
-
-### Hungama terrible accident
-
-*2024-02-04 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192968) · `si`
-
-A horrific injury has been reported in the Hungama area on the Tissa-Matara main road.
-
-Seven persons have been admitted to Tangakolapelessa and Hambantota hospitals for treatment.
-
-At the time of the accident, five were in the vehicle and two suspects in the van.
-
-They are residents of Tangalle and Hungama areas.
-
-At attempting to pass a bus to go after a bus, the suspection of collided with the car.
-
-◼️
-
-[Data](articles/dfcad5b9.json)
-
-[Extended Data](ext_articles/dfcad5b9.ext.json)
 
 ---

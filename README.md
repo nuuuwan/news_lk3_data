@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 19:50:08**
+As of **2024-02-05 20:02:25**
 
 ## Newspaper Stats
 
-*Scraped **4,973** Articles*
+*Scraped **4,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,130 @@ dailyftlk | 280
 newsfirstlk | 302
 adalk | 428
 virakesarilk | 574
-adaderanalk | 616
-tamilmirrorlk | 629
+adaderanalk | 617
+tamilmirrorlk | 632
 adaderanasinhalalk | 645
-dailymirrorlk | 704
+dailymirrorlk | 705
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,972 (100.0%) of 4,973 articles have been extended.
+4,973 (99.9%) of 4,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
 
-### தாக்குதலை நியாயப்படுத்துகிறார் பொன்சேகா
+### தனக்கெதிரான வழக்கை வாபஸ் பெறுமாறு கோருகிறார் பௌசி
+
+*2024-02-05 19:36:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனக்கெதிரான-வழக்கை-வாபஸ்-பெறுமாறு-கோருகிறார்-பௌசி/175-332722) · `ta`
+
+ஊழல் குற்றச்சாட்டில் தமக்கு எதிராக தாக்கல் செய்யப்பட்ட குற்றப்பத்திரிக்கையை திரும்ப பெறுமாறு இலஞ்ச ஊழல் ஆணைக்குழுவிடம் ஐக்கிய மக்கள் சக்தி (SJB) பாராளுமன்ற உறுப்பினர் ஏ.எச்.எம்.பௌசி கோரிக்கை விடுத்துள்ளார்.
+
+பாராளுமன்ற உறுப்பினர் பௌசியின் சார்பில் ஆஜரான ஜனாதிபதி சட்டத்தரணி ஷவீந்திர பெர்னாண்டோ, குற்றப்பத்திரிகையை பேணக்கூடிய தன்மையைக் கருத்தில் கொண்டு அதனை திரும்ப பெறுமாறு இலஞ்ச ஊழல் ஆணைக்குழுவிடம் தனது சட்டத்தரணி ஊடாக கோரியுள்ளதாக நீதிமன்றில் அறிவித்தார்.
+
+2010 மற்றும் 2015 ஆம் ஆண்டு காலப்பகுதியில் அனர்த்த முகாமைத்துவ நிலையத்திற்கு சொந்தமான வாகனத்தை முறைகேடாக பயன்படுத்தியதன் மூலம் அரசாங்கத்திற்கு 1.07 மில்லியன் ரூபா சட்டவிரோதமான நஷ்டத்தை ஏற்படுத்தியதாக ஏ.எச்.எம்.பௌசிக்கு எதிராக இலஞ்ச ஊழல் ஆணைக்குழுவினால் இந்த வழக்கு தாக்கல் செய்யப்பட்டது
+
+கொழும்பு மேல்நீதிமன்ற நீதவான் நவரத்ண மாரசிங்க முன் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட பின் வழக்கு ஏப்ரல் 29 ஆம் திகதிக்கு ஒத்திவைக்கப்பட்டது.
+
+...
+
+[Data](articles/5c9bcb75.json)
+
+---
+
+### ஜனாதிபதியின் வீடு எரிப்பு - ஆசிரியர் கைது
+
+*2024-02-05 19:36:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-வீடு-எரிப்பு-ஆசிரியர்-கைது/175-332721) · `ta`
+
+கொள்ளுப்பிட்டியில் உள்ள ஜனாதிபதியின் தனிப்பட்ட இல்லம் எரிக்கப்பட்ட சம்பவம் தொடர்பில் மற்றுமொரு சந்தேகநபரை குற்றப் புலனாய்வுப் பிரிவினர் கைது செய்துள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் தனியார் மேலதிக வகுப்புகளை நடத்தும் ஆசிரியர் என தெரியவந்துள்ளது.
+
+இதேவேளை குறித்த சம்பவம் தொடர்பில் இதற்கு முன்னரும் ஒருவர் கைது செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/18918b7f.json)
+
+---
+
+### Sri Lanka eyes US$5 billion in foreign funds after debt restructure
+
+*2024-02-05 19:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97024/sri-lanka-eyes-us5-billion-in-foreign-funds-after-debt-restructure) · `en`
+
+Sri Lanka expects to attract about US$5 billion in foreign funds in the next two years once it is able to finalise the restructuring of its overseas debt, the country’s foreign minister said on Monday (Feb 5).
+
+The nation defaulted on its overseas debt in May, 2022 after a severe shortage of foreign exchange reserves triggered the worst financial crisis since independence from Britain in 1948.
+
+Sri Lanka has since made progress on about US$11 billion of bilateral debt restructuring and hopes to have agreements in place with all key creditors, including bondholders, by May at the latest, Foreign Minister Ali Sabry told Reuters.
+
+It will then focus on kick-starting major infrastructure projects suspended during the crisis, including a highway, an expansion of the main airport near Colombo and a US$2 billion light railway project with Japan.
+
+...
+
+[Data](articles/d1d9b531.json)
+
+---
+
+### ஜூன் மாதத்திற்குள் டிஜிட்டல் மயமாக்கப்படும் பாடசாலைகள்
+
+*2024-02-05 19:29:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜூன்-மாதத்திற்குள்-டிஜிட்டல்-மயமாக்கப்படும்-பாடசாலைகள்/175-332720) · `ta`
+
+எதிர்வரும் ஜூன் மாதத்திற்குள் இலங்கையில் உயர்தரத்துடன் கூடிய பாடசாலைகள் டிஜிட்டல் மயமாக்கப்படும் என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்துள்ளார்.
+
+யாழ்ப்பாணம் இந்து வித்தியாலயத்தில் இன்று (05) இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்ட போதே அமைச்சர் இவ்வாறு தெரிவித்தார்.
+
+இதன்படி, புதிய தொழில்நுட்பத்தின் மூலம் பிள்ளைகள் நேரடியாக கல்வியைத் தொடர சந்தர்ப்பம் வழங்கப்படும் எனவும் அமைச்சர் மேலும் தெரிவித்தார்.
+
+நாட்டில் உள்ள 3,000 உயர்தர பாடசாலைகள் டிஜிட்டல் மயமாக்கப்படும் என்றும் ஆசிரியர்களுக்கான பயிற்சி வரும் மார்ச் மாதம் முதல் தொடங்கப்படும் என்றும் அமைச்சர் கூறினார். R
+
+◼️
+
+[Data](articles/a7230100.json)
+
+---
+
+### Craig Howard joins Sri Lanka Cricket as spin coach on two-year contract
+
+*2024-02-05 19:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Craig-Howard-joins-Sri-Lanka-Cricket-as-spin-coach-on-two-year-contract/108-276358) · `en`
+
+Colombo, Feb. 5 (Daily Mirror) - Sri Lanka Cricket has appointed former Australian First Class Cricketer Craig Howard as the National Spin Bowling Coach.
+
+The 49-year-old Howard also known as Howie, was the spin bowling coach of the New Zealand White Ferns team and the Victorian Men’s First Class team before taking over the new role.
+
+The SLC said that Howard will assume the duties of the national team, starting with the ODI series of the ongoing Afghanistan Tour of Sri Lanka.
+
+He is assigned a two-year contract, which commenced on February 1, 2024.
+
+A Qualified Level 3 Cricket Coach from Cricket Australia, Craig has held a 12-year stint as the Consultant Coach of Cricket Australia.
+
+As Cricket Australia’s consultant coach, he has worked on CA’s spin weeks, head of spin bowling for pathways, and national teams.
+
+He has also functioned as the assistant coach on tours for the Australia ‘A’, Cricket Australia XI, and Under-19 teams across the men’s and women’s systems.
+
+...
+
+[Data](articles/9b9bc5e6.json)
+
+---
+
+### Fonseka justifies the attack
 
 *2024-02-05 19:14:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாக்குதலை-நியாயப்படுத்துகிறார்-பொன்சேகா/175-332719) · `ta`
 
-ஐக்கிய மக்கள் சக்தி (SJB) தலைவர் சஜித் பிரேமதாச மீது தாம் மேற்கொண்ட காரசாரமான வாய்மொழித் தாக்குதலை நியாயப்படுத்திய அக்கட்சியின் தவிசாளர் சரத் பொன்சேகா, கட்சியின் மேலிடங்கள் ஒருதலைப்பட்சமான முடிவுகளை எடுக்கின்றன எனவே கட்சியின் குறைகளை பகிரங்கமாக தெரிவிப்பதைத் தவிர வேறு வழியில்லை என தெரிவித்துள்ளார்.
+The party's chairman Sarath Fonseka, who justified his virtuous attack on the United People's Power (SJB) leader Sajith Premadasa, said that the party's tops make unilateral decisions, so there was no choice but to make the party's grievances publicly.
 
-SJB தலைவர் சஜித் பிரேமதாச வாரயிறுதியில் தெரிவித்த கருத்துக்களுக்குப் பதிலளித்த அவர், கட்சித் தலைமையை விமர்சிப்பவர்களுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்கப்படும் என்றும் திரு.பிரேமதாச தெரிவித்த கருத்தை சுட்டிக்காட்டிய பொன்சேகா அவற்றிற்கு பதிலளித்தார்.
+Responding to the comments made by SJB leader Sajith Premadasa on the weekend, Fonseka responded by Mr. Premadasa's comment that disciplinary action would be taken against those who criticize the party leadership.
 
-“ஒருமைப்பாட்டுடன் முடிவுகள் எடுக்கப்படும்போதும், கட்சிக்குள் விவாதம் மற்றும் பேச்சு வார்த்தைக்கான வாய்ப்பு கிடைக்காதபோதும், இந்தக் குறைகளை பொதுமக்களிடம் தெரிவிப்பதுதான் எஞ்சியிருக்கும் ஒரே வழி. கட்சியின் பலம் அதன் உறுப்பினர்களும் நலன் விரும்பிகளும்தான் என்பதை நாம் எப்போதும் நினைவில் கொள்ள வேண்டும், தேர்ந்தெடுக்கப்பட்ட சிலர் மட்டும் அல்ல,” என பீல்ட் மார்ஷல் பொன்சேகா தனது சமீபத்திய பதிவில் தெரிவித்துள்ளார்.
+“The only way the rest is to report these grievances to the public, even when decisions are made and the party does not have the opportunity to debate and negotiate within the party.. We must always remember that the strength of the party is its members and welfare, but not only a few elected, ”Field Marshal Fonseka said in his latest post.
 
 ...
 
 [Data](articles/b8678109.json)
+
+[Extended Data](ext_articles/b8678109.ext.json)
 
 ---
 
@@ -1933,115 +2029,5 @@ The bridge, constructed in 1985 during the tenure of late President Ranasinghe P
 [Data](articles/b9b38f8b.json)
 
 [Extended Data](ext_articles/b9b38f8b.ext.json)
-
----
-
-### For a former member of the Municipal Council, the former member of the Municipal Council requested the President
-
-*2024-02-05 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175592) · `ta`
-
-Former United National Party Colombo Municipal Council Member Elbert Sampath has said that the President should take steps to suspend the increase in 10 thousand rupees for good deeds in the border of Colombo Municipal Council.
-
-This was stated in a letter sent to President Ranil Wickremesinghe in this regard.
-
-The decision of the Commissioner of Colombo Municipal Council to increase the massive fee for goodwill. Therefore, steps should be taken to prevent the tariff increase.
-
-The Colombo Municipal Council has been charged only 1,500 rupees. However, it has increased to 10 thousand rupees and the fee of 5 thousand rupees has been increased to 20 thousand rupees.
-
-With the massive economic crisis of the people, this massive increase is a move to make people more difficult.
-
-Therefore, I urge the people of the city to take steps to take advantage of this request, stop the tariff increase and take good action for the existing fee.
-
-...
-
-[Data](articles/2c2639d6.json)
-
-[Extended Data](ext_articles/2c2639d6.ext.json)
-
----
-
-### Bomber arrested for robbery
-
-*2024-02-05 11:20:58* · [`adalk`](https://www.ada.lk/breaking_news/කතුන්-ගේ-රන්මාල-කොල්ලකෑ-පයාගල-මකා-අත්අඩංගුවට/11-407904) · `si`
-
-A large number of robbers were arrested in Kalutara and Panadura, who had gone to the necklaces of women in Kalutara and Panadura.
-
-The suspect was arrested by a 25 shade that is known in the nickname of Payagala.
-
-Police officers were expelled by a motorcycle in Payagala Pambu, police officers were sent to a motorcycle in Payagala Pambu, 670 grams of drugs and 670 grams and motorbike.
-
-Police said a robbery raw was found in question.
-
-◼️
-
-[Data](articles/137841ad.json)
-
-[Extended Data](ext_articles/137841ad.ext.json)
-
----
-
-### Several roads in Colombo to be temporarily closed from today
-
-*2024-02-05 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97012/several-roads-in-colombo-to-be-temporarily-closed-from-today-) · `en`
-
-Several roads in the Kollupitiya and Kompanna Vidiya domains will be temporarily closed from today (05 Feb.), as part of a three-phase maintenance project to lay underground pipelines.
-
-According to police, the stretch from Nawam Mawatha to the Kompanna Vidiya railway station, on Sri Uttarananda Mawatha, will be closed from today until 19 February.
-
-As part for the second phase, the road from Perahera Mawatha to Nawam Mawatha, along Sri Uttarananda Mawatha, will be closed from 20 February until 04 March.
-
-Roads in the vicinity of the Rotunda Gardens junction and Perahera Mawatha will subsequently be closed from 05 to 11 March.
-
-◼️
-
-[Data](articles/1700d95b.json)
-
-[Extended Data](ext_articles/1700d95b.ext.json)
-
----
-
-### China announces execution for Australian writer
-
-*2024-02-05 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175590) · `ta`
-
-China has imposed an adjournment of Australian writer Yang Hengjun, who was arrested on a spying charge in China.
-
-Australian officials said the execution could be converted into life imprisonment two years later.
-
-Yang has rejected the allegations that China has reported on affairs.
-
-Australian Foreign Minister Benivong said in a statement that all Australians want to join Yang with his family.
-
-His writings, formerly known as Yang, who had worked at the Ministry of State Security in China, were called a democratic kidnapper, avoiding direct criticism of the government.
-
-He was subsequently investigated behind the closed doors - a secret hearing in 2021.
-
-◼️
-
-[Data](articles/1e684089.json)
-
-[Extended Data](ext_articles/1e684089.ext.json)
-
----
-
-### Student death by wood
-
-*2024-02-05 11:14:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கிளையால்-மாணவன்-மரணம்/76-332689) · `ta`
-
-An incident where a student died in a tragic death of a tree when she was walking to the hairstyle shop was held at 12 noon on Saturday (03).
-
-Vachikwam Murugan Ashal (age 14), a student of Newton Estate, who is studying in the Ninewood Tamil Vidyalaya, has died.
-
-Following the incident, he was admitted to the Tikoya-Klangan Resource Hospital and was taken to the Kandy Teaching Hospital for further treatment.
-
-He died on the way to carry. The body of Ammanavan was placed in the funeral room of the Nawalapitiya Resource Hospital.
-
-The police said that his physical examination was to be carried out in the presence of the boy's father Murugan, the legal officer of the Nawalapitiya Resource Hospital.
-
-◼️
-
-[Data](articles/38d04913.json)
-
-[Extended Data](ext_articles/38d04913.ext.json)
 
 ---

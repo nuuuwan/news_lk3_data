@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 18:32:56**
+As of **2024-02-05 18:50:40**
 
 ## Newspaper Stats
 
-*Scraped **4,959** Articles*
+*Scraped **4,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 426
 virakesarilk | 572
 adaderanalk | 615
 tamilmirrorlk | 628
-adaderanasinhalalk | 641
+adaderanasinhalalk | 644
 dailymirrorlk | 700
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,951 (99.8%) of 4,959 articles have been extended.
+4,959 (99.9%) of 4,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### මේ මගේ රට... මා ඉපදුණු රට... - ජනපති (සජීවී විකාශය)
+
+*2024-02-05 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193015) · `si`
+
+"උරුමය" නිදහස් ඔප්පු ප්‍රදානය කිරීමේ ජාතික වැඩසටහන මේ වනවිට දඹුල්ලේදී පැවැත්වෙයි.
+
+ඒ අවස්ථාවට එක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිදුකරන කතාව ඉහළින් ඔබට නැරඹියහැකිය .
+
+◼️
+
+[Data](articles/78d977ec.json)
+
+---
+
+### අම්පාරේ වනඅලි මරණ වැළැක්වීමේ වැඩපිළිවෙලක් ඉල්ලා අධිකරණයට පෙත්සමක්
+
+*2024-02-05 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193014) · `si`
+
+අම්පාර දිස්ත්‍රික්කයේ සිදුවන වනඅලි මරණ වැළැක්වීමේ වැඩපිළිවෙලක් සකස් කරන ලෙස මධ්‍යම පරිසර අධිකාරිය ඇතුළු ආයතනවලට නියෝග කරන්නයි ඉල්ලා අභියාචනාදීකරණයට රිට් පෙත්සමක් ඉදිරිපත් කර තිබේ.
+
+ශ්‍රී ලංකා යුක්තිය උදෙසා වූ සංවිධානය විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබුණි.
+
+එහි වගඋත්තරකරුවන් ලෙස වන ජීවී අධ්‍යක්ෂ ජනරාල්වරයා, මධ්‍යම පරිසර අධිකාරිය සහ අඩ්ඩාලච්චේන ප්‍රාදේශීය සභාවේ ලේකම්වරයා නම් කර තිබේ.
+
+නීතිඥ නාගානන්ද කොඩිතුවක්කු මහතා මාර්ගයෙන් ගොනුකර ඇති මෙම පෙත්සමේ කියා තිබෙන්නේ 2018 වසරේ සිට  2023 වසර දක්වා කාලසීමාව තුළ අලි මිනිස් ගැටුම හේතුවෙන් අම්පාර දිස්ත්‍රික්කය තුළ අලි ඇතුන් 255ක් සහ මිනිසුන් 78 දෙනෙකු මියගොස් ඇති බවය.
+
+අඩ්ඩාලච්චේන ප්‍රාදේශීය සභා බල ප්‍රදේශයේ පිහිටි  පල්ලේකාඩු නැමති කුණු කන්දේ  ඇති අපද්‍රව්‍ය අනුභව කිරීමට පැමිණීම හේතුවෙන් මෙම අලි ඇතුන් අනතුරට ලක්වන බවත් පෙත්සමේ  සඳහන් කර තිබේ.
+
+අපද්‍රව්‍ය බැහැර කිරීමේ විධිමත් වැඩපිළිවෙලක් අදාළ ප්‍රාදේශීය සභාව විසින් මෙතෙක් නිර්මාණය කර නොතිබීම හේතුවෙන් අලි මිනිස් ගැටුම උග්‍රවීමට හේතුවී තිබෙන බවත් පෙත්සමේ චෝදනා කර තිබුණි.
+
+...
+
+[Data](articles/2a9adcbf.json)
+
+---
 
 ### CID arrest tutor over torching of President Ranil’s house
 
@@ -50,17 +86,19 @@ On 09 July 2022, then-Prime Minister Wickremesinghe’s private residence in Cin
 
 ---
 
-### சாந்தன் விவகாரம் ;  அமைச்சரவையில் பிரஸ்தாபித்தார் டக்ளஸ்
+### Santhan affair;Douglas published in the cabinet
 
 *2024-02-05 17:42:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தன்-விவகாரம்-அமைச்சரவையில்-பிரஸ்தாபித்தார்-டக்ளஸ்/175-332718) · `ta`
 
-முன்னாள் இந்தியப் பிரதமர் ரஜீவ்காந்தி கொலை தொடர்பில் கைது செய்யப்பட்டு விடுதலையானவர்களுள் ஒருவரான சாந்தனை  இலங்கைக்கு அழைத்து வருவதற்கு சம்மதம் தெரிவித்துள்ள ஜனாதிபதி ரணில் விக்கிரமசிங்க தேவையான ஏற்பாடுகளை செய்வதற்கும் இணக்கம் தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe has agreed to make the necessary arrangements for the arrest of former Indian Prime Minister Rajiv Gandhi's murder.
 
-குறித்த விடயம் தொடர்பாக திங்கட்கிழமை (05) நடைபெற்ற அமைச்சரவை கூட்டத்தின் போது ஜனாதிபதி மற்றும் வெளிவிவகார அமைச்சர் ஆகியோருடன் அமைச்சர் டக்ளஸ் தேவானந்தா பிரஸ்தாபித்த நிலையிலேயே ஜனாதிபதியினால் சம்மதம் தெரிவிக்கப்பட்டுள்ளது.
+Minister Douglas Devananda has agreed with the President and the Minister of External Affairs during a Cabinet meeting held on Monday (05).
 
 ◼️
 
 [Data](articles/dda13048.json)
+
+[Extended Data](ext_articles/dda13048.ext.json)
 
 ---
 
@@ -82,21 +120,41 @@ The ‘India Energy Week’ conference will be held from 06 to 09 February in Go
 
 ---
 
-### கடந்த தேர்தலில் மூன்றுவீதம் பெற்ற கட்சி இம்முறை ஐம்பது வீதம் பெறும் கனவுடன் - ஹரீன் பெர்ணான்டோ
+### ජනපතිගේ නිවසට ගිනි තැබීමේ සිද්ධියට සැකපිට පුද්ගලයෙකු අත්අඩංගුවට
+
+*2024-02-05 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193013) · `si`
+
+වත්මන් ජනාධිපතිවරයාගේ කොල්ලුපිටියේ පිහිටි පුද්ගලික නිවසට ගිනි තැබීමේ සිද්ධිය සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ විසින් සැකපිට පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ බොරලැස්ගමුව ප්‍රදේශයේ පදිංචි 46 හැවිරිදි වියේ පසුවන පුද්ගලයෙකි.
+
+◼️
+
+[Data](articles/d1f01494.json)
+
+---
+
+### Harin Fernando with the dream of getting a three -scale party in the last election
 
 *2024-02-05 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175647) · `ta`
 
-உயிராபத்தை ஏற்படுத்தக்கூடிய நோயினால் பாதிக்கப்பட்டுள்ள நோயாளியின் நிலையில் உள்ள நாட்டிற்கு ரணில்விக்கிரமசிங்கவே சிறந்த மருத்துவர் என அமைச்சர் ஹரீன்பெர்ணான்டோ தெரிவித்துள்ளார்
+Ranil Wickremesinghe is the best doctor for the country in the condition of a patient infected with a life -threatening disease.
 
-ஜனாதிபதி தேர்தல் இந்த வருடம் ஒக்டோபர் மாதம் முதல் வாரத்தில் நடைபெறவேண்டும் என தெரிவித்துள்ள அமைச்சர் 14ம் திகதிக்குள் புதிய ஜனாதிபதி பதவியேற்கவேண்டும் எனவும் தெரிவித்துள்ளார்.
+The presidential election should be held in the first week of October this year.
 
-கடந்த முறை தேர்தலில் மூன்றுவீதம் மாத்திரம் பெற்ற கட்சி இம்முறை மேலும் 47 வீதம் பெறவேண்டும் இது ஒருகனவு எனவும் தெரிவித்துள்ள ஹரீன்பெர்ணான்டோ அவர்கள் அந்த கனவில் திளைத்திருப்பதற்கு அனுமதிப்பது சிறந்த விடயம் ஆனால் கனவுகள் ஒருபோதும் நிஜமாவதில்லை எனவும் குறிப்பிட்டுள்ளார்.
+Harinbernando said that this is one more than 47 percent of the party, which has only three percent in the last election.
 
-வங்குரோத்து நிலையில் காணப்பட்ட தேசத்திற்கு குறுகிய காலத்தில் உயிர்கொடுத்தவர் ஜனாதிபதி ரணில்விக்கிரமசிங்க என்பதால் தேசத்தை கட்டியெழுப்புவதற்கு அவருக்கு மீண்டும் ஒரு வாய்ப்பை வழங்கவேண்டும் எனவும் ஹரீன்பெர்ணான்டோ தெரிவித்துள்ளார்.
+Harinbernando said he should again give him an opportunity to build the nation, as President Ranil Wickremesinghe is the one who survived the nation in a bankruptcy.
 
-...
+He said that the people should decide whether the patient is going to be sent to the radical treatment unit again.
+
+Harin Fernando said that Ranil Wickremesinghe is the best doctor for the country of the patient who is suffering from a life -threatening disease.
+
+◼️
 
 [Data](articles/a5b75836.json)
+
+[Extended Data](ext_articles/a5b75836.ext.json)
 
 ---
 
@@ -142,17 +200,19 @@ The Minister also pointed out that the computer resource centers established in 
 
 ---
 
-### சாந்தன் விவகாரம் அமைச்சரவையிலும் பேச்சு
+### Speech in the Cabinet of Santhan
 
 *2024-02-05 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/175639) · `ta`
 
-முன்னாள் இந்தியப் பிரதமர் ரஜீவ்காந்தி கொலை தொடர்பில் கைது செய்யப்பட்டு விடுதலையானவர்களுள் ஒருவரான சாந்தனை இலங்கைக்கு அழைத்து வருவதற்கு சம்மதம் தெரிவித்துள்ள ஜனாதிபதி ரணில் விக்கிரமசிங்க தேவையான ஏற்பாடுகளை செய்வதற்கும் இணக்கம் தெரிவித்துள்ளார் என தெரிவிக்கப்படுகிறது.
+President Ranil Wickremesinghe has agreed to make the necessary arrangements to make the necessary arrangements for the bringing of Santhan to Sri Lanka, one of the arrested persons arrested in connection with the murder of former Indian Prime Minister Rajiv Gandhi.
 
-குறித்த விடயம் தொடர்பாக இன்று திங்கட்கிழமை (05) நடைபெற்ற அமைச்சரவை கூட்டத்தின் போது ஜனாதிபதி மற்றும் வெளிவிவகார அமைச்சர் ஆகியோருடன் அமைச்சர் டக்ளஸ் தேவானந்தா பிரஸ்தாபித்த நிலையிலேயே ஜனாதிபதியினால் சம்மதம் தெரிவிக்கப்பட்டுள்ளது.
+Minister Douglas Devananda has agreed with the President and the Minister of External Affairs during a Cabinet meeting held on Monday (05).
 
 ◼️
 
 [Data](articles/46943ebe.json)
+
+[Extended Data](ext_articles/46943ebe.ext.json)
 
 ---
 
@@ -178,21 +238,25 @@ Following the fatal collision, three injured persons, including the State Minist
 
 ---
 
-### யாழ். வட்டுக்கோட்டை பொலிஸாரினால் யாழ்.பல்கலை மாணவன் சித்திரவதை - மனிதவுரிமை ஆணைக்குழுவில் முறைப்பாடு
+### Yall. Vaddukoddai Police
 
 *2024-02-05 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/175635) · `ta`
 
-யாழ்ப்பாணம் வட்டுக்கோட்டை பொலிஸ் நிலையத்தில் உள்ள இரகசிய அறையில் வைத்து, தன்னை தலைகீழாக தூக்கி, அடித்து சித்திரவதைக்கு உள்ளாகியுள்ளதாக யாழ். பல்கலைக்கழக மாணவன் மனிதவுரிமை ஆணைக்குழுவில் முறைப்பாடு செய்துள்ளார்.
+Jaffna has been placed in the secret room at the Vaddukoddai police station in Jaffna.. The university student has lodged a complaint with the Human Rights Commission.
 
-மனிதவுரிமை ஆணைக்குழுவின் யாழ்ப்பாண பிராந்திய அலுவலகத்தில் , பல்கலைக்கழக மாணவனான கருணாகரன் நிதர்சன் எனும் மாணவன் இன்று திங்கட்கிழமை (05) முறைப்பாடு பதிவு செய்துள்ளார்.
+Karunakaran Nitarshan, a university student at the Jaffna Regional Office of the Human Rights Commission, filed a complaint today (05).
 
-வட்டுக்கோட்டை மாவடி பகுதியில் பொலிஸ் உத்தியோகஸ்தர் ஒருவர் தன்னை வழிமறித்து , தான் மறிக்கும் போது ஏன் மோட்டார் சைக்கிளை நிறுத்தவில்லை என என்னுடன் முரண்பட்டார்.
+A police officer in the Vaddukoddottai area led himself and contradicted me as to why he did not stop the motorcycle when he was forgotten.
 
-அதற்கு நான் நீங்கள் மறித்ததை கவனிக்கவில்லை. என கூறி, ஆவணங்கள் அனைத்தும் என்னிடம் உள்ளன, என அவற்றை எடுத்து கொடுத்த போது, அதனை வாங்காது, மேலதிக பொலிஸார் அவ்விடத்திற்கு வரவழைத்தார்.
+For that I don't notice you. When I took them all the documents, I did not buy it, and the additional police summoned it.
+
+At the time, more than 7 police officers who came in civil clothes, without any inquiries, put me on the street and severely attacked people while they were watching.. The incident that strikes me is also recorded in surveillance cameras at a nearby shop. And I took a video of me hitting me on my cell phone.
 
 ...
 
 [Data](articles/1c7e2562.json)
+
+[Extended Data](ext_articles/1c7e2562.ext.json)
 
 ---
 
@@ -286,79 +350,95 @@ The police were also arrested by the police, who were transporting firearms, and
 
 ---
 
-### நிகழ்நிலைக் காப்புச் சட்டம் உள்ளிட்ட பல விடயங்களை இந்திய உயர்ஸ்தானிகருக்கு விளக்கினார் எதிர்க்கட்சித் தலைவர் சஜித்
+### Opposition Leader Sajith explained to the Indian High Commission
 
 *2024-02-05 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175627) · `ta`
 
-நிகழ்நிலைக் காப்புச் சட்டம் உள்ளிட்ட பல விடயங்கள் தொடர்பாக இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவுக்கு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ விளக்கமளித்துள்ளார்.
+Opposition Leader Sajith Premadasa has explained many issues, including the current backup act, Indian High Commissioner Santosh Jahu has explained.
 
-இந்தியாவின் இலங்கைக்கான புதிய உயர்ஸ்தானிகராக நியமிக்கப்பட்டுள்ள சிரேஷ்ட இராஜதந்திரியான ஸ்ரீ சந்தோஷ் ஜா (Santosh Jha) மற்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச ஆகியோருக்கு இடையிலான சந்திப்பொன்று அண்மையில் எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் இடம்பெற்றது.
+A recent meeting between Santosh JHA and Opposition Leader Sajith Premadasa, the new High Commissioner to Sri Lanka, was held at the office of the Opposition Leader.
 
-இரு நாடுகளுக்கும் இடையே நீண்ட காலமாக நிலவிவரும் சமூக, பொருளாதார மற்றும் அரசியல் விவகாரங்களுடன் தொடர்பான பல்வேறு விடயங்களை இருவரும் பரிமாறிக்கொண்டனர்.
+Both have exchanged various issues relating to the long -standing social, economic and political affairs between the two countries.
 
-தற்போதைய அரசாங்கம் கொண்டு வந்துள்ள சட்டவிரோத மற்றும் நியாயமற்ற வரிக் கொள்கை குறித்த விடயங்களை எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இந்திய உயர்ஸ்தானிகருக்கு தெரியப்படுத்தினார்.
+Opposition Leader Sajith Premadasa informed the Indian High Commissioner of the illegal and unfair tax policy brought by the current government.
+
+The Opposition Leader made clear the High Commissioner on how the people were affected by the unreasonably imposed value tax and the impact of the adverse effects on the employee of the working people in the domestic debt restructuring.
+
+Similarly, Opposition Leader Sajith Premadasa said to the Indian High Commission on the impact of the current government on the democratic rights of the people.
 
 ...
 
 [Data](articles/cb23c859.json)
 
+[Extended Data](ext_articles/cb23c859.ext.json)
+
 ---
 
-### கெஹெலிய படுகொலையில் ஈடுபட்டுள்ளார் - அவருக்கு வழங்கப்படும் தண்டனை அரசியல்வாதியொருவருக்கு வழங்கப்பட்ட சிறந்த தண்டனையாக அமையவேண்டும் - ஜனக ரத்நாயக்க
+### Keheliya is involved in the assassination - the punishment given to him is the best punishment for a politician - Janaka Ratnayake
 
 *2024-02-05 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175631) · `ta`
 
-முன்னாள் சுகாதார அமைச்சர் கெஹெலிய ரம்புக்வெலவின் இம்யுனோகுளோபுளின்   மோசடி ஒரு படுகொலை நடவடிக்கை என பொதுப்பயன்பாட்டு ஆணைக்குழுவின் முன்னாள் தலைவர் ஜனகரத்நாயக்க  தெரிவித்துள்ளார்.
+Former Health Minister Keheliya Rambukwella's former President of the Public Use Commission Janakatnayake has said that the fraud of Imunoghulopulin's fraud is a massacre.
 
-முன்னாள் சுகாதார அமைச்சருக்கு எதிராக சுமத்தப்பட்டுள்ள தரம்குறைந்த இம்யுனோகுளோபுளினை இறக்குமதி செய்தார் என்ற குற்றச்சாட்டு சுமத்தப்பட்டுள்ள நிலையில் அமைச்சர் மோசடியில் ஈடுபட்டுள்ளார் படுகொலையில் ஈடுபட்டுள்ளார் எனகருதவேண்டும் என அவர் குறிப்பிட்டுள்ளார்.
+He said that the minister should be involved in the murder of the minister, which has been accused of importing the low -quality Imunoglobulin against the former health minister.
 
-அமைச்சர் உரிய நடைமுறைகளை பின்பற்றாமல் மருந்துகளை இறக்குமதிசெய்துள்ளதுடன் நாட்டின் அப்பாவி மக்களிற்கு அவற்றை வழங்கியுள்ளார் என ஜனகரத்நாயக்க தெரிவித்துள்ளார்.
+Janakaratnayake said that the minister has imported the drug without following the appropriate procedures and provided them to the innocent people of the country.
 
-எத்தனை பேர் இதன்காரணமாக உயிரிழந்தனர் என்பது எங்களிற்கு தெரியாது ஆகவே இந்த விவகாரம் குறித்து நாங்கள் மேலும் ஆராயவேண்டும் இரண்டாம் உலக யுத்தத்தில் ஹிட்லரின் படுகொலைகள் போன்றது இது என கருதவேண்டும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+We do not know how many people have died, so we should look at the issue further.
 
-கெஹெலியவிற்கு வழங்கப்படும் தண்டனை இலங்கையில் அரசியல்வாதியொருவருக்கு வழங்கப்பட்ம மிகச்சிறந்த தண்டனையாக இருக்கவேண்டும் எனவும் அவர் தெரிவித்துள்ளார்.
+He said the punishment for Keheliya should be the best punishment for a politician in Sri Lanka.
 
-...
+He said that all the parliamentarians should be paid to all MPs to test the symptoms of the disease.
+
+In general, politicians are not ashamed of fraudulent corruption, he said.
+
+◼️
 
 [Data](articles/37eaf031.json)
 
+[Extended Data](ext_articles/37eaf031.ext.json)
+
 ---
 
-### இலஞ்சம், ஊழல்  தொடர்பில்  கைதானவர்களில் பெரும் எண்ணிக்கையானோர் பொலிஸ் அதிகாரிகள்!
+### A large number of detainees on bribery and corruption are police officers!
 
 *2024-02-05 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175632) · `ta`
 
-இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவினால் வெளியிடப்பட்டுள்ள அறிக்கையின்படி, கடந்த வருடம் இலஞ்சம்,  ஊழல் குற்றச்சாட்டுக்கள் தொடர்பில் 3,431 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளன.
+According to a report issued by the Bribery Commission, 3,431 complaints have been received last year on bribery and corruption allegations.
 
-இலஞ்சம் மற்றும் ஊழல் முறைப்பாடுகளுக்காக கைது செய்யப்பட்டவர்களில் பெரும் எண்ணிக்கையானோர் பொலிஸ் அதிகாரிகள் என்றும்   தெரிவித்துள்ளது.
+A large number of those arrested for bribery and corruption complaints are said to be police officers.
 
-இந்த  முறைப்பாடுகளில் 2,789 முநைப்பாடுகள் விசாரணைக் குழுவிடம் சமர்ப்பிக்கப்பட்டுள்ளதாகவும் அந்த  அறிக்கை சுட்டிக்காட்டியுள்ளது.
+The report also pointed out that 2,789 premises have been submitted to the Inquiry Committee in these complaints.
 
 ◼️
 
 [Data](articles/483f49b7.json)
 
+[Extended Data](ext_articles/483f49b7.ext.json)
+
 ---
 
-### பனை, தென்னை வள சங்க முகாமையாளரின் தாக்குதலுக்கு இலக்கான சீவல் தொழிலாளி ஒருவர் உயிரிழப்பு
+### Seevar
 
 *2024-02-05 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175628) · `ta`
 
-யாழ்ப்பாணப்பாணத்தில் பனை, தென்னை வள சங்க முகாமையாளரின் தாக்குதலுக்கு இலக்கான சீவல் தொழிலாளி ஒருவர் உயிரிழந்துள்ளார்.
+A seal worker who was attacked by a palm and coconut resource union manager in Jaffna has died.
 
-கரவெட்டி வடக்கைச் சேர்ந்த வேலன் பிரேமதாஸா (வயது 54) என்பவரே வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் , சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+Velan Premadasa (54 years old) from Karavetti North has died after being treated at the hospital.
 
-கடந்த 28ஆம் திகதி பனை தென்னை வள சங்கத்திற்கு தொழிலாளி சென்ற வேளை, முகாமையாளருடன் தர்க்கம் ஏற்பட்டதை அடுத்து, தொழிலாளி மீது முகாமையாளர் மூர்க்கதனமாக தாக்குதல் மேற்கொண்டுள்ளார்.
+When the worker went to the Palm Coconut Resource Society on the 28th, the manager was furiously attacked by the worker after the logic with the manager.
 
-அதனை அடுத்து வீடு திரும்பிய தொழிலாளி, சுகவீனமுற்ற நிலையில் 31ஆம் திகதி பருத்தித்துறை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்துள்ளார்.
+The worker who returned home was admitted to the Point Pedro Hospital on the 31st of 31st of his life.
 
-உயிரிழப்பை அடுத்து சட்ட வைத்திய அதிகாரியினால் மேற்கொள்ளப்பட்ட உடற்கூற்று பரிசோதனையில், கால் மற்றும் விலா எலும்புகளில் முறிவுகள் ஏற்பட்டு உள்ளமையும், அந்த முறிவுகளினால் ஏற்பட்ட கிருமி தொற்று காரணமாக நிமோனியா ஏற்பட்டு, உயிரிழப்பு சம்பவித்துள்ளது என அறிக்கையிடப்பட்டுள்ளது.
+Anatomical examination carried out by the legal officer following the death of the legal officer reported that the leg and ribs were broken in the bones, causing pneumonia infection caused by the breakdown.
 
-அதனை தொடர்ந்து நெல்லியடி பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளதுடன், முகாமையாளரை கைது செய்வதற்கான நடவடிக்கையையும் முன்னெடுத்துள்ளனர்.
+Following this, the Nelliyadi police have carried out investigations and have taken steps to arrest the manager.
 
 ◼️
 
 [Data](articles/dc068078.json)
+
+[Extended Data](ext_articles/dc068078.ext.json)
 
 ---
 
@@ -1995,69 +2075,5 @@ The driver of the SLTB has been arrested and is to be produced before the Horana
 [Data](articles/95af5eb9.json)
 
 [Extended Data](ext_articles/95af5eb9.ext.json)
-
----
-
-### Sri Lanka raises fine for supplying substandard drugs
-
-*2024-02-05 10:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-raises-fine-for-supplying-substandard-drugs/108-276328) · `en`
-
-Colombo, Feb 05 (Daily Mirror) - In the wake of former Health Minister and top officials being found to have been embroiled in the import of substandard Immunoglobulin injections, authorities have decided to increase the penalty for the act of supplying or selling substandard medicines, sources said.
-
-Accordingly, the fine has been increased substantially from Rs.100 to Rs.100,000 for individuals found guilty of this offence.
-
-Previously, the fine for offences related to compromising the quality of a specific medicine and deliberately dispensing it from a dispensary was set at a meager Rs. 100.
-
-This adjustment comes as a response to the need for stricter measures to ensure the quality and safety of pharmaceuticals in the country.
-
-The proposal to enhance the fine was put forward by Dr. Wijayadasa Rajapaksha, the Minister of Justice, Prison Affairs and Constitutional Reforms.
-
-◼️
-
-[Data](articles/b234fab6.json)
-
-[Extended Data](ext_articles/b234fab6.ext.json)
-
----
-
-### Another 667 suspects arrested during Operation ‘Yukthiya’
-
-*2024-02-05 10:30:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/another-667-suspects-arrested-during-operation-yukthiya/) · `en`
-
-COLOMBO (News 1st); Another 667 suspects have been arrested during Operation 'Yukthiya' over the past 24 hours.
-
-The Ministry of Public Security said 108 suspects who were on the list sent to the crimes division were also among the arrested group.
-
-Police seized 191 grams of heroin, 103 grams of ICE and 2kg and 300g of cannabis from the suspects' possession.
-
-Three suspects arrested on drug-related charges were directed to rehabilitation centers.
-
-Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
-
-Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
-
-◼️
-
-[Data](articles/4eac9363.json)
-
-[Extended Data](ext_articles/4eac9363.ext.json)
-
----
-
-### Hulanda Oya Bridge collapses
-
-*2024-02-05 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97011/hulanda-oya-bridge-collapses-) · `en`
-
-Traffic plying on the Embilitipitya – Middeniya main road has been blocked after the Hulanda Oya bridge collapsed earlier this morning (05 Feb.).
-
-It is reported that the bridge had collapsed while a logging truck was travelling across.
-
-However, no casualties have been reported thus far, while motorists have been urged to use alternative routes.
-
-◼️
-
-[Data](articles/580463b1.json)
-
-[Extended Data](ext_articles/580463b1.ext.json)
 
 ---

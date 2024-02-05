@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-05 15:51:34**
+As of **2024-02-05 16:03:46**
 
 ## Newspaper Stats
 
-*Scraped **4,911** Articles*
+*Scraped **4,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,161 @@ dbsjeyarajcom | 138
 economynextcom | 260
 islandlk | 263
 dailyftlk | 280
-newsfirstlk | 296
-adalk | 424
-virakesarilk | 560
+newsfirstlk | 299
+adalk | 425
+virakesarilk | 563
 adaderanalk | 611
-tamilmirrorlk | 626
-adaderanasinhalalk | 634
+tamilmirrorlk | 627
+adaderanasinhalalk | 636
 dailymirrorlk | 688
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-4,911 (100.0%) of 4,911 articles have been extended.
+4,911 (99.8%) of 4,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-05 (Monday)
+
+### “ஆணுறுப்பை குறிவைத்து பொலிஸார் கடுமையாக தாக்கினர்”
+
+*2024-02-05 15:33:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஆணுறுப்பை-குறிவைத்து-பொலிஸார்-கடுமையாக-தாக்கினர்/71-332712) · `ta`
+
+யாழ்ப்பாணம் வட்டுக்கோட்டை பொலிஸ் நிலையத்தில் உள்ள இரகசிய அறையில் வைத்து, தன்னை தலைகீழாக தூக்கி, அடித்து சித்திரவதைக்கு உள்ளாகினர் என மனித உரிமை ஆணைக்குழுவில் யாழ்.பல்கலைக்கழக மாணவன், முறைப்பாடு செய்துள்ளார்.
+
+மனிதவுரிமை ஆணைக்குழுவின் யாழ்ப்பாண பிராந்திய அலுவலகத்தில் ,  கருணாகரன் நிதர்சன் எனும் மாணவன் திங்கட்கிழமை (05) முறைப்பாடு பதிவு செய்துள்ளார்.
+
+“வட்டுக்கோட்டை மாவடி பகுதியில் பொலிஸ் உத்தியோகஸ்தர் ஒருவர் என்னை வழிமறித்து, தான் மறிக்கும் போது ஏன் மோட்டார் சைக்கிளை  நிறுத்தவில்லை என என்னுடன் முரண்பட்டார்.
+
+அதற்கு நான் நீங்கள் மறித்ததை கவனிக்கவில்லை. எனக் கூறினேன். அதன்பின்னர் ஆவணங்களை கேட்டார். ஆவணங்கள் அனைத்தும் என்னிடம் உள்ளன எனக்கூறி? அவற்றை எடுத்து கொடுத்த போது , அதனை வாங்கி பார்க்காது , மேலதிக பொலிஸாரை அவ்விடத்திற்கு வரவழைத்தார்.
+
+...
+
+[Data](articles/60cffb9b.json)
+
+---
+
+### புதுருவகல  பாடசாலை மாணவர்களுக்கு வழங்கிய வாக்குறுதியை மிகக் குறுகிய காலத்தில் நிறைவேற்றும்  ஜனாதிபதி!
+
+*2024-02-05 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175619) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் மொனராகலை புதுருவகல  மகா வித்தியாலய மாணவர்களுக்கு வழங்கிய வாக்குறுதியை மிகக் குறுகிய காலத்தில் நிறைவேற்றும் வகையில் பெறுமதிவாய்ந்த இசைக்கருவிகள் பாடசாலைக்கு பெப்ரவரி 09 ஆம் திகதி   வழங்கப்படவுள்ளது.
+
+கடந்த நவம்பர் 03 ஆம் திகதி ஜனாதிபதி ரணில் விக்ரமசிங்க பயணித்த உலங்குவானூர்தி மோசமான காலநிலை காரணமாக மொனராகலை புதுருவகல  மகா வித்தியாலய மைதானத்தில் அவசரமாக தரையிறக்கப்பட்டது. இதன்போது குறித்த மாணவர்களால் தங்களின் பாடசாலைக்கு இசைக் கருவிகள் வேண்டும் என்ற கோரிக்கையை முன்வைத்தனர்.
+
+தங்கள்  பாடசாலைக்கு திடீரென வருகை தந்த விருந்தினர் நாட்டின் ஜனாதிபதி என்பதை அறிந்து கொண்ட மாணவர்களும் ஆசிரியர்களும் மகிழ்ச்சியில் ஆழ்ந்தனர்.  அந்த சமயத்தில் உலங்குவானூர்திக்கு அருகில் வந்து ஜனாதிபதி ரணில் விக்ரமசிங்கவுடன் சிநேகபூர்வ உரையாடலில் மாணவர்கள் ஈடுபட்டனர். பாடசாலை மற்றும் அதனைச் சுற்றியுள்ள பகுதிகளில் உள்ள குறைபாடுகள் குறித்தும் ஜனாதிபதி அவர்களிடம் கேட்டறிந்தார்.
+
+...
+
+[Data](articles/370fa7f2.json)
+
+---
+
+### Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
+
+*2024-02-05 15:19:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/online-safety-bill-sparks-no-confidence-motion-against-sri-lankan-speaker/) · `en`
+
+COLOMBO (News 1st); Professor G. L. Peiris, representing the joint opposition in the Sri Lankan Parliament, announced their intention to file a no-confidence motion against the speaker. This move comes amidst concerns about the conduct of the speaker and the passing of the Online Safety Bill.
+
+Professor Peiris, expressed dissatisfaction with the Online Safety Bill, stating that it did not adhere to proper legal procedures. He further criticized the speaker's conduct, calling it "disgraceful" and accusing him of violating the constitution and parliamentary standing orders while passing certain legislation.
+
+Responding to a question about potential action against the speaker, Professor Peiris confirmed the planned no-confidence motion. He emphasized the urgency of this action, stating that continued acceptance of the speaker's alleged conduct would amount to "betraying the country."
+
+Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
+
+...
+
+[Data](articles/2cd83b8c.json)
+
+---
+
+### සම්මාන අරන් ගෙදර යන්න ගිය රැප් ගායකයා අත්අඩංගුවට
+
+*2024-02-05 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193006) · `si`
+
+66 වැනි ග්‍රැමී සම්මාන උලෙළේදී සිදුවූ සුවිශේෂී සිදුවීමක් වෙත මේ වනවිට ලෝකයේම අවධානය යොමුව් තිබේ.
+
+එහිදී සම්මාන උලෙළේදී සම්මාන ත්‍රිත්වයක් හිමිකරගත් රැප් ගායකයෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+කෙසේ වෙතත් අදාළ සිදුවීම සම්බන්ධයෙන් නිශ්චිත ප්‍රකාශයක් මේ දක්වා බලධාරීන් විසින් නිකුත් කර නොමැති බව ද එම වාර්තා සඳහන් කරයි.
+
+◼️
+
+[Data](articles/6d4c5622.json)
+
+---
+
+### இன்று யுவனின் ரசிகர்களுக்கு கிடைத்துள்ள வாய்ப்பு !
+
+*2024-02-05 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175617) · `ta`
+
+பிரபல இசையமைப்பாளர் யுவன் சங்கர் ராஜா இலங்கையில் பிரம்மாண்டமான இசை நிகழ்ச்சியை நடத்தவுள்ள நிலையில், அதற்கான ஊடகவியலாளர் சந்திப்பு இன்று திங்கட்கிழமை (05) இடம்பெறவுள்ளது.
+
+குறித்த ஊடகவியலாளர் சந்திப்பு இன்றைய தினம் மாலை 06.00 மணிக்கு கொழும்பு தாமரைக் கோபுரத்தில் உள்ள மண்டபத்தில் இடம்பெறவுள்ளது.
+
+இந்நிலையில், யுவன் சங்கர் ராஜாவை காணாவிரும்பும் ரசிகர்கள் இன்று மாலை 5 மணிக்கு கொழும்பு தாமரைக் கோபுர முன்றலிற்கு வருகை தருமாறு ஏற்பாட்டுக்குழுவினர் கேட்டுக்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/29ceb97b.json)
+
+---
+
+### උසස් පෙළ සහිත පාසල් ඩිජිටල්කරණය අරඹයි
+
+*2024-02-05 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193005) · `si`
+
+එළැඹෙන ජුනි මාසය වනවිට මෙරට උසස් පෙළ සහිත පාසල් ඩිජිටල්කරණයට ලක්කරන බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසයි.
+
+ඒ අනුව නව තාක්ෂණය සමඟ සෘජුව සම්බන්ධ වෙමින් අධ්‍යාපන කටයුතු කරගෙන යාමට දරුවන්ට අවස්ථාව සලසා දෙන බව අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+ඔහු මෙ බව පැවසුවේ  අද (05) යාපනය හින්දු විද්‍යාලයේ පැවති උත්සව අවස්ථාවකට එක්වෙමිනි.
+
+එහිදී මෙරට උසස් පෙළ සහිත පාසල් 3,000ක් ඩිජිටල්කරණයට ලක් කෙරෙන අතර, මීට අදාළව ගුරුවරුන් පුහුණු කිරීම එළැඹෙන මාර්තු මාසයේ සිට ආරම්භ කරන බවත් අමාත්‍යවරයා ප්‍රකාශ කළේය.
+
+රටේ සියලු‍ දරුවන්ට අධ්‍යාපනයේ සමාන අවස්ථා අත්පත්කරදීම අධ්‍යාපන අමාත්‍යාංශයේ අරමුණ බව ද අමාත්‍යවරයා වැඩිදුරටත් ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/6620c910.json)
+
+---
+
+### Public Petition Calls for Rambukwella’s Removal
+
+*2024-02-05 15:05:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/public-petition-calls-for-rambukwella-s-removal/) · `en`
+
+COLOMBO (News 1st); The National Civil Organization Front (NCOF), a coalition of civil society groups, raised concerns regarding the alleged medicine scandal, calling for the entire cabinet to be held accountable.
+
+Furthermore, the activists launched a public petition demanding the immediate removal of Minister Keheliya Rambukwella from his position.
+
+In a further development surrounding the alleged medicine procurement scandal, the National Civil Organization Front (NCOF) and mass organizations jointly organized a signature campaign today.
+
+The program, held in front of the Fort railway station in Colombo, aimed to garner public support for their demands.  Several prominent figures voiced their outrage and called for action.
+
+Janaka Ratnayake, Former PUCSL Chairman, stated, "This shouldn't be seen as mere corruption, but as genocide. If such a scandal occurred abroad, the minister would resign. Yet, in Sri Lanka, this never happens. This individual must step down to set a precedent."
+
+...
+
+[Data](articles/b9040830.json)
+
+---
+
+### ජුනි මාසය වනවිට උසස් පෙළ සහිත පාසල් 3,000 ඩිජිටල්කරණයට‍
+
+*2024-02-05 14:57:00* · [`adalk`](https://www.ada.lk/breaking_news/ජුනි-මාසය-වනවිට-උසස්-පෙළ-සහිත-පාසල්-3-000-ඩිජිටල්කරණයට‍/11-407909) · `si`
+
+අධ්‍යාපන අමාත්‍යාංශයේ අරමුණ රටේ සියලු‍ දරුවන්ට අධ්‍යාපනයේ සමාන අවස්ථා අත්පත්කරදීම  බවත්, එහි එක් පියවරක් වශයෙන් එළඹෙන ජුනි මාසය වනවිට මෙරට උසස් පෙළ සහිත පාසල් ඩිජිටල්කරණයට ලක්කරන බවත්, ඒ අනුව නව තාක්ෂණය සමග සෘජුව සම්බන්ධ වෙමින් අධ්‍යාපන කටයුතු කරගෙන යාමට දරුවන්ට අවස්ථාව සලසා දෙන බවත් අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+
+අමාත්‍යවරයා මේ අදහස් පළ කළේ අද (05) යාපනය හින්දු විද්‍යාලයේ පැවති උත්සව අවස්ථාවකට එක්වෙමිනි. ඒ අනුව, මෙරට උසස් පෙළ සහිත පාසල් 3,000 ඩිජිටල්කරණයට ලක් කෙරෙන අතර, මීට අදාළව ගුරුවරුන් පුහුණු කිරීම එළඹෙන මාර්තු මාසයේ සිට ආරම්භ කරන බවත්, අදාළ පාසල් සියල්ලට ම සුහුරු පුවරු ලබාදෙන බවත් (Smart Interactive Board)  අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේ ය. මීට සමගාමී ව සෑම අධ්‍යාපන කලාපයක ම පිහිටුවා ඇති පරිගණක සම්පත් මධ්‍යස්ථාන යාවත්කාලීන කර ඇති බව ද, අමාත්‍යවරයා පෙන්වා  දුන්නේ ය.
+
+...
+
+[Data](articles/6b148199.json)
+
+---
 
 ### CID including CID Director including CID directory
 
@@ -53,6 +191,22 @@ The petitioner is requested to give a decision that the detention order is viola
 [Data](articles/b7e7f415.json)
 
 [Extended Data](ext_articles/b7e7f415.ext.json)
+
+---
+
+### Sri Lanka Crush Afghanistan by 10 Wickets in Colombo Test!
+
+*2024-02-05 14:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/sri-lanka-crush-afghanistan-by-10-wickets-in-colombo-test/) · `en`
+
+COLOMBO (News 1st): Sri Lanka beat Afghanistan by 10 wickets to win the only test match between the two nations, in Colombo.
+
+Afghanistan, batting first, were bundled out for a modest 198 runs. Opening batsman Rahmat Shah top-scored with a fighting 91, but the Sri Lankan bowling attack, led by the pace of Vishwa Fernando (4 wickets) and the spin of Asitha Fernando and Prabath Jayasuriya (3 wickets each), proved too strong.
+
+In reply, Sri Lanka piled on a mammoth 439 runs, building a commanding lead. Veteran Angelo Mathews anchored the innings with a masterful 141, while Dinesh Chandimal provided valuable support with a fluent 107. Opener Dimuth Karunaratne also chipped in with a solid 77. Despite Naveed Zadran's four-wicket haul for Afghanistan, the Sri Lankan batting line-up proved too deep and diverse.
+
+...
+
+[Data](articles/12100456.json)
 
 ---
 
@@ -163,6 +317,18 @@ Sri Lanka scored 439 runs for their first innings and Afghanistan scored 198 run
 [Data](articles/501b278e.json)
 
 [Extended Data](ext_articles/501b278e.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-02-05 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175612) · `ta`
+
+இன்று திங்கட்கிழமை (பெப்ரவரி 05) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 307.7088 ஆகவும் விற்பனை விலை ரூபா 317.2528  ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/40aa789f.json)
 
 ---
 
@@ -386,6 +552,8 @@ Dr. Jaishankar expressed his satisfaction with the discussion, highlighting the 
 
 He also acknowledged Sri Lanka's economic difficulties and offered support, stating that "India, with its Neighbourhood First and SAGAR policies, will always be a reliable friend and trusted partner of Sri Lanka."
 
+Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
+
 Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
 
 ◼️
@@ -536,6 +704,8 @@ President as the leader of the UNP has advised the committee to find an appropri
 
 Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
 
+Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
+
 Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
 
 ◼️
@@ -667,6 +837,8 @@ The High Commission of Sri Lanka added the relevant fishermen are currently deta
 They are all residents of Marawila, Chilaw, and three of them are members of the same family.
 
 They were rescued by Seychelles security forces with the intervention of the Sri Lanka Navy.
+
+Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
 
 Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
 
@@ -974,6 +1146,8 @@ The section from Sri Uttarananda Mawatha and Nawam Mawatha to the Railway Crossi
 
 The section up to Rotunda Gardens Junction from Sri Uttarananda Mawatha and Perahara Mawatha will be closed from Monday (05) till the 11th of March.
 
+Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
+
 Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
 
 ◼️
@@ -1145,6 +1319,8 @@ The Ministry of Public Security said 108 suspects who were on the list sent to t
 Police seized 191 grams of heroin, 103 grams of ICE and 2kg and 300g of cannabis from the suspects' possession.
 
 Three suspects arrested on drug-related charges were directed to rehabilitation centers.
+
+Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
 
 Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
 
@@ -1528,6 +1704,8 @@ Police have taken 14 suspects into custody in relation to the incident.
 
 Clashes were reported among inmates of the Kandakadu Rehabilitation Center based on various issues on several occassions.
 
+Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
+
 Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
 
 ◼️
@@ -1584,6 +1762,8 @@ The delegation includes Secretary of the party Dr. Nihal Abeysinghe, MP Vijitha 
 
 The group is due to hold an official meeting with Indian government officials on Monday (05).
 
+Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
+
 Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
 
 ◼️
@@ -1603,6 +1783,8 @@ COLOMBO (News 1st); The second phase of the third school term of 2023 will comme
 The Ministry of Education said the second phase of the third term will end on the 16th of February.
 
 The first school term of 2024 is scheduled to commence on the 19th of February.
+
+Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
 
 Talk of the Town | Maithri Gunaratne PC | No liberty, No safety
 
@@ -1871,187 +2053,5 @@ Anura Kumara Dissanayake has decided to contest as a candidate for the upcoming 
 [Data](articles/bdcc40bb.json)
 
 [Extended Data](ext_articles/bdcc40bb.ext.json)
-
----
-
-### Another suspect arrested for murder of Festival in Beliwatta
-
-*2024-02-05 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192982) · `si`
-
-In Beliathe, five persons have been arrested for shot dead.
-
-The police media division stated that the officials of the Matara Divisional Children's and Women's Bureau were arrested at Wisul Habaradunewa on charges of supporting the murder yesterday (04).
-
-The arrestedium is a resident of Rathgama, 28 years.
-
-◼️
-
-[Data](articles/32ef9450.json)
-
-[Extended Data](ext_articles/32ef9450.ext.json)
-
----
-
-### Sri Lanka transfers balance CPC forex crisis bank debt to government
-
-*2024-02-05 06:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-transfers-balance-cpc-forex-crisis-bank-debt-to-government-149823/) · `en`
-
-ECONOMYNEXT – Sri Lanka has transferred the balance remaining of Ceylon Petroleum Corporation bank debt to the central government, official data shows, as part of restructuring state enterprise balance sheets under an International Monetary Fund program
-
-State-run banks gave over loans to the Ceylon Petroleum Corporation as forex shortages emerged from inflationary rate cuts (rates suppressed with reverse repo operations or sterilized dollar sales interventions).
-
-In December 2023 credit to state corporations went down by 350 billion rupees to 769.8 billion rupees (about a billion US dollars) while credit to government, which includes new debt taken (mostly to roll over interest), went up 562.5 billion rupees to 8,285 million dollars, central bank data showed.
-
-...
-
-[Data](articles/f5fd6374.json)
-
-[Extended Data](ext_articles/f5fd6374.ext.json)
-
----
-
-### Several times for several areas
-
-*2024-02-05 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192981) · `si`
-
-Several spells of showers in the Polonnaruwa and Matale Districts, the Eastern and Uva provinces.
-
-From the Western, Sabaragamuwa and North Western provinces, in Kandy, Nuwara Eliya, Galle and Matara districts. Showers or thundershowers will occur at several times after 2.
-
-In some places in the Central and Sabaragamuwa Province, some locations are expected in the morning in some places in the Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/1beabbd8.json)
-
-[Extended Data](ext_articles/1beabbd8.ext.json)
-
----
-
-### Approval of the export of grants: "Crisis";'Should not be allowed at all'
-
-*2024-02-05 03:48:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c03q7p8v3p7o) · `si`
-
-Approval of the export of grants: "Crisis";'Should not be allowed at all'
-
-Many years ago, there is a pole, selling the "country", composed by Prof. Sunil Ariyaratne many years ago.
-
-Cabinet was approved at the Cabinet meeting held on January 29 to export the shallows subject to the limits.
-
-Government declared the granting of the approval, "the relatively low level of the country in the country, the livelihood exacerbacious in the country and the livelihoods of the shallowest excavators in the country and the livelihoods of the shallowest excavators and related communities have decided to export the plumsDone, "That is.
-
-Considering this, the government announced that the exporting of malfunctioning subject to the limits was to be implemented.
-
-...
-
-[Data](articles/6ab572f7.json)
-
-[Extended Data](ext_articles/6ab572f7.ext.json)
-
----
-
-### Students who are fed up at Independence Day Celebration
-
-*2024-02-05 01:58:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுதந்திர-தின-விழாவில்-மயங்கிய-மாணவர்கள்/175-332675) · `ta`
-
-Four people, including students and civil defense officers in Vavuniya, suddenly fainted. They have been given first aid.
-
-Sri Lanka's 76th Independence Day was held in Vavuniya district yesterday morning at the city council grounds. They have fallen faint.
-
-School students, Civil Security Forces and the police team were placed in the ground in front of the main event after the police team was completed.
-
-While these students, police and civil security officers were staying at the stadium for an hour, 2 students and 2 civil defense officers were fed up.. (A)
-
-◼️
-
-[Data](articles/94b152e4.json)
-
-[Extended Data](ext_articles/94b152e4.ext.json)
-
----
-
-### Accident in Hambantota: 6 people injured
-
-*2024-02-05 01:52:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பாந்தோட்டையில்-விபத்து-6-பேர்-படுகாயம்/175-332674) · `ta`
-
-Hangama police said that six people were injured in a vehicle accident on the main road in Tangalle yesterday.
-
-Police said that a small car from Ambalantota to Tangalle and the sky from Hangama to Ambalantota collided.. (A)
-
-◼️
-
-[Data](articles/0e74124a.json)
-
-[Extended Data](ext_articles/0e74124a.ext.json)
-
----
-
-### Anurakumara is going to India today
-
-*2024-02-05 01:45:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இந்தியா-செல்கிறார்-அநுரகுமார/175-332673) · `ta`
-
-Representatives of the National People's Power, including the leader of the National People's Power, Anura Kumara Dissanayake, are going to India today.
-
-National People's Power Leader Anura Kumara Dissanayake, Secretary Nihal Abeysinghe, Parliamentarian Vijitha Herath and National Executive Member Professor Anil Jayantha. (A)
-
-◼️
-
-[Data](articles/a54ce085.json)
-
-[Extended Data](ext_articles/a54ce085.ext.json)
-
----
-
-### Anurakumara is going to India today
-
-*2024-02-05 01:45:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/இன்று-இந்தியா-செல்கிறார்-அநுரகுமார/150-332673) · `ta`
-
-Representatives of the National People's Power, including the leader of the National People's Power, Anura Kumara Dissanayake, are going to India today.
-
-National People's Power Leader Anura Kumara Dissanayake, Secretary Nihal Abeysinghe, Parliamentarian Vijitha Herath and National Executive Member Professor Anil Jayantha. (A)
-
-◼️
-
-[Data](articles/c812517f.json)
-
-[Extended Data](ext_articles/c812517f.ext.json)
-
----
-
-### 23 Indian fishermen
-
-*2024-02-05 01:41:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/23-இந்திய-மீனவர்களுக்கு-விளக்கமறியல்/175-332672) · `ta`
-
-23 Indian fishermen arrested on charges of illegal fishing in the Nedundevu waters have been detained.
-
-The fishermen were arrested by the Sri Lankan navy last night and two boats they passengers were confiscated.
-
-Subsequently, the Indian fishermen were produced before the Kayts Magistrate J. Gajanidipalan yesterday.
-
-The magistrate has ordered the 23 Indian fishermen to be remanded until the 14th of this month.. (A)
-
-◼️
-
-[Data](articles/aafbc2e3.json)
-
-[Extended Data](ext_articles/aafbc2e3.ext.json)
-
----
-
-### Namibia's president has passed away
-
-*2024-02-05 01:29:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நமீபியாவின்-ஜனாதிபதி-காலமானார்/50-332671) · `ta`
-
-International media reports that he passed away after being treated at a hospital in Windhok, the capital.
-
-According to the Constitution of the country, it has been announced that Vice President Nankolo Bumba will act as president, as Hajj Gyingopp's term is over.. (A)
-
-◼️
-
-[Data](articles/8f10108d.json)
-
-[Extended Data](ext_articles/8f10108d.ext.json)
 
 ---

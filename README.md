@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 01:17:17**
+As of **2024-02-07 01:32:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,291 (99.9%) of 5,296 articles have been extended.
+5,296 (100.0%) of 5,296 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ In this letter, he has highlighted to the President the concerns regarding poten
 
 [Data](articles/b39d4985.json)
 
+[Extended Data](ext_articles/b39d4985.ext.json)
+
 ---
 
 ### Nagananda seeks to challenge NPP’s registration before courts
@@ -67,6 +69,8 @@ In his motion, Nagananda maintains that the registration of the NPP, a part of t
 ...
 
 [Data](articles/c9333123.json)
+
+[Extended Data](ext_articles/c9333123.ext.json)
 
 ---
 
@@ -88,6 +92,8 @@ The statement comes amidst widespread discussions and criticisms regarding the A
 
 [Data](articles/5ef98b3f.json)
 
+[Extended Data](ext_articles/5ef98b3f.ext.json)
+
 ---
 
 ### Cabinet clears National Disaster Management Plan 2023-2030 for Parliament approval
@@ -105,6 +111,8 @@ Accordingly, the 2023-2030 Sendai Action Plan has been prepared in compliance wi
 ◼️
 
 [Data](articles/84b4dcff.json)
+
+[Extended Data](ext_articles/84b4dcff.ext.json)
 
 ---
 
@@ -481,6 +489,8 @@ To consider what the future holds for Sri Lanka, a glance at its past and presen
 ...
 
 [Data](articles/ca32b719.json)
+
+[Extended Data](ext_articles/ca32b719.ext.json)
 
 ---
 

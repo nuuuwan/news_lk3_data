@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 10:50:15**
+As of **2024-02-06 11:02:17**
 
 ## Newspaper Stats
 
-*Scraped **5,087** Articles*
+*Scraped **5,091** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 276
 dailyftlk | 290
 newsfirstlk | 305
 adalk | 436
-virakesarilk | 590
+virakesarilk | 591
 adaderanalk | 627
 tamilmirrorlk | 642
-adaderanasinhalalk | 658
-dailymirrorlk | 725
+adaderanasinhalalk | 660
+dailymirrorlk | 726
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,087 (100.0%) of 5,087 articles have been extended.
+5,087 (99.9%) of 5,091 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### நிகழ்நிலை பாதுகாப்பு சட்டத்திற்கு கடும் எதிர்ப்பு - அழுத்தங்கள் - திருத்தங்களை மேற்கொள்வதில் அரசாங்கம் தீவிரம்
+
+*2024-02-06 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175683) · `ta`
+
+நிகழ்நிலை பாதுகாப்பு சட்டத்தினால் டிஜிட்டல் பொருளாதாரத்திற்கு ஏற்படக்கூடிய பாதிப்புகள் குறித்து அதனுடன் தொடர்புபட்டவர்கள் கடும் கரிசனைகளை தொடர்ந்தும் வெளியிட்டு வருகின்ற சூழ்நிலையில்;  புதிய சட்டத்தில் திருத்தங்களை மேற்கொள்வதற்கான நடவடிக்கைகளில் அரசாங்கம் ஈடுபட்டுள்ளது.
+
+புதிய சட்டம் கருத்து சுதந்திரத்திற்கு ஆபத்தை ஏற்படுத்துகின்றது எதிர்காலத்தில் டிஜிட்டல் பொருளாதாரத்தில் தாக்கத்தை ஏற்படுத்தும் என தொழில்துறை வல்லுனர்கள் உட்பட பல தரப்பினர் கரிசனைகளை வெளியிட்டுள்ள போதிலும் அரசாங்கம் புதிய சட்டமூலத்தை நாடாளுமன்றத்தில் நிறைவேற்றியது.
+
+புதிய சட்டம் தடைசெய்யப்பட்ட அறிக்கைகளை வெளியிட்டவர்கள் அல்லது அந்த அறிக்கைகளை வெளியிடுவதற்காக பயன்படுத்தப்பட்ட  தளத்தின் உரிமையாளர்கள் இணையசேவைவழங்குநர்கள்  போன்றவர்களிற்கு எதிராக உத்தரவுகளை வழங்கக்கூடிய அதிகாரம் படைத்த ஆணைக்குழுவை உருவாக்குவதற்கான அதிகாரத்தை வழங்குகின்றது.
+
+இலங்கையில் தடைசெய்யப்பட்ட அறிக்கை வெளியான பகுதிக்கான இணையசேவையை நிறுத்துமாறு இணையசேவை வழங்குநர்கள் அல்லது இணைய இடைஅமைப்புகளிற்கு உத்தரவிடும் அதிகாரம் இந்த ஆணைக்குழுவிற்குள்ளது.
+
+...
+
+[Data](articles/39ab22ab.json)
+
+---
+
+### Shanaka dropped, Chamika included
+
+*2024-02-06 10:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shanaka-dropped-Chamika-included/108-276406) · `en`
+
+Colombo, Feb. 6 (Daily Mirror) - The Sri Lanka Cricket Selection Committee has selected a 16-member squad for the upcoming three-match One Day International (ODI) series against Afghanistan.
+
+Former captain Dasun Shanaka has been excluded from the squad, likely to be rested for the series, reliable sources told Daily Mirror.
+
+All-rounder Chamika Karunaratne, who missed the recent Zimbabwe series, has been included in the squad, enhancing both the batting and bowling line-up.
+
+Except for Dasun's exclusion and Chamika's return, there won't be many major changes in the ODI squad against Afghanistan compared to the squad named for the Zimbabwe series.
+
+The ODI series is scheduled to commence on February 9th in Pallekele.
+
+Shanaka, who has struggled with form for nearly a year, was stripped of the captaincy after the ODI World Cup, where Sri Lanka failed to finish in the top eight, missing out on the Champions Trophy 2025.
+
+...
+
+[Data](articles/c9761735.json)
+
+---
 
 ### Hundreds of people still missing as Chile’s wildfire death toll reaches 122
 
@@ -104,6 +144,22 @@ According to the ministry, the narcotics taken into custody during this period i
 
 ---
 
+### රොෂාන් පත්කළ කමිටුවක් හරීන් විසිරුවා හරී
+
+*2024-02-06 09:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193033) · `si`
+
+ශ්‍රී ලංකාවේ ජාත්‍යන්තර ක්‍රීඩා සම්බන්ධීකරණ කමිටුව විසිරුවා හැරීමට ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පියවර ගෙන තිබේ.
+
+ජනවාරි මස 26 වන දින සිට ක්‍රියාත්මක වන පරිදි අදාළ කමිටුව විසිරුවා හැර ඇති බව වාර්තා වෙයි.
+
+ක්‍රීඩාවේ ප්‍රවර්ධනය, ස්වාධීනත්වය සහ විනිවිඳභාවය ආරක්ෂා කිරීම උදෙසා මෙතෙක් ක්‍රීඩා පනත යටතේ ලියාපදිංචි වී ඇති ක්‍රීඩාවන්ට අදාළව ජාත්‍යන්තර හා දේශීය ක්‍රීඩා සංගම්, සම්මේලන සම්බන්ධීකරණය කිරීම සඳහා පසුගිය වසරේ සැප්තැම්බර් 25 වන දින එවකට ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍යවරයා ලෙස රොෂාන් රණසිංහ මහතා එම කමිටුව පත්කරනු ලැබීය.
+
+◼️
+
+[Data](articles/dc425f0b.json)
+
+---
+
 ### Health Workers - Representatives of the Ministry of Finance Special Discussion
 
 *2024-02-06 09:36:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-ஊழியர்கள்-நிதி-அமைச்சின்-பிரதிநிதிகள்-விசேட-கலந்துரையாடல்/175-332745) · `ta`
@@ -141,6 +197,28 @@ Indian media said the visit and meetings assume greater significance and that th
 [Data](articles/5ae2464c.json)
 
 [Extended Data](ext_articles/5ae2464c.ext.json)
+
+---
+
+### යුක්තියට කොටු වූ අලුත්ම පිරිස
+
+*2024-02-06 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193032) · `si`
+
+දිවයින පුරා ක්‍රියාත්මක යුක්තිය මෙහෙයුම යටතේ අද (06) අලුයම අවසන් වූ පැය 24 තුළ සැකකරුවන් 733 දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+මත්ද්‍රව්‍ය වැරදි සම්බන්ධ සැකකරුවන් 589ක් දෙනෙකු සහ අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ සිටි සැකකරුවන් 144 දෙනෙකු ඊට ඇතුළත් වන බව පොලීසිය පැවසුවේය.
+
+සැකකරුවන් සතුව තිබි හෙරොයින් ග්‍රෑම් 130ක්, අයිස්  ග්‍රෑම් 159ක්, සහ ගංජා කිලෝග්‍රෑම් 1725 ග්‍රෑම් 900ක් පොලිස් භාරයට ගෙන තිබේ.
+
+මත්ද්‍රව්‍ය වැරදි සම්බන්ධ අත්අඩංගුවට ගත් සැකකරුවන් 589 දෙනා අතරින් රැඳවුම් නියෝග මත වැඩිදුර විමර්ශන සිදුකරන සැකකරුවන් 05 දෙනෙකු සහ මත්ද්‍රව්‍යවලට ඇබ්බැහිවූවන් 04 දෙනෙකු පුනරුත්ථාපනය සඳහා යොමු කර ඇති බව වාර්තා වේ.
+
+පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශය සහ පොලිස් විශේෂ කාර්යංශයේ ලැයිස්තුවේ සිටි සැකකරුවන් 08ක්ද අත්අඩංගුවට ගෙන ඇත.
+
+එමෙන්ම අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ සිටින සැකකරුවන් 108 දෙනා අතර මත්ද්‍රව්‍ය වැරදි සම්බන්ධව විවෘත වරෙන්තු නිකුත් කර සිටින සැකකරුවන් 12 දෙනෙකු සහ මත්ද්‍රව්‍ය නොවන වැරදි සම්බන්ධව විවෘත වරෙන්තුකරුවන් 128 දෙනෙකු ද සිටින බව පොලීසිය පවසයි.
+
+...
+
+[Data](articles/c184b164.json)
 
 ---
 
@@ -1929,85 +2007,5 @@ President Ranil Wickremesinghe government has promised a non-aligned foreign pol
 [Data](articles/d74f8877.json)
 
 [Extended Data](ext_articles/d74f8877.ext.json)
-
----
-
-### Bowzi demands the withdrawal of the case against himself
-
-*2024-02-05 19:36:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனக்கெதிரான-வழக்கை-வாபஸ்-பெறுமாறு-கோருகிறார்-பௌசி/175-332722) · `ta`
-
-United People's Power (SJB) parliamentarian AHM Fouzi has asked the Bribery Commission to withdraw the indictment filed against him on corruption charges.
-
-President's Attorney -at -Law Shawindra Fernando, appearing on behalf of parliamentarian Pouzi, announced in court that he had requested the Bribery Commission to withdraw the charge sheet.
-
-The case was filed by the Bribery Commission against AHM Bouzi for allegedly misusing the vehicle belonging to the Disaster Management Center in 2010 and 2015
-
-The case was adjourned to April 29 after the Colombo High Court Magistrate Navaratna Marasinghe was taken up before the hearing.
-
-The Director General of the Commission to Investigate Bribery or Corruption has filed a case against the accused under Section 70 of the Bribery Act under four charges.
-
-...
-
-[Data](articles/5c9bcb75.json)
-
-[Extended Data](ext_articles/5c9bcb75.ext.json)
-
----
-
-### President's house burning - teacher arrested
-
-*2024-02-05 19:36:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-வீடு-எரிப்பு-ஆசிரியர்-கைது/175-332721) · `ta`
-
-Another suspect has been arrested by the Criminal Investigation Department in connection with the burning of the President's personal residence in Kalupitiya.
-
-The arrested suspect has been revealed as a teacher who conducts private classes.
-
-Meanwhile, one person has been arrested in connection with the incident.. Remble
-
-◼️
-
-[Data](articles/18918b7f.json)
-
-[Extended Data](ext_articles/18918b7f.ext.json)
-
----
-
-### Sri Lanka eyes US$5 billion in foreign funds after debt restructure
-
-*2024-02-05 19:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97024/sri-lanka-eyes-us5-billion-in-foreign-funds-after-debt-restructure) · `en`
-
-Sri Lanka expects to attract about US$5 billion in foreign funds in the next two years once it is able to finalise the restructuring of its overseas debt, the country’s foreign minister said on Monday (Feb 5).
-
-The nation defaulted on its overseas debt in May, 2022 after a severe shortage of foreign exchange reserves triggered the worst financial crisis since independence from Britain in 1948.
-
-Sri Lanka has since made progress on about US$11 billion of bilateral debt restructuring and hopes to have agreements in place with all key creditors, including bondholders, by May at the latest, Foreign Minister Ali Sabry told Reuters.
-
-It will then focus on kick-starting major infrastructure projects suspended during the crisis, including a highway, an expansion of the main airport near Colombo and a US$2 billion light railway project with Japan.
-
-...
-
-[Data](articles/d1d9b531.json)
-
-[Extended Data](ext_articles/d1d9b531.ext.json)
-
----
-
-### Digitalized schools by June
-
-*2024-02-05 19:29:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜூன்-மாதத்திற்குள்-டிஜிட்டல்-மயமாக்கப்படும்-பாடசாலைகள்/175-332720) · `ta`
-
-Minister of Education Susil Premajayantha said that high -quality schools in Sri Lanka will be digitized by June.
-
-The Minister said this while attending an event held at the Jaffna Hindu Vidyalaya today (05).
-
-Accordingly, the new technology will be given the opportunity to continue their education directly.
-
-The Minister said that 3,000 high schools in the country will be digitized and training for teachers will be launched from March.. Remble
-
-◼️
-
-[Data](articles/a7230100.json)
-
-[Extended Data](ext_articles/a7230100.ext.json)
 
 ---

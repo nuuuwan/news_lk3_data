@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 11:02:17**
+As of **2024-02-06 11:17:17**
 
 ## Newspaper Stats
 
@@ -26,27 +26,31 @@ dailymirrorlk | 726
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,087 (99.9%) of 5,091 articles have been extended.
+5,091 (100.0%) of 5,091 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
 
-### நிகழ்நிலை பாதுகாப்பு சட்டத்திற்கு கடும் எதிர்ப்பு - அழுத்தங்கள் - திருத்தங்களை மேற்கொள்வதில் அரசாங்கம் தீவிரம்
+### Fierce opposition to the Ceremonial Security Act
 
 *2024-02-06 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175683) · `ta`
 
-நிகழ்நிலை பாதுகாப்பு சட்டத்தினால் டிஜிட்டல் பொருளாதாரத்திற்கு ஏற்படக்கூடிய பாதிப்புகள் குறித்து அதனுடன் தொடர்புபட்டவர்கள் கடும் கரிசனைகளை தொடர்ந்தும் வெளியிட்டு வருகின்ற சூழ்நிலையில்;  புதிய சட்டத்தில் திருத்தங்களை மேற்கொள்வதற்கான நடவடிக்கைகளில் அரசாங்கம் ஈடுபட்டுள்ளது.
+In the context of those who are involved in the impact of the digital economy by the Ceremonial Security Act, the situation continues to release serious concerns;The government is in the process of amendments to the new law.
 
-புதிய சட்டம் கருத்து சுதந்திரத்திற்கு ஆபத்தை ஏற்படுத்துகின்றது எதிர்காலத்தில் டிஜிட்டல் பொருளாதாரத்தில் தாக்கத்தை ஏற்படுத்தும் என தொழில்துறை வல்லுனர்கள் உட்பட பல தரப்பினர் கரிசனைகளை வெளியிட்டுள்ள போதிலும் அரசாங்கம் புதிய சட்டமூலத்தை நாடாளுமன்றத்தில் நிறைவேற்றியது.
+The new law is a danger to freedom of expression, but the government has passed the new Bill in Parliament, despite the fact that many parties, including industrial experts, have expressed concern over the future.
 
-புதிய சட்டம் தடைசெய்யப்பட்ட அறிக்கைகளை வெளியிட்டவர்கள் அல்லது அந்த அறிக்கைகளை வெளியிடுவதற்காக பயன்படுத்தப்பட்ட  தளத்தின் உரிமையாளர்கள் இணையசேவைவழங்குநர்கள்  போன்றவர்களிற்கு எதிராக உத்தரவுகளை வழங்கக்கூடிய அதிகாரம் படைத்த ஆணைக்குழுவை உருவாக்குவதற்கான அதிகாரத்தை வழங்குகின்றது.
+The new law gives the authority to create a committee that has issued orders against the owners of the site who issued banned statements or the owners of the site used to publish those reports.
 
-இலங்கையில் தடைசெய்யப்பட்ட அறிக்கை வெளியான பகுதிக்கான இணையசேவையை நிறுத்துமாறு இணையசேவை வழங்குநர்கள் அல்லது இணைய இடைஅமைப்புகளிற்கு உத்தரவிடும் அதிகாரம் இந்த ஆணைக்குழுவிற்குள்ளது.
+The Commission has the authority to order internet providers or internet intercourse to stop the internet service for the banned report in Sri Lanka.
+
+Meanwhile, a public defense ministry official said that the new amendments to the government's new law and criticism and criticism of the government have continued to be submitted for the approval of the Cabinet.
 
 ...
 
 [Data](articles/39ab22ab.json)
+
+[Extended Data](ext_articles/39ab22ab.ext.json)
 
 ---
 
@@ -69,6 +73,8 @@ Shanaka, who has struggled with form for nearly a year, was stripped of the capt
 ...
 
 [Data](articles/c9761735.json)
+
+[Extended Data](ext_articles/c9761735.ext.json)
 
 ---
 
@@ -144,19 +150,21 @@ According to the ministry, the narcotics taken into custody during this period i
 
 ---
 
-### රොෂාන් පත්කළ කමිටුවක් හරීන් විසිරුවා හරී
+### Roshan scattered a committee
 
 *2024-02-06 09:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193033) · `si`
 
-ශ්‍රී ලංකාවේ ජාත්‍යන්තර ක්‍රීඩා සම්බන්ධීකරණ කමිටුව විසිරුවා හැරීමට ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පියවර ගෙන තිබේ.
+Sports and Youth Minister Harin Fernando has taken steps to dissolve the International Sports Coordinating Committee in Sri Lanka.
 
-ජනවාරි මස 26 වන දින සිට ක්‍රියාත්මක වන පරිදි අදාළ කමිටුව විසිරුවා හැර ඇති බව වාර්තා වෙයි.
+It is reported that the relevant committee has dissolved from the 26th of January.
 
-ක්‍රීඩාවේ ප්‍රවර්ධනය, ස්වාධීනත්වය සහ විනිවිඳභාවය ආරක්ෂා කිරීම උදෙසා මෙතෙක් ක්‍රීඩා පනත යටතේ ලියාපදිංචි වී ඇති ක්‍රීඩාවන්ට අදාළව ජාත්‍යන්තර හා දේශීය ක්‍රීඩා සංගම්, සම්මේලන සම්බන්ධීකරණය කිරීම සඳහා පසුගිය වසරේ සැප්තැම්බර් 25 වන දින එවකට ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍යවරයා ලෙස රොෂාන් රණසිංහ මහතා එම කමිටුව පත්කරනු ලැබීය.
+The committee was appointed as the Minister of Sports and Youth Affairs last year to coordinate international and local sports associations in the sports promotion, independence and confectionery.
 
 ◼️
 
 [Data](articles/dc425f0b.json)
+
+[Extended Data](ext_articles/dc425f0b.ext.json)
 
 ---
 
@@ -200,25 +208,29 @@ Indian media said the visit and meetings assume greater significance and that th
 
 ---
 
-### යුක්තියට කොටු වූ අලුත්ම පිරිස
+### The newest of justice
 
 *2024-02-06 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193032) · `si`
 
-දිවයින පුරා ක්‍රියාත්මක යුක්තිය මෙහෙයුම යටතේ අද (06) අලුයම අවසන් වූ පැය 24 තුළ සැකකරුවන් 733 දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+Police say that 733 suspects were arrested in the 24 hours of the end of justice operations island wide.
 
-මත්ද්‍රව්‍ය වැරදි සම්බන්ධ සැකකරුවන් 589ක් දෙනෙකු සහ අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ සිටි සැකකරුවන් 144 දෙනෙකු ඊට ඇතුළත් වන බව පොලීසිය පැවසුවේය.
+The police said that 589 suspects were in charge of drug misconduct and 144 suspects on the list of criminal sections.
 
-සැකකරුවන් සතුව තිබි හෙරොයින් ග්‍රෑම් 130ක්, අයිස්  ග්‍රෑම් 159ක්, සහ ගංජා කිලෝග්‍රෑම් 1725 ග්‍රෑම් 900ක් පොලිස් භාරයට ගෙන තිබේ.
+Police have seized 130 grams of heroin, 159 grams of ice, 159 mg and 900 grams of cannabis.
 
-මත්ද්‍රව්‍ය වැරදි සම්බන්ධ අත්අඩංගුවට ගත් සැකකරුවන් 589 දෙනා අතරින් රැඳවුම් නියෝග මත වැඩිදුර විමර්ශන සිදුකරන සැකකරුවන් 05 දෙනෙකු සහ මත්ද්‍රව්‍යවලට ඇබ්බැහිවූවන් 04 දෙනෙකු පුනරුත්ථාපනය සඳහා යොමු කර ඇති බව වාර්තා වේ.
+It is reported that five suspects and four drug addicts have been sent to rehabilitate the 589 suspects of drugs involved.
 
-පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශය සහ පොලිස් විශේෂ කාර්යංශයේ ලැයිස්තුවේ සිටි සැකකරුවන් 08ක්ද අත්අඩංගුවට ගෙන ඇත.
+Eight suspects have been arrested in the list of the Police Narcotics Bureau and the Police Special Secretariat.
 
-එමෙන්ම අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ සිටින සැකකරුවන් 108 දෙනා අතර මත්ද්‍රව්‍ය වැරදි සම්බන්ධව විවෘත වරෙන්තු නිකුත් කර සිටින සැකකරුවන් 12 දෙනෙකු සහ මත්ද්‍රව්‍ය නොවන වැරදි සම්බන්ධව විවෘත වරෙන්තුකරුවන් 128 දෙනෙකු ද සිටින බව පොලීසිය පවසයි.
+Police say that 128 suspects have been issued in the list of the criminal sections and 128 open warrants on drugs and non-drug errors.
 
-...
+A suspect and three suspects have been arrested in the media and three suspects who have been arrested.
+
+◼️
 
 [Data](articles/c184b164.json)
+
+[Extended Data](ext_articles/c184b164.ext.json)
 
 ---
 

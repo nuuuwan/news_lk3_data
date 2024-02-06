@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 22:49:39**
+As of **2024-02-06 23:02:54**
 
 ## Newspaper Stats
 
-*Scraped **5,267** Articles*
+*Scraped **5,269** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 278
 dailyftlk | 290
 newsfirstlk | 326
 adalk | 451
-virakesarilk | 626
+virakesarilk | 628
 adaderanalk | 654
 tamilmirrorlk | 658
 adaderanasinhalalk | 684
@@ -26,11 +26,49 @@ dailymirrorlk | 748
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,267 (100.0%) of 5,267 articles have been extended.
+5,269 (100.0%) of 5,269 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### 10th Group of Sri Lanka Army Medical Force travels to South Sudan
+
+*2024-02-06 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/175737) · `ta`
+
+The 10th Group of the Sri Lanka Army Medical Brigade departed from Sri Lanka on Tuesday morning (06 February) to take responsibility for duties at the United Nations Grade 2 Hospital in South Sudan.
+
+Commanding Officer Lieutenan Colonel TMTJ. Dissanayake RSP. U.S.B.. And 2nd Commander -in -Chief Major NI. Ratnayake is headed by 14 soldiers, including 14 soldiers, a naval officer and 49 soldiers.
+
+Major General PAC Fernando, Director General of the Sri Lanka Army Health Services Directorate and Commander of the Sri Lanka Army Medical Force, representing the Army Commander. And Foreign Affairs Director Brigadier GLSP Liyanage Liyanage Liyanage, Director of Medical Services, Brigadier Gejighe He Wijewardena Attended.
+
+◼️
+
+[Data](articles/be157d51.json)
+
+[Extended Data](ext_articles/be157d51.ext.json)
+
+---
+
+### The allegation that has been passed by the Ceremony Building Bill in violation of the High Court ruling is baseless!- Speaker's Office
+
+*2024-02-06 22:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175745) · `ta`
+
+According to the Supreme Court's decision. Since the legislative process of Parliament is jointly accompanied by the Attorney General's Department and the Department of Law, there is no chance of acting in contrast to the High Court's decision on the Bill or in violation of the Constitution.
+
+The Speaker's Office's dissatisfaction is that it is worrying that even those who are familiar with the legal system and the constitution are negatively speaking to the existence of the Supreme Court.
+
+Any Member of Parliament is invited to discuss all the documents and actions regarding the implementation of the Ceremony Act and consult intellectual authorities on the issue.
+
+It is not a beneficial tactic to dismantle the legislation or undermine its credibility. The Speaker's Office wants to remind all members that the overall assessment in the democratic system is based on the collective functioning of all parts, including legalization.
+
+...
+
+[Data](articles/4354865f.json)
+
+[Extended Data](ext_articles/4354865f.ext.json)
+
+---
 
 ### The runners up when the badminton national champion went to Asian Games
 
@@ -1957,49 +1995,5 @@ The result is the crisis that is currently reported at the United People's Freed
 [Data](articles/ea15a938.json)
 
 [Extended Data](ext_articles/ea15a938.ext.json)
-
----
-
-### Sri Lanka approves lifting some limits on rupee conversion for outward remittances
-
-*2024-02-06 13:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97045/sri-lanka-approves-lifting-some-limits-on-rupee-conversion-for-outward-remittances) · `en`
-
-Sri Lanka has approved gradually lifting some limits on converting rupees to foreign exchange for outward remittances and the new directions will be presented to parliament for approval, cabinet spokesperson Bandula Gunawardane said on Tuesday.
-
-The island nation’s central bank had suspended permission to remit funds for overseas investments by Sri Lankan residents from mid-2020 except under certain conditions.
-
-“Sri Lanka’s reserves have gradually improved and limits will be increased under the guidance of the central bank,” Gunawardane told reporters during the weekly cabinet briefing.
-
-The country of 22 million people is slowly recovering from its worst financial crisis in decades, which sent the economy into freefall with soaring inflation, currency depreciation and low foreign reserves.
-
-Sri Lanka’s official reserves stood at $4.4 billion at the end of 2023, an increase of 22% according to the central bank. About $1.5 billion of the reserves is a Chinese yuan-denominated swap.
-
-◼️
-
-[Data](articles/90764035.json)
-
-[Extended Data](ext_articles/90764035.ext.json)
-
----
-
-### Yall. University student: Police shock information
-
-*2024-02-06 13:38:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-பல்கலைக்கழக-மாணவன்-பொலிஸார்-அதிர்ச்சி-தகவல்/71-332761) · `ta`
-
-Vaddukoddai police have lodged a complaint with the Human Rights Commission that he has tortured him.The university student is addicted to drugs, police said.
-
-He had lodged a complaint at the Jaffna Regional Office of the Human Rights Commission yesterday that he was attacked by police officers on a motorcycle on the road in Vaddukoddai and assaulted him on the road and later attacked him in a room.
-
-In this case, police said that the young man had been smashed with the police for allegations of the speeding motorcycle in front of a school in Vaddukoddai, the Asians disrupted the students and the motorcycle.
-
-Based on the investigation by the police, the youth is addicted to drugs, and the school teachers have instructed the Vaddukoddai police officer in charge of the Vaddukoddai Police Station.
-
-Following this, the Vaddukoddai police are conducting investigations to arrest the youth and seek court.R
-
-◼️
-
-[Data](articles/67e43cf9.json)
-
-[Extended Data](ext_articles/67e43cf9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 18:08:42**
+As of **2024-02-06 18:20:00**
 
 ## Newspaper Stats
 
-*Scraped **5,205** Articles*
+*Scraped **5,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ economynextcom | 266
 islandlk | 278
 dailyftlk | 290
 newsfirstlk | 325
-adalk | 444
-virakesarilk | 613
-adaderanalk | 645
+adalk | 446
+virakesarilk | 618
+adaderanalk | 646
 tamilmirrorlk | 654
 adaderanasinhalalk | 677
 dailymirrorlk | 740
@@ -26,11 +26,101 @@ dailymirrorlk | 740
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,205 (100.0%) of 5,205 articles have been extended.
+5,205 (99.8%) of 5,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### Indian police nab man trying to smuggle nearly 700,000 painkiller pills to Sri Lanka
+
+*2024-02-06 17:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97053/indian-police-nab-man-trying-to-smuggle-nearly-700000-painkiller-pills-to-sri-lanka) · `en`
+
+The Marine Police and the Organised Crime Intelligence Unit (OCIU) in Rameswaram, India have jointly arrested a man and seized 679,000 sleeping pills from his possession. The team also impounded a fibre boat at Periapattinam on Sunday.
+
+Officials said that following a specific input, the teams were on the lookout for the suspect. When the accused was about to board the waiting fibre boat at Periapattinam, Pudukudiyuruppu South Sea area, with the pills, he was secured. He was identified as A. Mohamed Meerashah of East Street Periapattinam.
+
+The team seized the sleeping pills and a mobile phone. Further investigation was on, Indian media reported.
+
+A senior officer, who was part of the investigations said the accused was about to venture into the sea and hand over the pills to an agent. “We are in the process of gathering more information,” he added.
+
+The sleeping pills were in great demand in Sri Lanka and the tablets were sold in the black market at a premium.
+
+◼️
+
+[Data](articles/9abb32ae.json)
+
+---
+
+### ஜேவிபி தலைவரின் இந்திய விஜயம் - நாமல் தெரிவித்திருப்பது என்ன?
+
+*2024-02-06 17:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175735) · `ta`
+
+கடந்தகாலங்களில்  இந்திய எதிர்ப்பு கொள்கையை பின்பற்றிய ஜேவிபியின் இந்திய விஜயம் குறித்து நாடாளுமன்ற உறுப்பினர் நாமல் ராஜபக்ச கேள்வி எழுப்பியுள்ளார்.
+
+இலங்கை கடந்தகாலங்களில் பல இந்திய முதலீடுகளை முதலீட்டாளர்களை இழந்தமைக்கு ஜேவிபியே முக்கிய காரணம்எனஅவர் தெரிவித்துள்ளார்.
+
+ஜேவிபியின் இந்திய எதிர்ப்புகொள்கையால்  சம்பூர்மின்திட்டம் கைவிடப்பட்டமை இதற்கான ஒரு உதாரணம் என அவர் தெரிவித்துள்ளார்.
+
+ஆனால் ஜேவிபி தற்போது வேறு கொள்கையை பின்பற்றுகின்றது இந்தியாவிற்கு சுற்றுப்பயணம் மேற்கொள்கின்றது இது சிறந்த விடயம என நாமல் ராஜபக்ச தெரிவித்துள்ளார்.
+
+இந்திய விஜயத்தின் பின்னர் ஜேவிபி இலங்கைக்குள் முதலீட்டாளர்கள் வருவதற்கு ஆதரவளிக்கும் என  அவர் நம்பிக்கை  வெளியிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/214ee2b6.json)
+
+---
+
+### வன்னி மாவட்ட பாராளுமன்ற உறுப்பினர் செல்வம் அடைக்கலநாதனின் தாயாரின் பூதவுடலுக்கு பல்வேறு அரசியல் தரப்பினர் அஞ்சலி
+
+*2024-02-06 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175731) · `ta`
+
+வன்னி மாவட்ட பாராளுமன்ற உறுப்பினர் செல்வம் அடைக்கல நாதனின் தாயார் அமிர்தலிங்கம் செபமாலை தனது 84 ஆவது வயதில்  திங்கட்கிழமை (5) காலமானார்.
+
+அவரது பூதவுடல் மன்னார் தோட்டவெளி ஜோசப்வாஸ் நகர் கிராமத்தில் உள்ள அவரது இல்லத்தில் மக்களின் அஞ்சலிக்காக வைக்கப்பட்டுள்ளது.
+
+இந்த நிலையில் அன்னாரது பூதவுடலுக்கு பாராளுமன்ற உறுப்பினர்கள் உள்ளடங்கலாக பல்வேறு தரப்பினரும், அரசியல் பிரதிநிதிகளும் அஞ்சலி செலுத்தி வருகின்றனர்.
+
+தோட்டவெளி ஜோசப் வாஸ் ஆலயத்தில் நாளை புதன்கிழமை (7) காலை இரங்கல் திருப்பலி ஒப்புக் கொடுக்கப்பட்டு விடத்தல்தீவு பொது மயானத்தில் நல்லடக்கம் செய்யப்படவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/6643071d.json)
+
+---
+
+### 200 மில்லியன் ரூபா பெறுமதியான இரண்டு சொகுசு கார்களை உடனடியாக கைப்பற்றுமாறு நீதிமன்றம் உத்தரவு!
+
+*2024-02-06 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175734) · `ta`
+
+மோட்டார் போக்குவரத்து திணைக்களத்தின் கணினி அமைப்பில் உள்ள தரவுகளை அழித்து, சாதாரண கார்களாக பதிவு செய்து சுங்க வரி செலுத்தாமல் சட்டவிரோதமான முறையில் இறக்குமதி செய்யப்பட்ட சுமார் 200 மில்லியன் ரூபா பெறுமதியான இரண்டு சொகுசு வாகனங்களை உடனடியாக  கைப்பற்றி அரசுடைமையாக்குமாறு  நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+கொழும்பு பிரதான நீதிவான் பிரசன்ன அல்விஸ் செவ்வாய்க்கிழமை (06) இந்த உத்தரவை இலஞ்ச ஊழல்கள் விசாரணை ஆணைக் குழுவுக்கு பிறப்பித்துள்ளார்.
+
+குறித்த இரண்டு சொகுசு வாகனங்களும் 2005 ஆம் ஆண்டு இலங்கைக்கு இறக்குமதி செய்யப்பட்டு, இரண்டு சாதாரண கார்களாக அவற்றைப்  பதிவு செய்து , சொகுசு  வாகன இறக்குமதிக்காக  அரசாங்கத்துக்குச் செலுத்த வேண்டிய  வரி  இவற்றுக்குச் செலுத்தப்படாமை தொடர்பில் இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு நீதிமன்றத்துக்கு  அறிவித்ததையடுத்து நீதிவான் இந்த உத்தரவை பிறப்பித்தார்.
+
+◼️
+
+[Data](articles/ecc03e5c.json)
+
+---
+
+### அரகலய போராட்டத்தின்போது  ரணிலின் வீட்டை எரித்ததாகக் கூறப்படும் ஆசிரியருக்குப் பிணை!
+
+*2024-02-06 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175733) · `ta`
+
+அரகலய போராட்டத்தின்போது  ஜனாதிபதி  ரணில் விக்கிரமசிங்கவின் வீட்டை எரித்ததாக சந்தேகத்தின்பேரில் கைது செய்யப்பட்டு நீதிமன்றில்  ஆஜர்படுத்தப்பட்ட ஆங்கில ஆசிரியரை பிணையில்  விடுதலை செய்யுமாறு கோட்டை நீதிவான் திலினி கமகே செவ்வாய்க்கிழமை (06) உத்தரவிட்டுள்ளார்.
+
+சந்தேக நபர்  5 இலட்சம் ரூபா பெறுமதியான சரீரப் பிணையில் விடுவிக்கப்பட்டதுடன்   சம்பவம் தொடர்பிலான  விசாரணைகள் நிறைவடையும்  வரை நீதிமன்ற விசாரணைகளின்போது  ஆஜராகுமாறு  உத்தரவிடப்பட்டது.
+
+பொரலஸ்கமுவ பிரதேசத்தில் வசிக்கும்  46 வயதுடைய ஆங்கில ஆசிரியரே இவ்வாறு பிணையில் விடுவிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/d42bf589.json)
+
+---
 
 ### Over 28,000 Tourist Arrivals in First Week of Feb
 
@@ -103,6 +193,20 @@ Minister Sabry highlighted the recent FTA with Thailand as a historic step towar
 [Data](articles/5772266b.json)
 
 [Extended Data](ext_articles/5772266b.ext.json)
+
+---
+
+### கெஹலியவின் இராஜினாமாவை உறுதிப்படுத்தி வர்த்தமானி வெளியிடப்பட்டது!
+
+*2024-02-06 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175730) · `ta`
+
+கெஹலிய ரம்புக்வெல்லவின் இராஜினாமா ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் ஏற்றுக் கொள்ளப்பட்ட நிலையிலேயே இந்த வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+
+இவரது இராஜினாமா இம்மாதம் 3 ஆம் முதல் அமுலுக்கு வருவதாக குறித்த வர்த்தமானியில் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/fe12e17d.json)
 
 ---
 
@@ -1030,6 +1134,24 @@ The facility is well-equipped, featuring a hydrotherapy unit and a state-of-the-
 
 ---
 
+### තවත් කෙහෙළියලා බිහිවීම වළක්වන හැටි උදය කියයි
+
+*2024-02-06 13:14:35* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-කෙහෙළියලා-බිහිවීම-වළක්වන-හැටි-උදය-කියයි/11-407928) · `si`
+
+අනාගතයේ තවත් කෙහෙළිය වැනි අමාත්‍යවරුන් බිහි නොවීමට නම් ඖෂධ නියාමන අධිකාරිය සෞඛ්‍ය අමාත්‍යාංශයේ බලපෑමෙන් තොර ආයතනයක් බවට පත්කල යුතු බව පිවිතුරු හෙළ උරුමයේ නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි.
+
+ඒ මහතා මේ බව පැවසූවේ අද දින (2024.02.06) පිවිතුරු හෙළ උරුමය පක්ෂ මූලස්ථානයේ පැවති මාධ්‍ය හමුවකට එක්වෙමිනි. එහිදී පිවිතුරු හෙළ උරුමය නායකයා වැඩිදුරටත් මෙසේ අදහස් දැක්වීය.
+
+"අපි කෙහෙලිය රඹුක්වැල්ල ඇමතිවරයාට දඬුවම් කිරීමට දක්වන උනන්දුවම තවත් කෙහෙලිය කෙනෙක් බිහිවීම වැලැක්වීමටත් දක්වන්න ඕනි. ලෙඩක් සුව කිරීමට වඩා වලක්වා ගැනීමයි වටින්නේ.  රුපියල් මිලියන සීයකට වැඩි මිල දී ගැනීමක දී ඒකට ඇමති මණ්ඩල අනුමැතිය ඕනි.
+
+ඒක ඇමති මණ්ඩලයට අවශ්‍ය තොරතුරු සහ නිර්දේශ ඉදිරිපත් කරන්නේ ඇමතිවරයා.  ඖෂධ මිල දී ගැනීම් අනිවාර්රයෙන්ම රුපියල් මිලියන සීයට වඩා වැඩි නිසා ඇමතිවරයා විසින් ඇමති මණ්ඩල පත්‍රිකාවක් ඉදිරිපත් කරන්න ඕනි.  ඒ කියන්නේ ප්‍රසම්පාදන ක්‍රියාවලියට ඇමතිවරයාගේ සම්බන්ධයක් තිබෙනවා.
+
+...
+
+[Data](articles/e9afc367.json)
+
+---
+
 ### Sri Lankan Police delegation visits Delhi Police training centre
 
 *2024-02-06 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97042/sri-lankan-police-delegation-visits-delhi-police-training-centre) · `en`
@@ -1077,6 +1199,24 @@ He further emphasised that President Wickremesinghe’s reappointment is essenti
 [Data](articles/f1ad0e66.json)
 
 [Extended Data](ext_articles/f1ad0e66.ext.json)
+
+---
+
+### ඉදිරි ජනපතිවරණයට පොහොට්ටුවෙන් අපේක්ෂකයෙක්
+
+*2024-02-06 13:07:28* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-ජනපතිවරණයට-පොහොට්ටුවෙන්-අපේක්ෂකයෙක්/11-407927) · `si`
+
+ඉදිරි ජනාධිපතිවරණයට පොදු ජනපෙරමුණේම පක්ෂයේ කෙනෙක් ඉදිරිපත් කරනවා යැයි සාගරකාරියවසම් අද පොළොන්නරුවේදී පැවසිය
+
+පොදුජන පෙරමුණ විසින් සංවිදානය කරනු ලබන "සද් ජන රළ " රැස්වීම් මාලාවේ සමාරම්භක රැස්වීම අද (06) උදෑසන පොලොන්නරුව ගිරිතලේ ප්‍රදේශයේදී පැවැත්විණි.
+
+පොදුජන පෙරමුණේ පොලොන්නරුව දිස්ත්‍රීක් නායක සිරිපාල ගම්ලත් මහතා විසින් මෙම රැස්වීම සංවිදානය කරනු ලැබ තිබූ අතර මෙම රැස්වීම සදහා පොදුජන පෙරමුණේ ප්‍රධාන ලේකම් නීතීඥ සාගර කාරියවසම් පාර්ලිමේන්තු මන්ත්‍රීවරුන්වන නාමල් රාජපක්ෂ,තිස්ස කුට්ටිආරච්චි ,ඩී.වී.චානක ,ඉන්දික අනුරුද්ධ,තේනුක විදානගමේ,ජගත් සමරවික්‍රම,චින්තක මායාදුන්න  යන මන්ත්‍රීවරුන්  ඇතුලු පොලොන්නරුව දිස්ත්‍රීක්කයේ පොදුජන පෙරමුණේ ක්‍රියාකාරීන් විශාල පිරිසක් සහභාගි වී සිටියහ.
+
+මෙහිදී අදහස් දක්වමින් පොදුජන පෙරමුණේ ප්‍රධාන ලේකම් නීතීඥ සාගර කාරියවසම් වැඩිදුරටත් පැවැසුවේ,
+
+...
+
+[Data](articles/89adecdd.json)
 
 ---
 
@@ -1787,175 +1927,5 @@ Special leave may be approved only in case of unavoidable circumstances, it read
 [Data](articles/33251956.json)
 
 [Extended Data](ext_articles/33251956.ext.json)
-
----
-
-### Warrants Served, Watchlist Targets Detained in Sri Lanka’s “Yukthiya”
-
-*2024-02-06 11:22:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/warrants-served-watchlist-targets-detained-in-sri-lanka-s-yukthiya/) · `en`
-
-COLOMBO (News 1st); In a major crackdown on crime, Sri Lankan police arrested 733 suspects across the island in the 24 hours ending this morning as part of Operation "Yukthiya"
-
-According to police reports, a total of 589 suspects were apprehended for drug-related offenses, while 144 others were picked up based on the list of criminals issued by the crime branch.
-
-The arrests yielded a significant haul of illegal narcotics, including: 130 grams of heroin, 159 grams of ICE, 1,725 kilograms of cannabis.
-
-Furthermore, eight individuals on the watchlists of the Police Narcotics Bureau and the Police Special Bureau were also apprehended.
-
-Notably, among the 108 suspects detained based on crime branch list, 12 were wanted for drug-related offenses, while 128 had outstanding warrants for non-drug-related crimes.
-
-◼️
-
-[Data](articles/76451ff9.json)
-
-[Extended Data](ext_articles/76451ff9.ext.json)
-
----
-
-### Civil Group Calls for Cabinet Resignation Amidst Drug Scandal
-
-*2024-02-06 11:19:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/civil-group-calls-for-cabinet-resignation-amidst-drug-scandal/) · `en`
-
-COLOMBO (News 1st); The National Civil Organization Front (NCOF) and Mass Organizations launched a public petition calling for the removal of Minister Keheliya Rambukwella and the entire cabinet, citing their alleged involvement and complicity in the medicine scandal that rocked the country.
-
-The petition drive, held outside the Gampaha railway station, comes amidst growing public anxieties surrounding the alleged procurement of substandard medicine.
-
-NCOF claims the current administration has failed to effectively address these issues, instead allowing them to escalate.
-
-◼️
-
-[Data](articles/ce9e3e04.json)
-
-[Extended Data](ext_articles/ce9e3e04.ext.json)
-
----
-
-### Relief for Islam Public Servants in Ramazan
-
-*2024-02-06 11:17:32* · [`adalk`](https://www.ada.lk/breaking_news/රාමසාන්-කාලයේ-ඉස්ලාම්-රාජ්‍ය-සේවකයන්ට-සහනයක්/11-407923) · `si`
-
-The Ministry of Public Administrationministration has informed the Ministry of Public Administration and the Ministry of Public Administration and the Ministry of Public Administration towards Muslim Public servants to be used for the Ramazan.
-
-The Ramadan Season is scheduled to be held from March 12 to April 11
-
-The Ministry of Public Administration has issued the approval of the Public Administration and the Public Administration and the Public Administration.
-
-The Ministry of Public Administration has also informed the Public Administration and the Public Administration Board of Public Corporations and Statutory Boards for the end of Ramadan.
-
-◼️
-
-[Data](articles/0671e56c.json)
-
-[Extended Data](ext_articles/0671e56c.ext.json)
-
----
-
-### Another child dies after a tree
-
-*2024-02-06 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193036) · `si`
-
-A child has died after a branch of a tree in the Norwood Police Division.
-
-The police were admitted to Nawalapitiya Hospital and was admitted to the Kandy General Hospital.
-
-The victim was a 16 year old student from Dickoya, Dikoya.
-
-The deceased child was traveling through the garden, and a tree was cut by a tree in theater.
-
-The cut tree was hit by a branch of the tree.
-
-Five suspects were arrested by the Norwood police and remanded until February 12.
-
-Meanwhile, a five-year-old student who studied a tree near the International School in Gampola yesterday (05) was lost and two others were injured.
-
-◼️
-
-[Data](articles/36483d7f.json)
-
-[Extended Data](ext_articles/36483d7f.ext.json)
-
----
-
-### Will the public take action against Keheliya?What does it mean?
-
-*2024-02-06 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/175685) · `ta`
-
-Former Health Minister Keheliya Rambukwella issue is in the presence of the court, said the party's general secretary, Sagarakariyawasam, said that the PA would not take any action against him.
-
-He made this statement when former Health Minister Keheliya Rambukwella was arrested on charges of importing a low -level immunoglobulin drug.
-
-The Sri Lankan PA will not take any action against the Keheliya Rambukwella as the issue is still in the presence of the court.
-
-He said the party did not have to take any action as the issue has now become a court issue.
-
-He said the court should decide that the Keheliya Rambukwella is not a criminal and said that the party could not do anything until it was taken up.
-
-"We will not take any action until the case is over," he said.
-
-◼️
-
-[Data](articles/d19a56c0.json)
-
-[Extended Data](ext_articles/d19a56c0.ext.json)
-
----
-
-### Herath says no to BCB: Bangladesh Cricket in limbo with key positions vacant
-
-*2024-02-06 11:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Herath-says-no-to-BCB-Bangladesh-Cricket-in-limbo-with-key-positions-vacant/108-276409) · `en`
-
-Feb. 6 (insidesport) - With the top players currently involved in the ongoing BPL and the talented youngsters participating in the U19 World Cup, there's a sense of waiting and wondering about the team's next steps.
-
-Sri Lankan spin legend Rangana Herath has declined a new offer from the Bangladesh Cricket Board (BCB), leaving the national team’s spin bowling mentor position vacant. This adds to the BCB’s woes as they grapple with several key coaching positions needing to be filled and the national team yet to play an international match in 2024.
-
-The lack of official matches scheduled for the national team further compounds the uncertainty surrounding Bangladesh cricket. With the top players currently involved in the ongoing BPL and the talented youngsters participating in the U19 World Cup, there’s a sense of waiting and wondering about the team’s next steps.
-
-...
-
-[Data](articles/ce6973c6.json)
-
-[Extended Data](ext_articles/ce6973c6.ext.json)
-
----
-
-### Sri Lanka rupee trading at 313.00/40 to the US dollar
-
-*2024-02-06 11:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trading-at-313-00-40-to-the-us-dollar-149933/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading at 313.00/40 to the US dollar Tuesday, from 312.40/80 on Monday, dealers said.
-
-A bond maturing on 01.02.2026 was quoted at 11.70/80 down from 11.80/95 percent Monday.
-
-A bond maturing on 15.09.2027 was quoted at 12.35/45 from 12.35/55 percent.
-
-A bond maturing on 15.03.2028 was quoted at 12.60/65 from 12.55/65 percent.
-
-A bond maturing on 15.05.2030 was quoted stable at 13.00/15 percent.
-
-The Colombo Stock Exchange was trading up; the All Share Price Index was up 0.96 percent at 10,530, and the S&P SL20 was up 1.58 percent at 2,989. (Colombo/Feb6/2024)
-
-◼️
-
-[Data](articles/313f2e4f.json)
-
-[Extended Data](ext_articles/313f2e4f.ext.json)
-
----
-
-### NPP delegation meets India’s Foreign Secretary
-
-*2024-02-06 11:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-delegation-meets-Indias-Foreign-Secretary/108-276408) · `en`
-
-India, Feb. 06 (Daily Mirror)- The NPP delegation led by its leader Anura Kumara Dissanayake met India's Foriegn Secretary Vinay Mohan at the Taj Mansingh Hotel last night, party sources said.
-
-They are to visit the Observer Research Foundation and the Unique Identification Authority of India (UIDAI) today during their second day of the visit.
-
-The delegation is sheduled to enage in discussions about the functioning of the two institutions.
-
-◼️
-
-[Data](articles/4749d52d.json)
-
-[Extended Data](ext_articles/4749d52d.ext.json)
 
 ---

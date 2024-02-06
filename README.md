@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 09:17:13**
+As of **2024-02-06 09:32:51**
 
 ## Newspaper Stats
 
-*Scraped **5,066** Articles*
+*Scraped **5,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 290
 newsfirstlk | 304
 adalk | 435
 virakesarilk | 588
-adaderanalk | 622
+adaderanalk | 623
 tamilmirrorlk | 637
 adaderanasinhalalk | 658
 dailymirrorlk | 718
@@ -26,11 +26,29 @@ dailymirrorlk | 718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,065 (100.0%) of 5,066 articles have been extended.
+5,066 (100.0%) of 5,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### Reps of health trade unions and Finance Ministry to meet today
+
+*2024-02-06 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97030/reps-of-health-trade-unions-and-finance-ministry-to-meet-today) · `en`
+
+The health sector trade unionists and Finance Ministry representatives are slated to meet later today (Feb.06) do discuss the concerns of the health workers regarding allowances.
+
+Health Trade Union Alliance’s convenor Ravi Kumudesh said the meeting is scheduled to start at noon under the instructions of President Ranil Wickremesinghe.
+
+The trade unions representing a wide range of health sector professionals, including radiology and laboratory technicians, pharmacists and drug compounders, midwives, dental surgeons, public health inspectors, and entomology officers have engaged in strikes on multiple occasions demanding an allowance hike for them.
+
+On January 08, the Cabinet of Ministers approved President Ranil Wickremesinghe’s proposal to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000. This compelled the other health workers to resort to trade union actions.
+
+...
+
+[Data](articles/e1211a39.json)
+
+---
 
 ### Change of public servants' works for Ramazan
 
@@ -1304,21 +1322,27 @@ President Ranil Wickremesinghe addressing the ceremony at Rangeiri Dambulla Stad
 
 ---
 
-### යුක්තිය යටතේ 47475ක් අත්අඩංගුවට
+### 47475 arrested for justice
 
 *2024-02-05 20:10:54* · [`adalk`](https://www.ada.lk/breaking_news/යුක්තිය-යටතේ-47475ක්-අත්අඩංගුවට/11-407916) · `si`
 
-යුක්තිය මෙහෙයුම ආරම්භ කළ දෙසැම්බර් 17වන දිනසිට පෙරේදා (04දා) දක්වා කාලය තුළදී වැටලීම් 47,820ක්සිදුකර සැකකරුවන් 47,475ක් අත්අඩංගුවට ගෙන තිබේ.
+47,820 suspects have been arrested for 47,820 in the period of 47,820 during the period of 47,820 during the month of December 17, commenced operation.
 
-මෙම පිරිසෙන් 1,814දෙනෙකුට රැඳවුම් නියෝගලබා ගෙන තිබෙන අතර, සැකකරුවන් 222කට එරෙහිව වත්කම් විමර්ශන ආරම්භ කර තිබේ.එමෙන්ම 1,920ක් පුනරුත්ථාපනයට යොමු කිරීමට අදාළ කටයුතු කර තිබෙන අතර, මෙම මෙහෙයුම්වලදී විෂ මත්ද්‍රව්‍යවලට සම්බන්ධ වී සිට අධිකරණවලින් විවෘත වරෙන්තු නිකුත් වී සිටි පුද්ගලයන් 1,105ක් හා විෂ මත්ද්‍රව්‍ය නොවන වැරදි සම්බන්ධයෙන් වරෙන්තු නිකුත් වී සිටි 5158දෙනෙකුත් මෙම මෙහෙයුම්වලදි අත්අඩංගුවට ගෙන  තිබෙන බව පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කරයි.
+1,814 persons have been detention and the assets have been initiated against the 222 suspects.The Police Media Division states that 5158 persons have been arrested in these operations regarding non-wrong mistakes.
 
-ඇඟිලි සටහන් ඔස්සේ හඳුනාගත් සැකකරුවන් 261ක් මීට අමතරව බල අපරාධ සම්බන්ධයෙන් (මනුෂ්‍ය ඝාතන සොරකෑම වැනි සුවිශේෂී අපරාධ) 315ක්ද මෙම කාලය තුළදී අත්අඩංගුවට ගෙන තිබෙන බවද පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති  නීතිඥ නිහාල් තල්දූව මහතා සඳහන් කළේය.
+At the same time, 261 suspects have been arrested during the fingerprints.
 
-මෙම කාලය තුළදී හෙරොයින් කිලෝ 138ක් හාඅයිස් මත්ද්‍රව්‍ය කිලෝ 413ක්, ගංජා කිලෝ 946ක්, ගංජා පැළ තිස්පන් ලක්ෂ හයදහස් හාරසිය පනස් හතක් විනාශ කර තිබෙන බවද පැවසීය.
+During this period, 138 kilograms of heroin and 413 kilograms of heroin and 946 kilograms of marijuana have been destroyed.
 
-...
+He said that 27,3002 hundred and sixty-two billion drugs were arrested.
+
+The public receives a lot of information from the public and 48 days of the date of operational period of 48 days of the last 48 days of the last 48 days of the last 48 days of the last 48 days of operation.
+
+◼️
 
 [Data](articles/6ea7400f.json)
+
+[Extended Data](ext_articles/6ea7400f.ext.json)
 
 ---
 
@@ -1963,25 +1987,5 @@ Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
 [Data](articles/32489cd3.json)
 
 [Extended Data](ext_articles/32489cd3.ext.json)
-
----
-
-### Human Rights activist Dr. Chamal Sanjeewa released on bail
-
-*2024-02-05 17:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Human-Rights-activist-Dr-Chamal-Sanjeewa-released-on-bail/108-276355) · `en`
-
-Colombo, Feb 5 (Daily Mirror) - Human Rights activist Dr. Chamal Sanjeewa was released on a personal bail of Rs. 25,000 by the Colombo Chief Magistrate today.
-
-The doctor appeared before the Colombo Chief Magistrate Prasanna De Alwis through a motion filed by his Counsel Rajitha Lakmal.
-
-During the inquiry Counsel told the Magistrate that on 1st of January, during a protest opposite the entrance to the CID, Police had arrested the doctor and some other suspects who were later produced before the Fort Magistrate's Court.
-
-During the inquiry, the Cinnamon Garden Police had submitted to the Fort Magistrate's Court that the Colombo Chief Magistrate had ordered the Cinnamon Gardens Police to arrest three suspects including Dr. Chamal Sanjeewa and two others and to produce them before the Chief Magistrate today (5) allegedly for placing a funeral wreath opposite the house of former Health Minister Keheliya Rambukwell on January 01 .
-
-...
-
-[Data](articles/665b4a52.json)
-
-[Extended Data](ext_articles/665b4a52.ext.json)
 
 ---

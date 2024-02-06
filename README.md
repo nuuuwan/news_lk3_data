@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 09:02:34**
+As of **2024-02-06 09:17:13**
 
 ## Newspaper Stats
 
-*Scraped **5,065** Articles*
+*Scraped **5,066** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ economynextcom | 265
 islandlk | 276
 dailyftlk | 290
 newsfirstlk | 304
-adalk | 434
+adalk | 435
 virakesarilk | 588
 adaderanalk | 622
 tamilmirrorlk | 637
@@ -26,69 +26,75 @@ dailymirrorlk | 718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,061 (99.9%) of 5,065 articles have been extended.
+5,065 (100.0%) of 5,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
 
-### රාමසාන් වෙනුවෙන් රාජ්‍ය සේවකයින්ගේ වැඩමුරවල වෙනසක්
+### Change of public servants' works for Ramazan
 
 *2024-02-06 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193031) · `si`
 
-රාමසාන් සමයේ දී මුස්ලිම් රාජ්‍ය සේවකයින් සඳහා ආගමික වතාවත්වල යෙදීමට හැකි වන පරිදි වැඩමුර සකස් කර දෙන ලෙස රාජ්‍ය පරිපාලන අමාත්‍යංශය රාජ්‍ය ආයතන වෙත දැනුම් දී තිබේ.
+The Ministry of Public Administration and the Ministry of Public Administration and Home Affairs has informed the government to adjust the workshops so that the Muslim public servants can be used for the Muslim public servants.
 
-අමාත්‍යංශ ලේකම්වරුන්, පළාත් ප්‍රධාන ලේකම්වරුන්, දෙපාර්තමේන්තු ප්‍රධානීන්, රාජ්‍ය සංස්ථා සහ ව්‍යවස්ථාපිත මණ්ඩල ප්‍රධානීන් වෙත චක්‍රලේඛයක් නිකුත් කරමින් අදාළ දැනුම් දීම සිදුකර ඇති බව වාර්තා වේ.
+It is reported that the Ministry Secretaries, Provincial Chief Secretaries, Heads of Government Corporations, Heads of State Corporations and Statutory Boards have issued a circular.
 
-මෙවර රාමසාන් සමය මාර්තු 12 වන දින සිට අප්‍රේල් 11 වන දින දක්වා පැවැත්වීමට නියමිත බැවින් එම කාල සීමාව තුළ මුස්ලිම් රාජ්‍ය සේවකයින්ට ආගමික වතාවත්වල යෙදීමට හැකිවන පරිදි වැඩමුර සකස් කර දිය යුතු බව අදාළ චක්‍රලේඛයේ සඳහන්ය.
+The Ramadan Season is scheduled to be held from March 12 to April 11
 
-නොවැළැක්විය හැකි අවස්ථාවලදී පමණක් විශේෂ නිවාඩු අනුමත කරදෙන ලෙස ද රාජ්‍ය පරිපාලන අමාත්‍යංශය නිකුත් කළ චක්‍රලේඛයේ සඳහන් ය.
+The Ministry of Public Administration has issued the approval of the Public Administration and the Public Administration and the Public Administration.
 
-රාමසාන් අවසන් වීමට දින 14කට පෙර රාජ්‍ය සේවයේ රාජ්‍ය සංස්ථා හා ව්‍යවස්ථාපිත මණ්ඩලවල සුදුසුකම් ඇති මුස්ලිම් නිලධාරීන් සඳහා උත්සව අත්තිකාරම් ලබාදීමට ද කටයුතු කරන ලෙස රාජ්‍ය පරිපාලන අමාත්‍යංශය වැඩිදුරටත් දැනුම් දී තිබේ.
+The Ministry of Public Administration has also informed the Public Administration and the Public Administration Board of Public Corporations and Statutory Boards for the end of Ramadan.
 
 ◼️
 
 [Data](articles/77765623.json)
 
+[Extended Data](ext_articles/77765623.ext.json)
+
 ---
 
-### ජීවිත දෙකක් බිලිගත් මාරක අනතුර
+### The fatal accident of two lives
 
 *2024-02-06 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193030) · `si`
 
-දඹුල්ල - මහනුවර ප්‍රධාන මාර්ගයට වැටෙන අතුරු මාර්ගයේ විහාර හංදිය ප්‍රදේශයේදී සිදුවූ රිය අනතුරකින් කාන්තාවක් ඇතුළු පුද්ගලයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Two persons including a woman, including a woman, had died in an accident in the Vihara Junction area on the Kandy-Kandy main road.
 
-ඊයේ (05) රාත්‍රී කාලයේදී එම අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
+The accident had occurred last night, police said.
 
-කණ්ඩලම දෙස සිට ප්‍රධාන මාර්ගය දෙසට ධාවනය වූ යතුරුපැදියක් මාර්ගය අයිනේ සිටි පුද්ගලයෙකුගේ හා දරුවෙකු වඩාගෙන සිටි කාන්තාවකගේ ගැටී අනතුර සිදුව ඇත.
+A motorcycle who was on the way to the Kandalam to the main road, a woman and a woman who had a child had taken place.
 
-අනතුරින් තුවාල ලැබූ පුද්ගලයා සහ දරුවා වඩාගෙන සිටි කාන්තාව දඹුල්ල රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව කාන්තාව සහ පුද්ගලයා මියගොස් තිබේ.
+The woman and the person had died after being injured and taken to the Dambulla hospital.
 
-කාන්තාව වඩාගෙන සිටි වයස මාස 09ක දියණිය දඹුල්ල රෝහලේ නේවාසිකව ප්‍රතිකාර ලබයි.
+The 9-month old daughter is receiving treatment at the Dambulla Hospital.
 
-අනතුරින් මියගොස් ඇත්තේ, බණ්ඩරාගම ලිපිනයේ පදිංචිව සිටි 45 හැවිරිදි පුද්ගලයෙකු හා මෙතෙක් ලිපිනය අනාවරණය නොවූ 43 හැවිරිදි කාන්තාවකි.
+The deceased has been identified as a 43-year-old woman who was residing in the Acrei -rama.
 
-අනතුරින් යතුරුපැදිකරුද තුවාල ලබා ඇති අතර ඔහු පොලිස් ආරක්ෂාව යටතේ දඹුල්ල රෝහලේ නේවාසිකව ප්‍රතිකාර ලබමින් සිටී.
+Motorcyclists have been injured in the accident and he is receiving treatment at the Dambulla Hospital under police protection.
 
 ◼️
 
 [Data](articles/9083298d.json)
 
+[Extended Data](ext_articles/9083298d.ext.json)
+
 ---
 
-### සෞඛ්‍ය කාර්ය මණ්ඩලය සහ මුදල් අමාත්‍යංශ නියෝජිතයින් අතර විශේෂ සාකච්ඡාවක්
+### Special discussion between health staff and finance minister
 
 *2024-02-06 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193029) · `si`
 
-සෞඛ්‍ය කාර්ය මණ්ඩලයේ වෘත්තීය සමිති නියෝජිතයින් සහ මුදල් අමාත්‍යංශයේ නියෝජිතයින් අතර විශේෂ සාකච්ඡාවක් අද (06) පැවැත්වීමට නියමිතව තිබේ.
+A special discussion is scheduled to be held today (06) a special discussion between the Health Societies Representatives of the Health Cabinet and the Representatives of the Ministry of Finance.
 
-සෞඛ්‍ය වෘත්තීය සමිති සන්ධානයේ කැඳවුම්කරු රවී කුමුදේශ් මහතා සඳහන් කළේ, අද දහවල් 12ට මුදල් අමාත්‍යංශයේ දී මෙම සාකච්ඡාව පැවැත්වෙන බවය.
+The convener of the Health Trade Union Alliance Ravi Kudmith said that the discussion will be held at the Ministry of Finance at 12 noon.
 
-සෞඛ්‍ය කාර්ය මණ්ඩලය සඳහා ආර්ථික යුක්තිය ඉටුකර ගැනීම සම්බන්ධයෙන් ජනාධිපතිවරයාගේ උපදෙස් පරිදි මෙම සාකච්ඡාව පැවැත්වෙන බව රවී කුමුදේශ් මහතා සඳහන් කළේය.
+The discussion will be held on the instructions of the President regarding the use of economic justice for health staff.
 
 ◼️
 
 [Data](articles/66cdc01c.json)
+
+[Extended Data](ext_articles/66cdc01c.ext.json)
 
 ---
 
@@ -1298,6 +1304,24 @@ President Ranil Wickremesinghe addressing the ceremony at Rangeiri Dambulla Stad
 
 ---
 
+### යුක්තිය යටතේ 47475ක් අත්අඩංගුවට
+
+*2024-02-05 20:10:54* · [`adalk`](https://www.ada.lk/breaking_news/යුක්තිය-යටතේ-47475ක්-අත්අඩංගුවට/11-407916) · `si`
+
+යුක්තිය මෙහෙයුම ආරම්භ කළ දෙසැම්බර් 17වන දිනසිට පෙරේදා (04දා) දක්වා කාලය තුළදී වැටලීම් 47,820ක්සිදුකර සැකකරුවන් 47,475ක් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙම පිරිසෙන් 1,814දෙනෙකුට රැඳවුම් නියෝගලබා ගෙන තිබෙන අතර, සැකකරුවන් 222කට එරෙහිව වත්කම් විමර්ශන ආරම්භ කර තිබේ.එමෙන්ම 1,920ක් පුනරුත්ථාපනයට යොමු කිරීමට අදාළ කටයුතු කර තිබෙන අතර, මෙම මෙහෙයුම්වලදී විෂ මත්ද්‍රව්‍යවලට සම්බන්ධ වී සිට අධිකරණවලින් විවෘත වරෙන්තු නිකුත් වී සිටි පුද්ගලයන් 1,105ක් හා විෂ මත්ද්‍රව්‍ය නොවන වැරදි සම්බන්ධයෙන් වරෙන්තු නිකුත් වී සිටි 5158දෙනෙකුත් මෙම මෙහෙයුම්වලදි අත්අඩංගුවට ගෙන  තිබෙන බව පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කරයි.
+
+ඇඟිලි සටහන් ඔස්සේ හඳුනාගත් සැකකරුවන් 261ක් මීට අමතරව බල අපරාධ සම්බන්ධයෙන් (මනුෂ්‍ය ඝාතන සොරකෑම වැනි සුවිශේෂී අපරාධ) 315ක්ද මෙම කාලය තුළදී අත්අඩංගුවට ගෙන තිබෙන බවද පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති  නීතිඥ නිහාල් තල්දූව මහතා සඳහන් කළේය.
+
+මෙම කාලය තුළදී හෙරොයින් කිලෝ 138ක් හාඅයිස් මත්ද්‍රව්‍ය කිලෝ 413ක්, ගංජා කිලෝ 946ක්, ගංජා පැළ තිස්පන් ලක්ෂ හයදහස් හාරසිය පනස් හතක් විනාශ කර තිබෙන බවද පැවසීය.
+
+...
+
+[Data](articles/6ea7400f.json)
+
+---
+
 ### New Cabinet Decision on Starking in Sri Lanka
 
 *2024-02-05 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193017) · `si`
@@ -1350,17 +1374,25 @@ He also said that the train will start a 12.15 day from the Trincomalee railway 
 
 ---
 
-### හලාවත සිට කොළඹ එන්න සනත් නිශාන්ත තම රියදුරුට දී තිබූ කාලය විනාඩි 90යි
+### Nishantha from Chilaw to Colombo
 
 *2024-02-05 19:58:34* · [`adalk`](https://www.ada.lk/breaking_news/හලාවත-සිට-කොළඹ-එන්න-සනත්-නිශාන්ත-තම-රියදුරුට-දී-තිබූ-කාලය-විනාඩි-90යි/11-407914) · `si`
 
-ජල සම්පාදන රාජ්‍ය අමාත්‍ය පුත්තලම දිස්ත්‍රික් පාර්ලිමෙන්තු මන්ත්‍රී සනත් නිශාන්ත මහතාට සහ ඔහුගේ ආරක්‍ෂක නිලාරීයාට මරු කැඳවු අනතුර වන අවස්ථාවේදී වී-8 වර්ගයේ සුඛෝපභෝගී ජීප් රථය පැදවු සනත් නිශාන්ත මහතාගේ රියදුරා ඇප මත මුදාහැරීමට වැලිසර මහෙස්ත්‍රාත් තුසිත ධම්මික උඩුවවිදාන මහතා අද (05) නියම කළේය‍.
+Welisara Magistratesitha Dhammika Uddana today (05) was appointed to release the V-8 luxury jeep.
 
-හලාවත සිට පැය 1 1/2ක කාලයක් තුළ කොළඹ පැමිණීය යුතු බවට සනත් නිශාන්ත මහතා පනවා තිබු නියෝගයක් හේතූවෙන් නිරන්තරයෙන් අධික වේගයෙන් තම සේවාදායකයාට රිය පැදවීමට සිදුවී තිබු බව කියමින් සනත් නිශාන්ත මහතාගේ රියදුරා වෙනුවෙන් නීතීඥ තමරා අබේරත්න මහත්මිය කළ ඇප ඉල්ලීම පිළිගනිමින් රුපියල් ලක්‍ෂ 05 බැගින් වටිනා ඇපකරුවන් දෙදෙනෙකුගේ ශරීර ඇප මත ඔහු මුදාහැරීමට නියම කළ මහෙස්ත්‍රාත්වරයා සැකකරුගේ රියදුරු බලපත්‍රය යළි නියෝගයක් කරනතුරු අත්හිටුවීමටද නියම කළේය.
+Attorney-at-Law Tharara Abeyratne accepts the bail of Tharara Abeyratne saying that he had to be driving for the driver of the Attorney at 1 1/2 hours of charge to the driver of the Chilaw.The Magistrate ordered him to be released on two base of two persons.
+
+Sanath Nishanta was a luxury at Kerawalapitiya area on the Katunayake Colombo District Parliamentarian and his security officer, Katunayake and his security officer.Arachchikatti Superintendent of Suriyahetti Superintendent Arachchikatti, a resident of Sanath Nishantha, was driving the jeep.
+
+Jayantha Niroshan Dasanayake was produced in court, while he was produced by the police officers in the PV-or-to-vehicle vehicle.Prabath Eranga Dilnesha was appointed further Remand.
+
+Prabath Eranga Dilshaha was produced before the driver of Sanath Nishantha who was remanded in connection with the incident when the complaint was taken into custody.
 
 ...
 
 [Data](articles/bf44f96e.json)
+
+[Extended Data](ext_articles/bf44f96e.ext.json)
 
 ---
 
@@ -1951,25 +1983,5 @@ During the inquiry, the Cinnamon Garden Police had submitted to the Fort Magistr
 [Data](articles/665b4a52.json)
 
 [Extended Data](ext_articles/665b4a52.ext.json)
-
----
-
-### HR activist Dr. Chamal Sanjeewa released on bail
-
-*2024-02-05 17:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/HR-activist-Dr-Chamal-Sanjeewa-released-on-bail/108-276355) · `en`
-
-Colombo, Feb 5 (Daily Mirror) - Human Rights activist Dr. Chamal Sanjeewa was released on a personal bail of Rs. 25,000 by the Colombo Chief Magistrate today.
-
-The doctor appeared before the Colombo Chief Magistrate Prasanna De Alwis through a motion filed by his Counsel Rajitha Lakmal.
-
-During the inquiry Counsel told the Magistrate that on 1st of January, during a protest opposite the entrance to the CID, Police had arrested the doctor and some other suspects who were later produced before the Fort Magistrate's Court.
-
-During the inquiry, the Cinnamon Garden Police had submitted to the Fort Magistrate's Court that the Colombo Chief Magistrate had ordered the Cinnamon Gardens Police to arrest three suspects including Dr. Chamal Sanjeewa and two others and to produce them before the Chief Magistrate today (5) allegedly for placing a funeral wreath opposite the house of former Health Minister Keheliya Rambukwell on January 01 .
-
-...
-
-[Data](articles/86f8409e.json)
-
-[Extended Data](ext_articles/86f8409e.ext.json)
 
 ---

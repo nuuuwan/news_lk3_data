@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 11:51:53**
+As of **2024-02-06 12:02:18**
 
 ## Newspaper Stats
 
-*Scraped **5,099** Articles*
+*Scraped **5,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ dbsjeyarajcom | 140
 economynextcom | 265
 islandlk | 276
 dailyftlk | 290
-newsfirstlk | 306
+newsfirstlk | 308
 adalk | 436
-virakesarilk | 592
-adaderanalk | 629
+virakesarilk | 595
+adaderanalk | 630
 tamilmirrorlk | 642
 adaderanasinhalalk | 662
 dailymirrorlk | 728
@@ -26,11 +26,159 @@ dailymirrorlk | 728
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,099 (100.0%) of 5,099 articles have been extended.
+5,105 (100.0%) of 5,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### A massive wildfire in Chile;122 killed;Hundreds of people magic
+
+*2024-02-06 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175674) · `ta`
+
+Officials say 122 people have been killed and hundreds of people have been missing due to a massive wildfire spreading in Chile.
+
+President Gabriel Boric on Sunday warned that wildfire is spreading in the central part of Chile Walbariso and increasing deaths.
+
+In addition, Gabriel Boric has said that his country is facing a 'huge tragedy'.
+
+In this case, Boric has announced an emergency on Friday, promising to save the people from the disaster.
+
+Officials say 200 people have disappeared in the coastal tourist dest of the beach Tel Mar and surrounding areas.
+
+There have been massive firefighters where the coastal tourist site. In addition, the eastern parts of the city, known for the annual International Music Festival, have been destroyed.
+
+Another 10 more people were killed in a fire on Monday. In addition, the number of casualties has increased to 122, said Marisol Brado, director of Chile's Forensic Medical Service.
+
+...
+
+[Data](articles/3935ea1d.json)
+
+[Extended Data](ext_articles/3935ea1d.ext.json)
+
+---
+
+### 2,535 Teacher Assistant Appointments for Plantation Schools - Minister of Education
+
+*2024-02-06 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175689) · `ta`
+
+Minister of State for Education and Badulla District Parliamentarian A.. Aravindakumar says.
+
+Applications for these appointments will be requested by the Ministry of Education soon. Through this, those who are selected as faculty assistants must complete their degree in a certain period of time and get a degree in the course of learning or complement the teacher training for their nomination course at the Teacher Training College.Those who have completed the status of the Sri Lanka Teacher Service will be enrolled in the Sri Lankan Teacher Service permanently. I hope that the problem of teachers in the hill plantation schools will often be addressed by the issue.
+
+◼️
+
+[Data](articles/7237b71b.json)
+
+[Extended Data](ext_articles/7237b71b.ext.json)
+
+---
+
+### Police use protesters in Kilinochchi - Amnesty International
+
+*2024-02-06 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175691) · `ta`
+
+The South Asia Division for the South Asia Division of the International International has said that the police have used illegal strength against those who have quietly protested on Sri Lanka's 76 Independence Day and have been concerned about the oppression of protests in many parts of the country over the past few weeks.
+
+In the Kilinochchi police, the International Amnesty International, who said that the International Amnesty Struggle, which said that the International Amnesty Struggle, said that the International Amnesty Struggle, which said that the students of Jaffna, had arrested some of the students of Jaffna.
+
+The Amnesty International has said that Sri Lanka is under international law that Sri Lanka is under international laws for the use of the right to gather peacefully to bring about peaceful demonstrations.
+
+...
+
+[Data](articles/a6a34ee2.json)
+
+[Extended Data](ext_articles/a6a34ee2.ext.json)
+
+---
+
+### Flexible work shifts for Muslim public sector officers during Ramadan season
+
+*2024-02-06 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97038/flexible-work-shifts-for-muslim-public-sector-officers-during-ramadan-season) · `en`
+
+Special changes are to be made to the public sector work shifts to facilitate the Muslim officers who are taking part in prayers and religious activities in view of the Ramadan season this year.
+
+This was communicated by way of a circular issued by the Ministry of Public Administration, addressed to the Ministerial Secretaries, Provincial Chief Secretaries, Heads of Departments and Heads of State Corporations and Statutory Boards earlier last week.
+
+The Ramadan season is set to begin on 12 March and end on 11 April.
+
+As such, the ministry has given instructions to make necessary arrangements to enable Muslim officers to take part in the prayers and religious activities during this period.
+
+The communiqué notes that the work shifts should be arranged whenever possible to allow Muslim officers to participate in religious activities.
+
+Special leave may be approved only in case of unavoidable circumstances, it reads further.
+
+...
+
+[Data](articles/33251956.json)
+
+[Extended Data](ext_articles/33251956.ext.json)
+
+---
+
+### Warrants Served, Watchlist Targets Detained in Sri Lanka’s “Yukthiya”
+
+*2024-02-06 11:22:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/warrants-served-watchlist-targets-detained-in-sri-lanka-s-yukthiya/) · `en`
+
+COLOMBO (News 1st); In a major crackdown on crime, Sri Lankan police arrested 733 suspects across the island in the 24 hours ending this morning as part of Operation "Yukthiya"
+
+According to police reports, a total of 589 suspects were apprehended for drug-related offenses, while 144 others were picked up based on the list of criminals issued by the crime branch.
+
+The arrests yielded a significant haul of illegal narcotics, including: 130 grams of heroin, 159 grams of ICE, 1,725 kilograms of cannabis.
+
+Furthermore, eight individuals on the watchlists of the Police Narcotics Bureau and the Police Special Bureau were also apprehended.
+
+Notably, among the 108 suspects detained based on crime branch list, 12 were wanted for drug-related offenses, while 128 had outstanding warrants for non-drug-related crimes.
+
+◼️
+
+[Data](articles/76451ff9.json)
+
+[Extended Data](ext_articles/76451ff9.ext.json)
+
+---
+
+### Civil Group Calls for Cabinet Resignation Amidst Drug Scandal
+
+*2024-02-06 11:19:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/civil-group-calls-for-cabinet-resignation-amidst-drug-scandal/) · `en`
+
+COLOMBO (News 1st); The National Civil Organization Front (NCOF) and Mass Organizations launched a public petition calling for the removal of Minister Keheliya Rambukwella and the entire cabinet, citing their alleged involvement and complicity in the medicine scandal that rocked the country.
+
+The petition drive, held outside the Gampaha railway station, comes amidst growing public anxieties surrounding the alleged procurement of substandard medicine.
+
+NCOF claims the current administration has failed to effectively address these issues, instead allowing them to escalate.
+
+◼️
+
+[Data](articles/ce9e3e04.json)
+
+[Extended Data](ext_articles/ce9e3e04.ext.json)
+
+---
+
+### Will the public take action against Keheliya?What does it mean?
+
+*2024-02-06 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/175685) · `ta`
+
+Former Health Minister Keheliya Rambukwella issue is in the presence of the court, said the party's general secretary, Sagarakariyawasam, said that the PA would not take any action against him.
+
+He made this statement when former Health Minister Keheliya Rambukwella was arrested on charges of importing a low -level immunoglobulin drug.
+
+The Sri Lankan PA will not take any action against the Keheliya Rambukwella as the issue is still in the presence of the court.
+
+He said the party did not have to take any action as the issue has now become a court issue.
+
+He said the court should decide that the Keheliya Rambukwella is not a criminal and said that the party could not do anything until it was taken up.
+
+"We will not take any action until the case is over," he said.
+
+◼️
+
+[Data](articles/d19a56c0.json)
+
+[Extended Data](ext_articles/d19a56c0.ext.json)
+
+---
 
 ### Herath says no to BCB: Bangladesh Cricket in limbo with key positions vacant
 
@@ -383,32 +531,6 @@ A suspect and three suspects have been arrested in the media and three suspects 
 [Data](articles/c184b164.json)
 
 [Extended Data](ext_articles/c184b164.ext.json)
-
----
-
-### A massive wildfire in Chile;122 killed;Hundreds of people magic
-
-*2024-02-06 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175674) · `ta`
-
-Officials say 122 people have been killed and hundreds of people have been missing due to a massive wildfire spreading in Chile.
-
-President Gabriel Boric on Sunday warned that wildfire is spreading in the central part of Chile Walbariso and increasing deaths.
-
-In addition, Gabriel Boric has said that his country is facing a 'huge tragedy'.
-
-In this case, Boric has announced an emergency on Friday, promising to save the people from the disaster.
-
-Officials say 200 people have disappeared in the coastal tourist dest of the beach Tel Mar and surrounding areas.
-
-There have been massive firefighters where the coastal tourist site. In addition, the eastern parts of the city, known for the annual International Music Festival, have been destroyed.
-
-Another 10 more people were killed in a fire on Monday. In addition, the number of casualties has increased to 122, said Marisol Brado, director of Chile's Forensic Medical Service.
-
-...
-
-[Data](articles/3935ea1d.json)
-
-[Extended Data](ext_articles/3935ea1d.ext.json)
 
 ---
 
@@ -1903,125 +2025,5 @@ This mission is separate from program review missions, said the spokesperson.
 [Data](articles/4d8c4eff.json)
 
 [Extended Data](ext_articles/4d8c4eff.ext.json)
-
----
-
-### English tuition teacher arrested for setting fire to Ranil’s private residence
-
-*2024-02-05 21:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/English-tuition-teacher-arrested-for-setting-fire-to-Ranils-private-residence/108-276362) · `en`
-
-Colombo, Feb 5 (Daily Mirror) - The Criminal Investigation Department arrested a 46-year-old suspect in connection with the incident of setting fire to President Ranil Wickremesinghe's private residence on 09 July 2022.
-
-The suspect, a resident of Boralesgamuwa, was identified as a teacher who conducts English tuition classes at homes.
-
-The suspect is scheduled to be produced before the Fort Magistrate's Court tomorrow.
-
-◼️
-
-[Data](articles/94147620.json)
-
-[Extended Data](ext_articles/94147620.ext.json)
-
----
-
-### JVP  Delegation led by  Anura  Kumara  Dissanayake has  “Good” Discussions with Indian National Security adviser  Ajit Doval and Foreign Minister Dr.S.Jaishankarr on “ regional security, Economic Challenges  and bilateral issues concerning India and Sri Lanka,”;
-
-*2024-02-05 20:42:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83565) · `en`
-
-Anura Kumara Dissanayake, leader of Sri Lanka’s leftist Janatha Vimukthi Peramuna (JVP or People’s Liberation Front), who is currently visiting India on New Delhi’s invitation, on Monday met External Affairs Minister S. Jaishankar and National Security Adviser (NSA) Ajit Doval, in an indication of the Union government’s high-level engagement with the 55-year-old opposition politician.
-
-Mr. Dissanayake is heading a delegation of his party-led National People’s Power [NPP] alliance to India on a five-day, three-city visit, covering New Delhi, Ahmedabad, and Thiruvananthapuram.
-
-The visit and meetings assume greater significance, coinciding with his rising popularity in the domestic political sphere, that too in a crucial election year. This is the first time New Delhi has invited the JVP leader.
-
-...
-
-[Data](articles/4a3138c8.json)
-
-[Extended Data](ext_articles/4a3138c8.ext.json)
-
----
-
-### We can't be a beggar nation again
-
-*2024-02-05 20:19:46* · [`adalk`](https://www.ada.lk/breaking_news/අපිට-ආයෙත්-හිඟන-ජාතියක්-වෙන්න-බෑ/11-407917) · `si`
-
-President is committed to building a country where all people can live in pride
-
-President invites all parties to join the government's program.
-
-President Ranil Wickremesinghe stressed that the present government was able to provide the land ownership of the people in the country without a revolution.
-
-The President has pointed out that the President has shown that the first achievement of the country is to relieve the country with the rewarding of the country and implement salary increases.
-
-The President said that if the government was able to perform a broader role in the betterment of the people in the country, the President should think about the location of the people.
-
-President Ranil Wickremesinghe addressing the ceremony at Rangeiri Dambulla Stadium this afternoon to present 10,000 free procedures to the farmers in the heritage program.
-
-...
-
-[Data](articles/32c1f345.json)
-
-[Extended Data](ext_articles/32c1f345.ext.json)
-
----
-
-### 47475 arrested for justice
-
-*2024-02-05 20:10:54* · [`adalk`](https://www.ada.lk/breaking_news/යුක්තිය-යටතේ-47475ක්-අත්අඩංගුවට/11-407916) · `si`
-
-47,820 suspects have been arrested for 47,820 in the period of 47,820 during the period of 47,820 during the month of December 17, commenced operation.
-
-1,814 persons have been detention and the assets have been initiated against the 222 suspects.The Police Media Division states that 5158 persons have been arrested in these operations regarding non-wrong mistakes.
-
-At the same time, 261 suspects have been arrested during the fingerprints.
-
-During this period, 138 kilograms of heroin and 413 kilograms of heroin and 946 kilograms of marijuana have been destroyed.
-
-He said that 27,3002 hundred and sixty-two billion drugs were arrested.
-
-The public receives a lot of information from the public and 48 days of the date of operational period of 48 days of the last 48 days of the last 48 days of the last 48 days of the last 48 days of operation.
-
-◼️
-
-[Data](articles/6ea7400f.json)
-
-[Extended Data](ext_articles/6ea7400f.ext.json)
-
----
-
-### New Cabinet Decision on Starking in Sri Lanka
-
-*2024-02-05 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193017) · `si`
-
-Cabinet has approved a resolution submitted to the Cabinet to export herbal cultivation in Sri Lanka.
-
-In response to Ada Derana, the Minister of State Diyana Gamage said that.
-
-Speaking further, Minister of Tourism said that the call of foreign investors will be taken through the Board of Investment of Sri Lanka.
-
-The State Minister further stated that the local investors also allow the opportunity to be done by dollars.
-
-◼️
-
-[Data](articles/13aee2e2.json)
-
-[Extended Data](ext_articles/13aee2e2.ext.json)
-
----
-
-### Bail for Sanath Nishantha's driver
-
-*2024-02-05 20:02:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவின்-சாரதிக்கு-பிணை/175-332724) · `ta`
-
-The driver of the late former diplomatic minister Sanath Nishantha has been allowed to go on bail.
-
-When the suspect was produced before the Welisara Magistrate's Court today, the magistrate gave him permission to go on bail of Rs.. Remble
-
-◼️
-
-[Data](articles/51311b0e.json)
-
-[Extended Data](ext_articles/51311b0e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 22:03:39**
+As of **2024-02-06 22:17:33**
 
 ## Newspaper Stats
 
-*Scraped **5,252** Articles*
+*Scraped **5,253** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 290
 newsfirstlk | 326
 adalk | 449
 virakesarilk | 621
-adaderanalk | 652
+adaderanalk | 653
 tamilmirrorlk | 658
 adaderanasinhalalk | 681
 dailymirrorlk | 745
@@ -26,11 +26,31 @@ dailymirrorlk | 745
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,252 (100.0%) of 5,252 articles have been extended.
+5,252 (100.0%) of 5,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### Sri Lankan church to begin canonization process for hundreds killed in Easter attacks
+
+*2024-02-06 21:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97062/sri-lankan-church-to-begin-canonization-process-for-hundreds-killed-in-easter-attacks) · `en`
+
+The Archdiocese of Colombo, Sri Lanka, is set to begin the canonization process for the hundreds of faithful killed in the 2019 Easter Sunday terrorist attack in the country, an archdiocesan official confirmed with CNA.
+
+Fr. Joy Indika Perera, a representative for Cardinal Malcolm Ranjith of Colombo, told CNA in an email last week that the archdiocese plans to submit a petition to the Vatican to declare those killed in the Easter Sunday attacks “martyrs of faith.”
+
+Fr. Perera said the archdiocese will be submitting the petition on April 21, exactly five years after the attacks took place. That is the minimum amount of time required by the Church to open a person’s canonization cause.
+
+The petition will be submitted to the Vatican’s Dicastery for the Causes of Saints.
+
+Eight suicide bombers targeted two Catholic churches, one evangelical church, three luxury hotels, and other locations on April 19, 2019, killing an estimated 269 people and injuring more than 500.
+
+...
+
+[Data](articles/5cba8ff1.json)
+
+---
 
 ### Donald Trump does not have presidential immunity, US court rules
 
@@ -1949,23 +1969,5 @@ At the invitation of the Government of India, the President of the Janatha Vimuk
 [Data](articles/96b305df.json)
 
 [Extended Data](ext_articles/96b305df.ext.json)
-
----
-
-### Presidential election most likely in October - Harin
-
-*2024-02-06 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97041/presidential-election-most-likely-in-october-harin) · `en`
-
-Minister of Sports and Tourism Harin Fernando has revealed that the presidential election will most likely happen in the first week of October.
-
-Speaking to the media today (05 Feb.), acknowledging the need for there to be a newly elected President by 14 October, Fernando expressed his confidence that President Ranil Wickremesinghe would contest the upcoming election.
-
-He further emphasised that President Wickremesinghe’s reappointment is essential in order for Sri Lanka to further develop, and fully recover from the worst economic crisis the country has seen since independence in 1948.
-
-...
-
-[Data](articles/f1ad0e66.json)
-
-[Extended Data](ext_articles/f1ad0e66.ext.json)
 
 ---

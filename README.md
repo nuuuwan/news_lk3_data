@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 09:51:29**
+As of **2024-02-06 10:02:15**
 
 ## Newspaper Stats
 
-*Scraped **5,070** Articles*
+*Scraped **5,072** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 290
 newsfirstlk | 304
 adalk | 435
 virakesarilk | 588
-adaderanalk | 623
+adaderanalk | 625
 tamilmirrorlk | 640
 adaderanasinhalalk | 658
 dailymirrorlk | 718
@@ -26,11 +26,53 @@ dailymirrorlk | 718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,067 (99.9%) of 5,070 articles have been extended.
+5,072 (100.0%) of 5,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### Anura Kumara calls on India’s National Security Advisor
+
+*2024-02-06 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97031/anura-kumara-calls-on-indias-national-security-advisor) · `en`
+
+Leader of the Janatha Vimukthi Peramuna (JVP) Anura Kumara Dissanayake, who is in India on an official visit, has met with India’s National Security Advisor on Monday (Feb.05).
+
+In a post on X (formerly Twitter), Dissanayake said the focus of the discussion fell on regional security and bilateral relations between the two nations.
+
+Vijitha Herath, the National Executive Member of the National People’s Power (NPP) was also in attendance at this meeting.
+
+Dissanayake is heading a delegation of his party-led NPP alliance to India on a five-day, three-city visit, covering New Delhi, Ahmedabad, and Thiruvananthapuram.
+
+Indian media said the visit and meetings assume greater significance and that this is the first time New Delhi has invited the JVP leader.
+
+...
+
+[Data](articles/5ae2464c.json)
+
+[Extended Data](ext_articles/5ae2464c.ext.json)
+
+---
+
+### Health trade unions and Finance Ministry reps to meet today
+
+*2024-02-06 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97030/health-trade-unions-and-finance-ministry-reps-to-meet-today) · `en`
+
+The health sector trade unionists and Finance Ministry representatives are slated to meet later today (Feb.06) do discuss the concerns of the health workers regarding allowances.
+
+Health Trade Union Alliance’s convenor Ravi Kumudesh said the meeting is scheduled to start at noon under the instructions of President Ranil Wickremesinghe.
+
+The trade unions representing a wide range of health sector professionals, including radiology and laboratory technicians, pharmacists and drug compounders, midwives, dental surgeons, public health inspectors, and entomology officers have engaged in strikes on multiple occasions demanding an allowance hike for them.
+
+On January 08, the Cabinet of Ministers approved President Ranil Wickremesinghe’s proposal to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000. This compelled the other health workers to resort to trade union actions.
+
+...
+
+[Data](articles/085372cf.json)
+
+[Extended Data](ext_articles/085372cf.ext.json)
+
+---
 
 ### Reps of health trade unions and Finance Ministry to meet today
 
@@ -162,37 +204,41 @@ Accordingly, the rehabilitation officer was under the disciplinary inquiry, pris
 
 ---
 
-### 3ஆம் சார்ள்ஸ் மன்னருக்கு புற்றுநோய் !
+### Cancer for King Charles 3
 
 *2024-02-06 07:47:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/3ஆம்-சார்ள்ஸ்-மன்னருக்கு-புற்றுநோய்/50-332743) · `ta`
 
-அவரின் புற்றுநோயின் வகை வெளிப்படுத்தப்படாததுடன்  குறித்த  விடயமானது அவரது சமீபத்திய சிகிச்சையின் போதே கண்டுபிடிக்கப்பட்டுள்ளது.
+The type of cancer has not been revealed and the subject has been found during her recent treatment.
 
-மன்னர் திங்களன்று "வழக்கமான சிகிச்சையை" தொடங்கினார் எனவும், மேலும் சிகிச்சையின் போது பொது கடமைகளை ஒத்திவைப்பார் என்றும் அரண்மனை தெரிவித்துள்ளது.
+The palace said that the king began "regular treatment" on Monday and will postpone public obligations during treatment.
 
 ◼️
 
 [Data](articles/f4f19ec1.json)
 
+[Extended Data](ext_articles/f4f19ec1.ext.json)
+
 ---
 
-### இன்றைய காலநிலை நிலவரம்
+### Today's climatic situation
 
 *2024-02-06 07:37:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-காலநிலை-நிலவரம்/175-332742) · `ta`
 
-நாட்டின் பெரும்பாலான பகுதிகளில் இன்று சீரான வானிலை நிலவக்கூடுமென  வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology has said that in most parts of the country today, there will be uniform weather.
 
-மத்திய, சப்ரகமுவ மற்றும் ஊவா மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும்  காலை வேளையில் பனிமூட்டம் காணப்படும்.
+In the morning, the snow will be seen in some parts of the Central, Sabaragamuwa and Uva provinces, as well as some of the Galle and Matara districts.
 
-நாட்டை சூழ உள்ள கடல் பிராந்தியங்களில் சீரான வானிலை காணப்படும். கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 20 - 30 கிலோமீற்றர் வேகத்தில் வடகிழக்குத்  திசையில் இருந்து  காற்று வீசும்.
+Uniform weather found in the sea regions around the country. Winds from the northeast at 20 - 30 km / h in the sea regions.
 
-மாத்தறை தொடக்கம் ஹம்பாந்தோட்டை ஊடாக பொத்துவில் வரையான கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 55 கிலோமீற்றரிலும் கூடிய வேகத்தில் அடிக்கடி  காற்று அதிகரித்து வீசக்கூடும். இவ்வாறான சந்தர்ப்பங்களில் இக் கடல் பிராந்தியங்கள் கொந்தளிப்பாகக் காணப்படும்.
+Frequent winds can be thrown at 55 kilometers per hour in the sea regions from Matara to Pottuvil via Hambantota.. In these cases, these sea regions are turbulent.
 
-கொழும்பு தொடக்கம் புத்தளம், மன்னார் ஊடாக காங்கேசன்துறை வரையான கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 45 கிலோமீற்றரிலும் கூடிய வேகத்தில் இடைக்கிடையே காற்று அதிகரித்து வீசக்கூடும். இவ்வாறான சந்தர்ப்பங்களில் இக் கடல் பிராந்தியங்கள் ஓரளவு கொந்தளிப்பான நிலையில் காணப்படும் என தெரிவிக்கப்பட்டுள்ளது.
+The winds may blow at 45 kilometers per hour in the sea regions from Colombo to Puttalam and Mannar via Mannar.. In such cases, the sea regions are reportedly in a state of turmoil.
 
 ◼️
 
 [Data](articles/27a3eb6f.json)
+
+[Extended Data](ext_articles/27a3eb6f.ext.json)
 
 ---
 
@@ -466,19 +512,21 @@ A national assembly candidate was shot dead on Wednesday elsewhere in Khyber-Pak
 
 ---
 
-### 2,500 ஆசிரிய உதவியாளர்களுக்கு அனுமதி
+### 2,500 permits for faculty assistants
 
 *2024-02-06 03:07:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-500-ஆசிரிய-உதவியாளர்களுக்கு-அனுமதி/175-332741) · `ta`
 
-பெருந்தோட்டப் பகுதிகளில் 863 பாடசாலைகளுக்கு 2535 ஆசிரிய உதவியாளர்களை சேவையில் இணைத்துக் கொள்வதற்கு அமைச்சரவை அங்கீகாரம் கிடைத்துள்ளதாக கல்வி இராஜாங்க அமைச்சர் அரவிந்த்குமார் தெரிவித்துள்ளார்.
+Minister of State for Education Aravind Kumar said that the Cabinet has approved the recruitment of 2535 teacher assistants to 863 schools in the plantation areas.
 
-இவ்வாறு நியமிக்கப்படுகின்ற ஆசிரிய உதவியாளர்கள், குறிப்பிட்ட கால இடைவெளிக்குப் பின்னர் பட்டப்படிப்பை அல்லது ஆசிரிய கலாசாலை கற்கையை பூர்த்தி செய்ததும் நிரந்தர நியமனத்துக்கு உள்வாங்கப்படுவார்கள்.
+Teacher assistants appointed will be taken to a permanent appointment after completing a degree or teacher collection course after a period of time.
 
-மேலும் இந்தக் காலப்பகுதியில் அவர்களுக்கு 20,000 ரூபாய் மாதாந்த கொடுப்பனவு வழங்கப்படும் எனவும் அவர் தெரிவித்துள்ளார். (a)
+He also said that they will be given a monthly payment of Rs 20,000 during this period.. (A)
 
 ◼️
 
 [Data](articles/7f0ba92e.json)
+
+[Extended Data](ext_articles/7f0ba92e.ext.json)
 
 ---
 
@@ -1931,39 +1979,5 @@ The webpage offers a user–friendly, confidential process for submitting inform
 [Data](articles/e469fb75.json)
 
 [Extended Data](ext_articles/e469fb75.ext.json)
-
----
-
-### Minister Kanchana to attend ‘India Energy Week 2024’
-
-*2024-02-05 17:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97021/minister-kanchana-to-attend-india-energy-week-2024) · `en`
-
-Sri Lanka’s Power and Energy Minister Kanchana Wijesekera is set to participate in the ‘India Energy Week’ conference in Goa, at the invitation of the Ministry of Petroleum and Natural Gas of India.
-
-Accordingly, Wijesekera will make a two-day visit to India, during which he is also expected to engage in several meetings including those of bilateral concerns, ministerial roundtables, and meetings with the Indian Oil Corporation (IOC), Petronet LNG, Oil and Natural Gas Corporation of India, NTPC India and other investors.
-
-The ‘India Energy Week’ conference will be held from 06 to 09 February in Goa, India, under the patronage of the Ministry of Petroleum & Natural Gas, Government of India, and officially supported by the Federation of Indian Petroleum Industry (FIPI). Indian Prime Minister Narendra Modi is expected to inaugurate India’s largest and only all-encompassing energy exhibition and conference.
-
-...
-
-[Data](articles/8803992c.json)
-
-[Extended Data](ext_articles/8803992c.ext.json)
-
----
-
-### Man arrested on suspicion of fire to President's house
-
-*2024-02-05 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193013) · `si`
-
-The Criminal Investigations Department has arrested a man on suspicion of the burning of the private home in Kollupitiya, the current president.
-
-The victim is a 46 year old resident of Boralesgamuwa.
-
-◼️
-
-[Data](articles/d1f01494.json)
-
-[Extended Data](ext_articles/d1f01494.ext.json)
 
 ---

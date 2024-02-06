@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 02:17:25**
+As of **2024-02-07 02:32:45**
 
 ## Newspaper Stats
 
@@ -26,135 +26,161 @@ dailymirrorlk | 749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,296 (99.8%) of 5,304 articles have been extended.
+5,304 (100.0%) of 5,304 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### ஜனாதிபதியின் கொள்கைப் பிரகடனத்துடன் ஐந்தாவது கூட்டத்தொடர் இன்று ஆரம்பம்
+### The fifth session begins today with the President's Policy Declaration
 
 *2024-02-07 01:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/175758) · `ta`
 
-ஒன்பதாவது பாராளுமன்றத்தின் ஐந்தாவது கூட்டத்தொடர் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் கொள்கை உரையுடன் இன்று புதன்கிழமை (7) ஆரம்பமாகவுள்ளது.
+The fifth session of the ninth parliament will commence today (7) with President Ranil Wickremesinghe's policy speech.
 
-ஜனாதிபதியால் முன்வைக்கப்படும் அரசாங்கத்தின் கொள்கைப் பிரகடனம் தொடர்பில் சபை ஒத்திவைப்பு விவாதம் 8, 9 ஆம் திகதிகளில் இடம்பெறவுள்ளது.
+The adjournment debate will be held on the 8th and 9th of this month regarding the government's policy declaration presented by the president.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க கடந்த மாதம் 26 ஆம் திகதி நள்ளிரவு முதல் அமுலுக்கு வரும் வகையில் அரசியலமைப்பின் 70(1) உறுப்புரையின் பிரகாரம் ஒன்பதாவது பாராளுமன்றத்தின் நான்காவது கூட்டத்தொடரை ஒத்திவைத்தார்.
+President Ranil Wickremesinghe adjourned the fourth session of the ninth parliament in accordance with Article 70 (1) of the Constitution with effect from midnight on the 26th of last month.
 
-ஐந்தாவது கூட்டத்தொடரை (புதன்கிழமை) ஜனாதிபதியின் தலைமையில் வைபவரீதியாக ஆரம்பித்து வைக்கப்படவிருப்பதுடன்,காலை 10.30 மணிக்கு அரசாங்கத்தின் கொள்கை பிரகனத்தையும் ஜனாதிபதி முன்வைக்கவுள்ளார்.
+The fifth session (Wednesday) will be inaugurated under the leadership of the President and the President will present the government's policy conversion at 10.30 am.
 
-ஒன்பதாவது பாராளுமன்றத்தின் முதலாவது கூட்டத்தொடர் 2020 ஓகஸ்ட் 20 முதல் 2021 டிசம்பர் 12 வரையும்,இரண்டாவது கூட்டத்தொடர் 2022 ஜனவரி 18 முதல் 2022 ஜூலை 28 வரையும் இடம்பெற்றது.
+The first session of the ninth parliament was held from 2020 to 20th August 2020 to December 12, and the second session was held from January 1822 to 2022 to 2022.
+
+The third session was held from August 03 to 2022 to January 27, 2023, and the fourth session began on 08 February 2023 and the Parliament met 106 days until midnight on 2024.01.26.
 
 ...
 
 [Data](articles/38276765.json)
 
+[Extended Data](ext_articles/38276765.ext.json)
+
 ---
 
-### வரவேற்பு நாடான தென் ஆபிரிக்காவை வீழ்த்தி 9ஆவது தடவையாக இறுதிக்குள் நுழைந்தது இந்தியா
+### India entered the end of the 9th time after beating the reception country of South Africa
 
 *2024-02-07 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/175757) · `ta`
 
-பெனோனி, விலோமுவர் பார்க் விளையாட்டரங்கில் இன்று செவ்வாய்க்கிழமை (06) நடைபெற்ற மிகவும் பரபரப்பான அரை இறுதிப் போட்டியில் வரவேற்பு நாடான தென் ஆபிரிக்காவை 2 விக்கெட்களால் வெற்றிகொண்ட நடப்பு சம்பியன் இந்தியா, 9ஆவது தடவையாக 19 வயதுக்குட்பட்ட உலகக் கிண்ண இறுதிப் போட்டியில் விளையாட தகுதிபெற்றது.
+The current champion India, who won the most exciting semi -finals at the Wilomoor Park Stadium on Tuesday (06), won the World Cup final for the 9th time.
 
-தென் ஆபிரிக்காவினால் நிர்ணயிக்கப்பட்ட 248 ஓட்டங்களை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய இந்தியா 7 பந்துகள் மீதம் இருக்க 8 விக்கெட்களை இழந்து குறிப்பிட்ட வெற்றி இலக்கை அடைந்தது.
+In response to 248 runs for South Africa, India reached the target by losing 8 wickets for 7 balls.
 
-15ஆவது உலகக் கிண்ண அத்தியாயத்தில் தனது முன்னைய 5 போட்டிகளிலும் முதலில் துடுப்பெடுத்தாடி இலகுவான வெற்றிகளை ஈட்டிய இந்தியா, அரை இறுதியில் இரண்டாவதாகத் துடுப்பெடுத்தாடி வெற்றி இலக்கை அடைவதற்கு முன்னர் சிறு தடுமாற்றத்தை எதிர்கொண்டது.
+In the 15th World Cup chapter, India, who first played in its earlier five matches and scored light successes, faced a minor stumbling block before winning the second half.
 
-12ஆவது ஓவரில் இந்தியாவின் மொத்த எண்ணிக்கை 32 ஓட்டங்களாக இருந்தபோது  இந்தியாவின் 4ஆவது விக்கெட் வீழ்த்தப்பட்டது.
+India's 4th wicket took place when India's total number was 32 runs in the 12th over.
 
-ஆரம்ப வீரர் ஆதர்ஷ் சிங் ஓட்டம் பெறாமலும் இதற்கு முன்னர் 2 சதங்களைக் குவித்த முஷீர் கான் 4 ஓட்டங்களுடனும் அர்ஷின் குல்கர்னி 12 ஓட்டங்களுடனும் ப்ரியன்ஷு மோலியா 5 ஒட்டங்களுடனும் ஆட்டம் இழந்தனர்.
+Mushir Khan, who had previously scored 2 centuries, scored 4 runs, Arshin Kulkarni 12 runs and Briyanshu Molia with 5 runs.
+
+Triston Loose also took the next 3 wickets to beat Kivena Mafaka with the first wicket.
+
+With the first four wickets fell to the total number, it was suspicious that South Africa would end the victory of India.
+
+However, team captain Saharan and Sachin Das played the most efficiently batsman and shared 171 runs in the 5th wicket.
 
 ...
 
 [Data](articles/4eed95f4.json)
 
+[Extended Data](ext_articles/4eed95f4.ext.json)
+
 ---
 
-### சமூக மாற்றத்தை ஏற்படுத்துகின்ற வரலாற்றுப் பயணத்திற்காகவே நாங்கள் ஒன்றுசேர்ந்துள்ளோம் - ஹரினி அமரசூரிய
+### We have come together for the historical journey of social change - Harini Amarasuriya
 
 *2024-02-07 01:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/175747) · `ta`
 
-சமூக மாற்றத்தை ஏற்படுத்துகின்ற வரலாற்றுப் பயணத்திற்காகவே நாங்கள் ஒன்றுசேர்ந்துள்ளோமென தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினரும் பாராளுமன்ற உறுப்பினருமான கலாநிதி ஹரினி அமரசூரிய தெரிவித்தார்.
+Dr. Harini Amarasuriya, a member of the National People's Power and Member of Parliament, said that we have come together for the historical journey of social change.
 
-அண்மையில் பொலநறுவையில் இடம்பெற்ற "பெண்களாகிய நாங்கள் ஒரே முச்சுடன்" என்ற தேசிய மக்கள் சக்தியின் பெண்கள் மாநாட்டில் கலந்துகொண்டு உரையாற்றுகையிலேயே ஹரினி அமரசூரிய மேற்கண்டவாறு தெரிவித்தார்.
+Harini Amarasuriya said this while addressing the women's conference of the National People's Power, "We are the only women with women" in Polonnaruwa.
 
-இலங்கையின் தென் மாகாணத்திலிருந்து ஆரம்பித்து முழுநாட்டையும் உலுக்கிய பெண்களின் பலம் இன்று புலதிசிபுரத்திற்கும் வந்துள்ளது. இன்று முழு நாடும் மாத்திரமல்ல முழு உலகுமே இந்த பெண்களையே பார்த்துக்கொண்டிருக்கிறது.  இது ஒரு தீர்வுக்கட்டமான தருணமாகும்.
+The strength of women who started from the Southern Province of Sri Lanka and rocked the entire country today. Today, the whole country is not only the whole world.This is a solution.
 
-சமூக மாற்றத்தை ஏற்படுத்துகின்ற வரலாற்றுப் பயணத்திற்காகவே நாங்கள் ஒன்று சேர்ந்துள்ளோம். எமது வரலாற்றினை புதிதாக எழுதுகின்ற பணியின் பங்காளிகளாக நீங்கள் மாறியுள்ளீர்கள். வரலாற்றில் பெண்களாகிய எங்களின் குரல் ஒடுக்கப்பட்டிருந்தது. எமது வரலாற்றினை எழுத எமக்கு  வாய்ப்பு இருக்கவில்லை.
+We have come together for a historical journey that causes social change. You have become partners of the task of writing our history. Our voice as women in history was oppressed. We have no chance to write our history.
+
+76 years after the country's independence, women still have no freedom. Today we are here to gain our freedom and use the bravery within us.
 
 ...
 
 [Data](articles/ecebe770.json)
 
+[Extended Data](ext_articles/ecebe770.ext.json)
+
 ---
 
-### வடமாகாண ஆளுநர் அலுவலகத்தை முற்றுகையிட்டு சாவல்கட்டு மீனவர்கள் போராட்டம் நடத்தினர்
+### Fishermen staged a protest against the governor's office in the Northern Province
 
 *2024-02-07 01:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175756) · `ta`
 
-சாவல்கட்டு கடற்கரையில் இறங்குதுறை அமைத்து, அந்த இறங்குதுறைக்கான பெயர்ப்பலகை நிறுவியதன் காரணமாக, இறங்கு துறையில் அமைக்கப்பட்டிருந்த பெயர்ப்பலகையினை மானிப்பாய் பிரதேச சபையினர் பொலிஸாருடன் இணைந்து, உடைத்து எறிந்து விட்டதாகவும், மீனவர்களின் வாழ்வாதாரத்தை அழிப்பதாகவும் குற்றஞ்சாட்டி, முற்றுகை போராட்டத்தை முன்னெடுத்தார்கள்.
+Due to the establishment of a landing field on the beach on the beach, the Manipay Pradeshiya Sabha, along with the Manipay Pradeshiya Sabha, has launched a siege, alleging that the landing field was set up and destroyed the livelihood of the fishermen.
 
-இந்த போராட்டத்தின் போது, யாழ் மாவட்ட செயலகத்தில் அரச அதிபரைச் சந்தித்து கலந்துரையாடினார். உள்ளுராட்சி திணைக்களம் சம்பந்தப்பட்டு மன்றத்தால், வட மாகாண ஆளுநரைச் சந்தித்து, கடற்றொழிலாளர்களின் அபிவிருத்தி செயற்திட்டங்களைத் தடுக்க வேண்டாம் என்று கோரிக்கை முன்வைத்ததுடன், அரச நிதியில் இறங்குதுறைமுகம் புனரமைப்பு செய்யவில்லை என்றும் மீனவர்களின் சிறு நிதியில் இறங்குதுறைமுகம் புனரமைப்பு செய்ததாகவும், பிடுங்கி எரிந்த பெயர்ப்பலகையை அதே இடத்தில் அமைக்க நடவடிக்கை எடுக்க வேண்டும் என்று கோரிக்கை முன்வைத்து, முற்றுகை போராட்டத்தை முன்னெடுத்தார்கள்.
+During this struggle, he met with the Government Agent at the Jaffna District Secretariat. The Local Government Department has met the Governor of the Northern Province and demanded that the fishermen not to prevent the development projects of the fishermen, and that the state fund has not been reconstructed and the reconstruction of the fishermen's small funds, and the siege should be set up in the same place.
 
 ◼️
 
 [Data](articles/2eaaf455.json)
 
+[Extended Data](ext_articles/2eaaf455.ext.json)
+
 ---
 
-### மூன்றாம் கட்ட கடன் தொகை நாணய நிதியம் தீர்மானிக்கும் காலத்திலேயே கிடைக்கும் - அமைச்சர் பந்துல குணவர்தன
+### The third phase of the loan will be available at the time of the Monetary Fund - Minister Bandula Gunawardena
 
 *2024-02-07 01:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175755) · `ta`
 
-அரசாங்கத்தின் தேவையான நேரத்தில் நாணய நிதியத்திடமிருந்து கடனுதவிகளைப் பெற்றுக் கொள்ள முடியாது. எனவே மூன்றாம் கட்ட கடன் தொகை நாணய நிதியம் தீர்மானிக்கும் காலத்திலேயே வழங்கப்படும் என அமைச்சரவை பேச்சாளர் அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+Could not receive loans from the Currency Fund at the time of the government. Cabinet spokesman Minister Bandula Gunawardena said that the third phase of the loan will be paid at the time of the Monetary Fund.
 
-வாராந்த அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் மாநாடு  செவ்வாய்க்கிழமை (6) இடம்பெற்ற போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+He further stated that the weekly cabinet decisions were held when the press conference was held on Tuesday (6).
 
-சர்வதேச நாணய நிதியத்திடமிருந்து இரு கட்ட கடன் தொகைகள் கிடைத்துள்ளன. மூன்றாம் கட்ட கடன் தொகையைப் பெற்றுக் கொள்ள வேண்டியுள்ளது. இவ்வாறு கடன் தொகைகளை எமக்கு தேவையான நேரத்தில் நாணய நிதியம் வழங்காது. அவர்களால் திட்டமிடப்பட்டுள்ள நேர அட்டவணைக்கமையவே வழங்கும்.
+Have received two -phase loans from the International Monetary Fund. The third phase is to be obtained. Thus the loan amount does not provide the currency fund when we need. They will be provided with the schedule scheduled by them.
 
-வரவு மற்றும் செலவுக்கிடையிலான இடைவெளியை நிரப்புவதற்காக ஆசிய அபிவிருத்தி வங்கி, உலக வங்கி என்பவற்றிடமிருந்து நிதியுதவிகள் எதிர்பார்க்கப்படுகின்றன. 2027இல் எமது அந்நிய செலாவணி இருப்பு 14 பில்லியன் டொலர்களாக அதிகரிக்கப்பட்டிருக்க வேண்டும் என்பது நாணய நிதியத்துடன் ஏற்படுத்திக் கொள்ளப்பட்டுள்ள இணக்கப்பாடாகும்.
+Financial assistance is expected from the Asian Development Bank and the World Bank to fill the budget between the budget and. It is a compliance with the Monetary Fund that our foreign exchange reserve has been increased by $ 14 billion in 2027.
 
 ...
 
 [Data](articles/cd108f1f.json)
 
+[Extended Data](ext_articles/cd108f1f.ext.json)
+
 ---
 
-### புதுப்பிக்கத்தக்க வலுசக்தி மூலம் மருத்துவமனைகளுக்கு மின்சாரத்தை வழங்க ஜப்பானிடமிருந்து 2.8 பில்லியன் ரூபா நிதியுதவி
+### 2.8 billion rupees from Japan to supply electricity to hospitals with renewable power
 
 *2024-02-07 00:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175754) · `ta`
 
-புதுப்பிக்கத்தக்க வலுசக்தி பாவனை மூலம் இலங்கை மருத்துவமனைகளில் வலுசக்தி வழங்கலை உறுதிப்படுத்தும் கருத்திட்டத்துக்கான ஜப்பான் உதவவுள்ளது.
+Japan will help the project to ensure the supply of power in Sri Lankan hospitals with renewable strength.
 
-ஸ்ரீ ஜயவர்த்தனபுர பொது மருத்துவமனை, குருநாகல் போதனா மருத்துவமனை மற்றும் இரத்தினபுரி போதனா மருத்துவமனை ஆகிய மருத்துவமனைகளில் சூரிய மின்சக்தி உற்பத்தி கட்டமைப்புகளை நிறுவுதல் மூலம் மின்சார வசதிகளை வழங்குவதற்காக ஜப்பான் சர்வதேச ஒத்துழைப்பு முகவரகம் ஊடாக 1230 மில்லியன் ஜப்பானிய யென் கருத்திட்ட உதவியாக (ஏறத்தாழ 2.8 பில்லியன் ரூபாய்கள்) வழங்குவதற்கு ஜப்பான் அரசு உடன்பாடு தெரிவித்துள்ளது.
+The Government of Japan has agreed to provide the Japanese Yen project through the Japanese International Cooperation Agency (approximately 2.8 billion rupees) through the Japanese International Cooperation Agency to provide electricity facilities through the establishment of solar power generations at Sri Jayawardenapura General Hospital, Kurunegala Teaching Hospital and Ratnapura Teaching Hospital.
 
-சுகாதார துறையில் புதுப்பிக்கத்தக்கப்படாத வலுசக்தி பாவனையைக் குறைத்தல், சுகாதார சேவைகள் பிரிவின் ஒட்டுமொத்த  வினைத்திறனை அதிகரித்தல் மற்றும் பேண்தகு அபிவிருத்தியை மேம்படுத்துதல் இக்கருத்திட்டத்தின் நோக்கமாக அமைகின்றது.
+The aim of this project is to reduce the use of unintended strength in the health sector, increase the overall efficiency of the health services division and improve the development of peculiarity.
 
-அதற்கமைய, குறித்த கருத்திட்டங்களை அமுல்படுத்துதல் தொடர்பாக நிதி, பொருளாதார உறுதிப்பாடு மற்றும் தேசிய கொள்கைகள் அமைச்சராக  ஜனாதிபதி  சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+Accordingly, the Cabinet has approved the proposal submitted by the President as Minister of Finance, Economic Stability and National Policies on the implementation of the projects.
 
 ◼️
 
 [Data](articles/23a90de3.json)
 
+[Extended Data](ext_articles/23a90de3.ext.json)
+
 ---
 
-### ஜனாதிபதியின் கொள்கை உரைக்குச் சபைக்குள் கடும் எதிர்ப்பை வெளிப்படுத்துவோம் - உதய கம்மன்பில
+### We will express fierce opposition to the president's policy speech - Udaya Kammanpila
 
 *2024-02-07 00:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/175753) · `ta`
 
-நாட்டு மக்களுக்கு நகைச்சுவை காண்பிப்பதில் ஜனாதிபதி தலைமைத்துவம் வழங்குகிறார். ஜனாதிபதியின் கொள்கை உரைக்கு இன்று சபைக்குள் கடும் எதிர்ப்பை வெளிப்படுத்துவோம் என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+President presents leadership in showing humor people. Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya (JHU) and Member of Parliament, said that the president's policy speech will be expressed.
 
-கொழும்பில் உள்ள பிவிதுரு ஹெல உறுமய கட்சியின் காரியாலயத்தில் செவ்வாய்க்கிழமை (6) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+He made this statement during a media briefing held at the Bivithuru Hela Urumaya (JHU) office in Colombo on Tuesday (6).
 
-எதிர்கால பரம்பரையை கருத்திற் கொள்ளாமல் வரப்பிரசாதங்களை மாத்திரம் கவனத்திற் கொண்டு தேர்தலில் தீர்மானம் எடுக்கும் தரப்பினர் இருக்கும் வரை இந்த நாட்டை ஒருபோதும் முன்னேற்ற முடியாது. உரித்து செயற்திட்டத்தின் ஊடாக காணி உறுதிப்பத்திரம் வழங்கியுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க பெருமை கொள்கிறார்.
+This country can never improve as long as there is a decision in the election, without considering the future of the future.. President Ranil Wickremesinghe boasts that the land certificate has been issued through the Urithi project.
 
-இந்த ஆண்டு இடம்பெறவுள்ள ஜனாதிபதி தேர்தலை இலக்காகக் கொண்டு ஜனாதிபதி செயற்படுகிறார். இந்த காணி உறுதிப்பத்திரம் வழங்கல் எந்தளவுக்கு உண்மையானது என்பது சந்தேகத்துக்குரியது.ஏனெனில் போலியான வாக்குறுதிகளை உண்மை போல் குறிப்பிடுவதில் ஜனாதிபதி திறமையானவர்.
+The president is working on the presidential election this year. It is doubtful how true this land certification is, because the president is talented in referring to the fake promises.
+
+If people like Keheliya Rambukwella should not be appointed as the Minister of Health in the future, the National Pharmacy Control Authority should be free from the Ministry of Health and act as an independent authority.
 
 ...
 
 [Data](articles/fdc9b2aa.json)
+
+[Extended Data](ext_articles/fdc9b2aa.ext.json)
 
 ---
 
@@ -242,19 +268,23 @@ Accordingly, the 2023-2030 Sendai Action Plan has been prepared in compliance wi
 
 ---
 
-### எட்கா ஒப்பந்தம் கைச்சாத்திடப்பட்டால் இலங்கை இந்தியாவின் கொலனியாகும்; நாட்டு மக்கள் ஒன்றிணைந்து எதிர்க்க வேண்டும் - விமல் வீரவன்ச
+### Sri Lanka is India's colony if the Edka Agreement is signed;The people of the country should unite and oppose - Wimal Weerawansa
 
 *2024-02-07 00:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175752) · `ta`
 
-பொருளாதார நெருக்கடியிலிருந்து மீள்வதற்கு ஒத்துழைப்பு வழங்குவதாகக் குறிப்பிட்டுக் கொண்டு இலங்கையில் ஆதிக்கம் செலுத்த இந்தியா பல்வேறு வழிகளில் முயற்சிக்கிறது. எட்கா ஒப்பந்தம் கைச்சாத்திடப்பட்டால் இலங்கை இந்தியாவின் கொலனியாக மாற்றமடையும். நேபாளத்தில் கதியே ஏற்படும்.நாட்டு மக்கள் ஒன்றிணைந்து எதிர்ப்பு தெரிவிக்க வேண்டும் என தேசிய சுதந்திர முன்னணியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான விமல் வீரவன்ச தெரிவித்தார்.
+India is trying to dominate Sri Lanka in various ways. Sri Lanka will be transformed into a colony of India if the Edka Agreement is signed. National Freedom Front leader and Member of Parliament Wimal Weerawansa said that the people of the country should unite and protest.
 
-கொழும்பில் உள்ள தேசிய சுதந்திர முன்னணியின் காரியாலயத்தில் செவ்வாய்க்கிழமை (06) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking at a media briefing held at the National Freedom Front office in Colombo on Tuesday (06).
 
-இலங்கைக்கும் இந்தியாவுக்குமிடையில் எட்கா ஒப்பந்தத்தைக் கைச்சாத்திட அரசாங்கம் துரித நடவடிக்கைகளை முன்னெடுத்துள்ளது. ஜனாதிபதி ரணில் விக்கிரமசிங்க பல்வேறு நாடுகளுடன் அரசியல் மற்றும் பொருளாதார ஒப்பந்தங்களைக் கைச்சாத்திடுவதற்காகப் பிரத்தியேக அதிகாரி ஒருவர் நியமிக்கப்பட்டு விசேட அலுவலகம் ஒன்று அமைக்கப்பட்டுள்ளது.
+The government has taken swift measures to sign the Edka Agreement between Sri Lanka and India. President Ranil Wickremesinghe has been appointed as an exclusive official to sign political and economic agreements with various countries.
+
+Negotiations have been carried out between this exclusive officer and India. Therefore, the Etsa contract will be signed between the two countries soon. The signing of the agreement has not been a success in the past as there are fierce opposition among the people and the political level against the Edka deal.
 
 ...
 
 [Data](articles/308b0b61.json)
+
+[Extended Data](ext_articles/308b0b61.ext.json)
 
 ---
 

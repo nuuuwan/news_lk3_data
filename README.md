@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 15:02:21**
+As of **2024-02-06 15:17:29**
 
 ## Newspaper Stats
 
-*Scraped **5,162** Articles*
+*Scraped **5,164** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,66 @@ adalk | 440
 virakesarilk | 607
 adaderanalk | 638
 tamilmirrorlk | 651
-adaderanasinhalalk | 670
+adaderanasinhalalk | 672
 dailymirrorlk | 733
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,158 (99.9%) of 5,162 articles have been extended.
+5,162 (100.0%) of 5,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
 
-### மூதூர் இந்து இளைஞர் மன்றத்தின் காணியினுள் சட்டத்திற்கு முரணான வகையில் கட்டுமானங்கள்
+### කෙහෙළිය ඉල්ලා අස්වෙයි
+
+*2024-02-06 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193045) · `si`
+
+පරිසර අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා සිය ඉල්ලා අස්වීමේ ලිපිය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට යොමුකර තිබේ.
+
+◼️
+
+[Data](articles/d4eb6bca.json)
+
+---
+
+### මාර්තු මස 21 ගැන දැනුම්දීමක්
+
+*2024-02-06 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193044) · `si`
+
+මාර්තු මස 21වන දින ජාතික නාවිකයින්ගේ දිනය ලෙස ප්‍රකාශයට පත් කර තිබේ.
+
+වරාය, නාවික හා ගුවන් සේවා අමාත්‍යවරයා විසින් ඉදිරිපත් කළ යෝජනාවකට අනුව ඒ සඳහා කැබිනට් මණ්ඩල අනුමැතිය ලැබී ඇති බව වාර්තා වෙයි.
+
+මෙරට දේශීය ආර්ථිකයට නාවිකයින් දක්වන දායකත්වය ඇගයීම සහ නාවික වෘත්තීය සඳහා උනන්දුවක් දක්වන්නන් ආකර්ෂණය කරගැනීම මෙමගින් අරමුණ වී තිබේ.
+
+ඒ අනුව සෑම වර්ෂයකම මාර්තු මස 21වන දින ජාතික නාවිකයින්ගේ දිනය ලෙස ප්‍රකාශයට පත් කිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය ලබාදී ඇති බව සඳහන් ය.
+
+◼️
+
+[Data](articles/9733a73d.json)
+
+---
+
+### Muttur Hindu Youth Forum
 
 *2024-02-06 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175713) · `ta`
 
-மூதூர் இந்து இளைஞர் மன்றத்தின் காணியினுள் பொலிஸாரின் உத்தரவையும் மீறி சட்டத்திற்கு முரணான வகையில் கட்டுமானங்கள் மேற்கொள்ளப்பட்டு வருவதாக மன்றத்தின் போசகர் பொ.சச்சிவானந்தம் தெரிவித்தார்.
+The council of the forum said that the construction of the Muttur Hindu Youth Forum is being carried out in contrast to the law of the police.
 
-மூதூர் ஜாயா நகர் கிராம சேவகர் பிரிவில், மணிக்கூட்டுக் கோபுரத்தில் இருந்து 100 மீட்டர்  தொலைவில் உள்ள குறித்த காணியானது நீண்டகாலமாக இந்து இளைஞர் மன்றத்தினால் பராமரிக்கப்பட்டு வருகின்றது. மன்றத்திற்கு சொந்தமான குறித்த காணியை சிலர் பொய்யான ஆவணங்களை தயாரித்து அபகரிக்க முயல்கின்றார்கள் இது தொடர்பாக மூதூர் பொலிஸ் நிலையத்திலும், திருகோணமலை விசேட குற்றப்புலனாய்வுப் பிரிவிலும் முறைப்பாடுகள் மேற்கொள்ளப்பட்டுள்ளன.
+In the Muttur Jaya Nagar Grama Niladhari Division, the land, which is 100 meters from the bell tower, has been maintained by the Hindu Youth Forum for a long time.. Some people are trying to prepare and extort the land owned by the forum.
 
-குறித்த காணி அபகரிப்பு தொடர்பாக திருகோணமலை பிரதிப் பொலிஸ்மா அதிபரிடம் முறையிட்டதைத் தொடர்ந்து கடந்த மாதம் 10 ஆம் திகதி குறித்த தரப்பினர் உட்பட, முறைப்பாட்டாளர்களையும் மூதூர் பொலிஸ் உத்தியோகத்தர்களையும் அழைத்து விசாரணை இடம்பெற்றது.
+Following the appeal of the Trincomalee Deputy Inspector General of Police regarding the land grabbing, the inquiry was taken up by the Muttur police officers, including the parties on the 10th of last month.
+
+At this time, the Inspector General of Police, who visited the documents, warned the persons involved not to enter the land and made a complaint at the Special Criminal Investigation Division.. The Special Criminal Investigation Division has also lodged a complaint on the 26th of last month.
 
 ...
 
 [Data](articles/6d3ad2cc.json)
+
+[Extended Data](ext_articles/6d3ad2cc.ext.json)
 
 ---
 
@@ -67,6 +101,8 @@ Their bodies have been placed at the mortuary of the Dambulla Hospital.
 ...
 
 [Data](articles/6d9ba8b8.json)
+
+[Extended Data](ext_articles/6d9ba8b8.ext.json)
 
 ---
 
@@ -146,21 +182,29 @@ Sri Lanka’s official reserves stood at $4.4 billion at the end of 2023, an inc
 
 [Data](articles/90764035.json)
 
+[Extended Data](ext_articles/90764035.ext.json)
+
 ---
 
-### யாழ். பல்கலைக்கழக மாணவன்: பொலிஸார் அதிர்ச்சி தகவல்
+### Yall. University student: Police shock information
 
 *2024-02-06 13:38:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-பல்கலைக்கழக-மாணவன்-பொலிஸார்-அதிர்ச்சி-தகவல்/71-332761) · `ta`
 
-வட்டுக்கோட்டை பொலிஸார் தன்னை சித்திரவதை புரிந்ததாக மனிதவுரிமை ஆணைக்குழுவில் முறைப்பாடு செய்த யாழ்.  பல்கலை கழக மாணவன் போதைக்கு அடிமையானவர் என பொலிஸார் தெரிவித்துள்ளனர்.
+Vaddukoddai police have lodged a complaint with the Human Rights Commission that he has tortured him.The university student is addicted to drugs, police said.
 
-வட்டுக்கோட்டை பகுதியில் வீதியில் மோட்டார் சைக்கிளில் சென்ற தன்னை பொலிஸ் உத்தியோகஸ்தர்கள் வழிமறித்து போக்குவரத்து விதிமீறலில் ஈடுபட்டதாக கூறி வீதியில் வைத்து தாக்கியதாகவும் , பின்னர் பொலிஸ் நிலையம் கொண்டு சென்று அறை ஒன்றில் வைத்து தன்னை தாக்கியதாகவும் மனிதவுரிமை ஆணைக்குழுவின் யாழ்.பிராந்திய அலுவலகத்தில் நேற்றைய தினம் திங்கட்கிழமை முறைப்பாடு செய்திருந்தார்.
+He had lodged a complaint at the Jaffna Regional Office of the Human Rights Commission yesterday that he was attacked by police officers on a motorcycle on the road in Vaddukoddai and assaulted him on the road and later attacked him in a room.
 
-இந்நிலையில் , வட்டுக்கோட்டை பகுதியில் உள்ள பாடசாலை ஒன்றின் முன்பாக மிக வேகமாக மோட்டார் சைக்கிளை செலுத்தியமை , ஆசியர்கள் மாணவர்களுக்கு இடையூறு ஏற்படுத்தி , அவர்களுக்கு ஆபத்து விளைவிக்கும் வகையில் மோட்டார் சைக்கிள் செலுத்தியமை உள்ளிட்ட குற்றச்சாட்டுகளுக்காகவே இளைஞனை பொலிஸார் மறித்ததாகவும் , அதன் போதே இளைஞன் பொலிஸாருடன் தர்க்கப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+In this case, police said that the young man had been smashed with the police for allegations of the speeding motorcycle in front of a school in Vaddukoddai, the Asians disrupted the students and the motorcycle.
 
-...
+Based on the investigation by the police, the youth is addicted to drugs, and the school teachers have instructed the Vaddukoddai police officer in charge of the Vaddukoddai Police Station.
+
+Following this, the Vaddukoddai police are conducting investigations to arrest the youth and seek court.R
+
+◼️
 
 [Data](articles/67e43cf9.json)
+
+[Extended Data](ext_articles/67e43cf9.ext.json)
 
 ---
 
@@ -2039,39 +2083,5 @@ The palace said a separate issue of concern had been spotted during that hospita
 [Data](articles/a1429010.json)
 
 [Extended Data](ext_articles/a1429010.ext.json)
-
----
-
-### 14 months -long baby in Jaffna
-
-*2024-02-06 06:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175670) · `ta`
-
-The death of a 14 -month -old child in Jaffna on Monday (5). The death of Raghuram Chandra, a resident of Chavakachcheri - Ithiyadi area.
-
-The baby was suffering from fever for two days. The child was admitted to the Jaffna Teaching Hospital on Monday (5) at 8 am. However, the baby died at 1 pm on Monday (5) without treatment.
-
-Namasivayam Premkumar carried out a death investigation into the death of the child. The body was handed over to relatives after anatomical examination.
-
-◼️
-
-[Data](articles/ed9d8f59.json)
-
-[Extended Data](ext_articles/ed9d8f59.ext.json)
-
----
-
-### Yall. Vadamarachchi turtles in the eastern seas of Vadamarachchi
-
-*2024-02-06 06:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175669) · `ta`
-
-Some of the turtles have been hit by the recent death of the Jaffna -Vadamarachchi eastern coast.
-
-Fishermen in the area said that the turtles that were injured due to the turbulence of sea turbulence.
-
-◼️
-
-[Data](articles/29c26198.json)
-
-[Extended Data](ext_articles/29c26198.ext.json)
 
 ---

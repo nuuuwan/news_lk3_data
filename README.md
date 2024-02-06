@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 17:02:19**
+As of **2024-02-06 17:17:29**
 
 ## Newspaper Stats
 
-*Scraped **5,191** Articles*
+*Scraped **5,194** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,48 @@ dailyftlk | 290
 newsfirstlk | 321
 adalk | 443
 virakesarilk | 613
-adaderanalk | 643
+adaderanalk | 644
 tamilmirrorlk | 653
 adaderanasinhalalk | 673
-dailymirrorlk | 738
+dailymirrorlk | 740
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,187 (99.9%) of 5,191 articles have been extended.
+5,191 (99.9%) of 5,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### Sony World Photography Awards 2024
+
+*2024-02-06 16:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sony-World-Photography-Awards-2024/110-276433) · `en`
+
+These are some of the scenes captured by stunning winning and shortlisted National and Regional entries in the Sony World Photography Awards 2024.
+
+The renowned contest runs several competitions each year with more than 395,000 submissions from more than 220 countries pouring in for 2024.
+
+The overall champions in the Student, Youth, Open and Professional competitions will be announced on April 18 and their work will go on display at London 's Somerset House from April 19 to May 6. (Daily Mail)
+
+◼️
+
+[Data](articles/af55a846.json)
+
+---
+
+### Gazette issued confirming Keheliya’s resignation
+
+*2024-02-06 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97052/gazette-issued-confirming-keheliyas-resignation-) · `en`
+
+A gazette notification has been issued confirming the resignation of Environment Minister Keheliya Rambukwella who was arrested last week over his alleged complicity in the substandard human immunoglobulin procurement scandal.
+
+◼️
+
+[Data](articles/9a197ab2.json)
+
+---
 
 ### Sri Lanka to import 15,000 tonnes of cashew nuts in shell
 
@@ -46,17 +74,39 @@ However, currently only 12,500 tonnes of cashew nuts can be procured locally and
 
 [Data](articles/7db992ba.json)
 
+[Extended Data](ext_articles/7db992ba.ext.json)
+
 ---
 
-### நிகழ்நிலைக் காப்பு சட்டமூலம் தொடர்பில் பொதுமக்களைத் தெளிவுபடுத்தும் சபாநாயகர் அலுவலகம்
+### Speaker's Office to clarify public
 
 *2024-02-06 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175729) · `ta`
 
-2024 ஆம் ஆண்டின் 9 ஆம் இலக்க நிகழ்நிலைக் காப்பு சட்டமூலம் நிறைவேற்றப்பட்டு அதனைத் தொடர்ந்து அச்சட்டம் இயற்றப்பட்டமை தொடர்பான தவறான தகவல்களைத் திருத்தி உண்மையினைத் தெளிவுபடுத்துவதற்காகப் பொதுமக்களின் நலன் கருதி இந்த அறிக்கை வெளியிடப்படுகின்றது. பொதுமக்கள் அறிந்து கொள்வதற்காகவும் அவர்கள் ஏமாற்றப்படுவதைத் தடுப்பதற்காகவும் சட்டமியற்றல் செயன்முறை ஆரம்பத்தில் இருந்து  விளக்கப்படுகின்றது.
+The report is published in the interest of the public in order to revise and clarify the fact that the Ceremony Building Bill of 2024 was passed and subsequently passed by the Act.. The legislative process is explained from the beginning to learn the public and prevent them from being cheated.
+
+When a bill is presented in Parliament, Article 121 of the Constitution has the opportunity to challenge the Supreme Court in accordance with Article 121 of the Constitution.. According to the provisions of the Constitution, the Supreme Court considers them and the relevant verdict is submitted to the Speaker within three weeks. Subsequently, the Speaker must declare the relevant decision on the first day of the next parliamentary session and ordered that a complete verdict be issued in the Hansat Power Report for the day.
 
 ...
 
 [Data](articles/faa17563.json)
+
+[Extended Data](ext_articles/faa17563.ext.json)
+
+---
+
+### Keheliya’s resignation confirmed via Gazette
+
+*2024-02-06 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliyas-resignation-confirmed-via-Gazette/108-276436) · `en`
+
+Colombo, Feb 05 (Daily Mirror) -  The gazette notification on the resignation of Minister of Environment Keheliya Rambukwella has been issued.
+
+According to the gazette, Rambukwella resigned his office as the Minister of Environment with effect from February 03, 2024.
+
+Keheliya Rambukwella who is in prison tendered his resignation from the position of Environment Minister to President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/127dc411.json)
 
 ---
 
@@ -74,23 +124,29 @@ Further, it was observed that the funds required for conducting Provincial Counc
 
 [Data](articles/900a7f67.json)
 
+[Extended Data](ext_articles/900a7f67.ext.json)
+
 ---
 
-### ஒன்பதாவது பாராளுமன்றத்தின் ஐந்தாவது கூட்டத்தொடர் ஜனாதிபதி தலைமையில் நாளை ஆரம்பித்து வைப்பதற்கான சகல ஏற்பாடுகளும் பூர்த்தி
+### The fifth session of the ninth parliament will be fulfilled by the President of the President tomorrow
 
 *2024-02-06 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175726) · `ta`
 
-ஒன்பதாவது பாராளுமன்றத்தின் ஐந்தாவது கூட்டத்தொடர் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தலைமையில் நாளை செவ்வாய்க்கிழமை (07) வைபவரீதியாக ஆரம்பித்துவைக்கப்படவுள்ளது. இது தொடர்பான ஒத்திகை பாராளுமன்ற வளாகத்தில் இன்று (06) நடைபெற்றதுடன், தேவி பாளிகா கல்லூரி மாணவியர் உள்ளிட்ட பலர் இந்த ஒத்திகையில் பங்கேற்றனர்.
+The fifth session of the ninth parliament will be inaugurated tomorrow (07) under the leadership of President Ranil Wickremesinghe.. The rehearsal was held at the Parliamentary Complex today (06) and many others, including the Devi Palika College student, participated in the rehearsal.
 
-அரசியலமைப்பின் 33வது உறுப்புரையில் வழங்கப்பட்டுள்ள அதிகாரத்துக்கு அமைய ஜனாதிபதி கௌரவ ரணில் விக்ரமசிங்க அவர்கள் நாளைய தினம் மு.ப 10.30 மணிக்கு பாராளுமன்றத்தில் அரசாங்கத்தின் கொள்கைப் பிரகடனத்தை முன்வைக்கவுள்ளார்.
+President Ranil Wickremesinghe will present the Government's Policy Declaration in Parliament at 10.30 am tomorrow.
 
-ஜனாதிபதி பாராளுமன்றத்துக்கு வருகைதரும் நிகழ்வை மிகவும் எளிமையான முறையில் நடத்துமாறு அவர் வழங்கிய ஆலோசனைக்கு அமைய நடவடிக்கை எடுக்கப்பட்டிருப்பதாகவும், இதற்கமைய மரியாதை வேட்டுக்கள் தீர்த்தல் மற்றும் வாகனத் தொடரணி என்பன இடம்பெறாது என பாராளுமன்ற படைக்கலச் சேவிதர் குஷான் ஜயரத்ன தெரிவித்தார்.
+Parliamentary Service Service Kushan Jayaratne said that the President has taken steps to hold the event to Parliament in a very simple way.
 
-விருந்தினர்கள் நாளையதினம் மு.ப 09.45 மணிக்குள் தங்கள் இருக்கைகளில் அமருமாறு கோரப்பட்டிருப்பதாக அவர் குறிப்பிட்டார்.
+He said the guests were asked to sit in their seats at 09.45 pm tomorrow.
+
+Following the arrival of Speaker Mahinda Yapa Abeywardena and his Barians, the arrival of Prime Minister Dinesh Gunawardena will be followed by President Ranil Wickremesinghe and the first woman.
 
 ...
 
 [Data](articles/1ee5e22d.json)
+
+[Extended Data](ext_articles/1ee5e22d.ext.json)
 
 ---
 
@@ -1903,69 +1959,5 @@ Meanwhile, a public defense ministry official said that the new amendments to th
 [Data](articles/39ab22ab.json)
 
 [Extended Data](ext_articles/39ab22ab.ext.json)
-
----
-
-### Fifth Session of Ninth Parliament to be declared open tomorrow
-
-*2024-02-06 10:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97035/fifth-session-of-ninth-parliament-to-be-declared-open-tomorrow) · `en`
-
-The Fifth Session of the Ninth Parliament will be ceremonially declared open by President Ranil Wickremesinghe tomorrow (Feb.07).
-
-This was communicated by the Legislative Services Department of the Parliament last week, while announcing the business of the House of Parliament for the first sitting week of February 2024, as decided by political party leaders.
-
-Sri Lanka Parliament was prorogued with effect from midnight on 26 January, marking the closure of the Fourth Session of the Ninth Parliament. The prorogation was announced via a proclamation published in the government gazette by virtue of the powers vested in the President by Article 70 of the Constitution.
-
-When a new session kicks off, the President has the opportunity preside over the ceremonial opening of the Parliament and to present the government’s policy statement. In the past, the policy statement was referred to as the Throne Speech and was presented by the Governor.
-
-...
-
-[Data](articles/8a541597.json)
-
-[Extended Data](ext_articles/8a541597.ext.json)
-
----
-
-### Shanaka dropped, Chamika included
-
-*2024-02-06 10:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shanaka-dropped-Chamika-included/108-276406) · `en`
-
-Colombo, Feb. 6 (Daily Mirror) - The Sri Lanka Cricket Selection Committee has selected a 16-member squad for the upcoming three-match One Day International (ODI) series against Afghanistan.
-
-Former captain Dasun Shanaka has been excluded from the squad, likely to be rested for the series, reliable sources told Daily Mirror.
-
-All-rounder Chamika Karunaratne, who missed the recent Zimbabwe series, has been included in the squad, enhancing both the batting and bowling line-up.
-
-Except for Dasun's exclusion and Chamika's return, there won't be many major changes in the ODI squad against Afghanistan compared to the squad named for the Zimbabwe series.
-
-The ODI series is scheduled to commence on February 9th in Pallekele.
-
-Shanaka, who has struggled with form for nearly a year, was stripped of the captaincy after the ODI World Cup, where Sri Lanka failed to finish in the top eight, missing out on the Champions Trophy 2025.
-
-...
-
-[Data](articles/c9761735.json)
-
-[Extended Data](ext_articles/c9761735.ext.json)
-
----
-
-### Hundreds of people still missing as Chile’s wildfire death toll reaches 122
-
-*2024-02-06 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97034/hundreds-of-people-still-missing-as-chiles-wildfire-death-toll-reaches-122) · `en`
-
-Volunteers in central Chile tried to remove charred metal, broken glass and other debris Monday from neighborhoods devastated by wildfires over the past several days, as officials raised the death toll to 122. Hundreds of people remain missing.
-
-The fires appeared to have diminished by Monday morning after burning intensely since Friday on the eastern edge of the city of Viña del Mar. Two other towns in the Valparaíso region, Quilpé and Villa Alemana, also have been hit hard, and President Gabriel Boric said Sunday that at least 3,000 homes had been burnt down in the area.
-
-An additional 10 victims were added to the death toll on Monday afternoon, bringing it to 122, said Marisol Prado, the director of Chile’s Forensic Medical Service.
-
-Prado said that many bodies were in bad condition and difficult to identify, but added that forensic workers would be taking samples of genetic material from people who have reported missing relatives.
-
-...
-
-[Data](articles/a348cb61.json)
-
-[Extended Data](ext_articles/a348cb61.ext.json)
 
 ---

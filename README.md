@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 20:02:22**
+As of **2024-02-06 20:17:10**
 
 ## Newspaper Stats
 
-*Scraped **5,240** Articles*
+*Scraped **5,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ economynextcom | 278
 islandlk | 278
 dailyftlk | 290
 newsfirstlk | 326
-adalk | 448
+adalk | 449
 virakesarilk | 618
 adaderanalk | 651
 tamilmirrorlk | 656
-adaderanasinhalalk | 678
+adaderanasinhalalk | 679
 dailymirrorlk | 743
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,239 (100.0%) of 5,240 articles have been extended.
+5,240 (100.0%) of 5,242 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Blinken arrived in Egypt after a stop in Saudi Arabia, and then departed for Qat
 ...
 
 [Data](articles/aa26b862.json)
+
+[Extended Data](ext_articles/aa26b862.ext.json)
 
 ---
 
@@ -207,6 +209,44 @@ He further said that the Sampur Power Project was an example of the loss faced b
 [Data](articles/e3ffa789.json)
 
 [Extended Data](ext_articles/e3ffa789.ext.json)
+
+---
+
+### සෞඛ්‍ය සේවකයින්ගේ වර්ජන ක්‍රියාමාර්ගය සතියකින් කල්යයි
+
+*2024-02-06 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193053) · `si`
+
+සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය මුදල් අමාත්‍යාංශ ලේකම්වරයා සමඟ පැවති සාකච්ඡාව අද (06) පස්වරුවේ අවසන් වී තිබේ.
+
+වෛද්‍යවරුන්ට ලබාදෙන රුපියල් 35,000ක DAT දීමනාව තමන්ටද ලබාදෙන්නැයි ඉල්ලා සෞඛ්‍ය වෘත්තිය සමිති 72  සාමාජිකයින් මෙම සාකච්ඡාව ඉල්ලා තිබුණි.
+
+එහිදී සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය විසින් ඉදිරිපත් කළ යෝජනාව පිළිබඳව කඩිනමින් සාකච්ඡා කිරීමට මුදල් අමාත්‍යංශ නිලධාරීන්, සෞඛ්‍ය අමාත්‍යාංශ නිලධාරීන්ගේ සහ වෘත්තිකයන්ගේ සහභාගීත්වයෙන් කමිටුවක් පත්කර ඇත.
+
+ඒ අනුව ඉදිරි සතිය තුළ ස්ථාවර පිළිතුරක් ලබාදීමට අවශ්‍ය කටයුතු සිදුකිරීමට තීරණය වී තිබේ.
+
+මෙම තත්ත්වය පිළිබඳව සලකා බැලීමෙන් අනතුරුව හෙට (07) දිනයේ සිට යෝජනා කර ඇති වර්ජන ක්‍රියාමාර්ගය තවත් එක් සතියකින් කල් දැමීමට සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය තීරණය කළ බව එහි කැඳවුම්කරු චානක ධර්මවික්‍රම මහතා පැවසීය.
+
+මෙම කමිටුවේ තීරණය පිළිබඳව ඉතා සමීපව නිරීක්ෂණය කරන අතර යම් හෙයකින් විසඳුම් ලබාදීම ප්‍රමාද කරන්නේ නම් නැවත වර්ජන ක්‍රියාමාර්ගයන්ට අවතීරණය වීමට කටයුතු කරන බවද සෞඛ්‍ය වෘත්තිය සමිති සන්ධානය පවසයි.
+
+◼️
+
+[Data](articles/b4b0e774.json)
+
+---
+
+### අධ්‍යාපන පරිපාලන සේවයේ පුරප්පාඩු පිරවීමට කඩිනම් පියවර ගන්නවා
+
+*2024-02-06 18:19:26* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-පරිපාලන-සේවයේ-පුරප්පාඩු-පිරවීමට-කඩිනම්-පියවර-ගන්නවා/11-407932) · `si`
+
+අධ්‍යාපන ක්ෂේත්‍රයේ තනතුරු රැසක පවතින පුරප්පාඩු බොහෝ ප්‍රමාණයක් පිරවීමට අවශ්‍ය පියවර කඩිනමින් ගන්න බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+
+ඒ අනුව අධ්‍යාපන පරිපාලන, විදුහල්පති, ගුරු අධ්‍යාපනඥ, ගුරු උපදේශක යන සේවාවල හා ගුරු සේවයේ නව පත්වීම් රැසක් ඉතා ඉක්මනින් ලබා දෙන බව පැවසූ අමාත්‍යවරයා ඊට අමතර ව අතිරික්ත නිලධාරීන් සිටින සේවා ස්ථානවලින් ස්ථාන මාරුවීම් ලබා දීම හරහා නිලධාරී හිඟය පියවීමට කටයුතු කරන බව ද පැවසී ය.
+
+අමාත්‍යවරයා මේ බව ප්‍රකාශ කළේ, උතුරු පළාතේ වවුනියාව, මුලතිව්, මන්නාරම යන දිස්ත්‍රික්කයන්හි අධ්‍යාපන ගුණාත්මක සංවර්ධනය සඳහා විදුහල්පතිවරුන් සහ පළාත් අධ්‍යාපන නිලධාරීන් දැනුම්වත් කිරීම වෙනුවෙන් අමාත්‍යවරයාගේ ප්‍රධානත්වයෙන් වවුනියාව සංස්කෘතික මධ්‍යස්ථානයේ දී අද පැවති වැඩසටහනකට එක් වෙමිනි.
+
+...
+
+[Data](articles/5b9fdd69.json)
 
 ---
 
@@ -1913,49 +1953,5 @@ The Cabinet has indicated its intention to introduce revisions to the relevant e
 [Data](articles/df7d3106.json)
 
 [Extended Data](ext_articles/df7d3106.ext.json)
-
----
-
-### 7,733 million for justice arrested
-
-*2024-02-06 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193041) · `si`
-
-56,541 suspects have been arrested by the operation of the country by the operation of the country from December 17 last year.
-
-Among them were 49,558 suspects arrested in charge of drug errors, 1,817 suspects were detention on 1,981 drug addicts for rehabilitation.
-
-The number of suspects commenced inquiry was 234 suspects and 3,083 suspects in the Police Special Bureau of Police Narcotics Bureau and the Police Special Bureau.
-
-The total narcotics market value is nearly 7,733 million, which is nearly 7,733 million, and the market value of the prohibition is nearly 726 million.
-
-Among the 6,983 suspects arrested on the list of the criminal sections and 5,286 open warrants in the drug failure.
-
-The Alessers were arrested in operations and 318 suspects who were unable to identify and be arrested.
-
-◼️
-
-[Data](articles/069006d6.json)
-
-[Extended Data](ext_articles/069006d6.ext.json)
-
----
-
-### Sri Lanka’s deaf drivers can get light vehicle driving licenses
-
-*2024-02-06 12:37:00* · [`economynextcom`](https://economynext.com/sri-lankas-deaf-drivers-can-get-light-vehicle-driving-licenses-150018/) · `en`
-
-ECONOMYNEXT – A pilot project that would allow hearing-impaired persons to obtain light-vehicle driving licenses will be implemented in the Gampaha District initially before being rolled out island-wide.
-
-“Cabinet approved the implementation of a pilot project in the Gampaha District to provide light vehicle driving licenses for hearing impaired persons,” Cabinet spokesman Minister Bandula Gunawardena said on Tuesday.
-
-“Thereafter, necessary steps will be taken based on the results of the pilot project and the recommendations of the committee headed by the Ministry of Transport and Highways Secretary regarding the implementation of this project island-wide.”
-
-The issuance of driver’s licenses to hearing impaired persons will be done on a bi-annual renewal basis.
-
-◼️
-
-[Data](articles/eb7c528a.json)
-
-[Extended Data](ext_articles/eb7c528a.ext.json)
 
 ---

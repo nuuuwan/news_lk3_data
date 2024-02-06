@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 10:17:03**
+As of **2024-02-06 10:32:48**
 
 ## Newspaper Stats
 
-*Scraped **5,076** Articles*
+*Scraped **5,086** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ economynextcom | 265
 islandlk | 276
 dailyftlk | 290
 newsfirstlk | 305
-adalk | 435
-virakesarilk | 588
+adalk | 436
+virakesarilk | 590
 adaderanalk | 626
 tamilmirrorlk | 642
 adaderanasinhalalk | 658
-dailymirrorlk | 718
+dailymirrorlk | 725
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,072 (99.9%) of 5,076 articles have been extended.
+5,076 (99.8%) of 5,086 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### இலங்கைக்கு கடத்த முயன்ற 7 இலட்சம் வலி நிவாரணி மாத்திரைகள் பறிமுதல் : ஒருவர் கைது
+
+*2024-02-06 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175677) · `ta`
+
+இந்தியாவில் இருந்து இலங்கைக்கு கடத்த முயன்ற 7 இலட்சம் வலி நிவாரணி மாத்திரைகள் நேற்று திங்கட்கிழமை (05) இரவு படகுடன் பறிமுதல் செய்யப்பட்டுள்ளதோடு, ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+இராமநாதபுரம் மாவட்டம் திருப்புல்லாணி அடுத்த புதுமடம் கடற்கரையில் இருந்து நாட்டுப்படகில் வலி நிவாரணி மாத்திரைகள் இலங்கைக்கு  கடத்தப்படுவதாக கிடைத்த ரகசிய தகவலின் அடிப்படையில் ரோந்து பணியில் ஈடுபட்டிருந்த மரைன் பொலிஸார் பெரிய பட்டினம் கடற்கரையில் வைத்து ஒரு நாட்டுப் படகையும் அதிலிருந்து சுமார் 7  இலட்சம் வலி நிவாரணி மாத்திரை களையும் பறிமுதல் செய்துள்ளனர்.
+
+வலி நிவாரணி மாத்திரைகளை இலங்கைக்கு கடத்தி சென்ற பெரிய பட்டினத்தைச்  சேர்ந்த ஒருவர்  கைது செய்யப்பட்டு விசாரணை நடத்தி வருகின்றனர்.
+
+◼️
+
+[Data](articles/558809f0.json)
+
+---
 
 ### 733 more suspects arrested during ongoing ‘Yukthiya’ operation
 
@@ -48,33 +64,39 @@ According to the ministry, the narcotics taken into custody during this period i
 
 [Data](articles/c89ca4f8.json)
 
+[Extended Data](ext_articles/c89ca4f8.ext.json)
+
 ---
 
-### யுக்தியவில் மேலும் 733 சந்தேக நபர்கள் கைது
+### 733 suspects arrested in Yukti
 
 *2024-02-06 09:43:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்தியவில்-மேலும்-733-சந்தேக-நபர்கள்-கைது/175-332746) · `ta`
 
-நாடளாவிய ரீதியில் முன்னெடுக்கப்பட்ட யுக்திய நடவடிக்கையின் கீழ் இன்று (06) காலை முடிவடைந்த 24 மணித்தியாலங்களில் 733 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+733 suspects have been arrested in the 24 hours after the end of the country under the strategic operation of the country, police said.
 
 ◼️
 
 [Data](articles/fe3fb287.json)
 
+[Extended Data](ext_articles/fe3fb287.ext.json)
+
 ---
 
-### சுகாதார ஊழியர்கள் - நிதி அமைச்சின் பிரதிநிதிகள் விசேட கலந்துரையாடல்
+### Health Workers - Representatives of the Ministry of Finance Special Discussion
 
 *2024-02-06 09:36:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-ஊழியர்கள்-நிதி-அமைச்சின்-பிரதிநிதிகள்-விசேட-கலந்துரையாடல்/175-332745) · `ta`
 
-சுகாதார ஊழியர்களின் தொழிற்சங்க பிரதிநிதிகளுக்கும் நிதியமைச்சின் பிரதிநிதிகளுக்கும் இடையில் இன்று (06) விசேட கலந்துரையாடல் இடம்பெறவுள்ளது.
+A special discussion will be held today (06) between the union representatives of the health workers and the representatives of the Finance Ministry.
 
-இன்று நண்பகல் 12 மணிக்கு நிதி அமைச்சில் இந்த கலந்துரையாடல் இடம்பெறவுள்ளதாக சுகாதார தொழிற்சங்கங்களின் கூட்டமைப்பின் ஒருங்கிணைப்பாளர் ரவி குமுதேஷ் தெரிவித்தார்.
+Ravi Kumudesh, coordinator of the Health Trade Unions Federation, said that the discussion will be held at the Ministry of Finance at 12 noon today.
 
-சுகாதார ஊழியர்களுக்கு பொருளாதார நீதியை பெற்றுக்கொடுப்பது தொடர்பில் ஜனாதிபதியின் பணிப்புரைக்கு அமைய இந்த கலந்துரையாடல் இடம்பெறவுள்ளதாக  ரவி குமுதேஷ் குறிப்பிட்டுள்ளார்.
+Ravi Kumudesh said that the discussion will take place in accordance with the President's Directorate on the provision of economic justice for health workers.
 
 ◼️
 
 [Data](articles/dc960119.json)
+
+[Extended Data](ext_articles/dc960119.ext.json)
 
 ---
 
@@ -97,6 +119,28 @@ Indian media said the visit and meetings assume greater significance and that th
 [Data](articles/5ae2464c.json)
 
 [Extended Data](ext_articles/5ae2464c.ext.json)
+
+---
+
+### சிலியில் பாரிய காட்டுத் தீ ; 122 பேர் பலி ; நூற்றுக்கணக்கானவர்கள் மாயம்
+
+*2024-02-06 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175674) · `ta`
+
+சிலி நாட்டில் பரவி வரும் பாரிய காட்டுத்தீயினால் இதுவரை 122 பேர் உயிரிழந்துள்ளதோடு, நூற்றுக்கணக்கானவர்களைக் காணவில்லை என அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+சிலி வால்பரைசோவின் மத்தியப் பகுதியில் காட்டுத் தீ பரவி வருவதோடு, உயிரிழப்புகள் அதிகரிக்கலாம் என அந்நாட்டு ஜனாதிபதி கேப்ரியல் போரிக் ஞாயிற்றுக்கிழமை எச்சரித்துள்ளார்.
+
+மேலும்,  கேப்ரியல் போரிக் தனது நாடு 'மிகப்பெரிய அளவிலான சோகத்தை' எதிர்கொள்வதாகவும் தெரிவித்துள்ளார்.
+
+இந்நிலையில், பேரழிவிலிருந்து மக்களை காப்பாற்றுவதாக உறுதியளித்தோடு, போரிக் வெள்ளிக்கிழமை அவசரகால நிலையை அறிவித்துள்ளார்.
+
+காட்டுத்தீயினால் கடற்கரை சுற்றுலா தளமான வினா டெல் மார் நகரிலும் அதைச் சுற்றியுள்ள பகுதிகளிலும் 200 பேர் காணாமல் போயுள்ளதாக அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+கடற்கரை சுற்றுலா தளமான அங்கு பாரிய தீ விபத்துக்கள் ஏற்பட்டுள்ளன. அத்தோடு, வருடாந்திர சர்வதேச இசை விழாவிற்கு பெயர் பெற்ற நகரத்தின் கிழக்கு பகுதிகள் எரிந்து நாசமாகியுள்ளன.
+
+...
+
+[Data](articles/3935ea1d.json)
 
 ---
 
@@ -140,6 +184,26 @@ On January 08, the Cabinet of Ministers approved President Ranil Wickremesinghe�
 
 ---
 
+### Sri Lanka likely to adopt Singaporean house detention method for minor offenses
+
+*2024-02-06 08:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-likely-to-adopt-Singaporean-house-detention-method-for-minor-offenses/108-276404) · `en`
+
+Colombo, Feb 06 (Daily Mirror) - Sri Lanka will soon likely adopt the Singaporean method to implement house detention for suspects who are charged with minor offenses.
+
+House detention, also known as home confinement, aims to reduce recidivism and alleviate prison overcrowding.
+
+The Ministry of Justice and Prison Affairs is planning to implement a programme this year to place those found guilty of civil offenses under house arrest.
+
+Prisons Spokesman Gamini Dissanayake told the Daily Mirror that the ministry and the department are in the process of drafting laws in this regard and once the process is finalized, it needs to be passed in Parliament.
+
+He said many countries including Singapore are using the home detention method . Once the programme is implemented, the suspects who are charged with minor offenses will undergo house arrest on the orders of the Judges.
+
+...
+
+[Data](articles/7ab5cfa2.json)
+
+---
+
 ### Keheliya Allowed Home-Cooked Meals While in Remand Custody
 
 *2024-02-06 08:36:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/keheliya-allowed-home-cooked-meals-while-in-remand-custody/) · `en`
@@ -155,6 +219,8 @@ Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
 ◼️
 
 [Data](articles/22348ab5.json)
+
+[Extended Data](ext_articles/22348ab5.ext.json)
 
 ---
 
@@ -206,6 +272,26 @@ Motorcyclists have been injured in the accident and he is receiving treatment at
 
 ---
 
+### ඉරානයේදී ලක්මවට පදක්කමක් ගෙනා විරේන්
+
+*2024-02-06 08:17:24* · [`adalk`](https://www.ada.lk/sports/ඉරානයේදී ලක්මවට-පදක්කමක්-ගෙනා-විරේන්/9-407918) · `si`
+
+ඉරානයේ පැවති 32 වන ජාත්‍යන්තර බැඩ්මින්ටන් ශූරතා තරගාවලියට ශ්‍රී ලංකාව නියෝජනය කරමින් සහභාගී වූ විරේන් නෙත්තසිංහ , එම තරගාවලියේ විවෘත කේවළ අංශයෙන් ලෝකඩ පදක්කම දිනා ගෙන 02/05 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේයෙ.
+
+මෙම තරගාවලිය ඉකුත් ජනවාරි මස 30 දින සිට පෙබරවාරි මස 04 වැනි දා දක්වා රටවල් 20 ක ක්‍රීඩක ක්‍රීඩිකාවන් 200 කගේ පමණ සහභාගීත්වයෙන් පවත්වා තිබුණි .
+
+විරේන් නෙත්තසිංහ කටුනායක ගුවන් තොටුපොළෙන් ඊළඟට පිටත්ව ගියේ මේ දිනවල ශ්‍රී ලංකාවේ ගාල්ල ප්‍රදේශයේ පවත්වන ජාත්‍යන්තර අභියෝග්‍යතා බැඩ්මින්ටන් ශූරතා තරගාවලි දෙකට සහභාගී වීම සදහාය.
+
+මෙම තරගාවලි සදහා සහභාගී වීමට ජාත්‍යන්තර බැඩ්මින්ටන් ක්‍රීඩකයින් 550 කට අධික පිරිසක් මේ වනවිට කටුනායක ගුවන් තොටුපොළ ඔස්සේ  ගාල්ලට පැමිණෙමින් සිටිති .
+
+විරේන් නෙත්තසිංහ මීළඟට උගන්ඩාවේ පැවැත්වීමට නියමිත ජාත්‍යන්තර බැඩ්මින්ටන් ශූරතා තරගාවලියට සහ පෝලන්තයේ සහ නෙදර්ලන්තයේ පැවැත්වීමට නියමිත ජාත්‍යන්තර තරගාවලි වලට සහභාගී වීම සදහා මේ මස අග දී පිටත්ව යාමට නියමිතය .
+
+...
+
+[Data](articles/0a08a24d.json)
+
+---
+
 ### Special discussion between health staff and finance minister
 
 *2024-02-06 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193029) · `si`
@@ -245,6 +331,20 @@ This is the first time that the JVP is invited to visit the country to the India
 [Data](articles/566fe876.json)
 
 [Extended Data](ext_articles/566fe876.ext.json)
+
+---
+
+### Government rushed to amend Online Safety Act amidst pressure
+
+*2024-02-06 07:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Government-rushed-to-amend-Online-Safety-Act-amidst-pressure/155-276403) · `en`
+
+Amidst concerns by the industry stakeholders about the possible impact on digital economy, the government has already worked out fresh amendments to be incorporated into the recently introduced Online Safety Act.
+
+Speaker Mahinda Yapa Abeywardena gave his ascent to the new law passed in Parliament. The government proceeded with the enactment of the new law despite criticism from various corners including the industry stakeholders who argued that the new law borders on the infringement of freedom of expression and will have an impact on digital economy in the future.
+
+...
+
+[Data](articles/01fe5ac1.json)
 
 ---
 
@@ -554,6 +654,52 @@ The King returned to London from Sandringham in Norfolk on Monday morning and th
 
 ---
 
+### King Charles III diagnosed with cancer
+
+*2024-02-06 05:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/King-Charles-III-diagnosed-with-cancer/107-276399) · `en`
+
+BBC, Feb. 06- King Charles has been diagnosed with a form of cancer, says Buckingham Palace.
+
+The type of cancer has not been revealed - it is not prostate cancer, but was discovered during his recent treatment for an enlarged prostate.
+
+The King began "regular treatments" on Monday and will postpone public duties during the treatment, the Palace said.
+
+The King, 75, "remains wholly positive about his treatment and looks forward to returning to full public duty as soon as possible," it added.
+
+No further details are being shared on the stage of cancer or a prognosis.
+
+Charles informed both his sons personally about his diagnosis and the Prince of Wales was said to be in regular contact with his father.
+
+The Duke of Sussex, Prince Harry, who lives in the United States, spoke to his father and will be travelling to the UK to see him in the coming days.
+
+The King returned to London from Sandringham in Norfolk on Monday morning and the palace says he has started treatment as an outpatient.
+
+...
+
+[Data](articles/f416feb0.json)
+
+---
+
+### At least 10 killed in attack on police station in Pakistan
+
+*2024-02-06 04:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/At-least-10-killed-in-attack-on-police-station-in-Pakistan/107-276401) · `en`
+
+DERA ISMAIL KHAN, Pakistan, Feb 5 (Reuters) - At least 10 police personnel were killed and six others injured in a pre-dawn attack on Monday by militants on a police station in northwest Pakistan, police said, as violence escalated ahead of general elections this week.
+
+At around 3 a.m. local time (2200 GMT Sunday) militants attacked the police station with sniper fire and then entered the building, said police officers in Pakistan's Draban region in Khyber-Pakhtunkhwa province.
+
+"After entering the building, the terrorists used hand grenades which caused more casualties to the police," said Malik Anees ul Hassan, the deputy superintendent of police in Draban.
+
+It was not immediately clear who was behind the attack and whether it was related to the election.
+
+A national assembly candidate was shot dead on Wednesday elsewhere in Khyber-Pakhtunkhwa. On the same day, another political leader was shot dead in his party's election office in Balochistan province.
+
+...
+
+[Data](articles/8c10ab38.json)
+
+---
+
 ### At least 10 killed in attack on police station in Pakistan
 
 *2024-02-06 04:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/At-least-10-killed-in-attack-on-police-station-in-Pakistan/108-276401) · `en`
@@ -573,6 +719,26 @@ A national assembly candidate was shot dead on Wednesday elsewhere in Khyber-Pak
 [Data](articles/91e62c9d.json)
 
 [Extended Data](ext_articles/91e62c9d.ext.json)
+
+---
+
+### Sri Lanka tourism booms in January
+
+*2024-02-06 03:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-tourism-booms-in-January/108-276393) · `en`
+
+Chinese tourists capture the spirit of Sri Lanka’s 76th Independence Day, posing with the national flag while exploring the Independence Memorial Hall on Sunday, February 4
+
+India, Russian Federation and United Kingdom rank as top three tourist traffic generators for island nation
+
+Sri Lanka’s tourism industry marked a resounding start to the new year by receiving more than 200,000 international visitors throughout the month of January.
+
+In January, Sri Lanka received a total of 208,253 tourists, recording a staggering 103 percent year-on-year (YoY) growth. In January 2023, the island nation welcomed 102,545 visitors.
+
+However, despite the industry having maintained a strong momentum of crossing the 200,000 milestone for two consecutive months, the tourist arrival rate is below the expected levels of the Sri Lanka Tourism Development Authority (SLTDA).
+
+...
+
+[Data](articles/c76bb1db.json)
 
 ---
 
@@ -808,6 +974,24 @@ Sri Lanka as a matter of routine habit celebrated the anniversary of independenc
 
 ---
 
+### December sees surge in credit card expenditures, signalling rebound in consumer spending
+
+*2024-02-06 00:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/December-sees-surge-in-credit-card-expenditures-signalling-rebound-in-consumer-spending/108-276385) · `en`
+
+Card balance surges by Rs.6.2bn in December while full-year growth at Rs.8.3bn
+
+The credit card activity, which remained anaemic for a prolonged period, appears to have broken its trend and set off to potentially a robust run of spending in the period ahead. The cardholders were seen swiping more frequently for their festive spending and leisure and travelling needs in December last year.
+
+The latest data available showed that in December 2023, the cardholders have ramped up their spending considerably, as the outstanding credit card balance of the licensed commercial banks has jumped by a robust Rs.6,176 million, the largest monthly increase from a very long time.
+
+This was in comparison to the Rs.1,205 million increase in November and Rs.309 million contraction in the month before.
+
+...
+
+[Data](articles/a3324700.json)
+
+---
+
 ### At least 10 killed in attack on police station in Pakistan
 
 *2024-02-06 00:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97028/at-least-10-killed-in-attack-on-police-station-in-pakistan) · `en`
@@ -915,6 +1099,22 @@ We must engage with a country based on an agenda that best suits us. Whether it�
 [Data](articles/67d96714.json)
 
 [Extended Data](ext_articles/67d96714.ext.json)
+
+---
+
+### “Govt. tax policies are based on deals” -Dr. HariniAmarasuriya
+
+*2024-02-06 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/recomended-news/Govt-tax-policies-are-based-on-deals-Dr-HariniAmarasuriya/277-276364) · `en`
+
+There is nothing underground or clandestine how we do things.
+
+Taking a more flexible line on geopolitics compared to several decades ago the NPP is ready to deal with any foreign power by placing national interest in the forefront
+
+We must engage with a country based on an agenda that best suits us. Whether it’s India, China or America no other country is going to come and work with us or engage with us without an agenda.
+
+...
+
+[Data](articles/6964006d.json)
 
 ---
 
@@ -1791,177 +1991,5 @@ He has also functioned as the assistant coach on tours for the Australia ‘A’
 [Data](articles/9b9bc5e6.json)
 
 [Extended Data](ext_articles/9b9bc5e6.ext.json)
-
----
-
-### Fonseka justifies the attack
-
-*2024-02-05 19:14:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாக்குதலை-நியாயப்படுத்துகிறார்-பொன்சேகா/175-332719) · `ta`
-
-The party's chairman Sarath Fonseka, who justified his virtuous attack on the United People's Power (SJB) leader Sajith Premadasa, said that the party's tops make unilateral decisions, so there was no choice but to make the party's grievances publicly.
-
-Responding to the comments made by SJB leader Sajith Premadasa on the weekend, Fonseka responded by Mr. Premadasa's comment that disciplinary action would be taken against those who criticize the party leadership.
-
-“The only way the rest is to report these grievances to the public, even when decisions are made and the party does not have the opportunity to debate and negotiate within the party.. We must always remember that the strength of the party is its members and welfare, but not only a few elected, ”Field Marshal Fonseka said in his latest post.
-
-...
-
-[Data](articles/b8678109.json)
-
-[Extended Data](ext_articles/b8678109.ext.json)
-
----
-
-### Will the Keheliya demand the use of foreign drugs?
-
-*2024-02-05 18:53:16* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-විදේශීය-ඖෂධම-භාවිත-කරන්න-අවසර-ඉල්ලයි-/11-407911) · `si`
-
-Former Health Minister Keheliya Rambukwella, Minister of Health and Environmental Minister Keheliya Rambukwella has been used to prepare the pseudo-free documents under the Indian loan scheme and distributing the substandard antibodies and distribution of diseased livelihoods.It is reported that the prison officials have requested permission to use foreign pharmaceuticals.
-
-Keheliya Rambukwella, who was appointed pristed, is used in about eight medicinals.
-
-It is reported that he has asked for permission to use the foreign pharmaceuticals at Virunar Virugama prison for a long time.
-
-◼️
-
-[Data](articles/e0b3c1ca.json)
-
-[Extended Data](ext_articles/e0b3c1ca.ext.json)
-
----
-
-### A spinner coach to Sri Lanka
-
-*2024-02-05 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193016) · `si`
-
-Sri Lanka National Cricket team has been appointed to the Sri Lanka National Cricket team.
-
-Craig howard, the former first-text player, has been appointed as the spinner coach of the national team.
-
-◼️
-
-[Data](articles/28cde943.json)
-
-[Extended Data](ext_articles/28cde943.ext.json)
-
----
-
-### Anura and Indian Foreign Minister meets
-
-*2024-02-05 18:48:59* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-හා-ඉන්දීය-විදේශ කටයුතු-ඇමති-අතර-හමුවක්/11-407910) · `si`
-
-JVP leader Anura Kumara Dissanayake and delegation participated in Indian visit to India on an official invitation of the Indian government.. Meeting and bilateral negotiations were held in Jayasankara.
-
-These bilateral discussions have been held this morning. Discussions have held bilateral relations and matters important to the two countries.
-
-The Indian Foreign Minister expresses his website that economic relations in Sri Lanka have discussed challenges.
-
-◼️
-
-[Data](articles/b7d88406.json)
-
-[Extended Data](ext_articles/b7d88406.ext.json)
-
----
-
-### Bail for Sanath Nishantha's driver!
-
-*2024-02-05 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175651) · `ta`
-
-Former State Minister Sanath Nishantha's driver Velisara Magistrate's Court has been released on bail by the court in Katunayake.
-
-The suspect has been released on Monday (5) on bail of Rs.
-
-◼️
-
-[Data](articles/8a5e852e.json)
-
-[Extended Data](ext_articles/8a5e852e.ext.json)
-
----
-
-### Shantan's return to the country soon - Minister Douglas action
-
-*2024-02-05 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175652) · `ta`
-
-President Ranil Wickremesinghe has agreed to make the necessary arrangements for the arrest of former Indian Prime Minister Rajiv Gandhi's murder.
-
-Minister Douglas Devananda has agreed by the President and the Minister of External Affairs during a Cabinet meeting held on Monday (05).
-
-◼️
-
-[Data](articles/f458d86e.json)
-
-[Extended Data](ext_articles/f458d86e.ext.json)
-
----
-
-### SF justifies his action to criticize SJB leadership
-
-*2024-02-05 18:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SF-justifies-his-action-to-criticize-SJB-leadership/108-276357) · `en`
-
-Colombo, Feb 5 (Daily Mirror) - Justifying his earlier verbal attack on Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa, the party Chairman Sarath Fonseka said he did not have any other option but to voice his grievances in public when the party higher-ups are making unilateral decisions.
-
-He was responding to the remarks made by SJB Leader Sajith Premadasa during the weekend, where he said those who criticize the party leadership and break discipline can leave the party. Mr. Premadasa also indicated that disciplinary action would be taken against MP. Fonseka.
-
-“When decisions are taken unitarily, and when the opportunity for discussion and discourse is not provided within the party, the only option left is to voice these grievances to the public. We should always remember that the strength of the party is its members and well-wishers and not just a select few,” Field Marshal Fonseka said in his latest post on X.
-
-...
-
-[Data](articles/0c01bb2d.json)
-
-[Extended Data](ext_articles/0c01bb2d.ext.json)
-
----
-
-### Fonseka justifies his action to criticize SJB leadership
-
-*2024-02-05 18:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fonseka-justifies-his-action-to-criticize-SJB-leadership/108-276357) · `en`
-
-Colombo, Feb 5 (Daily Mirror) - Justifying his earlier verbal attack on Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa, the party Chairman Sarath Fonseka said he did not have any other option but to voice his grievances in public when the party higher-ups are making unilateral decisions.
-
-He was responding to the remarks made by SJB Leader Sajith Premadasa during the weekend, where he said those who criticize the party leadership and break discipline can leave the party. Mr. Premadasa also indicated that disciplinary action would be taken against MP. Fonseka.
-
-“When decisions are taken unitarily, and when the opportunity for discussion and discourse is not provided within the party, the only option left is to voice these grievances to the public. We should always remember that the strength of the party is its members and well-wishers and not just a select few,” Field Marshal Fonseka said in his latest post on X.
-
-...
-
-[Data](articles/23e480b5.json)
-
-[Extended Data](ext_articles/23e480b5.ext.json)
-
----
-
-### President awards first set of ‘Urumaya’ land deeds
-
-*2024-02-05 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97023/president-awards-first-set-of-urumaya-land-deeds) · `en`
-
-President Ranil Wickremesinghe on Monday underscored the distinctive accomplishment of the current government in providing land rights to the people of the country without the need for a revolution, despite numerous global movements advocating for land rights.
-
-Highlighting the initial success of the present government in in rescuing the country from bankruptcy, President Ranil Wickremesinghe also emphasized additional achievements such as the “Aswasuma” program benefiting 02 million people and salary increases for 1.5 million government employees.
-
-The President emphasized that the government achieved significant progress for the country’s betterment in just two years with the support of a partial parliament. He encouraged everyone to contemplate the potential advancements the country could achieve with the backing of all parliament members.
-
-...
-
-[Data](articles/c3266ef8.json)
-
-[Extended Data](ext_articles/c3266ef8.ext.json)
-
----
-
-### This is my country.. The country I was born.. - President (Live Accident)
-
-*2024-02-05 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193015) · `si`
-
-The National Program for "Inheritance" National Program is currently held in Dambulla.
-
-On top of the President who joined the occasion, you can view the speech of Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/78d977ec.json)
-
-[Extended Data](ext_articles/78d977ec.ext.json)
 
 ---

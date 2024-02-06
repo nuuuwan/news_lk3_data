@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 14:33:11**
+As of **2024-02-06 14:49:52**
 
 ## Newspaper Stats
 
@@ -26,13 +26,13 @@ dailymirrorlk | 733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,148 (99.8%) of 5,158 articles have been extended.
+5,158 (100.0%) of 5,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
 
-### அனுபவிப்பவர்கள் வழங்க மறுக்கும் சுதந்திரம்…!
+### Freedom to refuse to provide those who enjoy…!
 
 *2024-02-06 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175710) · `ta`
 
@@ -40,47 +40,53 @@ Extensions include translations and NER (Named Entity Recognition).
 
 [Data](articles/fd714cfa.json)
 
+[Extended Data](ext_articles/fd714cfa.ext.json)
+
 ---
 
-### சுற்றாடல்துறை அமைச்சு பொறுப்பிலிருந்து கெஹலிய ரம்புக்வெல்ல இராஜினாமா!
+### Keheliya Rambukwella resigns from the Ministry of Environment
 
 *2024-02-06 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175711) · `ta`
 
-விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் சுகாதார அமைச்சரும் தற்போதைய சுற்றாடல்துறை அமைச்சருமான கெஹலிய ரம்புக்வெல்ல தனது அமைச்சுப் பதவியை இராஜினாமா செய்துள்ளதாக தெரிய வருகிறது.
+It is reported that Keheliya Rambukwella, a former health minister and current environment minister, has resigned from his post.
 
-நேற்று திங்கட்கிழமை (05) அவர் தனது இராஜினாமா கடிதத்தை ஜனாதிபதிக்கு அனுப்பியுள்ளதாக அரசாங்கத்தின் உள்ளக தகவல்கள் தெரிவிக்கின்றன.
+According to the government's internal sources, he sent his resignation letter to the president on Monday (05).
 
-தரமற்ற  மருந்துகளை  இறக்குமதி செய்த  விவகாரம்  தொடர்பில்  கெஹலிய ரம்புக்வெல்ல கடந்த  2 ஆம் திகதி குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டார்.
+Keheliya Rambukwella was arrested by the Criminal Investigation Department on the 2nd of last month in connection with the importation of substandard drugs.
 
-பின்னர், மூன்றாம் திகதி மாளிகாகந்த நீதிவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்டு  எதிர்வரும் 15 ஆம் திகதி  வரை  விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+Subsequently, he was produced at the Magistrate's Court on the third day and was remanded until the 15th of this month.
 
 ◼️
 
 [Data](articles/190fdb19.json)
 
+[Extended Data](ext_articles/190fdb19.ext.json)
+
 ---
 
-### පොදුජන එක්සත් පෙරමුණේ මහ සම්මේලනය අද
+### The United F-Assembly of the United Front will
 
 *2024-02-06 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193043) · `si`
 
-ශ්‍රී ලංකා පොදුජන එක්සත් පෙරමුණේ මහ සම්මේලන රැස්වීමක් අද (06) පස්වරුවේ පැවැත්වීමට නියමිතව තිබේ.
+The Sri Lanka General Assembly a convention meeting is scheduled to be held this afternoon.
 
-අද පස්වරු 05ට ඩාර්ලි පාරේ පිහිටි ශ්‍රී ලංකා නිදහස් පක්ෂ මුලස්ථානයේ දී එම රැස්වීම පැවැත්වෙනු ඇති.
+The meeting will be held at the Sri Lanka Freedom Party Headquarters on Darlei Road today 5 pm.
 
-හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගේ ප්‍රධානත්වයෙන් පැවැත්වීමට නියමිත මෙම රැස්වීම සඳහා පොදු ජන එක්සත් පෙරමුණ නියෝජනය කරන සියලු සාමාජිකයින්ට ආරාධනා කර තිබේ.
+All members representing the Commonwealth Heads of the United Front have been invited to be held under the patronage of former President Maithripala Sirisena.
 
-මෙහිදී පසුගිය රැස්වීමේදී ඉදිරිපත් කළ යෝජනා 03ක් සම්මත කරගැනීමට නියමිතය.
+Three proposals submitted at the last meeting are to be passed.
 
-ඒ අනුව එම යෝජනා 03 පක්ෂ ව්‍යවස්ථාවට ඇතුළත් කර එය සම්මත කර ගැනීම ද මෙහිදී සිදුවනු ඇත.
+Accordingly, the proposal will be included in the party constitution and adopt it.
 
-එමෙන්ම ඉදිරියේ දී නිර්මාණය කර ගැනීමට නියමිත නව සන්ධානය සම්බන්ධයෙන් මෙහිදී සාකච්ඡා කිරීමට නියමිතව තිබේ.
+It is also to be discussed in the future alliance.
 
-ඊට හේතු වී ඇත්තේ එක්සත් ජනතා නිදහස් සන්ධානයේ මහලේකම් ධුරය සම්බන්ධයෙන් දැනට මතුව ඇති අර්බුදකාරී වාතාවරණයයි.
+The result is the crisis that is currently reported at the United People's Freedom Alliance General Secretary.
 
 ◼️
 
 [Data](articles/ea15a938.json)
+
+[Extended Data](ext_articles/ea15a938.ext.json)
 
 ---
 
@@ -180,35 +186,43 @@ The decision was taken on the recommendations of the Committee headed by the Sec
 
 ---
 
-### எமது பயணம் எதுவாக இருக்க வேண்டும் என்பதை நாமே தீர்மானிக்க வேண்டும் - சஜித்
+### We must decide what our journey should be - Sajith
 
 *2024-02-06 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175708) · `ta`
 
-பொருளாதார பயங்கரவாதத்தாலேயே இந்நாடு அழிந்தது. ஒரு குடும்பத்தை மையமாகக் கொண்ட நட்பு வட்டார அரசியலால் பொருளாதார பயங்கரவாதம் தலைவிரித்தாடுகிறது. இதன் மூலம் மக்களின் வளங்களையும் உடமைகளையும் நாடு இழந்தது. கொள்ளையில் ஈடுபட்ட அனைவரும் வெளிப்படைத் தன்மையுடனும், பாரபட்சமின்றியும் சட்டத்தின் முன் நிறுத்தப்பட்டு, இழந்த வளங்கள் மீண்டும் மீட்கப்பட்டு நாட்டின் கல்வி மற்றும் சுகாதாரத்திற்காக பயன்படுத்தப்படும் எனவும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+The country was destroyed by economic terrorism. Economic terrorism is caused by a family -centered friendly politics. By this the country lost the resources and belongings of the people. Opposition Leader Sajith Premadasa said that all those involved in the robbery are transparenial and impartially before the law, and that the lost resources will be restored and used for the education and health of the country.
 
-வளங்களும் வருமானங்களும் சமனாக பகிர்ந்து செல்லும், இனம், மதம், சாதி, வர்க்கம், குலம், கட்சி, அந்தஸ்து என்ற பேதமின்றி நாம் கைகோர்த்து வளமான சௌபாக்கியமான தேசத்தை உருவாக்குவோம்.
+We share the resources and incomes equally, and we will join hands with the race, religion, caste, class, clan, party, status and create a prosperous nation.
 
-சமூகத்தின் அனைத்து மக்களுக்கும் நலன் கிட்டும், நலன் பகிர்ந்தளிக்கப்படும் புதிய வளமான நாட்டைக் கட்டியெழுப்ப நாமனைவரும் கைகோர்ப்போம்.இதற்கு ஐக்கிய மக்கள் சக்தி தயாராக இருப்பதாகவும்,நாட்டு மக்கள் இந்த பயணத்திற்கு தயாரா என்றும் எதிர்க்கட்சித் தலைவர் கேள்வி எழுப்பினார்.
+The opposition leader questioned whether the United People's Power is ready and the people are ready for this journey.
+
+He said this while addressing a recent speech at the 82nd phase of the universe Information Technology Program.
+
+Japan was a country with a high debt burden.
 
 ...
 
 [Data](articles/f5e0b621.json)
 
+[Extended Data](ext_articles/f5e0b621.ext.json)
+
 ---
 
-### புனர்வாழ்வு நிலையங்களில் குழப்படி செய்யும் கைதிகள் சிறைக்கு மாற்றப்படுவர் - விஜயதாச ராஜபக்க்ஷ
+### Confused prisoners at rehabilitation centers will be transferred to jail - Vijayadasa Rajapaksa
 
 *2024-02-06 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175707) · `ta`
 
-புனர்வாழ்வு நிலையங்களில் உள்ள கைதிகள் தொடர்ந்தும் ஒழுங்காக நடந்து கொள்ளாவிட்டால்  அந்த நிலையங்களிலிருந்து வெளியேற்றப்பட்டு விளக்கமறியலில் வைக்கப்படுவார்கள் என நீதி,   சிறைச்சாலை விவகாரங்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர்  விஜயதாச ராஜபக்க்ஷ தெரிவித்தார்.
+Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapakse said that if the inmates at the rehabilitation centers are not continued properly, they will be expelled and interrogated from the stations.
 
-கந்தகாடு புனர்வாழ்வு நிலையத்தினுள் போதைப்பொருள் கடத்தல்காரர்கள் குழுவொன்று பிரவேசித்துள்ளமையால்  அங்கு அடிக்கடி மோதல்கள் ஏற்படும் குழப்ப நிலை உருவாகியுள்ளதாகவும் அமைச்சர் தெரிவித்தார்.
+The Minister said that a group of drug traffickers had entered the Kandagadu rehabilitation center and there was a frequent conflict of conflict.
 
-போதைக்கு அடிமையானவர்களுக்கு மறுவாழ்வு அளிக்கும் திட்டத்தை சீர்குலைக்க அந்த கடத்தல்காரர்கள் விரும்புவதாகவும் அவர் கூறினார்.
+He said the kidnappers wanted to disrupt the plan to rehabilitate addiction.
 
 ◼️
 
 [Data](articles/d1b9755a.json)
+
+[Extended Data](ext_articles/d1b9755a.ext.json)
 
 ---
 
@@ -248,17 +262,19 @@ During their visit to the Specialized Training Centre at Rajinder Nagar, Chhaya 
 
 ---
 
-### இந்திய வெளிவிவகார அமைச்சின் செயலாளரை சந்தித்தார் அநுரகுமார
+### Anuragumara met the Secretary of the Ministry of Foreign Affairs
 
 *2024-02-06 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175699) · `ta`
 
-மக்கள் விடுதலை முன்னணியின் தலைவர் அநுர குமார திஸாநயக்க திங்கட்கிழமை (05) இரவு இந்திய வெளிவிவகார அமைச்சின் செயலாளர் வினய் மோகனை புதுடெல்லியில் சந்தித்துள்ளார்.
+Janatha Vimukthi Peramuna (JVP) leader Anura Kumara Dissanayaka met with Vinay Mohan, Secretary of the Indian Foreign Ministry on Monday (05) night.
 
-இந்திய அரசாங்கத்தின் அழைப்பின்பேரில்  மக்கள் விடுதலை முன்னணியின் தலைவர் அநுர குமார திஸாநயக்க தலைமையலான குழுவினர் புதுடெல்லிக்கு விஜயம் மேற்கொண்டுள்ளமை குறிப்பிடத்தக்கது.
+At the invitation of the Government of India, the President of the Janatha Vimukthi Peramuna (JVP), Anura Kumara Dissanayaka, has visited New Delhi.
 
 ◼️
 
 [Data](articles/96b305df.json)
+
+[Extended Data](ext_articles/96b305df.ext.json)
 
 ---
 
@@ -280,23 +296,25 @@ He further emphasised that President Wickremesinghe’s reappointment is essenti
 
 ---
 
-### அவுஸ்திரேலியாவுக்கு பயணமாகவுள்ளார் ஜனாதிபதி
+### President to travel to Australia
 
 *2024-02-06 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/175686) · `ta`
 
-இந்தியப் பெருங்கடல் மாநாட்டில் பங்கேற்பதற்காக இந்த வாரம்  ஜனாதிபதி ரணில் விக்ரமசிங்க அவுஸ்திரேலியா  செல்லவுள்ளார்.
+President Ranil Wickremesinghe will visit Australia this week to attend the Indian Ocean Conference.
 
-குறித்த மாநாடு அவுஸ்திரேலியாவின் தலைநகர் பேர்த்தில் இம்மாதம் 9 ஆம் மற்றும் 10 ஆம் திகதிகளில் இடம்பெறவுள்ளது.
+The conference will be held on the 9th and 10th of this month in the capital city of Australia.
 
-குறித்த மாநாட்டில் ஜனாதிபதி முக்கிய உரையாற்றுவார் என ஜனாதிபதி அலுவலக சர்வதேச விவகாரங்களுக்கான பணிப்பாளர் டினூக் கொலம்பகே தெரிவித்துள்ளார்.
+The President of the President's Office, Dinuk Colombage, said that the President will make a keynote address at the conference.
 
-மேலும், ஜனாதிபதி  தனது விஜயத்தின் போது அவுஸ்திரேலிய பிரதமரையும், அவுஸ்திரேலியாவின் வெளிவிவகார அமைச்சரையும் சந்திக்கவுள்ளதாக அவர் தெரிவித்துள்ளார்.
+He also said that the President will meet with the Australian Prime Minister and the Australian Foreign Minister during his visit.
 
-7 ஆவது இந்தியப் பெருங்கடல் மாநாட்டை இந்திய அரசின் வெளியுறவு அமைச்சகம், அவுஸ்திரேலிய வெளியுறவு மற்றும் வர்த்தகத்துறை, சிங்கப்பூர் எஸ்.ராஜரத்தினம் ஸ்கூல் ஆஃப் இன்டர்நேஷனல் ஸ்டடீஸ் மற்றும் பேர்த் யுஎஸ்ஏசியா மையம் ஆகியவற்றுடன் இணைந்து இந்தியா பவுண்டேஷன் ஏற்பாடு செய்துள்ளது.
+The Indian Foreign Ministry of India, Australian Foreign and Commerce, Singapore S. Rajaratnam School of International Studies and Perth USAsia Center have organized the 7th Indian Ocean Conference.
 
 ◼️
 
 [Data](articles/9754e4b4.json)
+
+[Extended Data](ext_articles/9754e4b4.ext.json)
 
 ---
 
@@ -392,23 +410,29 @@ Following the directives from Commander of the Navy, Vice Admiral Priyantha Pere
 
 ---
 
-### சார்ல்ஸிற்கு புற்றுநோய் ;  பிரிட்டன் பொதுநிகழ்வுகளில் கலந்துகொள்ளமாட்டார் ; தந்தையை பார்ப்பதற்காக ஹரி விரைகின்றார் - இங்கிலாந்து நாளேடுகள் முதல் பக்கத்தில் தகவல்
+### Cancer for Charles;Britain will not attend public events;Hari rushes to see his father - information on the first page of England
 
 *2024-02-06 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/175702) · `ta`
 
-பிரித்தானிய மன்னர் மூன்றாம் சார்ல்ஸ் புற்றுநோயினால் பாதிக்கப்பட்டுள்ளார் என்ற செய்திக்கு முக்கியத்துவம் கொடுத்துள்ள பிரிட்டனின் நாளேடுகள் அது குறித்த தகவல்களை அதிர்ச்சியுடன் முதல் பக்கத்தில் பிரசுரித்துள்ளன.
+Britain's newspapers have shocked the news that the British King Charles was suffering from cancer.
 
-சார்ல்ஸ்  புற்றுநோயினால் பாதிக்கப்பட்டிருப்பது கண்டுபிடிக்கப்பட்டுள்ளமை பெரும் அதிர்ச்சி தரும் விடயம் என தெரிவித்துள்ள மிரர் சமீபத்தில் அவர் செய்துகொண்ட புரொஸ்டிரேட் சத்திரசிகிச்சையின்போதே அவர் புற்றுநோயினால் பாதிக்கப்பட்டிருப்பது தெரியவந்துள்ளதாக தெரிவித்துள்ளது.
+The Mirror, who has recently said that Charles has been diagnosed with cancer, has revealed that he was suffering from cancer during the recent Prostrate Surgery.
 
-சார்ல்ஸ் தனது சிகிச்சைவெற்றியளிக்கும் என்பது குறித்துமுழுமையான நம்பிக்கையுடன் இருக்கின்றார் என பக்கிங்காம் அரண்மணையை மேற்கோள்காட்டி த டைம்ஸ் செய்தி வெளியிட்டுள்ளது.
+The Times has published the Buckingham Palace, saying that Charles is very confident that he will be treated.
 
-கடந்தவாரம் தனது நிலை குறித்து அறிந்த சார்ல்ஸ் பிள்ளைகள் சகோதரங்களை தொடர்புகொண்டார் என தெரிவித்துள்ள டைம்ஸ் நீண்டகாலத்திற்கு சார்ல்ஸ் பொதுநிகழ்வுகளில் கலந்துகொள்ளமாட்டார் எனவும் தெரிவித்துள்ளது.
+The Times said that Charles had contacted the sisters last week, and that Charles would not attend public events for a long time.
 
-தந்தையை பார்ப்பதற்காக ஹரி பிரிட்டனிற்கு செல்வார் என எக்ஸ்பிரஸ் செய்தி வெளியிட்டுள்ளது.தந்தையுடன் அவர் பேசியுள்ளார் எனவும் எக்ஸ்பிரஸ் தெரிவித்துள்ளது.
+The Express has reported that Hari will go to Britain to see his father.
+
+The Guardian said that he would continue to carry out the constitutional work of the king, but he would continue to attend public events due to the treatment of the king.
+
+King Charles has praised the transparency of transparency without hiding any of the sickness that Prince William will pay much attention to the royalty of the prince.
 
 ...
 
 [Data](articles/955f2fc4.json)
+
+[Extended Data](ext_articles/955f2fc4.ext.json)
 
 ---
 
@@ -458,15 +482,17 @@ The Alessers were arrested in operations and 318 suspects who were unable to ide
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-02-06 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175700) · `ta`
 
-இன்று செவ்வாய்க்கிழமை (பெப்ரவரி 06) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 307.7464 ஆகவும் விற்பனை விலை ரூபா 317.6567  ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar purchasing price was Rs 307.7464 and the sales price were 317.6567 based on the currency exchange rate released by the Central Bank on Tuesday (February 06).
 
 ◼️
 
 [Data](articles/23c21488.json)
+
+[Extended Data](ext_articles/23c21488.ext.json)
 
 ---
 
@@ -1110,21 +1136,23 @@ The Minister also said that President Ranil Wickremesinghe is also present at th
 
 ---
 
-### ’වත්ත’ ’නිදහස් ගම්මාන’ ලෙස වෙනස් කරයි
+### 'Estate' changes to 'free villages'
 
 *2024-02-06 10:58:01* · [`adalk`](https://www.ada.lk/breaking_news/’වත්ත’-’නිදහස්-ගම්මාන’-ලෙස-වෙනස්-කරයි/11-407922) · `si`
 
-මෙරට වතු කර්මාන්තය ආරම්භ කළ දා පටන්ම පහත රට වතු කම්කරුවන් වෙසෙන 'වත්ත' ලෙස හැදුන්වූ ගම්මාන නිදහස් ගම්මාන නමින් නම් කිරීමට සිය සංගමය තීරණය කළ බව පහත රට වතු කම්කරුවන්ගේ සංගමය කියයි.
+Since the establishment of the plantation industry in Sri Lanka, the following country has decided to name the Village of League.
 
-හැත්තෑ හය වන නිදහස් දිනයට සමගාමීව මේ නවමු වැඩසටහන කරන්දෙණිය දිවිතුර වතු ගම්මානයෙන් ආරම්භ කළ බව පහත රට වතු කම්කරුවන්ගේ සංගමයේ සභාඔඅති රුවන් ගාල්ලගේ මහතා කීවේය.
+The New Program has commenced in parallel to the seventy-sixth Independence Day.
 
-මෙරට ආර්ථිකයට විශාල ශක්තියක් දෙන වතු කම්කරුවන් වෙසෙන මේ ගම්මානවල වෙසෙන අහිසංසක ජනතාවට ගෞරවයක් ලබාදීමේ අරමුණින් මේ පියවර ගත් බවද ගාල්ලගේ මහතා කීය.
+He said that this was taken to provide honor to the people of these villages, which live in these villages who live in the country's economy.
 
-දිවිතුර වත්ත ලෙස හැදුන්වූ ගම්මානය දිවිතුර නිදහස් ගම්මානය ලෙස නම් කිරීමේ අවස්ථාවට එකසත් මානව හිමිකම් කොමසාරිස් පී. චාලස්,දමිළ වතු හිමියන්ගෙර් සිහල හඩ සංවිධානයේ සභාපති ලයනල් ගුනියන්ගොඩ,පහත රට වතු කම්කරුවන්ගේ සංගමයේ සභාපති රුවන් ගාල්ලගේ ,ලේකම් යසස් පණ්ඩිතරත්න යන මහත්වරුන් ඇතුලු එම ගම්වාසීහු ඇතුලු විශාල පිරිසක් සහභාගීවූහ.
+Human Rights Commissioner PLCs to commence Divi Ayuru Watta. A large number of villagers including the President of the Lioge Gunian, Association of Lionel Guniyangoda, Lioge Guniyagoda, Chairman of the Lioge Gunian, Department of Lioge Guniyangoda, of the Department of Lioge Guniyangoda, Lioge Estate Workers Union, Lioge Guniangoda, Chairman of the Lioge Estate Workers Unlocation of Lionel Guniyangoda, Chairman of the Tamil Guniyanggoda, of the Lioge Guniangoda, Department of Lioge Guniangoda, Lioge Guniangoda, Lioge Guniyanggoda, Chairman of the Lioge Estate Workers Association of Lionel Guniyanggoda.
 
 ...
 
 [Data](articles/24d45bfe.json)
+
+[Extended Data](ext_articles/24d45bfe.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 08:17:19**
+As of **2024-02-06 08:33:03**
 
 ## Newspaper Stats
 
-*Scraped **5,058** Articles*
+*Scraped **5,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,78 @@ adalk | 433
 virakesarilk | 588
 adaderanalk | 622
 tamilmirrorlk | 637
-adaderanasinhalalk | 652
+adaderanasinhalalk | 655
 dailymirrorlk | 718
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,058 (100.0%) of 5,058 articles have been extended.
+5,058 (99.9%) of 5,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### අනුර ඉන්දියාවේ තවත් ලොක්කෙක් හමුවෙයි
+
+*2024-02-06 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193028) · `si`
+
+ඉන්දියාවේ සංචාරයක නිරත වන ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා ඉන්දියානු රජයේ ජාතික ආරක්ෂක උපදේශක අජිත් දොවාල් මහතා හමුවී තිබේ.
+
+ඊයේ (05) පස්වරුවේ සර්දාර් පටෙල් භවන්හිදී මෙම හමුව සිදුව ඇති බව වාර්තා වේ.
+
+මෙහිදී කලාපීය ආරක්ෂාව පිළිබඳවත් ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පවතින ද්වීපාර්ශවික සබඳතා පිළිබඳවත් දීර්ඝ ලෙස සාකච්ඡා වී තිබේ.
+
+ඊයේ පෙරවරුවේ අනුර කුමාර දිසානායක මහතා ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්.ජයිශංකර් මහතා ද හමුවී සාකච්ඡා පවත්වනු ලැබීය.
+
+ඉන්දියානු රජයේ නිල ආරාධනයකට අනුව ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා මේ දිනවල ඉන්දියාවේ සංචාරයක නිරතව සිටී.
+
+ජනතා විමුක්ති පෙරමුණේ නායකයෙකුට ඉන්දීය රජය විසින් එරට සංචාරයක නිරත වීමට ආරාධනා කළ පළමු අවස්ථාව මෙය ලෙස සැලකේ.
+
+◼️
+
+[Data](articles/566fe876.json)
+
+---
+
+### හෙරොයින් සමග පුනරුත්ථාපන නිලධාරියෙක් මාට්ටු
+
+*2024-02-06 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193027) · `si`
+
+හෙරොයින් මත්ද්‍රව්‍ය ළඟ තබාගෙන සිටි පුනරුත්ථාපන නිලධාරියෙකු මොනරාගල නගරයේ දී පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මොනරාගල බන්ධනාගාරයේ රාජකාරිය සිදුකරනු ලබන පුනරුත්ථාපන නිලධාරියෙකු මෙලෙස අත්අඩංගුවට ගෙන ඇති බව බන්ධනාගාර දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+අදාළ අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් පොලීසිය සිදුකළ දැනුම් දීමකට අනුව මොනරාගල බන්ධනාගාර ජේලර්වරයෙකු යොදවා විමර්ශනයක් ද පවත්වා ඇති බව සඳහන්ය.
+
+ඒ අනුව අදාළ පුනරුත්ථාපන නිලධාරියා විනය පරීක්ෂණයට යටත්ව වැඩතහනමකට ලක්කළ බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක බන්ධනාගාර කොමසාරිස් ගාමිණී දිසානායක මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/de90b22c.json)
+
+---
+
+### බිරිඳගේ බෙහෙත් ගන්න සල්ලි නැතුව අඹුසැමි යුවළ වස බීලා
+
+*2024-02-06 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193026) · `si`
+
+බිරිඳගේ අසනීප තත්ත්වයකට විශාල මුදලක් වියදම් කිරීමට සිදුවීමත්, ඒ සඳහා ප්‍රමාණවත් ආර්ථික තත්ත්වයක් තමන්ට නොමැති වීමත් නිසා බිරිඳට ද වස පොවා සැමියාද වස පානය කර සියදිවි නසා ගැනීමට උත්සාහ කළ පුවතක් සූරියවැව පොලිස් වසමේ වෙනිවැල්ආර ප්‍රදේශයෙන් වාර්තා වුණි.
+
+මෙලෙස වස පානය කර සියදිවි නසා ගැනීමට උත්සාහ කර ඇත්තේ සූරියවැව වෙනිවැල්ආර පදිංචි 58 හැවිරිදි හා 54 හැවිරිදි අඹුසැමි යුවළකි.
+
+54 හැවිරිදි බිරිඳ දීර්ඝ කාලයක සිට කශේරුකාවේ තිබූ ආබාධිත තත්ත්වයක් හේතුවෙන් එක්තැන්ව සිට ඇති අතර ඇයගේඅසනීප තත්ත්වය සඳහා ප්‍රතිකාර කිරීමට විශාල මුදලක්ද වියදම් කිරීමට සැමියාට සිදුව තිබේ.
+
+සිය බිරිඳගේ අසනීප තත්ත්වය සඳහා ප්‍රතිකාර ගැනීමට රැගෙන යාම හා ප්‍රතිකාර දීම ඇතුළු කටයුතු කිරීමට හා ජීවත් වීමට තරම් ප්‍රමාණවත් ආර්ථික තත්ත්වයක් නොමැති වීමත් නිසා නිදහස් දිනය දා සවස 4.30ට පමණ සැමියා විසින්
+
+එක්තැන්ව සිටින බිරිඳට වස පොවා සැමියාද වස පානය කර සියදිවි නසා ගැනීමට උත්සාහ කර තිබේ.
+
+...
+
+[Data](articles/fc20e38f.json)
+
+---
 
 ### Fifth Church of 9th Parliament opens tomorrow
 
@@ -1903,69 +1963,5 @@ Following the fatal collision, three injured persons, including the State Minist
 [Data](articles/ad0d500b.json)
 
 [Extended Data](ext_articles/ad0d500b.ext.json)
-
----
-
-### Yall. Vaddukoddai Police
-
-*2024-02-05 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/175635) · `ta`
-
-Jaffna has been placed in the secret room at the Vaddukoddai police station in Jaffna.. The university student has lodged a complaint with the Human Rights Commission.
-
-Karunakaran Nitarshan, a university student at the Jaffna Regional Office of the Human Rights Commission, filed a complaint today (05).
-
-A police officer in the Vaddukoddottai area led himself and contradicted me as to why he did not stop the motorcycle when he was forgotten.
-
-For that I don't notice you. When I took them all the documents, I did not buy it, and the additional police summoned it.
-
-At the time, more than 7 police officers who came in civil clothes, without any inquiries, put me on the street and severely attacked people while they were watching.. The incident that strikes me is also recorded in surveillance cameras at a nearby shop. And I took a video of me hitting me on my cell phone.
-
-...
-
-[Data](articles/1c7e2562.json)
-
-[Extended Data](ext_articles/1c7e2562.ext.json)
-
----
-
-### Sanath Nishantha's driver released on bail
-
-*2024-02-05 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193011) · `si`
-
-Former State Minister Sanath Nishantha's driver was released on bail after the accident conducted by Katunayake Expressway.
-
-Welisara Magistrate was produced before the courts and released on a bail of Rs. 500,000.
-
-Former State Minister Sanath Nishantha's security officer was also killed.
-
-◼️
-
-[Data](articles/d101d78b.json)
-
-[Extended Data](ext_articles/d101d78b.ext.json)
-
----
-
-### India wins
-
-*2024-02-05 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193010) · `si`
-
-India and India won the second Test match between India and England by 106 runs.
-
-Chasing a 399 runs target for that victory, the England bowl was bowled out for 292 in their second innings.
-
-The Indian team scored 396 runs while England scored 253 runs.
-
-India scored 255 runs for the tourist agency scored 255 runs for his second innings.
-
-Josephrit Bumra and Ravicchandran took three wickets each.
-
-Accordingly, both groups of the five matches have won one match.
-
-◼️
-
-[Data](articles/43d8c88e.json)
-
-[Extended Data](ext_articles/43d8c88e.ext.json)
 
 ---

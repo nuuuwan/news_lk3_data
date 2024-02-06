@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 16:03:20**
+As of **2024-02-06 16:17:26**
 
 ## Newspaper Stats
 
-*Scraped **5,166** Articles*
+*Scraped **5,169** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 290
 newsfirstlk | 316
 adalk | 441
 virakesarilk | 607
-adaderanalk | 639
-tamilmirrorlk | 651
+adaderanalk | 640
+tamilmirrorlk | 653
 adaderanasinhalalk | 672
 dailymirrorlk | 733
 
@@ -26,11 +26,37 @@ dailymirrorlk | 733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,166 (100.0%) of 5,166 articles have been extended.
+5,166 (99.9%) of 5,169 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### அவிசாவளையில் வெடி விபத்து: ஒருவர் பலி
+
+*2024-02-06 15:49:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவிசாவளையில்-வெடி-விபத்து-ஒருவர்-பலி/175-332766) · `ta`
+
+அவிசாவளை,  மாதோல பிரதேசத்தில் உள்ள பழைய இரும்பு பொருட்களை கொள்வனவு செய்யும் நிலையம் ஒன்றில் வெடிப்பு சம்பவம் இன்று  (06) பகல் இடம்பெற்றுள்ளது.
+
+இந்த சம்பவத்தில் காயமடைந்தவர் அவிசாவளை வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/8827e382.json)
+
+---
+
+### Worker dies in explosion at scrap metal collecting centre
+
+*2024-02-06 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97048/worker-dies-in-explosion-at-scrap-metal-collecting-centre-) · `en`
+
+A worker has died following an explosion at a scrap metal collecting center at Madola in Avissawella, Ada Derana correspondent says.
+
+◼️
+
+[Data](articles/7e44fd3e.json)
+
+---
 
 ### Keheliya resigns as Environment Minister
 
@@ -2023,61 +2049,5 @@ The winds may blow at 45 kilometers per hour in the sea regions from Colombo to 
 [Data](articles/27a3eb6f.json)
 
 [Extended Data](ext_articles/27a3eb6f.ext.json)
-
----
-
-### Combine the couple poison without money to take his wife's medicine
-
-*2024-02-06 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193026) · `si`
-
-A mother to spend a large amount of money to a wife's illness, he was attempting to commit suicide and had a poison to the wife and had poisoned her husband.
-
-The victim is a 58 year old and 54-year-old resident of the Sooriyawewa Viduliyalura.
-
-The 54-year-old wife had been part of a long-standing disability and had to spend a large sum of money to treat her health.
-
-Due to the lack of adequate economic condition to treat and live in treatment and treatment of his wife, by husband at about 4.30 pm
-
-The surrounding wife has attempted to kill the heavens and has been drinking poison.
-
-Drusciously, the cosmetic at the hospital has been admitted to the Sooriyawewa hospital for treatment and has been transferred to the Hambantota General Hospital for further treatment.
-
-Residents said that the woman had been ill in a long time and had no economy to obtain treatment from the Kolonnar
-
-Suriyawewa Police OIC Chief Inspector Anura Susantha is conducting further investigations.
-
-◼️
-
-[Data](articles/fc20e38f.json)
-
-[Extended Data](ext_articles/fc20e38f.ext.json)
-
----
-
-### Fifth Church of 9th Parliament opens tomorrow
-
-*2024-02-06 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193025) · `si`
-
-The 5th Committee of the 9th Parliament is to be opened by President Ranil Wickremesinghe.
-
-The President's policy statement will be presented to Parliament by holding in parliament at 10.30 am tomorrow.
-
-President Ranil Wickremesinghe was completed by the end of the night of the 26th of January.
-
-Accordingly, the post of postponement on the government's policy statement to be presented to Parliament tomorrow will be held on the late 8 and 09.
-
-However, it is reported that the ceremony of the Parliament has been conducting the occasion as lowly simple and chat.
-
-Chief Organizer Minister Prasanna Ranatunga said that the event would include salute and salute, salt and pre-travel vehicles.
-
-However, the North Lanka Provincial Councilors have decided to boycott the opening ceremony of the opening of the Parliament.
-
-Angel Ven.
-
-◼️
-
-[Data](articles/59d73016.json)
-
-[Extended Data](ext_articles/59d73016.ext.json)
 
 ---

@@ -1,36 +1,144 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 18:33:18**
+As of **2024-02-06 18:51:30**
 
 ## Newspaper Stats
 
-*Scraped **5,214** Articles*
+*Scraped **5,234** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 60
-bbccomsinhala | 73
+bbccomsinhala | 74
 dbsjeyarajcom | 140
-economynextcom | 266
+economynextcom | 278
 islandlk | 278
 dailyftlk | 290
 newsfirstlk | 325
-adalk | 446
+adalk | 448
 virakesarilk | 618
-adaderanalk | 646
-tamilmirrorlk | 654
+adaderanalk | 648
+tamilmirrorlk | 655
 adaderanasinhalalk | 678
-dailymirrorlk | 740
+dailymirrorlk | 742
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,213 (100.0%) of 5,214 articles have been extended.
+5,214 (99.6%) of 5,234 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### Sri Lanka committed to mitigating and adapting to climate change: Prez
+
+*2024-02-06 18:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-committed-to-mitigating-and-adapting-to-climate-change-prez-150120/) · `en`
+
+ECONOMYNEXT – Sri Lanka is committed to supporting regional efforts in climate change mitigation and adaptation, and will enhance its meteorological organizations, its president has said.
+
+“The economic repercussions of climate change could lead to potential GDP losses of up to 2 percent in low-income countries,” Ranil Wickremesinghe told the South Asia Hydromet Forum (SAHF) IV on Tuesday (6), according to a statement by his media division.
+
+The forum aims to facilitate discussions and collaborations on hydrology and meteorology-related initiatives in South Asia. SAHF connects National Meteorological and Hydrological Service providers (NMHSs) from the region to promote data and knowledge exchange.
+
+...
+
+[Data](articles/5757f077.json)
+
+---
+
+### லிவ்-இன் உறவாளர்கள் பதிவு  கட்டாயம்
+
+*2024-02-06 18:29:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிவ்-இன்-உறவாளர்கள்-பதிவு-கட்டாயம்/175-332782) · `ta`
+
+லிவ்-இன் ரிலேஷன்ஷிப் எனப்படும் திருமணம் செய்து கொள்ளாமல் சேர்ந்து வாழ்பவர்கள் அது குறித்து பதிவு செய்ய வேண்டும் என்று உத்தராகண்டில் தாக்கல் செய்யப்பட்டுள்ள பொது சிவில் சட்ட மசோதாவில் தெரிவிக்கப்பட்டுள்ளது.
+
+நாடு முழுவதும் பொது சிவில் சட்டத்தை அமல்படுத்த மத்திய அரசு திட்டமிட்டு வருகிறது. இதற்கான பணிகளை சட்ட ஆணையம் மேற்கொண்டு வருகிறது. இந்நிலையில், சுதந்திர இந்தியாவில் முதல் மாநிலமாக உத்தராகண்ட் தனது சட்டப்பேரவையில் பொது சிவில் சட்ட மசோதாவை தாக்கல் செய்துள்ளது. இதை கருத்தில் கொண்டு இன்று (06) காலை சட்டப்பேரவைக்கு வருகை தந்த முதல்வர் புஷ்கர் சிங் தாமி, இந்திய அரசியல் சாசனத்தின் ஒரு பிரதியை கைகளில் ஏந்தியவாறு வந்தார்.
+
+இதையடுத்து, சட்டப்பேரவையில் பொது சிவில் சட்ட மசோதா தாக்கல் செய்யப்பட்டது. அப்போது, ஆளும் கட்சி எம்எல்ஏக்கள் மேசைகளைத் தட்டி ‘ஜெய் ஸ்ரீ ராம்’ என்றும் ‘வந்தே மாதரம்’ என்றும் கோஷங்களை எழுப்பி தங்கள் ஆதரவை வெளிப்படுத்தினர். இந்த மசோதா குறித்து விவாதிக்கப்பட்டு பின்னர் நிறைவேற்றப்படும் என அரசு தரப்பில் தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/1a17fcf9.json)
+
+---
+
+### JVP finally changing anti-India rhetoric - Namal Rajapaksa
+
+*2024-02-06 18:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/JVP-finally-changing-anti-India-rhetoric-Namal-Rajapaksa/108-276438) · `en`
+
+Colombo, Feb 06 -  Amidst questions raised over NPP Leader Anura Kumara Dissanayake's visit to India for discussions, SLPP MP Namal Rajapaksa has welcomed Dissanayake's Indian visit, signaling a potential shift in the Janatha Vimukthi Peramuna's (JVP) stance on Indian investments which the JVP had for years criticized and neglected.
+
+Rajapaksa emphasized the importance of fostering unity and collective efforts in welcoming foreign investments to bolster Sri Lanka's development agenda.
+
+Rajapaksa's remarks highlighted historical contexts, drawing attention to past JVP conflicts surrounding development projects like the Sampur power plant.
+
+He further said that the Sampur Power Project was an example of the loss faced by the country as a result of the JVP’s anti-India policies.
+
+“However, the JVP has now reached a different view and has engaged in a tour to India, which is a good thing,” he said.
+
+...
+
+[Data](articles/e3ffa789.json)
+
+---
+
+### Speaker’s Office issues clarification on Online Safety Bill
+
+*2024-02-06 18:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97055/speakers-office-issues-clarification-on-online-safety-bill) · `en`
+
+The Sri Lankan Speaker’s Office has deemed recent reports surrounding the much-disputed Online Safety Bill as ‘ill-informed and baseless’, while rejecting claims that the Bill was passed in violation of the Supreme Court’s determination.
+
+Issuing a clarification to the public in response to allegations regarding the passing of the Bill, the Speaker’s Office highlighted that due to the legislative process of the Parliament involving both, the Attorney General’s Department and the Legal Draftsman’s Department, it is unlikely that a Bill would be passed in violation of the determination of the Supreme Court.
+
+“There is no opportunity to act in a manner that is not in accordance with a Supreme Court determination regarding a Bill or in violation of the Constitution”, the statement read in this regard.
+
+...
+
+[Data](articles/ea50381a.json)
+
+---
+
+### 1 person killed and 2 assailants shot dead during an attack on a Turkish courthouse
+
+*2024-02-06 18:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/97054/1-person-killed-and-2-assailants-shot-dead-during-an-attack-on-a-turkish-courthouse) · `en`
+
+One person died and two assailants were shot dead in an attack on a courthouse in Istanbul on Tuesday, Turkish officials said.
+
+The alleged attackers, a man and woman, were killed during an “attempt to attack” a security checkpoint at the Caglayan courthouse at 11:46 a.m. (0846 GMT), Interior Minister Ali Yerlikaya posted on social media.
+
+He said six people were wounded, including three police officers. President Recep Tayyip Erdogan later said one of the civilians died.
+
+Caglayan, which is also known as the Istanbul Justice Palace, is a huge court complex in the Kagithane district on the city’s European side. Heavily guarded and with multiple entrances, it was Europe’s largest courthouse at the time of its opening in 2011.
+
+Camera footage published by Turkey’s state-run Anadolu news agency showed the assailants being gunned down on the building’s forecourt. They appeared to shoot back at police before they were killed.
+
+...
+
+[Data](articles/c3e0b1e7.json)
+
+---
+
+### යකඩ එකතු කරන තැනක පිපිරීමකින් අයෙක් මරුට
+
+*2024-02-06 18:01:06* · [`adalk`](https://www.ada.lk/breaking_news/යකඩ-එකතු-කරන-තැනක-පිපිරීමකින්-අයෙක්-මරුට/11-407930) · `si`
+
+අවිස්සාවේල්ල මාදොල ප්‍රදේශයේ යකඩ බඩු එකතු කරන ස්ථානයක අද (06) දහවල් සිදුවූ පිපිරීමකින් එහි සේවකයකු මියගොස් ඇතැයි අවිස්සාවේල්ල පොලිසිය පවසයි.
+
+මෙසේ මියගොස් ඇත්තේ 49 හැවිරිදි මස්කෙළිය ප්‍රදේශයේ පදිංචිකරුවෙකු බව පොලිසිය කියයි.
+
+06 දා දහවල් යකඩ බඩු එකතු කරන ස්ථානයේ තිබූ භාණ්ඩ තොගයක් තවත් පුද්ගලයෙකු සමග කොටස් කරමින් සිටියදී එක් වරම අබලි ද්‍රව්‍ය අතරින් සිදු වූ පිපිරීමකින් මෙම පුද්ගලයා තුවාල ලබා තිබේ.
+
+අනතුරින් බරපතල තත්ත්වයේ පසුවූ මෙම පුද්ගලයා ප්‍රතිකාර සඳහා  අවිස්සාවේල්ල මූලික රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මෙසේ මියගොස් ඇති බව පොලිසිය කියයි.
+
+පිපිරීමට හේතුව මෙතෙක් අනාවරණය දී නොමැති අතර සිද්ධියෙන් අනතුරුව අවිස්සාවේල්ල අපරාධ ස්ථාන පරීක්ෂණායතන නිලධාරීන් පැමිණ පරීක්ෂණ ආරම්භ කර තිබේ. සිද්ධිය සම්බන්ධයෙන් අවිස්සාවල්ල පොලිසිය පරීක්ෂණ පවත්වති.
+
+◼️
+
+[Data](articles/6e759b56.json)
+
+---
 
 ### Indian police nab man trying to smuggle nearly 700,000 painkiller pills to Sri Lanka
 
@@ -114,17 +222,51 @@ The judge issued the order after the Bribery Commission issued the court in 2005
 
 ---
 
-### බේකරි 50කට නඩු
+### කෙහෙළියගේ ඉල්ලා අස්වීම ජනපති පිළිගනියි
+
+*2024-02-06 17:41:59* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගේ-ඉල්ලා-අස්වීම-ජනපති-පිළිගනියි/11-407929) · `si`
+
+රක්ෂිත බන්ධනාගාර ගතව බන්ධනාගාර රෝහලේ ප්‍රතිකාර ලබමින් සිටින හිටපු සෞඛ්‍ය අමාත්‍ය මෙන්ම පරිසර අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා සිය ධුරයෙන් ඉල්ලා අස්වී තිබේ. ඒ අනුව ඔහු සිය ඉල්ලා අස්වීමේ ලිපිය ජනපතිවරයාට යොමුකර තිබුණි.
+
+එම ඉල්ලා අස්වීම ජනපතිවරයා විසින් පිළිගෙන ඇති අතර ඔහුගේ ඉල්ලා අස්වීමට අදාළ ගැසට් නිවේදනයද නිකුත් ව තිබේ.
+
+◼️
+
+[Data](articles/a1b1139b.json)
+
+---
+
+### Legal action against 50 bakeries
 
 *2024-02-06 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193052) · `si`
 
-පාන්වල නියමිත බර සඳහා වූ ගැසට් පත්‍රය නිකුත් කිරිමෙන් පසුව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය ඒ සඳහා දිවයින පුරා වැටලීම් ඊයේ (05) දිනයේ දී ආරම්භ කළේය.
+The Consumer Affairs Authority (CAA) raid on the island yesterday (05) was launched by the Authority.
 
-එහිදී බේකරි සහ වෙළෙඳසල් පරික්ෂා කිරිමේ දී නියමිත බර ප්‍රමාණය මෙන්ම මිල ප්‍රදර්ශනය නොකළ බේකරි 50ක් පමණ වැටලීම් සිදුකර ඉදිරියේදී එම ආයතනවලට නඩු පැවරිමට කටයුතු කර ලැබේ.
+There are about 50 raids on bakery and shop inspection and 50 bakeries that have not been priced will be prosecuted.
 
 ◼️
 
 [Data](articles/39709714.json)
+
+[Extended Data](ext_articles/39709714.ext.json)
+
+---
+
+### Sri Lanka seeks FTAs with India, Indonesia, Malaysia, Vietnam, and China
+
+*2024-02-06 17:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-ftas-with-india-indonesia-malaysia-vietnam-and-china-150115/) · `en`
+
+ECONOMYNEXT – The Sri Lanka government is in talks to establish free trade agreements (FTAs) with India, Indonesia, Malaysia, Vietnam, and China by the end of 2024, its Minister of Foreign Affairs said.
+
+“These agreements will open up new markets for Sri Lankan businesses, contributing directly to the nation’s economic growth,” Ali Sabry said at a press briefing on Tuesday (6).
+
+The government is committed to diversifying the country’s trade partnerships and strengthening its economic resilience through strategic FTAs, he said. “By expanding access to new markets and promoting trade, these agreements aim to create a more robust and sustainable economic foundation for the country.”
+
+Sri Lanka lags behind regional competitors like Vietnam and Bangladesh, Sabry pointed out. “While Vietnam boasts exports of $370 billion and Bangladesh at $60 billion, Sri Lanka struggles with a mere $12-14 billion.”
+
+...
+
+[Data](articles/e53a004b.json)
 
 ---
 
@@ -161,6 +303,40 @@ The number of tourist arrivals from 01 January 2024 to 4th of February has been 
 [Data](articles/0ad7dcce.json)
 
 [Extended Data](ext_articles/0ad7dcce.ext.json)
+
+---
+
+### No authority to accept or reject amendments to Online Safety Act: Speaker
+
+*2024-02-06 17:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-authority-to-accept-or-reject-amendments-to-Online-Safety-Act-Speaker/108-276437) · `en`
+
+Colombo, Feb 06 (Daily Mirror) -  Speaker  Mahinda Yapa Abeywardana today said he has no authority to accept or reject any amendments from anyone including the Supreme Court to the Online Safety Act and that the sole authority of such exercise is vested with Parliament.
+
+The Speaker was referring to remarks that have been made by opposition members including Leader of the Opposition Sajith Premadasa, who had accused him of violating the Constitution in endosing the Online Safety Bill.
+
+...
+
+[Data](articles/b4953089.json)
+
+---
+
+### Sri Lanka rupee closes at 314.00/50 to the US dollar
+
+*2024-02-06 17:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-314-00-50-to-the-us-dollar-150111/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 314.00/50 to the US dollar Tuesday, from 312.40/80 on Monday, dealers said.
+
+A bond maturing on 01.02.2026 closed at 11.40/55 down from 11.80/95 percent.
+
+A bond maturing on 15.09.2027 closed at 12.20/25 down from 12.35/55 percent.
+
+A bond maturing on 15.03.2028 closed at 12.50/55 down from 12.55/65 percent.
+
+A bond maturing on 15.05.2030 closed at 12.95/13.10 down from 13.00/15 percent.
+
+◼️
+
+[Data](articles/e80ca71e.json)
 
 ---
 
@@ -217,6 +393,26 @@ Minister Sabry highlighted the recent FTA with Thailand as a historic step towar
 [Data](articles/5772266b.json)
 
 [Extended Data](ext_articles/5772266b.ext.json)
+
+---
+
+### Sri Lanka stocks close up, bluechips and banks attract interest
+
+*2024-02-06 16:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-bluechips-and-banks-attract-interest-150109/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader All Share Index closed up 94.60 points, or 0.91 percent at 10,525, while the S&P SL20 Index went up 49.85 points to close at 2,992 points, up 1.69 percent.
+
+Turnover was at 872 million. Trading in Sampath Bank Plc contributed (80mn) of this, and the share closed up at 72.00. Lanka Milk Foods (CWE) Plc also saw high volumes traded (71mn) and the share closed up at 23.60.
+
+Sector-wise, the capital goods sector (195mn), the banks industry group (183mn), and the food, beverage and tobacco sector (150mn) contributed the most to the day’s turnover (420mn).
+
+The decline in bond yield rates has seen renewed investor interest in several companies contributing positively to the ASPI in the day; John Keells Holdings Plc closed up at 182.25, Melstacorp Plc closed up at 84.20, Hatton National Bank Plc up at 160.25, and DFCC Bank Plc closed up at 77.90.
+
+...
+
+[Data](articles/8cd5478a.json)
 
 ---
 
@@ -390,7 +586,7 @@ When a bill is presented in Parliament, Article 121 of the Constitution has the 
 
 Colombo, Feb 05 (Daily Mirror) -  The gazette notification on the resignation of Minister of Environment Keheliya Rambukwella has been issued.
 
-According to the gazette, Rambukwella resigned his office as the Minister of Environment with effect from February 03, 2024.
+According to the gazette, Rambukwella resigned from his office as the Minister of Environment with effect from February 03, 2024.
 
 Keheliya Rambukwella who is in prison tendered his resignation from the position of Environment Minister to President Ranil Wickremesinghe.
 
@@ -494,6 +690,20 @@ The train will be partially closed tomorrow (08) from 6:00 am to 10:30 pm.
 
 ---
 
+### Japan grant for solar panels in Sri Lanka hospitals
+
+*2024-02-06 16:08:00* · [`economynextcom`](https://economynext.com/japan-grant-for-solar-panels-in-sri-lanka-hospitals-150030/) · `en`
+
+ECONOMYNEXT – The Japanese government will provide 1,230 million yen (around 2.8 billion rupees) through the Japan International Cooperation Agency for establishing solar energy generation systems at the Sri Jayewardenepura General Hospital, the Kurunegala Teaching Hospital and the Ratnapura Teaching Hospital.
+
+“The objectives of this project are to reduce the use of non-renewable energy in the health sector, and to increase the overall efficiency of the health service sector and promote sustainable development,” cabinet spokesman Bandula Gunawardena said on Tuesday (6). (Colombo/Feb6/2024)
+
+◼️
+
+[Data](articles/b00a6f76.json)
+
+---
+
 ### Avissawella explosion due to explosion
 
 *2024-02-06 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193046) · `si`
@@ -525,6 +735,26 @@ The attack on the Trincomalee Prison on the 2nd of this month was injured and th
 [Data](articles/a9a7806c.json)
 
 [Extended Data](ext_articles/a9a7806c.ext.json)
+
+---
+
+### Sri Lanka online safety law will impact digital marketing industry: Professional
+
+*2024-02-06 15:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-online-safety-law-will-impact-digital-marketing-industry-professional-150079/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s digital marketing industry professionals say they fear a decline in social media marketing channels after the online safety law was passed.
+
+“Content developers, planners, the entire ecosystem will be impacted. Social media channels need to be active, but now people will restrict their activities – efficiency will be limited,” Managing Director of Ogilvy, Lalith Sumanasiri said.
+
+The online safety law may cause social media users to self-censor and curb their social media usage, he said speaking at a panel discussion on the law and its impact on the digital marketing industry, on Thursday (1).
+
+According to Sumanasiri, 14.5 million Sri Lankans have internet access and 50 percent of them use social media. Therefore, 20 percent of their promotional budget is on digital marketing.
+
+He added that if the revenue social media giants gain from Sri Lanka is insignificant, they may consider leaving the country instead of complying with the provisions of the online safety act.
+
+...
+
+[Data](articles/a961982d.json)
 
 ---
 
@@ -648,6 +878,26 @@ Meanwhile, police Special Task Force (STF) has arrested three persons with more 
 
 ---
 
+### Sri Lanka president urges new landholders to safeguard right
+
+*2024-02-06 15:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-urges-new-landholders-to-safeguard-right-150070/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe who distributed an initial 10,000 freehold titles to land to farmers as part of the first phase of the Urumaya program urged beneficiaries to safeguard their new right.
+
+“I urge everyone to cherish and safeguard this right, not just for themselves but for future generations,” Wickremesinghe said during the ceremony at the Rangiri Dambulu Stadium on Monday (5).
+
+The ‘Urumaya’ program will be rolled out nationwide benefiting an estimated 2 million farming families. The 2024 budget allocated 2 billion rupees for the program’s implementation.
+
+Applicants seeking full ownership of land will receive freehold titles in three main stages. To streamline the process and address community concerns, a Urumaya National Operations Secretariat was established under the Presidential Secretariat, coordinating relevant institutions.
+
+Sri Lanka launches operations secretariat for free hold land distribution
+
+...
+
+[Data](articles/8095441d.json)
+
+---
+
 ### No Cabinet approval granted to cultivate Cannabis: Bandula refutes Diana’s claims
 
 *2024-02-06 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-Cabinet-approval-granted-to-cultivate-Cannabis-Bandula-refutes-Dianas-claims/108-276434) · `en`
@@ -701,6 +951,24 @@ This statement is issued in the interest of the public, to set the record straig
 [Data](articles/cd01ab15.json)
 
 [Extended Data](ext_articles/cd01ab15.ext.json)
+
+---
+
+### Sri Lanka disaster management plan to be presented in parliament
+
+*2024-02-06 14:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-disaster-management-plan-to-be-presented-in-parliament-150055/) · `en`
+
+ECONOMYNEXT – Sri Lanka has formulated a national disaster management plan, which will be tabled in parliament for approval, cabinet spokesman Bandula Gunawardena said.
+
+“A comprehensive national disaster management plan for 2023-2030 has been formulated taking into account the Sendai Framework for Disaster Risk Reduction, the sustainable development goals, and conventions on climate change, and working with relevant institutions,” Gunawardena said. “This will be tabled in parliament for approval.”
+
+Gunawardena said that with the possibility of extreme weather conditions increasing, a broad national disaster action plan was important.
+
+According to World Bank data, disasters such as floods, cyclones and landslides are most common in Sri Lanka, with 151,885 people being affected by floods in the year 2020.
+
+...
+
+[Data](articles/5f3ca2c4.json)
 
 ---
 
@@ -759,6 +1027,28 @@ Accordingly, Cabinet approval has been issued to be announced as the date of the
 [Data](articles/9733a73d.json)
 
 [Extended Data](ext_articles/9733a73d.ext.json)
+
+---
+
+### China shows flexibility on Sri Lanka FTA after temporary halt: Chief Negotiator
+
+*2024-02-06 14:35:00* · [`economynextcom`](https://economynext.com/china-shows-flexibility-on-sri-lanka-fta-after-temporary-halt-chief-negotiator-150048/) · `en`
+
+Sri Lanka has started FTA negotiations with China virtually after 2018 halt
+
+Both countries have already held seven rounds of negotiations until 2018
+
+ECONOMYNEXT – China has shown some flexibility in its stance over the Free Trade Agreement (FTA) with Sri Lanka after the island nation briefly halted the negotiations following seven rounds of talks due to disagreement on tariff list, level of liberalization, and a review process, Colombo’s Chief Negotiator K G Weerasinghe said.
+
+Sri Lanka is proceeding with multiple free trade agreements including with China, five years after talks with Beijing on the FTA were suspended following concerns over upper hand by China.
+
+Both countries have started virtual negotiations for the first time since 2018
+
+“Now China has shown some flexibility from the earlier position it took in 2018. That is why the negotiations are moving forward,” Weerasinghe told reporters in Colombo at a media briefing on Tuesday.
+
+...
+
+[Data](articles/90c4a4c5.json)
 
 ---
 
@@ -875,6 +1165,22 @@ The total value of confiscated properties stands at approximately Rs. 725 millio
 [Data](articles/0c7424b8.json)
 
 [Extended Data](ext_articles/0c7424b8.ext.json)
+
+---
+
+### Sri Lanka allocates Rs10bn for presidential and general elections in 2024
+
+*2024-02-06 14:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-allocates-rs10bn-for-presidential-and-general-elections-in-2024-150046/) · `en`
+
+ECONOMYNEXT – Sri Lanka has to conduct presidential and general elections within the 10 billion rupees allocated for them in the 2024 budget, cabinet spokesman Bandula Gunawardena said.
+
+“An allocation of 10 billion rupees was set aside by the budget for the year 2024, for covering the expenditure of the presidential election and general election this year,” Gunawardena said at a press briefing on Tuesday to announce cabinet decisions.
+
+Funds required for conducting provincial council elections and local government elections in 2025 will be released from the budget for 2025.
+
+...
+
+[Data](articles/2ec156ca.json)
 
 ---
 
@@ -1180,6 +1486,24 @@ It is published by the Minister.Since pricing is more than Rs.That means the Min
 
 ---
 
+### Sri Lanka to gradually relax foreign exchange controls
+
+*2024-02-06 13:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-gradually-relax-foreign-exchange-controls-150028/) · `en`
+
+ECONOMYNEXT – Sri Lanka will gradually loosen measures taken to prevent outflow of foreign exchange implemented during the currency crisis in 2022, cabinet spokesman minister Bandula Gunawardena said.
+
+Based on the recommendation of the governing board of the Central Bank of Sri Lanka, the government will “implement steps under a phased plan of releasing foreign exchange limitations applicable to banning the conversion of Sri Lankan rupees to foreign exchange for certain mobile foreign exchange transactions,” Gunawardena said.
+
+Gunawardena did not specify the exact measures, but said “It will  be done methodically, responsibly and strategically.”
+
+“There won’t be a complete relaxation of import control laws; personally I don’t believe we will be able to import motor vehicles en masse for some time yet.”
+
+...
+
+[Data](articles/d6b27c03.json)
+
+---
+
 ### Sri Lankan Police delegation visits Delhi Police training centre
 
 *2024-02-06 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97042/sri-lankan-police-delegation-visits-delhi-police-training-centre) · `en`
@@ -1460,6 +1784,24 @@ The Alessers were arrested in operations and 318 suspects who were unable to ide
 
 ---
 
+### Sri Lanka’s deaf drivers can get light vehicle driving licenses
+
+*2024-02-06 12:37:00* · [`economynextcom`](https://economynext.com/sri-lankas-deaf-drivers-can-get-light-vehicle-driving-licenses-150018/) · `en`
+
+ECONOMYNEXT – A pilot project that would allow hearing-impaired persons to obtain light-vehicle driving licenses will be implemented in the Gampaha District initially before being rolled out island-wide.
+
+“Cabinet approved the implementation of a pilot project in the Gampaha District to provide light vehicle driving licenses for hearing impaired persons,” Cabinet spokesman Minister Bandula Gunawardena said on Tuesday.
+
+“Thereafter, necessary steps will be taken based on the results of the pilot project and the recommendations of the committee headed by the Ministry of Transport and Highways Secretary regarding the implementation of this project island-wide.”
+
+The issuance of driver’s licenses to hearing impaired persons will be done on a bi-annual renewal basis.
+
+◼️
+
+[Data](articles/eb7c528a.json)
+
+---
+
 ### Today's currency exchange rate
 
 *2024-02-06 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175700) · `ta`
@@ -1577,363 +1919,5 @@ In a positive development, the Health Service Trade Union Alliance is scheduled 
 [Data](articles/14831f89.json)
 
 [Extended Data](ext_articles/14831f89.ext.json)
-
----
-
-### Two persons injured in Galle Galle
-
-*2024-02-06 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175696) · `ta`
-
-The accident occurred this morning near the Galle Football 'Wan Pollbase', Colombo.
-
-◼️
-
-[Data](articles/db0e9387.json)
-
-[Extended Data](ext_articles/db0e9387.ext.json)
-
----
-
-### Driving License Complemental Hearders
-
-*2024-02-06 12:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193040) · `si`
-
-The proposal to provide a light vehicle driver's bodies has been approved by the proposal to provide a light vehicle driver's book for full hearing persons.
-
-According to a Cabinet resolution on November 14 ,,32, a pilot project was implemented by the Gampaha District.
-
-Accordingly, the decision has been taken on the recommendations of the Committee, which was appointed as the Secretary to the Secretary to the Ministry of Transport and Highways.
-
-◼️
-
-[Data](articles/041dbd8b.json)
-
-[Extended Data](ext_articles/041dbd8b.ext.json)
-
----
-
-### Tangalle
-
-*2024-02-06 12:07:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலையில்-ஒருவர்-படுகொலை/175-332754) · `ta`
-
-The father of a 50 -year -old child living in the same area has died.
-
-◼️
-
-[Data](articles/9485d260.json)
-
-[Extended Data](ext_articles/9485d260.ext.json)
-
----
-
-### Audit Report on Further Payments of Litro
-
-*2024-02-06 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175692) · `ta`
-
-The former Chairman of the Litro Fuel Terminal and the Litro Gas Company has received a monthly payment of 443,000 rupees as a monthly vehicle allowance for his monthly allowance.
-
-According to the circular, only 50,000 rupees has been approved by the National Audit Office.
-
-According to the survey, he has been given 500 liters of fuel payments per month, according to the circular.
-
-The survey also revealed that 50,000 rupees as a payroll allowance and 150,000 rupees as a monthly entertainment allowance.
-
-◼️
-
-[Data](articles/95586880.json)
-
-[Extended Data](ext_articles/95586880.ext.json)
-
----
-
-### 1,300 doctors who have completed the training will be appointed to state hospitals!
-
-*2024-02-06 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175694) · `ta`
-
-The Ministry of Health said that 1,300 doctors will be appointed to state hospitals in March as a solution to the shortage of doctors.
-
-Health Ministry Secretary Palitha Maibala said that they are currently in the final stages of the training.
-
-Meanwhile, 590 people who have completed the training last week have been appointed to the state hospitals that are scarce, the secretary said.
-
-◼️
-
-[Data](articles/2953a25f.json)
-
-[Extended Data](ext_articles/2953a25f.ext.json)
-
----
-
-### Election ’24: Judicial Evolution, Power Devolution, and a New Tamil Leader
-
-*2024-02-06 11:59:00* · [`islandlk`](http://island.lk/election-24-judicial-evolution-power-devolution-and-a-new-tamil-leader/) · `en`
-
-Sunday this week marks Sri Lanka’s 76th independence anniversary. By President Ranil Wickremesinghe’s reckoning another twenty four years will have to go by before Sri Lanka’s economy could fully recovery from the man made crisis it contracted two years ago. And what is immediately ahead is a “grueling recovery path.” That is the grim warning of Dushni Weerakoon, the respected Economist.
-
-Another Economist from abroad, Prof. Mick Moore, who coined the phrase “man-made crisis” to describe Gota’s debacle, has now advised that it is time for Sri Lanka to have an “authentic finance minister” after more than 30 years. Like the UB Wanninayake’s, NM Perera’s and Ronnie de Mel’s of old. Not the tandem Executive President / Finance Minister model of today.
-
-...
-
-[Data](articles/5463318e.json)
-
-[Extended Data](ext_articles/5463318e.ext.json)
-
----
-
-### 7 lakhs of pain reliever pills attempted to smuggle Sri Lanka: One arrested
-
-*2024-02-06 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175677) · `ta`
-
-7 lakhs of pain relief pills have been seized and arrested on Monday night (05) night.
-
-Marine police, who were on patrol on the basis of confidential information that they were smuggled into Sri Lanka from Puthupullani beach next to Thiruppulani in Ramanathapuram district, have confiscated a country boat and about 7 lakhs of pain relief pills on the beach.
-
-A large hunger who smuggled painkillers pills to Sri Lanka has been arrested and is being investigated.
-
-◼️
-
-[Data](articles/558809f0.json)
-
-[Extended Data](ext_articles/558809f0.ext.json)
-
----
-
-### The wife is not poisoned because the wife is not poisoned because his wife's illness has no money
-
-*2024-02-06 11:58:54* · [`adalk`](https://www.ada.lk/breaking_news/බිරිඳගේ-අසනීපයට-වියදම්-සල්ලි-නැති-නිසා-බිරිඳට-වස-පොවා-සැමියත්-වස-බොයි/11-407925) · `si`
-
-According to the police, the wife had been reported to spend a large amount of money to a wife's illness, the police said.
-
-Sooriyawewa Police have been part of a 58-year-old couple, a 58-year-old and 54-year-old resident of the Suriyawewa Viduliyale.
-
-Meanwhile, the husband has to spend a large sum of money to treat her illness and not to take treatment and treating his wife's illness, but at 4.30 pm on the Independence DayThe husband has attempted to commit suicide by poisoning her husband poisoning poison.
-
-Neighbors have been admitted to the Sooriyawewa hospital for treatment by the neighbors and has been transferred to the Hambantota General Hospital for further treatment.. The residents of the area told police that the woman had long been ill in a long time and had no economy to seek treatment.
-
-Police are conducting further investigations on the instructions of the OIC of Suriyawewa Police Chief Inspector Anura Susantha.
-
-◼️
-
-[Data](articles/9aab74de.json)
-
-[Extended Data](ext_articles/9aab74de.ext.json)
-
----
-
-### Road accident in Colombo leaves two injured
-
-*2024-02-06 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97039/road-accident-in-colombo-leaves-two-injured) · `en`
-
-Two persons have sustained injuries after a three-wheeler and a car collided in Colombo on Tuesday (06 Feb.).
-
-According to police, the accident had reportedly occurred near a shopping complex in the Galle Face area, while the two persons who sustained injuries are currently receiving medical treatment.
-
-◼️
-
-[Data](articles/a55a3ea2.json)
-
-[Extended Data](ext_articles/a55a3ea2.ext.json)
-
----
-
-### A person killed in Tangalle
-
-*2024-02-06 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193039) · `si`
-
-The deceased has been identified as 50 year old residents of the area.
-
-Police suspect that the murder had been carried out on a personal dispute.
-
-◼️
-
-[Data](articles/5515635a.json)
-
-[Extended Data](ext_articles/5515635a.ext.json)
-
----
-
-### Japanese treasure hunger after casual association
-
-*2024-02-06 11:52:36* · [`adalk`](https://www.ada.lk/breaking_news/අනියම්-ඇසුරක්-නිසා-ජපාන-රූ-රැජිනට-කිරුළ-අහිමිවෙයි/11-407924) · `si`
-
-The rajation of the Japanese Rule of 26, the rajation of the Japanese Rule has won its kirk due to maintenance of misunderstanding with a married couple.
-
-Both in Ukraine, Shino won the queen of Japan and the controversy, with a Japanese tabloid newspaper.
-
-With this report, she was first stated that she was not sure that the man was married. However, she was later accepted that he knew that the man was married.
-
-Accordingly, she has given up the crowd.She apologized to misleading and the organizers have accepted her resignation.
-
-Carlor is fluently speaking and wrote Japanese and writes Japanese citizenship in 2022.
-
-◼️
-
-[Data](articles/eac9b03f.json)
-
-[Extended Data](ext_articles/eac9b03f.ext.json)
-
----
-
-### Talk of The Town | Harshana Rajakaruna | SJB is on track
-
-*2024-02-06 11:47:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/talk-of-the-town-harshana-rajakaruna-sjb-is-on-track/) · `en`
-
-◼️
-
-[Data](articles/c83452a8.json)
-
-[Extended Data](ext_articles/c83452a8.ext.json)
-
----
-
-### Parents Killed, Infant Hurt in Collision with Drunk Rider
-
-*2024-02-06 11:42:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/parents-killed-infant-hurt-in-collision-with-drunk-rider/) · `en`
-
-COLOMBO (News 1st); A couple and their 9-month-old baby were involved in a fatal road accident on New Padeniya Road in Dambulla last night.
-
-The parents, in their forties from the Bandaragama area, tragically lost their lives in the collision, while their baby sustained injuries.
-
-According to police reports, the family was waiting near the roadside when a drunk motorcyclist crashed onto them.
-
-The infant, who suffered injuries in the crash, was rushed to Peradeniya Hospital for medical attention.
-
-The motorcyclist involved in the accident has been taken into custody by police.
-
-Sri Lanka Police added that the deceased along with their child were involved in the sale of incense sticks.
-
-◼️
-
-[Data](articles/a266c970.json)
-
-[Extended Data](ext_articles/a266c970.ext.json)
-
----
-
-### President to Address Parliament as New Session Opens
-
-*2024-02-06 11:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/president-to-address-parliament-as-new-session-opens/) · `en`
-
-COLOMBO (News 1st); The Fifth Session of the Ninth Parliament will commence on February 07th.
-
-According to the Sri Lankan Parliament, the President has the opportunity to ceremonially declare open the Parliament and preside over to present the Government's Policy Statement.
-
-The fifth session of the Ninth Parliament will commence on February 07 at 10.30 am.
-
-President Ranil Wickremesinghe prorogued the Parliament in accordance with the powers vested in him with Article 70 (1) of the Constitution with effect from midnight on the 26th of January.
-
-When the Parliament is prorogued, the questions and motions that have not been considered by the Parliament until then will be abolished, and the Members of Parliament thus have to take it up again in accordance with the standing orders.
-
-...
-
-[Data](articles/11f2571f.json)
-
-[Extended Data](ext_articles/11f2571f.ext.json)
-
----
-
-### Survive cancer, you must know this story
-
-*2024-02-06 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193038) · `si`
-
-With the declaration of King Charles, the third Charles was in cancer last night, was directed to cancer.
-
-The unique feature of the world cancer is to declare a elite known to be able to suffer from cancer.
-
-Every year, it is considered to be World Cancer Day on February 04.
-
-The International Conduct of Cancer Installation is the leading world cancer day.
-
-The main objective of declaring a World Cancer Day is to educate the public on avoiding cancer in the face of rising cancer.
-
-The National Cancer Institute of Cancer in Maharagama has issued a statement in 2021, as he focuses on cancer patients in Sri Lanka.
-
-Accordingly, 106 roughly latest cancer patients are reported in the country every day.
-
-Specialist Dr. Buddhika Somina, Ada Derana told Ada Derana that the number of children infected with cancer in 2021.
-
-The mouths, peas, bowels, stone, the stone, salt and the prostate, and the prostate colonies, between the cronoid, and the gutterism, and cervical cancer.
-
-...
-
-[Data](articles/005be571.json)
-
-[Extended Data](ext_articles/005be571.ext.json)
-
----
-
-### A massive wildfire in Chile;122 killed;Hundreds of people magic
-
-*2024-02-06 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175674) · `ta`
-
-Officials say 122 people have been killed and hundreds of people have been missing due to a massive wildfire spreading in Chile.
-
-President Gabriel Boric on Sunday warned that wildfire is spreading in the central part of Chile Walbariso and increasing deaths.
-
-In addition, Gabriel Boric has said that his country is facing a 'huge tragedy'.
-
-In this case, Boric has announced an emergency on Friday, promising to save the people from the disaster.
-
-Officials say 200 people have disappeared in the coastal tourist dest of the beach Tel Mar and surrounding areas.
-
-There have been massive firefighters where the coastal tourist site. In addition, the eastern parts of the city, known for the annual International Music Festival, have been destroyed.
-
-Another 10 more people were killed in a fire on Monday. In addition, the number of casualties has increased to 122, said Marisol Brado, director of Chile's Forensic Medical Service.
-
-...
-
-[Data](articles/3935ea1d.json)
-
-[Extended Data](ext_articles/3935ea1d.ext.json)
-
----
-
-### 2,535 Teacher Assistant Appointments for Plantation Schools - Minister of Education
-
-*2024-02-06 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175689) · `ta`
-
-Minister of State for Education and Badulla District Parliamentarian A.. Aravindakumar says.
-
-Applications for these appointments will be requested by the Ministry of Education soon. Through this, those who are selected as faculty assistants must complete their degree in a certain period of time and get a degree in the course of learning or complement the teacher training for their nomination course at the Teacher Training College.Those who have completed the status of the Sri Lanka Teacher Service will be enrolled in the Sri Lankan Teacher Service permanently. I hope that the problem of teachers in the hill plantation schools will often be addressed by the issue.
-
-◼️
-
-[Data](articles/7237b71b.json)
-
-[Extended Data](ext_articles/7237b71b.ext.json)
-
----
-
-### Police use protesters in Kilinochchi - Amnesty International
-
-*2024-02-06 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175691) · `ta`
-
-The South Asia Division for the South Asia Division of the International International has said that the police have used illegal strength against those who have quietly protested on Sri Lanka's 76 Independence Day and have been concerned about the oppression of protests in many parts of the country over the past few weeks.
-
-In the Kilinochchi police, the International Amnesty International, who said that the International Amnesty Struggle, which said that the International Amnesty Struggle, said that the International Amnesty Struggle, which said that the students of Jaffna, had arrested some of the students of Jaffna.
-
-The Amnesty International has said that Sri Lanka is under international law that Sri Lanka is under international laws for the use of the right to gather peacefully to bring about peaceful demonstrations.
-
-...
-
-[Data](articles/a6a34ee2.json)
-
-[Extended Data](ext_articles/a6a34ee2.ext.json)
-
----
-
-### Poverty accident
-
-*2024-02-06 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193037) · `si`
-
-A three-wheeler and a car collided with a salary near Galle Face complex.
-
-Two people in the three-wheeler injured in the accident have been hospitalized for treatment.
-
-◼️
-
-[Data](articles/5071f64c.json)
-
-[Extended Data](ext_articles/5071f64c.ext.json)
 
 ---

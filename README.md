@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 23:17:22**
+As of **2024-02-06 23:33:00**
 
 ## Newspaper Stats
 
-*Scraped **5,271** Articles*
+*Scraped **5,275** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,57 +16,143 @@ islandlk | 278
 dailyftlk | 290
 newsfirstlk | 326
 adalk | 451
-virakesarilk | 628
-adaderanalk | 654
+virakesarilk | 629
+adaderanalk | 656
 tamilmirrorlk | 660
 adaderanasinhalalk | 684
-dailymirrorlk | 748
+dailymirrorlk | 749
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,269 (100.0%) of 5,271 articles have been extended.
+5,275 (100.0%) of 5,275 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
 
-### கெஹலியவிற்கு வெளியுணவு வழங்கப்படுவது ஏன்?
+### There is no objection to Santhan's return to the country - the government
 
-*2024-02-06 22:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவிற்கு-வெளியுணவு-வழங்கப்படுவது-ஏன்/175-332799) · `ta`
+*2024-02-06 23:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/175748) · `ta`
 
-முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்ல தடுப்புக்காவலில் வைக்கப்பட்டிருக்கும் போது அவருக்கு பிரத்தியேகமாக வெளி உணவு வழங்குவது தொடர்பில் கேள்விகள் எழுந்துள்ள நிலையில், சிறைச்சாலைகள் திணைக்களம் அது குறித்து தெளிவுபடுத்தியுள்ளது.
+Foreign Affairs Minister Ali Sabri said that there is no objection to the return of the recently released Shantan alias Santhan, who was recently released in the Rajiv Gandhi murder case in the Rajiv Gandhi murder case.
 
-முன்னாள் அமைச்சருக்கு வெளி உணவு வழங்குவது தொடர்பில் வெலிக்கடை அத்தியட்சகரிடம் முறையான எழுத்து மூலமான கோரிக்கை சமர்ப்பிக்கப்பட்டதை சிறைச்சாலை ஊடகப் பேச்சாளர் காமினி பீ.திஸாநாயக்க உறுதிப்படுத்தினார்.
+During a press conference held at the Presidential Media Center on Tuesday (6), the minister was responding to a question raised by a journalist about the government's position on the demands made by Shantan to return to Sri Lanka.
 
-நிறுவப்பட்ட நெறிமுறைகளை கடைப்பிடிப்பதை வலியுறுத்தும் திஸாநாயக்க, வெளிப்புற உணவை வழங்க தேவையான நடைமுறை நடவடிக்கைகளை எடுத்துரைத்தார்.
+Many MPs have spoken to us in the past. The resolution was taken on Monday (5) that he could come to the country as no objection was made on behalf of the Ministry of Defense.
 
-அதன்படி, உணவு விநியோகத்தின் போது வெளியாட்கள் மற்றும் கைதிகளுக்கு இடையே தனிப்பட்ட தொடர்பு தடை செய்யப்பட்டுள்ளது. மேலும், உணவுப் பொருட்கள் மட்டுமே அனுமதிக்கப்படுகின்றன.
-
-எந்தவொரு கைதிகளிடமிருந்தும் இதுபோன்ற கோரிக்கைகள் நியாயமான காரணங்கள் மற்றும் மருத்துவ ஆலோசனையின் அடிப்படையில் பரிசீலிக்கப்படும் என்று அவர் கூறினார்.
+So you can discuss this with the Deputy High Commissioner and provide the appropriate facilities. He has no problems with coming to the country. It is not mandatory for this to be granted exclusively. If he has a passport, he can come to the country.
 
 ...
 
-[Data](articles/95d071a3.json)
+[Data](articles/9bd74c38.json)
+
+[Extended Data](ext_articles/9bd74c38.ext.json)
 
 ---
 
-### எஜமானரின் உயிரை காப்பாற்ற போராடிய நாய்
+### Thermal power generation increased to 57%: CEB Engineers’ Union
+
+*2024-02-06 22:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thermal-power-generation-increased-to-57-CEB-Engineers-Union/108-276445) · `en`
+
+Colombo, Feb 06 (Daily Mirror) -  With the advent of dry weather conditions and insufficient rainfall in hydro catchment areas, thermal power generation has risen to 57 percent, leading to a reduction in hydropower generation, the Ceylon Electricity Board Engineers' Union (CEBEU) said.
+
+CEBEU President Saumya Kumarawadu told the Daily Mirror that hydropower generation was initially at full capacity, reaching 100 percent. However, with the commencement of dry weather conditions, the generation has now decreased to 87 percent.
+
+Accordingly, thermal power generation accounted for 56.7 percent, with 45 percent of this generated through the use of fuel, while the remaining power generation was attributed to furnace oil.
+
+Additionally, the Lakvijaya Power Station, commonly referred to as the Noracholai Power Station, plays a crucial role in contributing to Sri Lanka's overall electricity production, generating a substantial 900 MW.
+
+◼️
+
+[Data](articles/44818905.json)
+
+[Extended Data](ext_articles/44818905.ext.json)
+
+---
+
+### President calls for regional collaboration in climate change mitigation efforts
+
+*2024-02-06 22:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97064/president-calls-for-regional-collaboration-in-climate-change-mitigation-efforts) · `en`
+
+While welcoming the participants to Colombo, Sri Lanka, to the South Asia Hydromet Forum (SAHF) IV President Ranil Wickremesinghe today (Feb.06) emphasized the island nation’s commitment to address climate change through collaborative efforts at regional and international levels.
+
+In his address at the inaugural session at the Galle Face Hotel this morning, under the theme ‘Unlocking Regional Synergies’, President Wickremesinghe highlighted the pressing issues of adaptation and mitigation in combating climate change.
+
+President Wickremesinghe reiterated Sri Lanka’s commitment to supporting regional efforts in climate change mitigation and adaptation. He highlighted initiatives such as the establishment of an international climate change university, aimed at providing postgraduate education and training to officials from various countries.
+
+...
+
+[Data](articles/e79aca75.json)
+
+[Extended Data](ext_articles/e79aca75.ext.json)
+
+---
+
+### Motion filed against NPP’s registration as a political party
+
+*2024-02-06 22:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97063/motion-filed-against-npps-registration-as-a-political-party) · `en`
+
+A motion was filed before the Supreme Court today (Feb.06) challenging the registration of the National People’s Power (NPP) by the Election Commission.
+
+Vinivida Foundation’s secretary Attorney-at-Law Nagananda Kodituwakku has put forward the motion pertaining to a petition filed against the Election Commission’s decision to reject the registration of ‘Vinivida Foundation’ as a political party.
+
+Kodituwakku claims that the registration of NPP, which is part of Janatha Vimukthi Peramuna (JVP), as a political party is completely against the law.
+
+Pursuant to Article 103(2) of the Constitution, registering different branches of one party as separate political parties is in violation of the election laws, he alleges.
+
+It also violates the right to free and fair elections guaranteed by the Constitution, Kodituwakku pointed out further, seeking permission from the Supreme Court to make submissions in this regard.
+
+◼️
+
+[Data](articles/a9ea9511.json)
+
+[Extended Data](ext_articles/a9ea9511.ext.json)
+
+---
+
+### Why is Keheliya's release?
+
+*2024-02-06 22:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவிற்கு-வெளியுணவு-வழங்கப்படுவது-ஏன்/175-332799) · `ta`
+
+The Department of Prisons has made it clear that the former minister Keheliya Rambukwella is in the process of providing him with exclusive foods.
+
+Prison Media Spokesperson Gamini P. Dissanayake confirmed that the Welikada Superintendent had submitted a formal request to the former minister.
+
+Dissanayake, emphasizing the adherence to the established protocols, stated the practical measures necessary to provide external food.
+
+Accordingly, personal contact between outsiders and prisoners during food delivery is prohibited. Also, only food items are allowed.
+
+He said such demands from any prisoners would be considered on the basis of reasonable reasons and medical advice.
+
+It is noteworthy that Rambukwella, who has been kept in detention until February 15, has been admitted to the Prison Hospital due to ill health.
+
+◼️
+
+[Data](articles/95d071a3.json)
+
+[Extended Data](ext_articles/95d071a3.ext.json)
+
+---
+
+### Dog fought
 
 *2024-02-06 22:18:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/எஜமானரின்-உயிரை-காப்பாற்ற-போராடிய-நாய்/72-332798) · `ta`
 
-முல்லைத்தீவு - ஒட்டுசுட்டான் மணவாளன் பட்டமுறிப்ப பகுதியில் நாயுடன் காட்டிற்குள் சென்ற குடும்பஸ்தர் வெடியில் சிக்கி  கிடந்த போது அவரது டைகர் எனப்படும் வளர்பு நாய் உறவினர்களிடம் வந்து தனது ஏஜமானின் ஆபத்து தொடர்பில் அசைவுகளை வெளிப்படுத்தியதை தொடர்ந்து உறவினர்களால் அவர் மீட்கப்பட்டுள்ளார்.
+Mullaitivu - Parasuttan bridegroom in the graduate area of the bridegroom has been rescued by relatives after he came to his tiger and his tiger.
 
-இவ்வாறு மீட்கப்பட்டவர் மணவாளன் பட்ட முறிப்பினை சேர்ந்த ஏழு பிள்ளைகளின் தந்தையான 66 அகவையுடை பழனி வடிவேல் ஆவர்.
+The rescued was the father of the seven children of the bridegroom's 66 Akawaiyai Palani Vadivel.
 
-இவர் தேன் எடுப்பதற்காக நேற்று காட்டிற்கு தனது வளர்ப்பு நாயுடன் சென்றுள்ளார். இதன்போது காட்டிற்குள் இருந்த சட்டவிரோத வெடிபொருள் வெடித்ததில் குறித்த குடும்பஸ்தர் பலத்த காயங்களுக்கு உள்ளான நிலையில் வளர்ப்பு நாய் தனியாக வீடு திரும்பி தனது சோகத்தினை வெளிப்படுத்தியுள்ளது.
+He went to the forest yesterday with his foster dog to take honey. The foster dog has revealed his tragedy as a foster dog alone has been left home alone in the wake of the illegal explosion in the forest.
 
-இதனை அவதானித்த உறவினர்கள் காட்டிற்கு சென்றவரை காணவில்லை என உறவினர்கள் தேடி சென்றுள்ளார்கள். இதன்போது அவர் காயங்களுக்கு உள்ளான நிலையில் ஆபத்தான நிலையில் மீட்கப்பட்டு மாங்குளம் ஆதார மருத்துவமனை கொண்டுசெல்லப்பட்டு மேலதிக சிசிச்சைக்காக கிளிநொச்சி மாவட்ட மருத்துவமனை கொண்டுசெல்லப்பட்போது உயிரிழந்துள்ளார்.
+Relatives have gone to the forest that the relatives have gone to the forest.. He was taken to Mankulam Resource Hospital and was taken to Kilinochchi District Hospital for further treatment.
 
 ◼️
 
 [Data](articles/ac20d1a7.json)
+
+[Extended Data](ext_articles/ac20d1a7.ext.json)
 
 ---
 
@@ -204,7 +290,7 @@ Accordingly, the Commissioner General of Prisons has written in writing to bring
 
 *2024-02-06 21:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Concerns-sparked-over-provision-of-outside-food-for-Keheliya/108-276450) · `en`
 
-Colombo, Feb 6 (Daily Mirror) - Speculations arose regarding the provision of outside food exclusively for former Minister Keheliya Rambukwella during his detention, prompting clarification from the Prisons Department.
+Colombo, Feb 6 (Daily Mirror) - Speculations have arisen regarding the provision of outside food exclusively for former Minister Keheliya Rambukwella during his detention, prompting clarification from the Prisons Department.
 
 Prison Media Spokesman, Gamini B. Dissanayake, addressed the matter, confirming that a formal written request was submitted to the Welikada Superintendent regarding the supply of external food for the former Minister.
 
@@ -1911,81 +1997,5 @@ Representing the Commander of the Army, Major General P.A.C. Fernando USP, Colon
 [Data](articles/6d4a2efc.json)
 
 [Extended Data](ext_articles/6d4a2efc.ext.json)
-
----
-
-### Two killed, 9-month-old baby injured in Dambulla road accident
-
-*2024-02-06 14:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97046/two-killed-9-month-old-baby-injured-in-dambulla-road-accident) · `en`
-
-Two including a woman have been killed in a road accident involving a motorcycle on the Dambulla - Kandy main road at the Vihara Junction, Dambulla.
-
-Police said that the accident occurred as a motorcycle, travelling towards the Dambulla - Kandy main road from Kandalama, hit a woman holding a baby and a man who were standing on the side of the road last night (Feb. 05).
-
-The injured were rushed to Dambulla Base Hospital, where the two bystanders were pronounced dead upon admission, the police mentioned.
-
-The 09-month-old baby, whom the woman was holding, is currently receiving treatment at Dambulla Base Hospital.
-
-The deceased man was identified as a 45-year-old resident of the Bandaragama area, and the place of residence of the 43-year-old woman has not yet been discovered, according to police.
-
-Their bodies have been placed at the mortuary of the Dambulla Hospital.
-
-...
-
-[Data](articles/6d9ba8b8.json)
-
-[Extended Data](ext_articles/6d9ba8b8.ext.json)
-
----
-
-### Freedom to refuse to provide those who enjoy…!
-
-*2024-02-06 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175710) · `ta`
-
-◼️
-
-[Data](articles/fd714cfa.json)
-
-[Extended Data](ext_articles/fd714cfa.ext.json)
-
----
-
-### “Yukthiya” nets over 56,000 suspects in 50 days
-
-*2024-02-06 14:03:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/yukthiya-nets-over-56-000-suspects-in-50-days/) · `en`
-
-COLOMBO (News 1st); A total of 56,541 suspects have been arrested during the 50-day period spanning from December 17 last year as part of the ongoing anti-drug operation 'Yukthiya' conducted island-wide.
-
-The Ministry of Public Security said that out of this figure, 49,558 suspects were arrested in connection with drug-related offenses, while 6,983 individuals were arrested for various criminal activities.
-
-Among the 49,558 suspects arrested for drug offenses, 1,817 individuals are undergoing further investigation under detention orders, with an additional 1,981 drug addicts referred for rehabilitation.
-
-The Ministry said that investigations into the ownership of illicit assets have been initiated for 234 of the arrested suspects, while 3,083 individuals listed by the Police Narcotics Bureau and Police Special Bureau were also arrested.
-
-The total value of confiscated properties stands at approximately Rs. 725 million.
-
-...
-
-[Data](articles/0c7424b8.json)
-
-[Extended Data](ext_articles/0c7424b8.ext.json)
-
----
-
-### Sri Lanka allocates Rs10bn for presidential and general elections in 2024
-
-*2024-02-06 14:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-allocates-rs10bn-for-presidential-and-general-elections-in-2024-150046/) · `en`
-
-ECONOMYNEXT – Sri Lanka has to conduct presidential and general elections within the 10 billion rupees allocated for them in the 2024 budget, cabinet spokesman Bandula Gunawardena said.
-
-“An allocation of 10 billion rupees was set aside by the budget for the year 2024, for covering the expenditure of the presidential election and general election this year,” Gunawardena said at a press briefing on Tuesday to announce cabinet decisions.
-
-Funds required for conducting provincial council elections and local government elections in 2025 will be released from the budget for 2025.
-
-...
-
-[Data](articles/2ec156ca.json)
-
-[Extended Data](ext_articles/2ec156ca.ext.json)
 
 ---

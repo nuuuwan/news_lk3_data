@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 20:50:01**
+As of **2024-02-06 21:02:40**
 
 ## Newspaper Stats
 
-*Scraped **5,243** Articles*
+*Scraped **5,246** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,43 @@ newsfirstlk | 326
 adalk | 449
 virakesarilk | 618
 adaderanalk | 651
-tamilmirrorlk | 656
-adaderanasinhalalk | 679
-dailymirrorlk | 744
+tamilmirrorlk | 657
+adaderanasinhalalk | 680
+dailymirrorlk | 745
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,243 (100.0%) of 5,243 articles have been extended.
+5,243 (99.9%) of 5,246 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### විල්පත්තුවේ තවත් වන විනාශයක් සොයන්න ගිය පාහියන්ගල හිමිට ජනතා විරෝධය
+
+*2024-02-06 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193055) · `si`
+
+පූජ්‍ය පාහියන්ගල ආනන්දසාගර හිමි ඇතුලු පිරිසක් සහ රාජාංගනය යාය 18 ප්‍රදේශයේ ගම්වාසීන් පිරිසක් අතර අද (06) ගැටුම්කාරී තත්වයක් හටගෙන තිබුණි.
+
+ඒ, කෝමාරිකා වගාවක් සිදුකරන මුවාවෙන් විල්පත්තුව වන රක්ෂිතය අනවසරයෙන් හෙළිපෙහෙලි කරන බවට ලැබුණු තොරතුරක් ගැන විමසා බැලීම සඳහා ගිය අවස්ථාවේදීය.
+
+ඒ අනුව පූජ්‍ය පාහියන්ගල ආනන්දසාගර හිමි ඇතුලු පිරිසක් පළමුවෙන් කලා ඔය අඩවි ආරක්ෂක කාර්යාලය වෙත පැමිණ තිබුණි.
+
+කෙසේවෙතත් තම ගැටලුවට විසඳුමක් නොලැබීම හේතුවෙන් ස්වාමීන් වහන්සේ ඇතුළු පිරිස කෝමාරිකා වගා කළ භූමිය නිරීක්ෂණ කිරීම සඳහා පසුව පිටත්වී තිබුණි.
+
+එහිදී කෝමාරිකා වගා භූමියට පිවිසෙන මාර්ගයේ රැඳීසිටි ගම්වාසින් උන්වහන්සේ ගමන් කළ රථය අවහිර කරමින් දැඩි විරෝධයක් පළ කළේය.
+
+එහිදී ගම්වාසීන්ගෙන් එම පිරිසට පහරදීමක් සිදුවූ අතර ස්වාමීන් වහන්සේ සමග මාධ්‍යවේදීන් ගමන් ගත් මෝටර් රථයකට ද පහරදීමක් සිදුවී තිබේ.
+
+ඒ අනුව ස්වාමීන් වහන්සේ ගම්වාසීන් සමග සාකච්ඡාවක නිරතවීමෙන් අනතුරුව එම ස්ථානයෙන් පිටත්ව ගිය අතර සිද්ධිය පිළිබඳ වැඩිදුර විමර්ශන රාජාංගනය පොලීසිය විසින් සිදුකරනු ලබයි.
+
+...
+
+[Data](articles/3be447f8.json)
+
+---
 
 ### Change name of ’Keheliya Rambukwella Primary School’: CTU
 
@@ -49,6 +73,40 @@ Keheliya had set the wrong example to society, and he had been imprisoned. There
 [Data](articles/bedf5970.json)
 
 [Extended Data](ext_articles/bedf5970.ext.json)
+
+---
+
+### திருத்தவோ ஏற்கவோ எனக்கு அதிகாரம் இல்லை;சபாநாயகர்
+
+*2024-02-06 19:46:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருத்தவோ-ஏற்கவோ-எனக்கு-அதிகாரம்-இல்லை-சபாநாயகர்/175-332784) · `ta`
+
+ஒன்லைன் பாதுகாப்புச் சட்டத்தில் உயர் நீதிமன்றம் உட்பட எவரும் திருத்தங்களை ஏற்கவோ அல்லது நிராகரிக்கவோ தனக்கு அதிகாரம் இல்லை என்றும், அதற்கான முழு அதிகாரமும் பாராளுமன்றத்திற்கே உள்ளது என்றும் சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தெரிவித்துள்ளார்.
+
+ஒன்லைன் பாதுகாப்பு சட்டமூலத்தை நிறைவேற்றியதில் அரசியலமைப்பை மீறியதாக குற்றம் சுமத்திய எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச உள்ளிட்ட எதிர்க்கட்சி உறுப்பினர்கள் தெரிவித்த கருத்துக்கள் தொடர்பில் சபாநாயகர் இவ்வாறு குறிப்பிட்டார்.
+
+பாராளுமன்றத்தின் சட்டமியற்றும் நடவடிக்கை சட்டமா அதிபர் திணைக்களம் சட்ட வரைவாளர் திணைக்களம் ஆகியவற்றுடன் இணைந்து முன்னெடுக்கப்படுவதால் உயர்நீதிமன்றத்தின் தீர்மானத்திற்கு மாறாக அல்லது அரசியலமைப்பிற்கு முரணாக செயற்படுவதற்கான வாய்ப்புகள் இல்லை என சபாநாயகர் அலுவலகமும் தெரிவித்துள்ளது.
+
+உயர் நீதிமன்றத்தின் எந்தெந்த பரிந்துரைகள்  புறக்ககணிக்கப்பட்டன என்பதை சம்மந்தப்பட்ட உறுப்பினர்கள் தெரிவித்தால், உரிய அதிகாரிகள் அதற்கு பதிலளிப்பார்கள். மேற்குறிப்பிட்ட விடயங்களில் சபாநாயகருக்கு விருப்புரிமை இல்லை எனவும் சபாநாயகர் அலுவலகம் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/b6747acd.json)
+
+---
+
+### Health strike put off amid talks with Finance Ministry officials
+
+*2024-02-06 19:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-strike-put-off-amid-talks-with-Finance-Ministry-officials/108-276441) · `en`
+
+Colombo, Feb 06 (Daily Mirror) - In the wake of the constructive discussions held with the Secretary of the Ministry of Finance, health sector trade unions have opted to defer their scheduled strike by one week, originally slated for February 7.
+
+Key stakeholders engaged in discussions, including representatives from the Ministry of Finance, Ministry of Health, and healthcare professionals, have established a committee tasked with examining the proposals put forth by the trade unions.
+
+As such, the committee will undertake deliberations to offer a comprehensive response to the concerns raised within the stipulated timeframe of one week.
+
+◼️
+
+[Data](articles/72091447.json)
 
 ---
 
@@ -1889,73 +1947,5 @@ Colombo, Feb 6 (Daily Mirror) - Samagi Jana Balawegaya MP Gayantha Karunathileke
 [Data](articles/8c93ffd2.json)
 
 [Extended Data](ext_articles/8c93ffd2.ext.json)
-
----
-
-### Fifth Church of 9th Parliament begins tomorrow
-
-*2024-02-06 12:54:17* · [`adalk`](https://www.ada.lk/breaking_news/09-වන-පාර්ලිමේන්තුවේ-පස්වැනි-සභාවාරය-හෙට-ඇරඹේ/11-407926) · `si`
-
-The 5th Committee of the 9th Parliament is to be opened by President Ranil Wickremesinghe.
-
-The President's policy statement will be presented to Parliament by holding in parliament at 10.30 am tomorrow.
-
-President Ranil Wickremesinghe was completed by the end of the night of the 26th of January.
-
-Accordingly, the post of postponement on the government's policy statement to be presented to Parliament tomorrow will be held on the late 8 and 09.
-
-It is reported that the opening ceremony of the Parliament has been conducting the occasional and chat.
-
-◼️
-
-[Data](articles/71a49cc0.json)
-
-[Extended Data](ext_articles/71a49cc0.ext.json)
-
----
-
-### Navy gears up for annual Kachchativu feast set for February 23,24
-
-*2024-02-06 12:52:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/navy-gears-up-for-annual-kachchativu-feast-set-for-february-23-24/) · `en`
-
-COLOMBO (News 1st); The annual Kachchativu feast is set to take place on the 23rd and 24th February 2024 on the Kachchativu Island. Kachchativu is a small islet belongs to Sri Lanka, located near the International Maritime Boundary Line (IMBL) of Sri Lanka and India.
-
-The main mass of the annual feast will be conducted by the Bishop of Jaffna Diocese, Rt. Rev. Justin Gnanapragasam.
-
-In the backdrop where the District Secretary of Jaffna has made necessary arrangements for the event, the Sri Lanka Navy is currently working in full swing to establish infrastructure and facilities for the convenience of devotees.
-
-Following the directives from Commander of the Navy, Vice Admiral Priyantha Perera and overseen by Commander Northern Naval Area, Rear Admiral Kanchana Banagoda, the Navy is actively involved in the development of infrastructure in Kachchativu.
-
-...
-
-[Data](articles/92dfb384.json)
-
-[Extended Data](ext_articles/92dfb384.ext.json)
-
----
-
-### Cancer for Charles;Britain will not attend public events;Hari rushes to see his father - information on the first page of England
-
-*2024-02-06 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/175702) · `ta`
-
-Britain's newspapers have shocked the news that the British King Charles was suffering from cancer.
-
-The Mirror, who has recently said that Charles has been diagnosed with cancer, has revealed that he was suffering from cancer during the recent Prostrate Surgery.
-
-The Times has published the Buckingham Palace, saying that Charles is very confident that he will be treated.
-
-The Times said that Charles had contacted the sisters last week, and that Charles would not attend public events for a long time.
-
-The Express has reported that Hari will go to Britain to see his father.
-
-The Guardian said that he would continue to carry out the constitutional work of the king, but he would continue to attend public events due to the treatment of the king.
-
-King Charles has praised the transparency of transparency without hiding any of the sickness that Prince William will pay much attention to the royalty of the prince.
-
-...
-
-[Data](articles/955f2fc4.json)
-
-[Extended Data](ext_articles/955f2fc4.ext.json)
 
 ---

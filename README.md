@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 14:17:27**
+As of **2024-02-06 14:33:11**
 
 ## Newspaper Stats
 
-*Scraped **5,148** Articles*
+*Scraped **5,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ economynextcom | 266
 islandlk | 278
 dailyftlk | 290
 newsfirstlk | 316
-adalk | 439
-virakesarilk | 598
+adalk | 440
+virakesarilk | 606
 adaderanalk | 636
 tamilmirrorlk | 650
-adaderanasinhalalk | 669
+adaderanasinhalalk | 670
 dailymirrorlk | 733
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,148 (100.0%) of 5,148 articles have been extended.
+5,148 (99.8%) of 5,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### அனுபவிப்பவர்கள் வழங்க மறுக்கும் சுதந்திரம்…!
+
+*2024-02-06 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175710) · `ta`
+
+◼️
+
+[Data](articles/fd714cfa.json)
+
+---
+
+### சுற்றாடல்துறை அமைச்சு பொறுப்பிலிருந்து கெஹலிய ரம்புக்வெல்ல இராஜினாமா!
+
+*2024-02-06 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175711) · `ta`
+
+விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் சுகாதார அமைச்சரும் தற்போதைய சுற்றாடல்துறை அமைச்சருமான கெஹலிய ரம்புக்வெல்ல தனது அமைச்சுப் பதவியை இராஜினாமா செய்துள்ளதாக தெரிய வருகிறது.
+
+நேற்று திங்கட்கிழமை (05) அவர் தனது இராஜினாமா கடிதத்தை ஜனாதிபதிக்கு அனுப்பியுள்ளதாக அரசாங்கத்தின் உள்ளக தகவல்கள் தெரிவிக்கின்றன.
+
+தரமற்ற  மருந்துகளை  இறக்குமதி செய்த  விவகாரம்  தொடர்பில்  கெஹலிய ரம்புக்வெல்ல கடந்த  2 ஆம் திகதி குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டார்.
+
+பின்னர், மூன்றாம் திகதி மாளிகாகந்த நீதிவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்டு  எதிர்வரும் 15 ஆம் திகதி  வரை  விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/190fdb19.json)
+
+---
+
+### පොදුජන එක්සත් පෙරමුණේ මහ සම්මේලනය අද
+
+*2024-02-06 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193043) · `si`
+
+ශ්‍රී ලංකා පොදුජන එක්සත් පෙරමුණේ මහ සම්මේලන රැස්වීමක් අද (06) පස්වරුවේ පැවැත්වීමට නියමිතව තිබේ.
+
+අද පස්වරු 05ට ඩාර්ලි පාරේ පිහිටි ශ්‍රී ලංකා නිදහස් පක්ෂ මුලස්ථානයේ දී එම රැස්වීම පැවැත්වෙනු ඇති.
+
+හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගේ ප්‍රධානත්වයෙන් පැවැත්වීමට නියමිත මෙම රැස්වීම සඳහා පොදු ජන එක්සත් පෙරමුණ නියෝජනය කරන සියලු සාමාජිකයින්ට ආරාධනා කර තිබේ.
+
+මෙහිදී පසුගිය රැස්වීමේදී ඉදිරිපත් කළ යෝජනා 03ක් සම්මත කරගැනීමට නියමිතය.
+
+ඒ අනුව එම යෝජනා 03 පක්ෂ ව්‍යවස්ථාවට ඇතුළත් කර එය සම්මත කර ගැනීම ද මෙහිදී සිදුවනු ඇත.
+
+එමෙන්ම ඉදිරියේ දී නිර්මාණය කර ගැනීමට නියමිත නව සන්ධානය සම්බන්ධයෙන් මෙහිදී සාකච්ඡා කිරීමට නියමිතව තිබේ.
+
+ඊට හේතු වී ඇත්තේ එක්සත් ජනතා නිදහස් සන්ධානයේ මහලේකම් ධුරය සම්බන්ධයෙන් දැනට මතුව ඇති අර්බුදකාරී වාතාවරණයයි.
+
+◼️
+
+[Data](articles/ea15a938.json)
+
+---
 
 ### Health strike to resume if decent solution remains elusive
 
@@ -128,6 +180,38 @@ The decision was taken on the recommendations of the Committee headed by the Sec
 
 ---
 
+### எமது பயணம் எதுவாக இருக்க வேண்டும் என்பதை நாமே தீர்மானிக்க வேண்டும் - சஜித்
+
+*2024-02-06 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175708) · `ta`
+
+பொருளாதார பயங்கரவாதத்தாலேயே இந்நாடு அழிந்தது. ஒரு குடும்பத்தை மையமாகக் கொண்ட நட்பு வட்டார அரசியலால் பொருளாதார பயங்கரவாதம் தலைவிரித்தாடுகிறது. இதன் மூலம் மக்களின் வளங்களையும் உடமைகளையும் நாடு இழந்தது. கொள்ளையில் ஈடுபட்ட அனைவரும் வெளிப்படைத் தன்மையுடனும், பாரபட்சமின்றியும் சட்டத்தின் முன் நிறுத்தப்பட்டு, இழந்த வளங்கள் மீண்டும் மீட்கப்பட்டு நாட்டின் கல்வி மற்றும் சுகாதாரத்திற்காக பயன்படுத்தப்படும் எனவும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+
+வளங்களும் வருமானங்களும் சமனாக பகிர்ந்து செல்லும், இனம், மதம், சாதி, வர்க்கம், குலம், கட்சி, அந்தஸ்து என்ற பேதமின்றி நாம் கைகோர்த்து வளமான சௌபாக்கியமான தேசத்தை உருவாக்குவோம்.
+
+சமூகத்தின் அனைத்து மக்களுக்கும் நலன் கிட்டும், நலன் பகிர்ந்தளிக்கப்படும் புதிய வளமான நாட்டைக் கட்டியெழுப்ப நாமனைவரும் கைகோர்ப்போம்.இதற்கு ஐக்கிய மக்கள் சக்தி தயாராக இருப்பதாகவும்,நாட்டு மக்கள் இந்த பயணத்திற்கு தயாரா என்றும் எதிர்க்கட்சித் தலைவர் கேள்வி எழுப்பினார்.
+
+...
+
+[Data](articles/f5e0b621.json)
+
+---
+
+### புனர்வாழ்வு நிலையங்களில் குழப்படி செய்யும் கைதிகள் சிறைக்கு மாற்றப்படுவர் - விஜயதாச ராஜபக்க்ஷ
+
+*2024-02-06 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175707) · `ta`
+
+புனர்வாழ்வு நிலையங்களில் உள்ள கைதிகள் தொடர்ந்தும் ஒழுங்காக நடந்து கொள்ளாவிட்டால்  அந்த நிலையங்களிலிருந்து வெளியேற்றப்பட்டு விளக்கமறியலில் வைக்கப்படுவார்கள் என நீதி,   சிறைச்சாலை விவகாரங்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர்  விஜயதாச ராஜபக்க்ஷ தெரிவித்தார்.
+
+கந்தகாடு புனர்வாழ்வு நிலையத்தினுள் போதைப்பொருள் கடத்தல்காரர்கள் குழுவொன்று பிரவேசித்துள்ளமையால்  அங்கு அடிக்கடி மோதல்கள் ஏற்படும் குழப்ப நிலை உருவாகியுள்ளதாகவும் அமைச்சர் தெரிவித்தார்.
+
+போதைக்கு அடிமையானவர்களுக்கு மறுவாழ்வு அளிக்கும் திட்டத்தை சீர்குலைக்க அந்த கடத்தல்காரர்கள் விரும்புவதாகவும் அவர் கூறினார்.
+
+◼️
+
+[Data](articles/d1b9755a.json)
+
+---
+
 ### Renovated Rangiri Dambulla International Cricket Stadium unveiled
 
 *2024-02-06 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97043/renovated-rangiri-dambulla-international-cricket-stadium-unveiled) · `en`
@@ -164,6 +248,20 @@ During their visit to the Specialized Training Centre at Rajinder Nagar, Chhaya 
 
 ---
 
+### இந்திய வெளிவிவகார அமைச்சின் செயலாளரை சந்தித்தார் அநுரகுமார
+
+*2024-02-06 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175699) · `ta`
+
+மக்கள் விடுதலை முன்னணியின் தலைவர் அநுர குமார திஸாநயக்க திங்கட்கிழமை (05) இரவு இந்திய வெளிவிவகார அமைச்சின் செயலாளர் வினய் மோகனை புதுடெல்லியில் சந்தித்துள்ளார்.
+
+இந்திய அரசாங்கத்தின் அழைப்பின்பேரில்  மக்கள் விடுதலை முன்னணியின் தலைவர் அநுர குமார திஸாநயக்க தலைமையலான குழுவினர் புதுடெல்லிக்கு விஜயம் மேற்கொண்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/96b305df.json)
+
+---
+
 ### Presidential election most likely in October - Harin
 
 *2024-02-06 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97041/presidential-election-most-likely-in-october-harin) · `en`
@@ -179,6 +277,26 @@ He further emphasised that President Wickremesinghe’s reappointment is essenti
 [Data](articles/f1ad0e66.json)
 
 [Extended Data](ext_articles/f1ad0e66.ext.json)
+
+---
+
+### அவுஸ்திரேலியாவுக்கு பயணமாகவுள்ளார் ஜனாதிபதி
+
+*2024-02-06 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/175686) · `ta`
+
+இந்தியப் பெருங்கடல் மாநாட்டில் பங்கேற்பதற்காக இந்த வாரம்  ஜனாதிபதி ரணில் விக்ரமசிங்க அவுஸ்திரேலியா  செல்லவுள்ளார்.
+
+குறித்த மாநாடு அவுஸ்திரேலியாவின் தலைநகர் பேர்த்தில் இம்மாதம் 9 ஆம் மற்றும் 10 ஆம் திகதிகளில் இடம்பெறவுள்ளது.
+
+குறித்த மாநாட்டில் ஜனாதிபதி முக்கிய உரையாற்றுவார் என ஜனாதிபதி அலுவலக சர்வதேச விவகாரங்களுக்கான பணிப்பாளர் டினூக் கொலம்பகே தெரிவித்துள்ளார்.
+
+மேலும், ஜனாதிபதி  தனது விஜயத்தின் போது அவுஸ்திரேலிய பிரதமரையும், அவுஸ்திரேலியாவின் வெளிவிவகார அமைச்சரையும் சந்திக்கவுள்ளதாக அவர் தெரிவித்துள்ளார்.
+
+7 ஆவது இந்தியப் பெருங்கடல் மாநாட்டை இந்திய அரசின் வெளியுறவு அமைச்சகம், அவுஸ்திரேலிய வெளியுறவு மற்றும் வர்த்தகத்துறை, சிங்கப்பூர் எஸ்.ராஜரத்தினம் ஸ்கூல் ஆஃப் இன்டர்நேஷனல் ஸ்டடீஸ் மற்றும் பேர்த் யுஎஸ்ஏசியா மையம் ஆகியவற்றுடன் இணைந்து இந்தியா பவுண்டேஷன் ஏற்பாடு செய்துள்ளது.
+
+◼️
+
+[Data](articles/9754e4b4.json)
 
 ---
 
@@ -274,6 +392,26 @@ Following the directives from Commander of the Navy, Vice Admiral Priyantha Pere
 
 ---
 
+### சார்ல்ஸிற்கு புற்றுநோய் ;  பிரிட்டன் பொதுநிகழ்வுகளில் கலந்துகொள்ளமாட்டார் ; தந்தையை பார்ப்பதற்காக ஹரி விரைகின்றார் - இங்கிலாந்து நாளேடுகள் முதல் பக்கத்தில் தகவல்
+
+*2024-02-06 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/175702) · `ta`
+
+பிரித்தானிய மன்னர் மூன்றாம் சார்ல்ஸ் புற்றுநோயினால் பாதிக்கப்பட்டுள்ளார் என்ற செய்திக்கு முக்கியத்துவம் கொடுத்துள்ள பிரிட்டனின் நாளேடுகள் அது குறித்த தகவல்களை அதிர்ச்சியுடன் முதல் பக்கத்தில் பிரசுரித்துள்ளன.
+
+சார்ல்ஸ்  புற்றுநோயினால் பாதிக்கப்பட்டிருப்பது கண்டுபிடிக்கப்பட்டுள்ளமை பெரும் அதிர்ச்சி தரும் விடயம் என தெரிவித்துள்ள மிரர் சமீபத்தில் அவர் செய்துகொண்ட புரொஸ்டிரேட் சத்திரசிகிச்சையின்போதே அவர் புற்றுநோயினால் பாதிக்கப்பட்டிருப்பது தெரியவந்துள்ளதாக தெரிவித்துள்ளது.
+
+சார்ல்ஸ் தனது சிகிச்சைவெற்றியளிக்கும் என்பது குறித்துமுழுமையான நம்பிக்கையுடன் இருக்கின்றார் என பக்கிங்காம் அரண்மணையை மேற்கோள்காட்டி த டைம்ஸ் செய்தி வெளியிட்டுள்ளது.
+
+கடந்தவாரம் தனது நிலை குறித்து அறிந்த சார்ல்ஸ் பிள்ளைகள் சகோதரங்களை தொடர்புகொண்டார் என தெரிவித்துள்ள டைம்ஸ் நீண்டகாலத்திற்கு சார்ல்ஸ் பொதுநிகழ்வுகளில் கலந்துகொள்ளமாட்டார் எனவும் தெரிவித்துள்ளது.
+
+தந்தையை பார்ப்பதற்காக ஹரி பிரிட்டனிற்கு செல்வார் என எக்ஸ்பிரஸ் செய்தி வெளியிட்டுள்ளது.தந்தையுடன் அவர் பேசியுள்ளார் எனவும் எக்ஸ்பிரஸ் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/955f2fc4.json)
+
+---
+
 ### Sri Lanka to Elect President, Parliament This Year, Local Gov’t Waits
 
 *2024-02-06 12:43:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/sri-lanka-to-elect-president-parliament-this-year-local-gov-t-waits/) · `en`
@@ -317,6 +455,18 @@ The Alessers were arrested in operations and 318 suspects who were unable to ide
 [Data](articles/069006d6.json)
 
 [Extended Data](ext_articles/069006d6.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-02-06 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175700) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (பெப்ரவரி 06) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 307.7464 ஆகவும் விற்பனை விலை ரூபா 317.6567  ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/23c21488.json)
 
 ---
 
@@ -957,6 +1107,24 @@ The Minister also said that President Ranil Wickremesinghe is also present at th
 [Data](articles/e1ff5017.json)
 
 [Extended Data](ext_articles/e1ff5017.ext.json)
+
+---
+
+### ’වත්ත’ ’නිදහස් ගම්මාන’ ලෙස වෙනස් කරයි
+
+*2024-02-06 10:58:01* · [`adalk`](https://www.ada.lk/breaking_news/’වත්ත’-’නිදහස්-ගම්මාන’-ලෙස-වෙනස්-කරයි/11-407922) · `si`
+
+මෙරට වතු කර්මාන්තය ආරම්භ කළ දා පටන්ම පහත රට වතු කම්කරුවන් වෙසෙන 'වත්ත' ලෙස හැදුන්වූ ගම්මාන නිදහස් ගම්මාන නමින් නම් කිරීමට සිය සංගමය තීරණය කළ බව පහත රට වතු කම්කරුවන්ගේ සංගමය කියයි.
+
+හැත්තෑ හය වන නිදහස් දිනයට සමගාමීව මේ නවමු වැඩසටහන කරන්දෙණිය දිවිතුර වතු ගම්මානයෙන් ආරම්භ කළ බව පහත රට වතු කම්කරුවන්ගේ සංගමයේ සභාඔඅති රුවන් ගාල්ලගේ මහතා කීවේය.
+
+මෙරට ආර්ථිකයට විශාල ශක්තියක් දෙන වතු කම්කරුවන් වෙසෙන මේ ගම්මානවල වෙසෙන අහිසංසක ජනතාවට ගෞරවයක් ලබාදීමේ අරමුණින් මේ පියවර ගත් බවද ගාල්ලගේ මහතා කීය.
+
+දිවිතුර වත්ත ලෙස හැදුන්වූ ගම්මානය දිවිතුර නිදහස් ගම්මානය ලෙස නම් කිරීමේ අවස්ථාවට එකසත් මානව හිමිකම් කොමසාරිස් පී. චාලස්,දමිළ වතු හිමියන්ගෙර් සිහල හඩ සංවිධානයේ සභාපති ලයනල් ගුනියන්ගොඩ,පහත රට වතු කම්කරුවන්ගේ සංගමයේ සභාපති රුවන් ගාල්ලගේ ,ලේකම් යසස් පණ්ඩිතරත්න යන මහත්වරුන් ඇතුලු එම ගම්වාසීහු ඇතුලු විශාල පිරිසක් සහභාගීවූහ.
+
+...
+
+[Data](articles/24d45bfe.json)
 
 ---
 
@@ -1885,217 +2053,5 @@ Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
 [Data](articles/23f434df.json)
 
 [Extended Data](ext_articles/23f434df.ext.json)
-
----
-
-### King Charles III diagnosed with cancer
-
-*2024-02-06 05:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/King-Charles-III-diagnosed-with-cancer/108-276399) · `en`
-
-BBC, Feb. 06- King Charles has been diagnosed with a form of cancer, says Buckingham Palace.
-
-The type of cancer has not been revealed - it is not prostate cancer, but was discovered during his recent treatment for an enlarged prostate.
-
-The King began "regular treatments" on Monday and will postpone public duties during the treatment, the Palace said.
-
-The King, 75, "remains wholly positive about his treatment and looks forward to returning to full public duty as soon as possible," it added.
-
-No further details are being shared on the stage of cancer or a prognosis.
-
-Charles informed both his sons personally about his diagnosis and the Prince of Wales was said to be in regular contact with his father.
-
-The Duke of Sussex, Prince Harry, who lives in the United States, spoke to his father and will be travelling to the UK to see him in the coming days.
-
-The King returned to London from Sandringham in Norfolk on Monday morning and the palace says he has started treatment as an outpatient.
-
-...
-
-[Data](articles/2de2f8a8.json)
-
-[Extended Data](ext_articles/2de2f8a8.ext.json)
-
----
-
-### King Charles III diagnosed with cancer
-
-*2024-02-06 05:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/King-Charles-III-diagnosed-with-cancer/107-276399) · `en`
-
-BBC, Feb. 06- King Charles has been diagnosed with a form of cancer, says Buckingham Palace.
-
-The type of cancer has not been revealed - it is not prostate cancer, but was discovered during his recent treatment for an enlarged prostate.
-
-The King began "regular treatments" on Monday and will postpone public duties during the treatment, the Palace said.
-
-The King, 75, "remains wholly positive about his treatment and looks forward to returning to full public duty as soon as possible," it added.
-
-No further details are being shared on the stage of cancer or a prognosis.
-
-Charles informed both his sons personally about his diagnosis and the Prince of Wales was said to be in regular contact with his father.
-
-The Duke of Sussex, Prince Harry, who lives in the United States, spoke to his father and will be travelling to the UK to see him in the coming days.
-
-The King returned to London from Sandringham in Norfolk on Monday morning and the palace says he has started treatment as an outpatient.
-
-...
-
-[Data](articles/f416feb0.json)
-
-[Extended Data](ext_articles/f416feb0.ext.json)
-
----
-
-### At least 10 killed in attack on police station in Pakistan
-
-*2024-02-06 04:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/At-least-10-killed-in-attack-on-police-station-in-Pakistan/107-276401) · `en`
-
-DERA ISMAIL KHAN, Pakistan, Feb 5 (Reuters) - At least 10 police personnel were killed and six others injured in a pre-dawn attack on Monday by militants on a police station in northwest Pakistan, police said, as violence escalated ahead of general elections this week.
-
-At around 3 a.m. local time (2200 GMT Sunday) militants attacked the police station with sniper fire and then entered the building, said police officers in Pakistan's Draban region in Khyber-Pakhtunkhwa province.
-
-"After entering the building, the terrorists used hand grenades which caused more casualties to the police," said Malik Anees ul Hassan, the deputy superintendent of police in Draban.
-
-It was not immediately clear who was behind the attack and whether it was related to the election.
-
-A national assembly candidate was shot dead on Wednesday elsewhere in Khyber-Pakhtunkhwa. On the same day, another political leader was shot dead in his party's election office in Balochistan province.
-
-...
-
-[Data](articles/8c10ab38.json)
-
-[Extended Data](ext_articles/8c10ab38.ext.json)
-
----
-
-### At least 10 killed in attack on police station in Pakistan
-
-*2024-02-06 04:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/At-least-10-killed-in-attack-on-police-station-in-Pakistan/108-276401) · `en`
-
-DERA ISMAIL KHAN, Pakistan, Feb 5 (Reuters) - At least 10 police personnel were killed and six others injured in a pre-dawn attack on Monday by militants on a police station in northwest Pakistan, police said, as violence escalated ahead of general elections this week.
-
-At around 3 a.m. local time (2200 GMT Sunday) militants attacked the police station with sniper fire and then entered the building, said police officers in Pakistan's Draban region in Khyber-Pakhtunkhwa province.
-
-"After entering the building, the terrorists used hand grenades which caused more casualties to the police," said Malik Anees ul Hassan, the deputy superintendent of police in Draban.
-
-It was not immediately clear who was behind the attack and whether it was related to the election.
-
-A national assembly candidate was shot dead on Wednesday elsewhere in Khyber-Pakhtunkhwa. On the same day, another political leader was shot dead in his party's election office in Balochistan province.
-
-...
-
-[Data](articles/91e62c9d.json)
-
-[Extended Data](ext_articles/91e62c9d.ext.json)
-
----
-
-### Sri Lanka tourism booms in January
-
-*2024-02-06 03:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-tourism-booms-in-January/108-276393) · `en`
-
-Chinese tourists capture the spirit of Sri Lanka’s 76th Independence Day, posing with the national flag while exploring the Independence Memorial Hall on Sunday, February 4
-
-India, Russian Federation and United Kingdom rank as top three tourist traffic generators for island nation
-
-Sri Lanka’s tourism industry marked a resounding start to the new year by receiving more than 200,000 international visitors throughout the month of January.
-
-In January, Sri Lanka received a total of 208,253 tourists, recording a staggering 103 percent year-on-year (YoY) growth. In January 2023, the island nation welcomed 102,545 visitors.
-
-However, despite the industry having maintained a strong momentum of crossing the 200,000 milestone for two consecutive months, the tourist arrival rate is below the expected levels of the Sri Lanka Tourism Development Authority (SLTDA).
-
-...
-
-[Data](articles/c76bb1db.json)
-
-[Extended Data](ext_articles/c76bb1db.ext.json)
-
----
-
-### 2,500 permits for faculty assistants
-
-*2024-02-06 03:07:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-500-ஆசிரிய-உதவியாளர்களுக்கு-அனுமதி/175-332741) · `ta`
-
-Minister of State for Education Aravind Kumar said that the Cabinet has approved the recruitment of 2535 teacher assistants to 863 schools in the plantation areas.
-
-Teacher assistants appointed will be taken to a permanent appointment after completing a degree or teacher collection course after a period of time.
-
-He also said that they will be given a monthly payment of Rs 20,000 during this period.. (A)
-
-◼️
-
-[Data](articles/7f0ba92e.json)
-
-[Extended Data](ext_articles/7f0ba92e.ext.json)
-
----
-
-### Jailed VIPs enjoy in Prison Hospital; GMOF accuses prison hospital medical officer
-
-*2024-02-06 02:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jailed-VIPs-enjoy-in-Prison-Hospital-GMOF-accuses-prison-hospital-medical-officer/108-276400) · `en`
-
-Colombo, Feb 6 (Daily Mirror) - The Government Medical Officers' Forum (GMOF) yesterday accused the female medical officer in charge of Welikada prison of allowing VIPs who were imprisoned, to enjoy life inside the Prison Hospital.
-
-GMOF President told Daily Mirror the authorities keep mum despite repeated complaints to the Health Ministry against the said medical officer of misusing her powers.
-
-"The action of the said medical officer has not only allowed VIPs but also imprisoned drug smugglers to comfortably stay inside the prison hospital," he said.
-
-Dr. Bellana said that in this situation, the real patients who are in the Welikada prison have lost the opportunity to receive a response.
-
-Moreover, he said several complaints have been made to the Human Rights Council and to internal doctors and no action have been taken against the doctor yet.
-
-...
-
-[Data](articles/4278c50c.json)
-
-[Extended Data](ext_articles/4278c50c.ext.json)
-
----
-
-### The government's success of land rights
-
-*2024-02-06 02:42:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணி-உரிமை-வழங்கியமை-அரசாங்கத்தின்-வெற்றி/175-332739) · `ta`
-
-President Ranil Wickremesinghe has said that despite many revolutions in the world demanding land rights, the fact that the people of this country are able to grant permanent land rights without revolution are a unique victory for the current government.
-
-The first phase of the Urithu Scheme was held at the Rangiri Thambulu Stadium yesterday afternoon.. The President said this while addressing the event.
-
-As he further stated. "This is my country, the country I was born, the country that confirmed my heritage. Today we are gathering here to end the struggle of the people of this country to get their land rights. Today we are participating in a revolutionary occasion. 20 lakh land rights are issued today. The people of the country are enjoying this revolution. When this land is owned, no one has to be submissive. MP, the authorities do not have to go behind and get permission. The land can be developed as desired, and no one can put pressure on it. (A)
-
-◼️
-
-[Data](articles/e681b572.json)
-
-[Extended Data](ext_articles/e681b572.ext.json)
-
----
-
-### Anura meets with Indian Defense Advisor
-
-*2024-02-06 02:19:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-பாதுகாப்பு-ஆலோசகருடன்-அனுர-சந்திப்பு/175-332738) · `ta`
-
-National People's Power President Anura Kumara Dissanayake, who has visited India, met with Indian National Security Adviser Ajith Dowel.
-
-At this meeting, Anuragumara said that the bilateral relations and regional security between Sri Lanka and India were discussed.
-
-Vijitha Herath, a member of the National People's Power, was also present at the discussion. (A)
-
-◼️
-
-[Data](articles/9796c29d.json)
-
-[Extended Data](ext_articles/9796c29d.ext.json)
-
----
-
-### Cabinet allowed to cultivate cannabis
-
-*2024-02-06 02:02:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சா-பயிரிடுவதற்கு-அமைச்சரவை-அனுமதி/175-332737) · `ta`
-
-In this case, I am happy with the approval of the Cabinet, ”said Diana Kamage.. (A)
-
-◼️
-
-[Data](articles/0a9e1551.json)
-
-[Extended Data](ext_articles/0a9e1551.ext.json)
 
 ---

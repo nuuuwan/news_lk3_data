@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 19:32:50**
+As of **2024-02-06 19:50:10**
 
 ## Newspaper Stats
 
-*Scraped **5,237** Articles*
+*Scraped **5,239** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ dailyftlk | 290
 newsfirstlk | 326
 adalk | 448
 virakesarilk | 618
-adaderanalk | 649
+adaderanalk | 650
 tamilmirrorlk | 656
 adaderanasinhalalk | 678
-dailymirrorlk | 742
+dailymirrorlk | 743
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,237 (100.0%) of 5,237 articles have been extended.
+5,239 (100.0%) of 5,239 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### Legal action against 50 bakeries over weight of bread
+
+*2024-02-06 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97058/legal-action-against-50-bakeries-over-weight-of-bread) · `en`
+
+The Consumer Affairs Authority (CAA) has raided around 50 bakeries for failure to follow the gazette issued stipulating a standard weight for a loaf of bread and failure to display prices.
+
+Accordingly, the CAA stated that legal action would be initiated against the relevant bakeries.
+
+The Consumer Affairs Authority launched island-wide raids yesterday (05), following a special gazette issued specifying the standard weight of a loaf of bread and making it mandatory to display the weight of bread displayed for sale.
+
+Thus, the standard weight of a loaf of bread should be 450g with an allowed deficiency of 13.5g and for half a loaf of bread the standard weight is stipulated as 225g with a deficiency of 9g.
+
+The CAA has noted that any type of bread manufactured, packed, stored, offered for sale, displayed for sale or sold retail or wholesale should contain the standard weight specified in the gazette extraordinary.
+
+◼️
+
+[Data](articles/364c8f12.json)
+
+[Extended Data](ext_articles/364c8f12.ext.json)
+
+---
+
+### Sri Lanka pursues Free Trade Agreements to boost economic growth
+
+*2024-02-06 19:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-pursues-Free-Trade-Agreements-to-boost-economic-growth/108-276440) · `en`
+
+Colombo, Feb 06 (PMD) -  The Sri Lankan government is currently engaged in discussions to establish free trade agreements (FTAs) with India, Indonesia, Malaysia, Vietnam and China by the end of 2024, according to the Minister of Foreign Affairs.
+
+Foreign Affairs Minister Ali Sabry highlighted the potential of these agreements to open up new markets for Sri Lankan businesses, thus directly contributing to the nation’s economic expansion.
+
+Speaking at a press briefing held at the President Media Centre (PMC) today (06), Sabry emphasized the government's commitment towards diversifying trade partnerships and fortifying economic resilience through strategic FTAs. He stressed that these agreements aim to broaden market access and bolster trade, thereby laying the groundwork for a more robust and sustainable economic future for Sri Lanka.
+
+...
+
+[Data](articles/d5c9d24c.json)
+
+[Extended Data](ext_articles/d5c9d24c.ext.json)
+
+---
 
 ### Explanation for the manager who heard sexual bribery
 
@@ -1915,49 +1955,5 @@ The US dollar purchasing price was Rs 307.7464 and the sales price were 317.6567
 [Data](articles/23c21488.json)
 
 [Extended Data](ext_articles/23c21488.ext.json)
-
----
-
-### Over 56,000 suspects arrested across Sri Lanka within 50 days during ’Yukthiya’
-
-*2024-02-06 12:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-56-000-suspects-arrested-across-Sri-Lanka-within-50-days-during-Yukthiya/108-276423) · `en`
-
-Colombo, Feb 06 (Daily Mirror) - A total of 56,541 suspects have been arrested during the 50-day period spanning from December 17 last year as part of the ongoing anti-drug operation 'Yukthiya' conducted island-wide.
-
-The Ministry of Public Security said that out of this figure, 49,558 suspects were arrested in connection with drug-related offenses, while 6,983 individuals were arrested for various criminal activities.
-
-Among the 49,558 suspects arrested for drug offenses, 1,817 individuals are undergoing further investigation under detention orders, with an additional 1,981 drug addicts referred for rehabilitation.
-
-The Ministry said that investigations into the ownership of illicit assets have been initiated for 234 of the arrested suspects, while 3,083 individuals listed by the Police Narcotics Bureau and Police Special Bureau were also arrested.
-
-The total value of confiscated properties stands at approximately Rs. 725 million.
-
-...
-
-[Data](articles/b0570203.json)
-
-[Extended Data](ext_articles/b0570203.ext.json)
-
----
-
-### Kekirawa-Palugaswewa Crossing Closure This Week
-
-*2024-02-06 12:28:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/kekirawa-palugaswewa-crossing-closure-this-week/) · `en`
-
-COLOMBO (News 1st); Sri Lanka Railways announced the partial and full closure of the level crossing between Kekirawa and Palugaswewa railway stations for repair work scheduled for tomorrow, February 7th, and the day after, February 8th.
-
-Tomorrow, February 7th, the level crossing will be partially closed from 7:00 AM to 10:30 AM.
-
-The level crossing will then be fully closed from 10:30 AM to 10:30 PM.
-
-Motorists will need to use alternative routes during this time.
-
-On February 8th, the level crossing will be partially closed from 6:00 AM to 10:30 PM.
-
-◼️
-
-[Data](articles/532acdde.json)
-
-[Extended Data](ext_articles/532acdde.ext.json)
 
 ---

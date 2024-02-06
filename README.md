@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 14:49:52**
+As of **2024-02-06 15:02:21**
 
 ## Newspaper Stats
 
-*Scraped **5,158** Articles*
+*Scraped **5,162** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 278
 dailyftlk | 290
 newsfirstlk | 316
 adalk | 440
-virakesarilk | 606
-adaderanalk | 636
-tamilmirrorlk | 650
+virakesarilk | 607
+adaderanalk | 638
+tamilmirrorlk | 651
 adaderanasinhalalk | 670
 dailymirrorlk | 733
 
@@ -26,11 +26,49 @@ dailymirrorlk | 733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,158 (100.0%) of 5,158 articles have been extended.
+5,158 (99.9%) of 5,162 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### மூதூர் இந்து இளைஞர் மன்றத்தின் காணியினுள் சட்டத்திற்கு முரணான வகையில் கட்டுமானங்கள்
+
+*2024-02-06 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175713) · `ta`
+
+மூதூர் இந்து இளைஞர் மன்றத்தின் காணியினுள் பொலிஸாரின் உத்தரவையும் மீறி சட்டத்திற்கு முரணான வகையில் கட்டுமானங்கள் மேற்கொள்ளப்பட்டு வருவதாக மன்றத்தின் போசகர் பொ.சச்சிவானந்தம் தெரிவித்தார்.
+
+மூதூர் ஜாயா நகர் கிராம சேவகர் பிரிவில், மணிக்கூட்டுக் கோபுரத்தில் இருந்து 100 மீட்டர்  தொலைவில் உள்ள குறித்த காணியானது நீண்டகாலமாக இந்து இளைஞர் மன்றத்தினால் பராமரிக்கப்பட்டு வருகின்றது. மன்றத்திற்கு சொந்தமான குறித்த காணியை சிலர் பொய்யான ஆவணங்களை தயாரித்து அபகரிக்க முயல்கின்றார்கள் இது தொடர்பாக மூதூர் பொலிஸ் நிலையத்திலும், திருகோணமலை விசேட குற்றப்புலனாய்வுப் பிரிவிலும் முறைப்பாடுகள் மேற்கொள்ளப்பட்டுள்ளன.
+
+குறித்த காணி அபகரிப்பு தொடர்பாக திருகோணமலை பிரதிப் பொலிஸ்மா அதிபரிடம் முறையிட்டதைத் தொடர்ந்து கடந்த மாதம் 10 ஆம் திகதி குறித்த தரப்பினர் உட்பட, முறைப்பாட்டாளர்களையும் மூதூர் பொலிஸ் உத்தியோகத்தர்களையும் அழைத்து விசாரணை இடம்பெற்றது.
+
+...
+
+[Data](articles/6d3ad2cc.json)
+
+---
+
+### Two killed, 9-month-old baby injured in Dambulla road accident
+
+*2024-02-06 14:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97046/two-killed-9-month-old-baby-injured-in-dambulla-road-accident) · `en`
+
+Two including a woman have been killed in a road accident involving a motorcycle on the Dambulla - Kandy main road at the Vihara Junction, Dambulla.
+
+Police said that the accident occurred as a motorcycle, travelling towards the Dambulla - Kandy main road from Kandalama, hit a woman holding a baby and a man who were standing on the side of the road last night (Feb. 05).
+
+The injured were rushed to Dambulla Base Hospital, where the two bystanders were pronounced dead upon admission, the police mentioned.
+
+The 09-month-old baby, whom the woman was holding, is currently receiving treatment at Dambulla Base Hospital.
+
+The deceased man was identified as a 45-year-old resident of the Bandaragama area, and the place of residence of the 43-year-old woman has not yet been discovered, according to police.
+
+Their bodies have been placed at the mortuary of the Dambulla Hospital.
+
+...
+
+[Data](articles/6d9ba8b8.json)
+
+---
 
 ### Freedom to refuse to provide those who enjoy…!
 
@@ -87,6 +125,42 @@ The result is the crisis that is currently reported at the United People's Freed
 [Data](articles/ea15a938.json)
 
 [Extended Data](ext_articles/ea15a938.ext.json)
+
+---
+
+### Sri Lanka approves lifting some limits on rupee conversion for outward remittances
+
+*2024-02-06 13:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97045/sri-lanka-approves-lifting-some-limits-on-rupee-conversion-for-outward-remittances) · `en`
+
+Sri Lanka has approved gradually lifting some limits on converting rupees to foreign exchange for outward remittances and the new directions will be presented to parliament for approval, cabinet spokesperson Bandula Gunawardane said on Tuesday.
+
+The island nation’s central bank had suspended permission to remit funds for overseas investments by Sri Lankan residents from mid-2020 except under certain conditions.
+
+“Sri Lanka’s reserves have gradually improved and limits will be increased under the guidance of the central bank,” Gunawardane told reporters during the weekly cabinet briefing.
+
+The country of 22 million people is slowly recovering from its worst financial crisis in decades, which sent the economy into freefall with soaring inflation, currency depreciation and low foreign reserves.
+
+Sri Lanka’s official reserves stood at $4.4 billion at the end of 2023, an increase of 22% according to the central bank. About $1.5 billion of the reserves is a Chinese yuan-denominated swap.
+
+◼️
+
+[Data](articles/90764035.json)
+
+---
+
+### யாழ். பல்கலைக்கழக மாணவன்: பொலிஸார் அதிர்ச்சி தகவல்
+
+*2024-02-06 13:38:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-பல்கலைக்கழக-மாணவன்-பொலிஸார்-அதிர்ச்சி-தகவல்/71-332761) · `ta`
+
+வட்டுக்கோட்டை பொலிஸார் தன்னை சித்திரவதை புரிந்ததாக மனிதவுரிமை ஆணைக்குழுவில் முறைப்பாடு செய்த யாழ்.  பல்கலை கழக மாணவன் போதைக்கு அடிமையானவர் என பொலிஸார் தெரிவித்துள்ளனர்.
+
+வட்டுக்கோட்டை பகுதியில் வீதியில் மோட்டார் சைக்கிளில் சென்ற தன்னை பொலிஸ் உத்தியோகஸ்தர்கள் வழிமறித்து போக்குவரத்து விதிமீறலில் ஈடுபட்டதாக கூறி வீதியில் வைத்து தாக்கியதாகவும் , பின்னர் பொலிஸ் நிலையம் கொண்டு சென்று அறை ஒன்றில் வைத்து தன்னை தாக்கியதாகவும் மனிதவுரிமை ஆணைக்குழுவின் யாழ்.பிராந்திய அலுவலகத்தில் நேற்றைய தினம் திங்கட்கிழமை முறைப்பாடு செய்திருந்தார்.
+
+இந்நிலையில் , வட்டுக்கோட்டை பகுதியில் உள்ள பாடசாலை ஒன்றின் முன்பாக மிக வேகமாக மோட்டார் சைக்கிளை செலுத்தியமை , ஆசியர்கள் மாணவர்களுக்கு இடையூறு ஏற்படுத்தி , அவர்களுக்கு ஆபத்து விளைவிக்கும் வகையில் மோட்டார் சைக்கிள் செலுத்தியமை உள்ளிட்ட குற்றச்சாட்டுகளுக்காகவே இளைஞனை பொலிஸார் மறித்ததாகவும் , அதன் போதே இளைஞன் பொலிஸாருடன் தர்க்கப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/67e43cf9.json)
 
 ---
 
@@ -1999,87 +2073,5 @@ Fishermen in the area said that the turtles that were injured due to the turbule
 [Data](articles/29c26198.json)
 
 [Extended Data](ext_articles/29c26198.ext.json)
-
----
-
-### Sri Lankan migrant worker in Saudi Arabia faces brutal abuse
-
-*2024-02-06 06:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-migrant-worker-in-Saudi-Arabia-faces-brutal-abuse/108-276402) · `en`
-
-In a distressing incident, Kumudini Sandya Kumari Seneviratne, a Sri Lankan housemaid who sought employment in Saudi Arabia, is currently battling severe abuse and torture at the hands of her employer. The harrowing tale unfolds in the Mundalama area, shedding light on the unfortunate plight of migrant workers pursuing better opportunities abroad.
-
-Seneviratne, a resident of Kajuwatta in Mundalama, secured employment in Saudi Arabia through a private foreign employment agency in Kurunegala on May 23, 2023. She followed the proper procedures by registering with the Sri Lanka Foreign Employment Bureau before departing the country.
-
-...
-
-[Data](articles/118d9d22.json)
-
-[Extended Data](ext_articles/118d9d22.ext.json)
-
----
-
-### A 13 -year -old student arrested for stealing motorcycle
-
-*2024-02-06 06:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175667) · `ta`
-
-A thirteen-year-old student at a school in the Kandy-Pokawala police division has been arrested by the police on Monday (05) for allegedly stealing a motorcycle.
-
-Police investigations have revealed that the student who was arrested on suspicion is from Poojapitiya Marathukoda area and is studying at a school.
-
-Police said that the motorcycle hidden at his home was found by the police.
-
-It has been revealed that a motorcycle belonging to a man in Pokawala Digala area has been parked on the road.
-
-Based on the information received by the Pokawala Police Station Officer Janaka Sanjeeva, the police have identified the suspected student who examined CCTV cameras in the area.
-
-Police said the motorcycle was parked near the student's house and that his parents or his family did not know.
-
-◼️
-
-[Data](articles/d0a98a4c.json)
-
-[Extended Data](ext_articles/d0a98a4c.ext.json)
-
----
-
-### Rainy weather
-
-*2024-02-06 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193022) · `si`
-
-The Department of Meteorology says that there is a rainy weather in many parts of the island today (06).
-
-The department states that some locations are expected in the Galle, Sabaragamuwa and Uva provinces and in the Galle and Matara districts.
-
-◼️
-
-[Data](articles/f91807d8.json)
-
-[Extended Data](ext_articles/f91807d8.ext.json)
-
----
-
-### King Charles diagnosed with undisclosed form of cancer
-
-*2024-02-06 06:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/king-charles-diagnosed-with-undisclosed-form-of-cancer/) · `en`
-
-Colombo (News 1st) – King Charles III has been diagnosed with cancer and began treatment on Monday, Buckingham Palace said in a statement. It did not state what type of cancer the King has been diagnosed with.
-
-The cancer was identified during the King's recent hospital 3-day treatment for a benign enlarged prostate. "A separate issue of concern was noted, and subsequent diagnostic tests have identified a form of cancer", the Palace said.
-
-Charles, 75, who assumed the throne last May, will postpone public duties, but will continue to undertake state duties.
-
-His treatment is being carried out on an out-patient basis, and he does not need to stay overnight in hospital.
-
-Navy gears up for annual Kachchativu feast set for February 23,24
-
-Sri Lanka to Elect President, Parliament This Year, Local Gov’t Waits
-
-Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
-
-◼️
-
-[Data](articles/23f434df.json)
-
-[Extended Data](ext_articles/23f434df.ext.json)
 
 ---

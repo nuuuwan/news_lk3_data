@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 00:32:36**
+As of **2024-02-07 00:47:25**
 
 ## Newspaper Stats
 
-*Scraped **5,276** Articles*
+*Scraped **5,291** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ bbccomsinhala | 74
 dbsjeyarajcom | 140
 economynextcom | 278
 islandlk | 278
-dailyftlk | 290
-newsfirstlk | 326
+dailyftlk | 300
+newsfirstlk | 327
 adalk | 451
-virakesarilk | 629
+virakesarilk | 633
 adaderanalk | 657
 tamilmirrorlk | 660
 adaderanasinhalalk | 684
@@ -26,11 +26,47 @@ dailymirrorlk | 749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,276 (100.0%) of 5,276 articles have been extended.
+5,276 (99.7%) of 5,291 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-02-07 (Wednesday)
+
+### மாங்குளம் பிரதேசத்துக்கான 1990 அம்புலன்ஸ் சேவை மூன்று மாதங்களாக இடைநிறுத்தம் மக்கள் பெரும் துன்பம்
+
+*2024-02-07 00:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175751) · `ta`
+
+முல்லைத்தீவு மாவட்டத்தின் மாங்குளம் பிரதேசத்துக்கான இலவச அம்புலன்ஸ் சேவை (1990)  கடந்த மூன்று மாதங்களுக்கு மேலாக இடைநிறுத்தப்பட்டுள்ளதால் அதனை அண்டிய பகுதிகளில் உள்ள  மக்கள் பெரும் துன்பங்களைச் சந்தித்து வருகின்றனர்.
+
+குறிப்பாக மாங்குளம் பொலிஸ் நிலையத்தில் நிறுத்தி வைக்கப்படும் குறித்த அவசர அம்புலன்ஸ் (1990) வண்டியானது  பிரதானமாக ஏ 9 வீதியில் இடம்பெறும் விபத்துக்களின் போதும் போக்குவரத்து சிரமங்களை எதிர்நோக்கும் பாண்டிய குளம், நட்டாங்கண்டல் மல்லாவி,கோட்டை கட்டிய குளம், அம்பலபெருமாள் மற்றும் அம்பகாமம் தட்சடம்பன் ஒலுமடு உள்ளிட்ட பல்வேறு பகுதி மக்களுக்கும் இந்துபுரம், வசந்தபுரம் போன்ற பல்வேறு பகுதிகளில் உள்ள மக்களுக்கும்  நாளாந்தம் இந்த சேவையைப் பெற்று வரும் நிலையில் தற்போது மூன்று மாதங்களாக இந்த அம்புலன்ஸ் சேவைகள் நிறுத்தப்பட்டுள்ளதால்  மக்கள் பல்வேறு துன்பங்களுக்குள்  தள்ளப்பட்டுள்ளனர்.
+
+குறிப்பாக நட்டாங்கண்டல் போன்ற பகுதிகளிலிருந்து நோயாளர்கள் சுமார் 3000 ரூபாய் வரையில் ஆட்டோவுக்கு செலவழிக்க வேண்டும்
+
+ஆகவே இந்த அம்புலன்ஸ் சேவையை மீண்டும்  மிக விரைவாக இயக்குமாறு மக்கள் கோரிக்கை விடுக்கின்றனர்
+
+...
+
+[Data](articles/ac8d9e07.json)
+
+---
+
 ### 2024-02-06 (Tuesday)
+
+### இந்தியா, சீனாவுடனான சுதந்திர வர்த்தக ஒப்பந்தங்கள் குறித்த பேச்சுவார்த்தைகளை விரைவில் நிறைவு செய்ய எதிர்பார்க்கின்றோம் - சர்வதேச ஒப்பந்தகளுக்கான பிரதான இணக்கப்பாட்டு அதிகாரி
+
+*2024-02-06 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/175749) · `ta`
+
+இந்தியாவுடனான சுதந்திர வர்த்தக ஒப்பந்தத்தை விஸ்தரிப்பதற்கான பேச்சுவார்த்தைகளை மார்ச் அல்லது ஏப்ரல் மாதத்துக்குள் நிறைவு செய்ய எதிர்பார்க்கின்றோம். அத்தோடு 2018இல் இடைநிறுத்தப்பட்ட சீனாவுடனான பேச்சுவார்த்தைகள் மீள ஆரம்பிக்கப்பட்டுள்ளதாக வெளிநாட்டலுவல்கள் அமைச்சின் சர்வதேச ஒப்பந்தங்களுக்கான பிரதான இணக்கப்பாட்டு அதிகாரி வீரசிங்க தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (06) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+இந்தியாவுடன் கையெழுத்திடப்பட்டுள்ள சுதந்திர வர்த்தக ஒப்பந்தம் தற்போதும் நடைமுறையில் உள்ளது. எனினும் இவ் ஒப்பந்தம் வணிக நடவடிக்கைகளுக்காக மாத்திரம் வரையறுக்கப்பட்டதாகவே காணப்படுகிறது. இதனை மேலும் விரிவுபடுத்துவது தொடர்பில் கடந்த ஜனவரியில் பேச்சுவார்த்தைகள் முன்னெடுக்கப்பட்டன. அதற்கமைய விரைவில் அந்த பேச்சுவார்த்தைகளை நிறைவு செய்ய வேண்டும் என்று இருதரப்பு இணக்கப்பாடு எட்டப்பட்டுள்ளது. மார்ச் மாதத்தின் பின்னர் தேர்தல் என்பதால், அதற்கு முன்னர் பேச்சுவார்த்தைகளை நிறைவு செய்வதற்கு இந்தியா எதிர்பார்க்கின்றது.
+
+...
+
+[Data](articles/11785542.json)
+
+---
 
 ### Plans to ship human ashes, drink container to Moon spark legal debate
 
@@ -52,6 +88,172 @@ Landers built by private companies and emerging space powers are expected in the
 
 ---
 
+### இராஜாங்க அமைச்சர் டயனா கமகேயின் கூற்றை மறுக்கும் அமைச்சர் பந்துல!
+
+*2024-02-06 23:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175750) · `ta`
+
+கஞ்சா செடியை வளர்ப்பதற்கும் கஞ்சாவை ஏற்றுமதி செய்வதற்கும் அமைச்சரவை அனுமதி கிடைத்துள்ளதாக இராஜாங்க அமைச்சர் டயானா கமகே கூறியுள்ளதனை மறுத்துள்ள அமைச்சரவைப் பேச்சாளர் பந்துல குணவர்தன, கஞ்சா செடி பயிரிடுவதற்கான தீர்மானம் எதுவும் எடுக்கப்படவில்லை எனவும் தெரிவித்தார்.
+
+இது தொடர்பில் அமைச்சரவை பத்திரம் சமர்ப்பிக்கப்படவில்லை அல்லது வேறு எந்தத் தீர்மானமும் எடுக்கப்படவில்லை என்றும் வாராந்த அமைச்சரவை  ஊடகவியலாளர் மாநாட்டில் அவர் தெரிவித்தார்.
+
+டயனா கமகே அமைச்சரவை அமைச்சர் அல்ல. அவர் வெளியிட்ட அறிக்கைக்கு நான் பொறுப்பேற்க முடியாது. அமைச்சரவைக்கு எந்த அமைச்சரவை பத்திரமும் சமர்ப்பிக்கப்படவில்லை அல்லது இது தொடர்பாக எந்த முடிவும் எடுக்கப்படவில்லை  என்றும் அவர் கூறினார்.
+
+ஏற்றுமதிக்காக கஞ்சா பயிரிடுவதற்கு அமைச்சரவை அங்கீகாரம் வழங்கப்பட்டுள்ளதாக இராஜாங்க டயனா கமகே ஊடகங்களுக்கு தெரிவித்திருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/1fe72dac.json)
+
+---
+
+### Federal Appeals Court rules Trump does not have presidential immunity
+
+*2024-02-06 23:14:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/federal-appeals-court-rules-trump-does-not-have-presidential-immunity/) · `en`
+
+Colombo (News 1st) – Donald Trump’s hopes of avoiding a trial over alleged attempts to falsify the results of the 2020 presidential election that he lost, were dealt a serious blow on Tuesday (6th) when a Federal Court of Appeal handed down a scathing ruling that the former president does not have presidential immunity for such actions, U.S. media reported.
+
+The federal appeals court in the District of Columbia, the nation’s capital, said his immunity claims would reject "the most fundamental check on executive power."
+
+In addition, they said that Trump's stance "would collapse our system of separated powers by placing the President beyond the reach of all three Branches."
+
+The all-female 3-judge bench also gave Trump very little time to appeal to the highest court in the land, with a deadline of next Monday (12th) to approach the Supreme Court to suspend their ruling. Trump’s attorneys said they would appeal.
+
+...
+
+[Data](articles/5c107f15.json)
+
+---
+
+### Macktiles makes history; exports Made in Sri Lanka tiles to Indonesia for the first time
+
+*2024-02-06 23:10:22* · [`dailyftlk`](https://www.ft.lk/business/Macktiles-makes-history-exports-Made-in-Sri-Lanka-tiles-to-Indonesia-for-the-first-time/34-758197) · `en`
+
+Seen here, the Macktiles team with the first consignment to Indonesia
+
+Macktiles Lanka Ltd., has achieved a monumental milestone as Sri Lankan tiles make their debut in the Indonesian market.
+
+This historic accomplishment marks a significant shift in the global trade dynamics, with Sri Lanka transitioning from being a net importer to an exporter of premium-quality tiles. Macktiles is Sri Lanka’s largest manufacturer.
+
+“For decades, Sri Lanka has relied on imports from Indonesia for its tile requirements. Today, we are immensely proud to announce that Macktiles Lanka has successfully exported Sri Lankan tiles to Indonesia for the first time,” said Macksons Holdings Managing Director Mizver Makeen.
+
+...
+
+[Data](articles/aa383c2f.json)
+
+---
+
+### Bill and Melinda Gates Foundation to set up Support Unit within President’s Office
+
+*2024-02-06 23:09:47* · [`dailyftlk`](https://www.ft.lk/business/Bill-and-Melinda-Gates-Foundation-to-set-up-Support-Unit-within-President-s-Office/34-758196) · `en`
+
+Cabinet approves move after considering President’s presentation on policy support from Bill and Melinda Gates Foundation
+
+Global Health Strategies, by the Bill and Melinda Gates Foundation and its local partner Connect to Care Organisation, are to establish a Program Support Unit within the President’s Office.
+
+“The Cabinet of Ministers deliberated on the issues presented by the President concerning the policy support envisioned by the Bill and Melinda Gates Foundation for the Presidential Secretariat. Subsequently, approval was granted by the Cabinet of Ministers to proceed with the necessary steps in this regard,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said last week.
+
+...
+
+[Data](articles/d3cd5ea5.json)
+
+---
+
+### MTI to invest in tech start-ups to augment strategy consulting
+
+*2024-02-06 23:09:29* · [`dailyftlk`](https://www.ft.lk/business/MTI-to-invest-in-tech-start-ups-to-augment-strategy-consulting/34-758195) · `en`
+
+As part of their international growth strategy, MTI Consulting is looking to invest in tech start-ups that can augment their core strategy consulting practice.
+
+“We are looking to partially acquire / invest in start-ups that are strategically linked our core i.e. Strategy Consulting, in areas such as, Research, Analytics, Content Generation, Data Visualisation, Project Management etc., or any technologies that can augment our core strategy consulting practice, particularly ones that optimises generative AI,” said MTI Consulting CEO Hilmy Cader.
+
+MTI is particularly in search of start-ups that offer upside global potential (even if extremely niche currently) - which can benefit from synergies with MTI Consulting’s international network, strong capabilities and credentials in Strategy Consulting.
+
+...
+
+[Data](articles/a23e9a2f.json)
+
+---
+
+### Sri Lanka takes bold step to promote Inclusive and Sustainable Businesses
+
+*2024-02-06 23:08:35* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-takes-bold-step-to-promote-Inclusive-and-Sustainable-Businesses/34-758194) · `en`
+
+In a bid to boost economic growth whilst prioritising social and environmental welfare, Sri Lanka is embarking on a journey to promote Inclusive and Sustainable Businesses (ISBs).
+
+The Cabinet of Ministers green-lighted a proposal put forward by the President, in his capacity as the Finance, Economic Stabilisation and National Policies Minister regarding the implementation of the strategy.
+
+ISBs are characterised by their commercially viable models that generate positive social and environmental impacts, including green businesses and social enterprises empowering vulnerable communities.
+
+Despite their potential to drive positive change, ISBs in Sri Lanka have faced numerous challenges, including limited access to information, skills training, partnership financing, and formal recognition.
+
+Recognising the critical role these businesses play in achieving Sustainable Development Goals (SDGs), the Sri Lanka Sustainable Development Council has spearheaded efforts to address these challenges.
+
+...
+
+[Data](articles/7ed4f4d5.json)
+
+---
+
+### Ravi joins Distilleries, Aitken Spence Hotels Boards
+
+*2024-02-06 23:08:29* · [`dailyftlk`](https://www.ft.lk/business/Ravi-joins-Distilleries-Aitken-Spence-Hotels-Boards/34-758193) · `en`
+
+Dr. Ravi Fernando has joined the Boards of Distilleries Company of Sri Lanka (DCSL) Plc and Aitken Spence Hotel Holdings Plc as an Independent Non-Executive Director.
+
+Fernando is an Alumni of the University of Cambridge having completed both a Post Graduate Certificate in Sustainable business in 2008 and Master of Studies in Sustainability Leadership in 2014. He has an MBA from the University of Colombo.
+
+He holds a Doctor of Business Administration Degree from the European Business School in 2016. He completed the Advanced Management Program at the INSEAD Business School (France) and has been an Executive in Residence since 2010.
+
+...
+
+[Data](articles/03860035.json)
+
+---
+
+### Inclusive and sustainable businesses set new pathways for Sri Lanka
+
+*2024-02-06 23:06:59* · [`dailyftlk`](https://www.ft.lk/columns/Inclusive-and-sustainable-businesses-set-new-pathways-for-Sri-Lanka/4-758192) · `en`
+
+Selyn, a women-led handloom business, offers flexible employment and valuable income opportunities to about 1,000 women artisans and persons from marginalised groups in rural Sri Lanka. Selyn develops and exports high-value craft products in global markets. The bigger revenue margins of quality products translate into better incomes for women artisans. Thanks to its pioneering use of blockchain in the supply chain – consumers can track how their purchases translate into earnings for women in the informal economy.
+
+The Small Organic Farmers Association (SOFA) of Sri Lanka, produces and exports organic food while creating a sustainable and equitable environment for smallholder farmers. It facilitates fair trade certification for smallholders and links more than 3,600 organic farmers to export markets.
+
+...
+
+[Data](articles/4e06a533.json)
+
+---
+
+### Tech horizons: Expanding markets via Singapore and India
+
+*2024-02-06 23:05:03* · [`dailyftlk`](https://www.ft.lk/columns/Tech-horizons-Expanding-markets-via-Singapore-and-India/4-758191) · `en`
+
+India has rapidly emerged as an economic giant and a technology hub in the past two decades, while Singapore has solidified its position as a regional hub for businesses. Fortunately, Sri Lanka finds itself in close proximity to India and not far from Singapore. Yet, the key lies in leveraging these two economic powerhouses for enhanced collaboration to attract business, investments, and crucially, for market access.
+
+Should Sri Lanka cultivate stronger ties with these hubs, as it stands to position itself as a crucial point in the value chain? Beyond considerations of South Asia and Southeast Asia, looking at the broader Asia Pacific region underscores the significance of partnering with Australia. However, the geographical distance may pose challenges.
+
+...
+
+[Data](articles/f0ee5a54.json)
+
+---
+
+### Compass for more human business
+
+*2024-02-06 23:02:58* · [`dailyftlk`](https://www.ft.lk/columns/Compass-for-more-human-business/4-758190) · `en`
+
+UN Global Compact Network Sri Lanka Executive Director Rathika de Silva, UN Global Compact Network Sri Lanka Chairman Dilhan Fernando, UNDP Sri Lanka Resident Representative and UN Global Compact Network Sri Lanka Board Representative Azusa Kubota, and UN Sri Lanka Resident Coordinator Marc-André Franche
+
+Together with the Board and Team at Global Compact Network Sri Lanka it was an honour to present plans for more sustainable business at Network Sri Lanka’s ‘Compass 2024’ last week.
+
+Amidst unprecedented social, economic, health and environmental crises, further complicated by geopolitical tension and conflict, growing inequality and financial stress, there has never been greater urgency to sincerely embrace responsibility in business.
+
+...
+
+[Data](articles/f35e54af.json)
+
+---
+
 ### There is no objection to Santhan's return to the country - the government
 
 *2024-02-06 23:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/175748) · `ta`
@@ -69,6 +271,22 @@ So you can discuss this with the Deputy High Commissioner and provide the approp
 [Data](articles/9bd74c38.json)
 
 [Extended Data](ext_articles/9bd74c38.ext.json)
+
+---
+
+### UDA and Dilmah Ceylon Tea Company partner to preserve Beddagana Wetland Park
+
+*2024-02-06 23:01:04* · [`dailyftlk`](https://www.ft.lk/news/UDA-and-Dilmah-Ceylon-Tea-Company-partner-to-preserve-Beddagana-Wetland-Park/56-758189) · `en`
+
+Urban Development Authority Chairman Nimesh Herath (left) and Dilmah Ceylon Tea Company Chairman Dilhan C. Fernando exchange the MoU signed between the two organisations. President’s Advisor on Environment, Climate Change, and Green Finance Dr. Ananda Mallavatantri is also present
+
+The Urban Development Authority (UDA) and Dilmah Ceylon Tea Company have entered into a Memorandum of Understanding to improve the sustainability of Beddagana Wetland Park.
+
+Beddagana Wetland Park has become an ecological haven for local and foreign tourists. It is a magnificent wetland park that was started in 2014 by UDA under the assistance of the World Bank and handed over to the public in 2016.
+
+...
+
+[Data](articles/9ef76ee6.json)
 
 ---
 
@@ -107,6 +325,20 @@ President Wickremesinghe reiterated Sri Lanka’s commitment to supporting regio
 [Data](articles/e79aca75.json)
 
 [Extended Data](ext_articles/e79aca75.ext.json)
+
+---
+
+### Déjà vu?
+
+*2024-02-06 22:46:04* · [`dailyftlk`](https://www.ft.lk/columns/Déjà-vu/4-758180) · `en`
+
+In a democracy, voters too bear responsibility for the governance that results – Pic by Shehan Gunasekara
+
+If the true purpose of the Online Safety Act is protecting people, sections 12, 14, 15, and 16 would not be necessary. The purpose of those sections is the protection of vested interests and powerful political and religious groups. The inclusion of such crimes as promoting ‘ill-feeling and hostility between different classes of people by communicating a false statement’, ‘disturbing a religious assembly by a false statement’, and ‘insults or attempts to insult a religion or religions’ indicate that the Government is using a real problem (online crimes) to further a different agenda
+
+...
+
+[Data](articles/3703c47c.json)
 
 ---
 
@@ -176,6 +408,28 @@ Relatives have gone to the forest that the relatives have gone to the forest.. H
 
 ---
 
+### பொருளாதார பயங்கரவாதிகளையும் கொலையாளிகளையும் சட்டத்தின் முன் நிறுத்துவது ஐக்கிய மக்கள் சக்தி முக்கிய பணியாகும் - சஜித்
+
+*2024-02-06 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175744) · `ta`
+
+பிள்ளைகளுக்கு தகரத்தாலும் ஓலைகளாலும் பின்னப்பட்ட குடிசைகளும், ஆட்சியாளர்களுக்கு ஜனாதிபதி மாளிகையும் அலரி மாளிகையும் உரித்தாகியுள்ளது.
+
+இந்த இரண்டு மாளிகைகளும் ஐக்கிய மக்கள் சக்தி அரசாங்கத்தில் சர்வதேச மட்டத்தை எட்டும் மிக உயர்ந்த மாதிரியிலான தகவல் தொழிநுட்ப பல்கலைக்கழகங்களாக மாற்றியமைக்கப்படும்.
+
+ஆட்சியாளர்களுக்கு மாளிகைகள் தேவையில்லை. இந்நாட்டின் பிள்ளைகளுக்கும் பொது மக்களுக்குமே மாளிகைகள் தேவை என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+இந்நாட்டில் ஏழை எளிய பெற்றோரின் பிள்ளைகள் இருந்தாலும், இப்பிள்ளைகள் அறிவு, திறன் மற்றும் ஆற்றல் நிரப்பப் பெற்ற வளம் கொழிப்போராக உள்ளனர்.
+
+சர்வதேச தரத்திலான உயர்தரக் கல்வியைப் பெறுவது நாட்டின் மாணவச் செல்வங்களது உரிமையாகும். இந்தக் கடமையை நிறைவேற்றுவது அரசாங்கத்தின் பொறுப்பாகும் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+ஆனால் வங்குரோத்து நாட்டில் ஆட்சி செய்பவர்களும் திருடும் காலத்தில், தற்போதைய அரசாங்கத்தின் ஆட்சியாளர்கள் அரசின் சொத்துக்களையும் வளங்களையும் சூறையாடுகின்றனர்.
+
+...
+
+[Data](articles/87d1c7fa.json)
+
+---
+
 ### 10th Group of Sri Lanka Army Medical Force travels to South Sudan
 
 *2024-02-06 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/175737) · `ta`
@@ -191,6 +445,22 @@ Major General PAC Fernando, Director General of the Sri Lanka Army Health Servic
 [Data](articles/be157d51.json)
 
 [Extended Data](ext_articles/be157d51.ext.json)
+
+---
+
+### Speaker's Office to clarify public
+
+*2024-02-06 22:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175729) · `ta`
+
+The report is published in the interest of the public in order to revise and clarify the fact that the Ceremony Building Bill of 2024 was passed and subsequently passed by the Act.. The legislative process is explained from the beginning to learn the public and prevent them from being cheated.
+
+When a bill is presented in Parliament, Article 121 of the Constitution has the opportunity to challenge the Supreme Court in accordance with Article 121 of the Constitution.. According to the provisions of the Constitution, the Supreme Court considers them and the relevant verdict is submitted to the Speaker within three weeks. Subsequently, the Speaker must declare the relevant decision on the first day of the next parliamentary session and ordered that a complete verdict be issued in the Hansat Power Report for the day.
+
+...
+
+[Data](articles/faa17563.json)
+
+[Extended Data](ext_articles/faa17563.ext.json)
 
 ---
 
@@ -1194,6 +1464,8 @@ Accordingly, from the arrivals, the Russian Federation and India leaded a cumula
 
 The number of tourist arrivals from 01 January 2024 to 4th of February has been calculated to 236,746 arrivals by the SLTDA.
 
+Federal Appeals Court rules Trump does not have presidential immunity
+
 ◼️
 
 [Data](articles/0ad7dcce.json)
@@ -1249,6 +1521,8 @@ COLOMBO (News 1st); A delegation from the Jathika Jana Balawegaya (JJB), led by 
 The JJB delegation met with representatives of the Observer Research Foundation (ORF), a leading global think tank based in New Delhi. The ORF provides research and advisory services on a wide range of policy issues to Indian policymakers and businesses.
 
 Following the discussion at ORF, the JJB delegation visited the headquarters of the Unique Identification Authority of India (UIDAI) in New Delhi. UIDAI is responsible for managing Aadhaar, India's national identity card system, which assigns a unique 12-digit identification number to all Indian residents.
+
+Federal Appeals Court rules Trump does not have presidential immunity
 
 ◼️
 
@@ -1461,22 +1735,6 @@ However, currently only 12,500 tonnes of cashew nuts can be procured locally and
 [Data](articles/7db992ba.json)
 
 [Extended Data](ext_articles/7db992ba.ext.json)
-
----
-
-### Speaker's Office to clarify public
-
-*2024-02-06 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175729) · `ta`
-
-The report is published in the interest of the public in order to revise and clarify the fact that the Ceremony Building Bill of 2024 was passed and subsequently passed by the Act.. The legislative process is explained from the beginning to learn the public and prevent them from being cheated.
-
-When a bill is presented in Parliament, Article 121 of the Constitution has the opportunity to challenge the Supreme Court in accordance with Article 121 of the Constitution.. According to the provisions of the Constitution, the Supreme Court considers them and the relevant verdict is submitted to the Speaker within three weeks. Subsequently, the Speaker must declare the relevant decision on the first day of the next parliamentary session and ordered that a complete verdict be issued in the Hansat Power Report for the day.
-
-...
-
-[Data](articles/faa17563.json)
-
-[Extended Data](ext_articles/faa17563.ext.json)
 
 ---
 
@@ -1713,291 +1971,5 @@ US soldiers invented unmanned Air Force in Yemen's areas in Yemen, which has bee
 [Data](articles/b72dda76.json)
 
 [Extended Data](ext_articles/b72dda76.ext.json)
-
----
-
-### Worker dies in explosion at scrap metal collecting centre
-
-*2024-02-06 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97048/worker-dies-in-explosion-at-scrap-metal-collecting-centre-) · `en`
-
-A worker has died following an explosion at a scrap metal collecting center at Madola in Avissawella, Ada Derana correspondent says.
-
-◼️
-
-[Data](articles/7e44fd3e.json)
-
-[Extended Data](ext_articles/7e44fd3e.ext.json)
-
----
-
-### One killed in explosion at Avissawella
-
-*2024-02-06 15:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/One-killed-in-explosion-at-Avissawella/108-276435) · `en`
-
-Avissawella, Feb. 06 (Daily Mirror)- At least one person was killed following an explosion at a scrap metal collecting shop at Madola in Avissawella this afternoon, Police said.
-
-◼️
-
-[Data](articles/fb777fb0.json)
-
-[Extended Data](ext_articles/fb777fb0.ext.json)
-
----
-
-### 15,000 Tons Of Cashew Imports Approved
-
-*2024-02-06 15:29:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/15-000-tons-of-cashew-imports-approved/) · `en`
-
-COLOMBO (News 1st); The Sri Lankan Cabinet has approved the import of 15,000 tons of cashew nuts in shell to address a domestic shortage and support the local industry.
-
-This decision comes after the country's cashew harvest fell short of expectations, leaving a significant gap between demand and supply.
-
-Sri Lanka's annual cashew nut requirement stands at around 25,000 tons, but domestic production currently only yields 12,500 tons.
-
-To bridge this gap, the government has authorized the import of 15,000 tons to ensure sufficient supply for the remaining year.
-
-◼️
-
-[Data](articles/a4900395.json)
-
-[Extended Data](ext_articles/a4900395.ext.json)
-
----
-
-### Yala Sanctuary by Military Intelligence Unit
-
-*2024-02-06 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175715) · `ta`
-
-On February 4, the military intelligence unit, along with the Moneragala Corruption Prevention Unit officials, rounded up a long -time ganja cultivation near the Kubukan Oya in Moneragala Yala Sanctuary.
-
-Two suspects have been arrested with 16,800 cannabis plants ready for harvest during this period, 1,658.40 kilograms of dried cannabis and two domestic guns.. The arrested suspects and items are to be produced before the Siyambalanduwa Magistrate's Court.
-
-Meanwhile, police Special Task Force (STF) has arrested three persons with more than 7,000 cannabis plants planted in half an acre of land in Kadirgamam area, according to information received by the Army Intelligence Unit and Kadirgamam police are conducting further investigations.
-
-◼️
-
-[Data](articles/aec27c73.json)
-
-[Extended Data](ext_articles/aec27c73.ext.json)
-
----
-
-### Sri Lanka president urges new landholders to safeguard right
-
-*2024-02-06 15:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-urges-new-landholders-to-safeguard-right-150070/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe who distributed an initial 10,000 freehold titles to land to farmers as part of the first phase of the Urumaya program urged beneficiaries to safeguard their new right.
-
-“I urge everyone to cherish and safeguard this right, not just for themselves but for future generations,” Wickremesinghe said during the ceremony at the Rangiri Dambulu Stadium on Monday (5).
-
-The ‘Urumaya’ program will be rolled out nationwide benefiting an estimated 2 million farming families. The 2024 budget allocated 2 billion rupees for the program’s implementation.
-
-Applicants seeking full ownership of land will receive freehold titles in three main stages. To streamline the process and address community concerns, a Urumaya National Operations Secretariat was established under the Presidential Secretariat, coordinating relevant institutions.
-
-Sri Lanka launches operations secretariat for free hold land distribution
-
-...
-
-[Data](articles/8095441d.json)
-
-[Extended Data](ext_articles/8095441d.ext.json)
-
----
-
-### No Cabinet approval granted to cultivate Cannabis: Bandula refutes Diana’s claims
-
-*2024-02-06 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-Cabinet-approval-granted-to-cultivate-Cannabis-Bandula-refutes-Dianas-claims/108-276434) · `en`
-
-Colombo, Feb. 06 (Daily Mirror)- Refuting claims by State Minister Diana Gamage that Cabinet approval has been granted to cultivate Cannabis for export, Cabinet Spokesman Bandula Gunawardane said no such decision has been taken to cultivate Cannabis.
-
-He told the weekly Cabinet briefing that no Cabinet paper has been submitted or any other decision taken in this regard.
-
-"She is not a Cabinet Minister. I can't take the responsibility for a statement made by her. No Cabinet paper has been submitted to the Cabinet or any decision staken in this regard," he said.
-
-The State Minister had told the media that Cabinet approval has been granted to cultivate cannabis for export.
-
-◼️
-
-[Data](articles/d8bfca00.json)
-
-[Extended Data](ext_articles/d8bfca00.ext.json)
-
----
-
-### BREAKING : Keheliya sends resignation letter to President
-
-*2024-02-06 15:08:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/breaking-keheliya-sends-resignation-letter-to-president/) · `en`
-
-COLOMBO (News 1st); Sri Lanka's Environment Minister, and Former Health Minister Keheliya Rambukwella had sent his letter of resignation to the President.
-
-The President's Office said that the letter of resignation was accepted by the President, and that it was directed for publication via government gazette.
-
-Keheliya Rambukwella, was arrested last week by the CID over his involvement in the controversial human immunoglobulin procurement scandal, and was subsequently remanded to the 15th of February 2024.
-
-Thereafter, he was moved to the prison hospital due to an illness.
-
-◼️
-
-[Data](articles/00593408.json)
-
-[Extended Data](ext_articles/00593408.ext.json)
-
----
-
-### Online Safety Act: Statement from Speaker’s Office
-
-*2024-02-06 14:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/online-safety-act-statement-from-speaker-s-office/) · `en`
-
-COLOMBO (News 1st); The Office of the Speaker released a statement today clarifying the process and legality surrounding the passage of the Online Safety Act, No. 9 of 2024. The statement aims to address concerns and misinformation regarding the Act's enactment.
-
-This statement is issued in the interest of the public, to set the record straight on the passing and the subsequent enactment of the ONLINE SAFETY ACT, No. 9 OF 2024. For the knowledge of the public, the process of enactment is explained from the beginning, to prevent being duped.
-
-...
-
-[Data](articles/cd01ab15.json)
-
-[Extended Data](ext_articles/cd01ab15.ext.json)
-
----
-
-### Sri Lanka disaster management plan to be presented in parliament
-
-*2024-02-06 14:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-disaster-management-plan-to-be-presented-in-parliament-150055/) · `en`
-
-ECONOMYNEXT – Sri Lanka has formulated a national disaster management plan, which will be tabled in parliament for approval, cabinet spokesman Bandula Gunawardena said.
-
-“A comprehensive national disaster management plan for 2023-2030 has been formulated taking into account the Sendai Framework for Disaster Risk Reduction, the sustainable development goals, and conventions on climate change, and working with relevant institutions,” Gunawardena said. “This will be tabled in parliament for approval.”
-
-Gunawardena said that with the possibility of extreme weather conditions increasing, a broad national disaster action plan was important.
-
-According to World Bank data, disasters such as floods, cyclones and landslides are most common in Sri Lanka, with 151,885 people being affected by floods in the year 2020.
-
-...
-
-[Data](articles/5f3ca2c4.json)
-
-[Extended Data](ext_articles/5f3ca2c4.ext.json)
-
----
-
-### Keheliya resigns as Environment Minister
-
-*2024-02-06 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97047/keheliya-resigns-as-environment-minister-) · `en`
-
-SLPP MP Keheliya Rambukwella, who is currently in remand custody, has tendered his resignation as the Minister of Environment.
-
-Accordingly, he had submitted his letter of resignation as the Minister of Environment to President Ranil Wickremesinghe, who has accepted the resignation.
-
-The former Health Minister was remanded on 03 February, following his arrest by the Criminal Investigation Department (CID) on 02 February, in connection with the procurement of substandard human intravenous immunoglobulin (IVIG).
-
-Later that day he was admitted to the Prison Hospital on medical recommendation.
-
-The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
-
-Prior to the apprehension of Rambukwella, seven arrests had been made in connection with the drug procurement scam. But the fifth accused was later released on bail.
-
-...
-
-[Data](articles/9a70f378.json)
-
-[Extended Data](ext_articles/9a70f378.ext.json)
-
----
-
-### Keheliya resigns
-
-*2024-02-06 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193045) · `si`
-
-Minister of Environment Keheliya Rambukwella has sent his resignation letter to President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/d4eb6bca.json)
-
-[Extended Data](ext_articles/d4eb6bca.ext.json)
-
----
-
-### Notice on March 21
-
-*2024-02-06 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193044) · `si`
-
-Declared on March 21 as the Day of the National Marine.
-
-A proposal made by the Minister of Ports, Naval and Aviation and Airline Services has been approved by the Cabinet.
-
-This is aimed at raising the sailors to the local economy of the country and attract interested in marine professionals.
-
-Accordingly, Cabinet approval has been issued to be announced as the date of the national marine every year.
-
-◼️
-
-[Data](articles/9733a73d.json)
-
-[Extended Data](ext_articles/9733a73d.ext.json)
-
----
-
-### China shows flexibility on Sri Lanka FTA after temporary halt: Chief Negotiator
-
-*2024-02-06 14:35:00* · [`economynextcom`](https://economynext.com/china-shows-flexibility-on-sri-lanka-fta-after-temporary-halt-chief-negotiator-150048/) · `en`
-
-Sri Lanka has started FTA negotiations with China virtually after 2018 halt
-
-Both countries have already held seven rounds of negotiations until 2018
-
-ECONOMYNEXT – China has shown some flexibility in its stance over the Free Trade Agreement (FTA) with Sri Lanka after the island nation briefly halted the negotiations following seven rounds of talks due to disagreement on tariff list, level of liberalization, and a review process, Colombo’s Chief Negotiator K G Weerasinghe said.
-
-Sri Lanka is proceeding with multiple free trade agreements including with China, five years after talks with Beijing on the FTA were suspended following concerns over upper hand by China.
-
-Both countries have started virtual negotiations for the first time since 2018
-
-“Now China has shown some flexibility from the earlier position it took in 2018. That is why the negotiations are moving forward,” Weerasinghe told reporters in Colombo at a media briefing on Tuesday.
-
-...
-
-[Data](articles/90c4a4c5.json)
-
-[Extended Data](ext_articles/90c4a4c5.ext.json)
-
----
-
-### Muttur Hindu Youth Forum
-
-*2024-02-06 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175713) · `ta`
-
-The council of the forum said that the construction of the Muttur Hindu Youth Forum is being carried out in contrast to the law of the police.
-
-In the Muttur Jaya Nagar Grama Niladhari Division, the land, which is 100 meters from the bell tower, has been maintained by the Hindu Youth Forum for a long time.. Some people are trying to prepare and extort the land owned by the forum.
-
-Following the appeal of the Trincomalee Deputy Inspector General of Police regarding the land grabbing, the inquiry was taken up by the Muttur police officers, including the parties on the 10th of last month.
-
-At this time, the Inspector General of Police, who visited the documents, warned the persons involved not to enter the land and made a complaint at the Special Criminal Investigation Division.. The Special Criminal Investigation Division has also lodged a complaint on the 26th of last month.
-
-...
-
-[Data](articles/6d3ad2cc.json)
-
-[Extended Data](ext_articles/6d3ad2cc.ext.json)
-
----
-
-### Keheliya resigns as Cabinet Minister
-
-*2024-02-06 14:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Keheliya-resigns-as-Cabinet-Minister/155-276431) · `en`
-
-Colombo, Feb 06 (Daily Mirror) - Minister Keheliya Rambukwella who is in prison has tendered his resignation from the position of Environment Minister to President Ranil Wickremesinghe.
-
-The Daily Mirror learns that the letter has been forwarded to the President's Secretary Saman Ekanayake and President Ranil Wickremesinghe has accepted the letter.
-
-Accordingly the Ministry of Environment will be placed under the President.
-
-Keheliya Rambukwella was remanded until the 15th of February over the controversial human immunoglobulin procurement scandal and is currently admitted in the Prison Hospital.
-
-◼️
-
-[Data](articles/349ddc97.json)
-
-[Extended Data](ext_articles/349ddc97.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 12:48:54**
+As of **2024-02-06 13:02:26**
 
 ## Newspaper Stats
 
-*Scraped **5,119** Articles*
+*Scraped **5,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,27 +14,125 @@ dbsjeyarajcom | 140
 economynextcom | 266
 islandlk | 278
 dailyftlk | 290
-newsfirstlk | 309
+newsfirstlk | 314
 adalk | 439
 virakesarilk | 598
 adaderanalk | 630
 tamilmirrorlk | 642
-adaderanasinhalalk | 666
-dailymirrorlk | 728
+adaderanasinhalalk | 667
+dailymirrorlk | 730
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,119 (100.0%) of 5,119 articles have been extended.
+5,119 (99.8%) of 5,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
 
+### Over 56,000 suspects arrested across Sri Lanka within 50 days during ’Yukthiya’
+
+*2024-02-06 12:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-56-000-suspects-arrested-across-Sri-Lanka-within-50-days-during-Yukthiya/108-276423) · `en`
+
+Colombo, Feb 06 (Daily Mirror) - A total of 56,541 suspects have been arrested during the 50-day period spanning from December 17 last year as part of the ongoing anti-drug operation 'Yukthiya' conducted island-wide.
+
+The Ministry of Public Security said that out of this figure, 49,558 suspects were arrested in connection with drug-related offenses, while 6,983 individuals were arrested for various criminal activities.
+
+Among the 49,558 suspects arrested for drug offenses, 1,817 individuals are undergoing further investigation under detention orders, with an additional 1,981 drug addicts referred for rehabilitation.
+
+The Ministry said that investigations into the ownership of illicit assets have been initiated for 234 of the arrested suspects, while 3,083 individuals listed by the Police Narcotics Bureau and Police Special Bureau were also arrested.
+
+The total value of confiscated properties stands at approximately Rs. 725 million.
+
+...
+
+[Data](articles/b0570203.json)
+
+---
+
+### Kekirawa-Palugaswewa Crossing Closure This Week
+
+*2024-02-06 12:28:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/kekirawa-palugaswewa-crossing-closure-this-week/) · `en`
+
+COLOMBO (News 1st); Sri Lanka Railways announced the partial and full closure of the level crossing between Kekirawa and Palugaswewa railway stations for repair work scheduled for tomorrow, February 7th, and the day after, February 8th.
+
+Tomorrow, February 7th, the level crossing will be partially closed from 7:00 AM to 10:30 AM.
+
+The level crossing will then be fully closed from 10:30 AM to 10:30 PM.
+
+Motorists will need to use alternative routes during this time.
+
+On February 8th, the level crossing will be partially closed from 6:00 AM to 10:30 PM.
+
+Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
+
+◼️
+
+[Data](articles/532acdde.json)
+
+---
+
+### President to visit Australia on Thursday
+
+*2024-02-06 12:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-to-visit-Australia-on-Thursday/108-276422) · `en`
+
+Colombo, Feb. 06 (Daily Mirror)- President Ranil Wickremesinghe will leave for Australia on an official visit on Thursday, a spokesman from the President's office said.
+
+"The President  is to participate in the Indian Ocean Conference in Perth," sources said.
+
+◼️
+
+[Data](articles/2892f35a.json)
+
+---
+
+### Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
+
+*2024-02-06 12:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/human-immunoglobulin-probe-heats-up-key-meetings-legal-consultations-today/) · `en`
+
+COLOMBO (News 1st); A crucial development is expected today (6) in the ongoing investigation into the human immunoglobulin procurement scandal, as several key meetings and actions are scheduled.
+
+A special discussion headed by the Deputy Inspector General (DIG) in charge of the Criminal Investigation Department (CID) will take place today. This high-level meeting will focus on reviewing the current progress of the investigation, outlining future steps, and strategizing next actions.
+
+Simultaneously, a team from the CID has been dispatched to the Attorney General's Department. Their objective is to obtain legal advice and guidance on the investigation's direction.
+
+The police have confirmed that further investigations will proceed based on the instructions received from the Attorney General.
+
+Notably, yesterday, the CID took custody of several files related to the transaction from the official chamber of Dr. Saman Ratnayake, Additional Secretary of the Ministry of Health.
+
+...
+
+[Data](articles/ddbf9e95.json)
+
+---
+
+### Nurses in Civilian Clothes: Union Action Continues for Allowances
+
+*2024-02-06 12:17:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/nurses-in-civilian-clothes-union-action-continues-for-allowances/) · `en`
+
+COLOMBO (News 1st); Members of the Public Service United Nurses Union (PSUNU) continued their trade union action today (6), wearing civilian clothes instead of their official uniforms to protest several demands, including a uniform allowance and salary increase.
+
+The union action began on February 5th, with nurses across the country reporting for duty in civilian attire.
+
+PSUNU demands include the allocation of a dedicated uniform allowance and a Rs. 20,000 increase in their existing allowance.
+
+News 1st correspondents reported continued union activity at hospitals in Kurunegala, Anuradhapura, and Karapitiya.
+
+While patient care has not been directly disrupted, concerns remain about the potential impact of prolonged action on healthcare services.
+
+In a positive development, the Health Service Trade Union Alliance is scheduled to meet with the Secretary of the Finance Ministry this afternoon at the Ministry of Finance.
+
+...
+
+[Data](articles/14831f89.json)
+
+---
+
 ### Two persons injured in Galle Galle
 
-*2024-02-06 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175696) · `ta`
+*2024-02-06 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175696) · `ta`
 
 The accident occurred this morning near the Galle Football 'Wan Pollbase', Colombo.
 
@@ -43,6 +141,42 @@ The accident occurred this morning near the Galle Football 'Wan Pollbase', Colom
 [Data](articles/db0e9387.json)
 
 [Extended Data](ext_articles/db0e9387.ext.json)
+
+---
+
+### රියදුරු බලපත්‍රය පූර්ණ ශ්‍රවණාබාධිතයින්ටත්
+
+*2024-02-06 12:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193040) · `si`
+
+පූර්ණ ශ්‍රවණාබාධිත පුද්ගලයින් සඳහා සැහැල්ලු වාහන රියදුරු බපත්‍රය ලබාදීම සඳහා වූ යෝජනාවකට කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+2022 වසරේ නොවැම්බර් මස 14 දා අමාත්‍ය මණ්ඩල යෝජනාවකට අනුව ගම්පහ දිස්ත්‍රික්කය කේන්ද්‍ර කරගනිමින් නියමු ව්‍යාපෘතියක් ක්‍රියාත්මක කෙරුණි.
+
+ඒ අනුව එහි ප්‍රතිඵල මෙම ව්‍යාපෘතිය ක්‍රියාත්මක කිරීමට අදාළව ප්‍රවාහන හා මහාමාර්ග අමාත්‍යාංශ ලේකම්වරයාගේ ප්‍රධානත්වයෙන් පත්කරනු ලැබ ඇති කමිටුවේ නිර්දේශ මත මෙම තීරණය ගෙන ඇත.
+
+◼️
+
+[Data](articles/041dbd8b.json)
+
+---
+
+### Audit Report on Further Payments of Litro
+
+*2024-02-06 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175692) · `ta`
+
+The former Chairman of the Litro Fuel Terminal and the Litro Gas Company has received a monthly payment of 443,000 rupees as a monthly vehicle allowance for his monthly allowance.
+
+According to the circular, only 50,000 rupees has been approved by the National Audit Office.
+
+According to the survey, he has been given 500 liters of fuel payments per month, according to the circular.
+
+The survey also revealed that 50,000 rupees as a payroll allowance and 150,000 rupees as a monthly entertainment allowance.
+
+◼️
+
+[Data](articles/95586880.json)
+
+[Extended Data](ext_articles/95586880.ext.json)
 
 ---
 
@@ -114,23 +248,39 @@ Police suspect that the murder had been carried out on a personal dispute.
 
 ---
 
-### Audit Report on Further Payments of Litro
+### Talk of The Town | Harshana Rajakaruna | SJB is on track
 
-*2024-02-06 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/175692) · `ta`
+*2024-02-06 11:47:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/talk-of-the-town-harshana-rajakaruna-sjb-is-on-track/) · `en`
 
-The former Chairman of the Litro Fuel Terminal and the Litro Gas Company has received a monthly payment of 443,000 rupees as a monthly vehicle allowance for his monthly allowance.
-
-According to the circular, only 50,000 rupees has been approved by the National Audit Office.
-
-According to the survey, he has been given 500 liters of fuel payments per month, according to the circular.
-
-The survey also revealed that 50,000 rupees as a payroll allowance and 150,000 rupees as a monthly entertainment allowance.
+Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
 
 ◼️
 
-[Data](articles/95586880.json)
+[Data](articles/c83452a8.json)
 
-[Extended Data](ext_articles/95586880.ext.json)
+---
+
+### Parents Killed, Infant Hurt in Collision with Drunk Rider
+
+*2024-02-06 11:42:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/parents-killed-infant-hurt-in-collision-with-drunk-rider/) · `en`
+
+COLOMBO (News 1st); A couple and their 9-month-old baby were involved in a fatal road accident on New Padeniya Road in Dambulla last night.
+
+The parents, in their forties from the Bandaragama area, tragically lost their lives in the collision, while their baby sustained injuries.
+
+According to police reports, the family was waiting near the roadside when a drunk motorcyclist crashed onto them.
+
+The infant, who suffered injuries in the crash, was rushed to Peradeniya Hospital for medical attention.
+
+The motorcyclist involved in the accident has been taken into custody by police.
+
+Sri Lanka Police added that the deceased along with their child were involved in the sale of incense sticks.
+
+Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
+
+◼️
+
+[Data](articles/a266c970.json)
 
 ---
 
@@ -300,6 +450,8 @@ Furthermore, eight individuals on the watchlists of the Police Narcotics Bureau 
 
 Notably, among the 108 suspects detained based on crime branch list, 12 were wanted for drug-related offenses, while 128 had outstanding warrants for non-drug-related crimes.
 
+Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
+
 ◼️
 
 [Data](articles/76451ff9.json)
@@ -317,6 +469,8 @@ COLOMBO (News 1st); The National Civil Organization Front (NCOF) and Mass Organi
 The petition drive, held outside the Gampaha railway station, comes amidst growing public anxieties surrounding the alleged procurement of substandard medicine.
 
 NCOF claims the current administration has failed to effectively address these issues, instead allowing them to escalate.
+
+Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
 
 ◼️
 
@@ -549,6 +703,8 @@ COLOMBO (News 1st); In a move to address the ongoing doctor shortage within gove
 Ministry Secretary, Specialist Dr. Palitha Mahipala, confirmed that these doctors are currently completing their internships and will be joining the workforce upon successful completion.
 
 This follows the recent appointment of 590 doctors who finished their internships last week.
+
+Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
 
 ◼️
 
@@ -869,6 +1025,8 @@ COLOMBO (News 1st); Former Health Minister Keheliya Rambukwella, currently in re
 Prisons Spokesperson Gamini B. Dissanayake clarified that Rambukwella has not requested treatment in a private hospital.
 
 The minister was taken into custody last Friday in connection with the controversial immunoglobulin procurement scandal, where allegedly non-functional drugs were purchased for state hospitals.
+
+Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
 
 ◼️
 
@@ -1275,6 +1433,8 @@ The cancer was identified during the King's recent hospital 3-day treatment for 
 Charles, 75, who assumed the throne last May, will postpone public duties, but will continue to undertake state duties.
 
 His treatment is being carried out on an out-patient basis, and he does not need to stay overnight in hospital.
+
+Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
 
 ◼️
 
@@ -1893,171 +2053,5 @@ In the case of court judges, the Commissioner added that the number of prisoners
 [Data](articles/09d72d12.json)
 
 [Extended Data](ext_articles/09d72d12.ext.json)
-
----
-
-### Housing Program for Housing Crimes - State Minister Anuradha Jayaratne
-
-*2024-02-05 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175659) · `ta`
-
-Minister of Justice and Prison Affairs Anuradha Jayaratne said that this year's program will be implemented by the housing detention program for all those involved in civil crimes in order to reduce congestion in prisons.
-
-He said that after issuing the report of the committee appointed to prepare the laws, the laws are being prepared by the Laws and that the law will be submitted to Parliament after completing the work.
-
-The Minister of State for Drugs and Criminal Investigation at the opening of the bakery training school for the Pallekela Open Prison last Saturday (03) at the Pallekela Open Prison.
-
-By implementing this project, many laws, such as the Bail Law, have to be amended, and the homeowner is monitored by GPS technology?It was also urged to do this by the prison and a nearby police station.
-
-The Minister of State said that about 13,000 inmates were forced to stay in prisons, but the number of prisoners arrested daily by justice has increased to 33,000.
-
-...
-
-[Data](articles/eab15755.json)
-
-[Extended Data](ext_articles/eab15755.ext.json)
-
----
-
-### Love is in the air…
-
-*2024-02-05 22:19:00* · [`islandlk`](http://island.lk/love-is-in-the-air/) · `en`
-
-Yes, with February 14th fast approaching, love is certainly in the air, and lots of folks are gearing up for that special occasion.
-
-Entertainment-wise, social media is chock-a-block with events, connected with Valentine’s Day.
-
-However, some are wondering whether everyone knows the true meaning of Valentine’s Day, especially when it comes to music!
-
-They are apprehensive that loud and noisy music may dominate the scene at some of these venues, or even music that has no connection, whatsoever, with romance.
-
-One must keep in mind that Valentine’s Day is an annual festival to celebrate romantic love, friendships and admiration.
-
-Every year, on February 14th, people, young and old, celebrate this day by sending messages of love and affection to partners, family and friends.
-
-Mirage: Valentine special in Melbourne, Australia (Pic by Sagara Lakmal de Mel)
-
-Thankfully, most recognized venues are going ahead with dinner specials, with music to suit the setup.
-
-...
-
-[Data](articles/057cd778.json)
-
-[Extended Data](ext_articles/057cd778.ext.json)
-
----
-
-### Foreign assignments galore…
-
-*2024-02-05 22:15:00* · [`islandlk`](http://island.lk/foreign-assignments-galore/) · `en`
-
-The group LunuDehi is on a roll where foreign assignments are concerned.
-
-They were in Dubai last month and were seen in action at ‘PIMA NIGHT 2024,’ a gala dinner dance held at the Millennium Plaza Downtown Hotel.
-
-Their next overseas tour is to the UK, Canada, and the USA as backing band for BNS, Umaria and Randhir.
-
-Canada – Calgary (March 8 – sold out), Vancouver (March 9 – sold out), Ottawa (March 15 – sold out), Toronto (March 16).
-
-USA – Tampa (March 22), New York (March 23), Houston ((March 30), San Francisco (April 5) and Los Angele (April 6).
-
-LunuDehi has emerged as a very popular outfit in the scene here as they are dynamic on stage and the music they produce is very infectious.
-
-No doubt they would be having many more foreign assignments coming up…for the year 2024.
-
-Science Diplomacy as a powerful tool for national unity and friendship among nations – I
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/18c35a97.json)
-
-[Extended Data](ext_articles/18c35a97.ext.json)
-
----
-
-### Executive President is responsible for the people
-
-*2024-02-05 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193020) · `si`
-
-Parliamentarian Professor Charit Herath says that not only Parliament but also responsible for the people.
-
-He was speaking to the President by a letter.
-
-The letter has been referred to the President based on the issues of the parliamentary structured and the president.
-
-◼️
-
-[Data](articles/a6043395.json)
-
-[Extended Data](ext_articles/a6043395.ext.json)
-
----
-
-### The dispossession of a voice through English in Sri Lanka
-
-*2024-02-05 22:06:00* · [`islandlk`](http://island.lk/the-dispossession-of-a-voice-through-english-in-sri-lanka/) · `en`
-
-...
-
-[Data](articles/0cd06762.json)
-
-[Extended Data](ext_articles/0cd06762.ext.json)
-
----
-
-### ‘We must avoid falling into debt again and becoming a nation of beggars’ – President
-
-*2024-02-05 22:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97027/we-must-avoid-falling-into-debt-again-and-becoming-a-nation-of-beggars-president-) · `en`
-
-President Ranil Wickremesinghe on Monday underscored the distinctive accomplishment of the current government in providing land rights to the people of the country without the need for a revolution, despite numerous global movements advocating for land rights.
-
-Highlighting the initial success of the present government in in rescuing the country from bankruptcy, President Ranil Wickremesinghe also emphasized additional achievements such as the “Aswasuma” program benefiting 02 million people and salary increases for 1.5 million government employees.
-
-The President emphasized that the government achieved significant progress for the country’s betterment in just two years with the support of a partial parliament. He encouraged everyone to contemplate the potential advancements the country could achieve with the backing of all parliament members.
-
-...
-
-[Data](articles/04ad142c.json)
-
-[Extended Data](ext_articles/04ad142c.ext.json)
-
----
-
-### Prison Rehabilitation Unit
-
-*2024-02-05 22:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175661) · `ta`
-
-A senior police officer said that a rehabilitation unit officer working at the Moneragala Prison has been arrested by the Moneragala police in Moneragala with heroin.
-
-Police said the Moneragala Prison Superintendent had informed the arrest of the officer with heroin.
-
-◼️
-
-[Data](articles/ca3f24ca.json)
-
-[Extended Data](ext_articles/ca3f24ca.ext.json)
-
----
-
-### Opening of Excellent Center Opens
-
-*2024-02-05 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193019) · `si`
-
-The President opened the President of Excellence in the Dambulla Stadium today (05).
-
-Cricketers in Sri Lanka were created in parallel to the national program, "the National Cricket Development Passion", which is launched to provide equal opportunities for the national team representing the national team.
-
-The President also opened the new swimming pool at the Dambulla Stadium premises and had also participated in the swimming pool practical activities.
-
-President Ranil Wickremesinghe was opened by President Ranil Wickremesinghe.
-
-Meanwhile, the President also launched the root stone at the Rangiri Dambulla International Cricket Stadium and the Center of Excellence, the new auditorium and the domestic station.
-
-◼️
-
-[Data](articles/125d65c3.json)
-
-[Extended Data](ext_articles/125d65c3.ext.json)
 
 ---

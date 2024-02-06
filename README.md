@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 09:32:51**
+As of **2024-02-06 09:51:29**
 
 ## Newspaper Stats
 
-*Scraped **5,067** Articles*
+*Scraped **5,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 304
 adalk | 435
 virakesarilk | 588
 adaderanalk | 623
-tamilmirrorlk | 637
+tamilmirrorlk | 640
 adaderanasinhalalk | 658
 dailymirrorlk | 718
 
@@ -26,7 +26,7 @@ dailymirrorlk | 718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,066 (100.0%) of 5,067 articles have been extended.
+5,067 (99.9%) of 5,070 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ On January 08, the Cabinet of Ministers approved President Ranil Wickremesinghe�
 ...
 
 [Data](articles/e1211a39.json)
+
+[Extended Data](ext_articles/e1211a39.ext.json)
 
 ---
 
@@ -157,6 +159,40 @@ Accordingly, the rehabilitation officer was under the disciplinary inquiry, pris
 [Data](articles/de90b22c.json)
 
 [Extended Data](ext_articles/de90b22c.ext.json)
+
+---
+
+### 3ஆம் சார்ள்ஸ் மன்னருக்கு புற்றுநோய் !
+
+*2024-02-06 07:47:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/3ஆம்-சார்ள்ஸ்-மன்னருக்கு-புற்றுநோய்/50-332743) · `ta`
+
+அவரின் புற்றுநோயின் வகை வெளிப்படுத்தப்படாததுடன்  குறித்த  விடயமானது அவரது சமீபத்திய சிகிச்சையின் போதே கண்டுபிடிக்கப்பட்டுள்ளது.
+
+மன்னர் திங்களன்று "வழக்கமான சிகிச்சையை" தொடங்கினார் எனவும், மேலும் சிகிச்சையின் போது பொது கடமைகளை ஒத்திவைப்பார் என்றும் அரண்மனை தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/f4f19ec1.json)
+
+---
+
+### இன்றைய காலநிலை நிலவரம்
+
+*2024-02-06 07:37:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-காலநிலை-நிலவரம்/175-332742) · `ta`
+
+நாட்டின் பெரும்பாலான பகுதிகளில் இன்று சீரான வானிலை நிலவக்கூடுமென  வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மத்திய, சப்ரகமுவ மற்றும் ஊவா மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும்  காலை வேளையில் பனிமூட்டம் காணப்படும்.
+
+நாட்டை சூழ உள்ள கடல் பிராந்தியங்களில் சீரான வானிலை காணப்படும். கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 20 - 30 கிலோமீற்றர் வேகத்தில் வடகிழக்குத்  திசையில் இருந்து  காற்று வீசும்.
+
+மாத்தறை தொடக்கம் ஹம்பாந்தோட்டை ஊடாக பொத்துவில் வரையான கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 55 கிலோமீற்றரிலும் கூடிய வேகத்தில் அடிக்கடி  காற்று அதிகரித்து வீசக்கூடும். இவ்வாறான சந்தர்ப்பங்களில் இக் கடல் பிராந்தியங்கள் கொந்தளிப்பாகக் காணப்படும்.
+
+கொழும்பு தொடக்கம் புத்தளம், மன்னார் ஊடாக காங்கேசன்துறை வரையான கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 45 கிலோமீற்றரிலும் கூடிய வேகத்தில் இடைக்கிடையே காற்று அதிகரித்து வீசக்கூடும். இவ்வாறான சந்தர்ப்பங்களில் இக் கடல் பிராந்தியங்கள் ஓரளவு கொந்தளிப்பான நிலையில் காணப்படும் என தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/27a3eb6f.json)
 
 ---
 
@@ -427,6 +463,22 @@ A national assembly candidate was shot dead on Wednesday elsewhere in Khyber-Pak
 [Data](articles/91e62c9d.json)
 
 [Extended Data](ext_articles/91e62c9d.ext.json)
+
+---
+
+### 2,500 ஆசிரிய உதவியாளர்களுக்கு அனுமதி
+
+*2024-02-06 03:07:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-500-ஆசிரிய-உதவியாளர்களுக்கு-அனுமதி/175-332741) · `ta`
+
+பெருந்தோட்டப் பகுதிகளில் 863 பாடசாலைகளுக்கு 2535 ஆசிரிய உதவியாளர்களை சேவையில் இணைத்துக் கொள்வதற்கு அமைச்சரவை அங்கீகாரம் கிடைத்துள்ளதாக கல்வி இராஜாங்க அமைச்சர் அரவிந்த்குமார் தெரிவித்துள்ளார்.
+
+இவ்வாறு நியமிக்கப்படுகின்ற ஆசிரிய உதவியாளர்கள், குறிப்பிட்ட கால இடைவெளிக்குப் பின்னர் பட்டப்படிப்பை அல்லது ஆசிரிய கலாசாலை கற்கையை பூர்த்தி செய்ததும் நிரந்தர நியமனத்துக்கு உள்வாங்கப்படுவார்கள்.
+
+மேலும் இந்தக் காலப்பகுதியில் அவர்களுக்கு 20,000 ரூபாய் மாதாந்த கொடுப்பனவு வழங்கப்படும் எனவும் அவர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/7f0ba92e.json)
 
 ---
 
@@ -1913,79 +1965,5 @@ The victim is a 46 year old resident of Boralesgamuwa.
 [Data](articles/d1f01494.json)
 
 [Extended Data](ext_articles/d1f01494.ext.json)
-
----
-
-### Harin Fernando with the dream of getting a three -scale party in the last election
-
-*2024-02-05 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175647) · `ta`
-
-Ranil Wickremesinghe is the best doctor for the country in the condition of a patient infected with a life -threatening disease.
-
-The presidential election should be held in the first week of October this year.
-
-Harinbernando said that this is one more than 47 percent of the party, which has only three percent in the last election.
-
-Harinbernando said he should again give him an opportunity to build the nation, as President Ranil Wickremesinghe is the one who survived the nation in a bankruptcy.
-
-He said that the people should decide whether the patient is going to be sent to the radical treatment unit again.
-
-Harin Fernando said that Ranil Wickremesinghe is the best doctor for the country of the patient who is suffering from a life -threatening disease.
-
-◼️
-
-[Data](articles/a5b75836.json)
-
-[Extended Data](ext_articles/a5b75836.ext.json)
-
----
-
-### Sri Lanka rupee closes at 312.40/80 to the US dollar
-
-*2024-02-05 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-312-40-80-to-the-us-dollar-149896/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 312.40/80 to the US dollar Monday, from 313.25/50 on Friday, dealers said.
-
-A bond maturing on 01.02.2026 closed at 11.80/95 down from 12.00/15 percent Friday.
-
-A bond maturing on 15.09.2027 closed at 12.35/55 down from 12.65/72 percent.
-
-A bond maturing on 15.03.2028 closed at 12.55/65 down from 12.90/95 percent.
-
-A bond maturing on 15.07.2029 closed at 12.80/13.10 down from 13.00/20 percent.
-
-A bond maturing on 15.05.2030 closed at 13.00/15 down from 13.15/30 percent.
-
-A bond maturing on 15.05.2031 closed at 13.10/25 down from 13.25/45 percent.
-
-A bond maturing on 01.07.2032 closed at 13.00/30 down from 13.25/45 percent. (Colombo/Feb5/2024)
-
-◼️
-
-[Data](articles/b76b8cbf.json)
-
-[Extended Data](ext_articles/b76b8cbf.ext.json)
-
----
-
-### TISL slams “outrageous” passage of Online Safety Act
-
-*2024-02-05 17:13:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/tisl-slams-outrageous-passage-of-online-safety-act/) · `en`
-
-COLOMBO (News 1st); Transparency International Sri Lanka expressed its outrage at the government's passage of the Online Safety Act, despite failing to implement crucial amendments mandated by the Supreme Court.
-
-In a statement, Transparency International Sri Lanka said: "We are appalled by the outrageous conduct of the Government, Parliament, Attorney General, and the Speaker in signing off on a version of the Online Safety Act that does not contain several of the amendments required by the Supreme Court in its determination on the bill."
-
-The organization went on to criticize the move as a "blatant violation of the Constitutional safeguard" provided for citizens to seek the redress of the court against the attempts of the legislature to impose unconstitutional laws.
-
-They condemned it as an "unprecedented abuse of power by the legislature" and demanded immediate corrective action.
-
-Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
-
-◼️
-
-[Data](articles/32489cd3.json)
-
-[Extended Data](ext_articles/32489cd3.ext.json)
 
 ---

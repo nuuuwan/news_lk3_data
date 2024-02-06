@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 17:33:22**
+As of **2024-02-06 17:53:12**
 
 ## Newspaper Stats
 
-*Scraped **5,195** Articles*
+*Scraped **5,199** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,62 @@ adalk | 443
 virakesarilk | 613
 adaderanalk | 645
 tamilmirrorlk | 653
-adaderanasinhalalk | 673
+adaderanasinhalalk | 677
 dailymirrorlk | 740
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,194 (100.0%) of 5,195 articles have been extended.
+5,199 (100.0%) of 5,199 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### The Archestra, who destroyed lives
+
+*2024-02-06 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193051) · `si`
+
+Kenya AHL McMcensi, a Kenya's arch leader, and 29 of his assistance has been filed against death.
+
+He ordered the followers to "fast with their children to die."
+
+He had said that they could go to heaven before the end of the world.
+
+◼️
+
+[Data](articles/bd3e5d0e.json)
+
+[Extended Data](ext_articles/bd3e5d0e.ext.json)
+
+---
+
+### Wall in the wall to save children
+
+*2024-02-06 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193050) · `si`
+
+According to police, 4,983 schools have been identified as a drug circulation around school.
+
+Accordingly, 517 persons have been arrested by the police on suspicion of drugs surrounding the schools.
+
+Around the relevant school teachers, student leader and the working class surrounding the student's community, was set up on the instructions of the acting IGP Deshabandu Tennakoon.
+
+According to reports received by the "wall" committee members, reports have revealed that the risk of narcotic capital has passed away in the area of 4,876 schools.
+
+Also, the 'Wall' forum has been reported that the drug risk is located in 107 schools, and the IGP has already given instructions to the SSP in charge of the schools.
+
+The police Headquarters have been instructed to mislead children around 434 schools, police said.
+
+The "Walapura" Forum is further strengthened to create a favorable environment in the schools.
+
+◼️
+
+[Data](articles/15f8618b.json)
+
+[Extended Data](ext_articles/15f8618b.ext.json)
+
+---
 
 ### Sony World Photography Awards 2024
 
@@ -65,6 +109,22 @@ He was remanded the following day, until February 15, and was admitted to the Pr
 ...
 
 [Data](articles/0d6529f0.json)
+
+[Extended Data](ext_articles/0d6529f0.ext.json)
+
+---
+
+### Gazette notification on Keheliya
+
+*2024-02-06 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193049) · `si`
+
+The gazette notification indicated that former Minister of Health Keheliya Rambukwella has been resigned from the post of Environmentar.
+
+◼️
+
+[Data](articles/2152c20a.json)
+
+[Extended Data](ext_articles/2152c20a.ext.json)
 
 ---
 
@@ -149,6 +209,22 @@ Further, it was observed that the funds required for conducting Provincial Counc
 [Data](articles/900a7f67.json)
 
 [Extended Data](ext_articles/900a7f67.ext.json)
+
+---
+
+### Intelligence on the Online Act
+
+*2024-02-06 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193048) · `si`
+
+A statement has been issued by the public awareness of the safety of online methods.
+
+It explains a clarification to the public regarding the awareness and baseless records that have been adopted against the decision of the Supreme Court.
+
+◼️
+
+[Data](articles/277c110f.json)
+
+[Extended Data](ext_articles/277c110f.ext.json)
 
 ---
 
@@ -1879,87 +1955,5 @@ Earlier, on September 25 last year, the committee was appointed by the then Mini
 [Data](articles/bbc47e8a.json)
 
 [Extended Data](ext_articles/bbc47e8a.ext.json)
-
----
-
-### Rescue from school children '' Forum "is coming
-
-*2024-02-06 10:45:57* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුන්-මතින්--බේරා-ගන්න-’’පවුර-සංසදය’’-එයි/11-407921) · `si`
-
-Police have launched a program to set up the unions for drug prevention.
-
-Acting Inspector General of Police (IGP) has assigned the responsibility of establishing these unions on the instructions of Deshabandu Tennakoon.
-
-The program aims to rescue school children by drugs and stopping the drugs in school as well as salarying, utilizing the use of drugs.
-
-A teacher named the school principal is the president of the forum, as well as retirement officers, school children, and businessmen who are not appointed to this purpose.
-
-The forum is being carried out by the police and selecting the drug survey in the area and recovered from schools and surrounding areas.
-
-This forum should be met once a month and discuss the progress of the officers 25 percent of the officers of the officers.
-
-The establishment of these forums should be completed before February 15.
-
-◼️
-
-[Data](articles/886fee0b.json)
-
-[Extended Data](ext_articles/886fee0b.ext.json)
-
----
-
-### Action action;A further 733 suspects arrested
-
-*2024-02-06 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/175682) · `ta`
-
-The Ministry of Public Security said on Tuesday (6) that 733 people were arrested on suspicion of drug and underworld charges in the last 24 hours under the strategy.
-
-The arrested include 589 people on drug charges and 144 on the list of criminals.
-
-Further investigations are being carried out on a detention order regarding five of the arrested suspects, the Ministry of Public Safety said
-
-The Public Security Ministry said that 130 grams of heroin, 159 grams of ice and 1,725 kg of cannabis and 211,804 cannabis were seized from the suspects.
-
-◼️
-
-[Data](articles/02da3d22.json)
-
-[Extended Data](ext_articles/02da3d22.ext.json)
-
----
-
-### 1300 Doctors to Join Government Hospitals in March
-
-*2024-02-06 10:43:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/1300-doctors-to-join-government-hospitals-in-march/) · `en`
-
-COLOMBO (News 1st); In a move to address the ongoing doctor shortage within government hospitals, the Ministry of Health announced the assignment of 1,300 additional doctors starting next March.
-
-Ministry Secretary, Specialist Dr. Palitha Mahipala, confirmed that these doctors are currently completing their internships and will be joining the workforce upon successful completion.
-
-This follows the recent appointment of 590 doctors who finished their internships last week.
-
-◼️
-
-[Data](articles/9c2b0fc8.json)
-
-[Extended Data](ext_articles/9c2b0fc8.ext.json)
-
----
-
-### Appointment to 1300 doctors next month
-
-*2024-02-06 10:38:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-மாதம்-மேலும்-1300-வைத்தியர்களுக்கு-நியமனம்/175-332748) · `ta`
-
-The Ministry of Health said that a further 1300 doctors will be appointed in March as a solution to the shortage of doctors in the country's state hospitals.
-
-Health Secretary Palitha Maibala said that the appointment will be appointed once the doctors have completed the training.
-
-Meanwhile, 90 doctors who completed the training last week have been appointed.
-
-◼️
-
-[Data](articles/f6492de0.json)
-
-[Extended Data](ext_articles/f6492de0.ext.json)
 
 ---

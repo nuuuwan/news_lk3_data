@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 00:17:29**
+As of **2024-02-07 00:32:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,275 (100.0%) of 5,276 articles have been extended.
+5,276 (100.0%) of 5,276 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Landers built by private companies and emerging space powers are expected in the
 ...
 
 [Data](articles/32c3c86e.json)
+
+[Extended Data](ext_articles/32c3c86e.ext.json)
 
 ---
 

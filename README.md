@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 20:32:51**
+As of **2024-02-06 20:50:01**
 
 ## Newspaper Stats
 
-*Scraped **5,242** Articles*
+*Scraped **5,243** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ virakesarilk | 618
 adaderanalk | 651
 tamilmirrorlk | 656
 adaderanasinhalalk | 679
-dailymirrorlk | 743
+dailymirrorlk | 744
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,242 (100.0%) of 5,242 articles have been extended.
+5,243 (100.0%) of 5,243 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### Change name of ’Keheliya Rambukwella Primary School’: CTU
+
+*2024-02-06 20:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Change-name-of-Keheliya-Rambukwella-Primary-School-CTU/108-276439) · `en`
+
+Colombo, Feb 6 (Daily Mirror) - While going against the circular issued by the Education Ministry, a school 'Keheliya Rambukwella Primary School' had been named in Kundasale in Kandy by the name of former Environment Minister Keheliya Rambukwella, and this name should be removed, Ceylon Teachers' Union (CTU) general secretary Joseph Stalin said.
+
+Addressing the media, he said the Education Ministry had issued a circular in 1996 stating that a school cannot be named after a person who is still alive.
+
+Even though Keheliya Rambukwella had been arrested and remanded over the controversial human immunoglobulin procurement scandal, it is not relavant to keep his name for the said school, he said.
+
+Keheliya had set the wrong example to society, and he had been imprisoned. Therefore, it is not acceptable to name a school after him, he charged.
+
+...
+
+[Data](articles/bedf5970.json)
+
+[Extended Data](ext_articles/bedf5970.ext.json)
+
+---
 
 ### Top US diplomat pursues Gaza truce quest as Israel presses onslaught
 
@@ -1937,27 +1957,5 @@ King Charles has praised the transparency of transparency without hiding any of 
 [Data](articles/955f2fc4.json)
 
 [Extended Data](ext_articles/955f2fc4.ext.json)
-
----
-
-### Sri Lanka to Elect President, Parliament This Year, Local Gov’t Waits
-
-*2024-02-06 12:43:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/sri-lanka-to-elect-president-parliament-this-year-local-gov-t-waits/) · `en`
-
-COLOMBO (News 1st); The Cabinet has outlined the upcoming electoral timeline for the nation, prioritizing the Presidential and General Elections for 2024.
-
-Cabinet Spokesperson Minister (Dr) Bandula Gunawardena made the announcement during the weekly media briefing on cabinet decisions on Tuesday (6).
-
-The Department of Government Information in a statement said that an allocation of Rs. 10 billion has been secured from the 2024 budget to cover the expenses of the upcoming Presidential and General Elections.
-
-Acknowledging the limited financial resources available, the Cabinet has observed that the funding for the Provincial Council and Local Government Elections will have to be sourced from the budget for 2025.
-
-The Cabinet has indicated its intention to introduce revisions to the relevant electoral laws, prior to the 2025 Provincial and Local Government Elections.
-
-...
-
-[Data](articles/df7d3106.json)
-
-[Extended Data](ext_articles/df7d3106.ext.json)
 
 ---

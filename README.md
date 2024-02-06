@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 13:17:31**
+As of **2024-02-06 13:33:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 731
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,127 (99.9%) of 5,130 articles have been extended.
+5,130 (100.0%) of 5,130 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Colombo, Feb 6 (Daily Mirror) - Samagi Jana Balawegaya MP Gayantha Karunathileke
 
 [Data](articles/4e0528bd.json)
 
+[Extended Data](ext_articles/4e0528bd.ext.json)
+
 ---
 
 ### Navy gears up for annual Kachchativu feast set for February 23,24
@@ -63,6 +65,8 @@ Following the directives from Commander of the Navy, Vice Admiral Priyantha Pere
 ...
 
 [Data](articles/92dfb384.json)
+
+[Extended Data](ext_articles/92dfb384.ext.json)
 
 ---
 
@@ -83,6 +87,8 @@ The Cabinet has indicated its intention to introduce revisions to the relevant e
 ...
 
 [Data](articles/df7d3106.json)
+
+[Extended Data](ext_articles/df7d3106.ext.json)
 
 ---
 

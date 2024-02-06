@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 11:33:05**
+As of **2024-02-06 11:51:53**
 
 ## Newspaper Stats
 
-*Scraped **5,096** Articles*
+*Scraped **5,099** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ dailyftlk | 290
 newsfirstlk | 306
 adalk | 436
 virakesarilk | 592
-adaderanalk | 627
+adaderanalk | 629
 tamilmirrorlk | 642
 adaderanasinhalalk | 662
-dailymirrorlk | 727
+dailymirrorlk | 728
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,091 (99.9%) of 5,096 articles have been extended.
+5,099 (100.0%) of 5,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### Herath says no to BCB: Bangladesh Cricket in limbo with key positions vacant
+
+*2024-02-06 11:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Herath-says-no-to-BCB-Bangladesh-Cricket-in-limbo-with-key-positions-vacant/108-276409) · `en`
+
+Feb. 6 (insidesport) - With the top players currently involved in the ongoing BPL and the talented youngsters participating in the U19 World Cup, there's a sense of waiting and wondering about the team's next steps.
+
+Sri Lankan spin legend Rangana Herath has declined a new offer from the Bangladesh Cricket Board (BCB), leaving the national team’s spin bowling mentor position vacant. This adds to the BCB’s woes as they grapple with several key coaching positions needing to be filled and the national team yet to play an international match in 2024.
+
+The lack of official matches scheduled for the national team further compounds the uncertainty surrounding Bangladesh cricket. With the top players currently involved in the ongoing BPL and the talented youngsters participating in the U19 World Cup, there’s a sense of waiting and wondering about the team’s next steps.
+
+...
+
+[Data](articles/ce6973c6.json)
+
+[Extended Data](ext_articles/ce6973c6.ext.json)
+
+---
 
 ### NPP delegation meets India’s Foreign Secretary
 
@@ -46,59 +64,85 @@ The delegation is sheduled to enage in discussions about the functioning of the 
 
 [Data](articles/4749d52d.json)
 
+[Extended Data](ext_articles/4749d52d.ext.json)
+
 ---
 
-### ජනාධිපතිවරණය ඔක්තෝබර් පළමු සතියේ - හරීන්
+### Presidential election October 1st week - Harin
 
 *2024-02-06 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193035) · `si`
 
-එළඹෙන ඔක්තෝබර් මාසයේ පළමු සතියේදී මෙරට ජනාධිපතිවරණය පැවැත්වෙනු ඇතැයි තමන් විශ්වාස කරන බව සංචාරක සහ ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+Travel and Sports Minister Harin Fernando says the Presidential election will be held at the first week of October.
 
-මාධ්‍ය වෙත අදහස් දක්වමින් අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේ නියත ඔක්තෝබර් 14 වනවිට මෙරට නව ජනාධිපතිවරයෙකු පත්විය යුතු බවය.
+Speaking to the media, the Minister further stated that a new president should be appointed by October 14.
 
-එසේම ඉදිරි ජනාධිපතිවරණය සඳහා නියත වශයෙන්ම ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එක්වන බවද අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
+The Minister also said that President Ranil Wickremesinghe is also present at the next presidential election.
 
 ◼️
 
 [Data](articles/e1ff5017.json)
 
+[Extended Data](ext_articles/e1ff5017.ext.json)
+
 ---
 
-### අනියම් ඇසුරක් නිසා ජපාන රූ රැජිනට කිරුළ අහිමි වෙයි
+### Japanese treasurers lose crowd because of illicit affair
 
 *2024-02-06 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193034) · `si`
 
-විවාහක පුද්ගලයෙක් සමග අනියම් සම්බන්ධතාවයක් ඇති බවට හෙළිවීමෙන් අනතුරුව ජපාන රූ රැජින ලෙස කිරුළ දිනූ කැරොලිනා ශීනෝ නම් තරුණිය එම කිරුළ නැවත බාරදී ඇති බව විදෙස් මාධ්‍ය පවසයි.
+A young girl named Carolina Shaino, a married relationship with a married person, has been handed over to the crown of Japan.
 
-ඇයගේ අනියම් සම්බන්ධතාවය ගැන ජපානයේ ටැබ්ලොයිඩ් පුවත්පතක් වාර්තා කර තිබුණි.
+Japan reported a tabloid newspaper of Japan about her casual relationship.
 
-"Shukan Bunshun" නම් ටැබ්ලොයිඩ් පුවත්පත වාර්තාකර තිබුණේ ශීනෝ, විවාහක වෛද්‍යවරයෙක් සමග සම්බන්ධතාවයක් පවත්වන බවත් ඇය ඒ සම්බන්ධයෙන් රූ රැජින තරගයේ සංවිධායකයින්ට බොරු කියා ඇති බවත් ය.
+The Tabloid newspaper, "Shukan Bunshun" was found that Zino was a relationship with a married physician and she had lied to the organizers of the match.
 
-එහිදී ඇය පවසා තිබුණේ එම පුද්ගලයා විවාහකයෙක් බව නොදැන සිටි බවයි.
+There she had said that the man was married.
 
-නමුත් ටැබ්ලොයිඩ් පුවත්පතේ ඒ සම්බන්ධයෙන් තොරතුරු වාර්තා වීමත් සමගම ඇය තමා අසත්‍ය පැවසූ බව පිළිගෙන සිය කිරුළ නැවත බාරදී තිබුණාය.
+However, with the claim of the Tabloid, the acknowledged that he had accepted her falsehood and resigned.
 
 ◼️
 
 [Data](articles/48ce2d6d.json)
 
+[Extended Data](ext_articles/48ce2d6d.ext.json)
+
 ---
 
-### யுக்திய நடவடிக்கை ; மேலும் 733 சந்தேக நபர்கள் கைது
+### International Sports Coordination Committee dissolved
+
+*2024-02-06 10:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97036/-international-sports-coordination-committee-dissolved) · `en`
+
+Minister of Sports and Youth Affairs Harin Fernando has dissolved the International Sports Coordination Committee in Sri Lanka.
+
+Issuing a gazette notification to revoke and rescind the Gazette (Extraordinary) No. 2351/07 dated September 25, 2023, the relevant committee was dissolved with effect from January 26, 2024.
+
+On September 25, then-Minister of Sports Roshan Ranasinghe appointed a three-member International Sports Coordination Committee with a mission to coordinate the affairs of international sports associations or organizations on behalf of any sports-related affair that Sri Lanka represents here or in a foreign country.
+
+◼️
+
+[Data](articles/da3b02c8.json)
+
+[Extended Data](ext_articles/da3b02c8.ext.json)
+
+---
+
+### Action action;A further 733 suspects arrested
 
 *2024-02-06 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/175682) · `ta`
 
-யுக்திய நடவடிக்கையின் கீழ் கடந்த 24 மணித்தியாலங்களில் போதைப்பொருள் மற்றும் பாதாள உலகக் குற்றச்சாட்டின் பேரில் 733 பேர் சந்தேகத்தில் கைது செய்யப்பட்டுள்ளதாக பொதுமக்கள் பாதுகாப்பு அமைச்சு இன்று செவ்வாய்க்கிழமை  (6) தெரிவித்துள்ளது.
+The Ministry of Public Security said on Tuesday (6) that 733 people were arrested on suspicion of drug and underworld charges in the last 24 hours under the strategy.
 
-கைது செய்யப்பட்டவர்களில் போதைப்பொருள் தொடர்பான குற்றச்சாட்டின் கீழ்  589 பேரும், தேடப்படும் குற்றவாளிகள் பட்டியலில் இருந்த 144 பேரும் அடங்குவர்.
+The arrested include 589 people on drug charges and 144 on the list of criminals.
 
-கைது செய்யப்பட்ட சந்தேக நபர்களில் 05 பேர் தொடர்பில் தடுப்புக்காவல் உத்தரவுக்கு அமைய மேலதிக விசாரணைகள் முன்னெடுக்கப்பட்டு வருவதாக பொது பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது
+Further investigations are being carried out on a detention order regarding five of the arrested suspects, the Ministry of Public Safety said
 
-சந்தேக நபர்களிடமிருந்து  130 கிராம் ஹெரோயின், 159 கிராம் ஐஸ் மற்றும் 1,725 கிலோ கஞ்சா மற்றும் 211,804 கஞ்சா செடி கைப்பற்றப்பட்டுள்ளதாக பொது மக்கள் பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+The Public Security Ministry said that 130 grams of heroin, 159 grams of ice and 1,725 kg of cannabis and 211,804 cannabis were seized from the suspects.
 
 ◼️
 
 [Data](articles/02da3d22.json)
+
+[Extended Data](ext_articles/02da3d22.ext.json)
 
 ---
 
@@ -115,6 +159,8 @@ This follows the recent appointment of 590 doctors who finished their internship
 ◼️
 
 [Data](articles/9c2b0fc8.json)
+
+[Extended Data](ext_articles/9c2b0fc8.ext.json)
 
 ---
 
@@ -155,6 +201,26 @@ Meanwhile, a public defense ministry official said that the new amendments to th
 [Data](articles/39ab22ab.json)
 
 [Extended Data](ext_articles/39ab22ab.ext.json)
+
+---
+
+### Fifth Session of Ninth Parliament to be declared open tomorrow
+
+*2024-02-06 10:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97035/fifth-session-of-ninth-parliament-to-be-declared-open-tomorrow) · `en`
+
+The Fifth Session of the Ninth Parliament will be ceremonially declared open by President Ranil Wickremesinghe tomorrow (Feb.07).
+
+This was communicated by the Legislative Services Department of the Parliament last week, while announcing the business of the House of Parliament for the first sitting week of February 2024, as decided by political party leaders.
+
+Sri Lanka Parliament was prorogued with effect from midnight on 26 January, marking the closure of the Fourth Session of the Ninth Parliament. The prorogation was announced via a proclamation published in the government gazette by virtue of the powers vested in the President by Article 70 of the Constitution.
+
+When a new session kicks off, the President has the opportunity preside over the ceremonial opening of the Parliament and to present the government’s policy statement. In the past, the policy statement was referred to as the Throne Speech and was presented by the Governor.
+
+...
+
+[Data](articles/8a541597.json)
+
+[Extended Data](ext_articles/8a541597.ext.json)
 
 ---
 
@@ -1957,61 +2023,5 @@ When the suspect was produced before the Welisara Magistrate's Court today, the 
 [Data](articles/51311b0e.json)
 
 [Extended Data](ext_articles/51311b0e.ext.json)
-
----
-
-### Notice for Trincomalee - Colombo train passengers!
-
-*2024-02-05 19:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175655) · `ta`
-
-The Railway Deputy General Manager (Transport) said that the train from Tirumala to Colombo will leave Tirumalai at 4.00 pm tomorrow (07) due to the 118th mile stations between Kekirawa and Palukaswewa railway stations.
-
-He also said that the train will start a 12.15 day from the Trincomalee railway station.
-
-◼️
-
-[Data](articles/94189608.json)
-
-[Extended Data](ext_articles/94189608.ext.json)
-
----
-
-### Nishantha from Chilaw to Colombo
-
-*2024-02-05 19:58:34* · [`adalk`](https://www.ada.lk/breaking_news/හලාවත-සිට-කොළඹ-එන්න-සනත්-නිශාන්ත-තම-රියදුරුට-දී-තිබූ-කාලය-විනාඩි-90යි/11-407914) · `si`
-
-Welisara Magistratesitha Dhammika Uddana today (05) was appointed to release the V-8 luxury jeep.
-
-Attorney-at-Law Tharara Abeyratne accepts the bail of Tharara Abeyratne saying that he had to be driving for the driver of the Attorney at 1 1/2 hours of charge to the driver of the Chilaw.The Magistrate ordered him to be released on two base of two persons.
-
-Sanath Nishanta was a luxury at Kerawalapitiya area on the Katunayake Colombo District Parliamentarian and his security officer, Katunayake and his security officer.Arachchikatti Superintendent of Suriyahetti Superintendent Arachchikatti, a resident of Sanath Nishantha, was driving the jeep.
-
-Jayantha Niroshan Dasanayake was produced in court, while he was produced by the police officers in the PV-or-to-vehicle vehicle.Prabath Eranga Dilnesha was appointed further Remand.
-
-Prabath Eranga Dilshaha was produced before the driver of Sanath Nishantha who was remanded in connection with the incident when the complaint was taken into custody.
-
-...
-
-[Data](articles/bf44f96e.json)
-
-[Extended Data](ext_articles/bf44f96e.ext.json)
-
----
-
-### Man arrested for running notes
-
-*2024-02-05 19:50:45* · [`adalk`](https://www.ada.lk/breaking_news/හොර-නෝට්ටු-මුද්‍රණාලයක්-පවත්වාගෙන-ගිය-පුද්ගලයෙක්-අල්ලයි/11-407913) · `si`
-
-A son of a pensioner of a fake currency notes was arrested in a sum of Rs.
-
-A 47 shadow, a resident of Wadduwa, was arrested.
-
-The policemen found 10 fake currency notes, two more notes, and a printing notes, and a printer in search of the suspect on information.Police said that the equipment included 10 printing paper.
-
-◼️
-
-[Data](articles/26c3f846.json)
-
-[Extended Data](ext_articles/26c3f846.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 08:33:03**
+As of **2024-02-06 08:50:21**
 
 ## Newspaper Stats
 
@@ -26,69 +26,81 @@ dailymirrorlk | 718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,058 (99.9%) of 5,061 articles have been extended.
+5,061 (100.0%) of 5,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
 
-### අනුර ඉන්දියාවේ තවත් ලොක්කෙක් හමුවෙයි
+### Anura meets another boss in India
 
 *2024-02-06 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193028) · `si`
 
-ඉන්දියාවේ සංචාරයක නිරත වන ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා ඉන්දියානු රජයේ ජාතික ආරක්ෂක උපදේශක අජිත් දොවාල් මහතා හමුවී තිබේ.
+Anura Kumara Dissanayake has met with the National Security Advisor of the Government of India, which is on a tour of India.
 
-ඊයේ (05) පස්වරුවේ සර්දාර් පටෙල් භවන්හිදී මෙම හමුව සිදුව ඇති බව වාර්තා වේ.
+The meeting was reportedlyar in Sardar Pathan yesterday afternoon.
 
-මෙහිදී කලාපීය ආරක්ෂාව පිළිබඳවත් ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පවතින ද්වීපාර්ශවික සබඳතා පිළිබඳවත් දීර්ඝ ලෙස සාකච්ඡා වී තිබේ.
+Sri Lanka and India have long discussions with regional security and bilateral relations between Sri Lanka and India.
 
-ඊයේ පෙරවරුවේ අනුර කුමාර දිසානායක මහතා ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්.ජයිශංකර් මහතා ද හමුවී සාකච්ඡා පවත්වනු ලැබීය.
+Anura Kumara Dissanayake was also present at the meeting with Indian External Affairs Minister Dr. S. Sishankar yesterday morning.
 
-ඉන්දියානු රජයේ නිල ආරාධනයකට අනුව ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා මේ දිනවල ඉන්දියාවේ සංචාරයක නිරතව සිටී.
+Leader of the National Power Anura Kumara Dissanayake is on a tour of India on an official invitation of the Government of India.
 
-ජනතා විමුක්ති පෙරමුණේ නායකයෙකුට ඉන්දීය රජය විසින් එරට සංචාරයක නිරත වීමට ආරාධනා කළ පළමු අවස්ථාව මෙය ලෙස සැලකේ.
+This is the first time that the JVP is invited to visit the country to the Indian government.
 
 ◼️
 
 [Data](articles/566fe876.json)
 
+[Extended Data](ext_articles/566fe876.ext.json)
+
 ---
 
-### හෙරොයින් සමග පුනරුත්ථාපන නිලධාරියෙක් මාට්ටු
+### A rehabilitation officer arrested with heroin
 
 *2024-02-06 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193027) · `si`
 
-හෙරොයින් මත්ද්‍රව්‍ය ළඟ තබාගෙන සිටි පුනරුත්ථාපන නිලධාරියෙකු මොනරාගල නගරයේ දී පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Police have arrested a rehabilitation officer in Moneragala town with heroin.
 
-මොනරාගල බන්ධනාගාරයේ රාජකාරිය සිදුකරනු ලබන පුනරුත්ථාපන නිලධාරියෙකු මෙලෙස අත්අඩංගුවට ගෙන ඇති බව බන්ධනාගාර දෙපාර්තමේන්තුව සඳහන් කළේය.
+The prison department stated that a rehabilitation officer in the Moneragala Prison has been arrested.
 
-අදාළ අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් පොලීසිය සිදුකළ දැනුම් දීමකට අනුව මොනරාගල බන්ධනාගාර ජේලර්වරයෙකු යොදවා විමර්ශනයක් ද පවත්වා ඇති බව සඳහන්ය.
+A Monastery of Prisons has also been carried out by a monkey jarrror.
 
-ඒ අනුව අදාළ පුනරුත්ථාපන නිලධාරියා විනය පරීක්ෂණයට යටත්ව වැඩතහනමකට ලක්කළ බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක බන්ධනාගාර කොමසාරිස් ගාමිණී දිසානායක මහතා සඳහන් කළේය.
+Accordingly, the rehabilitation officer was under the disciplinary inquiry, prison media spokesman Prison, Commissioner Gamini Dissanayake said.
 
 ◼️
 
 [Data](articles/de90b22c.json)
 
+[Extended Data](ext_articles/de90b22c.ext.json)
+
 ---
 
-### බිරිඳගේ බෙහෙත් ගන්න සල්ලි නැතුව අඹුසැමි යුවළ වස බීලා
+### Combine the couple poison without money to take his wife's medicine
 
 *2024-02-06 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193026) · `si`
 
-බිරිඳගේ අසනීප තත්ත්වයකට විශාල මුදලක් වියදම් කිරීමට සිදුවීමත්, ඒ සඳහා ප්‍රමාණවත් ආර්ථික තත්ත්වයක් තමන්ට නොමැති වීමත් නිසා බිරිඳට ද වස පොවා සැමියාද වස පානය කර සියදිවි නසා ගැනීමට උත්සාහ කළ පුවතක් සූරියවැව පොලිස් වසමේ වෙනිවැල්ආර ප්‍රදේශයෙන් වාර්තා වුණි.
+A mother to spend a large amount of money to a wife's illness, he was attempting to commit suicide and had a poison to the wife and had poisoned her husband.
 
-මෙලෙස වස පානය කර සියදිවි නසා ගැනීමට උත්සාහ කර ඇත්තේ සූරියවැව වෙනිවැල්ආර පදිංචි 58 හැවිරිදි හා 54 හැවිරිදි අඹුසැමි යුවළකි.
+The victim is a 58 year old and 54-year-old resident of the Sooriyawewa Viduliyalura.
 
-54 හැවිරිදි බිරිඳ දීර්ඝ කාලයක සිට කශේරුකාවේ තිබූ ආබාධිත තත්ත්වයක් හේතුවෙන් එක්තැන්ව සිට ඇති අතර ඇයගේඅසනීප තත්ත්වය සඳහා ප්‍රතිකාර කිරීමට විශාල මුදලක්ද වියදම් කිරීමට සැමියාට සිදුව තිබේ.
+The 54-year-old wife had been part of a long-standing disability and had to spend a large sum of money to treat her health.
 
-සිය බිරිඳගේ අසනීප තත්ත්වය සඳහා ප්‍රතිකාර ගැනීමට රැගෙන යාම හා ප්‍රතිකාර දීම ඇතුළු කටයුතු කිරීමට හා ජීවත් වීමට තරම් ප්‍රමාණවත් ආර්ථික තත්ත්වයක් නොමැති වීමත් නිසා නිදහස් දිනය දා සවස 4.30ට පමණ සැමියා විසින්
+Due to the lack of adequate economic condition to treat and live in treatment and treatment of his wife, by husband at about 4.30 pm
 
-එක්තැන්ව සිටින බිරිඳට වස පොවා සැමියාද වස පානය කර සියදිවි නසා ගැනීමට උත්සාහ කර තිබේ.
+The surrounding wife has attempted to kill the heavens and has been drinking poison.
 
-...
+Drusciously, the cosmetic at the hospital has been admitted to the Sooriyawewa hospital for treatment and has been transferred to the Hambantota General Hospital for further treatment.
+
+Residents said that the woman had been ill in a long time and had no economy to obtain treatment from the Kolonnar
+
+Suriyawewa Police OIC Chief Inspector Anura Susantha is conducting further investigations.
+
+◼️
 
 [Data](articles/fc20e38f.json)
+
+[Extended Data](ext_articles/fc20e38f.ext.json)
 
 ---
 

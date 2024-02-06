@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 23:02:54**
+As of **2024-02-06 23:17:22**
 
 ## Newspaper Stats
 
-*Scraped **5,269** Articles*
+*Scraped **5,271** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 326
 adalk | 451
 virakesarilk | 628
 adaderanalk | 654
-tamilmirrorlk | 658
+tamilmirrorlk | 660
 adaderanasinhalalk | 684
 dailymirrorlk | 748
 
@@ -26,11 +26,49 @@ dailymirrorlk | 748
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,269 (100.0%) of 5,269 articles have been extended.
+5,269 (100.0%) of 5,271 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### கெஹலியவிற்கு வெளியுணவு வழங்கப்படுவது ஏன்?
+
+*2024-02-06 22:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவிற்கு-வெளியுணவு-வழங்கப்படுவது-ஏன்/175-332799) · `ta`
+
+முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்ல தடுப்புக்காவலில் வைக்கப்பட்டிருக்கும் போது அவருக்கு பிரத்தியேகமாக வெளி உணவு வழங்குவது தொடர்பில் கேள்விகள் எழுந்துள்ள நிலையில், சிறைச்சாலைகள் திணைக்களம் அது குறித்து தெளிவுபடுத்தியுள்ளது.
+
+முன்னாள் அமைச்சருக்கு வெளி உணவு வழங்குவது தொடர்பில் வெலிக்கடை அத்தியட்சகரிடம் முறையான எழுத்து மூலமான கோரிக்கை சமர்ப்பிக்கப்பட்டதை சிறைச்சாலை ஊடகப் பேச்சாளர் காமினி பீ.திஸாநாயக்க உறுதிப்படுத்தினார்.
+
+நிறுவப்பட்ட நெறிமுறைகளை கடைப்பிடிப்பதை வலியுறுத்தும் திஸாநாயக்க, வெளிப்புற உணவை வழங்க தேவையான நடைமுறை நடவடிக்கைகளை எடுத்துரைத்தார்.
+
+அதன்படி, உணவு விநியோகத்தின் போது வெளியாட்கள் மற்றும் கைதிகளுக்கு இடையே தனிப்பட்ட தொடர்பு தடை செய்யப்பட்டுள்ளது. மேலும், உணவுப் பொருட்கள் மட்டுமே அனுமதிக்கப்படுகின்றன.
+
+எந்தவொரு கைதிகளிடமிருந்தும் இதுபோன்ற கோரிக்கைகள் நியாயமான காரணங்கள் மற்றும் மருத்துவ ஆலோசனையின் அடிப்படையில் பரிசீலிக்கப்படும் என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/95d071a3.json)
+
+---
+
+### எஜமானரின் உயிரை காப்பாற்ற போராடிய நாய்
+
+*2024-02-06 22:18:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/எஜமானரின்-உயிரை-காப்பாற்ற-போராடிய-நாய்/72-332798) · `ta`
+
+முல்லைத்தீவு - ஒட்டுசுட்டான் மணவாளன் பட்டமுறிப்ப பகுதியில் நாயுடன் காட்டிற்குள் சென்ற குடும்பஸ்தர் வெடியில் சிக்கி  கிடந்த போது அவரது டைகர் எனப்படும் வளர்பு நாய் உறவினர்களிடம் வந்து தனது ஏஜமானின் ஆபத்து தொடர்பில் அசைவுகளை வெளிப்படுத்தியதை தொடர்ந்து உறவினர்களால் அவர் மீட்கப்பட்டுள்ளார்.
+
+இவ்வாறு மீட்கப்பட்டவர் மணவாளன் பட்ட முறிப்பினை சேர்ந்த ஏழு பிள்ளைகளின் தந்தையான 66 அகவையுடை பழனி வடிவேல் ஆவர்.
+
+இவர் தேன் எடுப்பதற்காக நேற்று காட்டிற்கு தனது வளர்ப்பு நாயுடன் சென்றுள்ளார். இதன்போது காட்டிற்குள் இருந்த சட்டவிரோத வெடிபொருள் வெடித்ததில் குறித்த குடும்பஸ்தர் பலத்த காயங்களுக்கு உள்ளான நிலையில் வளர்ப்பு நாய் தனியாக வீடு திரும்பி தனது சோகத்தினை வெளிப்படுத்தியுள்ளது.
+
+இதனை அவதானித்த உறவினர்கள் காட்டிற்கு சென்றவரை காணவில்லை என உறவினர்கள் தேடி சென்றுள்ளார்கள். இதன்போது அவர் காயங்களுக்கு உள்ளான நிலையில் ஆபத்தான நிலையில் மீட்கப்பட்டு மாங்குளம் ஆதார மருத்துவமனை கொண்டுசெல்லப்பட்டு மேலதிக சிசிச்சைக்காக கிளிநொச்சி மாவட்ட மருத்துவமனை கொண்டுசெல்லப்பட்போது உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/ac20d1a7.json)
+
+---
 
 ### 10th Group of Sri Lanka Army Medical Force travels to South Sudan
 
@@ -1949,51 +1987,5 @@ Funds required for conducting provincial council elections and local government 
 [Data](articles/2ec156ca.json)
 
 [Extended Data](ext_articles/2ec156ca.ext.json)
-
----
-
-### Keheliya Rambukwella resigns from the Ministry of Environment
-
-*2024-02-06 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175711) · `ta`
-
-It is reported that Keheliya Rambukwella, a former health minister and current environment minister, has resigned from his post.
-
-According to the government's internal sources, he sent his resignation letter to the president on Monday (05).
-
-Keheliya Rambukwella was arrested by the Criminal Investigation Department on the 2nd of last month in connection with the importation of substandard drugs.
-
-Subsequently, he was produced at the Magistrate's Court on the third day and was remanded until the 15th of this month.
-
-◼️
-
-[Data](articles/190fdb19.json)
-
-[Extended Data](ext_articles/190fdb19.ext.json)
-
----
-
-### The United F-Assembly of the United Front will
-
-*2024-02-06 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193043) · `si`
-
-The Sri Lanka General Assembly a convention meeting is scheduled to be held this afternoon.
-
-The meeting will be held at the Sri Lanka Freedom Party Headquarters on Darlei Road today 5 pm.
-
-All members representing the Commonwealth Heads of the United Front have been invited to be held under the patronage of former President Maithripala Sirisena.
-
-Three proposals submitted at the last meeting are to be passed.
-
-Accordingly, the proposal will be included in the party constitution and adopt it.
-
-It is also to be discussed in the future alliance.
-
-The result is the crisis that is currently reported at the United People's Freedom Alliance General Secretary.
-
-◼️
-
-[Data](articles/ea15a938.json)
-
-[Extended Data](ext_articles/ea15a938.ext.json)
 
 ---

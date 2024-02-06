@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 20:17:10**
+As of **2024-02-06 20:32:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,240 (100.0%) of 5,242 articles have been extended.
+5,242 (100.0%) of 5,242 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -212,41 +212,47 @@ He further said that the Sampur Power Project was an example of the loss faced b
 
 ---
 
-### සෞඛ්‍ය සේවකයින්ගේ වර්ජන ක්‍රියාමාර්ගය සතියකින් කල්යයි
+### Health workers' strike action is postponed in a week
 
 *2024-02-06 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193053) · `si`
 
-සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය මුදල් අමාත්‍යාංශ ලේකම්වරයා සමඟ පැවති සාකච්ඡාව අද (06) පස්වරුවේ අවසන් වී තිබේ.
+The discussion with the Secretary to the Ministry of Health Ministry has ended today (06).
 
-වෛද්‍යවරුන්ට ලබාදෙන රුපියල් 35,000ක DAT දීමනාව තමන්ටද ලබාදෙන්නැයි ඉල්ලා සෞඛ්‍ය වෘත්තිය සමිති 72  සාමාජිකයින් මෙම සාකච්ඡාව ඉල්ලා තිබුණි.
+The discussion had requested the doctors 72 health career societies, demanding the doctors.
 
-එහිදී සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය විසින් ඉදිරිපත් කළ යෝජනාව පිළිබඳව කඩිනමින් සාකච්ඡා කිරීමට මුදල් අමාත්‍යංශ නිලධාරීන්, සෞඛ්‍ය අමාත්‍යාංශ නිලධාරීන්ගේ සහ වෘත්තිකයන්ගේ සහභාගීත්වයෙන් කමිටුවක් පත්කර ඇත.
+A committee has been appointed with the participation of the Ministry of Health Ministry officials and professionals to discuss the proposal made by the Health Trade Union Alliance.
 
-ඒ අනුව ඉදිරි සතිය තුළ ස්ථාවර පිළිතුරක් ලබාදීමට අවශ්‍ය කටයුතු සිදුකිරීමට තීරණය වී තිබේ.
+Accordingly, the necessary action has been taken to provide a fixed answer during the next week.
 
-මෙම තත්ත්වය පිළිබඳව සලකා බැලීමෙන් අනතුරුව හෙට (07) දිනයේ සිට යෝජනා කර ඇති වර්ජන ක්‍රියාමාර්ගය තවත් එක් සතියකින් කල් දැමීමට සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය තීරණය කළ බව එහි කැඳවුම්කරු චානක ධර්මවික්‍රම මහතා පැවසීය.
+After considering this situation, the Health Trade Union Alliance has decided to postpone the proposed boyfinger from tomorrow (07).
 
-මෙම කමිටුවේ තීරණය පිළිබඳව ඉතා සමීපව නිරීක්ෂණය කරන අතර යම් හෙයකින් විසඳුම් ලබාදීම ප්‍රමාද කරන්නේ නම් නැවත වර්ජන ක්‍රියාමාර්ගයන්ට අවතීරණය වීමට කටයුතු කරන බවද සෞඛ්‍ය වෘත්තිය සමිති සන්ධානය පවසයි.
+The Health Trade Union Alliance says that if it is delayed and delays in this committee, steps will be taken to reduce strike actions.
 
 ◼️
 
 [Data](articles/b4b0e774.json)
 
+[Extended Data](ext_articles/b4b0e774.ext.json)
+
 ---
 
-### අධ්‍යාපන පරිපාලන සේවයේ පුරප්පාඩු පිරවීමට කඩිනම් පියවර ගන්නවා
+### Steps will be taken to fill the vacancies vaccines of the Education Administrative Service
 
 *2024-02-06 18:19:26* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-පරිපාලන-සේවයේ-පුරප්පාඩු-පිරවීමට-කඩිනම්-පියවර-ගන්නවා/11-407932) · `si`
 
-අධ්‍යාපන ක්ෂේත්‍රයේ තනතුරු රැසක පවතින පුරප්පාඩු බොහෝ ප්‍රමාණයක් පිරවීමට අවශ්‍ය පියවර කඩිනමින් ගන්න බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+Minister of Education Susil Premajayantha says that steps will be taken to fill many vacancies in the field of education.
 
-ඒ අනුව අධ්‍යාපන පරිපාලන, විදුහල්පති, ගුරු අධ්‍යාපනඥ, ගුරු උපදේශක යන සේවාවල හා ගුරු සේවයේ නව පත්වීම් රැසක් ඉතා ඉක්මනින් ලබා දෙන බව පැවසූ අමාත්‍යවරයා ඊට අමතර ව අතිරික්ත නිලධාරීන් සිටින සේවා ස්ථානවලින් ස්ථාන මාරුවීම් ලබා දීම හරහා නිලධාරී හිඟය පියවීමට කටයුතු කරන බව ද පැවසී ය.
+Accordingly, the Minister said that the Minister of Education, Principals, Principals, Teacher Educators, Teacher Educators and Teacher Instructor and new appointments are being made to settle the shortage of the officer through transfers of excess officers.
 
-අමාත්‍යවරයා මේ බව ප්‍රකාශ කළේ, උතුරු පළාතේ වවුනියාව, මුලතිව්, මන්නාරම යන දිස්ත්‍රික්කයන්හි අධ්‍යාපන ගුණාත්මක සංවර්ධනය සඳහා විදුහල්පතිවරුන් සහ පළාත් අධ්‍යාපන නිලධාරීන් දැනුම්වත් කිරීම වෙනුවෙන් අමාත්‍යවරයාගේ ප්‍රධානත්වයෙන් වවුනියාව සංස්කෘතික මධ්‍යස්ථානයේ දී අද පැවති වැඩසටහනකට එක් වෙමිනි.
+The Minister was speaking at a program held at the Vavuniya, Mullaitivu and Mannar Districts in the Northern Province at the Vavuniya Cultural Center at the Vavuniya Cultural Center.
+
+He further stated that the immediate action required to recruit 460 educational training in the ministry before the Minister said. He said that 4,672 new appointments have been provided since 2019, 4,400 of them have been handed over.
 
 ...
 
 [Data](articles/5b9fdd69.json)
+
+[Extended Data](ext_articles/5b9fdd69.ext.json)
 
 ---
 

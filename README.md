@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 00:02:50**
+As of **2024-02-07 00:17:29**
 
 ## Newspaper Stats
 
-*Scraped **5,275** Articles*
+*Scraped **5,276** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 290
 newsfirstlk | 326
 adalk | 451
 virakesarilk | 629
-adaderanalk | 656
+adaderanalk | 657
 tamilmirrorlk | 660
 adaderanasinhalalk | 684
 dailymirrorlk | 749
@@ -26,11 +26,29 @@ dailymirrorlk | 749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,275 (100.0%) of 5,275 articles have been extended.
+5,275 (100.0%) of 5,276 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### Plans to ship human ashes, drink container to Moon spark legal debate
+
+*2024-02-06 23:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97065/plans-to-ship-human-ashes-drink-container-to-moon-spark-legal-debate) · `en`
+
+An array of unconventional, privately funded plans to exploit the moon, including as a site for human ashes and sports-drink containers, has gathered steam in recent years as NASA pushes to make Earth’s natural satellite more accessible.
+
+Concerns about possible gaps in U.S. oversight and legal questions about proper use of the moon have rocketed to the forefront.
+
+Landers built by private companies and emerging space powers are expected in the next few years to join the U.S. flag and other vestiges of past programs to the moon. Other initiatives could include using the moon as a site for capsules of human remains, advertising sports drinks, and maybe even a two-story-tall Christian cross made of the moon’s own dirt.
+
+“We’re just at the beginning of exploring the moon, and ... we need to be careful we’re not contaminating it - not just with biological and chemical contamination but with litter,” said Leslie Tennen, an attorney practicing international space law.
+
+...
+
+[Data](articles/32c3c86e.json)
+
+---
 
 ### There is no objection to Santhan's return to the country - the government
 
@@ -1979,23 +1997,5 @@ Keheliya Rambukwella was remanded until the 15th of February over the controvers
 [Data](articles/349ddc97.json)
 
 [Extended Data](ext_articles/349ddc97.ext.json)
-
----
-
-### Army Medical Corps Departs for South Sudan
-
-*2024-02-06 14:16:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/army-medical-corps-departs-for-south-sudan/) · `en`
-
-COLOMBO (News 1st); The 10th contingent of the Sri Lanka Army Medical Corps (SLAMC) departed Sri Lanka early this morning (06 February), to assume duties at the Level-2 SRIMED Hospital in the United Nations Peacekeeping Mission in South Sudan (UNMISS).
-
-The 10th South Sudan bound contingent, commanded by Lieutenant Colonel D.M.D.J Dissanayake RSP USP and Second in Command, Major N.I Rathnayake, comprises 64 Army personnel, including 14 Army Officers, 01 Naval Officer and 49 Other Ranks.
-
-Representing the Commander of the Army, Major General P.A.C. Fernando USP, Colonel Commandant, SLAMC and Director General Army Health Services, Brigadier G.L.S.W Liyanage USP psc, Director, Directorate of Overseas Operations, Brigadier W.A.U.S Wanasekara RWP USP, Centre Commandant, SLAMC and other Senior Officers bid farewell to the contingent at the Bandaranaike International Airport.
-
-◼️
-
-[Data](articles/6d4a2efc.json)
-
-[Extended Data](ext_articles/6d4a2efc.ext.json)
 
 ---

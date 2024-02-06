@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 13:51:43**
+As of **2024-02-06 14:02:24**
 
 ## Newspaper Stats
 
-*Scraped **5,132** Articles*
+*Scraped **5,148** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,170 @@ dailyftlk | 290
 newsfirstlk | 316
 adalk | 439
 virakesarilk | 598
-adaderanalk | 630
-tamilmirrorlk | 642
+adaderanalk | 636
+tamilmirrorlk | 650
 adaderanasinhalalk | 669
-dailymirrorlk | 731
+dailymirrorlk | 733
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,132 (100.0%) of 5,132 articles have been extended.
+5,148 (100.0%) of 5,148 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### Health strike to resume if decent solution remains elusive
+
+*2024-02-06 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-strike-to-resume-if-decent-solution-remains-elusive/108-276425) · `en`
+
+Colombo, Feb 6 (Daily Mirror) - The trade unions representing the health sector will not hesitate to resume the suspended strike tomorrow (06) if the scheduled meeting with the Finance Ministry officials did not provide a satisfactory solution.
+
+According to Ravi Kumudesh, President of the Joint Council for Professions of Supplementary Medicine, a crucial meeting has been scheduled today (06) at the Finance Ministry under the directive of the President where the grievances are to be taken into account.
+
+“However, the strike will resume from tomorrow if a satisfactory resolution remains elusive,” he stressed.
+
+The move comes following a countrywide strike initiated by 72 trade unions in the health sector commencing from February 01 against the prolonged dispute surrounding the Disturbance, Availability, and Transport (DAT) allowance.
+
+The healthcare services across the country were paralyzed owing to the strike action inconveniencing the patients.
+
+◼️
+
+[Data](articles/0b23e2e6.json)
+
+[Extended Data](ext_articles/0b23e2e6.ext.json)
+
+---
+
+### TMC: Meeting with Indian Foreign Secretary
+
+*2024-02-06 13:30:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தே-ம-ச-இந்திய-வெளியுறவு-செயலாளருடன்-சந்திப்பு/175-332760) · `ta`
+
+The Foreign Ministry of India has met with Foreign Secretary Vinay Mohan on Monday night (05) as a group of National People's Power has visited India.
+
+◼️
+
+[Data](articles/13627834.json)
+
+[Extended Data](ext_articles/13627834.ext.json)
+
+---
+
+### 50 days: The number of arrests so far!
+
+*2024-02-06 13:30:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-50-நாட்கள்-இதுவரையான-கைதுகளின்-எண்ணிக்கை/175-332759) · `ta`
+
+56,541 suspects have been arrested within the first 50 days of the launch of a special operation, which was carried out by the Police Special Task Force.
+
+Started in December 2023 to prevent drug -related operations in Sri Lanka, the technique has completed 50 days today.
+
+During this period, police recovered more than 142 kilograms of heroin, more than 208 kilograms of ice, 970 grams of cocaine, more than 2600 kilograms of cannabis and 3,60,000 drugs.
+
+Out of them, 1,817 suspects have been issued a detention order and 1,981 addicts of drug addiction have been transferred to rehabilitation centers.
+
+As well as. Investigations have been launched against 234 suspects regarding illegal assets.
+
+Meanwhile, the value of the seized drugs is 7,733 million rupees and the value of the seized assets is 726 million rupees.
+
+◼️
+
+[Data](articles/e4d78511.json)
+
+[Extended Data](ext_articles/e4d78511.ext.json)
+
+---
+
+### Driving licenses for hearing-impaired community
+
+*2024-02-06 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97044/driving-licenses-for-hearing-impaired-community) · `en`
+
+The Cabinet of Ministers has approved a resolution to issue light-vehicle driving licenses to hearing-impaired persons island-wide on a biannual renewal basis.
+
+Previously, a pilot project was carried out to issue light-vehicle driving licenses to the hearing-impaired community in the Gampaha District, in accordance with the Cabinet resolution on November 14, 2022.
+
+At the Cabinet meeting held yesterday (Feb.06), a proposal tabled by the Transport & Highways Minister received the approval to expand the project across the country, based on the results of the pilot project and the recommendations provided by the Transport Secretary-chaired committee appointed for the implementation of the project.
+
+◼️
+
+[Data](articles/63adbd4e.json)
+
+[Extended Data](ext_articles/63adbd4e.ext.json)
+
+---
+
+### Allow permission to drive people with hearing deficiency
+
+*2024-02-06 13:24:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செவித்திறன்-குறைபாடு-உள்ளவர்களுக்கு-வாகனம்-ஓட்ட-அனுமதி/175-332758) · `ta`
+
+The Cabinet has approved the grant of lightweight driving license for those who are completely deaf.
+
+Permission was granted at a Cabinet meeting held on 11/14/2022 to implement the pioneering plan in Gampaha.
+
+The decision was taken on the recommendations of the Committee headed by the Secretary of the Ministry of Transport and Highways to implement the project nationwide.
+
+◼️
+
+[Data](articles/55e33d5b.json)
+
+[Extended Data](ext_articles/55e33d5b.ext.json)
+
+---
+
+### Renovated Rangiri Dambulla International Cricket Stadium unveiled
+
+*2024-02-06 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97043/renovated-rangiri-dambulla-international-cricket-stadium-unveiled) · `en`
+
+The ‘Centre of Excellence’ at the Dambulla Stadium, a significant milestone in the “National Cricket Development Pathway” program aimed at providing equal opportunities to talented Sri Lankan cricketers was inaugurated on Monday (Feb.05).
+
+The event, held under the aegis of President Ranil Wickremesinghe, showcased his commitment to fostering the growth of cricket in the country, the President’s Media Division (PMD) said.
+
+President Wickremesinghe, unveiling the plaque and officially opening the centre, conducted an extensive observation tour.
+
+The facility is well-equipped, featuring a hydrotherapy unit and a state-of-the-art medical centre dedicated to sports injury rehabilitation, the PMD added.
+
+...
+
+[Data](articles/0e498475.json)
+
+[Extended Data](ext_articles/0e498475.ext.json)
+
+---
+
+### Sri Lankan Police delegation visits Delhi Police training centre
+
+*2024-02-06 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97042/sri-lankan-police-delegation-visits-delhi-police-training-centre) · `en`
+
+Police officers from Sri Lanka visited the Delhi Police training centre on Monday and engaged in an insightful interaction with the local officers to understand the functioning of the system. A discussion ensued between the Sri Lankan delegation and Delhi Police officials, delving into the intricacies of the police functions in India.
+
+During their visit to the Specialized Training Centre at Rajinder Nagar, Chhaya Sharma, India’s Special Commissioner of Police (Training) extended a warm welcome to the delegation. The senior officer provided insights into the operations of different districts and units of Delhi Police, emphasizing the significance of training within the force.
+
+...
+
+[Data](articles/0d134c59.json)
+
+[Extended Data](ext_articles/0d134c59.ext.json)
+
+---
+
+### Presidential election most likely in October - Harin
+
+*2024-02-06 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97041/presidential-election-most-likely-in-october-harin) · `en`
+
+Minister of Sports and Tourism Harin Fernando has revealed that the presidential election will most likely happen in the first week of October.
+
+Speaking to the media today (05 Feb.), acknowledging the need for there to be a newly elected President by 14 October, Fernando expressed his confidence that President Ranil Wickremesinghe would contest the upcoming election.
+
+He further emphasised that President Wickremesinghe’s reappointment is essential in order for Sri Lanka to further develop, and fully recover from the worst economic crisis the country has seen since independence in 1948.
+
+...
+
+[Data](articles/f1ad0e66.json)
+
+[Extended Data](ext_articles/f1ad0e66.ext.json)
+
+---
 
 ### No proposal about hemp came about - Bandula
 
@@ -50,6 +200,24 @@ Minister Bandula Gunawardena added that the state minister is not a cabinet mini
 
 ---
 
+### Man hacked to death in Tangalle
+
+*2024-02-06 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97040/man-hacked-to-death-in-tangalle) · `en`
+
+A person has been hacked to death with sharp weapons in the Kudawella area of Tangalle.
+
+The deceased person has been identified as a 50-year-old father-of-one, the police said.
+
+Police suspect that the motive behind the murder was a personal dispute.
+
+◼️
+
+[Data](articles/310a11f4.json)
+
+[Extended Data](ext_articles/310a11f4.ext.json)
+
+---
+
 ### Was invited by President for Urumya land distribution ceremony: Gayantha
 
 *2024-02-06 12:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Was-invited-by-President-for-Urumya-land-distribution-ceremony-Gayantha/108-276424) · `en`
@@ -65,6 +233,24 @@ Colombo, Feb 6 (Daily Mirror) - Samagi Jana Balawegaya MP Gayantha Karunathileke
 [Data](articles/4e0528bd.json)
 
 [Extended Data](ext_articles/4e0528bd.ext.json)
+
+---
+
+### President invited me for Urumya land distribution ceremony: Gayantha
+
+*2024-02-06 12:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-invited-me-for-Urumya-land-distribution-ceremony-Gayantha/108-276424) · `en`
+
+Colombo, Feb 6 (Daily Mirror) - Samagi Jana Balawegaya MP Gayantha Karunathileke said he attended the state ceremony to distribute land to the poor following an official invitation he had received from President Ranil Wickremeisnghe.
+
+“I was invited by the President and the government and I thought it was correct for me to participate in the ceremony as I am a former Minister in charge of lands. I was the one who submitted a Cabinet Paper to distribute land for the poor during the Yahapalana government. However, a certain party went to courts and stopped our programne. I was invited to the ceremony as a pioneer of the programme,” MP Karunathileke told the Daily Mirror.
+
+“Both President Wickremesinghe and the incumbent Minister of Lands Harin Fernando correctly told the ceremony that it was I who pioneered the programme,” he added.
+
+...
+
+[Data](articles/8c93ffd2.json)
+
+[Extended Data](ext_articles/8c93ffd2.ext.json)
 
 ---
 
@@ -278,6 +464,20 @@ Accordingly, the decision has been taken on the recommendations of the Committee
 
 ---
 
+### Tangalle
+
+*2024-02-06 12:07:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலையில்-ஒருவர்-படுகொலை/175-332754) · `ta`
+
+The father of a 50 -year -old child living in the same area has died.
+
+◼️
+
+[Data](articles/9485d260.json)
+
+[Extended Data](ext_articles/9485d260.ext.json)
+
+---
+
 ### Audit Report on Further Payments of Litro
 
 *2024-02-06 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175692) · `ta`
@@ -347,6 +547,22 @@ A large hunger who smuggled painkillers pills to Sri Lanka has been arrested and
 [Data](articles/558809f0.json)
 
 [Extended Data](ext_articles/558809f0.ext.json)
+
+---
+
+### Road accident in Colombo leaves two injured
+
+*2024-02-06 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97039/road-accident-in-colombo-leaves-two-injured) · `en`
+
+Two persons have sustained injuries after a three-wheeler and a car collided in Colombo on Tuesday (06 Feb.).
+
+According to police, the accident had reportedly occurred near a shopping complex in the Galle Face area, while the two persons who sustained injuries are currently receiving medical treatment.
+
+◼️
+
+[Data](articles/a55a3ea2.json)
+
+[Extended Data](ext_articles/a55a3ea2.ext.json)
 
 ---
 
@@ -744,6 +960,26 @@ The Minister also said that President Ranil Wickremesinghe is also present at th
 
 ---
 
+### 14 -month -old baby dies of fever
+
+*2024-02-06 10:52:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/காய்ச்சலினால்-14-மாத-குழந்தை-உயிரிழப்பு/71-332750) · `ta`
+
+In the jaffna. A 14 -month -old baby suffering from a two -day fever has died without treatment.
+
+Raghuram Chandra, a 14 -month -old baby, who was receiving treatment at the Jaffna Bodhana Hospital, died yesterday.
+
+When parents took her to a private hospital last Sunday due to a fever, the baby was in Jaffna due to the intensity of the fever. Parents were admitted to the Jaffna Bodhana Hospital after the teaching hospital was instructed.
+
+The baby died without treatment.R
+
+◼️
+
+[Data](articles/17612cb4.json)
+
+[Extended Data](ext_articles/17612cb4.ext.json)
+
+---
+
 ### Japanese treasurers lose crowd because of illicit affair
 
 *2024-02-06 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193034) · `si`
@@ -781,6 +1017,24 @@ On September 25, then-Minister of Sports Roshan Ranasinghe appointed a three-mem
 [Data](articles/da3b02c8.json)
 
 [Extended Data](ext_articles/da3b02c8.ext.json)
+
+---
+
+### Harin dissolved Roshan's group
+
+*2024-02-06 10:47:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரொஷானின்-குழுவை-கலைத்தார்-ஹரின்/175-332749) · `ta`
+
+Sports and Youth Affairs Minister Harin Fernando has taken steps to dissolve the International Sports Coordinating Committee for Sri Lanka.
+
+It is reported that the committee has been dissolved in effect from January 26.
+
+Earlier, on September 25 last year, the committee was appointed by the then Minister of Sports and Youth Affairs Roshan Ranasinghe.
+
+◼️
+
+[Data](articles/bbc47e8a.json)
+
+[Extended Data](ext_articles/bbc47e8a.ext.json)
 
 ---
 
@@ -851,6 +1105,24 @@ Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
 [Data](articles/9c2b0fc8.json)
 
 [Extended Data](ext_articles/9c2b0fc8.ext.json)
+
+---
+
+### Appointment to 1300 doctors next month
+
+*2024-02-06 10:38:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-மாதம்-மேலும்-1300-வைத்தியர்களுக்கு-நியமனம்/175-332748) · `ta`
+
+The Ministry of Health said that a further 1300 doctors will be appointed in March as a solution to the shortage of doctors in the country's state hospitals.
+
+Health Secretary Palitha Maibala said that the appointment will be appointed once the doctors have completed the training.
+
+Meanwhile, 90 doctors who completed the training last week have been appointed.
+
+◼️
+
+[Data](articles/f6492de0.json)
+
+[Extended Data](ext_articles/f6492de0.ext.json)
 
 ---
 
@@ -1020,9 +1292,9 @@ In a post on X (formerly Twitter), Dissanayake said the focus of the discussion 
 
 Vijitha Herath, the National Executive Member of the National People’s Power (NPP) was also in attendance at this meeting.
 
-Dissanayake is heading a delegation of his party-led NPP alliance to India on a five-day, three-city visit, covering New Delhi, Ahmedabad, and Thiruvananthapuram.
+Dissanayake is heading a delegation of the NPP to India on a five-day, three-city visit, covering New Delhi, Ahmedabad, and Thiruvananthapuram.
 
-Indian media said the visit and meetings assume greater significance and that this is the first time New Delhi has invited the JVP leader.
+The visit and meetings assume greater significance and this is the first time New Delhi has invited the JVP leader, Indian media said.
 
 ...
 
@@ -1327,6 +1599,30 @@ Accordingly, the rehabilitation officer was under the disciplinary inquiry, pris
 [Data](articles/de90b22c.json)
 
 [Extended Data](ext_articles/de90b22c.ext.json)
+
+---
+
+### “Arrested VIPs live in luxury in prison”
+
+*2024-02-06 07:54:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கைது-செய்யப்பட்ட-விஐபிகள்-சிறையில்-சொகுசாக-வாழ்கின்றனர்/150-332744) · `ta`
+
+The Government Medical Officers forum (GMOF) yesterday accused the woman's doctor in charge of the Welikada Prison and allowed the imprisoned dignitaries to enjoy the life of a man.
+
+GMOF leader Daily Mirror said that the medical officer has repeatedly complained to the Health Ministry that he had misused his powers.
+
+“The action of the particular medical officer has allowed not only VIPs but also the jailed drug traffickers to stay in the prison hospital comfortably,” he said.
+
+Dr. Bellana said that real patients in the Welikada Prison have lost the opportunity to get treatment.
+
+He also said that no action has been taken against the doctor, despite repeated complaints from the Human Rights Council and internal doctors.
+
+Doctor Bellana said that the doctor has come to work with the stamp as chief medical officer and has allowed the Ministry of Health to work there for more than five years.
+
+◼️
+
+[Data](articles/1618b676.json)
+
+[Extended Data](ext_articles/1618b676.ext.json)
 
 ---
 
@@ -1801,311 +2097,5 @@ In this case, I am happy with the approval of the Cabinet, ”said Diana Kamage.
 [Data](articles/0a9e1551.json)
 
 [Extended Data](ext_articles/0a9e1551.ext.json)
-
----
-
-### Farmers who worked on the floor fall down and die!
-
-*2024-02-06 01:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175668) · `ta`
-
-A young family member who worked in the 2nd -storey building in Kokuvil on Monday (05) died after falling down. The deceased is Susai Sudarshan (age 38) from Ilavalai - Periyavilan.
-
-The incident took place while the person was working on Monday (05). He was rescued and admitted to the Jaffna Teaching Hospital.
-
-In this case, he died without treatment. Namasivayam Premkumar carried out a sudden death investigation into his body. The body was handed over to relatives after anatomical examination.
-
-◼️
-
-[Data](articles/55f3ec4f.json)
-
-[Extended Data](ext_articles/55f3ec4f.ext.json)
-
----
-
-### AKD meets Jaishankar and Doval in Delhi
-
-*2024-02-06 00:59:13* · [`dailyftlk`](https://www.ft.lk/news/AKD-meets-Jaishankar-and-Doval-in-Delhi/56-758164) · `en`
-
-NPP leader Anura Kumara Dissanayake and Indian External Affairs Minister S. Jaishankar
-
-AKD and Jaishankar’s discussion focused on bilateral relationship and SL’s economic challenges
-
-Meeting with Doval centred on security and bilateral issues concerning India and SL
-
-Delegation led by AKD is scheduled for a five-day visit to India covering three cities
-
-National People’s Party (NPP) and Janatha Vimukthi Peramuna (JVP) leader Anura Kumara Dissanayake met with Indian External Affairs Minister S. Jaishankar and National Security Adviser (NSA) Ajit Doval in Delhi yesterday.
-
-Dissanayake along with a delegation of NPP politicians are currently on an official visit to India at the invitation of the Indian Government. The delegation includes NPP General Secretary Dr. Nihal Abeysinghe and NPP National Executive Members Prof. Anil Jayantha and MP Vijitha Herath.
-
-...
-
-[Data](articles/5888f3ea.json)
-
-[Extended Data](ext_articles/5888f3ea.ext.json)
-
----
-
-### Janaka Ratnayake compares immunoglobulin scam to Hitler’s atrocities
-
-*2024-02-06 00:58:34* · [`dailyftlk`](https://www.ft.lk/news/Janaka-Ratnayake-compares-immunoglobulin-scam-to-Hitler-s-atrocities/56-758163) · `en`
-
-Calls importation of substandard human immunoglobulin IV vials to Sri Lanka a ‘massacre’
-
-Says since number of lives lost remains uncertain it must be treated similarly to atrocities committed by Hitler during WWII
-
-Stresses politicians only display ‘symptoms’ of various ailments when they find themselves facing legal consequences
-
-Presidential hopeful and former Public Utilities Commission of Sri Lanka Chairman Janaka Ratnayake yesterday declared the controversial scam involving the importation of substandard human immunoglobulin IV vials to Sri Lanka, a ‘massacre’.
-
-Addressing the media, Ratnayake said the accusations against the former Health Minister Keheliya Rambukwella should be considered as both a fraud and a massacre.
-
-Ratnayake noted that the Minister had facilitated the importation of the sub-standard human immunoglobulin vials without adhering to any proper procedures, subsequently administering them to unsuspecting patients in the country.
-
-...
-
-[Data](articles/a4f79977.json)
-
-[Extended Data](ext_articles/a4f79977.ext.json)
-
----
-
-### Industry veteran Saifudeen Jafferjee elected Chairman of JAAF at 20th AGM
-
-*2024-02-06 00:56:30* · [`dailyftlk`](https://www.ft.lk/business/Industry-veteran-Saifudeen-Jafferjee-elected-Chairman-of-JAAF-at-20th-AGM/34-758161) · `en`
-
-Industry veteran Saifudeen Jafferjee was elected Chairman of the Joint Apparel Association Forum (JAAF), which is the apex body that guides Sri Lanka apparel towards its ultimate goal of being the world’s number one apparel sourcing destination. At the 20th Annual General Meeting held recently, the Executive Committee including Deputy Chairmen Felix Fernando and Aroon Hirdaramani were re-elected.
-
-Delivering the inaugural Chairman’s address, Jafferjee highlighted six key policy areas that the industry is seeking government support to propel the apparel sector to meet its ultimate objective of becoming the world’s number one apparel sourcing destination.
-
-...
-
-[Data](articles/ca6e666d.json)
-
-[Extended Data](ext_articles/ca6e666d.ext.json)
-
----
-
-### CIOB says EDB can support export of construction industry to boost forex earnings
-
-*2024-02-06 00:55:31* · [`dailyftlk`](https://www.ft.lk/business/CIOB-says-EDB-can-support-export-of-construction-industry-to-boost-forex-earnings/34-758160) · `en`
-
-From left: EDB Assistant Director Kumudini Irugalbandara, Ch.QS. Lalith Ratnayake, EDB Chairman
-
-Dr. Kingsley Bernard, CIOB President Dr. Rohan Karunaratne and Secretary Eng. Saliya Kaluarachchi
-
-The Ceylon Institute of Builders (CIOB) says the SLEDB can support the exports of the construction industry to boost foreign exchange earnings.
-
-“This is the best time for the Construction Industry to look for opportunities overseas. This is because; due to the economic crisis, over 60% of the construction industry in Sri Lanka has been halted,” CIOB President Dr. Rohan Karunaratne said.
-
-“Many contractors are trying to accrue overseas projects and the main barrier for them is the Central Bank ruling which restricts cross-border guarantees and capital funding to establish abroad,” he added.
-
-According to CIOB, the CBSL is allowing only $ 1 million for cross border guarantees which is severely insufficient and does not even begin to scratch the surface of contractors’ requirements.
-
-...
-
-[Data](articles/b8299093.json)
-
-[Extended Data](ext_articles/b8299093.ext.json)
-
----
-
-### ComBank LEAP GlobalLinker partners IDB to support SMEs
-
-*2024-02-06 00:54:46* · [`dailyftlk`](https://www.ft.lk/business/ComBank-LEAP-GlobalLinker-partners-IDB-to-support-SMEs/34-758159) · `en`
-
-Commercial Bank Managing Director/CEO Sanath Manatunge and Chief Operating Officer S. Prabagar participate in the signing of the MoU with IDB Chairman Dr. Saranga Alahapperuma and Board Member P.L.U. Rathnamalala in the presence of members of the corporate management of the bank and officials of the two institutions, while DigiVation CEO Sameer Vakil joined the event virtually
-
-The Commercial Bank of Ceylon has launched a new initiative to support small and medium-sized enterprises (SMEs) via a partnership with the Industrial Development Board (IDB), the premier state organisation entrusted with the progress of the industrial sector in Sri Lanka.
-
-The partnership will provide stakeholders of the IDB access to ‘Commercial Bank LEAP GlobalLinker’ – the Bank’s digital platform designed to empower SMEs to reach cross-border levels in the global market – from the ‘BizConnect‘ portal on the IDB’s website.
-
-...
-
-[Data](articles/96b44f50.json)
-
-[Extended Data](ext_articles/96b44f50.ext.json)
-
----
-
-### Sri Lankans should fight for economic freedom and not for economic independence
-
-*2024-02-06 00:47:57* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lankans-should-fight-for-economic-freedom-and-not-for-economic-independence/4-758152) · `en`
-
-It is the economic interdependence and not economic independence that matters
-
-Sri Lankans’ fight for economic independence is futile since modern economies are interdependent. But they should aspire to win economic freedom since it helps them to become creative and win over those who are moving forward fast in the globe. That will necessarily require them to worship brain over belly
-
-Sri Lanka as a matter of routine habit celebrated the anniversary of independence from Britain on 4 February. This relates to the political independence in which Sri Lankans are empowered to elect their own rulers. The exercise of this power has happened on numerous occasions in the past 76 years. As such, Sri Lanka has been branded as one of the longest surviving democracies in South Asia, next only to India which has done so for 77 years.
-
-...
-
-[Data](articles/4b8260ab.json)
-
-[Extended Data](ext_articles/4b8260ab.ext.json)
-
----
-
-### December sees surge in credit card expenditures, signalling rebound in consumer spending
-
-*2024-02-06 00:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/December-sees-surge-in-credit-card-expenditures-signalling-rebound-in-consumer-spending/108-276385) · `en`
-
-Card balance surges by Rs.6.2bn in December while full-year growth at Rs.8.3bn
-
-The credit card activity, which remained anaemic for a prolonged period, appears to have broken its trend and set off to potentially a robust run of spending in the period ahead. The cardholders were seen swiping more frequently for their festive spending and leisure and travelling needs in December last year.
-
-The latest data available showed that in December 2023, the cardholders have ramped up their spending considerably, as the outstanding credit card balance of the licensed commercial banks has jumped by a robust Rs.6,176 million, the largest monthly increase from a very long time.
-
-This was in comparison to the Rs.1,205 million increase in November and Rs.309 million contraction in the month before.
-
-...
-
-[Data](articles/a3324700.json)
-
-[Extended Data](ext_articles/a3324700.ext.json)
-
----
-
-### At least 10 killed in attack on police station in Pakistan
-
-*2024-02-06 00:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97028/at-least-10-killed-in-attack-on-police-station-in-pakistan) · `en`
-
-(Reuters) - At least 10 police personnel were killed and six others injured in a pre-dawn attack on Monday by militants on a police station in northwest Pakistan, police said, as violence escalated ahead of general elections this week.
-
-At around 3 a.m. local time (2200 GMT Sunday) militants attacked the police station with sniper fire and then entered the building, said police officers in Pakistan’s Draban region in Khyber-Pakhtunkhwa province.
-
-“After entering the building, the terrorists used hand grenades which caused more casualties to the police,” said Malik Anees ul Hassan, the deputy superintendent of police in Draban.
-
-It was not immediately clear who was behind the attack and whether it was related to the election.
-
-A national assembly candidate was shot dead on Wednesday elsewhere in Khyber-Pakhtunkhwa. On the same day, another political leader was shot dead in his party’s election office in Balochistan province.
-
-...
-
-[Data](articles/9f12d83c.json)
-
-[Extended Data](ext_articles/9f12d83c.ext.json)
-
----
-
-### Global digital operators have to pay VAT according to Sri Lankan tax laws
-
-*2024-02-06 00:22:43* · [`dailyftlk`](https://www.ft.lk/opinion/Global-digital-operators-have-to-pay-VAT-according-to-Sri-Lankan-tax-laws/14-758134) · `en`
-
-Following is an interview with Department of Inland Revenue former Deputy Commissioner General N.M.M. Mifly
-
-Q: Digital company taxation local versus foreign has become a subject of concern in the COPF, where it has been pointed out that an unfair playing field is prevalent with the advantage going to foreign digital players operating in Sri Lanka. How do you think this has happened?
-
-A: The digital economy allows room for tax evasion, avoidance, and double non-taxation of both direct and indirect taxes, by using loopholes in the domestic tax statutes. This is done, especially by non-resident digital service providers.
-
-It goes without saying that the non-payment of due taxes by international digital service providers has a direct adverse impact on their local competitors/counterparts. Creating such an uneven playing field has resulted in a loss of confidence in the efficiency of our tax system.
-
-...
-
-[Data](articles/35dc514b.json)
-
-[Extended Data](ext_articles/35dc514b.ext.json)
-
----
-
-### Big Tech’s role and the OSB
-
-*2024-02-06 00:10:29* · [`dailyftlk`](https://www.ft.lk/columns/Big-Tech-s-role-and-the-OSB/4-758129) · `en`
-
-Meta CEO Mark Zuckerberg testifying at a Senate Judiciary Committee hearing at the Dirksen Senate Office Building on 31 January, 2024, in Washington, D.C., apologises to families who claim their children were hurt by using Facebook (Kent Nishimura/Bloomberg via Getty images)
-
-...
-
-[Data](articles/b702f24d.json)
-
-[Extended Data](ext_articles/b702f24d.ext.json)
-
----
-
-### March 12 Movement denounces passage of Online Safety Bill in an unlawful manner
-
-*2024-02-06 00:07:09* · [`dailyftlk`](https://www.ft.lk/opinion/March-12-Movement-denounces-passage-of-Online-Safety-Bill-in-an-unlawful-manner/14-758128) · `en`
-
-The March 12 Movement yesterday in a statement denounced the passage of the Online Safety Bill in an unlawful manner.
-
-“We reiterate that the Online Safety Bill poses a grave threat to fundamental rights and democratic principles enshrined in the Constitution of Sri Lanka and regret to note that the current Government’s adamant pursuit of this legislation is a clear indication of its intention to silence dissent and suppress civic activism during this critical time of economic reform and upcoming elections,” the statement read.
-
-The March 12 Movement said it noted with grave concern that in addition to introducing an undemocratic law, Parliament outrageously acted in violation of the constitutionally guaranteed right to pre-enactment judicial review of legislation.
-
-...
-
-[Data](articles/f5fc737a.json)
-
-[Extended Data](ext_articles/f5fc737a.ext.json)
-
----
-
-### Solution for Somali Piracy has to be found on Land, not at Sea
-
-*2024-02-06 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Solution-for-Somali-Piracy-has-to-be-found-on-Land-not-at-Sea/172-276367) · `en`
-
-The SalamaFikira (FP) Group, a leading global security and risk management firm, warned in January, that despite a perceived decline in Somali piracy, recent incidents indicate that the menace has not been eradicated and remains a formidable challenge.
-
-By January 2011, 736 people were taken as hostages and 32 ships were captured by pirates. Piracy impeded the delivery of shipments and increased shipping expenses, costing an estimated US $ 6.9 billion a year in global trade, according to Oceans Beyond Piracy (OBP).
-
-According to the German Institute for Economic Research (DIW), a veritable industry of profiteers also arose around the piracy. Insurance companies significantly increased their profits from the pirate attacks as these companies hiked premium rates in response.
-
-...
-
-[Data](articles/639db13f.json)
-
-[Extended Data](ext_articles/639db13f.ext.json)
-
----
-
-### “Govt. tax policies are based on deals” -Dr. HariniAmarasuriya
-
-*2024-02-06 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Govt-tax-policies-are-based-on-deals-Dr-HariniAmarasuriya/231-276364) · `en`
-
-There is nothing underground or clandestine how we do things.
-
-Taking a more flexible line on geopolitics compared to several decades ago the NPP is ready to deal with any foreign power by placing national interest in the forefront
-
-We must engage with a country based on an agenda that best suits us. Whether it’s India, China or America no other country is going to come and work with us or engage with us without an agenda.
-
-...
-
-[Data](articles/67d96714.json)
-
-[Extended Data](ext_articles/67d96714.ext.json)
-
----
-
-### “Govt. tax policies are based on deals” -Dr. HariniAmarasuriya
-
-*2024-02-06 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/recomended-news/Govt-tax-policies-are-based-on-deals-Dr-HariniAmarasuriya/277-276364) · `en`
-
-There is nothing underground or clandestine how we do things.
-
-Taking a more flexible line on geopolitics compared to several decades ago the NPP is ready to deal with any foreign power by placing national interest in the forefront
-
-We must engage with a country based on an agenda that best suits us. Whether it’s India, China or America no other country is going to come and work with us or engage with us without an agenda.
-
-...
-
-[Data](articles/6964006d.json)
-
-[Extended Data](ext_articles/6964006d.ext.json)
-
----
-
-### Are Politicians Above The Law?
-
-*2024-02-06 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Are-Politicians-Above-The-Law/172-276366) · `en`
-
-Following months of allegations of mismanagement of the health sector against him, former Health Minister Keheliya Rambukwella was arrested by the Criminal Investigation Department (CID) on Friday over an alleged scam involving the importation of substandard human immunoglobulin vials to Sri Lanka.
-
-On Thursday, Maligakanda Magistrate, Lochani Abeywickrama ordered him to appear before the CID on February 2, after he had failed to do so on Wednesday (January 31) and submit written justifications for his absence.
-
-...
-
-[Data](articles/944e9b2c.json)
-
-[Extended Data](ext_articles/944e9b2c.ext.json)
 
 ---

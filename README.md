@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 04:02:22**
+As of **2024-02-07 04:17:24**
 
 ## Newspaper Stats
 
@@ -26,27 +26,31 @@ dailymirrorlk | 749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,304 (99.9%) of 5,307 articles have been extended.
+5,307 (100.0%) of 5,307 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### ’இந்த வருடம் தேர்தல் நடத்தப்படும்’
+### Model will be held this year election
 
 *2024-02-07 02:54:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-வருடம்-தேர்தல்-நடத்தப்படும்/175-332800) · `ta`
 
-இந்த வருடத்தில் ஜனாதிபதி தேர்தல் மற்றும் பொதுத் தேர்தல் என்பன நடத்தப்படவுள்ளன என அமைச்சரவை பேச்சாளர், அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+Cabinet spokesman and Minister Bandula Gunawardena said that the presidential election and the general election will be held this year.
 
-அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு உரையாற்றிய போதே அவர் இவ்வாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+He said this while addressing a press conference announcing the Cabinet decisions. He further stated that
 
-"ஜனாதிபதி தேர்தல் மற்றும் பொதுத் தேர்தலுடன் தொடர்புடைய செலவினங்களை, 2024 ஆம் ஆண்டுக்கான வரவு செலவு திட்டத்தில் தேர்தலுக்காக ஒதுக்கீடு செய்யப்பட்டுள்ள 10 பில்லியன் ரூபாவில் முகாமைத்துவம் செய்ய வேண்டியுள்ளமை தொடர்பில் அமைச்சரவை கவனம் செலுத்தியுள்ளது.
+“The Cabinet has focused on the need to manage the presidential election and general elections in the 2024 budget for the election of 10 billion rupees.
 
-அரசாங்கத்திடம் காணப்படும் வரையறுக்கப்பட்ட நிதி நிலைமையினால், மாகாண சபை மற்றும் உள்ளூராட்சி மன்ற தேர்தல்களை நடத்துவதற்கு தேவையான நிதியை 2025 ஆம் ஆண்டுக்கான வரவு செலவு திட்டத்தினூடாக வழங்க வேண்டியுள்ளமை தொடர்பிலும் அமைச்சரவை ஆராய்ந்துள்ளது.
+Due to the limited financial situation in the government, the Cabinet has also examined the provincial council and the necessary funds to hold the provincial council and local government elections through the budget for 2025.
 
-...
+However, the Cabinet has also consulted to introduce amendments to the reorganization of the relevant election laws based on parliamentary permits, if the recommendations of the Commission to be presented by the Commission of Inquiry before holding the two elections. ”
+
+◼️
 
 [Data](articles/1c1c9a3b.json)
+
+[Extended Data](ext_articles/1c1c9a3b.ext.json)
 
 ---
 
@@ -1118,6 +1122,8 @@ Amidst widespread frustration towards the Ranil- Rajapaksa regime, the current p
 
 [Data](articles/2c45eb4d.json)
 
+[Extended Data](ext_articles/2c45eb4d.ext.json)
+
 ---
 
 ### People's opposition to Phiyiangala owner to seek another destruction of Wilpattu
@@ -1161,6 +1167,8 @@ Anura Kumara Dissanayake, leader of the National People’s Power (NPP) was offi
 ...
 
 [Data](articles/dfa484eb.json)
+
+[Extended Data](ext_articles/dfa484eb.ext.json)
 
 ---
 

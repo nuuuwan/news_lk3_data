@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 10:32:48**
+As of **2024-02-06 10:50:15**
 
 ## Newspaper Stats
 
-*Scraped **5,086** Articles*
+*Scraped **5,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 290
 newsfirstlk | 305
 adalk | 436
 virakesarilk | 590
-adaderanalk | 626
+adaderanalk | 627
 tamilmirrorlk | 642
 adaderanasinhalalk | 658
 dailymirrorlk | 725
@@ -26,25 +26,47 @@ dailymirrorlk | 725
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,076 (99.8%) of 5,086 articles have been extended.
+5,087 (100.0%) of 5,087 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
 
-### இலங்கைக்கு கடத்த முயன்ற 7 இலட்சம் வலி நிவாரணி மாத்திரைகள் பறிமுதல் : ஒருவர் கைது
+### Hundreds of people still missing as Chile’s wildfire death toll reaches 122
+
+*2024-02-06 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97034/hundreds-of-people-still-missing-as-chiles-wildfire-death-toll-reaches-122) · `en`
+
+Volunteers in central Chile tried to remove charred metal, broken glass and other debris Monday from neighborhoods devastated by wildfires over the past several days, as officials raised the death toll to 122. Hundreds of people remain missing.
+
+The fires appeared to have diminished by Monday morning after burning intensely since Friday on the eastern edge of the city of Viña del Mar. Two other towns in the Valparaíso region, Quilpé and Villa Alemana, also have been hit hard, and President Gabriel Boric said Sunday that at least 3,000 homes had been burnt down in the area.
+
+An additional 10 victims were added to the death toll on Monday afternoon, bringing it to 122, said Marisol Prado, the director of Chile’s Forensic Medical Service.
+
+Prado said that many bodies were in bad condition and difficult to identify, but added that forensic workers would be taking samples of genetic material from people who have reported missing relatives.
+
+...
+
+[Data](articles/a348cb61.json)
+
+[Extended Data](ext_articles/a348cb61.ext.json)
+
+---
+
+### 7 lakhs of pain reliever pills attempted to smuggle Sri Lanka: One arrested
 
 *2024-02-06 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175677) · `ta`
 
-இந்தியாவில் இருந்து இலங்கைக்கு கடத்த முயன்ற 7 இலட்சம் வலி நிவாரணி மாத்திரைகள் நேற்று திங்கட்கிழமை (05) இரவு படகுடன் பறிமுதல் செய்யப்பட்டுள்ளதோடு, ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+7 lakhs of pain relief pills have been seized and arrested on Monday night (05) night.
 
-இராமநாதபுரம் மாவட்டம் திருப்புல்லாணி அடுத்த புதுமடம் கடற்கரையில் இருந்து நாட்டுப்படகில் வலி நிவாரணி மாத்திரைகள் இலங்கைக்கு  கடத்தப்படுவதாக கிடைத்த ரகசிய தகவலின் அடிப்படையில் ரோந்து பணியில் ஈடுபட்டிருந்த மரைன் பொலிஸார் பெரிய பட்டினம் கடற்கரையில் வைத்து ஒரு நாட்டுப் படகையும் அதிலிருந்து சுமார் 7  இலட்சம் வலி நிவாரணி மாத்திரை களையும் பறிமுதல் செய்துள்ளனர்.
+Marine police, who were on patrol on the basis of confidential information that they were smuggled into Sri Lanka from Puthupullani beach next to Thiruppulani in Ramanathapuram district, have confiscated a country boat and about 7 lakhs of pain relief pills on the beach.
 
-வலி நிவாரணி மாத்திரைகளை இலங்கைக்கு கடத்தி சென்ற பெரிய பட்டினத்தைச்  சேர்ந்த ஒருவர்  கைது செய்யப்பட்டு விசாரணை நடத்தி வருகின்றனர்.
+A large hunger who smuggled painkillers pills to Sri Lanka has been arrested and is being investigated.
 
 ◼️
 
 [Data](articles/558809f0.json)
+
+[Extended Data](ext_articles/558809f0.ext.json)
 
 ---
 
@@ -122,25 +144,29 @@ Indian media said the visit and meetings assume greater significance and that th
 
 ---
 
-### சிலியில் பாரிய காட்டுத் தீ ; 122 பேர் பலி ; நூற்றுக்கணக்கானவர்கள் மாயம்
+### A massive wildfire in Chile;122 killed;Hundreds of people magic
 
 *2024-02-06 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175674) · `ta`
 
-சிலி நாட்டில் பரவி வரும் பாரிய காட்டுத்தீயினால் இதுவரை 122 பேர் உயிரிழந்துள்ளதோடு, நூற்றுக்கணக்கானவர்களைக் காணவில்லை என அதிகாரிகள் தெரிவித்துள்ளனர்.
+Officials say 122 people have been killed and hundreds of people have been missing due to a massive wildfire spreading in Chile.
 
-சிலி வால்பரைசோவின் மத்தியப் பகுதியில் காட்டுத் தீ பரவி வருவதோடு, உயிரிழப்புகள் அதிகரிக்கலாம் என அந்நாட்டு ஜனாதிபதி கேப்ரியல் போரிக் ஞாயிற்றுக்கிழமை எச்சரித்துள்ளார்.
+President Gabriel Boric on Sunday warned that wildfire is spreading in the central part of Chile Walbariso and increasing deaths.
 
-மேலும்,  கேப்ரியல் போரிக் தனது நாடு 'மிகப்பெரிய அளவிலான சோகத்தை' எதிர்கொள்வதாகவும் தெரிவித்துள்ளார்.
+In addition, Gabriel Boric has said that his country is facing a 'huge tragedy'.
 
-இந்நிலையில், பேரழிவிலிருந்து மக்களை காப்பாற்றுவதாக உறுதியளித்தோடு, போரிக் வெள்ளிக்கிழமை அவசரகால நிலையை அறிவித்துள்ளார்.
+In this case, Boric has announced an emergency on Friday, promising to save the people from the disaster.
 
-காட்டுத்தீயினால் கடற்கரை சுற்றுலா தளமான வினா டெல் மார் நகரிலும் அதைச் சுற்றியுள்ள பகுதிகளிலும் 200 பேர் காணாமல் போயுள்ளதாக அதிகாரிகள் தெரிவித்துள்ளனர்.
+Officials say 200 people have disappeared in the coastal tourist dest of the beach Tel Mar and surrounding areas.
 
-கடற்கரை சுற்றுலா தளமான அங்கு பாரிய தீ விபத்துக்கள் ஏற்பட்டுள்ளன. அத்தோடு, வருடாந்திர சர்வதேச இசை விழாவிற்கு பெயர் பெற்ற நகரத்தின் கிழக்கு பகுதிகள் எரிந்து நாசமாகியுள்ளன.
+There have been massive firefighters where the coastal tourist site. In addition, the eastern parts of the city, known for the annual International Music Festival, have been destroyed.
+
+Another 10 more people were killed in a fire on Monday. In addition, the number of casualties has increased to 122, said Marisol Brado, director of Chile's Forensic Medical Service.
 
 ...
 
 [Data](articles/3935ea1d.json)
+
+[Extended Data](ext_articles/3935ea1d.ext.json)
 
 ---
 
@@ -201,6 +227,8 @@ He said many countries including Singapore are using the home detention method .
 ...
 
 [Data](articles/7ab5cfa2.json)
+
+[Extended Data](ext_articles/7ab5cfa2.ext.json)
 
 ---
 
@@ -272,23 +300,27 @@ Motorcyclists have been injured in the accident and he is receiving treatment at
 
 ---
 
-### ඉරානයේදී ලක්මවට පදක්කමක් ගෙනා විරේන්
+### Weeraman who brought a medal in Lakmeewa in Iran
 
 *2024-02-06 08:17:24* · [`adalk`](https://www.ada.lk/sports/ඉරානයේදී ලක්මවට-පදක්කමක්-ගෙනා-විරේන්/9-407918) · `si`
 
-ඉරානයේ පැවති 32 වන ජාත්‍යන්තර බැඩ්මින්ටන් ශූරතා තරගාවලියට ශ්‍රී ලංකාව නියෝජනය කරමින් සහභාගී වූ විරේන් නෙත්තසිංහ , එම තරගාවලියේ විවෘත කේවළ අංශයෙන් ලෝකඩ පදක්කම දිනා ගෙන 02/05 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේයෙ.
+A participant from the 32th International Badminton Championship tournament, arrived at the Katunayake Airport on the open calendar.
 
-මෙම තරගාවලිය ඉකුත් ජනවාරි මස 30 දින සිට පෙබරවාරි මස 04 වැනි දා දක්වා රටවල් 20 ක ක්‍රීඩක ක්‍රීඩිකාවන් 200 කගේ පමණ සහභාගීත්වයෙන් පවත්වා තිබුණි .
+The tournament was held on the 30th of February to 4th February.
 
-විරේන් නෙත්තසිංහ කටුනායක ගුවන් තොටුපොළෙන් ඊළඟට පිටත්ව ගියේ මේ දිනවල ශ්‍රී ලංකාවේ ගාල්ල ප්‍රදේශයේ පවත්වන ජාත්‍යන්තර අභියෝග්‍යතා බැඩ්මින්ටන් ශූරතා තරගාවලි දෙකට සහභාගී වීම සදහාය.
+Virage Neththanasinghe left the next two these days at the Bandarawela-East Badminton Championships in Sri Lanka these days.
 
-මෙම තරගාවලි සදහා සහභාගී වීමට ජාත්‍යන්තර බැඩ්මින්ටන් ක්‍රීඩකයින් 550 කට අධික පිරිසක් මේ වනවිට කටුනායක ගුවන් තොටුපොළ ඔස්සේ  ගාල්ලට පැමිණෙමින් සිටිති .
+More than 550 international badminton players are currently in the Katunayake airport to participate in these tournaments.
 
-විරේන් නෙත්තසිංහ මීළඟට උගන්ඩාවේ පැවැත්වීමට නියමිත ජාත්‍යන්තර බැඩ්මින්ටන් ශූරතා තරගාවලියට සහ පෝලන්තයේ සහ නෙදර්ලන්තයේ පැවැත්වීමට නියමිත ජාත්‍යන්තර තරගාවලි වලට සහභාගී වීම සදහා මේ මස අග දී පිටත්ව යාමට නියමිතය .
+Virage Nethhtinghe next to depart to Uganda, the International Badminton Championship Tournament in Uganda and to attend international tournaments in Poland and the International Competitions in the Netherlands.
 
-...
+In addition, the Asian Championship tournament in China is also expected to attend the World Grade at a higher point in the event of the next April.
+
+◼️
 
 [Data](articles/0a08a24d.json)
+
+[Extended Data](ext_articles/0a08a24d.ext.json)
 
 ---
 
@@ -345,6 +377,8 @@ Speaker Mahinda Yapa Abeywardena gave his ascent to the new law passed in Parlia
 ...
 
 [Data](articles/01fe5ac1.json)
+
+[Extended Data](ext_articles/01fe5ac1.ext.json)
 
 ---
 
@@ -678,6 +712,8 @@ The King returned to London from Sandringham in Norfolk on Monday morning and th
 
 [Data](articles/f416feb0.json)
 
+[Extended Data](ext_articles/f416feb0.ext.json)
+
 ---
 
 ### At least 10 killed in attack on police station in Pakistan
@@ -697,6 +733,8 @@ A national assembly candidate was shot dead on Wednesday elsewhere in Khyber-Pak
 ...
 
 [Data](articles/8c10ab38.json)
+
+[Extended Data](ext_articles/8c10ab38.ext.json)
 
 ---
 
@@ -739,6 +777,8 @@ However, despite the industry having maintained a strong momentum of crossing th
 ...
 
 [Data](articles/c76bb1db.json)
+
+[Extended Data](ext_articles/c76bb1db.ext.json)
 
 ---
 
@@ -990,6 +1030,8 @@ This was in comparison to the Rs.1,205 million increase in November and Rs.309 m
 
 [Data](articles/a3324700.json)
 
+[Extended Data](ext_articles/a3324700.ext.json)
+
 ---
 
 ### At least 10 killed in attack on police station in Pakistan
@@ -1115,6 +1157,8 @@ We must engage with a country based on an agenda that best suits us. Whether it�
 ...
 
 [Data](articles/6964006d.json)
+
+[Extended Data](ext_articles/6964006d.ext.json)
 
 ---
 
@@ -1965,31 +2009,5 @@ The Minister said that 3,000 high schools in the country will be digitized and t
 [Data](articles/a7230100.json)
 
 [Extended Data](ext_articles/a7230100.ext.json)
-
----
-
-### Craig Howard joins Sri Lanka Cricket as spin coach on two-year contract
-
-*2024-02-05 19:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Craig-Howard-joins-Sri-Lanka-Cricket-as-spin-coach-on-two-year-contract/108-276358) · `en`
-
-Colombo, Feb. 5 (Daily Mirror) - Sri Lanka Cricket has appointed former Australian First Class Cricketer Craig Howard as the National Spin Bowling Coach.
-
-The 49-year-old Howard also known as Howie, was the spin bowling coach of the New Zealand White Ferns team and the Victorian Men’s First Class team before taking over the new role.
-
-The SLC said that Howard will assume the duties of the national team, starting with the ODI series of the ongoing Afghanistan Tour of Sri Lanka.
-
-He is assigned a two-year contract, which commenced on February 1, 2024.
-
-A Qualified Level 3 Cricket Coach from Cricket Australia, Craig has held a 12-year stint as the Consultant Coach of Cricket Australia.
-
-As Cricket Australia’s consultant coach, he has worked on CA’s spin weeks, head of spin bowling for pathways, and national teams.
-
-He has also functioned as the assistant coach on tours for the Australia ‘A’, Cricket Australia XI, and Under-19 teams across the men’s and women’s systems.
-
-...
-
-[Data](articles/9b9bc5e6.json)
-
-[Extended Data](ext_articles/9b9bc5e6.ext.json)
 
 ---

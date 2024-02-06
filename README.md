@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 15:51:12**
+As of **2024-02-06 16:03:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,165 (100.0%) of 5,166 articles have been extended.
+5,166 (100.0%) of 5,166 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Prior to the apprehension of Rambukwella, seven arrests had been made in connect
 ...
 
 [Data](articles/9a70f378.json)
+
+[Extended Data](ext_articles/9a70f378.ext.json)
 
 ---
 

@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 05:55:18**
+As of **2024-02-06 06:16:15**
 
 ## Newspaper Stats
 
-*Scraped **5,031** Articles*
+*Scraped **5,044** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 60
 bbccomsinhala | 73
 dbsjeyarajcom | 139
-islandlk | 263
 economynextcom | 265
+islandlk | 276
 dailyftlk | 290
 newsfirstlk | 303
 adalk | 433
@@ -26,7 +26,7 @@ dailymirrorlk | 714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,031 (100.0%) of 5,031 articles have been extended.
+5,031 (99.7%) of 5,044 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -448,6 +448,34 @@ The Minister of State said that about 13,000 inmates were forced to stay in pris
 
 ---
 
+### Foreign assignments galore…
+
+*2024-02-05 22:15:00* · [`islandlk`](http://island.lk/foreign-assignments-galore/) · `en`
+
+The group LunuDehi is on a roll where foreign assignments are concerned.
+
+They were in Dubai last month and were seen in action at ‘PIMA NIGHT 2024,’ a gala dinner dance held at the Millennium Plaza Downtown Hotel.
+
+Their next overseas tour is to the UK, Canada, and the USA as backing band for BNS, Umaria and Randhir.
+
+Canada – Calgary (March 8 – sold out), Vancouver (March 9 – sold out), Ottawa (March 15 – sold out), Toronto (March 16).
+
+USA – Tampa (March 22), New York (March 23), Houston ((March 30), San Francisco (April 5) and Los Angele (April 6).
+
+LunuDehi has emerged as a very popular outfit in the scene here as they are dynamic on stage and the music they produce is very infectious.
+
+No doubt they would be having many more foreign assignments coming up…for the year 2024.
+
+Science Diplomacy as a powerful tool for national unity and friendship among nations – I
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/18c35a97.json)
+
+---
+
 ### Executive President is responsible for the people
 
 *2024-02-05 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193020) · `si`
@@ -463,6 +491,16 @@ The letter has been referred to the President based on the issues of the parliam
 [Data](articles/a6043395.json)
 
 [Extended Data](ext_articles/a6043395.ext.json)
+
+---
+
+### The dispossession of a voice through English in Sri Lanka
+
+*2024-02-05 22:06:00* · [`islandlk`](http://island.lk/the-dispossession-of-a-voice-through-english-in-sri-lanka/) · `en`
+
+...
+
+[Data](articles/0cd06762.json)
 
 ---
 
@@ -522,6 +560,78 @@ Meanwhile, the President also launched the root stone at the Rangiri Dambulla In
 
 ---
 
+### Prime Group felicitates MAGA Engineering for successful completion of ‘The Grand’ project
+
+*2024-02-05 21:51:00* · [`islandlk`](http://island.lk/prime-group-felicitates-maga-engineering-for-successful-completion-of-the-grand-project/) · `en`
+
+Prime Group, the visionary force behind some of Sri Lanka’s most prestigious living spaces, today marked a significant milestone with the felicitation of MAGA Engineering, the main contractor for the ultra-luxurious residential project, ‘The Grand’ Ward Place, Colombo 07.
+
+At a ceremonial gathering, Prime Group Chairman Premalal Brahmanage presented M. G. Kularatne, Chairman & Managing Director, MAGA Engineering, a retention payment, in accordance with ‘Sub Clause 11.8 of the Conditions of Contract’ certifying the Contractor had supplied all contractor documents, completed and tested everything to the satisfaction of the Engineer. With the successful completion of the contractual agreement, Prime Group also honoured MAGA Engineering for their outstanding work and dedication to excellence.
+
+...
+
+[Data](articles/63c5a044.json)
+
+---
+
+### Kala Pola 2024 – spotlighting artistic diversity
+
+*2024-02-05 21:50:00* · [`islandlk`](http://island.lk/kala-pola-2024-spotlighting-artistic-diversity/) · `en`
+
+Kala Pola, Sri Lanka’s annual open-air art fair, is set to mark its 31st anniversary on 18th February 2024. Celebrating over three decades of fostering the livelihoods of Sri Lankan artists, Kala Pola takes inspiration from the world-famous outdoor art fairs in Montmartre, Paris, and the Turl Street Art Festival in Oxford and has evolved as an eagerly awaited event of the art and culture calendar of Sri Lanka.
+
+...
+
+[Data](articles/6c836d9d.json)
+
+---
+
+### Flying Ravana Adventure Park celebrates 5 years of unforgettable adventures
+
+*2024-02-05 21:48:00* · [`islandlk`](http://island.lk/flying-ravana-adventure-park-celebrates-5-years-of-unforgettable-adventures/) · `en`
+
+Flying Ravana Adventure Park, the beacon of adventure in Ella, Sri Lanka, celebrated its 5th anniversary on February 1st, 2024. This momentous occasion signifies the Park’s commitment to delivering top-notch adventure experiences aligned with global safety standards.
+
+Chairman, Board of Directors, and the management team graced the occasion alongside the dedicated team of staff members who have been the backbone of Flying Ravana’s success over the past five years. The celebration commenced with religious observances. During the celebrations, the adventure park’s long-serving employees were honored with service awards and tokens of gratitude. This event is much more than just a celebration of the last five years which represents Flying Ravana’s commitment to providing unrivaled adventure experiences in the years ahead.
+
+...
+
+[Data](articles/83f1cf4c.json)
+
+---
+
+### SEC Sri Lanka introduces mechanism to report social media wrongdoings
+
+*2024-02-05 21:47:00* · [`islandlk`](http://island.lk/sec-sri-lanka-introduces-mechanism-to-report-social-media-wrongdoings/) · `en`
+
+With the rapid evolution of communication channels and the increase of social media influence in the financial markets, the Securities and Exchange Commission of Sri Lanka (SEC) recognized the need for proactive measures to identify and address potential social media wrongdoings that may impact investors and market stability.
+
+Considering these developments, the SEC has taken a significant step towards enhancing investor protection and market integrity with the launch of a dedicated webpage to report suspected market related wrongdoing on social media.
+
+This new online webpage, accessible through the SEC’s official website, offers a user – friendly, confidential, and streamlined process for submitting information related to potential market manipulation, fraudulent activities, and other securities-related misconduct.
+
+...
+
+[Data](articles/d3ac0ea4.json)
+
+---
+
+### People’s Bank celebrates 76 years of Independence by offering gifts to newborns
+
+*2024-02-05 21:45:00* · [`islandlk`](http://island.lk/peoples-bank-celebrates-76-years-of-independence-by-offering-gifts-to-newborns/) · `en`
+
+People’s Bank celebrated Sri Lanka’s 76thNational Independence at a modest ceremony held at their Head Office which was followed by a series of island wide initiatives.
+
+People’s Bank’s ‘Birth of Freedom’ programme which commences on every Independence Day was carried out this year as well. Under this concept, People’s Bank gifts Rs.2,000/- worth of an ‘Isuru Udana’ Gift Certificate to every baby born between the 1st and 14th of February.
+
+People’s Bank launched this programme in 2006 with the vision of instilling national pride and encouraging parents to plan for their children’s future. Parents or guardians can open an ‘Isuru Udana’ Children’s Savings Account at any People’s Bank branch using the gift certificate along with the child’s birth certificate. The specialty of this programme is that the staff of People’s Bank visits the hospitals and gifts the certificates to the newborns in person.
+
+...
+
+[Data](articles/c8050a61.json)
+
+---
+
 ### Thai PM urges state energy firm to invest in Sri Lanka’s solar farm
 
 *2024-02-05 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97026/thai-pm-urges-state-energy-firm-to-invest-in-sri-lankas-solar-farm) · `en`
@@ -555,6 +665,20 @@ Will bank interest rates be reduced again?Is it time for people to get loans?Wil
 [Data](articles/74c6c1f8.json)
 
 [Extended Data](ext_articles/74c6c1f8.ext.json)
+
+---
+
+### Dialog and Samsung launch highly anticipated Samsung Galaxy S24 series
+
+*2024-02-05 21:42:00* · [`islandlk`](http://island.lk/dialog-and-samsung-launch-highly-anticipated-samsung-galaxy-s24-series/) · `en`
+
+Dialog Axiata PLC, Sri Lanka’s premier connectivity provider, in collaboration with Samsung Sri Lanka, announced the launch of the all-new Galaxy S24 Series.
+
+The momentous occasion took place at an exclusive event held at the Dialog auditorium on February 2nd 2024, that was attended by Club Vision loyalty members, pre-order customers and Dialog Enterprise customers. The event marked a significant milestone, where Dialog customers were able to pre-order the device for the first time in Sri Lanka.
+
+...
+
+[Data](articles/dcd42eb4.json)
 
 ---
 
@@ -1837,165 +1961,5 @@ The magistrate has ordered them to be remanded until the 16th of this month.. Th
 [Data](articles/58521e04.json)
 
 [Extended Data](ext_articles/58521e04.ext.json)
-
----
-
-### “The police are hit hard by targeting the penis”
-
-*2024-02-05 15:33:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஆணுறுப்பை-குறிவைத்து-பொலிஸார்-கடுமையாக-தாக்கினர்/71-332712) · `ta`
-
-The Jaffna University student has lodged a complaint with the Human Rights Commission that he was upside down and beaten himself upside down and beaten himself in the secret room at the Vaddukoddai police station in Jaffna.
-
-Karunakaran Nitarshan, a student at the Jaffna Regional Office of the Human Rights Commission, filed a complaint on Monday (05).
-
-“A police officer in the Vaddukoddottai area led me and contradicted me as to why he did not stop the motorcycle when he was forgotten.
-
-For that I don't notice you. Said. He then asked for the documents. Do I have all the documents?When they took them, he did not buy it and summoned the additional police.
-
-At the time, more than 7 police officers who came in civil clothes were struck by the road without any hearing.. The incident that strikes me is also recorded in surveillance cameras at a nearby shop. And I took a video of me hitting me on my cell phone.
-
-...
-
-[Data](articles/60cffb9b.json)
-
-[Extended Data](ext_articles/60cffb9b.ext.json)
-
----
-
-### SLC, PCB at loggerheads over extra expenses during Asia Cup 2023 - report
-
-*2024-02-05 15:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97019/slc-pcb-at-loggerheads-over-extra-expenses-during-asia-cup-2023-report) · `en`
-
-The cricket boards of Pakistan and Sri Lanka are locked in a financial dispute over who should bear the additional $3-4 million burden incurred due to the shifting of the Asia Cup to the island nation last year.
-
-With the BCCI unwilling to send its team to Pakistan, the original host, due to geo-political tensions, the Asian Cricket Council (ACC) and the Pakistan Cricket Board (PCB) decided on a hybrid model and roped in Sri Lanka to host the majority of the matches.
-
-This resulted in extra expenses being incurred on chartered flights, hotel bookings, venue hiring fees and travel, among others.
-
-Sri Lanka Cricket (SLC) made it clear during the ACC council meeting in Bali last week that it was not willing to take the financial burden as it did not earn extra and was also not the official host of the tournament.
-
-The expenses also reportedly soared because the former PCB chairman, Zaka Ashraf, changed the venue of the first match from Lahore to Multan.
-
-...
-
-[Data](articles/62336e91.json)
-
-[Extended Data](ext_articles/62336e91.ext.json)
-
----
-
-### The President will fulfill the promise made to Puduwarakala school students in a very short time!
-
-*2024-02-05 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175619) · `ta`
-
-President Ranil Wickremesinghe will be given the promise to the students of the Puthuvagala Maha Vidyalaya in Moneragala on February 9 to fulfill the promise of the students of Moneragala.
-
-President Ranil Wickremesinghe, who was traveling on November 03, landed in a hurry at the Moneragala Maha Vidyalaya Ground due to the worst weather conditions.. The students demanded that their school had musical instruments.
-
-Students and teachers who were suddenly visiting their school were delighted to know that the guest was the president of the country.At that time, the students came near Ulanguwanurdi and the students engaged in a speech with President Ranil Wickremesinghe. The President also asked them about the shortcomings in the school and the surrounding areas.
-
-They told the president that there was a shortage of musical instruments in the school. President Ranil Wickremesinghe promised to fulfill the demand and directed the relevant authorities to take immediate action on it.
-
-...
-
-[Data](articles/370fa7f2.json)
-
-[Extended Data](ext_articles/370fa7f2.ext.json)
-
----
-
-### Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
-
-*2024-02-05 15:19:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/online-safety-bill-sparks-no-confidence-motion-against-sri-lankan-speaker/) · `en`
-
-COLOMBO (News 1st); Professor G. L. Peiris, representing the joint opposition in the Sri Lankan Parliament, announced their intention to file a no-confidence motion against the speaker. This move comes amidst concerns about the conduct of the speaker and the passing of the Online Safety Bill.
-
-Professor Peiris, expressed dissatisfaction with the Online Safety Bill, stating that it did not adhere to proper legal procedures. He further criticized the speaker's conduct, calling it "disgraceful" and accusing him of violating the constitution and parliamentary standing orders while passing certain legislation.
-
-Responding to a question about potential action against the speaker, Professor Peiris confirmed the planned no-confidence motion. He emphasized the urgency of this action, stating that continued acceptance of the speaker's alleged conduct would amount to "betraying the country."
-
-Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
-
-...
-
-[Data](articles/2cd83b8c.json)
-
-[Extended Data](ext_articles/2cd83b8c.ext.json)
-
----
-
-### The rap singer arrested for the awards
-
-*2024-02-05 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193006) · `si`
-
-The innovation of the world is currently focused on an unique event at the 66th Grami Awards.
-
-The police have arrested a award triple at the awards ceremony.
-
-However, it has not been issued by the authorities, however.
-
-◼️
-
-[Data](articles/6d4c5622.json)
-
-[Extended Data](ext_articles/6d4c5622.ext.json)
-
----
-
-### The opportunity for Yuvan's fans today!
-
-*2024-02-05 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175617) · `ta`
-
-Famous composer Yuvan Shankar Raja is set to hold a massive concert in Sri Lanka, and a media briefing will be held on Monday (05).
-
-The media briefing will be held today at 06.00 pm at the Hall at the Lotus Tower in Colombo.
-
-In this backdrop, the fans who see Yuvan Shankar Raja will visit the Lotus Tower in Colombo at 5 pm today.
-
-◼️
-
-[Data](articles/29ceb97b.json)
-
-[Extended Data](ext_articles/29ceb97b.ext.json)
-
----
-
-### ICC release ITT for media rights in Bangladesh, Pakistan and Sri Lanka
-
-*2024-02-05 15:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICC-release-ITT-for-media-rights-in-Bangladesh-Pakistan-and-Sri-Lanka/108-276350) · `en`
-
-Feb. 5 (ICC) - The International Cricket Council will today release its Invitation To Tender (ITT) for media rights in three territories, Bangladesh, Pakistan and Sri Lanka for 2024 to 2025.
-
-Following the successful conclusion of media rights agreements in several markets including India, the United Kingdom and Ireland, the USA and Canada, Sub-Saharan Africa region, Australia and Middle East and North Africa the ICC is now starting the process in Bangladesh, Pakistan and Sri Lanka.
-
-In Pakistan there are two packages available combining both TV and digital rights including both men’s and women’s rights, with one TV and digital combined package available in Bangladesh and Sri Lanka respectively. The packages will be for three women’s events and three men’s events up until the end of next year.
-
-...
-
-[Data](articles/7426e131.json)
-
-[Extended Data](ext_articles/7426e131.ext.json)
-
----
-
-### School digital begins with Advanced Level
-
-*2024-02-05 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193005) · `si`
-
-Minister of Education Susil Premajayantha says he is digitizing schools with high schools in the country by coming.
-
-Accordingly, the children will allow children directly involved with the new technology and provide opportunities to carry out education.
-
-He was speaking at a ceremony held at the Hindu College, Jaffna today (05).
-
-The Minister stated that 3,000 schools in the country are digitized and teachers in this regard are being trained from March.
-
-The Minister also said that the purpose of the Ministry of Education is the aim of the Ministry of Education.
-
-◼️
-
-[Data](articles/6620c910.json)
-
-[Extended Data](ext_articles/6620c910.ext.json)
 
 ---

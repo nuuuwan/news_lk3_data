@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 16:48:14**
+As of **2024-02-06 17:02:19**
 
 ## Newspaper Stats
 
-*Scraped **5,187** Articles*
+*Scraped **5,191** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 278
 dailyftlk | 290
 newsfirstlk | 321
 adalk | 443
-virakesarilk | 611
-adaderanalk | 641
+virakesarilk | 613
+adaderanalk | 643
 tamilmirrorlk | 653
 adaderanasinhalalk | 673
 dailymirrorlk | 738
@@ -26,11 +26,73 @@ dailymirrorlk | 738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,187 (100.0%) of 5,187 articles have been extended.
+5,187 (99.9%) of 5,191 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### Sri Lanka to import 15,000 tonnes of cashew nuts in shell
+
+*2024-02-06 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97051/sri-lanka-to-import-15000-tonnes-of-cashew-nuts-in-shell) · `en`
+
+The Cabinet of Ministers has granted approval to import 15,000 tonnes of cashew nuts in shell since the country’s annual requirement of cashew nuts in shell has not been met due to the fact that the crops have not been harvested as expected in the last season.
+
+Joining the Cabinet press conference held in Colombo today (06), Cabinet Spokesperson Minister Bandula Gunawardena said that the country’s annual requirement of cashew nuts in shell is around 25,000 Metric Tonnes.
+
+However, currently only 12,500 tonnes of cashew nuts can be procured locally and the cashew industry in the country is facing a very unfortunate situation as the crop has not been harvested as expected in the last season, according to the Minister.
+
+...
+
+[Data](articles/7db992ba.json)
+
+---
+
+### நிகழ்நிலைக் காப்பு சட்டமூலம் தொடர்பில் பொதுமக்களைத் தெளிவுபடுத்தும் சபாநாயகர் அலுவலகம்
+
+*2024-02-06 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175729) · `ta`
+
+2024 ஆம் ஆண்டின் 9 ஆம் இலக்க நிகழ்நிலைக் காப்பு சட்டமூலம் நிறைவேற்றப்பட்டு அதனைத் தொடர்ந்து அச்சட்டம் இயற்றப்பட்டமை தொடர்பான தவறான தகவல்களைத் திருத்தி உண்மையினைத் தெளிவுபடுத்துவதற்காகப் பொதுமக்களின் நலன் கருதி இந்த அறிக்கை வெளியிடப்படுகின்றது. பொதுமக்கள் அறிந்து கொள்வதற்காகவும் அவர்கள் ஏமாற்றப்படுவதைத் தடுப்பதற்காகவும் சட்டமியற்றல் செயன்முறை ஆரம்பத்தில் இருந்து  விளக்கப்படுகின்றது.
+
+...
+
+[Data](articles/faa17563.json)
+
+---
+
+### Funds for PC and LG polls to be allocated from 2025 Budget?
+
+*2024-02-06 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97050/funds-for-pc-and-lg-polls-to-be-allocated-from-2025-budget) · `en`
+
+The expenditure of the upcoming Presidential Election and General Election must be managed using the Rs. 10 billion allocated in the 2024 Budget, the Cabinet of Ministers has noted.
+
+At the Cabinet meeting on Monday (Feb.05), the ministers took into account the fact that the budgetary allocation made within the financial stamina of the government and the financial provisions have to be managed to cover the expenditures of the two elections.
+
+Further, it was observed that the funds required for conducting Provincial Council and Local Government elections should be released from the 2025 Budget, due to the limited financial situation.
+
+...
+
+[Data](articles/900a7f67.json)
+
+---
+
+### ஒன்பதாவது பாராளுமன்றத்தின் ஐந்தாவது கூட்டத்தொடர் ஜனாதிபதி தலைமையில் நாளை ஆரம்பித்து வைப்பதற்கான சகல ஏற்பாடுகளும் பூர்த்தி
+
+*2024-02-06 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175726) · `ta`
+
+ஒன்பதாவது பாராளுமன்றத்தின் ஐந்தாவது கூட்டத்தொடர் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தலைமையில் நாளை செவ்வாய்க்கிழமை (07) வைபவரீதியாக ஆரம்பித்துவைக்கப்படவுள்ளது. இது தொடர்பான ஒத்திகை பாராளுமன்ற வளாகத்தில் இன்று (06) நடைபெற்றதுடன், தேவி பாளிகா கல்லூரி மாணவியர் உள்ளிட்ட பலர் இந்த ஒத்திகையில் பங்கேற்றனர்.
+
+அரசியலமைப்பின் 33வது உறுப்புரையில் வழங்கப்பட்டுள்ள அதிகாரத்துக்கு அமைய ஜனாதிபதி கௌரவ ரணில் விக்ரமசிங்க அவர்கள் நாளைய தினம் மு.ப 10.30 மணிக்கு பாராளுமன்றத்தில் அரசாங்கத்தின் கொள்கைப் பிரகடனத்தை முன்வைக்கவுள்ளார்.
+
+ஜனாதிபதி பாராளுமன்றத்துக்கு வருகைதரும் நிகழ்வை மிகவும் எளிமையான முறையில் நடத்துமாறு அவர் வழங்கிய ஆலோசனைக்கு அமைய நடவடிக்கை எடுக்கப்பட்டிருப்பதாகவும், இதற்கமைய மரியாதை வேட்டுக்கள் தீர்த்தல் மற்றும் வாகனத் தொடரணி என்பன இடம்பெறாது என பாராளுமன்ற படைக்கலச் சேவிதர் குஷான் ஜயரத்ன தெரிவித்தார்.
+
+விருந்தினர்கள் நாளையதினம் மு.ப 09.45 மணிக்குள் தங்கள் இருக்கைகளில் அமருமாறு கோரப்பட்டிருப்பதாக அவர் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/1ee5e22d.json)
+
+---
 
 ### Japan to assist in stabilizing power supply of Sri Lankan hospitals using renewable energy
 
@@ -1905,75 +1967,5 @@ Prado said that many bodies were in bad condition and difficult to identify, but
 [Data](articles/a348cb61.json)
 
 [Extended Data](ext_articles/a348cb61.ext.json)
-
----
-
-### 733 more suspects arrested during ongoing ‘Yukthiya’ operation
-
-*2024-02-06 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97033/733-more-suspects-arrested-during-ongoing-yukthiya-operation) · `en`
-
-Another 733 suspects have been arrested by Sri Lanka’s police and security forces personnel within 24 hours which ended at 12.30 a.m. today (Feb.02). The arrests were made as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-Among the arrestees are 589 suspects who were taken into custody on narcotics-related charges and 144 others who were on the list of wanted criminal suspects.
-
-Detention orders have been secured against 5 of the drug suspects, while 4 others were referred to rehabilitation centres, the Ministry of Public Security said.
-
-According to the ministry, the narcotics taken into custody during this period include 130g of heroin, 159g of crystal methamphetamine (Ice), 1,725kg of cannabis and 211,804 cannabis plants.
-
-◼️
-
-[Data](articles/c89ca4f8.json)
-
-[Extended Data](ext_articles/c89ca4f8.ext.json)
-
----
-
-### 733 suspects arrested in Yukti
-
-*2024-02-06 09:43:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்தியவில்-மேலும்-733-சந்தேக-நபர்கள்-கைது/175-332746) · `ta`
-
-733 suspects have been arrested in the 24 hours after the end of the country under the strategic operation of the country, police said.
-
-◼️
-
-[Data](articles/fe3fb287.json)
-
-[Extended Data](ext_articles/fe3fb287.ext.json)
-
----
-
-### Roshan scattered a committee
-
-*2024-02-06 09:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193033) · `si`
-
-Sports and Youth Minister Harin Fernando has taken steps to dissolve the International Sports Coordinating Committee in Sri Lanka.
-
-It is reported that the relevant committee has dissolved from the 26th of January.
-
-The committee was appointed as the Minister of Sports and Youth Affairs last year to coordinate international and local sports associations in the sports promotion, independence and confectionery.
-
-◼️
-
-[Data](articles/dc425f0b.json)
-
-[Extended Data](ext_articles/dc425f0b.ext.json)
-
----
-
-### Health Workers - Representatives of the Ministry of Finance Special Discussion
-
-*2024-02-06 09:36:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-ஊழியர்கள்-நிதி-அமைச்சின்-பிரதிநிதிகள்-விசேட-கலந்துரையாடல்/175-332745) · `ta`
-
-A special discussion will be held today (06) between the union representatives of the health workers and the representatives of the Finance Ministry.
-
-Ravi Kumudesh, coordinator of the Health Trade Unions Federation, said that the discussion will be held at the Ministry of Finance at 12 noon today.
-
-Ravi Kumudesh said that the discussion will take place in accordance with the President's Directorate on the provision of economic justice for health workers.
-
-◼️
-
-[Data](articles/dc960119.json)
-
-[Extended Data](ext_articles/dc960119.ext.json)
 
 ---

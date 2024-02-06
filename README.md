@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 12:02:18**
+As of **2024-02-06 12:17:25**
 
 ## Newspaper Stats
 
-*Scraped **5,105** Articles*
+*Scraped **5,108** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 60
 bbccomsinhala | 73
 dbsjeyarajcom | 140
-economynextcom | 265
-islandlk | 276
+economynextcom | 266
+islandlk | 277
 dailyftlk | 290
-newsfirstlk | 308
+newsfirstlk | 309
 adalk | 436
 virakesarilk | 595
 adaderanalk | 630
@@ -26,11 +26,33 @@ dailymirrorlk | 728
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,105 (100.0%) of 5,105 articles have been extended.
+5,108 (100.0%) of 5,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### President to Address Parliament as New Session Opens
+
+*2024-02-06 11:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/president-to-address-parliament-as-new-session-opens/) · `en`
+
+COLOMBO (News 1st); The Fifth Session of the Ninth Parliament will commence on February 07th.
+
+According to the Sri Lankan Parliament, the President has the opportunity to ceremonially declare open the Parliament and preside over to present the Government's Policy Statement.
+
+The fifth session of the Ninth Parliament will commence on February 07 at 10.30 am.
+
+President Ranil Wickremesinghe prorogued the Parliament in accordance with the powers vested in him with Article 70 (1) of the Constitution with effect from midnight on the 26th of January.
+
+When the Parliament is prorogued, the questions and motions that have not been considered by the Parliament until then will be abolished, and the Members of Parliament thus have to take it up again in accordance with the standing orders.
+
+...
+
+[Data](articles/11f2571f.json)
+
+[Extended Data](ext_articles/11f2571f.ext.json)
+
+---
 
 ### A massive wildfire in Chile;122 killed;Hundreds of people magic
 
@@ -195,6 +217,30 @@ The lack of official matches scheduled for the national team further compounds t
 [Data](articles/ce6973c6.json)
 
 [Extended Data](ext_articles/ce6973c6.ext.json)
+
+---
+
+### Sri Lanka rupee trading at 313.00/40 to the US dollar
+
+*2024-02-06 11:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trading-at-313-00-40-to-the-us-dollar-149933/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading at 313.00/40 to the US dollar Tuesday, from 312.40/80 on Monday, dealers said.
+
+A bond maturing on 01.02.2026 was quoted at 11.70/80 down from 11.80/95 percent Monday.
+
+A bond maturing on 15.09.2027 was quoted at 12.35/45 from 12.35/55 percent.
+
+A bond maturing on 15.03.2028 was quoted at 12.60/65 from 12.55/65 percent.
+
+A bond maturing on 15.05.2030 was quoted stable at 13.00/15 percent.
+
+The Colombo Stock Exchange was trading up; the All Share Price Index was up 0.96 percent at 10,530, and the S&P SL20 was up 1.58 percent at 2,989. (Colombo/Feb6/2024)
+
+◼️
+
+[Data](articles/313f2e4f.json)
+
+[Extended Data](ext_articles/313f2e4f.ext.json)
 
 ---
 
@@ -1654,6 +1700,34 @@ The Minister of State said that about 13,000 inmates were forced to stay in pris
 
 ---
 
+### Love is in the air…
+
+*2024-02-05 22:19:00* · [`islandlk`](http://island.lk/love-is-in-the-air/) · `en`
+
+Yes, with February 14th fast approaching, love is certainly in the air, and lots of folks are gearing up for that special occasion.
+
+Entertainment-wise, social media is chock-a-block with events, connected with Valentine’s Day.
+
+However, some are wondering whether everyone knows the true meaning of Valentine’s Day, especially when it comes to music!
+
+They are apprehensive that loud and noisy music may dominate the scene at some of these venues, or even music that has no connection, whatsoever, with romance.
+
+One must keep in mind that Valentine’s Day is an annual festival to celebrate romantic love, friendships and admiration.
+
+Every year, on February 14th, people, young and old, celebrate this day by sending messages of love and affection to partners, family and friends.
+
+Mirage: Valentine special in Melbourne, Australia (Pic by Sagara Lakmal de Mel)
+
+Thankfully, most recognized venues are going ahead with dinner specials, with music to suit the setup.
+
+...
+
+[Data](articles/057cd778.json)
+
+[Extended Data](ext_articles/057cd778.ext.json)
+
+---
+
 ### Foreign assignments galore…
 
 *2024-02-05 22:15:00* · [`islandlk`](http://island.lk/foreign-assignments-galore/) · `en`
@@ -1961,69 +2035,5 @@ However, officials said they had to pay more concern for the educational status 
 [Data](articles/a15a2b52.json)
 
 [Extended Data](ext_articles/a15a2b52.ext.json)
-
----
-
-### Deepal Perera is the most affected by cancer in Sri Lanka
-
-*2024-02-05 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/175607) · `ta`
-
-Shocking reports have revealed that the change in the lifestyle of the people has increased the risk of cancer in Sri Lanka.
-
-Deepal Perera, a specialist on children's illness at the Semati Children's Hospital in Colombo.
-
-According to data released annually, the number of children suffering from cancer has doubled. That means increased from 450 to 900.
-
-This is due to the fact that the boys sit in one place for a long time and continue to do the same day. The main reason is that children are addicted to mobile phones in particular.
-
-There is a connection between sitting in one place for a long time and an increase in infectious diseases.Lukemia and brain cancer are on the rise, especially in teens.
-
-So everyday lifestyle plays an important role in controlling cancer. Parents need to control the consuming of sweet drinks and snacks.
-
-He said children should breastfeed up to two years of age to prevent cancer.
-
-◼️
-
-[Data](articles/5157ce96.json)
-
-[Extended Data](ext_articles/5157ce96.ext.json)
-
----
-
-### The government has won the government to ensure people's land rights without revolution - President
-
-*2024-02-05 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175656) · `ta`
-
-President Ranil Wickremesinghe emphasized that despite the many revolutions in the world demanding land rights, the fact that the people of this country were able to grant their permanent land rights without revolution were a unique victory for the current government.
-
-The President pointed out that the current government was the first victory to recover the country from bankruptcy, and pointed out that the implementation of the “Assumsuma” program of 20 million people and the increase in the salaries of 15 lakh civil servants is the other achievements.
-
-The President said that if the government is able to carry out such a vast task for the progress of the people in a short period of time, with the support of a part of Parliament, everyone should think about where the country can be placed.
-
-The first phase of the Urithu (Urumaya) project was held at the Rangiri Dambulla Stadium on Monday afternoon (05) afternoon.. President Ranil Wickremesinghe said this while addressing the event.
-
-...
-
-[Data](articles/fad5f1f0.json)
-
-[Extended Data](ext_articles/fad5f1f0.ext.json)
-
----
-
-### IMF Mission To Provide Technical Assistance on Fiscal Issues
-
-*2024-02-05 21:04:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/imf-mission-to-provide-technical-assistance-on-fiscal-issues/) · `en`
-
-COLOMBO (News 1st); An IMF capacity development mission will be in Sri Lanka to provide technical assistance on fiscal issues, confirmed an IMF Spokesperson to News 1st on Monday (5).
-
-At the request of the government, the IMF provides technical assistance and training to its member countries on critical economic issues to strengthen capacity of institutions.
-
-This mission is separate from program review missions, said the spokesperson.
-
-◼️
-
-[Data](articles/4d8c4eff.json)
-
-[Extended Data](ext_articles/4d8c4eff.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 11:17:17**
+As of **2024-02-06 11:33:05**
 
 ## Newspaper Stats
 
-*Scraped **5,091** Articles*
+*Scraped **5,096** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,127 @@ dbsjeyarajcom | 140
 economynextcom | 265
 islandlk | 276
 dailyftlk | 290
-newsfirstlk | 305
+newsfirstlk | 306
 adalk | 436
-virakesarilk | 591
+virakesarilk | 592
 adaderanalk | 627
 tamilmirrorlk | 642
-adaderanasinhalalk | 660
-dailymirrorlk | 726
+adaderanasinhalalk | 662
+dailymirrorlk | 727
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,091 (100.0%) of 5,091 articles have been extended.
+5,091 (99.9%) of 5,096 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### NPP delegation meets India’s Foreign Secretary
+
+*2024-02-06 11:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-delegation-meets-Indias-Foreign-Secretary/108-276408) · `en`
+
+India, Feb. 06 (Daily Mirror)- The NPP delegation led by its leader Anura Kumara Dissanayake met India's Foriegn Secretary Vinay Mohan at the Taj Mansingh Hotel last night, party sources said.
+
+They are to visit the Observer Research Foundation and the Unique Identification Authority of India (UIDAI) today during their second day of the visit.
+
+The delegation is sheduled to enage in discussions about the functioning of the two institutions.
+
+◼️
+
+[Data](articles/4749d52d.json)
+
+---
+
+### ජනාධිපතිවරණය ඔක්තෝබර් පළමු සතියේ - හරීන්
+
+*2024-02-06 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193035) · `si`
+
+එළඹෙන ඔක්තෝබර් මාසයේ පළමු සතියේදී මෙරට ජනාධිපතිවරණය පැවැත්වෙනු ඇතැයි තමන් විශ්වාස කරන බව සංචාරක සහ ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+
+මාධ්‍ය වෙත අදහස් දක්වමින් අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේ නියත ඔක්තෝබර් 14 වනවිට මෙරට නව ජනාධිපතිවරයෙකු පත්විය යුතු බවය.
+
+එසේම ඉදිරි ජනාධිපතිවරණය සඳහා නියත වශයෙන්ම ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එක්වන බවද අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/e1ff5017.json)
+
+---
+
+### අනියම් ඇසුරක් නිසා ජපාන රූ රැජිනට කිරුළ අහිමි වෙයි
+
+*2024-02-06 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193034) · `si`
+
+විවාහක පුද්ගලයෙක් සමග අනියම් සම්බන්ධතාවයක් ඇති බවට හෙළිවීමෙන් අනතුරුව ජපාන රූ රැජින ලෙස කිරුළ දිනූ කැරොලිනා ශීනෝ නම් තරුණිය එම කිරුළ නැවත බාරදී ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+ඇයගේ අනියම් සම්බන්ධතාවය ගැන ජපානයේ ටැබ්ලොයිඩ් පුවත්පතක් වාර්තා කර තිබුණි.
+
+"Shukan Bunshun" නම් ටැබ්ලොයිඩ් පුවත්පත වාර්තාකර තිබුණේ ශීනෝ, විවාහක වෛද්‍යවරයෙක් සමග සම්බන්ධතාවයක් පවත්වන බවත් ඇය ඒ සම්බන්ධයෙන් රූ රැජින තරගයේ සංවිධායකයින්ට බොරු කියා ඇති බවත් ය.
+
+එහිදී ඇය පවසා තිබුණේ එම පුද්ගලයා විවාහකයෙක් බව නොදැන සිටි බවයි.
+
+නමුත් ටැබ්ලොයිඩ් පුවත්පතේ ඒ සම්බන්ධයෙන් තොරතුරු වාර්තා වීමත් සමගම ඇය තමා අසත්‍ය පැවසූ බව පිළිගෙන සිය කිරුළ නැවත බාරදී තිබුණාය.
+
+◼️
+
+[Data](articles/48ce2d6d.json)
+
+---
+
+### யுக்திய நடவடிக்கை ; மேலும் 733 சந்தேக நபர்கள் கைது
+
+*2024-02-06 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/175682) · `ta`
+
+யுக்திய நடவடிக்கையின் கீழ் கடந்த 24 மணித்தியாலங்களில் போதைப்பொருள் மற்றும் பாதாள உலகக் குற்றச்சாட்டின் பேரில் 733 பேர் சந்தேகத்தில் கைது செய்யப்பட்டுள்ளதாக பொதுமக்கள் பாதுகாப்பு அமைச்சு இன்று செவ்வாய்க்கிழமை  (6) தெரிவித்துள்ளது.
+
+கைது செய்யப்பட்டவர்களில் போதைப்பொருள் தொடர்பான குற்றச்சாட்டின் கீழ்  589 பேரும், தேடப்படும் குற்றவாளிகள் பட்டியலில் இருந்த 144 பேரும் அடங்குவர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்களில் 05 பேர் தொடர்பில் தடுப்புக்காவல் உத்தரவுக்கு அமைய மேலதிக விசாரணைகள் முன்னெடுக்கப்பட்டு வருவதாக பொது பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது
+
+சந்தேக நபர்களிடமிருந்து  130 கிராம் ஹெரோயின், 159 கிராம் ஐஸ் மற்றும் 1,725 கிலோ கஞ்சா மற்றும் 211,804 கஞ்சா செடி கைப்பற்றப்பட்டுள்ளதாக பொது மக்கள் பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/02da3d22.json)
+
+---
+
+### 1300 Doctors to Join Government Hospitals in March
+
+*2024-02-06 10:43:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/1300-doctors-to-join-government-hospitals-in-march/) · `en`
+
+COLOMBO (News 1st); In a move to address the ongoing doctor shortage within government hospitals, the Ministry of Health announced the assignment of 1,300 additional doctors starting next March.
+
+Ministry Secretary, Specialist Dr. Palitha Mahipala, confirmed that these doctors are currently completing their internships and will be joining the workforce upon successful completion.
+
+This follows the recent appointment of 590 doctors who finished their internships last week.
+
+◼️
+
+[Data](articles/9c2b0fc8.json)
+
+---
+
+### 7 lakhs of pain reliever pills attempted to smuggle Sri Lanka: One arrested
+
+*2024-02-06 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175677) · `ta`
+
+7 lakhs of pain relief pills have been seized and arrested on Monday night (05) night.
+
+Marine police, who were on patrol on the basis of confidential information that they were smuggled into Sri Lanka from Puthupullani beach next to Thiruppulani in Ramanathapuram district, have confiscated a country boat and about 7 lakhs of pain relief pills on the beach.
+
+A large hunger who smuggled painkillers pills to Sri Lanka has been arrested and is being investigated.
+
+◼️
+
+[Data](articles/558809f0.json)
+
+[Extended Data](ext_articles/558809f0.ext.json)
+
+---
 
 ### Fierce opposition to the Ceremonial Security Act
 
@@ -95,24 +199,6 @@ Prado said that many bodies were in bad condition and difficult to identify, but
 [Data](articles/a348cb61.json)
 
 [Extended Data](ext_articles/a348cb61.ext.json)
-
----
-
-### 7 lakhs of pain reliever pills attempted to smuggle Sri Lanka: One arrested
-
-*2024-02-06 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175677) · `ta`
-
-7 lakhs of pain relief pills have been seized and arrested on Monday night (05) night.
-
-Marine police, who were on patrol on the basis of confidential information that they were smuggled into Sri Lanka from Puthupullani beach next to Thiruppulani in Ramanathapuram district, have confiscated a country boat and about 7 lakhs of pain relief pills on the beach.
-
-A large hunger who smuggled painkillers pills to Sri Lanka has been arrested and is being investigated.
-
-◼️
-
-[Data](articles/558809f0.json)
-
-[Extended Data](ext_articles/558809f0.ext.json)
 
 ---
 
@@ -331,8 +417,6 @@ COLOMBO (News 1st); Former Health Minister Keheliya Rambukwella, currently in re
 Prisons Spokesperson Gamini B. Dissanayake clarified that Rambukwella has not requested treatment in a private hospital.
 
 The minister was taken into custody last Friday in connection with the controversial immunoglobulin procurement scandal, where allegedly non-functional drugs were purchased for state hospitals.
-
-Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
 
 ◼️
 
@@ -739,8 +823,6 @@ The cancer was identified during the King's recent hospital 3-day treatment for 
 Charles, 75, who assumed the throne last May, will postpone public duties, but will continue to undertake state duties.
 
 His treatment is being carried out on an out-patient basis, and he does not need to stay overnight in hospital.
-
-Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
 
 ◼️
 
@@ -1750,8 +1832,6 @@ At the request of the government, the IMF provides technical assistance and trai
 
 This mission is separate from program review missions, said the spokesperson.
 
-Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
-
 ◼️
 
 [Data](articles/4d8c4eff.json)
@@ -1933,91 +2013,5 @@ The policemen found 10 fake currency notes, two more notes, and a printing notes
 [Data](articles/26c3f846.json)
 
 [Extended Data](ext_articles/26c3f846.ext.json)
-
----
-
-### Anura meets India’s National Security Adviser Ajit Doval
-
-*2024-02-05 19:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-meets-Indias-National-Security-Adviser-Ajit-Doval/108-276359) · `en`
-
-India, Feb. 5 (Daily Mirror)-NPP leader Anura Kumara Dissanayake met India's National Security Adviser (NSA) Ajit Doval this afternoon, party sources said.
-
-Matters concerning regional security and bilateral ties between India and Sri Lanka were broadly discussed during the meeting.
-
-◼️
-
-[Data](articles/aec4670e.json)
-
-[Extended Data](ext_articles/aec4670e.ext.json)
-
----
-
-### Anura meets India’s National Security Adviser Ajit Doval
-
-*2024-02-05 19:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Anura-meets-Indias-National-Security-Adviser-Ajit-Doval/155-276359) · `en`
-
-India, Feb. 5 (Daily Mirror)-NPP leader Anura Kumara Dissanayake met India's National Security Adviser (NSA) Ajit Doval this afternoon, party sources said.
-
-Matters concerning regional security and bilateral ties between India and Sri Lanka were broadly discussed during the meeting.
-
-◼️
-
-[Data](articles/dd259d36.json)
-
-[Extended Data](ext_articles/dd259d36.ext.json)
-
----
-
-### Rs. The knocked sleep per million
-
-*2024-02-05 19:44:47* · [`adalk`](https://www.ada.lk/breaking_news/රු--මිලියනයකට-තට්ටු-වූ-නින්ද/11-407912) · `si`
-
-Katugastota Police say that the van has fallen off the road and collapsed a massive iron teleriast of the CEB and a massive iron teleriast of the CEB.
-
-Police say that the driver of the criminal board of the CEB has to pay Rs.
-
-◼️
-
-[Data](articles/d9bc9ef6.json)
-
-[Extended Data](ext_articles/d9bc9ef6.ext.json)
-
----
-
-### Confused with the telephone by Keheliya
-
-*2024-02-05 19:43:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவினால்-டெலிபோனுக்குள்-குழப்பம்/175-332723) · `ta`
-
-The United People's Power (SJB) parliamentarians are mutually conflicted with the party's position on the action taken against Minister Keheliya Rambukwella, who is currently being interrogated.
-
-Last week, SJB Parliamentarian Kavinda Jayawardena announced that his party had decided to bring a second no -confidence motion against Minister Rambukwella, but the SJB Member of Parliament said that the SJB of Parliament was demanding a decision to take action against President Ranil Wickremesinghe to provide justice to the victims of Rambukwella.
-
-"We should focus on the resolution of President Wickremesinghe to take action against Minister Rambukwella and get justice for the people affected by the low -quality drugs purchased without tenders," Parliamentarian Attanayake told the media today.
-
-...
-
-[Data](articles/e90e480b.json)
-
-[Extended Data](ext_articles/e90e480b.ext.json)
-
----
-
-### Sri Lanka needs to balance global powers for economic growth: Minister
-
-*2024-02-05 19:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-to-balance-global-powers-for-economic-growth-minister-149918/) · `en`
-
-ECONOMYNEXT – Sri Lanka will have to manage and balance all the global powers to achieve its economic growth and thus the island nation’s foreign policy should aim for economic diplomacy instead of political diplomacy, State Foreign Minister Tharaka Balasuriya said.
-
-Analysts say Sri Lanka has become the center of proxy geopolitical war between the country’s neighbour India and the World’s second largest economy China.
-
-China’s increasing influence in Sri Lanka has raised security concerns to India and that has already led Colombo to suspend the arrival of Chinese research vessels to the island nation.
-
-President Ranil Wickremesinghe government has promised a non-aligned foreign policy which was not followed by his predecessors. Successive Colombo governments’ foreign policy had leaned towards either China or the West in the past.
-
-...
-
-[Data](articles/d74f8877.json)
-
-[Extended Data](ext_articles/d74f8877.ext.json)
 
 ---

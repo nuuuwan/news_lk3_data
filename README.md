@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 13:02:26**
+As of **2024-02-06 13:17:31**
 
 ## Newspaper Stats
 
-*Scraped **5,127** Articles*
+*Scraped **5,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,77 @@ dbsjeyarajcom | 140
 economynextcom | 266
 islandlk | 278
 dailyftlk | 290
-newsfirstlk | 314
+newsfirstlk | 316
 adalk | 439
 virakesarilk | 598
 adaderanalk | 630
 tamilmirrorlk | 642
 adaderanasinhalalk | 667
-dailymirrorlk | 730
+dailymirrorlk | 731
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,119 (99.8%) of 5,127 articles have been extended.
+5,127 (99.9%) of 5,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### Was invited by President for Urumya land distribution ceremony: Gayantha
+
+*2024-02-06 12:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Was-invited-by-President-for-Urumya-land-distribution-ceremony-Gayantha/108-276424) · `en`
+
+Colombo, Feb 6 (Daily Mirror) - Samagi Jana Balawegaya MP Gayantha Karunathileke said he attended the state ceremony to distribute land to the poor following an official invitation he had received from President Ranil Wickremeisnghe.
+
+“I was invited by the President and the government and I thought it was correct for me to participate in the ceremony as I am a former Minister in charge of lands. I was the one who submitted a Cabinet Paper to distribute land for the poor during the Yahapalana government. However, a certain party went to courts and stopped our programne. I was invited to the ceremony as a pioneer of the programme,” MP Karunathileke told the Daily Mirror.
+
+“Both President Wickremesinghe and the incumbent Minister of Lands Harin Fernando correctly told the ceremony that it was I who pioneered the programme,” he added.
+
+...
+
+[Data](articles/4e0528bd.json)
+
+---
+
+### Navy gears up for annual Kachchativu feast set for February 23,24
+
+*2024-02-06 12:52:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/navy-gears-up-for-annual-kachchativu-feast-set-for-february-23-24/) · `en`
+
+COLOMBO (News 1st); The annual Kachchativu feast is set to take place on the 23rd and 24th February 2024 on the Kachchativu Island. Kachchativu is a small islet belongs to Sri Lanka, located near the International Maritime Boundary Line (IMBL) of Sri Lanka and India.
+
+The main mass of the annual feast will be conducted by the Bishop of Jaffna Diocese, Rt. Rev. Justin Gnanapragasam.
+
+In the backdrop where the District Secretary of Jaffna has made necessary arrangements for the event, the Sri Lanka Navy is currently working in full swing to establish infrastructure and facilities for the convenience of devotees.
+
+Following the directives from Commander of the Navy, Vice Admiral Priyantha Perera and overseen by Commander Northern Naval Area, Rear Admiral Kanchana Banagoda, the Navy is actively involved in the development of infrastructure in Kachchativu.
+
+...
+
+[Data](articles/92dfb384.json)
+
+---
+
+### Sri Lanka to Elect President, Parliament This Year, Local Gov’t Waits
+
+*2024-02-06 12:43:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/sri-lanka-to-elect-president-parliament-this-year-local-gov-t-waits/) · `en`
+
+COLOMBO (News 1st); The Cabinet has outlined the upcoming electoral timeline for the nation, prioritizing the Presidential and General Elections for 2024.
+
+Cabinet Spokesperson Minister (Dr) Bandula Gunawardena made the announcement during the weekly media briefing on cabinet decisions on Tuesday (6).
+
+The Department of Government Information in a statement said that an allocation of Rs. 10 billion has been secured from the 2024 budget to cover the expenses of the upcoming Presidential and General Elections.
+
+Acknowledging the limited financial resources available, the Cabinet has observed that the funding for the Provincial Council and Local Government Elections will have to be sourced from the budget for 2025.
+
+The Cabinet has indicated its intention to introduce revisions to the relevant electoral laws, prior to the 2025 Provincial and Local Government Elections.
+
+...
+
+[Data](articles/df7d3106.json)
+
+---
 
 ### Over 56,000 suspects arrested across Sri Lanka within 50 days during ’Yukthiya’
 
@@ -50,6 +104,8 @@ The total value of confiscated properties stands at approximately Rs. 725 millio
 
 [Data](articles/b0570203.json)
 
+[Extended Data](ext_articles/b0570203.ext.json)
+
 ---
 
 ### Kekirawa-Palugaswewa Crossing Closure This Week
@@ -66,11 +122,17 @@ Motorists will need to use alternative routes during this time.
 
 On February 8th, the level crossing will be partially closed from 6:00 AM to 10:30 PM.
 
+Navy gears up for annual Kachchativu feast set for February 23,24
+
+Sri Lanka to Elect President, Parliament This Year, Local Gov’t Waits
+
 Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
 
 ◼️
 
 [Data](articles/532acdde.json)
+
+[Extended Data](ext_articles/532acdde.ext.json)
 
 ---
 
@@ -85,6 +147,8 @@ Colombo, Feb. 06 (Daily Mirror)- President Ranil Wickremesinghe will leave for A
 ◼️
 
 [Data](articles/2892f35a.json)
+
+[Extended Data](ext_articles/2892f35a.ext.json)
 
 ---
 
@@ -105,6 +169,8 @@ Notably, yesterday, the CID took custody of several files related to the transac
 ...
 
 [Data](articles/ddbf9e95.json)
+
+[Extended Data](ext_articles/ddbf9e95.ext.json)
 
 ---
 
@@ -128,6 +194,8 @@ In a positive development, the Health Service Trade Union Alliance is scheduled 
 
 [Data](articles/14831f89.json)
 
+[Extended Data](ext_articles/14831f89.ext.json)
+
 ---
 
 ### Two persons injured in Galle Galle
@@ -144,19 +212,21 @@ The accident occurred this morning near the Galle Football 'Wan Pollbase', Colom
 
 ---
 
-### රියදුරු බලපත්‍රය පූර්ණ ශ්‍රවණාබාධිතයින්ටත්
+### Driving License Complemental Hearders
 
 *2024-02-06 12:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193040) · `si`
 
-පූර්ණ ශ්‍රවණාබාධිත පුද්ගලයින් සඳහා සැහැල්ලු වාහන රියදුරු බපත්‍රය ලබාදීම සඳහා වූ යෝජනාවකට කැබිනට් අනුමැතිය හිමිව තිබේ.
+The proposal to provide a light vehicle driver's bodies has been approved by the proposal to provide a light vehicle driver's book for full hearing persons.
 
-2022 වසරේ නොවැම්බර් මස 14 දා අමාත්‍ය මණ්ඩල යෝජනාවකට අනුව ගම්පහ දිස්ත්‍රික්කය කේන්ද්‍ර කරගනිමින් නියමු ව්‍යාපෘතියක් ක්‍රියාත්මක කෙරුණි.
+According to a Cabinet resolution on November 14 ,,32, a pilot project was implemented by the Gampaha District.
 
-ඒ අනුව එහි ප්‍රතිඵල මෙම ව්‍යාපෘතිය ක්‍රියාත්මක කිරීමට අදාළව ප්‍රවාහන හා මහාමාර්ග අමාත්‍යාංශ ලේකම්වරයාගේ ප්‍රධානත්වයෙන් පත්කරනු ලැබ ඇති කමිටුවේ නිර්දේශ මත මෙම තීරණය ගෙන ඇත.
+Accordingly, the decision has been taken on the recommendations of the Committee, which was appointed as the Secretary to the Secretary to the Ministry of Transport and Highways.
 
 ◼️
 
 [Data](articles/041dbd8b.json)
+
+[Extended Data](ext_articles/041dbd8b.ext.json)
 
 ---
 
@@ -252,11 +322,17 @@ Police suspect that the murder had been carried out on a personal dispute.
 
 *2024-02-06 11:47:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/talk-of-the-town-harshana-rajakaruna-sjb-is-on-track/) · `en`
 
+Navy gears up for annual Kachchativu feast set for February 23,24
+
+Sri Lanka to Elect President, Parliament This Year, Local Gov’t Waits
+
 Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
 
 ◼️
 
 [Data](articles/c83452a8.json)
+
+[Extended Data](ext_articles/c83452a8.ext.json)
 
 ---
 
@@ -276,11 +352,17 @@ The motorcyclist involved in the accident has been taken into custody by police.
 
 Sri Lanka Police added that the deceased along with their child were involved in the sale of incense sticks.
 
+Navy gears up for annual Kachchativu feast set for February 23,24
+
+Sri Lanka to Elect President, Parliament This Year, Local Gov’t Waits
+
 Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
 
 ◼️
 
 [Data](articles/a266c970.json)
+
+[Extended Data](ext_articles/a266c970.ext.json)
 
 ---
 
@@ -450,9 +532,11 @@ Furthermore, eight individuals on the watchlists of the Police Narcotics Bureau 
 
 Notably, among the 108 suspects detained based on crime branch list, 12 were wanted for drug-related offenses, while 128 had outstanding warrants for non-drug-related crimes.
 
-Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
+Navy gears up for annual Kachchativu feast set for February 23,24
 
-◼️
+Sri Lanka to Elect President, Parliament This Year, Local Gov’t Waits
+
+...
 
 [Data](articles/76451ff9.json)
 
@@ -469,6 +553,10 @@ COLOMBO (News 1st); The National Civil Organization Front (NCOF) and Mass Organi
 The petition drive, held outside the Gampaha railway station, comes amidst growing public anxieties surrounding the alleged procurement of substandard medicine.
 
 NCOF claims the current administration has failed to effectively address these issues, instead allowing them to escalate.
+
+Navy gears up for annual Kachchativu feast set for February 23,24
+
+Sri Lanka to Elect President, Parliament This Year, Local Gov’t Waits
 
 Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
 
@@ -703,6 +791,10 @@ COLOMBO (News 1st); In a move to address the ongoing doctor shortage within gove
 Ministry Secretary, Specialist Dr. Palitha Mahipala, confirmed that these doctors are currently completing their internships and will be joining the workforce upon successful completion.
 
 This follows the recent appointment of 590 doctors who finished their internships last week.
+
+Navy gears up for annual Kachchativu feast set for February 23,24
+
+Sri Lanka to Elect President, Parliament This Year, Local Gov’t Waits
 
 Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
 
@@ -1025,6 +1117,10 @@ COLOMBO (News 1st); Former Health Minister Keheliya Rambukwella, currently in re
 Prisons Spokesperson Gamini B. Dissanayake clarified that Rambukwella has not requested treatment in a private hospital.
 
 The minister was taken into custody last Friday in connection with the controversial immunoglobulin procurement scandal, where allegedly non-functional drugs were purchased for state hospitals.
+
+Navy gears up for annual Kachchativu feast set for February 23,24
+
+Sri Lanka to Elect President, Parliament This Year, Local Gov’t Waits
 
 Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
 
@@ -1433,6 +1529,10 @@ The cancer was identified during the King's recent hospital 3-day treatment for 
 Charles, 75, who assumed the throne last May, will postpone public duties, but will continue to undertake state duties.
 
 His treatment is being carried out on an out-patient basis, and he does not need to stay overnight in hospital.
+
+Navy gears up for annual Kachchativu feast set for February 23,24
+
+Sri Lanka to Elect President, Parliament This Year, Local Gov’t Waits
 
 Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
 
@@ -1995,63 +2095,5 @@ The statement further states that the king has initiated the necessary treatment
 [Data](articles/750bad63.json)
 
 [Extended Data](ext_articles/750bad63.ext.json)
-
----
-
-### A man arrested for carrying teak wooden boards without permission in Jaffna
-
-*2024-02-05 23:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/175660) · `ta`
-
-He was arrested on Monday (05) for illegally carrying teak wooden boards without permission in Jaffna - Buddhur area.
-
-The suspect was arrested by the Kankesanthurai Regional Criminal Investigation Division when the teak wooden boards were brought in a lorry from the Vanni area.
-
-The suspect has been handed over to the Achchuveli police with goods seized for further legal action.
-
-◼️
-
-[Data](articles/b33297ed.json)
-
-[Extended Data](ext_articles/b33297ed.ext.json)
-
----
-
-### Cabinet permits to cultivate cannabis
-
-*2024-02-05 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175662) · `ta`
-
-Minister of Tourism Diana Kamage said the Cabinet has been approved to cultivate cannabis for export.
-
-It is noteworthy that the Cabinet paper has been approved by the Cabinet paper submitted by the Minister of State Diana Kamage.
-
-He said that he was very happy that he was recognized.
-
-◼️
-
-[Data](articles/123abe3e.json)
-
-[Extended Data](ext_articles/123abe3e.ext.json)
-
----
-
-### Plan to send suspects in prison to judicial activities through the online system
-
-*2024-02-05 23:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175663) · `ta`
-
-The Commissioner General of Prisons Tushara Upuldeeniya said that the Ministry of Justice is making amendment to send the suspects in the prison through the online system.
-
-He said that the program is being formally implemented in the Southern Province with the sponsorship of the United Nations Crime Office and focused on implementing it nationwide.
-
-Upuldeniya said this while speaking to the media after an event held on Saturday (03) at the Pallekela Open Prison Camp.
-
-Due to a number of factors, including the death of the Govid infection, the new project will be launched, focusing on its positive aspects of the Online by the Online Organization.
-
-In the case of court judges, the Commissioner added that the number of prisoners is now doing things to extend the date of the investigation of the prisoner's investigation, which can reduce the problems of taking severe criminals to court.
-
-◼️
-
-[Data](articles/09d72d12.json)
-
-[Extended Data](ext_articles/09d72d12.ext.json)
 
 ---

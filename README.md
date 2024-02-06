@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 10:02:15**
+As of **2024-02-06 10:17:03**
 
 ## Newspaper Stats
 
-*Scraped **5,072** Articles*
+*Scraped **5,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 140
 economynextcom | 265
 islandlk | 276
 dailyftlk | 290
-newsfirstlk | 304
+newsfirstlk | 305
 adalk | 435
 virakesarilk | 588
-adaderanalk | 625
-tamilmirrorlk | 640
+adaderanalk | 626
+tamilmirrorlk | 642
 adaderanasinhalalk | 658
 dailymirrorlk | 718
 
@@ -26,11 +26,57 @@ dailymirrorlk | 718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,072 (100.0%) of 5,072 articles have been extended.
+5,072 (99.9%) of 5,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### 733 more suspects arrested during ongoing ‘Yukthiya’ operation
+
+*2024-02-06 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97033/733-more-suspects-arrested-during-ongoing-yukthiya-operation) · `en`
+
+Another 733 suspects have been arrested by Sri Lanka’s police and security forces personnel within 24 hours which ended at 12.30 a.m. today (Feb.02). The arrests were made as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+Among the arrestees are 589 suspects who were taken into custody on narcotics-related charges and 144 others who were on the list of wanted criminal suspects.
+
+Detention orders have been secured against 5 of the drug suspects, while 4 others were referred to rehabilitation centres, the Ministry of Public Security said.
+
+According to the ministry, the narcotics taken into custody during this period include 130g of heroin, 159g of crystal methamphetamine (Ice), 1,725kg of cannabis and 211,804 cannabis plants.
+
+◼️
+
+[Data](articles/c89ca4f8.json)
+
+---
+
+### யுக்தியவில் மேலும் 733 சந்தேக நபர்கள் கைது
+
+*2024-02-06 09:43:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்தியவில்-மேலும்-733-சந்தேக-நபர்கள்-கைது/175-332746) · `ta`
+
+நாடளாவிய ரீதியில் முன்னெடுக்கப்பட்ட யுக்திய நடவடிக்கையின் கீழ் இன்று (06) காலை முடிவடைந்த 24 மணித்தியாலங்களில் 733 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/fe3fb287.json)
+
+---
+
+### சுகாதார ஊழியர்கள் - நிதி அமைச்சின் பிரதிநிதிகள் விசேட கலந்துரையாடல்
+
+*2024-02-06 09:36:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-ஊழியர்கள்-நிதி-அமைச்சின்-பிரதிநிதிகள்-விசேட-கலந்துரையாடல்/175-332745) · `ta`
+
+சுகாதார ஊழியர்களின் தொழிற்சங்க பிரதிநிதிகளுக்கும் நிதியமைச்சின் பிரதிநிதிகளுக்கும் இடையில் இன்று (06) விசேட கலந்துரையாடல் இடம்பெறவுள்ளது.
+
+இன்று நண்பகல் 12 மணிக்கு நிதி அமைச்சில் இந்த கலந்துரையாடல் இடம்பெறவுள்ளதாக சுகாதார தொழிற்சங்கங்களின் கூட்டமைப்பின் ஒருங்கிணைப்பாளர் ரவி குமுதேஷ் தெரிவித்தார்.
+
+சுகாதார ஊழியர்களுக்கு பொருளாதார நீதியை பெற்றுக்கொடுப்பது தொடர்பில் ஜனாதிபதியின் பணிப்புரைக்கு அமைய இந்த கலந்துரையாடல் இடம்பெறவுள்ளதாக  ரவி குமுதேஷ் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/dc960119.json)
+
+---
 
 ### Anura Kumara calls on India’s National Security Advisor
 
@@ -91,6 +137,24 @@ On January 08, the Cabinet of Ministers approved President Ranil Wickremesinghe�
 [Data](articles/e1211a39.json)
 
 [Extended Data](ext_articles/e1211a39.ext.json)
+
+---
+
+### Keheliya Allowed Home-Cooked Meals While in Remand Custody
+
+*2024-02-06 08:36:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/keheliya-allowed-home-cooked-meals-while-in-remand-custody/) · `en`
+
+COLOMBO (News 1st); Former Health Minister Keheliya Rambukwella, currently in remand custody over alleged irregularities in a drug procurement deal, has been granted permission to consume home-cooked meals based on a doctor's recommendation.
+
+Prisons Spokesperson Gamini B. Dissanayake clarified that Rambukwella has not requested treatment in a private hospital.
+
+The minister was taken into custody last Friday in connection with the controversial immunoglobulin procurement scandal, where allegedly non-functional drugs were purchased for state hospitals.
+
+Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
+
+◼️
+
+[Data](articles/22348ab5.json)
 
 ---
 
@@ -1899,85 +1963,5 @@ On top of the President who joined the occasion, you can view the speech of Rani
 [Data](articles/78d977ec.json)
 
 [Extended Data](ext_articles/78d977ec.ext.json)
-
----
-
-### Petition to court demanding a prevention program in Ampara
-
-*2024-02-05 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193014) · `si`
-
-The Central Environmental Authority (CEA) and other institutions have been submitted to ordered to order a prevention program in the Ampara District.
-
-The petition was presented by the organization for justice for Sri Lanka.
-
-The Director General of the Gardoners, the Director General of the Gardore, the Central Environmental Authority and the Partition Authority (PC) secretariat have been named.
-
-The petition filed by lawyer Nagananda Kodituwakku has been tabled in the year 2018 to 2023, 255 elephants were killed in the Ampara District due to August 2018 and 78 people were killed.
-
-The petitioner has stated that the elephants are in danger due to the arrival of the garbage in the Partition Pradeshiya Sabha area.
-
-The petition was accused of exacerbating the human conflict because the pradeshiya sabha had not created a proper program to dispose of waste.
-
-Accordingly, the petition has requested the respondents to recycle of garbage in Ampara District to prevent the human human conflict.
-
-...
-
-[Data](articles/2a9adcbf.json)
-
-[Extended Data](ext_articles/2a9adcbf.ext.json)
-
----
-
-### CID arrest tutor over torching of President Ranil’s house
-
-*2024-02-05 17:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97022/cid-arrest-tutor-over-torching-of-president-ranils-house) · `en`
-
-The Criminal Investigations Department (CID) has arrested a 46-year-old suspect in connection with the torching of President Ranil Wickremesinghe’s private residence in 2022.
-
-The suspect has been identified as a tuition class teacher in the Boralesgamuwa area, according to police.
-
-On 09 July 2022, then-Prime Minister Wickremesinghe’s private residence in Cinnamon Gardens was set ablaze by anti-government protesters.
-
-◼️
-
-[Data](articles/ef0f51e0.json)
-
-[Extended Data](ext_articles/ef0f51e0.ext.json)
-
----
-
-### Santhan affair;Douglas published in the cabinet
-
-*2024-02-05 17:42:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தன்-விவகாரம்-அமைச்சரவையில்-பிரஸ்தாபித்தார்-டக்ளஸ்/175-332718) · `ta`
-
-President Ranil Wickremesinghe has agreed to make the necessary arrangements for the arrest of former Indian Prime Minister Rajiv Gandhi's murder.
-
-Minister Douglas Devananda has agreed with the President and the Minister of External Affairs during a Cabinet meeting held on Monday (05).
-
-◼️
-
-[Data](articles/dda13048.json)
-
-[Extended Data](ext_articles/dda13048.ext.json)
-
----
-
-### Sri Lanka SEC launches webpage to report dodgy social media
-
-*2024-02-05 17:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-sec-launches-webpage-to-report-dodgy-social-media-149910/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Securities and Exchange Commission said it had started a webpage to report “suspected market related wrongdoing on social media.”
-
-“With the rapid evolution of communication channels and the increase of social media influence in the financial markets, the SEC recognized the need for proactive measures to identify and address potential social media wrongdoings that may impact investors and market stability,” SEC Deputy Director General Tushara Jayaratne was quoted in the statement.
-
-“Considering these developments, the SEC has taken a significant step towards enhancing investor protection and market integrity with the launch of a dedicated webpage to report suspected market related wrongdoing on social media.”
-
-The webpage offers a user–friendly, confidential process for submitting information related to potential market manipulation, fraudulent activities, and other securities-related misconduct.
-
-...
-
-[Data](articles/e469fb75.json)
-
-[Extended Data](ext_articles/e469fb75.ext.json)
 
 ---

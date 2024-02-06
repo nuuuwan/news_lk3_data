@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 22:17:33**
+As of **2024-02-06 22:32:56**
 
 ## Newspaper Stats
 
-*Scraped **5,253** Articles*
+*Scraped **5,266** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ economynextcom | 278
 islandlk | 278
 dailyftlk | 290
 newsfirstlk | 326
-adalk | 449
-virakesarilk | 621
+adalk | 451
+virakesarilk | 626
 adaderanalk | 653
 tamilmirrorlk | 658
-adaderanasinhalalk | 681
-dailymirrorlk | 745
+adaderanasinhalalk | 684
+dailymirrorlk | 748
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,252 (100.0%) of 5,253 articles have been extended.
+5,253 (99.8%) of 5,266 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### බැඩ්මින්ටන් ජාතික ශූරයා සිටියදී අනුශූරයා ආසියානු ක්‍රීඩා උළෙලට ගිහින්
+
+*2024-02-06 21:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193059) · `si`
+
+ශ්‍රී ලංකා බැඩ්මින්ටන් සම්මේලනයේ සභාපතිවරයා ඇතුළු නිලධාරී මණ්ඩලයට ක්‍රීඩා වැරදි වැළැක්වීමේ විශේෂ විමර්ශන ඒකකය වෙත හෙට (07) දිනයේ කරුණු දක්වන ලෙස කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+
+ඒ බැඩ්මින්ටන් ජාතික ශූරයා ශ්‍රී ලංකාවේ සිටියදී 2023 ආසියානු ක්‍රීඩා උළෙල නියෝජනය කිරීම සඳහා අනුශූරයා ඊට සහභාගි කරවීම සම්බන්ධයෙන් කරුණු දැක්වීම සඳහාය.
+
+2023 වසරේ චීනයේ පැවති ආසියානු ක්‍රීඩා උළෙල සඳහා ශ්‍රී ලංකාව නියෝජනය කරමින්  ක්‍රීඩක ක්‍රීඩිකාවන් 97 දෙනෙකු සහභාගි වූ අතර ඊට එක් බැඩ්මින්ටන් ක්‍රීඩකයෙකු ඇතුළත්වී තිබුණි.
+
+ඒ අඛණ්ඩව වසර 3ක් බැඩ්මින්ටන් ජාතික ශූරයා වූ බුවනෙක ගුණතිලක වෙනුවට අනුශූරයා වූ විරේන් නෙත්තසිංහය.
+
+පසුව සිය පුත්‍රයාට වූ අසාධාරණය සම්බන්ධයෙන් බුවනක ගුණතිලක ක්‍රීඩකයාගේ මව වන ප්‍රීති දිස්නා රංජනී ඉලේපෙරුම මහත්මිය  ක්‍රීඩා වැරැදි වැළැක්වීමේ විශේෂ විමර්ශන ඒකකය වෙත පැමිණිල්ලක් සිදු කළ අතර ඒ අනුව එම ඒකකය විමර්ශන ආරම්භ කළේය.
+
+පසුව එම විමර්ශනවල ප්‍රගතිය දැක්වෙන වාර්තාවක් එම ඒකකයේ අධ්‍යක්ෂ සහකාර පොලිස් අධිකාරි ජයනාත් වනසිංහ මහතා විසින් කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය ඉදිරිපත් කර තිබුණි.
+
+...
+
+[Data](articles/e8123282.json)
+
+---
 
 ### Sri Lankan church to begin canonization process for hundreds killed in Easter attacks
 
@@ -49,6 +71,132 @@ Eight suicide bombers targeted two Catholic churches, one evangelical church, th
 ...
 
 [Data](articles/5cba8ff1.json)
+
+[Extended Data](ext_articles/5cba8ff1.ext.json)
+
+---
+
+### நாடாளுமன்ற அமர்வில் பங்கேற்க கெஹலியவுக்கு சபாநாயகர் அனுமதி!
+
+*2024-02-06 21:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175746) · `ta`
+
+நாடாளுமன்றத்தின் புதிய அமர்வு புதன்கிழமை (7) ஆரம்பிக்கும் நிலையில், அதில் பங்குபற்றுவதற்கு விளக்கமறியலில் வைக்கப்பட்டுள்ள நாடாளுமன்ற உறுப்பினர் கெஹலிய ரம்புக்வெலவுக்கு சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன அனுமதி வழங்கியுள்ளார்.
+
+ரம்புக்வெலவை நாடாளுமன்றக் கூட்டங்களில் பங்கேற்க அனுமதிக்குமாறு அவரது செயலாளர் ஒருவர் விடுத்த கோரிக்கையையடுத்து சபாநாயகர் இந்த அனுமதியை வழங்கியுள்ளார்.
+
+இதன்படி, கெஹலிய ரம்புக்வெல்லவை நாடாளுமன்றத்துக்கு அழைத்து வருமாறு சிறைச்சாலைகள் ஆணையாளர் நாயகத்துக்கு எழுத்து மூலம் அறிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/4155c0c0.json)
+
+---
+
+### Concerns sparked over provision of outside food for Keheliya
+
+*2024-02-06 21:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Concerns-sparked-over-provision-of-outside-food-for-Keheliya/108-276450) · `en`
+
+Colombo, Feb 6 (Daily Mirror) - Speculations arose regarding the provision of outside food exclusively for former Minister Keheliya Rambukwella during his detention, prompting clarification from the Prisons Department.
+
+Prison Media Spokesman, Gamini B. Dissanayake, addressed the matter, confirming that a formal written request was submitted to the Welikada Superintendent regarding the supply of external food for the former Minister.
+
+Subsequently, approval was granted, contingent upon recommendations from medical units.
+
+Emphasizing adherence to established protocols, Dissanayake highlighted the procedural steps required for providing external food.
+
+Accordingly, personal contact between outsiders and detainees during food delivery is prohibited. In addition, only food items are permitted, while other materials are prohibited with all the three meals should be provided.
+
+He proceeded to say that such requests from any detainee is considered based on reasonable grounds and medical advice.
+
+...
+
+[Data](articles/8c4e6b26.json)
+
+---
+
+### වාද්දුවේ නාඳුනන මළසිරුරක්
+
+*2024-02-06 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193058) · `si`
+
+වාද්දුව මුහුදු වෙරළ ප්‍රදේශයේ තිබී නාඳුනන පුද්ගල මළසිරුරක් හමුවී තිබේ.
+
+වාද්දුව පොලීසිය සඳහන් කළේ වාද්දුව දුම්රියපොළ ආසන්න මුහුදු වෙරළ ප්‍රදේශයේ තිබී මෙම මළසිරුර අද (06) පස්වරුවේ හමුවී ඇති බවය.
+
+මියගොස් ඇති පුද්ගලයා වයස අවුරුදු 40ත් 50ත් අතර වියේ පසුවන පුද්ගලයෙකු බවට සැක කෙරෙයි.
+
+මූලික පරීක්ෂණවලින් පසුව සිරුර පානදුර මූලික රෝහලට රැගෙන ගොස් ඇත.
+
+◼️
+
+[Data](articles/5f06812b.json)
+
+---
+
+### Caretaker CM Punjab Mohsin Naqvi appointed Chairman PCB
+
+*2024-02-06 21:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Caretaker-CM-Punjab-Mohsin-Naqvi-appointed-Chairman-PCB/108-276446) · `en`
+
+Feb. 6 (cricketpakistan) - Mohsin Naqvi's candidacy was put forward by the Patron PCB, caretaker Prime Minister Anwarul Haq Kakar, alongside Mustafa Ramdey
+
+Caretaker Chief Minister (CM) Punjab Mohsin Naqvi has been elected as the new chairman of the Pakistan Cricket Board (PCB) management committee unopposed.
+
+With the backing of ten members of the board of governors at the National Cricket Academy Lahore, Mohsin Naqvi's leadership has been ratified for the forthcoming three years.
+
+Naqvi's candidacy was put forward by the Patron PCB, caretaker Prime Minister Anwarul Haq Kakar, alongside Mustafa Ramdey, for the Board of Governors established under the 2014 constitution.
+
+The inclusion of representatives from various regions and departments, including Azad Jammu Kamshir, Larkana, Dera Murad Jamali, Bahawalpur, PTV, State Bank, Sui Gas, and Ghani Glass, highlights the diverse composition of the board.
+
+...
+
+[Data](articles/7b8a68df.json)
+
+---
+
+### ඩොනල්ඩ් ට්‍රම්ප් ගැන අධිකරණයෙන් තීන්දුවක්
+
+*2024-02-06 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193057) · `si`
+
+හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සම්බන්ධයෙන් එරට අධිකරණයක් බරපතළ තින්දුවක් ලබාදී තිබේ.
+
+හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ට ජනාධිපති මුක්තිය නොමැති බව එම තීන්දුවෙහි දැක්වෙයි.
+
+ඒ අනුව එහි දැක්වෙන්නේ 2020 මැතිවරණය අවලංගු කිරීමට කුමන්ත්‍රණය කිරීමේ චෝදනාව සම්බන්ධයෙන් හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ට එරෙහිව නඩු පැවරිය හැකි බවය.
+
+◼️
+
+[Data](articles/5cf75d02.json)
+
+---
+
+### 2020தேர்தல் முடிவுகளை மாற்றியமைக்க முயன்றமைக்காக டிரம்பிற்கு எதிராக வழக்கு தொடரலாம் - அமெரிக்க நீதிமன்றம் முக்கிய தீர்ப்பு
+
+*2024-02-06 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175743) · `ta`
+
+அமெரிக்காவின் முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்பிற்கு எதிராக  2020 ம் ஆண்டு ஜனாதிபதி தேர்தல் முடிவுகளை மாற்றியமைக்க சதி செய்த குற்றச்சாட்டுகளின் அடிப்படையில் வழக்கு தொடரலாம் என அமெரிக்க நீதிமன்றம் தெரிவித்துள்ளது.
+
+ஜனாதிபதியாக பதவி வகித்த காலத்தில் தான் முன்னெடுத்த நடவடிக்கைகளிற்காக தனக்கு எதிராக குற்றவியல் குற்றச்சாட்டுகளை சுமத்த முடியாது என டிரம்ப் தாக்கல் செய்த வரலாற்று முக்கியத்துவம் வாய்ந்த வழக்கு தொடர்பிலேயே நீதிமன்றம் இந்த தீர்ப்பை வழங்கியுள்ளது.
+
+பல வழக்குகளில் தனக்கு விடுபாட்டுரிமையுள்ளது என  தெரிவித்துவந்த டிரம்பிற்கு இந்த தீர்ப்பு ஒரு பின்னடைவு என்பது குறிப்பிடத்தக்கது.
+
+முன்னாள் ஜனாதிபதி இந்த தீர்ப்பிற்கு எதிராக மேல்முறையீடு செய்தால் இந்த விவகாரம் அமெரிக்காவின் உச்சநீதிமன்றத்திற்கு செல்லும் - உச்சநீதிமன்ற நீதிபதிகள் மத்தியில் பழமைவாதிகளின் ஆதிக்கம் அதிகம் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/86ea29b1.json)
+
+---
+
+### I am the mother of cannabis baby: Diana
+
+*2024-02-06 21:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/I-am-the-mother-of-cannabis-baby-Diana/108-276447) · `en`
+
+Colombo, Feb 06 (Daily Mirror) -  Criticizing State Minister of Indigenous Medicine Sisira Jayakody whom she said had falsely claimed that he had submitted papers to the cabinet to seek approval for getting foreign investors for cannabis plantation, State Minister Diana Gamage said she is the mother of the cannabis baby.
+
+“I am not disappointed at all with the cabinet’s move to reject the proposal to get foreign investors to grow cannabis in Sri Lanka. The whole world knows I am the one who initiated it and got it passed through in parliament. Sisira Jayakody opposed it from the beginning. There are TV interviews where he criticized me. There will be lots of fathers for my cannabis baby but they will have to remember I am the baby's mother,” Ms. Gamage told Daily Mirror.
+
+...
+
+[Data](articles/5603019a.json)
 
 ---
 
@@ -77,6 +225,24 @@ It could be delayed for weeks, if not months, if the case ends up before the Sup
 [Data](articles/e3020d88.json)
 
 [Extended Data](ext_articles/e3020d88.ext.json)
+
+---
+
+### நாளைய தினம் எரிபொருளுக்கு தட்டுப்பாடு ஏற்படுமா?
+
+*2024-02-06 20:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/175742) · `ta`
+
+இலங்கை பெற்றோலியக் கூட்டுத்தாபனத்துக்கு எரிபொருள் நிரப்பு நிலையங்களால் பணம் செலுத்துவதற்கான கால அவகாசம் இன்று (06) மட்டுப்படுத்தப்பட்டதால் நாளை (07) எரிபொருளுக்கு தட்டுப்பாடு ஏற்பட வாய்ப்புள்ளதாக எரிபொருள் விநியோகஸ்தர்கள் தெரிவிக்கின்றனர்.
+
+எரிபொருள் நிரப்பு நிலையங்களின் உரிமையாளர்களால் இன்றைய தினம் தேவையான எரிபொருள் ஓடரை ( கட்டளை)  குறித்த கால அவகாசத்துக்குள் செய்ய முடியாத நிலை ஏற்பட்டதாக  அவர்கள் சுட்டிக்காட்டியுள்ளனர்
+
+காலை பத்து மணிக்கு முன் தேவையான ஓடர்களை  செய்ய அனைவராலும் முடியாதுள்ளதாகவும் அவர்கள் கூறுகின்றனர்.
+
+இதன் காரணமாக ஏற்படும் எரிபொருள் தட்டுப்பாட்டுக்கு தமது சங்கமும் எரிபொருள் நிரப்பும் நிலையங்களும் பொறுப்பல்ல எனவும் விநியோகஸ்தர்கள் சுட்டிக்காட்டியுள்ளனர்.
+
+◼️
+
+[Data](articles/74bfb019.json)
 
 ---
 
@@ -165,6 +331,42 @@ The Consumer Affairs Authority (CAA) has said that about 50 bakeries who do not 
 [Data](articles/548e4ad1.json)
 
 [Extended Data](ext_articles/548e4ad1.ext.json)
+
+---
+
+### இந்திய அரசியல்வாதிகளுக்கு மதியுரை சேவைகளை வழங்கும் நிறுவனத்திற்கு அநுர தலைமையிலான குழு விஜயம்
+
+*2024-02-06 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175736) · `ta`
+
+இந்திய அரசாங்கத்தின் அழைப்பின்பேரில் அந்நாட்டுக்கு விஜயம் மேற்கொண்டுள்ள தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க உள்ளிட்ட குழுவினர் விஜயத்தின் இரண்டாவது நாளாகிய செவ்வாய்க்கிழமை (06) புதுடில்லியில் அமைந்துள்ள Observer Research Foundation உலகளாவிய சிந்தனைக் குழு மன்றத்திற்குச் சென்றார்கள்.
+
+Observer Research Foundation என்பது இந்திய அரசாங்கத்தின் கொள்கை வகுப்பதிலும் தீர்மானம் மேற்கொள்வதிலும்  இந்திய அரசியல்வாதிகளுக்கும் வர்த்தக சமூகத்திற்கும் மதியுரை சேவைகளை வழங்குகின்ற நிறுவனமாகும்.
+
+அதன் பின்னர் தூதுக்குழுவினர் இந்தியாவின் எலெக்ரோனிக் மற்றும் தகவல் தொழில்நுட்ப அமைச்சுடன் இணைந்த இந்தியத் தனித்துவ அடையாள ஆணைய அமைப்பினை (Unique Identification Authority of India) பார்வையிட்டதோடு அதன் பிரதானிகளுடன் சுமுகமான கலந்துரையாடலிலும் ஈடுபட்டனர்.
+
+பின்னர் செவ்வாய்க்கிழமை (06) பிற்பகல் தேசிய மக்கள் சக்தியின் தலைவர்கள் அஹமதாபாத் நகரத்தை நோக்கிப் புறப்பட்டனர்.
+
+◼️
+
+[Data](articles/da04a117.json)
+
+---
+
+### ஏனைய நாடுகளுடன் சுதந்திர வர்த்தக ஒப்பந்தங்களை ஏற்படுத்தி மீண்டும் பொருளாதார  வீழ்ச்சி ஏற்படாத நிலையை உருவாக்குவோம் - அலி சப்ரி
+
+*2024-02-06 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175738) · `ta`
+
+நாடுகளுக்கிடையில் சுதந்திர வர்த்தக உடன்படிக்கைகளை ஏற்படுத்தி நாட்டின் பொருளாதாரத்தை மீண்டும் வீழ்ச்சியடையாத நிலைக்குக் கொண்டு செல்வதற்கு ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வேலைத்திட்டம் வலுப்படுத்தப்பட்டு முன்னெடுக்கப்பட வேண்டும் என வெளிநாட்டலுவல்கள் அமைச்சர் அலி சப்ரி தெரிவித்தார்.
+
+இந்த வருட இறுதிக்குள் இந்தியா, இந்தோனேசியா, மலேசியா, வியட்நாம் மற்றும் சீனா ஆகிய நாடுகளுடன் சுதந்திர வர்த்தக உடன்படிக்கைகளை கைச்சாத்திட திட்டமிடப்பட்டுள்ளதாகவும் அமைச்சர் குறிப்பிட்டுள்ளார்.
+
+ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (06) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் அலி சப்ரி  இவ்வாறு தெரிவித்தார்.
+
+ஸ்திரமான பொருளாதாரத்தை உருவாக்கும் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தொலைநோக்குப் பார்வையின்படி, போட்டித்தன்மை வாய்ந்த புதிய சந்தைகளுடன் ஒப்பந்தங்களை மேற்கொண்டு இலங்கையின் பொருளாதாரத்திற்கு நேரடியாகப் பங்களிப்புகளைப் பெற்றுக்கொள்ள எதிர்பார்க்கின்றோம்.
+
+...
+
+[Data](articles/d167e857.json)
 
 ---
 
@@ -308,6 +510,26 @@ The CAA has noted that any type of bread manufactured, packed, stored, offered f
 
 ---
 
+### තවත් රටවල් පහක් සමග නිදහස් වෙළඳ ගිවිසුම්
+
+*2024-02-06 19:17:40* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-රටවල්-පහක්-සමග-නිදහස්-වෙළඳ-ගිවිසුම්/11-407934) · `si`
+
+රටවල් අතර නිදහස් වෙළෙඳ ගිවිසුම් ඇති කර ගනිමින් මෙරට ආර්ථිකය යළි නොවැටෙන තැනකට පත් කරලීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගෙන යන වැඩපිළිවෙළ ශක්තිමත් කර ඉදිරියට ගෙන යා යුතු බව විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්රි මහතා පැවසීය.
+
+මෙම වසර අවසානය වන විට ඉන්දියාව, ඉන්දුනීසියාව, මැලේසියාව, වියට්නාමය හා චීනය සමඟ ද නිදහස් වෙළෙඳ ගිවිසුම් ඇති කරගැනීමට සැලසුම් කර ඇති බව ද අමාත්‍යවරයා සඳහන් කළේය.
+
+විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්රි මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (06) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්රි මහතා මෙසේ ද පැවසීය,
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ස්ථාවර ආර්ථිකයක් ඇති කිරීමේ දැක්මට අනුව තරගකාරී නව වෙළෙඳපොළවල් සමඟ ගිවිසුම් ඇති කරගනිමින් ශ්‍රී ලංකාවේ ආර්ථිකයට එය සෘජුව දායක කර ගැනීමට බලාපොරොත්තු වෙනවා.
+
+...
+
+[Data](articles/791aaac2.json)
+
+---
+
 ### Sri Lanka pursues Free Trade Agreements to boost economic growth
 
 *2024-02-06 19:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-pursues-Free-Trade-Agreements-to-boost-economic-growth/108-276440) · `en`
@@ -363,6 +585,22 @@ The forum aims to facilitate discussions and collaborations on hydrology and met
 [Data](articles/5757f077.json)
 
 [Extended Data](ext_articles/5757f077.ext.json)
+
+---
+
+### වාහන ආනයනය තව කාලයකට කරන්න බැරිවේවි
+
+*2024-02-06 18:33:34* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-තව-කාලයකට-කරන්න-බැරිවේවි/11-407933) · `si`
+
+විදේශ විනිමය සීමා ලිහිල් කිරීම පිළිබඳව මුදල් අමාත්‍යාංශය විසින් පාර්ලිමේන්තුවට ඉදිරියේදී අදියර වශයෙන් දැනුම් දෙනු ඇති බව සම කැබිනට් ප්‍රකාශක අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පැවැසීය.
+
+පවතින විදේශ විනිමය අර්බුදය තුළ ආනයන සීමා ලිහිල් කිරීම ශුක්ෂම ලෙස ලිහිල් කරන බවද අමාත්‍යවරයා පැවැසීය.
+
+මෙහිදී අදහස් දක්වමින් අමාත්‍යවරයා සඳහන් කළේ තව කාලයකට මෝටර් වාහන ආනයනය කිරිමට හැකියාවක් පවතිනු ඇතැයි තමන් නොසිතන බවයි.
+
+◼️
+
+[Data](articles/699979f7.json)
 
 ---
 
@@ -1723,251 +1961,5 @@ Accordingly, the selling price of a loaf of bread, which was Rs. 130, has increa
 [Data](articles/253a4d90.json)
 
 [Extended Data](ext_articles/253a4d90.ext.json)
-
----
-
-### Army contingent departs for South Sudan
-
-*2024-02-06 13:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Army-contingent-departs-for-South-Sudan/110-276428) · `en`
-
-The 10th contingent of the Sri Lanka Army Medical Corps (SLAMC) departed Sri Lanka early this morning (06 February), to assume duties at the Level-2 SRIMED Hospital in the United Nations Peacekeeping Mission in South Sudan (UNMISS).
-
-The 10th South Sudan bound contingent, commanded by Lieutenant Colonel D.M.D.J Dissanayake RSP USP and Second in Command, Major N.I Rathnayake, comprises 64 Army personnel, including 14 Army Officers, 01 Naval Officer and 49 Other Ranks.
-
-Representing the Commander of the Army, Major General P.A.C. Fernando USP, Colonel Commandant, SLAMC and Director General Army Health Services, Brigadier G.L.S.W Liyanage USP psc, Director, Directorate of Overseas Operations, Brigadier W.A.U.S Wanasekara RWP USP, Centre Commandant, SLAMC and other Senior Officers bid farewell to the contingent at the Bandaranaike International Airport.
-
-◼️
-
-[Data](articles/a329afbc.json)
-
-[Extended Data](ext_articles/a329afbc.ext.json)
-
----
-
-### Health strike to resume if decent solution remains elusive
-
-*2024-02-06 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-strike-to-resume-if-decent-solution-remains-elusive/108-276425) · `en`
-
-Colombo, Feb 6 (Daily Mirror) - The trade unions representing the health sector will not hesitate to resume the suspended strike tomorrow (06) if the scheduled meeting with the Finance Ministry officials did not provide a satisfactory solution.
-
-According to Ravi Kumudesh, President of the Joint Council for Professions of Supplementary Medicine, a crucial meeting has been scheduled today (06) at the Finance Ministry under the directive of the President where the grievances are to be taken into account.
-
-“However, the strike will resume from tomorrow if a satisfactory resolution remains elusive,” he stressed.
-
-The move comes following a countrywide strike initiated by 72 trade unions in the health sector commencing from February 01 against the prolonged dispute surrounding the Disturbance, Availability, and Transport (DAT) allowance.
-
-The healthcare services across the country were paralyzed owing to the strike action inconveniencing the patients.
-
-◼️
-
-[Data](articles/0b23e2e6.json)
-
-[Extended Data](ext_articles/0b23e2e6.ext.json)
-
----
-
-### TMC: Meeting with Indian Foreign Secretary
-
-*2024-02-06 13:30:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தே-ம-ச-இந்திய-வெளியுறவு-செயலாளருடன்-சந்திப்பு/175-332760) · `ta`
-
-The Foreign Ministry of India has met with Foreign Secretary Vinay Mohan on Monday night (05) as a group of National People's Power has visited India.
-
-◼️
-
-[Data](articles/13627834.json)
-
-[Extended Data](ext_articles/13627834.ext.json)
-
----
-
-### 50 days: The number of arrests so far!
-
-*2024-02-06 13:30:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-50-நாட்கள்-இதுவரையான-கைதுகளின்-எண்ணிக்கை/175-332759) · `ta`
-
-56,541 suspects have been arrested within the first 50 days of the launch of a special operation, which was carried out by the Police Special Task Force.
-
-Started in December 2023 to prevent drug -related operations in Sri Lanka, the technique has completed 50 days today.
-
-During this period, police recovered more than 142 kilograms of heroin, more than 208 kilograms of ice, 970 grams of cocaine, more than 2600 kilograms of cannabis and 3,60,000 drugs.
-
-Out of them, 1,817 suspects have been issued a detention order and 1,981 addicts of drug addiction have been transferred to rehabilitation centers.
-
-As well as. Investigations have been launched against 234 suspects regarding illegal assets.
-
-Meanwhile, the value of the seized drugs is 7,733 million rupees and the value of the seized assets is 726 million rupees.
-
-◼️
-
-[Data](articles/e4d78511.json)
-
-[Extended Data](ext_articles/e4d78511.ext.json)
-
----
-
-### Driving licenses for hearing-impaired community
-
-*2024-02-06 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97044/driving-licenses-for-hearing-impaired-community) · `en`
-
-The Cabinet of Ministers has approved a resolution to issue light-vehicle driving licenses to hearing-impaired persons island-wide on a biannual renewal basis.
-
-Previously, a pilot project was carried out to issue light-vehicle driving licenses to the hearing-impaired community in the Gampaha District, in accordance with the Cabinet resolution on November 14, 2022.
-
-At the Cabinet meeting held yesterday (Feb.06), a proposal tabled by the Transport & Highways Minister received the approval to expand the project across the country, based on the results of the pilot project and the recommendations provided by the Transport Secretary-chaired committee appointed for the implementation of the project.
-
-◼️
-
-[Data](articles/63adbd4e.json)
-
-[Extended Data](ext_articles/63adbd4e.ext.json)
-
----
-
-### Allow permission to drive people with hearing deficiency
-
-*2024-02-06 13:24:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செவித்திறன்-குறைபாடு-உள்ளவர்களுக்கு-வாகனம்-ஓட்ட-அனுமதி/175-332758) · `ta`
-
-The Cabinet has approved the grant of lightweight driving license for those who are completely deaf.
-
-Permission was granted at a Cabinet meeting held on 11/14/2022 to implement the pioneering plan in Gampaha.
-
-The decision was taken on the recommendations of the Committee headed by the Secretary of the Ministry of Transport and Highways to implement the project nationwide.
-
-◼️
-
-[Data](articles/55e33d5b.json)
-
-[Extended Data](ext_articles/55e33d5b.ext.json)
-
----
-
-### We must decide what our journey should be - Sajith
-
-*2024-02-06 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175708) · `ta`
-
-The country was destroyed by economic terrorism. Economic terrorism is caused by a family -centered friendly politics. By this the country lost the resources and belongings of the people. Opposition Leader Sajith Premadasa said that all those involved in the robbery are transparenial and impartially before the law, and that the lost resources will be restored and used for the education and health of the country.
-
-We share the resources and incomes equally, and we will join hands with the race, religion, caste, class, clan, party, status and create a prosperous nation.
-
-The opposition leader questioned whether the United People's Power is ready and the people are ready for this journey.
-
-He said this while addressing a recent speech at the 82nd phase of the universe Information Technology Program.
-
-Japan was a country with a high debt burden.
-
-...
-
-[Data](articles/f5e0b621.json)
-
-[Extended Data](ext_articles/f5e0b621.ext.json)
-
----
-
-### Confused prisoners at rehabilitation centers will be transferred to jail - Vijayadasa Rajapaksa
-
-*2024-02-06 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175707) · `ta`
-
-Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapakse said that if the inmates at the rehabilitation centers are not continued properly, they will be expelled and interrogated from the stations.
-
-The Minister said that a group of drug traffickers had entered the Kandagadu rehabilitation center and there was a frequent conflict of conflict.
-
-He said the kidnappers wanted to disrupt the plan to rehabilitate addiction.
-
-◼️
-
-[Data](articles/d1b9755a.json)
-
-[Extended Data](ext_articles/d1b9755a.ext.json)
-
----
-
-### Renovated Rangiri Dambulla International Cricket Stadium unveiled
-
-*2024-02-06 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97043/renovated-rangiri-dambulla-international-cricket-stadium-unveiled) · `en`
-
-The ‘Centre of Excellence’ at the Dambulla Stadium, a significant milestone in the “National Cricket Development Pathway” program aimed at providing equal opportunities to talented Sri Lankan cricketers was inaugurated on Monday (Feb.05).
-
-The event, held under the aegis of President Ranil Wickremesinghe, showcased his commitment to fostering the growth of cricket in the country, the President’s Media Division (PMD) said.
-
-President Wickremesinghe, unveiling the plaque and officially opening the centre, conducted an extensive observation tour.
-
-The facility is well-equipped, featuring a hydrotherapy unit and a state-of-the-art medical centre dedicated to sports injury rehabilitation, the PMD added.
-
-...
-
-[Data](articles/0e498475.json)
-
-[Extended Data](ext_articles/0e498475.ext.json)
-
----
-
-### Udayer tells how to prevent more Keheld
-
-*2024-02-06 13:14:35* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-කෙහෙළියලා-බිහිවීම-වළක්වන-හැටි-උදය-කියයි/11-407928) · `si`
-
-Leader of the Level Gammanpila says that there should be no effective institutions in the future in the future, says the Level Gammanpila that the Drug Regulatory Authority should be made an influential body.
-
-He was speaking at a press conference held at the JHU today (2024.04.06).. The Hela Hela Heraner added:
-
-"Our interest in punishing Minister Rambukwella has to punish minister is to prevent the emergence of another. It is worth presting to prevent sickness.It has to approval of the Minister of Cabinet in more than Rs.
-
-It is published by the Minister.Since pricing is more than Rs.That means the Minister has a link to the procurement process.
-
-...
-
-[Data](articles/e9afc367.json)
-
-[Extended Data](ext_articles/e9afc367.ext.json)
-
----
-
-### Sri Lanka to gradually relax foreign exchange controls
-
-*2024-02-06 13:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-gradually-relax-foreign-exchange-controls-150028/) · `en`
-
-ECONOMYNEXT – Sri Lanka will gradually loosen measures taken to prevent outflow of foreign exchange implemented during the currency crisis in 2022, cabinet spokesman minister Bandula Gunawardena said.
-
-Based on the recommendation of the governing board of the Central Bank of Sri Lanka, the government will “implement steps under a phased plan of releasing foreign exchange limitations applicable to banning the conversion of Sri Lankan rupees to foreign exchange for certain mobile foreign exchange transactions,” Gunawardena said.
-
-Gunawardena did not specify the exact measures, but said “It will  be done methodically, responsibly and strategically.”
-
-“There won’t be a complete relaxation of import control laws; personally I don’t believe we will be able to import motor vehicles en masse for some time yet.”
-
-...
-
-[Data](articles/d6b27c03.json)
-
-[Extended Data](ext_articles/d6b27c03.ext.json)
-
----
-
-### Sri Lankan Police delegation visits Delhi Police training centre
-
-*2024-02-06 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97042/sri-lankan-police-delegation-visits-delhi-police-training-centre) · `en`
-
-Police officers from Sri Lanka visited the Delhi Police training centre on Monday and engaged in an insightful interaction with the local officers to understand the functioning of the system. A discussion ensued between the Sri Lankan delegation and Delhi Police officials, delving into the intricacies of the police functions in India.
-
-During their visit to the Specialized Training Centre at Rajinder Nagar, Chhaya Sharma, India’s Special Commissioner of Police (Training) extended a warm welcome to the delegation. The senior officer provided insights into the operations of different districts and units of Delhi Police, emphasizing the significance of training within the force.
-
-...
-
-[Data](articles/0d134c59.json)
-
-[Extended Data](ext_articles/0d134c59.ext.json)
-
----
-
-### Anuragumara met the Secretary of the Ministry of Foreign Affairs
-
-*2024-02-06 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175699) · `ta`
-
-Janatha Vimukthi Peramuna (JVP) leader Anura Kumara Dissanayaka met with Vinay Mohan, Secretary of the Indian Foreign Ministry on Monday (05) night.
-
-At the invitation of the Government of India, the President of the Janatha Vimukthi Peramuna (JVP), Anura Kumara Dissanayaka, has visited New Delhi.
-
-◼️
-
-[Data](articles/96b305df.json)
-
-[Extended Data](ext_articles/96b305df.ext.json)
 
 ---

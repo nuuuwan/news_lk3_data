@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 21:32:51**
+As of **2024-02-06 21:51:42**
 
 ## Newspaper Stats
 
-*Scraped **5,251** Articles*
+*Scraped **5,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 290
 newsfirstlk | 326
 adalk | 449
 virakesarilk | 621
-adaderanalk | 651
+adaderanalk | 652
 tamilmirrorlk | 658
 adaderanasinhalalk | 681
 dailymirrorlk | 745
@@ -26,11 +26,39 @@ dailymirrorlk | 745
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,250 (100.0%) of 5,251 articles have been extended.
+5,252 (100.0%) of 5,252 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### Donald Trump does not have presidential immunity, US court rules
+
+*2024-02-06 20:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97060/donald-trump-does-not-have-presidential-immunity-us-court-rules) · `en`
+
+Donald Trump does not have presidential immunity and can be prosecuted on charges of plotting to overturn the 2020 election, a US court has ruled.
+
+Mr Trump had claimed in the landmark legal case that he was immune from criminal charges for acts he said fell within his duties as president.
+
+But Tuesday’s ruling in Washington DC struck down that claim.
+
+It is a setback for Mr Trump who has for years cited presidential immunity while battling multiple cases.
+
+The former president is expected to appeal against the ruling, meaning the case could ultimately go to the Supreme Court where conservatives hold a 6-3 majority.
+
+US Special Counsel Jack Smith has charged Mr Trump, 77, with conspiring to overturn Joe Biden’s victory in the 2020 election and committing fraud to stay in office.
+
+The trial in that case was initially scheduled for 4 March, but was postponed pending a ruling on the immunity claim.
+
+It could be delayed for weeks, if not months, if the case ends up before the Supreme Court.
+
+...
+
+[Data](articles/e3020d88.json)
+
+[Extended Data](ext_articles/e3020d88.ext.json)
+
+---
 
 ### 50 bakery trapped in action testing
 
@@ -48,23 +76,27 @@ During the tests conducted in bakeries and stores, about 50 bakeries that did no
 
 ---
 
-### ජාතික ජන බලවේගයට එරෙහිව මෝසමක්
+### Monsoon against National Society
 
 *2024-02-06 20:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193056) · `si`
 
-මැතිවරණ කොමිසම විසින් ජාතික ජන බලවේගය ලියාපදිංචි කර ඇති ආකාරය නීතිවිරෝධී බවත් ඒ සම්බන්ධයෙන් කරුණු දැක්වීමට අවසර ලබාදෙන ලෙසත් ඉල්ලමින් ශ්‍රේෂ්ඨාධිකරණය හමුවේ මෝසමක් ගොනුකර තිබේ.
+The motion has been filed in the Supreme Court as illegal to register the national folk force and to allow the national folk force.
 
-විනිවිද පෙරමුණේ ලේකම් නීතිඥ නාගානන්ද කොඩිතුවකු මහතා විසින් මෙම මෝසම ඉදිරිපත් කර ඇත.
+The monsoon has presented the monguewise by the Vineyard Front.
 
-විනිවිද පෙරමුණ දේශපාලන පක්ෂයක් වශයෙන් ලියාපදිංචි කිරීම ප්‍රතික්ෂේප කිරීමට මැතිවරණ කොමිසම ගත් තීරණයට එරෙහිව ගොනු කර තිබෙන රිට් පෙත්සමකට අදාළව නාගානන්ද කොඩිතුවක්කු මහතා විසින් මෙම මෝසම ඉදිරිපත් කර තිබේ.
+The monsoon has been presented by Kodituwakku, who has filed a Rit petition filed against the decision of the Examinations Commission to register as a political party.
 
-එම මෝසම තුළින් නාගානන්ද කොඩිතුවක්කු මහතා කියා සිටින්නේ ජනතා විමුක්ති පෙරමුණේ කොටසක් වන ජාතික ජන බලවේගය දේශපාලන පක්ෂයක් වශයෙන් ලියාපදිංචි කිරීම සම්පූර්ණයෙන්ම නීතියට පටහැනි බවය.
+Nagananda Kodituwakku said in the monsoon, the registration of the national folk force, a political party, is completely contrary to the law.
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 103(2)  වගන්තිය ප්‍රකාරව එකම පක්ෂයක විවිධ ශාඛා වෙන් වෙන්ව දේශපාලන පක්ෂ වශයෙන් ලියාපදිංචි කිරීම මැතිවරණ නීති රීතීන්ට පටහැනි බවත් ඒ තුළින් නිදහස් හා සාධාරණ මැතිවරණයක් පැවැත්වීමට ආණ්ඩුක්‍රම ව්‍යවස්ථාව මගින් සහතික කර තිබෙන අයිතිය උල්ලංඝනය වන අතර එය සම්පූර්ණයෙන්ම නීතියට පටහැනි බවත් අදාළ මෝසමේ සඳහන් කර තිබේ.
+The monsoons are contrary to the election law regimes in terms of Section 103 (2) of the Constitution.Available.
 
-...
+Nagananda Kodituwakku is also requested to the Supreme Court to allow the national folk force to be illegal.
+
+◼️
 
 [Data](articles/3e9ec181.json)
+
+[Extended Data](ext_articles/3e9ec181.ext.json)
 
 ---
 
@@ -874,13 +906,11 @@ The overall champions in the Student, Youth, Open and Professional competitions 
 
 *2024-02-06 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97052/gazette-issued-confirming-keheliyas-resignation-from-minister-post) · `en`
 
-A gazette notification has been issued confirming the resignation of Keheliya Rambukwella as the Environment Minister. He was arrested last week over his alleged complicity in the substandard human immunoglobulin procurement scandal.
+A gazette notification has been published, confirming the resignation of Keheliya Rambukwella as the Environment Minister. He was arrested last week in connection with the substandard human immunoglobulin procurement scandal.
 
-Earlier today, it was reported that the former health minister had tendered his resignation to President Ranil Wickremesinghe, who in return, had accepted it.
+Earlier today, reports revealed that the former health minister had tendered his resignation to President Ranil Wickremesinghe, who in return, had accepted it.
 
-The SLPP parliamentarian was arrested on February 02 after he arrived at the Criminal Investigation Department (CID) to record a statement. He was grilled for nearly 10 hours before being placed under arrest.
-
-He was remanded the following day, until February 15, and was admitted to the Prison Hospital later that day. During the court proceedings, the prosecution told the Maligakanda Magistrate Lochani Abeywickrama that Rambukwella removed the suppliers registered with the National Medicines Regulatory Authority (NMRA) and enabled unregistered suppliers to enter the procurement process.
+The SLPP parliamentarian was arrested on February 02 after he arrived at the Criminal Investigation Department (CID) to record a statement. He was reportedly interrogated for nearly 10 hours before being placed under arrest.
 
 ...
 
@@ -1937,27 +1967,5 @@ He further emphasised that President Wickremesinghe’s reappointment is essenti
 [Data](articles/f1ad0e66.json)
 
 [Extended Data](ext_articles/f1ad0e66.ext.json)
-
----
-
-### A candidate for the next presidential election
-
-*2024-02-06 13:07:28* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-ජනපතිවරණයට-පොහොට්ටුවෙන්-අපේක්ෂකයෙක්/11-407927) · `si`
-
-Samparakarrayasam said in Polonnaruwa as presidential election in general election
-
-The inaugural meeting of the "Sad Peoples' Meetings held by the Commonwealth Front held in Giritale in Polonnaruwa this morning.
-
-The meeting was organized by District Leader Siripilla Gamlath, General Secretary of the General Secretary of the General Secretary of the General Secretary of the General Kariyawanagama, Tornoka, Indika Vidanagama, Jagath Samarawickrama, Jagath Samarawickrama, Chinthaka, Ginuka Vidanagama, Chinthaka.A large number of activists on the Polonnaruwa District participated in the Polonnaruwa District.
-
-General Secretary of the General Secretary of the General Secretary Attorney General Sagara Kariyawasam said
-
-"This party was created to build a good country for the future of the country as well as a good country for the children of this country.Unable to.
-
-...
-
-[Data](articles/89adecdd.json)
-
-[Extended Data](ext_articles/89adecdd.ext.json)
 
 ---

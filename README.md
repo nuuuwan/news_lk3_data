@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 07:42:39**
+As of **2024-02-06 07:30:50**
 
 ## Newspaper Stats
 
-*Scraped **5,058** Articles*
+*Scraped **5,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,73 +16,21 @@ islandlk | 276
 dailyftlk | 290
 newsfirstlk | 304
 adalk | 433
-virakesarilk | 588
+virakesarilk | 587
 adaderanalk | 622
-tamilmirrorlk | 637
-adaderanasinhalalk | 652
-dailymirrorlk | 718
+tamilmirrorlk | 636
+adaderanasinhalalk | 650
+dailymirrorlk | 717
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,053 (99.9%) of 5,058 articles have been extended.
+5,053 (100.0%) of 5,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
-
-### 09 වන පාර්ලිමේන්තුවේ පස්වැනි සභාවාරය හෙට විවෘත වෙයි
-
-*2024-02-06 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193025) · `si`
-
-09 වන පාර්ලිමේන්තුවේ පස්වැනි සභාවාරය හෙට (07) ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් උත්සවාකාරයෙන් විවෘත කිරීමට නියමිතව තිබේ.
-
-හෙට පෙරවරු 10.30ට පාර්ලිමේන්තුවේ මුලසුන දරමින් ජනාධිපතිවරයා විසින් ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතය.
-
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් පසුගිය ජනවාරි මස 26 වන දින මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි පාර්ලිමේන්තුවේ වාර අවසාන කිරීම සිදුකළේය.
-
-ඒ අනුව හෙට දින පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිත ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය පිළිබඳ සභාව කල්තැබීමේ විවාදය ලබන 8 සහ 09 යන දෙදින තුළ පැවැත්වීමට නියමිතය.
-
-කෙසේවෙතත් මෙවර පාර්ලිමේන්තුව විවෘත කිරීමේ උත්සවය ඉතා අඩු වියදමෙන් සරල සහ චාම් අයුරින් පැවැත්වීමට කටයුතු යොදා ඇති බව වාර්තා වේ.
-
-අදාළ උත්සවය සඳහා ආචාර පෙළපාලි, ආචාර වෙඩිමුර, පෙර ගමන් රථ යනාදී විශේෂාංග කිසිවක් ඇතුළත් නොවන බව ආණ්ඩු පක්ෂයේ ප්‍රධාන සංවිධායක අමාත්‍ය ප්‍රසන්න රණතුංග මහතා සඳහන් කළේය.
-
-කෙසේවෙතත් වාර අවසාන කෙරුණු පාර්ලිමේන්තුව විවෘත කිරීමේ උත්සවය වර්ජනය කිරීමට උත්තර ලංකා සභාගයේ මන්ත්‍රීවරුන් තීරණය කර තිබේ.
-
-...
-
-[Data](articles/59d73016.json)
-
----
-
-### කාන්තාවක්ව ඝාතනය කෙරේ
-
-*2024-02-06 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193024) · `si`
-
-අනියම් සම්බන්ධතාවයක් මත ඇති වූ ආරවුලක් හේතුවෙන් කාන්තාවක්ව තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
-
-ඊයේ (05) සවස් කාලයේදී එම ඝාතනය සිදුව තිබුණේ, සූරියවැව පොලිස් වසමේ පොල්පහ ප්‍රදේශයේ නිවසකදීය.
-
-එලෙස මියගොස් ඇත්තේ, බැද්දේවැව බටහිර, සූරියවැව ප්‍රදේශයේ පදිංචි 37 හැවිරිදි කාන්තාවකි.
-
-මරණකාරිය හා සැකකරු අතර පැවැති අනියම් සම්බන්ධතාවයක් මත ඇතිවූ ආරවුලක් හේතුවෙන් මෙම ඝාතනය සිදුව ඇති බව පොලීසිය පවසයි.
-
-ඝාතනය සිදුකළ සැකකරු හඳුනාගෙන ඇති අතර, අත්අඩංගුවට ගැනීම සඳහා සූරියවැව පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
-
-මේ අතර මාවතගම, උදානගම ප්‍රදේශයේදී වෑන් රථයකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් යතුරුපැදියකින් ගමන් කරමින් සිටි පුද්ගලයින් දෙදෙනෙකුට තියුණු ආයුධයකින් පහරදී තුවාල සිදුකර තිබේ.
-
-යතුරුපැදියෙන් ගමන්කළ පුද්ගලයින් දෙදෙනාගේ මඟ හරස් කර වෑන් රථය නවතා පොල්ලකින් පහරදී පසුව තියුණු ආයුධයකින් ද පහරදී තුවාල සිදුකර තිබිණි.
-
-තුවාලකරුවන් කුරුණෑගල රෝහලට ඇතුළත් කර ඇති අතර මේ වනවිට ප්‍රතිකාර ලබමින් සිටින බව පොලීසිය පවසයි.
-
-තුවාලකරුවන් අවුරුදු 39 හා 53 වයස්වල පසුවන ගොකරැල්ල ප්‍රදේශයේ පදිංචිකරුවන්ය.
-
-◼️
-
-[Data](articles/7a190710.json)
-
----
 
 ### King Charles diagnosed with cancer
 
@@ -121,34 +69,6 @@ Namasivayam Premkumar carried out a death investigation into the death of the ch
 [Data](articles/ed9d8f59.json)
 
 [Extended Data](ext_articles/ed9d8f59.ext.json)
-
----
-
-### யாழ். வடமராட்சி கிழக்கு கடற்பகுதியில் தொடர்ச்சியாக இறந்து கரையொதுங்கும் ஆமைகள்!
-
-*2024-02-06 06:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175669) · `ta`
-
-யாழ்ப்பாணம் - வடமராட்சி கிழக்கு கடற்பரப்பில் அண்மைக்காலமாக இறந்தநிலையில் ஆமைகள் சில கரையொதுங்கிவருகின்றன.
-
-கடல் கொந்தளிப்பாக காணப்படுவதால் காயமடைந்த ஆமைகளே இவ்வாறு தொடர்ச்சியாக இறந்து தமது பிரதேசத்தில் அதிகளவு கரையொதுங்குவதாக அப்பகுதி மீனவர்கள் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/29c26198.json)
-
----
-
-### Sri Lankan migrant worker in Saudi Arabia faces brutal abuse
-
-*2024-02-06 06:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-migrant-worker-in-Saudi-Arabia-faces-brutal-abuse/108-276402) · `en`
-
-In a distressing incident, Kumudini Sandya Kumari Seneviratne, a Sri Lankan housemaid who sought employment in Saudi Arabia, is currently battling severe abuse and torture at the hands of her employer. The harrowing tale unfolds in the Mundalama area, shedding light on the unfortunate plight of migrant workers pursuing better opportunities abroad.
-
-Seneviratne, a resident of Kajuwatta in Mundalama, secured employment in Saudi Arabia through a private foreign employment agency in Kurunegala on May 23, 2023. She followed the proper procedures by registering with the Sri Lanka Foreign Employment Bureau before departing the country.
-
-...
-
-[Data](articles/118d9d22.json)
 
 ---
 
@@ -283,20 +203,6 @@ Moreover, he said several complaints have been made to the Human Rights Council 
 [Data](articles/4278c50c.json)
 
 [Extended Data](ext_articles/4278c50c.ext.json)
-
----
-
-### ’காணி உரிமை வழங்கியமை அரசாங்கத்தின் வெற்றி’
-
-*2024-02-06 02:42:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணி-உரிமை-வழங்கியமை-அரசாங்கத்தின்-வெற்றி/175-332739) · `ta`
-
-காணி உரிமை கோரி உலகில் பல புரட்சிகள் இடம்பெற்ற போதிலும், புரட்சியின்றி இந்நாட்டு மக்களுக்கு நிரந்த காணி உரிமையை வழங்க முடிந்தமை தற்போதைய அரசாங்கத்திற்குக் கிடைத்த தனித்துவமான வெற்றியாகும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
-
-உரித்து திட்டத்தின் முதற்கட்டமாக 10 ஆயிரம் விவசாயிகளுக்கு காணி உறுதிப் பத்திரங்கள் வழங்கும் நிகழ்வு நேற்று பிற்பகல் ரங்கிரி தம்புலு விளையாட்டரங்கில் இடம்பெற்றது. இந்த நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
-
-...
-
-[Data](articles/e681b572.json)
 
 ---
 
@@ -1953,5 +1859,121 @@ Accordingly, both groups of the five matches have won one match.
 [Data](articles/43d8c88e.json)
 
 [Extended Data](ext_articles/43d8c88e.ext.json)
+
+---
+
+### Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
+
+*2024-02-05 16:30:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/sri-lanka-seeks-thailand-s-help-to-free-56-citizens-held-in-myanmar/) · `en`
+
+COLOMBO (News 1st);  Sri Lankan President Ranil Wickremesinghe has appealed to Thailand's Prime Minister Srettha Thavisin for assistance in securing the release of 56 Sri Lankan nationals allegedly held captive by Chinese criminal organizations in Myanmar.
+
+Sri Lankan Ambassador to Myanmar Janaka Bandara confirmed that the request was made during the Thai Prime Minister's visit to Sri Lanka for the nation's Independence Day celebrations on February 4th.
+
+56 Sri Lankan youth are being held captive in Myanmar by a non-state armed group and forced to engage in cybercrime.
+
+The youths, lured with promises of computer-related jobs, were reportedly taken to Myanmar and detained in three separate locations near the Thai border.
+
+News 1st is in possession of GPS locations of the three sites where the Sri Lankans are being held in the Myawaddy region in Myanmar.
+
+One location reportedly houses 8 youths near the Moi River which located closed to the Myawaddy Town.
+
+...
+
+[Data](articles/42be6298.json)
+
+[Extended Data](ext_articles/42be6298.ext.json)
+
+---
+
+### Chascope for anyone unexpectedly unearthed down in Beliatta
+
+*2024-02-05 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193009) · `si`
+
+Tangalle Magistrate ordered the court to hold the suspect for the assassination of the Beliatta to resign to tomorrow (06).
+
+The suspect was arrested by the officers of the Matara Divisional Children's and Women's Buddhist monastery yesterday (05).
+
+The victim is a 28 year old resident of Rathgama Kathantha.
+
+Two suspects were taken by the shooters from the firearms of the Beliatta from Akuressa from Akuressa from Akuressa, Galle.
+
+When the motorcyclists traveled with firearms, they have been identified as the track of the suspect with the trailing motorcycle.
+
+The police were also arrested by the police, who were transporting firearms, and the suspect and the spying suspect have been identified as relatives.
+
+◼️
+
+[Data](articles/a64419ea.json)
+
+[Extended Data](ext_articles/a64419ea.ext.json)
+
+---
+
+### Opposition Leader Sajith explained to the Indian High Commission
+
+*2024-02-05 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175627) · `ta`
+
+Opposition Leader Sajith Premadasa has explained many issues, including the current backup act, Indian High Commissioner Santosh Jahu has explained.
+
+A recent meeting between Santosh JHA and Opposition Leader Sajith Premadasa, the new High Commissioner to Sri Lanka, was held at the office of the Opposition Leader.
+
+Both have exchanged various issues relating to the long -standing social, economic and political affairs between the two countries.
+
+Opposition Leader Sajith Premadasa informed the Indian High Commissioner of the illegal and unfair tax policy brought by the current government.
+
+The Opposition Leader made clear the High Commissioner on how the people were affected by the unreasonably imposed value tax and the impact of the adverse effects on the employee of the working people in the domestic debt restructuring.
+
+Similarly, Opposition Leader Sajith Premadasa said to the Indian High Commission on the impact of the current government on the democratic rights of the people.
+
+...
+
+[Data](articles/cb23c859.json)
+
+[Extended Data](ext_articles/cb23c859.ext.json)
+
+---
+
+### Keheliya is involved in the assassination - the punishment given to him is the best punishment for a politician - Janaka Ratnayake
+
+*2024-02-05 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175631) · `ta`
+
+Former Health Minister Keheliya Rambukwella's former President of the Public Use Commission Janakatnayake has said that the fraud of Imunoghulopulin's fraud is a massacre.
+
+He said that the minister should be involved in the murder of the minister, which has been accused of importing the low -quality Imunoglobulin against the former health minister.
+
+Janakaratnayake said that the minister has imported the drug without following the appropriate procedures and provided them to the innocent people of the country.
+
+We do not know how many people have died, so we should look at the issue further.
+
+He said the punishment for Keheliya should be the best punishment for a politician in Sri Lanka.
+
+He said that all the parliamentarians should be paid to all MPs to test the symptoms of the disease.
+
+In general, politicians are not ashamed of fraudulent corruption, he said.
+
+◼️
+
+[Data](articles/37eaf031.json)
+
+[Extended Data](ext_articles/37eaf031.ext.json)
+
+---
+
+### A large number of detainees on bribery and corruption are police officers!
+
+*2024-02-05 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175632) · `ta`
+
+According to a report issued by the Bribery Commission, 3,431 complaints have been received last year on bribery and corruption allegations.
+
+A large number of those arrested for bribery and corruption complaints are said to be police officers.
+
+The report also pointed out that 2,789 premises have been submitted to the Inquiry Committee in these complaints.
+
+◼️
+
+[Data](articles/483f49b7.json)
+
+[Extended Data](ext_articles/483f49b7.ext.json)
 
 ---

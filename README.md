@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 08:50:21**
+As of **2024-02-06 09:02:34**
 
 ## Newspaper Stats
 
-*Scraped **5,061** Articles*
+*Scraped **5,065** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ economynextcom | 265
 islandlk | 276
 dailyftlk | 290
 newsfirstlk | 304
-adalk | 433
+adalk | 434
 virakesarilk | 588
 adaderanalk | 622
 tamilmirrorlk | 637
-adaderanasinhalalk | 655
+adaderanasinhalalk | 658
 dailymirrorlk | 718
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,061 (100.0%) of 5,061 articles have been extended.
+5,061 (99.9%) of 5,065 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### රාමසාන් වෙනුවෙන් රාජ්‍ය සේවකයින්ගේ වැඩමුරවල වෙනසක්
+
+*2024-02-06 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193031) · `si`
+
+රාමසාන් සමයේ දී මුස්ලිම් රාජ්‍ය සේවකයින් සඳහා ආගමික වතාවත්වල යෙදීමට හැකි වන පරිදි වැඩමුර සකස් කර දෙන ලෙස රාජ්‍ය පරිපාලන අමාත්‍යංශය රාජ්‍ය ආයතන වෙත දැනුම් දී තිබේ.
+
+අමාත්‍යංශ ලේකම්වරුන්, පළාත් ප්‍රධාන ලේකම්වරුන්, දෙපාර්තමේන්තු ප්‍රධානීන්, රාජ්‍ය සංස්ථා සහ ව්‍යවස්ථාපිත මණ්ඩල ප්‍රධානීන් වෙත චක්‍රලේඛයක් නිකුත් කරමින් අදාළ දැනුම් දීම සිදුකර ඇති බව වාර්තා වේ.
+
+මෙවර රාමසාන් සමය මාර්තු 12 වන දින සිට අප්‍රේල් 11 වන දින දක්වා පැවැත්වීමට නියමිත බැවින් එම කාල සීමාව තුළ මුස්ලිම් රාජ්‍ය සේවකයින්ට ආගමික වතාවත්වල යෙදීමට හැකිවන පරිදි වැඩමුර සකස් කර දිය යුතු බව අදාළ චක්‍රලේඛයේ සඳහන්ය.
+
+නොවැළැක්විය හැකි අවස්ථාවලදී පමණක් විශේෂ නිවාඩු අනුමත කරදෙන ලෙස ද රාජ්‍ය පරිපාලන අමාත්‍යංශය නිකුත් කළ චක්‍රලේඛයේ සඳහන් ය.
+
+රාමසාන් අවසන් වීමට දින 14කට පෙර රාජ්‍ය සේවයේ රාජ්‍ය සංස්ථා හා ව්‍යවස්ථාපිත මණ්ඩලවල සුදුසුකම් ඇති මුස්ලිම් නිලධාරීන් සඳහා උත්සව අත්තිකාරම් ලබාදීමට ද කටයුතු කරන ලෙස රාජ්‍ය පරිපාලන අමාත්‍යංශය වැඩිදුරටත් දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/77765623.json)
+
+---
+
+### ජීවිත දෙකක් බිලිගත් මාරක අනතුර
+
+*2024-02-06 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193030) · `si`
+
+දඹුල්ල - මහනුවර ප්‍රධාන මාර්ගයට වැටෙන අතුරු මාර්ගයේ විහාර හංදිය ප්‍රදේශයේදී සිදුවූ රිය අනතුරකින් කාන්තාවක් ඇතුළු පුද්ගලයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඊයේ (05) රාත්‍රී කාලයේදී එම අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
+
+කණ්ඩලම දෙස සිට ප්‍රධාන මාර්ගය දෙසට ධාවනය වූ යතුරුපැදියක් මාර්ගය අයිනේ සිටි පුද්ගලයෙකුගේ හා දරුවෙකු වඩාගෙන සිටි කාන්තාවකගේ ගැටී අනතුර සිදුව ඇත.
+
+අනතුරින් තුවාල ලැබූ පුද්ගලයා සහ දරුවා වඩාගෙන සිටි කාන්තාව දඹුල්ල රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව කාන්තාව සහ පුද්ගලයා මියගොස් තිබේ.
+
+කාන්තාව වඩාගෙන සිටි වයස මාස 09ක දියණිය දඹුල්ල රෝහලේ නේවාසිකව ප්‍රතිකාර ලබයි.
+
+අනතුරින් මියගොස් ඇත්තේ, බණ්ඩරාගම ලිපිනයේ පදිංචිව සිටි 45 හැවිරිදි පුද්ගලයෙකු හා මෙතෙක් ලිපිනය අනාවරණය නොවූ 43 හැවිරිදි කාන්තාවකි.
+
+අනතුරින් යතුරුපැදිකරුද තුවාල ලබා ඇති අතර ඔහු පොලිස් ආරක්ෂාව යටතේ දඹුල්ල රෝහලේ නේවාසිකව ප්‍රතිකාර ලබමින් සිටී.
+
+◼️
+
+[Data](articles/9083298d.json)
+
+---
+
+### සෞඛ්‍ය කාර්ය මණ්ඩලය සහ මුදල් අමාත්‍යංශ නියෝජිතයින් අතර විශේෂ සාකච්ඡාවක්
+
+*2024-02-06 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193029) · `si`
+
+සෞඛ්‍ය කාර්ය මණ්ඩලයේ වෘත්තීය සමිති නියෝජිතයින් සහ මුදල් අමාත්‍යංශයේ නියෝජිතයින් අතර විශේෂ සාකච්ඡාවක් අද (06) පැවැත්වීමට නියමිතව තිබේ.
+
+සෞඛ්‍ය වෘත්තීය සමිති සන්ධානයේ කැඳවුම්කරු රවී කුමුදේශ් මහතා සඳහන් කළේ, අද දහවල් 12ට මුදල් අමාත්‍යංශයේ දී මෙම සාකච්ඡාව පැවැත්වෙන බවය.
+
+සෞඛ්‍ය කාර්ය මණ්ඩලය සඳහා ආර්ථික යුක්තිය ඉටුකර ගැනීම සම්බන්ධයෙන් ජනාධිපතිවරයාගේ උපදෙස් පරිදි මෙම සාකච්ඡාව පැවැත්වෙන බව රවී කුමුදේශ් මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/66cdc01c.json)
+
+---
 
 ### Anura meets another boss in India
 
@@ -1290,6 +1350,20 @@ He also said that the train will start a 12.15 day from the Trincomalee railway 
 
 ---
 
+### හලාවත සිට කොළඹ එන්න සනත් නිශාන්ත තම රියදුරුට දී තිබූ කාලය විනාඩි 90යි
+
+*2024-02-05 19:58:34* · [`adalk`](https://www.ada.lk/breaking_news/හලාවත-සිට-කොළඹ-එන්න-සනත්-නිශාන්ත-තම-රියදුරුට-දී-තිබූ-කාලය-විනාඩි-90යි/11-407914) · `si`
+
+ජල සම්පාදන රාජ්‍ය අමාත්‍ය පුත්තලම දිස්ත්‍රික් පාර්ලිමෙන්තු මන්ත්‍රී සනත් නිශාන්ත මහතාට සහ ඔහුගේ ආරක්‍ෂක නිලාරීයාට මරු කැඳවු අනතුර වන අවස්ථාවේදී වී-8 වර්ගයේ සුඛෝපභෝගී ජීප් රථය පැදවු සනත් නිශාන්ත මහතාගේ රියදුරා ඇප මත මුදාහැරීමට වැලිසර මහෙස්ත්‍රාත් තුසිත ධම්මික උඩුවවිදාන මහතා අද (05) නියම කළේය‍.
+
+හලාවත සිට පැය 1 1/2ක කාලයක් තුළ කොළඹ පැමිණීය යුතු බවට සනත් නිශාන්ත මහතා පනවා තිබු නියෝගයක් හේතූවෙන් නිරන්තරයෙන් අධික වේගයෙන් තම සේවාදායකයාට රිය පැදවීමට සිදුවී තිබු බව කියමින් සනත් නිශාන්ත මහතාගේ රියදුරා වෙනුවෙන් නීතීඥ තමරා අබේරත්න මහත්මිය කළ ඇප ඉල්ලීම පිළිගනිමින් රුපියල් ලක්‍ෂ 05 බැගින් වටිනා ඇපකරුවන් දෙදෙනෙකුගේ ශරීර ඇප මත ඔහු මුදාහැරීමට නියම කළ මහෙස්ත්‍රාත්වරයා සැකකරුගේ රියදුරු බලපත්‍රය යළි නියෝගයක් කරනතුරු අත්හිටුවීමටද නියම කළේය.
+
+...
+
+[Data](articles/bf44f96e.json)
+
+---
+
 ### Man arrested for running notes
 
 *2024-02-05 19:50:45* · [`adalk`](https://www.ada.lk/breaking_news/හොර-නෝට්ටු-මුද්‍රණාලයක්-පවත්වාගෙන-ගිය-පුද්ගලයෙක්-අල්ලයි/11-407913) · `si`
@@ -1897,83 +1971,5 @@ During the inquiry, the Cinnamon Garden Police had submitted to the Fort Magistr
 [Data](articles/86f8409e.json)
 
 [Extended Data](ext_articles/86f8409e.ext.json)
-
----
-
-### Fowzie urges Bribery Commission to withdraw his corruption case
-
-*2024-02-05 17:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fowzie-urges-Bribery-Commission-to-withdraw-his-corruption-case/108-276354) · `en`
-
-Colombo, Feb 5 (Daily Mirror) - It transpired before Colombo High Court that Samagi Jana Balawegaya (SJB) parliamentarian A.H.M. Fowzie has requested the Bribery Commission to withdraw the indictment filed against him on corruption charges.
-
-President's Counsel Shavindra Fernando, appearing for Parliamentarian Fowzie, informed court that his client, through his lawyer, had requested the Bribery Commission to withdraw the indictment considering its maintainability.
-
-The Bribery Commission filed this corruption case against A.H.M. Fowzie for allegedly causing a Rs.1.07 million unlawful loss to the government by misusing a vehicle belonging to the Disaster Management Centre between 2010 and 2015.
-
-After the matter was called before Colombo High Court Judge Nawaratne Marasinghe, the case was fixed for April 29.
-
-...
-
-[Data](articles/f1582ca4.json)
-
-[Extended Data](ext_articles/f1582ca4.ext.json)
-
----
-
-### 3,000 schools with A/L will be digitized in March: Minister
-
-*2024-02-05 16:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/3-000-schools-with-AL-will-be-digitized-in-March-Minister/108-276353) · `en`
-
-Jaffna, Feb 5 (Daily Mirror) - With the aim of providing equal opportunities in education, a total of 3,000 schools with Advanced Level (A/L) classes will be digitized in March, Education Minister Susil Premajayantha said.
-
-While addressing an event at the Hindu College in Jaffna, he said the children will be given the opportunity to continue their educational activities by directly connecting with new technology.
-
-The Minister further mentioned that the training of teachers related to the digitalization of the 3,000 schools will start in March, and interactive boards will be provided to all the schools concerned.
-
-The Minister also pointed out that the computer resource centers established in every education zone have been updated.
-
-◼️
-
-[Data](articles/142a206a.json)
-
-[Extended Data](ext_articles/142a206a.ext.json)
-
----
-
-### Speech in the Cabinet of Santhan
-
-*2024-02-05 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/175639) · `ta`
-
-President Ranil Wickremesinghe has agreed to make the necessary arrangements to make the necessary arrangements for the bringing of Santhan to Sri Lanka, one of the arrested persons arrested in connection with the murder of former Indian Prime Minister Rajiv Gandhi.
-
-Minister Douglas Devananda has agreed with the President and the Minister of External Affairs during a Cabinet meeting held on Monday (05).
-
-◼️
-
-[Data](articles/46943ebe.json)
-
-[Extended Data](ext_articles/46943ebe.ext.json)
-
----
-
-### Sanath Nishantha’s driver granted bail
-
-*2024-02-05 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97020/sanath-nishanthas-driver-granted-bail-) · `en`
-
-The driver of late State Minister Sanath Nishantha, who was arrested over the fatal accident that claimed two lives including the lawmaker, was granted bail on Monday (05 Feb.).
-
-Accordingly, the driver was released on a personal bail of Rs. 500,000 on the orders of the Welisara Magistrate’s Court.
-
-The suspect had been arrested on 26 January and remanded until 05 February, on orders of the Welisara Magistrate’s Court after the police recorded a statement from him with regard to the fatal crash.
-
-On 25 January, Sanath Nishantha’s vehicle had crashed against the roadside barrier on the Katunayake Expressway, after rear-ending a moving container truck at around 02:00 a.m., according to police.
-
-Following the fatal collision, three injured persons, including the State Minister, were rushed to the Colombo North Teaching Hospital in Ragama, but the lawmaker and his security guard, identified as a police constable attached to his security detail, had later succumbed to their injuries.
-
-◼️
-
-[Data](articles/ad0d500b.json)
-
-[Extended Data](ext_articles/ad0d500b.ext.json)
 
 ---

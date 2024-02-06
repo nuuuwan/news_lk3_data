@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 19:17:27**
+As of **2024-02-06 19:32:50**
 
 ## Newspaper Stats
 
@@ -26,27 +26,31 @@ dailymirrorlk | 742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,234 (99.9%) of 5,237 articles have been extended.
+5,237 (100.0%) of 5,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
 
-### பாலியல் இலஞ்சம் கேட்ட முகாமையாளருக்கு விளக்கமறியல்
+### Explanation for the manager who heard sexual bribery
 
 *2024-02-06 18:40:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலியல்-இலஞ்சம்-கேட்ட-முகாமையாளருக்கு-விளக்கமறியல்/175-332783) · `ta`
 
-சம்பளத்தை அதிகரிப்பதற்காக ஹோட்டல் ஒன்றில் குமாஸ்தாவாக பணியாற்றும் இளம் பெண்ணிடம்பாலியல் இலஞ்சம் கோரியதாக கூறப்படும் தம்புள்ளை ஹோட்டல் குழுமத்தின் மனித வள முகாமையாளரான 59 வயதுடைய நபரை எதிர்வரும் 16ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு பிரதான நீதவான்  பிரசன்ன அல்விஸ் செவ்வாய்க்கிழமை (06) உத்தரவிட்டுள்ளார்.
+Colombo Chief Magistrate Prasanna Alwis on Tuesday (06) has ordered a 59 -year -old man of the Human Resources Manager of the Dambulla Hotel Group, who is alleged to have been accused of bribing a young woman who works as a clerk at a hotel to increase his salary.
 
-2023 ஆம் ஆண்டு 09 ஆம் இலக்க ஊழல் தடுப்புச் சட்டத்தின் 47(5) பிரிவின் பிரகாரம் தனியார் துறையில் இலஞ்சம் பெற்றமை தொடர்பான முதலாவது வழக்கின் பிரகாரம் சந்தேகநபர் நீதிமன்றில் முன்னிலைப்படுத்தப்படவுள்ளதாக இலஞ்சம் மற்றும்  ஊழல் பற்றிய சாத்துதல்களை விசாரணை செய்யும் ஆணைக்குழு தெரிவித்துள்ளது.
+The Commission to Investigate Bribery and Corruption has said that the suspect will be presented in the first case of bribery in the private sector, according to Article 47 (5) of the Corruption Act No. 09, 2023.
 
-2023 ஓகஸ்ட் மாதம் நிறைவேற்றப்பட்ட இச்சட்டத்தின் 162ஆவது பிரிவின் பிரகாரம், பாலியல் துன்புறுத்தல் குற்றத்தைச் செய்ததற்காக சந்தேக நபர் கைது செய்யப்பட்டதாக ஆணைக்குழுவின் உதவிப் பணிப்பாளர் திருமதி சம்பந்தப்பெரும தெரிவித்தார்.
+According to Article 162 of the Act, which was passed in August 2023, the Assistant Director of the Commission Mrs. Sampanthapperuma said that the suspect was arrested for committing sexual harassment.
 
-இளம் பணிப்பெண்ணுக்கு 75 சதவீத கொடுப்பனவு வழங்கவும், சம்பளத்தை அதிகரிக்கவும் சந்தேக நபர் பாலியல் இலஞ்சம் கோரியதாக முறைப்பாட்டாளர் தெரிவித்துள்ளார்.
+The complainant said the suspect had sexually bribed the young maid to pay a 75 percent allowance and increase his salary.
+
+Accordingly, the suspect was arrested when the woman invited her to book the hotel room in Habarana.
 
 ...
 
 [Data](articles/d09ac9ae.json)
+
+[Extended Data](ext_articles/d09ac9ae.ext.json)
 
 ---
 
@@ -86,6 +90,8 @@ The vessel is currently conducting marine geophysical surveys in the southwester
 
 [Data](articles/59d60031.json)
 
+[Extended Data](ext_articles/59d60031.ext.json)
+
 ---
 
 ### Health trade unions temporarily postpone strike planned for tomorrow
@@ -103,6 +109,8 @@ Expressing that they will closely monitor the decision of the committee, the Hea
 ◼️
 
 [Data](articles/b24485ee.json)
+
+[Extended Data](ext_articles/b24485ee.ext.json)
 
 ---
 

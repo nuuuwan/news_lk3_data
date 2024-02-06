@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 15:32:44**
+As of **2024-02-06 15:51:12**
 
 ## Newspaper Stats
 
-*Scraped **5,165** Articles*
+*Scraped **5,166** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 290
 newsfirstlk | 316
 adalk | 441
 virakesarilk | 607
-adaderanalk | 638
+adaderanalk | 639
 tamilmirrorlk | 651
 adaderanasinhalalk | 672
 dailymirrorlk | 733
@@ -26,11 +26,33 @@ dailymirrorlk | 733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,164 (100.0%) of 5,165 articles have been extended.
+5,165 (100.0%) of 5,166 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### Keheliya resigns as Environment Minister
+
+*2024-02-06 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97047/keheliya-resigns-as-environment-minister-) · `en`
+
+SLPP MP Keheliya Rambukwella, who is currently in remand custody, has tendered his resignation as the Minister of Environment.
+
+Accordingly, he had submitted his letter of resignation as the Minister of Environment to President Ranil Wickremesinghe, who has accepted the resignation.
+
+The former Health Minister was remanded on 03 February, following his arrest by the Criminal Investigation Department (CID) on 02 February, in connection with the procurement of substandard human intravenous immunoglobulin (IVIG).
+
+Later that day he was admitted to the Prison Hospital on medical recommendation.
+
+The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
+
+Prior to the apprehension of Rambukwella, seven arrests had been made in connection with the drug procurement scam. But the fifth accused was later released on bail.
+
+...
+
+[Data](articles/9a70f378.json)
+
+---
 
 ### Keheliya resigns
 
@@ -1130,21 +1152,23 @@ Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
 
 ---
 
-### රාමසාන් කාලයේ ඉස්ලාම් රාජ්‍ය සේවකයන්ට සහනයක්
+### Relief for Islam Public Servants in Ramazan
 
 *2024-02-06 11:17:32* · [`adalk`](https://www.ada.lk/breaking_news/රාමසාන්-කාලයේ-ඉස්ලාම්-රාජ්‍ය-සේවකයන්ට-සහනයක්/11-407923) · `si`
 
-රාමසාන් සමයේ දී මුස්ලිම් රාජ්‍ය සේවකයින් සඳහා ආගමික වතාවත්වල යෙදීමට හැකි වන පරිදි වැඩමුර සකස් කර දෙන ලෙස රාජ්‍ය පරිපාලන අමාත්‍යංශය සියලු රාජ්‍ය ආයතන වෙත චක්‍ර ලේඛයක් මගින් දැනුම් දී ඇත.
+The Ministry of Public Administrationministration has informed the Ministry of Public Administration and the Ministry of Public Administration and the Ministry of Public Administration towards Muslim Public servants to be used for the Ramazan.
 
-මෙවර රාමසාන් සමය මාර්තු 12 වන දින සිට අප්‍රේල් 11 වන දින දක්වා පැවැත්වීමට නියමිත බැවින් එම කාල සීමාව තුළ මුස්ලිම් රාජ්‍ය සේවකයින්ට ආගමික වතාවත්වල යෙදීමට හැකිවන පරිදි වැඩමුර සකස් කර දිය යුතු බව අදාළ චක්‍රලේඛයේ සඳහන්ය.
+The Ramadan Season is scheduled to be held from March 12 to April 11
 
-නොවැළැක්විය හැකි අවස්ථාවලදී පමණක් විශේෂ නිවාඩු අනුමත කරදෙන ලෙස ද රාජ්‍ය පරිපාලන අමාත්‍යංශය නිකුත් කළ චක්‍රලේඛයේ සඳහන් ය.
+The Ministry of Public Administration has issued the approval of the Public Administration and the Public Administration and the Public Administration.
 
-රාමසාන් අවසන් වීමට දින 14කට පෙර රාජ්‍ය සේවයේ රාජ්‍ය සංස්ථා හා ව්‍යවස්ථාපිත මණ්ඩලවල සුදුසුකම් ඇති මුස්ලිම් නිලධාරීන් සඳහා උත්සව අත්තිකාරම් ලබාදීමට ද කටයුතු කරන ලෙස රාජ්‍ය පරිපාලන අමාත්‍යංශය වැඩිදුරටත් දැනුම් දී තිබේ.
+The Ministry of Public Administration has also informed the Public Administration and the Public Administration Board of Public Corporations and Statutory Boards for the end of Ramadan.
 
 ◼️
 
 [Data](articles/0671e56c.json)
+
+[Extended Data](ext_articles/0671e56c.ext.json)
 
 ---
 
@@ -2053,35 +2077,5 @@ Angel Ven.
 [Data](articles/59d73016.json)
 
 [Extended Data](ext_articles/59d73016.ext.json)
-
----
-
-### Woman murdered
-
-*2024-02-06 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193024) · `si`
-
-A dispute on a casual affair has been assaulted by a sharp weapon with a sharp weapon.
-
-The murder was held in the evening yesterday at a house in the Suriyawewa police division.
-
-The deceased has been identified as a 37 year old resident of the Sooriyawewa area in West.
-
-The murder had taken place due to a dispute over the casual affair between the deceased and the suspect.
-
-Sooriyawewa Police are conducting further investigations to arrest the murder.
-
-Meanwhile, two persons who were traveling in a motorbike have been attacked with a sharp instrument by two persons who had been traveling in a motorcycle in Udaneragama.
-
-The two persons who traveled on the motorcycle were the roadside and attacked with a robbery and was attacked with a sharp weapon.
-
-The injured have been admitted to the Kurunegala Hospital and is currently receiving treatment.
-
-The injured were residents of Gokarella area, aged 39 and 53 years.
-
-◼️
-
-[Data](articles/7a190710.json)
-
-[Extended Data](ext_articles/7a190710.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 21:02:40**
+As of **2024-02-06 21:17:29**
 
 ## Newspaper Stats
 
-*Scraped **5,246** Articles*
+*Scraped **5,250** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 278
 dailyftlk | 290
 newsfirstlk | 326
 adalk | 449
-virakesarilk | 618
+virakesarilk | 621
 adaderanalk | 651
-tamilmirrorlk | 657
+tamilmirrorlk | 658
 adaderanasinhalalk | 680
 dailymirrorlk | 745
 
@@ -26,33 +26,87 @@ dailymirrorlk | 745
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,243 (99.9%) of 5,246 articles have been extended.
+5,246 (99.9%) of 5,250 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
 
-### විල්පත්තුවේ තවත් වන විනාශයක් සොයන්න ගිය පාහියන්ගල හිමිට ජනතා විරෝධය
+### அதிரடி சோதனையில் சிக்கிய 50 பேக்கரிகள்
+
+*2024-02-06 20:50:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிரடி-சோதனையில்-சிக்கிய-50-பேக்கரிகள்/175-332785) · `ta`
+
+நுகர்வோர் விவகார அதிகாரசபை நேற்று (05) ஆரம்பிக்கப்பட்ட சோதனைகளில் சுமார் 50 பேக்கரிகள் மீது வழக்கு தொடரப்படும் என தெரிவிக்கப்பட்டுள்ளது.
+
+பேக்கரிகள் மற்றும் கடைகளில் நடத்தப்பட்ட சோதனைகளின் போது, ​​நிர்ணயிக்கப்பட்ட எடை மற்றும் விலையை காட்டாத சுமார் 50 பேக்கரிகள் மீது சோதனை நடத்தப்பட்டு, அந்த பேக்கரிகளுக்கு எதிராக வழக்கு தொடரப்படும் என தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/0f49b4b2.json)
+
+---
+
+### People's opposition to Phiyiangala owner to seek another destruction of Wilpattu
 
 *2024-02-06 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193055) · `si`
 
-පූජ්‍ය පාහියන්ගල ආනන්දසාගර හිමි ඇතුලු පිරිසක් සහ රාජාංගනය යාය 18 ප්‍රදේශයේ ගම්වාසීන් පිරිසක් අතර අද (06) ගැටුම්කාරී තත්වයක් හටගෙන තිබුණි.
+A group of people including Ven. Pharayangala Ananda and Rajanganaya were among the clashes.
 
-ඒ, කෝමාරිකා වගාවක් සිදුකරන මුවාවෙන් විල්පත්තුව වන රක්ෂිතය අනවසරයෙන් හෙළිපෙහෙලි කරන බවට ලැබුණු තොරතුරක් ගැන විමසා බැලීම සඳහා ගිය අවස්ථාවේදීය.
+The Wilpattu forest reserve was inquired at the pretext of aloe cultivation.
 
-ඒ අනුව පූජ්‍ය පාහියන්ගල ආනන්දසාගර හිමි ඇතුලු පිරිසක් පළමුවෙන් කලා ඔය අඩවි ආරක්ෂක කාර්යාලය වෙත පැමිණ තිබුණි.
+Accordingly, Ven. Phaniiyagala Anandahajara owns were first, according to Ven.
 
-කෙසේවෙතත් තම ගැටලුවට විසඳුමක් නොලැබීම හේතුවෙන් ස්වාමීන් වහන්සේ ඇතුළු පිරිස කෝමාරිකා වගා කළ භූමිය නිරීක්ෂණ කිරීම සඳහා පසුව පිටත්වී තිබුණි.
+However, as their problem was not solved, the Lord and others departed to observing the land where aloe was cultivated.
 
-එහිදී කෝමාරිකා වගා භූමියට පිවිසෙන මාර්ගයේ රැඳීසිටි ගම්වාසින් උන්වහන්සේ ගමන් කළ රථය අවහිර කරමින් දැඩි විරෝධයක් පළ කළේය.
+The villagers who stayed on the pathway to the aloe area were strongly objected to the traveled vehicle.
 
-එහිදී ගම්වාසීන්ගෙන් එම පිරිසට පහරදීමක් සිදුවූ අතර ස්වාමීන් වහන්සේ සමග මාධ්‍යවේදීන් ගමන් ගත් මෝටර් රථයකට ද පහරදීමක් සිදුවී තිබේ.
+The villagers attacked the villagers and a car was assaulted by a journalists with the monk.
 
-ඒ අනුව ස්වාමීන් වහන්සේ ගම්වාසීන් සමග සාකච්ඡාවක නිරතවීමෙන් අනතුරුව එම ස්ථානයෙන් පිටත්ව ගිය අතර සිද්ධිය පිළිබඳ වැඩිදුර විමර්ශන රාජාංගනය පොලීසිය විසින් සිදුකරනු ලබයි.
+Accordingly, the monk was leaving the village and left the place and Rajanganaya Police are conducting further investigations.
 
-...
+Then Ven. Phasangala Anandalera owners and others visited Mihintale police station and lodged a complaint with the incident.
+
+Mihintale leader Walawagenu Wewa Dammaratana The request of Pahiyangala owners.
+
+He was telephoned by Mihintale leader Tiran Alles and Acting Insolptory to Deshaband Tennakoon.
+
+◼️
 
 [Data](articles/3be447f8.json)
+
+[Extended Data](ext_articles/3be447f8.ext.json)
+
+---
+
+### பாணின் எடையைக் குறிப்பிடாத 50 பேக்கரிகள் மீது வழக்குத் தாக்கல்!
+
+*2024-02-06 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175741) · `ta`
+
+பாணின் நிர்ணயிக்கப்பட்ட எடைக்கான வர்த்தமானி வெளியிடப்பட்டதையடுத்து, நுகர்வோர் விவகார அதிகார சபை நேற்று (05)  முதல் சோதனைகளை ஆரம்பித்துள்ளது.
+
+இதனையடுத்து நிர்ணயிக்கப்பட்ட எடை மற்றும் விலையைக் காட்டாத சுமார் 50 பேக்கரிகள் சோதனையிடப்பட்டு  அவற்றுக்கு எதிராக வழக்கு தொடரப்படும் என நுகர்வோர் விவகார அதிகார சபை தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/548e4ad1.json)
+
+---
+
+### பூநகரியில் காணிகள் இல்லாதோருக்கு காணிகள் - அமைச்சர் டக்ளஸ்
+
+*2024-02-06 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175739) · `ta`
+
+காணியற்ற மக்களுக்கு காணிகளை பகிர்ந்தளித்து மரமுந்திரிகை செய்கையில் அவர்களை ஊக்குவிப்பதற்கு அமைச்சர் டக்ளஸ் தேவானந்தாவினால் நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளது.
+
+பூநகரி, ஜெயபுரம் பகுதியில்  மரமுந்திரிகை கூட்டுத்தாபனத்தின் கட்டுப்பாட்டிலுள்ள சுமார் 472 ஏக்கர் காணிகளே கிளிநொச்சி மாவட்ட ஒருங்கிணைப்புக் குழுவின் தலைவர் அமைச்சர் டக்ளஸ்  தேவானந்தாவின் முயற்சியினால்,  பிரதேசத்தினை சேர்ந்த காணிகளற்ற மக்களுக்கு பகிர்ந்தளிக்கப்படவுள்ளது.
+
+அதுமாத்திரமன்றி, காணிகளைப் பெற்றுக் கொள்வோர் மரமுந்திரிகை செய்கையில் ஈடுபடுவதற்கான ஒத்துழைப்புக்களை வழங்கவுள்ள மரமுந்திரிகை கூட்டுத்தாபனம், அறுவடை செய்யப்படும் விளைச்சலை நியாயமான விலைக்கு கொள்வனவு செய்வதற்கும் தீர்மானித்துள்ளது.
+
+அமைச்சர் டக்ளஸ் தேவானந்தாவின் இந்நடவடிக்கை மூலம் பூநகரி, ஜெயபுரம் பகுதியை சேர்ந்த சுமார் 100 குடும்பங்கள் நேரடியாக பொருளாதார நன்மைகளை பெற்றுக் கொள்ள இருப்பதுடன், கிளிநொச்சி மற்றும் முல்லைத்தீவு மாவட்டங்களில் மரமுந்திரிகை பதனிடும்  தொழிலில் ஈடுபட்டுள்ளோருக்கு தேவையான மூலப் பொருட்கள் நியாயமான விலையில் தாராளமாக கிடைக்கவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/5502b30f.json)
 
 ---
 
@@ -76,21 +130,41 @@ Keheliya had set the wrong example to society, and he had been imprisoned. There
 
 ---
 
-### திருத்தவோ ஏற்கவோ எனக்கு அதிகாரம் இல்லை;சபாநாயகர்
+### காலநிலை அனர்த்தங்களை மட்டுப்படுத்த பிராந்தியத்தின் ஒத்துழைப்பு அவசியம் - ஜனாதிபதி
+
+*2024-02-06 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175740) · `ta`
+
+காலநிலை அனர்த்தங்களுக்கு தீர்வுகளை தேடுவதற்கு பிராந்திய மற்றும் சர்வதேச அளவிலான முயற்சிகளுக்கு இலங்கை முழுமையான ஆதரவை வழங்குமென ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+அதற்காக இலங்கையில் சர்வதேச காலநிலைப் பல்கலைக்கழகம் ஒன்றை அமைக்க தீர்மானித்திருப்பதாகவும்,  ஆசிய மற்றும் ஆபிரிக்க வலயங்களின் காலநிலை சவால்களுக்கு ஈடுகொடுப்பதற்கான முக்கியமான பணியை அதனால் ஆற்ற முடியும் எனவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+மேலும், அண்மையில் டுபாயில் நடைபெற்ற ஐக்கிய நாடுகளின் காலநிலை மாற்றம் தொடர்பான சர்வதேச மாநாடான COP 28 இல் ஆசிய வெப்ப வலயத்தை  கார்பன் உமிழ்வு பிரதேசமாக மாற்றுவது தொடர்பிலான இலங்கையின் முன்மொழிவையும் நினைவு கூர்ந்தார்.
+
+கொழும்பு கோல்பேஸ் ஹோட்டலில் செவ்வாய்க்கிழமை (06) நடைபெற்ற தெற்காசிய ஹைட்ரோமெட் மன்றம் 2024 இன் ஆரம்ப நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத் தெரிவித்தார்.
+
+...
+
+[Data](articles/c8542ff7.json)
+
+---
+
+### I do not have the authority to revise or accept; the Speaker
 
 *2024-02-06 19:46:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருத்தவோ-ஏற்கவோ-எனக்கு-அதிகாரம்-இல்லை-சபாநாயகர்/175-332784) · `ta`
 
-ஒன்லைன் பாதுகாப்புச் சட்டத்தில் உயர் நீதிமன்றம் உட்பட எவரும் திருத்தங்களை ஏற்கவோ அல்லது நிராகரிக்கவோ தனக்கு அதிகாரம் இல்லை என்றும், அதற்கான முழு அதிகாரமும் பாராளுமன்றத்திற்கே உள்ளது என்றும் சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தெரிவித்துள்ளார்.
+Speaker Mahinda Yapa Abeywardena has said that no one, including the Supreme Court in the Online Security Act, has no authority to accept or reject amendments.
 
-ஒன்லைன் பாதுகாப்பு சட்டமூலத்தை நிறைவேற்றியதில் அரசியலமைப்பை மீறியதாக குற்றம் சுமத்திய எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச உள்ளிட்ட எதிர்க்கட்சி உறுப்பினர்கள் தெரிவித்த கருத்துக்கள் தொடர்பில் சபாநாயகர் இவ்வாறு குறிப்பிட்டார்.
+The Speaker made these comments on the comments made by opposition members including Opposition Leader Sajith Premadasa, who accused the Constitution of passing the Constitution in the passage of the Online Security Bill.
 
-பாராளுமன்றத்தின் சட்டமியற்றும் நடவடிக்கை சட்டமா அதிபர் திணைக்களம் சட்ட வரைவாளர் திணைக்களம் ஆகியவற்றுடன் இணைந்து முன்னெடுக்கப்படுவதால் உயர்நீதிமன்றத்தின் தீர்மானத்திற்கு மாறாக அல்லது அரசியலமைப்பிற்கு முரணாக செயற்படுவதற்கான வாய்ப்புகள் இல்லை என சபாநாயகர் அலுவலகமும் தெரிவித்துள்ளது.
+The Speaker's Office has also said that the legislative action of Parliament is being carried out in collaboration with the Attorney General's Department and the Department of Law Draft.
 
-உயர் நீதிமன்றத்தின் எந்தெந்த பரிந்துரைகள்  புறக்ககணிக்கப்பட்டன என்பதை சம்மந்தப்பட்ட உறுப்பினர்கள் தெரிவித்தால், உரிய அதிகாரிகள் அதற்கு பதிலளிப்பார்கள். மேற்குறிப்பிட்ட விடயங்களில் சபாநாயகருக்கு விருப்புரிமை இல்லை எனவும் சபாநாயகர் அலுவலகம் தெரிவித்துள்ளது.
+If the Members of the Supreme Court report on what recommendations of the High Court, the relevant authorities will respond to it. The Speaker's Office said that the Speaker has no right to be preferred on the above issues.
 
 ...
 
 [Data](articles/b6747acd.json)
+
+[Extended Data](ext_articles/b6747acd.ext.json)
 
 ---
 
@@ -107,6 +181,8 @@ As such, the committee will undertake deliberations to offer a comprehensive res
 ◼️
 
 [Data](articles/72091447.json)
+
+[Extended Data](ext_articles/72091447.ext.json)
 
 ---
 
@@ -1875,77 +1951,5 @@ The Indian Foreign Ministry of India, Australian Foreign and Commerce, Singapore
 [Data](articles/9754e4b4.json)
 
 [Extended Data](ext_articles/9754e4b4.ext.json)
-
----
-
-### No proposal about hemp came about - Bandula
-
-*2024-02-06 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193042) · `si`
-
-Cabinet spokesman Minister Bandula Gunawardena says that the Cabinet has not yet been submitted to the Cabinet.
-
-However, Minister of Tourism Diana Gamage, however, said that Cabinet approval has been approved for a proposal to be submitted to the Cabinet.
-
-Minister Bandula Gunawardena added that the state minister is not a cabinet minister and is not responsible for her statement.
-
-◼️
-
-[Data](articles/3a19fdcc.json)
-
-[Extended Data](ext_articles/3a19fdcc.ext.json)
-
----
-
-### Man hacked to death in Tangalle
-
-*2024-02-06 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97040/man-hacked-to-death-in-tangalle) · `en`
-
-A person has been hacked to death with sharp weapons in the Kudawella area of Tangalle.
-
-The deceased person has been identified as a 50-year-old father-of-one, the police said.
-
-Police suspect that the motive behind the murder was a personal dispute.
-
-◼️
-
-[Data](articles/310a11f4.json)
-
-[Extended Data](ext_articles/310a11f4.ext.json)
-
----
-
-### Was invited by President for Urumya land distribution ceremony: Gayantha
-
-*2024-02-06 12:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Was-invited-by-President-for-Urumya-land-distribution-ceremony-Gayantha/108-276424) · `en`
-
-Colombo, Feb 6 (Daily Mirror) - Samagi Jana Balawegaya MP Gayantha Karunathileke said he attended the state ceremony to distribute land to the poor following an official invitation he had received from President Ranil Wickremeisnghe.
-
-“I was invited by the President and the government and I thought it was correct for me to participate in the ceremony as I am a former Minister in charge of lands. I was the one who submitted a Cabinet Paper to distribute land for the poor during the Yahapalana government. However, a certain party went to courts and stopped our programne. I was invited to the ceremony as a pioneer of the programme,” MP Karunathileke told the Daily Mirror.
-
-“Both President Wickremesinghe and the incumbent Minister of Lands Harin Fernando correctly told the ceremony that it was I who pioneered the programme,” he added.
-
-...
-
-[Data](articles/4e0528bd.json)
-
-[Extended Data](ext_articles/4e0528bd.ext.json)
-
----
-
-### President invited me for Urumya land distribution ceremony: Gayantha
-
-*2024-02-06 12:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-invited-me-for-Urumya-land-distribution-ceremony-Gayantha/108-276424) · `en`
-
-Colombo, Feb 6 (Daily Mirror) - Samagi Jana Balawegaya MP Gayantha Karunathileke said he attended the state ceremony to distribute land to the poor following an official invitation he had received from President Ranil Wickremeisnghe.
-
-“I was invited by the President and the government and I thought it was correct for me to participate in the ceremony as I am a former Minister in charge of lands. I was the one who submitted a Cabinet Paper to distribute land for the poor during the Yahapalana government. However, a certain party went to courts and stopped our programne. I was invited to the ceremony as a pioneer of the programme,” MP Karunathileke told the Daily Mirror.
-
-“Both President Wickremesinghe and the incumbent Minister of Lands Harin Fernando correctly told the ceremony that it was I who pioneered the programme,” he added.
-
-...
-
-[Data](articles/8c93ffd2.json)
-
-[Extended Data](ext_articles/8c93ffd2.ext.json)
 
 ---

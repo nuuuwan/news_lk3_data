@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 17:53:12**
+As of **2024-02-06 18:08:42**
 
 ## Newspaper Stats
 
-*Scraped **5,199** Articles*
+*Scraped **5,205** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 140
 economynextcom | 266
 islandlk | 278
 dailyftlk | 290
-newsfirstlk | 321
-adalk | 443
+newsfirstlk | 325
+adalk | 444
 virakesarilk | 613
 adaderanalk | 645
-tamilmirrorlk | 653
+tamilmirrorlk | 654
 adaderanasinhalalk | 677
 dailymirrorlk | 740
 
@@ -26,11 +26,47 @@ dailymirrorlk | 740
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,199 (100.0%) of 5,199 articles have been extended.
+5,205 (100.0%) of 5,205 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### Over 28,000 Tourist Arrivals in First Week of Feb
+
+*2024-02-06 17:20:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/over-28-000-tourist-arrivals-in-first-week-of-feb/) · `en`
+
+COLOMBO – (News 1st); The Sri Lanka Tourism Development Authority (SLTDA) reported 28,493 tourist arrivals from the 1st of February to the 4th of February.
+
+Accordingly, from the arrivals, the Russian Federation and India leaded a cumulative total of 30% of the arrivals in the first week of February.
+
+The number of tourist arrivals from 01 January 2024 to 4th of February has been calculated to 236,746 arrivals by the SLTDA.
+
+◼️
+
+[Data](articles/0ad7dcce.json)
+
+[Extended Data](ext_articles/0ad7dcce.ext.json)
+
+---
+
+### AKD & Co, Meets ORF & UIDAI in Delhi
+
+*2024-02-06 17:13:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/akd-co-meets-orf-uidai-in-delhi/) · `en`
+
+COLOMBO (News 1st); A delegation from the Jathika Jana Balawegaya (JJB), led by party leader Anura Kumara Dissanayake, is currently on an official visit to India. Today, the delegation engaged in key meetings with prominent Indian organizations focused on policy and governance.
+
+The JJB delegation met with representatives of the Observer Research Foundation (ORF), a leading global think tank based in New Delhi. The ORF provides research and advisory services on a wide range of policy issues to Indian policymakers and businesses.
+
+Following the discussion at ORF, the JJB delegation visited the headquarters of the Unique Identification Authority of India (UIDAI) in New Delhi. UIDAI is responsible for managing Aadhaar, India's national identity card system, which assigns a unique 12-digit identification number to all Indian residents.
+
+◼️
+
+[Data](articles/bbd19475.json)
+
+[Extended Data](ext_articles/bbd19475.ext.json)
+
+---
 
 ### The Archestra, who destroyed lives
 
@@ -47,6 +83,48 @@ He had said that they could go to heaven before the end of the world.
 [Data](articles/bd3e5d0e.json)
 
 [Extended Data](ext_articles/bd3e5d0e.ext.json)
+
+---
+
+### Sri Lanka Accelerates FTA Talks with Asian Giants
+
+*2024-02-06 16:59:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/sri-lanka-accelerates-fta-talks-with-asian-giants/) · `en`
+
+COLOMBO (News 1st); Sri Lanka is prioritizing the establishment of Free Trade Agreements (FTAs) with key Asian economies, aiming to boost exports, diversify trade partnerships, and build a more resilient economic future.
+
+Speaking at a press briefing titled “Collective Path to a Stable Country” held at the President Media Centre (PMC) today (06), Minister Sabry elaborated on the government’s plans to establish FTAs with India, Indonesia, Malaysia, Vietnam, and China by the end of 2024.
+
+He expressed optimism that these agreements will open up new markets for Sri Lankan businesses, contributing directly to the nation’s economic growth.
+
+Minister Sabry highlighted the recent FTA with Thailand as a historic step towards achieving President Wickremesinghe’s vision of a stable economy. He emphasized that this agreement has already provided Sri Lanka access to a USD 2.2 billion market, representing a significant advancement.
+
+...
+
+[Data](articles/5772266b.json)
+
+[Extended Data](ext_articles/5772266b.ext.json)
+
+---
+
+### Gazette Confirms Rambukwella’s Resignation
+
+*2024-02-06 16:50:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/gazette-confirms-rambukwella-s-resignation/) · `en`
+
+COLOMBO (News 1st); The gazette notice delcaring the resignation of Keheliya Rambukwella from the post of Minister of Environment was published by the Department of Government Printing on Tuesday (6) afternoon.
+
+Keheliya Rambukwella, has formally resigned from his position, effective February 3rd, according to a gazette notice issued by the President's Secretary.
+
+The resignation comes amidst ongoing investigations and accusations against Rambukwella related to a controversial fake human immunoglobulin procurement scandal during his previous term as Minister of Health.
+
+According to the gazette, signed by the President's Secretary, Rambukwella's resignation took effect on February 3rd, following the President's acceptance of his resignation letter.
+
+This development coincides with Rambukwella's current remand status, ordered by the Maligakanda Magistrate's Court on the same day.
+
+...
+
+[Data](articles/f18dfb84.json)
+
+[Extended Data](ext_articles/f18dfb84.ext.json)
 
 ---
 
@@ -317,6 +395,24 @@ The attack on the Trincomalee Prison on the 2nd of this month was injured and th
 [Data](articles/a9a7806c.json)
 
 [Extended Data](ext_articles/a9a7806c.ext.json)
+
+---
+
+### Maskeliya person killed in Avissawel
+
+*2024-02-06 15:49:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவிசாவளை-வெடிப்பில்-மஸ்கெலிய-நபர்-பலி/175-332766) · `ta`
+
+A 49 -year -old man from Maskeliya has died in an explosion on Tuesday afternoon at a center for collection of old iron in Madola area in Avissawella.
+
+The man, who was injured in the explosion, died after being admitted to the Avissawella Hospital, police said.
+
+The police said that the death of the deceased had been placed at the Avissawella Hospital, and that the Criminal Investigation Department and the officials of the State Chemical Analysis Department had gone to the site of the police.
+
+◼️
+
+[Data](articles/79881619.json)
+
+[Extended Data](ext_articles/79881619.ext.json)
 
 ---
 
@@ -1075,6 +1171,28 @@ Colombo, Feb 6 (Daily Mirror) - Samagi Jana Balawegaya MP Gayantha Karunathileke
 [Data](articles/8c93ffd2.json)
 
 [Extended Data](ext_articles/8c93ffd2.ext.json)
+
+---
+
+### Fifth Church of 9th Parliament begins tomorrow
+
+*2024-02-06 12:54:17* · [`adalk`](https://www.ada.lk/breaking_news/09-වන-පාර්ලිමේන්තුවේ-පස්වැනි-සභාවාරය-හෙට-ඇරඹේ/11-407926) · `si`
+
+The 5th Committee of the 9th Parliament is to be opened by President Ranil Wickremesinghe.
+
+The President's policy statement will be presented to Parliament by holding in parliament at 10.30 am tomorrow.
+
+President Ranil Wickremesinghe was completed by the end of the night of the 26th of January.
+
+Accordingly, the post of postponement on the government's policy statement to be presented to Parliament tomorrow will be held on the late 8 and 09.
+
+It is reported that the opening ceremony of the Parliament has been conducting the occasional and chat.
+
+◼️
+
+[Data](articles/71a49cc0.json)
+
+[Extended Data](ext_articles/71a49cc0.ext.json)
 
 ---
 
@@ -1839,121 +1957,5 @@ The delegation is sheduled to enage in discussions about the functioning of the 
 [Data](articles/4749d52d.json)
 
 [Extended Data](ext_articles/4749d52d.ext.json)
-
----
-
-### Presidential election October 1st week - Harin
-
-*2024-02-06 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193035) · `si`
-
-Travel and Sports Minister Harin Fernando says the Presidential election will be held at the first week of October.
-
-Speaking to the media, the Minister further stated that a new president should be appointed by October 14.
-
-The Minister also said that President Ranil Wickremesinghe is also present at the next presidential election.
-
-◼️
-
-[Data](articles/e1ff5017.json)
-
-[Extended Data](ext_articles/e1ff5017.ext.json)
-
----
-
-### 'Estate' changes to 'free villages'
-
-*2024-02-06 10:58:01* · [`adalk`](https://www.ada.lk/breaking_news/’වත්ත’-’නිදහස්-ගම්මාන’-ලෙස-වෙනස්-කරයි/11-407922) · `si`
-
-Since the establishment of the plantation industry in Sri Lanka, the following country has decided to name the Village of League.
-
-The New Program has commenced in parallel to the seventy-sixth Independence Day.
-
-He said that this was taken to provide honor to the people of these villages, which live in these villages who live in the country's economy.
-
-Human Rights Commissioner PLCs to commence Divi Ayuru Watta. A large number of villagers including the President of the Lioge Gunian, Association of Lionel Guniyangoda, Lioge Guniyagoda, Chairman of the Lioge Gunian, Department of Lioge Guniyangoda, of the Department of Lioge Guniyangoda, Lioge Estate Workers Union, Lioge Guniangoda, Chairman of the Lioge Estate Workers Unlocation of Lionel Guniyangoda, Chairman of the Tamil Guniyanggoda, of the Lioge Guniangoda, Department of Lioge Guniangoda, Lioge Guniangoda, Lioge Guniyanggoda, Chairman of the Lioge Estate Workers Association of Lionel Guniyanggoda.
-
-...
-
-[Data](articles/24d45bfe.json)
-
-[Extended Data](ext_articles/24d45bfe.ext.json)
-
----
-
-### 14 -month -old baby dies of fever
-
-*2024-02-06 10:52:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/காய்ச்சலினால்-14-மாத-குழந்தை-உயிரிழப்பு/71-332750) · `ta`
-
-In the jaffna. A 14 -month -old baby suffering from a two -day fever has died without treatment.
-
-Raghuram Chandra, a 14 -month -old baby, who was receiving treatment at the Jaffna Bodhana Hospital, died yesterday.
-
-When parents took her to a private hospital last Sunday due to a fever, the baby was in Jaffna due to the intensity of the fever. Parents were admitted to the Jaffna Bodhana Hospital after the teaching hospital was instructed.
-
-The baby died without treatment.R
-
-◼️
-
-[Data](articles/17612cb4.json)
-
-[Extended Data](ext_articles/17612cb4.ext.json)
-
----
-
-### Japanese treasurers lose crowd because of illicit affair
-
-*2024-02-06 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193034) · `si`
-
-A young girl named Carolina Shaino, a married relationship with a married person, has been handed over to the crown of Japan.
-
-Japan reported a tabloid newspaper of Japan about her casual relationship.
-
-The Tabloid newspaper, "Shukan Bunshun" was found that Zino was a relationship with a married physician and she had lied to the organizers of the match.
-
-There she had said that the man was married.
-
-However, with the claim of the Tabloid, the acknowledged that he had accepted her falsehood and resigned.
-
-◼️
-
-[Data](articles/48ce2d6d.json)
-
-[Extended Data](ext_articles/48ce2d6d.ext.json)
-
----
-
-### International Sports Coordination Committee dissolved
-
-*2024-02-06 10:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97036/-international-sports-coordination-committee-dissolved) · `en`
-
-Minister of Sports and Youth Affairs Harin Fernando has dissolved the International Sports Coordination Committee in Sri Lanka.
-
-Issuing a gazette notification to revoke and rescind the Gazette (Extraordinary) No. 2351/07 dated September 25, 2023, the relevant committee was dissolved with effect from January 26, 2024.
-
-On September 25, then-Minister of Sports Roshan Ranasinghe appointed a three-member International Sports Coordination Committee with a mission to coordinate the affairs of international sports associations or organizations on behalf of any sports-related affair that Sri Lanka represents here or in a foreign country.
-
-◼️
-
-[Data](articles/da3b02c8.json)
-
-[Extended Data](ext_articles/da3b02c8.ext.json)
-
----
-
-### Harin dissolved Roshan's group
-
-*2024-02-06 10:47:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரொஷானின்-குழுவை-கலைத்தார்-ஹரின்/175-332749) · `ta`
-
-Sports and Youth Affairs Minister Harin Fernando has taken steps to dissolve the International Sports Coordinating Committee for Sri Lanka.
-
-It is reported that the committee has been dissolved in effect from January 26.
-
-Earlier, on September 25 last year, the committee was appointed by the then Minister of Sports and Youth Affairs Roshan Ranasinghe.
-
-◼️
-
-[Data](articles/bbc47e8a.json)
-
-[Extended Data](ext_articles/bbc47e8a.ext.json)
 
 ---

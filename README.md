@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 07:30:50**
+As of **2024-02-06 07:53:34**
 
 ## Newspaper Stats
 
-*Scraped **5,053** Articles*
+*Scraped **5,058** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 276
 dailyftlk | 290
 newsfirstlk | 304
 adalk | 433
-virakesarilk | 587
+virakesarilk | 588
 adaderanalk | 622
-tamilmirrorlk | 636
-adaderanasinhalalk | 650
-dailymirrorlk | 717
+tamilmirrorlk | 637
+adaderanasinhalalk | 652
+dailymirrorlk | 718
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,053 (100.0%) of 5,053 articles have been extended.
+5,058 (100.0%) of 5,058 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### Fifth Church of 9th Parliament opens tomorrow
+
+*2024-02-06 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193025) · `si`
+
+The 5th Committee of the 9th Parliament is to be opened by President Ranil Wickremesinghe.
+
+The President's policy statement will be presented to Parliament by holding in parliament at 10.30 am tomorrow.
+
+President Ranil Wickremesinghe was completed by the end of the night of the 26th of January.
+
+Accordingly, the post of postponement on the government's policy statement to be presented to Parliament tomorrow will be held on the late 8 and 09.
+
+However, it is reported that the ceremony of the Parliament has been conducting the occasion as lowly simple and chat.
+
+Chief Organizer Minister Prasanna Ranatunga said that the event would include salute and salute, salt and pre-travel vehicles.
+
+However, the North Lanka Provincial Councilors have decided to boycott the opening ceremony of the opening of the Parliament.
+
+Angel Ven.
+
+◼️
+
+[Data](articles/59d73016.json)
+
+[Extended Data](ext_articles/59d73016.ext.json)
+
+---
+
+### Woman murdered
+
+*2024-02-06 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193024) · `si`
+
+A dispute on a casual affair has been assaulted by a sharp weapon with a sharp weapon.
+
+The murder was held in the evening yesterday at a house in the Suriyawewa police division.
+
+The deceased has been identified as a 37 year old resident of the Sooriyawewa area in West.
+
+The murder had taken place due to a dispute over the casual affair between the deceased and the suspect.
+
+Sooriyawewa Police are conducting further investigations to arrest the murder.
+
+Meanwhile, two persons who were traveling in a motorbike have been attacked with a sharp instrument by two persons who had been traveling in a motorcycle in Udaneragama.
+
+The two persons who traveled on the motorcycle were the roadside and attacked with a robbery and was attacked with a sharp weapon.
+
+The injured have been admitted to the Kurunegala Hospital and is currently receiving treatment.
+
+The injured were residents of Gokarella area, aged 39 and 53 years.
+
+◼️
+
+[Data](articles/7a190710.json)
+
+[Extended Data](ext_articles/7a190710.ext.json)
+
+---
 
 ### King Charles diagnosed with cancer
 
@@ -69,6 +127,38 @@ Namasivayam Premkumar carried out a death investigation into the death of the ch
 [Data](articles/ed9d8f59.json)
 
 [Extended Data](ext_articles/ed9d8f59.ext.json)
+
+---
+
+### Yall. Vadamarachchi turtles in the eastern seas of Vadamarachchi
+
+*2024-02-06 06:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175669) · `ta`
+
+Some of the turtles have been hit by the recent death of the Jaffna -Vadamarachchi eastern coast.
+
+Fishermen in the area said that the turtles that were injured due to the turbulence of sea turbulence.
+
+◼️
+
+[Data](articles/29c26198.json)
+
+[Extended Data](ext_articles/29c26198.ext.json)
+
+---
+
+### Sri Lankan migrant worker in Saudi Arabia faces brutal abuse
+
+*2024-02-06 06:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-migrant-worker-in-Saudi-Arabia-faces-brutal-abuse/108-276402) · `en`
+
+In a distressing incident, Kumudini Sandya Kumari Seneviratne, a Sri Lankan housemaid who sought employment in Saudi Arabia, is currently battling severe abuse and torture at the hands of her employer. The harrowing tale unfolds in the Mundalama area, shedding light on the unfortunate plight of migrant workers pursuing better opportunities abroad.
+
+Seneviratne, a resident of Kajuwatta in Mundalama, secured employment in Saudi Arabia through a private foreign employment agency in Kurunegala on May 23, 2023. She followed the proper procedures by registering with the Sri Lanka Foreign Employment Bureau before departing the country.
+
+...
+
+[Data](articles/118d9d22.json)
+
+[Extended Data](ext_articles/118d9d22.ext.json)
 
 ---
 
@@ -203,6 +293,24 @@ Moreover, he said several complaints have been made to the Human Rights Council 
 [Data](articles/4278c50c.json)
 
 [Extended Data](ext_articles/4278c50c.ext.json)
+
+---
+
+### The government's success of land rights
+
+*2024-02-06 02:42:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணி-உரிமை-வழங்கியமை-அரசாங்கத்தின்-வெற்றி/175-332739) · `ta`
+
+President Ranil Wickremesinghe has said that despite many revolutions in the world demanding land rights, the fact that the people of this country are able to grant permanent land rights without revolution are a unique victory for the current government.
+
+The first phase of the Urithu Scheme was held at the Rangiri Thambulu Stadium yesterday afternoon.. The President said this while addressing the event.
+
+As he further stated. "This is my country, the country I was born, the country that confirmed my heritage. Today we are gathering here to end the struggle of the people of this country to get their land rights. Today we are participating in a revolutionary occasion. 20 lakh land rights are issued today. The people of the country are enjoying this revolution. When this land is owned, no one has to be submissive. MP, the authorities do not have to go behind and get permission. The land can be developed as desired, and no one can put pressure on it. (A)
+
+◼️
+
+[Data](articles/e681b572.json)
+
+[Extended Data](ext_articles/e681b572.ext.json)
 
 ---
 
@@ -1859,121 +1967,5 @@ Accordingly, both groups of the five matches have won one match.
 [Data](articles/43d8c88e.json)
 
 [Extended Data](ext_articles/43d8c88e.ext.json)
-
----
-
-### Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
-
-*2024-02-05 16:30:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/sri-lanka-seeks-thailand-s-help-to-free-56-citizens-held-in-myanmar/) · `en`
-
-COLOMBO (News 1st);  Sri Lankan President Ranil Wickremesinghe has appealed to Thailand's Prime Minister Srettha Thavisin for assistance in securing the release of 56 Sri Lankan nationals allegedly held captive by Chinese criminal organizations in Myanmar.
-
-Sri Lankan Ambassador to Myanmar Janaka Bandara confirmed that the request was made during the Thai Prime Minister's visit to Sri Lanka for the nation's Independence Day celebrations on February 4th.
-
-56 Sri Lankan youth are being held captive in Myanmar by a non-state armed group and forced to engage in cybercrime.
-
-The youths, lured with promises of computer-related jobs, were reportedly taken to Myanmar and detained in three separate locations near the Thai border.
-
-News 1st is in possession of GPS locations of the three sites where the Sri Lankans are being held in the Myawaddy region in Myanmar.
-
-One location reportedly houses 8 youths near the Moi River which located closed to the Myawaddy Town.
-
-...
-
-[Data](articles/42be6298.json)
-
-[Extended Data](ext_articles/42be6298.ext.json)
-
----
-
-### Chascope for anyone unexpectedly unearthed down in Beliatta
-
-*2024-02-05 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193009) · `si`
-
-Tangalle Magistrate ordered the court to hold the suspect for the assassination of the Beliatta to resign to tomorrow (06).
-
-The suspect was arrested by the officers of the Matara Divisional Children's and Women's Buddhist monastery yesterday (05).
-
-The victim is a 28 year old resident of Rathgama Kathantha.
-
-Two suspects were taken by the shooters from the firearms of the Beliatta from Akuressa from Akuressa from Akuressa, Galle.
-
-When the motorcyclists traveled with firearms, they have been identified as the track of the suspect with the trailing motorcycle.
-
-The police were also arrested by the police, who were transporting firearms, and the suspect and the spying suspect have been identified as relatives.
-
-◼️
-
-[Data](articles/a64419ea.json)
-
-[Extended Data](ext_articles/a64419ea.ext.json)
-
----
-
-### Opposition Leader Sajith explained to the Indian High Commission
-
-*2024-02-05 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175627) · `ta`
-
-Opposition Leader Sajith Premadasa has explained many issues, including the current backup act, Indian High Commissioner Santosh Jahu has explained.
-
-A recent meeting between Santosh JHA and Opposition Leader Sajith Premadasa, the new High Commissioner to Sri Lanka, was held at the office of the Opposition Leader.
-
-Both have exchanged various issues relating to the long -standing social, economic and political affairs between the two countries.
-
-Opposition Leader Sajith Premadasa informed the Indian High Commissioner of the illegal and unfair tax policy brought by the current government.
-
-The Opposition Leader made clear the High Commissioner on how the people were affected by the unreasonably imposed value tax and the impact of the adverse effects on the employee of the working people in the domestic debt restructuring.
-
-Similarly, Opposition Leader Sajith Premadasa said to the Indian High Commission on the impact of the current government on the democratic rights of the people.
-
-...
-
-[Data](articles/cb23c859.json)
-
-[Extended Data](ext_articles/cb23c859.ext.json)
-
----
-
-### Keheliya is involved in the assassination - the punishment given to him is the best punishment for a politician - Janaka Ratnayake
-
-*2024-02-05 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175631) · `ta`
-
-Former Health Minister Keheliya Rambukwella's former President of the Public Use Commission Janakatnayake has said that the fraud of Imunoghulopulin's fraud is a massacre.
-
-He said that the minister should be involved in the murder of the minister, which has been accused of importing the low -quality Imunoglobulin against the former health minister.
-
-Janakaratnayake said that the minister has imported the drug without following the appropriate procedures and provided them to the innocent people of the country.
-
-We do not know how many people have died, so we should look at the issue further.
-
-He said the punishment for Keheliya should be the best punishment for a politician in Sri Lanka.
-
-He said that all the parliamentarians should be paid to all MPs to test the symptoms of the disease.
-
-In general, politicians are not ashamed of fraudulent corruption, he said.
-
-◼️
-
-[Data](articles/37eaf031.json)
-
-[Extended Data](ext_articles/37eaf031.ext.json)
-
----
-
-### A large number of detainees on bribery and corruption are police officers!
-
-*2024-02-05 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175632) · `ta`
-
-According to a report issued by the Bribery Commission, 3,431 complaints have been received last year on bribery and corruption allegations.
-
-A large number of those arrested for bribery and corruption complaints are said to be police officers.
-
-The report also pointed out that 2,789 premises have been submitted to the Inquiry Committee in these complaints.
-
-◼️
-
-[Data](articles/483f49b7.json)
-
-[Extended Data](ext_articles/483f49b7.ext.json)
 
 ---

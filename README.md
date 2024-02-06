@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 00:47:25**
+As of **2024-02-07 01:02:38**
 
 ## Newspaper Stats
 
@@ -26,45 +26,51 @@ dailymirrorlk | 749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,276 (99.7%) of 5,291 articles have been extended.
+5,288 (99.9%) of 5,291 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### மாங்குளம் பிரதேசத்துக்கான 1990 அம்புலன்ஸ் சேவை மூன்று மாதங்களாக இடைநிறுத்தம் மக்கள் பெரும் துன்பம்
+### 1990 Ambulance Service for Mankulam Territory
 
 *2024-02-07 00:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175751) · `ta`
 
-முல்லைத்தீவு மாவட்டத்தின் மாங்குளம் பிரதேசத்துக்கான இலவச அம்புலன்ஸ் சேவை (1990)  கடந்த மூன்று மாதங்களுக்கு மேலாக இடைநிறுத்தப்பட்டுள்ளதால் அதனை அண்டிய பகுதிகளில் உள்ள  மக்கள் பெரும் துன்பங்களைச் சந்தித்து வருகின்றனர்.
+Free Ambulance Service (1990) for the Mankulam area of Mullaitivu district has been suspended for more than three months.
 
-குறிப்பாக மாங்குளம் பொலிஸ் நிலையத்தில் நிறுத்தி வைக்கப்படும் குறித்த அவசர அம்புலன்ஸ் (1990) வண்டியானது  பிரதானமாக ஏ 9 வீதியில் இடம்பெறும் விபத்துக்களின் போதும் போக்குவரத்து சிரமங்களை எதிர்நோக்கும் பாண்டிய குளம், நட்டாங்கண்டல் மல்லாவி,கோட்டை கட்டிய குளம், அம்பலபெருமாள் மற்றும் அம்பகாமம் தட்சடம்பன் ஒலுமடு உள்ளிட்ட பல்வேறு பகுதி மக்களுக்கும் இந்துபுரம், வசந்தபுரம் போன்ற பல்வேறு பகுதிகளில் உள்ள மக்களுக்கும்  நாளாந்தம் இந்த சேவையைப் பெற்று வரும் நிலையில் தற்போது மூன்று மாதங்களாக இந்த அம்புலன்ஸ் சேவைகள் நிறுத்தப்பட்டுள்ளதால்  மக்கள் பல்வேறு துன்பங்களுக்குள்  தள்ளப்பட்டுள்ளனர்.
+Emergency Ambulance (1990), especially in the Mankulam police station, is mainly on the A9 road, which is facing traffic difficulties in the Pandya Pond, Nattangandal Mallavi, Fort -built pond, Ambalaperumal and Ambakamam Dakdhampan Olamadu and various other people in the area.As the service is being received daily, people have been forced into various hardships as these ambulance services have been stopped for three months.
 
-குறிப்பாக நட்டாங்கண்டல் போன்ற பகுதிகளிலிருந்து நோயாளர்கள் சுமார் 3000 ரூபாய் வரையில் ஆட்டோவுக்கு செலவழிக்க வேண்டும்
+In particular, patients from areas such as Nattangandal have to spend about 3000 rupees for auto
 
-ஆகவே இந்த அம்புலன்ஸ் சேவையை மீண்டும்  மிக விரைவாக இயக்குமாறு மக்கள் கோரிக்கை விடுக்கின்றனர்
+So people are demanding that this ambulance service be operated very quickly
 
-...
+As of this, the 1990 free ambulance services of Mangulam, Mulliyawalai and Mannar areas in Mullaitivu district. It has been requested that the relevant parties be taken care of and that they will be completed quickly.
+
+◼️
 
 [Data](articles/ac8d9e07.json)
+
+[Extended Data](ext_articles/ac8d9e07.ext.json)
 
 ---
 
 ### 2024-02-06 (Tuesday)
 
-### இந்தியா, சீனாவுடனான சுதந்திர வர்த்தக ஒப்பந்தங்கள் குறித்த பேச்சுவார்த்தைகளை விரைவில் நிறைவு செய்ய எதிர்பார்க்கின்றோம் - சர்வதேச ஒப்பந்தகளுக்கான பிரதான இணக்கப்பாட்டு அதிகாரி
+### We expect to complete negotiations on free trade agreements with India and China -the main compliance officer for international contracts
 
 *2024-02-06 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/175749) · `ta`
 
-இந்தியாவுடனான சுதந்திர வர்த்தக ஒப்பந்தத்தை விஸ்தரிப்பதற்கான பேச்சுவார்த்தைகளை மார்ச் அல்லது ஏப்ரல் மாதத்துக்குள் நிறைவு செய்ய எதிர்பார்க்கின்றோம். அத்தோடு 2018இல் இடைநிறுத்தப்பட்ட சீனாவுடனான பேச்சுவார்த்தைகள் மீள ஆரம்பிக்கப்பட்டுள்ளதாக வெளிநாட்டலுவல்கள் அமைச்சின் சர்வதேச ஒப்பந்தங்களுக்கான பிரதான இணக்கப்பாட்டு அதிகாரி வீரசிங்க தெரிவித்தார்.
+We expect negotiations to expand the free trade agreement with India by March or April. Weerasinghe, the Chief Compliance Officer for the International Agreements of the Ministry of Foreign Affairs, said that talks with China suspended in 2018 have been resumed.
 
-ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (06) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+He further stated this at a press conference held at the Presidential Media Center on Tuesday (06).
 
-இந்தியாவுடன் கையெழுத்திடப்பட்டுள்ள சுதந்திர வர்த்தக ஒப்பந்தம் தற்போதும் நடைமுறையில் உள்ளது. எனினும் இவ் ஒப்பந்தம் வணிக நடவடிக்கைகளுக்காக மாத்திரம் வரையறுக்கப்பட்டதாகவே காணப்படுகிறது. இதனை மேலும் விரிவுபடுத்துவது தொடர்பில் கடந்த ஜனவரியில் பேச்சுவார்த்தைகள் முன்னெடுக்கப்பட்டன. அதற்கமைய விரைவில் அந்த பேச்சுவார்த்தைகளை நிறைவு செய்ய வேண்டும் என்று இருதரப்பு இணக்கப்பாடு எட்டப்பட்டுள்ளது. மார்ச் மாதத்தின் பின்னர் தேர்தல் என்பதால், அதற்கு முன்னர் பேச்சுவார்த்தைகளை நிறைவு செய்வதற்கு இந்தியா எதிர்பார்க்கின்றது.
+The Independent Trade Agreement signed with India is still in effect. However, this agreement is only limited for business activities. Negotiations were held last January to expand this. The bilateral compliance has been reached that the negotiations should be completed soon. Since the election after March, India expects to complete talks before.
 
 ...
 
 [Data](articles/11785542.json)
+
+[Extended Data](ext_articles/11785542.ext.json)
 
 ---
 
@@ -88,21 +94,23 @@ Landers built by private companies and emerging space powers are expected in the
 
 ---
 
-### இராஜாங்க அமைச்சர் டயனா கமகேயின் கூற்றை மறுக்கும் அமைச்சர் பந்துல!
+### Minister Bandula denies State Minister Diana Kamage's claim
 
 *2024-02-06 23:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175750) · `ta`
 
-கஞ்சா செடியை வளர்ப்பதற்கும் கஞ்சாவை ஏற்றுமதி செய்வதற்கும் அமைச்சரவை அனுமதி கிடைத்துள்ளதாக இராஜாங்க அமைச்சர் டயானா கமகே கூறியுள்ளதனை மறுத்துள்ள அமைச்சரவைப் பேச்சாளர் பந்துல குணவர்தன, கஞ்சா செடி பயிரிடுவதற்கான தீர்மானம் எதுவும் எடுக்கப்படவில்லை எனவும் தெரிவித்தார்.
+Cabinet spokesman Bandula Gunawardena, who denied that the Cabinet has been granted permission to grow cannabis and export cannabis, has said that no decision has been taken for the cultivation of cannabis.
 
-இது தொடர்பில் அமைச்சரவை பத்திரம் சமர்ப்பிக்கப்படவில்லை அல்லது வேறு எந்தத் தீர்மானமும் எடுக்கப்படவில்லை என்றும் வாராந்த அமைச்சரவை  ஊடகவியலாளர் மாநாட்டில் அவர் தெரிவித்தார்.
+At the weekly Cabinet Media Conference, he said that the Cabinet paper has not been submitted or any other decision has been taken.
 
-டயனா கமகே அமைச்சரவை அமைச்சர் அல்ல. அவர் வெளியிட்ட அறிக்கைக்கு நான் பொறுப்பேற்க முடியாது. அமைச்சரவைக்கு எந்த அமைச்சரவை பத்திரமும் சமர்ப்பிக்கப்படவில்லை அல்லது இது தொடர்பாக எந்த முடிவும் எடுக்கப்படவில்லை  என்றும் அவர் கூறினார்.
+Diana Kamage is not the Cabinet Minister. I cannot be held responsible for the statement he published. He said no Cabinet paper was submitted to the Cabinet or no decision was taken.
 
-ஏற்றுமதிக்காக கஞ்சா பயிரிடுவதற்கு அமைச்சரவை அங்கீகாரம் வழங்கப்பட்டுள்ளதாக இராஜாங்க டயனா கமகே ஊடகங்களுக்கு தெரிவித்திருந்தமை குறிப்பிடத்தக்கது.
+It is noteworthy that the Rajanga Diana Kamage had informed the media that the Cabinet had approved the cultivation of cannabis for export.
 
 ◼️
 
 [Data](articles/1fe72dac.json)
+
+[Extended Data](ext_articles/1fe72dac.ext.json)
 
 ---
 
@@ -122,6 +130,8 @@ The all-female 3-judge bench also gave Trump very little time to appeal to the h
 
 [Data](articles/5c107f15.json)
 
+[Extended Data](ext_articles/5c107f15.ext.json)
+
 ---
 
 ### Macktiles makes history; exports Made in Sri Lanka tiles to Indonesia for the first time
@@ -140,6 +150,8 @@ This historic accomplishment marks a significant shift in the global trade dynam
 
 [Data](articles/aa383c2f.json)
 
+[Extended Data](ext_articles/aa383c2f.ext.json)
+
 ---
 
 ### Bill and Melinda Gates Foundation to set up Support Unit within President’s Office
@@ -156,6 +168,8 @@ Global Health Strategies, by the Bill and Melinda Gates Foundation and its local
 
 [Data](articles/d3cd5ea5.json)
 
+[Extended Data](ext_articles/d3cd5ea5.ext.json)
+
 ---
 
 ### MTI to invest in tech start-ups to augment strategy consulting
@@ -171,6 +185,8 @@ MTI is particularly in search of start-ups that offer upside global potential (e
 ...
 
 [Data](articles/a23e9a2f.json)
+
+[Extended Data](ext_articles/a23e9a2f.ext.json)
 
 ---
 
@@ -192,6 +208,8 @@ Recognising the critical role these businesses play in achieving Sustainable Dev
 
 [Data](articles/7ed4f4d5.json)
 
+[Extended Data](ext_articles/7ed4f4d5.ext.json)
+
 ---
 
 ### Ravi joins Distilleries, Aitken Spence Hotels Boards
@@ -208,6 +226,8 @@ He holds a Doctor of Business Administration Degree from the European Business S
 
 [Data](articles/03860035.json)
 
+[Extended Data](ext_articles/03860035.ext.json)
+
 ---
 
 ### Inclusive and sustainable businesses set new pathways for Sri Lanka
@@ -222,6 +242,8 @@ The Small Organic Farmers Association (SOFA) of Sri Lanka, produces and exports 
 
 [Data](articles/4e06a533.json)
 
+[Extended Data](ext_articles/4e06a533.ext.json)
+
 ---
 
 ### Tech horizons: Expanding markets via Singapore and India
@@ -235,6 +257,8 @@ Should Sri Lanka cultivate stronger ties with these hubs, as it stands to positi
 ...
 
 [Data](articles/f0ee5a54.json)
+
+[Extended Data](ext_articles/f0ee5a54.ext.json)
 
 ---
 
@@ -251,6 +275,8 @@ Amidst unprecedented social, economic, health and environmental crises, further 
 ...
 
 [Data](articles/f35e54af.json)
+
+[Extended Data](ext_articles/f35e54af.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 18:51:30**
+As of **2024-02-06 19:17:27**
 
 ## Newspaper Stats
 
-*Scraped **5,234** Articles*
+*Scraped **5,237** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 140
 economynextcom | 278
 islandlk | 278
 dailyftlk | 290
-newsfirstlk | 325
+newsfirstlk | 326
 adalk | 448
 virakesarilk | 618
-adaderanalk | 648
-tamilmirrorlk | 655
+adaderanalk | 649
+tamilmirrorlk | 656
 adaderanasinhalalk | 678
 dailymirrorlk | 742
 
@@ -26,11 +26,29 @@ dailymirrorlk | 742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,214 (99.6%) of 5,234 articles have been extended.
+5,234 (99.9%) of 5,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### பாலியல் இலஞ்சம் கேட்ட முகாமையாளருக்கு விளக்கமறியல்
+
+*2024-02-06 18:40:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலியல்-இலஞ்சம்-கேட்ட-முகாமையாளருக்கு-விளக்கமறியல்/175-332783) · `ta`
+
+சம்பளத்தை அதிகரிப்பதற்காக ஹோட்டல் ஒன்றில் குமாஸ்தாவாக பணியாற்றும் இளம் பெண்ணிடம்பாலியல் இலஞ்சம் கோரியதாக கூறப்படும் தம்புள்ளை ஹோட்டல் குழுமத்தின் மனித வள முகாமையாளரான 59 வயதுடைய நபரை எதிர்வரும் 16ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு பிரதான நீதவான்  பிரசன்ன அல்விஸ் செவ்வாய்க்கிழமை (06) உத்தரவிட்டுள்ளார்.
+
+2023 ஆம் ஆண்டு 09 ஆம் இலக்க ஊழல் தடுப்புச் சட்டத்தின் 47(5) பிரிவின் பிரகாரம் தனியார் துறையில் இலஞ்சம் பெற்றமை தொடர்பான முதலாவது வழக்கின் பிரகாரம் சந்தேகநபர் நீதிமன்றில் முன்னிலைப்படுத்தப்படவுள்ளதாக இலஞ்சம் மற்றும்  ஊழல் பற்றிய சாத்துதல்களை விசாரணை செய்யும் ஆணைக்குழு தெரிவித்துள்ளது.
+
+2023 ஓகஸ்ட் மாதம் நிறைவேற்றப்பட்ட இச்சட்டத்தின் 162ஆவது பிரிவின் பிரகாரம், பாலியல் துன்புறுத்தல் குற்றத்தைச் செய்ததற்காக சந்தேக நபர் கைது செய்யப்பட்டதாக ஆணைக்குழுவின் உதவிப் பணிப்பாளர் திருமதி சம்பந்தப்பெரும தெரிவித்தார்.
+
+இளம் பணிப்பெண்ணுக்கு 75 சதவீத கொடுப்பனவு வழங்கவும், சம்பளத்தை அதிகரிக்கவும் சந்தேக நபர் பாலியல் இலஞ்சம் கோரியதாக முறைப்பாட்டாளர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/d09ac9ae.json)
+
+---
 
 ### Sri Lanka committed to mitigating and adapting to climate change: Prez
 
@@ -46,21 +64,63 @@ The forum aims to facilitate discussions and collaborations on hydrology and met
 
 [Data](articles/5757f077.json)
 
+[Extended Data](ext_articles/5757f077.ext.json)
+
 ---
 
-### லிவ்-இன் உறவாளர்கள் பதிவு  கட்டாயம்
+### Chinese research vessel in Sri Lankan EEZ despite moratorium
+
+*2024-02-06 18:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/chinese-research-vessel-in-sri-lankan-eez-despite-moratorium/) · `en`
+
+COLOMBO (News 1st); A Chinese research ship, which was denied permission to enter the Exclusive Economic Zone of the Sea of Sri Lanka, is currently engaged in research within the said zone.
+
+At the same time, a battle submarine belonging to the Indian Navy approached Colombo on Saturday while the Chinese ship was engaged in research activity.
+
+The Chinese Research / Survery Vessel  Xiang Yang Hong 3 is officially owned by the Third Institute of Oceanology, of the Chinese Ministry of Natural Resources.
+
+Following the Sri Lankan government's decision to decline permission for marine biology research in its exclusive economic zone, the Chinese research vessel 'Xiang Yang Hong 3' has diverted to the Maldives for logistical support.
+
+The vessel is currently conducting marine geophysical surveys in the southwestern waters of Sri Lanka.
+
+...
+
+[Data](articles/59d60031.json)
+
+---
+
+### Health trade unions temporarily postpone strike planned for tomorrow
+
+*2024-02-06 18:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97056/health-trade-unions-temporarily-postpone-strike-planned-for-tomorrow) · `en`
+
+The health sector trade unions have decided to postpone by a week the strike planned for tomorrow (Feb. 07), following discussions held with the Secretary of the Ministry of Finance.
+
+During the discussion, a committee comprising of officials from the Ministry of Finance, Ministry of Health and professionals, has been appointed in order to deliberate on the proposal submitted by the trade unions.
+
+Furthermore, the committee will take measures to deliver a stable response with regard to the issue within the next week, the Convenor of the Health Trade Union Alliance Chanaka Dharmawickrama said.
+
+Expressing that they will closely monitor the decision of the committee, the Health Trade Union Alliance also stated that if the committee deliberately delays providing proper solutions to their issues, they will resort to the planned trade union action.
+
+◼️
+
+[Data](articles/b24485ee.json)
+
+---
+
+### Liv-In Relatives Registration Mandatory
 
 *2024-02-06 18:29:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிவ்-இன்-உறவாளர்கள்-பதிவு-கட்டாயம்/175-332782) · `ta`
 
-லிவ்-இன் ரிலேஷன்ஷிப் எனப்படும் திருமணம் செய்து கொள்ளாமல் சேர்ந்து வாழ்பவர்கள் அது குறித்து பதிவு செய்ய வேண்டும் என்று உத்தராகண்டில் தாக்கல் செய்யப்பட்டுள்ள பொது சிவில் சட்ட மசோதாவில் தெரிவிக்கப்பட்டுள்ளது.
+The general civil law filed in Uttarakhand has been stated in the Uttarakhand that those who live together without marriage, known as Live-in Relationships.
 
-நாடு முழுவதும் பொது சிவில் சட்டத்தை அமல்படுத்த மத்திய அரசு திட்டமிட்டு வருகிறது. இதற்கான பணிகளை சட்ட ஆணையம் மேற்கொண்டு வருகிறது. இந்நிலையில், சுதந்திர இந்தியாவில் முதல் மாநிலமாக உத்தராகண்ட் தனது சட்டப்பேரவையில் பொது சிவில் சட்ட மசோதாவை தாக்கல் செய்துள்ளது. இதை கருத்தில் கொண்டு இன்று (06) காலை சட்டப்பேரவைக்கு வருகை தந்த முதல்வர் புஷ்கர் சிங் தாமி, இந்திய அரசியல் சாசனத்தின் ஒரு பிரதியை கைகளில் ஏந்தியவாறு வந்தார்.
+The federal government is planning to implement public civil law across the country. The Law Commission is carrying out tasks for this. In this case, Uttarakhand has filed a common civil law in its legislative session as the first state in independent India. Considering this, Chief Minister Pushkar Singh Tami, who was present at the legislative session this morning, came to the hands of a copy of the Indian Constitution.
 
-இதையடுத்து, சட்டப்பேரவையில் பொது சிவில் சட்ட மசோதா தாக்கல் செய்யப்பட்டது. அப்போது, ஆளும் கட்சி எம்எல்ஏக்கள் மேசைகளைத் தட்டி ‘ஜெய் ஸ்ரீ ராம்’ என்றும் ‘வந்தே மாதரம்’ என்றும் கோஷங்களை எழுப்பி தங்கள் ஆதரவை வெளிப்படுத்தினர். இந்த மசோதா குறித்து விவாதிக்கப்பட்டு பின்னர் நிறைவேற்றப்படும் என அரசு தரப்பில் தெரிவிக்கப்பட்டுள்ளது.
+Subsequently, the General Civil Law Bill was filed in the legislative session. At the time, the ruling party MLAs touched the desks and expressed their support by chanting slogans as Jai Sri Ram. The bill will be discussed and later passed, the government said.
 
 ...
 
 [Data](articles/1a17fcf9.json)
+
+[Extended Data](ext_articles/1a17fcf9.ext.json)
 
 ---
 
@@ -82,6 +142,8 @@ He further said that the Sampur Power Project was an example of the loss faced b
 
 [Data](articles/e3ffa789.json)
 
+[Extended Data](ext_articles/e3ffa789.ext.json)
+
 ---
 
 ### Speaker’s Office issues clarification on Online Safety Bill
@@ -97,6 +159,8 @@ Issuing a clarification to the public in response to allegations regarding the p
 ...
 
 [Data](articles/ea50381a.json)
+
+[Extended Data](ext_articles/ea50381a.ext.json)
 
 ---
 
@@ -118,25 +182,29 @@ Camera footage published by Turkey’s state-run Anadolu news agency showed the 
 
 [Data](articles/c3e0b1e7.json)
 
+[Extended Data](ext_articles/c3e0b1e7.ext.json)
+
 ---
 
-### යකඩ එකතු කරන තැනක පිපිරීමකින් අයෙක් මරුට
+### One killed in explosion in a place where iron is collected
 
 *2024-02-06 18:01:06* · [`adalk`](https://www.ada.lk/breaking_news/යකඩ-එකතු-කරන-තැනක-පිපිරීමකින්-අයෙක්-මරුට/11-407930) · `si`
 
-අවිස්සාවේල්ල මාදොල ප්‍රදේශයේ යකඩ බඩු එකතු කරන ස්ථානයක අද (06) දහවල් සිදුවූ පිපිරීමකින් එහි සේවකයකු මියගොස් ඇතැයි අවිස්සාවේල්ල පොලිසිය පවසයි.
+A employee has died in an explosion in the Madola area in Avissawella today (06).
 
-මෙසේ මියගොස් ඇත්තේ 49 හැවිරිදි මස්කෙළිය ප්‍රදේශයේ පදිංචිකරුවෙකු බව පොලිසිය කියයි.
+The deceased has been identified as a 49 year old resident of Maskeliya area.
 
-06 දා දහවල් යකඩ බඩු එකතු කරන ස්ථානයේ තිබූ භාණ්ඩ තොගයක් තවත් පුද්ගලයෙකු සමග කොටස් කරමින් සිටියදී එක් වරම අබලි ද්‍රව්‍ය අතරින් සිදු වූ පිපිරීමකින් මෙම පුද්ගලයා තුවාල ලබා තිබේ.
+The man was injured in an explosion made by an explosion from the abuse of goods at the same time on the 6th.
 
-අනතුරින් බරපතල තත්ත්වයේ පසුවූ මෙම පුද්ගලයා ප්‍රතිකාර සඳහා  අවිස්සාවේල්ල මූලික රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මෙසේ මියගොස් ඇති බව පොලිසිය කියයි.
+The victim has been admitted to the Avissawella Base Hospital for treatment.
 
-පිපිරීමට හේතුව මෙතෙක් අනාවරණය දී නොමැති අතර සිද්ධියෙන් අනතුරුව අවිස්සාවේල්ල අපරාධ ස්ථාන පරීක්ෂණායතන නිලධාරීන් පැමිණ පරීක්ෂණ ආරම්භ කර තිබේ. සිද්ධිය සම්බන්ධයෙන් අවිස්සාවල්ල පොලිසිය පරීක්ෂණ පවත්වති.
+The cause of the explosion is yet to be determined and then Avissawella Criminal Officers have commenced investigations and commences investigations. Avissawella Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/6e759b56.json)
+
+[Extended Data](ext_articles/6e759b56.ext.json)
 
 ---
 
@@ -222,17 +290,19 @@ The judge issued the order after the Bribery Commission issued the court in 2005
 
 ---
 
-### කෙහෙළියගේ ඉල්ලා අස්වීම ජනපති පිළිගනියි
+### President admits to Keheliya's resignation
 
 *2024-02-06 17:41:59* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගේ-ඉල්ලා-අස්වීම-ජනපති-පිළිගනියි/11-407929) · `si`
 
-රක්ෂිත බන්ධනාගාර ගතව බන්ධනාගාර රෝහලේ ප්‍රතිකාර ලබමින් සිටින හිටපු සෞඛ්‍ය අමාත්‍ය මෙන්ම පරිසර අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා සිය ධුරයෙන් ඉල්ලා අස්වී තිබේ. ඒ අනුව ඔහු සිය ඉල්ලා අස්වීමේ ලිපිය ජනපතිවරයාට යොමුකර තිබුණි.
+Former Health Minister and Environment Minister Keheliya Rambukwella has resigned from his post with prison. Accordingly, he had sent his resignation letter to the President.
 
-එම ඉල්ලා අස්වීම ජනපතිවරයා විසින් පිළිගෙන ඇති අතර ඔහුගේ ඉල්ලා අස්වීමට අදාළ ගැසට් නිවේදනයද නිකුත් ව තිබේ.
+The President has also accepted the resignation and the gazette notification of his resign has been released.
 
 ◼️
 
 [Data](articles/a1b1139b.json)
+
+[Extended Data](ext_articles/a1b1139b.ext.json)
 
 ---
 
@@ -267,6 +337,8 @@ Sri Lanka lags behind regional competitors like Vietnam and Bangladesh, Sabry po
 ...
 
 [Data](articles/e53a004b.json)
+
+[Extended Data](ext_articles/e53a004b.ext.json)
 
 ---
 
@@ -318,6 +390,8 @@ The Speaker was referring to remarks that have been made by opposition members i
 
 [Data](articles/b4953089.json)
 
+[Extended Data](ext_articles/b4953089.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes at 314.00/50 to the US dollar
@@ -337,6 +411,8 @@ A bond maturing on 15.05.2030 closed at 12.95/13.10 down from 13.00/15 percent.
 ◼️
 
 [Data](articles/e80ca71e.json)
+
+[Extended Data](ext_articles/e80ca71e.ext.json)
 
 ---
 
@@ -413,6 +489,8 @@ The decline in bond yield rates has seen renewed investor interest in several co
 ...
 
 [Data](articles/8cd5478a.json)
+
+[Extended Data](ext_articles/8cd5478a.ext.json)
 
 ---
 
@@ -702,6 +780,8 @@ ECONOMYNEXT – The Japanese government will provide 1,230 million yen (around 2
 
 [Data](articles/b00a6f76.json)
 
+[Extended Data](ext_articles/b00a6f76.ext.json)
+
 ---
 
 ### Avissawella explosion due to explosion
@@ -755,6 +835,8 @@ He added that if the revenue social media giants gain from Sri Lanka is insignif
 ...
 
 [Data](articles/a961982d.json)
+
+[Extended Data](ext_articles/a961982d.ext.json)
 
 ---
 
@@ -896,6 +978,8 @@ Sri Lanka launches operations secretariat for free hold land distribution
 
 [Data](articles/8095441d.json)
 
+[Extended Data](ext_articles/8095441d.ext.json)
+
 ---
 
 ### No Cabinet approval granted to cultivate Cannabis: Bandula refutes Diana’s claims
@@ -969,6 +1053,8 @@ According to World Bank data, disasters such as floods, cyclones and landslides 
 ...
 
 [Data](articles/5f3ca2c4.json)
+
+[Extended Data](ext_articles/5f3ca2c4.ext.json)
 
 ---
 
@@ -1049,6 +1135,8 @@ Both countries have started virtual negotiations for the first time since 2018
 ...
 
 [Data](articles/90c4a4c5.json)
+
+[Extended Data](ext_articles/90c4a4c5.ext.json)
 
 ---
 
@@ -1181,6 +1269,8 @@ Funds required for conducting provincial council elections and local government 
 ...
 
 [Data](articles/2ec156ca.json)
+
+[Extended Data](ext_articles/2ec156ca.ext.json)
 
 ---
 
@@ -1502,6 +1592,8 @@ Gunawardena did not specify the exact measures, but said “It will  be done met
 
 [Data](articles/d6b27c03.json)
 
+[Extended Data](ext_articles/d6b27c03.ext.json)
+
 ---
 
 ### Sri Lankan Police delegation visits Delhi Police training centre
@@ -1800,6 +1892,8 @@ The issuance of driver’s licenses to hearing impaired persons will be done on 
 
 [Data](articles/eb7c528a.json)
 
+[Extended Data](ext_articles/eb7c528a.ext.json)
+
 ---
 
 ### Today's currency exchange rate
@@ -1857,67 +1951,5 @@ On February 8th, the level crossing will be partially closed from 6:00 AM to 10:
 [Data](articles/532acdde.json)
 
 [Extended Data](ext_articles/532acdde.ext.json)
-
----
-
-### President to visit Australia on Thursday
-
-*2024-02-06 12:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-to-visit-Australia-on-Thursday/108-276422) · `en`
-
-Colombo, Feb. 06 (Daily Mirror)- President Ranil Wickremesinghe will leave for Australia on an official visit on Thursday, a spokesman from the President's office said.
-
-"The President  is to participate in the Indian Ocean Conference in Perth," sources said.
-
-◼️
-
-[Data](articles/2892f35a.json)
-
-[Extended Data](ext_articles/2892f35a.ext.json)
-
----
-
-### Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
-
-*2024-02-06 12:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/human-immunoglobulin-probe-heats-up-key-meetings-legal-consultations-today/) · `en`
-
-COLOMBO (News 1st); A crucial development is expected today (6) in the ongoing investigation into the human immunoglobulin procurement scandal, as several key meetings and actions are scheduled.
-
-A special discussion headed by the Deputy Inspector General (DIG) in charge of the Criminal Investigation Department (CID) will take place today. This high-level meeting will focus on reviewing the current progress of the investigation, outlining future steps, and strategizing next actions.
-
-Simultaneously, a team from the CID has been dispatched to the Attorney General's Department. Their objective is to obtain legal advice and guidance on the investigation's direction.
-
-The police have confirmed that further investigations will proceed based on the instructions received from the Attorney General.
-
-Notably, yesterday, the CID took custody of several files related to the transaction from the official chamber of Dr. Saman Ratnayake, Additional Secretary of the Ministry of Health.
-
-◼️
-
-[Data](articles/ddbf9e95.json)
-
-[Extended Data](ext_articles/ddbf9e95.ext.json)
-
----
-
-### Nurses in Civilian Clothes: Union Action Continues for Allowances
-
-*2024-02-06 12:17:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/nurses-in-civilian-clothes-union-action-continues-for-allowances/) · `en`
-
-COLOMBO (News 1st); Members of the Public Service United Nurses Union (PSUNU) continued their trade union action today (6), wearing civilian clothes instead of their official uniforms to protest several demands, including a uniform allowance and salary increase.
-
-The union action began on February 5th, with nurses across the country reporting for duty in civilian attire.
-
-PSUNU demands include the allocation of a dedicated uniform allowance and a Rs. 20,000 increase in their existing allowance.
-
-News 1st correspondents reported continued union activity at hospitals in Kurunegala, Anuradhapura, and Karapitiya.
-
-While patient care has not been directly disrupted, concerns remain about the potential impact of prolonged action on healthcare services.
-
-In a positive development, the Health Service Trade Union Alliance is scheduled to meet with the Secretary of the Finance Ministry this afternoon at the Ministry of Finance.
-
-...
-
-[Data](articles/14831f89.json)
-
-[Extended Data](ext_articles/14831f89.ext.json)
 
 ---

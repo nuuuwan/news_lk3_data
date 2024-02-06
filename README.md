@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 06:53:10**
+As of **2024-02-06 07:15:37**
 
 ## Newspaper Stats
 
-*Scraped **5,050** Articles*
+*Scraped **5,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ dbsjeyarajcom | 140
 economynextcom | 265
 islandlk | 276
 dailyftlk | 290
-newsfirstlk | 303
+newsfirstlk | 304
 adalk | 433
-virakesarilk | 586
-adaderanalk | 621
+virakesarilk | 587
+adaderanalk | 622
 tamilmirrorlk | 636
 adaderanasinhalalk | 650
 dailymirrorlk | 717
@@ -26,11 +26,31 @@ dailymirrorlk | 717
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,040 (99.8%) of 5,050 articles have been extended.
+5,049 (99.9%) of 5,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### King Charles diagnosed with cancer
+
+*2024-02-06 06:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97029/king-charles-diagnosed-with-cancer) · `en`
+
+Britain’s King Charles III has been diagnosed with a form of cancer and will postpone public engagements to undergo treatment, Buckingham Palace said on Monday, but added he remained “wholly positive” about the scare less than 18 months into his reign.
+
+Charles, 75, who became king in September 2022 following the death of his mother Queen Elizabeth, has begun a series of treatments, the palace said, adding he was looking forward to returning to fulltime duties as soon as possible.
+
+The cancer revelation comes after Charles spent three nights in hospital last month where he underwent a corrective procedure for a benign enlarged prostate.
+
+The palace said a separate issue of concern had been spotted during that hospital stay, but did not given any further details beyond saying tests had revealed the king had a “form of cancer”.
+
+“No further details are being shared at this stage, except to confirm that his majesty does not have prostate cancer,” the palace said.
+
+...
+
+[Data](articles/a1429010.json)
+
+---
 
 ### 14 months -long baby in Jaffna
 
@@ -50,17 +70,59 @@ Namasivayam Premkumar carried out a death investigation into the death of the ch
 
 ---
 
-### වැසි රහිත කාලගුණයක්
+### மோட்டார் சைக்கிளை திருடிய 13 வயதுடைய மாணவன் கைது
+
+*2024-02-06 06:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175667) · `ta`
+
+கண்டி-பொக்காவல பொலிஸ் பிரிவில் பாடசாலையொன்றில் கல்வி பயிலும் பதிமூன்று வயதுடைய மாணவன் மோட்டார் சைக்கிளை திருடியதாக பொலிஸாரால் திங்கட்கிழமை (05) கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட மாணவர்  பூஜாபிட்டிய மரத்துகொட பிரதேசத்தை சேர்ந்தவர் எனவும், அவர் பிரிவெனா  பாடசாலையொன்றில் கல்வி பயின்று வருவதாகவும்  பொலிஸ்  விசாரணைகளிலிருந்து தெரியவருகிறது.
+
+பொக்காவல பொலிஸாருக்கு கிடைத்த இரகசிய தகவலையடுத்து, அவரது வீட்டில் மறைத்து வைக்கப்பட்டிருந்த மோட்டார் சைக்கிள் பொலிஸாரால் கண்டுபிடிக்கப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+பொக்காவல திகல்ல பிரதேசத்தில் நபர் ஒருவருக்கு சொந்தமான மோட்டார் சைக்கிள் வீதியில் நிறுத்தி வைக்கப்பட்டிருந்த நிலையில் எடுத்துச் செல்லப்பட்டுள்ளதாக  தெரியவந்துள்ளது.
+
+பொக்காவல பொலிஸ் நிலைய பொறுப்பதிகாரி  ஜானக சஞ்சீவவிற்கு கிடைத்த தகவலின் அடிப்படையில் அப்பகுதியில் உள்ள சிசிடிவி கேமராக்களை சோதனை செய்த பொலிஸார் சந்தேகத்திற்குரிய மாணவனை அடையாளம் கண்டுள்ளனர்.
+
+...
+
+[Data](articles/d0a98a4c.json)
+
+---
+
+### Rainy weather
 
 *2024-02-06 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193022) · `si`
 
-දිවයිනේ බොහෝ ප්‍රදේශවල ප්‍රධාන වශයෙන් අද (06) වැසි රහිත කාලගුණ තත්ත්වයක් බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology says that there is a rainy weather in many parts of the island today (06).
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයන් අපේක්ෂා කරන බවය.
+The department states that some locations are expected in the Galle, Sabaragamuwa and Uva provinces and in the Galle and Matara districts.
 
 ◼️
 
 [Data](articles/f91807d8.json)
+
+[Extended Data](ext_articles/f91807d8.ext.json)
+
+---
+
+### King Charles diagnosed with undisclosed form of cancer
+
+*2024-02-06 06:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/king-charles-diagnosed-with-undisclosed-form-of-cancer/) · `en`
+
+Colombo (News 1st) – King Charles III has been diagnosed with cancer and began treatment on Monday, Buckingham Palace said in a statement. It did not state what type of cancer the King has been diagnosed with.
+
+The cancer was identified during the King's recent hospital 3-day treatment for a benign enlarged prostate. "A separate issue of concern was noted, and subsequent diagnostic tests have identified a form of cancer", the Palace said.
+
+Charles, 75, who assumed the throne last May, will postpone public duties, but will continue to undertake state duties.
+
+His treatment is being carried out on an out-patient basis, and he does not need to stay overnight in hospital.
+
+Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
+
+◼️
+
+[Data](articles/23f434df.json)
 
 ---
 
@@ -88,6 +150,8 @@ The King returned to London from Sandringham in Norfolk on Monday morning and th
 
 [Data](articles/2de2f8a8.json)
 
+[Extended Data](ext_articles/2de2f8a8.ext.json)
+
 ---
 
 ### At least 10 killed in attack on police station in Pakistan
@@ -107,6 +171,8 @@ A national assembly candidate was shot dead on Wednesday elsewhere in Khyber-Pak
 ...
 
 [Data](articles/91e62c9d.json)
+
+[Extended Data](ext_articles/91e62c9d.ext.json)
 
 ---
 
@@ -128,21 +194,25 @@ Moreover, he said several complaints have been made to the Human Rights Council 
 
 [Data](articles/4278c50c.json)
 
+[Extended Data](ext_articles/4278c50c.ext.json)
+
 ---
 
-### இந்திய பாதுகாப்பு ஆலோசகருடன் அனுர சந்திப்பு
+### Anura meets with Indian Defense Advisor
 
 *2024-02-06 02:19:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-பாதுகாப்பு-ஆலோசகருடன்-அனுர-சந்திப்பு/175-332738) · `ta`
 
-இந்தியாவுக்கு விஜயம் மேற்கொண்டுள்ள தேசிய மக்கள் சக்தியின் தலைவர் அனுர குமார திசாநாயக்க இந்திய தேசிய பாதுகாப்பு ஆலோசகர் அஜித் டோவலை சந்தித்து கலந்துரையாடியுள்ளார்.
+National People's Power President Anura Kumara Dissanayake, who has visited India, met with Indian National Security Adviser Ajith Dowel.
 
-இந்த சந்திப்பில், இலங்கைக்கும் இந்தியாவுக்கும் இடையிலான இருதரப்பு உறவுகள் மற்றும் பிராந்திய பாதுகாப்பு குறித்து கலந்துரையாடப்பட்டது என அனுரகுமார தெரிவித்துள்ளார்.
+At this meeting, Anuragumara said that the bilateral relations and regional security between Sri Lanka and India were discussed.
 
-இந்த கலந்துரையாடலில் தேசிய மக்கள் சக்தியின் தேசிய செயற்குழு உறுப்பினர் விஜித ஹேரத்தும் கலந்துகொண்டுள்ளார். (a)
+Vijitha Herath, a member of the National People's Power, was also present at the discussion. (A)
 
 ◼️
 
 [Data](articles/9796c29d.json)
+
+[Extended Data](ext_articles/9796c29d.ext.json)
 
 ---
 
@@ -912,8 +982,6 @@ This mission is separate from program review missions, said the spokesperson.
 
 Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
 
-Online Safety Bill Sparks No-Confidence Motion Against Sri Lankan Speaker
-
 ◼️
 
 [Data](articles/4d8c4eff.json)
@@ -953,6 +1021,8 @@ The visit and meetings assume greater significance, coinciding with his rising p
 ...
 
 [Data](articles/4a3138c8.json)
+
+[Extended Data](ext_articles/4a3138c8.ext.json)
 
 ---
 
@@ -1594,7 +1664,7 @@ They condemned it as an "unprecedented abuse of power by the legislature" and de
 
 Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
 
-...
+◼️
 
 [Data](articles/32489cd3.json)
 
@@ -1897,73 +1967,5 @@ The report also pointed out that 2,789 premises have been submitted to the Inqui
 [Data](articles/483f49b7.json)
 
 [Extended Data](ext_articles/483f49b7.ext.json)
-
----
-
-### Seevar
-
-*2024-02-05 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175628) · `ta`
-
-A seal worker who was attacked by a palm and coconut resource union manager in Jaffna has died.
-
-Velan Premadasa (54 years old) from Karavetti North has died after being treated at the hospital.
-
-When the worker went to the Palm Coconut Resource Society on the 28th, the manager was furiously attacked by the worker after the logic with the manager.
-
-The worker who returned home was admitted to the Point Pedro Hospital on the 31st of 31st of his life.
-
-Anatomical examination carried out by the legal officer following the death of the legal officer reported that the leg and ribs were broken in the bones, causing pneumonia infection caused by the breakdown.
-
-Following this, the Nelliyadi police have carried out investigations and have taken steps to arrest the manager.
-
-◼️
-
-[Data](articles/dc068078.json)
-
-[Extended Data](ext_articles/dc068078.ext.json)
-
----
-
-### Sri Lanka VAT on books makes knowledge unaffordable, violates UNESCO convention: industry
-
-*2024-02-05 16:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-vat-on-books-makes-knowledge-unaffordable-violates-unesco-convention-industry-149888/) · `en`
-
-ECONOMYNEXT  – Sri Lanka’s book industry has called for a reversal of the value added tax on books, which they warned will make knowledge unaffordable to many and the island may also be in violation of a UNESCO convention on educational materials and books.
-
-Under an International Monetary Fund program to boost revenues rather than cutting spending, called ‘revenue based fiscal consolidation’ Sri Lanka has to raise taxes and reduce exemptions.
-
-The country ran into external default after macro-economist engaged in extreme policy involving and tax rate cuts, after two currency crises from previous money printing to target ‘potential output’, ended up reducing growth.
-
-Associations representing local publishers, printers, booksellers and importers and writers and academics are protesting the tax on books.
-
-...
-
-[Data](articles/9f0fbb11.json)
-
-[Extended Data](ext_articles/9f0fbb11.ext.json)
-
----
-
-### Suspect and two suspects arrested
-
-*2024-02-05 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193008) · `si`
-
-Police have arrested two suspects and two suspects have been arrested by the police.
-
-The group was arrested following the investigation by the Puttalam Division Criminal Investigation Bureau.
-
-On January 31, they were accused of stealing Rs.
-
-The suspect was arrested in connection with the incident in general area Kollupitiya yesterday (04).
-
-The two suspects arrested in Madiwela have been arrested in Madiwela area.
-
-The suspects were 33 and 46 years old and residents in the Pasgoda and Kaduwela areas.
-
-◼️
-
-[Data](articles/1f2f7d26.json)
-
-[Extended Data](ext_articles/1f2f7d26.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 19:50:10**
+As of **2024-02-06 20:02:22**
 
 ## Newspaper Stats
 
-*Scraped **5,239** Articles*
+*Scraped **5,240** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 290
 newsfirstlk | 326
 adalk | 448
 virakesarilk | 618
-adaderanalk | 650
+adaderanalk | 651
 tamilmirrorlk | 656
 adaderanasinhalalk | 678
 dailymirrorlk | 743
@@ -26,11 +26,27 @@ dailymirrorlk | 743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,239 (100.0%) of 5,239 articles have been extended.
+5,239 (100.0%) of 5,240 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### Top US diplomat pursues Gaza truce quest as Israel presses onslaught
+
+*2024-02-06 19:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97059/top-us-diplomat-pursues-gaza-truce-quest-as-israel-presses-onslaught) · `en`
+
+U.S. Secretary of State Antony Blinken met Egypt’s president on Tuesday as part of a 48-hour, four-nation flurry of shuttle diplomacy in search of a ceasefire in Gaza’s war, while Israel pressed its onslaught in the south of the enclave.
+
+Israel said its forces had killed dozens of Palestinian gunmen throughout Gaza in the past 24 hours with fighting focused on Khan Younis in the south, with a threatened assault looming on a nearby border town teeming with displaced people.
+
+Blinken arrived in Egypt after a stop in Saudi Arabia, and then departed for Qatar, for meetings with the main countries acting as mediators in the Gaza war. Palestinians hope the U.S. top diplomat’s Middle East swing will nail down a ceasefire before Israeli forces storm Gaza’s southern fringes where over a million displaced people are sheltering.
+
+...
+
+[Data](articles/aa26b862.json)
+
+---
 
 ### Legal action against 50 bakeries over weight of bread
 
@@ -1941,19 +1957,5 @@ The issuance of driver’s licenses to hearing impaired persons will be done on 
 [Data](articles/eb7c528a.json)
 
 [Extended Data](ext_articles/eb7c528a.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-02-06 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175700) · `ta`
-
-The US dollar purchasing price was Rs 307.7464 and the sales price were 317.6567 based on the currency exchange rate released by the Central Bank on Tuesday (February 06).
-
-◼️
-
-[Data](articles/23c21488.json)
-
-[Extended Data](ext_articles/23c21488.ext.json)
 
 ---

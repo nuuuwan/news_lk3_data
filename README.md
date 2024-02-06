@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 15:17:29**
+As of **2024-02-06 15:32:44**
 
 ## Newspaper Stats
 
-*Scraped **5,164** Articles*
+*Scraped **5,165** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ economynextcom | 266
 islandlk | 278
 dailyftlk | 290
 newsfirstlk | 316
-adalk | 440
+adalk | 441
 virakesarilk | 607
 adaderanalk | 638
 tamilmirrorlk | 651
@@ -26,39 +26,43 @@ dailymirrorlk | 733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,162 (100.0%) of 5,164 articles have been extended.
+5,164 (100.0%) of 5,165 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
 
-### කෙහෙළිය ඉල්ලා අස්වෙයි
+### Keheliya resigns
 
 *2024-02-06 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193045) · `si`
 
-පරිසර අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා සිය ඉල්ලා අස්වීමේ ලිපිය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට යොමුකර තිබේ.
+Minister of Environment Keheliya Rambukwella has sent his resignation letter to President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/d4eb6bca.json)
 
+[Extended Data](ext_articles/d4eb6bca.ext.json)
+
 ---
 
-### මාර්තු මස 21 ගැන දැනුම්දීමක්
+### Notice on March 21
 
 *2024-02-06 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193044) · `si`
 
-මාර්තු මස 21වන දින ජාතික නාවිකයින්ගේ දිනය ලෙස ප්‍රකාශයට පත් කර තිබේ.
+Declared on March 21 as the Day of the National Marine.
 
-වරාය, නාවික හා ගුවන් සේවා අමාත්‍යවරයා විසින් ඉදිරිපත් කළ යෝජනාවකට අනුව ඒ සඳහා කැබිනට් මණ්ඩල අනුමැතිය ලැබී ඇති බව වාර්තා වෙයි.
+A proposal made by the Minister of Ports, Naval and Aviation and Airline Services has been approved by the Cabinet.
 
-මෙරට දේශීය ආර්ථිකයට නාවිකයින් දක්වන දායකත්වය ඇගයීම සහ නාවික වෘත්තීය සඳහා උනන්දුවක් දක්වන්නන් ආකර්ෂණය කරගැනීම මෙමගින් අරමුණ වී තිබේ.
+This is aimed at raising the sailors to the local economy of the country and attract interested in marine professionals.
 
-ඒ අනුව සෑම වර්ෂයකම මාර්තු මස 21වන දින ජාතික නාවිකයින්ගේ දිනය ලෙස ප්‍රකාශයට පත් කිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය ලබාදී ඇති බව සඳහන් ය.
+Accordingly, Cabinet approval has been issued to be announced as the date of the national marine every year.
 
 ◼️
 
 [Data](articles/9733a73d.json)
+
+[Extended Data](ext_articles/9733a73d.ext.json)
 
 ---
 
@@ -1126,6 +1130,24 @@ Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
 
 ---
 
+### රාමසාන් කාලයේ ඉස්ලාම් රාජ්‍ය සේවකයන්ට සහනයක්
+
+*2024-02-06 11:17:32* · [`adalk`](https://www.ada.lk/breaking_news/රාමසාන්-කාලයේ-ඉස්ලාම්-රාජ්‍ය-සේවකයන්ට-සහනයක්/11-407923) · `si`
+
+රාමසාන් සමයේ දී මුස්ලිම් රාජ්‍ය සේවකයින් සඳහා ආගමික වතාවත්වල යෙදීමට හැකි වන පරිදි වැඩමුර සකස් කර දෙන ලෙස රාජ්‍ය පරිපාලන අමාත්‍යංශය සියලු රාජ්‍ය ආයතන වෙත චක්‍ර ලේඛයක් මගින් දැනුම් දී ඇත.
+
+මෙවර රාමසාන් සමය මාර්තු 12 වන දින සිට අප්‍රේල් 11 වන දින දක්වා පැවැත්වීමට නියමිත බැවින් එම කාල සීමාව තුළ මුස්ලිම් රාජ්‍ය සේවකයින්ට ආගමික වතාවත්වල යෙදීමට හැකිවන පරිදි වැඩමුර සකස් කර දිය යුතු බව අදාළ චක්‍රලේඛයේ සඳහන්ය.
+
+නොවැළැක්විය හැකි අවස්ථාවලදී පමණක් විශේෂ නිවාඩු අනුමත කරදෙන ලෙස ද රාජ්‍ය පරිපාලන අමාත්‍යංශය නිකුත් කළ චක්‍රලේඛයේ සඳහන් ය.
+
+රාමසාන් අවසන් වීමට දින 14කට පෙර රාජ්‍ය සේවයේ රාජ්‍ය සංස්ථා හා ව්‍යවස්ථාපිත මණ්ඩලවල සුදුසුකම් ඇති මුස්ලිම් නිලධාරීන් සඳහා උත්සව අත්තිකාරම් ලබාදීමට ද කටයුතු කරන ලෙස රාජ්‍ය පරිපාලන අමාත්‍යංශය වැඩිදුරටත් දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/0671e56c.json)
+
+---
+
 ### Another child dies after a tree
 
 *2024-02-06 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193036) · `si`
@@ -2061,27 +2083,5 @@ The injured were residents of Gokarella area, aged 39 and 53 years.
 [Data](articles/7a190710.json)
 
 [Extended Data](ext_articles/7a190710.ext.json)
-
----
-
-### King Charles diagnosed with cancer
-
-*2024-02-06 06:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97029/king-charles-diagnosed-with-cancer) · `en`
-
-Britain’s King Charles III has been diagnosed with a form of cancer and will postpone public engagements to undergo treatment, Buckingham Palace said on Monday, but added he remained “wholly positive” about the scare less than 18 months into his reign.
-
-Charles, 75, who became king in September 2022 following the death of his mother Queen Elizabeth, has begun a series of treatments, the palace said, adding he was looking forward to returning to fulltime duties as soon as possible.
-
-The cancer revelation comes after Charles spent three nights in hospital last month where he underwent a corrective procedure for a benign enlarged prostate.
-
-The palace said a separate issue of concern had been spotted during that hospital stay, but did not given any further details beyond saying tests had revealed the king had a “form of cancer”.
-
-“No further details are being shared at this stage, except to confirm that his majesty does not have prostate cancer,” the palace said.
-
-...
-
-[Data](articles/a1429010.json)
-
-[Extended Data](ext_articles/a1429010.ext.json)
 
 ---

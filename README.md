@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 01:02:38**
+As of **2024-02-07 01:17:17**
 
 ## Newspaper Stats
 
-*Scraped **5,291** Articles*
+*Scraped **5,296** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 74
 dbsjeyarajcom | 140
 economynextcom | 278
 islandlk | 278
-dailyftlk | 300
+dailyftlk | 305
 newsfirstlk | 327
 adalk | 451
 virakesarilk | 633
@@ -26,11 +26,87 @@ dailymirrorlk | 749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,288 (99.9%) of 5,291 articles have been extended.
+5,291 (99.9%) of 5,296 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### Charitha raises concerns with President on Executive-Legislative conflict
+
+*2024-02-07 00:47:09* · [`dailyftlk`](https://www.ft.lk/news/Charitha-raises-concerns-with-President-on-Executive-Legislative-conflict/56-758208) · `en`
+
+Says there is a clear constitutional issue after Constitutional Council rejected President’s nominee to the SC
+
+Stresses that President’s view of council is marginalised and one-dimensional
+
+Claims Wickremesinghe’s perspectives are not aligned with principal expectations outlined in 17A concerning it
+
+Reminds ‘Caretaker President’ that he too is accountable to citizens as per country’s constitution
+
+In a letter addressed to President Ranil Wickremesinghe, Parliamentarian Prof. Charitha Herath has expressed apprehensions regarding the evident conflict between the executive and legislative branches, notably highlighted by the dispute over appointing a new Supreme Court judge in place of Justice Buwaneka Aluwihare.
+
+In this letter, he has highlighted to the President the concerns regarding potential constitutional issues arising out of such a conflict, despite not being a member of the Constitutional Council.
+
+...
+
+[Data](articles/b39d4985.json)
+
+---
+
+### Nagananda seeks to challenge NPP’s registration before courts
+
+*2024-02-07 00:46:03* · [`dailyftlk`](https://www.ft.lk/news/Nagananda-seeks-to-challenge-NPP-s-registration-before-courts/56-758207) · `en`
+
+One time Presidential hopeful and Secretary of the Vinivida Front Attorney Nagananda Kodituwakku filed a motion before the Supreme Court yesterday seeking an opportunity to present facts to prove that the registration of the National People’s Power (NPP) party is illegal.
+
+According to sources, Kodituwakku has filed the motion concerning the writ petition filed by him against the decision by the Election Commission of Sri Lanka (ECSL) to reject the party registration application submitted by the front.
+
+In his motion, Nagananda maintains that the registration of the NPP, a part of the Janatha Vimukthi Peramuna (JVP) as a political party contravenes the law. According to him, it is against the law to register offshoots of the same party as separate political parties and it violates constitutional rights which assures a free and fair election.
+
+...
+
+[Data](articles/c9333123.json)
+
+---
+
+### Speaker issues clarification on OSB
+
+*2024-02-07 00:45:20* · [`dailyftlk`](https://www.ft.lk/news/Speaker-issues-clarification-on-OSB/56-758206) · `en`
+
+Office underscores collaborative nature of legislative proceedings which minimises possibility of any enactment contravening constitution
+
+Provides an exhaustive explanation of procedural intricacies involved in passing a Bill
+
+Urges MPs to, if true, specify any alleged oversight or dismissal of recommendations for appropriate review and response
+
+In response to growing concerns and misinformation surrounding the enactment of the Online Safety Act, No. 9 of 2024, the Office of the Speaker released a statement yesterday aiming to provide clarity on the process and legality of the Act’s passage.
+
+The statement comes amidst widespread discussions and criticisms regarding the Act’s provisions and the manner in which it was passed. The Office said the statement is being issued in the interest of the public, to set the record straight on the passing and the subsequent enactment of the act.
+
+...
+
+[Data](articles/5ef98b3f.json)
+
+---
+
+### Cabinet clears National Disaster Management Plan 2023-2030 for Parliament approval
+
+*2024-02-07 00:45:04* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-clears-National-Disaster-Management-Plan-2023-2030-for-Parliament-approval/56-758205) · `en`
+
+The Cabinet of Ministers cleared a proposal put forth by the President, who also serves as the Defence Minister, to introduce the National Disaster Management Plan – 2023-2030 in Parliament.
+
+The decision marks a significant milestone in the country’s efforts to enhance disaster preparedness and response mechanisms.
+
+By the provisions of the Sri Lanka Disaster Management Act No. 13 of 2005, the formulation and execution of the National Disaster Management Plan fall under the primary jurisdiction of the National Disaster Management Centre (DMC).
+
+Accordingly, the 2023-2030 Sendai Action Plan has been prepared in compliance with sustainable development goals and Conventions on Climate Change, coordinating all the relevant institutions.
+
+◼️
+
+[Data](articles/84b4dcff.json)
+
+---
 
 ### 1990 Ambulance Service for Mankulam Territory
 
@@ -314,6 +390,8 @@ Beddagana Wetland Park has become an ecological haven for local and foreign tour
 
 [Data](articles/9ef76ee6.json)
 
+[Extended Data](ext_articles/9ef76ee6.ext.json)
+
 ---
 
 ### Thermal power generation increased to 57%: CEB Engineers’ Union
@@ -366,6 +444,8 @@ If the true purpose of the Online Safety Act is protecting people, sections 12, 
 
 [Data](articles/3703c47c.json)
 
+[Extended Data](ext_articles/3703c47c.ext.json)
+
 ---
 
 ### Motion filed against NPP’s registration as a political party
@@ -387,6 +467,20 @@ It also violates the right to free and fair elections guaranteed by the Constitu
 [Data](articles/a9ea9511.json)
 
 [Extended Data](ext_articles/a9ea9511.ext.json)
+
+---
+
+### Sri Lanka: What is in store for us?
+
+*2024-02-06 22:42:43* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-What-is-in-store-for-us/4-758179) · `en`
+
+Political leaders lacked wisdom to bring about an all-embracing national revival, but a Sinhala Buddhist revival
+
+To consider what the future holds for Sri Lanka, a glance at its past and present should prove useful as we could thereby contextualise and perhaps begin to understand what that likely future could be. Unless we look at our past mistakes dispassionately, attempt to learn from them and take meaningful steps to re-chart our national course, we are most likely to continue to allow history to repeat itself.
+
+...
+
+[Data](articles/ca32b719.json)
 
 ---
 
@@ -434,25 +528,27 @@ Relatives have gone to the forest that the relatives have gone to the forest.. H
 
 ---
 
-### பொருளாதார பயங்கரவாதிகளையும் கொலையாளிகளையும் சட்டத்தின் முன் நிறுத்துவது ஐக்கிய மக்கள் சக்தி முக்கிய பணியாகும் - சஜித்
+### The main task of the United People's Power is to put the economic terrorists and the killers before the law - Sajith
 
 *2024-02-06 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175744) · `ta`
 
-பிள்ளைகளுக்கு தகரத்தாலும் ஓலைகளாலும் பின்னப்பட்ட குடிசைகளும், ஆட்சியாளர்களுக்கு ஜனாதிபதி மாளிகையும் அலரி மாளிகையும் உரித்தாகியுள்ளது.
+The huts of the children with tin and tiles for children have been belonging to the President's Palace and the Alari House for the rulers.
 
-இந்த இரண்டு மாளிகைகளும் ஐக்கிய மக்கள் சக்தி அரசாங்கத்தில் சர்வதேச மட்டத்தை எட்டும் மிக உயர்ந்த மாதிரியிலான தகவல் தொழிநுட்ப பல்கலைக்கழகங்களாக மாற்றியமைக்கப்படும்.
+These two mansions will be transformed into the highest -sample information universities that reach the international level in the United People's Power Government.
 
-ஆட்சியாளர்களுக்கு மாளிகைகள் தேவையில்லை. இந்நாட்டின் பிள்ளைகளுக்கும் பொது மக்களுக்குமே மாளிகைகள் தேவை என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+The rulers do not need mansions. The opposition leader said that the children of the country and the general public need mansions.
 
-இந்நாட்டில் ஏழை எளிய பெற்றோரின் பிள்ளைகள் இருந்தாலும், இப்பிள்ளைகள் அறிவு, திறன் மற்றும் ஆற்றல் நிரப்பப் பெற்ற வளம் கொழிப்போராக உள்ளனர்.
+Despite the children of poor parents in this country, these children are a resources of knowledge, skills and energy filling.
 
-சர்வதேச தரத்திலான உயர்தரக் கல்வியைப் பெறுவது நாட்டின் மாணவச் செல்வங்களது உரிமையாகும். இந்தக் கடமையை நிறைவேற்றுவது அரசாங்கத்தின் பொறுப்பாகும் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+Getting higher education in international standards is the right of the country's student wealth. The opposition leader said it was the responsibility of the government to fulfill this duty.
 
-ஆனால் வங்குரோத்து நாட்டில் ஆட்சி செய்பவர்களும் திருடும் காலத்தில், தற்போதைய அரசாங்கத்தின் ஆட்சியாளர்கள் அரசின் சொத்துக்களையும் வளங்களையும் சூறையாடுகின்றனர்.
+But when the ruler of the country is stealing, the rulers of the present government are plundering the property and resources of the state.
 
 ...
 
 [Data](articles/87d1c7fa.json)
+
+[Extended Data](ext_articles/87d1c7fa.ext.json)
 
 ---
 
@@ -1903,99 +1999,5 @@ The explosion took place in an old iron in a manufacturing area in Madola area.
 [Data](articles/4f88d14f.json)
 
 [Extended Data](ext_articles/4f88d14f.ext.json)
-
----
-
-### Two prisoners clash in Tirumalai prison
-
-*2024-02-06 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/175723) · `ta`
-
-A prisoner who was injured in a clash between two prisoners at Trincomalee Prison has died on Tuesday (06), the Trincomalee port police said.
-
-The deceased is Mohamed Ali Uwais Mohammed Udayatullah from Kinniya Mahroof, Trincomalee.
-
-The attack on the Trincomalee Prison on the 2nd of this month was injured and the man was admitted to the intensive care unit of the Trincomalee General Hospital.
-
-◼️
-
-[Data](articles/a9a7806c.json)
-
-[Extended Data](ext_articles/a9a7806c.ext.json)
-
----
-
-### Sri Lanka online safety law will impact digital marketing industry: Professional
-
-*2024-02-06 15:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-online-safety-law-will-impact-digital-marketing-industry-professional-150079/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s digital marketing industry professionals say they fear a decline in social media marketing channels after the online safety law was passed.
-
-“Content developers, planners, the entire ecosystem will be impacted. Social media channels need to be active, but now people will restrict their activities – efficiency will be limited,” Managing Director of Ogilvy, Lalith Sumanasiri said.
-
-The online safety law may cause social media users to self-censor and curb their social media usage, he said speaking at a panel discussion on the law and its impact on the digital marketing industry, on Thursday (1).
-
-According to Sumanasiri, 14.5 million Sri Lankans have internet access and 50 percent of them use social media. Therefore, 20 percent of their promotional budget is on digital marketing.
-
-He added that if the revenue social media giants gain from Sri Lanka is insignificant, they may consider leaving the country instead of complying with the provisions of the online safety act.
-
-...
-
-[Data](articles/a961982d.json)
-
-[Extended Data](ext_articles/a961982d.ext.json)
-
----
-
-### Maskeliya person killed in Avissawel
-
-*2024-02-06 15:49:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவிசாவளை-வெடிப்பில்-மஸ்கெலிய-நபர்-பலி/175-332766) · `ta`
-
-A 49 -year -old man from Maskeliya has died in an explosion on Tuesday afternoon at a center for collection of old iron in Madola area in Avissawella.
-
-The man, who was injured in the explosion, died after being admitted to the Avissawella Hospital, police said.
-
-The police said that the death of the deceased had been placed at the Avissawella Hospital, and that the Criminal Investigation Department and the officials of the State Chemical Analysis Department had gone to the site of the police.
-
-◼️
-
-[Data](articles/79881619.json)
-
-[Extended Data](ext_articles/79881619.ext.json)
-
----
-
-### Exploding in Avissawella: One killed
-
-*2024-02-06 15:49:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவிசாவளையில்-வெடி-விபத்து-ஒருவர்-பலி/175-332766) · `ta`
-
-The explosion took place today (06) at an old iron product in Avissawella, Madolla area.
-
-The man who was injured in the incident died after being admitted to the Avissawella Hospital, police said.
-
-◼️
-
-[Data](articles/8827e382.json)
-
-[Extended Data](ext_articles/8827e382.ext.json)
-
----
-
-### US attack on British -owned ship in the Red Sea continues to be attacked by US rebels.
-
-*2024-02-06 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/175719) · `ta`
-
-The incident took place west of Headeda, the British Army's Maritime Organization said.
-
-There were also reports that a small ship was found in the area before the ship was attacked.
-
-Meanwhile, the US has said that the attacks on the Haithi rebels in Yemen are continuing.
-
-US soldiers invented unmanned Air Force in Yemen's areas in Yemen, which has been found to be an immediate danger to US naval ships and trade ships.
-
-◼️
-
-[Data](articles/b72dda76.json)
-
-[Extended Data](ext_articles/b72dda76.ext.json)
 
 ---

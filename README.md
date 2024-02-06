@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 13:33:08**
+As of **2024-02-06 13:51:43**
 
 ## Newspaper Stats
 
-*Scraped **5,130** Articles*
+*Scraped **5,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 439
 virakesarilk | 598
 adaderanalk | 630
 tamilmirrorlk | 642
-adaderanasinhalalk | 667
+adaderanasinhalalk | 669
 dailymirrorlk | 731
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,130 (100.0%) of 5,130 articles have been extended.
+5,132 (100.0%) of 5,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### No proposal about hemp came about - Bandula
+
+*2024-02-06 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193042) · `si`
+
+Cabinet spokesman Minister Bandula Gunawardena says that the Cabinet has not yet been submitted to the Cabinet.
+
+However, Minister of Tourism Diana Gamage, however, said that Cabinet approval has been approved for a proposal to be submitted to the Cabinet.
+
+Minister Bandula Gunawardena added that the state minister is not a cabinet minister and is not responsible for her statement.
+
+◼️
+
+[Data](articles/3a19fdcc.json)
+
+[Extended Data](ext_articles/3a19fdcc.ext.json)
+
+---
 
 ### Was invited by President for Urumya land distribution ceremony: Gayantha
 
@@ -89,6 +107,30 @@ The Cabinet has indicated its intention to introduce revisions to the relevant e
 [Data](articles/df7d3106.json)
 
 [Extended Data](ext_articles/df7d3106.ext.json)
+
+---
+
+### 7,733 million for justice arrested
+
+*2024-02-06 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193041) · `si`
+
+56,541 suspects have been arrested by the operation of the country by the operation of the country from December 17 last year.
+
+Among them were 49,558 suspects arrested in charge of drug errors, 1,817 suspects were detention on 1,981 drug addicts for rehabilitation.
+
+The number of suspects commenced inquiry was 234 suspects and 3,083 suspects in the Police Special Bureau of Police Narcotics Bureau and the Police Special Bureau.
+
+The total narcotics market value is nearly 7,733 million, which is nearly 7,733 million, and the market value of the prohibition is nearly 726 million.
+
+Among the 6,983 suspects arrested on the list of the criminal sections and 5,286 open warrants in the drug failure.
+
+The Alessers were arrested in operations and 318 suspects who were unable to identify and be arrested.
+
+◼️
+
+[Data](articles/069006d6.json)
+
+[Extended Data](ext_articles/069006d6.ext.json)
 
 ---
 
@@ -2065,41 +2107,5 @@ On Thursday, Maligakanda Magistrate, Lochani Abeywickrama ordered him to appear 
 [Data](articles/944e9b2c.json)
 
 [Extended Data](ext_articles/944e9b2c.ext.json)
-
----
-
-### 2024-02-05 (Monday)
-
-### ABCs of the inflation fan chart
-
-*2024-02-05 23:53:53* · [`dailyftlk`](https://www.ft.lk/columns/ABCs-of-the-inflation-fan-chart/4-758126) · `en`
-
-It is important for central banks to guide the perception and expectations of economic agents towards the desired path of inflation
-
-Improved transparency and credibility of the central bank through effective communication and better public understanding of this communication would be mutually beneficial to maintain low and stable inflation, which is the prime objective of the central bank.
-
-The CBSL fully recognises the importance of transparency and effective communication in shaping inflation expectations of the public. Several efforts are being taken to increase information sharing with the public. In this regard, an updated inflation fan chart is published in the monthly inflation press releases, six monetary policy reviews in the year, and two bi-annual Monetary Policy Reports with detailed explanations
-
-...
-
-[Data](articles/41606ad8.json)
-
-[Extended Data](ext_articles/41606ad8.ext.json)
-
----
-
-### Cancer to King Charles
-
-*2024-02-05 23:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193021) · `si`
-
-The 3rd Charles was said to have announced that the 3rd Charles had caught cancer.
-
-The statement further states that the king has initiated the necessary treatment and all the work he has been postponed to be deferred.
-
-◼️
-
-[Data](articles/750bad63.json)
-
-[Extended Data](ext_articles/750bad63.ext.json)
 
 ---

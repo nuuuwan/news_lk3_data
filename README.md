@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 03:50:06**
+As of **2024-02-07 04:02:22**
 
 ## Newspaper Stats
 
-*Scraped **5,304** Articles*
+*Scraped **5,307** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 60
+colombotelegraphcom | 62
 bbccomsinhala | 74
 dbsjeyarajcom | 140
 economynextcom | 278
@@ -18,7 +18,7 @@ newsfirstlk | 327
 adalk | 451
 virakesarilk | 641
 adaderanalk | 657
-tamilmirrorlk | 660
+tamilmirrorlk | 661
 adaderanasinhalalk | 684
 dailymirrorlk | 749
 
@@ -26,11 +26,29 @@ dailymirrorlk | 749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,304 (100.0%) of 5,304 articles have been extended.
+5,304 (99.9%) of 5,307 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### ’இந்த வருடம் தேர்தல் நடத்தப்படும்’
+
+*2024-02-07 02:54:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-வருடம்-தேர்தல்-நடத்தப்படும்/175-332800) · `ta`
+
+இந்த வருடத்தில் ஜனாதிபதி தேர்தல் மற்றும் பொதுத் தேர்தல் என்பன நடத்தப்படவுள்ளன என அமைச்சரவை பேச்சாளர், அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+
+அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு உரையாற்றிய போதே அவர் இவ்வாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+"ஜனாதிபதி தேர்தல் மற்றும் பொதுத் தேர்தலுடன் தொடர்புடைய செலவினங்களை, 2024 ஆம் ஆண்டுக்கான வரவு செலவு திட்டத்தில் தேர்தலுக்காக ஒதுக்கீடு செய்யப்பட்டுள்ள 10 பில்லியன் ரூபாவில் முகாமைத்துவம் செய்ய வேண்டியுள்ளமை தொடர்பில் அமைச்சரவை கவனம் செலுத்தியுள்ளது.
+
+அரசாங்கத்திடம் காணப்படும் வரையறுக்கப்பட்ட நிதி நிலைமையினால், மாகாண சபை மற்றும் உள்ளூராட்சி மன்ற தேர்தல்களை நடத்துவதற்கு தேவையான நிதியை 2025 ஆம் ஆண்டுக்கான வரவு செலவு திட்டத்தினூடாக வழங்க வேண்டியுள்ளமை தொடர்பிலும் அமைச்சரவை ஆராய்ந்துள்ளது.
+
+...
+
+[Data](articles/1c1c9a3b.json)
+
+---
 
 ### The fifth session begins today with the President's Policy Declaration
 
@@ -1088,6 +1106,20 @@ Nagananda Kodituwakku is also requested to the Supreme Court to allow the nation
 
 ---
 
+### JVP: From Idealism Of Anti-Indianism To Pragmatic Realism(?)
+
+*2024-02-06 20:29:39* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/jvp-from-idealism-of-anti-indianism-to-pragmatic-realism/) · `en`
+
+The official visit of Anura Kumara Dissanayake and the JVP/NPP leadership team to India this week marks a significant departure from the party’s historical stance on Indo-Lanka relations. Originating in the Sixties with an ingrained anti-Indian rhetoric, the JVP’s recent responsiveness to India’s call suggests a pragmatic shift, signaling its readiness to engage with India should it assume power in Sri Lanka’s next government.
+
+Amidst widespread frustration towards the Ranil- Rajapaksa regime, the current political climate in Sri Lanka presents opportunities for alternative political forces. The JVP, attuned to the discontent among ordinary citizens deprived of basic necessities and hope for a better future, appears poised to capitalize on this sentiment. While facing competition from Opposition leader Sajith Premadasa, who enjoys significant support among the marginalized masses, the JVP’s evolving politics and strategic realignment make it a formidable contender.
+
+...
+
+[Data](articles/2c45eb4d.json)
+
+---
+
 ### People's opposition to Phiyiangala owner to seek another destruction of Wilpattu
 
 *2024-02-06 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193055) · `si`
@@ -1117,6 +1149,18 @@ He was telephoned by Mihintale leader Tiran Alles and Acting Insolptory to Desha
 [Data](articles/3be447f8.json)
 
 [Extended Data](ext_articles/3be447f8.ext.json)
+
+---
+
+### Anura’s Visit To India, Its Signs & Importance
+
+*2024-02-06 20:17:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/anuras-visit-to-india-its-signs-importance/) · `en`
+
+Anura Kumara Dissanayake, leader of the National People’s Power (NPP) was officially invited for a visit by the Indian government at a time when his popularity is unprecedentedly on the rise, due to the fact that the two major political parties that were in power from time to time, have done nothing but making the nation economically bankrupt, resulting in a situation where the citizens cannot fulfil even their basic needs, that is also to the minimum standard.
+
+...
+
+[Data](articles/dfa484eb.json)
 
 ---
 
@@ -1993,51 +2037,5 @@ The SLPP parliamentarian was arrested on February 02 after he arrived at the Cri
 [Data](articles/0d6529f0.json)
 
 [Extended Data](ext_articles/0d6529f0.ext.json)
-
----
-
-### Gazette notification on Keheliya
-
-*2024-02-06 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193049) · `si`
-
-The gazette notification indicated that former Minister of Health Keheliya Rambukwella has been resigned from the post of Environmentar.
-
-◼️
-
-[Data](articles/2152c20a.json)
-
-[Extended Data](ext_articles/2152c20a.ext.json)
-
----
-
-### Gazette issued confirming Keheliya’s resignation
-
-*2024-02-06 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97052/gazette-issued-confirming-keheliyas-resignation-) · `en`
-
-A gazette notification has been issued confirming the resignation of Environment Minister Keheliya Rambukwella who was arrested last week over his alleged complicity in the substandard human immunoglobulin procurement scandal.
-
-◼️
-
-[Data](articles/9a197ab2.json)
-
-[Extended Data](ext_articles/9a197ab2.ext.json)
-
----
-
-### Sri Lanka to import 15,000 tonnes of cashew nuts in shell
-
-*2024-02-06 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97051/sri-lanka-to-import-15000-tonnes-of-cashew-nuts-in-shell) · `en`
-
-The Cabinet of Ministers has granted approval to import 15,000 tonnes of cashew nuts in shell since the country’s annual requirement of cashew nuts in shell has not been met due to the fact that the crops have not been harvested as expected in the last season.
-
-Joining the Cabinet press conference held in Colombo today (06), Cabinet Spokesperson Minister Bandula Gunawardena said that the country’s annual requirement of cashew nuts in shell is around 25,000 Metric Tonnes.
-
-However, currently only 12,500 tonnes of cashew nuts can be procured locally and the cashew industry in the country is facing a very unfortunate situation as the crop has not been harvested as expected in the last season, according to the Minister.
-
-...
-
-[Data](articles/7db992ba.json)
-
-[Extended Data](ext_articles/7db992ba.ext.json)
 
 ---

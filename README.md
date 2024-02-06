@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 17:17:29**
+As of **2024-02-06 17:33:22**
 
 ## Newspaper Stats
 
-*Scraped **5,194** Articles*
+*Scraped **5,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 290
 newsfirstlk | 321
 adalk | 443
 virakesarilk | 613
-adaderanalk | 644
+adaderanalk | 645
 tamilmirrorlk | 653
 adaderanasinhalalk | 673
 dailymirrorlk | 740
@@ -26,7 +26,7 @@ dailymirrorlk | 740
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,191 (99.9%) of 5,194 articles have been extended.
+5,194 (100.0%) of 5,195 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,26 @@ The overall champions in the Student, Youth, Open and Professional competitions 
 
 [Data](articles/af55a846.json)
 
+[Extended Data](ext_articles/af55a846.ext.json)
+
+---
+
+### Gazette issued confirming Keheliya’s resignation from minister post
+
+*2024-02-06 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97052/gazette-issued-confirming-keheliyas-resignation-from-minister-post) · `en`
+
+A gazette notification has been issued confirming the resignation of Keheliya Rambukwella as the Environment Minister. He was arrested last week over his alleged complicity in the substandard human immunoglobulin procurement scandal.
+
+Earlier today, it was reported that the former health minister had tendered his resignation to President Ranil Wickremesinghe, who in return, had accepted it.
+
+The SLPP parliamentarian was arrested on February 02 after he arrived at the Criminal Investigation Department (CID) to record a statement. He was grilled for nearly 10 hours before being placed under arrest.
+
+He was remanded the following day, until February 15, and was admitted to the Prison Hospital later that day. During the court proceedings, the prosecution told the Maligakanda Magistrate Lochani Abeywickrama that Rambukwella removed the suppliers registered with the National Medicines Regulatory Authority (NMRA) and enabled unregistered suppliers to enter the procurement process.
+
+...
+
+[Data](articles/0d6529f0.json)
+
 ---
 
 ### Gazette issued confirming Keheliya’s resignation
@@ -57,6 +77,8 @@ A gazette notification has been issued confirming the resignation of Environment
 ◼️
 
 [Data](articles/9a197ab2.json)
+
+[Extended Data](ext_articles/9a197ab2.ext.json)
 
 ---
 
@@ -107,6 +129,8 @@ Keheliya Rambukwella who is in prison tendered his resignation from the position
 ◼️
 
 [Data](articles/127dc411.json)
+
+[Extended Data](ext_articles/127dc411.ext.json)
 
 ---
 
@@ -1937,27 +1961,5 @@ Meanwhile, 90 doctors who completed the training last week have been appointed.
 [Data](articles/f6492de0.json)
 
 [Extended Data](ext_articles/f6492de0.ext.json)
-
----
-
-### Fierce opposition to the Ceremonial Security Act
-
-*2024-02-06 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175683) · `ta`
-
-In the context of those who are involved in the impact of the digital economy by the Ceremonial Security Act, the situation continues to release serious concerns;The government is in the process of amendments to the new law.
-
-The new law is a danger to freedom of expression, but the government has passed the new Bill in Parliament, despite the fact that many parties, including industrial experts, have expressed concern over the future.
-
-The new law gives the authority to create a committee that has issued orders against the owners of the site who issued banned statements or the owners of the site used to publish those reports.
-
-The Commission has the authority to order internet providers or internet intercourse to stop the internet service for the banned report in Sri Lanka.
-
-Meanwhile, a public defense ministry official said that the new amendments to the government's new law and criticism and criticism of the government have continued to be submitted for the approval of the Cabinet.
-
-...
-
-[Data](articles/39ab22ab.json)
-
-[Extended Data](ext_articles/39ab22ab.ext.json)
 
 ---

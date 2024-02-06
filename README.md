@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 16:33:05**
+As of **2024-02-06 16:48:14**
 
 ## Newspaper Stats
 
-*Scraped **5,185** Articles*
+*Scraped **5,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 278
 dailyftlk | 290
 newsfirstlk | 321
 adalk | 443
-virakesarilk | 610
-adaderanalk | 640
+virakesarilk | 611
+adaderanalk | 641
 tamilmirrorlk | 653
 adaderanasinhalalk | 673
 dailymirrorlk | 738
@@ -26,39 +26,79 @@ dailymirrorlk | 738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,169 (99.7%) of 5,185 articles have been extended.
+5,187 (100.0%) of 5,187 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
 
-### අවිස්සාවේල්ලේ පිපිරීමකින් පුද්ගලයෙකු මරුට
+### Japan to assist in stabilizing power supply of Sri Lankan hospitals using renewable energy
+
+*2024-02-06 16:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97049/japan-to-assist-in-stabilizing-power-supply-of-sri-lankan-hospitals-using-renewable-energy) · `en`
+
+The Government of Japan has agreed to provide project support of Japanese Yen 230 million (around Rs. 2.8 billion) through the Japan International Cooperation Agency (JICA) for the provision of electricity facilities by establishing solar energy generation systems at Sri Jayawardenapura General Hospital, Kurunegala Teaching Hospital and Ratnapura Teaching Hospital.
+
+The objectives of this project are to reduce the use of non-renewable energy in the health sector, to increase the overall efficiency of the health service sector and to promote sustainable development, the Cabinet Spokesman Minister Bandula Gunawardena said.
+
+Accordingly, the Cabinet of Ministers has approved the proposal regarding the implementation of this project presented by President Ranil Wickremesinghe in his capacity as the Minister of Finance, Economic Stabilization and National Policies.
+
+◼️
+
+[Data](articles/f9df152f.json)
+
+[Extended Data](ext_articles/f9df152f.ext.json)
+
+---
+
+### Two days Kekirawa - Lock for Palukaswewa Rail
+
+*2024-02-06 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175725) · `ta`
+
+The Sri Lankan Railway Department has announced that it will be completely closed for two days for the repair work between Kekirawa and Palukaswewa railway stations.
+
+Accordingly, the train will be partially closed tomorrow (07) from 7:00 am to 10:30 pm. In addition, the train will be closed from 10:30 am to 10:30 pm.
+
+The train will be partially closed tomorrow (08) from 6:00 am to 10:30 pm.
+
+◼️
+
+[Data](articles/6cae18ea.json)
+
+[Extended Data](ext_articles/6cae18ea.ext.json)
+
+---
+
+### Avissawella explosion due to explosion
 
 *2024-02-06 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193046) · `si`
 
-අවිස්සාවේල්ල ප්‍රදේශයේ පරණ යකඩ එකතු කරන මධ්‍යස්ථානයක සිදුවූ පිපිරීමකින් එහි සේවකයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+An employee was killed in an explosion of an old iron collection center in Avissawella.
 
-මාදොල ප්‍රදේශයේ පිහිටි පරණ යකඩ අලෙවිසැලක එම පිපිරීම සිදුව තිබුණි.
+The explosion took place in an old iron in a manufacturing area in Madola area.
 
 ◼️
 
 [Data](articles/4f88d14f.json)
 
+[Extended Data](ext_articles/4f88d14f.ext.json)
+
 ---
 
-### திருமலை சிறையில் இரு கைதிகள் மோதல் : ஒருவர் உயிரிழப்பு!
+### Two prisoners clash in Tirumalai prison
 
 *2024-02-06 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/175723) · `ta`
 
-திருகோணமலை சிறைச்சாலையில் இரு கைதிகளுக்கிடையில் ஏற்பட்ட மோதலில் காயமடைந்து வைத்தியசாலையில் சிகிச்சை பெற்று வந்த கைதி ஒருவர்  இன்று செவ்வாய்க்கிழமை (06) உயிரிழந்துள்ளதாக திருகோணமலை துறைமுக பொலிஸார் தெரிவிக்கின்றனர்.
+A prisoner who was injured in a clash between two prisoners at Trincomalee Prison has died on Tuesday (06), the Trincomalee port police said.
 
-திருகோணமலை கிண்ணியா மஹ்ரூப் நகரைச் சேர்ந்த மொஹமட் அலி உவைஸ் முகம்மது உபயத்துல்லா என்பவரே உயிரிழந்துள்ளார்.
+The deceased is Mohamed Ali Uwais Mohammed Udayatullah from Kinniya Mahroof, Trincomalee.
 
-கடந்த 2 ஆம் திகதி திருகோணமலை சிறைச்சாலையின்  இந்தத் தாக்குதல் இடம்பெற்றுள்ளதுடன், தலையில் காயமடைந்து திருகோணமலை பொது வைத்தியசாலையின் அதிதீவிர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்டிருந்த நபரே   உயிரிழந்துள்ளார்.
+The attack on the Trincomalee Prison on the 2nd of this month was injured and the man was admitted to the intensive care unit of the Trincomalee General Hospital.
 
 ◼️
 
 [Data](articles/a9a7806c.json)
+
+[Extended Data](ext_articles/a9a7806c.ext.json)
 
 ---
 
@@ -78,21 +118,23 @@ The man who was injured in the incident died after being admitted to the Avissaw
 
 ---
 
-### செங்கடல் பகுதியில்  பிரிட்டனிற்கு சொந்தமான கப்பல் மீது தாக்குதல் - ஹெளத்தி கிளர்ச்சியாளர்களிற்கு எதிரான அமெரிக்காவின் தாக்குதலும் தொடர்கின்றது.
+### US attack on British -owned ship in the Red Sea continues to be attacked by US rebels.
 
 *2024-02-06 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/175719) · `ta`
 
-ஹெடெய்டாவிற்கு மேற்கே இந்த சம்பவம் இடம்பெற்றுள்ளது என பிரிட்டனின் இராணுவத்தின் கடல்வர்த்தகம் தொடர்பான அமைப்பு தெரிவித்துள்ளது.
+The incident took place west of Headeda, the British Army's Maritime Organization said.
 
-கப்பலிற்கு சிறிய சேதம் ஏற்பட்டுள்ளது கப்பல் தாக்கப்படுவதற்கு முன்னர் அந்தபகுதியில் சிறிய கப்பல் ஒன்று காணப்பட்டது எனவும் தகவல்கள் வெளியாகியுள்ளன.
+There were also reports that a small ship was found in the area before the ship was attacked.
 
-இதேவேளை யேமனில் ஹெளத்தி கிளர்ச்சியாளர்கள் மீது தாக்குதல்களை தொடர்ந்தும் மேற்கொண்டுள்ளதாக அமெரிக்கா தெரிவித்துள்ளது.
+Meanwhile, the US has said that the attacks on the Haithi rebels in Yemen are continuing.
 
-யேமனில் ஹெளத்தி கிளர்ச்சியாளர்களின் பகுதிகளில் வெடிமருந்து நிரம்பிய ஆளில்லா விமானப்படகுகளை அமெரிக்க படையினர் கண்டுபிடித்தனர் இவை அமெரிக்க கடற்படை கப்பல்களுக்கும் வர்த்தககப்பல்களிற்கும் உடனடி ஆபத்தாக காணப்பட்டன என அமெரிக்காதெரிவித்துள்ளது.
+US soldiers invented unmanned Air Force in Yemen's areas in Yemen, which has been found to be an immediate danger to US naval ships and trade ships.
 
 ◼️
 
 [Data](articles/b72dda76.json)
+
+[Extended Data](ext_articles/b72dda76.ext.json)
 
 ---
 
@@ -120,6 +162,8 @@ Avissawella, Feb. 06 (Daily Mirror)- At least one person was killed following an
 
 [Data](articles/fb777fb0.json)
 
+[Extended Data](ext_articles/fb777fb0.ext.json)
+
 ---
 
 ### 15,000 Tons Of Cashew Imports Approved
@@ -138,21 +182,25 @@ To bridge this gap, the government has authorized the import of 15,000 tons to e
 
 [Data](articles/a4900395.json)
 
+[Extended Data](ext_articles/a4900395.ext.json)
+
 ---
 
-### இராணுவ புலனாய்வு பிரிவினரால் யால சரணாலயம், கதிர்காமத்தில் கஞ்சா பயிர்ச்செய்கை சுற்றிவளைப்பு
+### Yala Sanctuary by Military Intelligence Unit
 
 *2024-02-06 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175715) · `ta`
 
-மொனராகலை யால சரணாலய குபுக்கன் ஓயாவிற்கு அருகில் நீண்ட காலமாக மேற்கொள்ளப்பட்டு வந்த கஞ்சா பயிர்செய்கை ஒன்றை இராணுவப் புலனாய்வுப் பிரிவினர் மொனராகலை ஊழல் தடுப்பு பிரிவு அதிகாரிகளுடன் இணைந்து பெப்ரவரி 4ஆம் திகதி சுற்றிவளைத்தனர்.
+On February 4, the military intelligence unit, along with the Moneragala Corruption Prevention Unit officials, rounded up a long -time ganja cultivation near the Kubukan Oya in Moneragala Yala Sanctuary.
 
-இச்சுற்றிவளைப்பின் போது அறுவடைக்கு தயாராக இருந்த 16,800 கஞ்சா செடிகளும் விற்பனைக்கு தயாராக இருந்த 1,658.40 கிலோகிராம் உலர்ந்த கஞ்சாவும், உள்நாட்டில் தயாரிக்கப்பட்ட இரண்டு உள்நாட்டு துப்பாக்கிகளுடன் இரு சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர். கைது செய்யப்பட்ட சந்தேக நபர்கள் மற்றும் பொருட்களை சியம்பலாண்டுவ நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளனர்.
+Two suspects have been arrested with 16,800 cannabis plants ready for harvest during this period, 1,658.40 kilograms of dried cannabis and two domestic guns.. The arrested suspects and items are to be produced before the Siyambalanduwa Magistrate's Court.
 
-இதேவேளை, இராணுவப் புலனாய்வுப் பிரிவினருக்கு கிடைத்த தகவலுக்கமைய கதிர்காமம் பிரதேசத்தில் அரை ஏக்கர் நிலத்தில் பயிரிடப்பட்டிருந்த மேலும் 7,000 கஞ்சா செடிகளுடன் மூவரை பொலிஸ் விசேட அதிரடிப் படையினர் கைது செய்யதுள்ளதுடன்,  கதிர்காமம் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+Meanwhile, police Special Task Force (STF) has arrested three persons with more than 7,000 cannabis plants planted in half an acre of land in Kadirgamam area, according to information received by the Army Intelligence Unit and Kadirgamam police are conducting further investigations.
 
 ◼️
 
 [Data](articles/aec27c73.json)
+
+[Extended Data](ext_articles/aec27c73.ext.json)
 
 ---
 
@@ -172,6 +220,8 @@ The State Minister had told the media that Cabinet approval has been granted to 
 
 [Data](articles/d8bfca00.json)
 
+[Extended Data](ext_articles/d8bfca00.ext.json)
+
 ---
 
 ### BREAKING : Keheliya sends resignation letter to President
@@ -190,6 +240,8 @@ Thereafter, he was moved to the prison hospital due to an illness.
 
 [Data](articles/00593408.json)
 
+[Extended Data](ext_articles/00593408.ext.json)
+
 ---
 
 ### Online Safety Act: Statement from Speaker’s Office
@@ -203,6 +255,8 @@ This statement is issued in the interest of the public, to set the record straig
 ...
 
 [Data](articles/cd01ab15.json)
+
+[Extended Data](ext_articles/cd01ab15.ext.json)
 
 ---
 
@@ -300,6 +354,8 @@ Keheliya Rambukwella was remanded until the 15th of February over the controvers
 
 [Data](articles/349ddc97.json)
 
+[Extended Data](ext_articles/349ddc97.ext.json)
+
 ---
 
 ### Army Medical Corps Departs for South Sudan
@@ -315,6 +371,8 @@ Representing the Commander of the Army, Major General P.A.C. Fernando USP, Colon
 ◼️
 
 [Data](articles/6d4a2efc.json)
+
+[Extended Data](ext_articles/6d4a2efc.ext.json)
 
 ---
 
@@ -371,6 +429,8 @@ The total value of confiscated properties stands at approximately Rs. 725 millio
 ...
 
 [Data](articles/0c7424b8.json)
+
+[Extended Data](ext_articles/0c7424b8.ext.json)
 
 ---
 
@@ -478,6 +538,8 @@ Accordingly, the selling price of a loaf of bread, which was Rs. 130, has increa
 
 [Data](articles/253a4d90.json)
 
+[Extended Data](ext_articles/253a4d90.ext.json)
+
 ---
 
 ### Army contingent departs for South Sudan
@@ -493,6 +555,8 @@ Representing the Commander of the Army, Major General P.A.C. Fernando USP, Colon
 ◼️
 
 [Data](articles/a329afbc.json)
+
+[Extended Data](ext_articles/a329afbc.ext.json)
 
 ---
 
@@ -1126,19 +1190,25 @@ A large hunger who smuggled painkillers pills to Sri Lanka has been arrested and
 
 ---
 
-### බිරිඳගේ අසනීපයට වියදම් සල්ලි නැති නිසා බිරිඳට වස පොවා සැමියත් වස බොයි
+### The wife is not poisoned because the wife is not poisoned because his wife's illness has no money
 
 *2024-02-06 11:58:54* · [`adalk`](https://www.ada.lk/breaking_news/බිරිඳගේ-අසනීපයට-වියදම්-සල්ලි-නැති-නිසා-බිරිඳට-වස-පොවා-සැමියත්-වස-බොයි/11-407925) · `si`
 
-බිරිඳගේ අසනීප තත්ත්වයකට විශාල මුදලක් වියදම් කිරීමට සිදුවීමත්, ඒ සඳහා ප්‍රමාණවත් ආර්ථික තත්ත්වයක් තමන්ට නොමැති වීමත් නිසා බිරිඳට ද වස පොවා සැමියාද වස පානය කර සියදිවි නසා ගැනීමට උත්සාහ කළ පුවතක් සූරියවැව පොලිස් වසමේ වෙනිවැල් ආර ප්‍රදේශයෙන් පෙරේදා (04 වැනිදා) සවස වාර්තා වූ බව පොලීසිය කියයි.
+According to the police, the wife had been reported to spend a large amount of money to a wife's illness, the police said.
 
-මෙලෙස වස පානය කර සියදිවි නසා ගැනීමට උත්සාහ කර ඇත්තේ සූරියවැව වෙනිවැල්ආර පදිංචි 58 හැවිරිදි හා 54 හැවිරිදි අඹුසැමි යුවළක් බවත්,එම බිරිඳ දීර්ඝ කාලයක් සිට ඇයගේ කශේරුකාවේ තිබූ ආබාධිත තත්ත්වයක් හේතුවෙන් එක්තැන්ව සිට ඇතිබව සූරියවැව පොලීසිය පවසයි.
+Sooriyawewa Police have been part of a 58-year-old couple, a 58-year-old and 54-year-old resident of the Suriyawewa Viduliyale.
 
-මේ අතර,ඇයගේ අසනීප තත්ත්වය සඳහා ප්‍රතිකාර කිරීමට විශාල මුදලක්ද වියදම් කිරීමට සැමියාට සිදුව ඇති බවත් ,සිය බිරිඳගේ අසනීප තත්ත්වය සඳහා ප්‍රතිකාර ගැනීමට රැගෙන යාම හා ප්‍රතිකාර දීම ඇතුළු කටයුතු කිරීමට නොව, ජීවත් වීමටවත් ප්‍රමාණවත් ආර්ථික තත්ත්වයක් නොමැති වීම නිසා නිදහස් දිනය දා සවස 4.30ට පමණ සැමියා විසින් එක්තැන්ව සිටින තම බිරිඳට වස පොවා සැමියාද වස පානය කර සියදිවි නසා ගැනීමට උත්සාහ කර ඇති බව පොලීසිය කියයි.
+Meanwhile, the husband has to spend a large sum of money to treat her illness and not to take treatment and treating his wife's illness, but at 4.30 pm on the Independence DayThe husband has attempted to commit suicide by poisoning her husband poisoning poison.
 
-...
+Neighbors have been admitted to the Sooriyawewa hospital for treatment by the neighbors and has been transferred to the Hambantota General Hospital for further treatment.. The residents of the area told police that the woman had long been ill in a long time and had no economy to seek treatment.
+
+Police are conducting further investigations on the instructions of the OIC of Suriyawewa Police Chief Inspector Anura Susantha.
+
+◼️
 
 [Data](articles/9aab74de.json)
+
+[Extended Data](ext_articles/9aab74de.ext.json)
 
 ---
 
@@ -1174,23 +1244,25 @@ Police suspect that the murder had been carried out on a personal dispute.
 
 ---
 
-### අනියම් ඇසුරක් නිසා ජපාන රූ රැජිනට කිරුළ අහිමිවෙයි
+### Japanese treasure hunger after casual association
 
 *2024-02-06 11:52:36* · [`adalk`](https://www.ada.lk/breaking_news/අනියම්-ඇසුරක්-නිසා-ජපාන-රූ-රැජිනට-කිරුළ-අහිමිවෙයි/11-407924) · `si`
 
-විවාහකයෙකු සමඟ අනියම් ඇසුරක් පවත්වාගෙන යාම හේතුවෙන් ජපාන රූ රැජින ලෙස කිරුළ දිනූ 26 හැවැරිදි කැරොලිනා ෂිනෝ සිය කිරුණ අත්හැර තිබේ.
+The rajation of the Japanese Rule of 26, the rajation of the Japanese Rule has won its kirk due to maintenance of misunderstanding with a married couple.
 
-යුක්රේනයේ උපතලද ෂිනෝ ජපානයේ රූ රැජින තරගයෙන් ජයග්‍රහණය කිරීමත් මතභේදයට තුඩුදුන් අතර ඇයගේ මෙම අනියම් ඇසුර හෙළිකර ඇත්තේ ජපාන ටැබ්ලොයිඩ් පුවත්පතක් විසිනි.
+Both in Ukraine, Shino won the queen of Japan and the controversy, with a Japanese tabloid newspaper.
 
-මෙම වාර්තාව පළවීමත් සමග ඇය මුලින්ම ප්‍රකාශ කර තිබුණේ අදාළ පුද්ගලයා විවාහකයෙක් බව තමන් නොදැස සිට බවයි. කෙසේ වෙතත් පසුව ඇය පිළිගෙන ඇත්තේ එම පුද්ගලයා විවාහකයෙක් බව තමන් දැනගෙන සිටි බවයි.
+With this report, she was first stated that she was not sure that the man was married. However, she was later accepted that he knew that the man was married.
 
-ඒ අනුව ඇය තම කිරුළ අත්හැරීමට කටයුතු කර තිබේ. නොමඟ යැවීම සම්බන්ධයෙන් ඇය සමාව අයැද සිටි අතර සංවිධායකයින් ඇයගේ තනතුරෙන් ඉල්ලා අස්වීම පිළිගෙන ඇති බව ජපාන රූ රැජින සංගමය පවසයි.‍
+Accordingly, she has given up the crowd.She apologized to misleading and the organizers have accepted her resignation.
 
-කැරෙලිනා  චතුර ලෙස ජපන් භාෂාව කතා කරන සහ ලියන අතර 2022 දී ජපාන පුරවැසභාවය ලබා ගෙන තිබේ.
+Carlor is fluently speaking and wrote Japanese and writes Japanese citizenship in 2022.
 
 ◼️
 
 [Data](articles/eac9b03f.json)
+
+[Extended Data](ext_articles/eac9b03f.ext.json)
 
 ---
 
@@ -1903,53 +1975,5 @@ Ravi Kumudesh said that the discussion will take place in accordance with the Pr
 [Data](articles/dc960119.json)
 
 [Extended Data](ext_articles/dc960119.ext.json)
-
----
-
-### Anura Kumara calls on India’s National Security Advisor
-
-*2024-02-06 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97031/anura-kumara-calls-on-indias-national-security-advisor) · `en`
-
-Leader of the Janatha Vimukthi Peramuna (JVP) Anura Kumara Dissanayake, who is in India on an official visit, has met with India’s National Security Advisor on Monday (Feb.05).
-
-In a post on X (formerly Twitter), Dissanayake said the focus of the discussion fell on regional security and bilateral relations between the two nations.
-
-Vijitha Herath, the National Executive Member of the National People’s Power (NPP) was also in attendance at this meeting.
-
-Dissanayake is heading a delegation of the NPP to India on a five-day, three-city visit, covering New Delhi, Ahmedabad, and Thiruvananthapuram.
-
-The visit and meetings assume greater significance and this is the first time New Delhi has invited the JVP leader, Indian media said.
-
-...
-
-[Data](articles/5ae2464c.json)
-
-[Extended Data](ext_articles/5ae2464c.ext.json)
-
----
-
-### The newest of justice
-
-*2024-02-06 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193032) · `si`
-
-Police say that 733 suspects were arrested in the 24 hours of the end of justice operations island wide.
-
-The police said that 589 suspects were in charge of drug misconduct and 144 suspects on the list of criminal sections.
-
-Police have seized 130 grams of heroin, 159 grams of ice, 159 mg and 900 grams of cannabis.
-
-It is reported that five suspects and four drug addicts have been sent to rehabilitate the 589 suspects of drugs involved.
-
-Eight suspects have been arrested in the list of the Police Narcotics Bureau and the Police Special Secretariat.
-
-Police say that 128 suspects have been issued in the list of the criminal sections and 128 open warrants on drugs and non-drug errors.
-
-A suspect and three suspects have been arrested in the media and three suspects who have been arrested.
-
-◼️
-
-[Data](articles/c184b164.json)
-
-[Extended Data](ext_articles/c184b164.ext.json)
 
 ---

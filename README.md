@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 06:16:15**
+As of **2024-02-06 06:53:10**
 
 ## Newspaper Stats
 
-*Scraped **5,044** Articles*
+*Scraped **5,050** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 60
 bbccomsinhala | 73
-dbsjeyarajcom | 139
+dbsjeyarajcom | 140
 economynextcom | 265
 islandlk | 276
 dailyftlk | 290
@@ -18,37 +18,23 @@ newsfirstlk | 303
 adalk | 433
 virakesarilk | 586
 adaderanalk | 621
-tamilmirrorlk | 635
-adaderanasinhalalk | 649
-dailymirrorlk | 714
+tamilmirrorlk | 636
+adaderanasinhalalk | 650
+dailymirrorlk | 717
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,031 (99.7%) of 5,044 articles have been extended.
+5,040 (99.8%) of 5,050 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
 
-### Cabinet allowed to cultivate cannabis
-
-*2024-02-06 02:02:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சா-பயிரிடுவதற்கு-அமைச்சரவை-அனுமதி/175-332737) · `ta`
-
-In this case, I am happy with the approval of the Cabinet, ”said Diana Kamage.. (A)
-
-◼️
-
-[Data](articles/0a9e1551.json)
-
-[Extended Data](ext_articles/0a9e1551.ext.json)
-
----
-
 ### 14 months -long baby in Jaffna
 
-*2024-02-06 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/175670) · `ta`
+*2024-02-06 06:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175670) · `ta`
 
 The death of a 14 -month -old child in Jaffna on Monday (5). The death of Raghuram Chandra, a resident of Chavakachcheri - Ithiyadi area.
 
@@ -61,6 +47,116 @@ Namasivayam Premkumar carried out a death investigation into the death of the ch
 [Data](articles/ed9d8f59.json)
 
 [Extended Data](ext_articles/ed9d8f59.ext.json)
+
+---
+
+### වැසි රහිත කාලගුණයක්
+
+*2024-02-06 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193022) · `si`
+
+දිවයිනේ බොහෝ ප්‍රදේශවල ප්‍රධාන වශයෙන් අද (06) වැසි රහිත කාලගුණ තත්ත්වයක් බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයන් අපේක්ෂා කරන බවය.
+
+◼️
+
+[Data](articles/f91807d8.json)
+
+---
+
+### King Charles III diagnosed with cancer
+
+*2024-02-06 05:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/King-Charles-III-diagnosed-with-cancer/108-276399) · `en`
+
+BBC, Feb. 06- King Charles has been diagnosed with a form of cancer, says Buckingham Palace.
+
+The type of cancer has not been revealed - it is not prostate cancer, but was discovered during his recent treatment for an enlarged prostate.
+
+The King began "regular treatments" on Monday and will postpone public duties during the treatment, the Palace said.
+
+The King, 75, "remains wholly positive about his treatment and looks forward to returning to full public duty as soon as possible," it added.
+
+No further details are being shared on the stage of cancer or a prognosis.
+
+Charles informed both his sons personally about his diagnosis and the Prince of Wales was said to be in regular contact with his father.
+
+The Duke of Sussex, Prince Harry, who lives in the United States, spoke to his father and will be travelling to the UK to see him in the coming days.
+
+The King returned to London from Sandringham in Norfolk on Monday morning and the palace says he has started treatment as an outpatient.
+
+...
+
+[Data](articles/2de2f8a8.json)
+
+---
+
+### At least 10 killed in attack on police station in Pakistan
+
+*2024-02-06 04:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/At-least-10-killed-in-attack-on-police-station-in-Pakistan/108-276401) · `en`
+
+DERA ISMAIL KHAN, Pakistan, Feb 5 (Reuters) - At least 10 police personnel were killed and six others injured in a pre-dawn attack on Monday by militants on a police station in northwest Pakistan, police said, as violence escalated ahead of general elections this week.
+
+At around 3 a.m. local time (2200 GMT Sunday) militants attacked the police station with sniper fire and then entered the building, said police officers in Pakistan's Draban region in Khyber-Pakhtunkhwa province.
+
+"After entering the building, the terrorists used hand grenades which caused more casualties to the police," said Malik Anees ul Hassan, the deputy superintendent of police in Draban.
+
+It was not immediately clear who was behind the attack and whether it was related to the election.
+
+A national assembly candidate was shot dead on Wednesday elsewhere in Khyber-Pakhtunkhwa. On the same day, another political leader was shot dead in his party's election office in Balochistan province.
+
+...
+
+[Data](articles/91e62c9d.json)
+
+---
+
+### Jailed VIPs enjoy in Prison Hospital; GMOF accuses prison hospital medical officer
+
+*2024-02-06 02:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jailed-VIPs-enjoy-in-Prison-Hospital-GMOF-accuses-prison-hospital-medical-officer/108-276400) · `en`
+
+Colombo, Feb 6 (Daily Mirror) - The Government Medical Officers' Forum (GMOF) yesterday accused the female medical officer in charge of Welikada prison of allowing VIPs who were imprisoned, to enjoy life inside the Prison Hospital.
+
+GMOF President told Daily Mirror the authorities keep mum despite repeated complaints to the Health Ministry against the said medical officer of misusing her powers.
+
+"The action of the said medical officer has not only allowed VIPs but also imprisoned drug smugglers to comfortably stay inside the prison hospital," he said.
+
+Dr. Bellana said that in this situation, the real patients who are in the Welikada prison have lost the opportunity to receive a response.
+
+Moreover, he said several complaints have been made to the Human Rights Council and to internal doctors and no action have been taken against the doctor yet.
+
+...
+
+[Data](articles/4278c50c.json)
+
+---
+
+### இந்திய பாதுகாப்பு ஆலோசகருடன் அனுர சந்திப்பு
+
+*2024-02-06 02:19:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-பாதுகாப்பு-ஆலோசகருடன்-அனுர-சந்திப்பு/175-332738) · `ta`
+
+இந்தியாவுக்கு விஜயம் மேற்கொண்டுள்ள தேசிய மக்கள் சக்தியின் தலைவர் அனுர குமார திசாநாயக்க இந்திய தேசிய பாதுகாப்பு ஆலோசகர் அஜித் டோவலை சந்தித்து கலந்துரையாடியுள்ளார்.
+
+இந்த சந்திப்பில், இலங்கைக்கும் இந்தியாவுக்கும் இடையிலான இருதரப்பு உறவுகள் மற்றும் பிராந்திய பாதுகாப்பு குறித்து கலந்துரையாடப்பட்டது என அனுரகுமார தெரிவித்துள்ளார்.
+
+இந்த கலந்துரையாடலில் தேசிய மக்கள் சக்தியின் தேசிய செயற்குழு உறுப்பினர் விஜித ஹேரத்தும் கலந்துகொண்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/9796c29d.json)
+
+---
+
+### Cabinet allowed to cultivate cannabis
+
+*2024-02-06 02:02:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சா-பயிரிடுவதற்கு-அமைச்சரவை-அனுமதி/175-332737) · `ta`
+
+In this case, I am happy with the approval of the Cabinet, ”said Diana Kamage.. (A)
+
+◼️
+
+[Data](articles/0a9e1551.json)
+
+[Extended Data](ext_articles/0a9e1551.ext.json)
 
 ---
 
@@ -474,6 +570,8 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 
 [Data](articles/18c35a97.json)
 
+[Extended Data](ext_articles/18c35a97.ext.json)
+
 ---
 
 ### Executive President is responsible for the people
@@ -501,6 +599,8 @@ The letter has been referred to the President based on the issues of the parliam
 ...
 
 [Data](articles/0cd06762.json)
+
+[Extended Data](ext_articles/0cd06762.ext.json)
 
 ---
 
@@ -572,6 +672,8 @@ At a ceremonial gathering, Prime Group Chairman Premalal Brahmanage presented M.
 
 [Data](articles/63c5a044.json)
 
+[Extended Data](ext_articles/63c5a044.ext.json)
+
 ---
 
 ### Kala Pola 2024 – spotlighting artistic diversity
@@ -583,6 +685,8 @@ Kala Pola, Sri Lanka’s annual open-air art fair, is set to mark its 31st anniv
 ...
 
 [Data](articles/6c836d9d.json)
+
+[Extended Data](ext_articles/6c836d9d.ext.json)
 
 ---
 
@@ -597,6 +701,8 @@ Chairman, Board of Directors, and the management team graced the occasion alongs
 ...
 
 [Data](articles/83f1cf4c.json)
+
+[Extended Data](ext_articles/83f1cf4c.ext.json)
 
 ---
 
@@ -614,6 +720,8 @@ This new online webpage, accessible through the SEC’s official website, offers
 
 [Data](articles/d3ac0ea4.json)
 
+[Extended Data](ext_articles/d3ac0ea4.ext.json)
+
 ---
 
 ### People’s Bank celebrates 76 years of Independence by offering gifts to newborns
@@ -629,6 +737,8 @@ People’s Bank launched this programme in 2006 with the vision of instilling na
 ...
 
 [Data](articles/c8050a61.json)
+
+[Extended Data](ext_articles/c8050a61.ext.json)
 
 ---
 
@@ -679,6 +789,8 @@ The momentous occasion took place at an exclusive event held at the Dialog audit
 ...
 
 [Data](articles/dcd42eb4.json)
+
+[Extended Data](ext_articles/dcd42eb4.ext.json)
 
 ---
 
@@ -825,6 +937,22 @@ The suspect is scheduled to be produced before the Fort Magistrate's Court tomor
 [Data](articles/94147620.json)
 
 [Extended Data](ext_articles/94147620.ext.json)
+
+---
+
+### JVP  Delegation led by  Anura  Kumara  Dissanayake has  “Good” Discussions with Indian National Security adviser  Ajit Doval and Foreign Minister Dr.S.Jaishankarr on “ regional security, Economic Challenges  and bilateral issues concerning India and Sri Lanka,”;
+
+*2024-02-05 20:42:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83565) · `en`
+
+Anura Kumara Dissanayake, leader of Sri Lanka’s leftist Janatha Vimukthi Peramuna (JVP or People’s Liberation Front), who is currently visiting India on New Delhi’s invitation, on Monday met External Affairs Minister S. Jaishankar and National Security Adviser (NSA) Ajit Doval, in an indication of the Union government’s high-level engagement with the 55-year-old opposition politician.
+
+Mr. Dissanayake is heading a delegation of his party-led National People’s Power [NPP] alliance to India on a five-day, three-city visit, covering New Delhi, Ahmedabad, and Thiruvananthapuram.
+
+The visit and meetings assume greater significance, coinciding with his rising popularity in the domestic political sphere, that too in a crucial election year. This is the first time New Delhi has invited the JVP leader.
+
+...
+
+[Data](articles/4a3138c8.json)
 
 ---
 
@@ -1837,129 +1965,5 @@ The suspects were 33 and 46 years old and residents in the Pasgoda and Kaduwela 
 [Data](articles/1f2f7d26.json)
 
 [Extended Data](ext_articles/1f2f7d26.ext.json)
-
----
-
-### Rapid growth in Chinese Urget after five years
-
-*2024-02-05 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193007) · `si`
-
-Bloomberg business website reports that China has invested China recorded in 2003 in the year 2023, one round of China.
-
-After the year 2018, China has made the highest investment for the Belt and Road Project.
-
-China is over $ 50 billion in foreign projects.
-
-In 2023, China is a significant amount of 80% over the year 2022.
-
-Accordingly, the amount spent on China, Bett & Road Infrastructure projects have been spent on US dollars.
-
-Bloomberg Business Web Site has obtained the data from the report that has been presented to Grifith University and Shangan University in Shanghai.
-
-Most of the investors carried out under the Belt and Road Project in the 2023 of the year 2023 are high technology.
-
-The electrical vehicles production also also appears.
-
-The electrical vehicles have been allocated $ 8 billion to expand the battery production and the construction of a Battery factory in South Korea.
-
-...
-
-[Data](articles/43af16dd.json)
-
-[Extended Data](ext_articles/43af16dd.ext.json)
-
----
-
-### Asia Cup 2023: PAK-SL board locked in financial dispute over extra expenses
-
-*2024-02-05 15:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Asia-Cup-2023-PAK-SL-board-locked-in-financial-dispute-over-extra-expenses/108-276351) · `en`
-
-Feb. 5 (BS) - The cricket boards of Pakistan and Sri Lanka are locked in a financial dispute over who should bear the additional $3-4 million burden incurred due to the shifting of the Asia Cup to the island nation last year.
-
-With the BCCI unwilling to send its team to Pakistan, the original host, due to geo-political tensions, the Asian Cricket Council (ACC) and the Pakistan Cricket Board (PCB) decided on a hybrid model and roped in Sri Lanka to host the majority of the matches.
-
-This resulted in extra expenses being incurred on chartered flights, hotel bookings, venue hiring fees and travel, among others.
-
-Sri Lanka Cricket (SLC) made it clear during the ACC council meeting in Bali last week that it was not willing to take the financial burden as it did not earn extra and was also not the official host of the tournament.
-
-The expenses also reportedly soared because the former PCB chairman, Zaka Ashraf, changed the venue of the first match from Lahore to Multan.
-
-...
-
-[Data](articles/4a1b03f4.json)
-
-[Extended Data](ext_articles/4a1b03f4.ext.json)
-
----
-
-### Action against Keheliya - SJB MPs contradict each other
-
-*2024-02-05 15:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Action-against-Keheliya-SJB-MPs-contradict-each-other/108-276352) · `en`
-
-Colombo, Feb. 05 (Daily Mirror)- Samagi Jana Balawegya (SJB) Members of Parliament contradicted each other on the party’s position regarding action that has to be taken against Minister keheliya Rambukwella, who is in remand prison at the moment.
-
-Though SJB MP Kavinda Jayawardene announced last week that his party has decided to bring in a second no confidence motion against Minister Rambukwella, SJB National Organizer Tissa Attanayake said what has to be done is to submit a resolution in Parliament requesting President Ranil Wickremeisnghe to take action against Rambukwella and to mete out justice to those who have been affected by the drug purchasing scam.
-
-“What we should focus on is bringing a resolution requesting President Wickremesinghe to take action against Minister Rambukwella and mete out justice to the people who have been affected by the inferior quality drugs which have been purchased without tenders,” MP Attanayake told the media today.
-
-...
-
-[Data](articles/63302de2.json)
-
-[Extended Data](ext_articles/63302de2.ext.json)
-
----
-
-### Mullaitivu female dies in Jaffna
-
-*2024-02-05 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/175623) · `ta`
-
-The deceased is Anton Anisralus (53 years old) from Mullaitivu, Mulliyawala.
-
-Following the fever on the 29th, he was admitted to the Mullaitivu Hospital and was transferred to the Jaffna Bodhana Hospital for further treatment.
-
-He died on Sunday without treatment.
-
-◼️
-
-[Data](articles/d1f62840.json)
-
-[Extended Data](ext_articles/d1f62840.ext.json)
-
----
-
-### Nurses Don Civilian Attire in Nationwide Action
-
-*2024-02-05 15:42:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/05/nurses-don-civilian-attire-in-nationwide-action/) · `en`
-
-COLOMBO (News 1st); Members of the Public Service United Nurses Union (PSUNU) across Sri Lanka engaged in a work-to-rule action today, highlighting their demands for improved support and working conditions.
-
-Nurses reported for duty in civilian attire instead of their official uniforms at major hospitals such as the Colombo National Hospital, Kandy General Hospital, Karapitiya Teaching Hospital, Kurunegala Teaching Hospital, Matara Hospital, and Anuradhapura Hospital. Despite the action, treatment services were reportedly not disrupted.
-
-...
-
-[Data](articles/648b17a5.json)
-
-[Extended Data](ext_articles/648b17a5.ext.json)
-
----
-
-### 23 Indian fishermen
-
-*2024-02-05 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175622) · `ta`
-
-23 fishermen were arrested by the Navy on the 3rd of this month for allegedly fishing across the border.
-
-The 23 fishermen were later produced before the Kayts Magistrate's Court Judge J. Gajanidipalan.
-
-The magistrate has ordered them to be remanded until the 16th of this month.. The Department of Aquatic Resources said.
-
-46 Indian fishermen have been arrested on charges of fishing across the border so far this year and 8 boats have been seized.
-
-◼️
-
-[Data](articles/58521e04.json)
-
-[Extended Data](ext_articles/58521e04.ext.json)
 
 ---

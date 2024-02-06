@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 22:32:56**
+As of **2024-02-06 22:49:39**
 
 ## Newspaper Stats
 
-*Scraped **5,266** Articles*
+*Scraped **5,267** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 290
 newsfirstlk | 326
 adalk | 451
 virakesarilk | 626
-adaderanalk | 653
+adaderanalk | 654
 tamilmirrorlk | 658
 adaderanasinhalalk | 684
 dailymirrorlk | 748
@@ -26,31 +26,61 @@ dailymirrorlk | 748
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,253 (99.8%) of 5,266 articles have been extended.
+5,267 (100.0%) of 5,267 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
 
-### බැඩ්මින්ටන් ජාතික ශූරයා සිටියදී අනුශූරයා ආසියානු ක්‍රීඩා උළෙලට ගිහින්
+### The runners up when the badminton national champion went to Asian Games
 
 *2024-02-06 21:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193059) · `si`
 
-ශ්‍රී ලංකා බැඩ්මින්ටන් සම්මේලනයේ සභාපතිවරයා ඇතුළු නිලධාරී මණ්ඩලයට ක්‍රීඩා වැරදි වැළැක්වීමේ විශේෂ විමර්ශන ඒකකය වෙත හෙට (07) දිනයේ කරුණු දක්වන ලෙස කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+The Colombo Chief Magistrate's Court has ordered the Chairman of the Sri Lanka Badminton Federation.
 
-ඒ බැඩ්මින්ටන් ජාතික ශූරයා ශ්‍රී ලංකාවේ සිටියදී 2023 ආසියානු ක්‍රීඩා උළෙල නියෝජනය කිරීම සඳහා අනුශූරයා ඊට සහභාගි කරවීම සම්බන්ධයෙන් කරුණු දැක්වීම සඳහාය.
+The Badminton national champion was to take part in the 2023 Asian Games.
 
-2023 වසරේ චීනයේ පැවති ආසියානු ක්‍රීඩා උළෙල සඳහා ශ්‍රී ලංකාව නියෝජනය කරමින්  ක්‍රීඩක ක්‍රීඩිකාවන් 97 දෙනෙකු සහභාගි වූ අතර ඊට එක් බැඩ්මින්ටන් ක්‍රීඩකයෙකු ඇතුළත්වී තිබුණි.
+A team of 97 athletes representing Sri Lanka in 2023, one badminton was included in the Asian Games in China.
 
-ඒ අඛණ්ඩව වසර 3ක් බැඩ්මින්ටන් ජාතික ශූරයා වූ බුවනෙක ගුණතිලක වෙනුවට අනුශූරයා වූ විරේන් නෙත්තසිංහය.
+Runner Religion, River, Inspiroller, Badminton national champion, Badminton national champion.
 
-පසුව සිය පුත්‍රයාට වූ අසාධාරණය සම්බන්ධයෙන් බුවනක ගුණතිලක ක්‍රීඩකයාගේ මව වන ප්‍රීති දිස්නා රංජනී ඉලේපෙරුම මහත්මිය  ක්‍රීඩා වැරැදි වැළැක්වීමේ විශේෂ විමර්ශන ඒකකය වෙත පැමිණිල්ලක් සිදු කළ අතර ඒ අනුව එම ඒකකය විමර්ශන ආරම්භ කළේය.
+The mother of Buhuka Gunatilleke was a complaint with Mrs. Duwaka Gunatilleke, the mother of Duwaka Gunatilleke, regarding the injustice of his son.
 
-පසුව එම විමර්ශනවල ප්‍රගතිය දැක්වෙන වාර්තාවක් එම ඒකකයේ අධ්‍යක්ෂ සහකාර පොලිස් අධිකාරි ජයනාත් වනසිංහ මහතා විසින් කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය ඉදිරිපත් කර තිබුණි.
+A report on the progress of those investigations was submitted by the Chief of Police Jayanath Wanasinghe.
+
+The runners-up of Badminton National Championship, the 2021, 2022 and 2023, won the Badminton National Championship.
+
+Chief Inspector Vidanage of the Union requested the court to issue an order to investigate the incident.
+
+After considering the facts, the Colombo Chief Magistrate Prasanna Alwis, Sri Lanka Badminton Federation, has ordered to support the investigation.
+
+◼️
+
+[Data](articles/e8123282.json)
+
+[Extended Data](ext_articles/e8123282.ext.json)
+
+---
+
+### Sri Lankan Catholic church to begin canonization process for hundreds killed in Easter attacks
+
+*2024-02-06 21:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97062/sri-lankan-catholic-church-to-begin-canonization-process-for-hundreds-killed-in-easter-attacks) · `en`
+
+The Archdiocese of Colombo, Sri Lanka, is set to begin the canonization process for the hundreds of faithful killed in the 2019 Easter Sunday terrorist attack in the country, an archdiocesan official confirmed with CNA.
+
+Fr. Joy Indika Perera, a representative for Cardinal Malcolm Ranjith of Colombo, told CNA in an email last week that the archdiocese plans to submit a petition to the Vatican to declare those killed in the Easter Sunday attacks “martyrs of faith.”
+
+Fr. Perera said the archdiocese will be submitting the petition on April 21, exactly five years after the attacks took place. That is the minimum amount of time required by the Church to open a person’s canonization cause.
+
+The petition will be submitted to the Vatican’s Dicastery for the Causes of Saints.
+
+Eight suicide bombers targeted two Catholic churches, one evangelical church, three luxury hotels, and other locations on April 19, 2019, killing an estimated 269 people and injuring more than 500.
 
 ...
 
-[Data](articles/e8123282.json)
+[Data](articles/1d12341e.json)
+
+[Extended Data](ext_articles/1d12341e.ext.json)
 
 ---
 
@@ -76,19 +106,21 @@ Eight suicide bombers targeted two Catholic churches, one evangelical church, th
 
 ---
 
-### நாடாளுமன்ற அமர்வில் பங்கேற்க கெஹலியவுக்கு சபாநாயகர் அனுமதி!
+### Speaker allowed Keheliya to attend parliamentary session
 
 *2024-02-06 21:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175746) · `ta`
 
-நாடாளுமன்றத்தின் புதிய அமர்வு புதன்கிழமை (7) ஆரம்பிக்கும் நிலையில், அதில் பங்குபற்றுவதற்கு விளக்கமறியலில் வைக்கப்பட்டுள்ள நாடாளுமன்ற உறுப்பினர் கெஹலிய ரம்புக்வெலவுக்கு சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன அனுமதி வழங்கியுள்ளார்.
+Speaker Mahinda Yapa Abeywardena has granted permission to Member of Parliament Keheliya Rambukwella, who has been interrogated to participate in the new session of Parliament on Wednesday (7).
 
-ரம்புக்வெலவை நாடாளுமன்றக் கூட்டங்களில் பங்கேற்க அனுமதிக்குமாறு அவரது செயலாளர் ஒருவர் விடுத்த கோரிக்கையையடுத்து சபாநாயகர் இந்த அனுமதியை வழங்கியுள்ளார்.
+The Speaker has granted this permission on a request made by a secretary to allow Rambukwella to attend parliamentary meetings.
 
-இதன்படி, கெஹலிய ரம்புக்வெல்லவை நாடாளுமன்றத்துக்கு அழைத்து வருமாறு சிறைச்சாலைகள் ஆணையாளர் நாயகத்துக்கு எழுத்து மூலம் அறிவிக்கப்பட்டுள்ளது.
+Accordingly, the Commissioner General of Prisons has written in writing to bring Keheliya Rambukwella to Parliament.
 
 ◼️
 
 [Data](articles/4155c0c0.json)
+
+[Extended Data](ext_articles/4155c0c0.ext.json)
 
 ---
 
@@ -112,23 +144,27 @@ He proceeded to say that such requests from any detainee is considered based on 
 
 [Data](articles/8c4e6b26.json)
 
+[Extended Data](ext_articles/8c4e6b26.ext.json)
+
 ---
 
-### වාද්දුවේ නාඳුනන මළසිරුරක්
+### An unidentified bodies of Wadduwa
 
 *2024-02-06 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193058) · `si`
 
-වාද්දුව මුහුදු වෙරළ ප්‍රදේශයේ තිබී නාඳුනන පුද්ගල මළසිරුරක් හමුවී තිබේ.
+A unidentified body has been found in the Wadduwa beach area.
 
-වාද්දුව පොලීසිය සඳහන් කළේ වාද්දුව දුම්රියපොළ ආසන්න මුහුදු වෙරළ ප්‍රදේශයේ තිබී මෙම මළසිරුර අද (06) පස්වරුවේ හමුවී ඇති බවය.
+Wadduwa Police said that the body was found in the near seashore area near the Wadduwa Railway Station this afternoon.
 
-මියගොස් ඇති පුද්ගලයා වයස අවුරුදු 40ත් 50ත් අතර වියේ පසුවන පුද්ගලයෙකු බවට සැක කෙරෙයි.
+The victim is suspected to be between 40 and 50 years old.
 
-මූලික පරීක්ෂණවලින් පසුව සිරුර පානදුර මූලික රෝහලට රැගෙන ගොස් ඇත.
+The body has been taken to the Panadura Base Hospital following preliminary investigations.
 
 ◼️
 
 [Data](articles/5f06812b.json)
+
+[Extended Data](ext_articles/5f06812b.ext.json)
 
 ---
 
@@ -150,39 +186,45 @@ The inclusion of representatives from various regions and departments, including
 
 [Data](articles/7b8a68df.json)
 
+[Extended Data](ext_articles/7b8a68df.ext.json)
+
 ---
 
-### ඩොනල්ඩ් ට්‍රම්ප් ගැන අධිකරණයෙන් තීන්දුවක්
+### Court judgment of Donald Trump
 
 *2024-02-06 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193057) · `si`
 
-හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සම්බන්ධයෙන් එරට අධිකරණයක් බරපතළ තින්දුවක් ලබාදී තිබේ.
+Former US President of the US President Donald Trump has a serious form of a court.
 
-හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ට ජනාධිපති මුක්තිය නොමැති බව එම තීන්දුවෙහි දැක්වෙයි.
+It is in the verdict that former American President does not have the president of Donald Trump.
 
-ඒ අනුව එහි දැක්වෙන්නේ 2020 මැතිවරණය අවලංගු කිරීමට කුමන්ත්‍රණය කිරීමේ චෝදනාව සම්බන්ධයෙන් හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ට එරෙහිව නඩු පැවරිය හැකි බවය.
+Accordingly, it is possible that former American President can be prosecuted for the allegations of conspiracy to cancel the 2020 election.
 
 ◼️
 
 [Data](articles/5cf75d02.json)
 
+[Extended Data](ext_articles/5cf75d02.ext.json)
+
 ---
 
-### 2020தேர்தல் முடிவுகளை மாற்றியமைக்க முயன்றமைக்காக டிரம்பிற்கு எதிராக வழக்கு தொடரலாம் - அமெரிக்க நீதிமன்றம் முக்கிய தீர்ப்பு
+### 2020 may be sued by Trump for attempting to change the election results - US court's main verdict
 
 *2024-02-06 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175743) · `ta`
 
-அமெரிக்காவின் முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்பிற்கு எதிராக  2020 ம் ஆண்டு ஜனாதிபதி தேர்தல் முடிவுகளை மாற்றியமைக்க சதி செய்த குற்றச்சாட்டுகளின் அடிப்படையில் வழக்கு தொடரலாம் என அமெரிக்க நீதிமன்றம் தெரிவித்துள்ளது.
+The US court has said that it may sue on the allegations of conspiring to change the 2020 presidential election against former US President Donald Trump.
 
-ஜனாதிபதியாக பதவி வகித்த காலத்தில் தான் முன்னெடுத்த நடவடிக்கைகளிற்காக தனக்கு எதிராக குற்றவியல் குற்றச்சாட்டுகளை சுமத்த முடியாது என டிரம்ப் தாக்கல் செய்த வரலாற்று முக்கியத்துவம் வாய்ந்த வழக்கு தொடர்பிலேயே நீதிமன்றம் இந்த தீர்ப்பை வழங்கியுள்ளது.
+The court has issued this ruling in a historic case that Trump has filed a historic case that he cannot impose criminal charges against him for his actions during his tenure as president.
 
-பல வழக்குகளில் தனக்கு விடுபாட்டுரிமையுள்ளது என  தெரிவித்துவந்த டிரம்பிற்கு இந்த தீர்ப்பு ஒரு பின்னடைவு என்பது குறிப்பிடத்தக்கது.
+It is noteworthy that the verdict was a setback for Trump, who claimed that he had no freedom in many cases.
 
-முன்னாள் ஜனாதிபதி இந்த தீர்ப்பிற்கு எதிராக மேல்முறையீடு செய்தால் இந்த விவகாரம் அமெரிக்காவின் உச்சநீதிமன்றத்திற்கு செல்லும் - உச்சநீதிமன்ற நீதிபதிகள் மத்தியில் பழமைவாதிகளின் ஆதிக்கம் அதிகம் என்பது குறிப்பிடத்தக்கது.
+It is noteworthy that if the former president appeals against the ruling, the issue will go to the Supreme Court of the United States - the conservative dominance among the Supreme Court judges.
 
 ◼️
 
 [Data](articles/86ea29b1.json)
+
+[Extended Data](ext_articles/86ea29b1.ext.json)
 
 ---
 
@@ -197,6 +239,8 @@ Colombo, Feb 06 (Daily Mirror) -  Criticizing State Minister of Indigenous Medi
 ...
 
 [Data](articles/5603019a.json)
+
+[Extended Data](ext_articles/5603019a.ext.json)
 
 ---
 
@@ -228,21 +272,23 @@ It could be delayed for weeks, if not months, if the case ends up before the Sup
 
 ---
 
-### நாளைய தினம் எரிபொருளுக்கு தட்டுப்பாடு ஏற்படுமா?
+### Will there be a shortage of fuel tomorrow?
 
 *2024-02-06 20:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/175742) · `ta`
 
-இலங்கை பெற்றோலியக் கூட்டுத்தாபனத்துக்கு எரிபொருள் நிரப்பு நிலையங்களால் பணம் செலுத்துவதற்கான கால அவகாசம் இன்று (06) மட்டுப்படுத்தப்பட்டதால் நாளை (07) எரிபொருளுக்கு தட்டுப்பாடு ஏற்பட வாய்ப்புள்ளதாக எரிபொருள் விநியோகஸ்தர்கள் தெரிவிக்கின்றனர்.
+Fuel distributors say that the time of payment of money to the Ceylon Petroleum Corporation by refueling stations has been limited today (06).
 
-எரிபொருள் நிரப்பு நிலையங்களின் உரிமையாளர்களால் இன்றைய தினம் தேவையான எரிபொருள் ஓடரை ( கட்டளை)  குறித்த கால அவகாசத்துக்குள் செய்ய முடியாத நிலை ஏற்பட்டதாக  அவர்கள் சுட்டிக்காட்டியுள்ளனர்
+They pointed out that the owners of refueling stations were unable to make the required fuel (command) within the time period today.
 
-காலை பத்து மணிக்கு முன் தேவையான ஓடர்களை  செய்ய அனைவராலும் முடியாதுள்ளதாகவும் அவர்கள் கூறுகின்றனர்.
+They also say that everyone is not able to do the necessary tiers before ten o'clock in the morning.
 
-இதன் காரணமாக ஏற்படும் எரிபொருள் தட்டுப்பாட்டுக்கு தமது சங்கமும் எரிபொருள் நிரப்பும் நிலையங்களும் பொறுப்பல்ல எனவும் விநியோகஸ்தர்கள் சுட்டிக்காட்டியுள்ளனர்.
+Distributors have pointed out that their association and refueling stations are not responsible for the fuel shortage.
 
 ◼️
 
 [Data](articles/74bfb019.json)
+
+[Extended Data](ext_articles/74bfb019.ext.json)
 
 ---
 
@@ -334,39 +380,45 @@ The Consumer Affairs Authority (CAA) has said that about 50 bakeries who do not 
 
 ---
 
-### இந்திய அரசியல்வாதிகளுக்கு மதியுரை சேவைகளை வழங்கும் நிறுவனத்திற்கு அநுர தலைமையிலான குழு விஜயம்
+### Anura -led team visits Indian politicians
 
 *2024-02-06 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175736) · `ta`
 
-இந்திய அரசாங்கத்தின் அழைப்பின்பேரில் அந்நாட்டுக்கு விஜயம் மேற்கொண்டுள்ள தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க உள்ளிட்ட குழுவினர் விஜயத்தின் இரண்டாவது நாளாகிய செவ்வாய்க்கிழமை (06) புதுடில்லியில் அமைந்துள்ள Observer Research Foundation உலகளாவிய சிந்தனைக் குழு மன்றத்திற்குச் சென்றார்கள்.
+At the invitation of the Government of India, the National People's Power Leader Anura Kumara Dissanayake, who visited the country, visited the Observer Research Foundation Council in New Delhi on Tuesday (06).
 
-Observer Research Foundation என்பது இந்திய அரசாங்கத்தின் கொள்கை வகுப்பதிலும் தீர்மானம் மேற்கொள்வதிலும்  இந்திய அரசியல்வாதிகளுக்கும் வர்த்தக சமூகத்திற்கும் மதியுரை சேவைகளை வழங்குகின்ற நிறுவனமாகும்.
+Observer Research Foundation is a company that offers Indian politicians and business community in the policy of the Government of India.
 
-அதன் பின்னர் தூதுக்குழுவினர் இந்தியாவின் எலெக்ரோனிக் மற்றும் தகவல் தொழில்நுட்ப அமைச்சுடன் இணைந்த இந்தியத் தனித்துவ அடையாள ஆணைய அமைப்பினை (Unique Identification Authority of India) பார்வையிட்டதோடு அதன் பிரதானிகளுடன் சுமுகமான கலந்துரையாடலிலும் ஈடுபட்டனர்.
+Subsequently, the delegation visited the Unique Identification Authority of India, which was associated with the Ministry of Electronics and Information Technology in India and engaged in a smooth discussion with its chiefs.
 
-பின்னர் செவ்வாய்க்கிழமை (06) பிற்பகல் தேசிய மக்கள் சக்தியின் தலைவர்கள் அஹமதாபாத் நகரத்தை நோக்கிப் புறப்பட்டனர்.
+Later on Tuesday (06), the leaders of the National People's Power departed towards Ahmedabad.
 
 ◼️
 
 [Data](articles/da04a117.json)
 
+[Extended Data](ext_articles/da04a117.ext.json)
+
 ---
 
-### ஏனைய நாடுகளுடன் சுதந்திர வர்த்தக ஒப்பந்தங்களை ஏற்படுத்தி மீண்டும் பொருளாதார  வீழ்ச்சி ஏற்படாத நிலையை உருவாக்குவோம் - அலி சப்ரி
+### We will create free trade agreements with other countries and create a situation where there is no economic downturn - Ali Sabri
 
 *2024-02-06 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175738) · `ta`
 
-நாடுகளுக்கிடையில் சுதந்திர வர்த்தக உடன்படிக்கைகளை ஏற்படுத்தி நாட்டின் பொருளாதாரத்தை மீண்டும் வீழ்ச்சியடையாத நிலைக்குக் கொண்டு செல்வதற்கு ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வேலைத்திட்டம் வலுப்படுத்தப்பட்டு முன்னெடுக்கப்பட வேண்டும் என வெளிநாட்டலுவல்கள் அமைச்சர் அலி சப்ரி தெரிவித்தார்.
+Foreign Affairs Minister Ali Sabri said President Ranil Wickremesinghe's program should be strengthened and carried out to strengthen and carry out the country's economy.
 
-இந்த வருட இறுதிக்குள் இந்தியா, இந்தோனேசியா, மலேசியா, வியட்நாம் மற்றும் சீனா ஆகிய நாடுகளுடன் சுதந்திர வர்த்தக உடன்படிக்கைகளை கைச்சாத்திட திட்டமிடப்பட்டுள்ளதாகவும் அமைச்சர் குறிப்பிட்டுள்ளார்.
+The Minister also stated that by the end of this year, India, Indonesia, Malaysia, Vietnam and China are planning to sign the free trade agreements.
 
-ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (06) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் அலி சப்ரி  இவ்வாறு தெரிவித்தார்.
+Minister Ali Sabri said this at a media briefing held at the Presidential Media Center on Tuesday (06).
 
-ஸ்திரமான பொருளாதாரத்தை உருவாக்கும் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தொலைநோக்குப் பார்வையின்படி, போட்டித்தன்மை வாய்ந்த புதிய சந்தைகளுடன் ஒப்பந்தங்களை மேற்கொண்டு இலங்கையின் பொருளாதாரத்திற்கு நேரடியாகப் பங்களிப்புகளைப் பெற்றுக்கொள்ள எதிர்பார்க்கின்றோம்.
+According to the vision of President Ranil Wickremesinghe, who creates a stable economy, we expect to make direct contributions to the economy of Sri Lanka with contracts with new markets.
+
+As a historic initiative, the free trade agreement was signed with Thailand recently. Sri Lanka is currently taking the necessary measures for the market with twenty -two crore people.
 
 ...
 
 [Data](articles/d167e857.json)
+
+[Extended Data](ext_articles/d167e857.ext.json)
 
 ---
 
@@ -510,23 +562,27 @@ The CAA has noted that any type of bread manufactured, packed, stored, offered f
 
 ---
 
-### තවත් රටවල් පහක් සමග නිදහස් වෙළඳ ගිවිසුම්
+### Free trade agreements with five other five countries
 
 *2024-02-06 19:17:40* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-රටවල්-පහක්-සමග-නිදහස්-වෙළඳ-ගිවිසුම්/11-407934) · `si`
 
-රටවල් අතර නිදහස් වෙළෙඳ ගිවිසුම් ඇති කර ගනිමින් මෙරට ආර්ථිකය යළි නොවැටෙන තැනකට පත් කරලීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගෙන යන වැඩපිළිවෙළ ශක්තිමත් කර ඉදිරියට ගෙන යා යුතු බව විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්රි මහතා පැවසීය.
+External Affairs Minister Ali Sabri said that the program of President Ranil Wickremesinghe should be strengthened to bring free trade agreements among countries to resume the economy of the country.
 
-මෙම වසර අවසානය වන විට ඉන්දියාව, ඉන්දුනීසියාව, මැලේසියාව, වියට්නාමය හා චීනය සමඟ ද නිදහස් වෙළෙඳ ගිවිසුම් ඇති කරගැනීමට සැලසුම් කර ඇති බව ද අමාත්‍යවරයා සඳහන් කළේය.
+The Minister said that by the end of this year, India, Indonesia, Malaysia, Vietnam, Vietnam, and China have also been established.
 
-විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්රි මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (06) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Minister of External Affairs Ali Sabri said this at a press conference held at the Presidential Media Center today (06) at the Presidential Media Center.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්රි මහතා මෙසේ ද පැවසීය,
+Minister of External Affairs Ali Sabri said:
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ස්ථාවර ආර්ථිකයක් ඇති කිරීමේ දැක්මට අනුව තරගකාරී නව වෙළෙඳපොළවල් සමඟ ගිවිසුම් ඇති කරගනිමින් ශ්‍රී ලංකාවේ ආර්ථිකයට එය සෘජුව දායක කර ගැනීමට බලාපොරොත්තු වෙනවා.
+According to the vision of making a standing economy of President Ranil Wickremesinghe, the vision of the vision of a stable economy, the economy is expected to directly contribute to Sri Lanka's economy.
+
+As a historic move, a free trade agreement with Thailand recently included. Sri Lanka has seen work for a million-ced of market.
 
 ...
 
 [Data](articles/791aaac2.json)
+
+[Extended Data](ext_articles/791aaac2.ext.json)
 
 ---
 
@@ -588,19 +644,21 @@ The forum aims to facilitate discussions and collaborations on hydrology and met
 
 ---
 
-### වාහන ආනයනය තව කාලයකට කරන්න බැරිවේවි
+### Import of vehicles cannot be made more time
 
 *2024-02-06 18:33:34* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-තව-කාලයකට-කරන්න-බැරිවේවි/11-407933) · `si`
 
-විදේශ විනිමය සීමා ලිහිල් කිරීම පිළිබඳව මුදල් අමාත්‍යාංශය විසින් පාර්ලිමේන්තුවට ඉදිරියේදී අදියර වශයෙන් දැනුම් දෙනු ඇති බව සම කැබිනට් ප්‍රකාශක අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පැවැසීය.
+The Ministry of Finance Bandula Gunawardena said that the Ministry of Finance will be informed in Parliament regarding the easingty of foreign exchange limits.
 
-පවතින විදේශ විනිමය අර්බුදය තුළ ආනයන සීමා ලිහිල් කිරීම ශුක්ෂම ලෙස ලිහිල් කරන බවද අමාත්‍යවරයා පැවැසීය.
+The Minister said that the company will ease the importation of import rests in the prevailing forex crisis.
 
-මෙහිදී අදහස් දක්වමින් අමාත්‍යවරයා සඳහන් කළේ තව කාලයකට මෝටර් වාහන ආනයනය කිරිමට හැකියාවක් පවතිනු ඇතැයි තමන් නොසිතන බවයි.
+Speaking further the Minister said that he would not expect to import motor vehicles.
 
 ◼️
 
 [Data](articles/699979f7.json)
+
+[Extended Data](ext_articles/699979f7.ext.json)
 
 ---
 
@@ -1943,23 +2001,5 @@ Following this, the Vaddukoddai police are conducting investigations to arrest t
 [Data](articles/67e43cf9.json)
 
 [Extended Data](ext_articles/67e43cf9.ext.json)
-
----
-
-### Bread prices in Kalutara district increase against raids
-
-*2024-02-06 13:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bread-prices-in-Kalutara-district-increase-against-raids/108-276426) · `en`
-
-Following the decision to initiate raids targeting the sale of underweight bread in bakeries, bakery owners in the Kalutara district have decided to increase the selling price of a loaf of bread.
-
-The Consumer Affairs Authority (CAA) initiated raids targeting the sale of underweight bread in bakeries starting yesterday.
-
-Accordingly, the selling price of a loaf of bread, which was Rs. 130, has increased to Rs. 150. Even though the government announced the weight of a loaf of bread at 450g, most of the shops sell bread weighing nearly 350g.
-
-◼️
-
-[Data](articles/253a4d90.json)
-
-[Extended Data](ext_articles/253a4d90.ext.json)
 
 ---

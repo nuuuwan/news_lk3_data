@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 18:20:00**
+As of **2024-02-06 18:33:18**
 
 ## Newspaper Stats
 
-*Scraped **5,213** Articles*
+*Scraped **5,214** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 446
 virakesarilk | 618
 adaderanalk | 646
 tamilmirrorlk | 654
-adaderanasinhalalk | 677
+adaderanasinhalalk | 678
 dailymirrorlk | 740
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,205 (99.8%) of 5,213 articles have been extended.
+5,213 (100.0%) of 5,214 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,75 +50,99 @@ The sleeping pills were in great demand in Sri Lanka and the tablets were sold i
 
 [Data](articles/9abb32ae.json)
 
+[Extended Data](ext_articles/9abb32ae.ext.json)
+
 ---
 
-### ஜேவிபி தலைவரின் இந்திய விஜயம் - நாமல் தெரிவித்திருப்பது என்ன?
+### JVP leader's visit to India - What is Namal?
 
 *2024-02-06 17:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175735) · `ta`
 
-கடந்தகாலங்களில்  இந்திய எதிர்ப்பு கொள்கையை பின்பற்றிய ஜேவிபியின் இந்திய விஜயம் குறித்து நாடாளுமன்ற உறுப்பினர் நாமல் ராஜபக்ச கேள்வி எழுப்பியுள்ளார்.
+Parliamentarian Namal Rajapaksa has questioned the JVP's visit to India, which followed the anti -Indian policy in the past.
 
-இலங்கை கடந்தகாலங்களில் பல இந்திய முதலீடுகளை முதலீட்டாளர்களை இழந்தமைக்கு ஜேவிபியே முக்கிய காரணம்எனஅவர் தெரிவித்துள்ளார்.
+The JVP is the main reason for the loss of many Indian investments in Sri Lanka's past.
 
-ஜேவிபியின் இந்திய எதிர்ப்புகொள்கையால்  சம்பூர்மின்திட்டம் கைவிடப்பட்டமை இதற்கான ஒரு உதாரணம் என அவர் தெரிவித்துள்ளார்.
+He said an example of this was the abandonment of the Samburman project due to JVP's Indian opposition.
 
-ஆனால் ஜேவிபி தற்போது வேறு கொள்கையை பின்பற்றுகின்றது இந்தியாவிற்கு சுற்றுப்பயணம் மேற்கொள்கின்றது இது சிறந்த விடயம என நாமல் ராஜபக்ச தெரிவித்துள்ளார்.
+But the JVP is currently following a different policy.
 
-இந்திய விஜயத்தின் பின்னர் ஜேவிபி இலங்கைக்குள் முதலீட்டாளர்கள் வருவதற்கு ஆதரவளிக்கும் என  அவர் நம்பிக்கை  வெளியிட்டுள்ளார்.
+He has expressed his hope that the JVP will support the arrival of investors in Sri Lanka after his visit to India.
 
 ◼️
 
 [Data](articles/214ee2b6.json)
 
+[Extended Data](ext_articles/214ee2b6.ext.json)
+
 ---
 
-### வன்னி மாவட்ட பாராளுமன்ற உறுப்பினர் செல்வம் அடைக்கலநாதனின் தாயாரின் பூதவுடலுக்கு பல்வேறு அரசியல் தரப்பினர் அஞ்சலி
+### Various political parties pay tribute to the mother of Vanni district parliamentarian Selvam Adakkalanathan's mother
 
 *2024-02-06 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175731) · `ta`
 
-வன்னி மாவட்ட பாராளுமன்ற உறுப்பினர் செல்வம் அடைக்கல நாதனின் தாயார் அமிர்தலிங்கம் செபமாலை தனது 84 ஆவது வயதில்  திங்கட்கிழமை (5) காலமானார்.
+Vanni District Parliamentarian Selvam Adamalakala Nathan's mother Amirthalingam Sebamali passed away on Monday (5) at the age of 84.
 
-அவரது பூதவுடல் மன்னார் தோட்டவெளி ஜோசப்வாஸ் நகர் கிராமத்தில் உள்ள அவரது இல்லத்தில் மக்களின் அஞ்சலிக்காக வைக்கப்பட்டுள்ளது.
+His bodies have been placed in his residence in the village of Josephvas Nagar, Mannar.
 
-இந்த நிலையில் அன்னாரது பூதவுடலுக்கு பாராளுமன்ற உறுப்பினர்கள் உள்ளடங்கலாக பல்வேறு தரப்பினரும், அரசியல் பிரதிநிதிகளும் அஞ்சலி செலுத்தி வருகின்றனர்.
+In this case, various parties and political representatives are paying tribute to the Annaru Buddhist.
 
-தோட்டவெளி ஜோசப் வாஸ் ஆலயத்தில் நாளை புதன்கிழமை (7) காலை இரங்கல் திருப்பலி ஒப்புக் கொடுக்கப்பட்டு விடத்தல்தீவு பொது மயானத்தில் நல்லடக்கம் செய்யப்படவுள்ளமை குறிப்பிடத்தக்கது.
+It is noteworthy that the condolences will be held tomorrow morning at the Joseph Vas Temple at the Estate Joseph Vas Temple.
 
 ◼️
 
 [Data](articles/6643071d.json)
 
+[Extended Data](ext_articles/6643071d.ext.json)
+
 ---
 
-### 200 மில்லியன் ரூபா பெறுமதியான இரண்டு சொகுசு கார்களை உடனடியாக கைப்பற்றுமாறு நீதிமன்றம் உத்தரவு!
+### Court ordered to seize two luxury cars worth Rs 200 million
 
 *2024-02-06 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175734) · `ta`
 
-மோட்டார் போக்குவரத்து திணைக்களத்தின் கணினி அமைப்பில் உள்ள தரவுகளை அழித்து, சாதாரண கார்களாக பதிவு செய்து சுங்க வரி செலுத்தாமல் சட்டவிரோதமான முறையில் இறக்குமதி செய்யப்பட்ட சுமார் 200 மில்லியன் ரூபா பெறுமதியான இரண்டு சொகுசு வாகனங்களை உடனடியாக  கைப்பற்றி அரசுடைமையாக்குமாறு  நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The court has ordered the immediate nationalization of two luxury vehicles worth about 200 million rupees worth of illegally imported by the Motor Transport Department's computer system, registered as ordinary cars.
 
-கொழும்பு பிரதான நீதிவான் பிரசன்ன அல்விஸ் செவ்வாய்க்கிழமை (06) இந்த உத்தரவை இலஞ்ச ஊழல்கள் விசாரணை ஆணைக் குழுவுக்கு பிறப்பித்துள்ளார்.
+Colombo Chief Justice Prasanna Alwis issued this order to the Bribery Commission on Tuesday (06).
 
-குறித்த இரண்டு சொகுசு வாகனங்களும் 2005 ஆம் ஆண்டு இலங்கைக்கு இறக்குமதி செய்யப்பட்டு, இரண்டு சாதாரண கார்களாக அவற்றைப்  பதிவு செய்து , சொகுசு  வாகன இறக்குமதிக்காக  அரசாங்கத்துக்குச் செலுத்த வேண்டிய  வரி  இவற்றுக்குச் செலுத்தப்படாமை தொடர்பில் இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு நீதிமன்றத்துக்கு  அறிவித்ததையடுத்து நீதிவான் இந்த உத்தரவை பிறப்பித்தார்.
+The judge issued the order after the Bribery Commission issued the court in 2005 that the two luxury vehicles were imported to Sri Lanka in 2005 and registered as two ordinary cars and the government did not pay the tax on the importation of luxury vehicle imports.
 
 ◼️
 
 [Data](articles/ecc03e5c.json)
 
+[Extended Data](ext_articles/ecc03e5c.ext.json)
+
 ---
 
-### அரகலய போராட்டத்தின்போது  ரணிலின் வீட்டை எரித்ததாகக் கூறப்படும் ஆசிரியருக்குப் பிணை!
+### බේකරි 50කට නඩු
+
+*2024-02-06 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193052) · `si`
+
+පාන්වල නියමිත බර සඳහා වූ ගැසට් පත්‍රය නිකුත් කිරිමෙන් පසුව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය ඒ සඳහා දිවයින පුරා වැටලීම් ඊයේ (05) දිනයේ දී ආරම්භ කළේය.
+
+එහිදී බේකරි සහ වෙළෙඳසල් පරික්ෂා කිරිමේ දී නියමිත බර ප්‍රමාණය මෙන්ම මිල ප්‍රදර්ශනය නොකළ බේකරි 50ක් පමණ වැටලීම් සිදුකර ඉදිරියේදී එම ආයතනවලට නඩු පැවරිමට කටයුතු කර ලැබේ.
+
+◼️
+
+[Data](articles/39709714.json)
+
+---
+
+### Ranil's house was burnt during the Arakalai struggle!
 
 *2024-02-06 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175733) · `ta`
 
-அரகலய போராட்டத்தின்போது  ஜனாதிபதி  ரணில் விக்கிரமசிங்கவின் வீட்டை எரித்ததாக சந்தேகத்தின்பேரில் கைது செய்யப்பட்டு நீதிமன்றில்  ஆஜர்படுத்தப்பட்ட ஆங்கில ஆசிரியரை பிணையில்  விடுதலை செய்யுமாறு கோட்டை நீதிவான் திலினி கமகே செவ்வாய்க்கிழமை (06) உத்தரவிட்டுள்ளார்.
+Fort Magistrate Thilini Kamage on Tuesday (06) has ordered the release of an English teacher who was arrested on suspicion of burning President Ranil Wickremesinghe's house during the Arakalai protest.
 
-சந்தேக நபர்  5 இலட்சம் ரூபா பெறுமதியான சரீரப் பிணையில் விடுவிக்கப்பட்டதுடன்   சம்பவம் தொடர்பிலான  விசாரணைகள் நிறைவடையும்  வரை நீதிமன்ற விசாரணைகளின்போது  ஆஜராகுமாறு  உத்தரவிடப்பட்டது.
+The suspect was released on bail of Rs 5 lakhs and ordered to appear during a court hearing until investigations into the incident are completed.
 
-பொரலஸ்கமுவ பிரதேசத்தில் வசிக்கும்  46 வயதுடைய ஆங்கில ஆசிரியரே இவ்வாறு பிணையில் விடுவிக்கப்பட்டுள்ளார்.
+The 46 -year -old English teacher living in Boraleskamuwa area has been released on bail.
 
 ◼️
 
 [Data](articles/d42bf589.json)
+
+[Extended Data](ext_articles/d42bf589.ext.json)
 
 ---
 
@@ -196,17 +220,19 @@ Minister Sabry highlighted the recent FTA with Thailand as a historic step towar
 
 ---
 
-### கெஹலியவின் இராஜினாமாவை உறுதிப்படுத்தி வர்த்தமானி வெளியிடப்பட்டது!
+### Gazette released by confirming Keheliya's resignation!
 
 *2024-02-06 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175730) · `ta`
 
-கெஹலிய ரம்புக்வெல்லவின் இராஜினாமா ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் ஏற்றுக் கொள்ளப்பட்ட நிலையிலேயே இந்த வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+The gazette notification has been issued as the resignation of Keheliya Rambukwella's resignation was accepted by President Ranil Wickremesinghe.
 
-இவரது இராஜினாமா இம்மாதம் 3 ஆம் முதல் அமுலுக்கு வருவதாக குறித்த வர்த்தமானியில் தெரிவிக்கப்பட்டுள்ளது.
+His resignation will come into effect from 3rd this month.
 
 ◼️
 
 [Data](articles/fe12e17d.json)
+
+[Extended Data](ext_articles/fe12e17d.ext.json)
 
 ---
 
@@ -1134,21 +1160,23 @@ The facility is well-equipped, featuring a hydrotherapy unit and a state-of-the-
 
 ---
 
-### තවත් කෙහෙළියලා බිහිවීම වළක්වන හැටි උදය කියයි
+### Udayer tells how to prevent more Keheld
 
 *2024-02-06 13:14:35* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-කෙහෙළියලා-බිහිවීම-වළක්වන-හැටි-උදය-කියයි/11-407928) · `si`
 
-අනාගතයේ තවත් කෙහෙළිය වැනි අමාත්‍යවරුන් බිහි නොවීමට නම් ඖෂධ නියාමන අධිකාරිය සෞඛ්‍ය අමාත්‍යාංශයේ බලපෑමෙන් තොර ආයතනයක් බවට පත්කල යුතු බව පිවිතුරු හෙළ උරුමයේ නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි.
+Leader of the Level Gammanpila says that there should be no effective institutions in the future in the future, says the Level Gammanpila that the Drug Regulatory Authority should be made an influential body.
 
-ඒ මහතා මේ බව පැවසූවේ අද දින (2024.02.06) පිවිතුරු හෙළ උරුමය පක්ෂ මූලස්ථානයේ පැවති මාධ්‍ය හමුවකට එක්වෙමිනි. එහිදී පිවිතුරු හෙළ උරුමය නායකයා වැඩිදුරටත් මෙසේ අදහස් දැක්වීය.
+He was speaking at a press conference held at the JHU today (2024.04.06).. The Hela Hela Heraner added:
 
-"අපි කෙහෙලිය රඹුක්වැල්ල ඇමතිවරයාට දඬුවම් කිරීමට දක්වන උනන්දුවම තවත් කෙහෙලිය කෙනෙක් බිහිවීම වැලැක්වීමටත් දක්වන්න ඕනි. ලෙඩක් සුව කිරීමට වඩා වලක්වා ගැනීමයි වටින්නේ.  රුපියල් මිලියන සීයකට වැඩි මිල දී ගැනීමක දී ඒකට ඇමති මණ්ඩල අනුමැතිය ඕනි.
+"Our interest in punishing Minister Rambukwella has to punish minister is to prevent the emergence of another. It is worth presting to prevent sickness.It has to approval of the Minister of Cabinet in more than Rs.
 
-ඒක ඇමති මණ්ඩලයට අවශ්‍ය තොරතුරු සහ නිර්දේශ ඉදිරිපත් කරන්නේ ඇමතිවරයා.  ඖෂධ මිල දී ගැනීම් අනිවාර්රයෙන්ම රුපියල් මිලියන සීයට වඩා වැඩි නිසා ඇමතිවරයා විසින් ඇමති මණ්ඩල පත්‍රිකාවක් ඉදිරිපත් කරන්න ඕනි.  ඒ කියන්නේ ප්‍රසම්පාදන ක්‍රියාවලියට ඇමතිවරයාගේ සම්බන්ධයක් තිබෙනවා.
+It is published by the Minister.Since pricing is more than Rs.That means the Minister has a link to the procurement process.
 
 ...
 
 [Data](articles/e9afc367.json)
+
+[Extended Data](ext_articles/e9afc367.ext.json)
 
 ---
 
@@ -1202,21 +1230,25 @@ He further emphasised that President Wickremesinghe’s reappointment is essenti
 
 ---
 
-### ඉදිරි ජනපතිවරණයට පොහොට්ටුවෙන් අපේක්ෂකයෙක්
+### A candidate for the next presidential election
 
 *2024-02-06 13:07:28* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-ජනපතිවරණයට-පොහොට්ටුවෙන්-අපේක්ෂකයෙක්/11-407927) · `si`
 
-ඉදිරි ජනාධිපතිවරණයට පොදු ජනපෙරමුණේම පක්ෂයේ කෙනෙක් ඉදිරිපත් කරනවා යැයි සාගරකාරියවසම් අද පොළොන්නරුවේදී පැවසිය
+Samparakarrayasam said in Polonnaruwa as presidential election in general election
 
-පොදුජන පෙරමුණ විසින් සංවිදානය කරනු ලබන "සද් ජන රළ " රැස්වීම් මාලාවේ සමාරම්භක රැස්වීම අද (06) උදෑසන පොලොන්නරුව ගිරිතලේ ප්‍රදේශයේදී පැවැත්විණි.
+The inaugural meeting of the "Sad Peoples' Meetings held by the Commonwealth Front held in Giritale in Polonnaruwa this morning.
 
-පොදුජන පෙරමුණේ පොලොන්නරුව දිස්ත්‍රීක් නායක සිරිපාල ගම්ලත් මහතා විසින් මෙම රැස්වීම සංවිදානය කරනු ලැබ තිබූ අතර මෙම රැස්වීම සදහා පොදුජන පෙරමුණේ ප්‍රධාන ලේකම් නීතීඥ සාගර කාරියවසම් පාර්ලිමේන්තු මන්ත්‍රීවරුන්වන නාමල් රාජපක්ෂ,තිස්ස කුට්ටිආරච්චි ,ඩී.වී.චානක ,ඉන්දික අනුරුද්ධ,තේනුක විදානගමේ,ජගත් සමරවික්‍රම,චින්තක මායාදුන්න  යන මන්ත්‍රීවරුන්  ඇතුලු පොලොන්නරුව දිස්ත්‍රීක්කයේ පොදුජන පෙරමුණේ ක්‍රියාකාරීන් විශාල පිරිසක් සහභාගි වී සිටියහ.
+The meeting was organized by District Leader Siripilla Gamlath, General Secretary of the General Secretary of the General Secretary of the General Secretary of the General Kariyawanagama, Tornoka, Indika Vidanagama, Jagath Samarawickrama, Jagath Samarawickrama, Chinthaka, Ginuka Vidanagama, Chinthaka.A large number of activists on the Polonnaruwa District participated in the Polonnaruwa District.
 
-මෙහිදී අදහස් දක්වමින් පොදුජන පෙරමුණේ ප්‍රධාන ලේකම් නීතීඥ සාගර කාරියවසම් වැඩිදුරටත් පැවැසුවේ,
+General Secretary of the General Secretary of the General Secretary Attorney General Sagara Kariyawasam said
+
+"This party was created to build a good country for the future of the country as well as a good country for the children of this country.Unable to.
 
 ...
 
 [Data](articles/89adecdd.json)
+
+[Extended Data](ext_articles/89adecdd.ext.json)
 
 ---
 
@@ -1903,29 +1935,5 @@ Two people in the three-wheeler injured in the accident have been hospitalized f
 [Data](articles/5071f64c.json)
 
 [Extended Data](ext_articles/5071f64c.ext.json)
-
----
-
-### Flexible work shifts for Muslim public sector officers during Ramadan season
-
-*2024-02-06 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97038/flexible-work-shifts-for-muslim-public-sector-officers-during-ramadan-season) · `en`
-
-Special changes are to be made to the public sector work shifts to facilitate the Muslim officers who are taking part in prayers and religious activities in view of the Ramadan season this year.
-
-This was communicated by way of a circular issued by the Ministry of Public Administration, addressed to the Ministerial Secretaries, Provincial Chief Secretaries, Heads of Departments and Heads of State Corporations and Statutory Boards earlier last week.
-
-The Ramadan season is set to begin on 12 March and end on 11 April.
-
-As such, the ministry has given instructions to make necessary arrangements to enable Muslim officers to take part in the prayers and religious activities during this period.
-
-The communiqué notes that the work shifts should be arranged whenever possible to allow Muslim officers to participate in religious activities.
-
-Special leave may be approved only in case of unavoidable circumstances, it reads further.
-
-...
-
-[Data](articles/33251956.json)
-
-[Extended Data](ext_articles/33251956.ext.json)
 
 ---

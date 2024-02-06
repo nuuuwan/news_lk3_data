@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 07:15:37**
+As of **2024-02-06 07:30:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 717
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,049 (99.9%) of 5,053 articles have been extended.
+5,053 (100.0%) of 5,053 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ The palace said a separate issue of concern had been spotted during that hospita
 
 [Data](articles/a1429010.json)
 
+[Extended Data](ext_articles/a1429010.ext.json)
+
 ---
 
 ### 14 months -long baby in Jaffna
@@ -70,23 +72,27 @@ Namasivayam Premkumar carried out a death investigation into the death of the ch
 
 ---
 
-### மோட்டார் சைக்கிளை திருடிய 13 வயதுடைய மாணவன் கைது
+### A 13 -year -old student arrested for stealing motorcycle
 
 *2024-02-06 06:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175667) · `ta`
 
-கண்டி-பொக்காவல பொலிஸ் பிரிவில் பாடசாலையொன்றில் கல்வி பயிலும் பதிமூன்று வயதுடைய மாணவன் மோட்டார் சைக்கிளை திருடியதாக பொலிஸாரால் திங்கட்கிழமை (05) கைது செய்யப்பட்டுள்ளார்.
+A thirteen-year-old student at a school in the Kandy-Pokawala police division has been arrested by the police on Monday (05) for allegedly stealing a motorcycle.
 
-சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட மாணவர்  பூஜாபிட்டிய மரத்துகொட பிரதேசத்தை சேர்ந்தவர் எனவும், அவர் பிரிவெனா  பாடசாலையொன்றில் கல்வி பயின்று வருவதாகவும்  பொலிஸ்  விசாரணைகளிலிருந்து தெரியவருகிறது.
+Police investigations have revealed that the student who was arrested on suspicion is from Poojapitiya Marathukoda area and is studying at a school.
 
-பொக்காவல பொலிஸாருக்கு கிடைத்த இரகசிய தகவலையடுத்து, அவரது வீட்டில் மறைத்து வைக்கப்பட்டிருந்த மோட்டார் சைக்கிள் பொலிஸாரால் கண்டுபிடிக்கப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+Police said that the motorcycle hidden at his home was found by the police.
 
-பொக்காவல திகல்ல பிரதேசத்தில் நபர் ஒருவருக்கு சொந்தமான மோட்டார் சைக்கிள் வீதியில் நிறுத்தி வைக்கப்பட்டிருந்த நிலையில் எடுத்துச் செல்லப்பட்டுள்ளதாக  தெரியவந்துள்ளது.
+It has been revealed that a motorcycle belonging to a man in Pokawala Digala area has been parked on the road.
 
-பொக்காவல பொலிஸ் நிலைய பொறுப்பதிகாரி  ஜானக சஞ்சீவவிற்கு கிடைத்த தகவலின் அடிப்படையில் அப்பகுதியில் உள்ள சிசிடிவி கேமராக்களை சோதனை செய்த பொலிஸார் சந்தேகத்திற்குரிய மாணவனை அடையாளம் கண்டுள்ளனர்.
+Based on the information received by the Pokawala Police Station Officer Janaka Sanjeeva, the police have identified the suspected student who examined CCTV cameras in the area.
 
-...
+Police said the motorcycle was parked near the student's house and that his parents or his family did not know.
+
+◼️
 
 [Data](articles/d0a98a4c.json)
+
+[Extended Data](ext_articles/d0a98a4c.ext.json)
 
 ---
 
@@ -123,6 +129,8 @@ Sri Lanka Seeks Thailand’s Help to Free 56 Citizens Held in Myanmar
 ◼️
 
 [Data](articles/23f434df.json)
+
+[Extended Data](ext_articles/23f434df.ext.json)
 
 ---
 

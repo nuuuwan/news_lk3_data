@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 12:17:25**
+As of **2024-02-06 12:32:54**
 
 ## Newspaper Stats
 
-*Scraped **5,108** Articles*
+*Scraped **5,119** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,119 @@ colombotelegraphcom | 60
 bbccomsinhala | 73
 dbsjeyarajcom | 140
 economynextcom | 266
-islandlk | 277
+islandlk | 278
 dailyftlk | 290
 newsfirstlk | 309
-adalk | 436
-virakesarilk | 595
+adalk | 439
+virakesarilk | 598
 adaderanalk | 630
 tamilmirrorlk | 642
-adaderanasinhalalk | 662
+adaderanasinhalalk | 666
 dailymirrorlk | 728
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,108 (100.0%) of 5,108 articles have been extended.
+5,108 (99.8%) of 5,119 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
+
+### கொழும்பு,  காலிமுகத்திடல் வாகன விபத்தில் இருவர் காயம்!
+
+*2024-02-06 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175696) · `ta`
+
+கொழும்பு,  காலிமுகத்திடல் 'வன் போல்பேஸு'க்கு அருகில் இன்று செவ்வாய்க்கிழமை (06) காலை விபத்துச் சம்பவம்  இடம்பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/db0e9387.json)
+
+---
+
+### பயிற்சியை நிறைவு செய்த 1,300  வைத்தியர்கள்  அரச  வைத்தியசாலைகளுக்கு நியமிக்கப்படுவர்!
+
+*2024-02-06 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175694) · `ta`
+
+வைத்தியர் பற்றாக்குறைக்கு தீர்வாக எதிர்வரும் மார்ச் மாதம் மேலும் 1,300 வைத்தியர்கள் அரச வைத்தியசாலைகளுக்கு நியமிக்கப்படவுள்ளதாக சுகாதார அமைச்சு தெரிவித்துள்ளது.
+
+இவர்கள்  தற்போது பயிற்சியின் இறுதிக்கட்டத்தில் உள்ளனர் என்றும்  வருவதாக சுகாதார அமைச்சு  செயலாளர் விசேட வைத்தியர் பாலித மஹிபால கூறியுள்ளார்.
+
+இதேவேளை, கடந்த வாரம் பயிற்சியை  முடித்த  590 பேர்,   பற்றாக்குறை  காணப்படும் அரச வைத்தியசாலைகளுக்கு  நியமிக்கப்பட்டுள்ளதாகவும் செயலாளர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/2953a25f.json)
+
+---
+
+### Election ’24: Judicial Evolution, Power Devolution, and a New Tamil Leader
+
+*2024-02-06 11:59:00* · [`islandlk`](http://island.lk/election-24-judicial-evolution-power-devolution-and-a-new-tamil-leader/) · `en`
+
+Sunday this week marks Sri Lanka’s 76th independence anniversary. By President Ranil Wickremesinghe’s reckoning another twenty four years will have to go by before Sri Lanka’s economy could fully recovery from the man made crisis it contracted two years ago. And what is immediately ahead is a “grueling recovery path.” That is the grim warning of Dushni Weerakoon, the respected Economist.
+
+Another Economist from abroad, Prof. Mick Moore, who coined the phrase “man-made crisis” to describe Gota’s debacle, has now advised that it is time for Sri Lanka to have an “authentic finance minister” after more than 30 years. Like the UB Wanninayake’s, NM Perera’s and Ronnie de Mel’s of old. Not the tandem Executive President / Finance Minister model of today.
+
+...
+
+[Data](articles/5463318e.json)
+
+[Extended Data](ext_articles/5463318e.ext.json)
+
+---
+
+### 7 lakhs of pain reliever pills attempted to smuggle Sri Lanka: One arrested
+
+*2024-02-06 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175677) · `ta`
+
+7 lakhs of pain relief pills have been seized and arrested on Monday night (05) night.
+
+Marine police, who were on patrol on the basis of confidential information that they were smuggled into Sri Lanka from Puthupullani beach next to Thiruppulani in Ramanathapuram district, have confiscated a country boat and about 7 lakhs of pain relief pills on the beach.
+
+A large hunger who smuggled painkillers pills to Sri Lanka has been arrested and is being investigated.
+
+◼️
+
+[Data](articles/558809f0.json)
+
+[Extended Data](ext_articles/558809f0.ext.json)
+
+---
+
+### තංගල්ලේදී පුද්ගලයෙකු ඝාතනය කරයි
+
+*2024-02-06 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193039) · `si`
+
+මෙලෙස ඝාතනයට ලක්ව ඇත්තේ එම ප්‍රදේශයේම පදිංචි 50 හැවිරිදි වියේ පසුවන එක්දරු පියෙකි.
+
+පෞද්ගලික ආරවුලක් මත මෙම ඝාතනය සිදුකරන්නට ඇති බවට පොලීසිය සැකපළ කරයි.
+
+◼️
+
+[Data](articles/5515635a.json)
+
+---
+
+### லிட்ரோ நிறுவன முன்னாள் தவைரின் மேலதிக கொடுப்பனவுகள் தொடர்பில்  கணக்காய்வு அறிக்கை!
+
+*2024-02-06 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/175692) · `ta`
+
+லிட்ரோ எரிபொருள் முனையம் மற்றும் லிட்ரோ எரிவாயு நிறுவனம் ஆகியவற்றின் முன்னாள் தலைவரும்  பிரதம நிறைவேற்று அதிகாரியுமாாகச் செயற்பட்டவர்  தனது மாதாந்த கொடுப்பனவுக்கு   மேலதிகமாக 443,000 ரூபா மாதாந்த வாகன கொடுப்பனவாக பெற்றுள்ளதாக கணக்காய்வு அறிக்கையில் தெரிய வந்துள்ளது.
+
+லிட்ரோ முனைய  நிறுவனத்திடமிருந்தே இந்தச்  சலுகைளை அவர் பெற்றுள்ளதாக சுற்றறிக்கையின் பிரகாரம்  50,000 ரூபா மாத்திரமே அங்கீகரிக்கப்பட்டுள்ளதாக தேசிய கணக்காய்வு அலுவலகம் தெரிவித்துள்ளது.
+
+அத்துடன்  குறித்த சுற்றறிக்கையின் பிரகாரம் மாதாந்தம் 150 லீற்றருக்கு மேலதிகமாக 500 லீற்றர் எரிபொருள் கொடுப்பனவாக அவருக்கு வழங்கப்பட்டுள்ளதாகவும்  கணக்காய்வு அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+சாரத்திக்கான கொடுப்பனவாக 50,000 ரூபாவும், மாதாந்த பொழுதுபோக்கு கொடுப்பனவாக 150,000 ரூபாவும்  முன்னாள் தலைவருக்கு வழங்கப்பட்டதாகவும் கணக்காய்வு மூலம் தெரிய வந்துள்ளது.
+
+◼️
+
+[Data](articles/95586880.json)
+
+---
 
 ### President to Address Parliament as New Session Opens
 
@@ -51,6 +145,30 @@ When the Parliament is prorogued, the questions and motions that have not been c
 [Data](articles/11f2571f.json)
 
 [Extended Data](ext_articles/11f2571f.ext.json)
+
+---
+
+### පිළිකාවෙන් බේරෙන්න මේ කතාව ඔබ දැන සිටිය යුතුමයි
+
+*2024-02-06 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193038) · `si`
+
+ඊයේ රාත්‍රියේදී තුන්වන චාල්ස් රජු පිළිකාවකින් පෙළෙන බවට ප්‍රකාශයට පත්කිරීමත් සමග ලෝකයේම අවධානය පිළිකා රෝගය වෙත යොමුව තිබේ.
+
+මෙහි සුවිශේෂීත්වය වන්නේ ලෝක පිළිකා දිනයට පසුදින ලෝකෙම දන්නා ප්‍රභූවරයෙකු පිළිකා රෝගී තත්ත්වයෙන් පෙළෙන බවට ප්‍රකාශයට පත්කිරීමයි.
+
+සෑම වසරකම පෙබරවාරි මස 04 වනදා ලෝක පිළිකා දිනය ලෙස සළකනු ලබයි.
+
+"පිළිකා මර්දනය පිළිබඳව ජාත්‍යන්තර එකමුතුව" ලෝක පිළිකා දිනය සැමරීමේ පෙරමුණ ගෙන කටයුතු කරනු ලබයි.
+
+මෙලෙස ලෝක පිළිකා දිනයක් ප්‍රකාශයට පත්කිරීමේ මූලික අරමුණ වන්නේ දිනෙන් දින ඉහළ යන පිළිකා අවදානම හමුවේ පිළිකාව වළක්වා ගැනීම මුල් අවස්ථාවේදී හඳුනාගැනීම සහ නිසි ප්‍රතිකාර ලබාදීම පිළිබඳව ජනතාව දැනුවත් කිරීමය.
+
+ශ්‍රී ලංකාවේ පිළිකා රෝගීන් පිළිබඳව අවධානය යොමුකරද්දී මහරගම ජාතික පිළිකා ආයතනය නිවේදනයක් නිකුත් කරමින් සඳහන් කරන්නේ 2021 වසරේදී පමණක් මෙරට පිළිකා රෝගීන් 37,753ක් වාර්තා වී ඇති බවය.
+
+ඒ අනුව එහි වැඩිදුරටත් සඳහන් වන්නේ සෑම දිනකම දළ වශයෙන් නවතම පිළිකා රෝගීන් 106ක් රට තුළින් වාර්තා වන බවය.
+
+...
+
+[Data](articles/005be571.json)
 
 ---
 
@@ -111,6 +229,20 @@ The Amnesty International has said that Sri Lanka is under international law tha
 [Data](articles/a6a34ee2.json)
 
 [Extended Data](ext_articles/a6a34ee2.ext.json)
+
+---
+
+### ගාලුමුවදොර අනතුරක්
+
+*2024-02-06 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193037) · `si`
+
+කොළඹ ගාලුමුවදොර පිහිටි සුපිරි සාප්පු සංකීර්ණයක් අසළ ත්‍රිරෝද රථයක් සහ මෝටර් රථයක ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+
+අනතුරින් තුවාල ලැබූ ත්‍රිරෝද රථයේ පැමිණි දෙදෙනෙකු ප්‍රතිකාර සඳහා රෝහල්ගතකර ඇත.
+
+◼️
+
+[Data](articles/5071f64c.json)
 
 ---
 
@@ -175,6 +307,30 @@ NCOF claims the current administration has failed to effectively address these i
 [Data](articles/ce9e3e04.json)
 
 [Extended Data](ext_articles/ce9e3e04.ext.json)
+
+---
+
+### ගසක අත්තක් කඩා වැටී තවත් දරුවෙක් මරුට
+
+*2024-02-06 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193036) · `si`
+
+නෝර්වුඩ් පොලිස් වසමේ නිව්ටන් වත්ත ප්‍රදේශයේ ගසක අත්තක් කඩා වැටීමෙන් දරුවෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+පොලීසිය සඳහන් කළේ, අත්ත කඩා වැටී බරපතළ තුවාල ලැබු දරුවා නාවලපිටිය රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මහනුවර මහ රෝහලට ඇතුළත් කිරීමේ දී ජීවිතක්ෂයට පත්ව ඇති බවය.
+
+එලෙස මියගොස් ඇත්තේ අවුරුදු 16ක් වූ නිව්ටන් වත්ත, දික්ඔය ප්‍රදේශයේ පදිංචි සිසුවෙකි.
+
+මියගිය දරුවා එම වත්ත මැදින් ගමන් කරමින් සිටිය දී වත්ත ඉහළ ප්‍රදේශයේ පිරිසක් විසින් ගසක් කපමින් සිට ඇත.
+
+කපන ලද ගස වෙනත් ගසක ගැටීමෙන් එම ගසෙහි අත්තක් දරුවාගේ වැදී අනතුර සිදුව තිබිණි.
+
+ගස කපන ලද සැකකරුවන් 5 දෙනෙකු නෝර්වුඩ් පොලීසිය විසින් අත්අඩංගුවට ගෙන පෙබරවාරි මස 12 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+මේ අතර, ඊයේ (05) දිනයේ දී ද ගම්පොළ ජාත්‍යන්තර පාසලක් ආසන්නයේ පිහිටි ගසක් කඩා වැටීමෙන් එහි පෙර පාසලේ ඉගෙනුම ලැබූ පස් හැවිරිදි දරුවෙකුට ජීවිතය අහිමි වූ අතර තවත් දරුවන් දෙදෙනෙකු තුවාල ලැබීය.
+
+◼️
+
+[Data](articles/36483d7f.json)
 
 ---
 
@@ -320,6 +476,28 @@ On September 25, then-Minister of Sports Roshan Ranasinghe appointed a three-mem
 
 ---
 
+### පාසල් සිසුන් මතින්  බේරා ගන්න ’’පවුර සංසදය’’ එයි
+
+*2024-02-06 10:45:57* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුන්-මතින්--බේරා-ගන්න-’’පවුර-සංසදය’’-එයි/11-407921) · `si`
+
+දිවයින පුරා 6 වන ශ්‍රේණියෙන් ඉහලට පංති පැවැත්වෙන සියලුම පාසල් කේන්ද්‍රකර ගනිමින් මත්ද්‍රව්‍ය නිවාරණය සඳහාවූ "පවුර සංසදය"සමිති පිහිටුවීමේ වැඩ සටහනක්  පොලිසිය මගින්  ආරම්භ කර තිබේ.
+
+වැඩ බලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් පරිදි සියලු පොලිස් ස්තානාධිපතිවරුන්ට මෙම සමිති පිහිටුවීමේ වගකීම පවරා ඇත.
+
+පාසල් තුළ මෙන්ම ඒ අවට මත්ද්‍රව්‍ය පැතිරීම ,අලෙවිය,භාවිතය නතර කර පාසල් දරුවන් මත්ද්‍රව්‍ය භාවිතයෙන් මුදවා ගැනීම මෙම වැඩ සටහනේ අරමුණ වී ඇත.
+
+පාසලේ විදුහල්පති විසින් නම් කරන ලද ගුරුවරයෙකු මෙම සංසදයෙහි සභාපති වන අතර ගුරුවරුන් ,ශිෂ්‍ය නායකයින් ,  ප්‍රදේශයේ  රජයේ සේවයේ නියුතු මෙන්ම විශ්‍රාමික  නිලධාරින්  ,පාසල් සිසු ප්‍රවාහන රියදුරන් ,වෙළඳ ව්‍යාපාරිකයන් ආදීන් ඇතුළත්  නිලධාරී මන්ඩලයකින්  මෙම සංසදය සමන්විත විය යුතුවේ.මතින් තොර අය මේ සඳහා පත්කර ගතයුතුවේ.
+
+පාසල පිහිටි ප්‍රදේශයේ මත්ද්‍රව්‍ය පිළිබඳ සමීක්ෂණයක් සිදුකර පොලිසිය සමග එක්වී පාසල්වල හා ඒ අවට කලාපය මතින් තොර කිරීම මෙම සංසදය ට පැවරේ.
+
+මසකට වරක් මෙම සංසදය රැස්වී ප්‍රගතිය සාකච්චා කළයුතු අතර නිලධාරීන් පත්කර ගැනීමේදී සියයට 25 ක් කාන්තාවන් පත්කර ගතයුතුවේ.
+
+...
+
+[Data](articles/886fee0b.json)
+
+---
+
 ### Action action;A further 733 suspects arrested
 
 *2024-02-06 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/175682) · `ta`
@@ -355,24 +533,6 @@ This follows the recent appointment of 590 doctors who finished their internship
 [Data](articles/9c2b0fc8.json)
 
 [Extended Data](ext_articles/9c2b0fc8.ext.json)
-
----
-
-### 7 lakhs of pain reliever pills attempted to smuggle Sri Lanka: One arrested
-
-*2024-02-06 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175677) · `ta`
-
-7 lakhs of pain relief pills have been seized and arrested on Monday night (05) night.
-
-Marine police, who were on patrol on the basis of confidential information that they were smuggled into Sri Lanka from Puthupullani beach next to Thiruppulani in Ramanathapuram district, have confiscated a country boat and about 7 lakhs of pain relief pills on the beach.
-
-A large hunger who smuggled painkillers pills to Sri Lanka has been arrested and is being investigated.
-
-◼️
-
-[Data](articles/558809f0.json)
-
-[Extended Data](ext_articles/558809f0.ext.json)
 
 ---
 
@@ -580,6 +740,22 @@ A suspect and three suspects have been arrested in the media and three suspects 
 
 ---
 
+### යතුරු පැදිය පාරේ සිටි ජීවිත දෙකක් බිලි ගනියි
+
+*2024-02-06 09:14:23* · [`adalk`](https://www.ada.lk/breaking_news/යතුරු-පැදිය-පාරේ-සිටි-ජීවිත-දෙකක්-බිලි-ගනියි/11-407920) · `si`
+
+දඹුල්ල පොලිස් වසමේ කණ්ඩලම මාර්ගයේ සිට දඹුල්ල - මහනුවර ප්‍රධාන මාර්ගයට වැටෙන අතුරු පාරේ විහාරහංදිය ප්‍ර දේශයේදි කණ්ඩලම මාර්ගයේ සිට ප්‍රධාන මාර්ගය දෙසට ධාවනය වූ යතුරු පැදියක් මාර්ගය අයිනේ සිට පිරිමි පුද්ගලයෙකුගේ හා දරුවෙක් වඩාගෙන සිටි කාන්තාවකගේ ගැටීමෙන් මාරක අනතුරක් සිදුව තිබේ.
+
+මෙම අනතුරින් පිරිමි පුද්ගලයා හා දරුවා වඩාගෙන සිටි කාන්තාව ජීවිතක්ෂයට පත්ව තිබේ. අවුරුදු 9ක් වන ගැහැණු දරුවා තුවාල ලබා දඹුල්ල රෝහලට ඇතුළත් කර තිබේ.
+
+යතුරුපැදිය පැදවූ පුද්ගලයාද තුවාල ලබා දඹුල්ල රෝහලට ඇතුළත් කර ඇති අතර ඔහු පොලිස් ආරක්ෂාව යටතේ නේවාසිකව ප්‍රතිකාර ලබයි.
+
+◼️
+
+[Data](articles/96962bf4.json)
+
+---
+
 ### Health trade unions and Finance Ministry reps to meet today
 
 *2024-02-06 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97030/health-trade-unions-and-finance-ministry-reps-to-meet-today) · `en`
@@ -617,6 +793,22 @@ On January 08, the Cabinet of Ministers approved President Ranil Wickremesinghe�
 [Data](articles/e1211a39.json)
 
 [Extended Data](ext_articles/e1211a39.ext.json)
+
+---
+
+### අනියම් සබඳතාව කාන්තාවට මරු කැඳවයි
+
+*2024-02-06 08:56:48* · [`adalk`](https://www.ada.lk/breaking_news/අනියම්-සබඳතාව-කාන්තාවට-මරු-කැඳවයි/11-407919) · `si`
+
+අනියම් සම්බන්ධතාවයක් මත ඇති වූ ආරවුලක් හේතුවෙන් කාන්තාවක් හට තියුණු ආයුධයකින් පහරදී ඝාතනය කර ඇති පුවතක් සූරියවැව පොලිස් වසමෙන් ඊයේ (05)සවස සිදු වූ බව සූරියවැව පොලීසිය පවසයි.
+
+මෙම ඝාතනය සූරියවැව පොලිස් වසමේ පොල්පහ ප්‍රදේශයේ නිවසකදී සිදුව ඇති අතර,මෙලෙස මියගොස් ඇත්තේ, බැද්දේවැව බටහිර, සූරියවැව ප්‍රදේශයේ පදිංචි 37 හැවිරිදි කාන්තාවක් බව පොලීසිය කියයි.
+
+මරණකාරිය හා සැකකරු අතර පැවැති අනියම් සම්බන්ධතාවයක් මත ඇතිවූ ආරවුලක් හේතුවෙන් මෙම ඝාතනය සිදුව ඇති බව පොලීසිය සැක පල කරයි. මේ වන විට ඝාතනය සිදුකළ සැකකරු හඳුනාගෙන ඇති අතර, අත්අඩංගුවට ගැනීම සඳහා සූරියවැව පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/866affa1.json)
 
 ---
 
@@ -1841,199 +2033,5 @@ Meanwhile, the President also launched the root stone at the Rangiri Dambulla In
 [Data](articles/125d65c3.json)
 
 [Extended Data](ext_articles/125d65c3.ext.json)
-
----
-
-### Prime Group felicitates MAGA Engineering for successful completion of ‘The Grand’ project
-
-*2024-02-05 21:51:00* · [`islandlk`](http://island.lk/prime-group-felicitates-maga-engineering-for-successful-completion-of-the-grand-project/) · `en`
-
-Prime Group, the visionary force behind some of Sri Lanka’s most prestigious living spaces, today marked a significant milestone with the felicitation of MAGA Engineering, the main contractor for the ultra-luxurious residential project, ‘The Grand’ Ward Place, Colombo 07.
-
-At a ceremonial gathering, Prime Group Chairman Premalal Brahmanage presented M. G. Kularatne, Chairman & Managing Director, MAGA Engineering, a retention payment, in accordance with ‘Sub Clause 11.8 of the Conditions of Contract’ certifying the Contractor had supplied all contractor documents, completed and tested everything to the satisfaction of the Engineer. With the successful completion of the contractual agreement, Prime Group also honoured MAGA Engineering for their outstanding work and dedication to excellence.
-
-...
-
-[Data](articles/63c5a044.json)
-
-[Extended Data](ext_articles/63c5a044.ext.json)
-
----
-
-### Kala Pola 2024 – spotlighting artistic diversity
-
-*2024-02-05 21:50:00* · [`islandlk`](http://island.lk/kala-pola-2024-spotlighting-artistic-diversity/) · `en`
-
-Kala Pola, Sri Lanka’s annual open-air art fair, is set to mark its 31st anniversary on 18th February 2024. Celebrating over three decades of fostering the livelihoods of Sri Lankan artists, Kala Pola takes inspiration from the world-famous outdoor art fairs in Montmartre, Paris, and the Turl Street Art Festival in Oxford and has evolved as an eagerly awaited event of the art and culture calendar of Sri Lanka.
-
-...
-
-[Data](articles/6c836d9d.json)
-
-[Extended Data](ext_articles/6c836d9d.ext.json)
-
----
-
-### Flying Ravana Adventure Park celebrates 5 years of unforgettable adventures
-
-*2024-02-05 21:48:00* · [`islandlk`](http://island.lk/flying-ravana-adventure-park-celebrates-5-years-of-unforgettable-adventures/) · `en`
-
-Flying Ravana Adventure Park, the beacon of adventure in Ella, Sri Lanka, celebrated its 5th anniversary on February 1st, 2024. This momentous occasion signifies the Park’s commitment to delivering top-notch adventure experiences aligned with global safety standards.
-
-Chairman, Board of Directors, and the management team graced the occasion alongside the dedicated team of staff members who have been the backbone of Flying Ravana’s success over the past five years. The celebration commenced with religious observances. During the celebrations, the adventure park’s long-serving employees were honored with service awards and tokens of gratitude. This event is much more than just a celebration of the last five years which represents Flying Ravana’s commitment to providing unrivaled adventure experiences in the years ahead.
-
-...
-
-[Data](articles/83f1cf4c.json)
-
-[Extended Data](ext_articles/83f1cf4c.ext.json)
-
----
-
-### SEC Sri Lanka introduces mechanism to report social media wrongdoings
-
-*2024-02-05 21:47:00* · [`islandlk`](http://island.lk/sec-sri-lanka-introduces-mechanism-to-report-social-media-wrongdoings/) · `en`
-
-With the rapid evolution of communication channels and the increase of social media influence in the financial markets, the Securities and Exchange Commission of Sri Lanka (SEC) recognized the need for proactive measures to identify and address potential social media wrongdoings that may impact investors and market stability.
-
-Considering these developments, the SEC has taken a significant step towards enhancing investor protection and market integrity with the launch of a dedicated webpage to report suspected market related wrongdoing on social media.
-
-This new online webpage, accessible through the SEC’s official website, offers a user – friendly, confidential, and streamlined process for submitting information related to potential market manipulation, fraudulent activities, and other securities-related misconduct.
-
-...
-
-[Data](articles/d3ac0ea4.json)
-
-[Extended Data](ext_articles/d3ac0ea4.ext.json)
-
----
-
-### People’s Bank celebrates 76 years of Independence by offering gifts to newborns
-
-*2024-02-05 21:45:00* · [`islandlk`](http://island.lk/peoples-bank-celebrates-76-years-of-independence-by-offering-gifts-to-newborns/) · `en`
-
-People’s Bank celebrated Sri Lanka’s 76thNational Independence at a modest ceremony held at their Head Office which was followed by a series of island wide initiatives.
-
-People’s Bank’s ‘Birth of Freedom’ programme which commences on every Independence Day was carried out this year as well. Under this concept, People’s Bank gifts Rs.2,000/- worth of an ‘Isuru Udana’ Gift Certificate to every baby born between the 1st and 14th of February.
-
-People’s Bank launched this programme in 2006 with the vision of instilling national pride and encouraging parents to plan for their children’s future. Parents or guardians can open an ‘Isuru Udana’ Children’s Savings Account at any People’s Bank branch using the gift certificate along with the child’s birth certificate. The specialty of this programme is that the staff of People’s Bank visits the hospitals and gifts the certificates to the newborns in person.
-
-...
-
-[Data](articles/c8050a61.json)
-
-[Extended Data](ext_articles/c8050a61.ext.json)
-
----
-
-### Thai PM urges state energy firm to invest in Sri Lanka’s solar farm
-
-*2024-02-05 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97026/thai-pm-urges-state-energy-firm-to-invest-in-sri-lankas-solar-farm) · `en`
-
-Thailand’s Prime Minister Srettha Thavisin has called a meeting with the newly appointed CEO and board chairman of PTT Plc, the state-owned listed oil and gas company, to discuss support for Thai startups and investing in Sri Lanka’s solar farm.
-
-Srettha, in his capacity as finance minister, invited PTT CEO Kongkrapan Intarajang and PTT board chairman Chatchai Promlert, to Government House on Monday. The Finance Ministry is a major shareholder of PTT Public Company Limited or simply PTT, Thai media reported.
-
-After the meeting, Srettha told the media that he had discussed investment opportunities with the PTT CEO and board chairman.
-
-He said he urged the two executives to seek investment opportunities overseas, especially in Sri Lanka’s floating solar farm, which requires more funding.
-
-“After returning, I invited the chairman to talk about PTT’s investment opportunities abroad, such as the solar floating farm in Sri Lanka that is open to investment from Thailand,” the premier said.
-
-...
-
-[Data](articles/befdabca.json)
-
-[Extended Data](ext_articles/befdabca.ext.json)
-
----
-
-### Debt and deposit interest rates to decline again?
-
-*2024-02-05 21:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/175658) · `ta`
-
-Will bank interest rates be reduced again?Is it time for people to get loans?Will the interest rate on loans decrease?Similarly, the interest rate for deposits ...
-
-◼️
-
-[Data](articles/74c6c1f8.json)
-
-[Extended Data](ext_articles/74c6c1f8.ext.json)
-
----
-
-### Dialog and Samsung launch highly anticipated Samsung Galaxy S24 series
-
-*2024-02-05 21:42:00* · [`islandlk`](http://island.lk/dialog-and-samsung-launch-highly-anticipated-samsung-galaxy-s24-series/) · `en`
-
-Dialog Axiata PLC, Sri Lanka’s premier connectivity provider, in collaboration with Samsung Sri Lanka, announced the launch of the all-new Galaxy S24 Series.
-
-The momentous occasion took place at an exclusive event held at the Dialog auditorium on February 2nd 2024, that was attended by Club Vision loyalty members, pre-order customers and Dialog Enterprise customers. The event marked a significant milestone, where Dialog customers were able to pre-order the device for the first time in Sri Lanka.
-
-...
-
-[Data](articles/dcd42eb4.json)
-
-[Extended Data](ext_articles/dcd42eb4.ext.json)
-
----
-
-### Sri Lanka eyes US$5 billion in foreign funds after debt restructure
-
-*2024-02-05 21:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-eyes-US-5-billion-in-foreign-funds-after-debt-restructure/108-276363) · `en`
-
-Feb 5 (Business Times) - Sri Lanka expects to attract about US$5 billion in foreign funds in the next two years once it is able to finalise the restructuring of its overseas debt, the country’s foreign minister said on Monday (Feb 5).
-
-The nation defaulted on its overseas debt in May, 2022 after a severe shortage of foreign exchange reserves triggered the worst financial crisis since independence from Britain in 1948.
-
-Sri Lanka has since made progress on about US$11 billion of bilateral debt restructuring and hopes to have agreements in place with all key creditors, including bondholders, by May at the latest, Foreign Minister Ali Sabry told Reuters.
-
-It will then focus on kick-starting major infrastructure projects suspended during the crisis, including a highway, an expansion of the main airport near Colombo and a US$2 billion light railway project with Japan.
-
-...
-
-[Data](articles/82578666.json)
-
-[Extended Data](ext_articles/82578666.ext.json)
-
----
-
-### Cabinet approval to cultivate cannabis for export
-
-*2024-02-05 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97025/cabinet-approval-to-cultivate-cannabis-for-export) · `en`
-
-The Cabinet of Ministers on Monday approved a proposal in relation to the cultivation and export of cannabis for medicinal purposes, according to State Minister Diana Gamage.
-
-Speaking to Ada Derana, she said that the process of inviting foreign investors for that purpose will be carried out through the Board of Investment (BoI) in the future.
-
-State Minister of Tourism further stated that the local investors will also have the opportunity for this and that investors will be required to make relevant investments in US Dollars.
-
-◼️
-
-[Data](articles/c1b5d18f.json)
-
-[Extended Data](ext_articles/c1b5d18f.ext.json)
-
----
-
-### The duty of the Public Officers is to fulfill the service of the people - the Northern Governor
-
-*2024-02-05 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/175645) · `ta`
-
-A review meeting on the Northern Province of the Northern Province was held on Monday (05) at the Jaffna Central College with the participation of Education Minister Dr. Susil Premajayantha.
-
-Governor of the Northern Province BSM. The event, chaired by Charles, was attended by Parliamentarian Anganan Ramanathan, top officials of the Union Ministry, Officers of the Provincial Ministry, Educational Officers, Principals and Teachers.
-
-The meeting was held on Monday (05) at the Education Development of the Jaffna District in the Northern Province.
-
-According to officials from the Ministry of Education, the Jaffna district students have made the best advances in the Jaffna district compared to other districts based on the results of the Grade Five, Normal and High Qualifications in the last five years.
-
-However, officials said they had to pay more concern for the educational status of students from low -income families.
-
-...
-
-[Data](articles/a15a2b52.json)
-
-[Extended Data](ext_articles/a15a2b52.ext.json)
 
 ---

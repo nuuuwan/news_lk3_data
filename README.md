@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 21:17:29**
+As of **2024-02-06 21:32:51**
 
 ## Newspaper Stats
 
-*Scraped **5,250** Articles*
+*Scraped **5,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,52 @@ adalk | 449
 virakesarilk | 621
 adaderanalk | 651
 tamilmirrorlk | 658
-adaderanasinhalalk | 680
+adaderanasinhalalk | 681
 dailymirrorlk | 745
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,246 (99.9%) of 5,250 articles have been extended.
+5,250 (100.0%) of 5,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
 
-### அதிரடி சோதனையில் சிக்கிய 50 பேக்கரிகள்
+### 50 bakery trapped in action testing
 
 *2024-02-06 20:50:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிரடி-சோதனையில்-சிக்கிய-50-பேக்கரிகள்/175-332785) · `ta`
 
-நுகர்வோர் விவகார அதிகாரசபை நேற்று (05) ஆரம்பிக்கப்பட்ட சோதனைகளில் சுமார் 50 பேக்கரிகள் மீது வழக்கு தொடரப்படும் என தெரிவிக்கப்பட்டுள்ளது.
+The Consumer Affairs Authority (CAA) has been investigated yesterday (05).
 
-பேக்கரிகள் மற்றும் கடைகளில் நடத்தப்பட்ட சோதனைகளின் போது, ​​நிர்ணயிக்கப்பட்ட எடை மற்றும் விலையை காட்டாத சுமார் 50 பேக்கரிகள் மீது சோதனை நடத்தப்பட்டு, அந்த பேக்கரிகளுக்கு எதிராக வழக்கு தொடரப்படும் என தெரிவிக்கப்பட்டுள்ளது. R
+During the tests conducted in bakeries and stores, about 50 bakeries that did not show the weight and prices were raided and the case would be prosecuted against the bakeries.. Remble
 
 ◼️
 
 [Data](articles/0f49b4b2.json)
+
+[Extended Data](ext_articles/0f49b4b2.ext.json)
+
+---
+
+### ජාතික ජන බලවේගයට එරෙහිව මෝසමක්
+
+*2024-02-06 20:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193056) · `si`
+
+මැතිවරණ කොමිසම විසින් ජාතික ජන බලවේගය ලියාපදිංචි කර ඇති ආකාරය නීතිවිරෝධී බවත් ඒ සම්බන්ධයෙන් කරුණු දැක්වීමට අවසර ලබාදෙන ලෙසත් ඉල්ලමින් ශ්‍රේෂ්ඨාධිකරණය හමුවේ මෝසමක් ගොනුකර තිබේ.
+
+විනිවිද පෙරමුණේ ලේකම් නීතිඥ නාගානන්ද කොඩිතුවකු මහතා විසින් මෙම මෝසම ඉදිරිපත් කර ඇත.
+
+විනිවිද පෙරමුණ දේශපාලන පක්ෂයක් වශයෙන් ලියාපදිංචි කිරීම ප්‍රතික්ෂේප කිරීමට මැතිවරණ කොමිසම ගත් තීරණයට එරෙහිව ගොනු කර තිබෙන රිට් පෙත්සමකට අදාළව නාගානන්ද කොඩිතුවක්කු මහතා විසින් මෙම මෝසම ඉදිරිපත් කර තිබේ.
+
+එම මෝසම තුළින් නාගානන්ද කොඩිතුවක්කු මහතා කියා සිටින්නේ ජනතා විමුක්ති පෙරමුණේ කොටසක් වන ජාතික ජන බලවේගය දේශපාලන පක්ෂයක් වශයෙන් ලියාපදිංචි කිරීම සම්පූර්ණයෙන්ම නීතියට පටහැනි බවය.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 103(2)  වගන්තිය ප්‍රකාරව එකම පක්ෂයක විවිධ ශාඛා වෙන් වෙන්ව දේශපාලන පක්ෂ වශයෙන් ලියාපදිංචි කිරීම මැතිවරණ නීති රීතීන්ට පටහැනි බවත් ඒ තුළින් නිදහස් හා සාධාරණ මැතිවරණයක් පැවැත්වීමට ආණ්ඩුක්‍රම ව්‍යවස්ථාව මගින් සහතික කර තිබෙන අයිතිය උල්ලංඝනය වන අතර එය සම්පූර්ණයෙන්ම නීතියට පටහැනි බවත් අදාළ මෝසමේ සඳහන් කර තිබේ.
+
+...
+
+[Data](articles/3e9ec181.json)
 
 ---
 
@@ -78,35 +100,39 @@ He was telephoned by Mihintale leader Tiran Alles and Acting Insolptory to Desha
 
 ---
 
-### பாணின் எடையைக் குறிப்பிடாத 50 பேக்கரிகள் மீது வழக்குத் தாக்கல்!
+### Case on 50 bakeries that do not mention the weight of the style!
 
 *2024-02-06 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175741) · `ta`
 
-பாணின் நிர்ணயிக்கப்பட்ட எடைக்கான வர்த்தமானி வெளியிடப்பட்டதையடுத்து, நுகர்வோர் விவகார அதிகார சபை நேற்று (05)  முதல் சோதனைகளை ஆரம்பித்துள்ளது.
+The Consumer Affairs Authority (CAA) has launched the first test yesterday (05) following the release of the gazette for the styled weight.
 
-இதனையடுத்து நிர்ணயிக்கப்பட்ட எடை மற்றும் விலையைக் காட்டாத சுமார் 50 பேக்கரிகள் சோதனையிடப்பட்டு  அவற்றுக்கு எதிராக வழக்கு தொடரப்படும் என நுகர்வோர் விவகார அதிகார சபை தெரிவித்துள்ளது.
+The Consumer Affairs Authority (CAA) has said that about 50 bakeries who do not show the weight and prices will be checked and prosecuted against them.
 
 ◼️
 
 [Data](articles/548e4ad1.json)
 
+[Extended Data](ext_articles/548e4ad1.ext.json)
+
 ---
 
-### பூநகரியில் காணிகள் இல்லாதோருக்கு காணிகள் - அமைச்சர் டக்ளஸ்
+### Lands for those who do not have land in Poonakari - Minister Douglas
 
 *2024-02-06 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175739) · `ta`
 
-காணியற்ற மக்களுக்கு காணிகளை பகிர்ந்தளித்து மரமுந்திரிகை செய்கையில் அவர்களை ஊக்குவிப்பதற்கு அமைச்சர் டக்ளஸ் தேவானந்தாவினால் நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளது.
+Action has been taken by Minister Douglas Devananda to encourage them to distribute land and make them a tree.
 
-பூநகரி, ஜெயபுரம் பகுதியில்  மரமுந்திரிகை கூட்டுத்தாபனத்தின் கட்டுப்பாட்டிலுள்ள சுமார் 472 ஏக்கர் காணிகளே கிளிநொச்சி மாவட்ட ஒருங்கிணைப்புக் குழுவின் தலைவர் அமைச்சர் டக்ளஸ்  தேவானந்தாவின் முயற்சியினால்,  பிரதேசத்தினை சேர்ந்த காணிகளற்ற மக்களுக்கு பகிர்ந்தளிக்கப்படவுள்ளது.
+About 472 acres of land controlled by the Tree Corporation in Poonakari, Jayapuram area will be distributed to the landless people from the Kilinochchi District Coordinating Committee Chairman Douglas Devananda.
 
-அதுமாத்திரமன்றி, காணிகளைப் பெற்றுக் கொள்வோர் மரமுந்திரிகை செய்கையில் ஈடுபடுவதற்கான ஒத்துழைப்புக்களை வழங்கவுள்ள மரமுந்திரிகை கூட்டுத்தாபனம், அறுவடை செய்யப்படும் விளைச்சலை நியாயமான விலைக்கு கொள்வனவு செய்வதற்கும் தீர்மானித்துள்ளது.
+The Tree Corporation, which is to provide cooperation to engaging in woodworking, has decided to buy harvest yields at a reasonable price.
 
-அமைச்சர் டக்ளஸ் தேவானந்தாவின் இந்நடவடிக்கை மூலம் பூநகரி, ஜெயபுரம் பகுதியை சேர்ந்த சுமார் 100 குடும்பங்கள் நேரடியாக பொருளாதார நன்மைகளை பெற்றுக் கொள்ள இருப்பதுடன், கிளிநொச்சி மற்றும் முல்லைத்தீவு மாவட்டங்களில் மரமுந்திரிகை பதனிடும்  தொழிலில் ஈடுபட்டுள்ளோருக்கு தேவையான மூலப் பொருட்கள் நியாயமான விலையில் தாராளமாக கிடைக்கவுள்ளமை குறிப்பிடத்தக்கது.
+With this move by Minister Douglas Devananda, about 100 families from Poonakari and Jayapuram will be directly economic benefits and the source supplies needed for those who are engaged in woodworking industry in the Kilinochchi and Mullaitivu districts will be available at reasonable prices.
 
 ◼️
 
 [Data](articles/5502b30f.json)
+
+[Extended Data](ext_articles/5502b30f.ext.json)
 
 ---
 
@@ -130,21 +156,25 @@ Keheliya had set the wrong example to society, and he had been imprisoned. There
 
 ---
 
-### காலநிலை அனர்த்தங்களை மட்டுப்படுத்த பிராந்தியத்தின் ஒத்துழைப்பு அவசியம் - ஜனாதிபதி
+### The cooperation of the region is essential to limit climate disasters - President
 
 *2024-02-06 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175740) · `ta`
 
-காலநிலை அனர்த்தங்களுக்கு தீர்வுகளை தேடுவதற்கு பிராந்திய மற்றும் சர்வதேச அளவிலான முயற்சிகளுக்கு இலங்கை முழுமையான ஆதரவை வழங்குமென ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe said Sri Lanka would give full support to regional and international efforts to find solutions to climate disasters.
 
-அதற்காக இலங்கையில் சர்வதேச காலநிலைப் பல்கலைக்கழகம் ஒன்றை அமைக்க தீர்மானித்திருப்பதாகவும்,  ஆசிய மற்றும் ஆபிரிக்க வலயங்களின் காலநிலை சவால்களுக்கு ஈடுகொடுப்பதற்கான முக்கியமான பணியை அதனால் ஆற்ற முடியும் எனவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe said that it has decided to set up an International Climate University in Sri Lanka and that it is possible to compensate for the climate challenges of the Asian and African zones.
 
-மேலும், அண்மையில் டுபாயில் நடைபெற்ற ஐக்கிய நாடுகளின் காலநிலை மாற்றம் தொடர்பான சர்வதேச மாநாடான COP 28 இல் ஆசிய வெப்ப வலயத்தை  கார்பன் உமிழ்வு பிரதேசமாக மாற்றுவது தொடர்பிலான இலங்கையின் முன்மொழிவையும் நினைவு கூர்ந்தார்.
+He also recalled Sri Lanka's proposal on the transformation of the Asian Tropical Zone into a carbon emission area in COP 28, the United Nations Climate Change International Conference in Dubai.
 
-கொழும்பு கோல்பேஸ் ஹோட்டலில் செவ்வாய்க்கிழமை (06) நடைபெற்ற தெற்காசிய ஹைட்ரோமெட் மன்றம் 2024 இன் ஆரம்ப நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத் தெரிவித்தார்.
+President Ranil Wickremesinghe made this statement while addressing the inauguration of the South Asian Hydromet Forum held at the Colombo Hotel in Colombo on Tuesday (06).
+
+The Hydromet Forum, which cooperates with the World Bank and RIMES, will be held in Colombo from today to February 8, under the theme of "Unlocking the Cooperation of the Zone" with the aim of cooperation, efficiency and upgrade.
 
 ...
 
 [Data](articles/c8542ff7.json)
+
+[Extended Data](ext_articles/c8542ff7.ext.json)
 
 ---
 
@@ -1929,27 +1959,5 @@ General Secretary of the General Secretary of the General Secretary Attorney Gen
 [Data](articles/89adecdd.json)
 
 [Extended Data](ext_articles/89adecdd.ext.json)
-
----
-
-### President to travel to Australia
-
-*2024-02-06 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/175686) · `ta`
-
-President Ranil Wickremesinghe will visit Australia this week to attend the Indian Ocean Conference.
-
-The conference will be held on the 9th and 10th of this month in the capital city of Australia.
-
-The President of the President's Office, Dinuk Colombage, said that the President will make a keynote address at the conference.
-
-He also said that the President will meet with the Australian Prime Minister and the Australian Foreign Minister during his visit.
-
-The Indian Foreign Ministry of India, Australian Foreign and Commerce, Singapore S. Rajaratnam School of International Studies and Perth USAsia Center have organized the 7th Indian Ocean Conference.
-
-◼️
-
-[Data](articles/9754e4b4.json)
-
-[Extended Data](ext_articles/9754e4b4.ext.json)
 
 ---

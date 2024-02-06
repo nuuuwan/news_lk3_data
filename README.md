@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-06 16:17:26**
+As of **2024-02-06 16:33:05**
 
 ## Newspaper Stats
 
-*Scraped **5,169** Articles*
+*Scraped **5,185** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,35 +14,85 @@ dbsjeyarajcom | 140
 economynextcom | 266
 islandlk | 278
 dailyftlk | 290
-newsfirstlk | 316
-adalk | 441
-virakesarilk | 607
+newsfirstlk | 321
+adalk | 443
+virakesarilk | 610
 adaderanalk | 640
 tamilmirrorlk | 653
-adaderanasinhalalk | 672
-dailymirrorlk | 733
+adaderanasinhalalk | 673
+dailymirrorlk | 738
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,166 (99.9%) of 5,169 articles have been extended.
+5,169 (99.7%) of 5,185 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-06 (Tuesday)
 
-### அவிசாவளையில் வெடி விபத்து: ஒருவர் பலி
+### අවිස්සාවේල්ලේ පිපිරීමකින් පුද්ගලයෙකු මරුට
+
+*2024-02-06 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193046) · `si`
+
+අවිස්සාවේල්ල ප්‍රදේශයේ පරණ යකඩ එකතු කරන මධ්‍යස්ථානයක සිදුවූ පිපිරීමකින් එහි සේවකයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+මාදොල ප්‍රදේශයේ පිහිටි පරණ යකඩ අලෙවිසැලක එම පිපිරීම සිදුව තිබුණි.
+
+◼️
+
+[Data](articles/4f88d14f.json)
+
+---
+
+### திருமலை சிறையில் இரு கைதிகள் மோதல் : ஒருவர் உயிரிழப்பு!
+
+*2024-02-06 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/175723) · `ta`
+
+திருகோணமலை சிறைச்சாலையில் இரு கைதிகளுக்கிடையில் ஏற்பட்ட மோதலில் காயமடைந்து வைத்தியசாலையில் சிகிச்சை பெற்று வந்த கைதி ஒருவர்  இன்று செவ்வாய்க்கிழமை (06) உயிரிழந்துள்ளதாக திருகோணமலை துறைமுக பொலிஸார் தெரிவிக்கின்றனர்.
+
+திருகோணமலை கிண்ணியா மஹ்ரூப் நகரைச் சேர்ந்த மொஹமட் அலி உவைஸ் முகம்மது உபயத்துல்லா என்பவரே உயிரிழந்துள்ளார்.
+
+கடந்த 2 ஆம் திகதி திருகோணமலை சிறைச்சாலையின்  இந்தத் தாக்குதல் இடம்பெற்றுள்ளதுடன், தலையில் காயமடைந்து திருகோணமலை பொது வைத்தியசாலையின் அதிதீவிர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்டிருந்த நபரே   உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/a9a7806c.json)
+
+---
+
+### Exploding in Avissawella: One killed
 
 *2024-02-06 15:49:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவிசாவளையில்-வெடி-விபத்து-ஒருவர்-பலி/175-332766) · `ta`
 
-அவிசாவளை,  மாதோல பிரதேசத்தில் உள்ள பழைய இரும்பு பொருட்களை கொள்வனவு செய்யும் நிலையம் ஒன்றில் வெடிப்பு சம்பவம் இன்று  (06) பகல் இடம்பெற்றுள்ளது.
+The explosion took place today (06) at an old iron product in Avissawella, Madolla area.
 
-இந்த சம்பவத்தில் காயமடைந்தவர் அவிசாவளை வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The man who was injured in the incident died after being admitted to the Avissawella Hospital, police said.
 
 ◼️
 
 [Data](articles/8827e382.json)
+
+[Extended Data](ext_articles/8827e382.ext.json)
+
+---
+
+### செங்கடல் பகுதியில்  பிரிட்டனிற்கு சொந்தமான கப்பல் மீது தாக்குதல் - ஹெளத்தி கிளர்ச்சியாளர்களிற்கு எதிரான அமெரிக்காவின் தாக்குதலும் தொடர்கின்றது.
+
+*2024-02-06 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/175719) · `ta`
+
+ஹெடெய்டாவிற்கு மேற்கே இந்த சம்பவம் இடம்பெற்றுள்ளது என பிரிட்டனின் இராணுவத்தின் கடல்வர்த்தகம் தொடர்பான அமைப்பு தெரிவித்துள்ளது.
+
+கப்பலிற்கு சிறிய சேதம் ஏற்பட்டுள்ளது கப்பல் தாக்கப்படுவதற்கு முன்னர் அந்தபகுதியில் சிறிய கப்பல் ஒன்று காணப்பட்டது எனவும் தகவல்கள் வெளியாகியுள்ளன.
+
+இதேவேளை யேமனில் ஹெளத்தி கிளர்ச்சியாளர்கள் மீது தாக்குதல்களை தொடர்ந்தும் மேற்கொண்டுள்ளதாக அமெரிக்கா தெரிவித்துள்ளது.
+
+யேமனில் ஹெளத்தி கிளர்ச்சியாளர்களின் பகுதிகளில் வெடிமருந்து நிரம்பிய ஆளில்லா விமானப்படகுகளை அமெரிக்க படையினர் கண்டுபிடித்தனர் இவை அமெரிக்க கடற்படை கப்பல்களுக்கும் வர்த்தககப்பல்களிற்கும் உடனடி ஆபத்தாக காணப்பட்டன என அமெரிக்காதெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/b72dda76.json)
 
 ---
 
@@ -55,6 +105,104 @@ A worker has died following an explosion at a scrap metal collecting center at M
 ◼️
 
 [Data](articles/7e44fd3e.json)
+
+[Extended Data](ext_articles/7e44fd3e.ext.json)
+
+---
+
+### One killed in explosion at Avissawella
+
+*2024-02-06 15:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/One-killed-in-explosion-at-Avissawella/108-276435) · `en`
+
+Avissawella, Feb. 06 (Daily Mirror)- At least one person was killed following an explosion at a scrap metal collecting shop at Madola in Avissawella this afternoon, Police said.
+
+◼️
+
+[Data](articles/fb777fb0.json)
+
+---
+
+### 15,000 Tons Of Cashew Imports Approved
+
+*2024-02-06 15:29:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/15-000-tons-of-cashew-imports-approved/) · `en`
+
+COLOMBO (News 1st); The Sri Lankan Cabinet has approved the import of 15,000 tons of cashew nuts in shell to address a domestic shortage and support the local industry.
+
+This decision comes after the country's cashew harvest fell short of expectations, leaving a significant gap between demand and supply.
+
+Sri Lanka's annual cashew nut requirement stands at around 25,000 tons, but domestic production currently only yields 12,500 tons.
+
+To bridge this gap, the government has authorized the import of 15,000 tons to ensure sufficient supply for the remaining year.
+
+◼️
+
+[Data](articles/a4900395.json)
+
+---
+
+### இராணுவ புலனாய்வு பிரிவினரால் யால சரணாலயம், கதிர்காமத்தில் கஞ்சா பயிர்ச்செய்கை சுற்றிவளைப்பு
+
+*2024-02-06 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175715) · `ta`
+
+மொனராகலை யால சரணாலய குபுக்கன் ஓயாவிற்கு அருகில் நீண்ட காலமாக மேற்கொள்ளப்பட்டு வந்த கஞ்சா பயிர்செய்கை ஒன்றை இராணுவப் புலனாய்வுப் பிரிவினர் மொனராகலை ஊழல் தடுப்பு பிரிவு அதிகாரிகளுடன் இணைந்து பெப்ரவரி 4ஆம் திகதி சுற்றிவளைத்தனர்.
+
+இச்சுற்றிவளைப்பின் போது அறுவடைக்கு தயாராக இருந்த 16,800 கஞ்சா செடிகளும் விற்பனைக்கு தயாராக இருந்த 1,658.40 கிலோகிராம் உலர்ந்த கஞ்சாவும், உள்நாட்டில் தயாரிக்கப்பட்ட இரண்டு உள்நாட்டு துப்பாக்கிகளுடன் இரு சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர். கைது செய்யப்பட்ட சந்தேக நபர்கள் மற்றும் பொருட்களை சியம்பலாண்டுவ நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளனர்.
+
+இதேவேளை, இராணுவப் புலனாய்வுப் பிரிவினருக்கு கிடைத்த தகவலுக்கமைய கதிர்காமம் பிரதேசத்தில் அரை ஏக்கர் நிலத்தில் பயிரிடப்பட்டிருந்த மேலும் 7,000 கஞ்சா செடிகளுடன் மூவரை பொலிஸ் விசேட அதிரடிப் படையினர் கைது செய்யதுள்ளதுடன்,  கதிர்காமம் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/aec27c73.json)
+
+---
+
+### No Cabinet approval granted to cultivate Cannabis: Bandula refutes Diana’s claims
+
+*2024-02-06 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-Cabinet-approval-granted-to-cultivate-Cannabis-Bandula-refutes-Dianas-claims/108-276434) · `en`
+
+Colombo, Feb. 06 (Daily Mirror)- Refuting claims by State Minister Diana Gamage that Cabinet approval has been granted to cultivate Cannabis for export, Cabinet Spokesman Bandula Gunawardane said no such decision has been taken to cultivate Cannabis.
+
+He told the weekly Cabinet briefing that no Cabinet paper has been submitted or any other decision taken in this regard.
+
+"She is not a Cabinet Minister. I can't take the responsibility for a statement made by her. No Cabinet paper has been submitted to the Cabinet or any decision staken in this regard," he said.
+
+The State Minister had told the media that Cabinet approval has been granted to cultivate cannabis for export.
+
+◼️
+
+[Data](articles/d8bfca00.json)
+
+---
+
+### BREAKING : Keheliya sends resignation letter to President
+
+*2024-02-06 15:08:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/breaking-keheliya-sends-resignation-letter-to-president/) · `en`
+
+COLOMBO (News 1st); Sri Lanka's Environment Minister, and Former Health Minister Keheliya Rambukwella had sent his letter of resignation to the President.
+
+The President's Office said that the letter of resignation was accepted by the President, and that it was directed for publication via government gazette.
+
+Keheliya Rambukwella, was arrested last week by the CID over his involvement in the controversial human immunoglobulin procurement scandal, and was subsequently remanded to the 15th of February 2024.
+
+Thereafter, he was moved to the prison hospital due to an illness.
+
+◼️
+
+[Data](articles/00593408.json)
+
+---
+
+### Online Safety Act: Statement from Speaker’s Office
+
+*2024-02-06 14:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/online-safety-act-statement-from-speaker-s-office/) · `en`
+
+COLOMBO (News 1st); The Office of the Speaker released a statement today clarifying the process and legality surrounding the passage of the Online Safety Act, No. 9 of 2024. The statement aims to address concerns and misinformation regarding the Act's enactment.
+
+This statement is issued in the interest of the public, to set the record straight on the passing and the subsequent enactment of the ONLINE SAFETY ACT, No. 9 OF 2024. For the knowledge of the public, the process of enactment is explained from the beginning, to prevent being duped.
+
+...
+
+[Data](articles/cd01ab15.json)
 
 ---
 
@@ -136,6 +284,40 @@ At this time, the Inspector General of Police, who visited the documents, warned
 
 ---
 
+### Keheliya resigns as Cabinet Minister
+
+*2024-02-06 14:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Keheliya-resigns-as-Cabinet-Minister/155-276431) · `en`
+
+Colombo, Feb 06 (Daily Mirror) - Minister Keheliya Rambukwella who is in prison has tendered his resignation from the position of Environment Minister to President Ranil Wickremesinghe.
+
+The Daily Mirror learns that the letter has been forwarded to the President's Secretary Saman Ekanayake and President Ranil Wickremesinghe has accepted the letter.
+
+Accordingly the Ministry of Environment will be placed under the President.
+
+Keheliya Rambukwella was remanded until the 15th of February over the controversial human immunoglobulin procurement scandal and is currently admitted in the Prison Hospital.
+
+◼️
+
+[Data](articles/349ddc97.json)
+
+---
+
+### Army Medical Corps Departs for South Sudan
+
+*2024-02-06 14:16:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/army-medical-corps-departs-for-south-sudan/) · `en`
+
+COLOMBO (News 1st); The 10th contingent of the Sri Lanka Army Medical Corps (SLAMC) departed Sri Lanka early this morning (06 February), to assume duties at the Level-2 SRIMED Hospital in the United Nations Peacekeeping Mission in South Sudan (UNMISS).
+
+The 10th South Sudan bound contingent, commanded by Lieutenant Colonel D.M.D.J Dissanayake RSP USP and Second in Command, Major N.I Rathnayake, comprises 64 Army personnel, including 14 Army Officers, 01 Naval Officer and 49 Other Ranks.
+
+Representing the Commander of the Army, Major General P.A.C. Fernando USP, Colonel Commandant, SLAMC and Director General Army Health Services, Brigadier G.L.S.W Liyanage USP psc, Director, Directorate of Overseas Operations, Brigadier W.A.U.S Wanasekara RWP USP, Centre Commandant, SLAMC and other Senior Officers bid farewell to the contingent at the Bandaranaike International Airport.
+
+◼️
+
+[Data](articles/6d4a2efc.json)
+
+---
+
 ### Two killed, 9-month-old baby injured in Dambulla road accident
 
 *2024-02-06 14:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97046/two-killed-9-month-old-baby-injured-in-dambulla-road-accident) · `en`
@@ -169,6 +351,26 @@ Their bodies have been placed at the mortuary of the Dambulla Hospital.
 [Data](articles/fd714cfa.json)
 
 [Extended Data](ext_articles/fd714cfa.ext.json)
+
+---
+
+### “Yukthiya” nets over 56,000 suspects in 50 days
+
+*2024-02-06 14:03:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/yukthiya-nets-over-56-000-suspects-in-50-days/) · `en`
+
+COLOMBO (News 1st); A total of 56,541 suspects have been arrested during the 50-day period spanning from December 17 last year as part of the ongoing anti-drug operation 'Yukthiya' conducted island-wide.
+
+The Ministry of Public Security said that out of this figure, 49,558 suspects were arrested in connection with drug-related offenses, while 6,983 individuals were arrested for various criminal activities.
+
+Among the 49,558 suspects arrested for drug offenses, 1,817 individuals are undergoing further investigation under detention orders, with an additional 1,981 drug addicts referred for rehabilitation.
+
+The Ministry said that investigations into the ownership of illicit assets have been initiated for 234 of the arrested suspects, while 3,083 individuals listed by the Police Narcotics Bureau and Police Special Bureau were also arrested.
+
+The total value of confiscated properties stands at approximately Rs. 725 million.
+
+...
+
+[Data](articles/0c7424b8.json)
 
 ---
 
@@ -259,6 +461,38 @@ Following this, the Vaddukoddai police are conducting investigations to arrest t
 [Data](articles/67e43cf9.json)
 
 [Extended Data](ext_articles/67e43cf9.ext.json)
+
+---
+
+### Bread prices in Kalutara district increase against raids
+
+*2024-02-06 13:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bread-prices-in-Kalutara-district-increase-against-raids/108-276426) · `en`
+
+Following the decision to initiate raids targeting the sale of underweight bread in bakeries, bakery owners in the Kalutara district have decided to increase the selling price of a loaf of bread.
+
+The Consumer Affairs Authority (CAA) initiated raids targeting the sale of underweight bread in bakeries starting yesterday.
+
+Accordingly, the selling price of a loaf of bread, which was Rs. 130, has increased to Rs. 150. Even though the government announced the weight of a loaf of bread at 450g, most of the shops sell bread weighing nearly 350g.
+
+◼️
+
+[Data](articles/253a4d90.json)
+
+---
+
+### Army contingent departs for South Sudan
+
+*2024-02-06 13:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Army-contingent-departs-for-South-Sudan/110-276428) · `en`
+
+The 10th contingent of the Sri Lanka Army Medical Corps (SLAMC) departed Sri Lanka early this morning (06 February), to assume duties at the Level-2 SRIMED Hospital in the United Nations Peacekeeping Mission in South Sudan (UNMISS).
+
+The 10th South Sudan bound contingent, commanded by Lieutenant Colonel D.M.D.J Dissanayake RSP USP and Second in Command, Major N.I Rathnayake, comprises 64 Army personnel, including 14 Army Officers, 01 Naval Officer and 49 Other Ranks.
+
+Representing the Commander of the Army, Major General P.A.C. Fernando USP, Colonel Commandant, SLAMC and Director General Army Health Services, Brigadier G.L.S.W Liyanage USP psc, Director, Directorate of Overseas Operations, Brigadier W.A.U.S Wanasekara RWP USP, Centre Commandant, SLAMC and other Senior Officers bid farewell to the contingent at the Bandaranaike International Airport.
+
+◼️
+
+[Data](articles/a329afbc.json)
 
 ---
 
@@ -704,12 +938,6 @@ Motorists will need to use alternative routes during this time.
 
 On February 8th, the level crossing will be partially closed from 6:00 AM to 10:30 PM.
 
-Navy gears up for annual Kachchativu feast set for February 23,24
-
-Sri Lanka to Elect President, Parliament This Year, Local Gov’t Waits
-
-Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
-
 ◼️
 
 [Data](articles/532acdde.json)
@@ -748,7 +976,7 @@ The police have confirmed that further investigations will proceed based on the 
 
 Notably, yesterday, the CID took custody of several files related to the transaction from the official chamber of Dr. Saman Ratnayake, Additional Secretary of the Ministry of Health.
 
-...
+◼️
 
 [Data](articles/ddbf9e95.json)
 
@@ -898,6 +1126,22 @@ A large hunger who smuggled painkillers pills to Sri Lanka has been arrested and
 
 ---
 
+### බිරිඳගේ අසනීපයට වියදම් සල්ලි නැති නිසා බිරිඳට වස පොවා සැමියත් වස බොයි
+
+*2024-02-06 11:58:54* · [`adalk`](https://www.ada.lk/breaking_news/බිරිඳගේ-අසනීපයට-වියදම්-සල්ලි-නැති-නිසා-බිරිඳට-වස-පොවා-සැමියත්-වස-බොයි/11-407925) · `si`
+
+බිරිඳගේ අසනීප තත්ත්වයකට විශාල මුදලක් වියදම් කිරීමට සිදුවීමත්, ඒ සඳහා ප්‍රමාණවත් ආර්ථික තත්ත්වයක් තමන්ට නොමැති වීමත් නිසා බිරිඳට ද වස පොවා සැමියාද වස පානය කර සියදිවි නසා ගැනීමට උත්සාහ කළ පුවතක් සූරියවැව පොලිස් වසමේ වෙනිවැල් ආර ප්‍රදේශයෙන් පෙරේදා (04 වැනිදා) සවස වාර්තා වූ බව පොලීසිය කියයි.
+
+මෙලෙස වස පානය කර සියදිවි නසා ගැනීමට උත්සාහ කර ඇත්තේ සූරියවැව වෙනිවැල්ආර පදිංචි 58 හැවිරිදි හා 54 හැවිරිදි අඹුසැමි යුවළක් බවත්,එම බිරිඳ දීර්ඝ කාලයක් සිට ඇයගේ කශේරුකාවේ තිබූ ආබාධිත තත්ත්වයක් හේතුවෙන් එක්තැන්ව සිට ඇතිබව සූරියවැව පොලීසිය පවසයි.
+
+මේ අතර,ඇයගේ අසනීප තත්ත්වය සඳහා ප්‍රතිකාර කිරීමට විශාල මුදලක්ද වියදම් කිරීමට සැමියාට සිදුව ඇති බවත් ,සිය බිරිඳගේ අසනීප තත්ත්වය සඳහා ප්‍රතිකාර ගැනීමට රැගෙන යාම හා ප්‍රතිකාර දීම ඇතුළු කටයුතු කිරීමට නොව, ජීවත් වීමටවත් ප්‍රමාණවත් ආර්ථික තත්ත්වයක් නොමැති වීම නිසා නිදහස් දිනය දා සවස 4.30ට පමණ සැමියා විසින් එක්තැන්ව සිටින තම බිරිඳට වස පොවා සැමියාද වස පානය කර සියදිවි නසා ගැනීමට උත්සාහ කර ඇති බව පොලීසිය කියයි.
+
+...
+
+[Data](articles/9aab74de.json)
+
+---
+
 ### Road accident in Colombo leaves two injured
 
 *2024-02-06 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97039/road-accident-in-colombo-leaves-two-injured) · `en`
@@ -930,15 +1174,29 @@ Police suspect that the murder had been carried out on a personal dispute.
 
 ---
 
+### අනියම් ඇසුරක් නිසා ජපාන රූ රැජිනට කිරුළ අහිමිවෙයි
+
+*2024-02-06 11:52:36* · [`adalk`](https://www.ada.lk/breaking_news/අනියම්-ඇසුරක්-නිසා-ජපාන-රූ-රැජිනට-කිරුළ-අහිමිවෙයි/11-407924) · `si`
+
+විවාහකයෙකු සමඟ අනියම් ඇසුරක් පවත්වාගෙන යාම හේතුවෙන් ජපාන රූ රැජින ලෙස කිරුළ දිනූ 26 හැවැරිදි කැරොලිනා ෂිනෝ සිය කිරුණ අත්හැර තිබේ.
+
+යුක්රේනයේ උපතලද ෂිනෝ ජපානයේ රූ රැජින තරගයෙන් ජයග්‍රහණය කිරීමත් මතභේදයට තුඩුදුන් අතර ඇයගේ මෙම අනියම් ඇසුර හෙළිකර ඇත්තේ ජපාන ටැබ්ලොයිඩ් පුවත්පතක් විසිනි.
+
+මෙම වාර්තාව පළවීමත් සමග ඇය මුලින්ම ප්‍රකාශ කර තිබුණේ අදාළ පුද්ගලයා විවාහකයෙක් බව තමන් නොදැස සිට බවයි. කෙසේ වෙතත් පසුව ඇය පිළිගෙන ඇත්තේ එම පුද්ගලයා විවාහකයෙක් බව තමන් දැනගෙන සිටි බවයි.
+
+ඒ අනුව ඇය තම කිරුළ අත්හැරීමට කටයුතු කර තිබේ. නොමඟ යැවීම සම්බන්ධයෙන් ඇය සමාව අයැද සිටි අතර සංවිධායකයින් ඇයගේ තනතුරෙන් ඉල්ලා අස්වීම පිළිගෙන ඇති බව ජපාන රූ රැජින සංගමය පවසයි.‍
+
+කැරෙලිනා  චතුර ලෙස ජපන් භාෂාව කතා කරන සහ ලියන අතර 2022 දී ජපාන පුරවැසභාවය ලබා ගෙන තිබේ.
+
+◼️
+
+[Data](articles/eac9b03f.json)
+
+---
+
 ### Talk of The Town | Harshana Rajakaruna | SJB is on track
 
 *2024-02-06 11:47:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/talk-of-the-town-harshana-rajakaruna-sjb-is-on-track/) · `en`
-
-Navy gears up for annual Kachchativu feast set for February 23,24
-
-Sri Lanka to Elect President, Parliament This Year, Local Gov’t Waits
-
-Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
 
 ◼️
 
@@ -963,12 +1221,6 @@ The infant, who suffered injuries in the crash, was rushed to Peradeniya Hospita
 The motorcyclist involved in the accident has been taken into custody by police.
 
 Sri Lanka Police added that the deceased along with their child were involved in the sale of incense sticks.
-
-Navy gears up for annual Kachchativu feast set for February 23,24
-
-Sri Lanka to Elect President, Parliament This Year, Local Gov’t Waits
-
-Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
 
 ◼️
 
@@ -1144,11 +1396,7 @@ Furthermore, eight individuals on the watchlists of the Police Narcotics Bureau 
 
 Notably, among the 108 suspects detained based on crime branch list, 12 were wanted for drug-related offenses, while 128 had outstanding warrants for non-drug-related crimes.
 
-Navy gears up for annual Kachchativu feast set for February 23,24
-
-Sri Lanka to Elect President, Parliament This Year, Local Gov’t Waits
-
-...
+◼️
 
 [Data](articles/76451ff9.json)
 
@@ -1165,12 +1413,6 @@ COLOMBO (News 1st); The National Civil Organization Front (NCOF) and Mass Organi
 The petition drive, held outside the Gampaha railway station, comes amidst growing public anxieties surrounding the alleged procurement of substandard medicine.
 
 NCOF claims the current administration has failed to effectively address these issues, instead allowing them to escalate.
-
-Navy gears up for annual Kachchativu feast set for February 23,24
-
-Sri Lanka to Elect President, Parliament This Year, Local Gov’t Waits
-
-Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
 
 ◼️
 
@@ -1482,12 +1724,6 @@ Ministry Secretary, Specialist Dr. Palitha Mahipala, confirmed that these doctor
 
 This follows the recent appointment of 590 doctors who finished their internships last week.
 
-Navy gears up for annual Kachchativu feast set for February 23,24
-
-Sri Lanka to Elect President, Parliament This Year, Local Gov’t Waits
-
-Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
-
 ◼️
 
 [Data](articles/9c2b0fc8.json)
@@ -1715,339 +1951,5 @@ A suspect and three suspects have been arrested in the media and three suspects 
 [Data](articles/c184b164.json)
 
 [Extended Data](ext_articles/c184b164.ext.json)
-
----
-
-### The motorcycle sands two lives on the road
-
-*2024-02-06 09:14:23* · [`adalk`](https://www.ada.lk/breaking_news/යතුරු-පැදිය-පාරේ-සිටි-ජීවිත-දෙකක්-බිලි-ගනියි/11-407920) · `si`
-
-A motorbike from Kandalama road from Kandalama road from Kandalama road to Kandy main road from the Dambulla Police fall to the Kandy main road, a motorcycle towards the main road.
-
-The woman who was taking the men and child were killed in this accident. The nine-year-old girl was injured and admitted to the Dambulla Hospital.
-
-The riding person was also injured and admitted to the Dambulla Hospital and he is receiving treatment at the hospital.
-
-◼️
-
-[Data](articles/96962bf4.json)
-
-[Extended Data](ext_articles/96962bf4.ext.json)
-
----
-
-### Health trade unions and Finance Ministry reps to meet today
-
-*2024-02-06 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97030/health-trade-unions-and-finance-ministry-reps-to-meet-today) · `en`
-
-The health sector trade unionists and Finance Ministry representatives are slated to meet later today (Feb.06) do discuss the concerns of the health workers regarding allowances.
-
-Health Trade Union Alliance’s convenor Ravi Kumudesh said the meeting is scheduled to start at noon under the instructions of President Ranil Wickremesinghe.
-
-The trade unions representing a wide range of health sector professionals, including radiology and laboratory technicians, pharmacists and drug compounders, midwives, dental surgeons, public health inspectors, and entomology officers have engaged in strikes on multiple occasions demanding an allowance hike for them.
-
-On January 08, the Cabinet of Ministers approved President Ranil Wickremesinghe’s proposal to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000. This compelled the other health workers to resort to trade union actions.
-
-...
-
-[Data](articles/085372cf.json)
-
-[Extended Data](ext_articles/085372cf.ext.json)
-
----
-
-### Reps of health trade unions and Finance Ministry to meet today
-
-*2024-02-06 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97030/reps-of-health-trade-unions-and-finance-ministry-to-meet-today) · `en`
-
-The health sector trade unionists and Finance Ministry representatives are slated to meet later today (Feb.06) do discuss the concerns of the health workers regarding allowances.
-
-Health Trade Union Alliance’s convenor Ravi Kumudesh said the meeting is scheduled to start at noon under the instructions of President Ranil Wickremesinghe.
-
-The trade unions representing a wide range of health sector professionals, including radiology and laboratory technicians, pharmacists and drug compounders, midwives, dental surgeons, public health inspectors, and entomology officers have engaged in strikes on multiple occasions demanding an allowance hike for them.
-
-On January 08, the Cabinet of Ministers approved President Ranil Wickremesinghe’s proposal to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000. This compelled the other health workers to resort to trade union actions.
-
-...
-
-[Data](articles/e1211a39.json)
-
-[Extended Data](ext_articles/e1211a39.ext.json)
-
----
-
-### Casual affair kills woman
-
-*2024-02-06 08:56:48* · [`adalk`](https://www.ada.lk/breaking_news/අනියම්-සබඳතාව-කාන්තාවට-මරු-කැඳවයි/11-407919) · `si`
-
-Sooriyawewa Police Division had taken place with a sharp weapon with a sharp object due to a dispute with a casual relationship.
-
-The assassination has been reported at a house in the Poorwewa police division, police said.
-
-Police suspect that the murder had taken place due to a dispute over the death and suspect. The suspect has been identified and Sooriyawewa police are conducting further investigations.
-
-◼️
-
-[Data](articles/866affa1.json)
-
-[Extended Data](ext_articles/866affa1.ext.json)
-
----
-
-### Sri Lanka likely to adopt Singaporean house detention method for minor offenses
-
-*2024-02-06 08:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-likely-to-adopt-Singaporean-house-detention-method-for-minor-offenses/108-276404) · `en`
-
-Colombo, Feb 06 (Daily Mirror) - Sri Lanka will soon likely adopt the Singaporean method to implement house detention for suspects who are charged with minor offenses.
-
-House detention, also known as home confinement, aims to reduce recidivism and alleviate prison overcrowding.
-
-The Ministry of Justice and Prison Affairs is planning to implement a programme this year to place those found guilty of civil offenses under house arrest.
-
-Prisons Spokesman Gamini Dissanayake told the Daily Mirror that the ministry and the department are in the process of drafting laws in this regard and once the process is finalized, it needs to be passed in Parliament.
-
-He said many countries including Singapore are using the home detention method . Once the programme is implemented, the suspects who are charged with minor offenses will undergo house arrest on the orders of the Judges.
-
-...
-
-[Data](articles/7ab5cfa2.json)
-
-[Extended Data](ext_articles/7ab5cfa2.ext.json)
-
----
-
-### Keheliya Allowed Home-Cooked Meals While in Remand Custody
-
-*2024-02-06 08:36:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/keheliya-allowed-home-cooked-meals-while-in-remand-custody/) · `en`
-
-COLOMBO (News 1st); Former Health Minister Keheliya Rambukwella, currently in remand custody over alleged irregularities in a drug procurement deal, has been granted permission to consume home-cooked meals based on a doctor's recommendation.
-
-Prisons Spokesperson Gamini B. Dissanayake clarified that Rambukwella has not requested treatment in a private hospital.
-
-The minister was taken into custody last Friday in connection with the controversial immunoglobulin procurement scandal, where allegedly non-functional drugs were purchased for state hospitals.
-
-Navy gears up for annual Kachchativu feast set for February 23,24
-
-Sri Lanka to Elect President, Parliament This Year, Local Gov’t Waits
-
-Human Immunoglobulin Probe Heats Up: Key Meetings & Legal Consultations Today
-
-◼️
-
-[Data](articles/22348ab5.json)
-
-[Extended Data](ext_articles/22348ab5.ext.json)
-
----
-
-### Change of public servants' works for Ramazan
-
-*2024-02-06 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193031) · `si`
-
-The Ministry of Public Administration and the Ministry of Public Administration and Home Affairs has informed the government to adjust the workshops so that the Muslim public servants can be used for the Muslim public servants.
-
-It is reported that the Ministry Secretaries, Provincial Chief Secretaries, Heads of Government Corporations, Heads of State Corporations and Statutory Boards have issued a circular.
-
-The Ramadan Season is scheduled to be held from March 12 to April 11
-
-The Ministry of Public Administration has issued the approval of the Public Administration and the Public Administration and the Public Administration.
-
-The Ministry of Public Administration has also informed the Public Administration and the Public Administration Board of Public Corporations and Statutory Boards for the end of Ramadan.
-
-◼️
-
-[Data](articles/77765623.json)
-
-[Extended Data](ext_articles/77765623.ext.json)
-
----
-
-### The fatal accident of two lives
-
-*2024-02-06 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193030) · `si`
-
-Two persons including a woman, including a woman, had died in an accident in the Vihara Junction area on the Kandy-Kandy main road.
-
-The accident had occurred last night, police said.
-
-A motorcycle who was on the way to the Kandalam to the main road, a woman and a woman who had a child had taken place.
-
-The woman and the person had died after being injured and taken to the Dambulla hospital.
-
-The 9-month old daughter is receiving treatment at the Dambulla Hospital.
-
-The deceased has been identified as a 43-year-old woman who was residing in the Acrei -rama.
-
-Motorcyclists have been injured in the accident and he is receiving treatment at the Dambulla Hospital under police protection.
-
-◼️
-
-[Data](articles/9083298d.json)
-
-[Extended Data](ext_articles/9083298d.ext.json)
-
----
-
-### Weeraman who brought a medal in Lakmeewa in Iran
-
-*2024-02-06 08:17:24* · [`adalk`](https://www.ada.lk/sports/ඉරානයේදී ලක්මවට-පදක්කමක්-ගෙනා-විරේන්/9-407918) · `si`
-
-A participant from the 32th International Badminton Championship tournament, arrived at the Katunayake Airport on the open calendar.
-
-The tournament was held on the 30th of February to 4th February.
-
-Virage Neththanasinghe left the next two these days at the Bandarawela-East Badminton Championships in Sri Lanka these days.
-
-More than 550 international badminton players are currently in the Katunayake airport to participate in these tournaments.
-
-Virage Nethhtinghe next to depart to Uganda, the International Badminton Championship Tournament in Uganda and to attend international tournaments in Poland and the International Competitions in the Netherlands.
-
-In addition, the Asian Championship tournament in China is also expected to attend the World Grade at a higher point in the event of the next April.
-
-◼️
-
-[Data](articles/0a08a24d.json)
-
-[Extended Data](ext_articles/0a08a24d.ext.json)
-
----
-
-### Special discussion between health staff and finance minister
-
-*2024-02-06 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193029) · `si`
-
-A special discussion is scheduled to be held today (06) a special discussion between the Health Societies Representatives of the Health Cabinet and the Representatives of the Ministry of Finance.
-
-The convener of the Health Trade Union Alliance Ravi Kudmith said that the discussion will be held at the Ministry of Finance at 12 noon.
-
-The discussion will be held on the instructions of the President regarding the use of economic justice for health staff.
-
-◼️
-
-[Data](articles/66cdc01c.json)
-
-[Extended Data](ext_articles/66cdc01c.ext.json)
-
----
-
-### Anura meets another boss in India
-
-*2024-02-06 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193028) · `si`
-
-Anura Kumara Dissanayake has met with the National Security Advisor of the Government of India, which is on a tour of India.
-
-The meeting was reportedlyar in Sardar Pathan yesterday afternoon.
-
-Sri Lanka and India have long discussions with regional security and bilateral relations between Sri Lanka and India.
-
-Anura Kumara Dissanayake was also present at the meeting with Indian External Affairs Minister Dr. S. Sishankar yesterday morning.
-
-Leader of the National Power Anura Kumara Dissanayake is on a tour of India on an official invitation of the Government of India.
-
-This is the first time that the JVP is invited to visit the country to the Indian government.
-
-◼️
-
-[Data](articles/566fe876.json)
-
-[Extended Data](ext_articles/566fe876.ext.json)
-
----
-
-### Government rushed to amend Online Safety Act amidst pressure
-
-*2024-02-06 07:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Government-rushed-to-amend-Online-Safety-Act-amidst-pressure/155-276403) · `en`
-
-Amidst concerns by the industry stakeholders about the possible impact on digital economy, the government has already worked out fresh amendments to be incorporated into the recently introduced Online Safety Act.
-
-Speaker Mahinda Yapa Abeywardena gave his ascent to the new law passed in Parliament. The government proceeded with the enactment of the new law despite criticism from various corners including the industry stakeholders who argued that the new law borders on the infringement of freedom of expression and will have an impact on digital economy in the future.
-
-...
-
-[Data](articles/01fe5ac1.json)
-
-[Extended Data](ext_articles/01fe5ac1.ext.json)
-
----
-
-### A rehabilitation officer arrested with heroin
-
-*2024-02-06 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193027) · `si`
-
-Police have arrested a rehabilitation officer in Moneragala town with heroin.
-
-The prison department stated that a rehabilitation officer in the Moneragala Prison has been arrested.
-
-A Monastery of Prisons has also been carried out by a monkey jarrror.
-
-Accordingly, the rehabilitation officer was under the disciplinary inquiry, prison media spokesman Prison, Commissioner Gamini Dissanayake said.
-
-◼️
-
-[Data](articles/de90b22c.json)
-
-[Extended Data](ext_articles/de90b22c.ext.json)
-
----
-
-### “Arrested VIPs live in luxury in prison”
-
-*2024-02-06 07:54:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கைது-செய்யப்பட்ட-விஐபிகள்-சிறையில்-சொகுசாக-வாழ்கின்றனர்/150-332744) · `ta`
-
-The Government Medical Officers forum (GMOF) yesterday accused the woman's doctor in charge of the Welikada Prison and allowed the imprisoned dignitaries to enjoy the life of a man.
-
-GMOF leader Daily Mirror said that the medical officer has repeatedly complained to the Health Ministry that he had misused his powers.
-
-“The action of the particular medical officer has allowed not only VIPs but also the jailed drug traffickers to stay in the prison hospital comfortably,” he said.
-
-Dr. Bellana said that real patients in the Welikada Prison have lost the opportunity to get treatment.
-
-He also said that no action has been taken against the doctor, despite repeated complaints from the Human Rights Council and internal doctors.
-
-Doctor Bellana said that the doctor has come to work with the stamp as chief medical officer and has allowed the Ministry of Health to work there for more than five years.
-
-◼️
-
-[Data](articles/1618b676.json)
-
-[Extended Data](ext_articles/1618b676.ext.json)
-
----
-
-### Cancer for King Charles 3
-
-*2024-02-06 07:47:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/3ஆம்-சார்ள்ஸ்-மன்னருக்கு-புற்றுநோய்/50-332743) · `ta`
-
-The type of cancer has not been revealed and the subject has been found during her recent treatment.
-
-The palace said that the king began "regular treatment" on Monday and will postpone public obligations during treatment.
-
-◼️
-
-[Data](articles/f4f19ec1.json)
-
-[Extended Data](ext_articles/f4f19ec1.ext.json)
-
----
-
-### Today's climatic situation
-
-*2024-02-06 07:37:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-காலநிலை-நிலவரம்/175-332742) · `ta`
-
-The Department of Meteorology has said that in most parts of the country today, there will be uniform weather.
-
-In the morning, the snow will be seen in some parts of the Central, Sabaragamuwa and Uva provinces, as well as some of the Galle and Matara districts.
-
-Uniform weather found in the sea regions around the country. Winds from the northeast at 20 - 30 km / h in the sea regions.
-
-Frequent winds can be thrown at 55 kilometers per hour in the sea regions from Matara to Pottuvil via Hambantota.. In these cases, these sea regions are turbulent.
-
-The winds may blow at 45 kilometers per hour in the sea regions from Colombo to Puttalam and Mannar via Mannar.. In such cases, the sea regions are reportedly in a state of turmoil.
-
-◼️
-
-[Data](articles/27a3eb6f.json)
-
-[Extended Data](ext_articles/27a3eb6f.ext.json)
 
 ---

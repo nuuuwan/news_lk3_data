@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 10:32:50**
+As of **2024-02-07 10:50:30**
 
 ## Newspaper Stats
 
-*Scraped **5,363** Articles*
+*Scraped **5,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 454
 virakesarilk | 644
 adaderanalk | 663
 tamilmirrorlk | 667
-adaderanasinhalalk | 691
+adaderanasinhalalk | 694
 dailymirrorlk | 763
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,362 (100.0%) of 5,363 articles have been extended.
+5,366 (100.0%) of 5,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### President arrives in Parliament
+
+*2024-02-07 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193071) · `si`
+
+President Ranil Wickremesinghe arrived in Parliament a short while ago.
+
+09:58 - Speaker Mahinda Yapa Abeywardena arrives in Parliament premises.
+
+President of the 5th Parliament commences today (07).
+
+The President is due to present the government's policy statement to parliament at 10.30 am.
+
+◼️
+
+[Data](articles/a7190169.json)
+
+[Extended Data](ext_articles/a7190169.ext.json)
+
+---
+
+### Former Commander of the former Navy Commander
+
+*2024-02-07 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193070) · `si`
+
+Former Navy Commander and Chief of Defense Staff Daya Sandagiriya has joined the reconciliation.
+
+The 14th Navy Commander of the Sri Lanka Navy, Pension, Daya Sandagar (DS), PSC, FCK (DS), and joined the reservion leader Sajith Premadasa.
+
+Opposition Leader Sajith Premadasa has been appointed as a consultant on the Marine and Navigation Advisor of the massive knowledge on the maritime and naval industry.
+
+◼️
+
+[Data](articles/771de21a.json)
+
+[Extended Data](ext_articles/771de21a.ext.json)
+
+---
 
 ### Ex-Navy Commander Daya Sandagiri joins SJB
 
@@ -41,6 +79,8 @@ Former Navy Commander and Chief of Defence Staff Daya Sandagiri has joined the m
 ◼️
 
 [Data](articles/d8b703be.json)
+
+[Extended Data](ext_articles/d8b703be.ext.json)
 
 ---
 
@@ -83,6 +123,28 @@ Chile’s national disaster agency SENAPRAD confirmed that one person had been k
 [Data](articles/632c7a3c.json)
 
 [Extended Data](ext_articles/632c7a3c.ext.json)
+
+---
+
+### Murder due to a kicre
+
+*2024-02-07 09:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193068) · `si`
+
+A kizzen climbing incident was taken away from two inmates.
+
+The murder of the murder had been carried out by the murder by one inmate.
+
+The inmate of the prisoner had been unconscious with a high bleeding of a cement.
+
+The victim is a detaine named Money Kinniya Maharupp Nagar, Trincomalee.
+
+The murder remains were detained in the same prison intentional murder.
+
+◼️
+
+[Data](articles/a8e3a58d.json)
+
+[Extended Data](ext_articles/a8e3a58d.ext.json)
 
 ---
 
@@ -1973,65 +2035,5 @@ It could be delayed for weeks, if not months, if the case ends up before the Sup
 [Data](articles/e3020d88.json)
 
 [Extended Data](ext_articles/e3020d88.ext.json)
-
----
-
-### Will there be a shortage of fuel tomorrow?
-
-*2024-02-06 20:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/175742) · `ta`
-
-Fuel distributors say that the time of payment of money to the Ceylon Petroleum Corporation by refueling stations has been limited today (06).
-
-They pointed out that the owners of refueling stations were unable to make the required fuel (command) within the time period today.
-
-They also say that everyone is not able to do the necessary tiers before ten o'clock in the morning.
-
-Distributors have pointed out that their association and refueling stations are not responsible for the fuel shortage.
-
-◼️
-
-[Data](articles/74bfb019.json)
-
-[Extended Data](ext_articles/74bfb019.ext.json)
-
----
-
-### 50 bakery trapped in action testing
-
-*2024-02-06 20:50:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிரடி-சோதனையில்-சிக்கிய-50-பேக்கரிகள்/175-332785) · `ta`
-
-The Consumer Affairs Authority (CAA) has been investigated yesterday (05).
-
-During the tests conducted in bakeries and stores, about 50 bakeries that did not show the weight and prices were raided and the case would be prosecuted against the bakeries.. Remble
-
-◼️
-
-[Data](articles/0f49b4b2.json)
-
-[Extended Data](ext_articles/0f49b4b2.ext.json)
-
----
-
-### Monsoon against National Society
-
-*2024-02-06 20:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193056) · `si`
-
-The motion has been filed in the Supreme Court as illegal to register the national folk force and to allow the national folk force.
-
-The monsoon has presented the monguewise by the Vineyard Front.
-
-The monsoon has been presented by Kodituwakku, who has filed a Rit petition filed against the decision of the Examinations Commission to register as a political party.
-
-Nagananda Kodituwakku said in the monsoon, the registration of the national folk force, a political party, is completely contrary to the law.
-
-The monsoons are contrary to the election law regimes in terms of Section 103 (2) of the Constitution.Available.
-
-Nagananda Kodituwakku is also requested to the Supreme Court to allow the national folk force to be illegal.
-
-◼️
-
-[Data](articles/3e9ec181.json)
-
-[Extended Data](ext_articles/3e9ec181.ext.json)
 
 ---

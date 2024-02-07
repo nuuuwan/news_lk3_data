@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 00:32:38**
+As of **2024-02-08 00:47:36**
 
 ## Newspaper Stats
 
-*Scraped **5,561** Articles*
+*Scraped **5,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 305
 newsfirstlk | 342
 adalk | 472
 virakesarilk | 678
-adaderanalk | 688
+adaderanalk | 690
 tamilmirrorlk | 693
 adaderanasinhalalk | 725
 dailymirrorlk | 792
@@ -26,7 +26,7 @@ dailymirrorlk | 792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,547 (99.7%) of 5,561 articles have been extended.
+5,547 (99.7%) of 5,563 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/538f07f8.json)
+
+---
+
+### US military helicopter reported missing with 5 Marines on board
+
+*2024-02-08 00:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97097/us-military-helicopter-reported-missing-with-5-marines-on-board) · `en`
+
+Crews were searching for a Marine Corps helicopter carrying five troops from Nevada to California that was reported overdue early Wednesday as a historic storm continued drenching California.
+
+The Marines were flying a CH-53E Super Stallion helicopter from Creech Air Force Base, northwest of Las Vegas, where they had been doing unit-level training and were returning home to Marine Corps Air Station Miramar in San Diego, defense officials said.
+
+It was not immediately known what time the helicopter left Creech nor what time they were due to arrive. Waves of heavy downpours hit the area throughout the night and snow was forecast for San Diego County mountains.
+
+The five U.S. Marines were assigned to Marine Heavy Helicopter Squadron 361, Marine Aircraft Group 16, 3rd Marine Aircraft Wing at Miramar, the Marine Corps said in a statement.
+
+...
+
+[Data](articles/52f7ced0.json)
 
 ---
 
@@ -113,6 +131,24 @@ Some 18 months ago you were without electricity, gas and fuel. I think people sh
 ...
 
 [Data](articles/c35d7990.json)
+
+---
+
+### Anura Kumara meets Chief Minister of Gujarat
+
+*2024-02-07 23:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97096/anura-kumara-meets-chief-minister-of-gujarat) · `en`
+
+Leader of the Jantha Vimukthi Peramuna (JVP) Anura Kumara Dissanayake on Wednesday (07 Feb.) met the Chief Minister of Gujarat, Bhupendra Patel, in Gandhinagar, India.
+
+The parties met at the Vidana Sabha (State Legislative Assembly), and discussed various matters of concern, including the state’s development strategies for poverty alleviation and the state administration process.
+
+Subsequent to his meeting with Patel, Dissanayake met with Indian Cabinet Minister of Industries, Civil Aviation, Rural Development, Labour and Employment in Gujarat, Balvantsinh Rajput, during which a presentation on the ‘Gujarat Model’, used as development model by the Indian government, was also made.
+
+Energy reforms, agriculture and water, infrastructure improvement, industry and investment, healthcare and women’s empowerment are the key areas of this Gujarat development model”, the JVP leader revealed in a statement on ‘X’ (formerly Twitter).
+
+...
+
+[Data](articles/2133a95f.json)
 
 ---
 
@@ -2005,47 +2041,5 @@ Why didn't we come to us?Why not unite with the intention of our country and its
 [Data](articles/09a8fcb3.json)
 
 [Extended Data](ext_articles/09a8fcb3.ext.json)
-
----
-
-### Electricives protest against restoring
-
-*2024-02-07 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193081) · `si`
-
-A protest was organized in front of the Electricity Board's headquarters today (07).
-
-It forced the authorities to re-establish all the employees who were banned by the CEB.
-
-The CEB launched all the trade union unity of the Ceylon Electricity Board in Colombo this afternoon.
-
-The Ceylon Electricity Board (CEB), the Ceylon Electricity Board, the Ceylon Electricity Board, the Ceylon Electricity Board (CEB) is supported by the Ceylon Electricity Board.
-
-◼️
-
-[Data](articles/8272bf80.json)
-
-[Extended Data](ext_articles/8272bf80.ext.json)
-
----
-
-### 5 refugees asylum in Dhanushkodi
-
-*2024-02-07 14:29:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அகதிகளாக-5பேர்-தனுஷ்கோடியில்-தஞ்சம்/175-332824) · `ta`
-
-Five people, including 3 children from the same family as refugees from the country, have taken shelter today (07) in a sandy deed, Marine police said.
-
-Due to the severe economic crisis in the country, they have been severely inconvenienced for the essential needs.
-
-Nandakumar from Vavuniya Nedunguli area, including his wife and his 3 children, departed from Mannar on Tuesday (06) and left the boat on Tuesday (7).
-
-Informed Rameswaram Marine Police are rescuing Sri Lankan Tamils and are conducting an investigation at the Mandapam Marine Police Station.
-
-Meanwhile, the number of refugees from Sri Lanka to Tamil Nadu has risen to 293 due to the economic crisis.
-
-◼️
-
-[Data](articles/3bfe4616.json)
-
-[Extended Data](ext_articles/3bfe4616.ext.json)
 
 ---

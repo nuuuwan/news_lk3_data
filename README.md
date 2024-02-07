@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 20:32:48**
+As of **2024-02-07 20:49:41**
 
 ## Newspaper Stats
 
-*Scraped **5,521** Articles*
+*Scraped **5,528** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,67 +18,187 @@ newsfirstlk | 342
 adalk | 471
 virakesarilk | 671
 adaderanalk | 685
-tamilmirrorlk | 690
-adaderanasinhalalk | 716
-dailymirrorlk | 781
+tamilmirrorlk | 691
+adaderanasinhalalk | 720
+dailymirrorlk | 783
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,515 (99.9%) of 5,521 articles have been extended.
+5,521 (99.9%) of 5,528 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### பால் அருந்திய இருவர் வைத்தியசாலையில் அனுமதி
+### වස මිශ්‍ර කර කිරිපැකට්ටුවක් දුන් සැකකරු සොයා විමර්ශන ඇරඹෙයි
 
-*2024-02-07 20:01:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்-அருந்திய-இருவர்-வைத்தியசாலையில்-அனுமதி/175-332851) · `ta`
+*2024-02-07 20:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193098) · `si`
 
-ஜிந்துபிட்டிய பிரதேசத்தில் அண்மையில் இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவம் தொடர்பில் வுல்பென்டல் பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டிருந்த சந்தேக நபர்கள் இருவர் அவர்களைப் பார்வையிட வந்தவர்கள் வழங்கிய பால் பக்கெட்டை அருந்திய பின் இன்று (7) கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+ආදුරුප්පුවීදිය පොලීසියේ සිර මැදිරියේ සිටි සැකකරුවන් දෙදෙනෙකු කිසියම් පුද්ගලයෙකු ලබාදුන් කිරි පැකට්ටුවක් පානය කිරීම නිසා රෝගී වී රෝහල්ගත කර ඇත.
 
-சந்தேக நபர்கள் இருவரும் பால் பக்கெட்டுகளை அருந்திய பின்னர் சுயநினைவை இழந்ததாகவும், பாலில் நச்சு கலந்திருக்கலாம் என சந்தேகிக்கப்படுவதாகவும் பொலிஸார் தெரிவித்தனர்.
+වෙඩි තැබීමක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන තිබූ ඔවුන්ට ලබාදුන් කිරි පැකට්ටුවේ වස මිශ්‍ර කර ඇති බවට පොලීසිය සැක පළ කරයි.
 
-சந்தேக நபர்களுக்கு பால் பக்கெட்டுகளில் சயனைட் கலந்து குடிக்க கொடுக்கப்பட்டதாக பொலிஸார் குற்றம் சாட்டுகின்றனர்.
+ජින්තුපිටිය ප්‍රදේශයේ දී පසුගිය ජනවාරි 25 වැනි දා යතුරුපැදියකින් පැමිණි පුද්ගලයන් දෙදෙනෙකු විසින් සිදු කළ වෙඩි තැබීමකින් තරුණයෙකු තුවාල ලබා ඇත.
 
-சுகயீனமடைந்த சந்தேக நபர்களில் ஒருவரே கடந்த ஜனவரி 24ஆம் திகதி ஜிந்துபிட்டிய பிரதேசத்தில் நபர் ஒருவரை சுட்டுக் கொன்றதாக சந்தேகிக்கப்படுபவர் எனவும் மற்றைய சந்தேகநபர் தகவல் வழங்குபவராக செயற்பட்டதாகவும் பொலிஸார் தெரிவித்தனர்.
+එහි දී ප්‍රදේශවාසින් විසින් එක් සැකකරුවකු අල්ලාගත් අතර, වෙඩික්කරු යතුරුපැදිය ද දමා එම ස්ථානයෙන් පළා ගොස් තිබේ.
+
+පසු ව විමර්ශන සිදු කළ පොලීසිය ආරක්ෂක අංශයකින් පළාවිත් සිටින වෙඩික්කරු දඹාන ප්‍රදේශයේ දී අත්අඩංගුවට ගත් අතර, ඔහු ව ආදුරුප්පුවීදිය පොලීසියට රැගෙනවිත් රඳවාගෙන ප්‍රශ්න කරනු ලැබිණි.
+
+ඒ අනුව ඔහුට ආධාර අනුබල දුන් තවත් සැකකරුවකු අත්අඩංගුවට ගැනුණු අතර, සැකකරුවන් දෙදෙනාම ආදුරුප්පුවීදිය පොලීසියේ එකම සිරකුටියක් තුළ රඳවා විමර්ශන සිදු කර තිබේ.
 
 ...
 
-[Data](articles/31daf46e.json)
+[Data](articles/fb97a7f1.json)
 
 ---
 
-### ”இனி அரசாங்கத்திற்கு ஆதரவளிக்க மாட்டோம்”
+### Two people who had been drinking milk were admitted to the hospital
+
+*2024-02-07 20:01:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்-அருந்திய-இருவர்-வைத்தியசாலையில்-அனுமதி/175-332851) · `ta`
+
+Two suspects detained at the Wulbendal police station have been admitted to the Colombo National Hospital today (7) after they have been admitted to the visit of the Wulbendal police station in connection with the recent shooting incident in Jindupitiya.
+
+Police said that the two suspects lost their consciousness after drinking milk buckets and suspected to have been toxic in milk.
+
+Police allege that the suspects were given cyanide mixed with milk buckets.
+
+Police said that one of the suspects who were ill was suspected of shooting a man in Jindupitiya on January 24 and the other suspect was acting as a reporter.
+
+Samindu Darshan (27) from Cherunuwara, who was identified as the shooter, and Lakshitha Fernando (29) from Colombo - Colombo have been admitted to hospital.
+
+◼️
+
+[Data](articles/31daf46e.json)
+
+[Extended Data](ext_articles/31daf46e.ext.json)
+
+---
+
+### Sanath Nishantha’s wife wants probe into husband’s death
+
+*2024-02-07 19:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sanath-Nishanthas-wife-wants-probe-into-husbands-death/108-276532) · `en`
+
+Colombo, Feb 7 (Daiy Mirror) - Late State Minister Sanath Nishantha's wife lodged a complaint with the Criminal Investigation Department (CID), requesting a probe into her late husband's death.
+
+The complaint was lodged citing suspicions surrounding the circumstances of the death.
+
+◼️
+
+[Data](articles/82860e25.json)
+
+---
+
+### UNICEF urges focus on non-custodial rehabilitation for juvenile offenders
+
+*2024-02-07 19:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNICEF-urges-focus-on-non-custodial-rehabilitation-for-juvenile-offenders/108-276531) · `en`
+
+While welcoming the commencement of the amendments to the Children and Young Persons Ordinance, UNICEF called upon stakeholders in the justice, probation and child-care sectors to prioritize the application of non-custodial measures such as family-based rehabilitation for juvenile offenders.
+
+The long-awaited amendment to the Children and Young Persons Ordinance (CYPO) came into force effective January 1, 2024, which marks a significant step towards protecting the rights and welfare of all children in Sri Lanka, it said.
+
+The CYPO, a legislation governing justice for children in Sri Lanka since 1939, previously only covered those up to the age of 16. The amendment now extends its protection to all children under the age of 18. Furthermore, the amendment also repeals the section of the CYPO which permitted the use of corporal punishment on children and adolescents by parents, teachers, or guardians.
+
+...
+
+[Data](articles/bdfd25c1.json)
+
+---
+
+### අනුර දිසානායක සහ ගුජරාට් මහ ඇමති අතර හමුවක්
+
+*2024-02-07 19:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193097) · `si`
+
+ඉන්දියාවේ විශේෂ සංචාරයක නිරත ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා ඇතුළු පිරිස අද (07) ගුජරාට් ප්‍රාන්ත ව්‍යවස්ථාදායක සභාවේ දී ප්‍රාන්ත ප්‍රධාන අමාත්‍ය බූපෙන්ද්‍රභායි පටෙල් මහතා හමු විය.
+
+එහි දී ප්‍රාන්තය තුළ දිළිඳුකම පිටුදැකීම සහ සංවර්ධනය සඳහා අනුගමනය කර ඇති උපායමාර්ග පිළිබඳ සාකච්ඡා කර තිබේ.
+
+අනතුරුව අනුර කුමාර දිසානායක මහතා ඇතුළු පිරිස ගුජරාට් ප්‍රාන්තයේ කර්මාන්ත අමාත්‍ය බල්වාන්සිං රාජ්පුට් මහතා හමු වී ගුජරාට් ආදර්ශය සැලැස්ම පිළිබඳ සාකච්චා කර ඇති අතර, අහමදාබාද්හි කෘෂිකාර්මික ප්‍රදේශය හා කෘෂිපාදක කර්මාන්ත නිරීක්ෂණයට ද එක් වී ඇත.
+
+◼️
+
+[Data](articles/5dd36cd3.json)
+
+---
+
+### “We will no longer support the government”
 
 *2024-02-07 19:43:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனி-அரசாங்கத்திற்கு-ஆதரவளிக்க-மாட்டோம்/175-332850) · `ta`
 
-அண்மைக் காலத்தில் அரசாங்கம் தன்னிச்சையாகச் செயற்பட்டதால், ஜனாதிபதியின் கோரிக்கைகளுக்கு மத்தியிலும் ஐக்கிய மக்கள் சக்தி அரசாங்கத்திற்கு ஆதரவளிக்காது என எதிர்க்கட்சியின் பிரதம கொறடா லக்ஷ்மன் கிரியெல்ல இன்று தெரிவித்துள்ளார்.
+Opposition Prime Minister Lakshman Kiriella today said the United People's Power would not support the government in the wake of the demands of the president as the government had acted spontaneously in recent times.
 
-அரசாங்கத்துடன் கைகோர்க்குமாறு ஜனாதிபதி எதிர்க்கட்சிகளிடம் தொடர்ந்து வேண்டுகோள் விடுத்து வருகின்ற போதிலும் அரசாங்கம் எதிர்க்கட்சிகள் தொடர்பில் எவ்வித அக்கறையும் காட்டவில்லை என பாராளுமன்ற வளாகத்தில் இடம்பெற்ற செய்தியாளர் சந்திப்பில் அவர் தெரிவித்தார்.
+He said at a press conference held at the Parliamentary Complex that the government was not concerned about the opposition parties, although the president continues to appeal to the opposition parties to join hands with the government.
 
-ஐக்கிய மக்கள் சக்தியினால் ஏற்பாடு செய்யப்பட்டிருந்த அமைதியான போராட்டத்தின் மீது அரசாங்கம் தாக்குதல் நடத்தியதாகவும், பலவந்தமாக SJB ஆதரவைப் பெற முயற்சிப்பதாகவும் பாராளுமன்ற உறுப்பினர் கிரியெல்ல தெரிவித்தார்.
+Parliamentarian Kiriella said the government had attacked the peaceful struggle organized by the United People's Power and that he was forcibly trying to obtain SJB support.
 
-"நாங்கள் அரசாங்கத்திற்கு தொடர்ந்து ஆதரவளித்தோம். 21 ஆவது திருத்தம் போன்ற பல சட்டங்களை நிறைவேற்றுவதற்கு நாங்கள் ஆதரவளித்தோம். எனினும், அரசாங்கம் அண்மைக் காலத்தில் தன்னிச்சையாகச் செயற்பட்டது," என்று அவர் கூறினார்.
+“We continued to support the government. We supported the passage of many laws such as the 21st Amendment. However, the government has acted spontaneously in recent times, ”he said.
 
 ...
 
 [Data](articles/bc86b3c0.json)
 
+[Extended Data](ext_articles/bc86b3c0.ext.json)
+
 ---
 
-### சனத் நிஷாந்தவின் மரணத்தில் சந்தேகம்; மனைவி முறைப்பாடு
+### බස් රථවල දී සිදු වන ලිංගික හිංසන වැළැක්වීමට මෙහෙයුමක්
+
+*2024-02-07 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193096) · `si`
+
+බස් රථවල දී කාන්තාවන්ට හා ළමයින්ට ලිංගික හිරිහැර සිදු කරන සැකකරුවන් අත්අඩංගුවට ගැනීමේ දීපව්‍යාප්ත මෙහෙයුමක් පොලීසිය විසින් අද (07) ආරම්භ කරනු ලැබිණි.
+
+රහසිගත කැමරා සවිකරගත් සිවිල් පොලිස් නිලධාරින්ගෙන් සමන්විත කණ්ඩායම් 234ක් මේ සඳහා යොදා ගැනිණි.
+
+කාන්තාවන් සහ ළමයින් ලිංගික හිරිහැර සහ අතවරවලට ලක්වීම් විවිධ අවස්ථාවල දී වාර්තා වේ.
+
+බස් රථ, දුම්රිය ඇතුළු පොදු මගී ප්‍රවාහන සේවා ඒ අතර ප්‍රධානයි.
+
+එවැනි ඇතැම් සිදුවීම් සම්බන්ධයෙන් වැරදිකරුවන්ට දඬුවම් හිමි වුව ද බොහෝ සිදුවීම් පොලීසියට හෝ කිසිදු නීතිමය බලධාරියෙකු වෙත වාර්තා වන්නේ ද නැත.
+
+මේ හේතුවෙන් බස් රථවල දී කාන්තාවන්ට සහ ළමයින්ට සිදු වන ලිංගික හිරිහැර සම්බන්ධයෙන් විමර්ශනය කරමින් සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා විශේෂ මෙහෙයුමක් අද කොළඹින් ආරම්භ විය.
+
+මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් සහ වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් යන මහත්වරුන්ගේ උපදෙස් පරිදි මෙහෙයුම සිදු කෙරෙන්නේ ළමා හා කාන්තා අපයෝජන නිවාරණ හා විමර්ශන දිසාව භාර නියෝජ්‍ය පොලිස්පති රේණුකා ජයසුන්දර මහත්මියගේ ප්‍රධානත්වයෙනි.
+
+...
+
+[Data](articles/64c8aa45.json)
+
+---
+
+### Suspicion of Sanath Nishantha's death;Wife complaint
 
 *2024-02-07 19:34:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவின்-மரணத்தில்-சந்தேகம்-மனைவி-முறைப்பாடு/175-332849) · `ta`
 
-விபத்தில் உயிரிழந்த முன்னாள் இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் மனைவி சட்டத்தரணி சாமரி பிரியங்கவினால் குற்றப் புலனாய்வு திணைக்களத்தில் முறைப்பாடு ஒனன்று பதிவு செய்யப்பட்டுள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+According to sources, a complaint has been lodged with the Criminal Investigation Department by Attorney -at -Law Samari Priyanka, wife of former Minister of State Sanath Nishantha, who died in the accident.
 
-முன்னாள் இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் மரணத்தில் சந்தேகத்திற்கிடமான சூழ்நிலைகள் இருப்பதாகத் தெரிவித்து அவர் இந்த முறைப்பாட்டை செய்துள்ளார். R
+He has lodged a complaint with the death of former diplomatic minister Sanath Nishantha. Remble
 
 ◼️
 
 [Data](articles/40b3047c.json)
+
+[Extended Data](ext_articles/40b3047c.ext.json)
+
+---
+
+### பேருந்தில் சில்மிஷம் செய்பவர்களுக்கு விசேட அறிவித்தல்
+
+*2024-02-07 19:33:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்தில்-சில்மிஷம்-செய்பவர்களுக்கு-விசேட-அறிவித்தல்/175-332848) · `ta`
+
+பொதுப் போக்குவரத்தில் சிறுவர்கள் மற்றும் பெண்களுக்கு எதிராக துஷ்பிரயோகங்களில் ஈடுபடும் நபர்களை இலக்கு வைத்து நாடளாவிய ரீதியில் பொலிஸ் நடவடிக்கை ஒன்று ஆரம்பிக்கப்பட்டுள்ளது.
+
+தினசரி அடிப்படையில் பொலிஸ் நிலையங்களுக்கு வரும் முறைப்பாடுகளின் எண்ணிக்கையின் அதிகரிப்பை மையமாக கொண்டு பொதுப் போக்குவரத்துச் சேவைகளுக்குள் பாலியல் துஷ்பிரயோகத்தை எதிர்த்துப் போராடுவதே இந்த நடவடிக்கையின் முதன்மை நோக்கமாகும் என்று பொது பாதுகாப்பு அமைச்சகம் தெரிவித்துள்ளது.
+
+இந்த நடவடிக்கையை அமுல்படுத்துமாறு பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் பணிப்புரை விடுத்துள்ளார்.
+
+பொதுப் போக்குவரத்து அதிகமாக உள்ள காலை 08:00-10:00 மற்றும் மாலை 17:00-19:00 ஆகிய நேரங்களில் இந்நடவடிக்கைகளுக்கு முன்னுரிமை அளிக்குமாறு, பொலிஸாருக்கு ஐஜிபி அறிவுறுத்தியுள்ளார்.
+
+அதன்படி, வீதிகள், பஸ் நிலையங்கள் மற்றும் புகையிரத நிலையங்களில் விசேட கவனம் செலுத்தப்பட்டு, சிவில் உடையில் பொலிஸ் உத்தியோகத்தர்கள் பஸ்களில் பயணிப்பார்கள்.
+
+...
+
+[Data](articles/79ff8f35.json)
 
 ---
 
@@ -184,6 +304,8 @@ These amendments contribute to the alignment of Sri Lanka’s laws that address 
 
 [Data](articles/6a544657.json)
 
+[Extended Data](ext_articles/6a544657.ext.json)
+
 ---
 
 ### “Stalled Investigations, Protected Rogues” – GL
@@ -203,6 +325,8 @@ he Committee on Public Accounts, Committee on Public Finance, and Committee on P
 ...
 
 [Data](articles/b9ed2de5.json)
+
+[Extended Data](ext_articles/b9ed2de5.ext.json)
 
 ---
 
@@ -226,6 +350,22 @@ According to police sources, 294 Sri Lankan Tamils have fled the island nation s
 
 ---
 
+### සනත් නිශාන්තගේ බිරිඳගෙන් CIDයට පැමිණිල්ලක්
+
+*2024-02-07 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193095) · `si`
+
+හිටපු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ බිරිඳ වන නීතිඥ චමරි ප්‍රියංකා මහත්මිය විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් සිදු කර ඇති බව ආරංචි මාර්ග සඳහන් කරයි.
+
+හිටපු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ මරණයේ සැක සහිත තැන් ඇති බව සඳහන් කරමින් ඒ මහත්මිය මෙම පැමිණිල්ල සිදු කර ඇත.
+
+සිය පැමිණිල්ල මගින් ඒ මහත්මිය වැඩිදුරටත් ඉල්ලා ඇත්තේ එම සැක සහිත තැන් සම්බන්ධයෙන් පරීක්ෂණයක් සිදුකරන ලෙසටය.
+
+◼️
+
+[Data](articles/349c0d9b.json)
+
+---
+
 ### Economy Shows “World Record” Improvement, Says President
 
 *2024-02-07 19:00:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/economy-shows-world-record-improvement-says-president/) · `en`
@@ -237,6 +377,8 @@ COLOMBO (News 1st); Sri Lankan President Ranil Wickremesinghe painted a picture 
 ...
 
 [Data](articles/85c9a7a2.json)
+
+[Extended Data](ext_articles/85c9a7a2.ext.json)
 
 ---
 
@@ -1909,147 +2051,5 @@ Market participants said with the decline in bond yield rates, primary dealing c
 [Data](articles/0bd3b305.json)
 
 [Extended Data](ext_articles/0bd3b305.ext.json)
-
----
-
-### Former President's helicopter crashes
-
-*2024-02-07 12:25:49* · [`adalk`](https://www.ada.lk/breaking_news/චිලී-හිටපු-ජනපති-හෙලිකොප්ටර්-අනතුරකින්-ජීවිතක්ෂයට/11-407947) · `si`
-
-International media reports that former President Mahinda Rajapaksa, Chile, has died due to a helicopter accident. Sebastian Piyanara has been a leading businessman in the South American presidency, a South American presidency.
-
-When he died, he was 74. The death of the Chilean Ministry has also confirmed this death.
-
-The successful businessman, Piyanara, has been brought to a rapid economic growth in his first 2010 to 2014 and a fast decline in the presence of the presidency.
-
-However, his second president of 2018 to 2022, his second presidential tenure was filled with violent protests against the allegations of human rights violations.
-
-Piyanara is the fifth richest person in Pynara Chilean, who has been entitled to about $ 3 billion.He served as an educator of several universities for almost 20 years as an educational bank and the World Bank.
-
-...
-
-[Data](articles/e4755747.json)
-
-[Extended Data](ext_articles/e4755747.ext.json)
-
----
-
-### Daily food from outside Keheliya Rambukkala
-
-*2024-02-07 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175783) · `ta`
-
-Prison Commissioner and Media Spokesperson Gamini P. Dissanayake has said that MP Keheliya Rambukwella, who has been arrested on suspicion of drug scams and interrogated in a court order.
-
-He is currently admitted to the Prison Hospital and has not provided any special facilities.
-
-In addition, the Commissioner says that the demands for specific drugs or such drugs have not yet been received and all the results related to the relevant drugs are taken by the prison hospital doctor.
-
-He also says that only the former minister and other prisoners are provided with facilities.
-
-◼️
-
-[Data](articles/ef9cbb6f.json)
-
-[Extended Data](ext_articles/ef9cbb6f.ext.json)
-
----
-
-### Former Navy Commander Daya Sandagiri joined the United People's Power!
-
-*2024-02-07 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175775) · `ta`
-
-Former Sri Lanka Navy Commander Daya Sandagiri has joined the United People's Power.
-
-Party leader Sajith Premadasa has obtained the membership of the United People's Power and has been appointed as the party's advisor.
-
-Former Army Commander Daya Ratnayaka is also known to have recently joined the power of the people.
-
-◼️
-
-[Data](articles/6aa24d83.json)
-
-[Extended Data](ext_articles/6aa24d83.ext.json)
-
----
-
-### Father arrested by joining children
-
-*2024-02-07 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193075) · `si`
-
-The father of the children was arrested this morning this morning (07) this morning (07).
-
-The victim was 33 year old, the father of 33-year-old resident of the Dimbula Patana Police Division on the 5th night.
-
-It is reported that the wife of the suspect who has been assaulted by the two children in the ages of 9 and 5 years old, have been abroad.
-
-The two children are in the custody of the grandmother and the suspect is a person who works at a vehicle cleaner center in Colombo.
-
-Preliminary investigations have revealed that the two children had been assaulted by the suspect.
-
-The suspect was arrested while staying with the two children in his house in the Nagasena, owned police divisions.
-
-The two children who were taken into custody were taken to the Judicial Medical Officer of Dikoya, the Dimbula Patana Police OIC added that the suspect will be produced before the Hatton Secretariat.
-
-◼️
-
-[Data](articles/991b5175.json)
-
-[Extended Data](ext_articles/991b5175.ext.json)
-
----
-
-### Sri Lanka rupee trades at 312.75/313.40 to the US dollar
-
-*2024-02-07 12:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-at-312-75-313-40-to-the-us-dollar-150195/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee traded at 312.75/313.40 to the US dollar Wednesday, from 314.00/50 on Tuesday, dealers said.
-
-A bond maturing on 01.08.2026 was quoted at 11.15/25 percent.
-
-A bond maturing on 15.09.2027 was quoted at 11.80/90 down from 12.20/25 percent.
-
-A bond maturing on 15.03.2028 was quoted at 12.20/30x down from 12.50/55 percent.
-
-◼️
-
-[Data](articles/edc052a8.json)
-
-[Extended Data](ext_articles/edc052a8.ext.json)
-
----
-
-### Stock market’s daily turnover exceeds Rs. 11bn after single transaction
-
-*2024-02-07 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97077/stock-markets-daily-turnover-exceeds-rs-11bn-after-single-transaction) · `en`
-
-The daily turnover of the Colombo Stock Exchange (CSE) has crossed Rs. 11 billion this morning (Feb. 07).
-
-As per stock market figures, this was mainly due to a single transaction of 61.9 million shares in John Keells Holdings PLC.
-
-◼️
-
-[Data](articles/0656204a.json)
-
-[Extended Data](ext_articles/0656204a.ext.json)
-
----
-
-### Keheliya is named after violation of circulars
-
-*2024-02-07 12:12:15* · [`adalk`](https://www.ada.lk/breaking_news/චක්‍රලේඛ-උල්ලංඝනය-කරමින්-කෙහෙළිය-නමින්-පාසලක්-නම්-කරගෙන/11-407946) · `si`
-
-Minister Keheliya Rambukkalla has named a school in the area of the Ministry of Education and the Minister Keheliya Rambukla has been named in the area of Naywela Rambukwella and the name should be removed immediately.
-
-Ceylon Teachers Union Secretary Joseph Stalin pointed out that according to the Circular issued by the Ministry of Education in 1996, a school cannot be named.
-
-However, former Minister Keheliya Rambukwella has been a misconception to society, and the primary school in Primary School in Badulla has been shipped.
-
-Therefore, he has been prompted by the government that he should take immediate action against school names in the name of a living person.
-
-◼️
-
-[Data](articles/f6bba1b2.json)
-
-[Extended Data](ext_articles/f6bba1b2.ext.json)
 
 ---

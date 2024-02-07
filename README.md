@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 11:02:16**
+As of **2024-02-07 11:17:18**
 
 ## Newspaper Stats
 
-*Scraped **5,377** Articles*
+*Scraped **5,380** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 62
-bbccomsinhala | 76
+bbccomsinhala | 77
 dbsjeyarajcom | 140
 economynextcom | 281
 islandlk | 288
 dailyftlk | 305
-newsfirstlk | 331
+newsfirstlk | 333
 adalk | 454
 virakesarilk | 646
 adaderanalk | 667
@@ -26,7 +26,7 @@ dailymirrorlk | 766
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,377 (100.0%) of 5,377 articles have been extended.
+5,377 (99.9%) of 5,380 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,26 @@ The objective of the exhibition is to “support apparel exporters in establishi
 [Data](articles/efd9329d.json)
 
 [Extended Data](ext_articles/efd9329d.ext.json)
+
+---
+
+### CPA Denounces “Draconian” Online Safety Act, Calls for Repeal
+
+*2024-02-07 10:28:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/cpa-denounces-draconian-online-safety-act-calls-for-repeal/) · `en`
+
+COLOMBO (News 1st); The Centre for Policy Alternatives (CPA) has expressed strong concerns regarding the recently enacted Online Safety Act (OSA) in Sri Lanka.
+
+The CPA criticizes the "secrecy" surrounding the drafting process and the "rushed manner" of passage, raising questions about the government's intentions and potential disregard for constitutional principles.
+
+They question the government's motives for pushing through a law with significant implications for freedom of expression and the rule of law.
+
+The statement underlines the government's failure to fully comply with the Supreme Court's amendments concerning the Bill.
+
+CPA says that concerns arise about the constitutionality of the OSA due to this selective implementation of the Court's decisions, and that this sets a dangerous precedent for the separation of powers and weakens the rule of law.
+
+...
+
+[Data](articles/d67e6cc9.json)
 
 ---
 
@@ -171,6 +191,26 @@ Former Sri Lanka Navy Commander Daya Sandagiri obtained membership of the Samagi
 [Data](articles/bda2fe01.json)
 
 [Extended Data](ext_articles/bda2fe01.ext.json)
+
+---
+
+### Remanded MP Rambukwella Snubs Parliament
+
+*2024-02-07 10:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/remanded-mp-rambukwella-snubs-parliament/) · `en`
+
+COLOMBO (News 1st); Keheliya Rambukwella, a Sri Lankan Member of Parliament currently under remand custody, has refused to attend the opening of the Fifth Session of the Ninth Parliament, scheduled for Wednesday, February 7th.
+
+This comes after Speaker Mahinda Yapa Abeywardana granted permission for Rambukwella to participate in the session, considering a request he submitted.
+
+However, according to Prison Spokesperson Gamini B. Dissanayake, Rambukwella has decided not to attend the opening session and Parliament has been duly notified of his decision.
+
+Serjeant-at-Arms of the Parliament, Kushan Jayaratne, confirmed that the Commissioner General of Prisons was informed in writing about the Speaker's initial permission and Rambukwella's subsequent refusal.
+
+Rambukwella is currently held in remand on charges related to his previous ministerial position.
+
+...
+
+[Data](articles/3788f983.json)
 
 ---
 
@@ -333,8 +373,6 @@ Talk of The Town | What's next for SLFP? | Thilanga Sumathipala | 07 February 20
 Talk of The Town | What’s next for SLFP? | Thilanga Sumathipala | 07 February 2024
 
 President to Open New Parliament Session & Deliver Policy Statement in Scaled-Back Ceremony
-
-Federal Appeals Court rules Trump does not have presidential immunity
 
 ◼️
 
@@ -558,8 +596,6 @@ Talk of The Town | What’s next for SLFP? | Thilanga Sumathipala | 07 February 
 
 President to Open New Parliament Session & Deliver Policy Statement in Scaled-Back Ceremony
 
-Federal Appeals Court rules Trump does not have presidential immunity
-
 ◼️
 
 [Data](articles/ffb7dbb7.json)
@@ -621,8 +657,6 @@ The delegation from the Jathika Jana Balawegaya (JJB), led by party leader Anura
 Talk of The Town | What’s next for SLFP? | Thilanga Sumathipala | 07 February 2024
 
 President to Open New Parliament Session & Deliver Policy Statement in Scaled-Back Ceremony
-
-Federal Appeals Court rules Trump does not have presidential immunity
 
 ◼️
 
@@ -945,6 +979,28 @@ But it appears that the conditions have begun to improve, according to the perfo
 [Data](articles/ba0834fd.json)
 
 [Extended Data](ext_articles/ba0834fd.ext.json)
+
+---
+
+### ජනාධිපතිවරණය ඇතුළු එළඹෙන මැතිවරණ පැවැත්වෙන්නේ කවදා ද?
+
+*2024-02-07 05:00:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c04rp3dy7y4o) · `si`
+
+2019 වසරේ නොවැම්බර් මාසයේ පැවති ජනාධිපතිවරණය සහ 2020 වසරේ පැවති මහ මැතිවරණයෙන් පසුව රට තුළ ඇතිවූ දරුණු ආර්ථික අර්බුදය හමුවේ ජනතාව පසුවන්නේ එදිනෙදා තම ජීවිකාව ගැට ගහ ගැනීමේ සටනක ය.
+
+පවතින ආර්ථික හා සමාජයීය තත්ත්වය හේතුවෙන් මෙරට බොහෝ දෙනෙකුට මැතිවරණ සම්බන්ධයෙන් පවතින්නේ කලකිරීම් සහගත ස්වභාවයක් වුවත්  දේශපාලන වේදිකාවේ මැතිවරණ උණුසුම නම් දිනෙන් දිනම ත්‍රිව වෙමින් තිබේ.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව 2024 වර්ෂය තුළ අනිවාර්යෙන්ම රටේ ජනාධිපතිවරණය පැවැත්විය යුතුය.
+
+ඉදිරි ජනාධිපතිවරණය සම්බන්ධයෙන් රජයේ කැබිනට් අමාත්‍යවරයෙක් වන හරින් ප්‍රනාන්දු පසුගිය පෙබරවාරි මස 05 වෙනිදා දඹුල්ලේ දී මාධ්‍ය වෙත අදහස් දක්වමින් කියා සිටියේ ලබන ඔක්තෝම්බර් 14 වෙනිදා වන විට රටේ නව ජනාධිපතිවරයෙකු පත්ව සිටිනු ඇති බවයි.
+
+"මම විශ්වාස කරන්නේ මේ ජනාධිපතිවරණය ඔක්තෝම්බර් මාසයේ පලවෙනි සතියේ තියයි. "
+
+"කොහොමත් ඔක්තෝම්බර් 14 වෙනිදා වෙද්දී මේ රටේ අලුත් ජනාධිපති කෙනෙක් පත්වෙන්න ඕන."
+
+...
+
+[Data](articles/6c6729b1.json)
 
 ---
 
@@ -1937,59 +1993,5 @@ But when the ruler of the country is stealing, the rulers of the present governm
 [Data](articles/87d1c7fa.json)
 
 [Extended Data](ext_articles/87d1c7fa.ext.json)
-
----
-
-### 10th Group of Sri Lanka Army Medical Force travels to South Sudan
-
-*2024-02-06 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/175737) · `ta`
-
-The 10th Group of the Sri Lanka Army Medical Brigade departed from Sri Lanka on Tuesday morning (06 February) to take responsibility for duties at the United Nations Grade 2 Hospital in South Sudan.
-
-Commanding Officer Lieutenan Colonel TMTJ. Dissanayake RSP. U.S.B.. And 2nd Commander -in -Chief Major NI. Ratnayake is headed by 14 soldiers, including 14 soldiers, a naval officer and 49 soldiers.
-
-Major General PAC Fernando, Director General of the Sri Lanka Army Health Services Directorate and Commander of the Sri Lanka Army Medical Force, representing the Army Commander. And Foreign Affairs Director Brigadier GLSP Liyanage Liyanage Liyanage, Director of Medical Services, Brigadier Gejighe He Wijewardena Attended.
-
-◼️
-
-[Data](articles/be157d51.json)
-
-[Extended Data](ext_articles/be157d51.ext.json)
-
----
-
-### Speaker's Office to clarify public
-
-*2024-02-06 22:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175729) · `ta`
-
-The report is published in the interest of the public in order to revise and clarify the fact that the Ceremony Building Bill of 2024 was passed and subsequently passed by the Act.. The legislative process is explained from the beginning to learn the public and prevent them from being cheated.
-
-When a bill is presented in Parliament, Article 121 of the Constitution has the opportunity to challenge the Supreme Court in accordance with Article 121 of the Constitution.. According to the provisions of the Constitution, the Supreme Court considers them and the relevant verdict is submitted to the Speaker within three weeks. Subsequently, the Speaker must declare the relevant decision on the first day of the next parliamentary session and ordered that a complete verdict be issued in the Hansat Power Report for the day.
-
-...
-
-[Data](articles/faa17563.json)
-
-[Extended Data](ext_articles/faa17563.ext.json)
-
----
-
-### The allegation that has been passed by the Ceremony Building Bill in violation of the High Court ruling is baseless!- Speaker's Office
-
-*2024-02-06 22:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175745) · `ta`
-
-According to the Supreme Court's decision. Since the legislative process of Parliament is jointly accompanied by the Attorney General's Department and the Department of Law, there is no chance of acting in contrast to the High Court's decision on the Bill or in violation of the Constitution.
-
-The Speaker's Office's dissatisfaction is that it is worrying that even those who are familiar with the legal system and the constitution are negatively speaking to the existence of the Supreme Court.
-
-Any Member of Parliament is invited to discuss all the documents and actions regarding the implementation of the Ceremony Act and consult intellectual authorities on the issue.
-
-It is not a beneficial tactic to dismantle the legislation or undermine its credibility. The Speaker's Office wants to remind all members that the overall assessment in the democratic system is based on the collective functioning of all parts, including legalization.
-
-...
-
-[Data](articles/4354865f.json)
-
-[Extended Data](ext_articles/4354865f.ext.json)
 
 ---

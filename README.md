@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 23:02:23**
+As of **2024-02-07 23:17:25**
 
 ## Newspaper Stats
 
-*Scraped **5,545** Articles*
+*Scraped **5,547** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 290
 dailyftlk | 305
 newsfirstlk | 342
 adalk | 472
-virakesarilk | 673
+virakesarilk | 675
 adaderanalk | 688
 tamilmirrorlk | 691
 adaderanasinhalalk | 725
@@ -26,11 +26,49 @@ dailymirrorlk | 789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,545 (100.0%) of 5,545 articles have been extended.
+5,545 (100.0%) of 5,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### ஜனாதிபதியின் கீழ் சுற்றாடல் அமைச்சு : விசேட வர்த்தமானி வெளியீடு
+
+*2024-02-07 22:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175842) · `ta`
+
+சுற்றாடல் அமைச்சை ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பொறுப்பின் கீழ் கொண்டுவந்து விசேட வர்த்தமானி வெளியிடப்பட்டுள்ளது.
+
+தரமற்ற இம்யூனோகுளோபுலின் தடுப்பூசிகளை இறக்குமதி செய்த குற்றச்சாட்டில் முன்னாள் சுற்றாடல் அமைச்சராகச் செயற்பட்ட கெஹலிய ரம்புக்வெல்ல கைது செய்யப்பட்ட நிலையில் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+ஜனாதிபதியின் செயலாளர் எம்.எஸ்.பி ஏக்கநாயக்கவின் கையொப்பத்துடன் இந்த அதிவிசேட வர்த்தமானி அறிவித்தல் வெளியாகியுள்ளது.
+
+பிரதமர் தினேஸ் குணவர்தனவுடன் கலந்துரையாடப்பட்டதன் பின்னர், இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக அந்த வர்த்தமானியில் குறிப்பிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/d23618a9.json)
+
+---
+
+### பொது மக்கள் பாதுகாப்பு அமைச்சின் கீழ் நிகழ்நிலை காப்புச் சட்டம்
+
+*2024-02-07 22:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175841) · `ta`
+
+சர்ச்சைக்குரிய நிகழ்நிலை காப்பு சட்டம் வர்த்தமானி அறிவிப்பின்படி, பொது மக்கள் பாதுகாப்பு அமைச்சகத்தின் கீழ் கொண்டுவரப்பட்டுள்ளது.
+
+ஜனாதிபதி செயலகத்தினால் வெளியிடப்பட்ட விசேட வர்த்தமானியின் பிரகாரம் இன்று பெப்ரவரி 07 ஆம் திகதி முதல் அமுலுக்கு வரும் வகையில், நிகழ்நிலை காப்பு சட்டம் பொது மக்கள் பாதுகாப்பு அமைச்சின் கீழ் கொண்டுவரப்பட்டுள்ளது.
+
+பேச்சு, ஊடக சுதந்திரத்தை முடக்கும் என்ற எதிர்க்கட்சிகளின் மற்றும் சமூக ஆர்வலர்களின் ஆட்சேபனைகளுக்கு மத்தியிலும் கடந்த ஜனவரி மாதம் 24  ஆம் திகதி பாராளுமன்றத்தில் நிகழ்நிலை காப்பு சட்டம் நிறைவேற்றப்பட்டது.
+
+சமூக ஆர்வலர்கள் மற்றும் பல அமைப்புகள் மட்டுமல்லாது சர்வதேச இராஜதந்திரிகளின் கவனத்தையும் ஈர்த்த இந்த நிகழ்நிலை காப்பு சட்டம் பல சிக்கலான விடயங்களை கொண்டுள்ளதாக பலரும் கூறியிருந்ததுடன் நிகழ்நிலை காப்பு சட்டத்திற்கு எதிராக நீதிமன்ற வழக்குகளும் தாக்கல் செய்யப்பட்டுள்ளன.
+
+நிகழ்நிலை காப்பு சட்டம் நாட்டின் பாதுகாப்பிற்காக நம்பகத்தன்மையற்ற செய்திகளையும், அறிக்கைகளையும் தடைசெய்யும் நோக்கோடு கொண்டு வரப்பட்டதாகக் அரசாங்கம் கூறியிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/f255014f.json)
+
+---
 
 ### Anura and delegation attend a presentation of ’Gujarat Model’in India
 
@@ -2037,39 +2075,5 @@ ECONOMYNEXT – Economic activity that is now concentrated in the island’s Wes
 [Data](articles/cead5d26.json)
 
 [Extended Data](ext_articles/cead5d26.ext.json)
-
----
-
-### President hints at VAT revision, promises to alleviate tax burden and increase benefits
-
-*2024-02-07 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97078/president-hints-at-vat-revision-promises-to-alleviate-tax-burden-and-increase-benefits) · `en`
-
-President Ranil Wickremesinghe, delivering the government’s policy statement in Parliament on Wednesday (Feb.07), revealed that the government aims to alleviate the tax burden on the people as the economy continues to stabilize with the implementation of economic reforms.
-
-He said this will provide room for a potential revision of the Value-Added Tax (VAT) percentage, which was increased from 15% to 18% with effect from the outset of 2024. Acknowledging that the VAT hike poses a burden for many people, the President said the government is systematically addressing this issue.
-
-The Head of State presented the government’s policy statement to the House after ceremonially declaring open the Fifth Session of the Ninth Parliament on Wednesday morning.
-
-...
-
-[Data](articles/e7357e6b.json)
-
-[Extended Data](ext_articles/e7357e6b.ext.json)
-
----
-
-### Former Navy Chief Daya Sandagiri joins SJB
-
-*2024-02-07 13:26:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/former-navy-chief-daya-sandagiri-joins-sjb/) · `en`
-
-COLOMBO (News 1st);  Daya Sandagiri, the 14th Naval Commander of Sri Lanka, has joined the opposition Samagi Jana Balawegaya and pledged support for leader Sajith Premadasa.
-
-Premadasa, recognizing Sandagiri's maritime expertise, appointed him as a consultant on maritime and naval policies.
-
-◼️
-
-[Data](articles/2a61bf4f.json)
-
-[Extended Data](ext_articles/2a61bf4f.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 00:47:36**
+As of **2024-02-08 01:02:27**
 
 ## Newspaper Stats
 
@@ -26,25 +26,29 @@ dailymirrorlk | 792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,547 (99.7%) of 5,563 articles have been extended.
+5,563 (100.0%) of 5,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### தமிழர்களின் பிரச்சினையை விடவும், சீனாவுடனான போட்டிக்கே மேற்குலம் முன்னுரிமை அளிக்கிறது - கஜேந்திரகுமார் பொன்னம்பலம் ஆதங்கம்
+### West is prioritizing the competition with China than the problem of Tamils -Gajendrakumar Ponnambalam
 
 *2024-02-08 00:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175846) · `ta`
 
-தமிழர்களின் பிரச்சினைகளுக்குத் தீர்வினை அளிப்பதற்கான நடவடிக்கைகளை எடுப்பதற்குப் பதிலாக சீனாவுடனான போட்டியினால் அதனைக் கையாள்வதற்கு அமெரிக்கா உள்ளிட்ட மேற்குலக நாடுகள் முக்கியத்துவம் அளிக்கின்றன என்று அமெரிக்க காங்கிரஸ் உறுப்பினர்களிடத்தில் தமிழ்த் தேசிய மக்கள் முன்னணியின் தலைவரும், யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலம் தெரிவித்துள்ளார்.
+Gajendrakumar Ponnambalam, leader of the Tamil National People's Front and Jaffna MP, said that the Western countries, including the United States, are emphasizing the importance of dealing with China because of the competition with China instead of taking steps to address the problems of Tamils.
 
-அமெரிக்காவுக்கு விஜயம் செய்துள்ள கஜேந்திரகுமார் பொன்னம்பலம், அமெரிக்க காங்கிரஸ் உறுப்பினர்களான வில்லி நிக்கில், டிபோத் ரொஸ், ஜம்மி ரஸ்கின், டெனி கே.டேவிஸ் ஆகியோருடன் சந்திப்புக்களை நடத்துள்ளார்.
+Gajendrakumar Ponnambalam, who has visited the United States, has a meeting with US Congress members Willy Nickle, Deboth Ross, Jammy Ruskine and Deni K. Devis.
 
-இலங்கையின் நல்லிணக்கத்தையும் பொறுப்புக்கூறலையும் வலியுறுத்தும் தீர்மானம் 427 காங்கிரஸ் சபையில் நிறைவேற்றப்பட்டது. அந்த வகையில் தமிழர்கள் மீது கரிசனைகளைக் கொண்டுள்ள அவர்களுடனான சந்திப்பில் தமிழர்களின் தற்போதைய நிலைமைகள் தொடர்பில் எடுத்துரைத்தோம்.
+A resolution to emphasize Sri Lanka's reconciliation and accountability was passed in 427 Congress House. In a meeting with them, we explained the current conditions of the Tamils in a meeting with the Tamils.
+
+During the Rajapaksas, strictly planned measures were taken against the Tamil people and the Tamil nation.. At this juncture, President Ranil Wickremesinghe's regime is being carried out.
 
 ...
 
 [Data](articles/538f07f8.json)
+
+[Extended Data](ext_articles/538f07f8.ext.json)
 
 ---
 
@@ -64,6 +68,8 @@ The five U.S. Marines were assigned to Marine Heavy Helicopter Squadron 361, Mar
 
 [Data](articles/52f7ced0.json)
 
+[Extended Data](ext_articles/52f7ced0.ext.json)
+
 ---
 
 ### New Delhi Focuses On Exploring Unknown NPP
@@ -80,6 +86,8 @@ There was a time when people in this island nation feared the Janatha Vimukthi P
 
 [Data](articles/3edb6451.json)
 
+[Extended Data](ext_articles/3edb6451.ext.json)
+
 ---
 
 ### Racism Degrades both the Perpetrator and the Victim
@@ -89,6 +97,8 @@ There was a time when people in this island nation feared the Janatha Vimukthi P
 ...
 
 [Data](articles/4756757e.json)
+
+[Extended Data](ext_articles/4756757e.ext.json)
 
 ---
 
@@ -114,23 +124,31 @@ Some 18 months ago you were without electricity, gas and fuel. I think people sh
 
 [Data](articles/63023171.json)
 
+[Extended Data](ext_articles/63023171.ext.json)
+
 ---
 
 ### 2024-02-07 (Wednesday)
 
-### பொதுஜன ஐக்கிய முன்னணியுடன் ஒன்றிணையுங்கள் : மைத்திரி அரசியல் கட்சிகளுக்கு அழைப்பு
+### Unite with PA: Calling Maithri political parties
 
 *2024-02-07 23:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/175845) · `ta`
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைமையிலான  பொதுஜன  ஐக்கிய முன்னணியுடன் சகல தரப்பினரும் ஒன்றிணைய வேண்டும் என அழைப்பு விடுக்கிறேன்.நாட்டை கட்டியெழுப்பும் திட்டங்கள் எம்மிடம் உள்ளன  என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்தார்.
+Former President Maithripala Sirisena said that we have plans to build the country with all parties.
 
-பாராளுமன்றத்தில் புதன்கிழமை (7) இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரையின் பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking to the media after a speech of the President's Policy Declaration held in Parliament on Wednesday (7).
 
-பொருளாதார நெருக்கடிக்குத் தீர்வு காண்பதற்கு அனைவரும் ஒன்றிணைந்து செயற்பட வேண்டும் என்பதை 2022 ஆம் ஆண்டு முதல் வலியுறுத்துகிறோம்.சர்வ கட்சி அரசாங்கத்தை அமைப்பதற்கு முன்னாள் ஜனாதிபதி கோட்டபய ராஜபக்ஷவும், தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்கவும் உண்மைத் தன்மையுடன் நடவடிக்கைகளை முன்னெடுத்தார்கள்.எதிர்க்கட்சிகளின் ஒத்துழைப்பு இல்லாத காரணத்தால் அந்த முயற்சிகள் தோல்வியடைந்தன.
+Since 2022, we have urged everyone to work together to solve the economic crisis. Former President Gotabhaya Rajapakse and the current President Ranil Wickremesinghe have taken action to form a Supreme Party government. The efforts have failed due to lack of cooperation.
 
-...
+The country's economic status has stabilized. But the social structure is the worst affected. Social structure cannot be achieved by crisis. We are sure that everyone should work together to build the country.
+
+I invite everyone to unite with the Sri Lanka PA. We have plans to build the country.
+
+◼️
 
 [Data](articles/c35d7990.json)
+
+[Extended Data](ext_articles/c35d7990.ext.json)
 
 ---
 
@@ -150,51 +168,61 @@ Energy reforms, agriculture and water, infrastructure improvement, industry and 
 
 [Data](articles/2133a95f.json)
 
+[Extended Data](ext_articles/2133a95f.ext.json)
+
 ---
 
-### அழிவடைந்த நாடு தற்போது உயிர் பெற்றுள்ளது : முன்னேற்றத்தைச் சீர்குலைக்க கூடாது - ராஜித சேனாரத்ன
+### Destroyed Country is currently alive: progress should not be disrupted - Rajitha Senaratne
 
 *2024-02-07 23:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/175844) · `ta`
 
-அழிவடைந்த நாடு தற்போது உயிர் பெற்றுள்ளது என்பதை அனைவரும் ஏற்றுக்கொள்ள  வேண்டும்.  சந்திரிக்காவின் ' வெள்ளை  அலரி' அமைதி மாநாட்டுக்கு சென்றவர்கள், மஹிந்தவின் இனவாத செயற்பாட்டுக்கும் சென்றார்கள். அவர்களுக்கு எதிராக எவ்வித நடவடிக்கைகளும் எடுக்கப்படவில்லை. எனக்கு எதிராக  ஏன் ஒழுக்காற்று நடவடிக்கைகள் எடுக்க வேண்டும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ராஜித சேனாரத்ன தெரிவித்தார்.
+Everyone must accept that the destructive country is now alive.Chandrika's 'White Alarm' Peace Conference went to Mahinda's communal activities. No action has been taken against them. United People's Power MP Rajitha Senaratne said why disciplinary action should be taken against me.
 
-பாராளுமன்றத்தில் புதன்கிழமை (7) இடம்பெற்ற ஜனாதிபதி கொள்கை பிரகடன உரையை ஐக்கிய மக்கள் சக்தியின் உறுப்பினர்கள் புறக்கணித்து ,ஜனாதிபதி  சபைக்கு வந்தவுடன் எதிர்ப்பு தெரிவிக்கும் வகையில் சபையிலிருந்து வெளியேறினார்கள். ஆனால் ஐக்கிய மக்கள் சக்தியின் உறுப்பினர்களான குமார வெல்கம, ராஜித சேனாரத்ன ஆகியோர் சபையிலிருந்து வெளியேறவில்லை.
+UNP members boycotted the President's Policy Declaration on Wednesday (7) in Parliament, leaving the council to protest when they came to the Presidential Council.. But members of the United People's Power, Kumara Welgama and Rajitha Senaratne, did not leave the congregation.
 
-ஜனாதிபதியின் கொள்கை பிரகடன உரை நிறைவடைந்ததன் பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+He made the above statement to the media after the President's Policy Declaration was completed.
+
+I have never ignored the president's policy declaration speech. I adhere to it as political culture. Everyone must accept that the destruction country is now alive. I do not want to disrupt the current progress.
 
 ...
 
 [Data](articles/5cc20a73.json)
 
+[Extended Data](ext_articles/5cc20a73.ext.json)
+
 ---
 
-### அதிவிசேட வர்த்தமானி வெளியீடு
+### Highseat gazette launch
 
 *2024-02-07 23:35:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவிசேட-வர்த்தமானி-வெளியீடு/175-332865) · `ta`
 
-இலங்கை ஜனநாயக சோசலிசக் குடியரசின் அரசியலமைப்பின் 44(3) உறுப்புரையின் கீழ் ஜனாதிபதியின் செயலாளர் ஈ.எம்.எஸ்.பி ஏகநாயக்கவின் கையொப்பத்துடன் இந்த வர்த்தமானி வெளியிடப்பட்டுள்ளது.
+The gazette has been published with the signature of the President's Secretary EMSP Ekanayake under Article 44 (3) of the Constitution of the Democratic Socialist Republic of Sri Lanka.
 
 ◼️
 
 [Data](articles/4efc35bc.json)
 
+[Extended Data](ext_articles/4efc35bc.ext.json)
+
 ---
 
-### அவலோகிதேஸ்வர போதிசத்வாவுக்கு பிணை;சிகிச்சைக்கு பரிந்துரை
+### Bail for Avalokiteswara Bodhisadwa; recommendation for treatment
 
 *2024-02-07 23:27:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவலோகிதேஸ்வர-போதிசத்வாவுக்கு-பிணை-சிகிச்சைக்கு-பரிந்துரை/175-332864) · `ta`
 
-பௌத்த மதத்தை அவமதித்த குற்றச்சாட்டின் பேரில் விளக்கமறியலில் வைக்கப்பட்டிருந்த அவலோகிதேஸ்வர போதிசத்வா மகிந்த கொடித்துவக்குவுக்கு கொழும்பு கோட்டை நீதவான் நீதிமன்றம் இன்று பிணை வழங்கியுள்ளது.
+The Colombo Fort Magistrate's Court today granted bail to Avalokiteswara Bodhisadwa Mahinda Kodivakku, who was kept in detention on charges of insulting Buddhism.
 
-சந்தேகநபர் பிணை நிபந்தனைகளை மீறக்கூடாது என கடுமையாக அறிவுறுத்தப்பட்டதோடு, பிணையில் வெளியில் இருக்கும் போது அதுபோன்ற குற்றத்தை மீண்டும் செய்ய வேண்டாம் எனவும் உத்தரவிடப்பட்டுள்ளது.
+The suspect has been severely advised not to violate the bail conditions and has been ordered not to repeat such a crime while on the bail.
 
-சந்தேக நபரை ஒரு மில்லியன் ரூபா பெறுமதியான இரண்டு சரீரப் பிணைகளில் விடுவிக்குமாறு நீதவான் திலின கமகே உத்தரவிட்டுள்ளார்.
+Magistrate Thilina Kamage has ordered the release of the suspect on two physical bail worth Rs 1 million.
 
-இதேவேளை, சந்தேகநபரின் மனநல நிலைமையை பரிசோதித்த மனநல மருத்துவர், அங்கொடையில் உள்ள தேசிய மனநல மருத்துவ நிறுவனத்தில் மேலதிக சிகிச்சைக்கு பரிந்துரைத்துள்ளார். இதன்படி, சந்தேகநபர் ஒவ்வொரு திங்கட்கிழமையும் அங்கொடவில் உள்ள தேசிய மனநல மருத்துவமனை சிகிச்சைக்கு சமூகமளிக்க வேண்டுமெனவும் உத்தரவிடப்பட்டுள்ளது.
+Meanwhile, the psychiatrist who examined the suspect's mental condition, recommended further treatment at the National Mental Health Institute in Angoda.. Accordingly, the suspect has been ordered to attend the National Mental Health Hospital in Angoda every Monday.
 
 ◼️
 
 [Data](articles/ab809173.json)
+
+[Extended Data](ext_articles/ab809173.ext.json)
 
 ---
 
@@ -1038,6 +1066,8 @@ The debt office offered 145 billion rupees of bills and sold 145 billion rupees.
 
 [Data](articles/50fc26ba.json)
 
+[Extended Data](ext_articles/50fc26ba.ext.json)
+
 ---
 
 ### Attorney General's statement on the Nuwara Eliya Post Office Building
@@ -1129,6 +1159,8 @@ A bond maturing on 01.07.2032 closed at 12.75/13.00 percent. (Colombo/Feb7/2024)
 ◼️
 
 [Data](articles/1f78eb89.json)
+
+[Extended Data](ext_articles/1f78eb89.ext.json)
 
 ---
 
@@ -1263,6 +1295,8 @@ After evaluation, the Cabinet Appointed Special Project Committee (SPC) and the 
 ...
 
 [Data](articles/1763e6dc.json)
+
+[Extended Data](ext_articles/1763e6dc.ext.json)
 
 ---
 
@@ -1483,6 +1517,8 @@ Coconut shells were sold at 85,000 rupees to 100,000 rupees a tonne.  (Colombo/
 ◼️
 
 [Data](articles/b5b657f1.json)
+
+[Extended Data](ext_articles/b5b657f1.ext.json)
 
 ---
 

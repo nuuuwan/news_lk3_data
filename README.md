@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 01:17:20**
+As of **2024-02-08 01:32:43**
 
 ## Newspaper Stats
 
-*Scraped **5,563** Articles*
+*Scraped **5,567** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ bbccomsinhala | 78
 dbsjeyarajcom | 140
 islandlk | 288
 economynextcom | 296
-dailyftlk | 305
+dailyftlk | 307
 newsfirstlk | 342
 adalk | 472
-virakesarilk | 678
+virakesarilk | 680
 adaderanalk | 690
 tamilmirrorlk | 693
 adaderanasinhalalk | 725
@@ -26,11 +26,61 @@ dailymirrorlk | 792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,563 (100.0%) of 5,563 articles have been extended.
+5,563 (99.9%) of 5,567 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### ஆசிரியர்களுக்கு நியமனம் வழங்க கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் பரிந்துரை!
+
+*2024-02-08 00:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175848) · `ta`
+
+உயர் தேசிய ஆங்கில டிப்ளோமா கற்கைநெறியை நிறைவு செய்த ஆசிரியர்களுக்கு நியமனம்  வழங்க கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் பரிந்துரை!
+
+உயர் தேசிய ஆங்கில டிப்ளோமா (HNDE) கற்கைநெறியை நிறைவு செய்துள்ள டிப்ளோமாதாரிகளுக்கு நியமனம் வழங்குவது தொடர்பாகக் கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானுக்கும் திறை சேரியின் செயலாளருக்கும் இடையில் புதன்கிழமை (07) கலந்துரையாடல்  மேற்கொள்ளப்பட்டது.
+
+கிழக்கு மாகாணத்தில் காணப்படும் ஆசிரியர் பற்றாக்குறையைக் கருத்தில் கொண்டு, HNDE டிப்ளோமா கற்கைநெறியை நிறைவு செய்துள்ளவர்களுக்கு நியமனம் வழங்குமாறு திறைசேரிக்கு செந்தில் தொண்டமான் பரிந்துரை விடுத்துள்ளார்.
+
+◼️
+
+[Data](articles/15e0ea41.json)
+
+---
+
+### நாட்டின்  முன்னேற்றத்தைச் சகித்துக்கொள்ள முடியாமையே எதிர்க்கட்சியின் வெளிநடப்புக்குக் காரணம் - நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க
+
+*2024-02-08 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175847) · `ta`
+
+நாட்டின் படிப்படியான பொருளாதார முன்னேற்றம் மற்றும் அரசியல் நிலைமைகள் சுமுக நிலைக்கு வருவதைச் சகித்துக்கொள்ள முடியாமலேயே பிரதான எதிர்க்கட்சி ஜனாதிபதியின் உரையைப் பகிஷ்கரிக்கக் காரணமாகும் என  நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க  தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (7) ஜனாதிபதி ஆற்றிய கொள்கை விளக்க உரை  தொடர்பில் கருத்து தெரிவித்த போதே இராஜாங்க அமைச்சர் இவ்வாறு தெரிவித்தார்.
+
+ஜனாதிபதியின் கொள்கை விளக்க உரையில் நாட்டின் தற்போதைய பொருளாதார நிலை மற்றும் நாட்டை முன்னோக்கிக் கொண்டு செல்லும்போது  பொருளாதாரத்திற்கு வழங்க வேண்டிய முக்கியத்துவம் தொடர்பிலுமே அதிக கவனம் செலுத்தப்பட்டிருந்தது.
+
+இத்தகைய நாட்டின் பொருளாதாரம் மீண்டும் சீர்குலைந்து விடாமல் எவ்வாறு அதனைக் கட்டியெழுப்ப முடியும் என்பது தொடர்பான ஆலோசனைகளும் அதில் அடங்கியிருந்தன.
+
+ஜனாதிபதி தொடர்ந்தும் தெரிவித்து வருவது போல நாம் சர்வதேசத்துடன் தொடர்புகளைக் காத்திரமாக மேற்கொண்டு வருகின்றோம். அது ஏற்றுக்கொள்ளப்பட்ட முறைமையின் அடிப்படையிலேயே முன்னெடுக்கப்பட்டு வருகிறது.
+
+...
+
+[Data](articles/c045a259.json)
+
+---
+
+### Interregnum: Anura’s passage to India, Sajith’s comeback, America’s hubris
+
+*2024-02-08 00:33:25* · [`dailyftlk`](https://www.ft.lk/columns/Interregnum-Anura-s-passage-to-India-Sajith-s-comeback-America-s-hubris/4-758220) · `en`
+
+“Our beautiful Motherland is indeed unfortunate. What we must do is to work to liberate it from the grasp of this oppressive ruling class. That is what citizens who really love the Motherland should do.”
+
+Anura Kumara Dissanayake has arrived. The fact that he has arrived in Delhi is the most visible sign that he has arrived as a major player recognised at the big table. The Red leader is in the Green Room. Meera Srinivasan of The Hindu has it right when she called it “a significant outreach to the island nation’s most popular politician at the moment.” (Sri Lanka’s JVP-led alliance invited for talks in Delhi for the first time - The Hindu)
+
+...
+
+[Data](articles/c084d0d0.json)
+
+---
 
 ### West is prioritizing the competition with China than the problem of Tamils -Gajendrakumar Ponnambalam
 
@@ -223,6 +273,16 @@ Meanwhile, the psychiatrist who examined the suspect's mental condition, recomme
 [Data](articles/ab809173.json)
 
 [Extended Data](ext_articles/ab809173.ext.json)
+
+---
+
+### Harnessing value from diversity: Part I – A leadership challenge
+
+*2024-02-07 23:08:22* · [`dailyftlk`](https://www.ft.lk/columns/Harnessing-value-from-diversity-Part-I-A-leadership-challenge/4-758219) · `en`
+
+...
+
+[Data](articles/0e02a4cf.json)
 
 ---
 
@@ -2003,79 +2063,5 @@ Investigations were initiated into the matter by the special investigation unit 
 [Data](articles/6716ff83.json)
 
 [Extended Data](ext_articles/6716ff83.ext.json)
-
----
-
-### Anura Meets Foreign Secretary
-
-*2024-02-07 14:58:25* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-ඉන්දීය-විදේශ-ලේකම්-හමුවෙයි/11-407952) · `si`
-
-Leader of the National Jones of Power and the National Jones of Sri Lanka to visit India on an official invitation of the Government of India.
-
-◼️
-
-[Data](articles/1aae313c.json)
-
-[Extended Data](ext_articles/1aae313c.ext.json)
-
----
-
-### Special Monetary Policy Board meeting to be held today
-
-*2024-02-07 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97082/special-monetary-policy-board-meeting-to-be-held-today-) · `en`
-
-A special Monetary Policy Board (MPB) Meeting is due to be held today (07 Feb.), the Central Bank of Sri Lanka (CBSL) stated.
-
-The CBSL assured, however, that the meeting will not lead to a decision pertaining to policy rates.
-
-The MPB is tasked with formulating the CBSL’s monetary policy, and implementing a flexible exchange rate regime in line with the flexible inflation targeting framework so as to achieve and maintain domestic price stability.
-
-The Board consists of the Governor of the CBSL, who serves as the Chairperson of the MPB, members of the Governing Board, two experts in Economics or Finance, the Deputy Governor of the Central Bank in charge of price stability and the Deputy Governor of the Central Bank in charge of financial system stability, while the Secretary to the MPB is an employee of the Central Bank, nominated by the Governor.
-
-◼️
-
-[Data](articles/f275e658.json)
-
-[Extended Data](ext_articles/f275e658.ext.json)
-
----
-
-### Nuwara Eliya Struggle in Lunch in front of the Electricity Board office
-
-*2024-02-07 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175797) · `ta`
-
-Officials and staff staged a protest in front of the Nuwara Eliya Electricity Board's office on Wednesday (07) today (07) in protest of the lack of salaries and payments.
-
-Speaking at the protest, the Electricity Board Employees Union executives stated that they strongly condemned the dismissal of 66 people demanding a solution to the problems of the Electricity Board employees.
-
-They say that the property belonging to the Electricity Board has been subjected to the salary of the employees who have sold it to foreign companies.
-
-◼️
-
-[Data](articles/5f1193a6.json)
-
-[Extended Data](ext_articles/5f1193a6.ext.json)
-
----
-
-### The President who sang the Bharathiyar song
-
-*2024-02-07 14:42:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரதியார்-பாடலை-பாடிய-ஜனாதிபதி/175-332825) · `ta`
-
-President Ranil Wickremesinghe addressed the policy declaration of the fifth session of the ninth parliament on Wednesday (07).. At the time, he cited the Buddha's claim.
-
-He also addressed the writings of American writer and speaker Ellen Keller and Bharathiar.
-
-In the 19th century, the writer and speaker of the United States, Ellen Keller, "We can only do only a few things. One can do many things. "
-
-In the 19th century, Mahakavi Bharatiyar remembers a poem about his country. Professor Sunil Aryaratne, who translated it in Sinhala
-
-Why didn't we come to us?Why not unite with the intention of our country and its future, even if we are in different races, living in different races, living in different parts, despite various issues, beliefs and support for various political parties?Why is it not united for the future of our country's younger community?He asked.
-
-◼️
-
-[Data](articles/09a8fcb3.json)
-
-[Extended Data](ext_articles/09a8fcb3.ext.json)
 
 ---

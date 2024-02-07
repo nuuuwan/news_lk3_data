@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 19:33:03**
+As of **2024-02-07 19:50:29**
 
 ## Newspaper Stats
 
-*Scraped **5,508** Articles*
+*Scraped **5,509** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 288
 economynextcom | 290
 dailyftlk | 305
 newsfirstlk | 339
-adalk | 469
+adalk | 470
 virakesarilk | 670
 adaderanalk | 684
 tamilmirrorlk | 686
@@ -26,7 +26,7 @@ dailymirrorlk | 779
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,506 (100.0%) of 5,508 articles have been extended.
+5,509 (100.0%) of 5,509 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ According to police sources, 294 Sri Lankan Tamils have fled the island nation s
 
 [Data](articles/03d0773c.json)
 
+[Extended Data](ext_articles/03d0773c.ext.json)
+
 ---
 
 ### Kudu Roshan’ released on strict bail conditions
@@ -67,6 +69,8 @@ On 28 January ill-gotten properties worth Rs.55 million allegedly owned by ‘Ku
 ◼️
 
 [Data](articles/8b2d19b5.json)
+
+[Extended Data](ext_articles/8b2d19b5.ext.json)
 
 ---
 
@@ -805,6 +809,26 @@ There have been violent incidents in both Balochistan and Khyber Pakhtunkhwa pro
 [Data](articles/69d7d811.json)
 
 [Extended Data](ext_articles/69d7d811.ext.json)
+
+---
+
+### 8 out of the 10 positionscopic machines of the National Hospital is disabled
+
+*2024-02-07 15:29:18* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-රෝහලේ-එන්ඩස්කොපි-යන්ත්‍ර-10න්-8ක්ම-අක්‍රීයයි/11-407953) · `si`
+
+The All Ceylon Nurses Association states that the disease is due to identify and treat diseases from the throat.
+
+Nursing Officer's Chairmanship has had to take up the waiting documents to be taken to take the waiting documents from the Colombo National Hospital.. B. Middlewatta said.
+
+He added that these machines are capable of identifying the injuries, cancer conditions and varieties of injury to the stomaching, cancer conditions and various nuts.
+
+The authorities have asked the authorities to remove machines from the Colombo National Hospital only to be removed and given new machines.
+
+◼️
+
+[Data](articles/84a1b734.json)
+
+[Extended Data](ext_articles/84a1b734.ext.json)
 
 ---
 
@@ -2057,25 +2081,5 @@ Earlier this month, the president of Buddhist Information Centre, Ven. Agulugall
 [Data](articles/8c40c48a.json)
 
 [Extended Data](ext_articles/8c40c48a.ext.json)
-
----
-
-### A loot gang of woman arrested
-
-*2024-02-07 11:35:57* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවක්-මෙහෙයවූ-කොල්ල-කල්ලියක්-අල්ලයි/11-407942) · `si`
-
-The Western Province says the criminal area says that the woman was arrested, including two persons who were involved in a robbery operated by a woman.
-
-The suspects were arrested in Meegoda on the 31st and the suspects were arrested and the two suspects were arrested and the suspect was arrested in the Meegoda Godagama and Brandigampola.
-
-Police seized the robbed Ranmal and the rise and two mobile phones
-
-The suspects between 24 and 43, residents of Hanwella.
-
-◼️
-
-[Data](articles/2e65a253.json)
-
-[Extended Data](ext_articles/2e65a253.ext.json)
 
 ---

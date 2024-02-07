@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 21:52:00**
+As of **2024-02-07 22:04:20**
 
 ## Newspaper Stats
 
@@ -26,61 +26,67 @@ dailymirrorlk | 783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,530 (99.9%) of 5,533 articles have been extended.
+5,533 (100.0%) of 5,533 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### කංසා අපනයන තීරණය ගැන ඩයනාගෙන් පැහැදිලි කිරීමක්
+### Diana explanations on the export decision
 
 *2024-02-07 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193100) · `si`
 
-ඖෂධයක් ලෙසට කංසා මෙරට වගා කර අපනයනය කිරීමට කැබිනට් අනුමැතියක් හිමි නොවූ බව බන්දුල ගුණවර්ධන අමාත්‍යවරයා ඊයේ (06) පැවසුව ද ඒ සඳහා කැබිනට් අනුමැතිය හිමි වූයේ පසුගිය වසරේ දී බව රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය පවසයි.
+Minister of State Diane Gamage says that the cabinet was approved by the Cabinet last year.
 
-පාර්ලිමේන්තු සැසිවාරයට අද පැමිණෙන අවස්ථාවේ මාධ්‍යවේදින් යොමු කළ ප්‍රශ්නයකට පිළිතුරු දෙමින් රාජ්‍ය අමාත්‍යවරිය මේ බව ප්‍රකාශ කළා ය.
+The State Minister made this statement in response to a question posed by journalist when he came to the Parliamentary Session.
 
-ත්‍රෛලෝක විජය පත්‍ර ලෙස ආයුර්වේදයේ දී හැඳින්වෙන කංසා ශාකය මෙරට වගා කර ඖෂධයක් ලෙසට අපනයනය කිරීමට කැබ්නට් අනුමැතිය හිමි වුණු බවට සංචාරක රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය පසුගිය 05 වැනි දා ප්‍රකාශ කර තිබිණි.
+Minister of Tourism Diyanama Gamage had stated that the cabket was approved by the cabket to be cultivated in the country as a Triadest Vijaya.
 
-කෙසේ වෙතත් කැබිනට් තීරණ දැනුම් දීමේ ප්‍රවෘත්ති සාකච්ඡාවේ දී කැබිනට් ප්‍රකාශක ආචාර්ය බන්දුල ගුණවර්ධන මහතා ඊයේ ප්‍රකාශ කළේ, කැබිනට් රැස්වීමේ දී එවැනි අනුමැතියක් නොලැබුණු බවයි.
+However, Cabinet spokesman Dr. Bandula Gunawardena stated that he was not approved by the Cabinet Decision.
 
 ◼️
 
 [Data](articles/45f70437.json)
 
+[Extended Data](ext_articles/45f70437.ext.json)
+
 ---
 
-### சீமெந்துக் கூட்டுத்தாபனத்திற்குச் சொந்தமான 5000 ஏக்கர் காணியின் மூலம் வருடாந்தம் 300 மில். டொலர்கள் வருமானம் ஈட்டலாம் - சாமர சம்பத் தசனாயக்க
+### 300 ml annually by 5000 acres of land belonging to the Cement Corporation. Dollars can earn income - Samara Sampath Dasanayaka
 
 *2024-02-07 21:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175840) · `ta`
 
-சீமெந்துக் கூட்டுத்தாபனத்திற்குச் சொந்தமான 5000 ஏக்கர் காணியில் வருடாந்தம் 300 மில்லியன் டொலர் வருமானம் ஈட்டும் திட்டம் உள்ளதாகவும், அதற்காக முதலீடு செய்யத் தயாராக உள்ள நிறுவனம் தெரிவு செய்யப்பட்டுள்ளதாகவும் ஆரம்பக் கைத்தொழில் இராஜாங்க அமைச்சர் சாமர சம்பத் தசனாயக்க தெரிவித்தார்.
+Initial Industry Minister Samara Sampath Dasanayake said that the 5000 acres of land belonging to the Cement Corporation has a annual $ 300 million income scheme and the company that is ready to invest for it has been selected.
 
-எவ்வாறான பிரச்சினைகள் ஏற்பட்டாலும், நாட்டிலுள்ள வளங்களைப் பயன்படுத்தி நாட்டைக் கட்டியெழுப்ப வேண்டும் எனவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+The Minister of State also stated that the country should be built using the resources in the country.
 
-ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (07) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் சாமர சம்பத் தசனாயக்க  இவ்வாறு தெரிவித்தார்.
+State Minister Samara Sampath Dasanayake said this at a media briefing held at the Presidential Media Center on Wednesday (07).
 
-நாடு பாரிய பொருளாதார நெருக்கடியிலிருந்த வேளையில் ஜனாதிபதி ரணில் விக்ரமசிங்க இந்த நாட்டைப் பொறுப்பேற்றார். இப்போது அந்தப் பொறுப்பை வெற்றிகரமாக நிறைவேற்றி வருகிறார். அத்துடன், என்னிடம் ஒப்படைக்கப்பட்ட அமைச்சுக்குச் சொந்தமான நிறுவனங்களும் கடும் வீழ்ச்சியைச் சந்தித்திருந்தன.
+President Ranil Wickremesinghe took over this country while the country was in a massive economic crisis. It is now successfully fulfilling that responsibility. In addition, the corporations belonging to the ministry that were handed over to me had suffered a sharp decline.
 
-அந்த நிறுவனங்களில், தேசிய இரத்தினக்கல் மற்றும் ஆபரண அதிகார சபை மாத்திரமே இலாபம் ஈட்டியது. அந்த நேரத்தில் ஆண்டுக்கு சுமார் 280 மில்லியன் டொலர் வருமானம் ஈட்டிவந்தது.
+Of those companies, only the National Gem and Jewelery Authority made a profit. At that time, about $ 280 million per year.
 
 ...
 
 [Data](articles/6471d3fd.json)
 
+[Extended Data](ext_articles/6471d3fd.ext.json)
+
 ---
 
-### අලුත් ගැසට් නිවේදන දෙකක්
+### Two new gazette notifications
 
 *2024-02-07 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193099) · `si`
 
-මාර්ගගත ක්‍රමවල සුරක්ෂිතතාවය පිළිබඳ පනත මහජන ආරක්ෂක අමාත්‍යාංශය යටතට ගෙන ඒම සඳහා ජනාධිපති ලේකම් කාර්යාලය විසින් අතිවිශේෂ ගැසට් නිවේදනයක් නිකුත් කර ඇත.
+The Presidential Secretariat has issued a special gazette notification to bring on the security of the system under the Ministry of Public Defense.
 
-මේ අතර අග්‍රාමාත්‍යවරයාගේ අදහස් විමසීමෙන් අනතුරුව පරිසර අමාත්‍ය ධුරය ජනාධිපතිවරයා භාරයේ තැබිය යුතු බවට නිශ්චය කර ඇති බව සඳහන් කරමින් ජනාධිපති ලේකම් කාර්යාලය තවත් ගැසට් නිවේදනයක් නිකුත් කර ඇත.
+Meanwhile, the Presidential Secretariat has issued another gazette notification stating that the Prime Minister's views should be taken into custody as the Minister of Environment.
 
 ◼️
 
 [Data](articles/7c71d87a.json)
+
+[Extended Data](ext_articles/7c71d87a.ext.json)
 
 ---
 

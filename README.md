@@ -1,36 +1,216 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 08:17:26**
+As of **2024-02-07 08:32:53**
 
 ## Newspaper Stats
 
-*Scraped **5,326** Articles*
+*Scraped **5,346** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 62
-bbccomsinhala | 74
+bbccomsinhala | 76
 dbsjeyarajcom | 140
-economynextcom | 278
-islandlk | 285
+economynextcom | 279
+islandlk | 288
 dailyftlk | 305
-newsfirstlk | 327
+newsfirstlk | 329
 adalk | 452
-virakesarilk | 641
+virakesarilk | 642
 adaderanalk | 659
-tamilmirrorlk | 661
-adaderanasinhalalk | 687
-dailymirrorlk | 755
+tamilmirrorlk | 667
+adaderanasinhalalk | 689
+dailymirrorlk | 758
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,326 (100.0%) of 5,326 articles have been extended.
+5,326 (99.6%) of 5,346 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### සීමා නිර්ණයට අදාළ කමිටුවේ වාර්තාව අධිකරණය හමුවට
+
+*2024-02-07 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193065) · `si`
+
+පළාත් පාලන ආයතනවල සීමා නිර්ණයට අදාළව පත්කෙරුණු කමිටුවේ වාර්තාව අධිකරණය හමුවට ඉදිරිපත් කිරීම සඳහා ශ්‍රේෂ්ඨාධිකරණය අග්‍රාමාත්‍යවරයාට අවසර ලබාදී තිබේ.
+
+පළාත් පාලන ඡන්ද විමසීම කල්දැමීමට එරෙහිව ගොනුකර තිබූ පෙත්සම් විභාගය සඳහා ඊයේ (06) කැඳවූ අවස්ථාවේදී එහි වගඋත්තරකරුවකු වශයෙන් නම්කර සිටින අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිස් මුස්තාපා මහතා කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව මෙම අවසර ලබාදීම සිදු කෙරුණි.
+
+අදාළ පෙත්සම් අගවිනිසුරු ජයන්ත ජයසූරිය, විජිත් මළල්ගොඩ, මුර්දු ප්‍රනාන්දු, ගාමිණී අමරසේකර සහ යසන්ත කෝදාගොඩ යන පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+එම අවස්ථාවේදී අදාළ පෙත්සම්වල වගඋත්තරකරුවකු වශයෙන් නම්කර සිටි අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිස් මුස්තාපා මහතා මෙම නඩුවලට අදාළව කරුණු දැක්වීම සඳහා පළාත් පාලන ආයතනවල සීමා නිර්ණය  සිදුකළ කමිටුවේ වාර්තාව සහ තවත් ලේඛන කිහිපයක් ඉදිරිපත් කිරීමට අවසර ඉල්ලා මෝසමක් ගොනුකර තිබෙන බව සඳහන් කළ බව අද දෙරණ අධිකරණ වාර්තාකරු සඳහන් කළේය.
+
+...
+
+[Data](articles/fbb50026.json)
+
+---
+
+### Fifth Session of the Ninth Parliament to commence today
+
+*2024-02-07 08:02:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/fifth-session-of-the-ninth-parliament-to-commence-today/) · `en`
+
+COLOMBO (News 1st); The Fifth Session of the Ninth Parliament will commence today in the presence of President Ranil Wickremesinghe.
+
+Deputy Speaker Ajith Rajapakse says the President is scheduled to present the government's policy statement at 10.30 am.
+
+The President last adjourned the Parliament on the 26th of January.
+
+Federal Appeals Court rules Trump does not have presidential immunity
+
+◼️
+
+[Data](articles/ffb7dbb7.json)
+
+---
+
+### JJB delegation to meet Chief Minister of Gujarat
+
+*2024-02-07 07:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/jjb-delegation-to-meet-chief-minister-of-gujarat/) · `en`
+
+COLOMBO (News 1st); A delegation from the Jathika Jana Balawegaya (JJB), led by party leader Anura Kumara Dissanayake who are on an official visit to India will meet the Chief Minister of Gujarat in Ahmedabad today.
+
+They are also scheduled to hold discussions with the Minister of Commerce and Industry of the state and other high level government officials today.
+
+The delegation from the Jathika Jana Balawegaya (JJB), led by party leader Anura Kumara Dissanayake engaged in key meetings with prominent Indian organizations focused on policy and governance yesterday.
+
+Federal Appeals Court rules Trump does not have presidential immunity
+
+◼️
+
+[Data](articles/0aff12ff.json)
+
+---
+
+### கொழும்பில் இனி நிம்மதியாக சாக முடியாது
+
+*2024-02-07 07:45:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இனி-நிம்மதியாக-சாக-முடியாது/175-332806) · `ta`
+
+கொழும்பு மாநகர சபை (CMC) ஒரு கல்லறைக்கான (இரண்டு சதுர அடி) கட்டணத்தை 180,000 ரூபாயாக உயர்த்தியதால், கொழும்பு நகரவாசிகளுக்கு மரணம் ஒரு விலையுயர்ந்த விடயமாக மாறியுள்ளது.
+
+"இரண்டடிக்கு இரண்டடி அளவில் உள்ள ஒரு சிறிய நிலத்தை மட்டுமே ஒருவர் பெற முடியும், இறந்தவரின் சாம்பலைக் கொண்டு ஒரு கலசத்தை புதைக்க மட்டுமே முடியும்." என பெயர் குறிப்பிட விரும்பாத CMC இன் முன்னாள் உறுப்பினர் ஒருவர் எமது சகோதர ஊடகமான டெய்லி மிரருக்கு தெரிவித்தார்.
+
+எவ்வாறாயினும், 2018 இல் கல்லறைக்கான கட்டணங்கள் அதிகரிக்கப்படவிருந்ததாகவும், ஆனால் சபை உறுப்பினர்கள் அந்த ஆண்டு சபையில் இந்த தீர்மானத்தை தோற்கடித்ததாகவும் அவர் கூறினார்.
+
+இதேவேளை, கொழும்பு நகர எல்லைக்குள் சுடுகாட்டுக்கான கட்டணம் கொழும்பு நகரவாசிகளுக்கு 1000 ரூபாவிலிருந்து 10,000 ரூபாயாகவும் வெளியாட்களுக்கு 20,000 ரூபாயாகவும் அதிகரிக்கப்பட்டுள்ளதாக CMC இன் முன்னாள் உறுப்பினர் அல்பிரட் சம்பத் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/86f385bb.json)
+
+---
+
+### Medical fraternity questions neglect of CID on NMRA role
+
+*2024-02-07 07:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Medical-fraternity-questions-neglect-of-CID-on-NMRA-role/108-276448) · `en`
+
+Colombo, Feb 07 (Daily Mirror) - In response to the ongoing investigations pertaining to the substandard Immunoglobulin scandal, the medical fraternity questions the sluggish move by the Criminal Investigation Department (CID) to look into the role of the National Medicines Regulatory Authority (NMRA) in the procurement process of the said drug.
+
+Speaking to Daily Mirror, GMOA Media Spokesman Dr. Chamil Wijesinghe said with respect to the import of Immunoglobulin injections, the NMRA played a critical role as it had been actively involved in the entire process of procurement.
+
+“As such, we urge the law enforcement authorities to pay key attention on the role played by the NMRA in the procurement process as it could further shed light on the Immunoglobulin scandal,” he added.
+
+...
+
+[Data](articles/805966e2.json)
+
+---
+
+### 09 වන පාර්ලිමේන්තුවේ 05 වන සභාවාරය අද ඇරඹෙයි
+
+*2024-02-07 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193064) · `si`
+
+09 වන පාර්ලිමේන්තුවේ 05 වන සභා වාරය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් අද (07) උත්සවාකාරයෙන් විවෘත කිරීමට නියමිතව තිබේ.
+
+අද පෙරවරු 10.30ට පාර්ලිමේන්තුවේ මුලසුන දරමින් ජනාධිපතිවරයා විසින් ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් පසුගිය ජනවාරි මස 26 වන දින මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි පාර්ලිමේන්තුවේ වාර අවසාන කිරීම සිදුකළේය.
+
+ඒ අනුව අද දින පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිත ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය පිළිබඳ සභාව කල් තැබීමේ විවාදය ලබන 8 සහ 09 යන දෙදින තුළ පැවැත්වීමට නියමිතය.
+
+කෙසේවෙතත් මෙවර පාර්ලිමේන්තුව විවෘත කිරීමේ උත්සවය ඉතා අඩු වියදමෙන් සරල සහ චාම් අයුරින් පැවැත්වීමට කටයුතු යොදා ඇති බව වාර්තා වෙයි.
+
+අදාළ උත්සවය සඳහා ආචාර පෙළපාලි, ආචාර වෙඩිමුර, පෙර ගමන් රථ යනාදී විශේෂාංග කිසිවක් ඇතුළත් නොවන බව ආණ්ඩු පක්ෂයේ ප්‍රධාන සංවිධායක අමාත්‍ය ප්‍රසන්න රණතුංග මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/fedd062e.json)
+
+---
+
+### தேசிய மக்கள் சக்தி குழு குஜராத் சென்றது
+
+*2024-02-07 07:28:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தி-குழு-குஜராத்-சென்றது/175-332805) · `ta`
+
+அனுரகுமார திஸாநாயக்க தலைமையிலான தேசிய மக்கள் சக்தி (NPP) குழுவினர், தமது இந்தியப் பயணத்தின் இரண்டாவது நாள் பயணத்தை முடித்துக் கொண்டு, பிரதமர் நரேந்திர மோடியின் தாயகமான குஜராத்தை நோக்கி நேற்று சென்றனர்.
+
+NPP தூதுக்குழு குஜராத் முதல்வர் புபேந்திர படேலை சந்தித்து மாநிலத்தில் சில சுற்றுப்பயணங்களை மேற்கொள்ளும் என எதிர்பார்க்கப்படுகிறது.
+
+NPP தூதுக்குழு நேற்று முன்னணி இந்திய சிந்தனைக் குழுவான Observer Research Foundation ' பிரதிநிதிகளுடன் பேச்சுவார்த்தை நடத்தியது.
+
+மேலும், NPP பிரதிநிதிகள் இந்திய தனித்துவ அடையாள ஆணையத்தை பார்வையிட்டனர். முன்னதாக, இந்தப் பயணத்தின் போது, ​​இந்திய வெளியுறவுத் துறை அமைச்சர் டொக்டர் எஸ். ஜெய்சங்கர், தேசிய பாதுகாப்பு ஆலோசகர் அஜித் தோவல், வெளியுறவுச் செயலர் வினய் மோகன் ஆகியோருடன் பேச்சுவார்த்தை நடத்தினர்.
+
+குழுவானது பின்னர் கம்யூனிஸ்ட் கட்சியால் ஆளப்படும் இந்திய மாநிலமான கேரளாவுக்குச் செல்வார்கள் என தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/e97cdeb5.json)
+
+---
+
+### Keheliya refuses to attend today’s parliament session
+
+*2024-02-07 07:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliya-refuses-to-attend-todays-parliament-session/108-276487) · `en`
+
+Colombo, Feb 7 (Daily Mirror) - Former Minister Keheliya Rambukwella, who was remanded till February 15 over the controversial human immunoglobulin procurement scandal, has been granted permission to attend today's Parliamentary session, the Prisons spokesman said.
+
+However, MP Rambukwella has informed the prison authorities that he will not attend today’s session.
+
+◼️
+
+[Data](articles/9ecdc722.json)
+
+---
+
+### இன்றைய காலநிலை நிலவரங்கள்
+
+*2024-02-07 07:20:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-காலநிலை-நிலவரங்கள்/175-332804) · `ta`
+
+நுவரெலியா மாவட்டத்தின் சில இடங்களில் அதிகாலை வேளையில் மூடு பனி காணப்படுவதுடன் மத்திய, சப்ரகமுவ, மேல் மற்றும் ஊவா மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும்  காலை வேளையில் பனிமூட்டம் காணப்படும்.
+
+கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 20 - 30 கிலோமீற்றர் வேகத்தில் வடகிழக்குத்  திசையில் இருந்து  காற்று வீசும்.
+
+மாத்தறை தொடக்கம் ஹம்பாந்தோட்டை ஊடாக பொத்துவில் வரையான அத்துடன் கொழும்பு தொடக்கம் புத்தளம், மன்னார் ஊடாக காங்கேசன்துறை வரையான கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 45 ‐ 50 கிலோமீற்றரிலும் கூடிய வேகத்தில் அடிக்கடி  காற்று அதிகரித்து வீசக்கூடும்.
+
+இவ்வாறான சந்தர்ப்பங்களில் இக் கடல் பிராந்தியங்கள் ஓரளவு கொந்தளிப்பாகக் காணப்படும் என்று தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/eaeff250.json)
+
+---
+
+### Death becomes a costly affair for Colombo dwellers
+
+*2024-02-07 07:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Death-becomes-a-costly-affair-for-Colombo-dwellers/108-276486) · `en`
+
+Colombo, Feb 7 (Daily Mirror) - Death had become a costly affair for Colombo city dwellers as the Colombo Municipal Council (CMC) has increased the charges for a grave (two square feet) to Rs 180,000.
+
+“One can obtain only a small piece of land which is two feet by two feet and it is only possible to bury an urn with ashes of a dead person.” one former member of the CMC who did not wish to be named told Daily Mirror.
+
+However he said the charges for a grave was to be increased in 2018 but the members of the council defeated this resolution in the council that year.
+
+Daily Mirror learnt that the charges have increased to be in line with the land value increase.
+
+...
+
+[Data](articles/2cf85f95.json)
+
+---
 
 ### Keheliya cannot come to Parliament
 
@@ -106,6 +286,22 @@ Some locations in the Galle, Sabaragamuwa, Western and Uva provinces are expecte
 
 ---
 
+### அனுமதி மறுக்கப்பட்ட சீன ஆராய்ச்சி கப்பல் இலங்கை கடற்பரப்பிற்குள்?
+
+*2024-02-07 06:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175760) · `ta`
+
+இலங்கையினால் விசேட பொருளாதார வலயத்திற்குள் நுழைவதற்கு அனுமதி மறுக்கப்பட்ட சீனாவின் ஆராய்ச்சிக்கப்பல் தற்போது நுழைவதற்கு அனுமதி மறுக்கப்பட்ட அந்த பகுதிக்குள் காணப்படுகின்றது என தகவல்கள் வெளியாகின்றன.
+
+சீனாவின் இயற்கை வள அமைச்சிற்கு சொந்தமான தேர்ட் இன்ஸ்டியுட் ஒவ் ஓசோனோலஜியின் ஜியாங் யாங் கொங் 3 என்ற ஆராய்ச்சி கப்பல் இலங்கையின் விசேட பொருளாதார வலயத்திற்குள் காணப்பட்டது என தகவல்கள் வெளியாகியுள்ளன.
+
+இலங்கை அரசாங்கம் அனுமதி மறுத்ததை தொடர்ந்து குறிப்பிட்ட கப்பல் மாலைதீவை நோக்கி சென்றது எனினும் தற்போது அந்த கப்பல் இலங்கை கடற்பரப்பிற்குள் - இலங்கையின் பொருளாதார வலயத்திற்குள் காணப்படுகின்றது என தகவல்கள் வெளியாகின்றன.
+
+◼️
+
+[Data](articles/ec2cb08c.json)
+
+---
+
 ### Chile’s former president dies in helicopter crash
 
 *2024-02-07 06:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97066/chiles-former-president-dies-in-helicopter-crash) · `en`
@@ -125,6 +321,22 @@ President Gabriel Boric declared three days of national mourning, while preparat
 [Data](articles/d7e59337.json)
 
 [Extended Data](ext_articles/d7e59337.ext.json)
+
+---
+
+### India’s official invitation for Sri Lanka’s Marxists seen positive amid political concerns
+
+*2024-02-07 06:00:00* · [`economynextcom`](https://economynext.com/indias-official-invitation-for-sri-lankas-marxists-seen-positive-amid-political-concerns-150139/) · `en`
+
+ECONOMYNEXT – India’s unprecedented invitation to Sri Lanka’s Marxists Janatha Vimukthi Peramuna (JVP) for an official visit is seen as positive to proceed with Delhi’s plans in the island nation without resistance but also has raised political concerns ahead of presidential polls this year.
+
+The JVP-led coalition National People’s Power (NPP) has gained more popularity in the recent past after the 2022 mass protests that forced former president Gotabaya Rajapaksa to flee the country and his brother, ex-Prime Minister Mahinda Rajapaksa, to resign amid an unprecedented economic crisis.
+
+Political analysts and diplomats say JVP has now become a formidable political force in Sri Lanka after the policies of two main parties with center-right and center-left thoughts have failed the nation in their 76 years of ruling since the 1948 independence.
+
+...
+
+[Data](articles/c096a80e.json)
 
 ---
 
@@ -230,6 +442,58 @@ The NPP delegation yesterday held talks with the representatives of the leading 
 
 ---
 
+### 6 இந்திய மீனவர்கள் விடுதலை
+
+*2024-02-07 03:20:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-இந்திய-மீனவர்கள்-விடுதலை/175-332803) · `ta`
+
+இலங்கை கடற்பரப்பில் கடந்த மாதம் 23 ஆம் திகதி கைது செய்யப்பட்ட 6 இந்திய மீனவர்கள் ஊர்காவற்றுறை நீதவான் நீதிமன்றத்தினால் நேற்று விடுதலை செய்யப்பட்டுள்ளனர்.
+
+நெடுந்தீவு கடற்பரப்பில் கடந்த 23 ஆம் திகதி 6 மீனவர்கள் கைது செய்யப்பட்டதுடன், 2 படகுகளும் கைப்பற்றப்பட்டன.
+
+5  வருடங்களுக்கு ஒத்திவைக்கப்பட்ட 18 மாத சிறைத்தண்டனை என்ற நிபந்தனையின் அடிப்படையில், ஊர்காவற்றுறை நீதவான் நீதிமன்றத்தினால் 6 மீனவர்களும் நேற்று விடுதலை செய்யப்பட்டனர்.  (a)
+
+◼️
+
+[Data](articles/47fc3877.json)
+
+---
+
+### தேசிய மக்கள் சக்திக்கு எதிராக மனு தாக்கல்
+
+*2024-02-07 03:05:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்திக்கு-எதிராக-மனு-தாக்கல்/175-332802) · `ta`
+
+தேர்தல்கள் ஆணைக்குழுவினால் தேசிய மக்கள் சக்தியை பதிவு செய்துள்ள முறைமை சட்டவிரோதமானது எனவும் இது தொடர்பில் சமர்ப்பணங்களை முன்வைப்பதற்கு சந்தர்ப்பம் அளிக்குமாறும் கோரி உயர்நீதிமன்றில் மனுவொன்று தாக்கல் செய்யப்பட்டுள்ளது.
+
+வினிவித பெரமுனவை அரசியல் கட்சியாக பதிவு செய்வதை நிராகரித்து தேர்தல்கள் ஆணைக்குழு மேற்கொண்ட தீர்மானத்துக்கு எதிராக தாக்கல் செய்யப்பட்டுள்ள நீதிப் பேராணை மனு மீதான விசாரணையின் போது அவர் இதனைக் குறிப்பிட்டுள்ளார்.
+
+இது தொடர்பில் நகர்த்தல் பத்திரம் ஒன்றை தாக்கல் செய்துள்ள  வினிவித பெரமுனவின் செயலாளர் சட்டத்தரணி நாகானந்த கொடிதுவக்கு, ஜே.வி.பியின் பிரிவொன்றான தேசிய மக்கள் சக்தியை அரசியல் கட்சியாக பதிவு செய்துள்ளமை சட்டத்திற்கு முரணானது என தெரிவித்துள்ளார்.
+
+அரசியலமைப்பின் 103 இன் இரண்டாம் இலக்க சரத்துக்கு அமைய, ஒரே கட்சியின் வெவ்வேறு பிரிவுகளை அரசியல் கட்சிகளாக பதிவு செய்கின்றமை சட்டவிரோதமானது எனவும் அவர் குறிப்பிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/8301e4f1.json)
+
+---
+
+### இன்று பாராளுமன்றத்தின் 5 ஆவது கூட்டத்தொடர்
+
+*2024-02-07 03:03:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பாராளுமன்றத்தின்-5-ஆவது-கூட்டத்தொடர்/175-332801) · `ta`
+
+ஒன்பதாவது பாராளுமன்றத்தின் ஐந்தாவது கூட்டத்தொடர் ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் இன்று  வைபவரீதியாக ஆரம்பித்து வைக்கப்படவுள்ளது.
+
+அரசியலமைப்பினால் வழங்கப்பட்டுள்ள அதிகாரத்துக்கு அமைய ஜனாதிபதி இன்று காலை 10.30 மணிக்கு பாராளுமன்றத்தில் அரசாங்கத்தின் கொள்கைப் பிரகடனத்தை முன்வைக்கவுள்ளார்.
+
+ஜனாதிபதியின் அறிவுறுத்தலுக்கமைய, அவரது வருகையின் போது, மரியாதை வேட்டுக்கள் தீர்த்தல் மற்றும் வாகனத் தொடரணி என்பன இடம்பெறமாட்டாது என பாராளுமன்ற படைக்கலச் சேவிதர் குஷான் ஜயரத்ன தெரிவித்துள்ளார்.
+
+ஜனாதிபதியினால் அரசாங்கத்தின் கொள்கைப் பிரகடன உரை நிகழ்த்தப்பட்டதன் பின்னர் சபை நடவடிக்கை நாளை முற்பகல் 9.30 வரை ஒத்திவைக்கப்படவுள்ளது. (a)
+
+◼️
+
+[Data](articles/b4cb18c7.json)
+
+---
+
 ### Model will be held this year election
 
 *2024-02-07 02:54:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-வருடம்-தேர்தல்-நடத்தப்படும்/175-332800) · `ta`
@@ -249,6 +513,26 @@ However, the Cabinet has also consulted to introduce amendments to the reorganiz
 [Data](articles/1c1c9a3b.json)
 
 [Extended Data](ext_articles/1c1c9a3b.ext.json)
+
+---
+
+### 'මගේ ජීවිතයේ හැමදේම පටන් ගත්තේ මට ඇස් පේන්නේ නැතුව ගියාට පස්සේ'
+
+*2024-02-07 02:34:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxrkpgllk5go) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.Play video, "ක්‍රීඩා : 'මගේ ජීවිතයේ හැමදේම පටන් ගත්තේ මට ඇස් පේන්නේ නැතුව ගියාට පස්සේ'", ධාවන කාලය 2,4502:45වීඩියෝ ශීර්ෂ වැකිය, ''මම අලුත් අභියෝග ජයගන්න කැමතියි. මට ඕනා මගේ ලිමිට් එක හොයන එක''
+
+'මගේ ජීවිතයේ හැමදේම පටන් ගත්තේ මට ඇස් පේන්නේ නැතුව ගියාට පස්සේ'
+
+අවුරුදු 26 දී දෙනෙත් පෙනීම සම්පුර්ණයෙන් අහිමි වුව ද කාලිඩ් ඔස්මන් ඉන් කම්පා නොවී ජයග්‍රහණ රැසක් ලබාගත් ක්‍රීඩකයෙකි.
+
+ඔහු බොක්සිං ක්‍රීඩාවෙන් ජාත්‍යන්තර ජයග්‍රහණ ලබා ඇති අතර ජාතික දෘශ්‍යාබාධිත ක්‍රිකට් කණ්ඩායමේ සාමාජිකයෙකු ද වේ. එමෙන්ම ඔහු පිහිනීම, පාපැදි සහ මැරතන් තරග සදහා සහභාගී වේ.
+
+''මගේ ජීවිතයේ හැමදේම පටන් ගත්තේ මට ඇස් පේන්නේ නැතුව ගියාට පස්සේ. මට පේන කාලේ මම මුහුදේ පීනලා නෑ. බොක්සිං හෝ ක්‍රිකට් මට පෙන කාලේ කරලා නෑ. මම මේ සැරේ සිව්වැනි දකුණු ආසියානු තරගයෙන් බොක්සිං ක්‍රීඩාවෙන් රන් පදක්කමක් ගත්තා. මම අලුත් අභියෝග ජයගන්න කැමතියි. මට ඕනා මගේ ලිමිට් එක හොයන එක'' යනුවෙන් කාලිඩ් ඔස්මන් BBC සිංහල සේවයට පැවසුවේය.
+
+◼️
+
+[Data](articles/1f5dcb58.json)
 
 ---
 
@@ -800,7 +1084,7 @@ Beddagana Wetland Park has become an ecological haven for local and foreign tour
 
 Colombo, Feb 06 (Daily Mirror) -  With the advent of dry weather conditions and insufficient rainfall in hydro catchment areas, thermal power generation has risen to 57 percent, leading to a reduction in hydropower generation, the Ceylon Electricity Board Engineers' Union (CEBEU) said.
 
-CEBEU President Saumya Kumarawadu told the Daily Mirror that hydropower generation was initially at full capacity, reaching 100 percent. However, with the commencement of dry weather conditions, the generation has now decreased to 87 percent.
+The union told the Daily Mirror that the water capcity of reservoirs were initially at full, reaching 100 percent. However, with the commencement of dry weather conditions, the water capacity has now decreased to 87 percent.
 
 Accordingly, thermal power generation accounted for 56.7 percent, with 45 percent of this generated through the use of fuel, while the remaining power generation was attributed to furnace oil.
 
@@ -881,6 +1165,18 @@ If the true purpose of the Online Safety Act is protecting people, sections 12, 
 [Data](articles/3703c47c.json)
 
 [Extended Data](ext_articles/3703c47c.ext.json)
+
+---
+
+### Gestetner opens cutting-edge Customer Experience Centre
+
+*2024-02-06 22:46:00* · [`islandlk`](http://island.lk/gestetner-opens-cutting-edge-customer-experience-centre/) · `en`
+
+Gestetner of Ceylon PLC, the leader of office automation solutions providers in Sri Lanka, is pleased to announce the grand opening of its cutting-edge Customer Experience Center located at Union Place, Colombo 02, recently. This state-of-the-art facility has been precisely designed to meet the unique needs of its esteemed customers, serving as a gateway to the introduction of revolutionary products, technology, and innovation.
+
+...
+
+[Data](articles/9f9c343c.json)
 
 ---
 
@@ -1677,349 +1973,5 @@ Speaking at a press briefing held at the President Media Centre (PMC) today (06)
 [Data](articles/d5c9d24c.json)
 
 [Extended Data](ext_articles/d5c9d24c.ext.json)
-
----
-
-### Explanation for the manager who heard sexual bribery
-
-*2024-02-06 18:40:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலியல்-இலஞ்சம்-கேட்ட-முகாமையாளருக்கு-விளக்கமறியல்/175-332783) · `ta`
-
-Colombo Chief Magistrate Prasanna Alwis on Tuesday (06) has ordered a 59 -year -old man of the Human Resources Manager of the Dambulla Hotel Group, who is alleged to have been accused of bribing a young woman who works as a clerk at a hotel to increase his salary.
-
-The Commission to Investigate Bribery and Corruption has said that the suspect will be presented in the first case of bribery in the private sector, according to Article 47 (5) of the Corruption Act No. 09, 2023.
-
-According to Article 162 of the Act, which was passed in August 2023, the Assistant Director of the Commission Mrs. Sampanthapperuma said that the suspect was arrested for committing sexual harassment.
-
-The complainant said the suspect had sexually bribed the young maid to pay a 75 percent allowance and increase his salary.
-
-Accordingly, the suspect was arrested when the woman invited her to book the hotel room in Habarana.
-
-...
-
-[Data](articles/d09ac9ae.json)
-
-[Extended Data](ext_articles/d09ac9ae.ext.json)
-
----
-
-### Sri Lanka committed to mitigating and adapting to climate change: Prez
-
-*2024-02-06 18:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-committed-to-mitigating-and-adapting-to-climate-change-prez-150120/) · `en`
-
-ECONOMYNEXT – Sri Lanka is committed to supporting regional efforts in climate change mitigation and adaptation, and will enhance its meteorological organizations, its president has said.
-
-“The economic repercussions of climate change could lead to potential GDP losses of up to 2 percent in low-income countries,” Ranil Wickremesinghe told the South Asia Hydromet Forum (SAHF) IV on Tuesday (6), according to a statement by his media division.
-
-The forum aims to facilitate discussions and collaborations on hydrology and meteorology-related initiatives in South Asia. SAHF connects National Meteorological and Hydrological Service providers (NMHSs) from the region to promote data and knowledge exchange.
-
-...
-
-[Data](articles/5757f077.json)
-
-[Extended Data](ext_articles/5757f077.ext.json)
-
----
-
-### Import of vehicles cannot be made more time
-
-*2024-02-06 18:33:34* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-තව-කාලයකට-කරන්න-බැරිවේවි/11-407933) · `si`
-
-The Ministry of Finance Bandula Gunawardena said that the Ministry of Finance will be informed in Parliament regarding the easingty of foreign exchange limits.
-
-The Minister said that the company will ease the importation of import rests in the prevailing forex crisis.
-
-Speaking further the Minister said that he would not expect to import motor vehicles.
-
-◼️
-
-[Data](articles/699979f7.json)
-
-[Extended Data](ext_articles/699979f7.ext.json)
-
----
-
-### Chinese research vessel in Sri Lankan EEZ despite moratorium
-
-*2024-02-06 18:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/chinese-research-vessel-in-sri-lankan-eez-despite-moratorium/) · `en`
-
-COLOMBO (News 1st); A Chinese research ship, which was denied permission to enter the Exclusive Economic Zone of the Sea of Sri Lanka, is currently engaged in research within the said zone.
-
-At the same time, a battle submarine belonging to the Indian Navy approached Colombo on Saturday while the Chinese ship was engaged in research activity.
-
-The Chinese Research / Survery Vessel  Xiang Yang Hong 3 is officially owned by the Third Institute of Oceanology, of the Chinese Ministry of Natural Resources.
-
-Following the Sri Lankan government's decision to decline permission for marine biology research in its exclusive economic zone, the Chinese research vessel 'Xiang Yang Hong 3' has diverted to the Maldives for logistical support.
-
-The vessel is currently conducting marine geophysical surveys in the southwestern waters of Sri Lanka.
-
-...
-
-[Data](articles/59d60031.json)
-
-[Extended Data](ext_articles/59d60031.ext.json)
-
----
-
-### Health trade unions temporarily postpone strike planned for tomorrow
-
-*2024-02-06 18:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97056/health-trade-unions-temporarily-postpone-strike-planned-for-tomorrow) · `en`
-
-The health sector trade unions have decided to postpone by a week the strike planned for tomorrow (Feb. 07), following discussions held with the Secretary of the Ministry of Finance.
-
-During the discussion, a committee comprising of officials from the Ministry of Finance, Ministry of Health and professionals, has been appointed in order to deliberate on the proposal submitted by the trade unions.
-
-Furthermore, the committee will take measures to deliver a stable response with regard to the issue within the next week, the Convenor of the Health Trade Union Alliance Chanaka Dharmawickrama said.
-
-Expressing that they will closely monitor the decision of the committee, the Health Trade Union Alliance also stated that if the committee deliberately delays providing proper solutions to their issues, they will resort to the planned trade union action.
-
-◼️
-
-[Data](articles/b24485ee.json)
-
-[Extended Data](ext_articles/b24485ee.ext.json)
-
----
-
-### Liv-In Relatives Registration Mandatory
-
-*2024-02-06 18:29:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிவ்-இன்-உறவாளர்கள்-பதிவு-கட்டாயம்/175-332782) · `ta`
-
-The general civil law filed in Uttarakhand has been stated in the Uttarakhand that those who live together without marriage, known as Live-in Relationships.
-
-The federal government is planning to implement public civil law across the country. The Law Commission is carrying out tasks for this. In this case, Uttarakhand has filed a common civil law in its legislative session as the first state in independent India. Considering this, Chief Minister Pushkar Singh Tami, who was present at the legislative session this morning, came to the hands of a copy of the Indian Constitution.
-
-Subsequently, the General Civil Law Bill was filed in the legislative session. At the time, the ruling party MLAs touched the desks and expressed their support by chanting slogans as Jai Sri Ram. The bill will be discussed and later passed, the government said.
-
-...
-
-[Data](articles/1a17fcf9.json)
-
-[Extended Data](ext_articles/1a17fcf9.ext.json)
-
----
-
-### JVP finally changing anti-India rhetoric - Namal Rajapaksa
-
-*2024-02-06 18:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/JVP-finally-changing-anti-India-rhetoric-Namal-Rajapaksa/108-276438) · `en`
-
-Colombo, Feb 06 -  Amidst questions raised over NPP Leader Anura Kumara Dissanayake's visit to India for discussions, SLPP MP Namal Rajapaksa has welcomed Dissanayake's Indian visit, signaling a potential shift in the Janatha Vimukthi Peramuna's (JVP) stance on Indian investments which the JVP had for years criticized and neglected.
-
-Rajapaksa emphasized the importance of fostering unity and collective efforts in welcoming foreign investments to bolster Sri Lanka's development agenda.
-
-Rajapaksa's remarks highlighted historical contexts, drawing attention to past JVP conflicts surrounding development projects like the Sampur power plant.
-
-He further said that the Sampur Power Project was an example of the loss faced by the country as a result of the JVP’s anti-India policies.
-
-“However, the JVP has now reached a different view and has engaged in a tour to India, which is a good thing,” he said.
-
-...
-
-[Data](articles/e3ffa789.json)
-
-[Extended Data](ext_articles/e3ffa789.ext.json)
-
----
-
-### Health workers' strike action is postponed in a week
-
-*2024-02-06 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193053) · `si`
-
-The discussion with the Secretary to the Ministry of Health Ministry has ended today (06).
-
-The discussion had requested the doctors 72 health career societies, demanding the doctors.
-
-A committee has been appointed with the participation of the Ministry of Health Ministry officials and professionals to discuss the proposal made by the Health Trade Union Alliance.
-
-Accordingly, the necessary action has been taken to provide a fixed answer during the next week.
-
-After considering this situation, the Health Trade Union Alliance has decided to postpone the proposed boyfinger from tomorrow (07).
-
-The Health Trade Union Alliance says that if it is delayed and delays in this committee, steps will be taken to reduce strike actions.
-
-◼️
-
-[Data](articles/b4b0e774.json)
-
-[Extended Data](ext_articles/b4b0e774.ext.json)
-
----
-
-### Steps will be taken to fill the vacancies vaccines of the Education Administrative Service
-
-*2024-02-06 18:19:26* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-පරිපාලන-සේවයේ-පුරප්පාඩු-පිරවීමට-කඩිනම්-පියවර-ගන්නවා/11-407932) · `si`
-
-Minister of Education Susil Premajayantha says that steps will be taken to fill many vacancies in the field of education.
-
-Accordingly, the Minister said that the Minister of Education, Principals, Principals, Teacher Educators, Teacher Educators and Teacher Instructor and new appointments are being made to settle the shortage of the officer through transfers of excess officers.
-
-The Minister was speaking at a program held at the Vavuniya, Mullaitivu and Mannar Districts in the Northern Province at the Vavuniya Cultural Center at the Vavuniya Cultural Center.
-
-He further stated that the immediate action required to recruit 460 educational training in the ministry before the Minister said. He said that 4,672 new appointments have been provided since 2019, 4,400 of them have been handed over.
-
-...
-
-[Data](articles/5b9fdd69.json)
-
-[Extended Data](ext_articles/5b9fdd69.ext.json)
-
----
-
-### Speaker’s Office issues clarification on Online Safety Bill
-
-*2024-02-06 18:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97055/speakers-office-issues-clarification-on-online-safety-bill) · `en`
-
-The Sri Lankan Speaker’s Office has deemed recent reports surrounding the much-disputed Online Safety Bill as ‘ill-informed and baseless’, while rejecting claims that the Bill was passed in violation of the Supreme Court’s determination.
-
-Issuing a clarification to the public in response to allegations regarding the passing of the Bill, the Speaker’s Office highlighted that due to the legislative process of the Parliament involving both, the Attorney General’s Department and the Legal Draftsman’s Department, it is unlikely that a Bill would be passed in violation of the determination of the Supreme Court.
-
-“There is no opportunity to act in a manner that is not in accordance with a Supreme Court determination regarding a Bill or in violation of the Constitution”, the statement read in this regard.
-
-...
-
-[Data](articles/ea50381a.json)
-
-[Extended Data](ext_articles/ea50381a.ext.json)
-
----
-
-### 1 person killed and 2 assailants shot dead during an attack on a Turkish courthouse
-
-*2024-02-06 18:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/97054/1-person-killed-and-2-assailants-shot-dead-during-an-attack-on-a-turkish-courthouse) · `en`
-
-One person died and two assailants were shot dead in an attack on a courthouse in Istanbul on Tuesday, Turkish officials said.
-
-The alleged attackers, a man and woman, were killed during an “attempt to attack” a security checkpoint at the Caglayan courthouse at 11:46 a.m. (0846 GMT), Interior Minister Ali Yerlikaya posted on social media.
-
-He said six people were wounded, including three police officers. President Recep Tayyip Erdogan later said one of the civilians died.
-
-Caglayan, which is also known as the Istanbul Justice Palace, is a huge court complex in the Kagithane district on the city’s European side. Heavily guarded and with multiple entrances, it was Europe’s largest courthouse at the time of its opening in 2011.
-
-Camera footage published by Turkey’s state-run Anadolu news agency showed the assailants being gunned down on the building’s forecourt. They appeared to shoot back at police before they were killed.
-
-...
-
-[Data](articles/c3e0b1e7.json)
-
-[Extended Data](ext_articles/c3e0b1e7.ext.json)
-
----
-
-### One killed in explosion in a place where iron is collected
-
-*2024-02-06 18:01:06* · [`adalk`](https://www.ada.lk/breaking_news/යකඩ-එකතු-කරන-තැනක-පිපිරීමකින්-අයෙක්-මරුට/11-407930) · `si`
-
-A employee has died in an explosion in the Madola area in Avissawella today (06).
-
-The deceased has been identified as a 49 year old resident of Maskeliya area.
-
-The man was injured in an explosion made by an explosion from the abuse of goods at the same time on the 6th.
-
-The victim has been admitted to the Avissawella Base Hospital for treatment.
-
-The cause of the explosion is yet to be determined and then Avissawella Criminal Officers have commenced investigations and commences investigations. Avissawella Police are conducting further investigations.
-
-◼️
-
-[Data](articles/6e759b56.json)
-
-[Extended Data](ext_articles/6e759b56.ext.json)
-
----
-
-### Indian police nab man trying to smuggle nearly 700,000 painkiller pills to Sri Lanka
-
-*2024-02-06 17:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97053/indian-police-nab-man-trying-to-smuggle-nearly-700000-painkiller-pills-to-sri-lanka) · `en`
-
-The Marine Police and the Organised Crime Intelligence Unit (OCIU) in Rameswaram, India have jointly arrested a man and seized 679,000 sleeping pills from his possession. The team also impounded a fibre boat at Periapattinam on Sunday.
-
-Officials said that following a specific input, the teams were on the lookout for the suspect. When the accused was about to board the waiting fibre boat at Periapattinam, Pudukudiyuruppu South Sea area, with the pills, he was secured. He was identified as A. Mohamed Meerashah of East Street Periapattinam.
-
-The team seized the sleeping pills and a mobile phone. Further investigation was on, Indian media reported.
-
-A senior officer, who was part of the investigations said the accused was about to venture into the sea and hand over the pills to an agent. “We are in the process of gathering more information,” he added.
-
-The sleeping pills were in great demand in Sri Lanka and the tablets were sold in the black market at a premium.
-
-◼️
-
-[Data](articles/9abb32ae.json)
-
-[Extended Data](ext_articles/9abb32ae.ext.json)
-
----
-
-### JVP leader's visit to India - What is Namal?
-
-*2024-02-06 17:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175735) · `ta`
-
-Parliamentarian Namal Rajapaksa has questioned the JVP's visit to India, which followed the anti -Indian policy in the past.
-
-The JVP is the main reason for the loss of many Indian investments in Sri Lanka's past.
-
-He said an example of this was the abandonment of the Samburman project due to JVP's Indian opposition.
-
-But the JVP is currently following a different policy.
-
-He has expressed his hope that the JVP will support the arrival of investors in Sri Lanka after his visit to India.
-
-◼️
-
-[Data](articles/214ee2b6.json)
-
-[Extended Data](ext_articles/214ee2b6.ext.json)
-
----
-
-### Various political parties pay tribute to the mother of Vanni district parliamentarian Selvam Adakkalanathan's mother
-
-*2024-02-06 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175731) · `ta`
-
-Vanni District Parliamentarian Selvam Adamalakala Nathan's mother Amirthalingam Sebamali passed away on Monday (5) at the age of 84.
-
-His bodies have been placed in his residence in the village of Josephvas Nagar, Mannar.
-
-In this case, various parties and political representatives are paying tribute to the Annaru Buddhist.
-
-It is noteworthy that the condolences will be held tomorrow morning at the Joseph Vas Temple at the Estate Joseph Vas Temple.
-
-◼️
-
-[Data](articles/6643071d.json)
-
-[Extended Data](ext_articles/6643071d.ext.json)
-
----
-
-### Court ordered to seize two luxury cars worth Rs 200 million
-
-*2024-02-06 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175734) · `ta`
-
-The court has ordered the immediate nationalization of two luxury vehicles worth about 200 million rupees worth of illegally imported by the Motor Transport Department's computer system, registered as ordinary cars.
-
-Colombo Chief Justice Prasanna Alwis issued this order to the Bribery Commission on Tuesday (06).
-
-The judge issued the order after the Bribery Commission issued the court in 2005 that the two luxury vehicles were imported to Sri Lanka in 2005 and registered as two ordinary cars and the government did not pay the tax on the importation of luxury vehicle imports.
-
-◼️
-
-[Data](articles/ecc03e5c.json)
-
-[Extended Data](ext_articles/ecc03e5c.ext.json)
-
----
-
-### President admits to Keheliya's resignation
-
-*2024-02-06 17:41:59* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගේ-ඉල්ලා-අස්වීම-ජනපති-පිළිගනියි/11-407929) · `si`
-
-Former Health Minister and Environment Minister Keheliya Rambukwella has resigned from his post with prison. Accordingly, he had sent his resignation letter to the President.
-
-The President has also accepted the resignation and the gazette notification of his resign has been released.
-
-◼️
-
-[Data](articles/a1b1139b.json)
-
-[Extended Data](ext_articles/a1b1139b.ext.json)
 
 ---

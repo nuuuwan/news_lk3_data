@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 21:17:24**
+As of **2024-02-07 21:33:11**
 
 ## Newspaper Stats
 
-*Scraped **5,529** Articles*
+*Scraped **5,530** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 288
 economynextcom | 290
 dailyftlk | 305
 newsfirstlk | 342
-adalk | 471
+adalk | 472
 virakesarilk | 672
 adaderanalk | 685
 tamilmirrorlk | 691
@@ -26,7 +26,7 @@ dailymirrorlk | 783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,528 (100.0%) of 5,529 articles have been extended.
+5,529 (100.0%) of 5,530 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -182,17 +182,19 @@ There are 234 teams including police officers who installed police officers and 
 
 ---
 
-### சனத் நிஷாந்தவின் மரணத்தில் சந்தேகம்: மனைவி சிஐடியில் முறைப்பாடு!
+### Suspicion of Sanath Nishantha's death: Wife complains in CIT!
 
 *2024-02-07 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175839) · `ta`
 
-முன்னாள் இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் மனைவி சட்டத்தரணி சாமரி பிரியங்கவினால்  அவரது கணவரின் மரணம். தொடர்பில் குற்றப் புலனாய்வு திணைக்களத்தில் முறைப்பாடு செய்யப்பட்டுள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+Her husband's death by lawyer Samari Priyanka, wife of former diplomatic minister Sanath Nishantha. A complaint has been lodged with the Criminal Investigation Department.
 
-முன்னாள் இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் மரணத்தில் சந்தேகத்திற்கிடமான சூழ்நிலைகள் இருப்பதாகத் தெரிவித்து மேற்படி  முறைப்பாட்டை செய்துள்ளார்.
+Former State Minister Sanath Nishantha has lodged a complaint with suspicious circumstances.
 
 ◼️
 
 [Data](articles/c77938ad.json)
+
+[Extended Data](ext_articles/c77938ad.ext.json)
 
 ---
 
@@ -837,6 +839,22 @@ More than 2000 alumni have traveled and participated in the program. ”
 [Data](articles/4b14184e.json)
 
 [Extended Data](ext_articles/4b14184e.ext.json)
+
+---
+
+### ප්‍රතික්ෂේප කිරිම යම් ආකාරයක අභිප්‍රේරණයක්
+
+*2024-02-07 16:33:03* · [`adalk`](https://www.ada.lk/sports/ප්‍රතික්ෂේප-කිරිම-යම්-ආකාරයක-අභිප්‍රේරණයක්/9-407955) · `si`
+
+අයි.පී.එල්. කාන්තා ප්‍රිමියර් ලීග් වෙන්දේසියේදී තමන්ව මිලදී ගැනීමට කිසිම කණ්ඩායමක් ඉදිරිපත් නොවීම ගැන  "කම්පනයට නොව පුදුමයට පත් වූ" බවත් ප්‍රතික්ෂේප කිරීම් තමාට "යම් ආකාරයක පෙළඹවීමක්" බවත් ශ්‍රී ලංකා කාන්තා ක්‍රිකට් නායිකා චමරි අතපත්තු පැවැසුවාය.
+
+"මම කම්පනයට පත් වුණේ නෑ. ඔවුන් මාව තෝරා නොගත් නිසා මම පුදුමයට පත් වුණා. "  යැයි අතපත්තු අඟහරුවාදා මාධ්‍ය හමුවකදී පැවසීය.
+
+"ඒත් මේ දේවල් මගේ පාලනයේ නැහැ. මම හිතනවා මට පාලනය කරන්න පුළුවන් දේ මොකද මේ තීරණ ගන්නේ වෙන කෙනෙක් - සමහර පුහුණුකරුවන් හෝ සමහර [කණ්ඩායම්] කළමනාකාරීත්වය. මට මේ දේවල් පාලනය කරන්න බැහැ, නමුත් මට පාලනය කරන්න පුළුවන් මගේ පිතිකරණය, මගේ පන්දු යැවීම. මට අවශ්‍ය මට කරන්න පුළුවන් දේ කරන්න. මම මේ තීරණ ගන්නේ හොඳ මානසිකත්වයෙන් සහ මගේ උපරිමය කරනවා." යැයි ඇය පැවැසුවාය.
+
+...
+
+[Data](articles/2064d6e4.json)
 
 ---
 
@@ -2049,25 +2067,5 @@ The US dollar purchasing price was Rs.
 [Data](articles/bdd4d87a.json)
 
 [Extended Data](ext_articles/bdd4d87a.ext.json)
-
----
-
-### Another intervention to Keheliya
-
-*2024-02-07 12:28:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கெஹலியவுக்கு-மற்றுமொரு-தலையிடி/76-332823) · `ta`
-
-The Sri Lanka Teachers Union has urged the school in the Kundasalai area in the Kundasalai area in the name of former Michar Keheliya Rambukwella, despite the circular of the Ministry of Education.
-
-Joseph Stalin, secretary of the Sri Lanka Teachers Union, pointed out that the name of a living person cannot be named after the circular published by the Ministry of Education in 1996.
-
-But the former minister Keheliya Rambukwella has named the primary school in the Kundasalai area as a primary school in the Kundasalai area.
-
-Joseph Starling, therefore, urged the government to take immediate action against putting the name of a living person to schools.
-
-◼️
-
-[Data](articles/2e1dd68f.json)
-
-[Extended Data](ext_articles/2e1dd68f.ext.json)
 
 ---

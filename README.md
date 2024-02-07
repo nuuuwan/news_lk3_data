@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 06:16:13**
+As of **2024-02-07 06:52:22**
 
 ## Newspaper Stats
 
-*Scraped **5,320** Articles*
+*Scraped **5,321** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 305
 newsfirstlk | 327
 adalk | 451
 virakesarilk | 641
-adaderanalk | 657
+adaderanalk | 658
 tamilmirrorlk | 661
 adaderanasinhalalk | 684
 dailymirrorlk | 755
@@ -26,11 +26,31 @@ dailymirrorlk | 755
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,311 (99.8%) of 5,320 articles have been extended.
+5,318 (99.9%) of 5,321 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### Chile’s former president dies in helicopter crash
+
+*2024-02-07 06:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97066/chiles-former-president-dies-in-helicopter-crash) · `en`
+
+Chilean ex-President Sebastian Pinera died in a helicopter crash on Tuesday, sending the country he led for two terms into mourning and prompting an outpouring of condolences from leaders across Latin America.
+
+The helicopter carrying Pinera, 74, and three others plunged into a lake in southern Chile. The former president was pronounced dead shortly after rescue personnel arrived at the scene. The other three passengers survived.
+
+Two sources told Reuters Pinera was the pilot, although officials have not confirmed that, nor the helicopter’s intended destination.
+
+Pinera often spent the Southern Hemisphere summers near the picturesque lakes that dot Chile’s south, and frequently piloted his own helicopter.
+
+President Gabriel Boric declared three days of national mourning, while preparations have begun for a state funeral on Friday for the former leader, who served two non-consecutive terms between 2010 and 2022.
+
+...
+
+[Data](articles/d7e59337.json)
+
+---
 
 ### Has The JVP Come Of Age Or Is It Bluffing? - EDITORIAL
 
@@ -112,6 +132,8 @@ the rich tapestry of Tamil Christian art and architecture at the ‘Cultural Mos
 
 [Data](articles/004723e0.json)
 
+[Extended Data](ext_articles/004723e0.ext.json)
+
 ---
 
 ### NPP leaders off to Modi’s home base Gujarat
@@ -127,6 +149,8 @@ The NPP delegation yesterday held talks with the representatives of the leading 
 ...
 
 [Data](articles/62269ff8.json)
+
+[Extended Data](ext_articles/62269ff8.ext.json)
 
 ---
 
@@ -746,6 +770,8 @@ Together with the American Institute of CPAs (AICPA), CIMA is a founding member 
 
 [Data](articles/2bbac986.json)
 
+[Extended Data](ext_articles/2bbac986.ext.json)
+
 ---
 
 ### ComBank donates 5000-litre water storage tanks to 50 families at CKDu risk
@@ -761,6 +787,8 @@ The donation is the latest phase in the ‘Raindrops’ project supported by Com
 ...
 
 [Data](articles/71e1c667.json)
+
+[Extended Data](ext_articles/71e1c667.ext.json)
 
 ---
 
@@ -829,6 +857,8 @@ The All Share Price Index went up by 96.23 points, while S and P SL20 rose by 51
 ...
 
 [Data](articles/724e79c8.json)
+
+[Extended Data](ext_articles/724e79c8.ext.json)
 
 ---
 
@@ -1987,27 +2017,5 @@ The Speaker was referring to remarks that have been made by opposition members i
 [Data](articles/b4953089.json)
 
 [Extended Data](ext_articles/b4953089.ext.json)
-
----
-
-### Sri Lanka rupee closes at 314.00/50 to the US dollar
-
-*2024-02-06 17:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-314-00-50-to-the-us-dollar-150111/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 314.00/50 to the US dollar Tuesday, from 312.40/80 on Monday, dealers said.
-
-A bond maturing on 01.02.2026 closed at 11.40/55 down from 11.80/95 percent.
-
-A bond maturing on 15.09.2027 closed at 12.20/25 down from 12.35/55 percent.
-
-A bond maturing on 15.03.2028 closed at 12.50/55 down from 12.55/65 percent.
-
-A bond maturing on 15.05.2030 closed at 12.95/13.10 down from 13.00/15 percent.
-
-◼️
-
-[Data](articles/e80ca71e.json)
-
-[Extended Data](ext_articles/e80ca71e.ext.json)
 
 ---

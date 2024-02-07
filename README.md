@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 04:49:31**
+As of **2024-02-08 05:02:20**
 
 ## Newspaper Stats
 
-*Scraped **5,576** Articles*
+*Scraped **5,580** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 78
 dbsjeyarajcom | 140
 islandlk | 288
 economynextcom | 296
-dailyftlk | 312
+dailyftlk | 316
 newsfirstlk | 342
 adalk | 472
 virakesarilk | 683
@@ -26,11 +26,85 @@ dailymirrorlk | 792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,576 (100.0%) of 5,576 articles have been extended.
+5,576 (99.9%) of 5,580 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### French LV power giant Socomec enters Sri Lanka via Indian subsidiary
+
+*2024-02-08 04:21:44* · [`dailyftlk`](https://www.ft.lk/business/French-LV-power-giant-Socomec-enters-Sri-Lanka-via-Indian-subsidiary/34-758247) · `en`
+
+Socomec India Regional Managing Director Meenu Singhal (left) and CFO and APAC Industry Controller Devesh Singhania
+
+Move as part of strategic expansion plans by Socomec India; appoints General Manager to steer the company’s initiatives in Low Voltage power management in emerging markets of Sri Lanka and Bangladesh
+
+Socomec India, part of France based leading global specialist in Low Voltage (LV) power management, yesterday unveiled its ambitious expansion plan.
+
+The Chennai headquartered French powerhouse is set to venture into the markets of Sri Lanka, effective immediately. Termed as ‘Greater India,’ this strategic move consolidates into a unified business entity, marking a significant milestone for Socomec India and opening up new opportunities for business growth.
+
+...
+
+[Data](articles/f3bfcac7.json)
+
+---
+
+### Vidullanka’s nine month profit tops Rs. 1 b mark
+
+*2024-02-08 04:19:51* · [`dailyftlk`](https://www.ft.lk/business/Vidullanka-s-nine-month-profit-tops-Rs-1-b-mark/34-758246) · `en`
+
+Amalgamates Lower Kotmale Oya Hydro Power Ltd., Udawela Hydro Ltd., and Rideepana Hydro Ltd., with parent
+
+Vidullanka PLC said yesterday it has reported a profit after tax (PAT) of Rs. 1,057 million from a revenue of Rs. 4.3 billion during the nine months ended on 31 December 2023, as per the latest interim financials.
+
+The company’s financial statements published on the Colombo Stock Exchange indicate a healthy 37% increase in profits and a 48% increase in the revenue between the same period in 2022 and 2023.
+
+...
+
+[Data](articles/6fe406c3.json)
+
+---
+
+### Exterminators to transform pest management industry in South Asia
+
+*2024-02-08 04:19:06* · [`dailyftlk`](https://www.ft.lk/business/Exterminators-to-transform-pest-management-industry-in-South-Asia/34-758245) · `en`
+
+Appointed exclusive distributor for India, Sri Lanka, and the Maldives by PestScan B.V. Netherlands
+
+Aims to cater to over 15,000 pest control companies operating in South Asia
+
+Exterminators PLC has announced that the company recently entered a ground-breaking strategic partnership with PestScan B.V. Netherlands and Sentario UK Ltd.
+
+Exterminators PLC is aiming to transform the pest management industry in South Asia from a chemical-focused industry to a technology-focused industry by adapting cutting-edge AI-powered digital pest management solutions.
+
+Exterminators PLC is the exclusive distributor of PestScan’s digital pest management software for India, Sri Lanka, and the Maldives and the non-exclusive distributor in Pakistan, Bangladesh, Nepal, and Bhutan.
+
+...
+
+[Data](articles/26f8854f.json)
+
+---
+
+### Diana affirms Cabinet nod for cannabis export
+
+*2024-02-08 04:14:14* · [`dailyftlk`](https://www.ft.lk/news/Diana-affirms-Cabinet-nod-for-cannabis-export/56-758244) · `en`
+
+Shows joint Cabinet paper presented in November based on June 2023 decision
+
+Says memorandum was submitted by President and State Minister of Investment Promotion Dilum Amunugama
+
+Asserts State Minister of Indigenous Medicine Sisira Jayakody proposed obtaining Cabinet approval
+
+State Minister of Tourism Diana Gamage yesterday confirmed that the Cabinet had already approved to export of cannabis last year.
+
+Her response comes following Cabinet Co-Spokesman and Minister Bandula Gunawardena on Tuesday dismissing claims that a proposal had been presented to the Cabinet of Ministers on cultivating cannabis for export purposes.
+
+...
+
+[Data](articles/d1c93fbf.json)
+
+---
 
 ### First ever Congress for Sustainable Materials 2024 a success
 
@@ -1933,95 +2007,5 @@ Due to the economic crisis, the number of refugees from Sri Lanka to Tamil Nadu 
 [Data](articles/7456e147.json)
 
 [Extended Data](ext_articles/7456e147.ext.json)
-
----
-
-### Gambia
-
-*2024-02-07 15:47:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காம்பியா-முறையில்-முந்திரி-பயிர்-செய்கை/175-332838) · `ta`
-
-Sri Lanka's Gambian Ambassador has expressed his support to provide the cultivation technology used by Gambia in cashew cultivation.
-
-The Gambian Ambassador to Sri Lanka, Mustafa Jawara, has told Agriculture Minister Mahinda Amaraweera that Gambia is a small agricultural country like Sri Lanka.
-
-The ambassador said that the cashew cultivated in Gambia is exported to many countries, including India.
-
-The Minister of Agriculture Mahinda Amaraweera said that the cause of the cashews in the country was the lack of action by the new types of cashews in the country.. Therefore, the Minister asked the Gambia Ambassador to provide technical support to the use of cashew cultivation technology in Gambia.
-
-◼️
-
-[Data](articles/d523717e.json)
-
-[Extended Data](ext_articles/d523717e.ext.json)
-
----
-
-### Twin bombings kill at least 22 as Pakistan prepares for elections
-
-*2024-02-07 15:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Twin-bombings-kill-at-least-22-as-Pakistan-prepares-for-elections/108-276524) · `en`
-
-Pakistan, Feb. 07 (Aljazeera)-Two bombs in Pakistan’s southwestern province of Balochistan have killed at least 22 people with more injured.
-
-The twin blasts on Wednesday came a day before elections. The attacks targeted the election offices of political parties in the restive region.
-
-The first attack, which killed 12 people, took place at the office of independent election candidate Asfandyar Khan Kakar in Pishin district near the border with Afghanistan, police sources told Al Jazeera.
-
-The second explosion in Qilla Saifullah detonated near an office of Jamiat Ulema Islam (JUI), a religious party that has previously been the target of attacks, according to the province’s information minister.
-
-Jumma Dad Khan, the deputy commissioner of Pishin district, said the blast there injured many people. Some are in serious condition, the medical superintendent at Khanozai Hospital told Al Jazeera.
-
-...
-
-[Data](articles/eab031c8.json)
-
-[Extended Data](ext_articles/eab031c8.ext.json)
-
----
-
-### Undercover police deployed in public transport to tackle abuse
-
-*2024-02-07 15:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Undercover-police-deployed-in-public-transport-to-tackle-abuse/108-276523) · `en`
-
-Colombo, Feb 07 (Daily Mirror) - An island-wide police operation targeting individuals who commit acts of abuse against children and women in public transport has been initiated.
-
-The Public Security Ministry said the operation's primary objective is to combat sexual abuse within public transport services, addressing the increasing number of complaints received by police stations on a daily basis.
-
-Acting Inspector General of Police Deshabandu Tennakoon has directed the implementation of this operation.
-
-The IGP instructed the police to prioritize operations between 08:00-10:00 and 17:00-19:00, emphasizing peak hours of public transport usage.
-
-Accordingly, police officers in civilian clothes will travel in buses, with special attention being paid to streets, bus stops and railway stations.
-
-...
-
-[Data](articles/ef3574f7.json)
-
-[Extended Data](ext_articles/ef3574f7.ext.json)
-
----
-
-### Explosion in Pakistan
-
-*2024-02-07 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193087) · `si`
-
-Approximately 20 people have been killed in two bomb blasts in Pakistan.
-
-The first explosion took place near a party office in an independent candidate in the country.
-
-Approximately 12 people have died, foreign media reports say.
-
-The second explosion has occurred in the QillaH saif ULLAH, and eight of them have died.
-
-Foreign media reports that a group of people were hospitalized due to explosions.
-
-UPFA, there has been none of the responsibility of those blasts.
-
-The world's focus on Pakistan has focused on Pakistan on a backdrop for tomorrow.
-
-◼️
-
-[Data](articles/d1d1223a.json)
-
-[Extended Data](ext_articles/d1d1223a.ext.json)
 
 ---

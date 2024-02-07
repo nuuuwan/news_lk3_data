@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 17:02:32**
+As of **2024-02-07 17:17:22**
 
 ## Newspaper Stats
 
-*Scraped **5,481** Articles*
+*Scraped **5,487** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,99 @@ colombotelegraphcom | 62
 bbccomsinhala | 78
 dbsjeyarajcom | 140
 islandlk | 288
-economynextcom | 289
+economynextcom | 290
 dailyftlk | 305
 newsfirstlk | 339
-adalk | 467
-virakesarilk | 662
+adalk | 468
+virakesarilk | 664
 adaderanalk | 679
 tamilmirrorlk | 684
-adaderanasinhalalk | 711
+adaderanasinhalalk | 713
 dailymirrorlk | 777
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,479 (100.0%) of 5,481 articles have been extended.
+5,481 (99.9%) of 5,487 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### විෂ වායුවක් ආග්‍රහණය වී ධීවරයෙකු මරුට - 7ක් රෝහලේ
+
+*2024-02-07 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193091) · `si`
+
+අම්බලන්ගොඩ ධීවර වරායේ නවතා තිබූ ධීවර යාත්‍රාවක මාළු බහාලන ටැංකියක් තුළදී විෂ වායුවක් ආග්‍රහණය වීම හේතුවෙන් ධීවරයෙකු මියගොස් තිබේ.
+
+සෙසු ධීවරයින් 07 දෙනා මේ වනවිට බලපිටිය රෝහලේ ප්‍රතිකාර ලබයි.
+
+◼️
+
+[Data](articles/37798d8b.json)
+
+---
+
+### ජස්ප්‍රිට් බුම්‍රාගෙන් ඓතිහාසික වාර්තාවක්
+
+*2024-02-07 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193090) · `si`
+
+සුපිරි ඉන්දීය වේගපන්දු යවන ක්‍රීඩක ජස්ප්‍රිට් බුම්‍රා සුවිශේෂ ක්‍රිකට් ලෝක වාර්තාවක් තබා තිබේ.
+
+ක්‍රිකට් දිවියේ කුමන හෝ අවස්ථාවක දී ටෙස්ට්, එක්දින සහ 20යි 20 අකෘති තුනෙහි ම පෙරමුණට පැමිණි ලොව එකම පන්දු යවන්නා බවට පත් වෙමින් ජස්ප්‍රිට් බුම්‍රා මෙම ලෝක වාර්තාව තබා ඇත.
+
+අයිසීසී නිකුත් කළ නවතම ටෙස්ට් පන්දු යවන්නන්ගේ ශ්‍රේණිගත කිරීම්වල ජස්ප්‍රිට් බුම්‍රා අංක 01ට පැමිණ ඇති අතර, ඒ සමඟ මෙම සුවිශේෂ ලෝක වාර්තාව බුම්‍රා සතු විය.
+
+මේ අතර, ටෙස්ට් ශ්‍රේණිගත කිරීම්වල පෙරමුණට පැමිණි පළමු ඉන්දීය වේගපන්දු යවන්නා බවට ද ජස්ප්‍රිට් බුම්‍රා පත් ව ඇත.
+
+මීට පෙර බිශාන් සිං බෙඩි, රවිචන්ද්‍රන් අශ්වින් සහ රවීන්ද්‍ර ජඩේජා යන තිදෙනා ටෙස්ට් පන්දු යවන්නන්ගේ ශ්‍රේණිගත කිරීම්වල අංක එකට පැමිණ සිටි නමුත් ඔවුන් තිදෙනාම දඟ පන්දු යවන්නෝ වූහ.
+
+නිමා වූ දෙවැනි ටෙස්ට් තරගයේ දී ජස්ප්‍රිට් බුම්‍රා එංගලන්ත ඉනිමේ කඩුලු 06ක් බිඳ දැමීමට සමත් වූ අතර, බුම්‍රා ඉනිමක දී කඩුලු 06ක් දවා ගත් දෙවැනි අවස්ථාව එයයි.
+
+◼️
+
+[Data](articles/1d3121df.json)
+
+---
+
+### அமெரிக்க - இலங்கை ஃபுல்பிரைட் ஆணைக்குழுவின் நிறைவேற்றுப் பணிப்பாளராக பெட்ரிக் மெக்னமாரா
+
+*2024-02-07 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175817) · `ta`
+
+கொழும்பிலுள்ள அமெரிக்க - இலங்கை ஃபுல்பிரைட் ஆணைக்குழுவின் புதிய நிறைவேற்றுப் பணிப்பாளராக கலாநிதி பெட்ரிக் மெக்னமாராவை அறிவிப்பதில் இலங்கையிலுள்ள அமெரிக்கத் தூதரகம் மகிழ்ச்சியடைகிறது.
+
+“எமது அமெரிக்க-இலங்கை ஃபுல்பிரைட் ஆணைக்குழுவின் புதிய நிறைவேற்றுப் பணிப்பாளராக கலாநிதி பெட்ரிக் மெக்னமாராவை வரவேற்பதில் நாங்கள் மிகவும் மகிழ்ச்சியடைகிறோம்.
+
+கலாநிதி  மெக்னமாராவின் தலைமையின் கீழ், எமது இரு நாடுகளுக்குமிடையேயான பரிமாற்றங்கள், கல்விப் பங்காண்மைகள் மற்றும் பரஸ்பர புரிதல் ஆகியவற்றை வளர்க்கும் ஒரு புதிய சகாப்தத்திற்குள் ஆணைக்குழு பிரவேசிக்கிறது.
+
+எல்லைகளுக்கு அப்பால் சென்று அறிஞர்கள் மற்றும் மாணவர்களுக்கான கல்விச் சூழலை மேம்படுத்தும் துடிப்பான அறிவுப் பரிமாற்றங்கள் ஊடாக, அமெரிக்காவிற்கும் இலங்கைக்கும் இடையே காணப்படும் மக்களுக்கிடையிலான, கல்வி மற்றும் அறிவியல் உறவுகளை மேலும் பலப்படுத்துவதில் ஆணைக்குழு ஒரு முக்கிய பங்கை வகிக்கும் என நாங்கள் எதிர்பார்க்கிறோம்.” என இலங்கைக்கான அமெரிக்கத் தூதுவர் ஜுலீ சங் கூறினார்.
+
+...
+
+[Data](articles/4b14184e.json)
+
+---
+
+### நிகழ்நிலை பாதுகாப்பு சட்டத்தை அவசரஅவசரமாக அரசாங்கம் நிறைவேற்றியதற்கான காரணம் குறித்து மாற்றுக்கொள்கைகளிற்கான நிலையம் கேள்வி -உடனடியாக நீக்க கோரிக்கை
+
+*2024-02-07 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175813) · `ta`
+
+நிகழ்நிலை பாதுகாப்பு சட்டத்தை அவசரஅவசரமாக அரசாங்கம் நிறைவேற்றியதற்கான காரணம் குறித்து மாற்றுக்கொள்கைகளிற்கான நிலையம் சந்தேகம்; -உடனடியாக நீக்க கோரிக்கை
+
+இலங்கை அரசாங்கம் நிறைவேற்றியுள்ள நிகழ்நிலை பாதுகாப்பு சட்டம் குறித்து மாற்றுக்கொள்கைகளிற்கான நிலையம் கடும் எதிர்ப்பை வெளியிட்டுள்ளது.
+
+நிகழ்நிலை பாதுகாப்பு  சட்டத்தை உருவாக்கும் செயற்பாடுகளில்காணப்பபட்ட இரகசியதன்மையையும் அதனை அவசரஅவசரமாக  நிறைவேற்றியதையும் கண்டிப்பதாக தெரிவித்துள்ள மாற்றுக்கொள்கைகளிற்கான நிலையம் அரசாங்கத்தின் நோக்கம்  குறித்து கேள்வி எழுப்பியுள்ளது.
+
+சட்டத்தை அவசரஅவசரமாக நிறைவேற்றுவதற்கான நோக்கம் குறித்து கேள்வி எழுப்பியுள்ள மாற்றுக்கொள்கைளிற்கான நிலையம் இந்த சட்டம் கருத்து சுதந்திரம் சட்டத்தின் ஆட்சிக்கு குறிப்பிடத்தக்க தாக்கத்தை ஏற்படுத்தும் எனவும் தெரிவித்துள்ளது.
+
+குறிப்பிட்ட சட்டமூலம் தொடர்பில் உயர்நீதிமன்றம் முன்வைத்த திருத்தங்களை அரசாங்கம் முழுமையாக கருத்தில்எடுக்க தவறியமையும் குறித்தும் மாற்றுக்கொள்கைகளிற்கான நிலையம் கவலை வெளியிடடுள்ளது.
+
+...
+
+[Data](articles/7f3add4d.json)
+
+---
 
 ### Maldives appoints new Ambassador to Sri Lanka
 
@@ -45,6 +119,8 @@ Masood Imad, who is designated as the ambassador to Sri Lanka, previously served
 ◼️
 
 [Data](articles/8bf607a1.json)
+
+[Extended Data](ext_articles/8bf607a1.ext.json)
 
 ---
 
@@ -65,6 +141,8 @@ The reconstruction of Gaza would begin, Israeli forces would withdraw completely
 ...
 
 [Data](articles/f5828b88.json)
+
+[Extended Data](ext_articles/f5828b88.ext.json)
 
 ---
 
@@ -155,6 +233,28 @@ Three suspects who were ready to illegally sell about 4 kg of 500 grams of whale
 [Data](articles/afd1da3b.json)
 
 [Extended Data](ext_articles/afd1da3b.ext.json)
+
+---
+
+### Sri Lanka stocks close up, JKH pushes turnover to 12bn
+
+*2024-02-07 15:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-jkh-pushes-turnover-to-12bn-150288/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+Turnover topped 12 billion due to a crossing on John Keells Holdings Plc (11.3bn), and the share closed up at 183.00.
+
+The broader All Share Index closed up 2.59 points, or 0.02 percent at 10,527, while the S&P SL20 Index went up 6.71 points to close at 2,999 points, up 0.22 percent.
+
+Sampath Bank Plc saw high volumes traded (85mn) and the share closed down at 71.90, as did LB Finance Plc (79mn) flat at 61.00.
+
+The decline in bond yield rates has seen renewed investor interest in several companies, market participants said, adding that some of the primary dealing counters saw some activity: Capital Alliance Plc shares closed up at 48.10, and First Capital Treasuries Plc closed up at 26.00.
+
+Contributors to ASPI in the day included Richard Pieris and Company Plc (up at 21.30), Commercial Bank of Ceylon Plc (up at 89.00), and Royal Ceramics Lanka Plc (up at 29.00). (Colombo/Feb7/2024).
+
+◼️
+
+[Data](articles/ca4677b3.json)
 
 ---
 
@@ -585,6 +685,22 @@ An high race has been affected by heavy rains and 18 people have died due to flo
 [Data](articles/29a5859f.json)
 
 [Extended Data](ext_articles/29a5859f.ext.json)
+
+---
+
+### බෙලිඅත්ත පංච පුද්ගල ඝාතනයට තවත් අයෙක් අල්ලයි
+
+*2024-02-07 14:27:41* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්ත-පංච-පුද්ගල-ඝාතනයට-තවත්-අයෙක්-අල්ලයි/11-407951) · `si`
+
+බෙලිඅත්ත පංච පුද්ගල ඝාතනයට සම්බන්ධ  පුද්ගලයකු බෙලිඅත්ත පොලිසිය මගින් අත්අඩංගුවට ගෙන ඇතැයි බෙලිඅත්ත පොලීසිය කියයි.
+
+අදාල සැකකරු නීතිඥ  මාර්ගයෙන් ඉදිරිපත් වීමෙන් අනතුරුව අත්අඩංගුවට ගෙන තිබේ. අත්අඩංගුවට ගත් සැකකරු විසි හතර හැවිරිදිඹුල් ගොඩ අකුරැස්ස පදිංචිකරුවෙකි.
+
+මොහු ඝාතනය සදහා යොදාගත් ගිණිඅවි කඹුරුපිටිය ප්‍රදේශයේ පිහිටි සිය ආච්චිගේ නිවසේ සගවා තබා පසුව එම ගිණිඅවි කඹුරුපිටියේ සිට ගාල්ල කරාපිටිය ප්‍රදේශයට රැගෙන යාමට සහායවූ සැකකරුවෙකු බව පොලිසිය පවසයි.
+
+◼️
+
+[Data](articles/00c06e3c.json)
 
 ---
 
@@ -1947,125 +2063,5 @@ The fifth session of the ninth parliament was inaugurated on Wednesday morning (
 [Data](articles/c99b7126.json)
 
 [Extended Data](ext_articles/c99b7126.ext.json)
-
----
-
-### Sri Lanka textile and apparel roadshow to be held in London
-
-*2024-02-07 10:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-textile-and-apparel-roadshow-to-be-held-in-london-150125/) · `en`
-
-ECONOMYNEXT – Sourced Sri Lanka – Textile and Apparel Roadshow, an export promotion program in London, is expected to be attended by 50 Sri Lankan exhibitors and attract thousands of foreign buyers and trade visitors.
-
-The exhibition is scheduled to be held in June and has been organised by the Sri Lanka Export Development Board (EDB), Sri Lanka Apparel Sourcing Association (SLASA), Sri Lanka High Commission in UK, and the Joint Apparel Association Forum (JAAF).
-
-The objective of the exhibition is to “support apparel exporters in establishing business connections with UK buyers and expanding exports to the UK through the UK Developing Countries Trading Scheme (DCTS) and expand the Sri Lanka apparel exports share to the UK,” SLASA said in a statement.
-
-“Additionally, the aim is to showcase Sri Lanka as a responsible apparel manufacturing destination in Asia, fostering awareness among UK-based buyers.”
-
-...
-
-[Data](articles/efd9329d.json)
-
-[Extended Data](ext_articles/efd9329d.ext.json)
-
----
-
-### CPA Denounces “Draconian” Online Safety Act, Calls for Repeal
-
-*2024-02-07 10:28:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/cpa-denounces-draconian-online-safety-act-calls-for-repeal/) · `en`
-
-COLOMBO (News 1st); The Centre for Policy Alternatives (CPA) has expressed strong concerns regarding the recently enacted Online Safety Act (OSA) in Sri Lanka.
-
-The CPA criticizes the "secrecy" surrounding the drafting process and the "rushed manner" of passage, raising questions about the government's intentions and potential disregard for constitutional principles.
-
-They question the government's motives for pushing through a law with significant implications for freedom of expression and the rule of law.
-
-The statement underlines the government's failure to fully comply with the Supreme Court's amendments concerning the Bill.
-
-CPA says that concerns arise about the constitutionality of the OSA due to this selective implementation of the Court's decisions, and that this sets a dangerous precedent for the separation of powers and weakens the rule of law.
-
-...
-
-[Data](articles/d67e6cc9.json)
-
-[Extended Data](ext_articles/d67e6cc9.ext.json)
-
----
-
-### Former president killed in accident
-
-*2024-02-07 10:27:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-ஜனாதிபதி-விபத்தில்-பலி/50-332811) · `ta`
-
-The country located in South America. Former President of the country, Jebastin Pinira. He was the richest man from 2010 to 2014 and from 2018 to 2022 as President of Chile.
-
-In this case, Jebastin Pinira traveled to the helicopter on Tuesday (06) to the country's popular tourist destination, Lako Ranga.. A total of 4 people traveled in the helicopter, including Jepastin.
-
-Suddenly the helicopter crashed as he was traveling near Lako Ranga. Jebastin Pinira died in this demanding accident. The remaining 3 people were injured in the helicopter. All the injured have been rescued and hospitalized. At the same time, the reason for the accident was the 3 people who traveled with Jebastin Pinira?No information has been released yet.
-
-◼️
-
-[Data](articles/caab39bd.json)
-
-[Extended Data](ext_articles/caab39bd.ext.json)
-
----
-
-### 785 more suspects arrested, drugs seized under Operation ‘Yukthiya’
-
-*2024-02-07 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97073/785-more-suspects-arrested-drugs-seized-under-operation-yukthiya) · `en`
-
-Another 785 suspects have been arrested by Sri Lanka’s police and security forces personnel within 24 hours which ended at 12.30 a.m. today (Feb.07). The arrests were made as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-Among the arrestees are 596 suspects who were taken into custody on narcotics-related charges and 189 others who were on the list of wanted criminal suspects.
-
-Detention orders have been secured against 7 of the drug suspects, while 4 others were referred to rehabilitation centres, the Ministry of Public Security said.
-
-According to the ministry, the narcotics taken into custody during this period include 128g of heroin, 115g of crystal methamphetamine (Ice), 8.6kg of cannabis and 138,676 cannabis plants.
-
-Over 57,000 suspects and narcotics worth more than Rs. 7.7 billion have been arrested in less than two months since the launch of the ongoing operation ‘Yukthiya’.
-
-...
-
-[Data](articles/aaafd2dd.json)
-
-[Extended Data](ext_articles/aaafd2dd.ext.json)
-
----
-
-### President arrives in Parliament for ceremonial opening
-
-*2024-02-07 10:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-arrives-in-Parliament-for-ceremonial-opening/108-276496) · `en`
-
-Parliament, Feb. 7 (Daily Mirror)- President Ranil Wickremesinghe arrived at the Parliament Complex for the ceremonial opening of the Fifth Session of the Ninth Parliament today.
-
-The President is scheduled to make the policy statement of the government  at 10.30 a.m.
-
-◼️
-
-[Data](articles/4b228d81.json)
-
-[Extended Data](ext_articles/4b228d81.ext.json)
-
----
-
-### Shot on the tipper
-
-*2024-02-07 10:23:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/டிப்பர்-மீது-துப்பாக்கிச்சூடு/71-332810) · `ta`
-
-A tipper vehicle carrying sand in Budhur area in Jaffna has been fired today (07).
-
-Based on the confidential information available to the Police Intelligence Unit, a tipper vehicle is traveling with illegal sand, the tipper vehicle has been traveled in the Budhur area.
-
-As a result, the tipper driver did not stop the vehicle and the tipper vehicle was fired on the road.
-
-Initial investigations by the police revealed that the driver did not stop the vehicle as the illegal sand was loaded.
-
-Meanwhile, three persons, including a tipper driver and owner, have been arrested and detained at the Achchuveli police station.
-
-◼️
-
-[Data](articles/31c2f1b8.json)
-
-[Extended Data](ext_articles/31c2f1b8.ext.json)
 
 ---

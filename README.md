@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 17:53:01**
+As of **2024-02-07 18:08:16**
 
 ## Newspaper Stats
 
-*Scraped **5,492** Articles*
+*Scraped **5,499** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,124 @@ islandlk | 288
 economynextcom | 290
 dailyftlk | 305
 newsfirstlk | 339
-adalk | 468
-virakesarilk | 665
+adalk | 469
+virakesarilk | 669
 adaderanalk | 680
 tamilmirrorlk | 685
-adaderanasinhalalk | 713
-dailymirrorlk | 777
+adaderanasinhalalk | 714
+dailymirrorlk | 778
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,492 (100.0%) of 5,492 articles have been extended.
+5,492 (99.9%) of 5,499 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### குடு ரொஷானும் சகோதரரும் பிணையில் விடுதலை!
+
+*2024-02-07 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175831) · `ta`
+
+வரக்காபொல பிரதேசத்தில் மறைந்திருந்தபோது யுக்திய நடவடிக்கையின் போது கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டிருந்த குடு ரொஷான் மற்றும் அவரது   சகோதரர் ஆகியோர் கடுமையான பிணை நிபந்தனைகளுடன் பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+
+குடு ரொஷானுக்கு 3 கோடி ரூபா ரொக்கப் பிணையாகவும், மற்றைய சந்தேக நபருக்கு 50 இலட்சம் ரூபா ரொக்கப் பிணையாகவும் நீதிமன்றம் நிர்ணயித்து விடுதலை செய்ய உத்தரவிட்டது.
+
+மேலும், குடு ரொஷானுக்கு தலா ஒரு மில்லியன் ரூபா பெறுமதியான 7 சரீரப் பிணைகளும் அவரது சகோதரருக்கு தலா ஒரு மில்லியன் ரூபா பெறுமதியான  நான்கு பிணைகளும்  விதித்து உத்தரவிடப்பட்டது.
+
+◼️
+
+[Data](articles/eaa773ab.json)
+
+---
+
+### விஷவாயுவை சுவாசித்த மீனவர் உயிரிழப்பு : 7 பேர் வைத்தியசாலையில்: அம்பலாங்கொடை மீன்பிடித் துறைமுகத்தில் சம்பவம்!
+
+*2024-02-07 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175828) · `ta`
+
+அம்பலாங்கொடை மீன்பிடித் துறைமுகத்தில் நிறுத்தி வைக்கப்பட்டிருந்த மீன்பிடி படகொன்றின் மீன் சேகரிப்பு தொட்டிக்குள் உருவாகியதாகக் கூறப்படும் விஷ வாயுவைச் சுவாசித்ததில் மீனவர் ஒருவர் உயிரிழந்துள்ளார்.
+
+விஷ வாயுவினால் பாதிக்கப்பட்ட 8  மீனவர்கள்  வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் இவர்களில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/6d46f184.json)
+
+---
+
+### ஜனாதிபதியின் ஆசீர்வாதத்துடன் அனுரகுமார இந்தியா சென்றார் - நீதியமைச்சர்
+
+*2024-02-07 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175827) · `ta`
+
+ஜனாதிபதியின் முழுமையான ஆசீர்வாதத்துடன் தான் தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸாநாயக்க இந்தியாவுக்குச் சென்றுள்ளார். இந்திய  எதிர்ப்பு கொள்கையிலிருந்து விடுபட்டுள்ளமை வரவேற்கத்தக்கது என நீதி,சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர்  விஜயதாஸ ராஜபக்ஷ தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (7) இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரையின் பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸாநாயக்க உட்பட அவரது குழுவினர் ஜனாதிபதியின் முழுமையான ஆசீர்வாதத்துடன் தான் இந்தியாவுக்கு அரசமுறை பயணத்தை மேற்கொண்டுள்ளார்கள். இவர்களுக்குத் தேவையான சகல வசதிகளையும் வழங்குமாறு இந்தியாவில் உள்ள இலங்கை உயர்ஸ்தானிகருக்கு ஆலோசனை வழங்கியுள்ளோம்.
+
+...
+
+[Data](articles/c8619b73.json)
+
+---
+
+### கல்வி நிர்வாகத்தில் அதிகாரிகள் இருக்கின்றபோதிலும் ஓய்வு பெற்றவர்களுக்கு நியமனம் ; இலங்கை ஆசிரியர் சங்கம் குற்றச்சாட்டு
+
+*2024-02-07 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175803) · `ta`
+
+நிர்வாக சேவையில் நூற்றுக்கும் மேற்பட்ட அதிகாரிகளை பணியில் அமர்த்துவதற்கு பதிலாக ஓய்வுபெற்ற அதிகாரிகளுக்கு சேவை நீடிப்பு வழங்கி கல்வியை சீரழித்துள்ளதாக மேல்மாகாண ஆளுநர் மீது குற்றம் சுமத்தப்பட்டுள்ளது.
+
+கல்வி நிர்வாக சேவை பதவிகளுக்கு செயற்படக்கூடிய உத்தியோகத்தர்கள் நியமிக்கப்படவில்லை எனவும், ஓய்வுபெற்ற அதிகாரிகள் மேல் மாகாண கல்வி முறைக்குள் பிரதான பதவிகளில் எவ்வித அடிப்படையும் இன்றி தக்கவைக்கப்பட்டுள்ளதாகவும் இலங்கை ஆசிரியர் சங்கம் தெரிவித்துள்ளது.
+
+இலங்கை கல்வி நிர்வாக சேவையின் தரம் 1 ஓய்வுபெற்ற அதிகாரியான எல்.எச்.டபிள்யூ.ஆர். சில்வா மேல் மாகாண கல்வித் திணைக்களத்தின் பிரதிக் கல்விப் பணிப்பாளர் (கல்வி அபிவிருத்தி) பதவிக்கு ஒரு வருட காலத்திற்கு ஒப்பந்த அடிப்படையில் நியமிக்கப்பட்டுள்ளதாக அந்த சங்கம் சுட்டிக்காட்டியுள்ளது.
+
+மேல்மாகாண கல்வி முறைமையில் கல்வி நிர்வாக சேவையில் தற்போது தரம் 1 அங்கீகரிக்கப்பட்ட உத்தியோகத்தர்களின் எண்ணிக்கை 244 எனவும், தற்போது பதவியில் உள்ள உத்தியோகத்தர்களின் எண்ணிக்கை 408 எனவும் ஆசிரியர் சங்கம் வெளியிட்டுள்ள ஊடக அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/11bb8d00.json)
+
+---
+
+### කුඩු රොෂාන් ට ඇප
+
+*2024-02-07 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193092) · `si`
+
+වරකාපොල ප්‍රදේශයේ සැඟව සිටියදී යුක්තිය මෙහෙයුම අතරතුරදී අත්අඩංගුවට ගෙන රිමාන්ඩ් බන්ධනාගාර ගතකර සිටි ''කුඩු රොෂාන්'' නැමැත්තා සහ ඔහුගේ බාල සොහොයුරා දැඩි ඇප කොන්දේසි පනවා ඇපමත මුදාහැර තිබේ.
+
+එහිදී අධිකරණය විසින්  ''කුඩු රොෂාන්'' නැමැත්තාට මුදලින් රුපියල් කෝටි 3ක ඇපයක් සහ අනෙක් සැකකරුට මුදලින් රුපියල් ලක්ෂ 50ක ඇපයක් ද නියම කර තිබේ.
+
+එසේම ''කුඩු රොෂාන්'' නැමැත්තාට රුපියල් මිලියනය බැගින් වූ ශරීර ඇප 7ක් සහ ඔහුගේ සහෝදරයාට රුපියල් මිලියනය බැගින් වූ ශරීර ඇප 4ක් නියම කර ඇත.
+
+ඇප ලබාගැනීමෙන් අනතුරුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිට ඇඟිලි සළකුණු ලබාදෙන ලෙසටද සැකකරුවන්ට අතිරේක මහෙස්ත්‍රාත්වරයා නියෝග කර තිබේ.
+
+බූස්ස බන්ධනාගාරයේ රඳවා සිටින කුඩු රොෂාන් නැමැත්තා ස්කයිප් තාක්ෂණය ඔස්සේ අධිකරණයට ඉදිරිපත් කෙරුණි.
+
+◼️
+
+[Data](articles/d2dc032c.json)
+
+---
+
+### Kandy requests Nittawela for their games
+
+*2024-02-07 17:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kandy-requests-Nittawela-for-their-games/108-276444) · `en`
+
+Kandy, Feb. 6 (Daily Mirror) - Defending League Champions and biggest crowd puller in local club rugby, Kandy Sports Club, has written to Sri Lanka Rugby (SLR) the governing body, requesting for Nittawela as their venue for Clifford Cup Knock-Out games.
+
+They are awaiting for their reply in order to confirm their participation in the knock-out rugby tournament, which will kick-off shortly after the completion of the League encounters in two weeks.
+
+Secretary of the Kandy SC, Sujeewa Liyanage had written to SLR through an email on 22 January 2024, addressing to the President of SLR, Nalin de Silva which is yet to be responded to.
+
+Liyanage, speaking to Daily Mirror said: “Kandy is the only outstation club playing ‘A’ Division rugby and this Clifford Cup Tournament was kept in outstation some time back.”
+
+...
+
+[Data](articles/4827ffcb.json)
+
+---
 
 ### Plantation administration that has not sent the Central Bank to the Central Bank for 4 years;Talawakelle - Holrem estate workers demonstration
 
@@ -631,6 +733,18 @@ Investigations were initiated into the matter by the special investigation unit 
 [Data](articles/6716ff83.json)
 
 [Extended Data](ext_articles/6716ff83.ext.json)
+
+---
+
+### අනුර ඉන්දීය විදේශ ලේකම් හමුවෙයි
+
+*2024-02-07 14:58:25* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-ඉන්දීය-විදේශ-ලේකම්-හමුවෙයි/11-407952) · `si`
+
+ඉන්දීය රජයේ නිල ආරාධනාවක් අනුව ඉන්දියාවේ සංචාරයක නිරත වූ ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා ඇතුළු දූත පිරිස ඉන්දීය විදේශ කටයුතු ලේකම් විනෝ මෝහන් මහතා හමුවී තිබේ.
+
+◼️
+
+[Data](articles/1aae313c.json)
 
 ---
 
@@ -1937,147 +2051,5 @@ He has been appointed commander of the Sri Lanka Navy since January 1, 2001, due
 [Data](articles/cf840f84.json)
 
 [Extended Data](ext_articles/cf840f84.ext.json)
-
----
-
-### Overcoming crisis should be started - President
-
-*2024-02-07 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193072) · `si`
-
-At the end of 2022 0, the primary deficit, which was 3.7% of GDP, was able to make a five-year budget surplus of the year 2023.
-
-This is the 6th occasion that Sri Lanka has been able to develop a primary budget excess in 76 years since independence.
-
-President Ranil Wickremesinghe was speaking at the second term of the 5th Committee of Parliament today (07).
-
-"Overcoming the crises should begin from himself. If we do not have been right in the right, there is no under the country. If we did not change, we can change our way. "
-
-"Today the value of today is Rs 314. Now the interest rate is 12%. Now our foreign reserves are $ 4.4 billion. "
-
-"Since the country can achieve a distinctive victory in comparison to other countries. Because it followed a subtle economic policy. "
-
-"We did not conceal any steps. I didn't get the decisive of political advantage. The right policies were implemented for the country. "
-
-...
-
-[Data](articles/53b2fc02.json)
-
-[Extended Data](ext_articles/53b2fc02.ext.json)
-
----
-
-### Tipper vehicle firing in Jaffna;Three arrests
-
-*2024-02-07 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175769) · `ta`
-
-A tipper vehicle carrying sand in Budhur area in Jaffna has been fired on Wednesday (07).
-
-Based on the confidential information available to the Police Intelligence Unit, a tipper vehicle is traveling with illegal sand, the tipper vehicle has been traveled in the Budhur area.
-
-At the time, the police fired at the vehicle as the driver of the driver did not stop the vehicle. So the tipper vehicle fell on the street.
-
-Initial investigations by the police revealed that the driver was not parked due to illegal sand.
-
-Meanwhile, three persons, including the driver of the tipper driver and the owner, have been arrested and detained at the Achchuveli police station.
-
-◼️
-
-[Data](articles/791bf857.json)
-
-[Extended Data](ext_articles/791bf857.ext.json)
-
----
-
-### CBK Back in Politics: Leads Broad Alliance for Upcoming Elections
-
-*2024-02-07 11:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/cbk-back-in-politics-leads-broad-alliance-for-upcoming-elections/) · `en`
-
-COLOMBO (News 1st); Former Sri Lankan President Chandrika Bandaranaike Kumaratunga was appointed as the head of the Podujana Eksatha Peramuna's (PA) leadership council.
-
-The decision, announced by SLFP media spokesperson Thisara Gunasinghe, follows an executive council meeting held to amend the Podujana Eksatha Peramuna's constitution on Tuesday (6).
-
-The constitution of the Podujana Eksath Peramuna or the People's Alliance was amended, allowing the Sri Lanka Freedom Party to contest the upcoming elections as a broader alliance under the symbol of the Chair.
-
-The SLFP will hold a significant role within the Podujana Eksatha Peramuna, securing 25% representation on the leadership board and 50% power in the working committee under the amended constitution.
-
-Gunasinghe further announced plans to appoint new office bearers for the Podujana Eksatha Peramuna.
-
-A new party secretary will be selected on the 22nd of February.
-
-Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
-
-◼️
-
-[Data](articles/ae6f9ec7.json)
-
-[Extended Data](ext_articles/ae6f9ec7.ext.json)
-
----
-
-### Father arrested for attacking children: Video
-
-*2024-02-07 10:56:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளைகளை-தாக்கி-வீடியோ-வெளியிட்ட-தந்தை-கைது-காணொளி/175-332816) · `ta`
-
-Anandasiri, Chief Inspector of the Timbulla Pathana Police Station, said that a father who brutally assaulted his two children and posted a video on social media.
-
-The 33 -year -old man who lives in his wife's home in the Dimbulla Pathana Police Division has attacked two children aged 09 and 05 on Monday (05), the Commander of the Police Station said.
-
-Preliminary investigations revealed that the mother's mother is outdoors and that the children are under the care of the grandmother and are working at the children's car cleaning center in Colombo.
-
-◼️
-
-[Data](articles/32a30ec1.json)
-
-[Extended Data](ext_articles/32a30ec1.ext.json)
-
----
-
-### Father arrested for attacking children
-
-*2024-02-07 10:56:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளைகளை-தாக்கி-வீடியோ-வெளியிட்ட-தந்தை-கைது/175-332816) · `ta`
-
-Anandasiri, Chief Inspector of the Timbula Pathana Police Station, said that a father who brutally assaulted his two children and posted a video on social media.
-
-The 33 -year -old man who lives in his wife's home in the Dimbula Pathana Police Division has attacked two children aged 09 and 05 on Monday (05), the Commander of the Police Station said.
-
-Preliminary investigations revealed that the mother's mother is outdoors and that the children are under the care of the grandmother and are working at the children's car cleaning center in Colombo.
-
-◼️
-
-[Data](articles/3604c60d.json)
-
-[Extended Data](ext_articles/3604c60d.ext.json)
-
----
-
-### Video arrested for attacking children
-
-*2024-02-07 10:56:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளைகளை-தாக்கி-வீடியோ-வெளியிட்டதந்தை-கைது/175-332816) · `ta`
-
-Anandasiri, Chief Inspector of the Timbula Pathana Police Station, said that a father who brutally assaulted his two children and posted a video on social media.
-
-The 33 -year -old man who lives in his wife's home in the Dimbula Pathana Police Division has attacked two children aged 09 and 05 on Monday (05), the Commander of the Police Station.
-
-Preliminary investigations revealed that the mother's mother is outdoors and that the children are under the care of the grandmother and are working at the children's car cleaning center in Colombo.
-
-◼️
-
-[Data](articles/f28c151c.json)
-
-[Extended Data](ext_articles/f28c151c.ext.json)
-
----
-
-### Take Immediate Steps To Repeal Online Safety Act: CPA
-
-*2024-02-07 10:54:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/take-immediate-steps-to-repeal-online-safety-act-cpa/) · `en`
-
-The Centre for Policy Alternatives (CPA) is concerned with the process followed in enacting the Online Safety Act (OSA). It raises serious questions in terms of law-making and its impact on constitutional democracy in Sri Lanka. CPA has previously raised these issues but notes with disappointment the continued practice. The process of drafting the OSA was shrouded in secrecy. The rushed manner of its passage raises questions as to the intentions of the Government in enacting a law that has significant implications for fundamental rights and the rule of law in Sri Lanka. CPA has previously commented on the substance and process followed with the Bill and challenged its constitutionality. In light of recent events surrounding the enactment of the OSA, CPA condemns the enactment of such a draconian law that can further limit freedom of speech and the right to dissent.
-
-...
-
-[Data](articles/7e870f80.json)
-
-[Extended Data](ext_articles/7e870f80.ext.json)
 
 ---

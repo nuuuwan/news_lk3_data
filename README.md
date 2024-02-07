@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 17:33:19**
+As of **2024-02-07 17:53:01**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 777
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,488 (99.9%) of 5,492 articles have been extended.
+5,492 (100.0%) of 5,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### 4 வருடங்களாக சேமநல நிதியத்தினை மத்திய வங்கிக்கு அனுப்பி வைக்காத தோட்ட நிர்வாகம் ; தலவாக்கலை - ஹோல்றீம் தோட்டத் தொழிலாளர்கள் ஆர்ப்பாட்டம்
+### Plantation administration that has not sent the Central Bank to the Central Bank for 4 years;Talawakelle - Holrem estate workers demonstration
 
 *2024-02-07 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175816) · `ta`
 
-தலவாக்கலை லிந்துலை ஹோல்றீம் தோட்டத்தின் கொணன் மற்றும் ஹோல்றீம் ஆகிய தோட்டங்களை சேர்ந்த 500 இற்கு மேற்பட்ட தொழிலாளர்களின் மாதாந்த சம்பளத்தில் அறவிடப்படும் ஊழியர் சேமநல நிதியத்தினை கடந்த 4 வருட காலமாக மத்திய வங்கிக்கு தோட்ட நிர்வாகம் அனுப்பி வைக்காத  காரணத்தினால்  இன்று புதன்கிழமை (07)  தொழிலாளர்கள் தேயிலை தொழிற்சாலைக்கு முன்பாக கவனயீர்ப்பு ஆர்ப்பாட்டத்தினை முன்னெடுத்தனர்.
+Workers staged a protest demonstration on Wednesday (07) as the plantation administration has not sent the Central Bank to the Central Bank for the past four years as the Employees' Welfare Fund has not been sent to the Central Bank for the past four years.
 
-இதில் 500க்கும் மேற்பட்ட தொழிலாளர்கள் பங்கேற்றனர். தொழிற்சாலைக்கு முன்பாக அமர்ந்து தங்களின் எதிர்ப்பு நடவடிக்கை முன்னெடுத்தமை குறிப்பிடத்தக்கதாகும்.
+More than 500 workers participated in this. Significantly, they are sitting in front of the factory and carrying out their opposition.
 
-தமது சம்பளத்திலிருந்து மாதாந்தம் அறவிடப்படும் நிதி இதுவரை மத்திய வங்கிக்கு அனுப்பி வைக்கப்படவில்லை என தோட்ட தொழிலாளர்கள் தெரிவித்தனர்.
+Plantation workers said the funds that were levied monthly from their salary had not yet been sent to the Central Bank.
 
-மேலும், தோட்ட அதிகாரிகள் இதனை கவனம் செலுத்தாமல் தொழிலாளர்களை மக்கள் ஏமாற்றியதாக குறிப்பிட்டதோடு உடனடியாக தமது கட்டணத்தை தோட்ட நிர்வாகம் உரிய திணைக்களத்துக்கு அனுப்பி அதற்கான ரசீதுகளை தமக்கு வழங்க வேண்டுமென போராட்டத்தில்  ஈடுபட்டவர்கள் தெரிவித்தனர்.
+In addition, the plantation officials noted that the workers had deceived the workers without paying attention to this and the protesters immediately sent their fees to the relevant department and gave them receipt.
 
 ◼️
 
 [Data](articles/c998e14e.json)
+
+[Extended Data](ext_articles/c998e14e.ext.json)
 
 ---
 
@@ -66,21 +68,23 @@ The seven other fishermen are currently receiving treatment at the Balapitiya Ho
 
 ---
 
-### பெருந்தோட்டத்துறைக்கு காணி உறுதி வழங்கவும்
+### Provide land to the plantation sector
 
 *2024-02-07 16:53:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பெருந்தோட்டத்துறைக்கு-காணி-உறுதி-வழங்கவும்/76-332845) · `ta`
 
-காணி உறுதிப் பத்திரம் வழங்கும் நடவடிக்கைகள் அரசாங்கத்தினால் தேசிய மட்டத்தில் முன்னெடுக்கப்பட்டுள்ள நிலையில் பெருந்தோட்டத்துறை மக்களுக்கும் அது வழங்கப்பட வேண்டும் என்பதை  தாம் ஜனாதிபதியின் கவனத்திற்கு கொண்டு வந்துள்ளதாக ஜனாதிபதியின் மலையக பெருந்தோட்டத்துறை அபிவிருத்தி தொடர்பான சிரேஷ்ட ஆலோசகர் பாராளுமன்ற உறுப்பினர் வடிவேல் சுரேஷ் தெரிவித்தார்.
+Vadivel Suresh, a senior adviser to the president's mountain plantation development, said that he had brought to the notice of the president that the land was being issued by the government at the national level.
 
-ஜனாதிபதியினால் பாராளுமன்றத்தில் புதன்கிழமை (07) நிகழ்த்தப்பட்ட கொள்கை விளக்க உரை தொடர்பில் கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+He said this while commenting on the policy speech made by the President in Parliament on Wednesday (07).
 
-அது தொடர்பில் காணியமைச்சர் ஹரீன் பெர்னாண்டோவுடனும் தாம் கலந்துரையாடியுள்ளதாக தெரிவித்த அவர், அடுத்த கட்ட நடவடிக்கையாக அது விடயத்தில் கவனம் செலுத்தப்படும் என அவர் தமக்கு உறுதியளித்ததாகவும் குறிப்பிட்டார்.
+He said he had also discussed with Land Minister Harin Fernando in this regard and that he assured him that the next step would be focused on the matter.
 
-அத்துடன் அரசாங்கத்திற்கு சொந்தமான தோட்டநிறுவனங்களின் காணிகள் பகிர்ந்தளிக்கப்படும் போது காலம் காலமாக மலையகத்தில் வாழ்ந்து வரும் பெருந்தோட்ட தொழிலாளர்களின்  காணிகளை அவர்களுக்கு வழங்கிவிட்டு அதன் பின்னர் ஏனைய பகிர்ந்தளிப்பு தொடர்பில் அரசாங்கம் கவனம் செலுத்த வேண்டும் என்றும் அவர் கேட்டுக் கொண்டார்.
+He also urged the government to provide them with the land of plantation workers who live in the hill country for a long time and then focus on other distribution when the land of government -owned plantation companies was distributed.
 
 ◼️
 
 [Data](articles/4a4d831f.json)
+
+[Extended Data](ext_articles/4a4d831f.ext.json)
 
 ---
 
@@ -2073,5 +2077,7 @@ The Centre for Policy Alternatives (CPA) is concerned with the process followed 
 ...
 
 [Data](articles/7e870f80.json)
+
+[Extended Data](ext_articles/7e870f80.ext.json)
 
 ---

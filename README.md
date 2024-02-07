@@ -1,36 +1,178 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 10:50:30**
+As of **2024-02-07 11:02:16**
 
 ## Newspaper Stats
 
-*Scraped **5,366** Articles*
+*Scraped **5,377** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 62
 bbccomsinhala | 76
 dbsjeyarajcom | 140
-economynextcom | 279
+economynextcom | 281
 islandlk | 288
 dailyftlk | 305
 newsfirstlk | 331
 adalk | 454
-virakesarilk | 644
-adaderanalk | 663
+virakesarilk | 646
+adaderanalk | 667
 tamilmirrorlk | 667
 adaderanasinhalalk | 694
-dailymirrorlk | 763
+dailymirrorlk | 766
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,366 (100.0%) of 5,366 articles have been extended.
+5,377 (100.0%) of 5,377 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### President Ranil delivers government’s policy statement in Parliament
+
+*2024-02-07 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97074/president-ranil-delivers-governments-policy-statement-in-parliament) · `en`
+
+President Ranil Wickremesinghe is delivering the government’s policy statement in the Parliament. He ceremonially declared open the Fifth Session of the Ninth Parliament this morning (Feb.07).
+
+◼️
+
+[Data](articles/1da2360e.json)
+
+[Extended Data](ext_articles/1da2360e.ext.json)
+
+---
+
+### The launch of the new parliamentary session in simple
+
+*2024-02-07 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175767) · `ta`
+
+The fifth session of the ninth parliament was inaugurated on Wednesday morning (07) under the leadership of the President.
+
+◼️
+
+[Data](articles/c99b7126.json)
+
+[Extended Data](ext_articles/c99b7126.ext.json)
+
+---
+
+### Sri Lanka textile and apparel roadshow to be held in London
+
+*2024-02-07 10:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-textile-and-apparel-roadshow-to-be-held-in-london-150125/) · `en`
+
+ECONOMYNEXT – Sourced Sri Lanka – Textile and Apparel Roadshow, an export promotion program in London, is expected to be attended by 50 Sri Lankan exhibitors and attract thousands of foreign buyers and trade visitors.
+
+The exhibition is scheduled to be held in June and has been organised by the Sri Lanka Export Development Board (EDB), Sri Lanka Apparel Sourcing Association (SLASA), Sri Lanka High Commission in UK, and the Joint Apparel Association Forum (JAAF).
+
+The objective of the exhibition is to “support apparel exporters in establishing business connections with UK buyers and expanding exports to the UK through the UK Developing Countries Trading Scheme (DCTS) and expand the Sri Lanka apparel exports share to the UK,” SLASA said in a statement.
+
+“Additionally, the aim is to showcase Sri Lanka as a responsible apparel manufacturing destination in Asia, fostering awareness among UK-based buyers.”
+
+...
+
+[Data](articles/efd9329d.json)
+
+[Extended Data](ext_articles/efd9329d.ext.json)
+
+---
+
+### 785 more suspects arrested, drugs seized under Operation ‘Yukthiya’
+
+*2024-02-07 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97073/785-more-suspects-arrested-drugs-seized-under-operation-yukthiya) · `en`
+
+Another 785 suspects have been arrested by Sri Lanka’s police and security forces personnel within 24 hours which ended at 12.30 a.m. today (Feb.07). The arrests were made as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+Among the arrestees are 596 suspects who were taken into custody on narcotics-related charges and 189 others who were on the list of wanted criminal suspects.
+
+Detention orders have been secured against 7 of the drug suspects, while 4 others were referred to rehabilitation centres, the Ministry of Public Security said.
+
+According to the ministry, the narcotics taken into custody during this period include 128g of heroin, 115g of crystal methamphetamine (Ice), 8.6kg of cannabis and 138,676 cannabis plants.
+
+Over 57,000 suspects and narcotics worth more than Rs. 7.7 billion have been arrested in less than two months since the launch of the ongoing operation ‘Yukthiya’.
+
+...
+
+[Data](articles/aaafd2dd.json)
+
+[Extended Data](ext_articles/aaafd2dd.ext.json)
+
+---
+
+### President arrives in Parliament for ceremonial opening
+
+*2024-02-07 10:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-arrives-in-Parliament-for-ceremonial-opening/108-276496) · `en`
+
+Parliament, Feb. 7 (Daily Mirror)- President Ranil Wickremesinghe arrived at the Parliament Complex for the ceremonial opening of the Fifth Session of the Ninth Parliament today.
+
+The President is scheduled to make the policy statement of the government  at 10.30 a.m.
+
+◼️
+
+[Data](articles/4b228d81.json)
+
+[Extended Data](ext_articles/4b228d81.ext.json)
+
+---
+
+### 06 Indian fishermen released
+
+*2024-02-07 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175766) · `ta`
+
+Yall. Six Indian fishermen arrested in the Neduntivu Sea were released by the Kayts Court on Tuesday (06).
+
+On the 23rd of last month, six people were arrested by the Marines and three people in two boats.
+
+The case was taken up in Kayts court. Three accusations were filed against six fishermen by the Department of Aquatic Resources.
+
+Kayts court judge J. Gajanidipalan postponed the three -month prison sentence for three accusations after fishermen pleaded guilty.. Two boats have been nationalized because of the boat owners and the boat.
+
+◼️
+
+[Data](articles/c89192f3.json)
+
+[Extended Data](ext_articles/c89192f3.ext.json)
+
+---
+
+### Inauguration of Fifth Session of Ninth Parliament
+
+*2024-02-07 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97072/inauguration-of-fifth-session-of-ninthparliament) · `en`
+
+President Ranil Wickremesinghe arrived at the Parliament Complex a short while ago for the ceremonial inauguration of the Fifth Session of Ninth Parliament today (Feb 07).
+
+Prime Minister Dinesh Gunawardena and Speaker Mahinda Yapa Abeywardena the Parliament complex before the Head of State graced the event.
+
+The President is scheduled to address the House at 10.30 a.m. and present the government’s policy statement during the new parliamentary session.
+
+Sri Lanka Parliament was prorogued with effect from midnight on 26 January, marking the closure of the Fourth Session of the Ninth Parliament.
+
+When a new session is kicked off, the President presides over the ceremonial opening of the Parliament and presents the government’s policy statement. In the past, the policy statement was referred to as the Throne Speech and was presented by the Governor.
+
+◼️
+
+[Data](articles/4a575867.json)
+
+[Extended Data](ext_articles/4a575867.ext.json)
+
+---
+
+### Former Navy Commander Daya Sandagiri joins SJB
+
+*2024-02-07 10:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Navy-Commander-Daya-Sandagiri-joins-SJB/108-276495) · `en`
+
+Former Sri Lanka Navy Commander Daya Sandagiri obtained membership of the Samagi Jana Balawegaya (SJB) from party leader Sajith Premadasa a shortwhile ago.
+
+◼️
+
+[Data](articles/bda2fe01.json)
+
+[Extended Data](ext_articles/bda2fe01.ext.json)
+
+---
 
 ### President arrives in Parliament
 
@@ -67,6 +209,22 @@ Opposition Leader Sajith Premadasa has been appointed as a consultant on the Mar
 [Data](articles/771de21a.json)
 
 [Extended Data](ext_articles/771de21a.ext.json)
+
+---
+
+### Former Navy Commander Daya Sandagiri joins SJB
+
+*2024-02-07 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97071/former-navy-commander-daya-sandagiri-joins-sjb-) · `en`
+
+The 14th Commander of Sri Lanka Navy and former Chief of Defence Staff, Daya Sandagiri has joined the Samagi Jana Balawegaya (SJB).
+
+He was also appointed as an advisor on maritime and naval policies of the SJB, due to his expertise.
+
+◼️
+
+[Data](articles/c0a31a8b.json)
+
+[Extended Data](ext_articles/c0a31a8b.ext.json)
 
 ---
 
@@ -428,6 +586,28 @@ The Hon.
 
 ---
 
+### Sri Lanka banking system collects reserves or repays debt of U$5bn since rate correction
+
+*2024-02-07 08:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-banking-system-collects-reserves-or-repays-debt-of-u5bn-since-rate-correction-150145/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s banking system has collected foreign reserves or repaid borrowings of 5.0 billion US dollars since the central bank allowed interest rates to correct in April 2022, official data shows.
+
+The central bank has collected reserves or repaid debt of 1.69 billion US dollars since April 2022.
+
+Meanwhile commercial banks have collected about 3.2 billion US dollars or repaid maturing credit lines in the period.
+
+Large volumes of the collected cash are lying in various NOSTRO accounts, preventing a Lebanon style default on private forex bank accounts, preventing any loss of confidence, a run on bank dollar accounts and keeping the net open positions in balance.
+
+Under Governor Nandalal Weerasinghe, banking stability has given first place, with reserve sales in September to support banks in a domestic dollar debt restructuring, according to observers.
+
+...
+
+[Data](articles/fd8c5c6a.json)
+
+[Extended Data](ext_articles/fd8c5c6a.ext.json)
+
+---
+
 ### JJB delegation to meet Chief Minister of Gujarat
 
 *2024-02-07 07:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/jjb-delegation-to-meet-chief-minister-of-gujarat/) · `en`
@@ -537,6 +717,22 @@ It is reported that the group will then travel to Kerala, the Indian state ruled
 [Data](articles/e97cdeb5.json)
 
 [Extended Data](ext_articles/e97cdeb5.ext.json)
+
+---
+
+### Keheliya refuses to attend today’s parliament session
+
+*2024-02-07 07:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Keheliya-refuses-to-attend-todays-parliament-session/155-276487) · `en`
+
+Colombo, Feb 7 (Daily Mirror) - Former Minister Keheliya Rambukwella, who was remanded till February 15 over the controversial human immunoglobulin procurement scandal, has been granted permission to attend today's Parliamentary session, the Prisons spokesman said.
+
+However, MP Rambukwella has informed the prison authorities that he will not attend today’s session.
+
+◼️
+
+[Data](articles/5e86c2d6.json)
+
+[Extended Data](ext_articles/5e86c2d6.ext.json)
 
 ---
 
@@ -1795,245 +1991,5 @@ It is not a beneficial tactic to dismantle the legislation or undermine its cred
 [Data](articles/4354865f.json)
 
 [Extended Data](ext_articles/4354865f.ext.json)
-
----
-
-### The runners up when the badminton national champion went to Asian Games
-
-*2024-02-06 21:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193059) · `si`
-
-The Colombo Chief Magistrate's Court has ordered the Chairman of the Sri Lanka Badminton Federation.
-
-The Badminton national champion was to take part in the 2023 Asian Games.
-
-A team of 97 athletes representing Sri Lanka in 2023, one badminton was included in the Asian Games in China.
-
-Runner Religion, River, Inspiroller, Badminton national champion, Badminton national champion.
-
-The mother of Buhuka Gunatilleke was a complaint with Mrs. Duwaka Gunatilleke, the mother of Duwaka Gunatilleke, regarding the injustice of his son.
-
-A report on the progress of those investigations was submitted by the Chief of Police Jayanath Wanasinghe.
-
-The runners-up of Badminton National Championship, the 2021, 2022 and 2023, won the Badminton National Championship.
-
-Chief Inspector Vidanage of the Union requested the court to issue an order to investigate the incident.
-
-After considering the facts, the Colombo Chief Magistrate Prasanna Alwis, Sri Lanka Badminton Federation, has ordered to support the investigation.
-
-◼️
-
-[Data](articles/e8123282.json)
-
-[Extended Data](ext_articles/e8123282.ext.json)
-
----
-
-### Sri Lankan Catholic church to begin canonization process for hundreds killed in Easter attacks
-
-*2024-02-06 21:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97062/sri-lankan-catholic-church-to-begin-canonization-process-for-hundreds-killed-in-easter-attacks) · `en`
-
-The Archdiocese of Colombo, Sri Lanka, is set to begin the canonization process for the hundreds of faithful killed in the 2019 Easter Sunday terrorist attack in the country, an archdiocesan official confirmed with CNA.
-
-Fr. Joy Indika Perera, a representative for Cardinal Malcolm Ranjith of Colombo, told CNA in an email last week that the archdiocese plans to submit a petition to the Vatican to declare those killed in the Easter Sunday attacks “martyrs of faith.”
-
-Fr. Perera said the archdiocese will be submitting the petition on April 21, exactly five years after the attacks took place. That is the minimum amount of time required by the Church to open a person’s canonization cause.
-
-The petition will be submitted to the Vatican’s Dicastery for the Causes of Saints.
-
-Eight suicide bombers targeted two Catholic churches, one evangelical church, three luxury hotels, and other locations on April 19, 2019, killing an estimated 269 people and injuring more than 500.
-
-...
-
-[Data](articles/1d12341e.json)
-
-[Extended Data](ext_articles/1d12341e.ext.json)
-
----
-
-### Sri Lankan church to begin canonization process for hundreds killed in Easter attacks
-
-*2024-02-06 21:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97062/sri-lankan-church-to-begin-canonization-process-for-hundreds-killed-in-easter-attacks) · `en`
-
-The Archdiocese of Colombo, Sri Lanka, is set to begin the canonization process for the hundreds of faithful killed in the 2019 Easter Sunday terrorist attack in the country, an archdiocesan official confirmed with CNA.
-
-Fr. Joy Indika Perera, a representative for Cardinal Malcolm Ranjith of Colombo, told CNA in an email last week that the archdiocese plans to submit a petition to the Vatican to declare those killed in the Easter Sunday attacks “martyrs of faith.”
-
-Fr. Perera said the archdiocese will be submitting the petition on April 21, exactly five years after the attacks took place. That is the minimum amount of time required by the Church to open a person’s canonization cause.
-
-The petition will be submitted to the Vatican’s Dicastery for the Causes of Saints.
-
-Eight suicide bombers targeted two Catholic churches, one evangelical church, three luxury hotels, and other locations on April 19, 2019, killing an estimated 269 people and injuring more than 500.
-
-...
-
-[Data](articles/5cba8ff1.json)
-
-[Extended Data](ext_articles/5cba8ff1.ext.json)
-
----
-
-### Speaker allowed Keheliya to attend parliamentary session
-
-*2024-02-06 21:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175746) · `ta`
-
-Speaker Mahinda Yapa Abeywardena has granted permission to Member of Parliament Keheliya Rambukwella, who has been interrogated to participate in the new session of Parliament on Wednesday (7).
-
-The Speaker has granted this permission on a request made by a secretary to allow Rambukwella to attend parliamentary meetings.
-
-Accordingly, the Commissioner General of Prisons has written in writing to bring Keheliya Rambukwella to Parliament.
-
-◼️
-
-[Data](articles/4155c0c0.json)
-
-[Extended Data](ext_articles/4155c0c0.ext.json)
-
----
-
-### Concerns sparked over provision of outside food for Keheliya
-
-*2024-02-06 21:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Concerns-sparked-over-provision-of-outside-food-for-Keheliya/108-276450) · `en`
-
-Colombo, Feb 6 (Daily Mirror) - Speculations have arisen regarding the provision of outside food exclusively for former Minister Keheliya Rambukwella during his detention, prompting clarification from the Prisons Department.
-
-Prison Media Spokesman, Gamini B. Dissanayake, addressed the matter, confirming that a formal written request was submitted to the Welikada Superintendent regarding the supply of external food for the former Minister.
-
-Subsequently, approval was granted, contingent upon recommendations from medical units.
-
-Emphasizing adherence to established protocols, Dissanayake highlighted the procedural steps required for providing external food.
-
-Accordingly, personal contact between outsiders and detainees during food delivery is prohibited. In addition, only food items are permitted, while other materials are prohibited with all the three meals should be provided.
-
-He proceeded to say that such requests from any detainee is considered based on reasonable grounds and medical advice.
-
-...
-
-[Data](articles/8c4e6b26.json)
-
-[Extended Data](ext_articles/8c4e6b26.ext.json)
-
----
-
-### An unidentified bodies of Wadduwa
-
-*2024-02-06 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193058) · `si`
-
-A unidentified body has been found in the Wadduwa beach area.
-
-Wadduwa Police said that the body was found in the near seashore area near the Wadduwa Railway Station this afternoon.
-
-The victim is suspected to be between 40 and 50 years old.
-
-The body has been taken to the Panadura Base Hospital following preliminary investigations.
-
-◼️
-
-[Data](articles/5f06812b.json)
-
-[Extended Data](ext_articles/5f06812b.ext.json)
-
----
-
-### Caretaker CM Punjab Mohsin Naqvi appointed Chairman PCB
-
-*2024-02-06 21:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Caretaker-CM-Punjab-Mohsin-Naqvi-appointed-Chairman-PCB/108-276446) · `en`
-
-Feb. 6 (cricketpakistan) - Mohsin Naqvi's candidacy was put forward by the Patron PCB, caretaker Prime Minister Anwarul Haq Kakar, alongside Mustafa Ramdey
-
-Caretaker Chief Minister (CM) Punjab Mohsin Naqvi has been elected as the new chairman of the Pakistan Cricket Board (PCB) management committee unopposed.
-
-With the backing of ten members of the board of governors at the National Cricket Academy Lahore, Mohsin Naqvi's leadership has been ratified for the forthcoming three years.
-
-Naqvi's candidacy was put forward by the Patron PCB, caretaker Prime Minister Anwarul Haq Kakar, alongside Mustafa Ramdey, for the Board of Governors established under the 2014 constitution.
-
-The inclusion of representatives from various regions and departments, including Azad Jammu Kamshir, Larkana, Dera Murad Jamali, Bahawalpur, PTV, State Bank, Sui Gas, and Ghani Glass, highlights the diverse composition of the board.
-
-...
-
-[Data](articles/7b8a68df.json)
-
-[Extended Data](ext_articles/7b8a68df.ext.json)
-
----
-
-### Court judgment of Donald Trump
-
-*2024-02-06 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193057) · `si`
-
-Former US President of the US President Donald Trump has a serious form of a court.
-
-It is in the verdict that former American President does not have the president of Donald Trump.
-
-Accordingly, it is possible that former American President can be prosecuted for the allegations of conspiracy to cancel the 2020 election.
-
-◼️
-
-[Data](articles/5cf75d02.json)
-
-[Extended Data](ext_articles/5cf75d02.ext.json)
-
----
-
-### 2020 may be sued by Trump for attempting to change the election results - US court's main verdict
-
-*2024-02-06 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175743) · `ta`
-
-The US court has said that it may sue on the allegations of conspiring to change the 2020 presidential election against former US President Donald Trump.
-
-The court has issued this ruling in a historic case that Trump has filed a historic case that he cannot impose criminal charges against him for his actions during his tenure as president.
-
-It is noteworthy that the verdict was a setback for Trump, who claimed that he had no freedom in many cases.
-
-It is noteworthy that if the former president appeals against the ruling, the issue will go to the Supreme Court of the United States - the conservative dominance among the Supreme Court judges.
-
-◼️
-
-[Data](articles/86ea29b1.json)
-
-[Extended Data](ext_articles/86ea29b1.ext.json)
-
----
-
-### I am the mother of cannabis baby: Diana
-
-*2024-02-06 21:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/I-am-the-mother-of-cannabis-baby-Diana/108-276447) · `en`
-
-Colombo, Feb 06 (Daily Mirror) -  Criticizing State Minister of Indigenous Medicine Sisira Jayakody whom she said had falsely claimed that he had submitted papers to the cabinet to seek approval for getting foreign investors for cannabis plantation, State Minister Diana Gamage said she is the mother of the cannabis baby.
-
-“I am not disappointed at all with the cabinet’s move to reject the proposal to get foreign investors to grow cannabis in Sri Lanka. The whole world knows I am the one who initiated it and got it passed through in parliament. Sisira Jayakody opposed it from the beginning. There are TV interviews where he criticized me. There will be lots of fathers for my cannabis baby but they will have to remember I am the baby's mother,” Ms. Gamage told Daily Mirror.
-
-...
-
-[Data](articles/5603019a.json)
-
-[Extended Data](ext_articles/5603019a.ext.json)
-
----
-
-### Donald Trump does not have presidential immunity, US court rules
-
-*2024-02-06 20:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97060/donald-trump-does-not-have-presidential-immunity-us-court-rules) · `en`
-
-Donald Trump does not have presidential immunity and can be prosecuted on charges of plotting to overturn the 2020 election, a US court has ruled.
-
-Mr Trump had claimed in the landmark legal case that he was immune from criminal charges for acts he said fell within his duties as president.
-
-But Tuesday’s ruling in Washington DC struck down that claim.
-
-It is a setback for Mr Trump who has for years cited presidential immunity while battling multiple cases.
-
-The former president is expected to appeal against the ruling, meaning the case could ultimately go to the Supreme Court where conservatives hold a 6-3 majority.
-
-US Special Counsel Jack Smith has charged Mr Trump, 77, with conspiring to overturn Joe Biden’s victory in the 2020 election and committing fraud to stay in office.
-
-The trial in that case was initially scheduled for 4 March, but was postponed pending a ruling on the immunity claim.
-
-It could be delayed for weeks, if not months, if the case ends up before the Supreme Court.
-
-...
-
-[Data](articles/e3020d88.json)
-
-[Extended Data](ext_articles/e3020d88.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 18:08:16**
+As of **2024-02-07 18:20:06**
 
 ## Newspaper Stats
 
@@ -26,93 +26,105 @@ dailymirrorlk | 778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,492 (99.9%) of 5,499 articles have been extended.
+5,499 (100.0%) of 5,499 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### குடு ரொஷானும் சகோதரரும் பிணையில் விடுதலை!
+### Kudu Roshan and Brother released on bail
 
 *2024-02-07 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175831) · `ta`
 
-வரக்காபொல பிரதேசத்தில் மறைந்திருந்தபோது யுக்திய நடவடிக்கையின் போது கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டிருந்த குடு ரொஷான் மற்றும் அவரது   சகோதரர் ஆகியோர் கடுமையான பிணை நிபந்தனைகளுடன் பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+Gudu Roshan and his brother, who were arrested and interrogated during a strategy during the Varakapola area, have been released on bail with strict bail conditions.
 
-குடு ரொஷானுக்கு 3 கோடி ரூபா ரொக்கப் பிணையாகவும், மற்றைய சந்தேக நபருக்கு 50 இலட்சம் ரூபா ரொக்கப் பிணையாகவும் நீதிமன்றம் நிர்ணயித்து விடுதலை செய்ய உத்தரவிட்டது.
+The court ordered the release of Kudu Roshan as a cash bail of Rs 3 crore and the other suspect was a cash bail of Rs 50 lakh.
 
-மேலும், குடு ரொஷானுக்கு தலா ஒரு மில்லியன் ரூபா பெறுமதியான 7 சரீரப் பிணைகளும் அவரது சகோதரருக்கு தலா ஒரு மில்லியன் ரூபா பெறுமதியான  நான்கு பிணைகளும்  விதித்து உத்தரவிடப்பட்டது.
+In addition, Gudu Roshan was ordered to impose 7 bail of Rs.
 
 ◼️
 
 [Data](articles/eaa773ab.json)
 
+[Extended Data](ext_articles/eaa773ab.ext.json)
+
 ---
 
-### விஷவாயுவை சுவாசித்த மீனவர் உயிரிழப்பு : 7 பேர் வைத்தியசாலையில்: அம்பலாங்கொடை மீன்பிடித் துறைமுகத்தில் சம்பவம்!
+### Fisherman's death: 7 people in hospital: Ambalangoda fishing port
 
 *2024-02-07 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175828) · `ta`
 
-அம்பலாங்கொடை மீன்பிடித் துறைமுகத்தில் நிறுத்தி வைக்கப்பட்டிருந்த மீன்பிடி படகொன்றின் மீன் சேகரிப்பு தொட்டிக்குள் உருவாகியதாகக் கூறப்படும் விஷ வாயுவைச் சுவாசித்ததில் மீனவர் ஒருவர் உயிரிழந்துள்ளார்.
+A fisherman has died after breathing poison gas, allegedly formed in a fish collection tank of a fishing boat parked at Ambalangoda fishing harbor.
 
-விஷ வாயுவினால் பாதிக்கப்பட்ட 8  மீனவர்கள்  வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் இவர்களில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Eight fishermen who were affected by poisonous gas were admitted to the hospital, one of them died, police said.
 
 ◼️
 
 [Data](articles/6d46f184.json)
 
+[Extended Data](ext_articles/6d46f184.ext.json)
+
 ---
 
-### ஜனாதிபதியின் ஆசீர்வாதத்துடன் அனுரகுமார இந்தியா சென்றார் - நீதியமைச்சர்
+### Anurakumara went to India with the blessing of the president - Justice Minister
 
 *2024-02-07 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175827) · `ta`
 
-ஜனாதிபதியின் முழுமையான ஆசீர்வாதத்துடன் தான் தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸாநாயக்க இந்தியாவுக்குச் சென்றுள்ளார். இந்திய  எதிர்ப்பு கொள்கையிலிருந்து விடுபட்டுள்ளமை வரவேற்கத்தக்கது என நீதி,சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர்  விஜயதாஸ ராஜபக்ஷ தெரிவித்தார்.
+National People's Power Leader Anura Kumara Dissanayake has visited India with the full blessing of the president. Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapakse said that it is welcome to be free from the anti -Indian policy.
 
-பாராளுமன்றத்தில் புதன்கிழமை (7) இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரையின் பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking to the media after a speech of the President's Policy Declaration held in Parliament on Wednesday (7).
 
-தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸாநாயக்க உட்பட அவரது குழுவினர் ஜனாதிபதியின் முழுமையான ஆசீர்வாதத்துடன் தான் இந்தியாவுக்கு அரசமுறை பயணத்தை மேற்கொண்டுள்ளார்கள். இவர்களுக்குத் தேவையான சகல வசதிகளையும் வழங்குமாறு இந்தியாவில் உள்ள இலங்கை உயர்ஸ்தானிகருக்கு ஆலோசனை வழங்கியுள்ளோம்.
+His delegation, including the leader of the National People's Power, Anura Kumara Dissanayake, has made a state visit to India with the full blessing of the president.. We have advised the Sri Lankan High Commissioner in India to provide them with all the necessary facilities.
+
+People's Liberation Front has launched campaigns in the past demanding the killing of Indian potatoes in Sri Lanka. 60 thousand people died following anti -Indian policies. The country also faced massive consequences.
 
 ...
 
 [Data](articles/c8619b73.json)
 
+[Extended Data](ext_articles/c8619b73.ext.json)
+
 ---
 
-### கல்வி நிர்வாகத்தில் அதிகாரிகள் இருக்கின்றபோதிலும் ஓய்வு பெற்றவர்களுக்கு நியமனம் ; இலங்கை ஆசிரியர் சங்கம் குற்றச்சாட்டு
+### Appointment to retirees, despite the authorities in the education administration;Sri Lanka Teachers Association
 
 *2024-02-07 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175803) · `ta`
 
-நிர்வாக சேவையில் நூற்றுக்கும் மேற்பட்ட அதிகாரிகளை பணியில் அமர்த்துவதற்கு பதிலாக ஓய்வுபெற்ற அதிகாரிகளுக்கு சேவை நீடிப்பு வழங்கி கல்வியை சீரழித்துள்ளதாக மேல்மாகாண ஆளுநர் மீது குற்றம் சுமத்தப்பட்டுள்ளது.
+The Governor of the Western Province has been accused of providing retired officers in order to instead of employing more than a hundred officers in the administrative service.
 
-கல்வி நிர்வாக சேவை பதவிகளுக்கு செயற்படக்கூடிய உத்தியோகத்தர்கள் நியமிக்கப்படவில்லை எனவும், ஓய்வுபெற்ற அதிகாரிகள் மேல் மாகாண கல்வி முறைக்குள் பிரதான பதவிகளில் எவ்வித அடிப்படையும் இன்றி தக்கவைக்கப்பட்டுள்ளதாகவும் இலங்கை ஆசிரியர் சங்கம் தெரிவித்துள்ளது.
+The Sri Lanka Teachers Association said that the officers who could work for the posts of the Education Administration were not appointed and that the retired officers had retained the main positions within the Western Provincial Education system without any basis.
 
-இலங்கை கல்வி நிர்வாக சேவையின் தரம் 1 ஓய்வுபெற்ற அதிகாரியான எல்.எச்.டபிள்யூ.ஆர். சில்வா மேல் மாகாண கல்வித் திணைக்களத்தின் பிரதிக் கல்விப் பணிப்பாளர் (கல்வி அபிவிருத்தி) பதவிக்கு ஒரு வருட காலத்திற்கு ஒப்பந்த அடிப்படையில் நியமிக்கப்பட்டுள்ளதாக அந்த சங்கம் சுட்டிக்காட்டியுள்ளது.
+Grade 1 retired officer of Sri Lanka Education Administration Service LHWR. The Association has pointed out that the Deputy Director of Education (Education Development) of the Silva Western Provincial Department has been appointed on a contract basis for a period of one year.
 
-மேல்மாகாண கல்வி முறைமையில் கல்வி நிர்வாக சேவையில் தற்போது தரம் 1 அங்கீகரிக்கப்பட்ட உத்தியோகத்தர்களின் எண்ணிக்கை 244 எனவும், தற்போது பதவியில் உள்ள உத்தியோகத்தர்களின் எண்ணிக்கை 408 எனவும் ஆசிரியர் சங்கம் வெளியிட்டுள்ள ஊடக அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+In a media report released by the Teachers Union, the number of officers currently recognized in the Education Administration Service in the Western Provincial Education System is 244 and the number of officers currently in office is 408.
 
 ...
 
 [Data](articles/11bb8d00.json)
 
+[Extended Data](ext_articles/11bb8d00.ext.json)
+
 ---
 
-### කුඩු රොෂාන් ට ඇප
+### Kudu Roshan released on bail
 
 *2024-02-07 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193092) · `si`
 
-වරකාපොල ප්‍රදේශයේ සැඟව සිටියදී යුක්තිය මෙහෙයුම අතරතුරදී අත්අඩංගුවට ගෙන රිමාන්ඩ් බන්ධනාගාර ගතකර සිටි ''කුඩු රොෂාන්'' නැමැත්තා සහ ඔහුගේ බාල සොහොයුරා දැඩි ඇප කොන්දේසි පනවා ඇපමත මුදාහැර තිබේ.
+While hiding in the Warakapola, the 'Kudu Roshan' of 'Kudu Roshan' and his younger brother were released on bail.
 
-එහිදී අධිකරණය විසින්  ''කුඩු රොෂාන්'' නැමැත්තාට මුදලින් රුපියල් කෝටි 3ක ඇපයක් සහ අනෙක් සැකකරුට මුදලින් රුපියල් ලක්ෂ 50ක ඇපයක් ද නියම කර තිබේ.
+The court also dictated a bail of Rs.
 
-එසේම ''කුඩු රොෂාන්'' නැමැත්තාට රුපියල් මිලියනය බැගින් වූ ශරීර ඇප 7ක් සහ ඔහුගේ සහෝදරයාට රුපියල් මිලියනය බැගින් වූ ශරීර ඇප 4ක් නියම කර ඇත.
+"Kudu Roshan 'was sentenced to 7 bail of Rs. 1 million for his brother.
 
-ඇප ලබාගැනීමෙන් අනතුරුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිට ඇඟිලි සළකුණු ලබාදෙන ලෙසටද සැකකරුවන්ට අතිරේක මහෙස්ත්‍රාත්වරයා නියෝග කර තිබේ.
+The Additional Magistrate has ordered the suspects to give fingerprints to the Criminal Investigation Department after obtaining bail.
 
-බූස්ස බන්ධනාගාරයේ රඳවා සිටින කුඩු රොෂාන් නැමැත්තා ස්කයිප් තාක්ෂණය ඔස්සේ අධිකරණයට ඉදිරිපත් කෙරුණි.
+Kudu Roshan, detained at the Boossa Prison, was presented to Skype technology through Skype technology.
 
 ◼️
 
 [Data](articles/d2dc032c.json)
+
+[Extended Data](ext_articles/d2dc032c.ext.json)
 
 ---
 
@@ -131,6 +143,8 @@ Liyanage, speaking to Daily Mirror said: “Kandy is the only outstation club pl
 ...
 
 [Data](articles/4827ffcb.json)
+
+[Extended Data](ext_articles/4827ffcb.ext.json)
 
 ---
 
@@ -736,15 +750,17 @@ Investigations were initiated into the matter by the special investigation unit 
 
 ---
 
-### අනුර ඉන්දීය විදේශ ලේකම් හමුවෙයි
+### Anura Meets Foreign Secretary
 
 *2024-02-07 14:58:25* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-ඉන්දීය-විදේශ-ලේකම්-හමුවෙයි/11-407952) · `si`
 
-ඉන්දීය රජයේ නිල ආරාධනාවක් අනුව ඉන්දියාවේ සංචාරයක නිරත වූ ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා ඇතුළු දූත පිරිස ඉන්දීය විදේශ කටයුතු ලේකම් විනෝ මෝහන් මහතා හමුවී තිබේ.
+Leader of the National Jones of Power and the National Jones of Sri Lanka to visit India on an official invitation of the Government of India.
 
 ◼️
 
 [Data](articles/1aae313c.json)
+
+[Extended Data](ext_articles/1aae313c.ext.json)
 
 ---
 

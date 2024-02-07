@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 11:51:38**
+As of **2024-02-07 12:02:21**
 
 ## Newspaper Stats
 
-*Scraped **5,395** Articles*
+*Scraped **5,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 140
 economynextcom | 281
 islandlk | 288
 dailyftlk | 305
-newsfirstlk | 334
+newsfirstlk | 335
 adalk | 455
-virakesarilk | 648
-adaderanalk | 667
-tamilmirrorlk | 676
+virakesarilk | 650
+adaderanalk | 669
+tamilmirrorlk | 677
 adaderanasinhalalk | 695
 dailymirrorlk | 767
 
@@ -26,65 +26,159 @@ dailymirrorlk | 767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,388 (99.9%) of 5,395 articles have been extended.
+5,395 (99.9%) of 5,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### வற் வரியினால் சமூக கட்டமைப்பில் நெருக்கடிகள் ஏற்பட்டுள்ளதை  ஏற்றுக்கொள்கிறேன் : விரைவில் வரிக் கொள்கை திருத்தம்  - ஜனாதிபதி
+### Self-proclaimed ‘Avalokiteshvara Bodhisattva’ granted bail, referred to psychiatric treatment
+
+*2024-02-07 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97075/self-proclaimed-avalokiteshvara-bodhisattva-granted-bail-referred-to-psychiatric-treatment) · `en`
+
+Mahinda Kodituwakku, the self-proclaimed ‘Avalokiteshvara Bodhisattva’ has been granted bail on the orders of Colombo Fort Magistrate’s Court.
+
+When the case was called today, Magistrate Thilina Gamage ordered the release of Kodituwakku on two personal bails of Rs. 1 million each, on account of his mental disorder.
+
+Accordingly, the accused was ordered to attend the psychiatric clinic at the National Institute of Mental Health in Mulleriyawa, every Monday.
+
+Kodituwakku was arrested by the CID on Jan.15, on charges of committing irreligious activities that are contrary to Buddhist teachings and put behind bars on remand until today (Feb.07).
+
+During previous court proceedings, the forensic psychiatrist told the magistrate that the suspect required psychiatric treatment.
+
+Earlier this month, the president of Buddhist Information Centre, Ven. Agulugalle Sri Jinananda Thero had filed a complaint with the CID alleging that Kodituwakku has been misleading the Buddhist community.
+
+...
+
+[Data](articles/8c40c48a.json)
+
+---
+
+### வங்கிச் சட்டத்தை திருத்தம் செய்வதற்கான வர்த்தமானி வெளியீடு
+
+*2024-02-07 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175773) · `ta`
+
+1988 ஆம் ஆண்டு 30 ஆம் இலக்க வங்கிச் சட்டத்தை திருத்தம் செய்வதற்கான வர்த்தமானி வெளியீடப்பட்டுள்ளதாக நிதி,பொருளாதார ஸ்திரப்படுத்தல் மற்றும் தேசிய கொள்கைகள் அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/95ada578.json)
+
+---
+
+### விக்னேஸ்வரனிடம் ஜனாதிபதி சொன்ன சங்கதி
+
+*2024-02-07 11:21:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விக்னேஸ்வரனிடம்-ஜனாதிபதி-சொன்ன-சங்கதி/175-332819) · `ta`
+
+ஒன்பதாவது பாராளுமன்றத்தின் ஐந்தாவது கூட்டத்தொடரை ஆரம்பித்து வைத்து அக்கிராசன உரையாற்றிய ஜனாதிபதி ரணில் விக்கிரமசிங்க தனதுரையை 11.15 மணியளவில் நிறைவு செய்தார்.
+
+தனதுரையை நிறைவு செய்து கொண்டதன் பின்னர், சபா பீடம் வழியாக ஜனாதிபதி ரணில் விக்கிரமசிங்க வெளியேறிய போது,ஆளும், எதிர்க்கட்சி உறுப்பினர்கள் எழுந்து நின்றனர்.
+
+அனைவரையும் பார்த்து தலையை அசைத்து தனது நன்றியை தெரிவித்த ஜனாதிபதி ரணில் விக்கிரமசிங்க, எழுந்து நின்றுக்கொண்டிருந்த தமிழ் மக்கள் தேசிய முன்னணியின் பாராளுமன்ற உறுப்பினரான முன்னாள் நீதியரசர் சி.வி. விக்னேஸ்வரனின் அருகில் சென்று ஒருசில வினாடிகள் ஏதோ கூறிவிட்டுச் சென்றார்.
+
+◼️
+
+[Data](articles/57d2bdc1.json)
+
+---
+
+### கடற்படையின் முன்னாள் தளபதி தயா சந்தகிரி ஐக்கிய மக்கள் சக்தியில் இணைந்தார்!
+
+*2024-02-07 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175775) · `ta`
+
+இலங்கை கடற்படையின் முன்னாள் தளபதி தயா சந்தகிரி ஐக்கிய மக்கள் சக்தியில் இணைந்துள்ளார்.
+
+கட்சியின் தலைவர் சஜித் பிரேமதாசவிடம் ஐக்கிய மக்கள் சக்தியின் உறுப்புரிமையை பெற்றுக்கொண்டதுடன்  கட்சியின் ஆலோசகராக நியமிக்கப்பட்டுள்ளார்.
+
+முன்னாள் இராணுவத் தளபதி தயா ரத்னாயக்கவும் அண்மையில் மக்கள் சக்தியில் இணைந்து கொண்டமை தெரிந்ததே.
+
+◼️
+
+[Data](articles/6aa24d83.json)
+
+---
+
+### I accept the crisis in social structure by the line: soon tax policy amendment - President
 
 *2024-02-07 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175774) · `ta`
 
-வற் வரியினால் சமூக கட்டமைப்பில் நெருக்கடிகள் ஏற்பட்டுள்ளதை  ஏற்றுக்கொள்கிறேன் எனவும் நெருக்கடிகளை முகாமைத்துவம் செய்ய விசேட கவனம் செலுத்தப்படும் எனவும் வெகுவிரைவில் வரிக் கொள்கை திருத்தம் செய்யப்படும் எனவும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe said that the tax policy amendment would be amended that I would accept the crisis in the social structure by the tax and that the crisis would be paid special attention to managing the crises.
 
-ஒன்பதாவது பாராளுமன்றத்தின் ஐந்தாவது புதிய பாராளுமன்ற கூட்டத்தொடர் ஜனாதிபதியின் கொள்கை பிரகடன உரையுடன் மிக எளிமையான முறையில்  இன்று புதன்கிழமை ஆரம்பமானது.
+The fifth new parliamentary session of the ninth parliament began on Wednesday with the President's Policy Declaration.
 
-இதன் பின்னர் கொள்கை பிரகடன உரையாற்றுகையிலேயே ஜனாதிபதி ரணில் விக்கிரமசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+President Ranil Wickremesinghe made the above statement in a speech.
 
-வங்குரோத்து நிலை அறிவிக்கப்படும் போது நாட்டின் வெளிநாட்டு கையிருப்பு பூச்சியமாக காணப்பட்டது. 2023 ஆண்டு இறுதிப் பகுதியில் வெளிநாட்டு கையிருப்பு 4.4 பில்லியன் டொலராக உயர்வடைந்துள்ளது.
+The country's foreign stockpile was seen as the country when the bankruptcy was announced. In the end of 2023, foreign stocks rose to $ 4.4 billion.
 
-இதேவேளை, நாடு பாரிய பொருளாதார நெருக்கடியில் இருந்து குறுகிய காலத்தில் மீட்சியடைந்துள்ளமை உலக சாதனையாகும். பொருளாதார மீட்சிக்கான நடவடிக்கைகளை வெளிப்படைத்தன்மையாக அறிவித்துள்ளேன். எந்தத் திட்டங்களையும் நான் மறைக்கவில்லை.
+Meanwhile, the country has recovered from a massive economic crisis in the short term. I have declared transparency of the proceedings for economic recovery. I don't hide any plans.
 
-நாடு மிக மோசமான நெருக்கடிகளை எதிர்கொண்டிருந்த போது நான் அரசியலுக்கு முக்கியத்துவம் கொடுக்கவில்லை.
+I did not give importance to politics when the country faced the worst crises.
+
+Their ownership and praise have been violated.I will recover the lost rights.
+
+Families with low -income poverty will be provided with 20 kilograms of rice in the coming New Year.
 
 ...
 
 [Data](articles/6ee99053.json)
 
+[Extended Data](ext_articles/6ee99053.ext.json)
+
 ---
 
-### “கஞ்சா” அப்படி எதுவும் இல்லை என்கின்றார் பந்துல
+### "Cannabis" says nothing like that
 
 *2024-02-07 11:13:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சா-அப்படி-எதுவும்-இல்லை-என்கின்றார்-பந்துல/175-332818) · `ta`
 
-கஞ்சாவை இலங்கையில் பயிரிட்டு ஏற்றுமதி செய்வது தொடர்பான யோசனைக்கு நேற்று இடம்பெற்ற அமைச்சரவை கூட்டத்தில் அனுமதி கிடைக்கப் பெற்றதாக சுற்றுலாத்துறை இராஜாங்க அமைச்சர் டயனா கமகே முன்னதாக தெரிவித்திருந்தார்.
+Tourism Minister Diana Kamage had earlier said that the idea of cultivating and exporting cannabis in Sri Lanka had been granted permission from yesterday's Cabinet meeting.
 
-எனினும், ஏற்றுமதிக்காக கஞ்சாவை பயிரிடுவது தொடர்பிலான யோசனை எதுவும் அமைச்சரவைக்கு முன்வைக்கப்படவில்லை என அமைச்சரவை பேச்சாளர் அமைச்சர் பந்துல குணவர்தன தற்போது தெரிவித்துள்ளார்.
+However, Cabinet Spokesperson Minister Bandula Gunawardena said that no idea of cultivating cannabis for exports has not been presented to the Cabinet.
 
-சுற்றுலாத்துறையை மேம்படுத்தும் நோக்கில் இலங்கையில் கஞ்சாவை பயிரிடுவதை சட்டமாக்குவதற்கான சட்டமூலம் சுதேச வைத்திய அமைச்சர் சிசிர ஜயகொடியினால் பாராளுமன்றில் முன்வைக்கப்பட்டது.
+The bill to enhance the cultivation of cannabis in Sri Lanka was aimed at enhance the tourism industry by Indigenous Medical Minister Sisira Jayakody.
 
-எவ்வாறாயினும் அமைச்சரவையில் அவ்வாறான யோசனை எதுவும் முன்வைக்கப்படவில்லை என அமைச்சரவை பேச்சாளர் அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார். R
+However, Cabinet Spokesperson Minister Bandula Gunawardena said that no such idea was presented in the Cabinet.. Remble
 
 ◼️
 
 [Data](articles/cd98a7d4.json)
 
+[Extended Data](ext_articles/cd98a7d4.ext.json)
+
 ---
 
-### சஜித்துடன் இணைந்தார் அட்மிரல் தயா சந்தகிரி
+### Army Chief Presents Airborne Insignia to Course-mates
+
+*2024-02-07 11:13:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/army-chief-presents-airborne-insignia-to-course-mates/) · `en`
+
+COLOMBO (News 1st); The Insignia Awarding Ceremony of Basic Airborne Course – MNDF 04 was held at the Army Headquarters on 06 February 2024.
+
+Lieutenant General Vikum Liyanage RWP RSP ndu, the Commander of the Army graced the ceremony as the chief guest.
+
+Eighteen military personnel from the Maldives National Defence Force and fifteen members from the Sri Lanka Army, including Lieutenant General Vikum Liyanage, the Commander of the Army and Major General A.C.A de Zoysa USP Hdmc Lsc, Colonel Commandant of the Sri Lanka Corps of Military Police and Provost Marshal of the Army, completed the training at the Commando Regiment Training School in Kudaoya.
+
+In marking the commencement of the event, Major General P.G.P.S. Rathnayake RWP RSP ndc, the Colonel of the Commando Regiment, extended a warm welcome to the Commander of the Army. Subsequently, Brigadier B.M.S.K.K Dharmawardana RWP RSP USP, Commandant of the Commando Regimental Center, delivered the welcome speech.
+
+...
+
+[Data](articles/5a36f1ee.json)
+
+---
+
+### Admiral Daya Chandakiri joined Sajith
 
 *2024-02-07 11:09:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-இணைந்தார்-அட்மிரல்-தயா-சந்தகிரி/175-332817) · `ta`
 
-இலங்கை கடற்படையின் 14 ஆவது கடற்படைத் தளபதியாக இருந்து ஓய்வு பெற்ற அட்மிரல் டி.டப்.கே.தயா சந்தகிரி((VSV, USP rcds, MSc (DS), psc, FCMI) எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவை சந்தித்து அரசியல் பயணத்திற்கு ஆதரவு தெரிவிக்கும் நோக்கில் ஐக்கிய மக்கள் சக்தியில்  இணைந்து கொண்டார்.
+Admiral DTK Daya Sandakiri (VSV, USP RCDS, MSC (DS), PSC and FCMI), who retired from the 14th Navy of the Sri Lanka Navy, has joined the United People's Power to support the political journey.
 
-கடல்சார் மற்றும் கடற்படைத் துறையில் அவருக்கு இருக்கும் பரந்த அறிவு மற்றும் அனுபவத்தினை அடிப்படையாகக் கொண்டு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச அவரை ஐக்கிய மக்கள் சக்தியின் கடல்சார் மற்றும் கடற்படைக் கொள்கைகள் குறித்த  ஆலோசகராக இன்றைய தினம் (07) தினம் நியமித்தார்.
+Opposition Leader Sajith Premadasa appointed him as a advisor to the United People's Power Maritime and Navy policies today (07) based on his vast knowledge and experience in the maritime and naval field.
 
-மூன்று தசாப்த கால யுத்தத்தில் அவர் ஆற்றிய தாராள பங்களிப்பு காரணமாக 2001 ஆம் ஆண்டு,ஜனவரி மாதம் 01 ஆம் திகதி முதல் இலங்கை கடற்படையின் தளபதியாக நியமிக்கப்பட்டார்.53 வருட கால கடற்படை வரலாற்றில் மிகவும் அனுபவம் வாய்ந்த கடற்படை தளபதியாக இவர் வரலாற்றிலும் இடம்பிடித்துள்ளார்.
+He has been appointed commander of the Sri Lanka Navy since January 1, 2001, due to the generous contribution to the three decades of war.
 
 ◼️
 
 [Data](articles/cf840f84.json)
+
+[Extended Data](ext_articles/cf840f84.ext.json)
 
 ---
 
@@ -114,23 +208,25 @@ President Ranil Wickremesinghe was speaking at the second term of the 5th Commit
 
 ---
 
-### யாழில் டிப்பர் வாகனம் மீது துப்பாக்கி சூடு ; மூவர் கைது
+### Tipper vehicle firing in Jaffna;Three arrests
 
 *2024-02-07 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175769) · `ta`
 
-யாழ்ப்பாணம் புத்தூர் பகுதியில் மணல் ஏற்றி சென்ற டிப்பர் வாகனம் மீது இன்று புதன்கிழமை (07) துப்பாக்கி சூடு நடத்தப்பட்டுள்ளது.
+A tipper vehicle carrying sand in Budhur area in Jaffna has been fired on Wednesday (07).
 
-சட்டவிரோத மணலுடன், டிப்பர் வாகனம் ஒன்று வேகமாக பயணிப்பதாக பொலிஸ் புலனாய்வு பிரிவினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில், புத்தூர் பகுதியில் வைத்து டிப்பர் வாகனத்தை வழிமறித்துள்ளனர்.
+Based on the confidential information available to the Police Intelligence Unit, a tipper vehicle is traveling with illegal sand, the tipper vehicle has been traveled in the Budhur area.
 
-அதன்போது, டிப்பர் சாரதி வாகனத்தை நிறுத்தாது சென்றமையால், வாகனத்தின் மீது  பொலிஸார் துப்பாக்கி பிரயோகம் மேற்கொண்டுள்ளனர். அதனால் டிப்பர் வாகனம் வீதியில் குடைசாய்ந்தது.
+At the time, the police fired at the vehicle as the driver of the driver did not stop the vehicle. So the tipper vehicle fell on the street.
 
-சட்டவிரோத மணல் மண்ணை ஏற்றி சென்றமையால், சாரதி வாகனத்தை நிறுத்தவில்லை என பொலிஸாரின் ஆரம்ப கட்ட விசாரணையில் தெரிய வந்துள்ளது.
+Initial investigations by the police revealed that the driver was not parked due to illegal sand.
 
-அதேவேளை, டிப்பர் வாகன சாரதி, உரிமையாளர் உள்ளிட்ட மூவர் கைது செய்யப்பட்டு, அச்சுவேலி பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டு விசாரணைக்கு உட்படுத்தப்பட்டுள்ளனர்.
+Meanwhile, three persons, including the driver of the tipper driver and the owner, have been arrested and detained at the Achchuveli police station.
 
 ◼️
 
 [Data](articles/791bf857.json)
+
+[Extended Data](ext_articles/791bf857.ext.json)
 
 ---
 
@@ -156,21 +252,25 @@ CBK Back in Politics: Leads Broad Alliance for Upcoming Elections
 
 [Data](articles/ae6f9ec7.json)
 
+[Extended Data](ext_articles/ae6f9ec7.ext.json)
+
 ---
 
-### பிள்ளைகளை தாக்கி வீடியோ வெளியிட்ட தந்தை கைது
+### Father arrested for attacking children
 
 *2024-02-07 10:56:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளைகளை-தாக்கி-வீடியோ-வெளியிட்ட-தந்தை-கைது/175-332816) · `ta`
 
-தனது இரண்டு பிள்ளைகளை கொடூரமாக தாக்கி வீடியோ எடுத்து சமூக வலைத்தளங்களில் பதிவிட்ட தந்தை ஒருவர் இன்று (07) கைது செய்யப்பட்டதாக திம்புல பத்தனை பொலிஸ் நிலைய பிரதான பொலிஸ் பரிசோதகர் ஆனந்தசிறி தெரிவித்தார்.
+Anandasiri, Chief Inspector of the Timbula Pathana Police Station, said that a father who brutally assaulted his two children and posted a video on social media.
 
-திம்புல பத்தனை பொலிஸ் பிரிவுக்குட்பட்ட பகுதியிலுள்ள தனது மனைவி வீட்டில் வசிக்கும் 33 வயதுடைய நபர் கடந்த (05) திங்கட்கிழமை 09 மற்றும் 05 வயதுடைய தனது இரண்டு பிள்ளைகள் மீது தாக்குதல் நடத்தியதாக பொலிஸ் நிலைய கட்டளைத் தளபதி தெரிவித்தார்.
+The 33 -year -old man who lives in his wife's home in the Dimbula Pathana Police Division has attacked two children aged 09 and 05 on Monday (05), the Commander of the Police Station said.
 
-இதற்கமைய, பிள்ளைகளின் தாயார் வெளியூரில் இருப்பதாகவவும், பிள்ளளைகள் பாட்டியின் பராமரிப்பில் இருப்பதாகவும், பிள்ளைகளின் கொழும்பில் உள்ள கார் சுத்தம் செய்யும் மையத்தில் பணிபுரிந்து வருவதாகவும் முதற்கட்ட விசாரணையில் தெரியவந்துள்ளது.
+Preliminary investigations revealed that the mother's mother is outdoors and that the children are under the care of the grandmother and are working at the children's car cleaning center in Colombo.
 
 ◼️
 
 [Data](articles/3604c60d.json)
+
+[Extended Data](ext_articles/3604c60d.ext.json)
 
 ---
 
@@ -189,6 +289,26 @@ Preliminary investigations revealed that the mother's mother is outdoors and tha
 [Data](articles/f28c151c.json)
 
 [Extended Data](ext_articles/f28c151c.ext.json)
+
+---
+
+### President Ranil delivers govt’s policy statement in Parliament
+
+*2024-02-07 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97074/president-ranil-delivers-govts-policy-statement-in-parliament) · `en`
+
+President Ranil Wickremesinghe says the government expects to ease the tax burden on the people moving forward, while stabilizing the country’s economy by continuing to implement economic reforms.
+
+He made this remark while delivering the government’s policy statement after ceremonially declaring open the Fifth Session of the Ninth Parliament this morning (Feb.07).
+
+The Head of State also spoke of the positive shift in Sri Lanka’s economic trajectory. Despite a 7.8% GDP contraction and six consecutive quarters of negative growth in 2022, the nation rebounded with a 1.6% growth rate in the Q3 of 2023, he added.
+
+Wickremesinghe further announced a significant turnaround in the nation’s economic landscape. Despite the 1.9% GDP deficit in 2022, the island nation has achieved a surplus by the end of 2023, marking the first such occurrence since 1977.
+
+Sri Lanka Parliament was prorogued with effect from midnight on 26 January, marking the closure of the Fourth Session of the Ninth Parliament.
+
+...
+
+[Data](articles/0fe03b15.json)
 
 ---
 
@@ -373,6 +493,8 @@ Kodituwakku's motion comes amid ongoing controversy surrounding the registration
 ...
 
 [Data](articles/fae4a781.json)
+
+[Extended Data](ext_articles/fae4a781.ext.json)
 
 ---
 
@@ -1901,113 +2023,5 @@ Global Health Strategies, by the Bill and Melinda Gates Foundation and its local
 [Data](articles/d3cd5ea5.json)
 
 [Extended Data](ext_articles/d3cd5ea5.ext.json)
-
----
-
-### MTI to invest in tech start-ups to augment strategy consulting
-
-*2024-02-06 23:09:29* · [`dailyftlk`](https://www.ft.lk/business/MTI-to-invest-in-tech-start-ups-to-augment-strategy-consulting/34-758195) · `en`
-
-As part of their international growth strategy, MTI Consulting is looking to invest in tech start-ups that can augment their core strategy consulting practice.
-
-“We are looking to partially acquire / invest in start-ups that are strategically linked our core i.e. Strategy Consulting, in areas such as, Research, Analytics, Content Generation, Data Visualisation, Project Management etc., or any technologies that can augment our core strategy consulting practice, particularly ones that optimises generative AI,” said MTI Consulting CEO Hilmy Cader.
-
-MTI is particularly in search of start-ups that offer upside global potential (even if extremely niche currently) - which can benefit from synergies with MTI Consulting’s international network, strong capabilities and credentials in Strategy Consulting.
-
-...
-
-[Data](articles/a23e9a2f.json)
-
-[Extended Data](ext_articles/a23e9a2f.ext.json)
-
----
-
-### Sri Lanka takes bold step to promote Inclusive and Sustainable Businesses
-
-*2024-02-06 23:08:35* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-takes-bold-step-to-promote-Inclusive-and-Sustainable-Businesses/34-758194) · `en`
-
-In a bid to boost economic growth whilst prioritising social and environmental welfare, Sri Lanka is embarking on a journey to promote Inclusive and Sustainable Businesses (ISBs).
-
-The Cabinet of Ministers green-lighted a proposal put forward by the President, in his capacity as the Finance, Economic Stabilisation and National Policies Minister regarding the implementation of the strategy.
-
-ISBs are characterised by their commercially viable models that generate positive social and environmental impacts, including green businesses and social enterprises empowering vulnerable communities.
-
-Despite their potential to drive positive change, ISBs in Sri Lanka have faced numerous challenges, including limited access to information, skills training, partnership financing, and formal recognition.
-
-Recognising the critical role these businesses play in achieving Sustainable Development Goals (SDGs), the Sri Lanka Sustainable Development Council has spearheaded efforts to address these challenges.
-
-...
-
-[Data](articles/7ed4f4d5.json)
-
-[Extended Data](ext_articles/7ed4f4d5.ext.json)
-
----
-
-### Ravi joins Distilleries, Aitken Spence Hotels Boards
-
-*2024-02-06 23:08:29* · [`dailyftlk`](https://www.ft.lk/business/Ravi-joins-Distilleries-Aitken-Spence-Hotels-Boards/34-758193) · `en`
-
-Dr. Ravi Fernando has joined the Boards of Distilleries Company of Sri Lanka (DCSL) Plc and Aitken Spence Hotel Holdings Plc as an Independent Non-Executive Director.
-
-Fernando is an Alumni of the University of Cambridge having completed both a Post Graduate Certificate in Sustainable business in 2008 and Master of Studies in Sustainability Leadership in 2014. He has an MBA from the University of Colombo.
-
-He holds a Doctor of Business Administration Degree from the European Business School in 2016. He completed the Advanced Management Program at the INSEAD Business School (France) and has been an Executive in Residence since 2010.
-
-...
-
-[Data](articles/03860035.json)
-
-[Extended Data](ext_articles/03860035.ext.json)
-
----
-
-### Inclusive and sustainable businesses set new pathways for Sri Lanka
-
-*2024-02-06 23:06:59* · [`dailyftlk`](https://www.ft.lk/columns/Inclusive-and-sustainable-businesses-set-new-pathways-for-Sri-Lanka/4-758192) · `en`
-
-Selyn, a women-led handloom business, offers flexible employment and valuable income opportunities to about 1,000 women artisans and persons from marginalised groups in rural Sri Lanka. Selyn develops and exports high-value craft products in global markets. The bigger revenue margins of quality products translate into better incomes for women artisans. Thanks to its pioneering use of blockchain in the supply chain – consumers can track how their purchases translate into earnings for women in the informal economy.
-
-The Small Organic Farmers Association (SOFA) of Sri Lanka, produces and exports organic food while creating a sustainable and equitable environment for smallholder farmers. It facilitates fair trade certification for smallholders and links more than 3,600 organic farmers to export markets.
-
-...
-
-[Data](articles/4e06a533.json)
-
-[Extended Data](ext_articles/4e06a533.ext.json)
-
----
-
-### Tech horizons: Expanding markets via Singapore and India
-
-*2024-02-06 23:05:03* · [`dailyftlk`](https://www.ft.lk/columns/Tech-horizons-Expanding-markets-via-Singapore-and-India/4-758191) · `en`
-
-India has rapidly emerged as an economic giant and a technology hub in the past two decades, while Singapore has solidified its position as a regional hub for businesses. Fortunately, Sri Lanka finds itself in close proximity to India and not far from Singapore. Yet, the key lies in leveraging these two economic powerhouses for enhanced collaboration to attract business, investments, and crucially, for market access.
-
-Should Sri Lanka cultivate stronger ties with these hubs, as it stands to position itself as a crucial point in the value chain? Beyond considerations of South Asia and Southeast Asia, looking at the broader Asia Pacific region underscores the significance of partnering with Australia. However, the geographical distance may pose challenges.
-
-...
-
-[Data](articles/f0ee5a54.json)
-
-[Extended Data](ext_articles/f0ee5a54.ext.json)
-
----
-
-### Compass for more human business
-
-*2024-02-06 23:02:58* · [`dailyftlk`](https://www.ft.lk/columns/Compass-for-more-human-business/4-758190) · `en`
-
-UN Global Compact Network Sri Lanka Executive Director Rathika de Silva, UN Global Compact Network Sri Lanka Chairman Dilhan Fernando, UNDP Sri Lanka Resident Representative and UN Global Compact Network Sri Lanka Board Representative Azusa Kubota, and UN Sri Lanka Resident Coordinator Marc-André Franche
-
-Together with the Board and Team at Global Compact Network Sri Lanka it was an honour to present plans for more sustainable business at Network Sri Lanka’s ‘Compass 2024’ last week.
-
-Amidst unprecedented social, economic, health and environmental crises, further complicated by geopolitical tension and conflict, growing inequality and financial stress, there has never been greater urgency to sincerely embrace responsibility in business.
-
-...
-
-[Data](articles/f35e54af.json)
-
-[Extended Data](ext_articles/f35e54af.ext.json)
 
 ---

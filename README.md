@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 16:02:33**
+As of **2024-02-07 16:17:13**
 
 ## Newspaper Stats
 
-*Scraped **5,462** Articles*
+*Scraped **5,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,64 @@ adalk | 465
 virakesarilk | 659
 adaderanalk | 677
 tamilmirrorlk | 682
-adaderanasinhalalk | 704
+adaderanasinhalalk | 709
 dailymirrorlk | 774
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,462 (100.0%) of 5,462 articles have been extended.
+5,462 (99.9%) of 5,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### පාකිස්තානයේ පිපිරීමක්
+
+*2024-02-07 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193087) · `si`
+
+පාකිස්තානයේ සිදුවූ බෝම්බ පිපිරීම් දෙකකින් ආසන්න වශයෙන් පුද්ගලයින් 20ක් මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+එරට මහ මැතිවරණයේ ස්වාධීන අපේක්ෂකයෙකුගේ පක්ෂ කාර්යාලයක් අසළ පළමු පිපිරීම සිදුව තිබේ.
+
+ඉන් ආසන්න වශයෙන් පුද්ගලයින් 12 දෙනෙකු මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එසේම දෙවන පිපිරීම Qillah Saif Ullah දිස්ත්‍රික්කයේ සිදුව ඇති අතර ඉන් පුද්ගලයින් 8 දෙනෙකු මියගොස් ඇත.
+
+පිපිරීම් හේතුවෙන් තුවාල ලැබූ පිරිසක් රෝහල්ගතකර ඇති බවද විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එම පිපිරීම්වල වගකීම මේ දක්වා කිසිවෙකුත් භාරගෙන නොමැති බවද එරට බලධාරීන් උපුටා දක්වමින් විදෙස් මාධ්‍ය සඳහන් කරයි.
+
+හෙට දිනයේ එරට මහ මැතිවරණය පැවැත්වීමට නියමිත පසුබිමක මෙම පිපිරීම් සිදුවීම සම්බන්ධයෙන් ලෝකයේම අවධානය පාකිස්තානය වෙත යොමුව තිබේ.
+
+◼️
+
+[Data](articles/d1d1223a.json)
+
+---
+
+### මිචිගන් ඝාතකයාගේ මවටත් දඬුවම්
+
+*2024-02-07 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193086) · `si`
+
+සිය දරුවා විසින් මිචිගන් පාසලක සිදු කළ වෙඩි තැබීමක් වළක්වා නොගත් බවට චෝදනා කරමින් එම එම දරුවාගේ මව වැරදිකරු බව ජූරියක් විසින් තීන්දු කර තිබේ.
+
+ඇයට එරෙහි ව මනුෂ්‍ය ඝාතන චෝදනා එල්ල කර ඇත්තේ, ඔවුන්ගේ දරුවා විසින් සිදු කළ සමූහ ඝාතනයක් වළක්වා ගැනීමට කටයුතු නොකළ බවට චෝදනා කරමිනි.
+
+ඒ අනුව අමෙරිකාවේ දරුවෙක් සිදු කළ සමූල ඝාතනයක් සම්බන්ධයෙන් දෙමව්පියෙකුට දැඩි දඬුවමක් ලබාදුන් පළමු අවස්ථාව මෙය බව සැලකෙයි.
+
+පැමිණිල්ලේ නීතිඥයින් පෙන්වා දෙන්නේ, අනතුරක් සිදු කළ හැකි බවට තිබූ අනතුරු ඇඟවීම නොසලකා හැර ඔහුට ගිනි අවියක් හිමිකර ගෙන සිටීමට ඉඩ සැලසීම යන චෝදනා ඇයට එල්ල ව ඇති බවයි.
+
+ඇයගේ සැමියාට එරෙහි ව ද එවැනි ම චෝදනා මත නඩු පැවරුණු අතර, නමුත් ඔහු තමා නිවැරදිකරු බව පැවසීය.
+
+ඔවුන්ගේ 17 හැවිරිදි පුත්‍රයා, 2021 වසරේ නොවැම්බර් 30 වනදා මිචිගන්හි ඔක්ස්ෆර්ඩ් උසස් පාසලේ සිසුන් සිව් දෙනෙකු වෙඩි තබා ඝාතනය කළේය.
+
+◼️
+
+[Data](articles/2b95d782.json)
+
+---
 
 ### Pakistan election: Two deadly blasts in Balochistan day before vote
 
@@ -58,6 +104,52 @@ There have been violent incidents in both Balochistan and Khyber Pakhtunkhwa pro
 
 ---
 
+### අනියම් ප්‍රේමය ජීවිත දෙකක් බිලි ගනී
+
+*2024-02-07 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193085) · `si`
+
+අනියම් සම්බන්ධතාවයක් මත ඇතිවූ ආරවුලක් හේතුවෙන් සූරියවැව, පෝල්පහ ප්‍රදේශයේදී දෙදරු මව කපාකොටා ඝාතනය කිරීමේ සිද්ධියේ ප්‍රධාන සැකකරු ගෙළ වැළලාගෙන මියගොස් සිටියදී හමුවී තිබේ.
+
+සැකකරු සූරියවැව, බැද්දෙවැව විහාරස්ථානය ආසන්නයේ ගසක ගෙළ වැළලාගෙන මියගොස් සිටියදී අද (07) පෙරවරුවේ සොයා ගත් බව සූරියවැව පොලීසිය පැවසීය.
+
+මෙලෙස සියදිවි නසාගෙන ඇත්තේ සූරියවැව, බැද්දේවැව පෝල්පහ ප්‍රදේශයේ පදිංචි ප්‍රදීප් අනුරාධ නමැති 39 හැවිරිදි තිදරු පියෙකි.
+
+මියගිය සැකකරු විසින් සූරියවැව පෝල්පහ ප්‍රදේශයේම පදිංචි 38 හැවිරිදි දෙදරු මවක වූ සුරංගිකා නදීශානී නමැති කාන්තාවගේ හිස ප්‍රදේශයට තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබුණි.
+
+සිද්ධිය සම්බන්ධයෙන් සූරියවැව පොලීසිය වැඩිදුර පරීක්ෂණ පැවැත්වු අතර එහිදී අනාරවරණය වී තිබුණේ මියගිය කාන්තාව හා සැකකරු අතර කලක් තිස්සේ අනියම් සම්බන්ධතාවයක් පවත්වා ඇති බවය.
+
+දෙදෙනා අතර ඇතිවූ ආරවුලක් හේතුවෙන් සැකකරු විසින් ඇයව  ඝාතනය කර ඇති බවද සැක කෙරෙයි.
+
+සැකකරු විසින් ඇයව ඝාතනය කිරිමෙන් පසු ඒ පිළිබඳව සූරියවැව පොලීසියටද දුරකථන ඇමතුමක් ලබාදී ප්‍රදේශයෙන් පළාගොස් තිබුණි.
+
+...
+
+[Data](articles/d0d098a7.json)
+
+---
+
+### ස්ත්‍රී දූෂණ නඩුවකට සිර දඬුවම් ලැබූ පුද්ගලයෙකු නිදොස් කොට නිදහස් කරයි
+
+*2024-02-07 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193084) · `si`
+
+තරුණ එක්දරු මවක් දූෂණය කිරීමේ සිද්ධියක් සම්බන්ධයෙන් දඬුවම් නියමව සිටි 'පොඩී' නැමැත්තා අභියාචනාධිකරණය විසින් නිදොස් කොට නිදහස් කර තිබේ.
+
+විත්තිකරු විසින් ගොනුකර තිබූ අභියාචනයක් සළකා බැලූ මේනකා විජේසුන්දර සහ ශෂී මහේන්ද්‍රන් යන විනිසුරු මඩුල්ල මෙම නියෝගය ලබාදී ඇත.
+
+නිවසට ගෙනගොස් ඇරලවන බවට පොරොන්දු වී සිය යතුරුපැදියට නංවාගත් තරුණ එක්දරු මවක් කැලෑබද ප්‍රදේශයකදී දූෂණය කළ බවට ඔහුට චෝදනා එල්ලවී තිබුණි.
+
+2022 වර්ෂයේ ඔක්තෝබර් මස 20 වනදා හම්බන්තොට මහාධිකරණය විසින් සැකකරුට එම චෝදනාවට වසර 8ක සිරදඬුවම් සහ රුපියල් 5000ක දඩයක් නියම කර තිබුණි.
+
+එසේම එහිදී අධිකරණය  හම්බන්තොට මහාධිකරණය විසින් විත්තිකරු වෙත නියෝග කර තිබුණේ වින්දිත කාන්තාවට රුපියල් 150,000ක දඩයක් ද ගෙවන ලෙසටය.
+
+දූෂණයට ලක්වූයේ යැයි කියන කාන්තාව අධිකරණය හමුවේ ලබාදුන් සාක්ෂිය අනුව එවැනි දූෂණයක් ඇයගේ කැමැත්තකින් තොරව කිසිසේත්ම සිදුවිය නොහැකි බව පෙන්වාදෙමින් විත්තිකාර අභියාචක වෙනුවෙන් පෙනීසිටි ජ්‍යෙෂ්ඨ නීතිඥ ගාමිණී පෙරේරා මහතා කළ කරුණු දැක්වීම සලකා බැලූ අභියාචනාධිකරණ විනිසුරු මඩුල්ල මෙම නියෝගය ලබාදී තිබේ.
+
+◼️
+
+[Data](articles/7ab12ae5.json)
+
+---
+
 ### Three suspects arrested with Ambar worth more than 3 crores
 
 *2024-02-07 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175802) · `ta`
@@ -75,6 +167,30 @@ Amber, which is caused by sperm and vomiting emanating from the body of the whal
 [Data](articles/e5a29c15.json)
 
 [Extended Data](ext_articles/e5a29c15.ext.json)
+
+---
+
+### ප්‍රභාත් ජයසූරිය ඉදිරියට
+
+*2024-02-07 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193082) · `si`
+
+අන්තර්ජාතික ක්‍රිකට් කවුන්සිලය (ICC) විසින් නිකුත් කළ නවතම ටෙස්ට් පන්දු යවන්නන්ගේ ශ්‍රේණිගත කිරීම්වලට අනුව, දඟපන්දු යවන ක්‍රීඩක ප්‍රභාත් ජයසූරිය ශ්‍රේණිගත කිරීම්වල ඉදිරියට පැමිණ තිබේ.
+
+ඔහු මීට පෙර ටෙස්ට් පන්දු යවන්නන්ගේ ශ්‍රේණිගත කිරීම්වල 09 වැනි ස්ථානයේ පසු වූ අතර, නවතම ශ්‍රේණිගත කිරීම්වල 06 වැනි ස්ථානය දක්වා ඉදිරියට පැමිණ ඇත.
+
+නිමා වූ ශ්‍රී ලංකා - ඇෆ්ගනිස්තාන ටෙස්ට් තරගයේ දී දැක්වූ දස්කම් සමඟ ප්‍රභාත් ජයසූරිය මෙසේ ශ්‍රේණිගත කිරීම්වල ඉදිරියට පැමිණ තිබේ.
+
+ඇෆ්ගනිස්තාන ටෙස්ට් තරගයේ, තරගයේ වීරයේ බවට පත් වූයේ ද ප්‍රභාත් ජයසූරියයි.
+
+ශ්‍රේණිගත කිරීම්වල පෙරමුණේ පසු වන්නේ, ඉන්දීය වේගපන්දු යවන ක්‍රීඩක ජස්ප්‍රිට් බුම්‍රා වන අතර, දෙවැනි ස්ථානයේ පසු වන්නේ, දකුණු අප්‍රිකානු වේගපන්දු යවන ක්‍රීඩක කගීසෝ රබාඩායි.
+
+ඉන්දීය දඟපන්දු යවන ක්‍රීඩක රවිචන්ද්‍රන් අශ්වින් ශ්‍රේණිගත කිරීම්වල තෙවැනි ස්ථානයේ පසු වේ.
+
+සිව් වැනි හා පස් වැනි ස්ථානවල පිළිවෙළින් පසු වන්නේ, ඔස්ට්‍රේලියානු වේගපන්දු යවන්නන් දෙපොළක් වන පැට් කමින්ස් සහ ජොෂ් හේසල්වුඩ් ය.
+
+...
+
+[Data](articles/b3a1bd75.json)
 
 ---
 
@@ -1925,103 +2041,5 @@ Five suspects have been arrested in operations.
 [Data](articles/2b96b022.json)
 
 [Extended Data](ext_articles/2b96b022.ext.json)
-
----
-
-### The massacre of Peliam;Another suspect arrested
-
-*2024-02-07 09:23:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலியத்தை-படுகொலை-மற்றுமொரு-சந்தேக-நபர்-கைது/175-332808) · `ta`
-
-Another suspect has been arrested in connection with the murder of five people on January 22 in Beliatta.
-
-The suspect was arrested yesterday (06) by the Beliatta police through the lawyer.
-
-◼️
-
-[Data](articles/a901347f.json)
-
-[Extended Data](ext_articles/a901347f.ext.json)
-
----
-
-### President to Open New Parliament Session & Deliver Policy Statement in Scaled-Back Ceremony
-
-*2024-02-07 09:22:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/president-to-open-new-parliament-session-deliver-policy-statement-in-scaled-back-ceremony/) · `en`
-
-COLOMBO (News 1st); The Fifth Session of the Ninth Parliament is scheduled to be ceremonially declared open on Wednesday (7) by President Ranil Wickremesinghe.
-
-Following the ceremonial opening of the session, the President is scheduled to present the Statement of Government Policy in Parliament at 10.30 am according to the powers vested in him under Article 33 of the Constitution.
-
-Given the instructions of the President, arrangements have been made to hold the Ceremonial Opening of the Fifth Session as a formal ceremony and thus, gun salutes and motorcades shall not be held, said Kushan Jayaratne, Serjeant at Arms.
-
-Following the arrival of Speaker Mahinda Yapa Abeywardana and his wife, the Prime Minister Dinesh Gunawardena will arrive, followed by the arrival of President Ranil Wickremesinghe, and the first lady.
-
-There the Speaker and the Secretary General of the Parliament Kushani Rohanadeera shall receive the President near the main steps of the Parliament building.
-
-...
-
-[Data](articles/4ec5a337.json)
-
-[Extended Data](ext_articles/4ec5a337.ext.json)
-
----
-
-### Wildlife Photographer of the Year
-
-*2024-02-07 09:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Wildlife-Photographer-of-the-Year/110-276492) · `en`
-
-The 25 images in the running for this year's People’s Choice Award received a record number of votes, with over 75,000 wildlife photography and nature fans from around the world casting their ballots to name Nima this year’s winner. (Daily Mail)
-
-◼️
-
-[Data](articles/76638a3e.json)
-
-[Extended Data](ext_articles/76638a3e.ext.json)
-
----
-
-### Keheliya refusal to go to the congregation?
-
-*2024-02-07 09:20:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபைக்கு-செல்ல-கெஹலிய-மறுப்பு/175-332807) · `ta`
-
-Parliamentarian Keheliya Rambukwella has refused to attend a parliamentary session today (07).
-
-Prison media spokesman said that Keheliya Rambukwella was allowed to attend the parliamentary session, but he refused to participate.
-
-Following an investigation into non -standard drug imports, the former health minister has been arrested and is currently being interrogated.
-
-Meanwhile, Keheliya Rambukwella resigned from the post of Environment Minister yesterday.
-
-◼️
-
-[Data](articles/b4d2eea2.json)
-
-[Extended Data](ext_articles/b4d2eea2.ext.json)
-
----
-
-### Chili's former president death in a helicopter crash
-
-*2024-02-07 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175761) · `ta`
-
-Former President of the South American Chile, Sebastian Binera, has died in a helicopter crash.
-
-He is the rich man twice as the president of Chile.
-
-In the meantime, Sebastian Binhera has paid his own helicopter to Chile's popular tourist destination, Lako Ranga.
-
-A total of 4 travelers, including Sebastian Binhera, traveled in that helicopter. Suddenly the helicopter fell into the lake in south Chile.
-
-Informed rescue personnel rushed and found the body of former President Sebastian Binal. Three people who were traveling with him have been rescued and admitted to the hospital.
-
-Chile Home Minister Carolina Doha has confirmed the death of Sebastian Binhera.
-
-He also confirmed that his body was recovered from the lake. Chile's President Gabriel Boric has announced that three days will be observed for three days ahead of the death of former President Sebastian Binal.
-
-◼️
-
-[Data](articles/1b31f0c9.json)
-
-[Extended Data](ext_articles/1b31f0c9.ext.json)
 
 ---

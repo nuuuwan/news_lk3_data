@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 13:02:17**
+As of **2024-02-07 13:17:22**
 
 ## Newspaper Stats
 
-*Scraped **5,407** Articles*
+*Scraped **5,418** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,120 @@ economynextcom | 281
 islandlk | 288
 dailyftlk | 305
 newsfirstlk | 336
-adalk | 455
-virakesarilk | 650
+adalk | 459
+virakesarilk | 653
 adaderanalk | 671
-tamilmirrorlk | 677
+tamilmirrorlk | 679
 adaderanasinhalalk | 698
-dailymirrorlk | 767
+dailymirrorlk | 769
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,407 (100.0%) of 5,407 articles have been extended.
+5,407 (99.8%) of 5,418 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### அவலோகிதீஸ்வர போதிசத்துவர் என தன்னை அறிமுகப்படுத்திக் கொண்டவருக்குப் பிணை!
+
+*2024-02-07 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/175787) · `ta`
+
+அவலோகிதீஸ்வர போதிசத்துவர் என தன்னை அறிமுகப்படுத்திக் கொண்ட மஹிந்த கொடிதுவக்குவை பிணையில் விடுவிக்குமாறு கோட்டை நீதிவான் நீதிமன்றம் இன்று புதன்கிழமை (07) உத்தரவிட்டுள்ளது.
+
+இதன்படி, ஒரு மில்லியன் ரூபா பெறுமதியான இரண்டு சரீரப் பிணைகளில் அவர் விடுவிக்கப்பட்டுள்ளார்.
+
+மேலும், குற்றம் சாட்டப்பட்டவரை  ஒவ்வொரு திங்கட்கிழமையும் முல்லேரியாவில் உள்ள தேசிய மனநல மருத்துவ நிறுவனத்தில் உள்ள மனநல வைத்தியசாலைக்கு  சிகிச்சைக்கு செல்லுமாறும் அறிவுறுத்தப்பட்டது.
+
+பௌத்த போதனைகளுக்கு முரணான செயற்பாடுகளில் ஈடுபட்ட குற்றச்சாட்டின் பேரில் கொடிதுவக்கு குற்றப் புலனாய்வுப் பிரிவினரால் ஜனவரி 15ஆம் திகதி கைது செய்யப்பட்டு இன்று (07) வரை விளக்கமறியலில் வைக்கப்பட்டார்.
+
+◼️
+
+[Data](articles/a90a3167.json)
+
+---
+
+### Several SJBers walk out of Parliament while another group remains
+
+*2024-02-07 12:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Several-SJBers-walk-out-of-Parliament-while-another-group-remains/108-276511) · `en`
+
+Parliament, Feb.7(Daily Mirror)- Indicating that there is a division within the party, a group of SJB MPs walked out of the chamber when President Ranil Wickremesinghe began his speech, while some remained.
+
+A group of MPs led by Leader of the Opposition Sajith Premadasa and Chief Opposition Whip Lakshman Kiriella walked out while MPs Sarath Fonseka, Rajitha Senaratne, Ishaq Rahman etc. remained at the time the President began his speech.
+
+◼️
+
+[Data](articles/1a359ce0.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-02-07 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175785) · `ta`
+
+இன்று புதன்கிழமை (பெப்ரவரி 07) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 308.5698 ஆகவும் விற்பனை விலை ரூபா 318.6869 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/bdd4d87a.json)
+
+---
+
+### கெஹலியவுக்கு மற்றுமொரு தலையிடி
+
+*2024-02-07 12:28:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கெஹலியவுக்கு-மற்றுமொரு-தலையிடி/76-332823) · `ta`
+
+கல்வி அமைச்சின் சுற்றறிக்கையை மீறி, முன்னாள் அ​மைச்சர் கெஹலிய ரம்புக்வெலவின் பெயரில் கண்டி, குண்டசாலை பிரதேசத்தில் உள்ள பாடசாலைக்கு பெயரிடப்பட்டுள்ளதாகவும் அந்த பெயரை உடனடியாக நீக்க வேண்டும் எனவும் இலங்கை ஆசிரியர் சங்கம் வலியுறுத்தியுள்ளது.
+
+1996ஆம் ஆண்டு கல்வி அமைச்சினால் வெளியிடப்பட்ட சுற்றறிக்கையின் பிரகாரம் உயிருள்ள ஒருவரின் பெயரை பாடசாலைக்கு பெயரிட முடியாது என இலங்கை ஆசிரியர் சங்கத்தின் செயலாளர் ஜோசப் ஸ்டாலின் சுட்டிக்காட்டியுள்ளார்.
+
+ஆனால் முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்ல   சமூகத்திற்கு தவறான உதாரணத்தை காட்டி குண்டசாலை பிரதேசத்தில் உள்ள ஆரம்ப பாடசாலைக்கு கெஹலிய ரம்புக்வெல்ல ஆரம்ப பாடசாலை என பெயரிட்டுள்ளார்.
+
+எனவே, உயிருடன் இருக்கும் ஒருவரின் பெயரை பாடசாலைகளுக்கு வைப்பதற்கு எதிராக அரசாங்கம் உடனடியாக நடவடிக்கை எடுக்க வேண்டும் என்று  ஜோசப் ஸ்டார்லிங் வலியுறுத்தினார்.
+
+◼️
+
+[Data](articles/2e1dd68f.json)
+
+---
+
+### விளக்கமறியல் கைதியான கெஹலிய ரம்புக்கலவுக்கு தினமும் வெளியிலிருந்து உணவு!
+
+*2024-02-07 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175783) · `ta`
+
+மருந்து  மோசடி சம்பவத்துடன் தொடர்புடைய சந்தேகத்தில் கைது செய்யப்பட்டு நீதிமன்ற உத்தரவில் விளக்கமறியலில் வைக்கப்பட்டுள்ள நாடாளுமன்ற உறுப்பினர் கெஹலிய ரம்புக்வெல்லவுக்கு தினமும்  வெளியிலிருந்து உணவு வழங்கப்படுவதாக சிறைச்சாலை ஆணையாளரும் ஊடகப் பேச்சாளருமான காமினி பீ.திஸாநாயக்க தெரிவித்துள்ளார்.
+
+தற்போது சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ள அவருக்கு   விசேட வசதிகள் எதுவும் வழங்கப்படவில்லை எனவும் அவர் கூறுகிறார்.
+
+மேலும், குறிப்பிட்ட மருந்துகள்  தொடர்பிலோ அல்லது அத்தகைய மருந்துகளுக்கான கோரிக்கைகளோ இதுவரை கிடைக்கவில்லை என்றும், சம்பந்தப்பட்ட மருந்துகள் தொடர்பான அனைத்து முடிவுகளும் சிறைச்சாலை மருத்துவமனை மருத்துவரால் எடுக்கப்படுவதாகவும் ஆணையாளர் கூறுகிறார்.
+
+முன்னாள் அமைச்சருக்கும் ஏனைய கைதிகளுக்கு வழங்கப்படும் வசதிகள் மாத்திரமே வழங்கப்பட்டுள்ளதாகவும் அவர் கூறுகிறார்.
+
+◼️
+
+[Data](articles/ef9cbb6f.json)
+
+---
+
+### Former Navy Commander Daya Sandagiri joined the United People's Power!
+
+*2024-02-07 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175775) · `ta`
+
+Former Sri Lanka Navy Commander Daya Sandagiri has joined the United People's Power.
+
+Party leader Sajith Premadasa has obtained the membership of the United People's Power and has been appointed as the party's advisor.
+
+Former Army Commander Daya Ratnayaka is also known to have recently joined the power of the people.
+
+◼️
+
+[Data](articles/6aa24d83.json)
+
+[Extended Data](ext_articles/6aa24d83.ext.json)
+
+---
 
 ### Father arrested by joining children
 
@@ -71,6 +169,24 @@ As per stock market figures, this was mainly due to a single transaction of 61.9
 [Data](articles/0656204a.json)
 
 [Extended Data](ext_articles/0656204a.ext.json)
+
+---
+
+### சோதனை திகதியே சோதனையானது
+
+*2024-02-07 11:56:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சோதனை-திகதியே-சோதனையானது/175-332821) · `ta`
+
+நமது நாட்டில் இடம்பெறும் சில சம்பவங்களை பார்க்கும் போது சிரிப்பதா? அழுவதா? என தெரியாமல் பலரும் விழிப்பிதுங்கி இருப்பது மட்டுமன்றி திகைத்தும் போய் நின்கின்றனர்.
+
+சாரதி பயிற்சியில் ஈடுபட்டிருந்த ஒருவர், சாரதி அனுமதிப்பத்திரத்தை எடுப்பதற்காக விண்ணப்பித்துள்ளார். அவ்வாறு விண்ணப்பிக்கும் சகலருக்கும் நடைமுறை சோதனைக்கான (Practical test date) திகதி அறிவிக்கப்படும்.
+
+அதில், குத்தப்பட்டுள்ள இறப்பர் முத்திரையில், 2024 பெப்ரவரி 30ஆம் திகதி என குறிப்பிடப்பட்டுள்ளது.
+
+எந்தவொரு வருடத்திலும் 30 ஆம் திகதி இல்லை. இதில், இவ்வருடம் 30 ஆம் திகதி வருமாறு அழைத்துள்ளனர். அவ்வாறு அழைக்கப்பட்டமையே பெரும் சோதனையானது என பலரும் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/607625fb.json)
 
 ---
 
@@ -131,6 +247,20 @@ Families with low -income poverty will be provided with 20 kilograms of rice in 
 [Data](articles/6ee99053.json)
 
 [Extended Data](ext_articles/6ee99053.ext.json)
+
+---
+
+### හිටපු නාවික හමුදාපති දයා සජබයට එක්වෙයි
+
+*2024-02-07 11:46:29* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-නාවික-හමුදාපති-දයා-සජබයට-එක්වෙයි/11-407944) · `si`
+
+හිටපු නාවික හමුදාපති දයා සඳගිරි මහතා සමගි ජන බලවේගය සමග එක්වී තිබේ. ශ්‍රී ලංකා නාවුක හමුදාවේ 14 වන නාවුක හමුදාපතිවරයා වූ විශ්‍රාමික, දයා සඳගිරි මහතා (VSV, USP rcds, MSc (DS), psc, FCMI) විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා හමුවී මෙලෙස සමගි ජන බලවේගය හා එක්වී ඇත.
+
+සජිත් ප්‍රේමදාස මහතා විසින් ඒ මහතාව සමගි ජනබලවේගයේ සමුද්‍රීය හා නාවුක ප්‍රතිපත්ති පිළිබඳ උපදේශකවරයකු ලෙස පත් කිරීමට පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/e1a34f0b.json)
 
 ---
 
@@ -216,6 +346,26 @@ COLOMBO (News 1st); Sri Lankan President Ranil Wickremesinghe in his policy stat
 
 ---
 
+### වැටුණ තැනින් ගොඩ හා හැටි දර්ශක සහිතව ජනපති කියයි
+
+*2024-02-07 11:30:32* · [`adalk`](https://www.ada.lk/breaking_news/වැටුණ-තැනින්-ගොඩ-හා-හැටි-දර්ශක-සහිතව-ජනපති-කියයි/11-407941) · `si`
+
+2022 අවසානයේදී දළ දේශීය නිෂ්පාදිතයෙන් 3.7%ක් වූ අයවැය ප්‍රාථමික හිඟය, 2023 වසරේ ප්‍රාථමික අයවැය අතිරික්තයක් කර ගැනීමට හැකිවූ බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවැසීය. පාර්ලිමේන්තුවේ නව සැසිවාරය අමතමින් ඔහු මේ බව පැවැසීය.
+
+නිදහසින් පසු ගෙවී ගිය 76 වසර තුළ ශ්‍රී ලංකාවට ප්‍රාථමික අයවැය අතිරික්තයක් ඇති කරගැනීමට හැකි වූ 6 වැනි අවස්ථාව මෙය බවත් ජනාධිපතිවරයා පැවසීය.
+
+එසේම පසුගිය වසරේ පෙබරවාරි මාසයේ පැවැති සියයට 50 ඉකමවූ උද්ධමනය සියයට පහක් දක්වා පහළ දැමීමට හැකිවූ බවද ඔහු පැවැසීය.
+
+2022 අවසානයේ දළ දේශීය නිෂ්පාදනයෙන් 1.9% ක් වූ  ගෙවුම් ශේෂයේ ජංගම ගිණුමේ  හිඟය, 1977න් පසු පළමු  වරට 2023 වසර අවසානයේදී  අතිරික්තයක් ඇති කර ගත හැකි වූ බවද ඔහු පැවැසීය.
+
+2021 වසරේදී 194,495ක් වූ මෙරටට පැමිණි සංචාරකයන් සංඛ්‍යාව 2023 වසරේදී  1,487,303ක් දක්වා ඉහළ නංවා ගැනීමට හැකි වූ අතර මේ වසරේ ජනවාරියේදී පමණක් 200,000කට අධික සංචාරකයන් සංඛ්‍යාවක් පැමිණි බව ජනාධිපතිවරයා පැවසීය. වසරකට ශ්‍රී ලංකාවට පැමිණෙන සංචාරකයන් ප්‍රමාණය මිලියන 5ක් දක්වා ඉහළ නැංවීම අපේක්ෂාව බවද සඳහන් කළේය.
+
+...
+
+[Data](articles/08ec4d00.json)
+
+---
+
 ### Gazette Issue for amendment of the banking law
 
 *2024-02-07 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175773) · `ta`
@@ -248,21 +398,19 @@ President Ranil Wickremesinghe, who thanked everyone and expressed his gratitude
 
 ---
 
-### Former Navy Commander Daya Sandagiri joined the United People's Power!
+### Planning to revise VAT percentage to further support economic growth: President
 
-*2024-02-07 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175775) · `ta`
+*2024-02-07 11:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Planning-to-revise-VAT-percentage-to-further-support-economic-growth-President/108-276499) · `en`
 
-Former Sri Lanka Navy Commander Daya Sandagiri has joined the United People's Power.
+Colombo, Feb 7 (Daily Mirror) - The government was planning to reduce the tax burden as economic reforms continue to stabilize the economy, President Ranil Wickremesinghe said in his Policy Statement in Parliament today.
 
-Party leader Sajith Premadasa has obtained the membership of the United People's Power and has been appointed as the party's advisor.
+“We are also revising the VAT percentage to further support economic growth,” he added.
 
-Former Army Commander Daya Ratnayaka is also known to have recently joined the power of the people.
+Delivering the government's Policy Statement in Parliament, he said the tax registration has substantially increased, with the number of registrations growing from 437,547 in 2022 to 1,000,029 by the end of 2023, representing a 130% increase.
 
 ◼️
 
-[Data](articles/6aa24d83.json)
-
-[Extended Data](ext_articles/6aa24d83.ext.json)
+[Data](articles/de1ed546.json)
 
 ---
 
@@ -1080,6 +1228,24 @@ Investigations have revealed that the robbery was conducted by the suspect above
 
 ---
 
+### අනුර ඉන්දියාවේ ගියේ රෝ ඔත්තු සේවයේ තොරතුරකට
+
+*2024-02-07 08:06:44* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-ඉන්දියාවේ-ගියේ-රෝ-ඔත්තු-සේවයේ-තොරතුරකට/11-407940) · `si`
+
+ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක මහතා ඇතුළු  තම පක්ෂයේ කණ්ඩායම ඉන්දියාවේ සංචාරයකට ගියේ ඉන්දියානු රෝ ඔත්තු සේවය මගින් ඉන්දියානු රජයට ලබා දුන් තොරතුරක් මත බව සමස්ත ලංකා ගොවිජන සම්මේලනයේ ජාතික සංවිධායක නාමල් කරුණාරත්න මහතා 06  දීන පස්වරුවේ දඹුල්ලේදී හෙළි කළේය.
+
+එම තොරතුර සනාථ කරමින් එම පක්ෂයේ සමන්ත විද්‍යාරත්න  මහතා ද  කියා සිටියේ ඉදිරියේදී තවත් රටවල් කීපයක් සමග සාකච්ඡා කිරීමට ආරාධනා ලැබ තිබෙන බවත් ඒ අනුව නොබැඳී ප්‍රතිපත්තියක් අනුව විදේශ රටවල් සමග  ගනුදෙනු  සිදු කරන බවය.
+
+ජාතික පුනරුදයක් වෙනුවෙන් ගොවිජන බලය ගොඩනගන මාතලේ දිස්ත්‍රික් ගොවි සමුළුව  නමින් සමස්ත ලංකා ගොවිජන සම්මේලනය සංවිධානය කරනු ලැබූ ගොවි සමුළුවන් දඹුල්ල   සති පොළ වෙළෙඳ   සංකීර්ණයේදී  06 දින පැවැත්විණි.
+
+එහිදී මාතලේ දිස්ත්‍රික්කයේ ගොවීන් සහ ජාතික ජනබලවේගයේ කණ්ඩායම පෙළපාලියකින් සමුළුව භූමියට ඇතුළු වී පක්ෂයේ නව ප්‍රතිපත්ති පිළිබඳව ජනතාව දැනුවත් කරන්නට විය.
+
+...
+
+[Data](articles/edf685e9.json)
+
+---
+
 ### Report of the committee to decide limits
 
 *2024-02-07 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193065) · `si`
@@ -1843,209 +2009,5 @@ We have come together for a historical journey that causes social change. You ha
 [Data](articles/ecebe770.json)
 
 [Extended Data](ext_articles/ecebe770.ext.json)
-
----
-
-### Fishermen staged a protest against the governor's office in the Northern Province
-
-*2024-02-07 01:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175756) · `ta`
-
-Due to the establishment of a landing field on the beach on the beach, the Manipay Pradeshiya Sabha, along with the Manipay Pradeshiya Sabha, has launched a siege, alleging that the landing field was set up and destroyed the livelihood of the fishermen.
-
-During this struggle, he met with the Government Agent at the Jaffna District Secretariat. The Local Government Department has met the Governor of the Northern Province and demanded that the fishermen not to prevent the development projects of the fishermen, and that the state fund has not been reconstructed and the reconstruction of the fishermen's small funds, and the siege should be set up in the same place.
-
-◼️
-
-[Data](articles/2eaaf455.json)
-
-[Extended Data](ext_articles/2eaaf455.ext.json)
-
----
-
-### The third phase of the loan will be available at the time of the Monetary Fund - Minister Bandula Gunawardena
-
-*2024-02-07 01:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175755) · `ta`
-
-Could not receive loans from the Currency Fund at the time of the government. Cabinet spokesman Minister Bandula Gunawardena said that the third phase of the loan will be paid at the time of the Monetary Fund.
-
-He further stated that the weekly cabinet decisions were held when the press conference was held on Tuesday (6).
-
-Have received two -phase loans from the International Monetary Fund. The third phase is to be obtained. Thus the loan amount does not provide the currency fund when we need. They will be provided with the schedule scheduled by them.
-
-Financial assistance is expected from the Asian Development Bank and the World Bank to fill the budget between the budget and. It is a compliance with the Monetary Fund that our foreign exchange reserve has been increased by $ 14 billion in 2027.
-
-...
-
-[Data](articles/cd108f1f.json)
-
-[Extended Data](ext_articles/cd108f1f.ext.json)
-
----
-
-### 2.8 billion rupees from Japan to supply electricity to hospitals with renewable power
-
-*2024-02-07 00:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175754) · `ta`
-
-Japan will help the project to ensure the supply of power in Sri Lankan hospitals with renewable strength.
-
-The Government of Japan has agreed to provide the Japanese Yen project through the Japanese International Cooperation Agency (approximately 2.8 billion rupees) through the Japanese International Cooperation Agency to provide electricity facilities through the establishment of solar power generations at Sri Jayawardenapura General Hospital, Kurunegala Teaching Hospital and Ratnapura Teaching Hospital.
-
-The aim of this project is to reduce the use of unintended strength in the health sector, increase the overall efficiency of the health services division and improve the development of peculiarity.
-
-Accordingly, the Cabinet has approved the proposal submitted by the President as Minister of Finance, Economic Stability and National Policies on the implementation of the projects.
-
-◼️
-
-[Data](articles/23a90de3.json)
-
-[Extended Data](ext_articles/23a90de3.ext.json)
-
----
-
-### We will express fierce opposition to the president's policy speech - Udaya Kammanpila
-
-*2024-02-07 00:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/175753) · `ta`
-
-President presents leadership in showing humor people. Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya (JHU) and Member of Parliament, said that the president's policy speech will be expressed.
-
-He made this statement during a media briefing held at the Bivithuru Hela Urumaya (JHU) office in Colombo on Tuesday (6).
-
-This country can never improve as long as there is a decision in the election, without considering the future of the future.. President Ranil Wickremesinghe boasts that the land certificate has been issued through the Urithi project.
-
-The president is working on the presidential election this year. It is doubtful how true this land certification is, because the president is talented in referring to the fake promises.
-
-If people like Keheliya Rambukwella should not be appointed as the Minister of Health in the future, the National Pharmacy Control Authority should be free from the Ministry of Health and act as an independent authority.
-
-...
-
-[Data](articles/fdc9b2aa.json)
-
-[Extended Data](ext_articles/fdc9b2aa.ext.json)
-
----
-
-### Charitha raises concerns with President on Executive-Legislative conflict
-
-*2024-02-07 00:47:09* · [`dailyftlk`](https://www.ft.lk/news/Charitha-raises-concerns-with-President-on-Executive-Legislative-conflict/56-758208) · `en`
-
-Says there is a clear constitutional issue after Constitutional Council rejected President’s nominee to the SC
-
-Stresses that President’s view of council is marginalised and one-dimensional
-
-Claims Wickremesinghe’s perspectives are not aligned with principal expectations outlined in 17A concerning it
-
-Reminds ‘Caretaker President’ that he too is accountable to citizens as per country’s constitution
-
-In a letter addressed to President Ranil Wickremesinghe, Parliamentarian Prof. Charitha Herath has expressed apprehensions regarding the evident conflict between the executive and legislative branches, notably highlighted by the dispute over appointing a new Supreme Court judge in place of Justice Buwaneka Aluwihare.
-
-In this letter, he has highlighted to the President the concerns regarding potential constitutional issues arising out of such a conflict, despite not being a member of the Constitutional Council.
-
-...
-
-[Data](articles/b39d4985.json)
-
-[Extended Data](ext_articles/b39d4985.ext.json)
-
----
-
-### Nagananda seeks to challenge NPP’s registration before courts
-
-*2024-02-07 00:46:03* · [`dailyftlk`](https://www.ft.lk/news/Nagananda-seeks-to-challenge-NPP-s-registration-before-courts/56-758207) · `en`
-
-One time Presidential hopeful and Secretary of the Vinivida Front Attorney Nagananda Kodituwakku filed a motion before the Supreme Court yesterday seeking an opportunity to present facts to prove that the registration of the National People’s Power (NPP) party is illegal.
-
-According to sources, Kodituwakku has filed the motion concerning the writ petition filed by him against the decision by the Election Commission of Sri Lanka (ECSL) to reject the party registration application submitted by the front.
-
-In his motion, Nagananda maintains that the registration of the NPP, a part of the Janatha Vimukthi Peramuna (JVP) as a political party contravenes the law. According to him, it is against the law to register offshoots of the same party as separate political parties and it violates constitutional rights which assures a free and fair election.
-
-...
-
-[Data](articles/c9333123.json)
-
-[Extended Data](ext_articles/c9333123.ext.json)
-
----
-
-### Speaker issues clarification on OSB
-
-*2024-02-07 00:45:20* · [`dailyftlk`](https://www.ft.lk/news/Speaker-issues-clarification-on-OSB/56-758206) · `en`
-
-Office underscores collaborative nature of legislative proceedings which minimises possibility of any enactment contravening constitution
-
-Provides an exhaustive explanation of procedural intricacies involved in passing a Bill
-
-Urges MPs to, if true, specify any alleged oversight or dismissal of recommendations for appropriate review and response
-
-In response to growing concerns and misinformation surrounding the enactment of the Online Safety Act, No. 9 of 2024, the Office of the Speaker released a statement yesterday aiming to provide clarity on the process and legality of the Act’s passage.
-
-The statement comes amidst widespread discussions and criticisms regarding the Act’s provisions and the manner in which it was passed. The Office said the statement is being issued in the interest of the public, to set the record straight on the passing and the subsequent enactment of the act.
-
-...
-
-[Data](articles/5ef98b3f.json)
-
-[Extended Data](ext_articles/5ef98b3f.ext.json)
-
----
-
-### Cabinet clears National Disaster Management Plan 2023-2030 for Parliament approval
-
-*2024-02-07 00:45:04* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-clears-National-Disaster-Management-Plan-2023-2030-for-Parliament-approval/56-758205) · `en`
-
-The Cabinet of Ministers cleared a proposal put forth by the President, who also serves as the Defence Minister, to introduce the National Disaster Management Plan – 2023-2030 in Parliament.
-
-The decision marks a significant milestone in the country’s efforts to enhance disaster preparedness and response mechanisms.
-
-By the provisions of the Sri Lanka Disaster Management Act No. 13 of 2005, the formulation and execution of the National Disaster Management Plan fall under the primary jurisdiction of the National Disaster Management Centre (DMC).
-
-Accordingly, the 2023-2030 Sendai Action Plan has been prepared in compliance with sustainable development goals and Conventions on Climate Change, coordinating all the relevant institutions.
-
-◼️
-
-[Data](articles/84b4dcff.json)
-
-[Extended Data](ext_articles/84b4dcff.ext.json)
-
----
-
-### Sri Lanka is India's colony if the Edka Agreement is signed;The people of the country should unite and oppose - Wimal Weerawansa
-
-*2024-02-07 00:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175752) · `ta`
-
-India is trying to dominate Sri Lanka in various ways. Sri Lanka will be transformed into a colony of India if the Edka Agreement is signed. National Freedom Front leader and Member of Parliament Wimal Weerawansa said that the people of the country should unite and protest.
-
-He was speaking at a media briefing held at the National Freedom Front office in Colombo on Tuesday (06).
-
-The government has taken swift measures to sign the Edka Agreement between Sri Lanka and India. President Ranil Wickremesinghe has been appointed as an exclusive official to sign political and economic agreements with various countries.
-
-Negotiations have been carried out between this exclusive officer and India. Therefore, the Etsa contract will be signed between the two countries soon. The signing of the agreement has not been a success in the past as there are fierce opposition among the people and the political level against the Edka deal.
-
-...
-
-[Data](articles/308b0b61.json)
-
-[Extended Data](ext_articles/308b0b61.ext.json)
-
----
-
-### 1990 Ambulance Service for Mankulam Territory
-
-*2024-02-07 00:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175751) · `ta`
-
-Free Ambulance Service (1990) for the Mankulam area of Mullaitivu district has been suspended for more than three months.
-
-Emergency Ambulance (1990), especially in the Mankulam police station, is mainly on the A9 road, which is facing traffic difficulties in the Pandya Pond, Nattangandal Mallavi, Fort -built pond, Ambalaperumal and Ambakamam Dakdhampan Olamadu and various other people in the area.As the service is being received daily, people have been forced into various hardships as these ambulance services have been stopped for three months.
-
-In particular, patients from areas such as Nattangandal have to spend about 3000 rupees for auto
-
-So people are demanding that this ambulance service be operated very quickly
-
-As of this, the 1990 free ambulance services of Mangulam, Mulliyawalai and Mannar areas in Mullaitivu district. It has been requested that the relevant parties be taken care of and that they will be completed quickly.
-
-◼️
-
-[Data](articles/ac8d9e07.json)
-
-[Extended Data](ext_articles/ac8d9e07.ext.json)
 
 ---

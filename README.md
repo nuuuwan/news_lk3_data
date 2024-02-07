@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 09:32:55**
+As of **2024-02-07 09:51:30**
 
 ## Newspaper Stats
 
-*Scraped **5,351** Articles*
+*Scraped **5,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 305
 newsfirstlk | 329
 adalk | 452
 virakesarilk | 642
-adaderanalk | 660
+adaderanalk | 661
 tamilmirrorlk | 667
 adaderanasinhalalk | 690
 dailymirrorlk | 761
@@ -26,11 +26,35 @@ dailymirrorlk | 761
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,351 (100.0%) of 5,351 articles have been extended.
+5,352 (100.0%) of 5,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### 13th suspect arrested in connection with Beliatta mass shooting
+
+*2024-02-07 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97069/13th-suspect-arrested-in-connection-with-beliatta-mass-shooting-) · `en`
+
+The police have arrested another suspect allegedly involved in the Beliatta mass shooting in which five people were killed.
+
+The new development brings the total number of suspects arrested over the quintuple murder to 13.
+
+The 24-year-old had surrendered to the police through a lawyer on Tuesday (Feb.06). He was identified as a resident of Imbulgoda, Akuressa.
+
+The shooting took place on January 23 near the Beliatta interchange of the Southern Expressway.
+
+A group of assailants in an SUV had opened fire at a white Defender, killing four persons at the scene. The fifth person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, but he was pronounced dead shortly after.
+
+Among the deceased was the leader of “Ape Jana Bala Pakshaya” (Our Power of People Party or OPPP) Saman Perera. The other four victims were identified as Sameera Madhusanka, Hasitha Chinsuka, Buddhika Rajapaksha, and Nalin Champika.
+
+...
+
+[Data](articles/66c722a4.json)
+
+[Extended Data](ext_articles/66c722a4.ext.json)
+
+---
 
 ### Ceremonial opening of Fifth Session of Ninth Parliament today
 
@@ -2001,25 +2025,5 @@ The attack took place on a heated argument that the two inmates had been imposed
 [Data](articles/2c61dd81.json)
 
 [Extended Data](ext_articles/2c61dd81.ext.json)
-
----
-
-### I do not have the authority to revise or accept; the Speaker
-
-*2024-02-06 19:46:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருத்தவோ-ஏற்கவோ-எனக்கு-அதிகாரம்-இல்லை-சபாநாயகர்/175-332784) · `ta`
-
-Speaker Mahinda Yapa Abeywardena has said that no one, including the Supreme Court in the Online Security Act, has no authority to accept or reject amendments.
-
-The Speaker made these comments on the comments made by opposition members including Opposition Leader Sajith Premadasa, who accused the Constitution of passing the Constitution in the passage of the Online Security Bill.
-
-The Speaker's Office has also said that the legislative action of Parliament is being carried out in collaboration with the Attorney General's Department and the Department of Law Draft.
-
-If the Members of the Supreme Court report on what recommendations of the High Court, the relevant authorities will respond to it. The Speaker's Office said that the Speaker has no right to be preferred on the above issues.
-
-...
-
-[Data](articles/b6747acd.json)
-
-[Extended Data](ext_articles/b6747acd.ext.json)
 
 ---

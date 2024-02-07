@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 19:50:29**
+As of **2024-02-07 20:02:21**
 
 ## Newspaper Stats
 
-*Scraped **5,509** Articles*
+*Scraped **5,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,98 @@ islandlk | 288
 economynextcom | 290
 dailyftlk | 305
 newsfirstlk | 339
-adalk | 470
-virakesarilk | 670
-adaderanalk | 684
-tamilmirrorlk | 686
+adalk | 471
+virakesarilk | 671
+adaderanalk | 685
+tamilmirrorlk | 687
 adaderanasinhalalk | 716
-dailymirrorlk | 779
+dailymirrorlk | 781
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,509 (100.0%) of 5,509 articles have been extended.
+5,509 (99.9%) of 5,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### பொதுப் போக்குவரத்தில் சில்மிஷம் செய்பவர்களுக்கு விசேட அறிவித்தல்
+
+*2024-02-07 19:33:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுப்-போக்குவரத்தில்-சில்மிஷம்-செய்பவர்களுக்கு-விசேட-அறிவித்தல்/175-332848) · `ta`
+
+பொதுப் போக்குவரத்தில் சிறுவர்கள் மற்றும் பெண்களுக்கு எதிராக துஷ்பிரயோகங்களில் ஈடுபடும் நபர்களை இலக்கு வைத்து நாடளாவிய ரீதியில் பொலிஸ் நடவடிக்கை ஒன்று ஆரம்பிக்கப்பட்டுள்ளது.
+
+தினசரி அடிப்படையில் பொலிஸ் நிலையங்களுக்கு வரும் முறைப்பாடுகளின் எண்ணிக்கையின் அதிகரிப்பை மையமாக கொண்டு பொதுப் போக்குவரத்துச் சேவைகளுக்குள் பாலியல் துஷ்பிரயோகத்தை எதிர்த்துப் போராடுவதே இந்த நடவடிக்கையின் முதன்மை நோக்கமாகும் என்று பொது பாதுகாப்பு அமைச்சகம் தெரிவித்துள்ளது.
+
+இந்த நடவடிக்கையை அமுல்படுத்துமாறு பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் பணிப்புரை விடுத்துள்ளார்.
+
+பொதுப் போக்குவரத்து அதிகமாக உள்ள காலை 08:00-10:00 மற்றும் மாலை 17:00-19:00 ஆகிய நேரங்களில் இந்நடவடிக்கைகளுக்கு முன்னுரிமை அளிக்குமாறு, பொலிஸாருக்கு ஐஜிபி அறிவுறுத்தியுள்ளார்.
+
+அதன்படி, வீதிகள், பஸ் நிலையங்கள் மற்றும் புகையிரத நிலையங்களில் விசேட கவனம் செலுத்தப்பட்டு, சிவில் உடையில் பொலிஸ் உத்தியோகத்தர்கள் பஸ்களில் பயணிப்பார்கள்.
+
+...
+
+[Data](articles/bc2c24f7.json)
+
+---
+
+### மட்டு நகரில் பெண் சட்டத்தரணி மீதும் கணவன் மீதும் தாக்குதல்; பெண் உட்பட இருவருக்கு விளக்கமறியல்!
+
+*2024-02-07 19:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175838) · `ta`
+
+மட்டக்களப்பு நகரில் நீதிமன்றத்திற்கு அருகாமையிலுள்ள சட்டத்தரணி ஒருவரின் காரியாலயத்தினுள் அத்துமீறி நுழைந்து பெண் சட்டத்தரணியையும் அவரது கணவரையும் தாக்கிய சம்பவம் தொடர்பாகக் கைது செய்யப்பட்ட பெண் ஒருவர் உட்பட இருவரையும்  விளக்கமறியலில் வைக்கெமாறு மட்டக்களப்பு நீதிவான் நீதிமன்ற நீதிவான் எம்.எச். முகமட் ஹம்ஸா  செவ்வாய்க்கிழமை (6) உத்தரவிட்டார்.
+
+இதனையடுத்து தாக்குதலுக்கு உள்ளான சட்டத்தரணியும் அவரது கணவரும்  வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தெரிய வந்துள்ளது.
+
+இந்நிலையிலையில் கைது செய்யப்பட்ட இருவரையும் செவ்வாய்க்கிழமை (6) மாலை மட்டக்களப்பு நீதவான் நீதிமன்ற நீதவான் எம்.எச். முகமட் ஹம்சா முன்னிலையில் ஆஜர்படுத்திய போதே  எதிர்வரும் 20 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவிட்டார்.
+
+◼️
+
+[Data](articles/e7138631.json)
+
+---
+
+### Man arrested for brutal assault on children and blackmailing wife overseas
+
+*2024-02-07 19:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-arrested-for-brutal-assault-on-children-and-blackmailing-wife-overseas/108-276529) · `en`
+
+An individual who severely assaulted his two children and sent its video scenes to his wife employed abroad to pressurize her to increase the money sent to him was arrested by the Lindula police and handed over to Dimbula Pathana police today.
+
+His wife has been employed in a Middle East country as a house maid leaving the two children of nine and five years of age in the care of her husband. She has been sending him a limited amount of money to prevent his wasteful expenses.
+
+The mans wife had shared the video clippings of her children being assaulted on social media drawing the attention of the Police.
+
+After the incident the suspect had left for his house in Lindula area with the two children who had been at their grand mother’s house in Dimbula only to be arrested by the Lindula police .
+
+Investigations revealed that the 33 year old suspect father who returned home after work at a vehicle service centre in Colombo had severely assaulted the two children.
+
+...
+
+[Data](articles/8009d208.json)
+
+---
+
+### Sanath Nishantha’s death is suspicious – wife tells CID
+
+*2024-02-07 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97092/sanath-nishanthas-death-is-suspicious-wife-tells-cid) · `en`
+
+The wife of late State Minister Sanath Nishantha has filed a complaint with the Criminal Investigation Department (CID), raising suspicions surrounding the lawmaker’s death.
+
+Accordingly, Attorney-at-Law Chamari Priyanka had claimed that certain factors pertaining to the State Minister’s death remain suspicious, and had thereby requested for an investigation into the incident.
+
+On 25 January, Sanath Nishantha’s vehicle had crashed against the roadside barrier on the Katunayake Expressway, after rear-ending a moving container truck at around 02:00 a.m., according to police.
+
+Following the fatal collision, three injured persons, including the State Minister, were rushed to the Colombo North Teaching Hospital in Ragama, but the lawmaker and his security guard, identified as a police constable attached to his security detail, had later succumbed to their injuries.
+
+The driver was subsequently was arrested on 26 January, however, was later granted bail on 05 February.
+
+...
+
+[Data](articles/9d008d97.json)
+
+---
 
 ### Family of five Sri Lankan nationals illegally enter India
 
@@ -52,7 +128,7 @@ According to police sources, 294 Sri Lankan Tamils have fled the island nation s
 
 ---
 
-### Kudu Roshan’ released on strict bail conditions
+### ‘Kudu Roshan’ released on strict bail conditions
 
 *2024-02-07 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97090/kudu-roshan-released-on-strict-bail-conditions-) · `en`
 
@@ -71,6 +147,26 @@ On 28 January ill-gotten properties worth Rs.55 million allegedly owned by ‘Ku
 [Data](articles/8b2d19b5.json)
 
 [Extended Data](ext_articles/8b2d19b5.ext.json)
+
+---
+
+### Suspects hospitalized after ingesting unidentified substance given by a visitor at Police cell
+
+*2024-02-07 18:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspects-hospitalized-after-ingesting-unidentified-substance-given-by-a-visitor-at-Police-cell/108-276528) · `en`
+
+Two suspects, who were detained at the Wolfendhal Police Station over a recent shooting in the area of Jinthupitiya, were admitted to the Colombo National Hospital today (7) after drinking a packet of milk given to them by a visitor.
+
+Two suspects had lost consciousness after they consumed milk packets and it is suspected that the packet of milk contained a toxin, police said.
+
+The police allege that milk packets were mixed with cyanide and given to the suspects to drink.
+
+One of the suspects who fell ill is the suspect who shot and killed a person on January 24 in the Jinthupitiya area, and the other suspect acted as an informant.
+
+Chamindu Darshan (27), a resident of Serunuwara who was identified as the shooter and other suspect Lakshitha Fernando (29), a resident of Colombo-13 are hospitalized in a critical condition.
+
+◼️
+
+[Data](articles/f7551849.json)
 
 ---
 
@@ -511,6 +607,26 @@ The reconstruction of Gaza would begin, Israeli forces would withdraw completely
 [Data](articles/f5828b88.json)
 
 [Extended Data](ext_articles/f5828b88.ext.json)
+
+---
+
+### ප්‍රභාත් ජයසූරිය ඉදිරියට
+
+*2024-02-07 16:10:36* · [`adalk`](https://www.ada.lk/sports/ප්‍රභාත්-ජයසූරිය-ඉදිරියට/9-407954) · `si`
+
+අන්තර්ජාතික ක්‍රිකට් කවුන්සිලය (ICC) විසින් නිකුත් කළ නවතම ටෙස්ට් පන්දු යවන්නන්ගේ ශ්‍රේණිගත කිරීම්වලට අනුව, දඟපන්දු යවන ක්‍රීඩක ප්‍රභාත් ජයසූරිය ශ්‍රේණිගත කිරීම්වල ඉදිරියට පැමිණ තිබේ.
+
+ඔහු මීට පෙර ටෙස්ට් පන්දු යවන්නන්ගේ ශ්‍රේණිගත කිරීම්වල 09 වැනි ස්ථානයේ පසු වූ අතර, නවතම ශ්‍රේණිගත කිරීම්වල 06 වැනි ස්ථානය දක්වා ඉදිරියට පැමිණ ඇත.
+
+නිමා වූ ශ්‍රී ලංකා - ඇෆ්ගනිස්තාන ටෙස්ට් තරගයේ දී කඩුලු 8ක් දවාගනිමින් දැක්වූ දස්කම් සමඟ ප්‍රභාත් ජයසූරිය මෙසේ ශ්‍රේණිගත කිරීම්වල ඉදිරියට පැමිණ තිබේ.
+
+ශ්‍රේණිගත කිරීම්වල පෙරමුණේ පසු වන්නේ, ඉන්දීය වේගපන්දු යවන ක්‍රීඩක ජස්ප්‍රිට් බුම්රායි. ඉන්අනතුරුව දකුණු අප්‍රිකානු වේගපන්දු යවන ක්‍රීඩක කගීසෝ රබාඩා, ඉන්දීය දඟපන්දු යවන ක්‍රීඩක රවිචන්ද්‍රන් අශ්වින් සිටියි.
+
+සිව් වැනි හා පස් වැනි ස්ථානවල පිළිවෙළින් පසු වන්නේ, ඔස්ට්‍රේලියානු වේගපන්දු යවන්නන් දෙපොළක් වන පැට් කමින්ස් සහ ජොෂ් හේසල්වුඩ් ය.
+
+◼️
+
+[Data](articles/92222150.json)
 
 ---
 
@@ -1942,7 +2058,7 @@ Families with low -income poverty will be provided with 20 kilograms of rice in 
 
 ---
 
-### IMF advises Maldives to run monetary policy to fix exchange rate peg unlike for Sri Lanka
+### Maldives advised by IMF to run monetary policy to keep exchange rate peg unlike for Sri Lanka
 
 *2024-02-07 11:50:00* · [`economynextcom`](https://economynext.com/imf-advises-maldives-to-run-monetary-policy-to-fix-exchange-rate-peg-unlike-for-sri-lanka-150228/) · `en`
 
@@ -1959,127 +2075,5 @@ In 2022 Maldives grew by 13.9 percent and in 2023 the country is estimated to gr
 [Data](articles/89b7c3ee.json)
 
 [Extended Data](ext_articles/89b7c3ee.ext.json)
-
----
-
-### UNICEF welcomes amendments to Sri Lanka’s Children & Young Persons Ordinance
-
-*2024-02-07 11:47:00* · [`economynextcom`](https://economynext.com/unicef-welcomes-amendments-to-sri-lankas-children-young-persons-ordinance-150225/) · `en`
-
-ECONOMYNEXT — The United Nations Children’s Fund (UNICEF) has welcomed an amendment to Sri Lanka’s Children and Young Persons Ordinance (CYPO) that came into effect on January 01.
-
-UNICEF said in a statement on Wednesday February 07 that the amendment marks a significant step towards protecting the rights and welfare of all children in Sri Lanka.
-
-The CYPO, a legislation governing justice for children in Sri Lanka since 1939, previously only covered those up to the age of 16. The amendment now extends its protection to all children under the age of 18. The amendment also repeals the section of the CYPO which permitted the use of corporal punishment on children and adolescents by parents, teachers, or guardians.
-
-...
-
-[Data](articles/e91dc2df.json)
-
-[Extended Data](ext_articles/e91dc2df.ext.json)
-
----
-
-### Daya joins the former Navy Commander
-
-*2024-02-07 11:46:29* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-නාවික-හමුදාපති-දයා-සජබයට-එක්වෙයි/11-407944) · `si`
-
-Former Navy Commander Daya Sandariri has joined the reconciliation. The 14th Navy Commander of the Sri Lanka Navy, Pension, Daya Sandagar (DS), PSC, FCK (DS), and joined the reservion leader Sajith Premadasa.
-
-Sajith Premadasa has been appointed as a consultant on the Marine and Navigation of the masses.
-
-◼️
-
-[Data](articles/e1a34f0b.json)
-
-[Extended Data](ext_articles/e1a34f0b.ext.json)
-
----
-
-### Sri Lankan court releases six Indian fishermen
-
-*2024-02-07 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97076/sri-lankan-court-releases-six-indian-fishermen) · `en`
-
-A Sri Lankan court on Tuesday released six Indian fishermen who were arrested on Jan 22 on charges of poaching in the territorial waters of the island nation.
-
-The released fishermen were handed over to the Indian consulate general office in Jaffna.
-
-Isaac, 47, Sisarian, 43, Samathana Babu, 38, Easter Arockiadas, 34, Nishanthan, 34, and Murugesan sailed from the Rameswaram fishing jetty on two boats.
-
-The fishermen were booked for trespassing, poaching and using banned fishing nets in Sri Lankan waters. They were produced before the Sri Lankan court at Oorkavalthurai and remanded in judicial custody till Feb 6.
-
-When they were produced before the court on Tuesday, judge ordered their release on the condition that they should not enter Sri Lankan waters failing which they would be imprisoned. The judge ordered nationalisation of their fishing crafts and the fishing gear.
-
-...
-
-[Data](articles/6a43b5fc.json)
-
-[Extended Data](ext_articles/6a43b5fc.ext.json)
-
----
-
-### Father arrested for brutally assaulted the two children
-
-*2024-02-07 11:40:20* · [`adalk`](https://www.ada.lk/breaking_news/දරුවන්-දෙදෙනාට-අමානුෂික-ලෙස-පහර-දි-එය--සමාජ-මාධ්‍යට-එක්-කල-පියා-අත්අඩංගුවට/11-407943) · `si`
-
-Dimbula Patana Police OIC Chief Inspector Anandasiri said that the father of children (07) of their children were inhumane to their children.
-
-The OIC said that the wife of the house was attacked at the house of the Dimbula Dimbulan Pattha Patuna, and the two-year-old children of the house.
-
-The suspect is determined by the suspect, as the two children were working at a vehicle cleaner center in Colombo and the suspect was involved in a vehicle's advice in Colombo.
-
-The suspect was arrested and handed over to the liduli police for further investigations in the Nagasena area belonging to the Sabula area.
-
-The two children who were taken into custody were taken to the Judiciary of the Basic Hospital of the Dikoya Basic Hospital and will be produced before the Hatton Secretariat.
-
-◼️
-
-[Data](articles/5343d079.json)
-
-[Extended Data](ext_articles/5343d079.ext.json)
-
----
-
-### Mahinda committing to Alotel
-
-*2024-02-07 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193073) · `si`
-
-The Fort Magistrate's Court today (07) ordered the release of his Kodituwakku, a Portal Bodhisattva.
-
-Our correspondent said he was released on two personal bail.
-
-Mahinda Kodituwakku, who was accused of appearance with the Avalocritice, was revealed at the Fort Magistrate's Court recently (Jan. 24).
-
-Accordingly, the court ordered to be remanded that suspect that day further reserves, he ordered him to direct mental medical treatment.
-
-◼️
-
-[Data](articles/efcc740e.json)
-
-[Extended Data](ext_articles/efcc740e.ext.json)
-
----
-
-### Self-proclaimed ‘Avalokiteshvara Bodhisattva’ granted bail, referred to psychiatric treatment
-
-*2024-02-07 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97075/self-proclaimed-avalokiteshvara-bodhisattva-granted-bail-referred-to-psychiatric-treatment) · `en`
-
-Mahinda Kodituwakku, the self-proclaimed ‘Avalokiteshvara Bodhisattva’ has been granted bail on the orders of Colombo Fort Magistrate’s Court.
-
-When the case was called today, Magistrate Thilina Gamage ordered the release of Kodituwakku on two personal bails of Rs. 1 million each, as he suffers from a mental disorder.
-
-Accordingly, the accused was instructed to attend the psychiatric clinic at the National Institute of Mental Health in Mulleriyawa, every Monday.
-
-Kodituwakku was arrested by the CID on Jan.15, on charges of committing irreligious activities that are contrary to Buddhist teachings and put behind bars on remand until today (Feb.07).
-
-During previous court proceedings, the forensic psychiatrist told the magistrate that the suspect required psychiatric treatment.
-
-Earlier this month, the president of Buddhist Information Centre, Ven. Agulugalle Sri Jinananda Thero had filed a complaint with the CID alleging that Kodituwakku has been misleading the Buddhist community.
-
-...
-
-[Data](articles/8c40c48a.json)
-
-[Extended Data](ext_articles/8c40c48a.ext.json)
 
 ---

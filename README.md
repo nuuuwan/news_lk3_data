@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 17:17:22**
+As of **2024-02-07 17:33:19**
 
 ## Newspaper Stats
 
-*Scraped **5,487** Articles*
+*Scraped **5,492** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 62
+colombotelegraphcom | 64
 bbccomsinhala | 78
 dbsjeyarajcom | 140
 islandlk | 288
@@ -16,9 +16,9 @@ economynextcom | 290
 dailyftlk | 305
 newsfirstlk | 339
 adalk | 468
-virakesarilk | 664
-adaderanalk | 679
-tamilmirrorlk | 684
+virakesarilk | 665
+adaderanalk | 680
+tamilmirrorlk | 685
 adaderanasinhalalk | 713
 dailymirrorlk | 777
 
@@ -26,83 +26,147 @@ dailymirrorlk | 777
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,481 (99.9%) of 5,487 articles have been extended.
+5,488 (99.9%) of 5,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### විෂ වායුවක් ආග්‍රහණය වී ධීවරයෙකු මරුට - 7ක් රෝහලේ
+### 4 வருடங்களாக சேமநல நிதியத்தினை மத்திய வங்கிக்கு அனுப்பி வைக்காத தோட்ட நிர்வாகம் ; தலவாக்கலை - ஹோல்றீம் தோட்டத் தொழிலாளர்கள் ஆர்ப்பாட்டம்
+
+*2024-02-07 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175816) · `ta`
+
+தலவாக்கலை லிந்துலை ஹோல்றீம் தோட்டத்தின் கொணன் மற்றும் ஹோல்றீம் ஆகிய தோட்டங்களை சேர்ந்த 500 இற்கு மேற்பட்ட தொழிலாளர்களின் மாதாந்த சம்பளத்தில் அறவிடப்படும் ஊழியர் சேமநல நிதியத்தினை கடந்த 4 வருட காலமாக மத்திய வங்கிக்கு தோட்ட நிர்வாகம் அனுப்பி வைக்காத  காரணத்தினால்  இன்று புதன்கிழமை (07)  தொழிலாளர்கள் தேயிலை தொழிற்சாலைக்கு முன்பாக கவனயீர்ப்பு ஆர்ப்பாட்டத்தினை முன்னெடுத்தனர்.
+
+இதில் 500க்கும் மேற்பட்ட தொழிலாளர்கள் பங்கேற்றனர். தொழிற்சாலைக்கு முன்பாக அமர்ந்து தங்களின் எதிர்ப்பு நடவடிக்கை முன்னெடுத்தமை குறிப்பிடத்தக்கதாகும்.
+
+தமது சம்பளத்திலிருந்து மாதாந்தம் அறவிடப்படும் நிதி இதுவரை மத்திய வங்கிக்கு அனுப்பி வைக்கப்படவில்லை என தோட்ட தொழிலாளர்கள் தெரிவித்தனர்.
+
+மேலும், தோட்ட அதிகாரிகள் இதனை கவனம் செலுத்தாமல் தொழிலாளர்களை மக்கள் ஏமாற்றியதாக குறிப்பிட்டதோடு உடனடியாக தமது கட்டணத்தை தோட்ட நிர்வாகம் உரிய திணைக்களத்துக்கு அனுப்பி அதற்கான ரசீதுகளை தமக்கு வழங்க வேண்டுமென போராட்டத்தில்  ஈடுபட்டவர்கள் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/c998e14e.json)
+
+---
+
+### Fisherman killed in hospital with a poisonous gas
 
 *2024-02-07 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193091) · `si`
 
-අම්බලන්ගොඩ ධීවර වරායේ නවතා තිබූ ධීවර යාත්‍රාවක මාළු බහාලන ටැංකියක් තුළදී විෂ වායුවක් ආග්‍රහණය වීම හේතුවෙන් ධීවරයෙකු මියගොස් තිබේ.
+A fisherman has died due to a fishing tank at a fishing vessel at the Ambalangoda Fisheries Harbor.
 
-සෙසු ධීවරයින් 07 දෙනා මේ වනවිට බලපිටිය රෝහලේ ප්‍රතිකාර ලබයි.
+The seven other fishermen are currently receiving treatment at the Balapitiya Hospital.
 
 ◼️
 
 [Data](articles/37798d8b.json)
 
+[Extended Data](ext_articles/37798d8b.ext.json)
+
 ---
 
-### ජස්ප්‍රිට් බුම්‍රාගෙන් ඓතිහාසික වාර්තාවක්
+### பெருந்தோட்டத்துறைக்கு காணி உறுதி வழங்கவும்
+
+*2024-02-07 16:53:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பெருந்தோட்டத்துறைக்கு-காணி-உறுதி-வழங்கவும்/76-332845) · `ta`
+
+காணி உறுதிப் பத்திரம் வழங்கும் நடவடிக்கைகள் அரசாங்கத்தினால் தேசிய மட்டத்தில் முன்னெடுக்கப்பட்டுள்ள நிலையில் பெருந்தோட்டத்துறை மக்களுக்கும் அது வழங்கப்பட வேண்டும் என்பதை  தாம் ஜனாதிபதியின் கவனத்திற்கு கொண்டு வந்துள்ளதாக ஜனாதிபதியின் மலையக பெருந்தோட்டத்துறை அபிவிருத்தி தொடர்பான சிரேஷ்ட ஆலோசகர் பாராளுமன்ற உறுப்பினர் வடிவேல் சுரேஷ் தெரிவித்தார்.
+
+ஜனாதிபதியினால் பாராளுமன்றத்தில் புதன்கிழமை (07) நிகழ்த்தப்பட்ட கொள்கை விளக்க உரை தொடர்பில் கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+அது தொடர்பில் காணியமைச்சர் ஹரீன் பெர்னாண்டோவுடனும் தாம் கலந்துரையாடியுள்ளதாக தெரிவித்த அவர், அடுத்த கட்ட நடவடிக்கையாக அது விடயத்தில் கவனம் செலுத்தப்படும் என அவர் தமக்கு உறுதியளித்ததாகவும் குறிப்பிட்டார்.
+
+அத்துடன் அரசாங்கத்திற்கு சொந்தமான தோட்டநிறுவனங்களின் காணிகள் பகிர்ந்தளிக்கப்படும் போது காலம் காலமாக மலையகத்தில் வாழ்ந்து வரும் பெருந்தோட்ட தொழிலாளர்களின்  காணிகளை அவர்களுக்கு வழங்கிவிட்டு அதன் பின்னர் ஏனைய பகிர்ந்தளிப்பு தொடர்பில் அரசாங்கம் கவனம் செலுத்த வேண்டும் என்றும் அவர் கேட்டுக் கொண்டார்.
+
+◼️
+
+[Data](articles/4a4d831f.json)
+
+---
+
+### UNICEF welcomes amendment to Sri Lanka’s Children and Young Persons Ordinance
+
+*2024-02-07 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97087/unicef-welcomes-amendment-to-sri-lankas-children-and-young-persons-ordinance) · `en`
+
+The United Nations International Children’s Emergency Fund (UNICEF) states that it welcomes the long-awaited amendment to the Sri Lanka’s Children and Young Persons Ordinance (CYPO) coming into force effective January 01, 2024, which marks a significant step towards protecting the rights and welfare of all children of the country.
+
+The CYPO, a legislation governing justice for children in Sri Lanka since 1939, previously only covered those up to the age of 16. The amendment now extends its protection to all children under the age of 18. Furthermore, the amendment also repeals the section of the CYPO which permitted the use of corporal punishment on children and adolescents by parents, teachers, or guardians.
+
+...
+
+[Data](articles/149d1222.json)
+
+[Extended Data](ext_articles/149d1222.ext.json)
+
+---
+
+### A historical record of Josephrit Bumra
 
 *2024-02-07 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193090) · `si`
 
-සුපිරි ඉන්දීය වේගපන්දු යවන ක්‍රීඩක ජස්ප්‍රිට් බුම්‍රා සුවිශේෂ ක්‍රිකට් ලෝක වාර්තාවක් තබා තිබේ.
+The Super Indian Fastings Jasprit Bumra has set a special world record.
 
-ක්‍රිකට් දිවියේ කුමන හෝ අවස්ථාවක දී ටෙස්ට්, එක්දින සහ 20යි 20 අකෘති තුනෙහි ම පෙරමුණට පැමිණි ලොව එකම පන්දු යවන්නා බවට පත් වෙමින් ජස්ප්‍රිට් බුම්‍රා මෙම ලෝක වාර්තාව තබා ඇත.
+In any case of cricket, Josephrit Bumta, who became the only bowler in the world, has been placed in the world to the Front.
 
-අයිසීසී නිකුත් කළ නවතම ටෙස්ට් පන්දු යවන්නන්ගේ ශ්‍රේණිගත කිරීම්වල ජස්ප්‍රිට් බුම්‍රා අංක 01ට පැමිණ ඇති අතර, ඒ සමඟ මෙම සුවිශේෂ ලෝක වාර්තාව බුම්‍රා සතු විය.
+The latest Test bowlers rank of ICC has arrived at No. 1, with this unique world report was owned by Bumra.
 
-මේ අතර, ටෙස්ට් ශ්‍රේණිගත කිරීම්වල පෙරමුණට පැමිණි පළමු ඉන්දීය වේගපන්දු යවන්නා බවට ද ජස්ප්‍රිට් බුම්‍රා පත් ව ඇත.
+Meanwhile, Josephrit Burkera has been appointed as the first Indian Fast Band to the Test rankings.
 
-මීට පෙර බිශාන් සිං බෙඩි, රවිචන්ද්‍රන් අශ්වින් සහ රවීන්ද්‍ර ජඩේජා යන තිදෙනා ටෙස්ට් පන්දු යවන්නන්ගේ ශ්‍රේණිගත කිරීම්වල අංක එකට පැමිණ සිටි නමුත් ඔවුන් තිදෙනාම දඟ පන්දු යවන්නෝ වූහ.
+Previously Bhazan Singh-Bedi, Ravicrandran Ashwin and Ravindra Jadeja arrived at the ratings of Test bowler ratings, but they were spinners.
 
-නිමා වූ දෙවැනි ටෙස්ට් තරගයේ දී ජස්ප්‍රිට් බුම්‍රා එංගලන්ත ඉනිමේ කඩුලු 06ක් බිඳ දැමීමට සමත් වූ අතර, බුම්‍රා ඉනිමක දී කඩුලු 06ක් දවා ගත් දෙවැනි අවස්ථාව එයයි.
+Jasprit Bumra took six wickets in England innings, while Bumra took six wickets in the innings.
 
 ◼️
 
 [Data](articles/1d3121df.json)
 
+[Extended Data](ext_articles/1d3121df.ext.json)
+
 ---
 
-### அமெரிக்க - இலங்கை ஃபுல்பிரைட் ஆணைக்குழுவின் நிறைவேற்றுப் பணிப்பாளராக பெட்ரிக் மெக்னமாரா
+### Petric McNamara as Executive Director of the US - Sri Lanka FluPrite Commission
 
 *2024-02-07 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175817) · `ta`
 
-கொழும்பிலுள்ள அமெரிக்க - இலங்கை ஃபுல்பிரைட் ஆணைக்குழுவின் புதிய நிறைவேற்றுப் பணிப்பாளராக கலாநிதி பெட்ரிக் மெக்னமாராவை அறிவிப்பதில் இலங்கையிலுள்ள அமெரிக்கத் தூதரகம் மகிழ்ச்சியடைகிறது.
+The US Embassy in Sri Lanka is delighted to announce the announcement of Dr. Petric McNamara as the new Executive Director of the US -Sri Lanka Flubright Commission in Colombo.
 
-“எமது அமெரிக்க-இலங்கை ஃபுல்பிரைட் ஆணைக்குழுவின் புதிய நிறைவேற்றுப் பணிப்பாளராக கலாநிதி பெட்ரிக் மெக்னமாராவை வரவேற்பதில் நாங்கள் மிகவும் மகிழ்ச்சியடைகிறோம்.
+“We are very pleased to welcome Dr. Petric McNamara as the new Executive Director of our US-Sri Lanka Flubright Commission.
 
-கலாநிதி  மெக்னமாராவின் தலைமையின் கீழ், எமது இரு நாடுகளுக்குமிடையேயான பரிமாற்றங்கள், கல்விப் பங்காண்மைகள் மற்றும் பரஸ்பர புரிதல் ஆகியவற்றை வளர்க்கும் ஒரு புதிய சகாப்தத்திற்குள் ஆணைக்குழு பிரவேசிக்கிறது.
+Under the leadership of Dr. McNamara, the Commission enters into a new era of developing exchanges, educational parties and mutual understanding between our two countries.
 
-எல்லைகளுக்கு அப்பால் சென்று அறிஞர்கள் மற்றும் மாணவர்களுக்கான கல்விச் சூழலை மேம்படுத்தும் துடிப்பான அறிவுப் பரிமாற்றங்கள் ஊடாக, அமெரிக்காவிற்கும் இலங்கைக்கும் இடையே காணப்படும் மக்களுக்கிடையிலான, கல்வி மற்றும் அறிவியல் உறவுகளை மேலும் பலப்படுத்துவதில் ஆணைக்குழு ஒரு முக்கிய பங்கை வகிக்கும் என நாங்கள் எதிர்பார்க்கிறோம்.” என இலங்கைக்கான அமெரிக்கத் தூதுவர் ஜுலீ சங் கூறினார்.
+We expect the Commission to play an important role in further strengthening educational and scientific ties between the people of the United States and Sri Lanka through vibrant knowledge exchanges that go beyond the borders and students. ”US Ambassador to Sri Lanka Julie Sung said.
+
+“The Fulfrite Program has been benefiting the two countries for 71 years.
+
+More than 2000 alumni have traveled and participated in the program. ”
 
 ...
 
 [Data](articles/4b14184e.json)
 
+[Extended Data](ext_articles/4b14184e.ext.json)
+
 ---
 
-### நிகழ்நிலை பாதுகாப்பு சட்டத்தை அவசரஅவசரமாக அரசாங்கம் நிறைவேற்றியதற்கான காரணம் குறித்து மாற்றுக்கொள்கைகளிற்கான நிலையம் கேள்வி -உடனடியாக நீக்க கோரிக்கை
+### Station Question for Change Policy
 
 *2024-02-07 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175813) · `ta`
 
-நிகழ்நிலை பாதுகாப்பு சட்டத்தை அவசரஅவசரமாக அரசாங்கம் நிறைவேற்றியதற்கான காரணம் குறித்து மாற்றுக்கொள்கைகளிற்கான நிலையம் சந்தேகம்; -உடனடியாக நீக்க கோரிக்கை
+The station for alternative policy is suspicious of the reason why the government has urgently passed the Ceremonial Security Act;-Apply deleted to remove
 
-இலங்கை அரசாங்கம் நிறைவேற்றியுள்ள நிகழ்நிலை பாதுகாப்பு சட்டம் குறித்து மாற்றுக்கொள்கைகளிற்கான நிலையம் கடும் எதிர்ப்பை வெளியிட்டுள்ளது.
+The Center for Change Policy has issued a strong opposition to the Sri Lankan government.
 
-நிகழ்நிலை பாதுகாப்பு  சட்டத்தை உருவாக்கும் செயற்பாடுகளில்காணப்பபட்ட இரகசியதன்மையையும் அதனை அவசரஅவசரமாக  நிறைவேற்றியதையும் கண்டிப்பதாக தெரிவித்துள்ள மாற்றுக்கொள்கைகளிற்கான நிலையம் அரசாங்கத்தின் நோக்கம்  குறித்து கேள்வி எழுப்பியுள்ளது.
+The center for the alternative policy has been questioned about the government's aim of reprimanding the confidentiality and the urgent need to be fulfilled in the process of creating the Ceremonial Security Act.
 
-சட்டத்தை அவசரஅவசரமாக நிறைவேற்றுவதற்கான நோக்கம் குறித்து கேள்வி எழுப்பியுள்ள மாற்றுக்கொள்கைளிற்கான நிலையம் இந்த சட்டம் கருத்து சுதந்திரம் சட்டத்தின் ஆட்சிக்கு குறிப்பிடத்தக்க தாக்கத்தை ஏற்படுத்தும் எனவும் தெரிவித்துள்ளது.
+The Center for Change Policy, which has questioned the purpose of implementing the law urgently, said the law would have a significant impact on the rule of the law of freedom of expression.
 
-குறிப்பிட்ட சட்டமூலம் தொடர்பில் உயர்நீதிமன்றம் முன்வைத்த திருத்தங்களை அரசாங்கம் முழுமையாக கருத்தில்எடுக்க தவறியமையும் குறித்தும் மாற்றுக்கொள்கைகளிற்கான நிலையம் கவலை வெளியிடடுள்ளது.
+The Center for Change Policy has expressed concern over the failure of the government to fully consider the amendments made by the High Court regarding the particular bill.
 
 ...
 
 [Data](articles/7f3add4d.json)
+
+[Extended Data](ext_articles/7f3add4d.ext.json)
 
 ---
 
@@ -255,6 +319,8 @@ Contributors to ASPI in the day included Richard Pieris and Company Plc (up at 2
 ◼️
 
 [Data](articles/ca4677b3.json)
+
+[Extended Data](ext_articles/ca4677b3.ext.json)
 
 ---
 
@@ -688,19 +754,21 @@ An high race has been affected by heavy rains and 18 people have died due to flo
 
 ---
 
-### බෙලිඅත්ත පංච පුද්ගල ඝාතනයට තවත් අයෙක් අල්ලයි
+### Another person arrested for murder of Beliatta
 
 *2024-02-07 14:27:41* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්ත-පංච-පුද්ගල-ඝාතනයට-තවත්-අයෙක්-අල්ලයි/11-407951) · `si`
 
-බෙලිඅත්ත පංච පුද්ගල ඝාතනයට සම්බන්ධ  පුද්ගලයකු බෙලිඅත්ත පොලිසිය මගින් අත්අඩංගුවට ගෙන ඇතැයි බෙලිඅත්ත පොලීසිය කියයි.
+Beliatta Police said that Beliatta Police have been arrested by Beliatta Police.
 
-අදාල සැකකරු නීතිඥ  මාර්ගයෙන් ඉදිරිපත් වීමෙන් අනතුරුව අත්අඩංගුවට ගෙන තිබේ. අත්අඩංගුවට ගත් සැකකරු විසි හතර හැවිරිදිඹුල් ගොඩ අකුරැස්ස පදිංචිකරුවෙකි.
+The suspect has been arrested following the presence of law. The suspect was a 21 year's resident of Akuressa.
 
-මොහු ඝාතනය සදහා යොදාගත් ගිණිඅවි කඹුරුපිටිය ප්‍රදේශයේ පිහිටි සිය ආච්චිගේ නිවසේ සගවා තබා පසුව එම ගිණිඅවි කඹුරුපිටියේ සිට ගාල්ල කරාපිටිය ප්‍රදේශයට රැගෙන යාමට සහායවූ සැකකරුවෙකු බව පොලිසිය පවසයි.
+The fire had been used to assassinate him, he was assisted from Kamburupitiya to Kamburupitiya to Galle.
 
 ◼️
 
 [Data](articles/00c06e3c.json)
+
+[Extended Data](ext_articles/00c06e3c.ext.json)
 
 ---
 
@@ -1996,72 +2064,14 @@ Preliminary investigations revealed that the mother's mother is outdoors and tha
 
 ---
 
-### Preparations for the Kacha Island Festival
+### Take Immediate Steps To Repeal Online Safety Act: CPA
 
-*2024-02-07 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175763) · `ta`
+*2024-02-07 10:54:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/take-immediate-steps-to-repeal-online-safety-act-cpa/) · `en`
 
-The annual Kachchativu Festival will be held on the 23rd and 24th of this month on the island of Kachchativu.
-
-The main ceremony of the festival will be held under the patronage of Justin Gnanaprakasam, Jaffna.
-
-Health and drinking water facilities, temporary shelters, landing sector and power supply have been carried out.
-
-In addition, the Navy has carried out the color laundry and repair of the strain built by the Sri Lankan navy and the cleaning of the surrounding areas and the premises.
-
-Boat services for Sri Lankan pilgrims going to the festival will be held from the Nedundevu landing.
-
-◼️
-
-[Data](articles/318a9309.json)
-
-[Extended Data](ext_articles/318a9309.ext.json)
-
----
-
-### President Ranil delivers govt’s policy statement in Parliament
-
-*2024-02-07 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97074/president-ranil-delivers-govts-policy-statement-in-parliament) · `en`
-
-President Ranil Wickremesinghe presented the government”s policy statement to the House this morning (Feb.07) after the Fifth Session of the Ninth Parliament was ceremonially declared open.
-
-Delivering the policy statement, the Head of State said the government intends to reduce the tax burden on the people in the future, as the country”s economy continues to stabilize with the implementation of economic reforms.
-
-He went on to highlight the substantial increase in tax registration, with the number of registrants soaring from 437,547 in 2022 to 1,000,029 by the end of 2023, representing a 130% increase.
-
-The President also spoke of the positive shift in Sri Lanka”s economic trajectory. Despite a 7.8% GDP contraction and six consecutive quarters of negative growth in 2022, the nation rebounded with a 1.6% growth rate in the Q3 of 2023, he added.
+The Centre for Policy Alternatives (CPA) is concerned with the process followed in enacting the Online Safety Act (OSA). It raises serious questions in terms of law-making and its impact on constitutional democracy in Sri Lanka. CPA has previously raised these issues but notes with disappointment the continued practice. The process of drafting the OSA was shrouded in secrecy. The rushed manner of its passage raises questions as to the intentions of the Government in enacting a law that has significant implications for fundamental rights and the rule of law in Sri Lanka. CPA has previously commented on the substance and process followed with the Bill and challenged its constitutionality. In light of recent events surrounding the enactment of the OSA, CPA condemns the enactment of such a draconian law that can further limit freedom of speech and the right to dissent.
 
 ...
 
-[Data](articles/0fe03b15.json)
-
-[Extended Data](ext_articles/0fe03b15.ext.json)
-
----
-
-### President Ranil delivers government’s policy statement in Parliament
-
-*2024-02-07 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97074/president-ranil-delivers-governments-policy-statement-in-parliament) · `en`
-
-President Ranil Wickremesinghe is delivering the government’s policy statement in the Parliament. He ceremonially declared open the Fifth Session of the Ninth Parliament this morning (Feb.07).
-
-◼️
-
-[Data](articles/1da2360e.json)
-
-[Extended Data](ext_articles/1da2360e.ext.json)
-
----
-
-### The launch of the new parliamentary session in simple
-
-*2024-02-07 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175767) · `ta`
-
-The fifth session of the ninth parliament was inaugurated on Wednesday morning (07) under the leadership of the President.
-
-◼️
-
-[Data](articles/c99b7126.json)
-
-[Extended Data](ext_articles/c99b7126.ext.json)
+[Data](articles/7e870f80.json)
 
 ---

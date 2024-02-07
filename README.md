@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 10:17:07**
+As of **2024-02-07 10:32:50**
 
 ## Newspaper Stats
 
-*Scraped **5,362** Articles*
+*Scraped **5,363** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 305
 newsfirstlk | 331
 adalk | 454
 virakesarilk | 644
-adaderanalk | 662
+adaderanalk | 663
 tamilmirrorlk | 667
 adaderanasinhalalk | 691
 dailymirrorlk | 763
@@ -26,29 +26,43 @@ dailymirrorlk | 763
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,356 (99.9%) of 5,362 articles have been extended.
+5,362 (100.0%) of 5,363 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### கச்ச தீவு திருவிழாவிற்காக ஏற்பாடுகள் மும்முரம்
+### Ex-Navy Commander Daya Sandagiri joins SJB
+
+*2024-02-07 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97071/ex-navy-commander-daya-sandagiri-joins-sjb-) · `en`
+
+Former Navy Commander and Chief of Defence Staff Daya Sandagiri has joined the main opposition Samagi Jana Balawegaya (SJB).
+
+◼️
+
+[Data](articles/d8b703be.json)
+
+---
+
+### Preparations for the Kacha Island Festival
 
 *2024-02-07 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/175763) · `ta`
 
-வருடாந்த கச்சத்தீவு பெருதிருவிழா எதிர்வரும் 23ஆம் திகதி மற்றும் 24ஆம் திகதிகளில் கச்சத்தீவு தீவில் நடைபெற உள்ளது.
+The annual Kachchativu Festival will be held on the 23rd and 24th of this month on the island of Kachchativu.
 
-பெருவிழாவின் பிரதான ஆராதனை யாழ்.மறைமாவட்ட ஆயர் அருட்தந்தை ஜஸ்டின் ஞானப்பிரகாசம் தலைமையில் நடைபெறவுள்ளது.
+The main ceremony of the festival will be held under the patronage of Justin Gnanaprakasam, Jaffna.
 
-சுகாதாரம் மற்றும் குடிநீர் வசதிகள், தற்காலிக தங்குமிடங்கள், இறங்குதுறைகள் மற்றும் மின்சார விநியோகத்தை உறுதி செய்தல் போன்ற வேலைகளை முன்னெடுத்துள்ளனர்.
+Health and drinking water facilities, temporary shelters, landing sector and power supply have been carried out.
 
-மேலும், இலங்கை கடற்படையினரால் நிர்மாணிக்கப்பட்ட விகாரையின் வண்ண சலவை மற்றும் பழுதுபார்ப்பு மற்றும் சுற்றுப்புற பகுதிகள் மற்றும் வளாகத்திற்கு செல்லும் பாதைகளை சுத்தம் செய்தல் ஆகியவற்றை கடற்படை மேற்கொண்டுள்ளது.
+In addition, the Navy has carried out the color laundry and repair of the strain built by the Sri Lankan navy and the cleaning of the surrounding areas and the premises.
 
-திருவிழாவிற்கு செல்லும் இலங்கை பக்தர்களுக்காக படகு சேவைகள்  குறிகாட்டுவான் மற்றும்  நெடுந்தீவு இறங்குதுறையில் இருந்து இடம்பெறும்.
+Boat services for Sri Lankan pilgrims going to the festival will be held from the Nedundevu landing.
 
 ◼️
 
 [Data](articles/318a9309.json)
+
+[Extended Data](ext_articles/318a9309.ext.json)
 
 ---
 
@@ -68,6 +82,8 @@ Chile’s national disaster agency SENAPRAD confirmed that one person had been k
 
 [Data](articles/632c7a3c.json)
 
+[Extended Data](ext_articles/632c7a3c.ext.json)
+
 ---
 
 ### Sri Lanka’s pursuit of free trade deals crucial for economic stability, growth - Sabry
@@ -83,6 +99,8 @@ Minister Sabry highlighted the recent FTA with Thailand as a historic step towar
 ...
 
 [Data](articles/2477eaf4.json)
+
+[Extended Data](ext_articles/2477eaf4.ext.json)
 
 ---
 
@@ -101,6 +119,8 @@ Federal Appeals Court rules Trump does not have presidential immunity
 ◼️
 
 [Data](articles/241ec358.json)
+
+[Extended Data](ext_articles/241ec358.ext.json)
 
 ---
 
@@ -328,19 +348,21 @@ Federal Appeals Court rules Trump does not have presidential immunity
 
 ---
 
-### කෙහෙළිය අද පාර්ලිමේන්තුවට - ආණ්ඩු පක්ෂයේ පසුපෙළ අසුනක්
+### Keheliya today appointed parliament today - Government's back seat
 
 *2024-02-07 08:01:17* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-අද-පාර්ලිමේන්තුවට---ආණ්ඩු-පක්ෂයේ-පසුපෙළ-අසුනක්/11-407939) · `si`
 
-බාල බෙහෙත් ජාවාරම සම්බන්ධයෙන් රිමාන්ඩ් බන්ධනාගාර ගතව මේ වන විට බන්ධනාගාර රෝහලේ ප්‍රතිකාර ලබමින් සිටින හිටපු  අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා පාර්ලිමේන්තුවේ නව සැසිවාරය විවෘත කිරීමේ උත්සවයට අද (7) සහභාගී කරවීමට කතානායක මහින්ද යාපා අබේවර්ධන මහතා අවසරදී ඇත.
+Speaker Mahinda Yapa Abeywardena has been granted to participate in the opening ceremony of the Parliament's new session at the prison hospital.
 
-රඹුක්වැල්ල මහතාට පාර්ලිමේන්තු රැස්වීම්වලට සහභාගී වීමට අවසර දෙන ලෙස ඔහුගේ ලේකම්වරයකු කළ ඉල්ලීමක් අනුව මෙම අවසරය  ලබාදී තිබේ. මේ අනුව ඔහු බන්ධනාගාරගතව සිටින කාලය තුළදී පැවැත්වෙන පාර්ලිමේන්තු රැස්වීම්වලට ඔහු ඉදිරියේදී එක්වෙනු ඇත.
+This permission has been granted to Rambukwella to allow Rambukwella to attend Parliamentary meetings. He will join the Parliamentary meetings that he will be held during the remand.
 
-පාර්ලිමේන්තුවේ වේත්‍රධාරි කුෂාන් ජයරත්න මහතා කෙහෙළිය රඹුක්වැල්ල මහතා පාර්ලිමේන්තුවට රැගෙන එන ලෙස බන්ධනාගාර කොමසාරිස් ජනරාල්වරයාට ෙ ලිඛිතව දැනුම් දී ඇත.‍ෙ රඹුක්වැල්ල මහතා අමාත්‍ය ධුරයෙන් ඉවත්වී ඇති හෙයින් ඔහුට පාර්ලිමේන්තු සභාගර්භයේ ආණ්ඩු පක්ෂයේ පසුපෙළ මන්ත්‍රී ආසනයක් පිළියෙල කෙරෙන බව පාර්ලිමේන්තු ආරංචි මාර්ග සඳහන් කළේය.
+The Hon.
 
 ◼️
 
 [Data](articles/8072f974.json)
+
+[Extended Data](ext_articles/8072f974.ext.json)
 
 ---
 
@@ -2011,21 +2033,5 @@ Nagananda Kodituwakku is also requested to the Supreme Court to allow the nation
 [Data](articles/3e9ec181.json)
 
 [Extended Data](ext_articles/3e9ec181.ext.json)
-
----
-
-### JVP: From Idealism Of Anti-Indianism To Pragmatic Realism(?)
-
-*2024-02-06 20:29:39* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/jvp-from-idealism-of-anti-indianism-to-pragmatic-realism/) · `en`
-
-The official visit of Anura Kumara Dissanayake and the JVP/NPP leadership team to India this week marks a significant departure from the party’s historical stance on Indo-Lanka relations. Originating in the Sixties with an ingrained anti-Indian rhetoric, the JVP’s recent responsiveness to India’s call suggests a pragmatic shift, signaling its readiness to engage with India should it assume power in Sri Lanka’s next government.
-
-Amidst widespread frustration towards the Ranil- Rajapaksa regime, the current political climate in Sri Lanka presents opportunities for alternative political forces. The JVP, attuned to the discontent among ordinary citizens deprived of basic necessities and hope for a better future, appears poised to capitalize on this sentiment. While facing competition from Opposition leader Sajith Premadasa, who enjoys significant support among the marginalized masses, the JVP’s evolving politics and strategic realignment make it a formidable contender.
-
-...
-
-[Data](articles/2c45eb4d.json)
-
-[Extended Data](ext_articles/2c45eb4d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 15:51:22**
+As of **2024-02-07 16:02:33**
 
 ## Newspaper Stats
 
-*Scraped **5,461** Articles*
+*Scraped **5,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 305
 newsfirstlk | 339
 adalk | 465
 virakesarilk | 659
-adaderanalk | 676
+adaderanalk | 677
 tamilmirrorlk | 682
 adaderanasinhalalk | 704
 dailymirrorlk | 774
@@ -26,11 +26,37 @@ dailymirrorlk | 774
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,461 (100.0%) of 5,461 articles have been extended.
+5,462 (100.0%) of 5,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### Pakistan election: Two deadly blasts in Balochistan day before vote
+
+*2024-02-07 15:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97084/pakistan-election-two-deadly-blasts-in-balochistan-day-before-vote) · `en`
+
+Two bomb explosions have killed at least 20 people in Pakistan’s Balochistan province on the eve of general elections, officials say.
+
+The first blast killed 12 people in front of an independent candidate’s party office in Pishin district.
+
+A second explosion left eight people dead in Qillah Saif Ullah district, about 150km (93 miles) away. Many others were injured in the two blasts.
+
+The election has been marred by violence and claims of poll-rigging.
+
+No group has yet claimed responsibility for the attack in Pishin. Details of the second blast are still emerging.
+
+Images on social media show cars and motorbikes blown apart by the force of the explosion in Pishin. It took place outside the election office of a local independent candidate who officials told the BBC was meeting his polling agent at the time.
+
+There have been violent incidents in both Balochistan and Khyber Pakhtunkhwa provinces in the last week or so in the build-up to Thursday’s vote.
+
+...
+
+[Data](articles/69d7d811.json)
+
+[Extended Data](ext_articles/69d7d811.ext.json)
+
+---
 
 ### Three suspects arrested with Ambar worth more than 3 crores
 
@@ -1997,29 +2023,5 @@ He also confirmed that his body was recovered from the lake. Chile's President G
 [Data](articles/1b31f0c9.json)
 
 [Extended Data](ext_articles/1b31f0c9.ext.json)
-
----
-
-### 13th suspect arrested in connection with Beliatta mass shooting
-
-*2024-02-07 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97069/13th-suspect-arrested-in-connection-with-beliatta-mass-shooting-) · `en`
-
-The police have arrested another suspect allegedly involved in the Beliatta mass shooting in which five people were killed.
-
-The new development brings the total number of suspects arrested over the quintuple murder to 13.
-
-The 24-year-old had surrendered to the police through a lawyer on Tuesday (Feb.06). He was identified as a resident of Imbulgoda, Akuressa.
-
-The shooting took place on January 23 near the Beliatta interchange of the Southern Expressway.
-
-A group of assailants in an SUV had opened fire at a white Defender, killing four persons at the scene. The fifth person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, but he was pronounced dead shortly after.
-
-Among the deceased was the leader of “Ape Jana Bala Pakshaya” (Our Power of People Party or OPPP) Saman Perera. The other four victims were identified as Sameera Madhusanka, Hasitha Chinsuka, Buddhika Rajapaksha, and Nalin Champika.
-
-...
-
-[Data](articles/66c722a4.json)
-
-[Extended Data](ext_articles/66c722a4.ext.json)
 
 ---

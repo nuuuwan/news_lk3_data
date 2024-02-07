@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 11:33:04**
+As of **2024-02-07 11:51:38**
 
 ## Newspaper Stats
 
-*Scraped **5,388** Articles*
+*Scraped **5,395** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,51 +14,153 @@ dbsjeyarajcom | 140
 economynextcom | 281
 islandlk | 288
 dailyftlk | 305
-newsfirstlk | 333
+newsfirstlk | 334
 adalk | 455
-virakesarilk | 646
+virakesarilk | 648
 adaderanalk | 667
-tamilmirrorlk | 673
+tamilmirrorlk | 676
 adaderanasinhalalk | 695
-dailymirrorlk | 766
+dailymirrorlk | 767
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,380 (99.9%) of 5,388 articles have been extended.
+5,388 (99.9%) of 5,395 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### අර්බුද ජයගැනීම ආරම්භ කළ යුත්තේ තමන්ගෙන්මයි - ජනපති
+### வற் வரியினால் சமூக கட்டமைப்பில் நெருக்கடிகள் ஏற்பட்டுள்ளதை  ஏற்றுக்கொள்கிறேன் : விரைவில் வரிக் கொள்கை திருத்தம்  - ஜனாதிபதி
+
+*2024-02-07 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175774) · `ta`
+
+வற் வரியினால் சமூக கட்டமைப்பில் நெருக்கடிகள் ஏற்பட்டுள்ளதை  ஏற்றுக்கொள்கிறேன் எனவும் நெருக்கடிகளை முகாமைத்துவம் செய்ய விசேட கவனம் செலுத்தப்படும் எனவும் வெகுவிரைவில் வரிக் கொள்கை திருத்தம் செய்யப்படும் எனவும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+ஒன்பதாவது பாராளுமன்றத்தின் ஐந்தாவது புதிய பாராளுமன்ற கூட்டத்தொடர் ஜனாதிபதியின் கொள்கை பிரகடன உரையுடன் மிக எளிமையான முறையில்  இன்று புதன்கிழமை ஆரம்பமானது.
+
+இதன் பின்னர் கொள்கை பிரகடன உரையாற்றுகையிலேயே ஜனாதிபதி ரணில் விக்கிரமசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+
+வங்குரோத்து நிலை அறிவிக்கப்படும் போது நாட்டின் வெளிநாட்டு கையிருப்பு பூச்சியமாக காணப்பட்டது. 2023 ஆண்டு இறுதிப் பகுதியில் வெளிநாட்டு கையிருப்பு 4.4 பில்லியன் டொலராக உயர்வடைந்துள்ளது.
+
+இதேவேளை, நாடு பாரிய பொருளாதார நெருக்கடியில் இருந்து குறுகிய காலத்தில் மீட்சியடைந்துள்ளமை உலக சாதனையாகும். பொருளாதார மீட்சிக்கான நடவடிக்கைகளை வெளிப்படைத்தன்மையாக அறிவித்துள்ளேன். எந்தத் திட்டங்களையும் நான் மறைக்கவில்லை.
+
+நாடு மிக மோசமான நெருக்கடிகளை எதிர்கொண்டிருந்த போது நான் அரசியலுக்கு முக்கியத்துவம் கொடுக்கவில்லை.
+
+...
+
+[Data](articles/6ee99053.json)
+
+---
+
+### “கஞ்சா” அப்படி எதுவும் இல்லை என்கின்றார் பந்துல
+
+*2024-02-07 11:13:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சா-அப்படி-எதுவும்-இல்லை-என்கின்றார்-பந்துல/175-332818) · `ta`
+
+கஞ்சாவை இலங்கையில் பயிரிட்டு ஏற்றுமதி செய்வது தொடர்பான யோசனைக்கு நேற்று இடம்பெற்ற அமைச்சரவை கூட்டத்தில் அனுமதி கிடைக்கப் பெற்றதாக சுற்றுலாத்துறை இராஜாங்க அமைச்சர் டயனா கமகே முன்னதாக தெரிவித்திருந்தார்.
+
+எனினும், ஏற்றுமதிக்காக கஞ்சாவை பயிரிடுவது தொடர்பிலான யோசனை எதுவும் அமைச்சரவைக்கு முன்வைக்கப்படவில்லை என அமைச்சரவை பேச்சாளர் அமைச்சர் பந்துல குணவர்தன தற்போது தெரிவித்துள்ளார்.
+
+சுற்றுலாத்துறையை மேம்படுத்தும் நோக்கில் இலங்கையில் கஞ்சாவை பயிரிடுவதை சட்டமாக்குவதற்கான சட்டமூலம் சுதேச வைத்திய அமைச்சர் சிசிர ஜயகொடியினால் பாராளுமன்றில் முன்வைக்கப்பட்டது.
+
+எவ்வாறாயினும் அமைச்சரவையில் அவ்வாறான யோசனை எதுவும் முன்வைக்கப்படவில்லை என அமைச்சரவை பேச்சாளர் அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/cd98a7d4.json)
+
+---
+
+### சஜித்துடன் இணைந்தார் அட்மிரல் தயா சந்தகிரி
+
+*2024-02-07 11:09:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-இணைந்தார்-அட்மிரல்-தயா-சந்தகிரி/175-332817) · `ta`
+
+இலங்கை கடற்படையின் 14 ஆவது கடற்படைத் தளபதியாக இருந்து ஓய்வு பெற்ற அட்மிரல் டி.டப்.கே.தயா சந்தகிரி((VSV, USP rcds, MSc (DS), psc, FCMI) எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவை சந்தித்து அரசியல் பயணத்திற்கு ஆதரவு தெரிவிக்கும் நோக்கில் ஐக்கிய மக்கள் சக்தியில்  இணைந்து கொண்டார்.
+
+கடல்சார் மற்றும் கடற்படைத் துறையில் அவருக்கு இருக்கும் பரந்த அறிவு மற்றும் அனுபவத்தினை அடிப்படையாகக் கொண்டு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச அவரை ஐக்கிய மக்கள் சக்தியின் கடல்சார் மற்றும் கடற்படைக் கொள்கைகள் குறித்த  ஆலோசகராக இன்றைய தினம் (07) தினம் நியமித்தார்.
+
+மூன்று தசாப்த கால யுத்தத்தில் அவர் ஆற்றிய தாராள பங்களிப்பு காரணமாக 2001 ஆம் ஆண்டு,ஜனவரி மாதம் 01 ஆம் திகதி முதல் இலங்கை கடற்படையின் தளபதியாக நியமிக்கப்பட்டார்.53 வருட கால கடற்படை வரலாற்றில் மிகவும் அனுபவம் வாய்ந்த கடற்படை தளபதியாக இவர் வரலாற்றிலும் இடம்பிடித்துள்ளார்.
+
+◼️
+
+[Data](articles/cf840f84.json)
+
+---
+
+### Overcoming crisis should be started - President
 
 *2024-02-07 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193072) · `si`
 
-2022 0අවසානයේදී දළ දේශීය නිෂ්පාදිතයෙන් 3.7%ක් වූ අයවැය ප්‍රාථමික හිඟය, 2023 වසරේ ප්‍රාථමික අයවැය අතිරික්තයක් කර ගැනීමට හැකිවූ බව ජනාධිපතිවරයා පවසයි.
+At the end of 2022 0, the primary deficit, which was 3.7% of GDP, was able to make a five-year budget surplus of the year 2023.
 
-නිදහසින් පසු ගෙවී ගිය 76 වසර තුළ ශ්‍රී ලංකාවට ප්‍රාථමික අයවැය අතිරික්තයක් ඇති කරගැනීමට හැකි වූ 6 වැනි අවස්ථාව මෙය බවත් ජනාධිපතිවරයා පැවසීය.
+This is the 6th occasion that Sri Lanka has been able to develop a primary budget excess in 76 years since independence.
 
-09 වන පාර්ලිමේන්තුවේ පස්වැනි සභා වාරය අමතමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (07) මේ බව පැවසීය.
+President Ranil Wickremesinghe was speaking at the second term of the 5th Committee of Parliament today (07).
 
-"අර්බුද ජයගැනීම ආරම්භ කළ යුත්තේ තමන්ගෙන්මයි. අපේ සිතුවිලි නිවරැදි කරගත්තේ නැත්නම් රටට යටපතක් නැහැ. මුලින්ම අපි වෙනස් වුණේ නැතිනම් ක්‍රමයක් වෙනස් කරන්න අපිට පුළුවන් කමක් නැහැ."
+"Overcoming the crises should begin from himself. If we do not have been right in the right, there is no under the country. If we did not change, we can change our way. "
 
-"අද ඩොලරයේ අගය රුපියල් 314යි. දැන් පොලී අනුපාතය 12%යි. දැන් අපේ විදේශ සංචිත ප්‍රමාණය ඩොලර් බිලියන 4.4ක්."
+"Today the value of today is Rs 314. Now the interest rate is 12%. Now our foreign reserves are $ 4.4 billion. "
 
-"අනෙක් රටවල්වලට සාපේක්ෂව අපේ රටට කෙටි කාලයක් තුළ සුවිශේෂී ජයග්‍රහණයක් ළඟා කරගන්න පුළුවන් නිසා. ඒ දුරදිග බලා සියුම් ආර්ථික ප්‍රතිපත්තියක් අනුගමනය කරපු නිසා."
+"Since the country can achieve a distinctive victory in comparison to other countries. Because it followed a subtle economic policy. "
 
-"අපි කිසිම පියවරක් සඟවා තැබුවේ නැහැ. මම දේශපාලන වාසිය තකා තීන්දු ගත්තේ නැමැ. රට වෙනුවෙන් නිවරැදි ප්‍රතිපත්ති ක්‍රියාත්මක කළා."
+"We did not conceal any steps. I didn't get the decisive of political advantage. The right policies were implemented for the country. "
 
 ...
 
 [Data](articles/53b2fc02.json)
 
+[Extended Data](ext_articles/53b2fc02.ext.json)
+
 ---
 
-### பிள்ளைகளை தாக்கி வீடியோ வெளியிட்டதந்தை கைது
+### யாழில் டிப்பர் வாகனம் மீது துப்பாக்கி சூடு ; மூவர் கைது
 
-*2024-02-07 10:56:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளைகளை-தாக்கி-வீடியோ-வெளியிட்டதந்தை-கைது/175-332816) · `ta`
+*2024-02-07 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175769) · `ta`
+
+யாழ்ப்பாணம் புத்தூர் பகுதியில் மணல் ஏற்றி சென்ற டிப்பர் வாகனம் மீது இன்று புதன்கிழமை (07) துப்பாக்கி சூடு நடத்தப்பட்டுள்ளது.
+
+சட்டவிரோத மணலுடன், டிப்பர் வாகனம் ஒன்று வேகமாக பயணிப்பதாக பொலிஸ் புலனாய்வு பிரிவினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில், புத்தூர் பகுதியில் வைத்து டிப்பர் வாகனத்தை வழிமறித்துள்ளனர்.
+
+அதன்போது, டிப்பர் சாரதி வாகனத்தை நிறுத்தாது சென்றமையால், வாகனத்தின் மீது  பொலிஸார் துப்பாக்கி பிரயோகம் மேற்கொண்டுள்ளனர். அதனால் டிப்பர் வாகனம் வீதியில் குடைசாய்ந்தது.
+
+சட்டவிரோத மணல் மண்ணை ஏற்றி சென்றமையால், சாரதி வாகனத்தை நிறுத்தவில்லை என பொலிஸாரின் ஆரம்ப கட்ட விசாரணையில் தெரிய வந்துள்ளது.
+
+அதேவேளை, டிப்பர் வாகன சாரதி, உரிமையாளர் உள்ளிட்ட மூவர் கைது செய்யப்பட்டு, அச்சுவேலி பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டு விசாரணைக்கு உட்படுத்தப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/791bf857.json)
+
+---
+
+### CBK Back in Politics: Leads Broad Alliance for Upcoming Elections
+
+*2024-02-07 11:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/cbk-back-in-politics-leads-broad-alliance-for-upcoming-elections/) · `en`
+
+COLOMBO (News 1st); Former Sri Lankan President Chandrika Bandaranaike Kumaratunga was appointed as the head of the Podujana Eksatha Peramuna's (PA) leadership council.
+
+The decision, announced by SLFP media spokesperson Thisara Gunasinghe, follows an executive council meeting held to amend the Podujana Eksatha Peramuna's constitution on Tuesday (6).
+
+The constitution of the Podujana Eksath Peramuna or the People's Alliance was amended, allowing the Sri Lanka Freedom Party to contest the upcoming elections as a broader alliance under the symbol of the Chair.
+
+The SLFP will hold a significant role within the Podujana Eksatha Peramuna, securing 25% representation on the leadership board and 50% power in the working committee under the amended constitution.
+
+Gunasinghe further announced plans to appoint new office bearers for the Podujana Eksatha Peramuna.
+
+A new party secretary will be selected on the 22nd of February.
+
+CBK Back in Politics: Leads Broad Alliance for Upcoming Elections
+
+...
+
+[Data](articles/ae6f9ec7.json)
+
+---
+
+### பிள்ளைகளை தாக்கி வீடியோ வெளியிட்ட தந்தை கைது
+
+*2024-02-07 10:56:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளைகளை-தாக்கி-வீடியோ-வெளியிட்ட-தந்தை-கைது/175-332816) · `ta`
 
 தனது இரண்டு பிள்ளைகளை கொடூரமாக தாக்கி வீடியோ எடுத்து சமூக வலைத்தளங்களில் பதிவிட்ட தந்தை ஒருவர் இன்று (07) கைது செய்யப்பட்டதாக திம்புல பத்தனை பொலிஸ் நிலைய பிரதான பொலிஸ் பரிசோதகர் ஆனந்தசிறி தெரிவித்தார்.
 
@@ -68,7 +170,25 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
+[Data](articles/3604c60d.json)
+
+---
+
+### Video arrested for attacking children
+
+*2024-02-07 10:56:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளைகளை-தாக்கி-வீடியோ-வெளியிட்டதந்தை-கைது/175-332816) · `ta`
+
+Anandasiri, Chief Inspector of the Timbula Pathana Police Station, said that a father who brutally assaulted his two children and posted a video on social media.
+
+The 33 -year -old man who lives in his wife's home in the Dimbula Pathana Police Division has attacked two children aged 09 and 05 on Monday (05), the Commander of the Police Station.
+
+Preliminary investigations revealed that the mother's mother is outdoors and that the children are under the care of the grandmother and are working at the children's car cleaning center in Colombo.
+
+◼️
+
 [Data](articles/f28c151c.json)
+
+[Extended Data](ext_articles/f28c151c.ext.json)
 
 ---
 
@@ -142,19 +262,21 @@ CPA says that concerns arise about the constitutionality of the OSA due to this 
 
 ---
 
-### முன்னாள் ஜனாதிபதி விபத்தில் பலி
+### Former president killed in accident
 
 *2024-02-07 10:27:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-ஜனாதிபதி-விபத்தில்-பலி/50-332811) · `ta`
 
-தென் அமெரிக்காவில் அமைந்துள்ள நாடு சிலி. இந்நாட்டின் முன்னாள் ஜனாதிபதி ஜெபஸ்டின் பினிரா. பெரும் பணக்காரரான இவர் 2010 முதல் 2014 வரை மற்றும் 2018 முதல் 2022 வரை என இரண்டு முறை சிலி ஜனாதிபதியாக பதவி வகித்தார்.
+The country located in South America. Former President of the country, Jebastin Pinira. He was the richest man from 2010 to 2014 and from 2018 to 2022 as President of Chile.
 
-இந்நிலையில், அந்நாட்டின் பிரபல சுற்றுலா தலமான லகோ ரங்கொ பகுதிக்கு ஜெபஸ்டின் பினிரா செவ்வாய்க்கிழமை (06) ஹெலிகாப்டரில் பயணம் மேற்கொண்டார். அந்த ஹெலிகாப்டரில் ஜெபஸ்டின் உள்பட மொத்தம் 4 பேர் பயணித்தனர்.
+In this case, Jebastin Pinira traveled to the helicopter on Tuesday (06) to the country's popular tourist destination, Lako Ranga.. A total of 4 people traveled in the helicopter, including Jepastin.
 
-லகோ ரங்கொ அருகே சென்றுகொண்டிருந்தபோது திடீரென ஹெலிகாப்டர் விபத்துக்குள்ளானது. இந்த கோர விபத்தில் ஜெபஸ்டின் பினிரா உயிரிழந்தார். ஹெலிகாப்டரில் பயணித்த எஞ்சிய 3 பேர் படுகாயமடைந்தனர். படுகாயமடைந்த அனைவரும் மீட்கப்பட்டு மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர். அதேவேளை, இந்த விபத்துக்கான காரணம், ஜெபஸ்டின் பினிரா உடன் பயணித்த 3 பேர் யார்? என்பது குறித்து இதுவரை தகவல் வெளியாகவில்லை.
+Suddenly the helicopter crashed as he was traveling near Lako Ranga. Jebastin Pinira died in this demanding accident. The remaining 3 people were injured in the helicopter. All the injured have been rescued and hospitalized. At the same time, the reason for the accident was the 3 people who traveled with Jebastin Pinira?No information has been released yet.
 
 ◼️
 
 [Data](articles/caab39bd.json)
+
+[Extended Data](ext_articles/caab39bd.ext.json)
 
 ---
 
@@ -196,23 +318,25 @@ The President is scheduled to make the policy statement of the government  at 1
 
 ---
 
-### டிப்பர் மீது துப்பாக்கிச்சூடு
+### Shot on the tipper
 
 *2024-02-07 10:23:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/டிப்பர்-மீது-துப்பாக்கிச்சூடு/71-332810) · `ta`
 
-யாழ்ப்பாணம் புத்தூர் பகுதியில் மணல் ஏற்றி சென்ற டிப்பர் வாகனம் மீது, இன்றைய தினம் (07) துப்பாக்கி சூடு நடத்தப்பட்டுள்ளது.
+A tipper vehicle carrying sand in Budhur area in Jaffna has been fired today (07).
 
-சட்டவிரோத மணலுடன் , டிப்பர் வாகனமொன்று வேகமாக பயணிப்பதாக பொலிஸ் புலனாய்வு பிரிவினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் , புத்தூர் பகுதியில் வைத்து டிப்பர் வாகனத்தை வழிமறித்துள்ளனர்.
+Based on the confidential information available to the Police Intelligence Unit, a tipper vehicle is traveling with illegal sand, the tipper vehicle has been traveled in the Budhur area.
 
-இதற்கமைய, டிப்பர் சாரதி வாகனத்தை நிறுத்தாது சென்றமையால் , வாகனத்தின் மீது  துப்பாக்கி பிரயோகம் மேற்கொண்டுள்ள நிலையில் டிப்பர் வாகனம் வீதியில் குடைசாய்ந்தது.
+As a result, the tipper driver did not stop the vehicle and the tipper vehicle was fired on the road.
 
-சட்டவிரோத மணல் மண்ணை ஏற்றி சென்றமையால் , சாரதி வாகனத்தை நிறுத்த வில்லை என பொலிஸாரின் ஆரம்ப கட்ட விசாரணையில் தெரிய வந்துள்ளது.
+Initial investigations by the police revealed that the driver did not stop the vehicle as the illegal sand was loaded.
 
-இதேவேளை, டிப்பர் வாகன சாரதி , உரிமையாளர் உள்ளிட்ட மூவர் கைது செய்யப்பட்டு , அச்சுவேலி பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டு விசாரணைக்கு உட்படுத்தப்பட்டுள்ளனர்.
+Meanwhile, three persons, including a tipper driver and owner, have been arrested and detained at the Achchuveli police station.
 
 ◼️
 
 [Data](articles/31c2f1b8.json)
+
+[Extended Data](ext_articles/31c2f1b8.ext.json)
 
 ---
 
@@ -233,6 +357,22 @@ Kayts court judge J. Gajanidipalan postponed the three -month prison sentence fo
 [Data](articles/c89192f3.json)
 
 [Extended Data](ext_articles/c89192f3.ext.json)
+
+---
+
+### Motion filed challenging registration of NPP as political party
+
+*2024-02-07 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Motion-filed-challenging-registration-of-NPP-as-political-party/108-276497) · `en`
+
+Colombo, Feb 07 (Daily Mirror) -  A motion has been filed at the Supreme Court challenging the registration of the National People's Power (NPP) as a political party by the National Election Commission.
+
+The motion, submitted by activist and Secretary of the Vinivida Foundation, Attorney-at-Law Nagananda Kodituwakku, targets the recent registration of the NPP, led by MP Anura Kumara Dissanayake.
+
+Kodituwakku's motion comes amid ongoing controversy surrounding the registration process and the NPP's status as an independent political entity. The motion was filed during the consideration of a writ petition lodged against the Election Commission's decision to reject the registration of the Vinivida Foundation as a political party.
+
+...
+
+[Data](articles/fae4a781.json)
 
 ---
 
@@ -486,17 +626,19 @@ Five suspects have been arrested in operations.
 
 ---
 
-### பெலியத்தை படுகொலை; மற்றுமொரு சந்தேக நபர் கைது
+### The massacre of Peliam;Another suspect arrested
 
 *2024-02-07 09:23:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலியத்தை-படுகொலை-மற்றுமொரு-சந்தேக-நபர்-கைது/175-332808) · `ta`
 
-பெலியத்தையில் ஜனவரி 22 ஆம் திகதி ஐந்து பேர் படுகொலை செய்யப்பட்ட சம்பவம் தொடர்பில் மற்றுமொரு சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
+Another suspect has been arrested in connection with the murder of five people on January 22 in Beliatta.
 
-சட்டத்தரணி ஊடாக பெலியத்த பொலிஸாரிடம் நேற்று (06) ஆஜராகிய சந்தேக நபரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+The suspect was arrested yesterday (06) by the Beliatta police through the lawyer.
 
 ◼️
 
 [Data](articles/a901347f.json)
+
+[Extended Data](ext_articles/a901347f.ext.json)
 
 ---
 
@@ -536,21 +678,23 @@ The 25 images in the running for this year's People’s Choice Award received a 
 
 ---
 
-### சபைக்கு செல்ல கெஹலிய மறுப்பு?
+### Keheliya refusal to go to the congregation?
 
 *2024-02-07 09:20:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபைக்கு-செல்ல-கெஹலிய-மறுப்பு/175-332807) · `ta`
 
-பாராளுமன்ற உறுப்பினர் கெஹலிய ரம்புக்வெல்ல இன்று (07) பாராளுமன்ற அமர்வில் பங்கேற்க மறுத்துள்ளதாக தகவல் வெளியாகி உள்ளது.
+Parliamentarian Keheliya Rambukwella has refused to attend a parliamentary session today (07).
 
-கெஹலிய ரம்புக்வெல்லவுக்கு பாராளுமன்ற அமர்வில் பங்கேற்க அனுமதி வழங்கப்பட்ட போதிலும் அவர் பங்கேற்க மறுத்துள்ளதாக சிறைச்சாலை ஊடகப் பேச்சாளர் தெரிவித்துள்ளார்.
+Prison media spokesman said that Keheliya Rambukwella was allowed to attend the parliamentary session, but he refused to participate.
 
-தரமற்ற மருந்து இறக்குமதி தொடர்பான விசாரணையை அடுத்து, முன்னாள் சுகாதார அமைச்சர் கைது செய்யப்பட்டு தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+Following an investigation into non -standard drug imports, the former health minister has been arrested and is currently being interrogated.
 
-இதேவேளை, கெஹலிய ரம்புக்வெல்ல சுற்றாடல் அமைச்சர் பதவியில் இருந்து நேற்று இராஜினாமா செய்தமை குறிப்பிடத்தக்கது.
+Meanwhile, Keheliya Rambukwella resigned from the post of Environment Minister yesterday.
 
 ◼️
 
 [Data](articles/b4d2eea2.json)
+
+[Extended Data](ext_articles/b4d2eea2.ext.json)
 
 ---
 
@@ -1262,19 +1406,21 @@ Six fishermen were released yesterday by the Kayts Magistrate's Court on the bas
 
 ---
 
-### 6 இந்திய மீனவர்கள் விடுதலை
+### 6 Indian fishermen release
 
 *2024-02-07 03:20:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/6-இந்திய-மீனவர்கள்-விடுதலை/71-332803) · `ta`
 
-இலங்கை கடற்பரப்பில் கடந்த மாதம் 23 ஆம் திகதி கைது செய்யப்பட்ட 6 இந்திய மீனவர்கள் ஊர்காவற்றுறை நீதவான் நீதிமன்றத்தினால் நேற்று விடுதலை செய்யப்பட்டுள்ளனர்.
+Six Indian fishermen arrested on the 23rd of last month have been released by the Kayts Magistrate's Court.
 
-நெடுந்தீவு கடற்பரப்பில் கடந்த 23 ஆம் திகதி 6 மீனவர்கள் கைது செய்யப்பட்டதுடன், 2 படகுகளும் கைப்பற்றப்பட்டன.
+Six fishermen were arrested on the 23rd of last month and 2 boats were seized.
 
-5  வருடங்களுக்கு ஒத்திவைக்கப்பட்ட 18 மாத சிறைத்தண்டனை என்ற நிபந்தனையின் அடிப்படையில், ஊர்காவற்றுறை நீதவான் நீதிமன்றத்தினால் 6 மீனவர்களும் நேற்று விடுதலை செய்யப்பட்டனர்.  (a)
+Six fishermen were released yesterday by the Kayts Magistrate's Court on the basis of the condition of the 18 -month prison sentence.(a)
 
 ◼️
 
 [Data](articles/9b1007f4.json)
+
+[Extended Data](ext_articles/9b1007f4.ext.json)
 
 ---
 
@@ -1863,133 +2009,5 @@ Amidst unprecedented social, economic, health and environmental crises, further 
 [Data](articles/f35e54af.json)
 
 [Extended Data](ext_articles/f35e54af.ext.json)
-
----
-
-### There is no objection to Santhan's return to the country - the government
-
-*2024-02-06 23:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/175748) · `ta`
-
-Foreign Affairs Minister Ali Sabri said that there is no objection to the return of the recently released Shantan alias Santhan, who was recently released in the Rajiv Gandhi murder case in the Rajiv Gandhi murder case.
-
-During a press conference held at the Presidential Media Center on Tuesday (6), the minister was responding to a question raised by a journalist about the government's position on the demands made by Shantan to return to Sri Lanka.
-
-Many MPs have spoken to us in the past. The resolution was taken on Monday (5) that he could come to the country as no objection was made on behalf of the Ministry of Defense.
-
-So you can discuss this with the Deputy High Commissioner and provide the appropriate facilities. He has no problems with coming to the country. It is not mandatory for this to be granted exclusively. If he has a passport, he can come to the country.
-
-...
-
-[Data](articles/9bd74c38.json)
-
-[Extended Data](ext_articles/9bd74c38.ext.json)
-
----
-
-### UDA and Dilmah Ceylon Tea Company partner to preserve Beddagana Wetland Park
-
-*2024-02-06 23:01:04* · [`dailyftlk`](https://www.ft.lk/news/UDA-and-Dilmah-Ceylon-Tea-Company-partner-to-preserve-Beddagana-Wetland-Park/56-758189) · `en`
-
-Urban Development Authority Chairman Nimesh Herath (left) and Dilmah Ceylon Tea Company Chairman Dilhan C. Fernando exchange the MoU signed between the two organisations. President’s Advisor on Environment, Climate Change, and Green Finance Dr. Ananda Mallavatantri is also present
-
-The Urban Development Authority (UDA) and Dilmah Ceylon Tea Company have entered into a Memorandum of Understanding to improve the sustainability of Beddagana Wetland Park.
-
-Beddagana Wetland Park has become an ecological haven for local and foreign tourists. It is a magnificent wetland park that was started in 2014 by UDA under the assistance of the World Bank and handed over to the public in 2016.
-
-...
-
-[Data](articles/9ef76ee6.json)
-
-[Extended Data](ext_articles/9ef76ee6.ext.json)
-
----
-
-### Thermal power generation increased to 57%: CEB Engineers’ Union
-
-*2024-02-06 22:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thermal-power-generation-increased-to-57-CEB-Engineers-Union/108-276445) · `en`
-
-Colombo, Feb 06 (Daily Mirror) -  With the advent of dry weather conditions and insufficient rainfall in hydro catchment areas, thermal power generation has risen to 57 percent, leading to a reduction in hydropower generation, the Ceylon Electricity Board Engineers' Union (CEBEU) said.
-
-The union told the Daily Mirror that the water capcity of reservoirs were initially at full, reaching 100 percent. However, with the commencement of dry weather conditions, the water capacity has now decreased to 87 percent.
-
-Accordingly, thermal power generation accounted for 56.7 percent, with 45 percent of this generated through the use of fuel, while the remaining power generation was attributed to furnace oil.
-
-Additionally, the Lakvijaya Power Station, commonly referred to as the Noracholai Power Station, plays a crucial role in contributing to Sri Lanka's overall electricity production, generating a substantial 900 MW.
-
-◼️
-
-[Data](articles/44818905.json)
-
-[Extended Data](ext_articles/44818905.ext.json)
-
----
-
-### President calls for regional collaboration in climate change mitigation efforts
-
-*2024-02-06 22:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97064/president-calls-for-regional-collaboration-in-climate-change-mitigation-efforts) · `en`
-
-While welcoming the participants to Colombo, Sri Lanka, to the South Asia Hydromet Forum (SAHF) IV President Ranil Wickremesinghe today (Feb.06) emphasized the island nation’s commitment to address climate change through collaborative efforts at regional and international levels.
-
-In his address at the inaugural session at the Galle Face Hotel this morning, under the theme ‘Unlocking Regional Synergies’, President Wickremesinghe highlighted the pressing issues of adaptation and mitigation in combating climate change.
-
-President Wickremesinghe reiterated Sri Lanka’s commitment to supporting regional efforts in climate change mitigation and adaptation. He highlighted initiatives such as the establishment of an international climate change university, aimed at providing postgraduate education and training to officials from various countries.
-
-...
-
-[Data](articles/e79aca75.json)
-
-[Extended Data](ext_articles/e79aca75.ext.json)
-
----
-
-### AICPA® & CIMA® Career Day on 12th February at the Shangri-La, Colombo
-
-*2024-02-06 22:50:00* · [`islandlk`](http://island.lk/aicpa-cima-career-day-on-12th-february-at-the-shangri-la-colombo/) · `en`
-
-In the ever-evolving journey of professional growth, individuals often seek platforms that offer more than just job opportunities – they seek a holistic experience that includes valuable insights, meaningful connections, and the chance to explore new career avenues.
-
-The AICPA® & CIMA® Career Day, scheduled for February 12, 2024, at the Lotus Ballroom, Shangri-La Colombo stands as a beacon for individuals aspiring to elevate their careers.
-
-Together with the American Institute of CPAs (AICPA), CIMA is a founding member of the Association of International Certified Professional Accountants, the global organisation which represents nearly 700,000 AICPA and CIMA members, candidates, and engaged professionals worldwide.
-
-...
-
-[Data](articles/2bbac986.json)
-
-[Extended Data](ext_articles/2bbac986.ext.json)
-
----
-
-### ComBank donates 5000-litre water storage tanks to 50 families at CKDu risk
-
-*2024-02-06 22:49:00* · [`islandlk`](http://island.lk/combank-donates-5000-litre-water-storage-tanks-to-50-families-at-ckdu-risk/) · `en`
-
-The Commercial Bank of Ceylon has donated 5,000-litre water storage tanks to 50 families in Ginnoruwa, Girandurukotte, as part of the Bank’s continuing support to an initiative to help combat the spread of Chronic Kidney Disease of an unknown origin (CKDu).
-
-Designed for the storage of rainwater, the tanks can supply the drinking and cooking water needs of each family for up to six months, protecting them from the harmful impurities in the ground water in the area, the Bank said.
-
-The donation is the latest phase in the ‘Raindrops’ project supported by Commercial Bank since 2016. The project comprised of research into the effectiveness of rainwater as an alternative to ground water in areas where there is a high incidence of kidney disease attributed to poor quality of water.
-
-...
-
-[Data](articles/71e1c667.json)
-
-[Extended Data](ext_articles/71e1c667.ext.json)
-
----
-
-### Déjà vu?
-
-*2024-02-06 22:46:04* · [`dailyftlk`](https://www.ft.lk/columns/Déjà-vu/4-758180) · `en`
-
-In a democracy, voters too bear responsibility for the governance that results – Pic by Shehan Gunasekara
-
-If the true purpose of the Online Safety Act is protecting people, sections 12, 14, 15, and 16 would not be necessary. The purpose of those sections is the protection of vested interests and powerful political and religious groups. The inclusion of such crimes as promoting ‘ill-feeling and hostility between different classes of people by communicating a false statement’, ‘disturbing a religious assembly by a false statement’, and ‘insults or attempts to insult a religion or religions’ indicate that the Government is using a real problem (online crimes) to further a different agenda
-
-...
-
-[Data](articles/3703c47c.json)
-
-[Extended Data](ext_articles/3703c47c.ext.json)
 
 ---

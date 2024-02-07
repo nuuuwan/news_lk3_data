@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 20:17:21**
+As of **2024-02-07 20:32:48**
 
 ## Newspaper Stats
 
-*Scraped **5,515** Articles*
+*Scraped **5,521** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 140
 islandlk | 288
 economynextcom | 290
 dailyftlk | 305
-newsfirstlk | 339
+newsfirstlk | 342
 adalk | 471
 virakesarilk | 671
 adaderanalk | 685
-tamilmirrorlk | 687
+tamilmirrorlk | 690
 adaderanasinhalalk | 716
 dailymirrorlk | 781
 
@@ -26,11 +26,61 @@ dailymirrorlk | 781
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,515 (100.0%) of 5,515 articles have been extended.
+5,515 (99.9%) of 5,521 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### பால் அருந்திய இருவர் வைத்தியசாலையில் அனுமதி
+
+*2024-02-07 20:01:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்-அருந்திய-இருவர்-வைத்தியசாலையில்-அனுமதி/175-332851) · `ta`
+
+ஜிந்துபிட்டிய பிரதேசத்தில் அண்மையில் இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவம் தொடர்பில் வுல்பென்டல் பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டிருந்த சந்தேக நபர்கள் இருவர் அவர்களைப் பார்வையிட வந்தவர்கள் வழங்கிய பால் பக்கெட்டை அருந்திய பின் இன்று (7) கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+சந்தேக நபர்கள் இருவரும் பால் பக்கெட்டுகளை அருந்திய பின்னர் சுயநினைவை இழந்ததாகவும், பாலில் நச்சு கலந்திருக்கலாம் என சந்தேகிக்கப்படுவதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+சந்தேக நபர்களுக்கு பால் பக்கெட்டுகளில் சயனைட் கலந்து குடிக்க கொடுக்கப்பட்டதாக பொலிஸார் குற்றம் சாட்டுகின்றனர்.
+
+சுகயீனமடைந்த சந்தேக நபர்களில் ஒருவரே கடந்த ஜனவரி 24ஆம் திகதி ஜிந்துபிட்டிய பிரதேசத்தில் நபர் ஒருவரை சுட்டுக் கொன்றதாக சந்தேகிக்கப்படுபவர் எனவும் மற்றைய சந்தேகநபர் தகவல் வழங்குபவராக செயற்பட்டதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/31daf46e.json)
+
+---
+
+### ”இனி அரசாங்கத்திற்கு ஆதரவளிக்க மாட்டோம்”
+
+*2024-02-07 19:43:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனி-அரசாங்கத்திற்கு-ஆதரவளிக்க-மாட்டோம்/175-332850) · `ta`
+
+அண்மைக் காலத்தில் அரசாங்கம் தன்னிச்சையாகச் செயற்பட்டதால், ஜனாதிபதியின் கோரிக்கைகளுக்கு மத்தியிலும் ஐக்கிய மக்கள் சக்தி அரசாங்கத்திற்கு ஆதரவளிக்காது என எதிர்க்கட்சியின் பிரதம கொறடா லக்ஷ்மன் கிரியெல்ல இன்று தெரிவித்துள்ளார்.
+
+அரசாங்கத்துடன் கைகோர்க்குமாறு ஜனாதிபதி எதிர்க்கட்சிகளிடம் தொடர்ந்து வேண்டுகோள் விடுத்து வருகின்ற போதிலும் அரசாங்கம் எதிர்க்கட்சிகள் தொடர்பில் எவ்வித அக்கறையும் காட்டவில்லை என பாராளுமன்ற வளாகத்தில் இடம்பெற்ற செய்தியாளர் சந்திப்பில் அவர் தெரிவித்தார்.
+
+ஐக்கிய மக்கள் சக்தியினால் ஏற்பாடு செய்யப்பட்டிருந்த அமைதியான போராட்டத்தின் மீது அரசாங்கம் தாக்குதல் நடத்தியதாகவும், பலவந்தமாக SJB ஆதரவைப் பெற முயற்சிப்பதாகவும் பாராளுமன்ற உறுப்பினர் கிரியெல்ல தெரிவித்தார்.
+
+"நாங்கள் அரசாங்கத்திற்கு தொடர்ந்து ஆதரவளித்தோம். 21 ஆவது திருத்தம் போன்ற பல சட்டங்களை நிறைவேற்றுவதற்கு நாங்கள் ஆதரவளித்தோம். எனினும், அரசாங்கம் அண்மைக் காலத்தில் தன்னிச்சையாகச் செயற்பட்டது," என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/bc86b3c0.json)
+
+---
+
+### சனத் நிஷாந்தவின் மரணத்தில் சந்தேகம்; மனைவி முறைப்பாடு
+
+*2024-02-07 19:34:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவின்-மரணத்தில்-சந்தேகம்-மனைவி-முறைப்பாடு/175-332849) · `ta`
+
+விபத்தில் உயிரிழந்த முன்னாள் இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் மனைவி சட்டத்தரணி சாமரி பிரியங்கவினால் குற்றப் புலனாய்வு திணைக்களத்தில் முறைப்பாடு ஒனன்று பதிவு செய்யப்பட்டுள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+
+முன்னாள் இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் மரணத்தில் சந்தேகத்திற்கிடமான சூழ்நிலைகள் இருப்பதாகத் தெரிவித்து அவர் இந்த முறைப்பாட்டை செய்துள்ளார். R
+
+◼️
+
+[Data](articles/40b3047c.json)
+
+---
 
 ### Special Notification for Public Traffic
 
@@ -118,6 +168,44 @@ The driver was subsequently was arrested on 26 January, however, was later grant
 
 ---
 
+### UNICEF welcomes amendments to Children and Young Persons Ordinance
+
+*2024-02-07 19:18:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/unicef-welcomes-amendments-to-children-and-young-persons-ordinance/) · `en`
+
+COLOMBO (News 1st); UNICEF welcomed the long-awaited amendment to the Children and Young Persons Ordinance (CYPO) coming into force effective January 1, 2024, which marks a significant step towards protecting the rights and welfare of all children in Sri Lanka.
+
+The CYPO, a legislation governing justice for children in Sri Lanka since 1939, previously only covered those up to the age of 16. The amendment now extends its protection to all children under the age of 18.
+
+Furthermore, the amendment also repeals the section of the CYPO which permitted the use of corporal punishment on children and adolescents by parents, teachers, or guardians.
+
+These amendments contribute to the alignment of Sri Lanka’s laws that address children’s rights with international standards, particularly the United Nations Convention on the Rights of the Child (CRC), but also addresses the evolving needs and challenges faced by children and adolescents in the country.
+
+...
+
+[Data](articles/6a544657.json)
+
+---
+
+### “Stalled Investigations, Protected Rogues” – GL
+
+*2024-02-07 19:05:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/stalled-investigations-protected-rogues-gl/) · `en`
+
+COLOMBO (News 1st);  Professor G.L. Peiris, Member of Parliament, highlighted the adverse effects of President's decision to prorogue parliament, particularly on ongoing investigations into widespread fraud involving public funds.
+
+According to Professor Peiris, the prorogation of parliament has led to a significant halt in the progress of investigations conducted by parliamentary committees.
+
+He emphasized the crucial role played by these committees, with 64 out of 91 committees ceasing to function during the prorogation period.
+
+Of particular concern are the six committees dedicated to economic matters, which were on the verge of concluding investigations into instances of public fund misappropriation.
+
+he Committee on Public Accounts, Committee on Public Finance, and Committee on Public Enterprises, among others, were actively engaged in uncovering and addressing cases of financial misconduct.
+
+...
+
+[Data](articles/b9ed2de5.json)
+
+---
+
 ### Family of five Sri Lankan nationals illegally enter India
 
 *2024-02-07 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97091/family-of-five-sri-lankan-nationals-illegally-enter-india) · `en`
@@ -135,6 +223,20 @@ According to police sources, 294 Sri Lankan Tamils have fled the island nation s
 [Data](articles/03d0773c.json)
 
 [Extended Data](ext_articles/03d0773c.ext.json)
+
+---
+
+### Economy Shows “World Record” Improvement, Says President
+
+*2024-02-07 19:00:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/economy-shows-world-record-improvement-says-president/) · `en`
+
+COLOMBO (News 1st); Sri Lankan President Ranil Wickremesinghe painted a picture of significant economic improvement since February 2023, touting a "world record" turnaround compared to the previous year.
+
+"Inflation, which stood at a daunting 50.6 per cent last year, has dramatically decreased to a mere 6.4 per cent today. The exchange rate has shown positive movement, with a dollar worth Rs. 362 in the past and now valued at Rs. 314. Despite a 3.7 per cent budget primary deficit in 2022, we achieved a significant turnaround in 2023, achieving a primary budget surplus. The interest rate, which was a high 28 per cent in 2023, has notably dropped to 12 per cent. The 52 main statutory bodies of the government, facing a loss of Rs. 745 billion  by the end of 2022, turned a profit of Rs. 313 billion by September 2023. It is noteworthy that these institutions are suffering from a huge debt burden," said the President.
+
+...
+
+[Data](articles/85c9a7a2.json)
 
 ---
 
@@ -1470,8 +1572,6 @@ COLOMBO (News 1st);  Daya Sandagiri, the 14th Naval Commander of Sri Lanka, has
 
 Premadasa, recognizing Sandagiri's maritime expertise, appointed him as a consultant on maritime and naval policies.
 
-Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
-
 ◼️
 
 [Data](articles/2a61bf4f.json)
@@ -1586,8 +1686,6 @@ The operation, conducted across the island, resulted in the arrest of 596 suspec
 
 Police confiscated a significant amount of illegal drugs, including 128 grams of heroin, 115 grams of ice, 8 kilograms of ganja, 626 grams of other narcotics, and 34 drug pills.
 
-Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
-
 ◼️
 
 [Data](articles/a15f27ad.json)
@@ -1696,7 +1794,7 @@ Meanwhile, the Navy's initiatives, aimed at creating conducive environments for 
 
 Commanding Officer SLNS Pandukabhaya, Captain MAL Perera, naval personnel from the North Central Naval Command, the Principals and teaching staffs of the schools and school children were present on the occasions where these facilities were declared open.
 
-...
+◼️
 
 [Data](articles/3dc9adaf.json)
 
@@ -1953,141 +2051,5 @@ Therefore, he has been prompted by the government that he should take immediate 
 [Data](articles/f6bba1b2.json)
 
 [Extended Data](ext_articles/f6bba1b2.ext.json)
-
----
-
-### Enactment process of Sri Lanka’s online safety act raises questions on law-making: CPA
-
-*2024-02-07 12:12:00* · [`economynextcom`](https://economynext.com/enactment-process-of-sri-lankas-online-safety-act-raises-questions-on-law-making-cpa-150242/) · `en`
-
-ECONOMYNEXT — The process followed in enacting Sri Lanka’s controversial Online Safety Act (OSA) raises serious questions on law-making and its impact on constitutional democracy, the Centre for Policy Alternatives (CPA) said, urging the government to replace the act with a law that “genuinely addresses” concerns on online safety.
-
-Claiming that the process of drafting the OSA was shrouded in secrecy, CPA said the rushed manner of its passage raises questions as to the intentions of the government in enacting a law that has significant implications for fundamental rights and the rule of law in Sri Lanka.
-
-“CPA has previously commented on the substance and process followed with the Bill and challenged its constitutionality. In light of recent events surrounding the enactment of the OSA, CPA condemns the enactment of such a draconian law that can further limit freedom of speech and the right to dissent,” the organisation said.
-
-...
-
-[Data](articles/e38a62a2.json)
-
-[Extended Data](ext_articles/e38a62a2.ext.json)
-
----
-
-### Troops of 13 essential drugs to suit cancer patients
-
-*2024-02-07 12:06:13* · [`adalk`](https://www.ada.lk/breaking_news/පිළිකා-රෝගීන්ට-වර්ෂයකට-සරිලන-අත්‍යවශ්‍ය-ඖෂධ-වර්ග-13-ක-ප්‍රධානයක්/11-407945) · `si`
-
-Dr. Ramesh Pathirana, Minister of Health and Industry, Dr. Ramesh Pathirana took place in the Ministry of Health today (07).
-
-Secretary to the Ministry of Health Medical Palitha Mahipala and sponsored LDS latter - day Sains Charites (USA). Mickey Lui - Area WELFARE AND SELF-Reliment Directory The agreement was signed by the agreement.
-
-The consignment of these essential cancer includes 13 drugs and the value of the project is more than US $ 1 million. The consignment of this essential cancer drugs to the Ministry of Health under the first phase. The company plans to provide a large haul of drugs required for the next few months under the second phase.
-
-...
-
-[Data](articles/11ef04b3.json)
-
-[Extended Data](ext_articles/11ef04b3.ext.json)
-
----
-
-### The test is the date of the test
-
-*2024-02-07 11:56:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சோதனை-திகதியே-சோதனையானது/175-332821) · `ta`
-
-Laughing at some of the events that take place in our country?Crying?Many people are not only awake, but they are stunned.
-
-A man involved in the driver's training has applied for the driver's license. All those who apply will be announced on the Practical Test Date.
-
-Of the pierced rubber seal, it is mentioned on the 30th of February 2024.
-
-No. 30 is not on the 30th of any year. Of these, they have been invited to come on the 30th of this year. Many people say that the call was a great test.
-
-◼️
-
-[Data](articles/607625fb.json)
-
-[Extended Data](ext_articles/607625fb.ext.json)
-
----
-
-### Former President's helicopter crashed
-
-*2024-02-07 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193074) · `si`
-
-Former President XBesitan Piyanopara, Chile, has died in an accident.
-
-Twice the country's controlled Piyanara records is one of the richest man in the country.
-
-It was in danger of helicopters in Lago Ranko, a well-known tourist destination, south of Santiago capital.
-
-The helicopter, whose 74-year-old president, and the helicopter, had collapsed on a reservoir in Lago Ransk.
-
-However, the rest of the plane were surviving the accident.
-
-Although the helicopter was owned by the helicopter, but it was not revealed that he was driving the plane when the accident occurred.
-
-Leaders of Latin American countries have expressed grief.
-
-From 2010 to Year 2010, the country ruled the country was a most popular ruler in the country.
-
-He was also concerned about the international attention to the rescue of 33 mines in the skeleman for 69 days.
-
-And Piyanara is also considered a richest man in Chile.
-
-◼️
-
-[Data](articles/23b26eba.json)
-
-[Extended Data](ext_articles/23b26eba.ext.json)
-
----
-
-### I accept the crisis in social structure by the line: soon tax policy amendment - President
-
-*2024-02-07 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175774) · `ta`
-
-President Ranil Wickremesinghe said that the tax policy amendment would be amended that I would accept the crisis in the social structure by the tax and that the crisis would be paid special attention to managing the crises.
-
-The fifth new parliamentary session of the ninth parliament began on Wednesday with the President's Policy Declaration.
-
-President Ranil Wickremesinghe made the above statement in a speech.
-
-The country's foreign stockpile was seen as the country when the bankruptcy was announced. In the end of 2023, foreign stocks rose to $ 4.4 billion.
-
-Meanwhile, the country has recovered from a massive economic crisis in the short term. I have declared transparency of the proceedings for economic recovery. I don't hide any plans.
-
-I did not give importance to politics when the country faced the worst crises.
-
-Their ownership and praise have been violated.I will recover the lost rights.
-
-Families with low -income poverty will be provided with 20 kilograms of rice in the coming New Year.
-
-...
-
-[Data](articles/6ee99053.json)
-
-[Extended Data](ext_articles/6ee99053.ext.json)
-
----
-
-### Maldives advised by IMF to run monetary policy to keep exchange rate peg unlike for Sri Lanka
-
-*2024-02-07 11:50:00* · [`economynextcom`](https://economynext.com/imf-advises-maldives-to-run-monetary-policy-to-fix-exchange-rate-peg-unlike-for-sri-lanka-150228/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund has advised the Maldives to operate monetary policy consistent with maintaining its currency peg with the US dollar, as the archipelago recovered strongly from Coronavirus pandemic.
-
-In 2022 Maldives grew by 13.9 percent and in 2023 the country is estimated to grow by 4.4 percent. Growth is projected at 5.2 percent in 2024.
-
-“Monetary and macroprudential policies need to be tightened to ensure compatibility with the exchange rate peg, while encompassing fiscal-monetary policy coordination,” an IMF statement said after annual Article IV consultations.
-
-“Monetary policy, in concertation with other policy levers, can contribute more effectively to addressing macroeconomic vulnerabilities. Discontinuing use of the Maldives Monetary Authority (MMA) advances is a welcome first step.”
-
-...
-
-[Data](articles/89b7c3ee.json)
-
-[Extended Data](ext_articles/89b7c3ee.ext.json)
 
 ---

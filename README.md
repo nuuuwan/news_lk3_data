@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 22:04:20**
+As of **2024-02-07 22:18:43**
 
 ## Newspaper Stats
 
-*Scraped **5,533** Articles*
+*Scraped **5,541** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,134 @@ dailyftlk | 305
 newsfirstlk | 342
 adalk | 472
 virakesarilk | 673
-adaderanalk | 685
+adaderanalk | 688
 tamilmirrorlk | 691
 adaderanasinhalalk | 722
-dailymirrorlk | 783
+dailymirrorlk | 788
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,533 (100.0%) of 5,533 articles have been extended.
+5,533 (99.9%) of 5,541 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### Self-proclaimed Avalokiteshvara Bodhisattva enlarged on bail
+
+*2024-02-07 21:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Self-proclaimed-Avalokiteshvara-Bodhisattva-enlarged-on-bail/108-276540) · `en`
+
+Self-proclaimed Avalokiteshvara Bodhisattva, Mahinda Kodithuwakku held in remand custody for allegedly insulting Buddhism and insulting religious feelings was today granted bail by Colombo Fort Magistrate's Court.
+
+The suspect was strongly advised not to violate bail conditions and was further ordered not to commit a similar offense while out on bail.
+
+Magistrate Thilina Gamage ordered the suspect to be released on two sureties of one million rupees. Meanwhile, the psychiatrist who examined the suspect's mental health condition, has recommended further treatment at the National Institute of Mental Health in Angoda. Accordingly, the suspect was further ordered to attend mental health clinics at the National Institute of Mental Health in Angoda every Monday.
+
+◼️
+
+[Data](articles/1338f38b.json)
+
+---
+
+### Continental invests €13 Mn to expand specialty tires production in Sri Lanka
+
+*2024-02-07 21:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Continental-invests-13-Mn-to-expand-specialty-tires-production-in-Sri-Lanka/108-276539) · `en`
+
+Continental, a global leader in tire manufacturing, announced today a significant expansion of its Specialty Tires production footprint in Sri Lanka.
+
+The company is set to invest €13 million over the next three years to bolster local pre-production capabilities at its Kalatura plant, aiming to achieve self-sufficiency in material handling tire production. This move is geared towards optimizing the manufacturing process and reducing cross-country dependencies in the logistic supply chain.
+
+Since its establishment in 2009, the Kalutara plant has been a key player in the production of industrial solid tires for forklifts and other material handling vehicles. With a focus on Press-on-Band tires and Super Elastic tires, the plant caters primarily to American, Asian, and select European markets.
+
+...
+
+[Data](articles/55218241.json)
+
+---
+
+### Magistrate questions CID’s conduct on investigations against Pastor Jerome
+
+*2024-02-07 21:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Magistrate-questions-CIDs-conduct-on-investigations-against-Pastor-Jerome/108-276537) · `en`
+
+The Colombo Fort Magistrate questioned the CID on how they had filed action before the Mount Lavinia Magistrate’s Court against Pastor Jerome Fernando under the Prevention of Money Laundering Act, contrary to the accepted court jurisdiction.
+
+Colombo Fort Magistrate Thilina Gamage observed that the CID has no authority to arbitrarily determine the judicial jurisdictions when filing a case, as these jurisdictions have been established through a gazette notification. The magistrate further noted that such a case should have been filed before the Colombo Fort Magistrate’s Court.
+
+The Magistrate made these remarks when the magisterial inquiry into the controversial Sunday sermon made by Pastor Jerome Fernando was called before court.
+
+The CID informed court that Pastor Jerome Fernando is being investigated into under the Prevention of Money Laundering Act and a B report has been filed before the Mount Lavinia Magistrate’s Court.
+
+...
+
+[Data](articles/cddafe4e.json)
+
+---
+
+### Sri Lanka Cement Corporation expecting to generate USD 300mn annually
+
+*2024-02-07 21:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97095/sri-lanka-cement-corporation-expecting-to-generate-usd-300mn-annually) · `en`
+
+State Minister of Primary Industries, Chamara Sampath Dassanayake, announced plans to unlock significant economic potential from the 5,000 acres of land owned by Sri Lanka Cement Corporation.
+
+The initiative aims to generate USD 300 million annually, bolstering the nation’s economy and demonstrating efficient resource utilization, the President’s Media Division (PMD) reported.
+
+The State Minister also stressed the imperative of leveraging our nation’s available resources to propel its development, regardless of any challenges that may arise, emphasizing the need to build the country steadfastly.
+
+The announcement was made during a press briefing titled “Collective Path to a Stable Country,” held at the President’s Media Centre (PMC) today (07 Feb.). While specific details about the chosen organization and the planned development remain unavailable, the initiative signifies a significant step towards economic growth and resource optimization.
+
+...
+
+[Data](articles/797b9a0b.json)
+
+---
+
+### Gazette issued keeping Environment Ministry under President’s purview
+
+*2024-02-07 21:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gazette-issued-keeping-Environment-Ministry-under-Presidents-purview/108-276535) · `en`
+
+An extraordinary gazette notification was issued bringing in the Environment Ministry under the purview of the President after having consulted with the Prime Minister.
+
+The gazette was issued under Article 44(3) of the Constitution of the Democratic Socialist Republic of Sri Lanka, under the signature of the Secretary to the President, E.M.S.B. Ekanayake.
+
+◼️
+
+[Data](articles/c0a115f0.json)
+
+---
+
+### President to retain Environment Minister portfolio after Keheliya’s resignation
+
+*2024-02-07 21:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/97094/president-to-retain-environment-minister-portfolio-after-keheliyas-resignation) · `en`
+
+A gazette notification has been released stating that, subsequent to a discussion with the Prime Minister, President Ranil Wickremesinghe has opted to retain the post of Environment Minister.
+
+The move comes a day after former Environment Minister and SLPP MP Keheliya Rambukwella resigned from the post, following his arrest in connection with the procurement of substandard human immunoglobulin that during his tenure as the Health Minister.
+
+Rambukwella was arrested on 02 February after he arrived at the Criminal Investigation Department (CID) to record a statement with regards to the incident.
+
+◼️
+
+[Data](articles/b33e0817.json)
+
+---
+
+### Wigneswaran backs Ranil as ideal Presidential candidate
+
+*2024-02-07 21:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wigneswaran-backs-Ranil-as-ideal-Presidential-candidate/108-276533) · `en`
+
+Tamil People’s National Alliance (TPNA) MP C.V. Wigneswaran said he considers President Ranil Wickremesinghe as the best candidate among the others.
+
+Making his remarks to the media after the parliamentary session today, he said the President talked to him in the parliamentary complex but declined to divulge what was discussed.
+
+He said he considers the President as the best candidate among the current aspirants.
+
+◼️
+
+[Data](articles/bf3903c7.json)
+
+---
 
 ### Diana explanations on the export decision
 
@@ -71,6 +185,24 @@ Of those companies, only the National Gem and Jewelery Authority made a profit. 
 [Data](articles/6471d3fd.json)
 
 [Extended Data](ext_articles/6471d3fd.ext.json)
+
+---
+
+### Online Safety Act brought under purview of Public Security Ministry
+
+*2024-02-07 21:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97093/online-safety-act-brought-under-purview-of-public-security-ministry) · `en`
+
+The much-disputed Online Safety Act has been brought under the purview of the Ministry of Public Security, as per an Extraordinary Gazette notification.
+
+According to the relevant gazette issued by the Presidential Secretariat, the Online Safety Act will be brought under the Ministry of Public Security, with effect from 07 February.
+
+The legislation which seeks to regulate online content was passed in Parliament, with amendments, on 24 January, amidst objections from opposition politicians and activists who allege the new law will muzzle free speech.
+
+The controversial Bill garnered not only the attention of local activists and organisations, but also that of diplomats and large international organisations, claiming that the Bill had numerous problematic aspects.
+
+...
+
+[Data](articles/9eb2703f.json)
 
 ---
 
@@ -1917,167 +2049,5 @@ Homagama Headquarters Inspector Pratenith, Pranindi, is conducting investigation
 [Data](articles/edbb6448.json)
 
 [Extended Data](ext_articles/edbb6448.ext.json)
-
----
-
-### Ceremonial opening of Parliament...
-
-*2024-02-07 13:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ceremonial-opening-of-Parliament/110-276510) · `en`
-
-President Ranil Wickremesinghe arriving at the Parliament Complex for the ceremonial opening of the Fifth Session of the Ninth Parliament today. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/e5180bbf.json)
-
-[Extended Data](ext_articles/e5180bbf.ext.json)
-
----
-
-### Yukthiya Nets 785 Suspects in 24 Hours
-
-*2024-02-07 13:11:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/yukthiya-nets-785-suspects-in-24-hours/) · `en`
-
-COLOMBO (News 1st); Sri Lankan authorities announced the arrest of 785 suspects in a 24-hour nationwide operation dubbed "Operation Yukthiya" targeting drug offenses and individuals on criminal watchlists.
-
-The operation, conducted across the island, resulted in the arrest of 596 suspects related to drug offenses and 189 individuals on criminal watchlists.
-
-Police confiscated a significant amount of illegal drugs, including 128 grams of heroin, 115 grams of ice, 8 kilograms of ganja, 626 grams of other narcotics, and 34 drug pills.
-
-◼️
-
-[Data](articles/a15f27ad.json)
-
-[Extended Data](ext_articles/a15f27ad.ext.json)
-
----
-
-### Sri Lanka former navy chief joins main opposition SJB
-
-*2024-02-07 13:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-former-navy-chief-joins-main-opposition-sjb-150266/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s main opposition party the Samagi Jana Balawegaya (SJB) has scored a second retired military commander in a week, this time with Former Chief of Defence Staff and ex-Navy Commander Admiral Daya Sandagiri declaring his support.
-
-The SJB said in a statement on Wednesday February 07 that the former navy chief has been appointed as Adviser on Maritime and Naval Policy for the party, based on his expertise in maritime and naval affairs.
-
-The appointment came just over a week after the SJB said former Army Commander General Daya Ratnayake had joined the party’s ranks.
-
-Ratnayake was appointed a senior advisor on state affairs, according to reports.
-
-Video footage posted on official SJB social media channels showed SJB and opposition leader Sajith Premadasa personally welcoming the two military veterans on separate occasions. (Colombo/Feb07/2024)
-
-◼️
-
-[Data](articles/e1807dc3.json)
-
-[Extended Data](ext_articles/e1807dc3.ext.json)
-
----
-
-### Rice to Gamibia from Sri Lanka
-
-*2024-02-07 13:02:07* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවෙන්-ගැමීබියාවට-සහල්/11-407948) · `si`
-
-Sri Lanka's Ambassador to Sri Lanka has been supporting Sri Lanka to provide the cultivation technology used in cashew cultivation.
-
-Gambian Ambassador Mustapha Javara said that the Gambia is a small country as a small country like Sri Lanka, he said.
-
-The Gambian Ambassador recently met Minister of Agriculture and Plantation Industries Mahinda Amaraweera and discussed the country's agricultural department in Sri Lanka.
-
-He said that he said that he was exported to several countries, including a large income from Gambia India.
-
-He said that Minister of Agriculture Mahinda Amaraweera has caused some downturn in cashew cultivation in this country, and not to identify new cashew specials. Therefore, the Minister requested the Gambian Ambassador to the use of technical assistance to use the technology to use the cashew cultivation technology in the country.
-
-It also discussed that the bilateral agreement was taken into a bilateral agreement for the gambia in Sri Lanka.
-
-...
-
-[Data](articles/0ae59dec.json)
-
-[Extended Data](ext_articles/0ae59dec.ext.json)
-
----
-
-### Vivekananda met the International Forum members of the National People
-
-*2024-02-07 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175790) · `ta`
-
-Vivekananda International Council members, including the leader of the National People's Power, Anura Kumara Dissanayake, met with the members of the International Council.
-
-A meeting with members of the Vivekananda International Foundation was held yesterday (06).
-
-The delegation led by National People's Power Leader Anura Kumara Dissanayake, who has visited India at the invitation of the Government of India, met with Indian External Affairs Minister Jaishankar and Indian Defense Advisor Ajith Dowal.
-
-◼️
-
-[Data](articles/71b22451.json)
-
-[Extended Data](ext_articles/71b22451.ext.json)
-
----
-
-### Here are the MPs who have not been protested against
-
-*2024-02-07 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193076) · `si`
-
-The fifth session of the New Parliament commenced today (07) at 10.30 am today.
-
-President Ranil Wickremesinghe presented his policy statement in Parliament.
-
-The President said that the economy of the country is increasingly increasing compared to the beginning of the year 2022.
-
-However, when the President addressed the House, however, a group of MPs from the massive leaving the House, no MP was present in the national promote.
-
-However, MPs, Sarath Fonseka, Patali Champika Ranawaka, Patali Champika and Kumara Welgama were elected to the President.
-
-The Adjournment Debate on the Government's Policy Statement of the President will be held tomorrow (08) and tomorrow (09).
-
-◼️
-
-[Data](articles/7755dc71.json)
-
-[Extended Data](ext_articles/7755dc71.ext.json)
-
----
-
-### Navy Upgrades Sanitation at Medawachchiya Schools
-
-*2024-02-07 12:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/navy-upgrades-sanitation-at-medawachchiya-schools/) · `en`
-
-COLOMBO (News 1st); Driven by a US domiciled philanthropist's financial support, the Sri Lanka Navy's North Central Command enhanced sanitary facilities at three Medawachchiya schools: Puleliya Vidyalaya, Thulawelliya Vidyalaya, and Ginikatuwewa Vidyalaya Rambewa. Declared open on February 5th, the project tackled a longstanding need and was praised by school staff and community.
-
-Through this initiative, the Navy successfully addressed a longstanding requirement for the children attending those schools.
-
-Meanwhile, the Navy's initiatives, aimed at creating conducive environments for children to excel in their educational pursuits, received commendation from school principals and teachers.
-
-Commanding Officer SLNS Pandukabhaya, Captain MAL Perera, naval personnel from the North Central Naval Command, the Principals and teaching staffs of the schools and school children were present on the occasions where these facilities were declared open.
-
-◼️
-
-[Data](articles/3dc9adaf.json)
-
-[Extended Data](ext_articles/3dc9adaf.ext.json)
-
----
-
-### Sri Lankan court releases six Indian fishermen
-
-*2024-02-07 12:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-court-releases-six-Indian-fishermen/108-276513) · `en`
-
-Colombo, Feb 07 -  A Sri Lankan court on Tuesday released six Indian fishermen who were arrested on Jan 22 on charges of poaching in the territorial waters of the island nation.
-
-The released fishermen were handed over to the Indian consulate general office in Jaffna.
-
-Isaac, 47, Sisarian, 43, Samathana Babu, 38, Easter Arockiadas, 34, Nishanthan, 34, and Murugesan sailed from the Rameswaram fishing jetty on two boats.
-
-The fishermen were booked for trespassing, poaching and using banned fishing nets in Sri Lankan waters. They were produced before the Sri Lankan court at Oorkavalthurai and remanded in judicial custody till Feb 6.
-
-When they were produced before the court on Tuesday, judge ordered their release on the condition that they should not enter Sri Lankan waters failing which they would be imprisoned. The judge ordered nationalisation of their fishing crafts and the fishing gear.
-
-...
-
-[Data](articles/6bd4c7b8.json)
-
-[Extended Data](ext_articles/6bd4c7b8.ext.json)
 
 ---

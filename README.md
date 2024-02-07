@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 13:17:22**
+As of **2024-02-07 13:33:04**
 
 ## Newspaper Stats
 
-*Scraped **5,418** Articles*
+*Scraped **5,419** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,58 @@ adalk | 459
 virakesarilk | 653
 adaderanalk | 671
 tamilmirrorlk | 679
-adaderanasinhalalk | 698
+adaderanasinhalalk | 699
 dailymirrorlk | 769
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,407 (99.8%) of 5,418 articles have been extended.
+5,418 (100.0%) of 5,419 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### அவலோகிதீஸ்வர போதிசத்துவர் என தன்னை அறிமுகப்படுத்திக் கொண்டவருக்குப் பிணை!
+### සජබ විරෝධයට එක්නොවූ මන්ත්‍රීවරු මෙන්න
+
+*2024-02-07 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193076) · `si`
+
+නව වැනි පාර්ලිමේන්තුවේ පස්වැනි සැසිවාරය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් අද අද (07) පෙරවරු 10.30ට ආරම්භ විය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය ප්‍රතිපත්ති ප්‍රකාශය පාර්ලිමේන්තුවේදී ඉදිරිපත් කළේය.
+
+එහිදී ජනාධිපතිවරයා පැවසුවේ 2022 වසරේ ආරම්භයට සාපේක්ෂව මේවන විට මෙරට ආර්ථිකය ශීඝ්‍ර වර්ධනයක් අත්කර ගනිමින් සිටින බවයි.
+
+කෙසේ වෙතත් ජනාධිපතිවරයා සභාව ඇමතූ අවස්ථාවේ සමගි ජනබලවේගයේ මන්ත්‍රීවරු කණ්ඩායමක් සභා ගැබෙන් ඉවත්ව ගිය අතර ජාතික ජන බලවේගයේ කිසිදු මන්ත්‍රීවරයකු සහභාගි වී සිටියේ නැත.
+
+නමුත් සමගි ජන බලවේගයෙන් පාර්ලිමේන්තුවට තේරී පත්වූ රාජිත සේනාරත්න, සරත් ෆොන්සේකා, පාඨලී චම්පික රණවක, ඉෂාක් රහුමාන් සහ කුමාර වෙල්ගම යන මන්ත්‍රීවරුන් ජනපතිගේ කතාවට සවන් දෙමින් මැතිසබයේ රැඳී සිටියයේය.
+
+ජනපති ඉදිරිපත් කළ ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය පිළිබඳ සභාව කල් තැබීමේ විවාදය හෙට (08) සහ අනිද්දා (09) දෙදින තුළ පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/7755dc71.json)
+
+---
+
+### Bail for the one who introduced himself as Avalokitheeswara Bodhisavar!
 
 *2024-02-07 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/175787) · `ta`
 
-அவலோகிதீஸ்வர போதிசத்துவர் என தன்னை அறிமுகப்படுத்திக் கொண்ட மஹிந்த கொடிதுவக்குவை பிணையில் விடுவிக்குமாறு கோட்டை நீதிவான் நீதிமன்றம் இன்று புதன்கிழமை (07) உத்தரவிட்டுள்ளது.
+The Fort Magistrate's Court on Wednesday (07) ordered the release of Mahinda Kodiduwaku, who introduced himself as Avalokitheeswara Bodhisavar.
 
-இதன்படி, ஒரு மில்லியன் ரூபா பெறுமதியான இரண்டு சரீரப் பிணைகளில் அவர் விடுவிக்கப்பட்டுள்ளார்.
+Accordingly, he has been released on two physical bail worth Rs.
 
-மேலும், குற்றம் சாட்டப்பட்டவரை  ஒவ்வொரு திங்கட்கிழமையும் முல்லேரியாவில் உள்ள தேசிய மனநல மருத்துவ நிறுவனத்தில் உள்ள மனநல வைத்தியசாலைக்கு  சிகிச்சைக்கு செல்லுமாறும் அறிவுறுத்தப்பட்டது.
+In addition, the accused was advised to go to the psychiatric hospital at the National Mental Health Institute in Mulleria every Monday.
 
-பௌத்த போதனைகளுக்கு முரணான செயற்பாடுகளில் ஈடுபட்ட குற்றச்சாட்டின் பேரில் கொடிதுவக்கு குற்றப் புலனாய்வுப் பிரிவினரால் ஜனவரி 15ஆம் திகதி கைது செய்யப்பட்டு இன்று (07) வரை விளக்கமறியலில் வைக்கப்பட்டார்.
+He was arrested on January 15 by the Criminal Investigation Department on charges of acting contrary to Buddhist teachings.
 
 ◼️
 
 [Data](articles/a90a3167.json)
+
+[Extended Data](ext_articles/a90a3167.ext.json)
 
 ---
 
@@ -62,53 +86,61 @@ A group of MPs led by Leader of the Opposition Sajith Premadasa and Chief Opposi
 
 [Data](articles/1a359ce0.json)
 
+[Extended Data](ext_articles/1a359ce0.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-02-07 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175785) · `ta`
 
-இன்று புதன்கிழமை (பெப்ரவரி 07) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 308.5698 ஆகவும் விற்பனை விலை ரூபா 318.6869 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar purchasing price was Rs.
 
 ◼️
 
 [Data](articles/bdd4d87a.json)
 
+[Extended Data](ext_articles/bdd4d87a.ext.json)
+
 ---
 
-### கெஹலியவுக்கு மற்றுமொரு தலையிடி
+### Another intervention to Keheliya
 
 *2024-02-07 12:28:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கெஹலியவுக்கு-மற்றுமொரு-தலையிடி/76-332823) · `ta`
 
-கல்வி அமைச்சின் சுற்றறிக்கையை மீறி, முன்னாள் அ​மைச்சர் கெஹலிய ரம்புக்வெலவின் பெயரில் கண்டி, குண்டசாலை பிரதேசத்தில் உள்ள பாடசாலைக்கு பெயரிடப்பட்டுள்ளதாகவும் அந்த பெயரை உடனடியாக நீக்க வேண்டும் எனவும் இலங்கை ஆசிரியர் சங்கம் வலியுறுத்தியுள்ளது.
+The Sri Lanka Teachers Union has urged the school in the Kundasalai area in the Kundasalai area in the name of former Michar Keheliya Rambukwella, despite the circular of the Ministry of Education.
 
-1996ஆம் ஆண்டு கல்வி அமைச்சினால் வெளியிடப்பட்ட சுற்றறிக்கையின் பிரகாரம் உயிருள்ள ஒருவரின் பெயரை பாடசாலைக்கு பெயரிட முடியாது என இலங்கை ஆசிரியர் சங்கத்தின் செயலாளர் ஜோசப் ஸ்டாலின் சுட்டிக்காட்டியுள்ளார்.
+Joseph Stalin, secretary of the Sri Lanka Teachers Union, pointed out that the name of a living person cannot be named after the circular published by the Ministry of Education in 1996.
 
-ஆனால் முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்ல   சமூகத்திற்கு தவறான உதாரணத்தை காட்டி குண்டசாலை பிரதேசத்தில் உள்ள ஆரம்ப பாடசாலைக்கு கெஹலிய ரம்புக்வெல்ல ஆரம்ப பாடசாலை என பெயரிட்டுள்ளார்.
+But the former minister Keheliya Rambukwella has named the primary school in the Kundasalai area as a primary school in the Kundasalai area.
 
-எனவே, உயிருடன் இருக்கும் ஒருவரின் பெயரை பாடசாலைகளுக்கு வைப்பதற்கு எதிராக அரசாங்கம் உடனடியாக நடவடிக்கை எடுக்க வேண்டும் என்று  ஜோசப் ஸ்டார்லிங் வலியுறுத்தினார்.
+Joseph Starling, therefore, urged the government to take immediate action against putting the name of a living person to schools.
 
 ◼️
 
 [Data](articles/2e1dd68f.json)
 
+[Extended Data](ext_articles/2e1dd68f.ext.json)
+
 ---
 
-### விளக்கமறியல் கைதியான கெஹலிய ரம்புக்கலவுக்கு தினமும் வெளியிலிருந்து உணவு!
+### Daily food from outside Keheliya Rambukkala
 
 *2024-02-07 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175783) · `ta`
 
-மருந்து  மோசடி சம்பவத்துடன் தொடர்புடைய சந்தேகத்தில் கைது செய்யப்பட்டு நீதிமன்ற உத்தரவில் விளக்கமறியலில் வைக்கப்பட்டுள்ள நாடாளுமன்ற உறுப்பினர் கெஹலிய ரம்புக்வெல்லவுக்கு தினமும்  வெளியிலிருந்து உணவு வழங்கப்படுவதாக சிறைச்சாலை ஆணையாளரும் ஊடகப் பேச்சாளருமான காமினி பீ.திஸாநாயக்க தெரிவித்துள்ளார்.
+Prison Commissioner and Media Spokesperson Gamini P. Dissanayake has said that MP Keheliya Rambukwella, who has been arrested on suspicion of drug scams and interrogated in a court order.
 
-தற்போது சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ள அவருக்கு   விசேட வசதிகள் எதுவும் வழங்கப்படவில்லை எனவும் அவர் கூறுகிறார்.
+He is currently admitted to the Prison Hospital and has not provided any special facilities.
 
-மேலும், குறிப்பிட்ட மருந்துகள்  தொடர்பிலோ அல்லது அத்தகைய மருந்துகளுக்கான கோரிக்கைகளோ இதுவரை கிடைக்கவில்லை என்றும், சம்பந்தப்பட்ட மருந்துகள் தொடர்பான அனைத்து முடிவுகளும் சிறைச்சாலை மருத்துவமனை மருத்துவரால் எடுக்கப்படுவதாகவும் ஆணையாளர் கூறுகிறார்.
+In addition, the Commissioner says that the demands for specific drugs or such drugs have not yet been received and all the results related to the relevant drugs are taken by the prison hospital doctor.
 
-முன்னாள் அமைச்சருக்கும் ஏனைய கைதிகளுக்கு வழங்கப்படும் வசதிகள் மாத்திரமே வழங்கப்பட்டுள்ளதாகவும் அவர் கூறுகிறார்.
+He also says that only the former minister and other prisoners are provided with facilities.
 
 ◼️
 
 [Data](articles/ef9cbb6f.json)
+
+[Extended Data](ext_articles/ef9cbb6f.ext.json)
 
 ---
 
@@ -172,21 +204,23 @@ As per stock market figures, this was mainly due to a single transaction of 61.9
 
 ---
 
-### சோதனை திகதியே சோதனையானது
+### The test is the date of the test
 
 *2024-02-07 11:56:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சோதனை-திகதியே-சோதனையானது/175-332821) · `ta`
 
-நமது நாட்டில் இடம்பெறும் சில சம்பவங்களை பார்க்கும் போது சிரிப்பதா? அழுவதா? என தெரியாமல் பலரும் விழிப்பிதுங்கி இருப்பது மட்டுமன்றி திகைத்தும் போய் நின்கின்றனர்.
+Laughing at some of the events that take place in our country?Crying?Many people are not only awake, but they are stunned.
 
-சாரதி பயிற்சியில் ஈடுபட்டிருந்த ஒருவர், சாரதி அனுமதிப்பத்திரத்தை எடுப்பதற்காக விண்ணப்பித்துள்ளார். அவ்வாறு விண்ணப்பிக்கும் சகலருக்கும் நடைமுறை சோதனைக்கான (Practical test date) திகதி அறிவிக்கப்படும்.
+A man involved in the driver's training has applied for the driver's license. All those who apply will be announced on the Practical Test Date.
 
-அதில், குத்தப்பட்டுள்ள இறப்பர் முத்திரையில், 2024 பெப்ரவரி 30ஆம் திகதி என குறிப்பிடப்பட்டுள்ளது.
+Of the pierced rubber seal, it is mentioned on the 30th of February 2024.
 
-எந்தவொரு வருடத்திலும் 30 ஆம் திகதி இல்லை. இதில், இவ்வருடம் 30 ஆம் திகதி வருமாறு அழைத்துள்ளனர். அவ்வாறு அழைக்கப்பட்டமையே பெரும் சோதனையானது என பலரும் தெரிவிக்கின்றனர்.
+No. 30 is not on the 30th of any year. Of these, they have been invited to come on the 30th of this year. Many people say that the call was a great test.
 
 ◼️
 
 [Data](articles/607625fb.json)
+
+[Extended Data](ext_articles/607625fb.ext.json)
 
 ---
 
@@ -250,17 +284,19 @@ Families with low -income poverty will be provided with 20 kilograms of rice in 
 
 ---
 
-### හිටපු නාවික හමුදාපති දයා සජබයට එක්වෙයි
+### Daya joins the former Navy Commander
 
 *2024-02-07 11:46:29* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-නාවික-හමුදාපති-දයා-සජබයට-එක්වෙයි/11-407944) · `si`
 
-හිටපු නාවික හමුදාපති දයා සඳගිරි මහතා සමගි ජන බලවේගය සමග එක්වී තිබේ. ශ්‍රී ලංකා නාවුක හමුදාවේ 14 වන නාවුක හමුදාපතිවරයා වූ විශ්‍රාමික, දයා සඳගිරි මහතා (VSV, USP rcds, MSc (DS), psc, FCMI) විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා හමුවී මෙලෙස සමගි ජන බලවේගය හා එක්වී ඇත.
+Former Navy Commander Daya Sandariri has joined the reconciliation. The 14th Navy Commander of the Sri Lanka Navy, Pension, Daya Sandagar (DS), PSC, FCK (DS), and joined the reservion leader Sajith Premadasa.
 
-සජිත් ප්‍රේමදාස මහතා විසින් ඒ මහතාව සමගි ජනබලවේගයේ සමුද්‍රීය හා නාවුක ප්‍රතිපත්ති පිළිබඳ උපදේශකවරයකු ලෙස පත් කිරීමට පියවර ගෙන තිබේ.
+Sajith Premadasa has been appointed as a consultant on the Marine and Navigation of the masses.
 
 ◼️
 
 [Data](articles/e1a34f0b.json)
+
+[Extended Data](ext_articles/e1a34f0b.ext.json)
 
 ---
 
@@ -346,23 +382,31 @@ COLOMBO (News 1st); Sri Lankan President Ranil Wickremesinghe in his policy stat
 
 ---
 
-### වැටුණ තැනින් ගොඩ හා හැටි දර්ශක සහිතව ජනපති කියයි
+### President piles from the fallen and how
 
 *2024-02-07 11:30:32* · [`adalk`](https://www.ada.lk/breaking_news/වැටුණ-තැනින්-ගොඩ-හා-හැටි-දර්ශක-සහිතව-ජනපති-කියයි/11-407941) · `si`
 
-2022 අවසානයේදී දළ දේශීය නිෂ්පාදිතයෙන් 3.7%ක් වූ අයවැය ප්‍රාථමික හිඟය, 2023 වසරේ ප්‍රාථමික අයවැය අතිරික්තයක් කර ගැනීමට හැකිවූ බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවැසීය. පාර්ලිමේන්තුවේ නව සැසිවාරය අමතමින් ඔහු මේ බව පැවැසීය.
+President Ranil Wickremesinghe said that the primary shortage of the budget was a 372% of GDP, a primary budget of 2023. He was addressing the new session of Parliament.
 
-නිදහසින් පසු ගෙවී ගිය 76 වසර තුළ ශ්‍රී ලංකාවට ප්‍රාථමික අයවැය අතිරික්තයක් ඇති කරගැනීමට හැකි වූ 6 වැනි අවස්ථාව මෙය බවත් ජනාධිපතිවරයා පැවසීය.
+This is the 6th occasion that Sri Lanka has been able to develop a primary budget excess in 76 years since independence.
 
-එසේම පසුගිය වසරේ පෙබරවාරි මාසයේ පැවැති සියයට 50 ඉකමවූ උද්ධමනය සියයට පහක් දක්වා පහළ දැමීමට හැකිවූ බවද ඔහු පැවැසීය.
+He was also able to reduce inflation to five percent of 50 percent in February last year.
 
-2022 අවසානයේ දළ දේශීය නිෂ්පාදනයෙන් 1.9% ක් වූ  ගෙවුම් ශේෂයේ ජංගම ගිණුමේ  හිඟය, 1977න් පසු පළමු  වරට 2023 වසර අවසානයේදී  අතිරික්තයක් ඇති කර ගත හැකි වූ බවද ඔහු පැවැසීය.
+At the end of 2022, the balance of the balance of 1.9% of GDP was able to establish a surplus in the end of 1973 after 1973.
 
-2021 වසරේදී 194,495ක් වූ මෙරටට පැමිණි සංචාරකයන් සංඛ්‍යාව 2023 වසරේදී  1,487,303ක් දක්වා ඉහළ නංවා ගැනීමට හැකි වූ අතර මේ වසරේ ජනවාරියේදී පමණක් 200,000කට අධික සංචාරකයන් සංඛ්‍යාවක් පැමිණි බව ජනාධිපතිවරයා පැවසීය. වසරකට ශ්‍රී ලංකාවට පැමිණෙන සංචාරකයන් ප්‍රමාණය මිලියන 5ක් දක්වා ඉහළ නැංවීම අපේක්ෂාව බවද සඳහන් කළේය.
+The President was able to increase the number of tourist arrivals in the year 194,49,495 in the year 2023, and over 200,000 tourists arrived in January alone this year alone this year.. The number of tourist arrivals to Sri Lanka will increase to 5 million.
 
-...
+The value of the dollar is Rs. 314 and Rs. 314.
+
+Sri Lanka's foreign reserves have risen to $ 4.4 billion.
+
+He said that 52 state enterprises have been increased by Rs. 300 billion in 2022 billion rupees.
+
+◼️
 
 [Data](articles/08ec4d00.json)
+
+[Extended Data](ext_articles/08ec4d00.ext.json)
 
 ---
 
@@ -411,6 +455,8 @@ Delivering the government's Policy Statement in Parliament, he said the tax regi
 ◼️
 
 [Data](articles/de1ed546.json)
+
+[Extended Data](ext_articles/de1ed546.ext.json)
 
 ---
 
@@ -1228,21 +1274,25 @@ Investigations have revealed that the robbery was conducted by the suspect above
 
 ---
 
-### අනුර ඉන්දියාවේ ගියේ රෝ ඔත්තු සේවයේ තොරතුරකට
+### Anura went in India to information in information
 
 *2024-02-07 08:06:44* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-ඉන්දියාවේ-ගියේ-රෝ-ඔත්තු-සේවයේ-තොරතුරකට/11-407940) · `si`
 
-ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක මහතා ඇතුළු  තම පක්ෂයේ කණ්ඩායම ඉන්දියාවේ සංචාරයකට ගියේ ඉන්දියානු රෝ ඔත්තු සේවය මගින් ඉන්දියානු රජයට ලබා දුන් තොරතුරක් මත බව සමස්ත ලංකා ගොවිජන සම්මේලනයේ ජාතික සංවිධායක නාමල් කරුණාරත්න මහතා 06  දීන පස්වරුවේ දඹුල්ලේදී හෙළි කළේය.
+Namal Karunaratne, the National Organizer of the Ceylon Agrarian Federation, was on information provided to India by the leader of the national popularity.
 
-එම තොරතුර සනාථ කරමින් එම පක්ෂයේ සමන්ත විද්‍යාරත්න  මහතා ද  කියා සිටියේ ඉදිරියේදී තවත් රටවල් කීපයක් සමග සාකච්ඡා කිරීමට ආරාධනා ලැබ තිබෙන බවත් ඒ අනුව නොබැඳී ප්‍රතිපත්තියක් අනුව විදේශ රටවල් සමග  ගනුදෙනු  සිදු කරන බවය.
+Samantha Vidyaratne who proved that information was said to have been invited to discuss with several other countries and depending on the foreign countries.
 
-ජාතික පුනරුදයක් වෙනුවෙන් ගොවිජන බලය ගොඩනගන මාතලේ දිස්ත්‍රික් ගොවි සමුළුව  නමින් සමස්ත ලංකා ගොවිජන සම්මේලනය සංවිධානය කරනු ලැබූ ගොවි සමුළුවන් දඹුල්ල   සති පොළ වෙළෙඳ   සංකීර්ණයේදී  06 දින පැවැත්විණි.
+Farmers' conferences organized by the All Ceylon Agrarian Federation, Matale District Farmies, was held on 6th day at the Dambulla shop.
 
-එහිදී මාතලේ දිස්ත්‍රික්කයේ ගොවීන් සහ ජාතික ජනබලවේගයේ කණ්ඩායම පෙළපාලියකින් සමුළුව භූමියට ඇතුළු වී පක්ෂයේ නව ප්‍රතිපත්ති පිළිබඳව ජනතාව දැනුවත් කරන්නට විය.
+The Summit in the Matale District and the team of national immigration were informed of the conference on new policies.
+
+Soon the National Organizer of the Ceylon Farmers Federation said that the torture of the Indian government is an official invitation of the party and is a state diplomatic in India and a intelligence in India.He added that the journey had been based on the journey to the Indian government that the next governments in Sri Lanka would be able to get the power to composition.
 
 ...
 
 [Data](articles/edf685e9.json)
+
+[Extended Data](ext_articles/edf685e9.ext.json)
 
 ---
 
@@ -1987,27 +2037,5 @@ However, team captain Saharan and Sachin Das played the most efficiently batsman
 [Data](articles/4eed95f4.json)
 
 [Extended Data](ext_articles/4eed95f4.ext.json)
-
----
-
-### We have come together for the historical journey of social change - Harini Amarasuriya
-
-*2024-02-07 01:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/175747) · `ta`
-
-Dr. Harini Amarasuriya, a member of the National People's Power and Member of Parliament, said that we have come together for the historical journey of social change.
-
-Harini Amarasuriya said this while addressing the women's conference of the National People's Power, "We are the only women with women" in Polonnaruwa.
-
-The strength of women who started from the Southern Province of Sri Lanka and rocked the entire country today. Today, the whole country is not only the whole world.This is a solution.
-
-We have come together for a historical journey that causes social change. You have become partners of the task of writing our history. Our voice as women in history was oppressed. We have no chance to write our history.
-
-76 years after the country's independence, women still have no freedom. Today we are here to gain our freedom and use the bravery within us.
-
-...
-
-[Data](articles/ecebe770.json)
-
-[Extended Data](ext_articles/ecebe770.ext.json)
 
 ---

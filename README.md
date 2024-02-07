@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 21:33:11**
+As of **2024-02-07 21:52:00**
 
 ## Newspaper Stats
 
-*Scraped **5,530** Articles*
+*Scraped **5,533** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ economynextcom | 290
 dailyftlk | 305
 newsfirstlk | 342
 adalk | 472
-virakesarilk | 672
+virakesarilk | 673
 adaderanalk | 685
 tamilmirrorlk | 691
-adaderanasinhalalk | 720
+adaderanasinhalalk | 722
 dailymirrorlk | 783
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,529 (100.0%) of 5,530 articles have been extended.
+5,530 (99.9%) of 5,533 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### කංසා අපනයන තීරණය ගැන ඩයනාගෙන් පැහැදිලි කිරීමක්
+
+*2024-02-07 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193100) · `si`
+
+ඖෂධයක් ලෙසට කංසා මෙරට වගා කර අපනයනය කිරීමට කැබිනට් අනුමැතියක් හිමි නොවූ බව බන්දුල ගුණවර්ධන අමාත්‍යවරයා ඊයේ (06) පැවසුව ද ඒ සඳහා කැබිනට් අනුමැතිය හිමි වූයේ පසුගිය වසරේ දී බව රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය පවසයි.
+
+පාර්ලිමේන්තු සැසිවාරයට අද පැමිණෙන අවස්ථාවේ මාධ්‍යවේදින් යොමු කළ ප්‍රශ්නයකට පිළිතුරු දෙමින් රාජ්‍ය අමාත්‍යවරිය මේ බව ප්‍රකාශ කළා ය.
+
+ත්‍රෛලෝක විජය පත්‍ර ලෙස ආයුර්වේදයේ දී හැඳින්වෙන කංසා ශාකය මෙරට වගා කර ඖෂධයක් ලෙසට අපනයනය කිරීමට කැබ්නට් අනුමැතිය හිමි වුණු බවට සංචාරක රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය පසුගිය 05 වැනි දා ප්‍රකාශ කර තිබිණි.
+
+කෙසේ වෙතත් කැබිනට් තීරණ දැනුම් දීමේ ප්‍රවෘත්ති සාකච්ඡාවේ දී කැබිනට් ප්‍රකාශක ආචාර්ය බන්දුල ගුණවර්ධන මහතා ඊයේ ප්‍රකාශ කළේ, කැබිනට් රැස්වීමේ දී එවැනි අනුමැතියක් නොලැබුණු බවයි.
+
+◼️
+
+[Data](articles/45f70437.json)
+
+---
+
+### சீமெந்துக் கூட்டுத்தாபனத்திற்குச் சொந்தமான 5000 ஏக்கர் காணியின் மூலம் வருடாந்தம் 300 மில். டொலர்கள் வருமானம் ஈட்டலாம் - சாமர சம்பத் தசனாயக்க
+
+*2024-02-07 21:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175840) · `ta`
+
+சீமெந்துக் கூட்டுத்தாபனத்திற்குச் சொந்தமான 5000 ஏக்கர் காணியில் வருடாந்தம் 300 மில்லியன் டொலர் வருமானம் ஈட்டும் திட்டம் உள்ளதாகவும், அதற்காக முதலீடு செய்யத் தயாராக உள்ள நிறுவனம் தெரிவு செய்யப்பட்டுள்ளதாகவும் ஆரம்பக் கைத்தொழில் இராஜாங்க அமைச்சர் சாமர சம்பத் தசனாயக்க தெரிவித்தார்.
+
+எவ்வாறான பிரச்சினைகள் ஏற்பட்டாலும், நாட்டிலுள்ள வளங்களைப் பயன்படுத்தி நாட்டைக் கட்டியெழுப்ப வேண்டும் எனவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (07) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் சாமர சம்பத் தசனாயக்க  இவ்வாறு தெரிவித்தார்.
+
+நாடு பாரிய பொருளாதார நெருக்கடியிலிருந்த வேளையில் ஜனாதிபதி ரணில் விக்ரமசிங்க இந்த நாட்டைப் பொறுப்பேற்றார். இப்போது அந்தப் பொறுப்பை வெற்றிகரமாக நிறைவேற்றி வருகிறார். அத்துடன், என்னிடம் ஒப்படைக்கப்பட்ட அமைச்சுக்குச் சொந்தமான நிறுவனங்களும் கடும் வீழ்ச்சியைச் சந்தித்திருந்தன.
+
+அந்த நிறுவனங்களில், தேசிய இரத்தினக்கல் மற்றும் ஆபரண அதிகார சபை மாத்திரமே இலாபம் ஈட்டியது. அந்த நேரத்தில் ஆண்டுக்கு சுமார் 280 மில்லியன் டொலர் வருமானம் ஈட்டிவந்தது.
+
+...
+
+[Data](articles/6471d3fd.json)
+
+---
+
+### අලුත් ගැසට් නිවේදන දෙකක්
+
+*2024-02-07 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193099) · `si`
+
+මාර්ගගත ක්‍රමවල සුරක්ෂිතතාවය පිළිබඳ පනත මහජන ආරක්ෂක අමාත්‍යාංශය යටතට ගෙන ඒම සඳහා ජනාධිපති ලේකම් කාර්යාලය විසින් අතිවිශේෂ ගැසට් නිවේදනයක් නිකුත් කර ඇත.
+
+මේ අතර අග්‍රාමාත්‍යවරයාගේ අදහස් විමසීමෙන් අනතුරුව පරිසර අමාත්‍ය ධුරය ජනාධිපතිවරයා භාරයේ තැබිය යුතු බවට නිශ්චය කර ඇති බව සඳහන් කරමින් ජනාධිපති ලේකම් කාර්යාලය තවත් ගැසට් නිවේදනයක් නිකුත් කර ඇත.
+
+◼️
+
+[Data](articles/7c71d87a.json)
+
+---
 
 ### The suspect who gave birth to milk by mixing the milk
 
@@ -842,19 +894,23 @@ More than 2000 alumni have traveled and participated in the program. ”
 
 ---
 
-### ප්‍රතික්ෂේප කිරිම යම් ආකාරයක අභිප්‍රේරණයක්
+### Some form of refusal
 
 *2024-02-07 16:33:03* · [`adalk`](https://www.ada.lk/sports/ප්‍රතික්ෂේප-කිරිම-යම්-ආකාරයක-අභිප්‍රේරණයක්/9-407955) · `si`
 
-අයි.පී.එල්. කාන්තා ප්‍රිමියර් ලීග් වෙන්දේසියේදී තමන්ව මිලදී ගැනීමට කිසිම කණ්ඩායමක් ඉදිරිපත් නොවීම ගැන  "කම්පනයට නොව පුදුමයට පත් වූ" බවත් ප්‍රතික්ෂේප කිරීම් තමාට "යම් ආකාරයක පෙළඹවීමක්" බවත් ශ්‍රී ලංකා කාන්තා ක්‍රිකට් නායිකා චමරි අතපත්තු පැවැසුවාය.
+IPL. Sri Lanka women's cricket leader Chamari, who was "tempted" and was "tempted" that no group would be "tempted" to buy any group in the Women's Premier League Auction.
 
-"මම කම්පනයට පත් වුණේ නෑ. ඔවුන් මාව තෝරා නොගත් නිසා මම පුදුමයට පත් වුණා. "  යැයි අතපත්තු අඟහරුවාදා මාධ්‍ය හමුවකදී පැවසීය.
+"I didn't shock. I was surprised because they didn't choose me. "Atapattu told a press conference on Tuesday.
 
-"ඒත් මේ දේවල් මගේ පාලනයේ නැහැ. මම හිතනවා මට පාලනය කරන්න පුළුවන් දේ මොකද මේ තීරණ ගන්නේ වෙන කෙනෙක් - සමහර පුහුණුකරුවන් හෝ සමහර [කණ්ඩායම්] කළමනාකාරීත්වය. මට මේ දේවල් පාලනය කරන්න බැහැ, නමුත් මට පාලනය කරන්න පුළුවන් මගේ පිතිකරණය, මගේ පන්දු යැවීම. මට අවශ්‍ය මට කරන්න පුළුවන් දේ කරන්න. මම මේ තීරණ ගන්නේ හොඳ මානසිකත්වයෙන් සහ මගේ උපරිමය කරනවා." යැයි ඇය පැවැසුවාය.
+"But these things are not in my control. I think I can control these decisions - some trainers or some [groups] management. I can't control these things, but I can control my batting, my bowling. I want to do what I can do. I make these decisions with good mood and my best. "She said.
 
-...
+"Refusal is a motivated for me," she said. "It's good for me, because sometimes I have things to learn. I want to show what I can do, if someone says it is impossible, do it first - it's my vision. I just want to prove me what I can do. "
+
+◼️
 
 [Data](articles/2064d6e4.json)
+
+[Extended Data](ext_articles/2064d6e4.ext.json)
 
 ---
 
@@ -2017,55 +2073,5 @@ When they were produced before the court on Tuesday, judge ordered their release
 [Data](articles/6bd4c7b8.json)
 
 [Extended Data](ext_articles/6bd4c7b8.ext.json)
-
----
-
-### Bail for the one who introduced himself as Avalokitheeswara Bodhisavar!
-
-*2024-02-07 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/175787) · `ta`
-
-The Fort Magistrate's Court on Wednesday (07) ordered the release of Mahinda Kodiduwaku, who introduced himself as Avalokitheeswara Bodhisavar.
-
-Accordingly, he has been released on two physical bail worth Rs.
-
-In addition, the accused was advised to go to the psychiatric hospital at the National Mental Health Institute in Mulleria every Monday.
-
-He was arrested on January 15 by the Criminal Investigation Department on charges of acting contrary to Buddhist teachings.
-
-◼️
-
-[Data](articles/a90a3167.json)
-
-[Extended Data](ext_articles/a90a3167.ext.json)
-
----
-
-### Several SJBers walk out of Parliament while another group remains
-
-*2024-02-07 12:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Several-SJBers-walk-out-of-Parliament-while-another-group-remains/108-276511) · `en`
-
-Parliament, Feb.7(Daily Mirror)- Indicating that there is a division within the party, a group of SJB MPs walked out of the chamber when President Ranil Wickremesinghe began his speech, while some remained.
-
-A group of MPs led by Leader of the Opposition Sajith Premadasa and Chief Opposition Whip Lakshman Kiriella walked out while MPs Sarath Fonseka, Rajitha Senaratne, Ishaq Rahman etc. remained at the time the President began his speech.
-
-◼️
-
-[Data](articles/1a359ce0.json)
-
-[Extended Data](ext_articles/1a359ce0.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-02-07 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175785) · `ta`
-
-The US dollar purchasing price was Rs.
-
-◼️
-
-[Data](articles/bdd4d87a.json)
-
-[Extended Data](ext_articles/bdd4d87a.ext.json)
 
 ---

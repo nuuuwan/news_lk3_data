@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 23:17:25**
+As of **2024-02-07 23:33:20**
 
 ## Newspaper Stats
 
@@ -26,47 +26,51 @@ dailymirrorlk | 789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,545 (100.0%) of 5,547 articles have been extended.
+5,547 (100.0%) of 5,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### ஜனாதிபதியின் கீழ் சுற்றாடல் அமைச்சு : விசேட வர்த்தமானி வெளியீடு
+### Ministry of Environment under the President: Special Gazette Release
 
 *2024-02-07 22:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175842) · `ta`
 
-சுற்றாடல் அமைச்சை ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பொறுப்பின் கீழ் கொண்டுவந்து விசேட வர்த்தமானி வெளியிடப்பட்டுள்ளது.
+The Special Gazette has been released by President Ranil Wickremesinghe under the responsibility of the Ministry of Environment.
 
-தரமற்ற இம்யூனோகுளோபுலின் தடுப்பூசிகளை இறக்குமதி செய்த குற்றச்சாட்டில் முன்னாள் சுற்றாடல் அமைச்சராகச் செயற்பட்ட கெஹலிய ரம்புக்வெல்ல கைது செய்யப்பட்ட நிலையில் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+Keheliya Rambukwella, who has been the former Environment Minister, has been detained after being arrested on charges of importing substandard immunoglobulin vaccines.
 
-ஜனாதிபதியின் செயலாளர் எம்.எஸ்.பி ஏக்கநாயக்கவின் கையொப்பத்துடன் இந்த அதிவிசேட வர்த்தமானி அறிவித்தல் வெளியாகியுள்ளது.
+The notification has been released with the signature of President's Secretary MSP Ekanayake.
 
-பிரதமர் தினேஸ் குணவர்தனவுடன் கலந்துரையாடப்பட்டதன் பின்னர், இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக அந்த வர்த்தமானியில் குறிப்பிடப்பட்டுள்ளது.
+The Gazette has stated that the decision has been taken after discussing with Prime Minister Dinesh Gunawardena.
 
 ◼️
 
 [Data](articles/d23618a9.json)
 
+[Extended Data](ext_articles/d23618a9.ext.json)
+
 ---
 
-### பொது மக்கள் பாதுகாப்பு அமைச்சின் கீழ் நிகழ்நிலை காப்புச் சட்டம்
+### Formation Backup Act under the Ministry of Public Safety
 
 *2024-02-07 22:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175841) · `ta`
 
-சர்ச்சைக்குரிய நிகழ்நிலை காப்பு சட்டம் வர்த்தமானி அறிவிப்பின்படி, பொது மக்கள் பாதுகாப்பு அமைச்சகத்தின் கீழ் கொண்டுவரப்பட்டுள்ளது.
+According to the Gazette Notification of the Controversial Backup Act, the Ministry of Public Security has been brought under the Ministry of Public Security.
 
-ஜனாதிபதி செயலகத்தினால் வெளியிடப்பட்ட விசேட வர்த்தமானியின் பிரகாரம் இன்று பெப்ரவரி 07 ஆம் திகதி முதல் அமுலுக்கு வரும் வகையில், நிகழ்நிலை காப்பு சட்டம் பொது மக்கள் பாதுகாப்பு அமைச்சின் கீழ் கொண்டுவரப்பட்டுள்ளது.
+According to the Special Gazette issued by the Presidential Secretariat, the Federation Act has been enacted under the Ministry of Public Security, with implementation on February 07.
 
-பேச்சு, ஊடக சுதந்திரத்தை முடக்கும் என்ற எதிர்க்கட்சிகளின் மற்றும் சமூக ஆர்வலர்களின் ஆட்சேபனைகளுக்கு மத்தியிலும் கடந்த ஜனவரி மாதம் 24  ஆம் திகதி பாராளுமன்றத்தில் நிகழ்நிலை காப்பு சட்டம் நிறைவேற்றப்பட்டது.
+On January 24 last year, Parliament was passed in Parliament, despite the objections of opposition parties and social activists that would stop speech and media freedom.
 
-சமூக ஆர்வலர்கள் மற்றும் பல அமைப்புகள் மட்டுமல்லாது சர்வதேச இராஜதந்திரிகளின் கவனத்தையும் ஈர்த்த இந்த நிகழ்நிலை காப்பு சட்டம் பல சிக்கலான விடயங்களை கொண்டுள்ளதாக பலரும் கூறியிருந்ததுடன் நிகழ்நிலை காப்பு சட்டத்திற்கு எதிராக நீதிமன்ற வழக்குகளும் தாக்கல் செய்யப்பட்டுள்ளன.
+Many people have said that this fictional insulation law has many complex issues, which have attracted the attention of social activists and many organizations but also the attention of international diplomats.
 
-நிகழ்நிலை காப்பு சட்டம் நாட்டின் பாதுகாப்பிற்காக நம்பகத்தன்மையற்ற செய்திகளையும், அறிக்கைகளையும் தடைசெய்யும் நோக்கோடு கொண்டு வரப்பட்டதாகக் அரசாங்கம் கூறியிருந்தமை குறிப்பிடத்தக்கது.
+Significantly, the government said that the Ceremonial Backup Act was aimed at preventing unrealistic news and reports for the safety of the country.
 
 ◼️
 
 [Data](articles/f255014f.json)
+
+[Extended Data](ext_articles/f255014f.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 13:33:04**
+As of **2024-02-07 13:51:37**
 
 ## Newspaper Stats
 
-*Scraped **5,419** Articles*
+*Scraped **5,421** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 288
 dailyftlk | 305
 newsfirstlk | 336
 adalk | 459
-virakesarilk | 653
+virakesarilk | 655
 adaderanalk | 671
 tamilmirrorlk | 679
 adaderanasinhalalk | 699
@@ -26,31 +26,79 @@ dailymirrorlk | 769
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,418 (100.0%) of 5,419 articles have been extended.
+5,421 (100.0%) of 5,421 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### සජබ විරෝධයට එක්නොවූ මන්ත්‍රීවරු මෙන්න
+### International Award for Best Wildlife Photo Artist
+
+*2024-02-07 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/175782) · `ta`
+
+Nima Sarikani, an independent photographer from Britain, has been awarded the Best Wildlife Photographers Award for 2023.
+
+The award was presented by the Natural History Museum in London.
+
+Nima Sarigani photographed the scene of a young polar bear glacier in a quiet environment. It is titled "Ice Bed".
+
+This film highlights the importance of the beauty and impact of the Earth's environment and safety efforts.
+
+A photo of a surprise mind allows us to see the beauty and weakness of our earth "
+
+"The photo of his thinking, represents the scenery of the damage and the harmful impacts of climate change and climate change," said Dr. Douglas Qur, Director of the Natural History Museum.
+
+Nima Sarigani has taken a photo following a three -day journey in search of polar bears through a dense fog at Norwegian's Swalbard island.
+
+25 photos of wildlife photographers around the world were selected for the final. Nima Sarikani's photo tops it.
+
+...
+
+[Data](articles/2ee4995f.json)
+
+[Extended Data](ext_articles/2ee4995f.ext.json)
+
+---
+
+### Vivekananda met the International Forum members of the National People
+
+*2024-02-07 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175790) · `ta`
+
+Vivekananda International Council members, including the leader of the National People's Power, Anura Kumara Dissanayake, met with the members of the International Council.
+
+A meeting with members of the Vivekananda International Foundation was held yesterday (06).
+
+The delegation led by National People's Power Leader Anura Kumara Dissanayake, who has visited India at the invitation of the Government of India, met with Indian External Affairs Minister Jaishankar and Indian Defense Advisor Ajith Dowal.
+
+◼️
+
+[Data](articles/71b22451.json)
+
+[Extended Data](ext_articles/71b22451.ext.json)
+
+---
+
+### Here are the MPs who have not been protested against
 
 *2024-02-07 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193076) · `si`
 
-නව වැනි පාර්ලිමේන්තුවේ පස්වැනි සැසිවාරය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් අද අද (07) පෙරවරු 10.30ට ආරම්භ විය.
+The fifth session of the New Parliament commenced today (07) at 10.30 am today.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය ප්‍රතිපත්ති ප්‍රකාශය පාර්ලිමේන්තුවේදී ඉදිරිපත් කළේය.
+President Ranil Wickremesinghe presented his policy statement in Parliament.
 
-එහිදී ජනාධිපතිවරයා පැවසුවේ 2022 වසරේ ආරම්භයට සාපේක්ෂව මේවන විට මෙරට ආර්ථිකය ශීඝ්‍ර වර්ධනයක් අත්කර ගනිමින් සිටින බවයි.
+The President said that the economy of the country is increasingly increasing compared to the beginning of the year 2022.
 
-කෙසේ වෙතත් ජනාධිපතිවරයා සභාව ඇමතූ අවස්ථාවේ සමගි ජනබලවේගයේ මන්ත්‍රීවරු කණ්ඩායමක් සභා ගැබෙන් ඉවත්ව ගිය අතර ජාතික ජන බලවේගයේ කිසිදු මන්ත්‍රීවරයකු සහභාගි වී සිටියේ නැත.
+However, when the President addressed the House, however, a group of MPs from the massive leaving the House, no MP was present in the national promote.
 
-නමුත් සමගි ජන බලවේගයෙන් පාර්ලිමේන්තුවට තේරී පත්වූ රාජිත සේනාරත්න, සරත් ෆොන්සේකා, පාඨලී චම්පික රණවක, ඉෂාක් රහුමාන් සහ කුමාර වෙල්ගම යන මන්ත්‍රීවරුන් ජනපතිගේ කතාවට සවන් දෙමින් මැතිසබයේ රැඳී සිටියයේය.
+However, MPs, Sarath Fonseka, Patali Champika Ranawaka, Patali Champika and Kumara Welgama were elected to the President.
 
-ජනපති ඉදිරිපත් කළ ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය පිළිබඳ සභාව කල් තැබීමේ විවාදය හෙට (08) සහ අනිද්දා (09) දෙදින තුළ පැවැත්වීමට නියමිතය.
+The Adjournment Debate on the Government's Policy Statement of the President will be held tomorrow (08) and tomorrow (09).
 
 ◼️
 
 [Data](articles/7755dc71.json)
+
+[Extended Data](ext_articles/7755dc71.ext.json)
 
 ---
 
@@ -654,13 +702,13 @@ Boat services for Sri Lankan pilgrims going to the festival will be held from th
 
 *2024-02-07 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97074/president-ranil-delivers-govts-policy-statement-in-parliament) · `en`
 
-President Ranil Wickremesinghe presented the government’s policy statement to the House this morning (Feb.07) after the Fifth Session of the Ninth Parliament was ceremonially declared open.
+President Ranil Wickremesinghe presented the government”s policy statement to the House this morning (Feb.07) after the Fifth Session of the Ninth Parliament was ceremonially declared open.
 
-Delivering the policy statement, the Head of State said the government intends to reduce the tax burden on the people in the future, as the country’s economy continues to stabilize with the implementation of economic reforms.
+Delivering the policy statement, the Head of State said the government intends to reduce the tax burden on the people in the future, as the country”s economy continues to stabilize with the implementation of economic reforms.
 
 He went on to highlight the substantial increase in tax registration, with the number of registrants soaring from 437,547 in 2022 to 1,000,029 by the end of 2023, representing a 130% increase.
 
-The President also spoke of the positive shift in Sri Lanka’s economic trajectory. Despite a 7.8% GDP contraction and six consecutive quarters of negative growth in 2022, the nation rebounded with a 1.6% growth rate in the Q3 of 2023, he added.
+The President also spoke of the positive shift in Sri Lanka”s economic trajectory. Despite a 7.8% GDP contraction and six consecutive quarters of negative growth in 2022, the nation rebounded with a 1.6% growth rate in the Q3 of 2023, he added.
 
 ...
 
@@ -1985,57 +2033,5 @@ He has achieved international achievements from boxing and a member of the Natio
 [Data](articles/1f5dcb58.json)
 
 [Extended Data](ext_articles/1f5dcb58.ext.json)
-
----
-
-### The fifth session begins today with the President's Policy Declaration
-
-*2024-02-07 01:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/175758) · `ta`
-
-The fifth session of the ninth parliament will commence today (7) with President Ranil Wickremesinghe's policy speech.
-
-The adjournment debate will be held on the 8th and 9th of this month regarding the government's policy declaration presented by the president.
-
-President Ranil Wickremesinghe adjourned the fourth session of the ninth parliament in accordance with Article 70 (1) of the Constitution with effect from midnight on the 26th of last month.
-
-The fifth session (Wednesday) will be inaugurated under the leadership of the President and the President will present the government's policy conversion at 10.30 am.
-
-The first session of the ninth parliament was held from 2020 to 20th August 2020 to December 12, and the second session was held from January 1822 to 2022 to 2022.
-
-The third session was held from August 03 to 2022 to January 27, 2023, and the fourth session began on 08 February 2023 and the Parliament met 106 days until midnight on 2024.01.26.
-
-...
-
-[Data](articles/38276765.json)
-
-[Extended Data](ext_articles/38276765.ext.json)
-
----
-
-### India entered the end of the 9th time after beating the reception country of South Africa
-
-*2024-02-07 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/175757) · `ta`
-
-The current champion India, who won the most exciting semi -finals at the Wilomoor Park Stadium on Tuesday (06), won the World Cup final for the 9th time.
-
-In response to 248 runs for South Africa, India reached the target by losing 8 wickets for 7 balls.
-
-In the 15th World Cup chapter, India, who first played in its earlier five matches and scored light successes, faced a minor stumbling block before winning the second half.
-
-India's 4th wicket took place when India's total number was 32 runs in the 12th over.
-
-Mushir Khan, who had previously scored 2 centuries, scored 4 runs, Arshin Kulkarni 12 runs and Briyanshu Molia with 5 runs.
-
-Triston Loose also took the next 3 wickets to beat Kivena Mafaka with the first wicket.
-
-With the first four wickets fell to the total number, it was suspicious that South Africa would end the victory of India.
-
-However, team captain Saharan and Sachin Das played the most efficiently batsman and shared 171 runs in the 5th wicket.
-
-...
-
-[Data](articles/4eed95f4.json)
-
-[Extended Data](ext_articles/4eed95f4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 11:17:18**
+As of **2024-02-07 11:33:04**
 
 ## Newspaper Stats
 
-*Scraped **5,380** Articles*
+*Scraped **5,388** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ economynextcom | 281
 islandlk | 288
 dailyftlk | 305
 newsfirstlk | 333
-adalk | 454
+adalk | 455
 virakesarilk | 646
 adaderanalk | 667
-tamilmirrorlk | 667
-adaderanasinhalalk | 694
+tamilmirrorlk | 673
+adaderanasinhalalk | 695
 dailymirrorlk | 766
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,377 (99.9%) of 5,380 articles have been extended.
+5,380 (99.9%) of 5,388 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### අර්බුද ජයගැනීම ආරම්භ කළ යුත්තේ තමන්ගෙන්මයි - ජනපති
+
+*2024-02-07 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193072) · `si`
+
+2022 0අවසානයේදී දළ දේශීය නිෂ්පාදිතයෙන් 3.7%ක් වූ අයවැය ප්‍රාථමික හිඟය, 2023 වසරේ ප්‍රාථමික අයවැය අතිරික්තයක් කර ගැනීමට හැකිවූ බව ජනාධිපතිවරයා පවසයි.
+
+නිදහසින් පසු ගෙවී ගිය 76 වසර තුළ ශ්‍රී ලංකාවට ප්‍රාථමික අයවැය අතිරික්තයක් ඇති කරගැනීමට හැකි වූ 6 වැනි අවස්ථාව මෙය බවත් ජනාධිපතිවරයා පැවසීය.
+
+09 වන පාර්ලිමේන්තුවේ පස්වැනි සභා වාරය අමතමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (07) මේ බව පැවසීය.
+
+"අර්බුද ජයගැනීම ආරම්භ කළ යුත්තේ තමන්ගෙන්මයි. අපේ සිතුවිලි නිවරැදි කරගත්තේ නැත්නම් රටට යටපතක් නැහැ. මුලින්ම අපි වෙනස් වුණේ නැතිනම් ක්‍රමයක් වෙනස් කරන්න අපිට පුළුවන් කමක් නැහැ."
+
+"අද ඩොලරයේ අගය රුපියල් 314යි. දැන් පොලී අනුපාතය 12%යි. දැන් අපේ විදේශ සංචිත ප්‍රමාණය ඩොලර් බිලියන 4.4ක්."
+
+"අනෙක් රටවල්වලට සාපේක්ෂව අපේ රටට කෙටි කාලයක් තුළ සුවිශේෂී ජයග්‍රහණයක් ළඟා කරගන්න පුළුවන් නිසා. ඒ දුරදිග බලා සියුම් ආර්ථික ප්‍රතිපත්තියක් අනුගමනය කරපු නිසා."
+
+"අපි කිසිම පියවරක් සඟවා තැබුවේ නැහැ. මම දේශපාලන වාසිය තකා තීන්දු ගත්තේ නැමැ. රට වෙනුවෙන් නිවරැදි ප්‍රතිපත්ති ක්‍රියාත්මක කළා."
+
+...
+
+[Data](articles/53b2fc02.json)
+
+---
+
+### பிள்ளைகளை தாக்கி வீடியோ வெளியிட்டதந்தை கைது
+
+*2024-02-07 10:56:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளைகளை-தாக்கி-வீடியோ-வெளியிட்டதந்தை-கைது/175-332816) · `ta`
+
+தனது இரண்டு பிள்ளைகளை கொடூரமாக தாக்கி வீடியோ எடுத்து சமூக வலைத்தளங்களில் பதிவிட்ட தந்தை ஒருவர் இன்று (07) கைது செய்யப்பட்டதாக திம்புல பத்தனை பொலிஸ் நிலைய பிரதான பொலிஸ் பரிசோதகர் ஆனந்தசிறி தெரிவித்தார்.
+
+திம்புல பத்தனை பொலிஸ் பிரிவுக்குட்பட்ட பகுதியிலுள்ள தனது மனைவி வீட்டில் வசிக்கும் 33 வயதுடைய நபர் கடந்த (05) திங்கட்கிழமை 09 மற்றும் 05 வயதுடைய தனது இரண்டு பிள்ளைகள் மீது தாக்குதல் நடத்தியதாக பொலிஸ் நிலைய கட்டளைத் தளபதி தெரிவித்தார்.
+
+இதற்கமைய, பிள்ளைகளின் தாயார் வெளியூரில் இருப்பதாகவவும், பிள்ளளைகள் பாட்டியின் பராமரிப்பில் இருப்பதாகவும், பிள்ளைகளின் கொழும்பில் உள்ள கார் சுத்தம் செய்யும் மையத்தில் பணிபுரிந்து வருவதாகவும் முதற்கட்ட விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/f28c151c.json)
+
+---
 
 ### President Ranil delivers government’s policy statement in Parliament
 
@@ -98,6 +138,24 @@ CPA says that concerns arise about the constitutionality of the OSA due to this 
 
 [Data](articles/d67e6cc9.json)
 
+[Extended Data](ext_articles/d67e6cc9.ext.json)
+
+---
+
+### முன்னாள் ஜனாதிபதி விபத்தில் பலி
+
+*2024-02-07 10:27:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-ஜனாதிபதி-விபத்தில்-பலி/50-332811) · `ta`
+
+தென் அமெரிக்காவில் அமைந்துள்ள நாடு சிலி. இந்நாட்டின் முன்னாள் ஜனாதிபதி ஜெபஸ்டின் பினிரா. பெரும் பணக்காரரான இவர் 2010 முதல் 2014 வரை மற்றும் 2018 முதல் 2022 வரை என இரண்டு முறை சிலி ஜனாதிபதியாக பதவி வகித்தார்.
+
+இந்நிலையில், அந்நாட்டின் பிரபல சுற்றுலா தலமான லகோ ரங்கொ பகுதிக்கு ஜெபஸ்டின் பினிரா செவ்வாய்க்கிழமை (06) ஹெலிகாப்டரில் பயணம் மேற்கொண்டார். அந்த ஹெலிகாப்டரில் ஜெபஸ்டின் உள்பட மொத்தம் 4 பேர் பயணித்தனர்.
+
+லகோ ரங்கொ அருகே சென்றுகொண்டிருந்தபோது திடீரென ஹெலிகாப்டர் விபத்துக்குள்ளானது. இந்த கோர விபத்தில் ஜெபஸ்டின் பினிரா உயிரிழந்தார். ஹெலிகாப்டரில் பயணித்த எஞ்சிய 3 பேர் படுகாயமடைந்தனர். படுகாயமடைந்த அனைவரும் மீட்கப்பட்டு மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர். அதேவேளை, இந்த விபத்துக்கான காரணம், ஜெபஸ்டின் பினிரா உடன் பயணித்த 3 பேர் யார்? என்பது குறித்து இதுவரை தகவல் வெளியாகவில்லை.
+
+◼️
+
+[Data](articles/caab39bd.json)
+
 ---
 
 ### 785 more suspects arrested, drugs seized under Operation ‘Yukthiya’
@@ -135,6 +193,26 @@ The President is scheduled to make the policy statement of the government  at 1
 [Data](articles/4b228d81.json)
 
 [Extended Data](ext_articles/4b228d81.ext.json)
+
+---
+
+### டிப்பர் மீது துப்பாக்கிச்சூடு
+
+*2024-02-07 10:23:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/டிப்பர்-மீது-துப்பாக்கிச்சூடு/71-332810) · `ta`
+
+யாழ்ப்பாணம் புத்தூர் பகுதியில் மணல் ஏற்றி சென்ற டிப்பர் வாகனம் மீது, இன்றைய தினம் (07) துப்பாக்கி சூடு நடத்தப்பட்டுள்ளது.
+
+சட்டவிரோத மணலுடன் , டிப்பர் வாகனமொன்று வேகமாக பயணிப்பதாக பொலிஸ் புலனாய்வு பிரிவினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் , புத்தூர் பகுதியில் வைத்து டிப்பர் வாகனத்தை வழிமறித்துள்ளனர்.
+
+இதற்கமைய, டிப்பர் சாரதி வாகனத்தை நிறுத்தாது சென்றமையால் , வாகனத்தின் மீது  துப்பாக்கி பிரயோகம் மேற்கொண்டுள்ள நிலையில் டிப்பர் வாகனம் வீதியில் குடைசாய்ந்தது.
+
+சட்டவிரோத மணல் மண்ணை ஏற்றி சென்றமையால் , சாரதி வாகனத்தை நிறுத்த வில்லை என பொலிஸாரின் ஆரம்ப கட்ட விசாரணையில் தெரிய வந்துள்ளது.
+
+இதேவேளை, டிப்பர் வாகன சாரதி , உரிமையாளர் உள்ளிட்ட மூவர் கைது செய்யப்பட்டு , அச்சுவேலி பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டு விசாரணைக்கு உட்படுத்தப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/31c2f1b8.json)
 
 ---
 
@@ -211,6 +289,8 @@ Rambukwella is currently held in remand on charges related to his previous minis
 ...
 
 [Data](articles/3788f983.json)
+
+[Extended Data](ext_articles/3788f983.ext.json)
 
 ---
 
@@ -406,6 +486,20 @@ Five suspects have been arrested in operations.
 
 ---
 
+### பெலியத்தை படுகொலை; மற்றுமொரு சந்தேக நபர் கைது
+
+*2024-02-07 09:23:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலியத்தை-படுகொலை-மற்றுமொரு-சந்தேக-நபர்-கைது/175-332808) · `ta`
+
+பெலியத்தையில் ஜனவரி 22 ஆம் திகதி ஐந்து பேர் படுகொலை செய்யப்பட்ட சம்பவம் தொடர்பில் மற்றுமொரு சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
+
+சட்டத்தரணி ஊடாக பெலியத்த பொலிஸாரிடம் நேற்று (06) ஆஜராகிய சந்தேக நபரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/a901347f.json)
+
+---
+
 ### President to Open New Parliament Session & Deliver Policy Statement in Scaled-Back Ceremony
 
 *2024-02-07 09:22:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/president-to-open-new-parliament-session-deliver-policy-statement-in-scaled-back-ceremony/) · `en`
@@ -439,6 +533,24 @@ The 25 images in the running for this year's People’s Choice Award received a 
 [Data](articles/76638a3e.json)
 
 [Extended Data](ext_articles/76638a3e.ext.json)
+
+---
+
+### சபைக்கு செல்ல கெஹலிய மறுப்பு?
+
+*2024-02-07 09:20:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபைக்கு-செல்ல-கெஹலிய-மறுப்பு/175-332807) · `ta`
+
+பாராளுமன்ற உறுப்பினர் கெஹலிய ரம்புக்வெல்ல இன்று (07) பாராளுமன்ற அமர்வில் பங்கேற்க மறுத்துள்ளதாக தகவல் வெளியாகி உள்ளது.
+
+கெஹலிய ரம்புக்வெல்லவுக்கு பாராளுமன்ற அமர்வில் பங்கேற்க அனுமதி வழங்கப்பட்ட போதிலும் அவர் பங்கேற்க மறுத்துள்ளதாக சிறைச்சாலை ஊடகப் பேச்சாளர் தெரிவித்துள்ளார்.
+
+தரமற்ற மருந்து இறக்குமதி தொடர்பான விசாரணையை அடுத்து, முன்னாள் சுகாதார அமைச்சர் கைது செய்யப்பட்டு தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+இதேவேளை, கெஹலிய ரம்புக்வெல்ல சுற்றாடல் அமைச்சர் பதவியில் இருந்து நேற்று இராஜினாமா செய்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b4d2eea2.json)
 
 ---
 
@@ -982,25 +1094,31 @@ But it appears that the conditions have begun to improve, according to the perfo
 
 ---
 
-### ජනාධිපතිවරණය ඇතුළු එළඹෙන මැතිවරණ පැවැත්වෙන්නේ කවදා ද?
+### When will the coming elections, including the presidential election?
 
 *2024-02-07 05:00:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c04rp3dy7y4o) · `si`
 
-2019 වසරේ නොවැම්බර් මාසයේ පැවති ජනාධිපතිවරණය සහ 2020 වසරේ පැවති මහ මැතිවරණයෙන් පසුව රට තුළ ඇතිවූ දරුණු ආර්ථික අර්බුදය හමුවේ ජනතාව පසුවන්නේ එදිනෙදා තම ජීවිකාව ගැට ගහ ගැනීමේ සටනක ය.
+The people are in the face of the most serious economic crisis in November 2019 and after the 1720 general election in the country.
 
-පවතින ආර්ථික හා සමාජයීය තත්ත්වය හේතුවෙන් මෙරට බොහෝ දෙනෙකුට මැතිවරණ සම්බන්ධයෙන් පවතින්නේ කලකිරීම් සහගත ස්වභාවයක් වුවත්  දේශපාලන වේදිකාවේ මැතිවරණ උණුසුම නම් දිනෙන් දිනම ත්‍රිව වෙමින් තිබේ.
+Due to the existing economic and social status, many Sri Lanka is frustrated by the fact that the electorals of the political platform are on the same day.
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව 2024 වර්ෂය තුළ අනිවාර්යෙන්ම රටේ ජනාධිපතිවරණය පැවැත්විය යුතුය.
+According to the Constitution, the presidential election of the country must be held in 2024.
 
-ඉදිරි ජනාධිපතිවරණය සම්බන්ධයෙන් රජයේ කැබිනට් අමාත්‍යවරයෙක් වන හරින් ප්‍රනාන්දු පසුගිය පෙබරවාරි මස 05 වෙනිදා දඹුල්ලේ දී මාධ්‍ය වෙත අදහස් දක්වමින් කියා සිටියේ ලබන ඔක්තෝම්බර් 14 වෙනිදා වන විට රටේ නව ජනාධිපතිවරයෙකු පත්ව සිටිනු ඇති බවයි.
+Dr. Harin Fernando, a government minister of the next presidential election, told the media on February 5, that a new president would be found in Dambulla.
 
-"මම විශ්වාස කරන්නේ මේ ජනාධිපතිවරණය ඔක්තෝම්බර් මාසයේ පලවෙනි සතියේ තියයි. "
+"I believe this presidential election is the first week of October. "
 
-"කොහොමත් ඔක්තෝම්බර් 14 වෙනිදා වෙද්දී මේ රටේ අලුත් ජනාධිපති කෙනෙක් පත්වෙන්න ඕන."
+"By October 14, a new president wanted to be aimed at October 14."
+
+Mr. Ranil Wickremesinghe defines the presidential election. I can put it in cubes. Others may share. "The Minister said.
+
+Meanwhile, Minister Bandula Gunawardena said that Minister Ranil Wickremesinghe made a special proposal to the Cabinet to allocate the money for elections yesterday (Feb 06).
 
 ...
 
 [Data](articles/6c6729b1.json)
+
+[Extended Data](ext_articles/6c6729b1.ext.json)
 
 ---
 
@@ -1141,6 +1259,22 @@ Six fishermen were released yesterday by the Kayts Magistrate's Court on the bas
 [Data](articles/47fc3877.json)
 
 [Extended Data](ext_articles/47fc3877.ext.json)
+
+---
+
+### 6 இந்திய மீனவர்கள் விடுதலை
+
+*2024-02-07 03:20:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/6-இந்திய-மீனவர்கள்-விடுதலை/71-332803) · `ta`
+
+இலங்கை கடற்பரப்பில் கடந்த மாதம் 23 ஆம் திகதி கைது செய்யப்பட்ட 6 இந்திய மீனவர்கள் ஊர்காவற்றுறை நீதவான் நீதிமன்றத்தினால் நேற்று விடுதலை செய்யப்பட்டுள்ளனர்.
+
+நெடுந்தீவு கடற்பரப்பில் கடந்த 23 ஆம் திகதி 6 மீனவர்கள் கைது செய்யப்பட்டதுடன், 2 படகுகளும் கைப்பற்றப்பட்டன.
+
+5  வருடங்களுக்கு ஒத்திவைக்கப்பட்ட 18 மாத சிறைத்தண்டனை என்ற நிபந்தனையின் அடிப்படையில், ஊர்காவற்றுறை நீதவான் நீதிமன்றத்தினால் 6 மீனவர்களும் நேற்று விடுதலை செய்யப்பட்டனர்.  (a)
+
+◼️
+
+[Data](articles/9b1007f4.json)
 
 ---
 
@@ -1857,141 +1991,5 @@ If the true purpose of the Online Safety Act is protecting people, sections 12, 
 [Data](articles/3703c47c.json)
 
 [Extended Data](ext_articles/3703c47c.ext.json)
-
----
-
-### Gestetner opens cutting-edge Customer Experience Centre
-
-*2024-02-06 22:46:00* · [`islandlk`](http://island.lk/gestetner-opens-cutting-edge-customer-experience-centre/) · `en`
-
-Gestetner of Ceylon PLC, the leader of office automation solutions providers in Sri Lanka, is pleased to announce the grand opening of its cutting-edge Customer Experience Center located at Union Place, Colombo 02, recently. This state-of-the-art facility has been precisely designed to meet the unique needs of its esteemed customers, serving as a gateway to the introduction of revolutionary products, technology, and innovation.
-
-...
-
-[Data](articles/9f9c343c.json)
-
-[Extended Data](ext_articles/9f9c343c.ext.json)
-
----
-
-### Motion filed against NPP’s registration as a political party
-
-*2024-02-06 22:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97063/motion-filed-against-npps-registration-as-a-political-party) · `en`
-
-A motion was filed before the Supreme Court today (Feb.06) challenging the registration of the National People’s Power (NPP) by the Election Commission.
-
-Vinivida Foundation’s secretary Attorney-at-Law Nagananda Kodituwakku has put forward the motion pertaining to a petition filed against the Election Commission’s decision to reject the registration of ‘Vinivida Foundation’ as a political party.
-
-Kodituwakku claims that the registration of NPP, which is part of Janatha Vimukthi Peramuna (JVP), as a political party is completely against the law.
-
-Pursuant to Article 103(2) of the Constitution, registering different branches of one party as separate political parties is in violation of the election laws, he alleges.
-
-It also violates the right to free and fair elections guaranteed by the Constitution, Kodituwakku pointed out further, seeking permission from the Supreme Court to make submissions in this regard.
-
-◼️
-
-[Data](articles/a9ea9511.json)
-
-[Extended Data](ext_articles/a9ea9511.ext.json)
-
----
-
-### Sri Lanka: What is in store for us?
-
-*2024-02-06 22:42:43* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-What-is-in-store-for-us/4-758179) · `en`
-
-Political leaders lacked wisdom to bring about an all-embracing national revival, but a Sinhala Buddhist revival
-
-To consider what the future holds for Sri Lanka, a glance at its past and present should prove useful as we could thereby contextualise and perhaps begin to understand what that likely future could be. Unless we look at our past mistakes dispassionately, attempt to learn from them and take meaningful steps to re-chart our national course, we are most likely to continue to allow history to repeat itself.
-
-...
-
-[Data](articles/ca32b719.json)
-
-[Extended Data](ext_articles/ca32b719.ext.json)
-
----
-
-### Anticipated December quarter corporate gains boost bourse
-
-*2024-02-06 22:41:00* · [`islandlk`](http://island.lk/anticipated-december-quarter-corporate-gains-boost-bourse/) · `en`
-
-The stock market was buoyant yesterday on account of local and foreign investors being optimistic over December quarterly corporate results/earnings going to be attractive combined with satisfactory dividend payment, stock market analysts said.
-
-The All Share Price Index went up by 96.23 points, while S and P SL20 rose by 51.6 points. Turnover stood at Rs 872 million with one crossing. The crossing was reported in Hela Apparel, which crossed 5 million shares to the tune of Rs 25 million; its shares traded at Rs 5.
-
-...
-
-[Data](articles/724e79c8.json)
-
-[Extended Data](ext_articles/724e79c8.ext.json)
-
----
-
-### Why is Keheliya's release?
-
-*2024-02-06 22:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவிற்கு-வெளியுணவு-வழங்கப்படுவது-ஏன்/175-332799) · `ta`
-
-The Department of Prisons has made it clear that the former minister Keheliya Rambukwella is in the process of providing him with exclusive foods.
-
-Prison Media Spokesperson Gamini P. Dissanayake confirmed that the Welikada Superintendent had submitted a formal request to the former minister.
-
-Dissanayake, emphasizing the adherence to the established protocols, stated the practical measures necessary to provide external food.
-
-Accordingly, personal contact between outsiders and prisoners during food delivery is prohibited. Also, only food items are allowed.
-
-He said such demands from any prisoners would be considered on the basis of reasonable reasons and medical advice.
-
-It is noteworthy that Rambukwella, who has been kept in detention until February 15, has been admitted to the Prison Hospital due to ill health.
-
-◼️
-
-[Data](articles/95d071a3.json)
-
-[Extended Data](ext_articles/95d071a3.ext.json)
-
----
-
-### Dog fought
-
-*2024-02-06 22:18:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/எஜமானரின்-உயிரை-காப்பாற்ற-போராடிய-நாய்/72-332798) · `ta`
-
-Mullaitivu - Parasuttan bridegroom in the graduate area of the bridegroom has been rescued by relatives after he came to his tiger and his tiger.
-
-The rescued was the father of the seven children of the bridegroom's 66 Akawaiyai Palani Vadivel.
-
-He went to the forest yesterday with his foster dog to take honey. The foster dog has revealed his tragedy as a foster dog alone has been left home alone in the wake of the illegal explosion in the forest.
-
-Relatives have gone to the forest that the relatives have gone to the forest.. He was taken to Mankulam Resource Hospital and was taken to Kilinochchi District Hospital for further treatment.
-
-◼️
-
-[Data](articles/ac20d1a7.json)
-
-[Extended Data](ext_articles/ac20d1a7.ext.json)
-
----
-
-### The main task of the United People's Power is to put the economic terrorists and the killers before the law - Sajith
-
-*2024-02-06 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175744) · `ta`
-
-The huts of the children with tin and tiles for children have been belonging to the President's Palace and the Alari House for the rulers.
-
-These two mansions will be transformed into the highest -sample information universities that reach the international level in the United People's Power Government.
-
-The rulers do not need mansions. The opposition leader said that the children of the country and the general public need mansions.
-
-Despite the children of poor parents in this country, these children are a resources of knowledge, skills and energy filling.
-
-Getting higher education in international standards is the right of the country's student wealth. The opposition leader said it was the responsibility of the government to fulfill this duty.
-
-But when the ruler of the country is stealing, the rulers of the present government are plundering the property and resources of the state.
-
-...
-
-[Data](articles/87d1c7fa.json)
-
-[Extended Data](ext_articles/87d1c7fa.ext.json)
 
 ---

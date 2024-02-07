@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 07:29:58**
+As of **2024-02-07 07:41:39**
 
 ## Newspaper Stats
 
-*Scraped **5,323** Articles*
+*Scraped **5,324** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 305
 newsfirstlk | 327
 adalk | 451
 virakesarilk | 641
-adaderanalk | 658
+adaderanalk | 659
 tamilmirrorlk | 661
 adaderanasinhalalk | 686
 dailymirrorlk | 755
@@ -26,11 +26,31 @@ dailymirrorlk | 755
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,323 (100.0%) of 5,323 articles have been extended.
+5,324 (100.0%) of 5,324 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### Keheliya refuses to attend parliamentary session today despite being permitted
+
+*2024-02-07 06:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97067/keheliya-refuses-to-attend-parliamentary-session-today-despite-being-permitted) · `en`
+
+Former Minister Keheliya Rambukwella, who is in remand custody, has refused to attend the parliamentary session today (Feb.07) despite being given permission, the Prisons Department has revealed.
+
+Former Minister Keheliya Rambukwella, who is in remand custody, has refused to attend the parliamentary session today (Feb.07) despite being given permission, the Prisons Department said.
+
+The Fifth Session of the Ninth Parliament will be ceremoniously declared open by President Ranil Wickremesinghe this morning.
+
+The Parliament was prorogued with effect from midnight on January 26, by way of a proclamation published in the government gazette.
+
+◼️
+
+[Data](articles/7fdcac93.json)
+
+[Extended Data](ext_articles/7fdcac93.ext.json)
+
+---
 
 ### Another suspect in Beliatta murder arrested
 
@@ -1999,23 +2019,5 @@ Sri Lanka lags behind regional competitors like Vietnam and Bangladesh, Sabry po
 [Data](articles/e53a004b.json)
 
 [Extended Data](ext_articles/e53a004b.ext.json)
-
----
-
-### Ranil's house was burnt during the Arakalai struggle!
-
-*2024-02-06 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175733) · `ta`
-
-Fort Magistrate Thilini Kamage on Tuesday (06) has ordered the release of an English teacher who was arrested on suspicion of burning President Ranil Wickremesinghe's house during the Arakalai protest.
-
-The suspect was released on bail of Rs 5 lakhs and ordered to appear during a court hearing until investigations into the incident are completed.
-
-The 46 -year -old English teacher living in Boraleskamuwa area has been released on bail.
-
-◼️
-
-[Data](articles/d42bf589.json)
-
-[Extended Data](ext_articles/d42bf589.ext.json)
 
 ---

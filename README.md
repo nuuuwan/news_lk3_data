@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 19:17:36**
+As of **2024-02-07 19:33:03**
 
 ## Newspaper Stats
 
-*Scraped **5,506** Articles*
+*Scraped **5,508** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 305
 newsfirstlk | 339
 adalk | 469
 virakesarilk | 670
-adaderanalk | 682
+adaderanalk | 684
 tamilmirrorlk | 686
 adaderanasinhalalk | 716
 dailymirrorlk | 779
@@ -26,11 +26,49 @@ dailymirrorlk | 779
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,504 (100.0%) of 5,506 articles have been extended.
+5,506 (100.0%) of 5,508 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### Family of five Sri Lankan nationals illegally enter India
+
+*2024-02-07 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97091/family-of-five-sri-lankan-nationals-illegally-enter-india) · `en`
+
+A family of five Sri Lankan nationals, including three children, arrived in India’s Rameswaram on Wednesday.
+
+They were found stranded in the first sandbar of Arichalmunai.
+
+After an inquiry, they were taken to the rehabilitation camp in Mandapam.
+
+According to police sources, 294 Sri Lankan Tamils have fled the island nation so far, in the wake of an economic crisis. Two of them have died.
+
+◼️
+
+[Data](articles/03d0773c.json)
+
+---
+
+### Kudu Roshan’ released on strict bail conditions
+
+*2024-02-07 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97090/kudu-roshan-released-on-strict-bail-conditions-) · `en`
+
+Notorious underworld figure ‘Kudu Roshan’ and his brother, who were arrested during the ongoing countrywide anti-drug operation ‘Yukthiya’, have been granted bail.
+
+The duo, who was arrested while in hiding in the Warakapola area, was released on strict bail conditions, on the orders of the Colombo Additional Magistrate.
+
+Accordingly, ‘Kudu Roshan’ was released on a cash bail of Rs. 30 million and seven surety bails of Rs. 1 million each, while his brother was released on a cash bail of Rs. 5 million and four surety bails of Rs. 1 million each.
+
+They were also ordered by the court to appear before the Criminal Investigation Department (CID) and submit their biometrics upon being released on bail.
+
+On 28 January ill-gotten properties worth Rs.55 million allegedly owned by ‘Kudu Roshan’ were seized by the police from the Ja-Ela area.
+
+◼️
+
+[Data](articles/8b2d19b5.json)
+
+---
 
 ### The Chief Minister of Gujarat. Leaders of National People's Power
 
@@ -63,6 +101,8 @@ While one of them had succumbed to the effects of the gas, the seven others are 
 ◼️
 
 [Data](articles/75a1e344.json)
+
+[Extended Data](ext_articles/75a1e344.ext.json)
 
 ---
 
@@ -201,6 +241,8 @@ The maximum load capacity under the spreader is 65 tonne while under the lifting
 ◼️
 
 [Data](articles/bdd21a6a.json)
+
+[Extended Data](ext_articles/bdd21a6a.ext.json)
 
 ---
 
@@ -2035,49 +2077,5 @@ The suspects between 24 and 43, residents of Hanwella.
 [Data](articles/2e65a253.json)
 
 [Extended Data](ext_articles/2e65a253.ext.json)
-
----
-
-### Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
-
-*2024-02-07 11:32:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/sri-lanka-aims-for-six-month-debt-fix-us-3-billion-annual-payment-looms/) · `en`
-
-COLOMBO (News 1st); Sri Lankan President Ranil Wickremesinghe in his policy statement to parliament on Wednesday (7), outlined a six-month timeline for completing a comprehensive debt restructuring plan, highlighting its importance for economic recovery while acknowledging the significant challenges ahead.
-
-"Throughout the past, concerted efforts have been made to formulate a strategic plan for repaying this debt. The domestic debt restructuring plan has been successfully executed as the first step, and a policy agreement for restructuring has been reached with foreign creditors as the second step. Negotiations with private creditors are presently in progress. Anticipated in the initial six months of this year, the intricate restructuring plan is poised to form the foundational framework for restoring our economy to normalcy," explained Wickremesinghe.
-
-...
-
-[Data](articles/3adaa7eb.json)
-
-[Extended Data](ext_articles/3adaa7eb.ext.json)
-
----
-
-### President piles from the fallen and how
-
-*2024-02-07 11:30:32* · [`adalk`](https://www.ada.lk/breaking_news/වැටුණ-තැනින්-ගොඩ-හා-හැටි-දර්ශක-සහිතව-ජනපති-කියයි/11-407941) · `si`
-
-President Ranil Wickremesinghe said that the primary shortage of the budget was a 372% of GDP, a primary budget of 2023. He was addressing the new session of Parliament.
-
-This is the 6th occasion that Sri Lanka has been able to develop a primary budget excess in 76 years since independence.
-
-He was also able to reduce inflation to five percent of 50 percent in February last year.
-
-At the end of 2022, the balance of the balance of 1.9% of GDP was able to establish a surplus in the end of 1973 after 1973.
-
-The President was able to increase the number of tourist arrivals in the year 194,49,495 in the year 2023, and over 200,000 tourists arrived in January alone this year alone this year.. The number of tourist arrivals to Sri Lanka will increase to 5 million.
-
-The value of the dollar is Rs. 314 and Rs. 314.
-
-Sri Lanka's foreign reserves have risen to $ 4.4 billion.
-
-He said that 52 state enterprises have been increased by Rs. 300 billion in 2022 billion rupees.
-
-◼️
-
-[Data](articles/08ec4d00.json)
-
-[Extended Data](ext_articles/08ec4d00.ext.json)
 
 ---

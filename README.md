@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 22:49:57**
+As of **2024-02-07 23:02:23**
 
 ## Newspaper Stats
 
-*Scraped **5,541** Articles*
+*Scraped **5,545** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,106 @@ adalk | 472
 virakesarilk | 673
 adaderanalk | 688
 tamilmirrorlk | 691
-adaderanasinhalalk | 722
-dailymirrorlk | 788
+adaderanasinhalalk | 725
+dailymirrorlk | 789
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,541 (100.0%) of 5,541 articles have been extended.
+5,545 (100.0%) of 5,545 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### Anura and delegation attend a presentation of ’Gujarat Model’in India
+
+*2024-02-07 22:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-and-delegation-attend-a-presentation-of-Gujarat-Modelin-India/108-276552) · `en`
+
+NPP leader Anura Kumara Dissanayake and the NPP delegation held talks with Gujarat chief minister Bhupendra Patel, where they discussed about the development strategies for eliminating poverty in the State and the administrative system of the State during their third day in India's visit.
+
+The meeting took place at the Vidhan Sabha, also known as the Gujarat Legislative Assembly in Gandhinagar, the capital of Gujarat.
+
+The delegation also held a special discussion with the Minister of Industries in the State and a presentation was made about the Gujarat Model which is used as development model of the Indian government. The key aspects of the Gujarat Model include energy reforms, agriculture and water, infrastructure development, industry and investment, healthcare and women's empowerment.
+
+The delegation was also engaged in a observation tour in the agricultural zones and the agricultural industries in Ahmedabad.
+
+...
+
+[Data](articles/2e4d67aa.json)
+
+[Extended Data](ext_articles/2e4d67aa.ext.json)
+
+---
+
+### US plane missing
+
+*2024-02-07 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193103) · `si`
+
+Foreign media reports that a helicopter who has taken America Marines has disappeared.
+
+The helicopter was disappeared while flying to California from Las Vegas, US Vegas.
+
+At least five Marines have been reported at the time.
+
+The missing reports further stated that a helicopter of the ch-53E super stallion has disappeared.
+
+The liberation teams have launched a special operation in search of the helicopter.
+
+◼️
+
+[Data](articles/5f617fc3.json)
+
+[Extended Data](ext_articles/5f617fc3.ext.json)
+
+---
+
+### Investigations found in a doctor sexually abused a doctor
+
+*2024-02-07 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193102) · `si`
+
+Police have launched an investigation into arrest of a doctor at Aranayaka Buddhist monastery regarding the abuse of a doctor.
+
+The doctor has been accused of sexually abusing a doctor in the hospital.
+
+The investigation has commenced on a complaint lodged on the 7th.
+
+The complaint has been lodged with the Kumara of the Kegalle Children's and Women's Bureau, the Kegalle Children's and Women's Bureau.
+
+◼️
+
+[Data](articles/166c61ff.json)
+
+[Extended Data](ext_articles/166c61ff.ext.json)
+
+---
+
+### Shah Rukhu's football field
+
+*2024-02-07 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193101) · `si`
+
+Indian super-actor Shahukh Khan reserves a special place in social media column.
+
+Many are focusing on a unique video of the hot fluoes on social media networks.
+
+The video shows that the super-actor Shahkin Football.
+
+The specialty of this video is that it was shooting by a neighbor in his Kalcutta and covered the Internet.
+
+The video is now popular in the social media as a result of the most happy King Khan, who is among the busy actors.
+
+It can be seen by his younger son Abraham Khan.
+
+Some had added their views for this video, no Messi, not Messi, only Shah Rukh.
+
+◼️
+
+[Data](articles/ab86e002.json)
+
+[Extended Data](ext_articles/ab86e002.ext.json)
+
+---
 
 ### Self-proclaimed Avalokiteshvara Bodhisattva enlarged on bail
 
@@ -1983,87 +2071,5 @@ Premadasa, recognizing Sandagiri's maritime expertise, appointed him as a consul
 [Data](articles/2a61bf4f.json)
 
 [Extended Data](ext_articles/2a61bf4f.ext.json)
-
----
-
-### Ukrainian-born Miss Japan relinquishes crown following alleged affair
-
-*2024-02-07 13:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Ukrainian-born-Miss-Japan-relinquishes-crown-following-alleged-affair/107-276515) · `en`
-
-Feb 7 (CNN) - The Ukrainian-born beauty queen who sparked a debate on cultural identity by being named Miss Japan has relinquished her title just two weeks after being crowned.
-
-Karolina Shiino, the first person of predominantly European heritage ever to win the Miss Nippon contest (which takes its title from the country’s Japanese name), announced her decision to step down on Monday following local newspaper allegations of an affair with a married man.
-
-In a statement posted to Instagram, the 26-year-old model apologized to the man’s family and those involved. She also announced that she was parting ways with her talent agency, writing: “I am truly sorry for causing a lot of trouble for many people and betraying those who have supported me.”
-
-Organizers of the event meanwhile released a statement saying that Shiino had “requested to withdraw from the contest due to personal reasons.” Kaoru Wada, chair of the Miss Nippon Association, added that the 2024 title will remain “vacant.”
-
-...
-
-[Data](articles/1d5a4ebd.json)
-
-[Extended Data](ext_articles/1d5a4ebd.ext.json)
-
----
-
-### A train jumps derails
-
-*2024-02-07 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193077) · `si`
-
-The Railway Department says that due to a railway derailment, the Railway Department says that train railway line will be operated with delays.
-
-The railway train is derailed due to the delegation of Upcountry Meni to the Colombo Fort from Badulla to Colombo Fort.
-
-◼️
-
-[Data](articles/7bc6c693.json)
-
-[Extended Data](ext_articles/7bc6c693.ext.json)
-
----
-
-### ICFS hosts admission event for Germany and Netherlands universities
-
-*2024-02-07 13:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICFS-hosts-admission-event-for-Germany-and-Netherlands-universities/108-276514) · `en`
-
-Colombo, Feb 07 (Daily Mirror) - An admission event for students aspiring to pursue higher education in universities in Germany and the Netherlands will take place on Saturday (10) at the International Center for Foreign Studies (ICFS).
-
-ICFS said that many countries have opened their doors for international students in 2024 due to recent immigration policy changes and new strategies introduced by Australia and the United Kingdom.
-
-Accordingly, the event featuring universities from Germany and the Netherlands will be held on February 10 at ICFS Education Center in Nugegoda, from 10:00 am to 5:00 pm.
-
-...
-
-[Data](articles/4afb8a8e.json)
-
-[Extended Data](ext_articles/4afb8a8e.ext.json)
-
----
-
-### Body of a male found in Houriyagama
-
-*2024-02-07 13:20:48* · [`adalk`](https://www.ada.lk/breaking_news/හෝමාගම-වගුරු-බිමක-පිරිමි-මළ-සිරුරක්/11-407949) · `si`
-
-Homagama Police said that a dead body was found in a magnitude area adjoining the Candandand Highlight to the Coolanda Highlight in Homagama.
-
-The identity of this person has not yet been revealed, police said.
-
-It is said that the unidentified man body was found in a traditional trading company located in Avissawella main road in Colombo.
-
-The underwear and a half-flowing shirt had been found in the midst and a small traveling bag in the nearby mobile and a small traveling bag in the near future.
-
-Investigations have also been conducted to investigate the deceased after a car accident, or whether a result of a man or a suicide.
-
-Police suspect that this person has died about two days ago.
-
-A magisterial inquiry into the incident was to be conducted and the Nugegoda Divisional Troops (Nugegoda Divisional Secretariat officials have commenced investigations.
-
-Homagama Headquarters Inspector Pratenith, Pranindi, is conducting investigations.
-
-◼️
-
-[Data](articles/edbb6448.json)
-
-[Extended Data](ext_articles/edbb6448.ext.json)
 
 ---

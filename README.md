@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 07:52:22**
+As of **2024-02-07 08:02:27**
 
 ## Newspaper Stats
 
-*Scraped **5,324** Articles*
+*Scraped **5,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ economynextcom | 278
 islandlk | 285
 dailyftlk | 305
 newsfirstlk | 327
-adalk | 451
+adalk | 452
 virakesarilk | 641
 adaderanalk | 659
 tamilmirrorlk | 661
-adaderanasinhalalk | 686
+adaderanasinhalalk | 687
 dailymirrorlk | 755
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,324 (100.0%) of 5,324 articles have been extended.
+5,324 (100.0%) of 5,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### කෙහෙළිය පාර්ලිමේන්තුවට එන්න බැහැ කියයි
+
+*2024-02-07 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193063) · `si`
+
+අද (07) දිනයේ පාර්ලිමේන්තු සැසිවාරයට සහභාගීවීම කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ප්‍රතික්ෂේප කර ඇති බව වාර්තා වෙයි.
+
+බන්ධනාගාර මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කරන්නේ පාර්ලිමේන්තු සැසිවාරයට සහභාගීවීම සඳහා කෙහෙළිය රඹුක්වැල්ල මහතාට අවසර ලබාදුන්නද ඔහු විසින් එලෙස සහභාගීවීම ප්‍රතික්ෂේප කර ඇති බවය.
+
+ප්‍රමිතියෙන් තොර ඖෂධ ජාවාරම සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනවලට අදාළව හිටපු සෞඛ්‍ය අමාත්‍යවරයා මේ වනවිට රිමාන්ඩ් බන්ධනාගාරගත කර සිටී.
+
+කෙහෙළිය රඹුක්වැල්ල මහතා මේ වනවිට පරිසර අමාත්‍ය ධුරයෙන් ද ඉල්ලා අස්වී තිබේ.
+
+◼️
+
+[Data](articles/5d258f96.json)
+
+---
 
 ### Keheliya refuses to attend parliamentary session today despite being permitted
 
@@ -1522,6 +1540,22 @@ The Hydromet Forum, which cooperates with the World Bank and RIMES, will be held
 
 ---
 
+### ත්‍රිකුණාමලය රැඳවියන් දෙදෙනාගේ ගැටුමෙන් රැඳවියෙක් මරුට
+
+*2024-02-06 19:59:43* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිකුණාමලය-රැඳවියන්-දෙදෙනාගේ-ගැටුමෙන්-රැඳවියෙක්-මරුට/11-407936) · `si`
+
+ත්‍රිකුණාමලය බන්ධනාගාරයේ රැඳවියන් දෙදෙනෙකු අතර ඇතිවූ ගැටුමකින් තුවාල ලබා රෝහල් ගතව ප්‍රතිකාර ලබමින් සිටි රැඳවියා අද (06දා) මියගිය බව ත්‍රිකුණාමලය වරාය පොලීසිය කියයි.
+
+මෙලෙස මියගියේ ත්‍රිකුණාමලය,කින්නියා ,මහරුප් නගර් පදිංචි මොහොම්මදු අලී උවයිස් මොහොම්මදු උභයතුල්ලා නැමැති අයයි.ත්‍රිකුණාමලය බන්ධනාගාරයේ බී වාට්ටුවේදී ඉකුත් 02දා මෙම පහරදීම සිදුවී ඇති අතර හිසට සිදුවූ තුවාල හේතුවෙන් තුවාලකරු ත්‍රිකුණාමලය මහ රෝහලේ දැඩි සත්කාර ඒකකයට ඇතුළත් කර ප්‍රතිකාර ලබමින් සිටියදී මෙලෙස මියගොස් තිබේ.
+
+පහරදුන් හා පහරකෑමට ලක්වූ රැඳවියන් දෙදෙනා මත්කුඩු සම්බන්ධ නඩුවකට මෙලෙස බන්ධනාගාර ගත කර තිබ්යදී ඇතිවූ බහින් බස් වීමක් මත මෙම පහරදීම සිදුවී තිබේ.සිද්ධිය සම්බන්ධයෙන් ත්‍රිකුණාමලය වරාය පොලීසිය වැඩිදුර පරීක්ෂණ මෙහෙයවයි .
+
+◼️
+
+[Data](articles/2c61dd81.json)
+
+---
+
 ### I do not have the authority to revise or accept; the Speaker
 
 *2024-02-06 19:46:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருத்தவோ-ஏற்கவோ-எனக்கு-அதிகாரம்-இல்லை-சபாநாயகர்/175-332784) · `ta`
@@ -1983,41 +2017,5 @@ The President has also accepted the resignation and the gazette notification of 
 [Data](articles/a1b1139b.json)
 
 [Extended Data](ext_articles/a1b1139b.ext.json)
-
----
-
-### Legal action against 50 bakeries
-
-*2024-02-06 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193052) · `si`
-
-The Consumer Affairs Authority (CAA) raid on the island yesterday (05) was launched by the Authority.
-
-There are about 50 raids on bakery and shop inspection and 50 bakeries that have not been priced will be prosecuted.
-
-◼️
-
-[Data](articles/39709714.json)
-
-[Extended Data](ext_articles/39709714.ext.json)
-
----
-
-### Sri Lanka seeks FTAs with India, Indonesia, Malaysia, Vietnam, and China
-
-*2024-02-06 17:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-ftas-with-india-indonesia-malaysia-vietnam-and-china-150115/) · `en`
-
-ECONOMYNEXT – The Sri Lanka government is in talks to establish free trade agreements (FTAs) with India, Indonesia, Malaysia, Vietnam, and China by the end of 2024, its Minister of Foreign Affairs said.
-
-“These agreements will open up new markets for Sri Lankan businesses, contributing directly to the nation’s economic growth,” Ali Sabry said at a press briefing on Tuesday (6).
-
-The government is committed to diversifying the country’s trade partnerships and strengthening its economic resilience through strategic FTAs, he said. “By expanding access to new markets and promoting trade, these agreements aim to create a more robust and sustainable economic foundation for the country.”
-
-Sri Lanka lags behind regional competitors like Vietnam and Bangladesh, Sabry pointed out. “While Vietnam boasts exports of $370 billion and Bangladesh at $60 billion, Sri Lanka struggles with a mere $12-14 billion.”
-
-...
-
-[Data](articles/e53a004b.json)
-
-[Extended Data](ext_articles/e53a004b.ext.json)
 
 ---

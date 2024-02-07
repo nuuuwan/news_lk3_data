@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 03:17:20**
+As of **2024-02-08 03:32:43**
 
 ## Newspaper Stats
 
-*Scraped **5,571** Articles*
+*Scraped **5,575** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 296
 dailyftlk | 311
 newsfirstlk | 342
 adalk | 472
-virakesarilk | 680
+virakesarilk | 683
 adaderanalk | 690
-tamilmirrorlk | 693
+tamilmirrorlk | 694
 adaderanasinhalalk | 725
 dailymirrorlk | 792
 
@@ -26,7 +26,7 @@ dailymirrorlk | 792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,571 (100.0%) of 5,571 articles have been extended.
+5,571 (99.9%) of 5,575 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,20 @@ These amendments contribute to the alignment of Sri Lanka’s laws that address 
 
 ---
 
+### ஜனாதிபதி அவுஸ்திரேலியா பயணம்
+
+*2024-02-08 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/175852) · `ta`
+
+அவுஸ்திரேலியாவின் பேர்த் நகரில் பெப்ரவரி 9ஆம் திகதி முதல் 10ஆம் திகதி வரை நடைபெறவுள்ள 7ஆவது இந்து சமுத்திர மாநாட்டில் பிரதான உரையாற்றுவதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்க சற்று முன்னர் நாட்டிலிருந்து புறப்பட்டுச் சென்றார்.
+
+இந்திய மன்றம் மற்றும் அவுஸ்திரேலிய அரசாங்கத்தின் அழைப்பின் பேரில் இந்த விஜயத்தில் இணைந்துள்ள ஜனாதிபதி, இலங்கைக்கான முதலீட்டு வாய்ப்புகள் குறித்தும் அங்கு ஆராயவுள்ளார்.
+
+◼️
+
+[Data](articles/5644c375.json)
+
+---
+
 ### Dr. McNamara new Executive Director at US-Sri Lanka Fulbright Commission
 
 *2024-02-08 02:00:57* · [`dailyftlk`](https://www.ft.lk/news/Dr-McNamara-new-Executive-Director-at-US-Sri-Lanka-Fulbright-Commission/56-758224) · `en`
@@ -65,6 +79,22 @@ The US Embassy in Sri Lanka yesterday announced the appointment of Dr. Patrick M
 [Data](articles/e0cbfb7f.json)
 
 [Extended Data](ext_articles/e0cbfb7f.ext.json)
+
+---
+
+### மலையக மார்க்க ரயில் சேவை பாதிப்பு
+
+*2024-02-08 01:58:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-மார்க்க-ரயில்-சேவை-பாதிப்பு/175-332866) · `ta`
+
+பதுளையில் இருந்து கொழும்பு - கோட்டை நோக்கி பயணித்த ரயில் ஒன்று உலப்பனை ரயில் நிலையத்திற்கு அருகில் தடம்புரண்டுள்ளது.
+
+இதனையடுத்து, மலையக மார்க்கத்தில் கொழும்பு கோட்டையிலிருந்து பயணிக்கும் ரயில்கள் கம்பளை வரை மட்டுப்படுத்தப்பட்டன.
+
+பதுளையில் இருந்து புறப்படும் ரயில்கள் நாவலப்பிட்டி வரை மட்டுப்படுத்தப்பட்டுள்ளதாக ரயில்வே திணைக்களம் குறிப்பிட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/97748b84.json)
 
 ---
 
@@ -95,6 +125,38 @@ China has a “national team” of State entities that buy up shares of local co
 [Data](articles/be731a8d.json)
 
 [Extended Data](ext_articles/be731a8d.ext.json)
+
+---
+
+### 4 கோடி பெறுமதியான சட்டவிரோத பொருட்கள் அழிப்பு!
+
+*2024-02-08 01:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175850) · `ta`
+
+சட்டவிரோதமான முறையில் நாட்டுக்குள் கொண்டுவரப்பட்ட 4 கோடி ரூபாய் பெறுமதியான பொருட்கள் நீதிபதி முன்னிலையில் அழிக்கப்பட்டது.
+
+இந்தியாவிலிருந்து சட்டவிரோதமான முறையில் நாட்டுக்குள் கொண்டுவரப்பட்டு விற்பனை செய்யப்படவிருந்த அரிசி, மஞ்சள் கொத்தமல்லி நிலக்கடலை, உட்பட 7000 கிலோ கிராம் உணவுப்பொருட்களும், சட்டவிரோத கிருமிநாசினிகளுமே இவ்வாறு அழிக்கப்பட்டது.
+
+குறித்த பொருட்கள் கடந்த வருடம் ஏப்ரல் மாதம் வவுனியா தெற்கு சிங்கள பிரதேச எல்லைப்பகுதியில் வைத்து சுகாதார பரிசோதகர்களால் பறிமுதல்செய்யப்பட்டு நீதிமன்றில் பாரப்படுப்பத்தப்பட்டிருந்தது. அவற்றை உடைமையில் வைத்திருந்த நபர்களுக்கு ஒன்றரை இலட்சம் ரூபாய் தண்டப்பணம் நீதிமன்றால் விதிக்கப்பட்டது,
+
+இந்நிலையில் வவுனியா பம்பைமடுப்பகுதியில் வைத்து மேலதிக நீதவான் ஜெ. சுபாஜினி மற்றும், சிங்கள பிரதேசசபை செயலாளர், விமலவேணி நிசங்க, சுகாதார பரிசோதகர்கள் முன்னிலையில் குறித்த பொருட்கள் அழிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/b60a23f7.json)
+
+---
+
+### கஞ்சா ஏற்றுமதிக்கு அமைச்சரவை அங்கீகாரம் வழங்கியதாகக்  குறிப்பிடவில்லை - டயனா கமகே
+
+*2024-02-08 01:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/175849) · `ta`
+
+கஞ்சா ஏற்றுமதிக்குக் கடந்த திங்கட்கிழமை (5) இடம்பெற்ற அமைச்சரவை கூட்டத்தில் அனுமதி வழங்கப்பட்டதாக நான் குறிப்பிடவில்லை. கஞ்சா ஏற்றுமதி செய்தால் நாட்டுக்கு நல்லது. பயனற்ற விமர்சனங்களை மாத்திரம் முன்வைத்துக் கொண்டிருந்தால் முன்னேற்றமடைய முடியாது என  சுற்றுலாத்துறை இராஜாங்க அமைச்சர் டயனா கமகே தெரிவித்தார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் கடந்த திங்கட்கிழமை இடம்பெற்ற அமைச்சரவை கூட்டத்தில் கஞ்சா ஏற்றுமதிக்கு அமைச்சரவை அங்கீகாரம் வழங்கப்பட்டுள்ளதாக இராஜாங்க அமைச்சர் டயனா கமகேவின் பெயரை மேற்கோள்காட்டி செய்திகள் வெளியாகியிருந்தன. இதற்கு மத தலைவர்கள், சிவில் அமைப்பினர் உட்பட பல்வேறு தரப்பினர் கடும் எதிர்ப்பை வெளிப்படுத்தியிருந்தனர்.
+
+...
+
+[Data](articles/bd405861.json)
 
 ---
 
@@ -1949,103 +2011,5 @@ MP Kiriella said the government attacked the peaceful protest organised by the S
 [Data](articles/0ff95786.json)
 
 [Extended Data](ext_articles/0ff95786.ext.json)
-
----
-
-### The mother of Michigan killer's mother
-
-*2024-02-07 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193086) · `si`
-
-The mother of the child has decided that the mother's mother was convicted of a michigan shooting at a school.
-
-The murder against her accused her that he did not take action to prevent a massacre of their child.
-
-This is the first time a parent has punished for a massacre in the United States.
-
-The complaint shows that she has accused her to allow him to allow a firearm and to allow him to bear a firearm.
-
-He was prosecuted against her husband, but he said he was right.
-
-Their 17-year-old son shot four students of Oxford High School in Michigan, November 30, 2021.
-
-◼️
-
-[Data](articles/2b95d782.json)
-
-[Extended Data](ext_articles/2b95d782.ext.json)
-
----
-
-### Pakistan election: Two deadly blasts in Balochistan day before vote
-
-*2024-02-07 15:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97084/pakistan-election-two-deadly-blasts-in-balochistan-day-before-vote) · `en`
-
-Two bomb explosions have killed at least 20 people in Pakistan’s Balochistan province on the eve of general elections, officials say.
-
-The first blast killed 12 people in front of an independent candidate’s party office in Pishin district.
-
-A second explosion left eight people dead in Qillah Saif Ullah district, about 150km (93 miles) away. Many others were injured in the two blasts.
-
-The election has been marred by violence and claims of poll-rigging.
-
-No group has yet claimed responsibility for the attack in Pishin. Details of the second blast are still emerging.
-
-Images on social media show cars and motorbikes blown apart by the force of the explosion in Pishin. It took place outside the election office of a local independent candidate who officials told the BBC was meeting his polling agent at the time.
-
-There have been violent incidents in both Balochistan and Khyber Pakhtunkhwa provinces in the last week or so in the build-up to Thursday’s vote.
-
-...
-
-[Data](articles/69d7d811.json)
-
-[Extended Data](ext_articles/69d7d811.ext.json)
-
----
-
-### 8 out of the 10 positionscopic machines of the National Hospital is disabled
-
-*2024-02-07 15:29:18* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-රෝහලේ-එන්ඩස්කොපි-යන්ත්‍ර-10න්-8ක්ම-අක්‍රීයයි/11-407953) · `si`
-
-The All Ceylon Nurses Association states that the disease is due to identify and treat diseases from the throat.
-
-Nursing Officer's Chairmanship has had to take up the waiting documents to be taken to take the waiting documents from the Colombo National Hospital.. B. Middlewatta said.
-
-He added that these machines are capable of identifying the injuries, cancer conditions and varieties of injury to the stomaching, cancer conditions and various nuts.
-
-The authorities have asked the authorities to remove machines from the Colombo National Hospital only to be removed and given new machines.
-
-◼️
-
-[Data](articles/84a1b734.json)
-
-[Extended Data](ext_articles/84a1b734.ext.json)
-
----
-
-### Casual love takes two lives
-
-*2024-02-07 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193085) · `si`
-
-Due to a dispute over a casual affair, the murder of two suspects were killed and the murder of two deaths in Portal.
-
-The suspect was found in a tree near the village near the Suriyawewa and Beddadawewa temple, Sooriyawewa Police said.
-
-The suspect was a 39 year old father, a resident of Pradeep Anuradha in Beddadawewa.
-
-The deceased has been assaulted by a 38-year-old woman, a 38-year-old woman named Suranga Nadeeshani.
-
-Sooriyawewa police were conducting further investigations and the victim had been a casual relationship with the deceased woman and the suspect.
-
-It is suspected that the suspect has been killed by the suspect due to the dispute between the two.
-
-After the suspect, the suspect had fled the Sooriyawewa Police regarding the matter.
-
-Accordingly, the suspect has committed suicide by the suspect has committed suicide by hanging himself in a tree near the Beddagewe Viharaya, Suspect.
-
-◼️
-
-[Data](articles/d0d098a7.json)
-
-[Extended Data](ext_articles/d0d098a7.ext.json)
 
 ---

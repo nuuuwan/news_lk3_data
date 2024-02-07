@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 08:02:27**
+As of **2024-02-07 08:17:26**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 755
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,324 (100.0%) of 5,326 articles have been extended.
+5,326 (100.0%) of 5,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### කෙහෙළිය පාර්ලිමේන්තුවට එන්න බැහැ කියයි
+### Keheliya cannot come to Parliament
 
 *2024-02-07 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193063) · `si`
 
-අද (07) දිනයේ පාර්ලිමේන්තු සැසිවාරයට සහභාගීවීම කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ප්‍රතික්ෂේප කර ඇති බව වාර්තා වෙයි.
+It is reported that Keheliya Rambukwella has rejected the Parliamentary Session today (07).
 
-බන්ධනාගාර මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කරන්නේ පාර්ලිමේන්තු සැසිවාරයට සහභාගීවීම සඳහා කෙහෙළිය රඹුක්වැල්ල මහතාට අවසර ලබාදුන්නද ඔහු විසින් එලෙස සහභාගීවීම ප්‍රතික්ෂේප කර ඇති බවය.
+The prison media spokesman said that he had refused to participate in attending the Parliamentary Session.
 
-ප්‍රමිතියෙන් තොර ඖෂධ ජාවාරම සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනවලට අදාළව හිටපු සෞඛ්‍ය අමාත්‍යවරයා මේ වනවිට රිමාන්ඩ් බන්ධනාගාරගත කර සිටී.
+The former Health Minister has been remanded regarding the investigation of the substandard drug racket.
 
-කෙහෙළිය රඹුක්වැල්ල මහතා මේ වනවිට පරිසර අමාත්‍ය ධුරයෙන් ද ඉල්ලා අස්වී තිබේ.
+Mr. Keheliya Rambukwella has resigned as the Minister of Environment.
 
 ◼️
 
 [Data](articles/5d258f96.json)
+
+[Extended Data](ext_articles/5d258f96.ext.json)
 
 ---
 
@@ -1540,19 +1542,21 @@ The Hydromet Forum, which cooperates with the World Bank and RIMES, will be held
 
 ---
 
-### ත්‍රිකුණාමලය රැඳවියන් දෙදෙනාගේ ගැටුමෙන් රැඳවියෙක් මරුට
+### President kills two inmates clashes in Trincomalee inmates
 
 *2024-02-06 19:59:43* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිකුණාමලය-රැඳවියන්-දෙදෙනාගේ-ගැටුමෙන්-රැඳවියෙක්-මරුට/11-407936) · `si`
 
-ත්‍රිකුණාමලය බන්ධනාගාරයේ රැඳවියන් දෙදෙනෙකු අතර ඇතිවූ ගැටුමකින් තුවාල ලබා රෝහල් ගතව ප්‍රතිකාර ලබමින් සිටි රැඳවියා අද (06දා) මියගිය බව ත්‍රිකුණාමලය වරාය පොලීසිය කියයි.
+The Trincomalee harbor, the Trincomalee Harbor Police say that the inmates were injured in a clash between two inmates in Trincomalee Prison.
 
-මෙලෙස මියගියේ ත්‍රිකුණාමලය,කින්නියා ,මහරුප් නගර් පදිංචි මොහොම්මදු අලී උවයිස් මොහොම්මදු උභයතුල්ලා නැමැති අයයි.ත්‍රිකුණාමලය බන්ධනාගාරයේ බී වාට්ටුවේදී ඉකුත් 02දා මෙම පහරදීම සිදුවී ඇති අතර හිසට සිදුවූ තුවාල හේතුවෙන් තුවාලකරු ත්‍රිකුණාමලය මහ රෝහලේ දැඩි සත්කාර ඒකකයට ඇතුළත් කර ප්‍රතිකාර ලබමින් සිටියදී මෙලෙස මියගොස් තිබේ.
+Momedu Di Uva Uwyis Hyuralum Mohammedamu Amphilaya, Trincomalee, has died on the base of the Troops of the House during the head injuries.
 
-පහරදුන් හා පහරකෑමට ලක්වූ රැඳවියන් දෙදෙනා මත්කුඩු සම්බන්ධ නඩුවකට මෙලෙස බන්ධනාගාර ගත කර තිබ්යදී ඇතිවූ බහින් බස් වීමක් මත මෙම පහරදීම සිදුවී තිබේ.සිද්ධිය සම්බන්ධයෙන් ත්‍රිකුණාමලය වරාය පොලීසිය වැඩිදුර පරීක්ෂණ මෙහෙයවයි .
+The attack took place on a heated argument that the two inmates had been imposed in a drug case. The Trincomalee harbor police are conducting further investigations.
 
 ◼️
 
 [Data](articles/2c61dd81.json)
+
+[Extended Data](ext_articles/2c61dd81.ext.json)
 
 ---
 

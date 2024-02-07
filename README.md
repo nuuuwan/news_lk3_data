@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 12:02:21**
+As of **2024-02-07 12:17:19**
 
 ## Newspaper Stats
 
-*Scraped **5,401** Articles*
+*Scraped **5,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,71 @@ dbsjeyarajcom | 140
 economynextcom | 281
 islandlk | 288
 dailyftlk | 305
-newsfirstlk | 335
+newsfirstlk | 336
 adalk | 455
 virakesarilk | 650
 adaderanalk | 669
 tamilmirrorlk | 677
-adaderanasinhalalk | 695
+adaderanasinhalalk | 697
 dailymirrorlk | 767
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,395 (99.9%) of 5,401 articles have been extended.
+5,401 (99.9%) of 5,404 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### චිලි රාජ්‍යයේ හිටපු ජනපති හෙලිකොප්ටර් අනතුරකින් මරුට
+
+*2024-02-07 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193074) · `si`
+
+චිලී හි හිටපු ජනාධිපති සෙබෙස්තියන් පිනේරා හෙලිකොප්ටර් යානා අනතුරකින් මියගොස් තිබේ.
+
+දෙවරක් රට පාලනය කළ පිනේරා වාර්තා අතරට එක්වන්නේ, එරට සිටි ධනවත්ම මිනිසෙකු ද ලෙසය.
+
+ඒ එරට සැන්තියාගෝ අගනුවරට දකුණින් පිහිටි ප්‍රකට සංචාරක ගමනාන්තයක් වන ලාගෝ රැන්කෝ හි සිදුවූ හෙලිකොප්ටර් යානා අනතුරකිනි.
+
+74 හැවිරිදි හිටපු ජනාධිපති පිනේරා ඇතුළු පිරිස ගමන් කළ හෙලිකොප්ටර් යානය ලාගෝ රැන්කෝ හි ජලාශයක් මතට කඩා වැටී තිබුණි.
+
+කෙසේ නමුත් යානයේ ගමන් කළ ඉතිරි තිදෙනා අනතුරින් දිවි ගලවාගැනීම විශේෂත්වයකි.
+
+අනතුරට ලක්වූ හෙලිකොප්ටරය පිනේරා සතු එකක් වුවත්, අනතුර සිදුවන විට ඔහු යානය පැදවූවාද යන්න අනාවරණය වී නැත.
+
+එමෙන්ම ඒ සම්බන්ධව ලතින් අමෙරිකානු රටවල නායකයින් ශෝකය පළකර තිබුණි.
+
+2010 සිට 2014 වසර දක්වාත්, 2018 වසරේ සිට 2022 වසර දක්වාත් දෙවරක් රට පාලනය කළ පිනේරා එරට වඩාත් ජනප්‍රිය පාලකයෙකි.
+
+දින 69ක් තිස්සේ ඇටකාමා හි පතලක සිරවී සිටි පතල්කරුවන් 33 දෙනෙක් නිරුපද්‍රිතව මුදාගැනීමත් සමඟ ඔහු එවක ජාත්‍යන්තරයේ අවධානයටත් ලක්වුණි.
+
+එමෙන්ම පිනේරා සැලකෙන්නේ චිලී හි සිටින ධනවත්ම මිනිසකු ද ලෙසයි.
+
+◼️
+
+[Data](articles/23b26eba.json)
+
+---
+
+### අවලෝකිතේශ්වර යැයි කියාගන්නා මහින්ද ට ඇප
+
+*2024-02-07 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193073) · `si`
+
+අවලෝකිතේශ්වර බෝධිසත්ව ලෙස තමාව හඳුන්වාගත් මහින්ද කොඩිතුවක්කු නමැත්තාව ඇපමත මුදා හැරීමට කොටුව මහෙස්ත්‍රාත් අධිකරණය අද (07) නියෝග කළේය.
+
+අප වාර්තාකරු පැවසුවේ රුපියල් මිලියනයක ශරීර ඇප දෙකක් මත ඔහුව නිදහස් කළ බවය.
+
+අවලෝකිතේශ්වර නාමයෙන් පෙනී සිටිමින් බුදු දහමට අපහාස කළේ යැයි චෝදනා එල්ල වූ මහින්ද කොඩිතුවක්කු නැමැත්තාට මානසික වෛද්‍ය ප්‍රතිකාර අවශ්‍ය බව පසුගියදා (ජනවාරි 24) කොටුව මහේස්ත්‍රාත් අධිකරණයේදී හෙළිවිය.
+
+ඒ අනුව එදින සැකකරුව තවදුරටත් රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කළ අධිකරණය, ඔහු ව මානසික වෛද්‍ය ප්‍රතිකාර ලබාගැනීම සඳහා යොමු කරන ලෙස නියෝග කළේය.
+
+◼️
+
+[Data](articles/efcc740e.json)
+
+---
 
 ### Self-proclaimed ‘Avalokiteshvara Bodhisattva’ granted bail, referred to psychiatric treatment
 
@@ -52,49 +100,71 @@ Earlier this month, the president of Buddhist Information Centre, Ven. Agulugall
 
 [Data](articles/8c40c48a.json)
 
+[Extended Data](ext_articles/8c40c48a.ext.json)
+
 ---
 
-### வங்கிச் சட்டத்தை திருத்தம் செய்வதற்கான வர்த்தமானி வெளியீடு
+### Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
+
+*2024-02-07 11:32:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/sri-lanka-aims-for-six-month-debt-fix-us-3-billion-annual-payment-looms/) · `en`
+
+COLOMBO (News 1st); Sri Lankan President Ranil Wickremesinghe in his policy statement to parliament on Wednesday (7), outlined a six-month timeline for completing a comprehensive debt restructuring plan, highlighting its importance for economic recovery while acknowledging the significant challenges ahead.
+
+"Throughout the past, concerted efforts have been made to formulate a strategic plan for repaying this debt. The domestic debt restructuring plan has been successfully executed as the first step, and a policy agreement for restructuring has been reached with foreign creditors as the second step. Negotiations with private creditors are presently in progress. Anticipated in the initial six months of this year, the intricate restructuring plan is poised to form the foundational framework for restoring our economy to normalcy," explained Wickremesinghe.
+
+...
+
+[Data](articles/3adaa7eb.json)
+
+---
+
+### Gazette Issue for amendment of the banking law
 
 *2024-02-07 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175773) · `ta`
 
-1988 ஆம் ஆண்டு 30 ஆம் இலக்க வங்கிச் சட்டத்தை திருத்தம் செய்வதற்கான வர்த்தமானி வெளியீடப்பட்டுள்ளதாக நிதி,பொருளாதார ஸ்திரப்படுத்தல் மற்றும் தேசிய கொள்கைகள் அமைச்சு தெரிவித்துள்ளது.
+The Ministry of Finance, Economic Stock and National Policies said that the Gazette for amendment of the Banking Act No. 30, 1988.
 
 ◼️
 
 [Data](articles/95ada578.json)
 
+[Extended Data](ext_articles/95ada578.ext.json)
+
 ---
 
-### விக்னேஸ்வரனிடம் ஜனாதிபதி சொன்ன சங்கதி
+### The President told Vigneswaran
 
 *2024-02-07 11:21:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விக்னேஸ்வரனிடம்-ஜனாதிபதி-சொன்ன-சங்கதி/175-332819) · `ta`
 
-ஒன்பதாவது பாராளுமன்றத்தின் ஐந்தாவது கூட்டத்தொடரை ஆரம்பித்து வைத்து அக்கிராசன உரையாற்றிய ஜனாதிபதி ரணில் விக்கிரமசிங்க தனதுரையை 11.15 மணியளவில் நிறைவு செய்தார்.
+President Ranil Wickremesinghe, speaking at the inauguration of the fifth session of the ninth parliament, concluded his concept at 11.15 pm.
 
-தனதுரையை நிறைவு செய்து கொண்டதன் பின்னர், சபா பீடம் வழியாக ஜனாதிபதி ரணில் விக்கிரமசிங்க வெளியேறிய போது,ஆளும், எதிர்க்கட்சி உறுப்பினர்கள் எழுந்து நின்றனர்.
+After completing his contribution, when President Ranil Wickremesinghe left through the Sabha Faculty, the ruling and opposition members stood up.
 
-அனைவரையும் பார்த்து தலையை அசைத்து தனது நன்றியை தெரிவித்த ஜனாதிபதி ரணில் விக்கிரமசிங்க, எழுந்து நின்றுக்கொண்டிருந்த தமிழ் மக்கள் தேசிய முன்னணியின் பாராளுமன்ற உறுப்பினரான முன்னாள் நீதியரசர் சி.வி. விக்னேஸ்வரனின் அருகில் சென்று ஒருசில வினாடிகள் ஏதோ கூறிவிட்டுச் சென்றார்.
+President Ranil Wickremesinghe, who thanked everyone and expressed his gratitude. Vigneswaran went near and said something for a few seconds.
 
 ◼️
 
 [Data](articles/57d2bdc1.json)
 
+[Extended Data](ext_articles/57d2bdc1.ext.json)
+
 ---
 
-### கடற்படையின் முன்னாள் தளபதி தயா சந்தகிரி ஐக்கிய மக்கள் சக்தியில் இணைந்தார்!
+### Former Navy Commander Daya Sandagiri joined the United People's Power!
 
 *2024-02-07 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175775) · `ta`
 
-இலங்கை கடற்படையின் முன்னாள் தளபதி தயா சந்தகிரி ஐக்கிய மக்கள் சக்தியில் இணைந்துள்ளார்.
+Former Sri Lanka Navy Commander Daya Sandagiri has joined the United People's Power.
 
-கட்சியின் தலைவர் சஜித் பிரேமதாசவிடம் ஐக்கிய மக்கள் சக்தியின் உறுப்புரிமையை பெற்றுக்கொண்டதுடன்  கட்சியின் ஆலோசகராக நியமிக்கப்பட்டுள்ளார்.
+Party leader Sajith Premadasa has obtained the membership of the United People's Power and has been appointed as the party's advisor.
 
-முன்னாள் இராணுவத் தளபதி தயா ரத்னாயக்கவும் அண்மையில் மக்கள் சக்தியில் இணைந்து கொண்டமை தெரிந்ததே.
+Former Army Commander Daya Ratnayaka is also known to have recently joined the power of the people.
 
 ◼️
 
 [Data](articles/6aa24d83.json)
+
+[Extended Data](ext_articles/6aa24d83.ext.json)
 
 ---
 
@@ -161,6 +231,8 @@ In marking the commencement of the event, Major General P.G.P.S. Rathnayake RWP 
 ...
 
 [Data](articles/5a36f1ee.json)
+
+[Extended Data](ext_articles/5a36f1ee.ext.json)
 
 ---
 
@@ -246,7 +318,7 @@ Gunasinghe further announced plans to appoint new office bearers for the Podujan
 
 A new party secretary will be selected on the 22nd of February.
 
-CBK Back in Politics: Leads Broad Alliance for Upcoming Elections
+Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
 
 ...
 
@@ -309,6 +381,8 @@ Sri Lanka Parliament was prorogued with effect from midnight on 26 January, mark
 ...
 
 [Data](articles/0fe03b15.json)
+
+[Extended Data](ext_articles/0fe03b15.ext.json)
 
 ---
 
@@ -712,9 +786,9 @@ Minister Sabry highlighted the recent FTA with Thailand as a historic step towar
 
 Talk of The Town | What's next for SLFP? | Thilanga Sumathipala | 07 February 2024
 
-Talk of The Town | What’s next for SLFP? | Thilanga Sumathipala | 07 February 2024
+Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
 
-President to Open New Parliament Session & Deliver Policy Statement in Scaled-Back Ceremony
+CBK Back in Politics: Leads Broad Alliance for Upcoming Elections
 
 ◼️
 
@@ -970,9 +1044,9 @@ Deputy Speaker Ajith Rajapakse says the President is scheduled to present the go
 
 The President last adjourned the Parliament on the 26th of January.
 
-Talk of The Town | What’s next for SLFP? | Thilanga Sumathipala | 07 February 2024
+Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
 
-President to Open New Parliament Session & Deliver Policy Statement in Scaled-Back Ceremony
+CBK Back in Politics: Leads Broad Alliance for Upcoming Elections
 
 ◼️
 
@@ -1032,9 +1106,9 @@ They are also scheduled to hold discussions with the Minister of Commerce and In
 
 The delegation from the Jathika Jana Balawegaya (JJB), led by party leader Anura Kumara Dissanayake engaged in key meetings with prominent Indian organizations focused on policy and governance yesterday.
 
-Talk of The Town | What’s next for SLFP? | Thilanga Sumathipala | 07 February 2024
+Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
 
-President to Open New Parliament Session & Deliver Policy Statement in Scaled-Back Ceremony
+CBK Back in Politics: Leads Broad Alliance for Upcoming Elections
 
 ◼️
 
@@ -1965,63 +2039,5 @@ It is noteworthy that the Rajanga Diana Kamage had informed the media that the C
 [Data](articles/1fe72dac.json)
 
 [Extended Data](ext_articles/1fe72dac.ext.json)
-
----
-
-### Federal Appeals Court rules Trump does not have presidential immunity
-
-*2024-02-06 23:14:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/federal-appeals-court-rules-trump-does-not-have-presidential-immunity/) · `en`
-
-Colombo (News 1st) – Donald Trump’s hopes of avoiding a trial over alleged attempts to falsify the results of the 2020 presidential election that he lost, were dealt a serious blow on Tuesday (6th) when a Federal Court of Appeal handed down a scathing ruling that the former president does not have presidential immunity for such actions, U.S. media reported.
-
-The federal appeals court in the District of Columbia, the nation’s capital, said his immunity claims would reject "the most fundamental check on executive power."
-
-In addition, they said that Trump's stance "would collapse our system of separated powers by placing the President beyond the reach of all three Branches."
-
-The all-female 3-judge bench also gave Trump very little time to appeal to the highest court in the land, with a deadline of next Monday (12th) to approach the Supreme Court to suspend their ruling. Trump’s attorneys said they would appeal.
-
-...
-
-[Data](articles/5c107f15.json)
-
-[Extended Data](ext_articles/5c107f15.ext.json)
-
----
-
-### Macktiles makes history; exports Made in Sri Lanka tiles to Indonesia for the first time
-
-*2024-02-06 23:10:22* · [`dailyftlk`](https://www.ft.lk/business/Macktiles-makes-history-exports-Made-in-Sri-Lanka-tiles-to-Indonesia-for-the-first-time/34-758197) · `en`
-
-Seen here, the Macktiles team with the first consignment to Indonesia
-
-Macktiles Lanka Ltd., has achieved a monumental milestone as Sri Lankan tiles make their debut in the Indonesian market.
-
-This historic accomplishment marks a significant shift in the global trade dynamics, with Sri Lanka transitioning from being a net importer to an exporter of premium-quality tiles. Macktiles is Sri Lanka’s largest manufacturer.
-
-“For decades, Sri Lanka has relied on imports from Indonesia for its tile requirements. Today, we are immensely proud to announce that Macktiles Lanka has successfully exported Sri Lankan tiles to Indonesia for the first time,” said Macksons Holdings Managing Director Mizver Makeen.
-
-...
-
-[Data](articles/aa383c2f.json)
-
-[Extended Data](ext_articles/aa383c2f.ext.json)
-
----
-
-### Bill and Melinda Gates Foundation to set up Support Unit within President’s Office
-
-*2024-02-06 23:09:47* · [`dailyftlk`](https://www.ft.lk/business/Bill-and-Melinda-Gates-Foundation-to-set-up-Support-Unit-within-President-s-Office/34-758196) · `en`
-
-Cabinet approves move after considering President’s presentation on policy support from Bill and Melinda Gates Foundation
-
-Global Health Strategies, by the Bill and Melinda Gates Foundation and its local partner Connect to Care Organisation, are to establish a Program Support Unit within the President’s Office.
-
-“The Cabinet of Ministers deliberated on the issues presented by the President concerning the policy support envisioned by the Bill and Melinda Gates Foundation for the Presidential Secretariat. Subsequently, approval was granted by the Cabinet of Ministers to proceed with the necessary steps in this regard,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said last week.
-
-...
-
-[Data](articles/d3cd5ea5.json)
-
-[Extended Data](ext_articles/d3cd5ea5.ext.json)
 
 ---

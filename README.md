@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 06:52:22**
+As of **2024-02-07 07:15:11**
 
 ## Newspaper Stats
 
-*Scraped **5,321** Articles*
+*Scraped **5,323** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ adalk | 451
 virakesarilk | 641
 adaderanalk | 658
 tamilmirrorlk | 661
-adaderanasinhalalk | 684
+adaderanasinhalalk | 686
 dailymirrorlk | 755
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,318 (99.9%) of 5,321 articles have been extended.
+5,321 (100.0%) of 5,323 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### බෙලිඅත්ත ඝාතනයේ තවත් සැකකරුවෙක් අත්අඩංගුවට
+
+*2024-02-07 06:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193062) · `si`
+
+බෙලිඅත්තේ පංච පුද්ගල ඝාතනයට අදාළව තවත් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනවලට අදාළව ඊයේ (06) දින බෙලිඅත්ත පොලීසියට නීතිඥවරයෙකු මාර්ගයෙන් ඉදිරිපත් වූ පුද්ගලයෙකු මෙලෙස සැකපිට අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/a28d62ea.json)
+
+---
+
+### උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක්
+
+*2024-02-07 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193060) · `si`
+
+අද (07) දිනයේ දිවයිනේ ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතිනු ඇති බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+අලුයම් කාලයේදී නුවරඑළිය දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවල මල්තුහින ඇතිවීමේ හැකියාවක් ද පවතී.
+
+මධ්‍යම, සබරගමුව, බස්නාහිර සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරයි.
+
+◼️
+
+[Data](articles/5b360171.json)
+
+---
 
 ### Chile’s former president dies in helicopter crash
 
@@ -49,6 +79,8 @@ President Gabriel Boric declared three days of national mourning, while preparat
 ...
 
 [Data](articles/d7e59337.json)
+
+[Extended Data](ext_articles/d7e59337.ext.json)
 
 ---
 
@@ -1981,41 +2013,5 @@ The 46 -year -old English teacher living in Boraleskamuwa area has been released
 [Data](articles/d42bf589.json)
 
 [Extended Data](ext_articles/d42bf589.ext.json)
-
----
-
-### Over 28,000 Tourist Arrivals in First Week of Feb
-
-*2024-02-06 17:20:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/over-28-000-tourist-arrivals-in-first-week-of-feb/) · `en`
-
-COLOMBO – (News 1st); The Sri Lanka Tourism Development Authority (SLTDA) reported 28,493 tourist arrivals from the 1st of February to the 4th of February.
-
-Accordingly, from the arrivals, the Russian Federation and India leaded a cumulative total of 30% of the arrivals in the first week of February.
-
-The number of tourist arrivals from 01 January 2024 to 4th of February has been calculated to 236,746 arrivals by the SLTDA.
-
-Federal Appeals Court rules Trump does not have presidential immunity
-
-◼️
-
-[Data](articles/0ad7dcce.json)
-
-[Extended Data](ext_articles/0ad7dcce.ext.json)
-
----
-
-### No authority to accept or reject amendments to Online Safety Act: Speaker
-
-*2024-02-06 17:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-authority-to-accept-or-reject-amendments-to-Online-Safety-Act-Speaker/108-276437) · `en`
-
-Colombo, Feb 06 (Daily Mirror) -  Speaker  Mahinda Yapa Abeywardana today said he has no authority to accept or reject any amendments from anyone including the Supreme Court to the Online Safety Act and that the sole authority of such exercise is vested with Parliament.
-
-The Speaker was referring to remarks that have been made by opposition members including Leader of the Opposition Sajith Premadasa, who had accused him of violating the Constitution in endosing the Online Safety Bill.
-
-...
-
-[Data](articles/b4953089.json)
-
-[Extended Data](ext_articles/b4953089.ext.json)
 
 ---

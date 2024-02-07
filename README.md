@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 02:32:45**
+As of **2024-02-08 02:48:21**
 
 ## Newspaper Stats
 
-*Scraped **5,567** Articles*
+*Scraped **5,571** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 78
 dbsjeyarajcom | 140
 islandlk | 288
 economynextcom | 296
-dailyftlk | 307
+dailyftlk | 311
 newsfirstlk | 342
 adalk | 472
 virakesarilk | 680
@@ -26,11 +26,77 @@ dailymirrorlk | 792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,567 (100.0%) of 5,567 articles have been extended.
+5,571 (100.0%) of 5,571 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### UNICEF welcomes start of amendments to Children and Young Persons Ordinance
+
+*2024-02-08 02:03:40* · [`dailyftlk`](https://www.ft.lk/news/UNICEF-welcomes-start-of-amendments-to-Children-and-Young-Persons-Ordinance/56-758225) · `en`
+
+The UNICEF said yesterday it welcomes the long-awaited amendment to the Children and Young Persons Ordinance (CYPO) coming into force effective 1 January 2024, which marks a significant step towards protecting the rights and welfare of all children in Sri Lanka.
+
+The CYPO, a legislation governing justice for children in Sri Lanka since 1939, previously only covered those up to the age of 16. The amendment now extends its protection to all children under the age of 18. Furthermore, the amendment also repeals the section of the CYPO which permitted the use of corporal punishment on children and adolescents by parents, teachers, or guardians.
+
+These amendments contribute to the alignment of Sri Lanka’s laws that address children’s rights with international standards, particularly the United Nations Convention on the Rights of the Child (CRC), but also addresses the evolving needs and challenges faced by children and adolescents in the country.
+
+...
+
+[Data](articles/89286e39.json)
+
+[Extended Data](ext_articles/89286e39.ext.json)
+
+---
+
+### Dr. McNamara new Executive Director at US-Sri Lanka Fulbright Commission
+
+*2024-02-08 02:00:57* · [`dailyftlk`](https://www.ft.lk/news/Dr-McNamara-new-Executive-Director-at-US-Sri-Lanka-Fulbright-Commission/56-758224) · `en`
+
+The US Embassy in Sri Lanka yesterday announced the appointment of Dr. Patrick McNamara, as the new Executive Director of the United States-Sri Lanka Fulbright Commission based in Colombo.
+
+“We are so pleased to welcome Dr. Patrick McNamara as the new Executive Director of our United States-Sri Lanka Fulbright Commission. Under the leadership of Dr. McNamara, the Commission is entering a new era cultivating exchanges, educational partnerships, and mutual understanding between our two nations,” said US Ambassador to Sri Lanka Julie Chung.
+
+“We expect the Commission to play a vital role in further strengthening the people-to-people, academic and scientific ties between the United States and Sri Lanka, through vibrant intellectual exchanges that go beyond borders and enhance the academic environment for scholars and students alike,” she added.
+
+...
+
+[Data](articles/e0cbfb7f.json)
+
+[Extended Data](ext_articles/e0cbfb7f.ext.json)
+
+---
+
+### IMF program and President’s election prospects
+
+*2024-02-08 01:49:39* · [`dailyftlk`](https://www.ft.lk/columns/IMF-program-and-President-s-election-prospects/4-758222) · `en`
+
+National People’s Power (NPP) Leader MP Anura Kumara Dissanayake met with the Indian External Affairs Minister Dr. S. Jaishankar in New Delhi recently creating huge excitement among some quarters. The Indian Minister said he was pleased to meet MP Dissanayake. Further he said, “A good discussion on our bilateral relationship and the mutual benefits from its further deepening.” The Minister also spoke about Sri Lanka’s economic challenges and the path ahead. MP Anura Kumara Dissanayake is scheduled to meet several important people during the five-day visit in India. Several news channels in India also highlighted Anura as the most popular politician in Colombo.
+
+...
+
+[Data](articles/a43f77e3.json)
+
+[Extended Data](ext_articles/a43f77e3.ext.json)
+
+---
+
+### China, India, the capital market, its underlying economy and lessons for Sri Lanka
+
+*2024-02-08 01:45:13* · [`dailyftlk`](https://www.ft.lk/columns/China-India-the-capital-market-its-underlying-economy-and-lessons-for-Sri-Lanka/4-758221) · `en`
+
+China’s Securities Regulatory Commission Chairman Yi Huiman was replaced with Wu Qing, an apparent veteran securities regulator who led the Shanghai Stock Exchange. Possible political interference leading to regulatory forbearance, or enhanced regulatory oversight and effectiveness in China, I wondered, given I was observing this space, as global investors withdrew billions of dollars from China.
+
+China has a “national team” of State entities that buy up shares of local companies. This was done in response to a market crash in 2015. Analysts say, nine years on, State-backed investors are still at it, pouring $ 17 billion into index-tracking funds.
+
+...
+
+[Data](articles/be731a8d.json)
+
+[Extended Data](ext_articles/be731a8d.ext.json)
+
+---
 
 ### Eastern Province Governor Senthil Thondaman recommends appointment to teachers
 
@@ -1981,99 +2047,5 @@ Accordingly, the suspect has committed suicide by the suspect has committed suic
 [Data](articles/d0d098a7.json)
 
 [Extended Data](ext_articles/d0d098a7.ext.json)
-
----
-
-### A person who is sentenced to a rape laborator is acquitted
-
-*2024-02-07 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193084) · `si`
-
-The Court of Appeal has been acquitted by the Court of Appeal.
-
-The panel of judges has been given this order to appeal filed by the accused.
-
-He had been accused of raping a mother of young people who had promised to get into the house and had raped a young mother in the jungle.
-
-On October 20, 2022, the Hambantota High Court was sentenced to eight years in prison and fined Rs 5,000.
-
-The court high court was directed to the victim to pay a fined Rs. 150,000 to the victim.
-
-The Bench of the Court of Appeal has issued this order by the proof of the evidence of the evidence of the evidence that the woman who was assaulted by the evidence of the evidence of the evidence.
-
-◼️
-
-[Data](articles/7ab12ae5.json)
-
-[Extended Data](ext_articles/7ab12ae5.ext.json)
-
----
-
-### Three suspects arrested with Ambar worth more than 3 crores
-
-*2024-02-07 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175802) · `ta`
-
-Three suspects have been arrested by the Mirissa Crime Unit in the Tevinuwara and Nakulagamuwa areas on Tuesday (06) with Ambar, who has been banned from selling or business in a country known as floating gold.
-
-According to information provided by the Army Intelligence Unit, 4 kg 500 grams of amber was seized from the arrested persons.
-
-The suspects from Nakulukamuwa area, aged 25-30, have been arrested in the Montairo Jeep Jeep.
-
-Amber, which is caused by sperm and vomiting emanating from the body of the whales, the whales, is used to maintain the aroma of perfumes for a long time.
-
-◼️
-
-[Data](articles/e5a29c15.json)
-
-[Extended Data](ext_articles/e5a29c15.ext.json)
-
----
-
-### Prabath Jayasuriya advance
-
-*2024-02-07 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193082) · `si`
-
-According to the International Cricket Council (ICC) rankings of the spinied player Prabath Jayasuriya, the rankings of the International Cricket Council (ICC) have come forward in ratings.
-
-He had previously been after the 9th place in Test bowler ratings.
-
-Prabath Jayasuriya has come forward with the performers of the Sri Lanka-Afghanistan Test series.
-
-Prabath Jayasuriya was the Afghanistan Test series, the Prabath Jayasuriya.
-
-The rankings of the rankings are the Indian fast bowler Jaschprit Burma, while South African fast bowler are the South African fast bowler Kugso.
-
-Indian spinner Ravichandran is the third place in Ashwin ratings.
-
-Places of four-like and soil are neat, Australian fast bowlers, Pat Kamas and Josh Heselwood.
-
-There is no other Sri Lankan bowler or other 20 Sri Lankan bowler ratings except Prabath Jayasuriya.
-
-◼️
-
-[Data](articles/b3a1bd75.json)
-
-[Extended Data](ext_articles/b3a1bd75.ext.json)
-
----
-
-### Legal dispute after runner-up replaced national badminton champion at Asian Games
-
-*2024-02-07 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97083/legal-dispute-after-runner-up-replaced-national-badminton-champion-at-asian-games) · `en`
-
-The Colombo Chief Magistrate’s Court has ordered the Chairman of the Sri Lanka Badminton Association and its board members to appear before the special investigation unit taking action against sports-related offences.
-
-The relevant officials have been asked to show cause for sending the runner-up to represent Sri Lanka at the 2023 Asian Games instead of the national badminton champion.
-
-A group of 97 sportspersons including a badminton player represented Sri Lanka in the 2023 Asian Games held in Hangzhou, China.
-
-It is alleged that Buwaneka Goonethilake, who secured the title as the National Badminton Champion for 03 consecutive years, was replaced by the runner-up Viren Nettasinghe.
-
-Investigations were initiated into the matter by the special investigation unit probing sports-related offences, after a complaint was filed by Mrs. Preethi Disna Ileperuma, the mother of Buwaneka Goonethilake.
-
-...
-
-[Data](articles/6716ff83.json)
-
-[Extended Data](ext_articles/6716ff83.ext.json)
 
 ---

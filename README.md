@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 04:17:10**
+As of **2024-02-08 04:32:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,575 (100.0%) of 5,576 articles have been extended.
+5,576 (100.0%) of 5,576 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Hayleys Aventura Ltd., a subsidiary of Hayleys PLC, recently hosted the inaugura
 ...
 
 [Data](articles/b38f1c30.json)
+
+[Extended Data](ext_articles/b38f1c30.ext.json)
 
 ---
 

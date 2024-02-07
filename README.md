@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 20:02:21**
+As of **2024-02-07 20:17:21**
 
 ## Newspaper Stats
 
@@ -26,45 +26,51 @@ dailymirrorlk | 781
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,509 (99.9%) of 5,515 articles have been extended.
+5,515 (100.0%) of 5,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### பொதுப் போக்குவரத்தில் சில்மிஷம் செய்பவர்களுக்கு விசேட அறிவித்தல்
+### Special Notification for Public Traffic
 
 *2024-02-07 19:33:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுப்-போக்குவரத்தில்-சில்மிஷம்-செய்பவர்களுக்கு-விசேட-அறிவித்தல்/175-332848) · `ta`
 
-பொதுப் போக்குவரத்தில் சிறுவர்கள் மற்றும் பெண்களுக்கு எதிராக துஷ்பிரயோகங்களில் ஈடுபடும் நபர்களை இலக்கு வைத்து நாடளாவிய ரீதியில் பொலிஸ் நடவடிக்கை ஒன்று ஆரம்பிக்கப்பட்டுள்ளது.
+A police operation has been launched nationwide targeting people involved in abuse against children and girls in public transport.
 
-தினசரி அடிப்படையில் பொலிஸ் நிலையங்களுக்கு வரும் முறைப்பாடுகளின் எண்ணிக்கையின் அதிகரிப்பை மையமாக கொண்டு பொதுப் போக்குவரத்துச் சேவைகளுக்குள் பாலியல் துஷ்பிரயோகத்தை எதிர்த்துப் போராடுவதே இந்த நடவடிக்கையின் முதன்மை நோக்கமாகும் என்று பொது பாதுகாப்பு அமைச்சகம் தெரிவித்துள்ளது.
+The main purpose of the move is to fight sexual abuse within public transport services, focusing on the number of complaints to the police stations on a daily basis, the Ministry of Public Security said.
 
-இந்த நடவடிக்கையை அமுல்படுத்துமாறு பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் பணிப்புரை விடுத்துள்ளார்.
+The Inspector General of Police, Deshabandu, has issued a directive to implement the move.
 
-பொதுப் போக்குவரத்து அதிகமாக உள்ள காலை 08:00-10:00 மற்றும் மாலை 17:00-19:00 ஆகிய நேரங்களில் இந்நடவடிக்கைகளுக்கு முன்னுரிமை அளிக்குமாறு, பொலிஸாருக்கு ஐஜிபி அறிவுறுத்தியுள்ளார்.
+The IGP has advised the police to prioritize these measures at 08: 00-10: 00 and 00-19: 00 in the morning.
 
-அதன்படி, வீதிகள், பஸ் நிலையங்கள் மற்றும் புகையிரத நிலையங்களில் விசேட கவனம் செலுத்தப்பட்டு, சிவில் உடையில் பொலிஸ் உத்தியோகத்தர்கள் பஸ்களில் பயணிப்பார்கள்.
+Accordingly, special attention is paid to the roads, bus stations and railway stations and police officers in civil clothes will travel on buses.
 
-...
+Arrangements have been made to provide uniformed police officers, especially the main streets, ready to provide assistance to the officers of civil clothes when they need help.
+
+◼️
 
 [Data](articles/bc2c24f7.json)
 
+[Extended Data](ext_articles/bc2c24f7.ext.json)
+
 ---
 
-### மட்டு நகரில் பெண் சட்டத்தரணி மீதும் கணவன் மீதும் தாக்குதல்; பெண் உட்பட இருவருக்கு விளக்கமறியல்!
+### Attack on female lawyer and husband in Modu city;Explanation for two, including a woman!
 
 *2024-02-07 19:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175838) · `ta`
 
-மட்டக்களப்பு நகரில் நீதிமன்றத்திற்கு அருகாமையிலுள்ள சட்டத்தரணி ஒருவரின் காரியாலயத்தினுள் அத்துமீறி நுழைந்து பெண் சட்டத்தரணியையும் அவரது கணவரையும் தாக்கிய சம்பவம் தொடர்பாகக் கைது செய்யப்பட்ட பெண் ஒருவர் உட்பட இருவரையும்  விளக்கமறியலில் வைக்கெமாறு மட்டக்களப்பு நீதிவான் நீதிமன்ற நீதிவான் எம்.எச். முகமட் ஹம்ஸா  செவ்வாய்க்கிழமை (6) உத்தரவிட்டார்.
+Batticaloa Magistrate's Court Judge MH, including a woman, who was arrested in connection with the incident in connection with the attack on a lawyer and her husband in connection with the attack on a lawyer near the court in Batticaloa town.. Mohammed Hamza ordered on Tuesday (6).
 
-இதனையடுத்து தாக்குதலுக்கு உள்ளான சட்டத்தரணியும் அவரது கணவரும்  வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தெரிய வந்துள்ளது.
+It has been revealed that the lawyer and her husband have been admitted to the hospital.
 
-இந்நிலையிலையில் கைது செய்யப்பட்ட இருவரையும் செவ்வாய்க்கிழமை (6) மாலை மட்டக்களப்பு நீதவான் நீதிமன்ற நீதவான் எம்.எச். முகமட் ஹம்சா முன்னிலையில் ஆஜர்படுத்திய போதே  எதிர்வரும் 20 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவிட்டார்.
+Batticaloa Magistrate M.H.. The magistrate ordered that Mohammed Hamza be presented in the presence of Hamza until the 20th of this month.
 
 ◼️
 
 [Data](articles/e7138631.json)
+
+[Extended Data](ext_articles/e7138631.ext.json)
 
 ---
 
@@ -86,6 +92,8 @@ Investigations revealed that the 33 year old suspect father who returned home af
 
 [Data](articles/8009d208.json)
 
+[Extended Data](ext_articles/8009d208.ext.json)
+
 ---
 
 ### Sanath Nishantha’s death is suspicious – wife tells CID
@@ -105,6 +113,8 @@ The driver was subsequently was arrested on 26 January, however, was later grant
 ...
 
 [Data](articles/9d008d97.json)
+
+[Extended Data](ext_articles/9d008d97.ext.json)
 
 ---
 
@@ -167,6 +177,8 @@ Chamindu Darshan (27), a resident of Serunuwara who was identified as the shoote
 ◼️
 
 [Data](articles/f7551849.json)
+
+[Extended Data](ext_articles/f7551849.ext.json)
 
 ---
 
@@ -610,23 +622,25 @@ The reconstruction of Gaza would begin, Israeli forces would withdraw completely
 
 ---
 
-### ප්‍රභාත් ජයසූරිය ඉදිරියට
+### Prabath Jayasuriya advance
 
 *2024-02-07 16:10:36* · [`adalk`](https://www.ada.lk/sports/ප්‍රභාත්-ජයසූරිය-ඉදිරියට/9-407954) · `si`
 
-අන්තර්ජාතික ක්‍රිකට් කවුන්සිලය (ICC) විසින් නිකුත් කළ නවතම ටෙස්ට් පන්දු යවන්නන්ගේ ශ්‍රේණිගත කිරීම්වලට අනුව, දඟපන්දු යවන ක්‍රීඩක ප්‍රභාත් ජයසූරිය ශ්‍රේණිගත කිරීම්වල ඉදිරියට පැමිණ තිබේ.
+According to the International Cricket Council (ICC) rankings of the spinied player Prabath Jayasuriya, the rankings of the International Cricket Council (ICC) have come forward in ratings.
 
-ඔහු මීට පෙර ටෙස්ට් පන්දු යවන්නන්ගේ ශ්‍රේණිගත කිරීම්වල 09 වැනි ස්ථානයේ පසු වූ අතර, නවතම ශ්‍රේණිගත කිරීම්වල 06 වැනි ස්ථානය දක්වා ඉදිරියට පැමිණ ඇත.
+He had previously been after the 9th place in Test bowler ratings.
 
-නිමා වූ ශ්‍රී ලංකා - ඇෆ්ගනිස්තාන ටෙස්ට් තරගයේ දී කඩුලු 8ක් දවාගනිමින් දැක්වූ දස්කම් සමඟ ප්‍රභාත් ජයසූරිය මෙසේ ශ්‍රේණිගත කිරීම්වල ඉදිරියට පැමිණ තිබේ.
+Prabath Jayasuriya has come forward with the performers of eight wickets in the Sri Lanka-Afghanistan Test.
 
-ශ්‍රේණිගත කිරීම්වල පෙරමුණේ පසු වන්නේ, ඉන්දීය වේගපන්දු යවන ක්‍රීඩක ජස්ප්‍රිට් බුම්රායි. ඉන්අනතුරුව දකුණු අප්‍රිකානු වේගපන්දු යවන ක්‍රීඩක කගීසෝ රබාඩා, ඉන්දීය දඟපන්දු යවන ක්‍රීඩක රවිචන්ද්‍රන් අශ්වින් සිටියි.
+The lead in rankings is the Indian fast bowler Jasprit Bumrai. The South African fast bowler Kugso Ravicada, Indian spinner, is in Ashwin.
 
-සිව් වැනි හා පස් වැනි ස්ථානවල පිළිවෙළින් පසු වන්නේ, ඔස්ට්‍රේලියානු වේගපන්දු යවන්නන් දෙපොළක් වන පැට් කමින්ස් සහ ජොෂ් හේසල්වුඩ් ය.
+Places of four-like and soil are neat, Australian fast bowlers, Pat Kamas and Josh Heselwood.
 
 ◼️
 
 [Data](articles/92222150.json)
+
+[Extended Data](ext_articles/92222150.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 16:17:13**
+As of **2024-02-07 16:32:38**
 
 ## Newspaper Stats
 
-*Scraped **5,467** Articles*
+*Scraped **5,475** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,65 +16,209 @@ economynextcom | 289
 dailyftlk | 305
 newsfirstlk | 339
 adalk | 465
-virakesarilk | 659
+virakesarilk | 662
 adaderanalk | 677
-tamilmirrorlk | 682
+tamilmirrorlk | 684
 adaderanasinhalalk | 709
-dailymirrorlk | 774
+dailymirrorlk | 777
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,462 (99.9%) of 5,467 articles have been extended.
+5,467 (99.9%) of 5,475 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### පාකිස්තානයේ පිපිරීමක්
+### யாழை வந்தடைந்தார் ஹரிகரன்
+
+*2024-02-07 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/175809) · `ta`
+
+யாழ்ப்பாணத்தில் நடைபெறவுள்ள இசை நிகழ்வுக்காக இந்திய பிரபல பாடகர் ஹரிகரன் இன்று புதன்கிழமை (07) யாழ்ப்பாணத்தை வந்தடைந்துள்ளனர்.
+
+யாழ்ப்பாணம் முற்றவெளி மைதானத்தில் நாளை மறுதினம் வெள்ளிக்கிழமை மாலை ஹரிகரனின் இசை நிகழ்வு நடைபெறவுள்ளது.
+
+நிகழ்வில் கலந்து கொள்வதற்காக பாடகர் ஹரிகரன் யாழ்ப்பாணம் சர்வதேச விமான நிலையம் ஊடாக யாழ்ப்பாணத்தை வந்தடைந்துள்ளனர்.
+
+◼️
+
+[Data](articles/d54a580b.json)
+
+---
+
+### பாகிஸ்தானில் இரு குண்டுவெடிப்புகள் : 20 பேர் பலி!
+
+*2024-02-07 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175808) · `ta`
+
+பாகிஸ்தானில் இடம்பெற்ற இரண்டு குண்டுவெடிப்புகளில்  சுமார் 20 பேர் உயிரிழந்துள்ளதாக வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+இந்தச் சம்பவங்களுக்கான  காரணத்தை கண்டறியும் முயற்சியில் பொலிஸார் ஈடுபட்டுள்ளனர், காயமடைந்தவர்கள்  வைத்தியசாலைகளில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/a332257c.json)
+
+---
+
+### திமிங்கல அம்பருடன் 3 சந்தேக நபர்கள் கைது
+
+*2024-02-07 15:52:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திமிங்கல-அம்பருடன்-3-சந்தேக-நபர்கள்-கைது/175-332839) · `ta`
+
+மிதக்கும் தங்கம் எனப்படும் சுமார் 3 கோடி பெறுமதியான 4 கிலோ 500 கிராம் திமிங்கல அம்பர் (திமிங்கல வாந்தி) சட்டவிரோதமான முறையில் விற்பனை செய்ய தயாராக இருந்த மூன்று சந்தேக நபர்கள் தெவிநுவர மற்றும் நகுலகமுவ பிரதேசத்தில் மிரிஸ்ஸ குற்றத்தடுப்பு பிரிவின் அதிகாரிகளால் கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/afd1da3b.json)
+
+---
+
+### ஒரே குடும்பத்தை சேர்ந்த 5 பேர் அகதிகளாக தமிழகத்தில் தஞ்சம்
+
+*2024-02-07 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175806) · `ta`
+
+நாட்டில் இருந்து அகதிகளாக ஒரே குடும்பத்தைச் சேர்ந்த 3 குழந்தைகள் உட்பட ஐந்து பேர் தமிழகத்தில் இன்று புதன்கிழமை (7) காலை தஞ்சமடைந்துள்ளனர்.
+
+நாட்டில் ஏற்பட்ட கடுமையான பொருளாதார நெருக்கடி காரணமாக கடந்த 2022 ஆண்டு மார்ச் மாதம் முதல்  தமிழர்கள் தனுஷ்கோடிக்கு அகதிகளாக சென்ற வண்ணம் உள்ளனர்.
+
+இந்நிலையில், ஒரே குடும்பத்தைச் சேர்ந்த 5 பேர் நேற்று புதன்கிழமை (6) மாலை மன்னாரில் இருந்து படகில் புறப்பட்டு இன்றைய தினம் அதிகாலை ராமேஸ்வரம் அடுத்துள்ள  தனுஷ்கோடி அரிச்சல்முனை ஒன்றாம் மணல் திட்டில் கடற்கரையை சென்றடைந்தனர்.
+
+தகவலறிந்த ராமேஸ்வரம் மரைன் பொலிஸார்  அவர்களை மீட்டு மண்டபம் மரைன் காவல் நிலையத்தில் வைத்து விசாரணை நடத்தி வருகின்றனர்.
+
+பாதுகாப்பு வட்டார அதிகாரிகளின் விசாரணைக்கு பிறகு 5 பேரும் மண்டபம் அகதிகள் முகாமில் ஒப்படைக்கப்பட உள்ளனர்.
+
+பொருளாதார நெருக்கடி காரணமாக  இலங்கையிலிருந்து தமிழகத்திற்கு சென்ற அகதிகளின் எண்ணிக்கை  293 ஆக அதிகரித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/7456e147.json)
+
+---
+
+### காம்பியா முறையில் முந்திரி பயிர் செய்கை
+
+*2024-02-07 15:47:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காம்பியா-முறையில்-முந்திரி-பயிர்-செய்கை/175-332838) · `ta`
+
+முந்திரி பயிர்ச்செய்கையில் காம்பியா பயன்படுத்தும் சாகுபடி தொழில்நுட்பத்தை இலங்கைக்கு வழங்க இலங்கையின் காம்பிய தூதுவர் தனது ஆதரவை தெரிவித்துள்ளார்.
+
+இலங்கையைப் போன்று சிறிய விவசாய நாடாக காம்பியா காணப்பட்டாலும் கடலை, முந்திரி போன்ற பல பயிர்களில் தன்னிறைவு பெற்றுள்ளதாக இலங்கைக்கான காம்பிய தூதுவர் முஸ்தபா ஜவர,  விவசாய அமைச்சர் மஹிந்த அமரவீரவிடம் தெரிவித்துள்ளார்.
+
+காம்பியாவில் பயிரிடப்படும் முந்திரி இந்தியா உட்பட பல நாடுகளுக்கு ஏற்றுமதி செய்யப்பட்டு அதிக வருமானம் ஈட்டுவதாகவும் தூதுவர் குறிப்பிட்டார்.
+
+இதன்போது கருத்து வெளியிட்ட விவசாய அமைச்சர் மஹிந்த அமரவீர, அதிக மகசூல் தரும் புதிய வகை முந்திரி இனங்களை இனங்கண்டு நடவடிக்கை எடுக்காததே இந்நாட்டில் முந்திரிச் செய்கை வீழ்ச்சிக்குக் காரணம் எனத் தெரிவித்தார். எனவே, காம்பியாவில் முந்திரி சாகுபடி தொழில்நுட்பத்தைப் பயன்படுத்துவதற்கான தொழில்நுட்ப ஆதரவை வழங்குமாறு காம்பியா தூதுவரிடம் அமைச்சர் கோரிக்கை விடுத்தார்.
+
+◼️
+
+[Data](articles/d523717e.json)
+
+---
+
+### Twin bombings kill at least 22 as Pakistan prepares for elections
+
+*2024-02-07 15:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Twin-bombings-kill-at-least-22-as-Pakistan-prepares-for-elections/108-276524) · `en`
+
+Pakistan, Feb. 07 (Aljazeera)-Two bombs in Pakistan’s southwestern province of Balochistan have killed at least 22 people with more injured.
+
+The twin blasts on Wednesday came a day before elections. The attacks targeted the election offices of political parties in the restive region.
+
+The first attack, which killed 12 people, took place at the office of independent election candidate Asfandyar Khan Kakar in Pishin district near the border with Afghanistan, police sources told Al Jazeera.
+
+The second explosion in Qilla Saifullah detonated near an office of Jamiat Ulema Islam (JUI), a religious party that has previously been the target of attacks, according to the province’s information minister.
+
+Jumma Dad Khan, the deputy commissioner of Pishin district, said the blast there injured many people. Some are in serious condition, the medical superintendent at Khanozai Hospital told Al Jazeera.
+
+...
+
+[Data](articles/eab031c8.json)
+
+---
+
+### Undercover police deployed in public transport to tackle abuse
+
+*2024-02-07 15:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Undercover-police-deployed-in-public-transport-to-tackle-abuse/108-276523) · `en`
+
+Colombo, Feb 07 (Daily Mirror) - An island-wide police operation targeting individuals who commit acts of abuse against children and women in public transport has been initiated.
+
+The Public Security Ministry said the operation's primary objective is to combat sexual abuse within public transport services, addressing the increasing number of complaints received by police stations on a daily basis.
+
+Acting Inspector General of Police Deshabandu Tennakoon has directed the implementation of this operation.
+
+The IGP instructed the police to prioritize operations between 08:00-10:00 and 17:00-19:00, emphasizing peak hours of public transport usage.
+
+Accordingly, police officers in civilian clothes will travel in buses, with special attention being paid to streets, bus stops and railway stations.
+
+...
+
+[Data](articles/ef3574f7.json)
+
+---
+
+### Explosion in Pakistan
 
 *2024-02-07 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193087) · `si`
 
-පාකිස්තානයේ සිදුවූ බෝම්බ පිපිරීම් දෙකකින් ආසන්න වශයෙන් පුද්ගලයින් 20ක් මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+Approximately 20 people have been killed in two bomb blasts in Pakistan.
 
-එරට මහ මැතිවරණයේ ස්වාධීන අපේක්ෂකයෙකුගේ පක්ෂ කාර්යාලයක් අසළ පළමු පිපිරීම සිදුව තිබේ.
+The first explosion took place near a party office in an independent candidate in the country.
 
-ඉන් ආසන්න වශයෙන් පුද්ගලයින් 12 දෙනෙකු මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Approximately 12 people have died, foreign media reports say.
 
-එසේම දෙවන පිපිරීම Qillah Saif Ullah දිස්ත්‍රික්කයේ සිදුව ඇති අතර ඉන් පුද්ගලයින් 8 දෙනෙකු මියගොස් ඇත.
+The second explosion has occurred in the QillaH saif ULLAH, and eight of them have died.
 
-පිපිරීම් හේතුවෙන් තුවාල ලැබූ පිරිසක් රෝහල්ගතකර ඇති බවද විදෙස් මාධ්‍ය වාර්තා කරයි.
+Foreign media reports that a group of people were hospitalized due to explosions.
 
-එම පිපිරීම්වල වගකීම මේ දක්වා කිසිවෙකුත් භාරගෙන නොමැති බවද එරට බලධාරීන් උපුටා දක්වමින් විදෙස් මාධ්‍ය සඳහන් කරයි.
+UPFA, there has been none of the responsibility of those blasts.
 
-හෙට දිනයේ එරට මහ මැතිවරණය පැවැත්වීමට නියමිත පසුබිමක මෙම පිපිරීම් සිදුවීම සම්බන්ධයෙන් ලෝකයේම අවධානය පාකිස්තානය වෙත යොමුව තිබේ.
+The world's focus on Pakistan has focused on Pakistan on a backdrop for tomorrow.
 
 ◼️
 
 [Data](articles/d1d1223a.json)
 
+[Extended Data](ext_articles/d1d1223a.ext.json)
+
 ---
 
-### මිචිගන් ඝාතකයාගේ මවටත් දඬුවම්
+### SJB decides not to support government anymore: Kiriella
+
+*2024-02-07 15:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-decides-not-to-support-government-anymore-Kiriella/108-276521) · `en`
+
+Colombo, Feb. 07 (Daily Mirror)- The Samagi Jana Balawegaya (SJB) will not support the government despite the President's appeals, as the government has acted arbitrarily during the recent past, Chief Opposition Whip Lakshman Kiriella said today.
+
+He told a news conference at the Parliament Complex that the President keeps appealing to the Opposition to join hands with the government whereas the government has shown no concerns for the opposition.
+
+MP Kiriella said the government attacked the peaceful protest organised by the Samagi Jana Balawegaya and that it was attempting to obtain SJB support by force.
+
+"We continued to support the government. We supported it to pass several Acts such as the 21st Amendment. However, the government has acted arbitrarily during the recent past," he said.
+
+...
+
+[Data](articles/0ff95786.json)
+
+---
+
+### The mother of Michigan killer's mother
 
 *2024-02-07 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193086) · `si`
 
-සිය දරුවා විසින් මිචිගන් පාසලක සිදු කළ වෙඩි තැබීමක් වළක්වා නොගත් බවට චෝදනා කරමින් එම එම දරුවාගේ මව වැරදිකරු බව ජූරියක් විසින් තීන්දු කර තිබේ.
+The mother of the child has decided that the mother's mother was convicted of a michigan shooting at a school.
 
-ඇයට එරෙහි ව මනුෂ්‍ය ඝාතන චෝදනා එල්ල කර ඇත්තේ, ඔවුන්ගේ දරුවා විසින් සිදු කළ සමූහ ඝාතනයක් වළක්වා ගැනීමට කටයුතු නොකළ බවට චෝදනා කරමිනි.
+The murder against her accused her that he did not take action to prevent a massacre of their child.
 
-ඒ අනුව අමෙරිකාවේ දරුවෙක් සිදු කළ සමූල ඝාතනයක් සම්බන්ධයෙන් දෙමව්පියෙකුට දැඩි දඬුවමක් ලබාදුන් පළමු අවස්ථාව මෙය බව සැලකෙයි.
+This is the first time a parent has punished for a massacre in the United States.
 
-පැමිණිල්ලේ නීතිඥයින් පෙන්වා දෙන්නේ, අනතුරක් සිදු කළ හැකි බවට තිබූ අනතුරු ඇඟවීම නොසලකා හැර ඔහුට ගිනි අවියක් හිමිකර ගෙන සිටීමට ඉඩ සැලසීම යන චෝදනා ඇයට එල්ල ව ඇති බවයි.
+The complaint shows that she has accused her to allow him to allow a firearm and to allow him to bear a firearm.
 
-ඇයගේ සැමියාට එරෙහි ව ද එවැනි ම චෝදනා මත නඩු පැවරුණු අතර, නමුත් ඔහු තමා නිවැරදිකරු බව පැවසීය.
+He was prosecuted against her husband, but he said he was right.
 
-ඔවුන්ගේ 17 හැවිරිදි පුත්‍රයා, 2021 වසරේ නොවැම්බර් 30 වනදා මිචිගන්හි ඔක්ස්ෆර්ඩ් උසස් පාසලේ සිසුන් සිව් දෙනෙකු වෙඩි තබා ඝාතනය කළේය.
+Their 17-year-old son shot four students of Oxford High School in Michigan, November 30, 2021.
 
 ◼️
 
 [Data](articles/2b95d782.json)
+
+[Extended Data](ext_articles/2b95d782.ext.json)
 
 ---
 
@@ -104,49 +248,55 @@ There have been violent incidents in both Balochistan and Khyber Pakhtunkhwa pro
 
 ---
 
-### අනියම් ප්‍රේමය ජීවිත දෙකක් බිලි ගනී
+### Casual love takes two lives
 
 *2024-02-07 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193085) · `si`
 
-අනියම් සම්බන්ධතාවයක් මත ඇතිවූ ආරවුලක් හේතුවෙන් සූරියවැව, පෝල්පහ ප්‍රදේශයේදී දෙදරු මව කපාකොටා ඝාතනය කිරීමේ සිද්ධියේ ප්‍රධාන සැකකරු ගෙළ වැළලාගෙන මියගොස් සිටියදී හමුවී තිබේ.
+Due to a dispute over a casual affair, the murder of two suspects were killed and the murder of two deaths in Portal.
 
-සැකකරු සූරියවැව, බැද්දෙවැව විහාරස්ථානය ආසන්නයේ ගසක ගෙළ වැළලාගෙන මියගොස් සිටියදී අද (07) පෙරවරුවේ සොයා ගත් බව සූරියවැව පොලීසිය පැවසීය.
+The suspect was found in a tree near the village near the Suriyawewa and Beddadawewa temple, Sooriyawewa Police said.
 
-මෙලෙස සියදිවි නසාගෙන ඇත්තේ සූරියවැව, බැද්දේවැව පෝල්පහ ප්‍රදේශයේ පදිංචි ප්‍රදීප් අනුරාධ නමැති 39 හැවිරිදි තිදරු පියෙකි.
+The suspect was a 39 year old father, a resident of Pradeep Anuradha in Beddadawewa.
 
-මියගිය සැකකරු විසින් සූරියවැව පෝල්පහ ප්‍රදේශයේම පදිංචි 38 හැවිරිදි දෙදරු මවක වූ සුරංගිකා නදීශානී නමැති කාන්තාවගේ හිස ප්‍රදේශයට තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබුණි.
+The deceased has been assaulted by a 38-year-old woman, a 38-year-old woman named Suranga Nadeeshani.
 
-සිද්ධිය සම්බන්ධයෙන් සූරියවැව පොලීසිය වැඩිදුර පරීක්ෂණ පැවැත්වු අතර එහිදී අනාරවරණය වී තිබුණේ මියගිය කාන්තාව හා සැකකරු අතර කලක් තිස්සේ අනියම් සම්බන්ධතාවයක් පවත්වා ඇති බවය.
+Sooriyawewa police were conducting further investigations and the victim had been a casual relationship with the deceased woman and the suspect.
 
-දෙදෙනා අතර ඇතිවූ ආරවුලක් හේතුවෙන් සැකකරු විසින් ඇයව  ඝාතනය කර ඇති බවද සැක කෙරෙයි.
+It is suspected that the suspect has been killed by the suspect due to the dispute between the two.
 
-සැකකරු විසින් ඇයව ඝාතනය කිරිමෙන් පසු ඒ පිළිබඳව සූරියවැව පොලීසියටද දුරකථන ඇමතුමක් ලබාදී ප්‍රදේශයෙන් පළාගොස් තිබුණි.
+After the suspect, the suspect had fled the Sooriyawewa Police regarding the matter.
 
-...
+Accordingly, the suspect has committed suicide by the suspect has committed suicide by hanging himself in a tree near the Beddagewe Viharaya, Suspect.
+
+◼️
 
 [Data](articles/d0d098a7.json)
 
+[Extended Data](ext_articles/d0d098a7.ext.json)
+
 ---
 
-### ස්ත්‍රී දූෂණ නඩුවකට සිර දඬුවම් ලැබූ පුද්ගලයෙකු නිදොස් කොට නිදහස් කරයි
+### A person who is sentenced to a rape laborator is acquitted
 
 *2024-02-07 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193084) · `si`
 
-තරුණ එක්දරු මවක් දූෂණය කිරීමේ සිද්ධියක් සම්බන්ධයෙන් දඬුවම් නියමව සිටි 'පොඩී' නැමැත්තා අභියාචනාධිකරණය විසින් නිදොස් කොට නිදහස් කර තිබේ.
+The Court of Appeal has been acquitted by the Court of Appeal.
 
-විත්තිකරු විසින් ගොනුකර තිබූ අභියාචනයක් සළකා බැලූ මේනකා විජේසුන්දර සහ ශෂී මහේන්ද්‍රන් යන විනිසුරු මඩුල්ල මෙම නියෝගය ලබාදී ඇත.
+The panel of judges has been given this order to appeal filed by the accused.
 
-නිවසට ගෙනගොස් ඇරලවන බවට පොරොන්දු වී සිය යතුරුපැදියට නංවාගත් තරුණ එක්දරු මවක් කැලෑබද ප්‍රදේශයකදී දූෂණය කළ බවට ඔහුට චෝදනා එල්ලවී තිබුණි.
+He had been accused of raping a mother of young people who had promised to get into the house and had raped a young mother in the jungle.
 
-2022 වර්ෂයේ ඔක්තෝබර් මස 20 වනදා හම්බන්තොට මහාධිකරණය විසින් සැකකරුට එම චෝදනාවට වසර 8ක සිරදඬුවම් සහ රුපියල් 5000ක දඩයක් නියම කර තිබුණි.
+On October 20, 2022, the Hambantota High Court was sentenced to eight years in prison and fined Rs 5,000.
 
-එසේම එහිදී අධිකරණය  හම්බන්තොට මහාධිකරණය විසින් විත්තිකරු වෙත නියෝග කර තිබුණේ වින්දිත කාන්තාවට රුපියල් 150,000ක දඩයක් ද ගෙවන ලෙසටය.
+The court high court was directed to the victim to pay a fined Rs. 150,000 to the victim.
 
-දූෂණයට ලක්වූයේ යැයි කියන කාන්තාව අධිකරණය හමුවේ ලබාදුන් සාක්ෂිය අනුව එවැනි දූෂණයක් ඇයගේ කැමැත්තකින් තොරව කිසිසේත්ම සිදුවිය නොහැකි බව පෙන්වාදෙමින් විත්තිකාර අභියාචක වෙනුවෙන් පෙනීසිටි ජ්‍යෙෂ්ඨ නීතිඥ ගාමිණී පෙරේරා මහතා කළ කරුණු දැක්වීම සලකා බැලූ අභියාචනාධිකරණ විනිසුරු මඩුල්ල මෙම නියෝගය ලබාදී තිබේ.
+The Bench of the Court of Appeal has issued this order by the proof of the evidence of the evidence of the evidence that the woman who was assaulted by the evidence of the evidence of the evidence.
 
 ◼️
 
 [Data](articles/7ab12ae5.json)
+
+[Extended Data](ext_articles/7ab12ae5.ext.json)
 
 ---
 
@@ -170,27 +320,31 @@ Amber, which is caused by sperm and vomiting emanating from the body of the whal
 
 ---
 
-### ප්‍රභාත් ජයසූරිය ඉදිරියට
+### Prabath Jayasuriya advance
 
 *2024-02-07 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193082) · `si`
 
-අන්තර්ජාතික ක්‍රිකට් කවුන්සිලය (ICC) විසින් නිකුත් කළ නවතම ටෙස්ට් පන්දු යවන්නන්ගේ ශ්‍රේණිගත කිරීම්වලට අනුව, දඟපන්දු යවන ක්‍රීඩක ප්‍රභාත් ජයසූරිය ශ්‍රේණිගත කිරීම්වල ඉදිරියට පැමිණ තිබේ.
+According to the International Cricket Council (ICC) rankings of the spinied player Prabath Jayasuriya, the rankings of the International Cricket Council (ICC) have come forward in ratings.
 
-ඔහු මීට පෙර ටෙස්ට් පන්දු යවන්නන්ගේ ශ්‍රේණිගත කිරීම්වල 09 වැනි ස්ථානයේ පසු වූ අතර, නවතම ශ්‍රේණිගත කිරීම්වල 06 වැනි ස්ථානය දක්වා ඉදිරියට පැමිණ ඇත.
+He had previously been after the 9th place in Test bowler ratings.
 
-නිමා වූ ශ්‍රී ලංකා - ඇෆ්ගනිස්තාන ටෙස්ට් තරගයේ දී දැක්වූ දස්කම් සමඟ ප්‍රභාත් ජයසූරිය මෙසේ ශ්‍රේණිගත කිරීම්වල ඉදිරියට පැමිණ තිබේ.
+Prabath Jayasuriya has come forward with the performers of the Sri Lanka-Afghanistan Test series.
 
-ඇෆ්ගනිස්තාන ටෙස්ට් තරගයේ, තරගයේ වීරයේ බවට පත් වූයේ ද ප්‍රභාත් ජයසූරියයි.
+Prabath Jayasuriya was the Afghanistan Test series, the Prabath Jayasuriya.
 
-ශ්‍රේණිගත කිරීම්වල පෙරමුණේ පසු වන්නේ, ඉන්දීය වේගපන්දු යවන ක්‍රීඩක ජස්ප්‍රිට් බුම්‍රා වන අතර, දෙවැනි ස්ථානයේ පසු වන්නේ, දකුණු අප්‍රිකානු වේගපන්දු යවන ක්‍රීඩක කගීසෝ රබාඩායි.
+The rankings of the rankings are the Indian fast bowler Jaschprit Burma, while South African fast bowler are the South African fast bowler Kugso.
 
-ඉන්දීය දඟපන්දු යවන ක්‍රීඩක රවිචන්ද්‍රන් අශ්වින් ශ්‍රේණිගත කිරීම්වල තෙවැනි ස්ථානයේ පසු වේ.
+Indian spinner Ravichandran is the third place in Ashwin ratings.
 
-සිව් වැනි හා පස් වැනි ස්ථානවල පිළිවෙළින් පසු වන්නේ, ඔස්ට්‍රේලියානු වේගපන්දු යවන්නන් දෙපොළක් වන පැට් කමින්ස් සහ ජොෂ් හේසල්වුඩ් ය.
+Places of four-like and soil are neat, Australian fast bowlers, Pat Kamas and Josh Heselwood.
 
-...
+There is no other Sri Lankan bowler or other 20 Sri Lankan bowler ratings except Prabath Jayasuriya.
+
+◼️
 
 [Data](articles/b3a1bd75.json)
+
+[Extended Data](ext_articles/b3a1bd75.ext.json)
 
 ---
 
@@ -1893,153 +2047,5 @@ The President is due to present the government's policy statement to parliament 
 [Data](articles/a7190169.json)
 
 [Extended Data](ext_articles/a7190169.ext.json)
-
----
-
-### Former Commander of the former Navy Commander
-
-*2024-02-07 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193070) · `si`
-
-Former Navy Commander and Chief of Defense Staff Daya Sandagiriya has joined the reconciliation.
-
-The 14th Navy Commander of the Sri Lanka Navy, Pension, Daya Sandagar (DS), PSC, FCK (DS), and joined the reservion leader Sajith Premadasa.
-
-Opposition Leader Sajith Premadasa has been appointed as a consultant on the Marine and Navigation Advisor of the massive knowledge on the maritime and naval industry.
-
-◼️
-
-[Data](articles/771de21a.json)
-
-[Extended Data](ext_articles/771de21a.ext.json)
-
----
-
-### Former Navy Commander Daya Sandagiri joins SJB
-
-*2024-02-07 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97071/former-navy-commander-daya-sandagiri-joins-sjb-) · `en`
-
-The 14th Commander of Sri Lanka Navy and former Chief of Defence Staff, Daya Sandagiri has joined the Samagi Jana Balawegaya (SJB).
-
-He was also appointed as an advisor on maritime and naval policies of the SJB, due to his expertise.
-
-◼️
-
-[Data](articles/c0a31a8b.json)
-
-[Extended Data](ext_articles/c0a31a8b.ext.json)
-
----
-
-### Ex-Navy Commander Daya Sandagiri joins SJB
-
-*2024-02-07 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97071/ex-navy-commander-daya-sandagiri-joins-sjb-) · `en`
-
-Former Navy Commander and Chief of Defence Staff Daya Sandagiri has joined the main opposition Samagi Jana Balawegaya (SJB).
-
-◼️
-
-[Data](articles/d8b703be.json)
-
-[Extended Data](ext_articles/d8b703be.ext.json)
-
----
-
-### Chile ex-president Sebastian Pinera dies in helicopter crash
-
-*2024-02-07 09:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Chile-ex-president-Sebastian-Pinera-dies-in-helicopter-crash/107-276493) · `en`
-
-Chile, Feb 07 (Aljazeera) Chile’s former President Sebastian Pinera, a billionaire tycoon who twice held the South American nation’s top job, has died in a helicopter crash, his office said in a statement.
-
-“It is with deep regret that we announce the death of the former president of the Republic of Chile,” said the statement on Tuesday, adding that 74-year-old Pinera had died in the popular vacation spot Lago Ranco, some 920km (570 miles) south of Santiago.
-
-Chile Interior Minister Carolina Toha confirmed the death of the former president. No further details were immediately released about the cause of the accident.
-
-Chile’s national disaster agency SENAPRAD confirmed that one person had been killed and three people injured. The government did not immediately name who was aboard.
-
-...
-
-[Data](articles/632c7a3c.json)
-
-[Extended Data](ext_articles/632c7a3c.ext.json)
-
----
-
-### Murder due to a kicre
-
-*2024-02-07 09:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193068) · `si`
-
-A kizzen climbing incident was taken away from two inmates.
-
-The murder of the murder had been carried out by the murder by one inmate.
-
-The inmate of the prisoner had been unconscious with a high bleeding of a cement.
-
-The victim is a detaine named Money Kinniya Maharupp Nagar, Trincomalee.
-
-The murder remains were detained in the same prison intentional murder.
-
-◼️
-
-[Data](articles/a8e3a58d.json)
-
-[Extended Data](ext_articles/a8e3a58d.ext.json)
-
----
-
-### Sri Lanka’s pursuit of free trade deals crucial for economic stability, growth - Sabry
-
-*2024-02-07 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97070/sri-lankas-pursuit-of-free-trade-deals-crucial-for-economic-stability-growth-sabry) · `en`
-
-Minister of Foreign Affairs, Ali Sabry says strengthening and carrying forward President Ranil Wickremesinghe’s program to establish free trade agreements (FTAs) with other countries is crucial to ensure Sri Lanka’s economic stability and prevent future downturns.
-
-Speaking at a press briefing titled “Collective Path to a Stable Country” held at the President Media Centre (PMC) on Tuesday (Feb.06), Minister Sabry elaborated on the government’s plans to establish FTAs with India, Indonesia, Malaysia, Vietnam, and China by the end of 2024. He expressed optimism that these agreements would open up new markets for Sri Lankan businesses, contributing directly to the nation’s economic growth.
-
-Minister Sabry highlighted the recent FTA with Thailand as a historic step towards achieving President Wickremesinghe’s vision of a stable economy. He emphasized that this agreement has already provided Sri Lanka access to a USD 2.2 billion market, representing a significant advancement.
-
-...
-
-[Data](articles/2477eaf4.json)
-
-[Extended Data](ext_articles/2477eaf4.ext.json)
-
----
-
-### Talk of The Town | What’s next for SLFP? | Thilanga Sumathipala | 07 February 2024
-
-*2024-02-07 09:25:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/talk-of-the-town-what-s-next-for-slfp-thilanga-sumathipala-07-february-2024/) · `en`
-
-Talk of The Town | What's next for SLFP? | Thilanga Sumathipala | 07 February 2024
-
-Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
-
-◼️
-
-[Data](articles/241ec358.json)
-
-[Extended Data](ext_articles/241ec358.ext.json)
-
----
-
-### 785 arrested under justice operation
-
-*2024-02-07 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193067) · `si`
-
-785 suspects have been arrested in the 24-hour operations throughout the country.
-
-In the meantime, 189 suspects were in the list of drug misbehavior and the list of criminal sections.
-
-Among the 596 suspects of drug misconduct, seven suspects have been reigned by 7 drug addicts to rehabilitate 4 drug addicts.
-
-11 suspects have been arrested in the list of the Police Narcotics Bureau and the Police Special Secretariat.
-
-According to the police, there were 29,000 suspects who were released in the list of the suspects in the list of the criminal section and 155 open warrants on drugs.
-
-Five suspects have been arrested in operations.
-
-◼️
-
-[Data](articles/2b96b022.json)
-
-[Extended Data](ext_articles/2b96b022.ext.json)
 
 ---

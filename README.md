@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 07:15:11**
+As of **2024-02-07 07:29:58**
 
 ## Newspaper Stats
 
@@ -26,39 +26,43 @@ dailymirrorlk | 755
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,321 (100.0%) of 5,323 articles have been extended.
+5,323 (100.0%) of 5,323 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### බෙලිඅත්ත ඝාතනයේ තවත් සැකකරුවෙක් අත්අඩංගුවට
+### Another suspect in Beliatta murder arrested
 
 *2024-02-07 06:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193062) · `si`
 
-බෙලිඅත්තේ පංච පුද්ගල ඝාතනයට අදාළව තවත් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+Another suspect has been arrested in connection with the beerest murder in Beliatta.
 
-ඒ සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනවලට අදාළව ඊයේ (06) දින බෙලිඅත්ත පොලීසියට නීතිඥවරයෙකු මාර්ගයෙන් ඉදිරිපත් වූ පුද්ගලයෙකු මෙලෙස සැකපිට අත්අඩංගුවට ගෙන ඇත.
+The Beliatta Police have arrested a lawyer on suspicion yesterday (06).
 
 ◼️
 
 [Data](articles/a28d62ea.json)
 
+[Extended Data](ext_articles/a28d62ea.ext.json)
+
 ---
 
-### උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක්
+### In the morning of the morning there was a
 
 *2024-02-07 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193060) · `si`
 
-අද (07) දිනයේ දිවයිනේ ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතිනු ඇති බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Met Department forecasts that there would be a key weather in the country today (07).
 
-අලුයම් කාලයේදී නුවරඑළිය දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවල මල්තුහින ඇතිවීමේ හැකියාවක් ද පවතී.
+There are also a possibility of a courageous in some parts of the Nuwara Eliya district during the morning.
 
-මධ්‍යම, සබරගමුව, බස්නාහිර සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරයි.
+Some locations in the Galle, Sabaragamuwa, Western and Uva provinces are expected to be methavior in the Galle and Matara districts.
 
 ◼️
 
 [Data](articles/5b360171.json)
+
+[Extended Data](ext_articles/5b360171.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 20:49:41**
+As of **2024-02-07 21:02:38**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ dailymirrorlk | 783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,521 (99.9%) of 5,528 articles have been extended.
+5,528 (100.0%) of 5,528 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### වස මිශ්‍ර කර කිරිපැකට්ටුවක් දුන් සැකකරු සොයා විමර්ශන ඇරඹෙයි
+### The suspect who gave birth to milk by mixing the milk
 
 *2024-02-07 20:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193098) · `si`
 
-ආදුරුප්පුවීදිය පොලීසියේ සිර මැදිරියේ සිටි සැකකරුවන් දෙදෙනෙකු කිසියම් පුද්ගලයෙකු ලබාදුන් කිරි පැකට්ටුවක් පානය කිරීම නිසා රෝගී වී රෝහල්ගත කර ඇත.
+Two suspects in the train compartment of the Master of the Adrappyupuwara Police have been admitted to hospital.
 
-වෙඩි තැබීමක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන තිබූ ඔවුන්ට ලබාදුන් කිරි පැකට්ටුවේ වස මිශ්‍ර කර ඇති බවට පොලීසිය සැක පළ කරයි.
+Police suspect that the dairy packet provided to them in connection with a shooting, police suspect that the poison is mixed.
 
-ජින්තුපිටිය ප්‍රදේශයේ දී පසුගිය ජනවාරි 25 වැනි දා යතුරුපැදියකින් පැමිණි පුද්ගලයන් දෙදෙනෙකු විසින් සිදු කළ වෙඩි තැබීමකින් තරුණයෙකු තුවාල ලබා ඇත.
+A youth was injured in a shooting carried out by two people from January 25 in the Jidtapitiya area.
 
-එහි දී ප්‍රදේශවාසින් විසින් එක් සැකකරුවකු අල්ලාගත් අතර, වෙඩික්කරු යතුරුපැදිය ද දමා එම ස්ථානයෙන් පළා ගොස් තිබේ.
+Residents were captured by a suspect, and the shooter had fled the site.
 
-පසු ව විමර්ශන සිදු කළ පොලීසිය ආරක්ෂක අංශයකින් පළාවිත් සිටින වෙඩික්කරු දඹාන ප්‍රදේශයේ දී අත්අඩංගුවට ගත් අතර, ඔහු ව ආදුරුප්පුවීදිය පොලීසියට රැගෙනවිත් රඳවාගෙන ප්‍රශ්න කරනු ලැබිණි.
+The victims were arrested in the Dambana area and had been detained in the Dambana area and questioned the Adolappherediya police.
 
-ඒ අනුව ඔහුට ආධාර අනුබල දුන් තවත් සැකකරුවකු අත්අඩංගුවට ගැනුණු අතර, සැකකරුවන් දෙදෙනාම ආදුරුප්පුවීදිය පොලීසියේ එකම සිරකුටියක් තුළ රඳවා විමර්ශන සිදු කර තිබේ.
+Another suspected suspect who supported him was arrested and both have conducted detainees in the same prison in the same prison in the Devilupuwiiya police.
+
+The shooter's girlfriend has come to the police to hear his voduner in such a background this morning, another suspect has also visited the other suspect.
+
+The man had gone to the suspects and had left fish buns and a packet of milk.
 
 ...
 
 [Data](articles/fb97a7f1.json)
+
+[Extended Data](ext_articles/fb97a7f1.ext.json)
 
 ---
 
@@ -88,6 +94,8 @@ The complaint was lodged citing suspicions surrounding the circumstances of the 
 
 [Data](articles/82860e25.json)
 
+[Extended Data](ext_articles/82860e25.ext.json)
+
 ---
 
 ### UNICEF urges focus on non-custodial rehabilitation for juvenile offenders
@@ -104,21 +112,25 @@ The CYPO, a legislation governing justice for children in Sri Lanka since 1939, 
 
 [Data](articles/bdfd25c1.json)
 
+[Extended Data](ext_articles/bdfd25c1.ext.json)
+
 ---
 
-### අනුර දිසානායක සහ ගුජරාට් මහ ඇමති අතර හමුවක්
+### Anura Dissanayake and Gujarat meets
 
 *2024-02-07 19:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193097) · `si`
 
-ඉන්දියාවේ විශේෂ සංචාරයක නිරත ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා ඇතුළු පිරිස අද (07) ගුජරාට් ප්‍රාන්ත ව්‍යවස්ථාදායක සභාවේ දී ප්‍රාන්ත ප්‍රධාන අමාත්‍ය බූපෙන්ද්‍රභායි පටෙල් මහතා හමු විය.
+Leader of the National Jones of Power in India and others met with the Chief Minister of the Gujarattha Master of the Gujarattu Stagnan Legislative Council today (07).
 
-එහි දී ප්‍රාන්තය තුළ දිළිඳුකම පිටුදැකීම සහ සංවර්ධනය සඳහා අනුගමනය කර ඇති උපායමාර්ග පිළිබඳ සාකච්ඡා කර තිබේ.
+It has discussed strategies adopted into poverty abolishing and development in the state.
 
-අනතුරුව අනුර කුමාර දිසානායක මහතා ඇතුළු පිරිස ගුජරාට් ප්‍රාන්තයේ කර්මාන්ත අමාත්‍ය බල්වාන්සිං රාජ්පුට් මහතා හමු වී ගුජරාට් ආදර්ශය සැලැස්ම පිළිබඳ සාකච්චා කර ඇති අතර, අහමදාබාද්හි කෘෂිකාර්මික ප්‍රදේශය හා කෘෂිපාදක කර්මාන්ත නිරීක්ෂණයට ද එක් වී ඇත.
+After the afterward of Anura Kumara Dissanayake, the Minister of Industry, Bulwanzing Rajfot, has discussed the plan of the Gujanarat Example.
 
 ◼️
 
 [Data](articles/5dd36cd3.json)
+
+[Extended Data](ext_articles/5dd36cd3.ext.json)
 
 ---
 
@@ -142,27 +154,31 @@ Parliamentarian Kiriella said the government had attacked the peaceful struggle 
 
 ---
 
-### බස් රථවල දී සිදු වන ලිංගික හිංසන වැළැක්වීමට මෙහෙයුමක්
+### Operation to prevent sexual violence in buses
 
 *2024-02-07 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193096) · `si`
 
-බස් රථවල දී කාන්තාවන්ට හා ළමයින්ට ලිංගික හිරිහැර සිදු කරන සැකකරුවන් අත්අඩංගුවට ගැනීමේ දීපව්‍යාප්ත මෙහෙයුමක් පොලීසිය විසින් අද (07) ආරම්භ කරනු ලැබිණි.
+Police have launched a wide operation to arrest women and children in buses today (07).
 
-රහසිගත කැමරා සවිකරගත් සිවිල් පොලිස් නිලධාරින්ගෙන් සමන්විත කණ්ඩායම් 234ක් මේ සඳහා යොදා ගැනිණි.
+There were 234 teachers comprising civil police officers who installed secret cameras.
 
-කාන්තාවන් සහ ළමයින් ලිංගික හිරිහැර සහ අතවරවලට ලක්වීම් විවිධ අවස්ථාවල දී වාර්තා වේ.
+Women and children are reportedly involved in sexual harassment and abuse.
 
-බස් රථ, දුම්රිය ඇතුළු පොදු මගී ප්‍රවාහන සේවා ඒ අතර ප්‍රධානයි.
+General passenger services, including buses, trains, is presented among them.
 
-එවැනි ඇතැම් සිදුවීම් සම්බන්ධයෙන් වැරදිකරුවන්ට දඬුවම් හිමි වුව ද බොහෝ සිදුවීම් පොලීසියට හෝ කිසිදු නීතිමය බලධාරියෙකු වෙත වාර්තා වන්නේ ද නැත.
+Although the offenders have been punished for certain events, there are no reports to the police or any legal authority.
 
-මේ හේතුවෙන් බස් රථවල දී කාන්තාවන්ට සහ ළමයින්ට සිදු වන ලිංගික හිරිහැර සම්බන්ධයෙන් විමර්ශනය කරමින් සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා විශේෂ මෙහෙයුමක් අද කොළඹින් ආරම්භ විය.
+As a result of this, a special operation commenced in Colombo today to investigate the suspects following the sexual harassment of women and children.
 
-මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් සහ වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් යන මහත්වරුන්ගේ උපදෙස් පරිදි මෙහෙයුම සිදු කෙරෙන්නේ ළමා හා කාන්තා අපයෝජන නිවාරණ හා විමර්ශන දිසාව භාර නියෝජ්‍ය පොලිස්පති රේණුකා ජයසුන්දර මහත්මියගේ ප්‍රධානත්වයෙනි.
+Tiran Alles and Acting Inspiration Inspector General of Police, the operation is due to the head of the Child and Women's Abuse Prevention and DIG Renuka Jayasundara.
+
+There are 234 teams including police officers who installed police officers and secret cameras in civilian clothes.
 
 ...
 
 [Data](articles/64c8aa45.json)
+
+[Extended Data](ext_articles/64c8aa45.ext.json)
 
 ---
 
@@ -182,23 +198,27 @@ He has lodged a complaint with the death of former diplomatic minister Sanath Ni
 
 ---
 
-### பேருந்தில் சில்மிஷம் செய்பவர்களுக்கு விசேட அறிவித்தல்
+### A special notification for the buses on the bus
 
 *2024-02-07 19:33:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்தில்-சில்மிஷம்-செய்பவர்களுக்கு-விசேட-அறிவித்தல்/175-332848) · `ta`
 
-பொதுப் போக்குவரத்தில் சிறுவர்கள் மற்றும் பெண்களுக்கு எதிராக துஷ்பிரயோகங்களில் ஈடுபடும் நபர்களை இலக்கு வைத்து நாடளாவிய ரீதியில் பொலிஸ் நடவடிக்கை ஒன்று ஆரம்பிக்கப்பட்டுள்ளது.
+A police operation has been launched nationwide targeting people involved in abuse against children and girls in public transport.
 
-தினசரி அடிப்படையில் பொலிஸ் நிலையங்களுக்கு வரும் முறைப்பாடுகளின் எண்ணிக்கையின் அதிகரிப்பை மையமாக கொண்டு பொதுப் போக்குவரத்துச் சேவைகளுக்குள் பாலியல் துஷ்பிரயோகத்தை எதிர்த்துப் போராடுவதே இந்த நடவடிக்கையின் முதன்மை நோக்கமாகும் என்று பொது பாதுகாப்பு அமைச்சகம் தெரிவித்துள்ளது.
+The main purpose of the move is to fight sexual abuse within public transport services, focusing on the number of complaints to the police stations on a daily basis, the Ministry of Public Security said.
 
-இந்த நடவடிக்கையை அமுல்படுத்துமாறு பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் பணிப்புரை விடுத்துள்ளார்.
+The Inspector General of Police, Deshabandu, has issued a directive to implement the move.
 
-பொதுப் போக்குவரத்து அதிகமாக உள்ள காலை 08:00-10:00 மற்றும் மாலை 17:00-19:00 ஆகிய நேரங்களில் இந்நடவடிக்கைகளுக்கு முன்னுரிமை அளிக்குமாறு, பொலிஸாருக்கு ஐஜிபி அறிவுறுத்தியுள்ளார்.
+The IGP has advised the police to prioritize these measures at 08: 00-10: 00 and 00-19: 00 in the morning.
 
-அதன்படி, வீதிகள், பஸ் நிலையங்கள் மற்றும் புகையிரத நிலையங்களில் விசேட கவனம் செலுத்தப்பட்டு, சிவில் உடையில் பொலிஸ் உத்தியோகத்தர்கள் பஸ்களில் பயணிப்பார்கள்.
+Accordingly, special attention is paid to the roads, bus stations and railway stations and police officers in civil clothes will travel on buses.
 
-...
+Arrangements have been made to provide uniformed police officers, especially the main streets, ready to provide assistance to the officers of civil clothes when they need help.
+
+◼️
 
 [Data](articles/79ff8f35.json)
+
+[Extended Data](ext_articles/79ff8f35.ext.json)
 
 ---
 
@@ -350,19 +370,21 @@ According to police sources, 294 Sri Lankan Tamils have fled the island nation s
 
 ---
 
-### සනත් නිශාන්තගේ බිරිඳගෙන් CIDයට පැමිණිල්ලක්
+### Sanath Nishantha's wife has lodged a complaint under CID
 
 *2024-02-07 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193095) · `si`
 
-හිටපු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ බිරිඳ වන නීතිඥ චමරි ප්‍රියංකා මහත්මිය විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් සිදු කර ඇති බව ආරංචි මාර්ග සඳහන් කරයි.
+The wife of former State Minister Sanath Nishantha, the wife of Chamari Priyanka, has lodged a complaint with the CID.
 
-හිටපු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ මරණයේ සැක සහිත තැන් ඇති බව සඳහන් කරමින් ඒ මහත්මිය මෙම පැමිණිල්ල සිදු කර ඇත.
+The complaint has been carried out by the death of the death of the wife of former State Minister Sanath Nishantha.
 
-සිය පැමිණිල්ල මගින් ඒ මහත්මිය වැඩිදුරටත් ඉල්ලා ඇත්තේ එම සැක සහිත තැන් සම්බන්ධයෙන් පරීක්ෂණයක් සිදුකරන ලෙසටය.
+Ms. Mrs. The Frequent complaint he has asked for an investigation into the suspicious places.
 
 ◼️
 
 [Data](articles/349c0d9b.json)
+
+[Extended Data](ext_articles/349c0d9b.ext.json)
 
 ---
 

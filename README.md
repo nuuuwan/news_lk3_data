@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 16:32:38**
+As of **2024-02-07 16:48:47**
 
 ## Newspaper Stats
 
-*Scraped **5,475** Articles*
+*Scraped **5,479** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,102 +15,154 @@ islandlk | 288
 economynextcom | 289
 dailyftlk | 305
 newsfirstlk | 339
-adalk | 465
+adalk | 467
 virakesarilk | 662
 adaderanalk | 677
 tamilmirrorlk | 684
-adaderanasinhalalk | 709
+adaderanasinhalalk | 711
 dailymirrorlk | 777
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,467 (99.9%) of 5,475 articles have been extended.
+5,479 (100.0%) of 5,479 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### யாழை வந்தடைந்தார் ஹரிகரன்
+### Request from Hamas for a long ceasefire
 
-*2024-02-07 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/175809) · `ta`
+*2024-02-07 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193089) · `si`
 
-யாழ்ப்பாணத்தில் நடைபெறவுள்ள இசை நிகழ்வுக்காக இந்திய பிரபல பாடகர் ஹரிகரன் இன்று புதன்கிழமை (07) யாழ்ப்பாணத்தை வந்தடைந்துள்ளனர்.
+The Hamas reported that the Hamas had a proposal for a long ceasefire.
 
-யாழ்ப்பாணம் முற்றவெளி மைதானத்தில் நாளை மறுதினம் வெள்ளிக்கிழமை மாலை ஹரிகரனின் இசை நிகழ்வு நடைபெறவுள்ளது.
+Accordingly, about 4 1/2 months of Gaza collision, about 4 1/2 months of the Gaza, it has been suspended, has been proposed to stop the clashes.
 
-நிகழ்வில் கலந்து கொள்வதற்காக பாடகர் ஹரிகரன் யாழ்ப்பாணம் சர்வதேச விமான நிலையம் ஊடாக யாழ்ப்பாணத்தை வந்தடைந்துள்ளனர்.
+The Hamas has sent this proposal in response to a proposal to the Hamas, which was sent to Hamas with the consent of the United States and Israel.
+
+Under its first stage, the remaining hostages and the Palestinian prisoners are exchanged.
+
+It is said that Under the second phase, the bodies of the people of the people who have left the Gaza and the third phase are to be completely exchanging the bodies of the dead.
+
+◼️
+
+[Data](articles/465fc6ee.json)
+
+[Extended Data](ext_articles/465fc6ee.ext.json)
+
+---
+
+### Singer Harikaran arrived
+
+*2024-02-07 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175809) · `ta`
+
+Indian famous singer Harikaran has arrived in Jaffna today (07) for the music event in Jaffna.
+
+Harikaran's musical event will be held tomorrow evening at the Jaffna Idawi Ground.
+
+Singer Harikaran has arrived in Jaffna through Jaffna International Airport to attend the event.
 
 ◼️
 
 [Data](articles/d54a580b.json)
 
+[Extended Data](ext_articles/d54a580b.ext.json)
+
 ---
 
-### பாகிஸ்தானில் இரு குண்டுவெடிப்புகள் : 20 பேர் பலி!
+### The unhappy fate of a foreign tourist
+
+*2024-02-07 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193088) · `si`
+
+A visitor travelers drowned at the coast of Beruwala.
+
+The victim was a 71 year old Romanianian.
+
+He was staying at a tourist hotel in Moragalla area and the hotel is inaugurated at the beach.
+
+The foreigner who had to land and was admitted to the Beruwala Hospital, and he had already died.
+
+◼️
+
+[Data](articles/6b5c3191.json)
+
+[Extended Data](ext_articles/6b5c3191.ext.json)
+
+---
+
+### Twenty blasts in Pakistan: 20 killed
 
 *2024-02-07 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175808) · `ta`
 
-பாகிஸ்தானில் இடம்பெற்ற இரண்டு குண்டுவெடிப்புகளில்  சுமார் 20 பேர் உயிரிழந்துள்ளதாக வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+Foreign media reports that about 20 people have been killed in two bombings in Pakistan.
 
-இந்தச் சம்பவங்களுக்கான  காரணத்தை கண்டறியும் முயற்சியில் பொலிஸார் ஈடுபட்டுள்ளனர், காயமடைந்தவர்கள்  வைத்தியசாலைகளில் அனுமதிக்கப்பட்டுள்ளனர்.
+Police are trying to find the cause of these incidents and the injured have been admitted to hospitals.
 
 ◼️
 
 [Data](articles/a332257c.json)
 
+[Extended Data](ext_articles/a332257c.ext.json)
+
 ---
 
-### திமிங்கல அம்பருடன் 3 சந்தேக நபர்கள் கைது
+### 3 suspects arrested with whale Ambar
 
 *2024-02-07 15:52:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திமிங்கல-அம்பருடன்-3-சந்தேக-நபர்கள்-கைது/175-332839) · `ta`
 
-மிதக்கும் தங்கம் எனப்படும் சுமார் 3 கோடி பெறுமதியான 4 கிலோ 500 கிராம் திமிங்கல அம்பர் (திமிங்கல வாந்தி) சட்டவிரோதமான முறையில் விற்பனை செய்ய தயாராக இருந்த மூன்று சந்தேக நபர்கள் தெவிநுவர மற்றும் நகுலகமுவ பிரதேசத்தில் மிரிஸ்ஸ குற்றத்தடுப்பு பிரிவின் அதிகாரிகளால் கைது செய்யப்பட்டுள்ளனர்.
+Three suspects who were ready to illegally sell about 4 kg of 500 grams of whale whale vomiting worth about 3 crores of gold, have been arrested by the Mirissa Crime Branch in Devinuwara and Nakulagamuwa.
 
 ◼️
 
 [Data](articles/afd1da3b.json)
 
+[Extended Data](ext_articles/afd1da3b.ext.json)
+
 ---
 
-### ஒரே குடும்பத்தை சேர்ந்த 5 பேர் அகதிகளாக தமிழகத்தில் தஞ்சம்
+### Five people belonging to the same family as refugees in Tamil Nadu
 
 *2024-02-07 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175806) · `ta`
 
-நாட்டில் இருந்து அகதிகளாக ஒரே குடும்பத்தைச் சேர்ந்த 3 குழந்தைகள் உட்பட ஐந்து பேர் தமிழகத்தில் இன்று புதன்கிழமை (7) காலை தஞ்சமடைந்துள்ளனர்.
+Five people, including 3 children from the same family as refugees from the country, have taken refuge in Tamil Nadu this morning.
 
-நாட்டில் ஏற்பட்ட கடுமையான பொருளாதார நெருக்கடி காரணமாக கடந்த 2022 ஆண்டு மார்ச் மாதம் முதல்  தமிழர்கள் தனுஷ்கோடிக்கு அகதிகளாக சென்ற வண்ணம் உள்ளனர்.
+Due to the severe economic crisis in the country, Tamils have been refugees to Dhanushkodi since March 2022.
 
-இந்நிலையில், ஒரே குடும்பத்தைச் சேர்ந்த 5 பேர் நேற்று புதன்கிழமை (6) மாலை மன்னாரில் இருந்து படகில் புறப்பட்டு இன்றைய தினம் அதிகாலை ராமேஸ்வரம் அடுத்துள்ள  தனுஷ்கோடி அரிச்சல்முனை ஒன்றாம் மணல் திட்டில் கடற்கரையை சென்றடைந்தனர்.
+In the meantime, five members of the same family departed from Mannar on Wednesday evening (6) and reached the beach at the Dhanushkodi Arichalmunai sandalwood near Rameswaram this morning.
 
-தகவலறிந்த ராமேஸ்வரம் மரைன் பொலிஸார்  அவர்களை மீட்டு மண்டபம் மரைன் காவல் நிலையத்தில் வைத்து விசாரணை நடத்தி வருகின்றனர்.
+Informed Rameswaram Marine Police are rescued and are being held at the Marine Police Station.
 
-பாதுகாப்பு வட்டார அதிகாரிகளின் விசாரணைக்கு பிறகு 5 பேரும் மண்டபம் அகதிகள் முகாமில் ஒப்படைக்கப்பட உள்ளனர்.
+Five of them are to be handed over to the refugee camp after the security regional authorities.
 
-பொருளாதார நெருக்கடி காரணமாக  இலங்கையிலிருந்து தமிழகத்திற்கு சென்ற அகதிகளின் எண்ணிக்கை  293 ஆக அதிகரித்துள்ளமை குறிப்பிடத்தக்கது.
+Due to the economic crisis, the number of refugees from Sri Lanka to Tamil Nadu has increased to 293.
 
 ◼️
 
 [Data](articles/7456e147.json)
 
+[Extended Data](ext_articles/7456e147.ext.json)
+
 ---
 
-### காம்பியா முறையில் முந்திரி பயிர் செய்கை
+### Gambia
 
 *2024-02-07 15:47:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காம்பியா-முறையில்-முந்திரி-பயிர்-செய்கை/175-332838) · `ta`
 
-முந்திரி பயிர்ச்செய்கையில் காம்பியா பயன்படுத்தும் சாகுபடி தொழில்நுட்பத்தை இலங்கைக்கு வழங்க இலங்கையின் காம்பிய தூதுவர் தனது ஆதரவை தெரிவித்துள்ளார்.
+Sri Lanka's Gambian Ambassador has expressed his support to provide the cultivation technology used by Gambia in cashew cultivation.
 
-இலங்கையைப் போன்று சிறிய விவசாய நாடாக காம்பியா காணப்பட்டாலும் கடலை, முந்திரி போன்ற பல பயிர்களில் தன்னிறைவு பெற்றுள்ளதாக இலங்கைக்கான காம்பிய தூதுவர் முஸ்தபா ஜவர,  விவசாய அமைச்சர் மஹிந்த அமரவீரவிடம் தெரிவித்துள்ளார்.
+The Gambian Ambassador to Sri Lanka, Mustafa Jawara, has told Agriculture Minister Mahinda Amaraweera that Gambia is a small agricultural country like Sri Lanka.
 
-காம்பியாவில் பயிரிடப்படும் முந்திரி இந்தியா உட்பட பல நாடுகளுக்கு ஏற்றுமதி செய்யப்பட்டு அதிக வருமானம் ஈட்டுவதாகவும் தூதுவர் குறிப்பிட்டார்.
+The ambassador said that the cashew cultivated in Gambia is exported to many countries, including India.
 
-இதன்போது கருத்து வெளியிட்ட விவசாய அமைச்சர் மஹிந்த அமரவீர, அதிக மகசூல் தரும் புதிய வகை முந்திரி இனங்களை இனங்கண்டு நடவடிக்கை எடுக்காததே இந்நாட்டில் முந்திரிச் செய்கை வீழ்ச்சிக்குக் காரணம் எனத் தெரிவித்தார். எனவே, காம்பியாவில் முந்திரி சாகுபடி தொழில்நுட்பத்தைப் பயன்படுத்துவதற்கான தொழில்நுட்ப ஆதரவை வழங்குமாறு காம்பியா தூதுவரிடம் அமைச்சர் கோரிக்கை விடுத்தார்.
+The Minister of Agriculture Mahinda Amaraweera said that the cause of the cashews in the country was the lack of action by the new types of cashews in the country.. Therefore, the Minister asked the Gambia Ambassador to provide technical support to the use of cashew cultivation technology in Gambia.
 
 ◼️
 
 [Data](articles/d523717e.json)
+
+[Extended Data](ext_articles/d523717e.ext.json)
 
 ---
 
@@ -132,6 +184,8 @@ Jumma Dad Khan, the deputy commissioner of Pishin district, said the blast there
 
 [Data](articles/eab031c8.json)
 
+[Extended Data](ext_articles/eab031c8.ext.json)
+
 ---
 
 ### Undercover police deployed in public transport to tackle abuse
@@ -151,6 +205,8 @@ Accordingly, police officers in civilian clothes will travel in buses, with spec
 ...
 
 [Data](articles/ef3574f7.json)
+
+[Extended Data](ext_articles/ef3574f7.ext.json)
 
 ---
 
@@ -195,6 +251,8 @@ MP Kiriella said the government attacked the peaceful protest organised by the S
 ...
 
 [Data](articles/0ff95786.json)
+
+[Extended Data](ext_articles/0ff95786.ext.json)
 
 ---
 
@@ -1068,6 +1126,28 @@ Market participants said with the decline in bond yield rates, primary dealing c
 
 ---
 
+### Former President's helicopter crashes
+
+*2024-02-07 12:25:49* · [`adalk`](https://www.ada.lk/breaking_news/චිලී-හිටපු-ජනපති-හෙලිකොප්ටර්-අනතුරකින්-ජීවිතක්ෂයට/11-407947) · `si`
+
+International media reports that former President Mahinda Rajapaksa, Chile, has died due to a helicopter accident. Sebastian Piyanara has been a leading businessman in the South American presidency, a South American presidency.
+
+When he died, he was 74. The death of the Chilean Ministry has also confirmed this death.
+
+The successful businessman, Piyanara, has been brought to a rapid economic growth in his first 2010 to 2014 and a fast decline in the presence of the presidency.
+
+However, his second president of 2018 to 2022, his second presidential tenure was filled with violent protests against the allegations of human rights violations.
+
+Piyanara is the fifth richest person in Pynara Chilean, who has been entitled to about $ 3 billion.He served as an educator of several universities for almost 20 years as an educational bank and the World Bank.
+
+...
+
+[Data](articles/e4755747.json)
+
+[Extended Data](ext_articles/e4755747.ext.json)
+
+---
+
 ### Daily food from outside Keheliya Rambukkala
 
 *2024-02-07 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175783) · `ta`
@@ -1165,6 +1245,26 @@ As per stock market figures, this was mainly due to a single transaction of 61.9
 [Data](articles/0656204a.json)
 
 [Extended Data](ext_articles/0656204a.ext.json)
+
+---
+
+### Keheliya is named after violation of circulars
+
+*2024-02-07 12:12:15* · [`adalk`](https://www.ada.lk/breaking_news/චක්‍රලේඛ-උල්ලංඝනය-කරමින්-කෙහෙළිය-නමින්-පාසලක්-නම්-කරගෙන/11-407946) · `si`
+
+Minister Keheliya Rambukkalla has named a school in the area of the Ministry of Education and the Minister Keheliya Rambukla has been named in the area of Naywela Rambukwella and the name should be removed immediately.
+
+Ceylon Teachers Union Secretary Joseph Stalin pointed out that according to the Circular issued by the Ministry of Education in 1996, a school cannot be named.
+
+However, former Minister Keheliya Rambukwella has been a misconception to society, and the primary school in Primary School in Badulla has been shipped.
+
+Therefore, he has been prompted by the government that he should take immediate action against school names in the name of a living person.
+
+◼️
+
+[Data](articles/f6bba1b2.json)
+
+[Extended Data](ext_articles/f6bba1b2.ext.json)
 
 ---
 
@@ -1969,83 +2069,5 @@ Kodituwakku's motion comes amid ongoing controversy surrounding the registration
 [Data](articles/fae4a781.json)
 
 [Extended Data](ext_articles/fae4a781.ext.json)
-
----
-
-### Inauguration of Fifth Session of Ninth Parliament
-
-*2024-02-07 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97072/inauguration-of-fifth-session-of-ninthparliament) · `en`
-
-President Ranil Wickremesinghe arrived at the Parliament Complex a short while ago for the ceremonial inauguration of the Fifth Session of Ninth Parliament today (Feb 07).
-
-Prime Minister Dinesh Gunawardena and Speaker Mahinda Yapa Abeywardena the Parliament complex before the Head of State graced the event.
-
-The President is scheduled to address the House at 10.30 a.m. and present the government’s policy statement during the new parliamentary session.
-
-Sri Lanka Parliament was prorogued with effect from midnight on 26 January, marking the closure of the Fourth Session of the Ninth Parliament.
-
-When a new session is kicked off, the President presides over the ceremonial opening of the Parliament and presents the government’s policy statement. In the past, the policy statement was referred to as the Throne Speech and was presented by the Governor.
-
-◼️
-
-[Data](articles/4a575867.json)
-
-[Extended Data](ext_articles/4a575867.ext.json)
-
----
-
-### Former Navy Commander Daya Sandagiri joins SJB
-
-*2024-02-07 10:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Navy-Commander-Daya-Sandagiri-joins-SJB/108-276495) · `en`
-
-Former Sri Lanka Navy Commander Daya Sandagiri obtained membership of the Samagi Jana Balawegaya (SJB) from party leader Sajith Premadasa a shortwhile ago.
-
-◼️
-
-[Data](articles/bda2fe01.json)
-
-[Extended Data](ext_articles/bda2fe01.ext.json)
-
----
-
-### Remanded MP Rambukwella Snubs Parliament
-
-*2024-02-07 10:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/remanded-mp-rambukwella-snubs-parliament/) · `en`
-
-COLOMBO (News 1st); Keheliya Rambukwella, a Sri Lankan Member of Parliament currently under remand custody, has refused to attend the opening of the Fifth Session of the Ninth Parliament, scheduled for Wednesday, February 7th.
-
-This comes after Speaker Mahinda Yapa Abeywardana granted permission for Rambukwella to participate in the session, considering a request he submitted.
-
-However, according to Prison Spokesperson Gamini B. Dissanayake, Rambukwella has decided not to attend the opening session and Parliament has been duly notified of his decision.
-
-Serjeant-at-Arms of the Parliament, Kushan Jayaratne, confirmed that the Commissioner General of Prisons was informed in writing about the Speaker's initial permission and Rambukwella's subsequent refusal.
-
-Rambukwella is currently held in remand on charges related to his previous ministerial position.
-
-...
-
-[Data](articles/3788f983.json)
-
-[Extended Data](ext_articles/3788f983.ext.json)
-
----
-
-### President arrives in Parliament
-
-*2024-02-07 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193071) · `si`
-
-President Ranil Wickremesinghe arrived in Parliament a short while ago.
-
-09:58 - Speaker Mahinda Yapa Abeywardena arrives in Parliament premises.
-
-President of the 5th Parliament commences today (07).
-
-The President is due to present the government's policy statement to parliament at 10.30 am.
-
-◼️
-
-[Data](articles/a7190169.json)
-
-[Extended Data](ext_articles/a7190169.ext.json)
 
 ---

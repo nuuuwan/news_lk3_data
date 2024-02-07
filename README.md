@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 05:02:20**
+As of **2024-02-08 05:17:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,576 (99.9%) of 5,580 articles have been extended.
+5,580 (100.0%) of 5,580 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The Chennai headquartered French powerhouse is set to venture into the markets o
 
 [Data](articles/f3bfcac7.json)
 
+[Extended Data](ext_articles/f3bfcac7.ext.json)
+
 ---
 
 ### Vidullanka’s nine month profit tops Rs. 1 b mark
@@ -63,6 +65,8 @@ The company’s financial statements published on the Colombo Stock Exchange ind
 ...
 
 [Data](articles/6fe406c3.json)
+
+[Extended Data](ext_articles/6fe406c3.ext.json)
 
 ---
 
@@ -84,6 +88,8 @@ Exterminators PLC is the exclusive distributor of PestScan’s digital pest mana
 
 [Data](articles/26f8854f.json)
 
+[Extended Data](ext_articles/26f8854f.ext.json)
+
 ---
 
 ### Diana affirms Cabinet nod for cannabis export
@@ -103,6 +109,8 @@ Her response comes following Cabinet Co-Spokesman and Minister Bandula Gunawarde
 ...
 
 [Data](articles/d1c93fbf.json)
+
+[Extended Data](ext_articles/d1c93fbf.ext.json)
 
 ---
 

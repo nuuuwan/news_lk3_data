@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 01:32:43**
+As of **2024-02-08 01:49:42**
 
 ## Newspaper Stats
 
@@ -26,45 +26,53 @@ dailymirrorlk | 792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,563 (99.9%) of 5,567 articles have been extended.
+5,567 (100.0%) of 5,567 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### ஆசிரியர்களுக்கு நியமனம் வழங்க கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் பரிந்துரை!
+### Eastern Province Governor Senthil Thondaman recommends appointment to teachers
 
 *2024-02-08 00:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175848) · `ta`
 
-உயர் தேசிய ஆங்கில டிப்ளோமா கற்கைநெறியை நிறைவு செய்த ஆசிரியர்களுக்கு நியமனம்  வழங்க கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் பரிந்துரை!
+Eastern Province Governor Senthil Thondaman recommends appointment to teachers
 
-உயர் தேசிய ஆங்கில டிப்ளோமா (HNDE) கற்கைநெறியை நிறைவு செய்துள்ள டிப்ளோமாதாரிகளுக்கு நியமனம் வழங்குவது தொடர்பாகக் கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானுக்கும் திறை சேரியின் செயலாளருக்கும் இடையில் புதன்கிழமை (07) கலந்துரையாடல்  மேற்கொள்ளப்பட்டது.
+A discussion was held on Wednesday (07) between the Governor of the Eastern Province Senthil Thondaman and the Secretary of the Slum on the appointment of the Diplommists who have completed the HDE course.
 
-கிழக்கு மாகாணத்தில் காணப்படும் ஆசிரியர் பற்றாக்குறையைக் கருத்தில் கொண்டு, HNDE டிப்ளோமா கற்கைநெறியை நிறைவு செய்துள்ளவர்களுக்கு நியமனம் வழங்குமாறு திறைசேரிக்கு செந்தில் தொண்டமான் பரிந்துரை விடுத்துள்ளார்.
+Considering the shortage of teachers in the Eastern Province, Senthil Thondaman has recommended the Treasury to appoint those who have completed the HNDE Diploma course.
 
 ◼️
 
 [Data](articles/15e0ea41.json)
 
+[Extended Data](ext_articles/15e0ea41.ext.json)
+
 ---
 
-### நாட்டின்  முன்னேற்றத்தைச் சகித்துக்கொள்ள முடியாமையே எதிர்க்கட்சியின் வெளிநடப்புக்குக் காரணம் - நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க
+### Finance Minister Sehan Semasinghe is responsible for the outbreak of the country
 
 *2024-02-08 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175847) · `ta`
 
-நாட்டின் படிப்படியான பொருளாதார முன்னேற்றம் மற்றும் அரசியல் நிலைமைகள் சுமுக நிலைக்கு வருவதைச் சகித்துக்கொள்ள முடியாமலேயே பிரதான எதிர்க்கட்சி ஜனாதிபதியின் உரையைப் பகிஷ்கரிக்கக் காரணமாகும் என  நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க  தெரிவித்தார்.
+Finance Minister Xihan Semasinghe said that the main opposition president's speech was due to the inability of the country's gradual economic improvement and political conditions to be smooth.
 
-பாராளுமன்றத்தில் புதன்கிழமை (7) ஜனாதிபதி ஆற்றிய கொள்கை விளக்க உரை  தொடர்பில் கருத்து தெரிவித்த போதே இராஜாங்க அமைச்சர் இவ்வாறு தெரிவித்தார்.
+The Minister of State was speaking on Wednesday (7) in Parliament.
 
-ஜனாதிபதியின் கொள்கை விளக்க உரையில் நாட்டின் தற்போதைய பொருளாதார நிலை மற்றும் நாட்டை முன்னோக்கிக் கொண்டு செல்லும்போது  பொருளாதாரத்திற்கு வழங்க வேண்டிய முக்கியத்துவம் தொடர்பிலுமே அதிக கவனம் செலுத்தப்பட்டிருந்தது.
+The president's policy speech also focused on the importance of the economy to the economy as the country's current economic status and the country move forward.
 
-இத்தகைய நாட்டின் பொருளாதாரம் மீண்டும் சீர்குலைந்து விடாமல் எவ்வாறு அதனைக் கட்டியெழுப்ப முடியும் என்பது தொடர்பான ஆலோசனைகளும் அதில் அடங்கியிருந்தன.
+It also contained suggestions on how to build it without disrupting the economy of such a country.
 
-ஜனாதிபதி தொடர்ந்தும் தெரிவித்து வருவது போல நாம் சர்வதேசத்துடன் தொடர்புகளைக் காத்திரமாக மேற்கொண்டு வருகின்றோம். அது ஏற்றுக்கொள்ளப்பட்ட முறைமையின் அடிப்படையிலேயே முன்னெடுக்கப்பட்டு வருகிறது.
+As the President continues to announce, we are making contacts with international. It is being carried out on the basis of the accepted system.
+
+The opposition retains itself on the basis of criticism. They have no plans for the country's economy. When they look at the plans they put forward, it is things that no one can accept.
+
+In his speech, the president stressed that the second phase should be considered about the country and the second stage.. They do not accept it.
 
 ...
 
 [Data](articles/c045a259.json)
+
+[Extended Data](ext_articles/c045a259.ext.json)
 
 ---
 
@@ -79,6 +87,8 @@ Anura Kumara Dissanayake has arrived. The fact that he has arrived in Delhi is t
 ...
 
 [Data](articles/c084d0d0.json)
+
+[Extended Data](ext_articles/c084d0d0.ext.json)
 
 ---
 
@@ -283,6 +293,8 @@ Meanwhile, the psychiatrist who examined the suspect's mental condition, recomme
 ...
 
 [Data](articles/0e02a4cf.json)
+
+[Extended Data](ext_articles/0e02a4cf.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 18:50:20**
+As of **2024-02-07 19:02:34**
 
 ## Newspaper Stats
 
-*Scraped **5,503** Articles*
+*Scraped **5,504** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 290
 dailyftlk | 305
 newsfirstlk | 339
 adalk | 469
-virakesarilk | 669
+virakesarilk | 670
 adaderanalk | 680
 tamilmirrorlk | 686
 adaderanasinhalalk | 716
@@ -26,11 +26,25 @@ dailymirrorlk | 779
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,503 (100.0%) of 5,503 articles have been extended.
+5,503 (100.0%) of 5,504 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### குஜராத் மாநில முதலமைச்சர் திரு. பூபெந்திரபாய் பட்டேலுடன்  தேசிய மக்கள் சக்தியின் தலைவர்கள் சந்திப்பு
+
+*2024-02-07 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175836) · `ta`
+
+இந்தியாவுக்கான விசேட விஜயமொன்றை மேற்கொண்டுள்ள தேசிய மக்கள் சக்தியின் தலைவர்கள் புதன்கிழமை (07) குஜராத் மாநிலத்தின் முதலமைச்சர் திரு. பூபெந்திரபாய் பட்டேல் (Bhupendrabhai Patel) அவர்களுடன் காந்திநகரின் கட்டளைப் பேரவையில் (மாநில சட்டவாக்கப் பேரவை) சந்திப்பினை மேற்கொண்டார்கள். மாநிலத்தில் வறுமையை ஒழித்துக்கட்டுவதற்கான அபிவிருத்தி உபாயமார்க்கங்கள் மற்றும் மாநில நிருவாகச் செயற்பாங்கு சம்பந்தமாக இதன்போது கலந்துரையாடப்பட்டது.
+
+அதன் பின்னர் அந்த மாநிலத்தின் கைத்தொழில் அமைச்சருடனும் விசேட சந்திப்பு இடம்பெற்றதோடு, இந்திய அரசாங்கத்தின் அபிவிருத்தி மாதிரியாகப் பாவிக்கப்படுகின்ற "குஜராத் எடுத்துக்காட்டு" (Gujarat Model) பற்றிய சமர்ப்பணமொன்றும் இடம்பெற்றது. வலுச்சக்தி மறுசீரமைப்பு, விவசாயமும் நீரும், உட்கட்டமைப்பு வசதிகளை விருத்தி செய்தல், கைத்தொழில் மற்றும் முதலீடு, சுகாதாரப் பாதுகாப்பும் பெண்களுக்கு வலுவளித்தலும் என்பவை இந்த குஜராத் எடுத்துக்காட்டின் பிரதானமான பிரிவுகளாகும்.
+
+...
+
+[Data](articles/f50dade4.json)
+
+---
 
 ### Fisheman dies, seven others hospitalized due to toxic gas leak
 
@@ -2061,23 +2075,5 @@ President Ranil Wickremesinghe, who thanked everyone and expressed his gratitude
 [Data](articles/57d2bdc1.json)
 
 [Extended Data](ext_articles/57d2bdc1.ext.json)
-
----
-
-### Planning to revise VAT percentage to further support economic growth: President
-
-*2024-02-07 11:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Planning-to-revise-VAT-percentage-to-further-support-economic-growth-President/108-276499) · `en`
-
-Colombo, Feb 7 (Daily Mirror) - The government was planning to reduce the tax burden as economic reforms continue to stabilize the economy, President Ranil Wickremesinghe said in his Policy Statement in Parliament today.
-
-“We are also revising the VAT percentage to further support economic growth,” he added.
-
-Delivering the government's Policy Statement in Parliament, he said the tax registration has substantially increased, with the number of registrations growing from 437,547 in 2022 to 1,000,029 by the end of 2023, representing a 130% increase.
-
-◼️
-
-[Data](articles/de1ed546.json)
-
-[Extended Data](ext_articles/de1ed546.ext.json)
 
 ---

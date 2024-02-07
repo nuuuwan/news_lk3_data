@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 04:02:23**
+As of **2024-02-08 04:17:10**
 
 ## Newspaper Stats
 
-*Scraped **5,575** Articles*
+*Scraped **5,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 78
 dbsjeyarajcom | 140
 islandlk | 288
 economynextcom | 296
-dailyftlk | 311
+dailyftlk | 312
 newsfirstlk | 342
 adalk | 472
 virakesarilk | 683
@@ -26,11 +26,31 @@ dailymirrorlk | 792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,575 (100.0%) of 5,575 articles have been extended.
+5,575 (100.0%) of 5,576 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### First ever Congress for Sustainable Materials 2024 a success
+
+*2024-02-08 03:29:39* · [`dailyftlk`](https://www.ft.lk/business/First-ever-Congress-for-Sustainable-Materials-2024-a-success/34-758234) · `en`
+
+Hayleys Chairman and Chief Executive Mohan Pandithage and Hayleys Aventura Managing Director Wasaba Jayasekera with the panellists at the inaugural Congress for Sustainable Materials 2024
+
+Embedding Sustainable Polymers in Textile and Glove Industries From left: Nalaka Senavirathna, Ramesh Nanayakkara, Pushpika Janadheera, Dr. Dilan Fernando, Rohan Goonetilleke, and Moderator Prashani Illangasekera
+
+Integrating Sustainable Packaging Solutions for Food and Agriculture Industries  From left: Mindika Thilakarathna, Michael Zuppa, Lahiru Wijerathna, Kushan Chanaka Amarasinghe, Milinda Weerasinghe, and Moderator Wasaba Jayasekera
+
+Biodegradability seen as future of plastics and packaging according to experts at event organised by Hayleys Aventura
+
+Hayleys Aventura Ltd., a subsidiary of Hayleys PLC, recently hosted the inaugural Congress for Sustainable Materials 2024 at the Kingsbury Hotel, Colombo, with this year’s theme based on ‘The Future of Plastics and Packaging.’
+
+...
+
+[Data](articles/b38f1c30.json)
+
+---
 
 ### UNICEF welcomes start of amendments to Children and Young Persons Ordinance
 
@@ -2001,25 +2021,5 @@ The world's focus on Pakistan has focused on Pakistan on a backdrop for tomorrow
 [Data](articles/d1d1223a.json)
 
 [Extended Data](ext_articles/d1d1223a.ext.json)
-
----
-
-### SJB decides not to support government anymore: Kiriella
-
-*2024-02-07 15:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-decides-not-to-support-government-anymore-Kiriella/108-276521) · `en`
-
-Colombo, Feb. 07 (Daily Mirror)- The Samagi Jana Balawegaya (SJB) will not support the government despite the President's appeals, as the government has acted arbitrarily during the recent past, Chief Opposition Whip Lakshman Kiriella said today.
-
-He told a news conference at the Parliament Complex that the President keeps appealing to the Opposition to join hands with the government whereas the government has shown no concerns for the opposition.
-
-MP Kiriella said the government attacked the peaceful protest organised by the Samagi Jana Balawegaya and that it was attempting to obtain SJB support by force.
-
-"We continued to support the government. We supported it to pass several Acts such as the 21st Amendment. However, the government has acted arbitrarily during the recent past," he said.
-
-...
-
-[Data](articles/0ff95786.json)
-
-[Extended Data](ext_articles/0ff95786.ext.json)
 
 ---

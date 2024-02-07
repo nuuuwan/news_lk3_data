@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 08:32:53**
+As of **2024-02-07 08:50:39**
 
 ## Newspaper Stats
 
@@ -26,27 +26,31 @@ dailymirrorlk | 758
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,326 (99.6%) of 5,346 articles have been extended.
+5,344 (100.0%) of 5,346 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### සීමා නිර්ණයට අදාළ කමිටුවේ වාර්තාව අධිකරණය හමුවට
+### Report of the committee to decide limits
 
 *2024-02-07 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193065) · `si`
 
-පළාත් පාලන ආයතනවල සීමා නිර්ණයට අදාළව පත්කෙරුණු කමිටුවේ වාර්තාව අධිකරණය හමුවට ඉදිරිපත් කිරීම සඳහා ශ්‍රේෂ්ඨාධිකරණය අග්‍රාමාත්‍යවරයාට අවසර ලබාදී තිබේ.
+The Supreme Court has issued permission to the Prime Minister to present the appointment of the appointment of the appointment of the appointed committee.
 
-පළාත් පාලන ඡන්ද විමසීම කල්දැමීමට එරෙහිව ගොනුකර තිබූ පෙත්සම් විභාගය සඳහා ඊයේ (06) කැඳවූ අවස්ථාවේදී එහි වගඋත්තරකරුවකු වශයෙන් නම්කර සිටින අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිස් මුස්තාපා මහතා කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව මෙම අවසර ලබාදීම සිදු කෙරුණි.
+The permission was issued after the President's Counsel Faiz Mustapha, who was named as a respondent yesterday (06).
 
-අදාළ පෙත්සම් අගවිනිසුරු ජයන්ත ජයසූරිය, විජිත් මළල්ගොඩ, මුර්දු ප්‍රනාන්දු, ගාමිණී අමරසේකර සහ යසන්ත කෝදාගොඩ යන පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+The petitions were called before Chief Justice Jayantha Jayasuriya, Vijith Balalgoda, Mustru Fernando and Gamini Amarasekera and Yasantha Kodagoda.
 
-එම අවස්ථාවේදී අදාළ පෙත්සම්වල වගඋත්තරකරුවකු වශයෙන් නම්කර සිටි අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිස් මුස්තාපා මහතා මෙම නඩුවලට අදාළව කරුණු දැක්වීම සඳහා පළාත් පාලන ආයතනවල සීමා නිර්ණය  සිදුකළ කමිටුවේ වාර්තාව සහ තවත් ලේඛන කිහිපයක් ඉදිරිපත් කිරීමට අවසර ඉල්ලා මෝසමක් ගොනුකර තිබෙන බව සඳහන් කළ බව අද දෙරණ අධිකරණ වාර්තාකරු සඳහන් කළේය.
+President's Counsel Faiz Mustapha, who was named as a respondent in the petitions, was said to have been filed as a respondent to Prime Minister Dinesh Gunawardena and several other documents.Ada Deraa Reporter stated.
+
+Attorneys the Attorneys of the Petitioner also informed the Petitioner's party that he would oppose the filing of a motion to submit the trial.
 
 ...
 
 [Data](articles/fbb50026.json)
+
+[Extended Data](ext_articles/fbb50026.ext.json)
 
 ---
 
@@ -66,6 +70,8 @@ Federal Appeals Court rules Trump does not have presidential immunity
 
 [Data](articles/ffb7dbb7.json)
 
+[Extended Data](ext_articles/ffb7dbb7.ext.json)
+
 ---
 
 ### JJB delegation to meet Chief Minister of Gujarat
@@ -84,23 +90,29 @@ Federal Appeals Court rules Trump does not have presidential immunity
 
 [Data](articles/0aff12ff.json)
 
+[Extended Data](ext_articles/0aff12ff.ext.json)
+
 ---
 
-### கொழும்பில் இனி நிம்மதியாக சாக முடியாது
+### Can't die in Colombo anymore
 
 *2024-02-07 07:45:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இனி-நிம்மதியாக-சாக-முடியாது/175-332806) · `ta`
 
-கொழும்பு மாநகர சபை (CMC) ஒரு கல்லறைக்கான (இரண்டு சதுர அடி) கட்டணத்தை 180,000 ரூபாயாக உயர்த்தியதால், கொழும்பு நகரவாசிகளுக்கு மரணம் ஒரு விலையுயர்ந்த விடயமாக மாறியுள்ளது.
+The death of the Colombo Municipal Council (CMC) has increased the fee for a tomb (two square feet) to 180,000 rupees, and death has become an expensive thing for the residents of Colombo.
 
-"இரண்டடிக்கு இரண்டடி அளவில் உள்ள ஒரு சிறிய நிலத்தை மட்டுமே ஒருவர் பெற முடியும், இறந்தவரின் சாம்பலைக் கொண்டு ஒரு கலசத்தை புதைக்க மட்டுமே முடியும்." என பெயர் குறிப்பிட விரும்பாத CMC இன் முன்னாள் உறுப்பினர் ஒருவர் எமது சகோதர ஊடகமான டெய்லி மிரருக்கு தெரிவித்தார்.
+"One can only get a small land of two -dimensional two. Only one can bury a cell with the ashes of the deceased."A former member of the CMC told our brother -in -law Daily Mirror.
 
-எவ்வாறாயினும், 2018 இல் கல்லறைக்கான கட்டணங்கள் அதிகரிக்கப்படவிருந்ததாகவும், ஆனால் சபை உறுப்பினர்கள் அந்த ஆண்டு சபையில் இந்த தீர்மானத்தை தோற்கடித்ததாகவும் அவர் கூறினார்.
+However, he said that the tomb fees were to be increased in 2018, but the members of the council defeated the resolution in the House that year.
 
-இதேவேளை, கொழும்பு நகர எல்லைக்குள் சுடுகாட்டுக்கான கட்டணம் கொழும்பு நகரவாசிகளுக்கு 1000 ரூபாவிலிருந்து 10,000 ரூபாயாகவும் வெளியாட்களுக்கு 20,000 ரூபாயாகவும் அதிகரிக்கப்பட்டுள்ளதாக CMC இன் முன்னாள் உறுப்பினர் அல்பிரட் சம்பத் தெரிவித்துள்ளார்.
+Meanwhile, former CMC Member Alphred Sampath said the fee for firefighting within the Colombo city limits has been increased by Rs 1,000 to Rs 1,000 to Rs 10,000 and 20,000 per outpatations.
+
+I have lodged a complaint with President Ranil Wickremesinghe on this issue.He said that the matter was informed by Western Governor Roshan Gunatilaka.
 
 ...
 
 [Data](articles/86f385bb.json)
+
+[Extended Data](ext_articles/86f385bb.ext.json)
 
 ---
 
@@ -118,47 +130,55 @@ Speaking to Daily Mirror, GMOA Media Spokesman Dr. Chamil Wijesinghe said with r
 
 [Data](articles/805966e2.json)
 
+[Extended Data](ext_articles/805966e2.ext.json)
+
 ---
 
-### 09 වන පාර්ලිමේන්තුවේ 05 වන සභාවාරය අද ඇරඹෙයි
+### Section 5 of Parliament in Parliament commences today
 
 *2024-02-07 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193064) · `si`
 
-09 වන පාර්ලිමේන්තුවේ 05 වන සභා වාරය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් අද (07) උත්සවාකාරයෙන් විවෘත කිරීමට නියමිතව තිබේ.
+President Ranil Wickremesinghe is scheduled to be opened today (07) under the patronage of President Ranil Wickremesinghe.
 
-අද පෙරවරු 10.30ට පාර්ලිමේන්තුවේ මුලසුන දරමින් ජනාධිපතිවරයා විසින් ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතය.
+The President's policy statement is to be presented to Parliament by holding in parliament at 10.30 am today.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් පසුගිය ජනවාරි මස 26 වන දින මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි පාර්ලිමේන්තුවේ වාර අවසාන කිරීම සිදුකළේය.
+President Ranil Wickremesinghe was completed by the end of the night of the 26th of January.
 
-ඒ අනුව අද දින පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිත ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය පිළිබඳ සභාව කල් තැබීමේ විවාදය ලබන 8 සහ 09 යන දෙදින තුළ පැවැත්වීමට නියමිතය.
+Accordingly, the Adjournment Debate will be held today on the 8th and 9 of the government's policy statement to be presented to Parliament today.
 
-කෙසේවෙතත් මෙවර පාර්ලිමේන්තුව විවෘත කිරීමේ උත්සවය ඉතා අඩු වියදමෙන් සරල සහ චාම් අයුරින් පැවැත්වීමට කටයුතු යොදා ඇති බව වාර්තා වෙයි.
+However, it is reported that the ceremony of the Parliament has been conducting the occasion as lowly simple and champ.
 
-අදාළ උත්සවය සඳහා ආචාර පෙළපාලි, ආචාර වෙඩිමුර, පෙර ගමන් රථ යනාදී විශේෂාංග කිසිවක් ඇතුළත් නොවන බව ආණ්ඩු පක්ෂයේ ප්‍රධාන සංවිධායක අමාත්‍ය ප්‍රසන්න රණතුංග මහතා සඳහන් කළේය.
+Chief Organizer Minister Prasanna Ranatunga said that the event would include salute and salute, salt and pre-travel vehicles.
+
+President Mahinda Rajapaksa will address the House Ranil Wickremesinghe after reading the Parliament to the House at 10.30 am and calling the Parliamentary Secretaries of Parliamentary Season.
 
 ...
 
 [Data](articles/fedd062e.json)
 
+[Extended Data](ext_articles/fedd062e.ext.json)
+
 ---
 
-### தேசிய மக்கள் சக்தி குழு குஜராத் சென்றது
+### The National People's Power Group went to Gujarat
 
 *2024-02-07 07:28:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தி-குழு-குஜராத்-சென்றது/175-332805) · `ta`
 
-அனுரகுமார திஸாநாயக்க தலைமையிலான தேசிய மக்கள் சக்தி (NPP) குழுவினர், தமது இந்தியப் பயணத்தின் இரண்டாவது நாள் பயணத்தை முடித்துக் கொண்டு, பிரதமர் நரேந்திர மோடியின் தாயகமான குஜராத்தை நோக்கி நேற்று சென்றனர்.
+The National People's Power (NPP) group led by Anura Kumara Dissanayake went to Gujarat, the home of Prime Minister Narendra Modi, ended the second day of their Indian journey.
 
-NPP தூதுக்குழு குஜராத் முதல்வர் புபேந்திர படேலை சந்தித்து மாநிலத்தில் சில சுற்றுப்பயணங்களை மேற்கொள்ளும் என எதிர்பார்க்கப்படுகிறது.
+The NPP delegation is expected to meet Gujarat Chief Minister Bubendra Patel and take some tours in the state.
 
-NPP தூதுக்குழு நேற்று முன்னணி இந்திய சிந்தனைக் குழுவான Observer Research Foundation ' பிரதிநிதிகளுடன் பேச்சுவார்த்தை நடத்தியது.
+The NPP delegation yesterday held talks with the leading Indian ideology group, Observer Research Foundation.
 
-மேலும், NPP பிரதிநிதிகள் இந்திய தனித்துவ அடையாள ஆணையத்தை பார்வையிட்டனர். முன்னதாக, இந்தப் பயணத்தின் போது, ​​இந்திய வெளியுறவுத் துறை அமைச்சர் டொக்டர் எஸ். ஜெய்சங்கர், தேசிய பாதுகாப்பு ஆலோசகர் அஜித் தோவல், வெளியுறவுச் செயலர் வினய் மோகன் ஆகியோருடன் பேச்சுவார்த்தை நடத்தினர்.
+In addition, NPP representatives visited the Indian Separate Identification Authority.Earlier, during the trip, Indian Foreign Minister Dr. S.. Jaishankar, National Security Advisor Ajith Dowal and Foreign Secretary Vinay Mohan held talks.
 
-குழுவானது பின்னர் கம்யூனிஸ்ட் கட்சியால் ஆளப்படும் இந்திய மாநிலமான கேரளாவுக்குச் செல்வார்கள் என தெரிவிக்கப்பட்டுள்ளது.
+It is reported that the group will then travel to Kerala, the Indian state ruled by the Communist Party.
 
 ◼️
 
 [Data](articles/e97cdeb5.json)
+
+[Extended Data](ext_articles/e97cdeb5.ext.json)
 
 ---
 
@@ -174,23 +194,27 @@ However, MP Rambukwella has informed the prison authorities that he will not att
 
 [Data](articles/9ecdc722.json)
 
+[Extended Data](ext_articles/9ecdc722.ext.json)
+
 ---
 
-### இன்றைய காலநிலை நிலவரங்கள்
+### Climate conditions today
 
 *2024-02-07 07:20:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-காலநிலை-நிலவரங்கள்/175-332804) · `ta`
 
-நுவரெலியா மாவட்டத்தின் சில இடங்களில் அதிகாலை வேளையில் மூடு பனி காணப்படுவதுடன் மத்திய, சப்ரகமுவ, மேல் மற்றும் ஊவா மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும்  காலை வேளையில் பனிமூட்டம் காணப்படும்.
+In some parts of the Nuwara Eliya district, there is a snowfall in the early hours of the morning and some parts of the Central, Sabaragamuwa, Upper and Uva provinces, as well as some parts of the Galle and Matara districts.
 
-கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 20 - 30 கிலோமீற்றர் வேகத்தில் வடகிழக்குத்  திசையில் இருந்து  காற்று வீசும்.
+Winds from the northeast at 20 - 30 km / h in the sea regions.
 
-மாத்தறை தொடக்கம் ஹம்பாந்தோட்டை ஊடாக பொத்துவில் வரையான அத்துடன் கொழும்பு தொடக்கம் புத்தளம், மன்னார் ஊடாக காங்கேசன்துறை வரையான கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 45 ‐ 50 கிலோமீற்றரிலும் கூடிய வேகத்தில் அடிக்கடி  காற்று அதிகரித்து வீசக்கூடும்.
+Frequent winds can be increased at 45 - 50 kilometers per hour in the sea regions from Matara to Pottuvil to Hambantota, from Colombo to Puttalam and Mannar via Kankesanthurai.
 
-இவ்வாறான சந்தர்ப்பங்களில் இக் கடல் பிராந்தியங்கள் ஓரளவு கொந்தளிப்பாகக் காணப்படும் என்று தெரிவிக்கப்பட்டுள்ளது.
+In these cases, the sea regions are somewhat turbulent.
 
 ◼️
 
 [Data](articles/eaeff250.json)
+
+[Extended Data](ext_articles/eaeff250.ext.json)
 
 ---
 
@@ -209,6 +233,8 @@ Daily Mirror learnt that the charges have increased to be in line with the land 
 ...
 
 [Data](articles/2cf85f95.json)
+
+[Extended Data](ext_articles/2cf85f95.ext.json)
 
 ---
 
@@ -286,19 +312,21 @@ Some locations in the Galle, Sabaragamuwa, Western and Uva provinces are expecte
 
 ---
 
-### அனுமதி மறுக்கப்பட்ட சீன ஆராய்ச்சி கப்பல் இலங்கை கடற்பரப்பிற்குள்?
+### Chinese research vessel denied permission into the Sri Lankan waters?
 
 *2024-02-07 06:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175760) · `ta`
 
-இலங்கையினால் விசேட பொருளாதார வலயத்திற்குள் நுழைவதற்கு அனுமதி மறுக்கப்பட்ட சீனாவின் ஆராய்ச்சிக்கப்பல் தற்போது நுழைவதற்கு அனுமதி மறுக்கப்பட்ட அந்த பகுதிக்குள் காணப்படுகின்றது என தகவல்கள் வெளியாகின்றன.
+China's research ship, which has been denied permission to enter the special economic zone by Sri Lanka, is now found in the area where it is now denied permission to enter.
 
-சீனாவின் இயற்கை வள அமைச்சிற்கு சொந்தமான தேர்ட் இன்ஸ்டியுட் ஒவ் ஓசோனோலஜியின் ஜியாங் யாங் கொங் 3 என்ற ஆராய்ச்சி கப்பல் இலங்கையின் விசேட பொருளாதார வலயத்திற்குள் காணப்பட்டது என தகவல்கள் வெளியாகியுள்ளன.
+According to reports, the Jiang Yang Kong 3 research ship, Third Institute of Ozonolji, owned by the Ministry of Natural Resources of China, was found within the special economic zone of Sri Lanka.
 
-இலங்கை அரசாங்கம் அனுமதி மறுத்ததை தொடர்ந்து குறிப்பிட்ட கப்பல் மாலைதீவை நோக்கி சென்றது எனினும் தற்போது அந்த கப்பல் இலங்கை கடற்பரப்பிற்குள் - இலங்கையின் பொருளாதார வலயத்திற்குள் காணப்படுகின்றது என தகவல்கள் வெளியாகின்றன.
+Following the refusal of the Sri Lankan government's refusal, the ship went to the Maldives, but the ship is now found within the Sri Lankan waters - the economic zone of Sri Lanka.
 
 ◼️
 
 [Data](articles/ec2cb08c.json)
+
+[Extended Data](ext_articles/ec2cb08c.ext.json)
 
 ---
 
@@ -337,6 +365,8 @@ Political analysts and diplomats say JVP has now become a formidable political f
 ...
 
 [Data](articles/c096a80e.json)
+
+[Extended Data](ext_articles/c096a80e.ext.json)
 
 ---
 
@@ -442,55 +472,61 @@ The NPP delegation yesterday held talks with the representatives of the leading 
 
 ---
 
-### 6 இந்திய மீனவர்கள் விடுதலை
+### 6 Indian fishermen release
 
 *2024-02-07 03:20:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-இந்திய-மீனவர்கள்-விடுதலை/175-332803) · `ta`
 
-இலங்கை கடற்பரப்பில் கடந்த மாதம் 23 ஆம் திகதி கைது செய்யப்பட்ட 6 இந்திய மீனவர்கள் ஊர்காவற்றுறை நீதவான் நீதிமன்றத்தினால் நேற்று விடுதலை செய்யப்பட்டுள்ளனர்.
+Six Indian fishermen arrested on the 23rd of last month have been released by the Kayts Magistrate's Court.
 
-நெடுந்தீவு கடற்பரப்பில் கடந்த 23 ஆம் திகதி 6 மீனவர்கள் கைது செய்யப்பட்டதுடன், 2 படகுகளும் கைப்பற்றப்பட்டன.
+Six fishermen were arrested on the 23rd of last month and 2 boats were seized.
 
-5  வருடங்களுக்கு ஒத்திவைக்கப்பட்ட 18 மாத சிறைத்தண்டனை என்ற நிபந்தனையின் அடிப்படையில், ஊர்காவற்றுறை நீதவான் நீதிமன்றத்தினால் 6 மீனவர்களும் நேற்று விடுதலை செய்யப்பட்டனர்.  (a)
+Six fishermen were released yesterday by the Kayts Magistrate's Court on the basis of the condition of the 18 -month prison sentence.(a)
 
 ◼️
 
 [Data](articles/47fc3877.json)
 
+[Extended Data](ext_articles/47fc3877.ext.json)
+
 ---
 
-### தேசிய மக்கள் சக்திக்கு எதிராக மனு தாக்கல்
+### Filed a petition against national people's power
 
 *2024-02-07 03:05:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்திக்கு-எதிராக-மனு-தாக்கல்/175-332802) · `ta`
 
-தேர்தல்கள் ஆணைக்குழுவினால் தேசிய மக்கள் சக்தியை பதிவு செய்துள்ள முறைமை சட்டவிரோதமானது எனவும் இது தொடர்பில் சமர்ப்பணங்களை முன்வைப்பதற்கு சந்தர்ப்பம் அளிக்குமாறும் கோரி உயர்நீதிமன்றில் மனுவொன்று தாக்கல் செய்யப்பட்டுள்ளது.
+A petition has been filed in the High Court demanding that the system registered with the National People's Power by the Elections Commission and the opportunity to present submissions in this regard.
 
-வினிவித பெரமுனவை அரசியல் கட்சியாக பதிவு செய்வதை நிராகரித்து தேர்தல்கள் ஆணைக்குழு மேற்கொண்ட தீர்மானத்துக்கு எதிராக தாக்கல் செய்யப்பட்டுள்ள நீதிப் பேராணை மனு மீதான விசாரணையின் போது அவர் இதனைக் குறிப்பிட்டுள்ளார்.
+He made this statement during the hearing on the petition filed by the Elections Commission to reject Vinevitha Peramuna as a political party.
 
-இது தொடர்பில் நகர்த்தல் பத்திரம் ஒன்றை தாக்கல் செய்துள்ள  வினிவித பெரமுனவின் செயலாளர் சட்டத்தரணி நாகானந்த கொடிதுவக்கு, ஜே.வி.பியின் பிரிவொன்றான தேசிய மக்கள் சக்தியை அரசியல் கட்சியாக பதிவு செய்துள்ளமை சட்டத்திற்கு முரணானது என தெரிவித்துள்ளார்.
+Attorney -at -Law Nagananda Kodiduwaku, the secretary of the Vinivitha Peramuna, who has filed a move in this regard, has said that the JVP's registration of national people's power as a political party is contrary to the law.
 
-அரசியலமைப்பின் 103 இன் இரண்டாம் இலக்க சரத்துக்கு அமைய, ஒரே கட்சியின் வெவ்வேறு பிரிவுகளை அரசியல் கட்சிகளாக பதிவு செய்கின்றமை சட்டவிரோதமானது எனவும் அவர் குறிப்பிட்டுள்ளார். (a)
+He also stated that it is illegal to register different sections of the same party as political parties, according to the second number of the Constitution.. (A)
 
 ◼️
 
 [Data](articles/8301e4f1.json)
 
+[Extended Data](ext_articles/8301e4f1.ext.json)
+
 ---
 
-### இன்று பாராளுமன்றத்தின் 5 ஆவது கூட்டத்தொடர்
+### The 5th session of Parliament today
 
 *2024-02-07 03:03:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பாராளுமன்றத்தின்-5-ஆவது-கூட்டத்தொடர்/175-332801) · `ta`
 
-ஒன்பதாவது பாராளுமன்றத்தின் ஐந்தாவது கூட்டத்தொடர் ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் இன்று  வைபவரீதியாக ஆரம்பித்து வைக்கப்படவுள்ளது.
+The fifth session of the ninth parliament will be inaugurated today under the leadership of President Ranil Wickremesinghe.
 
-அரசியலமைப்பினால் வழங்கப்பட்டுள்ள அதிகாரத்துக்கு அமைய ஜனாதிபதி இன்று காலை 10.30 மணிக்கு பாராளுமன்றத்தில் அரசாங்கத்தின் கொள்கைப் பிரகடனத்தை முன்வைக்கவுள்ளார்.
+The President will present the government's policy declaration in Parliament at 10.30 am today in accordance with the authority given by the Constitution.
 
-ஜனாதிபதியின் அறிவுறுத்தலுக்கமைய, அவரது வருகையின் போது, மரியாதை வேட்டுக்கள் தீர்த்தல் மற்றும் வாகனத் தொடரணி என்பன இடம்பெறமாட்டாது என பாராளுமன்ற படைக்கலச் சேவிதர் குஷான் ஜயரத்ன தெரிவித்துள்ளார்.
+Parliamentary Corps Kushan Jayaratne said that at the instructions of the president, during his visit, the rescue of honor and the vehicle will not be included.
 
-ஜனாதிபதியினால் அரசாங்கத்தின் கொள்கைப் பிரகடன உரை நிகழ்த்தப்பட்டதன் பின்னர் சபை நடவடிக்கை நாளை முற்பகல் 9.30 வரை ஒத்திவைக்கப்படவுள்ளது. (a)
+The House action will be postponed till 9.30 am tomorrow after the President's policy declaration was made by the president. (A)
 
 ◼️
 
 [Data](articles/b4cb18c7.json)
+
+[Extended Data](ext_articles/b4cb18c7.ext.json)
 
 ---
 
@@ -516,23 +552,25 @@ However, the Cabinet has also consulted to introduce amendments to the reorganiz
 
 ---
 
-### 'මගේ ජීවිතයේ හැමදේම පටන් ගත්තේ මට ඇස් පේන්නේ නැතුව ගියාට පස්සේ'
+### "After I started everything in my life,"
 
 *2024-02-07 02:34:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxrkpgllk5go) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.Play video, "ක්‍රීඩා : 'මගේ ජීවිතයේ හැමදේම පටන් ගත්තේ මට ඇස් පේන්නේ නැතුව ගියාට පස්සේ'", ධාවන කාලය 2,4502:45වීඩියෝ ශීර්ෂ වැකිය, ''මම අලුත් අභියෝග ජයගන්න කැමතියි. මට ඕනා මගේ ලිමිට් එක හොයන එක''
+There is nothing here. Play video, "Games:" The Running Time 2,4502: I Want to Overcome New Challenges ". I want to find my Lime ''
 
-'මගේ ජීවිතයේ හැමදේම පටන් ගත්තේ මට ඇස් පේන්නේ නැතුව ගියාට පස්සේ'
+"After I started everything in my life,"
 
-අවුරුදු 26 දී දෙනෙත් පෙනීම සම්පුර්ණයෙන් අහිමි වුව ද කාලිඩ් ඔස්මන් ඉන් කම්පා නොවී ජයග්‍රහණ රැසක් ලබාගත් ක්‍රීඩකයෙකි.
+At the age of 26, the eyesight is completely lost, but Karith Osman is a player who has received a range of achievements without shaking.
 
-ඔහු බොක්සිං ක්‍රීඩාවෙන් ජාත්‍යන්තර ජයග්‍රහණ ලබා ඇති අතර ජාතික දෘශ්‍යාබාධිත ක්‍රිකට් කණ්ඩායමේ සාමාජිකයෙකු ද වේ. එමෙන්ම ඔහු පිහිනීම, පාපැදි සහ මැරතන් තරග සදහා සහභාගී වේ.
+He has achieved international achievements from boxing and a member of the National Visually Handicapman. He also participates in swimming, bicycles and marathon.
 
-''මගේ ජීවිතයේ හැමදේම පටන් ගත්තේ මට ඇස් පේන්නේ නැතුව ගියාට පස්සේ. මට පේන කාලේ මම මුහුදේ පීනලා නෑ. බොක්සිං හෝ ක්‍රිකට් මට පෙන කාලේ කරලා නෑ. මම මේ සැරේ සිව්වැනි දකුණු ආසියානු තරගයෙන් බොක්සිං ක්‍රීඩාවෙන් රන් පදක්කමක් ගත්තා. මම අලුත් අභියෝග ජයගන්න කැමතියි. මට ඕනා මගේ ලිමිට් එක හොයන එක'' යනුවෙන් කාලිඩ් ඔස්මන් BBC සිංහල සේවයට පැවසුවේය.
+"After I started everything in my life, after I couldn't see my eyes. I haven't swirmed in the sea. Boxing or cricket has not done me. I took a gold medal from boxing from the fourth South Asian Competition. I like to overcome the new challenges. I want to look for my Lime, "Khalid Osman told BBC Sinhala.
 
 ◼️
 
 [Data](articles/1f5dcb58.json)
+
+[Extended Data](ext_articles/1f5dcb58.ext.json)
 
 ---
 
@@ -1177,6 +1215,8 @@ Gestetner of Ceylon PLC, the leader of office automation solutions providers in 
 ...
 
 [Data](articles/9f9c343c.json)
+
+[Extended Data](ext_articles/9f9c343c.ext.json)
 
 ---
 

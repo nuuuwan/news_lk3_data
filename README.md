@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 14:17:12**
+As of **2024-02-07 14:32:41**
 
 ## Newspaper Stats
 
-*Scraped **5,432** Articles*
+*Scraped **5,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,58 @@ adalk | 463
 virakesarilk | 655
 adaderanalk | 671
 tamilmirrorlk | 679
-adaderanasinhalalk | 701
+adaderanasinhalalk | 702
 dailymirrorlk | 772
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,427 (99.9%) of 5,432 articles have been extended.
+5,432 (100.0%) of 5,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### පොලීසිය වෙඩිතැබූ ටිපර් රථය පෙරළෙයි
+### ජෙරොම්ගේ නඩුවක් ගැන අධිකරණයෙන් CIDයට චෝදනාවක්
+
+*2024-02-07 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193079) · `si`
+
+බුදු දහම ඇතුළු අන්‍ය ආගම්වලට අපහාසාත්මක ප්‍රකාශයන් සිදු කළේ යැයි කියන සිද්ධියක් සම්බන්ධයෙන් ඇප මත මුදාහැර සිටින දේවගැති ජෙරොම් ප්‍රනාන්දුට එල්ල වී ඇති චෝදනාවකට අදාළ නඩු පැවරීමක් පිළිබඳ කොළඹ කොටුව මහෙස්ත්‍රාත්වරයා, අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට විවෘත අධිකරණයේ දී චෝදනාවක් එල්ල කර තිබේ.
+
+දේවගැති ජෙරොම් ප්‍රනාන්දුට එරෙහි ව මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ සිදු කරන විමර්ශනයට අදාළ  පැමිණිල්ල අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ගල්කිස්ස මහෙස්ත්‍රාත් අධිකරණය හමුවේ ගොනු කර තිබිණි.
+
+එසේ තමන් කැමති අධිකරණක් තෝරා ගැනීමට හැකියාවක් නොමැති බව කොටුව මහෙස්ත්‍රාත්වරයා විසින් විවෘත අධිකරණයේ දී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට චෝදනා කර ඇත.
+
+මෙම පැමිණිල්ල අද (07) කොළඹ කොටුව මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේ දී සිද්ධිය සම්බන්ධයෙන් ඇප මත මුදාහැර සිටින දේවගැති ජෙරොම් ප්‍රනාන්දු ද අධිකරණයේ පෙනී සිටියේ ය.
+
+එහි දී අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ විමර්ශන අංශයේ නිලධාරින් අධිකරණය හමුවේ කරුණු දක්වමින්, මෙම සිද්ධියට අදාළ වීඩියෝ දර්ශන සම්බන්ධයෙන් තවදුරටත් විමර්ශන සිදු කරන බව පවසා තිබේ.
+
+...
+
+[Data](articles/db2f7cfa.json)
+
+---
+
+### Police shot dead tripper
 
 *2024-02-07 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193078) · `si`
 
-යාපනය, පුත්තූර් ප්‍රදේශයේදී නීතිවිරෝධි ලෙස වැලි ප්‍රවාහනය කළ ටිපර් රථයකට අද (07) උදෑසන පොලීසිය වෙඩිතබා තිබේ.
+The police were shocked at a tipper, who was illegal transporting sand as illegal in the Jaffna, Puthtur.
 
-පොලීසිය පැවසුවේ පලෙයි ප්‍රදේශයේ සිට නීතිවිරෝධිව වැලි ප්‍රවාහනය කළ ටිපර් රථයක් නවත්වන ලෙසට පොලිස් නිලධාරීන් නියෝග කොට ඇති අතර, සැකකරුවන් පොලිස් අණ නොතකා ධාවනය කොට ඇති බවය.
+Police have ordered the suspects to stop a tipper transported by the suspects from Palai area.
 
-ඒ අනුව ටිපර් රථයේ ටයර්වලට කළ වෙඩිතැබීමෙන් පසු ටිපර් රථය පෙරළි තිබේ.
+The tipper has the filters after the shooting of tire to tire.
 
-එහිදී නීතිවිරෝධිව වැලි ප්‍රවාහනය කළ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇත.
+Two suspects who have been transporting illegal sand have been arrested.
 
-සැකකරුවන් හා අත්අඩංගුවට ගත් ටිපර් රථය යාපනය පේදුරුතුඩුව මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිත අතර, සිද්ධිය සම්බන්ධයෙන් අච්චුවේලි පොලීසිය වැඩිදුර පරීක්ෂණ සිදුකරයි.
+The suspects are to be produced before the Pointuru Uduvaduwa Magistrate's Court, Jaffna.
 
 ◼️
 
 [Data](articles/a7b51e22.json)
+
+[Extended Data](ext_articles/a7b51e22.ext.json)
 
 ---
 
@@ -106,27 +128,31 @@ Accordingly, the event featuring universities from Germany and the Netherlands w
 
 ---
 
-### හෝමාගම වගුරු බිමක පිරිමි මළ සිරුරක්
+### Body of a male found in Houriyagama
 
 *2024-02-07 13:20:48* · [`adalk`](https://www.ada.lk/breaking_news/හෝමාගම-වගුරු-බිමක-පිරිමි-මළ-සිරුරක්/11-407949) · `si`
 
-හෝමාගම කැන්දලන්ද හයිලේවල් මාර්ගයට යාබද වගුරු බිමක නාඳුනන පිරිමි පුද්ගල මළ සිරුරක් තිබී (07) දා උදෑසන සොයා ගත් බව හෝමාගම මූලස්ථාන පොලිසිය පවසයි.
+Homagama Police said that a dead body was found in a magnitude area adjoining the Candandand Highlight to the Coolanda Highlight in Homagama.
 
-මෙම පුද්ගලයාගේ අනන්‍යතාවය මෙතෙක් අනාවරණය වී නොමැති බව පොලිසිය කියයි.
+The identity of this person has not yet been revealed, police said.
 
-කොළඹ අවිස්සාවේල්ල ප්‍රධාන මාර්ගයේ හෝමාගම කැන්ද ලන්ද ප්‍රදේශයේ පිහිටා ඇති  පුද්ගලික වෙළඳ ආයතනයක් පිටුපස වගුරු බිමක  මෙම නාදුනන පිරිමි මළ සිරුර තිබී හමුවි ඇති බව පැවසේ.
+It is said that the unidentified man body was found in a traditional trading company located in Avissawella main road in Colombo.
 
-මළ සිරුර සොයා ගන්නා අවස්ථාවේ යට ඇඳුම සහ අර්ධව ගැලවූ කමිසයක් තිබී ඇති අතර ඒ ආසන්නයේ තිබී ජංගම දුරකථනයක් සහ බුලත් විට අඩංගු කුඩා ගමන් බෑගයක් සොයාගත් බව පොලීසිය කියයි.
+The underwear and a half-flowing shirt had been found in the midst and a small traveling bag in the nearby mobile and a small traveling bag in the near future.
 
-රිය අනතුරක් සිදුවීමෙන් පසු මියගිය පුද්ගලයා වගුරු බිමට ඇද දමා කිසියම් අයකු පලා ගියේද නැතහොත්  ඝාතනයක  ප්‍රතිඵලයක් එසේත් නැතිනම්   සියදිවි හානි කර  ගැනීමක් ද යන්න පිළිබදව විමර්ශන පවත්වන බව පොලිසිය පවසයි.
+Investigations have also been conducted to investigate the deceased after a car accident, or whether a result of a man or a suicide.
 
-මෙම පුද්ගලයා දින දෙකකට පමණ පෙර මිය යන්නට ඇති බවට පොලිසිය සැක කරයි.
+Police suspect that this person has died about two days ago.
 
-සිද්ධිය වූ ස්ථානයේ මහේස්ත්‍රාත් පරීක්ෂණයක් සිදු කිරීමට නියමිතව තිබූ අතර නුගේගොඩ කොට්ඨාස අපරාධ ස්ථාන පරීක්ෂණ ආයතන නිලධාරීන්  පැමිණ පරීක්ෂණ ආරම්භ කර තිබේ.
+A magisterial inquiry into the incident was to be conducted and the Nugegoda Divisional Troops (Nugegoda Divisional Secretariat officials have commenced investigations.
 
-...
+Homagama Headquarters Inspector Pratenith, Pranindi, is conducting investigations.
+
+◼️
 
 [Data](articles/edbb6448.json)
+
+[Extended Data](ext_articles/edbb6448.ext.json)
 
 ---
 
@@ -180,23 +206,27 @@ CBK Back in Politics: Leads Broad Alliance for Upcoming Elections
 
 ---
 
-### ලංකාවෙන් ගැමීබියාවට සහල්
+### Rice to Gamibia from Sri Lanka
 
 *2024-02-07 13:02:07* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවෙන්-ගැමීබියාවට-සහල්/11-407948) · `si`
 
-කජු වගා කිරීමේ දී ගැම්බියාව යොදා ගන්නා වගා තාක්ෂණය ශ්‍රී ලංකාවට ලබා දීමට ශ්‍රී ලංකාවේ ගැම්බියානු තානාපතිවරයා සහයෝගය පළ කරයි.
+Sri Lanka's Ambassador to Sri Lanka has been supporting Sri Lanka to provide the cultivation technology used in cashew cultivation.
 
-ගැම්බියාව ශ්‍රී ලංකාව මෙන් කෘෂිකාර්මික වශයෙන් කුඩා රටක් වුවත්  රටකජු, කජු ආදි වගාවන් රැසකින් මේ වනවිට ස්වයංපෝෂිත මට්ටමට පත්ව ඇතැයි ශ්‍රී ලංකාවේ ගැම්බියානු තානාපති මුස්තාපා ජවාරා මහතා පැවසීය.
+Gambian Ambassador Mustapha Javara said that the Gambia is a small country as a small country like Sri Lanka, he said.
 
-ගැම්බියානු තානාපතිවරයා පසුගියදා (05) කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා හමුවී මෙරට කෘෂි අංශ නවීකරණය පිළිබඳ සාකච්ඡා කළේය.
+The Gambian Ambassador recently met Minister of Agriculture and Plantation Industries Mahinda Amaraweera and discussed the country's agricultural department in Sri Lanka.
 
-එහිදී අදහස් පළ කළ ඒ මහතා ගැම්බියාවේ වගා කරන කජු ඉන්දියාව ඇතුළු රටවල් ගණනාවකට අපනයනය කර විශාල ආදායමක් උපයන බවද සදහන් කළේය.විශේෂයෙන් ගැම්බියාවේ ගංගා ඉවුරු දෙපස බහුල වශයෙන් කජු වගා කර ඇති බවත්  තානාපතිවරයා සඳහන් කළේය.
+He said that he said that he was exported to several countries, including a large income from Gambia India.
 
-මෙහිදී අදහස් පළ කළ කෘෂිකර්ම අමාත්‍ය මහින්ද අමරවීර මහතා මෙරට කජු වගාවේ යම් පසුබෑමක් ඇති වී ඇතැයි ද ඊට හේතුව වැඩි අස්වැන්නක් ලබා දෙන  නව කජු විශේෂ හඳුනා ගැනීමට පියවර නොගැනීම බව ද සඳහන් කළේය. එමනිසා ගැම්බියාවේ කජු වගා තාක්ෂණය මෙරට තුළ යොදා ගැනීම සඳහා තාක්ෂණික සහයෝගය ලබා දෙන ලෙස අමාත්‍යවරයා ගැම්බියානු තානාපතිවරයාගෙන් ඉල්ලීමක් කළේය.
+He said that Minister of Agriculture Mahinda Amaraweera has caused some downturn in cashew cultivation in this country, and not to identify new cashew specials. Therefore, the Minister requested the Gambian Ambassador to the use of technical assistance to use the technology to use the cashew cultivation technology in the country.
+
+It also discussed that the bilateral agreement was taken into a bilateral agreement for the gambia in Sri Lanka.
 
 ...
 
 [Data](articles/0ae59dec.json)
+
+[Extended Data](ext_articles/0ae59dec.ext.json)
 
 ---
 
@@ -552,21 +582,25 @@ When they were produced before the court on Tuesday, judge ordered their release
 
 ---
 
-### දරුවන් දෙදෙනාට අමානුෂික ලෙස පහර දි එය  සමාජ මාධ්‍යට එක් කල පියා අත්අඩංගුවට
+### Father arrested for brutally assaulted the two children
 
 *2024-02-07 11:40:20* · [`adalk`](https://www.ada.lk/breaking_news/දරුවන්-දෙදෙනාට-අමානුෂික-ලෙස-පහර-දි-එය--සමාජ-මාධ්‍යට-එක්-කල-පියා-අත්අඩංගුවට/11-407943) · `si`
 
-තම දරුවන් දෙදෙනාට අමානුෂික ලෙස පහර දි එය විඩියෝ ගත කර සමාජ මාධ්‍යට එක් කල දරුවන්ගේ පියා (07) දින උදැසන අත්අඩංගුවට ගත් බව දිඹුල පතන පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරික්ෂක ආනන්දසිරි මහතා පැවසිය.
+Dimbula Patana Police OIC Chief Inspector Anandasiri said that the father of children (07) of their children were inhumane to their children.
 
-දිඹුල පතන පොලිස් වසමේ වතු යායක පිහිටි බිරිදගේ නිවසේ පදිංචිව සිටින 33 හැවිරිදි සැකකාර පියා ඉකුත් (05) දින රාත්‍රියේ නිවසේදි අවු 09 සහ 05 හැවිරිදි දරුවන් දෙදෙනාට පහර දි ඇති බවත්, සැකකරුගේ බිරිද ගෘහසේවය සදහා විදේශ ගත වි ඇති බවයි පොලිස් ස්ථානාධිපතිවරයා කියා සිටියේ.
+The OIC said that the wife of the house was attacked at the house of the Dimbula Dimbulan Pattha Patuna, and the two-year-old children of the house.
 
-දරුවන් දෙදෙනා මිත්තණිය භාරයේ සිට ඇති බවත්, සැකකරු කොළඹ ප්‍රදේශයේ වාහන පිරිසිදු කිරිමේ මධ්‍යස්ථානයක සේවය කරන අයෙකු බවත්, දරුවන් දෙදෙනා පියාගේ උපදෙස් නොපිලිපදින නිසා සැකකරු විසින් දරුවන් දෙදෙනාට අතින් පහරවල් කිහිපයක් ගසා ඇති බවට දැනට කරන ලද මුලික පරික්ෂණ වලදි අනාවරණය වි ඇත.
+The suspect is determined by the suspect, as the two children were working at a vehicle cleaner center in Colombo and the suspect was involved in a vehicle's advice in Colombo.
 
-සැකකරු ලිදුල පොලිස් වසමට අයත් නාගසේන ප්‍රදේශයේ පිහිටි ඔහුගේ නිවසේ දරුවන් දෙදෙනා සමග රැදි සිටියදි අත්අඩංගුවට ගෙන සැකකරු සහ දරුවන් දෙදෙනා වැඩිදුර විමර්ෂණ කටයුතු සදහා ලිදුල පොලිසිය වෙත භාර දි ඇත.
+The suspect was arrested and handed over to the liduli police for further investigations in the Nagasena area belonging to the Sabula area.
 
-...
+The two children who were taken into custody were taken to the Judiciary of the Basic Hospital of the Dikoya Basic Hospital and will be produced before the Hatton Secretariat.
+
+◼️
 
 [Data](articles/5343d079.json)
+
+[Extended Data](ext_articles/5343d079.ext.json)
 
 ---
 
@@ -614,21 +648,23 @@ Earlier this month, the president of Buddhist Information Centre, Ven. Agulugall
 
 ---
 
-### කාන්තාවක් මෙහෙයවූ කොල්ල කල්ලියක් අල්ලයි
+### A loot gang of woman arrested
 
 *2024-02-07 11:35:57* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවක්-මෙහෙයවූ-කොල්ල-කල්ලියක්-අල්ලයි/11-407942) · `si`
 
-කාන්තාවක් විසින් මෙහෙයවන ලද කොල්ල කල්ලියකට සම්බන්ධ දෙදෙනෙකු ඇතුළු එය මෙහෙය වු කාන්තාව අත්අඩංගුවට ගත් බව බස්නාහිර පළාත දකුණු දිශාව අපරාධ කොට්ඨාසය කියයි.
+The Western Province says the criminal area says that the woman was arrested, including two persons who were involved in a robbery operated by a woman.
 
-ඉකුත් 31 වැනි දින මීගොඩ ප්‍රදේශයේ නිවසකට ඇතුළු වී පුද්ගලයකුට  පහරදි තුවාල සිදුකර රුපියල් ලක්ෂ හයකට ආසන්න  වටිනා රන් මාලයක් සහ මුදුවක් කොල්ලා කෑමේ අපරාධයක් සම්බන්ධයෙන් සැකකරුවන් දෙදෙනා සහ සැකකාරිය මීගොඩ ගොඩගම හා බ්‍රැන්ඩිගම්පොල ප්‍රදේශවලදී අත්අඩංගුවට ගැනීමට හැකිවූ බව පොලිසිය කියයි.
+The suspects were arrested in Meegoda on the 31st and the suspects were arrested and the two suspects were arrested and the suspect was arrested in the Meegoda Godagama and Brandigampola.
 
-කොල්ල කන ලද රන්මාලය සහ මුදුව මෙන්ම ඒ සඳහා පැමිණි යතුරුපැදිය මෙන්ම ජංගම දුරකථන දෙකක්ද පොලිස් භාරයට ගෙන ඇත
+Police seized the robbed Ranmal and the rise and two mobile phones
 
-වයස අවුරුදු 24 හා 43 අතර පසුවන සැකකරුවා සැකකාරයන් හංවැල්ල ප්‍රදේශයේ පදිංචිකරුවන්ය.සැකකරුවන් අධිකරණය වෙත ඉදිරිපත් කිරීම සඳහා මේ ගොඩ පොලිසිය වෙත භාරදී ඇත.
+The suspects between 24 and 43, residents of Hanwella.
 
 ◼️
 
 [Data](articles/2e65a253.json)
+
+[Extended Data](ext_articles/2e65a253.ext.json)
 
 ---
 
@@ -2027,21 +2063,5 @@ In the late 1980s, the JVP warned the Sinhala electorate of Indian expansionism,
 [Data](articles/44e9390f.json)
 
 [Extended Data](ext_articles/44e9390f.ext.json)
-
----
-
-### ITAK’s New Leader is an Unabashed LTTE Apologist
-
-*2024-02-07 03:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/ITAKs-New-Leader-is-an-Unabashed-LTTE-Apologist/172-276484) · `en`
-
-Tamil nationalism would take the same perilous journey, dragging the country down with it
-
-When pro-Palestinian groups planned protests on Armistice Day last year, policymakers in Europe were livid, calling, rightly so, the conduct ‘disgraceful’. No matter the context – in this case, the Israeli military campaign on Gaza in response to the Hamas terrorist attack on October 7th – such protests held on a special day of the collective memory are an affront to the majority, insensitive and provocative.
-
-...
-
-[Data](articles/3584678c.json)
-
-[Extended Data](ext_articles/3584678c.ext.json)
 
 ---

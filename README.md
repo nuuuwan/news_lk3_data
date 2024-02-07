@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 15:17:20**
+As of **2024-02-07 15:33:05**
 
 ## Newspaper Stats
 
-*Scraped **5,452** Articles*
+*Scraped **5,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ islandlk | 288
 economynextcom | 289
 dailyftlk | 305
 newsfirstlk | 339
-adalk | 464
-virakesarilk | 657
-adaderanalk | 675
-tamilmirrorlk | 679
+adalk | 465
+virakesarilk | 658
+adaderanalk | 676
+tamilmirrorlk | 682
 adaderanasinhalalk | 704
-dailymirrorlk | 772
+dailymirrorlk | 774
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,446 (99.9%) of 5,452 articles have been extended.
+5,452 (99.9%) of 5,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### Legal dispute after runner-up replaced national badminton champion at Asian Games
+
+*2024-02-07 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97083/legal-dispute-after-runner-up-replaced-national-badminton-champion-at-asian-games) · `en`
+
+The Colombo Chief Magistrate’s Court has ordered the Chairman of the Sri Lanka Badminton Association and its board members to appear before the special investigation unit taking action against sports-related offences.
+
+The relevant officials have been asked to show cause for sending the runner-up to represent Sri Lanka at the 2023 Asian Games instead of the national badminton champion.
+
+A group of 97 sportspersons including a badminton player represented Sri Lanka in the 2023 Asian Games held in Hangzhou, China.
+
+It is alleged that Buwaneka Goonethilake, who secured the title as the National Badminton Champion for 03 consecutive years, was replaced by the runner-up Viren Nettasinghe.
+
+Investigations were initiated into the matter by the special investigation unit probing sports-related offences, after a complaint was filed by Mrs. Preethi Disna Ileperuma, the mother of Buwaneka Goonethilake.
+
+...
+
+[Data](articles/6716ff83.json)
+
+---
 
 ### Special Monetary Policy Board meeting to be held today
 
@@ -47,6 +67,42 @@ The Board consists of the Governor of the CBSL, who serves as the Chairperson of
 ◼️
 
 [Data](articles/f275e658.json)
+
+[Extended Data](ext_articles/f275e658.ext.json)
+
+---
+
+### நுவரெலியா மின்சார சபை அலுவலகத்திற்கு முன்பாக மதிய உணவு நேரத்தில் போராட்டம்!
+
+*2024-02-07 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175797) · `ta`
+
+போராட்டத்தில் கலந்து கொண்ட மின்சார சபை உத்தியோகத்தர்களை தன்னிச்சையாக பணி இடைநிறுத்தம் செய்தமை மற்றும் சம்பளம் மற்றும் கொடுப்பனவுகளை அதிகரிக்காமைக்கு எதிர்ப்பு தெரிவித்து இன்று புதன்கிழமை (07) நுவரெலியா மின்சார சபை அலுவலகத்திற்கு முன்பாக அதிகாரிகள் மற்றும் ஊழியர்கள் மதிய உணவு வேளையில் ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+போராட்டத்தில் கலந்து கொண்டு பேசிய மின்சார சபை ஊழியர் சங்க நிர்வாகிகள், மின்சார சபை ஊழியர்களின் பிரச்சினைகளுக்கு தீர்வு காண கோரி 66 பேரை பணி நீக்கம் செய்து இடமாற்றம் செய்ததை வன்மையாக கண்டிப்பதாக தெரிவித்தனர்.
+
+மின்சார சபைக்கு சொந்தமான சொத்துக்களை வெளிநாட்டு நிறுவனங்களுக்கு விற்று ஊழியர்களின் தியாகத்திற்கு ஏற்ற சம்பளம் வழங்காமல் கடும் நெருக்கடிக்கு உள்ளாகியுள்ளதாக தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/5f1193a6.json)
+
+---
+
+### பாரதியார் பாடலை பாடிய ஜனாதிபதி
+
+*2024-02-07 14:42:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரதியார்-பாடலை-பாடிய-ஜனாதிபதி/175-332825) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க, ஒன்பதாவது பாராளுமன்றத்தின் ஐந்தாவது கூட்டத்தொடரை, புதன்கிழமை (07) ஆரம்பித்து வைத்து கொள்கை கொள்கைப் பிரகடன உரையாற்றினார். அதன்போது, புத்தரின் கூற்றை மேற்கோள் காட்டினார்.
+
+அத்துடன், அமெரிக்காவின் எழுத்தாளரும் பேச்சாளருமான எலன் கெல்லர், பாரதியார் ஆகியோரின் எழுத்துக்களையும் மேற்கோள் காட்டி உரையாற்றினார்.
+
+19 ஆம் நூற்றாண்டில் அமெரிக்காவின் எழுத்தாளரும் பேச்சாளருமான எலன் கெல்லர் "தனியாக நாம் சில விடயங்களை மட்டுமே செய்ய முடியும். ஒன்று பட்டால் பல விடயங்களை செய்யலாம்."
+
+19 ஆம் நூற்றாண்டில் மகாகவி பாரதியார் தனது நாடு பற்றி எழுதிய கவிதையொன்று நினைவிற்கு வருகிறது. அதனை சிங்களத்தில் மொழி பெயர்த்தவர் பேராசிரியர் சுனில் ஆரியரத்ன
+
+...
+
+[Data](articles/09a8fcb3.json)
 
 ---
 
@@ -67,6 +123,26 @@ The Ceylon Electricity Board (CEB), the Ceylon Electricity Board, the Ceylon Ele
 [Data](articles/8272bf80.json)
 
 [Extended Data](ext_articles/8272bf80.ext.json)
+
+---
+
+### அகதிகளாக 5பேர் தனுஷ்கோடியில் தஞ்சம்
+
+*2024-02-07 14:29:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அகதிகளாக-5பேர்-தனுஷ்கோடியில்-தஞ்சம்/175-332824) · `ta`
+
+நாட்டிலிருந்து அகதிகளாக ஒரே குடும்பத்தைச் சேர்ந்த 3 குழந்தைகள் உட்பட ஐந்து பேர் இன்றையதினம் (07) ஒன்றாம் மணல் தீடையில் தஞ்சமடைந்துள்ளதாக மெரைன் பொலிஸார் தெரிவித்துள்ளனர்.
+
+நாட்டில் ஏற்பட்டுள்ள கடுமையான பொருளாதார நெருக்கடி காரணமாக  அத்தியாவசிய தேவைகளுக்காக கடும் சிரமத்திற்கு ஆளாகி உள்ளனர்.
+
+வவுனியா நெடுங்குழி பகுதியை சேர்ந்த நந்தகுமார்  அவரது மனைவி  மற்றும் அவரது 3 குழந்தைகள் என ஒரே குடும்பத்தை  சேர்ந்த  5 பேர் செவ்வாய்க்கிழமை (06) மன்னாரில் இருந்து ரூ.1.50இலட்சம்  கொடுத்து   படகில் புறப்பட்டு இன்று (7) அதிகாலை ராமேஸ்வரம் அடுத்துள்ள தனுஷ்கோடி அரிச்சல்முனை ஒன்றாம் மணல் திட்டில் கடற்கரையில் சென்றடைந்துள்ளனர்.
+
+தகவலறிந்த இராமேஸ்வரம் மெரைன் பொலிஸார் இலங்கை தமிழர்களை மீட்டு மண்டபம் மெரைன் பொலிஸ் நிலையத்தில் வைத்து விசாரணை நடத்தி வருகின்றனர்.
+
+இதேவேளை, பொருளாதார நெருக்கடி காரணமாக  தமிழகத்திற்கு இலங்கையிலிருந்து வந்த அகதிகளின் எண்ணிக்கை  293 ஆக உயர்ந்துள்ளது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3bfe4616.json)
 
 ---
 
@@ -194,23 +270,27 @@ Accordingly, the official reserve assets have reached USD 4,491 million in Janua
 
 [Data](articles/0c6d4aed.json)
 
+[Extended Data](ext_articles/0c6d4aed.ext.json)
+
 ---
 
-### පතුරම් සමග පුද්ගලයෙක් අත්අඩංගුවට
+### Suspect arrested with ammunition
 
 *2024-02-07 13:39:10* · [`adalk`](https://www.ada.lk/breaking_news/පතුරම්-සමග-පුද්ගලයෙක්-අත්අඩංගුවට/11-407950) · `si`
 
-හපුගස්තලාවළුදැමඩ ප්‍රදේශයේ නිව කසක තිබි ටි. 56 උන්ඩ හා ස්පයිනර් උන්ඩයක් සමග සැක පිට එක් පුද්ගලයක් තලවාකැලේ පොලිස් වීශේෂ බලකා නිලධාරින් විසින් අත් අඩංගුවට ගෙන ඇත.
+Tsi was ties in Hapugastalawa. Talawakelle Police Special Officers have been arrested by the Talawakelle Police Officers.
 
-තලවාකැලේ පොලිස් වීශේෂ බලකායේ නිලධාරින්ට ලද තොරතුරක් මත එහි නිලධාරින් පිරිසක් විසින් කරන ලද සෝදිසියකදි හපුගස්තලාව කළුදැමඩ ප්‍රදේශයේ නිවසක්  තුල තිබි (7.62x39mm) ටි.56 උන්ඩ 05ක් හා ස්පයිනර් උන්ඩයක් සමග එක් පුද්ගලයකු අත් අඩංගුවට ගෙන ඇත.
+On information received by the Talawakele Police Inspects, a group of officers had been searched in a house in Hapugastalawa, Hapugastalawa.
 
-මේ පිලිබදව කරන ලද විමසිමකදි අදහස් දැක්වු තලවාකැලේ පොලිස් වීශේෂ බලකා කදවුරේ නිලධාරියකු පවසන ලද්දේ ලද තොරතුරක් මත 06වන දින රාත්‍රියේ කරන ලද සෝදිසියකදි මෙම උන්ඩ හා සැකපිට එක් පුද්ගලයකු අත් අඩංගුවට ගත් බවත්ය.
+An official of the Talawakelle Police Inspired of Talawakelle Police Special Special Visitor Base was said to have been arrested on the 6th of this month on the 6th of this month.
 
-මෙසේ අත් අඩංගුවට ගන්නා ලද සැකකරු ඉදිරි නිතිමය කටයුතු කිරිම සදහානාවලපිටිය ‍පොලිසිය වෙත බාර දිමට පියවර ගත් බවද එම නිලධාරියා වැඩි දුරටත් පැවසිය.
+The officer added that the arrested suspect had taken steps to hand over the next law.
 
 ◼️
 
 [Data](articles/227347ea.json)
+
+[Extended Data](ext_articles/227347ea.ext.json)
 
 ---
 
@@ -225,6 +305,8 @@ As a result, the trains plying on the Main Line can experience delays, according
 ◼️
 
 [Data](articles/1022cc77.json)
+
+[Extended Data](ext_articles/1022cc77.ext.json)
 
 ---
 
@@ -304,6 +386,8 @@ The Head of State presented the government’s policy statement to the House aft
 
 [Data](articles/e7357e6b.json)
 
+[Extended Data](ext_articles/e7357e6b.ext.json)
+
 ---
 
 ### Former Navy Chief Daya Sandagiri joins SJB
@@ -319,6 +403,8 @@ Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
 ◼️
 
 [Data](articles/2a61bf4f.json)
+
+[Extended Data](ext_articles/2a61bf4f.ext.json)
 
 ---
 
@@ -401,6 +487,18 @@ Homagama Headquarters Inspector Pratenith, Pranindi, is conducting investigation
 [Data](articles/edbb6448.json)
 
 [Extended Data](ext_articles/edbb6448.ext.json)
+
+---
+
+### Ceremonial opening of Parliament...
+
+*2024-02-07 13:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ceremonial-opening-of-Parliament/110-276510) · `en`
+
+President Ranil Wickremesinghe arriving at the Parliament Complex for the ceremonial opening of the Fifth Session of the Ninth Parliament today. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/e5180bbf.json)
 
 ---
 
@@ -760,6 +858,22 @@ Claiming that the process of drafting the OSA was shrouded in secrecy, CPA said 
 
 ---
 
+### පිළිකා රෝගීන්ට වර්ෂයකට සරිලන අත්‍යවශ්‍ය ඖෂධ වර්ග 13 ක ප්‍රධානයක්
+
+*2024-02-07 12:06:13* · [`adalk`](https://www.ada.lk/breaking_news/පිළිකා-රෝගීන්ට-වර්ෂයකට-සරිලන-අත්‍යවශ්‍ය-ඖෂධ-වර්ග-13-ක-ප්‍රධානයක්/11-407945) · `si`
+
+මෙරට පිළිකා රෝගීන්ට ප්‍රතිකාර කිරීම සදහා අවශ්‍යය වන අත්‍යවශ්‍ය ඖෂධ තොගයක් සෞඛ්‍ය අමාත්‍යාංශයට ලබා දීම සදහා ගිවිසුම් ගත වීම අද දින (07) සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ ප්‍රධානත්වයෙන්  සෞඛ්‍ය අමාත්‍යාංශයේදී සිදු විය .
+
+සෞඛ්‍ය අමාත්‍යාංශය වෙනුවෙන් ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල  සහ අනුග්‍රහය දක්වන LDS Latter – day saints charities (USA) ආයතනය වෙනුවෙන් Mr. Mickey Lui - Area Welfare and Self-Reliance Director යන මහත්වරුන් ගිවිසුමට අත්සන් තබන ලදී.
+
+මෙම අත්‍යවශ්‍ය පිළිකා  ඖෂධ තොගයට ඖෂධ වර්ග 13 ක් ඇතුලත් වන අතර මෙහි වටිනාකම ඇමරිකානු ඩොලර් මිලියනයකට අධික වේ. පළමු අදියර යටතේ සෞඛ්‍ය අමාත්‍යාංශයට ලබා දෙන මෙම අත්‍යවශ්‍ය පිළිකා  ඖෂධ තොගය මෙරට වර්ෂයක (01) පිළිකා ප්‍රතිකාර සදහා ප්‍රමානවත් වේ . දෙවන අදියර යටතේ මෙරටට අවශ්‍යය වන  තවත් ඖෂධ වර්ග තොගයක් ඉදිරි මාස කිහිපය තුළදී මෙරටට ලබා දීමට එම ආයතනය සැලසුම් කර ඇත.
+
+...
+
+[Data](articles/11ef04b3.json)
+
+---
+
 ### The test is the date of the test
 
 *2024-02-07 11:56:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சோதனை-திகதியே-சோதனையானது/175-332821) · `ta`
@@ -1096,6 +1210,22 @@ Delivering the government's Policy Statement in Parliament, he said the tax regi
 
 ---
 
+### Planning to revise VAT percentage to further support economic growth: President
+
+*2024-02-07 11:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Planning-to-revise-VAT-percentage-to-further-support-economic-growth-President/155-276499) · `en`
+
+Colombo, Feb 7 (Daily Mirror) - The government was planning to reduce the tax burden as economic reforms continue to stabilize the economy, President Ranil Wickremesinghe said in his Policy Statement in Parliament today.
+
+“We are also revising the VAT percentage to further support economic growth,” he added.
+
+Delivering the government's Policy Statement in Parliament, he said the tax registration has substantially increased, with the number of registrations growing from 437,547 in 2022 to 1,000,029 by the end of 2023, representing a 130% increase.
+
+◼️
+
+[Data](articles/f8817585.json)
+
+---
+
 ### "Cannabis" says nothing like that
 
 *2024-02-07 11:13:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சா-அப்படி-எதுவும்-இல்லை-என்கின்றார்-பந்துல/175-332818) · `ta`
@@ -1225,6 +1355,22 @@ Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
 [Data](articles/ae6f9ec7.json)
 
 [Extended Data](ext_articles/ae6f9ec7.ext.json)
+
+---
+
+### பிள்ளைகளை தாக்கி வீடியோ வெளியிட்ட தந்தை கைது: காணொளி
+
+*2024-02-07 10:56:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளைகளை-தாக்கி-வீடியோ-வெளியிட்ட-தந்தை-கைது-காணொளி/175-332816) · `ta`
+
+தனது இரண்டு பிள்ளைகளை கொடூரமாக தாக்கி வீடியோ எடுத்து சமூக வலைத்தளங்களில் பதிவிட்ட தந்தை ஒருவர் இன்று (07) கைது செய்யப்பட்டதாக திம்புல்ல பத்தனை பொலிஸ் நிலைய பிரதான பொலிஸ் பரிசோதகர் ஆனந்தசிறி தெரிவித்தார்.
+
+திம்புல்ல பத்தனை பொலிஸ் பிரிவுக்குட்பட்ட பகுதியிலுள்ள தனது மனைவி வீட்டில் வசிக்கும் 33 வயதுடைய நபர் கடந்த (05) திங்கட்கிழமை 09 மற்றும் 05 வயதுடைய தனது இரண்டு பிள்ளைகள் மீது தாக்குதல் நடத்தியதாக பொலிஸ் நிலைய கட்டளைத் தளபதி தெரிவித்தார்.
+
+இதற்கமைய, பிள்ளைகளின் தாயார் வெளியூரில் இருப்பதாகவவும், பிள்ளளைகள் பாட்டியின் பராமரிப்பில் இருப்பதாகவும், பிள்ளைகளின் கொழும்பில் உள்ள கார் சுத்தம் செய்யும் மையத்தில் பணிபுரிந்து வருவதாகவும் முதற்கட்ட விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/32a30ec1.json)
 
 ---
 
@@ -1859,177 +2005,5 @@ Meanwhile, the Resolution under the Essential Public Services Act is scheduled t
 [Data](articles/ab6e9474.json)
 
 [Extended Data](ext_articles/ab6e9474.ext.json)
-
----
-
-### No possibility of importing vehicles for a considerable period of time: Minister
-
-*2024-02-07 08:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-possibility-of-importing-vehicles-for-a-considerable-period-of-time-Minister/108-276490) · `en`
-
-Colombo, Feb 7 (Daily Mirror) - Due to the ongoing financial crisis and import restrictions, the government announced yesterday that it would be impossible to import vehicles for a considerable period of time.
-
-Addressing the weekly cabinet media briefing, Cabinet Spokesman Bandula Gunawardana yesterday said that import restrictions will be relaxed carefully and gradually.
-
-The Central Bank of Sri Lanka (CBSL) will inform the cabinet about how they take decisions to relax the import restrictions gradually.
-
-Meanwhile, raising his voice for the proposed amendments for foreign exchange orders already implemented for implementing the plan to lift the foreign exchange limitations step by step, the minister said that Sri Lanka is bound to lift the administrative measurements taken step by step when the country’s balance of payments reaches a steady stance as per the International Monetary Fund's (IMF) report on Sri Lanka.
-
-◼️
-
-[Data](articles/76c66964.json)
-
-[Extended Data](ext_articles/76c66964.ext.json)
-
----
-
-### Three suspects arrested for robbery
-
-*2024-02-07 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193066) · `si`
-
-Two persons and a woman have been arrested on suspicion of injury to a house and injured a gold and gold.
-
-The robber was carried out on January 31st and the value of the plundered goods was reported at Rs. 540,000.
-
-The Western Province North Crimes Division conducted a complaint lodged in the Meegoda Police regarding the incident.
-
-Accordingly, two suspects were arrested in Godagama and Brandigama in the Meegoda yesterday morning.
-
-The two suspects are aged 24 and 27 and the suspect is 43 years old.
-
-The suspects were recovered and two mobile phones were taken into police custody with the robbery.
-
-Investigations have revealed that the robbery was conducted by the suspect above.
-
-◼️
-
-[Data](articles/a9995d05.json)
-
-[Extended Data](ext_articles/a9995d05.ext.json)
-
----
-
-### President Ranil Wickremesinghe: "The economy that collapsed at a metestage faster was rapidly restored
-
-*2024-02-07 08:26:32* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cevryv41rjdo) · `si`
-
-It contains nothing here. Play Video, "'The Running Period - 41,1141: 11, the President is the full story of the President.
-
-President Ranil Wickremesinghe: "The economy that collapsed at a metestage faster was rapidly restored
-
-President Ranil Wickremesinghe said in parliament today (February 07) that the economy that collapsed at a meteor was rapidly restored.
-
-'' Stuck in a Dark Economic Skin 'Weight See the Light. The economy of the intensive care unit is now being liberated from critical condition. If the Community Front could not do if the CEO was able to join the country for the countryWhy cannot the JVP not to join the country to join the country? "
-
-This video is where the President has made the President's Fifth Scenario.
-
-◼️
-
-[Data](articles/ad1c5cad.json)
-
-[Extended Data](ext_articles/ad1c5cad.ext.json)
-
----
-
-### Anura went in India to information in information
-
-*2024-02-07 08:06:44* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-ඉන්දියාවේ-ගියේ-රෝ-ඔත්තු-සේවයේ-තොරතුරකට/11-407940) · `si`
-
-Namal Karunaratne, the National Organizer of the Ceylon Agrarian Federation, was on information provided to India by the leader of the national popularity.
-
-Samantha Vidyaratne who proved that information was said to have been invited to discuss with several other countries and depending on the foreign countries.
-
-Farmers' conferences organized by the All Ceylon Agrarian Federation, Matale District Farmies, was held on 6th day at the Dambulla shop.
-
-The Summit in the Matale District and the team of national immigration were informed of the conference on new policies.
-
-Soon the National Organizer of the Ceylon Farmers Federation said that the torture of the Indian government is an official invitation of the party and is a state diplomatic in India and a intelligence in India.He added that the journey had been based on the journey to the Indian government that the next governments in Sri Lanka would be able to get the power to composition.
-
-...
-
-[Data](articles/edf685e9.json)
-
-[Extended Data](ext_articles/edf685e9.ext.json)
-
----
-
-### Report of the committee to decide limits
-
-*2024-02-07 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193065) · `si`
-
-The Supreme Court has issued permission to the Prime Minister to present the appointment of the appointment of the appointment of the appointed committee.
-
-The permission was issued after the President's Counsel Faiz Mustapha, who was named as a respondent yesterday (06).
-
-The petitions were called before Chief Justice Jayantha Jayasuriya, Vijith Balalgoda, Mustru Fernando and Gamini Amarasekera and Yasantha Kodagoda.
-
-President's Counsel Faiz Mustapha, who was named as a respondent in the petitions, was said to have been filed as a respondent to Prime Minister Dinesh Gunawardena and several other documents.Ada Deraa Reporter stated.
-
-Attorneys the Attorneys of the Petitioner also informed the Petitioner's party that he would oppose the filing of a motion to submit the trial.
-
-...
-
-[Data](articles/fbb50026.json)
-
-[Extended Data](ext_articles/fbb50026.ext.json)
-
----
-
-### Fifth Session of the Ninth Parliament to commence today
-
-*2024-02-07 08:02:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/fifth-session-of-the-ninth-parliament-to-commence-today/) · `en`
-
-COLOMBO (News 1st); The Fifth Session of the Ninth Parliament will commence today in the presence of President Ranil Wickremesinghe.
-
-Deputy Speaker Ajith Rajapakse says the President is scheduled to present the government's policy statement at 10.30 am.
-
-The President last adjourned the Parliament on the 26th of January.
-
-Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
-
-◼️
-
-[Data](articles/ffb7dbb7.json)
-
-[Extended Data](ext_articles/ffb7dbb7.ext.json)
-
----
-
-### Keheliya today appointed parliament today - Government's back seat
-
-*2024-02-07 08:01:17* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-අද-පාර්ලිමේන්තුවට---ආණ්ඩු-පක්ෂයේ-පසුපෙළ-අසුනක්/11-407939) · `si`
-
-Speaker Mahinda Yapa Abeywardena has been granted to participate in the opening ceremony of the Parliament's new session at the prison hospital.
-
-This permission has been granted to Rambukwella to allow Rambukwella to attend Parliamentary meetings. He will join the Parliamentary meetings that he will be held during the remand.
-
-The Hon.
-
-◼️
-
-[Data](articles/8072f974.json)
-
-[Extended Data](ext_articles/8072f974.ext.json)
-
----
-
-### Sri Lanka banking system collects reserves or repays debt of U$5bn since rate correction
-
-*2024-02-07 08:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-banking-system-collects-reserves-or-repays-debt-of-u5bn-since-rate-correction-150145/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s banking system has collected foreign reserves or repaid borrowings of 5.0 billion US dollars since the central bank allowed interest rates to correct in April 2022, official data shows.
-
-The central bank has collected reserves or repaid debt of 1.69 billion US dollars since April 2022.
-
-Meanwhile commercial banks have collected about 3.2 billion US dollars or repaid maturing credit lines in the period.
-
-Large volumes of the collected cash are lying in various NOSTRO accounts, preventing a Lebanon style default on private forex bank accounts, preventing any loss of confidence, a run on bank dollar accounts and keeping the net open positions in balance.
-
-Under Governor Nandalal Weerasinghe, banking stability has given first place, with reserve sales in September to support banks in a domestic dollar debt restructuring, according to observers.
-
-...
-
-[Data](articles/fd8c5c6a.json)
-
-[Extended Data](ext_articles/fd8c5c6a.ext.json)
 
 ---

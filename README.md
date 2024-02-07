@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 19:02:34**
+As of **2024-02-07 19:17:36**
 
 ## Newspaper Stats
 
-*Scraped **5,504** Articles*
+*Scraped **5,506** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 305
 newsfirstlk | 339
 adalk | 469
 virakesarilk | 670
-adaderanalk | 680
+adaderanalk | 682
 tamilmirrorlk | 686
 adaderanasinhalalk | 716
 dailymirrorlk | 779
@@ -26,23 +26,43 @@ dailymirrorlk | 779
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,503 (100.0%) of 5,504 articles have been extended.
+5,504 (100.0%) of 5,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### குஜராத் மாநில முதலமைச்சர் திரு. பூபெந்திரபாய் பட்டேலுடன்  தேசிய மக்கள் சக்தியின் தலைவர்கள் சந்திப்பு
+### The Chief Minister of Gujarat. Leaders of National People's Power
 
 *2024-02-07 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175836) · `ta`
 
-இந்தியாவுக்கான விசேட விஜயமொன்றை மேற்கொண்டுள்ள தேசிய மக்கள் சக்தியின் தலைவர்கள் புதன்கிழமை (07) குஜராத் மாநிலத்தின் முதலமைச்சர் திரு. பூபெந்திரபாய் பட்டேல் (Bhupendrabhai Patel) அவர்களுடன் காந்திநகரின் கட்டளைப் பேரவையில் (மாநில சட்டவாக்கப் பேரவை) சந்திப்பினை மேற்கொண்டார்கள். மாநிலத்தில் வறுமையை ஒழித்துக்கட்டுவதற்கான அபிவிருத்தி உபாயமார்க்கங்கள் மற்றும் மாநில நிருவாகச் செயற்பாங்கு சம்பந்தமாக இதன்போது கலந்துரையாடப்பட்டது.
+Chief Minister of Gujarat on Wednesday (07). Bhupendrabhai Patel held a meeting with Gandhinagar's Commanding Council (State Legislative Assembly). Discussions were held on the development of the state and the state administration of the state to eradicate poverty.
 
-அதன் பின்னர் அந்த மாநிலத்தின் கைத்தொழில் அமைச்சருடனும் விசேட சந்திப்பு இடம்பெற்றதோடு, இந்திய அரசாங்கத்தின் அபிவிருத்தி மாதிரியாகப் பாவிக்கப்படுகின்ற "குஜராத் எடுத்துக்காட்டு" (Gujarat Model) பற்றிய சமர்ப்பணமொன்றும் இடம்பெற்றது. வலுச்சக்தி மறுசீரமைப்பு, விவசாயமும் நீரும், உட்கட்டமைப்பு வசதிகளை விருத்தி செய்தல், கைத்தொழில் மற்றும் முதலீடு, சுகாதாரப் பாதுகாப்பும் பெண்களுக்கு வலுவளித்தலும் என்பவை இந்த குஜராத் எடுத்துக்காட்டின் பிரதானமான பிரிவுகளாகும்.
+Thereafter a special meeting was held with the Minister of Industry of the State and a submission of "Gujarat Model", which is used as the development of the Government of India.. The main segments of this Gujarat examples are the rehabilitation, agriculture and water, development of infrastructure, industrial and investment, health care and strengthening women.
 
-...
+A tour of agricultural areas and agriculture based on agriculture in Ahmedabad was also a tour.
+
+◼️
 
 [Data](articles/f50dade4.json)
+
+[Extended Data](ext_articles/f50dade4.ext.json)
+
+---
+
+### One fisherman killed, seven others hospitalised after exposure to noxious gas
+
+*2024-02-07 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97089/one-fisherman-killed-seven-others-hospitalised-after-exposure-to-noxious-gas-) · `en`
+
+One fisherman was reported dead while seven others were hospitalised after inhaling a noxious gas within the cargo hold of a fishing vessel.
+
+According to police, the vessel had been docked at the Ambalangoda Fisheries Harbour when the eight fishermen had been exposed to the noxious gas.
+
+While one of them had succumbed to the effects of the gas, the seven others are currently receiving medical treatment, police reported.
+
+◼️
+
+[Data](articles/75a1e344.json)
 
 ---
 
@@ -165,6 +185,22 @@ Eight fishermen who were affected by poisonous gas were admitted to the hospital
 [Data](articles/6d46f184.json)
 
 [Extended Data](ext_articles/6d46f184.ext.json)
+
+---
+
+### Ports Authority gets 3 new STS cranes to boost capacity at ECT
+
+*2024-02-07 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97088/ports-authority-gets-3-new-sts-cranes-to-boost-capacity-at-ect) · `en`
+
+East Container Terminal (ECT) at the Port of Colombo has received three new ship-to-shore (STS) cranes from China as part of a US$282m equipment order placed by the Sri Lanka Ports Authority (SLPA).
+
+Delivered to the port by the Zhen Hua 24, the cranes have an outreach of 72 m – 26 teu across – with a back reach that extends to 25 m, a lifting height above rail of 55 m and a lifting height below rail of 18 m.
+
+The maximum load capacity under the spreader is 65 tonne while under the lifting beam each crane can handle up to 75 tonnes.
+
+◼️
+
+[Data](articles/bdd21a6a.json)
 
 ---
 
@@ -2043,37 +2079,5 @@ He said that 52 state enterprises have been increased by Rs. 300 billion in 2022
 [Data](articles/08ec4d00.json)
 
 [Extended Data](ext_articles/08ec4d00.ext.json)
-
----
-
-### Gazette Issue for amendment of the banking law
-
-*2024-02-07 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175773) · `ta`
-
-The Ministry of Finance, Economic Stock and National Policies said that the Gazette for amendment of the Banking Act No. 30, 1988.
-
-◼️
-
-[Data](articles/95ada578.json)
-
-[Extended Data](ext_articles/95ada578.ext.json)
-
----
-
-### The President told Vigneswaran
-
-*2024-02-07 11:21:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விக்னேஸ்வரனிடம்-ஜனாதிபதி-சொன்ன-சங்கதி/175-332819) · `ta`
-
-President Ranil Wickremesinghe, speaking at the inauguration of the fifth session of the ninth parliament, concluded his concept at 11.15 pm.
-
-After completing his contribution, when President Ranil Wickremesinghe left through the Sabha Faculty, the ruling and opposition members stood up.
-
-President Ranil Wickremesinghe, who thanked everyone and expressed his gratitude. Vigneswaran went near and said something for a few seconds.
-
-◼️
-
-[Data](articles/57d2bdc1.json)
-
-[Extended Data](ext_articles/57d2bdc1.ext.json)
 
 ---

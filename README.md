@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 14:32:41**
+As of **2024-02-07 14:49:57**
 
 ## Newspaper Stats
 
-*Scraped **5,433** Articles*
+*Scraped **5,441** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 62
-bbccomsinhala | 77
+bbccomsinhala | 78
 dbsjeyarajcom | 140
-economynextcom | 281
+economynextcom | 288
 islandlk | 288
 dailyftlk | 305
 newsfirstlk | 338
@@ -26,29 +26,33 @@ dailymirrorlk | 772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,432 (100.0%) of 5,433 articles have been extended.
+5,441 (100.0%) of 5,441 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### ජෙරොම්ගේ නඩුවක් ගැන අධිකරණයෙන් CIDයට චෝදනාවක්
+### Jerome's case charges against CID
 
 *2024-02-07 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193079) · `si`
 
-බුදු දහම ඇතුළු අන්‍ය ආගම්වලට අපහාසාත්මක ප්‍රකාශයන් සිදු කළේ යැයි කියන සිද්ධියක් සම්බන්ධයෙන් ඇප මත මුදාහැර සිටින දේවගැති ජෙරොම් ප්‍රනාන්දුට එල්ල වී ඇති චෝදනාවකට අදාළ නඩු පැවරීමක් පිළිබඳ කොළඹ කොටුව මහෙස්ත්‍රාත්වරයා, අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට විවෘත අධිකරණයේ දී චෝදනාවක් එල්ල කර තිබේ.
+The Fort Magistrate, who has released the defamatory statements of Buddhism, has been charged with the Criminal Investigation Department at the Open Court of Criminal Investigations.
 
-දේවගැති ජෙරොම් ප්‍රනාන්දුට එරෙහි ව මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ සිදු කරන විමර්ශනයට අදාළ  පැමිණිල්ල අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ගල්කිස්ස මහෙස්ත්‍රාත් අධිකරණය හමුවේ ගොනු කර තිබිණි.
+The Criminal Investigations Department (CID) has filed the complaint with the investigation into the investigation into the Monetary Investigation Act to the Prevention of Gave Pasoo Jerome Fernando.
 
-එසේ තමන් කැමති අධිකරණක් තෝරා ගැනීමට හැකියාවක් නොමැති බව කොටුව මහෙස්ත්‍රාත්වරයා විසින් විවෘත අධිකරණයේ දී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට චෝදනා කර ඇත.
+The Fort Magistrate has accused the CID at the Open Court that he is not able to select a court that he wants.
 
-මෙම පැමිණිල්ල අද (07) කොළඹ කොටුව මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේ දී සිද්ධිය සම්බන්ධයෙන් ඇප මත මුදාහැර සිටින දේවගැති ජෙරොම් ප්‍රනාන්දු ද අධිකරණයේ පෙනී සිටියේ ය.
+The complaint was called before Fort Magistrate Thilina Gamage this morning at Fort Magistrate Thilina Gamage.
 
-එහි දී අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ විමර්ශන අංශයේ නිලධාරින් අධිකරණය හමුවේ කරුණු දක්වමින්, මෙම සිද්ධියට අදාළ වීඩියෝ දර්ශන සම්බන්ධයෙන් තවදුරටත් විමර්ශන සිදු කරන බව පවසා තිබේ.
+The Criminal Investigation Department's Computer Criminal Investigation Division (CID) Further investigations have been said to be investigated into the videos of the incident.
+
+The officers have informed the court that the Mount Lavinia Magistrate's Court has reportedly investigated the suspect.
 
 ...
 
 [Data](articles/db2f7cfa.json)
+
+[Extended Data](ext_articles/db2f7cfa.ext.json)
 
 ---
 
@@ -71,6 +75,24 @@ The suspects are to be produced before the Pointuru Uduvaduwa Magistrate's Court
 [Data](articles/a7b51e22.json)
 
 [Extended Data](ext_articles/a7b51e22.ext.json)
+
+---
+
+### Will expand economic activity to Jaffna, Trinco and Bingiriya: Sri Lanka prez
+
+*2024-02-07 13:30:00* · [`economynextcom`](https://economynext.com/will-expand-economic-activity-to-jaffna-trinco-and-bingiriya-sri-lanka-prez-150262/) · `en`
+
+ECONOMYNEXT – Economic activity that is now concentrated in the island’s Western Province, mainly Colombo, will be expanded to other provinces through decentralization, Sri Lanka’s president has said.
+
+“We need a shift in our economic focus, which is currently centred around Colombo and the Western Province. Currently, 46 per cent of the country’s economy is concentrated in the Western Province,”Ranil Wickremesinghe said at the ceremonial opening of the fifth session of the ninth parliament on Wednesday (7).
+
+“This has to change. To address this, we are implementing a strategic plan to broaden economic activities in cities like Jaffna, Trincomalee, Bingiriya, Hambantota, and Kandy.”
+
+...
+
+[Data](articles/cead5d26.json)
+
+[Extended Data](ext_articles/cead5d26.ext.json)
 
 ---
 
@@ -203,6 +225,28 @@ CBK Back in Politics: Leads Broad Alliance for Upcoming Elections
 [Data](articles/a15f27ad.json)
 
 [Extended Data](ext_articles/a15f27ad.ext.json)
+
+---
+
+### Sri Lanka former navy chief joins main opposition SJB
+
+*2024-02-07 13:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-former-navy-chief-joins-main-opposition-sjb-150266/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s main opposition party the Samagi Jana Balawegaya (SJB) has scored a second retired military commander in a week, this time with Former Chief of Defence Staff and ex-Navy Commander Admiral Daya Sandagiri declaring his support.
+
+The SJB said in a statement on Wednesday February 07 that the former navy chief has been appointed as Adviser on Maritime and Naval Policy for the party, based on his expertise in maritime and naval affairs.
+
+The appointment came just over a week after the SJB said former Army Commander General Daya Ratnayake had joined the party’s ranks.
+
+Ratnayake was appointed a senior advisor on state affairs, according to reports.
+
+Video footage posted on official SJB social media channels showed SJB and opposition leader Sajith Premadasa personally welcoming the two military veterans on separate occasions. (Colombo/Feb07/2024)
+
+◼️
+
+[Data](articles/e1807dc3.json)
+
+[Extended Data](ext_articles/e1807dc3.ext.json)
 
 ---
 
@@ -384,6 +428,24 @@ Joseph Starling, therefore, urged the government to take immediate action agains
 
 ---
 
+### Crossing on John Keells pushes Sri Lanka stock market turnover to 11bn
+
+*2024-02-07 12:27:00* · [`economynextcom`](https://economynext.com/crossing-on-john-keells-pushes-sri-lanka-stock-market-turnover-to-11bn-150256/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange registered a turnover of 11.7 billion in mid-day trading on Wednesday, due to a large crossing on John Keells Holdings Plc (11.3mn).
+
+The broader All Share Index was up 0.13 points, or 13.90 percent at 10,539, while the S&P SL20 Index went up 9.61 points to top 3,000, up 0.32 percent.
+
+Market participants said with the decline in bond yield rates, primary dealing counters saw trading activity. (Colombo/Feb7/2024).
+
+◼️
+
+[Data](articles/0bd3b305.json)
+
+[Extended Data](ext_articles/0bd3b305.ext.json)
+
+---
+
 ### Daily food from outside Keheliya Rambukkala
 
 *2024-02-07 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175783) · `ta`
@@ -448,6 +510,26 @@ The two children who were taken into custody were taken to the Judicial Medical 
 
 ---
 
+### Sri Lanka rupee trades at 312.75/313.40 to the US dollar
+
+*2024-02-07 12:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-at-312-75-313-40-to-the-us-dollar-150195/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee traded at 312.75/313.40 to the US dollar Wednesday, from 314.00/50 on Tuesday, dealers said.
+
+A bond maturing on 01.08.2026 was quoted at 11.15/25 percent.
+
+A bond maturing on 15.09.2027 was quoted at 11.80/90 down from 12.20/25 percent.
+
+A bond maturing on 15.03.2028 was quoted at 12.20/30x down from 12.50/55 percent.
+
+◼️
+
+[Data](articles/edc052a8.json)
+
+[Extended Data](ext_articles/edc052a8.ext.json)
+
+---
+
 ### Stock market’s daily turnover exceeds Rs. 11bn after single transaction
 
 *2024-02-07 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97077/stock-markets-daily-turnover-exceeds-rs-11bn-after-single-transaction) · `en`
@@ -461,6 +543,24 @@ As per stock market figures, this was mainly due to a single transaction of 61.9
 [Data](articles/0656204a.json)
 
 [Extended Data](ext_articles/0656204a.ext.json)
+
+---
+
+### Enactment process of Sri Lanka’s online safety act raises questions on law-making: CPA
+
+*2024-02-07 12:12:00* · [`economynextcom`](https://economynext.com/enactment-process-of-sri-lankas-online-safety-act-raises-questions-on-law-making-cpa-150242/) · `en`
+
+ECONOMYNEXT — The process followed in enacting Sri Lanka’s controversial Online Safety Act (OSA) raises serious questions on law-making and its impact on constitutional democracy, the Centre for Policy Alternatives (CPA) said, urging the government to replace the act with a law that “genuinely addresses” concerns on online safety.
+
+Claiming that the process of drafting the OSA was shrouded in secrecy, CPA said the rushed manner of its passage raises questions as to the intentions of the government in enacting a law that has significant implications for fundamental rights and the rule of law in Sri Lanka.
+
+“CPA has previously commented on the substance and process followed with the Bill and challenged its constitutionality. In light of recent events surrounding the enactment of the OSA, CPA condemns the enactment of such a draconian law that can further limit freedom of speech and the right to dissent,” the organisation said.
+
+...
+
+[Data](articles/e38a62a2.json)
+
+[Extended Data](ext_articles/e38a62a2.ext.json)
 
 ---
 
@@ -541,6 +641,44 @@ Families with low -income poverty will be provided with 20 kilograms of rice in 
 [Data](articles/6ee99053.json)
 
 [Extended Data](ext_articles/6ee99053.ext.json)
+
+---
+
+### IMF advises Maldives to run monetary policy to fix exchange rate peg unlike for Sri Lanka
+
+*2024-02-07 11:50:00* · [`economynextcom`](https://economynext.com/imf-advises-maldives-to-run-monetary-policy-to-fix-exchange-rate-peg-unlike-for-sri-lanka-150228/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund has advised the Maldives to operate monetary policy consistent with maintaining its currency peg with the US dollar, as the archipelago recovered strongly from Coronavirus pandemic.
+
+In 2022 Maldives grew by 13.9 percent and in 2023 the country is estimated to grow by 4.4 percent. Growth is projected at 5.2 percent in 2024.
+
+“Monetary and macroprudential policies need to be tightened to ensure compatibility with the exchange rate peg, while encompassing fiscal-monetary policy coordination,” an IMF statement said after annual Article IV consultations.
+
+“Monetary policy, in concertation with other policy levers, can contribute more effectively to addressing macroeconomic vulnerabilities. Discontinuing use of the Maldives Monetary Authority (MMA) advances is a welcome first step.”
+
+...
+
+[Data](articles/89b7c3ee.json)
+
+[Extended Data](ext_articles/89b7c3ee.ext.json)
+
+---
+
+### UNICEF welcomes amendments to Sri Lanka’s Children & Young Persons Ordinance
+
+*2024-02-07 11:47:00* · [`economynextcom`](https://economynext.com/unicef-welcomes-amendments-to-sri-lankas-children-young-persons-ordinance-150225/) · `en`
+
+ECONOMYNEXT — The United Nations Children’s Fund (UNICEF) has welcomed an amendment to Sri Lanka’s Children and Young Persons Ordinance (CYPO) that came into effect on January 01.
+
+UNICEF said in a statement on Wednesday February 07 that the amendment marks a significant step towards protecting the rights and welfare of all children in Sri Lanka.
+
+The CYPO, a legislation governing justice for children in Sri Lanka since 1939, previously only covered those up to the age of 16. The amendment now extends its protection to all children under the age of 18. The amendment also repeals the section of the CYPO which permitted the use of corporal punishment on children and adolescents by parents, teachers, or guardians.
+
+...
+
+[Data](articles/e91dc2df.json)
+
+[Extended Data](ext_articles/e91dc2df.ext.json)
 
 ---
 
@@ -1576,6 +1714,28 @@ Investigations have revealed that the robbery was conducted by the suspect above
 
 ---
 
+### President Ranil Wickremesinghe: "The economy that collapsed at a metestage faster was rapidly restored
+
+*2024-02-07 08:26:32* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cevryv41rjdo) · `si`
+
+It contains nothing here. Play Video, "'The Running Period - 41,1141: 11, the President is the full story of the President.
+
+President Ranil Wickremesinghe: "The economy that collapsed at a metestage faster was rapidly restored
+
+President Ranil Wickremesinghe said in parliament today (February 07) that the economy that collapsed at a meteor was rapidly restored.
+
+'' Stuck in a Dark Economic Skin 'Weight See the Light. The economy of the intensive care unit is now being liberated from critical condition. If the Community Front could not do if the CEO was able to join the country for the countryWhy cannot the JVP not to join the country to join the country? "
+
+This video is where the President has made the President's Fifth Scenario.
+
+◼️
+
+[Data](articles/ad1c5cad.json)
+
+[Extended Data](ext_articles/ad1c5cad.ext.json)
+
+---
+
 ### Anura went in India to information in information
 
 *2024-02-07 08:06:44* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-ඉන්දියාවේ-ගියේ-රෝ-ඔත්තු-සේවයේ-තොරතුරකට/11-407940) · `si`
@@ -1903,165 +2063,5 @@ The SLPP parliamentarian was arrested on February 02 after he arrived at the Cri
 [Data](articles/7fdcac93.json)
 
 [Extended Data](ext_articles/7fdcac93.ext.json)
-
----
-
-### Another suspect in Beliatta murder arrested
-
-*2024-02-07 06:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193062) · `si`
-
-Another suspect has been arrested in connection with the beerest murder in Beliatta.
-
-The Beliatta Police have arrested a lawyer on suspicion yesterday (06).
-
-◼️
-
-[Data](articles/a28d62ea.json)
-
-[Extended Data](ext_articles/a28d62ea.ext.json)
-
----
-
-### In the morning of the morning there was a
-
-*2024-02-07 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193060) · `si`
-
-The Met Department forecasts that there would be a key weather in the country today (07).
-
-There are also a possibility of a courageous in some parts of the Nuwara Eliya district during the morning.
-
-Some locations in the Galle, Sabaragamuwa, Western and Uva provinces are expected to be methavior in the Galle and Matara districts.
-
-◼️
-
-[Data](articles/5b360171.json)
-
-[Extended Data](ext_articles/5b360171.ext.json)
-
----
-
-### Chinese research vessel denied permission into the Sri Lankan waters?
-
-*2024-02-07 06:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175760) · `ta`
-
-China's research ship, which has been denied permission to enter the special economic zone by Sri Lanka, is now found in the area where it is now denied permission to enter.
-
-According to reports, the Jiang Yang Kong 3 research ship, Third Institute of Ozonolji, owned by the Ministry of Natural Resources of China, was found within the special economic zone of Sri Lanka.
-
-Following the refusal of the Sri Lankan government's refusal, the ship went to the Maldives, but the ship is now found within the Sri Lankan waters - the economic zone of Sri Lanka.
-
-◼️
-
-[Data](articles/ec2cb08c.json)
-
-[Extended Data](ext_articles/ec2cb08c.ext.json)
-
----
-
-### Chile’s former president dies in helicopter crash
-
-*2024-02-07 06:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97066/chiles-former-president-dies-in-helicopter-crash) · `en`
-
-Chilean ex-President Sebastian Pinera died in a helicopter crash on Tuesday, sending the country he led for two terms into mourning and prompting an outpouring of condolences from leaders across Latin America.
-
-The helicopter carrying Pinera, 74, and three others plunged into a lake in southern Chile. The former president was pronounced dead shortly after rescue personnel arrived at the scene. The other three passengers survived.
-
-Two sources told Reuters Pinera was the pilot, although officials have not confirmed that, nor the helicopter’s intended destination.
-
-Pinera often spent the Southern Hemisphere summers near the picturesque lakes that dot Chile’s south, and frequently piloted his own helicopter.
-
-President Gabriel Boric declared three days of national mourning, while preparations have begun for a state funeral on Friday for the former leader, who served two non-consecutive terms between 2010 and 2022.
-
-...
-
-[Data](articles/d7e59337.json)
-
-[Extended Data](ext_articles/d7e59337.ext.json)
-
----
-
-### India’s official invitation for Sri Lanka’s Marxists seen positive amid political concerns
-
-*2024-02-07 06:00:00* · [`economynextcom`](https://economynext.com/indias-official-invitation-for-sri-lankas-marxists-seen-positive-amid-political-concerns-150139/) · `en`
-
-ECONOMYNEXT – India’s unprecedented invitation to Sri Lanka’s Marxists Janatha Vimukthi Peramuna (JVP) for an official visit is seen as positive to proceed with Delhi’s plans in the island nation without resistance but also has raised political concerns ahead of presidential polls this year.
-
-The JVP-led coalition National People’s Power (NPP) has gained more popularity in the recent past after the 2022 mass protests that forced former president Gotabaya Rajapaksa to flee the country and his brother, ex-Prime Minister Mahinda Rajapaksa, to resign amid an unprecedented economic crisis.
-
-Political analysts and diplomats say JVP has now become a formidable political force in Sri Lanka after the policies of two main parties with center-right and center-left thoughts have failed the nation in their 76 years of ruling since the 1948 independence.
-
-...
-
-[Data](articles/c096a80e.json)
-
-[Extended Data](ext_articles/c096a80e.ext.json)
-
----
-
-### Consumer food makers witness margin growth amid decreasing input costs
-
-*2024-02-07 05:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Consumer-food-makers-witness-margin-growth-amid-decreasing-input-costs/108-276476) · `en`
-
-Consumer food manufacturers are experiencing a gradual increase in profit margins as raw material and ingredient prices decline, coupled with a slight strengthening of the rupee.
-
-This has made imported supplies more affordable compared to a year ago, contributing to the margin expansion.
-
-Since late 2021, companies, especially manufacturers, have been grappling with increasing prices driven by surging global commodity prices, fuelled by heightened post-pandemic demand that has outpaced supply.
-
-These conditions exacerbated in Sri Lanka due to its sharp depreciation in the rupee in 2022, sending the supplier prices by over 100 percent and consumer prices by nearly 70 percent higher.
-
-But it appears that the conditions have begun to improve, according to the performance of Ceylon Cold Stores PLC, one of the largest consumer foods companies which gave a glimpse of how the activities have been during the last three months of 2023.
-
-...
-
-[Data](articles/ba0834fd.json)
-
-[Extended Data](ext_articles/ba0834fd.ext.json)
-
----
-
-### When will the coming elections, including the presidential election?
-
-*2024-02-07 05:00:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c04rp3dy7y4o) · `si`
-
-The people are in the face of the most serious economic crisis in November 2019 and after the 1720 general election in the country.
-
-Due to the existing economic and social status, many Sri Lanka is frustrated by the fact that the electorals of the political platform are on the same day.
-
-According to the Constitution, the presidential election of the country must be held in 2024.
-
-Dr. Harin Fernando, a government minister of the next presidential election, told the media on February 5, that a new president would be found in Dambulla.
-
-"I believe this presidential election is the first week of October. "
-
-"By October 14, a new president wanted to be aimed at October 14."
-
-Mr. Ranil Wickremesinghe defines the presidential election. I can put it in cubes. Others may share. "The Minister said.
-
-Meanwhile, Minister Bandula Gunawardena said that Minister Ranil Wickremesinghe made a special proposal to the Cabinet to allocate the money for elections yesterday (Feb 06).
-
-...
-
-[Data](articles/6c6729b1.json)
-
-[Extended Data](ext_articles/6c6729b1.ext.json)
-
----
-
-### Has The JVP Come Of Age Or Is It Bluffing? - EDITORIAL
-
-*2024-02-07 03:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Has-The-JVP-Come-Of-Age-Or-Is-It-Bluffing-EDITORIAL/172-276485) · `en`
-
-Anura Kumara Dissanayake is presently in India. The head of the JVP/NPP alliance is actually on an official visit to India, at the invitation of the Indian government. Believe it or not, AKD – as he is popularly known – has in addition to holding discussions with Indian External Affairs Minister, Jaishankar, also held meetings with Indian Defence Advisor, Ajit Doval!
-
-The JVP has come a long way from its initial foray into international analyses where in 1971 it saw Lanka’s only real proletarian worker group (the Indian Tamil estate workers) as Indian fifth columnists; it spoke of uprooting tea bushes and replanting these areas with potatoes.
-
-In the late 1980s, the JVP warned the Sinhala electorate of Indian expansionism, and led a bloody revolt based on its opposition to the establishment of the Provincial Councils system. Today, the JVP has embraced Provincial Councils.
-
-...
-
-[Data](articles/44e9390f.json)
-
-[Extended Data](ext_articles/44e9390f.ext.json)
 
 ---

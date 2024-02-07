@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 10:02:22**
+As of **2024-02-07 10:17:07**
 
 ## Newspaper Stats
 
-*Scraped **5,356** Articles*
+*Scraped **5,362** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,43 +14,117 @@ dbsjeyarajcom | 140
 economynextcom | 279
 islandlk | 288
 dailyftlk | 305
-newsfirstlk | 330
-adalk | 452
-virakesarilk | 643
-adaderanalk | 661
+newsfirstlk | 331
+adalk | 454
+virakesarilk | 644
+adaderanalk | 662
 tamilmirrorlk | 667
 adaderanasinhalalk | 691
-dailymirrorlk | 762
+dailymirrorlk | 763
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,352 (99.9%) of 5,356 articles have been extended.
+5,356 (99.9%) of 5,362 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### යුක්තිය මෙහෙයුම යටතේ 785ක් අත්අඩංගුවට
+### கச்ச தீவு திருவிழாவிற்காக ஏற்பாடுகள் மும்முரம்
+
+*2024-02-07 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/175763) · `ta`
+
+வருடாந்த கச்சத்தீவு பெருதிருவிழா எதிர்வரும் 23ஆம் திகதி மற்றும் 24ஆம் திகதிகளில் கச்சத்தீவு தீவில் நடைபெற உள்ளது.
+
+பெருவிழாவின் பிரதான ஆராதனை யாழ்.மறைமாவட்ட ஆயர் அருட்தந்தை ஜஸ்டின் ஞானப்பிரகாசம் தலைமையில் நடைபெறவுள்ளது.
+
+சுகாதாரம் மற்றும் குடிநீர் வசதிகள், தற்காலிக தங்குமிடங்கள், இறங்குதுறைகள் மற்றும் மின்சார விநியோகத்தை உறுதி செய்தல் போன்ற வேலைகளை முன்னெடுத்துள்ளனர்.
+
+மேலும், இலங்கை கடற்படையினரால் நிர்மாணிக்கப்பட்ட விகாரையின் வண்ண சலவை மற்றும் பழுதுபார்ப்பு மற்றும் சுற்றுப்புற பகுதிகள் மற்றும் வளாகத்திற்கு செல்லும் பாதைகளை சுத்தம் செய்தல் ஆகியவற்றை கடற்படை மேற்கொண்டுள்ளது.
+
+திருவிழாவிற்கு செல்லும் இலங்கை பக்தர்களுக்காக படகு சேவைகள்  குறிகாட்டுவான் மற்றும்  நெடுந்தீவு இறங்குதுறையில் இருந்து இடம்பெறும்.
+
+◼️
+
+[Data](articles/318a9309.json)
+
+---
+
+### Chile ex-president Sebastian Pinera dies in helicopter crash
+
+*2024-02-07 09:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Chile-ex-president-Sebastian-Pinera-dies-in-helicopter-crash/107-276493) · `en`
+
+Chile, Feb 07 (Aljazeera) Chile’s former President Sebastian Pinera, a billionaire tycoon who twice held the South American nation’s top job, has died in a helicopter crash, his office said in a statement.
+
+“It is with deep regret that we announce the death of the former president of the Republic of Chile,” said the statement on Tuesday, adding that 74-year-old Pinera had died in the popular vacation spot Lago Ranco, some 920km (570 miles) south of Santiago.
+
+Chile Interior Minister Carolina Toha confirmed the death of the former president. No further details were immediately released about the cause of the accident.
+
+Chile’s national disaster agency SENAPRAD confirmed that one person had been killed and three people injured. The government did not immediately name who was aboard.
+
+...
+
+[Data](articles/632c7a3c.json)
+
+---
+
+### Sri Lanka’s pursuit of free trade deals crucial for economic stability, growth - Sabry
+
+*2024-02-07 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97070/sri-lankas-pursuit-of-free-trade-deals-crucial-for-economic-stability-growth-sabry) · `en`
+
+Minister of Foreign Affairs, Ali Sabry says strengthening and carrying forward President Ranil Wickremesinghe’s program to establish free trade agreements (FTAs) with other countries is crucial to ensure Sri Lanka’s economic stability and prevent future downturns.
+
+Speaking at a press briefing titled “Collective Path to a Stable Country” held at the President Media Centre (PMC) on Tuesday (Feb.06), Minister Sabry elaborated on the government’s plans to establish FTAs with India, Indonesia, Malaysia, Vietnam, and China by the end of 2024. He expressed optimism that these agreements would open up new markets for Sri Lankan businesses, contributing directly to the nation’s economic growth.
+
+Minister Sabry highlighted the recent FTA with Thailand as a historic step towards achieving President Wickremesinghe’s vision of a stable economy. He emphasized that this agreement has already provided Sri Lanka access to a USD 2.2 billion market, representing a significant advancement.
+
+...
+
+[Data](articles/2477eaf4.json)
+
+---
+
+### Talk of The Town | What’s next for SLFP? | Thilanga Sumathipala | 07 February 2024
+
+*2024-02-07 09:25:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/talk-of-the-town-what-s-next-for-slfp-thilanga-sumathipala-07-february-2024/) · `en`
+
+Talk of The Town | What's next for SLFP? | Thilanga Sumathipala | 07 February 2024
+
+Talk of The Town | What’s next for SLFP? | Thilanga Sumathipala | 07 February 2024
+
+President to Open New Parliament Session & Deliver Policy Statement in Scaled-Back Ceremony
+
+Federal Appeals Court rules Trump does not have presidential immunity
+
+◼️
+
+[Data](articles/241ec358.json)
+
+---
+
+### 785 arrested under justice operation
 
 *2024-02-07 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193067) · `si`
 
-යුක්තිය යටතේ ගතවු පැය 24 තුළ දිවයින පුරා සිදුකළ මෙහෙයුම්වලින් සැකකරුවන් 785ක් අත්අඩංගුවට ගෙන තිබේ.
+785 suspects have been arrested in the 24-hour operations throughout the country.
 
-මත්ද්‍රව්‍ය වැරදි සම්බන්ධ සැකකරුවන් 596ක් සහ අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ සිටි සැකකරුවන් 189ක් ඒ අතරට අයත්ය.
+In the meantime, 189 suspects were in the list of drug misbehavior and the list of criminal sections.
 
-මත්ද්‍රව්‍ය වැරදි සම්බන්ධ අත්අඩංගුවට ගත් සැකකරුවන් 596 දෙනා අතරින් සැකකරුවන් 7 කට රැඳවුම් නියෝග මත වැඩිදුර විමර්ශන සිදුකරන අතර මත්ද්‍රව්‍යවලට ඇබ්බැහිවුවන් 4 ක් පුනුරුත්ථාපනය සඳහා යොමුකර තිබේ.
+Among the 596 suspects of drug misconduct, seven suspects have been reigned by 7 drug addicts to rehabilitate 4 drug addicts.
 
-පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශය සහ පොලිස් විශේෂ කාර්යංශයේ ලැයිස්තුවේ සිටි සැකකරුවන් 11 ක්ද අත්අඩංගුවට ගෙන ඇත.
+11 suspects have been arrested in the list of the Police Narcotics Bureau and the Police Special Secretariat.
 
-එසේම, අපරාධ අංශවෙත යොමු කළ ලැයිස්තුවේ අත්අඩංගුවට ගත් සැකකරුවන් 189 දෙනා අතරින් මත්ද්‍රව්‍ය වැරදි සම්බන්ධව විවෘත වරෙන්තු නිකුත්වී සිටි සැකකරුවන් 29 ක් සහ මත්ද්‍රව්‍ය නොවන වැරදි සම්බන්ධව විවෘත වරෙන්තුකරුවන් 155 ක්ද වන බව පොලීසිය පවසයි.
+According to the police, there were 29,000 suspects who were released in the list of the suspects in the list of the criminal section and 155 open warrants on drugs.
 
-අපරාධවලට අවශ්‍ය කරන සැකකරුවන් 05 ක්ද මෙහෙයුම්වලදී අත්අඩංගුවට ගෙන ඇත.
+Five suspects have been arrested in operations.
 
 ◼️
 
 [Data](articles/2b96b022.json)
+
+[Extended Data](ext_articles/2b96b022.ext.json)
 
 ---
 
@@ -72,6 +146,8 @@ There the Speaker and the Secretary General of the Parliament Kushani Rohanadeer
 
 [Data](articles/4ec5a337.json)
 
+[Extended Data](ext_articles/4ec5a337.ext.json)
+
 ---
 
 ### Wildlife Photographer of the Year
@@ -84,29 +160,33 @@ The 25 images in the running for this year's People’s Choice Award received a 
 
 [Data](articles/76638a3e.json)
 
+[Extended Data](ext_articles/76638a3e.ext.json)
+
 ---
 
-### சிலியின் முன்னாள் ஜனாதிபதி ஹெலிக்கொப்டர் விபத்தில் உயிரிழப்பு
+### Chili's former president death in a helicopter crash
 
 *2024-02-07 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175761) · `ta`
 
-தென் அமெரிக்க நாடான சிலியின் முன்னாள் ஜனாதிபதி செபஸ்டியன் பினேரா ஹெலிக்கொப்டர் விபத்தில் உயிரிழந்துள்ளார்.
+Former President of the South American Chile, Sebastian Binera, has died in a helicopter crash.
 
-பெரும் பணக்காரரான இவர் இரண்டு முறை சிலி நாட்டின் ஜனாதிபதியாக பதவி வகித்துள்ளார்.
+He is the rich man twice as the president of Chile.
 
-இந்நிலையில், சிலியின் பிரபல சுற்றுலா தலமான லகோ ரங்கொ பகுதிக்கு செபஸ்டியன் பினேரா தனது சொந்த ஹெலிக்கொப்டரை செலுத்திச் சென்றுள்ளார்.
+In the meantime, Sebastian Binhera has paid his own helicopter to Chile's popular tourist destination, Lako Ranga.
 
-அந்த ஹெலிக்கொப்டரில் செபஸ்டியன் பினேரா உள்ளிட்ட மொத்தம் 4 பேர் பயணித்துள்ளனர். திடீரென அந்த ஹெலிக்கொப்டர் தெற்கு சிலியில் உள்ள ஏரியில் விழுந்துள்ளது.
+A total of 4 travelers, including Sebastian Binhera, traveled in that helicopter. Suddenly the helicopter fell into the lake in south Chile.
 
-தகவல் அறிந்த மீட்புப் படையினர் விரைந்து சென்று முன்னாள் ஜனாதிபதி செபஸ்டியன் பினேரா உடலைக் கண்டுபிடித்துள்ளனர். அவருடன் பயணம் செய்த 3 பேர் படுகாயத்துடன் மீட்கப்பட்டு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Informed rescue personnel rushed and found the body of former President Sebastian Binal. Three people who were traveling with him have been rescued and admitted to the hospital.
 
-இந்நிலையில் செபஸ்டியன் பினேராவின் மரணத்தை சிலி உள்துறை அமைச்சர் கரோலினா தோஹா உறுதிப்படுத்தியுள்ளார்.
+Chile Home Minister Carolina Doha has confirmed the death of Sebastian Binhera.
 
-அவரது உடல் ஏரியில் இருந்து மீட்கப்பட்டதையும் அவர் உறுதி செய்துள்ளார். முன்னாள் ஜனாதிபதி செபஸ்டியன் பினேரா மரணத்தை முன்னிட்டு மூன்று நாட்கள் தேசிய துக்கமாக அனுசரிக்கப்படும் என்று சிலியின் அதிபர் கேப்ரியல் போரிக் அறிவித்துள்ளார்.
+He also confirmed that his body was recovered from the lake. Chile's President Gabriel Boric has announced that three days will be observed for three days ahead of the death of former President Sebastian Binal.
 
 ◼️
 
 [Data](articles/1b31f0c9.json)
+
+[Extended Data](ext_articles/1b31f0c9.ext.json)
 
 ---
 
@@ -234,6 +314,8 @@ Deputy Speaker Ajith Rajapakse says the President is scheduled to present the go
 
 The President last adjourned the Parliament on the 26th of January.
 
+Talk of The Town | What’s next for SLFP? | Thilanga Sumathipala | 07 February 2024
+
 President to Open New Parliament Session & Deliver Policy Statement in Scaled-Back Ceremony
 
 Federal Appeals Court rules Trump does not have presidential immunity
@@ -246,6 +328,22 @@ Federal Appeals Court rules Trump does not have presidential immunity
 
 ---
 
+### කෙහෙළිය අද පාර්ලිමේන්තුවට - ආණ්ඩු පක්ෂයේ පසුපෙළ අසුනක්
+
+*2024-02-07 08:01:17* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-අද-පාර්ලිමේන්තුවට---ආණ්ඩු-පක්ෂයේ-පසුපෙළ-අසුනක්/11-407939) · `si`
+
+බාල බෙහෙත් ජාවාරම සම්බන්ධයෙන් රිමාන්ඩ් බන්ධනාගාර ගතව මේ වන විට බන්ධනාගාර රෝහලේ ප්‍රතිකාර ලබමින් සිටින හිටපු  අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා පාර්ලිමේන්තුවේ නව සැසිවාරය විවෘත කිරීමේ උත්සවයට අද (7) සහභාගී කරවීමට කතානායක මහින්ද යාපා අබේවර්ධන මහතා අවසරදී ඇත.
+
+රඹුක්වැල්ල මහතාට පාර්ලිමේන්තු රැස්වීම්වලට සහභාගී වීමට අවසර දෙන ලෙස ඔහුගේ ලේකම්වරයකු කළ ඉල්ලීමක් අනුව මෙම අවසරය  ලබාදී තිබේ. මේ අනුව ඔහු බන්ධනාගාරගතව සිටින කාලය තුළදී පැවැත්වෙන පාර්ලිමේන්තු රැස්වීම්වලට ඔහු ඉදිරියේදී එක්වෙනු ඇත.
+
+පාර්ලිමේන්තුවේ වේත්‍රධාරි කුෂාන් ජයරත්න මහතා කෙහෙළිය රඹුක්වැල්ල මහතා පාර්ලිමේන්තුවට රැගෙන එන ලෙස බන්ධනාගාර කොමසාරිස් ජනරාල්වරයාට ෙ ලිඛිතව දැනුම් දී ඇත.‍ෙ රඹුක්වැල්ල මහතා අමාත්‍ය ධුරයෙන් ඉවත්වී ඇති හෙයින් ඔහුට පාර්ලිමේන්තු සභාගර්භයේ ආණ්ඩු පක්ෂයේ පසුපෙළ මන්ත්‍රී ආසනයක් පිළියෙල කෙරෙන බව පාර්ලිමේන්තු ආරංචි මාර්ග සඳහන් කළේය.
+
+◼️
+
+[Data](articles/8072f974.json)
+
+---
+
 ### JJB delegation to meet Chief Minister of Gujarat
 
 *2024-02-07 07:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/jjb-delegation-to-meet-chief-minister-of-gujarat/) · `en`
@@ -255,6 +353,8 @@ COLOMBO (News 1st); A delegation from the Jathika Jana Balawegaya (JJB), led by 
 They are also scheduled to hold discussions with the Minister of Commerce and Industry of the state and other high level government officials today.
 
 The delegation from the Jathika Jana Balawegaya (JJB), led by party leader Anura Kumara Dissanayake engaged in key meetings with prominent Indian organizations focused on policy and governance yesterday.
+
+Talk of The Town | What’s next for SLFP? | Thilanga Sumathipala | 07 February 2024
 
 President to Open New Parliament Session & Deliver Policy Statement in Scaled-Back Ceremony
 
@@ -442,7 +542,11 @@ The Fifth Session of the Ninth Parliament will be ceremoniously declared open by
 
 The Parliament was prorogued with effect from midnight on January 26, by way of a proclamation published in the government gazette.
 
-◼️
+On Tuesday (Feb.06), the former health minister had tendered his resignation to President Ranil Wickremesinghe, who in return, had accepted it. Later, a gazette notification was published, confirming the resignation of Rambukwella as the Environment Minister.
+
+The SLPP parliamentarian was arrested on February 02 after he arrived at the Criminal Investigation Department (CID) to record a statement on the substandard human immunoglobulin procurement scandal. He was reportedly interrogated for nearly 10 hours before being placed under arrest.
+
+...
 
 [Data](articles/7fdcac93.json)
 
@@ -1923,109 +2027,5 @@ Amidst widespread frustration towards the Ranil- Rajapaksa regime, the current p
 [Data](articles/2c45eb4d.json)
 
 [Extended Data](ext_articles/2c45eb4d.ext.json)
-
----
-
-### People's opposition to Phiyiangala owner to seek another destruction of Wilpattu
-
-*2024-02-06 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193055) · `si`
-
-A group of people including Ven. Pharayangala Ananda and Rajanganaya were among the clashes.
-
-The Wilpattu forest reserve was inquired at the pretext of aloe cultivation.
-
-Accordingly, Ven. Phaniiyagala Anandahajara owns were first, according to Ven.
-
-However, as their problem was not solved, the Lord and others departed to observing the land where aloe was cultivated.
-
-The villagers who stayed on the pathway to the aloe area were strongly objected to the traveled vehicle.
-
-The villagers attacked the villagers and a car was assaulted by a journalists with the monk.
-
-Accordingly, the monk was leaving the village and left the place and Rajanganaya Police are conducting further investigations.
-
-Then Ven. Phasangala Anandalera owners and others visited Mihintale police station and lodged a complaint with the incident.
-
-Mihintale leader Walawagenu Wewa Dammaratana The request of Pahiyangala owners.
-
-He was telephoned by Mihintale leader Tiran Alles and Acting Insolptory to Deshaband Tennakoon.
-
-◼️
-
-[Data](articles/3be447f8.json)
-
-[Extended Data](ext_articles/3be447f8.ext.json)
-
----
-
-### Anura’s Visit To India, Its Signs & Importance
-
-*2024-02-06 20:17:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/anuras-visit-to-india-its-signs-importance/) · `en`
-
-Anura Kumara Dissanayake, leader of the National People’s Power (NPP) was officially invited for a visit by the Indian government at a time when his popularity is unprecedentedly on the rise, due to the fact that the two major political parties that were in power from time to time, have done nothing but making the nation economically bankrupt, resulting in a situation where the citizens cannot fulfil even their basic needs, that is also to the minimum standard.
-
-...
-
-[Data](articles/dfa484eb.json)
-
-[Extended Data](ext_articles/dfa484eb.ext.json)
-
----
-
-### Case on 50 bakeries that do not mention the weight of the style!
-
-*2024-02-06 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175741) · `ta`
-
-The Consumer Affairs Authority (CAA) has launched the first test yesterday (05) following the release of the gazette for the styled weight.
-
-The Consumer Affairs Authority (CAA) has said that about 50 bakeries who do not show the weight and prices will be checked and prosecuted against them.
-
-◼️
-
-[Data](articles/548e4ad1.json)
-
-[Extended Data](ext_articles/548e4ad1.ext.json)
-
----
-
-### Anura -led team visits Indian politicians
-
-*2024-02-06 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175736) · `ta`
-
-At the invitation of the Government of India, the National People's Power Leader Anura Kumara Dissanayake, who visited the country, visited the Observer Research Foundation Council in New Delhi on Tuesday (06).
-
-Observer Research Foundation is a company that offers Indian politicians and business community in the policy of the Government of India.
-
-Subsequently, the delegation visited the Unique Identification Authority of India, which was associated with the Ministry of Electronics and Information Technology in India and engaged in a smooth discussion with its chiefs.
-
-Later on Tuesday (06), the leaders of the National People's Power departed towards Ahmedabad.
-
-◼️
-
-[Data](articles/da04a117.json)
-
-[Extended Data](ext_articles/da04a117.ext.json)
-
----
-
-### We will create free trade agreements with other countries and create a situation where there is no economic downturn - Ali Sabri
-
-*2024-02-06 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175738) · `ta`
-
-Foreign Affairs Minister Ali Sabri said President Ranil Wickremesinghe's program should be strengthened and carried out to strengthen and carry out the country's economy.
-
-The Minister also stated that by the end of this year, India, Indonesia, Malaysia, Vietnam and China are planning to sign the free trade agreements.
-
-Minister Ali Sabri said this at a media briefing held at the Presidential Media Center on Tuesday (06).
-
-According to the vision of President Ranil Wickremesinghe, who creates a stable economy, we expect to make direct contributions to the economy of Sri Lanka with contracts with new markets.
-
-As a historic initiative, the free trade agreement was signed with Thailand recently. Sri Lanka is currently taking the necessary measures for the market with twenty -two crore people.
-
-...
-
-[Data](articles/d167e857.json)
-
-[Extended Data](ext_articles/d167e857.ext.json)
 
 ---

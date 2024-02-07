@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 12:17:19**
+As of **2024-02-07 12:32:59**
 
 ## Newspaper Stats
 
-*Scraped **5,404** Articles*
+*Scraped **5,405** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 305
 newsfirstlk | 336
 adalk | 455
 virakesarilk | 650
-adaderanalk | 669
+adaderanalk | 670
 tamilmirrorlk | 677
 adaderanasinhalalk | 697
 dailymirrorlk | 767
@@ -26,57 +26,81 @@ dailymirrorlk | 767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,401 (99.9%) of 5,404 articles have been extended.
+5,404 (100.0%) of 5,405 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### චිලි රාජ්‍යයේ හිටපු ජනපති හෙලිකොප්ටර් අනතුරකින් මරුට
+### Former President's helicopter crashed
 
 *2024-02-07 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193074) · `si`
 
-චිලී හි හිටපු ජනාධිපති සෙබෙස්තියන් පිනේරා හෙලිකොප්ටර් යානා අනතුරකින් මියගොස් තිබේ.
+Former President XBesitan Piyanopara, Chile, has died in an accident.
 
-දෙවරක් රට පාලනය කළ පිනේරා වාර්තා අතරට එක්වන්නේ, එරට සිටි ධනවත්ම මිනිසෙකු ද ලෙසය.
+Twice the country's controlled Piyanara records is one of the richest man in the country.
 
-ඒ එරට සැන්තියාගෝ අගනුවරට දකුණින් පිහිටි ප්‍රකට සංචාරක ගමනාන්තයක් වන ලාගෝ රැන්කෝ හි සිදුවූ හෙලිකොප්ටර් යානා අනතුරකිනි.
+It was in danger of helicopters in Lago Ranko, a well-known tourist destination, south of Santiago capital.
 
-74 හැවිරිදි හිටපු ජනාධිපති පිනේරා ඇතුළු පිරිස ගමන් කළ හෙලිකොප්ටර් යානය ලාගෝ රැන්කෝ හි ජලාශයක් මතට කඩා වැටී තිබුණි.
+The helicopter, whose 74-year-old president, and the helicopter, had collapsed on a reservoir in Lago Ransk.
 
-කෙසේ නමුත් යානයේ ගමන් කළ ඉතිරි තිදෙනා අනතුරින් දිවි ගලවාගැනීම විශේෂත්වයකි.
+However, the rest of the plane were surviving the accident.
 
-අනතුරට ලක්වූ හෙලිකොප්ටරය පිනේරා සතු එකක් වුවත්, අනතුර සිදුවන විට ඔහු යානය පැදවූවාද යන්න අනාවරණය වී නැත.
+Although the helicopter was owned by the helicopter, but it was not revealed that he was driving the plane when the accident occurred.
 
-එමෙන්ම ඒ සම්බන්ධව ලතින් අමෙරිකානු රටවල නායකයින් ශෝකය පළකර තිබුණි.
+Leaders of Latin American countries have expressed grief.
 
-2010 සිට 2014 වසර දක්වාත්, 2018 වසරේ සිට 2022 වසර දක්වාත් දෙවරක් රට පාලනය කළ පිනේරා එරට වඩාත් ජනප්‍රිය පාලකයෙකි.
+From 2010 to Year 2010, the country ruled the country was a most popular ruler in the country.
 
-දින 69ක් තිස්සේ ඇටකාමා හි පතලක සිරවී සිටි පතල්කරුවන් 33 දෙනෙක් නිරුපද්‍රිතව මුදාගැනීමත් සමඟ ඔහු එවක ජාත්‍යන්තරයේ අවධානයටත් ලක්වුණි.
+He was also concerned about the international attention to the rescue of 33 mines in the skeleman for 69 days.
 
-එමෙන්ම පිනේරා සැලකෙන්නේ චිලී හි සිටින ධනවත්ම මිනිසකු ද ලෙසයි.
+And Piyanara is also considered a richest man in Chile.
 
 ◼️
 
 [Data](articles/23b26eba.json)
 
+[Extended Data](ext_articles/23b26eba.ext.json)
+
 ---
 
-### අවලෝකිතේශ්වර යැයි කියාගන්නා මහින්ද ට ඇප
+### Sri Lankan court releases six Indian fishermen
+
+*2024-02-07 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97076/sri-lankan-court-releases-six-indian-fishermen) · `en`
+
+A Sri Lankan court on Tuesday released six Indian fishermen who were arrested on Jan 22 on charges of poaching in the territorial waters of the island nation.
+
+The released fishermen were handed over to the Indian consulate general office in Jaffna.
+
+Isaac, 47, Sisarian, 43, Samathana Babu, 38, Easter Arockiadas, 34, Nishanthan, 34, and Murugesan sailed from the Rameswaram fishing jetty on two boats.
+
+The fishermen were booked for trespassing, poaching and using banned fishing nets in Sri Lankan waters. They were produced before the Sri Lankan court at Oorkavalthurai and remanded in judicial custody till Feb 6.
+
+When they were produced before the court on Tuesday, judge ordered their release on the condition that they should not enter Sri Lankan waters failing which they would be imprisoned. The judge ordered nationalisation of their fishing crafts and the fishing gear.
+
+...
+
+[Data](articles/6a43b5fc.json)
+
+---
+
+### Mahinda committing to Alotel
 
 *2024-02-07 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193073) · `si`
 
-අවලෝකිතේශ්වර බෝධිසත්ව ලෙස තමාව හඳුන්වාගත් මහින්ද කොඩිතුවක්කු නමැත්තාව ඇපමත මුදා හැරීමට කොටුව මහෙස්ත්‍රාත් අධිකරණය අද (07) නියෝග කළේය.
+The Fort Magistrate's Court today (07) ordered the release of his Kodituwakku, a Portal Bodhisattva.
 
-අප වාර්තාකරු පැවසුවේ රුපියල් මිලියනයක ශරීර ඇප දෙකක් මත ඔහුව නිදහස් කළ බවය.
+Our correspondent said he was released on two personal bail.
 
-අවලෝකිතේශ්වර නාමයෙන් පෙනී සිටිමින් බුදු දහමට අපහාස කළේ යැයි චෝදනා එල්ල වූ මහින්ද කොඩිතුවක්කු නැමැත්තාට මානසික වෛද්‍ය ප්‍රතිකාර අවශ්‍ය බව පසුගියදා (ජනවාරි 24) කොටුව මහේස්ත්‍රාත් අධිකරණයේදී හෙළිවිය.
+Mahinda Kodituwakku, who was accused of appearance with the Avalocritice, was revealed at the Fort Magistrate's Court recently (Jan. 24).
 
-ඒ අනුව එදින සැකකරුව තවදුරටත් රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කළ අධිකරණය, ඔහු ව මානසික වෛද්‍ය ප්‍රතිකාර ලබාගැනීම සඳහා යොමු කරන ලෙස නියෝග කළේය.
+Accordingly, the court ordered to be remanded that suspect that day further reserves, he ordered him to direct mental medical treatment.
 
 ◼️
 
 [Data](articles/efcc740e.json)
+
+[Extended Data](ext_articles/efcc740e.ext.json)
 
 ---
 
@@ -115,6 +139,8 @@ COLOMBO (News 1st); Sri Lankan President Ranil Wickremesinghe in his policy stat
 ...
 
 [Data](articles/3adaa7eb.json)
+
+[Extended Data](ext_articles/3adaa7eb.ext.json)
 
 ---
 
@@ -2019,25 +2045,5 @@ Landers built by private companies and emerging space powers are expected in the
 [Data](articles/32c3c86e.json)
 
 [Extended Data](ext_articles/32c3c86e.ext.json)
-
----
-
-### Minister Bandula denies State Minister Diana Kamage's claim
-
-*2024-02-06 23:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175750) · `ta`
-
-Cabinet spokesman Bandula Gunawardena, who denied that the Cabinet has been granted permission to grow cannabis and export cannabis, has said that no decision has been taken for the cultivation of cannabis.
-
-At the weekly Cabinet Media Conference, he said that the Cabinet paper has not been submitted or any other decision has been taken.
-
-Diana Kamage is not the Cabinet Minister. I cannot be held responsible for the statement he published. He said no Cabinet paper was submitted to the Cabinet or no decision was taken.
-
-It is noteworthy that the Rajanga Diana Kamage had informed the media that the Cabinet had approved the cultivation of cannabis for export.
-
-◼️
-
-[Data](articles/1fe72dac.json)
-
-[Extended Data](ext_articles/1fe72dac.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 15:02:26**
+As of **2024-02-07 15:17:20**
 
 ## Newspaper Stats
 
-*Scraped **5,446** Articles*
+*Scraped **5,452** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ dbsjeyarajcom | 140
 islandlk | 288
 economynextcom | 289
 dailyftlk | 305
-newsfirstlk | 338
-adalk | 463
+newsfirstlk | 339
+adalk | 464
 virakesarilk | 657
-adaderanalk | 671
+adaderanalk | 675
 tamilmirrorlk | 679
 adaderanasinhalalk | 704
 dailymirrorlk | 772
@@ -26,47 +26,69 @@ dailymirrorlk | 772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,441 (99.9%) of 5,446 articles have been extended.
+5,446 (99.9%) of 5,452 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
 
-### විදුලි සේවකයින් යළිත් විරෝධතාවයක
+### Special Monetary Policy Board meeting to be held today
+
+*2024-02-07 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97082/special-monetary-policy-board-meeting-to-be-held-today-) · `en`
+
+A special Monetary Policy Board (MPB) Meeting is due to be held today (07 Feb.), the Central Bank of Sri Lanka (CBSL) stated.
+
+The CBSL assured, however, that the meeting will not lead to a decision pertaining to policy rates.
+
+The MPB is tasked with formulating the CBSL’s monetary policy, and implementing a flexible exchange rate regime in line with the flexible inflation targeting framework so as to achieve and maintain domestic price stability.
+
+The Board consists of the Governor of the CBSL, who serves as the Chairperson of the MPB, members of the Governing Board, two experts in Economics or Finance, the Deputy Governor of the Central Bank in charge of price stability and the Deputy Governor of the Central Bank in charge of financial system stability, while the Secretary to the MPB is an employee of the Central Bank, nominated by the Governor.
+
+◼️
+
+[Data](articles/f275e658.json)
+
+---
+
+### Electricives protest against restoring
 
 *2024-02-07 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193081) · `si`
 
-විදුලිබල මණ්ඩලයේ ප්‍රධාන කාර්යාලය ඉදිරිපිට අද (07) උද්ඝෝෂණයක් සංවිධානය කර තිබේ.
+A protest was organized in front of the Electricity Board's headquarters today (07).
 
-ඒ, විදුලිබල මණ්ඩලයේ වැඩ තහනම් කළ සියලුම සේවකයන් යළි සේවය පිහිටුවන ලෙස බලධාරීන්ට බල කරමිනි.
+It forced the authorities to re-establish all the employees who were banned by the CEB.
 
-ලංවිම සියලු වෘත්තීය සමිති එකමුතුව විරෝධතාව අද දහවල් 12ට කොළඹ ලංකා විදුලිබල මණ්ඩලය ඉදිරිපිටදී ආරම්භ කළේය.
+The CEB launched all the trade union unity of the Ceylon Electricity Board in Colombo this afternoon.
 
-මේ සඳහා තැපැල්, දුම්රිය, රක්ෂණ, බැංකු, ටෙලිකොම් ඇතුළු වෘත්තීය සමිති රැසක සහයෝගය ලැබෙන බවද ලංකා විදුලිබල මණ්ඩලයේ වෘත්තීය සමිති නියෝජිතයින් පවසයි.
+The Ceylon Electricity Board (CEB), the Ceylon Electricity Board, the Ceylon Electricity Board, the Ceylon Electricity Board (CEB) is supported by the Ceylon Electricity Board.
 
 ◼️
 
 [Data](articles/8272bf80.json)
 
+[Extended Data](ext_articles/8272bf80.ext.json)
+
 ---
 
-### නාය යෑමකින් 05 දෙනෙකු මරුට
+### Five landslide killed in landslides
 
 *2024-02-07 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193080) · `si`
 
-දකුණු පිලිපීනයේ කඳුකර ප්‍රදේශයක සිදු වූ නාය යෑමකින් පුද්ගලයන් 05 දෙනෙකු මිය ගොස් තිබේ.
+Five persons have been killed in a mountainous region of the right Philippines.
 
-නාය යෑමෙන් තවත් පුද්ගලයන් 31 දෙනෙකු තුවාල ලබා ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+Foreign media reports that 31 others were injured in landslides.
 
-බස් රථයක් මතට සහ නිවාසයක් මතට පස් කඳු කඩා වැටීමෙන් මෙම නාය යෑම සිදු ව ඇත.
+The landslide has taken place on a bus and a house.
 
-පතල් කම්කරුවන් ප්‍රවාහනය කරමින් සිටි බස් රථයක් නාය යෑමට හසු වී මෙම අනතුර සිදු ව ඇති බව සඳහන් ය.
+The accident had occurred when a bus was transporting miners.
 
-දකුණු පිලිපීනයට අධික වර්ෂාව හේතුවෙන් දැඩි ආපදා තත්ත්වයක් බලපා ඇති අතර, ගංවතුර හේතුවෙන් මේ වන විට පුද්ගලයන් 18 දෙනෙකු මිය ගොස් තිබේ.
+An high race has been affected by heavy rains and 18 people have died due to floods.
 
 ◼️
 
 [Data](articles/29a5859f.json)
+
+[Extended Data](ext_articles/29a5859f.ext.json)
 
 ---
 
@@ -85,6 +107,8 @@ The company said it will initially invest 10–15 million rupees in the next 12 
 ...
 
 [Data](articles/1592bd5d.json)
+
+[Extended Data](ext_articles/1592bd5d.ext.json)
 
 ---
 
@@ -140,17 +164,67 @@ The officers have informed the court that the Mount Lavinia Magistrate's Court h
 
 ---
 
-### ரயில் தடம்புரள்வு ; மலையக ரயில் சேவைகள் தாமதம்!
+### Train disruption;Mountaineer train services delay!
 
 *2024-02-07 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175794) · `ta`
 
-ரயில் தடம் புரண்டதன் காரணமாக மலையக ரயில் பாதையில் சேவையில் ஈடுபடும் ரயில்கள் தாமதமாகவே  இயக்கப்படுவதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+The Railway Department has said that the trains working on the hill station are delayed due to the train derailment.
 
-பதுளையிலிருந்து கொழும்பு கோட்டை நோக்கி பயணித்த உடரட்ட  மெனிகே கடுகதி ரயில் உலப்பனை  ரயில் நிலையத்தில் தடம் புரண்டுள்ளது.
+The Udaratta Menige Kadugathi train, which was traveling from Badulla to Colombo Fort, derailed at the Ulappanai railway station.
 
 ◼️
 
 [Data](articles/d54d0aae.json)
+
+[Extended Data](ext_articles/d54d0aae.ext.json)
+
+---
+
+### Sri Lanka’s official reserve assets increase by 2.3% in January
+
+*2024-02-07 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97080/sri-lankas-official-reserve-assets-increase-by-23-in-january) · `en`
+
+The Central Bank of Sri Lanka (CBSL) says Sri Lanka’s official reserve assets have recorded an increase of 2.3% in the month of January 2024.
+
+Accordingly, the official reserve assets have reached USD 4,491 million in January 2024 from USD 4,392 million in December 2023.
+
+“This includes a swap facility from People’s Bank of China, equivalent to around USD 1.4 billion, which is subject to conditionalities on usability”, CBSL added.
+
+◼️
+
+[Data](articles/0c6d4aed.json)
+
+---
+
+### පතුරම් සමග පුද්ගලයෙක් අත්අඩංගුවට
+
+*2024-02-07 13:39:10* · [`adalk`](https://www.ada.lk/breaking_news/පතුරම්-සමග-පුද්ගලයෙක්-අත්අඩංගුවට/11-407950) · `si`
+
+හපුගස්තලාවළුදැමඩ ප්‍රදේශයේ නිව කසක තිබි ටි. 56 උන්ඩ හා ස්පයිනර් උන්ඩයක් සමග සැක පිට එක් පුද්ගලයක් තලවාකැලේ පොලිස් වීශේෂ බලකා නිලධාරින් විසින් අත් අඩංගුවට ගෙන ඇත.
+
+තලවාකැලේ පොලිස් වීශේෂ බලකායේ නිලධාරින්ට ලද තොරතුරක් මත එහි නිලධාරින් පිරිසක් විසින් කරන ලද සෝදිසියකදි හපුගස්තලාව කළුදැමඩ ප්‍රදේශයේ නිවසක්  තුල තිබි (7.62x39mm) ටි.56 උන්ඩ 05ක් හා ස්පයිනර් උන්ඩයක් සමග එක් පුද්ගලයකු අත් අඩංගුවට ගෙන ඇත.
+
+මේ පිලිබදව කරන ලද විමසිමකදි අදහස් දැක්වු තලවාකැලේ පොලිස් වීශේෂ බලකා කදවුරේ නිලධාරියකු පවසන ලද්දේ ලද තොරතුරක් මත 06වන දින රාත්‍රියේ කරන ලද සෝදිසියකදි මෙම උන්ඩ හා සැකපිට එක් පුද්ගලයකු අත් අඩංගුවට ගත් බවත්ය.
+
+මෙසේ අත් අඩංගුවට ගන්නා ලද සැකකරු ඉදිරි නිතිමය කටයුතු කිරිම සදහානාවලපිටිය ‍පොලිසිය වෙත බාර දිමට පියවර ගත් බවද එම නිලධාරියා වැඩි දුරටත් පැවසිය.
+
+◼️
+
+[Data](articles/227347ea.json)
+
+---
+
+### “Udarata Menike” train derails
+
+*2024-02-07 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97079/udarata-menike-train-derails) · `en`
+
+The “Udarata Menike” express train operating from Badulla to Kandy and Colombo Fort has derailed near the Ulapane Railway Station, Sri Lanka Railways said.
+
+As a result, the trains plying on the Main Line can experience delays, according to the railways department.
+
+◼️
+
+[Data](articles/1022cc77.json)
 
 ---
 
@@ -176,23 +250,25 @@ The suspects are to be produced before the Pointuru Uduvaduwa Magistrate's Court
 
 ---
 
-### இலங்கையர்கள் தொழில் புரியும் தென்கொரிய தொழிற்சாலையில் தீ விபத்து : 540 மில்லியன்  ரூபா பெறுமதியான சொத்துக்கள் நாசம்!
+### South Korean Factory
 
 *2024-02-07 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175793) · `ta`
 
-தென்கொரியாவின் நாசு பிரதேசத்தில் உள்ள தொழிற்சாலை ஒன்றில் தீ விபத்து ஏற்பட்டுள்ளதாக   வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+Foreign media reports that a fire broke out at a factory in Nasu, South Korea.
 
-இந்தச் சம்பவம் இடம்பெற்றபோது அங்கு பணியில் ஈடுபட்டிருந்த 45 ஊழியர்கள் பாதுகாப்பாக  மீட்கப்பட்டதாகவும் தீ விபத்தினால்  540 மில்லியன்  ரூபா பெறுமதியான சொத்துக்கள் சேதமடைந்துள்ளதாகவும் தெரிவிக்கப்படுகிறது.
+At the time of the incident, 45 employees were safely recovered and the fire was damaged by 540 million rupees.
 
-தீ விபத்துக்கான காரணம் மின் கசிவு என விசாரணைக் குழு தெரிவித்ததுடன், தொழிற்சாலை முற்றாக எரிந்து நாசமாகியுள்ளதாக வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+The investigation team said the cause of the fire was an electrical leak and foreign media reported that the factory was completely destroyed.
 
-இத்தொழிற்சாலையில் சுமார் 200 பேர் பணிபுரிவதாகவும் பல இலங்கையர்களும் அங்கு கடமையாற்றுவதாகவும் வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+Foreign media reports that about 200 people are working in the factory and many Sri Lankans are working there.
 
-தீயினால் இலங்கையர்கள் எவருக்கும் பாதிப்பு ஏற்படவில்லை என அங்கு பணிபுரியும் இலங்கையர் ஒருவர் தெரிவித்துள்ளார்.
+A Sri Lankan working there said that no Sri Lankans were affected by the fire.
 
 ◼️
 
 [Data](articles/f688ddca.json)
+
+[Extended Data](ext_articles/f688ddca.ext.json)
 
 ---
 
@@ -211,6 +287,38 @@ ECONOMYNEXT – Economic activity that is now concentrated in the island’s Wes
 [Data](articles/cead5d26.json)
 
 [Extended Data](ext_articles/cead5d26.ext.json)
+
+---
+
+### President hints at VAT revision, promises to alleviate tax burden and increase benefits
+
+*2024-02-07 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97078/president-hints-at-vat-revision-promises-to-alleviate-tax-burden-and-increase-benefits) · `en`
+
+President Ranil Wickremesinghe, delivering the government’s policy statement in Parliament on Wednesday (Feb.07), revealed that the government aims to alleviate the tax burden on the people as the economy continues to stabilize with the implementation of economic reforms.
+
+He said this will provide room for a potential revision of the Value-Added Tax (VAT) percentage, which was increased from 15% to 18% with effect from the outset of 2024. Acknowledging that the VAT hike poses a burden for many people, the President said the government is systematically addressing this issue.
+
+The Head of State presented the government’s policy statement to the House after ceremonially declaring open the Fifth Session of the Ninth Parliament on Wednesday morning.
+
+...
+
+[Data](articles/e7357e6b.json)
+
+---
+
+### Former Navy Chief Daya Sandagiri joins SJB
+
+*2024-02-07 13:26:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/former-navy-chief-daya-sandagiri-joins-sjb/) · `en`
+
+COLOMBO (News 1st);  Daya Sandagiri, the 14th Naval Commander of Sri Lanka, has joined the opposition Samagi Jana Balawegaya and pledged support for leader Sajith Premadasa.
+
+Premadasa, recognizing Sandagiri's maritime expertise, appointed him as a consultant on maritime and naval policies.
+
+Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
+
+◼️
+
+[Data](articles/2a61bf4f.json)
 
 ---
 
@@ -307,8 +415,6 @@ The operation, conducted across the island, resulted in the arrest of 596 suspec
 Police confiscated a significant amount of illegal drugs, including 128 grams of heroin, 115 grams of ice, 8 kilograms of ganja, 626 grams of other narcotics, and 34 drug pills.
 
 Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
-
-CBK Back in Politics: Leads Broad Alliance for Upcoming Elections
 
 ◼️
 
@@ -1114,7 +1220,7 @@ A new party secretary will be selected on the 22nd of February.
 
 Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
 
-...
+◼️
 
 [Data](articles/ae6f9ec7.json)
 
@@ -1580,8 +1686,6 @@ Talk of The Town | What's next for SLFP? | Thilanga Sumathipala | 07 February 20
 
 Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
 
-CBK Back in Politics: Leads Broad Alliance for Upcoming Elections
-
 ◼️
 
 [Data](articles/241ec358.json)
@@ -1882,8 +1986,6 @@ The President last adjourned the Parliament on the 26th of January.
 
 Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
 
-CBK Back in Politics: Leads Broad Alliance for Upcoming Elections
-
 ◼️
 
 [Data](articles/ffb7dbb7.json)
@@ -1929,131 +2031,5 @@ Under Governor Nandalal Weerasinghe, banking stability has given first place, wi
 [Data](articles/fd8c5c6a.json)
 
 [Extended Data](ext_articles/fd8c5c6a.ext.json)
-
----
-
-### JJB delegation to meet Chief Minister of Gujarat
-
-*2024-02-07 07:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/jjb-delegation-to-meet-chief-minister-of-gujarat/) · `en`
-
-COLOMBO (News 1st); A delegation from the Jathika Jana Balawegaya (JJB), led by party leader Anura Kumara Dissanayake who are on an official visit to India will meet the Chief Minister of Gujarat in Ahmedabad today.
-
-They are also scheduled to hold discussions with the Minister of Commerce and Industry of the state and other high level government officials today.
-
-The delegation from the Jathika Jana Balawegaya (JJB), led by party leader Anura Kumara Dissanayake engaged in key meetings with prominent Indian organizations focused on policy and governance yesterday.
-
-Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
-
-CBK Back in Politics: Leads Broad Alliance for Upcoming Elections
-
-◼️
-
-[Data](articles/0aff12ff.json)
-
-[Extended Data](ext_articles/0aff12ff.ext.json)
-
----
-
-### Can't die in Colombo anymore
-
-*2024-02-07 07:45:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இனி-நிம்மதியாக-சாக-முடியாது/175-332806) · `ta`
-
-The death of the Colombo Municipal Council (CMC) has increased the fee for a tomb (two square feet) to 180,000 rupees, and death has become an expensive thing for the residents of Colombo.
-
-"One can only get a small land of two -dimensional two. Only one can bury a cell with the ashes of the deceased."A former member of the CMC told our brother -in -law Daily Mirror.
-
-However, he said that the tomb fees were to be increased in 2018, but the members of the council defeated the resolution in the House that year.
-
-Meanwhile, former CMC Member Alphred Sampath said the fee for firefighting within the Colombo city limits has been increased by Rs 1,000 to Rs 1,000 to Rs 10,000 and 20,000 per outpatations.
-
-I have lodged a complaint with President Ranil Wickremesinghe on this issue.He said that the matter was informed by Western Governor Roshan Gunatilaka.
-
-...
-
-[Data](articles/86f385bb.json)
-
-[Extended Data](ext_articles/86f385bb.ext.json)
-
----
-
-### Medical fraternity questions neglect of CID on NMRA role
-
-*2024-02-07 07:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Medical-fraternity-questions-neglect-of-CID-on-NMRA-role/108-276448) · `en`
-
-Colombo, Feb 07 (Daily Mirror) - In response to the ongoing investigations pertaining to the substandard Immunoglobulin scandal, the medical fraternity questions the sluggish move by the Criminal Investigation Department (CID) to look into the role of the National Medicines Regulatory Authority (NMRA) in the procurement process of the said drug.
-
-Speaking to Daily Mirror, GMOA Media Spokesman Dr. Chamil Wijesinghe said with respect to the import of Immunoglobulin injections, the NMRA played a critical role as it had been actively involved in the entire process of procurement.
-
-“As such, we urge the law enforcement authorities to pay key attention on the role played by the NMRA in the procurement process as it could further shed light on the Immunoglobulin scandal,” he added.
-
-...
-
-[Data](articles/805966e2.json)
-
-[Extended Data](ext_articles/805966e2.ext.json)
-
----
-
-### Section 5 of Parliament in Parliament commences today
-
-*2024-02-07 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193064) · `si`
-
-President Ranil Wickremesinghe is scheduled to be opened today (07) under the patronage of President Ranil Wickremesinghe.
-
-The President's policy statement is to be presented to Parliament by holding in parliament at 10.30 am today.
-
-President Ranil Wickremesinghe was completed by the end of the night of the 26th of January.
-
-Accordingly, the Adjournment Debate will be held today on the 8th and 9 of the government's policy statement to be presented to Parliament today.
-
-However, it is reported that the ceremony of the Parliament has been conducting the occasion as lowly simple and champ.
-
-Chief Organizer Minister Prasanna Ranatunga said that the event would include salute and salute, salt and pre-travel vehicles.
-
-President Mahinda Rajapaksa will address the House Ranil Wickremesinghe after reading the Parliament to the House at 10.30 am and calling the Parliamentary Secretaries of Parliamentary Season.
-
-...
-
-[Data](articles/fedd062e.json)
-
-[Extended Data](ext_articles/fedd062e.ext.json)
-
----
-
-### The National People's Power Group went to Gujarat
-
-*2024-02-07 07:28:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தி-குழு-குஜராத்-சென்றது/175-332805) · `ta`
-
-The National People's Power (NPP) group led by Anura Kumara Dissanayake went to Gujarat, the home of Prime Minister Narendra Modi, ended the second day of their Indian journey.
-
-The NPP delegation is expected to meet Gujarat Chief Minister Bubendra Patel and take some tours in the state.
-
-The NPP delegation yesterday held talks with the leading Indian ideology group, Observer Research Foundation.
-
-In addition, NPP representatives visited the Indian Separate Identification Authority.Earlier, during the trip, Indian Foreign Minister Dr. S.. Jaishankar, National Security Advisor Ajith Dowal and Foreign Secretary Vinay Mohan held talks.
-
-It is reported that the group will then travel to Kerala, the Indian state ruled by the Communist Party.
-
-◼️
-
-[Data](articles/e97cdeb5.json)
-
-[Extended Data](ext_articles/e97cdeb5.ext.json)
-
----
-
-### Keheliya refuses to attend today’s parliament session
-
-*2024-02-07 07:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Keheliya-refuses-to-attend-todays-parliament-session/155-276487) · `en`
-
-Colombo, Feb 7 (Daily Mirror) - Former Minister Keheliya Rambukwella, who was remanded till February 15 over the controversial human immunoglobulin procurement scandal, has been granted permission to attend today's Parliamentary session, the Prisons spokesman said.
-
-However, MP Rambukwella has informed the prison authorities that he will not attend today’s session.
-
-◼️
-
-[Data](articles/5e86c2d6.json)
-
-[Extended Data](ext_articles/5e86c2d6.ext.json)
 
 ---

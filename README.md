@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 12:49:00**
+As of **2024-02-07 13:02:17**
 
 ## Newspaper Stats
 
-*Scraped **5,406** Articles*
+*Scraped **5,407** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 455
 virakesarilk | 650
 adaderanalk | 671
 tamilmirrorlk | 677
-adaderanasinhalalk | 697
+adaderanasinhalalk | 698
 dailymirrorlk | 767
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,406 (100.0%) of 5,406 articles have been extended.
+5,407 (100.0%) of 5,407 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### Father arrested by joining children
+
+*2024-02-07 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193075) · `si`
+
+The father of the children was arrested this morning this morning (07) this morning (07).
+
+The victim was 33 year old, the father of 33-year-old resident of the Dimbula Patana Police Division on the 5th night.
+
+It is reported that the wife of the suspect who has been assaulted by the two children in the ages of 9 and 5 years old, have been abroad.
+
+The two children are in the custody of the grandmother and the suspect is a person who works at a vehicle cleaner center in Colombo.
+
+Preliminary investigations have revealed that the two children had been assaulted by the suspect.
+
+The suspect was arrested while staying with the two children in his house in the Nagasena, owned police divisions.
+
+The two children who were taken into custody were taken to the Judicial Medical Officer of Dikoya, the Dimbula Patana Police OIC added that the suspect will be produced before the Hatton Secretariat.
+
+◼️
+
+[Data](articles/991b5175.json)
+
+[Extended Data](ext_articles/991b5175.ext.json)
+
+---
 
 ### Stock market’s daily turnover exceeds Rs. 11bn after single transaction
 
@@ -2021,25 +2047,5 @@ As of this, the 1990 free ambulance services of Mangulam, Mulliyawalai and Manna
 [Data](articles/ac8d9e07.json)
 
 [Extended Data](ext_articles/ac8d9e07.ext.json)
-
----
-
-### 2024-02-06 (Tuesday)
-
-### We expect to complete negotiations on free trade agreements with India and China -the main compliance officer for international contracts
-
-*2024-02-06 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/175749) · `ta`
-
-We expect negotiations to expand the free trade agreement with India by March or April. Weerasinghe, the Chief Compliance Officer for the International Agreements of the Ministry of Foreign Affairs, said that talks with China suspended in 2018 have been resumed.
-
-He further stated this at a press conference held at the Presidential Media Center on Tuesday (06).
-
-The Independent Trade Agreement signed with India is still in effect. However, this agreement is only limited for business activities. Negotiations were held last January to expand this. The bilateral compliance has been reached that the negotiations should be completed soon. Since the election after March, India expects to complete talks before.
-
-...
-
-[Data](articles/11785542.json)
-
-[Extended Data](ext_articles/11785542.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 21:02:38**
+As of **2024-02-07 21:17:24**
 
 ## Newspaper Stats
 
-*Scraped **5,528** Articles*
+*Scraped **5,529** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 290
 dailyftlk | 305
 newsfirstlk | 342
 adalk | 471
-virakesarilk | 671
+virakesarilk | 672
 adaderanalk | 685
 tamilmirrorlk | 691
 adaderanasinhalalk | 720
@@ -26,7 +26,7 @@ dailymirrorlk | 783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,528 (100.0%) of 5,528 articles have been extended.
+5,528 (100.0%) of 5,529 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -179,6 +179,20 @@ There are 234 teams including police officers who installed police officers and 
 [Data](articles/64c8aa45.json)
 
 [Extended Data](ext_articles/64c8aa45.ext.json)
+
+---
+
+### சனத் நிஷாந்தவின் மரணத்தில் சந்தேகம்: மனைவி சிஐடியில் முறைப்பாடு!
+
+*2024-02-07 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175839) · `ta`
+
+முன்னாள் இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் மனைவி சட்டத்தரணி சாமரி பிரியங்கவினால்  அவரது கணவரின் மரணம். தொடர்பில் குற்றப் புலனாய்வு திணைக்களத்தில் முறைப்பாடு செய்யப்பட்டுள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+
+முன்னாள் இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் மரணத்தில் சந்தேகத்திற்கிடமான சூழ்நிலைகள் இருப்பதாகத் தெரிவித்து மேற்படி  முறைப்பாட்டை செய்துள்ளார்.
+
+◼️
+
+[Data](articles/c77938ad.json)
 
 ---
 
@@ -2055,23 +2069,5 @@ Joseph Starling, therefore, urged the government to take immediate action agains
 [Data](articles/2e1dd68f.json)
 
 [Extended Data](ext_articles/2e1dd68f.ext.json)
-
----
-
-### Crossing on John Keells pushes Sri Lanka stock market turnover to 11bn
-
-*2024-02-07 12:27:00* · [`economynextcom`](https://economynext.com/crossing-on-john-keells-pushes-sri-lanka-stock-market-turnover-to-11bn-150256/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange registered a turnover of 11.7 billion in mid-day trading on Wednesday, due to a large crossing on John Keells Holdings Plc (11.3mn).
-
-The broader All Share Index was up 0.13 points, or 13.90 percent at 10,539, while the S&P SL20 Index went up 9.61 points to top 3,000, up 0.32 percent.
-
-Market participants said with the decline in bond yield rates, primary dealing counters saw trading activity. (Colombo/Feb7/2024).
-
-◼️
-
-[Data](articles/0bd3b305.json)
-
-[Extended Data](ext_articles/0bd3b305.ext.json)
 
 ---

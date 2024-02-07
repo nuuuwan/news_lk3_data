@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 22:18:43**
+As of **2024-02-07 22:32:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 788
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,533 (99.9%) of 5,541 articles have been extended.
+5,541 (100.0%) of 5,541 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Magistrate Thilina Gamage ordered the suspect to be released on two sureties of 
 
 [Data](articles/1338f38b.json)
 
+[Extended Data](ext_articles/1338f38b.ext.json)
+
 ---
 
 ### Continental invests €13 Mn to expand specialty tires production in Sri Lanka
@@ -61,6 +63,8 @@ Since its establishment in 2009, the Kalutara plant has been a key player in the
 ...
 
 [Data](articles/55218241.json)
+
+[Extended Data](ext_articles/55218241.ext.json)
 
 ---
 
@@ -80,6 +84,8 @@ The CID informed court that Pastor Jerome Fernando is being investigated into un
 
 [Data](articles/cddafe4e.json)
 
+[Extended Data](ext_articles/cddafe4e.ext.json)
+
 ---
 
 ### Sri Lanka Cement Corporation expecting to generate USD 300mn annually
@@ -98,6 +104,8 @@ The announcement was made during a press briefing titled “Collective Path to a
 
 [Data](articles/797b9a0b.json)
 
+[Extended Data](ext_articles/797b9a0b.ext.json)
+
 ---
 
 ### Gazette issued keeping Environment Ministry under President’s purview
@@ -111,6 +119,8 @@ The gazette was issued under Article 44(3) of the Constitution of the Democratic
 ◼️
 
 [Data](articles/c0a115f0.json)
+
+[Extended Data](ext_articles/c0a115f0.ext.json)
 
 ---
 
@@ -128,6 +138,8 @@ Rambukwella was arrested on 02 February after he arrived at the Criminal Investi
 
 [Data](articles/b33e0817.json)
 
+[Extended Data](ext_articles/b33e0817.ext.json)
+
 ---
 
 ### Wigneswaran backs Ranil as ideal Presidential candidate
@@ -143,6 +155,8 @@ He said he considers the President as the best candidate among the current aspir
 ◼️
 
 [Data](articles/bf3903c7.json)
+
+[Extended Data](ext_articles/bf3903c7.ext.json)
 
 ---
 
@@ -203,6 +217,8 @@ The controversial Bill garnered not only the attention of local activists and or
 ...
 
 [Data](articles/9eb2703f.json)
+
+[Extended Data](ext_articles/9eb2703f.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 13:51:37**
+As of **2024-02-07 14:02:30**
 
 ## Newspaper Stats
 
-*Scraped **5,421** Articles*
+*Scraped **5,427** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,71 @@ dbsjeyarajcom | 140
 economynextcom | 281
 islandlk | 288
 dailyftlk | 305
-newsfirstlk | 336
+newsfirstlk | 338
 adalk | 459
 virakesarilk | 655
 adaderanalk | 671
 tamilmirrorlk | 679
-adaderanasinhalalk | 699
-dailymirrorlk | 769
+adaderanasinhalalk | 700
+dailymirrorlk | 772
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,421 (100.0%) of 5,421 articles have been extended.
+5,421 (99.9%) of 5,427 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### Ukrainian-born Miss Japan relinquishes crown following alleged affair
+
+*2024-02-07 13:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Ukrainian-born-Miss-Japan-relinquishes-crown-following-alleged-affair/107-276515) · `en`
+
+Feb 7 (CNN) - The Ukrainian-born beauty queen who sparked a debate on cultural identity by being named Miss Japan has relinquished her title just two weeks after being crowned.
+
+Karolina Shiino, the first person of predominantly European heritage ever to win the Miss Nippon contest (which takes its title from the country’s Japanese name), announced her decision to step down on Monday following local newspaper allegations of an affair with a married man.
+
+In a statement posted to Instagram, the 26-year-old model apologized to the man’s family and those involved. She also announced that she was parting ways with her talent agency, writing: “I am truly sorry for causing a lot of trouble for many people and betraying those who have supported me.”
+
+Organizers of the event meanwhile released a statement saying that Shiino had “requested to withdraw from the contest due to personal reasons.” Kaoru Wada, chair of the Miss Nippon Association, added that the 2024 title will remain “vacant.”
+
+...
+
+[Data](articles/1d5a4ebd.json)
+
+---
+
+### දුම්රියක් පීලි පනී
+
+*2024-02-07 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193077) · `si`
+
+දුම්රිය පීලි පැනීමක් හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ ධාවනය වන දුම්රිය ප්‍රමාදයන් සහිතව ධාවනය වන බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+බදුල්ල සිට කොළඹ කොටුව දක්වා ධාවනය වූ උඩරට මැණිකේ සීඝ්‍රගාමී දුම්රිය උලපනේ දුම්රිය ස්ථානයේදී පීලි පැනීමට ලක්වීම හේතුවෙන් දුම්රිය ධාවනයට මෙලෙස බාධා එල්ලවී තිබේ.
+
+◼️
+
+[Data](articles/7bc6c693.json)
+
+---
+
+### ICFS hosts admission event for Germany and Netherlands universities
+
+*2024-02-07 13:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICFS-hosts-admission-event-for-Germany-and-Netherlands-universities/108-276514) · `en`
+
+Colombo, Feb 07 (Daily Mirror) - An admission event for students aspiring to pursue higher education in universities in Germany and the Netherlands will take place on Saturday (10) at the International Center for Foreign Studies (ICFS).
+
+ICFS said that many countries have opened their doors for international students in 2024 due to recent immigration policy changes and new strategies introduced by Australia and the United Kingdom.
+
+Accordingly, the event featuring universities from Germany and the Netherlands will be held on February 10 at ICFS Education Center in Nugegoda, from 10:00 am to 5:00 pm.
+
+...
+
+[Data](articles/4afb8a8e.json)
+
+---
 
 ### International Award for Best Wildlife Photo Artist
 
@@ -57,6 +105,26 @@ Nima Sarigani has taken a photo following a three -day journey in search of pola
 [Data](articles/2ee4995f.json)
 
 [Extended Data](ext_articles/2ee4995f.ext.json)
+
+---
+
+### Yukthiya Nets 785 Suspects in 24 Hours
+
+*2024-02-07 13:11:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/yukthiya-nets-785-suspects-in-24-hours/) · `en`
+
+COLOMBO (News 1st); Sri Lankan authorities announced the arrest of 785 suspects in a 24-hour nationwide operation dubbed "Operation Yukthiya" targeting drug offenses and individuals on criminal watchlists.
+
+The operation, conducted across the island, resulted in the arrest of 596 suspects related to drug offenses and 189 individuals on criminal watchlists.
+
+Police confiscated a significant amount of illegal drugs, including 128 grams of heroin, 115 grams of ice, 8 kilograms of ganja, 626 grams of other narcotics, and 34 drug pills.
+
+Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
+
+CBK Back in Politics: Leads Broad Alliance for Upcoming Elections
+
+◼️
+
+[Data](articles/a15f27ad.json)
 
 ---
 
@@ -99,6 +167,44 @@ The Adjournment Debate on the Government's Policy Statement of the President wil
 [Data](articles/7755dc71.json)
 
 [Extended Data](ext_articles/7755dc71.ext.json)
+
+---
+
+### Navy Upgrades Sanitation at Medawachchiya Schools
+
+*2024-02-07 12:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/navy-upgrades-sanitation-at-medawachchiya-schools/) · `en`
+
+COLOMBO (News 1st); Driven by a US domiciled philanthropist's financial support, the Sri Lanka Navy's North Central Command enhanced sanitary facilities at three Medawachchiya schools: Puleliya Vidyalaya, Thulawelliya Vidyalaya, and Ginikatuwewa Vidyalaya Rambewa. Declared open on February 5th, the project tackled a longstanding need and was praised by school staff and community.
+
+Through this initiative, the Navy successfully addressed a longstanding requirement for the children attending those schools.
+
+Meanwhile, the Navy's initiatives, aimed at creating conducive environments for children to excel in their educational pursuits, received commendation from school principals and teachers.
+
+Commanding Officer SLNS Pandukabhaya, Captain MAL Perera, naval personnel from the North Central Naval Command, the Principals and teaching staffs of the schools and school children were present on the occasions where these facilities were declared open.
+
+...
+
+[Data](articles/3dc9adaf.json)
+
+---
+
+### Sri Lankan court releases six Indian fishermen
+
+*2024-02-07 12:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-court-releases-six-Indian-fishermen/108-276513) · `en`
+
+Colombo, Feb 07 -  A Sri Lankan court on Tuesday released six Indian fishermen who were arrested on Jan 22 on charges of poaching in the territorial waters of the island nation.
+
+The released fishermen were handed over to the Indian consulate general office in Jaffna.
+
+Isaac, 47, Sisarian, 43, Samathana Babu, 38, Easter Arockiadas, 34, Nishanthan, 34, and Murugesan sailed from the Rameswaram fishing jetty on two boats.
+
+The fishermen were booked for trespassing, poaching and using banned fishing nets in Sri Lankan waters. They were produced before the Sri Lankan court at Oorkavalthurai and remanded in judicial custody till Feb 6.
+
+When they were produced before the court on Tuesday, judge ordered their release on the condition that they should not enter Sri Lankan waters failing which they would be imprisoned. The judge ordered nationalisation of their fishing crafts and the fishing gear.
+
+...
+
+[Data](articles/6bd4c7b8.json)
 
 ---
 
@@ -1913,125 +2019,5 @@ Maritime law expert, Dr. Dan Malika Gunasekara highlighted the country’s progr
 [Data](articles/c121e33b.json)
 
 [Extended Data](ext_articles/c121e33b.ext.json)
-
----
-
-### 6 Indian fishermen release
-
-*2024-02-07 03:20:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-இந்திய-மீனவர்கள்-விடுதலை/175-332803) · `ta`
-
-Six Indian fishermen arrested on the 23rd of last month have been released by the Kayts Magistrate's Court.
-
-Six fishermen were arrested on the 23rd of last month and 2 boats were seized.
-
-Six fishermen were released yesterday by the Kayts Magistrate's Court on the basis of the condition of the 18 -month prison sentence.(a)
-
-◼️
-
-[Data](articles/47fc3877.json)
-
-[Extended Data](ext_articles/47fc3877.ext.json)
-
----
-
-### 6 Indian fishermen release
-
-*2024-02-07 03:20:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/6-இந்திய-மீனவர்கள்-விடுதலை/71-332803) · `ta`
-
-Six Indian fishermen arrested on the 23rd of last month have been released by the Kayts Magistrate's Court.
-
-Six fishermen were arrested on the 23rd of last month and 2 boats were seized.
-
-Six fishermen were released yesterday by the Kayts Magistrate's Court on the basis of the condition of the 18 -month prison sentence.(a)
-
-◼️
-
-[Data](articles/9b1007f4.json)
-
-[Extended Data](ext_articles/9b1007f4.ext.json)
-
----
-
-### Filed a petition against national people's power
-
-*2024-02-07 03:05:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்திக்கு-எதிராக-மனு-தாக்கல்/175-332802) · `ta`
-
-A petition has been filed in the High Court demanding that the system registered with the National People's Power by the Elections Commission and the opportunity to present submissions in this regard.
-
-He made this statement during the hearing on the petition filed by the Elections Commission to reject Vinevitha Peramuna as a political party.
-
-Attorney -at -Law Nagananda Kodiduwaku, the secretary of the Vinivitha Peramuna, who has filed a move in this regard, has said that the JVP's registration of national people's power as a political party is contrary to the law.
-
-He also stated that it is illegal to register different sections of the same party as political parties, according to the second number of the Constitution.. (A)
-
-◼️
-
-[Data](articles/8301e4f1.json)
-
-[Extended Data](ext_articles/8301e4f1.ext.json)
-
----
-
-### The 5th session of Parliament today
-
-*2024-02-07 03:03:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பாராளுமன்றத்தின்-5-ஆவது-கூட்டத்தொடர்/175-332801) · `ta`
-
-The fifth session of the ninth parliament will be inaugurated today under the leadership of President Ranil Wickremesinghe.
-
-The President will present the government's policy declaration in Parliament at 10.30 am today in accordance with the authority given by the Constitution.
-
-Parliamentary Corps Kushan Jayaratne said that at the instructions of the president, during his visit, the rescue of honor and the vehicle will not be included.
-
-The House action will be postponed till 9.30 am tomorrow after the President's policy declaration was made by the president. (A)
-
-◼️
-
-[Data](articles/b4cb18c7.json)
-
-[Extended Data](ext_articles/b4cb18c7.ext.json)
-
----
-
-### Model will be held this year election
-
-*2024-02-07 02:54:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-வருடம்-தேர்தல்-நடத்தப்படும்/175-332800) · `ta`
-
-Cabinet spokesman and Minister Bandula Gunawardena said that the presidential election and the general election will be held this year.
-
-He said this while addressing a press conference announcing the Cabinet decisions. He further stated that
-
-“The Cabinet has focused on the need to manage the presidential election and general elections in the 2024 budget for the election of 10 billion rupees.
-
-Due to the limited financial situation in the government, the Cabinet has also examined the provincial council and the necessary funds to hold the provincial council and local government elections through the budget for 2025.
-
-However, the Cabinet has also consulted to introduce amendments to the reorganization of the relevant election laws based on parliamentary permits, if the recommendations of the Commission to be presented by the Commission of Inquiry before holding the two elections. ”
-
-◼️
-
-[Data](articles/1c1c9a3b.json)
-
-[Extended Data](ext_articles/1c1c9a3b.ext.json)
-
----
-
-### "After I started everything in my life,"
-
-*2024-02-07 02:34:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxrkpgllk5go) · `si`
-
-There is nothing here. Play video, "Games:" The Running Time 2,4502: I Want to Overcome New Challenges ". I want to find my Lime ''
-
-"After I started everything in my life,"
-
-At the age of 26, the eyesight is completely lost, but Karith Osman is a player who has received a range of achievements without shaking.
-
-He has achieved international achievements from boxing and a member of the National Visually Handicapman. He also participates in swimming, bicycles and marathon.
-
-"After I started everything in my life, after I couldn't see my eyes. I haven't swirmed in the sea. Boxing or cricket has not done me. I took a gold medal from boxing from the fourth South Asian Competition. I like to overcome the new challenges. I want to look for my Lime, "Khalid Osman told BBC Sinhala.
-
-◼️
-
-[Data](articles/1f5dcb58.json)
-
-[Extended Data](ext_articles/1f5dcb58.ext.json)
 
 ---

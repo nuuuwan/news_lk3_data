@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 03:32:43**
+As of **2024-02-08 03:50:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,571 (99.9%) of 5,575 articles have been extended.
+5,575 (100.0%) of 5,575 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,17 +50,19 @@ These amendments contribute to the alignment of Sri Lanka’s laws that address 
 
 ---
 
-### ஜனாதிபதி அவுஸ்திரேலியா பயணம்
+### President's trip to Australia
 
 *2024-02-08 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/175852) · `ta`
 
-அவுஸ்திரேலியாவின் பேர்த் நகரில் பெப்ரவரி 9ஆம் திகதி முதல் 10ஆம் திகதி வரை நடைபெறவுள்ள 7ஆவது இந்து சமுத்திர மாநாட்டில் பிரதான உரையாற்றுவதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்க சற்று முன்னர் நாட்டிலிருந்து புறப்பட்டுச் சென்றார்.
+President Ranil Wickremesinghe left the country a while before the 7th Indian Ocean Conference to be held from February 9 to 10 in Perth, Australia.
 
-இந்திய மன்றம் மற்றும் அவுஸ்திரேலிய அரசாங்கத்தின் அழைப்பின் பேரில் இந்த விஜயத்தில் இணைந்துள்ள ஜனாதிபதி, இலங்கைக்கான முதலீட்டு வாய்ப்புகள் குறித்தும் அங்கு ஆராயவுள்ளார்.
+At the invitation of the Indian Forum and the Australian government, the President will also discuss the investment opportunities for Sri Lanka.
 
 ◼️
 
 [Data](articles/5644c375.json)
+
+[Extended Data](ext_articles/5644c375.ext.json)
 
 ---
 
@@ -82,19 +84,21 @@ The US Embassy in Sri Lanka yesterday announced the appointment of Dr. Patrick M
 
 ---
 
-### மலையக மார்க்க ரயில் சேவை பாதிப்பு
+### Mountain Train Rail Service Impact
 
 *2024-02-08 01:58:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-மார்க்க-ரயில்-சேவை-பாதிப்பு/175-332866) · `ta`
 
-பதுளையில் இருந்து கொழும்பு - கோட்டை நோக்கி பயணித்த ரயில் ஒன்று உலப்பனை ரயில் நிலையத்திற்கு அருகில் தடம்புரண்டுள்ளது.
+A train traveling from Badulla to Colombo to Fort has been blocked near the Ulappanai railway station.
 
-இதனையடுத்து, மலையக மார்க்கத்தில் கொழும்பு கோட்டையிலிருந்து பயணிக்கும் ரயில்கள் கம்பளை வரை மட்டுப்படுத்தப்பட்டன.
+Subsequently, trains from Colombo Fort to Gampola were limited to the hill country.
 
-பதுளையில் இருந்து புறப்படும் ரயில்கள் நாவலப்பிட்டி வரை மட்டுப்படுத்தப்பட்டுள்ளதாக ரயில்வே திணைக்களம் குறிப்பிட்டுள்ளது. (a)
+The Railway Department has stated that trains from Badulla have been limited to Nawalapitiya. (A)
 
 ◼️
 
 [Data](articles/97748b84.json)
+
+[Extended Data](ext_articles/97748b84.ext.json)
 
 ---
 
@@ -128,35 +132,41 @@ China has a “national team” of State entities that buy up shares of local co
 
 ---
 
-### 4 கோடி பெறுமதியான சட்டவிரோத பொருட்கள் அழிப்பு!
+### 4 crore worth of illegal goods
 
 *2024-02-08 01:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175850) · `ta`
 
-சட்டவிரோதமான முறையில் நாட்டுக்குள் கொண்டுவரப்பட்ட 4 கோடி ரூபாய் பெறுமதியான பொருட்கள் நீதிபதி முன்னிலையில் அழிக்கப்பட்டது.
+The illegal rupees worth Rs 4 crore were destroyed in the presence of the judge.
 
-இந்தியாவிலிருந்து சட்டவிரோதமான முறையில் நாட்டுக்குள் கொண்டுவரப்பட்டு விற்பனை செய்யப்படவிருந்த அரிசி, மஞ்சள் கொத்தமல்லி நிலக்கடலை, உட்பட 7000 கிலோ கிராம் உணவுப்பொருட்களும், சட்டவிரோத கிருமிநாசினிகளுமே இவ்வாறு அழிக்கப்பட்டது.
+It was destroyed by 7000 kg of food and illegal disinfectant, including rice, turmeric coriander groundnut, which were illegally brought and sold into the country from India.
 
-குறித்த பொருட்கள் கடந்த வருடம் ஏப்ரல் மாதம் வவுனியா தெற்கு சிங்கள பிரதேச எல்லைப்பகுதியில் வைத்து சுகாதார பரிசோதகர்களால் பறிமுதல்செய்யப்பட்டு நீதிமன்றில் பாரப்படுப்பத்தப்பட்டிருந்தது. அவற்றை உடைமையில் வைத்திருந்த நபர்களுக்கு ஒன்றரை இலட்சம் ரூபாய் தண்டப்பணம் நீதிமன்றால் விதிக்கப்பட்டது,
+In April last year, the Vavuniya South Sinhalese border was confiscated by health inspectors and presented in court.. One and a half lakh rupees were imposed by the court for those who had their own property.
 
-இந்நிலையில் வவுனியா பம்பைமடுப்பகுதியில் வைத்து மேலதிக நீதவான் ஜெ. சுபாஜினி மற்றும், சிங்கள பிரதேசசபை செயலாளர், விமலவேணி நிசங்க, சுகாதார பரிசோதகர்கள் முன்னிலையில் குறித்த பொருட்கள் அழிக்கப்பட்டது.
+In this case, the Additional Magistrate J.. Subhajini and Sinhala Pradeshiya Sabha Secretary, Vimalaveni Nisanga, the destruction of the items in the presence of health inspectors.
 
 ◼️
 
 [Data](articles/b60a23f7.json)
 
+[Extended Data](ext_articles/b60a23f7.ext.json)
+
 ---
 
-### கஞ்சா ஏற்றுமதிக்கு அமைச்சரவை அங்கீகாரம் வழங்கியதாகக்  குறிப்பிடவில்லை - டயனா கமகே
+### The Cabinet has not mentioned the export of cannabis - Diana Kamage
 
 *2024-02-08 01:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/175849) · `ta`
 
-கஞ்சா ஏற்றுமதிக்குக் கடந்த திங்கட்கிழமை (5) இடம்பெற்ற அமைச்சரவை கூட்டத்தில் அனுமதி வழங்கப்பட்டதாக நான் குறிப்பிடவில்லை. கஞ்சா ஏற்றுமதி செய்தால் நாட்டுக்கு நல்லது. பயனற்ற விமர்சனங்களை மாத்திரம் முன்வைத்துக் கொண்டிருந்தால் முன்னேற்றமடைய முடியாது என  சுற்றுலாத்துறை இராஜாங்க அமைச்சர் டயனா கமகே தெரிவித்தார்.
+I do not mention that permission was granted at a Cabinet meeting held last Monday (5) for cannabis exports. If the cannabis exports is good for the country. Tourism Minister Diana Kamage said that if only the useless criticism is being made, it cannot be progressed.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் கடந்த திங்கட்கிழமை இடம்பெற்ற அமைச்சரவை கூட்டத்தில் கஞ்சா ஏற்றுமதிக்கு அமைச்சரவை அங்கீகாரம் வழங்கப்பட்டுள்ளதாக இராஜாங்க அமைச்சர் டயனா கமகேவின் பெயரை மேற்கோள்காட்டி செய்திகள் வெளியாகியிருந்தன. இதற்கு மத தலைவர்கள், சிவில் அமைப்பினர் உட்பட பல்வேறு தரப்பினர் கடும் எதிர்ப்பை வெளிப்படுத்தியிருந்தனர்.
+The Cabinet meeting was held at the Cabinet meeting chaired by President Ranil Wickremesinghe last Monday that the Cabinet has been approved by the Minister of State Diana Kamage.. Various parties, including religious leaders and civil organizations, have expressed fierce opposition.
+
+The issue was questioned during a press conference announcing the Cabinet decisions on Tuesday (6). Responding to this, Cabinet spokesman and Minister Bandula Gunawardena said that the Cabinet approved for the export of cannabis exports was noted that the Cabinet meeting chaired by the President Bandula Gunawardena.
 
 ...
 
 [Data](articles/bd405861.json)
+
+[Extended Data](ext_articles/bd405861.ext.json)
 
 ---
 

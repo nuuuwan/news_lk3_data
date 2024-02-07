@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 12:32:59**
+As of **2024-02-07 12:49:00**
 
 ## Newspaper Stats
 
-*Scraped **5,405** Articles*
+*Scraped **5,406** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 305
 newsfirstlk | 336
 adalk | 455
 virakesarilk | 650
-adaderanalk | 670
+adaderanalk | 671
 tamilmirrorlk | 677
 adaderanasinhalalk | 697
 dailymirrorlk | 767
@@ -26,11 +26,27 @@ dailymirrorlk | 767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,404 (100.0%) of 5,405 articles have been extended.
+5,406 (100.0%) of 5,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### Stock market’s daily turnover exceeds Rs. 11bn after single transaction
+
+*2024-02-07 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97077/stock-markets-daily-turnover-exceeds-rs-11bn-after-single-transaction) · `en`
+
+The daily turnover of the Colombo Stock Exchange (CSE) has crossed Rs. 11 billion this morning (Feb. 07).
+
+As per stock market figures, this was mainly due to a single transaction of 61.9 million shares in John Keells Holdings PLC.
+
+◼️
+
+[Data](articles/0656204a.json)
+
+[Extended Data](ext_articles/0656204a.ext.json)
+
+---
 
 ### Former President's helicopter crashed
 
@@ -64,6 +80,34 @@ And Piyanara is also considered a richest man in Chile.
 
 ---
 
+### I accept the crisis in social structure by the line: soon tax policy amendment - President
+
+*2024-02-07 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175774) · `ta`
+
+President Ranil Wickremesinghe said that the tax policy amendment would be amended that I would accept the crisis in the social structure by the tax and that the crisis would be paid special attention to managing the crises.
+
+The fifth new parliamentary session of the ninth parliament began on Wednesday with the President's Policy Declaration.
+
+President Ranil Wickremesinghe made the above statement in a speech.
+
+The country's foreign stockpile was seen as the country when the bankruptcy was announced. In the end of 2023, foreign stocks rose to $ 4.4 billion.
+
+Meanwhile, the country has recovered from a massive economic crisis in the short term. I have declared transparency of the proceedings for economic recovery. I don't hide any plans.
+
+I did not give importance to politics when the country faced the worst crises.
+
+Their ownership and praise have been violated.I will recover the lost rights.
+
+Families with low -income poverty will be provided with 20 kilograms of rice in the coming New Year.
+
+...
+
+[Data](articles/6ee99053.json)
+
+[Extended Data](ext_articles/6ee99053.ext.json)
+
+---
+
 ### Sri Lankan court releases six Indian fishermen
 
 *2024-02-07 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97076/sri-lankan-court-releases-six-indian-fishermen) · `en`
@@ -81,6 +125,8 @@ When they were produced before the court on Tuesday, judge ordered their release
 ...
 
 [Data](articles/6a43b5fc.json)
+
+[Extended Data](ext_articles/6a43b5fc.ext.json)
 
 ---
 
@@ -110,9 +156,9 @@ Accordingly, the court ordered to be remanded that suspect that day further rese
 
 Mahinda Kodituwakku, the self-proclaimed ‘Avalokiteshvara Bodhisattva’ has been granted bail on the orders of Colombo Fort Magistrate’s Court.
 
-When the case was called today, Magistrate Thilina Gamage ordered the release of Kodituwakku on two personal bails of Rs. 1 million each, on account of his mental disorder.
+When the case was called today, Magistrate Thilina Gamage ordered the release of Kodituwakku on two personal bails of Rs. 1 million each, as he suffers from a mental disorder.
 
-Accordingly, the accused was ordered to attend the psychiatric clinic at the National Institute of Mental Health in Mulleriyawa, every Monday.
+Accordingly, the accused was instructed to attend the psychiatric clinic at the National Institute of Mental Health in Mulleriyawa, every Monday.
 
 Kodituwakku was arrested by the CID on Jan.15, on charges of committing irreligious activities that are contrary to Buddhist teachings and put behind bars on remand until today (Feb.07).
 
@@ -191,34 +237,6 @@ Former Army Commander Daya Ratnayaka is also known to have recently joined the p
 [Data](articles/6aa24d83.json)
 
 [Extended Data](ext_articles/6aa24d83.ext.json)
-
----
-
-### I accept the crisis in social structure by the line: soon tax policy amendment - President
-
-*2024-02-07 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175774) · `ta`
-
-President Ranil Wickremesinghe said that the tax policy amendment would be amended that I would accept the crisis in the social structure by the tax and that the crisis would be paid special attention to managing the crises.
-
-The fifth new parliamentary session of the ninth parliament began on Wednesday with the President's Policy Declaration.
-
-President Ranil Wickremesinghe made the above statement in a speech.
-
-The country's foreign stockpile was seen as the country when the bankruptcy was announced. In the end of 2023, foreign stocks rose to $ 4.4 billion.
-
-Meanwhile, the country has recovered from a massive economic crisis in the short term. I have declared transparency of the proceedings for economic recovery. I don't hide any plans.
-
-I did not give importance to politics when the country faced the worst crises.
-
-Their ownership and praise have been violated.I will recover the lost rights.
-
-Families with low -income poverty will be provided with 20 kilograms of rice in the coming New Year.
-
-...
-
-[Data](articles/6ee99053.json)
-
-[Extended Data](ext_articles/6ee99053.ext.json)
 
 ---
 
@@ -390,19 +408,39 @@ Preliminary investigations revealed that the mother's mother is outdoors and tha
 
 ---
 
+### Preparations for the Kacha Island Festival
+
+*2024-02-07 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175763) · `ta`
+
+The annual Kachchativu Festival will be held on the 23rd and 24th of this month on the island of Kachchativu.
+
+The main ceremony of the festival will be held under the patronage of Justin Gnanaprakasam, Jaffna.
+
+Health and drinking water facilities, temporary shelters, landing sector and power supply have been carried out.
+
+In addition, the Navy has carried out the color laundry and repair of the strain built by the Sri Lankan navy and the cleaning of the surrounding areas and the premises.
+
+Boat services for Sri Lankan pilgrims going to the festival will be held from the Nedundevu landing.
+
+◼️
+
+[Data](articles/318a9309.json)
+
+[Extended Data](ext_articles/318a9309.ext.json)
+
+---
+
 ### President Ranil delivers govt’s policy statement in Parliament
 
 *2024-02-07 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97074/president-ranil-delivers-govts-policy-statement-in-parliament) · `en`
 
-President Ranil Wickremesinghe says the government expects to ease the tax burden on the people moving forward, while stabilizing the country’s economy by continuing to implement economic reforms.
+President Ranil Wickremesinghe presented the government’s policy statement to the House this morning (Feb.07) after the Fifth Session of the Ninth Parliament was ceremonially declared open.
 
-He made this remark while delivering the government’s policy statement after ceremonially declaring open the Fifth Session of the Ninth Parliament this morning (Feb.07).
+Delivering the policy statement, the Head of State said the government intends to reduce the tax burden on the people in the future, as the country’s economy continues to stabilize with the implementation of economic reforms.
 
-The Head of State also spoke of the positive shift in Sri Lanka’s economic trajectory. Despite a 7.8% GDP contraction and six consecutive quarters of negative growth in 2022, the nation rebounded with a 1.6% growth rate in the Q3 of 2023, he added.
+He went on to highlight the substantial increase in tax registration, with the number of registrants soaring from 437,547 in 2022 to 1,000,029 by the end of 2023, representing a 130% increase.
 
-Wickremesinghe further announced a significant turnaround in the nation’s economic landscape. Despite the 1.9% GDP deficit in 2022, the island nation has achieved a surplus by the end of 2023, marking the first such occurrence since 1977.
-
-Sri Lanka Parliament was prorogued with effect from midnight on 26 January, marking the closure of the Fourth Session of the Ninth Parliament.
+The President also spoke of the positive shift in Sri Lanka’s economic trajectory. Despite a 7.8% GDP contraction and six consecutive quarters of negative growth in 2022, the nation rebounded with a 1.6% growth rate in the Q3 of 2023, he added.
 
 ...
 
@@ -721,28 +759,6 @@ Former Navy Commander and Chief of Defence Staff Daya Sandagiri has joined the m
 [Data](articles/d8b703be.json)
 
 [Extended Data](ext_articles/d8b703be.ext.json)
-
----
-
-### Preparations for the Kacha Island Festival
-
-*2024-02-07 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/175763) · `ta`
-
-The annual Kachchativu Festival will be held on the 23rd and 24th of this month on the island of Kachchativu.
-
-The main ceremony of the festival will be held under the patronage of Justin Gnanaprakasam, Jaffna.
-
-Health and drinking water facilities, temporary shelters, landing sector and power supply have been carried out.
-
-In addition, the Navy has carried out the color laundry and repair of the strain built by the Sri Lankan navy and the cleaning of the surrounding areas and the premises.
-
-Boat services for Sri Lankan pilgrims going to the festival will be held from the Nedundevu landing.
-
-◼️
-
-[Data](articles/318a9309.json)
-
-[Extended Data](ext_articles/318a9309.ext.json)
 
 ---
 
@@ -2025,25 +2041,5 @@ The Independent Trade Agreement signed with India is still in effect. However, t
 [Data](articles/11785542.json)
 
 [Extended Data](ext_articles/11785542.ext.json)
-
----
-
-### Plans to ship human ashes, drink container to Moon spark legal debate
-
-*2024-02-06 23:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97065/plans-to-ship-human-ashes-drink-container-to-moon-spark-legal-debate) · `en`
-
-An array of unconventional, privately funded plans to exploit the moon, including as a site for human ashes and sports-drink containers, has gathered steam in recent years as NASA pushes to make Earth’s natural satellite more accessible.
-
-Concerns about possible gaps in U.S. oversight and legal questions about proper use of the moon have rocketed to the forefront.
-
-Landers built by private companies and emerging space powers are expected in the next few years to join the U.S. flag and other vestiges of past programs to the moon. Other initiatives could include using the moon as a site for capsules of human remains, advertising sports drinks, and maybe even a two-story-tall Christian cross made of the moon’s own dirt.
-
-“We’re just at the beginning of exploring the moon, and ... we need to be careful we’re not contaminating it - not just with biological and chemical contamination but with litter,” said Leslie Tennen, an attorney practicing international space law.
-
-...
-
-[Data](articles/32c3c86e.json)
-
-[Extended Data](ext_articles/32c3c86e.ext.json)
 
 ---

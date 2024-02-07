@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 05:36:53**
+As of **2024-02-07 06:16:13**
 
 ## Newspaper Stats
 
-*Scraped **5,313** Articles*
+*Scraped **5,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 62
 bbccomsinhala | 74
 dbsjeyarajcom | 140
 economynextcom | 278
-islandlk | 278
+islandlk | 285
 dailyftlk | 305
 newsfirstlk | 327
 adalk | 451
@@ -26,7 +26,7 @@ dailymirrorlk | 755
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,307 (99.9%) of 5,313 articles have been extended.
+5,311 (99.8%) of 5,320 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ In the late 1980s, the JVP warned the Sinhala electorate of Indian expansionism,
 
 [Data](articles/44e9390f.json)
 
+[Extended Data](ext_articles/44e9390f.ext.json)
+
 ---
 
 ### ITAK’s New Leader is an Unabashed LTTE Apologist
@@ -60,6 +62,8 @@ When pro-Palestinian groups planned protests on Armistice Day last year, policym
 
 [Data](articles/3584678c.json)
 
+[Extended Data](ext_articles/3584678c.ext.json)
+
 ---
 
 ### Takeaways and giveaways of NPP’s visit to India
@@ -71,6 +75,8 @@ Leader of the alliance National People’s Power (NPP) Anura Kumara Dissanayake 
 ...
 
 [Data](articles/20374f60.json)
+
+[Extended Data](ext_articles/20374f60.ext.json)
 
 ---
 
@@ -85,6 +91,8 @@ Sri Lanka is in the IT Age equivalent of the ancient “Silk Route”; hence it 
 ...
 
 [Data](articles/6914e8c7.json)
+
+[Extended Data](ext_articles/6914e8c7.ext.json)
 
 ---
 
@@ -724,6 +732,38 @@ President Wickremesinghe reiterated Sri Lanka’s commitment to supporting regio
 
 ---
 
+### AICPA® & CIMA® Career Day on 12th February at the Shangri-La, Colombo
+
+*2024-02-06 22:50:00* · [`islandlk`](http://island.lk/aicpa-cima-career-day-on-12th-february-at-the-shangri-la-colombo/) · `en`
+
+In the ever-evolving journey of professional growth, individuals often seek platforms that offer more than just job opportunities – they seek a holistic experience that includes valuable insights, meaningful connections, and the chance to explore new career avenues.
+
+The AICPA® & CIMA® Career Day, scheduled for February 12, 2024, at the Lotus Ballroom, Shangri-La Colombo stands as a beacon for individuals aspiring to elevate their careers.
+
+Together with the American Institute of CPAs (AICPA), CIMA is a founding member of the Association of International Certified Professional Accountants, the global organisation which represents nearly 700,000 AICPA and CIMA members, candidates, and engaged professionals worldwide.
+
+...
+
+[Data](articles/2bbac986.json)
+
+---
+
+### ComBank donates 5000-litre water storage tanks to 50 families at CKDu risk
+
+*2024-02-06 22:49:00* · [`islandlk`](http://island.lk/combank-donates-5000-litre-water-storage-tanks-to-50-families-at-ckdu-risk/) · `en`
+
+The Commercial Bank of Ceylon has donated 5,000-litre water storage tanks to 50 families in Ginnoruwa, Girandurukotte, as part of the Bank’s continuing support to an initiative to help combat the spread of Chronic Kidney Disease of an unknown origin (CKDu).
+
+Designed for the storage of rainwater, the tanks can supply the drinking and cooking water needs of each family for up to six months, protecting them from the harmful impurities in the ground water in the area, the Bank said.
+
+The donation is the latest phase in the ‘Raindrops’ project supported by Commercial Bank since 2016. The project comprised of research into the effectiveness of rainwater as an alternative to ground water in areas where there is a high incidence of kidney disease attributed to poor quality of water.
+
+...
+
+[Data](articles/71e1c667.json)
+
+---
+
 ### Déjà vu?
 
 *2024-02-06 22:46:04* · [`dailyftlk`](https://www.ft.lk/columns/Déjà-vu/4-758180) · `en`
@@ -775,6 +815,20 @@ To consider what the future holds for Sri Lanka, a glance at its past and presen
 [Data](articles/ca32b719.json)
 
 [Extended Data](ext_articles/ca32b719.ext.json)
+
+---
+
+### Anticipated December quarter corporate gains boost bourse
+
+*2024-02-06 22:41:00* · [`islandlk`](http://island.lk/anticipated-december-quarter-corporate-gains-boost-bourse/) · `en`
+
+The stock market was buoyant yesterday on account of local and foreign investors being optimistic over December quarterly corporate results/earnings going to be attractive combined with satisfactory dividend payment, stock market analysts said.
+
+The All Share Price Index went up by 96.23 points, while S and P SL20 rose by 51.6 points. Turnover stood at Rs 872 million with one crossing. The crossing was reported in Hela Apparel, which crossed 5 million shares to the tune of Rs 25 million; its shares traded at Rs 5.
+
+...
+
+[Data](articles/724e79c8.json)
 
 ---
 
@@ -1955,63 +2009,5 @@ A bond maturing on 15.05.2030 closed at 12.95/13.10 down from 13.00/15 percent.
 [Data](articles/e80ca71e.json)
 
 [Extended Data](ext_articles/e80ca71e.ext.json)
-
----
-
-### AKD & Co, Meets ORF & UIDAI in Delhi
-
-*2024-02-06 17:13:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/akd-co-meets-orf-uidai-in-delhi/) · `en`
-
-COLOMBO (News 1st); A delegation from the Jathika Jana Balawegaya (JJB), led by party leader Anura Kumara Dissanayake, is currently on an official visit to India. Today, the delegation engaged in key meetings with prominent Indian organizations focused on policy and governance.
-
-The JJB delegation met with representatives of the Observer Research Foundation (ORF), a leading global think tank based in New Delhi. The ORF provides research and advisory services on a wide range of policy issues to Indian policymakers and businesses.
-
-Following the discussion at ORF, the JJB delegation visited the headquarters of the Unique Identification Authority of India (UIDAI) in New Delhi. UIDAI is responsible for managing Aadhaar, India's national identity card system, which assigns a unique 12-digit identification number to all Indian residents.
-
-Federal Appeals Court rules Trump does not have presidential immunity
-
-◼️
-
-[Data](articles/bbd19475.json)
-
-[Extended Data](ext_articles/bbd19475.ext.json)
-
----
-
-### The Archestra, who destroyed lives
-
-*2024-02-06 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193051) · `si`
-
-Kenya AHL McMcensi, a Kenya's arch leader, and 29 of his assistance has been filed against death.
-
-He ordered the followers to "fast with their children to die."
-
-He had said that they could go to heaven before the end of the world.
-
-◼️
-
-[Data](articles/bd3e5d0e.json)
-
-[Extended Data](ext_articles/bd3e5d0e.ext.json)
-
----
-
-### Sri Lanka Accelerates FTA Talks with Asian Giants
-
-*2024-02-06 16:59:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/sri-lanka-accelerates-fta-talks-with-asian-giants/) · `en`
-
-COLOMBO (News 1st); Sri Lanka is prioritizing the establishment of Free Trade Agreements (FTAs) with key Asian economies, aiming to boost exports, diversify trade partnerships, and build a more resilient economic future.
-
-Speaking at a press briefing titled “Collective Path to a Stable Country” held at the President Media Centre (PMC) today (06), Minister Sabry elaborated on the government’s plans to establish FTAs with India, Indonesia, Malaysia, Vietnam, and China by the end of 2024.
-
-He expressed optimism that these agreements will open up new markets for Sri Lankan businesses, contributing directly to the nation’s economic growth.
-
-Minister Sabry highlighted the recent FTA with Thailand as a historic step towards achieving President Wickremesinghe’s vision of a stable economy. He emphasized that this agreement has already provided Sri Lanka access to a USD 2.2 billion market, representing a significant advancement.
-
-...
-
-[Data](articles/5772266b.json)
-
-[Extended Data](ext_articles/5772266b.ext.json)
 
 ---

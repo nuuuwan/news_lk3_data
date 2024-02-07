@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 00:17:13**
+As of **2024-02-08 00:32:38**
 
 ## Newspaper Stats
 
-*Scraped **5,547** Articles*
+*Scraped **5,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,155 @@ colombotelegraphcom | 64
 bbccomsinhala | 78
 dbsjeyarajcom | 140
 islandlk | 288
-economynextcom | 290
+economynextcom | 296
 dailyftlk | 305
 newsfirstlk | 342
 adalk | 472
-virakesarilk | 675
+virakesarilk | 678
 adaderanalk | 688
-tamilmirrorlk | 691
+tamilmirrorlk | 693
 adaderanasinhalalk | 725
-dailymirrorlk | 789
+dailymirrorlk | 792
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,547 (100.0%) of 5,547 articles have been extended.
+5,547 (99.7%) of 5,561 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-02-08 (Thursday)
+
+### தமிழர்களின் பிரச்சினையை விடவும், சீனாவுடனான போட்டிக்கே மேற்குலம் முன்னுரிமை அளிக்கிறது - கஜேந்திரகுமார் பொன்னம்பலம் ஆதங்கம்
+
+*2024-02-08 00:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175846) · `ta`
+
+தமிழர்களின் பிரச்சினைகளுக்குத் தீர்வினை அளிப்பதற்கான நடவடிக்கைகளை எடுப்பதற்குப் பதிலாக சீனாவுடனான போட்டியினால் அதனைக் கையாள்வதற்கு அமெரிக்கா உள்ளிட்ட மேற்குலக நாடுகள் முக்கியத்துவம் அளிக்கின்றன என்று அமெரிக்க காங்கிரஸ் உறுப்பினர்களிடத்தில் தமிழ்த் தேசிய மக்கள் முன்னணியின் தலைவரும், யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலம் தெரிவித்துள்ளார்.
+
+அமெரிக்காவுக்கு விஜயம் செய்துள்ள கஜேந்திரகுமார் பொன்னம்பலம், அமெரிக்க காங்கிரஸ் உறுப்பினர்களான வில்லி நிக்கில், டிபோத் ரொஸ், ஜம்மி ரஸ்கின், டெனி கே.டேவிஸ் ஆகியோருடன் சந்திப்புக்களை நடத்துள்ளார்.
+
+இலங்கையின் நல்லிணக்கத்தையும் பொறுப்புக்கூறலையும் வலியுறுத்தும் தீர்மானம் 427 காங்கிரஸ் சபையில் நிறைவேற்றப்பட்டது. அந்த வகையில் தமிழர்கள் மீது கரிசனைகளைக் கொண்டுள்ள அவர்களுடனான சந்திப்பில் தமிழர்களின் தற்போதைய நிலைமைகள் தொடர்பில் எடுத்துரைத்தோம்.
+
+...
+
+[Data](articles/538f07f8.json)
+
+---
+
+### New Delhi Focuses On Exploring Unknown NPP
+
+*2024-02-08 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/New-Delhi-Focuses-On-Exploring-Unknown-NPP/172-276538) · `en`
+
+Now the JVP has grown to form an alliance (the National People’s Power) with several other groups, and is even recognized as a force in the political scene by neighbouring India
+
+Though India may not fear the JVP-led alliance it certainly is concerned about how this alliance would deal with countries which have an interest in Sri Lanka; especially like India, China and the United States of America. On the surface it could amount to be an invitation to test the psyche of a political party that has the potential to win an election but might not know what to do with extreme power that comes its way when it forms a government
+
+There was a time when people in this island nation feared the Janatha Vimukthi Peramuna (JVP). That was a time known as the ‘insurgency’. We saw the worst of this insurgency in the late 1980s, and this was a time when there was an Indian Peace Keeping Force in this island; sent here to help the Sri Lankan security forces in the fight against terrorism.
+
+...
+
+[Data](articles/3edb6451.json)
+
+---
+
+### Racism Degrades both the Perpetrator and the Victim
+
+*2024-02-08 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Racism-Degrades-both-the-Perpetrator-and-the-Victim/172-276536) · `en`
+
+...
+
+[Data](articles/4756757e.json)
+
+---
+
+### We don’t need a foreign player to answer our problems -Ravi Karunanayake
+
+*2024-02-08 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/We-dont-need-a-foreign-player-to-answer-our-problems-Ravi-Karunanayake/231-276542) · `en`
+
+“It is essential for the country to assume one policy when it comes to economic recovery and development”-
+
+At the end of the day the necessity is for a dynamic, result oriented leader for the country
+
+The country is confronted with too much of hearsay and prophesies which have led to the downfall of the government
+
+There are no people with courageous and conviction in the nation.
+
+UNP has seen an erosion in its confidence and we have re-establish that in the best possible way
+
+President Ranil Wickremesinghe is proposing a daring new system that is adventurous
+
+Some 18 months ago you were without electricity, gas and fuel. I think people should not forget about  all these
+
+...
+
+[Data](articles/63023171.json)
+
+---
+
 ### 2024-02-07 (Wednesday)
+
+### பொதுஜன ஐக்கிய முன்னணியுடன் ஒன்றிணையுங்கள் : மைத்திரி அரசியல் கட்சிகளுக்கு அழைப்பு
+
+*2024-02-07 23:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/175845) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைமையிலான  பொதுஜன  ஐக்கிய முன்னணியுடன் சகல தரப்பினரும் ஒன்றிணைய வேண்டும் என அழைப்பு விடுக்கிறேன்.நாட்டை கட்டியெழுப்பும் திட்டங்கள் எம்மிடம் உள்ளன  என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (7) இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரையின் பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+பொருளாதார நெருக்கடிக்குத் தீர்வு காண்பதற்கு அனைவரும் ஒன்றிணைந்து செயற்பட வேண்டும் என்பதை 2022 ஆம் ஆண்டு முதல் வலியுறுத்துகிறோம்.சர்வ கட்சி அரசாங்கத்தை அமைப்பதற்கு முன்னாள் ஜனாதிபதி கோட்டபய ராஜபக்ஷவும், தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்கவும் உண்மைத் தன்மையுடன் நடவடிக்கைகளை முன்னெடுத்தார்கள்.எதிர்க்கட்சிகளின் ஒத்துழைப்பு இல்லாத காரணத்தால் அந்த முயற்சிகள் தோல்வியடைந்தன.
+
+...
+
+[Data](articles/c35d7990.json)
+
+---
+
+### அழிவடைந்த நாடு தற்போது உயிர் பெற்றுள்ளது : முன்னேற்றத்தைச் சீர்குலைக்க கூடாது - ராஜித சேனாரத்ன
+
+*2024-02-07 23:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/175844) · `ta`
+
+அழிவடைந்த நாடு தற்போது உயிர் பெற்றுள்ளது என்பதை அனைவரும் ஏற்றுக்கொள்ள  வேண்டும்.  சந்திரிக்காவின் ' வெள்ளை  அலரி' அமைதி மாநாட்டுக்கு சென்றவர்கள், மஹிந்தவின் இனவாத செயற்பாட்டுக்கும் சென்றார்கள். அவர்களுக்கு எதிராக எவ்வித நடவடிக்கைகளும் எடுக்கப்படவில்லை. எனக்கு எதிராக  ஏன் ஒழுக்காற்று நடவடிக்கைகள் எடுக்க வேண்டும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ராஜித சேனாரத்ன தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (7) இடம்பெற்ற ஜனாதிபதி கொள்கை பிரகடன உரையை ஐக்கிய மக்கள் சக்தியின் உறுப்பினர்கள் புறக்கணித்து ,ஜனாதிபதி  சபைக்கு வந்தவுடன் எதிர்ப்பு தெரிவிக்கும் வகையில் சபையிலிருந்து வெளியேறினார்கள். ஆனால் ஐக்கிய மக்கள் சக்தியின் உறுப்பினர்களான குமார வெல்கம, ராஜித சேனாரத்ன ஆகியோர் சபையிலிருந்து வெளியேறவில்லை.
+
+ஜனாதிபதியின் கொள்கை பிரகடன உரை நிறைவடைந்ததன் பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/5cc20a73.json)
+
+---
+
+### அதிவிசேட வர்த்தமானி வெளியீடு
+
+*2024-02-07 23:35:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவிசேட-வர்த்தமானி-வெளியீடு/175-332865) · `ta`
+
+இலங்கை ஜனநாயக சோசலிசக் குடியரசின் அரசியலமைப்பின் 44(3) உறுப்புரையின் கீழ் ஜனாதிபதியின் செயலாளர் ஈ.எம்.எஸ்.பி ஏகநாயக்கவின் கையொப்பத்துடன் இந்த வர்த்தமானி வெளியிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/4efc35bc.json)
+
+---
+
+### அவலோகிதேஸ்வர போதிசத்வாவுக்கு பிணை;சிகிச்சைக்கு பரிந்துரை
+
+*2024-02-07 23:27:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவலோகிதேஸ்வர-போதிசத்வாவுக்கு-பிணை-சிகிச்சைக்கு-பரிந்துரை/175-332864) · `ta`
+
+பௌத்த மதத்தை அவமதித்த குற்றச்சாட்டின் பேரில் விளக்கமறியலில் வைக்கப்பட்டிருந்த அவலோகிதேஸ்வர போதிசத்வா மகிந்த கொடித்துவக்குவுக்கு கொழும்பு கோட்டை நீதவான் நீதிமன்றம் இன்று பிணை வழங்கியுள்ளது.
+
+சந்தேகநபர் பிணை நிபந்தனைகளை மீறக்கூடாது என கடுமையாக அறிவுறுத்தப்பட்டதோடு, பிணையில் வெளியில் இருக்கும் போது அதுபோன்ற குற்றத்தை மீண்டும் செய்ய வேண்டாம் எனவும் உத்தரவிடப்பட்டுள்ளது.
+
+சந்தேக நபரை ஒரு மில்லியன் ரூபா பெறுமதியான இரண்டு சரீரப் பிணைகளில் விடுவிக்குமாறு நீதவான் திலின கமகே உத்தரவிட்டுள்ளார்.
+
+இதேவேளை, சந்தேகநபரின் மனநல நிலைமையை பரிசோதித்த மனநல மருத்துவர், அங்கொடையில் உள்ள தேசிய மனநல மருத்துவ நிறுவனத்தில் மேலதிக சிகிச்சைக்கு பரிந்துரைத்துள்ளார். இதன்படி, சந்தேகநபர் ஒவ்வொரு திங்கட்கிழமையும் அங்கொடவில் உள்ள தேசிய மனநல மருத்துவமனை சிகிச்சைக்கு சமூகமளிக்க வேண்டுமெனவும் உத்தரவிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/ab809173.json)
+
+---
 
 ### Ministry of Environment under the President: Special Gazette Release
 
@@ -854,6 +984,26 @@ The other seven fishermen are currently receiving treatment at the Balapitiya Ho
 
 ---
 
+### Sri Lanka Treasury bill auction yields down
+
+*2024-02-07 18:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-auction-yields-down-150325/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields fell across maturities on Wednesday’s auction, data from the state debt office showed.
+
+The debt office offered 40 billion rupees of 3-month bills and sold 50.9 billion.
+
+The 6-month yield fell 113 basis points to 11.07 percent with 50 billion rupees offered and 39 billion sold.
+
+The 12-month yield fell 127 basis points with 55 billion rupees offered and 55 billion sold.
+
+The debt office offered 145 billion rupees of bills and sold 145 billion rupees. (Colombo/Feb7/2024)
+
+◼️
+
+[Data](articles/50fc26ba.json)
+
+---
+
 ### Attorney General's statement on the Nuwara Eliya Post Office Building
 
 *2024-02-07 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193094) · `si`
@@ -921,6 +1071,28 @@ The other 7 fishermen are currently receiving treatment at the Balapitiya Hospit
 [Data](articles/8cf2e8cc.json)
 
 [Extended Data](ext_articles/8cf2e8cc.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 313.00/50 to the US dollar
+
+*2024-02-07 17:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-313-00-50-to-the-us-dollar-150315/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 313.00/50 to the US dollar Wednesday, from 314.00/50 on Tuesday, dealers said.
+
+A bond maturing on 01.02.2026 closed at 11.05/20 down from 11.40/55 percent.
+
+A bond maturing on 15.09.2027 closed at 11.95/12.10 down from 12.20/25 percent.
+
+A bond maturing on 15.03.2028 closed at 12.15/25 down from 12.50/55 percent.
+
+A bond maturing on 15.05.2030 closed at 12.60/80 down from 12.95/13.10 percent.
+
+A bond maturing on 01.07.2032 closed at 12.75/13.00 percent. (Colombo/Feb7/2024)
+
+◼️
+
+[Data](articles/1f78eb89.json)
 
 ---
 
@@ -1035,6 +1207,26 @@ Kudu Roshan, detained at the Boossa Prison, was presented to Skype technology th
 [Data](articles/d2dc032c.json)
 
 [Extended Data](ext_articles/d2dc032c.ext.json)
+
+---
+
+### Five Indian firms among six prequalified for Sri Lanka’s Canwill Holdings RFP
+
+*2024-02-07 17:20:00* · [`economynextcom`](https://economynext.com/five-indian-firms-among-six-prequalified-for-sri-lankas-canwill-holdings-rfp-150314/) · `en`
+
+ECONOMYNEXT – Five Indian firms are among six bidders prequalified for the Request for Proposal (RFP) stage, the State-Owned Enterprises Restructuring Unit (SOERU) said on Wednesday.
+
+The SOERU called for expressions of interest in October last year from investors to divest Canwill Holdings, which owns almost a completed building for a hotel in the capital Colombo.
+
+The SOERU in a statement said the EOI received were evaluated in accordance with the terms and conditions set out in the Request for Expressions of Interest in compliance with the Special Guidelines on Divestiture of State-Owned Enterprises approved by the Cabinet of Ministers in July 2023.
+
+After evaluation, the Cabinet Appointed Special Project Committee (SPC) and the Special Cabinet Appointed Negotiating Committee (SpCANC) have prequalified six bidders, it said.
+
+6. Consulting Engineers and Contractors (Pvt) (Ltd) and K.D.A. Weerasinghe &  Co. (Pvt) Ltd (Sri Lanka)
+
+...
+
+[Data](articles/1763e6dc.json)
 
 ---
 
@@ -1235,6 +1427,26 @@ Masood Imad, who is designated as the ambassador to Sri Lanka, previously served
 [Data](articles/8bf607a1.json)
 
 [Extended Data](ext_articles/8bf607a1.ext.json)
+
+---
+
+### Sri Lanka coconut prices edge up 1.9-pct to around Rs. 69 at auction
+
+*2024-02-07 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-prices-edge-up-1-9-pct-to-around-rs-69-at-auction-150299/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s coconut prices picked up 1.9 percent to 68,634 rupees for 1,000 nuts at an auction on February 1 data from the Coconut Development Authority shows.
+
+The highest price was 67700 rupees for 1,000 nuts and the lowest was 60,000.
+
+Farmgate coconut prices in Kurunegala were between 65,000 rupees to 72,000 rupees. Retail prices were 95 rupees to 105 rupees for a large nut and 80 to 92 rupees for a smaller one.
+
+Wholesale coconut oil price was between 560,000 rupees to 600,000 rupees a tonne.
+
+Coconut shells were sold at 85,000 rupees to 100,000 rupees a tonne.  (Colombo/Feb 07/2024)
+
+◼️
+
+[Data](articles/b5b657f1.json)
 
 ---
 
@@ -1835,249 +2047,5 @@ Meanwhile, the number of refugees from Sri Lanka to Tamil Nadu has risen to 293 
 [Data](articles/3bfe4616.json)
 
 [Extended Data](ext_articles/3bfe4616.ext.json)
-
----
-
-### Five landslide killed in landslides
-
-*2024-02-07 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193080) · `si`
-
-Five persons have been killed in a mountainous region of the right Philippines.
-
-Foreign media reports that 31 others were injured in landslides.
-
-The landslide has taken place on a bus and a house.
-
-The accident had occurred when a bus was transporting miners.
-
-An high race has been affected by heavy rains and 18 people have died due to floods.
-
-◼️
-
-[Data](articles/29a5859f.json)
-
-[Extended Data](ext_articles/29a5859f.ext.json)
-
----
-
-### Another person arrested for murder of Beliatta
-
-*2024-02-07 14:27:41* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්ත-පංච-පුද්ගල-ඝාතනයට-තවත්-අයෙක්-අල්ලයි/11-407951) · `si`
-
-Beliatta Police said that Beliatta Police have been arrested by Beliatta Police.
-
-The suspect has been arrested following the presence of law. The suspect was a 21 year's resident of Akuressa.
-
-The fire had been used to assassinate him, he was assisted from Kamburupitiya to Kamburupitiya to Galle.
-
-◼️
-
-[Data](articles/00c06e3c.json)
-
-[Extended Data](ext_articles/00c06e3c.ext.json)
-
----
-
-### Sri Lanka’s Exterminators Plc becomes reseller for Pest Scan, an AI-powered pest app
-
-*2024-02-07 14:20:00* · [`economynextcom`](https://economynext.com/sri-lankas-exterminators-plc-becomes-reseller-for-pest-scan-an-ai-powered-pest-app-150275/) · `en`
-
-ECONOMYNEXT – Exterminators Plc has been designated as the reseller for Pest Scan, an AI-powered digital pest management software, within the South Asian region.
-
-This “allows the company to offer cutting-edge AI-powered digital pest management solutions to 15000+ pest control companies in South Asia,” the company said in stock exchange filing.
-
-The company has been appointed as the exclusive distributor of Pest Scan digital pest management software for India, Sri Lanka, and the Maldives, as well as the non-exclusive distributor for Pakistan, Bangladesh, Nepal, and Bhutan.
-
-The company said it will initially invest 10–15 million rupees in the next 12 months to set up a high-tech business centre.
-
-...
-
-[Data](articles/1592bd5d.json)
-
-[Extended Data](ext_articles/1592bd5d.ext.json)
-
----
-
-### International Award for Best Wildlife Photo Artist
-
-*2024-02-07 13:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/175782) · `ta`
-
-Nima Sarikani, an independent photographer from Britain, has been awarded the Best Wildlife Photographers Award for 2023.
-
-The award was presented by the Natural History Museum in London.
-
-Nima Sarigani photographed the scene of a young polar bear glacier in a quiet environment. It is titled "Ice Bed".
-
-This film highlights the importance of the beauty and impact of the Earth's environment and safety efforts.
-
-A photo of a surprise mind allows us to see the beauty and weakness of our earth "
-
-"The photo of his thinking, represents the scenery of the damage and the harmful impacts of climate change and climate change," said Dr. Douglas Qur, Director of the Natural History Museum.
-
-Nima Sarigani has taken a photo following a three -day journey in search of polar bears through a dense fog at Norwegian's Swalbard island.
-
-25 photos of wildlife photographers around the world were selected for the final. Nima Sarikani's photo tops it.
-
-...
-
-[Data](articles/2ee4995f.json)
-
-[Extended Data](ext_articles/2ee4995f.ext.json)
-
----
-
-### Jerome's case charges against CID
-
-*2024-02-07 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193079) · `si`
-
-The Fort Magistrate, who has released the defamatory statements of Buddhism, has been charged with the Criminal Investigation Department at the Open Court of Criminal Investigations.
-
-The Criminal Investigations Department (CID) has filed the complaint with the investigation into the investigation into the Monetary Investigation Act to the Prevention of Gave Pasoo Jerome Fernando.
-
-The Fort Magistrate has accused the CID at the Open Court that he is not able to select a court that he wants.
-
-The complaint was called before Fort Magistrate Thilina Gamage this morning at Fort Magistrate Thilina Gamage.
-
-The Criminal Investigation Department's Computer Criminal Investigation Division (CID) Further investigations have been said to be investigated into the videos of the incident.
-
-The officers have informed the court that the Mount Lavinia Magistrate's Court has reportedly investigated the suspect.
-
-...
-
-[Data](articles/db2f7cfa.json)
-
-[Extended Data](ext_articles/db2f7cfa.ext.json)
-
----
-
-### Train disruption;Mountaineer train services delay!
-
-*2024-02-07 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175794) · `ta`
-
-The Railway Department has said that the trains working on the hill station are delayed due to the train derailment.
-
-The Udaratta Menige Kadugathi train, which was traveling from Badulla to Colombo Fort, derailed at the Ulappanai railway station.
-
-◼️
-
-[Data](articles/d54d0aae.json)
-
-[Extended Data](ext_articles/d54d0aae.ext.json)
-
----
-
-### Sri Lanka’s official reserve assets increase by 2.3% in January
-
-*2024-02-07 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97080/sri-lankas-official-reserve-assets-increase-by-23-in-january) · `en`
-
-The Central Bank of Sri Lanka (CBSL) says Sri Lanka’s official reserve assets have recorded an increase of 2.3% in the month of January 2024.
-
-Accordingly, the official reserve assets have reached USD 4,491 million in January 2024 from USD 4,392 million in December 2023.
-
-“This includes a swap facility from People’s Bank of China, equivalent to around USD 1.4 billion, which is subject to conditionalities on usability”, CBSL added.
-
-◼️
-
-[Data](articles/0c6d4aed.json)
-
-[Extended Data](ext_articles/0c6d4aed.ext.json)
-
----
-
-### Suspect arrested with ammunition
-
-*2024-02-07 13:39:10* · [`adalk`](https://www.ada.lk/breaking_news/පතුරම්-සමග-පුද්ගලයෙක්-අත්අඩංගුවට/11-407950) · `si`
-
-Tsi was ties in Hapugastalawa. Talawakelle Police Special Officers have been arrested by the Talawakelle Police Officers.
-
-On information received by the Talawakele Police Inspects, a group of officers had been searched in a house in Hapugastalawa, Hapugastalawa.
-
-An official of the Talawakelle Police Inspired of Talawakelle Police Special Special Visitor Base was said to have been arrested on the 6th of this month on the 6th of this month.
-
-The officer added that the arrested suspect had taken steps to hand over the next law.
-
-◼️
-
-[Data](articles/227347ea.json)
-
-[Extended Data](ext_articles/227347ea.ext.json)
-
----
-
-### “Udarata Menike” train derails
-
-*2024-02-07 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97079/udarata-menike-train-derails) · `en`
-
-The “Udarata Menike” express train operating from Badulla to Kandy and Colombo Fort has derailed near the Ulapane Railway Station, Sri Lanka Railways said.
-
-As a result, the trains plying on the Main Line can experience delays, according to the railways department.
-
-◼️
-
-[Data](articles/1022cc77.json)
-
-[Extended Data](ext_articles/1022cc77.ext.json)
-
----
-
-### Police shot dead tripper
-
-*2024-02-07 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193078) · `si`
-
-The police were shocked at a tipper, who was illegal transporting sand as illegal in the Jaffna, Puthtur.
-
-Police have ordered the suspects to stop a tipper transported by the suspects from Palai area.
-
-The tipper has the filters after the shooting of tire to tire.
-
-Two suspects who have been transporting illegal sand have been arrested.
-
-The suspects are to be produced before the Pointuru Uduvaduwa Magistrate's Court, Jaffna.
-
-◼️
-
-[Data](articles/a7b51e22.json)
-
-[Extended Data](ext_articles/a7b51e22.ext.json)
-
----
-
-### South Korean Factory
-
-*2024-02-07 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175793) · `ta`
-
-Foreign media reports that a fire broke out at a factory in Nasu, South Korea.
-
-At the time of the incident, 45 employees were safely recovered and the fire was damaged by 540 million rupees.
-
-The investigation team said the cause of the fire was an electrical leak and foreign media reported that the factory was completely destroyed.
-
-Foreign media reports that about 200 people are working in the factory and many Sri Lankans are working there.
-
-A Sri Lankan working there said that no Sri Lankans were affected by the fire.
-
-◼️
-
-[Data](articles/f688ddca.json)
-
-[Extended Data](ext_articles/f688ddca.ext.json)
-
----
-
-### Will expand economic activity to Jaffna, Trinco and Bingiriya: Sri Lanka prez
-
-*2024-02-07 13:30:00* · [`economynextcom`](https://economynext.com/will-expand-economic-activity-to-jaffna-trinco-and-bingiriya-sri-lanka-prez-150262/) · `en`
-
-ECONOMYNEXT – Economic activity that is now concentrated in the island’s Western Province, mainly Colombo, will be expanded to other provinces through decentralization, Sri Lanka’s president has said.
-
-“We need a shift in our economic focus, which is currently centred around Colombo and the Western Province. Currently, 46 per cent of the country’s economy is concentrated in the Western Province,”Ranil Wickremesinghe said at the ceremonial opening of the fifth session of the ninth parliament on Wednesday (7).
-
-“This has to change. To address this, we are implementing a strategic plan to broaden economic activities in cities like Jaffna, Trincomalee, Bingiriya, Hambantota, and Kandy.”
-
-...
-
-[Data](articles/cead5d26.json)
-
-[Extended Data](ext_articles/cead5d26.ext.json)
 
 ---

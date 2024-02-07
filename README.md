@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 09:51:30**
+As of **2024-02-07 10:02:22**
 
 ## Newspaper Stats
 
-*Scraped **5,352** Articles*
+*Scraped **5,356** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,101 @@ dbsjeyarajcom | 140
 economynextcom | 279
 islandlk | 288
 dailyftlk | 305
-newsfirstlk | 329
+newsfirstlk | 330
 adalk | 452
-virakesarilk | 642
+virakesarilk | 643
 adaderanalk | 661
 tamilmirrorlk | 667
-adaderanasinhalalk | 690
-dailymirrorlk | 761
+adaderanasinhalalk | 691
+dailymirrorlk | 762
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,352 (100.0%) of 5,352 articles have been extended.
+5,352 (99.9%) of 5,356 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### යුක්තිය මෙහෙයුම යටතේ 785ක් අත්අඩංගුවට
+
+*2024-02-07 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193067) · `si`
+
+යුක්තිය යටතේ ගතවු පැය 24 තුළ දිවයින පුරා සිදුකළ මෙහෙයුම්වලින් සැකකරුවන් 785ක් අත්අඩංගුවට ගෙන තිබේ.
+
+මත්ද්‍රව්‍ය වැරදි සම්බන්ධ සැකකරුවන් 596ක් සහ අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ සිටි සැකකරුවන් 189ක් ඒ අතරට අයත්ය.
+
+මත්ද්‍රව්‍ය වැරදි සම්බන්ධ අත්අඩංගුවට ගත් සැකකරුවන් 596 දෙනා අතරින් සැකකරුවන් 7 කට රැඳවුම් නියෝග මත වැඩිදුර විමර්ශන සිදුකරන අතර මත්ද්‍රව්‍යවලට ඇබ්බැහිවුවන් 4 ක් පුනුරුත්ථාපනය සඳහා යොමුකර තිබේ.
+
+පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශය සහ පොලිස් විශේෂ කාර්යංශයේ ලැයිස්තුවේ සිටි සැකකරුවන් 11 ක්ද අත්අඩංගුවට ගෙන ඇත.
+
+එසේම, අපරාධ අංශවෙත යොමු කළ ලැයිස්තුවේ අත්අඩංගුවට ගත් සැකකරුවන් 189 දෙනා අතරින් මත්ද්‍රව්‍ය වැරදි සම්බන්ධව විවෘත වරෙන්තු නිකුත්වී සිටි සැකකරුවන් 29 ක් සහ මත්ද්‍රව්‍ය නොවන වැරදි සම්බන්ධව විවෘත වරෙන්තුකරුවන් 155 ක්ද වන බව පොලීසිය පවසයි.
+
+අපරාධවලට අවශ්‍ය කරන සැකකරුවන් 05 ක්ද මෙහෙයුම්වලදී අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/2b96b022.json)
+
+---
+
+### President to Open New Parliament Session & Deliver Policy Statement in Scaled-Back Ceremony
+
+*2024-02-07 09:22:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/president-to-open-new-parliament-session-deliver-policy-statement-in-scaled-back-ceremony/) · `en`
+
+COLOMBO (News 1st); The Fifth Session of the Ninth Parliament is scheduled to be ceremonially declared open on Wednesday (7) by President Ranil Wickremesinghe.
+
+Following the ceremonial opening of the session, the President is scheduled to present the Statement of Government Policy in Parliament at 10.30 am according to the powers vested in him under Article 33 of the Constitution.
+
+Given the instructions of the President, arrangements have been made to hold the Ceremonial Opening of the Fifth Session as a formal ceremony and thus, gun salutes and motorcades shall not be held, said Kushan Jayaratne, Serjeant at Arms.
+
+Following the arrival of Speaker Mahinda Yapa Abeywardana and his wife, the Prime Minister Dinesh Gunawardena will arrive, followed by the arrival of President Ranil Wickremesinghe, and the first lady.
+
+There the Speaker and the Secretary General of the Parliament Kushani Rohanadeera shall receive the President near the main steps of the Parliament building.
+
+...
+
+[Data](articles/4ec5a337.json)
+
+---
+
+### Wildlife Photographer of the Year
+
+*2024-02-07 09:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Wildlife-Photographer-of-the-Year/110-276492) · `en`
+
+The 25 images in the running for this year's People’s Choice Award received a record number of votes, with over 75,000 wildlife photography and nature fans from around the world casting their ballots to name Nima this year’s winner. (Daily Mail)
+
+◼️
+
+[Data](articles/76638a3e.json)
+
+---
+
+### சிலியின் முன்னாள் ஜனாதிபதி ஹெலிக்கொப்டர் விபத்தில் உயிரிழப்பு
+
+*2024-02-07 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175761) · `ta`
+
+தென் அமெரிக்க நாடான சிலியின் முன்னாள் ஜனாதிபதி செபஸ்டியன் பினேரா ஹெலிக்கொப்டர் விபத்தில் உயிரிழந்துள்ளார்.
+
+பெரும் பணக்காரரான இவர் இரண்டு முறை சிலி நாட்டின் ஜனாதிபதியாக பதவி வகித்துள்ளார்.
+
+இந்நிலையில், சிலியின் பிரபல சுற்றுலா தலமான லகோ ரங்கொ பகுதிக்கு செபஸ்டியன் பினேரா தனது சொந்த ஹெலிக்கொப்டரை செலுத்திச் சென்றுள்ளார்.
+
+அந்த ஹெலிக்கொப்டரில் செபஸ்டியன் பினேரா உள்ளிட்ட மொத்தம் 4 பேர் பயணித்துள்ளனர். திடீரென அந்த ஹெலிக்கொப்டர் தெற்கு சிலியில் உள்ள ஏரியில் விழுந்துள்ளது.
+
+தகவல் அறிந்த மீட்புப் படையினர் விரைந்து சென்று முன்னாள் ஜனாதிபதி செபஸ்டியன் பினேரா உடலைக் கண்டுபிடித்துள்ளனர். அவருடன் பயணம் செய்த 3 பேர் படுகாயத்துடன் மீட்கப்பட்டு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+இந்நிலையில் செபஸ்டியன் பினேராவின் மரணத்தை சிலி உள்துறை அமைச்சர் கரோலினா தோஹா உறுதிப்படுத்தியுள்ளார்.
+
+அவரது உடல் ஏரியில் இருந்து மீட்கப்பட்டதையும் அவர் உறுதி செய்துள்ளார். முன்னாள் ஜனாதிபதி செபஸ்டியன் பினேரா மரணத்தை முன்னிட்டு மூன்று நாட்கள் தேசிய துக்கமாக அனுசரிக்கப்படும் என்று சிலியின் அதிபர் கேப்ரியல் போரிக் அறிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/1b31f0c9.json)
+
+---
 
 ### 13th suspect arrested in connection with Beliatta mass shooting
 
@@ -156,6 +234,8 @@ Deputy Speaker Ajith Rajapakse says the President is scheduled to present the go
 
 The President last adjourned the Parliament on the 26th of January.
 
+President to Open New Parliament Session & Deliver Policy Statement in Scaled-Back Ceremony
+
 Federal Appeals Court rules Trump does not have presidential immunity
 
 ◼️
@@ -175,6 +255,8 @@ COLOMBO (News 1st); A delegation from the Jathika Jana Balawegaya (JJB), led by 
 They are also scheduled to hold discussions with the Minister of Commerce and Industry of the state and other high level government officials today.
 
 The delegation from the Jathika Jana Balawegaya (JJB), led by party leader Anura Kumara Dissanayake engaged in key meetings with prominent Indian organizations focused on policy and governance yesterday.
+
+President to Open New Parliament Session & Deliver Policy Statement in Scaled-Back Ceremony
 
 Federal Appeals Court rules Trump does not have presidential immunity
 
@@ -1945,85 +2027,5 @@ As a historic initiative, the free trade agreement was signed with Thailand rece
 [Data](articles/d167e857.json)
 
 [Extended Data](ext_articles/d167e857.ext.json)
-
----
-
-### Lands for those who do not have land in Poonakari - Minister Douglas
-
-*2024-02-06 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175739) · `ta`
-
-Action has been taken by Minister Douglas Devananda to encourage them to distribute land and make them a tree.
-
-About 472 acres of land controlled by the Tree Corporation in Poonakari, Jayapuram area will be distributed to the landless people from the Kilinochchi District Coordinating Committee Chairman Douglas Devananda.
-
-The Tree Corporation, which is to provide cooperation to engaging in woodworking, has decided to buy harvest yields at a reasonable price.
-
-With this move by Minister Douglas Devananda, about 100 families from Poonakari and Jayapuram will be directly economic benefits and the source supplies needed for those who are engaged in woodworking industry in the Kilinochchi and Mullaitivu districts will be available at reasonable prices.
-
-◼️
-
-[Data](articles/5502b30f.json)
-
-[Extended Data](ext_articles/5502b30f.ext.json)
-
----
-
-### Change name of ’Keheliya Rambukwella Primary School’: CTU
-
-*2024-02-06 20:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Change-name-of-Keheliya-Rambukwella-Primary-School-CTU/108-276439) · `en`
-
-Colombo, Feb 6 (Daily Mirror) - While going against the circular issued by the Education Ministry, a school 'Keheliya Rambukwella Primary School' had been named in Kundasale in Kandy by the name of former Environment Minister Keheliya Rambukwella, and this name should be removed, Ceylon Teachers' Union (CTU) general secretary Joseph Stalin said.
-
-Addressing the media, he said the Education Ministry had issued a circular in 1996 stating that a school cannot be named after a person who is still alive.
-
-Even though Keheliya Rambukwella had been arrested and remanded over the controversial human immunoglobulin procurement scandal, it is not relavant to keep his name for the said school, he said.
-
-Keheliya had set the wrong example to society, and he had been imprisoned. Therefore, it is not acceptable to name a school after him, he charged.
-
-...
-
-[Data](articles/bedf5970.json)
-
-[Extended Data](ext_articles/bedf5970.ext.json)
-
----
-
-### The cooperation of the region is essential to limit climate disasters - President
-
-*2024-02-06 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175740) · `ta`
-
-President Ranil Wickremesinghe said Sri Lanka would give full support to regional and international efforts to find solutions to climate disasters.
-
-President Ranil Wickremesinghe said that it has decided to set up an International Climate University in Sri Lanka and that it is possible to compensate for the climate challenges of the Asian and African zones.
-
-He also recalled Sri Lanka's proposal on the transformation of the Asian Tropical Zone into a carbon emission area in COP 28, the United Nations Climate Change International Conference in Dubai.
-
-President Ranil Wickremesinghe made this statement while addressing the inauguration of the South Asian Hydromet Forum held at the Colombo Hotel in Colombo on Tuesday (06).
-
-The Hydromet Forum, which cooperates with the World Bank and RIMES, will be held in Colombo from today to February 8, under the theme of "Unlocking the Cooperation of the Zone" with the aim of cooperation, efficiency and upgrade.
-
-...
-
-[Data](articles/c8542ff7.json)
-
-[Extended Data](ext_articles/c8542ff7.ext.json)
-
----
-
-### President kills two inmates clashes in Trincomalee inmates
-
-*2024-02-06 19:59:43* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිකුණාමලය-රැඳවියන්-දෙදෙනාගේ-ගැටුමෙන්-රැඳවියෙක්-මරුට/11-407936) · `si`
-
-The Trincomalee harbor, the Trincomalee Harbor Police say that the inmates were injured in a clash between two inmates in Trincomalee Prison.
-
-Momedu Di Uva Uwyis Hyuralum Mohammedamu Amphilaya, Trincomalee, has died on the base of the Troops of the House during the head injuries.
-
-The attack took place on a heated argument that the two inmates had been imposed in a drug case. The Trincomalee harbor police are conducting further investigations.
-
-◼️
-
-[Data](articles/2c61dd81.json)
-
-[Extended Data](ext_articles/2c61dd81.ext.json)
 
 ---

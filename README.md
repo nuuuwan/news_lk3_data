@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 16:48:47**
+As of **2024-02-07 17:02:32**
 
 ## Newspaper Stats
 
-*Scraped **5,479** Articles*
+*Scraped **5,481** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 305
 newsfirstlk | 339
 adalk | 467
 virakesarilk | 662
-adaderanalk | 677
+adaderanalk | 679
 tamilmirrorlk | 684
 adaderanasinhalalk | 711
 dailymirrorlk | 777
@@ -26,11 +26,47 @@ dailymirrorlk | 777
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,479 (100.0%) of 5,479 articles have been extended.
+5,479 (100.0%) of 5,481 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### Maldives appoints new Ambassador to Sri Lanka
+
+*2024-02-07 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97086/maldives-appoints-new-ambassador-to-sri-lanka) · `en`
+
+President of the Maldives, Dr. Muizzu submitted nominations for the ambassadorial positions of three countries to the Parliament on Tuesday (Feb.06).
+
+In his correspondence to Parliament, President Muizzu put forth names for the ambassadorial appointments to Sri Lanka, Malaysia, Belgium and the European Union, in accordance with Article 14 of the Maldives’ Foreign Service Act.
+
+Masood Imad, who is designated as the ambassador to Sri Lanka, previously served as the Press Secretary of the Government of Mohamed Waheed. Geela Ali, the nominee for Belgium and the EU, formerly held the position of Permanent Secretary at the Ministry of Health and has prior experience within the foreign ministry.
+
+◼️
+
+[Data](articles/8bf607a1.json)
+
+---
+
+### Hamas proposes 135-day Gaza truce with total Israeli withdrawal
+
+*2024-02-07 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97085/hamas-proposes-135-day-gaza-truce-with-total-israeli-withdrawal) · `en`
+
+Hamas has proposed a ceasefire plan that would quiet the guns in Gaza for four-and-a-half months, during which all hostages would go free, Israel would withdraw its troops from the Gaza Strip and an agreement would be reached on an end to the war.
+
+The militant group’s proposal - a response to an offer sent last week by Qatari and Egyptian mediators - comes in the biggest diplomatic push yet for an extended halt to the fighting, and was met with hope and relief in the Gaza Strip.
+
+There was no immediate public response from Israel, which has said it will not pull its troops out of Gaza until Hamas is wiped out.
+
+According to a draft document seen by Reuters, the Hamas counterproposal envisages three phases of a truce, lasting 45 days each. Militants would exchange remaining Israeli hostages they captured on Oct. 7 for Palestinian prisoners.
+
+The reconstruction of Gaza would begin, Israeli forces would withdraw completely, and bodies and remains would be exchanged.
+
+...
+
+[Data](articles/f5828b88.json)
+
+---
 
 ### Request from Hamas for a long ceasefire
 
@@ -2031,43 +2067,5 @@ Meanwhile, three persons, including a tipper driver and owner, have been arreste
 [Data](articles/31c2f1b8.json)
 
 [Extended Data](ext_articles/31c2f1b8.ext.json)
-
----
-
-### 06 Indian fishermen released
-
-*2024-02-07 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175766) · `ta`
-
-Yall. Six Indian fishermen arrested in the Neduntivu Sea were released by the Kayts Court on Tuesday (06).
-
-On the 23rd of last month, six people were arrested by the Marines and three people in two boats.
-
-The case was taken up in Kayts court. Three accusations were filed against six fishermen by the Department of Aquatic Resources.
-
-Kayts court judge J. Gajanidipalan postponed the three -month prison sentence for three accusations after fishermen pleaded guilty.. Two boats have been nationalized because of the boat owners and the boat.
-
-◼️
-
-[Data](articles/c89192f3.json)
-
-[Extended Data](ext_articles/c89192f3.ext.json)
-
----
-
-### Motion filed challenging registration of NPP as political party
-
-*2024-02-07 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Motion-filed-challenging-registration-of-NPP-as-political-party/108-276497) · `en`
-
-Colombo, Feb 07 (Daily Mirror) -  A motion has been filed at the Supreme Court challenging the registration of the National People's Power (NPP) as a political party by the National Election Commission.
-
-The motion, submitted by activist and Secretary of the Vinivida Foundation, Attorney-at-Law Nagananda Kodituwakku, targets the recent registration of the NPP, led by MP Anura Kumara Dissanayake.
-
-Kodituwakku's motion comes amid ongoing controversy surrounding the registration process and the NPP's status as an independent political entity. The motion was filed during the consideration of a writ petition lodged against the Election Commission's decision to reject the registration of the Vinivida Foundation as a political party.
-
-...
-
-[Data](articles/fae4a781.json)
-
-[Extended Data](ext_articles/fae4a781.ext.json)
 
 ---

@@ -1,36 +1,120 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 14:49:57**
+As of **2024-02-07 15:02:26**
 
 ## Newspaper Stats
 
-*Scraped **5,441** Articles*
+*Scraped **5,446** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 62
 bbccomsinhala | 78
 dbsjeyarajcom | 140
-economynextcom | 288
 islandlk | 288
+economynextcom | 289
 dailyftlk | 305
 newsfirstlk | 338
 adalk | 463
-virakesarilk | 655
+virakesarilk | 657
 adaderanalk | 671
 tamilmirrorlk | 679
-adaderanasinhalalk | 702
+adaderanasinhalalk | 704
 dailymirrorlk | 772
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,441 (100.0%) of 5,441 articles have been extended.
+5,441 (99.9%) of 5,446 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### විදුලි සේවකයින් යළිත් විරෝධතාවයක
+
+*2024-02-07 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193081) · `si`
+
+විදුලිබල මණ්ඩලයේ ප්‍රධාන කාර්යාලය ඉදිරිපිට අද (07) උද්ඝෝෂණයක් සංවිධානය කර තිබේ.
+
+ඒ, විදුලිබල මණ්ඩලයේ වැඩ තහනම් කළ සියලුම සේවකයන් යළි සේවය පිහිටුවන ලෙස බලධාරීන්ට බල කරමිනි.
+
+ලංවිම සියලු වෘත්තීය සමිති එකමුතුව විරෝධතාව අද දහවල් 12ට කොළඹ ලංකා විදුලිබල මණ්ඩලය ඉදිරිපිටදී ආරම්භ කළේය.
+
+මේ සඳහා තැපැල්, දුම්රිය, රක්ෂණ, බැංකු, ටෙලිකොම් ඇතුළු වෘත්තීය සමිති රැසක සහයෝගය ලැබෙන බවද ලංකා විදුලිබල මණ්ඩලයේ වෘත්තීය සමිති නියෝජිතයින් පවසයි.
+
+◼️
+
+[Data](articles/8272bf80.json)
+
+---
+
+### නාය යෑමකින් 05 දෙනෙකු මරුට
+
+*2024-02-07 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193080) · `si`
+
+දකුණු පිලිපීනයේ කඳුකර ප්‍රදේශයක සිදු වූ නාය යෑමකින් පුද්ගලයන් 05 දෙනෙකු මිය ගොස් තිබේ.
+
+නාය යෑමෙන් තවත් පුද්ගලයන් 31 දෙනෙකු තුවාල ලබා ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+
+බස් රථයක් මතට සහ නිවාසයක් මතට පස් කඳු කඩා වැටීමෙන් මෙම නාය යෑම සිදු ව ඇත.
+
+පතල් කම්කරුවන් ප්‍රවාහනය කරමින් සිටි බස් රථයක් නාය යෑමට හසු වී මෙම අනතුර සිදු ව ඇති බව සඳහන් ය.
+
+දකුණු පිලිපීනයට අධික වර්ෂාව හේතුවෙන් දැඩි ආපදා තත්ත්වයක් බලපා ඇති අතර, ගංවතුර හේතුවෙන් මේ වන විට පුද්ගලයන් 18 දෙනෙකු මිය ගොස් තිබේ.
+
+◼️
+
+[Data](articles/29a5859f.json)
+
+---
+
+### Sri Lanka’s Exterminators Plc becomes reseller for Pest Scan, an AI-powered pest app
+
+*2024-02-07 14:20:00* · [`economynextcom`](https://economynext.com/sri-lankas-exterminators-plc-becomes-reseller-for-pest-scan-an-ai-powered-pest-app-150275/) · `en`
+
+ECONOMYNEXT – Exterminators Plc has been designated as the reseller for Pest Scan, an AI-powered digital pest management software, within the South Asian region.
+
+This “allows the company to offer cutting-edge AI-powered digital pest management solutions to 15000+ pest control companies in South Asia,” the company said in stock exchange filing.
+
+The company has been appointed as the exclusive distributor of Pest Scan digital pest management software for India, Sri Lanka, and the Maldives, as well as the non-exclusive distributor for Pakistan, Bangladesh, Nepal, and Bhutan.
+
+The company said it will initially invest 10–15 million rupees in the next 12 months to set up a high-tech business centre.
+
+...
+
+[Data](articles/1592bd5d.json)
+
+---
+
+### International Award for Best Wildlife Photo Artist
+
+*2024-02-07 13:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/175782) · `ta`
+
+Nima Sarikani, an independent photographer from Britain, has been awarded the Best Wildlife Photographers Award for 2023.
+
+The award was presented by the Natural History Museum in London.
+
+Nima Sarigani photographed the scene of a young polar bear glacier in a quiet environment. It is titled "Ice Bed".
+
+This film highlights the importance of the beauty and impact of the Earth's environment and safety efforts.
+
+A photo of a surprise mind allows us to see the beauty and weakness of our earth "
+
+"The photo of his thinking, represents the scenery of the damage and the harmful impacts of climate change and climate change," said Dr. Douglas Qur, Director of the Natural History Museum.
+
+Nima Sarigani has taken a photo following a three -day journey in search of polar bears through a dense fog at Norwegian's Swalbard island.
+
+25 photos of wildlife photographers around the world were selected for the final. Nima Sarikani's photo tops it.
+
+...
+
+[Data](articles/2ee4995f.json)
+
+[Extended Data](ext_articles/2ee4995f.ext.json)
+
+---
 
 ### Jerome's case charges against CID
 
@@ -56,6 +140,20 @@ The officers have informed the court that the Mount Lavinia Magistrate's Court h
 
 ---
 
+### ரயில் தடம்புரள்வு ; மலையக ரயில் சேவைகள் தாமதம்!
+
+*2024-02-07 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175794) · `ta`
+
+ரயில் தடம் புரண்டதன் காரணமாக மலையக ரயில் பாதையில் சேவையில் ஈடுபடும் ரயில்கள் தாமதமாகவே  இயக்கப்படுவதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+பதுளையிலிருந்து கொழும்பு கோட்டை நோக்கி பயணித்த உடரட்ட  மெனிகே கடுகதி ரயில் உலப்பனை  ரயில் நிலையத்தில் தடம் புரண்டுள்ளது.
+
+◼️
+
+[Data](articles/d54d0aae.json)
+
+---
+
 ### Police shot dead tripper
 
 *2024-02-07 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193078) · `si`
@@ -75,6 +173,26 @@ The suspects are to be produced before the Pointuru Uduvaduwa Magistrate's Court
 [Data](articles/a7b51e22.json)
 
 [Extended Data](ext_articles/a7b51e22.ext.json)
+
+---
+
+### இலங்கையர்கள் தொழில் புரியும் தென்கொரிய தொழிற்சாலையில் தீ விபத்து : 540 மில்லியன்  ரூபா பெறுமதியான சொத்துக்கள் நாசம்!
+
+*2024-02-07 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175793) · `ta`
+
+தென்கொரியாவின் நாசு பிரதேசத்தில் உள்ள தொழிற்சாலை ஒன்றில் தீ விபத்து ஏற்பட்டுள்ளதாக   வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+
+இந்தச் சம்பவம் இடம்பெற்றபோது அங்கு பணியில் ஈடுபட்டிருந்த 45 ஊழியர்கள் பாதுகாப்பாக  மீட்கப்பட்டதாகவும் தீ விபத்தினால்  540 மில்லியன்  ரூபா பெறுமதியான சொத்துக்கள் சேதமடைந்துள்ளதாகவும் தெரிவிக்கப்படுகிறது.
+
+தீ விபத்துக்கான காரணம் மின் கசிவு என விசாரணைக் குழு தெரிவித்ததுடன், தொழிற்சாலை முற்றாக எரிந்து நாசமாகியுள்ளதாக வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+இத்தொழிற்சாலையில் சுமார் 200 பேர் பணிபுரிவதாகவும் பல இலங்கையர்களும் அங்கு கடமையாற்றுவதாகவும் வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+
+தீயினால் இலங்கையர்கள் எவருக்கும் பாதிப்பு ஏற்படவில்லை என அங்கு பணிபுரியும் இலங்கையர் ஒருவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/f688ddca.json)
 
 ---
 
@@ -175,34 +293,6 @@ Homagama Headquarters Inspector Pratenith, Pranindi, is conducting investigation
 [Data](articles/edbb6448.json)
 
 [Extended Data](ext_articles/edbb6448.ext.json)
-
----
-
-### International Award for Best Wildlife Photo Artist
-
-*2024-02-07 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/175782) · `ta`
-
-Nima Sarikani, an independent photographer from Britain, has been awarded the Best Wildlife Photographers Award for 2023.
-
-The award was presented by the Natural History Museum in London.
-
-Nima Sarigani photographed the scene of a young polar bear glacier in a quiet environment. It is titled "Ice Bed".
-
-This film highlights the importance of the beauty and impact of the Earth's environment and safety efforts.
-
-A photo of a surprise mind allows us to see the beauty and weakness of our earth "
-
-"The photo of his thinking, represents the scenery of the damage and the harmful impacts of climate change and climate change," said Dr. Douglas Qur, Director of the Natural History Museum.
-
-Nima Sarigani has taken a photo following a three -day journey in search of polar bears through a dense fog at Norwegian's Swalbard island.
-
-25 photos of wildlife photographers around the world were selected for the final. Nima Sarikani's photo tops it.
-
-...
-
-[Data](articles/2ee4995f.json)
-
-[Extended Data](ext_articles/2ee4995f.ext.json)
 
 ---
 
@@ -1965,103 +2055,5 @@ However, MP Rambukwella has informed the prison authorities that he will not att
 [Data](articles/5e86c2d6.json)
 
 [Extended Data](ext_articles/5e86c2d6.ext.json)
-
----
-
-### Keheliya refuses to attend today’s parliament session
-
-*2024-02-07 07:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliya-refuses-to-attend-todays-parliament-session/108-276487) · `en`
-
-Colombo, Feb 7 (Daily Mirror) - Former Minister Keheliya Rambukwella, who was remanded till February 15 over the controversial human immunoglobulin procurement scandal, has been granted permission to attend today's Parliamentary session, the Prisons spokesman said.
-
-However, MP Rambukwella has informed the prison authorities that he will not attend today’s session.
-
-◼️
-
-[Data](articles/9ecdc722.json)
-
-[Extended Data](ext_articles/9ecdc722.ext.json)
-
----
-
-### Climate conditions today
-
-*2024-02-07 07:20:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-காலநிலை-நிலவரங்கள்/175-332804) · `ta`
-
-In some parts of the Nuwara Eliya district, there is a snowfall in the early hours of the morning and some parts of the Central, Sabaragamuwa, Upper and Uva provinces, as well as some parts of the Galle and Matara districts.
-
-Winds from the northeast at 20 - 30 km / h in the sea regions.
-
-Frequent winds can be increased at 45 - 50 kilometers per hour in the sea regions from Matara to Pottuvil to Hambantota, from Colombo to Puttalam and Mannar via Kankesanthurai.
-
-In these cases, the sea regions are somewhat turbulent.
-
-◼️
-
-[Data](articles/eaeff250.json)
-
-[Extended Data](ext_articles/eaeff250.ext.json)
-
----
-
-### Death becomes a costly affair for Colombo dwellers
-
-*2024-02-07 07:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Death-becomes-a-costly-affair-for-Colombo-dwellers/108-276486) · `en`
-
-Colombo, Feb 7 (Daily Mirror) - Death had become a costly affair for Colombo city dwellers as the Colombo Municipal Council (CMC) has increased the charges for a grave (two square feet) to Rs 180,000.
-
-“One can obtain only a small piece of land which is two feet by two feet and it is only possible to bury an urn with ashes of a dead person.” one former member of the CMC who did not wish to be named told Daily Mirror.
-
-However he said the charges for a grave was to be increased in 2018 but the members of the council defeated this resolution in the council that year.
-
-Daily Mirror learnt that the charges have increased to be in line with the land value increase.
-
-...
-
-[Data](articles/2cf85f95.json)
-
-[Extended Data](ext_articles/2cf85f95.ext.json)
-
----
-
-### Keheliya cannot come to Parliament
-
-*2024-02-07 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193063) · `si`
-
-It is reported that Keheliya Rambukwella has rejected the Parliamentary Session today (07).
-
-The prison media spokesman said that he had refused to participate in attending the Parliamentary Session.
-
-The former Health Minister has been remanded regarding the investigation of the substandard drug racket.
-
-Mr. Keheliya Rambukwella has resigned as the Minister of Environment.
-
-◼️
-
-[Data](articles/5d258f96.json)
-
-[Extended Data](ext_articles/5d258f96.ext.json)
-
----
-
-### Keheliya refuses to attend parliamentary session today despite being permitted
-
-*2024-02-07 06:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97067/keheliya-refuses-to-attend-parliamentary-session-today-despite-being-permitted) · `en`
-
-Former Minister Keheliya Rambukwella, who is in remand custody, has refused to attend the parliamentary session today (Feb.07) despite being given permission, the Prisons Department said.
-
-The Fifth Session of the Ninth Parliament will be ceremoniously declared open by President Ranil Wickremesinghe this morning.
-
-The Parliament was prorogued with effect from midnight on January 26, by way of a proclamation published in the government gazette.
-
-On Tuesday (Feb.06), the former health minister had tendered his resignation to President Ranil Wickremesinghe, who in return, had accepted it. Later, a gazette notification was published, confirming the resignation of Rambukwella as the Environment Minister.
-
-The SLPP parliamentarian was arrested on February 02 after he arrived at the Criminal Investigation Department (CID) to record a statement on the substandard human immunoglobulin procurement scandal. He was reportedly interrogated for nearly 10 hours before being placed under arrest.
-
-...
-
-[Data](articles/7fdcac93.json)
-
-[Extended Data](ext_articles/7fdcac93.ext.json)
 
 ---

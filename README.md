@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 15:33:05**
+As of **2024-02-07 15:51:22**
 
 ## Newspaper Stats
 
-*Scraped **5,460** Articles*
+*Scraped **5,461** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 289
 dailyftlk | 305
 newsfirstlk | 339
 adalk | 465
-virakesarilk | 658
+virakesarilk | 659
 adaderanalk | 676
 tamilmirrorlk | 682
 adaderanasinhalalk | 704
@@ -26,11 +26,31 @@ dailymirrorlk | 774
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,452 (99.9%) of 5,460 articles have been extended.
+5,461 (100.0%) of 5,461 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### Three suspects arrested with Ambar worth more than 3 crores
+
+*2024-02-07 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175802) · `ta`
+
+Three suspects have been arrested by the Mirissa Crime Unit in the Tevinuwara and Nakulagamuwa areas on Tuesday (06) with Ambar, who has been banned from selling or business in a country known as floating gold.
+
+According to information provided by the Army Intelligence Unit, 4 kg 500 grams of amber was seized from the arrested persons.
+
+The suspects from Nakulukamuwa area, aged 25-30, have been arrested in the Montairo Jeep Jeep.
+
+Amber, which is caused by sperm and vomiting emanating from the body of the whales, the whales, is used to maintain the aroma of perfumes for a long time.
+
+◼️
+
+[Data](articles/e5a29c15.json)
+
+[Extended Data](ext_articles/e5a29c15.ext.json)
+
+---
 
 ### Legal dispute after runner-up replaced national badminton champion at Asian Games
 
@@ -49,6 +69,8 @@ Investigations were initiated into the matter by the special investigation unit 
 ...
 
 [Data](articles/6716ff83.json)
+
+[Extended Data](ext_articles/6716ff83.ext.json)
 
 ---
 
@@ -72,37 +94,43 @@ The Board consists of the Governor of the CBSL, who serves as the Chairperson of
 
 ---
 
-### நுவரெலியா மின்சார சபை அலுவலகத்திற்கு முன்பாக மதிய உணவு நேரத்தில் போராட்டம்!
+### Nuwara Eliya Struggle in Lunch in front of the Electricity Board office
 
 *2024-02-07 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175797) · `ta`
 
-போராட்டத்தில் கலந்து கொண்ட மின்சார சபை உத்தியோகத்தர்களை தன்னிச்சையாக பணி இடைநிறுத்தம் செய்தமை மற்றும் சம்பளம் மற்றும் கொடுப்பனவுகளை அதிகரிக்காமைக்கு எதிர்ப்பு தெரிவித்து இன்று புதன்கிழமை (07) நுவரெலியா மின்சார சபை அலுவலகத்திற்கு முன்பாக அதிகாரிகள் மற்றும் ஊழியர்கள் மதிய உணவு வேளையில் ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+Officials and staff staged a protest in front of the Nuwara Eliya Electricity Board's office on Wednesday (07) today (07) in protest of the lack of salaries and payments.
 
-போராட்டத்தில் கலந்து கொண்டு பேசிய மின்சார சபை ஊழியர் சங்க நிர்வாகிகள், மின்சார சபை ஊழியர்களின் பிரச்சினைகளுக்கு தீர்வு காண கோரி 66 பேரை பணி நீக்கம் செய்து இடமாற்றம் செய்ததை வன்மையாக கண்டிப்பதாக தெரிவித்தனர்.
+Speaking at the protest, the Electricity Board Employees Union executives stated that they strongly condemned the dismissal of 66 people demanding a solution to the problems of the Electricity Board employees.
 
-மின்சார சபைக்கு சொந்தமான சொத்துக்களை வெளிநாட்டு நிறுவனங்களுக்கு விற்று ஊழியர்களின் தியாகத்திற்கு ஏற்ற சம்பளம் வழங்காமல் கடும் நெருக்கடிக்கு உள்ளாகியுள்ளதாக தெரிவிக்கின்றனர்.
+They say that the property belonging to the Electricity Board has been subjected to the salary of the employees who have sold it to foreign companies.
 
 ◼️
 
 [Data](articles/5f1193a6.json)
 
+[Extended Data](ext_articles/5f1193a6.ext.json)
+
 ---
 
-### பாரதியார் பாடலை பாடிய ஜனாதிபதி
+### The President who sang the Bharathiyar song
 
 *2024-02-07 14:42:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரதியார்-பாடலை-பாடிய-ஜனாதிபதி/175-332825) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க, ஒன்பதாவது பாராளுமன்றத்தின் ஐந்தாவது கூட்டத்தொடரை, புதன்கிழமை (07) ஆரம்பித்து வைத்து கொள்கை கொள்கைப் பிரகடன உரையாற்றினார். அதன்போது, புத்தரின் கூற்றை மேற்கோள் காட்டினார்.
+President Ranil Wickremesinghe addressed the policy declaration of the fifth session of the ninth parliament on Wednesday (07).. At the time, he cited the Buddha's claim.
 
-அத்துடன், அமெரிக்காவின் எழுத்தாளரும் பேச்சாளருமான எலன் கெல்லர், பாரதியார் ஆகியோரின் எழுத்துக்களையும் மேற்கோள் காட்டி உரையாற்றினார்.
+He also addressed the writings of American writer and speaker Ellen Keller and Bharathiar.
 
-19 ஆம் நூற்றாண்டில் அமெரிக்காவின் எழுத்தாளரும் பேச்சாளருமான எலன் கெல்லர் "தனியாக நாம் சில விடயங்களை மட்டுமே செய்ய முடியும். ஒன்று பட்டால் பல விடயங்களை செய்யலாம்."
+In the 19th century, the writer and speaker of the United States, Ellen Keller, "We can only do only a few things. One can do many things. "
 
-19 ஆம் நூற்றாண்டில் மகாகவி பாரதியார் தனது நாடு பற்றி எழுதிய கவிதையொன்று நினைவிற்கு வருகிறது. அதனை சிங்களத்தில் மொழி பெயர்த்தவர் பேராசிரியர் சுனில் ஆரியரத்ன
+In the 19th century, Mahakavi Bharatiyar remembers a poem about his country. Professor Sunil Aryaratne, who translated it in Sinhala
 
-...
+Why didn't we come to us?Why not unite with the intention of our country and its future, even if we are in different races, living in different races, living in different parts, despite various issues, beliefs and support for various political parties?Why is it not united for the future of our country's younger community?He asked.
+
+◼️
 
 [Data](articles/09a8fcb3.json)
+
+[Extended Data](ext_articles/09a8fcb3.ext.json)
 
 ---
 
@@ -126,23 +154,25 @@ The Ceylon Electricity Board (CEB), the Ceylon Electricity Board, the Ceylon Ele
 
 ---
 
-### அகதிகளாக 5பேர் தனுஷ்கோடியில் தஞ்சம்
+### 5 refugees asylum in Dhanushkodi
 
 *2024-02-07 14:29:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அகதிகளாக-5பேர்-தனுஷ்கோடியில்-தஞ்சம்/175-332824) · `ta`
 
-நாட்டிலிருந்து அகதிகளாக ஒரே குடும்பத்தைச் சேர்ந்த 3 குழந்தைகள் உட்பட ஐந்து பேர் இன்றையதினம் (07) ஒன்றாம் மணல் தீடையில் தஞ்சமடைந்துள்ளதாக மெரைன் பொலிஸார் தெரிவித்துள்ளனர்.
+Five people, including 3 children from the same family as refugees from the country, have taken shelter today (07) in a sandy deed, Marine police said.
 
-நாட்டில் ஏற்பட்டுள்ள கடுமையான பொருளாதார நெருக்கடி காரணமாக  அத்தியாவசிய தேவைகளுக்காக கடும் சிரமத்திற்கு ஆளாகி உள்ளனர்.
+Due to the severe economic crisis in the country, they have been severely inconvenienced for the essential needs.
 
-வவுனியா நெடுங்குழி பகுதியை சேர்ந்த நந்தகுமார்  அவரது மனைவி  மற்றும் அவரது 3 குழந்தைகள் என ஒரே குடும்பத்தை  சேர்ந்த  5 பேர் செவ்வாய்க்கிழமை (06) மன்னாரில் இருந்து ரூ.1.50இலட்சம்  கொடுத்து   படகில் புறப்பட்டு இன்று (7) அதிகாலை ராமேஸ்வரம் அடுத்துள்ள தனுஷ்கோடி அரிச்சல்முனை ஒன்றாம் மணல் திட்டில் கடற்கரையில் சென்றடைந்துள்ளனர்.
+Nandakumar from Vavuniya Nedunguli area, including his wife and his 3 children, departed from Mannar on Tuesday (06) and left the boat on Tuesday (7).
 
-தகவலறிந்த இராமேஸ்வரம் மெரைன் பொலிஸார் இலங்கை தமிழர்களை மீட்டு மண்டபம் மெரைன் பொலிஸ் நிலையத்தில் வைத்து விசாரணை நடத்தி வருகின்றனர்.
+Informed Rameswaram Marine Police are rescuing Sri Lankan Tamils and are conducting an investigation at the Mandapam Marine Police Station.
 
-இதேவேளை, பொருளாதார நெருக்கடி காரணமாக  தமிழகத்திற்கு இலங்கையிலிருந்து வந்த அகதிகளின் எண்ணிக்கை  293 ஆக உயர்ந்துள்ளது குறிப்பிடத்தக்கது.
+Meanwhile, the number of refugees from Sri Lanka to Tamil Nadu has risen to 293 due to the economic crisis.
 
 ◼️
 
 [Data](articles/3bfe4616.json)
+
+[Extended Data](ext_articles/3bfe4616.ext.json)
 
 ---
 
@@ -499,6 +529,8 @@ President Ranil Wickremesinghe arriving at the Parliament Complex for the ceremo
 ◼️
 
 [Data](articles/e5180bbf.json)
+
+[Extended Data](ext_articles/e5180bbf.ext.json)
 
 ---
 
@@ -858,19 +890,21 @@ Claiming that the process of drafting the OSA was shrouded in secrecy, CPA said 
 
 ---
 
-### පිළිකා රෝගීන්ට වර්ෂයකට සරිලන අත්‍යවශ්‍ය ඖෂධ වර්ග 13 ක ප්‍රධානයක්
+### Troops of 13 essential drugs to suit cancer patients
 
 *2024-02-07 12:06:13* · [`adalk`](https://www.ada.lk/breaking_news/පිළිකා-රෝගීන්ට-වර්ෂයකට-සරිලන-අත්‍යවශ්‍ය-ඖෂධ-වර්ග-13-ක-ප්‍රධානයක්/11-407945) · `si`
 
-මෙරට පිළිකා රෝගීන්ට ප්‍රතිකාර කිරීම සදහා අවශ්‍යය වන අත්‍යවශ්‍ය ඖෂධ තොගයක් සෞඛ්‍ය අමාත්‍යාංශයට ලබා දීම සදහා ගිවිසුම් ගත වීම අද දින (07) සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ ප්‍රධානත්වයෙන්  සෞඛ්‍ය අමාත්‍යාංශයේදී සිදු විය .
+Dr. Ramesh Pathirana, Minister of Health and Industry, Dr. Ramesh Pathirana took place in the Ministry of Health today (07).
 
-සෞඛ්‍ය අමාත්‍යාංශය වෙනුවෙන් ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල  සහ අනුග්‍රහය දක්වන LDS Latter – day saints charities (USA) ආයතනය වෙනුවෙන් Mr. Mickey Lui - Area Welfare and Self-Reliance Director යන මහත්වරුන් ගිවිසුමට අත්සන් තබන ලදී.
+Secretary to the Ministry of Health Medical Palitha Mahipala and sponsored LDS latter - day Sains Charites (USA). Mickey Lui - Area WELFARE AND SELF-Reliment Directory The agreement was signed by the agreement.
 
-මෙම අත්‍යවශ්‍ය පිළිකා  ඖෂධ තොගයට ඖෂධ වර්ග 13 ක් ඇතුලත් වන අතර මෙහි වටිනාකම ඇමරිකානු ඩොලර් මිලියනයකට අධික වේ. පළමු අදියර යටතේ සෞඛ්‍ය අමාත්‍යාංශයට ලබා දෙන මෙම අත්‍යවශ්‍ය පිළිකා  ඖෂධ තොගය මෙරට වර්ෂයක (01) පිළිකා ප්‍රතිකාර සදහා ප්‍රමානවත් වේ . දෙවන අදියර යටතේ මෙරටට අවශ්‍යය වන  තවත් ඖෂධ වර්ග තොගයක් ඉදිරි මාස කිහිපය තුළදී මෙරටට ලබා දීමට එම ආයතනය සැලසුම් කර ඇත.
+The consignment of these essential cancer includes 13 drugs and the value of the project is more than US $ 1 million. The consignment of this essential cancer drugs to the Ministry of Health under the first phase. The company plans to provide a large haul of drugs required for the next few months under the second phase.
 
 ...
 
 [Data](articles/11ef04b3.json)
+
+[Extended Data](ext_articles/11ef04b3.ext.json)
 
 ---
 
@@ -1224,6 +1258,8 @@ Delivering the government's Policy Statement in Parliament, he said the tax regi
 
 [Data](articles/f8817585.json)
 
+[Extended Data](ext_articles/f8817585.ext.json)
+
 ---
 
 ### "Cannabis" says nothing like that
@@ -1358,19 +1394,21 @@ Sri Lanka Aims for Six-Month Debt Fix; US$3 Billion Annual Payment Looms
 
 ---
 
-### பிள்ளைகளை தாக்கி வீடியோ வெளியிட்ட தந்தை கைது: காணொளி
+### Father arrested for attacking children: Video
 
 *2024-02-07 10:56:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளைகளை-தாக்கி-வீடியோ-வெளியிட்ட-தந்தை-கைது-காணொளி/175-332816) · `ta`
 
-தனது இரண்டு பிள்ளைகளை கொடூரமாக தாக்கி வீடியோ எடுத்து சமூக வலைத்தளங்களில் பதிவிட்ட தந்தை ஒருவர் இன்று (07) கைது செய்யப்பட்டதாக திம்புல்ல பத்தனை பொலிஸ் நிலைய பிரதான பொலிஸ் பரிசோதகர் ஆனந்தசிறி தெரிவித்தார்.
+Anandasiri, Chief Inspector of the Timbulla Pathana Police Station, said that a father who brutally assaulted his two children and posted a video on social media.
 
-திம்புல்ல பத்தனை பொலிஸ் பிரிவுக்குட்பட்ட பகுதியிலுள்ள தனது மனைவி வீட்டில் வசிக்கும் 33 வயதுடைய நபர் கடந்த (05) திங்கட்கிழமை 09 மற்றும் 05 வயதுடைய தனது இரண்டு பிள்ளைகள் மீது தாக்குதல் நடத்தியதாக பொலிஸ் நிலைய கட்டளைத் தளபதி தெரிவித்தார்.
+The 33 -year -old man who lives in his wife's home in the Dimbulla Pathana Police Division has attacked two children aged 09 and 05 on Monday (05), the Commander of the Police Station said.
 
-இதற்கமைய, பிள்ளைகளின் தாயார் வெளியூரில் இருப்பதாகவவும், பிள்ளளைகள் பாட்டியின் பராமரிப்பில் இருப்பதாகவும், பிள்ளைகளின் கொழும்பில் உள்ள கார் சுத்தம் செய்யும் மையத்தில் பணிபுரிந்து வருவதாகவும் முதற்கட்ட விசாரணையில் தெரியவந்துள்ளது.
+Preliminary investigations revealed that the mother's mother is outdoors and that the children are under the care of the grandmother and are working at the children's car cleaning center in Colombo.
 
 ◼️
 
 [Data](articles/32a30ec1.json)
+
+[Extended Data](ext_articles/32a30ec1.ext.json)
 
 ---
 
@@ -1983,27 +2021,5 @@ Among the deceased was the leader of “Ape Jana Bala Pakshaya” (Our Power of 
 [Data](articles/66c722a4.json)
 
 [Extended Data](ext_articles/66c722a4.ext.json)
-
----
-
-### Ceremonial opening of Fifth Session of Ninth Parliament today
-
-*2024-02-07 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97068/ceremonial-opening-of-fifth-session-of-ninth-parliament-today) · `en`
-
-The Fifth Session of the Ninth Parliament will be ceremonially declared open by President Ranil Wickremesinghe today (Feb.07).
-
-Sri Lanka Parliament was prorogued with effect from midnight on 26 January, marking the closure of the Fourth Session of the Ninth Parliament.
-
-When a new session is kicked off, the President presides over the ceremonial opening of the Parliament and presents the government’s policy statement. In the past, the policy statement was referred to as the Throne Speech and was presented by the Governor.
-
-The adjournment debate on the government’s policy statement is scheduled to be held over two days, on Thursday (Feb.08) and Friday (Feb.09), from 9.30 a.m. to 5.30 p.m.
-
-Meanwhile, the Resolution under the Essential Public Services Act is scheduled to be approved without a debate on 08 February, before continuing the adjournment debate on the government’s policy statement.
-
-...
-
-[Data](articles/ab6e9474.json)
-
-[Extended Data](ext_articles/ab6e9474.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 09:17:27**
+As of **2024-02-07 09:32:55**
 
 ## Newspaper Stats
 
-*Scraped **5,350** Articles*
+*Scraped **5,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 452
 virakesarilk | 642
 adaderanalk | 660
 tamilmirrorlk | 667
-adaderanasinhalalk | 689
+adaderanasinhalalk | 690
 dailymirrorlk | 761
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,346 (99.9%) of 5,350 articles have been extended.
+5,351 (100.0%) of 5,351 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Meanwhile, the Resolution under the Essential Public Services Act is scheduled t
 
 [Data](articles/ab6e9474.json)
 
+[Extended Data](ext_articles/ab6e9474.ext.json)
+
 ---
 
 ### No possibility of importing vehicles for a considerable period of time: Minister
@@ -67,6 +69,34 @@ Meanwhile, raising his voice for the proposed amendments for foreign exchange or
 ◼️
 
 [Data](articles/76c66964.json)
+
+[Extended Data](ext_articles/76c66964.ext.json)
+
+---
+
+### Three suspects arrested for robbery
+
+*2024-02-07 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193066) · `si`
+
+Two persons and a woman have been arrested on suspicion of injury to a house and injured a gold and gold.
+
+The robber was carried out on January 31st and the value of the plundered goods was reported at Rs. 540,000.
+
+The Western Province North Crimes Division conducted a complaint lodged in the Meegoda Police regarding the incident.
+
+Accordingly, two suspects were arrested in Godagama and Brandigama in the Meegoda yesterday morning.
+
+The two suspects are aged 24 and 27 and the suspect is 43 years old.
+
+The suspects were recovered and two mobile phones were taken into police custody with the robbery.
+
+Investigations have revealed that the robbery was conducted by the suspect above.
+
+◼️
+
+[Data](articles/a9995d05.json)
+
+[Extended Data](ext_articles/a9995d05.ext.json)
 
 ---
 
@@ -424,6 +454,8 @@ But it appears that the conditions have begun to improve, according to the perfo
 
 [Data](articles/ba0834fd.json)
 
+[Extended Data](ext_articles/ba0834fd.ext.json)
+
 ---
 
 ### Has The JVP Come Of Age Or Is It Bluffing? - EDITORIAL
@@ -543,6 +575,8 @@ Maritime law expert, Dr. Dan Malika Gunasekara highlighted the country’s progr
 ...
 
 [Data](articles/c121e33b.json)
+
+[Extended Data](ext_articles/c121e33b.ext.json)
 
 ---
 
@@ -1987,23 +2021,5 @@ If the Members of the Supreme Court report on what recommendations of the High C
 [Data](articles/b6747acd.json)
 
 [Extended Data](ext_articles/b6747acd.ext.json)
-
----
-
-### Health strike put off amid talks with Finance Ministry officials
-
-*2024-02-06 19:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-strike-put-off-amid-talks-with-Finance-Ministry-officials/108-276441) · `en`
-
-Colombo, Feb 06 (Daily Mirror) - In the wake of the constructive discussions held with the Secretary of the Ministry of Finance, health sector trade unions have opted to defer their scheduled strike by one week, originally slated for February 7.
-
-Key stakeholders engaged in discussions, including representatives from the Ministry of Finance, Ministry of Health, and healthcare professionals, have established a committee tasked with examining the proposals put forth by the trade unions.
-
-As such, the committee will undertake deliberations to offer a comprehensive response to the concerns raised within the stipulated timeframe of one week.
-
-◼️
-
-[Data](articles/72091447.json)
-
-[Extended Data](ext_articles/72091447.ext.json)
 
 ---

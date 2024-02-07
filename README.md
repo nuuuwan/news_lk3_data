@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 05:17:23**
+As of **2024-02-07 05:36:53**
 
 ## Newspaper Stats
 
-*Scraped **5,307** Articles*
+*Scraped **5,313** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,107 @@ virakesarilk | 641
 adaderanalk | 657
 tamilmirrorlk | 661
 adaderanasinhalalk | 684
-dailymirrorlk | 749
+dailymirrorlk | 755
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,307 (100.0%) of 5,307 articles have been extended.
+5,307 (99.9%) of 5,313 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### Has The JVP Come Of Age Or Is It Bluffing? - EDITORIAL
+
+*2024-02-07 03:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Has-The-JVP-Come-Of-Age-Or-Is-It-Bluffing-EDITORIAL/172-276485) · `en`
+
+Anura Kumara Dissanayake is presently in India. The head of the JVP/NPP alliance is actually on an official visit to India, at the invitation of the Indian government. Believe it or not, AKD – as he is popularly known – has in addition to holding discussions with Indian External Affairs Minister, Jaishankar, also held meetings with Indian Defence Advisor, Ajit Doval!
+
+The JVP has come a long way from its initial foray into international analyses where in 1971 it saw Lanka’s only real proletarian worker group (the Indian Tamil estate workers) as Indian fifth columnists; it spoke of uprooting tea bushes and replanting these areas with potatoes.
+
+In the late 1980s, the JVP warned the Sinhala electorate of Indian expansionism, and led a bloody revolt based on its opposition to the establishment of the Provincial Councils system. Today, the JVP has embraced Provincial Councils.
+
+...
+
+[Data](articles/44e9390f.json)
+
+---
+
+### ITAK’s New Leader is an Unabashed LTTE Apologist
+
+*2024-02-07 03:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/ITAKs-New-Leader-is-an-Unabashed-LTTE-Apologist/172-276484) · `en`
+
+Tamil nationalism would take the same perilous journey, dragging the country down with it
+
+When pro-Palestinian groups planned protests on Armistice Day last year, policymakers in Europe were livid, calling, rightly so, the conduct ‘disgraceful’. No matter the context – in this case, the Israeli military campaign on Gaza in response to the Hamas terrorist attack on October 7th – such protests held on a special day of the collective memory are an affront to the majority, insensitive and provocative.
+
+...
+
+[Data](articles/3584678c.json)
+
+---
+
+### Takeaways and giveaways of NPP’s visit to India
+
+*2024-02-07 03:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Takeaways-and-giveaways-of-NPPs-visit-to-India/172-276483) · `en`
+
+Leader of the alliance National People’s Power (NPP) Anura Kumara Dissanayake (left) during a current visit to India is seen in conversation with External Affairs Minister S. Jaishankar. Dissanayake, who is also the leader of the JVP, is heading a delegation of the NPP to India on a five-day, three-city visit, covering New Delhi, Ahmedabad, and Thiruvananthapuram.
+
+...
+
+[Data](articles/20374f60.json)
+
+---
+
+### How to  restore  SLT’s role  to ride on the tide of information Technology
+
+*2024-02-07 03:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/How-to-restore-SLTs-role-to-ride-on-the-tide-of-information-Technology/172-276482) · `en`
+
+The technology SLT will provide will play a pivotal role to create the smart grid that can switch electricity from one place to another fast
+
+Sri Lanka is in the IT Age equivalent of the ancient “Silk Route”; hence it is up to us to take advantage from the future of technological innovation to attract investment.
+
+...
+
+[Data](articles/6914e8c7.json)
+
+---
+
+### Unveiling the ‘Cultural Mosaic’ A tapestry of Tamil Christian art  and architecture
+
+*2024-02-07 03:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Unveiling-the-Cultural-Mosaic-A-tapestry-of-Tamil-Christian-art-and-architecture/172-276481) · `en`
+
+This thematic poster exhibition unveils the fascinating convergence of 19th Century Tamil Christian Art and Architecture in Northern Sri Lanka
+
+The backdrop of the exhibition is rooted in the historical and cultural landscape of Northern Sri Lanka
+
+Art enthusiasts and cultural admirers in Northern Sri Lanka have the unique opportunity to immerse themselves in
+
+the rich tapestry of Tamil Christian art and architecture at the ‘Cultural Mosaic’ exhibition. Curated by Sagara Jayasinghe, a Senior Lecturer at the Department of Integrated Design, University of Moratuwa, and Research Fellow at the ARTIS Institute of the Faculty of Humanities of the University of Lisbon, this thematic poster exhibition unveils the fascinating convergence of 19th Century Tamil Christian Art and Architecture in Northern Sri Lanka. The venue for this cultural event is the Art Gallery of the Faculty of Fine Arts, University of Jaffna. The exhibition which began on January 30 will continue until February 9.
+
+...
+
+[Data](articles/004723e0.json)
+
+---
+
+### NPP leaders off to Modi’s home base Gujarat
+
+*2024-02-07 03:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-leaders-off-to-Modis-home-base-Gujarat/108-276449) · `en`
+
+Gujarat, Feb 07 (Daily Mirror) -  The National People’s Power (NPP) delegation led by leader Anura Kumara Dissanayake headed for Gujarat, the home base of Indian Prime Minister Narendra Modi, yesterday after the conclusion of their second day of the Indian tour, Daily Mirror learns.
+
+The NPP delegation is expected to meet Gujarati Chief Minister Bupendra Patel and do some sightseeing in the state. Gujarat is the political stronghold of the Indian Prime Minister who once served in the state as its Chief Minister. His success story in the development of the state boosted his image to run for the top post of India later.
+
+The NPP delegation yesterday held talks with the representatives of the leading Indian think-tank ‘Observer Research Foundation’.
+
+...
+
+[Data](articles/62269ff8.json)
+
+---
 
 ### Model will be held this year election
 
@@ -1923,127 +2013,5 @@ Minister Sabry highlighted the recent FTA with Thailand as a historic step towar
 [Data](articles/5772266b.json)
 
 [Extended Data](ext_articles/5772266b.ext.json)
-
----
-
-### Sri Lanka stocks close up, bluechips and banks attract interest
-
-*2024-02-06 16:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-bluechips-and-banks-attract-interest-150109/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The broader All Share Index closed up 94.60 points, or 0.91 percent at 10,525, while the S&P SL20 Index went up 49.85 points to close at 2,992 points, up 1.69 percent.
-
-Turnover was at 872 million. Trading in Sampath Bank Plc contributed (80mn) of this, and the share closed up at 72.00. Lanka Milk Foods (CWE) Plc also saw high volumes traded (71mn) and the share closed up at 23.60.
-
-Sector-wise, the capital goods sector (195mn), the banks industry group (183mn), and the food, beverage and tobacco sector (150mn) contributed the most to the day’s turnover (420mn).
-
-The decline in bond yield rates has seen renewed investor interest in several companies contributing positively to the ASPI in the day; John Keells Holdings Plc closed up at 182.25, Melstacorp Plc closed up at 84.20, Hatton National Bank Plc up at 160.25, and DFCC Bank Plc closed up at 77.90.
-
-...
-
-[Data](articles/8cd5478a.json)
-
-[Extended Data](ext_articles/8cd5478a.ext.json)
-
----
-
-### Gazette released by confirming Keheliya's resignation!
-
-*2024-02-06 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175730) · `ta`
-
-The gazette notification has been issued as the resignation of Keheliya Rambukwella's resignation was accepted by President Ranil Wickremesinghe.
-
-His resignation will come into effect from 3rd this month.
-
-◼️
-
-[Data](articles/fe12e17d.json)
-
-[Extended Data](ext_articles/fe12e17d.ext.json)
-
----
-
-### Gazette Confirms Rambukwella’s Resignation
-
-*2024-02-06 16:50:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/06/gazette-confirms-rambukwella-s-resignation/) · `en`
-
-COLOMBO (News 1st); The gazette notice delcaring the resignation of Keheliya Rambukwella from the post of Minister of Environment was published by the Department of Government Printing on Tuesday (6) afternoon.
-
-Keheliya Rambukwella, has formally resigned from his position, effective February 3rd, according to a gazette notice issued by the President's Secretary.
-
-The resignation comes amidst ongoing investigations and accusations against Rambukwella related to a controversial fake human immunoglobulin procurement scandal during his previous term as Minister of Health.
-
-According to the gazette, signed by the President's Secretary, Rambukwella's resignation took effect on February 3rd, following the President's acceptance of his resignation letter.
-
-This development coincides with Rambukwella's current remand status, ordered by the Maligakanda Magistrate's Court on the same day.
-
-...
-
-[Data](articles/f18dfb84.json)
-
-[Extended Data](ext_articles/f18dfb84.ext.json)
-
----
-
-### Wall in the wall to save children
-
-*2024-02-06 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193050) · `si`
-
-According to police, 4,983 schools have been identified as a drug circulation around school.
-
-Accordingly, 517 persons have been arrested by the police on suspicion of drugs surrounding the schools.
-
-Around the relevant school teachers, student leader and the working class surrounding the student's community, was set up on the instructions of the acting IGP Deshabandu Tennakoon.
-
-According to reports received by the "wall" committee members, reports have revealed that the risk of narcotic capital has passed away in the area of 4,876 schools.
-
-Also, the 'Wall' forum has been reported that the drug risk is located in 107 schools, and the IGP has already given instructions to the SSP in charge of the schools.
-
-The police Headquarters have been instructed to mislead children around 434 schools, police said.
-
-The "Walapura" Forum is further strengthened to create a favorable environment in the schools.
-
-◼️
-
-[Data](articles/15f8618b.json)
-
-[Extended Data](ext_articles/15f8618b.ext.json)
-
----
-
-### Sony World Photography Awards 2024
-
-*2024-02-06 16:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sony-World-Photography-Awards-2024/110-276433) · `en`
-
-These are some of the scenes captured by stunning winning and shortlisted National and Regional entries in the Sony World Photography Awards 2024.
-
-The renowned contest runs several competitions each year with more than 395,000 submissions from more than 220 countries pouring in for 2024.
-
-The overall champions in the Student, Youth, Open and Professional competitions will be announced on April 18 and their work will go on display at London 's Somerset House from April 19 to May 6. (Daily Mail)
-
-◼️
-
-[Data](articles/af55a846.json)
-
-[Extended Data](ext_articles/af55a846.ext.json)
-
----
-
-### Gazette issued confirming Keheliya’s resignation from minister post
-
-*2024-02-06 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97052/gazette-issued-confirming-keheliyas-resignation-from-minister-post) · `en`
-
-A gazette notification has been published, confirming the resignation of Keheliya Rambukwella as the Environment Minister. He was arrested last week in connection with the substandard human immunoglobulin procurement scandal.
-
-Earlier today, reports revealed that the former health minister had tendered his resignation to President Ranil Wickremesinghe, who in return, had accepted it.
-
-The SLPP parliamentarian was arrested on February 02 after he arrived at the Criminal Investigation Department (CID) to record a statement. He was reportedly interrogated for nearly 10 hours before being placed under arrest.
-
-...
-
-[Data](articles/0d6529f0.json)
-
-[Extended Data](ext_articles/0d6529f0.ext.json)
 
 ---

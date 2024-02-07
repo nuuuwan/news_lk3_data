@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 18:20:06**
+As of **2024-02-07 18:32:47**
 
 ## Newspaper Stats
 
-*Scraped **5,499** Articles*
+*Scraped **5,503** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,97 @@ newsfirstlk | 339
 adalk | 469
 virakesarilk | 669
 adaderanalk | 680
-tamilmirrorlk | 685
-adaderanasinhalalk | 714
-dailymirrorlk | 778
+tamilmirrorlk | 686
+adaderanasinhalalk | 716
+dailymirrorlk | 779
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,499 (100.0%) of 5,499 articles have been extended.
+5,499 (99.9%) of 5,503 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### Fisheman dies, seven others hospitalized due to toxic gas leak
+
+*2024-02-07 18:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fisheman-dies-seven-others-hospitalized-due-to-toxic-gas-leak/108-276527) · `en`
+
+A fisherman died and several others hospitalised due to inhaling a toxic gas inside a fish tank of a fishing vessel docked at the Ambalangoda Fisheries Harbour.
+
+Police said the eight fishermen have been hospitalized following which one had died.
+
+The other seven fishermen are currently receiving treatment at the Balapitiya Hospital.
+
+◼️
+
+[Data](articles/c181a457.json)
+
+---
+
+### නුවරඑළිය තැපැල් කාර්යාල ගොඩනැගිල්ල ගැන නීතිපතිගෙන් ප්‍රකාශයක්
+
+*2024-02-07 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193094) · `si`
+
+ඓතිහාසික වටිනාකමකින් යුත් නුවරඑළිය තැපැල් කාර්යාල ගොඩනැගිල්ල පෞද්ගලික අංශයට පැවරීම සඳහා තීරණයක් ගෙන නොමැති බව නීතිපතිවරයා අද (07) අභියාචනාධිකරණය හමුවේ ප්‍රකාශ කර තිබේ.
+
+එම ගොඩනැගිල්ල පෞද්ගලික අංශයට පැවරීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා ගොනු කරන ලද පෙත්සමක් අද කැඳවූ අවස්ථාවේ අතිරේක සොලිසිටර් ජනරාල් විකුම් ද ආබෲ මහතා මෙම දැනුම්දීම සිදු කළ බව අද දෙරණ අධිකරණ වාර්තාකරු පැවසීය.
+
+පෙත්සම්කරු වෙනුවෙන් පෙනී සිටි නීතිඥවරයා අධිකරණය හමුවේ කරුණු දක්වමින් අදාළ තැපැල් කාර්යාල ගොඩනැගිල්ල පෞද්ගලික අංශයට පැවරීම සම්බන්ධයෙන් දිස්ත්‍රික් සම්බන්ධීකරණ කම්ටුවේ දී සාකච්ඡාවට ලක් වී ඇති බව සඳහන් කළේ ය.
+
+එබැවින් මෙම තැපැල් කාර්යාලය ඕනෑම මොහොතක පෞද්ගලික අංශයට පැවරීමේ අවදානමක් මතු ව ඇති බවට නීතිඥවරයා අනතුරු අඟවා ඇත.
+
+එහි දී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල්වරයා සඳහන් කළේ, අදාළ තැපැල් කාර්යාලය පෞද්ගලික අංශයට පැවරීම සඳහා මෙතෙක් තීරණයක් ගෙන නොමැති බවයි.
+
+◼️
+
+[Data](articles/995a3895.json)
+
+---
+
+### පැහැරගත් සුඛෝපභෝගී මෝටර් රථය අන්තිමට සොයාගත් හැටි
+
+*2024-02-07 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193093) · `si`
+
+ව්‍යාපාරික යුවළක් බියගන්වා පැහැරගෙන ගිය සුඛෝපභෝගී මෝටර් රථයක් විශේෂ මෙහෙයුමකින් පොලීසිය විසින් සොයාගෙන තිබේ.
+
+මෙලෙස පැහැරගැනීමට ලක්ව ඇත්තේ කලගෙඩිහේන ප්‍රදේශයේ පදිංචි ව්‍යාපාරික යුවළකට අයත් සුඛෝපභෝගී මෝටර් රථයකි.
+
+ඔවුන් යක්කල මහවිට ප්‍රදේශයේ මාර්ගයක් අසළ සුප් පානය කරමින් සිටියදී සුඛෝපභෝගී වෑන් රථයකින් එහි පැමිණි පිරිසක් මෙලෙස රථය පැහැරගෙන ගොස් තිබේ.
+
+එහිදී එක් සැකකරුවෙකු විසින් කාන්තාවගේ ගෙලට පිහියක් තබා තර්ජනය කර ඇයගේ ස්මාට් දුරකථනය ද පොළොවේ ගසා තිබේ.
+
+අනතුරුව සිය මෝටර් රථය පැහැරගත් බවට ව්‍යාපාරික යුවළ විසින් පොලීසියට පැමිණිලි කර ඇත.
+
+අනතුරුව වහාම ක්‍රියාත්මක වූ වීරගුල, බෙම්මුල්ල හා පල්ලෙවෙල පොලිස් ස්ථානවල නිලධාරීන් විසින් ඒකාබද්ධ මෙහෙයුමක් ආරම්භ කර ඇත.
+
+මෝටර් රථය බටලීය මක්කනිගොඩ ප්‍රදේශයේ අතුරු මාර්ගයක ගමන් කර එම මාර්ගයේ කෙළවරක පිහිටි ඉඩමක දමා පැමිණි පුද්ගලයින් තිදෙනා විනාඩි විස්සක පමණ කාලයක් ඒ අසල රැඳී සිට ඇතැයි ද පොලිස් පරීක්ෂණවලදී හෙළි වී ඇත.
+
+අනතුරුව සැකකරුවන් පිරිස එම ස්ථානයෙන් පළාගොස් ඇති බවට පොලීසිය සැකපළ කරයි.
+
+...
+
+[Data](articles/b8a449c5.json)
+
+---
+
+### விஷ வாயுவை சுவாசித்த மீனவர் மரணம்; மேலும் பலர் வைத்தியசாலையில்
+
+*2024-02-07 17:58:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஷ-வாயுவை-சுவாசித்த-மீனவர்-மரணம்-மேலும்-பலர்-வைத்தியசாலையில்/175-332846) · `ta`
+
+அம்பலாங்கொடை மீன்பிடித் துறைமுகத்தில் நிறுத்தி வைக்கப்பட்டிருந்த மீன்பிடி படகொன்றின் மீன் சேகரிப்பு தொட்டிக்குள் உருவாகியதாகக் கூறப்படும் விஷ வாயுவை சுவாசித்ததில் மீனவர் ஒருவர் உயிரிழந்துள்ளார்.
+
+விஷ வாயுவினால் பாதிக்கப்பட்ட 8 மீனவர்கள் வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் இவர்களில் ஒருவரே உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+ஏனைய 7 மீனவர்களும் தற்போது பலப்பிட்டிய வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றனர். R
+
+◼️
+
+[Data](articles/8cf2e8cc.json)
+
+---
 
 ### Kudu Roshan and Brother released on bail
 
@@ -1991,81 +2069,5 @@ Delivering the government's Policy Statement in Parliament, he said the tax regi
 [Data](articles/de1ed546.json)
 
 [Extended Data](ext_articles/de1ed546.ext.json)
-
----
-
-### Planning to revise VAT percentage to further support economic growth: President
-
-*2024-02-07 11:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Planning-to-revise-VAT-percentage-to-further-support-economic-growth-President/155-276499) · `en`
-
-Colombo, Feb 7 (Daily Mirror) - The government was planning to reduce the tax burden as economic reforms continue to stabilize the economy, President Ranil Wickremesinghe said in his Policy Statement in Parliament today.
-
-“We are also revising the VAT percentage to further support economic growth,” he added.
-
-Delivering the government's Policy Statement in Parliament, he said the tax registration has substantially increased, with the number of registrations growing from 437,547 in 2022 to 1,000,029 by the end of 2023, representing a 130% increase.
-
-◼️
-
-[Data](articles/f8817585.json)
-
-[Extended Data](ext_articles/f8817585.ext.json)
-
----
-
-### "Cannabis" says nothing like that
-
-*2024-02-07 11:13:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சா-அப்படி-எதுவும்-இல்லை-என்கின்றார்-பந்துல/175-332818) · `ta`
-
-Tourism Minister Diana Kamage had earlier said that the idea of cultivating and exporting cannabis in Sri Lanka had been granted permission from yesterday's Cabinet meeting.
-
-However, Cabinet Spokesperson Minister Bandula Gunawardena said that no idea of cultivating cannabis for exports has not been presented to the Cabinet.
-
-The bill to enhance the cultivation of cannabis in Sri Lanka was aimed at enhance the tourism industry by Indigenous Medical Minister Sisira Jayakody.
-
-However, Cabinet Spokesperson Minister Bandula Gunawardena said that no such idea was presented in the Cabinet.. Remble
-
-◼️
-
-[Data](articles/cd98a7d4.json)
-
-[Extended Data](ext_articles/cd98a7d4.ext.json)
-
----
-
-### Army Chief Presents Airborne Insignia to Course-mates
-
-*2024-02-07 11:13:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/army-chief-presents-airborne-insignia-to-course-mates/) · `en`
-
-COLOMBO (News 1st); The Insignia Awarding Ceremony of Basic Airborne Course – MNDF 04 was held at the Army Headquarters on 06 February 2024.
-
-Lieutenant General Vikum Liyanage RWP RSP ndu, the Commander of the Army graced the ceremony as the chief guest.
-
-Eighteen military personnel from the Maldives National Defence Force and fifteen members from the Sri Lanka Army, including Lieutenant General Vikum Liyanage, the Commander of the Army and Major General A.C.A de Zoysa USP Hdmc Lsc, Colonel Commandant of the Sri Lanka Corps of Military Police and Provost Marshal of the Army, completed the training at the Commando Regiment Training School in Kudaoya.
-
-In marking the commencement of the event, Major General P.G.P.S. Rathnayake RWP RSP ndc, the Colonel of the Commando Regiment, extended a warm welcome to the Commander of the Army. Subsequently, Brigadier B.M.S.K.K Dharmawardana RWP RSP USP, Commandant of the Commando Regimental Center, delivered the welcome speech.
-
-...
-
-[Data](articles/5a36f1ee.json)
-
-[Extended Data](ext_articles/5a36f1ee.ext.json)
-
----
-
-### Admiral Daya Chandakiri joined Sajith
-
-*2024-02-07 11:09:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-இணைந்தார்-அட்மிரல்-தயா-சந்தகிரி/175-332817) · `ta`
-
-Admiral DTK Daya Sandakiri (VSV, USP RCDS, MSC (DS), PSC and FCMI), who retired from the 14th Navy of the Sri Lanka Navy, has joined the United People's Power to support the political journey.
-
-Opposition Leader Sajith Premadasa appointed him as a advisor to the United People's Power Maritime and Navy policies today (07) based on his vast knowledge and experience in the maritime and naval field.
-
-He has been appointed commander of the Sri Lanka Navy since January 1, 2001, due to the generous contribution to the three decades of war.
-
-◼️
-
-[Data](articles/cf840f84.json)
-
-[Extended Data](ext_articles/cf840f84.ext.json)
 
 ---

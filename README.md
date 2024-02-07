@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-07 09:02:24**
+As of **2024-02-07 09:17:27**
 
 ## Newspaper Stats
 
-*Scraped **5,346** Articles*
+*Scraped **5,350** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ dailyftlk | 305
 newsfirstlk | 329
 adalk | 452
 virakesarilk | 642
-adaderanalk | 659
+adaderanalk | 660
 tamilmirrorlk | 667
 adaderanasinhalalk | 689
-dailymirrorlk | 758
+dailymirrorlk | 761
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,346 (100.0%) of 5,346 articles have been extended.
+5,346 (99.9%) of 5,350 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-07 (Wednesday)
+
+### Ceremonial opening of Fifth Session of Ninth Parliament today
+
+*2024-02-07 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97068/ceremonial-opening-of-fifth-session-of-ninth-parliament-today) · `en`
+
+The Fifth Session of the Ninth Parliament will be ceremonially declared open by President Ranil Wickremesinghe today (Feb.07).
+
+Sri Lanka Parliament was prorogued with effect from midnight on 26 January, marking the closure of the Fourth Session of the Ninth Parliament.
+
+When a new session is kicked off, the President presides over the ceremonial opening of the Parliament and presents the government’s policy statement. In the past, the policy statement was referred to as the Throne Speech and was presented by the Governor.
+
+The adjournment debate on the government’s policy statement is scheduled to be held over two days, on Thursday (Feb.08) and Friday (Feb.09), from 9.30 a.m. to 5.30 p.m.
+
+Meanwhile, the Resolution under the Essential Public Services Act is scheduled to be approved without a debate on 08 February, before continuing the adjournment debate on the government’s policy statement.
+
+...
+
+[Data](articles/ab6e9474.json)
+
+---
+
+### No possibility of importing vehicles for a considerable period of time: Minister
+
+*2024-02-07 08:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-possibility-of-importing-vehicles-for-a-considerable-period-of-time-Minister/108-276490) · `en`
+
+Colombo, Feb 7 (Daily Mirror) - Due to the ongoing financial crisis and import restrictions, the government announced yesterday that it would be impossible to import vehicles for a considerable period of time.
+
+Addressing the weekly cabinet media briefing, Cabinet Spokesman Bandula Gunawardana yesterday said that import restrictions will be relaxed carefully and gradually.
+
+The Central Bank of Sri Lanka (CBSL) will inform the cabinet about how they take decisions to relax the import restrictions gradually.
+
+Meanwhile, raising his voice for the proposed amendments for foreign exchange orders already implemented for implementing the plan to lift the foreign exchange limitations step by step, the minister said that Sri Lanka is bound to lift the administrative measurements taken step by step when the country’s balance of payments reaches a steady stance as per the International Monetary Fund's (IMF) report on Sri Lanka.
+
+◼️
+
+[Data](articles/76c66964.json)
+
+---
 
 ### Report of the committee to decide limits
 
@@ -262,8 +300,6 @@ Mr. Keheliya Rambukwella has resigned as the Minister of Environment.
 
 *2024-02-07 06:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97067/keheliya-refuses-to-attend-parliamentary-session-today-despite-being-permitted) · `en`
 
-Former Minister Keheliya Rambukwella, who is in remand custody, has refused to attend the parliamentary session today (Feb.07) despite being given permission, the Prisons Department has revealed.
-
 Former Minister Keheliya Rambukwella, who is in remand custody, has refused to attend the parliamentary session today (Feb.07) despite being given permission, the Prisons Department said.
 
 The Fifth Session of the Ninth Parliament will be ceremoniously declared open by President Ranil Wickremesinghe this morning.
@@ -370,6 +406,26 @@ Political analysts and diplomats say JVP has now become a formidable political f
 
 ---
 
+### Consumer food makers witness margin growth amid decreasing input costs
+
+*2024-02-07 05:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Consumer-food-makers-witness-margin-growth-amid-decreasing-input-costs/108-276476) · `en`
+
+Consumer food manufacturers are experiencing a gradual increase in profit margins as raw material and ingredient prices decline, coupled with a slight strengthening of the rupee.
+
+This has made imported supplies more affordable compared to a year ago, contributing to the margin expansion.
+
+Since late 2021, companies, especially manufacturers, have been grappling with increasing prices driven by surging global commodity prices, fuelled by heightened post-pandemic demand that has outpaced supply.
+
+These conditions exacerbated in Sri Lanka due to its sharp depreciation in the rupee in 2022, sending the supplier prices by over 100 percent and consumer prices by nearly 70 percent higher.
+
+But it appears that the conditions have begun to improve, according to the performance of Ceylon Cold Stores PLC, one of the largest consumer foods companies which gave a glimpse of how the activities have been during the last three months of 2023.
+
+...
+
+[Data](articles/ba0834fd.json)
+
+---
+
 ### Has The JVP Come Of Age Or Is It Bluffing? - EDITORIAL
 
 *2024-02-07 03:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Has-The-JVP-Come-Of-Age-Or-Is-It-Bluffing-EDITORIAL/172-276485) · `en`
@@ -469,6 +525,24 @@ The NPP delegation yesterday held talks with the representatives of the leading 
 [Data](articles/62269ff8.json)
 
 [Extended Data](ext_articles/62269ff8.ext.json)
+
+---
+
+### Outdated maritime laws hampering Sri Lanka’s hub goals: Dr. Gunasekara
+
+*2024-02-07 03:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Outdated-maritime-laws-hampering-Sri-Lankas-hub-goals-Dr-Gunasekara/108-276480) · `en`
+
+Points out SL yet to become a party to various IMO conventions
+
+Ports Minister blames absence of an established enforcement regime to slow progress in ratification
+
+Sri Lanka’s aspirations to become a maritime hub are facing setbacks due to delays in ratifying crucial maritime conventions and updating national legislation, according to a prominent maritime law expert.
+
+Maritime law expert, Dr. Dan Malika Gunasekara highlighted the country’s progress in signing the Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation (SUA) of 1988, primarily targeting terrorist threats. However, he noted that Sri Lanka is yet to become a party to various other International Maritime Organisation (IMO) conventions.
+
+...
+
+[Data](articles/c121e33b.json)
 
 ---
 
@@ -1931,87 +2005,5 @@ As such, the committee will undertake deliberations to offer a comprehensive res
 [Data](articles/72091447.json)
 
 [Extended Data](ext_articles/72091447.ext.json)
-
----
-
-### Top US diplomat pursues Gaza truce quest as Israel presses onslaught
-
-*2024-02-06 19:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97059/top-us-diplomat-pursues-gaza-truce-quest-as-israel-presses-onslaught) · `en`
-
-U.S. Secretary of State Antony Blinken met Egypt’s president on Tuesday as part of a 48-hour, four-nation flurry of shuttle diplomacy in search of a ceasefire in Gaza’s war, while Israel pressed its onslaught in the south of the enclave.
-
-Israel said its forces had killed dozens of Palestinian gunmen throughout Gaza in the past 24 hours with fighting focused on Khan Younis in the south, with a threatened assault looming on a nearby border town teeming with displaced people.
-
-Blinken arrived in Egypt after a stop in Saudi Arabia, and then departed for Qatar, for meetings with the main countries acting as mediators in the Gaza war. Palestinians hope the U.S. top diplomat’s Middle East swing will nail down a ceasefire before Israeli forces storm Gaza’s southern fringes where over a million displaced people are sheltering.
-
-...
-
-[Data](articles/aa26b862.json)
-
-[Extended Data](ext_articles/aa26b862.ext.json)
-
----
-
-### Legal action against 50 bakeries over weight of bread
-
-*2024-02-06 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97058/legal-action-against-50-bakeries-over-weight-of-bread) · `en`
-
-The Consumer Affairs Authority (CAA) has raided around 50 bakeries for failure to follow the gazette issued stipulating a standard weight for a loaf of bread and failure to display prices.
-
-Accordingly, the CAA stated that legal action would be initiated against the relevant bakeries.
-
-The Consumer Affairs Authority launched island-wide raids yesterday (05), following a special gazette issued specifying the standard weight of a loaf of bread and making it mandatory to display the weight of bread displayed for sale.
-
-Thus, the standard weight of a loaf of bread should be 450g with an allowed deficiency of 13.5g and for half a loaf of bread the standard weight is stipulated as 225g with a deficiency of 9g.
-
-The CAA has noted that any type of bread manufactured, packed, stored, offered for sale, displayed for sale or sold retail or wholesale should contain the standard weight specified in the gazette extraordinary.
-
-◼️
-
-[Data](articles/364c8f12.json)
-
-[Extended Data](ext_articles/364c8f12.ext.json)
-
----
-
-### Free trade agreements with five other five countries
-
-*2024-02-06 19:17:40* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-රටවල්-පහක්-සමග-නිදහස්-වෙළඳ-ගිවිසුම්/11-407934) · `si`
-
-External Affairs Minister Ali Sabri said that the program of President Ranil Wickremesinghe should be strengthened to bring free trade agreements among countries to resume the economy of the country.
-
-The Minister said that by the end of this year, India, Indonesia, Malaysia, Vietnam, Vietnam, and China have also been established.
-
-Minister of External Affairs Ali Sabri said this at a press conference held at the Presidential Media Center today (06) at the Presidential Media Center.
-
-Minister of External Affairs Ali Sabri said:
-
-According to the vision of making a standing economy of President Ranil Wickremesinghe, the vision of the vision of a stable economy, the economy is expected to directly contribute to Sri Lanka's economy.
-
-As a historic move, a free trade agreement with Thailand recently included. Sri Lanka has seen work for a million-ced of market.
-
-...
-
-[Data](articles/791aaac2.json)
-
-[Extended Data](ext_articles/791aaac2.ext.json)
-
----
-
-### Sri Lanka pursues Free Trade Agreements to boost economic growth
-
-*2024-02-06 19:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-pursues-Free-Trade-Agreements-to-boost-economic-growth/108-276440) · `en`
-
-Colombo, Feb 06 (PMD) -  The Sri Lankan government is currently engaged in discussions to establish free trade agreements (FTAs) with India, Indonesia, Malaysia, Vietnam and China by the end of 2024, according to the Minister of Foreign Affairs.
-
-Foreign Affairs Minister Ali Sabry highlighted the potential of these agreements to open up new markets for Sri Lankan businesses, thus directly contributing to the nation’s economic expansion.
-
-Speaking at a press briefing held at the President Media Centre (PMC) today (06), Sabry emphasized the government's commitment towards diversifying trade partnerships and fortifying economic resilience through strategic FTAs. He stressed that these agreements aim to broaden market access and bolster trade, thereby laying the groundwork for a more robust and sustainable economic future for Sri Lanka.
-
-...
-
-[Data](articles/d5c9d24c.json)
-
-[Extended Data](ext_articles/d5c9d24c.ext.json)
 
 ---

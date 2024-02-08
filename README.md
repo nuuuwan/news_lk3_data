@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 16:17:12**
+As of **2024-02-08 16:32:41**
 
 ## Newspaper Stats
 
-*Scraped **5,741** Articles*
+*Scraped **5,743** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,47 @@ economynextcom | 302
 dailyftlk | 316
 newsfirstlk | 359
 adalk | 484
-virakesarilk | 706
+virakesarilk | 707
 adaderanalk | 707
 tamilmirrorlk | 712
-adaderanasinhalalk | 756
+adaderanasinhalalk | 757
 dailymirrorlk | 814
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,741 (100.0%) of 5,741 articles have been extended.
+5,741 (100.0%) of 5,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### දින 22ක් තිස්සේ 'ජෙරම් පුතා' ගැන ආරංචියක් නැහැ
+
+*2024-02-08 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193136) · `si`
+
+දින 22 කට පෙර මීගමුව ධීවර වරායෙන් මුහුදු ගිය 'ජෙරම් පුතා' නම් බහුදින යාත්‍රාවෙන් කිසිඳු තොරතුරක් ගොඩබිමට ලැබි නැති බව මුහුදු ගිය පිරිසගේ ඥාතීන් පවසයි.
+
+මෙලෙස ධීවර කටයුතු සඳහා මුහුදු ගොස් ඇත්තේ මීගමුව, වැල්ලවිදීය, තොඩුවාව යන ප්‍රදේශවල පදිංචි පුද්ගලයින් සිව්දෙනෙකි.
+
+"අපේ තාත්තා මුහුදු ගියා. අදට දවස් 20කටත් වැඩියි. තාම ආරංචියක් නැහැ. රජයෙන් ඉල්ලා සිටින්නේ ඔවුන්ට කරදරයක් වෙලානම් ඔවුන්ව බේරගන්න කියලා. මගේ තාත්තා ඇතුළු අනෙක් අයව පණපිටින් අපට ගොඩට ගෙනල්ලා දෙන්න."
+
+◼️
+
+[Data](articles/9d361649.json)
+
+---
+
+### இலங்கையில் திறந்த அரசாங்க பங்குடைமை (OGP) செயன்முறையிலுள்ள சிவில் சமூக அமைப்புகள் எதிர்ப்புத் தெரிவித்து விலகல்
+
+*2024-02-08 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175900) · `ta`
+
+...
+
+[Data](articles/bb4131ce.json)
+
+---
 
 ### Political religious leaders who publish Indian opposition following JVP's visit to India
 
@@ -57,6 +83,44 @@ In the past, the JVP, which has expressed fierce opposition to many of Sri Lanka
 [Data](articles/f84e4dd5.json)
 
 [Extended Data](ext_articles/f84e4dd5.ext.json)
+
+---
+
+### Anuragumara has gone to India because Ranil has done brainwashed - Minister Nimal
+
+*2024-02-08 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175894) · `ta`
+
+President Ranil Wickremesinghe has brainwashed the national people's power.
+
+Speaking on India's domination, he said that the leaders of the national power power have gone to India.
+
+We are happy about this.
+
+"We know how the leaders of the National People's Power have criticized the government to work with the Adani Group," he said.
+
+◼️
+
+[Data](articles/f5af2139.json)
+
+[Extended Data](ext_articles/f5af2139.ext.json)
+
+---
+
+### 37 crores worth of gemstones;Two persons including Thera
+
+*2024-02-08 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175871) · `ta`
+
+Based on information provided by the military intelligence, Koslanda police have seized 2 blue stones illegally when they tried to illegally.
+
+Two persons, including a Thera of Weliweriya, have been arrested by Koslanda police in connection with the incident as the seized gem stones were to be sold for about Rs 37 crore during the raid.
+
+The arrested gem stones have been revealed in the form of Vihara. Koslanda police are conducting further investigations.
+
+◼️
+
+[Data](articles/52cd0907.json)
+
+[Extended Data](ext_articles/52cd0907.ext.json)
 
 ---
 
@@ -207,26 +271,6 @@ In this list, a world's popularity company owned by a popular shipping company, 
 [Data](articles/0bf7a320.json)
 
 [Extended Data](ext_articles/0bf7a320.ext.json)
-
----
-
-### Anuragumara has gone to India because Ranil has done brainwashed - Minister Nimal
-
-*2024-02-08 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175894) · `ta`
-
-President Ranil Wickremesinghe has brainwashed the national people's power.
-
-Speaking on India's domination, he said that the leaders of the national power power have gone to India.
-
-We are happy about this.
-
-"We know how the leaders of the National People's Power have criticized the government to work with the Adani Group," he said.
-
-◼️
-
-[Data](articles/f5af2139.json)
-
-[Extended Data](ext_articles/f5af2139.ext.json)
 
 ---
 
@@ -797,24 +841,6 @@ It is reported that two suspects who were arrested and detained at the police st
 [Data](articles/9011ab6f.json)
 
 [Extended Data](ext_articles/9011ab6f.ext.json)
-
----
-
-### 37 crores worth of gemstones;Two persons including Thera
-
-*2024-02-08 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/175871) · `ta`
-
-Based on information provided by the military intelligence, Koslanda police have seized 2 blue stones illegally when they tried to illegally.
-
-Two persons, including a Thera of Weliweriya, have been arrested by Koslanda police in connection with the incident as the seized gem stones were to be sold for about Rs 37 crore during the raid.
-
-The arrested gem stones have been revealed in the form of Vihara. Koslanda police are conducting further investigations.
-
-◼️
-
-[Data](articles/52cd0907.json)
-
-[Extended Data](ext_articles/52cd0907.ext.json)
 
 ---
 
@@ -2113,41 +2139,5 @@ The Public Security Ministry said the primary objective of this operation was to
 [Data](articles/b8bebcdf.json)
 
 [Extended Data](ext_articles/b8bebcdf.ext.json)
-
----
-
-### Jagath Priyankara sworn in as MP to fill Sanath Nishantha’s vacancy
-
-*2024-02-08 09:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jagath-Priyankara-sworn-in-as-MP-to-fill-Sanath-Nishanthas-vacancy/108-276571) · `en`
-
-Parliament, Feb. 08 (Daily Mirror)- Jagath Priyankara was sworn in as a Member of Parliament before Speaker Mahinda Yapa Abeywardane a short while ago.
-
-He was sworn in as a MP to fill the vacancy created by the sudden death of State Minister Sanath Nishantha.
-
-◼️
-
-[Data](articles/0831ba56.json)
-
-[Extended Data](ext_articles/0831ba56.ext.json)
-
----
-
-### Another suspects of justice are boxing
-
-*2024-02-08 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193120) · `si`
-
-728 suspects have been arrested by 728 suspects in the last 24 hours under the operation of justice.
-
-It is reported that 170 suspects in the list referred to to the Criminal Division of Narcotics and Criminals.
-
-Three suspects have been arrested for crime.
-
-Police have seized 122 grams of heroin in possession of 122 grams of heroin, 51 grams of ice and 217 and 1,852 alcohol.
-
-◼️
-
-[Data](articles/1325e32b.json)
-
-[Extended Data](ext_articles/1325e32b.ext.json)
 
 ---

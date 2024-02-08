@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 22:03:33**
+As of **2024-02-08 22:17:31**
 
 ## Newspaper Stats
 
-*Scraped **5,812** Articles*
+*Scraped **5,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 307
 dailyftlk | 316
 newsfirstlk | 363
 adalk | 491
-adaderanalk | 715
+adaderanalk | 716
 tamilmirrorlk | 716
 virakesarilk | 721
 adaderanasinhalalk | 765
@@ -26,85 +26,127 @@ dailymirrorlk | 827
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,794 (99.7%) of 5,812 articles have been extended.
+5,809 (99.9%) of 5,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### சாந்தனுக்கான கடவுச்சீட்டு அனுப்பி வைக்கப்பட்டுள்ளது
+### Passport has been sent to Santhan
 
 *2024-02-08 21:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175928) · `ta`
 
-சாந்தனை நாட்டுக்கு அழைத்து வருவதற்காக, அவருக்குரிய கடவுச்சீட்டு தேவைப்பட்ட நிலையில், இலங்கை குடிவரவு குடியகல்வு சட்டதிட்டங்களின் அமைவாக அவருக்குரிய கடவுச்சீட்டு (Passport) அனுப்பி வைக்கப்பட்டுள்ளது.
+He has been sent a passport as a set of Sri Lanka's Immigration and Emigration Laws as he needed his passport to bring him to the country.
 
-இந்திய வெளியுறவுத்துறைக்குச் சாந்தனுடைய கடவுச்சீட்டு அனுப்பி வைக்கப்பட்டுள்ளதாக இலங்கை வெளியுறவு அமைச்சால்  அறியத்தரப்பட்டுள்ளது.
+The Foreign Ministry of Sri Lanka has reported that Santhan's passport has been sent to the Indian Foreign Ministry.
 
-இதன்படி, சாந்தன் இந்தியாவிலிருந்து இலங்கைக்குப் பயணம் செய்வதற்கான ஏற்பாடுகள் வருநாட்களில் இந்திய அரசு தரப்பினால் மேற்கொள்ளப்படவுள்ளது
+Accordingly, arrangements to travel from India to Sri Lanka will be made by the Government of India in the coming days.
 
 ◼️
 
 [Data](articles/f8530cfe.json)
 
+[Extended Data](ext_articles/f8530cfe.ext.json)
+
 ---
 
-### அரசியலமைப்பு மீறல் செயற்பாட்டுக்குச் சபாநாயகர் துணைபோயுள்ளார் -  சஜித் பிரேமதாச குற்றச்சாட்டு
+### Loneliness declared a public health emergency in part of Silicon Valley, California
+
+*2024-02-08 21:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97125/loneliness-declared-a-public-health-emergency-in-part-of-silicon-valley-california) · `en`
+
+Loneliness has been declared a public health emergency in a Californian county that includes part of Silicon Valley.
+
+San Mateo County is the first in the US to make such a declaration.
+
+About 17% of US adults questioned by Gallup in February last year said they had experienced loneliness the day before.
+
+In San Mateo, however, about 45% of residents are struggling with isolation, according to David Canepa from the county’s board of supervisors.
+
+Across the US there is an “epidemic of loneliness and isolation”, US Surgeon General Dr Vivek Murthy has said.
+
+It is an “underappreciated public health crisis” which has “harmed individual and societal health”, he added.
+
+Concerns in San Mateo are not confined to one demographic, Mr Canepa said.
+
+Teenagers and young adults spend a long time on social media, he pointed out, while Silicon Valley’s high-achieving atmosphere may put stress on those still in education.
+
+Many older residents became especially isolated during the pandemic, he added.
+
+...
+
+[Data](articles/ed3c4620.json)
+
+---
+
+### Speaker has been accused of violating constitutional violation -Sajith Premadasa
 
 *2024-02-08 21:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175927) · `ta`
 
-உயர்நீதிமன்றம் முன்வைத்த திருத்தங்களைப் புறக்கணித்தே நிகழ்நிலை காப்புச் சட்டம் நிறைவேற்றப்பட்டுள்ளது. அரசியலமைப்பு மீறல் செயற்பாட்டுக்குச் சபாநாயகர் துணை சென்றுள்ளார். சட்டத்தில் குறைபாடுகள் காணப்படுகின்றன என்பதை நீதியமைச்சர் ஏற்றுக்கொண்டுள்ளார். ஆகவே விசேட கட்சித் தலைவர் கூட்டத்தை ஏற்பாடு செய்யுங்கள் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச சபாநாயகரிடம் வலியுறுத்தினார்.
+The Celebration Act has been passed by ignoring the amendments made by the High Court. The Speaker has gone to the constitutional violation process. The Justice Minister has accepted that there are flaws in the law. Opposition leader Sajith Premadasa urged the Speaker to organize a special party leader.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (8) இடம்பெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking at a special statement during a session held in Parliament on Thursday (8).
 
-நிகழ்நிலை  காப்புச் சட்டமூலம் தொடர்பில் உயர்நீதிமன்றம் முன்வைத்த  திருத்தங்களுக்கு அப்பாற்பட்ட வகையில் தான் சட்டமூலம் சட்டமாக்கப்பட்டுள்ளது. சட்டமூலத்தின் 11,16,19,20 ,27  உள்ளிட்ட சரத்துக்கள் உட்பட பெரும்பாலான சரத்துக்கள் திருத்தம் செய்யப்பட வேண்டும் அத்துடன்  16 மற்றும் 19 ஆவது சரத்துக்கள் நீக்கப்பட வேண்டும் என்று உயர்நீதிமன்றம் யோசனைகளை முன்வைத்துள்ளது.
+The Bill is beyond the amendments made by the High Court regarding the Celebration Bill. The Supreme Court has proposed the idea that most of the strings, including strings, including the 11,16,19,20 and 27 of the Bill, should be amended and the 16th and 19th strings should be removed.
+
+It is the duty of Parliament to properly implement the proposals proposed by the High Court on the Bill.
+
+Hope in Speaker has been blown up.. During the final debate on the bill, we sought a referendum.
 
 ...
 
 [Data](articles/10fa2786.json)
 
+[Extended Data](ext_articles/10fa2786.ext.json)
+
 ---
 
-### දකුණ ගැන උතුරු කොරියාව දැඩි තීරණයක් ගනී
+### North Korea is a strong decision
 
 *2024-02-08 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193145) · `si`
 
-කොරියානු අර්ධද්වීපයේ උණුසුම් වාතාවරණය ඉදිරියේදී තවදුරටත් වර්ධනයවීමේ අවදානමක් මතුකරමින්, දකුණු කොරියාව සමග පවතින සියලු ආර්ථික සහයෝගීතාවන් අවසන් කිරීමට උතුරු  කොරියාව තීරණය කර තිබේ.
+North Korea has decided to finish all economic cooperation with South Korea, raising further growth in the Korean Peninsula.
 
-උතුරු කොරියානු පාර්ලිමේන්තුව නැත්නම් උත්තරීතර මහජන සභාවේ නියෝජිතයන් ඒ සඳහා ඡන්දය ප්‍රකාශ කළ බව එරට රාජ්‍ය ප්‍රවෘත්ති සේවාව (KCNA) වාර්තා කළේය.
+The North Korean Parliament or the Agendants representatives voted for it.
 
-කොරියානු මහජන පක්ෂය හෙවත් කොමියුනිස්ට් පක්ෂය මගින් ගනු ලබන තීරණ නීතිගත කරනු ලබන්නේ මෙම මහජන සභාව විසිනි.
+The Decisions taken by the Korean People's Party or the Communist Party are legalized by the People's Council.
 
-එහිදී දකුණු කොරියාව සමග පවතින සංචාරක ව්‍යාපෘතියට බලපැවැත්වන විශේෂ පාලන නීති අවලංගු කිරීමටත් මහජන සභාවේ නියෝජිතයන් ඡන්දය ප්‍රකාශ කර ඇත.
+Representatives of the Public Council have voted to cancel special governments with the tourism project with South Korea.
 
-2000 දශකය මුල් භාගයේ ආරම්භ කෙරුණු මවුන්ට් කුම්ගන් නැමැති එම සංචාරක ව්‍යාපෘතිය යටතේ මිලියන 2ක් පමණ දකුණු කොරියානුවන් උතුරේ සංචාරය කළේය.
+The South Koreans visited the North Koreans around the 2000's Mount Kumgan, which began in the early 2000s.
 
-කොරියානු අර්ධද්වීපයේ නැගෙනහිර දේශසීමාවේ දර්ශනීය කඳු පෙළක් මෙම සංචාරක ව්‍යාපෘතියට කේන්ද්‍ර විය.
+A scenic mountain range of the East Borders of the Korean Peninsula was central to the tourism project.
 
-2008 වසරේදී මෙම ව්‍යාපෘතිය අත්හිටුවනු ලැබුවේ ප්‍රවේශය සීමාවු ප්‍රදේශයකට පිවිසි දකුණු කොරියානු සංචාරකයෙකු උතුරු කොරියානු ආරක්ෂක හමුදා විසින් වෙඩි තබා ඝාතනය කිරීමෙන් අනතුරුවය.
+In 2008, the project was suspended after a South Korean tourist was shot dead by the North Korean security forces.
+
+The South Korean Hyundai Group had invested about $ 564 million for this project.
 
 ...
 
 [Data](articles/ca435e65.json)
 
+[Extended Data](ext_articles/ca435e65.ext.json)
+
 ---
 
-### හදිසි තත්ත්වයක් වූ හුදකලාව
+### The isolation that was an emergency
 
 *2024-02-08 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193144) · `si`
 
-හුදකලාව නොහොත් තනිකම කැලිෆෝනියාව තුළ 'මහජන සෞඛ්‍ය පිළිබඳ හදිසි තත්ත්වයක්' ලෙස ප්‍රකාශයට පත් කර තිබේ.
+Lonely, lonely, has been declared as 'a state of public health' in California.
 
-ඊට අදාළ යෝජනාවක් කැලිෆෝනියා බලධාරීන් විසින් පසුගිය දා සම්මත කරගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+Foreign media reports that the California authorities have recently adopted the relevant proposal recently.
 
-‘තනිකම‘ දීර්ඝ කාලීනව අහිතකර ප්‍රතිඵල අත්කර දෙන ගෝලිය සෞඛ්‍ය තර්ජනයක් විය හැකි බවට ලෝක සෞඛ්‍ය සංවිධානය ද පසුගිය වසරේ නොවැම්බර් මාසයේ දී ප්‍රකාශ කර තිබුණි.
+Last year, the World Health Organization also stated that the global health of the long-term 'loneliness could be a health threat.
 
-කිසියම් පුද්ගලයෙකු තනිව නැතහොත් හුදකලාවෙන් සිටින විට එය මානසික වශයෙන් මෙන්ම ශාරීරික වශයෙන් ද බලපෑම් එල්ල කරන අතර එවැනි පුද්ගලයින් හෘදයාබාධ, මානසික ආතතිය, ආඝාතය හා හදිසි මරණවලට ගොදුරු වීමේ හැකියාව පවතින බව ලෝක සෞඛ්‍ය සංවිධානය පෙන්වාදී ඇත.
+The World Health Organization has pointed out that when a person is alone or physically affected by a person's mentally and physically, stress, stress, stress, and sudden deaths.
 
-එමෙන්ම හුදකලාවෙන් පසුවන බොහෝ පිරිස් දුම්පානයට යොමුවීමේ ප්‍රවණතාවක් පවතින බවට ද නිරීක්ෂණය වී තිබේ.
+It is also observed that many of its isolation has been observed.
 
 ◼️
 
 [Data](articles/dbb67d94.json)
+
+[Extended Data](ext_articles/dbb67d94.ext.json)
 
 ---
 
@@ -123,6 +165,8 @@ In a vivid illustration of the surging political violence in the run up to the v
 ...
 
 [Data](articles/b9958bde.json)
+
+[Extended Data](ext_articles/b9958bde.ext.json)
 
 ---
 
@@ -166,6 +210,8 @@ The Indian firm imports LNG from Qatar, Australia and other countries at two ter
 
 [Data](articles/576f9eaa.json)
 
+[Extended Data](ext_articles/576f9eaa.ext.json)
+
 ---
 
 ### India to begin LNG supplies to Sri Lanka in 2025
@@ -200,45 +246,51 @@ Trump is challenging a verdict by the Supreme Court of the state of Colorado las
 
 [Data](articles/b6e0a3a9.json)
 
+[Extended Data](ext_articles/b6e0a3a9.ext.json)
+
 ---
 
-### அயோத்தி ராமர் கோவிலுக்குச் விஜயம் செய்யவுள்ளார் நாமல்
+### Namal will visit Ayodhya Rama Temple
 
 *2024-02-08 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175920) · `ta`
 
-நாமல் ராஜபக்ஷ இந்தியாவில் உள்ள அயோத்தி ராமர் கோயிலுக்கு தனிப்பட்ட ரீதியில் விஜயம் மேற்கொள்ளவுள்ளார்.
+Namal Rajapaksa will visit the Ayodhya Rama Temple in India personally.
 
-இரு நாட்கள் தனிப்பட்ட ரீதியில் இந்தியாவுக்கு விஜயம் மேற்கொள்ளும் நாமல் ராஜபக்ஷ, 9 ஆம் திகதி மாலை ராமர் கோவிலில் சிறப்பு தரிசனம் மற்றும் பூஜை வழிபாடுகளில் ஈடுபடவுள்ளார்.
+Namal Rajapaksa, who has been visiting India for two days personally, will attend special darshan and pooja at the Rama Temple on the evening of the 9th.
 
-அயோத்தி மற்றும் புதுடில்லியில் தங்கியிருக்கும் காலங்களில் சில முக்கிய பிரமுகர்களை தனிப்பட்ட முறையில் நாமல் ராஜபக்ஷ சந்திப்பார் எனவும் எதிர்பார்க்கப்படுகிறது.
+Namal Rajapaksa is also expected to meet some prominent figures in Ayodhya and New Delhi.
 
-ராஜபக்சவின் அயோத்தி ராம் கோவிலுக்கான விஜயம் இலங்கைக்கும் இந்தியாவுக்கும் இடையிலான கலாச்சார மற்றும் மத உறவுகளை வலுப்படுத்துவதற்கான அர்ப்பணிப்பை பிரதிபலிப்பதாக அமையும் என்பது குறிப்பிடத்தக்கது.
+It is noteworthy that the visit to Rajapaksa's Ayodhya Ram Temple will reflect the commitment to strengthening cultural and religious ties between Sri Lanka and India.
 
 ◼️
 
 [Data](articles/c374747a.json)
 
+[Extended Data](ext_articles/c374747a.ext.json)
+
 ---
 
-### பல்கலைக்கழக விரிவுரையாளர்கள் பெற்ற கடனில் 1,300 மில்லியன் ரூபாவை மீள செலுத்த தவறியுள்ளனர்  - நிதி அமைச்சர்
+### University lecturers fail to repay 1,300 million rupees in debt - Finance Minister
 
 *2024-02-08 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175908) · `ta`
 
-பல்கலைக்கழக விரிவுரையாளர்கள் உயர்கல்விக்காக வெளிநாடுகளுக்கு செல்வதற்கு அரச வங்கிகள் மூலம் 1,300 மில்லியன் ரூபாவை கடனாக பெற்றுக் கொண்டுள்ளபோதும் அதனை மீளச் செலுத்த தவறியுள்ளனர் என  நீதியமைச்சர் விஜேதாச ராஜபக்ஷ் தெரிவித்தார்.
+Justice Minister Wijeyadasa Rajapakse said that university lecturers have failed to repay 1,300 million rupees through state banks to go abroad for higher education.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச எழுப்பிய கேள்வியொன்றுக்குப் பதிலளிக்கும் போதே இவ்வாறு தெரிவித்தார்
+He was responding to a question raised by Opposition Leader Sajith Premadasa on Thursday in Parliament.
 
-மக்கள் வங்கி மற்றும் இலங்கை வங்கி ஆகியவை நாட்டின் தேசிய பொருளாதாரத்தை மேம்படுத்துவதற்காகவே ஆரம்பிக்கப்பட்டன. குறிப்பாக அந்த வங்கிகள் மூலம் விவசாயத்துறை மற்றும் கைத்தொழில் துறையை முன்னேற்றுவதற்கு பல்வேறு நடவடிக்கைகள் மேற்கொள்ளப்பட்டுள்ளன.
+The People's Bank and the Bank of Ceylon were launched to improve the country's national economy. Various measures have been taken to improve the agriculture and industrial sector in particular through those banks.
 
-ஸ்ரீமாவோ பண்டாரநாயக்கவின் காலத்தில் அனைத்து விவசாய நிறுவனங்களிலும் இலங்கை வங்கி கிளை இயங்கி வந்துள்ளது.
+During the time of Srimavo Bandaranaike, the Bank of Ceylon Branch was operating in all agricultural institutions.
 
-அந்தந்த பிரதேசங்களில் வாழும் மக்கள் தமது விவசாய நடவடிக்கைகளுக்காக கடன் வழங்கும் நடைமுறையை அந்த வங்கிகள் முன்னெடுத்தன.
+The banks have carried out a lending process for the people living in their respective areas for their agricultural activities.
 
-அந்த வகையில் இலங்கை வங்கி மற்றும் மக்கள் வங்கி ஆகியன அவ்வாறு வழங்கியுள்ள மூன்றாம் கட்ட கடனில் 602 பில்லியன் ரூபா கடன் பெற்றுள்ளவர்களால் மீள செலுத்தப்படாமல் உள்ளது.
+Accordingly, the Bank of Ceylon and the People's Bank of Sri Lanka have not been repaid by the borrowers of Rs 602 billion in the third phase of the loan.
 
 ...
 
 [Data](articles/fbcba6e3.json)
+
+[Extended Data](ext_articles/fbcba6e3.ext.json)
 
 ---
 
@@ -263,6 +315,8 @@ Commenting regarding the playing XI, Mendis hinted at minimal changes compared t
 ...
 
 [Data](articles/84598596.json)
+
+[Extended Data](ext_articles/84598596.ext.json)
 
 ---
 
@@ -294,6 +348,8 @@ An event was held to recognize the wards and units of the Colombo South Teaching
 
 [Data](articles/cb00a097.json)
 
+[Extended Data](ext_articles/cb00a097.ext.json)
+
 ---
 
 ### Man who ‘poisoned’ two suspects in police custody identified
@@ -314,23 +370,25 @@ Two assailants on a motorcycle had opened fire in Jinthupitiya on January 25, le
 
 ---
 
-### பெலியத்தயில் ஐவர் சுட்டுப் படுகொலை: முன்னாள் கடற்படை சிப்பாயின் மனைவி, தந்தைக்கு விளக்கமறியல்
+### Former Naval soldier's wife, father -in -law
 
 *2024-02-08 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175922) · `ta`
 
-பெலியத்தயில் இடம்பெற்ற ஐவரின் படுகொலையுடன் தொடர்புடைய பிரதான சந்தேகநபரின் மனைவி மற்றும் தந்தை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+The wife and father of the main suspect in connection with the murder of Ivar in Beliatta have been placed in interrogation.
 
-பிரதான சந்தேக நபரான முன்னாள் கடற்படை சிப்பாயின் மனைவி மற்றும் அவரது தந்தை ஆகியோர் கைதுசெய்யப்பட்டு விசாரணைக்குட்படுத்தப்பட்ட நிலையில், அவர்களை நீதிமன்றில் ஆஜர்படுத்திய வேளை பெப்ரவரி 21 வரை விளக்கமறியலில் வைக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The court has ordered that the main suspect, the wife of the former Navy soldier and his father, were arrested and interrogated, and the court has ordered them to be remanded until February 21.
 
-இருவரும் இன்று 8 ஆம் திகதி வியாழக்கிழமை அத்தனகல்ல  நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்டபோதே விளக்கமறியலில் வைக்குமாறு உத்தரவிடப்பட்டுள்ளது.
+The two have been ordered to be kept at the Attanagalla Magistrate's Court on Thursday 8th.
 
-கடந்த ஜனவரி 22 ஆம் திகதி பெலியத்தயில் இடம்பெற்ற துப்பாக்கிப் பிரயோகத்தில் எமது மக்கள் கட்சியின் தலைவர் சமன் பெரேரா உள்ளிட்ட ஐவர் உயிரிழந்தனர்.
+Five people, including our People's Party leader Saman Perera, were killed in a gunfight in Beliatta on January 22.
 
-இந்த துப்பாக்கிச் சூட்டுச் சம்பவத்துடன் தொடர்புடைய சந்தேக நபர்கள் 10 க்கும் மேற்பட்டவர்கள் கைது செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+More than 10 suspects have been arrested in connection with the shooting.
 
 ◼️
 
 [Data](articles/edb67a2c.json)
+
+[Extended Data](ext_articles/edb67a2c.ext.json)
 
 ---
 
@@ -364,21 +422,27 @@ At the same time, the Adrappirup of Police, OIC of the Police, OIC of the Police
 
 ---
 
-### ஜனாதிபதியின் சிறந்த வேலைத் திட்டத்தினால்  மக்களின் அபிலாஷைகள் நிறைவேற்றப்படுகின்றன - அமைச்சர் நிமல் சிறிபால டி சில்வா
+### The aspirations of the people are fulfilled by the president's best program - Minister Nimal Siripala de Silva
 
 *2024-02-08 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/175924) · `ta`
 
-ஜனாதிபதி ரணில்  விக்கிரமசிங்கவின் தெளிவான பொருளாதார வேலைத் திட்டத்தின் கீழ் மக்களின் அபிலாசைகள் நிறைவேறும் வேலைத் திட்டங்கள் நடைமுறைப்படுத்தப்பட்டு வருகின்றன எனத் துறைமுகங்கள் விமான சேவைகள் மற்றும் கப்பல்துறை அமைச்சர் நிமல் சிறிபால டி சில்வா  தெரிவித்தார்.
+Ports, Airlines and Shipping Minister Nimal Siripala de Silva said that under the clear economic program of President Ranil Wickremesinghe, the people's aspirations are being implemented.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (08) இடம்பெற்ற ஜனாதிபதியின் கொள்கை விளக்க உரைமீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+He said this while addressing a debate on the President's policy speech held in Parliament on Thursday (08).
 
-நாட்டைக் கட்டியெழுப்பும் அரசாங்கத்தின் வேலைத்திட்டத்திற்குச் சர்வதேசமும் தமது வாழ்த்துக்களைத் தெரிவித்து வரும் நிலையில் சர்வதேச ரீதியில் எமது நாடு மீதான நம்பிக்கை தொடர்ச்சியாக அதிகரித்து வருகிறது சர்வதேசத்துடன் இணைந்து செயல்படாமல் எம் போன்ற நாட்டின் பொருளாதாரத்தை முன்னேற்றுவது அசௌகரியமான விடயமாகும்.
+As the international congratulations to the government's plan to build the country, the confidence in our country is continuously increasing in the international community.
 
-நாட்டின் சுற்றுலாத்துறை தற்போது சிறந்த முன்னேற்றம் அடைந்து வருகிறது. கடந்த மாதத்தில் மாத்திரம் இரண்டு இலட்சம் சர்வதேச சுற்றுலாப் பயணிகள் இலங்கைக்கு வருகை தந்துள்ளனர்.போராட்ட காலத்தில் 25 சுற்றுலாப் பயணிகள் கூட நாட்டுக்கு வராத நிலையில் தற்போது சுற்றுலாத்துறை சிறந்த முன்னேற்றம் கண்டுள்ளது.
+The country's tourism industry is currently making better improvement. Two hundred thousand international tourists visited Sri Lanka last month alone.
 
-...
+The president -led government has been able to contribute to the country's economic development. In this country, which is not even a dollar in the country, is currently found in $ 4.4 billion in stock. This is the benefit of President Ranil Wickremesinghe's clear economic program,
+
+As well as this year's presidential election. So get ready to face it. We too are ready.
+
+◼️
 
 [Data](articles/d5194f97.json)
+
+[Extended Data](ext_articles/d5194f97.ext.json)
 
 ---
 
@@ -395,6 +459,8 @@ The MP further highlighted a significant discrepancy of a thousand billion rupee
 ◼️
 
 [Data](articles/744493d6.json)
+
+[Extended Data](ext_articles/744493d6.ext.json)
 
 ---
 
@@ -413,6 +479,8 @@ They will be "a combination of the most precious metals from the medals -- gold,
 ...
 
 [Data](articles/64b0501b.json)
+
+[Extended Data](ext_articles/64b0501b.ext.json)
 
 ---
 
@@ -2095,25 +2163,5 @@ One of the suspects who fell ill is the suspect who had allegedly shot and kille
 [Data](articles/1d762a6e.json)
 
 [Extended Data](ext_articles/1d762a6e.ext.json)
-
----
-
-### Sri Lanka govt expediting development projects targeting election: PAFFREL
-
-*2024-02-08 12:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-govt-expediting-development-projects-targeting-election-paffrel-150361/) · `en`
-
-ECONOMYNEXT — Sri Lanka will definitely call a presidential election by July 2024, election observer PAFFREL said, accusing the government of expediting development programmes targeting the coming presidential poll.
-
-Chairman of the People’s Action for Free & Fair Elections (PAFFREL) Rohana Hettiarachchi told reporters on Friday February 08 that a circular issued by the presidential secretariat in January has directed officials to complete all 2024 development projects initiated under a 10-year plan to develop the hill country by July this year.
-
-“The government is prioritising elections that it has a higher probability of winning over other elections that the people are currently owed,” said Hettiarachchi, referring to the long delayed local government elections.
-
-He urged Prime Minister Dinesh Gunawardena who hold the local government portfolio to see to it that those elections aren’t further postponed.
-
-...
-
-[Data](articles/e21de5d1.json)
-
-[Extended Data](ext_articles/e21de5d1.ext.json)
 
 ---

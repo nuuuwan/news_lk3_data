@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 21:52:02**
+As of **2024-02-08 22:03:33**
 
 ## Newspaper Stats
 
-*Scraped **5,794** Articles*
+*Scraped **5,812** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,117 @@ dbsjeyarajcom | 142
 islandlk | 300
 economynextcom | 307
 dailyftlk | 316
-newsfirstlk | 362
+newsfirstlk | 363
 adalk | 491
-virakesarilk | 713
 adaderanalk | 715
 tamilmirrorlk | 716
-adaderanasinhalalk | 763
-dailymirrorlk | 820
+virakesarilk | 721
+adaderanasinhalalk | 765
+dailymirrorlk | 827
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,794 (100.0%) of 5,794 articles have been extended.
+5,794 (99.7%) of 5,812 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### சாந்தனுக்கான கடவுச்சீட்டு அனுப்பி வைக்கப்பட்டுள்ளது
+
+*2024-02-08 21:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175928) · `ta`
+
+சாந்தனை நாட்டுக்கு அழைத்து வருவதற்காக, அவருக்குரிய கடவுச்சீட்டு தேவைப்பட்ட நிலையில், இலங்கை குடிவரவு குடியகல்வு சட்டதிட்டங்களின் அமைவாக அவருக்குரிய கடவுச்சீட்டு (Passport) அனுப்பி வைக்கப்பட்டுள்ளது.
+
+இந்திய வெளியுறவுத்துறைக்குச் சாந்தனுடைய கடவுச்சீட்டு அனுப்பி வைக்கப்பட்டுள்ளதாக இலங்கை வெளியுறவு அமைச்சால்  அறியத்தரப்பட்டுள்ளது.
+
+இதன்படி, சாந்தன் இந்தியாவிலிருந்து இலங்கைக்குப் பயணம் செய்வதற்கான ஏற்பாடுகள் வருநாட்களில் இந்திய அரசு தரப்பினால் மேற்கொள்ளப்படவுள்ளது
+
+◼️
+
+[Data](articles/f8530cfe.json)
+
+---
+
+### அரசியலமைப்பு மீறல் செயற்பாட்டுக்குச் சபாநாயகர் துணைபோயுள்ளார் -  சஜித் பிரேமதாச குற்றச்சாட்டு
+
+*2024-02-08 21:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175927) · `ta`
+
+உயர்நீதிமன்றம் முன்வைத்த திருத்தங்களைப் புறக்கணித்தே நிகழ்நிலை காப்புச் சட்டம் நிறைவேற்றப்பட்டுள்ளது. அரசியலமைப்பு மீறல் செயற்பாட்டுக்குச் சபாநாயகர் துணை சென்றுள்ளார். சட்டத்தில் குறைபாடுகள் காணப்படுகின்றன என்பதை நீதியமைச்சர் ஏற்றுக்கொண்டுள்ளார். ஆகவே விசேட கட்சித் தலைவர் கூட்டத்தை ஏற்பாடு செய்யுங்கள் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச சபாநாயகரிடம் வலியுறுத்தினார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (8) இடம்பெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+நிகழ்நிலை  காப்புச் சட்டமூலம் தொடர்பில் உயர்நீதிமன்றம் முன்வைத்த  திருத்தங்களுக்கு அப்பாற்பட்ட வகையில் தான் சட்டமூலம் சட்டமாக்கப்பட்டுள்ளது. சட்டமூலத்தின் 11,16,19,20 ,27  உள்ளிட்ட சரத்துக்கள் உட்பட பெரும்பாலான சரத்துக்கள் திருத்தம் செய்யப்பட வேண்டும் அத்துடன்  16 மற்றும் 19 ஆவது சரத்துக்கள் நீக்கப்பட வேண்டும் என்று உயர்நீதிமன்றம் யோசனைகளை முன்வைத்துள்ளது.
+
+...
+
+[Data](articles/10fa2786.json)
+
+---
+
+### දකුණ ගැන උතුරු කොරියාව දැඩි තීරණයක් ගනී
+
+*2024-02-08 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193145) · `si`
+
+කොරියානු අර්ධද්වීපයේ උණුසුම් වාතාවරණය ඉදිරියේදී තවදුරටත් වර්ධනයවීමේ අවදානමක් මතුකරමින්, දකුණු කොරියාව සමග පවතින සියලු ආර්ථික සහයෝගීතාවන් අවසන් කිරීමට උතුරු  කොරියාව තීරණය කර තිබේ.
+
+උතුරු කොරියානු පාර්ලිමේන්තුව නැත්නම් උත්තරීතර මහජන සභාවේ නියෝජිතයන් ඒ සඳහා ඡන්දය ප්‍රකාශ කළ බව එරට රාජ්‍ය ප්‍රවෘත්ති සේවාව (KCNA) වාර්තා කළේය.
+
+කොරියානු මහජන පක්ෂය හෙවත් කොමියුනිස්ට් පක්ෂය මගින් ගනු ලබන තීරණ නීතිගත කරනු ලබන්නේ මෙම මහජන සභාව විසිනි.
+
+එහිදී දකුණු කොරියාව සමග පවතින සංචාරක ව්‍යාපෘතියට බලපැවැත්වන විශේෂ පාලන නීති අවලංගු කිරීමටත් මහජන සභාවේ නියෝජිතයන් ඡන්දය ප්‍රකාශ කර ඇත.
+
+2000 දශකය මුල් භාගයේ ආරම්භ කෙරුණු මවුන්ට් කුම්ගන් නැමැති එම සංචාරක ව්‍යාපෘතිය යටතේ මිලියන 2ක් පමණ දකුණු කොරියානුවන් උතුරේ සංචාරය කළේය.
+
+කොරියානු අර්ධද්වීපයේ නැගෙනහිර දේශසීමාවේ දර්ශනීය කඳු පෙළක් මෙම සංචාරක ව්‍යාපෘතියට කේන්ද්‍ර විය.
+
+2008 වසරේදී මෙම ව්‍යාපෘතිය අත්හිටුවනු ලැබුවේ ප්‍රවේශය සීමාවු ප්‍රදේශයකට පිවිසි දකුණු කොරියානු සංචාරකයෙකු උතුරු කොරියානු ආරක්ෂක හමුදා විසින් වෙඩි තබා ඝාතනය කිරීමෙන් අනතුරුවය.
+
+...
+
+[Data](articles/ca435e65.json)
+
+---
+
+### හදිසි තත්ත්වයක් වූ හුදකලාව
+
+*2024-02-08 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193144) · `si`
+
+හුදකලාව නොහොත් තනිකම කැලිෆෝනියාව තුළ 'මහජන සෞඛ්‍ය පිළිබඳ හදිසි තත්ත්වයක්' ලෙස ප්‍රකාශයට පත් කර තිබේ.
+
+ඊට අදාළ යෝජනාවක් කැලිෆෝනියා බලධාරීන් විසින් පසුගිය දා සම්මත කරගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+‘තනිකම‘ දීර්ඝ කාලීනව අහිතකර ප්‍රතිඵල අත්කර දෙන ගෝලිය සෞඛ්‍ය තර්ජනයක් විය හැකි බවට ලෝක සෞඛ්‍ය සංවිධානය ද පසුගිය වසරේ නොවැම්බර් මාසයේ දී ප්‍රකාශ කර තිබුණි.
+
+කිසියම් පුද්ගලයෙකු තනිව නැතහොත් හුදකලාවෙන් සිටින විට එය මානසික වශයෙන් මෙන්ම ශාරීරික වශයෙන් ද බලපෑම් එල්ල කරන අතර එවැනි පුද්ගලයින් හෘදයාබාධ, මානසික ආතතිය, ආඝාතය හා හදිසි මරණවලට ගොදුරු වීමේ හැකියාව පවතින බව ලෝක සෞඛ්‍ය සංවිධානය පෙන්වාදී ඇත.
+
+එමෙන්ම හුදකලාවෙන් පසුවන බොහෝ පිරිස් දුම්පානයට යොමුවීමේ ප්‍රවණතාවක් පවතින බවට ද නිරීක්ෂණය වී තිබේ.
+
+◼️
+
+[Data](articles/dbb67d94.json)
+
+---
+
+### Polls close across Pakistan after millions vote in election mired in controversy
+
+*2024-02-08 21:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Polls-close-across-Pakistan-after-millions-vote-in-election-mired-in-controversy/108-276619) · `en`
+
+Islamabad, Feb 08 (CNN) - Violence marred several of Pakistan’s polling stations on Thursday, as millions voted in an election in which old dynasties vied for power while the country’s widely popular former leader languishes behind bars.
+
+Polling stations across the country were beginning the count after polls closed on Thursday evening, according to Pakistan’s Electoral Commission.
+
+The much-anticipated election, already delayed for months, comes as the country of 220 million faces mounting challenges – from economic uncertainty and frequent militant attacks, to climate catastrophes that are putting its most vulnerable at risk.
+
+In a vivid illustration of the surging political violence in the run up to the vote, 30 people were killed in twin blasts targeting campaign offices in the country’s restive Balochistan province on Wednesday, which the Islamic State Pakistan Province militant group claimed responsibility for.
+
+...
+
+[Data](articles/b9958bde.json)
+
+---
 
 ### Two suspects remanded for attacking SLTB buses
 
@@ -56,6 +150,24 @@ Meanwhile, a group of employees of bus depot protest in front of the Breid of Bi
 
 ---
 
+### India’s Petronet LNG to supply liquefied natural gas to Sri Lanka from 2025
+
+*2024-02-08 20:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indias-Petronet-LNG-to-supply-liquefied-natural-gas-to-Sri-Lanka-from-2025/108-276617) · `en`
+
+India, Feb 08 (PTI) - Petronet LNG Ltd, India's biggest liquefied natural gas company, will in 2025 start supplying LNG to Sri Lanka, initially in containers loaded on ships and later going on to build an import terminal, its chief executive said on Thursday.
+
+Sri Lanka is seeking supply of gas in liquid form to meet requirements for generating electricity and other industries. It was in discussions with Petronet and other suppliers for years and it is only now that it has finally agreed to buy the fuel from the Indian firm.
+
+Petronet CEO Akshay Kumar Singh said the company will ship 850 tonnes of gas daily to the island nation in containers of 17 tonnes each. The supplies would be for five years during which the company will build a floating LNG receipt facility at Colombo port.
+
+The Indian firm imports LNG from Qatar, Australia and other countries at two terminals - Dahej terminal in Gujarat and a facility at Kochi in Kerala.
+
+...
+
+[Data](articles/576f9eaa.json)
+
+---
+
 ### India to begin LNG supplies to Sri Lanka in 2025
 
 *2024-02-08 20:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97124/india-to-begin-lng-supplies-to-sri-lanka-in-2025) · `en`
@@ -73,6 +185,84 @@ The Indian firm imports LNG from Qatar, Australia and other countries at two ter
 [Data](articles/ac09c0e7.json)
 
 [Extended Data](ext_articles/ac09c0e7.ext.json)
+
+---
+
+### US Supreme Court begins hearing case on whether to disqualify Trump from presidential election
+
+*2024-02-08 20:38:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/us-supreme-court-begins-hearing-case-on-whether-to-disqualify-trump-from-presidential-election/) · `en`
+
+Colombo (News 1st) – The U.S. Supreme Court on Thursday (8th) commenced hearing one of the most crucial cases in American history, which will decide whether former President Donald Trump should be disqualified from once again running for election, U.S. media reported.
+
+Trump is challenging a verdict by the Supreme Court of the state of Colorado last December, that disqualified him from having his name appear on the ballot paper in that state, in the presidential election scheduled for November 2024. His candidacy has been challenged in 35 of the 50 states, all of which would be determined by the verdict in the Colorado case.
+
+...
+
+[Data](articles/b6e0a3a9.json)
+
+---
+
+### அயோத்தி ராமர் கோவிலுக்குச் விஜயம் செய்யவுள்ளார் நாமல்
+
+*2024-02-08 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175920) · `ta`
+
+நாமல் ராஜபக்ஷ இந்தியாவில் உள்ள அயோத்தி ராமர் கோயிலுக்கு தனிப்பட்ட ரீதியில் விஜயம் மேற்கொள்ளவுள்ளார்.
+
+இரு நாட்கள் தனிப்பட்ட ரீதியில் இந்தியாவுக்கு விஜயம் மேற்கொள்ளும் நாமல் ராஜபக்ஷ, 9 ஆம் திகதி மாலை ராமர் கோவிலில் சிறப்பு தரிசனம் மற்றும் பூஜை வழிபாடுகளில் ஈடுபடவுள்ளார்.
+
+அயோத்தி மற்றும் புதுடில்லியில் தங்கியிருக்கும் காலங்களில் சில முக்கிய பிரமுகர்களை தனிப்பட்ட முறையில் நாமல் ராஜபக்ஷ சந்திப்பார் எனவும் எதிர்பார்க்கப்படுகிறது.
+
+ராஜபக்சவின் அயோத்தி ராம் கோவிலுக்கான விஜயம் இலங்கைக்கும் இந்தியாவுக்கும் இடையிலான கலாச்சார மற்றும் மத உறவுகளை வலுப்படுத்துவதற்கான அர்ப்பணிப்பை பிரதிபலிப்பதாக அமையும் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c374747a.json)
+
+---
+
+### பல்கலைக்கழக விரிவுரையாளர்கள் பெற்ற கடனில் 1,300 மில்லியன் ரூபாவை மீள செலுத்த தவறியுள்ளனர்  - நிதி அமைச்சர்
+
+*2024-02-08 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175908) · `ta`
+
+பல்கலைக்கழக விரிவுரையாளர்கள் உயர்கல்விக்காக வெளிநாடுகளுக்கு செல்வதற்கு அரச வங்கிகள் மூலம் 1,300 மில்லியன் ரூபாவை கடனாக பெற்றுக் கொண்டுள்ளபோதும் அதனை மீளச் செலுத்த தவறியுள்ளனர் என  நீதியமைச்சர் விஜேதாச ராஜபக்ஷ் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச எழுப்பிய கேள்வியொன்றுக்குப் பதிலளிக்கும் போதே இவ்வாறு தெரிவித்தார்
+
+மக்கள் வங்கி மற்றும் இலங்கை வங்கி ஆகியவை நாட்டின் தேசிய பொருளாதாரத்தை மேம்படுத்துவதற்காகவே ஆரம்பிக்கப்பட்டன. குறிப்பாக அந்த வங்கிகள் மூலம் விவசாயத்துறை மற்றும் கைத்தொழில் துறையை முன்னேற்றுவதற்கு பல்வேறு நடவடிக்கைகள் மேற்கொள்ளப்பட்டுள்ளன.
+
+ஸ்ரீமாவோ பண்டாரநாயக்கவின் காலத்தில் அனைத்து விவசாய நிறுவனங்களிலும் இலங்கை வங்கி கிளை இயங்கி வந்துள்ளது.
+
+அந்தந்த பிரதேசங்களில் வாழும் மக்கள் தமது விவசாய நடவடிக்கைகளுக்காக கடன் வழங்கும் நடைமுறையை அந்த வங்கிகள் முன்னெடுத்தன.
+
+அந்த வகையில் இலங்கை வங்கி மற்றும் மக்கள் வங்கி ஆகியன அவ்வாறு வழங்கியுள்ள மூன்றாம் கட்ட கடனில் 602 பில்லியன் ரூபா கடன் பெற்றுள்ளவர்களால் மீள செலுத்தப்படாமல் உள்ளது.
+
+...
+
+[Data](articles/fbcba6e3.json)
+
+---
+
+### Mendis confident as SL gears up for Afghan ODI Series
+
+*2024-02-08 20:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mendis-confident-as-SL-gears-up-for-Afghan-ODI-Series/108-276615) · `en`
+
+Colombo, Feb. 8 (Daily Mirror) - Sri Lanka's One Day International (ODI) Captain Kusal Mendis expressed confidence ahead of their clash against Afghanistan, starting at the Pallekele Stadium in Kandy tomorrow.
+
+Speaking at the pre-match media conference in Pallekele today, Mendis acknowledged the importance of performing well to improve on their ICC ODI Rankings.
+
+"Rankings are just a number and if we perform well we could climb in the rankings," he said.
+
+He attributed the drop in the ODI rankings was because they struggled in their previous outings. "We dropped in the ODI rankings because we failed to play better."
+
+Looking to build on their 3-0 clean sweep against Zimbabwe, Mendis said the team aims to finish the ODI series against Afghanistan also in style.
+
+He highlighted the team's balance in batting and bowling, emphasising their strategy of winning each match to improve their position.
+
+Commenting regarding the playing XI, Mendis hinted at minimal changes compared to the Zimbabwe series.
+
+...
+
+[Data](articles/84598596.json)
 
 ---
 
@@ -94,6 +284,18 @@ They cited in particular, the passing of the Online Safety Act, together with th
 
 ---
 
+### Kalubowila Hospital recognized for patient care
+
+*2024-02-08 19:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Kalubowila-Hospital-recognized-for-patient-care/110-276602) · `en`
+
+An event was held to recognize the wards and units of the Colombo South Teaching Hospital for outstanding patient care under the Productivity, Quality, and Patient Safety Competition. Dr. Palitha Mahipala, Secretary of the Ministry of Health, and Dr. Asela Gunawardena, Director-General of Health Services graced the event. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/cb00a097.json)
+
+---
+
 ### Man who ‘poisoned’ two suspects in police custody identified
 
 *2024-02-08 19:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97123/man-who-poisoned-two-suspects-in-police-custody-identified) · `en`
@@ -109,6 +311,26 @@ Two assailants on a motorcycle had opened fire in Jinthupitiya on January 25, le
 [Data](articles/1f2f4c84.json)
 
 [Extended Data](ext_articles/1f2f4c84.ext.json)
+
+---
+
+### பெலியத்தயில் ஐவர் சுட்டுப் படுகொலை: முன்னாள் கடற்படை சிப்பாயின் மனைவி, தந்தைக்கு விளக்கமறியல்
+
+*2024-02-08 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175922) · `ta`
+
+பெலியத்தயில் இடம்பெற்ற ஐவரின் படுகொலையுடன் தொடர்புடைய பிரதான சந்தேகநபரின் மனைவி மற்றும் தந்தை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+பிரதான சந்தேக நபரான முன்னாள் கடற்படை சிப்பாயின் மனைவி மற்றும் அவரது தந்தை ஆகியோர் கைதுசெய்யப்பட்டு விசாரணைக்குட்படுத்தப்பட்ட நிலையில், அவர்களை நீதிமன்றில் ஆஜர்படுத்திய வேளை பெப்ரவரி 21 வரை விளக்கமறியலில் வைக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+இருவரும் இன்று 8 ஆம் திகதி வியாழக்கிழமை அத்தனகல்ல  நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்டபோதே விளக்கமறியலில் வைக்குமாறு உத்தரவிடப்பட்டுள்ளது.
+
+கடந்த ஜனவரி 22 ஆம் திகதி பெலியத்தயில் இடம்பெற்ற துப்பாக்கிப் பிரயோகத்தில் எமது மக்கள் கட்சியின் தலைவர் சமன் பெரேரா உள்ளிட்ட ஐவர் உயிரிழந்தனர்.
+
+இந்த துப்பாக்கிச் சூட்டுச் சம்பவத்துடன் தொடர்புடைய சந்தேக நபர்கள் 10 க்கும் மேற்பட்டவர்கள் கைது செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/edb67a2c.json)
 
 ---
 
@@ -139,6 +361,58 @@ At the same time, the Adrappirup of Police, OIC of the Police, OIC of the Police
 [Data](articles/49967a36.json)
 
 [Extended Data](ext_articles/49967a36.ext.json)
+
+---
+
+### ஜனாதிபதியின் சிறந்த வேலைத் திட்டத்தினால்  மக்களின் அபிலாஷைகள் நிறைவேற்றப்படுகின்றன - அமைச்சர் நிமல் சிறிபால டி சில்வா
+
+*2024-02-08 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/175924) · `ta`
+
+ஜனாதிபதி ரணில்  விக்கிரமசிங்கவின் தெளிவான பொருளாதார வேலைத் திட்டத்தின் கீழ் மக்களின் அபிலாசைகள் நிறைவேறும் வேலைத் திட்டங்கள் நடைமுறைப்படுத்தப்பட்டு வருகின்றன எனத் துறைமுகங்கள் விமான சேவைகள் மற்றும் கப்பல்துறை அமைச்சர் நிமல் சிறிபால டி சில்வா  தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (08) இடம்பெற்ற ஜனாதிபதியின் கொள்கை விளக்க உரைமீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+நாட்டைக் கட்டியெழுப்பும் அரசாங்கத்தின் வேலைத்திட்டத்திற்குச் சர்வதேசமும் தமது வாழ்த்துக்களைத் தெரிவித்து வரும் நிலையில் சர்வதேச ரீதியில் எமது நாடு மீதான நம்பிக்கை தொடர்ச்சியாக அதிகரித்து வருகிறது சர்வதேசத்துடன் இணைந்து செயல்படாமல் எம் போன்ற நாட்டின் பொருளாதாரத்தை முன்னேற்றுவது அசௌகரியமான விடயமாகும்.
+
+நாட்டின் சுற்றுலாத்துறை தற்போது சிறந்த முன்னேற்றம் அடைந்து வருகிறது. கடந்த மாதத்தில் மாத்திரம் இரண்டு இலட்சம் சர்வதேச சுற்றுலாப் பயணிகள் இலங்கைக்கு வருகை தந்துள்ளனர்.போராட்ட காலத்தில் 25 சுற்றுலாப் பயணிகள் கூட நாட்டுக்கு வராத நிலையில் தற்போது சுற்றுலாத்துறை சிறந்த முன்னேற்றம் கண்டுள்ளது.
+
+...
+
+[Data](articles/d5194f97.json)
+
+---
+
+### Don’t trust Finance Ministry, Mahindananda warns Government
+
+*2024-02-08 18:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dont-trust-Finance-Ministry-Mahindananda-warns-Government/108-276616) · `en`
+
+Parliament, Feb 08 (Daily Mirror) - While expressing concerns towards the accuracy of data and figures provided by the Finance Ministry, Sri Lanka Podujana Peramuna (SLPP) MP Mahindananda Aluthgamage urged the President, government officials and the Cabinet to exercise caution in trusting the Ministry of Finance.
+
+During his parliamentary speech, Aluthgamage emphasized the necessity of scrutiny, citing instances where Ministry officials themselves admitted to erroneous data submissions to the Financial Fund.
+
+The MP further highlighted a significant discrepancy of a thousand billion rupees between the data furnished by the Ministry of Finance and the figures intended for use in the recent President's address to Parliament.
+
+◼️
+
+[Data](articles/744493d6.json)
+
+---
+
+### Paris Olympics medals to contain 'piece of Eiffel Tower'
+
+*2024-02-08 18:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Paris-Olympics-medals-to-contain-piece-of-Eiffel-Tower/108-276612) · `en`
+
+Paris, Feb. 8 (AFP) - The medals awarded at this year's Paris Olympics and Paralympics will feature a hexagon-shaped piece of iron taken from the original Eiffel Tower in their centre, organisers said as they unveiled the design on Thursday.
+
+All 5,084 gold, silver and bronze medals for the Paris Games will feature the six-edged metal medallion which will be set like a gemstone in the design by elite French jewellery house Chaumet.
+
+"We wanted to offer to all medal winners at the Paris Olympics and Paralympics a piece of the Eiffel Tower from 1889," said the head of the local organising committee, Tony Estanguet, at a televised ceremony.
+
+They will be "a combination of the most precious metals from the medals -- gold, silver and bronze -- with the most precious metal in our country, from this treasure that is the Eiffel Tower," he explained.
+
+...
+
+[Data](articles/64b0501b.json)
 
 ---
 
@@ -198,15 +472,39 @@ Premadasa accused the government of ignoring the court's recommendations on seve
 
 ---
 
+### Iceland volcano erupts again, molten rocks spew from fissures
+
+*2024-02-08 17:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iceland-volcano-erupts-again-molten-rocks-spew-from-fissures/108-276611) · `en`
+
+CNN, Feb 08 -  A volcano in Iceland erupted on Thursday for the second time this year, pumping lava up to 80 metres (260 feet) into the air in what is the sixth outbreak on the southwestern Reykjanes peninsula since 2021.
+
+Live video from the area showed fountains of bright-orange molten rock spewing from fissures in the ground, in sharp contrast to the still-dark night sky.
+
+“Warning: A volcanic eruption started north of Sylingarfell,” the country’s meteorological office said on its website.
+
+Intense earthquake activity began around 5:30 a.m. and the outbreak itself started some 30 minutes later, it added.
+
+The eruptive fissure was roughly 3 km (2 miles) long, the Met Office said, adding that the outbreak was believed to be in the same location as a Dec. 18 eruption.
+
+The nearby geothermal spa Blue Lagoon had closed on Thursday, it said.
+
+...
+
+[Data](articles/eb4ac821.json)
+
+---
+
 ### Opposition alleges move to postpone Presidential Election
 
 *2024-02-08 17:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Opposition-alleges-move-to-postpone-Presidential-Election/108-276610) · `en`
 
-Colombo, Feb 08 (Daily Mirror) - In a heated parliamentary session today, Samagi Jana Balawegaya (SJB) Member of Parliament, Lakshman Kiriella, accused the government of orchestrating a  delay of the upcoming Presidential Election.
+Colombo, Feb 08 (Daily Mirror) - There is a sinister move by the government to avoid holding the Presidential election in the guise of abolishing the Executive Presidency, Chief Opposition Whip Lakshman Kiriella told Parliament yesterday.
 
-Kiriella asserted that the President's Government Policy statement notably omitted any mention of the Presidential Election, fueling suspicions of ulterior motives.
+"The move is to abolish the Executive Presidency and buy time for it. The plan actually is to ask for a year to change the constitution," Kiriella said.
 
-Speaking in the Parliament, Kiriella outlined the alleged scheme, pointing to proposals for the abolishment of the executive presidency as a pretext for postponement. He argued that such a move would necessitate the drafting of a new Constitution, a process that could take at least a year.
+"We would request the government to at least hold local government polls. People want an election," he said.
+
+"The entire opposition will take to the streets if the Presidential election is postponed, " he also said.
 
 ◼️
 
@@ -588,6 +886,24 @@ It is learned that the police message and sub-service officers have advised that
 
 ---
 
+### ஜனாதிபதி தேர்தலை ஒரு வருட காலத்துக்கு பிற்போட அரசாங்கம் முயற்சி - கிரியெல்ல
+
+*2024-02-08 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/175884) · `ta`
+
+ஜனாதிபதியின் கொள்கை பிரகடனத்தில் ஜனாதிபதி தேர்தல் பற்றி குறிப்பிடப்படவில்லை. நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை இரத்து செய்யும் யோசனையை முன்வைத்து, ஜனாதிபதி தேர்தலை ஒருவருட காலத்துக்கு பிற்போட அரசாங்கம் விசேட கவனம் செலுத்தியுள்ளது.
+
+ஜனநாயகத்துக்கு எதிராக செயற்பட்டு விட்டு, பாராளுமன்றத்துக்குள் வந்து எதிர்க்கட்சிகளிடம் ஒத்துழைப்பு கோருவதற்கு வெட்கமில்லையா என எதிர்க்கட்சிகளின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (08) இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரையின் மீதான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க கடந்த காலங்களில் பாராளுமன்றத்தில் ஆற்றிய  சிம்மாசன பிரசங்கத்தை செவிமெடுத்து, வாத பிரதிவாதங்களை முன்வைத்தோம்.ஆனால் நேற்று பாராளுமன்றத்தில் இடம்பெற்ற கொள்கை பிரகடனத்தை நாங்கள் புறக்கணித்தோம்.ஜனநாயகத்துக்கு எதிரான ஜனாதிபதியின் செயற்பாடுகள் வன்மையாக கண்டிக்கத்தக்கது.
+
+...
+
+[Data](articles/ae0c7039.json)
+
+---
+
 ### Fall in vegetable prices
 
 *2024-02-08 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175877) · `ta`
@@ -700,13 +1016,13 @@ The suspects collapsed in their cell after consuming packets of milk, which were
 
 The officers involved in the case have been suspended pending the outcome of the investigation.
 
+US Supreme Court begins hearing case on whether to disqualify Trump from presidential election
+
 Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
 
 Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
 
-Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
-
-◼️
+...
 
 [Data](articles/0e052293.json)
 
@@ -1162,6 +1478,26 @@ The Minister further stated that the allowance of Rs..
 
 ---
 
+### நிகழ்நிலை காப்புச் சட்டம் : குறைபாடுகள் உள்ளதை ஏற்றுக்கொள்கிறோம் - நீதியமைச்சர்
+
+*2024-02-08 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/175883) · `ta`
+
+பாராளுமன்றத்தில் இயற்றப்பட்ட சட்டத்தை கேள்விக்குள்ளாக்கும் அதிகாரம் உயர்நீதிமன்றத்துக்கு கிடையாது. நிகழ்நிலை காப்புச் சட்டத்தில் ஒருசில குறைபாடுகள் உள்ளன என்பதை ஏற்றுக்கொள்கிறோம்.
+
+இதற்காக  முழு சட்டத்தையும் தீயிலிட முடியாது. பாராளுமன்றத்தின் ஊடக திருத்தங்களை கொண்டு வரலாம் என நீதி,சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் ஜனாதிபதி சட்டத்தரணி விஜயதாஸ ராஜபக்ஷ தெரிவித்தார்.
+
+பாராளுமன்றத்தில்  வியாழக்கிழமை (08) இடம்பெற்ற அமர்வின் போது உயர்நீதிமன்றத்தின் திருத்த யோசனைகளுக்கு அப்பாற்பட்டு நிகழ்நிலை காப்புச் சட்டம் இயற்றப்பட்டுள்ளது.
+
+ஆகவே விசேட கட்சித் தலைவர் கூட்டத்தை நடத்துங்கள் என எதிர்க்கட்சித் தலைவர்  சஜித் பிரேமதாச உட்பட எதிரணியின் உறுப்பினர்கள் சபாநாயகரிடம் வலியுறுத்தினர். இதன்போது எழுந்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+சட்டமியற்றல் தொடர்பில்  1978 ஆம் ஆண்டு அரசியலமைப்பில் தெளிவாக குறிப்பிடப்பட்டுள்ளது. தயாரிக்கப்படும் சட்ட வரைபின்  அரசியலமைப்பின் வகிபாகத்தை சட்டமா அதிபர் உறுதிப்படுத்தியதன் பின்னர் தான் சட்டவரைபு அமைச்சரவைக்கு சமர்ப்பிக்கப்படுகிறது.
+
+...
+
+[Data](articles/0bd25dbf.json)
+
+---
+
 ### Here are the 10 richest women in the world
 
 *2024-02-08 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193131) · `si`
@@ -1510,6 +1846,8 @@ Rividhanavi will also build the transmission line of 27.5 Km for the project and
 
 Rividhanavi (Pvt) Ltd. is a consortium of shareholders, Lakdhanavi Ltd., Windforce PLC and The Blue Circle PTE Ltd of Singapore. Investment is expected to be USD 132 Million.
 
+US Supreme Court begins hearing case on whether to disqualify Trump from presidential election
+
 Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
 
 Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
@@ -1616,6 +1954,8 @@ The Minister of Sports and Youth Affairs Harin Fernando has granted approval to 
 
 The 3 ODIs will be held on February 9, 11, 14 at the Pallekele International Cricket Stadium, according to the SLC. The day-night games will start at 02.30 p.m.
 
+US Supreme Court begins hearing case on whether to disqualify Trump from presidential election
+
 Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
 
 Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
@@ -1639,6 +1979,8 @@ COLOMBO (News 1st); An extraordinary gazette notification has been issued statin
 The gazette was issued by Secretary to the President E. M. S. B. Ekanayake.
 
 The extraordinary gazette notification states that the President, having consulted with the Prime Minister, has determined that the Ministerial Portfolio of Environment should be in his charge.
+
+US Supreme Court begins hearing case on whether to disqualify Trump from presidential election
 
 Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
 
@@ -1708,9 +2050,7 @@ Police teams will be deployed in buses, bus depots, railway stations and congest
 
 The Police Headquarters added that Police officers in uniform have also been stationed covering the main roads, to assist officers in civilian clothes.
 
-Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
-
-Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
+US Supreme Court begins hearing case on whether to disqualify Trump from presidential election
 
 ...
 
@@ -1775,359 +2115,5 @@ He urged Prime Minister Dinesh Gunawardena who hold the local government portfol
 [Data](articles/e21de5d1.json)
 
 [Extended Data](ext_articles/e21de5d1.ext.json)
-
----
-
-### Father's father found in Katarandra
-
-*2024-02-08 12:46:46* · [`adalk`](https://www.ada.lk/breaking_news/අතුරුදන්-පියාගේ-සිරුර-හෝමාගම-කැන්ඳලන්දෙන්-හමුවෙයි/11-407965) · `si`
-
-Homagama Police say that retired Labi Labor Homagama in Kathagama Homagama, which was served in the disappearance of the disappearance of four days, said the mysterious deaths were killed
-
-Police said the face and head had been seriously injured when he met the corpse
-
-The deceased has been identified as Milton Perera (62), a resident of Pannipitiya Rukma
-
-The police seized a mobile phone and betel container at the bodies
-
-Body has been found by the owner of the vegetable box that the owner of the vegetable box has a body of water near his vegetable box
-
-The deceased has traders and arrived in Kottawa and has lodged a complaint with the Kottawa Police that he had not come to the house.
-
-A police officer said there was yet to be revealed that the mic was entered into the area
-
-The deceased has been a short-dressing man and that the corpse was found in the uplifter and the underside.
-
-The body was placed at the Homagama Base Hospital and the post mortem examination is to be held
-
-◼️
-
-[Data](articles/186a789e.json)
-
-[Extended Data](ext_articles/186a789e.ext.json)
-
----
-
-### Prospect Of Trump Return Has Unnerved The Washington Swamp & Colluding Media
-
-*2024-02-08 12:46:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/prospect-of-trump-return-has-unnerved-the-washington-swamp-colluding-media/) · `en`
-
-The growing prospect of the return of Donald Trump to the White House despite the weaponized Department of Justice (DOJ) orchestrating a plethora of court cases against him has unnerved the establishment in Washington, D.C., afraid that he will ‘drain the swamp’. The moguls controlling the media in cahoots with those in the Democratic Party who are calling the shots in the White House in the context of a cognitively impaired Joe Biden have gone on overdrive to demonize Trump. Quite often Biden is literally not aware of his surroundings or what he is saying.
-
-...
-
-[Data](articles/c0255085.json)
-
-[Extended Data](ext_articles/c0255085.ext.json)
-
----
-
-### 3 police suspended from Ambu Street Police Station in Colombo
-
-*2024-02-08 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/175878) · `ta`
-
-Three policemen from the Colombo Street Street Police Station have been suspended.
-
-It is reported that two suspects who were arrested and detained at the police station have been suspended from work in connection with the incident of a poisonous milk package.
-
-◼️
-
-[Data](articles/9011ab6f.json)
-
-[Extended Data](ext_articles/9011ab6f.ext.json)
-
----
-
-### His wife complains of Sanath Nishantha's death
-
-*2024-02-08 12:35:31* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්ත-මහතාගේ-මරණය-සැක-යැයි-බිරිඳගෙන්-පැමිණිල්ලක්/11-407964) · `si`
-
-Former State Minister Sanath Nishantha's wife, Attorney Chamari Priyanka has lodged a complaint with the Criminal Investigation Department.
-
-Attorney Chamari Priyanka, who has been suspected of the death of the former state minister and is aimed at a meeting.
-
-◼️
-
-[Data](articles/fcac02fd.json)
-
-[Extended Data](ext_articles/fcac02fd.ext.json)
-
----
-
-### Online Safety Act gazetted under Ministry of Public Security
-
-*2024-02-08 12:35:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/online-safety-act-gazetted-under-ministry-of-public-security/) · `en`
-
-COLOMBO (News 1st); An extraordinary gazette notification has been issued including the Online Safety Act under the scope of the Ministry of Public Security.
-
-The gazette notification states the Online Safety Act has been included under the scope of the Ministry of Public Security with effect from the 7th of February, 2024.
-
-Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
-
-Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
-
-Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
-
-◼️
-
-[Data](articles/0fbe0865.json)
-
-[Extended Data](ext_articles/0fbe0865.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-02-08 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/175879) · `ta`
-
-The US dollar purchasing price was Rs 308.4949 and the sales price were 318.5839 based on the currency exchange rate released by the Central Bank on Thursday (February 08).
-
-◼️
-
-[Data](articles/aa07961d.json)
-
-[Extended Data](ext_articles/aa07961d.ext.json)
-
----
-
-### Maldivian Chief of Defense Force arrives in Sri Lanka
-
-*2024-02-08 12:34:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/maldivian-chief-of-defense-force-arrives-in-sri-lanka/) · `en`
-
-COLOMBO (News 1st); Maldivian Chief of Defense Force Lieutenant General Abdul Raheem Abdul Latheef has arrived in Sri Lanka.
-
-The Ministry of Defence said he will meet Secretary of Defense General Kamal Gunaratne (Retd) on Thursday (08).
-
-The Ministry of Defence announced that the Chief of Defense Force of the Maldives is also scheduled to meet the Army Commander on Thursday (08) afternoon.
-
-He arrived in the country based on an invitation by the Defence Services Command and Staff College in Batalanda.
-
-He is a graduate of the Sri Lanka Defense Services Command and Staff College.
-
-Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
-
-Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
-
-Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
-
-◼️
-
-[Data](articles/eb9e556e.json)
-
-[Extended Data](ext_articles/eb9e556e.ext.json)
-
----
-
-### Pope hits back at critics of blessings for same-sex couples
-
-*2024-02-08 12:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pope-hits-back-at-critics-of-blessings-for-same-sex-couples/108-276594) · `en`
-
-Feb 8 (CNN) - Pope Francis has hit back at those criticizing his decision to allow blessings for same-sex couples, saying the critics are guilty of hypocrisy.
-
-“No one is scandalized if I give a blessing to an entrepreneur who perhaps exploits people: and that is a most serious sin,” the Pope said in an interview in the latest edition of Italian magazine Credere, to be published on Thursday, February 8.
-
-“Whereas they are scandalized if I give it to a homosexual… This is hypocrisy! We all have to respect each other. Everyone! The heart of the document is welcome.”
-
-Last year, the 87-year-old Pontiff authorized priests to offer informal blessings of couples in “irregular” unions in a landmark document issued on December 18, 2023. It is the first time the Vatican has allowed for such blessings, having previously forbidden any such move.
-
-...
-
-[Data](articles/fbac6a2a.json)
-
-[Extended Data](ext_articles/fbac6a2a.ext.json)
-
----
-
-### Woman Doctor Sexual Abuse: Doctor arrested in Aranayaka
-
-*2024-02-08 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175875) · `ta`
-
-Police have arrested a doctor for allegedly sexually abusing a woman doctor at the Mawanella Aranayaka District Hospital.
-
-A 28 -year -old female doctor working at the Aranayaka District Hospital has been sexually abused by the suspect.
-
-The father of the woman's doctor, Kegalle, was arrested today (08) after lodging a complaint with the Children's and Women's Bureau.
-
-Police have received the affidavits of the doctor who is allegedly abused and the five on duty at the time of the incident.
-
-◼️
-
-[Data](articles/e3d4bfa9.json)
-
-[Extended Data](ext_articles/e3d4bfa9.ext.json)
-
----
-
-### Credited accident
-
-*2024-02-08 12:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193129) · `si`
-
-Kalutara South Police say that a youth has died in a crash with a motorcycle.
-
-The deceased has been identified as a 19-year-old youth, who was resident of the Katukurunda, Kalutara.
-
-The victim was a wall that collided with a nearby wall, near the Hinatiyanna Bridge near the Hynatiyangla Bridge.
-
-The youth has been taken to the Nagoda Teaching Hospital in Kalutara with a serious injuries and was taken to the Nagoda Teaching Hospital in Kalutara.
-
-◼️
-
-[Data](articles/48db19f5.json)
-
-[Extended Data](ext_articles/48db19f5.ext.json)
-
----
-
-### Three persons, including Biku, tried to sell gems
-
-*2024-02-08 12:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணிக்கற்களை-விற்க-முயற்சித்த-பிக்கு-உட்பட-மூவர்-கைது/175-332890) · `ta`
-
-Kosalanda police said that two persons, including a Piku, were arrested for trying to sell two blue gemstones worth Rs 370 million.
-
-They were arrested during a roundup by Koslanda police on confidential information received by the Army Intelligence Unit.
-
-The arrested Piku lives in the Weliweriya area and the other suspects are 72 years old and are the father of a local politician of a popular political party.
-
-◼️
-
-[Data](articles/91a190de.json)
-
-[Extended Data](ext_articles/91a190de.ext.json)
-
----
-
-### Three arrested, including Biku, tried to sell the gem
-
-*2024-02-08 12:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணிக்கத்தை-விற்க-முயற்சித்த-பிக்கு-உட்பட-மூவர்-கைது/175-332890) · `ta`
-
-Kosalanda police said that two persons, including a Piku, were arrested for trying to sell two blue gemstones worth Rs 370 million.
-
-They were arrested during a roundup by Koslanda police on confidential information received by the Army Intelligence Unit.
-
-The arrested Piku lives in the Weliweriya area and the other suspects are 72 years old and are the father of a local politician of a popular political party.
-
-◼️
-
-[Data](articles/c74cfe68.json)
-
-[Extended Data](ext_articles/c74cfe68.ext.json)
-
----
-
-### Permission
-
-*2024-02-08 12:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கழுத்தை-அறுத்துக்கொண்டவர்-அனுமதி/175-332889) · `ta`
-
-An incident in Kurunegala has taken place in his hand and cut off his neck.
-
-A man who had been addicted to drug use (ice and heroin) for a long time has been admitted to the hospital after a knife at the Kurunegala bus station has been admitted to the hospital.
-
-The person who lives in the Kurunegala area is addicted to drugs, police said.
-
-◼️
-
-[Data](articles/7212e37b.json)
-
-[Extended Data](ext_articles/7212e37b.ext.json)
-
----
-
-### Many United People's Power MPs, including Sarath Fonseka, meet the president!
-
-*2024-02-08 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/175873) · `ta`
-
-A meeting between President Ranil Wickremesinghe and United People's Power Member Field Marshal Sarath Fonseka took place yesterday (07) at the Presidential Office in Parliament.
-
-The meeting took place only after President Ranil Wickremesinghe presented his manifesto at the beginning of the new session of Parliament.
-
-Meanwhile, some more MPs of the United People's Power met with the President in Parliament yesterday.
-
-◼️
-
-[Data](articles/30af253e.json)
-
-[Extended Data](ext_articles/30af253e.ext.json)
-
----
-
-### 19 more Indian fishermen apprehended for poaching in Sri Lankan waters
-
-*2024-02-08 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97110/19-more-indian-fishermen-apprehended-for-poaching-in-sri-lankan-waters) · `en`
-
-The Sri Lanka Navy, together with the Sri Lanka Coast Guard have seized 02 Indian trawlers and apprehended 19 Indian fishermen poaching in Sri Lankan waters near Delft Island, Jaffna last night (Feb. 07).
-
-The Northern Naval Command of Sri Lanka Navy had deployed Fast Attack Craft and Coast Guard to chase away a cluster of Indian poaching trawlers, having spotted them engaging in illegal fishing in Sri Lankan waters close to the Delft Island in the dark hours on Wednesday. Two poaching trawlers carrying 19 fishermen were apprehended as they continued to remain in Sri Lankan waters, the Navy said.
-
-The seized trawlers, together with the 19 fishermen, have been brought to the Kankesanturai Harbour and they will be handed over to the Mailadi Fisheries Inspector for onward legal proceedings, according to the Navy.
-
-With the new development, the Navy has held 12 Indian poaching trawlers and 88 Indian fishermen in island waters thus far in 2024 and handed them over to authorities for legal action.
-
-...
-
-[Data](articles/ba0c377f.json)
-
-[Extended Data](ext_articles/ba0c377f.ext.json)
-
----
-
-### Sports Minister greenlights Sri Lanka’s ODI squad for Afghanistan series
-
-*2024-02-08 11:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sports-Minister-greenlights-Sri-Lankas-ODI-squad-for-Afghanistan-series/108-276593) · `en`
-
-Colombo, Feb. 8 (Daily Mirror) - Minister of Sports and Youth Affairs Harin Fernando has approved the 16-member squad selected by the Sri Lanka Cricket Selection Committee to participate in the ODI series against Afghanistan.
-
-Former captain Dasun Shanaka has been excluded from the squad, while all-rounder Chamika Karunaratne has been included.
-
-The ODI series is scheduled to commence on February 9th in Pallekele.
-
-◼️
-
-[Data](articles/5e999200.json)
-
-[Extended Data](ext_articles/5e999200.ext.json)
-
----
-
-### Yukthiya Nets 728 suspects in past 24 Hours
-
-*2024-02-08 11:52:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/yukthiya-nets-728-suspects-in-past-24-hours/) · `en`
-
-COLOMBO (News 1st); Sri Lankan police and security forces apprehended a significant number of suspects across the country within a 24-hour period.
-
-A total of 728 individuals were arrested, with the focus primarily on curbing drug trafficking and addressing outstanding warrants.
-
-Among these, 14 individuals were identified as high-priority targets, appearing on the lists of both the Police Narcotics Bureau and the Police Special Bureau.
-
-The remaining 170 arrests addressed outstanding warrants issued by the criminal justice system.
-
-Of these, 18 individuals were wanted for prior drug offenses, and the remaining 145 suspects faced warrants for various non-drug-related offenses.
-
-Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
-
-Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
-
-Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
-
-◼️
-
-[Data](articles/8f79b406.json)
-
-[Extended Data](ext_articles/8f79b406.ext.json)
-
----
-
-### Here is the new Sri Lankan squad
-
-*2024-02-08 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193128) · `si`
-
-Sri Lanka squad has been named for the ODI tournament held between Sri Lanka and Afghanistan.
-
-February 9, 11 and 14 at the International Cricket Stadium in the Pallekele International Cricket played between Sri Lanka and Afghanistan.
-
-◼️
-
-[Data](articles/f51e9113.json)
-
-[Extended Data](ext_articles/f51e9113.ext.json)
 
 ---

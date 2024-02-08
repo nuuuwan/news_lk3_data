@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 18:20:03**
+As of **2024-02-08 18:32:46**
 
 ## Newspaper Stats
 
-*Scraped **5,774** Articles*
+*Scraped **5,775** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 141
 islandlk | 299
 economynextcom | 302
 dailyftlk | 316
-newsfirstlk | 360
+newsfirstlk | 361
 adalk | 489
 adaderanalk | 712
 virakesarilk | 713
@@ -26,23 +26,43 @@ dailymirrorlk | 820
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,767 (99.9%) of 5,774 articles have been extended.
+5,774 (100.0%) of 5,775 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### තලන්ගම ජයසිංහ දිවියෙන් සමුගනී
+### Talangamitha Jayasinghe retires to death
 
 *2024-02-08 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193141) · `si`
 
-ජ්‍යේෂ්ඨ මාධ්‍යවේදී ප්‍රවීණ පුවත්පත් කාටූන් නිර්මාණ ශිල්පී තලන්ගම ජයසිංහ මහතා අභාවප්‍රාප්ත වී තිබේ.
+Senior journalist veteran newspaper cartoon designer has passed away.
 
-පුවත්පත් චිත්‍රකතා සහ ගත්කතුවරයෙකුද වූ ඒ මහතා අතිශය රසික ජනාදරයට පත්වූ නිර්මාණ ශිල්පියෙකි.
+He was a designer who was a very fan paragux.
 
 ◼️
 
 [Data](articles/8c8d4e28.json)
+
+[Extended Data](ext_articles/8c8d4e28.ext.json)
+
+---
+
+### Opposition Vows to Fight “Unconstitutional” Online Safety Act
+
+*2024-02-08 17:48:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/opposition-vows-to-fight-unconstitutional-online-safety-act/) · `en`
+
+COLOMBO (News 1st); In a significant development today, the opposition leader raised concerns over the Online Safety Act, pointing out nine clauses that are allegedly not in line with the determination given by the Supreme Court.
+
+Despite these concerns, Justice Minister Dr. Wijeyadasa Rajapaksa maintained a firm stance, stating that no part of the passed Act can be altered.
+
+A heated exchange erupted in the Sri Lankan Parliament today between Opposition Leader Sajith Premadasa and Speaker Mahinda Yapa Abeywardena over the passing of the Online Safety Bill, which critics say violates Supreme Court rulings and disregards judicial guidance.
+
+Premadasa accused the government of ignoring the court's recommendations on several key clauses of the bill, including those pertaining to revoking internet access and addressing contempt of court. He highlighted the court's emphasis on the need for due process and magisterial oversight, both of which he claims are absent in the current legislation.
+
+...
+
+[Data](articles/70fdc586.json)
 
 ---
 
@@ -59,6 +79,8 @@ Speaking in the Parliament, Kiriella outlined the alleged scheme, pointing to pr
 ◼️
 
 [Data](articles/27eef5d2.json)
+
+[Extended Data](ext_articles/27eef5d2.ext.json)
 
 ---
 
@@ -82,37 +104,47 @@ Sri Lanka squad - Kusal Mendis (Leader), Charith Waniekage, Donus Wella, Dr. Aka
 
 ---
 
-### யாழ். சர்வதேச விமான நிலைய விஸ்தரிப்புக்காக காணி சுவீகரிப்பு : எதிர்ப்பு போராட்டங்களை முன்னெடுக்க தீர்மானம்
+### Yall. Land acquisition for international airport expansion: Resolution to carry out protest protests
 
 *2024-02-08 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175905) · `ta`
 
-யாழ்ப்பாணம் சர்வதேச விமான நிலைய விஸ்தரிப்புக்கு 500 ஏக்கர் காணிகளை சுவீகரிக்க முயற்சிகள் எடுக்கப்பட்டுள்ளதாக செய்திகள் வெளியாகியுள்ள நிலையில், அவற்றுக்கு எதிர்ப்பு தெரிவித்து போராட்டங்களை முன்னெடுக்க பல்வேறு தரப்புக்களும் தீர்மானித்துள்ளன.
+With news reports that 500 acres of land has been taken to expand the Jaffna International Airport, various parties have decided to carry out protests in protest.
 
-வலி.வடக்கு பிரதேசத்தில் இன்னமும் சுமார் 3 ஆயிரம் ஏக்கர் காணிகள் விடுவிக்கப்படாமல் உயர் பாதுகாப்பு  வலயமாக காணப்படும் நிலையில், காணிகளை விடுவிக்குமாறு, காணி உரிமையாளர்களால் பல வருடங்களாக கோரிக்கை முன் வைக்கப்பட்டு வருவதுடன் , காணி விடுவிப்பு போராட்டங்களையும் பல்வேறு தடவைகள் முன்னெடுத்துள்ளனர்.
+The land owners have been making a request for years to release the land and have been launching land release protests for years, with about 3 thousand acres of land in the North.
 
-இந்நிலையில், யாழ்ப்பாண சர்வதேச விமான நிலைய விஸ்தரிப்புக்கு என 500 ஏக்கர் காணிகளை சுவீகரிக்க நடவடிக்கைகள் எடுக்கப்பட்டுள்ளதாக செய்திகள் வெளியாகியுள்ளன.
+According to reports, 500 acres of land has been taken to expand the Jaffna International Airport.
 
-அதில், விடுவிக்கப்பட்டு மக்கள் மீள் குடியேறிய காணிகளையும் சுவீகரிக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும் தகவல்கள் வெளியாகியுள்ளன.
+It has also been reported that steps have been taken to acquire the land that has been released and resettled.
 
-...
+Lands in areas, including Kurumbasiti, Katuwan and Kuppilan North, will also be acquired. Residents of the area say that it includes the lands that have settled people.
+
+In this regard, the village organizations have recently decided to meet with the Minister of Fisheries Douglas Devananda, the Governor of the Northern Province and the Jaffna Mawatte Secretary to meet the first phase of the immediate stopping of their land acquisition plans.
+
+◼️
 
 [Data](articles/6aac4eec.json)
 
+[Extended Data](ext_articles/6aac4eec.ext.json)
+
 ---
 
-### எரிபொருள் விநியோகத்தை முன்னெடுக்கும் திட்டத்திலிருந்து அவுஸ்திரேலிய நிறுவனத்தை நீக்குவது தொடர்பில் அவதானம் - இராஜாங்க அமைச்சர் டீ.வி.சானக
+### State Minister TV Sanaka on the removal of Australian company from fuel supply
 
 *2024-02-08 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175915) · `ta`
 
-இலங்கையில் எரிபொருள் விநியோக நடவடிக்கைகளை முன்னெடுப்பதற்கு அனுமதியைப் பெற்றுக் கொண்டுள்ள அவுஸ்திரேலியாவின் யுனைடட் பெற்றோலியம் நிறுவனத்தைக் குறித்த திட்டத்திலிருந்து நீக்குவது தொடர்பில் அவதானம் செலுத்தப்பட்டுள்ளதாக மின்சக்தி மற்றும் வலு சக்தி இராஜாங்க அமைச்சர் டீ.வி.சானக தெரிவித்தார்.
+Minister of Power and Power and Strength TV Sanaka said that Australia's United Petroleum, who has obtained permission to carry out fuel supply operations in Sri Lanka, has been taken care of.
 
-ஜனாதிபதி ஊடக மையத்தில் வியாழக்கிழமை (08) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+He further stated this at a press conference held at the Presidential Media Center on Thursday (08).
 
-சைனோபெக் நிறுவனத்துக்கு எரிபொருள் விநியோக நடவடிக்கைகளுக்கு அனுமதியளிக்கப்பட்டமையால், எரிபொருள் இறக்குமதிக்காக வருடாந்தம் செலவிடப்படும் 500 மில்லியன் டொலரை அரசாங்கத்தால் மீதப்படுத்த முடிந்துள்ளது. இலங்கை பெற்றோலியக் கூட்டுத்தாபனம், லங்கா ஐ.ஓ.சி. மற்றும் சைனோபெக் ஆகிய நிறுவனங்களுக்கிடையில் போட்டி காணப்படுகிறது. இதன் மூலம் இனிவரும் காலங்களில் எரிபொருள் விலைகளில் மக்களுக்குச் சிறந்த நிவாரணம் கிடைக்கும் என்று நம்புகின்றோம்.
+The government has been able to resist $ 500 million annually for fuel imports due to permission for fuel supply operations to Sinobek.. Ceylon Petroleum Corporation, Lanka IOC. And the competition is found between Synobac. We hope that this will provide better relief to the people in fuel prices in the future.
+
+Currently in the United States RM. Park has deposited $ 3 million. The deposit has been deposited as a permit fee of $ 2 million and $ 1 million as a fixed deposit. So we expect this company to start its operations soon. But Australia's United Petroleum has requested time for time but has not maintained any deposits.
 
 ...
 
 [Data](articles/cd24fc10.json)
+
+[Extended Data](ext_articles/cd24fc10.ext.json)
 
 ---
 
@@ -138,25 +170,27 @@ DIG Deputy Inspector General of Police Sampath Liyanage Badulla Liyanage, Badull
 
 ---
 
-### புவி வெப்பமயமாதல் நிர்ணயிக்கப்பட்ட வரம்பை மீறியுள்ளது
+### Global warming has exceeded the limited limit
 
 *2024-02-08 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175904) · `ta`
 
-புவி வெப்பமயமாதலை 1.5 டிகிரி செல்ஷியஸுக்குள் கட்டுப்படுத்த உலக நாடுகளின் தலைவா்கள் வரம்பை நிா்ணயம் செய்தனா். ஆனால், நிா்ணயிக்கப்பட்ட அளவான 1.5 டிகிரி செல்ஷியஸை  முதல் முறையாக ஒரு வருடத்தில் கடந்து விட்டதாக ஐரோப்பிய ஒன்றியத்தின் காலநிலை சேவை தெரிவித்துள்ளது.
+The headquarters of the world's nations have been able to control global warming within 1.5 degrees Celsius. However, the European Union Climate Service said it had passed the first 1.5 degree Celsius in a year.
 
-2015 ஆம் ஆண்டு நடந்த பாரீஸ் ஒப்பந்தத்தில் புவி வெப்பமயமாதல்  அளவை 2 டிகிரி செல்சியஸ் குறைக்க ஒப்பந்தம் கையெழுத்தானது குறிப்பிடத்தக்கது.
+The 2015 Paris Agreement signed the contract to reduce global warming levels by 2 degrees Celsius.
 
-கார்பன் வெளியேற்றத்தை குறைப்பதற்கு அவசரமாக நடவடிக்கை எடுப்பதன் மூலம் புவி வெப்பமயமாதல் வேகம் குறைவடையும் என  விஞ்ஞானிகள் கூறுகின்றனர்.
+Scientists say that global warming speeds will slow down by taking urgent action to reduce carbon emitter.
 
-2023 ஆம் ஆண்டு முதல் இவ் வருடம்  ஜனவரி மாதம் வரையிலான காலப்பகுதியில் வெப்பமயமாதல் 1.52 டிகிரி செல்ஷியஸை  எட்டியுள்ளதாக ஐரோப்பிய ஒன்றியத்தின் கோப்பர்நிக்கஸ் காலநிலை மாற்ற சேவை தரவு சுட்டிக்காட்டியுள்ளது.
+The EU has reached 1.52 degrees Celsius from 2023 to January this year, the EU's Copenicus Climate Change Service data indicated.
 
-இதன் தொடர்ச்சியாக ஜனவரி மாதம் கடும் வெப்பம் நிலவிய எட்டாவது மாதமாக மாறியுள்ளது.
+Following this, January has become the eighth month of the heat.
 
-பசிபிக் பெருங்கடலில் கடல் மேற்பரப்பு வெப்பநிலை இயல்பை விட அதிகரிப்பது எல் நினோ எனப்படும்.
+El nio is the highest in the Pacific Ocean.
 
 ◼️
 
 [Data](articles/9f38c348.json)
+
+[Extended Data](ext_articles/9f38c348.ext.json)
 
 ---
 
@@ -204,19 +238,25 @@ He was speaking at a press conference held at the Pallekele Stadium in Kandy thi
 
 ---
 
-### ஒவ்வொரு 100 பிரஜைகளுக்கும் 1.5 இராணுவத்தினர் இலங்கையில் உள்ளனர் - எரான் விக்ரமரத்ன
+### There are 1.5 soldiers in Sri Lanka every 100 citizens - Eran Wickramaratne
 
 *2024-02-08 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/175893) · `ta`
 
-2024 வரவு செலவுத்திட்ட விவாதங்களின்போது, பாதுகாப்பு அமைச்சிற்கான வரவு செலவுத்திட்ட ஒதுக்கீடுகள் தொடர்பில் பாராளுமன்ற உறுப்பினர் எரான் விக்ரமரத்ன மூன்று கூற்றுகளை முன்வைத்துள்ளார். அவை: (1) பாதுகாப்பு அமைச்சுக்கான வரவு செலவுத்திட்ட ஒதுக்கீடு அதிகம், 2022 இல் இது மொத்த வரவு செலவுத் திட்டத்தின் 7%. (2) அதில் 60% சம்பளங்களுக்காகச் செலவிடப்பட்டுள்ளது (3) பிரஜைகளுக்கு அதிக எண்ணிக்கையிலான இராணுவத்தைக் கொண்ட (முதன்மையான 10) உலக நாடுகளில் ஒன்றாக இலங்கை உள்ளது.
+During 2024 Budget Debate. They are: (1) Budget allocation for the Ministry of Defense is high, 7% of the total budget in 2022. (2) Sri Lanka is one of the world's countries with a large number of military (10 first) world countries for citizens.
 
-பாராளுமன்ற உறுப்பினரின் கூற்றைச் சரிபார்க்க, 2023 வரவு செலவுத்திட்ட மதிப்பீடுகள் மற்றும் உலக வங்கியின் தரவை FactCheck.lk ஆராய்ந்தது.
+To verify the Member of Parliament, 2023 budget ratings and the World Bank's data was explored.lk.lk.
 
-கூற்று 1: 2022 மொத்த செலவினத்தில் பாதுகாப்பு அமைச்சிற்கான அரச செலவினம் 7.97 சதவீதமாக உள்ளது. 2023க்கான ஒதுக்கீடு மொத்த வரவு செலவுத்திட்டத்தின் 7 சதவீதமாக உள்ளது (அட்டவணை 1).
+Claim 1: 2022 State Expenditure for the Ministry of Defense is 7.97 per cent. The allocation for 2023 is 7 percent of the total budget (Table 1).
+
+Claim 2: Expenditure for personal wages, including salaries and wages, additional allowance and allowances, is 69.8 percent of the total expenditure of the Ministry of Defense by 2022.. The allocation for 2023 is 62.9 percent (Table 1).
+
+Member of Parliament should have mentioned the cost of 2023 instead of 2022. The cost of 2022 is even more. This strengthens the overall argument about his cost.
 
 ...
 
 [Data](articles/98040984.json)
+
+[Extended Data](ext_articles/98040984.ext.json)
 
 ---
 
@@ -234,17 +274,19 @@ Civil Social Organizations (CSOS) contributing to the preparation of the Third N
 
 ---
 
-### உத்தேச பயங்கரவாத எதிர்ப்புச் சட்டமூலத்துக்கு எதிராக 30 மனுக்கள் தாக்கல் - சபாநாயகர்
+### 30 petitions against the proposed anti -terrorism Bill - Speaker
 
 *2024-02-08 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175911) · `ta`
 
-உத்தேச பயங்கரவாத எதிர்ப்பு சட்டமூலத்துக்கு எதிராக  உயர் நீதிமன்றத்திற்கு இதுவரை 30 மனுக்கள் தாக்கல் செய்யப்பட்டுள்ளதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன சபைக்கு அறிவித்தார்.
+Speaker Mahinda Yapa Abeywardena informed the House that 30 petitions have been filed against the Supreme Court against the proposed anti -terrorism bill.
 
-பாராளுமன்றம் வியாழக்கிழமை இன்று வியாழக்கிழமை (08) காலை 9.30 மணிக்கு சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் கூடியதையடுத்து  இடம்பெற்ற  அறிவிப்பின் போதே இதனை சபைக்கு அறிவித்த சபாநாயகர், 2024 ஜனவரி 23 ஆம் திகதி அறிவித்தலில் குறிப்பிடப்பட்ட ஆறு மனுக்கள் மற்றும் 2024 ஜனவரி 24 ஆம் திகதி அறிவித்தலில் குறிப்பிடப்பட்ட பதினெட்டு மனுக்களுக்கு மேலதிகமாக, அரசியலமைப்பின் 121(1) ஆம் உறுப்புரையின் பிரகாரம் 'பயங்கரவாத எதிர்ப்பு' எனும் சட்டமூலம் தொடர்பாக உயர் நீதிமன்றத்திற்கு மேலும் 6 மனுக்கள் தாக்கல் செய்யப்பட்டுள்ளன, அவற்றின் பிரதிகள்  கிடைக்கப்பெற்றுள்ளன என சபைக்கு அறிவித்தார்.
+Speaker Mahinda Yapa Abeywardena's announcement was held at 9.30 am on Thursday (08) at 9.30 am, the Speaker, who announced it to the House on January 23, 2024, and the eleventh petitions mentioned on January 24, 2024, the Eighteen Petitions of the Constitution.According to the Article, 6 more petitions have been filed with the Supreme Court regarding the 'Anti -Terrorism' Bill and their copies have been received.
 
 ◼️
 
 [Data](articles/9eeb8625.json)
+
+[Extended Data](ext_articles/9eeb8625.ext.json)
 
 ---
 
@@ -2101,21 +2143,5 @@ The DIG, who communicates the people, will inform the people not to inform peopl
 [Data](articles/b5f9769d.json)
 
 [Extended Data](ext_articles/b5f9769d.ext.json)
-
----
-
-### Three police officers suspended
-
-*2024-02-08 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193125) · `si`
-
-Three officers of the Purdedu Street Police have banned the work.
-
-Two suspects arrested in connection with the shooting in the Jedanapitiya area have been arrested in connection with a drilling of milk packaged by an external room.
-
-◼️
-
-[Data](articles/18dfeab8.json)
-
-[Extended Data](ext_articles/18dfeab8.ext.json)
 
 ---

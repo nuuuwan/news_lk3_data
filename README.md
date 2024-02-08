@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 10:17:19**
+As of **2024-02-08 10:33:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 803
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,632 (99.9%) of 5,636 articles have been extended.
+5,636 (100.0%) of 5,636 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ The Public Security Ministry said the primary objective of this operation was to
 
 [Data](articles/b8bebcdf.json)
 
+[Extended Data](ext_articles/b8bebcdf.ext.json)
+
 ---
 
 ### Jagath Priyankara sworn in as MP to fill Sanath Nishantha’s vacancy
@@ -63,6 +65,8 @@ He was sworn in as a MP to fill the vacancy created by the sudden death of State
 ◼️
 
 [Data](articles/0831ba56.json)
+
+[Extended Data](ext_articles/0831ba56.ext.json)
 
 ---
 
@@ -169,6 +173,8 @@ He will also explore investment opportunities for Sri Lanka during the event.
 ◼️
 
 [Data](articles/c4dce947.json)
+
+[Extended Data](ext_articles/c4dce947.ext.json)
 
 ---
 
@@ -352,17 +358,19 @@ According to information received by the police, the doctor was abducted while i
 
 ---
 
-### ජනපති ඔස්ට්‍රේලියාවේ නිල සංචාරයකට
+### President visits an official visit to Australia
 
 *2024-02-08 07:47:58* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ඔස්ට්‍රේලියාවේ-නිල-සංචාරයකට/11-407957) · `si`
 
-ඉන්දීය පදනම සහ ඕස්ට්‍රේලියානු රජයේ ආරාධනාව අනුව 07 වන ඉන්දීය සාගර සමුළුවට සහභාගී වීම සදහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද දින අලුයම කටුනායක ගුවන් තොටුපොළෙන් ඕස්ට්‍රේලියාව බලා පිටත්ව ගොස් තිබේ .
+President Ranil Wickremesinghe left for Australia from the Bandaranaike International Airport this morning to attend the 7th Indian Ocean Conference on the Indian Foundation and the Australian Government invitation.
 
-මෙම සමුළුව එළඹෙන 09 සිට 10 දින දක්වා ඕස්ට්‍රේලියාවේ පර්ත් නුවර පැවැත්වීමට නියමිතය .
+The convention will be held from the 9 to 10th to 10 to 10 pm.
 
 ◼️
 
 [Data](articles/16d5605d.json)
+
+[Extended Data](ext_articles/16d5605d.ext.json)
 
 ---
 

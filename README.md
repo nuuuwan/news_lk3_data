@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 16:02:20**
+As of **2024-02-08 16:17:12**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ dailymirrorlk | 814
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,739 (100.0%) of 5,741 articles have been extended.
+5,741 (100.0%) of 5,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### ஜேவிபியின் இந்திய விஜயத்தை தொடர்ந்து இந்திய எதிர்ப்புகளை வெளியிடும் அரசியல் மத தலைவர்கள்
+### Political religious leaders who publish Indian opposition following JVP's visit to India
 
 *2024-02-08 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175898) · `ta`
 
-ஜேவிபி தலைவரின் இந்திய விஜயம் மத அரசியல் தலைவர்கள் இந்திய எதிர்ப்பு உணர்வை  வெளிப்படுத்தும் சூழ்நிலையை உருவாக்கியுள்ளது.
+The JVP leader's visit to India has created a situation where religious political leaders express the anti -Indian sentiment.
 
-இலங்கையின் இடதுசாரி ஜேவிபி தலைவர் அனுரகுமாரதிசநாயக்க இந்தியாவின் அழைப்பின் பேரில் அந்த நாட்டிற்கு விஜயம் மேற்கொண்டுள்ளதை தொடர்ந்து புதிய இந்திய எதிர்ப்பு உணர்வு வெளியாகியுள்ளது.
+Sri Lanka's left -wing JVP leader Anuragumaratisanayake has visited the country at the invitation of India.
 
-இலங்கையின் ஜனாதிபதி தேர்தல் குறித்த இந்தியாவின் நோக்கம்குறித்து அரசியல் மதத்தலைவர்கள் கேள்வி எழுப்பியுள்ளனர்.
+Political religious leaders have questioned India's aim of Sri Lanka's presidential election.
 
-முன்னொருபோதும் இல்லாதவகையில்  பிரதமர் நரேந்திரமோடியின் இந்தியா அரசாங்கம் ஜேவிபி தலைவர் அனுரகுமாரதிசநாயக்கவிற்கு இந்தியாவிற்கு ஐந்து நாட்கள் விஜயத்திற்கான அழைப்பை விடுத்துள்ளது.
+Prime Minister Narendra Modi's India government has issued an invitation to India for a five -day visit to India.
 
-இந்த விஜயத்தில் ஜேவிபியின் தலைவர் அனுரகுமார திசநாயக்க  இந்திய வெளிவிவகார அமைச்சர்  உட்பட முக்கிய தலைவர்களை சந்தித்துள்ளார்.
+JVP leader Anura Kumara Dissanayake met with prominent leaders, including the Indian Foreign Minister.
 
-ஜேவிபி 1971ம் ஆண்டும் 1988-89ம் ஆண்டுகளிலும் இரண்டு கிளர்ச்சிகளில் ஈடுபட்டது. சோசலிச நாட்டை உருவாக்குவதே இதன் நோக்கம்.
+JVP involved in two rebellion in 1971 and 1988-89. The purpose is to create a socialist country.
+
+The party, which has created extremists in the past, is currently the 55 -year -old leader.
+
+In the past, the JVP, which has expressed fierce opposition to many of Sri Lanka's agreements with India, has also said that Sri Lankans' opportunities will be lost due to Indian domination.
 
 ...
 
 [Data](articles/f84e4dd5.json)
+
+[Extended Data](ext_articles/f84e4dd5.ext.json)
 
 ---
 
@@ -74,25 +80,29 @@ The new law is assumed that the ability of employees will be able to create equa
 
 ---
 
-### යුද්ධ හමුදා පොලිසියේ උණ්ඩ 30ක මැගසිනයක්  අස්ථානගතවෙයි
+### Missing a magazine of 30 military police bullets
 
 *2024-02-08 15:03:58* · [`adalk`](https://www.ada.lk/breaking_news/යුද්ධ-හමුදා-පොලිසියේ-උණ්ඩ-30ක-මැගසිනයක්--අස්ථානගතවෙයි/11-407967) · `si`
 
-ශ්‍රී ලංකා යුද්ධ හමුදා පොලිස් හේවා බලකාය පොල්හේන්ගොඩ  කදවුරේ  ටි 56 ගිනි අවියකට අයත් උණ්ඩ 30 ක් පුරවන ලද මැගසිනයක්   අස්ථානගතව ඇති බවට කිරුළපන පොලිසිය වෙත පැමිණිල්ලක් ලැබී ඇතැයි  උසස් පොලිස් නිලධාරියෙක් පැවසීය
+Sri Lanka Army Police Hewa Balawa is a complaint with a complaint lodged with the Kirulapone Police have received a complaint that is missing 30 bullets in Polhengoda
 
-ඉකුත්   4 වෙනි දින සහ 7 වෙනි දිනයන් අතරතුරදී මෙය අස්ථානගතව ඇති බවට
+It is missing in the last 4 and 7 days and 7th
 
-අණ දෙන නිලධාරීවරයකු ලෙස කටයුතු කරන මේජර්වරයෙකු පැමිණිලි කර ඇත
+A Major who acts as a commander complained complained
 
-කඳවුරේ  මුරකුටි සඳහා එක් නිලධාරියකු වෙත ටී 56 ගිනි අවියක් ,උන්ඩ 120 ක් අඩංගු මැගසින් 4 ක් මෙන්ම පුචස් 1 ලබාදීම සිදුකරන බවත් ඉකුත් දින කීපය තුළ එයාකාරයෙන් නිලධාරීන් වෙත ලබා දී ඇතැයි පොලිසිය කියයි
+One officer in the camp is a T-56 rifle and 1 pchchs, as well as 1 puchs have been provided to the camp.
 
-ඉකුත් 5 වෙනි දින  රාත්‍රී රාජකාරී සඳහා නිලධාරීන් වෙත ගිනි අවි හා මැගසින් ලබාදීමේදී  මැගසින්  එකක් අස්ථානගතව ඇති බවට මැගසින්  ලබා දුන් නිලධාරීන් විසින්  අණ දෙන නිලධාරීවරයාව දැනුවත් කර තිබූ බව පොලිස් ආරංචි මාර්ග සඳහන් කරයි
+According to police sources, the Magazine has informed the Magazine that a magazine has been misplaced in firearms and magazines to officials on the 5th.
 
-අස්ථානගත වූ මැගසිනය කඳවුර තුළ ඇද්දැයි සොයා බැලුවද එය සොයා ගැනීමට නොහැකි වී ඇතැයි පොලිසිය සඳහන් කරයි
+The missing magazine has been found in the camp, but it is not unable to find it
 
-...
+Criminal Investigation Division OIC of the Criminal Investigation Division (CID) OIC of the Criminal Investigation Division (CID)
+
+◼️
 
 [Data](articles/9be90a3d.json)
+
+[Extended Data](ext_articles/9be90a3d.ext.json)
 
 ---
 

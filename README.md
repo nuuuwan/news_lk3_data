@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 10:50:39**
+As of **2024-02-08 11:02:23**
 
 ## Newspaper Stats
 
-*Scraped **5,647** Articles*
+*Scraped **5,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,179 +14,401 @@ dbsjeyarajcom | 141
 economynextcom | 296
 islandlk | 299
 dailyftlk | 316
-newsfirstlk | 345
-adalk | 474
-virakesarilk | 689
+newsfirstlk | 346
+adalk | 477
+virakesarilk | 694
 adaderanalk | 694
-tamilmirrorlk | 703
-adaderanasinhalalk | 744
+tamilmirrorlk | 706
+adaderanasinhalalk | 745
 dailymirrorlk | 803
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,636 (99.8%) of 5,647 articles have been extended.
+5,647 (99.8%) of 5,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### 19 தமிழக கடற்தொழிலாளர்கள் கைது
+### සිසු හෙද පුහුණුවට බඳවාගැනේ
+
+*2024-02-08 10:54:35* · [`adalk`](https://www.ada.lk/breaking_news/සිසු-හෙද-පුහුණුවට-බඳවාගැනේ/11-407961) · `si`
+
+සිසු හෙද පුහුණුවට බදවා ගැනීම සදහා මාතලේ, මහනුවර හා නුවරඑළිය  දිස්ත්‍රික්ක වලට අදාල සම්මුඛ පරීක්ෂණ 2024.02.10 (සෙනසුරාදා) දින මහනුවර හෙද විදුහලේ දී පැවැත්වීමට කටයුතු කරන බවට සෞඛ්‍ය අමාත්‍යංශය දැනුම්දෙයි.
+
+මීට අදාල තොරතුරු සෞඛ්‍ය අමාත්‍යංශයේ නිල වෙබ් පිටුව (https://www.health.gov.lk/) පරිශීලනය මගින් ද ලබාගත හැකි බවට දන්වා සිටියි.
+
+◼️
+
+[Data](articles/167c68ee.json)
+
+---
+
+### நிகழ்நிலை பாதுகாப்பு சட்டத்தை  பிரிட்டன் தொடர்ந்து கண்காணிக்கும் - பிரிட்டன் நாடாளுமன்றில் தகவல்
+
+*2024-02-08 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/175866) · `ta`
+
+பிரிட்டனின் வெளிவிவகார பொதுநலவாய அபிவிருத்தி இராஜாங்க அமைச்சர் ஆன் மேரி டிரெவெல்யான் இதனை பிரிட்டன் நாடாளுமன்றத்தில் தெரிவித்துள்ளார்.
+
+சர்வதேச இணையசேவை வழங்குநர்கள் உட்பட ஏனையவர்களின் கரிசனைகளிற்கு மத்தியில் பிரிட்டன் நிகழ்நிலை பாதுகாப்பு சட்டமூலத்தை நிறைவேற்றியுள்ளதாக பிரிட்டன் அமைச்சர் தெரிவித்துள்ளார்
+
+கடந்தவருடம் நான் இலங்கை ஜனாதிபதியை சந்தித்தவேளை இந்த சட்டம் கருத்து சுதந்திரம் பொருளாதார சுதந்திரத்தின் மீது ஏற்படுத்தக்கூடிய தாக்கங்கள் குறித்த கரிசனையை தெரிவித்திருந்தேன் என தெரிவித்துள்ள அவர் ஜனவரி 25ம் திகதி தென்னாசியாவிற்கான இராஜாங்க அமைச்சர் தாரிக் பிரபு இலங்கை வெளிவிவகார அமைச்சரை சந்தித்தவேளை இது குறித்த கரிசனையை வெளியிட்டார் எனவும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/127050a8.json)
+
+---
+
+### பல்கலைக்கழக மாணவர்களுக்கு வழங்கப்பட்ட வட்டியில்லா கடன் இதுவரை வழங்கப்படவில்லை - சஜித்
+
+*2024-02-08 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/175865) · `ta`
+
+கோடிக்கணக்கான கடன்களை செலுத்த தவறிய வர்த்தகர்களுக்கு அரசாங்கம் கடன் சலுகைகளை வழங்கிய போதிலும், பல்கலைக்கழக மாணவர்களுக்கு வழங்கப்பட்ட வட்டியில்லா கடன் இதுவரை வழங்கப்படவில்லையென  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+தனியார் பல்கலைக்கழகங்களில் கல்வி பயிலும் மாணவர்களுக்கு அவர்களின் உயர் கல்விக்காக வழங்கப்பட்டு வந்த வட்டியில்லா கடன் திட்டம் கடந்த காலங்களில் இடைநிறுத்தப்பட்டிருந்தது.
+
+ஐக்கிய மக்கள் சக்தி, இவ்விவகாரம் தொடர்பில் மீண்டும் பாராளுமன்றத்தின் கனவத்திற்கு கொண்டு வந்த போது கடனை வழங்குவதாக தெரிந்த போதிலும், தனியார் பல்கலைக்கழக மாணவர்களுக்கு கிடைக்க வேண்டிய கடன் வசதி இன்னும் கிடைக்கவில்லை என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று வியாழக்கிழமை (08) பாராளுமன்றத்தில் தெரிவித்தார்.
+
+கடனுதவி வழங்குவதற்கான அனுமதி மத்திய வங்கிக்கு அனுப்பி வைக்கப்பட்டுள்ளதாகவும், இதற்கான தீர்வுகள் வழங்கப்பட்டுள்ள போதிலும், அது இன்னும் நடைமுறைப்படுத்தப்படவில்லை.
+
+...
+
+[Data](articles/180f3317.json)
+
+---
+
+### பொதுப் போக்குவரத்தில் பெண்களுக்கு தொல்லை கொடுத்தவர்கள் உள்ளிட்ட 42 பேர் கைது
+
+*2024-02-08 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/175856) · `ta`
+
+நாடளாவிய ரீதியில் பொதுப் போக்குவரத்துச் சேவைகளில் சிறுவர்கள் மற்றும் பெண்களுக்கும் பாலியல் தொல்லை கொடுப்பவர்களை கண்டறியும் விசேட நடவடிக்கையை நேற்றையதினம் பொலிஸார் முன்னெடுத்தனர்.
+
+இதன்போது பாலியல் பாலியல் தொல்லைகொடுத்தவர்கள் உள்ளிட்ட 42 சந்தேக  நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+கைதுசெய்யப்பட்டவர்களில் பாலியல் தொல்லைகள் கொடுத்த 18 பேரும்,  பணப்பை திருட்டில் ஈடுபட்ட 5 பேரும் அடங்குவார்கள்.
+
+பொதுப்போக்குவரத்து சேவைகளில் இவ்வாறான சம்பவங்களை கட்டுப்படுத்த சிவில் உடை அணிந்த பல பொலிஸ் அதிகாரிகள் பணியில் ஈடுபடுத்தப்பட்டுள்ளதாக பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னக்கோன் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/eae69e19.json)
+
+---
+
+### இந்து சமுத்திர மாநாட்டில் "நிரந்தரமான மற்றும் நிலையான இந்து சமுத்திரத்தை நோக்கி"  என்ற தொனிப்பொருளில் உரையாற்றவுள்ள ஜனாதிபதி
+
+*2024-02-08 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175864) · `ta`
+
+7ஆவது இந்து சமுத்திர மாநாட்டில் பங்கேற்க அவுஸ்திரேலியாவுக்கு விஜயம் செய்துள்ள "நிரந்தரமான மற்றும் நிலையான இந்து சமுத்திரத்தை நோக்கி" என்ற தொனிப்பொருளில் நடைபெறும் இந்த ஆண்டு மாநாட்டில் ஜனாதிபதி ரணில் விக்ரமசிங்க பிரதான உரை நிகழ்த்த உள்ளார்.
+
+அவுஸ்திரேலியாவின் பேர்த் நகரில் நடைபெறும் 7ஆவது இந்து சமுத்திர மாநாட்டில் பங்கேற்பதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று வியாழக்கிழமை (08) அதிகாலை அவுஸ்திரேலியா பயணமானார்.
+
+இந்தியா மன்றம் மற்றும் அவுஸ்திரேலிய அரசாங்கத்தின் அழைப்பின் பேரில் இந்த மாநாட்டில்  பங்கேற்பதற்காக ஜனாதிபதி சென்றுள்ளதோடு, ஏழாவது இந்து சமுத்திர  மாநாடு பெப்ரவரி  மாதம் 9 மற்றும் 10 ஆம் திகதிகளில் அவுஸ்திரேலியாவின் பேர்த் நகரில் நடைபெறுகிறது.
+
+இந்து சமுத்திரத்தை அண்மித்த நாடுகள் மற்றும் இந்து சமுத்திரத்தை அதிகமாகப் பயன்படுத்தும்  ஏனைய நாடுகளைப் பாதிக்கும் பொதுவான அபிலாஷைகள் மற்றும் பிரச்சினைகள் தொடர்பில்  ஆராய்வதற்காக இந்து சமுத்திர மாநாடு 2016 இல்  ஆரம்பிக்கப்பட்டது.
+
+...
+
+[Data](articles/9ba9daf0.json)
+
+---
+
+### தேசிய மக்கள் சக்தியை பின்பற்றி இந்தியாவிற்கு விஜயம் மேற்கொள்வதற்கு ஐக்கிய மக்கள் சக்தி முயற்சி
+
+*2024-02-08 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175863) · `ta`
+
+தேசிய ஐக்கிய மக்கள் சக்தியின் தலைவர் அனுரகுமாரதிசநாயக்க இந்தியாவிற்கு விஜயம் மேற்கொண்டுள்ள நிலையில் அதுபோன்றதொரு வாய்ப்பை ஐக்கிய மக்கள் சக்தியும் கோரியுள்ளது.
+
+தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமாரதிசநாயக்க இந்தியாவிற்கு ஐந்து நாள் விஜயத்தினை மேற்கொண்டுள்ளார் இந்த விஜயத்தின் போது அவர் இந்திய வெளிவிவகார அமைச்சர் உட்பட முக்கிய தலைவர்களை சந்தித்து பேச்சுவார்த்தைகளை மேற்கொண்டுள்ளார்.
+
+ஜனாதிபதி தேர்தலிற்கு முன்னர் இவ்வாறான விஜயமொன்றின் மூலம் தேசியமக்கள் சக்திக்கு கிடைக்ககூடிய சாதகதன்மையை கருத்திலெடுத்துள்ள ஐக்கிய மக்கள் சக்தி  இந்தியாவிற்;கு விஜயம் மேற்கொள்வதற்கு விருப்பம் வெளியிட்டுள்ளது.
+
+◼️
+
+[Data](articles/942d4429.json)
+
+---
+
+### හමාස් ඉල්ලීම නෙතන්යාහු ඉවත දමයි
+
+*2024-02-08 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193124) · `si`
+
+හමාස් සංවිධානය විසින් යෝජනා කර ඇති සටන් විරාම කොන්දේසි ඊශ්‍රායලය විසින් ප්‍රතික්ෂේප කර තිබේ.
+
+විශේෂ ප්‍රකාශයක් සිදු කරමින් ඊශ්‍රායල අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහු පවසා ඇත්තේ, ඉදිරි මාස කිහිපය තුළ ගාසා තීරයේ ජයග්‍රහණය ලබාගත හැකි බවයි.
+
+ඒ අනුව ගාසා තීරයේ ජයග්‍රහණය සඳහා යුදමය තත්ත්වය මිස වෙනත් කිසිදු විසඳුමක් නොමැති බව ඊශ්‍රායල අග්‍රාමාත්‍යවරයා ප්‍රකාශ කර ඇත.
+
+ගාසා තීරයේ නව සටන් විරාම සැලසුමක් ඊශ්‍රායලය විසින් ඉදිරිපත් කර තිබූ අතර, ඊට සංශෝධන කිහිපයක් ඇතුළු කරමින්  හමාස් සංවිධානය ප්‍රතිචාර දක්වා තිබිණි.
+
+◼️
+
+[Data](articles/f4e6a58e.json)
+
+---
+
+### எம்.பியானார் ஜகத் பிரியங்கர
+
+*2024-02-08 10:30:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பியானார்-ஜகத்-பிரியங்கர/175-332879) · `ta`
+
+ஜகத் பிரியங்கர சற்று முன்னர் சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன முன்னிலையில் பாராளுமன்ற உறுப்பினராக சத்தியப்பிரமாணம் செய்து கொண்டார்.
+
+இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் திடீர் மரணத்தினால் ஏற்பட்ட வெற்றிடத்துக்கே அவர் பாராளுமன்ற உறுப்பினராக பதவியேற்று சத்தியப்பிரமாணம் செய்துகொண்டார்.
+
+◼️
+
+[Data](articles/95505a32.json)
+
+---
+
+### திருமணம் செய்த பெண் கைது
+
+*2024-02-08 10:30:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/திருமணம்-செய்த-பெண்-கைது/76-332878) · `ta`
+
+இலங்கையில் ஆண்ணொருவரை திருமணம் செய்து கொண்டு விசா இன்றி தந்தையுடன் தங்கியிருந்த எத்தியோப்பிய பெண், கண்டி சுற்றுலாத்துறை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+குறித்த பெண் இலங்கையை சேர்ந்த ஒருவரை திருமணம் செய்து அம்பிட்டிய பிரதேசத்தில் வசிப்பதாகவும், வெளிநாட்டு பெண், மீண்டும் வெளிநாட்டுக்குச் சென்றுவிடுவாரோ என அஞ்சிய இலங்கையை சேர்ந்த கணவர்   பெண்ணின் கடவுச்சீட்டு மற்றும் ஏனைய ஆவணங்களை மறைத்து வைத்துள்ளதாகவும் பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+எத்தியோப்பிய பெண் தனது முந்தைய திருமணமான எத்தியோப்பியாவில் தனது இரண்டு குழந்தைகளுடன் இந்த நாட்டிற்கு வந்துள்ளார், மேலும் அவரது விசா ஜனவரி 17 ஆம் திகதி காலாவதியானது, சம்பவம் குறித்து கண்டி சுற்றுலாப் பொலிஸ் பிரிவு இந்தியாவிலுள்ள எத்தியோப்பிய தூதரகத்திற்கு அறிவிக்க நடவடிக்கை எடுத்துள்ளது.
+
+◼️
+
+[Data](articles/eb9416f1.json)
+
+---
+
+### කප්පම් ගැනීම සදහා සිරකර රදවා තබාගෙන සිටි විශේෂ්ඥ වෛද්‍යවරයා  මුදවාගනී
+
+*2024-02-08 10:26:24* · [`adalk`](https://www.ada.lk/breaking_news/කප්පම්-ගැනීම-සදහා-සිරකර-රදවා-තබාගෙන-සිටි-විශේෂ්ඥ-වෛද්‍යවරයා--මුදවාගනී/11-407959) · `si`
+
+රුපියල් ලක්ෂ හතලිහක කප්පම් මුදලක් ලබා ගැනීම සදහා බදුල්ල ප්‍රදේශයේ විශේෂඥ වෛද්‍යවරයෙක් මීටියාගොඩ ප්‍රදේශයේ නිවසක බලහත්කාරයෙන් සිරකර ගෙන රදවා ගෙන සිටියදී ඊයේ (7) මුදවාගත් බව හික්කඩුව පොලීසිය කියයි.
+
+කප්පම් මුදල් ලබා ගැනීම සදහා සිරකර රදවා තබාගෙන සිටි විශේෂ්ඥ වෛද්‍යවරයා බදුල්ලේ ප්‍රසව හා නාරිවේද විශේෂඥ වෛද්‍යවරයෙක් බවත් ඔහු සිරකරගෙන සිටි විසිඅට හැවිරිදි උපකාර පංති ගුරුවරයා මීටියාගොඩ ප්‍රදේශයේම පදිංචි අයෙක් බවත් පොලීසිය කියයි
+
+පොලිස් සහන මැදිරියෙන් සිය පොලිස් ස්ථානයට විශේෂඥ වෛද්‍යවරයෙක් කප්පම් මුදලක් ලබා ගැනීම සදහා සිර කරගෙන සිටින බවට තොරතුරු ලබා දුන් බවත් ඒ සමගම විශේෂඥ වෛද්‍යවරයා සිරකරගෙන සිටින නිවසට යන ගූගල් සිතියමද එවා තිබූ බවත් පොලීසිය කියයි.
+
+පොලිස් සහන මැදිරියෙන් ලබාදුන් තොරතුරු හා ගූගල් සිතියම අනුව විශේෂඥ වෛද්‍යවරයා සිරකර ගෙන සිටි නිවස සොයා මෙහෙයුමක් ආරම්භ කළ බවත් ඒ අනුව යාමේදී මේ සිදුවීම හික්කඩුව පොලිස් බල ප්‍රදේශයට අයත් නොවන මීටියාගොඩ පොලිස් බල ප්‍රදේශයට අයත් එකක් බවත් ඒ සම්බන්ධයෙන් පොලීසියේ ඉහල නිලධාරීන්ගේ උපදෙස් හා මගපෙන්වීම අනුව මේ වැටලීමට ගිය බවත් හික්කඩුව පොලීසිය කියයි.
+
+...
+
+[Data](articles/a98629dc.json)
+
+---
+
+### போக்குவரத்தில் துஷ்பிரயோகம்:  42 பேர் கைது
+
+*2024-02-08 10:22:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போக்குவரத்தில்-துஷ்பிரயோகம்-42-பேர்-கைது/175-332877) · `ta`
+
+பொதுப் போக்குவரத்தில் சிறுவர்கள் மற்றும் பெண்களுக்கு எதிராக துஷ்பிரயோகம் செய்யும் நபர்களை இலக்கு வைத்து நாடளாவிய ரீதியில் மேற்கொள்ளப்பட்ட பொலிஸ் நடவடிக்கையின் போது 42 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனின் பணிப்புரையின் கீழ், நேற்று காலை 08.00 – 10.00 மற்றும் 17.00 – 19.00 வரை இந்த நடவடிக்கை மேற்கொள்ளப்பட்டது.
+
+அதன்படி, வீதிகள், பஸ் நிலையங்கள் மற்றும் புகையிரத நிலையங்களில் விசேட கவனத்துடன் பொலிஸ் உத்தியோகத்தர்கள் சிவில் உடையில் பஸ்களில் பயணித்தனர்.
+
+இதன்படி, பொது போக்குவரத்தில் சிறுவர்கள் மற்றும் பெண்களுக்கு எதிராக துஷ்பிரயோகம் செய்த 18 பேர் கைது செய்யப்பட்டுள்ளனர், மேலும் ஐந்து திருடர்கள் உட்பட 24 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+இந்த நடவடிக்கையின் முதன்மை நோக்கம் பொது போக்குவரத்து சேவைகளில் பாலியல் துஷ்பிரயோகத்தை எதிர்த்துப் போராடுவதாகும் என்று பொது பாதுகாப்பு அமைச்சகம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/5712e822.json)
+
+---
+
+### 19 Tamil Nadu fishermen arrested
 
 *2024-02-08 10:21:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/19-தமிழக-கடற்தொழிலாளர்கள்-கைது/71-332876) · `ta`
 
-நெடுந்தீவு கடற்பரப்பில் அத்துமீறி நுழைந்து மீன்பிடியில் ஈடுபட்ட குற்றச்சாட்டில் 19 தமிழக கடற்தொழிலாளர்கள் புதன்கிழமை (07)  இரவு கைது செய்யப்பட்டுள்ளனர்.
+19 Tamil Nadu fishermen have been arrested on Wednesday night (07) on charges of fishing.
 
-இதன்போது 2 படகுகளும் கைப்பற்றப்பட்டுள்ளதோடு, கைது செய்யப்பட்டவர்கள் காங்கேசன்துறை கடற்படை முகாமில் தங்கவைக்கப்பட்டுள்ளனர்.
+Two boats have been seized and the arrested persons have been placed in the Kankesanthurai Naval Camp.
 
-மேலும், கைது செய்யப்பட்டவர்களை நீரியல் வள திணைக்கள அதிகாரிகள் ஊடாக ஊர்காவற்றுறை நீதிமன்றத்தில் முற்படுத்த  நடவடிக்கை எடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+In addition, steps have been taken to appear in the Kayts Court by the Department of Aquatic Resources Department.
 
 ◼️
 
 [Data](articles/c1d27df5.json)
 
+[Extended Data](ext_articles/c1d27df5.ext.json)
+
 ---
 
-### අතවර චෝදනා ලද අරණායක රෝහලේ වෛද්‍යවරයා අත්අඩංගුවට
+### Man arrested for abuse
 
 *2024-02-08 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193123) · `si`
 
-අරණායක දිසා රෝහලේ රාජකාරිවල නිරත ව සිටි වෛද්‍යවරියකට ලිංගික අතවර කළ බවට චෝදනා එල්ල වූ එම රෝහලේම රාජකාරි සිදු කළ වෛද්‍යවරයා ව පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Police have arrested the doctor who had been accused of sexual abuse of a doctor in the Aranayaka Districts Hospital.
 
-අරණායක දිසා රෝහලේ සේවය නිරත ව සිටි 28 හැවිරිදි වෛද්‍යවරියකට මෙම ලිංගික අතවරය සිදු ව ඇති බව වාර්තා වේ.
+It is reported that this sex is a 28 year old medicine who was working in the Aranayaka District Hospital.
 
-සැකකාර වෛද්‍යවරයා බලහත්කාරයෙන් වෛද්‍යවරියගේ ‍රහස් ප්‍රදේශය අත ගෑ බවට වෛද්‍යවරියගේ පියා විසින් කෑගල්ල ළමා හා කාන්තා කාර්යාංශය වෙත පැමිණිල්ලක් ඉදිරිපත් කර ඇත.
+The doctor's father has lodged a complaint with the Children's and Women's Bureau in Kegalle that the suspect is forcibly involved in the doctor's secret area.
 
-ඒ අනුව අද (08) අරණායක පොලීසිය විසින් සැකකාර වෛද්‍යවරයා අත්අඩංගුවට ගෙන තිබේ.
+The suspect was arrested by the Aranayaka Police today (08).
 
-අත්අඩංගුවට ගෙන ඇත්තේ, අරණායක දිසා රෝහලේ සේවයේ නිරත ව සිටි 45 හැවිරිදි විවාහක වෛද්‍යවරයෙකි.
+The arrested are a 45 year old married doctor who was working at the Aranayaka District Hospital.
 
-අතවරයට ලක් වූ බව කියන වෛද්‍යවරියගෙන් සහ එම අවස්ථාවේ රාජකාරියෙ නිරත ව සිටි පස් දෙනෙකුගෙන් ප්‍රකාශ සටහන් කරගෙන ඇති අතර, සිද්ධියට මුහුණු දුන් වෛද්‍යවරිය කෑගල්ල ශික්ෂණ රෝහලේ අධිකරණ වෛද්‍යවරයා හමුවට ඉදිරිපත් කිරීමට නියමිත බව ද සඳහන් ය.
+It is also reported from five persons who were abused and duties were to be handed over to the doctor who faced the incident to the Judicial Medical Officer of the Kegalle Teaching Hospital.
 
 ◼️
 
 [Data](articles/71ce1e38.json)
 
+[Extended Data](ext_articles/71ce1e38.ext.json)
+
 ---
 
-### பக்தாத்தில் அமெரிக்கா ஆளில்லா விமானதாக்குதல் - ஈரான் சார்பு குழுவின் முக்கிய தளபதி பலி
+### US unmanned air strike in Bhaktad - Iran's main commander
 
 *2024-02-08 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175861) · `ta`
 
-ஈராக் தலைநகரில் அமெரிக்கா மேற்கொண்ட ஆளில்லா விமானதாக்குதலில் ஈரான்சார்பு ஆயுதகுழுவின் தளபதியொருவர் கொல்லப்பட்டுள்ளார்.
+A commander of the Iranian Armed Forces has been killed in a US unmanned air strike in the Iraq capital.
 
-கட்டாப் ஹெஸ்புல்லா அமைப்பின் தலைவர் ஒருவரும் அவரது இரண்டு மெய்ப்பாதுகாவலர்களும் பயணம் செய்துகொண்டிருந்த வாகனம் ஆளில்லா விமானதாக்குதலிற்கு இலக்காகியது எனவும்  பக்தாத் தலைநகரிலிருந்து கிழக்கே உள்ள பகுதியொன்றில் இடம்பெற்ற தாக்குதலில் மூவர் கொல்லப்பட்டனர் எனவும் தகவல்கள் வெளியாகியுள்ளன.
+According to reports, one of the head of the Gattab Hezbullah Organization and his two bodyguards were targeted for an unmanned air strike and three men were killed in an attack from the Bhaktad capital to the east.
 
-பிராந்தியத்தில் அமெரிக்க படையினருக்கு எதிரான தாக்குதல்களை வழிநடத்திய தளபதியே ஆளில்லா விமானதாக்குதலில் கொல்லப்பட்டுள்ளார்.
+The commander who led the attacks against US soldiers in the region has been killed in unmanned air strikes.
 
-ஜோர்தானில் அமெரிக்க தளம் மீது மேற்கொள்ளப்பட்ட ஆளில்லா விமானதாக்குதலிற்கும் இந்த குழுவிற்கும் தொடர்புள்ளதாக ஈரான் தெரிவித்துள்ளது.
+Iran has reported that the group is also involved in the unmanned air strike on the US base in Jordan.
 
-பக்தாத்தின் மஸ்டால் என்ற பகுதியிலேயே இந்த தாக்குதல் இடம்பெற்றுள்ளது பல வெடிப்புச்சத்தங்கள் கேட்டுள்ளன.
+The attack took place in the Mastal of Bhaktad, which has heard many explosions.
 
-சனசந்தடி நிறைந்த வீதியில் கார் துல்லியமாக தாக்கப்பட்டது இதனால் கார் முற்றாக எரியுண்டுள்ளது என பிபிசி தெரிவித்துள்ளது.
+The BBC said the car was completely hit by the car, which was completely hit by the road.
+
+The US Central Ordinance said the commander in charge of deliberately carrying out attacks against the US in the region has been killed.
+
+When BBC journalists went to the area, people shouted that the United States was great evil.
 
 ...
 
 [Data](articles/46babbef.json)
 
+[Extended Data](ext_articles/46babbef.ext.json)
+
 ---
 
-### ஜகத் பிரியங்கர பாராளுமன்ற உறுப்பினராக சபாநாயகர் முன்னிலையில் சத்தியப்பிரமாணம் !
+### Talk of the Town | Ending Impunity | Janaka Ratnayake | 08 February 2024
+
+*2024-02-08 10:09:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/talk-of-the-town-ending-impunity-janaka-ratnayake-08-february-2024/) · `en`
+
+Talk of the Town | Ending Impunity | Janaka Ratnayake | 08 February 2024
+
+Talk of the Town | Ending Impunity | Janaka Ratnayake | 08 February 2024
+
+◼️
+
+[Data](articles/d1120f05.json)
+
+---
+
+### Jagath Priyankara Member of Parliament
 
 *2024-02-08 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175860) · `ta`
 
-விபத்தில் உயிரிழந்த புத்தளம் மாவட்ட பாராளுமன்ற உறுப்பினர் இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் வெற்றிடமடைந்த பாராளுமன்ற ஆசனத்திற்கு ஜகத் பிரியங்கர சத்தியப்பிரமாணம் செய்துகொண்டார்.
+Puttalam District Parliamentarian Sanath Nishantha, who died in the accident, was sworn in the vacant parliamentary seat of Jagath Priyankara.
 
-இன்றையதினம் பாராளுமன்ற சபை நடவடிக்கைகள் சபாநாயகர் மகிந்த யாப்பா அபேவர்தன தலைமையில் ஆரம்பமாகியது.
+The proceedings of the Parliament today began under the leadership of Speaker Mahinda Yapa Abeywardena.
 
-பாராளுமன்ற நடவடிக்கை ஆரம்பிக்கும் போது ஜகத் பிரியங்கர பாராளுமன்ற உறுப்பினராக சபாநாயகர் முன்னிலையில் சத்தியப்பிரமாணம் செய்து கொண்டார்.
+At the beginning of parliamentary action, Jagath Priyankara took oaths in the presence of the Speaker as a Member of Parliament.
 
-விபத்தில் உயிரிழந்த புத்தளம் மாவட்ட பாராளுமன்ற உறுப்பினரான இராஜாங்க அமைச்சர் சனத் நிஷாந்தவினால் வெற்றிடமடைந்த ஆசனத்திற்கு ஜகத் பிரியங்கர சத்தியப்பிரமாணம் செய்துகொண்டார்.
+Puttalam district parliamentarian Sanath Nishantha, who died in the accident, was sworn in by Jagath Priyankara for a vacuum.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் பாராளுமன்றத்தில் முன்வைக்கப்பட்ட அரசாங்கத்தின் கொள்கை விளக்க உரை மீதான ஒத்திவைப்பு வேளை விவாதம் இன்று வியாழக்கிழமை (08) இடம்பெறுகின்றமை குறிப்பிடத்தக்கது.
+It is noteworthy that the debate on the government's policy speech presented in Parliament by President Ranil Wickremesinghe is being held on Thursday (08).
 
 ◼️
 
 [Data](articles/345bfc11.json)
 
+[Extended Data](ext_articles/345bfc11.ext.json)
+
 ---
 
-### தேரர் சுட்டுக்கொலை :  வாகனம், துப்பாக்கியை வழங்கியவர் கைது
+### Thera shot dead: Vehicle, gunman arrested
 
 *2024-02-08 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/175857) · `ta`
 
-கடந்த மாதம் கம்பஹா - மல்வத்துஹிரிபிட்டிய பிரதேசத்திலுள்ள விகாரை ஒன்றில் தேரர் ஒருவர் கொல்லப்பட்ட சம்பவத்துடன் தொடர்புடைய சந்தேகநபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+Last month, a suspect has been arrested in connection with the killing of a Thera in a Vihara in the Gampaha -Malwatuhiripitiya area.
 
-மேல் மாகாண வடக்கு குற்றத்தடுப்பு பிரிவினரால் குறித்த நபர் கைதுசெய்யப்பட்டுள்ளார். பிக்குவை கொலை செய்வதற்காக பயன்படுத்தப்பட்ட வாகனம் மற்றும் துப்பாக்கியை வழங்கிய நபரே இவ்வாறு கைதுசெய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A person arrested by Western Province Northern Crime Branch. Police said the man was arrested for the sake of a vehicle and a gun used to kill the monk.
 
-கம்பஹா மல்வத்துஹிரிபிட்டிய பிரதேசத்தில் கடந்த ஜனவரி மாதம் 23ஆம் திகதி அதிகாலையில் விகாரை ஒன்றில் துப்பாக்கிச் சூட்டு சம்பவம் இடம்பெற்றது.
+The incident took place in the early hours of January 23 in the Gampaha Malwathuhiripitiya area.
 
-குறித்த சம்பவத்தில் விகாரையில் இருந்த 45 வயதான கலப்பலுவாவே தம்மரதன தேரர் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பலனின்றி உயிரிழந்தமை குறிப்பிடத்தக்கது.
+The 45 -year -old Kalalawawe Tamaradana Thera was injured in the incident and died without treatment.
 
 ◼️
 
 [Data](articles/2e9c843e.json)
 
+[Extended Data](ext_articles/2e9c843e.ext.json)
+
 ---
 
-### අන්තර්ජාල සේවා අවහිර කෙරේ
+### Internet services are blocked
 
 *2024-02-08 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193122) · `si`
 
-මැතිවරණ දිනයේ දී අන්තර්ජාල සහ ජංගම දුරකථන සේවා වසා දැමීමට පාකිස්තානය තීරණය කර තිබේ.
+Pakistan has decided to close down the internet and mobile services on the election day.
 
-ඒ, පාකිස්තානයේ සිදු විය හැකි කැලඹිලි තත්ත්වයන් සහ ත්‍රස්තවාදී ක්‍රියාවන් පාලනය කිරීම සඳහා ය.
+It is to control the turmoil in Pakistan and control terrorist acts.
 
-ඡන්ද විමසීම හරහා ඇති විය හැකි අනපේක්ෂිත කැලඹිලි තත්ත්වයන් සඳහා පෙර සූදානමක් ලෙස මෙම පියවර ගෙන ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+According to foreign media reports, this step has been taken as a preposition for unexpected turmoil conditions.
 
-කෙසේ වෙතත් මේ හරහා මිලියන 241ක පමණ ජනතාවක් සිටින පාකිස්තානුවන්ගේ අයිතිවාසිකම් කඩ වීමක් සිදු වන බවට විවිධ මත පළ වී ඇත.
+However, it has been varied by a violent violation of the Pakistanis of about 241 million people.
 
 ◼️
 
 [Data](articles/9896158c.json)
 
+[Extended Data](ext_articles/9896158c.ext.json)
+
 ---
 
-### ව්‍යාපාරිකයාට අමතක වූ මැණික් මල්ල බස් රියදුරු උස්සලා
+### Business driver raised forgotten gemstone forgotten
 
 *2024-02-08 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193121) · `si`
 
-රුපියල් ලක්ෂ 25ක වටිනාකමින් යුත් මැණික් ගල් තොගයක් සොරකම් කළ බස් රථ රියදුරෙකු අවිස්සාවේල්ල පොලීසිය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+A bus driver was arrested by the Avissawella police.
 
-මැණික් ව්‍යාපාරිකයෙකු මැණික් ගල් 13ක් සහිත බෑගයක් රැගෙන අවිස්සාවේල්ල මාදොල ප්‍රදේශයට බස් රථයකින් පැමිණ ඇති අතර එහිදි ඔහු විසින් එම බෑගය අතපසුවීමකින් බස් රථයේ අසුන මත තබා ඉන් බැස ගොස් ඇති බව පොලීසිය පැවසුවේය.
+A gem business has taken a bus with 13 gem bags and he had left the bus on the seat of the bus.
 
-පසුව ඔහු යළි බස් රථයට ගොඩවී බෑගය සොයා බැලීමේ දී මැණික් ගල් අස්ථාන ගත වී ඇති බවට නිරීක්ෂණය වී තිබේ.
+Later, he was observed that the gem stone was unstable in searching for the bus.
 
-සිද්ධිය සම්බන්ධයෙන් අවිස්සාවේල්ල පොලීසියට සිදුකළ පැමිණිල්ලක් මත අදාළ බස් රථයේ රියදුරුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වල දී ඔහු සතුව තිබී එම මැණික් ගල් සොයාගෙන තිබේ.
+The gem stone was found in the bus driver of the bus on the interrogation of the bus regarding the complaint with the Avissawella police.
 
-අත්අඩංගුවට ගත් සැකකරු එරත්න ප්‍රදේශයේ පදිංචි 42 හැවිරිදි අයෙකු වන අතර සිද්ධිය සම්බන්ධයෙන් අවිස්සාවේල්ල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The suspect is a 42 year old resident of the Eraratnala area and the Avissawella police are conducting further investigations.
 
 ◼️
 
 [Data](articles/0e0ba956.json)
 
+[Extended Data](ext_articles/0e0ba956.ext.json)
+
 ---
 
-### ஜனாதிபதியின் கொள்கை விளக்க உரையின் போது ஏன் வெளிநடப்பு செய்தார் எதிர்க்கட்சி தலைவர் !
+### Why did you walk away during the president's policy speech?
 
 *2024-02-08 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/175859) · `ta`
 
-ஒன்பதாவது பாராளுமன்றத்தின் ஐந்தாவது கூட்டத்தொடர் புதன்கிழமை ( 7) ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் கொள்கை விளக்க உரையுடன் ஆரம்பித்து வைக்கப்பட்டது.
+The fifth session of the ninth parliament was inaugurated on Wednesday (7) with President Ranil Wickremesinghe's policy speech.
 
-இவ்வாறு ஜனாதிபதியால் கொள்கை விளக்கவுரை நிகழ்த்தப்பட்ட போது எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச சபையிலிருந்து வெளியேறினார்.
+Opposition leader Sajith Premadasa left the House when the president was thus made a policy briefing.
 
-ஆனால் ஐக்கிய மக்கள் சக்தியின் தவிசாளர் பீல்ட் மார்ஷல் சரத் பொன்சேக்கா உள்ளிட்ட பலர் சபையிலேயே அமர்ந்திருந்தனர்.
+But many people, including the United People's Power Chairman Field Marshal Sarath Fonseka, were seated in the congregation.
 
-ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்களான ராஜித சேனாரத்ன, குமார வெல்கம, இஷாக் ரஹ்மான், வடிவேல் சுரேஷ், பைசால் காசிம், ஏ.எச்.எம்.பௌசி ஆகியோரும் சபையிலிருந்து வெளியேறவில்லை.
+United People's Power MPs Rajitha Senaratne, Kumara Welgama, Ishaq Rahman, Vadivel Suresh, Faisal Qasim and AHM Bouzi have not been left out of the congregation.
 
-ஐக்கிய மக்கள் சக்தியில் தேர்தலில் போட்டியிட்ட பாராளுமன்ற உறுப்பினரான சம்பிக ரணவக்கவும் சபை நடவடிக்கைகளில் பங்கேற்றிருந்தார்.
+Sampika Ranawaka, a MP who contested the election in the United People's Power, also participated in the proceedings.
 
-பாராளுமன்ற கூட்டத்தொடரை ஆரம்பிக்கும் நிகழ்வுகளில் பங்கேற்கப் போவதில்லை என்று ஐக்கிய மக்கள் சக்தி கட்சி ரீதியில் தீர்மானித்திருந்த போதிலும், அக்கட்சியின் சிரேஷ்ட உறுப்பினர்கள் உள்ளிட்ட பலர் அந்த தீர்மானத்தைக் கவனத்தில் கொள்ளாமல் ஜனாதிபதியின் கொள்கை விளக்க உரையை செவிமடுத்தவாறிருந்தனர்.
+Although the United People's Power Party has decided not to participate in the inauguration of the parliamentary session, many, including the senior members of the party, have listened to the president's policy speech.
 
-...
+Parliamentarian Sampika Ranawaka and others also participated in the tea treaty headed by President Ranil Wickremesinghe in the meal of MPs.
+
+◼️
 
 [Data](articles/47fdceea.json)
+
+[Extended Data](ext_articles/47fdceea.ext.json)
 
 ---
 
@@ -211,6 +433,24 @@ In the meantime, a woman who is said to be a girlfriend of the gunman was detain
 [Data](articles/71ab2796.json)
 
 [Extended Data](ext_articles/71ab2796.ext.json)
+
+---
+
+### මැණික් සොරා ගත් පෞද්ගලික බස් රථ රියදුරෙකු අත්අඩංගුවට
+
+*2024-02-08 09:52:19* · [`adalk`](https://www.ada.lk/breaking_news/මැණික්-සොරා-ගත්-පෞද්ගලික-බස්-රථ-රියදුරෙකු-අත්අඩංගුවට/11-407958) · `si`
+
+මැණික් ව්‍යාපාරිකයෙකු බස් රථයකදී අමතකව දමා ගිය රුපියල් 2,500,000/= වටිනා මැණික් සහිත පාර්සලයක් සොරා ගත් පෞද්ගලික බස් රථ රියදුරෙකු අත්අඩංගුවට ගෙන ඇත.
+
+මැණික් ගල් 13ක් අඩංගු පාර්සල් දෙකක් කුඩා බෑගයක දමාගෙන බස් රථයකින් අවිස්සාවේල්ල නගරය කරා පැමිණ ඇති අතර එම කුඩා බෑගය බස් රථය තුළ අමතකව දමා ගොස් තිබූ බව පොලිසිය කියයි
+
+මේ  සම්බන්ධයෙන් පොලිසියට කරන ලද පැමිණිල්ලකට අනුව බස් රථය ගාල්කර තිබූ අවිස්සාවේල්ල මා දොළ ප්‍රදේශයේ  ස්ථානයට ගොස් රියදුරුගෙන් සිදුකළ ප්‍රශ්න කිරීමේදී   ඔහු සන්තකයේ  තිබී සොරා ගත් මැණික් ගල් සහිත පාර්සලය සොයා ගැනීමට හැකි වී ඇත.
+
+අත්අඩංගුවට ගත් සැකකරු වයස අවුරුදු 42 ක් වන ලක්ෂ කන්ද එරත්ත ප්‍රදේශයේ පදිංචිකරුවෙකි
+
+◼️
+
+[Data](articles/4d5a0335.json)
 
 ---
 
@@ -252,37 +492,41 @@ He was sworn in as a MP to fill the vacancy created by the sudden death of State
 
 ---
 
-### යුක්තියට තවත් සැකකරුවන් පිරිසක් කොටුවෙති
+### Another suspects of justice are boxing
 
 *2024-02-08 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193120) · `si`
 
-යුක්තිය මෙහෙයුම යටතේ ගතවු පැය 24 තුළ දිවයින පුරා සිදුකළ මෙහෙයුම්වලින් සැකකරුවන් 728ක් අත්අඩංගුවට ගෙන තිබේ.
+728 suspects have been arrested by 728 suspects in the last 24 hours under the operation of justice.
 
-මත්ද්‍රව්‍ය වැරදි සම්බන්ධ සැකකරුවන් 558කු සහ අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ සිටි සැකකරුවන් 170 දෙනෙකු ඊට ඇතුළත් බව වාර්තා වේ.
+It is reported that 170 suspects in the list referred to to the Criminal Division of Narcotics and Criminals.
 
-එහිදි අපරාධවලට අවශ්‍ය කරන සැකකරුවන් තිදෙනෙකු ද අත්අඩංගුවට ගෙන තිබේ.
+Three suspects have been arrested for crime.
 
-අත්අඩංගුවට ගත් සැකකරුවන් සතුව තිබී හෙරොයින් ග්‍රෑම්  122, අයිස් ග්‍රෑම්  101, ගංජා කිලෝග්‍රෑම් 5යි ග්‍රෑම් 217 සහ මත්පෙති 1,852ක් පොලිස් භාරයට ගෙන තිබේ.
+Police have seized 122 grams of heroin in possession of 122 grams of heroin, 51 grams of ice and 217 and 1,852 alcohol.
 
 ◼️
 
 [Data](articles/1325e32b.json)
 
+[Extended Data](ext_articles/1325e32b.ext.json)
+
 ---
 
-### அவுஸ்திரேலியா புறப்பட்டார் ஜனாதிபதி
+### The President has departed Australia
 
 *2024-02-08 09:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுஸ்திரேலியா-புறப்பட்டார்-ஜனாதிபதி/175-332875) · `ta`
 
-07ஆவது இந்தியப் பெருங்கடல் மாநாட்டில் பங்கேற்பதற்காக ரணில் விக்கிரமசிங்க  இன்று (08) அதிகாலை கட்டுநாயக்க விமான நிலையத்திலிருந்து அவுஸ்திரேலியாவுக்குப் புறப்பட்டுள்ளார்.
+Ranil Wickremesinghe left Australia from Katunayake airport this morning to attend the 7th Indian Ocean Conference.
 
-இந்த மாநாடு ஆஸ்திரேலியாவின் பெர்த்தில் 09 முதல் 10 வரை நடைபெற உள்ளது.
+The conference will be held in Perth, Australia from 9 to 10.
 
-ஜனாதிபதியுடன் தூதுக்குழுவொன்றும் சென்றுள்ளதுடன், அவர்கள் முதலில் கட்டுநாயக்க விமான நிலையத்திலிருந்து இன்று (08) அதிகாலை 12.45 மணிக்கு சிங்கப்பூர் விமான நிலையத்திற்கு SK-469 சிங்கப்பூர் எயார்லைன்ஸ் விமானத்தில் புறப்பட்டு அங்கிருந்து அவுஸ்திரேலியா செல்லவுள்ளனர்.
+A delegation with the president has gone and they will leave the Katunayake airport at 12.45 am today (08) at 12.45 am on the SK-469 Singapore Airlines flight.
 
 ◼️
 
 [Data](articles/07d1c3ec.json)
+
+[Extended Data](ext_articles/07d1c3ec.ext.json)
 
 ---
 
@@ -410,19 +654,23 @@ It is reported that the commander of the United States camp in Jordan recently h
 
 ---
 
-### වාණිජ බැංකුවල ස්ථාවර පහසුකම් ගැන මහ බැංකුවෙන් තීරණයක්
+### Central Bank decides on fixed facilities in commercial banks
 
 *2024-02-08 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193115) · `si`
 
-ශ්‍රී ලංකා මහ බැංකු විසින් ලියාපදිංචි වාණිජ බැංකුවල කටයුතු සම්බන්ධයෙන් නිවේදනයක් නිකුත් කර තිබේ.
+Central Bank of Sri Lanka has issued a statement regarding the activities of registered commercial banks.
 
-ඒ අනුව වාණිජ බැංකුවල ස්ථාවර පහසුකම් සඳහා පනවා තිබූ සීමාවන් ජනවාරි මස 16 වන දා සිට බලපැවැත්වෙන පරිදි ලිහිල් කිරීමට මහ බැංකුව තීරණය කර ඇත.
+Accordingly, the limits imposed on fixed facilities in commercial banks have been laborated with effect from 16th January.
 
-මුදල් ප්‍රතිපත්ති මණ්ඩලය ඊයේ (07) පැවති රැස්වීමේදී මෙම තීරණය කර තිබේ.
+The Monetary Policy Board was declared yesterday at the meeting held yesterday (07).
+
+The Central Bank Introced Rustrored Resprates on The Licensed Commercial Banks (LCBS) Under The Open Market Operations (OMOS), with Effect FROM 16 January 2023. Accordingly, access to the Standing Deposit Facility (SDF) was limited to a maximum of five (05) times per calendar month, while access to the Standing Lending Facility (SLF) was limited to 90 per cent of the Statutory Reserve Requirement (SRR)of each lcb, at any Any Given Day. Msures weres were impted @Ducing on The Instant Personal Bank Facility Market, Particular Money Market, and Indicing The Call Money Money Money Money, and Inducing LC Bs to Introredit Internal Corective Measures.
 
 ...
 
 [Data](articles/3591991f.json)
+
+[Extended Data](ext_articles/3591991f.ext.json)
 
 ---
 
@@ -673,6 +921,8 @@ The Head of State is visiting Australia to participate in the 7th Indian Ocean C
 The 7th edition of the Conference is being organized by India Foundation in association with the Ministry of External Affairs, Government of India, Department of Foreign Affairs and Trade, Government of Australia, S. Rajaratnam School of International Studies, Singapore, and Perth USAsia Centre on February 9 -10, 2024, in Perth, Australia.
 
 With the theme “Towards a Stable and Sustainable Indian Ocean”, the Conference will bring together key stakeholders to chart the roadmap for strengthening regional cooperation.
+
+Talk of the Town | Ending Impunity | Janaka Ratnayake | 08 February 2024
 
 ◼️
 
@@ -1717,255 +1967,5 @@ Since its establishment in 2009, the Kalutara plant has been a key player in the
 [Data](articles/55218241.json)
 
 [Extended Data](ext_articles/55218241.ext.json)
-
----
-
-### Magistrate questions CID’s conduct on investigations against Pastor Jerome
-
-*2024-02-07 21:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Magistrate-questions-CIDs-conduct-on-investigations-against-Pastor-Jerome/108-276537) · `en`
-
-The Colombo Fort Magistrate questioned the CID on how they had filed action before the Mount Lavinia Magistrate’s Court against Pastor Jerome Fernando under the Prevention of Money Laundering Act, contrary to the accepted court jurisdiction.
-
-Colombo Fort Magistrate Thilina Gamage observed that the CID has no authority to arbitrarily determine the judicial jurisdictions when filing a case, as these jurisdictions have been established through a gazette notification. The magistrate further noted that such a case should have been filed before the Colombo Fort Magistrate’s Court.
-
-The Magistrate made these remarks when the magisterial inquiry into the controversial Sunday sermon made by Pastor Jerome Fernando was called before court.
-
-The CID informed court that Pastor Jerome Fernando is being investigated into under the Prevention of Money Laundering Act and a B report has been filed before the Mount Lavinia Magistrate’s Court.
-
-...
-
-[Data](articles/cddafe4e.json)
-
-[Extended Data](ext_articles/cddafe4e.ext.json)
-
----
-
-### Sri Lanka Cement Corporation expecting to generate USD 300mn annually
-
-*2024-02-07 21:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97095/sri-lanka-cement-corporation-expecting-to-generate-usd-300mn-annually) · `en`
-
-State Minister of Primary Industries, Chamara Sampath Dassanayake, announced plans to unlock significant economic potential from the 5,000 acres of land owned by Sri Lanka Cement Corporation.
-
-The initiative aims to generate USD 300 million annually, bolstering the nation’s economy and demonstrating efficient resource utilization, the President’s Media Division (PMD) reported.
-
-The State Minister also stressed the imperative of leveraging our nation’s available resources to propel its development, regardless of any challenges that may arise, emphasizing the need to build the country steadfastly.
-
-The announcement was made during a press briefing titled “Collective Path to a Stable Country,” held at the President’s Media Centre (PMC) today (07 Feb.). While specific details about the chosen organization and the planned development remain unavailable, the initiative signifies a significant step towards economic growth and resource optimization.
-
-...
-
-[Data](articles/797b9a0b.json)
-
-[Extended Data](ext_articles/797b9a0b.ext.json)
-
----
-
-### Gazette issued keeping Environment Ministry under President’s purview
-
-*2024-02-07 21:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gazette-issued-keeping-Environment-Ministry-under-Presidents-purview/108-276535) · `en`
-
-An extraordinary gazette notification was issued bringing in the Environment Ministry under the purview of the President after having consulted with the Prime Minister.
-
-The gazette was issued under Article 44(3) of the Constitution of the Democratic Socialist Republic of Sri Lanka, under the signature of the Secretary to the President, E.M.S.B. Ekanayake.
-
-◼️
-
-[Data](articles/c0a115f0.json)
-
-[Extended Data](ext_articles/c0a115f0.ext.json)
-
----
-
-### என். சண்முகதாசன : சமரசம் செய்யாத ஒரு கம்யூனிசவாதியின் அரசியல் வாழ்வு
-
-*2024-02-07 21:25:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83571) · `en`
-
-( சண்முகதாசனின் 31 வது நினைவு தினம் இன்றாகும் (8 -2 2024). அதை முன்னிட்டு இந்த கட்டுரை பிரசுரமாகிறது)
-
-‘ பல்கலைக்கழகத்தில் எனது இரண்டாவது ஆண்டு ,1939 — 40, எனது முழு வாழ்க்கையினதும்  திசையை மாற்றிய அந்த ஆண்டில் நான் ஒரு கம்யூனிஸ்ட் ஆகினேன். அதன் பின்னர் நான் அதனின்று வழுவவேயில்லை.’
-
-இந்த வார்த்தைகளுடன் ஆரம்பிக்கிறார் சண்முகதாசன் தனது அரசியல் நினைவுகள் பற்றிய நூலை. அரசியலில் ஐம்பது ஆண்டுகளை நிறைவு செய்த சந்தர்ப்பத்தில் ‘Political Memoirs of an Unrepentant Conmmunist ‘ எனும் தலைப்பில் அவர் ஆங்கிலத்தில் எழுதிய நூல் 1989 ஜூலையில் கொழும்பில் வெளியிடப்பட்டது.
-
-இன்று அந்த நூலையும் அவருடைய மற்றைய அரசியல் எழுத்துக்களையும் வாசிப்பவர்கள் சண்முகதாசனின் அரசியல் வாழ்க்கை இலங்கையின் இடதுசாரி இயக்கத்தின் வரலாற்றுடன் மிகவும் பின்னிப்பிணைந்திருப்பதை உணருவர். அவர் கொண்டிருந்த சர்வதேச அரசியல் தொடர்புகள் பற்றியும் பல தகவல்களை அந்த நூல் தருகிறது.
-
-...
-
-[Data](articles/3a0267bd.json)
-
-[Extended Data](ext_articles/3a0267bd.ext.json)
-
----
-
-### President to retain Environment Minister portfolio after Keheliya’s resignation
-
-*2024-02-07 21:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/97094/president-to-retain-environment-minister-portfolio-after-keheliyas-resignation) · `en`
-
-A gazette notification has been released stating that, subsequent to a discussion with the Prime Minister, President Ranil Wickremesinghe has opted to retain the post of Environment Minister.
-
-The move comes a day after former Environment Minister and SLPP MP Keheliya Rambukwella resigned from the post, following his arrest in connection with the procurement of substandard human immunoglobulin that during his tenure as the Health Minister.
-
-Rambukwella was arrested on 02 February after he arrived at the Criminal Investigation Department (CID) to record a statement with regards to the incident.
-
-◼️
-
-[Data](articles/b33e0817.json)
-
-[Extended Data](ext_articles/b33e0817.ext.json)
-
----
-
-### Wigneswaran backs Ranil as ideal Presidential candidate
-
-*2024-02-07 21:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wigneswaran-backs-Ranil-as-ideal-Presidential-candidate/108-276533) · `en`
-
-Tamil People’s National Alliance (TPNA) MP C.V. Wigneswaran said he considers President Ranil Wickremesinghe as the best candidate among the others.
-
-Making his remarks to the media after the parliamentary session today, he said the President talked to him in the parliamentary complex but declined to divulge what was discussed.
-
-He said he considers the President as the best candidate among the current aspirants.
-
-◼️
-
-[Data](articles/bf3903c7.json)
-
-[Extended Data](ext_articles/bf3903c7.ext.json)
-
----
-
-### Diana explanations on the export decision
-
-*2024-02-07 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193100) · `si`
-
-Minister of State Diane Gamage says that the cabinet was approved by the Cabinet last year.
-
-The State Minister made this statement in response to a question posed by journalist when he came to the Parliamentary Session.
-
-Minister of Tourism Diyanama Gamage had stated that the cabket was approved by the cabket to be cultivated in the country as a Triadest Vijaya.
-
-However, Cabinet spokesman Dr. Bandula Gunawardena stated that he was not approved by the Cabinet Decision.
-
-◼️
-
-[Data](articles/45f70437.json)
-
-[Extended Data](ext_articles/45f70437.ext.json)
-
----
-
-### 300 ml annually by 5000 acres of land belonging to the Cement Corporation. Dollars can earn income - Samara Sampath Dasanayaka
-
-*2024-02-07 21:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175840) · `ta`
-
-Initial Industry Minister Samara Sampath Dasanayake said that the 5000 acres of land belonging to the Cement Corporation has a annual $ 300 million income scheme and the company that is ready to invest for it has been selected.
-
-The Minister of State also stated that the country should be built using the resources in the country.
-
-State Minister Samara Sampath Dasanayake said this at a media briefing held at the Presidential Media Center on Wednesday (07).
-
-President Ranil Wickremesinghe took over this country while the country was in a massive economic crisis. It is now successfully fulfilling that responsibility. In addition, the corporations belonging to the ministry that were handed over to me had suffered a sharp decline.
-
-Of those companies, only the National Gem and Jewelery Authority made a profit. At that time, about $ 280 million per year.
-
-...
-
-[Data](articles/6471d3fd.json)
-
-[Extended Data](ext_articles/6471d3fd.ext.json)
-
----
-
-### Online Safety Act brought under purview of Public Security Ministry
-
-*2024-02-07 21:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97093/online-safety-act-brought-under-purview-of-public-security-ministry) · `en`
-
-The much-disputed Online Safety Act has been brought under the purview of the Ministry of Public Security, as per an Extraordinary Gazette notification.
-
-According to the relevant gazette issued by the Presidential Secretariat, the Online Safety Act will be brought under the Ministry of Public Security, with effect from 07 February.
-
-The legislation which seeks to regulate online content was passed in Parliament, with amendments, on 24 January, amidst objections from opposition politicians and activists who allege the new law will muzzle free speech.
-
-The controversial Bill garnered not only the attention of local activists and organisations, but also that of diplomats and large international organisations, claiming that the Bill had numerous problematic aspects.
-
-...
-
-[Data](articles/9eb2703f.json)
-
-[Extended Data](ext_articles/9eb2703f.ext.json)
-
----
-
-### Two new gazette notifications
-
-*2024-02-07 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193099) · `si`
-
-The Presidential Secretariat has issued a special gazette notification to bring on the security of the system under the Ministry of Public Defense.
-
-Meanwhile, the Presidential Secretariat has issued another gazette notification stating that the Prime Minister's views should be taken into custody as the Minister of Environment.
-
-◼️
-
-[Data](articles/7c71d87a.json)
-
-[Extended Data](ext_articles/7c71d87a.ext.json)
-
----
-
-### The suspect who gave birth to milk by mixing the milk
-
-*2024-02-07 20:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193098) · `si`
-
-Two suspects in the train compartment of the Master of the Adrappyupuwara Police have been admitted to hospital.
-
-Police suspect that the dairy packet provided to them in connection with a shooting, police suspect that the poison is mixed.
-
-A youth was injured in a shooting carried out by two people from January 25 in the Jidtapitiya area.
-
-Residents were captured by a suspect, and the shooter had fled the site.
-
-The victims were arrested in the Dambana area and had been detained in the Dambana area and questioned the Adolappherediya police.
-
-Another suspected suspect who supported him was arrested and both have conducted detainees in the same prison in the same prison in the Devilupuwiiya police.
-
-The shooter's girlfriend has come to the police to hear his voduner in such a background this morning, another suspect has also visited the other suspect.
-
-The man had gone to the suspects and had left fish buns and a packet of milk.
-
-...
-
-[Data](articles/fb97a7f1.json)
-
-[Extended Data](ext_articles/fb97a7f1.ext.json)
-
----
-
-### People’s Bank and Hayleys Agriculture form strategic alliance for agricultural advancement
-
-*2024-02-07 20:03:00* · [`islandlk`](http://island.lk/peoples-bank-and-hayleys-agriculture-form-strategic-alliance-for-agricultural-advancement/) · `en`
-
-In a seminal move to fortify Sri Lanka’s agricultural landscape, People’s Bank, has entered into a Memorandum of Understanding (MoU) with Hayleys Agriculture Holdings Ltd, a distinguished provider of agricultural machinery and vehicles. This strategic collaboration, designed to facilitate a joint promotional campaign, is poised to usher in a new era of financial accessibility and technological adoption for the country’s agricultural community.
-
-Under the terms of this alliance, People’s Bank assumes a pivotal role by offering bespoke loan facilities to clients with specific requirements pertaining to agricultural machinery and vehicles. This financial framework aims to empower farmers, providing them with the means to invest in cutting-edge equipment that holds the potential to enhance overall agricultural efficiency and productivity.
-
-...
-
-[Data](articles/516af2c9.json)
-
-[Extended Data](ext_articles/516af2c9.ext.json)
-
----
-
-### SLT-MOBITEL unveils ‘The Directory’ 2023/24 as refreshed and advanced national business directory
-
-*2024-02-07 20:02:00* · [`islandlk`](http://island.lk/slt-mobitel-unveils-the-directory-2023-24-as-refreshed-and-advanced-national-business-directory/) · `en`
-
-As a one-stop-shop for all marketing and advertising solutions for Micro, Small and Medium Businesses (MSMBs), SLT Digital Services (Pvt) Limited (SLT-DIGITAL), a fully owned subsidiary of SLT-MOBITEL, the National ICT Solutions Provider, unveiled ‘The Directory’ 2023/24 (The Rainbow Pages), the refreshed and advanced version of its national business directory.
-
-‘The Directory’ 2023/24 is the latest version of the National Business Directory and a new tool for doing business in the country. The user-friendly guide offers enhanced features under a refreshed brand name produced with the main objective of creating additional value to existing and prospective customers, and registered vendors. In addition, ‘The Directory’ offers its business directory services through multiple mediums including as an online directory – rainbowpages.lk, a printed book, an eBook as well as a 24-hr Call Centre service (SLT 1212, Mobile 444), Call Centre.
-
-...
-
-[Data](articles/45c59423.json)
-
-[Extended Data](ext_articles/45c59423.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 11:51:56**
+As of **2024-02-08 12:03:05**
 
 ## Newspaper Stats
 
-*Scraped **5,671** Articles*
+*Scraped **5,672** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 316
 newsfirstlk | 346
 adalk | 478
 virakesarilk | 694
-adaderanalk | 701
+adaderanalk | 702
 tamilmirrorlk | 708
 adaderanasinhalalk | 745
 dailymirrorlk | 804
@@ -26,11 +26,31 @@ dailymirrorlk | 804
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,671 (100.0%) of 5,671 articles have been extended.
+5,672 (100.0%) of 5,672 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### Bus strike launched on Avissawella - Colombo route
+
+*2024-02-08 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97109/bus-strike-launched-on-avissawella-colombo-route) · `en`
+
+The employees of the buses operating from Avissawella to Colombo (Route No. 122) have decided to withdraw from their services.
+
+Accordingly, 60 buses operating on route number 122 have been out of service since this morning (Feb. 08).
+
+The bus operators have resorted to this strike action, on account of an alleged assault on the Superintendent of Homagama Bus Depot and a few other employees by a group of individuals while travelling on a bus attached to the depot.
+
+The bus operators also allege that no legal action has been taken against the relevant suspects.
+
+◼️
+
+[Data](articles/a0949df7.json)
+
+[Extended Data](ext_articles/a0949df7.ext.json)
+
+---
 
 ### Three cops interdicted over alleged poisoning of 2 suspects in custody
 
@@ -1999,25 +2019,5 @@ I invite everyone to unite with the Sri Lanka PA. We have plans to build the cou
 [Data](articles/c35d7990.json)
 
 [Extended Data](ext_articles/c35d7990.ext.json)
-
----
-
-### Anura Kumara meets Chief Minister of Gujarat
-
-*2024-02-07 23:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97096/anura-kumara-meets-chief-minister-of-gujarat) · `en`
-
-Leader of the Jantha Vimukthi Peramuna (JVP) Anura Kumara Dissanayake on Wednesday (07 Feb.) met the Chief Minister of Gujarat, Bhupendra Patel, in Gandhinagar, India.
-
-The parties met at the Vidana Sabha (State Legislative Assembly), and discussed various matters of concern, including the state’s development strategies for poverty alleviation and the state administration process.
-
-Subsequent to his meeting with Patel, Dissanayake met with Indian Cabinet Minister of Industries, Civil Aviation, Rural Development, Labour and Employment in Gujarat, Balvantsinh Rajput, during which a presentation on the ‘Gujarat Model’, used as development model by the Indian government, was also made.
-
-Energy reforms, agriculture and water, infrastructure improvement, industry and investment, healthcare and women’s empowerment are the key areas of this Gujarat development model”, the JVP leader revealed in a statement on ‘X’ (formerly Twitter).
-
-...
-
-[Data](articles/2133a95f.json)
-
-[Extended Data](ext_articles/2133a95f.ext.json)
 
 ---

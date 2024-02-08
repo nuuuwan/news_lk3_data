@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 21:02:42**
+As of **2024-02-08 21:17:26**
 
 ## Newspaper Stats
 
-*Scraped **5,791** Articles*
+*Scraped **5,793** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 67
+colombotelegraphcom | 68
 bbccomsinhala | 81
 dbsjeyarajcom | 142
 islandlk | 300
@@ -19,18 +19,38 @@ adalk | 491
 virakesarilk | 713
 adaderanalk | 714
 tamilmirrorlk | 716
-adaderanasinhalalk | 762
+adaderanasinhalalk | 763
 dailymirrorlk | 820
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,790 (100.0%) of 5,791 articles have been extended.
+5,791 (100.0%) of 5,793 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### ලංගම බස් සේවකයින්ට පහරදුන් දෙදෙනා රිමාන්ඩ්
+
+*2024-02-08 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193143) · `si`
+
+ලංගම බස් සේවනයින් සිව් දෙනෙකුට පහරදීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවන් දෙදෙනෙකු රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+හයිලෙවල් මාර්ගයේ ධාවනය කරමින් තිබූ හෝමාගම ඩිපෝවට අයත් බස් රථ දෙකක රියදුරන් දෙදෙනෙකුට සහ කොන්දොස්තරවරයන් දෙදෙනෙකුට මෙම ප්‍රහාරය එල්ලකර තිබුණි.
+
+සැකකරුවන් දෙදෙනා අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් පසු ලබන 15 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස හෝමාගම මහෙස්ත්‍රාත් රජීන්ද්‍රා ජයසූරිය මහත්මිය අද (08) නියෝග කළාය.
+
+මෙලෙස රිමාන්ඩ් කරන ලද්දේ පදියතලාව කෙහෙල්උල්ල කඩුපාර ප්‍රදේශයේ පදිංචිකරුවකු වන ප්‍රදීප් අමරතුංග නමැති පෞද්ගලික බස් රථයක කොන්දොස්තරවරයෙක් සහ පෞද්ගලික වේලා දැනුම්දෙන්නෙකු වන තුන්නාන හංවැල්ල ප්‍රදේශයේ පදිංචි හර්ෂ සඳුන් නමැත්තෙකි.
+
+සැකකාර පෞද්ගලික බස් රථ කොන්දොස්තරවරයා අවිස්සාවේල්ල ප්‍රදේශයේදී තවත් බස් රථයක රියදුරුට සහ කොන්දොස්තරට පහරදීමේ සිද්ධියක් සම්බන්ධයෙන් ලබන 13 වනදා අවිස්සාවේල්ල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කරන ලෙසද එහිදී නියෝග කළාය.
+
+...
+
+[Data](articles/40d2f35d.json)
+
+---
 
 ### Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
 
@@ -45,6 +65,8 @@ They cited in particular, the passing of the Online Safety Act, together with th
 ...
 
 [Data](articles/4f535e80.json)
+
+[Extended Data](ext_articles/4f535e80.ext.json)
 
 ---
 
@@ -977,6 +999,24 @@ The arrested gem stones have been revealed in the form of Vihara. Koslanda polic
 [Data](articles/52cd0907.json)
 
 [Extended Data](ext_articles/52cd0907.ext.json)
+
+---
+
+### Genocide Of Palestinian Began Since 1948
+
+*2024-02-08 15:08:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/genocide-of-palestinian-began-since-1948/) · `en`
+
+The ongoing United States – European supported Israeli genocide of Palestinians and destruction in Gaza is not the first of its kind. These war mongers  committed similar  massacres in Deir Yassin and Kafr Kassim in 1948  to drive out Palestinians from their homes and lands to  plant Israel  there.
+
+In the case of Israeli occupied Gaza too US, Britain,Europe openly supported  earlier  Israeli genocides  as part of their overall programme to ethnic cleanse Palestinians and annex Gaza with Israel to create Greater Israel to control and loot the Middle East.
+
+As it is happening  now  in Gaza Arab tyrants, installed in power and protected by US and Europe, have sided with Israel by turning blind eye.
+
+For example on 27 December 2008 Israel, using the most sophisticated and most destructive fighter planes and weapons supplied by United States and Europe, committed genocide of Palestinians in Gaza .
+
+...
+
+[Data](articles/fbac0498.json)
 
 ---
 
@@ -2081,51 +2121,5 @@ The doctor who was abused by the doctor and duties were reported to be produced 
 [Data](articles/0228917e.json)
 
 [Extended Data](ext_articles/0228917e.ext.json)
-
----
-
-### Election Voting Beginning in Pakistan - Mobile Services Published nationwide
-
-*2024-02-08 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175872) · `ta`
-
-Officials have cut off mobile internet services across Pakistan while the general election voting has begun in Pakistan.
-
-Mobile service has been suspended nationwide, Home Ministry spokesman said.
-
-The Ministry of Home Affairs has said that the recent violence in Pakistan has been lost, the Home Ministry said.
-
-International journalists in Islamabad said they could not use mobile internet services.
-
-◼️
-
-[Data](articles/5a9922ac.json)
-
-[Extended Data](ext_articles/5a9922ac.ext.json)
-
----
-
-### Deadline to submit electoral register Feb 29th
-
-*2024-02-08 11:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/deadline-to-submit-electoral-register-feb-29th/) · `en`
-
-COLOMBO (News 1st); The Election Commission has issued a reminder to complete registration for the 2024 electoral register without delay.
-
-Commissioner General of Elections Saman Sri Ratnayake said the relevant registration process should be completed before the 29th of February.
-
-He said it is mandatory to include information of all family members or people staying at the residence over the age of 18 years, in the electoral register received at the relevant residence.
-
-Accordingly, all persons who have not changed their permanent residence, who have changed their residence due to marriage, education or any other reason should be registered in the electoral register.
-
-Ratnayake said the names of family members who are overseas should also be included in the electoral register, regardless of whether or not they can vote.
-
-Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
-
-Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
-
-...
-
-[Data](articles/41cc10f9.json)
-
-[Extended Data](ext_articles/41cc10f9.ext.json)
 
 ---

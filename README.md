@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 14:17:29**
+As of **2024-02-08 14:32:58**
 
 ## Newspaper Stats
 
@@ -26,37 +26,41 @@ dailymirrorlk | 808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,704 (99.9%) of 5,707 articles have been extended.
+5,707 (100.0%) of 5,707 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### வெலிக்கடை விளக்கமறியல் சிறைச்சாலை கைதி சிறைக்காவலர் மீது தாக்குதல்!
+### Welikada Prison Prison Prisoner Attack
 
 *2024-02-08 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175885) · `ta`
 
-வெலிக்கடை விளக்கமறியல் சிறைச்சாலையில் தடுத்து வைக்கப்பட்டுள்ள கைதி ஒருவர் தாக்கியதாகல் சிறைக்காவலர் ஒருவர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A prisoner was injured when a prisoner was detained at the Welikada Prison.
 
-தாக்குதலினால்  வலது கையில் காயம் ஏற்பட்டுள்ளதாகவும்  விளக்கமறியலில்  சிறைச்சாலையின் பொறுப்பதிகாரியின் ஆலோசனையின் பேரில் அவர் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் வைத்தியசாலை பேச்சாளர் தெரிவித்தார்.
+The hospital spokesman said that the attack was injured by the attack and that he had been admitted to the Colombo National Hospital on the advice of the prisoner in charge of the prison.
 
 ◼️
 
 [Data](articles/c013d41a.json)
 
+[Extended Data](ext_articles/c013d41a.ext.json)
+
 ---
 
-### பெலியத்தவில்  ஐவர் படுகொலை : மேலும் ஒருவர் பொலிஸில் சரண்!
+### Five massacre in Beliatta:
 
 *2024-02-08 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175886) · `ta`
 
-பெலியத்தவில்  ஐவர் படுகொலை செய்யப்பட்ட சம்பவத்துடன் தொடர்புடைய 24 வயதுடைய மற்றுமொரு சந்தேக நபர் பெலியத்த பொலிஸில் சரணடைந்த பின்னர் கைது செய்யப்பட்டுள்ளார்.
+Another 24 -year -old suspect in connection with the murder of five in Beliatta has been arrested after surrendering to the Beliatta police.
 
-இந்தச் சம்பவத்துக்கு பயன்படுத்திய துப்பாக்கியைச் சந்தேக நபர்  கம்புறுபிட்டியவில் உள்ள தனது  உறவினர் வீட்டில் மறைத்து வைத்து பின்னர் காலிக்கு கொண்டு சென்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+The suspect used the gun used for the incident and then hid the house of his cousin in Kamburupitiya and then taken to Galle.
 
 ◼️
 
 [Data](articles/8fc77f85.json)
+
+[Extended Data](ext_articles/8fc77f85.ext.json)
 
 ---
 
@@ -80,21 +84,23 @@ The cash-strapped south Asian island nation, which has suffered from crippling p
 
 ---
 
-### வேகமாகச் சென்ற மோட்டார் சைக்கிள் கட்டுப்பாட்டையிழந்து விபத்துக்குள்ளானதில் இளைஞர் உயிரிழப்பு!
+### Youth killed in a speeding motorcycle
 
 *2024-02-08 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175881) · `ta`
 
-மோட்டார் சைக்கிள் வீதியை விட்டு விலகி மதிலில் மோதி விபத்துக்குள்ளானதில் இளைஞர் ஒருவர் உயிரிழந்துள்ளதாக களுத்துறை தெற்கு பொலிஸார் தெரிவித்தனர்.
+Kalutara Southern Police said that a youth was killed when a motorcycle crashed into a motorcycle.
 
-விபத்தில் உயிரிழந்தவர் களுத்துறை கட்டுகுருந்த பிரதேசத்தைச் சேர்ந்த பிரவீன் விஸ்வஜித்  என்ற 19 வயதுடையவர் என பொலிஸார் தெரிவித்தனர்.
+Praveen Viswajit, a 19 -year -old from Kalutara, Kalutara, was the 19 -year -old, police said.
 
-உயிரிழந்த இளைஞன் களுத்துறையிலிருந்து ஹீனடியாகல நோக்கிச் சென்று கொண்டிருந்தபோது மோட்டார் சைக்கிள்  கட்டுப்பாட்டை இழந்து ஹீனடியாகல பாலத்துக்கு அருகிலிருந்த மதிலில்  மோதியுள்ளது.
+The motorcycle lost control and crashed into a wall near the Henadiyala Bridge as the deceased young man was heading from Kalutara to Heinadiyala.
 
-இதனையடுத்து  பலத்த காயமடைந்த இளைஞர்  களுத்துறை நாகொட போதனா வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட நிலையில் உயிரிழந்துள்ளதாக  வைத்தியசாலை பேச்சாளர் தெரிவித்தார்.
+The youth who was severely injured and was taken to the Nagoda Teaching Hospital, Kalutara, has died, the hospital spokesman said.
 
 ◼️
 
 [Data](articles/e302b0cb.json)
+
+[Extended Data](ext_articles/e302b0cb.ext.json)
 
 ---
 

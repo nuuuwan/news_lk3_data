@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 13:33:06**
+As of **2024-02-08 13:51:27**
 
 ## Newspaper Stats
 
-*Scraped **5,703** Articles*
+*Scraped **5,704** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 316
 newsfirstlk | 353
 adalk | 480
 virakesarilk | 701
-adaderanalk | 703
+adaderanalk | 704
 tamilmirrorlk | 710
 adaderanasinhalalk | 751
 dailymirrorlk | 808
@@ -26,23 +26,45 @@ dailymirrorlk | 808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,700 (99.9%) of 5,703 articles have been extended.
+5,704 (100.0%) of 5,704 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### පංච පුද්ගල ඝාතනයේ සැකකරුවෙක් පොලීසියට භාරවෙයි
+### Sri Lanka in talks to push wind projects forward, minister says
+
+*2024-02-08 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97111/sri-lanka-in-talks-to-push-wind-projects-forward-minister-says) · `en`
+
+Sri Lanka is hopeful of making progress by next month on two delayed wind energy projects to be built by India’s Adani Green Energy Ltd, its energy minister said on Wednesday.
+
+The cash-strapped south Asian island nation, which has suffered from crippling power blackouts and fuel shortages, has been trying to speed green power generation to hedge against surges in imported fuel costs, but the wind projects are still being evaluated because of disputes over pricing and plant efficiency.
+
+“Maybe in the next four weeks, we will see some results on the negotiation process, and there is another negotiation for the transmission lines that is also being evaluated,” Energy Minister Kanchana Wijesekera told Reuters in an interview on the sidelines of the India Energy Week event in Goa.
+
+“Both are (happening) simultaneously, so I am hopeful that by March, we will have something,” he said.
+
+...
+
+[Data](articles/c7af7a8e.json)
+
+[Extended Data](ext_articles/c7af7a8e.ext.json)
+
+---
+
+### Suspect in the five murder surrenders to police
 
 *2024-02-08 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193130) · `si`
 
-බෙලිඅත්ත පංච පුද්ගල ඝාතනයට අදාළ තවත් 24 හැවිරිදි සැකකරුවකු බෙලිඅත්ත පොලීසියට භාරවීමෙන් අනතුරුව අත්අඩංගුවට ගෙන තිබේ.
+Another 24-year-old suspect was handed over to the Beliatta Police after the surrender of the Beliatta was assuscated by the Beliatta Police.
 
-පොලීසිය පවසන්නේ වෙඩි තැබීම සඳහා යොදාගත් ගිනිඅවි සැකකරු කඹුරුපිටියේ පදිංචි සිය මිත්තණියේ නිවස සඟවා තබා පසුව ගාල්ලට රැගෙන ගොස් ඇති බවය.
+The firearms used for shooting say that the suspect in Kamburupitiya has been hidden in Kamburutitiya and took to Galle.
 
 ◼️
 
 [Data](articles/0bb3d802.json)
+
+[Extended Data](ext_articles/0bb3d802.ext.json)
 
 ---
 
@@ -57,6 +79,8 @@ The gazette notification states the Online Safety Act has been included under th
 ◼️
 
 [Data](articles/0fbe0865.json)
+
+[Extended Data](ext_articles/0fbe0865.ext.json)
 
 ---
 
@@ -91,6 +115,8 @@ He is a graduate of the Sri Lanka Defense Services Command and Staff College.
 ◼️
 
 [Data](articles/eb9e556e.json)
+
+[Extended Data](ext_articles/eb9e556e.ext.json)
 
 ---
 
@@ -554,13 +580,17 @@ It is noteworthy that the debate on the government's policy speech presented in 
 
 *2024-02-08 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97108/three-cops-interdicted-over-alleged-poisoning-of-2-suspectsincustody) · `en`
 
-Three police officers have been interdicted after two suspects held in a cell at the Aduruppu Veediya police station fell ill after consuming a milk packet given to them by a visitor.
+Three police officers have been interdicted in connection with the alleged poisoning of two suspects held in a cell at the Aduruppu Veediya police station. Reportedly, the duo had fallen ill after consuming a packet of milk handed to them by a visitor.
 
-The duo was in police custody over a shooting incident that took place in Jinthupitiya on January 25 in which a youth was left injured.
+They had been arrested by the police over a recent shooting incident that took place in Jinthupitiya.
 
-One suspect was captured by the bystanders while the other fled the scene after abandoning the motorcycle. The perpetrator on the run was later apprehended in Dambana area and was brought to the Aduruppu Veediya police station for onward investigations.
+Two assailants on a motorcycle had opened fire in Jinthupitiya on January 25, leaving a youth injured. The gunman had escaped the crime scene while the bystanders captured his accomplice. The fleeing gunman was later apprehended in Dambana and was brought to the Aduruppu Veediya police station for interrogation.
 
-◼️
+Later, another suspect was also taken into custody for aiding and abetting the shooting.
+
+The apprehended gunman and the third suspect were reportedly held in the same cell at the Aduruppu Veediya police station.
+
+...
 
 [Data](articles/3526e02c.json)
 
@@ -1230,15 +1260,13 @@ The suspect is a 42 year old resident of Laxili
 
 *2024-02-08 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97104/jagath-priyankara-sworn-in-as-mp) · `en`
 
-L.K. Jagath Priyankara has been sworn in as a Member of Parliament to fill the seat left vacant following the death of State Minister Sanath Nishantha who represented the Puttalam constituency.
+L.K. Jagath Priyankara has been sworn in as a Member of Parliament to fill the seat left vacant following the death of State Minister Sanath Nishantha who represented the SLPP in Puttalam constituency.
 
 The new MP took oaths before Speaker Mahinda Yapa Abeywardena shortly after the parliamentary session kicked off at 9.30 a.m. this morning (Feb.08).
 
-Priyankara is a member of the National Freedom Front (Jathika Nidahas Peramuna) led by MP Wimal Weerawansa.
+Subsequently, he signed the MPs roll kept before the Secretary-General of Parliament Kushani Rohanadeera.
 
-State Minister Sanath Nishantha, 48, and his security officer suffered tragic deaths in a crash that took place on the Colombo - Katunayake expressway on January 25. The lawmaker’s driver, however, survived the accident.
-
-The car, which they had been travelling in, had crashed against the roadside barrier on the Katunayake Expressway, after rear-ending a moving container truck. The group were returning from a wedding ceremony held at a hotel in Chilaw
+Priyankara is a member of the National Freedom Front (Jathika Nidahas Peramuna) led by MP Wimal Weerawansa. A Samurdhi manager by profession, he is also the convener of the Samurdhi National Organization Centre.
 
 ...
 
@@ -1420,15 +1448,15 @@ On the morning of January 23, a man was shot dead in a Gampaha Malwatuhiripitiya
 
 *2024-02-08 09:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/97101/suspect-arrested-over-temple-shooting-that-killed-a-buddhist-monk) · `en`
 
-A man has been arrested on suspicion of his involvement in the killing of a Buddhist monk at a temple in the Malwathuhiripitiya area last month. The arrest was made by the Western/North Crimes Division.
+A man has been arrested on suspicion of his involvement in the killing of a Buddhist monk at a temple in the Malwathuhiripitiya area last month.
 
-In addition, the firearm used by the perpetrators was also recovered by the investigating officers.
+The arrest was made by the Western/North Crimes Division during a late-night operation conducted yesterday.
 
-A Buddhist monk was shot dead inside a temple in the Malwathuhiripitiya area of Gampaha in the early hours of Jan 23.
+In addition, the T-56 rifle used by the perpetrators was also recovered from the possession of the 29-year-old suspect.
 
-Earlier, the police stated that a T-56 assault rifle had been used by the perpetrator.
+A group of four assailants, who had arrived in a car, shot dead a Buddhist monk inside a temple in the Malwathuhiripitiya area of Gampaha in the early hours of January 23.
 
-The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustained critical injuries in the incident, had been rushed to the Gampaha Hospital. However, the monk had succumbed to injuries this afternoon while receiving treatment at the hospital.
+The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustained critical injuries in the incident, had been rushed to the Gampaha Hospital. But he later succumbed to injuries while receiving treatment.
 
 ◼️
 
@@ -1778,7 +1806,7 @@ President Ranil Wickremesinghe left the island this morning (Feb.08) for Austral
 
 At the invitation of the India Foundation and the Government of Australia, the Sri Lankan leader will deliver the keynote address for the 7th Indian Ocean Conference, taking place in Perth from Feb. 09-10.
 
-While attending the Indian Ocean Conference, Wickremesinghe will also explore investment opportunities for Sri Lanka, according to the President’s Media Division (PMD).
+While attending the Indian Ocean Conference, Wickremesinghe is also expected to explore investment opportunities for Sri Lanka, according to the President’s Media Division (PMD).
 
 ◼️
 
@@ -1993,21 +2021,5 @@ Some locations can last a morning in the middle of the Central, Sabaragamuwa and
 [Data](articles/1ff0a79e.json)
 
 [Extended Data](ext_articles/1ff0a79e.ext.json)
-
----
-
-### Fire in a wooden factory
-
-*2024-02-08 06:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175843) · `ta`
-
-Pallawela police say that a fire broke out on the night of the 7th night at a wooden factory in Makanigoda, Pattaliya.
-
-Police said the fire brigade of the Gampaha Municipal Council took action to extinguish the fire.
-
-◼️
-
-[Data](articles/ad64b6e7.json)
-
-[Extended Data](ext_articles/ad64b6e7.ext.json)
 
 ---

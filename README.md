@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 09:33:00**
+As of **2024-02-08 09:51:40**
 
 ## Newspaper Stats
 
-*Scraped **5,610** Articles*
+*Scraped **5,625** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,37 +14,105 @@ dbsjeyarajcom | 141
 economynextcom | 296
 islandlk | 299
 dailyftlk | 316
-newsfirstlk | 344
-adalk | 472
+newsfirstlk | 345
+adalk | 473
 virakesarilk | 684
-adaderanalk | 692
-tamilmirrorlk | 696
+adaderanalk | 694
+tamilmirrorlk | 699
 adaderanasinhalalk | 736
-dailymirrorlk | 792
+dailymirrorlk | 800
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,609 (100.0%) of 5,610 articles have been extended.
+5,610 (99.7%) of 5,625 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### කටයිබ් හිස්බුල්ලා අමෙරිකානු ප්‍රහාරයකින් මරුට
+### Katileib Hezbollah killed in clashes
 
 *2024-02-08 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193116) · `si`
 
-ඉරාන පිටුබලය ලත් මිලීෂියාවේ ජ්‍යේෂ්ඨ අණ දෙන නිලධාරී කටයිබ් හිස්බුල්ලා අමෙරිකානු ප්‍රහාර හමුවේ ජීවිතක්ෂයට පත් ව තිබේ.
+Senior Commander-Commander of Iran-backed Milley has been killed in anti-American attacks.
 
-ඉරාක අගනුවරට නැගෙනහිර දෙසින් වූ ප්‍රදේශයේ දී අමෙරිකාව දියත් කළ ඩ්‍රෝන ප්‍රහාරයකින් ඔහු මිය ගොස් ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+Foreign media reports that he had died in a drone launched in the East to the Iraqi capital. Foreign media reports
 
-පසුගිය දා ජෝර්දානයේ පිහිටි අමෙරිකානු කඳවුරට එල්ල වූ ප්‍රහාරය මිය ගිය අණ දෙන නිලධාරියා විසින් සිදු කර ඇති බව වාර්තා වේ.
+It is reported that the commander of the United States camp in Jordan recently has been carried out by the deceased officer.
 
 ◼️
 
 [Data](articles/02815830.json)
+
+[Extended Data](ext_articles/02815830.ext.json)
+
+---
+
+### CBSL relaxes restrictions on standing facilities for licensed commercial banks
+
+*2024-02-08 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97100/cbsl-relaxes-restrictions-on-standing-facilities-for-licensed-commercial-banks) · `en`
+
+The Central Bank of Sri Lanka (CBSL) says it has decided to relax the restrictions imposed on the standing facilities to Licensed Commercial Banks (LCBs) under the Open Market Operations (OMOs).
+
+Accordingly, with effect from the reserve maintenance period commencing 16 February 2024, the restriction on the Standing Lending Facility (SLF) will be removed and the restriction on Standing Deposit Facility (SDF) will be relaxed from 5 times to 10 times during a calendar month.
+
+This was decided at the special meeting of the Monetary Policy Board held on Wednesday (Feb.07).
+
+The CBSL put restrictions on the usage of standing facilities by the LCBs under the OMOs with effect from 16 January 2023. As such, access to the SDF was limited to a maximum of 5 times per calendar month, while access to the SLF was limited to 90% of the Statutory Reserve Requirement (SRR) of each LCB, at any given day.
+
+...
+
+[Data](articles/093a580e.json)
+
+---
+
+### CBSL eases borrowing limits for banks
+
+*2024-02-08 08:19:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/cbsl-eases-borrowing-limits-for-banks/) · `en`
+
+COLOMBO (News 1st); The Central Bank of Sri Lanka (CBSL) announced today a relaxation of restrictions on borrowing by commercial banks, aiming to stimulate the domestic money market and accelerate a decline in interest rates.
+
+In January 2023, the CBSL imposed limits on banks' access to its overnight lending and deposit facilities (Standing Lending Facility and Standing Deposit Facility) to encourage them to rely more on the interbank call money market. This move aimed to revitalize the money market and reduce banks' overdependence on the central bank.
+
+The CBSL reports that the initial restrictions achieved their intended goals, reactivating the money market and moderating competition for deposits among banks. The measures also helped align market interest rates with the central bank's monetary policy stance while maintaining financial system stability.
+
+...
+
+[Data](articles/fb3e021e.json)
+
+---
+
+### Sapporo Snow Festival 2024
+
+*2024-02-08 08:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sapporo-Snow-Festival-2024/110-276568) · `en`
+
+The Sapporo Snow Festival - an annual celebration now in its 74th year - is in full swing.
+
+Set across three main venues in Sapporo city on the island of Hokkaido - Ōdōri Park, Susukino, and Tsudome - the snowy free-entry spectacle is the most popular winter event in Japan, attracting two million visitors each year.
+
+In total, 196 awe-inspiring snow and ice sculptures are on display - from fairy-tale castles to galloping thoroughbred horses, and from grinning dinosaurs to manga heroes. (Daily Mail)
+
+◼️
+
+[Data](articles/698882db.json)
+
+---
+
+### UK to closely monitor Sri Lanka’s Online Safety Act amidst int’l concerns
+
+*2024-02-08 08:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UK-to-closely-monitor-Sri-Lankas-Online-Safety-Act-amidst-intl-concerns/108-276565) · `en`
+
+Colombo, Feb 8 (Daily Mirror) - While claiming that the Sri Lankan Parliament passed the Online Safety Act on 24 January, despite concerns raised by international internet providers and various other concerned parties, the United Kingdom has stated that it will closely monitor the progress of this Act.
+
+Despite concerns expressed by civil society, opposition parties and international internet providers regarding the potential negative impacts of the Online Safety Act, the Sri Lankan Parliament passed it into law on 24 January, Anne-Marie Trevelyan Minister of State (Foreign, Commonwealth and Development Office) informed the UK Parliament.
+
+“The UK also raised concerns about the impact of this Act on the freedom of expression and economic growth, including when I met Sri Lankan President Wickremesinghe in October, and when Lord (Tariq) Ahmad, Minister of State for South Asia, met Sri Lankan Foreign Minister Ali Sabry on 25 January,” she stated in a written statement to the UK Parliament.
+
+◼️
+
+[Data](articles/c11d6aac.json)
 
 ---
 
@@ -65,6 +133,22 @@ The game team will be released to the finals of the team on the day following.
 [Data](articles/38c53129.json)
 
 [Extended Data](ext_articles/38c53129.ext.json)
+
+---
+
+### Central Bank relaxes restrictions imposed on standing facilities
+
+*2024-02-08 07:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-relaxes-restrictions-imposed-on-standing-facilities/108-276567) · `en`
+
+The Monetary Board decided this week to relax the restrictions imposed on the Standing Facilities to Licensed Commercial Banks (LCBs) under Open Market Operations (OMOs).
+
+With effect from the reserve maintenance period commencing 16 February 2024, the restriction on the Standing Lending Facility (SLF) will be removed and the restriction on the Standing Deposit Facility (SDF) will be relaxed from five times (05) to ten times (10) during a calendar month.
+
+The decision was taken at a special Monetary Board meeting held yesterday, after carefully reviewing the developments in the domestic money market, as well as the behaviour of LCBs in terms of market participation along with the improvements in liquidity, the Central Bank said.
+
+◼️
+
+[Data](articles/28a9f50b.json)
 
 ---
 
@@ -240,6 +324,24 @@ Speaking to the media in Bambalapitiya
 
 ---
 
+### SJB vies for Indian favor ahead of Presidential Elections following NPP move
+
+*2024-02-08 07:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SJB-vies-for-Indian-favor-ahead-of-Presidential-Elections-following-NPP-move/155-276564) · `en`
+
+Colombo, Feb 8 (Daily Mirror) - Hot on the heels of the National People’s Power (NPP) undertaking a familiarization tour of India with interactions with the top Indian officials, the main opposition Samagi Jana Balawegaya (SJB) has sought a similar opportunity from India, Daily Mirror learns.
+
+The NPP led by its leader Anura Kumara Dissanayake is currently in India on a five –day tour. The NPP leaders have already held talks with Indian External Affairs Minister Dr.S.Jaishankar, National Security Advisor Ajit Doval and Foreign Secretary Vinay Mohan.
+
+They were supposed to meet Chief Minister of Gujarat Bupendra Patel yesterday. Afterwards, they were expected to arrive in Kerala.
+
+Sensing the political mileage from such engagements in India for a party like the NPP ahead of the presidential election, the SJB has sought a similar visit. According to an informed source, India has responded favourably to the request.
+
+...
+
+[Data](articles/a8cc76bc.json)
+
+---
+
 ### 42 including pickpockets and ‘perverts’ nabbed in operation to curb public transport harassment
 
 *2024-02-08 07:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97098/42-including-pickpockets-and-perverts-nabbed-in-operation-to-curb-public-transport-harassment) · `en`
@@ -275,6 +377,28 @@ According to the People's Ministry of Defense, several civilian garment police o
 [Data](articles/76417e1c.json)
 
 [Extended Data](ext_articles/76417e1c.ext.json)
+
+---
+
+### Shotguns to control wild boar, toque monkeys, giant squirrels
+
+*2024-02-08 06:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shotguns-to-control-wild-boar-toque-monkeys-giant-squirrels/108-276563) · `en`
+
+Colombo, Feb 8 (Daily Mirror) - The Agriculture Ministry has decided to reduce the extent of five acres stipulated earlier, to two acres of farmland for their owners to qualify to own shotguns to protect their crops.
+
+The Ministry said that most farmers have abandoned their crops since wild boar, toque monkeys and giant squirrels have destroyed their crops, and the damage caused has exceeded fifty percent.
+
+Therefore, the government has to implement the proposal of the farmers, as there is currently no viable alternative to reduce damages caused by wildlife.
+
+In 2023, wild animals have destroyed 300 million coconut plantations in the country, the Ministry claimed.
+
+In 2022, 96 million coconuts were destroyed by toque monkeys and giant squirrels. It has been confirmed that these wild animals destroy about 40 percent of the total crops.
+
+"If we can protect crops from wild animals, we can be self-sufficient in food without cultivating new crops," the Ministry said.
+
+...
+
+[Data](articles/d798c85c.json)
 
 ---
 
@@ -353,6 +477,28 @@ Police said the fire brigade of the Gampaha Municipal Council took action to ext
 [Data](articles/ad64b6e7.json)
 
 [Extended Data](ext_articles/ad64b6e7.ext.json)
+
+---
+
+### SL finance and leasing industry’s operative environment to remain stable: Fitch
+
+*2024-02-08 04:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-finance-and-leasing-industrys-operative-environment-to-remain-stable-Fitch/108-276561) · `en`
+
+Says easing inflation and interest rate pressures should provide steadier conditions
+
+Points out some headwinds linger, as higher taxes will continue to weigh on household finances
+
+Gives Asia Asset Finance a first-time rating of ‘A+(lka)’, with a stable outlook
+
+The operating environment for the Sri Lankan finance and leasing company (FLC) industry is expected to continue to stabilise, following the inflation and interest rate shocks over the past two years, Fitch Ratings said yesterday.
+
+It noted that the easing inflation and interest rate pressures should provide steadier conditions for the FLC sector performance.
+
+“Some headwinds linger, as higher taxes will continue to weigh on household finances in 2024. Investor confidence will also take time to recover. Nonetheless, we expect the economic activity to improve in FY25 as GDP growth recovers,” the rating agency said.
+
+...
+
+[Data](articles/2a328274.json)
 
 ---
 
@@ -457,6 +603,72 @@ Hayleys Aventura Ltd., a subsidiary of Hayleys PLC, recently hosted the inaugura
 [Data](articles/b38f1c30.json)
 
 [Extended Data](ext_articles/b38f1c30.ext.json)
+
+---
+
+### விபத்தில் மாணவன் பலி
+
+*2024-02-08 02:43:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-மாணவன்-பலி/175-332871) · `ta`
+
+குறித்த மாணவன் தனது 2 நண்பர்களுடன் மோட்டார் சைக்கிளில் பயணித்துக்கொண்டிருந்தபோது, மோட்டார் சைக்கிள் வீதிக்கு அருகாமையில் இருந்த மின்கம்பத்தில் மோதி விபத்துக்குள்ளாகியுள்ளது.
+
+◼️
+
+[Data](articles/ec454652.json)
+
+---
+
+### சுற்றுலாப் பயணிகளின் வருகை அதிகரிப்பு
+
+*2024-02-08 02:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகளின்-வருகை-அதிகரிப்பு/175-332870) · `ta`
+
+இந்த மாதத்தின் முதல் நான்கு நாட்களில் 28 ஆயிரத்து 493 வெளிநாட்டு சுற்றுலாப் பயணிகள் நாட்டை வந்தடைந்துள்ளனர் என சுற்றுலா அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+
+இதன்படி, சராசரியாக நாளொன்றில் 7 ஆயிரத்துக்கும் அதிகமான சுற்றுலாப் பயணிகள் வந்துள்ளனர் என தெரிவிக்கப்படுகிறது.
+
+2023 ஆம் ஆண்டின் பெப்ரவரி மாதத்தில் இலங்கைக்கு மொத்தமாக 1 லட்சத்து 7 ஆயிரத்து 639 சுற்றுலாப் பயணிகள் இலங்கை வந்திருந்தனர் என சுற்றுலா அபிவிருத்தி அதிகார சபை குறிப்பிட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/1f17e702.json)
+
+---
+
+### ’சபாநாயகருக்கு எதிராக பிரேரணை’
+
+*2024-02-08 02:34:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருக்கு-எதிராக-பிரேரணை/175-332869) · `ta`
+
+கல எதிர்க்கட்சிகளுடன் கலந்துரையாடி சபாநாயகருக்கு எதிராக வெகுவிரைவில் நம்பிக்கையில்லா பிரேரணையை கொண்டு வருவோம் என பாராளுமன்ற உறுப்பினர் பேராசிரியர் ஜீ.எல்.பீரிஸ் தெரிவித்தார்.
+
+நாடாளுமன்ற கட்டடத் தொகுதியில் உள்ள எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் நேற்று இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போதே அவர் இவ்வாறு குறிப்பிட்டுள்ளார். அவர் மேலும் தெரிவிக்கையில்,
+
+" நிகழ்நிலை காப்புச் சட்டத்தினால் நாட்டு மக்களின் பேச்சு உரிமை முடக்கப்பட்டுள்ளது. மறுபுறம் உத்தேச  பயங்கரவாத எதிர்ப்புச் சட்டமூலம் சமர்ப்பிக்கப்பட்டுள்ளது.
+
+சபாநாயகரின் செயற்பாடுகள் முறையற்றவை. இவருக்கு எதிராக நம்பிக்கையில்லா பிரேரணையை கொண்டு வருவதாக எதிர்க்கட்சித் தலைவர் குறிப்பிட்டுள்ளார். சகல எதிர்க்கட்சிகளுடன் கலந்துரையாடி சபாநாயகருக்கு எதிராக வெகுவிரைவில் நம்பிக்கையில்லா பிரேரணையை கொண்டு வருவோம்."  என்றார்.  (a)
+
+◼️
+
+[Data](articles/30ad5955.json)
+
+---
+
+### Cabinet nod to import up to 15,000 tonnes of cashew nuts this year
+
+*2024-02-08 02:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-nod-to-import-up-to-15-000-tonnes-of-cashew-nuts-this-year/108-276554) · `en`
+
+The Cabinet nod has been given to import up to 15,000 tonnes of cashew nuts in shell this year, as the cashew harvest halved to 12,500 tonnes.
+
+Although the country’s annual cashew nut demand is estimated at 25,000 tonnes, the Government Information Department noted that currently only 12,500 tonnes of cashew nuts can be procured locally.
+
+“... the cashew industry in the country facing a very unfortunate situation, as the crop has not been harvested as expected in the last season,”
+
+Accordingly, Agriculture and Plantation Industries Minister Mahinda Amaraweera this week sought the approval of the Cabinet of Ministers to import a maximum of 15,000 cashew nuts in shell this year and to import a quantity determined by the committee consisting of senior officials of the relevant ministries, from December to April, when local cashew is not available in the next four years.
+
+The cashew season in the country usually begins in March and continues through April.
+
+◼️
+
+[Data](articles/cf4e2655.json)
 
 ---
 
@@ -1745,249 +1957,5 @@ On 28 January ill-gotten properties worth Rs.55 million allegedly owned by ‘Ku
 [Data](articles/8b2d19b5.json)
 
 [Extended Data](ext_articles/8b2d19b5.ext.json)
-
----
-
-### Suspects hospitalized after ingesting unidentified substance given by a visitor at Police cell
-
-*2024-02-07 18:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspects-hospitalized-after-ingesting-unidentified-substance-given-by-a-visitor-at-Police-cell/108-276528) · `en`
-
-Two suspects, who were detained at the Wolfendhal Police Station over a recent shooting in the area of Jinthupitiya, were admitted to the Colombo National Hospital today (7) after drinking a packet of milk given to them by a visitor.
-
-Two suspects had lost consciousness after they consumed milk packets and it is suspected that the packet of milk contained a toxin, police said.
-
-The police allege that milk packets were mixed with cyanide and given to the suspects to drink.
-
-One of the suspects who fell ill is the suspect who shot and killed a person on January 24 in the Jinthupitiya area, and the other suspect acted as an informant.
-
-Chamindu Darshan (27), a resident of Serunuwara who was identified as the shooter and other suspect Lakshitha Fernando (29), a resident of Colombo-13 are hospitalized in a critical condition.
-
-◼️
-
-[Data](articles/f7551849.json)
-
-[Extended Data](ext_articles/f7551849.ext.json)
-
----
-
-### The Chief Minister of Gujarat. Leaders of National People's Power
-
-*2024-02-07 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175836) · `ta`
-
-Chief Minister of Gujarat on Wednesday (07). Bhupendrabhai Patel held a meeting with Gandhinagar's Commanding Council (State Legislative Assembly). Discussions were held on the development of the state and the state administration of the state to eradicate poverty.
-
-Thereafter a special meeting was held with the Minister of Industry of the State and a submission of "Gujarat Model", which is used as the development of the Government of India.. The main segments of this Gujarat examples are the rehabilitation, agriculture and water, development of infrastructure, industrial and investment, health care and strengthening women.
-
-A tour of agricultural areas and agriculture based on agriculture in Ahmedabad was also a tour.
-
-◼️
-
-[Data](articles/f50dade4.json)
-
-[Extended Data](ext_articles/f50dade4.ext.json)
-
----
-
-### One fisherman killed, seven others hospitalised after exposure to noxious gas
-
-*2024-02-07 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97089/one-fisherman-killed-seven-others-hospitalised-after-exposure-to-noxious-gas-) · `en`
-
-One fisherman was reported dead while seven others were hospitalised after inhaling a noxious gas within the cargo hold of a fishing vessel.
-
-According to police, the vessel had been docked at the Ambalangoda Fisheries Harbour when the eight fishermen had been exposed to the noxious gas.
-
-While one of them had succumbed to the effects of the gas, the seven others are currently receiving medical treatment, police reported.
-
-◼️
-
-[Data](articles/75a1e344.json)
-
-[Extended Data](ext_articles/75a1e344.ext.json)
-
----
-
-### Fisheman dies, seven others hospitalized due to toxic gas leak
-
-*2024-02-07 18:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fisheman-dies-seven-others-hospitalized-due-to-toxic-gas-leak/108-276527) · `en`
-
-A fisherman died and several others hospitalised due to inhaling a toxic gas inside a fish tank of a fishing vessel docked at the Ambalangoda Fisheries Harbour.
-
-Police said the eight fishermen have been hospitalized following which one had died.
-
-The other seven fishermen are currently receiving treatment at the Balapitiya Hospital.
-
-◼️
-
-[Data](articles/c181a457.json)
-
-[Extended Data](ext_articles/c181a457.ext.json)
-
----
-
-### Sri Lanka Treasury bill auction yields down
-
-*2024-02-07 18:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-auction-yields-down-150325/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields fell across maturities on Wednesday’s auction, data from the state debt office showed.
-
-The debt office offered 40 billion rupees of 3-month bills and sold 50.9 billion.
-
-The 6-month yield fell 113 basis points to 11.07 percent with 50 billion rupees offered and 39 billion sold.
-
-The 12-month yield fell 127 basis points with 55 billion rupees offered and 55 billion sold.
-
-The debt office offered 145 billion rupees of bills and sold 145 billion rupees. (Colombo/Feb7/2024)
-
-◼️
-
-[Data](articles/50fc26ba.json)
-
-[Extended Data](ext_articles/50fc26ba.ext.json)
-
----
-
-### Attorney General's statement on the Nuwara Eliya Post Office Building
-
-*2024-02-07 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193094) · `si`
-
-The Attorney General has stated in court today that the decision of the Nuwara Eliya Post Office Building for the private sector.
-
-Additional Solicitor General Group was also notified when a petition filed as a petition filed to issue the building to the private sector.
-
-The lawyer appearing on behalf of the petitioner, the lawyer said that the post office building was discussed at the District Coordinating Factory for the private sector.
-
-Therefore, the lawyer has warned that this post office has risen to the private sector at any time.
-
-Additional Solicitor General, who appeared for the Attorney General said, no decision has been taken to transfer the post office to the private sector.
-
-◼️
-
-[Data](articles/995a3895.json)
-
-[Extended Data](ext_articles/995a3895.ext.json)
-
----
-
-### How the Lifesting Car was found in the last
-
-*2024-02-07 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193093) · `si`
-
-Police have found a special operation with a luxury car that was abducted by a business couple.
-
-The abducted a luxury car belonging to a business couple from Kalagedihena.
-
-They had taken away a luxury van while drinking soup near the Yakkala Mahawita area.
-
-One suspect had a knife to put a knife and threatened her smartphone and shook her smartphone.
-
-The business couple have complained to the police that their car was abducted.
-
-Then heeragula, Bemmulla and Pallewela Police officers have launched a joint operation.
-
-Police investigations have revealed that the car traveled on a side road in the area of Balalin Meknigoda and had been staying in a corner of the Wattane Makanigoda.
-
-The police then undertake the suspects that the suspects had fled the area.
-
-However, the police have arrested one suspect in the way to re-carry the car after the arrival of GPS technology.
-
-...
-
-[Data](articles/b8a449c5.json)
-
-[Extended Data](ext_articles/b8a449c5.ext.json)
-
----
-
-### The death of a fisherman who breathed poison gas;More and more at the hospital
-
-*2024-02-07 17:58:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஷ-வாயுவை-சுவாசித்த-மீனவர்-மரணம்-மேலும்-பலர்-வைத்தியசாலையில்/175-332846) · `ta`
-
-A fisherman has died after breathing poison gas, allegedly formed in a fish collection tank of a fishing boat parked at Ambalangoda fishing harbor.
-
-Eight fishermen who were affected by poisonous gas were admitted to the hospital, one of them died, police said.
-
-The other 7 fishermen are currently receiving treatment at the Balapitiya Hospital. Remble
-
-◼️
-
-[Data](articles/8cf2e8cc.json)
-
-[Extended Data](ext_articles/8cf2e8cc.ext.json)
-
----
-
-### Sri Lanka rupee closes at 313.00/50 to the US dollar
-
-*2024-02-07 17:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-313-00-50-to-the-us-dollar-150315/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 313.00/50 to the US dollar Wednesday, from 314.00/50 on Tuesday, dealers said.
-
-A bond maturing on 01.02.2026 closed at 11.05/20 down from 11.40/55 percent.
-
-A bond maturing on 15.09.2027 closed at 11.95/12.10 down from 12.20/25 percent.
-
-A bond maturing on 15.03.2028 closed at 12.15/25 down from 12.50/55 percent.
-
-A bond maturing on 15.05.2030 closed at 12.60/80 down from 12.95/13.10 percent.
-
-A bond maturing on 01.07.2032 closed at 12.75/13.00 percent. (Colombo/Feb7/2024)
-
-◼️
-
-[Data](articles/1f78eb89.json)
-
-[Extended Data](ext_articles/1f78eb89.ext.json)
-
----
-
-### Kudu Roshan and Brother released on bail
-
-*2024-02-07 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175831) · `ta`
-
-Gudu Roshan and his brother, who were arrested and interrogated during a strategy during the Varakapola area, have been released on bail with strict bail conditions.
-
-The court ordered the release of Kudu Roshan as a cash bail of Rs 3 crore and the other suspect was a cash bail of Rs 50 lakh.
-
-In addition, Gudu Roshan was ordered to impose 7 bail of Rs.
-
-◼️
-
-[Data](articles/eaa773ab.json)
-
-[Extended Data](ext_articles/eaa773ab.ext.json)
-
----
-
-### Fisherman's death: 7 people in hospital: Ambalangoda fishing port
-
-*2024-02-07 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175828) · `ta`
-
-A fisherman has died after breathing poison gas, allegedly formed in a fish collection tank of a fishing boat parked at Ambalangoda fishing harbor.
-
-Eight fishermen who were affected by poisonous gas were admitted to the hospital, one of them died, police said.
-
-◼️
-
-[Data](articles/6d46f184.json)
-
-[Extended Data](ext_articles/6d46f184.ext.json)
-
----
-
-### Ports Authority gets 3 new STS cranes to boost capacity at ECT
-
-*2024-02-07 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97088/ports-authority-gets-3-new-sts-cranes-to-boost-capacity-at-ect) · `en`
-
-East Container Terminal (ECT) at the Port of Colombo has received three new ship-to-shore (STS) cranes from China as part of a US$282m equipment order placed by the Sri Lanka Ports Authority (SLPA).
-
-Delivered to the port by the Zhen Hua 24, the cranes have an outreach of 72 m – 26 teu across – with a back reach that extends to 25 m, a lifting height above rail of 55 m and a lifting height below rail of 18 m.
-
-The maximum load capacity under the spreader is 65 tonne while under the lifting beam each crane can handle up to 75 tonnes.
-
-◼️
-
-[Data](articles/bdd21a6a.json)
-
-[Extended Data](ext_articles/bdd21a6a.ext.json)
 
 ---

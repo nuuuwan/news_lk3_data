@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 00:32:54**
+As of **2024-02-09 00:47:43**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 830
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,829 (100.0%) of 5,830 articles have been extended.
+5,830 (100.0%) of 5,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### வவுனியாவில் மோட்டர் சைக்கிளில் வந்த இருவர் பெண் ஒருவரிடம் கைவரிசை
+### Two men on motorbike in Vavuniya
 
 *2024-02-08 23:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/175934) · `ta`
 
-வவுனியா, கந்தபுரம் பகுதியில் மோட்டர் சைக்கிளில் வந்த இருவர் பெண் ஒருவரின் தங்கச் சங்கிலியை அறுத்துச் சென்றுள்ளதாக வவுனியா பொலிஸில் முறைப்பாடு செய்யப்பட்டுள்ளதாக பொலிஸார் வியாழக்கிழமை (8) தெரிவித்தனர்.
+Police have complained to the Vavuniya police that two men on a motorcycle in Kandapuram, Vavuniya, have been lodged with a gold chain.
 
-வவுனியா, கந்தபுரம் பகுதியில் வசிக்கும் பெண் ஒருவர் வீதியில் சென்ற போது பின் தொடர்ந்து மோட்டர் சைக்கிளில் சென்ற இருவர், குறித்த பெண்ணிடம் வேறு ஒருவரின் முகவரி விசாரிப்பது போன்று கதைத்து விட்டு அவர் அணிந்திருந்த தங்கச் சங்கிலியை அறுத்துச் சென்றுள்ளனர்.
+When a woman living in Kandapuram, Vavuniya, after going on the street, two people who went on a motorbike, cut off the gold chain she was wearing.
 
-இது தொடர்பில் செய்யப்பட்ட முறைப்பாட்டுக்கு அமைய வவுனியா பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளதாக அவர்கள் மேலும் தெரிவித்தனர்.
+They further stated that the Vavuniya police are investigating the complaint.
 
 ◼️
 
 [Data](articles/a513b12f.json)
+
+[Extended Data](ext_articles/a513b12f.ext.json)
 
 ---
 

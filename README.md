@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 11:17:17**
+As of **2024-02-08 11:34:07**
 
 ## Newspaper Stats
 
-*Scraped **5,660** Articles*
+*Scraped **5,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 316
 newsfirstlk | 346
 adalk | 477
 virakesarilk | 694
-adaderanalk | 694
+adaderanalk | 700
 tamilmirrorlk | 706
 adaderanasinhalalk | 745
 dailymirrorlk | 803
@@ -26,7 +26,7 @@ dailymirrorlk | 803
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,660 (100.0%) of 5,660 articles have been extended.
+5,660 (99.9%) of 5,666 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -63,6 +63,22 @@ When I met the President of Sri Lanka last year, I had expressed concern over th
 [Data](articles/127050a8.json)
 
 [Extended Data](ext_articles/127050a8.ext.json)
+
+---
+
+### Acting IGP pledges strict legal action against cops involved with criminals
+
+*2024-02-08 10:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97107/acting-igp-pledges-strict-legal-action-against-cops-involved-with-criminals) · `en`
+
+The Acting Inspector General of Police (IGP) Deshabandu Tennakoon states that information on the police officers involved with members of organized criminal gangs have been uncovered.
+
+Speaking to the media in Colombo, Tennakoon further warned that he would not hesitate to enforce the law against such officers regardless of their ranks.
+
+The Acting IGP further mentioned that details about a few police officers who aided and abetted the notorious criminal figure and drug trafficker Nadun Chinthaka alias “Harak Kata” have also been dug up.
+
+◼️
+
+[Data](articles/678284c8.json)
 
 ---
 
@@ -127,6 +143,22 @@ President Ranil Wickremesinghe will deliver the keynote address at this year's c
 [Data](articles/9ba9daf0.json)
 
 [Extended Data](ext_articles/9ba9daf0.ext.json)
+
+---
+
+### 728 more suspects arrested during operation ‘Yukthiya’
+
+*2024-02-08 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97106/728-more-suspects-arrested-during-operation-yukthiya) · `en`
+
+A total of 728 more suspects have been arrested by Sri Lanka’s police and security forces personnel within a 24-hour window ending at 12.00 a.m. today (Feb. 08) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+According to the Ministry of Public Security, the narcotics taken into custody during this 24-hour window include 122g of heroin, 101g of crystal methamphetamine (Ice), 05kg 217g of cannabis, 23,521 cannabis plants and 1,852 narcotic pills.
+
+Out of the 728 suspects, 558 have been arrested over drug-related offences, while the other 170 suspects were identified as listed criminals in numerous police divisions, including the Police Narcotics Bureau (PNB) and the Police Special Task Force (STF). The Ministry also mentioned that warrants had been issued against 18 of the suspects for drug-related offences, and that 145 others had open warrants against them for non-drugs related offences.
+
+◼️
+
+[Data](articles/8f73e370.json)
 
 ---
 
@@ -221,6 +253,30 @@ Hikkadu OIC Chief Inspector General Inspector General Inspector General Inspecto
 [Data](articles/a98629dc.json)
 
 [Extended Data](ext_articles/a98629dc.ext.json)
+
+---
+
+### Israeli PM Benjamin Netanyahu rejects Hamas’s Gaza ceasefire proposal
+
+*2024-02-08 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97105/israeli-pm-benjamin-netanyahu-rejects-hamass-gaza-ceasefire-proposal) · `en`
+
+Israel’s Prime Minister Benjamin Netanyahu has rejected Hamas’s proposed ceasefire terms - saying “total victory” in Gaza is possible within months.
+
+He was speaking after Hamas laid out a series of demands in response to an Israel-backed ceasefire proposal.
+
+Mr Netanyahu said negotiations with the group were “not going anywhere” and described their terms as “bizarre”.
+
+“There is no other solution but a complete and final victory,” Mr Netanyahu told a news conference on Wednesday.
+
+“If Hamas will survive in Gaza, it’s only a question of time until the next massacre.”
+
+Israel was expected to take issue with Hamas’s counter-offer, but this response is a categorical rebuke, and Israeli officials clearly see an effort by Hamas to end the war on its terms as utterly unacceptable.
+
+Senior Hamas official Sami Abu Zuhri told the Reuters news agency that Mr Netanyahu’s remarks “are a form of political bravado”, and show he intends to pursue the conflict in the region.
+
+...
+
+[Data](articles/d711e114.json)
 
 ---
 
@@ -486,6 +542,26 @@ The suspect is a 42 year old resident of Laxili
 
 ---
 
+### Jagath Priyankara sworn in as MP
+
+*2024-02-08 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97104/jagath-priyankara-sworn-in-as-mp) · `en`
+
+L.K. Jagath Priyankara has been sworn in as a Member of Parliament to fill the seat left vacant following the death of State Minister Sanath Nishantha who represented the Puttalam constituency.
+
+The new MP took oaths before Speaker Mahinda Yapa Abeywardena shortly after the parliamentary session kicked off at 9.30 a.m. this morning (Feb.08).
+
+Priyankara is a member of the National Freedom Front (Jathika Nidahas Peramuna) led by MP Wimal Weerawansa.
+
+State Minister Sanath Nishantha, 48, and his security officer suffered tragic deaths in a crash that took place on the Colombo - Katunayake expressway on January 25. The lawmaker’s driver, however, survived the accident.
+
+The car, which they had been travelling in, had crashed against the roadside barrier on the Katunayake Expressway, after rear-ending a moving container truck. The group were returning from a wedding ceremony held at a hotel in Chilaw
+
+...
+
+[Data](articles/a5ed2a86.json)
+
+---
+
 ### Police arrests 42 suspects over abuse, thefts on public transport
 
 *2024-02-08 09:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-arrests-42-suspects-over-abuse-thefts-on-public-transport/108-276572) · `en`
@@ -544,6 +620,26 @@ Police have seized 122 grams of heroin in possession of 122 grams of heroin, 51 
 
 ---
 
+### Adjournment debate on government’s policy statement commences
+
+*2024-02-08 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97103/adjournment-debate-on-governments-policy-statement-commences) · `en`
+
+The adjournment debate on the government’s policy statement, presented by President Ranil Wickremesinghe, commenced in Parliament a short while ago.
+
+The Fifth Session of the Ninth Parliament will be ceremonially declared open by the President on Wednesday (Feb.07), after which he also presented the government’s policy statement. In the past, the policy statement was referred to as the Throne Speech and was presented by the Governor.
+
+The adjournment debate on the government’s policy statement is scheduled to be held over two days, today (Feb.08) and tomorrow (Feb.09), from 9.30 a.m. to 5.30 p.m.
+
+Meanwhile, the Resolution under the Essential Public Services Act is scheduled to be approved without a debate on 08 February, before continuing the adjournment debate on the government’s policy statement.
+
+Sri Lanka Parliament was prorogued with effect from midnight on 26 January, marking the closure of the Fourth Session of the Ninth Parliament.
+
+...
+
+[Data](articles/ae273b2f.json)
+
+---
+
 ### The President has departed Australia
 
 *2024-02-08 09:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுஸ்திரேலியா-புறப்பட்டார்-ஜனாதிபதி/175-332875) · `ta`
@@ -592,6 +688,24 @@ Meanwhile, Jagath Priyankara was sworn in as a Member of Parliament today (08) a
 
 ---
 
+### Mobile phone services suspended across Pakistan as voting begins
+
+*2024-02-08 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97102/mobile-phone-services-suspended-across-pakistan-as-voting-begins) · `en`
+
+Pakistan temporarily suspended mobile phone services on Thursday to strengthen security as voting began in the country’s national election, the interior ministry said.
+
+The government’s decision comes amidst a rise in militant attacks in the run-up to the election and a day after jailed former Prime Minister Imran Khan urged his supporters to wait outside polling booths after voting until results are announced.
+
+“As a result of the recent incidents of terrorism in the country precious lives have been lost, security measures are essential to maintain the law and order situation and deal with possible threats, hence the temporary suspension of mobile services across the country,” the interior ministry said in a message on X.
+
+Two blasts near election offices on Wednesday killed 26 people in the southwestern province of Balochistan.
+
+...
+
+[Data](articles/dacecbcf.json)
+
+---
+
 ### Buddhist monk shot dead;Arrest
 
 *2024-02-08 09:28:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பௌத்த-பிக்கு-சுட்டுக்-கொலை-ஒருவர்-கைது/175-332873) · `ta`
@@ -609,6 +723,28 @@ On the morning of January 23, a man was shot dead in a Gampaha Malwatuhiripitiya
 [Data](articles/5ea89d3c.json)
 
 [Extended Data](ext_articles/5ea89d3c.ext.json)
+
+---
+
+### Suspect arrested over temple shooting that killed a Buddhist monk
+
+*2024-02-08 09:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/97101/suspect-arrested-over-temple-shooting-that-killed-a-buddhist-monk) · `en`
+
+A man has been arrested on suspicion of his involvement in the killing of a Buddhist monk at a temple in the Malwathuhiripitiya area last month. The arrest was made by the Western/North Crimes Division.
+
+In addition, the firearm used by the perpetrators was also recovered by the investigating officers.
+
+A Buddhist monk was shot dead inside a temple in the Malwathuhiripitiya area of Gampaha in the early hours of Jan 23.
+
+Earlier, the police stated that a T-56 assault rifle had been used by the perpetrator.
+
+The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustained critical injuries in the incident, had been rushed to the Gampaha Hospital. However, the monk had succumbed to injuries this afternoon while receiving treatment at the hospital.
+
+◼️
+
+[Data](articles/ea053641.json)
+
+[Extended Data](ext_articles/ea053641.ext.json)
 
 ---
 
@@ -932,7 +1068,9 @@ Accordingly, 294 Sri Lankans have come to India by sea and two of them have died
 
 President Ranil Wickremesinghe left the island this morning (Feb.08) for Australia on a state visit.
 
-The Sri Lankan leader has been invited to deliver the keynote address for the 7th Indian Ocean Conference, taking place in Perth from Feb. 09-10.
+At the invitation of the India Foundation and the Government of Australia, the Sri Lankan leader will deliver the keynote address for the 7th Indian Ocean Conference, taking place in Perth from Feb. 09-10.
+
+While attending the Indian Ocean Conference, Wickremesinghe will also explore investment opportunities for Sri Lanka, according to the President’s Media Division (PMD).
 
 ◼️
 
@@ -1853,151 +1991,5 @@ The Gazette has stated that the decision has been taken after discussing with Pr
 [Data](articles/d23618a9.json)
 
 [Extended Data](ext_articles/d23618a9.ext.json)
-
----
-
-### Formation Backup Act under the Ministry of Public Safety
-
-*2024-02-07 22:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175841) · `ta`
-
-According to the Gazette Notification of the Controversial Backup Act, the Ministry of Public Security has been brought under the Ministry of Public Security.
-
-According to the Special Gazette issued by the Presidential Secretariat, the Federation Act has been enacted under the Ministry of Public Security, with implementation on February 07.
-
-On January 24 last year, Parliament was passed in Parliament, despite the objections of opposition parties and social activists that would stop speech and media freedom.
-
-Many people have said that this fictional insulation law has many complex issues, which have attracted the attention of social activists and many organizations but also the attention of international diplomats.
-
-Significantly, the government said that the Ceremonial Backup Act was aimed at preventing unrealistic news and reports for the safety of the country.
-
-◼️
-
-[Data](articles/f255014f.json)
-
-[Extended Data](ext_articles/f255014f.ext.json)
-
----
-
-### Anura and delegation attend a presentation of ’Gujarat Model’in India
-
-*2024-02-07 22:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-and-delegation-attend-a-presentation-of-Gujarat-Modelin-India/108-276552) · `en`
-
-NPP leader Anura Kumara Dissanayake and the NPP delegation held talks with Gujarat chief minister Bhupendra Patel, where they discussed about the development strategies for eliminating poverty in the State and the administrative system of the State during their third day in India's visit.
-
-The meeting took place at the Vidhan Sabha, also known as the Gujarat Legislative Assembly in Gandhinagar, the capital of Gujarat.
-
-The delegation also held a special discussion with the Minister of Industries in the State and a presentation was made about the Gujarat Model which is used as development model of the Indian government. The key aspects of the Gujarat Model include energy reforms, agriculture and water, infrastructure development, industry and investment, healthcare and women's empowerment.
-
-The delegation was also engaged in a observation tour in the agricultural zones and the agricultural industries in Ahmedabad.
-
-...
-
-[Data](articles/2e4d67aa.json)
-
-[Extended Data](ext_articles/2e4d67aa.ext.json)
-
----
-
-### US plane missing
-
-*2024-02-07 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193103) · `si`
-
-Foreign media reports that a helicopter who has taken America Marines has disappeared.
-
-The helicopter was disappeared while flying to California from Las Vegas, US Vegas.
-
-At least five Marines have been reported at the time.
-
-The missing reports further stated that a helicopter of the ch-53E super stallion has disappeared.
-
-The liberation teams have launched a special operation in search of the helicopter.
-
-◼️
-
-[Data](articles/5f617fc3.json)
-
-[Extended Data](ext_articles/5f617fc3.ext.json)
-
----
-
-### Investigations found in a doctor sexually abused a doctor
-
-*2024-02-07 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193102) · `si`
-
-Police have launched an investigation into arrest of a doctor at Aranayaka Buddhist monastery regarding the abuse of a doctor.
-
-The doctor has been accused of sexually abusing a doctor in the hospital.
-
-The investigation has commenced on a complaint lodged on the 7th.
-
-The complaint has been lodged with the Kumara of the Kegalle Children's and Women's Bureau, the Kegalle Children's and Women's Bureau.
-
-◼️
-
-[Data](articles/166c61ff.json)
-
-[Extended Data](ext_articles/166c61ff.ext.json)
-
----
-
-### Shah Rukhu's football field
-
-*2024-02-07 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193101) · `si`
-
-Indian super-actor Shahukh Khan reserves a special place in social media column.
-
-Many are focusing on a unique video of the hot fluoes on social media networks.
-
-The video shows that the super-actor Shahkin Football.
-
-The specialty of this video is that it was shooting by a neighbor in his Kalcutta and covered the Internet.
-
-The video is now popular in the social media as a result of the most happy King Khan, who is among the busy actors.
-
-It can be seen by his younger son Abraham Khan.
-
-Some had added their views for this video, no Messi, not Messi, only Shah Rukh.
-
-◼️
-
-[Data](articles/ab86e002.json)
-
-[Extended Data](ext_articles/ab86e002.ext.json)
-
----
-
-### Self-proclaimed Avalokiteshvara Bodhisattva enlarged on bail
-
-*2024-02-07 21:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Self-proclaimed-Avalokiteshvara-Bodhisattva-enlarged-on-bail/108-276540) · `en`
-
-Self-proclaimed Avalokiteshvara Bodhisattva, Mahinda Kodithuwakku held in remand custody for allegedly insulting Buddhism and insulting religious feelings was today granted bail by Colombo Fort Magistrate's Court.
-
-The suspect was strongly advised not to violate bail conditions and was further ordered not to commit a similar offense while out on bail.
-
-Magistrate Thilina Gamage ordered the suspect to be released on two sureties of one million rupees. Meanwhile, the psychiatrist who examined the suspect's mental health condition, has recommended further treatment at the National Institute of Mental Health in Angoda. Accordingly, the suspect was further ordered to attend mental health clinics at the National Institute of Mental Health in Angoda every Monday.
-
-◼️
-
-[Data](articles/1338f38b.json)
-
-[Extended Data](ext_articles/1338f38b.ext.json)
-
----
-
-### Continental invests €13 Mn to expand specialty tires production in Sri Lanka
-
-*2024-02-07 21:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Continental-invests-13-Mn-to-expand-specialty-tires-production-in-Sri-Lanka/108-276539) · `en`
-
-Continental, a global leader in tire manufacturing, announced today a significant expansion of its Specialty Tires production footprint in Sri Lanka.
-
-The company is set to invest €13 million over the next three years to bolster local pre-production capabilities at its Kalatura plant, aiming to achieve self-sufficiency in material handling tire production. This move is geared towards optimizing the manufacturing process and reducing cross-country dependencies in the logistic supply chain.
-
-Since its establishment in 2009, the Kalutara plant has been a key player in the production of industrial solid tires for forklifts and other material handling vehicles. With a focus on Press-on-Band tires and Super Elastic tires, the plant caters primarily to American, Asian, and select European markets.
-
-...
-
-[Data](articles/55218241.json)
-
-[Extended Data](ext_articles/55218241.ext.json)
 
 ---

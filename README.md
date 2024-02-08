@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 16:32:41**
+As of **2024-02-08 16:47:45**
 
 ## Newspaper Stats
 
@@ -26,35 +26,41 @@ dailymirrorlk | 814
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,741 (100.0%) of 5,743 articles have been extended.
+5,743 (100.0%) of 5,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### දින 22ක් තිස්සේ 'ජෙරම් පුතා' ගැන ආරංචියක් නැහැ
+### There is no news of 'Jerem Son' for 22 days
 
 *2024-02-08 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193136) · `si`
 
-දින 22 කට පෙර මීගමුව ධීවර වරායෙන් මුහුදු ගිය 'ජෙරම් පුතා' නම් බහුදින යාත්‍රාවෙන් කිසිඳු තොරතුරක් ගොඩබිමට ලැබි නැති බව මුහුදු ගිය පිරිසගේ ඥාතීන් පවසයි.
+The relatives of the sea say that no information has been landed on the 'Jeerem Son' of the 'Jeerem Son' of the 'Jeerem Son' of the Colombo Fisheries Harbor.
 
-මෙලෙස ධීවර කටයුතු සඳහා මුහුදු ගොස් ඇත්තේ මීගමුව, වැල්ලවිදීය, තොඩුවාව යන ප්‍රදේශවල පදිංචි පුද්ගලයින් සිව්දෙනෙකි.
+Four persons from Negombo, Wella, Toduwawa areas have gone to the fisheries activities.
 
-"අපේ තාත්තා මුහුදු ගියා. අදට දවස් 20කටත් වැඩියි. තාම ආරංචියක් නැහැ. රජයෙන් ඉල්ලා සිටින්නේ ඔවුන්ට කරදරයක් වෙලානම් ඔවුන්ව බේරගන්න කියලා. මගේ තාත්තා ඇතුළු අනෙක් අයව පණපිටින් අපට ගොඩට ගෙනල්ලා දෙන්න."
+"Our father went to the sea. More than 20 days today. There's no news. The government requests them to save them. Bring us back to us alive alive. "
 
 ◼️
 
 [Data](articles/9d361649.json)
 
+[Extended Data](ext_articles/9d361649.ext.json)
+
 ---
 
-### இலங்கையில் திறந்த அரசாங்க பங்குடைமை (OGP) செயன்முறையிலுள்ள சிவில் சமூக அமைப்புகள் எதிர்ப்புத் தெரிவித்து விலகல்
+### Civil Social Organizations in Sri Lanka
 
 *2024-02-08 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175900) · `ta`
 
-...
+Civil Social Organizations (CSOS) contributing to the preparation of the Third National Project (NAP) associated with the OGP program of Sri Lanka's OGP (OGP) program. This has been forced to oppose the recent actions of the government, especially the government, and the efforts to introduce the anti -terrorism bill in spite of the widespread opposition, and have forced us to be a policy stance against the suppression of civil society and the basic freedom of the public.. This decision was taken in response to the dangerous initiatives of Sri Lanka's open government share (OGP) in the country, after the group was decisively considered.The joint decision was officially announced to the President by letter today.
+
+◼️
 
 [Data](articles/bb4131ce.json)
+
+[Extended Data](ext_articles/bb4131ce.ext.json)
 
 ---
 

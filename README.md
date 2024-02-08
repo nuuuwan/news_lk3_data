@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 07:30:26**
+As of **2024-02-08 07:41:55**
 
 ## Newspaper Stats
 
-*Scraped **5,593** Articles*
+*Scraped **5,596** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 316
 newsfirstlk | 342
 adalk | 472
 virakesarilk | 684
-adaderanalk | 690
-tamilmirrorlk | 695
+adaderanalk | 692
+tamilmirrorlk | 696
 adaderanasinhalalk | 725
 dailymirrorlk | 792
 
@@ -26,11 +26,41 @@ dailymirrorlk | 792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,593 (100.0%) of 5,593 articles have been extended.
+5,593 (99.9%) of 5,596 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### President Ranil embarks on official visit to Australia
+
+*2024-02-08 07:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97099/president-ranil-embarks-on-official-visit-to-australia) · `en`
+
+President Ranil Wickremesinghe left the island this morning (Feb.08) for Australia on a state visit.
+
+The Sri Lankan leader has been invited to deliver the keynote address for the 7th Indian Ocean Conference, taking place in Perth from Feb. 09-10.
+
+◼️
+
+[Data](articles/46118b56.json)
+
+---
+
+### 42 including pickpockets and ‘perverts’ nabbed in operation to curb public transport harassment
+
+*2024-02-08 07:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97098/42-including-pickpockets-and-perverts-nabbed-in-operation-to-curb-public-transport-harassment) · `en`
+
+A total of 42 suspects have been arrested in a special island-wide operation to curb harassment on public transport on Wednesday (Feb.07).
+
+Among the arrestees are 18 suspects accused of sexual harassment and 5 pickpockets.
+
+The special operation was mounted by policemen in civvies on public transport services, according to Acting IGP Deshabandu Tennakoon.
+
+◼️
+
+[Data](articles/fff64923.json)
+
+---
 
 ### Fire in a wooden factory
 
@@ -149,6 +179,22 @@ Hayleys Aventura Ltd., a subsidiary of Hayleys PLC, recently hosted the inaugura
 [Data](articles/b38f1c30.json)
 
 [Extended Data](ext_articles/b38f1c30.ext.json)
+
+---
+
+### குஜராத் முதல்வரை சந்தித்தார் அனுர
+
+*2024-02-08 02:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குஜராத்-முதல்வரை-சந்தித்தார்-அனுர/175-332868) · `ta`
+
+இந்தியா சென்றுள்ள தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திசாநாயக்க உள்ளிட்ட குழுவினர் குஜராத் முதலமைச்சர் பூபேந்திரபாய் பட்டேலை நேற்று சந்தித்துள்ளனர்.
+
+குஜராத் மாநிலத்தில் வறுமையை ஒழிப்பதற்கான அபிவிருத்தி மூலோபாய திட்டங்கள் மற்றும் பிராந்தியத்தின் நிர்வாக செயற்பாடுகள் ஆகிய விடயங்கள் தொடர்பில் இதன்போது கலந்துரையாடப்பட்டுள்ளது.
+
+அனுரகுமார திசாநாயக்க உள்ளிட்ட குழுவினர் குஜராத்தின் கைத்தொழில் அமைச்சருடனும் விசேட கலந்துரையாடலில் ஈடுபட்டுள்ளனர். (a)
+
+◼️
+
+[Data](articles/92e97828.json)
 
 ---
 
@@ -1927,71 +1973,5 @@ Masood Imad, who is designated as the ambassador to Sri Lanka, previously served
 [Data](articles/8bf607a1.json)
 
 [Extended Data](ext_articles/8bf607a1.ext.json)
-
----
-
-### Sri Lanka coconut prices edge up 1.9-pct to around Rs. 69 at auction
-
-*2024-02-07 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-prices-edge-up-1-9-pct-to-around-rs-69-at-auction-150299/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s coconut prices picked up 1.9 percent to 68,634 rupees for 1,000 nuts at an auction on February 1 data from the Coconut Development Authority shows.
-
-The highest price was 67700 rupees for 1,000 nuts and the lowest was 60,000.
-
-Farmgate coconut prices in Kurunegala were between 65,000 rupees to 72,000 rupees. Retail prices were 95 rupees to 105 rupees for a large nut and 80 to 92 rupees for a smaller one.
-
-Wholesale coconut oil price was between 560,000 rupees to 600,000 rupees a tonne.
-
-Coconut shells were sold at 85,000 rupees to 100,000 rupees a tonne.  (Colombo/Feb 07/2024)
-
-◼️
-
-[Data](articles/b5b657f1.json)
-
-[Extended Data](ext_articles/b5b657f1.ext.json)
-
----
-
-### Hamas proposes 135-day Gaza truce with total Israeli withdrawal
-
-*2024-02-07 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97085/hamas-proposes-135-day-gaza-truce-with-total-israeli-withdrawal) · `en`
-
-Hamas has proposed a ceasefire plan that would quiet the guns in Gaza for four-and-a-half months, during which all hostages would go free, Israel would withdraw its troops from the Gaza Strip and an agreement would be reached on an end to the war.
-
-The militant group’s proposal - a response to an offer sent last week by Qatari and Egyptian mediators - comes in the biggest diplomatic push yet for an extended halt to the fighting, and was met with hope and relief in the Gaza Strip.
-
-There was no immediate public response from Israel, which has said it will not pull its troops out of Gaza until Hamas is wiped out.
-
-According to a draft document seen by Reuters, the Hamas counterproposal envisages three phases of a truce, lasting 45 days each. Militants would exchange remaining Israeli hostages they captured on Oct. 7 for Palestinian prisoners.
-
-The reconstruction of Gaza would begin, Israeli forces would withdraw completely, and bodies and remains would be exchanged.
-
-...
-
-[Data](articles/f5828b88.json)
-
-[Extended Data](ext_articles/f5828b88.ext.json)
-
----
-
-### Prabath Jayasuriya advance
-
-*2024-02-07 16:10:36* · [`adalk`](https://www.ada.lk/sports/ප්‍රභාත්-ජයසූරිය-ඉදිරියට/9-407954) · `si`
-
-According to the International Cricket Council (ICC) rankings of the spinied player Prabath Jayasuriya, the rankings of the International Cricket Council (ICC) have come forward in ratings.
-
-He had previously been after the 9th place in Test bowler ratings.
-
-Prabath Jayasuriya has come forward with the performers of eight wickets in the Sri Lanka-Afghanistan Test.
-
-The lead in rankings is the Indian fast bowler Jasprit Bumrai. The South African fast bowler Kugso Ravicada, Indian spinner, is in Ashwin.
-
-Places of four-like and soil are neat, Australian fast bowlers, Pat Kamas and Josh Heselwood.
-
-◼️
-
-[Data](articles/92222150.json)
-
-[Extended Data](ext_articles/92222150.ext.json)
 
 ---

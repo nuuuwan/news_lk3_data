@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 00:02:22**
+As of **2024-02-09 00:17:24**
 
 ## Newspaper Stats
 
-*Scraped **5,824** Articles*
+*Scraped **5,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 363
 adalk | 491
 tamilmirrorlk | 718
 adaderanalk | 719
-virakesarilk | 721
+virakesarilk | 726
 adaderanasinhalalk | 767
 dailymirrorlk | 830
 
@@ -26,11 +26,45 @@ dailymirrorlk | 830
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,823 (100.0%) of 5,824 articles have been extended.
+5,824 (99.9%) of 5,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### பரபரப்புக்கு மத்தியில் பாகிஸ்தானை வெற்றிகொண்டு இறுதிக்குள் நுழைந்தது அவுஸ்திரேலியா
+
+*2024-02-08 23:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175933) · `ta`
+
+பெனோனி, விலோமுவர் பார்க் விளையாட்டரங்கில் குறைந்த எண்ணிக்கைகளைக் கொண்டதும் கடுமையாக மோதிக்கொள்ளப்பட்டு பரபரப்பான முடிவைத் தந்ததுமான 19 வயதுக்குட்பட்ட உலகக் கிண்ண 2ஆவது அரை இறுதிப் போட்டியில் 5 பந்துகள் மீதமிருக்க ஒரு விக்கெட்டினால் அவுஸ்திரேலியா வெற்றிபெற்றது.
+
+இந்த வெற்றியுடன் எதிர்வரும் ஞாயிற்றுக்கிழமை நடைபெறவுள்ள 19 வயதுக்குட்பட்ட உலக சம்பியனைத் தீர்மானிக்கும் இறுதிப் போட்டியில் இந்தியாவை எதிர்த்தாட அவுஸ்திரேலியா தகுதிபெற்றது.
+
+19 வயதுக்குட்பட்ட உலகக் கிண்ண வரலாற்றில் 3 தடவைகள் சம்பியனான அவுஸ்திரேலியா 6ஆவது தடவையாக இறுதிப் போட்டியில் விளையாட தகுதிபெற்றுள்ளது.
+
+டொம் ஸ்ட்ரேக்கரின் துல்லியமான பந்துவீச்சு பதிலுக்கு துடுப்பெடுத்தாடியபோது மத்திய வரிசையில் ஏற்படுத்தப்பட்ட இரண்டு இணைப்பாட்டங்கள், பிரிக்கப்படாத கடைசி விக்கெட்டில் பகிரப்பட்ட 17 ஓட்டங்கள் என்பன அவுஸ்திரேலியாவின் வெற்றியை உறுதிசெய்தன.
+
+இந்த இணைப்பாட்டங்களில் ஆரம்ப வீரர் ஹெரி டிக்சன், ஒலிவர் பீக், டொம் கெம்பெல், ரஃபாயல் மெக்மிலன், கடைசி இலக்க வீரர் கெலம் விட்லர் ஆகியோர் பங்காற்றியிருந்தனர்.
+
+...
+
+[Data](articles/cc961b38.json)
+
+---
+
+### இந்தியா, ஆஸி., கிவி அணிகளுடன் போன்று ஆப்கானிஸ்தானுடன் விளையாடவுள்ளோம் - குசல் மெண்டிஸ்
+
+*2024-02-08 23:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175932) · `ta`
+
+ஆப்கானிஸ்தான் அணியை எந்த வகையிலும் குறைத்து மதிப்பிடப்போவதில்லை. இந்தியா, அவுஸ்திரேலியா, நியூஸிலாந்து (கிவி) ஆகிய அணிகளுடன் போன்றே ஆப்கானிஸ்தானையும் எதிர்கொள்ளவுள்ளோம் என இலங்கை அணித் தலைவர் குசல் மெண்டிஸ் கண்டியில்  வியாழக்கிழமை (08) பிற்பகல்நடைபெற்ற ஊடக சந்திப்பில் தெரிவித்தார்.
+
+'பல்வேறு நாடுகளில், சர்வதேச வீரர்களுடன் நிறைய லீக் கிரிக்கெட் போட்டிகளில் அவர்கள் விளையாடிவருவதால் அவர்கள் நிறைய அனுவம் கொண்டுள்ளனர். நான் இலங்கைக்காக 8 வருடங்கள் விளையாடியுள்ள போதிலும் 2 லீக் தொடர்களில் மாத்திரமே விளையாடியுள்ளேன். குர்பாஸ் கடந்த 4 வருடங்களில் நிறைய லீக் தொடர்களில் விளையாடியுள்ளார். எனவே நான் ஒருபோதும் ஆப்கானிஸ்தானை குறைத்த மதிப்பிடமாட்டேன். அவர்களை குறைத்து மதிப்பிட்டவாறு எதிர்கொள்வது சிரமம். எனவே, இந்தியா, அவுஸ்திரேலியா, நியூஸிலாந்து அணிகளுடன் விளையாடுவது போன்ற உணர்வுடனேயே நாளைய ஆப்கானிஸ்தானுடனும் விளையாடவுள்ளோம்' என குசல் மெண்டிஸ் மேலும் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/54a30854.json)
+
+---
 
 ### One person injured in firing
 
@@ -45,6 +79,24 @@ Police suspect that the shooter may have fled and the shooting may have been cau
 [Data](articles/836de4e0.json)
 
 [Extended Data](ext_articles/836de4e0.ext.json)
+
+---
+
+### தமிழ் அரசியல் கைதி மீது தாக்குதல்: விசாரணைக்கு இரு குழுக்கள் நியமனம்
+
+*2024-02-08 22:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175930) · `ta`
+
+தமிழ் அரசியல் கைதி ஒருவரை முன்னாள் இராணுவ அதிகாரி ஒருவர் தாக்கியதாகக் கூறப்படும் சம்பவம் தொடர்பில் தமிழ் நாடாளுமன்ற உறுப்பினர் ஒருவர் செய்த முறைப்பாட்டின் அடிப்படையில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+
+கொழும்பு மெகசின் சிறைச்சாலையில் தடுத்து வைக்கப்பட்டுள்ள பிரதீபன் என்ற தமிழ் அரசியல் கைதி, சிறைச்சாலைக்குள் மேற்கொள்ளப்பட்ட தேடுதல் நடவடிக்கையின்போது தாக்கப்பட்டதாகக் குறிப்பிடப்படும் சம்பவம் தொடர்பில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதாகச் சிறைச்சாலைகள்  திணைக்களம் தெரிவித்துள்ளது.
+
+இலங்கை தமிழரசுக் கட்சியின் நாடாளுமன்ற உறுப்பினர் இரா.சாணக்கியன் இந்த விடயம் தொடர்பில் சிறைச்சாலைகளுக்குப் பொறுப்பான அமைச்சர் விஜேதாச ராஜபக்கசவின் கவனத்திற்குக் கொண்டுவந்ததை அடுத்து விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளது.
+
+உதவிப் பொலிஸ் கண்காணிப்பாளர் ஒருவர் தலைமையில் ஒரு குழு விசாரணைகளை முன்னெடுத்துள்ள நிலையில், மெகசின் சிறைச்சாலை அதிகாரிகளை உள்ளடக்கிய குழு ஒன்றும் விசாரணைகளை முன்னெடுத்துள்ளதாகச் சிறைச்சாலைகள் திணைக்கள ஊடகப் பேச்சாளர் காமினி பி. திசாநாயக்க தெரிவிக்கின்றார்.
+
+...
+
+[Data](articles/27091add.json)
 
 ---
 
@@ -175,6 +227,22 @@ However, the student is not present at the day of the robbery, Minuwadeniya has 
 [Data](articles/e95fa895.json)
 
 [Extended Data](ext_articles/e95fa895.ext.json)
+
+---
+
+### தமிழ்த் தேசிய பிரச்சினைக்குத் தீர்வு காணாமல் ஒருபோதும் முன்னேற்றமடைய முடியாது - எம்.ஏ.சுமந்திரன்
+
+*2024-02-08 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175929) · `ta`
+
+பேச்சுவார்த்தைகள் ஊடாக பிரச்சினைகளுக்குத் தீர்வு காண்போம் என்று குறிப்பிடுவதைப் பழக்கமாகக் கொண்டுள்ள ஜனாதிபதி  , கொள்கை பிரகடன உரையில் 'இனப்பிரச்சினைக்குத் தீர்வு' குறித்து ஒரு வார்த்தை கூட  குறிப்பிடவில்லை. பொருளாதார பாதிப்புக்கு  அடிப்படை காரணியாக உள்ள தமிழ்த் தேசிய பிரச்சினைக்குத் தீர்வு காணாமல் ஒருபோதும் முன்னேற்றமடைய முடியாது. ஆகவே ஜனாதிபதியின் கொள்கை உரையை நிராகரிக்கிறோம் எனத் தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (8) இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரையின் மீதான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஜனாதிபதி தனது கொள்கை பிரகடன உரையில் பொருளாதார  நெருக்கடியிலிருந்து மீண்டு விட்டதாக வெற்றி வார்த்தைகளைக் குறிப்பிட்டார்.ஆனால் உண்மையில்  எவ்வித முன்னேற்றமும் இதுவரை எட்டப்படவில்லை. சர்வதேச நாணய நிதியத்திடம் இரவல் வாங்குவது மாத்திரம் அரசாங்கத்தின் பிரதான வெற்றியாகக் காணப்படுகிறது.
+
+...
+
+[Data](articles/fbfa1e57.json)
 
 ---
 
@@ -690,6 +758,8 @@ The government has raised prices in successive two months through February.
 
 [Data](articles/5b9daca8.json)
 
+[Extended Data](ext_articles/5b9daca8.ext.json)
+
 ---
 
 ### Paris Olympics medals to contain 'piece of Eiffel Tower'
@@ -1143,6 +1213,26 @@ The inscriptions in the stone have also been added to the bhikkus because the wa
 [Data](articles/c18fcb11.json)
 
 [Extended Data](ext_articles/c18fcb11.ext.json)
+
+---
+
+### கிரீஸ் நாட்டின் நிலையே இலங்கைக்கு ஏற்படும் - சரித ஹேரத்
+
+*2024-02-08 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/175909) · `ta`
+
+சர்வதேச நாணய நிதியத்தின்  நிபந்தனைகளை செயற்படுத்திய காரணத்தால் தான் கிரீஸ் வங்குரோத்து நிலையில் இருந்து மீளவில்லை என்பது சர்வதேச மட்டத்தில் பகிரங்கமாக வெளிப்படுத்தப்பட்டுள்ளது.
+
+சர்வதேச நாணய நிதியத்தின் பரிந்துரைகளை முழுமையாக செயற்படுத்தியுள்ள இலங்கைக்கு கிரீஸ் நாட்டின் நிலையே ஏற்படும் என கிரீஸ் நாட்டின் முன்னாள் நிதியமைச்சர் யானீஸ் வரூஃபாகிஸ் குறிப்பிட்டுள்ளார்.
+
+பொருளாதார பாதிப்புக்கு மத்தியில் அரசியலமைப்பு ரீதியிலான முரண்பாட்டை தோற்றுவிக்கும் வகையில் ஜனாதிபதி செயற்படுகிறார் என பாராளுமன்ற உறுப்பினர் பேராசிரியர்  சரித ஹேரத் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (08) இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரையின் மீதான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+சர்வதேச நாணய நிதியத்தின் கொள்கைகள் மற்றும் பரிந்துரைகளை தவிர்த்து நாட்டுக்கு பொருத்தமான எவ்வித திட்டங்களையும் ஜனாதிபதி தனது கொள்கை உரையில் குறிப்பிடவில்லை. பாரிய நெருக்கடியில் இருந்து நாட்டை மீட்டுள்ளதாக ஜனாதிபதி குறிப்பிடுவது அடிப்படையற்றது.
+
+...
+
+[Data](articles/5dd527d0.json)
 
 ---
 
@@ -2057,115 +2147,5 @@ The suspect is to be produced before the Homagama Magistrate's Court.
 [Data](articles/3385c3ae.json)
 
 [Extended Data](ext_articles/3385c3ae.ext.json)
-
----
-
-### Kandakadu Policy Change: Unsuitable Individuals Excluded
-
-*2024-02-08 13:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/kandakadu-policy-change-unsuitable-individuals-excluded/) · `en`
-
-COLOMBO (News 1st); Rehabilitation Commissioner General, Retired Major General Darshana Hettiarachchi, has announced a significant shift in policy following recent conflicts at the Kandakadu Treatment and Rehabilitation Center.
-
-The Commissioner General has pledged to avoid housing individuals deemed unsuitable for rehabilitation into the centers henceforth.
-
-The policy change comes in the wake of the arrest of 34 individuals who were implicated in instigating conflicts at the Kandakadu Treatment and Rehabilitation Center on the 4th of February.
-
-The group has since been presented to the court under several charges, as confirmed by Major General Darshana Hettiarachchi.
-
-In a decisive move, all individuals who contributed to the violent acts at the Kandakadu Treatment and Rehabilitation Center have been removed.
-
-Commissioner General Hettiarachchi further emphasized his cautious approach in obtaining court orders to refer individuals to rehabilitation.
-
-...
-
-[Data](articles/3e20ce40.json)
-
-[Extended Data](ext_articles/3e20ce40.ext.json)
-
----
-
-### Welikada Prison Prison Prisoner Attack
-
-*2024-02-08 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175885) · `ta`
-
-A prisoner was injured when a prisoner was detained at the Welikada Prison.
-
-The hospital spokesman said that the attack was injured by the attack and that he had been admitted to the Colombo National Hospital on the advice of the prisoner in charge of the prison.
-
-◼️
-
-[Data](articles/c013d41a.json)
-
-[Extended Data](ext_articles/c013d41a.ext.json)
-
----
-
-### Gehalia
-
-*2024-02-08 13:17:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-ஒட்சீசன்-இந்திய-மருந்தே-வழங்கப்படுகிறது/175-332893) · `ta`
-
-Former Health Minister Keheliya Rambukwella, who has been admitted to the Prison Hospital, has been given oxygen beyond drugs, said Dr. Hemantha Ranasinghe, Director of Hemantha Ranasinghe.
-
-He also said: "When he was a minister for Keheliya's disease, the pharmacy purchased from the company in India is given."
-
-He has denied reports that the drugs purchased from Singapore are being delivered to Keheliya.. That is why he has been admitted to the Prison Hospital.
-
-He has many diseases, including blood pressure and diabetes. Colds are provided for eight or nine diseases.
-
-Since the state is responsible for the life of such a patient, the prisoner will be sent to the hospital if needed medical treatment.
-
-There are 380 patients in 145 beds at Welikada Prison Hospital. And there are two hundred and congestion here.
-
-We are not all special figures there, and we are treating those who are eligible for medical treatment. He added.
-
-◼️
-
-[Data](articles/02f710be.json)
-
-[Extended Data](ext_articles/02f710be.ext.json)
-
----
-
-### Five massacre in Beliatta:
-
-*2024-02-08 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175886) · `ta`
-
-Another 24 -year -old suspect in connection with the murder of five in Beliatta has been arrested after surrendering to the Beliatta police.
-
-The suspect used the gun used for the incident and then hid the house of his cousin in Kamburupitiya and then taken to Galle.
-
-◼️
-
-[Data](articles/8fc77f85.json)
-
-[Extended Data](ext_articles/8fc77f85.ext.json)
-
----
-
-### 100 MW Ground Mount Solar Project Agreement Signed
-
-*2024-02-08 13:16:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/100-mw-ground-mount-solar-project-agreement-signed/) · `en`
-
-COLOMBO (News 1st); Power purchase agreement for the 100 MW Ground Mount Solar project in Siyambalanduwa was signed by Rividhanavi (Pvt) Ltd. with CEB today.
-
-The project was advertised by the CEB in September 2022, evaluated in 2023 and was awarded to the lowest & successful bidder at the end of 2023, said Power and Energy Minister Kanchana Wijesekera on X, formerly Twitter.
-
-Rividhanavi will also build the transmission line of 27.5 Km for the project and transfer to the CEB, he said.
-
-Rividhanavi (Pvt) Ltd. is a consortium of shareholders, Lakdhanavi Ltd., Windforce PLC and The Blue Circle PTE Ltd of Singapore. Investment is expected to be USD 132 Million.
-
-US Supreme Court begins hearing case on whether to disqualify Trump from presidential election
-
-Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
-
-Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
-
-Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
-
-◼️
-
-[Data](articles/7b26d624.json)
-
-[Extended Data](ext_articles/7b26d624.ext.json)
 
 ---

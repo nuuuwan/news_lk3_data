@@ -1,36 +1,134 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 09:51:40**
+As of **2024-02-08 10:02:25**
 
 ## Newspaper Stats
 
-*Scraped **5,625** Articles*
+*Scraped **5,632** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 64
-bbccomsinhala | 78
+bbccomsinhala | 79
 dbsjeyarajcom | 141
 economynextcom | 296
 islandlk | 299
 dailyftlk | 316
 newsfirstlk | 345
 adalk | 473
-virakesarilk | 684
+virakesarilk | 685
 adaderanalk | 694
-tamilmirrorlk | 699
-adaderanasinhalalk | 736
+tamilmirrorlk | 701
+adaderanasinhalalk | 739
 dailymirrorlk | 800
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,610 (99.7%) of 5,625 articles have been extended.
+5,625 (99.9%) of 5,632 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### ජගත් ප්‍රියංකර දිවුරුම් දෙයි
+
+*2024-02-08 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193119) · `si`
+
+ජගත් ප්‍රියංකර මහතා පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස අද (08) කථානායකවරයා ඉදිරියේ දිවුරුම් දුන්නේ ය.
+
+හදිසි අනතුරකින් ජීවිතක්ෂයට පත් වූ පුත්තලම දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී, රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගෙන් පුරප්පාඩු වූ මන්ත්‍රී අසුන සඳහා ජගත් ප්‍රියංකර මහතා මෙසේ දිවුරුම් දෙන ලදි.
+
+◼️
+
+[Data](articles/762f9cbe.json)
+
+---
+
+### ஆட்டுப்பட்டித்தெரு பொலிஸ் நிலையத்தில் இடம்பெற்ற பரபரப்பு ! பால் குடித்த இரு சந்தேக நபர்கள் வைத்தியசாலையில் !
+
+*2024-02-08 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/175851) · `ta`
+
+ஆட்டுபட்டிதெரு பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டிருந்த சந்தேக நபர்கள் இருவருக்கு இனந்தெரியாத ஒருவரால் விஷம் கலந்த பால் வழங்கப்பட்டுள்ள நிலையில், குறித்த இருவரும் மயக்கமடைந்த நிலையில், கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+அண்மையில் ஜிந்துபிட்டி பகுதியில் இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவத்தில் துப்பாக்கிச் சூடு நடத்தியவர் என அடையாளம் காணப்பட்ட நபரும், அதற்கான தகவல்களை  வழங்கிய நபருக்குமே இவ்வாறு பாலில் விஷம் கலந்து வழங்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கடந்த ஜனவரி மாதம் 25 ஆம் திகதி ஜிந்துபிட்டியில் மோட்டார் சைக்கிளில் வந்த இருவர் நடத்திய துப்பாக்கிச் சூட்டில் இளைஞர் ஒருவர் காயமடைந்தார்.
+
+இதையடுத்து சந்தேக நபர்களில் ஒருவரை பிரதேசவாசிகள் மடக்கிப்பிடித்தனர். துப்பாக்கிப் பிரயோகத்தை மேற்கொண்டவர் மோட்டார் சைக்கிளை கைவிட்டு தப்பிச் சென்றார்.
+
+பின்னர் துப்பாக்கிப் பிரயோகத்தை மேற்கொண்டவர் தப்பியோடிய நிலையில் கைது செய்யப்பட்டதுடன், இரு சந்தேக நபர்களும் ஆட்டுப்பட்டி தெரு பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டு விசாரணைக்கு உட்படுத்தப்பட்டு வந்தனர்.
+
+...
+
+[Data](articles/71ab2796.json)
+
+---
+
+### පාර්ලිමේන්තු කටයුතු ඇරඹේ
+
+*2024-02-08 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193118) · `si`
+
+මේ අතර, සනත් නිශාන්ත මහතාගේ හදිසි අභාව සමග පුරප්පාඩු වූ මන්ත්‍රී ධුරය වෙනුවෙන් ජගත් ප්‍රියංකර මහතා පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස අද (08) කථානායකවරයා ඉදිරියේ දිවුරුම් දුන්නේ ය.
+
+◼️
+
+[Data](articles/379709ce.json)
+
+---
+
+### பௌத்த பிக்கு சுட்டுக் கொலை; ஒருவர் கைது
+
+*2024-02-08 09:28:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பௌத்த-பிக்கு-சுட்டுக்-கொலை-ஒருவர்-கைது/175-332873) · `ta`
+
+கம்பஹா, மல்வத்துஹிரிபிட்டியவில் உள்ள விகாரை ஒன்றில் வைத்து பிக்கு ஒருவர் சுட்டுக் கொல்லப்பட்ட சம்பவம் தொடர்பில் சந்தேகநபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+மேல் மாகாண வடக்கு குற்றத்தடுப்பு பிரிவினர் குறித்த சந்தேகநபரை கைது செய்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+பிக்குவை கொலை செய்வதற்காக பயன்படுத்தப்பட்ட வாகனம் மற்றும் துப்பாக்கி வழங்கிய நபரே கைதாகியுள்ளதாகவும் தெரிவிக்கப்படுகின்றது.
+
+கடந்த ஜனவரி மாதம் 23ஆம் திகதி காலை, கம்பஹா மல்வத்துஹிரிபிட்டிய விகாரை ஒன்றில் பிக்கு ஒருவர் சுட்டுக் கொல்லப்பட்டமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/5ea89d3c.json)
+
+---
+
+### கொள்கை விளக்க உரை ஒத்திவைப்பு வேளை விவாதம் இன்று
+
+*2024-02-08 09:19:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொள்கை-விளக்க-உரை-ஒத்திவைப்பு-வேளை-விவாதம்-இன்று/175-332872) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் பாராளுமன்றத்தில் முன்வைக்கப்பட்ட அரசாங்கத்தின் கொள்கை விளக்க உரை மீதான ஒத்திவைப்பு வேளை விவாதம் இன்று (08) ஆரம்பமாகவுள்ளது.
+
+குறித்த விவாதம் இன்று காலை 09.30 மணி முதல் மாலை 05.30 மணி வரை நடைபெறவுள்ளதாக பாராளுமன்ற தொடர்பாடல் திணைக்களம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/81e996db.json)
+
+---
+
+### හිමිනමට වෙඩි තැබීමේ සිදුවීමට සැකකරුවෙක් අත්අඩංගුවට
+
+*2024-02-08 09:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193117) · `si`
+
+ගම්පහ,මල්වතුහිරිපිටිය ප්‍රදේශයේ විහාරස්ථානයක් තුළදී ස්වාමීන් වහන්සේ නමක් වෙඩි තබා ඝාතනය කිරීමේ සිදුවීම සම්බන්ධයෙන් සැකකරුවෙක්ව අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ හිමිනම ඝාතනය කිරීමට පැමිණි වාහනය සහ ගිනිඅවිය ලබාදුන් පුද්ගලයාව බස්නාහිර උතුර අපරාධ කොට්ඨාසය විසින් එලෙස අත්අඩංගුවට ගත් බවය.
+
+පසුගිය ජනවාරි මස 23 වනදා පෙරවරුවේ ගම්පහ මල්වතු හිරිපිටිය විහාරස්ථානයක හිමිනමක් වෙඩිතබා ඝාතනය කර තිබිණි.
+
+මෝටර් රථයකින් පැමිණි සැකකරුවන් 04 දෙනෙකු හිමිනමට වෙඩිතබා පළා ගොස් තිබූ අතර වෙඩිවැදීමෙන් බරපතළ තුවාල ලැබු හිමිනම ගම්පහ රෝහලට ඇතුළත් කෙරුණි.
+
+රෝහලේ ප්‍රතිකාර ලබමින් සිටි හිමිනම අපවත් වූ අතර, එලෙස අපවත්වී ඇත්තේ 45 හැවිරිදි, කළපළුවාවේ ධම්ම රතන නැමති කහටාන, ඝනාරාම මහා විහාරස්ථානයේ වැඩසිටි හිමිනමක් බව පැවසෙයි.
+
+◼️
+
+[Data](articles/50825bd0.json)
+
+---
 
 ### Katileib Hezbollah killed in clashes
 
@@ -66,6 +164,8 @@ The CBSL put restrictions on the usage of standing facilities by the LCBs under 
 
 [Data](articles/093a580e.json)
 
+[Extended Data](ext_articles/093a580e.ext.json)
+
 ---
 
 ### CBSL eases borrowing limits for banks
@@ -81,6 +181,8 @@ The CBSL reports that the initial restrictions achieved their intended goals, re
 ...
 
 [Data](articles/fb3e021e.json)
+
+[Extended Data](ext_articles/fb3e021e.ext.json)
 
 ---
 
@@ -98,6 +200,8 @@ In total, 196 awe-inspiring snow and ice sculptures are on display - from fairy-
 
 [Data](articles/698882db.json)
 
+[Extended Data](ext_articles/698882db.ext.json)
+
 ---
 
 ### UK to closely monitor Sri Lanka’s Online Safety Act amidst int’l concerns
@@ -113,6 +217,8 @@ Despite concerns expressed by civil society, opposition parties and internationa
 ◼️
 
 [Data](articles/c11d6aac.json)
+
+[Extended Data](ext_articles/c11d6aac.ext.json)
 
 ---
 
@@ -149,6 +255,8 @@ The decision was taken at a special Monetary Board meeting held yesterday, after
 ◼️
 
 [Data](articles/28a9f50b.json)
+
+[Extended Data](ext_articles/28a9f50b.ext.json)
 
 ---
 
@@ -340,6 +448,8 @@ Sensing the political mileage from such engagements in India for a party like th
 
 [Data](articles/a8cc76bc.json)
 
+[Extended Data](ext_articles/a8cc76bc.ext.json)
+
 ---
 
 ### 42 including pickpockets and ‘perverts’ nabbed in operation to curb public transport harassment
@@ -399,6 +509,8 @@ In 2022, 96 million coconuts were destroyed by toque monkeys and giant squirrels
 ...
 
 [Data](articles/d798c85c.json)
+
+[Extended Data](ext_articles/d798c85c.ext.json)
 
 ---
 
@@ -499,6 +611,8 @@ It noted that the easing inflation and interest rate pressures should provide st
 ...
 
 [Data](articles/2a328274.json)
+
+[Extended Data](ext_articles/2a328274.ext.json)
 
 ---
 
@@ -606,49 +720,73 @@ Hayleys Aventura Ltd., a subsidiary of Hayleys PLC, recently hosted the inaugura
 
 ---
 
-### விபத்தில் மாணவன் பலி
+### Student killed in accident
 
 *2024-02-08 02:43:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-மாணவன்-பலி/175-332871) · `ta`
 
-குறித்த மாணவன் தனது 2 நண்பர்களுடன் மோட்டார் சைக்கிளில் பயணித்துக்கொண்டிருந்தபோது, மோட்டார் சைக்கிள் வீதிக்கு அருகாமையில் இருந்த மின்கம்பத்தில் மோதி விபத்துக்குள்ளாகியுள்ளது.
+While the student was traveling with his 2 friends on a motorcycle, the motorcycle crashed into a nearby wiring near the road.
 
 ◼️
 
 [Data](articles/ec454652.json)
 
+[Extended Data](ext_articles/ec454652.ext.json)
+
 ---
 
-### சுற்றுலாப் பயணிகளின் வருகை அதிகரிப்பு
+### Increase in attendance of tourists
 
 *2024-02-08 02:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகளின்-வருகை-அதிகரிப்பு/175-332870) · `ta`
 
-இந்த மாதத்தின் முதல் நான்கு நாட்களில் 28 ஆயிரத்து 493 வெளிநாட்டு சுற்றுலாப் பயணிகள் நாட்டை வந்தடைந்துள்ளனர் என சுற்றுலா அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+In the first four days of this month, 28 thousand 493 foreign tourists have arrived in the country, the Tourism Development Authority said.
 
-இதன்படி, சராசரியாக நாளொன்றில் 7 ஆயிரத்துக்கும் அதிகமான சுற்றுலாப் பயணிகள் வந்துள்ளனர் என தெரிவிக்கப்படுகிறது.
+Accordingly, more than 7 thousand tourists arrive on average per day.
 
-2023 ஆம் ஆண்டின் பெப்ரவரி மாதத்தில் இலங்கைக்கு மொத்தமாக 1 லட்சத்து 7 ஆயிரத்து 639 சுற்றுலாப் பயணிகள் இலங்கை வந்திருந்தனர் என சுற்றுலா அபிவிருத்தி அதிகார சபை குறிப்பிட்டுள்ளது. (a)
+A total of 1 lakh 7 thousand 639 tourists arrived in Sri Lanka in February 2023, the Tourism Development Authority said.. (A)
 
 ◼️
 
 [Data](articles/1f17e702.json)
 
+[Extended Data](ext_articles/1f17e702.ext.json)
+
 ---
 
-### ’சபாநாயகருக்கு எதிராக பிரேரணை’
+### Motion against Speaker
 
 *2024-02-08 02:34:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருக்கு-எதிராக-பிரேரணை/175-332869) · `ta`
 
-கல எதிர்க்கட்சிகளுடன் கலந்துரையாடி சபாநாயகருக்கு எதிராக வெகுவிரைவில் நம்பிக்கையில்லா பிரேரணையை கொண்டு வருவோம் என பாராளுமன்ற உறுப்பினர் பேராசிரியர் ஜீ.எல்.பீரிஸ் தெரிவித்தார்.
+Parliamentarian Professor GL Peiris said that we will bring a no -confidence motion against the Speaker in consultation with the Opposition parties.
 
-நாடாளுமன்ற கட்டடத் தொகுதியில் உள்ள எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் நேற்று இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போதே அவர் இவ்வாறு குறிப்பிட்டுள்ளார். அவர் மேலும் தெரிவிக்கையில்,
+He was speaking at a media briefing held at the Opposition Leader's office in the parliamentary building yesterday.. As he further stated,
 
-" நிகழ்நிலை காப்புச் சட்டத்தினால் நாட்டு மக்களின் பேச்சு உரிமை முடக்கப்பட்டுள்ளது. மறுபுறம் உத்தேச  பயங்கரவாத எதிர்ப்புச் சட்டமூலம் சமர்ப்பிக்கப்பட்டுள்ளது.
+"The right of people's speech has been disabled by the Ceremony Backup Act. On the other hand, the proposed anti -Terrorism Bill has been submitted.
 
-சபாநாயகரின் செயற்பாடுகள் முறையற்றவை. இவருக்கு எதிராக நம்பிக்கையில்லா பிரேரணையை கொண்டு வருவதாக எதிர்க்கட்சித் தலைவர் குறிப்பிட்டுள்ளார். சகல எதிர்க்கட்சிகளுடன் கலந்துரையாடி சபாநாயகருக்கு எதிராக வெகுவிரைவில் நம்பிக்கையில்லா பிரேரணையை கொண்டு வருவோம்."  என்றார்.  (a)
+Speaker's activities are improper. The opposition leader has stated that he is bringing a no -confidence motion against him. We will soon bring a no -confidence motion against the Speaker in consultation with all the opposition parties. ”(A)
 
 ◼️
 
 [Data](articles/30ad5955.json)
+
+[Extended Data](ext_articles/30ad5955.ext.json)
+
+---
+
+### බන්ධනාගාර රෝහල : ප්‍රභූවරුන්ගේ වරප්‍රසාදයක් ද?
+
+*2024-02-08 02:33:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgx5429d8p0o) · `si`
+
+අධිකරණය විසින් දඬුවම් පමුණුවන පාර්ලිමේන්තු මන්ත්‍රීවරුන් ඇතුළු ප්‍රභූවරුන් බන්ධනාගාර රෝහලට ඇතුළත් වීම තවදුරටත් විමතියක් නොවන තරමට මෙරට සමාජයට හුරුව පවතී.
+
+මෙවර එය නැවත අවධානට යොමුව ඇත්තේ ප්‍රශ්නගත ප්‍රතිදේහ මිලදී ගැනීම සම්බන්ධයෙන් අත්අඩංගුවට ගනු ලැබූ හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල පෙබරවාරි මස 15 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස මාලිගාකන්ද මහේස්ත්‍රාත් අධිකරණය විසින් නියෝග කිරීමත් සමගයි.
+
+අධිකරණය විසින් ලබා දුන් නියෝගයෙන් පසුව කෙහෙළිය රඹුක්වැල්ල හිටපු අමාත්‍යවරයා බන්ධනාගාර රෝහලට ඇතුළත් කරනු ඇති බවට සමාජයේ බොහෝ දෙනා පෙර සිටම උපකල්පනය කරනු ලැබීය. එසේම එය  නිවැරදි උපකල්පනයක් බවට පත්විය.
+
+අධිකරණය විසින් බන්ධනාගාර ගත කිරීමට නියෝග කළ මන්ත්‍රීවරුන් සැළකිය ප්‍රමාණයක් පසුගිය කාල සීමාවේදී බන්ධනාගාර රෝහලට මාරු කරනු ලැබු සිදුවීම් පිළිබඳ වන පුවත් මාධ්‍ය විසින් විටින් විට වාර්තා කරනු ලැබීය.
+
+...
+
+[Data](articles/6ae30e2f.json)
 
 ---
 
@@ -669,6 +807,8 @@ The cashew season in the country usually begins in March and continues through A
 ◼️
 
 [Data](articles/cf4e2655.json)
+
+[Extended Data](ext_articles/cf4e2655.ext.json)
 
 ---
 
@@ -1817,145 +1957,5 @@ Investigations revealed that the 33 year old suspect father who returned home af
 [Data](articles/8009d208.json)
 
 [Extended Data](ext_articles/8009d208.ext.json)
-
----
-
-### Sanath Nishantha’s death is suspicious – wife tells CID
-
-*2024-02-07 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97092/sanath-nishanthas-death-is-suspicious-wife-tells-cid) · `en`
-
-The wife of late State Minister Sanath Nishantha has filed a complaint with the Criminal Investigation Department (CID), raising suspicions surrounding the lawmaker’s death.
-
-Accordingly, Attorney-at-Law Chamari Priyanka had claimed that certain factors pertaining to the State Minister’s death remain suspicious, and had thereby requested for an investigation into the incident.
-
-On 25 January, Sanath Nishantha’s vehicle had crashed against the roadside barrier on the Katunayake Expressway, after rear-ending a moving container truck at around 02:00 a.m., according to police.
-
-Following the fatal collision, three injured persons, including the State Minister, were rushed to the Colombo North Teaching Hospital in Ragama, but the lawmaker and his security guard, identified as a police constable attached to his security detail, had later succumbed to their injuries.
-
-The driver was subsequently was arrested on 26 January, however, was later granted bail on 05 February.
-
-...
-
-[Data](articles/9d008d97.json)
-
-[Extended Data](ext_articles/9d008d97.ext.json)
-
----
-
-### UNICEF welcomes amendments to Children and Young Persons Ordinance
-
-*2024-02-07 19:18:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/unicef-welcomes-amendments-to-children-and-young-persons-ordinance/) · `en`
-
-COLOMBO (News 1st); UNICEF welcomed the long-awaited amendment to the Children and Young Persons Ordinance (CYPO) coming into force effective January 1, 2024, which marks a significant step towards protecting the rights and welfare of all children in Sri Lanka.
-
-The CYPO, a legislation governing justice for children in Sri Lanka since 1939, previously only covered those up to the age of 16. The amendment now extends its protection to all children under the age of 18.
-
-Furthermore, the amendment also repeals the section of the CYPO which permitted the use of corporal punishment on children and adolescents by parents, teachers, or guardians.
-
-These amendments contribute to the alignment of Sri Lanka’s laws that address children’s rights with international standards, particularly the United Nations Convention on the Rights of the Child (CRC), but also addresses the evolving needs and challenges faced by children and adolescents in the country.
-
-...
-
-[Data](articles/6a544657.json)
-
-[Extended Data](ext_articles/6a544657.ext.json)
-
----
-
-### “Stalled Investigations, Protected Rogues” – GL
-
-*2024-02-07 19:05:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/stalled-investigations-protected-rogues-gl/) · `en`
-
-COLOMBO (News 1st);  Professor G.L. Peiris, Member of Parliament, highlighted the adverse effects of President's decision to prorogue parliament, particularly on ongoing investigations into widespread fraud involving public funds.
-
-According to Professor Peiris, the prorogation of parliament has led to a significant halt in the progress of investigations conducted by parliamentary committees.
-
-He emphasized the crucial role played by these committees, with 64 out of 91 committees ceasing to function during the prorogation period.
-
-Of particular concern are the six committees dedicated to economic matters, which were on the verge of concluding investigations into instances of public fund misappropriation.
-
-he Committee on Public Accounts, Committee on Public Finance, and Committee on Public Enterprises, among others, were actively engaged in uncovering and addressing cases of financial misconduct.
-
-...
-
-[Data](articles/b9ed2de5.json)
-
-[Extended Data](ext_articles/b9ed2de5.ext.json)
-
----
-
-### Family of five Sri Lankan nationals illegally enter India
-
-*2024-02-07 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97091/family-of-five-sri-lankan-nationals-illegally-enter-india) · `en`
-
-A family of five Sri Lankan nationals, including three children, arrived in India’s Rameswaram on Wednesday.
-
-They were found stranded in the first sandbar of Arichalmunai.
-
-After an inquiry, they were taken to the rehabilitation camp in Mandapam.
-
-According to police sources, 294 Sri Lankan Tamils have fled the island nation so far, in the wake of an economic crisis. Two of them have died.
-
-◼️
-
-[Data](articles/03d0773c.json)
-
-[Extended Data](ext_articles/03d0773c.ext.json)
-
----
-
-### Sanath Nishantha's wife has lodged a complaint under CID
-
-*2024-02-07 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193095) · `si`
-
-The wife of former State Minister Sanath Nishantha, the wife of Chamari Priyanka, has lodged a complaint with the CID.
-
-The complaint has been carried out by the death of the death of the wife of former State Minister Sanath Nishantha.
-
-Ms. Mrs. The Frequent complaint he has asked for an investigation into the suspicious places.
-
-◼️
-
-[Data](articles/349c0d9b.json)
-
-[Extended Data](ext_articles/349c0d9b.ext.json)
-
----
-
-### Economy Shows “World Record” Improvement, Says President
-
-*2024-02-07 19:00:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/07/economy-shows-world-record-improvement-says-president/) · `en`
-
-COLOMBO (News 1st); Sri Lankan President Ranil Wickremesinghe painted a picture of significant economic improvement since February 2023, touting a "world record" turnaround compared to the previous year.
-
-"Inflation, which stood at a daunting 50.6 per cent last year, has dramatically decreased to a mere 6.4 per cent today. The exchange rate has shown positive movement, with a dollar worth Rs. 362 in the past and now valued at Rs. 314. Despite a 3.7 per cent budget primary deficit in 2022, we achieved a significant turnaround in 2023, achieving a primary budget surplus. The interest rate, which was a high 28 per cent in 2023, has notably dropped to 12 per cent. The 52 main statutory bodies of the government, facing a loss of Rs. 745 billion  by the end of 2022, turned a profit of Rs. 313 billion by September 2023. It is noteworthy that these institutions are suffering from a huge debt burden," said the President.
-
-...
-
-[Data](articles/85c9a7a2.json)
-
-[Extended Data](ext_articles/85c9a7a2.ext.json)
-
----
-
-### ‘Kudu Roshan’ released on strict bail conditions
-
-*2024-02-07 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97090/kudu-roshan-released-on-strict-bail-conditions-) · `en`
-
-Notorious underworld figure ‘Kudu Roshan’ and his brother, who were arrested during the ongoing countrywide anti-drug operation ‘Yukthiya’, have been granted bail.
-
-The duo, who was arrested while in hiding in the Warakapola area, was released on strict bail conditions, on the orders of the Colombo Additional Magistrate.
-
-Accordingly, ‘Kudu Roshan’ was released on a cash bail of Rs. 30 million and seven surety bails of Rs. 1 million each, while his brother was released on a cash bail of Rs. 5 million and four surety bails of Rs. 1 million each.
-
-They were also ordered by the court to appear before the Criminal Investigation Department (CID) and submit their biometrics upon being released on bail.
-
-On 28 January ill-gotten properties worth Rs.55 million allegedly owned by ‘Kudu Roshan’ were seized by the police from the Ja-Ela area.
-
-◼️
-
-[Data](articles/8b2d19b5.json)
-
-[Extended Data](ext_articles/8b2d19b5.ext.json)
 
 ---

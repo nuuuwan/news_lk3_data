@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 23:02:20**
+As of **2024-02-08 23:17:28**
 
 ## Newspaper Stats
 
-*Scraped **5,818** Articles*
+*Scraped **5,819** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ tamilmirrorlk | 716
 adaderanalk | 719
 virakesarilk | 721
 adaderanasinhalalk | 765
-dailymirrorlk | 829
+dailymirrorlk | 830
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,818 (100.0%) of 5,818 articles have been extended.
+5,818 (100.0%) of 5,819 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -249,6 +249,24 @@ It is also observed that many of its isolation has been observed.
 [Data](articles/dbb67d94.json)
 
 [Extended Data](ext_articles/dbb67d94.ext.json)
+
+---
+
+### Polls close across Pakistan after millions vote in election mired in controversy
+
+*2024-02-08 21:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Polls-close-across-Pakistan-after-millions-vote-in-election-mired-in-controversy/107-276619) · `en`
+
+Islamabad, Feb 08 (CNN) - Violence marred several of Pakistan’s polling stations on Thursday, as millions voted in an election in which old dynasties vied for power while the country’s widely popular former leader languishes behind bars.
+
+Polling stations across the country were beginning the count after polls closed on Thursday evening, according to Pakistan’s Electoral Commission.
+
+The much-anticipated election, already delayed for months, comes as the country of 220 million faces mounting challenges – from economic uncertainty and frequent militant attacks, to climate catastrophes that are putting its most vulnerable at risk.
+
+In a vivid illustration of the surging political violence in the run up to the vote, 30 people were killed in twin blasts targeting campaign offices in the country’s restive Balochistan province on Wednesday, which the Islamic State Pakistan Province militant group claimed responsibility for.
+
+...
+
+[Data](articles/27279d72.json)
 
 ---
 
@@ -2149,31 +2167,5 @@ Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
 [Data](articles/6c7a8736.json)
 
 [Extended Data](ext_articles/6c7a8736.ext.json)
-
----
-
-### Environment Ministry in President’s charge by way of Extraordinary Gazette
-
-*2024-02-08 12:58:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/environment-ministry-in-president-s-charge-by-way-of-extraordinary-gazette/) · `en`
-
-COLOMBO (News 1st); An extraordinary gazette notification has been issued stating that the Ministerial Portfolio of Environment should be in the President’s charge.
-
-The gazette was issued by Secretary to the President E. M. S. B. Ekanayake.
-
-The extraordinary gazette notification states that the President, having consulted with the Prime Minister, has determined that the Ministerial Portfolio of Environment should be in his charge.
-
-US Supreme Court begins hearing case on whether to disqualify Trump from presidential election
-
-Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
-
-Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
-
-Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
-
-◼️
-
-[Data](articles/5e554d20.json)
-
-[Extended Data](ext_articles/5e554d20.ext.json)
 
 ---

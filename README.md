@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 10:02:25**
+As of **2024-02-08 10:17:19**
 
 ## Newspaper Stats
 
-*Scraped **5,632** Articles*
+*Scraped **5,636** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,118 +15,182 @@ economynextcom | 296
 islandlk | 299
 dailyftlk | 316
 newsfirstlk | 345
-adalk | 473
+adalk | 474
 virakesarilk | 685
 adaderanalk | 694
 tamilmirrorlk | 701
 adaderanasinhalalk | 739
-dailymirrorlk | 800
+dailymirrorlk | 803
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,625 (99.9%) of 5,632 articles have been extended.
+5,632 (99.9%) of 5,636 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### ජගත් ප්‍රියංකර දිවුරුම් දෙයි
+### Police arrests 42 suspects over abuse, thefts on public transport
+
+*2024-02-08 09:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-arrests-42-suspects-over-abuse-thefts-on-public-transport/108-276572) · `en`
+
+Colombo, Feb 08 (Daily Mirror) - A total of 42 suspects have been arrested during an island-wide police operation targeting individuals who commit acts of abuse against children and women on public transport.
+
+The operation was carried out yesterday between 08:00-10:00 and 17:00-19:00, under the instructions of Acting Inspector General of Police Deshabandu Tennakoon.
+
+Accordingly, police officers in civilian clothes travelled on buses, with special attention on streets, bus stops and railway stations.
+
+Accordingly, 18 persons were arrested for abuse against children and women on public transport while another 24 suspects including five pickpocketers were arrested.
+
+The Public Security Ministry said the primary objective of this operation was to combat sexual abuse within public transport services, addressing the increasing number of complaints received by police stations on a daily basis.
+
+◼️
+
+[Data](articles/b8bebcdf.json)
+
+---
+
+### Jagath Priyankara sworn in as MP to fill Sanath Nishantha’s vacancy
+
+*2024-02-08 09:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jagath-Priyankara-sworn-in-as-MP-to-fill-Sanath-Nishanthas-vacancy/108-276571) · `en`
+
+Parliament, Feb. 08 (Daily Mirror)- Jagath Priyankara was sworn in as a Member of Parliament before Speaker Mahinda Yapa Abeywardane a short while ago.
+
+He was sworn in as a MP to fill the vacancy created by the sudden death of State Minister Sanath Nishantha.
+
+◼️
+
+[Data](articles/0831ba56.json)
+
+---
+
+### Jagath Priyankara sworn in
 
 *2024-02-08 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193119) · `si`
 
-ජගත් ප්‍රියංකර මහතා පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස අද (08) කථානායකවරයා ඉදිරියේ දිවුරුම් දුන්නේ ය.
+Jagath Priyankara took oaths before the Speaker today (08) as a Member of Parliament.
 
-හදිසි අනතුරකින් ජීවිතක්ෂයට පත් වූ පුත්තලම දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී, රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගෙන් පුරප්පාඩු වූ මන්ත්‍රී අසුන සඳහා ජගත් ප්‍රියංකර මහතා මෙසේ දිවුරුම් දෙන ලදි.
+Jagath Priyankara was sworn in due to the vacant seat to the vacant seat.
 
 ◼️
 
 [Data](articles/762f9cbe.json)
 
+[Extended Data](ext_articles/762f9cbe.ext.json)
+
 ---
 
-### ஆட்டுப்பட்டித்தெரு பொலிஸ் நிலையத்தில் இடம்பெற்ற பரபரப்பு ! பால் குடித்த இரு சந்தேக நபர்கள் வைத்தியசாலையில் !
+### Stirring at the Lambattu Pattiuru Police Station!Two suspects who drank milk
 
 *2024-02-08 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/175851) · `ta`
 
-ஆட்டுபட்டிதெரு பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டிருந்த சந்தேக நபர்கள் இருவருக்கு இனந்தெரியாத ஒருவரால் விஷம் கலந்த பால் வழங்கப்பட்டுள்ள நிலையில், குறித்த இருவரும் மயக்கமடைந்த நிலையில், கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+The two suspects detained at the Ambatti Patti police station have been admitted to the Colombo National Hospital as they have been paid poisonous milk by an unidentified person.
 
-அண்மையில் ஜிந்துபிட்டி பகுதியில் இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவத்தில் துப்பாக்கிச் சூடு நடத்தியவர் என அடையாளம் காணப்பட்ட நபரும், அதற்கான தகவல்களை  வழங்கிய நபருக்குமே இவ்வாறு பாலில் விஷம் கலந்து வழங்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Police said that the person who was identified as the firing of the recent shooting in the Jindupiti area and the person who provided information was given to the person who had provided it.
 
-கடந்த ஜனவரி மாதம் 25 ஆம் திகதி ஜிந்துபிட்டியில் மோட்டார் சைக்கிளில் வந்த இருவர் நடத்திய துப்பாக்கிச் சூட்டில் இளைஞர் ஒருவர் காயமடைந்தார்.
+On January 25, a youth was injured in a shooting carried out on a motorcycle in Jindupitiya.
 
-இதையடுத்து சந்தேக நபர்களில் ஒருவரை பிரதேசவாசிகள் மடக்கிப்பிடித்தனர். துப்பாக்கிப் பிரயோகத்தை மேற்கொண்டவர் மோட்டார் சைக்கிளை கைவிட்டு தப்பிச் சென்றார்.
+Subsequently, one of the suspects wrapped up. The man who fired the motorcycle abandoned the motorcycle.
 
-பின்னர் துப்பாக்கிப் பிரயோகத்தை மேற்கொண்டவர் தப்பியோடிய நிலையில் கைது செய்யப்பட்டதுடன், இரு சந்தேக நபர்களும் ஆட்டுப்பட்டி தெரு பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டு விசாரணைக்கு உட்படுத்தப்பட்டு வந்தனர்.
+Later, the man who fled the firing was arrested and the two suspects were detained at the Laddipatti Street Police Station and are being investigated.
+
+In the meantime, a woman who is said to be a girlfriend of the gunman was detained on Wednesday morning at the Ladypatti Street Police Station and another suspect was on goodwill.
 
 ...
 
 [Data](articles/71ab2796.json)
 
+[Extended Data](ext_articles/71ab2796.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු කටයුතු ඇරඹේ
+### Parliamentary proceedings begins
 
 *2024-02-08 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193118) · `si`
 
-මේ අතර, සනත් නිශාන්ත මහතාගේ හදිසි අභාව සමග පුරප්පාඩු වූ මන්ත්‍රී ධුරය වෙනුවෙන් ජගත් ප්‍රියංකර මහතා පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස අද (08) කථානායකවරයා ඉදිරියේ දිවුරුම් දුන්නේ ය.
+Meanwhile, Jagath Priyankara was sworn in as a Member of Parliament today (08) as a Member of Parliament with the vacant commander of Mr. Sanath Nishantha.
 
 ◼️
 
 [Data](articles/379709ce.json)
 
+[Extended Data](ext_articles/379709ce.ext.json)
+
 ---
 
-### பௌத்த பிக்கு சுட்டுக் கொலை; ஒருவர் கைது
+### Buddhist monk shot dead;Arrest
 
 *2024-02-08 09:28:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பௌத்த-பிக்கு-சுட்டுக்-கொலை-ஒருவர்-கைது/175-332873) · `ta`
 
-கம்பஹா, மல்வத்துஹிரிபிட்டியவில் உள்ள விகாரை ஒன்றில் வைத்து பிக்கு ஒருவர் சுட்டுக் கொல்லப்பட்ட சம்பவம் தொடர்பில் சந்தேகநபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A suspect has been arrested in connection with the shooting of a Piku in a Vihara in Malwathuhiripitiya, Gampaha.
 
-மேல் மாகாண வடக்கு குற்றத்தடுப்பு பிரிவினர் குறித்த சந்தேகநபரை கைது செய்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Police have arrested the suspect in the Western Province Northern Criminal Investigation Division.
 
-பிக்குவை கொலை செய்வதற்காக பயன்படுத்தப்பட்ட வாகனம் மற்றும் துப்பாக்கி வழங்கிய நபரே கைதாகியுள்ளதாகவும் தெரிவிக்கப்படுகின்றது.
+It is also reported that the man who used the vehicle and the gun was arrested for murdering the Piku.
 
-கடந்த ஜனவரி மாதம் 23ஆம் திகதி காலை, கம்பஹா மல்வத்துஹிரிபிட்டிய விகாரை ஒன்றில் பிக்கு ஒருவர் சுட்டுக் கொல்லப்பட்டமை குறிப்பிடத்தக்கது. R
+On the morning of January 23, a man was shot dead in a Gampaha Malwatuhiripitiya Vihara.. Remble
 
 ◼️
 
 [Data](articles/5ea89d3c.json)
 
+[Extended Data](ext_articles/5ea89d3c.ext.json)
+
 ---
 
-### கொள்கை விளக்க உரை ஒத்திவைப்பு வேளை விவாதம் இன்று
+### Today
 
 *2024-02-08 09:19:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொள்கை-விளக்க-உரை-ஒத்திவைப்பு-வேளை-விவாதம்-இன்று/175-332872) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் பாராளுமன்றத்தில் முன்வைக்கப்பட்ட அரசாங்கத்தின் கொள்கை விளக்க உரை மீதான ஒத்திவைப்பு வேளை விவாதம் இன்று (08) ஆரம்பமாகவுள்ளது.
+The postponement debate on the government's policy speech presented in Parliament by President Ranil Wickremesinghe will commence today (08).
 
-குறித்த விவாதம் இன்று காலை 09.30 மணி முதல் மாலை 05.30 மணி வரை நடைபெறவுள்ளதாக பாராளுமன்ற தொடர்பாடல் திணைக்களம் தெரிவித்துள்ளது. R
+The debate will be held from 09.30 am to 05.30 pm.. Remble
 
 ◼️
 
 [Data](articles/81e996db.json)
 
+[Extended Data](ext_articles/81e996db.ext.json)
+
 ---
 
-### හිමිනමට වෙඩි තැබීමේ සිදුවීමට සැකකරුවෙක් අත්අඩංගුවට
+### President leaves for Australia
+
+*2024-02-08 09:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-leaves-for-Australia/108-276570) · `en`
+
+Colombo, Feb 08 (Daily Mirror) - President Ranil Wickremesinghe left Sri Lanka this morning to participate in the 7th Indian Ocean Conference in Perth, Australia.
+
+The President will be in Australia from February 9 – 10, and will deliver the keynote address in the 7th Indian Ocean Conference.
+
+He will also explore investment opportunities for Sri Lanka during the event.
+
+◼️
+
+[Data](articles/c4dce947.json)
+
+---
+
+### Suspect arrested for shooting at monk
 
 *2024-02-08 09:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193117) · `si`
 
-ගම්පහ,මල්වතුහිරිපිටිය ප්‍රදේශයේ විහාරස්ථානයක් තුළදී ස්වාමීන් වහන්සේ නමක් වෙඩි තබා ඝාතනය කිරීමේ සිදුවීම සම්බන්ධයෙන් සැකකරුවෙක්ව අත්අඩංගුවට ගෙන තිබේ.
+A suspect has been arrested in connection with the shooting of a monk shot dead in a temple in Gampaha, Gampaha.
 
-පොලීසිය පැවසුවේ හිමිනම ඝාතනය කිරීමට පැමිණි වාහනය සහ ගිනිඅවිය ලබාදුන් පුද්ගලයාව බස්නාහිර උතුර අපරාධ කොට්ඨාසය විසින් එලෙස අත්අඩංගුවට ගත් බවය.
+The police said that the Western Province North Crimes Division was arrested by the Western Province North Criminal Division.
 
-පසුගිය ජනවාරි මස 23 වනදා පෙරවරුවේ ගම්පහ මල්වතු හිරිපිටිය විහාරස්ථානයක හිමිනමක් වෙඩිතබා ඝාතනය කර තිබිණි.
+The monk was shot dead in Malwathu Viharaya in Gampaha on January 23.
 
-මෝටර් රථයකින් පැමිණි සැකකරුවන් 04 දෙනෙකු හිමිනමට වෙඩිතබා පළා ගොස් තිබූ අතර වෙඩිවැදීමෙන් බරපතළ තුවාල ලැබු හිමිනම ගම්පහ රෝහලට ඇතුළත් කෙරුණි.
+Four suspects were shot dead and was admitted to the Gampaha Hospital with serious injuries.
 
-රෝහලේ ප්‍රතිකාර ලබමින් සිටි හිමිනම අපවත් වූ අතර, එලෙස අපවත්වී ඇත්තේ 45 හැවිරිදි, කළපළුවාවේ ධම්ම රතන නැමති කහටාන, ඝනාරාම මහා විහාරස්ථානයේ වැඩසිටි හිමිනමක් බව පැවසෙයි.
+The monk who was receiving treatment at the hospital was as known as the 45-year-old, Kalapaluwa Dhamma Ratnane, Kahanna, Kahanna Maha Viharaya.
 
 ◼️
 
 [Data](articles/50825bd0.json)
+
+[Extended Data](ext_articles/50825bd0.ext.json)
 
 ---
 
@@ -285,6 +349,20 @@ According to information received by the police, the doctor was abducted while i
 [Data](articles/f6225f0f.json)
 
 [Extended Data](ext_articles/f6225f0f.ext.json)
+
+---
+
+### ජනපති ඔස්ට්‍රේලියාවේ නිල සංචාරයකට
+
+*2024-02-08 07:47:58* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ඔස්ට්‍රේලියාවේ-නිල-සංචාරයකට/11-407957) · `si`
+
+ඉන්දීය පදනම සහ ඕස්ට්‍රේලියානු රජයේ ආරාධනාව අනුව 07 වන ඉන්දීය සාගර සමුළුවට සහභාගී වීම සදහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද දින අලුයම කටුනායක ගුවන් තොටුපොළෙන් ඕස්ට්‍රේලියාව බලා පිටත්ව ගොස් තිබේ .
+
+මෙම සමුළුව එළඹෙන 09 සිට 10 දින දක්වා ඕස්ට්‍රේලියාවේ පර්ත් නුවර පැවැත්වීමට නියමිතය .
+
+◼️
+
+[Data](articles/16d5605d.json)
 
 ---
 
@@ -772,21 +850,27 @@ Speaker's activities are improper. The opposition leader has stated that he is b
 
 ---
 
-### බන්ධනාගාර රෝහල : ප්‍රභූවරුන්ගේ වරප්‍රසාදයක් ද?
+### Prison hospital: Is a privilege of elite?
 
 *2024-02-08 02:33:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgx5429d8p0o) · `si`
 
-අධිකරණය විසින් දඬුවම් පමුණුවන පාර්ලිමේන්තු මන්ත්‍රීවරුන් ඇතුළු ප්‍රභූවරුන් බන්ධනාගාර රෝහලට ඇතුළත් වීම තවදුරටත් විමතියක් නොවන තරමට මෙරට සමාජයට හුරුව පවතී.
+The people including MPs who are punished by the Court have to be admitted to the prison hospital.
 
-මෙවර එය නැවත අවධානට යොමුව ඇත්තේ ප්‍රශ්නගත ප්‍රතිදේහ මිලදී ගැනීම සම්බන්ධයෙන් අත්අඩංගුවට ගනු ලැබූ හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල පෙබරවාරි මස 15 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස මාලිගාකන්ද මහේස්ත්‍රාත් අධිකරණය විසින් නියෝග කිරීමත් සමගයි.
+This time it is re-prescribed by the Maligakanda Magistrate's Court to remand custody until February 15.
 
-අධිකරණය විසින් ලබා දුන් නියෝගයෙන් පසුව කෙහෙළිය රඹුක්වැල්ල හිටපු අමාත්‍යවරයා බන්ධනාගාර රෝහලට ඇතුළත් කරනු ඇති බවට සමාජයේ බොහෝ දෙනා පෙර සිටම උපකල්පනය කරනු ලැබීය. එසේම එය  නිවැරදි උපකල්පනයක් බවට පත්විය.
+In the society, the former Minister of Keheliya Rambukwella will be admitted to the prison hospital following the order given by the courts.. And it became a correct assumption.
 
-අධිකරණය විසින් බන්ධනාගාර ගත කිරීමට නියෝග කළ මන්ත්‍රීවරුන් සැළකිය ප්‍රමාණයක් පසුගිය කාල සීමාවේදී බන්ධනාගාර රෝහලට මාරු කරනු ලැබු සිදුවීම් පිළිබඳ වන පුවත් මාධ්‍ය විසින් විටින් විට වාර්තා කරනු ලැබීය.
+A significant number of MPs who were ordered to be imprisoned by the Court have reportedly transferred incidents of events that were transferred to the prison hospital during the past.
+
+After inquiry by the BBC Sinhala service, the Department of Prisons Department of Prisons Department Gaminne, Commissioner General of Prisons.. Dissanayake stated that his department does not conduct a running of such statistics.
+
+"We see anyone who comes from the courts here (prison) and only as prisoners or suspects. We don't have that time. "He said.
 
 ...
 
 [Data](articles/6ae30e2f.json)
+
+[Extended Data](ext_articles/6ae30e2f.ext.json)
 
 ---
 
@@ -1869,93 +1953,5 @@ He has lodged a complaint with the death of former diplomatic minister Sanath Ni
 [Data](articles/40b3047c.json)
 
 [Extended Data](ext_articles/40b3047c.ext.json)
-
----
-
-### A special notification for the buses on the bus
-
-*2024-02-07 19:33:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்தில்-சில்மிஷம்-செய்பவர்களுக்கு-விசேட-அறிவித்தல்/175-332848) · `ta`
-
-A police operation has been launched nationwide targeting people involved in abuse against children and girls in public transport.
-
-The main purpose of the move is to fight sexual abuse within public transport services, focusing on the number of complaints to the police stations on a daily basis, the Ministry of Public Security said.
-
-The Inspector General of Police, Deshabandu, has issued a directive to implement the move.
-
-The IGP has advised the police to prioritize these measures at 08: 00-10: 00 and 00-19: 00 in the morning.
-
-Accordingly, special attention is paid to the roads, bus stations and railway stations and police officers in civil clothes will travel on buses.
-
-Arrangements have been made to provide uniformed police officers, especially the main streets, ready to provide assistance to the officers of civil clothes when they need help.
-
-◼️
-
-[Data](articles/79ff8f35.json)
-
-[Extended Data](ext_articles/79ff8f35.ext.json)
-
----
-
-### Special Notification for Public Traffic
-
-*2024-02-07 19:33:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுப்-போக்குவரத்தில்-சில்மிஷம்-செய்பவர்களுக்கு-விசேட-அறிவித்தல்/175-332848) · `ta`
-
-A police operation has been launched nationwide targeting people involved in abuse against children and girls in public transport.
-
-The main purpose of the move is to fight sexual abuse within public transport services, focusing on the number of complaints to the police stations on a daily basis, the Ministry of Public Security said.
-
-The Inspector General of Police, Deshabandu, has issued a directive to implement the move.
-
-The IGP has advised the police to prioritize these measures at 08: 00-10: 00 and 00-19: 00 in the morning.
-
-Accordingly, special attention is paid to the roads, bus stations and railway stations and police officers in civil clothes will travel on buses.
-
-Arrangements have been made to provide uniformed police officers, especially the main streets, ready to provide assistance to the officers of civil clothes when they need help.
-
-◼️
-
-[Data](articles/bc2c24f7.json)
-
-[Extended Data](ext_articles/bc2c24f7.ext.json)
-
----
-
-### Attack on female lawyer and husband in Modu city;Explanation for two, including a woman!
-
-*2024-02-07 19:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175838) · `ta`
-
-Batticaloa Magistrate's Court Judge MH, including a woman, who was arrested in connection with the incident in connection with the attack on a lawyer and her husband in connection with the attack on a lawyer near the court in Batticaloa town.. Mohammed Hamza ordered on Tuesday (6).
-
-It has been revealed that the lawyer and her husband have been admitted to the hospital.
-
-Batticaloa Magistrate M.H.. The magistrate ordered that Mohammed Hamza be presented in the presence of Hamza until the 20th of this month.
-
-◼️
-
-[Data](articles/e7138631.json)
-
-[Extended Data](ext_articles/e7138631.ext.json)
-
----
-
-### Man arrested for brutal assault on children and blackmailing wife overseas
-
-*2024-02-07 19:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-arrested-for-brutal-assault-on-children-and-blackmailing-wife-overseas/108-276529) · `en`
-
-An individual who severely assaulted his two children and sent its video scenes to his wife employed abroad to pressurize her to increase the money sent to him was arrested by the Lindula police and handed over to Dimbula Pathana police today.
-
-His wife has been employed in a Middle East country as a house maid leaving the two children of nine and five years of age in the care of her husband. She has been sending him a limited amount of money to prevent his wasteful expenses.
-
-The mans wife had shared the video clippings of her children being assaulted on social media drawing the attention of the Police.
-
-After the incident the suspect had left for his house in Lindula area with the two children who had been at their grand mother’s house in Dimbula only to be arrested by the Lindula police .
-
-Investigations revealed that the 33 year old suspect father who returned home after work at a vehicle service centre in Colombo had severely assaulted the two children.
-
-...
-
-[Data](articles/8009d208.json)
-
-[Extended Data](ext_articles/8009d208.ext.json)
 
 ---

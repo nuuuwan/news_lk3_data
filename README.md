@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 14:49:52**
+As of **2024-02-08 15:02:25**
 
 ## Newspaper Stats
 
-*Scraped **5,720** Articles*
+*Scraped **5,728** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ dailyftlk | 316
 newsfirstlk | 359
 adalk | 480
 virakesarilk | 704
-adaderanalk | 705
+adaderanalk | 707
 tamilmirrorlk | 712
 adaderanasinhalalk | 751
-dailymirrorlk | 808
+dailymirrorlk | 814
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,707 (99.8%) of 5,720 articles have been extended.
+5,720 (99.9%) of 5,728 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### US drone strike kills Iran-backed militia leader in Baghdad
+
+*2024-02-08 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97114/us-drone-strike-kills-iran-backed-militia-leader-in-baghdad) · `en`
+
+A senior commander of an Iran-backed militia has been killed in a US drone strike in Baghdad.
+
+A leader of Kataib Hezbollah and two of his guards were in a vehicle when it was targeted in the east of the Iraqi capital. All three of them died.
+
+The Pentagon said the commander was responsible for directing attacks on American forces in the region.
+
+The US has linked the militia to a drone attack in Jordan that killed three US troops last month.
+
+In the wake of that attack, Kataib Hezbollah said it was suspending attacks on American troops to prevent “embarrassment” to the Iraqi government.
+
+Wednesday night’s drone raid happened in Baghdad’s Mashtal neighbourhood, sparking several loud explosions.
+
+It was a precise strike on a moving vehicle in a busy street and the car was reduced to a fiery wreck.
+
+One of the victims has been identified as Abu Baqir al-Saadi, a senior commander in Kataib Hezbollah.
+
+...
+
+[Data](articles/704e32c2.json)
+
+---
+
+### CEB, Rividhanavi ink agreement for 100MW Ground Mount Solar project
+
+*2024-02-08 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97113/ceb-rividhanavi-ink-agreement-for-100mw-ground-mount-solar-project) · `en`
+
+The Ceylon Electricity Board (CEB) on Thursday (Feb.08) inked a power purchase agreement with Rividhanavi (Pvt) Ltd. for the 100MW Ground Mount Solar project in Siyambalanduwa.
+
+The deal was signed in the presence of Power & Energy Minister Kanchana Wijesekera.
+
+In a post on X (formerly Twitter), Wijesekera said the investment is expected to be USD 132 million.
+
+The project was advertised by the state-owned electricity supplier in September 2022, evaluated in 2023, and awarded to the lowest and most successful bidder by the end of 2023.
+
+The minister said Rividhanavi would also build the transmission line of 27.5km for the project and transfer it to the CEB.
+
+Rividhanavi (Pvt) Ltd. is a consortium of shareholders, Lakdhanavi Ltd., Windforce PLC and The Blue Circle PTE Ltd of Singapore, he added.
+
+◼️
+
+[Data](articles/b16a7c4d.json)
+
+---
 
 ### Sri Lanka to repurpose 5,000 acres of Cement Corporation land
 
@@ -47,6 +95,26 @@ What the institution is and details of the planned development were not given.
 ...
 
 [Data](articles/a0325736.json)
+
+[Extended Data](ext_articles/a0325736.ext.json)
+
+---
+
+### Footwear and Leather Fair 2024 Starts at BMICH today
+
+*2024-02-08 14:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Footwear-and-Leather-Fair-2024-Starts-at-BMICH-today/110-276601) · `en`
+
+The 14th Footwear and Leather Fair 2024 started at the Bandaranaike Memorial International Conference Hall (BMICH) today. The exhibition will be held until Sunday (11).
+
+“High quality, sustained volumes and competitive pricing have been key factors contributing to the success of Sri Lanka's footwear and leather products industry,” organisers said.
+
+“Sri Lanka produces a wide range of modern shoes in many designs for men and women, rubber boots, beach slippers, safety shoes, sports and canvass shoes. Sri Lankan footwear exporters have established suppliers to many high-end international footwear brands,” they said.
+
+It said that high-quality Sri Lankan leather goods in the range of leather gloves, travel bags, backpacks, ladies' handbags, jackets and small leather goods cater to niche international markets. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/c72f9cf9.json)
 
 ---
 
@@ -65,6 +133,8 @@ The second highest household electricity charges in the region are in Pakistan; 
 ...
 
 [Data](articles/84559acc.json)
+
+[Extended Data](ext_articles/84559acc.ext.json)
 
 ---
 
@@ -86,6 +156,26 @@ Rividhanavi (Pvt) Ltd is a consortium of shareholders, Lakdhanavi Ltd, Windforce
 
 [Data](articles/1398f175.json)
 
+[Extended Data](ext_articles/1398f175.ext.json)
+
+---
+
+### State revenue up by 25 percent in January after VAT increase: Siyambalapitiya
+
+*2024-02-08 13:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/State-revenue-up-by-25-percent-in-January-after-VAT-increase-Siyambalapitiya/108-276599) · `en`
+
+Parliament, Feb. 08 (Daily MIrror)- State revenue has increased by 25 percent in January after the VAT increase, where Rs. 274 billion was recorded in January 2024, whereas the estimated state revenue was Rs. 219 billion, State Minister of Finance Ranjith Siyambalapitiya said today.
+
+The Minister said the Customs Department was set a target of Rs. 114 billion for January and it had recorded Rs. 121 billion, which is 11 percent more than the estimated revenue.
+
+"The Excise Department recorded Rs. 14 billion exceeding the revenue target of Rs. 12 billion. The Inland Revenue Department has recorded Rs. 114 billion more than the set target of Rs. 88.9 billion," the Minister said.
+
+Speaking during the adjournment debate on the government policy statement, he told Parliament that inflation was recorded as 6.4 percent while the food inflation was only 3.3 percent.
+
+...
+
+[Data](articles/63dfeb0c.json)
+
 ---
 
 ### Two individuals nabbed with 1,200 capsules of controlled substances
@@ -105,6 +195,8 @@ The accused, along with seized Pregabalin capsules, have been handed over to the
 ◼️
 
 [Data](articles/e4eeba48.json)
+
+[Extended Data](ext_articles/e4eeba48.ext.json)
 
 ---
 
@@ -128,6 +220,8 @@ Commissioner General Hettiarachchi further emphasized his cautious approach in o
 
 [Data](articles/3e20ce40.json)
 
+[Extended Data](ext_articles/3e20ce40.ext.json)
+
 ---
 
 ### Welikada Prison Prison Prisoner Attack
@@ -146,23 +240,29 @@ The hospital spokesman said that the attack was injured by the attack and that h
 
 ---
 
-### கெஹலியவுக்கு ஒட்சீசன்: இந்திய மருந்தே வழங்கப்படுகிறது
+### Gehalia
 
 *2024-02-08 13:17:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-ஒட்சீசன்-இந்திய-மருந்தே-வழங்கப்படுகிறது/175-332893) · `ta`
 
-சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ள முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெலவுக்கு மருந்துகளுக்கு அப்பால் ஒட்சீசன் வழங்கப்படுகின்றது என சிறைச்சாலைகள் சுகாதார சேவைகள் பணிப்பாளர் வைத்தியர் ஹேமந்த ரணசிங்க தெரிவித்துள்ளார்.
+Former Health Minister Keheliya Rambukwella, who has been admitted to the Prison Hospital, has been given oxygen beyond drugs, said Dr. Hemantha Ranasinghe, Director of Hemantha Ranasinghe.
 
-மேலும் அவர் தெரிவிக்கையில்: “கெஹலியவின் நோய்க்கு, அவர் ​அமைச்சராக இருந்த போது, இந்தியாவில் உள்ள நிறுவனத்தில் இருந்து கொள்வனவு செய்யப்பட்ட மருந்தே வழங்கப்படுகின்றது”
+He also said: "When he was a minister for Keheliya's disease, the pharmacy purchased from the company in India is given."
 
-சிங்கபூரில் இருந்து கொள்வனவு செய்யப்பட்ட மருந்துகள், கெஹலியவுக்கு வழங்கப்படுவதாக வெளியான செய்திகளை அவர் மறுத்துள்ளார் எனவும், ரம்புக்வெலவுக்கு 7 நோய்கள் உள்ளன என்பது வைத்திய அறிக்கையில் குறிப்பிடப்பட்டுள்ளது. அதனால்தான், சிறைச்சாலை வைத்தியசாலையில் அவர் அனுமதிக்கப்பட்டுள்ளார்.
+He has denied reports that the drugs purchased from Singapore are being delivered to Keheliya.. That is why he has been admitted to the Prison Hospital.
 
-70 வயதான அவருக்கு இரத்த அழுத்தம், நீரிழிவு நோய் உள்ளிட்ட பல நோய்கள் உள்ளன. எட்டு அல்லது ஒன்பது நோய்களுக்கு குளிசைகள் வழங்கப்படுகின்றன.
+He has many diseases, including blood pressure and diabetes. Colds are provided for eight or nine diseases.
 
-சிறைவாசம் அனுபவித்து வரும் அத்தகைய நோயாளியின் உயிருக்கு அரசும் பொறுப்பு என்பதால், கைதியின் நிலை என்னவாக இருந்தாலும், மருத்துவ சிகிச்சை தேவைப்பட்டால், மருத்துவமனைக்கு அனுப்பி வைக்கப்படும்.
+Since the state is responsible for the life of such a patient, the prisoner will be sent to the hospital if needed medical treatment.
 
-...
+There are 380 patients in 145 beds at Welikada Prison Hospital. And there are two hundred and congestion here.
+
+We are not all special figures there, and we are treating those who are eligible for medical treatment. He added.
+
+◼️
 
 [Data](articles/02f710be.json)
+
+[Extended Data](ext_articles/02f710be.ext.json)
 
 ---
 
@@ -201,6 +301,8 @@ Environment Ministry in President’s charge by way of Extraordinary Gazette
 ◼️
 
 [Data](articles/7b26d624.json)
+
+[Extended Data](ext_articles/7b26d624.ext.json)
 
 ---
 
@@ -244,6 +346,28 @@ The youth who was severely injured and was taken to the Nagoda Teaching Hospital
 
 ---
 
+### Doctor arrested for alleged sexual assault on colleague at Aranayaka Hospital
+
+*2024-02-08 13:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Doctor-arrested-for-alleged-sexual-assault-on-colleague-at-Aranayaka-Hospital/108-276598) · `en`
+
+Aranayaka, Feb 08 ( Daily Mirror) - A doctor from the Aranayaka District Hospital has been arrested for allegedly sexually assaulting a 28-year-old female doctor while she was on duty.
+
+Police said the 45-year-old doctor was arrested this morning and will be produced before the Mawanella Magistrate's Court.
+
+The arrest follows a complaint by the victim's father. She had recently been transferred to the Aranayaka District Hospital from another hospital.
+
+The victim alleges that the suspect doctor had touched her inappropriately while she was on duty.
+
+Statements have been recorded from the victim and five other staff members present during the incident.
+
+The female doctor is to undergo examination by the Judicial Medical Officer at the Kegalle Teaching Hospital, police said.
+
+◼️
+
+[Data](articles/40c126e0.json)
+
+---
+
 ### Kusal Mendis to lead SL against Afghanistan in ODI series
 
 *2024-02-08 13:02:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/kusal-mendis-to-lead-sl-against-afghanistan-in-odi-series/) · `en`
@@ -264,6 +388,8 @@ Environment Ministry in President’s charge by way of Extraordinary Gazette
 
 [Data](articles/6c7a8736.json)
 
+[Extended Data](ext_articles/6c7a8736.ext.json)
+
 ---
 
 ### Environment Ministry in President’s charge by way of Extraordinary Gazette
@@ -283,6 +409,28 @@ Environment Ministry in President’s charge by way of Extraordinary Gazette
 ◼️
 
 [Data](articles/5e554d20.json)
+
+[Extended Data](ext_articles/5e554d20.ext.json)
+
+---
+
+### Ranil has brainwashed NPP: Nimal Siripala
+
+*2024-02-08 12:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-has-brainwashed-NPP-Nimal-Siripala/108-276596) · `en`
+
+Colombo, Feb 8 (Daily Mirror) - President Ranil Wickremesinghe had brainwashed National People’s Power (NPP) and that is why its leader went before Indian leaders, Ports, Shipping, and Aviation Minister Nimal Siripala de Silva said in Parliament today.
+
+"Those who held lectures, on Indian expansionism have gone to meet Indian leaders today,” he quipped.
+
+“They who wore worn-out clothes are wearing full suits. We are happy about this move. This is because Ranil Wickremesinghe has brainwashed them," MP De Silva said.
+
+"We can recall how these leaders criticized the government for going into business ventures with Adani group," he added.
+
+He also said that around 200,000 tourists had visited Sri Lanka during the last month.
+
+◼️
+
+[Data](articles/94f23c97.json)
 
 ---
 
@@ -310,6 +458,8 @@ Environment Ministry in President’s charge by way of Extraordinary Gazette
 
 [Data](articles/e8d8cbfc.json)
 
+[Extended Data](ext_articles/e8d8cbfc.ext.json)
+
 ---
 
 ### Suspect in the five murder surrenders to police
@@ -328,6 +478,26 @@ The firearms used for shooting say that the suspect in Kamburupitiya has been hi
 
 ---
 
+### Three policemen interdicted after poisoning of two suspects in custody
+
+*2024-02-08 12:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-policemen-interdicted-after-poisoning-of-two-suspects-in-custody/108-276595) · `en`
+
+Colombo, Feb 08 (Daily Mirror) - Three police officers from the Wolfendhal Police Station have been interdicted following an incident where two suspects were hospitalised after consuming a packet of milk provided by a visitor.
+
+Two suspects detained at the Wolfendhal Police Station over a recent shooting in the Jinthupitiya area were admitted to the National Hospital, Colombo yesterday (7) after drinking a packet of milk given to them by a visitor.
+
+The two suspects had lost consciousness after they had consumed the milk packets and it is suspected that the packet of milk contained a toxin, police said.
+
+Police allege that cyanide has been mixed in the milk given to the suspects.
+
+One of the suspects who fell ill is the suspect who had allegedly shot and killed a person on January 24 in the Jinthupitiya area, and the other had acted as an informant.
+
+...
+
+[Data](articles/1d762a6e.json)
+
+---
+
 ### Sri Lanka govt expediting development projects targeting election: PAFFREL
 
 *2024-02-08 12:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-govt-expediting-development-projects-targeting-election-paffrel-150361/) · `en`
@@ -343,6 +513,8 @@ He urged Prime Minister Dinesh Gunawardena who hold the local government portfol
 ...
 
 [Data](articles/e21de5d1.json)
+
+[Extended Data](ext_articles/e21de5d1.ext.json)
 
 ---
 
@@ -440,6 +612,24 @@ Environment Ministry in President’s charge by way of Extraordinary Gazette
 
 ---
 
+### Pope hits back at critics of blessings for same-sex couples
+
+*2024-02-08 12:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pope-hits-back-at-critics-of-blessings-for-same-sex-couples/108-276594) · `en`
+
+Feb 8 (CNN) - Pope Francis has hit back at those criticizing his decision to allow blessings for same-sex couples, saying the critics are guilty of hypocrisy.
+
+“No one is scandalized if I give a blessing to an entrepreneur who perhaps exploits people: and that is a most serious sin,” the Pope said in an interview in the latest edition of Italian magazine Credere, to be published on Thursday, February 8.
+
+“Whereas they are scandalized if I give it to a homosexual… This is hypocrisy! We all have to respect each other. Everyone! The heart of the document is welcome.”
+
+Last year, the 87-year-old Pontiff authorized priests to offer informal blessings of couples in “irregular” unions in a landmark document issued on December 18, 2023. It is the first time the Vatican has allowed for such blessings, having previously forbidden any such move.
+
+...
+
+[Data](articles/fbac6a2a.json)
+
+---
+
 ### Woman Doctor Sexual Abuse: Doctor arrested in Aranayaka
 
 *2024-02-08 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175875) · `ta`
@@ -480,19 +670,21 @@ The youth has been taken to the Nagoda Teaching Hospital in Kalutara with a seri
 
 ---
 
-### மாணிக்கற்களை விற்க முயற்சித்த பிக்கு உட்பட மூவர் கைது
+### Three persons, including Biku, tried to sell gems
 
 *2024-02-08 12:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணிக்கற்களை-விற்க-முயற்சித்த-பிக்கு-உட்பட-மூவர்-கைது/175-332890) · `ta`
 
-ரூ.370 மில்லியன் பெறுமதியான இரண்டு நீல நிற மாணிக்க கற்களை விற்பனை செய்ய முயற்சித்த பிக்கு ஒருவர் உட்பட இருவர் கைது செய்யப்பட்டுள்ளதாக கொஸ்லந்த பொலிஸார் தெரிவித்துள்ளனர்.
+Kosalanda police said that two persons, including a Piku, were arrested for trying to sell two blue gemstones worth Rs 370 million.
 
-இராணுவ புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசிய தகவலுக்கு அமைய கொஸ்லந்த பொலிஸார் மேற்கொண்ட சுற்றிவளைப்பின் போதே இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+They were arrested during a roundup by Koslanda police on confidential information received by the Army Intelligence Unit.
 
-கைது செய்யப்பட்ட பிக்கு வெலிவேரிய பிரதேசத்தில் வசித்துவருவதோடு, மற்றைய சந்தேக நபர்கள் 72 வயதுடையவர் எனவும்,  பிரபல அரசியல் கட்சியொன்றின் உள்ளூர் அரசியல்வாதி ஒருவரின் தந்தை எனவும் தெரியவந்துள்ளது.
+The arrested Piku lives in the Weliweriya area and the other suspects are 72 years old and are the father of a local politician of a popular political party.
 
 ◼️
 
 [Data](articles/91a190de.json)
+
+[Extended Data](ext_articles/91a190de.ext.json)
 
 ---
 
@@ -775,6 +967,8 @@ The Colombo Stock Exchange was trading up; The All Share Price Index was up 0.29
 ◼️
 
 [Data](articles/aa472854.json)
+
+[Extended Data](ext_articles/aa472854.ext.json)
 
 ---
 
@@ -1877,155 +2071,5 @@ It is reported that the commander of the United States camp in Jordan recently h
 [Data](articles/02815830.json)
 
 [Extended Data](ext_articles/02815830.ext.json)
-
----
-
-### Central Bank decides on fixed facilities in commercial banks
-
-*2024-02-08 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193115) · `si`
-
-Central Bank of Sri Lanka has issued a statement regarding the activities of registered commercial banks.
-
-Accordingly, the limits imposed on fixed facilities in commercial banks have been laborated with effect from 16th January.
-
-The Monetary Policy Board was declared yesterday at the meeting held yesterday (07).
-
-The Central Bank Introced Rustrored Resprates on The Licensed Commercial Banks (LCBS) Under The Open Market Operations (OMOS), with Effect FROM 16 January 2023. Accordingly, access to the Standing Deposit Facility (SDF) was limited to a maximum of five (05) times per calendar month, while access to the Standing Lending Facility (SLF) was limited to 90 per cent of the Statutory Reserve Requirement (SRR)of each lcb, at any Any Given Day. Msures weres were impted @Ducing on The Instant Personal Bank Facility Market, Particular Money Market, and Indicing The Call Money Money Money Money, and Inducing LC Bs to Introredit Internal Corective Measures.
-
-...
-
-[Data](articles/3591991f.json)
-
-[Extended Data](ext_articles/3591991f.ext.json)
-
----
-
-### CBSL relaxes restrictions on standing facilities for licensed commercial banks
-
-*2024-02-08 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97100/cbsl-relaxes-restrictions-on-standing-facilities-for-licensed-commercial-banks) · `en`
-
-The Central Bank of Sri Lanka (CBSL) says it has decided to relax the restrictions imposed on the standing facilities to Licensed Commercial Banks (LCBs) under the Open Market Operations (OMOs).
-
-Accordingly, with effect from the reserve maintenance period commencing 16 February 2024, the restriction on the Standing Lending Facility (SLF) will be removed and the restriction on Standing Deposit Facility (SDF) will be relaxed from 5 times to 10 times during a calendar month.
-
-This was decided at the special meeting of the Monetary Policy Board held on Wednesday (Feb.07).
-
-The CBSL put restrictions on the usage of standing facilities by the LCBs under the OMOs with effect from 16 January 2023. As such, access to the SDF was limited to a maximum of 5 times per calendar month, while access to the SLF was limited to 90% of the Statutory Reserve Requirement (SRR) of each LCB, at any given day.
-
-...
-
-[Data](articles/093a580e.json)
-
-[Extended Data](ext_articles/093a580e.ext.json)
-
----
-
-### CBSL eases borrowing limits for banks
-
-*2024-02-08 08:19:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/cbsl-eases-borrowing-limits-for-banks/) · `en`
-
-COLOMBO (News 1st); The Central Bank of Sri Lanka (CBSL) announced today a relaxation of restrictions on borrowing by commercial banks, aiming to stimulate the domestic money market and accelerate a decline in interest rates.
-
-In January 2023, the CBSL imposed limits on banks' access to its overnight lending and deposit facilities (Standing Lending Facility and Standing Deposit Facility) to encourage them to rely more on the interbank call money market. This move aimed to revitalize the money market and reduce banks' overdependence on the central bank.
-
-The CBSL reports that the initial restrictions achieved their intended goals, reactivating the money market and moderating competition for deposits among banks. The measures also helped align market interest rates with the central bank's monetary policy stance while maintaining financial system stability.
-
-...
-
-[Data](articles/fb3e021e.json)
-
-[Extended Data](ext_articles/fb3e021e.ext.json)
-
----
-
-### Sapporo Snow Festival 2024
-
-*2024-02-08 08:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sapporo-Snow-Festival-2024/110-276568) · `en`
-
-The Sapporo Snow Festival - an annual celebration now in its 74th year - is in full swing.
-
-Set across three main venues in Sapporo city on the island of Hokkaido - Ōdōri Park, Susukino, and Tsudome - the snowy free-entry spectacle is the most popular winter event in Japan, attracting two million visitors each year.
-
-In total, 196 awe-inspiring snow and ice sculptures are on display - from fairy-tale castles to galloping thoroughbred horses, and from grinning dinosaurs to manga heroes. (Daily Mail)
-
-◼️
-
-[Data](articles/698882db.json)
-
-[Extended Data](ext_articles/698882db.ext.json)
-
----
-
-### Sri Lanka CB relaxes LCB restrictions for standing facility from Feb 16 to slash market rates
-
-*2024-02-08 08:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-relaxes-lcb-restrictions-for-standing-facility-from-feb-16-to-slash-market-rates-150342/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank relaxed restrictions it imposed on the usage of the Standing Facilities by the Licensed Commercial Banks (LCBs) under the Open Market Operations (OMOs) in a bid to accelerate the fall of market interest rates, the central bank said.
-
-Despite repeated reduction in the central bank’s key policy rates, the market rates have not declined in the same proportion, central bank officials have said,
-
-“The relaxation of the restrictions on the Standing Facilities is expected to accelerate the downward adjustments in market interest rates as envisaged under the overall monetary policy direction of the Central Bank,” the central bank said in a statement.
-
-...
-
-[Data](articles/9306a896.json)
-
-[Extended Data](ext_articles/9306a896.ext.json)
-
----
-
-### UK to closely monitor Sri Lanka’s Online Safety Act amidst int’l concerns
-
-*2024-02-08 08:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UK-to-closely-monitor-Sri-Lankas-Online-Safety-Act-amidst-intl-concerns/108-276565) · `en`
-
-Colombo, Feb 8 (Daily Mirror) - While claiming that the Sri Lankan Parliament passed the Online Safety Act on 24 January, despite concerns raised by international internet providers and various other concerned parties, the United Kingdom has stated that it will closely monitor the progress of this Act.
-
-Despite concerns expressed by civil society, opposition parties and international internet providers regarding the potential negative impacts of the Online Safety Act, the Sri Lankan Parliament passed it into law on 24 January, Anne-Marie Trevelyan Minister of State (Foreign, Commonwealth and Development Office) informed the UK Parliament.
-
-“The UK also raised concerns about the impact of this Act on the freedom of expression and economic growth, including when I met Sri Lankan President Wickremesinghe in October, and when Lord (Tariq) Ahmad, Minister of State for South Asia, met Sri Lankan Foreign Minister Ali Sabry on 25 January,” she stated in a written statement to the UK Parliament.
-
-◼️
-
-[Data](articles/c11d6aac.json)
-
-[Extended Data](ext_articles/c11d6aac.ext.json)
-
----
-
-### Second semi-final match today
-
-*2024-02-08 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193114) · `si`
-
-The second semi-final will be held today (08), the second semi-finals of the Under 19 World Cup.
-
-The competition is to be held between the Under-19 team under the Under-19 team and under 19 team.
-
-The Under-19 team was able to win the first end of South African under 19 team.
-
-The game team will be released to the finals of the team on the day following.
-
-◼️
-
-[Data](articles/38c53129.json)
-
-[Extended Data](ext_articles/38c53129.ext.json)
-
----
-
-### Central Bank relaxes restrictions imposed on standing facilities
-
-*2024-02-08 07:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-relaxes-restrictions-imposed-on-standing-facilities/108-276567) · `en`
-
-The Monetary Board decided this week to relax the restrictions imposed on the Standing Facilities to Licensed Commercial Banks (LCBs) under Open Market Operations (OMOs).
-
-With effect from the reserve maintenance period commencing 16 February 2024, the restriction on the Standing Lending Facility (SLF) will be removed and the restriction on the Standing Deposit Facility (SDF) will be relaxed from five times (05) to ten times (10) during a calendar month.
-
-The decision was taken at a special Monetary Board meeting held yesterday, after carefully reviewing the developments in the domestic money market, as well as the behaviour of LCBs in terms of market participation along with the improvements in liquidity, the Central Bank said.
-
-◼️
-
-[Data](articles/28a9f50b.json)
-
-[Extended Data](ext_articles/28a9f50b.ext.json)
 
 ---

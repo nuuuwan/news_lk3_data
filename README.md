@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 17:33:29**
+As of **2024-02-08 17:53:11**
 
 ## Newspaper Stats
 
-*Scraped **5,756** Articles*
+*Scraped **5,762** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,43 @@ economynextcom | 302
 dailyftlk | 316
 newsfirstlk | 360
 adalk | 485
-adaderanalk | 707
 virakesarilk | 708
+adaderanalk | 712
 tamilmirrorlk | 716
 adaderanasinhalalk | 759
-dailymirrorlk | 818
+dailymirrorlk | 819
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,756 (100.0%) of 5,756 articles have been extended.
+5,762 (100.0%) of 5,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### January was world’s warmest on record, EU scientists say
+
+*2024-02-08 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97121/january-was-worlds-warmest-on-record-eu-scientists-say) · `en`
+
+The world just experienced its hottest January on record, continuing a run of exceptional heat fuelled by climate change, the European Union’s Copernicus Climate Change Service (C3S) said on Thursday.
+
+Last month surpassed the previous warmest January, which occurred in 2020, in C3S’s records going back to 1950.
+
+The exceptional month came after 2023 ranked as the planet’s hottest year in global records going back to 1850, as human-caused climate change and the El Nino weather phenomenon, which warms the surface waters in the eastern Pacific Ocean, pushed temperatures higher.
+
+Every month since June has been the world’s hottest on record, compared with the corresponding month in previous years.
+
+“Not only is it the warmest January on record but we have also just experienced a 12-month period of more than 1.5 C (1.7 F) above the pre-industrial reference period,” C3S Deputy Director Samantha Burgess said.
+
+...
+
+[Data](articles/c1cf089a.json)
+
+[Extended Data](ext_articles/c1cf089a.ext.json)
+
+---
 
 ### The speech found in the largest letter of Sri Lanka
 
@@ -55,6 +77,24 @@ The inscriptions in the stone have also been added to the bhikkus because the wa
 [Data](articles/c18fcb11.json)
 
 [Extended Data](ext_articles/c18fcb11.ext.json)
+
+---
+
+### Sri Lanka raises monthly allowances for vulnerable groups
+
+*2024-02-08 16:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-raises-monthly-allowances-for-vulnerable-groups/108-276606) · `en`
+
+Colombo, Feb 08 (Daily Mirror)- Sri Lanka has announced an increase in monthly allowances for disabled individuals, kidney patients, and elderly citizens, effective January 2024, Finance State Minister Shehan Semasinghe said.
+
+Under the revised scheme, monthly allowances for kidney patients and disabled persons will see a notable raise from Rs. 5,000 to Rs. 7,500, while elderly citizens' allowances will increase from Rs. 2,000 to Rs. 3,000.
+
+Beneficiaries enrolled in the 'Aswesuma' welfare program, eligible for these allowances, can anticipate the increased payments, which will be implemented retrospectively from January 2024.  The disbursement of these enhanced allowances is scheduled to commence on April 01, offering much-needed relief to recipients across the country.
+
+...
+
+[Data](articles/802f6f6b.json)
+
+[Extended Data](ext_articles/802f6f6b.ext.json)
 
 ---
 
@@ -133,6 +173,26 @@ At the culmination of the evaluation process, Rividhanavi emerged as the lowest 
 [Data](articles/e374e9d1.json)
 
 [Extended Data](ext_articles/e374e9d1.ext.json)
+
+---
+
+### Monthly allowances for kidney patients, disabled and elderly persons increased
+
+*2024-02-08 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97119/monthly-allowances-for-kidney-patients-disabled-and-elderly-persons-increased-) · `en`
+
+The monthly allowances paid to disabled persons, kidney patients and elderly citizens will be retrospectively increased from January 2024, Finance State Minister Shehan Semasinghe says.
+
+The beneficiaries of ‘Aswesuma’ welfare program who are entitled to these allowances are to be identified within the first quarter of 2024 and paid the increased payments starting April 01.
+
+Meanwhile, the valid period for the ‘vulnerable’ and ‘transitional’ social group will be extended and as such, the payments will continue up until December 31.
+
+Further, the existing ‘vulnerable’ and ‘transitional’ social groups are planned to be amalgamated. Subsequently, a total of 800,000 families will be considered ‘vulnerable’ and an allowance of Rs. 5,000/- will be paid to them until December 31. The ‘transitional’ social group receives now receives only Rs. 2,500.
+
+◼️
+
+[Data](articles/ca841edc.json)
+
+[Extended Data](ext_articles/ca841edc.ext.json)
 
 ---
 
@@ -216,6 +276,28 @@ Four persons from Negombo, Wella, Toduwawa areas have gone to the fisheries acti
 
 ---
 
+### Man sentenced to life in prison for possession of 6g heroin
+
+*2024-02-08 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97117/man-sentenced-to-life-in-prison-for-possession-of-6g-heroin) · `en`
+
+The Colombo High Court has sentenced a person to life in prison after he was convicted for the possession and trafficking of nearly 06 grams of heroin.
+
+This order was issued by the Colombo High Court Judge Aditya Patabendige, Ada Derana reporter said.
+
+The accused, Sudath Prasanna, had been arrested by police during a raid carried out in the Khettarama area of Grandpass in 2018, while in the possession of approximately 5.9 grams of heroin.
+
+Later, the Attorney General had filed charges against him before the Colombo High Court.
+
+The High Court Judge, who issued the verdict following an extended hearing, stated that the charges levelled against the accused have been proven beyond any reasonable doubt, and that therefore the defendant was sentenced to life imprisonment.
+
+◼️
+
+[Data](articles/f8d83f8c.json)
+
+[Extended Data](ext_articles/f8d83f8c.ext.json)
+
+---
+
 ### Civil Social Organizations in Sri Lanka
 
 *2024-02-08 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175900) · `ta`
@@ -227,6 +309,26 @@ Civil Social Organizations (CSOS) contributing to the preparation of the Third N
 [Data](articles/bb4131ce.json)
 
 [Extended Data](ext_articles/bb4131ce.ext.json)
+
+---
+
+### Australians cheer law giving workers right to ignore after-hours work calls
+
+*2024-02-08 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97116/australians-cheer-law-giving-workers-right-to-ignore-after-hours-work-calls) · `en`
+
+(Reuters) - Australians on Thursday cheered new proposed laws that give workers the right to ignore calls and messages from their bosses outside of work hours, but some business leaders slammed it as overreach.
+
+The “right to disconnect” is part of a raft of changes to industrial relations laws proposed by the federal government under a parliamentary bill introduced in parliament. The bill was passed in the Senate on Thursday but will need to go back to the House of Representatives to vote to approve some amendments.
+
+“I think it’s a wonderful idea,” said Sydney resident Colvin Macpherson.
+
+“We all need to relax, we all need to be able to switch off and not be disturbed by emails and phone calls in the middle of the night. Both of my kids are lawyers as well, so they work horrendous hours as it is and you get things coming in at night time,” he said.
+
+...
+
+[Data](articles/091b358c.json)
+
+[Extended Data](ext_articles/091b358c.ext.json)
 
 ---
 
@@ -299,6 +401,26 @@ In the past, the JVP, which has expressed fierce opposition to many of Sri Lanka
 [Data](articles/f84e4dd5.json)
 
 [Extended Data](ext_articles/f84e4dd5.ext.json)
+
+---
+
+### Sri Lanka’s electricity tariffs the highest in South Asia – analysis
+
+*2024-02-08 15:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97115/sri-lankas-electricity-tariffs-the-highest-in-south-asia-analysis) · `en`
+
+Sri Lanka currently has the highest electricity charges in South Asia, with households paying 2.5 to 3 times more for electricity than the average price paid by households in other South Asian countries, according to analysis that was published this week.
+
+Published on PublicFinance.lk, Sri Lanka’s premier economic insights platform, this analysis by Verité Research looked at what households are charged for their electricity when consuming 100, 200 or 300 units, at the start of 2024.
+
+The calculation only took into account the charges of the supplier, and did not include government taxes such as the Social Security Levy, which is charged additionally in Sri Lanka.
+
+The second highest household electricity charges in the region are in Pakistan; yet they are far less than in Sri Lanka. Households consuming 100 units are charged 50% more in Sri Lanka than Pakistan; and those consuming 300 units are charged 97% more in Sri Lanka.
+
+...
+
+[Data](articles/ee4ffd0a.json)
+
+[Extended Data](ext_articles/ee4ffd0a.ext.json)
 
 ---
 
@@ -2019,129 +2141,5 @@ The United People's Power, which has taken care of the positiveness of the natio
 [Data](articles/942d4429.json)
 
 [Extended Data](ext_articles/942d4429.ext.json)
-
----
-
-### Netanyahu refines Hamas request
-
-*2024-02-08 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193124) · `si`
-
-Israel has rejected the ceasefire conditions proposed by Hamas.
-
-The Israeli Prime Minister Benjamin Netanyahu has said that the victory of Gaza can be achieved in the next few months.
-
-The Israeli Prime Minister has said that there is no other solution to the victory of Gaza.
-
-Israel had presented a new ceasefire in Gaza, and the Hamas had responded to the amendments.
-
-◼️
-
-[Data](articles/f4e6a58e.json)
-
-[Extended Data](ext_articles/f4e6a58e.ext.json)
-
----
-
-### M.Pianar Jagath Priyankara
-
-*2024-02-08 10:30:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பியானார்-ஜகத்-பிரியங்கர/175-332879) · `ta`
-
-Jagath Priyankara was sworn in as a Member of Parliament in the presence of Speaker Mahinda Yapa Abeywardena.
-
-He sworn in as a Member of Parliament for the vacuum of the sudden death of the Minister of State Sanath Nishantha.
-
-◼️
-
-[Data](articles/95505a32.json)
-
-[Extended Data](ext_articles/95505a32.ext.json)
-
----
-
-### Arresting woman married
-
-*2024-02-08 10:30:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/திருமணம்-செய்த-பெண்-கைது/76-332878) · `ta`
-
-The Ethiopian woman who married a man in Sri Lanka and stayed with her father without a visa has been arrested by the Kandy Tourism Police.
-
-Police investigations have revealed that the woman was married to a Sri Lankan man and lived in the Ampitiya area and had hidden her husband's passport and other documents, fearing that a foreign woman would go abroad.
-
-The Ethiopian woman has come to the country with her two children in her previous married Ethiopia, and her visa expired on January 17, and the Kandy Tourism Police Division has taken steps to inform the Ethiopian embassy in India.
-
-◼️
-
-[Data](articles/eb9416f1.json)
-
-[Extended Data](ext_articles/eb9416f1.ext.json)
-
----
-
-### Due to extortion in prison
-
-*2024-02-08 10:26:24* · [`adalk`](https://www.ada.lk/breaking_news/කප්පම්-ගැනීම-සදහා-සිරකර-රදවා-තබාගෙන-සිටි-විශේෂ්ඥ-වෛද්‍යවරයා--මුදවාගනී/11-407959) · `si`
-
-A special doctor in the Badulla area was forcibly abused a house in Meetiyagoda yesterday (7) while a specialist in Meetiyagoda was abused yesterday to obtain a ransom.
-
-The Twenty-year-old support of the twenty-eight-year-old support of the abroad was a resident of Meetiyagoda, a resident of Meetiyagoda, who had been holding the prisoner.
-
-Police say that the police relief room was imprisoned to obtain a ransom of a specialist.
-
-The raid went on to find a campaign to find the house in the Hikkaduwa Police area, which was held in the Hikkaduwa Police area by the police relief room and that the incident was found in the Hikkaduwa Police area.Hikkaduwa Police say.
-
-Hikkadu OIC Chief Inspector General Inspector General Inspector General Inspector General Inspector General Inspector Lalith Sadugiri, OIC of the Hon.Sub-Inspectors, Mendis, Vithanachchi, Police Sergeant Wickramaratne (68246), Police Constable Thilina (36132) are conducting further investigations.
-
-◼️
-
-[Data](articles/a98629dc.json)
-
-[Extended Data](ext_articles/a98629dc.ext.json)
-
----
-
-### Israeli PM Benjamin Netanyahu rejects Hamas’s Gaza ceasefire proposal
-
-*2024-02-08 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97105/israeli-pm-benjamin-netanyahu-rejects-hamass-gaza-ceasefire-proposal) · `en`
-
-Israel’s Prime Minister Benjamin Netanyahu has rejected Hamas’s proposed ceasefire terms - saying “total victory” in Gaza is possible within months.
-
-He was speaking after Hamas laid out a series of demands in response to an Israel-backed ceasefire proposal.
-
-Mr Netanyahu said negotiations with the group were “not going anywhere” and described their terms as “bizarre”.
-
-“There is no other solution but a complete and final victory,” Mr Netanyahu told a news conference on Wednesday.
-
-“If Hamas will survive in Gaza, it’s only a question of time until the next massacre.”
-
-Israel was expected to take issue with Hamas’s counter-offer, but this response is a categorical rebuke, and Israeli officials clearly see an effort by Hamas to end the war on its terms as utterly unacceptable.
-
-Senior Hamas official Sami Abu Zuhri told the Reuters news agency that Mr Netanyahu’s remarks “are a form of political bravado”, and show he intends to pursue the conflict in the region.
-
-...
-
-[Data](articles/d711e114.json)
-
-[Extended Data](ext_articles/d711e114.ext.json)
-
----
-
-### Abuse in traffic: 42 arrested
-
-*2024-02-08 10:22:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போக்குவரத்தில்-துஷ்பிரயோகம்-42-பேர்-கைது/175-332877) · `ta`
-
-42 suspects have been arrested during a police operation carried out nationwide targeting people who abuse against children and girls in public transport.
-
-The action was taken from 08.00 - 10.00 and 17.00 - 19.00 yesterday under the directive of the Inspector General of Police Deshabandu Tennakoon.
-
-Accordingly, the police officers were traveling in civil clothes on the buses, bus stations and railway stations.
-
-Accordingly, 18 people have been arrested for abusing children and girls in public transport, and 24 suspects, including five thieves, have been arrested.
-
-The main purpose of this move is to fight sexual abuse in public transport services, the Ministry of Public Security said.
-
-◼️
-
-[Data](articles/5712e822.json)
-
-[Extended Data](ext_articles/5712e822.ext.json)
 
 ---

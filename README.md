@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 18:50:55**
+As of **2024-02-08 19:02:21**
 
 ## Newspaper Stats
 
-*Scraped **5,782** Articles*
+*Scraped **5,783** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 307
 dailyftlk | 316
 newsfirstlk | 361
 adalk | 490
-adaderanalk | 712
+adaderanalk | 713
 virakesarilk | 713
 tamilmirrorlk | 716
 adaderanasinhalalk | 761
@@ -26,7 +26,7 @@ dailymirrorlk | 820
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,775 (99.9%) of 5,782 articles have been extended.
+5,775 (99.9%) of 5,783 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -121,6 +121,18 @@ Sri Lanka squad - Kusal Mendis (Leader), Charith Waniekage, Donus Wella, Dr. Aka
 [Data](articles/5006d321.json)
 
 [Extended Data](ext_articles/5006d321.ext.json)
+
+---
+
+### Veteran journalist Thalangama Jayasinghe passes away
+
+*2024-02-08 17:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97122/veteran-journalist-thalangama-jayasinghe-passes-away) · `en`
+
+Veteran Sri Lankan artist and journalist Thalangama Jayasinghe, best known for his popular newspaper cartoon “Pala Malla,” has passed away.
+
+◼️
+
+[Data](articles/bb5ca5e7.json)
 
 ---
 
@@ -2111,23 +2123,5 @@ Moreover, fish prices at the New Manning Market in Peliyagoda too were low today
 [Data](articles/281401d7.json)
 
 [Extended Data](ext_articles/281401d7.ext.json)
-
----
-
-### Shortcomings observed in Online Safety Act; open for amendments: Wijeyadasa
-
-*2024-02-08 11:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shortcomings-observed-in-Online-Safety-Act-open-for-amendments-Wijeyadasa/108-276591) · `en`
-
-Parliament, Feb. 08 (Daily Mirror)- The government has observed that there are some shortcomings in the recently enacted Online Safety Act and the government is open to bring in amendments to the Act, Justice Minister Wijeyadasa Rajapakshe said today.
-
-Responding to questions by Opposition Leader Sajith Premadasa and SJB MP Harsha de Silva, Minister Rajapakshe told Parliament that it was pointless calling the Act as erronous and requested the Opposition to propose amendments to the Act.
-
-"There are shortcomings in this Act. We also have observed some shortcomings. We are open to make amednments. You propose the required amendments. We will discuss them. Power is vested with Parliament. We should discuss it in Parliament and make necessary amendments without calling the Act erronous and it should be set on fire," the Minister said.
-
-...
-
-[Data](articles/105f4749.json)
-
-[Extended Data](ext_articles/105f4749.ext.json)
 
 ---

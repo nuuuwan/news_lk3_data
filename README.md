@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 22:33:16**
+As of **2024-02-08 22:50:15**
 
 ## Newspaper Stats
 
-*Scraped **5,813** Articles*
+*Scraped **5,817** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,103 @@ economynextcom | 307
 dailyftlk | 316
 newsfirstlk | 363
 adalk | 491
-adaderanalk | 716
 tamilmirrorlk | 716
+adaderanalk | 718
 virakesarilk | 721
 adaderanasinhalalk | 765
-dailymirrorlk | 827
+dailymirrorlk | 829
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,813 (100.0%) of 5,813 articles have been extended.
+5,817 (100.0%) of 5,817 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### Person injured in shooting at Anamaduwa
+
+*2024-02-08 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97127/person-injured-in-shooting-at-anamaduwa) · `en`
+
+A shooting incident was reported in the Pattewa area of Anamaduwa this evening (Feb. 08), the police said.
+
+A 45-year-old person who was injured in the shooting has been admitted to the Puttalam Hospital, according to police.
+
+◼️
+
+[Data](articles/3dab2390.json)
+
+[Extended Data](ext_articles/3dab2390.ext.json)
+
+---
+
+### Australia to allow workers to ignore after-hours calls from bosses
+
+*2024-02-08 22:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Australia-to-allow-workers-to-ignore-after-hours-calls-from-bosses/108-276623) · `en`
+
+Australia, Feb 8 (Independent) - Australia is set to pass a law that will provide employees the right to refuse unreasonable calls from bosses outside of work hours without facing penalty.
+
+The "right to disconnect" is among the various changes to industrial relations laws proposed by the federal government in a parliamentary bill.
+
+Prime minister Anthony Albanese’s government said these changes would safeguard workers’ rights and contribute to restoring a healthy work-life balance.
+
+It would also mean potential fines for employers that breach the rule.
+
+His Labor party’s so-called “closing loopholes” bill which is meant to plug gaps that undercut workers’ pay and conditions has won the support of the majority of senators for the legislation.
+
+The left-wing Greens, which supports the rule and was the first to propose it last year, confirmed that the legislation was close to becoming a law after deals between Labor, smaller parties and independents to support this bill.
+
+...
+
+[Data](articles/f87fc0d7.json)
+
+[Extended Data](ext_articles/f87fc0d7.ext.json)
+
+---
+
+### Largest inscription from Dimbulagala belongs to beginning of 2nd century BC or earlier
+
+*2024-02-08 22:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Largest-inscription-from-Dimbulagala-belongs-to-beginning-of-2nd-century-BC-or-earlier/108-276621) · `en`
+
+Colombo, Feb 8 (Daily Mirror) - The largest inscription ever in Sri Lanka, found from the Dimbulagala Monastery grounds, belongs to the beginning of the second centrury BC or earlier than that, Sri Jayawardenapura University History and Archaeology professor Karunasena Hettiarachchi said.
+
+Addressing the media, he said 60 percent of this inscription was unreadable and 40 percent was readable.
+
+"This inscription was written in Brahmi characters. We found that 24 Brahmi characters were used on the inscription. At least 1,000 characters were used. Moreover, there are several rare symbols, which have never been seen by officials through their previous inscriptions," he said.
+
+According to the signs, characters, and unique symbols, the committee had decided to announce that the inscription belonged to the beginning of the second centrum BC or earlier than that.
+
+...
+
+[Data](articles/2f23dd61.json)
+
+[Extended Data](ext_articles/2f23dd61.ext.json)
+
+---
+
+### Sri Lanka may extend visa exemption for Indian travellers after March
+
+*2024-02-08 21:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97126/sri-lanka-may-extend-visa-exemption-for-indian-travellers-after-march) · `en`
+
+Sri Lanka is likely to extend visa exemption status for India after March to keep attracting travellers from the country and encourage repeat visits, Tourism and Lands, Sports and Youth Affairs Minister Harin Fernando said on Thursday.
+
+“India is our number one source market and tourists from India helped our country on its path of recovery from the recent crisis we faced,” Fernando said in a session at OTM 2024.
+
+Sri Lanka facilitated visa-free entry for Indian travellers from December 2023 to March. “We are working on extending it beyond March. We want to make Sri Lanka an easily accessible destination for Indians, who can just walk into our country for a hassle free holiday,” he said.
+
+By offering visa exemption to Indians, Sri Lanka will attract more footfalls, especially those who make last-minute plans and find visa process a hindrance, he said.
+
+“In the time of more options, we have to ease the travel process to encourage more tourists from India and repeat footfalls,” he added.
+
+...
+
+[Data](articles/448b56ef.json)
+
+[Extended Data](ext_articles/448b56ef.ext.json)
+
+---
 
 ### Passport has been sent to Santhan
 
@@ -2091,91 +2173,5 @@ The JVP’s pragmatic strategies for development while honoring the debts (shoul
 [Data](articles/928660cf.json)
 
 [Extended Data](ext_articles/928660cf.ext.json)
-
----
-
-### Ranil has brainwashed NPP: Nimal Siripala
-
-*2024-02-08 12:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-has-brainwashed-NPP-Nimal-Siripala/108-276596) · `en`
-
-Colombo, Feb 8 (Daily Mirror) - President Ranil Wickremesinghe had brainwashed National People’s Power (NPP) and that is why its leader went before Indian leaders, Ports, Shipping, and Aviation Minister Nimal Siripala de Silva said in Parliament today.
-
-"Those who held lectures, on Indian expansionism have gone to meet Indian leaders today,” he quipped.
-
-“They who wore worn-out clothes are wearing full suits. We are happy about this move. This is because Ranil Wickremesinghe has brainwashed them," MP De Silva said.
-
-"We can recall how these leaders criticized the government for going into business ventures with Adani group," he added.
-
-He also said that around 200,000 tourists had visited Sri Lanka during the last month.
-
-◼️
-
-[Data](articles/94f23c97.json)
-
-[Extended Data](ext_articles/94f23c97.ext.json)
-
----
-
-### 42 arrested over harassing women and children on public transport
-
-*2024-02-08 12:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/42-arrested-over-harassing-women-and-children-on-public-transport/) · `en`
-
-COLOMBO (News 1st); Sri Lanka Police has launched a special operation to curb the harassment of children and women in public transport.
-
-The Police Media Unit said 42 people were arrested in connection with the operations carried out on buses on Wednesday (07).
-
-The measure was taken based on orders by the Acting Inspector General of Police due to complaints received daily regarding sexual harassment of women and children.
-
-Police officers in civilian clothing will be deployed in public transport services, prioritizing peak time, between 8am to 10am and 5pm to 7pm.
-
-Police teams will be deployed in buses, bus depots, railway stations and congested areas during this period.
-
-The Police Headquarters added that Police officers in uniform have also been stationed covering the main roads, to assist officers in civilian clothes.
-
-US Supreme Court begins hearing case on whether to disqualify Trump from presidential election
-
-...
-
-[Data](articles/e8d8cbfc.json)
-
-[Extended Data](ext_articles/e8d8cbfc.ext.json)
-
----
-
-### Suspect in the five murder surrenders to police
-
-*2024-02-08 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193130) · `si`
-
-Another 24-year-old suspect was handed over to the Beliatta Police after the surrender of the Beliatta was assuscated by the Beliatta Police.
-
-The firearms used for shooting say that the suspect in Kamburupitiya has been hidden in Kamburutitiya and took to Galle.
-
-◼️
-
-[Data](articles/0bb3d802.json)
-
-[Extended Data](ext_articles/0bb3d802.ext.json)
-
----
-
-### Three policemen interdicted after poisoning of two suspects in custody
-
-*2024-02-08 12:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-policemen-interdicted-after-poisoning-of-two-suspects-in-custody/108-276595) · `en`
-
-Colombo, Feb 08 (Daily Mirror) - Three police officers from the Wolfendhal Police Station have been interdicted following an incident where two suspects were hospitalised after consuming a packet of milk provided by a visitor.
-
-Two suspects detained at the Wolfendhal Police Station over a recent shooting in the Jinthupitiya area were admitted to the National Hospital, Colombo yesterday (7) after drinking a packet of milk given to them by a visitor.
-
-The two suspects had lost consciousness after they had consumed the milk packets and it is suspected that the packet of milk contained a toxin, police said.
-
-Police allege that cyanide has been mixed in the milk given to the suspects.
-
-One of the suspects who fell ill is the suspect who had allegedly shot and killed a person on January 24 in the Jinthupitiya area, and the other had acted as an informant.
-
-...
-
-[Data](articles/1d762a6e.json)
-
-[Extended Data](ext_articles/1d762a6e.ext.json)
 
 ---

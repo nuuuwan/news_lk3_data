@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 18:50:55**
+As of **2024-02-08 19:17:23**
 
 ## Newspaper Stats
 
-*Scraped **5,782** Articles*
+*Scraped **5,783** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 307
 dailyftlk | 316
 newsfirstlk | 361
 adalk | 490
-adaderanalk | 712
+adaderanalk | 713
 virakesarilk | 713
 tamilmirrorlk | 716
 adaderanasinhalalk | 761
@@ -26,7 +26,7 @@ dailymirrorlk | 820
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,775 (99.9%) of 5,782 articles have been extended.
+5,783 (100.0%) of 5,783 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ All three companies belong to the larger conglomerate Hayleys Group. (Colombo/Fe
 ◼️
 
 [Data](articles/c27763d4.json)
+
+[Extended Data](ext_articles/c27763d4.ext.json)
 
 ---
 
@@ -124,6 +126,20 @@ Sri Lanka squad - Kusal Mendis (Leader), Charith Waniekage, Donus Wella, Dr. Aka
 
 ---
 
+### Veteran journalist Thalangama Jayasinghe passes away
+
+*2024-02-08 17:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97122/veteran-journalist-thalangama-jayasinghe-passes-away) · `en`
+
+Veteran Sri Lankan artist and journalist Thalangama Jayasinghe, best known for his popular newspaper cartoon “Pala Malla,” has passed away.
+
+◼️
+
+[Data](articles/bb5ca5e7.json)
+
+[Extended Data](ext_articles/bb5ca5e7.ext.json)
+
+---
+
 ### Sri Lanka’s Asia Asset Finance rated ‘A+(lka)’ with a stable outlook: Fitch
 
 *2024-02-08 17:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-asia-asset-finance-rated-alka-with-a-stable-outlook-fitch-150420/) · `en`
@@ -141,6 +157,8 @@ Asia Asset Finance is a 72.9%-owned subsidiary of India-based Muthoot Finance Lt
 ...
 
 [Data](articles/cf0ff8a7.json)
+
+[Extended Data](ext_articles/cf0ff8a7.ext.json)
 
 ---
 
@@ -234,6 +252,8 @@ A bond maturing on 01.07.2032 closed at 12.80/13.05 percent from 12.75/13.00 per
 
 [Data](articles/4a055379.json)
 
+[Extended Data](ext_articles/4a055379.ext.json)
+
 ---
 
 ### Global warming has exceeded the limited limit
@@ -326,17 +346,23 @@ Member of Parliament should have mentioned the cost of 2023 instead of 2022. The
 
 ---
 
-### ජෝර්දාන් ඇගළුම් කර්මාන්තශාලා සේවකයින්ගේ ගැටළුව විසදෙයි
+### Problems of Jordan Elfactory Factory Employees
 
 *2024-02-08 16:53:31* · [`adalk`](https://www.ada.lk/breaking_news/ජෝර්දාන්-ඇගළුම්-කර්මාන්තශාලා-සේවකයින්ගේ-ගැටළුව-විසදෙයි/11-407971) · `si`
 
-ජෝර්දානයේ අසිල් සහ හයි ඇපරල් යන ඇඟලුම් කර්මාන්තශාලා වසා තැබීම නිසා රැකියා අහිමි වූ ශ්‍රි ලාංකික ශ්‍රමිකයින්ගෙන් 60 දෙනෙකු හෙට දින අලුයම (2024.02.09) ජසීරා ගුවන් සේවයට අයත් J9 252 යන යානය මගින් දිවයිනට පැමිණීමට නියමිතය.
+Due to the closure of garment factories of garment factories in Jordan, 60 of Sri Lankan workers who have lost their jobs.
 
-ජෝර්දානයේ අසිල් සහ හයි ඇපරල් යන ඇඟලුම් කර්මාන්තශාලා වසා තැබීම නිසා ශ්‍රි ලාංකික ශ්‍රමිකයින් 221 දෙනෙකුට රැකියා අහිමි විය.
+At the closure of garment factories in Jordan, 221 Sri Lankan workers lost their jobs.
 
-...
+Accordingly, the officials of the Jordan Embassy recently met with the officials of the Ministry of Labor and discussed the issue and was taken to provide specialist legal support for Sri Lankans.. The Jordan authorities agreed to send ourselves without charging workers in the midstream without the fines.. The Sri Lankan embassy in Jordan was also intervened to obtain the compensation and the salaries of the Sri Lankan Embassy.
+
+Minister of Labor and Foreign Employment Affiliate officers have directly intervened to take necessary steps to be resolved to be resolved in the Sri Lankans' problem.. According to the Foreign Employment Bureau, these workers have been able to bring all compensation and allowances paid to these workers in a short period of time.
+
+◼️
 
 [Data](articles/1711fb46.json)
+
+[Extended Data](ext_articles/1711fb46.ext.json)
 
 ---
 
@@ -612,6 +638,8 @@ Contributors to ASPI in the day included Hayleys Plc (up at 77.50), DFCC Bank Pl
 
 [Data](articles/2d89faaf.json)
 
+[Extended Data](ext_articles/2d89faaf.ext.json)
+
 ---
 
 ### There is no news of 'Jerem Son' for 22 days
@@ -805,6 +833,8 @@ Wednesday’s trade of JKH shares (11.3mn) pushed the CSE’s daily turnover pas
 ◼️
 
 [Data](articles/0df5c4a0.json)
+
+[Extended Data](ext_articles/0df5c4a0.ext.json)
 
 ---
 
@@ -2111,23 +2141,5 @@ Moreover, fish prices at the New Manning Market in Peliyagoda too were low today
 [Data](articles/281401d7.json)
 
 [Extended Data](ext_articles/281401d7.ext.json)
-
----
-
-### Shortcomings observed in Online Safety Act; open for amendments: Wijeyadasa
-
-*2024-02-08 11:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shortcomings-observed-in-Online-Safety-Act-open-for-amendments-Wijeyadasa/108-276591) · `en`
-
-Parliament, Feb. 08 (Daily Mirror)- The government has observed that there are some shortcomings in the recently enacted Online Safety Act and the government is open to bring in amendments to the Act, Justice Minister Wijeyadasa Rajapakshe said today.
-
-Responding to questions by Opposition Leader Sajith Premadasa and SJB MP Harsha de Silva, Minister Rajapakshe told Parliament that it was pointless calling the Act as erronous and requested the Opposition to propose amendments to the Act.
-
-"There are shortcomings in this Act. We also have observed some shortcomings. We are open to make amednments. You propose the required amendments. We will discuss them. Power is vested with Parliament. We should discuss it in Parliament and make necessary amendments without calling the Act erronous and it should be set on fire," the Minister said.
-
-...
-
-[Data](articles/105f4749.json)
-
-[Extended Data](ext_articles/105f4749.ext.json)
 
 ---

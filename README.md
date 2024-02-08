@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 19:49:55**
+As of **2024-02-08 20:02:33**
 
 ## Newspaper Stats
 
-*Scraped **5,788** Articles*
+*Scraped **5,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 300
 economynextcom | 307
 dailyftlk | 316
 newsfirstlk | 361
-adalk | 490
+adalk | 491
 adaderanalk | 713
 virakesarilk | 713
 tamilmirrorlk | 716
@@ -26,35 +26,39 @@ dailymirrorlk | 820
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,787 (100.0%) of 5,788 articles have been extended.
+5,788 (100.0%) of 5,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### පොලීසිය ඇතුළටම ආ පාතාලේ
+### The police back in the middle of the police
 
 *2024-02-08 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193142) · `si`
 
-ආදුරුප්පුවීදිය පොලීසිය තුළදී සැකකරුවන් දෙදෙනෙකුට වස ලබාදුන් පුද්ගලයාව පොලිසිය හඳුනාගෙන තිබේ.
+Police have identified the person who poisoned two suspects at the victims in the police.
 
-ජින්තුපිටිය ප්‍රදේශයේදී පසුගියදා සිදුවූ වෙඩි තැබීමක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන ආදුරුප්පුවීදිය පොලිස් සිර මැදිරියේ රඳවා සිටියදී ඔවුන්ට වස ලබාදී තිබුණේ ඔවුන්ගේ සුවදුක් විමසීමට පැමිණි පුද්ගලයෙකු විසිනි.
+When the Adrippuwa had been arrested in connection with the recent shooting in the Jidtupitiya area and was assigned to their health.
 
-එම පුද්ගලයා පොලීසියට පැමිණීමට පෙර ආදුරුප්පුවීදියේ වෙළෙඳසැලකට යන අයුරු එහි CCTV කැමරාවක සටහන්ව තිබුණි.
+It was recorded in a CCTV camera how the man arrived at the Adraddwidi market before the police arrived.
 
-පොලීසිය සඳහන් කළේ සැකකරු අධික ලෙස මත්ද්‍රව්‍යයට ඇබ්බැහි වූවකු බවය.
+The police said that the suspect was an overcover drug addict.
 
-එමෙන්ම ඔහු විසින් වස ලබාදුන් සැකකරුවන් දෙදෙනා මෙන්ම ඔහුද පූකුඩු කන්නා නම් අපරාධකරුගේ සමීපතමයන් බවද පොලීසිය පවසයි.
+The police said that if he was poisoned by him as well as he was Poultry, the police said.
 
-කුඩු සෙල්විගේ පාර්ශ්වයේ සමීපතමයෙකුට ඔවුන් වෙඩි තැබීමට කටයුතු කර තිබුණේද ඒ සමීප සබඳතාව හේතුවෙනි.
+They had shooting a close to a close association of Kudu Selvi's party.
 
-ඒ අනුව කුඩු සෙල්විගේ පාර්ශ්වය විසින් මෙම පුද්ගලයාට මුදල් ලබාදී අපරාධය සැලසුම් කර ඇති බවට පොලීසිය සැකකරයි.
+Accordingly, the police suspect that the crime has been made by Kudu Selvi's party and the crime was planned.
 
-වස පානය කිරීම හේතුවෙන් රෝහල් ගතකළ පුද්ගලයන් දෙදෙනාගේ තත්ත්වය ද බරපතල බව වාර්තාවෙයි.
+It is reported that the condition of the two persons hospitalized due to the poison.
 
-...
+At the same time, the Adrappirup of Police, OIC of the Police, OIC of the Police and the Gateway, has been temporarily banned from the police officer.
+
+◼️
 
 [Data](articles/49967a36.json)
+
+[Extended Data](ext_articles/49967a36.ext.json)
 
 ---
 
@@ -303,6 +307,22 @@ El nio is the highest in the Pacific Ocean.
 [Data](articles/9f38c348.json)
 
 [Extended Data](ext_articles/9f38c348.ext.json)
+
+---
+
+### සියඹලාන්ඩුව බිම්ගත සූර්ය පැනල විදුලි ව්‍යාපෘතියේ විදුලි මිලදී ගැනිමේ ගිවිසුමට අත්සන් තබයි
+
+*2024-02-08 17:02:09* · [`adalk`](https://www.ada.lk/breaking_news/සියඹලාන්ඩුව-බිම්ගත-සූර්ය-පැනල-විදුලි-ව්‍යාපෘතියේ-විදුලි-මිලදී-ගැනිමේ-ගිවිසුමට-අත්සන්-තබයි/11-407973) · `si`
+
+මෙගා වොට් 100ක ධාරිතාවයකින් යුත් සියඹළාන්ඩුව බිම්ගත සූර්ය පැනළ මගින් විදුලිය උත්පාදනය කිරීමේ පුනර්ජනනීය බලශක්ති ව්‍යපෘතිය වෙනුවෙන් වූ විදුලිය මිලදී ගැනීමේ ගිවිසුම අත්සන් කිරීම රිවිදනවි පෞද්ගලික සමාගම සහ විදුලිබල මණ්ඩලය අතර අද සිදු කරනු ලැබුණි.
+
+මෙම ව්‍යපෘතිය සඳහා ලංසු කැඳවීම විදුලිබල මණ්ඩලය විසින් 2022 වර්ෂයේ සැප්තැම්බර් මස සිදු කරන ලැබූ අතර 2023 වර්ෂයේ තාක්ෂණික සහ මුල්‍ය කටයුතු අධ්‍යනය කර 2023 වර්ෂයේ අවසන අඩුම ලංසුව ඉදිරිපත් කරන ලද සමාගමට ප්‍රධානය කරනු ලැබුණි. එම සමාගම මගින්ම එහි සම්ප්‍රේෂණ යටිතල පහසුකම් කිලෝ මීටර් 27.5ක් සංවර්ධනය කෙරේ.
+
+රිවිදනවී සමාගම කොටස්කරුවන් වන ලක්දනවි සමාගම, වින්ඩ් ෆොස් සමාගම සහ සිංගප්පුරුවේ බ්ලු සිර්කල් පෞද්ගලික සමාගම ඒකාබද්ධව සැදුම්ලත් සමාගමක් වේ. මෙම ව්‍යාපෘතියේ ආයෝජනය ඇමෙරිකානු ඩොලර් මිලියන 132ක් පමණ වේ.
+
+◼️
+
+[Data](articles/545ae1fd.json)
 
 ---
 
@@ -2099,25 +2119,5 @@ The former member of the attack was rescued by neighbors at the hospital.
 [Data](articles/3083bb98.json)
 
 [Extended Data](ext_articles/3083bb98.ext.json)
-
----
-
-### Bus strike launched on Avissawella - Colombo route
-
-*2024-02-08 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97109/bus-strike-launched-on-avissawella-colombo-route) · `en`
-
-The employees of the buses operating from Avissawella to Colombo (Route No. 122) have decided to withdraw from their services.
-
-Accordingly, 60 buses operating on route number 122 have been out of service since this morning (Feb. 08).
-
-The bus operators have resorted to this strike action, on account of an alleged assault on the Superintendent of Homagama Bus Depot and a few other employees by a group of individuals while travelling on a bus attached to the depot.
-
-The bus operators also allege that no legal action has been taken against the relevant suspects.
-
-◼️
-
-[Data](articles/a0949df7.json)
-
-[Extended Data](ext_articles/a0949df7.ext.json)
 
 ---

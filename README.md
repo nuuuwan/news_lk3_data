@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 01:17:20**
+As of **2024-02-09 01:32:45**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ dailymirrorlk | 834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,830 (99.9%) of 5,835 articles have been extended.
+5,835 (100.0%) of 5,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### அரசியல் கைதிகள் விடுதலையில் கரிசனை கொள்ளுங்கள் - சார்ள்ஸ் நிர்மலநாதன் வலியுறுத்தல்
+### Make concern over the release of political prisoners - Charles Nirmalanathan emphasizes
 
 *2024-02-09 00:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/175935) · `ta`
 
-தமிழர் பிரதேசங்களில் தமிழர்களுக்கு எதிராக இடம்பெறும் செயற்பாடுகள் தொடர்பில் கொள்கை பிரகடன உரையில் ஜனாதிபதி அவதானம் செலுத்தாமல் இருந்தமை கவலைக்குரியது.விட்டுக் கொடுப்புடன் முன்னோக்கிச் செல்ல வேண்டும் என்று ஜனாதிபதி குறிப்பிட்டுள்ளார்.அவ்வாறாயின் ஆனந்த சுகாதரன் போன்ற அரசியல் கைதிகளை மனிதாபிமானத்துடன் விடுதலை செய்ய வேண்டும் எனத் தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் சார்ள்ஸ் நிர்மலநாதன் தெரிவித்தார்.
+The President has said that the President has not been able to pay attention to the policy declaration on the activities of Tamils in Tamil areas.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (8) இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரையின் மீதான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking at the adjournment debate on the President's Declaration of the President's Policy Declaration held in Parliament on Thursday (8).
+
+The president's policy speech was based on the economic impact of the president. In this country, ethnic repression against Tamils continues to be taken away. Tamil lands are being destroyed.. He noted that 2 million people were given land rights.
+
+In the Mannar district, the people of Thiruketheeswarar village in the village of Thirukkadeeswara are trying to plant the pillars of the forest department that the Forest Department belongs to them.. When the President is proud to give land rights to the people. The Department of Forest Department has temporarily abandoned the land grabbing initiative following the people's opposition.
 
 ...
 
 [Data](articles/a7ee7a18.json)
+
+[Extended Data](ext_articles/a7ee7a18.ext.json)
 
 ---
 
@@ -57,6 +63,8 @@ The present regulation is that a loaf of bread must weigh a minimum of 450 grams
 ...
 
 [Data](articles/2e7327af.json)
+
+[Extended Data](ext_articles/2e7327af.ext.json)
 
 ---
 
@@ -73,6 +81,8 @@ Often, developing countries’ mid-career journalists are invited to the West fo
 ...
 
 [Data](articles/def288df.json)
+
+[Extended Data](ext_articles/def288df.ext.json)
 
 ---
 
@@ -93,6 +103,8 @@ The calculation only took into account the charges of the supplier, and did not 
 ...
 
 [Data](articles/f0e26e75.json)
+
+[Extended Data](ext_articles/f0e26e75.ext.json)
 
 ---
 
@@ -159,6 +171,8 @@ Colombo, Feb 08 (Daily Mirror) -  The visit of National People’s Power (NPP) 
 ...
 
 [Data](articles/543d0893.json)
+
+[Extended Data](ext_articles/543d0893.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 01:02:28**
+As of **2024-02-09 01:17:20**
 
 ## Newspaper Stats
 
-*Scraped **5,830** Articles*
+*Scraped **5,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,17 +18,83 @@ newsfirstlk | 363
 adalk | 491
 tamilmirrorlk | 718
 adaderanalk | 719
-virakesarilk | 727
+virakesarilk | 728
 adaderanasinhalalk | 767
-dailymirrorlk | 830
+dailymirrorlk | 834
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,830 (100.0%) of 5,830 articles have been extended.
+5,830 (99.9%) of 5,835 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-02-09 (Friday)
+
+### அரசியல் கைதிகள் விடுதலையில் கரிசனை கொள்ளுங்கள் - சார்ள்ஸ் நிர்மலநாதன் வலியுறுத்தல்
+
+*2024-02-09 00:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/175935) · `ta`
+
+தமிழர் பிரதேசங்களில் தமிழர்களுக்கு எதிராக இடம்பெறும் செயற்பாடுகள் தொடர்பில் கொள்கை பிரகடன உரையில் ஜனாதிபதி அவதானம் செலுத்தாமல் இருந்தமை கவலைக்குரியது.விட்டுக் கொடுப்புடன் முன்னோக்கிச் செல்ல வேண்டும் என்று ஜனாதிபதி குறிப்பிட்டுள்ளார்.அவ்வாறாயின் ஆனந்த சுகாதரன் போன்ற அரசியல் கைதிகளை மனிதாபிமானத்துடன் விடுதலை செய்ய வேண்டும் எனத் தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் சார்ள்ஸ் நிர்மலநாதன் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (8) இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரையின் மீதான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/a7ee7a18.json)
+
+---
+
+### When the ‘Weight’ of Bread is Too Much to Bear! - EDITORIAL
+
+*2024-02-09 00:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/When-the-Weight-of-Bread-is-Too-Much-to-Bear-EDITORIAL/172-276625) · `en`
+
+The study of the history of bread in Sri Lanka provides us with an interesting story. Despite Sri Lankan homes trying to dissuade eating bread - stating that such foods invite disease early in life - the baked meal made of flour has held on to its place on the dining table despite fighting for survival amidst government regulations imposed on bakery and restaurant owners.
+
+The present regulation is that a loaf of bread must weigh a minimum of 450 grams. This was made mandatory following a government regulation confirmed through gazette notification recently. However, bakery owners are complaining that there must be a price control now because an unofficial price revision has taken place to balance costs with the increase in the weight of a loaf of bread.
+
+...
+
+[Data](articles/2e7327af.json)
+
+---
+
+### Covering Gaza: The imperialistic media deception
+
+*2024-02-09 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Covering-Gaza-The-imperialistic-media-deception/172-276624) · `en`
+
+In east London, graffiti made by street artist Ed Hicks, also known as @ed_hicks, depicts Palestinian citizen journalist, Plestia Alaqad, as part of a peace project called “Heroes of Palestine” by the art platform Creative Debuts. AFP
+
+Do as I say, not as I do. This is the mantra with which the imperialist West keeps its colonial or neo-colonial projects going. This duplicity is also evident in the imperialists’ media policy.
+
+Often, developing countries’ mid-career journalists are invited to the West for training that lasts weeks, months, and even a year. The institutes to which they go meet the airfare, accommodation, and meal costs. They are even paid per diem. They are lectured on journalistic rules and dos and don’ts. They are taught that journalism’s first obligation is to the truth, which is sacred and cannot be warped or violated. The primary duty of the journalist is to find out the truth, verify it, fact-check it, and convey it to the people they are morally bound to serve.
+
+...
+
+[Data](articles/def288df.json)
+
+---
+
+### Sri Lanka has the highest electricity charges in South Asia: PublicFinance.lk
+
+*2024-02-09 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sri-Lanka-has-the-highest-electricity-charges-in-South-Asia-PublicFinance-lk/172-276622) · `en`
+
+Sri Lanka is noted for levying the highest electricity charges in South Asia and the island’s citizens have often protested against being forced to pay exorbitant electricity bills
+
+New analysis finds local households pay 2.5 to 3 times more than average paid by regional counterparts
+
+Colombo, 08 February 2024- Sri Lanka currently has the highest electricity charges in South Asia, with householders paying 2.5 to 3 times more for electricity than the average price paid by households in other South Asian countries, according to analysis that was published this week.
+
+Published on PublicFinance.lk, Sri Lanka’s premier economic insights platform, this analysis by Verité Research looked at what households are charged for their electricity when consuming 100, 200 or 300 units, at the start of 2024.
+
+The calculation only took into account the charges of the supplier, and did not include government taxes such as the Social Security Levy, which is charged additionally in Sri Lanka.
+
+...
+
+[Data](articles/f0e26e75.json)
+
+---
 
 ### 2024-02-08 (Thursday)
 
@@ -75,6 +141,24 @@ Heri Dixon and Sam Konstas shared 33 runs and made Australia some good start.
 [Data](articles/cc961b38.json)
 
 [Extended Data](ext_articles/cc961b38.ext.json)
+
+---
+
+### Anura Kumara’s visit to India a welcome move: Vajira
+
+*2024-02-08 23:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-Kumaras-visit-to-India-a-welcome-move-Vajira/108-276620) · `en`
+
+Colombo, Feb 08 (Daily Mirror) -  The visit of National People’s Power (NPP) Leader Anura Kumara Dissanayake’s visit to India is a welcome move and it is expected that his party will work with the present government, UNP MP and Chairman Vajira Abeywardena said today.
+
+“It is good for the NPP leader to work with world leaders,” MP Abeywardena told a press conference.
+
+“We hope that the NPP will contribute towards formulating national policies which will revive the nation. It is not something new for the JVP led NPP to work towards formulating national policies. The party has experience in doing so as it had worked with late President J. R. Jayewardene who helped them take a democratic route and thereafter with Late President Chandrika Kumaratunga, President Mahinda Rajapaksa and the government of 2015.
+
+“Incumbent President Ranil Wickremesinghe also made it clear that he expects the NPP to work with the present government,” he added.
+
+...
+
+[Data](articles/543d0893.json)
 
 ---
 
@@ -2063,109 +2147,5 @@ It said that high-quality Sri Lankan leather goods in the range of leather glove
 [Data](articles/47badd65.json)
 
 [Extended Data](ext_articles/47badd65.ext.json)
-
----
-
-### Footwear and Leather Fair 2024 Starts at BMICH today
-
-*2024-02-08 14:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Footwear-and-Leather-Fair-2024-Starts-at-BMICH-today/110-276601) · `en`
-
-The 14th Footwear and Leather Fair 2024 started at the Bandaranaike Memorial International Conference Hall (BMICH) today. The exhibition will be held until Sunday (11).
-
-“High quality, sustained volumes and competitive pricing have been key factors contributing to the success of Sri Lanka's footwear and leather products industry,” organisers said.
-
-“Sri Lanka produces a wide range of modern shoes in many designs for men and women, rubber boots, beach slippers, safety shoes, sports and canvass shoes. Sri Lankan footwear exporters have established suppliers to many high-end international footwear brands,” they said.
-
-It said that high-quality Sri Lankan leather goods in the range of leather gloves, travel bags, backpacks, ladies' handbags, jackets and small leather goods cater to niche international markets. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/c72f9cf9.json)
-
-[Extended Data](ext_articles/c72f9cf9.ext.json)
-
----
-
-### Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
-
-*2024-02-08 14:02:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/electricity-bills-in-sri-lanka-highest-in-south-asia-verit%c3%a9-research/) · `en`
-
-COLOMBO (News 1st); Sri Lanka currently has the highest electricity charges in South Asia, with households paying 2.5 to 3 times more for electricity than the average price paid by households in other South Asian countries, according to analysis that was published this week.
-
-Published on PublicFinance.lk, Sri Lanka’s premier economic insights platform, this analysis by Verité Research looked at what households are charged for their electricity when consuming 100, 200 or 300 units, at the start of 2024.
-
-The calculation only took into account the charges of the supplier, and did not include government taxes such as the Social Security Levy, which is charged additionally in Sri Lanka.
-
-The second highest household electricity charges in the region are in Pakistan; yet they are far less than in Sri Lanka. Households consuming 100 units are charged 50% more in Sri Lanka than Pakistan; and those consuming 300 units are charged 97% more in Sri Lanka.
-
-...
-
-[Data](articles/84559acc.json)
-
-[Extended Data](ext_articles/84559acc.ext.json)
-
----
-
-### Sri Lanka CEB signs power purchase agreement with Rividhanavi
-
-*2024-02-08 13:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-ceb-signs-power-purchase-agreement-with-rividhanavi-150376/) · `en`
-
-ECONOMYNEXT – The state-owned Ceylon Electricity Board has signed a power purchase agreement with Rividhanavi (Pvt) Ltd for a 100 MW ground mount solar project in Siyambalanduwa today (8).
-
-“Power purchase agreement for the 100 MW Ground Mount Solar project in Siyambalanduwa was signed by Rividhanavi (Pvt) Ltd with CEB today,” Minister of Power and Energy Kanchana Wijesekera said on social media platform X (twitter).
-
-“The project was advertised by the CEB in September 2022, evaluated in 2023 and was awarded to the lowest and successful bidder at the end of 2023.”
-
-Wijesekera said Rividhanavi will also build the transmission line of 27.5 km for the project and transfer to the CEB.
-
-Rividhanavi (Pvt) Ltd is a consortium of shareholders, Lakdhanavi Ltd, Windforce PLC and The Blue Circle PTE Ltd of Singapore. (Colombo/Feb8/2024)
-
-◼️
-
-[Data](articles/1398f175.json)
-
-[Extended Data](ext_articles/1398f175.ext.json)
-
----
-
-### State revenue up by 25 percent in January after VAT increase: Siyambalapitiya
-
-*2024-02-08 13:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/State-revenue-up-by-25-percent-in-January-after-VAT-increase-Siyambalapitiya/108-276599) · `en`
-
-Parliament, Feb. 08 (Daily MIrror)- State revenue has increased by 25 percent in January after the VAT increase, where Rs. 274 billion was recorded in January 2024, whereas the estimated state revenue was Rs. 219 billion, State Minister of Finance Ranjith Siyambalapitiya said today.
-
-The Minister said the Customs Department was set a target of Rs. 114 billion for January and it had recorded Rs. 121 billion, which is 11 percent more than the estimated revenue.
-
-"The Excise Department recorded Rs. 14 billion exceeding the revenue target of Rs. 12 billion. The Inland Revenue Department has recorded Rs. 114 billion more than the set target of Rs. 88.9 billion," the Minister said.
-
-Speaking during the adjournment debate on the government policy statement, he told Parliament that inflation was recorded as 6.4 percent while the food inflation was only 3.3 percent.
-
-...
-
-[Data](articles/63dfeb0c.json)
-
-[Extended Data](ext_articles/63dfeb0c.ext.json)
-
----
-
-### Two individuals nabbed with 1,200 capsules of controlled substances
-
-*2024-02-08 13:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97112/two-individuals-nabbed-with-1200-capsules-of-controlled-substances) · `en`
-
-Two suspects have been arrested in Nanattan, Silavathurai while in possession of a cache of controlled drugs intended for sale.
-
-The arrests were made during a coordinated search operation mounted by the Navy and the Divisional Crimes Investigation Unit in Mannar on Wednesday (Feb.07).
-
-Accordingly, a total of 1,200 Pregabalin capsules have been impounded in this operation.
-
-The male and female suspects – aged 23 and 45, respectively – held in this operation were identified as residents of Nanattan area.
-
-The accused, along with seized Pregabalin capsules, have been handed over to the Silavathurai Police for onward legal action.
-
-◼️
-
-[Data](articles/e4eeba48.json)
-
-[Extended Data](ext_articles/e4eeba48.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 17:02:38**
+As of **2024-02-08 17:17:20**
 
 ## Newspaper Stats
 
-*Scraped **5,754** Articles*
+*Scraped **5,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,73 +14,101 @@ dbsjeyarajcom | 141
 islandlk | 299
 economynextcom | 302
 dailyftlk | 316
-newsfirstlk | 359
+newsfirstlk | 360
 adalk | 485
 adaderanalk | 707
 virakesarilk | 708
 tamilmirrorlk | 716
-adaderanasinhalalk | 758
+adaderanasinhalalk | 759
 dailymirrorlk | 818
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,743 (99.8%) of 5,754 articles have been extended.
+5,754 (100.0%) of 5,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### மரக்கறி விலைகளில் வீழ்ச்சி
+### ලංකාවේ විශාලතම සෙල් ලිපියේ කොටා තිබූ කතාව
+
+*2024-02-08 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193138) · `si`
+
+ශ්‍රී ලංකාවෙන් හමුවූ විශාලතම සෙල් ලිපිය පිළිබඳව මූලික වාර්තාවක් ඒ සම්බන්ධයෙන් පත්කළ විශේෂ කමිටුව විසින් අද එළිදැක්වීය.
+
+මෙම සෙල්ලිපියේ පිටපත් අනුව එය කිස්තුපූර්ව දෙවන සියවසේ මුල් භාගයට හෝ ඊට පෙර සමයකට අයත් එකක් බවට තීරණය කළ බව එම මාධ්‍ය හමුවට එක්වූ ශ්‍රී ජයවර්ධනපුර විශ්ව විද්‍යාලයේ පුරාවිද්‍යා අධ්‍යයන අංශයේ මහාචාර්ය කරුණාසේන හෙට්ටිආරච්චි මහතා පැවසීය.
+
+මේ අතර එම සෙල්ලිපියේ බ්‍රාහ්මීය අක්ෂර පේළි 10ක් සහ ඇති බවත් මෙරට ඉතිහාසයේ මෙතෙක් ශිලා ලේඛනවල දැකගත නොහැකි අතිශය දුර්ලභ සංකේත 6ක් හාමුවී ඇති බවත් මහාචාර්යවරයා සඳහන් කළේය.
+
+එසේම අදාළ ශිලා ලේඛනයේ සැළකිය යුතු ප්‍රමාණයක් ගෙවී ගොස් ඇති බවත් එය සමස්ථ ලේඛනයෙන් ප්‍රතිශතයක් ලෙස සියයට 60ක් පමණ වන බවත් මහාචාර්යවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+ඒ අනුව ඉතිරි සියයට 40කට කොටස අතරින් හඳුනාගෙන ඇති අක්ෂර පේළි අනුව දළ අර්ථයක් සකස්කරගැනීමට හැකි වූ බවද මහාචාර්යවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+එහි බ්‍රාහ්මීය අකුරු 24ක් උපයෝගී කරගනිමින් සකස් කර ඇති අතර මුළු ශිලා ලිපියේම අකුරු 1000කට ආසන්න ප්‍රමාණයක් තිබී ඇත.
+
+...
+
+[Data](articles/c18fcb11.json)
+
+---
+
+### Fall in vegetable prices
 
 *2024-02-08 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175877) · `ta`
 
-நாட்டில் அண்மைக்காலமாக நிலவிய மரக்கறிகளின் விலைகளுடன் ஒப்பிடுகையில் இன்று புதன்கிழமை (08) பேலியகொடை புதிய மெனிங்  சந்தையில் மரக்கறிகளின் விலை குறைந்துள்ளது.
+The prices of vegetables have fallen in the New Menning Market in Peliyagoda today (08) compared to the recent prices of vegetables in the country.
 
-அதன்படி, ஒரு கிலோ கரட்டின் சில்லரை விலை 700 ரூபாவாகவும்,  போஞ்சியின் விலை 500  ரூபாவாகவும் குறைந்துள்ளது.
+Accordingly, the price of a kilo of bear has fallen to 700 rupees and the price of Ponji has fallen to 500 rupees.
 
-எனினும், ஒரு கிலோ பச்சை மிளகாய் 1,000 ரூபாவாகவும், ஒரு கிலோ  குடைமிளகாய் 1,100 ரூபாவாகவும் விற்பனை செய்யப்படுகிறது.
+However, one kilogram of green chilli is sold at 1,000 rupees and a kilo of wedges at 1,100 rupees.
 
-மேலும், பேலியகொடை புதிய மெனிங் சந்தையில் இன்று மீன்களின் விலையும் குறைந்துள்ளமை குறிப்பிடத்தக்கது.
+Also, the price of fish has declined in the new mening market today.
 
 ◼️
 
 [Data](articles/4b425a57.json)
 
+[Extended Data](ext_articles/4b425a57.ext.json)
+
 ---
 
-### හෙරොයින් ජාවාරම්කරුට ජීවිතාන්තය දක්වා සිරදඬුවම්
+### Heroin trafficker sentenced to life in prison
 
 *2024-02-08 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193137) · `si`
 
-හෙරොයින් මත්ද්‍රව්‍ය ග්‍රෑම් 06කට ආසන්න ප්‍රමාණයක් සන්තකයේ තබාගැනීම සහ ජාවාරම් කිරීමේ චෝදනාවන්ට වරදකරු කෙරුණු පුද්ගලයෙකුට කොළඹ මහාධිකරණය විසින් ජීවිතාන්තය දක්වා සිරදඬුවම් නියම කළේය.
+The Colombo High Court sentenced to a person who was convicted to possess and smuggle drugs.
 
-කොළඹ මහාධිකරණ විනිසුරු ආදිත්‍ය පටබැඳිගේ මහතා විසින් තීන්දුව ලබා දුන්නේය.
+Colombo High Court Judge Adal Pabennege gave the verdict.
 
-2018 වසරේ ග්‍රෑන්ඩ්පාස්, ඛෙත්තාරාම ප්‍රදේශයේ සිදුකළ වැටලීමකදී හෙරොයින් ග්‍රෑම් 5.9 ක් සමග පොලීසිය විසින් මෙම විත්තිකරු අත්අඩංගුවට ගෙන තිබුණි.
+The police had arrested the accused with 5.9 grams of heroin in the Grandpass, Grandpass, 2018.
 
-පසුව ඔහුට එරෙහිව නීතිපතිවරයා විසින් කොළඹ මහාධිකරණය හමුවේ නඩු පවරන ලදි.
+Later, the Attorney General was prosecuted before the Colombo High Court.
 
-දීර්ඝ නඩු විභාගයකින් අනතුරුව තීන්දුව ප්‍රකාශයට පත්කළ විනිසුරුවරයා සඳහන් කළේ මෙම විත්තිකරුට එරෙහිව පැමිණිල්ල විසින් එල්ලකර තිබූ චෝදනා සාධාරණ සැකයකින් තොරව ඔප්පු වී ඇති බවය.
+After a lengthy trial, the judge said that the complaints made by the complaint against the accused have been proved without fair doubts.
 
-ඒ අනුව ඔහුට මෙම දඩුවම් නියම කරන බවත් විනිසුරුවරයා සඳහන් කළේය.
+Accordingly, the judge said he was sentenced.
 
 ◼️
 
 [Data](articles/57b380bc.json)
 
+[Extended Data](ext_articles/57b380bc.ext.json)
+
 ---
 
-### හෙට වැසි රහිත කාලගුණයක්
+### Tomorrowless weather tomorrow
 
 *2024-02-08 16:24:11* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-වැසි-රහිත-කාලගුණයක්/11-407969) · `si`
 
-හෙට දිනයේදී දිවයින පුරා ප්‍ර ධාන වශයෙන් වැසි රහිත කාලගුණයක් අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි. හෙට දිනයට අදාළව අද පස්වරුවේ නිකුත් කළ නිවේදනයක මේ බව දැක්වෙයි.
+The Department of Meteorology states that a rainy weather is expected tomorrow.This is stated in announcement this afternoon.
 
 ◼️
 
 [Data](articles/e53503da.json)
+
+[Extended Data](ext_articles/e53503da.ext.json)
 
 ---
 
@@ -100,37 +128,67 @@ At the culmination of the evaluation process, Rividhanavi emerged as the lowest 
 
 [Data](articles/e374e9d1.json)
 
+[Extended Data](ext_articles/e374e9d1.ext.json)
+
 ---
 
-### மின்குமிழ்  களவாட முயற்சி  ;  முன்னாள் உறுப்பினர் மீது தாக்குதல்
+### Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
+
+*2024-02-08 16:07:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/cops-suspended-after-suspects-fall-ill-while-in-custody-at-woulfendhal-station/) · `en`
+
+COLOMBO (News 1st): Three officers, including the Acting OIC of Woulfendhal Police Station, have been interdicted.
+
+Police Spokesman & DIG, Attorney-at-Law Nihal Thalduwa, confirmed that the suspensions were related to an incident involving two suspects who were arrested in connection with a recent shooting.
+
+It was reported that the suspects subsequently suffering from poisoning and are currently receiving treatment at the Colombo National Hospital.
+
+The suspects collapsed in their cell after consuming packets of milk, which were given to them by an individual who came to visit them while in the police cell.
+
+The officers involved in the case have been suspended pending the outcome of the investigation.
+
+Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
+
+Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+
+◼️
+
+[Data](articles/0e052293.json)
+
+---
+
+### Trying to stole the glitter;Attack on the former member
 
 *2024-02-08 16:04:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்குமிழ்-களவாட-முயற்சி-முன்னாள்-உறுப்பினர்-மீது-தாக்குதல்/175-332910) · `ta`
 
-வீதி மின் விளக்குகளை களவாட முயன்ற கும்பலை தடுக்க முற்பட்ட, சாவகச்சேரி பிரதேச சபை முன்னாள் உறுப்பினர் தாக்குதலுக்கு இலக்கான நிலையில்,  சாவகச்சேரி ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+A former member of the Chavakachcheri Pradeshiya Sabha has been admitted to the Chavakachcheri Base Hospital after being attacked.
 
-யாழ்ப்பாணம் – சாவகச்சேரி, மந்துவில் பகுதியில் கும்பல் ஒன்று வீதியில் மின் கம்பங்களில் பொருத்தப்பட்டிருந்த வீதி மின் குமிழ்களை களவாட முயன்றதை அவதானித்த மக்கள்,  இது தொடர்பில்  சாவகச்சேரி பிரதேச சபையின் முன்னாள் உறுப்பினர் கு.குகானந்தனுக்கு அறிவித்துள்ளனர்.
+People who observed a gang of people mounted on power poles on the road on the road in Jaffna - Chavakachcheri, Jaffna, have reported that the former member of the Chavakachcheri Pradeshiya Sabha, K. Kukanandan, has announced.
 
-இதனையடுத்து, அவ்விடத்திற்கு வந்த முன்னாள் உறுப்பினர், மின் விளக்குகளை திருட முயன்ற  நபர்களிடம் விசாரணைகளை முன்னெடுத்த போது,  அவர்கள் உறுப்பினர் மீது கடுமையாக தாக்கி அவ்விடத்தில் இருந்து தப்பி சென்றுள்ளனர்.
+Subsequently, when the former member who came to the scene, when investigating the trials of those who tried to steal the lights, they had severely attacked the member and fled the scene.
 
-தாக்குதலுக்கு இலக்கான முன்னாள் உறுப்பினர் வைத்தியசாலையில், அனுமதிக்கப்பட்டுள்ளதுடன்,   சம்பவம் தொடர்பில் சாவகச்சேரி பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+The former member of the hospital has been admitted to the hospital and the Chavakachcheri police are conducting investigations into the incident.
 
 ◼️
 
 [Data](articles/c31ebff4.json)
 
+[Extended Data](ext_articles/c31ebff4.ext.json)
+
 ---
 
-### காய்கறி விலைகளில் மாற்றம்
+### Change in vegetable prices
 
 *2024-02-08 16:03:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காய்கறி-விலைகளில்-மாற்றம்/175-332909) · `ta`
 
-அண்மைய காலங்களில் அதிகரித்திருந்த காய்கறி விலைகளுடன் ஒப்பிடுகையில், பேலியகொட புதிய மெனிங் சந்தையில் காய்கறி விலைகள் இன்று குறைந்துள்ளன.
+Vegetable prices have declined today in the new mening market in Peliyagoda, compared to the rising vegetable prices in recent times.
 
-அதன்படி, ஒரு கிலோ கரட்டின் விலை ரூ. 700, பீன்ஸ் ரூ. 500 ஆக இருப்பினும், பச்சை மிளகாய் மற்றும் குடைமிளகாய் ஆகியவை முறையே ரூ. 1,000 மற்றும் ரூ. 1,100 என பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+Accordingly, the cost of a kilo of Rs.. 700, beans Rs.. 500, though, green chillies and wedges. 1,000 and Rs.. 1,100.
 
 ◼️
 
 [Data](articles/c6999764.json)
+
+[Extended Data](ext_articles/c6999764.ext.json)
 
 ---
 
@@ -166,41 +224,47 @@ Civil Social Organizations (CSOS) contributing to the preparation of the Third N
 
 ---
 
-### ”பழைய ஆடை அணிந்தவர்கள் இப்போது கோட் சூட் அணிந்துள்ளனர்”
+### "Older dresses are now wearing a coat suit"
 
 *2024-02-08 15:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழைய-ஆடை-அணிந்தவர்கள்-இப்போது-கோட்-சூட்-அணிந்துள்ளனர்/175-332908) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க தேசிய மக்கள் சக்தியை (NPP) மூளைச் சலவை செய்துள்ளார், அதனால்தான் அதன் தலைவர் இந்தியத் தலைவர்களைச் சந்திக்கச் சென்றார் என்று துறைமுகங்கள், கப்பல் போக்குவரத்து மற்றும் விமானப் போக்குவரத்து அமைச்சர் நிமல் சிறிபால டி சில்வா இன்று பாராளுமன்றத்தில் தெரிவித்தார்.
+Presidents, Shipping and Aviation Minister Nimal Siripala de Silva told parliament today that President Ranil Wickremesinghe has brainwashed the National People's Power (NPP) and that its leader went to meet Indian leaders.
 
-“இந்திய விஸ்தரிப்பு பற்றி விரிவுரைகள் நடத்தியவர்கள் இன்று இந்திய தலைவர்களை சந்திக்க சென்றுள்ளனர்,” என்று அவர் கிண்டல் செய்தார்,
+“Those who have left lectures about Indian expansion have gone to meet Indian leaders today,” he teased.
 
-“பழைய ஆடைகளை அணிந்தவர்கள் இப்போது கோட் சூட் அணிந்துள்ளனர், இதனால் நாங்கள் மகிழ்ச்சியடைகிறோம். இதற்கு காரணம் ரணில் விக்கிரமசிங்க அவர்களை மூளைச்சலவை செய்தமை தான் ” என அவர் தெரிவித்தார்.
+“Those who wear old clothes are now wearing a coat suit so we are happy. The reason for this is that Ranil Wickremesinghe brainwashed them. ”
 
-“அதானி குழுமத்துடன் வர்த்தக முயற்சிகளில் ஈடுபடுவதற்காக இந்த தலைவர்கள் அரசாங்கத்தை எவ்வாறு விமர்சித்தார்கள் என்பதை நாம்இப்போது கொஞ்சம்  நினைவுகூரலாம்,” என்று அவர் மேலும் கூறினார்.
+“Now we can recall how these leaders criticized the government for trade with Adani Group,” he added.
 
-இதேவேளை கடந்த மாதத்தில் சுமார் 200,000 சுற்றுலாப் பயணிகள் இலங்கைக்கு வருகை தந்துள்ளதாகவும் அவர் கூறினார்
+Meanwhile, about 200,000 tourists visited Sri Lanka last month, he said.
 
 ◼️
 
 [Data](articles/0b1c2fe0.json)
 
+[Extended Data](ext_articles/0b1c2fe0.ext.json)
+
 ---
 
-### இலங்கைதான் அதிக மின்சார கட்டணத்தை வசூலிக்கிறது
+### Sri Lanka charges more electricity bills
 
 *2024-02-08 15:39:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைதான்-அதிக-மின்சார-கட்டணத்தை-வசூலிக்கிறது/175-332907) · `ta`
 
-தெற்காசிய பிராந்திய நாடுகளுடன் ஒப்பிடும் பொழுது இலங்கை மக்கள் சராசரியாக 2.5இருந்து3 மடங்கு அதிகமாக மின்சார கட்டணத்தினை செலுத்துகிறார்கள் என்றுபுதியபகுப்பாய்வில் சுட்டிக்காட்டுகிறது.
+In the new review, the Sri Lankan people pay an average of 2.5 to three times more electricity tariffs compared to the South Asian regional countries.
 
-இலங்கையின் முதல் தர பொருளியல் நுண்ணறிவு தளமாகிய வெரிட்டே நிறுவனத்தின் publicfinance.lk வெளியிட்ட பகுப்பாய்வு அறிக்கை யின்படி தற்பொழுது தெற்காசியாவிலே அதிஉயர் மின்சார கட்டணம் இலங்கையிலே உள்ளது. தெற்காசிய நாடுகளுடன் ஒப்பிடும் பொழுது இலங்கை மக்கள் சராசரியாக 2.5 இருந்து 3 மடங்கு அதிகமாக தமது மின்சார கட்டணங்களை செலுத்துகிறார்கள்.
+According to the Analysis Report published by Veritte, the first quality economics intelligence base, Publicfinance.LK. The Sri Lankan people pay their average electricity bills on average, compared to South Asian countries.
 
-மேலும் இத்தளத்தில் 2024 இன் ஆரம்பத்தில் உள்ளுர் மின்சார பாவனையாளர்கள் 100,200 மற்றும் 300 அலகுகளை நுகரும் பொழுது மின்சார கட்டணம் எவ்வாறு அறவிடப்படுகிறது என்பதனையும் பகுப்பாய்வு செய்கிறது.
+The site also analyzes how local electric users are charged at the beginning of 2024 when consuming 100,200 and 300 units.
 
-இதன் கணக்கீட்டின்படி வழங்குனரின் உற்பத்தி செலவு மட்டும் உள்ளடக்கப்பட்டுள்ளது. தற்போது இலங்கையில் மேலதிகமாக அமுல்படுத்தபட்டுள்ள  சமூக பாதுகாப்பு வரி உட்படுத்தப்பட வில்லை.
+According to the calculation, the cost of the provider is only the cost of production. The social security tax that is currently implemented in Sri Lanka has not been implemented.
+
+Pakistan is the country that grosses South Asia next to Sri Lanka. Compared to Pakistan, the Sri Lankan people pay 50% more when consuming 100 units and 300 units.
 
 ...
 
 [Data](articles/992e875e.json)
+
+[Extended Data](ext_articles/992e875e.ext.json)
 
 ---
 
@@ -247,6 +311,8 @@ Highest Household Electricity Cost: Sri Lanka stands out with the highest househ
 ...
 
 [Data](articles/dc7afbb3.json)
+
+[Extended Data](ext_articles/dc7afbb3.ext.json)
 
 ---
 
@@ -526,6 +592,8 @@ It said that high-quality Sri Lankan leather goods in the range of leather glove
 
 [Data](articles/47badd65.json)
 
+[Extended Data](ext_articles/47badd65.ext.json)
+
 ---
 
 ### Footwear and Leather Fair 2024 Starts at BMICH today
@@ -750,9 +818,9 @@ Rividhanavi will also build the transmission line of 27.5 Km for the project and
 
 Rividhanavi (Pvt) Ltd. is a consortium of shareholders, Lakdhanavi Ltd., Windforce PLC and The Blue Circle PTE Ltd of Singapore. Investment is expected to be USD 132 Million.
 
-Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
 
-Environment Ministry in President’s charge by way of Extraordinary Gazette
+Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
 
 ◼️
 
@@ -838,9 +906,9 @@ The Minister of Sports and Youth Affairs Harin Fernando has granted approval to 
 
 The 3 ODIs will be held on February 9, 11, 14 at the Pallekele International Cricket Stadium, according to the SLC. The day-night games will start at 02.30 p.m.
 
-Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
 
-Environment Ministry in President’s charge by way of Extraordinary Gazette
+Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
 
 ◼️
 
@@ -860,9 +928,9 @@ The gazette was issued by Secretary to the President E. M. S. B. Ekanayake.
 
 The extraordinary gazette notification states that the President, having consulted with the Prime Minister, has determined that the Ministerial Portfolio of Environment should be in his charge.
 
-Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
 
-Environment Ministry in President’s charge by way of Extraordinary Gazette
+Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
 
 ◼️
 
@@ -910,9 +978,9 @@ Police teams will be deployed in buses, bus depots, railway stations and congest
 
 The Police Headquarters added that Police officers in uniform have also been stationed covering the main roads, to assist officers in civilian clothes.
 
-Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
 
-Environment Ministry in President’s charge by way of Extraordinary Gazette
+Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
 
 ◼️
 
@@ -1050,9 +1118,9 @@ COLOMBO (News 1st); An extraordinary gazette notification has been issued includ
 
 The gazette notification states the Online Safety Act has been included under the scope of the Ministry of Public Security with effect from the 7th of February, 2024.
 
-Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
 
-Environment Ministry in President’s charge by way of Extraordinary Gazette
+Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
 
 ◼️
 
@@ -1090,9 +1158,9 @@ He arrived in the country based on an invitation by the Defence Services Command
 
 He is a graduate of the Sri Lanka Defense Services Command and Staff College.
 
-Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
 
-Environment Ministry in President’s charge by way of Extraordinary Gazette
+Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
 
 ◼️
 
@@ -1286,9 +1354,9 @@ The remaining 170 arrests addressed outstanding warrants issued by the criminal 
 
 Of these, 18 individuals were wanted for prior drug offenses, and the remaining 145 suspects faced warrants for various non-drug-related offenses.
 
-Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
 
-Environment Ministry in President’s charge by way of Extraordinary Gazette
+Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
 
 ◼️
 
@@ -1366,9 +1434,9 @@ Accordingly, all persons who have not changed their permanent residence, who hav
 
 Ratnayake said the names of family members who are overseas should also be included in the electoral register, regardless of whether or not they can vote.
 
-Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
 
-Environment Ministry in President’s charge by way of Extraordinary Gazette
+Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
 
 ◼️
 
@@ -1506,7 +1574,7 @@ The male and female suspects held in this operation were identified as residents
 
 The accused, along with Pregabalin capsules, were handed over to the Silawathura Police for onward legal action.
 
-Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
 
 ...
 
@@ -1716,7 +1784,7 @@ His swearing-in  marks the official transfer of the seat previously held by San
 
 Priyankara is also the Puttalam district leader of the National Freedom Front, a party led by Wimal Weerawansa.
 
-Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
 
 ...
 
@@ -2069,47 +2137,5 @@ The main purpose of this move is to fight sexual abuse in public transport servi
 [Data](articles/5712e822.json)
 
 [Extended Data](ext_articles/5712e822.ext.json)
-
----
-
-### 19 Tamil Nadu fishermen arrested
-
-*2024-02-08 10:21:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/19-தமிழக-கடற்தொழிலாளர்கள்-கைது/71-332876) · `ta`
-
-19 Tamil Nadu fishermen have been arrested on Wednesday night (07) on charges of fishing.
-
-Two boats have been seized and the arrested persons have been placed in the Kankesanthurai Naval Camp.
-
-In addition, steps have been taken to appear in the Kayts Court by the Department of Aquatic Resources Department.
-
-◼️
-
-[Data](articles/c1d27df5.json)
-
-[Extended Data](ext_articles/c1d27df5.ext.json)
-
----
-
-### Man arrested for abuse
-
-*2024-02-08 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193123) · `si`
-
-Police have arrested the doctor who had been accused of sexual abuse of a doctor in the Aranayaka Districts Hospital.
-
-It is reported that this sex is a 28 year old medicine who was working in the Aranayaka District Hospital.
-
-The doctor's father has lodged a complaint with the Children's and Women's Bureau in Kegalle that the suspect is forcibly involved in the doctor's secret area.
-
-The suspect was arrested by the Aranayaka Police today (08).
-
-The arrested are a 45 year old married doctor who was working at the Aranayaka District Hospital.
-
-It is also reported from five persons who were abused and duties were to be handed over to the doctor who faced the incident to the Judicial Medical Officer of the Kegalle Teaching Hospital.
-
-◼️
-
-[Data](articles/71ce1e38.json)
-
-[Extended Data](ext_articles/71ce1e38.ext.json)
 
 ---

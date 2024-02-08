@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 20:33:12**
+As of **2024-02-08 20:50:25**
 
 ## Newspaper Stats
 
-*Scraped **5,789** Articles*
+*Scraped **5,790** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 307
 dailyftlk | 316
 newsfirstlk | 361
 adalk | 491
-adaderanalk | 713
 virakesarilk | 713
+adaderanalk | 714
 tamilmirrorlk | 716
 adaderanasinhalalk | 762
 dailymirrorlk | 820
@@ -26,11 +26,29 @@ dailymirrorlk | 820
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,789 (100.0%) of 5,789 articles have been extended.
+5,790 (100.0%) of 5,790 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### Man who ‘poisoned’ two suspects in police custody identified
+
+*2024-02-08 19:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97123/man-who-poisoned-two-suspects-in-police-custody-identified) · `en`
+
+Police have identified the individual alleged to have poisoned two suspects who were held in a cell at the Aduruppuveediya police station.
+
+Reportedly, the duo had fallen ill after consuming a packet of milk handed to them by a visitor. The suspects in question had been arrested by the police over a recent shooting incident that took place in Jinthupitiya.
+
+Two assailants on a motorcycle had opened fire in Jinthupitiya on January 25, leaving a youth injured. The gunman had escaped the crime scene while the bystanders captured his accomplice. The fleeing gunman was later apprehended in Dambadeniya and was brought to the Aduruppuveediya police station for interrogation. Later, another suspect was also taken into custody for aiding and abetting the shooting.
+
+...
+
+[Data](articles/1f2f4c84.json)
+
+[Extended Data](ext_articles/1f2f4c84.ext.json)
+
+---
 
 ### The police back in the middle of the police
 
@@ -594,9 +612,9 @@ The monthly allowances paid to disabled persons, kidney patients and elderly cit
 
 The beneficiaries of ‘Aswesuma’ welfare program who are entitled to these allowances are to be identified within the first quarter of 2024 and paid the increased payments starting April 01.
 
-Meanwhile, the valid period for the ‘vulnerable’ and ‘transitional’ social group will be extended and as such, the payments will continue up until December 31.
+Additionally, it has been decided to continue the payments for the ‘vulnerable’ and ‘transitional’ social groups up until December 31.
 
-Further, the existing ‘vulnerable’ and ‘transitional’ social groups are planned to be amalgamated. Subsequently, a total of 800,000 families will be considered ‘vulnerable’ and an allowance of Rs. 5,000/- will be paid to them until December 31. The ‘transitional’ social group receives now receives only Rs. 2,500.
+The existing ‘vulnerable’ and ‘transitional’ social groups are planned to be amalgamated in the future. Subsequently, a total of 800,000 families will be considered ‘vulnerable’ and an allowance of Rs. 5,000/- will be paid to them. The ‘transitional’ social group now receives only Rs. 2,500.
 
 ◼️
 
@@ -2099,27 +2117,5 @@ In further investigations have revealed that the suspect had been swolled by the
 [Data](articles/4e734ffa.json)
 
 [Extended Data](ext_articles/4e734ffa.ext.json)
-
----
-
-### A former member of the Pradeshiya Sabha to prevent those who steal roads in Jaffna
-
-*2024-02-08 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175870) · `ta`
-
-A former member of the Chavakachcheri Pradeshiya Sabha has been admitted to the Chavakachcheri Base Hospital for treatment of the attack.
-
-A mob has stolen road power bubbles in the Jaffna - Chavakachcheri Manduvil area.
-
-The people who observed this, former member of the Chavakachcheri Pradeshiya Sabha. They have announced to Kuganandan.
-
-When the former member who came to the scene, when he was investigating the stolen lights, they had severely beaten the member and fled the scene.
-
-The former member of the attack was rescued by neighbors at the hospital.
-
-◼️
-
-[Data](articles/3083bb98.json)
-
-[Extended Data](ext_articles/3083bb98.ext.json)
 
 ---

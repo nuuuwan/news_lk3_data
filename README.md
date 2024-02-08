@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 00:17:24**
+As of **2024-02-09 00:32:54**
 
 ## Newspaper Stats
 
-*Scraped **5,829** Articles*
+*Scraped **5,830** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 363
 adalk | 491
 tamilmirrorlk | 718
 adaderanalk | 719
-virakesarilk | 726
+virakesarilk | 727
 adaderanasinhalalk | 767
 dailymirrorlk | 830
 
@@ -26,43 +26,71 @@ dailymirrorlk | 830
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,824 (99.9%) of 5,829 articles have been extended.
+5,829 (100.0%) of 5,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### பரபரப்புக்கு மத்தியில் பாகிஸ்தானை வெற்றிகொண்டு இறுதிக்குள் நுழைந்தது அவுஸ்திரேலியா
+### வவுனியாவில் மோட்டர் சைக்கிளில் வந்த இருவர் பெண் ஒருவரிடம் கைவரிசை
+
+*2024-02-08 23:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/175934) · `ta`
+
+வவுனியா, கந்தபுரம் பகுதியில் மோட்டர் சைக்கிளில் வந்த இருவர் பெண் ஒருவரின் தங்கச் சங்கிலியை அறுத்துச் சென்றுள்ளதாக வவுனியா பொலிஸில் முறைப்பாடு செய்யப்பட்டுள்ளதாக பொலிஸார் வியாழக்கிழமை (8) தெரிவித்தனர்.
+
+வவுனியா, கந்தபுரம் பகுதியில் வசிக்கும் பெண் ஒருவர் வீதியில் சென்ற போது பின் தொடர்ந்து மோட்டர் சைக்கிளில் சென்ற இருவர், குறித்த பெண்ணிடம் வேறு ஒருவரின் முகவரி விசாரிப்பது போன்று கதைத்து விட்டு அவர் அணிந்திருந்த தங்கச் சங்கிலியை அறுத்துச் சென்றுள்ளனர்.
+
+இது தொடர்பில் செய்யப்பட்ட முறைப்பாட்டுக்கு அமைய வவுனியா பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளதாக அவர்கள் மேலும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/a513b12f.json)
+
+---
+
+### Australia entered Pakistan in the midst of a stir
 
 *2024-02-08 23:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175933) · `ta`
 
-பெனோனி, விலோமுவர் பார்க் விளையாட்டரங்கில் குறைந்த எண்ணிக்கைகளைக் கொண்டதும் கடுமையாக மோதிக்கொள்ளப்பட்டு பரபரப்பான முடிவைத் தந்ததுமான 19 வயதுக்குட்பட்ட உலகக் கிண்ண 2ஆவது அரை இறுதிப் போட்டியில் 5 பந்துகள் மீதமிருக்க ஒரு விக்கெட்டினால் அவுஸ்திரேலியா வெற்றிபெற்றது.
+Australia won by one wicket in the 2nd semi -final of the 19 -year -old World Cup under the 19 -year -old World Cup, which had a fewer number in the Wilomoor Park Stadium.
 
-இந்த வெற்றியுடன் எதிர்வரும் ஞாயிற்றுக்கிழமை நடைபெறவுள்ள 19 வயதுக்குட்பட்ட உலக சம்பியனைத் தீர்மானிக்கும் இறுதிப் போட்டியில் இந்தியாவை எதிர்த்தாட அவுஸ்திரேலியா தகுதிபெற்றது.
+With this victory, Australia qualified to oppose India in the final of the 19 -year -old world champion to be held on Sunday.
 
-19 வயதுக்குட்பட்ட உலகக் கிண்ண வரலாற்றில் 3 தடவைகள் சம்பியனான அவுஸ்திரேலியா 6ஆவது தடவையாக இறுதிப் போட்டியில் விளையாட தகுதிபெற்றுள்ளது.
+Australia, the 3rd time in the history of the Under -19 World Cup, is eligible to play in the final for the 6th time.
 
-டொம் ஸ்ட்ரேக்கரின் துல்லியமான பந்துவீச்சு பதிலுக்கு துடுப்பெடுத்தாடியபோது மத்திய வரிசையில் ஏற்படுத்தப்பட்ட இரண்டு இணைப்பாட்டங்கள், பிரிக்கப்படாத கடைசி விக்கெட்டில் பகிரப்பட்ட 17 ஓட்டங்கள் என்பன அவுஸ்திரேலியாவின் வெற்றியை உறுதிசெய்தன.
+Two connectivity in the middle of the Tom Straker's accurate bowling replied, and the 17 -wicket -shared last wicket -shared, 17 runs.
 
-இந்த இணைப்பாட்டங்களில் ஆரம்ப வீரர் ஹெரி டிக்சன், ஒலிவர் பீக், டொம் கெம்பெல், ரஃபாயல் மெக்மிலன், கடைசி இலக்க வீரர் கெலம் விட்லர் ஆகியோர் பங்காற்றியிருந்தனர்.
+The merger was Harry Dixon, Oliver Peak, Tom Kempel, Rafayal McMmon and the last -digit player Kellam Witler.
+
+In addition, Pakistan failed to throw specific overs within the fixed time, and in the last over, only 4 players outside the circle were forced to field.
+
+Australia won by 9 wickets in 49.1 overs, scoring 181 runs in response to a good win in Pakistan's 180 runs.
+
+Heri Dixon and Sam Konstas shared 33 runs and made Australia some good start.
 
 ...
 
 [Data](articles/cc961b38.json)
 
+[Extended Data](ext_articles/cc961b38.ext.json)
+
 ---
 
-### இந்தியா, ஆஸி., கிவி அணிகளுடன் போன்று ஆப்கானிஸ்தானுடன் விளையாடவுள்ளோம் - குசல் மெண்டிஸ்
+### India, Aussie.
 
 *2024-02-08 23:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175932) · `ta`
 
-ஆப்கானிஸ்தான் அணியை எந்த வகையிலும் குறைத்து மதிப்பிடப்போவதில்லை. இந்தியா, அவுஸ்திரேலியா, நியூஸிலாந்து (கிவி) ஆகிய அணிகளுடன் போன்றே ஆப்கானிஸ்தானையும் எதிர்கொள்ளவுள்ளோம் என இலங்கை அணித் தலைவர் குசல் மெண்டிஸ் கண்டியில்  வியாழக்கிழமை (08) பிற்பகல்நடைபெற்ற ஊடக சந்திப்பில் தெரிவித்தார்.
+Afghanistan is not going to underestimate any way. Sri Lanka's captain Kusal Mendis said at a press conference held in Kandy on Thursday afternoon, "we will face Afghanistan like India, Australia and New Zealand (Kiwi).
 
-'பல்வேறு நாடுகளில், சர்வதேச வீரர்களுடன் நிறைய லீக் கிரிக்கெட் போட்டிகளில் அவர்கள் விளையாடிவருவதால் அவர்கள் நிறைய அனுவம் கொண்டுள்ளனர். நான் இலங்கைக்காக 8 வருடங்கள் விளையாடியுள்ள போதிலும் 2 லீக் தொடர்களில் மாத்திரமே விளையாடியுள்ளேன். குர்பாஸ் கடந்த 4 வருடங்களில் நிறைய லீக் தொடர்களில் விளையாடியுள்ளார். எனவே நான் ஒருபோதும் ஆப்கானிஸ்தானை குறைத்த மதிப்பிடமாட்டேன். அவர்களை குறைத்து மதிப்பிட்டவாறு எதிர்கொள்வது சிரமம். எனவே, இந்தியா, அவுஸ்திரேலியா, நியூஸிலாந்து அணிகளுடன் விளையாடுவது போன்ற உணர்வுடனேயே நாளைய ஆப்கானிஸ்தானுடனும் விளையாடவுள்ளோம்' என குசல் மெண்டிஸ் மேலும் குறிப்பிட்டார்.
+'In different countries, they are playing a lot of league cricket with international players. I have played for 8 years for Sri Lanka but only in 2 league series. Gurbas has played in a lot of league series in the last 4 years. So I will never value Afghanistan. It is difficult to confront them as underestimated. So we will play with India, Australia and New Zealand with the feeling of playing with Afghanistan tomorrow, ”Gusal Mendis added.
+
+He also said that the current ODI team will be targeted by the World Cup in 3 years.
 
 ...
 
 [Data](articles/54a30854.json)
+
+[Extended Data](ext_articles/54a30854.ext.json)
 
 ---
 
@@ -82,21 +110,29 @@ Police suspect that the shooter may have fled and the shooting may have been cau
 
 ---
 
-### தமிழ் அரசியல் கைதி மீது தாக்குதல்: விசாரணைக்கு இரு குழுக்கள் நியமனம்
+### Attack on Tamil political prisoner
 
 *2024-02-08 22:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175930) · `ta`
 
-தமிழ் அரசியல் கைதி ஒருவரை முன்னாள் இராணுவ அதிகாரி ஒருவர் தாக்கியதாகக் கூறப்படும் சம்பவம் தொடர்பில் தமிழ் நாடாளுமன்ற உறுப்பினர் ஒருவர் செய்த முறைப்பாட்டின் அடிப்படையில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+Investigations have begun based on a complaint made by a Tamil MP in connection with the alleged attack on a former military officer.
 
-கொழும்பு மெகசின் சிறைச்சாலையில் தடுத்து வைக்கப்பட்டுள்ள பிரதீபன் என்ற தமிழ் அரசியல் கைதி, சிறைச்சாலைக்குள் மேற்கொள்ளப்பட்ட தேடுதல் நடவடிக்கையின்போது தாக்கப்பட்டதாகக் குறிப்பிடப்படும் சம்பவம் தொடர்பில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதாகச் சிறைச்சாலைகள்  திணைக்களம் தெரிவித்துள்ளது.
+Pradeepan, a Tamil political prisoner detained at the Megasin Prison, Colombo, has begun investigations into the incident that is reported to have been attacked during a search operation.
 
-இலங்கை தமிழரசுக் கட்சியின் நாடாளுமன்ற உறுப்பினர் இரா.சாணக்கியன் இந்த விடயம் தொடர்பில் சிறைச்சாலைகளுக்குப் பொறுப்பான அமைச்சர் விஜேதாச ராஜபக்கசவின் கவனத்திற்குக் கொண்டுவந்ததை அடுத்து விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளது.
+Investigations have begun following the attention of Minister Wijeyadasa Rajapakse, who is responsible for the prisons in connection with the issue.
 
-உதவிப் பொலிஸ் கண்காணிப்பாளர் ஒருவர் தலைமையில் ஒரு குழு விசாரணைகளை முன்னெடுத்துள்ள நிலையில், மெகசின் சிறைச்சாலை அதிகாரிகளை உள்ளடக்கிய குழு ஒன்றும் விசாரணைகளை முன்னெடுத்துள்ளதாகச் சிறைச்சாலைகள் திணைக்கள ஊடகப் பேச்சாளர் காமினி பி. திசாநாயக்க தெரிவிக்கின்றார்.
+Gamini B, Media Spokesperson Gamini B.. Dissanayake says.
+
+Media Spokesperson Gamini B.. Dissanayake further stated.
+
+Parliamentarian R. Sanakian has accused a former army officer who had not been served in the Megasin Prison and had assaulted a Tamil political prisoner named Pradeepan.
+
+MP Chanakyan, who visited the Megasin Prison on January 26, was commenting on the media to visit the detained Tamil political prisoners.
 
 ...
 
 [Data](articles/27091add.json)
+
+[Extended Data](ext_articles/27091add.ext.json)
 
 ---
 
@@ -230,19 +266,21 @@ However, the student is not present at the day of the robbery, Minuwadeniya has 
 
 ---
 
-### தமிழ்த் தேசிய பிரச்சினைக்குத் தீர்வு காணாமல் ஒருபோதும் முன்னேற்றமடைய முடியாது - எம்.ஏ.சுமந்திரன்
+### MA Sumanthiran can never improve without a solution to the Tamil national issue
 
 *2024-02-08 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175929) · `ta`
 
-பேச்சுவார்த்தைகள் ஊடாக பிரச்சினைகளுக்குத் தீர்வு காண்போம் என்று குறிப்பிடுவதைப் பழக்கமாகக் கொண்டுள்ள ஜனாதிபதி  , கொள்கை பிரகடன உரையில் 'இனப்பிரச்சினைக்குத் தீர்வு' குறித்து ஒரு வார்த்தை கூட  குறிப்பிடவில்லை. பொருளாதார பாதிப்புக்கு  அடிப்படை காரணியாக உள்ள தமிழ்த் தேசிய பிரச்சினைக்குத் தீர்வு காணாமல் ஒருபோதும் முன்னேற்றமடைய முடியாது. ஆகவே ஜனாதிபதியின் கொள்கை உரையை நிராகரிக்கிறோம் எனத் தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
+The president, who is accustomed to noting that we will address issues through negotiations, does not mention a word about the 'solution to the ethnic problem' in the policy declaration.. The Tamil National problem, which is the basic factor in economic impact, can never improve without resolving. Therefore, we are rejecting the president's policy speech, ”MA Sumanthiran, Member of Parliament of the Tamil National Alliance (TNA) said.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (8) இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரையின் மீதான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking at the adjournment debate on the President's Declaration of the President's Policy Declaration held in Parliament on Thursday (8).
 
-ஜனாதிபதி தனது கொள்கை பிரகடன உரையில் பொருளாதார  நெருக்கடியிலிருந்து மீண்டு விட்டதாக வெற்றி வார்த்தைகளைக் குறிப்பிட்டார்.ஆனால் உண்மையில்  எவ்வித முன்னேற்றமும் இதுவரை எட்டப்படவில்லை. சர்வதேச நாணய நிதியத்திடம் இரவல் வாங்குவது மாத்திரம் அரசாங்கத்தின் பிரதான வெற்றியாகக் காணப்படுகிறது.
+In his policy declaration, he referred to victory words that he had recovered from the economic crisis.. Buying the night with the International Monetary Fund is the main victory of the government.
 
 ...
 
 [Data](articles/fbfa1e57.json)
+
+[Extended Data](ext_articles/fbfa1e57.ext.json)
 
 ---
 
@@ -1216,23 +1254,27 @@ The inscriptions in the stone have also been added to the bhikkus because the wa
 
 ---
 
-### கிரீஸ் நாட்டின் நிலையே இலங்கைக்கு ஏற்படும் - சரித ஹேரத்
+### Greece will occur to Sri Lanka - Saritha Herath
 
 *2024-02-08 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/175909) · `ta`
 
-சர்வதேச நாணய நிதியத்தின்  நிபந்தனைகளை செயற்படுத்திய காரணத்தால் தான் கிரீஸ் வங்குரோத்து நிலையில் இருந்து மீளவில்லை என்பது சர்வதேச மட்டத்தில் பகிரங்கமாக வெளிப்படுத்தப்பட்டுள்ளது.
+It has been publicly revealed that Greece has not recovered from the bankruptcy because of the implementation of the conditions of the International Monetary Fund.
 
-சர்வதேச நாணய நிதியத்தின் பரிந்துரைகளை முழுமையாக செயற்படுத்தியுள்ள இலங்கைக்கு கிரீஸ் நாட்டின் நிலையே ஏற்படும் என கிரீஸ் நாட்டின் முன்னாள் நிதியமைச்சர் யானீஸ் வரூஃபாகிஸ் குறிப்பிட்டுள்ளார்.
+Greece's former finance minister Yanise Varoffacis said Greece would be in a state of consultation with the International Monetary Fund's recommendations.
 
-பொருளாதார பாதிப்புக்கு மத்தியில் அரசியலமைப்பு ரீதியிலான முரண்பாட்டை தோற்றுவிக்கும் வகையில் ஜனாதிபதி செயற்படுகிறார் என பாராளுமன்ற உறுப்பினர் பேராசிரியர்  சரித ஹேரத் தெரிவித்தார்.
+Parliamentarian Professor Saritha Herath said the president is acting to create a constitutional conflict amid economic impact.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (08) இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரையின் மீதான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking at the adjournment debate on the President's Policy Declaration, which was held in Parliament on Thursday (08).
 
-சர்வதேச நாணய நிதியத்தின் கொள்கைகள் மற்றும் பரிந்துரைகளை தவிர்த்து நாட்டுக்கு பொருத்தமான எவ்வித திட்டங்களையும் ஜனாதிபதி தனது கொள்கை உரையில் குறிப்பிடவில்லை. பாரிய நெருக்கடியில் இருந்து நாட்டை மீட்டுள்ளதாக ஜனாதிபதி குறிப்பிடுவது அடிப்படையற்றது.
+The President does not specify any plans for the country, except for the policies and recommendations of the IMF. The president's notion that the country has been recovered from a massive crisis is baseless.
+
+President Ranil Wickremesinghe has adjourned the parliamentary session three times as 14 months have passed. Has submitted two budgets. But there was no change in social structure.
 
 ...
 
 [Data](articles/5dd527d0.json)
+
+[Extended Data](ext_articles/5dd527d0.ext.json)
 
 ---
 
@@ -2123,29 +2165,5 @@ The accused, along with seized Pregabalin capsules, have been handed over to the
 [Data](articles/e4eeba48.json)
 
 [Extended Data](ext_articles/e4eeba48.ext.json)
-
----
-
-### Drunk into the murder of monk, Malwathu Hiripitiya Temple arrested
-
-*2024-02-08 13:28:39* · [`adalk`](https://www.ada.lk/breaking_news/මල්වතු-හිරිපිටිය-විහාරස්ථානයේ-හිමිනම-ඝාතනයට-සම්බන්ධ-රියදුරු-අත්අඩංගුවට/11-407966) · `si`
-
-The Western Criminal Division (CCD) says that a monk of the temple in Hiripitiya police division in Malwathu Police Division has been arrested by the Hiripitiya police division.
-
-The arrest was a person named Weerasinghe Arachchige (29) residents of Mullegama, Homagama.
-
-A foreign country manufactured in the suspect's possession, a foreign hand grenade, a t-56 firearm, 56 mm, nine millimeter pistol, millimeter pistol, a bullestFirewirely more beautiful,
-
-Bajaj Pulsar MotorSary with the fake number plates of No. WP BG 2059
-
-A switch key in the car for the crime, a switch key
-
-The suspect is to be produced before the Homagama Magistrate's Court.
-
-◼️
-
-[Data](articles/3385c3ae.json)
-
-[Extended Data](ext_articles/3385c3ae.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 09:17:17**
+As of **2024-02-08 09:33:00**
 
 ## Newspaper Stats
 
-*Scraped **5,609** Articles*
+*Scraped **5,610** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 472
 virakesarilk | 684
 adaderanalk | 692
 tamilmirrorlk | 696
-adaderanasinhalalk | 735
+adaderanasinhalalk | 736
 dailymirrorlk | 792
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,609 (100.0%) of 5,609 articles have been extended.
+5,609 (100.0%) of 5,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### කටයිබ් හිස්බුල්ලා අමෙරිකානු ප්‍රහාරයකින් මරුට
+
+*2024-02-08 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193116) · `si`
+
+ඉරාන පිටුබලය ලත් මිලීෂියාවේ ජ්‍යේෂ්ඨ අණ දෙන නිලධාරී කටයිබ් හිස්බුල්ලා අමෙරිකානු ප්‍රහාර හමුවේ ජීවිතක්ෂයට පත් ව තිබේ.
+
+ඉරාක අගනුවරට නැගෙනහිර දෙසින් වූ ප්‍රදේශයේ දී අමෙරිකාව දියත් කළ ඩ්‍රෝන ප්‍රහාරයකින් ඔහු මිය ගොස් ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+
+පසුගිය දා ජෝර්දානයේ පිහිටි අමෙරිකානු කඳවුරට එල්ල වූ ප්‍රහාරය මිය ගිය අණ දෙන නිලධාරියා විසින් සිදු කර ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/02815830.json)
+
+---
 
 ### Second semi-final match today
 
@@ -1973,25 +1989,5 @@ The maximum load capacity under the spreader is 65 tonne while under the lifting
 [Data](articles/bdd21a6a.json)
 
 [Extended Data](ext_articles/bdd21a6a.ext.json)
-
----
-
-### Anurakumara went to India with the blessing of the president - Justice Minister
-
-*2024-02-07 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175827) · `ta`
-
-National People's Power Leader Anura Kumara Dissanayake has visited India with the full blessing of the president. Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapakse said that it is welcome to be free from the anti -Indian policy.
-
-He was speaking to the media after a speech of the President's Policy Declaration held in Parliament on Wednesday (7).
-
-His delegation, including the leader of the National People's Power, Anura Kumara Dissanayake, has made a state visit to India with the full blessing of the president.. We have advised the Sri Lankan High Commissioner in India to provide them with all the necessary facilities.
-
-People's Liberation Front has launched campaigns in the past demanding the killing of Indian potatoes in Sri Lanka. 60 thousand people died following anti -Indian policies. The country also faced massive consequences.
-
-...
-
-[Data](articles/c8619b73.json)
-
-[Extended Data](ext_articles/c8619b73.ext.json)
 
 ---

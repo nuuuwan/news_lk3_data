@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 13:02:41**
+As of **2024-02-08 13:17:14**
 
 ## Newspaper Stats
 
@@ -26,119 +26,133 @@ dailymirrorlk | 808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,685 (99.7%) of 5,700 articles have been extended.
+5,700 (100.0%) of 5,700 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-02-08 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/175879) · `ta`
 
-இன்று வியாழக்கிழமை (பெப்ரவரி 08) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 308.4949 ஆகவும் விற்பனை விலை ரூபா 318.5839 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar purchasing price was Rs 308.4949 and the sales price were 318.5839 based on the currency exchange rate released by the Central Bank on Thursday (February 08).
 
 ◼️
 
 [Data](articles/aa07961d.json)
 
+[Extended Data](ext_articles/aa07961d.ext.json)
+
 ---
 
-### கொழும்பு, ஆட்டுப்பட்டித் தெரு பொலிஸ் நிலையத்தைச் சேர்ந்த 3 பொலிஸார்  பணி இடைநீக்கம்!
+### 3 police suspended from Ambu Street Police Station in Colombo
 
 *2024-02-08 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/175878) · `ta`
 
-கொழும்பு, ஆட்டுப்பட்டித் தெரு பொலிஸ் நிலையத்தைச் சேர்ந்த மூன்று  பொலிஸார்  பணி இடைநீக்கம் செய்யப்பட்டுள்ளனர்.
+Three policemen from the Colombo Street Street Police Station have been suspended.
 
-ஜிந்துபிட்டிய பிரதேசத்தில் இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவம் தொடர்பில் கைது செய்யப்பட்டு பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டிருந்த இரு சந்தேக நபர்களுக்கு வெளிநபர் ஒருவர் விஷம் கலந்த பால் பொதியை வழங்கிய சம்பவம் தொடர்பிலேயே அவர்கள்  பணியிலிருந்து இடைநிறுத்தப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+It is reported that two suspects who were arrested and detained at the police station have been suspended from work in connection with the incident of a poisonous milk package.
 
 ◼️
 
 [Data](articles/9011ab6f.json)
 
+[Extended Data](ext_articles/9011ab6f.ext.json)
+
 ---
 
-### பெண் வைத்தியர் பாலியல் துஷ்பிரயோகம் : அரநாயக்கவில் வைத்தியர் கைது!
+### Woman Doctor Sexual Abuse: Doctor arrested in Aranayaka
 
 *2024-02-08 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175875) · `ta`
 
-மாவனல்லை அரநாயக்க மாவட்ட வைத்தியசாலையில் கடமையாற்றும் பெண் வைத்தியர் ஒருவரை பாலியல் துஷ்பிரயோகம் செய்த குற்றச்சாட்டின் பேரில் வைத்தியர் ஒருவரை பொலிஸார் கைது செய்துள்ளனர்.
+Police have arrested a doctor for allegedly sexually abusing a woman doctor at the Mawanella Aranayaka District Hospital.
 
-அரநாயக்க மாவட்ட வைத்தியசாலையில் கடமையாற்றும் 28 வயதுடைய பெண் வைத்தியர் ஒருவரே சந்தேக நபரால்  பாலியல் துஷ்பிரயோகத்துக்கு உள்ளாகியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+A 28 -year -old female doctor working at the Aranayaka District Hospital has been sexually abused by the suspect.
 
-குறித்த பெண் வைத்தியரின் தந்தை கேகாலை சிறுவர் மற்றும் பெண்கள் பணியகத்தில் முறைப்பாடு செய்ததனையடுத்தே இவர்  இன்று புதன்கிழமை (08) கைதுசெய்யப்பட்டுள்ளார்.
+The father of the woman's doctor, Kegalle, was arrested today (08) after lodging a complaint with the Children's and Women's Bureau.
 
-துஷ்பிரயோகத்துக்கு உள்ளானதாகக்  கூறப்படும் வைத்தியரிடமும், சம்பவம் இடம்பெற்றபோது கடமையிலிருந்த ஐவரிடமும் வாக்குமூலங்களைப் பொலிஸார் பெற்றுள்ளனர்.
+Police have received the affidavits of the doctor who is allegedly abused and the five on duty at the time of the incident.
 
 ◼️
 
 [Data](articles/e3d4bfa9.json)
 
+[Extended Data](ext_articles/e3d4bfa9.ext.json)
+
 ---
 
-### ප්‍රවීන්ට මරු කැඳවූ අනතුර
+### Credited accident
 
 *2024-02-08 12:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193129) · `si`
 
-යතුරුපැදියක් මාර්ගයෙන් ඉවතට පැන තාප්පයක ගැටී සිදුවූ අනතුරකින් තරුණයෙකු මියගොස් ඇති බව කළුතර දකුණ පොලීසිය පවසයි.
+Kalutara South Police say that a youth has died in a crash with a motorcycle.
 
-අනතුරෙන් මියගොස් ඇත්තේ ,කළුතර කටුකුරුන්ද ප්‍රදේශයේ පදිංචිව සිටි ප්‍රවීන් විශ්වජිත් නැමැති 19 හැවිරිදි තරුණයෙකු බව පොලීසිය සඳහන් කළේය.
+The deceased has been identified as a 19-year-old youth, who was resident of the Katukurunda, Kalutara.
 
-මියගොස් ඇති තරුණයා කළුතර දෙස සිට හීනටියංගල දෙසට ගමන් කරමින් සිටියදී හීනටියංගල පාලම ආසන්නයේ දී වේගය පාලනය කරගත නොහැකිව අසල තිබූ තාප්පයක  ගැටී මෙම අනතුර සිදුව ඇත.
+The victim was a wall that collided with a nearby wall, near the Hinatiyanna Bridge near the Hynatiyangla Bridge.
 
-බරපතළ තුවාල ලබා සිටී තරුණයා 1990 සුවසැරියෙන් කළුතර නාගොඩ ශික්ෂණ රෝහලට රැගෙන ගොස් ඇති අතර, රෝහල් ගතකිරීමේදී මියගොස් ඇති බව රෝහල් ප්‍රකාශකයෙක් පැවසීය.
+The youth has been taken to the Nagoda Teaching Hospital in Kalutara with a serious injuries and was taken to the Nagoda Teaching Hospital in Kalutara.
 
 ◼️
 
 [Data](articles/48db19f5.json)
 
+[Extended Data](ext_articles/48db19f5.ext.json)
+
 ---
 
-### மாணிக்கத்தை விற்க முயற்சித்த பிக்கு உட்பட மூவர் கைது
+### Three arrested, including Biku, tried to sell the gem
 
 *2024-02-08 12:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணிக்கத்தை-விற்க-முயற்சித்த-பிக்கு-உட்பட-மூவர்-கைது/175-332890) · `ta`
 
-ரூ.370 மில்லியன் பெறுமதியான இரண்டு நீல நிற மாணிக்க கற்களை விற்பனை செய்ய முயற்சித்த பிக்கு ஒருவர் உட்பட இருவர் கைது செய்யப்பட்டுள்ளதாக கொஸ்லந்த பொலிஸார் தெரிவித்துள்ளனர்.
+Kosalanda police said that two persons, including a Piku, were arrested for trying to sell two blue gemstones worth Rs 370 million.
 
-இராணுவ புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசிய தகவலுக்கு அமைய கொஸ்லந்த பொலிஸார் மேற்கொண்ட சுற்றிவளைப்பின் போதே இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+They were arrested during a roundup by Koslanda police on confidential information received by the Army Intelligence Unit.
 
-கைது செய்யப்பட்ட பிக்கு வெலிவேரிய பிரதேசத்தில் வசித்துவருவதோடு, மற்றைய சந்தேக நபர்கள் 72 வயதுடையவர் எனவும்,  பிரபல அரசியல் கட்சியொன்றின் உள்ளூர் அரசியல்வாதி ஒருவரின் தந்தை எனவும் தெரியவந்துள்ளது.
+The arrested Piku lives in the Weliweriya area and the other suspects are 72 years old and are the father of a local politician of a popular political party.
 
 ◼️
 
 [Data](articles/c74cfe68.json)
 
+[Extended Data](ext_articles/c74cfe68.ext.json)
+
 ---
 
-### கழுத்தை அறுத்துக்கொண்டவர் அனுமதி
+### Permission
 
 *2024-02-08 12:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கழுத்தை-அறுத்துக்கொண்டவர்-அனுமதி/175-332889) · `ta`
 
-தனது கையில் வைத்திருந்த கத்தியை எடுத்து கழுத்தை அறுத்துக்கொண்ட சம்பவமொன்று குருநாகலில் இடம்பெற்றுள்ளது.
+An incident in Kurunegala has taken place in his hand and cut off his neck.
 
-நீண்ட காலமாக போதைப்பொருள் பாவனைக்கு (ஐஸ் மற்றும் ஹெரோய்ன்) அடிமையாகி இருந்த நபர் ஒருவர் குருநாகல் பஸ் நிலையத்தில் கத்தியால் கழுத்தை அறுத்துக்கொண்ட நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A man who had been addicted to drug use (ice and heroin) for a long time has been admitted to the hospital after a knife at the Kurunegala bus station has been admitted to the hospital.
 
-குருநாகல் பகுதியை வசிப்பிடமாகக் கொண்ட இந்த நபர் போதைப்பொருளுக்கு அதிக அடிமையானவர் என பொலிஸார் தெரிவிக்கின்றனர்.
+The person who lives in the Kurunegala area is addicted to drugs, police said.
 
 ◼️
 
 [Data](articles/7212e37b.json)
 
+[Extended Data](ext_articles/7212e37b.ext.json)
+
 ---
 
-### சரத் பொன்சேகா உட்பட ஐக்கிய மக்கள் சக்தியின் பல எம்.பி.க்கள் ஜனாதிபதியை சந்தித்துப் பேசினர்!
+### Many United People's Power MPs, including Sarath Fonseka, meet the president!
 
 *2024-02-08 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/175873) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும் ஐக்கிய மக்கள் சக்தியின்  நாடாளுமன்ற உறுப்பினர் பீல்ட் மார்ஷல் சரத் பொன்சேகாவுக்கும் இடையிலான சந்திப்பு நேற்று புதன்கிழமை (07) நாடாளுமன்றத்தில் உள்ள ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+A meeting between President Ranil Wickremesinghe and United People's Power Member Field Marshal Sarath Fonseka took place yesterday (07) at the Presidential Office in Parliament.
 
-நாடாளுமன்றத்தின் புதிய அமர்வின் ஆரம்பத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்க தனது விஞ்ஞாபனத்தை சமர்ப்பித்து உரையாற்றிய பின்னரே  இருவரும் கலந்துரையாடியதன் பின்னரே இந்தச் சந்திப்பு இடம்பெற்றுள்ளது.
+The meeting took place only after President Ranil Wickremesinghe presented his manifesto at the beginning of the new session of Parliament.
 
-இதேவேளை, ஐக்கிய மக்கள் சக்தியின் மேலும் சில எம்.பி.க்களும் நேற்று நாடாளுமன்றத்தில் ஜனாதிபதியை சந்தித்தனர்.
+Meanwhile, some more MPs of the United People's Power met with the President in Parliament yesterday.
 
 ◼️
 
 [Data](articles/30af253e.json)
+
+[Extended Data](ext_articles/30af253e.ext.json)
 
 ---
 
@@ -198,6 +212,8 @@ Of these, 18 individuals were wanted for prior drug offenses, and the remaining 
 
 [Data](articles/8f79b406.json)
 
+[Extended Data](ext_articles/8f79b406.ext.json)
+
 ---
 
 ### Here is the new Sri Lankan squad
@@ -216,37 +232,41 @@ February 9, 11 and 14 at the International Cricket Stadium in the Pallekele Inte
 
 ---
 
-### තරුණ වෛද්‍යවරියකට ලිංගික අතවර කිරීමට තැත් කළ වෛද්‍යවරයා අත්අඩංගුවට
+### Doctor arrested for sexual abuse
 
 *2024-02-08 11:49:56* · [`adalk`](https://www.ada.lk/breaking_news/තරුණ-වෛද්‍යවරියකට-ලිංගික-අතවර-කිරීමට-තැත්-කළ-වෛද්‍යවරයා-අත්අඩංගුවට/11-407963) · `si`
 
-අරණායක දිසා රෝහලේ සේවය නිරත ව සිටි 28 හැවිරිදි වෛද්‍යවරියකට ලිංගික අතවර කළ බවට එම රෝහලේම රාජකාරි සිදු කළ 45 හැවිරිදි විවාහක වෛද්‍යවරයා අද (08) අරණායක පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Aranayaka Police have arrested a 45-year-old girl who had been sexually abused a 28 year old medicine at the Aranayaka District Hospital today (08).
 
-සැකකාර වෛද්‍යවරයා බලහත්කාරයෙන් වෛද්‍යවරියගේ ශරීරය අත ගෑ බවට වෛද්‍යවරියගේ පියා විසින් කෑගල්ල ළමා හා කාන්තා කාර්යාංශය වෙත පැමිණිල්ලක් ඉදිරිපත් කර ඇත.
+The doctor's father has lodged a complaint with the Children's and Women's Bureau in Kegalle that the suspect is forcibly involved in the doctor's body.
 
-අතවරයට ලක් වූ බව කියන වෛද්‍යවරියගෙන් සහ එම අවස්ථාවේ රාජකාරියෙ නිරත ව සිටි පස් දෙනෙකුගෙන් ප්‍රකාශ සටහන් කරගෙන ඇති අතර, සිද්ධියට මුහුණු දුන් වෛද්‍යවරිය කෑගල්ල ශික්ෂණ රෝහලේ අධිකරණ වෛද්‍යවරයා හමුවට ඉදිරිපත් කිරීමට නියමිත බව සඳහන්ය.
+The doctor who was abused by the doctor and duties were reported to be produced before the incident.
 
 ◼️
 
 [Data](articles/0228917e.json)
 
+[Extended Data](ext_articles/0228917e.ext.json)
+
 ---
 
-### பாகிஸ்தானில் தேர்தல் வாக்களிப்பு ஆரம்பம் - மொபைல் சேவைகள் நாடளாவிய ரீதியில் இடைநிறுத்தம்
+### Election Voting Beginning in Pakistan - Mobile Services Published nationwide
 
 *2024-02-08 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175872) · `ta`
 
-பாகிஸ்தானில் பொதுத்தேர்தல் வாக்களிப்பு ஆரம்பமாகியுள்ள அதேவேளை பாகிஸ்தான் முழுவதும் மொபைல் இணைய சேவைகளை அதிகாரிகள் துண்டித்துள்ளனர்.
+Officials have cut off mobile internet services across Pakistan while the general election voting has begun in Pakistan.
 
-நாடளாவிய ரீதியில் மொபைல் சேவை இடைநிறுத்தப்பட்டுள்ளது என உள்துறை அமைச்சக பேச்சாளர் தெரிவித்துள்ளார்.
+Mobile service has been suspended nationwide, Home Ministry spokesman said.
 
-பாகிஸ்தானில் சமீபத்தில் இடம்பெற்ற வன்முறைகளில் பெறுமதிமிக்க உயிர்கள் இழக்கப்பட்டுள்ளன என தெரிவித்துள்ள உள்துறை அமைச்சு சட்டமொழுங்கு நிலவரத்தை பேணுவதற்கும் உருவாகக்கூடிய ஆபத்துக்களை கையாள்வதற்கும் இது அவசியம் என  உள்துறை அமைச்சகம் தெரிவித்துள்ளது.
+The Ministry of Home Affairs has said that the recent violence in Pakistan has been lost, the Home Ministry said.
 
-தங்களால் மொபைல் இணையசேவைகளை பயன்படுத்தமுடியவில்லை என இஸ்லாமபாத்தில் உள்ள சர்வதேச ஊடகவியலாளர்கள் தெரிவித்துள்ளனர்.
+International journalists in Islamabad said they could not use mobile internet services.
 
 ◼️
 
 [Data](articles/5a9922ac.json)
+
+[Extended Data](ext_articles/5a9922ac.ext.json)
 
 ---
 
@@ -292,39 +312,43 @@ In further investigations have revealed that the suspect had been swolled by the
 
 ---
 
-### 37 கோடி ரூபா மதிப்புள்ள மாணிக்கக் கற்கள் கைப்பற்றல் ; தேரர் உட்பட இருவர் கைது
+### 37 crores worth of gemstones;Two persons including Thera
 
 *2024-02-08 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175871) · `ta`
 
-இராணுவப் புலனாய்வுப் படையினர் வழங்கிய தகவலின் அடிப்படையில் கொஸ்லந்த பொலிஸார் மேற்கொண்ட சுற்றிவளைப்பில் 2 நீலக் கற்களை சட்டவிரோதமான முறையில் விற்பனை செய்ய முற்பட்ட போது கைப்பற்றப்பட்டுள்ளன.
+Based on information provided by the military intelligence, Koslanda police have seized 2 blue stones illegally when they tried to illegally.
 
-இந்தச் சுற்றிவளைப்பின் போது கைப்பற்றப்பட்ட மாணிக்கக் கற்கள் சுமார் 37 கோடி ரூபாவுக்கு விற்பனை செய்யப்படவிருந்த நிலையில் சம்பவம் தொடர்பில் வெலிவேரிய பிரதேசத்தின் தேரர் ஒருவர் உட்பட இருவர் கொஸ்லந்த பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+Two persons, including a Thera of Weliweriya, have been arrested by Koslanda police in connection with the incident as the seized gem stones were to be sold for about Rs 37 crore during the raid.
 
-கைதுசெய்யப்பட்ட மாணிக்கக் கற்கள் விகாரை வடிவிலானது என தெரியவந்துள்ளது. இது தொடர்பான மேலதிக விசாரணைகளை கொஸ்லந்த பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+The arrested gem stones have been revealed in the form of Vihara. Koslanda police are conducting further investigations.
 
 ◼️
 
 [Data](articles/52cd0907.json)
 
+[Extended Data](ext_articles/52cd0907.ext.json)
+
 ---
 
-### யாழில் வீதி மின்குமிழ்களை திருடியவர்களை தடுத்த பிரதேச சபை முன்னாள் உறுப்பினர் மீது தாக்குதல்
+### A former member of the Pradeshiya Sabha to prevent those who steal roads in Jaffna
 
 *2024-02-08 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175870) · `ta`
 
-வீதி மின் விளக்குகளை களவாட முயன்ற கும்பலை தடுக்க முற்பட்ட , சாவகச்சேரி பிரதேச சபை முன்னாள் உறுப்பினர் தாக்குதலுக்கு இலக்கான நிலையில் , சாவகச்சேரி ஆதார வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார்.
+A former member of the Chavakachcheri Pradeshiya Sabha has been admitted to the Chavakachcheri Base Hospital for treatment of the attack.
 
-யாழ்ப்பாணம் - சாவகச்சேரி மந்துவில் பகுதியில் கும்பல் ஒன்று வீதியில் மின் கம்பங்களில் பொருத்தப்பட்டிருந்த வீதி மின் குமிழ்களை திருடியுள்ளனர்.
+A mob has stolen road power bubbles in the Jaffna - Chavakachcheri Manduvil area.
 
-இதனை அவதானித்த மக்கள், சாவகச்சேரி பிரதேச சபையின் முன்னாள் உறுப்பினர் கு. குகானந்தனுக்கு அறிவித்துள்ளனர்.
+The people who observed this, former member of the Chavakachcheri Pradeshiya Sabha. They have announced to Kuganandan.
 
-அதனை அடுத்து அவ்விடத்திற்கு வந்த முன்னாள் உறுப்பினர், மின் விளக்குகளை திருடிய நபர்களிடம் விசாரணைகளை முன்னெடுத்த போது, அவர்கள் உறுப்பினர் மீது கொட்டனால் கடுமையாக தாக்கி விட்டு அவ்விடத்தில் இருந்து தப்பி சென்றுள்ளனர்.
+When the former member who came to the scene, when he was investigating the stolen lights, they had severely beaten the member and fled the scene.
 
-தாக்குதலுக்கு இலக்கான முன்னாள் உறுப்பினரை அயலவர்கள் மீது மீட்டு வைத்தியசாலையில் , அனுமதித்தனர்.
+The former member of the attack was rescued by neighbors at the hospital.
 
 ◼️
 
 [Data](articles/3083bb98.json)
+
+[Extended Data](ext_articles/3083bb98.ext.json)
 
 ---
 
@@ -496,17 +520,19 @@ One suspect was captured by the bystanders while the other fled the scene after 
 
 ---
 
-### ජගත් ප්‍රියංකර මහතා දිවුරුම් දෙයි
+### Jagath Priyankara sworn in
 
 *2024-02-08 11:06:37* · [`adalk`](https://www.ada.lk/breaking_news/ජගත්-ප්‍රියංකර-මහතා-දිවුරුම්-දෙයි/11-407962) · `si`
 
-අභාවප්‍රාප්ත රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ පුරප්පාඩුවට පත් කෙරුණු ජගත් ප්‍රියංකර මහතා කතානායක මහින්ද යාපා  අබේවර්ධන මහතා  ඉදිරියේ දිවුරුම් දුන්නේය.
+Jagath Priyankara was sworn in before the vacancies of the late Minister of State Sanath Nishantha.
 
-හදිසි අනතුරකින්ස ජීවිතක්ෂයට පත් වූ සනත් නිශාන්ත මහතාගෙන් පසු ශ්‍රී ලංකා පොදු ජන පෙරමුණ නියෝජනය කරමින්  පුත්තලම දිස්ත්‍රික්කයෙන් වැඩිම මනාප ලබාගෙන සිටියේ ප්‍රියංකර මහතාය.
+The highest number of preferential votes from the Puttalam district representing the Sri Lanka Filling Front was elected after the accident.
 
 ◼️
 
 [Data](articles/56bd46a1.json)
+
+[Extended Data](ext_articles/56bd46a1.ext.json)
 
 ---
 
@@ -1104,6 +1130,8 @@ The JVP was involved in two armed uprisings against the Sri Lankan government in
 
 [Data](articles/2c47c1a2.json)
 
+[Extended Data](ext_articles/2c47c1a2.ext.json)
+
 ---
 
 ### Stirring at the Lambattu Pattiuru Police Station!Two suspects who drank milk
@@ -1525,6 +1553,8 @@ Despite repeated reduction in the central bank’s key policy rates, the market 
 ...
 
 [Data](articles/9306a896.json)
+
+[Extended Data](ext_articles/9306a896.ext.json)
 
 ---
 

@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 06:16:22**
+As of **2024-02-08 06:52:41**
 
 ## Newspaper Stats
 
-*Scraped **5,580** Articles*
+*Scraped **5,591** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 64
 bbccomsinhala | 78
 dbsjeyarajcom | 140
-islandlk | 288
 economynextcom | 296
+islandlk | 299
 dailyftlk | 316
 newsfirstlk | 342
 adalk | 472
@@ -26,7 +26,7 @@ dailymirrorlk | 792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,580 (100.0%) of 5,580 articles have been extended.
+5,580 (99.8%) of 5,591 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -904,6 +904,34 @@ The man had gone to the suspects and had left fish buns and a packet of milk.
 
 ---
 
+### People’s Bank and Hayleys Agriculture form strategic alliance for agricultural advancement
+
+*2024-02-07 20:03:00* · [`islandlk`](http://island.lk/peoples-bank-and-hayleys-agriculture-form-strategic-alliance-for-agricultural-advancement/) · `en`
+
+In a seminal move to fortify Sri Lanka’s agricultural landscape, People’s Bank, has entered into a Memorandum of Understanding (MoU) with Hayleys Agriculture Holdings Ltd, a distinguished provider of agricultural machinery and vehicles. This strategic collaboration, designed to facilitate a joint promotional campaign, is poised to usher in a new era of financial accessibility and technological adoption for the country’s agricultural community.
+
+Under the terms of this alliance, People’s Bank assumes a pivotal role by offering bespoke loan facilities to clients with specific requirements pertaining to agricultural machinery and vehicles. This financial framework aims to empower farmers, providing them with the means to invest in cutting-edge equipment that holds the potential to enhance overall agricultural efficiency and productivity.
+
+...
+
+[Data](articles/516af2c9.json)
+
+---
+
+### SLT-MOBITEL unveils ‘The Directory’ 2023/24 as refreshed and advanced national business directory
+
+*2024-02-07 20:02:00* · [`islandlk`](http://island.lk/slt-mobitel-unveils-the-directory-2023-24-as-refreshed-and-advanced-national-business-directory/) · `en`
+
+As a one-stop-shop for all marketing and advertising solutions for Micro, Small and Medium Businesses (MSMBs), SLT Digital Services (Pvt) Limited (SLT-DIGITAL), a fully owned subsidiary of SLT-MOBITEL, the National ICT Solutions Provider, unveiled ‘The Directory’ 2023/24 (The Rainbow Pages), the refreshed and advanced version of its national business directory.
+
+‘The Directory’ 2023/24 is the latest version of the National Business Directory and a new tool for doing business in the country. The user-friendly guide offers enhanced features under a refreshed brand name produced with the main objective of creating additional value to existing and prospective customers, and registered vendors. In addition, ‘The Directory’ offers its business directory services through multiple mediums including as an online directory – rainbowpages.lk, a printed book, an eBook as well as a 24-hr Call Centre service (SLT 1212, Mobile 444), Call Centre.
+
+...
+
+[Data](articles/45c59423.json)
+
+---
+
 ### Two people who had been drinking milk were admitted to the hospital
 
 *2024-02-07 20:01:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்-அருந்திய-இருவர்-வைத்தியசாலையில்-அனுமதி/175-332851) · `ta`
@@ -923,6 +951,22 @@ Samindu Darshan (27) from Cherunuwara, who was identified as the shooter, and La
 [Data](articles/31daf46e.json)
 
 [Extended Data](ext_articles/31daf46e.ext.json)
+
+---
+
+### Transfer of JKH’s 61.9 million stocks boosts CSE turnover past Rs. 12 billion mark
+
+*2024-02-07 19:58:00* · [`islandlk`](http://island.lk/transfer-of-jkhs-61-9-million-stocks-boosts-cse-turnover-past-rs-12-billion-mark/) · `en`
+
+The stock market yesterday surpassed Rs 12 billion in turnover with a great degree of retail and institutional participation. A main feature of the trading was the transferring of 61.9 million stocks in JKH, amounting to Rs 11.3 billion, market analysts said.
+
+JKH’s transaction was equal to the company’s last/ December quarterly statement figure, which boosted the entire market performance, analysts added.
+
+Further, market speculation that Treasury Bill yields decreased, created a bullish market sentiment for Primary dealer entities listed in the CSE. This has created a significant price appreciation, market analysts said. Capital Alliance PLC shares closed up at 48.10, and First Capital Treasuries PLC closed up 26.00. Contributors to ASPI included Richard Pieris and Company PLC (up at 21.30), Commercial Bank of Ceylon PLC (up at 89.00) and Royal Ceramics Lanka PLC (up at 29.00).
+
+...
+
+[Data](articles/7113d60d.json)
 
 ---
 
@@ -960,6 +1004,20 @@ The CYPO, a legislation governing justice for children in Sri Lanka since 1939, 
 
 ---
 
+### Melsta Health relaunches Melsta Pharmacy and opens exclusive Melsta Labs Collection Center
+
+*2024-02-07 19:54:00* · [`islandlk`](http://island.lk/melsta-health-relaunches-melsta-pharmacy-and-opens-exclusive-melsta-labs-collection-center/) · `en`
+
+Initiating an exciting new chapter in their pharmacy venture, Melsta Health recently relaunched their flagship Melsta Pharmacy at 453, Galle Road, Colombo 03, with a new outlook and enhanced facilities. Complementing the array of new features at Melsta Pharmacy, an Exclusive Melsta Labs Sample Collection Center was also launched at the same location.
+
+Situated at the heart of Colombo’s bustling commercial hub, Melsta Pharmacy takes center stage in one of the city’s busiest neighborhoods. With ample parking, the newly relaunched space is designed for accessibility, catering to a diverse clientele, from local residents to visitors. The flagship Melsta Pharmacy stands out with its captivating modern customer-centric design, aligning seamlessly with the latest global standards. Offering more than just pharmaceutical services, customers can expect an exceptional experience coupled with best-in-class services, all at the most affordable costs.
+
+...
+
+[Data](articles/f56d5c3a.json)
+
+---
+
 ### Anura Dissanayake and Gujarat meets
 
 *2024-02-07 19:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193097) · `si`
@@ -975,6 +1033,18 @@ After the afterward of Anura Kumara Dissanayake, the Minister of Industry, Bulwa
 [Data](articles/5dd36cd3.json)
 
 [Extended Data](ext_articles/5dd36cd3.ext.json)
+
+---
+
+### Access Motors redefines automotive care with the launch of Absolute Detailing and Tyre Shop at IOC premises, Colombo
+
+*2024-02-07 19:52:00* · [`islandlk`](http://island.lk/access-motors-redefines-automotive-care-with-the-launch-of-absolute-detailing-and-tyre-shop-at-ioc-premises-colombo/) · `en`
+
+Access Motors, synonymous with automotive quality, proudly introduces its inaugural stand-alone detailing and tyre shop – Bodyshop by Access Motors Absolute Detailing. Strategically located at the IOC premises in Kirimandala Mawatha, Colombo 05, this milestone marks a significant expansion of Access Motors’ service portfolio, offering a comprehensive one-stop solution for all car appearance needs.
+
+...
+
+[Data](articles/7fdaddde.json)
 
 ---
 
@@ -1917,103 +1987,5 @@ Singer Harikaran has arrived in Jaffna through Jaffna International Airport to a
 [Data](articles/d54a580b.json)
 
 [Extended Data](ext_articles/d54a580b.ext.json)
-
----
-
-### The unhappy fate of a foreign tourist
-
-*2024-02-07 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193088) · `si`
-
-A visitor travelers drowned at the coast of Beruwala.
-
-The victim was a 71 year old Romanianian.
-
-He was staying at a tourist hotel in Moragalla area and the hotel is inaugurated at the beach.
-
-The foreigner who had to land and was admitted to the Beruwala Hospital, and he had already died.
-
-◼️
-
-[Data](articles/6b5c3191.json)
-
-[Extended Data](ext_articles/6b5c3191.ext.json)
-
----
-
-### Twenty blasts in Pakistan: 20 killed
-
-*2024-02-07 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175808) · `ta`
-
-Foreign media reports that about 20 people have been killed in two bombings in Pakistan.
-
-Police are trying to find the cause of these incidents and the injured have been admitted to hospitals.
-
-◼️
-
-[Data](articles/a332257c.json)
-
-[Extended Data](ext_articles/a332257c.ext.json)
-
----
-
-### 3 suspects arrested with whale Ambar
-
-*2024-02-07 15:52:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திமிங்கல-அம்பருடன்-3-சந்தேக-நபர்கள்-கைது/175-332839) · `ta`
-
-Three suspects who were ready to illegally sell about 4 kg of 500 grams of whale whale vomiting worth about 3 crores of gold, have been arrested by the Mirissa Crime Branch in Devinuwara and Nakulagamuwa.
-
-◼️
-
-[Data](articles/afd1da3b.json)
-
-[Extended Data](ext_articles/afd1da3b.ext.json)
-
----
-
-### Sri Lanka stocks close up, JKH pushes turnover to 12bn
-
-*2024-02-07 15:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-jkh-pushes-turnover-to-12bn-150288/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-Turnover topped 12 billion due to a crossing on John Keells Holdings Plc (11.3bn), and the share closed up at 183.00.
-
-The broader All Share Index closed up 2.59 points, or 0.02 percent at 10,527, while the S&P SL20 Index went up 6.71 points to close at 2,999 points, up 0.22 percent.
-
-Sampath Bank Plc saw high volumes traded (85mn) and the share closed down at 71.90, as did LB Finance Plc (79mn) flat at 61.00.
-
-The decline in bond yield rates has seen renewed investor interest in several companies, market participants said, adding that some of the primary dealing counters saw some activity: Capital Alliance Plc shares closed up at 48.10, and First Capital Treasuries Plc closed up at 26.00.
-
-Contributors to ASPI in the day included Richard Pieris and Company Plc (up at 21.30), Commercial Bank of Ceylon Plc (up at 89.00), and Royal Ceramics Lanka Plc (up at 29.00). (Colombo/Feb7/2024).
-
-◼️
-
-[Data](articles/ca4677b3.json)
-
-[Extended Data](ext_articles/ca4677b3.ext.json)
-
----
-
-### Five people belonging to the same family as refugees in Tamil Nadu
-
-*2024-02-07 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175806) · `ta`
-
-Five people, including 3 children from the same family as refugees from the country, have taken refuge in Tamil Nadu this morning.
-
-Due to the severe economic crisis in the country, Tamils have been refugees to Dhanushkodi since March 2022.
-
-In the meantime, five members of the same family departed from Mannar on Wednesday evening (6) and reached the beach at the Dhanushkodi Arichalmunai sandalwood near Rameswaram this morning.
-
-Informed Rameswaram Marine Police are rescued and are being held at the Marine Police Station.
-
-Five of them are to be handed over to the refugee camp after the security regional authorities.
-
-Due to the economic crisis, the number of refugees from Sri Lanka to Tamil Nadu has increased to 293.
-
-◼️
-
-[Data](articles/7456e147.json)
-
-[Extended Data](ext_articles/7456e147.ext.json)
 
 ---

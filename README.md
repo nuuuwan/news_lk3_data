@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 17:17:20**
+As of **2024-02-08 17:33:29**
 
 ## Newspaper Stats
 
@@ -26,31 +26,35 @@ dailymirrorlk | 818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,754 (100.0%) of 5,756 articles have been extended.
+5,756 (100.0%) of 5,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### ලංකාවේ විශාලතම සෙල් ලිපියේ කොටා තිබූ කතාව
+### The speech found in the largest letter of Sri Lanka
 
 *2024-02-08 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193138) · `si`
 
-ශ්‍රී ලංකාවෙන් හමුවූ විශාලතම සෙල් ලිපිය පිළිබඳව මූලික වාර්තාවක් ඒ සම්බන්ධයෙන් පත්කළ විශේෂ කමිටුව විසින් අද එළිදැක්වීය.
+The special report on the largest letter found in Sri Lanka was launched by the Special Committee on the matter.
 
-මෙම සෙල්ලිපියේ පිටපත් අනුව එය කිස්තුපූර්ව දෙවන සියවසේ මුල් භාගයට හෝ ඊට පෙර සමයකට අයත් එකක් බවට තීරණය කළ බව එම මාධ්‍ය හමුවට එක්වූ ශ්‍රී ජයවර්ධනපුර විශ්ව විද්‍යාලයේ පුරාවිද්‍යා අධ්‍යයන අංශයේ මහාචාර්ය කරුණාසේන හෙට්ටිආරච්චි මහතා පැවසීය.
+According to the copy of the inscription, Professor Karunasena Hettiarachchi, the Department of Archeology Studies, joined the media that it was estimated to be one of the first half of the second century.
 
-මේ අතර එම සෙල්ලිපියේ බ්‍රාහ්මීය අක්ෂර පේළි 10ක් සහ ඇති බවත් මෙරට ඉතිහාසයේ මෙතෙක් ශිලා ලේඛනවල දැකගත නොහැකි අතිශය දුර්ලභ සංකේත 6ක් හාමුවී ඇති බවත් මහාචාර්යවරයා සඳහන් කළේය.
+Meanwhile, there have been 10 lines of Brahmi character and the inscriptions in the inscription and six extreme symbols that have not yet been seen in the history of the country's history.
 
-එසේම අදාළ ශිලා ලේඛනයේ සැළකිය යුතු ප්‍රමාණයක් ගෙවී ගොස් ඇති බවත් එය සමස්ථ ලේඛනයෙන් ප්‍රතිශතයක් ලෙස සියයට 60ක් පමණ වන බවත් මහාචාර්යවරයා වැඩිදුරටත් සඳහන් කළේය.
+The professor of the inscription has gone and is about 60 percent of the total number of document.
 
-ඒ අනුව ඉතිරි සියයට 40කට කොටස අතරින් හඳුනාගෙන ඇති අක්ෂර පේළි අනුව දළ අර්ථයක් සකස්කරගැනීමට හැකි වූ බවද මහාචාර්යවරයා වැඩිදුරටත් සඳහන් කළේය.
+Accordingly, the remaining 40 percent of the part of the section was able to prepare a rows by the rows of the rows, the professor, added.
 
-එහි බ්‍රාහ්මීය අකුරු 24ක් උපයෝගී කරගනිමින් සකස් කර ඇති අතර මුළු ශිලා ලිපියේම අකුරු 1000කට ආසන්න ප්‍රමාණයක් තිබී ඇත.
+It has been prepared using 24 characters with 24 letters and nearly 1000 letters of the total inscription.
+
+The inscriptions in the stone have also been added to the bhikkus because the water is essential to the top of the hill.
 
 ...
 
 [Data](articles/c18fcb11.json)
+
+[Extended Data](ext_articles/c18fcb11.ext.json)
 
 ---
 
@@ -153,6 +157,8 @@ Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
 ◼️
 
 [Data](articles/0e052293.json)
+
+[Extended Data](ext_articles/0e052293.ext.json)
 
 ---
 

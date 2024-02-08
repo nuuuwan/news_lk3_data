@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 22:17:31**
+As of **2024-02-08 22:33:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 827
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,809 (99.9%) of 5,813 articles have been extended.
+5,813 (100.0%) of 5,813 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -75,6 +75,8 @@ Many older residents became especially isolated during the pandemic, he added.
 ...
 
 [Data](articles/ed3c4620.json)
+
+[Extended Data](ext_articles/ed3c4620.ext.json)
 
 ---
 
@@ -560,6 +562,8 @@ The nearby geothermal spa Blue Lagoon had closed on Thursday, it said.
 
 [Data](articles/eb4ac821.json)
 
+[Extended Data](ext_articles/eb4ac821.ext.json)
+
 ---
 
 ### Opposition alleges move to postpone Presidential Election
@@ -954,21 +958,27 @@ It is learned that the police message and sub-service officers have advised that
 
 ---
 
-### ஜனாதிபதி தேர்தலை ஒரு வருட காலத்துக்கு பிற்போட அரசாங்கம் முயற்சி - கிரியெல்ல
+### Government attempts presidential election over one year - Kiriella
 
 *2024-02-08 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/175884) · `ta`
 
-ஜனாதிபதியின் கொள்கை பிரகடனத்தில் ஜனாதிபதி தேர்தல் பற்றி குறிப்பிடப்படவில்லை. நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை இரத்து செய்யும் யோசனையை முன்வைத்து, ஜனாதிபதி தேர்தலை ஒருவருட காலத்துக்கு பிற்போட அரசாங்கம் விசேட கவனம் செலுத்தியுள்ளது.
+The presidential policy is not mentioned in the presidential election. The government has paid special attention to the presidential election for a year, with the idea of abolishing the executive presidency.
 
-ஜனநாயகத்துக்கு எதிராக செயற்பட்டு விட்டு, பாராளுமன்றத்துக்குள் வந்து எதிர்க்கட்சிகளிடம் ஒத்துழைப்பு கோருவதற்கு வெட்கமில்லையா என எதிர்க்கட்சிகளின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல தெரிவித்தார்.
+Lakshman Kiriella, the prime minister of the opposition parties, said that it is not ashamed to come into parliament and come into parliament and cooperate with the opposition parties.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (08) இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரையின் மீதான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking at the adjournment debate on the President's Declaration of the President's Policy Declaration held in Parliament on Thursday (08).
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க கடந்த காலங்களில் பாராளுமன்றத்தில் ஆற்றிய  சிம்மாசன பிரசங்கத்தை செவிமெடுத்து, வாத பிரதிவாதங்களை முன்வைத்தோம்.ஆனால் நேற்று பாராளுமன்றத்தில் இடம்பெற்ற கொள்கை பிரகடனத்தை நாங்கள் புறக்கணித்தோம்.ஜனநாயகத்துக்கு எதிரான ஜனாதிபதியின் செயற்பாடுகள் வன்மையாக கண்டிக்கத்தக்கது.
+President Ranil Wickremesinghe listened to the throne in Parliament and presented arguments in Parliament. But we ignored the policy declaration in Parliament yesterday.
+
+On the 30th of last month, we staged a peaceful struggle in Colombo in protest of the government's activities.
+
+The government has violently attacked the struggle. The attacks on the opposition leader were also carried out.
 
 ...
 
 [Data](articles/ae0c7039.json)
+
+[Extended Data](ext_articles/ae0c7039.ext.json)
 
 ---
 
@@ -1546,23 +1556,27 @@ The Minister further stated that the allowance of Rs..
 
 ---
 
-### நிகழ்நிலை காப்புச் சட்டம் : குறைபாடுகள் உள்ளதை ஏற்றுக்கொள்கிறோம் - நீதியமைச்சர்
+### Formation Backup Act: We accept the disadvantages - the Justice Minister
 
 *2024-02-08 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/175883) · `ta`
 
-பாராளுமன்றத்தில் இயற்றப்பட்ட சட்டத்தை கேள்விக்குள்ளாக்கும் அதிகாரம் உயர்நீதிமன்றத்துக்கு கிடையாது. நிகழ்நிலை காப்புச் சட்டத்தில் ஒருசில குறைபாடுகள் உள்ளன என்பதை ஏற்றுக்கொள்கிறோம்.
+The High Court does not have the power to question the law enacted in Parliament. We agree that there are a few disadvantages in the Foundation Backup Act.
 
-இதற்காக  முழு சட்டத்தையும் தீயிலிட முடியாது. பாராளுமன்றத்தின் ஊடக திருத்தங்களை கொண்டு வரலாம் என நீதி,சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் ஜனாதிபதி சட்டத்தரணி விஜயதாஸ ராஜபக்ஷ தெரிவித்தார்.
+The entire law cannot be set on fire for this. Minister of Justice, Prison Affairs and Constitutional Reforms Minister Vijayadasa Rajapakse said that the media amendments to Parliament could be introduced.
 
-பாராளுமன்றத்தில்  வியாழக்கிழமை (08) இடம்பெற்ற அமர்வின் போது உயர்நீதிமன்றத்தின் திருத்த யோசனைகளுக்கு அப்பாற்பட்டு நிகழ்நிலை காப்புச் சட்டம் இயற்றப்பட்டுள்ளது.
+During the session held in Parliament on Thursday (08), the Supreme Court's amendment was passed beyond the amendments.
 
-ஆகவே விசேட கட்சித் தலைவர் கூட்டத்தை நடத்துங்கள் என எதிர்க்கட்சித் தலைவர்  சஜித் பிரேமதாச உட்பட எதிரணியின் உறுப்பினர்கள் சபாநாயகரிடம் வலியுறுத்தினர். இதன்போது எழுந்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+Members of the opposition, including opposition leader Sajith Premadasa, urged the Speaker to hold a special party leader. He said the above.
 
-சட்டமியற்றல் தொடர்பில்  1978 ஆம் ஆண்டு அரசியலமைப்பில் தெளிவாக குறிப்பிடப்பட்டுள்ளது. தயாரிக்கப்படும் சட்ட வரைபின்  அரசியலமைப்பின் வகிபாகத்தை சட்டமா அதிபர் உறுதிப்படுத்தியதன் பின்னர் தான் சட்டவரைபு அமைச்சரவைக்கு சமர்ப்பிக்கப்படுகிறது.
+Correctly mentioned in the 1978 Constitution regarding legislation. It is only after the Attorney General has confirmed the role of the constitution of the legal map to be submitted to the Cabinet.
+
+The people have the right to challenge the High Court within 14 days of the Bill that will be submitted to the first reading in Parliament.
 
 ...
 
 [Data](articles/0bd25dbf.json)
+
+[Extended Data](ext_articles/0bd25dbf.ext.json)
 
 ---
 

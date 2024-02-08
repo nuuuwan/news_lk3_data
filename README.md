@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 14:32:58**
+As of **2024-02-08 14:49:52**
 
 ## Newspaper Stats
 
-*Scraped **5,707** Articles*
+*Scraped **5,720** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 64
 bbccomsinhala | 79
 dbsjeyarajcom | 141
-economynextcom | 298
 islandlk | 299
+economynextcom | 302
 dailyftlk | 316
-newsfirstlk | 353
+newsfirstlk | 359
 adalk | 480
 virakesarilk | 704
-adaderanalk | 704
-tamilmirrorlk | 710
+adaderanalk | 705
+tamilmirrorlk | 712
 adaderanasinhalalk | 751
 dailymirrorlk | 808
 
@@ -26,11 +26,109 @@ dailymirrorlk | 808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,707 (100.0%) of 5,707 articles have been extended.
+5,707 (99.8%) of 5,720 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### Sri Lanka to repurpose 5,000 acres of Cement Corporation land
+
+*2024-02-08 14:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-repurpose-5000-acres-of-cement-corporation-land-150359/) · `en`
+
+ECONOMYNEXT – The Sri Lanka Cement Corporation, with around 5,000 acres of mineral resource-rich land, is to be restructured, the State Minister of Primary Industries has said.
+
+“With arrangements in place to develop it, the corporation is expected to generate revenue of around USD300 million annually,” Chamara Sampath said at a press briefing held on Wednesday (7) at the President’s Media Centre.
+
+“An institution has already been selected to propose a plan for this transformation,” Dassanayake was quoted in a statement by the PMC.
+
+What the institution is and details of the planned development were not given.
+
+...
+
+[Data](articles/a0325736.json)
+
+---
+
+### Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+
+*2024-02-08 14:02:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/electricity-bills-in-sri-lanka-highest-in-south-asia-verit%c3%a9-research/) · `en`
+
+COLOMBO (News 1st); Sri Lanka currently has the highest electricity charges in South Asia, with households paying 2.5 to 3 times more for electricity than the average price paid by households in other South Asian countries, according to analysis that was published this week.
+
+Published on PublicFinance.lk, Sri Lanka’s premier economic insights platform, this analysis by Verité Research looked at what households are charged for their electricity when consuming 100, 200 or 300 units, at the start of 2024.
+
+The calculation only took into account the charges of the supplier, and did not include government taxes such as the Social Security Levy, which is charged additionally in Sri Lanka.
+
+The second highest household electricity charges in the region are in Pakistan; yet they are far less than in Sri Lanka. Households consuming 100 units are charged 50% more in Sri Lanka than Pakistan; and those consuming 300 units are charged 97% more in Sri Lanka.
+
+...
+
+[Data](articles/84559acc.json)
+
+---
+
+### Sri Lanka CEB signs power purchase agreement with Rividhanavi
+
+*2024-02-08 13:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-ceb-signs-power-purchase-agreement-with-rividhanavi-150376/) · `en`
+
+ECONOMYNEXT – The state-owned Ceylon Electricity Board has signed a power purchase agreement with Rividhanavi (Pvt) Ltd for a 100 MW ground mount solar project in Siyambalanduwa today (8).
+
+“Power purchase agreement for the 100 MW Ground Mount Solar project in Siyambalanduwa was signed by Rividhanavi (Pvt) Ltd with CEB today,” Minister of Power and Energy Kanchana Wijesekera said on social media platform X (twitter).
+
+“The project was advertised by the CEB in September 2022, evaluated in 2023 and was awarded to the lowest and successful bidder at the end of 2023.”
+
+Wijesekera said Rividhanavi will also build the transmission line of 27.5 km for the project and transfer to the CEB.
+
+Rividhanavi (Pvt) Ltd is a consortium of shareholders, Lakdhanavi Ltd, Windforce PLC and The Blue Circle PTE Ltd of Singapore. (Colombo/Feb8/2024)
+
+◼️
+
+[Data](articles/1398f175.json)
+
+---
+
+### Two individuals nabbed with 1,200 capsules of controlled substances
+
+*2024-02-08 13:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97112/two-individuals-nabbed-with-1200-capsules-of-controlled-substances) · `en`
+
+Two suspects have been arrested in Nanattan, Silavathurai while in possession of a cache of controlled drugs intended for sale.
+
+The arrests were made during a coordinated search operation mounted by the Navy and the Divisional Crimes Investigation Unit in Mannar on Wednesday (Feb.07).
+
+Accordingly, a total of 1,200 Pregabalin capsules have been impounded in this operation.
+
+The male and female suspects – aged 23 and 45, respectively – held in this operation were identified as residents of Nanattan area.
+
+The accused, along with seized Pregabalin capsules, have been handed over to the Silavathurai Police for onward legal action.
+
+◼️
+
+[Data](articles/e4eeba48.json)
+
+---
+
+### Kandakadu Policy Change: Unsuitable Individuals Excluded
+
+*2024-02-08 13:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/kandakadu-policy-change-unsuitable-individuals-excluded/) · `en`
+
+COLOMBO (News 1st); Rehabilitation Commissioner General, Retired Major General Darshana Hettiarachchi, has announced a significant shift in policy following recent conflicts at the Kandakadu Treatment and Rehabilitation Center.
+
+The Commissioner General has pledged to avoid housing individuals deemed unsuitable for rehabilitation into the centers henceforth.
+
+The policy change comes in the wake of the arrest of 34 individuals who were implicated in instigating conflicts at the Kandakadu Treatment and Rehabilitation Center on the 4th of February.
+
+The group has since been presented to the court under several charges, as confirmed by Major General Darshana Hettiarachchi.
+
+In a decisive move, all individuals who contributed to the violent acts at the Kandakadu Treatment and Rehabilitation Center have been removed.
+
+Commissioner General Hettiarachchi further emphasized his cautious approach in obtaining court orders to refer individuals to rehabilitation.
+
+...
+
+[Data](articles/3e20ce40.json)
+
+---
 
 ### Welikada Prison Prison Prisoner Attack
 
@@ -48,6 +146,26 @@ The hospital spokesman said that the attack was injured by the attack and that h
 
 ---
 
+### கெஹலியவுக்கு ஒட்சீசன்: இந்திய மருந்தே வழங்கப்படுகிறது
+
+*2024-02-08 13:17:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-ஒட்சீசன்-இந்திய-மருந்தே-வழங்கப்படுகிறது/175-332893) · `ta`
+
+சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ள முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெலவுக்கு மருந்துகளுக்கு அப்பால் ஒட்சீசன் வழங்கப்படுகின்றது என சிறைச்சாலைகள் சுகாதார சேவைகள் பணிப்பாளர் வைத்தியர் ஹேமந்த ரணசிங்க தெரிவித்துள்ளார்.
+
+மேலும் அவர் தெரிவிக்கையில்: “கெஹலியவின் நோய்க்கு, அவர் ​அமைச்சராக இருந்த போது, இந்தியாவில் உள்ள நிறுவனத்தில் இருந்து கொள்வனவு செய்யப்பட்ட மருந்தே வழங்கப்படுகின்றது”
+
+சிங்கபூரில் இருந்து கொள்வனவு செய்யப்பட்ட மருந்துகள், கெஹலியவுக்கு வழங்கப்படுவதாக வெளியான செய்திகளை அவர் மறுத்துள்ளார் எனவும், ரம்புக்வெலவுக்கு 7 நோய்கள் உள்ளன என்பது வைத்திய அறிக்கையில் குறிப்பிடப்பட்டுள்ளது. அதனால்தான், சிறைச்சாலை வைத்தியசாலையில் அவர் அனுமதிக்கப்பட்டுள்ளார்.
+
+70 வயதான அவருக்கு இரத்த அழுத்தம், நீரிழிவு நோய் உள்ளிட்ட பல நோய்கள் உள்ளன. எட்டு அல்லது ஒன்பது நோய்களுக்கு குளிசைகள் வழங்கப்படுகின்றன.
+
+சிறைவாசம் அனுபவித்து வரும் அத்தகைய நோயாளியின் உயிருக்கு அரசும் பொறுப்பு என்பதால், கைதியின் நிலை என்னவாக இருந்தாலும், மருத்துவ சிகிச்சை தேவைப்பட்டால், மருத்துவமனைக்கு அனுப்பி வைக்கப்படும்.
+
+...
+
+[Data](articles/02f710be.json)
+
+---
+
 ### Five massacre in Beliatta:
 
 *2024-02-08 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175886) · `ta`
@@ -61,6 +179,28 @@ The suspect used the gun used for the incident and then hid the house of his cou
 [Data](articles/8fc77f85.json)
 
 [Extended Data](ext_articles/8fc77f85.ext.json)
+
+---
+
+### 100 MW Ground Mount Solar Project Agreement Signed
+
+*2024-02-08 13:16:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/100-mw-ground-mount-solar-project-agreement-signed/) · `en`
+
+COLOMBO (News 1st); Power purchase agreement for the 100 MW Ground Mount Solar project in Siyambalanduwa was signed by Rividhanavi (Pvt) Ltd. with CEB today.
+
+The project was advertised by the CEB in September 2022, evaluated in 2023 and was awarded to the lowest & successful bidder at the end of 2023, said Power and Energy Minister Kanchana Wijesekera on X, formerly Twitter.
+
+Rividhanavi will also build the transmission line of 27.5 Km for the project and transfer to the CEB, he said.
+
+Rividhanavi (Pvt) Ltd. is a consortium of shareholders, Lakdhanavi Ltd., Windforce PLC and The Blue Circle PTE Ltd of Singapore. Investment is expected to be USD 132 Million.
+
+Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+
+Environment Ministry in President’s charge by way of Extraordinary Gazette
+
+◼️
+
+[Data](articles/7b26d624.json)
 
 ---
 
@@ -104,6 +244,74 @@ The youth who was severely injured and was taken to the Nagoda Teaching Hospital
 
 ---
 
+### Kusal Mendis to lead SL against Afghanistan in ODI series
+
+*2024-02-08 13:02:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/kusal-mendis-to-lead-sl-against-afghanistan-in-odi-series/) · `en`
+
+COLOMBO (News 1st); The Sri Lanka Cricket (SLC) Selection Committee has selected the 16-member squad to take part in the upcoming ODI series against Afghanistan with Kusal Mendis as the Captain.
+
+Charith Asalanka will be taking up the role of Vice Captain.
+
+The Minister of Sports and Youth Affairs Harin Fernando has granted approval to the squad.
+
+The 3 ODIs will be held on February 9, 11, 14 at the Pallekele International Cricket Stadium, according to the SLC. The day-night games will start at 02.30 p.m.
+
+Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+
+Environment Ministry in President’s charge by way of Extraordinary Gazette
+
+◼️
+
+[Data](articles/6c7a8736.json)
+
+---
+
+### Environment Ministry in President’s charge by way of Extraordinary Gazette
+
+*2024-02-08 12:58:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/environment-ministry-in-president-s-charge-by-way-of-extraordinary-gazette/) · `en`
+
+COLOMBO (News 1st); An extraordinary gazette notification has been issued stating that the Ministerial Portfolio of Environment should be in the President’s charge.
+
+The gazette was issued by Secretary to the President E. M. S. B. Ekanayake.
+
+The extraordinary gazette notification states that the President, having consulted with the Prime Minister, has determined that the Ministerial Portfolio of Environment should be in his charge.
+
+Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+
+Environment Ministry in President’s charge by way of Extraordinary Gazette
+
+◼️
+
+[Data](articles/5e554d20.json)
+
+---
+
+### 42 arrested over harassing women and children on public transport
+
+*2024-02-08 12:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/42-arrested-over-harassing-women-and-children-on-public-transport/) · `en`
+
+COLOMBO (News 1st); Sri Lanka Police has launched a special operation to curb the harassment of children and women in public transport.
+
+The Police Media Unit said 42 people were arrested in connection with the operations carried out on buses on Wednesday (07).
+
+The measure was taken based on orders by the Acting Inspector General of Police due to complaints received daily regarding sexual harassment of women and children.
+
+Police officers in civilian clothing will be deployed in public transport services, prioritizing peak time, between 8am to 10am and 5pm to 7pm.
+
+Police teams will be deployed in buses, bus depots, railway stations and congested areas during this period.
+
+The Police Headquarters added that Police officers in uniform have also been stationed covering the main roads, to assist officers in civilian clothes.
+
+Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+
+Environment Ministry in President’s charge by way of Extraordinary Gazette
+
+◼️
+
+[Data](articles/e8d8cbfc.json)
+
+---
+
 ### Suspect in the five murder surrenders to police
 
 *2024-02-08 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193130) · `si`
@@ -117,6 +325,24 @@ The firearms used for shooting say that the suspect in Kamburupitiya has been hi
 [Data](articles/0bb3d802.json)
 
 [Extended Data](ext_articles/0bb3d802.ext.json)
+
+---
+
+### Sri Lanka govt expediting development projects targeting election: PAFFREL
+
+*2024-02-08 12:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-govt-expediting-development-projects-targeting-election-paffrel-150361/) · `en`
+
+ECONOMYNEXT — Sri Lanka will definitely call a presidential election by July 2024, election observer PAFFREL said, accusing the government of expediting development programmes targeting the coming presidential poll.
+
+Chairman of the People’s Action for Free & Fair Elections (PAFFREL) Rohana Hettiarachchi told reporters on Friday February 08 that a circular issued by the presidential secretariat in January has directed officials to complete all 2024 development projects initiated under a 10-year plan to develop the hill country by July this year.
+
+“The government is prioritising elections that it has a higher probability of winning over other elections that the people are currently owed,” said Hettiarachchi, referring to the long delayed local government elections.
+
+He urged Prime Minister Dinesh Gunawardena who hold the local government portfolio to see to it that those elections aren’t further postponed.
+
+...
+
+[Data](articles/e21de5d1.json)
 
 ---
 
@@ -162,6 +388,10 @@ COLOMBO (News 1st); An extraordinary gazette notification has been issued includ
 
 The gazette notification states the Online Safety Act has been included under the scope of the Ministry of Public Security with effect from the 7th of February, 2024.
 
+Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+
+Environment Ministry in President’s charge by way of Extraordinary Gazette
+
 ◼️
 
 [Data](articles/0fbe0865.json)
@@ -197,6 +427,10 @@ The Ministry of Defence announced that the Chief of Defense Force of the Maldive
 He arrived in the country based on an invitation by the Defence Services Command and Staff College in Batalanda.
 
 He is a graduate of the Sri Lanka Defense Services Command and Staff College.
+
+Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+
+Environment Ministry in President’s charge by way of Extraordinary Gazette
 
 ◼️
 
@@ -243,6 +477,22 @@ The youth has been taken to the Nagoda Teaching Hospital in Kalutara with a seri
 [Data](articles/48db19f5.json)
 
 [Extended Data](ext_articles/48db19f5.ext.json)
+
+---
+
+### மாணிக்கற்களை விற்க முயற்சித்த பிக்கு உட்பட மூவர் கைது
+
+*2024-02-08 12:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணிக்கற்களை-விற்க-முயற்சித்த-பிக்கு-உட்பட-மூவர்-கைது/175-332890) · `ta`
+
+ரூ.370 மில்லியன் பெறுமதியான இரண்டு நீல நிற மாணிக்க கற்களை விற்பனை செய்ய முயற்சித்த பிக்கு ஒருவர் உட்பட இருவர் கைது செய்யப்பட்டுள்ளதாக கொஸ்லந்த பொலிஸார் தெரிவித்துள்ளனர்.
+
+இராணுவ புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசிய தகவலுக்கு அமைய கொஸ்லந்த பொலிஸார் மேற்கொண்ட சுற்றிவளைப்பின் போதே இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட பிக்கு வெலிவேரிய பிரதேசத்தில் வசித்துவருவதோடு, மற்றைய சந்தேக நபர்கள் 72 வயதுடையவர் எனவும்,  பிரபல அரசியல் கட்சியொன்றின் உள்ளூர் அரசியல்வாதி ஒருவரின் தந்தை எனவும் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/91a190de.json)
 
 ---
 
@@ -352,6 +602,10 @@ The remaining 170 arrests addressed outstanding warrants issued by the criminal 
 
 Of these, 18 individuals were wanted for prior drug offenses, and the remaining 145 suspects faced warrants for various non-drug-related offenses.
 
+Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+
+Environment Ministry in President’s charge by way of Extraordinary Gazette
+
 ◼️
 
 [Data](articles/8f79b406.json)
@@ -428,6 +682,10 @@ Accordingly, all persons who have not changed their permanent residence, who hav
 
 Ratnayake said the names of family members who are overseas should also be included in the electoral register, regardless of whether or not they can vote.
 
+Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+
+Environment Ministry in President’s charge by way of Extraordinary Gazette
+
 ◼️
 
 [Data](articles/41cc10f9.json)
@@ -498,6 +756,28 @@ The bus operators also allege that no legal action has been taken against the re
 
 ---
 
+### Sri Lanka rupee trades at 313.50/314.00 to the US dollar
+
+*2024-02-08 11:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-at-313-50-314-00-to-the-us-dollar-150347/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading at 313.50/314.00 to the US dollar Thursday, from 313.00/50 on Wednesday, dealers said.
+
+A bond maturing on 01.02.2026 was quoted at 10.95/11.05 down from 11.05/20 percent.
+
+A bond maturing on 15.09.2027 was quoted at 11.50/75 down from 11.95/12.10 percent.
+
+A bond maturing on 15.03.2028 was quoted at 12.00/15 down from 12.15/25 percent.
+
+A bond maturing on 15.05.2030 was quoted at 12.50/13.00 from 12.60/80 percent.
+
+The Colombo Stock Exchange was trading up; The All Share Price Index was up 0.29 percent at 10,558, and the S&P SL20 was up 0.79 percent at 3,020 in mid-morning trade. (Colombo/Feb8/2024)
+
+◼️
+
+[Data](articles/aa472854.json)
+
+---
+
 ### Police Seize Pagoda-Shaped Sapphires Suspected to be Looted Treasure
 
 *2024-02-08 11:24:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/police-seize-pagoda-shaped-sapphires-suspected-to-be-looted-treasure/) · `en`
@@ -516,7 +796,7 @@ It is currently believed that these gems may have been procured through such ill
 
 The Koslanda Police are conducting further investigations into this matter.
 
-◼️
+...
 
 [Data](articles/07da85aa.json)
 
@@ -540,7 +820,9 @@ The male and female suspects held in this operation were identified as residents
 
 The accused, along with Pregabalin capsules, were handed over to the Silawathura Police for onward legal action.
 
-◼️
+Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+
+...
 
 [Data](articles/7a976427.json)
 
@@ -636,7 +918,7 @@ Three police officers have been interdicted in connection with the alleged poiso
 
 They had been arrested by the police over a recent shooting incident that took place in Jinthupitiya.
 
-Two assailants on a motorcycle had opened fire in Jinthupitiya on January 25, leaving a youth injured. The gunman had escaped the crime scene while the bystanders captured his accomplice. The fleeing gunman was later apprehended in Dambana and was brought to the Aduruppu Veediya police station for interrogation.
+Two assailants on a motorcycle had opened fire in Jinthupitiya on January 25, leaving a youth injured. The gunman had escaped the crime scene while the bystanders captured his accomplice. The fleeing gunman was later apprehended in Dambadeniya and was brought to the Aduruppu Veediya police station for interrogation.
 
 Later, another suspect was also taken into custody for aiding and abetting the shooting.
 
@@ -748,7 +1030,9 @@ His swearing-in  marks the official transfer of the seat previously held by San
 
 Priyankara is also the Puttalam district leader of the National Freedom Front, a party led by Wimal Weerawansa.
 
-◼️
+Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+
+...
 
 [Data](articles/7115d107.json)
 
@@ -1149,6 +1433,10 @@ It is also reported from five persons who were abused and duties were to be hand
 *2024-02-08 10:09:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/talk-of-the-town-ending-impunity-janaka-ratnayake-08-february-2024/) · `en`
 
 Talk of the Town | Ending Impunity | Janaka Ratnayake | 08 February 2024
+
+Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
+
+Environment Ministry in President’s charge by way of Extraordinary Gazette
 
 ◼️
 
@@ -1739,277 +2027,5 @@ The decision was taken at a special Monetary Board meeting held yesterday, after
 [Data](articles/28a9f50b.json)
 
 [Extended Data](ext_articles/28a9f50b.ext.json)
-
----
-
-### Businessman and doctor abducted
-
-*2024-02-08 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193113) · `si`
-
-Police Media Division states that two persons were reported to be abducted in two locations yesterday.
-
-The Matara Police Station had a complaint that five people who had been abducted in Matara in Matara yesterday morning.
-
-Subsequently, the suspects were later taken into custody by five suspects who were abducted in the Malimbada Police Division.
-
-The arrested suspects are residents of Denipitiya and the Thelijenthawila area in the age of 28, 30, 37 and 50.
-
-The abducted businessman was in attendance at the opening of a new branch in the Matara area.
-
-The police investigation revealed that the abduction was carried out on a cash dispute.
-
-Meanwhile, according to a complaint lodged with the Police Relief, police had commenced investigations into a complaint made by a doctor abducted and pride in Hikkaduwa.
-
-According to information received by the police, the doctor was abducted while inspection of a house in the Talwatta area in Meetiyagoda.
-
-...
-
-[Data](articles/f6225f0f.json)
-
-[Extended Data](ext_articles/f6225f0f.ext.json)
-
----
-
-### President visits an official visit to Australia
-
-*2024-02-08 07:47:58* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ඔස්ට්‍රේලියාවේ-නිල-සංචාරයකට/11-407957) · `si`
-
-President Ranil Wickremesinghe left for Australia from the Bandaranaike International Airport this morning to attend the 7th Indian Ocean Conference on the Indian Foundation and the Australian Government invitation.
-
-The convention will be held from the 9 to 10th to 10 to 10 pm.
-
-◼️
-
-[Data](articles/16d5605d.json)
-
-[Extended Data](ext_articles/16d5605d.ext.json)
-
----
-
-### 122 buses remove from running
-
-*2024-02-08 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193112) · `si`
-
-The buses along the Avissawella - Pettah (122) road have been removed from the road.
-
-60 buses along the 122 road have been dismissed from running today (08).
-
-When a bus belonging to the Depositor of Homagama and his staff, a group of people had been assaulted by a group of people in the Godagama area.
-
-However, no suspects have been arrested yet and in response to the bus.
-
-◼️
-
-[Data](articles/52f5ac5e.json)
-
-[Extended Data](ext_articles/52f5ac5e.ext.json)
-
----
-
-### Pakistani General Elections today
-
-*2024-02-08 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193111) · `si`
-
-The vote in the 12th general election of Pakistan is scheduled to be held today (08).
-
-It is reported that 128 million voters are eligible to vote for this year's general election.
-
-However, two bomb explosions occurred yesterday (07) last day yesterday.
-
-28 people were killed and another large number of injured.
-
-Two bombs were blown in two motorbikes near two electoral candidates.
-
-◼️
-
-[Data](articles/9b706f21.json)
-
-[Extended Data](ext_articles/9b706f21.ext.json)
-
----
-
-### Sri Lankans who went to India at the stagnation
-
-*2024-02-08 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193110) · `si`
-
-Five other Sri Lankans in India have been arrested in India's Rameswaran, India.
-
-The group had arrested the group in the Aryicmone coast.
-
-The five Sri Lankans who were arrested belong to the same family, and three small children are among them.
-
-They have been taken to a rehabilitation camp in the pavilipa.
-
-Accordingly, 294 Sri Lankans have come to India by sea and two of them have died.
-
-◼️
-
-[Data](articles/d2827183.json)
-
-[Extended Data](ext_articles/d2827183.ext.json)
-
----
-
-### President Ranil embarks on official visit to Australia
-
-*2024-02-08 07:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97099/president-ranil-embarks-on-official-visit-to-australia) · `en`
-
-President Ranil Wickremesinghe left the island this morning (Feb.08) for Australia on a state visit.
-
-At the invitation of the India Foundation and the Government of Australia, the Sri Lankan leader will deliver the keynote address for the 7th Indian Ocean Conference, taking place in Perth from Feb. 09-10.
-
-While attending the Indian Ocean Conference, Wickremesinghe is also expected to explore investment opportunities for Sri Lanka, according to the President’s Media Division (PMD).
-
-◼️
-
-[Data](articles/46118b56.json)
-
-[Extended Data](ext_articles/46118b56.ext.json)
-
----
-
-### President leaves for Australia
-
-*2024-02-08 07:10:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/president-leaves-for-australia/) · `en`
-
-COLOMBO (News 1st); President Ranil Wickremesinghe has left for Australia.
-
-The Head of State is visiting Australia to participate in the 7th Indian Ocean Conference, based on an invitation to deliver the keynote address.
-
-The 7th edition of the Conference is being organized by India Foundation in association with the Ministry of External Affairs, Government of India, Department of Foreign Affairs and Trade, Government of Australia, S. Rajaratnam School of International Studies, Singapore, and Perth USAsia Centre on February 9 -10, 2024, in Perth, Australia.
-
-With the theme “Towards a Stable and Sustainable Indian Ocean”, the Conference will bring together key stakeholders to chart the roadmap for strengthening regional cooperation.
-
-◼️
-
-[Data](articles/9d97adfb.json)
-
-[Extended Data](ext_articles/9d97adfb.ext.json)
-
----
-
-### Adjournment debate on policy statement today (08)
-
-*2024-02-08 07:08:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/adjournment-debate-on-policy-statement-today-08/) · `en`
-
-COLOMBO (New 1st); The Parliament adjournment debate on the policy statement presented by the President following the ceremonial opening of the fifth session of the Ninth Parliament commences on Thursday (08).
-
-Parliament proceedings are scheduled to commence at 9.30am on Thursday (08).
-
-The special feature of an adjournment proposal is that a vote will not be held.
-
-In the past, after the government's policy statement or throne speech was delivered, a poll was held at the end of the debate, but after 1978, no debate was held.
-
-On Wednesday (07), in a speech marking the opening of the fifth session of the Ninth Parliament, President Ranil Wickremesinghe extended a renewed invitation to all political parties to unite in rebuilding the nation, facing numerous economic and social challenges.
-
-The President expressed openness to alternative approaches, noting that if there are better methods than the current policies, he is ready to consider them in depth.
-
-...
-
-[Data](articles/809e645a.json)
-
-[Extended Data](ext_articles/809e645a.ext.json)
-
----
-
-### Law tightens police officers who are being misused
-
-*2024-02-08 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193109) · `si`
-
-Acting Inspiration Inspector Tennakoon says it has revealed the police officers with criminal gang members.
-
-He points out that the law does not hesitate to implement the law without violence against those officers.
-
-The acting IGP has also revealed that information has been revealed about several police officers who supported the criminal gang leader Nadu Chintaka or awarded the beef.
-
-Speaking to the media in Bambalapitiya
-
-◼️
-
-[Data](articles/48758819.json)
-
-[Extended Data](ext_articles/48758819.ext.json)
-
----
-
-### SJB vies for Indian favor ahead of Presidential Elections following NPP move
-
-*2024-02-08 07:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SJB-vies-for-Indian-favor-ahead-of-Presidential-Elections-following-NPP-move/155-276564) · `en`
-
-Colombo, Feb 8 (Daily Mirror) - Hot on the heels of the National People’s Power (NPP) undertaking a familiarization tour of India with interactions with the top Indian officials, the main opposition Samagi Jana Balawegaya (SJB) has sought a similar opportunity from India, Daily Mirror learns.
-
-The NPP led by its leader Anura Kumara Dissanayake is currently in India on a five –day tour. The NPP leaders have already held talks with Indian External Affairs Minister Dr.S.Jaishankar, National Security Advisor Ajit Doval and Foreign Secretary Vinay Mohan.
-
-They were supposed to meet Chief Minister of Gujarat Bupendra Patel yesterday. Afterwards, they were expected to arrive in Kerala.
-
-Sensing the political mileage from such engagements in India for a party like the NPP ahead of the presidential election, the SJB has sought a similar visit. According to an informed source, India has responded favourably to the request.
-
-...
-
-[Data](articles/a8cc76bc.json)
-
-[Extended Data](ext_articles/a8cc76bc.ext.json)
-
----
-
-### 42 including pickpockets and ‘perverts’ nabbed in operation to curb public transport harassment
-
-*2024-02-08 07:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97098/42-including-pickpockets-and-perverts-nabbed-in-operation-to-curb-public-transport-harassment) · `en`
-
-A total of 42 suspects have been arrested in a special island-wide operation to curb harassment on public transport on Wednesday (Feb.07).
-
-Among the arrestees are 18 suspects accused of sexual harassment and 5 pickpockets.
-
-The special operation was mounted by policemen in civvies on public transport services, according to Acting IGP Deshabandu Tennakoon.
-
-◼️
-
-[Data](articles/fff64923.json)
-
-[Extended Data](ext_articles/fff64923.ext.json)
-
----
-
-### 18 sexually violence arrested in public transport
-
-*2024-02-08 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193108) · `si`
-
-In general, children and women have arrested 42 persons yesterday (07), reports specialized by children and women.
-
-The Ministry of Defense stated that 18 persons have been arrested in public transport.
-
-In addition, 24 people including tiered cutters have also been arrested.
-
-According to the People's Ministry of Defense, several civilian garment police officers have joined the operation from 8.00 am to 10.00 am to 10.00 am and 5.00 pm.
-
-◼️
-
-[Data](articles/76417e1c.json)
-
-[Extended Data](ext_articles/76417e1c.ext.json)
-
----
-
-### Shotguns to control wild boar, toque monkeys, giant squirrels
-
-*2024-02-08 06:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shotguns-to-control-wild-boar-toque-monkeys-giant-squirrels/108-276563) · `en`
-
-Colombo, Feb 8 (Daily Mirror) - The Agriculture Ministry has decided to reduce the extent of five acres stipulated earlier, to two acres of farmland for their owners to qualify to own shotguns to protect their crops.
-
-The Ministry said that most farmers have abandoned their crops since wild boar, toque monkeys and giant squirrels have destroyed their crops, and the damage caused has exceeded fifty percent.
-
-Therefore, the government has to implement the proposal of the farmers, as there is currently no viable alternative to reduce damages caused by wildlife.
-
-In 2023, wild animals have destroyed 300 million coconut plantations in the country, the Ministry claimed.
-
-In 2022, 96 million coconuts were destroyed by toque monkeys and giant squirrels. It has been confirmed that these wild animals destroy about 40 percent of the total crops.
-
-"If we can protect crops from wild animals, we can be self-sufficient in food without cultivating new crops," the Ministry said.
-
-...
-
-[Data](articles/d798c85c.json)
-
-[Extended Data](ext_articles/d798c85c.ext.json)
 
 ---

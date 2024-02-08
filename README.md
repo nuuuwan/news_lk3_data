@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 03:02:23**
+As of **2024-02-09 03:17:20**
 
 ## Newspaper Stats
 
@@ -26,79 +26,91 @@ dailymirrorlk | 834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,835 (99.9%) of 5,839 articles have been extended.
+5,839 (100.0%) of 5,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### பயங்கரவாத எதிர்ப்பு சட்டமூலம்: 30 மனுக்கள் தாக்கல்
+### Anti -Terrorism Bill: 30 petitions
 
 *2024-02-09 02:28:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-எதிர்ப்பு-சட்டமூலம்-30-மனுக்கள்-தாக்கல்/175-332931) · `ta`
 
-'பயங்கரவாத எதிர்ப்பு' எனும் சட்டமூலம் தொடர்பாக உயர் நீதிமன்றத்திற்கு இதுவரை 30 மனுக்கள் தாக்கல் செய்யப்பட்டுள்ளதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன சபைக்கு அறிவித்தார்.
+Speaker Mahinda Yapa Abeywardena informed the House that 30 petitions have been filed for the Supreme Court regarding the 'anti -terrorism' Bill.
 
-பாராளுமன்றம் நேற்று வியாழக்கிழமை காலை 9.30 மணிக்கு சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் கூடியதையடுத்து  இடம்பெற்ற சபாநாயகர் அறிவிப்பின் போதே இதனை சபைக்கு அறிவித்த சபாநாயகர் மேலும் கூறுகையில்,
+The Speaker further stated that the Speaker announced the announcement to the House of Representatives at 9.30 am on Thursday at 9.30 am.
 
-2024 சனவரி 23 ஆம் திகதிய எனது அறிவித்தலில் குறிப்பிடப்பட்ட ஆறு மனுக்கள் மற்றும் 2024 சனவரி 24 ஆம் திகதிய எனது அறிவித்தலில் குறிப்பிடப்பட்ட பதினெட்டு மனுக்களுக்கு மேலதிகமாக, அரசியலமைப்பின் 121(1) ஆம் உறுப்புரையின் பிரகாரம் “பயங்கரவாத எதிர்ப்பு” எனும் சட்டமூலம் தொடர்பாக உயர் நீதிமன்றத்திற்குச் சமர்ப்பிக்கப்பட்ட மேலும் 6 மனுக்களின் பிரதிகள் எனக்குக் கிடைத்துள்ளன என்றார்.
+Six petitions mentioned in my announcement on January 23, 2024 and the eighteen petitions mentioned in my announcement on January 24, 2024, in addition to the Article 121 (1) of the Constitution.
 
 ◼️
 
 [Data](articles/e09d642d.json)
 
+[Extended Data](ext_articles/e09d642d.ext.json)
+
 ---
 
-### தேர்தலில் அதிகாரங்களை கைப்பற்றுவதற்காக மனித உரிமைகளை ரணில் மீறிவருகின்றார் - கஜேந்திரகுமார்
+### Ranil is violating human rights to seize power in elections -Gajendrakumar
 
 *2024-02-09 01:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175938) · `ta`
 
-தேர்தலில் அதிகாரங்களைக் கைப்பற்றுவதற்காக ஜனாதிபதி ரணில் விக்கிரமசிங்க கடுமையான மனித உரிமைகள் மீறல்களைச் செய்துவருவதாகத் தமிழ்த் தேசிய மக்கள் முன்னணியின் தலைவரும் யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலம் தெரிவித்தார்.
+President of the Tamil National People's Front and Jaffna MP Gajendrakumar Ponnambalam said that President Ranil Wickremesinghe is making serious human rights violations to seize power in the election.
 
-அமெரிக்காவுக்கு விஜயம் செய்துள்ள அவர் புதன்கிழமை (9) அமெரிக்க காங்கிரஸ் உறுப்பினர்களான சமர் அலி, லிகான் ஓமா ஆகிய இருவருடனும் -  அதன் பின்னர் மற்றொரு உறுப்பினரான டொன் டேவிஸுடனும் சந்திப்பை நடத்தினார்.
+He visited the United States on Wednesday (9) with US Congress members Samar Ali and Ligan Oma -and then with another member Don Davis.
 
-பூகோள அரசியல் காரணமாக இலங்கைத் தீவை மையப்படுத்திய போட்டித்தன்மையிலே சீனாவைக் கட்டுப்படுத்த வேண்டும் என்ற பார்வையிலே அமெரிக்காவுடைய நிர்வாகம் இயங்குவதாக நாங்கள் கருதுகின்றோம்.
+We feel that the US administration is working in the view that China should be controlled by the global politics of Sri Lanka.
+
+Ranil Wickremesinghe is considered a pro -Western countries and countries like India;Ranil Wickremesinghe has been using these opportunities this year, despite all the policies that can be important to democracy, such as the rule of the law - the rule of law.. In addition, he brings all the worst brutal laws.
 
 ...
 
 [Data](articles/309a8bad.json)
 
+[Extended Data](ext_articles/309a8bad.ext.json)
+
 ---
 
-### பாரதியார் பாடலைப்பாடி 'ஒற்றுமை' வகுப்பெடுக்கும் ரணில்; பாரததேசத்தைப் போன்று அதிகாரங்களைப் பகிர்ந்தளிக்க முன்வருவாரா?  - ரவிகரன்
+### Bharathiyar song 'Unity' Ranil;Will he come forward to distribute powers like Bharathasa?- Ravikaran
 
 *2024-02-09 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/175937) · `ta`
 
-பாரதியாரின் பாடலைப்பாடி ஒற்றுமை பற்றி வகுப்பெடும் அரசதலைவர் ரணில் விக்ரமசிங்கவால் பாரததேசத்தைப்போன்று முழுமையாக அதிகாரங்களை பகிர்ந்தளிக்க முடியுமா? என முன்னாள் வடமாகாணசபை உறுப்பினர் துரைராசா ரவிகரன் கேள்வி எழுப்பியுள்ளார்.
+Can Ranil Wickremesinghe, who is the one who is the unity of Bharatiyar's song, be able to share powers like Bharathasa?Former Northern Provincial Council member Durairasa Ravikaran has questioned.
 
-அதேவேளை இலங்கை அரசியல் வரலாற்றில் தமிழ்பேசும் சிறுபான்மைச்சமூகம் ஏற்றுக்கொள்ளக்கூடிய அர்த்தமுள்ள அதிகாரப்பகிர்வை வழங்காது, பெரும்பாண்மையின ஆட்சியாளர்கள் தொடர்ந்து தமிழ்பேசும் மக்களுக்குத் துரோகமிழைத்துவருவதாகவும் அவர் இதன்போது சுட்டிக்காட்டியுள்ளார்.
+At the same time, he pointed out that the Tamil language and minority community in Sri Lankan politics does not provide acceptable meaningful power and the majority of the rulers continue to betray the Tamil people.
 
-ஒன்பதாவது பாராளுமன்றத்தின், ஐந்தாவது கூட்டத்தொடரின் ஆரம்ப நிகழ்வில் அரசதலைவர் ரணில் விக்ரமசிங்க ஆற்றிய கொள்கைவிளக்கவுரை தொடர்பில் ஊடகங்களுக்கு கருத்துத் தெரிவிக்கையிலேயே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+He was speaking to the media on the policy of President Ranil Wickremesinghe at the inauguration of the fifth session of the ninth parliament.
 
-ஒன்பதாவது பாராளுமன்றத்தின், ஐந்தாவது கூட்டத்தொடரின் ஆரம்ப நிகழ்வில் அரசதலைவர் ரணில் விக்ரமசிங்க கொள்கைவிளக்கவுரையாற்றியிருந்தார்.
+President Ranil Wickremesinghe made a policy march at the inaugural event of the fifth session of the ninth parliament.
 
-அரசதலைவர் குறித்த தனது கொள்கைவிளக்கவுரையிலே நாட்டைக் கட்டியெழுப்பும் கனவை நனவாக்க தமிழ், முஸ்லிம் கட்சிகள் உட்பட அனைத்துக் கட்சிகளும் ஒன்றுபட அழைப்பு விடுத்திருந்தார்.
+All parties, including the Tamil and Muslim parties, have united to make the country the dream of building the country in his policymaker on the head of state.
+
+At the same time, the Bharatiyar's lyrics, which express unity, are not united for the future of the younger community of our country?He also questioned.
 
 ...
 
 [Data](articles/1893ac70.json)
 
+[Extended Data](ext_articles/1893ac70.ext.json)
+
 ---
 
-### கப்பல்களுக்கு மீண்டும் எரிபொருள் வழங்க ஆரம்பித்ததன் மூலம் 03 மில்லியன் டொலர் வருமானம் - மின்சக்தி மற்றும் வலுசக்தி இராஜாங்க அமைச்சர் டி.வீ சானக
+### $ 03 million by starting fuel for ships - Minister of Electricity and Power
 
 *2024-02-09 01:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175936) · `ta`
 
-கப்பல்களுக்கான எரிபொருள் நிரப்பும் செயல்பாடுகளை (bunkering system) மீள ஆரம்பித்ததன் மூலம் 5,200 மெற்றிக் டொன் எரிபொருளை விற்பனை செய்து 03 மில்லியன் டொலர்கள் வருமானம் ஈட்ட  முடிந்ததாக மின்சக்தி மற்றும் வலுசக்தி இராஜாங்க அமைச்சர் டி. வீ. சானக தெரிவித்தார்.
+Minister of Electricity and Power and Energy T.. Wii. Said Chanaka.
 
-வலுசக்தி தேவைகளுக்காக 200 மில்லியன் டொலர்கள் மேலதிகக் கையிருப்பு பேணப்படுவதாகும்  அவர் தெரிவித்தார்.
+He said that $ 200 million is the main reserves for strength requirements.
 
-ஜனாதிபதி ஊடக மையத்தில் வியாழக்கிழமை (08) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் டி.வீ சானக இவ்வாறு தெரிவித்தார்.
+Minister of State TV Chanaka said this at a media briefing held at the Presidential Media Center on Thursday (08).
 
-கடினமான பொருளாதார நெருக்கடியை எதிர்கொண்டு நாடு படிப்படியாக மீண்டு வரும் சூழ்நிலையில் நாம் தற்போது இருக்கிறோம். ஒரு காலத்தில் நாம் அனைவரும் எரிபொருள் வரிசையில் நின்றோம். அனைவரின் அர்ப்பணிப்புடன், நிலையான எரிபொருள் விநியோகத்தைப் பேண முடிந்துள்ளது. அண்மைக்கால வரலாற்றில் தற்போது மிகப்பெரிய அளவிலான எரிபொருள் கையிருப்பு வைத்திருக்கிறோம். பெட்ரோலியக் கூட்டுத்தாபனத்தின் டொலர்களின் சேமிப்பையும் எம்மால் பேண முடிந்துள்ளது.
+We are currently in a situation where the country is gradually recovering from the difficult economic crisis. Once upon a time we all stood in the fuel line. With everyone's commitment, the standard fuel supply is over. We have the largest fuel stockpile in recent history. We have also maintained the savings of the petroleum corporation's dollars.
 
 ...
 
 [Data](articles/f65d08f8.json)
+
+[Extended Data](ext_articles/f65d08f8.ext.json)
 
 ---
 

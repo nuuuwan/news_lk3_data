@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 14:02:29**
+As of **2024-02-08 14:17:29**
 
 ## Newspaper Stats
 
-*Scraped **5,704** Articles*
+*Scraped **5,707** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 299
 dailyftlk | 316
 newsfirstlk | 353
 adalk | 480
-virakesarilk | 701
+virakesarilk | 704
 adaderanalk | 704
 tamilmirrorlk | 710
 adaderanasinhalalk | 751
@@ -26,11 +26,39 @@ dailymirrorlk | 808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,704 (100.0%) of 5,704 articles have been extended.
+5,704 (99.9%) of 5,707 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### வெலிக்கடை விளக்கமறியல் சிறைச்சாலை கைதி சிறைக்காவலர் மீது தாக்குதல்!
+
+*2024-02-08 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175885) · `ta`
+
+வெலிக்கடை விளக்கமறியல் சிறைச்சாலையில் தடுத்து வைக்கப்பட்டுள்ள கைதி ஒருவர் தாக்கியதாகல் சிறைக்காவலர் ஒருவர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+தாக்குதலினால்  வலது கையில் காயம் ஏற்பட்டுள்ளதாகவும்  விளக்கமறியலில்  சிறைச்சாலையின் பொறுப்பதிகாரியின் ஆலோசனையின் பேரில் அவர் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் வைத்தியசாலை பேச்சாளர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/c013d41a.json)
+
+---
+
+### பெலியத்தவில்  ஐவர் படுகொலை : மேலும் ஒருவர் பொலிஸில் சரண்!
+
+*2024-02-08 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175886) · `ta`
+
+பெலியத்தவில்  ஐவர் படுகொலை செய்யப்பட்ட சம்பவத்துடன் தொடர்புடைய 24 வயதுடைய மற்றுமொரு சந்தேக நபர் பெலியத்த பொலிஸில் சரணடைந்த பின்னர் கைது செய்யப்பட்டுள்ளார்.
+
+இந்தச் சம்பவத்துக்கு பயன்படுத்திய துப்பாக்கியைச் சந்தேக நபர்  கம்புறுபிட்டியவில் உள்ள தனது  உறவினர் வீட்டில் மறைத்து வைத்து பின்னர் காலிக்கு கொண்டு சென்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/8fc77f85.json)
+
+---
 
 ### Sri Lanka in talks to push wind projects forward, minister says
 
@@ -52,6 +80,24 @@ The cash-strapped south Asian island nation, which has suffered from crippling p
 
 ---
 
+### வேகமாகச் சென்ற மோட்டார் சைக்கிள் கட்டுப்பாட்டையிழந்து விபத்துக்குள்ளானதில் இளைஞர் உயிரிழப்பு!
+
+*2024-02-08 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175881) · `ta`
+
+மோட்டார் சைக்கிள் வீதியை விட்டு விலகி மதிலில் மோதி விபத்துக்குள்ளானதில் இளைஞர் ஒருவர் உயிரிழந்துள்ளதாக களுத்துறை தெற்கு பொலிஸார் தெரிவித்தனர்.
+
+விபத்தில் உயிரிழந்தவர் களுத்துறை கட்டுகுருந்த பிரதேசத்தைச் சேர்ந்த பிரவீன் விஸ்வஜித்  என்ற 19 வயதுடையவர் என பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்த இளைஞன் களுத்துறையிலிருந்து ஹீனடியாகல நோக்கிச் சென்று கொண்டிருந்தபோது மோட்டார் சைக்கிள்  கட்டுப்பாட்டை இழந்து ஹீனடியாகல பாலத்துக்கு அருகிலிருந்த மதிலில்  மோதியுள்ளது.
+
+இதனையடுத்து  பலத்த காயமடைந்த இளைஞர்  களுத்துறை நாகொட போதனா வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட நிலையில் உயிரிழந்துள்ளதாக  வைத்தியசாலை பேச்சாளர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/e302b0cb.json)
+
+---
+
 ### Suspect in the five murder surrenders to police
 
 *2024-02-08 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193130) · `si`
@@ -65,6 +111,40 @@ The firearms used for shooting say that the suspect in Kamburupitiya has been hi
 [Data](articles/0bb3d802.json)
 
 [Extended Data](ext_articles/0bb3d802.ext.json)
+
+---
+
+### 3 police suspended from Ambu Street Police Station in Colombo
+
+*2024-02-08 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/175878) · `ta`
+
+Three policemen from the Colombo Street Street Police Station have been suspended.
+
+It is reported that two suspects who were arrested and detained at the police station have been suspended from work in connection with the incident of a poisonous milk package.
+
+◼️
+
+[Data](articles/9011ab6f.json)
+
+[Extended Data](ext_articles/9011ab6f.ext.json)
+
+---
+
+### 37 crores worth of gemstones;Two persons including Thera
+
+*2024-02-08 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/175871) · `ta`
+
+Based on information provided by the military intelligence, Koslanda police have seized 2 blue stones illegally when they tried to illegally.
+
+Two persons, including a Thera of Weliweriya, have been arrested by Koslanda police in connection with the incident as the seized gem stones were to be sold for about Rs 37 crore during the raid.
+
+The arrested gem stones have been revealed in the form of Vihara. Koslanda police are conducting further investigations.
+
+◼️
+
+[Data](articles/52cd0907.json)
+
+[Extended Data](ext_articles/52cd0907.ext.json)
 
 ---
 
@@ -117,22 +197,6 @@ He is a graduate of the Sri Lanka Defense Services Command and Staff College.
 [Data](articles/eb9e556e.json)
 
 [Extended Data](ext_articles/eb9e556e.ext.json)
-
----
-
-### 3 police suspended from Ambu Street Police Station in Colombo
-
-*2024-02-08 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/175878) · `ta`
-
-Three policemen from the Colombo Street Street Police Station have been suspended.
-
-It is reported that two suspects who were arrested and detained at the police station have been suspended from work in connection with the incident of a poisonous milk package.
-
-◼️
-
-[Data](articles/9011ab6f.json)
-
-[Extended Data](ext_articles/9011ab6f.ext.json)
 
 ---
 
@@ -383,24 +447,6 @@ In further investigations have revealed that the suspect had been swolled by the
 [Data](articles/4e734ffa.json)
 
 [Extended Data](ext_articles/4e734ffa.ext.json)
-
----
-
-### 37 crores worth of gemstones;Two persons including Thera
-
-*2024-02-08 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175871) · `ta`
-
-Based on information provided by the military intelligence, Koslanda police have seized 2 blue stones illegally when they tried to illegally.
-
-Two persons, including a Thera of Weliweriya, have been arrested by Koslanda police in connection with the incident as the seized gem stones were to be sold for about Rs 37 crore during the raid.
-
-The arrested gem stones have been revealed in the form of Vihara. Koslanda police are conducting further investigations.
-
-◼️
-
-[Data](articles/52cd0907.json)
-
-[Extended Data](ext_articles/52cd0907.ext.json)
 
 ---
 
@@ -1959,67 +2005,5 @@ In 2022, 96 million coconuts were destroyed by toque monkeys and giant squirrels
 [Data](articles/d798c85c.json)
 
 [Extended Data](ext_articles/d798c85c.ext.json)
-
----
-
-### Adjournment Debate on Policy Statement Today
-
-*2024-02-08 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193106) · `si`
-
-The Adjournment Debate on the government's policy statement made by President Ranil Wickremesinghe is due to commence today (08).
-
-The debate will be held from 9.30 am to 5.30 am to 5.30 pm today.
-
-The proposal under the essential public service act is due to be approved without debate.
-
-President Ranil Wickremesinghe commenced yesterday under the patronage of President Ranil Wickremesinghe.
-
-However, with the afterde of the president, a group of opposition parties including a group of members of the opposition were present at the Chamber.
-
-However, Parliamentarian Tissa Attanayake said that his party MPs participate in the post of Adjournment Debate on the government's policy statement today.
-
-◼️
-
-[Data](articles/988614a3.json)
-
-[Extended Data](ext_articles/988614a3.ext.json)
-
----
-
-### President to Australia
-
-*2024-02-08 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193105) · `si`
-
-President Ranil Wickremesinghe has left for Australia for an official visit.
-
-The President has left the President to the Raven 7th Ocean Conference in Perth, the Presidential Media Unit today (08), the Presidential Media Unit said.
-
-The Indian Ocean Conference will be held tomorrow (09) and tomorrow (10) at Perth, Australia.
-
-President Ranil Wickremesinghe will join the visit on the official invitation of the Indian Foundation and Australian Government's official invitation.
-
-The President is also expected to look into investment opportunities in Sri Lanka during the visit.
-
-◼️
-
-[Data](articles/62bbb1d3.json)
-
-[Extended Data](ext_articles/62bbb1d3.ext.json)
-
----
-
-### Rainy weather
-
-*2024-02-08 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193104) · `si`
-
-The Department of Meteorology says that there will be a key weather in the island mainly.
-
-Some locations can last a morning in the middle of the Central, Sabaragamuwa and Western provinces and in the Galle and Matara districts.
-
-◼️
-
-[Data](articles/1ff0a79e.json)
-
-[Extended Data](ext_articles/1ff0a79e.ext.json)
 
 ---

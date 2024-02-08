@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 15:02:25**
+As of **2024-02-08 15:17:08**
 
 ## Newspaper Stats
 
-*Scraped **5,728** Articles*
+*Scraped **5,731** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ islandlk | 299
 economynextcom | 302
 dailyftlk | 316
 newsfirstlk | 359
-adalk | 480
-virakesarilk | 704
+adalk | 482
+virakesarilk | 705
 adaderanalk | 707
 tamilmirrorlk | 712
 adaderanasinhalalk | 751
@@ -26,11 +26,29 @@ dailymirrorlk | 814
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,720 (99.9%) of 5,728 articles have been extended.
+5,728 (99.9%) of 5,731 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### ரணில் மூளைச்சலுவை செய்ததால் தான் அனுரகுமர இந்தியா சென்றுள்ளார் -  அமைச்சர் நிமால்
+
+*2024-02-08 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175894) · `ta`
+
+ஜனாதிபதி ரணில்விக்கிரமசிங்க தேசிய மக்கள் சக்தியை மூளைச்சலவை செய்துள்ளார் அதன் காரணமாகவே தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமாரதிசநாயக்க இந்திய தலைவர்களை சந்திக்க சென்றுள்ளார் என அமைச்சர் நிமால் சிறிபால டி சில்வா நாடாளுமன்றத்தில் தெரிவித்துள்ளார்.
+
+இந்தியாவின் ஆதிக்கம் குறித்து உரையாற்றிய தேசியமக்கள் சக்தியின் தலைவர்கள் இதன் காரணமாகவே இந்தியா சென்றுள்ளனர் என அவர் குறிப்பிட்டுள்ளார்.
+
+பழைய ஆடைகளை அணிந்தவர்கள் கோட் அணிகின்றனர் இது குறித்து நாங்கள் மகிழ்ச்சியடைகின்றோம்  இது ரணில் விக்கிரமசிங்க மூளைச்சலவை செய்ததால் ஏற்பட்ட மாற்றம் எனவும் அர் தெரிவித்துள்ளார்.
+
+அதானி குழுமத்துடன் இணைந்து செயற்படுவதற்காக தேசிய மக்கள் சக்தியின் தலைவர்கள் எவ்வாறு அரசாங்கத்தை விமர்சித்தார்கள் என்பது எங்களிற்கு தெரியும் எனவும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/f5af2139.json)
+
+---
 
 ### US drone strike kills Iran-backed militia leader in Baghdad
 
@@ -56,6 +74,8 @@ One of the victims has been identified as Abu Baqir al-Saadi, a senior commander
 
 [Data](articles/704e32c2.json)
 
+[Extended Data](ext_articles/704e32c2.ext.json)
+
 ---
 
 ### CEB, Rividhanavi ink agreement for 100MW Ground Mount Solar project
@@ -77,6 +97,8 @@ Rividhanavi (Pvt) Ltd. is a consortium of shareholders, Lakdhanavi Ltd., Windfor
 ◼️
 
 [Data](articles/b16a7c4d.json)
+
+[Extended Data](ext_articles/b16a7c4d.ext.json)
 
 ---
 
@@ -115,6 +137,8 @@ It said that high-quality Sri Lankan leather goods in the range of leather glove
 ◼️
 
 [Data](articles/c72f9cf9.json)
+
+[Extended Data](ext_articles/c72f9cf9.ext.json)
 
 ---
 
@@ -175,6 +199,8 @@ Speaking during the adjournment debate on the government policy statement, he to
 ...
 
 [Data](articles/63dfeb0c.json)
+
+[Extended Data](ext_articles/63dfeb0c.ext.json)
 
 ---
 
@@ -366,6 +392,8 @@ The female doctor is to undergo examination by the Judicial Medical Officer at t
 
 [Data](articles/40c126e0.json)
 
+[Extended Data](ext_articles/40c126e0.ext.json)
+
 ---
 
 ### Kusal Mendis to lead SL against Afghanistan in ODI series
@@ -432,6 +460,8 @@ He also said that around 200,000 tourists had visited Sri Lanka during the last 
 
 [Data](articles/94f23c97.json)
 
+[Extended Data](ext_articles/94f23c97.ext.json)
+
 ---
 
 ### 42 arrested over harassing women and children on public transport
@@ -496,6 +526,8 @@ One of the suspects who fell ill is the suspect who had allegedly shot and kille
 
 [Data](articles/1d762a6e.json)
 
+[Extended Data](ext_articles/1d762a6e.ext.json)
+
 ---
 
 ### Sri Lanka govt expediting development projects targeting election: PAFFREL
@@ -515,6 +547,30 @@ He urged Prime Minister Dinesh Gunawardena who hold the local government portfol
 [Data](articles/e21de5d1.json)
 
 [Extended Data](ext_articles/e21de5d1.ext.json)
+
+---
+
+### අතුරුදන් පියාගේ සිරුර හෝමාගම කැන්ඳලන්දෙන් හමුවෙයි
+
+*2024-02-08 12:46:46* · [`adalk`](https://www.ada.lk/breaking_news/අතුරුදන්-පියාගේ-සිරුර-හෝමාගම-කැන්ඳලන්දෙන්-හමුවෙයි/11-407965) · `si`
+
+දින හතරකට ඉහතදී  අතුරුදන් වූ  මහරගම නගර සභාවේ සේවය කළ විශ්‍රාමික කම්කරු හෝමාගම කැන්ඳලන්ද ප්‍රදේශයේ  වතුර වලකට වැටී අභිරහස් ලෙස මියගොස් ඇතැයි හෝමාගම මූලස්ථාන පොලිසිය කියයි
+
+මළ සිරුර හමුවන විට මුහුණ හා හිස ප්‍රදේශය ට බරපතල තුවාල සිදුවී තිබූ බව පොලිසිය කියයි
+
+මෙලෙස මියගොස් ඇත්තේ පන්නිපිටිය රුක්මලේ පදිංචිව සිටි පොරගේ මිල්ටන් පෙරේරා (62)  දෙදරුපියකි
+
+මල සිරුර තිබූ ස්ථානයේ ජංගම දුරකථනයක් සහ බුලත්  බහා තිබූ මල්ලක් පොලිස් භාරයට ගෙන ඇත
+
+තම එළවළු කොටුව ආසන්නයේ වතුර වලක  මළ සිරුරක් තිබෙන බවට එළවළු කොටුවේ හිමිකරු පොලිසියට කරන  ලද දැනුම් දීමක් අනුව මළසිරුර සොයාගෙන ඇත
+
+මියගිය පුද්ගලයා  බුලත් විට වෙළඳාමේ යෙදෙන අතර ඉකුත් 4 වෙනි ඉරු දින බුලත් විට රැගෙන කොට්ටාව නගරයට පැමිණී ඇති අතර ඉන් අනතුරුව නිවසට නොපැමිණි බවට  දියණිය  විසින් කොට්ටාව පොලිසියට පැමිණිල්ලක් ඉදිරිපත් කර තිබූ බව පොලිසිය කියයි
+
+මීයගිය  පුද්ගලයා මෙම ප්‍රදේශයට පැමිණියේ කුමන කාරණාවක් මතද යන්න මෙතෙක් අනාවරණය වී නැති බව පොලිස් නිලධාරියෙක් පැවසීය
+
+...
+
+[Data](articles/186a789e.json)
 
 ---
 
@@ -549,6 +605,20 @@ The arrested gem stones have been revealed in the form of Vihara. Koslanda polic
 [Data](articles/52cd0907.json)
 
 [Extended Data](ext_articles/52cd0907.ext.json)
+
+---
+
+### සනත් නිශාන්ත මහතාගේ මරණය සැක යැයි බිරිඳගෙන් පැමිණිල්ලක්
+
+*2024-02-08 12:35:31* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්ත-මහතාගේ-මරණය-සැක-යැයි-බිරිඳගෙන්-පැමිණිල්ලක්/11-407964) · `si`
+
+හිටපු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ බිරිඳ නීතීඥ චමරි ප්‍රියංකා මහත්මිය විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේතුවට පැමිණිල්ලක් කර තිබේ.
+
+හිටපු රාජ්‍ය අමාත්‍යවරයාගේ මරණයේ සැක සහිත තැන් ඇති බවත් එය සම්බධයෙන් පරීක්ෂණයක් සිදුකරන ලෙස නීතීඥ චමරි ප්‍රියංකා මහත්මිය සිය පැමිණිල්ල මඟින් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/fcac02fd.json)
 
 ---
 
@@ -627,6 +697,8 @@ Last year, the 87-year-old Pontiff authorized priests to offer informal blessing
 ...
 
 [Data](articles/fbac6a2a.json)
+
+[Extended Data](ext_articles/fbac6a2a.ext.json)
 
 ---
 
@@ -2013,63 +2085,5 @@ The debate will be held from 09.30 am to 05.30 pm.. Remble
 [Data](articles/81e996db.json)
 
 [Extended Data](ext_articles/81e996db.ext.json)
-
----
-
-### President leaves for Australia
-
-*2024-02-08 09:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-leaves-for-Australia/108-276570) · `en`
-
-Colombo, Feb 08 (Daily Mirror) - President Ranil Wickremesinghe left Sri Lanka this morning to participate in the 7th Indian Ocean Conference in Perth, Australia.
-
-The President will be in Australia from February 9 – 10, and will deliver the keynote address in the 7th Indian Ocean Conference.
-
-He will also explore investment opportunities for Sri Lanka during the event.
-
-◼️
-
-[Data](articles/c4dce947.json)
-
-[Extended Data](ext_articles/c4dce947.ext.json)
-
----
-
-### Suspect arrested for shooting at monk
-
-*2024-02-08 09:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193117) · `si`
-
-A suspect has been arrested in connection with the shooting of a monk shot dead in a temple in Gampaha, Gampaha.
-
-The police said that the Western Province North Crimes Division was arrested by the Western Province North Criminal Division.
-
-The monk was shot dead in Malwathu Viharaya in Gampaha on January 23.
-
-Four suspects were shot dead and was admitted to the Gampaha Hospital with serious injuries.
-
-The monk who was receiving treatment at the hospital was as known as the 45-year-old, Kalapaluwa Dhamma Ratnane, Kahanna, Kahanna Maha Viharaya.
-
-◼️
-
-[Data](articles/50825bd0.json)
-
-[Extended Data](ext_articles/50825bd0.ext.json)
-
----
-
-### Katileib Hezbollah killed in clashes
-
-*2024-02-08 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193116) · `si`
-
-Senior Commander-Commander of Iran-backed Milley has been killed in anti-American attacks.
-
-Foreign media reports that he had died in a drone launched in the East to the Iraqi capital. Foreign media reports
-
-It is reported that the commander of the United States camp in Jordan recently has been carried out by the deceased officer.
-
-◼️
-
-[Data](articles/02815830.json)
-
-[Extended Data](ext_articles/02815830.ext.json)
 
 ---

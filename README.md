@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 19:32:42**
+As of **2024-02-08 19:49:55**
 
 ## Newspaper Stats
 
-*Scraped **5,787** Articles*
+*Scraped **5,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 490
 adaderanalk | 713
 virakesarilk | 713
 tamilmirrorlk | 716
-adaderanasinhalalk | 761
+adaderanasinhalalk | 762
 dailymirrorlk | 820
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,783 (99.9%) of 5,787 articles have been extended.
+5,787 (100.0%) of 5,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### පොලීසිය ඇතුළටම ආ පාතාලේ
+
+*2024-02-08 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193142) · `si`
+
+ආදුරුප්පුවීදිය පොලීසිය තුළදී සැකකරුවන් දෙදෙනෙකුට වස ලබාදුන් පුද්ගලයාව පොලිසිය හඳුනාගෙන තිබේ.
+
+ජින්තුපිටිය ප්‍රදේශයේදී පසුගියදා සිදුවූ වෙඩි තැබීමක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන ආදුරුප්පුවීදිය පොලිස් සිර මැදිරියේ රඳවා සිටියදී ඔවුන්ට වස ලබාදී තිබුණේ ඔවුන්ගේ සුවදුක් විමසීමට පැමිණි පුද්ගලයෙකු විසිනි.
+
+එම පුද්ගලයා පොලීසියට පැමිණීමට පෙර ආදුරුප්පුවීදියේ වෙළෙඳසැලකට යන අයුරු එහි CCTV කැමරාවක සටහන්ව තිබුණි.
+
+පොලීසිය සඳහන් කළේ සැකකරු අධික ලෙස මත්ද්‍රව්‍යයට ඇබ්බැහි වූවකු බවය.
+
+එමෙන්ම ඔහු විසින් වස ලබාදුන් සැකකරුවන් දෙදෙනා මෙන්ම ඔහුද පූකුඩු කන්නා නම් අපරාධකරුගේ සමීපතමයන් බවද පොලීසිය පවසයි.
+
+කුඩු සෙල්විගේ පාර්ශ්වයේ සමීපතමයෙකුට ඔවුන් වෙඩි තැබීමට කටයුතු කර තිබුණේද ඒ සමීප සබඳතාව හේතුවෙනි.
+
+ඒ අනුව කුඩු සෙල්විගේ පාර්ශ්වය විසින් මෙම පුද්ගලයාට මුදල් ලබාදී අපරාධය සැලසුම් කර ඇති බවට පොලීසිය සැකකරයි.
+
+වස පානය කිරීම හේතුවෙන් රෝහල් ගතකළ පුද්ගලයන් දෙදෙනාගේ තත්ත්වය ද බරපතල බව වාර්තාවෙයි.
+
+...
+
+[Data](articles/49967a36.json)
+
+---
 
 ### Regnis and Singer Industries merge with Singer Sri Lanka
 
@@ -1384,6 +1410,8 @@ The students who participated in the protests were attacked brutally by the poli
 
 [Data](articles/12fd5b24.json)
 
+[Extended Data](ext_articles/12fd5b24.ext.json)
+
 ---
 
 ### Sri Lanka in talks to push wind projects forward, minister says
@@ -1507,6 +1535,8 @@ The JVP’s pragmatic strategies for development while honoring the debts (shoul
 ...
 
 [Data](articles/928660cf.json)
+
+[Extended Data](ext_articles/928660cf.ext.json)
 
 ---
 
@@ -1657,6 +1687,8 @@ The growing prospect of the return of Donald Trump to the White House despite th
 ...
 
 [Data](articles/c0255085.json)
+
+[Extended Data](ext_articles/c0255085.ext.json)
 
 ---
 
@@ -2087,29 +2119,5 @@ The bus operators also allege that no legal action has been taken against the re
 [Data](articles/a0949df7.json)
 
 [Extended Data](ext_articles/a0949df7.ext.json)
-
----
-
-### Sri Lanka rupee trades at 313.50/314.00 to the US dollar
-
-*2024-02-08 11:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-at-313-50-314-00-to-the-us-dollar-150347/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading at 313.50/314.00 to the US dollar Thursday, from 313.00/50 on Wednesday, dealers said.
-
-A bond maturing on 01.02.2026 was quoted at 10.95/11.05 down from 11.05/20 percent.
-
-A bond maturing on 15.09.2027 was quoted at 11.50/75 down from 11.95/12.10 percent.
-
-A bond maturing on 15.03.2028 was quoted at 12.00/15 down from 12.15/25 percent.
-
-A bond maturing on 15.05.2030 was quoted at 12.50/13.00 from 12.60/80 percent.
-
-The Colombo Stock Exchange was trading up; The All Share Price Index was up 0.29 percent at 10,558, and the S&P SL20 was up 0.79 percent at 3,020 in mid-morning trade. (Colombo/Feb8/2024)
-
-◼️
-
-[Data](articles/aa472854.json)
-
-[Extended Data](ext_articles/aa472854.ext.json)
 
 ---

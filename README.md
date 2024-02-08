@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 15:17:08**
+As of **2024-02-08 15:32:50**
 
 ## Newspaper Stats
 
-*Scraped **5,731** Articles*
+*Scraped **5,733** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 64
-bbccomsinhala | 79
+bbccomsinhala | 81
 dbsjeyarajcom | 141
 islandlk | 299
 economynextcom | 302
@@ -26,27 +26,29 @@ dailymirrorlk | 814
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,728 (99.9%) of 5,731 articles have been extended.
+5,731 (100.0%) of 5,733 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### ரணில் மூளைச்சலுவை செய்ததால் தான் அனுரகுமர இந்தியா சென்றுள்ளார் -  அமைச்சர் நிமால்
+### Anuragumara has gone to India because Ranil has done brainwashed - Minister Nimal
 
-*2024-02-08 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175894) · `ta`
+*2024-02-08 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175894) · `ta`
 
-ஜனாதிபதி ரணில்விக்கிரமசிங்க தேசிய மக்கள் சக்தியை மூளைச்சலவை செய்துள்ளார் அதன் காரணமாகவே தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமாரதிசநாயக்க இந்திய தலைவர்களை சந்திக்க சென்றுள்ளார் என அமைச்சர் நிமால் சிறிபால டி சில்வா நாடாளுமன்றத்தில் தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe has brainwashed the national people's power.
 
-இந்தியாவின் ஆதிக்கம் குறித்து உரையாற்றிய தேசியமக்கள் சக்தியின் தலைவர்கள் இதன் காரணமாகவே இந்தியா சென்றுள்ளனர் என அவர் குறிப்பிட்டுள்ளார்.
+Speaking on India's domination, he said that the leaders of the national power power have gone to India.
 
-பழைய ஆடைகளை அணிந்தவர்கள் கோட் அணிகின்றனர் இது குறித்து நாங்கள் மகிழ்ச்சியடைகின்றோம்  இது ரணில் விக்கிரமசிங்க மூளைச்சலவை செய்ததால் ஏற்பட்ட மாற்றம் எனவும் அர் தெரிவித்துள்ளார்.
+We are happy about this.
 
-அதானி குழுமத்துடன் இணைந்து செயற்படுவதற்காக தேசிய மக்கள் சக்தியின் தலைவர்கள் எவ்வாறு அரசாங்கத்தை விமர்சித்தார்கள் என்பது எங்களிற்கு தெரியும் எனவும் அவர் தெரிவித்துள்ளார்.
+"We know how the leaders of the National People's Power have criticized the government to work with the Adani Group," he said.
 
 ◼️
 
 [Data](articles/f5af2139.json)
+
+[Extended Data](ext_articles/f5af2139.ext.json)
 
 ---
 
@@ -550,27 +552,33 @@ He urged Prime Minister Dinesh Gunawardena who hold the local government portfol
 
 ---
 
-### අතුරුදන් පියාගේ සිරුර හෝමාගම කැන්ඳලන්දෙන් හමුවෙයි
+### Father's father found in Katarandra
 
 *2024-02-08 12:46:46* · [`adalk`](https://www.ada.lk/breaking_news/අතුරුදන්-පියාගේ-සිරුර-හෝමාගම-කැන්ඳලන්දෙන්-හමුවෙයි/11-407965) · `si`
 
-දින හතරකට ඉහතදී  අතුරුදන් වූ  මහරගම නගර සභාවේ සේවය කළ විශ්‍රාමික කම්කරු හෝමාගම කැන්ඳලන්ද ප්‍රදේශයේ  වතුර වලකට වැටී අභිරහස් ලෙස මියගොස් ඇතැයි හෝමාගම මූලස්ථාන පොලිසිය කියයි
+Homagama Police say that retired Labi Labor Homagama in Kathagama Homagama, which was served in the disappearance of the disappearance of four days, said the mysterious deaths were killed
 
-මළ සිරුර හමුවන විට මුහුණ හා හිස ප්‍රදේශය ට බරපතල තුවාල සිදුවී තිබූ බව පොලිසිය කියයි
+Police said the face and head had been seriously injured when he met the corpse
 
-මෙලෙස මියගොස් ඇත්තේ පන්නිපිටිය රුක්මලේ පදිංචිව සිටි පොරගේ මිල්ටන් පෙරේරා (62)  දෙදරුපියකි
+The deceased has been identified as Milton Perera (62), a resident of Pannipitiya Rukma
 
-මල සිරුර තිබූ ස්ථානයේ ජංගම දුරකථනයක් සහ බුලත්  බහා තිබූ මල්ලක් පොලිස් භාරයට ගෙන ඇත
+The police seized a mobile phone and betel container at the bodies
 
-තම එළවළු කොටුව ආසන්නයේ වතුර වලක  මළ සිරුරක් තිබෙන බවට එළවළු කොටුවේ හිමිකරු පොලිසියට කරන  ලද දැනුම් දීමක් අනුව මළසිරුර සොයාගෙන ඇත
+Body has been found by the owner of the vegetable box that the owner of the vegetable box has a body of water near his vegetable box
 
-මියගිය පුද්ගලයා  බුලත් විට වෙළඳාමේ යෙදෙන අතර ඉකුත් 4 වෙනි ඉරු දින බුලත් විට රැගෙන කොට්ටාව නගරයට පැමිණී ඇති අතර ඉන් අනතුරුව නිවසට නොපැමිණි බවට  දියණිය  විසින් කොට්ටාව පොලිසියට පැමිණිල්ලක් ඉදිරිපත් කර තිබූ බව පොලිසිය කියයි
+The deceased has traders and arrived in Kottawa and has lodged a complaint with the Kottawa Police that he had not come to the house.
 
-මීයගිය  පුද්ගලයා මෙම ප්‍රදේශයට පැමිණියේ කුමන කාරණාවක් මතද යන්න මෙතෙක් අනාවරණය වී නැති බව පොලිස් නිලධාරියෙක් පැවසීය
+A police officer said there was yet to be revealed that the mic was entered into the area
 
-...
+The deceased has been a short-dressing man and that the corpse was found in the uplifter and the underside.
+
+The body was placed at the Homagama Base Hospital and the post mortem examination is to be held
+
+◼️
 
 [Data](articles/186a789e.json)
+
+[Extended Data](ext_articles/186a789e.ext.json)
 
 ---
 
@@ -608,17 +616,19 @@ The arrested gem stones have been revealed in the form of Vihara. Koslanda polic
 
 ---
 
-### සනත් නිශාන්ත මහතාගේ මරණය සැක යැයි බිරිඳගෙන් පැමිණිල්ලක්
+### His wife complains of Sanath Nishantha's death
 
 *2024-02-08 12:35:31* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්ත-මහතාගේ-මරණය-සැක-යැයි-බිරිඳගෙන්-පැමිණිල්ලක්/11-407964) · `si`
 
-හිටපු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ බිරිඳ නීතීඥ චමරි ප්‍රියංකා මහත්මිය විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේතුවට පැමිණිල්ලක් කර තිබේ.
+Former State Minister Sanath Nishantha's wife, Attorney Chamari Priyanka has lodged a complaint with the Criminal Investigation Department.
 
-හිටපු රාජ්‍ය අමාත්‍යවරයාගේ මරණයේ සැක සහිත තැන් ඇති බවත් එය සම්බධයෙන් පරීක්ෂණයක් සිදුකරන ලෙස නීතීඥ චමරි ප්‍රියංකා මහත්මිය සිය පැමිණිල්ල මඟින් ඉල්ලා සිටී.
+Attorney Chamari Priyanka, who has been suspected of the death of the former state minister and is aimed at a meeting.
 
 ◼️
 
 [Data](articles/fcac02fd.json)
+
+[Extended Data](ext_articles/fcac02fd.ext.json)
 
 ---
 

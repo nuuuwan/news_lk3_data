@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 11:34:07**
+As of **2024-02-08 11:51:56**
 
 ## Newspaper Stats
 
-*Scraped **5,666** Articles*
+*Scraped **5,671** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ economynextcom | 296
 islandlk | 299
 dailyftlk | 316
 newsfirstlk | 346
-adalk | 477
+adalk | 478
 virakesarilk | 694
-adaderanalk | 700
-tamilmirrorlk | 706
+adaderanalk | 701
+tamilmirrorlk | 708
 adaderanasinhalalk | 745
-dailymirrorlk | 803
+dailymirrorlk | 804
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,660 (99.9%) of 5,666 articles have been extended.
+5,671 (100.0%) of 5,671 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### Three cops interdicted over alleged poisoning of 2 suspects in custody
+
+*2024-02-08 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97108/three-cops-interdicted-over-alleged-poisoning-of-2-suspectsincustody) · `en`
+
+Three police officers have been interdicted after two suspects held in a cell at the Aduruppu Veediya police station fell ill after consuming a milk packet given to them by a visitor.
+
+The duo was in police custody over a shooting incident that took place in Jinthupitiya on January 25 in which a youth was left injured.
+
+One suspect was captured by the bystanders while the other fled the scene after abandoning the motorcycle. The perpetrator on the run was later apprehended in Dambana area and was brought to the Aduruppu Veediya police station for onward investigations.
+
+◼️
+
+[Data](articles/3526e02c.json)
+
+[Extended Data](ext_articles/3526e02c.ext.json)
+
+---
+
+### Female doctor abuse: Male doctor arrested
+
+*2024-02-08 11:05:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-வைத்தியர்-துஷ்பிரயோகம்-ஆண்-வைத்தியர்-கைது/175-332884) · `ta`
+
+Anaranayaka police said that a doctor at the hospital was arrested on Thursday (8) in connection with the sexual abuse of a 28 -year -old woman at the district hospital.
+
+A 45 -year -old married doctor was arrested at the Aranayaka District Hospital, police said.
+
+The male doctor has been arrested according to the complaint filed by the father of the female doctor. It is also reported that the female doctor has been transferred from a different hospital and has come to work at the Aranayaka District Hospital on the 5th.
+
+Police said the affidavit had been filed with the doctor and five persons who were abused and that the woman who was facing the incident was to be present at the legal doctor of the Teaching Hospital.
+
+◼️
+
+[Data](articles/4fa8870a.json)
+
+[Extended Data](ext_articles/4fa8870a.ext.json)
+
+---
 
 ### Sisu nurses recruited
 
@@ -66,6 +104,26 @@ When I met the President of Sri Lanka last year, I had expressed concern over th
 
 ---
 
+### Blue Sapphires worth Rs. 370 million seized; Two including monk arrested
+
+*2024-02-08 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Blue-Sapphires-worth-Rs-370-million-seized-Two-including-monk-arrested/108-276590) · `en`
+
+Koslanda, Feb 08 (Daily Mirror) - Two individuals, including a monk, were arrested while attempting to sell two Blue Sapphire gemstones valued at Rs. 370 million.
+
+The arrest was made during a raid by Koslanda Police, acting on intelligence provided by the Army Intelligence Division.
+
+The arrested monk resides in the Weliweriya area, while the other suspect, aged 72, is the father of a local politician from a prominent political party.
+
+The seized gemstones are in the shape of pagodas and are suspected to have been obtained while treasure hunting.
+
+◼️
+
+[Data](articles/78bc0b5c.json)
+
+[Extended Data](ext_articles/78bc0b5c.ext.json)
+
+---
+
 ### Acting IGP pledges strict legal action against cops involved with criminals
 
 *2024-02-08 10:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97107/acting-igp-pledges-strict-legal-action-against-cops-involved-with-criminals) · `en`
@@ -79,6 +137,8 @@ The Acting IGP further mentioned that details about a few police officers who ai
 ◼️
 
 [Data](articles/678284c8.json)
+
+[Extended Data](ext_articles/678284c8.ext.json)
 
 ---
 
@@ -104,6 +164,24 @@ Candidates for this are currently underway and this loan is not being issued, so
 
 ---
 
+### England watches online security law
+
+*2024-02-08 10:46:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-பாதுகாப்பு-சட்டத்தை-இங்கிலாந்து-உன்னிப்பாக-கவனிக்கும்/175-332882) · `ta`
+
+The United Kingdom has said that the United Kingdom will monitor the progress of the law following the passage of the Sri Lankan Parliament on January 24, despite the opposition of international internet providers and activists.
+
+The Minister of State Anne-Marie Trevelyan (Foreign, Commonwealth and Development Office) said in Parliament that the Sri Lankan Parliament had passed it on January 24, despite the negative impact of the Civil Society, Opposition and International Internet Providers on the Online Security Act.
+
+"Even when I met Sri Lankan President Wickremesinghe in October and the Minister of State for South Asia on January 25, the UK expressed his dissatisfaction with the impact of the law on independence and economic development of Sri Lanka on January 25," he said in a written statement in the UK.
+
+◼️
+
+[Data](articles/cc17cf10.json)
+
+[Extended Data](ext_articles/cc17cf10.ext.json)
+
+---
+
 ### 42 arrested, including those who harass women in public transport
 
 *2024-02-08 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/175856) · `ta`
@@ -121,6 +199,32 @@ In response to many civil dressed police officers, many civil staff have been de
 [Data](articles/eae69e19.json)
 
 [Extended Data](ext_articles/eae69e19.ext.json)
+
+---
+
+### Man's wife attack on the head of his wife due to mobile phone call
+
+*2024-02-08 10:45:34* · [`adalk`](https://www.ada.lk/breaking_news/ජංගම-දුරකථන-ඇමතුම-නිසා-සැමියා-බිරිඳ-ගේ-හිසට-මන්නයකින්-පහරදෙයි/11-407960) · `si`
+
+A person who was assaulted by his wife's head and a person who was seriously injured yesterday, was arrested yesterday (08), "Panadura South Police say.
+
+The police said that a 56 shadow resident of Panadura Uyankele area in Panadura.
+
+A woman has been a woman who has been assaulted around 9.30 pm, and that the suspect had been disconnected at the house and was thus threw from the kitchen.Police say that investigations have been confirmed.
+
+A woman was attacked and admitted to the Panadura Base Hospital, said a hospital spokesman said.
+
+The suspect was also taken into police custody and the suspect was to be produced before the Panadura Magistrate.
+
+Panadura Division Criminal Laboratory Laboratory also conducted tests on the night.
+
+Senior Superintendent of Police Samantha Wedage, Assistant Superintendent of Police Office Inspector OIC Sub Inspector Hemal Weerasinghe
+
+◼️
+
+[Data](articles/3aa1743c.json)
+
+[Extended Data](ext_articles/3aa1743c.ext.json)
 
 ---
 
@@ -159,6 +263,8 @@ Out of the 728 suspects, 558 have been arrested over drug-related offences, whil
 ◼️
 
 [Data](articles/8f73e370.json)
+
+[Extended Data](ext_articles/8f73e370.ext.json)
 
 ---
 
@@ -277,6 +383,8 @@ Senior Hamas official Sami Abu Zuhri told the Reuters news agency that Mr Netany
 ...
 
 [Data](articles/d711e114.json)
+
+[Extended Data](ext_articles/d711e114.ext.json)
 
 ---
 
@@ -560,6 +668,8 @@ The car, which they had been travelling in, had crashed against the roadside bar
 
 [Data](articles/a5ed2a86.json)
 
+[Extended Data](ext_articles/a5ed2a86.ext.json)
+
 ---
 
 ### Police arrests 42 suspects over abuse, thefts on public transport
@@ -638,6 +748,8 @@ Sri Lanka Parliament was prorogued with effect from midnight on 26 January, mark
 
 [Data](articles/ae273b2f.json)
 
+[Extended Data](ext_articles/ae273b2f.ext.json)
+
 ---
 
 ### The President has departed Australia
@@ -703,6 +815,8 @@ Two blasts near election offices on Wednesday killed 26 people in the southweste
 ...
 
 [Data](articles/dacecbcf.json)
+
+[Extended Data](ext_articles/dacecbcf.ext.json)
 
 ---
 
@@ -1905,91 +2019,5 @@ Energy reforms, agriculture and water, infrastructure improvement, industry and 
 [Data](articles/2133a95f.json)
 
 [Extended Data](ext_articles/2133a95f.ext.json)
-
----
-
-### Destroyed Country is currently alive: progress should not be disrupted - Rajitha Senaratne
-
-*2024-02-07 23:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/175844) · `ta`
-
-Everyone must accept that the destructive country is now alive.Chandrika's 'White Alarm' Peace Conference went to Mahinda's communal activities. No action has been taken against them. United People's Power MP Rajitha Senaratne said why disciplinary action should be taken against me.
-
-UNP members boycotted the President's Policy Declaration on Wednesday (7) in Parliament, leaving the council to protest when they came to the Presidential Council.. But members of the United People's Power, Kumara Welgama and Rajitha Senaratne, did not leave the congregation.
-
-He made the above statement to the media after the President's Policy Declaration was completed.
-
-I have never ignored the president's policy declaration speech. I adhere to it as political culture. Everyone must accept that the destruction country is now alive. I do not want to disrupt the current progress.
-
-...
-
-[Data](articles/5cc20a73.json)
-
-[Extended Data](ext_articles/5cc20a73.ext.json)
-
----
-
-### Highseat gazette launch
-
-*2024-02-07 23:35:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவிசேட-வர்த்தமானி-வெளியீடு/175-332865) · `ta`
-
-The gazette has been published with the signature of the President's Secretary EMSP Ekanayake under Article 44 (3) of the Constitution of the Democratic Socialist Republic of Sri Lanka.
-
-◼️
-
-[Data](articles/4efc35bc.json)
-
-[Extended Data](ext_articles/4efc35bc.ext.json)
-
----
-
-### Bail for Avalokiteswara Bodhisadwa; recommendation for treatment
-
-*2024-02-07 23:27:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவலோகிதேஸ்வர-போதிசத்வாவுக்கு-பிணை-சிகிச்சைக்கு-பரிந்துரை/175-332864) · `ta`
-
-The Colombo Fort Magistrate's Court today granted bail to Avalokiteswara Bodhisadwa Mahinda Kodivakku, who was kept in detention on charges of insulting Buddhism.
-
-The suspect has been severely advised not to violate the bail conditions and has been ordered not to repeat such a crime while on the bail.
-
-Magistrate Thilina Kamage has ordered the release of the suspect on two physical bail worth Rs 1 million.
-
-Meanwhile, the psychiatrist who examined the suspect's mental condition, recommended further treatment at the National Mental Health Institute in Angoda.. Accordingly, the suspect has been ordered to attend the National Mental Health Hospital in Angoda every Monday.
-
-◼️
-
-[Data](articles/ab809173.json)
-
-[Extended Data](ext_articles/ab809173.ext.json)
-
----
-
-### Harnessing value from diversity: Part I – A leadership challenge
-
-*2024-02-07 23:08:22* · [`dailyftlk`](https://www.ft.lk/columns/Harnessing-value-from-diversity-Part-I-A-leadership-challenge/4-758219) · `en`
-
-...
-
-[Data](articles/0e02a4cf.json)
-
-[Extended Data](ext_articles/0e02a4cf.ext.json)
-
----
-
-### Ministry of Environment under the President: Special Gazette Release
-
-*2024-02-07 22:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175842) · `ta`
-
-The Special Gazette has been released by President Ranil Wickremesinghe under the responsibility of the Ministry of Environment.
-
-Keheliya Rambukwella, who has been the former Environment Minister, has been detained after being arrested on charges of importing substandard immunoglobulin vaccines.
-
-The notification has been released with the signature of President's Secretary MSP Ekanayake.
-
-The Gazette has stated that the decision has been taken after discussing with Prime Minister Dinesh Gunawardena.
-
-◼️
-
-[Data](articles/d23618a9.json)
-
-[Extended Data](ext_articles/d23618a9.ext.json)
 
 ---

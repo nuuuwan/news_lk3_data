@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 11:02:23**
+As of **2024-02-08 11:17:17**
 
 ## Newspaper Stats
 
@@ -26,195 +26,223 @@ dailymirrorlk | 803
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,647 (99.8%) of 5,660 articles have been extended.
+5,660 (100.0%) of 5,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### සිසු හෙද පුහුණුවට බඳවාගැනේ
+### Sisu nurses recruited
 
 *2024-02-08 10:54:35* · [`adalk`](https://www.ada.lk/breaking_news/සිසු-හෙද-පුහුණුවට-බඳවාගැනේ/11-407961) · `si`
 
-සිසු හෙද පුහුණුවට බදවා ගැනීම සදහා මාතලේ, මහනුවර හා නුවරඑළිය  දිස්ත්‍රික්ක වලට අදාල සම්මුඛ පරීක්ෂණ 2024.02.10 (සෙනසුරාදා) දින මහනුවර හෙද විදුහලේ දී පැවැත්වීමට කටයුතු කරන බවට සෞඛ්‍ය අමාත්‍යංශය දැනුම්දෙයි.
+The Ministry of Health has not been held on Saturdays on Saturdays on Saturdays on Saturdays on Saturdays.
 
-මීට අදාල තොරතුරු සෞඛ්‍ය අමාත්‍යංශයේ නිල වෙබ් පිටුව (https://www.health.gov.lk/) පරිශීලනය මගින් ද ලබාගත හැකි බවට දන්වා සිටියි.
+The relevant information is also available on the official web page of the Ministry of Health (https://www.health.gov.lk/).
 
 ◼️
 
 [Data](articles/167c68ee.json)
 
+[Extended Data](ext_articles/167c68ee.ext.json)
+
 ---
 
-### நிகழ்நிலை பாதுகாப்பு சட்டத்தை  பிரிட்டன் தொடர்ந்து கண்காணிக்கும் - பிரிட்டன் நாடாளுமன்றில் தகவல்
+### Britain continues to monitor the Ceremony Security Act - Information in Britain's Parliament
 
 *2024-02-08 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/175866) · `ta`
 
-பிரிட்டனின் வெளிவிவகார பொதுநலவாய அபிவிருத்தி இராஜாங்க அமைச்சர் ஆன் மேரி டிரெவெல்யான் இதனை பிரிட்டன் நாடாளுமன்றத்தில் தெரிவித்துள்ளார்.
+Britain's Foreign Foreign Affairs Minister Ann Mary Dreweyan said this in the British Parliament.
 
-சர்வதேச இணையசேவை வழங்குநர்கள் உட்பட ஏனையவர்களின் கரிசனைகளிற்கு மத்தியில் பிரிட்டன் நிகழ்நிலை பாதுகாப்பு சட்டமூலத்தை நிறைவேற்றியுள்ளதாக பிரிட்டன் அமைச்சர் தெரிவித்துள்ளார்
+Britain has passed the British Protection Bill amidst the concerns of others, including international internet service providers.
 
-கடந்தவருடம் நான் இலங்கை ஜனாதிபதியை சந்தித்தவேளை இந்த சட்டம் கருத்து சுதந்திரம் பொருளாதார சுதந்திரத்தின் மீது ஏற்படுத்தக்கூடிய தாக்கங்கள் குறித்த கரிசனையை தெரிவித்திருந்தேன் என தெரிவித்துள்ள அவர் ஜனவரி 25ம் திகதி தென்னாசியாவிற்கான இராஜாங்க அமைச்சர் தாரிக் பிரபு இலங்கை வெளிவிவகார அமைச்சரை சந்தித்தவேளை இது குறித்த கரிசனையை வெளியிட்டார் எனவும் தெரிவித்துள்ளார்.
+When I met the President of Sri Lanka last year, I had expressed concern over the impact of freedom of expression and economic freedom, he said, "Minister of State for South Asia Tariq Prabhu on January 25 met with the Foreign Minister of Sri Lanka.
 
 ◼️
 
 [Data](articles/127050a8.json)
 
+[Extended Data](ext_articles/127050a8.ext.json)
+
 ---
 
-### பல்கலைக்கழக மாணவர்களுக்கு வழங்கப்பட்ட வட்டியில்லா கடன் இதுவரை வழங்கப்படவில்லை - சஜித்
+### Interest free loan provided to university students has not yet been issued - Sajith
 
 *2024-02-08 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/175865) · `ta`
 
-கோடிக்கணக்கான கடன்களை செலுத்த தவறிய வர்த்தகர்களுக்கு அரசாங்கம் கடன் சலுகைகளை வழங்கிய போதிலும், பல்கலைக்கழக மாணவர்களுக்கு வழங்கப்பட்ட வட்டியில்லா கடன் இதுவரை வழங்கப்படவில்லையென  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition Leader Sajith Premadasa said that the government has given credit concessions to traders who failed to pay millions of loans, but the interest free loans given to university students have not yet been issued.
 
-தனியார் பல்கலைக்கழகங்களில் கல்வி பயிலும் மாணவர்களுக்கு அவர்களின் உயர் கல்விக்காக வழங்கப்பட்டு வந்த வட்டியில்லா கடன் திட்டம் கடந்த காலங்களில் இடைநிறுத்தப்பட்டிருந்தது.
+In the past, the interest free loan scheme for their higher education for students studying in private universities has been suspended.
 
-ஐக்கிய மக்கள் சக்தி, இவ்விவகாரம் தொடர்பில் மீண்டும் பாராளுமன்றத்தின் கனவத்திற்கு கொண்டு வந்த போது கடனை வழங்குவதாக தெரிந்த போதிலும், தனியார் பல்கலைக்கழக மாணவர்களுக்கு கிடைக்க வேண்டிய கடன் வசதி இன்னும் கிடைக்கவில்லை என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று வியாழக்கிழமை (08) பாராளுமன்றத்தில் தெரிவித்தார்.
+Opposition Leader Sajith Premadasa told Parliament today (08) that the United People's Power has revealed that the United People's Power has been re -brought back to the parliament's dream.
 
-கடனுதவி வழங்குவதற்கான அனுமதி மத்திய வங்கிக்கு அனுப்பி வைக்கப்பட்டுள்ளதாகவும், இதற்கான தீர்வுகள் வழங்கப்பட்டுள்ள போதிலும், அது இன்னும் நடைமுறைப்படுத்தப்படவில்லை.
+The permission of the loan has been sent to the Central Bank and the solution has been provided, but it has not yet been implemented.
+
+Candidates for this are currently underway and this loan is not being issued, so as soon as these credit facilities are available.. The opposition leader added that the opportunity to enter universities is being denied as the loan is not provided.
 
 ...
 
 [Data](articles/180f3317.json)
 
+[Extended Data](ext_articles/180f3317.ext.json)
+
 ---
 
-### பொதுப் போக்குவரத்தில் பெண்களுக்கு தொல்லை கொடுத்தவர்கள் உள்ளிட்ட 42 பேர் கைது
+### 42 arrested, including those who harass women in public transport
 
 *2024-02-08 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/175856) · `ta`
 
-நாடளாவிய ரீதியில் பொதுப் போக்குவரத்துச் சேவைகளில் சிறுவர்கள் மற்றும் பெண்களுக்கும் பாலியல் தொல்லை கொடுப்பவர்களை கண்டறியும் விசேட நடவடிக்கையை நேற்றையதினம் பொலிஸார் முன்னெடுத்தனர்.
+Police launched a special measures to detect children and girls and women in public transport services across the country.
 
-இதன்போது பாலியல் பாலியல் தொல்லைகொடுத்தவர்கள் உள்ளிட்ட 42 சந்தேக  நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+42 suspects, including sexual harassment, have been arrested.
 
-கைதுசெய்யப்பட்டவர்களில் பாலியல் தொல்லைகள் கொடுத்த 18 பேரும்,  பணப்பை திருட்டில் ஈடுபட்ட 5 பேரும் அடங்குவார்கள்.
+The arrested people include 18 people who have been sexually harassed and 5 people involved in walking theft.
 
-பொதுப்போக்குவரத்து சேவைகளில் இவ்வாறான சம்பவங்களை கட்டுப்படுத்த சிவில் உடை அணிந்த பல பொலிஸ் அதிகாரிகள் பணியில் ஈடுபடுத்தப்பட்டுள்ளதாக பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னக்கோன் தெரிவித்துள்ளார்.
+In response to many civil dressed police officers, many civil staff have been deployed to control such incidents in public transport services, said Inspector General of Police Deshabandu Tennakoon.
 
 ◼️
 
 [Data](articles/eae69e19.json)
 
+[Extended Data](ext_articles/eae69e19.ext.json)
+
 ---
 
-### இந்து சமுத்திர மாநாட்டில் "நிரந்தரமான மற்றும் நிலையான இந்து சமுத்திரத்தை நோக்கி"  என்ற தொனிப்பொருளில் உரையாற்றவுள்ள ஜனாதிபதி
+### The President will address the theme "Permanent and Sustainable Indian Ocean" at the Indian Ocean Conference
 
 *2024-02-08 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175864) · `ta`
 
-7ஆவது இந்து சமுத்திர மாநாட்டில் பங்கேற்க அவுஸ்திரேலியாவுக்கு விஜயம் செய்துள்ள "நிரந்தரமான மற்றும் நிலையான இந்து சமுத்திரத்தை நோக்கி" என்ற தொனிப்பொருளில் நடைபெறும் இந்த ஆண்டு மாநாட்டில் ஜனாதிபதி ரணில் விக்ரமசிங்க பிரதான உரை நிகழ்த்த உள்ளார்.
+President Ranil Wickremesinghe will deliver the keynote address at this year's conference, which will be held to Australia to attend the 7th Indian Ocean Conference, "A Permanent and Sustainable Indian Ocean".
 
-அவுஸ்திரேலியாவின் பேர்த் நகரில் நடைபெறும் 7ஆவது இந்து சமுத்திர மாநாட்டில் பங்கேற்பதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று வியாழக்கிழமை (08) அதிகாலை அவுஸ்திரேலியா பயணமானார்.
+President Ranil Wickremesinghe traveled to Australia this morning (08) to attend the 7th Indian Ocean Conference in Perth, Australia.
 
-இந்தியா மன்றம் மற்றும் அவுஸ்திரேலிய அரசாங்கத்தின் அழைப்பின் பேரில் இந்த மாநாட்டில்  பங்கேற்பதற்காக ஜனாதிபதி சென்றுள்ளதோடு, ஏழாவது இந்து சமுத்திர  மாநாடு பெப்ரவரி  மாதம் 9 மற்றும் 10 ஆம் திகதிகளில் அவுஸ்திரேலியாவின் பேர்த் நகரில் நடைபெறுகிறது.
+The President has gone to attend the conference at the invitation of the India Forum and the Australian government and the Seventh Indian Ocean Conference is being held in Perth, Australia on February 9 and 10.
 
-இந்து சமுத்திரத்தை அண்மித்த நாடுகள் மற்றும் இந்து சமுத்திரத்தை அதிகமாகப் பயன்படுத்தும்  ஏனைய நாடுகளைப் பாதிக்கும் பொதுவான அபிலாஷைகள் மற்றும் பிரச்சினைகள் தொடர்பில்  ஆராய்வதற்காக இந்து சமுத்திர மாநாடு 2016 இல்  ஆரம்பிக்கப்பட்டது.
+The Indian Ocean Conference was launched in 2016 to investigate the common aspirations and problems that affect the Indian Ocean and other countries that use the Indian Ocean.
+
+President Ranil Wickremesinghe will deliver the keynote address at this year's conference, which will be held on the theme "Permanent and Sustainable Indian Ocean".
 
 ...
 
 [Data](articles/9ba9daf0.json)
 
+[Extended Data](ext_articles/9ba9daf0.ext.json)
+
 ---
 
-### தேசிய மக்கள் சக்தியை பின்பற்றி இந்தியாவிற்கு விஜயம் மேற்கொள்வதற்கு ஐக்கிய மக்கள் சக்தி முயற்சி
+### United People's Power attempt to visit India following the national power
 
 *2024-02-08 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175863) · `ta`
 
-தேசிய ஐக்கிய மக்கள் சக்தியின் தலைவர் அனுரகுமாரதிசநாயக்க இந்தியாவிற்கு விஜயம் மேற்கொண்டுள்ள நிலையில் அதுபோன்றதொரு வாய்ப்பை ஐக்கிய மக்கள் சக்தியும் கோரியுள்ளது.
+The United People's Power has called for such an opportunity as National United People's Power President Anura Kumaratisanayake has visited India.
 
-தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமாரதிசநாயக்க இந்தியாவிற்கு ஐந்து நாள் விஜயத்தினை மேற்கொண்டுள்ளார் இந்த விஜயத்தின் போது அவர் இந்திய வெளிவிவகார அமைச்சர் உட்பட முக்கிய தலைவர்களை சந்தித்து பேச்சுவார்த்தைகளை மேற்கொண்டுள்ளார்.
+National People's Power Leader Anura Kumaratisanayake has made a five -day visit to India.
 
-ஜனாதிபதி தேர்தலிற்கு முன்னர் இவ்வாறான விஜயமொன்றின் மூலம் தேசியமக்கள் சக்திக்கு கிடைக்ககூடிய சாதகதன்மையை கருத்திலெடுத்துள்ள ஐக்கிய மக்கள் சக்தி  இந்தியாவிற்;கு விஜயம் மேற்கொள்வதற்கு விருப்பம் வெளியிட்டுள்ளது.
+The United People's Power, which has taken care of the positiveness of the nationalities through such a visit before the presidential election, has expressed its willingness to visit India.
 
 ◼️
 
 [Data](articles/942d4429.json)
 
+[Extended Data](ext_articles/942d4429.ext.json)
+
 ---
 
-### හමාස් ඉල්ලීම නෙතන්යාහු ඉවත දමයි
+### Netanyahu refines Hamas request
 
 *2024-02-08 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193124) · `si`
 
-හමාස් සංවිධානය විසින් යෝජනා කර ඇති සටන් විරාම කොන්දේසි ඊශ්‍රායලය විසින් ප්‍රතික්ෂේප කර තිබේ.
+Israel has rejected the ceasefire conditions proposed by Hamas.
 
-විශේෂ ප්‍රකාශයක් සිදු කරමින් ඊශ්‍රායල අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහු පවසා ඇත්තේ, ඉදිරි මාස කිහිපය තුළ ගාසා තීරයේ ජයග්‍රහණය ලබාගත හැකි බවයි.
+The Israeli Prime Minister Benjamin Netanyahu has said that the victory of Gaza can be achieved in the next few months.
 
-ඒ අනුව ගාසා තීරයේ ජයග්‍රහණය සඳහා යුදමය තත්ත්වය මිස වෙනත් කිසිදු විසඳුමක් නොමැති බව ඊශ්‍රායල අග්‍රාමාත්‍යවරයා ප්‍රකාශ කර ඇත.
+The Israeli Prime Minister has said that there is no other solution to the victory of Gaza.
 
-ගාසා තීරයේ නව සටන් විරාම සැලසුමක් ඊශ්‍රායලය විසින් ඉදිරිපත් කර තිබූ අතර, ඊට සංශෝධන කිහිපයක් ඇතුළු කරමින්  හමාස් සංවිධානය ප්‍රතිචාර දක්වා තිබිණි.
+Israel had presented a new ceasefire in Gaza, and the Hamas had responded to the amendments.
 
 ◼️
 
 [Data](articles/f4e6a58e.json)
 
+[Extended Data](ext_articles/f4e6a58e.ext.json)
+
 ---
 
-### எம்.பியானார் ஜகத் பிரியங்கர
+### M.Pianar Jagath Priyankara
 
 *2024-02-08 10:30:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பியானார்-ஜகத்-பிரியங்கர/175-332879) · `ta`
 
-ஜகத் பிரியங்கர சற்று முன்னர் சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன முன்னிலையில் பாராளுமன்ற உறுப்பினராக சத்தியப்பிரமாணம் செய்து கொண்டார்.
+Jagath Priyankara was sworn in as a Member of Parliament in the presence of Speaker Mahinda Yapa Abeywardena.
 
-இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் திடீர் மரணத்தினால் ஏற்பட்ட வெற்றிடத்துக்கே அவர் பாராளுமன்ற உறுப்பினராக பதவியேற்று சத்தியப்பிரமாணம் செய்துகொண்டார்.
+He sworn in as a Member of Parliament for the vacuum of the sudden death of the Minister of State Sanath Nishantha.
 
 ◼️
 
 [Data](articles/95505a32.json)
 
+[Extended Data](ext_articles/95505a32.ext.json)
+
 ---
 
-### திருமணம் செய்த பெண் கைது
+### Arresting woman married
 
 *2024-02-08 10:30:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/திருமணம்-செய்த-பெண்-கைது/76-332878) · `ta`
 
-இலங்கையில் ஆண்ணொருவரை திருமணம் செய்து கொண்டு விசா இன்றி தந்தையுடன் தங்கியிருந்த எத்தியோப்பிய பெண், கண்டி சுற்றுலாத்துறை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+The Ethiopian woman who married a man in Sri Lanka and stayed with her father without a visa has been arrested by the Kandy Tourism Police.
 
-குறித்த பெண் இலங்கையை சேர்ந்த ஒருவரை திருமணம் செய்து அம்பிட்டிய பிரதேசத்தில் வசிப்பதாகவும், வெளிநாட்டு பெண், மீண்டும் வெளிநாட்டுக்குச் சென்றுவிடுவாரோ என அஞ்சிய இலங்கையை சேர்ந்த கணவர்   பெண்ணின் கடவுச்சீட்டு மற்றும் ஏனைய ஆவணங்களை மறைத்து வைத்துள்ளதாகவும் பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+Police investigations have revealed that the woman was married to a Sri Lankan man and lived in the Ampitiya area and had hidden her husband's passport and other documents, fearing that a foreign woman would go abroad.
 
-எத்தியோப்பிய பெண் தனது முந்தைய திருமணமான எத்தியோப்பியாவில் தனது இரண்டு குழந்தைகளுடன் இந்த நாட்டிற்கு வந்துள்ளார், மேலும் அவரது விசா ஜனவரி 17 ஆம் திகதி காலாவதியானது, சம்பவம் குறித்து கண்டி சுற்றுலாப் பொலிஸ் பிரிவு இந்தியாவிலுள்ள எத்தியோப்பிய தூதரகத்திற்கு அறிவிக்க நடவடிக்கை எடுத்துள்ளது.
+The Ethiopian woman has come to the country with her two children in her previous married Ethiopia, and her visa expired on January 17, and the Kandy Tourism Police Division has taken steps to inform the Ethiopian embassy in India.
 
 ◼️
 
 [Data](articles/eb9416f1.json)
 
+[Extended Data](ext_articles/eb9416f1.ext.json)
+
 ---
 
-### කප්පම් ගැනීම සදහා සිරකර රදවා තබාගෙන සිටි විශේෂ්ඥ වෛද්‍යවරයා  මුදවාගනී
+### Due to extortion in prison
 
 *2024-02-08 10:26:24* · [`adalk`](https://www.ada.lk/breaking_news/කප්පම්-ගැනීම-සදහා-සිරකර-රදවා-තබාගෙන-සිටි-විශේෂ්ඥ-වෛද්‍යවරයා--මුදවාගනී/11-407959) · `si`
 
-රුපියල් ලක්ෂ හතලිහක කප්පම් මුදලක් ලබා ගැනීම සදහා බදුල්ල ප්‍රදේශයේ විශේෂඥ වෛද්‍යවරයෙක් මීටියාගොඩ ප්‍රදේශයේ නිවසක බලහත්කාරයෙන් සිරකර ගෙන රදවා ගෙන සිටියදී ඊයේ (7) මුදවාගත් බව හික්කඩුව පොලීසිය කියයි.
+A special doctor in the Badulla area was forcibly abused a house in Meetiyagoda yesterday (7) while a specialist in Meetiyagoda was abused yesterday to obtain a ransom.
 
-කප්පම් මුදල් ලබා ගැනීම සදහා සිරකර රදවා තබාගෙන සිටි විශේෂ්ඥ වෛද්‍යවරයා බදුල්ලේ ප්‍රසව හා නාරිවේද විශේෂඥ වෛද්‍යවරයෙක් බවත් ඔහු සිරකරගෙන සිටි විසිඅට හැවිරිදි උපකාර පංති ගුරුවරයා මීටියාගොඩ ප්‍රදේශයේම පදිංචි අයෙක් බවත් පොලීසිය කියයි
+The Twenty-year-old support of the twenty-eight-year-old support of the abroad was a resident of Meetiyagoda, a resident of Meetiyagoda, who had been holding the prisoner.
 
-පොලිස් සහන මැදිරියෙන් සිය පොලිස් ස්ථානයට විශේෂඥ වෛද්‍යවරයෙක් කප්පම් මුදලක් ලබා ගැනීම සදහා සිර කරගෙන සිටින බවට තොරතුරු ලබා දුන් බවත් ඒ සමගම විශේෂඥ වෛද්‍යවරයා සිරකරගෙන සිටින නිවසට යන ගූගල් සිතියමද එවා තිබූ බවත් පොලීසිය කියයි.
+Police say that the police relief room was imprisoned to obtain a ransom of a specialist.
 
-පොලිස් සහන මැදිරියෙන් ලබාදුන් තොරතුරු හා ගූගල් සිතියම අනුව විශේෂඥ වෛද්‍යවරයා සිරකර ගෙන සිටි නිවස සොයා මෙහෙයුමක් ආරම්භ කළ බවත් ඒ අනුව යාමේදී මේ සිදුවීම හික්කඩුව පොලිස් බල ප්‍රදේශයට අයත් නොවන මීටියාගොඩ පොලිස් බල ප්‍රදේශයට අයත් එකක් බවත් ඒ සම්බන්ධයෙන් පොලීසියේ ඉහල නිලධාරීන්ගේ උපදෙස් හා මගපෙන්වීම අනුව මේ වැටලීමට ගිය බවත් හික්කඩුව පොලීසිය කියයි.
+The raid went on to find a campaign to find the house in the Hikkaduwa Police area, which was held in the Hikkaduwa Police area by the police relief room and that the incident was found in the Hikkaduwa Police area.Hikkaduwa Police say.
 
-...
+Hikkadu OIC Chief Inspector General Inspector General Inspector General Inspector General Inspector General Inspector Lalith Sadugiri, OIC of the Hon.Sub-Inspectors, Mendis, Vithanachchi, Police Sergeant Wickramaratne (68246), Police Constable Thilina (36132) are conducting further investigations.
+
+◼️
 
 [Data](articles/a98629dc.json)
 
+[Extended Data](ext_articles/a98629dc.ext.json)
+
 ---
 
-### போக்குவரத்தில் துஷ்பிரயோகம்:  42 பேர் கைது
+### Abuse in traffic: 42 arrested
 
 *2024-02-08 10:22:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போக்குவரத்தில்-துஷ்பிரயோகம்-42-பேர்-கைது/175-332877) · `ta`
 
-பொதுப் போக்குவரத்தில் சிறுவர்கள் மற்றும் பெண்களுக்கு எதிராக துஷ்பிரயோகம் செய்யும் நபர்களை இலக்கு வைத்து நாடளாவிய ரீதியில் மேற்கொள்ளப்பட்ட பொலிஸ் நடவடிக்கையின் போது 42 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+42 suspects have been arrested during a police operation carried out nationwide targeting people who abuse against children and girls in public transport.
 
-பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனின் பணிப்புரையின் கீழ், நேற்று காலை 08.00 – 10.00 மற்றும் 17.00 – 19.00 வரை இந்த நடவடிக்கை மேற்கொள்ளப்பட்டது.
+The action was taken from 08.00 - 10.00 and 17.00 - 19.00 yesterday under the directive of the Inspector General of Police Deshabandu Tennakoon.
 
-அதன்படி, வீதிகள், பஸ் நிலையங்கள் மற்றும் புகையிரத நிலையங்களில் விசேட கவனத்துடன் பொலிஸ் உத்தியோகத்தர்கள் சிவில் உடையில் பஸ்களில் பயணித்தனர்.
+Accordingly, the police officers were traveling in civil clothes on the buses, bus stations and railway stations.
 
-இதன்படி, பொது போக்குவரத்தில் சிறுவர்கள் மற்றும் பெண்களுக்கு எதிராக துஷ்பிரயோகம் செய்த 18 பேர் கைது செய்யப்பட்டுள்ளனர், மேலும் ஐந்து திருடர்கள் உட்பட 24 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+Accordingly, 18 people have been arrested for abusing children and girls in public transport, and 24 suspects, including five thieves, have been arrested.
 
-இந்த நடவடிக்கையின் முதன்மை நோக்கம் பொது போக்குவரத்து சேவைகளில் பாலியல் துஷ்பிரயோகத்தை எதிர்த்துப் போராடுவதாகும் என்று பொது பாதுகாப்பு அமைச்சகம் தெரிவித்துள்ளது.
+The main purpose of this move is to fight sexual abuse in public transport services, the Ministry of Public Security said.
 
 ◼️
 
 [Data](articles/5712e822.json)
+
+[Extended Data](ext_articles/5712e822.ext.json)
 
 ---
 
@@ -299,6 +327,8 @@ Talk of the Town | Ending Impunity | Janaka Ratnayake | 08 February 2024
 ◼️
 
 [Data](articles/d1120f05.json)
+
+[Extended Data](ext_articles/d1120f05.ext.json)
 
 ---
 
@@ -436,21 +466,23 @@ In the meantime, a woman who is said to be a girlfriend of the gunman was detain
 
 ---
 
-### මැණික් සොරා ගත් පෞද්ගලික බස් රථ රියදුරෙකු අත්අඩංගුවට
+### Private bus driver arrested for gem robbery
 
 *2024-02-08 09:52:19* · [`adalk`](https://www.ada.lk/breaking_news/මැණික්-සොරා-ගත්-පෞද්ගලික-බස්-රථ-රියදුරෙකු-අත්අඩංගුවට/11-407958) · `si`
 
-මැණික් ව්‍යාපාරිකයෙකු බස් රථයකදී අමතකව දමා ගිය රුපියල් 2,500,000/= වටිනා මැණික් සහිත පාර්සලයක් සොරා ගත් පෞද්ගලික බස් රථ රියදුරෙකු අත්අඩංගුවට ගෙන ඇත.
+A private bus driver has been arrested for a parcel with a gem business forgotten at a bus.
 
-මැණික් ගල් 13ක් අඩංගු පාර්සල් දෙකක් කුඩා බෑගයක දමාගෙන බස් රථයකින් අවිස්සාවේල්ල නගරය කරා පැමිණ ඇති අතර එම කුඩා බෑගය බස් රථය තුළ අමතකව දමා ගොස් තිබූ බව පොලිසිය කියයි
+Two parcels containing 13 gem stones were in a small bag and had returned to Avissawella in a small bag, police said that the small bag had been forgotten
 
-මේ  සම්බන්ධයෙන් පොලිසියට කරන ලද පැමිණිල්ලකට අනුව බස් රථය ගාල්කර තිබූ අවිස්සාවේල්ල මා දොළ ප්‍රදේශයේ  ස්ථානයට ගොස් රියදුරුගෙන් සිදුකළ ප්‍රශ්න කිරීමේදී   ඔහු සන්තකයේ  තිබී සොරා ගත් මැණික් ගල් සහිත පාර්සලය සොයා ගැනීමට හැකි වී ඇත.
+According to a complaint made by the police, the bus was able to visit the Driver area in the Driver, which was stolen from the driver, which was stolen in his possession.
 
-අත්අඩංගුවට ගත් සැකකරු වයස අවුරුදු 42 ක් වන ලක්ෂ කන්ද එරත්ත ප්‍රදේශයේ පදිංචිකරුවෙකි
+The suspect is a 42 year old resident of Laxili
 
 ◼️
 
 [Data](articles/4d5a0335.json)
+
+[Extended Data](ext_articles/4d5a0335.ext.json)
 
 ---
 

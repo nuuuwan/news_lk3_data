@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 07:15:26**
+As of **2024-02-08 07:30:26**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ dailymirrorlk | 792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,587 (99.9%) of 5,593 articles have been extended.
+5,593 (100.0%) of 5,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### மரத் தொழிற்சாலையில் தீ விபத்து
+### Fire in a wooden factory
 
 *2024-02-08 06:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175843) · `ta`
 
-பட்டலிய, மக்கனிகொட பிரதேசத்தில் மரத் தொழிற்சாலையொன்றில் 7 ஆம் திகதி இரவு தீ விபத்து இடம்பெற்றுள்ளதாக பல்லவெல பொலிஸார் தெரிவிக்கின்றனர்.
+Pallawela police say that a fire broke out on the night of the 7th night at a wooden factory in Makanigoda, Pattaliya.
 
-தீயை அணைக்க கம்பஹா மாநகர சபையின் தீயணைப்பு பிரிவினர் நடவடிக்கை எடுத்ததாக பொலிஸார் தெரிவித்தனர்.
+Police said the fire brigade of the Gampaha Municipal Council took action to extinguish the fire.
 
 ◼️
 
 [Data](articles/ad64b6e7.json)
+
+[Extended Data](ext_articles/ad64b6e7.ext.json)
 
 ---
 
@@ -150,21 +152,23 @@ Hayleys Aventura Ltd., a subsidiary of Hayleys PLC, recently hosted the inaugura
 
 ---
 
-### ’அனுரவுக்கு ஜனாதிபதி ஆசீர்வாதம்’
+### President's blessing
 
 *2024-02-08 02:09:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவுக்கு-ஜனாதிபதி-ஆசீர்வாதம்/175-332867) · `ta`
 
-ஜனாதிபதியின் முழுமையான ஆசீர்வாதத்துடன் தான் தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸாநாயக்க இந்தியாவுக்குச் சென்றுள்ளார் என நீதி, சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜயதாஸ ராஜபக்ஷ தெரிவித்தார்.
+Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapakse said that the President of the National People's Power, Anura Kumara Dissanayake has visited India with the full blessing of the president.
 
-பாராளுமன்றத்தில் நேற்று இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரையின் பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவிக்கையில் அவர் இவ்வாறு குறிப்பிட்டார். இதன்போது  மேலும் தெரிவிக்கையில்,
+He said this to the media after the President's Policy Declaration held in Parliament yesterday. In this regard,
 
-" தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸாநாயக்க உட்பட அவரது குழுவினர் ஜனாதிபதியின் முழுமையான ஆசீர்வாதத்துடன் தான் இந்தியாவுக்கு அரசமுறை பயணத்தை மேற்கொண்டுள்ளார்கள். இவர்களுக்குத் தேவையான சகல வசதிகளையும் வழங்குமாறு இந்தியாவில் உள்ள இலங்கை உயர்ஸ்தானிகருக்கு ஆலோசனை வழங்கியுள்ளோம்.
+“The leader of the National People's Power, Anura Kumara Dissanayake, has made a state visit to India with the full blessing of the president.. We have advised the Sri Lankan High Commissioner in India to provide them with all the necessary facilities.
 
-மக்கள் விடுதலை முன்னணியினர் இந்திய எதிர்ப்பு கொள்கையிலிருந்து விடுபட்டு நடைமுறைக்கு ஏற்றால் போல் செயற்பட முனைவது வரவேற்கத்தக்கது. மக்கள் விடுதலை முன்னணியின் மாற்றம் மகிழ்வுக்குரியது."  என்றார். (a)
+It is welcome that the Janatha Vimukthi Peramuna (JVP) is free from the anti -Indian policy. The change of the Janatha Vimukthi Peramuna is delighted. ”. (A)
 
 ◼️
 
 [Data](articles/27dfdc69.json)
+
+[Extended Data](ext_articles/27dfdc69.ext.json)
 
 ---
 

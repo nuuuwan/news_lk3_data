@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 21:33:18**
+As of **2024-02-08 21:52:02**
 
 ## Newspaper Stats
 
-*Scraped **5,793** Articles*
+*Scraped **5,794** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 316
 newsfirstlk | 362
 adalk | 491
 virakesarilk | 713
-adaderanalk | 714
+adaderanalk | 715
 tamilmirrorlk | 716
 adaderanasinhalalk | 763
 dailymirrorlk | 820
@@ -26,7 +26,7 @@ dailymirrorlk | 820
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,793 (100.0%) of 5,793 articles have been extended.
+5,794 (100.0%) of 5,794 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,26 @@ Meanwhile, a group of employees of bus depot protest in front of the Breid of Bi
 [Data](articles/40d2f35d.json)
 
 [Extended Data](ext_articles/40d2f35d.ext.json)
+
+---
+
+### India to begin LNG supplies to Sri Lanka in 2025
+
+*2024-02-08 20:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97124/india-to-begin-lng-supplies-to-sri-lanka-in-2025) · `en`
+
+Petronet LNG Ltd, India’s biggest liquefied natural gas company, will in 2025 start supplying LNG to Sri Lanka, initially in containers loaded on ships and later going on to build an import terminal, its chief executive said on Thursday.
+
+Sri Lanka is seeking supply of gas in liquid form to meet requirements for generating electricity and other industries. It was in discussions with Petronet and other suppliers for years and it is only now that it has finally agreed to buy the fuel from the Indian firm.
+
+Petronet CEO Akshay Kumar Singh said the company will ship 850 tonnes of gas daily to the island nation in containers of 17 tonnes each. The supplies would be for five years during which the company will build a floating LNG receipt facility at Colombo port. “The supplies will start in 18 months or so,” he said.
+
+The Indian firm imports LNG from Qatar, Australia and other countries at two terminals - Dahej terminal in Gujarat and a facility at Kochi in Kerala.
+
+...
+
+[Data](articles/ac09c0e7.json)
+
+[Extended Data](ext_articles/ac09c0e7.ext.json)
 
 ---
 
@@ -2109,23 +2129,5 @@ February 9, 11 and 14 at the International Cricket Stadium in the Pallekele Inte
 [Data](articles/f51e9113.json)
 
 [Extended Data](ext_articles/f51e9113.ext.json)
-
----
-
-### Doctor arrested for sexual abuse
-
-*2024-02-08 11:49:56* · [`adalk`](https://www.ada.lk/breaking_news/තරුණ-වෛද්‍යවරියකට-ලිංගික-අතවර-කිරීමට-තැත්-කළ-වෛද්‍යවරයා-අත්අඩංගුවට/11-407963) · `si`
-
-Aranayaka Police have arrested a 45-year-old girl who had been sexually abused a 28 year old medicine at the Aranayaka District Hospital today (08).
-
-The doctor's father has lodged a complaint with the Children's and Women's Bureau in Kegalle that the suspect is forcibly involved in the doctor's body.
-
-The doctor who was abused by the doctor and duties were reported to be produced before the incident.
-
-◼️
-
-[Data](articles/0228917e.json)
-
-[Extended Data](ext_articles/0228917e.ext.json)
 
 ---

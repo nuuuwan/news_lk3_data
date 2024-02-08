@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 12:17:14**
+As of **2024-02-08 12:33:37**
 
 ## Newspaper Stats
 
-*Scraped **5,672** Articles*
+*Scraped **5,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,77 @@ dbsjeyarajcom | 141
 economynextcom | 296
 islandlk | 299
 dailyftlk | 316
-newsfirstlk | 346
+newsfirstlk | 350
 adalk | 478
 virakesarilk | 694
-adaderanalk | 702
+adaderanalk | 703
 tamilmirrorlk | 708
 adaderanasinhalalk | 745
-dailymirrorlk | 804
+dailymirrorlk | 808
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,672 (100.0%) of 5,672 articles have been extended.
+5,672 (99.8%) of 5,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### 19 more Indian fishermen apprehended for poaching in Sri Lankan waters
+
+*2024-02-08 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97110/19-more-indian-fishermen-apprehended-for-poaching-in-sri-lankan-waters) · `en`
+
+The Sri Lanka Navy, together with the Sri Lanka Coast Guard have seized 02 Indian trawlers and apprehended 19 Indian fishermen poaching in Sri Lankan waters near Delft Island, Jaffna last night (Feb. 07).
+
+The Northern Naval Command of Sri Lanka Navy had deployed Fast Attack Craft and Coast Guard to chase away a cluster of Indian poaching trawlers, having spotted them engaging in illegal fishing in Sri Lankan waters close to the Delft Island in the dark hours on Wednesday. Two poaching trawlers carrying 19 fishermen were apprehended as they continued to remain in Sri Lankan waters, the Navy said.
+
+The seized trawlers, together with the 19 fishermen, have been brought to the Kankesanturai Harbour and they will be handed over to the Mailadi Fisheries Inspector for onward legal proceedings, according to the Navy.
+
+With the new development, the Navy has held 12 Indian poaching trawlers and 88 Indian fishermen in island waters thus far in 2024 and handed them over to authorities for legal action.
+
+...
+
+[Data](articles/ba0c377f.json)
+
+---
+
+### Sports Minister greenlights Sri Lanka’s ODI squad for Afghanistan series
+
+*2024-02-08 11:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sports-Minister-greenlights-Sri-Lankas-ODI-squad-for-Afghanistan-series/108-276593) · `en`
+
+Colombo, Feb. 8 (Daily Mirror) - Minister of Sports and Youth Affairs Harin Fernando has approved the 16-member squad selected by the Sri Lanka Cricket Selection Committee to participate in the ODI series against Afghanistan.
+
+Former captain Dasun Shanaka has been excluded from the squad, while all-rounder Chamika Karunaratne has been included.
+
+The ODI series is scheduled to commence on February 9th in Pallekele.
+
+◼️
+
+[Data](articles/5e999200.json)
+
+---
+
+### Deadline to submit electoral register Feb 29th
+
+*2024-02-08 11:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/deadline-to-submit-electoral-register-feb-29th/) · `en`
+
+COLOMBO (News 1st); The Election Commission has issued a reminder to complete registration for the 2024 electoral register without delay.
+
+Commissioner General of Elections Saman Sri Ratnayake said the relevant registration process should be completed before the 29th of February.
+
+He said it is mandatory to include information of all family members or people staying at the residence over the age of 18 years, in the electoral register received at the relevant residence.
+
+Accordingly, all persons who have not changed their permanent residence, who have changed their residence due to marriage, education or any other reason should be registered in the electoral register.
+
+Ratnayake said the names of family members who are overseas should also be included in the electoral register, regardless of whether or not they can vote.
+
+◼️
+
+[Data](articles/41cc10f9.json)
+
+---
 
 ### Bus strike launched on Avissawella - Colombo route
 
@@ -49,6 +103,84 @@ The bus operators also allege that no legal action has been taken against the re
 [Data](articles/a0949df7.json)
 
 [Extended Data](ext_articles/a0949df7.ext.json)
+
+---
+
+### Police Seize Pagoda-Shaped Sapphires Suspected to be Looted Treasure
+
+*2024-02-08 11:24:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/police-seize-pagoda-shaped-sapphires-suspected-to-be-looted-treasure/) · `en`
+
+COLOMBO (News 1st); In a significant crackdown on illegal gem trade, the Koslanda Police, acting on information provided by the Army Intelligence Division, conducted a raid that led to the seizure of two Sapphire Blue Stones.
+
+These precious gems were being prepared for an illicit sale, with a staggering price tag of Rs. 370 million
+
+Two suspects have been apprehended in connection with this incident, one of whom hails from the Weliveriya area, and identified as a person in robes.
+
+Further investigations have unveiled a startling revelation – the second suspect, a 72-year-old man, is the father of a local politician affiliated with a well-known political party.
+
+The seized gemstones, intriguingly shaped like a pagoda, have raised suspicions, as authorities suspect they may be part of looted treasure.
+
+It is currently believed that these gems may have been procured through such illicit means.
+
+The Koslanda Police are conducting further investigations into this matter.
+
+◼️
+
+[Data](articles/07da85aa.json)
+
+---
+
+### Two Suspects Held With 1200 Pregabalin Capsules
+
+*2024-02-08 11:24:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/two-suspects-held-with-1200-pregabalin-capsules/) · `en`
+
+COLOMBO (News 1st);  A search operation conducted by the Navy and Division Crime Investigation Bureau, Mannar led to the arrest of 02 suspects (male and female) with 1200 Pregabalin capsules which had been made ready to sell.
+
+The coordinated operation was mounted in Nanattan area of Silawathura on 07th February 2024.
+
+During this operation, SLNS Therapuththa in the Northwestern Naval Command and Division Crime Investigation Bureau, Mannar searched 02 individuals on suspicion in Nanattan area.
+
+The search led to the recovery of 1200 Pregabalin capsules which had been made ready to sell, in the possession of those suspects. Accordingly, the 02 suspects and prescription drugs were taken into custody.
+
+The male and female suspects held in this operation were identified as residents of Nanattan, aged 23 and 45.
+
+The accused, along with Pregabalin capsules, were handed over to the Silawathura Police for onward legal action.
+
+◼️
+
+[Data](articles/7a976427.json)
+
+---
+
+### Vegetable prices slump today
+
+*2024-02-08 11:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vegetable-prices-slump-today/108-276592) · `en`
+
+Colombo, Feb 8 (Daily Mirror) - Compared to recent vegetable prices, today recorded lower prices for vegetables at the New Manning Market in Peliyagoda.
+
+Accordingly, the retail price of a kilo of carrot was Rs. 700, and beans Rs. 500. However, green chillies and capsicum recorded Rs. 1,000 and Rs. 1,100 respectively.
+
+Moreover, fish prices at the New Manning Market in Peliyagoda too were low today.
+
+◼️
+
+[Data](articles/281401d7.json)
+
+---
+
+### Shortcomings observed in Online Safety Act; open for amendments: Wijeyadasa
+
+*2024-02-08 11:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shortcomings-observed-in-Online-Safety-Act-open-for-amendments-Wijeyadasa/108-276591) · `en`
+
+Parliament, Feb. 08 (Daily Mirror)- The government has observed that there are some shortcomings in the recently enacted Online Safety Act and the government is open to bring in amendments to the Act, Justice Minister Wijeyadasa Rajapakshe said today.
+
+Responding to questions by Opposition Leader Sajith Premadasa and SJB MP Harsha de Silva, Minister Rajapakshe told Parliament that it was pointless calling the Act as erronous and requested the Opposition to propose amendments to the Act.
+
+"There are shortcomings in this Act. We also have observed some shortcomings. We are open to make amednments. You propose the required amendments. We will discuss them. Power is vested with Parliament. We should discuss it in Parliament and make necessary amendments without calling the Act erronous and it should be set on fire," the Minister said.
+
+...
+
+[Data](articles/105f4749.json)
 
 ---
 
@@ -87,6 +219,30 @@ Police said the affidavit had been filed with the doctor and five persons who we
 [Data](articles/4fa8870a.json)
 
 [Extended Data](ext_articles/4fa8870a.ext.json)
+
+---
+
+### Jagath Priyankara Fills Vacant Puttalam District Seat
+
+*2024-02-08 10:57:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/jagath-priyankara-fills-vacant-puttalam-district-seat/) · `en`
+
+COLOMBO (News 1st); Jagath Priyankara was sworn in as the new parliamentary representative for the Puttalam district.
+
+He took the oath of office in front of the Speaker, filling the seat left vacant by the untimely demise of State Minister Sanath Nishantha, who tragically passed away in an accident.
+
+The Sri Lanka Podu Jana Peramuna had previously secured five parliamentary seats from the Puttalam district in the 2020 parliamentary elections.
+
+The late Sanath Nishantha had topped the preference list, followed by Piyankara Jayaratne, Arundika Fernando, Chinthaka Amal Mayadunna, and Ashoka Priyantha.
+
+Jagath Priyankara, who was next on the preference list, had received a significant 40,527 preferential votes.
+
+His swearing-in  marks the official transfer of the seat previously held by Sanath Nishantha.
+
+Priyankara is also the Puttalam district leader of the National Freedom Front, a party led by Wimal Weerawansa.
+
+◼️
+
+[Data](articles/7115d107.json)
 
 ---
 
@@ -503,8 +659,6 @@ When BBC journalists went to the area, people shouted that the United States was
 ### Talk of the Town | Ending Impunity | Janaka Ratnayake | 08 February 2024
 
 *2024-02-08 10:09:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/talk-of-the-town-ending-impunity-janaka-ratnayake-08-february-2024/) · `en`
-
-Talk of the Town | Ending Impunity | Janaka Ratnayake | 08 February 2024
 
 Talk of the Town | Ending Impunity | Janaka Ratnayake | 08 February 2024
 
@@ -1226,8 +1380,6 @@ The 7th edition of the Conference is being organized by India Foundation in asso
 
 With the theme “Towards a Stable and Sustainable Indian Ocean”, the Conference will bring together key stakeholders to chart the roadmap for strengthening regional cooperation.
 
-Talk of the Town | Ending Impunity | Janaka Ratnayake | 08 February 2024
-
 ◼️
 
 [Data](articles/9d97adfb.json)
@@ -1857,167 +2009,5 @@ Considering the shortage of teachers in the Eastern Province, Senthil Thondaman 
 [Data](articles/15e0ea41.json)
 
 [Extended Data](ext_articles/15e0ea41.ext.json)
-
----
-
-### Finance Minister Sehan Semasinghe is responsible for the outbreak of the country
-
-*2024-02-08 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175847) · `ta`
-
-Finance Minister Xihan Semasinghe said that the main opposition president's speech was due to the inability of the country's gradual economic improvement and political conditions to be smooth.
-
-The Minister of State was speaking on Wednesday (7) in Parliament.
-
-The president's policy speech also focused on the importance of the economy to the economy as the country's current economic status and the country move forward.
-
-It also contained suggestions on how to build it without disrupting the economy of such a country.
-
-As the President continues to announce, we are making contacts with international. It is being carried out on the basis of the accepted system.
-
-The opposition retains itself on the basis of criticism. They have no plans for the country's economy. When they look at the plans they put forward, it is things that no one can accept.
-
-In his speech, the president stressed that the second phase should be considered about the country and the second stage.. They do not accept it.
-
-...
-
-[Data](articles/c045a259.json)
-
-[Extended Data](ext_articles/c045a259.ext.json)
-
----
-
-### Interregnum: Anura’s passage to India, Sajith’s comeback, America’s hubris
-
-*2024-02-08 00:33:25* · [`dailyftlk`](https://www.ft.lk/columns/Interregnum-Anura-s-passage-to-India-Sajith-s-comeback-America-s-hubris/4-758220) · `en`
-
-“Our beautiful Motherland is indeed unfortunate. What we must do is to work to liberate it from the grasp of this oppressive ruling class. That is what citizens who really love the Motherland should do.”
-
-Anura Kumara Dissanayake has arrived. The fact that he has arrived in Delhi is the most visible sign that he has arrived as a major player recognised at the big table. The Red leader is in the Green Room. Meera Srinivasan of The Hindu has it right when she called it “a significant outreach to the island nation’s most popular politician at the moment.” (Sri Lanka’s JVP-led alliance invited for talks in Delhi for the first time - The Hindu)
-
-...
-
-[Data](articles/c084d0d0.json)
-
-[Extended Data](ext_articles/c084d0d0.ext.json)
-
----
-
-### West is prioritizing the competition with China than the problem of Tamils -Gajendrakumar Ponnambalam
-
-*2024-02-08 00:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175846) · `ta`
-
-Gajendrakumar Ponnambalam, leader of the Tamil National People's Front and Jaffna MP, said that the Western countries, including the United States, are emphasizing the importance of dealing with China because of the competition with China instead of taking steps to address the problems of Tamils.
-
-Gajendrakumar Ponnambalam, who has visited the United States, has a meeting with US Congress members Willy Nickle, Deboth Ross, Jammy Ruskine and Deni K. Devis.
-
-A resolution to emphasize Sri Lanka's reconciliation and accountability was passed in 427 Congress House. In a meeting with them, we explained the current conditions of the Tamils in a meeting with the Tamils.
-
-During the Rajapaksas, strictly planned measures were taken against the Tamil people and the Tamil nation.. At this juncture, President Ranil Wickremesinghe's regime is being carried out.
-
-...
-
-[Data](articles/538f07f8.json)
-
-[Extended Data](ext_articles/538f07f8.ext.json)
-
----
-
-### US military helicopter reported missing with 5 Marines on board
-
-*2024-02-08 00:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97097/us-military-helicopter-reported-missing-with-5-marines-on-board) · `en`
-
-Crews were searching for a Marine Corps helicopter carrying five troops from Nevada to California that was reported overdue early Wednesday as a historic storm continued drenching California.
-
-The Marines were flying a CH-53E Super Stallion helicopter from Creech Air Force Base, northwest of Las Vegas, where they had been doing unit-level training and were returning home to Marine Corps Air Station Miramar in San Diego, defense officials said.
-
-It was not immediately known what time the helicopter left Creech nor what time they were due to arrive. Waves of heavy downpours hit the area throughout the night and snow was forecast for San Diego County mountains.
-
-The five U.S. Marines were assigned to Marine Heavy Helicopter Squadron 361, Marine Aircraft Group 16, 3rd Marine Aircraft Wing at Miramar, the Marine Corps said in a statement.
-
-...
-
-[Data](articles/52f7ced0.json)
-
-[Extended Data](ext_articles/52f7ced0.ext.json)
-
----
-
-### New Delhi Focuses On Exploring Unknown NPP
-
-*2024-02-08 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/New-Delhi-Focuses-On-Exploring-Unknown-NPP/172-276538) · `en`
-
-Now the JVP has grown to form an alliance (the National People’s Power) with several other groups, and is even recognized as a force in the political scene by neighbouring India
-
-Though India may not fear the JVP-led alliance it certainly is concerned about how this alliance would deal with countries which have an interest in Sri Lanka; especially like India, China and the United States of America. On the surface it could amount to be an invitation to test the psyche of a political party that has the potential to win an election but might not know what to do with extreme power that comes its way when it forms a government
-
-There was a time when people in this island nation feared the Janatha Vimukthi Peramuna (JVP). That was a time known as the ‘insurgency’. We saw the worst of this insurgency in the late 1980s, and this was a time when there was an Indian Peace Keeping Force in this island; sent here to help the Sri Lankan security forces in the fight against terrorism.
-
-...
-
-[Data](articles/3edb6451.json)
-
-[Extended Data](ext_articles/3edb6451.ext.json)
-
----
-
-### Racism Degrades both the Perpetrator and the Victim
-
-*2024-02-08 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Racism-Degrades-both-the-Perpetrator-and-the-Victim/172-276536) · `en`
-
-...
-
-[Data](articles/4756757e.json)
-
-[Extended Data](ext_articles/4756757e.ext.json)
-
----
-
-### We don’t need a foreign player to answer our problems -Ravi Karunanayake
-
-*2024-02-08 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/We-dont-need-a-foreign-player-to-answer-our-problems-Ravi-Karunanayake/231-276542) · `en`
-
-“It is essential for the country to assume one policy when it comes to economic recovery and development”-
-
-At the end of the day the necessity is for a dynamic, result oriented leader for the country
-
-The country is confronted with too much of hearsay and prophesies which have led to the downfall of the government
-
-There are no people with courageous and conviction in the nation.
-
-UNP has seen an erosion in its confidence and we have re-establish that in the best possible way
-
-President Ranil Wickremesinghe is proposing a daring new system that is adventurous
-
-Some 18 months ago you were without electricity, gas and fuel. I think people should not forget about  all these
-
-...
-
-[Data](articles/63023171.json)
-
-[Extended Data](ext_articles/63023171.ext.json)
-
----
-
-### 2024-02-07 (Wednesday)
-
-### Unite with PA: Calling Maithri political parties
-
-*2024-02-07 23:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/175845) · `ta`
-
-Former President Maithripala Sirisena said that we have plans to build the country with all parties.
-
-He was speaking to the media after a speech of the President's Policy Declaration held in Parliament on Wednesday (7).
-
-Since 2022, we have urged everyone to work together to solve the economic crisis. Former President Gotabhaya Rajapakse and the current President Ranil Wickremesinghe have taken action to form a Supreme Party government. The efforts have failed due to lack of cooperation.
-
-The country's economic status has stabilized. But the social structure is the worst affected. Social structure cannot be achieved by crisis. We are sure that everyone should work together to build the country.
-
-I invite everyone to unite with the Sri Lanka PA. We have plans to build the country.
-
-◼️
-
-[Data](articles/c35d7990.json)
-
-[Extended Data](ext_articles/c35d7990.ext.json)
 
 ---

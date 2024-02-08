@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 19:17:23**
+As of **2024-02-08 19:32:42**
 
 ## Newspaper Stats
 
-*Scraped **5,783** Articles*
+*Scraped **5,787** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 64
+colombotelegraphcom | 67
 bbccomsinhala | 81
 dbsjeyarajcom | 142
-islandlk | 299
+islandlk | 300
 economynextcom | 307
 dailyftlk | 316
 newsfirstlk | 361
@@ -26,7 +26,7 @@ dailymirrorlk | 820
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,783 (100.0%) of 5,783 articles have been extended.
+5,783 (99.9%) of 5,787 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1372,6 +1372,20 @@ Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
 
 ---
 
+### Jaffna University Teachers’ Association Condemns Police Violence Against Students & Protestors In Kilinochchi On The Independence Day
+
+*2024-02-08 13:10:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/jaffna-university-teachers-association-condemns-police-violence-against-students-protestors-in-kilinochchi-on-the-independence-day/) · `en`
+
+On the 76th Independence Day of Sri Lanka, the undergraduates of the University of Jaffna, in alliance with civil society groups based in the North, organized a peaceful protest in Kilinochchi. These protests highlighted the ongoing acts of injustice and violations by the state and the Sinhala-Buddhisization of the North and East of the country and demanded a political solution to the national question.
+
+The students who participated in the protests were attacked brutally by the police with water cannons and tear gas. The police were seen dragging the students by their arms, pushing them around and forcing them onto the ground. Several students who took part in the protest were arrested.
+
+...
+
+[Data](articles/12fd5b24.json)
+
+---
+
 ### Sri Lanka in talks to push wind projects forward, minister says
 
 *2024-02-08 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97111/sri-lanka-in-talks-to-push-wind-projects-forward-minister-says) · `en`
@@ -1479,6 +1493,20 @@ Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
 [Data](articles/5e554d20.json)
 
 [Extended Data](ext_articles/5e554d20.ext.json)
+
+---
+
+### NPP’s Visit To India & Learning From India’s Success
+
+*2024-02-08 12:55:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/npps-visit-to-india-learning-from-indias-success/) · `en`
+
+The recent visit of the leader of the NPP to India has garnered significant attention due to his high-profile meetings and discussions focusing on exploring Indian models for development strategies, particularly in poverty alleviation, state administration, energy reforms, agriculture and water management, infrastructure enhancement, industrial growth, investment, healthcare, and women’s empowerment. Colombo Telegraph has carried a couple of opinions already and here is another perspective.
+
+The JVP’s pragmatic strategies for development while honoring the debts (should they come into political power), remain subject to further discussion, but the crucial takeaway lies in understanding India’s successful practices that have propelled her into an economic giant in the globe which need to be fully comprehended by Sri Lankan politicians aspiring to take over in the future.
+
+...
+
+[Data](articles/928660cf.json)
 
 ---
 
@@ -1617,6 +1645,18 @@ The body was placed at the Homagama Base Hospital and the post mortem examinatio
 [Data](articles/186a789e.json)
 
 [Extended Data](ext_articles/186a789e.ext.json)
+
+---
+
+### Prospect Of Trump Return Has Unnerved The Washington Swamp & Colluding Media
+
+*2024-02-08 12:46:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/prospect-of-trump-return-has-unnerved-the-washington-swamp-colluding-media/) · `en`
+
+The growing prospect of the return of Donald Trump to the White House despite the weaponized Department of Justice (DOJ) orchestrating a plethora of court cases against him has unnerved the establishment in Washington, D.C., afraid that he will ‘drain the swamp’. The moguls controlling the media in cahoots with those in the Democratic Party who are calling the shots in the White House in the context of a cognitively impaired Joe Biden have gone on overdrive to demonize Trump. Quite often Biden is literally not aware of his surroundings or what he is saying.
+
+...
+
+[Data](articles/c0255085.json)
 
 ---
 
@@ -2071,75 +2111,5 @@ The Colombo Stock Exchange was trading up; The All Share Price Index was up 0.29
 [Data](articles/aa472854.json)
 
 [Extended Data](ext_articles/aa472854.ext.json)
-
----
-
-### Police Seize Pagoda-Shaped Sapphires Suspected to be Looted Treasure
-
-*2024-02-08 11:24:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/police-seize-pagoda-shaped-sapphires-suspected-to-be-looted-treasure/) · `en`
-
-COLOMBO (News 1st); In a significant crackdown on illegal gem trade, the Koslanda Police, acting on information provided by the Army Intelligence Division, conducted a raid that led to the seizure of two Sapphire Blue Stones.
-
-These precious gems were being prepared for an illicit sale, with a staggering price tag of Rs. 370 million
-
-Two suspects have been apprehended in connection with this incident, one of whom hails from the Weliveriya area, and identified as a person in robes.
-
-Further investigations have unveiled a startling revelation – the second suspect, a 72-year-old man, is the father of a local politician affiliated with a well-known political party.
-
-The seized gemstones, intriguingly shaped like a pagoda, have raised suspicions, as authorities suspect they may be part of looted treasure.
-
-It is currently believed that these gems may have been procured through such illicit means.
-
-The Koslanda Police are conducting further investigations into this matter.
-
-...
-
-[Data](articles/07da85aa.json)
-
-[Extended Data](ext_articles/07da85aa.ext.json)
-
----
-
-### Two Suspects Held With 1200 Pregabalin Capsules
-
-*2024-02-08 11:24:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/two-suspects-held-with-1200-pregabalin-capsules/) · `en`
-
-COLOMBO (News 1st);  A search operation conducted by the Navy and Division Crime Investigation Bureau, Mannar led to the arrest of 02 suspects (male and female) with 1200 Pregabalin capsules which had been made ready to sell.
-
-The coordinated operation was mounted in Nanattan area of Silawathura on 07th February 2024.
-
-During this operation, SLNS Therapuththa in the Northwestern Naval Command and Division Crime Investigation Bureau, Mannar searched 02 individuals on suspicion in Nanattan area.
-
-The search led to the recovery of 1200 Pregabalin capsules which had been made ready to sell, in the possession of those suspects. Accordingly, the 02 suspects and prescription drugs were taken into custody.
-
-The male and female suspects held in this operation were identified as residents of Nanattan, aged 23 and 45.
-
-The accused, along with Pregabalin capsules, were handed over to the Silawathura Police for onward legal action.
-
-Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
-
-...
-
-[Data](articles/7a976427.json)
-
-[Extended Data](ext_articles/7a976427.ext.json)
-
----
-
-### Vegetable prices slump today
-
-*2024-02-08 11:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vegetable-prices-slump-today/108-276592) · `en`
-
-Colombo, Feb 8 (Daily Mirror) - Compared to recent vegetable prices, today recorded lower prices for vegetables at the New Manning Market in Peliyagoda.
-
-Accordingly, the retail price of a kilo of carrot was Rs. 700, and beans Rs. 500. However, green chillies and capsicum recorded Rs. 1,000 and Rs. 1,100 respectively.
-
-Moreover, fish prices at the New Manning Market in Peliyagoda too were low today.
-
-◼️
-
-[Data](articles/281401d7.json)
-
-[Extended Data](ext_articles/281401d7.ext.json)
 
 ---

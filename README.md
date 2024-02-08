@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 20:02:33**
+As of **2024-02-08 20:17:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 820
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,788 (100.0%) of 5,789 articles have been extended.
+5,789 (100.0%) of 5,789 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -310,19 +310,21 @@ El nio is the highest in the Pacific Ocean.
 
 ---
 
-### සියඹලාන්ඩුව බිම්ගත සූර්ය පැනල විදුලි ව්‍යාපෘතියේ විදුලි මිලදී ගැනිමේ ගිවිසුමට අත්සන් තබයි
+### Siyambalanduwa Labasive Solar Pagala Electricity Project
 
 *2024-02-08 17:02:09* · [`adalk`](https://www.ada.lk/breaking_news/සියඹලාන්ඩුව-බිම්ගත-සූර්ය-පැනල-විදුලි-ව්‍යාපෘතියේ-විදුලි-මිලදී-ගැනිමේ-ගිවිසුමට-අත්සන්-තබයි/11-407973) · `si`
 
-මෙගා වොට් 100ක ධාරිතාවයකින් යුත් සියඹළාන්ඩුව බිම්ගත සූර්ය පැනළ මගින් විදුලිය උත්පාදනය කිරීමේ පුනර්ජනනීය බලශක්ති ව්‍යපෘතිය වෙනුවෙන් වූ විදුලිය මිලදී ගැනීමේ ගිවිසුම අත්සන් කිරීම රිවිදනවි පෞද්ගලික සමාගම සහ විදුලිබල මණ්ඩලය අතර අද සිදු කරනු ලැබුණි.
+Ravyavadavi (Pvt) Ltd and the Ceylon Electricity Board (Pvt) Ltd has been conducted to sign the electricity purchase of electricity to generate electricity by 100 mega watts.
 
-මෙම ව්‍යපෘතිය සඳහා ලංසු කැඳවීම විදුලිබල මණ්ඩලය විසින් 2022 වර්ෂයේ සැප්තැම්බර් මස සිදු කරන ලැබූ අතර 2023 වර්ෂයේ තාක්ෂණික සහ මුල්‍ය කටයුතු අධ්‍යනය කර 2023 වර්ෂයේ අවසන අඩුම ලංසුව ඉදිරිපත් කරන ලද සමාගමට ප්‍රධානය කරනු ලැබුණි. එම සමාගම මගින්ම එහි සම්ප්‍රේෂණ යටිතල පහසුකම් කිලෝ මීටර් 27.5ක් සංවර්ධනය කෙරේ.
+Bid call for this project was conducted in September 2022 and awarded to the company that was submitted to the company of 2023 in 2023. 27.5 km will be developed by its transmission infrastructure.
 
-රිවිදනවී සමාගම කොටස්කරුවන් වන ලක්දනවි සමාගම, වින්ඩ් ෆොස් සමාගම සහ සිංගප්පුරුවේ බ්ලු සිර්කල් පෞද්ගලික සමාගම ඒකාබද්ධව සැදුම්ලත් සමාගමක් වේ. මෙම ව්‍යාපෘතියේ ආයෝජනය ඇමෙරිකානු ඩොලර් මිලියන 132ක් පමණ වේ.
+Ravyadavi Company is partners Lakdani, Wind Proseclam and Singapore, Singapore, jointly consolidated company. The investment in this project is about US $ 132 million.
 
 ◼️
 
 [Data](articles/545ae1fd.json)
+
+[Extended Data](ext_articles/545ae1fd.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 02:49:09**
+As of **2024-02-09 03:02:23**
 
 ## Newspaper Stats
 
-*Scraped **5,835** Articles*
+*Scraped **5,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 308
 dailyftlk | 316
 newsfirstlk | 363
 adalk | 491
-tamilmirrorlk | 718
+tamilmirrorlk | 719
 adaderanalk | 719
-virakesarilk | 728
+virakesarilk | 731
 adaderanasinhalalk | 767
 dailymirrorlk | 834
 
@@ -26,11 +26,81 @@ dailymirrorlk | 834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,835 (100.0%) of 5,835 articles have been extended.
+5,835 (99.9%) of 5,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### பயங்கரவாத எதிர்ப்பு சட்டமூலம்: 30 மனுக்கள் தாக்கல்
+
+*2024-02-09 02:28:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-எதிர்ப்பு-சட்டமூலம்-30-மனுக்கள்-தாக்கல்/175-332931) · `ta`
+
+'பயங்கரவாத எதிர்ப்பு' எனும் சட்டமூலம் தொடர்பாக உயர் நீதிமன்றத்திற்கு இதுவரை 30 மனுக்கள் தாக்கல் செய்யப்பட்டுள்ளதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன சபைக்கு அறிவித்தார்.
+
+பாராளுமன்றம் நேற்று வியாழக்கிழமை காலை 9.30 மணிக்கு சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் கூடியதையடுத்து  இடம்பெற்ற சபாநாயகர் அறிவிப்பின் போதே இதனை சபைக்கு அறிவித்த சபாநாயகர் மேலும் கூறுகையில்,
+
+2024 சனவரி 23 ஆம் திகதிய எனது அறிவித்தலில் குறிப்பிடப்பட்ட ஆறு மனுக்கள் மற்றும் 2024 சனவரி 24 ஆம் திகதிய எனது அறிவித்தலில் குறிப்பிடப்பட்ட பதினெட்டு மனுக்களுக்கு மேலதிகமாக, அரசியலமைப்பின் 121(1) ஆம் உறுப்புரையின் பிரகாரம் “பயங்கரவாத எதிர்ப்பு” எனும் சட்டமூலம் தொடர்பாக உயர் நீதிமன்றத்திற்குச் சமர்ப்பிக்கப்பட்ட மேலும் 6 மனுக்களின் பிரதிகள் எனக்குக் கிடைத்துள்ளன என்றார்.
+
+◼️
+
+[Data](articles/e09d642d.json)
+
+---
+
+### தேர்தலில் அதிகாரங்களை கைப்பற்றுவதற்காக மனித உரிமைகளை ரணில் மீறிவருகின்றார் - கஜேந்திரகுமார்
+
+*2024-02-09 01:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175938) · `ta`
+
+தேர்தலில் அதிகாரங்களைக் கைப்பற்றுவதற்காக ஜனாதிபதி ரணில் விக்கிரமசிங்க கடுமையான மனித உரிமைகள் மீறல்களைச் செய்துவருவதாகத் தமிழ்த் தேசிய மக்கள் முன்னணியின் தலைவரும் யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலம் தெரிவித்தார்.
+
+அமெரிக்காவுக்கு விஜயம் செய்துள்ள அவர் புதன்கிழமை (9) அமெரிக்க காங்கிரஸ் உறுப்பினர்களான சமர் அலி, லிகான் ஓமா ஆகிய இருவருடனும் -  அதன் பின்னர் மற்றொரு உறுப்பினரான டொன் டேவிஸுடனும் சந்திப்பை நடத்தினார்.
+
+பூகோள அரசியல் காரணமாக இலங்கைத் தீவை மையப்படுத்திய போட்டித்தன்மையிலே சீனாவைக் கட்டுப்படுத்த வேண்டும் என்ற பார்வையிலே அமெரிக்காவுடைய நிர்வாகம் இயங்குவதாக நாங்கள் கருதுகின்றோம்.
+
+...
+
+[Data](articles/309a8bad.json)
+
+---
+
+### பாரதியார் பாடலைப்பாடி 'ஒற்றுமை' வகுப்பெடுக்கும் ரணில்; பாரததேசத்தைப் போன்று அதிகாரங்களைப் பகிர்ந்தளிக்க முன்வருவாரா?  - ரவிகரன்
+
+*2024-02-09 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/175937) · `ta`
+
+பாரதியாரின் பாடலைப்பாடி ஒற்றுமை பற்றி வகுப்பெடும் அரசதலைவர் ரணில் விக்ரமசிங்கவால் பாரததேசத்தைப்போன்று முழுமையாக அதிகாரங்களை பகிர்ந்தளிக்க முடியுமா? என முன்னாள் வடமாகாணசபை உறுப்பினர் துரைராசா ரவிகரன் கேள்வி எழுப்பியுள்ளார்.
+
+அதேவேளை இலங்கை அரசியல் வரலாற்றில் தமிழ்பேசும் சிறுபான்மைச்சமூகம் ஏற்றுக்கொள்ளக்கூடிய அர்த்தமுள்ள அதிகாரப்பகிர்வை வழங்காது, பெரும்பாண்மையின ஆட்சியாளர்கள் தொடர்ந்து தமிழ்பேசும் மக்களுக்குத் துரோகமிழைத்துவருவதாகவும் அவர் இதன்போது சுட்டிக்காட்டியுள்ளார்.
+
+ஒன்பதாவது பாராளுமன்றத்தின், ஐந்தாவது கூட்டத்தொடரின் ஆரம்ப நிகழ்வில் அரசதலைவர் ரணில் விக்ரமசிங்க ஆற்றிய கொள்கைவிளக்கவுரை தொடர்பில் ஊடகங்களுக்கு கருத்துத் தெரிவிக்கையிலேயே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+
+ஒன்பதாவது பாராளுமன்றத்தின், ஐந்தாவது கூட்டத்தொடரின் ஆரம்ப நிகழ்வில் அரசதலைவர் ரணில் விக்ரமசிங்க கொள்கைவிளக்கவுரையாற்றியிருந்தார்.
+
+அரசதலைவர் குறித்த தனது கொள்கைவிளக்கவுரையிலே நாட்டைக் கட்டியெழுப்பும் கனவை நனவாக்க தமிழ், முஸ்லிம் கட்சிகள் உட்பட அனைத்துக் கட்சிகளும் ஒன்றுபட அழைப்பு விடுத்திருந்தார்.
+
+...
+
+[Data](articles/1893ac70.json)
+
+---
+
+### கப்பல்களுக்கு மீண்டும் எரிபொருள் வழங்க ஆரம்பித்ததன் மூலம் 03 மில்லியன் டொலர் வருமானம் - மின்சக்தி மற்றும் வலுசக்தி இராஜாங்க அமைச்சர் டி.வீ சானக
+
+*2024-02-09 01:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175936) · `ta`
+
+கப்பல்களுக்கான எரிபொருள் நிரப்பும் செயல்பாடுகளை (bunkering system) மீள ஆரம்பித்ததன் மூலம் 5,200 மெற்றிக் டொன் எரிபொருளை விற்பனை செய்து 03 மில்லியன் டொலர்கள் வருமானம் ஈட்ட  முடிந்ததாக மின்சக்தி மற்றும் வலுசக்தி இராஜாங்க அமைச்சர் டி. வீ. சானக தெரிவித்தார்.
+
+வலுசக்தி தேவைகளுக்காக 200 மில்லியன் டொலர்கள் மேலதிகக் கையிருப்பு பேணப்படுவதாகும்  அவர் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் வியாழக்கிழமை (08) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் டி.வீ சானக இவ்வாறு தெரிவித்தார்.
+
+கடினமான பொருளாதார நெருக்கடியை எதிர்கொண்டு நாடு படிப்படியாக மீண்டு வரும் சூழ்நிலையில் நாம் தற்போது இருக்கிறோம். ஒரு காலத்தில் நாம் அனைவரும் எரிபொருள் வரிசையில் நின்றோம். அனைவரின் அர்ப்பணிப்புடன், நிலையான எரிபொருள் விநியோகத்தைப் பேண முடிந்துள்ளது. அண்மைக்கால வரலாற்றில் தற்போது மிகப்பெரிய அளவிலான எரிபொருள் கையிருப்பு வைத்திருக்கிறோம். பெட்ரோலியக் கூட்டுத்தாபனத்தின் டொலர்களின் சேமிப்பையும் எம்மால் பேண முடிந்துள்ளது.
+
+...
+
+[Data](articles/f65d08f8.json)
+
+---
 
 ### Make concern over the release of political prisoners - Charles Nirmalanathan emphasizes
 
@@ -2069,97 +2139,5 @@ In this list, a world's popularity company owned by a popular shipping company, 
 [Data](articles/0bf7a320.json)
 
 [Extended Data](ext_articles/0bf7a320.ext.json)
-
----
-
-### US drone strike kills Iran-backed militia leader in Baghdad
-
-*2024-02-08 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97114/us-drone-strike-kills-iran-backed-militia-leader-in-baghdad) · `en`
-
-A senior commander of an Iran-backed militia has been killed in a US drone strike in Baghdad.
-
-A leader of Kataib Hezbollah and two of his guards were in a vehicle when it was targeted in the east of the Iraqi capital. All three of them died.
-
-The Pentagon said the commander was responsible for directing attacks on American forces in the region.
-
-The US has linked the militia to a drone attack in Jordan that killed three US troops last month.
-
-In the wake of that attack, Kataib Hezbollah said it was suspending attacks on American troops to prevent “embarrassment” to the Iraqi government.
-
-Wednesday night’s drone raid happened in Baghdad’s Mashtal neighbourhood, sparking several loud explosions.
-
-It was a precise strike on a moving vehicle in a busy street and the car was reduced to a fiery wreck.
-
-One of the victims has been identified as Abu Baqir al-Saadi, a senior commander in Kataib Hezbollah.
-
-...
-
-[Data](articles/704e32c2.json)
-
-[Extended Data](ext_articles/704e32c2.ext.json)
-
----
-
-### CEB, Rividhanavi ink agreement for 100MW Ground Mount Solar project
-
-*2024-02-08 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97113/ceb-rividhanavi-ink-agreement-for-100mw-ground-mount-solar-project) · `en`
-
-The Ceylon Electricity Board (CEB) on Thursday (Feb.08) inked a power purchase agreement with Rividhanavi (Pvt) Ltd. for the 100MW Ground Mount Solar project in Siyambalanduwa.
-
-The deal was signed in the presence of Power & Energy Minister Kanchana Wijesekera.
-
-In a post on X (formerly Twitter), Wijesekera said the investment is expected to be USD 132 million.
-
-The project was advertised by the state-owned electricity supplier in September 2022, evaluated in 2023, and awarded to the lowest and most successful bidder by the end of 2023.
-
-The minister said Rividhanavi would also build the transmission line of 27.5km for the project and transfer it to the CEB.
-
-Rividhanavi (Pvt) Ltd. is a consortium of shareholders, Lakdhanavi Ltd., Windforce PLC and The Blue Circle PTE Ltd of Singapore, he added.
-
-◼️
-
-[Data](articles/b16a7c4d.json)
-
-[Extended Data](ext_articles/b16a7c4d.ext.json)
-
----
-
-### Sri Lanka to repurpose 5,000 acres of Cement Corporation land
-
-*2024-02-08 14:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-repurpose-5000-acres-of-cement-corporation-land-150359/) · `en`
-
-ECONOMYNEXT – The Sri Lanka Cement Corporation, with around 5,000 acres of mineral resource-rich land, is to be restructured, the State Minister of Primary Industries has said.
-
-“With arrangements in place to develop it, the corporation is expected to generate revenue of around USD300 million annually,” Chamara Sampath said at a press briefing held on Wednesday (7) at the President’s Media Centre.
-
-“An institution has already been selected to propose a plan for this transformation,” Dassanayake was quoted in a statement by the PMC.
-
-What the institution is and details of the planned development were not given.
-
-...
-
-[Data](articles/a0325736.json)
-
-[Extended Data](ext_articles/a0325736.ext.json)
-
----
-
-### Footwear and Leather Fair 2024
-
-*2024-02-08 14:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Footwear-and-Leather-Fair-2024/110-276601) · `en`
-
-The 14th Footwear and Leather Fair 2024 started at the Bandaranaike Memorial International Conference Hall (BMICH) today. The exhibition will be held until Sunday (11).
-
-“High quality, sustained volumes and competitive pricing have been key factors contributing to the success of Sri Lanka's footwear and leather products industry,” organisers said.
-
-“Sri Lanka produces a wide range of modern shoes in many designs for men and women, rubber boots, beach slippers, safety shoes, sports and canvass shoes. Sri Lankan footwear exporters have established suppliers to many high-end international footwear brands,” they said.
-
-It said that high-quality Sri Lankan leather goods in the range of leather gloves, travel bags, backpacks, ladies' handbags, jackets and small leather goods cater to niche international markets. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/47badd65.json)
-
-[Extended Data](ext_articles/47badd65.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 18:08:26**
+As of **2024-02-08 18:20:03**
 
 ## Newspaper Stats
 
-*Scraped **5,767** Articles*
+*Scraped **5,774** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ economynextcom | 302
 dailyftlk | 316
 newsfirstlk | 360
 adalk | 489
-virakesarilk | 708
 adaderanalk | 712
+virakesarilk | 713
 tamilmirrorlk | 716
-adaderanasinhalalk | 760
-dailymirrorlk | 819
+adaderanasinhalalk | 761
+dailymirrorlk | 820
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,767 (100.0%) of 5,767 articles have been extended.
+5,767 (99.9%) of 5,774 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### තලන්ගම ජයසිංහ දිවියෙන් සමුගනී
+
+*2024-02-08 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193141) · `si`
+
+ජ්‍යේෂ්ඨ මාධ්‍යවේදී ප්‍රවීණ පුවත්පත් කාටූන් නිර්මාණ ශිල්පී තලන්ගම ජයසිංහ මහතා අභාවප්‍රාප්ත වී තිබේ.
+
+පුවත්පත් චිත්‍රකතා සහ ගත්කතුවරයෙකුද වූ ඒ මහතා අතිශය රසික ජනාදරයට පත්වූ නිර්මාණ ශිල්පියෙකි.
+
+◼️
+
+[Data](articles/8c8d4e28.json)
+
+---
+
+### Opposition alleges move to postpone Presidential Election
+
+*2024-02-08 17:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Opposition-alleges-move-to-postpone-Presidential-Election/108-276610) · `en`
+
+Colombo, Feb 08 (Daily Mirror) - In a heated parliamentary session today, Samagi Jana Balawegaya (SJB) Member of Parliament, Lakshman Kiriella, accused the government of orchestrating a  delay of the upcoming Presidential Election.
+
+Kiriella asserted that the President's Government Policy statement notably omitted any mention of the Presidential Election, fueling suspicions of ulterior motives.
+
+Speaking in the Parliament, Kiriella outlined the alleged scheme, pointing to proposals for the abolishment of the executive presidency as a pretext for postponement. He argued that such a move would necessitate the drafting of a new Constitution, a process that could take at least a year.
+
+◼️
+
+[Data](articles/27eef5d2.json)
+
+---
 
 ### Chamika once again - loses ten
 
@@ -49,6 +79,40 @@ Sri Lanka squad - Kusal Mendis (Leader), Charith Waniekage, Donus Wella, Dr. Aka
 [Data](articles/5006d321.json)
 
 [Extended Data](ext_articles/5006d321.ext.json)
+
+---
+
+### யாழ். சர்வதேச விமான நிலைய விஸ்தரிப்புக்காக காணி சுவீகரிப்பு : எதிர்ப்பு போராட்டங்களை முன்னெடுக்க தீர்மானம்
+
+*2024-02-08 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175905) · `ta`
+
+யாழ்ப்பாணம் சர்வதேச விமான நிலைய விஸ்தரிப்புக்கு 500 ஏக்கர் காணிகளை சுவீகரிக்க முயற்சிகள் எடுக்கப்பட்டுள்ளதாக செய்திகள் வெளியாகியுள்ள நிலையில், அவற்றுக்கு எதிர்ப்பு தெரிவித்து போராட்டங்களை முன்னெடுக்க பல்வேறு தரப்புக்களும் தீர்மானித்துள்ளன.
+
+வலி.வடக்கு பிரதேசத்தில் இன்னமும் சுமார் 3 ஆயிரம் ஏக்கர் காணிகள் விடுவிக்கப்படாமல் உயர் பாதுகாப்பு  வலயமாக காணப்படும் நிலையில், காணிகளை விடுவிக்குமாறு, காணி உரிமையாளர்களால் பல வருடங்களாக கோரிக்கை முன் வைக்கப்பட்டு வருவதுடன் , காணி விடுவிப்பு போராட்டங்களையும் பல்வேறு தடவைகள் முன்னெடுத்துள்ளனர்.
+
+இந்நிலையில், யாழ்ப்பாண சர்வதேச விமான நிலைய விஸ்தரிப்புக்கு என 500 ஏக்கர் காணிகளை சுவீகரிக்க நடவடிக்கைகள் எடுக்கப்பட்டுள்ளதாக செய்திகள் வெளியாகியுள்ளன.
+
+அதில், விடுவிக்கப்பட்டு மக்கள் மீள் குடியேறிய காணிகளையும் சுவீகரிக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும் தகவல்கள் வெளியாகியுள்ளன.
+
+...
+
+[Data](articles/6aac4eec.json)
+
+---
+
+### எரிபொருள் விநியோகத்தை முன்னெடுக்கும் திட்டத்திலிருந்து அவுஸ்திரேலிய நிறுவனத்தை நீக்குவது தொடர்பில் அவதானம் - இராஜாங்க அமைச்சர் டீ.வி.சானக
+
+*2024-02-08 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175915) · `ta`
+
+இலங்கையில் எரிபொருள் விநியோக நடவடிக்கைகளை முன்னெடுப்பதற்கு அனுமதியைப் பெற்றுக் கொண்டுள்ள அவுஸ்திரேலியாவின் யுனைடட் பெற்றோலியம் நிறுவனத்தைக் குறித்த திட்டத்திலிருந்து நீக்குவது தொடர்பில் அவதானம் செலுத்தப்பட்டுள்ளதாக மின்சக்தி மற்றும் வலு சக்தி இராஜாங்க அமைச்சர் டீ.வி.சானக தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் வியாழக்கிழமை (08) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+சைனோபெக் நிறுவனத்துக்கு எரிபொருள் விநியோக நடவடிக்கைகளுக்கு அனுமதியளிக்கப்பட்டமையால், எரிபொருள் இறக்குமதிக்காக வருடாந்தம் செலவிடப்படும் 500 மில்லியன் டொலரை அரசாங்கத்தால் மீதப்படுத்த முடிந்துள்ளது. இலங்கை பெற்றோலியக் கூட்டுத்தாபனம், லங்கா ஐ.ஓ.சி. மற்றும் சைனோபெக் ஆகிய நிறுவனங்களுக்கிடையில் போட்டி காணப்படுகிறது. இதன் மூலம் இனிவரும் காலங்களில் எரிபொருள் விலைகளில் மக்களுக்குச் சிறந்த நிவாரணம் கிடைக்கும் என்று நம்புகின்றோம்.
+
+...
+
+[Data](articles/cd24fc10.json)
 
 ---
 
@@ -71,6 +135,28 @@ DIG Deputy Inspector General of Police Sampath Liyanage Badulla Liyanage, Badull
 [Data](articles/3b8f3987.json)
 
 [Extended Data](ext_articles/3b8f3987.ext.json)
+
+---
+
+### புவி வெப்பமயமாதல் நிர்ணயிக்கப்பட்ட வரம்பை மீறியுள்ளது
+
+*2024-02-08 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175904) · `ta`
+
+புவி வெப்பமயமாதலை 1.5 டிகிரி செல்ஷியஸுக்குள் கட்டுப்படுத்த உலக நாடுகளின் தலைவா்கள் வரம்பை நிா்ணயம் செய்தனா். ஆனால், நிா்ணயிக்கப்பட்ட அளவான 1.5 டிகிரி செல்ஷியஸை  முதல் முறையாக ஒரு வருடத்தில் கடந்து விட்டதாக ஐரோப்பிய ஒன்றியத்தின் காலநிலை சேவை தெரிவித்துள்ளது.
+
+2015 ஆம் ஆண்டு நடந்த பாரீஸ் ஒப்பந்தத்தில் புவி வெப்பமயமாதல்  அளவை 2 டிகிரி செல்சியஸ் குறைக்க ஒப்பந்தம் கையெழுத்தானது குறிப்பிடத்தக்கது.
+
+கார்பன் வெளியேற்றத்தை குறைப்பதற்கு அவசரமாக நடவடிக்கை எடுப்பதன் மூலம் புவி வெப்பமயமாதல் வேகம் குறைவடையும் என  விஞ்ஞானிகள் கூறுகின்றனர்.
+
+2023 ஆம் ஆண்டு முதல் இவ் வருடம்  ஜனவரி மாதம் வரையிலான காலப்பகுதியில் வெப்பமயமாதல் 1.52 டிகிரி செல்ஷியஸை  எட்டியுள்ளதாக ஐரோப்பிய ஒன்றியத்தின் கோப்பர்நிக்கஸ் காலநிலை மாற்ற சேவை தரவு சுட்டிக்காட்டியுள்ளது.
+
+இதன் தொடர்ச்சியாக ஜனவரி மாதம் கடும் வெப்பம் நிலவிய எட்டாவது மாதமாக மாறியுள்ளது.
+
+பசிபிக் பெருங்கடலில் கடல் மேற்பரப்பு வெப்பநிலை இயல்பை விட அதிகரிப்பது எல் நினோ எனப்படும்.
+
+◼️
+
+[Data](articles/9f38c348.json)
 
 ---
 
@@ -115,6 +201,50 @@ He was speaking at a press conference held at the Pallekele Stadium in Kandy thi
 [Data](articles/602addfd.json)
 
 [Extended Data](ext_articles/602addfd.ext.json)
+
+---
+
+### ஒவ்வொரு 100 பிரஜைகளுக்கும் 1.5 இராணுவத்தினர் இலங்கையில் உள்ளனர் - எரான் விக்ரமரத்ன
+
+*2024-02-08 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/175893) · `ta`
+
+2024 வரவு செலவுத்திட்ட விவாதங்களின்போது, பாதுகாப்பு அமைச்சிற்கான வரவு செலவுத்திட்ட ஒதுக்கீடுகள் தொடர்பில் பாராளுமன்ற உறுப்பினர் எரான் விக்ரமரத்ன மூன்று கூற்றுகளை முன்வைத்துள்ளார். அவை: (1) பாதுகாப்பு அமைச்சுக்கான வரவு செலவுத்திட்ட ஒதுக்கீடு அதிகம், 2022 இல் இது மொத்த வரவு செலவுத் திட்டத்தின் 7%. (2) அதில் 60% சம்பளங்களுக்காகச் செலவிடப்பட்டுள்ளது (3) பிரஜைகளுக்கு அதிக எண்ணிக்கையிலான இராணுவத்தைக் கொண்ட (முதன்மையான 10) உலக நாடுகளில் ஒன்றாக இலங்கை உள்ளது.
+
+பாராளுமன்ற உறுப்பினரின் கூற்றைச் சரிபார்க்க, 2023 வரவு செலவுத்திட்ட மதிப்பீடுகள் மற்றும் உலக வங்கியின் தரவை FactCheck.lk ஆராய்ந்தது.
+
+கூற்று 1: 2022 மொத்த செலவினத்தில் பாதுகாப்பு அமைச்சிற்கான அரச செலவினம் 7.97 சதவீதமாக உள்ளது. 2023க்கான ஒதுக்கீடு மொத்த வரவு செலவுத்திட்டத்தின் 7 சதவீதமாக உள்ளது (அட்டவணை 1).
+
+...
+
+[Data](articles/98040984.json)
+
+---
+
+### Civil Social Organizations in Sri Lanka
+
+*2024-02-08 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175900) · `ta`
+
+Civil Social Organizations (CSOS) contributing to the preparation of the Third National Project (NAP) associated with the OGP program of Sri Lanka's OGP (OGP) program. This has been forced to oppose the recent actions of the government, especially the government, and the efforts to introduce the anti -terrorism bill in spite of the widespread opposition, and have forced us to be a policy stance against the suppression of civil society and the basic freedom of the public.. This decision was taken in response to the dangerous initiatives of Sri Lanka's open government share (OGP) in the country, after the group was decisively considered.The joint decision was officially announced to the President by letter today.
+
+◼️
+
+[Data](articles/bb4131ce.json)
+
+[Extended Data](ext_articles/bb4131ce.ext.json)
+
+---
+
+### உத்தேச பயங்கரவாத எதிர்ப்புச் சட்டமூலத்துக்கு எதிராக 30 மனுக்கள் தாக்கல் - சபாநாயகர்
+
+*2024-02-08 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175911) · `ta`
+
+உத்தேச பயங்கரவாத எதிர்ப்பு சட்டமூலத்துக்கு எதிராக  உயர் நீதிமன்றத்திற்கு இதுவரை 30 மனுக்கள் தாக்கல் செய்யப்பட்டுள்ளதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன சபைக்கு அறிவித்தார்.
+
+பாராளுமன்றம் வியாழக்கிழமை இன்று வியாழக்கிழமை (08) காலை 9.30 மணிக்கு சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் கூடியதையடுத்து  இடம்பெற்ற  அறிவிப்பின் போதே இதனை சபைக்கு அறிவித்த சபாநாயகர், 2024 ஜனவரி 23 ஆம் திகதி அறிவித்தலில் குறிப்பிடப்பட்ட ஆறு மனுக்கள் மற்றும் 2024 ஜனவரி 24 ஆம் திகதி அறிவித்தலில் குறிப்பிடப்பட்ட பதினெட்டு மனுக்களுக்கு மேலதிகமாக, அரசியலமைப்பின் 121(1) ஆம் உறுப்புரையின் பிரகாரம் 'பயங்கரவாத எதிர்ப்பு' எனும் சட்டமூலம் தொடர்பாக உயர் நீதிமன்றத்திற்கு மேலும் 6 மனுக்கள் தாக்கல் செய்யப்பட்டுள்ளன, அவற்றின் பிரதிகள்  கிடைக்கப்பெற்றுள்ளன என சபைக்கு அறிவித்தார்.
+
+◼️
+
+[Data](articles/9eeb8625.json)
 
 ---
 
@@ -379,20 +509,6 @@ The High Court Judge, who issued the verdict following an extended hearing, stat
 [Data](articles/f8d83f8c.json)
 
 [Extended Data](ext_articles/f8d83f8c.ext.json)
-
----
-
-### Civil Social Organizations in Sri Lanka
-
-*2024-02-08 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175900) · `ta`
-
-Civil Social Organizations (CSOS) contributing to the preparation of the Third National Project (NAP) associated with the OGP program of Sri Lanka's OGP (OGP) program. This has been forced to oppose the recent actions of the government, especially the government, and the efforts to introduce the anti -terrorism bill in spite of the widespread opposition, and have forced us to be a policy stance against the suppression of civil society and the basic freedom of the public.. This decision was taken in response to the dangerous initiatives of Sri Lanka's open government share (OGP) in the country, after the group was decisively considered.The joint decision was officially announced to the President by letter today.
-
-◼️
-
-[Data](articles/bb4131ce.json)
-
-[Extended Data](ext_articles/bb4131ce.ext.json)
 
 ---
 
@@ -2001,151 +2117,5 @@ Two suspects arrested in connection with the shooting in the Jedanapitiya area h
 [Data](articles/18dfeab8.json)
 
 [Extended Data](ext_articles/18dfeab8.ext.json)
-
----
-
-### Jagath Priyankara Fills Vacant Puttalam District Seat
-
-*2024-02-08 10:57:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/jagath-priyankara-fills-vacant-puttalam-district-seat/) · `en`
-
-COLOMBO (News 1st); Jagath Priyankara was sworn in as the new parliamentary representative for the Puttalam district.
-
-He took the oath of office in front of the Speaker, filling the seat left vacant by the untimely demise of State Minister Sanath Nishantha, who tragically passed away in an accident.
-
-The Sri Lanka Podu Jana Peramuna had previously secured five parliamentary seats from the Puttalam district in the 2020 parliamentary elections.
-
-The late Sanath Nishantha had topped the preference list, followed by Piyankara Jayaratne, Arundika Fernando, Chinthaka Amal Mayadunna, and Ashoka Priyantha.
-
-Jagath Priyankara, who was next on the preference list, had received a significant 40,527 preferential votes.
-
-His swearing-in  marks the official transfer of the seat previously held by Sanath Nishantha.
-
-Priyankara is also the Puttalam district leader of the National Freedom Front, a party led by Wimal Weerawansa.
-
-Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
-
-...
-
-[Data](articles/7115d107.json)
-
-[Extended Data](ext_articles/7115d107.ext.json)
-
----
-
-### Sisu nurses recruited
-
-*2024-02-08 10:54:35* · [`adalk`](https://www.ada.lk/breaking_news/සිසු-හෙද-පුහුණුවට-බඳවාගැනේ/11-407961) · `si`
-
-The Ministry of Health has not been held on Saturdays on Saturdays on Saturdays on Saturdays on Saturdays.
-
-The relevant information is also available on the official web page of the Ministry of Health (https://www.health.gov.lk/).
-
-◼️
-
-[Data](articles/167c68ee.json)
-
-[Extended Data](ext_articles/167c68ee.ext.json)
-
----
-
-### Britain continues to monitor the Ceremony Security Act - Information in Britain's Parliament
-
-*2024-02-08 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/175866) · `ta`
-
-Britain's Foreign Foreign Affairs Minister Ann Mary Dreweyan said this in the British Parliament.
-
-Britain has passed the British Protection Bill amidst the concerns of others, including international internet service providers.
-
-When I met the President of Sri Lanka last year, I had expressed concern over the impact of freedom of expression and economic freedom, he said, "Minister of State for South Asia Tariq Prabhu on January 25 met with the Foreign Minister of Sri Lanka.
-
-◼️
-
-[Data](articles/127050a8.json)
-
-[Extended Data](ext_articles/127050a8.ext.json)
-
----
-
-### Blue Sapphires worth Rs. 370 million seized; Two including monk arrested
-
-*2024-02-08 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Blue-Sapphires-worth-Rs-370-million-seized-Two-including-monk-arrested/108-276590) · `en`
-
-Koslanda, Feb 08 (Daily Mirror) - Two individuals, including a monk, were arrested while attempting to sell two Blue Sapphire gemstones valued at Rs. 370 million.
-
-The arrest was made during a raid by Koslanda Police, acting on intelligence provided by the Army Intelligence Division.
-
-The arrested monk resides in the Weliweriya area, while the other suspect, aged 72, is the father of a local politician from a prominent political party.
-
-The seized gemstones are in the shape of pagodas and are suspected to have been obtained while treasure hunting.
-
-◼️
-
-[Data](articles/78bc0b5c.json)
-
-[Extended Data](ext_articles/78bc0b5c.ext.json)
-
----
-
-### Acting IGP pledges strict legal action against cops involved with criminals
-
-*2024-02-08 10:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97107/acting-igp-pledges-strict-legal-action-against-cops-involved-with-criminals) · `en`
-
-The Acting Inspector General of Police (IGP) Deshabandu Tennakoon states that information on the police officers involved with members of organized criminal gangs have been uncovered.
-
-Speaking to the media in Colombo, Tennakoon further warned that he would not hesitate to enforce the law against such officers regardless of their ranks.
-
-The Acting IGP further mentioned that details about a few police officers who aided and abetted the notorious criminal figure and drug trafficker Nadun Chinthaka alias “Harak Kata” have also been dug up.
-
-◼️
-
-[Data](articles/678284c8.json)
-
-[Extended Data](ext_articles/678284c8.ext.json)
-
----
-
-### US unmanned air strike in Bhaktad - Iran's main commander
-
-*2024-02-08 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/175861) · `ta`
-
-A commander of the Iranian Armed Forces has been killed in a US unmanned air strike in the Iraq capital.
-
-According to reports, one of the head of the Gattab Hezbullah Organization and his two bodyguards were targeted for an unmanned air strike and three men were killed in an attack from the Bhaktad capital to the east.
-
-The commander who led the attacks against US soldiers in the region has been killed in unmanned air strikes.
-
-Iran has reported that the group is also involved in the unmanned air strike on the US base in Jordan.
-
-The attack took place in the Mastal of Bhaktad, which has heard many explosions.
-
-The BBC said the car was completely hit by the car, which was completely hit by the road.
-
-The US Central Ordinance said the commander in charge of deliberately carrying out attacks against the US in the region has been killed.
-
-When BBC journalists went to the area, people shouted that the United States was great evil.
-
-...
-
-[Data](articles/46babbef.json)
-
-[Extended Data](ext_articles/46babbef.ext.json)
-
----
-
-### England watches online security law
-
-*2024-02-08 10:46:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-பாதுகாப்பு-சட்டத்தை-இங்கிலாந்து-உன்னிப்பாக-கவனிக்கும்/175-332882) · `ta`
-
-The United Kingdom has said that the United Kingdom will monitor the progress of the law following the passage of the Sri Lankan Parliament on January 24, despite the opposition of international internet providers and activists.
-
-The Minister of State Anne-Marie Trevelyan (Foreign, Commonwealth and Development Office) said in Parliament that the Sri Lankan Parliament had passed it on January 24, despite the negative impact of the Civil Society, Opposition and International Internet Providers on the Online Security Act.
-
-"Even when I met Sri Lankan President Wickremesinghe in October and the Minister of State for South Asia on January 25, the UK expressed his dissatisfaction with the impact of the law on independence and economic development of Sri Lanka on January 25," he said in a written statement in the UK.
-
-◼️
-
-[Data](articles/cc17cf10.json)
-
-[Extended Data](ext_articles/cc17cf10.ext.json)
 
 ---

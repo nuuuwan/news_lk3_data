@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 15:50:49**
+As of **2024-02-08 16:02:20**
 
 ## Newspaper Stats
 
-*Scraped **5,739** Articles*
+*Scraped **5,741** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ islandlk | 299
 economynextcom | 302
 dailyftlk | 316
 newsfirstlk | 359
-adalk | 483
-virakesarilk | 705
+adalk | 484
+virakesarilk | 706
 adaderanalk | 707
 tamilmirrorlk | 712
 adaderanasinhalalk | 756
@@ -26,113 +26,177 @@ dailymirrorlk | 814
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,733 (99.9%) of 5,739 articles have been extended.
+5,739 (100.0%) of 5,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### ඔස්ට්‍රේලියානු කර්මාන්ත ක්ෂේත්‍රයේ ලොකු වෙනසක්
+### ஜேவிபியின் இந்திய விஜயத்தை தொடர்ந்து இந்திய எதிர்ப்புகளை வெளியிடும் அரசியல் மத தலைவர்கள்
+
+*2024-02-08 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175898) · `ta`
+
+ஜேவிபி தலைவரின் இந்திய விஜயம் மத அரசியல் தலைவர்கள் இந்திய எதிர்ப்பு உணர்வை  வெளிப்படுத்தும் சூழ்நிலையை உருவாக்கியுள்ளது.
+
+இலங்கையின் இடதுசாரி ஜேவிபி தலைவர் அனுரகுமாரதிசநாயக்க இந்தியாவின் அழைப்பின் பேரில் அந்த நாட்டிற்கு விஜயம் மேற்கொண்டுள்ளதை தொடர்ந்து புதிய இந்திய எதிர்ப்பு உணர்வு வெளியாகியுள்ளது.
+
+இலங்கையின் ஜனாதிபதி தேர்தல் குறித்த இந்தியாவின் நோக்கம்குறித்து அரசியல் மதத்தலைவர்கள் கேள்வி எழுப்பியுள்ளனர்.
+
+முன்னொருபோதும் இல்லாதவகையில்  பிரதமர் நரேந்திரமோடியின் இந்தியா அரசாங்கம் ஜேவிபி தலைவர் அனுரகுமாரதிசநாயக்கவிற்கு இந்தியாவிற்கு ஐந்து நாட்கள் விஜயத்திற்கான அழைப்பை விடுத்துள்ளது.
+
+இந்த விஜயத்தில் ஜேவிபியின் தலைவர் அனுரகுமார திசநாயக்க  இந்திய வெளிவிவகார அமைச்சர்  உட்பட முக்கிய தலைவர்களை சந்தித்துள்ளார்.
+
+ஜேவிபி 1971ம் ஆண்டும் 1988-89ம் ஆண்டுகளிலும் இரண்டு கிளர்ச்சிகளில் ஈடுபட்டது. சோசலிச நாட்டை உருவாக்குவதே இதன் நோக்கம்.
+
+...
+
+[Data](articles/f84e4dd5.json)
+
+---
+
+### A big change in the Australian industry
 
 *2024-02-08 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193135) · `si`
 
-තමාගේ වැඩ මුරය නිම වීමෙන් අනතුරු ව තමන්ට සිය ආයතන ප්‍රධානින්ගෙන් ලැබෙන අසාධාරණ දුරකථන ඇමතුම් සහ පණිවුඩ නොසලකා හැරීමේ අයිතිය තහවුරු කිරීමේ නව නීතියක් හඳුන්වාදීමට ඔස්ට්‍රේලියාව පියවර ගනිමින් සිටියි.
+In the completion of his work, Australia is taking action to introduce a new law to ensure the right to ignore the right to ignore the rights of its heads.
 
-එම නීතිය උල්ලංඝනය කරන හාම්පුතුන්ට එරෙහි ව දඩ නියම කිරීමට ද එහි ප්‍රතිපාදන පවතින බව වාර්තා වේ.
+It is reported that there is also the provisions to fill the law against the employers who violate the law.
 
-එරට කර්මාන්ත ක්ෂේත්‍රයට අදාළ නීති කිහිපයක් සංශෝධනය කිරීමට සැලසුම් කර ඇති අතර "right to disconnect" යන නව නීතිය ඒ යටතේ හඳුන්වාදීමට නියමිත ය.
+The country is scheduled to revise several laws related to the industry and the New law is to be introduced under the "RIGHT TO Disconnect".
 
-නව නීතිය මගින් සේවකයින්ගේ රැකියාව සහ ජීවිතය අතර සමතුලිතතාව ඇති කිරීමට හැකියාව ලැබෙනු ඇති බවට අනුමාන කෙරේ.
+The new law is assumed that the ability of employees will be able to create equality between employees and life.
 
 ◼️
 
 [Data](articles/031c107d.json)
 
+[Extended Data](ext_articles/031c107d.ext.json)
+
 ---
 
-### ඔන්ලයින් පනතේ අඩුපාඩු ඇති බව අධිකරණ ඇමති පිළිගනී
+### යුද්ධ හමුදා පොලිසියේ උණ්ඩ 30ක මැගසිනයක්  අස්ථානගතවෙයි
+
+*2024-02-08 15:03:58* · [`adalk`](https://www.ada.lk/breaking_news/යුද්ධ-හමුදා-පොලිසියේ-උණ්ඩ-30ක-මැගසිනයක්--අස්ථානගතවෙයි/11-407967) · `si`
+
+ශ්‍රී ලංකා යුද්ධ හමුදා පොලිස් හේවා බලකාය පොල්හේන්ගොඩ  කදවුරේ  ටි 56 ගිනි අවියකට අයත් උණ්ඩ 30 ක් පුරවන ලද මැගසිනයක්   අස්ථානගතව ඇති බවට කිරුළපන පොලිසිය වෙත පැමිණිල්ලක් ලැබී ඇතැයි  උසස් පොලිස් නිලධාරියෙක් පැවසීය
+
+ඉකුත්   4 වෙනි දින සහ 7 වෙනි දිනයන් අතරතුරදී මෙය අස්ථානගතව ඇති බවට
+
+අණ දෙන නිලධාරීවරයකු ලෙස කටයුතු කරන මේජර්වරයෙකු පැමිණිලි කර ඇත
+
+කඳවුරේ  මුරකුටි සඳහා එක් නිලධාරියකු වෙත ටී 56 ගිනි අවියක් ,උන්ඩ 120 ක් අඩංගු මැගසින් 4 ක් මෙන්ම පුචස් 1 ලබාදීම සිදුකරන බවත් ඉකුත් දින කීපය තුළ එයාකාරයෙන් නිලධාරීන් වෙත ලබා දී ඇතැයි පොලිසිය කියයි
+
+ඉකුත් 5 වෙනි දින  රාත්‍රී රාජකාරී සඳහා නිලධාරීන් වෙත ගිනි අවි හා මැගසින් ලබාදීමේදී  මැගසින්  එකක් අස්ථානගතව ඇති බවට මැගසින්  ලබා දුන් නිලධාරීන් විසින්  අණ දෙන නිලධාරීවරයාව දැනුවත් කර තිබූ බව පොලිස් ආරංචි මාර්ග සඳහන් කරයි
+
+අස්ථානගත වූ මැගසිනය කඳවුර තුළ ඇද්දැයි සොයා බැලුවද එය සොයා ගැනීමට නොහැකි වී ඇතැයි පොලිසිය සඳහන් කරයි
+
+...
+
+[Data](articles/9be90a3d.json)
+
+---
+
+### Minister of Justice admits that there are shortcomings in the online bill
 
 *2024-02-08 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193134) · `si`
 
-මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනතේ යම් අඩුපාඩු පවතින බවට නිරීක්ෂණය වී ඇති බවට අධිකරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතා පවසයි.
+Minister of Justice Dr. Wijayadasa Rajapaksa says that some shortcomings in the security of online methods have been observed.
 
-ඒ සඳහා අවශ්‍ය සංශෝධන ඉදිරිපත් කරන්නේනම් ඒ පිළිබඳ සාකච්ඡා කිරීමට සුදානම් බවද ඔහු පැවසීය.
+He said that if the necessary amendments would be prepared to discuss it, he said.
 
-අද (08) පාර්ලිමේන්තුවේදී විපක්ෂයේ මන්ත්‍රීවරුන් එම පනත සම්බන්ධයෙන් යොමු කළ ප්‍රශ්නවලට පිළිතුරු ලබා දෙමින් අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+The Minister made this observation today (08) in response to the questions referred to the questions regarding the Act.
 
-මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත සම්බන්ධයෙන් ගෙවිදු කුමාරතුංග මන්ත්‍රීවරයා මෙවන් අදහසක් පළ කළා.
+MP Geavandu Kumaratunga expressed this regard regarding the security of the Online Schemes.
 
-"මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පතට අභියෝග කරන පෙත්සම් 40කට වැඩි ප්‍රමාණයක් තිබුණා. සති ගණනක් මේ පිළිබඳව විභාග පවත්වලා අධිකරණය ලබාදුන් නියෝගය... ශ්‍රේෂ්ඨාධිකරණය නඩු තීන්දුවෙන් සඳහන් කරපු සියලු කරුණු සැලකිල්ලට භාජනය කරලා අවසානයේදී ඒවා සංශෝධන හදලා නීතිපතිවරයාගෙන් සහතිකයක් අරගෙන තමයි අපි පාර්ලිමේන්තුවට සංශෝධන ඉදිරිපත් කරන්නේ."
+"There were more than 40 petitions that challenged the Bill of Online Methods. Court order to conduct exams for weeks.. All the facts mentioned by the Supreme Court proceed with the amendments and finally submit a revision from the Attorney General. "
 
-"අධිකරණයට කියන්න බැහැ මේක ගේන්නද? ගේන්න එපා කියන්න අධිකරණයට බලයක් නැහැ. අධිකරණයට තිබෙන එකම බලය තමයි යම් වගන්තියක් ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුකූලද අනනුකූලද කියලා තීරණය කරන එක."
+"Does the judiciary can't bring this to this? Don't the judiciary has no power to say no. The only power to the judiciary is the decision to decide whether a clause is inconsistent with the Constitution. "
 
 ...
 
 [Data](articles/0c3ec0d4.json)
 
+[Extended Data](ext_articles/0c3ec0d4.ext.json)
+
 ---
 
-### තවත් වෙඩික්කරුවෙක් පොලීසියට කොටුවෙයි
+### Another shooter caught for police
 
 *2024-02-08 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193133) · `si`
 
-නවගමුවේ දී පුද්ගලයෙකු පැහැරගෙන ගොස් වෙඩිතබා ඝාතනය කිරීමේ සිදුවීමට අදාළ සැකකරුවෙකු අද (08) අත්අඩංගුවට ගෙන තිබේ.
+A suspect had been arrested in the Nawagamuwa Sabhas today (08).
 
-වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසා සිටියේ, අද (08) උදෑසන නුගේගොඩ පොලීසිය විසින් විශේෂ අපරාධ විමර්ශන අංශයෙන් එම වෙඩිතැබීම සිදුකළ පුද්ගලයාව දිඹුලාගල ප්‍රදේශයේ දී අත්අඩංගුවට ගත් බවය.
+Acting IGP Deshabandu Tennakoon said the shooting was arrested in the Dimbulagala area in the Special Criminal Investigation Division this morning.
 
-කඩුවෙල කොරතොට ප්‍රදේශයේ නිවසකට පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් ලෙස පවසමින් සම්පූර්ණයෙන් මුහුණු ආවරණය කෙරෙන යතුරුපැදි හිස් ආවරණ පැලඳ යතුරු පැදියකින් පැමිණි දෙදෙනෙකු විසින් එම නිවසේ සිටි පුද්ගලයකු පැහැර ගෙන ගොස් ජනවාරි මස 10 වනදා රාත්‍රියේ හිසට වෙඩි තබා ඝාතනය කර තිබිණි.
+Two persons who came to a house covered by the STF personnel in Koratto, Korathentota were abducted in the house and was shot dead on January 10.
 
-පැහැරගෙන ගොස් තිබූ පුද්ගලයා මාලඹේ තුන්අදහේන, දෙල්ගහවත්ත, මහවෙල පාලමක් අසලදී බිම නිදිකරවා මිලිමීටර් නවය වර්ගයේ ගිනිඅවියකින් හිස ප්‍රදේශයට වෙඩි තබා තිබූ බවත් පසුව තුවාලකරු අතුරුගිරිය ඔරුවල ප්‍රාදේශීය රෝහලට ඇතුළත් කිරීමෙන් පසු වැඩිදුර ප්‍රතිකාර සඳහා කොළඹ ජාතික රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇතැයි ද පොලීසිය සඳහන් කළේය.
+The victim has been shot at the Colombo National Hospital for further treatment, after being rushed to the Colombo National Hospital.
 
-...
+The deceased is Buddhika Prasad, a resident of Korattatota, Korathentota.
+
+A senior Navagamuwa Police said that a massive suzzling was being heard in 2011 and charges of a firearm in 2011.
+
+◼️
 
 [Data](articles/dc52776e.json)
 
+[Extended Data](ext_articles/dc52776e.ext.json)
+
 ---
 
-### ආබාධිත, වැඩිහිටි සහ වකුගඩු දීමනා ඉහළට
+### Disabled, adult and kidney offers up
 
 *2024-02-08 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193132) · `si`
 
-ආබාධිත, වැඩිහිටි සහ වකුගඩු දීමනාව ජනවාරි මස සිට බලපැවැත්වෙන පරිදි ඉහළ නංවන බව මුදල් රාජ්‍ය අමාත්‍ය ෂෙහාන් සේමසිංහ මහතා පවසයි.
+State Minister Shehan Semasinghe says that the disabled, adult and kidney allowance will be increased from January.
 
-ඒ අනුව රුපියල් 5,000ක්ව පැවැති ආබාධිත සහ වකුගඩු දීමනාව රුපියල් 7,500ක් දක්වා ද, රුපියල් 2,000ක්ව පැවැති වැඩිහිටි දීමනාව රුපියල් 3,000 දක්වා ද ඉහළ නංවන බව රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+Accordingly, the disabled and kidney allowance of Rs. 5,000 will be increased to Rs.
 
-මේ අතර දැනට අස්වැසුම ප්‍රතිලාභී පවුල් තුළ සිටින ආබාධිත, වැඩිහිටි සහ වකුගඩු දීමනා ලැබීමට සුදුස්සන් මෙම වසරේ පළමු කාර්තුව තුළ හඳුනාගැනීමට නියමිත අතර ඉන් පසු ඔවුන්ට ද මෙම වැඩිකළ දීමනාව අප්‍රේල් මස 01 සිට ලබාදීමට නියමිතය.
+Meanwhile, it is expected to be identified in the first quarter of this year to receive disabled, adult and kidney offers in revenue families.
 
-මේ අතර මාර්තු මස 31 අවසන් වීමට නියමිතව තිබූ අස්වැසුම ප්‍රතිලාභ යටතේ අවදානමට ලක් වූ සහ සංක්‍රාන්තික කාණ්ඩයේ ගෙවීම් දෙසැම්බර් මස 31 දක්වා සිදුකරන බව රාජ්‍ය අමාත්‍යවරයා පැවසුවේය.
+Meanwhile, the public minister said that the salary category of vulnerable and transitional category would be paid to 31st December.
 
-දැනට සංක්‍රාන්තික කාණ්ඩය සඳහා රුපියල් 2,500ක් ද අවදානමට ලක් වූ කණ්ඩය සඳහා රුපියල් 5,000ක දීමනාවක් හිමි වූ අතර ඉදිරියේ දී එම කාණ්ඩ දෙක එක්කොට පවුල් ලක්ෂ 8ක පිරිස එකම අවදානමට ලක් වූ කාණ්ඩය සේ සලකා රුපියල් 5,000ක දීමනාවක් ලබා දෙන බව අමාත්‍යවරයා වැඩිදුරටත් ස﻿ඳහන් කළේය.
+The Minister further stated that the allowance of Rs..
 
 ◼️
 
 [Data](articles/f1f15649.json)
 
+[Extended Data](ext_articles/f1f15649.ext.json)
+
 ---
 
-### ලොව ධනවත්ම කාන්තාවන් 10 දෙනා මෙන්න
+### Here are the 10 richest women in the world
 
 *2024-02-08 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193131) · `si`
 
-ලොව ධනවත්ම කාන්තාවන් 10 දෙනා පිළිබඳව මේ වනවිට ලෝකයේම අවධානය යොමුව තිබේ.
+The world's tenure in the world is focused on the 10 world's richest women.
 
-එහි පෙරමුණ ගෙන ඇත්තේ ප්‍රංශ ජාතික ලෝප්‍රකට රූපලාවන්‍ය නිෂ්පාදන සමාගමක නිර්මාතෘවරයාගේ මිණිබිරිය වීම විශේෂත්වයකි.
+The forefront of the forefront is to be the granddaughter of the founder of a French beauty manufacturing company.
 
-ප්‍රංශ ජාතික Francoise Bettencourt Meyers නම් ඇයගේ ශුද්ධ වත්තකම අමෙරිකානු ඩොලර් බිලියන 99.5ක් ලෙස සටහන්ව තිබේ.
+The French Francoise BeteenCource Meyers, her net estate is recorded US $ 99.5 billion.
 
-එහි දෙවන ස්ථානය හිමිකරගෙන ඇත්තේ අමෙරිකානු ජාතික ව්‍යාපාරික කාන්තාවක් වන 74 හැවිරිදි වියේ පසුවන Alice Walton විසින්.
+The second place is owned by Alice Walton, a 74-year-old woman.
 
-ඇයගේ ශුද්ධ වත්කම ලෙස සඳහන් ව ඇත්තේ අමෙරිකානු ඩොලර් බිලියන 64.8ක් ලෙසටය.
+Her net asset: US $ 64.8 billion.
 
-අමෙරිකානු ඩොලර් බිලියන 60.1ක් හිමිකරගෙන සිටින 62 හැවිරිදි Julia Koch නමැති කාන්තාව එම ලැයිස්තුවේ 3 වන ස්ථානය හිමිකරගෙන සිටියි.
+The 62-year-old Julia Koch holds US $ 60.1 billion in the list.
 
-ඩොලර් බිලියන 39.8ක් හිමිකරගෙන සිටින අමෙරිකානු ජාතික 84 හැවිරිදි වියේ පසුවන Jacqueline Mars එම ලැයිස්තුවේ 4 වන ස්ථානයට පත්ව තිබේ.
+Jacqueline Mars, whose 84 billion, has been elected to the 4th in that list.
 
-මේ අතර Amazon නිර්මාතෘ Jeff Bezosගේ දික්කසාද බිරිඳ වන 53හැවිරිදි වියේ පසුවන Mackenzie Scott ඩොලර් බිලියන 34.5 ක් හිමිකරගෙන එහි 5 වන ස්ථානයට එළැඹ ඇත.
+Meanwhile, a 53-year-old mackenzie scott was placed 53.5 billion US $ 34.5 billion.
+
+The wife of a 78-year-old American casino company, the wife of a 78-year-old Miriam Adelson has reached the 6th among the richest women in the world.
+
+The 7th year old woman in Australia, a 69-year-old Gina Rinaathhartha is owned by the 7th place in the list.
+
+In this list, a world's popularity company owned by a popular shipping company, is in the 8th place on this list.
 
 ...
 
 [Data](articles/0bf7a320.json)
+
+[Extended Data](ext_articles/0bf7a320.ext.json)
 
 ---
 
@@ -332,25 +396,27 @@ The accused, along with seized Pregabalin capsules, have been handed over to the
 
 ---
 
-### මල්වතු හිරිපිටිය විහාරස්ථානයේ හිමිනම ඝාතනයට සම්බන්ධ රියදුරු අත්අඩංගුවට
+### Drunk into the murder of monk, Malwathu Hiripitiya Temple arrested
 
 *2024-02-08 13:28:39* · [`adalk`](https://www.ada.lk/breaking_news/මල්වතු-හිරිපිටිය-විහාරස්ථානයේ-හිමිනම-ඝාතනයට-සම්බන්ධ-රියදුරු-අත්අඩංගුවට/11-407966) · `si`
 
-ගම්පග මල්වතු හිරිපිටිය පොලිස් වසමේ විහාරස්ථානයක හිමිනමක් ඉකුත් ජනවාරි 23  ඝාතනය කිරීමේ සිද්ධියට සම්බන්ධ වාහනයේ රියදුරු ලෙස කටයුතු කල බවට සැක කෙරෙන පුද්ගලයෙකු ගිනි අවි ජීව උණ්ඩ හා මත්ද්‍රව්‍ය සමග (07)  දා රාත්‍රී අත්අඩංගුවට ගත් බව බස්නාහිර පළාත උතුර අපරාධ කොට්ඨාසය පවසයි.
+The Western Criminal Division (CCD) says that a monk of the temple in Hiripitiya police division in Malwathu Police Division has been arrested by the Hiripitiya police division.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ  හෝමාගම මුල්ලේගම ප්‍රදේශයේ පදිංචි වීරසිංහ ආරච්චිගේ රසික තරංග පෙරේරා (අවු.29) නැමැති පුද්ගලයකු බව පොලිසිය කියයි.
+The arrest was a person named Weerasinghe Arachchige (29) residents of Mullegama, Homagama.
 
-අත්අඩංගුවට ගත් සැකකරු සන්තකයේ තිබී  විදේශ රටක නිෂ්පාදිත ජීව අත්බෝම්බයක් ,T-56 ගිනි අවියක් , උණ්ඩ 15 , T-56 උණ්ඩ යෙදිය හැකි පතොරම් ගැබ් 02 , මිලි මීටර් නමය වර්ගයේ ගිනි අවියක් , මිලිමීටර් නවය වර්ගයේ පිස්තෝල අවියක්, උන්ඩ 02 , එම උණ්ඩ යෙදිය හැකි පතරම් ගැබක්,
+A foreign country manufactured in the suspect's possession, a foreign hand grenade, a t-56 firearm, 56 mm, nine millimeter pistol, millimeter pistol, a bullestFirewirely more beautiful,
 
-අංක WP BG 2059 දරණ ව්‍යාජ අංක තහඩු සහිත බජාජ් පල්සර් යතුරු පැදිය
+Bajaj Pulsar MotorSary with the fake number plates of No. WP BG 2059
 
-අපරාධය සදහා යොදාගත් අංක CAQ 0365 දරණ කාර් රථයේ ස්විච් යතුරක්,
+A switch key in the car for the crime, a switch key
 
-ජංගම දුරකථනයක් පොලිස් භාරයට ගෙන තිබේ.අත්අඩංගුවට ගත් සැකකරු හෝමාගම මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+The suspect is to be produced before the Homagama Magistrate's Court.
 
 ◼️
 
 [Data](articles/3385c3ae.json)
+
+[Extended Data](ext_articles/3385c3ae.ext.json)
 
 ---
 
@@ -2073,45 +2139,5 @@ Police have seized 122 grams of heroin in possession of 122 grams of heroin, 51 
 [Data](articles/1325e32b.json)
 
 [Extended Data](ext_articles/1325e32b.ext.json)
-
----
-
-### Adjournment debate on government’s policy statement commences
-
-*2024-02-08 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97103/adjournment-debate-on-governments-policy-statement-commences) · `en`
-
-The adjournment debate on the government’s policy statement, presented by President Ranil Wickremesinghe, commenced in Parliament a short while ago.
-
-The Fifth Session of the Ninth Parliament will be ceremonially declared open by the President on Wednesday (Feb.07), after which he also presented the government’s policy statement. In the past, the policy statement was referred to as the Throne Speech and was presented by the Governor.
-
-The adjournment debate on the government’s policy statement is scheduled to be held over two days, today (Feb.08) and tomorrow (Feb.09), from 9.30 a.m. to 5.30 p.m.
-
-Meanwhile, the Resolution under the Essential Public Services Act is scheduled to be approved without a debate on 08 February, before continuing the adjournment debate on the government’s policy statement.
-
-Sri Lanka Parliament was prorogued with effect from midnight on 26 January, marking the closure of the Fourth Session of the Ninth Parliament.
-
-...
-
-[Data](articles/ae273b2f.json)
-
-[Extended Data](ext_articles/ae273b2f.ext.json)
-
----
-
-### The President has departed Australia
-
-*2024-02-08 09:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுஸ்திரேலியா-புறப்பட்டார்-ஜனாதிபதி/175-332875) · `ta`
-
-Ranil Wickremesinghe left Australia from Katunayake airport this morning to attend the 7th Indian Ocean Conference.
-
-The conference will be held in Perth, Australia from 9 to 10.
-
-A delegation with the president has gone and they will leave the Katunayake airport at 12.45 am today (08) at 12.45 am on the SK-469 Singapore Airlines flight.
-
-◼️
-
-[Data](articles/07d1c3ec.json)
-
-[Extended Data](ext_articles/07d1c3ec.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 22:50:15**
+As of **2024-02-08 23:02:20**
 
 ## Newspaper Stats
 
-*Scraped **5,817** Articles*
+*Scraped **5,818** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 316
 newsfirstlk | 363
 adalk | 491
 tamilmirrorlk | 716
-adaderanalk | 718
+adaderanalk | 719
 virakesarilk | 721
 adaderanasinhalalk | 765
 dailymirrorlk | 829
@@ -26,11 +26,29 @@ dailymirrorlk | 829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,817 (100.0%) of 5,817 articles have been extended.
+5,818 (100.0%) of 5,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### Sri Lankan envoy says relations with Saudi Arabia based on respect
+
+*2024-02-08 22:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97128/sri-lankan-envoy-says-relations-with-saudi-arabia-based-on-respect) · `en`
+
+Relations between Saudi Arabia and Sri Lanka are based on common values, mutual respect, support and non interference according to Colombo’s ambassador in Riyadh, Pakeer Mohideen Amza.
+
+Speaking at a reception on the 76th anniversary of Sri Lanka’s Independence, he said: “Sri Lanka-Saudi Arabia relations date back to several centuries. Sri Lanka was a pivotal point in the historic silk route which was used extensively by the Arab traders. In ancient times Arabs called Sri Lanka ‘Serendip,’ which later added to the English vocabulary as ‘serendipity.’”
+
+The ambassador said the Sri Lankan leadership had on numerous occasions expressed admiration for Saudi Vision 2030, which he said was a well-thought-out strategy that takes into consideration the Kingdom’s strengths and capabilities, as well as the impressive progress that has been made under the leadership of King Salman and Crown Prince Mohammed bin Salman.
+
+...
+
+[Data](articles/3ab8eb23.json)
+
+[Extended Data](ext_articles/3ab8eb23.ext.json)
+
+---
 
 ### Person injured in shooting at Anamaduwa
 
@@ -2157,21 +2175,5 @@ Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
 [Data](articles/5e554d20.json)
 
 [Extended Data](ext_articles/5e554d20.ext.json)
-
----
-
-### NPP’s Visit To India & Learning From India’s Success
-
-*2024-02-08 12:55:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/npps-visit-to-india-learning-from-indias-success/) · `en`
-
-The recent visit of the leader of the NPP to India has garnered significant attention due to his high-profile meetings and discussions focusing on exploring Indian models for development strategies, particularly in poverty alleviation, state administration, energy reforms, agriculture and water management, infrastructure enhancement, industrial growth, investment, healthcare, and women’s empowerment. Colombo Telegraph has carried a couple of opinions already and here is another perspective.
-
-The JVP’s pragmatic strategies for development while honoring the debts (should they come into political power), remain subject to further discussion, but the crucial takeaway lies in understanding India’s successful practices that have propelled her into an economic giant in the globe which need to be fully comprehended by Sri Lankan politicians aspiring to take over in the future.
-
-...
-
-[Data](articles/928660cf.json)
-
-[Extended Data](ext_articles/928660cf.ext.json)
 
 ---

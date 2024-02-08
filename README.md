@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 04:02:19**
+As of **2024-02-09 04:17:25**
 
 ## Newspaper Stats
 
-*Scraped **5,839** Articles*
+*Scraped **5,840** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 308
 dailyftlk | 316
 newsfirstlk | 363
 adalk | 491
-tamilmirrorlk | 719
 adaderanalk | 719
+tamilmirrorlk | 720
 virakesarilk | 731
 adaderanasinhalalk | 767
 dailymirrorlk | 834
@@ -26,11 +26,31 @@ dailymirrorlk | 834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,839 (100.0%) of 5,839 articles have been extended.
+5,839 (100.0%) of 5,840 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### ’விரிவுரையாளர்கள் கடனை மீள செலுத்தவில்லை’
+
+*2024-02-09 02:34:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விரிவுரையாளர்கள்-கடனை-மீள-செலுத்தவில்லை/175-332932) · `ta`
+
+உயர்கல்விக்காக வெளிநாடுகளுக்கு செல்வதற்கு அரச வங்கிகள் மூலம் 1300 மில்லியன் ரூபாவை கடனாக பெற்றுக் கொண்ட  பல்கலைக்கழக விரிவுரையாளர்கள் பலர் அதனை மீளச் செலுத்த தவறியுள்ளதாக நீதியமைச்சர் விஜேதாச ராஜபக்ச  தெரிவித்தார்.
+
+பாராளுமன்றத்தில் நேற்று வியாழக்கிழமை எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச எழுப்பிய கேள்வியொன்றுக்குப் பதிலளிக்கும் போதே இவ்வாறு தெரிவித்த அவர் மேலும் கூறுகையில்,
+
+மக்கள் வங்கி மற்றும் இலங்கை வங்கி ஆகியவை நாட்டின் தேசிய பொருளாதாரத்தை மேம்படுத்துவதற்காகவே ஆரம்பிக்கப்பட்டன. குறிப்பாக அந்த வங்கிகள் மூலம் விவசாயத்துறை மற்றும் கைத்தொழில் துறையை முன்னேற்றுவதற்கு பல்வேறு நடவடிக்கைகள் மேற்கொள்ளப்பட்டுள்ளன.
+
+ஸ்ரீமாவோ பண்டாரநாயக்க வின் காலத்தில் அனைத்து விவசாய நிறுவனங்களிலும் இலங்கை வங்கி கிளை இயங்கி வந்துள்ளது. அந்தந்த பிரதேசங்களில் வாழும் மக்கள் தமது விவசாய நடவடிக்கைகளுக்காக கடன் வழங்கும் நடைமுறையை அந்த வங்கிகள் முன்னெடுத்தன.
+
+அந்த வகையில் இலங்கை வங்கி மற்றும் மக்கள் வங்கி ஆகியன அவ்வாறு வழங்கி யுள்ள மூன்றாம் கட்ட கடனில் 602 பில்லியன் ரூபா கடன் பெற்றுள்ளவர்களால் மீள செலுத்தப்படாமல் உள்ளது.
+
+...
+
+[Data](articles/0ce4e6a5.json)
+
+---
 
 ### Anti -Terrorism Bill: 30 petitions
 
@@ -2117,39 +2137,5 @@ The people have the right to challenge the High Court within 14 days of the Bill
 [Data](articles/0bd25dbf.json)
 
 [Extended Data](ext_articles/0bd25dbf.ext.json)
-
----
-
-### Here are the 10 richest women in the world
-
-*2024-02-08 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193131) · `si`
-
-The world's tenure in the world is focused on the 10 world's richest women.
-
-The forefront of the forefront is to be the granddaughter of the founder of a French beauty manufacturing company.
-
-The French Francoise BeteenCource Meyers, her net estate is recorded US $ 99.5 billion.
-
-The second place is owned by Alice Walton, a 74-year-old woman.
-
-Her net asset: US $ 64.8 billion.
-
-The 62-year-old Julia Koch holds US $ 60.1 billion in the list.
-
-Jacqueline Mars, whose 84 billion, has been elected to the 4th in that list.
-
-Meanwhile, a 53-year-old mackenzie scott was placed 53.5 billion US $ 34.5 billion.
-
-The wife of a 78-year-old American casino company, the wife of a 78-year-old Miriam Adelson has reached the 6th among the richest women in the world.
-
-The 7th year old woman in Australia, a 69-year-old Gina Rinaathhartha is owned by the 7th place in the list.
-
-In this list, a world's popularity company owned by a popular shipping company, is in the 8th place on this list.
-
-...
-
-[Data](articles/0bf7a320.json)
-
-[Extended Data](ext_articles/0bf7a320.ext.json)
 
 ---

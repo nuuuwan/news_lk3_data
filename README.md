@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 21:17:26**
+As of **2024-02-08 21:33:18**
 
 ## Newspaper Stats
 
@@ -26,29 +26,33 @@ dailymirrorlk | 820
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,791 (100.0%) of 5,793 articles have been extended.
+5,793 (100.0%) of 5,793 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### ලංගම බස් සේවකයින්ට පහරදුන් දෙදෙනා රිමාන්ඩ්
+### Two suspects remanded for attacking SLTB buses
 
 *2024-02-08 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193143) · `si`
 
-ලංගම බස් සේවනයින් සිව් දෙනෙකුට පහරදීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවන් දෙදෙනෙකු රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+Two suspects have been arrested in connection with the attack on four SLTB buses.
 
-හයිලෙවල් මාර්ගයේ ධාවනය කරමින් තිබූ හෝමාගම ඩිපෝවට අයත් බස් රථ දෙකක රියදුරන් දෙදෙනෙකුට සහ කොන්දොස්තරවරයන් දෙදෙනෙකුට මෙම ප්‍රහාරය එල්ලකර තිබුණි.
+Two two buses belonging to the Homagama depot were launched by two buses belonging to the Homagama depot.
 
-සැකකරුවන් දෙදෙනා අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් පසු ලබන 15 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස හෝමාගම මහෙස්ත්‍රාත් රජීන්ද්‍රා ජයසූරිය මහත්මිය අද (08) නියෝග කළාය.
+The Homagama Magly Jayasuriya today (08) ordered that the two suspects were produced before the courts.
 
-මෙලෙස රිමාන්ඩ් කරන ලද්දේ පදියතලාව කෙහෙල්උල්ල කඩුපාර ප්‍රදේශයේ පදිංචිකරුවකු වන ප්‍රදීප් අමරතුංග නමැති පෞද්ගලික බස් රථයක කොන්දොස්තරවරයෙක් සහ පෞද්ගලික වේලා දැනුම්දෙන්නෙකු වන තුන්නාන හංවැල්ල ප්‍රදේශයේ පදිංචි හර්ෂ සඳුන් නමැත්තෙකි.
+The manager of Pradeep Amaratunga, a private bus and private bus, a private bus, a resident of Kadupera in Kadupehara, is a resident of Kadupehthalalla, a resident of Kadupehthalalla.
 
-සැකකාර පෞද්ගලික බස් රථ කොන්දොස්තරවරයා අවිස්සාවේල්ල ප්‍රදේශයේදී තවත් බස් රථයක රියදුරුට සහ කොන්දොස්තරට පහරදීමේ සිද්ධියක් සම්බන්ධයෙන් ලබන 13 වනදා අවිස්සාවේල්ල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කරන ලෙසද එහිදී නියෝග කළාය.
+The suspected private bus conductor also ordered that the driver and conductor of another bus in Avissawella on the 13th of this month.
 
-...
+Meanwhile, a group of employees of bus depot protest in front of the Breid of Bilateral Homagama, protesting against the attacks on his brother buses.
+
+◼️
 
 [Data](articles/40d2f35d.json)
+
+[Extended Data](ext_articles/40d2f35d.ext.json)
 
 ---
 
@@ -1017,6 +1021,8 @@ For example on 27 December 2008 Israel, using the most sophisticated and most de
 ...
 
 [Data](articles/fbac0498.json)
+
+[Extended Data](ext_articles/fbac0498.ext.json)
 
 ---
 

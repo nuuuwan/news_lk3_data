@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 08:17:22**
+As of **2024-02-08 08:32:53**
 
 ## Newspaper Stats
 
-*Scraped **5,599** Articles*
+*Scraped **5,609** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,130 @@ adalk | 472
 virakesarilk | 684
 adaderanalk | 692
 tamilmirrorlk | 696
-adaderanasinhalalk | 725
+adaderanasinhalalk | 735
 dailymirrorlk | 792
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,599 (100.0%) of 5,599 articles have been extended.
+5,609 (100.0%) of 5,609 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### Second semi-final match today
+
+*2024-02-08 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193114) · `si`
+
+The second semi-final will be held today (08), the second semi-finals of the Under 19 World Cup.
+
+The competition is to be held between the Under-19 team under the Under-19 team and under 19 team.
+
+The Under-19 team was able to win the first end of South African under 19 team.
+
+The game team will be released to the finals of the team on the day following.
+
+◼️
+
+[Data](articles/38c53129.json)
+
+[Extended Data](ext_articles/38c53129.ext.json)
+
+---
+
+### Businessman and doctor abducted
+
+*2024-02-08 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193113) · `si`
+
+Police Media Division states that two persons were reported to be abducted in two locations yesterday.
+
+The Matara Police Station had a complaint that five people who had been abducted in Matara in Matara yesterday morning.
+
+Subsequently, the suspects were later taken into custody by five suspects who were abducted in the Malimbada Police Division.
+
+The arrested suspects are residents of Denipitiya and the Thelijenthawila area in the age of 28, 30, 37 and 50.
+
+The abducted businessman was in attendance at the opening of a new branch in the Matara area.
+
+The police investigation revealed that the abduction was carried out on a cash dispute.
+
+Meanwhile, according to a complaint lodged with the Police Relief, police had commenced investigations into a complaint made by a doctor abducted and pride in Hikkaduwa.
+
+According to information received by the police, the doctor was abducted while inspection of a house in the Talwatta area in Meetiyagoda.
+
+...
+
+[Data](articles/f6225f0f.json)
+
+[Extended Data](ext_articles/f6225f0f.ext.json)
+
+---
+
+### 122 buses remove from running
+
+*2024-02-08 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193112) · `si`
+
+The buses along the Avissawella - Pettah (122) road have been removed from the road.
+
+60 buses along the 122 road have been dismissed from running today (08).
+
+When a bus belonging to the Depositor of Homagama and his staff, a group of people had been assaulted by a group of people in the Godagama area.
+
+However, no suspects have been arrested yet and in response to the bus.
+
+◼️
+
+[Data](articles/52f5ac5e.json)
+
+[Extended Data](ext_articles/52f5ac5e.ext.json)
+
+---
+
+### Pakistani General Elections today
+
+*2024-02-08 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193111) · `si`
+
+The vote in the 12th general election of Pakistan is scheduled to be held today (08).
+
+It is reported that 128 million voters are eligible to vote for this year's general election.
+
+However, two bomb explosions occurred yesterday (07) last day yesterday.
+
+28 people were killed and another large number of injured.
+
+Two bombs were blown in two motorbikes near two electoral candidates.
+
+◼️
+
+[Data](articles/9b706f21.json)
+
+[Extended Data](ext_articles/9b706f21.ext.json)
+
+---
+
+### Sri Lankans who went to India at the stagnation
+
+*2024-02-08 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193110) · `si`
+
+Five other Sri Lankans in India have been arrested in India's Rameswaran, India.
+
+The group had arrested the group in the Aryicmone coast.
+
+The five Sri Lankans who were arrested belong to the same family, and three small children are among them.
+
+They have been taken to a rehabilitation camp in the pavilipa.
+
+Accordingly, 294 Sri Lankans have come to India by sea and two of them have died.
+
+◼️
+
+[Data](articles/d2827183.json)
+
+[Extended Data](ext_articles/d2827183.ext.json)
+
+---
 
 ### President Ranil embarks on official visit to Australia
 
@@ -92,6 +204,26 @@ The President expressed openness to alternative approaches, noting that if there
 
 ---
 
+### Law tightens police officers who are being misused
+
+*2024-02-08 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193109) · `si`
+
+Acting Inspiration Inspector Tennakoon says it has revealed the police officers with criminal gang members.
+
+He points out that the law does not hesitate to implement the law without violence against those officers.
+
+The acting IGP has also revealed that information has been revealed about several police officers who supported the criminal gang leader Nadu Chintaka or awarded the beef.
+
+Speaking to the media in Bambalapitiya
+
+◼️
+
+[Data](articles/48758819.json)
+
+[Extended Data](ext_articles/48758819.ext.json)
+
+---
+
 ### 42 including pickpockets and ‘perverts’ nabbed in operation to curb public transport harassment
 
 *2024-02-08 07:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97098/42-including-pickpockets-and-perverts-nabbed-in-operation-to-curb-public-transport-harassment) · `en`
@@ -107,6 +239,88 @@ The special operation was mounted by policemen in civvies on public transport se
 [Data](articles/fff64923.json)
 
 [Extended Data](ext_articles/fff64923.ext.json)
+
+---
+
+### 18 sexually violence arrested in public transport
+
+*2024-02-08 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193108) · `si`
+
+In general, children and women have arrested 42 persons yesterday (07), reports specialized by children and women.
+
+The Ministry of Defense stated that 18 persons have been arrested in public transport.
+
+In addition, 24 people including tiered cutters have also been arrested.
+
+According to the People's Ministry of Defense, several civilian garment police officers have joined the operation from 8.00 am to 10.00 am to 10.00 am and 5.00 pm.
+
+◼️
+
+[Data](articles/76417e1c.json)
+
+[Extended Data](ext_articles/76417e1c.ext.json)
+
+---
+
+### Adjournment Debate on Policy Statement Today
+
+*2024-02-08 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193106) · `si`
+
+The Adjournment Debate on the government's policy statement made by President Ranil Wickremesinghe is due to commence today (08).
+
+The debate will be held from 9.30 am to 5.30 am to 5.30 pm today.
+
+The proposal under the essential public service act is due to be approved without debate.
+
+President Ranil Wickremesinghe commenced yesterday under the patronage of President Ranil Wickremesinghe.
+
+However, with the afterde of the president, a group of opposition parties including a group of members of the opposition were present at the Chamber.
+
+However, Parliamentarian Tissa Attanayake said that his party MPs participate in the post of Adjournment Debate on the government's policy statement today.
+
+◼️
+
+[Data](articles/988614a3.json)
+
+[Extended Data](ext_articles/988614a3.ext.json)
+
+---
+
+### President to Australia
+
+*2024-02-08 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193105) · `si`
+
+President Ranil Wickremesinghe has left for Australia for an official visit.
+
+The President has left the President to the Raven 7th Ocean Conference in Perth, the Presidential Media Unit today (08), the Presidential Media Unit said.
+
+The Indian Ocean Conference will be held tomorrow (09) and tomorrow (10) at Perth, Australia.
+
+President Ranil Wickremesinghe will join the visit on the official invitation of the Indian Foundation and Australian Government's official invitation.
+
+The President is also expected to look into investment opportunities in Sri Lanka during the visit.
+
+◼️
+
+[Data](articles/62bbb1d3.json)
+
+[Extended Data](ext_articles/62bbb1d3.ext.json)
+
+---
+
+### Rainy weather
+
+*2024-02-08 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193104) · `si`
+
+The Department of Meteorology says that there will be a key weather in the island mainly.
+
+Some locations can last a morning in the middle of the Central, Sabaragamuwa and Western provinces and in the Galle and Matara districts.
+
+◼️
+
+[Data](articles/1ff0a79e.json)
+
+[Extended Data](ext_articles/1ff0a79e.ext.json)
 
 ---
 
@@ -1779,209 +1993,5 @@ People's Liberation Front has launched campaigns in the past demanding the killi
 [Data](articles/c8619b73.json)
 
 [Extended Data](ext_articles/c8619b73.ext.json)
-
----
-
-### Appointment to retirees, despite the authorities in the education administration;Sri Lanka Teachers Association
-
-*2024-02-07 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175803) · `ta`
-
-The Governor of the Western Province has been accused of providing retired officers in order to instead of employing more than a hundred officers in the administrative service.
-
-The Sri Lanka Teachers Association said that the officers who could work for the posts of the Education Administration were not appointed and that the retired officers had retained the main positions within the Western Provincial Education system without any basis.
-
-Grade 1 retired officer of Sri Lanka Education Administration Service LHWR. The Association has pointed out that the Deputy Director of Education (Education Development) of the Silva Western Provincial Department has been appointed on a contract basis for a period of one year.
-
-In a media report released by the Teachers Union, the number of officers currently recognized in the Education Administration Service in the Western Provincial Education System is 244 and the number of officers currently in office is 408.
-
-...
-
-[Data](articles/11bb8d00.json)
-
-[Extended Data](ext_articles/11bb8d00.ext.json)
-
----
-
-### Kudu Roshan released on bail
-
-*2024-02-07 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193092) · `si`
-
-While hiding in the Warakapola, the 'Kudu Roshan' of 'Kudu Roshan' and his younger brother were released on bail.
-
-The court also dictated a bail of Rs.
-
-"Kudu Roshan 'was sentenced to 7 bail of Rs. 1 million for his brother.
-
-The Additional Magistrate has ordered the suspects to give fingerprints to the Criminal Investigation Department after obtaining bail.
-
-Kudu Roshan, detained at the Boossa Prison, was presented to Skype technology through Skype technology.
-
-◼️
-
-[Data](articles/d2dc032c.json)
-
-[Extended Data](ext_articles/d2dc032c.ext.json)
-
----
-
-### Five Indian firms among six prequalified for Sri Lanka’s Canwill Holdings RFP
-
-*2024-02-07 17:20:00* · [`economynextcom`](https://economynext.com/five-indian-firms-among-six-prequalified-for-sri-lankas-canwill-holdings-rfp-150314/) · `en`
-
-ECONOMYNEXT – Five Indian firms are among six bidders prequalified for the Request for Proposal (RFP) stage, the State-Owned Enterprises Restructuring Unit (SOERU) said on Wednesday.
-
-The SOERU called for expressions of interest in October last year from investors to divest Canwill Holdings, which owns almost a completed building for a hotel in the capital Colombo.
-
-The SOERU in a statement said the EOI received were evaluated in accordance with the terms and conditions set out in the Request for Expressions of Interest in compliance with the Special Guidelines on Divestiture of State-Owned Enterprises approved by the Cabinet of Ministers in July 2023.
-
-After evaluation, the Cabinet Appointed Special Project Committee (SPC) and the Special Cabinet Appointed Negotiating Committee (SpCANC) have prequalified six bidders, it said.
-
-6. Consulting Engineers and Contractors (Pvt) (Ltd) and K.D.A. Weerasinghe &  Co. (Pvt) Ltd (Sri Lanka)
-
-...
-
-[Data](articles/1763e6dc.json)
-
-[Extended Data](ext_articles/1763e6dc.ext.json)
-
----
-
-### Kandy requests Nittawela for their games
-
-*2024-02-07 17:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kandy-requests-Nittawela-for-their-games/108-276444) · `en`
-
-Kandy, Feb. 6 (Daily Mirror) - Defending League Champions and biggest crowd puller in local club rugby, Kandy Sports Club, has written to Sri Lanka Rugby (SLR) the governing body, requesting for Nittawela as their venue for Clifford Cup Knock-Out games.
-
-They are awaiting for their reply in order to confirm their participation in the knock-out rugby tournament, which will kick-off shortly after the completion of the League encounters in two weeks.
-
-Secretary of the Kandy SC, Sujeewa Liyanage had written to SLR through an email on 22 January 2024, addressing to the President of SLR, Nalin de Silva which is yet to be responded to.
-
-Liyanage, speaking to Daily Mirror said: “Kandy is the only outstation club playing ‘A’ Division rugby and this Clifford Cup Tournament was kept in outstation some time back.”
-
-...
-
-[Data](articles/4827ffcb.json)
-
-[Extended Data](ext_articles/4827ffcb.ext.json)
-
----
-
-### Plantation administration that has not sent the Central Bank to the Central Bank for 4 years;Talawakelle - Holrem estate workers demonstration
-
-*2024-02-07 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175816) · `ta`
-
-Workers staged a protest demonstration on Wednesday (07) as the plantation administration has not sent the Central Bank to the Central Bank for the past four years as the Employees' Welfare Fund has not been sent to the Central Bank for the past four years.
-
-More than 500 workers participated in this. Significantly, they are sitting in front of the factory and carrying out their opposition.
-
-Plantation workers said the funds that were levied monthly from their salary had not yet been sent to the Central Bank.
-
-In addition, the plantation officials noted that the workers had deceived the workers without paying attention to this and the protesters immediately sent their fees to the relevant department and gave them receipt.
-
-◼️
-
-[Data](articles/c998e14e.json)
-
-[Extended Data](ext_articles/c998e14e.ext.json)
-
----
-
-### Fisherman killed in hospital with a poisonous gas
-
-*2024-02-07 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193091) · `si`
-
-A fisherman has died due to a fishing tank at a fishing vessel at the Ambalangoda Fisheries Harbor.
-
-The seven other fishermen are currently receiving treatment at the Balapitiya Hospital.
-
-◼️
-
-[Data](articles/37798d8b.json)
-
-[Extended Data](ext_articles/37798d8b.ext.json)
-
----
-
-### Provide land to the plantation sector
-
-*2024-02-07 16:53:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பெருந்தோட்டத்துறைக்கு-காணி-உறுதி-வழங்கவும்/76-332845) · `ta`
-
-Vadivel Suresh, a senior adviser to the president's mountain plantation development, said that he had brought to the notice of the president that the land was being issued by the government at the national level.
-
-He said this while commenting on the policy speech made by the President in Parliament on Wednesday (07).
-
-He said he had also discussed with Land Minister Harin Fernando in this regard and that he assured him that the next step would be focused on the matter.
-
-He also urged the government to provide them with the land of plantation workers who live in the hill country for a long time and then focus on other distribution when the land of government -owned plantation companies was distributed.
-
-◼️
-
-[Data](articles/4a4d831f.json)
-
-[Extended Data](ext_articles/4a4d831f.ext.json)
-
----
-
-### UNICEF welcomes amendment to Sri Lanka’s Children and Young Persons Ordinance
-
-*2024-02-07 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97087/unicef-welcomes-amendment-to-sri-lankas-children-and-young-persons-ordinance) · `en`
-
-The United Nations International Children’s Emergency Fund (UNICEF) states that it welcomes the long-awaited amendment to the Sri Lanka’s Children and Young Persons Ordinance (CYPO) coming into force effective January 01, 2024, which marks a significant step towards protecting the rights and welfare of all children of the country.
-
-The CYPO, a legislation governing justice for children in Sri Lanka since 1939, previously only covered those up to the age of 16. The amendment now extends its protection to all children under the age of 18. Furthermore, the amendment also repeals the section of the CYPO which permitted the use of corporal punishment on children and adolescents by parents, teachers, or guardians.
-
-...
-
-[Data](articles/149d1222.json)
-
-[Extended Data](ext_articles/149d1222.ext.json)
-
----
-
-### A historical record of Josephrit Bumra
-
-*2024-02-07 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193090) · `si`
-
-The Super Indian Fastings Jasprit Bumra has set a special world record.
-
-In any case of cricket, Josephrit Bumta, who became the only bowler in the world, has been placed in the world to the Front.
-
-The latest Test bowlers rank of ICC has arrived at No. 1, with this unique world report was owned by Bumra.
-
-Meanwhile, Josephrit Burkera has been appointed as the first Indian Fast Band to the Test rankings.
-
-Previously Bhazan Singh-Bedi, Ravicrandran Ashwin and Ravindra Jadeja arrived at the ratings of Test bowler ratings, but they were spinners.
-
-Jasprit Bumra took six wickets in England innings, while Bumra took six wickets in the innings.
-
-◼️
-
-[Data](articles/1d3121df.json)
-
-[Extended Data](ext_articles/1d3121df.ext.json)
-
----
-
-### Petric McNamara as Executive Director of the US - Sri Lanka FluPrite Commission
-
-*2024-02-07 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175817) · `ta`
-
-The US Embassy in Sri Lanka is delighted to announce the announcement of Dr. Petric McNamara as the new Executive Director of the US -Sri Lanka Flubright Commission in Colombo.
-
-“We are very pleased to welcome Dr. Petric McNamara as the new Executive Director of our US-Sri Lanka Flubright Commission.
-
-Under the leadership of Dr. McNamara, the Commission enters into a new era of developing exchanges, educational parties and mutual understanding between our two countries.
-
-We expect the Commission to play an important role in further strengthening educational and scientific ties between the people of the United States and Sri Lanka through vibrant knowledge exchanges that go beyond the borders and students. ”US Ambassador to Sri Lanka Julie Sung said.
-
-“The Fulfrite Program has been benefiting the two countries for 71 years.
-
-More than 2000 alumni have traveled and participated in the program. ”
-
-...
-
-[Data](articles/4b14184e.json)
-
-[Extended Data](ext_articles/4b14184e.ext.json)
 
 ---

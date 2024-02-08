@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 07:41:55**
+As of **2024-02-08 07:52:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,593 (99.9%) of 5,596 articles have been extended.
+5,596 (100.0%) of 5,596 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The Sri Lankan leader has been invited to deliver the keynote address for the 7t
 
 [Data](articles/46118b56.json)
 
+[Extended Data](ext_articles/46118b56.ext.json)
+
 ---
 
 ### 42 including pickpockets and ‘perverts’ nabbed in operation to curb public transport harassment
@@ -59,6 +61,8 @@ The special operation was mounted by policemen in civvies on public transport se
 ◼️
 
 [Data](articles/fff64923.json)
+
+[Extended Data](ext_articles/fff64923.ext.json)
 
 ---
 
@@ -182,19 +186,21 @@ Hayleys Aventura Ltd., a subsidiary of Hayleys PLC, recently hosted the inaugura
 
 ---
 
-### குஜராத் முதல்வரை சந்தித்தார் அனுர
+### Anura met Gujarat Chief Minister
 
 *2024-02-08 02:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குஜராத்-முதல்வரை-சந்தித்தார்-அனுர/175-332868) · `ta`
 
-இந்தியா சென்றுள்ள தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திசாநாயக்க உள்ளிட்ட குழுவினர் குஜராத் முதலமைச்சர் பூபேந்திரபாய் பட்டேலை நேற்று சந்தித்துள்ளனர்.
+A group of National People's Power Leader Anura Kumara Dissanayake, who has visited India, met Gujarat Chief Minister Bhubendrabhai Patel yesterday.
 
-குஜராத் மாநிலத்தில் வறுமையை ஒழிப்பதற்கான அபிவிருத்தி மூலோபாய திட்டங்கள் மற்றும் பிராந்தியத்தின் நிர்வாக செயற்பாடுகள் ஆகிய விடயங்கள் தொடர்பில் இதன்போது கலந்துரையாடப்பட்டுள்ளது.
+The development strategic programs for the eradication of poverty in Gujarat have been discussed.
 
-அனுரகுமார திசாநாயக்க உள்ளிட்ட குழுவினர் குஜராத்தின் கைத்தொழில் அமைச்சருடனும் விசேட கலந்துரையாடலில் ஈடுபட்டுள்ளனர். (a)
+Anurakumara Dissanayake, including the team of Gujarat's Industry, is also in a special discussion.. (A)
 
 ◼️
 
 [Data](articles/92e97828.json)
+
+[Extended Data](ext_articles/92e97828.ext.json)
 
 ---
 

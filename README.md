@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 12:33:37**
+As of **2024-02-08 12:49:29**
 
 ## Newspaper Stats
 
-*Scraped **5,681** Articles*
+*Scraped **5,685** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 478
 virakesarilk | 694
 adaderanalk | 703
 tamilmirrorlk | 708
-adaderanasinhalalk | 745
+adaderanasinhalalk | 749
 dailymirrorlk | 808
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,672 (99.8%) of 5,681 articles have been extended.
+5,685 (100.0%) of 5,685 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ With the new development, the Navy has held 12 Indian poaching trawlers and 88 I
 
 [Data](articles/ba0c377f.json)
 
+[Extended Data](ext_articles/ba0c377f.ext.json)
+
 ---
 
 ### Sports Minister greenlights Sri Lanka’s ODI squad for Afghanistan series
@@ -63,6 +65,24 @@ The ODI series is scheduled to commence on February 9th in Pallekele.
 ◼️
 
 [Data](articles/5e999200.json)
+
+[Extended Data](ext_articles/5e999200.ext.json)
+
+---
+
+### Here is the new Sri Lankan squad
+
+*2024-02-08 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193128) · `si`
+
+Sri Lanka squad has been named for the ODI tournament held between Sri Lanka and Afghanistan.
+
+February 9, 11 and 14 at the International Cricket Stadium in the Pallekele International Cricket played between Sri Lanka and Afghanistan.
+
+◼️
+
+[Data](articles/f51e9113.json)
+
+[Extended Data](ext_articles/f51e9113.ext.json)
 
 ---
 
@@ -83,6 +103,28 @@ Ratnayake said the names of family members who are overseas should also be inclu
 ◼️
 
 [Data](articles/41cc10f9.json)
+
+[Extended Data](ext_articles/41cc10f9.ext.json)
+
+---
+
+### A person cuts at Kurunegala bus stand
+
+*2024-02-08 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193127) · `si`
+
+A person who had fallen in Kurunegala bus stand has been hospitalized with severe cut injuries.
+
+Police suspect that he is an excessive drug addict and the lack of drugs has been injured in a knife.
+
+The victim has been injured in nearly 13 charges against various mistakes.
+
+In further investigations have revealed that the suspect had been swolled by the suspect and damaged their neck and chest area.
+
+◼️
+
+[Data](articles/4e734ffa.json)
+
+[Extended Data](ext_articles/4e734ffa.ext.json)
 
 ---
 
@@ -128,6 +170,8 @@ The Koslanda Police are conducting further investigations into this matter.
 
 [Data](articles/07da85aa.json)
 
+[Extended Data](ext_articles/07da85aa.ext.json)
+
 ---
 
 ### Two Suspects Held With 1200 Pregabalin Capsules
@@ -150,6 +194,8 @@ The accused, along with Pregabalin capsules, were handed over to the Silawathura
 
 [Data](articles/7a976427.json)
 
+[Extended Data](ext_articles/7a976427.ext.json)
+
 ---
 
 ### Vegetable prices slump today
@@ -166,6 +212,8 @@ Moreover, fish prices at the New Manning Market in Peliyagoda too were low today
 
 [Data](articles/281401d7.json)
 
+[Extended Data](ext_articles/281401d7.ext.json)
+
 ---
 
 ### Shortcomings observed in Online Safety Act; open for amendments: Wijeyadasa
@@ -181,6 +229,8 @@ Responding to questions by Opposition Leader Sajith Premadasa and SJB MP Harsha 
 ...
 
 [Data](articles/105f4749.json)
+
+[Extended Data](ext_articles/105f4749.ext.json)
 
 ---
 
@@ -222,6 +272,50 @@ Police said the affidavit had been filed with the doctor and five persons who we
 
 ---
 
+### A hacker gang to cling to bank accounts with the guise of TIN information
+
+*2024-02-08 11:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193126) · `si`
+
+According to the DIG's Office, the DIG's Office has revealed that the people have been deceived by the Department of Revenue, to identify the TIN number issued by the Department of Inland Revenue.
+
+The DIG's Office has received information about the loss of millions of rupees.
+
+The racketeers will be asked to have the bank's money transfer secret number (OPT) to maintain the bank account as the staff members of a state bank.
+
+Some people have been provided with awareness that he is a fraudulent.
+
+DIG in charge of the Kurunegala District has revealed that the fraudulent group was included in the man's bank account and obtaining the money in the bank account.
+
+The fraudulent gang deceived their customers this, the fraudulent gang has received Rs.
+
+According to the internal sources of a state bank that a sum of Rs.
+
+The DIG, who communicates the people, will inform the people not to inform people through telephones and capture personal information.
+
+...
+
+[Data](articles/b5f9769d.json)
+
+[Extended Data](ext_articles/b5f9769d.ext.json)
+
+---
+
+### Three police officers suspended
+
+*2024-02-08 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193125) · `si`
+
+Three officers of the Purdedu Street Police have banned the work.
+
+Two suspects arrested in connection with the shooting in the Jedanapitiya area have been arrested in connection with a drilling of milk packaged by an external room.
+
+◼️
+
+[Data](articles/18dfeab8.json)
+
+[Extended Data](ext_articles/18dfeab8.ext.json)
+
+---
+
 ### Jagath Priyankara Fills Vacant Puttalam District Seat
 
 *2024-02-08 10:57:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/jagath-priyankara-fills-vacant-puttalam-district-seat/) · `en`
@@ -243,6 +337,8 @@ Priyankara is also the Puttalam district leader of the National Freedom Front, a
 ◼️
 
 [Data](articles/7115d107.json)
+
+[Extended Data](ext_articles/7115d107.ext.json)
 
 ---
 
@@ -1937,77 +2033,5 @@ National People’s Power (NPP) Leader MP Anura Kumara Dissanayake met with the 
 [Data](articles/a43f77e3.json)
 
 [Extended Data](ext_articles/a43f77e3.ext.json)
-
----
-
-### China, India, the capital market, its underlying economy and lessons for Sri Lanka
-
-*2024-02-08 01:45:13* · [`dailyftlk`](https://www.ft.lk/columns/China-India-the-capital-market-its-underlying-economy-and-lessons-for-Sri-Lanka/4-758221) · `en`
-
-China’s Securities Regulatory Commission Chairman Yi Huiman was replaced with Wu Qing, an apparent veteran securities regulator who led the Shanghai Stock Exchange. Possible political interference leading to regulatory forbearance, or enhanced regulatory oversight and effectiveness in China, I wondered, given I was observing this space, as global investors withdrew billions of dollars from China.
-
-China has a “national team” of State entities that buy up shares of local companies. This was done in response to a market crash in 2015. Analysts say, nine years on, State-backed investors are still at it, pouring $ 17 billion into index-tracking funds.
-
-...
-
-[Data](articles/be731a8d.json)
-
-[Extended Data](ext_articles/be731a8d.ext.json)
-
----
-
-### 4 crore worth of illegal goods
-
-*2024-02-08 01:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175850) · `ta`
-
-The illegal rupees worth Rs 4 crore were destroyed in the presence of the judge.
-
-It was destroyed by 7000 kg of food and illegal disinfectant, including rice, turmeric coriander groundnut, which were illegally brought and sold into the country from India.
-
-In April last year, the Vavuniya South Sinhalese border was confiscated by health inspectors and presented in court.. One and a half lakh rupees were imposed by the court for those who had their own property.
-
-In this case, the Additional Magistrate J.. Subhajini and Sinhala Pradeshiya Sabha Secretary, Vimalaveni Nisanga, the destruction of the items in the presence of health inspectors.
-
-◼️
-
-[Data](articles/b60a23f7.json)
-
-[Extended Data](ext_articles/b60a23f7.ext.json)
-
----
-
-### The Cabinet has not mentioned the export of cannabis - Diana Kamage
-
-*2024-02-08 01:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/175849) · `ta`
-
-I do not mention that permission was granted at a Cabinet meeting held last Monday (5) for cannabis exports. If the cannabis exports is good for the country. Tourism Minister Diana Kamage said that if only the useless criticism is being made, it cannot be progressed.
-
-The Cabinet meeting was held at the Cabinet meeting chaired by President Ranil Wickremesinghe last Monday that the Cabinet has been approved by the Minister of State Diana Kamage.. Various parties, including religious leaders and civil organizations, have expressed fierce opposition.
-
-The issue was questioned during a press conference announcing the Cabinet decisions on Tuesday (6). Responding to this, Cabinet spokesman and Minister Bandula Gunawardena said that the Cabinet approved for the export of cannabis exports was noted that the Cabinet meeting chaired by the President Bandula Gunawardena.
-
-...
-
-[Data](articles/bd405861.json)
-
-[Extended Data](ext_articles/bd405861.ext.json)
-
----
-
-### Eastern Province Governor Senthil Thondaman recommends appointment to teachers
-
-*2024-02-08 00:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175848) · `ta`
-
-Eastern Province Governor Senthil Thondaman recommends appointment to teachers
-
-A discussion was held on Wednesday (07) between the Governor of the Eastern Province Senthil Thondaman and the Secretary of the Slum on the appointment of the Diplommists who have completed the HDE course.
-
-Considering the shortage of teachers in the Eastern Province, Senthil Thondaman has recommended the Treasury to appoint those who have completed the HNDE Diploma course.
-
-◼️
-
-[Data](articles/15e0ea41.json)
-
-[Extended Data](ext_articles/15e0ea41.ext.json)
 
 ---

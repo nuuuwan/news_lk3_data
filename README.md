@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 13:17:14**
+As of **2024-02-08 13:33:06**
 
 ## Newspaper Stats
 
-*Scraped **5,700** Articles*
+*Scraped **5,703** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,51 @@ dbsjeyarajcom | 141
 economynextcom | 298
 islandlk | 299
 dailyftlk | 316
-newsfirstlk | 351
+newsfirstlk | 353
 adalk | 480
 virakesarilk | 701
 adaderanalk | 703
 tamilmirrorlk | 710
-adaderanasinhalalk | 750
+adaderanasinhalalk | 751
 dailymirrorlk | 808
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,700 (100.0%) of 5,700 articles have been extended.
+5,700 (99.9%) of 5,703 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### පංච පුද්ගල ඝාතනයේ සැකකරුවෙක් පොලීසියට භාරවෙයි
+
+*2024-02-08 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193130) · `si`
+
+බෙලිඅත්ත පංච පුද්ගල ඝාතනයට අදාළ තවත් 24 හැවිරිදි සැකකරුවකු බෙලිඅත්ත පොලීසියට භාරවීමෙන් අනතුරුව අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පවසන්නේ වෙඩි තැබීම සඳහා යොදාගත් ගිනිඅවි සැකකරු කඹුරුපිටියේ පදිංචි සිය මිත්තණියේ නිවස සඟවා තබා පසුව ගාල්ලට රැගෙන ගොස් ඇති බවය.
+
+◼️
+
+[Data](articles/0bb3d802.json)
+
+---
+
+### Online Safety Act gazetted under Ministry of Public Security
+
+*2024-02-08 12:35:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/online-safety-act-gazetted-under-ministry-of-public-security/) · `en`
+
+COLOMBO (News 1st); An extraordinary gazette notification has been issued including the Online Safety Act under the scope of the Ministry of Public Security.
+
+The gazette notification states the Online Safety Act has been included under the scope of the Ministry of Public Security with effect from the 7th of February, 2024.
+
+◼️
+
+[Data](articles/0fbe0865.json)
+
+---
 
 ### Today's currency exchange rate
 
@@ -43,6 +71,26 @@ The US dollar purchasing price was Rs 308.4949 and the sales price were 318.5839
 [Data](articles/aa07961d.json)
 
 [Extended Data](ext_articles/aa07961d.ext.json)
+
+---
+
+### Maldivian Chief of Defense Force arrives in Sri Lanka
+
+*2024-02-08 12:34:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/maldivian-chief-of-defense-force-arrives-in-sri-lanka/) · `en`
+
+COLOMBO (News 1st); Maldivian Chief of Defense Force Lieutenant General Abdul Raheem Abdul Latheef has arrived in Sri Lanka.
+
+The Ministry of Defence said he will meet Secretary of Defense General Kamal Gunaratne (Retd) on Thursday (08).
+
+The Ministry of Defence announced that the Chief of Defense Force of the Maldives is also scheduled to meet the Army Commander on Thursday (08) afternoon.
+
+He arrived in the country based on an invitation by the Defence Services Command and Staff College in Batalanda.
+
+He is a graduate of the Sri Lanka Defense Services Command and Staff College.
+
+◼️
+
+[Data](articles/eb9e556e.json)
 
 ---
 
@@ -1764,15 +1812,15 @@ With the theme “Towards a Stable and Sustainable Indian Ocean”, the Conferen
 
 *2024-02-08 07:08:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/adjournment-debate-on-policy-statement-today-08/) · `en`
 
-COLOMBO (New 1st); The Parliament adjournment debate on the policy statement presented by the President following the ceremonial opening of the fifth session of the Ninth Parliament commences on Friday (08).
+COLOMBO (New 1st); The Parliament adjournment debate on the policy statement presented by the President following the ceremonial opening of the fifth session of the Ninth Parliament commences on Thursday (08).
 
-Parliament proceedings are scheduled to commence at 9.30am on Friday (08).
+Parliament proceedings are scheduled to commence at 9.30am on Thursday (08).
 
 The special feature of an adjournment proposal is that a vote will not be held.
 
 In the past, after the government's policy statement or throne speech was delivered, a poll was held at the end of the debate, but after 1978, no debate was held.
 
-On Thursday (07), in a speech marking the opening of the fifth session of the Ninth Parliament, President Ranil Wickremesinghe extended a renewed invitation to all political parties to unite in rebuilding the nation, facing numerous economic and social challenges.
+On Wednesday (07), in a speech marking the opening of the fifth session of the Ninth Parliament, President Ranil Wickremesinghe extended a renewed invitation to all political parties to unite in rebuilding the nation, facing numerous economic and social challenges.
 
 The President expressed openness to alternative approaches, noting that if there are better methods than the current policies, he is ready to consider them in depth.
 
@@ -1961,67 +2009,5 @@ Police said the fire brigade of the Gampaha Municipal Council took action to ext
 [Data](articles/ad64b6e7.json)
 
 [Extended Data](ext_articles/ad64b6e7.ext.json)
-
----
-
-### SL finance and leasing industry’s operative environment to remain stable: Fitch
-
-*2024-02-08 04:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-finance-and-leasing-industrys-operative-environment-to-remain-stable-Fitch/108-276561) · `en`
-
-Says easing inflation and interest rate pressures should provide steadier conditions
-
-Points out some headwinds linger, as higher taxes will continue to weigh on household finances
-
-Gives Asia Asset Finance a first-time rating of ‘A+(lka)’, with a stable outlook
-
-The operating environment for the Sri Lankan finance and leasing company (FLC) industry is expected to continue to stabilise, following the inflation and interest rate shocks over the past two years, Fitch Ratings said yesterday.
-
-It noted that the easing inflation and interest rate pressures should provide steadier conditions for the FLC sector performance.
-
-“Some headwinds linger, as higher taxes will continue to weigh on household finances in 2024. Investor confidence will also take time to recover. Nonetheless, we expect the economic activity to improve in FY25 as GDP growth recovers,” the rating agency said.
-
-...
-
-[Data](articles/2a328274.json)
-
-[Extended Data](ext_articles/2a328274.ext.json)
-
----
-
-### French LV power giant Socomec enters Sri Lanka via Indian subsidiary
-
-*2024-02-08 04:21:44* · [`dailyftlk`](https://www.ft.lk/business/French-LV-power-giant-Socomec-enters-Sri-Lanka-via-Indian-subsidiary/34-758247) · `en`
-
-Socomec India Regional Managing Director Meenu Singhal (left) and CFO and APAC Industry Controller Devesh Singhania
-
-Move as part of strategic expansion plans by Socomec India; appoints General Manager to steer the company’s initiatives in Low Voltage power management in emerging markets of Sri Lanka and Bangladesh
-
-Socomec India, part of France based leading global specialist in Low Voltage (LV) power management, yesterday unveiled its ambitious expansion plan.
-
-The Chennai headquartered French powerhouse is set to venture into the markets of Sri Lanka, effective immediately. Termed as ‘Greater India,’ this strategic move consolidates into a unified business entity, marking a significant milestone for Socomec India and opening up new opportunities for business growth.
-
-...
-
-[Data](articles/f3bfcac7.json)
-
-[Extended Data](ext_articles/f3bfcac7.ext.json)
-
----
-
-### Vidullanka’s nine month profit tops Rs. 1 b mark
-
-*2024-02-08 04:19:51* · [`dailyftlk`](https://www.ft.lk/business/Vidullanka-s-nine-month-profit-tops-Rs-1-b-mark/34-758246) · `en`
-
-Amalgamates Lower Kotmale Oya Hydro Power Ltd., Udawela Hydro Ltd., and Rideepana Hydro Ltd., with parent
-
-Vidullanka PLC said yesterday it has reported a profit after tax (PAT) of Rs. 1,057 million from a revenue of Rs. 4.3 billion during the nine months ended on 31 December 2023, as per the latest interim financials.
-
-The company’s financial statements published on the Colombo Stock Exchange indicate a healthy 37% increase in profits and a 48% increase in the revenue between the same period in 2022 and 2023.
-
-...
-
-[Data](articles/6fe406c3.json)
-
-[Extended Data](ext_articles/6fe406c3.ext.json)
 
 ---

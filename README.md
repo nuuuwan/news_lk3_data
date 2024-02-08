@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 23:33:06**
+As of **2024-02-08 23:51:44**
 
 ## Newspaper Stats
 
-*Scraped **5,819** Articles*
+*Scraped **5,823** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ economynextcom | 307
 dailyftlk | 316
 newsfirstlk | 363
 adalk | 491
-tamilmirrorlk | 716
+tamilmirrorlk | 718
 adaderanalk | 719
 virakesarilk | 721
-adaderanasinhalalk | 765
+adaderanasinhalalk | 767
 dailymirrorlk | 830
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,819 (100.0%) of 5,819 articles have been extended.
+5,819 (99.9%) of 5,823 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### துப்பாக்கி சூட்டில் ஒருவர் படுகாயம்
+
+*2024-02-08 23:08:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-சூட்டில்-ஒருவர்-படுகாயம்/175-332930) · `ta`
+
+இந்த துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்து ஆனமடுவ வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் குறிப்பிட்டுள்ளனர்.
+
+துப்பாக்கிச் சூடு நடத்தியவர் தப்பிச் சென்றுள்ளதுடன், தனிப்பட்ட தகராறு காரணமாக துப்பாக்கிச் சூடு நடத்தப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர் R.
+
+◼️
+
+[Data](articles/836de4e0.json)
+
+---
+
+### உடனடியாக சம்பள அதிகரிப்புக்கு நடவடிக்கை எடுக்க வேண்டும்
+
+*2024-02-08 22:44:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடனடியாக-சம்பள-அதிகரிப்புக்கு-நடவடிக்கை-எடுக்க-வேண்டும்/175-332923) · `ta`
+
+பெருந்தோட்டத் தொழிலாளர்களின் காணி பிரச்சனை சம்பள உயர்வு தொடர்பில் அரசாங்கத்திற்கு தார்மீக பொறுப்பும் கடமையும் உள்ளது என்கிறார் பாராளுமன்ற உறுப்பினரும் ஜனாதிபதியின் சிரேஷ்ட ஆலோசகருமான வடிவேல் சுரேஷ்.
+
+நேற்றைய தினம் நடைபெற்ற பாராளுமன்ற அமர்விலேயே அவர் மேற்கண்டவாறு கருத்துரைத்தார். மேலும் தெரிவிக்கையில்,
+
+200 வருட காலமாக ஐந்து பரம்பரையாக மலையக மண்ணுக்கு தம்மை உரமாக்கிய நம் சமூகம் இன்றுவரை பல இன்னல்களுக்கு முகம் கொடுத்துக் கொண்டிருக்கின்றது. உழைப்புக்கேற்ற ஊதியம் இல்லை ஜனவரி மாத இறுதிக்குள் அதிகரிக்க வேண்டிய சம்பள உயர்வு இன்னமும் அதிகரிக்கப்படவில்லை என்பதினை மீண்டும் நினைவுபடுத்துகின்றேன்.
+
+ஜனாதிபதி அவர்கள் முதலாளிமார் சம்மேலனத்திற்கு கடுமையான அழுத்தம் ஒன்றை பிரயோகித்தேனும் உடனடியாக சம்பள அதிகரிப்புக்கு நடவடிக்கை எடுக்க வேண்டும்
+
+...
+
+[Data](articles/11079585.json)
+
+---
 
 ### Sri Lankan envoy says relations with Saudi Arabia based on respect
 
@@ -66,6 +98,22 @@ A 45-year-old person who was injured in the shooting has been admitted to the Pu
 
 ---
 
+### ආණමඩුවේ වෙඩිතැබීමක්
+
+*2024-02-08 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193147) · `si`
+
+පොලීසිය සඳහන් කළේ අද (08) පස්වරුවේ සිදුකර ඇති එම වෙඩිතැබීමෙන් පුද්ගලයෙකු තුවාල ලබා ආණමඩුව රෝහලට ඇතුළත් කර ඇති බවය.
+
+පසුව තුවාලකරු වැඩිදුර ප්‍රතිකාර සඳහා පුත්තලම රෝහලට මාරුකර යවා තිබේ.
+
+වෙඩික්කරු පළාගොස් ඇති අතර පෞද්ගලික ආරවුලක් වෙඩිතැබීමට හේතු වන්නට ඇති බව පොලීසිය සැකකරයි.
+
+◼️
+
+[Data](articles/796d3129.json)
+
+---
+
 ### Australia to allow workers to ignore after-hours calls from bosses
 
 *2024-02-08 22:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Australia-to-allow-workers-to-ignore-after-hours-calls-from-bosses/108-276623) · `en`
@@ -87,6 +135,30 @@ The left-wing Greens, which supports the rule and was the first to propose it la
 [Data](articles/f87fc0d7.json)
 
 [Extended Data](ext_articles/f87fc0d7.ext.json)
+
+---
+
+### මිත්තණියගේ රු ලක්ෂ 15 ඉස්සූ සැකකාර මුනුබුරා අත්අඩංගුවට
+
+*2024-02-08 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193146) · `si`
+
+මිත්තණියගේ රුපියල් ලක්ෂ 15ක මුදල් සොරකම් කළ 14 හැවිරිදි මුනුබුරාව දොඩංගොඩ පොලීසිය විසින් අද (08) සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ ජාත්‍යන්තර පාසලක ඉගෙනුම ලබන පාසල් සිසුවෙකි.
+
+පසුගිය 31 වනදා දහවල් කාලයේ දොඩංගොඩ පොලිස් වසමේ මිනුවන්දෙනිය නිවසක කාන්තාවකගේ රුපියල් ලක්ෂ 15ක මුදලක් කිසියම් පුද්ගලයෙකු සොරකම් කර ඇති බවට දොඩංගොඩ පොලීසියට පැමිණිල්ලක් ලැබී තිබුණි.
+
+මිත්තණිය දහවල් කාලයේ නිවසින් බැහැරව ගොස් සිටියදී හොර රහසේ ඉනිමඟක් ආධාරයෙන් වහලයෙන් නිවසට ඇතුළුවී සොරකම සිදුකර ඇති බව මූලික විමර්ශනවලදී අනාවරණය විය.
+
+සිද්ධිය සම්බන්ධයෙන් සිදුකළ විමර්ශන අනුව 08 වන ශ්‍රේණියේ ඉගෙනුම ලබන අදාළ සිසුවාව සැකපිට අත්අඩංගුවට ගැනුණි.
+
+මෙම සොරකම සම්බන්ධයෙන් ප්‍රදේශයේ විවිධ පුද්ගලයන්ගෙන් සැකපිට ප්‍රශ්න කිරීම්වලින් අනතුරුව දොඩංගොඩ පොලීසියේ නිලධාරීන් මෙම බාලවයස්කරුගේ හැසිරීම් රටාව දැඩි ලෙස නිරීක්ෂණය කර තිබුණි.
+
+ඉන් අනතුරුව අද දහවල් ඔහුව සැකපිට අත්අඩංගුවට ගෙන ප්‍රශ්න කිරීමේදී මෙම සොරකමේ සුලමුල හෙළිවී ඇති බව අප වාර්තාකරු පවසයි.
+
+...
+
+[Data](articles/e95fa895.json)
 
 ---
 
@@ -2077,97 +2149,5 @@ The students who participated in the protests were attacked brutally by the poli
 [Data](articles/12fd5b24.json)
 
 [Extended Data](ext_articles/12fd5b24.ext.json)
-
----
-
-### Sri Lanka in talks to push wind projects forward, minister says
-
-*2024-02-08 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97111/sri-lanka-in-talks-to-push-wind-projects-forward-minister-says) · `en`
-
-Sri Lanka is hopeful of making progress by next month on two delayed wind energy projects to be built by India’s Adani Green Energy Ltd, its energy minister said on Wednesday.
-
-The cash-strapped south Asian island nation, which has suffered from crippling power blackouts and fuel shortages, has been trying to speed green power generation to hedge against surges in imported fuel costs, but the wind projects are still being evaluated because of disputes over pricing and plant efficiency.
-
-“Maybe in the next four weeks, we will see some results on the negotiation process, and there is another negotiation for the transmission lines that is also being evaluated,” Energy Minister Kanchana Wijesekera told Reuters in an interview on the sidelines of the India Energy Week event in Goa.
-
-“Both are (happening) simultaneously, so I am hopeful that by March, we will have something,” he said.
-
-...
-
-[Data](articles/c7af7a8e.json)
-
-[Extended Data](ext_articles/c7af7a8e.ext.json)
-
----
-
-### Youth killed in a speeding motorcycle
-
-*2024-02-08 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175881) · `ta`
-
-Kalutara Southern Police said that a youth was killed when a motorcycle crashed into a motorcycle.
-
-Praveen Viswajit, a 19 -year -old from Kalutara, Kalutara, was the 19 -year -old, police said.
-
-The motorcycle lost control and crashed into a wall near the Henadiyala Bridge as the deceased young man was heading from Kalutara to Heinadiyala.
-
-The youth who was severely injured and was taken to the Nagoda Teaching Hospital, Kalutara, has died, the hospital spokesman said.
-
-◼️
-
-[Data](articles/e302b0cb.json)
-
-[Extended Data](ext_articles/e302b0cb.ext.json)
-
----
-
-### Doctor arrested for alleged sexual assault on colleague at Aranayaka Hospital
-
-*2024-02-08 13:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Doctor-arrested-for-alleged-sexual-assault-on-colleague-at-Aranayaka-Hospital/108-276598) · `en`
-
-Aranayaka, Feb 08 ( Daily Mirror) - A doctor from the Aranayaka District Hospital has been arrested for allegedly sexually assaulting a 28-year-old female doctor while she was on duty.
-
-Police said the 45-year-old doctor was arrested this morning and will be produced before the Mawanella Magistrate's Court.
-
-The arrest follows a complaint by the victim's father. She had recently been transferred to the Aranayaka District Hospital from another hospital.
-
-The victim alleges that the suspect doctor had touched her inappropriately while she was on duty.
-
-Statements have been recorded from the victim and five other staff members present during the incident.
-
-The female doctor is to undergo examination by the Judicial Medical Officer at the Kegalle Teaching Hospital, police said.
-
-◼️
-
-[Data](articles/40c126e0.json)
-
-[Extended Data](ext_articles/40c126e0.ext.json)
-
----
-
-### Kusal Mendis to lead SL against Afghanistan in ODI series
-
-*2024-02-08 13:02:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/kusal-mendis-to-lead-sl-against-afghanistan-in-odi-series/) · `en`
-
-COLOMBO (News 1st); The Sri Lanka Cricket (SLC) Selection Committee has selected the 16-member squad to take part in the upcoming ODI series against Afghanistan with Kusal Mendis as the Captain.
-
-Charith Asalanka will be taking up the role of Vice Captain.
-
-The Minister of Sports and Youth Affairs Harin Fernando has granted approval to the squad.
-
-The 3 ODIs will be held on February 9, 11, 14 at the Pallekele International Cricket Stadium, according to the SLC. The day-night games will start at 02.30 p.m.
-
-US Supreme Court begins hearing case on whether to disqualify Trump from presidential election
-
-Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
-
-Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
-
-Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
-
-◼️
-
-[Data](articles/6c7a8736.json)
-
-[Extended Data](ext_articles/6c7a8736.ext.json)
 
 ---

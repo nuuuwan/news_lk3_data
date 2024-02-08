@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 04:17:25**
+As of **2024-02-09 04:32:44**
 
 ## Newspaper Stats
 
@@ -26,29 +26,31 @@ dailymirrorlk | 834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,839 (100.0%) of 5,840 articles have been extended.
+5,840 (100.0%) of 5,840 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### ’விரிவுரையாளர்கள் கடனை மீள செலுத்தவில்லை’
+### Model lecturers do not repay the loan
 
 *2024-02-09 02:34:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விரிவுரையாளர்கள்-கடனை-மீள-செலுத்தவில்லை/175-332932) · `ta`
 
-உயர்கல்விக்காக வெளிநாடுகளுக்கு செல்வதற்கு அரச வங்கிகள் மூலம் 1300 மில்லியன் ரூபாவை கடனாக பெற்றுக் கொண்ட  பல்கலைக்கழக விரிவுரையாளர்கள் பலர் அதனை மீளச் செலுத்த தவறியுள்ளதாக நீதியமைச்சர் விஜேதாச ராஜபக்ச  தெரிவித்தார்.
+Justice Minister Wijeyadasa Rajapakse said that many university lecturers who have borrowed 1300 million rupees through state banks to go abroad for higher education have failed to repay it.
 
-பாராளுமன்றத்தில் நேற்று வியாழக்கிழமை எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச எழுப்பிய கேள்வியொன்றுக்குப் பதிலளிக்கும் போதே இவ்வாறு தெரிவித்த அவர் மேலும் கூறுகையில்,
+Responding to a question raised by Opposition Leader Sajith Premadasa on Thursday in Parliament yesterday, he added that he said.
 
-மக்கள் வங்கி மற்றும் இலங்கை வங்கி ஆகியவை நாட்டின் தேசிய பொருளாதாரத்தை மேம்படுத்துவதற்காகவே ஆரம்பிக்கப்பட்டன. குறிப்பாக அந்த வங்கிகள் மூலம் விவசாயத்துறை மற்றும் கைத்தொழில் துறையை முன்னேற்றுவதற்கு பல்வேறு நடவடிக்கைகள் மேற்கொள்ளப்பட்டுள்ளன.
+The People's Bank and the Bank of Ceylon were launched to improve the country's national economy. Various measures have been taken to improve the agriculture and industrial sector in particular through those banks.
 
-ஸ்ரீமாவோ பண்டாரநாயக்க வின் காலத்தில் அனைத்து விவசாய நிறுவனங்களிலும் இலங்கை வங்கி கிளை இயங்கி வந்துள்ளது. அந்தந்த பிரதேசங்களில் வாழும் மக்கள் தமது விவசாய நடவடிக்கைகளுக்காக கடன் வழங்கும் நடைமுறையை அந்த வங்கிகள் முன்னெடுத்தன.
+During the period of Srimavo Bandaranaike, all agricultural institutions were operating the Bank of Ceylon Branch. The banks have carried out a lending process for the people living in their respective areas for their agricultural activities.
 
-அந்த வகையில் இலங்கை வங்கி மற்றும் மக்கள் வங்கி ஆகியன அவ்வாறு வழங்கி யுள்ள மூன்றாம் கட்ட கடனில் 602 பில்லியன் ரூபா கடன் பெற்றுள்ளவர்களால் மீள செலுத்தப்படாமல் உள்ளது.
+Accordingly, the Bank of Ceylon and the People's Bank of Sri Lanka have not been repaid by the borrowers of 602 billion rupees in the third phase of loans.
 
 ...
 
 [Data](articles/0ce4e6a5.json)
+
+[Extended Data](ext_articles/0ce4e6a5.ext.json)
 
 ---
 

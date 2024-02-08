@@ -1,36 +1,146 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 12:49:29**
+As of **2024-02-08 13:02:41**
 
 ## Newspaper Stats
 
-*Scraped **5,685** Articles*
+*Scraped **5,700** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 64
 bbccomsinhala | 79
 dbsjeyarajcom | 141
-economynextcom | 296
+economynextcom | 298
 islandlk | 299
 dailyftlk | 316
-newsfirstlk | 350
-adalk | 478
-virakesarilk | 694
+newsfirstlk | 351
+adalk | 480
+virakesarilk | 701
 adaderanalk | 703
-tamilmirrorlk | 708
-adaderanasinhalalk | 749
+tamilmirrorlk | 710
+adaderanasinhalalk | 750
 dailymirrorlk | 808
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,685 (100.0%) of 5,685 articles have been extended.
+5,685 (99.7%) of 5,700 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-02-08 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/175879) · `ta`
+
+இன்று வியாழக்கிழமை (பெப்ரவரி 08) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 308.4949 ஆகவும் விற்பனை விலை ரூபா 318.5839 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/aa07961d.json)
+
+---
+
+### கொழும்பு, ஆட்டுப்பட்டித் தெரு பொலிஸ் நிலையத்தைச் சேர்ந்த 3 பொலிஸார்  பணி இடைநீக்கம்!
+
+*2024-02-08 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/175878) · `ta`
+
+கொழும்பு, ஆட்டுப்பட்டித் தெரு பொலிஸ் நிலையத்தைச் சேர்ந்த மூன்று  பொலிஸார்  பணி இடைநீக்கம் செய்யப்பட்டுள்ளனர்.
+
+ஜிந்துபிட்டிய பிரதேசத்தில் இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவம் தொடர்பில் கைது செய்யப்பட்டு பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டிருந்த இரு சந்தேக நபர்களுக்கு வெளிநபர் ஒருவர் விஷம் கலந்த பால் பொதியை வழங்கிய சம்பவம் தொடர்பிலேயே அவர்கள்  பணியிலிருந்து இடைநிறுத்தப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/9011ab6f.json)
+
+---
+
+### பெண் வைத்தியர் பாலியல் துஷ்பிரயோகம் : அரநாயக்கவில் வைத்தியர் கைது!
+
+*2024-02-08 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175875) · `ta`
+
+மாவனல்லை அரநாயக்க மாவட்ட வைத்தியசாலையில் கடமையாற்றும் பெண் வைத்தியர் ஒருவரை பாலியல் துஷ்பிரயோகம் செய்த குற்றச்சாட்டின் பேரில் வைத்தியர் ஒருவரை பொலிஸார் கைது செய்துள்ளனர்.
+
+அரநாயக்க மாவட்ட வைத்தியசாலையில் கடமையாற்றும் 28 வயதுடைய பெண் வைத்தியர் ஒருவரே சந்தேக நபரால்  பாலியல் துஷ்பிரயோகத்துக்கு உள்ளாகியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+குறித்த பெண் வைத்தியரின் தந்தை கேகாலை சிறுவர் மற்றும் பெண்கள் பணியகத்தில் முறைப்பாடு செய்ததனையடுத்தே இவர்  இன்று புதன்கிழமை (08) கைதுசெய்யப்பட்டுள்ளார்.
+
+துஷ்பிரயோகத்துக்கு உள்ளானதாகக்  கூறப்படும் வைத்தியரிடமும், சம்பவம் இடம்பெற்றபோது கடமையிலிருந்த ஐவரிடமும் வாக்குமூலங்களைப் பொலிஸார் பெற்றுள்ளனர்.
+
+◼️
+
+[Data](articles/e3d4bfa9.json)
+
+---
+
+### ප්‍රවීන්ට මරු කැඳවූ අනතුර
+
+*2024-02-08 12:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193129) · `si`
+
+යතුරුපැදියක් මාර්ගයෙන් ඉවතට පැන තාප්පයක ගැටී සිදුවූ අනතුරකින් තරුණයෙකු මියගොස් ඇති බව කළුතර දකුණ පොලීසිය පවසයි.
+
+අනතුරෙන් මියගොස් ඇත්තේ ,කළුතර කටුකුරුන්ද ප්‍රදේශයේ පදිංචිව සිටි ප්‍රවීන් විශ්වජිත් නැමැති 19 හැවිරිදි තරුණයෙකු බව පොලීසිය සඳහන් කළේය.
+
+මියගොස් ඇති තරුණයා කළුතර දෙස සිට හීනටියංගල දෙසට ගමන් කරමින් සිටියදී හීනටියංගල පාලම ආසන්නයේ දී වේගය පාලනය කරගත නොහැකිව අසල තිබූ තාප්පයක  ගැටී මෙම අනතුර සිදුව ඇත.
+
+බරපතළ තුවාල ලබා සිටී තරුණයා 1990 සුවසැරියෙන් කළුතර නාගොඩ ශික්ෂණ රෝහලට රැගෙන ගොස් ඇති අතර, රෝහල් ගතකිරීමේදී මියගොස් ඇති බව රෝහල් ප්‍රකාශකයෙක් පැවසීය.
+
+◼️
+
+[Data](articles/48db19f5.json)
+
+---
+
+### மாணிக்கத்தை விற்க முயற்சித்த பிக்கு உட்பட மூவர் கைது
+
+*2024-02-08 12:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணிக்கத்தை-விற்க-முயற்சித்த-பிக்கு-உட்பட-மூவர்-கைது/175-332890) · `ta`
+
+ரூ.370 மில்லியன் பெறுமதியான இரண்டு நீல நிற மாணிக்க கற்களை விற்பனை செய்ய முயற்சித்த பிக்கு ஒருவர் உட்பட இருவர் கைது செய்யப்பட்டுள்ளதாக கொஸ்லந்த பொலிஸார் தெரிவித்துள்ளனர்.
+
+இராணுவ புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசிய தகவலுக்கு அமைய கொஸ்லந்த பொலிஸார் மேற்கொண்ட சுற்றிவளைப்பின் போதே இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட பிக்கு வெலிவேரிய பிரதேசத்தில் வசித்துவருவதோடு, மற்றைய சந்தேக நபர்கள் 72 வயதுடையவர் எனவும்,  பிரபல அரசியல் கட்சியொன்றின் உள்ளூர் அரசியல்வாதி ஒருவரின் தந்தை எனவும் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/c74cfe68.json)
+
+---
+
+### கழுத்தை அறுத்துக்கொண்டவர் அனுமதி
+
+*2024-02-08 12:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கழுத்தை-அறுத்துக்கொண்டவர்-அனுமதி/175-332889) · `ta`
+
+தனது கையில் வைத்திருந்த கத்தியை எடுத்து கழுத்தை அறுத்துக்கொண்ட சம்பவமொன்று குருநாகலில் இடம்பெற்றுள்ளது.
+
+நீண்ட காலமாக போதைப்பொருள் பாவனைக்கு (ஐஸ் மற்றும் ஹெரோய்ன்) அடிமையாகி இருந்த நபர் ஒருவர் குருநாகல் பஸ் நிலையத்தில் கத்தியால் கழுத்தை அறுத்துக்கொண்ட நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+குருநாகல் பகுதியை வசிப்பிடமாகக் கொண்ட இந்த நபர் போதைப்பொருளுக்கு அதிக அடிமையானவர் என பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/7212e37b.json)
+
+---
+
+### சரத் பொன்சேகா உட்பட ஐக்கிய மக்கள் சக்தியின் பல எம்.பி.க்கள் ஜனாதிபதியை சந்தித்துப் பேசினர்!
+
+*2024-02-08 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/175873) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும் ஐக்கிய மக்கள் சக்தியின்  நாடாளுமன்ற உறுப்பினர் பீல்ட் மார்ஷல் சரத் பொன்சேகாவுக்கும் இடையிலான சந்திப்பு நேற்று புதன்கிழமை (07) நாடாளுமன்றத்தில் உள்ள ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+
+நாடாளுமன்றத்தின் புதிய அமர்வின் ஆரம்பத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்க தனது விஞ்ஞாபனத்தை சமர்ப்பித்து உரையாற்றிய பின்னரே  இருவரும் கலந்துரையாடியதன் பின்னரே இந்தச் சந்திப்பு இடம்பெற்றுள்ளது.
+
+இதேவேளை, ஐக்கிய மக்கள் சக்தியின் மேலும் சில எம்.பி.க்களும் நேற்று நாடாளுமன்றத்தில் ஜனாதிபதியை சந்தித்தனர்.
+
+◼️
+
+[Data](articles/30af253e.json)
+
+---
 
 ### 19 more Indian fishermen apprehended for poaching in Sri Lankan waters
 
@@ -70,6 +180,26 @@ The ODI series is scheduled to commence on February 9th in Pallekele.
 
 ---
 
+### Yukthiya Nets 728 suspects in past 24 Hours
+
+*2024-02-08 11:52:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/yukthiya-nets-728-suspects-in-past-24-hours/) · `en`
+
+COLOMBO (News 1st); Sri Lankan police and security forces apprehended a significant number of suspects across the country within a 24-hour period.
+
+A total of 728 individuals were arrested, with the focus primarily on curbing drug trafficking and addressing outstanding warrants.
+
+Among these, 14 individuals were identified as high-priority targets, appearing on the lists of both the Police Narcotics Bureau and the Police Special Bureau.
+
+The remaining 170 arrests addressed outstanding warrants issued by the criminal justice system.
+
+Of these, 18 individuals were wanted for prior drug offenses, and the remaining 145 suspects faced warrants for various non-drug-related offenses.
+
+◼️
+
+[Data](articles/8f79b406.json)
+
+---
+
 ### Here is the new Sri Lankan squad
 
 *2024-02-08 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193128) · `si`
@@ -83,6 +213,40 @@ February 9, 11 and 14 at the International Cricket Stadium in the Pallekele Inte
 [Data](articles/f51e9113.json)
 
 [Extended Data](ext_articles/f51e9113.ext.json)
+
+---
+
+### තරුණ වෛද්‍යවරියකට ලිංගික අතවර කිරීමට තැත් කළ වෛද්‍යවරයා අත්අඩංගුවට
+
+*2024-02-08 11:49:56* · [`adalk`](https://www.ada.lk/breaking_news/තරුණ-වෛද්‍යවරියකට-ලිංගික-අතවර-කිරීමට-තැත්-කළ-වෛද්‍යවරයා-අත්අඩංගුවට/11-407963) · `si`
+
+අරණායක දිසා රෝහලේ සේවය නිරත ව සිටි 28 හැවිරිදි වෛද්‍යවරියකට ලිංගික අතවර කළ බවට එම රෝහලේම රාජකාරි සිදු කළ 45 හැවිරිදි විවාහක වෛද්‍යවරයා අද (08) අරණායක පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකාර වෛද්‍යවරයා බලහත්කාරයෙන් වෛද්‍යවරියගේ ශරීරය අත ගෑ බවට වෛද්‍යවරියගේ පියා විසින් කෑගල්ල ළමා හා කාන්තා කාර්යාංශය වෙත පැමිණිල්ලක් ඉදිරිපත් කර ඇත.
+
+අතවරයට ලක් වූ බව කියන වෛද්‍යවරියගෙන් සහ එම අවස්ථාවේ රාජකාරියෙ නිරත ව සිටි පස් දෙනෙකුගෙන් ප්‍රකාශ සටහන් කරගෙන ඇති අතර, සිද්ධියට මුහුණු දුන් වෛද්‍යවරිය කෑගල්ල ශික්ෂණ රෝහලේ අධිකරණ වෛද්‍යවරයා හමුවට ඉදිරිපත් කිරීමට නියමිත බව සඳහන්ය.
+
+◼️
+
+[Data](articles/0228917e.json)
+
+---
+
+### பாகிஸ்தானில் தேர்தல் வாக்களிப்பு ஆரம்பம் - மொபைல் சேவைகள் நாடளாவிய ரீதியில் இடைநிறுத்தம்
+
+*2024-02-08 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175872) · `ta`
+
+பாகிஸ்தானில் பொதுத்தேர்தல் வாக்களிப்பு ஆரம்பமாகியுள்ள அதேவேளை பாகிஸ்தான் முழுவதும் மொபைல் இணைய சேவைகளை அதிகாரிகள் துண்டித்துள்ளனர்.
+
+நாடளாவிய ரீதியில் மொபைல் சேவை இடைநிறுத்தப்பட்டுள்ளது என உள்துறை அமைச்சக பேச்சாளர் தெரிவித்துள்ளார்.
+
+பாகிஸ்தானில் சமீபத்தில் இடம்பெற்ற வன்முறைகளில் பெறுமதிமிக்க உயிர்கள் இழக்கப்பட்டுள்ளன என தெரிவித்துள்ள உள்துறை அமைச்சு சட்டமொழுங்கு நிலவரத்தை பேணுவதற்கும் உருவாகக்கூடிய ஆபத்துக்களை கையாள்வதற்கும் இது அவசியம் என  உள்துறை அமைச்சகம் தெரிவித்துள்ளது.
+
+தங்களால் மொபைல் இணையசேவைகளை பயன்படுத்தமுடியவில்லை என இஸ்லாமபாத்தில் உள்ள சர்வதேச ஊடகவியலாளர்கள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/5a9922ac.json)
 
 ---
 
@@ -125,6 +289,42 @@ In further investigations have revealed that the suspect had been swolled by the
 [Data](articles/4e734ffa.json)
 
 [Extended Data](ext_articles/4e734ffa.ext.json)
+
+---
+
+### 37 கோடி ரூபா மதிப்புள்ள மாணிக்கக் கற்கள் கைப்பற்றல் ; தேரர் உட்பட இருவர் கைது
+
+*2024-02-08 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175871) · `ta`
+
+இராணுவப் புலனாய்வுப் படையினர் வழங்கிய தகவலின் அடிப்படையில் கொஸ்லந்த பொலிஸார் மேற்கொண்ட சுற்றிவளைப்பில் 2 நீலக் கற்களை சட்டவிரோதமான முறையில் விற்பனை செய்ய முற்பட்ட போது கைப்பற்றப்பட்டுள்ளன.
+
+இந்தச் சுற்றிவளைப்பின் போது கைப்பற்றப்பட்ட மாணிக்கக் கற்கள் சுமார் 37 கோடி ரூபாவுக்கு விற்பனை செய்யப்படவிருந்த நிலையில் சம்பவம் தொடர்பில் வெலிவேரிய பிரதேசத்தின் தேரர் ஒருவர் உட்பட இருவர் கொஸ்லந்த பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+கைதுசெய்யப்பட்ட மாணிக்கக் கற்கள் விகாரை வடிவிலானது என தெரியவந்துள்ளது. இது தொடர்பான மேலதிக விசாரணைகளை கொஸ்லந்த பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/52cd0907.json)
+
+---
+
+### யாழில் வீதி மின்குமிழ்களை திருடியவர்களை தடுத்த பிரதேச சபை முன்னாள் உறுப்பினர் மீது தாக்குதல்
+
+*2024-02-08 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175870) · `ta`
+
+வீதி மின் விளக்குகளை களவாட முயன்ற கும்பலை தடுக்க முற்பட்ட , சாவகச்சேரி பிரதேச சபை முன்னாள் உறுப்பினர் தாக்குதலுக்கு இலக்கான நிலையில் , சாவகச்சேரி ஆதார வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார்.
+
+யாழ்ப்பாணம் - சாவகச்சேரி மந்துவில் பகுதியில் கும்பல் ஒன்று வீதியில் மின் கம்பங்களில் பொருத்தப்பட்டிருந்த வீதி மின் குமிழ்களை திருடியுள்ளனர்.
+
+இதனை அவதானித்த மக்கள், சாவகச்சேரி பிரதேச சபையின் முன்னாள் உறுப்பினர் கு. குகானந்தனுக்கு அறிவித்துள்ளனர்.
+
+அதனை அடுத்து அவ்விடத்திற்கு வந்த முன்னாள் உறுப்பினர், மின் விளக்குகளை திருடிய நபர்களிடம் விசாரணைகளை முன்னெடுத்த போது, அவர்கள் உறுப்பினர் மீது கொட்டனால் கடுமையாக தாக்கி விட்டு அவ்விடத்தில் இருந்து தப்பி சென்றுள்ளனர்.
+
+தாக்குதலுக்கு இலக்கான முன்னாள் உறுப்பினரை அயலவர்கள் மீது மீட்டு வைத்தியசாலையில் , அனுமதித்தனர்.
+
+◼️
+
+[Data](articles/3083bb98.json)
 
 ---
 
@@ -234,6 +434,50 @@ Responding to questions by Opposition Leader Sajith Premadasa and SJB MP Harsha 
 
 ---
 
+### Interest free loan provided to university students has not yet been issued - Sajith
+
+*2024-02-08 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175865) · `ta`
+
+Opposition Leader Sajith Premadasa said that the government has given credit concessions to traders who failed to pay millions of loans, but the interest free loans given to university students have not yet been issued.
+
+In the past, the interest free loan scheme for their higher education for students studying in private universities has been suspended.
+
+Opposition Leader Sajith Premadasa told Parliament today (08) that the United People's Power has revealed that the United People's Power has been re -brought back to the parliament's dream.
+
+The permission of the loan has been sent to the Central Bank and the solution has been provided, but it has not yet been implemented.
+
+Candidates for this are currently underway and this loan is not being issued, so as soon as these credit facilities are available.. The opposition leader added that the opportunity to enter universities is being denied as the loan is not provided.
+
+...
+
+[Data](articles/180f3317.json)
+
+[Extended Data](ext_articles/180f3317.ext.json)
+
+---
+
+### Jagath Priyankara Member of Parliament
+
+*2024-02-08 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175860) · `ta`
+
+Puttalam District Parliamentarian Sanath Nishantha, who died in the accident, was sworn in the vacant parliamentary seat of Jagath Priyankara.
+
+The proceedings of the Parliament today began under the leadership of Speaker Mahinda Yapa Abeywardena.
+
+At the beginning of parliamentary action, Jagath Priyankara took oaths in the presence of the Speaker as a Member of Parliament.
+
+Puttalam district parliamentarian Sanath Nishantha, who died in the accident, was sworn in by Jagath Priyankara for a vacuum.
+
+It is noteworthy that the debate on the government's policy speech presented in Parliament by President Ranil Wickremesinghe is being held on Thursday (08).
+
+◼️
+
+[Data](articles/345bfc11.json)
+
+[Extended Data](ext_articles/345bfc11.ext.json)
+
+---
+
 ### Three cops interdicted over alleged poisoning of 2 suspects in custody
 
 *2024-02-08 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97108/three-cops-interdicted-over-alleged-poisoning-of-2-suspectsincustody) · `en`
@@ -249,6 +493,20 @@ One suspect was captured by the bystanders while the other fled the scene after 
 [Data](articles/3526e02c.json)
 
 [Extended Data](ext_articles/3526e02c.ext.json)
+
+---
+
+### ජගත් ප්‍රියංකර මහතා දිවුරුම් දෙයි
+
+*2024-02-08 11:06:37* · [`adalk`](https://www.ada.lk/breaking_news/ජගත්-ප්‍රියංකර-මහතා-දිවුරුම්-දෙයි/11-407962) · `si`
+
+අභාවප්‍රාප්ත රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ පුරප්පාඩුවට පත් කෙරුණු ජගත් ප්‍රියංකර මහතා කතානායක මහින්ද යාපා  අබේවර්ධන මහතා  ඉදිරියේ දිවුරුම් දුන්නේය.
+
+හදිසි අනතුරකින්ස ජීවිතක්ෂයට පත් වූ සනත් නිශාන්ත මහතාගෙන් පසු ශ්‍රී ලංකා පොදු ජන පෙරමුණ නියෝජනය කරමින්  පුත්තලම දිස්ත්‍රික්කයෙන් වැඩිම මනාප ලබාගෙන සිටියේ ප්‍රියංකර මහතාය.
+
+◼️
+
+[Data](articles/56bd46a1.json)
 
 ---
 
@@ -414,25 +672,31 @@ The Acting IGP further mentioned that details about a few police officers who ai
 
 ---
 
-### Interest free loan provided to university students has not yet been issued - Sajith
+### US unmanned air strike in Bhaktad - Iran's main commander
 
-*2024-02-08 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/175865) · `ta`
+*2024-02-08 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/175861) · `ta`
 
-Opposition Leader Sajith Premadasa said that the government has given credit concessions to traders who failed to pay millions of loans, but the interest free loans given to university students have not yet been issued.
+A commander of the Iranian Armed Forces has been killed in a US unmanned air strike in the Iraq capital.
 
-In the past, the interest free loan scheme for their higher education for students studying in private universities has been suspended.
+According to reports, one of the head of the Gattab Hezbullah Organization and his two bodyguards were targeted for an unmanned air strike and three men were killed in an attack from the Bhaktad capital to the east.
 
-Opposition Leader Sajith Premadasa told Parliament today (08) that the United People's Power has revealed that the United People's Power has been re -brought back to the parliament's dream.
+The commander who led the attacks against US soldiers in the region has been killed in unmanned air strikes.
 
-The permission of the loan has been sent to the Central Bank and the solution has been provided, but it has not yet been implemented.
+Iran has reported that the group is also involved in the unmanned air strike on the US base in Jordan.
 
-Candidates for this are currently underway and this loan is not being issued, so as soon as these credit facilities are available.. The opposition leader added that the opportunity to enter universities is being denied as the loan is not provided.
+The attack took place in the Mastal of Bhaktad, which has heard many explosions.
+
+The BBC said the car was completely hit by the car, which was completely hit by the road.
+
+The US Central Ordinance said the commander in charge of deliberately carrying out attacks against the US in the region has been killed.
+
+When BBC journalists went to the area, people shouted that the United States was great evil.
 
 ...
 
-[Data](articles/180f3317.json)
+[Data](articles/46babbef.json)
 
-[Extended Data](ext_articles/180f3317.ext.json)
+[Extended Data](ext_articles/46babbef.ext.json)
 
 ---
 
@@ -724,34 +988,6 @@ It is also reported from five persons who were abused and duties were to be hand
 
 ---
 
-### US unmanned air strike in Bhaktad - Iran's main commander
-
-*2024-02-08 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175861) · `ta`
-
-A commander of the Iranian Armed Forces has been killed in a US unmanned air strike in the Iraq capital.
-
-According to reports, one of the head of the Gattab Hezbullah Organization and his two bodyguards were targeted for an unmanned air strike and three men were killed in an attack from the Bhaktad capital to the east.
-
-The commander who led the attacks against US soldiers in the region has been killed in unmanned air strikes.
-
-Iran has reported that the group is also involved in the unmanned air strike on the US base in Jordan.
-
-The attack took place in the Mastal of Bhaktad, which has heard many explosions.
-
-The BBC said the car was completely hit by the car, which was completely hit by the road.
-
-The US Central Ordinance said the commander in charge of deliberately carrying out attacks against the US in the region has been killed.
-
-When BBC journalists went to the area, people shouted that the United States was great evil.
-
-...
-
-[Data](articles/46babbef.json)
-
-[Extended Data](ext_articles/46babbef.ext.json)
-
----
-
 ### Talk of the Town | Ending Impunity | Janaka Ratnayake | 08 February 2024
 
 *2024-02-08 10:09:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/talk-of-the-town-ending-impunity-janaka-ratnayake-08-february-2024/) · `en`
@@ -763,28 +999,6 @@ Talk of the Town | Ending Impunity | Janaka Ratnayake | 08 February 2024
 [Data](articles/d1120f05.json)
 
 [Extended Data](ext_articles/d1120f05.ext.json)
-
----
-
-### Jagath Priyankara Member of Parliament
-
-*2024-02-08 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175860) · `ta`
-
-Puttalam District Parliamentarian Sanath Nishantha, who died in the accident, was sworn in the vacant parliamentary seat of Jagath Priyankara.
-
-The proceedings of the Parliament today began under the leadership of Speaker Mahinda Yapa Abeywardena.
-
-At the beginning of parliamentary action, Jagath Priyankara took oaths in the presence of the Speaker as a Member of Parliament.
-
-Puttalam district parliamentarian Sanath Nishantha, who died in the accident, was sworn in by Jagath Priyankara for a vacuum.
-
-It is noteworthy that the debate on the government's policy speech presented in Parliament by President Ranil Wickremesinghe is being held on Thursday (08).
-
-◼️
-
-[Data](articles/345bfc11.json)
-
-[Extended Data](ext_articles/345bfc11.ext.json)
 
 ---
 
@@ -873,6 +1087,22 @@ Parliamentarian Sampika Ranawaka and others also participated in the tea treaty 
 [Data](articles/47fdceea.json)
 
 [Extended Data](ext_articles/47fdceea.ext.json)
+
+---
+
+### Sri Lanka JVP’s official visit triggers political, religious leaders to raise anti-Indian sentiment
+
+*2024-02-08 09:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-jvps-official-visit-triggers-political-religious-leaders-to-raise-anti-indian-sentiment-150344/) · `en`
+
+ECONOMYNEXT – The visit of Sri Lanka’s Marxist Janatha Vimukthi Peramuna (JVP) leader to India on an official invitation has led to a new wave of anti-Indian sentiment with political and religious leaders raising concerns over the aim of the New Delhi ahead of the island nation’s presidential elections.
+
+Prime Minister Narendra Modi’s Indian government in an unprecedented invited JVP leader Anura Kumara Dissanayaka for a five-day official visit which included meetings with Indian External Affairs Minister S. Jaishankar, National Security Adviser Ajit Doval, and Foreign Secretary Vinay Mohan among many others.
+
+The JVP was involved in two armed uprisings against the Sri Lankan government in 1971 and 1987-89. The motive for both uprisings was to establish a socialist state. However, both insurgencies were defeated with annihilation of Marxists youth.
+
+...
+
+[Data](articles/2c47c1a2.json)
 
 ---
 
@@ -1279,6 +1509,22 @@ In total, 196 awe-inspiring snow and ice sculptures are on display - from fairy-
 [Data](articles/698882db.json)
 
 [Extended Data](ext_articles/698882db.ext.json)
+
+---
+
+### Sri Lanka CB relaxes LCB restrictions for standing facility from Feb 16 to slash market rates
+
+*2024-02-08 08:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-relaxes-lcb-restrictions-for-standing-facility-from-feb-16-to-slash-market-rates-150342/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank relaxed restrictions it imposed on the usage of the Standing Facilities by the Licensed Commercial Banks (LCBs) under the Open Market Operations (OMOs) in a bid to accelerate the fall of market interest rates, the central bank said.
+
+Despite repeated reduction in the central bank’s key policy rates, the market rates have not declined in the same proportion, central bank officials have said,
+
+“The relaxation of the restrictions on the Standing Facilities is expected to accelerate the downward adjustments in market interest rates as envisaged under the overall monetary policy direction of the Central Bank,” the central bank said in a statement.
+
+...
+
+[Data](articles/9306a896.json)
 
 ---
 
@@ -1747,291 +1993,5 @@ The company’s financial statements published on the Colombo Stock Exchange ind
 [Data](articles/6fe406c3.json)
 
 [Extended Data](ext_articles/6fe406c3.ext.json)
-
----
-
-### Exterminators to transform pest management industry in South Asia
-
-*2024-02-08 04:19:06* · [`dailyftlk`](https://www.ft.lk/business/Exterminators-to-transform-pest-management-industry-in-South-Asia/34-758245) · `en`
-
-Appointed exclusive distributor for India, Sri Lanka, and the Maldives by PestScan B.V. Netherlands
-
-Aims to cater to over 15,000 pest control companies operating in South Asia
-
-Exterminators PLC has announced that the company recently entered a ground-breaking strategic partnership with PestScan B.V. Netherlands and Sentario UK Ltd.
-
-Exterminators PLC is aiming to transform the pest management industry in South Asia from a chemical-focused industry to a technology-focused industry by adapting cutting-edge AI-powered digital pest management solutions.
-
-Exterminators PLC is the exclusive distributor of PestScan’s digital pest management software for India, Sri Lanka, and the Maldives and the non-exclusive distributor in Pakistan, Bangladesh, Nepal, and Bhutan.
-
-...
-
-[Data](articles/26f8854f.json)
-
-[Extended Data](ext_articles/26f8854f.ext.json)
-
----
-
-### Diana affirms Cabinet nod for cannabis export
-
-*2024-02-08 04:14:14* · [`dailyftlk`](https://www.ft.lk/news/Diana-affirms-Cabinet-nod-for-cannabis-export/56-758244) · `en`
-
-Shows joint Cabinet paper presented in November based on June 2023 decision
-
-Says memorandum was submitted by President and State Minister of Investment Promotion Dilum Amunugama
-
-Asserts State Minister of Indigenous Medicine Sisira Jayakody proposed obtaining Cabinet approval
-
-State Minister of Tourism Diana Gamage yesterday confirmed that the Cabinet had already approved to export of cannabis last year.
-
-Her response comes following Cabinet Co-Spokesman and Minister Bandula Gunawardena on Tuesday dismissing claims that a proposal had been presented to the Cabinet of Ministers on cultivating cannabis for export purposes.
-
-...
-
-[Data](articles/d1c93fbf.json)
-
-[Extended Data](ext_articles/d1c93fbf.ext.json)
-
----
-
-### First ever Congress for Sustainable Materials 2024 a success
-
-*2024-02-08 03:29:39* · [`dailyftlk`](https://www.ft.lk/business/First-ever-Congress-for-Sustainable-Materials-2024-a-success/34-758234) · `en`
-
-Hayleys Chairman and Chief Executive Mohan Pandithage and Hayleys Aventura Managing Director Wasaba Jayasekera with the panellists at the inaugural Congress for Sustainable Materials 2024
-
-Embedding Sustainable Polymers in Textile and Glove Industries From left: Nalaka Senavirathna, Ramesh Nanayakkara, Pushpika Janadheera, Dr. Dilan Fernando, Rohan Goonetilleke, and Moderator Prashani Illangasekera
-
-Integrating Sustainable Packaging Solutions for Food and Agriculture Industries  From left: Mindika Thilakarathna, Michael Zuppa, Lahiru Wijerathna, Kushan Chanaka Amarasinghe, Milinda Weerasinghe, and Moderator Wasaba Jayasekera
-
-Biodegradability seen as future of plastics and packaging according to experts at event organised by Hayleys Aventura
-
-Hayleys Aventura Ltd., a subsidiary of Hayleys PLC, recently hosted the inaugural Congress for Sustainable Materials 2024 at the Kingsbury Hotel, Colombo, with this year’s theme based on ‘The Future of Plastics and Packaging.’
-
-...
-
-[Data](articles/b38f1c30.json)
-
-[Extended Data](ext_articles/b38f1c30.ext.json)
-
----
-
-### Student killed in accident
-
-*2024-02-08 02:43:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-மாணவன்-பலி/175-332871) · `ta`
-
-While the student was traveling with his 2 friends on a motorcycle, the motorcycle crashed into a nearby wiring near the road.
-
-◼️
-
-[Data](articles/ec454652.json)
-
-[Extended Data](ext_articles/ec454652.ext.json)
-
----
-
-### Increase in attendance of tourists
-
-*2024-02-08 02:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகளின்-வருகை-அதிகரிப்பு/175-332870) · `ta`
-
-In the first four days of this month, 28 thousand 493 foreign tourists have arrived in the country, the Tourism Development Authority said.
-
-Accordingly, more than 7 thousand tourists arrive on average per day.
-
-A total of 1 lakh 7 thousand 639 tourists arrived in Sri Lanka in February 2023, the Tourism Development Authority said.. (A)
-
-◼️
-
-[Data](articles/1f17e702.json)
-
-[Extended Data](ext_articles/1f17e702.ext.json)
-
----
-
-### Motion against Speaker
-
-*2024-02-08 02:34:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருக்கு-எதிராக-பிரேரணை/175-332869) · `ta`
-
-Parliamentarian Professor GL Peiris said that we will bring a no -confidence motion against the Speaker in consultation with the Opposition parties.
-
-He was speaking at a media briefing held at the Opposition Leader's office in the parliamentary building yesterday.. As he further stated,
-
-"The right of people's speech has been disabled by the Ceremony Backup Act. On the other hand, the proposed anti -Terrorism Bill has been submitted.
-
-Speaker's activities are improper. The opposition leader has stated that he is bringing a no -confidence motion against him. We will soon bring a no -confidence motion against the Speaker in consultation with all the opposition parties. ”(A)
-
-◼️
-
-[Data](articles/30ad5955.json)
-
-[Extended Data](ext_articles/30ad5955.ext.json)
-
----
-
-### Prison hospital: Is a privilege of elite?
-
-*2024-02-08 02:33:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgx5429d8p0o) · `si`
-
-The people including MPs who are punished by the Court have to be admitted to the prison hospital.
-
-This time it is re-prescribed by the Maligakanda Magistrate's Court to remand custody until February 15.
-
-In the society, the former Minister of Keheliya Rambukwella will be admitted to the prison hospital following the order given by the courts.. And it became a correct assumption.
-
-A significant number of MPs who were ordered to be imprisoned by the Court have reportedly transferred incidents of events that were transferred to the prison hospital during the past.
-
-After inquiry by the BBC Sinhala service, the Department of Prisons Department of Prisons Department Gaminne, Commissioner General of Prisons.. Dissanayake stated that his department does not conduct a running of such statistics.
-
-"We see anyone who comes from the courts here (prison) and only as prisoners or suspects. We don't have that time. "He said.
-
-...
-
-[Data](articles/6ae30e2f.json)
-
-[Extended Data](ext_articles/6ae30e2f.ext.json)
-
----
-
-### Cabinet nod to import up to 15,000 tonnes of cashew nuts this year
-
-*2024-02-08 02:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-nod-to-import-up-to-15-000-tonnes-of-cashew-nuts-this-year/108-276554) · `en`
-
-The Cabinet nod has been given to import up to 15,000 tonnes of cashew nuts in shell this year, as the cashew harvest halved to 12,500 tonnes.
-
-Although the country’s annual cashew nut demand is estimated at 25,000 tonnes, the Government Information Department noted that currently only 12,500 tonnes of cashew nuts can be procured locally.
-
-“... the cashew industry in the country facing a very unfortunate situation, as the crop has not been harvested as expected in the last season,”
-
-Accordingly, Agriculture and Plantation Industries Minister Mahinda Amaraweera this week sought the approval of the Cabinet of Ministers to import a maximum of 15,000 cashew nuts in shell this year and to import a quantity determined by the committee consisting of senior officials of the relevant ministries, from December to April, when local cashew is not available in the next four years.
-
-The cashew season in the country usually begins in March and continues through April.
-
-◼️
-
-[Data](articles/cf4e2655.json)
-
-[Extended Data](ext_articles/cf4e2655.ext.json)
-
----
-
-### Anura met Gujarat Chief Minister
-
-*2024-02-08 02:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குஜராத்-முதல்வரை-சந்தித்தார்-அனுர/175-332868) · `ta`
-
-A group of National People's Power Leader Anura Kumara Dissanayake, who has visited India, met Gujarat Chief Minister Bhubendrabhai Patel yesterday.
-
-The development strategic programs for the eradication of poverty in Gujarat have been discussed.
-
-Anurakumara Dissanayake, including the team of Gujarat's Industry, is also in a special discussion.. (A)
-
-◼️
-
-[Data](articles/92e97828.json)
-
-[Extended Data](ext_articles/92e97828.ext.json)
-
----
-
-### President's blessing
-
-*2024-02-08 02:09:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவுக்கு-ஜனாதிபதி-ஆசீர்வாதம்/175-332867) · `ta`
-
-Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapakse said that the President of the National People's Power, Anura Kumara Dissanayake has visited India with the full blessing of the president.
-
-He said this to the media after the President's Policy Declaration held in Parliament yesterday. In this regard,
-
-“The leader of the National People's Power, Anura Kumara Dissanayake, has made a state visit to India with the full blessing of the president.. We have advised the Sri Lankan High Commissioner in India to provide them with all the necessary facilities.
-
-It is welcome that the Janatha Vimukthi Peramuna (JVP) is free from the anti -Indian policy. The change of the Janatha Vimukthi Peramuna is delighted. ”. (A)
-
-◼️
-
-[Data](articles/27dfdc69.json)
-
-[Extended Data](ext_articles/27dfdc69.ext.json)
-
----
-
-### UNICEF welcomes start of amendments to Children and Young Persons Ordinance
-
-*2024-02-08 02:03:40* · [`dailyftlk`](https://www.ft.lk/news/UNICEF-welcomes-start-of-amendments-to-Children-and-Young-Persons-Ordinance/56-758225) · `en`
-
-The UNICEF said yesterday it welcomes the long-awaited amendment to the Children and Young Persons Ordinance (CYPO) coming into force effective 1 January 2024, which marks a significant step towards protecting the rights and welfare of all children in Sri Lanka.
-
-The CYPO, a legislation governing justice for children in Sri Lanka since 1939, previously only covered those up to the age of 16. The amendment now extends its protection to all children under the age of 18. Furthermore, the amendment also repeals the section of the CYPO which permitted the use of corporal punishment on children and adolescents by parents, teachers, or guardians.
-
-These amendments contribute to the alignment of Sri Lanka’s laws that address children’s rights with international standards, particularly the United Nations Convention on the Rights of the Child (CRC), but also addresses the evolving needs and challenges faced by children and adolescents in the country.
-
-...
-
-[Data](articles/89286e39.json)
-
-[Extended Data](ext_articles/89286e39.ext.json)
-
----
-
-### President's trip to Australia
-
-*2024-02-08 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/175852) · `ta`
-
-President Ranil Wickremesinghe left the country a while before the 7th Indian Ocean Conference to be held from February 9 to 10 in Perth, Australia.
-
-At the invitation of the Indian Forum and the Australian government, the President will also discuss the investment opportunities for Sri Lanka.
-
-◼️
-
-[Data](articles/5644c375.json)
-
-[Extended Data](ext_articles/5644c375.ext.json)
-
----
-
-### Dr. McNamara new Executive Director at US-Sri Lanka Fulbright Commission
-
-*2024-02-08 02:00:57* · [`dailyftlk`](https://www.ft.lk/news/Dr-McNamara-new-Executive-Director-at-US-Sri-Lanka-Fulbright-Commission/56-758224) · `en`
-
-The US Embassy in Sri Lanka yesterday announced the appointment of Dr. Patrick McNamara, as the new Executive Director of the United States-Sri Lanka Fulbright Commission based in Colombo.
-
-“We are so pleased to welcome Dr. Patrick McNamara as the new Executive Director of our United States-Sri Lanka Fulbright Commission. Under the leadership of Dr. McNamara, the Commission is entering a new era cultivating exchanges, educational partnerships, and mutual understanding between our two nations,” said US Ambassador to Sri Lanka Julie Chung.
-
-“We expect the Commission to play a vital role in further strengthening the people-to-people, academic and scientific ties between the United States and Sri Lanka, through vibrant intellectual exchanges that go beyond borders and enhance the academic environment for scholars and students alike,” she added.
-
-...
-
-[Data](articles/e0cbfb7f.json)
-
-[Extended Data](ext_articles/e0cbfb7f.ext.json)
-
----
-
-### Mountain Train Rail Service Impact
-
-*2024-02-08 01:58:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-மார்க்க-ரயில்-சேவை-பாதிப்பு/175-332866) · `ta`
-
-A train traveling from Badulla to Colombo to Fort has been blocked near the Ulappanai railway station.
-
-Subsequently, trains from Colombo Fort to Gampola were limited to the hill country.
-
-The Railway Department has stated that trains from Badulla have been limited to Nawalapitiya. (A)
-
-◼️
-
-[Data](articles/97748b84.json)
-
-[Extended Data](ext_articles/97748b84.ext.json)
-
----
-
-### IMF program and President’s election prospects
-
-*2024-02-08 01:49:39* · [`dailyftlk`](https://www.ft.lk/columns/IMF-program-and-President-s-election-prospects/4-758222) · `en`
-
-National People’s Power (NPP) Leader MP Anura Kumara Dissanayake met with the Indian External Affairs Minister Dr. S. Jaishankar in New Delhi recently creating huge excitement among some quarters. The Indian Minister said he was pleased to meet MP Dissanayake. Further he said, “A good discussion on our bilateral relationship and the mutual benefits from its further deepening.” The Minister also spoke about Sri Lanka’s economic challenges and the path ahead. MP Anura Kumara Dissanayake is scheduled to meet several important people during the five-day visit in India. Several news channels in India also highlighted Anura as the most popular politician in Colombo.
-
-...
-
-[Data](articles/a43f77e3.json)
-
-[Extended Data](ext_articles/a43f77e3.ext.json)
 
 ---

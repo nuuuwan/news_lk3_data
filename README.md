@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 06:52:41**
+As of **2024-02-08 07:15:26**
 
 ## Newspaper Stats
 
-*Scraped **5,591** Articles*
+*Scraped **5,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 299
 dailyftlk | 316
 newsfirstlk | 342
 adalk | 472
-virakesarilk | 683
+virakesarilk | 684
 adaderanalk | 690
-tamilmirrorlk | 694
+tamilmirrorlk | 695
 adaderanasinhalalk | 725
 dailymirrorlk | 792
 
@@ -26,11 +26,25 @@ dailymirrorlk | 792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,580 (99.8%) of 5,591 articles have been extended.
+5,587 (99.9%) of 5,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### மரத் தொழிற்சாலையில் தீ விபத்து
+
+*2024-02-08 06:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175843) · `ta`
+
+பட்டலிய, மக்கனிகொட பிரதேசத்தில் மரத் தொழிற்சாலையொன்றில் 7 ஆம் திகதி இரவு தீ விபத்து இடம்பெற்றுள்ளதாக பல்லவெல பொலிஸார் தெரிவிக்கின்றனர்.
+
+தீயை அணைக்க கம்பஹா மாநகர சபையின் தீயணைப்பு பிரிவினர் நடவடிக்கை எடுத்ததாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/ad64b6e7.json)
+
+---
 
 ### French LV power giant Socomec enters Sri Lanka via Indian subsidiary
 
@@ -133,6 +147,24 @@ Hayleys Aventura Ltd., a subsidiary of Hayleys PLC, recently hosted the inaugura
 [Data](articles/b38f1c30.json)
 
 [Extended Data](ext_articles/b38f1c30.ext.json)
+
+---
+
+### ’அனுரவுக்கு ஜனாதிபதி ஆசீர்வாதம்’
+
+*2024-02-08 02:09:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவுக்கு-ஜனாதிபதி-ஆசீர்வாதம்/175-332867) · `ta`
+
+ஜனாதிபதியின் முழுமையான ஆசீர்வாதத்துடன் தான் தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸாநாயக்க இந்தியாவுக்குச் சென்றுள்ளார் என நீதி, சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜயதாஸ ராஜபக்ஷ தெரிவித்தார்.
+
+பாராளுமன்றத்தில் நேற்று இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரையின் பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவிக்கையில் அவர் இவ்வாறு குறிப்பிட்டார். இதன்போது  மேலும் தெரிவிக்கையில்,
+
+" தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸாநாயக்க உட்பட அவரது குழுவினர் ஜனாதிபதியின் முழுமையான ஆசீர்வாதத்துடன் தான் இந்தியாவுக்கு அரசமுறை பயணத்தை மேற்கொண்டுள்ளார்கள். இவர்களுக்குத் தேவையான சகல வசதிகளையும் வழங்குமாறு இந்தியாவில் உள்ள இலங்கை உயர்ஸ்தானிகருக்கு ஆலோசனை வழங்கியுள்ளோம்.
+
+மக்கள் விடுதலை முன்னணியினர் இந்திய எதிர்ப்பு கொள்கையிலிருந்து விடுபட்டு நடைமுறைக்கு ஏற்றால் போல் செயற்பட முனைவது வரவேற்கத்தக்கது. மக்கள் விடுதலை முன்னணியின் மாற்றம் மகிழ்வுக்குரியது."  என்றார். (a)
+
+◼️
+
+[Data](articles/27dfdc69.json)
 
 ---
 
@@ -916,6 +948,8 @@ Under the terms of this alliance, People’s Bank assumes a pivotal role by offe
 
 [Data](articles/516af2c9.json)
 
+[Extended Data](ext_articles/516af2c9.ext.json)
+
 ---
 
 ### SLT-MOBITEL unveils ‘The Directory’ 2023/24 as refreshed and advanced national business directory
@@ -929,6 +963,8 @@ As a one-stop-shop for all marketing and advertising solutions for Micro, Small 
 ...
 
 [Data](articles/45c59423.json)
+
+[Extended Data](ext_articles/45c59423.ext.json)
 
 ---
 
@@ -967,6 +1003,8 @@ Further, market speculation that Treasury Bill yields decreased, created a bulli
 ...
 
 [Data](articles/7113d60d.json)
+
+[Extended Data](ext_articles/7113d60d.ext.json)
 
 ---
 
@@ -1016,6 +1054,8 @@ Situated at the heart of Colombo’s bustling commercial hub, Melsta Pharmacy ta
 
 [Data](articles/f56d5c3a.json)
 
+[Extended Data](ext_articles/f56d5c3a.ext.json)
+
 ---
 
 ### Anura Dissanayake and Gujarat meets
@@ -1045,6 +1085,8 @@ Access Motors, synonymous with automotive quality, proudly introduces its inaugu
 ...
 
 [Data](articles/7fdaddde.json)
+
+[Extended Data](ext_articles/7fdaddde.ext.json)
 
 ---
 
@@ -1947,45 +1989,5 @@ Places of four-like and soil are neat, Australian fast bowlers, Pat Kamas and Jo
 [Data](articles/92222150.json)
 
 [Extended Data](ext_articles/92222150.ext.json)
-
----
-
-### Request from Hamas for a long ceasefire
-
-*2024-02-07 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193089) · `si`
-
-The Hamas reported that the Hamas had a proposal for a long ceasefire.
-
-Accordingly, about 4 1/2 months of Gaza collision, about 4 1/2 months of the Gaza, it has been suspended, has been proposed to stop the clashes.
-
-The Hamas has sent this proposal in response to a proposal to the Hamas, which was sent to Hamas with the consent of the United States and Israel.
-
-Under its first stage, the remaining hostages and the Palestinian prisoners are exchanged.
-
-It is said that Under the second phase, the bodies of the people of the people who have left the Gaza and the third phase are to be completely exchanging the bodies of the dead.
-
-◼️
-
-[Data](articles/465fc6ee.json)
-
-[Extended Data](ext_articles/465fc6ee.ext.json)
-
----
-
-### Singer Harikaran arrived
-
-*2024-02-07 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175809) · `ta`
-
-Indian famous singer Harikaran has arrived in Jaffna today (07) for the music event in Jaffna.
-
-Harikaran's musical event will be held tomorrow evening at the Jaffna Idawi Ground.
-
-Singer Harikaran has arrived in Jaffna through Jaffna International Airport to attend the event.
-
-◼️
-
-[Data](articles/d54a580b.json)
-
-[Extended Data](ext_articles/d54a580b.ext.json)
 
 ---

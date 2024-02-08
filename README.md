@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 10:33:06**
+As of **2024-02-08 10:50:39**
 
 ## Newspaper Stats
 
-*Scraped **5,636** Articles*
+*Scraped **5,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,203 @@ islandlk | 299
 dailyftlk | 316
 newsfirstlk | 345
 adalk | 474
-virakesarilk | 685
+virakesarilk | 689
 adaderanalk | 694
-tamilmirrorlk | 701
-adaderanasinhalalk | 739
+tamilmirrorlk | 703
+adaderanasinhalalk | 744
 dailymirrorlk | 803
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,636 (100.0%) of 5,636 articles have been extended.
+5,636 (99.8%) of 5,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### 19 தமிழக கடற்தொழிலாளர்கள் கைது
+
+*2024-02-08 10:21:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/19-தமிழக-கடற்தொழிலாளர்கள்-கைது/71-332876) · `ta`
+
+நெடுந்தீவு கடற்பரப்பில் அத்துமீறி நுழைந்து மீன்பிடியில் ஈடுபட்ட குற்றச்சாட்டில் 19 தமிழக கடற்தொழிலாளர்கள் புதன்கிழமை (07)  இரவு கைது செய்யப்பட்டுள்ளனர்.
+
+இதன்போது 2 படகுகளும் கைப்பற்றப்பட்டுள்ளதோடு, கைது செய்யப்பட்டவர்கள் காங்கேசன்துறை கடற்படை முகாமில் தங்கவைக்கப்பட்டுள்ளனர்.
+
+மேலும், கைது செய்யப்பட்டவர்களை நீரியல் வள திணைக்கள அதிகாரிகள் ஊடாக ஊர்காவற்றுறை நீதிமன்றத்தில் முற்படுத்த  நடவடிக்கை எடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c1d27df5.json)
+
+---
+
+### අතවර චෝදනා ලද අරණායක රෝහලේ වෛද්‍යවරයා අත්අඩංගුවට
+
+*2024-02-08 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193123) · `si`
+
+අරණායක දිසා රෝහලේ රාජකාරිවල නිරත ව සිටි වෛද්‍යවරියකට ලිංගික අතවර කළ බවට චෝදනා එල්ල වූ එම රෝහලේම රාජකාරි සිදු කළ වෛද්‍යවරයා ව පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+අරණායක දිසා රෝහලේ සේවය නිරත ව සිටි 28 හැවිරිදි වෛද්‍යවරියකට මෙම ලිංගික අතවරය සිදු ව ඇති බව වාර්තා වේ.
+
+සැකකාර වෛද්‍යවරයා බලහත්කාරයෙන් වෛද්‍යවරියගේ ‍රහස් ප්‍රදේශය අත ගෑ බවට වෛද්‍යවරියගේ පියා විසින් කෑගල්ල ළමා හා කාන්තා කාර්යාංශය වෙත පැමිණිල්ලක් ඉදිරිපත් කර ඇත.
+
+ඒ අනුව අද (08) අරණායක පොලීසිය විසින් සැකකාර වෛද්‍යවරයා අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගෙන ඇත්තේ, අරණායක දිසා රෝහලේ සේවයේ නිරත ව සිටි 45 හැවිරිදි විවාහක වෛද්‍යවරයෙකි.
+
+අතවරයට ලක් වූ බව කියන වෛද්‍යවරියගෙන් සහ එම අවස්ථාවේ රාජකාරියෙ නිරත ව සිටි පස් දෙනෙකුගෙන් ප්‍රකාශ සටහන් කරගෙන ඇති අතර, සිද්ධියට මුහුණු දුන් වෛද්‍යවරිය කෑගල්ල ශික්ෂණ රෝහලේ අධිකරණ වෛද්‍යවරයා හමුවට ඉදිරිපත් කිරීමට නියමිත බව ද සඳහන් ය.
+
+◼️
+
+[Data](articles/71ce1e38.json)
+
+---
+
+### பக்தாத்தில் அமெரிக்கா ஆளில்லா விமானதாக்குதல் - ஈரான் சார்பு குழுவின் முக்கிய தளபதி பலி
+
+*2024-02-08 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175861) · `ta`
+
+ஈராக் தலைநகரில் அமெரிக்கா மேற்கொண்ட ஆளில்லா விமானதாக்குதலில் ஈரான்சார்பு ஆயுதகுழுவின் தளபதியொருவர் கொல்லப்பட்டுள்ளார்.
+
+கட்டாப் ஹெஸ்புல்லா அமைப்பின் தலைவர் ஒருவரும் அவரது இரண்டு மெய்ப்பாதுகாவலர்களும் பயணம் செய்துகொண்டிருந்த வாகனம் ஆளில்லா விமானதாக்குதலிற்கு இலக்காகியது எனவும்  பக்தாத் தலைநகரிலிருந்து கிழக்கே உள்ள பகுதியொன்றில் இடம்பெற்ற தாக்குதலில் மூவர் கொல்லப்பட்டனர் எனவும் தகவல்கள் வெளியாகியுள்ளன.
+
+பிராந்தியத்தில் அமெரிக்க படையினருக்கு எதிரான தாக்குதல்களை வழிநடத்திய தளபதியே ஆளில்லா விமானதாக்குதலில் கொல்லப்பட்டுள்ளார்.
+
+ஜோர்தானில் அமெரிக்க தளம் மீது மேற்கொள்ளப்பட்ட ஆளில்லா விமானதாக்குதலிற்கும் இந்த குழுவிற்கும் தொடர்புள்ளதாக ஈரான் தெரிவித்துள்ளது.
+
+பக்தாத்தின் மஸ்டால் என்ற பகுதியிலேயே இந்த தாக்குதல் இடம்பெற்றுள்ளது பல வெடிப்புச்சத்தங்கள் கேட்டுள்ளன.
+
+சனசந்தடி நிறைந்த வீதியில் கார் துல்லியமாக தாக்கப்பட்டது இதனால் கார் முற்றாக எரியுண்டுள்ளது என பிபிசி தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/46babbef.json)
+
+---
+
+### ஜகத் பிரியங்கர பாராளுமன்ற உறுப்பினராக சபாநாயகர் முன்னிலையில் சத்தியப்பிரமாணம் !
+
+*2024-02-08 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175860) · `ta`
+
+விபத்தில் உயிரிழந்த புத்தளம் மாவட்ட பாராளுமன்ற உறுப்பினர் இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் வெற்றிடமடைந்த பாராளுமன்ற ஆசனத்திற்கு ஜகத் பிரியங்கர சத்தியப்பிரமாணம் செய்துகொண்டார்.
+
+இன்றையதினம் பாராளுமன்ற சபை நடவடிக்கைகள் சபாநாயகர் மகிந்த யாப்பா அபேவர்தன தலைமையில் ஆரம்பமாகியது.
+
+பாராளுமன்ற நடவடிக்கை ஆரம்பிக்கும் போது ஜகத் பிரியங்கர பாராளுமன்ற உறுப்பினராக சபாநாயகர் முன்னிலையில் சத்தியப்பிரமாணம் செய்து கொண்டார்.
+
+விபத்தில் உயிரிழந்த புத்தளம் மாவட்ட பாராளுமன்ற உறுப்பினரான இராஜாங்க அமைச்சர் சனத் நிஷாந்தவினால் வெற்றிடமடைந்த ஆசனத்திற்கு ஜகத் பிரியங்கர சத்தியப்பிரமாணம் செய்துகொண்டார்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் பாராளுமன்றத்தில் முன்வைக்கப்பட்ட அரசாங்கத்தின் கொள்கை விளக்க உரை மீதான ஒத்திவைப்பு வேளை விவாதம் இன்று வியாழக்கிழமை (08) இடம்பெறுகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/345bfc11.json)
+
+---
+
+### தேரர் சுட்டுக்கொலை :  வாகனம், துப்பாக்கியை வழங்கியவர் கைது
+
+*2024-02-08 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/175857) · `ta`
+
+கடந்த மாதம் கம்பஹா - மல்வத்துஹிரிபிட்டிய பிரதேசத்திலுள்ள விகாரை ஒன்றில் தேரர் ஒருவர் கொல்லப்பட்ட சம்பவத்துடன் தொடர்புடைய சந்தேகநபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+மேல் மாகாண வடக்கு குற்றத்தடுப்பு பிரிவினரால் குறித்த நபர் கைதுசெய்யப்பட்டுள்ளார். பிக்குவை கொலை செய்வதற்காக பயன்படுத்தப்பட்ட வாகனம் மற்றும் துப்பாக்கியை வழங்கிய நபரே இவ்வாறு கைதுசெய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கம்பஹா மல்வத்துஹிரிபிட்டிய பிரதேசத்தில் கடந்த ஜனவரி மாதம் 23ஆம் திகதி அதிகாலையில் விகாரை ஒன்றில் துப்பாக்கிச் சூட்டு சம்பவம் இடம்பெற்றது.
+
+குறித்த சம்பவத்தில் விகாரையில் இருந்த 45 வயதான கலப்பலுவாவே தம்மரதன தேரர் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பலனின்றி உயிரிழந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/2e9c843e.json)
+
+---
+
+### අන්තර්ජාල සේවා අවහිර කෙරේ
+
+*2024-02-08 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193122) · `si`
+
+මැතිවරණ දිනයේ දී අන්තර්ජාල සහ ජංගම දුරකථන සේවා වසා දැමීමට පාකිස්තානය තීරණය කර තිබේ.
+
+ඒ, පාකිස්තානයේ සිදු විය හැකි කැලඹිලි තත්ත්වයන් සහ ත්‍රස්තවාදී ක්‍රියාවන් පාලනය කිරීම සඳහා ය.
+
+ඡන්ද විමසීම හරහා ඇති විය හැකි අනපේක්ෂිත කැලඹිලි තත්ත්වයන් සඳහා පෙර සූදානමක් ලෙස මෙම පියවර ගෙන ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+
+කෙසේ වෙතත් මේ හරහා මිලියන 241ක පමණ ජනතාවක් සිටින පාකිස්තානුවන්ගේ අයිතිවාසිකම් කඩ වීමක් සිදු වන බවට විවිධ මත පළ වී ඇත.
+
+◼️
+
+[Data](articles/9896158c.json)
+
+---
+
+### ව්‍යාපාරිකයාට අමතක වූ මැණික් මල්ල බස් රියදුරු උස්සලා
+
+*2024-02-08 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193121) · `si`
+
+රුපියල් ලක්ෂ 25ක වටිනාකමින් යුත් මැණික් ගල් තොගයක් සොරකම් කළ බස් රථ රියදුරෙකු අවිස්සාවේල්ල පොලීසිය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+
+මැණික් ව්‍යාපාරිකයෙකු මැණික් ගල් 13ක් සහිත බෑගයක් රැගෙන අවිස්සාවේල්ල මාදොල ප්‍රදේශයට බස් රථයකින් පැමිණ ඇති අතර එහිදි ඔහු විසින් එම බෑගය අතපසුවීමකින් බස් රථයේ අසුන මත තබා ඉන් බැස ගොස් ඇති බව පොලීසිය පැවසුවේය.
+
+පසුව ඔහු යළි බස් රථයට ගොඩවී බෑගය සොයා බැලීමේ දී මැණික් ගල් අස්ථාන ගත වී ඇති බවට නිරීක්ෂණය වී තිබේ.
+
+සිද්ධිය සම්බන්ධයෙන් අවිස්සාවේල්ල පොලීසියට සිදුකළ පැමිණිල්ලක් මත අදාළ බස් රථයේ රියදුරුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වල දී ඔහු සතුව තිබී එම මැණික් ගල් සොයාගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරු එරත්න ප්‍රදේශයේ පදිංචි 42 හැවිරිදි අයෙකු වන අතර සිද්ධිය සම්බන්ධයෙන් අවිස්සාවේල්ල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/0e0ba956.json)
+
+---
+
+### ஜனாதிபதியின் கொள்கை விளக்க உரையின் போது ஏன் வெளிநடப்பு செய்தார் எதிர்க்கட்சி தலைவர் !
+
+*2024-02-08 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/175859) · `ta`
+
+ஒன்பதாவது பாராளுமன்றத்தின் ஐந்தாவது கூட்டத்தொடர் புதன்கிழமை ( 7) ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் கொள்கை விளக்க உரையுடன் ஆரம்பித்து வைக்கப்பட்டது.
+
+இவ்வாறு ஜனாதிபதியால் கொள்கை விளக்கவுரை நிகழ்த்தப்பட்ட போது எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச சபையிலிருந்து வெளியேறினார்.
+
+ஆனால் ஐக்கிய மக்கள் சக்தியின் தவிசாளர் பீல்ட் மார்ஷல் சரத் பொன்சேக்கா உள்ளிட்ட பலர் சபையிலேயே அமர்ந்திருந்தனர்.
+
+ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்களான ராஜித சேனாரத்ன, குமார வெல்கம, இஷாக் ரஹ்மான், வடிவேல் சுரேஷ், பைசால் காசிம், ஏ.எச்.எம்.பௌசி ஆகியோரும் சபையிலிருந்து வெளியேறவில்லை.
+
+ஐக்கிய மக்கள் சக்தியில் தேர்தலில் போட்டியிட்ட பாராளுமன்ற உறுப்பினரான சம்பிக ரணவக்கவும் சபை நடவடிக்கைகளில் பங்கேற்றிருந்தார்.
+
+பாராளுமன்ற கூட்டத்தொடரை ஆரம்பிக்கும் நிகழ்வுகளில் பங்கேற்கப் போவதில்லை என்று ஐக்கிய மக்கள் சக்தி கட்சி ரீதியில் தீர்மானித்திருந்த போதிலும், அக்கட்சியின் சிரேஷ்ட உறுப்பினர்கள் உள்ளிட்ட பலர் அந்த தீர்மானத்தைக் கவனத்தில் கொள்ளாமல் ஜனாதிபதியின் கொள்கை விளக்க உரையை செவிமடுத்தவாறிருந்தனர்.
+
+...
+
+[Data](articles/47fdceea.json)
+
+---
+
+### Stirring at the Lambattu Pattiuru Police Station!Two suspects who drank milk
+
+*2024-02-08 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175851) · `ta`
+
+The two suspects detained at the Ambatti Patti police station have been admitted to the Colombo National Hospital as they have been paid poisonous milk by an unidentified person.
+
+Police said that the person who was identified as the firing of the recent shooting in the Jindupiti area and the person who provided information was given to the person who had provided it.
+
+On January 25, a youth was injured in a shooting carried out on a motorcycle in Jindupitiya.
+
+Subsequently, one of the suspects wrapped up. The man who fired the motorcycle abandoned the motorcycle.
+
+Later, the man who fled the firing was arrested and the two suspects were detained at the Laddipatti Street Police Station and are being investigated.
+
+In the meantime, a woman who is said to be a girlfriend of the gunman was detained on Wednesday morning at the Ladypatti Street Police Station and another suspect was on goodwill.
+
+...
+
+[Data](articles/71ab2796.json)
+
+[Extended Data](ext_articles/71ab2796.ext.json)
+
+---
 
 ### Police arrests 42 suspects over abuse, thefts on public transport
 
@@ -70,6 +252,40 @@ He was sworn in as a MP to fill the vacancy created by the sudden death of State
 
 ---
 
+### යුක්තියට තවත් සැකකරුවන් පිරිසක් කොටුවෙති
+
+*2024-02-08 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193120) · `si`
+
+යුක්තිය මෙහෙයුම යටතේ ගතවු පැය 24 තුළ දිවයින පුරා සිදුකළ මෙහෙයුම්වලින් සැකකරුවන් 728ක් අත්අඩංගුවට ගෙන තිබේ.
+
+මත්ද්‍රව්‍ය වැරදි සම්බන්ධ සැකකරුවන් 558කු සහ අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ සිටි සැකකරුවන් 170 දෙනෙකු ඊට ඇතුළත් බව වාර්තා වේ.
+
+එහිදි අපරාධවලට අවශ්‍ය කරන සැකකරුවන් තිදෙනෙකු ද අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරුවන් සතුව තිබී හෙරොයින් ග්‍රෑම්  122, අයිස් ග්‍රෑම්  101, ගංජා කිලෝග්‍රෑම් 5යි ග්‍රෑම් 217 සහ මත්පෙති 1,852ක් පොලිස් භාරයට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/1325e32b.json)
+
+---
+
+### அவுஸ்திரேலியா புறப்பட்டார் ஜனாதிபதி
+
+*2024-02-08 09:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுஸ்திரேலியா-புறப்பட்டார்-ஜனாதிபதி/175-332875) · `ta`
+
+07ஆவது இந்தியப் பெருங்கடல் மாநாட்டில் பங்கேற்பதற்காக ரணில் விக்கிரமசிங்க  இன்று (08) அதிகாலை கட்டுநாயக்க விமான நிலையத்திலிருந்து அவுஸ்திரேலியாவுக்குப் புறப்பட்டுள்ளார்.
+
+இந்த மாநாடு ஆஸ்திரேலியாவின் பெர்த்தில் 09 முதல் 10 வரை நடைபெற உள்ளது.
+
+ஜனாதிபதியுடன் தூதுக்குழுவொன்றும் சென்றுள்ளதுடன், அவர்கள் முதலில் கட்டுநாயக்க விமான நிலையத்திலிருந்து இன்று (08) அதிகாலை 12.45 மணிக்கு சிங்கப்பூர் விமான நிலையத்திற்கு SK-469 சிங்கப்பூர் எயார்லைன்ஸ் விமானத்தில் புறப்பட்டு அங்கிருந்து அவுஸ்திரேலியா செல்லவுள்ளனர்.
+
+◼️
+
+[Data](articles/07d1c3ec.json)
+
+---
+
 ### Jagath Priyankara sworn in
 
 *2024-02-08 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193119) · `si`
@@ -83,30 +299,6 @@ Jagath Priyankara was sworn in due to the vacant seat to the vacant seat.
 [Data](articles/762f9cbe.json)
 
 [Extended Data](ext_articles/762f9cbe.ext.json)
-
----
-
-### Stirring at the Lambattu Pattiuru Police Station!Two suspects who drank milk
-
-*2024-02-08 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/175851) · `ta`
-
-The two suspects detained at the Ambatti Patti police station have been admitted to the Colombo National Hospital as they have been paid poisonous milk by an unidentified person.
-
-Police said that the person who was identified as the firing of the recent shooting in the Jindupiti area and the person who provided information was given to the person who had provided it.
-
-On January 25, a youth was injured in a shooting carried out on a motorcycle in Jindupitiya.
-
-Subsequently, one of the suspects wrapped up. The man who fired the motorcycle abandoned the motorcycle.
-
-Later, the man who fled the firing was arrested and the two suspects were detained at the Laddipatti Street Police Station and are being investigated.
-
-In the meantime, a woman who is said to be a girlfriend of the gunman was detained on Wednesday morning at the Ladypatti Street Police Station and another suspect was on goodwill.
-
-...
-
-[Data](articles/71ab2796.json)
-
-[Extended Data](ext_articles/71ab2796.ext.json)
 
 ---
 
@@ -215,6 +407,22 @@ It is reported that the commander of the United States camp in Jordan recently h
 [Data](articles/02815830.json)
 
 [Extended Data](ext_articles/02815830.ext.json)
+
+---
+
+### වාණිජ බැංකුවල ස්ථාවර පහසුකම් ගැන මහ බැංකුවෙන් තීරණයක්
+
+*2024-02-08 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193115) · `si`
+
+ශ්‍රී ලංකා මහ බැංකු විසින් ලියාපදිංචි වාණිජ බැංකුවල කටයුතු සම්බන්ධයෙන් නිවේදනයක් නිකුත් කර තිබේ.
+
+ඒ අනුව වාණිජ බැංකුවල ස්ථාවර පහසුකම් සඳහා පනවා තිබූ සීමාවන් ජනවාරි මස 16 වන දා සිට බලපැවැත්වෙන පරිදි ලිහිල් කිරීමට මහ බැංකුව තීරණය කර ඇත.
+
+මුදල් ප්‍රතිපත්ති මණ්ඩලය ඊයේ (07) පැවති රැස්වීමේදී මෙම තීරණය කර තිබේ.
+
+...
+
+[Data](articles/3591991f.json)
 
 ---
 
@@ -1759,207 +1967,5 @@ As a one-stop-shop for all marketing and advertising solutions for Micro, Small 
 [Data](articles/45c59423.json)
 
 [Extended Data](ext_articles/45c59423.ext.json)
-
----
-
-### Two people who had been drinking milk were admitted to the hospital
-
-*2024-02-07 20:01:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்-அருந்திய-இருவர்-வைத்தியசாலையில்-அனுமதி/175-332851) · `ta`
-
-Two suspects detained at the Wulbendal police station have been admitted to the Colombo National Hospital today (7) after they have been admitted to the visit of the Wulbendal police station in connection with the recent shooting incident in Jindupitiya.
-
-Police said that the two suspects lost their consciousness after drinking milk buckets and suspected to have been toxic in milk.
-
-Police allege that the suspects were given cyanide mixed with milk buckets.
-
-Police said that one of the suspects who were ill was suspected of shooting a man in Jindupitiya on January 24 and the other suspect was acting as a reporter.
-
-Samindu Darshan (27) from Cherunuwara, who was identified as the shooter, and Lakshitha Fernando (29) from Colombo - Colombo have been admitted to hospital.
-
-◼️
-
-[Data](articles/31daf46e.json)
-
-[Extended Data](ext_articles/31daf46e.ext.json)
-
----
-
-### Transfer of JKH’s 61.9 million stocks boosts CSE turnover past Rs. 12 billion mark
-
-*2024-02-07 19:58:00* · [`islandlk`](http://island.lk/transfer-of-jkhs-61-9-million-stocks-boosts-cse-turnover-past-rs-12-billion-mark/) · `en`
-
-The stock market yesterday surpassed Rs 12 billion in turnover with a great degree of retail and institutional participation. A main feature of the trading was the transferring of 61.9 million stocks in JKH, amounting to Rs 11.3 billion, market analysts said.
-
-JKH’s transaction was equal to the company’s last/ December quarterly statement figure, which boosted the entire market performance, analysts added.
-
-Further, market speculation that Treasury Bill yields decreased, created a bullish market sentiment for Primary dealer entities listed in the CSE. This has created a significant price appreciation, market analysts said. Capital Alliance PLC shares closed up at 48.10, and First Capital Treasuries PLC closed up 26.00. Contributors to ASPI included Richard Pieris and Company PLC (up at 21.30), Commercial Bank of Ceylon PLC (up at 89.00) and Royal Ceramics Lanka PLC (up at 29.00).
-
-...
-
-[Data](articles/7113d60d.json)
-
-[Extended Data](ext_articles/7113d60d.ext.json)
-
----
-
-### Sanath Nishantha’s wife wants probe into husband’s death
-
-*2024-02-07 19:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sanath-Nishanthas-wife-wants-probe-into-husbands-death/108-276532) · `en`
-
-Colombo, Feb 7 (Daiy Mirror) - Late State Minister Sanath Nishantha's wife lodged a complaint with the Criminal Investigation Department (CID), requesting a probe into her late husband's death.
-
-The complaint was lodged citing suspicions surrounding the circumstances of the death.
-
-◼️
-
-[Data](articles/82860e25.json)
-
-[Extended Data](ext_articles/82860e25.ext.json)
-
----
-
-### UNICEF urges focus on non-custodial rehabilitation for juvenile offenders
-
-*2024-02-07 19:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNICEF-urges-focus-on-non-custodial-rehabilitation-for-juvenile-offenders/108-276531) · `en`
-
-While welcoming the commencement of the amendments to the Children and Young Persons Ordinance, UNICEF called upon stakeholders in the justice, probation and child-care sectors to prioritize the application of non-custodial measures such as family-based rehabilitation for juvenile offenders.
-
-The long-awaited amendment to the Children and Young Persons Ordinance (CYPO) came into force effective January 1, 2024, which marks a significant step towards protecting the rights and welfare of all children in Sri Lanka, it said.
-
-The CYPO, a legislation governing justice for children in Sri Lanka since 1939, previously only covered those up to the age of 16. The amendment now extends its protection to all children under the age of 18. Furthermore, the amendment also repeals the section of the CYPO which permitted the use of corporal punishment on children and adolescents by parents, teachers, or guardians.
-
-...
-
-[Data](articles/bdfd25c1.json)
-
-[Extended Data](ext_articles/bdfd25c1.ext.json)
-
----
-
-### Melsta Health relaunches Melsta Pharmacy and opens exclusive Melsta Labs Collection Center
-
-*2024-02-07 19:54:00* · [`islandlk`](http://island.lk/melsta-health-relaunches-melsta-pharmacy-and-opens-exclusive-melsta-labs-collection-center/) · `en`
-
-Initiating an exciting new chapter in their pharmacy venture, Melsta Health recently relaunched their flagship Melsta Pharmacy at 453, Galle Road, Colombo 03, with a new outlook and enhanced facilities. Complementing the array of new features at Melsta Pharmacy, an Exclusive Melsta Labs Sample Collection Center was also launched at the same location.
-
-Situated at the heart of Colombo’s bustling commercial hub, Melsta Pharmacy takes center stage in one of the city’s busiest neighborhoods. With ample parking, the newly relaunched space is designed for accessibility, catering to a diverse clientele, from local residents to visitors. The flagship Melsta Pharmacy stands out with its captivating modern customer-centric design, aligning seamlessly with the latest global standards. Offering more than just pharmaceutical services, customers can expect an exceptional experience coupled with best-in-class services, all at the most affordable costs.
-
-...
-
-[Data](articles/f56d5c3a.json)
-
-[Extended Data](ext_articles/f56d5c3a.ext.json)
-
----
-
-### Anura Dissanayake and Gujarat meets
-
-*2024-02-07 19:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193097) · `si`
-
-Leader of the National Jones of Power in India and others met with the Chief Minister of the Gujarattha Master of the Gujarattu Stagnan Legislative Council today (07).
-
-It has discussed strategies adopted into poverty abolishing and development in the state.
-
-After the afterward of Anura Kumara Dissanayake, the Minister of Industry, Bulwanzing Rajfot, has discussed the plan of the Gujanarat Example.
-
-◼️
-
-[Data](articles/5dd36cd3.json)
-
-[Extended Data](ext_articles/5dd36cd3.ext.json)
-
----
-
-### Access Motors redefines automotive care with the launch of Absolute Detailing and Tyre Shop at IOC premises, Colombo
-
-*2024-02-07 19:52:00* · [`islandlk`](http://island.lk/access-motors-redefines-automotive-care-with-the-launch-of-absolute-detailing-and-tyre-shop-at-ioc-premises-colombo/) · `en`
-
-Access Motors, synonymous with automotive quality, proudly introduces its inaugural stand-alone detailing and tyre shop – Bodyshop by Access Motors Absolute Detailing. Strategically located at the IOC premises in Kirimandala Mawatha, Colombo 05, this milestone marks a significant expansion of Access Motors’ service portfolio, offering a comprehensive one-stop solution for all car appearance needs.
-
-...
-
-[Data](articles/7fdaddde.json)
-
-[Extended Data](ext_articles/7fdaddde.ext.json)
-
----
-
-### “We will no longer support the government”
-
-*2024-02-07 19:43:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனி-அரசாங்கத்திற்கு-ஆதரவளிக்க-மாட்டோம்/175-332850) · `ta`
-
-Opposition Prime Minister Lakshman Kiriella today said the United People's Power would not support the government in the wake of the demands of the president as the government had acted spontaneously in recent times.
-
-He said at a press conference held at the Parliamentary Complex that the government was not concerned about the opposition parties, although the president continues to appeal to the opposition parties to join hands with the government.
-
-Parliamentarian Kiriella said the government had attacked the peaceful struggle organized by the United People's Power and that he was forcibly trying to obtain SJB support.
-
-“We continued to support the government. We supported the passage of many laws such as the 21st Amendment. However, the government has acted spontaneously in recent times, ”he said.
-
-...
-
-[Data](articles/bc86b3c0.json)
-
-[Extended Data](ext_articles/bc86b3c0.ext.json)
-
----
-
-### Operation to prevent sexual violence in buses
-
-*2024-02-07 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193096) · `si`
-
-Police have launched a wide operation to arrest women and children in buses today (07).
-
-There were 234 teachers comprising civil police officers who installed secret cameras.
-
-Women and children are reportedly involved in sexual harassment and abuse.
-
-General passenger services, including buses, trains, is presented among them.
-
-Although the offenders have been punished for certain events, there are no reports to the police or any legal authority.
-
-As a result of this, a special operation commenced in Colombo today to investigate the suspects following the sexual harassment of women and children.
-
-Tiran Alles and Acting Inspiration Inspector General of Police, the operation is due to the head of the Child and Women's Abuse Prevention and DIG Renuka Jayasundara.
-
-There are 234 teams including police officers who installed police officers and secret cameras in civilian clothes.
-
-...
-
-[Data](articles/64c8aa45.json)
-
-[Extended Data](ext_articles/64c8aa45.ext.json)
-
----
-
-### Suspicion of Sanath Nishantha's death: Wife complains in CIT!
-
-*2024-02-07 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175839) · `ta`
-
-Her husband's death by lawyer Samari Priyanka, wife of former diplomatic minister Sanath Nishantha. A complaint has been lodged with the Criminal Investigation Department.
-
-Former State Minister Sanath Nishantha has lodged a complaint with suspicious circumstances.
-
-◼️
-
-[Data](articles/c77938ad.json)
-
-[Extended Data](ext_articles/c77938ad.ext.json)
-
----
-
-### Suspicion of Sanath Nishantha's death;Wife complaint
-
-*2024-02-07 19:34:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவின்-மரணத்தில்-சந்தேகம்-மனைவி-முறைப்பாடு/175-332849) · `ta`
-
-According to sources, a complaint has been lodged with the Criminal Investigation Department by Attorney -at -Law Samari Priyanka, wife of former Minister of State Sanath Nishantha, who died in the accident.
-
-He has lodged a complaint with the death of former diplomatic minister Sanath Nishantha. Remble
-
-◼️
-
-[Data](articles/40b3047c.json)
-
-[Extended Data](ext_articles/40b3047c.ext.json)
 
 ---

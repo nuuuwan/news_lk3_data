@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 17:53:11**
+As of **2024-02-08 18:08:26**
 
 ## Newspaper Stats
 
-*Scraped **5,762** Articles*
+*Scraped **5,767** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,64 @@ islandlk | 299
 economynextcom | 302
 dailyftlk | 316
 newsfirstlk | 360
-adalk | 485
+adalk | 489
 virakesarilk | 708
 adaderanalk | 712
 tamilmirrorlk | 716
-adaderanasinhalalk | 759
+adaderanasinhalalk | 760
 dailymirrorlk | 819
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,762 (100.0%) of 5,762 articles have been extended.
+5,767 (100.0%) of 5,767 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### Chamika once again - loses ten
+
+*2024-02-08 17:30:10* · [`adalk`](https://www.ada.lk/sports/චාමික-නැවතත්-කණ්ඩායමට---දසුන්ට-ස්ථානය-අහිමි-වෙයි/9-407975) · `si`
+
+Several players including Chamika Karunaratne have also received the opportunity to the Sri Lanka squad for the Sri Lankan squad for Afghanistan and three matches.
+
+Janith Liyanage, Chamika Karunaratne, Anthemka Fernando, Ven.
+
+However, a large number of failed former leading Valley has lost this group. Kusal Mendis is the leader.
+
+Sri Lanka squad - Kusal Mendis (Leader), Charith Waniekage, Donus Wella, Dr. Akarachchi, Chamika Karunaratne, Dhananayake, VullemanChameera, Dilsh Madushanka, Piyadu Madushan
+
+◼️
+
+[Data](articles/5006d321.json)
+
+[Extended Data](ext_articles/5006d321.ext.json)
+
+---
+
+### A woman dies after falling into charging from Badul Oya
+
+*2024-02-08 17:10:22* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවක්-බදුලු-ඔය-හරහා-තිබූ-ඒදණ්ඩකින්-ඇද-වැටී-මරුට/11-407974) · `si`
+
+A woman who had been carrying out a crowd with a charging of Badulu Oya Pakukotuwa has been discovered in the Dadiru Oya in the area.
+
+Kandaketiya Baduluoya Unit, Unit, DM. The deceased has been identified as the deceased.
+
+The police said that the deaths were found in the Hadamapathalawa Oya area about 2 km from the scene of the Katamatalata Oya from the scene of her death.
+
+The body is being taken to the Mahiyanganaya Base Hospital for the post mortem examination, police said.
+
+DIG Deputy Inspector General of Police Sampath Liyanage Badulla Liyanage, Badulla Senior Superintendent of Police Wasantha Kandandy Kandayaka, Kandaketiya Police are conducting further investigations.
+
+◼️
+
+[Data](articles/3b8f3987.json)
+
+[Extended Data](ext_articles/3b8f3987.ext.json)
+
+---
 
 ### January was world’s warmest on record, EU scientists say
 
@@ -51,6 +93,28 @@ Every month since June has been the world’s hottest on record, compared with t
 [Data](articles/c1cf089a.json)
 
 [Extended Data](ext_articles/c1cf089a.ext.json)
+
+---
+
+### Afghanistan is a group that has more experiences - Kusal
+
+*2024-02-08 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193139) · `si`
+
+Sri Lanka Cricket One-day team leader Kusal Mendis says that the Sri Lankan cricket team is no longer expected.
+
+He was speaking at a press conference held at the Pallekele Stadium in Kandy this afternoon.
+
+"The Afghanistan team has experience and experiences that have been facing many competitions than our team. There are several players who play well in that group. Afghanistan is a well-playing group. "
+
+"We have a very balanced team this year. Wannu Hasaranga, Duti Welles and Chamika Karunaratne are playing three players. It's a strength to our team. There are several fast bowled. The batriculation is also good. We hope to play this tournament and win as a group. "
+
+"I don't think that a three-member player has been taken up 100 and 5 wickets.. Every match. I hope to take 30 runs for 30 runs and 3 wickets. I want to be a fool to expect you to expect that. Moreover, his skill. "
+
+◼️
+
+[Data](articles/602addfd.json)
+
+[Extended Data](ext_articles/602addfd.ext.json)
 
 ---
 
@@ -95,6 +159,26 @@ Beneficiaries enrolled in the 'Aswesuma' welfare program, eligible for these all
 [Data](articles/802f6f6b.json)
 
 [Extended Data](ext_articles/802f6f6b.ext.json)
+
+---
+
+### Suspects of police struggles in Colombo South cannot eat outside
+
+*2024-02-08 16:43:36* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-දකුණ-කොට්ඨාසේ-පොලිසිවල-සිර-මැදිරිවල-සැකකරුවන්ට-පිටතින්-ආහාර-බැහැ/11-407970) · `si`
+
+The Colombo South Divisional Secretary, the Colombo South Divisional Secretary, the Colombo South Divisional Secretary said that the food was not given to the suspects should not be given to the suspects.
+
+The police message has been issued with the event of a stranger to two organized criminals in the pierculture of the piercilure of the piercilhouse
+
+Police Message, SSP, SSP, Senior Superintendent of Police Neranjan Abeywardena has been informed in writing to Colombo South Division.
+
+It is learned that the police message and sub-service officers have advised that other officers have further advised that other officers
+
+◼️
+
+[Data](articles/901c1e5d.json)
+
+[Extended Data](ext_articles/901c1e5d.ext.json)
 
 ---
 
@@ -401,6 +485,32 @@ In the past, the JVP, which has expressed fierce opposition to many of Sri Lanka
 [Data](articles/f84e4dd5.json)
 
 [Extended Data](ext_articles/f84e4dd5.ext.json)
+
+---
+
+### 14-year-old grandson arrested for stolen councilor
+
+*2024-02-08 15:35:34* · [`adalk`](https://www.ada.lk/breaking_news/ආච්චිගේ-ලක්ෂ-14-සොරාගත්-14-වියැති-මුණුබුරා-අත්අඩංගුවට/11-407968) · `si`
+
+A schoolgirl student arrested at a 14 lakhs of school which was stolen to Rs.
+
+The suspect was a 14 resident of Pepiliyawala, Dodangoda.
+
+The suspect was arrested by a woman engaged in a rubber man resident of Minuwadeniya, Dodangoda, Dodangeniya.
+
+The police said that a school student was a plaintiff woman's grandchildren and he was a resident of the site.
+
+The complainant had opened a door to the resident that the lady had to cover up the door of the house on the 1st of the night and had not been able to find out the cost of Rs.
+
+Accordingly, the suspect student was found in a cousin of Rs.
+
+The OIC Inspector OIC Inspector OIC Inspector OIC Inspector Gunawardena, Sergeant Kithsiri Dissanayake (44702), joined the raid.
+
+◼️
+
+[Data](articles/68c39562.json)
+
+[Extended Data](ext_articles/68c39562.ext.json)
 
 ---
 
@@ -2037,109 +2147,5 @@ The Minister of State Anne-Marie Trevelyan (Foreign, Commonwealth and Developmen
 [Data](articles/cc17cf10.json)
 
 [Extended Data](ext_articles/cc17cf10.ext.json)
-
----
-
-### 42 arrested, including those who harass women in public transport
-
-*2024-02-08 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/175856) · `ta`
-
-Police launched a special measures to detect children and girls and women in public transport services across the country.
-
-42 suspects, including sexual harassment, have been arrested.
-
-The arrested people include 18 people who have been sexually harassed and 5 people involved in walking theft.
-
-In response to many civil dressed police officers, many civil staff have been deployed to control such incidents in public transport services, said Inspector General of Police Deshabandu Tennakoon.
-
-◼️
-
-[Data](articles/eae69e19.json)
-
-[Extended Data](ext_articles/eae69e19.ext.json)
-
----
-
-### Man's wife attack on the head of his wife due to mobile phone call
-
-*2024-02-08 10:45:34* · [`adalk`](https://www.ada.lk/breaking_news/ජංගම-දුරකථන-ඇමතුම-නිසා-සැමියා-බිරිඳ-ගේ-හිසට-මන්නයකින්-පහරදෙයි/11-407960) · `si`
-
-A person who was assaulted by his wife's head and a person who was seriously injured yesterday, was arrested yesterday (08), "Panadura South Police say.
-
-The police said that a 56 shadow resident of Panadura Uyankele area in Panadura.
-
-A woman has been a woman who has been assaulted around 9.30 pm, and that the suspect had been disconnected at the house and was thus threw from the kitchen.Police say that investigations have been confirmed.
-
-A woman was attacked and admitted to the Panadura Base Hospital, said a hospital spokesman said.
-
-The suspect was also taken into police custody and the suspect was to be produced before the Panadura Magistrate.
-
-Panadura Division Criminal Laboratory Laboratory also conducted tests on the night.
-
-Senior Superintendent of Police Samantha Wedage, Assistant Superintendent of Police Office Inspector OIC Sub Inspector Hemal Weerasinghe
-
-◼️
-
-[Data](articles/3aa1743c.json)
-
-[Extended Data](ext_articles/3aa1743c.ext.json)
-
----
-
-### The President will address the theme "Permanent and Sustainable Indian Ocean" at the Indian Ocean Conference
-
-*2024-02-08 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175864) · `ta`
-
-President Ranil Wickremesinghe will deliver the keynote address at this year's conference, which will be held to Australia to attend the 7th Indian Ocean Conference, "A Permanent and Sustainable Indian Ocean".
-
-President Ranil Wickremesinghe traveled to Australia this morning (08) to attend the 7th Indian Ocean Conference in Perth, Australia.
-
-The President has gone to attend the conference at the invitation of the India Forum and the Australian government and the Seventh Indian Ocean Conference is being held in Perth, Australia on February 9 and 10.
-
-The Indian Ocean Conference was launched in 2016 to investigate the common aspirations and problems that affect the Indian Ocean and other countries that use the Indian Ocean.
-
-President Ranil Wickremesinghe will deliver the keynote address at this year's conference, which will be held on the theme "Permanent and Sustainable Indian Ocean".
-
-...
-
-[Data](articles/9ba9daf0.json)
-
-[Extended Data](ext_articles/9ba9daf0.ext.json)
-
----
-
-### 728 more suspects arrested during operation ‘Yukthiya’
-
-*2024-02-08 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97106/728-more-suspects-arrested-during-operation-yukthiya) · `en`
-
-A total of 728 more suspects have been arrested by Sri Lanka’s police and security forces personnel within a 24-hour window ending at 12.00 a.m. today (Feb. 08) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-According to the Ministry of Public Security, the narcotics taken into custody during this 24-hour window include 122g of heroin, 101g of crystal methamphetamine (Ice), 05kg 217g of cannabis, 23,521 cannabis plants and 1,852 narcotic pills.
-
-Out of the 728 suspects, 558 have been arrested over drug-related offences, while the other 170 suspects were identified as listed criminals in numerous police divisions, including the Police Narcotics Bureau (PNB) and the Police Special Task Force (STF). The Ministry also mentioned that warrants had been issued against 18 of the suspects for drug-related offences, and that 145 others had open warrants against them for non-drugs related offences.
-
-◼️
-
-[Data](articles/8f73e370.json)
-
-[Extended Data](ext_articles/8f73e370.ext.json)
-
----
-
-### United People's Power attempt to visit India following the national power
-
-*2024-02-08 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175863) · `ta`
-
-The United People's Power has called for such an opportunity as National United People's Power President Anura Kumaratisanayake has visited India.
-
-National People's Power Leader Anura Kumaratisanayake has made a five -day visit to India.
-
-The United People's Power, which has taken care of the positiveness of the nationalities through such a visit before the presidential election, has expressed its willingness to visit India.
-
-◼️
-
-[Data](articles/942d4429.json)
-
-[Extended Data](ext_articles/942d4429.ext.json)
 
 ---

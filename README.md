@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 18:32:46**
+As of **2024-02-08 18:50:55**
 
 ## Newspaper Stats
 
-*Scraped **5,775** Articles*
+*Scraped **5,782** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 64
 bbccomsinhala | 81
-dbsjeyarajcom | 141
+dbsjeyarajcom | 142
 islandlk | 299
-economynextcom | 302
+economynextcom | 307
 dailyftlk | 316
 newsfirstlk | 361
-adalk | 489
+adalk | 490
 adaderanalk | 712
 virakesarilk | 713
 tamilmirrorlk | 716
@@ -26,11 +26,29 @@ dailymirrorlk | 820
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,774 (100.0%) of 5,775 articles have been extended.
+5,775 (99.9%) of 5,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### Regnis and Singer Industries merge with Singer Sri Lanka
+
+*2024-02-08 18:00:00* · [`economynextcom`](https://economynext.com/regnis-and-singer-industries-merge-with-singer-sri-lanka-150456/) · `en`
+
+ECONOMYNEXT – Regnis (Lanka) Plc and Singer Industries (Ceylon) Plc have merged with parent company Singer (Sri Lanka) Plc, the consumer durables group with a financing arm.
+
+“We wish to inform the Colombo Stock Exchange that Regnis (Lanka) PLC (PQ 191) and Singer Industries (Ceylon) PLC (PQ 104) amalgamated with Singer (Sri Lanka) PLC (PQ 160) in terms of the Companies Act No. 7 of 2007 and shall continue as Singer (Sri Lanka) PLC with effect from 31st January 2024,” Singer said in a stock exchange filing on Thursday (8).
+
+“The Registrar General of Companies issued the certificate of amalgamation on 07th February 2024.”
+
+All three companies belong to the larger conglomerate Hayleys Group. (Colombo/Feb8/2024)
+
+◼️
+
+[Data](articles/c27763d4.json)
+
+---
 
 ### Talangamitha Jayasinghe retires to death
 
@@ -63,6 +81,8 @@ Premadasa accused the government of ignoring the court's recommendations on seve
 ...
 
 [Data](articles/70fdc586.json)
+
+[Extended Data](ext_articles/70fdc586.ext.json)
 
 ---
 
@@ -101,6 +121,26 @@ Sri Lanka squad - Kusal Mendis (Leader), Charith Waniekage, Donus Wella, Dr. Aka
 [Data](articles/5006d321.json)
 
 [Extended Data](ext_articles/5006d321.ext.json)
+
+---
+
+### Sri Lanka’s Asia Asset Finance rated ‘A+(lka)’ with a stable outlook: Fitch
+
+*2024-02-08 17:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-asia-asset-finance-rated-alka-with-a-stable-outlook-fitch-150420/) · `en`
+
+ECONOMYNEXT – Fitch Ratings said it has assigned a First-Time Rating of ‘A+(lka)’ Outlook Stable to Asia Asset Finance.
+
+“Fitch Ratings has assigned Sri Lanka-based Asia Asset Finance PLC a first-time National Long-Term Rating of ‘A+(lka)’ with a Stable outlook,” the rating agency said.
+
+Fitch Assigns Asia Asset Finance a First-Time Rating of ‘A+(lka)’; Outlook Stable
+
+Fitch Ratings – Colombo/Mumbai – 07 Feb 2024: Fitch Ratings has assigned Sri Lanka-based Asia Asset Finance PLC a first-time National Long-Term Rating of ‘A+(lka)’ with a Stable outlook.
+
+Asia Asset Finance is a 72.9%-owned subsidiary of India-based Muthoot Finance Ltd (MFL,BB/Stable). Its core business is in gold-backed lending, similar to its parent. Asia Asset Finance has a small market share of 1.6% of total finance and leasing company (FLC) industry assets.
+
+...
+
+[Data](articles/cf0ff8a7.json)
 
 ---
 
@@ -167,6 +207,32 @@ DIG Deputy Inspector General of Police Sampath Liyanage Badulla Liyanage, Badull
 [Data](articles/3b8f3987.json)
 
 [Extended Data](ext_articles/3b8f3987.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 313.00/50 to the US dollar
+
+*2024-02-08 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-313-00-50-to-the-us-dollar-150448/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 313.00/50 to the US dollar Thursday, from 313.00/50 on Wednesday, dealers said.
+
+A bond maturing on 01.02.2026 closed at 11.00/10 percent down from 11.05/20 percent.
+
+A bond maturing on 15.09.2027 closed at 11.65/85 percent down from 11.95/12.10 percent.
+
+A bond maturing on 15.03.2028 closed at 12.00/15 percent down from 12.15/25 percent.
+
+A bond maturing on 15.07.2029 closed at 12.45/75 percent from 12.50/75 percent.
+
+A bond maturing on 15.05.2030 closed at 12.40/65 percent down from 12.60/80 percent.
+
+A bond maturing on 15.05.2031 closed at 12.70/13.05 percent from 12.55/13.00 percent.
+
+A bond maturing on 01.07.2032 closed at 12.80/13.05 percent from 12.75/13.00 percent. (Colombo/Feb8/2024)
+
+◼️
+
+[Data](articles/4a055379.json)
 
 ---
 
@@ -257,6 +323,20 @@ Member of Parliament should have mentioned the cost of 2023 instead of 2022. The
 [Data](articles/98040984.json)
 
 [Extended Data](ext_articles/98040984.ext.json)
+
+---
+
+### ජෝර්දාන් ඇගළුම් කර්මාන්තශාලා සේවකයින්ගේ ගැටළුව විසදෙයි
+
+*2024-02-08 16:53:31* · [`adalk`](https://www.ada.lk/breaking_news/ජෝර්දාන්-ඇගළුම්-කර්මාන්තශාලා-සේවකයින්ගේ-ගැටළුව-විසදෙයි/11-407971) · `si`
+
+ජෝර්දානයේ අසිල් සහ හයි ඇපරල් යන ඇඟලුම් කර්මාන්තශාලා වසා තැබීම නිසා රැකියා අහිමි වූ ශ්‍රි ලාංකික ශ්‍රමිකයින්ගෙන් 60 දෙනෙකු හෙට දින අලුයම (2024.02.09) ජසීරා ගුවන් සේවයට අයත් J9 252 යන යානය මගින් දිවයිනට පැමිණීමට නියමිතය.
+
+ජෝර්දානයේ අසිල් සහ හයි ඇපරල් යන ඇඟලුම් කර්මාන්තශාලා වසා තැබීම නිසා ශ්‍රි ලාංකික ශ්‍රමිකයින් 221 දෙනෙකුට රැකියා අහිමි විය.
+
+...
+
+[Data](articles/1711fb46.json)
 
 ---
 
@@ -514,6 +594,26 @@ Accordingly, the cost of a kilo of Rs.. 700, beans Rs.. 500, though, green chill
 
 ---
 
+### Sri Lanka stocks close up, turnover tops 1bn
+
+*2024-02-08 16:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-tops-1bn-150418/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader All Share Index closed up 19.35 points, or 0.18 percent at 10,547, while the S&P SL20 Index crossed the 3,000 mark to close at 3,015 points, up 0.61 percent, or 18.24 points.
+
+Turnover topped 1 billion. LB Finance Plc saw fairly high volumes (111mn) being traded, the share closed flat at 31.00. Capital Alliance Plc also saw large volumes traded (104mn) and the share closed up at 52.40.
+
+With the further decline in bond yield rates, market participants said investor interest in the stock exchange had returned, adding that some of the primary dealing counters saw some activity.
+
+Contributors to ASPI in the day included Hayleys Plc (up at 77.50), DFCC Bank Plc (up at 78.90) Central Finance Company Plc (up at 109.75), and Hemas Holdings Plc (up at 71.10). (Colombo/Feb8/2024).
+
+◼️
+
+[Data](articles/2d89faaf.json)
+
+---
+
 ### There is no news of 'Jerem Son' for 22 days
 
 *2024-02-08 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193136) · `si`
@@ -689,6 +789,22 @@ The second highest household electricity charges in the region are in Pakistan; 
 [Data](articles/ee4ffd0a.json)
 
 [Extended Data](ext_articles/ee4ffd0a.ext.json)
+
+---
+
+### HWIC Asia Fund increases holding in Sri Lanka’s JKH from 8.6 to 13-pct
+
+*2024-02-08 15:27:00* · [`economynextcom`](https://economynext.com/hwic-asia-fund-increases-holding-in-sri-lankas-jkh-from-8-6-to-13-pct-150410/) · `en`
+
+ECONOMYNEXT – HWIC Asia Fund, a private equity fund focused on financial and multiple sectors, has increased its holdings in Sri Lanka conglomerate John Keells Holdings Plc from 8. percent to 13 percent.
+
+“Our holding of 119,200,760 ordinary shares representing 8.6% of the outstanding ordinary shares in John Keells Holdings PLC (“JKH”) increased to 181,105,699 ordinary shares representing 13.0% on 07 February 2024 pursuant to the acquisition by us, of 61,904,939 ordinary shares (representing 4.5%) of JKH on the floor of the Colombo Stock Exchange,” the fund said in a stock exchange filing.
+
+Wednesday’s trade of JKH shares (11.3mn) pushed the CSE’s daily turnover past 12 billion. On Thursday the share was trading up at 184.00. (Colombo/Feb8/2024)
+
+◼️
+
+[Data](articles/0df5c4a0.json)
 
 ---
 
@@ -2013,135 +2129,5 @@ Responding to questions by Opposition Leader Sajith Premadasa and SJB MP Harsha 
 [Data](articles/105f4749.json)
 
 [Extended Data](ext_articles/105f4749.ext.json)
-
----
-
-### Interest free loan provided to university students has not yet been issued - Sajith
-
-*2024-02-08 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175865) · `ta`
-
-Opposition Leader Sajith Premadasa said that the government has given credit concessions to traders who failed to pay millions of loans, but the interest free loans given to university students have not yet been issued.
-
-In the past, the interest free loan scheme for their higher education for students studying in private universities has been suspended.
-
-Opposition Leader Sajith Premadasa told Parliament today (08) that the United People's Power has revealed that the United People's Power has been re -brought back to the parliament's dream.
-
-The permission of the loan has been sent to the Central Bank and the solution has been provided, but it has not yet been implemented.
-
-Candidates for this are currently underway and this loan is not being issued, so as soon as these credit facilities are available.. The opposition leader added that the opportunity to enter universities is being denied as the loan is not provided.
-
-...
-
-[Data](articles/180f3317.json)
-
-[Extended Data](ext_articles/180f3317.ext.json)
-
----
-
-### Jagath Priyankara Member of Parliament
-
-*2024-02-08 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175860) · `ta`
-
-Puttalam District Parliamentarian Sanath Nishantha, who died in the accident, was sworn in the vacant parliamentary seat of Jagath Priyankara.
-
-The proceedings of the Parliament today began under the leadership of Speaker Mahinda Yapa Abeywardena.
-
-At the beginning of parliamentary action, Jagath Priyankara took oaths in the presence of the Speaker as a Member of Parliament.
-
-Puttalam district parliamentarian Sanath Nishantha, who died in the accident, was sworn in by Jagath Priyankara for a vacuum.
-
-It is noteworthy that the debate on the government's policy speech presented in Parliament by President Ranil Wickremesinghe is being held on Thursday (08).
-
-◼️
-
-[Data](articles/345bfc11.json)
-
-[Extended Data](ext_articles/345bfc11.ext.json)
-
----
-
-### Three cops interdicted over alleged poisoning of 2 suspects in custody
-
-*2024-02-08 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97108/three-cops-interdicted-over-alleged-poisoning-of-2-suspectsincustody) · `en`
-
-Three police officers have been interdicted in connection with the alleged poisoning of two suspects held in a cell at the Aduruppu Veediya police station. Reportedly, the duo had fallen ill after consuming a packet of milk handed to them by a visitor.
-
-They had been arrested by the police over a recent shooting incident that took place in Jinthupitiya.
-
-Two assailants on a motorcycle had opened fire in Jinthupitiya on January 25, leaving a youth injured. The gunman had escaped the crime scene while the bystanders captured his accomplice. The fleeing gunman was later apprehended in Dambadeniya and was brought to the Aduruppu Veediya police station for interrogation.
-
-Later, another suspect was also taken into custody for aiding and abetting the shooting.
-
-The apprehended gunman and the third suspect were reportedly held in the same cell at the Aduruppu Veediya police station.
-
-...
-
-[Data](articles/3526e02c.json)
-
-[Extended Data](ext_articles/3526e02c.ext.json)
-
----
-
-### Jagath Priyankara sworn in
-
-*2024-02-08 11:06:37* · [`adalk`](https://www.ada.lk/breaking_news/ජගත්-ප්‍රියංකර-මහතා-දිවුරුම්-දෙයි/11-407962) · `si`
-
-Jagath Priyankara was sworn in before the vacancies of the late Minister of State Sanath Nishantha.
-
-The highest number of preferential votes from the Puttalam district representing the Sri Lanka Filling Front was elected after the accident.
-
-◼️
-
-[Data](articles/56bd46a1.json)
-
-[Extended Data](ext_articles/56bd46a1.ext.json)
-
----
-
-### Female doctor abuse: Male doctor arrested
-
-*2024-02-08 11:05:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-வைத்தியர்-துஷ்பிரயோகம்-ஆண்-வைத்தியர்-கைது/175-332884) · `ta`
-
-Anaranayaka police said that a doctor at the hospital was arrested on Thursday (8) in connection with the sexual abuse of a 28 -year -old woman at the district hospital.
-
-A 45 -year -old married doctor was arrested at the Aranayaka District Hospital, police said.
-
-The male doctor has been arrested according to the complaint filed by the father of the female doctor. It is also reported that the female doctor has been transferred from a different hospital and has come to work at the Aranayaka District Hospital on the 5th.
-
-Police said the affidavit had been filed with the doctor and five persons who were abused and that the woman who was facing the incident was to be present at the legal doctor of the Teaching Hospital.
-
-◼️
-
-[Data](articles/4fa8870a.json)
-
-[Extended Data](ext_articles/4fa8870a.ext.json)
-
----
-
-### A hacker gang to cling to bank accounts with the guise of TIN information
-
-*2024-02-08 11:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193126) · `si`
-
-According to the DIG's Office, the DIG's Office has revealed that the people have been deceived by the Department of Revenue, to identify the TIN number issued by the Department of Inland Revenue.
-
-The DIG's Office has received information about the loss of millions of rupees.
-
-The racketeers will be asked to have the bank's money transfer secret number (OPT) to maintain the bank account as the staff members of a state bank.
-
-Some people have been provided with awareness that he is a fraudulent.
-
-DIG in charge of the Kurunegala District has revealed that the fraudulent group was included in the man's bank account and obtaining the money in the bank account.
-
-The fraudulent gang deceived their customers this, the fraudulent gang has received Rs.
-
-According to the internal sources of a state bank that a sum of Rs.
-
-The DIG, who communicates the people, will inform the people not to inform people through telephones and capture personal information.
-
-...
-
-[Data](articles/b5f9769d.json)
-
-[Extended Data](ext_articles/b5f9769d.ext.json)
 
 ---

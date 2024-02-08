@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 15:32:50**
+As of **2024-02-08 15:50:49**
 
 ## Newspaper Stats
 
-*Scraped **5,733** Articles*
+*Scraped **5,739** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,126 @@ islandlk | 299
 economynextcom | 302
 dailyftlk | 316
 newsfirstlk | 359
-adalk | 482
+adalk | 483
 virakesarilk | 705
 adaderanalk | 707
 tamilmirrorlk | 712
-adaderanasinhalalk | 751
+adaderanasinhalalk | 756
 dailymirrorlk | 814
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,731 (100.0%) of 5,733 articles have been extended.
+5,733 (99.9%) of 5,739 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### ඔස්ට්‍රේලියානු කර්මාන්ත ක්ෂේත්‍රයේ ලොකු වෙනසක්
+
+*2024-02-08 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193135) · `si`
+
+තමාගේ වැඩ මුරය නිම වීමෙන් අනතුරු ව තමන්ට සිය ආයතන ප්‍රධානින්ගෙන් ලැබෙන අසාධාරණ දුරකථන ඇමතුම් සහ පණිවුඩ නොසලකා හැරීමේ අයිතිය තහවුරු කිරීමේ නව නීතියක් හඳුන්වාදීමට ඔස්ට්‍රේලියාව පියවර ගනිමින් සිටියි.
+
+එම නීතිය උල්ලංඝනය කරන හාම්පුතුන්ට එරෙහි ව දඩ නියම කිරීමට ද එහි ප්‍රතිපාදන පවතින බව වාර්තා වේ.
+
+එරට කර්මාන්ත ක්ෂේත්‍රයට අදාළ නීති කිහිපයක් සංශෝධනය කිරීමට සැලසුම් කර ඇති අතර "right to disconnect" යන නව නීතිය ඒ යටතේ හඳුන්වාදීමට නියමිත ය.
+
+නව නීතිය මගින් සේවකයින්ගේ රැකියාව සහ ජීවිතය අතර සමතුලිතතාව ඇති කිරීමට හැකියාව ලැබෙනු ඇති බවට අනුමාන කෙරේ.
+
+◼️
+
+[Data](articles/031c107d.json)
+
+---
+
+### ඔන්ලයින් පනතේ අඩුපාඩු ඇති බව අධිකරණ ඇමති පිළිගනී
+
+*2024-02-08 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193134) · `si`
+
+මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනතේ යම් අඩුපාඩු පවතින බවට නිරීක්ෂණය වී ඇති බවට අධිකරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතා පවසයි.
+
+ඒ සඳහා අවශ්‍ය සංශෝධන ඉදිරිපත් කරන්නේනම් ඒ පිළිබඳ සාකච්ඡා කිරීමට සුදානම් බවද ඔහු පැවසීය.
+
+අද (08) පාර්ලිමේන්තුවේදී විපක්ෂයේ මන්ත්‍රීවරුන් එම පනත සම්බන්ධයෙන් යොමු කළ ප්‍රශ්නවලට පිළිතුරු ලබා දෙමින් අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+
+මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත සම්බන්ධයෙන් ගෙවිදු කුමාරතුංග මන්ත්‍රීවරයා මෙවන් අදහසක් පළ කළා.
+
+"මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පතට අභියෝග කරන පෙත්සම් 40කට වැඩි ප්‍රමාණයක් තිබුණා. සති ගණනක් මේ පිළිබඳව විභාග පවත්වලා අධිකරණය ලබාදුන් නියෝගය... ශ්‍රේෂ්ඨාධිකරණය නඩු තීන්දුවෙන් සඳහන් කරපු සියලු කරුණු සැලකිල්ලට භාජනය කරලා අවසානයේදී ඒවා සංශෝධන හදලා නීතිපතිවරයාගෙන් සහතිකයක් අරගෙන තමයි අපි පාර්ලිමේන්තුවට සංශෝධන ඉදිරිපත් කරන්නේ."
+
+"අධිකරණයට කියන්න බැහැ මේක ගේන්නද? ගේන්න එපා කියන්න අධිකරණයට බලයක් නැහැ. අධිකරණයට තිබෙන එකම බලය තමයි යම් වගන්තියක් ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුකූලද අනනුකූලද කියලා තීරණය කරන එක."
+
+...
+
+[Data](articles/0c3ec0d4.json)
+
+---
+
+### තවත් වෙඩික්කරුවෙක් පොලීසියට කොටුවෙයි
+
+*2024-02-08 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193133) · `si`
+
+නවගමුවේ දී පුද්ගලයෙකු පැහැරගෙන ගොස් වෙඩිතබා ඝාතනය කිරීමේ සිදුවීමට අදාළ සැකකරුවෙකු අද (08) අත්අඩංගුවට ගෙන තිබේ.
+
+වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසා සිටියේ, අද (08) උදෑසන නුගේගොඩ පොලීසිය විසින් විශේෂ අපරාධ විමර්ශන අංශයෙන් එම වෙඩිතැබීම සිදුකළ පුද්ගලයාව දිඹුලාගල ප්‍රදේශයේ දී අත්අඩංගුවට ගත් බවය.
+
+කඩුවෙල කොරතොට ප්‍රදේශයේ නිවසකට පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් ලෙස පවසමින් සම්පූර්ණයෙන් මුහුණු ආවරණය කෙරෙන යතුරුපැදි හිස් ආවරණ පැලඳ යතුරු පැදියකින් පැමිණි දෙදෙනෙකු විසින් එම නිවසේ සිටි පුද්ගලයකු පැහැර ගෙන ගොස් ජනවාරි මස 10 වනදා රාත්‍රියේ හිසට වෙඩි තබා ඝාතනය කර තිබිණි.
+
+පැහැරගෙන ගොස් තිබූ පුද්ගලයා මාලඹේ තුන්අදහේන, දෙල්ගහවත්ත, මහවෙල පාලමක් අසලදී බිම නිදිකරවා මිලිමීටර් නවය වර්ගයේ ගිනිඅවියකින් හිස ප්‍රදේශයට වෙඩි තබා තිබූ බවත් පසුව තුවාලකරු අතුරුගිරිය ඔරුවල ප්‍රාදේශීය රෝහලට ඇතුළත් කිරීමෙන් පසු වැඩිදුර ප්‍රතිකාර සඳහා කොළඹ ජාතික රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇතැයි ද පොලීසිය සඳහන් කළේය.
+
+...
+
+[Data](articles/dc52776e.json)
+
+---
+
+### ආබාධිත, වැඩිහිටි සහ වකුගඩු දීමනා ඉහළට
+
+*2024-02-08 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193132) · `si`
+
+ආබාධිත, වැඩිහිටි සහ වකුගඩු දීමනාව ජනවාරි මස සිට බලපැවැත්වෙන පරිදි ඉහළ නංවන බව මුදල් රාජ්‍ය අමාත්‍ය ෂෙහාන් සේමසිංහ මහතා පවසයි.
+
+ඒ අනුව රුපියල් 5,000ක්ව පැවැති ආබාධිත සහ වකුගඩු දීමනාව රුපියල් 7,500ක් දක්වා ද, රුපියල් 2,000ක්ව පැවැති වැඩිහිටි දීමනාව රුපියල් 3,000 දක්වා ද ඉහළ නංවන බව රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+මේ අතර දැනට අස්වැසුම ප්‍රතිලාභී පවුල් තුළ සිටින ආබාධිත, වැඩිහිටි සහ වකුගඩු දීමනා ලැබීමට සුදුස්සන් මෙම වසරේ පළමු කාර්තුව තුළ හඳුනාගැනීමට නියමිත අතර ඉන් පසු ඔවුන්ට ද මෙම වැඩිකළ දීමනාව අප්‍රේල් මස 01 සිට ලබාදීමට නියමිතය.
+
+මේ අතර මාර්තු මස 31 අවසන් වීමට නියමිතව තිබූ අස්වැසුම ප්‍රතිලාභ යටතේ අවදානමට ලක් වූ සහ සංක්‍රාන්තික කාණ්ඩයේ ගෙවීම් දෙසැම්බර් මස 31 දක්වා සිදුකරන බව රාජ්‍ය අමාත්‍යවරයා පැවසුවේය.
+
+දැනට සංක්‍රාන්තික කාණ්ඩය සඳහා රුපියල් 2,500ක් ද අවදානමට ලක් වූ කණ්ඩය සඳහා රුපියල් 5,000ක දීමනාවක් හිමි වූ අතර ඉදිරියේ දී එම කාණ්ඩ දෙක එක්කොට පවුල් ලක්ෂ 8ක පිරිස එකම අවදානමට ලක් වූ කාණ්ඩය සේ සලකා රුපියල් 5,000ක දීමනාවක් ලබා දෙන බව අමාත්‍යවරයා වැඩිදුරටත් ස﻿ඳහන් කළේය.
+
+◼️
+
+[Data](articles/f1f15649.json)
+
+---
+
+### ලොව ධනවත්ම කාන්තාවන් 10 දෙනා මෙන්න
+
+*2024-02-08 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193131) · `si`
+
+ලොව ධනවත්ම කාන්තාවන් 10 දෙනා පිළිබඳව මේ වනවිට ලෝකයේම අවධානය යොමුව තිබේ.
+
+එහි පෙරමුණ ගෙන ඇත්තේ ප්‍රංශ ජාතික ලෝප්‍රකට රූපලාවන්‍ය නිෂ්පාදන සමාගමක නිර්මාතෘවරයාගේ මිණිබිරිය වීම විශේෂත්වයකි.
+
+ප්‍රංශ ජාතික Francoise Bettencourt Meyers නම් ඇයගේ ශුද්ධ වත්තකම අමෙරිකානු ඩොලර් බිලියන 99.5ක් ලෙස සටහන්ව තිබේ.
+
+එහි දෙවන ස්ථානය හිමිකරගෙන ඇත්තේ අමෙරිකානු ජාතික ව්‍යාපාරික කාන්තාවක් වන 74 හැවිරිදි වියේ පසුවන Alice Walton විසින්.
+
+ඇයගේ ශුද්ධ වත්කම ලෙස සඳහන් ව ඇත්තේ අමෙරිකානු ඩොලර් බිලියන 64.8ක් ලෙසටය.
+
+අමෙරිකානු ඩොලර් බිලියන 60.1ක් හිමිකරගෙන සිටින 62 හැවිරිදි Julia Koch නමැති කාන්තාව එම ලැයිස්තුවේ 3 වන ස්ථානය හිමිකරගෙන සිටියි.
+
+ඩොලර් බිලියන 39.8ක් හිමිකරගෙන සිටින අමෙරිකානු ජාතික 84 හැවිරිදි වියේ පසුවන Jacqueline Mars එම ලැයිස්තුවේ 4 වන ස්ථානයට පත්ව තිබේ.
+
+මේ අතර Amazon නිර්මාතෘ Jeff Bezosගේ දික්කසාද බිරිඳ වන 53හැවිරිදි වියේ පසුවන Mackenzie Scott ඩොලර් බිලියන 34.5 ක් හිමිකරගෙන එහි 5 වන ස්ථානයට එළැඹ ඇත.
+
+...
+
+[Data](articles/0bf7a320.json)
+
+---
 
 ### Anuragumara has gone to India because Ranil has done brainwashed - Minister Nimal
 
@@ -225,6 +329,28 @@ The accused, along with seized Pregabalin capsules, have been handed over to the
 [Data](articles/e4eeba48.json)
 
 [Extended Data](ext_articles/e4eeba48.ext.json)
+
+---
+
+### මල්වතු හිරිපිටිය විහාරස්ථානයේ හිමිනම ඝාතනයට සම්බන්ධ රියදුරු අත්අඩංගුවට
+
+*2024-02-08 13:28:39* · [`adalk`](https://www.ada.lk/breaking_news/මල්වතු-හිරිපිටිය-විහාරස්ථානයේ-හිමිනම-ඝාතනයට-සම්බන්ධ-රියදුරු-අත්අඩංගුවට/11-407966) · `si`
+
+ගම්පග මල්වතු හිරිපිටිය පොලිස් වසමේ විහාරස්ථානයක හිමිනමක් ඉකුත් ජනවාරි 23  ඝාතනය කිරීමේ සිද්ධියට සම්බන්ධ වාහනයේ රියදුරු ලෙස කටයුතු කල බවට සැක කෙරෙන පුද්ගලයෙකු ගිනි අවි ජීව උණ්ඩ හා මත්ද්‍රව්‍ය සමග (07)  දා රාත්‍රී අත්අඩංගුවට ගත් බව බස්නාහිර පළාත උතුර අපරාධ කොට්ඨාසය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ  හෝමාගම මුල්ලේගම ප්‍රදේශයේ පදිංචි වීරසිංහ ආරච්චිගේ රසික තරංග පෙරේරා (අවු.29) නැමැති පුද්ගලයකු බව පොලිසිය කියයි.
+
+අත්අඩංගුවට ගත් සැකකරු සන්තකයේ තිබී  විදේශ රටක නිෂ්පාදිත ජීව අත්බෝම්බයක් ,T-56 ගිනි අවියක් , උණ්ඩ 15 , T-56 උණ්ඩ යෙදිය හැකි පතොරම් ගැබ් 02 , මිලි මීටර් නමය වර්ගයේ ගිනි අවියක් , මිලිමීටර් නවය වර්ගයේ පිස්තෝල අවියක්, උන්ඩ 02 , එම උණ්ඩ යෙදිය හැකි පතරම් ගැබක්,
+
+අංක WP BG 2059 දරණ ව්‍යාජ අංක තහඩු සහිත බජාජ් පල්සර් යතුරු පැදිය
+
+අපරාධය සදහා යොදාගත් අංක CAQ 0365 දරණ කාර් රථයේ ස්විච් යතුරක්,
+
+ජංගම දුරකථනයක් පොලිස් භාරයට ගෙන තිබේ.අත්අඩංගුවට ගත් සැකකරු හෝමාගම මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/3385c3ae.json)
 
 ---
 
@@ -1987,113 +2113,5 @@ A delegation with the president has gone and they will leave the Katunayake airp
 [Data](articles/07d1c3ec.json)
 
 [Extended Data](ext_articles/07d1c3ec.ext.json)
-
----
-
-### Jagath Priyankara sworn in
-
-*2024-02-08 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193119) · `si`
-
-Jagath Priyankara took oaths before the Speaker today (08) as a Member of Parliament.
-
-Jagath Priyankara was sworn in due to the vacant seat to the vacant seat.
-
-◼️
-
-[Data](articles/762f9cbe.json)
-
-[Extended Data](ext_articles/762f9cbe.ext.json)
-
----
-
-### Parliamentary proceedings begins
-
-*2024-02-08 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193118) · `si`
-
-Meanwhile, Jagath Priyankara was sworn in as a Member of Parliament today (08) as a Member of Parliament with the vacant commander of Mr. Sanath Nishantha.
-
-◼️
-
-[Data](articles/379709ce.json)
-
-[Extended Data](ext_articles/379709ce.ext.json)
-
----
-
-### Mobile phone services suspended across Pakistan as voting begins
-
-*2024-02-08 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97102/mobile-phone-services-suspended-across-pakistan-as-voting-begins) · `en`
-
-Pakistan temporarily suspended mobile phone services on Thursday to strengthen security as voting began in the country’s national election, the interior ministry said.
-
-The government’s decision comes amidst a rise in militant attacks in the run-up to the election and a day after jailed former Prime Minister Imran Khan urged his supporters to wait outside polling booths after voting until results are announced.
-
-“As a result of the recent incidents of terrorism in the country precious lives have been lost, security measures are essential to maintain the law and order situation and deal with possible threats, hence the temporary suspension of mobile services across the country,” the interior ministry said in a message on X.
-
-Two blasts near election offices on Wednesday killed 26 people in the southwestern province of Balochistan.
-
-...
-
-[Data](articles/dacecbcf.json)
-
-[Extended Data](ext_articles/dacecbcf.ext.json)
-
----
-
-### Buddhist monk shot dead;Arrest
-
-*2024-02-08 09:28:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பௌத்த-பிக்கு-சுட்டுக்-கொலை-ஒருவர்-கைது/175-332873) · `ta`
-
-A suspect has been arrested in connection with the shooting of a Piku in a Vihara in Malwathuhiripitiya, Gampaha.
-
-Police have arrested the suspect in the Western Province Northern Criminal Investigation Division.
-
-It is also reported that the man who used the vehicle and the gun was arrested for murdering the Piku.
-
-On the morning of January 23, a man was shot dead in a Gampaha Malwatuhiripitiya Vihara.. Remble
-
-◼️
-
-[Data](articles/5ea89d3c.json)
-
-[Extended Data](ext_articles/5ea89d3c.ext.json)
-
----
-
-### Suspect arrested over temple shooting that killed a Buddhist monk
-
-*2024-02-08 09:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/97101/suspect-arrested-over-temple-shooting-that-killed-a-buddhist-monk) · `en`
-
-A man has been arrested on suspicion of his involvement in the killing of a Buddhist monk at a temple in the Malwathuhiripitiya area last month.
-
-The arrest was made by the Western/North Crimes Division during a late-night operation conducted yesterday.
-
-In addition, the T-56 rifle used by the perpetrators was also recovered from the possession of the 29-year-old suspect.
-
-A group of four assailants, who had arrived in a car, shot dead a Buddhist monk inside a temple in the Malwathuhiripitiya area of Gampaha in the early hours of January 23.
-
-The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustained critical injuries in the incident, had been rushed to the Gampaha Hospital. But he later succumbed to injuries while receiving treatment.
-
-◼️
-
-[Data](articles/ea053641.json)
-
-[Extended Data](ext_articles/ea053641.ext.json)
-
----
-
-### Today
-
-*2024-02-08 09:19:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொள்கை-விளக்க-உரை-ஒத்திவைப்பு-வேளை-விவாதம்-இன்று/175-332872) · `ta`
-
-The postponement debate on the government's policy speech presented in Parliament by President Ranil Wickremesinghe will commence today (08).
-
-The debate will be held from 09.30 am to 05.30 pm.. Remble
-
-◼️
-
-[Data](articles/81e996db.json)
-
-[Extended Data](ext_articles/81e996db.ext.json)
 
 ---

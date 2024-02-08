@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 07:52:46**
+As of **2024-02-08 08:02:24**
 
 ## Newspaper Stats
 
-*Scraped **5,596** Articles*
+*Scraped **5,599** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 64
 bbccomsinhala | 78
-dbsjeyarajcom | 140
+dbsjeyarajcom | 141
 economynextcom | 296
 islandlk | 299
 dailyftlk | 316
-newsfirstlk | 342
+newsfirstlk | 344
 adalk | 472
 virakesarilk | 684
 adaderanalk | 692
@@ -26,7 +26,7 @@ dailymirrorlk | 792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,596 (100.0%) of 5,596 articles have been extended.
+5,599 (100.0%) of 5,599 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,50 @@ The Sri Lankan leader has been invited to deliver the keynote address for the 7t
 [Data](articles/46118b56.json)
 
 [Extended Data](ext_articles/46118b56.ext.json)
+
+---
+
+### President leaves for Australia
+
+*2024-02-08 07:10:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/president-leaves-for-australia/) · `en`
+
+COLOMBO (News 1st); President Ranil Wickremesinghe has left for Australia.
+
+The Head of State is visiting Australia to participate in the 7th Indian Ocean Conference, based on an invitation to deliver the keynote address.
+
+The 7th edition of the Conference is being organized by India Foundation in association with the Ministry of External Affairs, Government of India, Department of Foreign Affairs and Trade, Government of Australia, S. Rajaratnam School of International Studies, Singapore, and Perth USAsia Centre on February 9 -10, 2024, in Perth, Australia.
+
+With the theme “Towards a Stable and Sustainable Indian Ocean”, the Conference will bring together key stakeholders to chart the roadmap for strengthening regional cooperation.
+
+◼️
+
+[Data](articles/9d97adfb.json)
+
+[Extended Data](ext_articles/9d97adfb.ext.json)
+
+---
+
+### Adjournment debate on policy statement today (08)
+
+*2024-02-08 07:08:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/adjournment-debate-on-policy-statement-today-08/) · `en`
+
+COLOMBO (New 1st); The Parliament adjournment debate on the policy statement presented by the President following the ceremonial opening of the fifth session of the Ninth Parliament commences on Friday (08).
+
+Parliament proceedings are scheduled to commence at 9.30am on Friday (08).
+
+The special feature of an adjournment proposal is that a vote will not be held.
+
+In the past, after the government's policy statement or throne speech was delivered, a poll was held at the end of the debate, but after 1978, no debate was held.
+
+On Thursday (07), in a speech marking the opening of the fifth session of the Ninth Parliament, President Ranil Wickremesinghe extended a renewed invitation to all political parties to unite in rebuilding the nation, facing numerous economic and social challenges.
+
+The President expressed openness to alternative approaches, noting that if there are better methods than the current policies, he is ready to consider them in depth.
+
+...
+
+[Data](articles/809e645a.json)
+
+[Extended Data](ext_articles/809e645a.ext.json)
 
 ---
 
@@ -847,6 +891,26 @@ The gazette was issued under Article 44(3) of the Constitution of the Democratic
 [Data](articles/c0a115f0.json)
 
 [Extended Data](ext_articles/c0a115f0.ext.json)
+
+---
+
+### என். சண்முகதாசன : சமரசம் செய்யாத ஒரு கம்யூனிசவாதியின் அரசியல் வாழ்வு
+
+*2024-02-07 21:25:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83571) · `en`
+
+( சண்முகதாசனின் 31 வது நினைவு தினம் இன்றாகும் (8 -2 2024). அதை முன்னிட்டு இந்த கட்டுரை பிரசுரமாகிறது)
+
+‘ பல்கலைக்கழகத்தில் எனது இரண்டாவது ஆண்டு ,1939 — 40, எனது முழு வாழ்க்கையினதும்  திசையை மாற்றிய அந்த ஆண்டில் நான் ஒரு கம்யூனிஸ்ட் ஆகினேன். அதன் பின்னர் நான் அதனின்று வழுவவேயில்லை.’
+
+இந்த வார்த்தைகளுடன் ஆரம்பிக்கிறார் சண்முகதாசன் தனது அரசியல் நினைவுகள் பற்றிய நூலை. அரசியலில் ஐம்பது ஆண்டுகளை நிறைவு செய்த சந்தர்ப்பத்தில் ‘Political Memoirs of an Unrepentant Conmmunist ‘ எனும் தலைப்பில் அவர் ஆங்கிலத்தில் எழுதிய நூல் 1989 ஜூலையில் கொழும்பில் வெளியிடப்பட்டது.
+
+இன்று அந்த நூலையும் அவருடைய மற்றைய அரசியல் எழுத்துக்களையும் வாசிப்பவர்கள் சண்முகதாசனின் அரசியல் வாழ்க்கை இலங்கையின் இடதுசாரி இயக்கத்தின் வரலாற்றுடன் மிகவும் பின்னிப்பிணைந்திருப்பதை உணருவர். அவர் கொண்டிருந்த சர்வதேச அரசியல் தொடர்புகள் பற்றியும் பல தகவல்களை அந்த நூல் தருகிறது.
+
+...
+
+[Data](articles/3a0267bd.json)
+
+[Extended Data](ext_articles/3a0267bd.ext.json)
 
 ---
 
@@ -1919,65 +1983,5 @@ More than 2000 alumni have traveled and participated in the program. ”
 [Data](articles/4b14184e.json)
 
 [Extended Data](ext_articles/4b14184e.ext.json)
-
----
-
-### Some form of refusal
-
-*2024-02-07 16:33:03* · [`adalk`](https://www.ada.lk/sports/ප්‍රතික්ෂේප-කිරිම-යම්-ආකාරයක-අභිප්‍රේරණයක්/9-407955) · `si`
-
-IPL. Sri Lanka women's cricket leader Chamari, who was "tempted" and was "tempted" that no group would be "tempted" to buy any group in the Women's Premier League Auction.
-
-"I didn't shock. I was surprised because they didn't choose me. "Atapattu told a press conference on Tuesday.
-
-"But these things are not in my control. I think I can control these decisions - some trainers or some [groups] management. I can't control these things, but I can control my batting, my bowling. I want to do what I can do. I make these decisions with good mood and my best. "She said.
-
-"Refusal is a motivated for me," she said. "It's good for me, because sometimes I have things to learn. I want to show what I can do, if someone says it is impossible, do it first - it's my vision. I just want to prove me what I can do. "
-
-◼️
-
-[Data](articles/2064d6e4.json)
-
-[Extended Data](ext_articles/2064d6e4.ext.json)
-
----
-
-### Station Question for Change Policy
-
-*2024-02-07 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175813) · `ta`
-
-The station for alternative policy is suspicious of the reason why the government has urgently passed the Ceremonial Security Act;-Apply deleted to remove
-
-The Center for Change Policy has issued a strong opposition to the Sri Lankan government.
-
-The center for the alternative policy has been questioned about the government's aim of reprimanding the confidentiality and the urgent need to be fulfilled in the process of creating the Ceremonial Security Act.
-
-The Center for Change Policy, which has questioned the purpose of implementing the law urgently, said the law would have a significant impact on the rule of the law of freedom of expression.
-
-The Center for Change Policy has expressed concern over the failure of the government to fully consider the amendments made by the High Court regarding the particular bill.
-
-...
-
-[Data](articles/7f3add4d.json)
-
-[Extended Data](ext_articles/7f3add4d.ext.json)
-
----
-
-### Maldives appoints new Ambassador to Sri Lanka
-
-*2024-02-07 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97086/maldives-appoints-new-ambassador-to-sri-lanka) · `en`
-
-President of the Maldives, Dr. Muizzu submitted nominations for the ambassadorial positions of three countries to the Parliament on Tuesday (Feb.06).
-
-In his correspondence to Parliament, President Muizzu put forth names for the ambassadorial appointments to Sri Lanka, Malaysia, Belgium and the European Union, in accordance with Article 14 of the Maldives’ Foreign Service Act.
-
-Masood Imad, who is designated as the ambassador to Sri Lanka, previously served as the Press Secretary of the Government of Mohamed Waheed. Geela Ali, the nominee for Belgium and the EU, formerly held the position of Permanent Secretary at the Ministry of Health and has prior experience within the foreign ministry.
-
-◼️
-
-[Data](articles/8bf607a1.json)
-
-[Extended Data](ext_articles/8bf607a1.ext.json)
 
 ---

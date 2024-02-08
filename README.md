@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 23:51:44**
+As of **2024-02-09 00:02:22**
 
 ## Newspaper Stats
 
-*Scraped **5,823** Articles*
+*Scraped **5,824** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 68
 bbccomsinhala | 81
 dbsjeyarajcom | 142
 islandlk | 300
-economynextcom | 307
+economynextcom | 308
 dailyftlk | 316
 newsfirstlk | 363
 adalk | 491
@@ -26,41 +26,49 @@ dailymirrorlk | 830
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,819 (99.9%) of 5,823 articles have been extended.
+5,823 (100.0%) of 5,824 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
 
-### துப்பாக்கி சூட்டில் ஒருவர் படுகாயம்
+### One person injured in firing
 
 *2024-02-08 23:08:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-சூட்டில்-ஒருவர்-படுகாயம்/175-332930) · `ta`
 
-இந்த துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்து ஆனமடுவ வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் குறிப்பிட்டுள்ளனர்.
+One person was injured and admitted to the Anamaduwa hospital, police said.
 
-துப்பாக்கிச் சூடு நடத்தியவர் தப்பிச் சென்றுள்ளதுடன், தனிப்பட்ட தகராறு காரணமாக துப்பாக்கிச் சூடு நடத்தப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர் R.
+Police suspect that the shooter may have fled and the shooting may have been caused by a personal dispute.
 
 ◼️
 
 [Data](articles/836de4e0.json)
 
+[Extended Data](ext_articles/836de4e0.ext.json)
+
 ---
 
-### உடனடியாக சம்பள அதிகரிப்புக்கு நடவடிக்கை எடுக்க வேண்டும்
+### To take action immediately for a salary increase
 
 *2024-02-08 22:44:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடனடியாக-சம்பள-அதிகரிப்புக்கு-நடவடிக்கை-எடுக்க-வேண்டும்/175-332923) · `ta`
 
-பெருந்தோட்டத் தொழிலாளர்களின் காணி பிரச்சனை சம்பள உயர்வு தொடர்பில் அரசாங்கத்திற்கு தார்மீக பொறுப்பும் கடமையும் உள்ளது என்கிறார் பாராளுமன்ற உறுப்பினரும் ஜனாதிபதியின் சிரேஷ்ட ஆலோசகருமான வடிவேல் சுரேஷ்.
+Vadivel Suresh, a Member of Parliament and Senior Advisor of the President, says the government has moral responsibility and responsibility for plantation workers' land problem.
 
-நேற்றைய தினம் நடைபெற்ற பாராளுமன்ற அமர்விலேயே அவர் மேற்கண்டவாறு கருத்துரைத்தார். மேலும் தெரிவிக்கையில்,
+He commented at the parliamentary session held yesterday. In addition,
 
-200 வருட காலமாக ஐந்து பரம்பரையாக மலையக மண்ணுக்கு தம்மை உரமாக்கிய நம் சமூகம் இன்றுவரை பல இன்னல்களுக்கு முகம் கொடுத்துக் கொண்டிருக்கின்றது. உழைப்புக்கேற்ற ஊதியம் இல்லை ஜனவரி மாத இறுதிக்குள் அதிகரிக்க வேண்டிய சம்பள உயர்வு இன்னமும் அதிகரிக்கப்படவில்லை என்பதினை மீண்டும் நினைவுபடுத்துகின்றேன்.
+Our society, which has made themselves fertilizer for the upstart soil for 200 years, has been facing many troubles to this day. I recall that the salary increase to increase by the end of January has not yet been increased by the end of January.
 
-ஜனாதிபதி அவர்கள் முதலாளிமார் சம்மேலனத்திற்கு கடுமையான அழுத்தம் ஒன்றை பிரயோகித்தேனும் உடனடியாக சம்பள அதிகரிப்புக்கு நடவடிக்கை எடுக்க வேண்டும்
+The president must take immediate action to increase the salary increase even if they use a severe pressure on the employers' federation
 
-...
+Plantation workers' industrial disputes to be smoothly resolved are the peak of the plantation administration.
+
+The land was shared by the President and the Ministry of Lands. This program should be nationalized and the land should be distributed to the people of the hill country. I hope that these activities will be successfully implemented.. Remble
+
+◼️
 
 [Data](articles/11079585.json)
+
+[Extended Data](ext_articles/11079585.ext.json)
 
 ---
 
@@ -98,19 +106,21 @@ A 45-year-old person who was injured in the shooting has been admitted to the Pu
 
 ---
 
-### ආණමඩුවේ වෙඩිතැබීමක්
+### A shooting of ancient
 
 *2024-02-08 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193147) · `si`
 
-පොලීසිය සඳහන් කළේ අද (08) පස්වරුවේ සිදුකර ඇති එම වෙඩිතැබීමෙන් පුද්ගලයෙකු තුවාල ලබා ආණමඩුව රෝහලට ඇතුළත් කර ඇති බවය.
+The police said that the shooting had been admitted to the Anamaduwa hospital this afternoon.
 
-පසුව තුවාලකරු වැඩිදුර ප්‍රතිකාර සඳහා පුත්තලම රෝහලට මාරුකර යවා තිබේ.
+The injured were later transferred to the Puttalam Hospital for further treatment.
 
-වෙඩික්කරු පළාගොස් ඇති අතර පෞද්ගලික ආරවුලක් වෙඩිතැබීමට හේතු වන්නට ඇති බව පොලීසිය සැකකරයි.
+The shooter has fled and the police suspect that a personal dispute has been shot.
 
 ◼️
 
 [Data](articles/796d3129.json)
+
+[Extended Data](ext_articles/796d3129.ext.json)
 
 ---
 
@@ -138,27 +148,33 @@ The left-wing Greens, which supports the rule and was the first to propose it la
 
 ---
 
-### මිත්තණියගේ රු ලක්ෂ 15 ඉස්සූ සැකකාර මුනුබුරා අත්අඩංගුවට
+### Manayaka arrested for producing Rs.
 
 *2024-02-08 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193146) · `si`
 
-මිත්තණියගේ රුපියල් ලක්ෂ 15ක මුදල් සොරකම් කළ 14 හැවිරිදි මුනුබුරාව දොඩංගොඩ පොලීසිය විසින් අද (08) සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+The 14-year-old Muningalawa Police have arrested the 14-year-old Munnuwewa Police have stolen money in the grandfather.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ ජාත්‍යන්තර පාසලක ඉගෙනුම ලබන පාසල් සිසුවෙකි.
+The arrested is a schoolgirl studying at an international school.
 
-පසුගිය 31 වනදා දහවල් කාලයේ දොඩංගොඩ පොලිස් වසමේ මිනුවන්දෙනිය නිවසක කාන්තාවකගේ රුපියල් ලක්ෂ 15ක මුදලක් කිසියම් පුද්ගලයෙකු සොරකම් කර ඇති බවට දොඩංගොඩ පොලීසියට පැමිණිල්ලක් ලැබී තිබුණි.
+The Dodangoda Police had lodged a person that a woman had stolen Rs.
 
-මිත්තණිය දහවල් කාලයේ නිවසින් බැහැරව ගොස් සිටියදී හොර රහසේ ඉනිමඟක් ආධාරයෙන් වහලයෙන් නිවසට ඇතුළුවී සොරකම සිදුකර ඇති බව මූලික විමර්ශනවලදී අනාවරණය විය.
+Preliminary investigations revealed that the roof had entered the house with the help of a lack of landslides while the grandfather went away from home.
 
-සිද්ධිය සම්බන්ධයෙන් සිදුකළ විමර්ශන අනුව 08 වන ශ්‍රේණියේ ඉගෙනුම ලබන අදාළ සිසුවාව සැකපිට අත්අඩංගුවට ගැනුණි.
+The student who received a Grade 8 was arrested on the occasion.
 
-මෙම සොරකම සම්බන්ධයෙන් ප්‍රදේශයේ විවිධ පුද්ගලයන්ගෙන් සැකපිට ප්‍රශ්න කිරීම්වලින් අනතුරුව දොඩංගොඩ පොලීසියේ නිලධාරීන් මෙම බාලවයස්කරුගේ හැසිරීම් රටාව දැඩි ලෙස නිරීක්ෂණය කර තිබුණි.
+After interrogation of various people in the area, the Dodangoda police officers had observed the behavior of the substance of the minority.
 
-ඉන් අනතුරුව අද දහවල් ඔහුව සැකපිට අත්අඩංගුවට ගෙන ප්‍රශ්න කිරීමේදී මෙම සොරකමේ සුලමුල හෙළිවී ඇති බව අප වාර්තාකරු පවසයි.
+We have said that theft of theft has been revealed in suspicion and interrogation this afternoon.
+
+It is reported that his father is carrying a kinatunaticini in Payagala Pottuvila area for school student to go to school.
+
+However, the student is not present at the day of the robbery, Minuwadeniya has come to this house from Payagala Pottuvila area.
 
 ...
 
 [Data](articles/e95fa895.json)
+
+[Extended Data](ext_articles/e95fa895.ext.json)
 
 ---
 
@@ -655,6 +671,24 @@ The MP further highlighted a significant discrepancy of a thousand billion rupee
 [Data](articles/744493d6.json)
 
 [Extended Data](ext_articles/744493d6.ext.json)
+
+---
+
+### Sri Lanka minister hopes to reduce fuel prices after March with boosted energy security
+
+*2024-02-08 18:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-hopes-to-reduce-fuel-prices-after-march-with-boosted-energy-security-150457/) · `en`
+
+ECONOMYNEXT – Sri Lanka could reduce fuel prices after March if there is no unpredictable events or sharp depreciation in the rupee currency, State Energy Minister D V Chanaka said.
+
+The government has raised prices in successive two months through February.
+
+“Usually, global oil prices are expensive during December to April because of the Winter season in Europe where their usage is high, and the demand is also high. This is why you see some increases during this period,” Minister Chanaka told reporters at a media briefing in Colombo.
+
+“We believe that after March as usually every year, there will be reduction in the global oil prices and Singapore PLATTS. Last year for instance, we were able to reduce the fuel prices across the board by around 100 rupees during that period.”
+
+...
+
+[Data](articles/5b9daca8.json)
 
 ---
 
@@ -2133,21 +2167,5 @@ Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
 [Data](articles/7b26d624.json)
 
 [Extended Data](ext_articles/7b26d624.ext.json)
-
----
-
-### Jaffna University Teachers’ Association Condemns Police Violence Against Students & Protestors In Kilinochchi On The Independence Day
-
-*2024-02-08 13:10:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/jaffna-university-teachers-association-condemns-police-violence-against-students-protestors-in-kilinochchi-on-the-independence-day/) · `en`
-
-On the 76th Independence Day of Sri Lanka, the undergraduates of the University of Jaffna, in alliance with civil society groups based in the North, organized a peaceful protest in Kilinochchi. These protests highlighted the ongoing acts of injustice and violations by the state and the Sinhala-Buddhisization of the North and East of the country and demanded a political solution to the national question.
-
-The students who participated in the protests were attacked brutally by the police with water cannons and tear gas. The police were seen dragging the students by their arms, pushing them around and forcing them onto the ground. Several students who took part in the protest were arrested.
-
-...
-
-[Data](articles/12fd5b24.json)
-
-[Extended Data](ext_articles/12fd5b24.ext.json)
 
 ---

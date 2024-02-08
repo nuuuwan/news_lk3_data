@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-08 20:50:25**
+As of **2024-02-08 21:02:42**
 
 ## Newspaper Stats
 
-*Scraped **5,790** Articles*
+*Scraped **5,791** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 142
 islandlk | 300
 economynextcom | 307
 dailyftlk | 316
-newsfirstlk | 361
+newsfirstlk | 362
 adalk | 491
 virakesarilk | 713
 adaderanalk | 714
@@ -26,11 +26,27 @@ dailymirrorlk | 820
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,790 (100.0%) of 5,790 articles have been extended.
+5,790 (100.0%) of 5,791 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-08 (Thursday)
+
+### Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
+
+*2024-02-08 20:03:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/civil-society-organisations-condemn-draconian-laws-withdraw-from-open-government-partnership/) · `en`
+
+Colombo (News 1st) – Civil society organisations involved in the Open Government Partnership on Thursday withdrew from the initiative, condemning the increasingly draconian laws being rolled out by the government.
+
+In a letter to President Ranil Wickremesinghe, the co-conveners of civil society organisations, Nadishani Perera, Executive Director of Transparency International Sri Lanka, and Dr. Vinya Ariyaratne, President of the Sarvodaya Shramadana Movement, stated that the decision was taken in response to "alarming developments in the country that are in direct contravention to the principles of open government."
+
+They cited in particular, the passing of the Online Safety Act, together with the Anti-Terrorism Bill that has been proposed, and demanded that they be repealed and withdrawn respectively.
+
+...
+
+[Data](articles/4f535e80.json)
+
+---
 
 ### Man who ‘poisoned’ two suspects in police custody identified
 
@@ -637,6 +653,8 @@ It was reported that the suspects subsequently suffering from poisoning and are 
 The suspects collapsed in their cell after consuming packets of milk, which were given to them by an individual who came to visit them while in the police cell.
 
 The officers involved in the case have been suspended pending the outcome of the investigation.
+
+Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
 
 Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
 
@@ -1426,6 +1444,8 @@ Rividhanavi will also build the transmission line of 27.5 Km for the project and
 
 Rividhanavi (Pvt) Ltd. is a consortium of shareholders, Lakdhanavi Ltd., Windforce PLC and The Blue Circle PTE Ltd of Singapore. Investment is expected to be USD 132 Million.
 
+Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
+
 Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
 
 Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
@@ -1530,6 +1550,8 @@ The Minister of Sports and Youth Affairs Harin Fernando has granted approval to 
 
 The 3 ODIs will be held on February 9, 11, 14 at the Pallekele International Cricket Stadium, according to the SLC. The day-night games will start at 02.30 p.m.
 
+Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
+
 Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
 
 Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
@@ -1551,6 +1573,8 @@ COLOMBO (News 1st); An extraordinary gazette notification has been issued statin
 The gazette was issued by Secretary to the President E. M. S. B. Ekanayake.
 
 The extraordinary gazette notification states that the President, having consulted with the Prime Minister, has determined that the Ministerial Portfolio of Environment should be in his charge.
+
+Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
 
 Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
 
@@ -1618,11 +1642,11 @@ Police teams will be deployed in buses, bus depots, railway stations and congest
 
 The Police Headquarters added that Police officers in uniform have also been stationed covering the main roads, to assist officers in civilian clothes.
 
+Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
+
 Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
 
-Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
-
-◼️
+...
 
 [Data](articles/e8d8cbfc.json)
 
@@ -1772,6 +1796,8 @@ COLOMBO (News 1st); An extraordinary gazette notification has been issued includ
 
 The gazette notification states the Online Safety Act has been included under the scope of the Ministry of Public Security with effect from the 7th of February, 2024.
 
+Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
+
 Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
 
 Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
@@ -1811,6 +1837,8 @@ The Ministry of Defence announced that the Chief of Defense Force of the Maldive
 He arrived in the country based on an invitation by the Defence Services Command and Staff College in Batalanda.
 
 He is a graduate of the Sri Lanka Defense Services Command and Staff College.
+
+Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
 
 Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
 
@@ -2008,6 +2036,8 @@ The remaining 170 arrests addressed outstanding warrants issued by the criminal 
 
 Of these, 18 individuals were wanted for prior drug offenses, and the remaining 145 suspects faced warrants for various non-drug-related offenses.
 
+Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
+
 Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
 
 Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
@@ -2088,34 +2118,14 @@ Accordingly, all persons who have not changed their permanent residence, who hav
 
 Ratnayake said the names of family members who are overseas should also be included in the electoral register, regardless of whether or not they can vote.
 
+Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
+
 Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
 
-Electricity Bills In Sri Lanka; Highest In South Asia – Verité Research
-
-◼️
+...
 
 [Data](articles/41cc10f9.json)
 
 [Extended Data](ext_articles/41cc10f9.ext.json)
-
----
-
-### A person cuts at Kurunegala bus stand
-
-*2024-02-08 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193127) · `si`
-
-A person who had fallen in Kurunegala bus stand has been hospitalized with severe cut injuries.
-
-Police suspect that he is an excessive drug addict and the lack of drugs has been injured in a knife.
-
-The victim has been injured in nearly 13 charges against various mistakes.
-
-In further investigations have revealed that the suspect had been swolled by the suspect and damaged their neck and chest area.
-
-◼️
-
-[Data](articles/4e734ffa.json)
-
-[Extended Data](ext_articles/4e734ffa.ext.json)
 
 ---

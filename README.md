@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 02:02:28**
+As of **2024-02-10 02:17:15**
 
 ## Newspaper Stats
 
-*Scraped **6,045** Articles*
+*Scraped **6,046** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 72
+colombotelegraphcom | 73
 bbccomsinhala | 86
 dbsjeyarajcom | 142
 islandlk | 308
@@ -26,7 +26,7 @@ dailymirrorlk | 868
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,045 (100.0%) of 6,045 articles have been extended.
+6,045 (100.0%) of 6,046 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -783,6 +783,18 @@ Jailed Imran Khan's party, PTI, claimed victory in the general elections while a
 [Data](articles/f31407c5.json)
 
 [Extended Data](ext_articles/f31407c5.ext.json)
+
+---
+
+### The Cost Of Dying
+
+*2024-02-09 20:16:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-cost-of-dying/) · `en`
+
+As much as we are living, so also will we die. Much is said (and written) about the “cost of living,” and rarely do we refer to the “cost of dying”. Such is considered morbid, inappropriate, insensitive, or less than genteel, or even vulgar. A mention in a recent news item, (The Daily Mirror of 7th February) under the enticing title “Death becomes costly affair for Colombo dwellers,” emboldens me to wade into taboo territory. The item states that the cost of a grave site costs a formidable Rs. 180,000/=, and Crematorium charges at a nearly unaffordable Rs. 10,000/=, (up from 1,000/=). The former on account of escalated Land Values (and the latter perhaps due to escalating prices of gas?)
+
+...
+
+[Data](articles/22db022d.json)
 
 ---
 
@@ -2003,25 +2015,5 @@ Furthermore, Dr. Perera emphasized the importance of keeping children away from 
 [Data](articles/c4ebb09d.json)
 
 [Extended Data](ext_articles/c4ebb09d.ext.json)
-
----
-
-### Olympic medals are making the removed metal in the Eiffel Tower
-
-*2024-02-09 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193169) · `si`
-
-Medals presented to the winners of the Paris Olympics win yesterday (08).
-
-Foreign media reports that more than 5,000 medals have been created for the Paris Olympics this year.
-
-It is noteworthy that medals were created using discarded metals in the famous Eiffel Tower of France.
-
-The designers say that the metals who have been discarded by the Eiffel Tower for medals.
-
-◼️
-
-[Data](articles/aeda6e48.json)
-
-[Extended Data](ext_articles/aeda6e48.ext.json)
 
 ---

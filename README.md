@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 22:17:27**
+As of **2024-02-09 22:32:44**
 
 ## Newspaper Stats
 
-*Scraped **6,009** Articles*
+*Scraped **6,011** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 71
-bbccomsinhala | 85
+bbccomsinhala | 86
 dbsjeyarajcom | 142
 islandlk | 308
 economynextcom | 317
 dailyftlk | 332
 newsfirstlk | 363
-adalk | 504
+adalk | 505
 tamilmirrorlk | 735
 virakesarilk | 744
 adaderanalk | 744
@@ -26,7 +26,7 @@ dailymirrorlk | 859
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,009 (100.0%) of 6,009 articles have been extended.
+6,009 (100.0%) of 6,011 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -457,6 +457,24 @@ The military said that 30 bullets for the missing T-56 were found in the drainag
 [Data](articles/cec04121.json)
 
 [Extended Data](ext_articles/cec04121.ext.json)
+
+---
+
+### ජනපති හමුවූ හේතුව සරත් ෆොන්සේකා
+
+*2024-02-09 18:27:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හමුවූ-හේතුව-සරත්-ෆොන්සේකා/11-407987) · `si`
+
+ජනාධිපතිවරයා පාර්ලිමේන්තුවේ දී හමු වූයේ මුදල් අමාත්‍යාංශයට අදාල දෙයක් ගැන කතා කිරීමට බවත් දේශපාලනය ගැන කිසිවක් එහිදී කතා නොකල බවත් හිටපු යුධ හමුදාපති හා සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී සරත් ෆොන්සේකා මහතා ඊයේ (09) මාතර දී පැවසීය.
+
+“ජනතා විප්ලවය” නමින් පැවැත්වු නිර්පාක්ෂික විරෝධතා ව්‍යාපාරයේ දී ඔහු ඒ බව කීවේ මාධ්‍යවේදියෙකු ඇසු ප්‍රශ්නයකට පිළිතුරු දෙමිනි.
+
+මාතර ප්‍රධාන බස් නැවතුම්පොල ඉදිරිපිට දී මෙම විරෝධතා ව්‍යාපාරය පැවැත්විණි.එහිදී වැඩි දුරටත් අදහස් දැක් වු ෆොන්සේකා මහතා මෙසේද කීය.
+
+“මම ජනාධිපති තුමා හමු වූයේ පාර්ලිමේන්තුව තුලදී.ඒ මුදල් අමාත්‍යාංශයට අදාල දෙයක් ගැන කතා කරන්නයි.ජනාධිපතිතුමා හමුවෙන්න මට වගේම මේ රටේ ඕනෑම පුරවැසියෙකුට අයිතියක් තිබෙනවා.එතුමා මුදල් අමාත්‍යවරයා.මම මුදල් අමාත්‍යාංශයට ගිහින් එලියෙදි හමු වුනේ නෑ.
+
+...
+
+[Data](articles/450232cf.json)
 
 ---
 
@@ -953,6 +971,32 @@ Army Police and the Kirula Army Police are conducting further investigations.
 [Data](articles/71e2a22e.json)
 
 [Extended Data](ext_articles/71e2a22e.ext.json)
+
+---
+
+### පැතුම් නිස්සංක :එක්දින තරගයක දී ශ්‍රී ලංකාව වෙනුවෙන් ද්විත්ව ශතකයක් රැස් කළ පළමු පිතිකරු
+
+*2024-02-09 15:59:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gkp57gqw7o) · `si`
+
+පැතුම් නිස්සංක :එක්දින තරගයක දී ශ්‍රී ලංකාව වෙනුවෙන් ද්විත්ව ශතකයක් රැස් කළ පළමු පිතිකරු
+
+මෙරට ක්‍රිකට් වංශකතාවට නව පරිච්ජේදයක් එක් කිරීමට පැතුම් නිස්සංක අද (පෙබරවාරි 09 වෙනිදා) සමත් විය.
+
+ඒ, එක්දින තරගයක දී ශ්‍රී ලංකාව වෙනුවෙන් ද්විත්ව ශතකය රැස් කළ පළමු පිතිකරුවා ලෙස ඉතිහාසයට එක්වෙමිනි.
+
+ශ්‍රී ලංකාව වෙනුවෙන් එක්දින තරගයක ඉනිමක දී වැඩිම ලකුණු ප්‍රමාණයක් රැස් කළ පිතිකරුවා බවට පත්වීමට පැතුම් නිස්සංක අද සමත් විය.
+
+මේ දක්වා එක්දින තරගයකදී ශ්‍රී ලංකාව වෙනුවෙන් ඉනිමක දී වැඩිම ලකුණු සංඛ්‍යාවක් වාර්තා කළ පිතිකරුවා වුයේ සනත් ජයසුරිය යි.
+
+සනත් ජයසුරිය 2000 වසරේ සාජා හිදී ඉන්දියාවට එරෙහිව ලකුණු 189ක් වාර්තා කළ අතර පුරා වසර 24ක් එය වාර්තා පොත් අතර පැවතුණේ  ශ්‍රී ලංකාව වෙනුවෙන් එක්දින ඉනිමක දී පිතිකරුවෙකු ලෙස වාර්තා කළ වැඩිම ලකුණු සංඛ්‍යාව ලෙස යි.
+
+ඒ අනුව පැතුම් නිස්සංක අද (පෙබරවාරි 09 වෙනිදා) එම වාර්තාව බිඳ හෙලීමට සමත් වන ලදී.
+
+එතෙක් තමන් විසින් තබා තිබූ වාර්තාව පැතුම් නිස්සංක විසින් බිඳ දමන අවස්ථාවේදී පල්ලේකැලේ ක්‍රීඩා පිටියේ ප්‍රේක්ෂකාගාරයේ සනත් ජයසුරිය රැඳී සිටීම ද විශේෂත්වයක් විය.
+
+...
+
+[Data](articles/69b4ac3b.json)
 
 ---
 
@@ -2023,41 +2067,5 @@ We are now in the case of the country, gradually, gradually getting rise in the 
 [Data](articles/d7e3207e.json)
 
 [Extended Data](ext_articles/d7e3207e.ext.json)
-
----
-
-### Sri Lanka in talks with India to establish multi product oil pipeline
-
-*2024-02-09 10:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-talks-with-india-to-establish-multi-product-oil-pipeline-150500/) · `en`
-
-ECONOMYNEXT – Sri Lanka is in talks with India to establish a multi product oil pipeline connecting Nagapattnam, Trincomalee Tank Farm and Colombo, its Energy Minister said.
-
-“On the sidelines of the India Energy week I had a meeting with the Indian Oil yesterday. We discussed the proposal by the Indian Government through IOC for a multi product oil pipeline connecting Nagapattnam, Trincomalee Tank Farm and Colombo,” Minister of Power and Energy Kanchana Wijesekera said on his social media platform.
-
-“Technical studies, demand market analysis, financial analysis and business models will be conducted to decide on the mechanism. We also discussed about the investments and expansion of projects under the joint venture in Trincomalee tank farm, CPSTL and LIOC retail operations.”
-
-Wijesekera is in India to participate at the 2nd edition of the India Energy Week held on February 6-7, on the invitation of the Ministry of Petroleum and Natural Gas of India.
-
-...
-
-[Data](articles/64237a30.json)
-
-[Extended Data](ext_articles/64237a30.ext.json)
-
----
-
-### 15 hours of water in Colombo tomorrow
-
-*2024-02-09 10:38:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-நாளை-15-மணித்தியால-நீர்வெட்டு/175-332940) · `ta`
-
-The Water Supply and Drainage Board said the 15 -hour waterfront will be implemented in some parts of Colombo tomorrow (10).
-
-The Water Supply and Drainage Board said the waterfront will be implemented in the 11,12, 13, 14 and 15 areas of Colombo.
-
-◼️
-
-[Data](articles/f3848908.json)
-
-[Extended Data](ext_articles/f3848908.ext.json)
 
 ---

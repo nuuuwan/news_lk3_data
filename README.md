@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 00:47:57**
+As of **2024-02-10 00:33:06**
 
 ## Newspaper Stats
 
-*Scraped **6,028** Articles*
+*Scraped **6,024** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 86
 dbsjeyarajcom | 142
 islandlk | 308
 economynextcom | 318
-dailyftlk | 336
+dailyftlk | 332
 newsfirstlk | 363
 adalk | 505
 tamilmirrorlk | 735
@@ -26,7 +26,7 @@ dailymirrorlk | 866
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,020 (99.9%) of 6,028 articles have been extended.
+6,020 (99.9%) of 6,024 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -84,20 +84,6 @@ Earlier in the day, Pathum Nissanka was on fire whilst running riot as he sent t
 
 ---
 
-### The depravity of Sri Lanka’s elite establishment
-
-*2024-02-09 23:48:21* · [`dailyftlk`](https://www.ft.lk/columns/The-depravity-of-Sri-Lanka-s-elite-establishment/4-758311) · `en`
-
-For the Government’s supporters, the evidence of “recovery” amounts simply to citing the absence of long queues for fuel and sky-high inflation
-
-According to President Ranil Wickremesinghe, the Government he leads and his supporters, Sri Lanka has recovered from severe economic crisis. In reality, however, this “recovery” is a deepening of the economic crisis which is embedding extreme, near irreversible levels of deprivation and inequality in Sri Lankan society. This article interrogates Sri Lanka’s elite establishment, which is cheering on the Government, and its responsibility for the unfolding societal catastrophe.
-
-...
-
-[Data](articles/6c0cc363.json)
-
----
-
 ### Israeli PM orders military plan to evacuate Rafah and defeat Hamas
 
 *2024-02-09 23:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97153/israeli-pm-orders-military-plan-to-evacuate-rafah-and-defeat-hamas) · `en`
@@ -118,24 +104,6 @@ Aid groups said there would be a high Palestinian death toll if Israeli forces s
 
 ---
 
-### Ceasefire: Reading the ICJ Order regarding genocide in Gaza
-
-*2024-02-09 23:44:46* · [`dailyftlk`](https://www.ft.lk/columns/Ceasefire-Reading-the-ICJ-Order-regarding-genocide-in-Gaza/4-758310) · `en`
-
-A particular question pertains to why the ICJ has not indicated a specific provisional measure ordering Israel to cease fire
-
-With regard to the Order delivered by the International Court of Justice indicating Provisional Measures against Israel in the case brought by South Africa under the provisions of the UN Genocide Convention, questions galore on different aspects addressed. A particular question pertains to why the ICJ has not indicated a specific provisional measure ordering Israel to “cease fire”.
-
-It is important to refer to Article 51 of the UN Charter for guidance in this context.
-
-“Nothing in the present Charter shall impair the inherent right of individual or collective self-defence if an armed attack occurs against a Member of the United Nations, until the Security Council has taken measures necessary to maintain international peace and security.”
-
-...
-
-[Data](articles/9332b39f.json)
-
----
-
 ### Indian Ocean Region’s stability requires early end to Gaza war - President Ranil
 
 *2024-02-09 23:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97152/indian-ocean-regions-stability-requires-early-end-to-gaza-war-president-ranil) · `en`
@@ -149,38 +117,6 @@ He made this remark while delivering the keynote address at the 7th Indian Ocean
 [Data](articles/344d4d71.json)
 
 [Extended Data](ext_articles/344d4d71.ext.json)
-
----
-
-### An open letter to National Election Commission
-
-*2024-02-09 23:37:45* · [`dailyftlk`](https://www.ft.lk/opinion/An-open-letter-to-National-Election-Commission/14-758307) · `en`
-
-The Election Commission acquired powers and functions, physical and human resources of the Elections Department, with a mission to «Raise critical consciousness among all stakeholders, ensuring the protection of people›s rights and conduct free, fair and credible elections efficiently and effectively that safeguard the people›s sovereignty and universal franchise based on democratic principles.»
-
-We perceive it our civic duty to apprise the Commission of deficiencies within the election system that demand attention and resolution, aligning with the NEC›s mission to augment the fairness and equality of votes while ensuring a wholly democratic process.
-
-...
-
-[Data](articles/0c531e67.json)
-
----
-
-### Current economic crisis is political and can only be solved through political change
-
-*2024-02-09 23:36:16* · [`dailyftlk`](https://www.ft.lk/opinion/Current-economic-crisis-is-political-and-can-only-be-solved-through-political-change/14-758306) · `en`
-
-President Ranil Wickremesinghe’s statement in Parliament on Wednesday that “resolution of the economic crisis lies not in a political but economic and scientific solutions” is incorrect.
-
-We need to categorically state that the economic crisis has a well-defined identifiable disproportionately large political component.
-
-Incompetent corrupt democratically elected politicians taking unscientific and economically incorrect political decisions to meet their short and long term political goals which were justified and sustained by a cohort of absolutely incompetent cohorts of ‘yes sir’ spineless Government officials who were political appointees.
-
-As such the solution to the current economic crisis is bringing about an immediate change in the mode and style of governance and government by politicians and bureaucrats through a process of elections where the people decide their political and economic future.
-
-...
-
-[Data](articles/5a6f4849.json)
 
 ---
 
@@ -2033,5 +1969,85 @@ The election commission cited an unspecified “internet issue” for the long d
 [Data](articles/0bd92c2e.json)
 
 [Extended Data](ext_articles/0bd92c2e.ext.json)
+
+---
+
+### Pakistan election results are released - fierce competition
+
+*2024-02-09 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175960) · `ta`
+
+The initial results have revealed that the major parties have fierce competition as the election results in Pakistan have begun
+
+Of the 37 results, former Prime Minister Nawaz Sharif's Pakistan Muslim League has won 14 seats while independent seats have won 12 seats.
+
+◼️
+
+[Data](articles/b1aeb7ed.json)
+
+[Extended Data](ext_articles/b1aeb7ed.ext.json)
+
+---
+
+### Government will not sell Visumpaya at lower price : Minister
+
+*2024-02-09 11:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-will-not-sell-Visumpaya-at-lower-price-Minister/108-276667) · `en`
+
+Parliament, Feb. 09 (Daily Mirror)- Government will not sell the historic Visumpaya lower than the price which has been estimated by the Valuation Department, Minister of Urban Development Prasanna Ranatunga informed Parliament today.
+
+“We are not inclined to change the price recommended by the Valuation Department for Visumpaya and are not willing to sell it at a lower price than the Valuation Department's estimate,” Minister Ranatunga responded to a query raised by the Leader of the Opposition, Sajith Premadasa, regarding the historic building.
+
+“However, we have positively responded to the investor's request to conduct another valuation through a chartered valuer.
+
+“The investor requested six months to complete this updated valuation,” he added.
+
+The Minister assured maximum transparency in the transaction process. However, he also mentioned that the government is not in a position to develop the property independently.
+
+...
+
+[Data](articles/1ae2b606.json)
+
+[Extended Data](ext_articles/1ae2b606.ext.json)
+
+---
+
+### Sri Lanka’s copyright laws need to be updated for artificial intelligence: Lawyers
+
+*2024-02-09 11:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-copyright-laws-need-to-be-updated-for-artificial-intelligence-lawyers-150509/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Intellectual Property Act needs revisions to recognize creations by artificial intelligence, legal professionals point out.
+
+“Our Intellectual Property Act established in 2003 recognizes only a human as an author,” lawyer and academic in intellectual property, Sidath Gajanayaka said at a panel discussion on ‘Integrating AI into Human Lives: Legal Challenges in the Age of AI’ on Thursday (8).
+
+Section 5 of the Intellectual Property Act describes an author as ‘the physical person who has created the work’ paving the way for questions regarding the use of artificial intelligence in creative works.
+
+Artificial intelligence programs, such as ChatGPT, have been able to write articles and research pieces independently.
+
+“We must look at how much of a human intervention is there to write an article,” Gajanayaka said. “Who is recognized as the author is a dilemma. Ideally, it is a person who gave the prompt.”
+
+...
+
+[Data](articles/44aa0df0.json)
+
+[Extended Data](ext_articles/44aa0df0.ext.json)
+
+---
+
+### Over 60 Sri Lankans who lost jobs in Jordan return to island
+
+*2024-02-09 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97136/over-60-sri-lankans-who-lost-jobs-in-jordan-return-to-island) · `en`
+
+A group of 66 Sri Lankans in Jordan, who were afflicted after the two apparel factories they were employed at were shut down, have returned to the island.
+
+It was reported that the Indian investors who operated the two factories in Jordan, namely “Aseel” and “High Apparel”, had closed the facilities with no prior notice to the employees.
+
+However, a group of Sri Lankans who were employed there were brought back the island from Bandaranaike International Airport (BIA) in Katunayake early this morning (Feb. 09) after receiving their salary dues and other entitlements.
+
+Against this backdrop, the Sri Lankan Embassy in Jordan said that another group of Sri Lankans who were employed at these two factories would be repatriated to Sri Lanka over the next two days.
+
+...
+
+[Data](articles/a4607656.json)
+
+[Extended Data](ext_articles/a4607656.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 21:17:17**
+As of **2024-02-09 21:33:04**
 
 ## Newspaper Stats
 
-*Scraped **6,007** Articles*
+*Scraped **6,008** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 332
 newsfirstlk | 363
 adalk | 504
 tamilmirrorlk | 735
-adaderanalk | 743
 virakesarilk | 743
+adaderanalk | 744
 adaderanasinhalalk | 805
 dailymirrorlk | 859
 
@@ -26,45 +26,71 @@ dailymirrorlk | 859
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,005 (100.0%) of 6,007 articles have been extended.
+6,008 (100.0%) of 6,008 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### බෙලිඅත්තේ ඝාතනවලට සැක තවත් දෙදෙනෙක් අත්අඩංගුවට
+### Pakistan’s ex-PM Nawaz Sharif ‘declares’ victory in national elections
+
+*2024-02-09 20:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97151/pakistans-ex-pm-nawaz-sharif-declares-victory-in-national-elections) · `en`
+
+Pakistan’s former Prime Minister Nawaz Sharif on Friday claimed victory in national elections, saying that his political party has emerged as the largest in the vote and will discuss forming a coalition government.
+
+Sharif did not disclose how many seats his party had won and counting was still underway in the last few of the 265 seats that went to the polls.
+
+The latest count published by the election panel showed his Pakistan Muslim League-Nawaz (PML-N) winning 42 seats, much below the 133 mark needed to stake claim to form a government.
+
+Sharif said his party alone does not have the seats needed but his deputies will meet leaders of other parties later in the day, including former president Asif Ali Zardari of the Pakistan Peoples Party, to discuss forming a coalition government.
+
+◼️
+
+[Data](articles/549feb6c.json)
+
+[Extended Data](ext_articles/549feb6c.ext.json)
+
+---
+
+### Two arrested suspects in Beliatta
 
 *2024-02-09 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193189) · `si`
 
-ව්‍යාජ වාහන අංක තහඩු හා ව්‍යාජ ලේඛන සකස් කරනු ලැබූ සැකකරුවන් දෙදෙනෙකු පොලිස් විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Two suspects have been arrested by the STF personnel who prepared forged vehicle number plates and fake documents.
 
-පොලිස් විශේෂ කාර්ය බළකායේ සංවිධානාත්මක අපරාධ මර්දන ඒකකයේ නිලධාරීන් විසින් මුල්ලේරියාව පොලිස් වසමේ හිඹුටාන ප්‍රදේශයේ දී වැටලීමක් සිදුකර නිත්‍යානූකූල බලපත්‍රයක් හෝ ලියවිල්ලක් හා අංක තහඩු නොමැතිව වාහනයක් සන්තකයේ තබාගැනීම සම්බන්ධයෙන් එක් සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇත.
+Officers of the Special Task Force Organized Crime Corruption Unit have arrested one suspect in the Mulleriya police Division in the Mulleriyawa Police Division in the Mulleriyawa Police Division.
 
-එලෙස අත්අඩංගුවට පත්ව ඇත්තේ අවුරුදු 56ක් වූ මුල්ලේරියාව ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The arrestedium is a 56-year-old resident of the Mulleriyawa area.
 
-මෙම සැකකරු බෙලිඅත්තේ පංච පුද්ගල ඝාතන සිද්ධියේ වෙඩිතැබීමට පැමිණි ජිප් රථයේ රියදුරු ලෙස කටයුතු කළ අයෙක් බවට සැක කරන, දැනට පළාගොස් සැඟව සිටින සැකකරු සමග සමීප සබඳතා පවත්වා ඇති බවත්, මීට මාස කිහිපයකට පෙර පළාගොස් සැඟව සිටින සැකකරුට මොහු විසින් යතුරුපැදි දෙකකට ව්‍යාජ බලපත්‍ර මුදලට සාදා දී ඇති බවත් දැනට සිදුකළ විමර්ශවලදී අනාවරණය වී තිබේ.
+The suspect is currently being shooting as a bulk of the jeep, which is a driver of the Jip of the Festival of Beliatta, have had a fake license to two motorbikes to the hiding suspect a few months ago.Intercepted investigations have been revealed at present.
 
-ඒ අනුව සැකකරුගේ නිවස පරීක්ෂා කිරීමේ දී නිත්‍යානුකූල බලපත්‍රයක් හෝ ලියකියවිල්ලක් හෝ අංක තහඩු නොමැති ත්‍රීරෝද රථයක් හා ජංගම දුරකථනයක් විමර්ශන නිලධාරීන් භාරයට ගෙන ඇත.
+Accordingly, inquiry officers have been taken into custody by the inspection of the suspect's home.
+
+Meanwhile, a person who has been arrested by the Jip of Beliatta murder has been arrested yesterday (08).
 
 ...
 
 [Data](articles/2b2705dd.json)
 
+[Extended Data](ext_articles/2b2705dd.ext.json)
+
 ---
 
-### තිදෙනෙකු රෝහලට යැවූ දුම්රිය ප්‍රවේශ පත්‍රය
+### Railway Ticket sent to the hospital
 
 *2024-02-09 20:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193188) · `si`
 
-කොළඹ කොටුවේ සිට ගම්පහ දක්වා දුම්රියෙන් ගමන් කළ තරුණියකට කොටුව දුම්රිය ස්ථානයෙන් හුණුපිටිය දක්වා පමණක් ප්‍රවේශ පත්‍රයක් නිකුත් කර තිබීම නිසා ඇය ව ගම්පහ දී පරීක්ෂාවට ලක් කළ පරීක්ෂකවරුන් දඩමුදලක් බව පවසා මුදලක් අයකිරීමට උත්සාහ කර තිබේ.
+Since he had released a ticket from Colombo Fort to Gampaha, the inspectors were celebrated in Gampaha.
 
-එහි දී ඇතිවූ ගැටුමකින් තරුණියගේ සහෝදරයකු සහ ප්‍රවේශපත්‍ර පරීක්ෂකවරුන් දෙදෙනෙකු තුවාල ලබා ගම්පහ මහ රෝහලට ඇතුළත් කර ඇති බව වාර්තා වේ.
+Two tickets of the girl and two tickets were injured and admitted to the Gampaha General Hospital with a confrontation took place.
 
-මෙම සිද්ධිය සම්බන්ධයෙන් දුම්රිය දෙපාර්තමේන්තුව අභ්‍යන්තර පරීක්ෂණයක් ආරම්භ කළ බව අප කළ විමසීමක දී දුම්රිය ගමනාගමන නියෝජ්‍ය සාමාන්‍යාධිකාරී එම්.ජේ. ඉඳිපොලගේ මහතා වැඩිදුරටත් පවසා ඇත.
+The Deputy General Manager MJ, the Deputy General Manager, Deputy General Manager MJ. Mr. Welfare has said.
 
 ◼️
 
 [Data](articles/465723b7.json)
+
+[Extended Data](ext_articles/465723b7.ext.json)
 
 ---
 
@@ -2029,27 +2055,5 @@ Sri Lanka, like all other colonised countries suffered immensely at the hands of
 [Data](articles/4f52cc26.json)
 
 [Extended Data](ext_articles/4f52cc26.ext.json)
-
----
-
-### Chief of Maldivian Defence Force keen on bolstering defence cooperation with Sri Lanka
-
-*2024-02-09 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97135/chief-of-maldivian-defence-force-keen-on-bolstering-defence-cooperation-with-sri-lanka) · `en`
-
-Chief of Defence Force of the Maldives, Lieutenant General Abdul Raheem Abdul Latheef, who is in Sri Lanka on an official visit, called on Defence Secretary, General (Retd.) Kamal Gunaratne on Thursday (Feb.08).
-
-During the interaction which took place at the Defence Headquarters Complex in Sri Jayewardenepura Kotte, Lt. Gen. Latheef expressed eagerness to foster a closer relationship in defence cooperation with Sri Lanka.
-
-The discussion was centred on enhancing collaboration in areas including military training, strategic partnerships and security initiatives, according to the Ministry of Defence.
-
-The Defence Secretary lauded the historical alliance between the Maldives and Sri Lanka, while reassuring the shared commitment to regional stability and security.
-
-Both sides emphasized the importance of sustained dialogue and exchange programs to further fortify defence capabilities and promote peace in the region.
-
-...
-
-[Data](articles/424ae68b.json)
-
-[Extended Data](ext_articles/424ae68b.ext.json)
 
 ---

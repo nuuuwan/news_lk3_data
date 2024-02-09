@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 17:52:55**
+As of **2024-02-09 18:07:49**
 
 ## Newspaper Stats
 
-*Scraped **5,961** Articles*
+*Scraped **5,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,48 @@ dailyftlk | 332
 newsfirstlk | 363
 adalk | 498
 tamilmirrorlk | 731
-virakesarilk | 735
+virakesarilk | 736
 adaderanalk | 739
-adaderanasinhalalk | 797
-dailymirrorlk | 852
+adaderanasinhalalk | 798
+dailymirrorlk | 855
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,961 (100.0%) of 5,961 articles have been extended.
+5,961 (99.9%) of 5,966 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### இந்தியாவுடனான புதிய தரைவழித் தொடர்புகளுக்கான சாத்தியக்கூறுகள் குறித்து ஆராய வேண்டும் - இந்து சமுத்திர மாநாட்டில் ஜனாதிபதி தெரிவிப்பு
+
+*2024-02-09 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175994) · `ta`
+
+வர்த்தகப் போக்குவரத்துகளுக்காகத் தற்காலத்தில் பயன்படுத்தப்படும் சுயஸ் கால்வாய் உள்ளிட்டவை எதிர்காலத்தில் போதுமானதாக இருக்காது. எனவே, தென்னிந்தியாவுடன் வர்த்தகத்தை எளிதாக்கும் வகையில் பிராந்தியத்தின் விநியோக மையமாக இலங்கையை மாற்றுவதற்கு,  இந்தியாவுடனான புதிய தரைவழித் தொடர்புகளுக்கான சாத்தியக்கூறுகள் குறித்து ஆராய வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+இந்தியப் பெருங்கடல் வெப்பமயமாதல் மற்றும் கடல் மட்டம் உயர்வதன் அபாயத்தைச் சுட்டிக்காட்டிய ஜனாதிபதி விக்ரமசிங்க, காலநிலை நெருக்கடிக்குத் தீர்வுகாண வேண்டியதன் அவசியத்தை வலியுறுத்தினார்.
+
+மேலும், காலநிலை மாற்றத்தின் விளைவுகளைத் தணிக்க மற்றும் பாதிக்கப்படக்கூடிய நாடுகளுக்குக் காலநிலை நீதியை உறுதிப்படுத்த வெப்ப வலய காலநிலை முன்முயற்சிகள் மற்றும் சர்வதேச காலநிலை பல்கலைக்கழகம் போன்ற முன்முயற்சிகளையும் ஜனாதிபதி வலியுறுத்தினார்.
+
+...
+
+[Data](articles/fb536a48.json)
+
+---
+
+### දුම්රිය පීලිපැනීමක්
+
+*2024-02-09 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193181) · `si`
+
+වටවල ප්‍රදේශයේ දුම්රිය පීලිපැනිමක් හේතුවෙන් උඩරට දුම්රිය ගමනාගමනය නැවතී ඇතැයි අප වාර්තාකරු පවසයි.
+
+◼️
+
+[Data](articles/e42a468a.json)
+
+---
 
 ### New Kelani Bridge traffic is restricted
 
@@ -51,6 +79,22 @@ During this repair, the public installed the bills to the public at Dematagoda, 
 [Data](articles/54c0a144.json)
 
 [Extended Data](ext_articles/54c0a144.ext.json)
+
+---
+
+### Australia affirms its renewed commitment to Indian Ocean Region
+
+*2024-02-09 17:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Australia-affirms-its-renewed-commitment-to-Indian-Ocean-Region/108-276680) · `en`
+
+Feb 09, (PMD)-  Australian Minister of Foreign Affairs, Penny Wong, engaged in a significant meeting with Sri Lankan President Ranil Wickremesinghe during the Indian Ocean Conference, marking a pivotal moment in bilateral relations between the two nations.
+
+Minister Wong warmly welcomed President Wickremesinghe to Australia and expressed appreciation for Sri Lanka's supportive role in the conference, highlighting the importance of collaboration among Indian Ocean countries.
+
+Addressing attendees, Minister Wong reiterated Australia's renewed commitment to the Indian Ocean region and emphasized the government's efforts to strengthen ties with key nations in the area.
+
+...
+
+[Data](articles/84ba5973.json)
 
 ---
 
@@ -473,6 +517,26 @@ The Afghan group won the advantage of the coin, and they decided first bowler.
 [Data](articles/07fd0643.json)
 
 [Extended Data](ext_articles/07fd0643.ext.json)
+
+---
+
+### Asthma on the rise among children, parents urged to exercise caution
+
+*2024-02-09 14:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Asthma-on-the-rise-among-children-parents-urged-to-exercise-caution/155-276672) · `en`
+
+Colombo, Feb 9 (Daily Mirror) - Health experts in Sri Lanka have sounded the alarm over a noticeable uptick in asthma cases among children, sparking concerns among parents.
+
+Dr. Deepal Perera, a Paediatrician at the Lady Ridgeway Children's Hospital in Colombo, attributed this concerning surge to the prevailing extreme heat.
+
+"As schools gear up for sports meets, where children engage in numerous outdoor activities amidst the scorching weather, they become more vulnerable to asthma triggers," Dr. Perera warned, urging parents to remain vigilant about their children's health.
+
+Furthermore, Dr. Perera emphasized the importance of keeping children away from smoking areas, as exposure to smoke can exacerbate respiratory complications, particularly in those with asthma.
+
+"Common symptoms of childhood asthma include shortness of breath, difficulty in breathing and persistent coughing," he cautioned
+
+◼️
+
+[Data](articles/3620b3aa.json)
 
 ---
 
@@ -1596,6 +1660,26 @@ Meanwhile, 42 people have been arrested during a raid against those who engage i
 
 ### Sri Lanka’s efforts to nab overseas criminals hit a snag
 
+*2024-02-09 08:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-efforts-to-nab-overseas-criminals-hit-a-snag/108-276642) · `en`
+
+Colombo, Feb 9 (Daily Mirror) - Sri Lanka’s efforts to arrest organized criminals operating from overseas has hit a snag following the Court of Appeal in France ruling against the extradition of criminal called ‘Kudu Anju’, Daily Mirror learns.
+
+The ruling has been communicated to the Sri Lankan authorities. However, a top official familiar with the process said the latest ruling conveyed on February 1, 2024 is not the final judgement.
+
+“It is not the final judgement. The final ruling will be given after the judicial process is over in another couple of weeks’ time or so,” the official said.
+
+In the meantime, the Sri Lankan Embassy in Paris is in communication with the French Foreign Affairs Ministry to get the ruling clarified further.
+
+Earlier, Public Security Minister Tiran Alles said the government initiated a special operation to arrest 30 criminals involved in drug trafficking and criminal activities while living in countries such as the United Arab Emirates (UAE) and France.
+
+...
+
+[Data](articles/ab14a1d2.json)
+
+---
+
+### Sri Lanka’s efforts to nab overseas criminals hit a snag
+
 *2024-02-09 08:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lankas-efforts-to-nab-overseas-criminals-hit-a-snag/155-276642) · `en`
 
 Colombo, Feb 9 (Daily Mirror) - Sri Lanka’s efforts to arrest organized criminals operating from overseas has hit a snag following the Court of Appeal in France ruling against the extradition of criminal called ‘Kudu Anju’, Daily Mirror learns.
@@ -1977,87 +2061,5 @@ The Minister of Justice recently presented to Parliament the Anti-Terrorism Bill
 [Data](articles/4a470273.json)
 
 [Extended Data](ext_articles/4a470273.ext.json)
-
----
-
-### Elections with India next-door and uncertainties assured
-
-*2024-02-09 05:36:28* · [`dailyftlk`](https://www.ft.lk/columns/Elections-with-India-next-door-and-uncertainties-assured/4-758282) · `en`
-
-New Delhi and JVP now show their willingness to accommodate each other for political advantage
-
-...
-
-[Data](articles/f194d1a9.json)
-
-[Extended Data](ext_articles/f194d1a9.ext.json)
-
----
-
-### Experts get frank on IMF, geopolitics and Sri Lanka at RIUNIT webinar
-
-*2024-02-09 05:25:11* · [`dailyftlk`](https://www.ft.lk/business/Experts-get-frank-on-IMF-geopolitics-and-Sri-Lanka-at-RIUNIT-webinar/34-758280) · `en`
-
-The Research Intelligence Unit (RIUNIT) with co-hosts Institute for Political Economy (IPE) this week held a webinar tackling Sri Lanka›s economic challenges through the lens of geopolitics, debt justice and the IMF. The first half explored international concerns, while the second focused on domestic/ internal vulnerabilities. This insightful event offered valuable alternative perspectives on Sri Lanka›s future economic strategy.
-
-...
-
-[Data](articles/d2751510.json)
-
-[Extended Data](ext_articles/d2751510.ext.json)
-
----
-
-### People’s Bank and Hayleys Agriculture form strategic alliance for agricultural advancement
-
-*2024-02-09 05:12:17* · [`dailyftlk`](https://www.ft.lk/business/People-s-Bank-and-Hayleys-Agriculture-form-strategic-alliance-for-agricultural-advancement/34-758277) · `en`
-
-In a seminal move to fortify Sri Lanka’s agricultural landscape, People’s Bank, has entered into a Memorandum of Understanding (MoU) with Hayleys Agriculture Holdings Ltd., a distinguished provider of agricultural machinery and vehicles. This strategic collaboration, designed to facilitate a joint promotional campaign, is poised to usher in a new era of financial accessibility and technological adoption for the country’s agricultural community.
-
-Under the terms of this alliance, People’s Bank assumes a pivotal role by offering bespoke loan facilities to clients with specific requirements pertaining to agricultural machinery and vehicles. This financial framework aims to empower farmers, providing them with the means to invest in cutting-edge equipment that holds the potential to enhance overall agricultural efficiency and productivity.
-
-...
-
-[Data](articles/de90a6d1.json)
-
-[Extended Data](ext_articles/de90a6d1.ext.json)
-
----
-
-### Cabinet approves import of 15,000 tons of cashew nut to address shortage
-
-*2024-02-09 05:11:06* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-import-of-15-000-tons-of-cashew-nut-to-address-shortage/34-758276) · `en`
-
-The Cabinet of Ministers approved importing a maximum of 15,000 tons of cashew nuts in the shell this year as the local production capacity falls short to 12,500 tons, leading to an urgent need for intervention.
-
-The annual demand is 25,000 tons of cashew nuts but the cashew industry in the country is facing a very unfortunate situation as the crop has not been harvested as expected in the last season.
-
-Additionally, a committee comprising senior officials from relevant Ministries will determine the quantity to be imported from December to April over the next four years, bridging the gap during the offseason when local cashew harvests are unavailable.
-
-The proposal presented by the Agriculture and Plantation Minister received approval at the Cabinet of Ministers’ meeting on Monday.
-
-◼️
-
-[Data](articles/8c4c9188.json)
-
-[Extended Data](ext_articles/8c4c9188.ext.json)
-
----
-
-### Kishu Gomes appointed Chairman of Exterminators
-
-*2024-02-09 05:10:48* · [`dailyftlk`](https://www.ft.lk/business/Kishu-Gomes-appointed-Chairman-of-Exterminators/34-758275) · `en`
-
-Exterminators PLC has announced the appointment of Kishu Gomes as the Non-Executive Independent Director and Chairman of the company.
-
-He is an award-winning corporate leader with a proven track record heading large multinational and local conglomerates. He was appointed as the youngest Asian to head a truly American multinational, Chevron Lubricants Lanka PLC and Chevron Ceylon Ltd and served as the Managing Director/CEO for over 18 years setting another record as the longest serving multinational CEO in Sri Lanka. He was also the Chairman of Caltex Bangladesh Ltd. and served on the Board of Caltex India Ltd.
-
-He started off his career at Coca-Cola and worked his way through to become a senior manager holding a variety of Sales and Marketing positions. During his time, Coke became the market leader from a position of market underdog for decades. He was assigned with two country assignments in Singapore and Vietnam and worked with top Global Coca-Cola leaders.
-
-...
-
-[Data](articles/a4986026.json)
-
-[Extended Data](ext_articles/a4986026.ext.json)
 
 ---

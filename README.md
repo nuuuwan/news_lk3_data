@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 21:51:40**
+As of **2024-02-09 22:03:39**
 
 ## Newspaper Stats
 
-*Scraped **6,008** Articles*
+*Scraped **6,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 332
 newsfirstlk | 363
 adalk | 504
 tamilmirrorlk | 735
-virakesarilk | 743
+virakesarilk | 744
 adaderanalk | 744
 adaderanasinhalalk | 805
 dailymirrorlk | 859
@@ -26,11 +26,49 @@ dailymirrorlk | 859
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,008 (100.0%) of 6,008 articles have been extended.
+6,009 (100.0%) of 6,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### The President's announcement at the Hindu Ocean Conference
+
+*2024-02-09 21:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/175994) · `ta`
+
+Including the Self -Canal used in the present time for commercial transportation will not be sufficient in the future. Therefore, President Ranil Wickremesinghe said that to transform Sri Lanka into a regional distribution center to facilitate trade with South India, the possibility of new ground contacts with India should be investigated.
+
+Pointing to the risk of warming and rising sea levels of Indian Ocean, President Wickremesinghe emphasized the need to resolve the climate crisis.
+
+In addition, the President also emphasized initiatives, such as the Tropical Climate University and the International Climate University, to alleviate the effects of climate change and ensure climate justice to vulnerable countries.
+
+...
+
+[Data](articles/fb536a48.json)
+
+[Extended Data](ext_articles/fb536a48.ext.json)
+
+---
+
+### Kosgoda Sujeewa's colleague arrested in Beliatta
+
+*2024-02-09 21:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176002) · `ta`
+
+The Colombo Crime Division has arrested a man with a T-56 rifle suspected of being used for the murder of Ivar in Beliatta.
+
+Police said the arrested suspect was Samika, a close associate of Kosgoda Sujeeva.
+
+The gun was found by the police with Mahasin and 32 bullets hidden in a garden behind the suspect's house.
+
+Investigations conducted by the suspect revealed that Kosgoda Sujeeva was the one who received the gun.
+
+◼️
+
+[Data](articles/843cc37a.json)
+
+[Extended Data](ext_articles/843cc37a.ext.json)
+
+---
 
 ### Pakistan’s ex-PM Nawaz Sharif ‘declares’ victory in national elections
 
@@ -645,24 +683,6 @@ Meanwhile, the Ministry of Agriculture has said that the paddy owners, paddy col
 [Data](articles/70466c75.json)
 
 [Extended Data](ext_articles/70466c75.ext.json)
-
----
-
-### The President's announcement at the Hindu Ocean Conference
-
-*2024-02-09 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175994) · `ta`
-
-Including the Self -Canal used in the present time for commercial transportation will not be sufficient in the future. Therefore, President Ranil Wickremesinghe said that to transform Sri Lanka into a regional distribution center to facilitate trade with South India, the possibility of new ground contacts with India should be investigated.
-
-Pointing to the risk of warming and rising sea levels of Indian Ocean, President Wickremesinghe emphasized the need to resolve the climate crisis.
-
-In addition, the President also emphasized initiatives, such as the Tropical Climate University and the International Climate University, to alleviate the effects of climate change and ensure climate justice to vulnerable countries.
-
-...
-
-[Data](articles/fb536a48.json)
-
-[Extended Data](ext_articles/fb536a48.ext.json)
 
 ---
 
@@ -2039,21 +2059,5 @@ The Water Supply and Drainage Board said the waterfront will be implemented in t
 [Data](articles/f3848908.json)
 
 [Extended Data](ext_articles/f3848908.ext.json)
-
----
-
-### Sri Lanka At 76: Past, Present & Possible Future
-
-*2024-02-09 10:37:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lanka-at-76-past-present-possible-future/) · `en`
-
-To consider what the future holds for Sri Lanka, a glance at its past and present should prove useful as we could thereby contextualise and perhaps begin to understand what that likely future could be. Unless we look at our past mistakes dispassionately, attempt to learn from them and take meaningful steps to re-chart our national course, we are most likely to continue to allow history to repeat itself.
-
-Sri Lanka, like all other colonised countries suffered immensely at the hands of the colonisers; however, our track record of how our country (or constituent parts of it) has been ruled and governed by some of our own kings and nearly all of our politicians leaves much to be desired. Therefore, heaping the blame for our continuing miseries post- 1948 on our colonial rulers who exploited and plundered us (sometimes with a little help from our ‘nobility’) from 1505-1948, as some tend to do, is to obscure the truth.
-
-...
-
-[Data](articles/4f52cc26.json)
-
-[Extended Data](ext_articles/4f52cc26.ext.json)
 
 ---

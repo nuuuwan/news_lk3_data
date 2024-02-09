@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 06:16:19**
+As of **2024-02-09 06:52:29**
 
 ## Newspaper Stats
 
-*Scraped **5,850** Articles*
+*Scraped **5,864** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 68
 bbccomsinhala | 81
 dbsjeyarajcom | 142
-islandlk | 300
+islandlk | 308
 economynextcom | 308
-dailyftlk | 326
+dailyftlk | 331
 newsfirstlk | 363
 adalk | 491
 adaderanalk | 719
-tamilmirrorlk | 720
+tamilmirrorlk | 721
 virakesarilk | 731
 adaderanasinhalalk | 767
 dailymirrorlk | 834
@@ -26,11 +26,79 @@ dailymirrorlk | 834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,850 (100.0%) of 5,850 articles have been extended.
+5,850 (99.8%) of 5,864 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### The unbearable selfishness of being “Maavai” Senathirajah
+
+*2024-02-09 05:46:39* · [`dailyftlk`](https://www.ft.lk/columns/The-unbearable-selfishness-of-being-Maavai-Senathirajah/4-758285) · `en`
+
+The heading of this article is inspired by the title of Milan Kundera’s novel “The Unbearable Lightness of Being”. That novel was set in the eventful Prague spring period of the then undivided Czechoslovakia. This article is about an octogenarian Tamil political leader who tries to cling on to power selfishly without stepping down gracefully.
+
+The party leader I am referring to is Somasundaram Senathirajah known popularly as “Maavai” Senathirajah and/or Maavai. Until 27 January 2024, Senathirajah was the President of the Ilankai Thamil Arasuk Katchi (ITAK) known as the Federal Party (FP) in English. Senathirajah however continues to act as the party president in a business as usual fashion.
+
+...
+
+[Data](articles/a6f1bedd.json)
+
+---
+
+### Law making and the economic crisis in Sri Lanka
+
+*2024-02-09 05:39:48* · [`dailyftlk`](https://www.ft.lk/opinion/Law-making-and-the-economic-crisis-in-Sri-Lanka/14-758284) · `en`
+
+The proposed Anti-Terrorism Act and the recently adopted Online Safety Act aim to discourage people who are
+
+reeling under economic dispossession from fighting a just economic arrangement
+
+What can law do during an economic crisis? What is law actually doing during the current economic crisis in Sri Lanka? These are two questions that I thought I would reflect upon, when I was invited to speak at a panel discussion on the role of law in overcoming the current economic crisis held at the Jaffna Law Conference recently. Neither a lawyer nor an economist, I try to engage with these questions as a teacher of critical theory and as someone who lives and works amidst the economic crisis that is plaguing the country. With gratitude, I draw from the careful analyses of the recent legal reforms offered by lawyers, economists, trade unionists and activists who work for social justice in Sri Lanka.
+
+...
+
+[Data](articles/f3568fc6.json)
+
+---
+
+### The Anti-Terrorism law: A draconian legacy
+
+*2024-02-09 05:37:43* · [`dailyftlk`](https://www.ft.lk/opinion/The-Anti-Terrorism-law-A-draconian-legacy/14-758283) · `en`
+
+This dark legacy of the PTA and the widespread opposition to its continuance as a part of  our legislation should have been considered when drafting a new law
+
+The Minister of Justice recently presented to Parliament the Anti-Terrorism Bill, and its first reading took place on 10 January. While this Bill is wrought with problems, two main issues with the Bill remain the drafting process and the impact that the Bill will have on the liberties of the people, minorities and dissidents against the Government in particular.
+
+...
+
+[Data](articles/4a470273.json)
+
+---
+
+### Elections with India next-door and uncertainties assured
+
+*2024-02-09 05:36:28* · [`dailyftlk`](https://www.ft.lk/columns/Elections-with-India-next-door-and-uncertainties-assured/4-758282) · `en`
+
+New Delhi and JVP now show their willingness to accommodate each other for political advantage
+
+...
+
+[Data](articles/f194d1a9.json)
+
+---
+
+### Experts get frank on IMF, geopolitics and Sri Lanka at RIUNIT webinar
+
+*2024-02-09 05:25:11* · [`dailyftlk`](https://www.ft.lk/business/Experts-get-frank-on-IMF-geopolitics-and-Sri-Lanka-at-RIUNIT-webinar/34-758280) · `en`
+
+The Research Intelligence Unit (RIUNIT) with co-hosts Institute for Political Economy (IPE) this week held a webinar tackling Sri Lanka›s economic challenges through the lens of geopolitics, debt justice and the IMF. The first half explored international concerns, while the second focused on domestic/ internal vulnerabilities. This insightful event offered valuable alternative perspectives on Sri Lanka›s future economic strategy.
+
+...
+
+[Data](articles/d2751510.json)
+
+---
 
 ### People’s Bank and Hayleys Agriculture form strategic alliance for agricultural advancement
 
@@ -223,6 +291,22 @@ In 2018, the US Government provided a grant of $ 26 million to Sri Lanka to impl
 [Data](articles/e760a95f.json)
 
 [Extended Data](ext_articles/e760a95f.ext.json)
+
+---
+
+### மாலைதீவு படை பிரதானி இலங்கைக்கு வருகை
+
+*2024-02-09 02:44:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாலைதீவு-படை-பிரதானி-இலங்கைக்கு-வருகை/175-332933) · `ta`
+
+மாலைதீவுகளின் பாதுகாப்பு படை பிரதானி லெப்டினன்ட் ஜெனரல் அப்துல் ரஹீம் அப்துல் லத்தீப் நாட்டிற்கு வருகை தந்துள்ளார்.
+
+பாதுகாப்பு செயலாளர், ஓய்வு பெற்ற ஜெனரல் கமல் குணரத்னவை அவர் சந்தித்துள்ளார் என  பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+பாதுகாப்பு சேவை கட்டளைகள் மற்றும் ஊழியர்கள் கல்லூரியின் அழைப்பிற்கிணங்க, மாலைதீவுகளின் பாதுகாப்பு படைபிரதானி நாட்டிற்கு வருகை தந்துள்ளார். (a)
+
+◼️
+
+[Data](articles/bf891744.json)
 
 ---
 
@@ -984,6 +1068,22 @@ It is noteworthy that the visit to Rajapaksa's Ayodhya Ram Temple will reflect t
 
 ---
 
+### ‘VAT surge threatens Sri Lanka’s housing and foreign investments’
+
+*2024-02-08 20:21:00* · [`islandlk`](http://island.lk/vat-surge-threatens-sri-lankas-housing-and-foreign-investments/) · `en`
+
+In the intricate case of Sri Lanka’s economic rejuvenation, the recent surge in the Value Added Tax (VAT) to 18 percent, coupled with the removal of certain industries from the exemptions list, has emerged as a focal point for concern among foreign investors assessing the country’s economic climate.
+
+This shift, occurring within the context of an already sophisticated taxation structure, presents multifaceted challenges that, if left unaddressed, could potentially impede the nation’s growth trajectory, particularly within the critical housing development sector.
+
+Investments in housing development surpass the realm of mere financial transactions; they are integral components of economic growth and societal development. The recent VAT hike, however, casts a shadow over the sector, raising the cost of projects and thereby creating formidable barriers for middle-class and first-time homebuyers.
+
+...
+
+[Data](articles/5be5e248.json)
+
+---
+
 ### University lecturers fail to repay 1,300 million rupees in debt - Finance Minister
 
 *2024-02-08 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175908) · `ta`
@@ -1195,6 +1295,32 @@ The government has raised prices in successive two months through February.
 [Data](articles/5b9daca8.json)
 
 [Extended Data](ext_articles/5b9daca8.ext.json)
+
+---
+
+### CEB signs power purchasing agreement with Rividhanavi (Pvt) Ltd
+
+*2024-02-08 18:34:00* · [`islandlk`](http://island.lk/ceb-signs-power-purchasing-agreement-with-rividhanavi-pvt-ltd/) · `en`
+
+Minister of Power and Energy Kanchana Wijesekera announced on X (formerly twitter) that the power purchasing agreement between the Ceylon Electricity Board (CEB) and Rividhanavi (Pvt Ltd) was signed today (08).
+
+Rividhanavi (Pvt) Ltd is a consortium of shareholders Lakdhanavi Ltd, Windforce PLC and The Blue Circle PTE Ltd of Singapore is expected to invest USD 132 million in a 100 MW ground mounted solar project in Siyambalanduwa.
+
+Related Topics:100MW solar projectLakdhanavi LtdRividhanavi (Pvt) LtdSiyambalanduwaThe Blue Circle PTE LtdWindForce PLC
+
+Sri Lanka earned USD 03 Million from bunkering – State Minister of Power and Energy
+
+WindForce PLC recognised at SAFA Best Presented Annual Report Awards 2022
+
+219.72 Hectares of land in Siyambalanduwa to be acquired and leased to Sustainable Energy Authority
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/1d3d83a4.json)
 
 ---
 
@@ -1937,183 +2063,5 @@ Four persons from Negombo, Wella, Toduwawa areas have gone to the fisheries acti
 [Data](articles/9d361649.json)
 
 [Extended Data](ext_articles/9d361649.ext.json)
-
----
-
-### Man sentenced to life in prison for possession of 6g heroin
-
-*2024-02-08 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97117/man-sentenced-to-life-in-prison-for-possession-of-6g-heroin) · `en`
-
-The Colombo High Court has sentenced a person to life in prison after he was convicted for the possession and trafficking of nearly 06 grams of heroin.
-
-This order was issued by the Colombo High Court Judge Aditya Patabendige, Ada Derana reporter said.
-
-The accused, Sudath Prasanna, had been arrested by police during a raid carried out in the Khettarama area of Grandpass in 2018, while in the possession of approximately 5.9 grams of heroin.
-
-Later, the Attorney General had filed charges against him before the Colombo High Court.
-
-The High Court Judge, who issued the verdict following an extended hearing, stated that the charges levelled against the accused have been proven beyond any reasonable doubt, and that therefore the defendant was sentenced to life imprisonment.
-
-◼️
-
-[Data](articles/f8d83f8c.json)
-
-[Extended Data](ext_articles/f8d83f8c.ext.json)
-
----
-
-### Australians cheer law giving workers right to ignore after-hours work calls
-
-*2024-02-08 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97116/australians-cheer-law-giving-workers-right-to-ignore-after-hours-work-calls) · `en`
-
-(Reuters) - Australians on Thursday cheered new proposed laws that give workers the right to ignore calls and messages from their bosses outside of work hours, but some business leaders slammed it as overreach.
-
-The “right to disconnect” is part of a raft of changes to industrial relations laws proposed by the federal government under a parliamentary bill introduced in parliament. The bill was passed in the Senate on Thursday but will need to go back to the House of Representatives to vote to approve some amendments.
-
-“I think it’s a wonderful idea,” said Sydney resident Colvin Macpherson.
-
-“We all need to relax, we all need to be able to switch off and not be disturbed by emails and phone calls in the middle of the night. Both of my kids are lawyers as well, so they work horrendous hours as it is and you get things coming in at night time,” he said.
-
-...
-
-[Data](articles/091b358c.json)
-
-[Extended Data](ext_articles/091b358c.ext.json)
-
----
-
-### "Older dresses are now wearing a coat suit"
-
-*2024-02-08 15:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழைய-ஆடை-அணிந்தவர்கள்-இப்போது-கோட்-சூட்-அணிந்துள்ளனர்/175-332908) · `ta`
-
-Presidents, Shipping and Aviation Minister Nimal Siripala de Silva told parliament today that President Ranil Wickremesinghe has brainwashed the National People's Power (NPP) and that its leader went to meet Indian leaders.
-
-“Those who have left lectures about Indian expansion have gone to meet Indian leaders today,” he teased.
-
-“Those who wear old clothes are now wearing a coat suit so we are happy. The reason for this is that Ranil Wickremesinghe brainwashed them. ”
-
-“Now we can recall how these leaders criticized the government for trade with Adani Group,” he added.
-
-Meanwhile, about 200,000 tourists visited Sri Lanka last month, he said.
-
-◼️
-
-[Data](articles/0b1c2fe0.json)
-
-[Extended Data](ext_articles/0b1c2fe0.ext.json)
-
----
-
-### Sri Lanka charges more electricity bills
-
-*2024-02-08 15:39:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைதான்-அதிக-மின்சார-கட்டணத்தை-வசூலிக்கிறது/175-332907) · `ta`
-
-In the new review, the Sri Lankan people pay an average of 2.5 to three times more electricity tariffs compared to the South Asian regional countries.
-
-According to the Analysis Report published by Veritte, the first quality economics intelligence base, Publicfinance.LK. The Sri Lankan people pay their average electricity bills on average, compared to South Asian countries.
-
-The site also analyzes how local electric users are charged at the beginning of 2024 when consuming 100,200 and 300 units.
-
-According to the calculation, the cost of the provider is only the cost of production. The social security tax that is currently implemented in Sri Lanka has not been implemented.
-
-Pakistan is the country that grosses South Asia next to Sri Lanka. Compared to Pakistan, the Sri Lankan people pay 50% more when consuming 100 units and 300 units.
-
-...
-
-[Data](articles/992e875e.json)
-
-[Extended Data](ext_articles/992e875e.ext.json)
-
----
-
-### Political religious leaders who publish Indian opposition following JVP's visit to India
-
-*2024-02-08 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175898) · `ta`
-
-The JVP leader's visit to India has created a situation where religious political leaders express the anti -Indian sentiment.
-
-Sri Lanka's left -wing JVP leader Anuragumaratisanayake has visited the country at the invitation of India.
-
-Political religious leaders have questioned India's aim of Sri Lanka's presidential election.
-
-Prime Minister Narendra Modi's India government has issued an invitation to India for a five -day visit to India.
-
-JVP leader Anura Kumara Dissanayake met with prominent leaders, including the Indian Foreign Minister.
-
-JVP involved in two rebellion in 1971 and 1988-89. The purpose is to create a socialist country.
-
-The party, which has created extremists in the past, is currently the 55 -year -old leader.
-
-In the past, the JVP, which has expressed fierce opposition to many of Sri Lanka's agreements with India, has also said that Sri Lankans' opportunities will be lost due to Indian domination.
-
-...
-
-[Data](articles/f84e4dd5.json)
-
-[Extended Data](ext_articles/f84e4dd5.ext.json)
-
----
-
-### 14-year-old grandson arrested for stolen councilor
-
-*2024-02-08 15:35:34* · [`adalk`](https://www.ada.lk/breaking_news/ආච්චිගේ-ලක්ෂ-14-සොරාගත්-14-වියැති-මුණුබුරා-අත්අඩංගුවට/11-407968) · `si`
-
-A schoolgirl student arrested at a 14 lakhs of school which was stolen to Rs.
-
-The suspect was a 14 resident of Pepiliyawala, Dodangoda.
-
-The suspect was arrested by a woman engaged in a rubber man resident of Minuwadeniya, Dodangoda, Dodangeniya.
-
-The police said that a school student was a plaintiff woman's grandchildren and he was a resident of the site.
-
-The complainant had opened a door to the resident that the lady had to cover up the door of the house on the 1st of the night and had not been able to find out the cost of Rs.
-
-Accordingly, the suspect student was found in a cousin of Rs.
-
-The OIC Inspector OIC Inspector OIC Inspector OIC Inspector Gunawardena, Sergeant Kithsiri Dissanayake (44702), joined the raid.
-
-◼️
-
-[Data](articles/68c39562.json)
-
-[Extended Data](ext_articles/68c39562.ext.json)
-
----
-
-### Sri Lanka’s electricity tariffs the highest in South Asia – analysis
-
-*2024-02-08 15:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97115/sri-lankas-electricity-tariffs-the-highest-in-south-asia-analysis) · `en`
-
-Sri Lanka currently has the highest electricity charges in South Asia, with households paying 2.5 to 3 times more for electricity than the average price paid by households in other South Asian countries, according to analysis that was published this week.
-
-Published on PublicFinance.lk, Sri Lanka’s premier economic insights platform, this analysis by Verité Research looked at what households are charged for their electricity when consuming 100, 200 or 300 units, at the start of 2024.
-
-The calculation only took into account the charges of the supplier, and did not include government taxes such as the Social Security Levy, which is charged additionally in Sri Lanka.
-
-The second highest household electricity charges in the region are in Pakistan; yet they are far less than in Sri Lanka. Households consuming 100 units are charged 50% more in Sri Lanka than Pakistan; and those consuming 300 units are charged 97% more in Sri Lanka.
-
-...
-
-[Data](articles/ee4ffd0a.json)
-
-[Extended Data](ext_articles/ee4ffd0a.ext.json)
-
----
-
-### HWIC Asia Fund increases holding in Sri Lanka’s JKH from 8.6 to 13-pct
-
-*2024-02-08 15:27:00* · [`economynextcom`](https://economynext.com/hwic-asia-fund-increases-holding-in-sri-lankas-jkh-from-8-6-to-13-pct-150410/) · `en`
-
-ECONOMYNEXT – HWIC Asia Fund, a private equity fund focused on financial and multiple sectors, has increased its holdings in Sri Lanka conglomerate John Keells Holdings Plc from 8. percent to 13 percent.
-
-“Our holding of 119,200,760 ordinary shares representing 8.6% of the outstanding ordinary shares in John Keells Holdings PLC (“JKH”) increased to 181,105,699 ordinary shares representing 13.0% on 07 February 2024 pursuant to the acquisition by us, of 61,904,939 ordinary shares (representing 4.5%) of JKH on the floor of the Colombo Stock Exchange,” the fund said in a stock exchange filing.
-
-Wednesday’s trade of JKH shares (11.3mn) pushed the CSE’s daily turnover past 12 billion. On Thursday the share was trading up at 184.00. (Colombo/Feb8/2024)
-
-◼️
-
-[Data](articles/0df5c4a0.json)
-
-[Extended Data](ext_articles/0df5c4a0.ext.json)
 
 ---

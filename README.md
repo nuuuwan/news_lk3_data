@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 15:50:51**
+As of **2024-02-09 16:02:29**
 
 ## Newspaper Stats
 
-*Scraped **5,939** Articles*
+*Scraped **5,940** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 309
 dailyftlk | 332
 newsfirstlk | 363
 adalk | 497
-tamilmirrorlk | 730
+tamilmirrorlk | 731
 virakesarilk | 733
 adaderanalk | 737
 adaderanasinhalalk | 788
@@ -26,11 +26,27 @@ dailymirrorlk | 847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,939 (100.0%) of 5,939 articles have been extended.
+5,939 (100.0%) of 5,940 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### பொலிஸ் தலைமையகம் வெளியிட்ட செய்தி
+
+*2024-02-09 15:07:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-தலைமையகம்-வெளியிட்ட-செய்தி/175-332943) · `ta`
+
+நாடளாவிய ரீதியில் 349 போதைப்பொருள் கடத்தல்காரர்களின் பட்டியலை பொலிஸாரின் 'யுக்திய' பதிவேட்டில் இணைத்துள்ளனர்.
+
+உதவியாளர்கள் என அடையாளம் காணப்பட்ட 53 கடத்தல்காரர்கள், நாடளாவிய ரீதியில் புதிதாக அடையாளம் காணப்பட்ட 296 போதைப்பொருள் கடத்தல்காரர்கள், 349 போதைப்பொருள் கடத்தல்காரர்களின் பட்டியல் பதில் பொலிஸ் மா அதிபர் தேஷ்பந்து தென்னகோனின் பணிப்புரைக்கு அமைய வெளியிடப்பட்டுள்ளது.
+
+நாடளாவிய ரீதியில் அனைத்துப் பிரிவுகளுக்கும் பொறுப்பான சிரேஷ்ட பொலிஸ் அத்தியட்சகர்களுக்கு இந்தப் பட்டியல் அனுப்பி வைக்கப்பட்டுள்ளதாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/72797a75.json)
+
+---
 
 ### 232 vendors to be charged for selling bread below standard weight
 
@@ -878,15 +894,15 @@ His recent approval ratings have been higher than those of Mr Zelensky.
 
 *2024-02-09 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97133/president-meets-sri-lankan-diaspora-in-australia-outlines-plans-for-economic-modernization-) · `en`
 
-President Ranil Wickremesinghe, who is in Australia on a state visit, has met with the Sri Lankan Diaspora in Perth.
+President Ranil Wickremesinghe, who is in Australia on a state visit, has met with the Sri Lankan diaspora in Perth.
 
-During the interaction, the Sri Lankan leader has provided updates on the nation’s recovery efforts, while outlining plans for economic modernization.
+During the interaction, the Sri Lankan leader has provided updates on the nation’s recovery efforts, while outlining strategies for economic modernization.
 
-In response, the Diaspora has expressed their readiness to assist the Sri Lankan government in various sectors such as climate change and tourism to boost economic development.
+In response, the diaspora has expressed their readiness to assist the Sri Lankan government in boosting economic development across various sectors, such as climate change and tourism.
 
-The Head of State on Thursday morning (Feb.08) embarked on a visit to Australia at the invitation of India Foundation and the Government of Australia to attend the 7th Indian Ocean Conference (IOC) in Perth.
+Additionally, President’s Chief-of-Staff Sagala Ratnayaka has detailed plans for establishing the Office of Overseas Sri Lankans. He emphasized that this initiative would provide an avenue for the diaspora to engage constructively with the Government.
 
-The President’s Media Division (PMD) said Wickremesinghe will play a pivotal role in shaping discussions at the conference, slated as a vital forum for dialogue and cooperation within the Indian Ocean Region.
+Ratnayaka also underscored the ongoing IMF program, emphasizing the importance of the diagnostics report released last year. He appealed for the continued backing of the Sri Lankan diaspora in carrying forward the reform program.
 
 ...
 
@@ -2019,33 +2035,5 @@ They further stated that the Vavuniya police are investigating the complaint.
 [Data](articles/a513b12f.json)
 
 [Extended Data](ext_articles/a513b12f.ext.json)
-
----
-
-### Australia entered Pakistan in the midst of a stir
-
-*2024-02-08 23:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175933) · `ta`
-
-Australia won by one wicket in the 2nd semi -final of the 19 -year -old World Cup under the 19 -year -old World Cup, which had a fewer number in the Wilomoor Park Stadium.
-
-With this victory, Australia qualified to oppose India in the final of the 19 -year -old world champion to be held on Sunday.
-
-Australia, the 3rd time in the history of the Under -19 World Cup, is eligible to play in the final for the 6th time.
-
-Two connectivity in the middle of the Tom Straker's accurate bowling replied, and the 17 -wicket -shared last wicket -shared, 17 runs.
-
-The merger was Harry Dixon, Oliver Peak, Tom Kempel, Rafayal McMmon and the last -digit player Kellam Witler.
-
-In addition, Pakistan failed to throw specific overs within the fixed time, and in the last over, only 4 players outside the circle were forced to field.
-
-Australia won by 9 wickets in 49.1 overs, scoring 181 runs in response to a good win in Pakistan's 180 runs.
-
-Heri Dixon and Sam Konstas shared 33 runs and made Australia some good start.
-
-...
-
-[Data](articles/cc961b38.json)
-
-[Extended Data](ext_articles/cc961b38.ext.json)
 
 ---

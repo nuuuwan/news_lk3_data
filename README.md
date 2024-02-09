@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 12:02:28**
+As of **2024-02-09 12:17:31**
 
 ## Newspaper Stats
 
-*Scraped **5,911** Articles*
+*Scraped **5,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ newsfirstlk | 363
 adalk | 495
 adaderanalk | 728
 tamilmirrorlk | 730
-virakesarilk | 732
+virakesarilk | 733
 adaderanasinhalalk | 780
-dailymirrorlk | 841
+dailymirrorlk | 843
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,911 (100.0%) of 5,911 articles have been extended.
+5,911 (99.9%) of 5,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### Nawaz Sharif and Imran Khan’s PTI neck-and-neck in first results
+
+*2024-02-09 11:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Nawaz-Sharif-and-Imran-Khans-PTI-neck-and-neck-in-first-results/107-276668) · `en`
+
+Pakistan, Feb 09 (Independent) With results from Pakistan’s election trickling in slower than normal, candidates backed by former prime minister Imran Khan’s party appeared to be doing better than expected, as he was seen neck-and-neck with the favourite Nawaz Sharif.
+
+Preliminary election results normally emerge within a few hours in Pakistan but were hit by long delays overnight, only adding to existing fears of poll rigging.
+
+The Election Commission of Pakistan (ECP) had announced results of just eight of the 265 contested seats in parliament on its website by morning.
+
+Mr Sharif’s PML-N is leading in four seats while members of Mr Khan’s PTI party who ran as independents won three seats, and the Pakistan Peoples Party of Bilawal Bhutto Zardari got just one.
+
+The election commission cited an unspecified “internet issue” for the long delay of more than 13 hours of counting the votes as the PTI party alleged that the “overwhelming mandate of the people of Pakistan is being stolen”.
+
+...
+
+[Data](articles/0bd92c2e.json)
+
+---
+
+### பாக்கிஸ்தான் தேர்தல் முடிவுகள் வெளியாகின்றன - கடும் போட்டி
+
+*2024-02-09 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175960) · `ta`
+
+பாக்கிஸ்தானில் இடம்பெற்ற தேர்தல் முடிவுகள்வெளியாக ஆரம்பித்துள்ள நிலையில் பிரதான கட்சிகள்மத்தியில் கடும் போட்டி நிலவுவதை ஆரம்ப கட்ட முடிவுகள் வெளிப்படுத்தியுள்ளன
+
+வெளியாகியுள்ள 37 முடிவுகளில் முன்னாள் பிரதமர் நவாஸ் ஷெரீப்பின் பாக்கிஸ்தான் முஸ்லீம் லீக் 14 ஆசனங்களை கைப்பற்றியுள்ள அதேவேளை சுயாதீனவேட்பாளர்கள் 12இடங்களில் வெற்றிபெற்றுள்ளனர்.
+
+◼️
+
+[Data](articles/b1aeb7ed.json)
+
+---
+
+### Government will not sell Visumpaya at lower price : Minister
+
+*2024-02-09 11:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-will-not-sell-Visumpaya-at-lower-price-Minister/108-276667) · `en`
+
+Parliament, Feb. 09 (Daily Mirror)- Government will not sell the historic Visumpaya lower than the price which has been estimated by the Valuation Department, Minister of Urban Development Prasanna Aranatunga informed Parliament today.
+
+“We are not inclined to change the price recommended by the Valuation Department for Visumpaya and are not willing to sell it at a lower price than the Valuation Department's estimate,” Minister Ranatunga responded to a query raised by the Leader of the Opposition, Sajith Premadasa, regarding the historic building.
+
+“However, we have positively responded to the investor's request to conduct another valuation through a chartered valuer.
+
+“The investor requested six months to complete this updated valuation,” he added.
+
+The Minister assured maximum transparency in the transaction process. However, he also mentioned that the government is not in a position to develop the property independently.
+
+...
+
+[Data](articles/1ae2b606.json)
+
+---
 
 ### A list of 349 suspects on all police
 
@@ -1977,73 +2031,5 @@ It is noteworthy that the visit to Rajapaksa's Ayodhya Ram Temple will reflect t
 [Data](articles/c374747a.json)
 
 [Extended Data](ext_articles/c374747a.ext.json)
-
----
-
-### ‘VAT surge threatens Sri Lanka’s housing and foreign investments’
-
-*2024-02-08 20:21:00* · [`islandlk`](http://island.lk/vat-surge-threatens-sri-lankas-housing-and-foreign-investments/) · `en`
-
-In the intricate case of Sri Lanka’s economic rejuvenation, the recent surge in the Value Added Tax (VAT) to 18 percent, coupled with the removal of certain industries from the exemptions list, has emerged as a focal point for concern among foreign investors assessing the country’s economic climate.
-
-This shift, occurring within the context of an already sophisticated taxation structure, presents multifaceted challenges that, if left unaddressed, could potentially impede the nation’s growth trajectory, particularly within the critical housing development sector.
-
-Investments in housing development surpass the realm of mere financial transactions; they are integral components of economic growth and societal development. The recent VAT hike, however, casts a shadow over the sector, raising the cost of projects and thereby creating formidable barriers for middle-class and first-time homebuyers.
-
-...
-
-[Data](articles/5be5e248.json)
-
-[Extended Data](ext_articles/5be5e248.ext.json)
-
----
-
-### University lecturers fail to repay 1,300 million rupees in debt - Finance Minister
-
-*2024-02-08 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175908) · `ta`
-
-Justice Minister Wijeyadasa Rajapakse said that university lecturers have failed to repay 1,300 million rupees through state banks to go abroad for higher education.
-
-He was responding to a question raised by Opposition Leader Sajith Premadasa on Thursday in Parliament.
-
-The People's Bank and the Bank of Ceylon were launched to improve the country's national economy. Various measures have been taken to improve the agriculture and industrial sector in particular through those banks.
-
-During the time of Srimavo Bandaranaike, the Bank of Ceylon Branch was operating in all agricultural institutions.
-
-The banks have carried out a lending process for the people living in their respective areas for their agricultural activities.
-
-Accordingly, the Bank of Ceylon and the People's Bank of Sri Lanka have not been repaid by the borrowers of Rs 602 billion in the third phase of the loan.
-
-...
-
-[Data](articles/fbcba6e3.json)
-
-[Extended Data](ext_articles/fbcba6e3.ext.json)
-
----
-
-### Mendis confident as SL gears up for Afghan ODI Series
-
-*2024-02-08 20:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mendis-confident-as-SL-gears-up-for-Afghan-ODI-Series/108-276615) · `en`
-
-Colombo, Feb. 8 (Daily Mirror) - Sri Lanka's One Day International (ODI) Captain Kusal Mendis expressed confidence ahead of their clash against Afghanistan, starting at the Pallekele Stadium in Kandy tomorrow.
-
-Speaking at the pre-match media conference in Pallekele today, Mendis acknowledged the importance of performing well to improve on their ICC ODI Rankings.
-
-"Rankings are just a number and if we perform well we could climb in the rankings," he said.
-
-He attributed the drop in the ODI rankings was because they struggled in their previous outings. "We dropped in the ODI rankings because we failed to play better."
-
-Looking to build on their 3-0 clean sweep against Zimbabwe, Mendis said the team aims to finish the ODI series against Afghanistan also in style.
-
-He highlighted the team's balance in batting and bowling, emphasising their strategy of winning each match to improve their position.
-
-Commenting regarding the playing XI, Mendis hinted at minimal changes compared to the Zimbabwe series.
-
-...
-
-[Data](articles/84598596.json)
-
-[Extended Data](ext_articles/84598596.ext.json)
 
 ---

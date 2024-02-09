@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 18:50:27**
+As of **2024-02-09 19:02:37**
 
 ## Newspaper Stats
 
-*Scraped **5,972** Articles*
+*Scraped **5,979** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 71
-bbccomsinhala | 84
+bbccomsinhala | 85
 dbsjeyarajcom | 142
 islandlk | 308
 economynextcom | 309
@@ -17,20 +17,32 @@ dailyftlk | 332
 newsfirstlk | 363
 adalk | 502
 tamilmirrorlk | 731
-virakesarilk | 736
+virakesarilk | 740
 adaderanalk | 740
-adaderanasinhalalk | 798
+adaderanasinhalalk | 800
 dailymirrorlk | 856
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,967 (99.9%) of 5,972 articles have been extended.
+5,972 (99.9%) of 5,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### இராணுவ முகாமில் காணாமல்போன தோட்டாக்கள் வடிகானில் கண்டுபிடிப்பு!
+
+*2024-02-09 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175998) · `ta`
+
+இவ்வாறு காணாமல் போன T-56 துப்பாக்கிக்கான 30 தோட்டாக்கள்  முகாமிலிருந்து நீர் வெளியேறும் வடிகானில் காணப்பட்டதாக இராணுவம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/cec04121.json)
+
+---
 
 ### Pathum Nissanka smashes Sri Lanka’s first-ever double-century in ODI history
 
@@ -46,31 +58,101 @@ Earlier, the star opener played a delightful knock against Afghanistan in the fi
 
 [Data](articles/999f303e.json)
 
+[Extended Data](ext_articles/999f303e.ext.json)
+
 ---
 
-### ’’චීන වසන්ත උත්සව ජනතා සංස්කෘතික මංගල්‍යය’’  ගෝලීය ප්‍රේක්ෂකයන් හමුවට
+### பாகிஸ்தான் உயர்ஸ்தானிகராலயத்திற்கு 21 பாகிஸ்தான் மாணவர்களின் நல்லெண்ண வருகை
+
+*2024-02-09 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175997) · `ta`
+
+இலங்கைக்கு நல்லெண்ண விஜயம் மேற்கொண்டுள்ள பாகிஸ்தானின் கராச்சியில் அமைந்துள்ள தனியார் பாடசாலையான Academia Civitas இல் தரம் 6 இல் கல்வி கற்கும் 21 மாணவர்களைக் கொண்ட குழு வெள்ளிக்கிழமை (9) பாகிஸ்தான் உயர்ஸ்தானிகராலயத்திற்கு வருகை தந்தனர். அதிபர் திருமதி. அல்மாஸ் ரியாஸ் தலைமையில் இவர்கள் வருகை தந்திருந்தனர்.
+
+மாணவர்களை பதில் உயர்ஸ்தானிகர் வாஜித் ஹசன் ஹஷ்மி மற்றும் உயர்ஸ்தானிகராலயத்தின் பிற அதிகாரிகள் வரவேற்றனர். பாகிஸ்தானுக்கும் இலங்கைக்கும் இடையிலான உறவுகள் குறித்து மாணவர்களுக்கு இதன் போது விளக்கமளிக்கப்பட்டது. மாணவர்களைச் சிறந்த  முறையில் வரவேற்று உபசரித்த பாகிஸ்தான் உயர் ஸ்தானிகராலயத்திற்கு பாடசாலையின் அதிபர் நன்றியினை தெரிவித்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/99dc581e.json)
+
+---
+
+### '' Global audience 'to meet Chinese spring
 
 *2024-02-09 18:17:58* · [`adalk`](https://www.ada.lk/picture_story/’’චීන-වසන්ත-උත්සව-ජනතා-සංස්කෘතික-මංගල්‍යය’’--ගෝලීය-ප්‍රේක්ෂකයන්-හමුවට/10-407986) · `si`
 
-චීන සාම්ප්‍රදායික නව වසර අද (9) රාත්‍රියේ උදාවෙයි. චීන මාධ්‍ය සමූහය විසින් නිෂ්පාදනය කරන ලද වසන්ත උත්සව සංස්කෘතික ප්‍රසංගය අද රාත්‍රී 8 ට ලොව පුරා ප්‍රේක්ෂකයන් හමුවේ දිගහැරේ. මෙම වසන්ත උත්සව ප්‍රසංගය වසර 40 කට වැඩි කාලයක් තිස්සේ සමස්ත චීන ජාතිකයන්ගේ උණුසුම් හැඟීම් ලොවට රැගෙන ගිය අතර, එය නව වසරේ සතුට සමරන චීන ජාතිකයන්ට විශිෂ්ට රසාස්වාදයක් තිළිණ කරන අත්‍යවශ්‍ය අංගයක් බවට පත්ව ඇත. විශේෂයෙන්ම, එක්සත් ජාතීන්ගේ මහා මණ්ඩලය වසන්ත උත්සවය එක්සත් ජාතීන්ගේ නිවාඩු දිනයක් ලෙස නම් කිරීමෙන් වසන්ත උත්සව ප්‍රසංගයට ද ගෝලීය වැදගත්කමක් ලබා දී තිබේ.
+Chinese traditional new year rises today (9). Spring festivals produced by the Chinese Media Group unfolds the audience around the world today. The spring festival took the hot emotions of the entire Chinese people for more than 40 years, and it has become an essential part of the Chinese people who celebrate the new year happiness. In particular, the United Nations General Assembly has been named as a United Nations holiday, the spring festival show is also a global significance.
 
 ...
 
 [Data](articles/b96ac821.json)
 
+[Extended Data](ext_articles/b96ac821.ext.json)
+
 ---
 
-### පුවක් පැළ මිලියනයක් සිටුවීමට සැලසුම්
+### පැතුම් නිස්සංක වාර්තා පොත අලුත් කරයි
+
+*2024-02-09 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193183) · `si`
+
+ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර අද (09) මහනුවර පල්ලෙකැලේ අන්තර්ජාතික ක්‍රිකට් ක්‍රීඩාංගණයේ පැවති පළමු එක්දින තරගයේ දී වාර්තා පොත් අතරට එක් වීමට පැතුම් නිස්සංක සමත් විය.
+
+ඒ, ශ්‍රී ලංකාව වෙනුවෙන් එක්දින තරගයක දී ක්‍රීඩකයකු වාර්තා කළ වැඩිම ලකුණු වාර්තාව අලුත් කරමිනි.
+
+ඒ අනුව 2000 වසරේ සාජා පිටියේ දී ඉන්දියාවට එරෙහි ව සනත් ජයසූරිය වාර්තා කළ ලකුණු 189 වාර්තාව අලුත් කිරීමට පැතුම් නිස්සංක සමත් විය.
+
+මේ අතර, ශ්‍රී ලංකා එක්දින ක්‍රිකට් ඉතිහාසයේ ක්‍රීඩකයෙකු වාර්තා කළ පළමු ද්විත්ව ශතකය වාර්තා කිරීමට ද පැතුම් නිස්සංක අද සමත්විය.
+
+◼️
+
+[Data](articles/ca59e6f2.json)
+
+---
+
+### Plans to plant a million pieces of plants
 
 *2024-02-09 18:09:51* · [`adalk`](https://www.ada.lk/breaking_news/පුවක්-පැළ-මිලියනයක්-සිටුවීමට-සැලසුම්/11-407985) · `si`
 
-ඉදිරි වර්ෂ කීපය තුළ  ජාත්‍යන්තර ඉල්ලුමට සාපේක්ෂව දේශීය පුවක් සැපයුම ඉහළ නැංවීමේ අරමුණින්  මෙම වර්ෂයේදී පුවක් පැළ මිලියනයක් රෝපණය කිරීමට  සූදානම් කර ඇතැයි අපනයන කෘෂිකර්ම දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් ආචාර්ය ඒ.පී.පී.දිස්නා මෙනවිය පැවසීය.
+The Director General of the Department of Export Agriculture has been prepared to plant a million plants in the next few years, the Director General of the Department of Export Agriculture said.
 
-දෙපාර්තමේන්තුවේ ලියාපදිංචි  පැළ තවාන් මගින් වානිජ මට්ටමින්   වගාකරුවන් සඳහා සහන මිලක් යටතේද රජයේ පාසල් ඇතුළු රාජ්‍ය ආයතන භූමිවල සිටුවීම සඳහා සීමිත ප්‍රමාණයක්  නොමිලේද    මෙම පැළ නිකුත් කරන බව  අධ්‍යක්ෂ ජනරාල්වරිය සඳහන් කළාය.
+The Director General of the Department of Registered Seedlings, including the Department of Government Schools, are free of charge for the planting prices of government schools, and state institutions including government schools.
 
 ◼️
 
 [Data](articles/bfc035e5.json)
+
+[Extended Data](ext_articles/bfc035e5.ext.json)
+
+---
+
+### ரயில் தடம்புரண்டதால் மலையக ரயில் சேவைகள் பாதிப்பு!
+
+*2024-02-09 17:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/175996) · `ta`
+
+மலையக ரயில் பாதையில் வட்டவளை மற்றும் ரொசெல்ல நிலையங்களுக்கு இடையில் ரயில் தடம் புரண்டுள்ளதாக நாவலப்பிட்டி ரயில்வே கட்டுப்பாட்டு அலுவலகம் தெரிவித்துள்ளது.
+
+நாவலப்பிட்டியிலிருந்து வெள்ளிக்கிழமை (9) நானுஓயா நோக்கிப் பயணித்த ரயிலே தடம் புரண்டுள்ளதாக கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+
+இதன் காரணமாக மலையக பாதையில் ரயில் போக்குவரத்து தடைப்பட்டுள்ளதுடன் ரயில் சேவையை வழமைக்கு கொண்டுவரும் பணியில் ரயில்வே ஊழியர்கள் ஈடுபட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/d9bdc6a5.json)
+
+---
+
+### பெண் பொலிஸ் கான்ஸ்டபிளின் துப்பாக்கி வெடித்து மற்றொரு கான்ஸ்டபிள் காயம்!
+
+*2024-02-09 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/175995) · `ta`
+
+ஒக்கம்பிட்டிய பொலிஸிஸ் நிலையத்தில் கடமையாற்றும் பொலிஸ் கான்ஸ்டபிள் ஒருவரின் துப்பாக்கி இயங்கியதில் மற்றுமொரு பொலிஸ் கான்ஸ்டபிள் காயமடைந்துள்ளார்.
+
+குறித்த பொலிஸ் கான்ஸ்டபிள் தன்னிடமிருந்த  துப்பாக்கியை பொலிஸ் நிலையத்தில் வைத்து சுத்தம் செய்து கொண்டிருந்தபோது, அது திடீரென செயற்பட்டு அவருக்கு அருகில் இருந்த மற்றுமொரு பொலிஸ் கான்ஸ்டபிள் மீது  சூடுபட்டுள்ளது.
+
+இதனையடுத்து, துப்பாக்கிச் சூட்டுக்கு இலக்காகி காயமடைந்த அவர் மொனராகலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும், அவரது நிலைமை கவலைக்கிடமாக இல்லை எனவும் தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/e7de6413.json)
 
 ---
 
@@ -85,6 +167,24 @@ Feb 09 (Daily Mirror) - SJB MP Dr. Harsha de Silva has been re-appointed to serv
 [Data](articles/526cbc71.json)
 
 [Extended Data](ext_articles/526cbc71.ext.json)
+
+---
+
+### කෘෂිකර්ම දෙපාර්තමේන්තුව අවම මිල ගණන් ඉදිරිපත් කරයි
+
+*2024-02-09 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193182) · `si`
+
+මහ කන්නයේ දී රජය විසින් වී මිල දී ගැනීම සඳහා කෘෂිකර්ම දෙපාර්තමේන්තුව අවම මිල ගණන් ඉදිරිපත් කර තිබේ.
+
+ඒ අනුව තෙතමනය සියයට 14 මට්ටමක ඇති නාඩු වී කිලෝග්‍රෑම් එකක් සඳහා රුපියල් 105ක්, සම්බා වී කිලෝග්‍රෑම් එකක් සඳහා රුපියල් 120ක් සහ කීරි සම්බා වී කිලෝග්‍රෑම් එකක් සඳහා රුපියල් 130ක් ලෙස අවම මිල ගණන් සඳහන් කර ඇත.
+
+තෙතමනය සියයට 14 මට්ටමට වැඩි නාඩු වී කිලෝග්‍රෑම් එකක් සඳහා රුපියල් 90ක්, සම්බා වී කිලෝග්‍රෑම් එකක් සඳහා රුපියල් 100ක් සහ කීරි සම්බා වී කිලෝග්‍රෑම් එකක් සඳහා රුපියල් 120ක් ලෙස අවම මිල නිකුත් කළ බව කෘෂිකර්ම අමාත්‍යාංශය සඳහන් කරයි.
+
+මේ අතර, රජය විසින් ලබා දී ඇති මිල ගණන් යටතේ වී මිල දී නොගන්නා වී මෝල් හිමියන්, වී එකතු කරන්නන් සහ වී ගබඩා අයිතිකරුවන් අසාදු ලේඛනගත කිරීමට තීරණය කළ බව ද කෘෂිකර්ම අමාත්‍යාංශය වැඩිදුරටත් සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/70466c75.json)
 
 ---
 
@@ -416,17 +516,19 @@ In total, Fraser-Pryce has won three Olympic golds, four silvers and a bronze.
 
 ---
 
-### ඉන්දියාවේ බිත්තර සතොසෙන් තවදුරටත්
+### Sathosus is no longer available in India's eggs
 
 *2024-02-09 15:25:04* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවේ-බිත්තර-සතොසෙන්-තවදුරටත්/11-407983) · `si`
 
-මේ වසරේ ඉන්දියාවෙන් ඇනවුම් කල පළමු බිත්තර මිලියන 7ක තෙගයේ පළමු කොටස ලංකාවට ලැබී ඇති බව රාජ්‍ය විවිධ නීතිගත සංස්ථාව පවසනවා.
+The State Admission Corporation states that Sri Lanka has received the first section of the first 7 million eggs in India this year.
 
-සත්ව නිෂ්පාදන සහ සෞඛය දෙපාර්ථමේන්තුවේ පරීක්ෂාවලින් අනතුරුව මෙම තොග එළ‌ෛඹෙන සතිය වන විට දිවයින පුරා පිහිටි සතොස අලවිහල් වෙත නිකුත් කරන බව සංස්ථා සභාපති ආසිරි වලිසුන්දර මහතා වැඩිදුරටත් ප්‍රකාශ කලේය.
+Chairman Asiri Walrisundara further stated that the bulk will be released to Sathosa palls throughout the year, after the investigation of animal products and medical examination.
 
 ◼️
 
 [Data](articles/9f6c88f1.json)
+
+[Extended Data](ext_articles/9f6c88f1.ext.json)
 
 ---
 
@@ -1140,25 +1242,27 @@ Meanwhile, a meeting was held between President Ranil Wickremesinghe and Austral
 
 ---
 
-### ලෝක පිට්සා දිනයට ලංකාවේ ලොකුම පිට්සාව මීගමුවේ හදයි
+### Sri Lanka's largest outlets in Sri Lanka to be built on World Petza Day
 
 *2024-02-09 11:01:42* · [`adalk`](https://www.ada.lk/uncategorized/ලෝක-පිට්සා-දිනයට-ලංකාවේ-ලොකුම-පිට්සාව-මීගමුවේ-හදයි/1-407981) · `si`
 
-පෙබරවාරි මස 09 දිනට යෙදී ඇති ලෝක පීට්සා දිනය නිමිත්තෙන් මීගමුව , ඒත්තුකාළ ප්‍රදේශයේ පිහිටි ටුක් ටුක් වයින් ඇන්ඩ් ඩයින් හෝටලය ලංකාවේ විශාලතම පීට්සා ව 02/09 දින රාත්‍රී එම හෝටල් පරිශ්‍රයේ දී නිර්මාණය කිරීමට පියවර ගෙන තිබුණි.
+Steps were taken to create the Tuk Tke and Dine Hotel in the Ethulkana, Negombo, to mark the World Pizza Day on February 09.
 
-මේ සදහා එම හෝටලයේ විධායක සූපවේදී දුමින්ද වනිගසේකර මහතා මූලිකත්වය ගෙන ක්‍රියා කර තිබුණි .
+The hotel's executive chef was headed by Mr. Duminda Wanigasekera.
 
-අගල් 50 දිග මෙම පීට්සා එක කිලෝ ග්‍රෑම් 12 ක බරකින් යුතු විය .
+The 50 inch length of the 50kzza was covered with 12 kilograms.
 
-මෙම පීට්සා ව නිර්මාණය කිරීම සදහා තක්කාලි කොංග්‍රසයක් ( මිශ්‍රණයක් ) මොසැරැල්ලා චීස් , කුකුළු මස් , සොසේජස් ,විවිධ පාට සහ රස වර්ග 04 කින් යුතු බෙල් පෙපර් , ඔලිව් තෙල් සහ බී ළූණු භාවිතා කර තිබූ අතර මෙම පීට්සා ව විනාඩි 08 ක කාළයකින් පුළුස්සා නිම කර ගැනීමට හැකි වී  තිබුණි .
+The tomato Congress (a mixture) was used for a tomato coding, chicken, sausage, chicken, sausage, chicken, sausage, chicken, sausage, chicken, sausage, four color and tastes.Had been able to.
 
-මෙම පීට්සා ව රස බැලීම සදහා 100 කට අධික පිරිසක් මෙම හෝටල් පරිශ්‍රයට පැමිණ සිටියහ . එකවර 08 දෙනෙකුට භුක්ති විදීමට හැකි වන පරිදි අගල් 25 ක් දිග වන ආකාරයට සකස් කර  පීට්සා කැබළි ඔවුන්ට ආහාර සදහා  පිපිරිනැමීම සිදු කෙරුණි .
+More than 100 people were present at the hotel premises to taste the pizza.The explosion of the 25 inches of Petza was exploded to the explosion of 25 inches so that they could enjoy eight at once.
 
-ඉකුත් 2021 වසරේ දී මෙම හෝටලය අගල් 40 ක් දිග පීට්සා වක් ලෝක පීට්සා දිනය නිමිත්තෙන් සකස් කර තිබුණි
+The hotel was prepared to mark the 40 inches of Pizza World Pressz World Pightsa Day in 2021
 
 ◼️
 
 [Data](articles/13def504.json)
+
+[Extended Data](ext_articles/13def504.ext.json)
 
 ---
 
@@ -1183,6 +1287,26 @@ The hotel was prepared to mark the 40 inches of Pizza World Pressz World Pightsa
 [Data](articles/72e0b02d.json)
 
 [Extended Data](ext_articles/72e0b02d.ext.json)
+
+---
+
+### 'මම ලියන හැටි' : මංජුල සේනාරත්න
+
+*2024-02-09 11:01:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72gjky8wjyo) · `si`
+
+මංජුල සේනාරත්න යනු මෑත කාලයේ සුවිශේෂී පාඨක අවදානයක් දිනා ගත් ලේඛකයෙකි. ලාංකීය සාහිත්‍ය සංස්කෘතිය තුළ  බරපතල ලෙස වර්ධනය නොවූ නවකතා ශානර සමඟ කටයුතු කරමින් ඔහු එකතු කර ඇති 12 12 12 සහ බියුරෝ වැනි සන්ත්‍රාසය මූලික කර ගත් නවකතා අතිශය ජනප්‍රියත්වයක් දිනා ගෙන ඇත.
+
+මා ඔහු සමග කතාබහක යෙදෙන්නේ නවකතාකරුවෙකු ලෙස ඔහු ලේඛනයේ යෙදෙන විට ඔහුට දැනෙන හැඟීම් සහ ලිවීම සමඟ බැඳුණු ඔහුට ම අනන්‍ය වූ වතාවත් තේරුම් ගැනීමේ අරමුණින් ය.
+
+මේ සාකච්ඡාව තුළ මා අසන ප්‍රශ්න මේ වන විට මා විසින් පළකර ඇති ‘නිම්නාගේ ඉතිහාසය’ (2019) සහ ‘මේ රහස් කවුලුවෙන් එබෙන්න’ (2014) නවකතා ලියන අතර මා මුහුණ දුන් අත්දැකීම් මතින් පැන නැගුණු ඒවා ය.
+
+හැම ලේඛකයෙක්ම ලිවීමේ ක්‍රියාවලියට මුහුණ දෙන්නේ තමන්ගේ ම වූ ආකාරයකටය යන්න ප්‍රකට කරුණකි.
+
+ලියන තැන, ලියන විදිහ, ලියන විට බොන කෝපි කෝප්ප ගනන, ලිවීම තමන්ම විඳින හැටි වැනි දේ අයත් වන්නේ ලේඛකයාගේ අතිපුද්ගලික අඩවියට ය. මේ සංවාද මාලාව උත්සාහ කරන්නේ නවකතාකරුවන්ගේ එම රහස් අඩවිය වෙත එබී බැලීමට ය.
+
+...
+
+[Data](articles/cd659265.json)
 
 ---
 
@@ -1919,145 +2043,5 @@ Meanwhile, the Ceylon Electricity Board and the relevant private company have si
 [Data](articles/bff90e25.json)
 
 [Extended Data](ext_articles/bff90e25.ext.json)
-
----
-
-### Bodies of elderly couple found inside in Mirihana
-
-*2024-02-09 07:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97130/bodies-of-elderly-couple-found-inside-in-mirihana) · `en`
-
-The bodies of an elderly couple have been found inside a house in Mirihana.
-
-◼️
-
-[Data](articles/8f99deb5.json)
-
-[Extended Data](ext_articles/8f99deb5.ext.json)
-
----
-
-### Bodies of elderly couple found inside house in Mirihana
-
-*2024-02-09 07:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97130/bodies-of-elderly-couple-found-inside-house-in-mirihana) · `en`
-
-The bodies of an elderly couple have been found inside a house in Mirihana.
-
-◼️
-
-[Data](articles/952fa365.json)
-
-[Extended Data](ext_articles/952fa365.ext.json)
-
----
-
-### Bodies of elderly couple found inside house after foul odour reported
-
-*2024-02-09 07:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97130/bodies-of-elderly-couple-found-inside-house-after-foul-odour-reported) · `en`
-
-The bodies of an elderly couple have been found inside a house in Mirihana on Thursday (Feb.08).
-
-Officers of Mirihana Police had inspected the house after a neighbour reported a foul odour coming from the house.
-
-The body of the 80-year-old husband was discovered lying on the bed of one of the rooms, while the 96-year-old wife’s found naked on the kitchen floor.
-
-After facts were presented to the Nugegoda Magistrate’s Court and the magistrate’s inquest was completed, the bodies were moved to the mortuary of Colombo South Teaching Hospital in Kalubowila for the post-mortem.
-
-Mirihana Police has initiated investigations to uncover the cause and manner of deaths to determine whether it was a murder.
-
-◼️
-
-[Data](articles/c6b8fcdd.json)
-
-[Extended Data](ext_articles/c6b8fcdd.ext.json)
-
----
-
-### Mirihana residence found in a dead couple
-
-*2024-02-09 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193150) · `si`
-
-Police said that the bodies of a deceased couple were found in a house.
-
-The male bodies of the deceased have been found in a bed for a bed in a room of a room at a room in a room at a room where police officers visited the house.
-
-He added that a bodies of nude women's bodies were also in the middle of the house.
-
-The house was inspected on an notice to the Mirihana Police that the house has been in the premises for several days.
-
-The victim was 80-year-old male and 96 year old woman.
-
-The police said that they were a friend of the house.
-
-◼️
-
-[Data](articles/52706697.json)
-
-[Extended Data](ext_articles/52706697.ext.json)
-
----
-
-### In the morning, the mist
-
-*2024-02-09 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193148) · `si`
-
-The Met Department forecasts that there is a rainy weather in the island today (09).
-
-Accordingly, in some places in the Central, Sabaragamuwa and Western provinces and in the Galle and Matara districts seek.
-
-◼️
-
-[Data](articles/d3246938.json)
-
-[Extended Data](ext_articles/d3246938.ext.json)
-
----
-
-### Sri Lanka and Afghanistan ODI Series: This is a good opportunity to see where we are
-
-*2024-02-09 06:15:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6p95dkg42zo) · `si`
-
-Sri Lanka and Afghanistan ODI Series: This is a good opportunity to see where we are
-
-Tourist Afghanistan team and Sri Lanka will commence at the Pallekele International Stadium today (09th February 09).
-
-The one day series between Sri Lanka and Afghanistan consists of three matches.
-
-According to the ICC one-day team ratings, Sri Lanka is on the 7th and Afghanistan is in the 9th.
-
-ICC banned Sri Lankan cricket. What happened to date?
-
-The Afghan group won a seven wicket win against Sri Lanka at the last year's World Cup.
-
-Sri Lanka and Afghanistan have met 12 ODIs to date.
-
-Sri Lanka won seven matches to win four matches. One match has been abandoned without results.
-
-The Sri Lanka squad for the ODI was officially announced yesterday (Feb 08).
-
-Kusal Mendis (Leader), Charith Saharadi, Gratira Samarawickage, Sahan Liyanage, Akila Dananjaya, Akila Dananjaya, Chamika, ChamikaThe 16 players include Karunaranthanthantha and Shivone Daniel.
-
-...
-
-[Data](articles/7621cf7c.json)
-
-[Extended Data](ext_articles/7621cf7c.ext.json)
-
----
-
-### Sri Lanka earned $3mn from resuming bunkering system - State Minister
-
-*2024-02-09 06:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97129/sri-lanka-earned-3mn-from-resuming-bunkering-system-state-minister) · `en`
-
-State Minister of Power and Energy, D.V. Chanaka, says Sri Lanka has generated a revenue of USD 3 million through the sale of 5,200 MT of fuel via the revived bunkering system for vessels. This signifies a significant step forward in stabilizing the country’s energy finances, he added.
-
-Furthermore, the lawmaker emphasized the establishment of a USD 200 million buffer stock. According to him, this prudent measure demonstrates proactive planning to mitigate future economic fluctuations and ensure energy security.
-
-Acknowledging the past economic struggles, he referenced the time when Sri Lanka faced fuel shortages and long queues. He, however, highlighted the nation’s gradual progress achieved through collective efforts. Commending everyone involved for their dedication, he attributed the current stability in oil supply to their collaboration.
-
-...
-
-[Data](articles/feb7536a.json)
-
-[Extended Data](ext_articles/feb7536a.ext.json)
 
 ---

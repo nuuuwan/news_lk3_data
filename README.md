@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 12:48:26**
+As of **2024-02-09 13:02:31**
 
 ## Newspaper Stats
 
-*Scraped **5,916** Articles*
+*Scraped **5,918** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,34 @@ islandlk | 308
 economynextcom | 309
 dailyftlk | 332
 newsfirstlk | 363
-adalk | 495
+adalk | 496
 adaderanalk | 730
 tamilmirrorlk | 730
 virakesarilk | 733
 adaderanasinhalalk | 780
-dailymirrorlk | 843
+dailymirrorlk | 844
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,914 (100.0%) of 5,916 articles have been extended.
+5,916 (100.0%) of 5,918 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### Job Fair at SLECC
+
+*2024-02-09 12:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Job-Fair-at-SLECC/110-276669) · `en`
+
+The EDEX Expo 2024, Sri Lanka’s most prestigious Educational Exhibition and Job Fair was ceremonially open at the Sri Lanka Exhibition and Convention Centre (SLECC), today. The Job Fair will be held till Sunday (11) from 9.30 a.m. to 6.00 p.m. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/50a38527.json)
+
+---
 
 ### India, Sri Lanka discuss proposal for multi-product petroleum pipeline
 
@@ -47,6 +59,8 @@ The minister said technical studies, demand market analysis, financial analysis,
 ...
 
 [Data](articles/38f07ba1.json)
+
+[Extended Data](ext_articles/38f07ba1.ext.json)
 
 ---
 
@@ -126,6 +140,8 @@ Against this backdrop, the Sri Lankan Embassy in Jordan said that another group 
 
 [Data](articles/a4607656.json)
 
+[Extended Data](ext_articles/a4607656.ext.json)
+
 ---
 
 ### A list of 349 suspects on all police
@@ -203,6 +219,20 @@ It has also been discussed in the Sri Lanka Petroleum Consignment Resource Perio
 [Data](articles/dd7233c9.json)
 
 [Extended Data](ext_articles/dd7233c9.ext.json)
+
+---
+
+### බංකොලොත් වෙනකොට ණය රු. බිලියන 24 000ක් දැන් ණය රුපියල් බිලියන 29, 000ක්
+
+*2024-02-09 10:53:16* · [`adalk`](https://www.ada.lk/breaking_news/බංකොලොත්-වෙනකොට-ණය-රු--බිලියන-24-000ක්-දැන්-ණය-රුපියල්-බිලියන-29--000ක්/11-407979) · `si`
+
+දැන් අපේ සංචිත ඩොලර් මිලියන 4500ක් තියෙනවා කියලා ජනාධිපතිතුමන් ආඩම්බරයෙන් කිව්වා. 2022 සහ 2023 වසරේත් මේ වසරේ පලමු මාසයත් ඇතුලත ඩොලර් මිලියන 11 000ක ණය ගෙවීම නතර කර තියෙනවා යයි උදය ගම්මන්පිල මහතා පාර් ලිමේන්තුව අමතමින් (08දින) ප්‍රකාශකර සිටිනවා. තවදුරටත් අදහස් දැක්වූ ඔහු
+
+අපි මේ ණය ගෙවීම ආරම්භ කරන්න වෙනවා. බංකොලොත් වුනාට පස්සේවත් අපි ණය ගැනීම අඩු වුනාද? ණය ගැනීම නතරවුනෙත් නෑ. අඩුවුනෙත් නෑ. අපි බංකොලොත් භාවය ප්‍රකාශකරද්දී අපේ සමස්ථ ණය රුපියල් බිලියණ 24, 000ක්. 2023 දෙසැම්බර් 31 වන විට අපේ සමස්ථ ණය රුපියල් බිලියන 29, 000ක්. බංකොලොත් මාස 20ට බිලියණ 5000ක් අපේ ණය වැඩි වෙලා. සෑම දිනකම රුපියල් බිලියන 8කින් අපේ රටේ ණය බර වැඩිවෙනවා. බිලියන 24 000ක් ගෙවන්න බැරිව බංකොලොත් කිව්ව අපි රුපියල් බිලියන 29, 000ක් ගෙවන්නේ කොහොමද?
+
+◼️
+
+[Data](articles/b4ab0f60.json)
 
 ---
 
@@ -1997,45 +2027,5 @@ Meanwhile, a group of employees of bus depot protest in front of the Breid of Bi
 [Data](articles/40d2f35d.json)
 
 [Extended Data](ext_articles/40d2f35d.ext.json)
-
----
-
-### India’s Petronet LNG to supply liquefied natural gas to Sri Lanka from 2025
-
-*2024-02-08 20:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indias-Petronet-LNG-to-supply-liquefied-natural-gas-to-Sri-Lanka-from-2025/108-276617) · `en`
-
-India, Feb 08 (PTI) - Petronet LNG Ltd, India's biggest liquefied natural gas company, will in 2025 start supplying LNG to Sri Lanka, initially in containers loaded on ships and later going on to build an import terminal, its chief executive said on Thursday.
-
-Sri Lanka is seeking supply of gas in liquid form to meet requirements for generating electricity and other industries. It was in discussions with Petronet and other suppliers for years and it is only now that it has finally agreed to buy the fuel from the Indian firm.
-
-Petronet CEO Akshay Kumar Singh said the company will ship 850 tonnes of gas daily to the island nation in containers of 17 tonnes each. The supplies would be for five years during which the company will build a floating LNG receipt facility at Colombo port.
-
-The Indian firm imports LNG from Qatar, Australia and other countries at two terminals - Dahej terminal in Gujarat and a facility at Kochi in Kerala.
-
-...
-
-[Data](articles/576f9eaa.json)
-
-[Extended Data](ext_articles/576f9eaa.ext.json)
-
----
-
-### India to begin LNG supplies to Sri Lanka in 2025
-
-*2024-02-08 20:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97124/india-to-begin-lng-supplies-to-sri-lanka-in-2025) · `en`
-
-Petronet LNG Ltd, India’s biggest liquefied natural gas company, will in 2025 start supplying LNG to Sri Lanka, initially in containers loaded on ships and later going on to build an import terminal, its chief executive said on Thursday.
-
-Sri Lanka is seeking supply of gas in liquid form to meet requirements for generating electricity and other industries. It was in discussions with Petronet and other suppliers for years and it is only now that it has finally agreed to buy the fuel from the Indian firm.
-
-Petronet CEO Akshay Kumar Singh said the company will ship 850 tonnes of gas daily to the island nation in containers of 17 tonnes each. The supplies would be for five years during which the company will build a floating LNG receipt facility at Colombo port. “The supplies will start in 18 months or so,” he said.
-
-The Indian firm imports LNG from Qatar, Australia and other countries at two terminals - Dahej terminal in Gujarat and a facility at Kochi in Kerala.
-
-...
-
-[Data](articles/ac09c0e7.json)
-
-[Extended Data](ext_articles/ac09c0e7.ext.json)
 
 ---

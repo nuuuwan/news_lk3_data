@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 15:17:28**
+As of **2024-02-09 15:33:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,937 (100.0%) of 5,939 articles have been extended.
+5,939 (100.0%) of 5,939 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ After the gazette was published, the CAA launched island-wide raids in search of
 
 [Data](articles/885bfb89.json)
 
+[Extended Data](ext_articles/885bfb89.ext.json)
+
 ---
 
 ### Sri Lanka, Australia mull strengthening bilateral ties amid Indian Ocean dynamics
@@ -71,6 +73,8 @@ Moreover, President Wickremesinghe spotlighted Sri Lanka’s escalating investme
 ...
 
 [Data](articles/758a80cc.json)
+
+[Extended Data](ext_articles/758a80cc.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 17:33:15**
+As of **2024-02-09 17:52:55**
 
 ## Newspaper Stats
 
-*Scraped **5,957** Articles*
+*Scraped **5,961** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 498
 tamilmirrorlk | 731
 virakesarilk | 735
 adaderanalk | 739
-adaderanasinhalalk | 793
+adaderanasinhalalk | 797
 dailymirrorlk | 852
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,955 (100.0%) of 5,957 articles have been extended.
+5,961 (100.0%) of 5,961 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### New Kelani Bridge traffic is restricted
+
+*2024-02-09 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193180) · `si`
+
+The Express Corment Tourism has announced the public on the closure of the road entering the new Kelani Bridge from the New Kelani Bridge.
+
+Accordingly, the above tongue is only closed from the above tongue from 9am to 5 am today (09).
+
+Meanwhile, the middle part of the bridge will be closed from the middle part of the bridge from the Orugodawatta Junction to Kelani Bridge.
+
+The vehicles traveling from Katunayake from Katunayake from Katunayake to Colombo and the vehicles traveling to Katunayake will not interfere.
+
+During this repair, the public installed the bills to the public at Dematagoda, Peliyagoda, Negombo Road, Kandy Road, Pandana Junction near the Fish Market.
+
+◼️
+
+[Data](articles/54c0a144.json)
+
+[Extended Data](ext_articles/54c0a144.ext.json)
+
+---
 
 ### President addresses Indian Ocean Conference, calls for enhanced connectivity infrastructure
 
@@ -50,6 +72,44 @@ The conference aims to foster cooperation among 40 participating nations. Presid
 
 [Data](articles/41c47ebe.json)
 
+[Extended Data](ext_articles/41c47ebe.ext.json)
+
+---
+
+### Instead of Patal, Godahewa
+
+*2024-02-09 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193179) · `si`
+
+Parliamentarian Nalaka Godahewa has been named for representing the opposition of the Government Cashion Committee.
+
+◼️
+
+[Data](articles/946405f2.json)
+
+[Extended Data](ext_articles/946405f2.ext.json)
+
+---
+
+### A century from wishes Nissanka
+
+*2024-02-09 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193178) · `si`
+
+Sri Lanka and Afghanistan, Sri Lanka, Wimali came to report a century in the first match of the three-run-day tournament.
+
+The Afghan leader won the toss and invited Sri Lanka to bat first.
+
+The innings began in the innings and wishing for the first wicket of 182 runs for the first wicket.
+
+Anthemis Fernando scored 88 runs as the first wicket.
+
+The wishes of wishes were decorated with 11 fours and one six bowls, and he spent 88 balls.
+
+◼️
+
+[Data](articles/d2491750.json)
+
+[Extended Data](ext_articles/d2491750.ext.json)
+
 ---
 
 ### MPs nominated to 5 parliamentary committees
@@ -67,6 +127,34 @@ Accordingly, members have been selected to serve in the Ministerial Consultative
 [Data](articles/08142079.json)
 
 [Extended Data](ext_articles/08142079.ext.json)
+
+---
+
+### Second arrests with firearm used by five-man murder
+
+*2024-02-09 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193177) · `si`
+
+බෙලිඅත්ත පංච පුද්ගල ඝාතනයට යොදාගත් බවට සැක කෙරෙන ටී 56 වර්ගයේ ගිනිඅවියක් සමග පුද්ගලයෙකු කොළඹ අපරාධ කොට්ඨාසය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+
+The police said that Kosgoda Sujee was a close associate of Kosgoda, who was the murder of the suspect, police said.
+
+Police have found 32 magazines and 32 live ammunition with the suspect.
+
+It has been revealed that Kosgoda Sujee has been granted by Kosgoda Sujee in the investigation of the suspect.
+
+It has been revealed that the suspect had fled the Sri Lanka Lability forces in 2008.
+
+Police say that the suspect is tightened to drugs.
+
+Kosgoda Suga have been used to uncover the crimes committed and used by the suspect's murder and organized criminal activities in relation to the murder and organized criminal activities.72 hours under the Prevention of Terrorism Act will be detained under the Prevention of Terrorism Act.
+
+Meanwhile, police have recovered a car in Dummalasuriya, which is said to have been transported to the Murder of Beliatta.
+
+...
+
+[Data](articles/2379ea33.json)
+
+[Extended Data](ext_articles/2379ea33.ext.json)
 
 ---
 
@@ -870,21 +958,23 @@ The government has taken steps to increase the total number of beneficiaries to 
 
 ---
 
-### සිමෙන්ති සංස්ථාවේ ඉඩමෙන් ඩොලර් මිලියන 100ක් උපයාගත හැකියි
+### The cement corporation can earn $ 100 million from the land
 
 *2024-02-09 11:07:01* · [`adalk`](https://www.ada.lk/breaking_news/සිමෙන්ති-සංස්ථාවේ-ඉඩමෙන්-ඩොලර්-මිලියන-100ක්-උපයාගත-හැකියි/11-407982) · `si`
 
-මෙන්ති සංස්ථාව සතු අක්කර 5000ක ඉඩමෙන් වසරකට ඩොලර් මිලියන 300ක් උපයා ගත හැකි සැලැස්මක් ඇති බවත් ඒ වෙනුවෙන් ආයෝජනය කිරීමට සූදානම් ආයතනයක් ද මේ වන විට තෝරාගෙන ඇති බවත් ප්‍රාථමික කර්මාන්ත රාජ්‍ය අමාත්‍ය චාමර සම්පත් දසනායක මහතා පැවසීය.
+Minister of Primary Industries Chamara Sampath Dasanayake said that the 5000 acres of land belonging to the 5000 acre land belonging to the 5000 acre land a year have already been selected for this purpose.
 
-කුමන ප්‍රශ්න පැමිණිය ද රටේ පවතින සම්පත්වලින් හැකි තරම් ප්‍රයෝජන ලබා ගෙන රට ගොඩ නැඟීමට කටයුතු කළ යුතු බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+The government said that the country should be able to build as much as possible by the resources of the country and build the country.
 
-ප්‍රාථමික කර්මාන්ත රාජ්‍ය අමාත්‍ය චාමර සම්පත් දසනායක මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (07) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+Minister of Primary Industries Chamara Sampath Dasanayake made this statement participating at a press conference held at the Presidential Media Center today (07).
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ ප්‍රාථමික කර්මාන්ත රාජ්‍ය අමාත්‍ය චාමර සම්පත් දසනායක මහතා මෙසේ ද පැවසීය,
+State Minister of Primary Industries Chamara Sampath Dasanayake said:
 
 ...
 
 [Data](articles/f8511f5f.json)
+
+[Extended Data](ext_articles/f8511f5f.ext.json)
 
 ---
 
@@ -1969,87 +2059,5 @@ He started off his career at Coca-Cola and worked his way through to become a se
 [Data](articles/a4986026.json)
 
 [Extended Data](ext_articles/a4986026.ext.json)
-
----
-
-### CAL launches Sri Lanka’s Exclusive Active Fixed-Income Closed-End Fund
-
-*2024-02-09 05:09:12* · [`dailyftlk`](https://www.ft.lk/business/CAL-launches-Sri-Lanka-s-Exclusive-Active-Fixed-Income-Closed-End-Fund/34-758274) · `en`
-
-Capital Alliance Holdings Limited (CAL), the leading investment bank with over 23 years of extensive market experience, is pleased to announce that Capital Alliance Investments Ltd, the asset management division of CAL, has launched Sri Lanka’s exclusive active fixed-income closed-end fund.
-
-The investment banking division of CAL, Capital Alliance Partners Ltd, played a crucial role as the financial advisor in the introduction, highlighting CAL's commitment to providing innovative financial solutions to the market.
-
-This specialized fund is strategically launched during periods of high interest rates in the economy, offering investors the opportunity to lock their funds for a stipulated timeframe and gain maximum returns on their investments. The product will enhance the ability for investors to diversify their portfolio and manage liquidity and return objectives more efficiently.
-
-...
-
-[Data](articles/187ae795.json)
-
-[Extended Data](ext_articles/187ae795.ext.json)
-
----
-
-### Charitha rips into President’s policy statement
-
-*2024-02-09 05:07:40* · [`dailyftlk`](https://www.ft.lk/news/Charitha-rips-into-President-s-policy-statement/56-758273) · `en`
-
-Says Govt. policy statement presented by President lacks any coherent vision despite grand rhetoric
-
-Claims it is solely comprised of outdated IMF policies which have led to downfall of countries
-
-Accuses President of creating a political and constitutional crisis to mask an emerging economic crisis arising from IMF policies
-
-Stresses upcoming Presidential poll must serve as a platform to discuss SL’s economic policies
-
-Member of the Freedom People’s Congress (FPC) and  MP Prof. Charitha Herath yesterday sharply criticised the Government’s policy statement presented by President Ranil Wickremesinghe on Wednesday and said that it lacked any coherent vision despite the grand rhetoric.
-
-Participating in the parliamentary debate on the policy statement yesterday, Herath remarked that it solely comprised outdated IMF policies, which historically resulted in nations relying on begging bowls. He emphasised the absence of any alternative policies within the statement.
-
-...
-
-[Data](articles/e96deb18.json)
-
-[Extended Data](ext_articles/e96deb18.ext.json)
-
----
-
-### SJB firm on non-support - Nalin Bandara highlights incompatibility with SLPP
-
-*2024-02-09 05:05:05* · [`dailyftlk`](https://www.ft.lk/news/SJB-firm-on-non-support-Nalin-Bandara-highlights-incompatibility-with-SLPP/56-758272) · `en`
-
-Samagi Jana Balawegaya (SJB) MP Nalin Bandara yesterday expressed the party’s inability to support the President Ranil Wickremesinghe’s endeavours to revive Sri Lanka, citing his collaboration with the leaders of the Sri Lanka Podujana Peramuna (SLPP), the same party responsible for the country’s bankruptcy.
-
-“The President has made many statements of Government policy within the last two years. In turn, Government MPs are now singing the praises of the President. Yesterday President Wickremesinghe questioned why the SJB cannot support him as the Pohottuwa members have. That is the very reason we cannot support his efforts,” Bandara said.  He remarked that those responsible for leading the country to bankruptcy since 2005 are now praising Wickremesinghe, and they appear to view the President in a favourable light.  “SJB lawyers even filed cases against them, and they were found responsible for the crisis. Hence, we are unable to collaborate with them,” he said.
-
-◼️
-
-[Data](articles/cd338c82.json)
-
-[Extended Data](ext_articles/cd338c82.ext.json)
-
----
-
-### Justice Minister acknowledges presence of deficiencies in OSA
-
-*2024-02-09 05:03:31* · [`dailyftlk`](https://www.ft.lk/news/Justice-Minister-acknowledges-presence-of-deficiencies-in-OSA/56-758271) · `en`
-
-Says Govt. has observed certain shortcomings and is willing to make amendments
-
-Requests opposition to propose amendments instead of calling for it to be scrapped entirely
-
-Claims Govt. enacted law in good faith and not to protect Govt. or President as claimed
-
-Justice, Prisons Affairs and Constitutional Reforms Minister Dr. Wijeyadasa Rajapakshe in Parliament yesterday admitted that the recently enacted Online Safety Act has certain shortcomings and they have been observed by the Government.
-
-Accordingly, the Minister said the Government is willing to bring in the necessary amendments to the Act.
-
-The Minister emphasised that when the Supreme Court issues an order regarding legislation under consideration by Parliament, amendments beyond the scope of the subject matter cannot be proposed. “We can bring amendments within the scope of the subject matter, however,” he said.
-
-...
-
-[Data](articles/7f7f9592.json)
-
-[Extended Data](ext_articles/7f7f9592.ext.json)
 
 ---

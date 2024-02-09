@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 02:32:41**
+As of **2024-02-10 02:49:06**
 
 ## Newspaper Stats
 
@@ -564,6 +564,24 @@ In her petition, Diana Gamage is seeking a declaration that the decision to expe
 
 ---
 
+### Representatives including Anura Kumara Dissanayake, who met Kerala Industries Minister Rajiv
+
+*2024-02-09 21:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/176001) · `ta`
+
+Today is the fifth and final day of the Indian visit to the Indian government, including the President of the National People's Power, Anura Kumara Dissanayake, who is on a visit to the country.
+
+They toured the state of Kerala today, which is empowered by the Left Federation, which is primarily the CPIM-Kerala.The state of Kerala, which has over three crore and fifty lakhs of people, has made a rapid improvement in the fields of education and health.In particular, Kerala has made the highest space in the field of information technology in India.
+
+National People's Power President Anura Kumara Dissanayake, including the leader of the National People's Power, met with the Minister of State for Industry and Law in the Kerala capital of Thiruvananthapuram on Friday (09).Minister Rajiv is a member of the Central Executive Committee of the Indian Communist Party and is a legal graduate of the party's student body.
+
+...
+
+[Data](articles/e5993086.json)
+
+[Extended Data](ext_articles/e5993086.ext.json)
+
+---
+
 ### India and Australia set to renew rivalry in U19 Men’s Cricket World Cup Final
 
 *2024-02-09 21:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-and-Australia-set-to-renew-rivalry-in-U19-Mens-Cricket-World-Cup-Final/108-276688) · `en`
@@ -881,24 +899,6 @@ The incident occurred this evening (Feb. 09) and has affected the slow train rou
 [Data](articles/cd11a0c8.json)
 
 [Extended Data](ext_articles/cd11a0c8.ext.json)
-
----
-
-### Representatives including Anura Kumara Dissanayake, who met Kerala Industries Minister Rajiv
-
-*2024-02-09 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176001) · `ta`
-
-Today is the fifth and final day of the Indian visit to the Indian government, including the President of the National People's Power, Anura Kumara Dissanayake, who is on a visit to the country.
-
-They toured the state of Kerala today, which is empowered by the Left Federation, which is primarily the CPIM-Kerala.The state of Kerala, which has over three crore and fifty lakhs of people, has made a rapid improvement in the fields of education and health.In particular, Kerala has made the highest space in the field of information technology in India.
-
-National People's Power President Anura Kumara Dissanayake, including the leader of the National People's Power, met with the Minister of State for Industry and Law in the Kerala capital of Thiruvananthapuram on Friday (09).Minister Rajiv is a member of the Central Executive Committee of the Indian Communist Party and is a legal graduate of the party's student body.
-
-...
-
-[Data](articles/e5993086.json)
-
-[Extended Data](ext_articles/e5993086.ext.json)
 
 ---
 

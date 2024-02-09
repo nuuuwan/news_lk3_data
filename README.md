@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 08:32:51**
+As of **2024-02-09 08:50:14**
 
 ## Newspaper Stats
 
-*Scraped **5,871** Articles*
+*Scraped **5,874** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 68
-bbccomsinhala | 81
+bbccomsinhala | 82
 dbsjeyarajcom | 142
 islandlk | 308
 economynextcom | 308
@@ -19,14 +19,14 @@ adalk | 491
 adaderanalk | 721
 tamilmirrorlk | 723
 virakesarilk | 731
-adaderanasinhalalk | 770
+adaderanasinhalalk | 772
 dailymirrorlk | 834
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,871 (100.0%) of 5,871 articles have been extended.
+5,874 (100.0%) of 5,874 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,54 @@ The house has been raided, according to a notification made by a neighbor to Mir
 [Data](articles/e4ec21c7.json)
 
 [Extended Data](ext_articles/e4ec21c7.ext.json)
+
+---
+
+### Ukrainian military leader is removed from office
+
+*2024-02-09 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193154) · `si`
+
+Ukrainian army chief Valeri Soni has been removed from the post.
+
+The decision has been taken by President Vladimir Celenceky in the country.
+
+From June 2021, the President of the Ukraine Master of Ukrainian was a few months since the president.
+
+The military chief's stand was that the invasion of Russian governance without strength was a failure.
+
+However, President Selenceki had a need to attack the Russian role and was raised between both parties.
+
+Accordingly, after a discussion with the chief, he was removed from office and Ukrainian infantry head of Ukrainian infantry for the post.
+
+General Valeri Sainsney is also considered the most popular person in Ukraine, and the opposition has stated that the people of Ukraine will have to pay compensation due to his removal.
+
+◼️
+
+[Data](articles/fe0d1bf3.json)
+
+[Extended Data](ext_articles/fe0d1bf3.ext.json)
+
+---
+
+### Summoning of new applications of relief tomorrow
+
+*2024-02-09 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193153) · `si`
+
+Applications for selecting 4 million beneficiaries are scheduled to commence tomorrow (10).
+
+The proposals made by various parties have been revised by the proposals from various parties in selecting beneficiaries.
+
+If anyone was unable to apply for the criteria of the families, they could apply.
+
+Meanwhile, the revenue allowances of the revenue have been increased by effective from January.
+
+State Minister Shehan Semasinghe further stated that the allowance will be given to the new identified persons who are eligible to receive disabled, adult and kidney offers.
+
+◼️
+
+[Data](articles/8112ca97.json)
+
+[Extended Data](ext_articles/8112ca97.ext.json)
 
 ---
 
@@ -491,6 +539,26 @@ Six petitions mentioned in my announcement on January 23, 2024 and the eighteen 
 [Data](articles/e09d642d.json)
 
 [Extended Data](ext_articles/e09d642d.ext.json)
+
+---
+
+### 'Even if I could lose your way with this iron'
+
+*2024-02-09 02:14:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c989n5vvxr0o) · `si`
+
+There is nothing here. Play Video, "" Running Time, "", the Running Time, 1,4901 Video Head, "Some people ask us what can be done. But we're not going to hear. ''
+
+Niluka lived in a factory to live in a factory belonging to the Ampara, Uhana Divisional Secretariat, has lost the part below the wrists.
+
+But he says that despite the loss of partitions in the hands, but not lost his self-confidence.
+
+'Even if I could lose your bodies. I'm not tired when thinking about my children. The only message I have to tell you don't get boring. Try it. "He told the BBC Sinhala.
+
+◼️
+
+[Data](articles/610e96a1.json)
+
+[Extended Data](ext_articles/610e96a1.ext.json)
 
 ---
 
@@ -2009,63 +2077,5 @@ The government has violently attacked the struggle. The attacks on the oppositio
 [Data](articles/ae0c7039.json)
 
 [Extended Data](ext_articles/ae0c7039.ext.json)
-
----
-
-### Fall in vegetable prices
-
-*2024-02-08 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175877) · `ta`
-
-The prices of vegetables have fallen in the New Menning Market in Peliyagoda today (08) compared to the recent prices of vegetables in the country.
-
-Accordingly, the price of a kilo of bear has fallen to 700 rupees and the price of Ponji has fallen to 500 rupees.
-
-However, one kilogram of green chilli is sold at 1,000 rupees and a kilo of wedges at 1,100 rupees.
-
-Also, the price of fish has declined in the new mening market today.
-
-◼️
-
-[Data](articles/4b425a57.json)
-
-[Extended Data](ext_articles/4b425a57.ext.json)
-
----
-
-### Heroin trafficker sentenced to life in prison
-
-*2024-02-08 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193137) · `si`
-
-The Colombo High Court sentenced to a person who was convicted to possess and smuggle drugs.
-
-Colombo High Court Judge Adal Pabennege gave the verdict.
-
-The police had arrested the accused with 5.9 grams of heroin in the Grandpass, Grandpass, 2018.
-
-Later, the Attorney General was prosecuted before the Colombo High Court.
-
-After a lengthy trial, the judge said that the complaints made by the complaint against the accused have been proved without fair doubts.
-
-Accordingly, the judge said he was sentenced.
-
-◼️
-
-[Data](articles/57b380bc.json)
-
-[Extended Data](ext_articles/57b380bc.ext.json)
-
----
-
-### Tomorrowless weather tomorrow
-
-*2024-02-08 16:24:11* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-වැසි-රහිත-කාලගුණයක්/11-407969) · `si`
-
-The Department of Meteorology states that a rainy weather is expected tomorrow.This is stated in announcement this afternoon.
-
-◼️
-
-[Data](articles/e53503da.json)
-
-[Extended Data](ext_articles/e53503da.ext.json)
 
 ---

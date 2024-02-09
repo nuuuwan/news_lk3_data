@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 14:02:34**
+As of **2024-02-09 14:17:23**
 
 ## Newspaper Stats
 
-*Scraped **5,928** Articles*
+*Scraped **5,931** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 70
-bbccomsinhala | 82
+bbccomsinhala | 83
 dbsjeyarajcom | 142
 islandlk | 308
 economynextcom | 309
@@ -19,18 +19,62 @@ adalk | 497
 tamilmirrorlk | 730
 adaderanalk | 733
 virakesarilk | 733
-adaderanasinhalalk | 784
+adaderanasinhalalk | 786
 dailymirrorlk | 845
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,928 (100.0%) of 5,928 articles have been extended.
+5,928 (99.9%) of 5,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### අයිෆල් කුලුනේ ඉවත් කළ ලෝහවලින් මෙවර ඔලිම්පික් පදක්කම් හදයි
+
+*2024-02-09 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193169) · `si`
+
+2024 පැරිස් ඔලිම්පික් උළෙලේ ජයග්‍රාහක ජයග්‍රාහිකාවන්ට පිරිනැමෙන පදක්කම් ඊයේ (08) එළිදැක්වුණි.
+
+මෙවර පැරිස් ඔලිම්පික් උළෙල වෙනුවෙන් පදක්කම් 5,000කට අධික සංඛ්‍යාවක් නිර්මාණය කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ප්‍රංශයේ සුප්‍රසිද්ධ අයිෆල් කුලුන ප්‍රතිසංස්කරණයේදී ඉවත දැමූ ලෝහ යොදාගනිමින් මෙම පදක්කම් නිර්මාණය කර තිබීම විශේෂත්වයකි.
+
+මෙලෙස පදක්කම් නිර්මාණය සඳහා යොදාගත් අයිෆල් කුලුනෙන් ඉවත දැමූ ලෝහ වසර ගණනාවක් ඉතා රහසිගතව ගබඩාකර තිබූ ඒවා බව එහි නිර්මාණකරුවන් පවසයි.
+
+◼️
+
+[Data](articles/aeda6e48.json)
+
+---
+
+### මගේ මතකය හොඳටම හොඳයි - බයිඩන්
+
+*2024-02-09 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193168) · `si`
+
+අමෙරිකානු ජනාධිපති ජෝ බයිඩන් සිතාමතා රහසිගත තොරතුරු අනාවරණ කළ බව හෙළිදරව් වී තිබේ.
+
+ඒ ජනාධිපතිවරයාගේ පෞද්ගලික කාර්යාලයක තිබී රහසිගත ලේඛන හමුවීමේ සිදුවිමට අදාළව විශේෂ නීතිඥ මඩුල්ලක් සිදුකළ විමර්ශනයකින් අනතුරුවය.
+
+කෙසේ වුව ද විමර්ශනයේ දී ජනාධිපති ජෝ බයිඩන්ගේ මතකය පිළිබඳව මතුව ඇත්තේ දැඩි ආන්දෝලනයකි.
+
+විමර්ශන වාර්තාවේ දැක්වෙන්නේ ජනපති බයිඩන්ගේ මතකය සීමා සහිත වන බවය.
+
+රහසිගත ලේඛන ළඟ තබා ගැනීම සම්බන්ධයෙන් සිදුකළ ප්‍රශ්න කිරීම්වල දී තමන් උප ජනාධිපතිව සිටි කාලය හෝ ඔහුගේ පුත්‍රයා වන බියු බයිඩන් මිය ගිය වර්ෂය මතකයට නඟාගැනීමට ජනාධිපතිවරයාට නොහැකි වූ බව වාර්තාවේ දැක්වේ.
+
+ඒ අනුව විමර්ශන වාර්තාවේ දැක්වෙන්නේ ජනාධිපති බයිඩන් දුර්වල මතකයක් ඇති වයස්ගත පුද්ගලයෙකු වීම හේතුවෙන් ඔහුට දඬුවම් පැනවිය නොහැකි බවය.
+
+මෙවන් පසුබිමක ජනාධිපති බයිඩන් එළඹෙන ජනාධිපතිවරණයට තරග වැදීම සම්බන්ධයෙන් ද මතභේදයක් මතුව තිබේ.
+
+මේ අතර විශේෂ ප්‍රවෘත්ති සාකච්ඡාවක් කැඳවමින් අමෙරිකානු ජනාධිපතිවරයා තමාගේ මතක ශක්තිය ගැන පළවන වාර්තා ප්‍රතික්ෂේප කළේය.
+
+◼️
+
+[Data](articles/7be4496b.json)
+
+---
 
 ### Dematagoda Ruwan's family comes out
 
@@ -1144,6 +1188,34 @@ Accordingly, in some places in the Central, Sabaragamuwa and Western provinces a
 
 ---
 
+### ශ්‍රී ලංකා සහ ඇෆ්ගනිස්ථාන එක්දින තරගාවලිය : 'අපි කොතනද ඉන්නේ කියලා බලන්න මේක හොඳ අවස්ථාවක්'
+
+*2024-02-09 06:15:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6p95dkg42zo) · `si`
+
+ශ්‍රී ලංකා සහ ඇෆ්ගනිස්ථාන එක්දින තරගාවලිය : 'අපි කොතනද ඉන්නේ කියලා බලන්න මේක හොඳ අවස්ථාවක්'
+
+සංචාරක ඇෆ්ගනිස්ථාන කණ්ඩායම සහ ශ්‍රී ලංකාව අතර පැවැත්වෙන පළමු එක්දින තරගය අද (පෙබරවාරි මස 09) පල්ලේකැලේ ජාත්‍යන්තර ක්‍රීඩාංගණයේ දී ආරම්භ වීමට නියමිතයි.
+
+ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්ථානය අතර එක්දින තරග මාලාව තරග 03 කින් සමන්විත වේ.
+
+ICC එක්දින කණ්ඩායම් ශ්‍රේණිගත කිරීම් වලට අනුව ශ්‍රී ලංකාව 07 වන ස්ථානයේ පසුවන අතර ඇෆ්ගනිස්ථානය 09 වන ස්ථානයේ පසුවේ.
+
+ICC ශ්‍රී ලංකා ක්‍රිකට් තහනම ඉවතට. මේ දක්වා සිදුවුයේ කුමක් ද?
+
+ඉකුත් වසරේ පැවති එක්දින ක්‍රිකට් ලෝක කුසලානයේදී ශ්‍රී ලංකාවට එරෙහිව කඩුලු 07ක ජයග්‍රහණයක් වාර්තා කිරීමට ඇෆ්ගනිස්ථාන කණ්ඩායම සමත් ව ඇත.
+
+මේ දක්වා එක්දින තරග 12කදි ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්ථානය මුණ ගැසී ඇත.
+
+එහිදී තරග 07ක ජයග්‍රහණය ශ්‍රී ලංකාව සතුවන විට ඇෆ්ගනිස්ථානය තරග 04ක් ජයග්‍රහණය කිරීමට සමත්විය. එක් තරගයක් ප්‍රතිඵලයක් නොමැතිව අතහැර දමා ඇත.
+
+ඇෆ්ගනිස්ථාන කණ්ඩායමට එරෙහි එක්දින තරගාවලිය සඳහා නම් කළ ශ්‍රී ලංකා  සංචිතය ඊයේ (පෙබරවාරි 08 වෙනිදා) නිල වශයෙන් ප්‍රකාශයට පත් කෙරුණි.
+
+...
+
+[Data](articles/7621cf7c.json)
+
+---
+
 ### Sri Lanka earned $3mn from resuming bunkering system - State Minister
 
 *2024-02-09 06:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97129/sri-lanka-earned-3mn-from-resuming-bunkering-system-state-minister) · `en`
@@ -1947,77 +2019,5 @@ The shooter has fled and the police suspect that a personal dispute has been sho
 [Data](articles/796d3129.json)
 
 [Extended Data](ext_articles/796d3129.ext.json)
-
----
-
-### Australia to allow workers to ignore after-hours calls from bosses
-
-*2024-02-08 22:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Australia-to-allow-workers-to-ignore-after-hours-calls-from-bosses/108-276623) · `en`
-
-Australia, Feb 8 (Independent) - Australia is set to pass a law that will provide employees the right to refuse unreasonable calls from bosses outside of work hours without facing penalty.
-
-The "right to disconnect" is among the various changes to industrial relations laws proposed by the federal government in a parliamentary bill.
-
-Prime minister Anthony Albanese’s government said these changes would safeguard workers’ rights and contribute to restoring a healthy work-life balance.
-
-It would also mean potential fines for employers that breach the rule.
-
-His Labor party’s so-called “closing loopholes” bill which is meant to plug gaps that undercut workers’ pay and conditions has won the support of the majority of senators for the legislation.
-
-The left-wing Greens, which supports the rule and was the first to propose it last year, confirmed that the legislation was close to becoming a law after deals between Labor, smaller parties and independents to support this bill.
-
-...
-
-[Data](articles/f87fc0d7.json)
-
-[Extended Data](ext_articles/f87fc0d7.ext.json)
-
----
-
-### Manayaka arrested for producing Rs.
-
-*2024-02-08 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193146) · `si`
-
-The 14-year-old Muningalawa Police have arrested the 14-year-old Munnuwewa Police have stolen money in the grandfather.
-
-The arrested is a schoolgirl studying at an international school.
-
-The Dodangoda Police had lodged a person that a woman had stolen Rs.
-
-Preliminary investigations revealed that the roof had entered the house with the help of a lack of landslides while the grandfather went away from home.
-
-The student who received a Grade 8 was arrested on the occasion.
-
-After interrogation of various people in the area, the Dodangoda police officers had observed the behavior of the substance of the minority.
-
-We have said that theft of theft has been revealed in suspicion and interrogation this afternoon.
-
-It is reported that his father is carrying a kinatunaticini in Payagala Pottuvila area for school student to go to school.
-
-However, the student is not present at the day of the robbery, Minuwadeniya has come to this house from Payagala Pottuvila area.
-
-...
-
-[Data](articles/e95fa895.json)
-
-[Extended Data](ext_articles/e95fa895.ext.json)
-
----
-
-### MA Sumanthiran can never improve without a solution to the Tamil national issue
-
-*2024-02-08 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175929) · `ta`
-
-The president, who is accustomed to noting that we will address issues through negotiations, does not mention a word about the 'solution to the ethnic problem' in the policy declaration.. The Tamil National problem, which is the basic factor in economic impact, can never improve without resolving. Therefore, we are rejecting the president's policy speech, ”MA Sumanthiran, Member of Parliament of the Tamil National Alliance (TNA) said.
-
-He was speaking at the adjournment debate on the President's Declaration of the President's Policy Declaration held in Parliament on Thursday (8).
-
-In his policy declaration, he referred to victory words that he had recovered from the economic crisis.. Buying the night with the International Monetary Fund is the main victory of the government.
-
-...
-
-[Data](articles/fbfa1e57.json)
-
-[Extended Data](ext_articles/fbfa1e57.ext.json)
 
 ---

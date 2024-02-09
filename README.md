@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 13:32:48**
+As of **2024-02-09 13:51:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 845
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,921 (99.9%) of 5,925 articles have been extended.
+5,925 (100.0%) of 5,925 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ India, the world’s most populous nation with more than 1.4 billion people, is 
 
 [Data](articles/cc7fc1f9.json)
 
+[Extended Data](ext_articles/cc7fc1f9.ext.json)
+
 ---
 
 ### President Ranil, Western Australia Premier discuss renewable energy, agri. development
@@ -61,6 +63,8 @@ The President is slated to deliver the keynote address at the conference later t
 ...
 
 [Data](articles/bb5e6d9d.json)
+
+[Extended Data](ext_articles/bb5e6d9d.ext.json)
 
 ---
 
@@ -99,6 +103,8 @@ Meanwhile, 705 more suspects were arrested by the police and security forces per
 ...
 
 [Data](articles/75b99c4f.json)
+
+[Extended Data](ext_articles/75b99c4f.ext.json)
 
 ---
 
@@ -985,6 +991,8 @@ Meanwhile, the Ceylon Electricity Board and the relevant private company have si
 ...
 
 [Data](articles/bff90e25.json)
+
+[Extended Data](ext_articles/bff90e25.ext.json)
 
 ---
 

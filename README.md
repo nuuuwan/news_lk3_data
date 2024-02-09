@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 09:51:19**
+As of **2024-02-09 10:02:31**
 
 ## Newspaper Stats
 
-*Scraped **5,886** Articles*
+*Scraped **5,887** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 309
 dailyftlk | 331
 newsfirstlk | 363
 adalk | 492
-adaderanalk | 722
+adaderanalk | 723
 tamilmirrorlk | 727
 virakesarilk | 731
 adaderanasinhalalk | 775
@@ -26,49 +26,75 @@ dailymirrorlk | 836
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,884 (100.0%) of 5,886 articles have been extended.
+5,887 (100.0%) of 5,887 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### ශ්‍රී ලංකා - ඇෆ්ගන් පළමු එක්දින ගැටුම අද
+### New ‘Aswesuma’ applications to be called from tomorrow
+
+*2024-02-09 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97132/new-aswesuma-applications-to-be-called-from-tomorrow) · `en`
+
+Calling new applications for the ‘Aswesuma’ welfare benefits program is scheduled to commence tomorrow (Feb.10) to select 400,000 more beneficiaries.
+
+The Finance State Ministry said certain criteria for the selection of beneficiaries would be revised based on the suggestions made by various parties.
+
+Meanwhile, the monthly allowances paid to disabled persons, kidney patients and elderly citizens are to be retrospectively increased from January 2024.
+
+Accordingly, kidney patients and disabled persons’ allowances will be raised from Rs. 5,000 to Rs. 7,500, while the elderly citizens’ allowance will be increased from Rs. 2,000 to Rs. 3,000.
+
+On Thursday (Feb.08), State Minister Shehan Semasinghe revealed that ‘Aswesuma’ beneficiaries who are entitled to these allowances are to be identified within the first quarter of 2024 and paid the increased payments starting April 01.
+
+...
+
+[Data](articles/be107715.json)
+
+[Extended Data](ext_articles/be107715.ext.json)
+
+---
+
+### Sri Lanka - Afghan First ODI clash today
 
 *2024-02-09 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193157) · `si`
 
-සංචාරක ඇෆ්ගනිස්තාන කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර පළමු එක්දින ක්‍රිකට් තරගය අද (09) පැවැත්වීමට නියමිතය.
+The first one-day match between the Afghanistan and the Sri Lankan team will be held today (09).
 
-තරගය අද පස්වරු 2.30ට මහනුවර පල්ලේකැලේ ක්‍රීඩාංගනයේ දී ආරම්භ වෙයි.
+The match will be opened at the Pallekele Stadium in Kandy today at 2.30 pm.
 
-එක්දින තරගාවලිය සඳහා ශ්‍රී ලංකා කණ්ඩායම ඉතා හොඳ සුදානමකින් පසුවන බව ශ්‍රී ලංකා එක්දින කණ්ඩායමේ නායක කුසල් මෙන්ඩිස් ප්‍රකාශ කළේය.
+Sri Lanka ODI leader Kusal Mendis stated that the Sri Lankan team is very good for the ODI series.
 
 ◼️
 
 [Data](articles/3f4737f8.json)
 
+[Extended Data](ext_articles/3f4737f8.ext.json)
+
 ---
 
-### 07 වන ඉන්දීය සාගර සමුළුව අද ඇරඹෙයි
+### 07th Indian Ocean Conference commences today
 
 *2024-02-09 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193156) · `si`
 
-07 වන ඉන්දීය සාගර සමුළුව ඔස්ට්‍රේලියාවේ පර්ත් නුවරදී අද (09) ආරම්භ වීමට නියමිතව තිබේ.
+The 7th Indian Ocean Conference is scheduled to commence today (09) in Perth, Australia.
 
-ඉන්දියා පදනමේ සහ ඔස්ට්‍රේලියානු රජයේ ආරාධනයකට අනුව ඊට සහභාගිවීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඊයේ (08) අලුයම දිවයිනෙන් පිටත්ව ගොස් තිබුණි.
+President Ranil Wickremesinghe had left the island early yesterday (08) to participate in the invitation of the Indian Foundation and the Australian Government of Australia.
 
-“ස්ථාවර සහ තිරසර ඉන්දියානු සාගරයක් කරා” යන තේමාව යටතේ මෙවර සමුළුව අද සහ හෙට යන දෙදින තුළ පැවැත්වීමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය පැවසීය.
+The summit will be held today and tomorrow under the theme of "a stable and sustainable Indian Ocean."
 
-ඒ අනුව ඉන්දියානු සාගරය ආශ්‍රිත රටවල සහ එම සාගරය බහුලව භාවිත කරන සෙසු රටවලට බලපාන පොදු අභිලාෂ හා ගැටලු පිළිබඳ එහිදී සාකච්ඡා කෙරෙනු ඇත.
+It will discuss common aspirations and issues that affect other countries that are commonly affected in the Indian Ocean and other ocean.
 
-මෙවර 7 වැනි ඉන්දීය සාගර සමුළුවේ ප්‍රධාන දේශනය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් සිදුකිරීමට නියමිතව තිබේ.
+President Ranil Wickremesinghe is scheduled to address the keynote address of the 7th Indian Ocean Conference this year.
 
-ඉන්දියානු සාගර කලාපීය සහයෝගීතාව වර්ධනය කරගැනීමේ අරමුණින් රටවල් 40ක ප්‍රධාන පාර්ශ්වකරුවන්ගේ සහභාගිත්වයෙන් මාර්ග සිතියමක් සකස් කිරීම ද මෙවර සමුළුවේදී සිදුකරෙන බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කරයි.
+The Presidential Media Unit also said that this year's conference will also be implemented with the participation of 40 countries in 40 countries to improve Indian Ocean regional cooperation.
 
-සමුළුවට සමගාමීව ශ්‍රී ලංකාවේ නව ආයෝජන අවස්ථා පිළිබඳ අවධානය යොමු කෙරෙන ඉහළ පෙළේ සාකච්ඡා කිහිපයකටද ජනාධිපතිවරයා එක්වීමට නියමිතව තිබේ.
+The President is also expected to join several top negotiations on new investment opportunities in Sri Lanka.
 
 ...
 
 [Data](articles/b06ebea7.json)
+
+[Extended Data](ext_articles/b06ebea7.ext.json)
 
 ---
 
@@ -2061,23 +2087,5 @@ El nio is the highest in the Pacific Ocean.
 [Data](articles/9f38c348.json)
 
 [Extended Data](ext_articles/9f38c348.ext.json)
-
----
-
-### Siyambalanduwa Labasive Solar Pagala Electricity Project
-
-*2024-02-08 17:02:09* · [`adalk`](https://www.ada.lk/breaking_news/සියඹලාන්ඩුව-බිම්ගත-සූර්ය-පැනල-විදුලි-ව්‍යාපෘතියේ-විදුලි-මිලදී-ගැනිමේ-ගිවිසුමට-අත්සන්-තබයි/11-407973) · `si`
-
-Ravyavadavi (Pvt) Ltd and the Ceylon Electricity Board (Pvt) Ltd has been conducted to sign the electricity purchase of electricity to generate electricity by 100 mega watts.
-
-Bid call for this project was conducted in September 2022 and awarded to the company that was submitted to the company of 2023 in 2023. 27.5 km will be developed by its transmission infrastructure.
-
-Ravyadavi Company is partners Lakdani, Wind Proseclam and Singapore, Singapore, jointly consolidated company. The investment in this project is about US $ 132 million.
-
-◼️
-
-[Data](articles/545ae1fd.json)
-
-[Extended Data](ext_articles/545ae1fd.ext.json)
 
 ---

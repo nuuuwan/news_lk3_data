@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 11:17:14**
+As of **2024-02-09 11:33:04**
 
 ## Newspaper Stats
 
@@ -26,39 +26,43 @@ dailymirrorlk | 840
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,896 (99.9%) of 5,899 articles have been extended.
+5,899 (100.0%) of 5,899 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### පැය 15ක ජල කප්පාදුවක්
+### 15 hours water cut
 
 *2024-02-09 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193162) · `si`
 
-කොළඹ ප්‍රදේශ කිහිපයකට පැය 15ක කාලයක් ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවාහන මණ්ඩලය පවසයි.
+The National Water Supply and Drainage Board (NPF) says that the water cut in Colombo will be suspended for 15 hours.
 
-ඒ අනුව කොළඹ 11, 12, 13, 14 සහ 15 යන ප්‍රදේශවලට හෙට (10) පස්වරු 05 සිට ඉරිදා පෙරවරු 08 දක්වා ජල සැපයුම අත්හිටුවීමට නියමිතය.
+Accordingly, the water cut will be imposed from 5, 12, 13, 13, 14 and 15, Colombo.
 
-අඹතලේ ජල සැපයුම වැඩිදියුණු කිරීමේ කටයුත්තක් හේතුවෙන් ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවාහන මණ්ඩලය සඳහන් කරයි.
+The National Water Supply and Drainage Board stated that the water cut will be imposed due to the development of the Ambatale.
 
 ◼️
 
 [Data](articles/e6c4fd75.json)
 
+[Extended Data](ext_articles/e6c4fd75.ext.json)
+
 ---
 
-### கொழும்பில் நாளை 15 மணித்தியால நீர்வெட்டு
+### 15 hours of water in Colombo tomorrow
 
 *2024-02-09 10:38:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-நாளை-15-மணித்தியால-நீர்வெட்டு/175-332940) · `ta`
 
-கொழும்பில் சில பகுதிகளில் நாளைய தினம் (10 சனிக்கிழமை) 15 மணித்தியால நீர்வெட்டு அமுல்ப்படுத்தப்படவுள்ளதாக நீர்வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+The Water Supply and Drainage Board said the 15 -hour waterfront will be implemented in some parts of Colombo tomorrow (10).
 
-கொழும்பு 11,12, 13, 14, மற்றும் 15 ஆகிய பிரதேசங்களிலேயே இவ்வாறு நீர்வெட்டு அமுல்ப்படுத்தப்படவுள்ளதாக நீர்வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+The Water Supply and Drainage Board said the waterfront will be implemented in the 11,12, 13, 14 and 15 areas of Colombo.
 
 ◼️
 
 [Data](articles/f3848908.json)
+
+[Extended Data](ext_articles/f3848908.ext.json)
 
 ---
 
@@ -412,19 +416,21 @@ Earlier, Public Security Minister Tiran Alles said the government initiated a sp
 
 ---
 
-### අධ්‍යාපන අමාත්‍යාංශයෙන් විශේෂ නිවේදනයක්
+### Special announcement from the Ministry of Education
 
 *2024-02-09 08:11:06* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-අමාත්‍යාංශයෙන්-විශේෂ-නිවේදනයක්/11-407977) · `si`
 
-2022 (2023) අ.පො.ස. (උසස් පෙළ) විභාගයේ පිළිතුරු පත්‍ර ඇගයීම් කාර්යයන් සඳහා සහභාගි වන පරීක්ෂකවරුන් වෙත රු. 1,450.00 සිට රු. 2,000.00ක් දක්වා වැඩි කර ගෙවන ලද අවම සංහෘත දීමනාව 2023 (2024) අ.පො.ස. (උසස් පෙළ) විභාගයේ ඇගයීම් පරීක්ෂකවරුන් සඳහා ද ගෙවීමට අමාත්‍ය මණ්ඩලයේ අනුමැතිය ලැබී ඇතැයි අධ්‍යාපන අමාත්‍යාංශය විශේෂ නිවේදනයක් මගින් පවසයි.
+2022 (2023) GCE Advanced Level. (A / L) Examination Answer Application Form for Evaluation Functions. 1,450.00 to Rs. Minimum Content Allowance to be increased to 2,000.00 (2024). The Ministry of Education stated that the Cabinet approval has been granted to pay the evaluation inspectors of the (A / L examiner).
 
-එසේම ඇගයීම් කාර්යයන් සඳහා සහභාගි වන ප්‍රධාන පාලක පරීක්ෂකවරුන්, සම පාලක පරීක්ෂකවරුන්, ප්‍රධාන පරීක්ෂකවරුන් සහ අතිරේක ප්‍රධාන පරීක්ෂකවරුන් සඳහා සමස්ත කාර්ය වෙනුවෙන් 2022 (2023) අ.පො.ස. (උසස් පෙළ) විභාගයේ ඇගයීම් සඳහා සංශෝධනය කර ගෙවන ලද දීමනාවන් 2023 (2024) අ.පො.ස. (උසස් පෙළ) විභාගයේ ඇගයීම් කාර්යයන් සඳහා ගෙවීමට ද අනුමැතිය ලැබී ඇතැයි අමාත්‍යාංශය වැඩිදුරටත් පවසයි.
+Also, the main governing inspectors, co-academic inspectors, co-admininers, major inspectors and additional major inspectors for the total tasks of Rs.. Allowance to revise (A / L) Examination Examination Examination 2023 (2024). The Ministry further stated that approval has been approved to pay the assessments of the A / L examination.
 
-ඒ අනුව, 2023 (2024) අ.පො.ස. (උසස් පෙළ) විභාගයේ ඇගයීම් කාර්ය මණ්ඩල සඳහා ඉහත සඳහන් සංශෝධිත දීමනාවන් ගෙවීමට ශ්‍රී ලංකා විභාග දෙපාර්තමේන්තුව විසින් කටයුතු කරනු ඇත.
+Accordingly, 2023 (2024) GCE Advanced Level. The Department of Examinations will make the above amendments to staff (A / L examination) staff.
 
 ◼️
 
 [Data](articles/1b7abce5.json)
+
+[Extended Data](ext_articles/1b7abce5.ext.json)
 
 ---
 

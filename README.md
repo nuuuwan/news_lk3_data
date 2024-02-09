@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 01:17:32**
+As of **2024-02-10 01:32:44**
 
 ## Newspaper Stats
 
-*Scraped **6,030** Articles*
+*Scraped **6,039** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 336
 newsfirstlk | 363
 adalk | 505
 tamilmirrorlk | 735
-virakesarilk | 744
 adaderanalk | 746
+virakesarilk | 753
 adaderanasinhalalk | 807
 dailymirrorlk | 868
 
@@ -26,7 +26,7 @@ dailymirrorlk | 868
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,028 (100.0%) of 6,030 articles have been extended.
+6,030 (99.9%) of 6,039 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ In case the election results and the opinion polls coincide, the NPP has to deal
 
 [Data](articles/66f9cfcd.json)
 
+[Extended Data](ext_articles/66f9cfcd.ext.json)
+
 ---
 
 ### Darkness in the Midst of a Heatwave
@@ -59,6 +61,8 @@ To make matters worse, the Covid-19 pandemic saw the forced return of our migran
 ...
 
 [Data](articles/48857146.json)
+
+[Extended Data](ext_articles/48857146.ext.json)
 
 ---
 
@@ -192,6 +196,24 @@ He made this remark while delivering the keynote address at the 7th Indian Ocean
 
 ---
 
+### இந்தியா - இலங்கைக்கிடையில் பெற்றோலிய குழாய் திட்டம் தொடர்பில் பேச்சுவார்த்தை
+
+*2024-02-09 23:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176010) · `ta`
+
+இந்தியாவின் நாகப்பட்டினம் மற்றும் இலங்கையின் திருகோணமலை எண்ணெய் தாங்கி மற்றும் கொழும்பை இணைக்கும் பெற்றோலியக் குழாய் திட்டத்தை முன்னெடுப்பது தொடர்பில் இந்தியன் எரிபொருள் கூட்டுத்தாபனம் மூலம் இந்திய அரசாங்கம் சமர்ப்பித்த முன்மொழிவு குறித்து பேச்சுவார்த்தை இடம்பெற்றுள்ளது.
+
+இந்திய எரிசக்தி வாரத்தை முன்னிட்டு இந்தியா சென்றுள்ள மின்சக்தி மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகர இந்த பேச்சுவார்த்தை தொடர்பில் தனது உத்தியோகபூர்வ டுவிட்டர் பக்கத்தில் பதிவிட்டுள்ளார்.
+
+இந்தியன் எரிபொருள் கூட்டுத்தாபனம், லங்கா ஐ.ஓ.சி, இலங்கை பெற்றோலியக் கூட்டுத்தாபனம் மற்றும் இலங்கை பெற்றோலிய மேம்பாட்டு ஆணையம் ஆகியவற்றின் தலைவர்கள் இந்த பேச்சுவார்த்தையில் கலந்து கொண்டிருந்தனர்.
+
+தொழில்நுட்ப ஆய்வுகள், தேவையான சந்தை பகுப்பாய்வு, நிதி பகுப்பாய்வு மற்றும் வணிக மாதிரிகள் ஆகியவை சம்பந்தப்பட்ட பொறிமுறையை தீர்மானிக்கத் திட்டமிடப்பட்டுள்ளதாக அமைச்சர் காஞ்சன விஜேசேக குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/512a5e3b.json)
+
+---
+
 ### An open letter to National Election Commission
 
 *2024-02-09 23:37:45* · [`dailyftlk`](https://www.ft.lk/opinion/An-open-letter-to-National-Election-Commission/14-758307) · `en`
@@ -228,6 +250,88 @@ As such the solution to the current economic crisis is bringing about an immedia
 
 ---
 
+### நிஸ்ஸன்க இரட்டைச் சதம் குவித்து சாதனை; இலங்கையின் வெற்றிக்கு மத்தியில் ஆப்கனும் சாதனை
+
+*2024-02-09 23:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176009) · `ta`
+
+ஆப்கானிஸ்தானுக்கு எதிராக கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் வெள்ளிக்கிழமை (09) நடைபெற்ற முதலாவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் பெத்தும் நிஸ்ஸன்க குவித்த சாதனைமிகு இரட்டைச் சதத்தின் உதவியுடன் 42 ஓட்டங்களால் இலங்கை வெற்றிபெற்றது.
+
+ஆப்கானிஸ்தான் சார்பாகவும் 6ஆவது விக்கெட்டில் இணைப்பாட்ட சாதனை நிலைநாட்டப்பட்டபோதிலும் இலங்கையின் வெற்றியை அவர்களால் தடுக்கமுடியாமல் போனது.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட இலங்கை 50 ஓவர்களில் 3 விக்கெட்களை இழந்து 381 ஓட்டங்களைக் குவித்தது.
+
+பெத்தும் நிஸ்ஸன்க 139 பந்துகளை எதிர்கொண்டு 20 பவுண்டறிகள், 8 சிக்ஸ்கள் அடங்கலாக ஆட்டம் இழக்காமல் 210 ஓட்டங்களைக் குவித்தார்.
+
+இதன் மூலம் சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் இலங்கை சார்பாக முதலாவது இரட்டைச் சதத்தை விளாசியவர் என்ற சாதனையைப் படைத்தார்.
+
+சர்வதேச ஒருநாள் கிரிக்கெட் அரங்கில் இரட்டைச் சதம் குவித்த 10ஆவது வீரர் பெத்தும் நிஸ்ஸன்க ஆவார்.
+
+சச்சின் டெண்டுல்கார்தான் முதன் முதலில் சரவ்தேச ஒருநாள் கிரிக்கேட் போட்டியில் இரட்டைச் சதம் குவித்தவர்.
+
+...
+
+[Data](articles/b53e194e.json)
+
+---
+
+### தேசிய வீடமைப்பு அதிகார சபையால் யாழில் 106 பயனாளிகளுக்கு உறுதிப்பத்திரம் வழங்கி வைப்பு
+
+*2024-02-09 23:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176008) · `ta`
+
+யாழ்ப்பாணம் மாவட்டத்தில் தெரிவு செய்யப்பட்ட 106 பயனாளிகளுக்கு "உறுதி உறுதிப் பத்திரம் வழங்கல்" நிகழ்வு வெள்ளிக்கிழமை காலை வீரசிங்கம் மண்டபத்தில் இடம்பெற்றது.
+
+இதன்போது மேலதிகமாக 20 பயனாளிகளுக்கு வீடமைப்பு கடனுக்கான முதற்கட்ட காசோலையும் வழங்கி வைக்கப்பட்டது.
+
+இந்நிகழ்வில், தேசிய வீடமைப்பு அதிகார சபையின் தலைவர் ரஜீவ் சூரியாராச்சி, உப தலைவர் லக்ஷ்மன் குணவர்தன, யாழ் மாவட்ட மேலதிக அரசாங்க அதிபர் (காணி) கே.ஸ்ரீமோகனன், தேசிய வீடமைப்பு அதிகார சபையின் யாழ் மாவட்ட முகாமையாளர் எம்.ரவீந்திரன், தேசிய வீடமைப்பு அதிகார சபையின் உத்தியோகத்தர்கள் மற்றும் பயனாளிகள் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/892efdc6.json)
+
+---
+
+### வவுனியாவில் பாதசாரி கடவையூடாக வீதியினை கடக்க முயன்ற மாணவனை மோதித்தள்ளிய மோட்டார் சைக்கிள்
+
+*2024-02-09 23:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/176007) · `ta`
+
+வவுனியாவில் பாதசாரி கடவையூடாக வீதியினை கடக்க முயன்ற மாணவனை மோட்டார் சைக்கிள் மோதியதில் மாணவன் சிறுகாயங்களுக்குள்ளாகியுள்ளார்.
+
+வவுனியா தமிழ் மத்திய மகா வித்தியாலயத்திற்கு முன்பாகவுள்ள பாதசாரிகள் கடவையில் வெள்ளிக்கிழமை (09) மதியம் இடம்பெற்ற இவ் விபத்துச்சம்பவம் தொடர்பில் மேலும் தெரியவருகையில்,
+
+துவிச்சக்கரவண்டியில் பாதசாரி கடவையூடாக வீதியினை கடக்க முயன்ற மாணவனின் துவிச்சக்கரவண்டி மீது  ஏ9 வீதியூடாக பயணித்த மோட்டார் சைக்கில் மோதுண்டு விபத்துக்குள்ளானது.
+
+இவ்விபத்தில் மாணவன் சிறு காயங்களுக்குள்ளாகியுள்ளமையுடன் மாணவனின் துவிச்சக்கரவண்டியும் பகுதியளவில் சேதமடைந்தது. சம்பவ இடத்திற்கு விரைந்த வவுனியா போக்குவரத்து பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்திருந்தனர்.
+
+◼️
+
+[Data](articles/d360c7c5.json)
+
+---
+
+### ஆசிய கிண்ணத்தை சுவீகரித்து வரலாறு படைக்க கத்தார், ஜோர்தான் முயற்சி; நாளை இறுதிப் போட்டி
+
+*2024-02-09 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176006) · `ta`
+
+தோஹா, லுசெய்ல் விளையாட்டரங்கில் சனிக்கிழமை (10) இரவு நடைபெறவுள்ள AFC ஆசிய கிண்ணம் கத்தார் 2023 இறுதிப் போட்டியில் ஒன்றையொன்று சந்திக்கவுள்ள கத்தாரும் ஜோர்தானும் சம்பியன் பட்டத்தை சூடி வரலாறு படைக்க முயற்சிக்கவுள்ளன.
+
+ஐக்கிய அரபு இராச்சியத்தில் நடைபெற்ற 2019 ஆசிய கிண்ண கால்பந்தாட்டத்தில் சம்பியனான கத்தார், கிண்ணத்தை தக்கவைக்க முயற்சிக்கவுள்ளது.
+
+மறுபுறத்தில் ஆசிய கிண்ண கால்பந்தாட்ட வரலாற்றில் முதல் தடவையாக இறுதிப் போட்டியில் விளையாடத் தகுதிபெற்றுள்ள ஜோர்தான் முதல் முயற்சியிலேயே கிண்ணத்தை வென்ற வரலாறு படைக்க எண்ணியுள்ளது.
+
+இந்த இரண்டு அணிகளுக்கும் இடையிலான இறுதிப் போட்டியில் வேகத்திற்கும் விறுவிறுப்பிற்றும் பஞ்சம் இருக்காது என நம்பப்படுகிறது.
+
+கத்தார் அணியில் கவனத்தில் கொள்ள வேண்டிய பிரதான வீரர்கள் இடமிருந்து வலமாக: அல்மோயிஸ் அலி, அக்ரம் அலி, ஹசன் அல் ஹைதோஸ்
+
+ஏனெனில் ஆசிய கண்டத்தில் முதலாவது மகுடத்தை ஜோர்தானுக்கு பெற்றுக்கொடுக்க பயிற்றுநர் ஹீசெய்ன் அம்மூடா எதிர்பார்த்துள்ளார்.
+
+அதேவேளை, கத்தார் வெற்றி பெறும் என்ற நம்பிக்கையில் அதன் பயிற்றுநர் மார்க்ஸ் லோப்பெஸ் திகழ்கிறார்.
+
+...
+
+[Data](articles/05c4f3ae.json)
+
+---
+
 ### Sri Lanka beat Sri Lanka by 42 runs
 
 *2024-02-09 22:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193191) · `si`
@@ -247,6 +351,38 @@ He was the highest scorer of the Afghanite innings of the Afghanity of the Afgha
 [Data](articles/f88f4f28.json)
 
 [Extended Data](ext_articles/f88f4f28.ext.json)
+
+---
+
+### மத்திய வங்கியின் பிணைமுறி மோசடி :  விசாரணைகள் மந்தகதியில் - மைத்திரிபால சிறிசேன
+
+*2024-02-09 22:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176005) · `ta`
+
+மத்திய வங்கியின் பிணைமுறி மோசடி தொடர்பான விசாரணைகள் மந்தகதியில் முன்னெடுக்கப்படுகிறது.பிரதான குற்றவாளி என பெயர் குறிப்பிடப்பட்ட அர்ஜூன மகேந்திரன் உட்பட 10 பேரை வழக்கில் இருந்து விடுவிக்க ஏன் விசேட கவனம் செலுத்தப்படுகிறது என்பதை அரசாங்கம் பகிரங்கப்படுத்த வேண்டும் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வெள்ளிக்கிழமை (9) இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரை மீதான சபை ஒத்திவைப்பு விவாத்தில் உரையாற்றுகையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஜனாதிபதியின் கொள்கை பிரடன உரை தொடர்பில் பாராளுமன்ற உறுப்பினர்களுக்கு வழங்கப்பட்டுள்ள அறிக்கையில் ' அவரை கடுமையாக விமர்சித்த  பொதுஜன பெரமுனவினர் நாட்டுக்காக அவருக்கு ஒத்துழைப்பு வழங்கியுள்ள போது ஐக்கிய மக்கள்  சக்தியினரால் ஏன்  ஒத்துழைப்பு வழங்க முடியாது. நல்லாட்சி அரசாங்கத்தில் மக்கள் விடுதலை முன்னணியினர் ஊழல் ஒழிப்புக்கு முன்னிலையானார்கள்.
+
+...
+
+[Data](articles/130f149e.json)
+
+---
+
+### தற்போதைய முன்னேற்றம் நிலையில்லாவிடில் எதிர்மறையான விளைவுகள் தோற்றம் பெறும் - ஹர்ஷ டி சில்வா
+
+*2024-02-09 22:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176004) · `ta`
+
+சர்வதேச நாணய நிதியத்தின் ஒத்துழைப்பைத் தொடர்ந்து நாட்டின் பொருளாதாரம் ஸ்திரமடைந்துள்ளது என்பதை ஏற்றுக்கொண்டுள்ளோம்.தற்போதைய முன்னேற்றம் நிலையானதாக அமையாவிடின் எதிர்மறையான விளைவுகளை எதிர்கொள்ள நேரிடும்.சந்தைப்படுத்தல் பொருளாதாரம் குறித்து அரசாங்கம் விசேட கவனம் செலுத்த வேண்டும்.வெகு விரைவில் சிறந்த திட்டங்களை வெளியிடுவோம் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வெள்ளிக்கிழமை (9) இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரை மீதான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
+
+சர்வதேச நாணய நிதியத்தின் ஒத்துழைப்பைத் தொடர்ந்து நாட்டின் நிதி நிலைமை ஸ்திரமடைந்துள்ளது என்பதை ஏற்றுக்கொள்கிறோம்.பொருளாதாரத்தை ஸ்திரப்படுத்தலுக்காக அமுல்படுத்தப்பட்ட  தவறான தீர்மானங்களினால் தேசிய பொருளாதாரம் ஒடுக்கப்பட்டுள்ளது.தொழிலின்மை தீவிரமடைந்துள்ளதுடன் சிறு மற்றும் நடுத்தர கைத்தொழில் முயற்சியாளர்கள் பாதிக்கப்பட்டுள்ளார்கள்.பொருளாதாரத்தின் இயந்திரம் செயலிழந்துள்ளது.
+
+...
+
+[Data](articles/345c33bb.json)
 
 ---
 
@@ -320,6 +456,28 @@ India confirmed their spot in the final after beating hosts South Africa by two 
 
 ---
 
+### இந்தியாவுடன் பேச்சுவார்த்தை நடத்த ஐக்கிய மக்கள் சக்தி தயாராகி வருவதாக வெளிவரும் செய்திகள் முற்றிலும் போலியானவை - சுஜீவ சேனசிங்க
+
+*2024-02-09 21:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175992) · `ta`
+
+இந்தியாவுடன் பேச்சுவார்த்தை நடத்த ஐக்கிய மக்கள் சக்தி தயாராகி வருவதாக செய்திகள் வெளியாகியிருந்தன. இந்த செய்தி முற்றிலும் தவறானது.பொய்யானது. ஐக்கிய மக்கள் சக்திக்கு அவ்வாறான தேவைப்பாடு ஒன்று இல்லையென சுஜீவ சேனசிங்க தெரிவித்தார்.
+
+எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் நடந்த இன்றைய(09) ஊடக சந்திப்பிலயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+ஜனாதிபதி தேர்தலில் பரந்த கூட்டணியுடன் இணைந்து போட்டியிட ஐக்கிய மக்கள் சக்தி தயார்.நாட்டுக்கு பங்களிக்க கூடியவர்கள் ஐக்கிய மக்கள் கூட்டணியில் இணைந்து வருகின்றனர்.
+
+திருடர்கள்,கொள்ளையர்கள், இனவாதிகள் கூட்டணியில் இணைத்துக் கொள்ளப்பட மாட்டார்கள்.பணிகளைச் செய்யக்கூடிய படித்த, அனுபவமுள்ளவர்களையே இணைத்து வருகிறோம்.
+
+சஜித் பிரேமதாச ஊழலுக்கும் மோசடிக்கும் எதிரானவர் என்பதாலும் மக்களுக்காக பணியாற்றுவதாலுமே சஜித் பிரேமதாசவை அனைவரும் ஆதரிக்கின்றனர்.
+
+ஊழலுக்கும்,மோசடிக்கும் எதிராக குரல் கொடுக்கும் செயற்படும் ஒரு தலைவன், நாட்டின் தலைவராக வந்தால்,நாட்டை முன்னோக்கி கொண்டு செல்ல முடியும். 1994 இல் இருந்து இப்படியொரு தலைவர் நாட்டில் தோன்றவில்லை.
+
+...
+
+[Data](articles/1647c447.json)
+
+---
+
 ### Jayasuriya congratulates Nissanka on breaking his record
 
 *2024-02-09 21:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jayasuriya-congratulates-Nissanka-on-breaking-his-record/108-276689) · `en`
@@ -353,6 +511,22 @@ In addition, the President also emphasized initiatives, such as the Tropical Cli
 [Data](articles/fb536a48.json)
 
 [Extended Data](ext_articles/fb536a48.ext.json)
+
+---
+
+### பொருளாதார மீட்சிக்கு ஜனாதிபதி எடுக்கும் தீர்மானங்களுக்கு முழுமையான ஒத்துழைப்பு வழங்குவோம் - பிரதமர்
+
+*2024-02-09 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175970) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தலைமைத்துவத்தினால் நாடு தற்போது இயல்பு நிலைக்கு திரும்பியுள்ளது. பொருளாதாரம் ஸ்திரமடைந்துள்ளது. ஆகவே, பொருளாதார மீட்சிக்கு ஜனாதிபதி எடுக்கும் சகல தீர்மானங்களுக்கும் ஒத்துழைப்பு வழங்குவோம் என பிரதமர் தினேஷ் குணவர்தன தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வெள்ளிக்கிழமை (09)  இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரை மீதான சபை ஒத்திவைப்பு விவாத்தில் உரையாற்றுகையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
+
+கடந்த இரண்டாண்டு காலமாக நாடு மிக  மோசமான பொருளாதார நெருக்கடிகளையும், அரசியலமைப்பு ரீதியிலான நெருக்கடிகளையும் எதிர்க்கொண்டது. பொருளாதார நெருக்கடிக்கு தீர்வு காண்பதற்கு ஜனாதிபதிக்கு முழுமையான ஒத்துழைப்பு வழங்கினோம். 2022 ஆம் ஆண்டு பெப்ரவரி மாதத்தை காட்டிலும் நாடு தற்போது இயல்பு நிலைக்கு திரும்பியுள்ளது.
+
+...
+
+[Data](articles/1dce2f55.json)
 
 ---
 
@@ -1841,201 +2015,5 @@ Sabry and President Ranil Wickremesinghe are in Perth for the Indian Ocean Confe
 [Data](articles/a04675ea.json)
 
 [Extended Data](ext_articles/a04675ea.ext.json)
-
----
-
-### Paddy purchasing prices will be produced in the Maha Season
-
-*2024-02-09 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193166) · `si`
-
-The minimum purchase bids for the Paddy purchasing of the Maha Season have submitted minimum purchase prices for the Agricultural Department.
-
-Minister of Agriculture Mahinda Amaraweera says the farmers recommended a price that can be happy.
-
-Accordingly, they have decided to purchase a loan by providing a loan by providing a loan by providing a loan and private banks on a concessionary loan.
-
-The Government will be given a maximum loan of Rs.
-
-The loan scheme is to be implemented throughout the island and can be purchased by 2023/24 paddy.
-
-Accordingly, paddy purchased should be purchased by the Department of Agriculture in the purchase of paddy.
-
-Supervision of paddy is the Department of Agrarian Development, District Secretariat and Divisional Secretary.
-
-The Department of Agriculture has obtained his views in all areas including farmer organizations in determining maximum prices by the Department of Agriculture.
-
-◼️
-
-[Data](articles/e759b059.json)
-
-[Extended Data](ext_articles/e759b059.ext.json)
-
----
-
-### Sri Lanka earns USD 3 Mn in fuel sales to vessels through bunkering system: official
-
-*2024-02-09 13:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-earns-usd-3-mn-in-fuel-sales-to-vessels-through-bunkering-system-official-150520/) · `en`
-
-ECONOMYNEXT — Sri Lanka has generated 3 million US dollars in revenue through the sale of 5,200 metric tons of fuel via a revived bunkering system for vessels, State Minister of Power and Energy D V Chanaka said.
-
-This signifies a significant step forward in stabilising the country’s energy finances, Chanaka told reporters on Thursday February 08.
-
-The establishment of a USD 200 million buffer stock demonstrates proactive planning to mitigate future economic fluctuations and ensure energy security, he said.
-
-According to the state minister, Sri Lanka currently holds the largest oil reserves in its recent history, which he said signifies a significant improvement in fuel security and preparedness.
-
-The official said  Sri Lanka could also reduce fuel prices after March if there is no unpredictable events or sharp depreciation in the rupee currency.
-
-Sri Lanka minister hopes to reduce fuel prices after March with boosted energy securitySee more
-
-◼️
-
-[Data](articles/bbe9f675.json)
-
-[Extended Data](ext_articles/bbe9f675.ext.json)
-
----
-
-### The shooting of the Anamaduwa reveals
-
-*2024-02-09 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193165) · `si`
-
-Two persons from a motorbike have been shot dead in Puttalam area as revenge for an accident.
-
-Two were shooting by two in a motorcycle to a business renovation place in Anamaduwa.
-
-He went to a business activity and returned from a motorbike and was shot dead.
-
-Police said two suspects have been shot at the Anamaduwa Puitana Cemean.
-
-The businessman's left-hand was seriously injured and he was asked to take a kilometer to hospital with the wound.
-
-The shooting was shot dead, a 44-year-old father of two, a 44 year old resident of Palle, in Anamaduwa.
-
-He had told the hospital staff that Jayaratne was injured in a car accident.
-
-Accordingly, the police have revealed that the businessman had been drunk and the father of the family and his father had been involved in a serious car accident.
-
-As a result, the mother is already in optimized and the daughter has undergone several surgeries.
-
-The father has suspected that the father has done this revenge, police said.
-
-...
-
-[Data](articles/36b79c87.json)
-
-[Extended Data](ext_articles/36b79c87.ext.json)
-
----
-
-### Indian state passes uniform marriage legislation opposed by Muslims
-
-*2024-02-09 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97140/indian-state-passes-uniform-marriage-legislation-opposed-by-muslims) · `en`
-
-An Indian state has approved an unprecedented uniform code for marriage, divorce, adoption and inheritance for Hindus, Muslims and other religious communities under new legislation that also requires couples that live together to register with the government or face punishment.
-
-Northern Uttarakhand state lawmakers passed the legislation on Wednesday and its approval by the state governor and the Indian president is seen as a formality before it becomes law in the state. Muslim leaders and others oppose the Uniform Civil Code initiated by Prime Minister Narendra Modi’s Hindu Nationalist party saying it interferes with their own laws and customs on such issues.
-
-India, the world’s most populous nation with more than 1.4 billion people, is comprised of around 80% Hindus and about 14% Muslims. Muslims accuse Modi’s right-wing nationalist party of pursuing a Hindu agenda that discriminates against them and directly imposes laws interfering with their faith.
-
-...
-
-[Data](articles/cc7fc1f9.json)
-
-[Extended Data](ext_articles/cc7fc1f9.ext.json)
-
----
-
-### President Ranil, Western Australia Premier discuss renewable energy, agri. development
-
-*2024-02-09 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97139/president-ranil-western-australia-premier-discuss-renewable-energy-agri-development) · `en`
-
-President Ranil Wickremesinghe, who is now in Australia on an official visit, met with Western Australia’s Premier Roger Cook this morning (Feb.09), on the sidelines of the 7th Indian Ocean Conference.
-
-The Sri Lankan leader had reached the Perth International Airport on Thursday afternoon (Feb.08). At the invitation of the India Foundation and the Australian Government, Wickremesinghe embarked on this visit to attend the 7th Indian Ocean Conference, taking place from 9-10 February in Perth.
-
-The President is slated to deliver the keynote address at the conference later today, with a focus on the theme “Towards a Stable and Sustainable Indian Ocean”.
-
-...
-
-[Data](articles/bb5e6d9d.json)
-
-[Extended Data](ext_articles/bb5e6d9d.ext.json)
-
----
-
-### Imran's candidates in front of the conflict
-
-*2024-02-09 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193164) · `si`
-
-The counting of votes is slowly postponed the people, opposition politicians and foreign parties.
-
-It is now reported that the counting of votes has begun and the party candidates are in prison.
-
-Most of them were present for this election as independent candidates.
-
-However, analysts said former Prime Minister Nawaz Sharif will win when the overall results were released.
-
-◼️
-
-[Data](articles/f6b77135.json)
-
-[Extended Data](ext_articles/f6b77135.ext.json)
-
----
-
-### Operation ‘Yukthiya’: 349 more drug traffickers included in ‘wanted criminal list’
-
-*2024-02-09 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97138/-operation-yukthiya-349-more-drug-traffickers-included-in-wanted-criminal-list) · `en`
-
-Sri Lanka Police have added the names of 349 more wanted drug traffickers to the list containing the names of over 42,000 wanted criminal suspects which was previously shared among all police stations across the island as part of ‘Yukthiya’ country-wide anti-drug operation.
-
-Police Headquarters assured that the ‘Yukthiya’ anti-drug operation, which was launched on 17 December 2023, will continue further across the island in order to arrest the drug traffickers and to crack down on the drug networks.
-
-Accordingly, a list of names of 296 newly identified drug traffickers and 53 other close associates of the recently-arrested drug traffickers was referred to all Senior Superintendents of Police (SSPs) in charge of police divisions in the country, under the directives of the Acting IGP Deshabandu Tennakoon.
-
-Meanwhile, 705 more suspects were arrested by the police and security forces personnel within a 24-hour window ending at 12.00 a.m. today (Feb. 09) as part of the operation ‘Yukthiya’.
-
-...
-
-[Data](articles/75b99c4f.json)
-
-[Extended Data](ext_articles/75b99c4f.ext.json)
-
----
-
-### Heated argument in Parliament over Divisional Secretary
-
-*2024-02-09 12:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heated-argument-in-Parliament-over-Divisional-Secretary/108-276670) · `en`
-
-A heated exchange erupted in Parliament on a while ago regarding the suspension and subsequent reinstatement of Udapalatha Divisional Secretary Gampala Athma Dilruskshi.
-
-State Minister Anuradha Jayaratne, Chief Opposition Whip Lakshman Kiriella, and Speaker Mahinda Yapa Abeywardana were all involved in the contentious debate.
-
-State Minister Jayaratne raised concerns regarding the Divisional Secretary's transfer, claiming she had failed to pay a contractor for construction work in Udapalatha, instead directing Rs. 1.6 million to a third party.
-
-He said she had posted a notice falsely claiming her removal from the National Heritage Association, which he claimed was founded by his father but did not involve him personally.
-
-He said that there could be a sinister move to sling mud at him claiming I got her transferred, he said.
-
-...
-
-[Data](articles/973bb119.json)
-
-[Extended Data](ext_articles/973bb119.ext.json)
-
----
-
-### Job Fair at SLECC
-
-*2024-02-09 12:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Job-Fair-at-SLECC/110-276669) · `en`
-
-The EDEX Expo 2024, Sri Lanka’s most prestigious Educational Exhibition and Job Fair was ceremonially open at the Sri Lanka Exhibition and Convention Centre (SLECC), today. The Job Fair will be held till Sunday (11) from 9.30 a.m. to 6.00 p.m. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/50a38527.json)
-
-[Extended Data](ext_articles/50a38527.ext.json)
 
 ---

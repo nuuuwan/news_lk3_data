@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 08:02:19**
+As of **2024-02-09 08:17:09**
 
 ## Newspaper Stats
 
-*Scraped **5,869** Articles*
+*Scraped **5,871** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 331
 newsfirstlk | 363
 adalk | 491
 adaderanalk | 721
-tamilmirrorlk | 721
+tamilmirrorlk | 723
 virakesarilk | 731
 adaderanasinhalalk | 770
 dailymirrorlk | 834
@@ -26,29 +26,49 @@ dailymirrorlk | 834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,866 (99.9%) of 5,869 articles have been extended.
+5,869 (100.0%) of 5,871 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### යළිත් එන විදුලි අර්බුදයක් ගැන ඉඟියක්
+### தம்பதியினரின் சடலங்கள் மீட்பு
+
+*2024-02-09 08:02:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தம்பதியினரின்-சடலங்கள்-மீட்பு/175-332936) · `ta`
+
+மிரிஹான ஜுபிலி மாவத்தை பகுதியிலுள்ள வீடொன்றில் இருந்து நேற்று (08) தம்பதியினரின் சடலங்கள் கண்டு பிடிக்கப்பட்டுள்ளன.
+
+பொலிஸார் குறித்த வீட்டிற்கு சென்று சோதனை செய்தபோது, ​​வீட்டின் அறையில் கட்டிலில் சில நாட்களுக்கு முன் உயிரிழந்த ஆணின் சடலம் கண்டுபிடிக்கப்பட்டுள்ளது.
+
+வீட்டின் சமையலறை தரையில் நிர்வாணமாக பெண்ணின் சடலம் இருந்ததாக பொலிஸார் மேலும் தெரிவித்தனர்.
+
+சில நாட்களாக குறித்த பகுதியில் கடும் துர்நாற்றம் வீசுவதாக அயலவர் ஒருவர் மிரிஹான பொலிஸாருக்கு வழங்கிய அறிவித்தலின் படி குறித்த வீடு சோதனையிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/e4ec21c7.json)
+
+---
+
+### A hint of a reboot power crisis
 
 *2024-02-09 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193151) · `si`
 
-යෝජිත පුනර්ජනනීය විදුලි බලාගාර ව්‍යාපෘති ක්‍රියාත්මක නොකළහොත් මෙම වසරේදී යළිත් රටේ විදුලි අර්බුදයක් නිර්මාණය වන බව ලංකා විදුලිබල මණ්ඩලයේ සාමාන්‍යාධිකාරි ආචාර්ය නරේන්ද්‍ර සිල්වා මහතා පවසයි.
+The Ceylon Electricity Board General Manager Dr. Narendra Silva, General Manager of the Ceylon Electricity Board (Ceylon Electricity Board) will create a country's power crisis this year.
 
-මූල්‍ය බංකොලොත්භාවයට හේතු පරීක්ෂා කර පාර්ලිමේන්තුවට වාර්තා කිරීම සඳහා වු පාර්ලිමේන්තු විශේෂ කාරක සභාව හමුවට විදුලිබල මණ්ඩයේ නිළධාරීන් කඳවා තිබු අතර එහිදී පසුගිය කාලය තුළ රට තුළ විදුලි අර්බුදයක් ඇති වීම සම්බන්ධයෙන් කරුණු විමසා තිබුණි.
+The Ceylon Electricity Board (Power) Officials had truncated the Parliamentary Committees to report the reasons for the financial bankruptcy and reporting to Parliament.
 
-එහිදී අදහස් දක්වමින් විදුලිබල මණ්ඩලයේ සාමාන්‍යාධිකාරි ආචාර්ය නරේන්ද්‍ර සිල්වා මහතා ප්‍රකාශ කළේ පැවැති රජයන් ගත ඇතැම් තීන්දු තීරණ සහ විදුලි ජනන සැලසුම් අනුව බලාගාර ක්‍රියාත්මක නොවීමේ ප්‍රතිවිපාක මේ වනවිට ජනතාවට අත්විඳීමට සිදුවී ඇති බවය.
+Commenting on the occasion, the General Corporate General Manager Dr. Narendra Silva said that the people had contracted the consequences of not implementing the power plants according to certain decisions and electrical generating plans.
 
-සක්‍රීය බලශක්ති විශේෂ භාවිත කරමින් ඉදිරි ජනන සැලසුම් සකස් කිරිම කඩිනමින් සිදුකළ යුතු බවද විදුලිබල මණ්ඩලයේ සාමාන්‍යාධිකාරි ආචාර්ය නරේන්ද්‍ර සිල්වා මහතා සඳහන් කළේය.
+General Manager, General Manager, Narendra Silva, General Manager of the Electricity Board should be carried out using active generation plans.
 
-මේ අතර මෙරට විශාලතම බිම්ගත සූර්ය පැනල විදුලිබලය උත්පාදන ව්‍යාපෘතියේ විදුලිය මිලදීගැනීමේ ගිවිසුම සඳහා ලංකා විදුලිබල මණ්ඩලය සහ ඊට අදාළ පුද්ගලික සමාගම අත්සන් තබා තිබේ.
+Meanwhile, the Ceylon Electricity Board and the relevant private company have signed the Sri Lanka's largest solar panel power generation agreement.
 
 ...
 
 [Data](articles/bc84c12b.json)
+
+[Extended Data](ext_articles/bc84c12b.ext.json)
 
 ---
 
@@ -66,39 +86,43 @@ The bodies of an elderly couple have been found inside a house in Mirihana.
 
 ---
 
-### මිරිහානේ නිවසකින් සැකකටයුතු ලෙස මියගිය යුවළකගේ සිරුරු හමුවෙයි
+### Mirihana residence found in a dead couple
 
 *2024-02-09 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193150) · `si`
 
-නිවසක් තුළ සැකසහිත ලෙස මියගිය යුවළකගේ සිරුරු හමුවූ බව පොලීසිය පවසයි.
+Police said that the bodies of a deceased couple were found in a house.
 
-පොලිස් නිලධාරීන් එම නිවසට ගොස් පරීක්ෂා කිරීමේදී නිවසේ කාමරයක ඇඳක් මත දින කිහිපයකට පෙර මියගිය පිරිමි මළසිරුර හමුවී තිබේ.
+The male bodies of the deceased have been found in a bed for a bed in a room of a room at a room in a room at a room where police officers visited the house.
 
-නිවසේ මුළුතැන්ගෙයි බිම නිරුවත් කාන්තා මළසිරුරක් ද තිබූ බව පොලීසිය වැඩිදුරටත් පැවසීය.
+He added that a bodies of nude women's bodies were also in the middle of the house.
 
-දින කිහිපයක් තිස්සේ එම නිවස පරිශ්‍රයෙන් දැඩි දුගදක් හමන බවට අසල්වැසියෙකු මිරිහාන පොලීසියට කළ දැනුම්දීමකට අනුව මෙම නිවස පරීක්ෂා කර තිබුණි.
+The house was inspected on an notice to the Mirihana Police that the house has been in the premises for several days.
 
-මෙලෙස මියගොස් ඇත්තේ 80 හැවිරිදි පිරිමි පුද්ගලයෙකු සහ 96 හැවිරිදි කාන්තාවකි.
+The victim was 80-year-old male and 96 year old woman.
 
-ඔවුන් එම නිවසේ පදිංචිව සිටි අඹු සැමි යුවළක් බව පොලීසිය පැවසීය.
+The police said that they were a friend of the house.
 
 ◼️
 
 [Data](articles/52706697.json)
 
+[Extended Data](ext_articles/52706697.ext.json)
+
 ---
 
-### උදෑසන කාලයේදී මීදුම් තත්ත්වයක්
+### In the morning, the mist
 
 *2024-02-09 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193148) · `si`
 
-අද (09) දිනයේදී දිවයිනේ ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Met Department forecasts that there is a rainy weather in the island today (09).
 
-ඒ අනුව අද දිනයේ මධ්‍යම, සබරගමුව සහ බස්නාහිර පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරයි.
+Accordingly, in some places in the Central, Sabaragamuwa and Western provinces and in the Galle and Matara districts seek.
 
 ◼️
 
 [Data](articles/d3246938.json)
+
+[Extended Data](ext_articles/d3246938.ext.json)
 
 ---
 
@@ -389,6 +413,22 @@ In 2018, the US Government provided a grant of $ 26 million to Sri Lanka to impl
 [Data](articles/e760a95f.json)
 
 [Extended Data](ext_articles/e760a95f.ext.json)
+
+---
+
+### 37 கோடி ரூபா மதிப்புள்ள 2 மாணிக்கக்கற்கள் மீட்பு
+
+*2024-02-09 02:52:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/37-கோடி-ரூபா-மதிப்புள்ள-2-மாணிக்கக்கற்கள்-மீட்பு/175-332934) · `ta`
+
+கொஸ்லந்த பொலிஸார் மேற்கொண்ட சுற்றிவளைப்பில் 37 கோடி ரூபா மதிப்புள்ள இரு மாணிக்கக்கற்கள் கைப்பற்றப்பட்டுள்ளன.
+
+இதன்போது சட்டவிரோதமான முறையில் விற்பனை செய்யப்படவிருந்த 2 நீல மாணிக்கக்கற்கள் கைப்பற்றப்பட்டுள்ளன. அவற்றின் மதிப்பு 37 கோடி ரூபா என இராணுவ ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+சம்பவம் தொடர்பில் வெலிவேரி பிரதேசத்தின் தேரர் ஒருவர் உட்பட இருவர் கொஸ்லந்த பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர். (a)
+
+◼️
+
+[Data](articles/c77f2ec1.json)
 
 ---
 
@@ -2023,45 +2063,5 @@ The Department of Meteorology states that a rainy weather is expected tomorrow.T
 [Data](articles/e53503da.json)
 
 [Extended Data](ext_articles/e53503da.ext.json)
-
----
-
-### Agreement inked for 100 MW Ground Mount Solar project
-
-*2024-02-08 16:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Agreement-inked-for-100-MW-Ground-Mount-Solar-project/108-276604) · `en`
-
-Colombo, Feb 08 - (Daily Mirror) -  Rividhanavi (Pvt) Ltd., a consortium comprising Lakdhanavi Ltd., Windforce PLC, and The Blue Circle Pte Ltd of Singapore, has inked the Power Purchase Agreement (PPA) with the Ceylon Electricity Board (CEB) today, marking a significant stride in the renewable energy landscape of Sri Lanka.
-
-The agreement pertains to the 100 MW Ground Mount Solar project located in Siyambalanduwa.
-
-This endeavour, which has been in the pipeline since its advertisement by the CEB in September 2022, underwent thorough evaluation throughout 2023.
-
-At the culmination of the evaluation process, Rividhanavi emerged as the lowest and successful bidder, clinching the project at the end of 2023.
-
-...
-
-[Data](articles/e374e9d1.json)
-
-[Extended Data](ext_articles/e374e9d1.ext.json)
-
----
-
-### Monthly allowances for kidney patients, disabled and elderly persons increased
-
-*2024-02-08 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97119/monthly-allowances-for-kidney-patients-disabled-and-elderly-persons-increased-) · `en`
-
-The monthly allowances paid to disabled persons, kidney patients and elderly citizens will be retrospectively increased from January 2024, Finance State Minister Shehan Semasinghe says.
-
-The beneficiaries of ‘Aswesuma’ welfare program who are entitled to these allowances are to be identified within the first quarter of 2024 and paid the increased payments starting April 01.
-
-Additionally, it has been decided to continue the payments for the ‘vulnerable’ and ‘transitional’ social groups up until December 31.
-
-The existing ‘vulnerable’ and ‘transitional’ social groups are planned to be amalgamated in the future. Subsequently, a total of 800,000 families will be considered ‘vulnerable’ and an allowance of Rs. 5,000/- will be paid to them. The ‘transitional’ social group now receives only Rs. 2,500.
-
-◼️
-
-[Data](articles/ca841edc.json)
-
-[Extended Data](ext_articles/ca841edc.ext.json)
 
 ---

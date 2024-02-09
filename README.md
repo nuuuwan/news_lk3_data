@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 17:17:18**
+As of **2024-02-09 17:33:15**
 
 ## Newspaper Stats
 
-*Scraped **5,955** Articles*
+*Scraped **5,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ islandlk | 308
 economynextcom | 309
 dailyftlk | 332
 newsfirstlk | 363
-adalk | 497
+adalk | 498
 tamilmirrorlk | 731
 virakesarilk | 735
-adaderanalk | 738
+adaderanalk | 739
 adaderanasinhalalk | 793
 dailymirrorlk | 852
 
@@ -26,11 +26,31 @@ dailymirrorlk | 852
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,952 (99.9%) of 5,955 articles have been extended.
+5,955 (100.0%) of 5,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### President addresses Indian Ocean Conference, calls for enhanced connectivity infrastructure
+
+*2024-02-09 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97146/president-addresses-indian-ocean-conference-calls-for-enhanced-connectivity-infrastructure) · `en`
+
+President Ranil Wickremesinghe, addressing the 7th Indian Ocean Conference on Friday (Feb.09), has highlighted the critical need for enhanced connectivity infrastructure to accommodate the projected 8-fold increase in the GDP of countries like India and Indonesia by 2050.
+
+The conference was convened in Perth, Australia under the theme “Towards a Stable and Sustainable Indian Ocean.”
+
+The Head of State on Thursday morning (Feb.08) embarked on a visit to Australia at the invitation of India Foundation and the Government of Australia to attend the conference.
+
+The President’s Media Division (PMD) said Wickremesinghe would play a pivotal role in shaping discussions at the conference, slated as a vital forum for dialogue and cooperation within the Indian Ocean Region.
+
+The conference aims to foster cooperation among 40 participating nations. President Wickremesinghe’s participation reflects Sri Lanka’s proactive stance towards regional stability and development.
+
+...
+
+[Data](articles/41c47ebe.json)
+
+---
 
 ### MPs nominated to 5 parliamentary committees
 
@@ -45,6 +65,8 @@ Accordingly, members have been selected to serve in the Ministerial Consultative
 ...
 
 [Data](articles/08142079.json)
+
+[Extended Data](ext_articles/08142079.ext.json)
 
 ---
 
@@ -66,23 +88,27 @@ Following the publication of the gazette, the CAA initiated extensive island-wid
 
 [Data](articles/654973b6.json)
 
+[Extended Data](ext_articles/654973b6.ext.json)
+
 ---
 
-### இந்து சமுத்திரம் எதிர்கொள்ளும் ஆபத்துக்கள் என்ன ? செங்கடல் தாக்குதல்களை சுட்டிக்காட்டி சிங்கப்பூர் வெளிவிவகார அமைச்சர் கருத்து
+### What are the dangers facing the Indian Ocean?Singapore Foreign Minister comments pointing to Red Sea attacks
 
 *2024-02-09 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175983) · `ta`
 
-செங்கடலில் காணப்படும் ஆபத்தான நிலைமை உட்பட பல காரணங்களால் இந்து சமுத்திர பிராந்தியம் பொருளாதார பலவீனங்களை எதிர்கொள்வதாக சிங்கப்பூரின் வெளிவிவகார அமைச்சர் விவியன் பாலகிருஸ்ணன் தெரிவித்துள்ளார்.
+Singapore's Foreign Minister Vivian Balakrishnan has said that the Indian Ocean Region is facing economic weaknesses due to many reasons, including the dangerous situation in the Red Sea.
 
-செங்கடலில் ஹெளத்திகிளர்ச்சியாளர்களின் சமீபத்தைய தாக்குதல்கள் முக்கிய கடல்பாதைகளிற்குஏற்படக்கூடிய ஆபத்தையும் இதன்காரணமாக இந்துசமுத்திரத்தில் எண்ணெய் மற்றும் கப்பல் கொள்கலன்கள் போக்குவரத்து பாதிக்கப்படக்கூடிய ஆபத்தையும்  வெளிப்படுத்தியுள்ளன  என சிங்கப்பூரின் வெளிவிவகார அமைச்சர் தெரிவித்துள்ளார்.
+Singapore's Foreign Minister said the recent attacks on the Red Sea have revealed the danger of the major seas and the danger of oil and shipping containers in Hinduism.
 
-இந்துசமுத்திரன் முக்கிய பாதைகளில் ஏற்படக்கூடிய பாதிப்புகள் எவையும் குறிப்பாக செங்கடல் ஹோர்மஸ் நீரிணையில் ஏற்படக்கூடிய பாதிப்புகள் உலகின் முக்கிய வர்த்தக மையமான சிங்கப்பூரின் பொருளாதாரத்திற்கு பெரும் பாதிப்பை ஏற்படுத்தும் எனவும் அமைச்சர் தெரிவித்துள்ளார்.
+The Minister said that the impact of Hindusamutran on the main paths, especially in the Red Sea Horms Strait, would have a major impact on the economy of Singapore, the world's major trade center.
 
-சுதந்திரகடற்பயணத்தின் சட்டரீதியான மற்றும் பொருளாதார முக்கியத்துவத்தினை சுட்டிக்காட்டியுள்ள சிங்கப்பூர் அமைச்சர் அனுமதியின்றி வாடகையின்றி கப்பல்கள் பயணம் செய்ய அனுமதிப்பதன் அவசியத்தையும்  வலியுறுத்தியுள்ளார்.
+Pointing to the legal and economic importance of the Independence Travel, the Singapore Minister also emphasized the need to allow ships to be sailed without rent.
 
 ◼️
 
 [Data](articles/b970f3a2.json)
+
+[Extended Data](ext_articles/b970f3a2.ext.json)
 
 ---
 
@@ -841,6 +867,24 @@ The government has taken steps to increase the total number of beneficiaries to 
 [Data](articles/c22c725c.json)
 
 [Extended Data](ext_articles/c22c725c.ext.json)
+
+---
+
+### සිමෙන්ති සංස්ථාවේ ඉඩමෙන් ඩොලර් මිලියන 100ක් උපයාගත හැකියි
+
+*2024-02-09 11:07:01* · [`adalk`](https://www.ada.lk/breaking_news/සිමෙන්ති-සංස්ථාවේ-ඉඩමෙන්-ඩොලර්-මිලියන-100ක්-උපයාගත-හැකියි/11-407982) · `si`
+
+මෙන්ති සංස්ථාව සතු අක්කර 5000ක ඉඩමෙන් වසරකට ඩොලර් මිලියන 300ක් උපයා ගත හැකි සැලැස්මක් ඇති බවත් ඒ වෙනුවෙන් ආයෝජනය කිරීමට සූදානම් ආයතනයක් ද මේ වන විට තෝරාගෙන ඇති බවත් ප්‍රාථමික කර්මාන්ත රාජ්‍ය අමාත්‍ය චාමර සම්පත් දසනායක මහතා පැවසීය.
+
+කුමන ප්‍රශ්න පැමිණිය ද රටේ පවතින සම්පත්වලින් හැකි තරම් ප්‍රයෝජන ලබා ගෙන රට ගොඩ නැඟීමට කටයුතු කළ යුතු බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+ප්‍රාථමික කර්මාන්ත රාජ්‍ය අමාත්‍ය චාමර සම්පත් දසනායක මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (07) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ ප්‍රාථමික කර්මාන්ත රාජ්‍ය අමාත්‍ය චාමර සම්පත් දසනායක මහතා මෙසේ ද පැවසීය,
+
+...
+
+[Data](articles/f8511f5f.json)
 
 ---
 
@@ -2007,43 +2051,5 @@ The Minister emphasised that when the Supreme Court issues an order regarding le
 [Data](articles/7f7f9592.json)
 
 [Extended Data](ext_articles/7f7f9592.ext.json)
-
----
-
-### Driving licences for hearing-impaired community
-
-*2024-02-09 04:59:28* · [`dailyftlk`](https://www.ft.lk/news/Driving-licences-for-hearing-impaired-community/56-758270) · `en`
-
-The Cabinet of Ministers this week approved to issue of light-vehicle driving licences to hearing-impaired persons on a biannual renewal basis.
-
-On 14 November 2022 the Cabinet approved a pilot project to issue light-vehicle driving licences to the hearing-impaired community in the Gampaha District.
-
-The proposal to this effect submitted by Transport and Highways Minister Bandula Gunawardena received the approval to expand the project countrywide based on the results of the pilot project and the recommendations provided by the Transport Secretary-chaired committee appointed for the implementation of the project.
-
-◼️
-
-[Data](articles/99dce15b.json)
-
-[Extended Data](ext_articles/99dce15b.ext.json)
-
----
-
-### Japan pledges Rs. 2.8 b for solar energy in hospitals
-
-*2024-02-09 04:59:12* · [`dailyftlk`](https://www.ft.lk/news/Japan-pledges-Rs-2-8-b-for-solar-energy-in-hospitals/56-758269) · `en`
-
-The Government of Japan has pledged project support totalling Yen 1.23 billion (around Rs. 2.8 billion) through the Japan International Cooperation Agency (JICA).
-
-The funding will facilitate the establishment of solar energy generation systems at three key hospitals in the country.
-
-The beneficiaries of this initiative include Sri Jayewardenepura General Hospital, Kurunegala Teaching Hospital and Ratnapura Teaching Hospital, where solar energy facilities will be installed to provide electricity. The project aims to reduce reliance on non-renewable energy sources within the healthcare sector, thereby contributing to environmental conservation efforts.
-
-The objectives of this project are to reduce the use of non-renewable energy in the health sector, to increase the overall efficiency of the health service sector and to promote sustainable development.
-
-...
-
-[Data](articles/6d7454e2.json)
-
-[Extended Data](ext_articles/6d7454e2.ext.json)
 
 ---

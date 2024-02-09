@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 14:33:17**
+As of **2024-02-09 14:50:03**
 
 ## Newspaper Stats
 
-*Scraped **5,932** Articles*
+*Scraped **5,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,54 @@ dailyftlk | 332
 newsfirstlk | 363
 adalk | 497
 tamilmirrorlk | 730
-adaderanalk | 733
 virakesarilk | 733
+adaderanalk | 735
 adaderanasinhalalk | 787
-dailymirrorlk | 845
+dailymirrorlk | 847
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,931 (100.0%) of 5,932 articles have been extended.
+5,932 (99.9%) of 5,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### කාසියේ වාසිය ඇෆ්ගනිස්තානයට
+### To Afghanistan to advantage
 
 *2024-02-09 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193170) · `si`
 
-සංචාරක ඇෆ්ගනිස්තාන කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර පළමු එක්දින ක්‍රිකට් තරගය අද (09) පැවැත්වෙයි.
+The first one-day match between the Afghan group and the Sri Lankan team will be held today (09).
 
-එහි කාසියේ වාසිය දිනාගැනීමට ඇෆ්ගනිස්තාන කණ්ඩායම සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දු යැවීමටය.
+The Afghan group won the advantage of the coin, and they decided first bowler.
 
 ◼️
 
 [Data](articles/07fd0643.json)
+
+[Extended Data](ext_articles/07fd0643.ext.json)
+
+---
+
+### Asthma on rise among children, parents urged to exercise caution
+
+*2024-02-09 14:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Asthma-on-rise-among-children-parents-urged-to-exercise-caution/108-276672) · `en`
+
+Colombo, Feb 9 (Daily Mirror) - Health experts in Sri Lanka have sounded the alarm over a noticeable uptick in asthma cases among children, sparking concerns among parents.
+
+Dr. Deepal Perera, a Paediatrician at the Lady Ridgeway Children's Hospital in Colombo, attributed this concerning surge to the prevailing extreme heat.
+
+"As schools gear up for sports meets, where children engage in numerous outdoor activities amidst the scorching weather, they become more vulnerable to asthma triggers," Dr. Perera warned, urging parents to remain vigilant about their children's health.
+
+Furthermore, Dr. Perera emphasized the importance of keeping children away from smoking areas, as exposure to smoke can exacerbate respiratory complications, particularly in those with asthma.
+
+"Common symptoms of childhood asthma include shortness of breath, difficulty in breathing and persistent coughing," he cautioned
+
+◼️
+
+[Data](articles/c4ebb09d.json)
 
 ---
 
@@ -63,6 +85,48 @@ The designers say that the metals who have been discarded by the Eiffel Tower fo
 [Data](articles/aeda6e48.json)
 
 [Extended Data](ext_articles/aeda6e48.ext.json)
+
+---
+
+### ‘My memory is fine’ - President Biden hits back at special counsel
+
+*2024-02-09 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97142/my-memory-is-fine-president-biden-hits-back-at-special-counsel) · `en`
+
+US President Joe Biden has angrily criticised an investigation that found he mishandled top secret files and said he struggled to recall key life events.
+
+In a surprise news briefing on Thursday evening, Mr Biden insisted: “My memory is fine.”
+
+He slammed a claim that he could not recollect when his son died, saying: “How the hell dare he raise that?”
+
+The inquiry found Mr Biden “wilfully retained and disclosed” classified files, but decided not to charge him.
+
+Department of Justice Special Counsel Robert Hur determined Mr Biden had improperly kept classified documents related to military and foreign policy in Afghanistan after serving as vice-president.
+
+The scathing 345-page report, released earlier in the day, said the president’s memory had “significant limitations”.
+
+Mr Hur interviewed the 81-year-old president over five hours as part of the inquiry.
+
+...
+
+[Data](articles/1729fce8.json)
+
+---
+
+### Law reforms for system change: SJB Lawyers Federation to Propose 117 Reforms
+
+*2024-02-09 13:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Law-reforms-for-system-change-SJB-Lawyers-Federation-to-Propose-117-Reforms/108-276671) · `en`
+
+Colombo, Feb 9 (Daily Mirror) - The SJB Lawyers Federation has announced its intention to present 117 proposals for substantial legal reforms aimed at bringing about a systemic change and introducing rationality to governance.
+
+President of the SJB Lawyers Federation, President's Counsel Upul Jayasuriya, informed the media that the proposed laws would focus on family politics, suggesting that siblings of politicians should not enter politics until a cooling-off period after those already holding political office retire.
+
+Jayasuriya emphasized that family members would be prohibited from entering into any government contracts while an immediate family member holds a political office.
+
+The President of the SJB Lawyers’ Federation also announced plans to withdraw the draconian Online Safety Bill and introduce a new bill under the SJB government to safeguard the rights of women and children online.
+
+...
+
+[Data](articles/2b0f2c67.json)
 
 ---
 
@@ -1166,6 +1230,26 @@ The bodies of an elderly couple have been found inside a house in Mirihana.
 
 ---
 
+### Bodies of elderly couple found inside house after foul odour reported
+
+*2024-02-09 07:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97130/bodies-of-elderly-couple-found-inside-house-after-foul-odour-reported) · `en`
+
+The bodies of an elderly couple have been found inside a house in Mirihana on Thursday (Feb.08).
+
+Officers of Mirihana Police had inspected the house after a neighbour reported a foul odour coming from the house.
+
+The body of the 80-year-old husband was discovered lying on the bed of one of the rooms, while the 96-year-old wife’s found naked on the kitchen floor.
+
+After facts were presented to the Nugegoda Magistrate’s Court and the magistrate’s inquest was completed, the bodies were moved to the mortuary of Colombo South Teaching Hospital in Kalubowila for the post-mortem.
+
+Mirihana Police has initiated investigations to uncover the cause and manner of deaths to determine whether it was a murder.
+
+◼️
+
+[Data](articles/c6b8fcdd.json)
+
+---
+
 ### Mirihana residence found in a dead couple
 
 *2024-02-09 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193150) · `si`
@@ -1939,89 +2023,5 @@ Police suspect that the shooter may have fled and the shooting may have been cau
 [Data](articles/836de4e0.json)
 
 [Extended Data](ext_articles/836de4e0.ext.json)
-
----
-
-### Attack on Tamil political prisoner
-
-*2024-02-08 22:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175930) · `ta`
-
-Investigations have begun based on a complaint made by a Tamil MP in connection with the alleged attack on a former military officer.
-
-Pradeepan, a Tamil political prisoner detained at the Megasin Prison, Colombo, has begun investigations into the incident that is reported to have been attacked during a search operation.
-
-Investigations have begun following the attention of Minister Wijeyadasa Rajapakse, who is responsible for the prisons in connection with the issue.
-
-Gamini B, Media Spokesperson Gamini B.. Dissanayake says.
-
-Media Spokesperson Gamini B.. Dissanayake further stated.
-
-Parliamentarian R. Sanakian has accused a former army officer who had not been served in the Megasin Prison and had assaulted a Tamil political prisoner named Pradeepan.
-
-MP Chanakyan, who visited the Megasin Prison on January 26, was commenting on the media to visit the detained Tamil political prisoners.
-
-...
-
-[Data](articles/27091add.json)
-
-[Extended Data](ext_articles/27091add.ext.json)
-
----
-
-### To take action immediately for a salary increase
-
-*2024-02-08 22:44:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடனடியாக-சம்பள-அதிகரிப்புக்கு-நடவடிக்கை-எடுக்க-வேண்டும்/175-332923) · `ta`
-
-Vadivel Suresh, a Member of Parliament and Senior Advisor of the President, says the government has moral responsibility and responsibility for plantation workers' land problem.
-
-He commented at the parliamentary session held yesterday. In addition,
-
-Our society, which has made themselves fertilizer for the upstart soil for 200 years, has been facing many troubles to this day. I recall that the salary increase to increase by the end of January has not yet been increased by the end of January.
-
-The president must take immediate action to increase the salary increase even if they use a severe pressure on the employers' federation
-
-Plantation workers' industrial disputes to be smoothly resolved are the peak of the plantation administration.
-
-The land was shared by the President and the Ministry of Lands. This program should be nationalized and the land should be distributed to the people of the hill country. I hope that these activities will be successfully implemented.. Remble
-
-◼️
-
-[Data](articles/11079585.json)
-
-[Extended Data](ext_articles/11079585.ext.json)
-
----
-
-### Sri Lankan envoy says relations with Saudi Arabia based on respect
-
-*2024-02-08 22:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97128/sri-lankan-envoy-says-relations-with-saudi-arabia-based-on-respect) · `en`
-
-Relations between Saudi Arabia and Sri Lanka are based on common values, mutual respect, support and non interference according to Colombo’s ambassador in Riyadh, Pakeer Mohideen Amza.
-
-Speaking at a reception on the 76th anniversary of Sri Lanka’s Independence, he said: “Sri Lanka-Saudi Arabia relations date back to several centuries. Sri Lanka was a pivotal point in the historic silk route which was used extensively by the Arab traders. In ancient times Arabs called Sri Lanka ‘Serendip,’ which later added to the English vocabulary as ‘serendipity.’”
-
-The ambassador said the Sri Lankan leadership had on numerous occasions expressed admiration for Saudi Vision 2030, which he said was a well-thought-out strategy that takes into consideration the Kingdom’s strengths and capabilities, as well as the impressive progress that has been made under the leadership of King Salman and Crown Prince Mohammed bin Salman.
-
-...
-
-[Data](articles/3ab8eb23.json)
-
-[Extended Data](ext_articles/3ab8eb23.ext.json)
-
----
-
-### Person injured in shooting at Anamaduwa
-
-*2024-02-08 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97127/person-injured-in-shooting-at-anamaduwa) · `en`
-
-A shooting incident was reported in the Pattewa area of Anamaduwa this evening (Feb. 08), the police said.
-
-A 45-year-old person who was injured in the shooting has been admitted to the Puttalam Hospital, according to police.
-
-◼️
-
-[Data](articles/3dab2390.json)
-
-[Extended Data](ext_articles/3dab2390.ext.json)
 
 ---

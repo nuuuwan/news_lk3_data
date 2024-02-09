@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 05:37:16**
+As of **2024-02-09 05:56:30**
 
 ## Newspaper Stats
 
-*Scraped **5,840** Articles*
+*Scraped **5,850** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 81
 dbsjeyarajcom | 142
 islandlk | 300
 economynextcom | 308
-dailyftlk | 316
+dailyftlk | 326
 newsfirstlk | 363
 adalk | 491
 adaderanalk | 719
@@ -26,11 +26,185 @@ dailymirrorlk | 834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,840 (100.0%) of 5,840 articles have been extended.
+5,840 (99.8%) of 5,850 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### People’s Bank and Hayleys Agriculture form strategic alliance for agricultural advancement
+
+*2024-02-09 05:12:17* · [`dailyftlk`](https://www.ft.lk/business/People-s-Bank-and-Hayleys-Agriculture-form-strategic-alliance-for-agricultural-advancement/34-758277) · `en`
+
+In a seminal move to fortify Sri Lanka’s agricultural landscape, People’s Bank, has entered into a Memorandum of Understanding (MoU) with Hayleys Agriculture Holdings Ltd., a distinguished provider of agricultural machinery and vehicles. This strategic collaboration, designed to facilitate a joint promotional campaign, is poised to usher in a new era of financial accessibility and technological adoption for the country’s agricultural community.
+
+Under the terms of this alliance, People’s Bank assumes a pivotal role by offering bespoke loan facilities to clients with specific requirements pertaining to agricultural machinery and vehicles. This financial framework aims to empower farmers, providing them with the means to invest in cutting-edge equipment that holds the potential to enhance overall agricultural efficiency and productivity.
+
+...
+
+[Data](articles/de90a6d1.json)
+
+---
+
+### Cabinet approves import of 15,000 tons of cashew nut to address shortage
+
+*2024-02-09 05:11:06* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-import-of-15-000-tons-of-cashew-nut-to-address-shortage/34-758276) · `en`
+
+The Cabinet of Ministers approved importing a maximum of 15,000 tons of cashew nuts in the shell this year as the local production capacity falls short to 12,500 tons, leading to an urgent need for intervention.
+
+The annual demand is 25,000 tons of cashew nuts but the cashew industry in the country is facing a very unfortunate situation as the crop has not been harvested as expected in the last season.
+
+Additionally, a committee comprising senior officials from relevant Ministries will determine the quantity to be imported from December to April over the next four years, bridging the gap during the offseason when local cashew harvests are unavailable.
+
+The proposal presented by the Agriculture and Plantation Minister received approval at the Cabinet of Ministers’ meeting on Monday.
+
+◼️
+
+[Data](articles/8c4c9188.json)
+
+---
+
+### Kishu Gomes appointed Chairman of Exterminators
+
+*2024-02-09 05:10:48* · [`dailyftlk`](https://www.ft.lk/business/Kishu-Gomes-appointed-Chairman-of-Exterminators/34-758275) · `en`
+
+Exterminators PLC has announced the appointment of Kishu Gomes as the Non-Executive Independent Director and Chairman of the company.
+
+He is an award-winning corporate leader with a proven track record heading large multinational and local conglomerates. He was appointed as the youngest Asian to head a truly American multinational, Chevron Lubricants Lanka PLC and Chevron Ceylon Ltd and served as the Managing Director/CEO for over 18 years setting another record as the longest serving multinational CEO in Sri Lanka. He was also the Chairman of Caltex Bangladesh Ltd. and served on the Board of Caltex India Ltd.
+
+He started off his career at Coca-Cola and worked his way through to become a senior manager holding a variety of Sales and Marketing positions. During his time, Coke became the market leader from a position of market underdog for decades. He was assigned with two country assignments in Singapore and Vietnam and worked with top Global Coca-Cola leaders.
+
+...
+
+[Data](articles/a4986026.json)
+
+---
+
+### CAL launches Sri Lanka’s Exclusive Active Fixed-Income Closed-End Fund
+
+*2024-02-09 05:09:12* · [`dailyftlk`](https://www.ft.lk/business/CAL-launches-Sri-Lanka-s-Exclusive-Active-Fixed-Income-Closed-End-Fund/34-758274) · `en`
+
+Capital Alliance Holdings Limited (CAL), the leading investment bank with over 23 years of extensive market experience, is pleased to announce that Capital Alliance Investments Ltd, the asset management division of CAL, has launched Sri Lanka’s exclusive active fixed-income closed-end fund.
+
+The investment banking division of CAL, Capital Alliance Partners Ltd, played a crucial role as the financial advisor in the introduction, highlighting CAL's commitment to providing innovative financial solutions to the market.
+
+This specialized fund is strategically launched during periods of high interest rates in the economy, offering investors the opportunity to lock their funds for a stipulated timeframe and gain maximum returns on their investments. The product will enhance the ability for investors to diversify their portfolio and manage liquidity and return objectives more efficiently.
+
+...
+
+[Data](articles/187ae795.json)
+
+---
+
+### Charitha rips into President’s policy statement
+
+*2024-02-09 05:07:40* · [`dailyftlk`](https://www.ft.lk/news/Charitha-rips-into-President-s-policy-statement/56-758273) · `en`
+
+Says Govt. policy statement presented by President lacks any coherent vision despite grand rhetoric
+
+Claims it is solely comprised of outdated IMF policies which have led to downfall of countries
+
+Accuses President of creating a political and constitutional crisis to mask an emerging economic crisis arising from IMF policies
+
+Stresses upcoming Presidential poll must serve as a platform to discuss SL’s economic policies
+
+Member of the Freedom People’s Congress (FPC) and  MP Prof. Charitha Herath yesterday sharply criticised the Government’s policy statement presented by President Ranil Wickremesinghe on Wednesday and said that it lacked any coherent vision despite the grand rhetoric.
+
+Participating in the parliamentary debate on the policy statement yesterday, Herath remarked that it solely comprised outdated IMF policies, which historically resulted in nations relying on begging bowls. He emphasised the absence of any alternative policies within the statement.
+
+...
+
+[Data](articles/e96deb18.json)
+
+---
+
+### SJB firm on non-support - Nalin Bandara highlights incompatibility with SLPP
+
+*2024-02-09 05:05:05* · [`dailyftlk`](https://www.ft.lk/news/SJB-firm-on-non-support-Nalin-Bandara-highlights-incompatibility-with-SLPP/56-758272) · `en`
+
+Samagi Jana Balawegaya (SJB) MP Nalin Bandara yesterday expressed the party’s inability to support the President Ranil Wickremesinghe’s endeavours to revive Sri Lanka, citing his collaboration with the leaders of the Sri Lanka Podujana Peramuna (SLPP), the same party responsible for the country’s bankruptcy.
+
+“The President has made many statements of Government policy within the last two years. In turn, Government MPs are now singing the praises of the President. Yesterday President Wickremesinghe questioned why the SJB cannot support him as the Pohottuwa members have. That is the very reason we cannot support his efforts,” Bandara said.  He remarked that those responsible for leading the country to bankruptcy since 2005 are now praising Wickremesinghe, and they appear to view the President in a favourable light.  “SJB lawyers even filed cases against them, and they were found responsible for the crisis. Hence, we are unable to collaborate with them,” he said.
+
+◼️
+
+[Data](articles/cd338c82.json)
+
+---
+
+### Justice Minister acknowledges presence of deficiencies in OSA
+
+*2024-02-09 05:03:31* · [`dailyftlk`](https://www.ft.lk/news/Justice-Minister-acknowledges-presence-of-deficiencies-in-OSA/56-758271) · `en`
+
+Says Govt. has observed certain shortcomings and is willing to make amendments
+
+Requests opposition to propose amendments instead of calling for it to be scrapped entirely
+
+Claims Govt. enacted law in good faith and not to protect Govt. or President as claimed
+
+Justice, Prisons Affairs and Constitutional Reforms Minister Dr. Wijeyadasa Rajapakshe in Parliament yesterday admitted that the recently enacted Online Safety Act has certain shortcomings and they have been observed by the Government.
+
+Accordingly, the Minister said the Government is willing to bring in the necessary amendments to the Act.
+
+The Minister emphasised that when the Supreme Court issues an order regarding legislation under consideration by Parliament, amendments beyond the scope of the subject matter cannot be proposed. “We can bring amendments within the scope of the subject matter, however,” he said.
+
+...
+
+[Data](articles/7f7f9592.json)
+
+---
+
+### Driving licences for hearing-impaired community
+
+*2024-02-09 04:59:28* · [`dailyftlk`](https://www.ft.lk/news/Driving-licences-for-hearing-impaired-community/56-758270) · `en`
+
+The Cabinet of Ministers this week approved to issue of light-vehicle driving licences to hearing-impaired persons on a biannual renewal basis.
+
+On 14 November 2022 the Cabinet approved a pilot project to issue light-vehicle driving licences to the hearing-impaired community in the Gampaha District.
+
+The proposal to this effect submitted by Transport and Highways Minister Bandula Gunawardena received the approval to expand the project countrywide based on the results of the pilot project and the recommendations provided by the Transport Secretary-chaired committee appointed for the implementation of the project.
+
+◼️
+
+[Data](articles/99dce15b.json)
+
+---
+
+### Japan pledges Rs. 2.8 b for solar energy in hospitals
+
+*2024-02-09 04:59:12* · [`dailyftlk`](https://www.ft.lk/news/Japan-pledges-Rs-2-8-b-for-solar-energy-in-hospitals/56-758269) · `en`
+
+The Government of Japan has pledged project support totalling Yen 1.23 billion (around Rs. 2.8 billion) through the Japan International Cooperation Agency (JICA).
+
+The funding will facilitate the establishment of solar energy generation systems at three key hospitals in the country.
+
+The beneficiaries of this initiative include Sri Jayewardenepura General Hospital, Kurunegala Teaching Hospital and Ratnapura Teaching Hospital, where solar energy facilities will be installed to provide electricity. The project aims to reduce reliance on non-renewable energy sources within the healthcare sector, thereby contributing to environmental conservation efforts.
+
+The objectives of this project are to reduce the use of non-renewable energy in the health sector, to increase the overall efficiency of the health service sector and to promote sustainable development.
+
+...
+
+[Data](articles/6d7454e2.json)
+
+---
+
+### US grants $ 58.5 m for education and health initiatives
+
+*2024-02-09 04:58:44* · [`dailyftlk`](https://www.ft.lk/news/US-grants-58-5-m-for-education-and-health-initiatives/56-758268) · `en`
+
+Cabinet approves signing MoU with relevant parties to initiate and execute the project effectively
+
+The US Government has allocated an additional grant of $ 32.5 million of the total $ 58.5 million to implement the second phase to execute a project focused on promoting self-governance, literacy and attention through market alliances.
+
+The investment, facilitated through the United States Department of Agriculture and Save the Children organisation, underscores the ongoing partnership between the two countries in promoting self-governance, literacy and healthcare through market alliances.
+
+In 2018, the US Government provided a grant of $ 26 million to Sri Lanka to implement a project focused on promoting self-governance, literacy and attention through market alliances.
+
+...
+
+[Data](articles/e760a95f.json)
+
+---
 
 ### Model lecturers do not repay the loan
 
@@ -1921,223 +2095,5 @@ Wednesday’s trade of JKH shares (11.3mn) pushed the CSE’s daily turnover pas
 [Data](articles/0df5c4a0.json)
 
 [Extended Data](ext_articles/0df5c4a0.ext.json)
-
----
-
-### Sri Lanka’s electricity charges remain highest in South Asia
-
-*2024-02-08 15:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lankas-electricity-charges-remain-highest-in-South-Asia/155-276603) · `en`
-
-Feb 08 - In a recent analysis comparing electricity charges across South Asian countries, Sri Lanka emerges with the highest household electricity costs, prompting concerns among the public regarding the burden on consumers.
-
-The analysis, conducted for December 2023 by the Verité Research, sheds light on the stark disparities in electricity charges between Sri Lanka and its regional counterparts.
-
-The analysis, which examined tariff revisions and cost structures in February, July, and October 2023, highlights two significant findings that underscore the gravity of the situation:
-
-Highest Household Electricity Cost: Sri Lanka stands out with the highest household electricity costs among South Asian countries. Comparisons against the highest cost areas of supply in other countries revealed that Sri Lanka consistently maintains the top position in terms of electricity charges.
-
-...
-
-[Data](articles/dc7afbb3.json)
-
-[Extended Data](ext_articles/dc7afbb3.ext.json)
-
----
-
-### Anuragumara has gone to India because Ranil has done brainwashed - Minister Nimal
-
-*2024-02-08 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175894) · `ta`
-
-President Ranil Wickremesinghe has brainwashed the national people's power.
-
-Speaking on India's domination, he said that the leaders of the national power power have gone to India.
-
-We are happy about this.
-
-"We know how the leaders of the National People's Power have criticized the government to work with the Adani Group," he said.
-
-◼️
-
-[Data](articles/f5af2139.json)
-
-[Extended Data](ext_articles/f5af2139.ext.json)
-
----
-
-### 37 crores worth of gemstones;Two persons including Thera
-
-*2024-02-08 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175871) · `ta`
-
-Based on information provided by the military intelligence, Koslanda police have seized 2 blue stones illegally when they tried to illegally.
-
-Two persons, including a Thera of Weliweriya, have been arrested by Koslanda police in connection with the incident as the seized gem stones were to be sold for about Rs 37 crore during the raid.
-
-The arrested gem stones have been revealed in the form of Vihara. Koslanda police are conducting further investigations.
-
-◼️
-
-[Data](articles/52cd0907.json)
-
-[Extended Data](ext_articles/52cd0907.ext.json)
-
----
-
-### Genocide Of Palestinian Began Since 1948
-
-*2024-02-08 15:08:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/genocide-of-palestinian-began-since-1948/) · `en`
-
-The ongoing United States – European supported Israeli genocide of Palestinians and destruction in Gaza is not the first of its kind. These war mongers  committed similar  massacres in Deir Yassin and Kafr Kassim in 1948  to drive out Palestinians from their homes and lands to  plant Israel  there.
-
-In the case of Israeli occupied Gaza too US, Britain,Europe openly supported  earlier  Israeli genocides  as part of their overall programme to ethnic cleanse Palestinians and annex Gaza with Israel to create Greater Israel to control and loot the Middle East.
-
-As it is happening  now  in Gaza Arab tyrants, installed in power and protected by US and Europe, have sided with Israel by turning blind eye.
-
-For example on 27 December 2008 Israel, using the most sophisticated and most destructive fighter planes and weapons supplied by United States and Europe, committed genocide of Palestinians in Gaza .
-
-...
-
-[Data](articles/fbac0498.json)
-
-[Extended Data](ext_articles/fbac0498.ext.json)
-
----
-
-### A big change in the Australian industry
-
-*2024-02-08 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193135) · `si`
-
-In the completion of his work, Australia is taking action to introduce a new law to ensure the right to ignore the right to ignore the rights of its heads.
-
-It is reported that there is also the provisions to fill the law against the employers who violate the law.
-
-The country is scheduled to revise several laws related to the industry and the New law is to be introduced under the "RIGHT TO Disconnect".
-
-The new law is assumed that the ability of employees will be able to create equality between employees and life.
-
-◼️
-
-[Data](articles/031c107d.json)
-
-[Extended Data](ext_articles/031c107d.ext.json)
-
----
-
-### Missing a magazine of 30 military police bullets
-
-*2024-02-08 15:03:58* · [`adalk`](https://www.ada.lk/breaking_news/යුද්ධ-හමුදා-පොලිසියේ-උණ්ඩ-30ක-මැගසිනයක්--අස්ථානගතවෙයි/11-407967) · `si`
-
-Sri Lanka Army Police Hewa Balawa is a complaint with a complaint lodged with the Kirulapone Police have received a complaint that is missing 30 bullets in Polhengoda
-
-It is missing in the last 4 and 7 days and 7th
-
-A Major who acts as a commander complained complained
-
-One officer in the camp is a T-56 rifle and 1 pchchs, as well as 1 puchs have been provided to the camp.
-
-According to police sources, the Magazine has informed the Magazine that a magazine has been misplaced in firearms and magazines to officials on the 5th.
-
-The missing magazine has been found in the camp, but it is not unable to find it
-
-Criminal Investigation Division OIC of the Criminal Investigation Division (CID) OIC of the Criminal Investigation Division (CID)
-
-◼️
-
-[Data](articles/9be90a3d.json)
-
-[Extended Data](ext_articles/9be90a3d.ext.json)
-
----
-
-### Minister of Justice admits that there are shortcomings in the online bill
-
-*2024-02-08 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193134) · `si`
-
-Minister of Justice Dr. Wijayadasa Rajapaksa says that some shortcomings in the security of online methods have been observed.
-
-He said that if the necessary amendments would be prepared to discuss it, he said.
-
-The Minister made this observation today (08) in response to the questions referred to the questions regarding the Act.
-
-MP Geavandu Kumaratunga expressed this regard regarding the security of the Online Schemes.
-
-"There were more than 40 petitions that challenged the Bill of Online Methods. Court order to conduct exams for weeks.. All the facts mentioned by the Supreme Court proceed with the amendments and finally submit a revision from the Attorney General. "
-
-"Does the judiciary can't bring this to this? Don't the judiciary has no power to say no. The only power to the judiciary is the decision to decide whether a clause is inconsistent with the Constitution. "
-
-...
-
-[Data](articles/0c3ec0d4.json)
-
-[Extended Data](ext_articles/0c3ec0d4.ext.json)
-
----
-
-### Another shooter caught for police
-
-*2024-02-08 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193133) · `si`
-
-A suspect had been arrested in the Nawagamuwa Sabhas today (08).
-
-Acting IGP Deshabandu Tennakoon said the shooting was arrested in the Dimbulagala area in the Special Criminal Investigation Division this morning.
-
-Two persons who came to a house covered by the STF personnel in Koratto, Korathentota were abducted in the house and was shot dead on January 10.
-
-The victim has been shot at the Colombo National Hospital for further treatment, after being rushed to the Colombo National Hospital.
-
-The deceased is Buddhika Prasad, a resident of Korattatota, Korathentota.
-
-A senior Navagamuwa Police said that a massive suzzling was being heard in 2011 and charges of a firearm in 2011.
-
-◼️
-
-[Data](articles/dc52776e.json)
-
-[Extended Data](ext_articles/dc52776e.ext.json)
-
----
-
-### Disabled, adult and kidney offers up
-
-*2024-02-08 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193132) · `si`
-
-State Minister Shehan Semasinghe says that the disabled, adult and kidney allowance will be increased from January.
-
-Accordingly, the disabled and kidney allowance of Rs. 5,000 will be increased to Rs.
-
-Meanwhile, it is expected to be identified in the first quarter of this year to receive disabled, adult and kidney offers in revenue families.
-
-Meanwhile, the public minister said that the salary category of vulnerable and transitional category would be paid to 31st December.
-
-The Minister further stated that the allowance of Rs..
-
-◼️
-
-[Data](articles/f1f15649.json)
-
-[Extended Data](ext_articles/f1f15649.ext.json)
-
----
-
-### Formation Backup Act: We accept the disadvantages - the Justice Minister
-
-*2024-02-08 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/175883) · `ta`
-
-The High Court does not have the power to question the law enacted in Parliament. We agree that there are a few disadvantages in the Foundation Backup Act.
-
-The entire law cannot be set on fire for this. Minister of Justice, Prison Affairs and Constitutional Reforms Minister Vijayadasa Rajapakse said that the media amendments to Parliament could be introduced.
-
-During the session held in Parliament on Thursday (08), the Supreme Court's amendment was passed beyond the amendments.
-
-Members of the opposition, including opposition leader Sajith Premadasa, urged the Speaker to hold a special party leader. He said the above.
-
-Correctly mentioned in the 1978 Constitution regarding legislation. It is only after the Attorney General has confirmed the role of the constitution of the legal map to be submitted to the Cabinet.
-
-The people have the right to challenge the High Court within 14 days of the Bill that will be submitted to the first reading in Parliament.
-
-...
-
-[Data](articles/0bd25dbf.json)
-
-[Extended Data](ext_articles/0bd25dbf.ext.json)
 
 ---

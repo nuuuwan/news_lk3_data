@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 13:02:31**
+As of **2024-02-09 13:17:21**
 
 ## Newspaper Stats
 
-*Scraped **5,918** Articles*
+*Scraped **5,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ islandlk | 308
 economynextcom | 309
 dailyftlk | 332
 newsfirstlk | 363
-adalk | 496
+adalk | 497
 adaderanalk | 730
 tamilmirrorlk | 730
 virakesarilk | 733
-adaderanasinhalalk | 780
-dailymirrorlk | 844
+adaderanasinhalalk | 781
+dailymirrorlk | 845
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,916 (100.0%) of 5,918 articles have been extended.
+5,918 (99.9%) of 5,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### ගැටුම් මැද පැවති මැතිවරණය - ඉම්රාන් ගේ අපේක්ෂකයින් ඉදිරියෙන්
+
+*2024-02-09 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193164) · `si`
+
+එහි ඡන්ද ගණන් කිරීමේ කටයුතු ඉතා සෙමින් සිදුවීම සම්බන්ධයෙන් ජනතාව, විපක්ෂ දේශපාලනඥයින් සහ විදෙස් පාර්ශ්ව විවිධ මත පළකරති.
+
+මේ වනවිට වාර්තා වන්නේ ඡන්ද ගණන් කිරීමේ කටයුතු අරඹා ඇති බවත් ඉන් සිරගත කර සිටින හිටපු අගමැති ඉම්රාන් ඛාන් ගේ පක්ෂයේ අපේක්ෂකයින් ඉදිරියෙන් සිටින බවය.
+
+ඔවුන් බොහෝ දෙනෙක් ස්වාධීන අපේක්ෂකයින් ලෙස මෙම මැතිවරණයට ඉදිරිපත් විය.
+
+එහෙත් සමස්ත ප්‍රතිඵල නිකුත් කළ විට හිටපු අග්‍රාමාත්‍ය නවාස් ෂරිෆ් ඉන් ජයගනු ඇති බව විශ්ලේෂකයින් පැවසීය.
+
+◼️
+
+[Data](articles/f6b77135.json)
+
+---
+
+### Heated argument in Parliament over Divisional Secretary
+
+*2024-02-09 12:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heated-argument-in-Parliament-over-Divisional-Secretary/108-276670) · `en`
+
+A heated exchange erupted in Parliament on a while ago regarding the suspension and subsequent reinstatement of Udapalatha Divisional Secretary Gampala Athma Dilruskshi.
+
+State Minister Anuradha Jayaratne, Chief Opposition Whip Lakshman Kiriella, and Speaker Mahinda Yapa Abeywardana were all involved in the contentious debate.
+
+State Minister Jayaratne raised concerns regarding the Divisional Secretary's transfer, claiming she had failed to pay a contractor for construction work in Udapalatha, instead directing Rs. 1.6 million to a third party.
+
+He said she had posted a notice falsely claiming her removal from the National Heritage Association, which he claimed was founded by his father but did not involve him personally.
+
+He said that there could be a sinister move to sling mud at him claiming I got her transferred, he said.
+
+...
+
+[Data](articles/973bb119.json)
+
+---
 
 ### Job Fair at SLECC
 
@@ -41,6 +79,8 @@ The EDEX Expo 2024, Sri Lanka’s most prestigious Educational Exhibition and Jo
 ◼️
 
 [Data](articles/50a38527.json)
+
+[Extended Data](ext_articles/50a38527.ext.json)
 
 ---
 
@@ -202,6 +242,28 @@ Meanwhile, a meeting was held between President Ranil Wickremesinghe and Austral
 
 ---
 
+### ලෝක පිට්සා දිනයට ලංකාවේ ලොකුම පිට්සාව මීගමුවේ හදයි
+
+*2024-02-09 11:01:42* · [`adalk`](https://www.ada.lk/picture_story/ලෝක-පිට්සා-දිනයට-ලංකාවේ-ලොකුම-පිට්සාව-මීගමුවේ-හදයි/10-407981) · `si`
+
+පෙබරවාරි මස 09 දිනට යෙදී ඇති ලෝක පීට්සා දිනය නිමිත්තෙන් මීගමුව , ඒත්තුකාළ ප්‍රදේශයේ පිහිටි ටුක් ටුක් වයින් ඇන්ඩ් ඩයින් හෝටලය ලංකාවේ විශාලතම පීට්සා ව 02/09 දින රාත්‍රී එම හෝටල් පරිශ්‍රයේ දී නිර්මාණය කිරීමට පියවර ගෙන තිබුණි.
+
+මේ සදහා එම හෝටලයේ විධායක සූපවේදී දුමින්ද වනිගසේකර මහතා මූලිකත්වය ගෙන ක්‍රියා කර තිබුණි .
+
+අගල් 50 දිග මෙම පීට්සා එක කිලෝ ග්‍රෑම් 12 ක බරකින් යුතු විය .
+
+මෙම පීට්සා ව නිර්මාණය කිරීම සදහා තක්කාලි කොංග්‍රසයක් ( මිශ්‍රණයක් ) මොසැරැල්ලා චීස් , කුකුළු මස් , සොසේජස් ,විවිධ පාට සහ රස වර්ග 04 කින් යුතු බෙල් පෙපර් , ඔලිව් තෙල් සහ බී ළූණු භාවිතා කර තිබූ අතර මෙම පීට්සා ව විනාඩි 08 ක කාළයකින් පුළුස්සා නිම කර ගැනීමට හැකි වී  තිබුණි .
+
+මෙම පීට්සා ව රස බැලීම සදහා 100 කට අධික පිරිසක් මෙම හෝටල් පරිශ්‍රයට පැමිණ සිටියහ . එකවර 08 දෙනෙකුට භුක්ති විදීමට හැකි වන පරිදි අගල් 25 ක් දිග වන ආකාරයට සකස් කර  පීට්සා කැබළි ඔවුන්ට ආහාර සදහා  පිපිරිනැමීම සිදු කෙරුණි .
+
+ඉකුත් 2021 වසරේ දී මෙම හෝටලය අගල් 40 ක් දිග පීට්සා වක් ලෝක පීට්සා දිනය නිමිත්තෙන් සකස් කර තිබුණි
+
+◼️
+
+[Data](articles/72e0b02d.json)
+
+---
+
 ### Fuel tubes connecting India and Sri Lanka
 
 *2024-02-09 10:53:56* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාව-හා-ශ්‍රී ලංකාව-සම්බන්ධ-කරමින්-ඉන්ධන-නල-මාර්ගයක්/11-407980) · `si`
@@ -222,17 +284,19 @@ It has also been discussed in the Sri Lanka Petroleum Consignment Resource Perio
 
 ---
 
-### බංකොලොත් වෙනකොට ණය රු. බිලියන 24 000ක් දැන් ණය රුපියල් බිලියන 29, 000ක්
+### Debt Rs. 24 000 billion rupees to Rs. 29 billion
 
 *2024-02-09 10:53:16* · [`adalk`](https://www.ada.lk/breaking_news/බංකොලොත්-වෙනකොට-ණය-රු--බිලියන-24-000ක්-දැන්-ණය-රුපියල්-බිලියන-29--000ක්/11-407979) · `si`
 
-දැන් අපේ සංචිත ඩොලර් මිලියන 4500ක් තියෙනවා කියලා ජනාධිපතිතුමන් ආඩම්බරයෙන් කිව්වා. 2022 සහ 2023 වසරේත් මේ වසරේ පලමු මාසයත් ඇතුලත ඩොලර් මිලියන 11 000ක ණය ගෙවීම නතර කර තියෙනවා යයි උදය ගම්මන්පිල මහතා පාර් ලිමේන්තුව අමතමින් (08දින) ප්‍රකාශකර සිටිනවා. තවදුරටත් අදහස් දැක්වූ ඔහු
+The President proudly told us that there are $ 4500 million our reserves now. Udaya Gammanpila (08 000) has stated that the debt has been stopped in the first month of 2022 and 2023 this year's first month.. He further expressed his
 
-අපි මේ ණය ගෙවීම ආරම්භ කරන්න වෙනවා. බංකොලොත් වුනාට පස්සේවත් අපි ණය ගැනීම අඩු වුනාද? ණය ගැනීම නතරවුනෙත් නෑ. අඩුවුනෙත් නෑ. අපි බංකොලොත් භාවය ප්‍රකාශකරද්දී අපේ සමස්ථ ණය රුපියල් බිලියණ 24, 000ක්. 2023 දෙසැම්බර් 31 වන විට අපේ සමස්ථ ණය රුපියල් බිලියන 29, 000ක්. බංකොලොත් මාස 20ට බිලියණ 5000ක් අපේ ණය වැඩි වෙලා. සෑම දිනකම රුපියල් බිලියන 8කින් අපේ රටේ ණය බර වැඩිවෙනවා. බිලියන 24 000ක් ගෙවන්න බැරිව බංකොලොත් කිව්ව අපි රුපියල් බිලියන 29, 000ක් ගෙවන්නේ කොහොමද?
+We have to start payment of this debt. Did we lose borrowing even after bankrupt?No borrowing stopped. There was no loss. Our total loan is Rs 24, 000. Our total debt by December 31, 2023. 5000 billion bankers for 20 months of bankruptcy. 8 billion in our country's debt. We have paid bankruptcy to pay 24,000 billion rupees to pay 24,000 billion rupees?
 
 ◼️
 
 [Data](articles/b4ab0f60.json)
+
+[Extended Data](ext_articles/b4ab0f60.ext.json)
 
 ---
 
@@ -1963,69 +2027,5 @@ It is also observed that many of its isolation has been observed.
 [Data](articles/dbb67d94.json)
 
 [Extended Data](ext_articles/dbb67d94.ext.json)
-
----
-
-### Polls close across Pakistan after millions vote in election mired in controversy
-
-*2024-02-08 21:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Polls-close-across-Pakistan-after-millions-vote-in-election-mired-in-controversy/107-276619) · `en`
-
-Islamabad, Feb 08 (CNN) - Violence marred several of Pakistan’s polling stations on Thursday, as millions voted in an election in which old dynasties vied for power while the country’s widely popular former leader languishes behind bars.
-
-Polling stations across the country were beginning the count after polls closed on Thursday evening, according to Pakistan’s Electoral Commission.
-
-The much-anticipated election, already delayed for months, comes as the country of 220 million faces mounting challenges – from economic uncertainty and frequent militant attacks, to climate catastrophes that are putting its most vulnerable at risk.
-
-In a vivid illustration of the surging political violence in the run up to the vote, 30 people were killed in twin blasts targeting campaign offices in the country’s restive Balochistan province on Wednesday, which the Islamic State Pakistan Province militant group claimed responsibility for.
-
-...
-
-[Data](articles/27279d72.json)
-
-[Extended Data](ext_articles/27279d72.ext.json)
-
----
-
-### Polls close across Pakistan after millions vote in election mired in controversy
-
-*2024-02-08 21:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Polls-close-across-Pakistan-after-millions-vote-in-election-mired-in-controversy/108-276619) · `en`
-
-Islamabad, Feb 08 (CNN) - Violence marred several of Pakistan’s polling stations on Thursday, as millions voted in an election in which old dynasties vied for power while the country’s widely popular former leader languishes behind bars.
-
-Polling stations across the country were beginning the count after polls closed on Thursday evening, according to Pakistan’s Electoral Commission.
-
-The much-anticipated election, already delayed for months, comes as the country of 220 million faces mounting challenges – from economic uncertainty and frequent militant attacks, to climate catastrophes that are putting its most vulnerable at risk.
-
-In a vivid illustration of the surging political violence in the run up to the vote, 30 people were killed in twin blasts targeting campaign offices in the country’s restive Balochistan province on Wednesday, which the Islamic State Pakistan Province militant group claimed responsibility for.
-
-...
-
-[Data](articles/b9958bde.json)
-
-[Extended Data](ext_articles/b9958bde.ext.json)
-
----
-
-### Two suspects remanded for attacking SLTB buses
-
-*2024-02-08 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193143) · `si`
-
-Two suspects have been arrested in connection with the attack on four SLTB buses.
-
-Two two buses belonging to the Homagama depot were launched by two buses belonging to the Homagama depot.
-
-The Homagama Magly Jayasuriya today (08) ordered that the two suspects were produced before the courts.
-
-The manager of Pradeep Amaratunga, a private bus and private bus, a private bus, a resident of Kadupera in Kadupehara, is a resident of Kadupehthalalla, a resident of Kadupehthalalla.
-
-The suspected private bus conductor also ordered that the driver and conductor of another bus in Avissawella on the 13th of this month.
-
-Meanwhile, a group of employees of bus depot protest in front of the Breid of Bilateral Homagama, protesting against the attacks on his brother buses.
-
-◼️
-
-[Data](articles/40d2f35d.json)
-
-[Extended Data](ext_articles/40d2f35d.ext.json)
 
 ---

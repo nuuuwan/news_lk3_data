@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 23:02:25**
+As of **2024-02-09 23:17:14**
 
 ## Newspaper Stats
 
-*Scraped **6,012** Articles*
+*Scraped **6,017** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 71
+colombotelegraphcom | 72
 bbccomsinhala | 86
 dbsjeyarajcom | 142
 islandlk | 308
@@ -20,13 +20,13 @@ tamilmirrorlk | 735
 virakesarilk | 744
 adaderanalk | 744
 adaderanasinhalalk | 806
-dailymirrorlk | 859
+dailymirrorlk | 863
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,012 (100.0%) of 6,012 articles have been extended.
+6,012 (99.9%) of 6,017 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -59,6 +59,58 @@ However, our son-in-law has been traumatized due to the father's death with the 
 [Data](articles/9187b7bb.json)
 
 [Extended Data](ext_articles/9187b7bb.ext.json)
+
+---
+
+### Diana’s expulsion case postponed as SC bench not properly constituted
+
+*2024-02-09 22:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dianas-expulsion-case-postponed-as-SC-bench-not-properly-constituted/108-276691) · `en`
+
+Colombo, Feb 09 (Daily Mirror) - The three-judge-bench of the Supreme Court that was set to hear the expulsion petition filed by State Minister Diana Gamage challenging the Samagi Jana Balawegaya’s (SJB) decision to expel her from party membership has been postponed yet again since the  Supreme Court bench was not properly constituted.
+
+Accordingly, the Supreme Court two-judge-bench comprising Justices S. Thurairaja and Kumuduni Wickremasinghe fixed the matter for further argument on February 28.
+
+In her petition, Diana Gamage is seeking a declaration that the decision to expel her from the SJB communicated to her via letter dated 08th October 2021, is made in violation of the constitution of the SJB. Gamage stated that the party decision to expel her from party membership was unlawful and contrary to natural justice.
+
+...
+
+[Data](articles/582d16e3.json)
+
+---
+
+### India and Australia set to renew rivalry in U19 Men’s Cricket World Cup Final
+
+*2024-02-09 21:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-and-Australia-set-to-renew-rivalry-in-U19-Mens-Cricket-World-Cup-Final/108-276688) · `en`
+
+Feb. 9 (ICC) - India and Australia overcome dramatic semi-finals to seal their spot in mouthwatering final
+
+Benoni will stage the final on Sunday 11 February, from 10h00 local time (SAST)
+
+Free entry for all fans at Willowmoore Park, Benoni on Sunday
+
+The final of the ICC U19 Men’s Cricket World Cup 2024 will see India and Australia compete for silverware once again following a scintillating round of semi-final fixtures.
+
+India confirmed their spot in the final after beating hosts South Africa by two wickets in a tense matchup on Tuesday. Chasing 245 for victory, India battled back from 32 for four to seal a memorable win thanks to a brilliant match-winning partnership between Sachin Dhas and captain Uday Saharan.
+
+...
+
+[Data](articles/8ee16923.json)
+
+---
+
+### Jayasuriya congratulates Nissanka on breaking his record
+
+*2024-02-09 21:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jayasuriya-congratulates-Nissanka-on-breaking-his-record/108-276689) · `en`
+
+Feb 9 - Former national captain Sanath Jayasuriya was full of praise for opener Pathum Nissanka, who became the first Sri Lankan to score an ODI double century,
+
+"Congratulations to Pathum on a masterclass in batting. I am so so privileged to witness it in person pure bliss," Jayasuriya posted on X, formerly known as Twitter.
+
+Jayasuriya, who was recruited as a consultant coach in December last year, was present at the Pallekele stadium as Nissanka broke the former cricketer's 23-year record for the highest score by a Sri Lankan in ODI cricket.
+
+◼️
+
+[Data](articles/81fd35bd.json)
 
 ---
 
@@ -97,6 +149,18 @@ Investigations conducted by the suspect revealed that Kosgoda Sujeeva was the on
 [Data](articles/843cc37a.json)
 
 [Extended Data](ext_articles/843cc37a.ext.json)
+
+---
+
+### Sri Lanka’s first double centurion
+
+*2024-02-09 21:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sri-Lankas-first-double-centurion/110-276687) · `en`
+
+Sri Lanka opener Pathum Nissanka created history when he became the first batter from the country to reach the 200-run mark in ODIs. Nissanka scored the country's first-ever double century in the format during the first ODI of the series against Afghanistan in Pallekele.
+
+◼️
+
+[Data](articles/205f25e8.json)
 
 ---
 
@@ -827,6 +891,20 @@ Parliamentarian Nalaka Godahewa has been named for representing the opposition o
 [Data](articles/946405f2.json)
 
 [Extended Data](ext_articles/946405f2.ext.json)
+
+---
+
+### Let Dudley Speak!
+
+*2024-02-09 16:53:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/let-dudley-speak/) · `en`
+
+“Everything is abnormal in our society; that is how these things happen, and, when they do, nobody knows how to act-not only in the most difficult situations, but even in the simplest” – Fyodor Dostoevsky
+
+“Happy families are all alike, every unhappy family is unhappy in its own way” – Anna Karenina-Leo Tolstoy
+
+...
+
+[Data](articles/d5d67013.json)
 
 ---
 
@@ -1987,105 +2065,5 @@ Each: As usual, you ask you to the inauguration moment of writing. ඔබේ න
 [Data](articles/cd659265.json)
 
 [Extended Data](ext_articles/cd659265.ext.json)
-
----
-
-### Fuel tubes connecting India and Sri Lanka
-
-*2024-02-09 10:53:56* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාව-හා-ශ්‍රී ලංකාව-සම්බන්ධ-කරමින්-ඉන්ධන-නල-මාර්ගයක්/11-407980) · `si`
-
-A discussion has been held in the Trincomalee Tanks Complex in India, connecting the Trincomalee Tanks Complex and the Colombo Tanky Complex and Colombo. The Indian government has presented this proposal through Indian Oil Company.
-
-A discussion was held between the Power and Energy Minister Kanchan Wijesekera and the arguments of Indian Oil Company to visit India.
-
-Minister Kanchana Wijesekara says that the application has been addressed to determine the mechanism to implement the project.
-
-It has also been discussed in the Sri Lanka Petroleum Consignment Resource Perion and Lanka Indian Oil Company for the tanks complex of Trincomalee.
-
-◼️
-
-[Data](articles/dd7233c9.json)
-
-[Extended Data](ext_articles/dd7233c9.ext.json)
-
----
-
-### Debt Rs. 24 000 billion rupees to Rs. 29 billion
-
-*2024-02-09 10:53:16* · [`adalk`](https://www.ada.lk/breaking_news/බංකොලොත්-වෙනකොට-ණය-රු--බිලියන-24-000ක්-දැන්-ණය-රුපියල්-බිලියන-29--000ක්/11-407979) · `si`
-
-The President proudly told us that there are $ 4500 million our reserves now. Udaya Gammanpila (08 000) has stated that the debt has been stopped in the first month of 2022 and 2023 this year's first month.. He further expressed his
-
-We have to start payment of this debt. Did we lose borrowing even after bankrupt?No borrowing stopped. There was no loss. Our total loan is Rs 24, 000. Our total debt by December 31, 2023. 5000 billion bankers for 20 months of bankruptcy. 8 billion in our country's debt. We have paid bankruptcy to pay 24,000 billion rupees to pay 24,000 billion rupees?
-
-◼️
-
-[Data](articles/b4ab0f60.json)
-
-[Extended Data](ext_articles/b4ab0f60.ext.json)
-
----
-
-### 15 hours water cut
-
-*2024-02-09 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193162) · `si`
-
-The National Water Supply and Drainage Board (NPF) says that the water cut in Colombo will be suspended for 15 hours.
-
-Accordingly, the water cut will be imposed from 5, 12, 13, 13, 14 and 15, Colombo.
-
-The National Water Supply and Drainage Board stated that the water cut will be imposed due to the development of the Ambatale.
-
-◼️
-
-[Data](articles/e6c4fd75.json)
-
-[Extended Data](ext_articles/e6c4fd75.ext.json)
-
----
-
-### The government accelerates development projects focusing on the presidential election - Powell
-
-*2024-02-09 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175953) · `ta`
-
-The Sri Lankan government is accelerating the development projects centered on the presidential election, the election monitoring organization Powell said.
-
-Powell, which has announced the announcement of the presidential election by July, has accused the government of accelerating development projects focusing on the presidential election.
-
-Powell said that the Presidential Secretariat has sent a round of development projects in the year 2024, which was launched under the plan to develop the hill country within six months.
-
-Powell's president Rohana Hettiarachchi says the government is emphasizing the election that is more likely to win more than the present elections.
-
-He referred to the long -standing provincial council elections that the people are essential for the people.
-
-Rogana Hettiarachchi has also questioned Prime Minister Dinesh Gunawardena provincial council elections, which are also responsible for the local government ministry.
-
-...
-
-[Data](articles/5fc4bccc.json)
-
-[Extended Data](ext_articles/5fc4bccc.ext.json)
-
----
-
-### Gemunu proposes plans to prevent abuses in buses
-
-*2024-02-09 10:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gemunu-proposes-plans-to-prevent-abuses-in-buses/108-276666) · `en`
-
-Colombo, Feb 9 (Daily Mirror) - Before targeting individuals who commit acts of abuse against children and women on public transport, the police must take action to implement the prepaid card system or the transporting of passengers to the seating capacity of buses, the Lanka Private Bus Owners' Association (LPBOA) said.
-
-LPBOA chairman Gemunu Wijerathne told the Daily Mirror that people who want to abuse children, women and pickpockets never buy tickets but travel freely.
-
-"Implementing the prepaid card system will help prevent these kinds of abuses. Meanwhile, transporting passengers to the seating capacity of buses will also help reduce these kinds of abuses," he said.
-
-"We have enough private and Sri Lanka Transport Board (SLTB) buses to transport people according to the seating capacities of buses.
-
-"Otherwise, deploying officials or people to apprehend pickpockets and those who abuse women and children will not be a practical solution to the issue," Wijerathne said.
-
-◼️
-
-[Data](articles/0f86195e.json)
-
-[Extended Data](ext_articles/0f86195e.ext.json)
 
 ---

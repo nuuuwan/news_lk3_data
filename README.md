@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 15:02:17**
+As of **2024-02-09 15:17:28**
 
 ## Newspaper Stats
 
-*Scraped **5,937** Articles*
+*Scraped **5,939** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 363
 adalk | 497
 tamilmirrorlk | 730
 virakesarilk | 733
-adaderanalk | 735
+adaderanalk | 737
 adaderanasinhalalk | 788
 dailymirrorlk | 847
 
@@ -26,31 +26,75 @@ dailymirrorlk | 847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,936 (100.0%) of 5,937 articles have been extended.
+5,937 (100.0%) of 5,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### අධිවේගයේ තවත් බිහිසුණු අනතුරක්
+### 232 vendors to be charged for selling bread below standard weight
+
+*2024-02-09 14:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97144/232-vendors-to-be-charged-for-selling-bread-below-standard-weight) · `en`
+
+The Consumer Affairs Authority (CAA) has decided to press charges against a total of 232 bakery and shop owners who sold loaves of bread with below-par weight and failed to display the prices.
+
+On February 02, the CAA published an Extraordinary Gazette stipulating a standard weight for a loaf of bread,
+
+Accordingly, the standard weight of a loaf of bread was set as 450g with an allowed deficiency of 13.5g while a standard weight of 225g with a 9g deficiency was stipulated for half a loaf of bread.
+
+The gazette mentioned noted that any type of bread manufactured, packed, stored, offered for sale, displayed for sale or sold retail or wholesale should contain the standard weight specified in the gazette extraordinary.
+
+Further, all traders have been ordered to display the weight of bread displayed for sale.
+
+After the gazette was published, the CAA launched island-wide raids in search of the vendors who fail to comply with the gazette notification.
+
+◼️
+
+[Data](articles/885bfb89.json)
+
+---
+
+### Sri Lanka, Australia mull strengthening bilateral ties amid Indian Ocean dynamics
+
+*2024-02-09 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97143/sri-lanka-australia-mull-strengthening-bilateral-ties-amid-indian-ocean-dynamics) · `en`
+
+In a recent development at the Indian Ocean Conference, Australian Minister of Foreign Affairs Penny Wong held a significant meeting with President Ranil Wickremesinghe.
+
+During the encounter, Minister Wong extended a warm welcome to President Wickremesinghe in Australia and conveyed gratitude for Sri Lanka’s supportive role in the conference.
+
+Addressing the gathering, Minister Wong underscored her government’s renewed dedication to the Indian Ocean region and fostering closer ties with pertinent nations.
+
+In response, President Ranil Wickremesinghe shared his insights on the Indian Ocean’s evolving dynamics, particularly emphasizing the heightened importance of the Indian Ocean Rim Association (IORA). The President hailed Australia’s increased engagement in the region as a positive development amid shifting power dynamics.
+
+Moreover, President Wickremesinghe spotlighted Sri Lanka’s escalating investments in renewable energy, noting the involvement of Australian firms in this sector.
+
+...
+
+[Data](articles/758a80cc.json)
+
+---
+
+### Another horrific accident on the highway
 
 *2024-02-09 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193171) · `si`
 
-රුසියානු ජාතික සංචාරකයින් පිරිසක් රැගත් වෑන් රථයක් අද (09) අලුයම 5.45ට පමණ දක්ෂිණ අධිවේගී මාර්ගයේ දී අනතුරට ලක්ව තිබේ.
+A van carrying a group of Russian tourists has been hit by the Southern Expressway around 5.45 am today (09).
 
-අප වාර්තාකරු පැවසුවේ, අධිවේගී මාර්ගයේ සූරියවැව අන්දරවැව අන්තර් හුවමාරුව ආසන්නයේ දී අධිවේගය දෙසට ධාවනය වූ ලොරි රථයක පිටුපස ගැටී අනතුර සිදුව ඇති බවය.
+Our correspondent said that the accident had occurred near the highway near the Expressway on the Expressway at Suriyawewa interchange.
 
-අනතුරින් වෑන් රථයේ ගමන් ගත් සංචාරකයින් සිව්දෙනෙකු සහ රිය සහායක තුවාල ලබා තිබේ.
+Four tourists and a road assistant were injured in the accident.
 
-තුවාල ලැබූවන් අතර වයස අවුරුදු 8ක රුසියානු ජාතික ගැහැනු දරුවෙකු ද සිටින බව පොලීසිය පවසයි.
+Among the injured were a 8-year-old Russian national girl, police said.
 
-අනතුරින් ලොරි රථ රියදුරු, රියදුරුගේ බිරිඳ සහ අවුරුදු 2 සහ 11 යන වයස්වල පසුවන දරුවන් දෙදෙනා ද තුවාල ලබා හම්බන්තොට රෝහලට ඇතුළත් කර ඇත.
+The lorry driver, driver's wife and two-year-old wife and 2 and 11 years and 11 years have been admitted to the Hambantota Hospital.
 
-වෑන් රථයේ ගමන්ගත් සංචාරකයින් පිරිස අහුංගල්ලේ සිට ඇල්ල බලා ගමන් කරමින් සිටිය දී අනතුරට ලක්ව තිබේ.
+Tourist arrivals were inaugurated from Ahungalle to Ella to Ella.
 
 ◼️
 
 [Data](articles/add223a6.json)
+
+[Extended Data](ext_articles/add223a6.ext.json)
 
 ---
 
@@ -1999,43 +2043,5 @@ Heri Dixon and Sam Konstas shared 33 runs and made Australia some good start.
 [Data](articles/cc961b38.json)
 
 [Extended Data](ext_articles/cc961b38.ext.json)
-
----
-
-### Anura Kumara’s visit to India a welcome move: Vajira
-
-*2024-02-08 23:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-Kumaras-visit-to-India-a-welcome-move-Vajira/108-276620) · `en`
-
-Colombo, Feb 08 (Daily Mirror) -  The visit of National People’s Power (NPP) Leader Anura Kumara Dissanayake’s visit to India is a welcome move and it is expected that his party will work with the present government, UNP MP and Chairman Vajira Abeywardena said today.
-
-“It is good for the NPP leader to work with world leaders,” MP Abeywardena told a press conference.
-
-“We hope that the NPP will contribute towards formulating national policies which will revive the nation. It is not something new for the JVP led NPP to work towards formulating national policies. The party has experience in doing so as it had worked with late President J. R. Jayewardene who helped them take a democratic route and thereafter with Late President Chandrika Kumaratunga, President Mahinda Rajapaksa and the government of 2015.
-
-“Incumbent President Ranil Wickremesinghe also made it clear that he expects the NPP to work with the present government,” he added.
-
-...
-
-[Data](articles/543d0893.json)
-
-[Extended Data](ext_articles/543d0893.ext.json)
-
----
-
-### India, Aussie.
-
-*2024-02-08 23:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175932) · `ta`
-
-Afghanistan is not going to underestimate any way. Sri Lanka's captain Kusal Mendis said at a press conference held in Kandy on Thursday afternoon, "we will face Afghanistan like India, Australia and New Zealand (Kiwi).
-
-'In different countries, they are playing a lot of league cricket with international players. I have played for 8 years for Sri Lanka but only in 2 league series. Gurbas has played in a lot of league series in the last 4 years. So I will never value Afghanistan. It is difficult to confront them as underestimated. So we will play with India, Australia and New Zealand with the feeling of playing with Afghanistan tomorrow, ”Gusal Mendis added.
-
-He also said that the current ODI team will be targeted by the World Cup in 3 years.
-
-...
-
-[Data](articles/54a30854.json)
-
-[Extended Data](ext_articles/54a30854.ext.json)
 
 ---

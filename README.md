@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 19:02:37**
+As of **2024-02-09 19:17:21**
 
 ## Newspaper Stats
 
-*Scraped **5,979** Articles*
+*Scraped **5,980** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,28 +19,42 @@ adalk | 502
 tamilmirrorlk | 731
 virakesarilk | 740
 adaderanalk | 740
-adaderanasinhalalk | 800
+adaderanasinhalalk | 801
 dailymirrorlk | 856
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,972 (99.9%) of 5,979 articles have been extended.
+5,979 (100.0%) of 5,980 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### இராணுவ முகாமில் காணாமல்போன தோட்டாக்கள் வடிகானில் கண்டுபிடிப்பு!
+### මුදල් කාරක සභාවේ සභාපති ධුරය යළිත් හර්ෂට
+
+*2024-02-09 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193184) · `si`
+
+රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති ධුරය සඳහා පාර්ලිමේන්තු හර්ෂ ද සිල්වා මහතා යළි පත්කර තිබේ.
+
+◼️
+
+[Data](articles/1248b60a.json)
+
+---
+
+### Missing bullets in a military camp
 
 *2024-02-09 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175998) · `ta`
 
-இவ்வாறு காணாமல் போன T-56 துப்பாக்கிக்கான 30 தோட்டாக்கள்  முகாமிலிருந்து நீர் வெளியேறும் வடிகானில் காணப்பட்டதாக இராணுவம் தெரிவித்துள்ளது.
+The military said that 30 bullets for the missing T-56 were found in the drainage drain from the camp.
 
 ◼️
 
 [Data](articles/cec04121.json)
+
+[Extended Data](ext_articles/cec04121.ext.json)
 
 ---
 
@@ -62,17 +76,19 @@ Earlier, the star opener played a delightful knock against Afghanistan in the fi
 
 ---
 
-### பாகிஸ்தான் உயர்ஸ்தானிகராலயத்திற்கு 21 பாகிஸ்தான் மாணவர்களின் நல்லெண்ண வருகை
+### 21 Pakistani students to visit Pakistan High Commission
 
 *2024-02-09 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175997) · `ta`
 
-இலங்கைக்கு நல்லெண்ண விஜயம் மேற்கொண்டுள்ள பாகிஸ்தானின் கராச்சியில் அமைந்துள்ள தனியார் பாடசாலையான Academia Civitas இல் தரம் 6 இல் கல்வி கற்கும் 21 மாணவர்களைக் கொண்ட குழு வெள்ளிக்கிழமை (9) பாகிஸ்தான் உயர்ஸ்தானிகராலயத்திற்கு வருகை தந்தனர். அதிபர் திருமதி. அல்மாஸ் ரியாஸ் தலைமையில் இவர்கள் வருகை தந்திருந்தனர்.
+A group of 21 students attending Grade 6 in Academia Civitas, a private school in Karachi, Pakistan, who is on a goodwill visit to Sri Lanka, visited the Pakistan High Commission on Friday (9). The Chancellor Mrs.. They were headed by Almas Riaz.
 
-மாணவர்களை பதில் உயர்ஸ்தானிகர் வாஜித் ஹசன் ஹஷ்மி மற்றும் உயர்ஸ்தானிகராலயத்தின் பிற அதிகாரிகள் வரவேற்றனர். பாகிஸ்தானுக்கும் இலங்கைக்கும் இடையிலான உறவுகள் குறித்து மாணவர்களுக்கு இதன் போது விளக்கமளிக்கப்பட்டது. மாணவர்களைச் சிறந்த  முறையில் வரவேற்று உபசரித்த பாகிஸ்தான் உயர் ஸ்தானிகராலயத்திற்கு பாடசாலையின் அதிபர் நன்றியினை தெரிவித்தமை குறிப்பிடத்தக்கது.
+High Commissioner Wajith Hasan Hashmi and other officials of the High Commission welcomed the students. Students were explained on the relations between Pakistan and Sri Lanka. The school's principal thanked the Pakistani High Commission for his well -welcomed the students.
 
 ◼️
 
 [Data](articles/99dc581e.json)
+
+[Extended Data](ext_articles/99dc581e.ext.json)
 
 ---
 
@@ -90,21 +106,23 @@ Chinese traditional new year rises today (9). Spring festivals produced by the C
 
 ---
 
-### පැතුම් නිස්සංක වාර්තා පොත අලුත් කරයි
+### Wishing Nissankan's Renew Renew
 
 *2024-02-09 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193183) · `si`
 
-ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර අද (09) මහනුවර පල්ලෙකැලේ අන්තර්ජාතික ක්‍රිකට් ක්‍රීඩාංගණයේ පැවති පළමු එක්දින තරගයේ දී වාර්තා පොත් අතරට එක් වීමට පැතුම් නිස්සංක සමත් විය.
+Sri Lanka and Afghanistan were among the records between the document books at the Pallekele Stadium in the Pallekele Stadium in Kandy today.
 
-ඒ, ශ්‍රී ලංකාව වෙනුවෙන් එක්දින තරගයක දී ක්‍රීඩකයකු වාර්තා කළ වැඩිම ලකුණු වාර්තාව අලුත් කරමිනි.
+It was renewed the highest number of running recorded in one-day player for Sri Lanka.
 
-ඒ අනුව 2000 වසරේ සාජා පිටියේ දී ඉන්දියාවට එරෙහි ව සනත් ජයසූරිය වාර්තා කළ ලකුණු 189 වාර්තාව අලුත් කිරීමට පැතුම් නිස්සංක සමත් විය.
+The 189 runs in the year 2000 at the Sanath Jayasuriya of India was renewed by Sanath Jayasuriya.
 
-මේ අතර, ශ්‍රී ලංකා එක්දින ක්‍රිකට් ඉතිහාසයේ ක්‍රීඩකයෙකු වාර්තා කළ පළමු ද්විත්ව ශතකය වාර්තා කිරීමට ද පැතුම් නිස්සංක අද සමත්විය.
+Meanwhile, journey has also been able to report the first double century reported in Sri Lanka ODI cricket history.
 
 ◼️
 
 [Data](articles/ca59e6f2.json)
+
+[Extended Data](ext_articles/ca59e6f2.ext.json)
 
 ---
 
@@ -124,35 +142,39 @@ The Director General of the Department of Registered Seedlings, including the De
 
 ---
 
-### ரயில் தடம்புரண்டதால் மலையக ரயில் சேவைகள் பாதிப்பு!
+### Mountaineer train services impact
 
 *2024-02-09 17:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/175996) · `ta`
 
-மலையக ரயில் பாதையில் வட்டவளை மற்றும் ரொசெல்ல நிலையங்களுக்கு இடையில் ரயில் தடம் புரண்டுள்ளதாக நாவலப்பிட்டி ரயில்வே கட்டுப்பாட்டு அலுவலகம் தெரிவித்துள்ளது.
+The Navalapitiya Railway Control Office has said that the train derailed between the Vattawala and Rosella stations on the mountain railway line.
 
-நாவலப்பிட்டியிலிருந்து வெள்ளிக்கிழமை (9) நானுஓயா நோக்கிப் பயணித்த ரயிலே தடம் புரண்டுள்ளதாக கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+The control room said that the train traveling from Nawalapitiya to Nanuoya on Friday (9).
 
-இதன் காரணமாக மலையக பாதையில் ரயில் போக்குவரத்து தடைப்பட்டுள்ளதுடன் ரயில் சேவையை வழமைக்கு கொண்டுவரும் பணியில் ரயில்வே ஊழியர்கள் ஈடுபட்டுள்ளனர்.
+Due to this, railway employees are in the process of bringing the train service to us.
 
 ◼️
 
 [Data](articles/d9bdc6a5.json)
 
+[Extended Data](ext_articles/d9bdc6a5.ext.json)
+
 ---
 
-### பெண் பொலிஸ் கான்ஸ்டபிளின் துப்பாக்கி வெடித்து மற்றொரு கான்ஸ்டபிள் காயம்!
+### Woman police constable's gun exploded another constable injured!
 
 *2024-02-09 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/175995) · `ta`
 
-ஒக்கம்பிட்டிய பொலிஸிஸ் நிலையத்தில் கடமையாற்றும் பொலிஸ் கான்ஸ்டபிள் ஒருவரின் துப்பாக்கி இயங்கியதில் மற்றுமொரு பொலிஸ் கான்ஸ்டபிள் காயமடைந்துள்ளார்.
+Another police constable has been injured in a gunman of a police constable at Okampitiya Police Station.
 
-குறித்த பொலிஸ் கான்ஸ்டபிள் தன்னிடமிருந்த  துப்பாக்கியை பொலிஸ் நிலையத்தில் வைத்து சுத்தம் செய்து கொண்டிருந்தபோது, அது திடீரென செயற்பட்டு அவருக்கு அருகில் இருந்த மற்றுமொரு பொலிஸ் கான்ஸ்டபிள் மீது  சூடுபட்டுள்ளது.
+While the police constable was cleaning the gun from the police station, it suddenly operated and heated another police constable near him.
 
-இதனையடுத்து, துப்பாக்கிச் சூட்டுக்கு இலக்காகி காயமடைந்த அவர் மொனராகலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும், அவரது நிலைமை கவலைக்கிடமாக இல்லை எனவும் தெரிவிக்கப்படுகிறது.
+Subsequently, he was admitted to the Moneragala Hospital and his condition was not worrisome.
 
 ◼️
 
 [Data](articles/e7de6413.json)
+
+[Extended Data](ext_articles/e7de6413.ext.json)
 
 ---
 
@@ -170,21 +192,23 @@ Feb 09 (Daily Mirror) - SJB MP Dr. Harsha de Silva has been re-appointed to serv
 
 ---
 
-### කෘෂිකර්ම දෙපාර්තමේන්තුව අවම මිල ගණන් ඉදිරිපත් කරයි
+### Department of Agriculture offers minimum prices
 
 *2024-02-09 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193182) · `si`
 
-මහ කන්නයේ දී රජය විසින් වී මිල දී ගැනීම සඳහා කෘෂිකර්ම දෙපාර්තමේන්තුව අවම මිල ගණන් ඉදිරිපත් කර තිබේ.
+The Department of Agriculture has submitted low prices to buy paddy by the government in the Maha season.
 
-ඒ අනුව තෙතමනය සියයට 14 මට්ටමක ඇති නාඩු වී කිලෝග්‍රෑම් එකක් සඳහා රුපියල් 105ක්, සම්බා වී කිලෝග්‍රෑම් එකක් සඳහා රුපියල් 120ක් සහ කීරි සම්බා වී කිලෝග්‍රෑම් එකක් සඳහා රුපියල් 130ක් ලෙස අවම මිල ගණන් සඳහන් කර ඇත.
+Accordingly, a midst of 14 percent of the moisture at 14 percent, a kilogram of naduals, samba paddy, and a kilogram of samba prices of samba and a kilogram of Rs.
 
-තෙතමනය සියයට 14 මට්ටමට වැඩි නාඩු වී කිලෝග්‍රෑම් එකක් සඳහා රුපියල් 90ක්, සම්බා වී කිලෝග්‍රෑම් එකක් සඳහා රුපියල් 100ක් සහ කීරි සම්බා වී කිලෝග්‍රෑම් එකක් සඳහා රුපියල් 120ක් ලෙස අවම මිල නිකුත් කළ බව කෘෂිකර්ම අමාත්‍යාංශය සඳහන් කරයි.
+The minimum price of Rs.
 
-මේ අතර, රජය විසින් ලබා දී ඇති මිල ගණන් යටතේ වී මිල දී නොගන්නා වී මෝල් හිමියන්, වී එකතු කරන්නන් සහ වී ගබඩා අයිතිකරුවන් අසාදු ලේඛනගත කිරීමට තීරණය කළ බව ද කෘෂිකර්ම අමාත්‍යාංශය වැඩිදුරටත් සඳහන් කර තිබේ.
+Meanwhile, the Ministry of Agriculture has said that the paddy owners, paddy collectors, and paddy collectors, have decided not to dowritten the rise to the prices of the government.
 
 ◼️
 
 [Data](articles/70466c75.json)
+
+[Extended Data](ext_articles/70466c75.ext.json)
 
 ---
 
@@ -1290,23 +1314,29 @@ The hotel was prepared to mark the 40 inches of Pizza World Pressz World Pightsa
 
 ---
 
-### 'මම ලියන හැටි' : මංජුල සේනාරත්න
+### How I Write I write: Manjula Senaratne
 
 *2024-02-09 11:01:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72gjky8wjyo) · `si`
 
-මංජුල සේනාරත්න යනු මෑත කාලයේ සුවිශේෂී පාඨක අවදානයක් දිනා ගත් ලේඛකයෙකි. ලාංකීය සාහිත්‍ය සංස්කෘතිය තුළ  බරපතල ලෙස වර්ධනය නොවූ නවකතා ශානර සමඟ කටයුතු කරමින් ඔහු එකතු කර ඇති 12 12 12 සහ බියුරෝ වැනි සන්ත්‍රාසය මූලික කර ගත් නවකතා අතිශය ජනප්‍රියත්වයක් දිනා ගෙන ඇත.
+Manjula Senaratne is a writer who has won a special reader alert. He has won the novels of 12 12 12 and Bureee, who have not seriously improved in Sri Lankan literary culture, has won a very popularity.
 
-මා ඔහු සමග කතාබහක යෙදෙන්නේ නවකතාකරුවෙකු ලෙස ඔහු ලේඛනයේ යෙදෙන විට ඔහුට දැනෙන හැඟීම් සහ ලිවීම සමඟ බැඳුණු ඔහුට ම අනන්‍ය වූ වතාවත් තේරුම් ගැනීමේ අරමුණින් ය.
+I talk to him as a notener as a novelist and his own understanding and writing.
 
-මේ සාකච්ඡාව තුළ මා අසන ප්‍රශ්න මේ වන විට මා විසින් පළකර ඇති ‘නිම්නාගේ ඉතිහාසය’ (2019) සහ ‘මේ රහස් කවුලුවෙන් එබෙන්න’ (2014) නවකතා ලියන අතර මා මුහුණ දුන් අත්දැකීම් මතින් පැන නැගුණු ඒවා ය.
+The questions I hear in this discussion is currently published by I have expressed the 'history of Nimna' (2019) and the novels of this secret wind.
 
-හැම ලේඛකයෙක්ම ලිවීමේ ක්‍රියාවලියට මුහුණ දෙන්නේ තමන්ගේ ම වූ ආකාරයකටය යන්න ප්‍රකට කරුණකි.
+It is well known for all writer's writing process.
 
-ලියන තැන, ලියන විදිහ, ලියන විට බොන කෝපි කෝප්ප ගනන, ලිවීම තමන්ම විඳින හැටි වැනි දේ අයත් වන්නේ ලේඛකයාගේ අතිපුද්ගලික අඩවියට ය. මේ සංවාද මාලාව උත්සාහ කරන්නේ නවකතාකරුවන්ගේ එම රහස් අඩවිය වෙත එබී බැලීමට ය.
+Where writing, writing, writing, how to write and writing coffee, belong to the writer's abundance. The conversation is seeking to pointer to that secret site of the newcomers.
+
+The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
+
+Each: As usual, you ask you to the inauguration moment of writing. ඔබේ නවකතා වල පළමු වාක්‍ය ලියවුණු ආකාරය ගැන යමක් කියන්න පුළුවන්ද?
 
 ...
 
 [Data](articles/cd659265.json)
+
+[Extended Data](ext_articles/cd659265.ext.json)
 
 ---
 
@@ -2031,17 +2061,5 @@ Meanwhile, the Ceylon Electricity Board and the relevant private company have si
 [Data](articles/bc84c12b.json)
 
 [Extended Data](ext_articles/bc84c12b.ext.json)
-
----
-
-### We Are A Republic, We Are Not A Monarchy
-
-*2024-02-09 07:19:44* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/we-are-a-republic-we-are-not-a-monarchy/) · `en`
-
-...
-
-[Data](articles/bff90e25.json)
-
-[Extended Data](ext_articles/bff90e25.ext.json)
 
 ---

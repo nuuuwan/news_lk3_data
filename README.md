@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 19:32:44**
+As of **2024-02-09 19:49:59**
 
 ## Newspaper Stats
 
-*Scraped **5,984** Articles*
+*Scraped **5,986** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ dailyftlk | 332
 newsfirstlk | 363
 adalk | 504
 tamilmirrorlk | 731
-adaderanalk | 741
 virakesarilk | 741
+adaderanalk | 742
 adaderanasinhalalk | 801
-dailymirrorlk | 856
+dailymirrorlk | 857
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,980 (99.9%) of 5,984 articles have been extended.
+5,986 (100.0%) of 5,986 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### Beliatta mass shooting: Suspect arrested with T-56 magazine
+
+*2024-02-09 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97149/beliatta-mass-shooting-suspect-arrested-with-t-56-magazine) · `en`
+
+The Colombo Crimes Division (CCD) has arrested a person along with a T-56 magazine, which is suspected to have been used in the Beliatta mass shooting in which five people were killed.
+
+The shooting took place on January 23 near the Beliatta interchange of the Southern Expressway.
+
+A group of assailants in an SUV had opened fire at a white Defender, killing four persons at the scene. The fifth person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, but he was pronounced dead shortly after.
+
+Among the deceased was the leader of “Ape Jana Bala Pakshaya” (Our Power of People Party or OPPP) Saman Perera. The other four victims were identified as Sameera Madhusanka, Hasitha Chinsuka, Buddhika Rajapaksha, and Nalin Champika.
+
+The SUV used in the shooting was later found while parked near the Vidyaloka Pirivena in Galle.
+
+...
+
+[Data](articles/3ea38f64.json)
+
+[Extended Data](ext_articles/3ea38f64.ext.json)
+
+---
 
 ### Derailment disrupts railway operations on Up-country Line
 
@@ -43,6 +65,8 @@ The slow train plying from Nawalapitiya to Nanu Oya has been derailed between th
 ◼️
 
 [Data](articles/a5d34d09.json)
+
+[Extended Data](ext_articles/a5d34d09.ext.json)
 
 ---
 
@@ -60,39 +84,47 @@ Parliament Harsha de Silva has been repeated for the post of Chairman of the Com
 
 ---
 
-### சர்வதேச ஒருநாள் கிரிக்கெட்டில் பெத்தும் நிஸ்ஸன்க இரட்டைச் சதம் குவித்து சாதனை
+### Bethum Nissanka has a double century in international ODI cricket
 
 *2024-02-09 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/175999) · `ta`
 
-ஆப்கானிஸ்தானுக்கு எதிராக கண்டி பல்லேகலையில் தற்போது நடைபெற்றுவரும் முதலாவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் ஆரம்ப வீரர் பெத்தும் நிஸ்ஸன்க இரட்டைச் சதம் குவித்து இலங்கைக்கான புதிய சாதனை ஒன்றை நிலைநாட்டினார்.
+Beth and Nissanka set a new record for Sri Lanka by scoring a double century in the first international ODI match in Pallekele in Kandy against Afghanistan.
 
-அப் போட்டியில் 190 ஓட்டங்களை எட்டிய போது சர்வதேச ஒருநாள் போட்டி ஒன்றில் இலங்கை சார்பாக அதிகூடிய ஓட்டங்களைப் பெற்றவர் என்ற சாதனைக்கு உரித்தான பெத்தும் நிஸ்ஸன்க 50 ஓவர்கள் நிறைவில் 210 ஓட்டங்களுடன் ஆட்டம் இழக்காமல் இருந்தார்.
+Betham Nissanka, who scored the highest number of runs on behalf of Sri Lanka in an international ODI match, scored 190 runs in the upcoming match.
 
-இந்தியாவுக்கு எதிராக ஷார்ஜாவில் 2000ஆம் ஆண்டில் சனத் ஜயசூரிய பெற்ற 189 ஓட்டங்களே சர்வதேச ஒருநாள் கிரிக்கெட் போட்டிகளில்  இலங்கையர் ஒருவரால் பெறப்பட்ட முன்னைய அதிகூடிய எண்ணிக்கையாக இருந்தது.
+Sanath Jayasuriya's 189 runs in Sharjah in Sharjah in 2000 against India were the earliest number of Sri Lankans in international ODIs.
 
-பெத்தும் நிஸ்ஸன்க குவித்த இரட்டைச் சதத்தின் உதவியுடன் 50 ஓவர்களில் 3 விக்கெட்களை இழந்து 381 ஓட்டங்களை இலங்கை குவித்தது.
+Sri Lanka scored 381 runs for the loss of 3 wickets in 50 overs with the help of Beth and Nissanka.
 
-அந்த மொத்த எண்ணிக்கை ஆப்கானிஸ்தானுக்கு எதிரான சர்வதேச ஒருநாள் கிரிக்கெட் போட்டி ஒன்றில் இலங்கையினால் பெறப்பட்ட அதிகூடிய மொத்த எண்ணிக்கையாக பதவானது.
+The total number of Sri Lanka was the highest number of international ODIs against Afghanistan.
 
-...
+Bethum Nissanka faced 139 balls and scored 20 pounds and 8 sixes as the 10th player.
+
+Beth and Nissanka shared 182 runs in the opening wicket with Avishka Fernando, who scored 88 runs and Sadeera Samarawickrama scored 120 runs in 3rd wicket.
+
+◼️
 
 [Data](articles/4146cf0e.json)
 
+[Extended Data](ext_articles/4146cf0e.ext.json)
+
 ---
 
-### හර්ෂට යළිත් සභාපතිධුරය
+### Harsha again
 
 *2024-02-09 18:32:28* · [`adalk`](https://www.ada.lk/breaking_news/හර්ෂට-යළිත්-සභාපතිධුරය/11-407988) · `si`
 
-රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති ධුරය සදහා පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා යළි පත් කර තිබේ.
+Dr. Harsha de Silva has been repeated for the post of Chairman of the Committee on Public Finance Chairman.
 
-තේරීම් කාරක සභාව විසින් නව සභාවාරය සදහා  රජයේ මුදල් පිළිබඳ කාරක සභාවට සාමාජික මන්ත්‍රීවරයන් පත් කිරීම සිදුවූ අතර එහිදී සභාපතිවරයා ලෙස ආචාර්ය හර්ෂ ද සිල්වා මහතා පත්කර ඇත. මෙසේ පත්කළ සාමාජික මන්ත්‍රීවරයන්ගේ නම් කථානායකවරයා විසින් අද (09) පාර්ලිමේන්තුවට නිවේදනය කළේය.
+Dr. Harsha De Silva has been appointed as the Chairman of the Select Committee to the Committee on the New Parliament.. The Speaker of this was the name of the member MPs announced this to Parliament today (09).
 
-ඒ අනුව ශෙහාන් සේමසිංහ,  (වෛද්‍ය) සීතා අරඹේපොල,  (ආචාර්ය) සුරේන් රාඝවන්,  අනුප පස්කුවල්,  ජොන්ස්ටන් ප්‍රනාන්දු, නීතිඥ රවුෆ් හකීම්,  වජිර අබේවර්ධන, විජිත හේරත්, මහින්දානන්ද අලුත්ගමගේ, දුමින්ද දිසානායක, නීතිඥ චන්දිම වීරක්කොඩි,  (ආචාර්ය) නාලක ගොඩහේවා,  (ආචාර්ය) හර්ෂ ද සිල්වා, නිමල් ලාන්සා, එම්. ඒ. සුමන්තිරන්, (වෛද්‍ය) කවින්ද හේෂාන් ජයවර්ධන,මයන්ත දිසානායක , හර්ෂණ රාජකරුණා, යූ. කේ. සුමිත් උඩුකුඹුර, (ආචාර්ය) මේජර් ප්‍රදීප් උඳුගොඩ, ඉසුරු දොඩන්ගොඩ, නීතිඥ ප්‍රේම්නාත් සී. දොලවත්ත,  නීතිඥ මධුර විතානගේ සහ එම්. ඩබ්ලිව්. ඩී. සහන් ප්‍රදීප් විතාන යන මන්ත්‍රීවරයන් මුදල් පිළිබඳ කාරක සභාවේ සේවය කිරීම සඳහා  පත් කොට තිබේ.
+Accordingly, Sheha Senarapola, (Dr.) Surepola, (Dumindan Fernando), Vijitha Dissanayake, Attorney Chandima Weerahewa, Lawyard Godahewa, (Duminda Dissanhewa) (Dr.) Harsha de Silva, Nimal Lansa, M. it. Sumanthiran, Dr. Kavindhiran Jayawardena, Mantha Dissanayake, Harshana Rajakaruna, U. K. Sumith Udukumbura, (Dr.) Major Pradeep Undugoda, Isuru Dodangoda, Law Premnith C. Madura Withanage and Madura Vithanage and Madura Vithanage, Dolawatta. W. D. Sahan Pradeep Vithana has been appointed to serve the Committee on Finance.
 
 ◼️
 
 [Data](articles/4bf7cfe1.json)
+
+[Extended Data](ext_articles/4bf7cfe1.ext.json)
 
 ---
 
@@ -107,6 +139,24 @@ The military said that 30 bullets for the missing T-56 were found in the drainag
 [Data](articles/cec04121.json)
 
 [Extended Data](ext_articles/cec04121.ext.json)
+
+---
+
+### Pathum Nissanka becomes Sri Lanka’s first double centurion
+
+*2024-02-09 18:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pathum-Nissanka-becomes-Sri-Lankas-first-double-centurion/108-276682) · `en`
+
+Opener Pathum Nissanka broke Sanath Jayasuriya’s 23-year old record for the highest score by a Sri Lankan in ODI cricket, also becoming the country’s first double centurion.
+
+Nissanka cracked eight sixes and 20 boundaries to remain unbeaten on 210, scoring more than half of Sri Lanka’s runs, as they finished their 50 overs on 381 for 3.
+
+Contributions from Avishka Fernando (88) and Sadeera Samarawickrama were dwarfed by Nissanka’s stellar knock, as the opener became just the tenth batsman in the game to score an ODI double century.
+
+◼️
+
+[Data](articles/799e9ffe.json)
+
+[Extended Data](ext_articles/799e9ffe.ext.json)
 
 ---
 
@@ -202,19 +252,21 @@ The Director General of the Department of Registered Seedlings, including the De
 
 ---
 
-### සැරයන්ගේ ගිනි අවිය පත්තුවී කොස්තාපල්ට තුවාල
+### Constable injured in the firearm
 
 *2024-02-09 18:02:21* · [`adalk`](https://www.ada.lk/breaking_news/සැරයන්ගේ-ගිනි-අවිය-පත්තුවී-කොස්තාපල්ට-තුවාල/11-407984) · `si`
 
-ඔක්කම්පිටිය පොලීසියේ පොලිස් සැරයන්වරයෙකුගේ ගිනිඅවියක් ඉකුත් (08) වෙනිදා ඉබේ පත්තුවීමෙන් පොලිස් කොස්තාපල්වරයෙකු තුවාල ලබා ඇතැයි මොනරාගල රෝහල් පොලීසිය පවසයි.
+Police constable has been injured in a firearm of a firearm of police sergeant at the Okkampitiya Police Station (08).
 
-මෙලෙස තුවාල ලබා ඇත්තේ පො.කො 105479 කරුණාරත්න නැමති අයෙකි. පෙබරවාරි 09 වෙනි දිනට නියමිත පොලීසියේ අර්ධ වාර්ෂික පරීක්ෂණයට සහභාගී වන පොලිස් සැරයන්වරයෙකු ඔහුට අයත් ටී 56 ගිනිඅවිය බැරක්කයේදී පිරිසිදුකරමින් සිටියදී ගිනිඅවිය පත්තුවී අසල ඇඳක නිදාගෙන සිටි පොලිස් කොස්තාපල්වරයාගේ උකුළුඇටය ප්‍රදේශයට වෙඩි වැදී ඇත.
+The injured were also injured as Karunaratne.A police sergeant who participates in the semi-annual inspection of the police sergeant on February 9., a police sergeant was shot dead in a bed near him a bed near him.
 
-ඔහුගේ තත්වය බරපතළ නොවන බව මොනරාගල රෝහලේ ආරංචිමාර්ග සඳහන් කරයි. ඔක්කම්පිටිය පොලීසිය පරීක්ෂණ පවත්වයි.
+According to Moneragala Hospital, sources of the Moneragala Hospital said that his condition is not serious.The Okkampitiya Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/abe3a334.json)
+
+[Extended Data](ext_articles/abe3a334.ext.json)
 
 ---
 
@@ -2007,45 +2059,5 @@ Earlier, Public Security Minister Tiran Alles said the government initiated a sp
 [Data](articles/ab14a1d2.json)
 
 [Extended Data](ext_articles/ab14a1d2.ext.json)
-
----
-
-### Sri Lanka’s efforts to nab overseas criminals hit a snag
-
-*2024-02-09 08:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lankas-efforts-to-nab-overseas-criminals-hit-a-snag/155-276642) · `en`
-
-Colombo, Feb 9 (Daily Mirror) - Sri Lanka’s efforts to arrest organized criminals operating from overseas has hit a snag following the Court of Appeal in France ruling against the extradition of criminal called ‘Kudu Anju’, Daily Mirror learns.
-
-The ruling has been communicated to the Sri Lankan authorities. However, a top official familiar with the process said the latest ruling conveyed on February 1, 2024 is not the final judgement.
-
-“It is not the final judgement. The final ruling will be given after the judicial process is over in another couple of weeks’ time or so,” the official said.
-
-In the meantime, the Sri Lankan Embassy in Paris is in communication with the French Foreign Affairs Ministry to get the ruling clarified further.
-
-Earlier, Public Security Minister Tiran Alles said the government initiated a special operation to arrest 30 criminals involved in drug trafficking and criminal activities while living in countries such as the United Arab Emirates (UAE) and France.
-
-...
-
-[Data](articles/b575c789.json)
-
-[Extended Data](ext_articles/b575c789.ext.json)
-
----
-
-### Special announcement from the Ministry of Education
-
-*2024-02-09 08:11:06* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-අමාත්‍යාංශයෙන්-විශේෂ-නිවේදනයක්/11-407977) · `si`
-
-2022 (2023) GCE Advanced Level. (A / L) Examination Answer Application Form for Evaluation Functions. 1,450.00 to Rs. Minimum Content Allowance to be increased to 2,000.00 (2024). The Ministry of Education stated that the Cabinet approval has been granted to pay the evaluation inspectors of the (A / L examiner).
-
-Also, the main governing inspectors, co-academic inspectors, co-admininers, major inspectors and additional major inspectors for the total tasks of Rs.. Allowance to revise (A / L) Examination Examination Examination 2023 (2024). The Ministry further stated that approval has been approved to pay the assessments of the A / L examination.
-
-Accordingly, 2023 (2024) GCE Advanced Level. The Department of Examinations will make the above amendments to staff (A / L examination) staff.
-
-◼️
-
-[Data](articles/1b7abce5.json)
-
-[Extended Data](ext_articles/1b7abce5.ext.json)
 
 ---

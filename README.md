@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 01:32:44**
+As of **2024-02-10 01:49:57**
 
 ## Newspaper Stats
 
-*Scraped **6,039** Articles*
+*Scraped **6,045** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 86
 dbsjeyarajcom | 142
 islandlk | 308
 economynextcom | 318
-dailyftlk | 336
+dailyftlk | 342
 newsfirstlk | 363
 adalk | 505
 tamilmirrorlk | 735
@@ -26,11 +26,99 @@ dailymirrorlk | 868
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,030 (99.9%) of 6,039 articles have been extended.
+6,042 (100.0%) of 6,045 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### Dynamic B2B sessions at Sri Lanka –Thailand Business Forum
+
+*2024-02-10 01:08:52* · [`dailyftlk`](https://www.ft.lk/business/Dynamic-B2B-sessions-at-Sri-Lanka-Thailand-Business-Forum/34-758328) · `en`
+
+Ceylon Chamber of Commerce Chairman Duminda Hulangamuwa welcoming President Ranil Wickremesinghe
+
+The Sri Lanka-Thailand Business Forum, organised in collaboration with the Embassy of the Kingdom of Thailand in Sri Lanka, the Department of International Trade Promotion, The Ministry of Commerce Thailand, the Ministry of Trade Commerce and Food Security, The Ceylon Chamber of Commerce and the Chamber’s Sri Lanka - Greater Mekong Business Council (SLGMBC), on 3 February 2024, attracted high-level government and private sector participation.
+
+Attended by President Ranil Wickremesinghe and Prime Minister of Thailand Srettha Thavisin, with the participation of over 200 corporate representatives and a 21-member business delegation from Thailand, the Forum followed the signing of the Sri Lanka – Thailand Free Trade Agreement.
+
+...
+
+[Data](articles/1be99827.json)
+
+[Extended Data](ext_articles/1be99827.ext.json)
+
+---
+
+### Lankan envoy in Pakistan attends Expo – Engineering and Healthcare Show in Lahore
+
+*2024-02-10 01:07:54* · [`dailyftlk`](https://www.ft.lk/business/Lankan-envoy-in-Pakistan-attends-Expo-Engineering-and-Healthcare-Show-in-Lahore/34-758327) · `en`
+
+High Commissioner of Sri Lanka to Pakistan Admiral (Retd) Ravindra C. Wijegunaratne attended the Expo – 3rd edition of the Engineering and Healthcare Show recently at the Expo Centre in Lahore.
+
+The exhibition was organised by the Trade Development Authority of Pakistan (TDAP) in collaboration with the Ministry of Commerce and Export Development Fund of Pakistan.
+
+Over 200 exhibitors from Pakistan showcased their products across 26 sectors of engineering and healthcare industries of Pakistan. More than 600 international delegates from 70 countries participated as buyers/visitors in the exhibition.
+
+...
+
+[Data](articles/4e167d62.json)
+
+[Extended Data](ext_articles/4e167d62.ext.json)
+
+---
+
+### SJB’s reply to President’s Policy Statement
+
+*2024-02-10 00:58:28* · [`dailyftlk`](https://www.ft.lk/news/SJB-s-reply-to-President-s-Policy-Statement/56-758316) · `en`
+
+Nothing will change with passing laws unless there is political will to resolve issues
+
+MP Eran Wickramaratne speaking on the adjournment debate on the policy statement by President Ranil Wicckremesinghe said the main Opposition SJB disagrees with the broad theme of the President’s statement delivered on Tuesday that the problem facing this country is economic and not political. Speaking on the debate on Thursday he stressed that from the outset he rejects the President’s theme as the economy, politics and political economy are imperative in governance and politics.
+
+...
+
+[Data](articles/2b721fed.json)
+
+[Extended Data](ext_articles/2b721fed.ext.json)
+
+---
+
+### Indian Defence Ministry team visits BOI
+
+*2024-02-10 00:56:14* · [`dailyftlk`](https://www.ft.lk/news/Indian-Defence-Ministry-team-visits-BOI/56-758315) · `en`
+
+India’s Ministry of Defence Joint Secretary (Naval Systems) Rajeev Prakash together with several other members met with Board of Investment Chairman Dinesh Weerakkody and officials this week to discuss possible investment towards setting up a ship building/yard and other facilities.
+
+◼️
+
+[Data](articles/ba7b2b7d.json)
+
+[Extended Data](ext_articles/ba7b2b7d.ext.json)
+
+---
+
+### Sajith presents ‘Alternative/Practical Path’ program for economic revival
+
+*2024-02-10 00:55:42* · [`dailyftlk`](https://www.ft.lk/news/Sajith-presents-Alternative-Practical-Path-program-for-economic-revival/56-758314) · `en`
+
+Says country’s citizens are seeking an alternative path and his party is presenting a 20-point proposal in response
+
+Stresses SJB is charting balanced middle ground between far-right neoliberalism and far-left socialism
+
+Emphasises that Sri Lanka has potential to achieve greater prosperity and foster innovation through implementation of these 20 policies
+
+Opposition leader Sajith Premadasa presented a 20-point ‘Alternative/Practical Path’ program for Sri Lanka’s economic revival on Thursday while joining the debate on the Government Policy Statement presented by President Ranil Wickremesinghe at the opening of the fifth session of the ninth Parliament this week.
+
+He said the country’s citizens are now seeking an alternative path and the SJB is presenting a 20-point proposal in response. Premadasa said the SJB is charting a balanced middle ground between far-right neoliberalism and far-left socialism.
+
+...
+
+[Data](articles/9ec0f63d.json)
+
+[Extended Data](ext_articles/9ec0f63d.ext.json)
+
+---
 
 ### JVP’s Love-Hate Relationship with India
 
@@ -196,21 +284,41 @@ He made this remark while delivering the keynote address at the 7th Indian Ocean
 
 ---
 
-### இந்தியா - இலங்கைக்கிடையில் பெற்றோலிய குழாய் திட்டம் தொடர்பில் பேச்சுவார்த்தை
+### From COP28 to COP29: Climate change negotiations in 2024
 
-*2024-02-09 23:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176010) · `ta`
+*2024-02-09 23:41:07* · [`dailyftlk`](https://www.ft.lk/columns/From-COP28-to-COP29-Climate-change-negotiations-in-2024/4-758308) · `en`
 
-இந்தியாவின் நாகப்பட்டினம் மற்றும் இலங்கையின் திருகோணமலை எண்ணெய் தாங்கி மற்றும் கொழும்பை இணைக்கும் பெற்றோலியக் குழாய் திட்டத்தை முன்னெடுப்பது தொடர்பில் இந்தியன் எரிபொருள் கூட்டுத்தாபனம் மூலம் இந்திய அரசாங்கம் சமர்ப்பித்த முன்மொழிவு குறித்து பேச்சுவார்த்தை இடம்பெற்றுள்ளது.
+With COP29 only ten months away, climate finance is among the key topics for climate negotiations in 2024
 
-இந்திய எரிசக்தி வாரத்தை முன்னிட்டு இந்தியா சென்றுள்ள மின்சக்தி மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகர இந்த பேச்சுவார்த்தை தொடர்பில் தனது உத்தியோகபூர்வ டுவிட்டர் பக்கத்தில் பதிவிட்டுள்ளார்.
-
-இந்தியன் எரிபொருள் கூட்டுத்தாபனம், லங்கா ஐ.ஓ.சி, இலங்கை பெற்றோலியக் கூட்டுத்தாபனம் மற்றும் இலங்கை பெற்றோலிய மேம்பாட்டு ஆணையம் ஆகியவற்றின் தலைவர்கள் இந்த பேச்சுவார்த்தையில் கலந்து கொண்டிருந்தனர்.
-
-தொழில்நுட்ப ஆய்வுகள், தேவையான சந்தை பகுப்பாய்வு, நிதி பகுப்பாய்வு மற்றும் வணிக மாதிரிகள் ஆகியவை சம்பந்தப்பட்ட பொறிமுறையை தீர்மானிக்கத் திட்டமிடப்பட்டுள்ளதாக அமைச்சர் காஞ்சன விஜேசேக குறிப்பிட்டுள்ளார்.
+The 28th meeting of the Conference of the Parties to the United Nations Framework Convention on Climate Change (COP28) concluded at the end of 2023 with several important outcomes. On the one hand, it created a dedicated fund for loss and damage, wrapped up the first-ever Global Stocktake, and established a framework for the Global Goal on Adaptation that would serve to scale up and focus adaptation ambition. On the other hand, there is still a considerable amount of work to be done for operationalising the loss and damage fund and the Global Goal on Adaptation (GGA), and several agenda items only resulted in procedural decisions and will be carried forward.
 
 ...
 
+[Data](articles/cf5a5ead.json)
+
+[Extended Data](ext_articles/cf5a5ead.ext.json)
+
+---
+
+### Negotiations on petroleum pipeline project between India and Sri Lanka
+
+*2024-02-09 23:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176010) · `ta`
+
+The Indian government has negotiated a proposal by the Indian Fuel Corporation on the implementation of the Nagapattinam of India and the Sri Lankan Oil Bearing and the Colombo Planning Pipe for Colombo.
+
+Minister of Power and Energy Kanjana Wijesekera, who has gone to India ahead of the Indian Energy Week, posted on his official Twitter page.
+
+Leaders of the Indian Fuel Corporation, the Lanka IOC, the Ceylon Petroleum Corporation and the Ceylon Petroleum Development Authority were also present.
+
+Minister Kanjana Wijeeska said that the mechanism of technical studies, required market analysis, financial analysis and business samples are scheduled to be determined.
+
+The Minister further stated that the expansion of investments and projects in Trincomalee has been focused on the Sri Lanka Petroleum Repository Terminal and the Sri Lanka IOC retail activities.
+
+◼️
+
 [Data](articles/512a5e3b.json)
+
+[Extended Data](ext_articles/512a5e3b.ext.json)
 
 ---
 
@@ -250,85 +358,97 @@ As such the solution to the current economic crisis is bringing about an immedia
 
 ---
 
-### நிஸ்ஸன்க இரட்டைச் சதம் குவித்து சாதனை; இலங்கையின் வெற்றிக்கு மத்தியில் ஆப்கனும் சாதனை
+### Nissanka's double century accumulation;Afghan's record among Sri Lanka's victory
 
 *2024-02-09 23:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176009) · `ta`
 
-ஆப்கானிஸ்தானுக்கு எதிராக கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் வெள்ளிக்கிழமை (09) நடைபெற்ற முதலாவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் பெத்தும் நிஸ்ஸன்க குவித்த சாதனைமிகு இரட்டைச் சதத்தின் உதவியுடன் 42 ஓட்டங்களால் இலங்கை வெற்றிபெற்றது.
+Sri Lanka won by 42 runs with the help of Beth and Nissanka's record in the first ODI in the first international ODI in the Kandy Pallekele International Cricket Stadium against Afghanistan on Friday (09).
 
-ஆப்கானிஸ்தான் சார்பாகவும் 6ஆவது விக்கெட்டில் இணைப்பாட்ட சாதனை நிலைநாட்டப்பட்டபோதிலும் இலங்கையின் வெற்றியை அவர்களால் தடுக்கமுடியாமல் போனது.
+Despite the record set on behalf of Afghanistan in the 6th wicket, they were unable to prevent Sri Lanka's victory.
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட இலங்கை 50 ஓவர்களில் 3 விக்கெட்களை இழந்து 381 ஓட்டங்களைக் குவித்தது.
+Sri Lanka, who was first invited to bat in the upting match, scored 381 runs for the loss of 3 wickets in 50 overs.
 
-பெத்தும் நிஸ்ஸன்க 139 பந்துகளை எதிர்கொண்டு 20 பவுண்டறிகள், 8 சிக்ஸ்கள் அடங்கலாக ஆட்டம் இழக்காமல் 210 ஓட்டங்களைக் குவித்தார்.
+Bethum Nissanka faced 139 balls and scored 210 runs without losing 20 pounds and 8 sixes.
 
-இதன் மூலம் சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் இலங்கை சார்பாக முதலாவது இரட்டைச் சதத்தை விளாசியவர் என்ற சாதனையைப் படைத்தார்.
+He set the record for the first double century on behalf of Sri Lanka in an international ODI match.
 
-சர்வதேச ஒருநாள் கிரிக்கெட் அரங்கில் இரட்டைச் சதம் குவித்த 10ஆவது வீரர் பெத்தும் நிஸ்ஸன்க ஆவார்.
+Beth and Nissanka is the 10th player who scored a double century in the ODI cricket arena.
 
-சச்சின் டெண்டுல்கார்தான் முதன் முதலில் சரவ்தேச ஒருநாள் கிரிக்கேட் போட்டியில் இரட்டைச் சதம் குவித்தவர்.
+Sachin Tendulkar was the first to score a double century in the ODI cricket match.
+
+He was followed by Virender Sehwag, Rohit Sharma, Chris Gale, Martin Kaptil, Bakar Zaman, Ishahan Kishan, Shubman Gill and Glenn Maxwell and Beth and Nissanka scored a double century in the same line.
 
 ...
 
 [Data](articles/b53e194e.json)
 
+[Extended Data](ext_articles/b53e194e.ext.json)
+
 ---
 
-### தேசிய வீடமைப்பு அதிகார சபையால் யாழில் 106 பயனாளிகளுக்கு உறுதிப்பத்திரம் வழங்கி வைப்பு
+### The National Housing Authority has given a certainty of 106 beneficiaries in Jaffna
 
 *2024-02-09 23:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176008) · `ta`
 
-யாழ்ப்பாணம் மாவட்டத்தில் தெரிவு செய்யப்பட்ட 106 பயனாளிகளுக்கு "உறுதி உறுதிப் பத்திரம் வழங்கல்" நிகழ்வு வெள்ளிக்கிழமை காலை வீரசிங்கம் மண்டபத்தில் இடம்பெற்றது.
+The "Confirmation Declaration" event was held at Weerasingham Hall on Friday morning for 106 selected beneficiaries in Jaffna district.
 
-இதன்போது மேலதிகமாக 20 பயனாளிகளுக்கு வீடமைப்பு கடனுக்கான முதற்கட்ட காசோலையும் வழங்கி வைக்கப்பட்டது.
+In addition, 20 beneficiaries were also given a first check for housing loans.
 
-இந்நிகழ்வில், தேசிய வீடமைப்பு அதிகார சபையின் தலைவர் ரஜீவ் சூரியாராச்சி, உப தலைவர் லக்ஷ்மன் குணவர்தன, யாழ் மாவட்ட மேலதிக அரசாங்க அதிபர் (காணி) கே.ஸ்ரீமோகனன், தேசிய வீடமைப்பு அதிகார சபையின் யாழ் மாவட்ட முகாமையாளர் எம்.ரவீந்திரன், தேசிய வீடமைப்பு அதிகார சபையின் உத்தியோகத்தர்கள் மற்றும் பயனாளிகள் கலந்து கொண்டனர்.
+National Housing Authority Chairman Rajeev Suriyarachchi, Vice President Lakshman Gunawardena, Jaffna District Additional Government Agent (Land) K. Srimohanan, National Housing Authority Jaffna District Manager M. Raveendran, National Housing Authority officials and beneficiaries were present.
 
 ◼️
 
 [Data](articles/892efdc6.json)
 
+[Extended Data](ext_articles/892efdc6.ext.json)
+
 ---
 
-### வவுனியாவில் பாதசாரி கடவையூடாக வீதியினை கடக்க முயன்ற மாணவனை மோதித்தள்ளிய மோட்டார் சைக்கிள்
+### A motorcycle collided with a student who tried to cross the road through a pedestrian crossing in Vavuniya
 
 *2024-02-09 23:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/176007) · `ta`
 
-வவுனியாவில் பாதசாரி கடவையூடாக வீதியினை கடக்க முயன்ற மாணவனை மோட்டார் சைக்கிள் மோதியதில் மாணவன் சிறுகாயங்களுக்குள்ளாகியுள்ளார்.
+A student who tried to cross the road through a pedestrian crossing in Vavuniya has been hit by a motorcycle.
 
-வவுனியா தமிழ் மத்திய மகா வித்தியாலயத்திற்கு முன்பாகவுள்ள பாதசாரிகள் கடவையில் வெள்ளிக்கிழமை (09) மதியம் இடம்பெற்ற இவ் விபத்துச்சம்பவம் தொடர்பில் மேலும் தெரியவருகையில்,
+The pedestrians in front of the Vavuniya Tamil Central Maha Vidyalaya on Friday (09) afternoon revealed the incident.
 
-துவிச்சக்கரவண்டியில் பாதசாரி கடவையூடாக வீதியினை கடக்க முயன்ற மாணவனின் துவிச்சக்கரவண்டி மீது  ஏ9 வீதியூடாக பயணித்த மோட்டார் சைக்கில் மோதுண்டு விபத்துக்குள்ளானது.
+A motorcycle traveling by A9 road crashed into a student who was trying to cross the road through a pedestrian crossing in a bicycle.
 
-இவ்விபத்தில் மாணவன் சிறு காயங்களுக்குள்ளாகியுள்ளமையுடன் மாணவனின் துவிச்சக்கரவண்டியும் பகுதியளவில் சேதமடைந்தது. சம்பவ இடத்திற்கு விரைந்த வவுனியா போக்குவரத்து பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்திருந்தனர்.
+The student's bicycle was partially damaged by the student's minor injuries. Vavuniya Traffic Police rushed to the scene and further investigations.
 
 ◼️
 
 [Data](articles/d360c7c5.json)
 
+[Extended Data](ext_articles/d360c7c5.ext.json)
+
 ---
 
-### ஆசிய கிண்ணத்தை சுவீகரித்து வரலாறு படைக்க கத்தார், ஜோர்தான் முயற்சி; நாளை இறுதிப் போட்டி
+### Qatar and Jordan try to make history by winning the Asian bowl;Tomorrow's final
 
 *2024-02-09 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176006) · `ta`
 
-தோஹா, லுசெய்ல் விளையாட்டரங்கில் சனிக்கிழமை (10) இரவு நடைபெறவுள்ள AFC ஆசிய கிண்ணம் கத்தார் 2023 இறுதிப் போட்டியில் ஒன்றையொன்று சந்திக்கவுள்ள கத்தாரும் ஜோர்தானும் சம்பியன் பட்டத்தை சூடி வரலாறு படைக்க முயற்சிக்கவுள்ளன.
+Qatar and Jordan will attend the championship title in the AFC Asian Bowl, which will be held on Saturday night (10) at the Doha, Lukel Stadium.
 
-ஐக்கிய அரபு இராச்சியத்தில் நடைபெற்ற 2019 ஆசிய கிண்ண கால்பந்தாட்டத்தில் சம்பியனான கத்தார், கிண்ணத்தை தக்கவைக்க முயற்சிக்கவுள்ளது.
+Qatar, the champion of the 2019 Asian Bowl, will try to retain the bowl in the United Arab Emirates.
 
-மறுபுறத்தில் ஆசிய கிண்ண கால்பந்தாட்ட வரலாற்றில் முதல் தடவையாக இறுதிப் போட்டியில் விளையாடத் தகுதிபெற்றுள்ள ஜோர்தான் முதல் முயற்சியிலேயே கிண்ணத்தை வென்ற வரலாறு படைக்க எண்ணியுள்ளது.
+On the other hand, Jordan, who is qualified to play in the final for the first time in the history of the Asian Bowl, has won the first attempt to win the bowl.
 
-இந்த இரண்டு அணிகளுக்கும் இடையிலான இறுதிப் போட்டியில் வேகத்திற்கும் விறுவிறுப்பிற்றும் பஞ்சம் இருக்காது என நம்பப்படுகிறது.
+It is believed that there will be no famine in the final between the two teams.
 
-கத்தார் அணியில் கவனத்தில் கொள்ள வேண்டிய பிரதான வீரர்கள் இடமிருந்து வலமாக: அல்மோயிஸ் அலி, அக்ரம் அலி, ஹசன் அல் ஹைதோஸ்
+The main players who need to pay attention to the Qatar team from left to right:
 
-ஏனெனில் ஆசிய கண்டத்தில் முதலாவது மகுடத்தை ஜோர்தானுக்கு பெற்றுக்கொடுக்க பயிற்றுநர் ஹீசெய்ன் அம்மூடா எதிர்பார்த்துள்ளார்.
+This is because instructor Heesin Amuda is looking forward to giving Jordan the first crown on the Asian continent.
 
-அதேவேளை, கத்தார் வெற்றி பெறும் என்ற நம்பிக்கையில் அதன் பயிற்றுநர் மார்க்ஸ் லோப்பெஸ் திகழ்கிறார்.
+At the same time, its instructor Marx Lopez is hoping to win Qatar.
+
+Qatar will try to be the fifth country in the list of teams in the Asian Bowl Football History.
 
 ...
 
 [Data](articles/05c4f3ae.json)
+
+[Extended Data](ext_articles/05c4f3ae.ext.json)
 
 ---
 
@@ -354,19 +474,23 @@ He was the highest scorer of the Afghanite innings of the Afghanity of the Afgha
 
 ---
 
-### மத்திய வங்கியின் பிணைமுறி மோசடி :  விசாரணைகள் மந்தகதியில் - மைத்திரிபால சிறிசேன
+### Central Bank's Bailout Fraud
 
 *2024-02-09 22:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176005) · `ta`
 
-மத்திய வங்கியின் பிணைமுறி மோசடி தொடர்பான விசாரணைகள் மந்தகதியில் முன்னெடுக்கப்படுகிறது.பிரதான குற்றவாளி என பெயர் குறிப்பிடப்பட்ட அர்ஜூன மகேந்திரன் உட்பட 10 பேரை வழக்கில் இருந்து விடுவிக்க ஏன் விசேட கவனம் செலுத்தப்படுகிறது என்பதை அரசாங்கம் பகிரங்கப்படுத்த வேண்டும் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்தார்.
+Former President Maithripala Sirisena said that the government should make special attention to the release of 10 persons, including Arjuna Mahendran, who was named as the culprit of the Central Bank.
 
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை (9) இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரை மீதான சபை ஒத்திவைப்பு விவாத்தில் உரையாற்றுகையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking at the adjournment debate on the President's Policy Declaration of the President on Friday (9) in Parliament.
 
-ஜனாதிபதியின் கொள்கை பிரடன உரை தொடர்பில் பாராளுமன்ற உறுப்பினர்களுக்கு வழங்கப்பட்டுள்ள அறிக்கையில் ' அவரை கடுமையாக விமர்சித்த  பொதுஜன பெரமுனவினர் நாட்டுக்காக அவருக்கு ஒத்துழைப்பு வழங்கியுள்ள போது ஐக்கிய மக்கள்  சக்தியினரால் ஏன்  ஒத்துழைப்பு வழங்க முடியாது. நல்லாட்சி அரசாங்கத்தில் மக்கள் விடுதலை முன்னணியினர் ஊழல் ஒழிப்புக்கு முன்னிலையானார்கள்.
+In a statement issued to MPs on the president's policy speech, the United People's Freedoms can cooperate when he has cooperated with the country's criticism of the country.. In the government of goodwill, the Janatha Vimukthi Peramuna (JVP) came to the forefront of corruption.
+
+The President of the Janatha Vimukthi Peramuna (JVP) has recommended that Ananda Palitha be given the responsibilities of the corruption office, but President Ranil Wickremesinghe did not mention his policy speech.
 
 ...
 
 [Data](articles/130f149e.json)
+
+[Extended Data](ext_articles/130f149e.ext.json)
 
 ---
 
@@ -1883,137 +2007,5 @@ The designers say that the metals who have been discarded by the Eiffel Tower fo
 [Data](articles/aeda6e48.json)
 
 [Extended Data](ext_articles/aeda6e48.ext.json)
-
----
-
-### ‘My memory is fine’ - President Biden hits back at special counsel
-
-*2024-02-09 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97142/my-memory-is-fine-president-biden-hits-back-at-special-counsel) · `en`
-
-US President Joe Biden has angrily criticised an investigation that found he mishandled top secret files and said he struggled to recall key life events.
-
-In a surprise news briefing on Thursday evening, Mr Biden insisted: “My memory is fine.”
-
-He slammed a claim that he could not recollect when his son died, saying: “How the hell dare he raise that?”
-
-The inquiry found Mr Biden “wilfully retained and disclosed” classified files, but decided not to charge him.
-
-Department of Justice Special Counsel Robert Hur determined Mr Biden had improperly kept classified documents related to military and foreign policy in Afghanistan after serving as vice-president.
-
-The scathing 345-page report, released earlier in the day, said the president’s memory had “significant limitations”.
-
-Mr Hur interviewed the 81-year-old president over five hours as part of the inquiry.
-
-...
-
-[Data](articles/1729fce8.json)
-
-[Extended Data](ext_articles/1729fce8.ext.json)
-
----
-
-### Sections of Sri Lanka’s Online Safety Act appear non-compliant with court order: HRCSL
-
-*2024-02-09 13:51:00* · [`economynextcom`](https://economynext.com/sections-of-sri-lankas-online-safety-act-appear-non-compliant-with-court-order-hrcsl-150529/) · `en`
-
-ECONOMYNEXT — The Human Rights Commission of Sri Lanka (HRCSL) has written to the Speaker of Parliament, pointing to sections and omissions in the Online Safety Act that HRCSL said appear to be non-compliant with the Supreme Court’s Determination on the bill.
-
-According to the letter, dated Thursday February 08, Sections 13, 16, 19, 20, and 27 of the Online Safety Act, or the corresponding clauses of the Online Safety Bill (13, 17, 21, 22, and 31 respectively), appear non-compliant with the apex court’s determination.
-
-The Commission said that it had highlighted in a previous communication that law enforcement authorities in Sri Lanka have encountered significant challenges in interpreting and applying existing criminal law applicable to online activity.
-
-“We cautioned the government against proceeding with the enactment of the Bill without first engaging in meaningful institutional reform,” the letter, signed by HRCSL chairman Justice L T B Dehideniya, said.
-
-...
-
-[Data](articles/f7d8a506.json)
-
-[Extended Data](ext_articles/f7d8a506.ext.json)
-
----
-
-### Law reforms for system change: SJB Lawyers Federation to Propose 117 Reforms
-
-*2024-02-09 13:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Law-reforms-for-system-change-SJB-Lawyers-Federation-to-Propose-117-Reforms/108-276671) · `en`
-
-Colombo, Feb 9 (Daily Mirror) - The SJB Lawyers Federation has announced its intention to present 117 proposals for substantial legal reforms aimed at bringing about a systemic change and introducing rationality to governance.
-
-President of the SJB Lawyers Federation, President's Counsel Upul Jayasuriya, informed the media that the proposed laws would focus on family politics, suggesting that siblings of politicians should not enter politics until a cooling-off period after those already holding political office retire.
-
-Jayasuriya emphasized that family members would be prohibited from entering into any government contracts while an immediate family member holds a political office.
-
-The President of the SJB Lawyers’ Federation also announced plans to withdraw the draconian Online Safety Bill and introduce a new bill under the SJB government to safeguard the rights of women and children online.
-
-...
-
-[Data](articles/2b0f2c67.json)
-
-[Extended Data](ext_articles/2b0f2c67.ext.json)
-
----
-
-### My memory is good - biden
-
-*2024-02-09 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193168) · `si`
-
-It has been revealed that US President Jooring has detected secret information.
-
-A special attorney after investigation into the meeting of the President's private office was later investigated.
-
-However, in the investigation, President Joe Biden's memory has an inactor.
-
-The investigation report states that President of President Bidain's memory is limited.
-
-The President has not been able to recall the time he had been the vice president's time or his son Beaidon, the death of his Son, Baye Biday.
-
-Accordingly, the investigation report shows that he cannot be punished due to the agency of President Bidain.
-
-In such a backdrop, the president has arisen in the event of contesting the coming presidential election.
-
-Meanwhile, the US President rejected reports of his memory.
-
-◼️
-
-[Data](articles/7be4496b.json)
-
-[Extended Data](ext_articles/7be4496b.ext.json)
-
----
-
-### Dematagoda Ruwan's family comes out
-
-*2024-02-09 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193167) · `si`
-
-The wife of Dematagoda Ruwan, who was remanded, was released on bail yesterday (08).
-
-They were arrested and produced before courts under the allegation of over 168 million cash and property.
-
-The court also sentenced to two bail of Rs. 50,000 and the suspects of suspects were banned.
-
-The three suspects have also been ordered to appear before the CID every month.
-
-◼️
-
-[Data](articles/0328023f.json)
-
-[Extended Data](ext_articles/0328023f.ext.json)
-
----
-
-### Sri Lanka, Perth WA officials discuss direct aviation links
-
-*2024-02-09 13:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-perth-wa-officials-discuss-direct-aviation-links-150521/) · `en`
-
-ECONOMYNEXT – Sri Lankan officials are discussing bolstering bilateral relations further and have discussed the possibility of direct flights between the island and Perth, Western Australia, Foreign Minister Ali Sabry said.
-
-Sabry and President Ranil Wickremesinghe are in Perth for the Indian Ocean Conference, where they met with Western Australia’s Premier Roger Cook, among others. “He expressed interest in renewable energy, agriculture and direct aviation links with Sri Lanka,” Sabry said on social media platform X (twitter).
-
-“Noting Sri Lanka’s on-going efforts to develop its renewable energy sector, the President underscored the country’s vast potential in this area and outlined Sri Lanka’s modernization program in agriculture and invited Premier Cook to visit Sri Lanka to explore investment opportunities.”
-
-...
-
-[Data](articles/a04675ea.json)
-
-[Extended Data](ext_articles/a04675ea.ext.json)
 
 ---

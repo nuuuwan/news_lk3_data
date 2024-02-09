@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 23:51:39**
+As of **2024-02-10 00:02:23**
 
 ## Newspaper Stats
 
-*Scraped **6,017** Articles*
+*Scraped **6,018** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 505
 tamilmirrorlk | 735
 virakesarilk | 744
 adaderanalk | 744
-adaderanasinhalalk | 806
+adaderanasinhalalk | 807
 dailymirrorlk | 863
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,017 (100.0%) of 6,017 articles have been extended.
+6,018 (100.0%) of 6,018 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### Sri Lanka beat Sri Lanka by 42 runs
+
+*2024-02-09 22:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193191) · `si`
+
+Sri Lanka beat Sri Lanka and Afghanistan beat Sri Lanka by 42 runs in the first ODI.
+
+Batting first Sri Lanka scored 381 runs for the loss of 03 wickets at the end of 50 overs.
+
+The double century recorded at the meeting was the first double century recorded for Sri Lanka.
+
+Mohammed Navi scored 136 runs off 130 balls with 136 balls.
+
+He was the highest scorer of the Afghanite innings of the Afghanity of the Afghanistan.
+
+◼️
+
+[Data](articles/f88f4f28.json)
+
+[Extended Data](ext_articles/f88f4f28.ext.json)
+
+---
 
 ### The father's life is the last
 
@@ -2049,31 +2071,5 @@ The hotel was prepared to mark the 40 inches of Pizza World Pressz World Pightsa
 [Data](articles/72e0b02d.json)
 
 [Extended Data](ext_articles/72e0b02d.ext.json)
-
----
-
-### How I Write I write: Manjula Senaratne
-
-*2024-02-09 11:01:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72gjky8wjyo) · `si`
-
-Manjula Senaratne is a writer who has won a special reader alert. He has won the novels of 12 12 12 and Bureee, who have not seriously improved in Sri Lankan literary culture, has won a very popularity.
-
-I talk to him as a notener as a novelist and his own understanding and writing.
-
-The questions I hear in this discussion is currently published by I have expressed the 'history of Nimna' (2019) and the novels of this secret wind.
-
-It is well known for all writer's writing process.
-
-Where writing, writing, writing, how to write and writing coffee, belong to the writer's abundance. The conversation is seeking to pointer to that secret site of the newcomers.
-
-The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
-
-Each: As usual, you ask you to the inauguration moment of writing. ඔබේ නවකතා වල පළමු වාක්‍ය ලියවුණු ආකාරය ගැන යමක් කියන්න පුළුවන්ද?
-
-...
-
-[Data](articles/cd659265.json)
-
-[Extended Data](ext_articles/cd659265.ext.json)
 
 ---

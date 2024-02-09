@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 16:48:53**
+As of **2024-02-09 17:02:28**
 
 ## Newspaper Stats
 
-*Scraped **5,950** Articles*
+*Scraped **5,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ adalk | 497
 tamilmirrorlk | 731
 virakesarilk | 734
 adaderanalk | 737
-adaderanasinhalalk | 791
+adaderanasinhalalk | 793
 dailymirrorlk | 851
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,950 (100.0%) of 5,950 articles have been extended.
+5,950 (100.0%) of 5,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### එක්ස්ප්‍රස් පර්ල් සිද්ධියට අදාළ පෙත්සමක් නිෂ්ප්‍රභ කෙරේ
+
+*2024-02-09 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193176) · `si`
+
+එක්ස්ප්‍රස් පර්ල් නෞකාව ගිනි ගැනීමේ සිද්ධිය හේතුවෙන් සිදු වූ හානිය වෙනුවෙන් වන්දි අය කර දෙන නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ධීවර ප්‍රජාව විසින් ඉදිරිපත් කළ පෙත්සමක් කොළඹ වාණිජ මහාධිකරණය විසින් අද (09) නිෂ්ප්‍රභ කළේ ය.
+
+කොළඹ වාණිජ මහාධිකරණ විනිසුරු ප්‍රදීප් හෙට්ටිආරච්චි මහතා විසින් මෙම තීන්දුව ලබා දී ඇත.
+
+මීට පෙර අදාළ පෙත්සම සලකා බැලූ අවස්ථාවේ දී ධීවර ප්‍රජාව වෙනුවෙන් පෙනී සිටි නීතිඥ හිමාලි කුලරත්න මෙනෙවිය අධිකරණය හමුවේ කරුණු දක්වමින් මෙම නෞකා අනතුර හේතුවෙන් ධීවර පවුල් 20,000 කට අධික සංඛ්‍යාවක් අගතියට පත් ව සිටින බව සඳහන් කර තිබිණි.
+
+අදාළ නෞකා සමාගමේ නොසැලිකිලිමත් හා වගකීමකින් තොර ක්‍රියා කලාපය හේතුවෙන් මෙම තත්ත්වය උද්ගත වූ බව සඳහන් කළ නීතිඥවරිය, ඒ අනුව පෙත්සම විභාගයට ගැනීම සඳහා නොතීසි නිකුත් කරන ලෙස අධිකරණයෙන් ඉල්ලා තිබිණි.
+
+ඒ අනුව අද දින නියෝගය ප්‍රකාශයට පත් කරමින් විනිසුරුවරයා සඳහන් කළේ, අදාළ පෙත්සම විභාගයට ගැනීම සඳහා නොතිසි නිකුත් කිරීමකින් තොර ව එය නිෂ්ප්‍රභ කිරීමට නියෝග කරන බවයි.
+
+...
+
+[Data](articles/39a44ad2.json)
+
+---
+
+### නැති වූ ටී 56 උණ්ඩ කඳවුරේ කාණුවකින් මතුවෙයි
+
+*2024-02-09 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193175) · `si`
+
+අස්ථානගතව තිබූ හමුදා පොලිස්හේවා බළකායට අයත් ටී 56 අවියේ මැගසීනය සොයා ගෙන තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් යුද හමුදා මාධ්‍ය ඒකකය මේ බව සඳහන් කර ඇත.
+
+පොල්හේන්ගොඩ යුද්ධ හමුදා පොලිස්හේවා බළකා කඳවුරේ තිබූ ටී 56 උණ්ඩ 30ක් සහිත මැගසීනය යුද හමුදා පොලිස් හේවා බළකා කඳවුරේ ජලය බැසයන යන කාණුවක තිබී හමුව ඇත.
+
+අද (09) සිදුකළ විශේෂ සෝදිසියක දී මෙහෙයුමකදී අතුරුදන්ව තිබූ මෙම මැගසීනය උණ්ඩ 30ත් සමග සිවිල් කාර්ය මණ්ඩලය භාවිත කරන සනීපාරක්ෂක පද්ධතිය අසල ජලය බැසයන කාණුව තුළ තිබී සොයාගෙන ඇත.
+
+සිදුවීම සම්බන්ධයෙන් ඉදිරි විමර්ශන යුද හමුදා පොලීසිය හා කිරුළපන පොලීසිය සිදුකරයි.
+
+◼️
+
+[Data](articles/71e2a22e.json)
+
+---
 
 ### New Army Commander to Ukraine
 
@@ -2005,45 +2045,5 @@ Two persons, including a Thera of Weliweri, have been arrested by Koslanda polic
 [Data](articles/c77f2ec1.json)
 
 [Extended Data](ext_articles/c77f2ec1.ext.json)
-
----
-
-### Maldivian force chief visits Sri Lanka
-
-*2024-02-09 02:44:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாலைதீவு-படை-பிரதானி-இலங்கைக்கு-வருகை/175-332933) · `ta`
-
-Lieutenant General Abdul Rahim Abdul, Chief of Maldives, has visited the country.
-
-He has met the Secretary of Defense, Kamal Gunaratne, the Ministry of Defense said.
-
-Security Service Orders and Staff have visited the Maldives' security forces at the invitation of the college. (A)
-
-◼️
-
-[Data](articles/bf891744.json)
-
-[Extended Data](ext_articles/bf891744.ext.json)
-
----
-
-### Model lecturers do not repay the loan
-
-*2024-02-09 02:34:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விரிவுரையாளர்கள்-கடனை-மீள-செலுத்தவில்லை/175-332932) · `ta`
-
-Justice Minister Wijeyadasa Rajapakse said that many university lecturers who have borrowed 1300 million rupees through state banks to go abroad for higher education have failed to repay it.
-
-Responding to a question raised by Opposition Leader Sajith Premadasa on Thursday in Parliament yesterday, he added that he said.
-
-The People's Bank and the Bank of Ceylon were launched to improve the country's national economy. Various measures have been taken to improve the agriculture and industrial sector in particular through those banks.
-
-During the period of Srimavo Bandaranaike, all agricultural institutions were operating the Bank of Ceylon Branch. The banks have carried out a lending process for the people living in their respective areas for their agricultural activities.
-
-Accordingly, the Bank of Ceylon and the People's Bank of Sri Lanka have not been repaid by the borrowers of 602 billion rupees in the third phase of loans.
-
-...
-
-[Data](articles/0ce4e6a5.json)
-
-[Extended Data](ext_articles/0ce4e6a5.ext.json)
 
 ---

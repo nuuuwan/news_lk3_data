@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 20:02:20**
+As of **2024-02-09 20:17:26**
 
 ## Newspaper Stats
 
@@ -36,15 +36,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-02-09 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97149/beliatta-mass-shooting-suspect-arrested-with-t-56-magazine) · `en`
 
-The Colombo Crimes Division (CCD) has arrested a person along with a T-56 magazine, which is suspected to have been used in the Beliatta mass shooting in which five people were killed.
+The Colombo Crimes Division (CCD) has arrested a man who was in possession of a T-56 magazine, which is suspected to have been used in the Beliatta mass shooting in which five people were killed.
 
-The shooting took place on January 23 near the Beliatta interchange of the Southern Expressway.
+Police stated that the suspect, identified as “Samika”, is a close associate of organized criminal notoriously known as “Kosgoda Sujee”.
 
-A group of assailants in an SUV had opened fire at a white Defender, killing four persons at the scene. The fifth person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, but he was pronounced dead shortly after.
+Police have also taken custody of 32 rounds of live ammunition and a magazine of the firearm which is suspected to have been used in the crime, hidden in a cinnamon field behind the arrested suspect’s house.
 
-Among the deceased was the leader of “Ape Jana Bala Pakshaya” (Our Power of People Party or OPPP) Saman Perera. The other four victims were identified as Sameera Madhusanka, Hasitha Chinsuka, Buddhika Rajapaksha, and Nalin Champika.
+Investigations have revealed that the relevant firearm was provided to the suspect by “Kosgoda Sujee”.
 
-The SUV used in the shooting was later found while parked near the Vidyaloka Pirivena in Galle.
+Furthermore, police have uncovered that the suspect in question, who joined the Sri Lanka Light Infantry in 2008, had been absent from duty without permission since 2009. Police also revealed that he is now a drug addict.
 
 ...
 

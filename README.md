@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 20:49:28**
+As of **2024-02-09 21:02:26**
 
 ## Newspaper Stats
 
-*Scraped **6,002** Articles*
+*Scraped **6,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,74 +17,134 @@ dailyftlk | 332
 newsfirstlk | 363
 adalk | 504
 tamilmirrorlk | 735
-adaderanalk | 742
+adaderanalk | 743
 virakesarilk | 743
 adaderanasinhalalk | 803
-dailymirrorlk | 857
+dailymirrorlk | 859
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,990 (99.8%) of 6,002 articles have been extended.
+6,001 (99.9%) of 6,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### මැද පෙරදිග ගැටුම් අවසන් වනතෙක් ආසියාව අස්ථාවරයි -ජනපති
+### Pakistan election 2024: Imran Khan-backed candidates take lead
+
+*2024-02-09 20:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pakistan-election-2024-Imran-Khan-backed-candidates-take-lead/108-276686) · `en`
+
+Pakistan, Feb 09 - With Imran Khan’s PTI-backed independent candidates taking the lead, Pakistan Muslim League-Nawaz (PML-N) chief Nawaz Sharif said that his party did not have the numbers to form the government, adding that it would have been good if they had a clear majority, Reuters reported.
+
+Ruling out any alliance with the PML-N or Bilawal Bhutto’s PPP, PTI chairman Gohar Ali Khan said that they would “form the government at the Centre and Punjab,” as per Associated Press.
+
+The counting of votes for the Pakistan general elections was underway on Friday. The polling had begun at 8.30 am (IST) on Thursday and continued till 5.30 pm, amid allegations of rigging, sporadic violence and a countrywide mobile phone shutdown.
+
+Jailed Imran Khan's party, PTI, claimed victory in the general elections while alleging that results were being delayed to rig the outcome. In a statement, the party also asked PML-N's supreme leader Nawaz Sharif, to concede defeat.
+
+...
+
+[Data](articles/f31407c5.json)
+
+---
+
+### Asia is unstable to the end of the Middle East
 
 *2024-02-09 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193187) · `si`
 
-ලොව ප්‍රබල රාජ්‍යයන්ගේ බල සමතුලිතතාව මත ඉන්දියන් සාගරයේ හමුදාකරණය ඉහළ යමින් පවතින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe says that militaryization of militarization is on the rise in the power of the world's powerful states.
 
-ඔස්ට්‍රේලියාවේ පර්ත් නුවරදී ඇරඹුණු 7 වැනි ඉන්දිය සාගර සමුළුව අමතමින් ජනාධිපතිවරයා වැඩිදුරටත් සඳහන් කරන්නේ, ඉන්දීය සාගර කලාපයේ ස්ථාවරභාවය ඇතිකිරීම සඳහා ගාසා තීරයේ යුද්ධය කඩිනමින් නිමා කිරීම අත්‍යවශ්‍ය බවය.
+The President further stated that the 7th Indians found in Perth in Parath, the President said that the war was essential to establish the war in Gaza.
 
-7 වැනි ඉන්දිය සාගර සමුළුව ඔස්ට්‍රේලියාවේ පර්ත් නුවරදී අද ඇරඹුණි.
+The 7th Indians' Summit commenced today in Perth, Australia.
 
-එහි ප්‍රධාන ආරාධිතයන් ලෙස ශ්‍රී ලංකා ජනාධිපති රනිල් වික්‍රමසිංහ, ඉන්දිය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්.ජයිශංකර්, ඕස්ට්‍රේලියානු විදේශ කටයුතු අමාත්‍ය පෙනී වොන්ග් සහ සිංගප්පූරු විදේශ කටයුතු අමාත්‍ය විවියන් බාලක්‍රිෂ්ණන් යන මහත්ම මහත්මීන් සහභාගී වේ.
+Sri Lankan President Ranil Wickremesinghe, Indian Foreign Minister Dr. S. S. S. S. S. S. S. S. S. S. SJ Signs, Australian External Affairs Minister Pita Wong and Singapore Foreign Minister Vivian Balakrishnan participation.
 
-සමුළුවට පැමිණි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උණුසුම් ලෙස පිළිගනු ලැබුවේ ඔස්ට්‍රේලියානු විදේශ කටයුතු ඇමති පෙනී වොන්ග් මහත්මිය විසිනි.
+President Ranil Wickremesinghe was warmly welcomed by Australian External Affairs Minister Pitha Vong.
 
-සමුළුව අමතා සිය ප්‍රධාන දේශනය සිදුකළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් පෙන්වා දුන්නේ, ඉන්දියන් සාගරය තුළ පවතින තීරණාත්මක ගැටලු විසඳා ගැනීම වෙනුවෙන් ක්‍රියාත්මක වීමට පුළුල් කලාපීය සැලැස්මක් අවශ්‍ය බවය.
+Addressing his keynote address, President Ranil Wickremesinghe further pointed out that a wide zone plan needed to solve the decisive problems in the Indian Ocean.
+
+The President pointed out that only the leaders of the Union of India (IORA) in the Indian Ocean Regional Based on the Indian Ocean Regional Language.
 
 ...
 
 [Data](articles/4961a843.json)
 
+[Extended Data](ext_articles/4961a843.ext.json)
+
 ---
 
-### පාකිස්තාන මහමැතිවරණයේ වැඩි වාසි ඉම්රාන් ඛාන්ට
+### Imran Khan in Pakistani General Elections
 
 *2024-02-09 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193186) · `si`
 
-පාකිස්තානයේ දූෂිතම මහමැතිවරණය ලෙස විශේෂඥයන් අර්ථකථනය කළ එරට මෙවර මහමැතිවරණයේ ප්‍රතිඵල මේ වන විට නිකුත් වෙමින් පවතියි.
+The results of this year's general election this year's general election is being released as the corrupt general election of Pakistan.
 
-දැනට නිකුත් වී ඇති ඡන්ද ප්‍රතිඵල අතුරින් මේ වනවිට ඉදිරියෙන් සිටින්නේ, ස්වාධීන ව මැතිවරණයට ඉදිරිපත් වූ දැනට සිරගත ව සිටින එරට හිටපු අගමැති ඉම්රාන් ඛාන්ගේ පක්ෂයේ අපේක්ෂකයින් වීම විශේෂත්වයකි.
+Of the results of the election, it is noteworthy that the candidates of the former Prime Minister Imran Khan's party is currently in prison.
 
-දුරකථන සබඳතා, අන්තර්ජාල සබඳතා පවා විසන්ධි කොට ඊයේ (08) පැවති පාකිස්තාන මහමැතිවරණයේ ඡන්ද ප්‍රතිඵල මේ වන විට නිකුත් වෙමින් පවති‍යි.
+The results of the Pakistani General Election of Pakistani yesterday (08) have been released.
 
-මැතිවරණ ආසන 265න් 122ක ප්‍රතිඵල දැනට නිකුත් කර ඇති අතර, ඉන් ආසන 49ක ජය තහවුරු කර ගැනීමට, සිරගත ව සිටින ඉම්රාන් ඛාන්ගේ පක්ෂයට සහාය දක්වන අපේක්ෂකයන් සමත් වී තිබීම විශේෂත්වයකි.
+The results of 122 electoral seats have been released, and the candidates have been able to confirm the win of 49 seats.
 
-එරට හිටපු අගමැතිවරයෙකු වන නවාස් ශරීෆ් ආසන 39ක් දිනා ඇති අතර, ඝාතනයට ලක් වූ හිටපු අගමැතිනි බෙනාසීර් භූතෝගේ පක්ෂය දිනා ඇත්තේ ආසන 30ක් පමණි.
+A former Prime Minister of the country has won 39 seats and has won only 30 seats.
 
-...
+Although the Pakistan Elections Commission says that the Elections Commission says that there is an extent of issuing the results of the Internet bugs, but the candidates who are indefinated, the candidates are independent of the voting results delay the deliberate results.
+
+◼️
 
 [Data](articles/a7f5ce89.json)
 
+[Extended Data](ext_articles/a7f5ce89.ext.json)
+
 ---
 
-### கேரளா கைத்தொழில் அமைச்சர் ராஜீவை சந்தித்த அநுர குமார திசாநாயக்க உள்ளிட்ட பிரதிநிதிகள் குழுவினர்
+### Harsha de Silva reappointed as COPF chairman
+
+*2024-02-09 20:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97150/harsha-de-silva-reappointed-as-copf-chairman) · `en`
+
+Member of Parliament Dr. Harsha de Silva has been reappointed as the chairperson of the Committee on Public Finance (COPF).
+
+The Committee of Selection had nominated MPs to serve in the COPF and, as such, de Silva was selected yet again as the committee’s chair.
+
+Earlier today (Feb.09), during the parliamentary session, Speaker Mahinda Yapa Abeywardena announced members nominated to the COPF.
+
+◼️
+
+[Data](articles/d38f465f.json)
+
+---
+
+### Train derailment halts up-country line operations
+
+*2024-02-09 20:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-derailment-halts-up-country-line-operations/108-276684) · `en`
+
+Watawala, Feb 09 (Daily Mirror) -  Sri Lanka Railways has announced a disruption in railway operations along the Up-country Line due to a derailment near Ihala Watawala railway station.
+
+The incident occurred this evening (Feb. 09) and has affected the slow train route from Nawalapitiya to Nanu Oya, derailing between Ihala Watawala and Rozella railway stations, as confirmed by the Railway Department.
+
+◼️
+
+[Data](articles/cd11a0c8.json)
+
+---
+
+### Representatives including Anura Kumara Dissanayake, who met Kerala Industries Minister Rajiv
 
 *2024-02-09 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176001) · `ta`
 
-இந்திய அரசாங்கத்தின் உத்தியோகபூர்வ அழைப்பின்பேரில் அந்நாட்டுக்கான  விஜயத்தை மேற்கொண்டுள்ள தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க உள்ளிட்ட பிரதிநிதிகள் குழு கலந்துகொள்கின்ற இந்திய விஜயத்தின் ஐந்தாவதும் இறுதியுமான நாள் இன்றாகும்.
+Today is the fifth and final day of the Indian visit to the Indian government, including the President of the National People's Power, Anura Kumara Dissanayake, who is on a visit to the country.
 
-இந்தியாவின் கமியூனிஸ்ட் கட்சியை (CPIM-Kerala) முதன்மையாகக்கொண்ட இடதுசாரிக் கூட்டமைப்பினால் அதிகாரம் வகிக்கப்படுகின்ற கேரளா மாநிலத்திலேயே இன்று அவர்கள் சுற்றுப்பயணம் மேற்கொண்டார்கள்.  மூன்று கோடியே ஐம்பது இலட்சத்திற்கு மேற்பட்ட சனத்தொகையைக் கொண்ட கேரளா மாநிலம் கல்வி மற்றும் சுகாதாரம் ஆகிய துறைகளில் வேகமான முன்னேற்றமடைந்துள்ளது.  குறிப்பாக இந்தியாவின் தகவல் தொழில்நுட்பத் துறையில் அதியுயர் இடத்தை கேரளா உரித்தாக்கிக் கொண்டுள்ளது.
+They toured the state of Kerala today, which is empowered by the Left Federation, which is primarily the CPIM-Kerala.The state of Kerala, which has over three crore and fifty lakhs of people, has made a rapid improvement in the fields of education and health.In particular, Kerala has made the highest space in the field of information technology in India.
+
+National People's Power President Anura Kumara Dissanayake, including the leader of the National People's Power, met with the Minister of State for Industry and Law in the Kerala capital of Thiruvananthapuram on Friday (09).Minister Rajiv is a member of the Central Executive Committee of the Indian Communist Party and is a legal graduate of the party's student body.
 
 ...
 
 [Data](articles/e5993086.json)
+
+[Extended Data](ext_articles/e5993086.ext.json)
 
 ---
 
@@ -186,19 +246,23 @@ Harsha de Silva has been re -appointed as the Chairman of the Committee of State
 
 ---
 
-### பொருளாதார நெருக்கடியிலிருந்து மீண்டு விட்டோம் என்பது பேச்சுக்கு மாத்திரம் வரையறுக்கப்பட்டுள்ளது - ரஞ்சித் மத்தும பண்டார
+### Ranjith Mathuma Bandara is limited to speech that we have recovered from the economic crisis -
 
 *2024-02-09 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176000) · `ta`
 
-பொருளாதார நெருக்கடியிலிருந்து மீண்டு விட்டோம் என்று ஜனாதிபதி குறிப்பிடுவது பேச்சுக்கு மாத்திரம் வரையறுக்கப்பட்டுள்ளது. நாட்டு மக்கள் இன்றும் ஏழ்மையில் தான் உள்ளார்கள். மக்களின் உரிமைகளை முடக்குவதற்காகவே  சட்டங்கள் இயற்றப்படுகின்றன. ஜனநாயகத்துக்கு எதிரான அரசாங்கத்தின் செயற்பாடுகள் அரசாங்கத்துக்கே எதிராக அமையும் என ஐக்கிய மக்கள் சக்தியின் பொதுச்செயலாளரும், பாராளுமன்ற உறுப்பினரான ரஞ்சித் மத்தும பண்டார தெரிவித்தார்.
+The president's claim that we have recovered from the economic crisis is limited to speech. The people of the country are still poor today. Laws are enacted to disrupt people's rights. United People's Power General Secretary and Member of Parliament Ranjith Mathuma Bandara said the government's actions against democracy would be against the government.
 
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை (9) இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரை மீதான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking at the adjournment debate on the President's Policy Declaration of the President on Friday (9) in Parliament.
 
-பொருளாதார நெருக்கடியிலிருந்து நாட்டை மீட்டு விட்டதாக ஜனாதிபதி குறிப்பிடுகிறார். ஆனால் நாட்டு மக்கள் இன்றும் ஏழ்மையில் தான் உள்ளார்கள்.ஜனாதிபதியின் உரையை  ஆளும் தரப்பினர்  கரகோசித்து வரவேற்கிறார்கள். பொருளாதார நெருக்கடியை ஏற்படுத்தியது யார் ? நாட்டை வங்குரோத்து நிலைக்குத் தள்ளியது யார் என்பது தற்போது மறக்கடிக்கப்பட்டுள்ளது.
+The president notes that the country has been recovered from the economic crisis. But the people of the country are still poor today.. Who caused the economic crisis?It is now forgotten who has put the country into a bankruptcy.
+
+The government, which came to power in 2020, launched the damage project instead of chemical fertilizer use, declined the entire agriculture sector.. Farmers have lost the income of four farming. No acceptable relief to the affected farmers has not yet been provided.
 
 ...
 
 [Data](articles/9adcf2af.json)
+
+[Extended Data](ext_articles/9adcf2af.ext.json)
 
 ---
 
@@ -441,6 +505,8 @@ A bond maturing on 01.07.2032 closed at 12.50/90 percent down from 12.80/13.05 p
 ◼️
 
 [Data](articles/08a1aef2.json)
+
+[Extended Data](ext_articles/08a1aef2.ext.json)
 
 ---
 
@@ -775,6 +841,8 @@ There was a net foreign outflow of 45 million. (Colombo/Feb9/2024).
 ◼️
 
 [Data](articles/7a633767.json)
+
+[Extended Data](ext_articles/7a633767.ext.json)
 
 ---
 
@@ -1188,6 +1256,8 @@ The Commission said that it had highlighted in a previous communication that law
 
 [Data](articles/f7d8a506.json)
 
+[Extended Data](ext_articles/f7d8a506.ext.json)
+
 ---
 
 ### Law reforms for system change: SJB Lawyers Federation to Propose 117 Reforms
@@ -1272,6 +1342,8 @@ Sabry and President Ranil Wickremesinghe are in Perth for the Indian Ocean Confe
 
 [Data](articles/a04675ea.json)
 
+[Extended Data](ext_articles/a04675ea.ext.json)
+
 ---
 
 ### Paddy purchasing prices will be produced in the Maha Season
@@ -1321,6 +1393,8 @@ Sri Lanka minister hopes to reduce fuel prices after March with boosted energy s
 ◼️
 
 [Data](articles/bbe9f675.json)
+
+[Extended Data](ext_articles/bbe9f675.ext.json)
 
 ---
 
@@ -1565,6 +1639,8 @@ Artificial intelligence programs, such as ChatGPT, have been able to write artic
 ...
 
 [Data](articles/44aa0df0.json)
+
+[Extended Data](ext_articles/44aa0df0.ext.json)
 
 ---
 
@@ -1878,6 +1954,8 @@ Wijesekera is in India to participate at the 2nd edition of the India Energy Wee
 
 [Data](articles/64237a30.json)
 
+[Extended Data](ext_articles/64237a30.ext.json)
+
 ---
 
 ### 15 hours of water in Colombo tomorrow
@@ -1973,71 +2051,5 @@ The Colombo Stock Exchange opened up; The All Share Price Index was up 0.13 perc
 ◼️
 
 [Data](articles/7d8c97cf.json)
-
----
-
-### 15-hour water cut in parts of Colombo tomorrow
-
-*2024-02-09 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97134/15-hour-water-cut-in-parts-of-colombo-tomorrow) · `en`
-
-The water supply for parts of Colombo will be suspended on Saturday (Feb.10) for a period of 15 hours, the National Water Supply & Drainage Board (NWSDB) says.
-
-Water cut will be in place from 5:00 p.m. tomorrow until 08:00 a.m. on Sunday (Feb.11).
-
-According to the NWSDB, Colombo 11, 12, 13, 14 and 15 areas are supposed to be affected by the water cut, which is being imposed due to essential maintenance work planned under the Ambatale Water Supply System Improvements and Energy Saving Project.
-
-◼️
-
-[Data](articles/b00371c6.json)
-
-[Extended Data](ext_articles/b00371c6.ext.json)
-
----
-
-### Sri Lanka mulls extension of visa-free access to Indian tourists
-
-*2024-02-09 10:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-mulls-extension-of-visa-free-access-to-Indian-tourists/108-276658) · `en`
-
-Colombo, Feb 09 (PTI) - Sri Lanka is likely to extend visa exemption status for India after March to keep attracting travellers from the country and encourage repeat visits, Tourism and Lands, Sports and Youth Affairs Minister Harin Fernando said on Thursday.
-
-“India is our number one source market and tourists from India helped our country on its path of recovery from the recent crisis we faced,” Fernando said in a session at OTM 2024.
-
-Sri Lanka facilitated visa-free entry for Indian travellers from December 2023 to March. “We are working on extending it beyond March. We want to make Sri Lanka an easily accessible destination for Indians, who can just walk into our country for a hassle free holiday,” he said.
-
-By offering visa exemption to Indians, Sri Lanka will attract more footfalls, especially those who make last-minute plans and find visa process a hindrance, he said.
-
-...
-
-[Data](articles/487b991a.json)
-
-[Extended Data](ext_articles/487b991a.ext.json)
-
----
-
-### Talangamulla Jayasinghe: Departure of a massive dedicated to 60 years for cartoon
-
-*2024-02-09 10:01:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy6evpn9129o) · `si`
-
-Talangamulla Jayasinghe: Departure of a massive dedicated to 60 years for cartoon
-
-With the death of a chapter, cartoon, poet, Talangagama Jayasinghe, as a chapter, a poet, a biblical journalist, has been marked with the death of the popular journalist Talangagama Jayasinghe.
-
-On February 7, he was 88 years old when he finished his life.
-
-He became more publicity among the people, as a newspaper cartoonist and a graphical designer.
-
-Talangagam Jayasinghe was born in Thalangama. On July 5, 1936, the name of his birth certificate was the name of his birth certificate, George Edmund Jayasinghe.
-
-The name he set for his father was born before independence, before the English colonial season.
-
-In close association with Talangagama Jayasinghe says that he wanted to change his name as he did not want to name his father.
-
-However, he did not want to change his name until the father of the father was alive and the father of 1955, "Thalangagama Jayasinghe '.
-
-...
-
-[Data](articles/89e83ad7.json)
-
-[Extended Data](ext_articles/89e83ad7.ext.json)
 
 ---

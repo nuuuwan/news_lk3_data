@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 01:49:57**
+As of **2024-02-10 02:02:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 868
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,042 (100.0%) of 6,045 articles have been extended.
+6,045 (100.0%) of 6,045 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -494,19 +494,25 @@ The President of the Janatha Vimukthi Peramuna (JVP) has recommended that Ananda
 
 ---
 
-### தற்போதைய முன்னேற்றம் நிலையில்லாவிடில் எதிர்மறையான விளைவுகள் தோற்றம் பெறும் - ஹர்ஷ டி சில்வா
+### The appearance of negative effects if the current improvement is not stable - Harsha de Silva
 
 *2024-02-09 22:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176004) · `ta`
 
-சர்வதேச நாணய நிதியத்தின் ஒத்துழைப்பைத் தொடர்ந்து நாட்டின் பொருளாதாரம் ஸ்திரமடைந்துள்ளது என்பதை ஏற்றுக்கொண்டுள்ளோம்.தற்போதைய முன்னேற்றம் நிலையானதாக அமையாவிடின் எதிர்மறையான விளைவுகளை எதிர்கொள்ள நேரிடும்.சந்தைப்படுத்தல் பொருளாதாரம் குறித்து அரசாங்கம் விசேட கவனம் செலுத்த வேண்டும்.வெகு விரைவில் சிறந்த திட்டங்களை வெளியிடுவோம் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+Following the cooperation of the IMF, we have accepted that the country's economy has been stabilized.
 
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை (9) இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரை மீதான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking at the adjournment debate on the President's Policy Declaration of the President on Friday (9) in Parliament.
 
-சர்வதேச நாணய நிதியத்தின் ஒத்துழைப்பைத் தொடர்ந்து நாட்டின் நிதி நிலைமை ஸ்திரமடைந்துள்ளது என்பதை ஏற்றுக்கொள்கிறோம்.பொருளாதாரத்தை ஸ்திரப்படுத்தலுக்காக அமுல்படுத்தப்பட்ட  தவறான தீர்மானங்களினால் தேசிய பொருளாதாரம் ஒடுக்கப்பட்டுள்ளது.தொழிலின்மை தீவிரமடைந்துள்ளதுடன் சிறு மற்றும் நடுத்தர கைத்தொழில் முயற்சியாளர்கள் பாதிக்கப்பட்டுள்ளார்கள்.பொருளாதாரத்தின் இயந்திரம் செயலிழந்துள்ளது.
+Following the cooperation of the IMF, we accept that the country's financial situation is stability. The national economy has been suppressed by the wrong decisions implemented for the stabilization of the economy.
+
+The economy has doubled due to the government's resolutions for economic impact.. Are struggling. The current stability is temporary.
+
+In order to achieve stable economic stability, the social marketing economy is implemented by the economy. Personal freedom is essential in economic affairs. Economic independence must be ensured if the industry and the veterans are to be promoted.
 
 ...
 
 [Data](articles/345c33bb.json)
+
+[Extended Data](ext_articles/345c33bb.ext.json)
 
 ---
 
@@ -580,25 +586,31 @@ India confirmed their spot in the final after beating hosts South Africa by two 
 
 ---
 
-### இந்தியாவுடன் பேச்சுவார்த்தை நடத்த ஐக்கிய மக்கள் சக்தி தயாராகி வருவதாக வெளிவரும் செய்திகள் முற்றிலும் போலியானவை - சுஜீவ சேனசிங்க
+### News that the United People's Power is preparing to negotiate with India is completely fake - Sujeeva Senasinghe
 
 *2024-02-09 21:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175992) · `ta`
 
-இந்தியாவுடன் பேச்சுவார்த்தை நடத்த ஐக்கிய மக்கள் சக்தி தயாராகி வருவதாக செய்திகள் வெளியாகியிருந்தன. இந்த செய்தி முற்றிலும் தவறானது.பொய்யானது. ஐக்கிய மக்கள் சக்திக்கு அவ்வாறான தேவைப்பாடு ஒன்று இல்லையென சுஜீவ சேனசிங்க தெரிவித்தார்.
+There were reports that the United People's Power is preparing to negotiate with India. This message is completely incorrect.. Sujeewa Senasinghe said that there is no such need for the United People's Power.
 
-எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் நடந்த இன்றைய(09) ஊடக சந்திப்பிலயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+He said this at a press conference held at the Opposition Leader's office today (09).
 
-ஜனாதிபதி தேர்தலில் பரந்த கூட்டணியுடன் இணைந்து போட்டியிட ஐக்கிய மக்கள் சக்தி தயார்.நாட்டுக்கு பங்களிக்க கூடியவர்கள் ஐக்கிய மக்கள் கூட்டணியில் இணைந்து வருகின்றனர்.
+The United People's Power is preparing to contest the presidential election with a vast coalition.
 
-திருடர்கள்,கொள்ளையர்கள், இனவாதிகள் கூட்டணியில் இணைத்துக் கொள்ளப்பட மாட்டார்கள்.பணிகளைச் செய்யக்கூடிய படித்த, அனுபவமுள்ளவர்களையே இணைத்து வருகிறோம்.
+Thieves, robbers and racists will not be joined into the coalition.
 
-சஜித் பிரேமதாச ஊழலுக்கும் மோசடிக்கும் எதிரானவர் என்பதாலும் மக்களுக்காக பணியாற்றுவதாலுமே சஜித் பிரேமதாசவை அனைவரும் ஆதரிக்கின்றனர்.
+Sajith Premadasa supports Sajith Premadasa because Sajith is against corruption and fraud.
 
-ஊழலுக்கும்,மோசடிக்கும் எதிராக குரல் கொடுக்கும் செயற்படும் ஒரு தலைவன், நாட்டின் தலைவராக வந்தால்,நாட்டை முன்னோக்கி கொண்டு செல்ல முடியும். 1994 இல் இருந்து இப்படியொரு தலைவர் நாட்டில் தோன்றவில்லை.
+A leader who voices against corruption and fraud can come forward as the country's head. Since 1994, such a leader has not appeared in the country.
+
+There were reports that the United People's Power is preparing to negotiate with India. This message is completely incorrect.. There is no such need for the United People's Power.
+
+The United People's Power is working closely with India and Indian leaders. India wants to see Sri Lanka that is developing.
 
 ...
 
 [Data](articles/1647c447.json)
+
+[Extended Data](ext_articles/1647c447.ext.json)
 
 ---
 
@@ -638,19 +650,23 @@ In addition, the President also emphasized initiatives, such as the Tropical Cli
 
 ---
 
-### பொருளாதார மீட்சிக்கு ஜனாதிபதி எடுக்கும் தீர்மானங்களுக்கு முழுமையான ஒத்துழைப்பு வழங்குவோம் - பிரதமர்
+### We will cooperate completely to the President's decisions for the economic recovery - the Prime Minister
 
 *2024-02-09 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175970) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தலைமைத்துவத்தினால் நாடு தற்போது இயல்பு நிலைக்கு திரும்பியுள்ளது. பொருளாதாரம் ஸ்திரமடைந்துள்ளது. ஆகவே, பொருளாதார மீட்சிக்கு ஜனாதிபதி எடுக்கும் சகல தீர்மானங்களுக்கும் ஒத்துழைப்பு வழங்குவோம் என பிரதமர் தினேஷ் குணவர்தன தெரிவித்தார்.
+The country is now back to normal by the leadership of President Ranil Wickremesinghe. The economy is stabilized. Prime Minister Dinesh Gunawardena said that the President would cooperate with all the resolutions the President would take on the economic recovery.
 
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை (09)  இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரை மீதான சபை ஒத்திவைப்பு விவாத்தில் உரையாற்றுகையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking at the adjournment debate on the President's Declaration of the President on Friday (09) in Parliament.
 
-கடந்த இரண்டாண்டு காலமாக நாடு மிக  மோசமான பொருளாதார நெருக்கடிகளையும், அரசியலமைப்பு ரீதியிலான நெருக்கடிகளையும் எதிர்க்கொண்டது. பொருளாதார நெருக்கடிக்கு தீர்வு காண்பதற்கு ஜனாதிபதிக்கு முழுமையான ஒத்துழைப்பு வழங்கினோம். 2022 ஆம் ஆண்டு பெப்ரவரி மாதத்தை காட்டிலும் நாடு தற்போது இயல்பு நிலைக்கு திரும்பியுள்ளது.
+Over the past two years, the country has been opposed to the worst economic crises and constitutional crises. We gave full cooperation to the president to resolve the economic crisis. The country is now back to normal than February 2022.
+
+Food and non -food inflation found at last year's double -digit is currently stabilized to a single digit. We will continue to cooperate with all the resolutions the president's decision to the economic recovery. Service sectors including tourism and agriculture have improved.
 
 ...
 
 [Data](articles/1dce2f55.json)
+
+[Extended Data](ext_articles/1dce2f55.ext.json)
 
 ---
 

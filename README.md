@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 04:17:22**
+As of **2024-02-10 04:32:54**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ dailymirrorlk | 868
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,046 (100.0%) of 6,048 articles have been extended.
+6,048 (100.0%) of 6,048 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
 
-### கேரளா அமைச்சருடன் அனுர சந்திப்பு
+### Anura meets with Kerala Minister
 
 *2024-02-10 03:29:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேரளா-அமைச்சருடன்-அனுர-சந்திப்பு/175-332960) · `ta`
 
-இந்தியா சென்றுள்ள தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திசாநாயக்க உள்ளிட்ட குழுவினர் நேற்று கேரளா மாநிலத்தின் தொழில்துறை அமைச்சர் பி.ராஜிவை சந்தித்துள்ளனர்.
+The National People's Power Leader Anura Kumara Dissanayake, who has visited India, met with the Minister of Industry of Kerala P. Rajiv yesterday.
 
-ஐந்து நாள்கள் விஜயம் மேற்கொண்டு இந்தியா சென்றுள்ள தேசிய மக்கள் சக்தியின் தலைவர் அநுரகுமார திசநாயக்க உள்ளிட்ட குழுவினர் நேற்றைய இறுதி நாளில் இந்தியாவின் கம்யூனிஸ்ட் கட்சி ஆட்சி நிலவும் கேரளாவிற்கு சென்றிருந்தனர்.
+The Communist Party of India's Communist Party of India, including the leader of the National People's Power, Anura Kumara Dissanayake, who visited India for five days, visited Kerala in India yesterday.
 
 ◼️
 
 [Data](articles/5a48d410.json)
+
+[Extended Data](ext_articles/5a48d410.ext.json)
 
 ---
 
@@ -682,19 +684,23 @@ In addition, the President also emphasized initiatives, such as the Tropical Cli
 
 ---
 
-### உயிர்காப்பு ஆரம்ப சிகிச்சைகளை வழங்கும் "டெலிமெடிசின்" வேலைத்திட்டம் ஹொரனையில் ஆரம்பம்
+### "Telemedicin" program that provides early treatments in Hoorane
 
 *2024-02-09 21:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175975) · `ta`
 
-அவசர சிகிச்சைப் பிரிவில் அனுமதிக்கப்படும் நோயாளர்களுக்கு ஆரம்ப வைத்தியசாலைகளில் நவீன தொழில்நுட்ப சாதனத்தைப் பயன்படுத்தி உயிர்காப்பு ஆரம்ப சிகிச்சைகளை வழங்கும் "டெலிமெடிசின்" வேலைத்திட்டம் ஹொரணை மாவட்ட பொது வைத்தியசாலையில் நிறுவப்பட்டுள்ளதாக சுகாதார அமைச்சு தெரிவித்துள்ளது.
+The Ministry of Health said that the "Telemedicin" program has been established at the Horana District General Hospital, providing preliminary treatment using a modern technical device in primary hospitals for patients admitted to the Emergency Department.
 
-ஆரம்ப சுகாதார சேவை மற்றும் சிறந்த சுகாதார சேவை பராமரிப்பு ஆகிய அமைப்புகளை மேலும் வலுப்படுத்தும் நோக்கோடு சுகாதார அமைச்சு சுகாதார அமைச்சு பல செயற்திட்டங்களை முன்னெடுத்துள்ளது.
+The Ministry of Health has launched several projects with the aim of further strengthening the primary health service and the best health care system.
 
-அதன்படி, அவசர சிகிச்சைப் பிரிவில் அனுமதிக்கப்படும் ஆபத்தான நிலையில் உள்ள நோயாளர்களை சிறந்த வசதிகள் உள்ள வைத்தியசாலையில் அனுப்புவதற்கு முன்னர் நோயாளிக்கான உயிர்காப்பு முதலுதவிகளை வழங்குவது அவசியம்.
+Accordingly, it is necessary to provide patients with the first aid of the patient before sending them to the hospital with the best facilities.
+
+Inadequate facilities in the Emergency, District General Hospital Emergency Unit needed to be sent to other hospitals with the need for adequate facilities.. Therefore, the "Telemedicin" program, which is used to treat the patient's life using modern technical devices in the emergency department in hospitals, was established yesterday at the Horana District General Hospital.
 
 ...
 
 [Data](articles/f9937e12.json)
+
+[Extended Data](ext_articles/f9937e12.ext.json)
 
 ---
 

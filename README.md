@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 11:33:04**
+As of **2024-02-09 11:51:46**
 
 ## Newspaper Stats
 
-*Scraped **5,899** Articles*
+*Scraped **5,909** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,82 @@ bbccomsinhala | 82
 dbsjeyarajcom | 142
 islandlk | 308
 economynextcom | 309
-dailyftlk | 331
+dailyftlk | 332
 newsfirstlk | 363
-adalk | 493
-adaderanalk | 725
-tamilmirrorlk | 728
-virakesarilk | 731
+adalk | 495
+adaderanalk | 728
+tamilmirrorlk | 730
+virakesarilk | 732
 adaderanasinhalalk | 779
-dailymirrorlk | 840
+dailymirrorlk | 841
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,899 (100.0%) of 5,899 articles have been extended.
+5,909 (100.0%) of 5,909 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### New Aswesum applications from tomorrow
+
+*2024-02-09 11:15:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-புதிய-அஸ்வெசும-விண்ணப்பங்கள்/175-332942) · `ta`
+
+New applications for the Assistant Assistance Scheme are to be requested from tomorrow).
+
+Based on the recommendations of various parties, the Ministry of Finance has stated that certain conditions for selecting beneficiaries will be amended.
+
+The government has taken steps to increase the total number of beneficiaries to 2 million. (Of)
+
+◼️
+
+[Data](articles/c22c725c.json)
+
+[Extended Data](ext_articles/c22c725c.ext.json)
+
+---
+
+### President meets Sri Lankans in Australia
+
+*2024-02-09 11:06:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுஸ்திரேலியாவில்-உள்ள-இலங்கையர்களை-சந்தித்தார்-ஜனாதிபதி/175-332941) · `ta`
+
+President Ranil Wickremesinghe, who visited Australia's Perth city to attend the 7th Indian Ocean Summit, met Sri Lankans in Australia.
+
+The President's Media Unit said that the President had explained to Sri Lanka's economic situation and economic modernization plans.
+
+Sri Lankans who attended the meeting said they wanted to help the government in the fields of climate change, tourism and economic development.
+
+Meanwhile, a meeting was held between President Ranil Wickremesinghe and Australian Foreign Minister Penny Wong during the visit.. (Of)
+
+◼️
+
+[Data](articles/8a8bebb2.json)
+
+[Extended Data](ext_articles/8a8bebb2.ext.json)
+
+---
+
+### Fuel tubes connecting India and Sri Lanka
+
+*2024-02-09 10:53:56* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාව-හා-ශ්‍රී ලංකාව-සම්බන්ධ-කරමින්-ඉන්ධන-නල-මාර්ගයක්/11-407980) · `si`
+
+A discussion has been held in the Trincomalee Tanks Complex in India, connecting the Trincomalee Tanks Complex and the Colombo Tanky Complex and Colombo. The Indian government has presented this proposal through Indian Oil Company.
+
+A discussion was held between the Power and Energy Minister Kanchan Wijesekera and the arguments of Indian Oil Company to visit India.
+
+Minister Kanchana Wijesekara says that the application has been addressed to determine the mechanism to implement the project.
+
+It has also been discussed in the Sri Lanka Petroleum Consignment Resource Perion and Lanka Indian Oil Company for the tanks complex of Trincomalee.
+
+◼️
+
+[Data](articles/dd7233c9.json)
+
+[Extended Data](ext_articles/dd7233c9.ext.json)
+
+---
 
 ### 15 hours water cut
 
@@ -50,6 +108,74 @@ The National Water Supply and Drainage Board stated that the water cut will be i
 
 ---
 
+### The government accelerates development projects focusing on the presidential election - Powell
+
+*2024-02-09 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175953) · `ta`
+
+The Sri Lankan government is accelerating the development projects centered on the presidential election, the election monitoring organization Powell said.
+
+Powell, which has announced the announcement of the presidential election by July, has accused the government of accelerating development projects focusing on the presidential election.
+
+Powell said that the Presidential Secretariat has sent a round of development projects in the year 2024, which was launched under the plan to develop the hill country within six months.
+
+Powell's president Rohana Hettiarachchi says the government is emphasizing the election that is more likely to win more than the present elections.
+
+He referred to the long -standing provincial council elections that the people are essential for the people.
+
+Rogana Hettiarachchi has also questioned Prime Minister Dinesh Gunawardena provincial council elections, which are also responsible for the local government ministry.
+
+...
+
+[Data](articles/5fc4bccc.json)
+
+[Extended Data](ext_articles/5fc4bccc.ext.json)
+
+---
+
+### Gemunu proposes plans to prevent abuses in buses
+
+*2024-02-09 10:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gemunu-proposes-plans-to-prevent-abuses-in-buses/108-276666) · `en`
+
+Colombo, Feb 9 (Daily Mirror) - Before targeting individuals who commit acts of abuse against children and women on public transport, the police must take action to implement the prepaid card system or the transporting of passengers to the seating capacity of buses, the Lanka Private Bus Owners' Association (LPBOA) said.
+
+LPBOA chairman Gemunu Wijerathne told the Daily Mirror that people who want to abuse children, women and pickpockets never buy tickets but travel freely.
+
+"Implementing the prepaid card system will help prevent these kinds of abuses. Meanwhile, transporting passengers to the seating capacity of buses will also help reduce these kinds of abuses," he said.
+
+"We have enough private and Sri Lanka Transport Board (SLTB) buses to transport people according to the seating capacities of buses.
+
+"Otherwise, deploying officials or people to apprehend pickpockets and those who abuse women and children will not be a practical solution to the issue," Wijerathne said.
+
+◼️
+
+[Data](articles/0f86195e.json)
+
+[Extended Data](ext_articles/0f86195e.ext.json)
+
+---
+
+### The decrease in oil prices after March
+
+*2024-02-09 10:43:08* · [`adalk`](https://www.ada.lk/breaking_news/තෙල්-මිල-අඩුවීම-මාර්තුවෙන්-පසුව/11-407978) · `si`
+
+Power and Energy State Minister Dr. Dr. Diaways Minister of Power and Energy. Paddy. Mr. Chanaka said.
+
+The government minister said that there is an excess of worth of $ 200 million for the energy requirement.
+
+State Minister of Power and Energy. Paddy. Mr. Chanaka made this statement participating at the press conference held at the Presidential Media Center yesterday (08).
+
+Minister of Power and Energy D. Paddy. Mr. Chanaka said,
+
+We are now in the case of the country, gradually, gradually getting rise in the face of the difficult economic crisis. We were all in the oil queues. The dedication of all has been able to maintain a fixed oil supply. We are holding the largest amount of oil in recent history. We have also helped us to maintain a savings from the dollars of the Petroleum Corporation.
+
+...
+
+[Data](articles/d7e3207e.json)
+
+[Extended Data](ext_articles/d7e3207e.ext.json)
+
+---
+
 ### 15 hours of water in Colombo tomorrow
 
 *2024-02-09 10:38:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-நாளை-15-மணித்தியால-நீர்வெட்டு/175-332940) · `ta`
@@ -63,6 +189,28 @@ The Water Supply and Drainage Board said the waterfront will be implemented in t
 [Data](articles/f3848908.json)
 
 [Extended Data](ext_articles/f3848908.ext.json)
+
+---
+
+### Chief of Maldivian Defence Force keen on bolstering defence cooperation with Sri Lanka
+
+*2024-02-09 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97135/chief-of-maldivian-defence-force-keen-on-bolstering-defence-cooperation-with-sri-lanka) · `en`
+
+Chief of Defence Force of the Maldives, Lieutenant General Abdul Raheem Abdul Latheef, who is in Sri Lanka on an official visit, called on Defence Secretary, General (Retd.) Kamal Gunaratne on Thursday (Feb.08).
+
+During the interaction which took place at the Defence Headquarters Complex in Sri Jayewardenepura Kotte, Lt. Gen. Latheef expressed eagerness to foster a closer relationship in defence cooperation with Sri Lanka.
+
+The discussion was centred on enhancing collaboration in areas including military training, strategic partnerships and security initiatives, according to the Ministry of Defence.
+
+The Defence Secretary lauded the historical alliance between the Maldives and Sri Lanka, while reassuring the shared commitment to regional stability and security.
+
+Both sides emphasized the importance of sustained dialogue and exchange programs to further fortify defence capabilities and promote peace in the region.
+
+...
+
+[Data](articles/424ae68b.json)
+
+[Extended Data](ext_articles/424ae68b.ext.json)
 
 ---
 
@@ -85,6 +233,24 @@ Further, the NWS&DB has requested the cooperation of the public to conserve wate
 [Data](articles/1b8b3279.json)
 
 [Extended Data](ext_articles/1b8b3279.ext.json)
+
+---
+
+### 15-hour water cut in parts of Colombo tomorrow
+
+*2024-02-09 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97134/15-hour-water-cut-in-parts-of-colombo-tomorrow) · `en`
+
+The water supply for parts of Colombo will be suspended on Saturday (Feb.10) for a period of 15 hours, the National Water Supply & Drainage Board (NWSDB) says.
+
+Water cut will be in place from 5:00 p.m. tomorrow until 08:00 a.m. on Sunday (Feb.11).
+
+According to the NWSDB, Colombo 11, 12, 13, 14 and 15 areas are supposed to be affected by the water cut, which is being imposed due to essential maintenance work planned under the Ambatale Water Supply System Improvements and Energy Saving Project.
+
+◼️
+
+[Data](articles/b00371c6.json)
+
+[Extended Data](ext_articles/b00371c6.ext.json)
 
 ---
 
@@ -151,6 +317,28 @@ His recent approval ratings have been higher than those of Mr Zelensky.
 [Data](articles/46d35280.json)
 
 [Extended Data](ext_articles/46d35280.ext.json)
+
+---
+
+### President meets Sri Lankan Diaspora in Australia, outlines plans for economic modernization
+
+*2024-02-09 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97133/president-meets-sri-lankan-diaspora-in-australia-outlines-plans-for-economic-modernization-) · `en`
+
+President Ranil Wickremesinghe, who is in Australia on a state visit, has met with the Sri Lankan Diaspora in Perth.
+
+During the interaction, the Sri Lankan leader has provided updates on the nation’s recovery efforts, while outlining plans for economic modernization.
+
+In response, the Diaspora has expressed their readiness to assist the Sri Lankan government in various sectors such as climate change and tourism to boost economic development.
+
+The Head of State on Thursday morning (Feb.08) embarked on a visit to Australia at the invitation of India Foundation and the Government of Australia to attend the 7th Indian Ocean Conference (IOC) in Perth.
+
+The President’s Media Division (PMD) said Wickremesinghe will play a pivotal role in shaping discussions at the conference, slated as a vital forum for dialogue and cooperation within the Indian Ocean Region.
+
+...
+
+[Data](articles/825fa377.json)
+
+[Extended Data](ext_articles/825fa377.ext.json)
 
 ---
 
@@ -643,6 +831,24 @@ The party leader I am referring to is Somasundaram Senathirajah known popularly 
 [Data](articles/a6f1bedd.json)
 
 [Extended Data](ext_articles/a6f1bedd.ext.json)
+
+---
+
+### Law making and the economic crisis in Sri Lanka
+
+*2024-02-09 05:39:48* · [`dailyftlk`](https://www.ft.lk/columns/Law-making-and-the-economic-crisis-in-Sri-Lanka/4-758284) · `en`
+
+The proposed Anti-Terrorism Act and the recently adopted Online Safety Act aim to discourage people who are
+
+reeling under economic dispossession from fighting a just economic arrangement
+
+What can law do during an economic crisis? What is law actually doing during the current economic crisis in Sri Lanka? These are two questions that I thought I would reflect upon, when I was invited to speak at a panel discussion on the role of law in overcoming the current economic crisis held at the Jaffna Law Conference recently. Neither a lawyer nor an economist, I try to engage with these questions as a teacher of critical theory and as someone who lives and works amidst the economic crisis that is plaguing the country. With gratitude, I draw from the careful analyses of the recent legal reforms offered by lawyers, economists, trade unionists and activists who work for social justice in Sri Lanka.
+
+...
+
+[Data](articles/ae207379.json)
+
+[Extended Data](ext_articles/ae207379.ext.json)
 
 ---
 
@@ -1835,221 +2041,5 @@ An event was held to recognize the wards and units of the Colombo South Teaching
 [Data](articles/cb00a097.json)
 
 [Extended Data](ext_articles/cb00a097.ext.json)
-
----
-
-### Man who ‘poisoned’ two suspects in police custody identified
-
-*2024-02-08 19:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97123/man-who-poisoned-two-suspects-in-police-custody-identified) · `en`
-
-Police have identified the individual alleged to have poisoned two suspects who were held in a cell at the Aduruppuveediya police station.
-
-Reportedly, the duo had fallen ill after consuming a packet of milk handed to them by a visitor. The suspects in question had been arrested by the police over a recent shooting incident that took place in Jinthupitiya.
-
-Two assailants on a motorcycle had opened fire in Jinthupitiya on January 25, leaving a youth injured. The gunman had escaped the crime scene while the bystanders captured his accomplice. The fleeing gunman was later apprehended in Dambadeniya and was brought to the Aduruppuveediya police station for interrogation. Later, another suspect was also taken into custody for aiding and abetting the shooting.
-
-...
-
-[Data](articles/1f2f4c84.json)
-
-[Extended Data](ext_articles/1f2f4c84.ext.json)
-
----
-
-### Former Naval soldier's wife, father -in -law
-
-*2024-02-08 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/175922) · `ta`
-
-The wife and father of the main suspect in connection with the murder of Ivar in Beliatta have been placed in interrogation.
-
-The court has ordered that the main suspect, the wife of the former Navy soldier and his father, were arrested and interrogated, and the court has ordered them to be remanded until February 21.
-
-The two have been ordered to be kept at the Attanagalla Magistrate's Court on Thursday 8th.
-
-Five people, including our People's Party leader Saman Perera, were killed in a gunfight in Beliatta on January 22.
-
-More than 10 suspects have been arrested in connection with the shooting.
-
-◼️
-
-[Data](articles/edb67a2c.json)
-
-[Extended Data](ext_articles/edb67a2c.ext.json)
-
----
-
-### The police back in the middle of the police
-
-*2024-02-08 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193142) · `si`
-
-Police have identified the person who poisoned two suspects at the victims in the police.
-
-When the Adrippuwa had been arrested in connection with the recent shooting in the Jidtupitiya area and was assigned to their health.
-
-It was recorded in a CCTV camera how the man arrived at the Adraddwidi market before the police arrived.
-
-The police said that the suspect was an overcover drug addict.
-
-The police said that if he was poisoned by him as well as he was Poultry, the police said.
-
-They had shooting a close to a close association of Kudu Selvi's party.
-
-Accordingly, the police suspect that the crime has been made by Kudu Selvi's party and the crime was planned.
-
-It is reported that the condition of the two persons hospitalized due to the poison.
-
-At the same time, the Adrappirup of Police, OIC of the Police, OIC of the Police and the Gateway, has been temporarily banned from the police officer.
-
-◼️
-
-[Data](articles/49967a36.json)
-
-[Extended Data](ext_articles/49967a36.ext.json)
-
----
-
-### The aspirations of the people are fulfilled by the president's best program - Minister Nimal Siripala de Silva
-
-*2024-02-08 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/175924) · `ta`
-
-Ports, Airlines and Shipping Minister Nimal Siripala de Silva said that under the clear economic program of President Ranil Wickremesinghe, the people's aspirations are being implemented.
-
-He said this while addressing a debate on the President's policy speech held in Parliament on Thursday (08).
-
-As the international congratulations to the government's plan to build the country, the confidence in our country is continuously increasing in the international community.
-
-The country's tourism industry is currently making better improvement. Two hundred thousand international tourists visited Sri Lanka last month alone.
-
-The president -led government has been able to contribute to the country's economic development. In this country, which is not even a dollar in the country, is currently found in $ 4.4 billion in stock. This is the benefit of President Ranil Wickremesinghe's clear economic program,
-
-As well as this year's presidential election. So get ready to face it. We too are ready.
-
-◼️
-
-[Data](articles/d5194f97.json)
-
-[Extended Data](ext_articles/d5194f97.ext.json)
-
----
-
-### Don’t trust Finance Ministry, Mahindananda warns Government
-
-*2024-02-08 18:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dont-trust-Finance-Ministry-Mahindananda-warns-Government/108-276616) · `en`
-
-Parliament, Feb 08 (Daily Mirror) - While expressing concerns towards the accuracy of data and figures provided by the Finance Ministry, Sri Lanka Podujana Peramuna (SLPP) MP Mahindananda Aluthgamage urged the President, government officials and the Cabinet to exercise caution in trusting the Ministry of Finance.
-
-During his parliamentary speech, Aluthgamage emphasized the necessity of scrutiny, citing instances where Ministry officials themselves admitted to erroneous data submissions to the Financial Fund.
-
-The MP further highlighted a significant discrepancy of a thousand billion rupees between the data furnished by the Ministry of Finance and the figures intended for use in the recent President's address to Parliament.
-
-◼️
-
-[Data](articles/744493d6.json)
-
-[Extended Data](ext_articles/744493d6.ext.json)
-
----
-
-### Sri Lanka minister hopes to reduce fuel prices after March with boosted energy security
-
-*2024-02-08 18:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-hopes-to-reduce-fuel-prices-after-march-with-boosted-energy-security-150457/) · `en`
-
-ECONOMYNEXT – Sri Lanka could reduce fuel prices after March if there is no unpredictable events or sharp depreciation in the rupee currency, State Energy Minister D V Chanaka said.
-
-The government has raised prices in successive two months through February.
-
-“Usually, global oil prices are expensive during December to April because of the Winter season in Europe where their usage is high, and the demand is also high. This is why you see some increases during this period,” Minister Chanaka told reporters at a media briefing in Colombo.
-
-“We believe that after March as usually every year, there will be reduction in the global oil prices and Singapore PLATTS. Last year for instance, we were able to reduce the fuel prices across the board by around 100 rupees during that period.”
-
-...
-
-[Data](articles/5b9daca8.json)
-
-[Extended Data](ext_articles/5b9daca8.ext.json)
-
----
-
-### CEB signs power purchasing agreement with Rividhanavi (Pvt) Ltd
-
-*2024-02-08 18:34:00* · [`islandlk`](http://island.lk/ceb-signs-power-purchasing-agreement-with-rividhanavi-pvt-ltd/) · `en`
-
-Minister of Power and Energy Kanchana Wijesekera announced on X (formerly twitter) that the power purchasing agreement between the Ceylon Electricity Board (CEB) and Rividhanavi (Pvt Ltd) was signed today (08).
-
-Rividhanavi (Pvt) Ltd is a consortium of shareholders Lakdhanavi Ltd, Windforce PLC and The Blue Circle PTE Ltd of Singapore is expected to invest USD 132 million in a 100 MW ground mounted solar project in Siyambalanduwa.
-
-Related Topics:100MW solar projectLakdhanavi LtdRividhanavi (Pvt) LtdSiyambalanduwaThe Blue Circle PTE LtdWindForce PLC
-
-Sri Lanka earned USD 03 Million from bunkering – State Minister of Power and Energy
-
-WindForce PLC recognised at SAFA Best Presented Annual Report Awards 2022
-
-219.72 Hectares of land in Siyambalanduwa to be acquired and leased to Sustainable Energy Authority
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/1d3d83a4.json)
-
-[Extended Data](ext_articles/1d3d83a4.ext.json)
-
----
-
-### Paris Olympics medals to contain 'piece of Eiffel Tower'
-
-*2024-02-08 18:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Paris-Olympics-medals-to-contain-piece-of-Eiffel-Tower/108-276612) · `en`
-
-Paris, Feb. 8 (AFP) - The medals awarded at this year's Paris Olympics and Paralympics will feature a hexagon-shaped piece of iron taken from the original Eiffel Tower in their centre, organisers said as they unveiled the design on Thursday.
-
-All 5,084 gold, silver and bronze medals for the Paris Games will feature the six-edged metal medallion which will be set like a gemstone in the design by elite French jewellery house Chaumet.
-
-"We wanted to offer to all medal winners at the Paris Olympics and Paralympics a piece of the Eiffel Tower from 1889," said the head of the local organising committee, Tony Estanguet, at a televised ceremony.
-
-They will be "a combination of the most precious metals from the medals -- gold, silver and bronze -- with the most precious metal in our country, from this treasure that is the Eiffel Tower," he explained.
-
-...
-
-[Data](articles/64b0501b.json)
-
-[Extended Data](ext_articles/64b0501b.ext.json)
-
----
-
-### Regnis and Singer Industries merge with Singer Sri Lanka
-
-*2024-02-08 18:00:00* · [`economynextcom`](https://economynext.com/regnis-and-singer-industries-merge-with-singer-sri-lanka-150456/) · `en`
-
-ECONOMYNEXT – Regnis (Lanka) Plc and Singer Industries (Ceylon) Plc have merged with parent company Singer (Sri Lanka) Plc, the consumer durables group with a financing arm.
-
-“We wish to inform the Colombo Stock Exchange that Regnis (Lanka) PLC (PQ 191) and Singer Industries (Ceylon) PLC (PQ 104) amalgamated with Singer (Sri Lanka) PLC (PQ 160) in terms of the Companies Act No. 7 of 2007 and shall continue as Singer (Sri Lanka) PLC with effect from 31st January 2024,” Singer said in a stock exchange filing on Thursday (8).
-
-“The Registrar General of Companies issued the certificate of amalgamation on 07th February 2024.”
-
-All three companies belong to the larger conglomerate Hayleys Group. (Colombo/Feb8/2024)
-
-◼️
-
-[Data](articles/c27763d4.json)
-
-[Extended Data](ext_articles/c27763d4.ext.json)
-
----
-
-### Talangamitha Jayasinghe retires to death
-
-*2024-02-08 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193141) · `si`
-
-Senior journalist veteran newspaper cartoon designer has passed away.
-
-He was a designer who was a very fan paragux.
-
-◼️
-
-[Data](articles/8c8d4e28.json)
-
-[Extended Data](ext_articles/8c8d4e28.ext.json)
 
 ---

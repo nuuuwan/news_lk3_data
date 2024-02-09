@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 06:52:29**
+As of **2024-02-09 07:15:22**
 
 ## Newspaper Stats
 
-*Scraped **5,864** Articles*
+*Scraped **5,865** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 308
 dailyftlk | 331
 newsfirstlk | 363
 adalk | 491
-adaderanalk | 719
+adaderanalk | 720
 tamilmirrorlk | 721
 virakesarilk | 731
 adaderanasinhalalk | 767
@@ -26,11 +26,27 @@ dailymirrorlk | 834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,850 (99.8%) of 5,864 articles have been extended.
+5,851 (99.8%) of 5,865 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### Sri Lanka earned $3mn from resuming bunkering system - State Minister
+
+*2024-02-09 06:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97129/sri-lanka-earned-3mn-from-resuming-bunkering-system-state-minister) · `en`
+
+State Minister of Power and Energy, D.V. Chanaka, says Sri Lanka has generated a revenue of USD 3 million through the sale of 5,200 MT of fuel via the revived bunkering system for vessels. This signifies a significant step forward in stabilizing the country’s energy finances, he added.
+
+Furthermore, the lawmaker emphasized the establishment of a USD 200 million buffer stock. According to him, this prudent measure demonstrates proactive planning to mitigate future economic fluctuations and ensure energy security.
+
+Acknowledging the past economic struggles, he referenced the time when Sri Lanka faced fuel shortages and long queues. He, however, highlighted the nation’s gradual progress achieved through collective efforts. Commending everyone involved for their dedication, he attributed the current stability in oil supply to their collaboration.
+
+...
+
+[Data](articles/feb7536a.json)
+
+---
 
 ### The unbearable selfishness of being “Maavai” Senathirajah
 
@@ -43,6 +59,8 @@ The party leader I am referring to is Somasundaram Senathirajah known popularly 
 ...
 
 [Data](articles/a6f1bedd.json)
+
+[Extended Data](ext_articles/a6f1bedd.ext.json)
 
 ---
 
@@ -2045,23 +2063,5 @@ Contributors to ASPI in the day included Hayleys Plc (up at 77.50), DFCC Bank Pl
 [Data](articles/2d89faaf.json)
 
 [Extended Data](ext_articles/2d89faaf.ext.json)
-
----
-
-### There is no news of 'Jerem Son' for 22 days
-
-*2024-02-08 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193136) · `si`
-
-The relatives of the sea say that no information has been landed on the 'Jeerem Son' of the 'Jeerem Son' of the 'Jeerem Son' of the Colombo Fisheries Harbor.
-
-Four persons from Negombo, Wella, Toduwawa areas have gone to the fisheries activities.
-
-"Our father went to the sea. More than 20 days today. There's no news. The government requests them to save them. Bring us back to us alive alive. "
-
-◼️
-
-[Data](articles/9d361649.json)
-
-[Extended Data](ext_articles/9d361649.ext.json)
 
 ---

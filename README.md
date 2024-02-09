@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 09:33:03**
+As of **2024-02-09 09:51:19**
 
 ## Newspaper Stats
 
-*Scraped **5,884** Articles*
+*Scraped **5,886** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,74 @@ adalk | 492
 adaderanalk | 722
 tamilmirrorlk | 727
 virakesarilk | 731
-adaderanasinhalalk | 773
+adaderanasinhalalk | 775
 dailymirrorlk | 836
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,882 (100.0%) of 5,884 articles have been extended.
+5,884 (100.0%) of 5,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### முருங்கை விலை எகிறியது
+### ශ්‍රී ලංකා - ඇෆ්ගන් පළමු එක්දින ගැටුම අද
+
+*2024-02-09 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193157) · `si`
+
+සංචාරක ඇෆ්ගනිස්තාන කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර පළමු එක්දින ක්‍රිකට් තරගය අද (09) පැවැත්වීමට නියමිතය.
+
+තරගය අද පස්වරු 2.30ට මහනුවර පල්ලේකැලේ ක්‍රීඩාංගනයේ දී ආරම්භ වෙයි.
+
+එක්දින තරගාවලිය සඳහා ශ්‍රී ලංකා කණ්ඩායම ඉතා හොඳ සුදානමකින් පසුවන බව ශ්‍රී ලංකා එක්දින කණ්ඩායමේ නායක කුසල් මෙන්ඩිස් ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/3f4737f8.json)
+
+---
+
+### 07 වන ඉන්දීය සාගර සමුළුව අද ඇරඹෙයි
+
+*2024-02-09 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193156) · `si`
+
+07 වන ඉන්දීය සාගර සමුළුව ඔස්ට්‍රේලියාවේ පර්ත් නුවරදී අද (09) ආරම්භ වීමට නියමිතව තිබේ.
+
+ඉන්දියා පදනමේ සහ ඔස්ට්‍රේලියානු රජයේ ආරාධනයකට අනුව ඊට සහභාගිවීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඊයේ (08) අලුයම දිවයිනෙන් පිටත්ව ගොස් තිබුණි.
+
+“ස්ථාවර සහ තිරසර ඉන්දියානු සාගරයක් කරා” යන තේමාව යටතේ මෙවර සමුළුව අද සහ හෙට යන දෙදින තුළ පැවැත්වීමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය පැවසීය.
+
+ඒ අනුව ඉන්දියානු සාගරය ආශ්‍රිත රටවල සහ එම සාගරය බහුලව භාවිත කරන සෙසු රටවලට බලපාන පොදු අභිලාෂ හා ගැටලු පිළිබඳ එහිදී සාකච්ඡා කෙරෙනු ඇත.
+
+මෙවර 7 වැනි ඉන්දීය සාගර සමුළුවේ ප්‍රධාන දේශනය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් සිදුකිරීමට නියමිතව තිබේ.
+
+ඉන්දියානු සාගර කලාපීය සහයෝගීතාව වර්ධනය කරගැනීමේ අරමුණින් රටවල් 40ක ප්‍රධාන පාර්ශ්වකරුවන්ගේ සහභාගිත්වයෙන් මාර්ග සිතියමක් සකස් කිරීම ද මෙවර සමුළුවේදී සිදුකරෙන බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කරයි.
+
+සමුළුවට සමගාමීව ශ්‍රී ලංකාවේ නව ආයෝජන අවස්ථා පිළිබඳ අවධානය යොමු කෙරෙන ඉහළ පෙළේ සාකච්ඡා කිහිපයකටද ජනාධිපතිවරයා එක්වීමට නියමිතව තිබේ.
+
+...
+
+[Data](articles/b06ebea7.json)
+
+---
+
+### The drum price rose
 
 *2024-02-09 08:59:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முருங்கை-விலை-எகிறியது/175-332939) · `ta`
 
-நாரஹேன்பிட்டி விசேட பொருளாதார மத்திய நிலையத்தில் ஒரு கிலோ முருங்கைக்காயின் சில்லறை விலை நேற்று (08) 2,000 ரூபாயாக பதிவாகியுள்ளது.
+The retail price of a kilo of drums at Narahenpitiya Special Economic Center was reported yesterday (08) at Rs 2,000.
 
-ஒரு கிலோ முருங்கைக்காயின் மொத்த விலை 1,980 ரூபாவாக பதிவாகியிருந்தது. இதையடுத்து இலங்கையில் உள்ள எந்தவொரு பொருளாதார மத்திய நிலையத்திலும் நேற்று முருங்கை விற்கவில்லை என தெரிவிக்கப்படுகின்றது.
+The total price of a kilo of drumstick was 1,980 rupees. It is reported that Murunga did not sell yesterday at any economic center in Sri Lanka.
 
-இதேவேளை, கடந்த சில தினங்களுக்கு முன்னர் 2,000 ரூபாவுக்கு மேல் இருந்த ஒரு கிலோ கரட்டின் மொத்த விலை நேற்று (08) 650 ரூபாவாக  உள்ளது என நுவரெலியா விசேட பொருளாதார மத்திய நிலையம் தெரிவித்துள்ளது. R
+Meanwhile, the total price of a kilogram of bear, which was over 2,000 rupees a few days ago, was at 650 rupees yesterday (08), the Nuwara Eliya Special Economic Center said.. Remble
 
 ◼️
 
 [Data](articles/0914ce8c.json)
+
+[Extended Data](ext_articles/0914ce8c.ext.json)
 
 ---
 
@@ -67,6 +109,8 @@ The fissure was about 3 km long, stretching from Mount Sundhnúkur towards the e
 ...
 
 [Data](articles/265189c4.json)
+
+[Extended Data](ext_articles/265189c4.ext.json)
 
 ---
 
@@ -2035,49 +2079,5 @@ Ravyadavi Company is partners Lakdani, Wind Proseclam and Singapore, Singapore, 
 [Data](articles/545ae1fd.json)
 
 [Extended Data](ext_articles/545ae1fd.ext.json)
-
----
-
-### January was world’s warmest on record, EU scientists say
-
-*2024-02-08 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97121/january-was-worlds-warmest-on-record-eu-scientists-say) · `en`
-
-The world just experienced its hottest January on record, continuing a run of exceptional heat fuelled by climate change, the European Union’s Copernicus Climate Change Service (C3S) said on Thursday.
-
-Last month surpassed the previous warmest January, which occurred in 2020, in C3S’s records going back to 1950.
-
-The exceptional month came after 2023 ranked as the planet’s hottest year in global records going back to 1850, as human-caused climate change and the El Nino weather phenomenon, which warms the surface waters in the eastern Pacific Ocean, pushed temperatures higher.
-
-Every month since June has been the world’s hottest on record, compared with the corresponding month in previous years.
-
-“Not only is it the warmest January on record but we have also just experienced a 12-month period of more than 1.5 C (1.7 F) above the pre-industrial reference period,” C3S Deputy Director Samantha Burgess said.
-
-...
-
-[Data](articles/c1cf089a.json)
-
-[Extended Data](ext_articles/c1cf089a.ext.json)
-
----
-
-### Afghanistan is a group that has more experiences - Kusal
-
-*2024-02-08 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193139) · `si`
-
-Sri Lanka Cricket One-day team leader Kusal Mendis says that the Sri Lankan cricket team is no longer expected.
-
-He was speaking at a press conference held at the Pallekele Stadium in Kandy this afternoon.
-
-"The Afghanistan team has experience and experiences that have been facing many competitions than our team. There are several players who play well in that group. Afghanistan is a well-playing group. "
-
-"We have a very balanced team this year. Wannu Hasaranga, Duti Welles and Chamika Karunaratne are playing three players. It's a strength to our team. There are several fast bowled. The batriculation is also good. We hope to play this tournament and win as a group. "
-
-"I don't think that a three-member player has been taken up 100 and 5 wickets.. Every match. I hope to take 30 runs for 30 runs and 3 wickets. I want to be a fool to expect you to expect that. Moreover, his skill. "
-
-◼️
-
-[Data](articles/602addfd.json)
-
-[Extended Data](ext_articles/602addfd.ext.json)
 
 ---

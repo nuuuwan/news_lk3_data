@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 07:41:55**
+As of **2024-02-09 07:15:22**
 
 ## Newspaper Stats
 
-*Scraped **5,866** Articles*
+*Scraped **5,865** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 308
 dailyftlk | 331
 newsfirstlk | 363
 adalk | 491
-adaderanalk | 721
+adaderanalk | 720
 tamilmirrorlk | 721
 virakesarilk | 731
 adaderanasinhalalk | 767
@@ -26,23 +26,11 @@ dailymirrorlk | 834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,855 (99.8%) of 5,866 articles have been extended.
+5,851 (99.8%) of 5,865 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
-
-### Bodies of elderly couple found inside in Mirihana
-
-*2024-02-09 07:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97130/bodies-of-elderly-couple-found-inside-in-mirihana) · `en`
-
-The bodies of an elderly couple have been found inside a house in Mirihana.
-
-◼️
-
-[Data](articles/8f99deb5.json)
-
----
 
 ### Sri Lanka earned $3mn from resuming bunkering system - State Minister
 
@@ -57,8 +45,6 @@ Acknowledging the past economic struggles, he referenced the time when Sri Lanka
 ...
 
 [Data](articles/feb7536a.json)
-
-[Extended Data](ext_articles/feb7536a.ext.json)
 
 ---
 
@@ -92,8 +78,6 @@ What can law do during an economic crisis? What is law actually doing during the
 
 [Data](articles/f3568fc6.json)
 
-[Extended Data](ext_articles/f3568fc6.ext.json)
-
 ---
 
 ### The Anti-Terrorism law: A draconian legacy
@@ -108,8 +92,6 @@ The Minister of Justice recently presented to Parliament the Anti-Terrorism Bill
 
 [Data](articles/4a470273.json)
 
-[Extended Data](ext_articles/4a470273.ext.json)
-
 ---
 
 ### Elections with India next-door and uncertainties assured
@@ -121,8 +103,6 @@ New Delhi and JVP now show their willingness to accommodate each other for polit
 ...
 
 [Data](articles/f194d1a9.json)
-
-[Extended Data](ext_articles/f194d1a9.ext.json)
 
 ---
 
@@ -2061,5 +2041,27 @@ Accordingly, the cost of a kilo of Rs.. 700, beans Rs.. 500, though, green chill
 [Data](articles/c6999764.json)
 
 [Extended Data](ext_articles/c6999764.ext.json)
+
+---
+
+### Sri Lanka stocks close up, turnover tops 1bn
+
+*2024-02-08 16:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-tops-1bn-150418/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader All Share Index closed up 19.35 points, or 0.18 percent at 10,547, while the S&P SL20 Index crossed the 3,000 mark to close at 3,015 points, up 0.61 percent, or 18.24 points.
+
+Turnover topped 1 billion. LB Finance Plc saw fairly high volumes (111mn) being traded, the share closed flat at 31.00. Capital Alliance Plc also saw large volumes traded (104mn) and the share closed up at 52.40.
+
+With the further decline in bond yield rates, market participants said investor interest in the stock exchange had returned, adding that some of the primary dealing counters saw some activity.
+
+Contributors to ASPI in the day included Hayleys Plc (up at 77.50), DFCC Bank Plc (up at 78.90) Central Finance Company Plc (up at 109.75), and Hemas Holdings Plc (up at 71.10). (Colombo/Feb8/2024).
+
+◼️
+
+[Data](articles/2d89faaf.json)
+
+[Extended Data](ext_articles/2d89faaf.ext.json)
 
 ---

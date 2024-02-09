@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 22:32:44**
+As of **2024-02-09 22:49:41**
 
 ## Newspaper Stats
 
-*Scraped **6,011** Articles*
+*Scraped **6,012** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ adalk | 505
 tamilmirrorlk | 735
 virakesarilk | 744
 adaderanalk | 744
-adaderanasinhalalk | 805
+adaderanasinhalalk | 806
 dailymirrorlk | 859
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,009 (100.0%) of 6,011 articles have been extended.
+6,012 (100.0%) of 6,012 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### The father's life is the last
+
+*2024-02-09 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193190) · `si`
+
+A person who remained near the road to his son in Madurankuliya, Madurankuliya, has been unfortunately retired from a road accident.
+
+Our correspondent said that the accident had occurred near the road near the road today (09).
+
+The victim is a 49 year old Warnakulaus Genera, a resident of Madurankuliya Post-Nuwara Eliya.
+
+The man who was taken from home to the school, the school was shifted to the school, was shifted near the road until the school bus was shifted to school in Chilaw.
+
+At the same time, the WagonR type car was frightened and the fisher who was immediately running quickly pushed the son at once.
+
+At the same time, the father tried to leave the place, the accident had occurred.
+
+Residents say that the daughter was near the son and that the father was unconscious in the middle of a lake.
+
+The father was killed in the same location, the father of the heavy damaged.
+
+However, our son-in-law has been traumatized due to the father's death with the accident.
+
+...
+
+[Data](articles/9187b7bb.json)
+
+[Extended Data](ext_articles/9187b7bb.ext.json)
+
+---
 
 ### The President's announcement at the Hindu Ocean Conference
 
@@ -460,21 +490,27 @@ The military said that 30 bullets for the missing T-56 were found in the drainag
 
 ---
 
-### ජනපති හමුවූ හේතුව සරත් ෆොන්සේකා
+### Sarath Fonseka held due to President
 
 *2024-02-09 18:27:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හමුවූ-හේතුව-සරත්-ෆොන්සේකා/11-407987) · `si`
 
-ජනාධිපතිවරයා පාර්ලිමේන්තුවේ දී හමු වූයේ මුදල් අමාත්‍යාංශයට අදාල දෙයක් ගැන කතා කිරීමට බවත් දේශපාලනය ගැන කිසිවක් එහිදී කතා නොකල බවත් හිටපු යුධ හමුදාපති හා සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී සරත් ෆොන්සේකා මහතා ඊයේ (09) මාතර දී පැවසීය.
+The former Army Commander and MP Sarath Fonseka said that the president was found in parliament and did not talk about politics.
 
-“ජනතා විප්ලවය” නමින් පැවැත්වු නිර්පාක්ෂික විරෝධතා ව්‍යාපාරයේ දී ඔහු ඒ බව කීවේ මාධ්‍යවේදියෙකු ඇසු ප්‍රශ්නයකට පිළිතුරු දෙමිනි.
+He said that a journalist was responding to a journalist with a journalist in the non-party protest campaign called the "People's Revolution".
 
-මාතර ප්‍රධාන බස් නැවතුම්පොල ඉදිරිපිට දී මෙම විරෝධතා ව්‍යාපාරය පැවැත්විණි.එහිදී වැඩි දුරටත් අදහස් දැක් වු ෆොන්සේකා මහතා මෙසේද කීය.
+The protest was held in front of the Matara Chief bus stand in front of Matara.
 
-“මම ජනාධිපති තුමා හමු වූයේ පාර්ලිමේන්තුව තුලදී.ඒ මුදල් අමාත්‍යාංශයට අදාල දෙයක් ගැන කතා කරන්නයි.ජනාධිපතිතුමා හමුවෙන්න මට වගේම මේ රටේ ඕනෑම පුරවැසියෙකුට අයිතියක් තිබෙනවා.එතුමා මුදල් අමාත්‍යවරයා.මම මුදල් අමාත්‍යාංශයට ගිහින් එලියෙදි හමු වුනේ නෑ.
+"I met the president's president in Parliament.
 
-...
+The Leader of the Prime Minister told me that the leader was told.OUT OUT OF THE BIBLE IS OUT OF ORDER OF OUT OF THE OTHER. "
+
+Nearly 500 people participated in the protest.
+
+◼️
 
 [Data](articles/450232cf.json)
+
+[Extended Data](ext_articles/450232cf.ext.json)
 
 ---
 
@@ -974,29 +1010,35 @@ Army Police and the Kirula Army Police are conducting further investigations.
 
 ---
 
-### පැතුම් නිස්සංක :එක්දින තරගයක දී ශ්‍රී ලංකාව වෙනුවෙන් ද්විත්ව ශතකයක් රැස් කළ පළමු පිතිකරු
+### Wishing Nuthages: First batsman who scored a double century on behalf of Sri Lanka in one-day event
 
 *2024-02-09 15:59:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gkp57gqw7o) · `si`
 
-පැතුම් නිස්සංක :එක්දින තරගයක දී ශ්‍රී ලංකාව වෙනුවෙන් ද්විත්ව ශතකයක් රැස් කළ පළමු පිතිකරු
+Wishing Nuthages: First batsman who scored a double century on behalf of Sri Lanka in one-day event
 
-මෙරට ක්‍රිකට් වංශකතාවට නව පරිච්ජේදයක් එක් කිරීමට පැතුම් නිස්සංක අද (පෙබරවාරි 09 වෙනිදා) සමත් විය.
+Wimal Nishonkins today (Feb. 9.) to add a new charter of cricket cricket
 
-ඒ, එක්දින තරගයක දී ශ්‍රී ලංකාව වෙනුවෙන් ද්විත්ව ශතකය රැස් කළ පළමු පිතිකරුවා ලෙස ඉතිහාසයට එක්වෙමිනි.
+He participated in the first batsman who scored the double century for Sri Lanka in one-day event.
 
-ශ්‍රී ලංකාව වෙනුවෙන් එක්දින තරගයක ඉනිමක දී වැඩිම ලකුණු ප්‍රමාණයක් රැස් කළ පිතිකරුවා බවට පත්වීමට පැතුම් නිස්සංක අද සමත් විය.
+Dupi Nutigu Nishanickan was able to become the batsman who scored the highest scorer in one day match for Sri Lanka.
 
-මේ දක්වා එක්දින තරගයකදී ශ්‍රී ලංකාව වෙනුවෙන් ඉනිමක දී වැඩිම ලකුණු සංඛ්‍යාවක් වාර්තා කළ පිතිකරුවා වුයේ සනත් ජයසුරිය යි.
+Sanath Jayasuriya was the batsman who scored the highest scorers in an innings on behalf of Sri Lanka.
 
-සනත් ජයසුරිය 2000 වසරේ සාජා හිදී ඉන්දියාවට එරෙහිව ලකුණු 189ක් වාර්තා කළ අතර පුරා වසර 24ක් එය වාර්තා පොත් අතර පැවතුණේ  ශ්‍රී ලංකාව වෙනුවෙන් එක්දින ඉනිමක දී පිතිකරුවෙකු ලෙස වාර්තා කළ වැඩිම ලකුණු සංඛ්‍යාව ලෙස යි.
+Sanath Jayasuriya, Sanath Jayasuriya, reported 189 runs against India in the 2000, the highest number of scorers were recorded as a batsman for 24 years.
 
-ඒ අනුව පැතුම් නිස්සංක අද (පෙබරවාරි 09 වෙනිදා) එම වාර්තාව බිඳ හෙලීමට සමත් වන ලදී.
+Accordingly, the Wishesi Nissanka Nishonkinayake was diagnosed with this report today (Feb. 9).
 
-එතෙක් තමන් විසින් තබා තිබූ වාර්තාව පැතුම් නිස්සංක විසින් බිඳ දමන අවස්ථාවේදී පල්ලේකැලේ ක්‍රීඩා පිටියේ ප්‍රේක්ෂකාගාරයේ සනත් ජයසුරිය රැඳී සිටීම ද විශේෂත්වයක් විය.
+It was significant that Sanath Jayasuriya was situated at the Pallekele Player Auditor at the Pallekele Player.
+
+It was because of his father's influence on May 18, 1998.
+
+During his study of childhood, the school was organized by the Sunil Worth Cricket coach.
 
 ...
 
 [Data](articles/69b4ac3b.json)
+
+[Extended Data](ext_articles/69b4ac3b.ext.json)
 
 ---
 
@@ -2045,27 +2087,5 @@ LPBOA chairman Gemunu Wijerathne told the Daily Mirror that people who want to a
 [Data](articles/0f86195e.json)
 
 [Extended Data](ext_articles/0f86195e.ext.json)
-
----
-
-### The decrease in oil prices after March
-
-*2024-02-09 10:43:08* · [`adalk`](https://www.ada.lk/breaking_news/තෙල්-මිල-අඩුවීම-මාර්තුවෙන්-පසුව/11-407978) · `si`
-
-Power and Energy State Minister Dr. Dr. Diaways Minister of Power and Energy. Paddy. Mr. Chanaka said.
-
-The government minister said that there is an excess of worth of $ 200 million for the energy requirement.
-
-State Minister of Power and Energy. Paddy. Mr. Chanaka made this statement participating at the press conference held at the Presidential Media Center yesterday (08).
-
-Minister of Power and Energy D. Paddy. Mr. Chanaka said,
-
-We are now in the case of the country, gradually, gradually getting rise in the face of the difficult economic crisis. We were all in the oil queues. The dedication of all has been able to maintain a fixed oil supply. We are holding the largest amount of oil in recent history. We have also helped us to maintain a savings from the dollars of the Petroleum Corporation.
-
-...
-
-[Data](articles/d7e3207e.json)
-
-[Extended Data](ext_articles/d7e3207e.ext.json)
 
 ---

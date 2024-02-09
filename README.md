@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 13:17:21**
+As of **2024-02-09 13:32:48**
 
 ## Newspaper Stats
 
-*Scraped **5,921** Articles*
+*Scraped **5,925** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 69
+colombotelegraphcom | 70
 bbccomsinhala | 82
 dbsjeyarajcom | 142
 islandlk | 308
@@ -16,8 +16,8 @@ economynextcom | 309
 dailyftlk | 332
 newsfirstlk | 363
 adalk | 497
-adaderanalk | 730
 tamilmirrorlk | 730
+adaderanalk | 733
 virakesarilk | 733
 adaderanasinhalalk | 781
 dailymirrorlk | 845
@@ -26,27 +26,79 @@ dailymirrorlk | 845
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,918 (99.9%) of 5,921 articles have been extended.
+5,921 (99.9%) of 5,925 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### ගැටුම් මැද පැවති මැතිවරණය - ඉම්රාන් ගේ අපේක්ෂකයින් ඉදිරියෙන්
+### Indian state passes uniform marriage legislation opposed by Muslims
+
+*2024-02-09 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97140/indian-state-passes-uniform-marriage-legislation-opposed-by-muslims) · `en`
+
+An Indian state has approved an unprecedented uniform code for marriage, divorce, adoption and inheritance for Hindus, Muslims and other religious communities under new legislation that also requires couples that live together to register with the government or face punishment.
+
+Northern Uttarakhand state lawmakers passed the legislation on Wednesday and its approval by the state governor and the Indian president is seen as a formality before it becomes law in the state. Muslim leaders and others oppose the Uniform Civil Code initiated by Prime Minister Narendra Modi’s Hindu Nationalist party saying it interferes with their own laws and customs on such issues.
+
+India, the world’s most populous nation with more than 1.4 billion people, is comprised of around 80% Hindus and about 14% Muslims. Muslims accuse Modi’s right-wing nationalist party of pursuing a Hindu agenda that discriminates against them and directly imposes laws interfering with their faith.
+
+...
+
+[Data](articles/cc7fc1f9.json)
+
+---
+
+### President Ranil, Western Australia Premier discuss renewable energy, agri. development
+
+*2024-02-09 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97139/president-ranil-western-australia-premier-discuss-renewable-energy-agri-development) · `en`
+
+President Ranil Wickremesinghe, who is now in Australia on an official visit, met with Western Australia’s Premier Roger Cook this morning (Feb.09), on the sidelines of the 7th Indian Ocean Conference.
+
+The Sri Lankan leader had reached the Perth International Airport on Thursday afternoon (Feb.08). At the invitation of the India Foundation and the Australian Government, Wickremesinghe embarked on this visit to attend the 7th Indian Ocean Conference, taking place from 9-10 February in Perth.
+
+The President is slated to deliver the keynote address at the conference later today, with a focus on the theme “Towards a Stable and Sustainable Indian Ocean”.
+
+...
+
+[Data](articles/bb5e6d9d.json)
+
+---
+
+### Imran's candidates in front of the conflict
 
 *2024-02-09 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193164) · `si`
 
-එහි ඡන්ද ගණන් කිරීමේ කටයුතු ඉතා සෙමින් සිදුවීම සම්බන්ධයෙන් ජනතාව, විපක්ෂ දේශපාලනඥයින් සහ විදෙස් පාර්ශ්ව විවිධ මත පළකරති.
+The counting of votes is slowly postponed the people, opposition politicians and foreign parties.
 
-මේ වනවිට වාර්තා වන්නේ ඡන්ද ගණන් කිරීමේ කටයුතු අරඹා ඇති බවත් ඉන් සිරගත කර සිටින හිටපු අගමැති ඉම්රාන් ඛාන් ගේ පක්ෂයේ අපේක්ෂකයින් ඉදිරියෙන් සිටින බවය.
+It is now reported that the counting of votes has begun and the party candidates are in prison.
 
-ඔවුන් බොහෝ දෙනෙක් ස්වාධීන අපේක්ෂකයින් ලෙස මෙම මැතිවරණයට ඉදිරිපත් විය.
+Most of them were present for this election as independent candidates.
 
-එහෙත් සමස්ත ප්‍රතිඵල නිකුත් කළ විට හිටපු අග්‍රාමාත්‍ය නවාස් ෂරිෆ් ඉන් ජයගනු ඇති බව විශ්ලේෂකයින් පැවසීය.
+However, analysts said former Prime Minister Nawaz Sharif will win when the overall results were released.
 
 ◼️
 
 [Data](articles/f6b77135.json)
+
+[Extended Data](ext_articles/f6b77135.ext.json)
+
+---
+
+### Operation ‘Yukthiya’: 349 more drug traffickers included in ‘wanted criminal list’
+
+*2024-02-09 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97138/-operation-yukthiya-349-more-drug-traffickers-included-in-wanted-criminal-list) · `en`
+
+Sri Lanka Police have added the names of 349 more wanted drug traffickers to the list containing the names of over 42,000 wanted criminal suspects which was previously shared among all police stations across the island as part of ‘Yukthiya’ country-wide anti-drug operation.
+
+Police Headquarters assured that the ‘Yukthiya’ anti-drug operation, which was launched on 17 December 2023, will continue further across the island in order to arrest the drug traffickers and to crack down on the drug networks.
+
+Accordingly, a list of names of 296 newly identified drug traffickers and 53 other close associates of the recently-arrested drug traffickers was referred to all Senior Superintendents of Police (SSPs) in charge of police divisions in the country, under the directives of the Acting IGP Deshabandu Tennakoon.
+
+Meanwhile, 705 more suspects were arrested by the police and security forces personnel within a 24-hour window ending at 12.00 a.m. today (Feb. 09) as part of the operation ‘Yukthiya’.
+
+...
+
+[Data](articles/75b99c4f.json)
 
 ---
 
@@ -67,6 +119,8 @@ He said that there could be a sinister move to sling mud at him claiming I got h
 ...
 
 [Data](articles/973bb119.json)
+
+[Extended Data](ext_articles/973bb119.ext.json)
 
 ---
 
@@ -242,25 +296,27 @@ Meanwhile, a meeting was held between President Ranil Wickremesinghe and Austral
 
 ---
 
-### ලෝක පිට්සා දිනයට ලංකාවේ ලොකුම පිට්සාව මීගමුවේ හදයි
+### Sri Lanka's largest outlets in Sri Lanka to be built on World Petza Day
 
 *2024-02-09 11:01:42* · [`adalk`](https://www.ada.lk/picture_story/ලෝක-පිට්සා-දිනයට-ලංකාවේ-ලොකුම-පිට්සාව-මීගමුවේ-හදයි/10-407981) · `si`
 
-පෙබරවාරි මස 09 දිනට යෙදී ඇති ලෝක පීට්සා දිනය නිමිත්තෙන් මීගමුව , ඒත්තුකාළ ප්‍රදේශයේ පිහිටි ටුක් ටුක් වයින් ඇන්ඩ් ඩයින් හෝටලය ලංකාවේ විශාලතම පීට්සා ව 02/09 දින රාත්‍රී එම හෝටල් පරිශ්‍රයේ දී නිර්මාණය කිරීමට පියවර ගෙන තිබුණි.
+Steps were taken to create the Tuk Tke and Dine Hotel in the Ethulkana, Negombo, to mark the World Pizza Day on February 09.
 
-මේ සදහා එම හෝටලයේ විධායක සූපවේදී දුමින්ද වනිගසේකර මහතා මූලිකත්වය ගෙන ක්‍රියා කර තිබුණි .
+The hotel's executive chef was headed by Mr. Duminda Wanigasekera.
 
-අගල් 50 දිග මෙම පීට්සා එක කිලෝ ග්‍රෑම් 12 ක බරකින් යුතු විය .
+The 50 inch length of the 50kzza was covered with 12 kilograms.
 
-මෙම පීට්සා ව නිර්මාණය කිරීම සදහා තක්කාලි කොංග්‍රසයක් ( මිශ්‍රණයක් ) මොසැරැල්ලා චීස් , කුකුළු මස් , සොසේජස් ,විවිධ පාට සහ රස වර්ග 04 කින් යුතු බෙල් පෙපර් , ඔලිව් තෙල් සහ බී ළූණු භාවිතා කර තිබූ අතර මෙම පීට්සා ව විනාඩි 08 ක කාළයකින් පුළුස්සා නිම කර ගැනීමට හැකි වී  තිබුණි .
+The tomato Congress (a mixture) was used for a tomato coding, chicken, sausage, chicken, sausage, chicken, sausage, chicken, sausage, chicken, sausage, four color and tastes.Had been able to.
 
-මෙම පීට්සා ව රස බැලීම සදහා 100 කට අධික පිරිසක් මෙම හෝටල් පරිශ්‍රයට පැමිණ සිටියහ . එකවර 08 දෙනෙකුට භුක්ති විදීමට හැකි වන පරිදි අගල් 25 ක් දිග වන ආකාරයට සකස් කර  පීට්සා කැබළි ඔවුන්ට ආහාර සදහා  පිපිරිනැමීම සිදු කෙරුණි .
+More than 100 people were present at the hotel premises to taste the pizza.The explosion of the 25 inches of Petza was exploded to the explosion of 25 inches so that they could enjoy eight at once.
 
-ඉකුත් 2021 වසරේ දී මෙම හෝටලය අගල් 40 ක් දිග පීට්සා වක් ලෝක පීට්සා දිනය නිමිත්තෙන් සකස් කර තිබුණි
+The hotel was prepared to mark the 40 inches of Pizza World Pressz World Pightsa Day in 2021
 
 ◼️
 
 [Data](articles/72e0b02d.json)
+
+[Extended Data](ext_articles/72e0b02d.ext.json)
 
 ---
 
@@ -919,6 +975,16 @@ Meanwhile, the Ceylon Electricity Board and the relevant private company have si
 [Data](articles/bc84c12b.json)
 
 [Extended Data](ext_articles/bc84c12b.ext.json)
+
+---
+
+### We Are A Republic, We Are Not A Monarchy
+
+*2024-02-09 07:19:44* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/we-are-a-republic-we-are-not-a-monarchy/) · `en`
+
+...
+
+[Data](articles/bff90e25.json)
 
 ---
 
@@ -1925,107 +1991,5 @@ Accordingly, arrangements to travel from India to Sri Lanka will be made by the 
 [Data](articles/f8530cfe.json)
 
 [Extended Data](ext_articles/f8530cfe.ext.json)
-
----
-
-### Loneliness declared a public health emergency in part of Silicon Valley, California
-
-*2024-02-08 21:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97125/loneliness-declared-a-public-health-emergency-in-part-of-silicon-valley-california) · `en`
-
-Loneliness has been declared a public health emergency in a Californian county that includes part of Silicon Valley.
-
-San Mateo County is the first in the US to make such a declaration.
-
-About 17% of US adults questioned by Gallup in February last year said they had experienced loneliness the day before.
-
-In San Mateo, however, about 45% of residents are struggling with isolation, according to David Canepa from the county’s board of supervisors.
-
-Across the US there is an “epidemic of loneliness and isolation”, US Surgeon General Dr Vivek Murthy has said.
-
-It is an “underappreciated public health crisis” which has “harmed individual and societal health”, he added.
-
-Concerns in San Mateo are not confined to one demographic, Mr Canepa said.
-
-Teenagers and young adults spend a long time on social media, he pointed out, while Silicon Valley’s high-achieving atmosphere may put stress on those still in education.
-
-Many older residents became especially isolated during the pandemic, he added.
-
-...
-
-[Data](articles/ed3c4620.json)
-
-[Extended Data](ext_articles/ed3c4620.ext.json)
-
----
-
-### Speaker has been accused of violating constitutional violation -Sajith Premadasa
-
-*2024-02-08 21:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175927) · `ta`
-
-The Celebration Act has been passed by ignoring the amendments made by the High Court. The Speaker has gone to the constitutional violation process. The Justice Minister has accepted that there are flaws in the law. Opposition leader Sajith Premadasa urged the Speaker to organize a special party leader.
-
-He was speaking at a special statement during a session held in Parliament on Thursday (8).
-
-The Bill is beyond the amendments made by the High Court regarding the Celebration Bill. The Supreme Court has proposed the idea that most of the strings, including strings, including the 11,16,19,20 and 27 of the Bill, should be amended and the 16th and 19th strings should be removed.
-
-It is the duty of Parliament to properly implement the proposals proposed by the High Court on the Bill.
-
-Hope in Speaker has been blown up.. During the final debate on the bill, we sought a referendum.
-
-...
-
-[Data](articles/10fa2786.json)
-
-[Extended Data](ext_articles/10fa2786.ext.json)
-
----
-
-### North Korea is a strong decision
-
-*2024-02-08 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193145) · `si`
-
-North Korea has decided to finish all economic cooperation with South Korea, raising further growth in the Korean Peninsula.
-
-The North Korean Parliament or the Agendants representatives voted for it.
-
-The Decisions taken by the Korean People's Party or the Communist Party are legalized by the People's Council.
-
-Representatives of the Public Council have voted to cancel special governments with the tourism project with South Korea.
-
-The South Koreans visited the North Koreans around the 2000's Mount Kumgan, which began in the early 2000s.
-
-A scenic mountain range of the East Borders of the Korean Peninsula was central to the tourism project.
-
-In 2008, the project was suspended after a South Korean tourist was shot dead by the North Korean security forces.
-
-The South Korean Hyundai Group had invested about $ 564 million for this project.
-
-...
-
-[Data](articles/ca435e65.json)
-
-[Extended Data](ext_articles/ca435e65.ext.json)
-
----
-
-### The isolation that was an emergency
-
-*2024-02-08 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193144) · `si`
-
-Lonely, lonely, has been declared as 'a state of public health' in California.
-
-Foreign media reports that the California authorities have recently adopted the relevant proposal recently.
-
-Last year, the World Health Organization also stated that the global health of the long-term 'loneliness could be a health threat.
-
-The World Health Organization has pointed out that when a person is alone or physically affected by a person's mentally and physically, stress, stress, stress, and sudden deaths.
-
-It is also observed that many of its isolation has been observed.
-
-◼️
-
-[Data](articles/dbb67d94.json)
-
-[Extended Data](ext_articles/dbb67d94.ext.json)
 
 ---

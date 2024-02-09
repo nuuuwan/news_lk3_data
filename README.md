@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 08:17:09**
+As of **2024-02-09 08:32:51**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,869 (100.0%) of 5,871 articles have been extended.
+5,871 (100.0%) of 5,871 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### தம்பதியினரின் சடலங்கள் மீட்பு
+### The bodies of the couple are recovery
 
 *2024-02-09 08:02:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தம்பதியினரின்-சடலங்கள்-மீட்பு/175-332936) · `ta`
 
-மிரிஹான ஜுபிலி மாவத்தை பகுதியிலுள்ள வீடொன்றில் இருந்து நேற்று (08) தம்பதியினரின் சடலங்கள் கண்டு பிடிக்கப்பட்டுள்ளன.
+The bodies of the couple have been found yesterday (08) from a house in the Mirihana Jubili Mawatha area.
 
-பொலிஸார் குறித்த வீட்டிற்கு சென்று சோதனை செய்தபோது, ​​வீட்டின் அறையில் கட்டிலில் சில நாட்களுக்கு முன் உயிரிழந்த ஆணின் சடலம் கண்டுபிடிக்கப்பட்டுள்ளது.
+The body of a man who died a few days ago in the house of the house was found when the police went to the house.
 
-வீட்டின் சமையலறை தரையில் நிர்வாணமாக பெண்ணின் சடலம் இருந்ததாக பொலிஸார் மேலும் தெரிவித்தனர்.
+Police said the woman's body was naked naked on the kitchen of the house.
 
-சில நாட்களாக குறித்த பகுதியில் கடும் துர்நாற்றம் வீசுவதாக அயலவர் ஒருவர் மிரிஹான பொலிஸாருக்கு வழங்கிய அறிவித்தலின் படி குறித்த வீடு சோதனையிடப்பட்டுள்ளது.
+The house has been raided, according to a notification made by a neighbor to Mirihana police that he was severely stinking in the area.
 
 ◼️
 
 [Data](articles/e4ec21c7.json)
+
+[Extended Data](ext_articles/e4ec21c7.ext.json)
 
 ---
 
@@ -416,19 +418,21 @@ In 2018, the US Government provided a grant of $ 26 million to Sri Lanka to impl
 
 ---
 
-### 37 கோடி ரூபா மதிப்புள்ள 2 மாணிக்கக்கற்கள் மீட்பு
+### 37 crores worth of 2 gems recovery
 
 *2024-02-09 02:52:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/37-கோடி-ரூபா-மதிப்புள்ள-2-மாணிக்கக்கற்கள்-மீட்பு/175-332934) · `ta`
 
-கொஸ்லந்த பொலிஸார் மேற்கொண்ட சுற்றிவளைப்பில் 37 கோடி ரூபா மதிப்புள்ள இரு மாணிக்கக்கற்கள் கைப்பற்றப்பட்டுள்ளன.
+Koslanda police have seized two gems worth Rs 37 crore.
 
-இதன்போது சட்டவிரோதமான முறையில் விற்பனை செய்யப்படவிருந்த 2 நீல மாணிக்கக்கற்கள் கைப்பற்றப்பட்டுள்ளன. அவற்றின் மதிப்பு 37 கோடி ரூபா என இராணுவ ஊடகப்பிரிவு தெரிவித்துள்ளது.
+Two blue gems have been seized illegally. Their value is Rs 37 crore, the Military Media Unit said.
 
-சம்பவம் தொடர்பில் வெலிவேரி பிரதேசத்தின் தேரர் ஒருவர் உட்பட இருவர் கொஸ்லந்த பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர். (a)
+Two persons, including a Thera of Weliweri, have been arrested by Koslanda police in connection with the incident.. (A)
 
 ◼️
 
 [Data](articles/c77f2ec1.json)
+
+[Extended Data](ext_articles/c77f2ec1.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 00:17:28**
+As of **2024-02-10 00:33:06**
 
 ## Newspaper Stats
 
-*Scraped **6,020** Articles*
+*Scraped **6,024** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 72
 bbccomsinhala | 86
 dbsjeyarajcom | 142
 islandlk | 308
-economynextcom | 317
+economynextcom | 318
 dailyftlk | 332
 newsfirstlk | 363
 adalk | 505
@@ -20,17 +20,69 @@ tamilmirrorlk | 735
 virakesarilk | 744
 adaderanalk | 746
 adaderanasinhalalk | 807
-dailymirrorlk | 863
+dailymirrorlk | 866
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,018 (100.0%) of 6,020 articles have been extended.
+6,020 (99.9%) of 6,024 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-02-10 (Saturday)
+
+### The Kaithady Explosion that Rocked the LTTE on Valentine’s Day
+
+*2024-02-10 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Kaithady-Explosion-that-Rocked-the-LTTE-on-Valentines-Day/172-276711) · `en`
+
+The 14th of February 1987 remains an explosive date in the  annals of contemporary military history. A well-laid plan by the LTTE –  known popularly as the ‘Tigers’ – to attack the Navatkuli Army Camp on  Valentine’s Day went awry, due to the accidental explosion that killed  43 and injured 51 persons
+
+Prabakaran wanted his cadres to re-draw plans and attack  Navatkuli again. But while preparations were in progress, the soldiers  expanded the camp area further by taking over the Andriesz factory and  the Thamby Walavu Coconut grove. The water problem faced by the Army was  solved.
+
+The H-hour struck. The water bowser was substituted, and then filled with water at Kaithady, but the Tigers found to their dismay that in spite of their elaborate preparations, they had neglected one aspect. They had not tried filling their duplicate bowser with water, prior to the actual switching of both. When the water was filled, the outer pipes of the explosive laden bowser began leaking
+
+...
+
+[Data](articles/689bcf12.json)
+
+---
+
 ### 2024-02-09 (Friday)
+
+### Tax files for everyone impractical to be done- Champika Ranawaka
+
+*2024-02-09 23:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tax-files-for-everyone-impractical-to-be-done-Champika-Ranawaka/108-276685) · `en`
+
+Colombo, Feb 09 (Daily Mirror) - MP Patali Champika Ranawaka, leader of the United Republic Front underscores the impracticality of preparing tax files for every citizen of Sri Lanka.
+
+He highlights the considerable time and manpower required, indicating that it takes approximately half an hour to process a single tax file while considering all requisite criteria.
+
+With only nine officers tasked with this responsibility, the daily processing capacity is limited to 144 files, making the processing of millions of files a daunting and time-consuming endeavour.
+
+He  contends that prioritising the collection of unpaid taxes from the 1272 defaulters identified by the Inland Revenue Department should take precedence over opening new tax files for every individual. However, he criticises the lack of action taken by the current government in this regard, resulting in an undue burden on the populace and the adoption of impractical measures.
+
+◼️
+
+[Data](articles/f4e6b4d2.json)
+
+---
+
+### Pathum Nissanka runs riot; becomes first Sri Lankan to slam ODI double ton
+
+*2024-02-09 23:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pathum-Nissanka-runs-riot-becomes-first-Sri-Lankan-to-slam-ODI-double-ton/108-276712) · `en`
+
+Feb. 9 (Daily Mirror) - An inevitable win for Sri Lanka was only delayed by Afghanistan’s sixth wicket pair, Mohammad Nabi and Azmatullah Omarzi, who both cracked tons and shared a 242-run stand, as it turned out to be insufficient and too late.
+
+Afghanistan, in their massive run chase of 382 runs, put themselves in deep trouble as they lost their top five wickets with just 55 on the scoreboard and ended up with a score of 339 for 6 to give Sri Lanka a win by 42 runs in the first of the three-match ODI series played at the Pallekele International Cricket Stadium today and take a 1-0 lead.
+
+Earlier in the day, Pathum Nissanka was on fire whilst running riot as he sent the Afghanistan bowlers on a leather hunt by slamming an unbeaten knock of 210 runs in only 139 balls, which included 20 boundaries and eight towering sixes, to become the first Sri Lanka batsman to slam an ODI double ton to help Sri Lanka, invited to take first lease of the wicket, to end with a formidable score of 381 for 3.
+
+...
+
+[Data](articles/bdf1c508.json)
+
+---
 
 ### Israeli PM orders military plan to evacuate Rafah and defeat Hamas
 
@@ -48,6 +100,8 @@ Aid groups said there would be a high Palestinian death toll if Israeli forces s
 
 [Data](articles/13ad71b0.json)
 
+[Extended Data](ext_articles/13ad71b0.ext.json)
+
 ---
 
 ### Indian Ocean Region’s stability requires early end to Gaza war - President Ranil
@@ -61,6 +115,8 @@ He made this remark while delivering the keynote address at the 7th Indian Ocean
 ◼️
 
 [Data](articles/344d4d71.json)
+
+[Extended Data](ext_articles/344d4d71.ext.json)
 
 ---
 
@@ -697,6 +753,24 @@ High Commissioner Wajith Hasan Hashmi and other officials of the High Commission
 [Data](articles/99dc581e.json)
 
 [Extended Data](ext_articles/99dc581e.ext.json)
+
+---
+
+### Sri Lanka’s fuel distributors owe more penalties than demurrages: Minister
+
+*2024-02-09 18:18:00* · [`economynextcom`](https://economynext.com/sri-lankas-fuel-distributors-owe-more-penalties-than-demurrages-minister-150563/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s fuel distributors now owe more penalties to the island nation than the demurrages Colombo must pay after the government imposed the penalty following the economic crisis, State Energy Minister D V Chanaka said.
+
+The island nation had to pay millions of dollars with $30,000 per day demurrages when Sri Lanka’s currency crisis evaporated all the foreign currencies which led to failure of fuel unloading.
+
+But President Ranil Wickremesinghe’s government imposed a penalty of $50,000 per day on fuel distributors when they are unable to unload the fuel on time.
+
+Chanaka said the penalties from the furl distributors stood at $13 million as of the end of last year, while the penalties claimed from fuel distributors for delays were at $7 million in the last two year.
+
+...
+
+[Data](articles/0fb51440.json)
 
 ---
 
@@ -1975,83 +2049,5 @@ Against this backdrop, the Sri Lankan Embassy in Jordan said that another group 
 [Data](articles/a4607656.json)
 
 [Extended Data](ext_articles/a4607656.ext.json)
-
----
-
-### A list of 349 suspects on all police
-
-*2024-02-09 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193163) · `si`
-
-The police have admitted 349 more drug dealers across the country to the Justice Registry.
-
-The arrest of drug dealers is continuing to arrest drug dealers across the country under the justification commencement of yesterday.
-
-Accordingly, 296 newly identified racketeers, including 53 newly identified racketeers, who have already identified as followers of the Sri Lankan traffickers have been released as acting.
-
-The list has been sent to the Senior Superintendent of Police in the country, police headquarters.
-
-◼️
-
-[Data](articles/ea6651a0.json)
-
-[Extended Data](ext_articles/ea6651a0.ext.json)
-
----
-
-### New Aswesum applications from tomorrow
-
-*2024-02-09 11:15:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-புதிய-அஸ்வெசும-விண்ணப்பங்கள்/175-332942) · `ta`
-
-New applications for the Assistant Assistance Scheme are to be requested from tomorrow).
-
-Based on the recommendations of various parties, the Ministry of Finance has stated that certain conditions for selecting beneficiaries will be amended.
-
-The government has taken steps to increase the total number of beneficiaries to 2 million. (Of)
-
-◼️
-
-[Data](articles/c22c725c.json)
-
-[Extended Data](ext_articles/c22c725c.ext.json)
-
----
-
-### The cement corporation can earn $ 100 million from the land
-
-*2024-02-09 11:07:01* · [`adalk`](https://www.ada.lk/breaking_news/සිමෙන්ති-සංස්ථාවේ-ඉඩමෙන්-ඩොලර්-මිලියන-100ක්-උපයාගත-හැකියි/11-407982) · `si`
-
-Minister of Primary Industries Chamara Sampath Dasanayake said that the 5000 acres of land belonging to the 5000 acre land belonging to the 5000 acre land a year have already been selected for this purpose.
-
-The government said that the country should be able to build as much as possible by the resources of the country and build the country.
-
-Minister of Primary Industries Chamara Sampath Dasanayake made this statement participating at a press conference held at the Presidential Media Center today (07).
-
-State Minister of Primary Industries Chamara Sampath Dasanayake said:
-
-...
-
-[Data](articles/f8511f5f.json)
-
-[Extended Data](ext_articles/f8511f5f.ext.json)
-
----
-
-### President meets Sri Lankans in Australia
-
-*2024-02-09 11:06:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுஸ்திரேலியாவில்-உள்ள-இலங்கையர்களை-சந்தித்தார்-ஜனாதிபதி/175-332941) · `ta`
-
-President Ranil Wickremesinghe, who visited Australia's Perth city to attend the 7th Indian Ocean Summit, met Sri Lankans in Australia.
-
-The President's Media Unit said that the President had explained to Sri Lanka's economic situation and economic modernization plans.
-
-Sri Lankans who attended the meeting said they wanted to help the government in the fields of climate change, tourism and economic development.
-
-Meanwhile, a meeting was held between President Ranil Wickremesinghe and Australian Foreign Minister Penny Wong during the visit.. (Of)
-
-◼️
-
-[Data](articles/8a8bebb2.json)
-
-[Extended Data](ext_articles/8a8bebb2.ext.json)
 
 ---

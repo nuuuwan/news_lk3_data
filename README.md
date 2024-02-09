@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 20:32:56**
+As of **2024-02-09 20:49:28**
 
 ## Newspaper Stats
 
-*Scraped **5,990** Articles*
+*Scraped **6,002** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,65 +12,125 @@ colombotelegraphcom | 71
 bbccomsinhala | 85
 dbsjeyarajcom | 142
 islandlk | 308
-economynextcom | 309
+economynextcom | 317
 dailyftlk | 332
 newsfirstlk | 363
 adalk | 504
 tamilmirrorlk | 735
-virakesarilk | 741
 adaderanalk | 742
-adaderanasinhalalk | 801
+virakesarilk | 743
+adaderanasinhalalk | 803
 dailymirrorlk | 857
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,986 (99.9%) of 5,990 articles have been extended.
+5,990 (99.8%) of 6,002 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### அதிரடி காட்டிய பெத்தும் நிஸ்ஸங்க
+### මැද පෙරදිග ගැටුම් අවසන් වනතෙක් ආසියාව අස්ථාවරයි -ජනපති
+
+*2024-02-09 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193187) · `si`
+
+ලොව ප්‍රබල රාජ්‍යයන්ගේ බල සමතුලිතතාව මත ඉන්දියන් සාගරයේ හමුදාකරණය ඉහළ යමින් පවතින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ඔස්ට්‍රේලියාවේ පර්ත් නුවරදී ඇරඹුණු 7 වැනි ඉන්දිය සාගර සමුළුව අමතමින් ජනාධිපතිවරයා වැඩිදුරටත් සඳහන් කරන්නේ, ඉන්දීය සාගර කලාපයේ ස්ථාවරභාවය ඇතිකිරීම සඳහා ගාසා තීරයේ යුද්ධය කඩිනමින් නිමා කිරීම අත්‍යවශ්‍ය බවය.
+
+7 වැනි ඉන්දිය සාගර සමුළුව ඔස්ට්‍රේලියාවේ පර්ත් නුවරදී අද ඇරඹුණි.
+
+එහි ප්‍රධාන ආරාධිතයන් ලෙස ශ්‍රී ලංකා ජනාධිපති රනිල් වික්‍රමසිංහ, ඉන්දිය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්.ජයිශංකර්, ඕස්ට්‍රේලියානු විදේශ කටයුතු අමාත්‍ය පෙනී වොන්ග් සහ සිංගප්පූරු විදේශ කටයුතු අමාත්‍ය විවියන් බාලක්‍රිෂ්ණන් යන මහත්ම මහත්මීන් සහභාගී වේ.
+
+සමුළුවට පැමිණි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උණුසුම් ලෙස පිළිගනු ලැබුවේ ඔස්ට්‍රේලියානු විදේශ කටයුතු ඇමති පෙනී වොන්ග් මහත්මිය විසිනි.
+
+සමුළුව අමතා සිය ප්‍රධාන දේශනය සිදුකළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් පෙන්වා දුන්නේ, ඉන්දියන් සාගරය තුළ පවතින තීරණාත්මක ගැටලු විසඳා ගැනීම වෙනුවෙන් ක්‍රියාත්මක වීමට පුළුල් කලාපීය සැලැස්මක් අවශ්‍ය බවය.
+
+...
+
+[Data](articles/4961a843.json)
+
+---
+
+### පාකිස්තාන මහමැතිවරණයේ වැඩි වාසි ඉම්රාන් ඛාන්ට
+
+*2024-02-09 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193186) · `si`
+
+පාකිස්තානයේ දූෂිතම මහමැතිවරණය ලෙස විශේෂඥයන් අර්ථකථනය කළ එරට මෙවර මහමැතිවරණයේ ප්‍රතිඵල මේ වන විට නිකුත් වෙමින් පවතියි.
+
+දැනට නිකුත් වී ඇති ඡන්ද ප්‍රතිඵල අතුරින් මේ වනවිට ඉදිරියෙන් සිටින්නේ, ස්වාධීන ව මැතිවරණයට ඉදිරිපත් වූ දැනට සිරගත ව සිටින එරට හිටපු අගමැති ඉම්රාන් ඛාන්ගේ පක්ෂයේ අපේක්ෂකයින් වීම විශේෂත්වයකි.
+
+දුරකථන සබඳතා, අන්තර්ජාල සබඳතා පවා විසන්ධි කොට ඊයේ (08) පැවති පාකිස්තාන මහමැතිවරණයේ ඡන්ද ප්‍රතිඵල මේ වන විට නිකුත් වෙමින් පවති‍යි.
+
+මැතිවරණ ආසන 265න් 122ක ප්‍රතිඵල දැනට නිකුත් කර ඇති අතර, ඉන් ආසන 49ක ජය තහවුරු කර ගැනීමට, සිරගත ව සිටින ඉම්රාන් ඛාන්ගේ පක්ෂයට සහාය දක්වන අපේක්ෂකයන් සමත් වී තිබීම විශේෂත්වයකි.
+
+එරට හිටපු අගමැතිවරයෙකු වන නවාස් ශරීෆ් ආසන 39ක් දිනා ඇති අතර, ඝාතනයට ලක් වූ හිටපු අගමැතිනි බෙනාසීර් භූතෝගේ පක්ෂය දිනා ඇත්තේ ආසන 30ක් පමණි.
+
+...
+
+[Data](articles/a7f5ce89.json)
+
+---
+
+### கேரளா கைத்தொழில் அமைச்சர் ராஜீவை சந்தித்த அநுர குமார திசாநாயக்க உள்ளிட்ட பிரதிநிதிகள் குழுவினர்
+
+*2024-02-09 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176001) · `ta`
+
+இந்திய அரசாங்கத்தின் உத்தியோகபூர்வ அழைப்பின்பேரில் அந்நாட்டுக்கான  விஜயத்தை மேற்கொண்டுள்ள தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க உள்ளிட்ட பிரதிநிதிகள் குழு கலந்துகொள்கின்ற இந்திய விஜயத்தின் ஐந்தாவதும் இறுதியுமான நாள் இன்றாகும்.
+
+இந்தியாவின் கமியூனிஸ்ட் கட்சியை (CPIM-Kerala) முதன்மையாகக்கொண்ட இடதுசாரிக் கூட்டமைப்பினால் அதிகாரம் வகிக்கப்படுகின்ற கேரளா மாநிலத்திலேயே இன்று அவர்கள் சுற்றுப்பயணம் மேற்கொண்டார்கள்.  மூன்று கோடியே ஐம்பது இலட்சத்திற்கு மேற்பட்ட சனத்தொகையைக் கொண்ட கேரளா மாநிலம் கல்வி மற்றும் சுகாதாரம் ஆகிய துறைகளில் வேகமான முன்னேற்றமடைந்துள்ளது.  குறிப்பாக இந்தியாவின் தகவல் தொழில்நுட்பத் துறையில் அதியுயர் இடத்தை கேரளா உரித்தாக்கிக் கொண்டுள்ளது.
+
+...
+
+[Data](articles/e5993086.json)
+
+---
+
+### Bethum Nissanga shown in action
 
 *2024-02-09 19:29:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிரடி-காட்டிய-பெத்தும்-நிஸ்ஸங்க/175-332947) · `ta`
 
-ஆப்கானிஸ்தான் மற்றும் இலங்கை அணிகளுக்கிடையிலான முதலாவது ஒரு நாள் சர்வதேச கிரிக்கெட் போட்டி கண்டி - பல்லேகலை மைதானத்தில் இன்று இடம்பெறுகின்றது.
+The first one -day international cricket match between Afghanistan and Sri Lanka will take place today at the Kandy -Pallekel Ground.
 
-இதில் நாணய சுழற்சியில் வெற்றி பெற்ற ஆப்கானிஸ்தான் அணி முதலில் களத்தடுப்பில் ஈடுபட தீர்மானித்தது.
+Afghanistan won the currency spin and decided to field first.
 
-அதன்படி, முதலில் துடுப்பாடிய இலங்கை அணி நிர்ணயிக்கப்பட்ட 50 ஓவர்கள் நிறைவில் 03 விக்கெட்டுக்களை இழந்து 381 ஓட்டங்களை பெற்றுக்கொண்டது.
+Accordingly, the Sri Lankan team first lost 3 wickets in 50 overs and scored 381 runs.
 
-ஒருநாள் சர்வதேச கிரிக்கெட் போட்டிகளில் இவர் பெற்ற முதலாவது இரட்டை சதம் இதுவாகும்.
+This is the first double century in ODIs.
 
-இலங்கை கிரிக்கெட் வரலாற்றில் ஒருநாள் சர்வதேச கிரிக்கெட் போட்டிகளில் இரட்டை சதம் கடந்த முதல் வீரர் பெத்தும் நிஸ்ஸங்க ஆவார்.
+Beth and Nissanka is the first player in the history of Sri Lankan cricket in one -day international cricket.
 
-அத்துடன், அவிஸ்க பெர்னாண்டோ 88 ஓட்டங்களையும், சதீர சமரவிக்ரம 45 ஓட்டங்களையும் பெற்றுக்கொடுத்தனர்.
+In addition, Aviska Fernando scored 88 runs and Satheera Samarawickrama scored 45 runs.
 
-பந்துவீச்சில் ஆப்கானிஸ்தான் அணியின் மொஹம்மட் நபி 44 ஓட்டங்களுக்கு ஒரு விக்கெட்டை கைப்பற்றினார்.
+Afghanistan's Mohammed Prophet took one wicket for 44 runs.
 
-இந்தநிலையில், ஆப்கானிஸ்தான் அணி 382 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி துடுப்பெடுத்தாடுகின்றது. R
+In the meantime, Afghanistan are bowled out for 382 runs. Remble
 
 ◼️
 
 [Data](articles/9ba9e239.json)
 
+[Extended Data](ext_articles/9ba9e239.ext.json)
+
 ---
 
-### மலையக ரயில் போக்குவரத்து பாதிப்பு
+### Hill rail traffic impact
 
 *2024-02-09 19:13:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-ரயில்-போக்குவரத்து-பாதிப்பு/175-332946) · `ta`
 
-நாவலப்பிட்டியில் இருந்து நானுஓயா வரை பயணித்த சரக்கு ரயில் தடம் புரண்டதால் மலையக ரயில் போக்குவரத்து தடைப்பட்டுள்ளதாக நாவலப்பிட்டி ரயில் கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+The Navalapitiya Railway Control Room has said that the train traffic from Nawalapitiya to Nanuoya has been blocked due to the derailment of the freight train.
 
-இன்று மாலை 5:00 மணியளவில் ரயிலின் இயந்திரம் மற்றும் ஒரு பெட்டி தடம் புரண்டுள்ளது.
+The train's engine and a box derailed at 5:00 pm today.
 
-இதனையடுத்து, கொழும்பில் இருந்து பதுளை வரை செல்லும் ரயில்கள் வட்டவளை ரயில் நிலையத்துக்கும், பதுளையில் இருந்து கொழும்பு நோக்கி செல்லும் ரயில்கள் ஹட்டன் நிலையம் வரை இயக்கப்படும் என ஹட்டன் நிலைய அதிகாரி ஒருவர் தெரிவித்தார். (N)
+Subsequently, trains from Colombo to Badulla will be operated from the Vattawala Railway Station and the trains from Badulla to Colombo will be operated from Hatton Station, a Hatton Station official said.. (Of)
 
 ◼️
 
 [Data](articles/f6d88d58.json)
+
+[Extended Data](ext_articles/f6d88d58.ext.json)
 
 ---
 
@@ -96,29 +156,49 @@ Furthermore, police have uncovered that the suspect in question, who joined the 
 
 ---
 
-### திடீரென துப்பாக்கி இயங்கியதில் பொலிஸ் உத்தியோகத்தர் காயம்
+### Police officer injured in the sudden gunmen
 
 *2024-02-09 19:08:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-துப்பாக்கி-இயங்கியதில்-பொலிஸ்-உத்தியோகத்தர்-காயம்/175-332945) · `ta`
 
-மொனராகலை - ஒக்கம்பிடி பகுதியில் பொலிஸ் உத்தியோகத்தர் ஒருவரின் துப்பாக்கி இயங்கியதில் மற்றுமொரு பொலிஸ் உத்தியோகத்தர் காயமடைந்துள்ளார்.
+Another police officer has been injured in a gunfight of a police officer in the Moneragala - Okampidi area.
 
-குறித்த உத்தியோகத்தர் துப்பாக்கியை பராமரிக்கும் செயற்பாட்டில் இன்று, முற்பகல் ஈடுபட்டிருந்த போது திடீரென துப்பாக்கி இயங்கியுள்ளது.
+The gunman was suddenly operating when the officer was engaged in the process of maintaining the gun.
 
 ◼️
 
 [Data](articles/7f73988c.json)
 
+[Extended Data](ext_articles/7f73988c.ext.json)
+
 ---
 
-### கோபா குழுவின் தலைவராக  ஹர்ஷ டி சில்வா
+### Harsha de Silva as the head of the Gopa Group
 
 *2024-02-09 19:04:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோபா-குழுவின்-தலைவராக-ஹர்ஷ-டி-சில்வா/175-332944) · `ta`
 
-அரச கணக்குகள் தொடர்பான குழுவின் (கோபா) தலைவராக ஹர்ஷ டி சில்வா மீண்டும் நியமிக்கப்பட்டுள்ளார். (N)
+Harsha de Silva has been re -appointed as the Chairman of the Committee of State Accounts (Copa). (Of)
 
 ◼️
 
 [Data](articles/f9707abb.json)
+
+[Extended Data](ext_articles/f9707abb.ext.json)
+
+---
+
+### பொருளாதார நெருக்கடியிலிருந்து மீண்டு விட்டோம் என்பது பேச்சுக்கு மாத்திரம் வரையறுக்கப்பட்டுள்ளது - ரஞ்சித் மத்தும பண்டார
+
+*2024-02-09 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176000) · `ta`
+
+பொருளாதார நெருக்கடியிலிருந்து மீண்டு விட்டோம் என்று ஜனாதிபதி குறிப்பிடுவது பேச்சுக்கு மாத்திரம் வரையறுக்கப்பட்டுள்ளது. நாட்டு மக்கள் இன்றும் ஏழ்மையில் தான் உள்ளார்கள். மக்களின் உரிமைகளை முடக்குவதற்காகவே  சட்டங்கள் இயற்றப்படுகின்றன. ஜனநாயகத்துக்கு எதிரான அரசாங்கத்தின் செயற்பாடுகள் அரசாங்கத்துக்கே எதிராக அமையும் என ஐக்கிய மக்கள் சக்தியின் பொதுச்செயலாளரும், பாராளுமன்ற உறுப்பினரான ரஞ்சித் மத்தும பண்டார தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வெள்ளிக்கிழமை (9) இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரை மீதான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
+
+பொருளாதார நெருக்கடியிலிருந்து நாட்டை மீட்டு விட்டதாக ஜனாதிபதி குறிப்பிடுகிறார். ஆனால் நாட்டு மக்கள் இன்றும் ஏழ்மையில் தான் உள்ளார்கள்.ஜனாதிபதியின் உரையை  ஆளும் தரப்பினர்  கரகோசித்து வரவேற்கிறார்கள். பொருளாதார நெருக்கடியை ஏற்படுத்தியது யார் ? நாட்டை வங்குரோத்து நிலைக்குத் தள்ளியது யார் என்பது தற்போது மறக்கடிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/9adcf2af.json)
 
 ---
 
@@ -138,23 +218,9 @@ The slow train plying from Nawalapitiya to Nanu Oya has been derailed between th
 
 ---
 
-### Harsha to Harsha again
-
-*2024-02-09 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193184) · `si`
-
-Parliament Harsha de Silva has been repeated for the post of Chairman of the Committee on Public Finance Committee.
-
-◼️
-
-[Data](articles/1248b60a.json)
-
-[Extended Data](ext_articles/1248b60a.ext.json)
-
----
-
 ### Bethum Nissanka has a double century in international ODI cricket
 
-*2024-02-09 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/175999) · `ta`
+*2024-02-09 18:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175999) · `ta`
 
 Beth and Nissanka set a new record for Sri Lanka by scoring a double century in the first international ODI match in Pallekele in Kandy against Afghanistan.
 
@@ -175,6 +241,20 @@ Beth and Nissanka shared 182 runs in the opening wicket with Avishka Fernando, w
 [Data](articles/4146cf0e.json)
 
 [Extended Data](ext_articles/4146cf0e.ext.json)
+
+---
+
+### Harsha to Harsha again
+
+*2024-02-09 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193184) · `si`
+
+Parliament Harsha de Silva has been repeated for the post of Chairman of the Committee on Public Finance Committee.
+
+◼️
+
+[Data](articles/1248b60a.json)
+
+[Extended Data](ext_articles/1248b60a.ext.json)
 
 ---
 
@@ -335,6 +415,32 @@ According to Moneragala Hospital, sources of the Moneragala Hospital said that h
 [Data](articles/abe3a334.json)
 
 [Extended Data](ext_articles/abe3a334.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 313.00/10 to the US dollar
+
+*2024-02-09 18:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-313-00-10-to-the-us-dollar-150554/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 313.00/10 to the US dollar Friday, from 313.00/50 on Thursday, dealers said.
+
+A bond maturing on 01.02.2026 closed at 10.80/95 percent down from 11.00/10 percent.
+
+A bond maturing on 15.09.2027 closed at 11.65/80 percent from 11.65/85 percent.
+
+A bond maturing on 15.03.2028 closed at 12.05/20 percent from 12.00/15 percent.
+
+A bond maturing on 15.07.2029 closed at 12.50/80 percent from 12.45/75 percent.
+
+A bond maturing on 15.05.2030 closed at 12.25/45 percent down from 12.40/65 percent.
+
+A bond maturing on 15.05.2031 closed at 12.50/90 percent from 12.70/13.05 percent.
+
+A bond maturing on 01.07.2032 closed at 12.50/90 percent down from 12.80/13.05 percent. (Colombo/Feb9/2024)
+
+◼️
+
+[Data](articles/08a1aef2.json)
 
 ---
 
@@ -647,6 +753,28 @@ The fishing community said that the aircraft had to issue an order to pay an ord
 [Data](articles/39a44ad2.json)
 
 [Extended Data](ext_articles/39a44ad2.ext.json)
+
+---
+
+### Sri Lanka stocks close up, JKH pushes turnover
+
+*2024-02-09 16:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-jkh-pushes-turnover-150543/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader All Share Index closed up 20.00 points, or 0.19 percent at 10,567, while the S&P SL20 Index closed up 3,026 points, up 0.39 percent, or 11.61 points.
+
+Turnover was at 792 million. John Keells Holdings Plc saw large volumes traded (182mn), and the share closed up at 185.75.
+
+Positive contributors to ASPI in the day included Sampath Bank Plc (up at 72.90), Hemas Holdings Plc (up at 74.00), and Commercial Bank of Ceylon Plc (up at 89.50).
+
+Shares of Windforce Plc which is part of a consortium that signed a power purchase agreement with the Ceylon Electricity Board (CEB) on Thursday (8), relating to the 100 MW solar power project Rividhanavi (Private) Limited in Siyambalanduwa, closed up at 19.60. The company also announced a interim dividend of Rs1 per share for the year ending 31/03/2024.
+
+There was a net foreign outflow of 45 million. (Colombo/Feb9/2024).
+
+◼️
+
+[Data](articles/7a633767.json)
 
 ---
 
@@ -1044,6 +1172,24 @@ Mr Hur interviewed the 81-year-old president over five hours as part of the inqu
 
 ---
 
+### Sections of Sri Lanka’s Online Safety Act appear non-compliant with court order: HRCSL
+
+*2024-02-09 13:51:00* · [`economynextcom`](https://economynext.com/sections-of-sri-lankas-online-safety-act-appear-non-compliant-with-court-order-hrcsl-150529/) · `en`
+
+ECONOMYNEXT — The Human Rights Commission of Sri Lanka (HRCSL) has written to the Speaker of Parliament, pointing to sections and omissions in the Online Safety Act that HRCSL said appear to be non-compliant with the Supreme Court’s Determination on the bill.
+
+According to the letter, dated Thursday February 08, Sections 13, 16, 19, 20, and 27 of the Online Safety Act, or the corresponding clauses of the Online Safety Bill (13, 17, 21, 22, and 31 respectively), appear non-compliant with the apex court’s determination.
+
+The Commission said that it had highlighted in a previous communication that law enforcement authorities in Sri Lanka have encountered significant challenges in interpreting and applying existing criminal law applicable to online activity.
+
+“We cautioned the government against proceeding with the enactment of the Bill without first engaging in meaningful institutional reform,” the letter, signed by HRCSL chairman Justice L T B Dehideniya, said.
+
+...
+
+[Data](articles/f7d8a506.json)
+
+---
+
 ### Law reforms for system change: SJB Lawyers Federation to Propose 117 Reforms
 
 *2024-02-09 13:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Law-reforms-for-system-change-SJB-Lawyers-Federation-to-Propose-117-Reforms/108-276671) · `en`
@@ -1112,6 +1258,22 @@ The three suspects have also been ordered to appear before the CID every month.
 
 ---
 
+### Sri Lanka, Perth WA officials discuss direct aviation links
+
+*2024-02-09 13:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-perth-wa-officials-discuss-direct-aviation-links-150521/) · `en`
+
+ECONOMYNEXT – Sri Lankan officials are discussing bolstering bilateral relations further and have discussed the possibility of direct flights between the island and Perth, Western Australia, Foreign Minister Ali Sabry said.
+
+Sabry and President Ranil Wickremesinghe are in Perth for the Indian Ocean Conference, where they met with Western Australia’s Premier Roger Cook, among others. “He expressed interest in renewable energy, agriculture and direct aviation links with Sri Lanka,” Sabry said on social media platform X (twitter).
+
+“Noting Sri Lanka’s on-going efforts to develop its renewable energy sector, the President underscored the country’s vast potential in this area and outlined Sri Lanka’s modernization program in agriculture and invited Premier Cook to visit Sri Lanka to explore investment opportunities.”
+
+...
+
+[Data](articles/a04675ea.json)
+
+---
+
 ### Paddy purchasing prices will be produced in the Maha Season
 
 *2024-02-09 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193166) · `si`
@@ -1137,6 +1299,28 @@ The Department of Agriculture has obtained his views in all areas including farm
 [Data](articles/e759b059.json)
 
 [Extended Data](ext_articles/e759b059.ext.json)
+
+---
+
+### Sri Lanka earns USD 3 Mn in fuel sales to vessels through bunkering system: official
+
+*2024-02-09 13:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-earns-usd-3-mn-in-fuel-sales-to-vessels-through-bunkering-system-official-150520/) · `en`
+
+ECONOMYNEXT — Sri Lanka has generated 3 million US dollars in revenue through the sale of 5,200 metric tons of fuel via a revived bunkering system for vessels, State Minister of Power and Energy D V Chanaka said.
+
+This signifies a significant step forward in stabilising the country’s energy finances, Chanaka told reporters on Thursday February 08.
+
+The establishment of a USD 200 million buffer stock demonstrates proactive planning to mitigate future economic fluctuations and ensure energy security, he said.
+
+According to the state minister, Sri Lanka currently holds the largest oil reserves in its recent history, which he said signifies a significant improvement in fuel security and preparedness.
+
+The official said  Sri Lanka could also reduce fuel prices after March if there is no unpredictable events or sharp depreciation in the rupee currency.
+
+Sri Lanka minister hopes to reduce fuel prices after March with boosted energy securitySee more
+
+◼️
+
+[Data](articles/bbe9f675.json)
 
 ---
 
@@ -1361,6 +1545,26 @@ The Minister assured maximum transparency in the transaction process. However, h
 [Data](articles/1ae2b606.json)
 
 [Extended Data](ext_articles/1ae2b606.ext.json)
+
+---
+
+### Sri Lanka’s copyright laws need to be updated for artificial intelligence: Lawyers
+
+*2024-02-09 11:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-copyright-laws-need-to-be-updated-for-artificial-intelligence-lawyers-150509/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Intellectual Property Act needs revisions to recognize creations by artificial intelligence, legal professionals point out.
+
+“Our Intellectual Property Act established in 2003 recognizes only a human as an author,” lawyer and academic in intellectual property, Sidath Gajanayaka said at a panel discussion on ‘Integrating AI into Human Lives: Legal Challenges in the Age of AI’ on Thursday (8).
+
+Section 5 of the Intellectual Property Act describes an author as ‘the physical person who has created the work’ paving the way for questions regarding the use of artificial intelligence in creative works.
+
+Artificial intelligence programs, such as ChatGPT, have been able to write articles and research pieces independently.
+
+“We must look at how much of a human intervention is there to write an article,” Gajanayaka said. “Who is recognized as the author is a dilemma. Ideally, it is a person who gave the prompt.”
+
+...
+
+[Data](articles/44aa0df0.json)
 
 ---
 
@@ -1658,6 +1862,24 @@ We are now in the case of the country, gradually, gradually getting rise in the 
 
 ---
 
+### Sri Lanka in talks with India to establish multi product oil pipeline
+
+*2024-02-09 10:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-talks-with-india-to-establish-multi-product-oil-pipeline-150500/) · `en`
+
+ECONOMYNEXT – Sri Lanka is in talks with India to establish a multi product oil pipeline connecting Nagapattnam, Trincomalee Tank Farm and Colombo, its Energy Minister said.
+
+“On the sidelines of the India Energy week I had a meeting with the Indian Oil yesterday. We discussed the proposal by the Indian Government through IOC for a multi product oil pipeline connecting Nagapattnam, Trincomalee Tank Farm and Colombo,” Minister of Power and Energy Kanchana Wijesekera said on his social media platform.
+
+“Technical studies, demand market analysis, financial analysis and business models will be conducted to decide on the mechanism. We also discussed about the investments and expansion of projects under the joint venture in Trincomalee tank farm, CPSTL and LIOC retail operations.”
+
+Wijesekera is in India to participate at the 2nd edition of the India Energy Week held on February 6-7, on the invitation of the Ministry of Petroleum and Natural Gas of India.
+
+...
+
+[Data](articles/64237a30.json)
+
+---
+
 ### 15 hours of water in Colombo tomorrow
 
 *2024-02-09 10:38:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-நாளை-15-மணித்தியால-நீர்வெட்டு/175-332940) · `ta`
@@ -1734,6 +1956,26 @@ Further, the NWS&DB has requested the cooperation of the public to conserve wate
 
 ---
 
+### Sri Lanka rupee opens stable at 313.00/50 to the US dollar
+
+*2024-02-09 10:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stable-at-313-00-50-to-the-us-dollar-150491/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 313.00/50 to the US dollar Friday, dealers said.
+
+A bond maturing on 01.02.2026 was quoted at 10.85/90 percent down from 11.00/10 percent.
+
+A bond maturing on 01.05.2027 was quoted at 11.60/70 percent.
+
+A bond maturing on 15.03.2028 was quoted at 12.00/05 percent from 12.00/15 percent.
+
+The Colombo Stock Exchange opened up; The All Share Price Index was up 0.13 percent at 10,561, and the S&P SL20 was up 0.46 percent at 3,028.92. (Colombo/Feb9/2024)
+
+◼️
+
+[Data](articles/7d8c97cf.json)
+
+---
+
 ### 15-hour water cut in parts of Colombo tomorrow
 
 *2024-02-09 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97134/15-hour-water-cut-in-parts-of-colombo-tomorrow) · `en`
@@ -1797,251 +2039,5 @@ However, he did not want to change his name until the father of the father was a
 [Data](articles/89e83ad7.json)
 
 [Extended Data](ext_articles/89e83ad7.ext.json)
-
----
-
-### President meets Sri Lankans in Australia
-
-*2024-02-09 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193160) · `si`
-
-President Ranil Wickremesinghe has found Sri Lankans in Australia in Perth, who is looking to Perth in Australia to join the 07th Indian Ocean Conference.
-
-The President said that the President made them informed about the economic situation in Sri Lanka and economic modernization plans.
-
-Meanwhile, Sri Lankans who joined the meeting have been asked to help the government for fields, such as climate change and tourism.
-
-◼️
-
-[Data](articles/e5631f4e.json)
-
-[Extended Data](ext_articles/e5631f4e.ext.json)
-
----
-
-### Zelensky sacks Ukraine’s commander-in-chief Valerii Zaluzhnyi
-
-*2024-02-09 09:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Zelensky-sacks-Ukraines-commander-in-chief-Valerii-Zaluzhnyi/107-276653) · `en`
-
-Kyiv, Feb 09 (BBC) - Ukraine's president has sacked the commander-in-chief of the country's armed forces, Valerii Zaluzhnyi.
-
-It follows speculation about a rift between the president and Gen Zaluzhnyi, who has led Ukraine's war effort since the conflict began.
-
-Battle-hardened Gen Oleksandr Syrskyi was announced as his replacement in a presidential decree.
-
-It is the biggest change to Ukraine's military leadership since Russia's full-scale invasion in February 2022.
-
-President Volodymyr Zelensky said the high command needed to be "renewed" and that Gen Zaluzhnyi could "remain on the team".
-
-"Starting today, a new management team will take over the leadership of the Armed Forces of Ukraine," he said on Thursday.
-
-Gen Zaluzhnyi is a popular general trusted by Ukrainian soldiers and the public, and has been something of a national hero.
-
-His recent approval ratings have been higher than those of Mr Zelensky.
-
-...
-
-[Data](articles/46d35280.json)
-
-[Extended Data](ext_articles/46d35280.ext.json)
-
----
-
-### President meets Sri Lankan Diaspora in Australia, outlines plans for economic modernization
-
-*2024-02-09 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97133/president-meets-sri-lankan-diaspora-in-australia-outlines-plans-for-economic-modernization-) · `en`
-
-President Ranil Wickremesinghe, who is in Australia on a state visit, has met with the Sri Lankan diaspora in Perth.
-
-During the interaction, the Sri Lankan leader has provided updates on the nation’s recovery efforts, while outlining strategies for economic modernization.
-
-In response, the diaspora has expressed their readiness to assist the Sri Lankan government in boosting economic development across various sectors, such as climate change and tourism.
-
-Additionally, President’s Chief-of-Staff Sagala Ratnayaka has detailed plans for establishing the Office of Overseas Sri Lankans. He emphasized that this initiative would provide an avenue for the diaspora to engage constructively with the Government.
-
-Ratnayaka also underscored the ongoing IMF program, emphasizing the importance of the diagnostics report released last year. He appealed for the continued backing of the Sri Lankan diaspora in carrying forward the reform program.
-
-...
-
-[Data](articles/825fa377.json)
-
-[Extended Data](ext_articles/825fa377.ext.json)
-
----
-
-### President meets Sri Lankan Diaspora in Perth, outlines plans for economic modernization
-
-*2024-02-09 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97133/president-meets-sri-lankan-diaspora-in-perth-outlines-plans-for-economic-modernization-) · `en`
-
-President Ranil Wickremesinghe, who is in Australia on a state visit, has met with the Sri Lankan Diaspora in Perth.
-
-During the interaction, the Sri Lankan leaders has provided updates on the nation’s recovery efforts, while outlining plans for economic modernization.
-
-In response, the Diaspora has expressed their readiness to assist the Sri Lankan government in various sectors such as climate change and tourism to boost economic development.
-
-◼️
-
-[Data](articles/aec96367.json)
-
-[Extended Data](ext_articles/aec96367.ext.json)
-
----
-
-### The husband's anger kills the youth wife
-
-*2024-02-09 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193159) · `si`
-
-The husband has killed his wife in a house in Mutur area.
-
-The woman had been killed in a family dispute.
-
-Investigations have revealed that the murder had been carried out by her neck by the suspect's dress.
-
-Muttur police are conducting further investigations into the murder.
-
-◼️
-
-[Data](articles/8b4cb2d9.json)
-
-[Extended Data](ext_articles/8b4cb2d9.ext.json)
-
----
-
-### New ‘Aswesuma’ applications to be called from tomorrow
-
-*2024-02-09 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97132/new-aswesuma-applications-to-be-called-from-tomorrow) · `en`
-
-Calling new applications for the ‘Aswesuma’ welfare benefits program is scheduled to commence tomorrow (Feb.10) to select 400,000 more beneficiaries.
-
-The Finance State Ministry said certain criteria for the selection of beneficiaries would be revised based on the suggestions made by various parties.
-
-Meanwhile, the monthly allowances paid to disabled persons, kidney patients and elderly citizens are to be retrospectively increased from January 2024.
-
-Accordingly, kidney patients and disabled persons’ allowances will be raised from Rs. 5,000 to Rs. 7,500, while the elderly citizens’ allowance will be increased from Rs. 2,000 to Rs. 3,000.
-
-On Thursday (Feb.08), State Minister Shehan Semasinghe revealed that ‘Aswesuma’ beneficiaries who are entitled to these allowances are to be identified within the first quarter of 2024 and paid the increased payments starting April 01.
-
-...
-
-[Data](articles/be107715.json)
-
-[Extended Data](ext_articles/be107715.ext.json)
-
----
-
-### Parliamentary proceedings begins
-
-*2024-02-09 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193158) · `si`
-
-◼️
-
-[Data](articles/a1cfbdd3.json)
-
-[Extended Data](ext_articles/a1cfbdd3.ext.json)
-
----
-
-### Sri Lanka - Afghan First ODI clash today
-
-*2024-02-09 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193157) · `si`
-
-The first one-day match between the Afghanistan and the Sri Lankan team will be held today (09).
-
-The match will be opened at the Pallekele Stadium in Kandy today at 2.30 pm.
-
-Sri Lanka ODI leader Kusal Mendis stated that the Sri Lankan team is very good for the ODI series.
-
-◼️
-
-[Data](articles/3f4737f8.json)
-
-[Extended Data](ext_articles/3f4737f8.ext.json)
-
----
-
-### 07th Indian Ocean Conference commences today
-
-*2024-02-09 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193156) · `si`
-
-The 7th Indian Ocean Conference is scheduled to commence today (09) in Perth, Australia.
-
-President Ranil Wickremesinghe had left the island early yesterday (08) to participate in the invitation of the Indian Foundation and the Australian Government of Australia.
-
-The summit will be held today and tomorrow under the theme of "a stable and sustainable Indian Ocean."
-
-It will discuss common aspirations and issues that affect other countries that are commonly affected in the Indian Ocean and other ocean.
-
-President Ranil Wickremesinghe is scheduled to address the keynote address of the 7th Indian Ocean Conference this year.
-
-The Presidential Media Unit also said that this year's conference will also be implemented with the participation of 40 countries in 40 countries to improve Indian Ocean regional cooperation.
-
-The President is also expected to join several top negotiations on new investment opportunities in Sri Lanka.
-
-...
-
-[Data](articles/b06ebea7.json)
-
-[Extended Data](ext_articles/b06ebea7.ext.json)
-
----
-
-### The drum price rose
-
-*2024-02-09 08:59:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முருங்கை-விலை-எகிறியது/175-332939) · `ta`
-
-The retail price of a kilo of drums at Narahenpitiya Special Economic Center was reported yesterday (08) at Rs 2,000.
-
-The total price of a kilo of drumstick was 1,980 rupees. It is reported that Murunga did not sell yesterday at any economic center in Sri Lanka.
-
-Meanwhile, the total price of a kilogram of bear, which was over 2,000 rupees a few days ago, was at 650 rupees yesterday (08), the Nuwara Eliya Special Economic Center said.. Remble
-
-◼️
-
-[Data](articles/0914ce8c.json)
-
-[Extended Data](ext_articles/0914ce8c.ext.json)
-
----
-
-### Volcano erupts in Iceland for third time in 2 months
-
-*2024-02-09 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97131/volcano-erupts-in-iceland-for-third-time-in-2-months) · `en`
-
-A volcano began erupting in southwestern Iceland early Thursday, sending lava jets as high as 80 meters, the country’s weather office said.
-
-“At 5:30 this morning an intense seismic activity started north-east of Mt. Sýlingarfell. Around 30 minutes later, a volcanic eruption started at the site,” the Icelandic Met Office said.
-
-Images taken by an Icelandic Coast Guard surveillance flight appeared to show the eruption taking place at a location near the Dec. 18 eruption, official said.
-
-Another eruption nearby on Jan. 14 sent lava flowing into Grindavik, a small town that had been evacuated prior to the eruption.
-
-The latest eruption began at about 6 a.m. local time on Thursday, after a series of earthquakes rumbled the region for a half-hour, Met officials said.
-
-The fissure was about 3 km long, stretching from Mount Sundhnúkur towards the eastern part of Mount Stóra-Skógfell, the office said.
-
-...
-
-[Data](articles/265189c4.json)
-
-[Extended Data](ext_articles/265189c4.ext.json)
-
----
-
-### 66 lost jobs in Jordan returns
-
-*2024-02-09 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193155) · `si`
-
-66 Sri Lankans have come to the island due to the closing of two garment factories in Jordan.
-
-Indian investors who have maintained these factory names in Jordan and Australian factory have been closed down to the employees who worked there.
-
-However, a group of Sri Lankans working in these factories have come to the Katunayake airport this morning.
-
-Another group of Sri Lankans working in the Jordani factory will be sent to the country in the next two days, the Jordan Embassy in the Jordan.
-
-◼️
-
-[Data](articles/266bc05c.json)
-
-[Extended Data](ext_articles/266bc05c.ext.json)
 
 ---

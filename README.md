@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 17:02:28**
+As of **2024-02-09 17:17:18**
 
 ## Newspaper Stats
 
-*Scraped **5,952** Articles*
+*Scraped **5,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,58 +17,118 @@ dailyftlk | 332
 newsfirstlk | 363
 adalk | 497
 tamilmirrorlk | 731
-virakesarilk | 734
-adaderanalk | 737
+virakesarilk | 735
+adaderanalk | 738
 adaderanasinhalalk | 793
-dailymirrorlk | 851
+dailymirrorlk | 852
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,950 (100.0%) of 5,952 articles have been extended.
+5,952 (99.9%) of 5,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### එක්ස්ප්‍රස් පර්ල් සිද්ධියට අදාළ පෙත්සමක් නිෂ්ප්‍රභ කෙරේ
+### MPs nominated to 5 parliamentary committees
 
-*2024-02-09 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193176) · `si`
+*2024-02-09 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97145/mps-nominated-to-5-parliamentary-committees) · `en`
 
-එක්ස්ප්‍රස් පර්ල් නෞකාව ගිනි ගැනීමේ සිද්ධිය හේතුවෙන් සිදු වූ හානිය වෙනුවෙන් වන්දි අය කර දෙන නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ධීවර ප්‍රජාව විසින් ඉදිරිපත් කළ පෙත්සමක් කොළඹ වාණිජ මහාධිකරණය විසින් අද (09) නිෂ්ප්‍රභ කළේ ය.
+The names of the Members of Parliament (MPs) who were appointed to serve in 5 parliamentary committees have been announced.
 
-කොළඹ වාණිජ මහාධිකරණ විනිසුරු ප්‍රදීප් හෙට්ටිආරච්චි මහතා විසින් මෙම තීන්දුව ලබා දී ඇත.
+Earlier today (Feb.09), Speaker Mahinda Yapa Abeywardana tabled the lists, in all three languages, containing the names of the members newly appointed as per the motions passed by Parliament.
 
-මීට පෙර අදාළ පෙත්සම සලකා බැලූ අවස්ථාවේ දී ධීවර ප්‍රජාව වෙනුවෙන් පෙනී සිටි නීතිඥ හිමාලි කුලරත්න මෙනෙවිය අධිකරණය හමුවේ කරුණු දක්වමින් මෙම නෞකා අනතුර හේතුවෙන් ධීවර පවුල් 20,000 කට අධික සංඛ්‍යාවක් අගතියට පත් ව සිටින බව සඳහන් කර තිබිණි.
-
-අදාළ නෞකා සමාගමේ නොසැලිකිලිමත් හා වගකීමකින් තොර ක්‍රියා කලාපය හේතුවෙන් මෙම තත්ත්වය උද්ගත වූ බව සඳහන් කළ නීතිඥවරිය, ඒ අනුව පෙත්සම විභාගයට ගැනීම සඳහා නොතීසි නිකුත් කරන ලෙස අධිකරණයෙන් ඉල්ලා තිබිණි.
-
-ඒ අනුව අද දින නියෝගය ප්‍රකාශයට පත් කරමින් විනිසුරුවරයා සඳහන් කළේ, අදාළ පෙත්සම විභාගයට ගැනීම සඳහා නොතිසි නිකුත් කිරීමකින් තොර ව එය නිෂ්ප්‍රභ කිරීමට නියෝග කරන බවයි.
+Accordingly, members have been selected to serve in the Ministerial Consultative Committee on Transport and Highways, Ministerial Consultative Committee on Tourism and Lands, Committee on Parliamentary Business, Committee on Public Accounts, and the Committee on Ways and Means during the Fifth Session of the Ninth Parliament, which was ceremonially inaugurated by President Ranil Wickremesinghe on Feb.07.
 
 ...
 
-[Data](articles/39a44ad2.json)
+[Data](articles/08142079.json)
 
 ---
 
-### නැති වූ ටී 56 උණ්ඩ කඳවුරේ කාණුවකින් මතුවෙයි
+### CAA cracks down on bakery owners for underweight bread sales
+
+*2024-02-09 16:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CAA-cracks-down-on-bakery-owners-for-underweight-bread-sales/108-276678) · `en`
+
+Colombo, Feb 09 - (Daily Mirror) -  The Consumer Affairs Authority (CAA) has taken action against 232 bakery and shop owners for violating regulations by selling underweight loaves of bread and neglecting to display prices.
+
+This move follows the publication of an Extraordinary Gazette on February 2, which outlined standard weights for bread products.
+
+According to the gazette, a loaf of bread should weigh 450g with a permissible deficiency of 13.5g, while a half loaf should weigh 225g with a 9g allowance for deficiency. It explicitly stated that all bread products must adhere to these standards during manufacturing, packaging, storage and sale, whether at the retail or wholesale level.
+
+Furthermore, the gazette mandated that traders prominently display the weight of bread offered for sale to ensure transparency and compliance with consumer protection laws.
+
+Following the publication of the gazette, the CAA initiated extensive island-wide raids to identify vendors flouting the regulations.
+
+◼️
+
+[Data](articles/654973b6.json)
+
+---
+
+### இந்து சமுத்திரம் எதிர்கொள்ளும் ஆபத்துக்கள் என்ன ? செங்கடல் தாக்குதல்களை சுட்டிக்காட்டி சிங்கப்பூர் வெளிவிவகார அமைச்சர் கருத்து
+
+*2024-02-09 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175983) · `ta`
+
+செங்கடலில் காணப்படும் ஆபத்தான நிலைமை உட்பட பல காரணங்களால் இந்து சமுத்திர பிராந்தியம் பொருளாதார பலவீனங்களை எதிர்கொள்வதாக சிங்கப்பூரின் வெளிவிவகார அமைச்சர் விவியன் பாலகிருஸ்ணன் தெரிவித்துள்ளார்.
+
+செங்கடலில் ஹெளத்திகிளர்ச்சியாளர்களின் சமீபத்தைய தாக்குதல்கள் முக்கிய கடல்பாதைகளிற்குஏற்படக்கூடிய ஆபத்தையும் இதன்காரணமாக இந்துசமுத்திரத்தில் எண்ணெய் மற்றும் கப்பல் கொள்கலன்கள் போக்குவரத்து பாதிக்கப்படக்கூடிய ஆபத்தையும்  வெளிப்படுத்தியுள்ளன  என சிங்கப்பூரின் வெளிவிவகார அமைச்சர் தெரிவித்துள்ளார்.
+
+இந்துசமுத்திரன் முக்கிய பாதைகளில் ஏற்படக்கூடிய பாதிப்புகள் எவையும் குறிப்பாக செங்கடல் ஹோர்மஸ் நீரிணையில் ஏற்படக்கூடிய பாதிப்புகள் உலகின் முக்கிய வர்த்தக மையமான சிங்கப்பூரின் பொருளாதாரத்திற்கு பெரும் பாதிப்பை ஏற்படுத்தும் எனவும் அமைச்சர் தெரிவித்துள்ளார்.
+
+சுதந்திரகடற்பயணத்தின் சட்டரீதியான மற்றும் பொருளாதார முக்கியத்துவத்தினை சுட்டிக்காட்டியுள்ள சிங்கப்பூர் அமைச்சர் அனுமதியின்றி வாடகையின்றி கப்பல்கள் பயணம் செய்ய அனுமதிப்பதன் அவசியத்தையும்  வலியுறுத்தியுள்ளார்.
+
+◼️
+
+[Data](articles/b970f3a2.json)
+
+---
+
+### Petition to Express Pearl is dismissed
+
+*2024-02-09 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193176) · `si`
+
+The Colombo Commercial High Court today (09) a petition filed by the fishing community demonstrated the issue of compensation for the damage caused by the Express Pearl ship.
+
+The verdict has been issued by the High Court Judge High Court Judge Pradeep Hettiarachchi.
+
+At the time of the previous case, lawyer Himali Kularatne appearing on behalf of the fishing community, Miss Navali Kularatne appearing for the fishing community, over 20,000 fishermen were precious due to the shipping accident.
+
+The court said that the case was due to the negligible and no responsibility of the company.
+
+Accordingly, the judge declared that the order today, saying that the petition would be ordered to refute it without issuing the petition.
+
+The fishing community said that the aircraft had to issue an order to pay an order to pay a compensation of US $ 1.17 billion to their community damage due to the vessel accident.
+
+◼️
+
+[Data](articles/39a44ad2.json)
+
+[Extended Data](ext_articles/39a44ad2.ext.json)
+
+---
+
+### Lack of lost T-56 ammunition emerges
 
 *2024-02-09 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193175) · `si`
 
-අස්ථානගතව තිබූ හමුදා පොලිස්හේවා බළකායට අයත් ටී 56 අවියේ මැගසීනය සොයා ගෙන තිබේ.
+The Magazi of the Army Police, which was missing, was found in the T-56 weapon.
 
-නිවේදනයක් නිකුත් කරමින් යුද හමුදා මාධ්‍ය ඒකකය මේ බව සඳහන් කර ඇත.
+The Army Media Unit has made this statement in a statement.
 
-පොල්හේන්ගොඩ යුද්ධ හමුදා පොලිස්හේවා බළකා කඳවුරේ තිබූ ටී 56 උණ්ඩ 30ක් සහිත මැගසීනය යුද හමුදා පොලිස් හේවා බළකා කඳවුරේ ජලය බැසයන යන කාණුවක තිබී හමුව ඇත.
+Army Police Army Police have found 30 T-56 ammunition at the Polhengoda Police Headawitharaka.
 
-අද (09) සිදුකළ විශේෂ සෝදිසියක දී මෙහෙයුමකදී අතුරුදන්ව තිබූ මෙම මැගසීනය උණ්ඩ 30ත් සමග සිවිල් කාර්ය මණ්ඩලය භාවිත කරන සනීපාරක්ෂක පද්ධතිය අසල ජලය බැසයන කාණුව තුළ තිබී සොයාගෙන ඇත.
+A special search made by a special search in a special search was found in the drainage of the civilian staff with 30 bullets.
 
-සිදුවීම සම්බන්ධයෙන් ඉදිරි විමර්ශන යුද හමුදා පොලීසිය හා කිරුළපන පොලීසිය සිදුකරයි.
+Army Police and the Kirula Army Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/71e2a22e.json)
+
+[Extended Data](ext_articles/71e2a22e.ext.json)
 
 ---
 
@@ -708,7 +768,7 @@ Of the 37 results, former Prime Minister Nawaz Sharif's Pakistan Muslim League h
 
 *2024-02-09 11:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-will-not-sell-Visumpaya-at-lower-price-Minister/108-276667) · `en`
 
-Parliament, Feb. 09 (Daily Mirror)- Government will not sell the historic Visumpaya lower than the price which has been estimated by the Valuation Department, Minister of Urban Development Prasanna Aranatunga informed Parliament today.
+Parliament, Feb. 09 (Daily Mirror)- Government will not sell the historic Visumpaya lower than the price which has been estimated by the Valuation Department, Minister of Urban Development Prasanna Ranatunga informed Parliament today.
 
 “We are not inclined to change the price recommended by the Valuation Department for Visumpaya and are not willing to sell it at a lower price than the Valuation Department's estimate,” Minister Ranatunga responded to a query raised by the Leader of the Opposition, Sajith Premadasa, regarding the historic building.
 
@@ -1985,65 +2045,5 @@ The objectives of this project are to reduce the use of non-renewable energy in 
 [Data](articles/6d7454e2.json)
 
 [Extended Data](ext_articles/6d7454e2.ext.json)
-
----
-
-### US grants $ 58.5 m for education and health initiatives
-
-*2024-02-09 04:58:44* · [`dailyftlk`](https://www.ft.lk/news/US-grants-58-5-m-for-education-and-health-initiatives/56-758268) · `en`
-
-Cabinet approves signing MoU with relevant parties to initiate and execute the project effectively
-
-The US Government has allocated an additional grant of $ 32.5 million of the total $ 58.5 million to implement the second phase to execute a project focused on promoting self-governance, literacy and attention through market alliances.
-
-The investment, facilitated through the United States Department of Agriculture and Save the Children organisation, underscores the ongoing partnership between the two countries in promoting self-governance, literacy and healthcare through market alliances.
-
-In 2018, the US Government provided a grant of $ 26 million to Sri Lanka to implement a project focused on promoting self-governance, literacy and attention through market alliances.
-
-...
-
-[Data](articles/e760a95f.json)
-
-[Extended Data](ext_articles/e760a95f.ext.json)
-
----
-
-### Looses for loans relaxation
-
-*2024-02-09 02:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்களுக்கான-கட்டுப்பாடுகள்-தளர்வு/175-332935) · `ta`
-
-The Central Bank of Sri Lanka has further relaxed the restrictions that have been implemented to provide short -term loans to commercial banks.
-
-The decision was taken from February 16.
-
-The Central Bank of Sri Lanka said that the decision was made when the Monetary Policy Council was held yesterday.
-
-The Central Bank of Sri Lanka has been imposed by the Central Bank of Sri Lanka to implement short -term loans to commercial banks from January 16 last year.
-
-The Central Bank said it was expected to increase the rate of increasing interest rate in the market by relaxing the restrictions on this condition.. (A)
-
-◼️
-
-[Data](articles/e2df3552.json)
-
-[Extended Data](ext_articles/e2df3552.ext.json)
-
----
-
-### 37 crores worth of 2 gems recovery
-
-*2024-02-09 02:52:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/37-கோடி-ரூபா-மதிப்புள்ள-2-மாணிக்கக்கற்கள்-மீட்பு/175-332934) · `ta`
-
-Koslanda police have seized two gems worth Rs 37 crore.
-
-Two blue gems have been seized illegally. Their value is Rs 37 crore, the Military Media Unit said.
-
-Two persons, including a Thera of Weliweri, have been arrested by Koslanda police in connection with the incident.. (A)
-
-◼️
-
-[Data](articles/c77f2ec1.json)
-
-[Extended Data](ext_articles/c77f2ec1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 07:52:37**
+As of **2024-02-09 08:02:19**
 
 ## Newspaper Stats
 
-*Scraped **5,866** Articles*
+*Scraped **5,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 491
 adaderanalk | 721
 tamilmirrorlk | 721
 virakesarilk | 731
-adaderanasinhalalk | 767
+adaderanasinhalalk | 770
 dailymirrorlk | 834
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,864 (100.0%) of 5,866 articles have been extended.
+5,866 (99.9%) of 5,869 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### යළිත් එන විදුලි අර්බුදයක් ගැන ඉඟියක්
+
+*2024-02-09 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193151) · `si`
+
+යෝජිත පුනර්ජනනීය විදුලි බලාගාර ව්‍යාපෘති ක්‍රියාත්මක නොකළහොත් මෙම වසරේදී යළිත් රටේ විදුලි අර්බුදයක් නිර්මාණය වන බව ලංකා විදුලිබල මණ්ඩලයේ සාමාන්‍යාධිකාරි ආචාර්ය නරේන්ද්‍ර සිල්වා මහතා පවසයි.
+
+මූල්‍ය බංකොලොත්භාවයට හේතු පරීක්ෂා කර පාර්ලිමේන්තුවට වාර්තා කිරීම සඳහා වු පාර්ලිමේන්තු විශේෂ කාරක සභාව හමුවට විදුලිබල මණ්ඩයේ නිළධාරීන් කඳවා තිබු අතර එහිදී පසුගිය කාලය තුළ රට තුළ විදුලි අර්බුදයක් ඇති වීම සම්බන්ධයෙන් කරුණු විමසා තිබුණි.
+
+එහිදී අදහස් දක්වමින් විදුලිබල මණ්ඩලයේ සාමාන්‍යාධිකාරි ආචාර්ය නරේන්ද්‍ර සිල්වා මහතා ප්‍රකාශ කළේ පැවැති රජයන් ගත ඇතැම් තීන්දු තීරණ සහ විදුලි ජනන සැලසුම් අනුව බලාගාර ක්‍රියාත්මක නොවීමේ ප්‍රතිවිපාක මේ වනවිට ජනතාවට අත්විඳීමට සිදුවී ඇති බවය.
+
+සක්‍රීය බලශක්ති විශේෂ භාවිත කරමින් ඉදිරි ජනන සැලසුම් සකස් කිරිම කඩිනමින් සිදුකළ යුතු බවද විදුලිබල මණ්ඩලයේ සාමාන්‍යාධිකාරි ආචාර්ය නරේන්ද්‍ර සිල්වා මහතා සඳහන් කළේය.
+
+මේ අතර මෙරට විශාලතම බිම්ගත සූර්ය පැනල විදුලිබලය උත්පාදන ව්‍යාපෘතියේ විදුලිය මිලදීගැනීමේ ගිවිසුම සඳහා ලංකා විදුලිබල මණ්ඩලය සහ ඊට අදාළ පුද්ගලික සමාගම අත්සන් තබා තිබේ.
+
+...
+
+[Data](articles/bc84c12b.json)
+
+---
 
 ### Bodies of elderly couple found inside in Mirihana
 
@@ -43,6 +63,42 @@ The bodies of an elderly couple have been found inside a house in Mirihana.
 [Data](articles/8f99deb5.json)
 
 [Extended Data](ext_articles/8f99deb5.ext.json)
+
+---
+
+### මිරිහානේ නිවසකින් සැකකටයුතු ලෙස මියගිය යුවළකගේ සිරුරු හමුවෙයි
+
+*2024-02-09 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193150) · `si`
+
+නිවසක් තුළ සැකසහිත ලෙස මියගිය යුවළකගේ සිරුරු හමුවූ බව පොලීසිය පවසයි.
+
+පොලිස් නිලධාරීන් එම නිවසට ගොස් පරීක්ෂා කිරීමේදී නිවසේ කාමරයක ඇඳක් මත දින කිහිපයකට පෙර මියගිය පිරිමි මළසිරුර හමුවී තිබේ.
+
+නිවසේ මුළුතැන්ගෙයි බිම නිරුවත් කාන්තා මළසිරුරක් ද තිබූ බව පොලීසිය වැඩිදුරටත් පැවසීය.
+
+දින කිහිපයක් තිස්සේ එම නිවස පරිශ්‍රයෙන් දැඩි දුගදක් හමන බවට අසල්වැසියෙකු මිරිහාන පොලීසියට කළ දැනුම්දීමකට අනුව මෙම නිවස පරීක්ෂා කර තිබුණි.
+
+මෙලෙස මියගොස් ඇත්තේ 80 හැවිරිදි පිරිමි පුද්ගලයෙකු සහ 96 හැවිරිදි කාන්තාවකි.
+
+ඔවුන් එම නිවසේ පදිංචිව සිටි අඹු සැමි යුවළක් බව පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/52706697.json)
+
+---
+
+### උදෑසන කාලයේදී මීදුම් තත්ත්වයක්
+
+*2024-02-09 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193148) · `si`
+
+අද (09) දිනයේදී දිවයිනේ ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව අද දිනයේ මධ්‍යම, සබරගමුව සහ බස්නාහිර පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරයි.
+
+◼️
+
+[Data](articles/d3246938.json)
 
 ---
 
@@ -2007,69 +2063,5 @@ The existing ‘vulnerable’ and ‘transitional’ social groups are planned t
 [Data](articles/ca841edc.json)
 
 [Extended Data](ext_articles/ca841edc.ext.json)
-
----
-
-### Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
-
-*2024-02-08 16:07:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/cops-suspended-after-suspects-fall-ill-while-in-custody-at-woulfendhal-station/) · `en`
-
-COLOMBO (News 1st): Three officers, including the Acting OIC of Woulfendhal Police Station, have been interdicted.
-
-Police Spokesman & DIG, Attorney-at-Law Nihal Thalduwa, confirmed that the suspensions were related to an incident involving two suspects who were arrested in connection with a recent shooting.
-
-It was reported that the suspects subsequently suffering from poisoning and are currently receiving treatment at the Colombo National Hospital.
-
-The suspects collapsed in their cell after consuming packets of milk, which were given to them by an individual who came to visit them while in the police cell.
-
-The officers involved in the case have been suspended pending the outcome of the investigation.
-
-US Supreme Court begins hearing case on whether to disqualify Trump from presidential election
-
-Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
-
-Cops Suspended After Suspects Fall Ill While in Custody at Woulfendhal Station
-
-...
-
-[Data](articles/0e052293.json)
-
-[Extended Data](ext_articles/0e052293.ext.json)
-
----
-
-### Trying to stole the glitter;Attack on the former member
-
-*2024-02-08 16:04:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்குமிழ்-களவாட-முயற்சி-முன்னாள்-உறுப்பினர்-மீது-தாக்குதல்/175-332910) · `ta`
-
-A former member of the Chavakachcheri Pradeshiya Sabha has been admitted to the Chavakachcheri Base Hospital after being attacked.
-
-People who observed a gang of people mounted on power poles on the road on the road in Jaffna - Chavakachcheri, Jaffna, have reported that the former member of the Chavakachcheri Pradeshiya Sabha, K. Kukanandan, has announced.
-
-Subsequently, when the former member who came to the scene, when investigating the trials of those who tried to steal the lights, they had severely attacked the member and fled the scene.
-
-The former member of the hospital has been admitted to the hospital and the Chavakachcheri police are conducting investigations into the incident.
-
-◼️
-
-[Data](articles/c31ebff4.json)
-
-[Extended Data](ext_articles/c31ebff4.ext.json)
-
----
-
-### Change in vegetable prices
-
-*2024-02-08 16:03:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காய்கறி-விலைகளில்-மாற்றம்/175-332909) · `ta`
-
-Vegetable prices have declined today in the new mening market in Peliyagoda, compared to the rising vegetable prices in recent times.
-
-Accordingly, the cost of a kilo of Rs.. 700, beans Rs.. 500, though, green chillies and wedges. 1,000 and Rs.. 1,100.
-
-◼️
-
-[Data](articles/c6999764.json)
-
-[Extended Data](ext_articles/c6999764.ext.json)
 
 ---

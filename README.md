@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 12:33:09**
+As of **2024-02-09 12:48:26**
 
 ## Newspaper Stats
 
-*Scraped **5,914** Articles*
+*Scraped **5,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 309
 dailyftlk | 332
 newsfirstlk | 363
 adalk | 495
-adaderanalk | 728
+adaderanalk | 730
 tamilmirrorlk | 730
 virakesarilk | 733
 adaderanasinhalalk | 780
@@ -26,11 +26,29 @@ dailymirrorlk | 843
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,914 (100.0%) of 5,914 articles have been extended.
+5,914 (100.0%) of 5,916 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### India, Sri Lanka discuss proposal for multi-product petroleum pipeline
+
+*2024-02-09 12:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97137/india-sri-lanka-discuss-proposal-for-multi-product-petroleum-pipeline) · `en`
+
+The proposal submitted by the Indian government through the Indian Oil Corporation (IOC) Ltd. for the multimodal petroleum pipeline connecting India’s Nagapattinam and Sri Lanka’s Trincomalee Oil Tank Farm and Colombo has been taken up for discussion.
+
+In a post on X (formerly Twitter), Minister of Power & Energy Kanchana Wijesekera said the discussion was held with the IndianOil Company on Wednesday (Feb.07), on the sidelines of the India Energy Week.
+
+The meeting was joined by the chairpersons of Indian Oil Corporation (IOC), Lanka IOC, Ceylon Petroleum Corporation (CPC), and Petroleum Development Authority of Sri Lanka (PDASL).
+
+The minister said technical studies, demand market analysis, financial analysis, and business models are planned to be conducted to determine the mechanism involved.
+
+...
+
+[Data](articles/38f07ba1.json)
+
+---
 
 ### Nawaz Sharif and Imran Khan’s PTI neck-and-neck in first results
 
@@ -89,6 +107,24 @@ The Minister assured maximum transparency in the transaction process. However, h
 [Data](articles/1ae2b606.json)
 
 [Extended Data](ext_articles/1ae2b606.ext.json)
+
+---
+
+### Over 60 Sri Lankans who lost jobs in Jordan return to island
+
+*2024-02-09 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97136/over-60-sri-lankans-who-lost-jobs-in-jordan-return-to-island) · `en`
+
+A group of 66 Sri Lankans in Jordan, who were afflicted after the two apparel factories they were employed at were shut down, have returned to the island.
+
+It was reported that the Indian investors who operated the two factories in Jordan, namely “Aseel” and “High Apparel”, had closed the facilities with no prior notice to the employees.
+
+However, a group of Sri Lankans who were employed there were brought back the island from Bandaranaike International Airport (BIA) in Katunayake early this morning (Feb. 09) after receiving their salary dues and other entitlements.
+
+Against this backdrop, the Sri Lankan Embassy in Jordan said that another group of Sri Lankans who were employed at these two factories would be repatriated to Sri Lanka over the next two days.
+
+...
+
+[Data](articles/a4607656.json)
 
 ---
 
@@ -2001,41 +2037,5 @@ The Indian firm imports LNG from Qatar, Australia and other countries at two ter
 [Data](articles/ac09c0e7.json)
 
 [Extended Data](ext_articles/ac09c0e7.ext.json)
-
----
-
-### US Supreme Court begins hearing case on whether to disqualify Trump from presidential election
-
-*2024-02-08 20:38:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/us-supreme-court-begins-hearing-case-on-whether-to-disqualify-trump-from-presidential-election/) · `en`
-
-Colombo (News 1st) – The U.S. Supreme Court on Thursday (8th) commenced hearing one of the most crucial cases in American history, which will decide whether former President Donald Trump should be disqualified from once again running for election, U.S. media reported.
-
-Trump is challenging a verdict by the Supreme Court of the state of Colorado last December, that disqualified him from having his name appear on the ballot paper in that state, in the presidential election scheduled for November 2024. His candidacy has been challenged in 35 of the 50 states, all of which would be determined by the verdict in the Colorado case.
-
-...
-
-[Data](articles/b6e0a3a9.json)
-
-[Extended Data](ext_articles/b6e0a3a9.ext.json)
-
----
-
-### Namal will visit Ayodhya Rama Temple
-
-*2024-02-08 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175920) · `ta`
-
-Namal Rajapaksa will visit the Ayodhya Rama Temple in India personally.
-
-Namal Rajapaksa, who has been visiting India for two days personally, will attend special darshan and pooja at the Rama Temple on the evening of the 9th.
-
-Namal Rajapaksa is also expected to meet some prominent figures in Ayodhya and New Delhi.
-
-It is noteworthy that the visit to Rajapaksa's Ayodhya Ram Temple will reflect the commitment to strengthening cultural and religious ties between Sri Lanka and India.
-
-◼️
-
-[Data](articles/c374747a.json)
-
-[Extended Data](ext_articles/c374747a.ext.json)
 
 ---

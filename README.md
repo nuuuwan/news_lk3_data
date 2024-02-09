@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 00:02:23**
+As of **2024-02-10 00:17:28**
 
 ## Newspaper Stats
 
-*Scraped **6,018** Articles*
+*Scraped **6,020** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 363
 adalk | 505
 tamilmirrorlk | 735
 virakesarilk | 744
-adaderanalk | 744
+adaderanalk | 746
 adaderanasinhalalk | 807
 dailymirrorlk | 863
 
@@ -26,11 +26,43 @@ dailymirrorlk | 863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,018 (100.0%) of 6,018 articles have been extended.
+6,018 (100.0%) of 6,020 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### Israeli PM orders military plan to evacuate Rafah and defeat Hamas
+
+*2024-02-09 23:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97153/israeli-pm-orders-military-plan-to-evacuate-rafah-and-defeat-hamas) · `en`
+
+Prime Minister Benjamin Netanyahu ordered Israel’s military on Friday to draw up a dual plan to evacuate Palestinian civilians from the crowded southern Gazan city of Rafah and to defeat the last Hamas fighters there.
+
+His office announced the move as pressure mounted on Israel over its threat to launch a ground assault on Rafah, the last refuge for hundreds of thousands of Palestinians who are trapped in the city after fleeing fighting elsewhere.
+
+U.S. President Joe Biden said on Thursday Israel’s response to the Oct. 7 attacks by Hamas militants was “over the top” and Washington said it would not support any military operation mounted in Rafah without due consideration for civilians.
+
+Aid groups said there would be a high Palestinian death toll if Israeli forces stormed Rafah, and warned of the growing humanitarian crisis in the city, on the coastal enclave’s border with Egypt.
+
+...
+
+[Data](articles/13ad71b0.json)
+
+---
+
+### Indian Ocean Region’s stability requires early end to Gaza war - President Ranil
+
+*2024-02-09 23:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97152/indian-ocean-regions-stability-requires-early-end-to-gaza-war-president-ranil) · `en`
+
+President Ranil Wickremesinghe says the Indian Ocean Region’s stability requires an early end to the Gaza war followed by the establishment within 5 years of an Independent Palestine State and a guarantee for the security of the state of Israel.
+
+He made this remark while delivering the keynote address at the 7th Indian Ocean Conference in Perth, Australia on Friday (Feb.09).
+
+◼️
+
+[Data](articles/344d4d71.json)
+
+---
 
 ### Sri Lanka beat Sri Lanka by 42 runs
 
@@ -892,15 +924,13 @@ Addressing attendees, Minister Wong reiterated Australia's renewed commitment to
 
 *2024-02-09 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97146/president-addresses-indian-ocean-conference-calls-for-enhanced-connectivity-infrastructure) · `en`
 
-President Ranil Wickremesinghe, addressing the 7th Indian Ocean Conference on Friday (Feb.09), has highlighted the critical need for enhanced connectivity infrastructure to accommodate the projected 8-fold increase in the GDP of countries like India and Indonesia by 2050.
+President Ranil Wickremesinghe delivered the keynote speech at the 7th Indian Ocean Conference in Perth, focusing on the theme “Towards a Stable and Sustainable Indian Ocean.”
 
-The conference was convened in Perth, Australia under the theme “Towards a Stable and Sustainable Indian Ocean.”
+He highlighted the critical need for enhanced connectivity infrastructure to accommodate the projected eight-fold increase in the GDP of countries like India and Indonesia by 2050.
 
-The Head of State on Thursday morning (Feb.08) embarked on a visit to Australia at the invitation of India Foundation and the Government of Australia to attend the conference.
+Existing channels like the Suez Canal may not be adequate, necessitating new initiatives. India’s proposed Mumbai-Iran-Russia and Mumbai-Middle East-Europe corridors, along with projects in the Bay of Bengal and the Chongqing-Kyaukphyu corridor, aim to address this demand.
 
-The President’s Media Division (PMD) said Wickremesinghe would play a pivotal role in shaping discussions at the conference, slated as a vital forum for dialogue and cooperation within the Indian Ocean Region.
-
-The conference aims to foster cooperation among 40 participating nations. President Wickremesinghe’s participation reflects Sri Lanka’s proactive stance towards regional stability and development.
+Additionally, plans for the Kra land bridge by Thailand and the feasibility studies for land connectivity between India and Sri Lanka underscore efforts to establish Sri Lanka as a Regional Logistics Hub, facilitating trade with South India.
 
 ...
 
@@ -2023,53 +2053,5 @@ Meanwhile, a meeting was held between President Ranil Wickremesinghe and Austral
 [Data](articles/8a8bebb2.json)
 
 [Extended Data](ext_articles/8a8bebb2.ext.json)
-
----
-
-### Sri Lanka's largest outlets in Sri Lanka to be built on World Petza Day
-
-*2024-02-09 11:01:42* · [`adalk`](https://www.ada.lk/uncategorized/ලෝක-පිට්සා-දිනයට-ලංකාවේ-ලොකුම-පිට්සාව-මීගමුවේ-හදයි/1-407981) · `si`
-
-Steps were taken to create the Tuk Tke and Dine Hotel in the Ethulkana, Negombo, to mark the World Pizza Day on February 09.
-
-The hotel's executive chef was headed by Mr. Duminda Wanigasekera.
-
-The 50 inch length of the 50kzza was covered with 12 kilograms.
-
-The tomato Congress (a mixture) was used for a tomato coding, chicken, sausage, chicken, sausage, chicken, sausage, chicken, sausage, chicken, sausage, four color and tastes.Had been able to.
-
-More than 100 people were present at the hotel premises to taste the pizza.The explosion of the 25 inches of Petza was exploded to the explosion of 25 inches so that they could enjoy eight at once.
-
-The hotel was prepared to mark the 40 inches of Pizza World Pressz World Pightsa Day in 2021
-
-◼️
-
-[Data](articles/13def504.json)
-
-[Extended Data](ext_articles/13def504.ext.json)
-
----
-
-### Sri Lanka's largest outlets in Sri Lanka to be built on World Petza Day
-
-*2024-02-09 11:01:42* · [`adalk`](https://www.ada.lk/picture_story/ලෝක-පිට්සා-දිනයට-ලංකාවේ-ලොකුම-පිට්සාව-මීගමුවේ-හදයි/10-407981) · `si`
-
-Steps were taken to create the Tuk Tke and Dine Hotel in the Ethulkana, Negombo, to mark the World Pizza Day on February 09.
-
-The hotel's executive chef was headed by Mr. Duminda Wanigasekera.
-
-The 50 inch length of the 50kzza was covered with 12 kilograms.
-
-The tomato Congress (a mixture) was used for a tomato coding, chicken, sausage, chicken, sausage, chicken, sausage, chicken, sausage, chicken, sausage, four color and tastes.Had been able to.
-
-More than 100 people were present at the hotel premises to taste the pizza.The explosion of the 25 inches of Petza was exploded to the explosion of 25 inches so that they could enjoy eight at once.
-
-The hotel was prepared to mark the 40 inches of Pizza World Pressz World Pightsa Day in 2021
-
-◼️
-
-[Data](articles/72e0b02d.json)
-
-[Extended Data](ext_articles/72e0b02d.ext.json)
 
 ---

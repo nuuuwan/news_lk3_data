@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 13:51:34**
+As of **2024-02-09 14:02:34**
 
 ## Newspaper Stats
 
-*Scraped **5,925** Articles*
+*Scraped **5,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,98 @@ adalk | 497
 tamilmirrorlk | 730
 adaderanalk | 733
 virakesarilk | 733
-adaderanasinhalalk | 781
+adaderanasinhalalk | 784
 dailymirrorlk | 845
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,925 (100.0%) of 5,925 articles have been extended.
+5,928 (100.0%) of 5,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### Dematagoda Ruwan's family comes out
+
+*2024-02-09 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193167) · `si`
+
+The wife of Dematagoda Ruwan, who was remanded, was released on bail yesterday (08).
+
+They were arrested and produced before courts under the allegation of over 168 million cash and property.
+
+The court also sentenced to two bail of Rs. 50,000 and the suspects of suspects were banned.
+
+The three suspects have also been ordered to appear before the CID every month.
+
+◼️
+
+[Data](articles/0328023f.json)
+
+[Extended Data](ext_articles/0328023f.ext.json)
+
+---
+
+### Paddy purchasing prices will be produced in the Maha Season
+
+*2024-02-09 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193166) · `si`
+
+The minimum purchase bids for the Paddy purchasing of the Maha Season have submitted minimum purchase prices for the Agricultural Department.
+
+Minister of Agriculture Mahinda Amaraweera says the farmers recommended a price that can be happy.
+
+Accordingly, they have decided to purchase a loan by providing a loan by providing a loan by providing a loan and private banks on a concessionary loan.
+
+The Government will be given a maximum loan of Rs.
+
+The loan scheme is to be implemented throughout the island and can be purchased by 2023/24 paddy.
+
+Accordingly, paddy purchased should be purchased by the Department of Agriculture in the purchase of paddy.
+
+Supervision of paddy is the Department of Agrarian Development, District Secretariat and Divisional Secretary.
+
+The Department of Agriculture has obtained his views in all areas including farmer organizations in determining maximum prices by the Department of Agriculture.
+
+◼️
+
+[Data](articles/e759b059.json)
+
+[Extended Data](ext_articles/e759b059.ext.json)
+
+---
+
+### The shooting of the Anamaduwa reveals
+
+*2024-02-09 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193165) · `si`
+
+Two persons from a motorbike have been shot dead in Puttalam area as revenge for an accident.
+
+Two were shooting by two in a motorcycle to a business renovation place in Anamaduwa.
+
+He went to a business activity and returned from a motorbike and was shot dead.
+
+Police said two suspects have been shot at the Anamaduwa Puitana Cemean.
+
+The businessman's left-hand was seriously injured and he was asked to take a kilometer to hospital with the wound.
+
+The shooting was shot dead, a 44-year-old father of two, a 44 year old resident of Palle, in Anamaduwa.
+
+He had told the hospital staff that Jayaratne was injured in a car accident.
+
+Accordingly, the police have revealed that the businessman had been drunk and the father of the family and his father had been involved in a serious car accident.
+
+As a result, the mother is already in optimized and the daughter has undergone several surgeries.
+
+The father has suspected that the father has done this revenge, police said.
+
+...
+
+[Data](articles/36b79c87.json)
+
+[Extended Data](ext_articles/36b79c87.ext.json)
+
+---
 
 ### Indian state passes uniform marriage legislation opposed by Muslims
 
@@ -1939,65 +2019,5 @@ In his policy declaration, he referred to victory words that he had recovered fr
 [Data](articles/fbfa1e57.json)
 
 [Extended Data](ext_articles/fbfa1e57.ext.json)
-
----
-
-### Largest inscription from Dimbulagala belongs to beginning of 2nd century BC or earlier
-
-*2024-02-08 22:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Largest-inscription-from-Dimbulagala-belongs-to-beginning-of-2nd-century-BC-or-earlier/108-276621) · `en`
-
-Colombo, Feb 8 (Daily Mirror) - The largest inscription ever in Sri Lanka, found from the Dimbulagala Monastery grounds, belongs to the beginning of the second centrury BC or earlier than that, Sri Jayawardenapura University History and Archaeology professor Karunasena Hettiarachchi said.
-
-Addressing the media, he said 60 percent of this inscription was unreadable and 40 percent was readable.
-
-"This inscription was written in Brahmi characters. We found that 24 Brahmi characters were used on the inscription. At least 1,000 characters were used. Moreover, there are several rare symbols, which have never been seen by officials through their previous inscriptions," he said.
-
-According to the signs, characters, and unique symbols, the committee had decided to announce that the inscription belonged to the beginning of the second centrum BC or earlier than that.
-
-...
-
-[Data](articles/2f23dd61.json)
-
-[Extended Data](ext_articles/2f23dd61.ext.json)
-
----
-
-### Sri Lanka may extend visa exemption for Indian travellers after March
-
-*2024-02-08 21:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97126/sri-lanka-may-extend-visa-exemption-for-indian-travellers-after-march) · `en`
-
-Sri Lanka is likely to extend visa exemption status for India after March to keep attracting travellers from the country and encourage repeat visits, Tourism and Lands, Sports and Youth Affairs Minister Harin Fernando said on Thursday.
-
-“India is our number one source market and tourists from India helped our country on its path of recovery from the recent crisis we faced,” Fernando said in a session at OTM 2024.
-
-Sri Lanka facilitated visa-free entry for Indian travellers from December 2023 to March. “We are working on extending it beyond March. We want to make Sri Lanka an easily accessible destination for Indians, who can just walk into our country for a hassle free holiday,” he said.
-
-By offering visa exemption to Indians, Sri Lanka will attract more footfalls, especially those who make last-minute plans and find visa process a hindrance, he said.
-
-“In the time of more options, we have to ease the travel process to encourage more tourists from India and repeat footfalls,” he added.
-
-...
-
-[Data](articles/448b56ef.json)
-
-[Extended Data](ext_articles/448b56ef.ext.json)
-
----
-
-### Passport has been sent to Santhan
-
-*2024-02-08 21:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175928) · `ta`
-
-He has been sent a passport as a set of Sri Lanka's Immigration and Emigration Laws as he needed his passport to bring him to the country.
-
-The Foreign Ministry of Sri Lanka has reported that Santhan's passport has been sent to the Indian Foreign Ministry.
-
-Accordingly, arrangements to travel from India to Sri Lanka will be made by the Government of India in the coming days.
-
-◼️
-
-[Data](articles/f8530cfe.json)
-
-[Extended Data](ext_articles/f8530cfe.ext.json)
 
 ---

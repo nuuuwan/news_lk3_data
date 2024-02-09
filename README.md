@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 09:17:11**
+As of **2024-02-09 09:33:03**
 
 ## Newspaper Stats
 
-*Scraped **5,882** Articles*
+*Scraped **5,884** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 309
 dailyftlk | 331
 newsfirstlk | 363
 adalk | 492
-adaderanalk | 721
-tamilmirrorlk | 726
+adaderanalk | 722
+tamilmirrorlk | 727
 virakesarilk | 731
 adaderanasinhalalk | 773
 dailymirrorlk | 836
@@ -26,63 +26,107 @@ dailymirrorlk | 836
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,878 (99.9%) of 5,882 articles have been extended.
+5,882 (100.0%) of 5,884 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### ජෝර්දානයේදී රැකියා අහිමි වූ 66ක් ආපසු එයි
+### முருங்கை விலை எகிறியது
+
+*2024-02-09 08:59:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முருங்கை-விலை-எகிறியது/175-332939) · `ta`
+
+நாரஹேன்பிட்டி விசேட பொருளாதார மத்திய நிலையத்தில் ஒரு கிலோ முருங்கைக்காயின் சில்லறை விலை நேற்று (08) 2,000 ரூபாயாக பதிவாகியுள்ளது.
+
+ஒரு கிலோ முருங்கைக்காயின் மொத்த விலை 1,980 ரூபாவாக பதிவாகியிருந்தது. இதையடுத்து இலங்கையில் உள்ள எந்தவொரு பொருளாதார மத்திய நிலையத்திலும் நேற்று முருங்கை விற்கவில்லை என தெரிவிக்கப்படுகின்றது.
+
+இதேவேளை, கடந்த சில தினங்களுக்கு முன்னர் 2,000 ரூபாவுக்கு மேல் இருந்த ஒரு கிலோ கரட்டின் மொத்த விலை நேற்று (08) 650 ரூபாவாக  உள்ளது என நுவரெலியா விசேட பொருளாதார மத்திய நிலையம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/0914ce8c.json)
+
+---
+
+### Volcano erupts in Iceland for third time in 2 months
+
+*2024-02-09 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97131/volcano-erupts-in-iceland-for-third-time-in-2-months) · `en`
+
+A volcano began erupting in southwestern Iceland early Thursday, sending lava jets as high as 80 meters, the country’s weather office said.
+
+“At 5:30 this morning an intense seismic activity started north-east of Mt. Sýlingarfell. Around 30 minutes later, a volcanic eruption started at the site,” the Icelandic Met Office said.
+
+Images taken by an Icelandic Coast Guard surveillance flight appeared to show the eruption taking place at a location near the Dec. 18 eruption, official said.
+
+Another eruption nearby on Jan. 14 sent lava flowing into Grindavik, a small town that had been evacuated prior to the eruption.
+
+The latest eruption began at about 6 a.m. local time on Thursday, after a series of earthquakes rumbled the region for a half-hour, Met officials said.
+
+The fissure was about 3 km long, stretching from Mount Sundhnúkur towards the eastern part of Mount Stóra-Skógfell, the office said.
+
+...
+
+[Data](articles/265189c4.json)
+
+---
+
+### 66 lost jobs in Jordan returns
 
 *2024-02-09 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193155) · `si`
 
-ජෝර්දානයේ ඇඟලුම් කර්මාන්තශාලා දෙකක සේවය කරමින් සිටියදී  ඒවා වසාදැමීම හේතුවෙන් දුෂ්කරතාවයට පත් ශ්‍රී ලාංකිකයින් 66 දෙනෙකු යළි දිවයිනට පැමිණ තිබේ.
+66 Sri Lankans have come to the island due to the closing of two garment factories in Jordan.
 
-ජෝර්දානයේ අසිල් සහ හයි ඇපරල් නම් මෙම කර්මාන්තශාලා පවත්වා ගෙන ගිය ඉන්දීය ජාතික ආයෝජකයන් එහි සේවය කළ සේවකයින්ට නොදන්වා කර්මාන්ත ශාලා වසා දමා ඇති බව වාර්තා වෙයි.
+Indian investors who have maintained these factory names in Jordan and Australian factory have been closed down to the employees who worked there.
 
-කෙසේවෙතත් එම කර්මාන්ත ශාලාවල සේවය කළ ශ්‍රී ලාංකිකයින් පිරිසක් ඔවුන්ට හිමි සියලුම වරප්‍රසාද ලබාගෙන අද අලුයම කටුනායක ගුවන් තොටුපොළින් දිවයිනට පැමිණ තිබේ.
+However, a group of Sri Lankans working in these factories have come to the Katunayake airport this morning.
 
-මෙම ජෝර්දාන කර්මාන්ත ශාලාවේ සේවය කළ තවත් ශ්‍රී ලාංකිකයන් පිරිසක් ඉදිරි දින දෙක තුළ මෙරටට යොමුකිරිමට නියමිත බවද ජොර්දානයේ ශ්‍රී ලංකා තානාපති කාර්යාලය සඳහන් කළේය.
+Another group of Sri Lankans working in the Jordani factory will be sent to the country in the next two days, the Jordan Embassy in the Jordan.
 
 ◼️
 
 [Data](articles/266bc05c.json)
 
+[Extended Data](ext_articles/266bc05c.ext.json)
+
 ---
 
-### கைதிகளுக்கு சயனைட் நச்சு திரவம் வழங்கப்பட்டதா?
+### Did the prisoners provide cyanide toxic fluid?
 
 *2024-02-09 08:45:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதிகளுக்கு-சயனைட்-நச்சு-திரவம்-வழங்கப்பட்டதா/175-332938) · `ta`
 
-ஆட்டுப்பட்டித்தெருவில் உள்ள பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டிருந்த இரண்டு சந்தேகநபர்களும் அருந்திய பாலில் சயனைட் நச்சு திரவம் கலக்கப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகம் வெளியிட்டுள்ளனர்.
+Police have expressed suspicion that the two suspects detained at the police station in Auttapattieru may have been mixed with cyanide toxic fluid in the milk.
 
-சம்பவத்தில் பாதிக்கப்பட்ட இரண்டு சந்தேகநபர்களும் கொழும்பு தேசிய வைத்தியசாலையில் தீவிர சிகிச்சை பிரிவில் தொடர்ந்தும் சிகிச்சை பெற்று வருகின்றனர்.
+The two suspects who were affected by the incident continue to be treated at the Colombo National Hospital in the intensive care unit.
 
-இதேவேளை, அவர்களுக்கு விஷம் கலந்த திரவத்தை வழங்கிய நபர்கள் தொடர்பில் தற்போது தகவல்கள் கிடைக்கப்பெற்றுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.
+Meanwhile, it is reported that information has now been received regarding the persons who provided them with poisonous fluid.
 
-இந்தநிலையில், குறித்த சம்பவத்தின் போது கடமையில் ஈடுபட்டிருந்த சிறை பொறுப்பதிகாரி உள்ளிட்ட மூன்று உத்தியோகத்தர்கள் பணி இடைநீக்கம் செய்யப்பட்டுள்ளனர். R
+In this case, three officers, including the prison officer who were on duty during the incident, have been suspended.. Remble
 
 ◼️
 
 [Data](articles/8957940e.json)
 
+[Extended Data](ext_articles/8957940e.ext.json)
+
 ---
 
-### 5 ஆண்டுகள் சிறை உறுதி; முக்கிய அறிவிப்பு
+### 5 years imprisonment;Breaking News
 
 *2024-02-09 08:39:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-ஆண்டுகள்-சிறை-உறுதி-முக்கிய-அறிவிப்பு/175-332937) · `ta`
 
-பொதுப்போக்குவரத்தில் பெண்களுக்கு பாலியல் ரீதியான தொல்லைகள் மற்றும் அவர்களுக்கு எதிரான வன்முறைகளில் ஈடுபடுவோருக்கு 5 ஆண்டுகளுக்கு மேல் சிறை தண்டனை வழங்குவதற்கான வாய்ப்புள்ளதாக பொலிஸார் தெரிவித்துள்ளது.
+Police say women are likely to be sentenced to more than 5 years in prison for women who are involved in sexual harassment and violence against them.
 
-குற்றவியல் சட்டத்தின் 345ஆம் பிரிவுக்கு அமைய, இந்த சிறைத் தண்டனை மற்றும் அபராதம் விதிக்கப்படும் என பொலிஸார் பேச்சாளர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+Police spokesman Nihal Talduwa said the prison sentence and fines would be imposed on Article 345 of the Criminal Act.
 
-பொதுப்போக்குவரத்தில் பெண்களுக்கு எதிரான வன்முறைகளில் ஈடுபடுவோர் தொடர்பில் சந்தேகம் ஏற்படும் பட்சத்தில், சிவில் உடையில் உள்ள பொலிஸார் அவர்கள் தொடர்பில் கண்காணிப்பதுடன், தமது கமராக்கள் மூலம் அதனை சாட்சியமாக பதிவு செய்வார்கள்.
+In the event of suspicion of violence against women in public transport, civil attire police will monitor them and record it through their cameras.
 
-இதேவேளை, பொதுப்போக்குவரத்தில் பெண்களுக்கு எதிரான பாலியல் ரீதியான தொல்லைகள் மற்றும் வன்முறைகளில் ஈடுபடுவோர்களுக்கு எதிராக முன்னெடுக்கப்பட்ட சோதனையின் போது, இதுவரை 42 பேர் கைது செய்யப்பட்டுள்ளனர். R
+Meanwhile, 42 people have been arrested during a raid against those who engage in sexual harassment and violence against women in public transport.. Remble
 
 ◼️
 
 [Data](articles/15ef40f2.json)
+
+[Extended Data](ext_articles/15ef40f2.ext.json)
 
 ---
 
@@ -1758,21 +1802,27 @@ The nearby geothermal spa Blue Lagoon had closed on Thursday, it said.
 
 ---
 
-### අයි.එම්.එෆ්. මීළඟ සමාලෝචනය මාර්තුවේදී
+### IMF. The next review in March
 
 *2024-02-08 17:34:18* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--මීළඟ-සමාලෝචනය-මාර්තුවේදී/11-407976) · `si`
 
-අස්වැසුම ප්‍රතිලාභ ලබා දීම සම්බන්ධයෙන් ලැබී ඇති අභියාචනා හා විරෝධතා ලක්ෂ 11ක පමණ ප්‍රමාණයෙන්, මේ වනවිට 92000ක පමණ අයදුම් පත්‍ර සලකා බැලීම සිදු කර අවසන් බවත්, ඉන් 243000ක ප්‍රමාණයක් අස්වැසුම ප්‍රතිලාභින් ලෙස නව ප්‍රතිලාභීන් පිරිසක් හඳුනා ගෙන ඇති බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+Around Rs.
 
-රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා මේ බව කියා සිටියේ ඉකුත්දා  අනුරාධපුර - නාච්චාදුව ප්‍රාදේශීය ලේකම් කොට්ඨාසයේදී පැවති සංවර්ධන කමිටු රැස්වීමකින් අනතුරුව මාධ්‍ය වෙත අදහස් පල කරමිනි.
+State Minister of State Shehan Semasinghe made these comment on the development committees held at Nachandaduwa Divisional Secretariat recently.
 
-නව ප්‍රතිලාභීන් සඳහා ඉල්ලුම්පත්‍ර කැඳවීම සඳහා සැලසුම් මේ වන විට සූදානම් කර ඇති බවත් මෙහිදී අස්වැසුම ප්‍රතිලාභ ලබා ගැනීමට සුදුසුකම් ලබන පුද්ගලයින් ඉල්ලුම් පත්‍ර ඉදිරිපත් කරනු ඇති බව ද රාජ්‍ය අමාත්‍යවරයා මෙහිදී පැවසීය.
+The plans to call for new beneficiaries have already been prepared and the benefits of benefits of the revenue will be submitted.
 
-"අස්වැසුම ප්‍රතිලාභ ලබා දීමට කැබිනට් මණ්ඩලය ප්‍රමුඛ පාර්ලිමේන්තුව විසින් ප්‍රතිලාභීන් මිලියන 20ක් සඳහා අනුමැතිය ලබාදී තිබුණත් ඉන්පසුව ලැබුණු ඉල්ලීම් මත පවුල් 2400000 දක්වා වැඩි කිරීමට ජනාධිපතිවරයා උපදෙස් ලබා දුන්නා. එය ⁣මේ වසරේ සිට ක්‍රියාත්මක කෙරෙනවා.
+"The Cabinet of Cabinet has approved approval for 20 million beneficiaries, but the President instructed to increase to 2400000 families on request received. It will be implemented since the year.
+
+The second review is to be reviewed in March with the International Monetary Fund. Accordingly, a program will be implemented to strengthen the economy of the country. The International Monetary Fund's guidance was able to create a strong economy in Sri Lanka within a short time.
+
+The government was able to increase the state revenue of eight percent to 11.2%.As long as the year 2026 hopes to increase state revenue to 15%. Special attention has been paid to paying less taxes and less taxes.
 
 ...
 
 [Data](articles/de77034d.json)
+
+[Extended Data](ext_articles/de77034d.ext.json)
 
 ---
 
@@ -2029,47 +2079,5 @@ He was speaking at a press conference held at the Pallekele Stadium in Kandy thi
 [Data](articles/602addfd.json)
 
 [Extended Data](ext_articles/602addfd.ext.json)
-
----
-
-### There are 1.5 soldiers in Sri Lanka every 100 citizens - Eran Wickramaratne
-
-*2024-02-08 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/175893) · `ta`
-
-During 2024 Budget Debate. They are: (1) Budget allocation for the Ministry of Defense is high, 7% of the total budget in 2022. (2) Sri Lanka is one of the world's countries with a large number of military (10 first) world countries for citizens.
-
-To verify the Member of Parliament, 2023 budget ratings and the World Bank's data was explored.lk.lk.
-
-Claim 1: 2022 State Expenditure for the Ministry of Defense is 7.97 per cent. The allocation for 2023 is 7 percent of the total budget (Table 1).
-
-Claim 2: Expenditure for personal wages, including salaries and wages, additional allowance and allowances, is 69.8 percent of the total expenditure of the Ministry of Defense by 2022.. The allocation for 2023 is 62.9 percent (Table 1).
-
-Member of Parliament should have mentioned the cost of 2023 instead of 2022. The cost of 2022 is even more. This strengthens the overall argument about his cost.
-
-...
-
-[Data](articles/98040984.json)
-
-[Extended Data](ext_articles/98040984.ext.json)
-
----
-
-### Problems of Jordan Elfactory Factory Employees
-
-*2024-02-08 16:53:31* · [`adalk`](https://www.ada.lk/breaking_news/ජෝර්දාන්-ඇගළුම්-කර්මාන්තශාලා-සේවකයින්ගේ-ගැටළුව-විසදෙයි/11-407971) · `si`
-
-Due to the closure of garment factories of garment factories in Jordan, 60 of Sri Lankan workers who have lost their jobs.
-
-At the closure of garment factories in Jordan, 221 Sri Lankan workers lost their jobs.
-
-Accordingly, the officials of the Jordan Embassy recently met with the officials of the Ministry of Labor and discussed the issue and was taken to provide specialist legal support for Sri Lankans.. The Jordan authorities agreed to send ourselves without charging workers in the midstream without the fines.. The Sri Lankan embassy in Jordan was also intervened to obtain the compensation and the salaries of the Sri Lankan Embassy.
-
-Minister of Labor and Foreign Employment Affiliate officers have directly intervened to take necessary steps to be resolved to be resolved in the Sri Lankans' problem.. According to the Foreign Employment Bureau, these workers have been able to bring all compensation and allowances paid to these workers in a short period of time.
-
-◼️
-
-[Data](articles/1711fb46.json)
-
-[Extended Data](ext_articles/1711fb46.ext.json)
 
 ---

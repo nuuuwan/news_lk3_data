@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 09:02:33**
+As of **2024-02-09 09:17:11**
 
 ## Newspaper Stats
 
-*Scraped **5,878** Articles*
+*Scraped **5,882** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ islandlk | 308
 economynextcom | 309
 dailyftlk | 331
 newsfirstlk | 363
-adalk | 491
+adalk | 492
 adaderanalk | 721
-tamilmirrorlk | 724
+tamilmirrorlk | 726
 virakesarilk | 731
-adaderanasinhalalk | 772
+adaderanasinhalalk | 773
 dailymirrorlk | 836
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,874 (99.9%) of 5,878 articles have been extended.
+5,878 (99.9%) of 5,882 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### ජෝර්දානයේදී රැකියා අහිමි වූ 66ක් ආපසු එයි
+
+*2024-02-09 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193155) · `si`
+
+ජෝර්දානයේ ඇඟලුම් කර්මාන්තශාලා දෙකක සේවය කරමින් සිටියදී  ඒවා වසාදැමීම හේතුවෙන් දුෂ්කරතාවයට පත් ශ්‍රී ලාංකිකයින් 66 දෙනෙකු යළි දිවයිනට පැමිණ තිබේ.
+
+ජෝර්දානයේ අසිල් සහ හයි ඇපරල් නම් මෙම කර්මාන්තශාලා පවත්වා ගෙන ගිය ඉන්දීය ජාතික ආයෝජකයන් එහි සේවය කළ සේවකයින්ට නොදන්වා කර්මාන්ත ශාලා වසා දමා ඇති බව වාර්තා වෙයි.
+
+කෙසේවෙතත් එම කර්මාන්ත ශාලාවල සේවය කළ ශ්‍රී ලාංකිකයින් පිරිසක් ඔවුන්ට හිමි සියලුම වරප්‍රසාද ලබාගෙන අද අලුයම කටුනායක ගුවන් තොටුපොළින් දිවයිනට පැමිණ තිබේ.
+
+මෙම ජෝර්දාන කර්මාන්ත ශාලාවේ සේවය කළ තවත් ශ්‍රී ලාංකිකයන් පිරිසක් ඉදිරි දින දෙක තුළ මෙරටට යොමුකිරිමට නියමිත බවද ජොර්දානයේ ශ්‍රී ලංකා තානාපති කාර්යාලය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/266bc05c.json)
+
+---
+
+### கைதிகளுக்கு சயனைட் நச்சு திரவம் வழங்கப்பட்டதா?
+
+*2024-02-09 08:45:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதிகளுக்கு-சயனைட்-நச்சு-திரவம்-வழங்கப்பட்டதா/175-332938) · `ta`
+
+ஆட்டுப்பட்டித்தெருவில் உள்ள பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டிருந்த இரண்டு சந்தேகநபர்களும் அருந்திய பாலில் சயனைட் நச்சு திரவம் கலக்கப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகம் வெளியிட்டுள்ளனர்.
+
+சம்பவத்தில் பாதிக்கப்பட்ட இரண்டு சந்தேகநபர்களும் கொழும்பு தேசிய வைத்தியசாலையில் தீவிர சிகிச்சை பிரிவில் தொடர்ந்தும் சிகிச்சை பெற்று வருகின்றனர்.
+
+இதேவேளை, அவர்களுக்கு விஷம் கலந்த திரவத்தை வழங்கிய நபர்கள் தொடர்பில் தற்போது தகவல்கள் கிடைக்கப்பெற்றுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.
+
+இந்தநிலையில், குறித்த சம்பவத்தின் போது கடமையில் ஈடுபட்டிருந்த சிறை பொறுப்பதிகாரி உள்ளிட்ட மூன்று உத்தியோகத்தர்கள் பணி இடைநீக்கம் செய்யப்பட்டுள்ளனர். R
+
+◼️
+
+[Data](articles/8957940e.json)
+
+---
+
+### 5 ஆண்டுகள் சிறை உறுதி; முக்கிய அறிவிப்பு
+
+*2024-02-09 08:39:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-ஆண்டுகள்-சிறை-உறுதி-முக்கிய-அறிவிப்பு/175-332937) · `ta`
+
+பொதுப்போக்குவரத்தில் பெண்களுக்கு பாலியல் ரீதியான தொல்லைகள் மற்றும் அவர்களுக்கு எதிரான வன்முறைகளில் ஈடுபடுவோருக்கு 5 ஆண்டுகளுக்கு மேல் சிறை தண்டனை வழங்குவதற்கான வாய்ப்புள்ளதாக பொலிஸார் தெரிவித்துள்ளது.
+
+குற்றவியல் சட்டத்தின் 345ஆம் பிரிவுக்கு அமைய, இந்த சிறைத் தண்டனை மற்றும் அபராதம் விதிக்கப்படும் என பொலிஸார் பேச்சாளர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+
+பொதுப்போக்குவரத்தில் பெண்களுக்கு எதிரான வன்முறைகளில் ஈடுபடுவோர் தொடர்பில் சந்தேகம் ஏற்படும் பட்சத்தில், சிவில் உடையில் உள்ள பொலிஸார் அவர்கள் தொடர்பில் கண்காணிப்பதுடன், தமது கமராக்கள் மூலம் அதனை சாட்சியமாக பதிவு செய்வார்கள்.
+
+இதேவேளை, பொதுப்போக்குவரத்தில் பெண்களுக்கு எதிரான பாலியல் ரீதியான தொல்லைகள் மற்றும் வன்முறைகளில் ஈடுபடுவோர்களுக்கு எதிராக முன்னெடுக்கப்பட்ட சோதனையின் போது, இதுவரை 42 பேர் கைது செய்யப்பட்டுள்ளனர். R
+
+◼️
+
+[Data](articles/15ef40f2.json)
+
+---
 
 ### Sri Lanka’s efforts to nab overseas criminals hit a snag
 
@@ -49,6 +103,8 @@ Earlier, Public Security Minister Tiran Alles said the government initiated a sp
 ...
 
 [Data](articles/b575c789.json)
+
+[Extended Data](ext_articles/b575c789.ext.json)
 
 ---
 
@@ -229,6 +285,8 @@ After a massive confidence shock is delivered including credit downgrades, steep
 ...
 
 [Data](articles/62f32c9f.json)
+
+[Extended Data](ext_articles/62f32c9f.ext.json)
 
 ---
 
@@ -504,23 +562,25 @@ In 2018, the US Government provided a grant of $ 26 million to Sri Lanka to impl
 
 ---
 
-### கடன்களுக்கான கட்டுப்பாடுகள் தளர்வு
+### Looses for loans relaxation
 
 *2024-02-09 02:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்களுக்கான-கட்டுப்பாடுகள்-தளர்வு/175-332935) · `ta`
 
-இலங்கை மத்திய வங்கியினால், வணிக வங்கிகளுக்கு குறுகிய கால கடன்களை வழங்குவதற்கு அமுல்படுத்தப்பட்டிருந்த கட்டுப்பாடுகள் மேலும் தளர்த்தப்பட்டுள்ளன.
+The Central Bank of Sri Lanka has further relaxed the restrictions that have been implemented to provide short -term loans to commercial banks.
 
-பெப்ரவரி 16 ஆம் திகதி முதல் அமுலாகும் வகையில் இந்தத் தீர்மானம் மேற்கொள்ளப்பட்டுள்ளது.
+The decision was taken from February 16.
 
-நாணயக் கொள்கை சபை நேற்று முன்தினம் கூடிய போதே இந்தத் தீர்மானம் மேற்கொள்ளப்பட்டதாக இலங்கை மத்திய வங்கி தெரிவித்துள்ளது.
+The Central Bank of Sri Lanka said that the decision was made when the Monetary Policy Council was held yesterday.
 
-இலங்கை மத்திய வங்கியினால், கடந்த வருடம் ஜனவரி 16 ஆம் திகதி முதல் அமுலாகும் வகையில், வணிக வங்கிகளுக்கு குறுகிய கால கடன்களை வழங்குவதற்கு சில கட்டுப்பாடுகள் விதிக்கப்பட்டிருந்தன.
+The Central Bank of Sri Lanka has been imposed by the Central Bank of Sri Lanka to implement short -term loans to commercial banks from January 16 last year.
 
-இந்த நிலையில் குறித்த கட்டுப்பாடுகளை தளர்த்துவதன் மூலம், சந்தையில் வட்டி வீதம் வீழ்ச்சியடையும் வேகம் அதிகரிக்கும் என எதிர்பார்க்கப்படுவதாக மத்திய வங்கி தெரிவித்துள்ளது. (a)
+The Central Bank said it was expected to increase the rate of increasing interest rate in the market by relaxing the restrictions on this condition.. (A)
 
 ◼️
 
 [Data](articles/e2df3552.json)
+
+[Extended Data](ext_articles/e2df3552.ext.json)
 
 ---
 
@@ -1698,6 +1758,24 @@ The nearby geothermal spa Blue Lagoon had closed on Thursday, it said.
 
 ---
 
+### අයි.එම්.එෆ්. මීළඟ සමාලෝචනය මාර්තුවේදී
+
+*2024-02-08 17:34:18* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--මීළඟ-සමාලෝචනය-මාර්තුවේදී/11-407976) · `si`
+
+අස්වැසුම ප්‍රතිලාභ ලබා දීම සම්බන්ධයෙන් ලැබී ඇති අභියාචනා හා විරෝධතා ලක්ෂ 11ක පමණ ප්‍රමාණයෙන්, මේ වනවිට 92000ක පමණ අයදුම් පත්‍ර සලකා බැලීම සිදු කර අවසන් බවත්, ඉන් 243000ක ප්‍රමාණයක් අස්වැසුම ප්‍රතිලාභින් ලෙස නව ප්‍රතිලාභීන් පිරිසක් හඳුනා ගෙන ඇති බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+
+රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා මේ බව කියා සිටියේ ඉකුත්දා  අනුරාධපුර - නාච්චාදුව ප්‍රාදේශීය ලේකම් කොට්ඨාසයේදී පැවති සංවර්ධන කමිටු රැස්වීමකින් අනතුරුව මාධ්‍ය වෙත අදහස් පල කරමිනි.
+
+නව ප්‍රතිලාභීන් සඳහා ඉල්ලුම්පත්‍ර කැඳවීම සඳහා සැලසුම් මේ වන විට සූදානම් කර ඇති බවත් මෙහිදී අස්වැසුම ප්‍රතිලාභ ලබා ගැනීමට සුදුසුකම් ලබන පුද්ගලයින් ඉල්ලුම් පත්‍ර ඉදිරිපත් කරනු ඇති බව ද රාජ්‍ය අමාත්‍යවරයා මෙහිදී පැවසීය.
+
+"අස්වැසුම ප්‍රතිලාභ ලබා දීමට කැබිනට් මණ්ඩලය ප්‍රමුඛ පාර්ලිමේන්තුව විසින් ප්‍රතිලාභීන් මිලියන 20ක් සඳහා අනුමැතිය ලබාදී තිබුණත් ඉන්පසුව ලැබුණු ඉල්ලීම් මත පවුල් 2400000 දක්වා වැඩි කිරීමට ජනාධිපතිවරයා උපදෙස් ලබා දුන්නා. එය ⁣මේ වසරේ සිට ක්‍රියාත්මක කෙරෙනවා.
+
+...
+
+[Data](articles/de77034d.json)
+
+---
+
 ### Opposition alleges move to postpone Presidential Election
 
 *2024-02-08 17:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Opposition-alleges-move-to-postpone-Presidential-Election/108-276610) · `en`
@@ -1993,85 +2071,5 @@ Minister of Labor and Foreign Employment Affiliate officers have directly interv
 [Data](articles/1711fb46.json)
 
 [Extended Data](ext_articles/1711fb46.ext.json)
-
----
-
-### Civil Social Organizations in Sri Lanka
-
-*2024-02-08 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175900) · `ta`
-
-Civil Social Organizations (CSOS) contributing to the preparation of the Third National Project (NAP) associated with the OGP program of Sri Lanka's OGP (OGP) program. This has been forced to oppose the recent actions of the government, especially the government, and the efforts to introduce the anti -terrorism bill in spite of the widespread opposition, and have forced us to be a policy stance against the suppression of civil society and the basic freedom of the public.. This decision was taken in response to the dangerous initiatives of Sri Lanka's open government share (OGP) in the country, after the group was decisively considered.The joint decision was officially announced to the President by letter today.
-
-◼️
-
-[Data](articles/bb4131ce.json)
-
-[Extended Data](ext_articles/bb4131ce.ext.json)
-
----
-
-### 30 petitions against the proposed anti -terrorism Bill - Speaker
-
-*2024-02-08 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175911) · `ta`
-
-Speaker Mahinda Yapa Abeywardena informed the House that 30 petitions have been filed against the Supreme Court against the proposed anti -terrorism bill.
-
-Speaker Mahinda Yapa Abeywardena's announcement was held at 9.30 am on Thursday (08) at 9.30 am, the Speaker, who announced it to the House on January 23, 2024, and the eleventh petitions mentioned on January 24, 2024, the Eighteen Petitions of the Constitution.According to the Article, 6 more petitions have been filed with the Supreme Court regarding the 'Anti -Terrorism' Bill and their copies have been received.
-
-◼️
-
-[Data](articles/9eeb8625.json)
-
-[Extended Data](ext_articles/9eeb8625.ext.json)
-
----
-
-### The speech found in the largest letter of Sri Lanka
-
-*2024-02-08 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193138) · `si`
-
-The special report on the largest letter found in Sri Lanka was launched by the Special Committee on the matter.
-
-According to the copy of the inscription, Professor Karunasena Hettiarachchi, the Department of Archeology Studies, joined the media that it was estimated to be one of the first half of the second century.
-
-Meanwhile, there have been 10 lines of Brahmi character and the inscriptions in the inscription and six extreme symbols that have not yet been seen in the history of the country's history.
-
-The professor of the inscription has gone and is about 60 percent of the total number of document.
-
-Accordingly, the remaining 40 percent of the part of the section was able to prepare a rows by the rows of the rows, the professor, added.
-
-It has been prepared using 24 characters with 24 letters and nearly 1000 letters of the total inscription.
-
-The inscriptions in the stone have also been added to the bhikkus because the water is essential to the top of the hill.
-
-...
-
-[Data](articles/c18fcb11.json)
-
-[Extended Data](ext_articles/c18fcb11.ext.json)
-
----
-
-### Greece will occur to Sri Lanka - Saritha Herath
-
-*2024-02-08 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/175909) · `ta`
-
-It has been publicly revealed that Greece has not recovered from the bankruptcy because of the implementation of the conditions of the International Monetary Fund.
-
-Greece's former finance minister Yanise Varoffacis said Greece would be in a state of consultation with the International Monetary Fund's recommendations.
-
-Parliamentarian Professor Saritha Herath said the president is acting to create a constitutional conflict amid economic impact.
-
-He was speaking at the adjournment debate on the President's Policy Declaration, which was held in Parliament on Thursday (08).
-
-The President does not specify any plans for the country, except for the policies and recommendations of the IMF. The president's notion that the country has been recovered from a massive crisis is baseless.
-
-President Ranil Wickremesinghe has adjourned the parliamentary session three times as 14 months have passed. Has submitted two budgets. But there was no change in social structure.
-
-...
-
-[Data](articles/5dd527d0.json)
-
-[Extended Data](ext_articles/5dd527d0.ext.json)
 
 ---

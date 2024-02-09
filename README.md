@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 10:50:14**
+As of **2024-02-09 11:02:26**
 
 ## Newspaper Stats
 
-*Scraped **5,892** Articles*
+*Scraped **5,896** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ adaderanalk | 725
 tamilmirrorlk | 727
 virakesarilk | 731
 adaderanasinhalalk | 778
-dailymirrorlk | 836
+dailymirrorlk | 840
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,892 (100.0%) of 5,892 articles have been extended.
+5,892 (99.9%) of 5,896 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### A 15-hour water cut in Colombo
+
+*2024-02-09 10:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/A-15-hour-water-cut-in-Colombo/108-276661) · `en`
+
+Colombo, Feb 9 (Daily Mirror) - Colombo residents are set to experience a 15-hour water cut today as the National Water Supply and Drainage Board (NWSDB) announced that water supply to several areas in the city will be suspended.
+
+The NWSDB reported that the water cut will apply to the Colombo 11, 12, 13, 14, and 15 areas beginning at 5 pm tomorrow, and end at 8 am on Sunday (11).
+
+According to the Water Board, the water cut is necessary as part of the ongoing essential maintenance work under the Ambatale Water Supply System Improvements and Energy Saving Project.
+
+The NWSDB has advised residents in the affected areas to make necessary arrangements to store water during the water cut period.
+
+Further, the NWS&DB has requested the cooperation of the public to conserve water during and after the water cut.
+
+◼️
+
+[Data](articles/1b8b3279.json)
+
+---
+
+### Sri Lanka mulls extension of visa-free access to Indian tourists
+
+*2024-02-09 10:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-mulls-extension-of-visa-free-access-to-Indian-tourists/108-276658) · `en`
+
+Colombo, Feb 09 (PTI) - Sri Lanka is likely to extend visa exemption status for India after March to keep attracting travellers from the country and encourage repeat visits, Tourism and Lands, Sports and Youth Affairs Minister Harin Fernando said on Thursday.
+
+“India is our number one source market and tourists from India helped our country on its path of recovery from the recent crisis we faced,” Fernando said in a session at OTM 2024.
+
+Sri Lanka facilitated visa-free entry for Indian travellers from December 2023 to March. “We are working on extending it beyond March. We want to make Sri Lanka an easily accessible destination for Indians, who can just walk into our country for a hassle free holiday,” he said.
+
+By offering visa exemption to Indians, Sri Lanka will attract more footfalls, especially those who make last-minute plans and find visa process a hindrance, he said.
+
+...
+
+[Data](articles/487b991a.json)
+
+---
 
 ### President meets Sri Lankans in Australia
 
@@ -47,6 +85,32 @@ Meanwhile, Sri Lankans who joined the meeting have been asked to help the govern
 [Data](articles/e5631f4e.json)
 
 [Extended Data](ext_articles/e5631f4e.ext.json)
+
+---
+
+### Zelensky sacks Ukraine’s commander-in-chief Valerii Zaluzhnyi
+
+*2024-02-09 09:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Zelensky-sacks-Ukraines-commander-in-chief-Valerii-Zaluzhnyi/107-276653) · `en`
+
+Kyiv, Feb 09 (BBC) - Ukraine's president has sacked the commander-in-chief of the country's armed forces, Valerii Zaluzhnyi.
+
+It follows speculation about a rift between the president and Gen Zaluzhnyi, who has led Ukraine's war effort since the conflict began.
+
+Battle-hardened Gen Oleksandr Syrskyi was announced as his replacement in a presidential decree.
+
+It is the biggest change to Ukraine's military leadership since Russia's full-scale invasion in February 2022.
+
+President Volodymyr Zelensky said the high command needed to be "renewed" and that Gen Zaluzhnyi could "remain on the team".
+
+"Starting today, a new management team will take over the leadership of the Armed Forces of Ukraine," he said on Thursday.
+
+Gen Zaluzhnyi is a popular general trusted by Ukrainian soldiers and the public, and has been something of a national hero.
+
+His recent approval ratings have been higher than those of Mr Zelensky.
+
+...
+
+[Data](articles/46d35280.json)
 
 ---
 
@@ -245,6 +309,26 @@ In this case, three officers, including the prison officer who were on duty duri
 [Data](articles/8957940e.json)
 
 [Extended Data](ext_articles/8957940e.ext.json)
+
+---
+
+### Sri Lankan envoy holds talks with Senegalese President
+
+*2024-02-09 08:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-envoy-holds-talks-with-Senegalese-President/108-276644) · `en`
+
+Senegal, Feb 09 (Daily Mirror) - Ambassador Kana Kananathan, Sri Lanka's first envoy to Senegal, had  discussions with Senegalese President Macky Sall.
+
+This meeting was to foster diplomatic ties and explore avenues for mutual benefits between the two nations.
+
+During the comprehensive discussions, Ambassador Kananathan and President Macky Sall engaged in various areas of cooperation, emphasizing trade and bilateral relations.
+
+Both representatives conveyed unwavering commitment to fortifying the ties between Sri Lanka and the vibrant West African nation, Senegal, with the shared goal of fostering prosperity.
+
+Kananathan commended Senegal's impressive achievements and expressed Sri Lanka's eagerness to contribute to the collective progress of both nations.
+
+...
+
+[Data](articles/00c6c873.json)
 
 ---
 
@@ -1975,81 +2059,5 @@ The government was able to increase the state revenue of eight percent to 11.2%.
 [Data](articles/de77034d.json)
 
 [Extended Data](ext_articles/de77034d.ext.json)
-
----
-
-### Opposition alleges move to postpone Presidential Election
-
-*2024-02-08 17:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Opposition-alleges-move-to-postpone-Presidential-Election/108-276610) · `en`
-
-Colombo, Feb 08 (Daily Mirror) - There is a sinister move by the government to avoid holding the Presidential election in the guise of abolishing the Executive Presidency, Chief Opposition Whip Lakshman Kiriella told Parliament yesterday.
-
-"The move is to abolish the Executive Presidency and buy time for it. The plan actually is to ask for a year to change the constitution," Kiriella said.
-
-"We would request the government to at least hold local government polls. People want an election," he said.
-
-"The entire opposition will take to the streets if the Presidential election is postponed, " he also said.
-
-◼️
-
-[Data](articles/27eef5d2.json)
-
-[Extended Data](ext_articles/27eef5d2.ext.json)
-
----
-
-### Chamika once again - loses ten
-
-*2024-02-08 17:30:10* · [`adalk`](https://www.ada.lk/sports/චාමික-නැවතත්-කණ්ඩායමට---දසුන්ට-ස්ථානය-අහිමි-වෙයි/9-407975) · `si`
-
-Several players including Chamika Karunaratne have also received the opportunity to the Sri Lanka squad for the Sri Lankan squad for Afghanistan and three matches.
-
-Janith Liyanage, Chamika Karunaratne, Anthemka Fernando, Ven.
-
-However, a large number of failed former leading Valley has lost this group. Kusal Mendis is the leader.
-
-Sri Lanka squad - Kusal Mendis (Leader), Charith Waniekage, Donus Wella, Dr. Akarachchi, Chamika Karunaratne, Dhananayake, VullemanChameera, Dilsh Madushanka, Piyadu Madushan
-
-◼️
-
-[Data](articles/5006d321.json)
-
-[Extended Data](ext_articles/5006d321.ext.json)
-
----
-
-### Veteran journalist Thalangama Jayasinghe passes away
-
-*2024-02-08 17:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97122/veteran-journalist-thalangama-jayasinghe-passes-away) · `en`
-
-Veteran Sri Lankan artist and journalist Thalangama Jayasinghe, best known for his popular newspaper cartoon “Pala Malla,” has passed away.
-
-◼️
-
-[Data](articles/bb5ca5e7.json)
-
-[Extended Data](ext_articles/bb5ca5e7.ext.json)
-
----
-
-### Sri Lanka’s Asia Asset Finance rated ‘A+(lka)’ with a stable outlook: Fitch
-
-*2024-02-08 17:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-asia-asset-finance-rated-alka-with-a-stable-outlook-fitch-150420/) · `en`
-
-ECONOMYNEXT – Fitch Ratings said it has assigned a First-Time Rating of ‘A+(lka)’ Outlook Stable to Asia Asset Finance.
-
-“Fitch Ratings has assigned Sri Lanka-based Asia Asset Finance PLC a first-time National Long-Term Rating of ‘A+(lka)’ with a Stable outlook,” the rating agency said.
-
-Fitch Assigns Asia Asset Finance a First-Time Rating of ‘A+(lka)’; Outlook Stable
-
-Fitch Ratings – Colombo/Mumbai – 07 Feb 2024: Fitch Ratings has assigned Sri Lanka-based Asia Asset Finance PLC a first-time National Long-Term Rating of ‘A+(lka)’ with a Stable outlook.
-
-Asia Asset Finance is a 72.9%-owned subsidiary of India-based Muthoot Finance Ltd (MFL,BB/Stable). Its core business is in gold-backed lending, similar to its parent. Asia Asset Finance has a small market share of 1.6% of total finance and leasing company (FLC) industry assets.
-
-...
-
-[Data](articles/cf0ff8a7.json)
-
-[Extended Data](ext_articles/cf0ff8a7.ext.json)
 
 ---

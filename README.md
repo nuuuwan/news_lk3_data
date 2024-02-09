@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 14:17:23**
+As of **2024-02-09 14:33:17**
 
 ## Newspaper Stats
 
-*Scraped **5,931** Articles*
+*Scraped **5,932** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,60 +19,78 @@ adalk | 497
 tamilmirrorlk | 730
 adaderanalk | 733
 virakesarilk | 733
-adaderanasinhalalk | 786
+adaderanasinhalalk | 787
 dailymirrorlk | 845
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,928 (99.9%) of 5,931 articles have been extended.
+5,931 (100.0%) of 5,932 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### අයිෆල් කුලුනේ ඉවත් කළ ලෝහවලින් මෙවර ඔලිම්පික් පදක්කම් හදයි
+### කාසියේ වාසිය ඇෆ්ගනිස්තානයට
+
+*2024-02-09 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193170) · `si`
+
+සංචාරක ඇෆ්ගනිස්තාන කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර පළමු එක්දින ක්‍රිකට් තරගය අද (09) පැවැත්වෙයි.
+
+එහි කාසියේ වාසිය දිනාගැනීමට ඇෆ්ගනිස්තාන කණ්ඩායම සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දු යැවීමටය.
+
+◼️
+
+[Data](articles/07fd0643.json)
+
+---
+
+### Olympic medals are making the removed metal in the Eiffel Tower
 
 *2024-02-09 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193169) · `si`
 
-2024 පැරිස් ඔලිම්පික් උළෙලේ ජයග්‍රාහක ජයග්‍රාහිකාවන්ට පිරිනැමෙන පදක්කම් ඊයේ (08) එළිදැක්වුණි.
+Medals presented to the winners of the Paris Olympics win yesterday (08).
 
-මෙවර පැරිස් ඔලිම්පික් උළෙල වෙනුවෙන් පදක්කම් 5,000කට අධික සංඛ්‍යාවක් නිර්මාණය කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Foreign media reports that more than 5,000 medals have been created for the Paris Olympics this year.
 
-ප්‍රංශයේ සුප්‍රසිද්ධ අයිෆල් කුලුන ප්‍රතිසංස්කරණයේදී ඉවත දැමූ ලෝහ යොදාගනිමින් මෙම පදක්කම් නිර්මාණය කර තිබීම විශේෂත්වයකි.
+It is noteworthy that medals were created using discarded metals in the famous Eiffel Tower of France.
 
-මෙලෙස පදක්කම් නිර්මාණය සඳහා යොදාගත් අයිෆල් කුලුනෙන් ඉවත දැමූ ලෝහ වසර ගණනාවක් ඉතා රහසිගතව ගබඩාකර තිබූ ඒවා බව එහි නිර්මාණකරුවන් පවසයි.
+The designers say that the metals who have been discarded by the Eiffel Tower for medals.
 
 ◼️
 
 [Data](articles/aeda6e48.json)
 
+[Extended Data](ext_articles/aeda6e48.ext.json)
+
 ---
 
-### මගේ මතකය හොඳටම හොඳයි - බයිඩන්
+### My memory is good - biden
 
 *2024-02-09 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193168) · `si`
 
-අමෙරිකානු ජනාධිපති ජෝ බයිඩන් සිතාමතා රහසිගත තොරතුරු අනාවරණ කළ බව හෙළිදරව් වී තිබේ.
+It has been revealed that US President Jooring has detected secret information.
 
-ඒ ජනාධිපතිවරයාගේ පෞද්ගලික කාර්යාලයක තිබී රහසිගත ලේඛන හමුවීමේ සිදුවිමට අදාළව විශේෂ නීතිඥ මඩුල්ලක් සිදුකළ විමර්ශනයකින් අනතුරුවය.
+A special attorney after investigation into the meeting of the President's private office was later investigated.
 
-කෙසේ වුව ද විමර්ශනයේ දී ජනාධිපති ජෝ බයිඩන්ගේ මතකය පිළිබඳව මතුව ඇත්තේ දැඩි ආන්දෝලනයකි.
+However, in the investigation, President Joe Biden's memory has an inactor.
 
-විමර්ශන වාර්තාවේ දැක්වෙන්නේ ජනපති බයිඩන්ගේ මතකය සීමා සහිත වන බවය.
+The investigation report states that President of President Bidain's memory is limited.
 
-රහසිගත ලේඛන ළඟ තබා ගැනීම සම්බන්ධයෙන් සිදුකළ ප්‍රශ්න කිරීම්වල දී තමන් උප ජනාධිපතිව සිටි කාලය හෝ ඔහුගේ පුත්‍රයා වන බියු බයිඩන් මිය ගිය වර්ෂය මතකයට නඟාගැනීමට ජනාධිපතිවරයාට නොහැකි වූ බව වාර්තාවේ දැක්වේ.
+The President has not been able to recall the time he had been the vice president's time or his son Beaidon, the death of his Son, Baye Biday.
 
-ඒ අනුව විමර්ශන වාර්තාවේ දැක්වෙන්නේ ජනාධිපති බයිඩන් දුර්වල මතකයක් ඇති වයස්ගත පුද්ගලයෙකු වීම හේතුවෙන් ඔහුට දඬුවම් පැනවිය නොහැකි බවය.
+Accordingly, the investigation report shows that he cannot be punished due to the agency of President Bidain.
 
-මෙවන් පසුබිමක ජනාධිපති බයිඩන් එළඹෙන ජනාධිපතිවරණයට තරග වැදීම සම්බන්ධයෙන් ද මතභේදයක් මතුව තිබේ.
+In such a backdrop, the president has arisen in the event of contesting the coming presidential election.
 
-මේ අතර විශේෂ ප්‍රවෘත්ති සාකච්ඡාවක් කැඳවමින් අමෙරිකානු ජනාධිපතිවරයා තමාගේ මතක ශක්තිය ගැන පළවන වාර්තා ප්‍රතික්ෂේප කළේය.
+Meanwhile, the US President rejected reports of his memory.
 
 ◼️
 
 [Data](articles/7be4496b.json)
+
+[Extended Data](ext_articles/7be4496b.ext.json)
 
 ---
 
@@ -1188,31 +1206,35 @@ Accordingly, in some places in the Central, Sabaragamuwa and Western provinces a
 
 ---
 
-### ශ්‍රී ලංකා සහ ඇෆ්ගනිස්ථාන එක්දින තරගාවලිය : 'අපි කොතනද ඉන්නේ කියලා බලන්න මේක හොඳ අවස්ථාවක්'
+### Sri Lanka and Afghanistan ODI Series: This is a good opportunity to see where we are
 
 *2024-02-09 06:15:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6p95dkg42zo) · `si`
 
-ශ්‍රී ලංකා සහ ඇෆ්ගනිස්ථාන එක්දින තරගාවලිය : 'අපි කොතනද ඉන්නේ කියලා බලන්න මේක හොඳ අවස්ථාවක්'
+Sri Lanka and Afghanistan ODI Series: This is a good opportunity to see where we are
 
-සංචාරක ඇෆ්ගනිස්ථාන කණ්ඩායම සහ ශ්‍රී ලංකාව අතර පැවැත්වෙන පළමු එක්දින තරගය අද (පෙබරවාරි මස 09) පල්ලේකැලේ ජාත්‍යන්තර ක්‍රීඩාංගණයේ දී ආරම්භ වීමට නියමිතයි.
+Tourist Afghanistan team and Sri Lanka will commence at the Pallekele International Stadium today (09th February 09).
 
-ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්ථානය අතර එක්දින තරග මාලාව තරග 03 කින් සමන්විත වේ.
+The one day series between Sri Lanka and Afghanistan consists of three matches.
 
-ICC එක්දින කණ්ඩායම් ශ්‍රේණිගත කිරීම් වලට අනුව ශ්‍රී ලංකාව 07 වන ස්ථානයේ පසුවන අතර ඇෆ්ගනිස්ථානය 09 වන ස්ථානයේ පසුවේ.
+According to the ICC one-day team ratings, Sri Lanka is on the 7th and Afghanistan is in the 9th.
 
-ICC ශ්‍රී ලංකා ක්‍රිකට් තහනම ඉවතට. මේ දක්වා සිදුවුයේ කුමක් ද?
+ICC banned Sri Lankan cricket. What happened to date?
 
-ඉකුත් වසරේ පැවති එක්දින ක්‍රිකට් ලෝක කුසලානයේදී ශ්‍රී ලංකාවට එරෙහිව කඩුලු 07ක ජයග්‍රහණයක් වාර්තා කිරීමට ඇෆ්ගනිස්ථාන කණ්ඩායම සමත් ව ඇත.
+The Afghan group won a seven wicket win against Sri Lanka at the last year's World Cup.
 
-මේ දක්වා එක්දින තරග 12කදි ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්ථානය මුණ ගැසී ඇත.
+Sri Lanka and Afghanistan have met 12 ODIs to date.
 
-එහිදී තරග 07ක ජයග්‍රහණය ශ්‍රී ලංකාව සතුවන විට ඇෆ්ගනිස්ථානය තරග 04ක් ජයග්‍රහණය කිරීමට සමත්විය. එක් තරගයක් ප්‍රතිඵලයක් නොමැතිව අතහැර දමා ඇත.
+Sri Lanka won seven matches to win four matches. One match has been abandoned without results.
 
-ඇෆ්ගනිස්ථාන කණ්ඩායමට එරෙහි එක්දින තරගාවලිය සඳහා නම් කළ ශ්‍රී ලංකා  සංචිතය ඊයේ (පෙබරවාරි 08 වෙනිදා) නිල වශයෙන් ප්‍රකාශයට පත් කෙරුණි.
+The Sri Lanka squad for the ODI was officially announced yesterday (Feb 08).
+
+Kusal Mendis (Leader), Charith Saharadi, Gratira Samarawickage, Sahan Liyanage, Akila Dananjaya, Akila Dananjaya, Chamika, ChamikaThe 16 players include Karunaranthanthantha and Shivone Daniel.
 
 ...
 
 [Data](articles/7621cf7c.json)
+
+[Extended Data](ext_articles/7621cf7c.ext.json)
 
 ---
 
@@ -2001,23 +2023,5 @@ A 45-year-old person who was injured in the shooting has been admitted to the Pu
 [Data](articles/3dab2390.json)
 
 [Extended Data](ext_articles/3dab2390.ext.json)
-
----
-
-### A shooting of ancient
-
-*2024-02-08 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193147) · `si`
-
-The police said that the shooting had been admitted to the Anamaduwa hospital this afternoon.
-
-The injured were later transferred to the Puttalam Hospital for further treatment.
-
-The shooter has fled and the police suspect that a personal dispute has been shot.
-
-◼️
-
-[Data](articles/796d3129.json)
-
-[Extended Data](ext_articles/796d3129.ext.json)
 
 ---

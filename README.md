@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 18:32:49**
+As of **2024-02-09 18:50:27**
 
 ## Newspaper Stats
 
-*Scraped **5,967** Articles*
+*Scraped **5,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ islandlk | 308
 economynextcom | 309
 dailyftlk | 332
 newsfirstlk | 363
-adalk | 498
+adalk | 502
 tamilmirrorlk | 731
 virakesarilk | 736
-adaderanalk | 739
+adaderanalk | 740
 adaderanasinhalalk | 798
 dailymirrorlk | 856
 
@@ -26,11 +26,53 @@ dailymirrorlk | 856
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,966 (100.0%) of 5,967 articles have been extended.
+5,967 (99.9%) of 5,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### Pathum Nissanka smashes Sri Lanka’s first-ever double-century in ODI history
+
+*2024-02-09 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97147/pathum-nissanka-smashes-sri-lankas-first-ever-double-century-in-odi-history) · `en`
+
+Sri Lanka’s top order batter Pathum Nissanka stroked the maiden double-century hit by a Sri Lankan cricketer in ODI format.
+
+The 25-year-old will go down in the ODI history as the 11th player to hit a double-century in international cricket.
+
+Earlier, the star opener played a delightful knock against Afghanistan in the first ODI at the Pallekele International Cricket Stadium.
+
+◼️
+
+[Data](articles/999f303e.json)
+
+---
+
+### ’’චීන වසන්ත උත්සව ජනතා සංස්කෘතික මංගල්‍යය’’  ගෝලීය ප්‍රේක්ෂකයන් හමුවට
+
+*2024-02-09 18:17:58* · [`adalk`](https://www.ada.lk/picture_story/’’චීන-වසන්ත-උත්සව-ජනතා-සංස්කෘතික-මංගල්‍යය’’--ගෝලීය-ප්‍රේක්ෂකයන්-හමුවට/10-407986) · `si`
+
+චීන සාම්ප්‍රදායික නව වසර අද (9) රාත්‍රියේ උදාවෙයි. චීන මාධ්‍ය සමූහය විසින් නිෂ්පාදනය කරන ලද වසන්ත උත්සව සංස්කෘතික ප්‍රසංගය අද රාත්‍රී 8 ට ලොව පුරා ප්‍රේක්ෂකයන් හමුවේ දිගහැරේ. මෙම වසන්ත උත්සව ප්‍රසංගය වසර 40 කට වැඩි කාලයක් තිස්සේ සමස්ත චීන ජාතිකයන්ගේ උණුසුම් හැඟීම් ලොවට රැගෙන ගිය අතර, එය නව වසරේ සතුට සමරන චීන ජාතිකයන්ට විශිෂ්ට රසාස්වාදයක් තිළිණ කරන අත්‍යවශ්‍ය අංගයක් බවට පත්ව ඇත. විශේෂයෙන්ම, එක්සත් ජාතීන්ගේ මහා මණ්ඩලය වසන්ත උත්සවය එක්සත් ජාතීන්ගේ නිවාඩු දිනයක් ලෙස නම් කිරීමෙන් වසන්ත උත්සව ප්‍රසංගයට ද ගෝලීය වැදගත්කමක් ලබා දී තිබේ.
+
+...
+
+[Data](articles/b96ac821.json)
+
+---
+
+### පුවක් පැළ මිලියනයක් සිටුවීමට සැලසුම්
+
+*2024-02-09 18:09:51* · [`adalk`](https://www.ada.lk/breaking_news/පුවක්-පැළ-මිලියනයක්-සිටුවීමට-සැලසුම්/11-407985) · `si`
+
+ඉදිරි වර්ෂ කීපය තුළ  ජාත්‍යන්තර ඉල්ලුමට සාපේක්ෂව දේශීය පුවක් සැපයුම ඉහළ නැංවීමේ අරමුණින්  මෙම වර්ෂයේදී පුවක් පැළ මිලියනයක් රෝපණය කිරීමට  සූදානම් කර ඇතැයි අපනයන කෘෂිකර්ම දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් ආචාර්ය ඒ.පී.පී.දිස්නා මෙනවිය පැවසීය.
+
+දෙපාර්තමේන්තුවේ ලියාපදිංචි  පැළ තවාන් මගින් වානිජ මට්ටමින්   වගාකරුවන් සඳහා සහන මිලක් යටතේද රජයේ පාසල් ඇතුළු රාජ්‍ය ආයතන භූමිවල සිටුවීම සඳහා සීමිත ප්‍රමාණයක්  නොමිලේද    මෙම පැළ නිකුත් කරන බව  අධ්‍යක්ෂ ජනරාල්වරිය සඳහන් කළාය.
+
+◼️
+
+[Data](articles/bfc035e5.json)
+
+---
 
 ### Harsha de Silva re-appointed as Chair of Committee on Public Finance
 
@@ -41,6 +83,8 @@ Feb 09 (Daily Mirror) - SJB MP Dr. Harsha de Silva has been re-appointed to serv
 ◼️
 
 [Data](articles/526cbc71.json)
+
+[Extended Data](ext_articles/526cbc71.ext.json)
 
 ---
 
@@ -369,6 +413,20 @@ In total, Fraser-Pryce has won three Olympic golds, four silvers and a bronze.
 [Data](articles/8eec96d5.json)
 
 [Extended Data](ext_articles/8eec96d5.ext.json)
+
+---
+
+### ඉන්දියාවේ බිත්තර සතොසෙන් තවදුරටත්
+
+*2024-02-09 15:25:04* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවේ-බිත්තර-සතොසෙන්-තවදුරටත්/11-407983) · `si`
+
+මේ වසරේ ඉන්දියාවෙන් ඇනවුම් කල පළමු බිත්තර මිලියන 7ක තෙගයේ පළමු කොටස ලංකාවට ලැබී ඇති බව රාජ්‍ය විවිධ නීතිගත සංස්ථාව පවසනවා.
+
+සත්ව නිෂ්පාදන සහ සෞඛය දෙපාර්ථමේන්තුවේ පරීක්ෂාවලින් අනතුරුව මෙම තොග එළ‌ෛඹෙන සතිය වන විට දිවයින පුරා පිහිටි සතොස අලවිහල් වෙත නිකුත් කරන බව සංස්ථා සභාපති ආසිරි වලිසුන්දර මහතා වැඩිදුරටත් ප්‍රකාශ කලේය.
+
+◼️
+
+[Data](articles/9f6c88f1.json)
 
 ---
 
@@ -1079,6 +1137,28 @@ Meanwhile, a meeting was held between President Ranil Wickremesinghe and Austral
 [Data](articles/8a8bebb2.json)
 
 [Extended Data](ext_articles/8a8bebb2.ext.json)
+
+---
+
+### ලෝක පිට්සා දිනයට ලංකාවේ ලොකුම පිට්සාව මීගමුවේ හදයි
+
+*2024-02-09 11:01:42* · [`adalk`](https://www.ada.lk/uncategorized/ලෝක-පිට්සා-දිනයට-ලංකාවේ-ලොකුම-පිට්සාව-මීගමුවේ-හදයි/1-407981) · `si`
+
+පෙබරවාරි මස 09 දිනට යෙදී ඇති ලෝක පීට්සා දිනය නිමිත්තෙන් මීගමුව , ඒත්තුකාළ ප්‍රදේශයේ පිහිටි ටුක් ටුක් වයින් ඇන්ඩ් ඩයින් හෝටලය ලංකාවේ විශාලතම පීට්සා ව 02/09 දින රාත්‍රී එම හෝටල් පරිශ්‍රයේ දී නිර්මාණය කිරීමට පියවර ගෙන තිබුණි.
+
+මේ සදහා එම හෝටලයේ විධායක සූපවේදී දුමින්ද වනිගසේකර මහතා මූලිකත්වය ගෙන ක්‍රියා කර තිබුණි .
+
+අගල් 50 දිග මෙම පීට්සා එක කිලෝ ග්‍රෑම් 12 ක බරකින් යුතු විය .
+
+මෙම පීට්සා ව නිර්මාණය කිරීම සදහා තක්කාලි කොංග්‍රසයක් ( මිශ්‍රණයක් ) මොසැරැල්ලා චීස් , කුකුළු මස් , සොසේජස් ,විවිධ පාට සහ රස වර්ග 04 කින් යුතු බෙල් පෙපර් , ඔලිව් තෙල් සහ බී ළූණු භාවිතා කර තිබූ අතර මෙම පීට්සා ව විනාඩි 08 ක කාළයකින් පුළුස්සා නිම කර ගැනීමට හැකි වී  තිබුණි .
+
+මෙම පීට්සා ව රස බැලීම සදහා 100 කට අධික පිරිසක් මෙම හෝටල් පරිශ්‍රයට පැමිණ සිටියහ . එකවර 08 දෙනෙකුට භුක්ති විදීමට හැකි වන පරිදි අගල් 25 ක් දිග වන ආකාරයට සකස් කර  පීට්සා කැබළි ඔවුන්ට ආහාර සදහා  පිපිරිනැමීම සිදු කෙරුණි .
+
+ඉකුත් 2021 වසරේ දී මෙම හෝටලය අගල් 40 ක් දිග පීට්සා වක් ලෝක පීට්සා දිනය නිමිත්තෙන් සකස් කර තිබුණි
+
+◼️
+
+[Data](articles/13def504.json)
 
 ---
 
@@ -1979,93 +2059,5 @@ Acknowledging the past economic struggles, he referenced the time when Sri Lanka
 [Data](articles/feb7536a.json)
 
 [Extended Data](ext_articles/feb7536a.ext.json)
-
----
-
-### ‘Indian Expansionism’, JVP & AKD’s Indian Tour
-
-*2024-02-09 06:02:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/indian-expansionism-jvp-akds-indian-tour/) · `en`
-
-In the late sixties, the political tool used by the Janata Vimukthi Peramuna (JVP) to position itself among certain youth sections was their famous series of sermons consisting of five classes(පන්ති පහ).Certainly, ‘Indian expansionism’ was the most compelling discourse among the five classes as they were active among the rural Sinhalese population.
-
-The first of the famous five classes of the Janata Vimukthi Peramuna was ‘Economic crisis in Sri Lanka’ and the second class was ‘Indian expansionism’.
-
-...
-
-[Data](articles/f227c3ad.json)
-
-[Extended Data](ext_articles/f227c3ad.ext.json)
-
----
-
-### Sri Lanka’s central bank collects US$1.8bn from fx markets in 2023
-
-*2024-02-09 06:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-collects-us1-8bn-from-fx-markets-in-2023-150484/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has bought 113 million US dollars from forex markets in December 2023, taking the total collected in the year to 1.895 billion US dollars, backed by deflationary policy, official data shows.
-
-The central bank allowed rates to go up from April 2022, in the first step to correcting a balance of payments crisis, triggered by rates cuts enforced with aggressive open market operations involving multiple liquidity tools.
-
-Rate cuts enforced with liquidity injections by a reserve collecting central bank trigger forex shortages, then a rapid loss of confidence as the so-called ‘flexible’ exchange rate regime flips and attempts to float (exchange rate as the first line of defence).
-
-After a massive confidence shock is delivered including credit downgrades, steep rate hikes and an economic contraction to kill credit is needed to restore the confidence in the currency and stabilize the monetary system.
-
-...
-
-[Data](articles/62f32c9f.json)
-
-[Extended Data](ext_articles/62f32c9f.ext.json)
-
----
-
-### The unbearable selfishness of being “Maavai” Senathirajah
-
-*2024-02-09 05:46:39* · [`dailyftlk`](https://www.ft.lk/columns/The-unbearable-selfishness-of-being-Maavai-Senathirajah/4-758285) · `en`
-
-The heading of this article is inspired by the title of Milan Kundera’s novel “The Unbearable Lightness of Being”. That novel was set in the eventful Prague spring period of the then undivided Czechoslovakia. This article is about an octogenarian Tamil political leader who tries to cling on to power selfishly without stepping down gracefully.
-
-The party leader I am referring to is Somasundaram Senathirajah known popularly as “Maavai” Senathirajah and/or Maavai. Until 27 January 2024, Senathirajah was the President of the Ilankai Thamil Arasuk Katchi (ITAK) known as the Federal Party (FP) in English. Senathirajah however continues to act as the party president in a business as usual fashion.
-
-...
-
-[Data](articles/a6f1bedd.json)
-
-[Extended Data](ext_articles/a6f1bedd.ext.json)
-
----
-
-### Law making and the economic crisis in Sri Lanka
-
-*2024-02-09 05:39:48* · [`dailyftlk`](https://www.ft.lk/columns/Law-making-and-the-economic-crisis-in-Sri-Lanka/4-758284) · `en`
-
-The proposed Anti-Terrorism Act and the recently adopted Online Safety Act aim to discourage people who are
-
-reeling under economic dispossession from fighting a just economic arrangement
-
-What can law do during an economic crisis? What is law actually doing during the current economic crisis in Sri Lanka? These are two questions that I thought I would reflect upon, when I was invited to speak at a panel discussion on the role of law in overcoming the current economic crisis held at the Jaffna Law Conference recently. Neither a lawyer nor an economist, I try to engage with these questions as a teacher of critical theory and as someone who lives and works amidst the economic crisis that is plaguing the country. With gratitude, I draw from the careful analyses of the recent legal reforms offered by lawyers, economists, trade unionists and activists who work for social justice in Sri Lanka.
-
-...
-
-[Data](articles/ae207379.json)
-
-[Extended Data](ext_articles/ae207379.ext.json)
-
----
-
-### Law making and the economic crisis in Sri Lanka
-
-*2024-02-09 05:39:48* · [`dailyftlk`](https://www.ft.lk/opinion/Law-making-and-the-economic-crisis-in-Sri-Lanka/14-758284) · `en`
-
-The proposed Anti-Terrorism Act and the recently adopted Online Safety Act aim to discourage people who are
-
-reeling under economic dispossession from fighting a just economic arrangement
-
-What can law do during an economic crisis? What is law actually doing during the current economic crisis in Sri Lanka? These are two questions that I thought I would reflect upon, when I was invited to speak at a panel discussion on the role of law in overcoming the current economic crisis held at the Jaffna Law Conference recently. Neither a lawyer nor an economist, I try to engage with these questions as a teacher of critical theory and as someone who lives and works amidst the economic crisis that is plaguing the country. With gratitude, I draw from the careful analyses of the recent legal reforms offered by lawyers, economists, trade unionists and activists who work for social justice in Sri Lanka.
-
-...
-
-[Data](articles/f3568fc6.json)
-
-[Extended Data](ext_articles/f3568fc6.ext.json)
 
 ---

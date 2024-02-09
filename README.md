@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 11:51:46**
+As of **2024-02-09 12:02:28**
 
 ## Newspaper Stats
 
-*Scraped **5,909** Articles*
+*Scraped **5,911** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 68
+colombotelegraphcom | 69
 bbccomsinhala | 82
 dbsjeyarajcom | 142
 islandlk | 308
@@ -19,18 +19,38 @@ adalk | 495
 adaderanalk | 728
 tamilmirrorlk | 730
 virakesarilk | 732
-adaderanasinhalalk | 779
+adaderanasinhalalk | 780
 dailymirrorlk | 841
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,909 (100.0%) of 5,909 articles have been extended.
+5,911 (100.0%) of 5,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### A list of 349 suspects on all police
+
+*2024-02-09 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193163) · `si`
+
+The police have admitted 349 more drug dealers across the country to the Justice Registry.
+
+The arrest of drug dealers is continuing to arrest drug dealers across the country under the justification commencement of yesterday.
+
+Accordingly, 296 newly identified racketeers, including 53 newly identified racketeers, who have already identified as followers of the Sri Lankan traffickers have been released as acting.
+
+The list has been sent to the Senior Superintendent of Police in the country, police headquarters.
+
+◼️
+
+[Data](articles/ea6651a0.json)
+
+[Extended Data](ext_articles/ea6651a0.ext.json)
+
+---
 
 ### New Aswesum applications from tomorrow
 
@@ -795,6 +815,22 @@ Acknowledging the past economic struggles, he referenced the time when Sri Lanka
 [Data](articles/feb7536a.json)
 
 [Extended Data](ext_articles/feb7536a.ext.json)
+
+---
+
+### ‘Indian Expansionism’, JVP & AKD’s Indian Tour
+
+*2024-02-09 06:02:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/indian-expansionism-jvp-akds-indian-tour/) · `en`
+
+In the late sixties, the political tool used by the Janata Vimukthi Peramuna (JVP) to position itself among certain youth sections was their famous series of sermons consisting of five classes(පන්ති පහ).Certainly, ‘Indian expansionism’ was the most compelling discourse among the five classes as they were active among the rural Sinhalese population.
+
+The first of the famous five classes of the Janata Vimukthi Peramuna was ‘Economic crisis in Sri Lanka’ and the second class was ‘Indian expansionism’.
+
+...
+
+[Data](articles/f227c3ad.json)
+
+[Extended Data](ext_articles/f227c3ad.ext.json)
 
 ---
 
@@ -2009,37 +2045,5 @@ Commenting regarding the playing XI, Mendis hinted at minimal changes compared t
 [Data](articles/84598596.json)
 
 [Extended Data](ext_articles/84598596.ext.json)
-
----
-
-### Civil society organisations condemn draconian laws; withdraw from Open Government Partnership
-
-*2024-02-08 20:03:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/civil-society-organisations-condemn-draconian-laws-withdraw-from-open-government-partnership/) · `en`
-
-Colombo (News 1st) – Civil society organisations involved in the Open Government Partnership on Thursday withdrew from the initiative, condemning the increasingly draconian laws being rolled out by the government.
-
-In a letter to President Ranil Wickremesinghe, the co-conveners of civil society organisations, Nadishani Perera, Executive Director of Transparency International Sri Lanka, and Dr. Vinya Ariyaratne, President of the Sarvodaya Shramadana Movement, stated that the decision was taken in response to "alarming developments in the country that are in direct contravention to the principles of open government."
-
-They cited in particular, the passing of the Online Safety Act, together with the Anti-Terrorism Bill that has been proposed, and demanded that they be repealed and withdrawn respectively.
-
-...
-
-[Data](articles/4f535e80.json)
-
-[Extended Data](ext_articles/4f535e80.ext.json)
-
----
-
-### Kalubowila Hospital recognized for patient care
-
-*2024-02-08 19:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Kalubowila-Hospital-recognized-for-patient-care/110-276602) · `en`
-
-An event was held to recognize the wards and units of the Colombo South Teaching Hospital for outstanding patient care under the Productivity, Quality, and Patient Safety Competition. Dr. Palitha Mahipala, Secretary of the Ministry of Health, and Dr. Asela Gunawardena, Director-General of Health Services graced the event. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/cb00a097.json)
-
-[Extended Data](ext_articles/cb00a097.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 20:17:26**
+As of **2024-02-09 20:32:56**
 
 ## Newspaper Stats
 
-*Scraped **5,986** Articles*
+*Scraped **5,990** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 309
 dailyftlk | 332
 newsfirstlk | 363
 adalk | 504
-tamilmirrorlk | 731
+tamilmirrorlk | 735
 virakesarilk | 741
 adaderanalk | 742
 adaderanasinhalalk | 801
@@ -26,11 +26,53 @@ dailymirrorlk | 857
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,986 (100.0%) of 5,986 articles have been extended.
+5,986 (99.9%) of 5,990 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### அதிரடி காட்டிய பெத்தும் நிஸ்ஸங்க
+
+*2024-02-09 19:29:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிரடி-காட்டிய-பெத்தும்-நிஸ்ஸங்க/175-332947) · `ta`
+
+ஆப்கானிஸ்தான் மற்றும் இலங்கை அணிகளுக்கிடையிலான முதலாவது ஒரு நாள் சர்வதேச கிரிக்கெட் போட்டி கண்டி - பல்லேகலை மைதானத்தில் இன்று இடம்பெறுகின்றது.
+
+இதில் நாணய சுழற்சியில் வெற்றி பெற்ற ஆப்கானிஸ்தான் அணி முதலில் களத்தடுப்பில் ஈடுபட தீர்மானித்தது.
+
+அதன்படி, முதலில் துடுப்பாடிய இலங்கை அணி நிர்ணயிக்கப்பட்ட 50 ஓவர்கள் நிறைவில் 03 விக்கெட்டுக்களை இழந்து 381 ஓட்டங்களை பெற்றுக்கொண்டது.
+
+ஒருநாள் சர்வதேச கிரிக்கெட் போட்டிகளில் இவர் பெற்ற முதலாவது இரட்டை சதம் இதுவாகும்.
+
+இலங்கை கிரிக்கெட் வரலாற்றில் ஒருநாள் சர்வதேச கிரிக்கெட் போட்டிகளில் இரட்டை சதம் கடந்த முதல் வீரர் பெத்தும் நிஸ்ஸங்க ஆவார்.
+
+அத்துடன், அவிஸ்க பெர்னாண்டோ 88 ஓட்டங்களையும், சதீர சமரவிக்ரம 45 ஓட்டங்களையும் பெற்றுக்கொடுத்தனர்.
+
+பந்துவீச்சில் ஆப்கானிஸ்தான் அணியின் மொஹம்மட் நபி 44 ஓட்டங்களுக்கு ஒரு விக்கெட்டை கைப்பற்றினார்.
+
+இந்தநிலையில், ஆப்கானிஸ்தான் அணி 382 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி துடுப்பெடுத்தாடுகின்றது. R
+
+◼️
+
+[Data](articles/9ba9e239.json)
+
+---
+
+### மலையக ரயில் போக்குவரத்து பாதிப்பு
+
+*2024-02-09 19:13:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-ரயில்-போக்குவரத்து-பாதிப்பு/175-332946) · `ta`
+
+நாவலப்பிட்டியில் இருந்து நானுஓயா வரை பயணித்த சரக்கு ரயில் தடம் புரண்டதால் மலையக ரயில் போக்குவரத்து தடைப்பட்டுள்ளதாக நாவலப்பிட்டி ரயில் கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+
+இன்று மாலை 5:00 மணியளவில் ரயிலின் இயந்திரம் மற்றும் ஒரு பெட்டி தடம் புரண்டுள்ளது.
+
+இதனையடுத்து, கொழும்பில் இருந்து பதுளை வரை செல்லும் ரயில்கள் வட்டவளை ரயில் நிலையத்துக்கும், பதுளையில் இருந்து கொழும்பு நோக்கி செல்லும் ரயில்கள் ஹட்டன் நிலையம் வரை இயக்கப்படும் என ஹட்டன் நிலைய அதிகாரி ஒருவர் தெரிவித்தார். (N)
+
+◼️
+
+[Data](articles/f6d88d58.json)
+
+---
 
 ### Beliatta mass shooting: Suspect arrested with T-56 magazine
 
@@ -51,6 +93,32 @@ Furthermore, police have uncovered that the suspect in question, who joined the 
 [Data](articles/3ea38f64.json)
 
 [Extended Data](ext_articles/3ea38f64.ext.json)
+
+---
+
+### திடீரென துப்பாக்கி இயங்கியதில் பொலிஸ் உத்தியோகத்தர் காயம்
+
+*2024-02-09 19:08:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-துப்பாக்கி-இயங்கியதில்-பொலிஸ்-உத்தியோகத்தர்-காயம்/175-332945) · `ta`
+
+மொனராகலை - ஒக்கம்பிடி பகுதியில் பொலிஸ் உத்தியோகத்தர் ஒருவரின் துப்பாக்கி இயங்கியதில் மற்றுமொரு பொலிஸ் உத்தியோகத்தர் காயமடைந்துள்ளார்.
+
+குறித்த உத்தியோகத்தர் துப்பாக்கியை பராமரிக்கும் செயற்பாட்டில் இன்று, முற்பகல் ஈடுபட்டிருந்த போது திடீரென துப்பாக்கி இயங்கியுள்ளது.
+
+◼️
+
+[Data](articles/7f73988c.json)
+
+---
+
+### கோபா குழுவின் தலைவராக  ஹர்ஷ டி சில்வா
+
+*2024-02-09 19:04:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோபா-குழுவின்-தலைவராக-ஹர்ஷ-டி-சில்வா/175-332944) · `ta`
+
+அரச கணக்குகள் தொடர்பான குழுவின் (கோபா) தலைவராக ஹர்ஷ டி சில்வா மீண்டும் நியமிக்கப்பட்டுள்ளார். (N)
+
+◼️
+
+[Data](articles/f9707abb.json)
 
 ---
 
@@ -1975,89 +2043,5 @@ Another group of Sri Lankans working in the Jordani factory will be sent to the 
 [Data](articles/266bc05c.json)
 
 [Extended Data](ext_articles/266bc05c.ext.json)
-
----
-
-### Did the prisoners provide cyanide toxic fluid?
-
-*2024-02-09 08:45:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதிகளுக்கு-சயனைட்-நச்சு-திரவம்-வழங்கப்பட்டதா/175-332938) · `ta`
-
-Police have expressed suspicion that the two suspects detained at the police station in Auttapattieru may have been mixed with cyanide toxic fluid in the milk.
-
-The two suspects who were affected by the incident continue to be treated at the Colombo National Hospital in the intensive care unit.
-
-Meanwhile, it is reported that information has now been received regarding the persons who provided them with poisonous fluid.
-
-In this case, three officers, including the prison officer who were on duty during the incident, have been suspended.. Remble
-
-◼️
-
-[Data](articles/8957940e.json)
-
-[Extended Data](ext_articles/8957940e.ext.json)
-
----
-
-### Sri Lankan envoy holds talks with Senegalese President
-
-*2024-02-09 08:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-envoy-holds-talks-with-Senegalese-President/108-276644) · `en`
-
-Senegal, Feb 09 (Daily Mirror) - Ambassador Kana Kananathan, Sri Lanka's first envoy to Senegal, had  discussions with Senegalese President Macky Sall.
-
-This meeting was to foster diplomatic ties and explore avenues for mutual benefits between the two nations.
-
-During the comprehensive discussions, Ambassador Kananathan and President Macky Sall engaged in various areas of cooperation, emphasizing trade and bilateral relations.
-
-Both representatives conveyed unwavering commitment to fortifying the ties between Sri Lanka and the vibrant West African nation, Senegal, with the shared goal of fostering prosperity.
-
-Kananathan commended Senegal's impressive achievements and expressed Sri Lanka's eagerness to contribute to the collective progress of both nations.
-
-...
-
-[Data](articles/00c6c873.json)
-
-[Extended Data](ext_articles/00c6c873.ext.json)
-
----
-
-### 5 years imprisonment;Breaking News
-
-*2024-02-09 08:39:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-ஆண்டுகள்-சிறை-உறுதி-முக்கிய-அறிவிப்பு/175-332937) · `ta`
-
-Police say women are likely to be sentenced to more than 5 years in prison for women who are involved in sexual harassment and violence against them.
-
-Police spokesman Nihal Talduwa said the prison sentence and fines would be imposed on Article 345 of the Criminal Act.
-
-In the event of suspicion of violence against women in public transport, civil attire police will monitor them and record it through their cameras.
-
-Meanwhile, 42 people have been arrested during a raid against those who engage in sexual harassment and violence against women in public transport.. Remble
-
-◼️
-
-[Data](articles/15ef40f2.json)
-
-[Extended Data](ext_articles/15ef40f2.ext.json)
-
----
-
-### Sri Lanka’s efforts to nab overseas criminals hit a snag
-
-*2024-02-09 08:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-efforts-to-nab-overseas-criminals-hit-a-snag/108-276642) · `en`
-
-Colombo, Feb 9 (Daily Mirror) - Sri Lanka’s efforts to arrest organized criminals operating from overseas has hit a snag following the Court of Appeal in France ruling against the extradition of criminal called ‘Kudu Anju’, Daily Mirror learns.
-
-The ruling has been communicated to the Sri Lankan authorities. However, a top official familiar with the process said the latest ruling conveyed on February 1, 2024 is not the final judgement.
-
-“It is not the final judgement. The final ruling will be given after the judicial process is over in another couple of weeks’ time or so,” the official said.
-
-In the meantime, the Sri Lankan Embassy in Paris is in communication with the French Foreign Affairs Ministry to get the ruling clarified further.
-
-Earlier, Public Security Minister Tiran Alles said the government initiated a special operation to arrest 30 criminals involved in drug trafficking and criminal activities while living in countries such as the United Arab Emirates (UAE) and France.
-
-...
-
-[Data](articles/ab14a1d2.json)
-
-[Extended Data](ext_articles/ab14a1d2.ext.json)
 
 ---

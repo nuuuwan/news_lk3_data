@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 11:02:26**
+As of **2024-02-09 11:17:14**
 
 ## Newspaper Stats
 
-*Scraped **5,896** Articles*
+*Scraped **5,899** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ islandlk | 308
 economynextcom | 309
 dailyftlk | 331
 newsfirstlk | 363
-adalk | 492
+adalk | 493
 adaderanalk | 725
-tamilmirrorlk | 727
+tamilmirrorlk | 728
 virakesarilk | 731
-adaderanasinhalalk | 778
+adaderanasinhalalk | 779
 dailymirrorlk | 840
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,892 (99.9%) of 5,896 articles have been extended.
+5,896 (99.9%) of 5,899 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### පැය 15ක ජල කප්පාදුවක්
+
+*2024-02-09 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193162) · `si`
+
+කොළඹ ප්‍රදේශ කිහිපයකට පැය 15ක කාලයක් ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවාහන මණ්ඩලය පවසයි.
+
+ඒ අනුව කොළඹ 11, 12, 13, 14 සහ 15 යන ප්‍රදේශවලට හෙට (10) පස්වරු 05 සිට ඉරිදා පෙරවරු 08 දක්වා ජල සැපයුම අත්හිටුවීමට නියමිතය.
+
+අඹතලේ ජල සැපයුම වැඩිදියුණු කිරීමේ කටයුත්තක් හේතුවෙන් ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවාහන මණ්ඩලය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/e6c4fd75.json)
+
+---
+
+### கொழும்பில் நாளை 15 மணித்தியால நீர்வெட்டு
+
+*2024-02-09 10:38:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-நாளை-15-மணித்தியால-நீர்வெட்டு/175-332940) · `ta`
+
+கொழும்பில் சில பகுதிகளில் நாளைய தினம் (10 சனிக்கிழமை) 15 மணித்தியால நீர்வெட்டு அமுல்ப்படுத்தப்படவுள்ளதாக நீர்வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+
+கொழும்பு 11,12, 13, 14, மற்றும் 15 ஆகிய பிரதேசங்களிலேயே இவ்வாறு நீர்வெட்டு அமுல்ப்படுத்தப்படவுள்ளதாக நீர்வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/f3848908.json)
+
+---
 
 ### A 15-hour water cut in Colombo
 
@@ -50,6 +80,8 @@ Further, the NWS&DB has requested the cooperation of the public to conserve wate
 
 [Data](articles/1b8b3279.json)
 
+[Extended Data](ext_articles/1b8b3279.ext.json)
+
 ---
 
 ### Sri Lanka mulls extension of visa-free access to Indian tourists
@@ -67,6 +99,8 @@ By offering visa exemption to Indians, Sri Lanka will attract more footfalls, es
 ...
 
 [Data](articles/487b991a.json)
+
+[Extended Data](ext_articles/487b991a.ext.json)
 
 ---
 
@@ -111,6 +145,8 @@ His recent approval ratings have been higher than those of Mr Zelensky.
 ...
 
 [Data](articles/46d35280.json)
+
+[Extended Data](ext_articles/46d35280.ext.json)
 
 ---
 
@@ -330,6 +366,8 @@ Kananathan commended Senegal's impressive achievements and expressed Sri Lanka's
 
 [Data](articles/00c6c873.json)
 
+[Extended Data](ext_articles/00c6c873.ext.json)
+
 ---
 
 ### 5 years imprisonment;Breaking News
@@ -371,6 +409,22 @@ Earlier, Public Security Minister Tiran Alles said the government initiated a sp
 [Data](articles/b575c789.json)
 
 [Extended Data](ext_articles/b575c789.ext.json)
+
+---
+
+### අධ්‍යාපන අමාත්‍යාංශයෙන් විශේෂ නිවේදනයක්
+
+*2024-02-09 08:11:06* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-අමාත්‍යාංශයෙන්-විශේෂ-නිවේදනයක්/11-407977) · `si`
+
+2022 (2023) අ.පො.ස. (උසස් පෙළ) විභාගයේ පිළිතුරු පත්‍ර ඇගයීම් කාර්යයන් සඳහා සහභාගි වන පරීක්ෂකවරුන් වෙත රු. 1,450.00 සිට රු. 2,000.00ක් දක්වා වැඩි කර ගෙවන ලද අවම සංහෘත දීමනාව 2023 (2024) අ.පො.ස. (උසස් පෙළ) විභාගයේ ඇගයීම් පරීක්ෂකවරුන් සඳහා ද ගෙවීමට අමාත්‍ය මණ්ඩලයේ අනුමැතිය ලැබී ඇතැයි අධ්‍යාපන අමාත්‍යාංශය විශේෂ නිවේදනයක් මගින් පවසයි.
+
+එසේම ඇගයීම් කාර්යයන් සඳහා සහභාගි වන ප්‍රධාන පාලක පරීක්ෂකවරුන්, සම පාලක පරීක්ෂකවරුන්, ප්‍රධාන පරීක්ෂකවරුන් සහ අතිරේක ප්‍රධාන පරීක්ෂකවරුන් සඳහා සමස්ත කාර්ය වෙනුවෙන් 2022 (2023) අ.පො.ස. (උසස් පෙළ) විභාගයේ ඇගයීම් සඳහා සංශෝධනය කර ගෙවන ලද දීමනාවන් 2023 (2024) අ.පො.ස. (උසස් පෙළ) විභාගයේ ඇගයීම් කාර්යයන් සඳහා ගෙවීමට ද අනුමැතිය ලැබී ඇතැයි අමාත්‍යාංශය වැඩිදුරටත් පවසයි.
+
+ඒ අනුව, 2023 (2024) අ.පො.ස. (උසස් පෙළ) විභාගයේ ඇගයීම් කාර්ය මණ්ඩල සඳහා ඉහත සඳහන් සංශෝධිත දීමනාවන් ගෙවීමට ශ්‍රී ලංකා විභාග දෙපාර්තමේන්තුව විසින් කටයුතු කරනු ඇත.
+
+◼️
+
+[Data](articles/1b7abce5.json)
 
 ---
 
@@ -1991,73 +2045,5 @@ He was a designer who was a very fan paragux.
 [Data](articles/8c8d4e28.json)
 
 [Extended Data](ext_articles/8c8d4e28.ext.json)
-
----
-
-### Opposition Vows to Fight “Unconstitutional” Online Safety Act
-
-*2024-02-08 17:48:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/02/08/opposition-vows-to-fight-unconstitutional-online-safety-act/) · `en`
-
-COLOMBO (News 1st); In a significant development today, the opposition leader raised concerns over the Online Safety Act, pointing out nine clauses that are allegedly not in line with the determination given by the Supreme Court.
-
-Despite these concerns, Justice Minister Dr. Wijeyadasa Rajapaksa maintained a firm stance, stating that no part of the passed Act can be altered.
-
-A heated exchange erupted in the Sri Lankan Parliament today between Opposition Leader Sajith Premadasa and Speaker Mahinda Yapa Abeywardena over the passing of the Online Safety Bill, which critics say violates Supreme Court rulings and disregards judicial guidance.
-
-Premadasa accused the government of ignoring the court's recommendations on several key clauses of the bill, including those pertaining to revoking internet access and addressing contempt of court. He highlighted the court's emphasis on the need for due process and magisterial oversight, both of which he claims are absent in the current legislation.
-
-...
-
-[Data](articles/70fdc586.json)
-
-[Extended Data](ext_articles/70fdc586.ext.json)
-
----
-
-### Iceland volcano erupts again, molten rocks spew from fissures
-
-*2024-02-08 17:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iceland-volcano-erupts-again-molten-rocks-spew-from-fissures/108-276611) · `en`
-
-CNN, Feb 08 -  A volcano in Iceland erupted on Thursday for the second time this year, pumping lava up to 80 metres (260 feet) into the air in what is the sixth outbreak on the southwestern Reykjanes peninsula since 2021.
-
-Live video from the area showed fountains of bright-orange molten rock spewing from fissures in the ground, in sharp contrast to the still-dark night sky.
-
-“Warning: A volcanic eruption started north of Sylingarfell,” the country’s meteorological office said on its website.
-
-Intense earthquake activity began around 5:30 a.m. and the outbreak itself started some 30 minutes later, it added.
-
-The eruptive fissure was roughly 3 km (2 miles) long, the Met Office said, adding that the outbreak was believed to be in the same location as a Dec. 18 eruption.
-
-The nearby geothermal spa Blue Lagoon had closed on Thursday, it said.
-
-...
-
-[Data](articles/eb4ac821.json)
-
-[Extended Data](ext_articles/eb4ac821.ext.json)
-
----
-
-### IMF. The next review in March
-
-*2024-02-08 17:34:18* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--මීළඟ-සමාලෝචනය-මාර්තුවේදී/11-407976) · `si`
-
-Around Rs.
-
-State Minister of State Shehan Semasinghe made these comment on the development committees held at Nachandaduwa Divisional Secretariat recently.
-
-The plans to call for new beneficiaries have already been prepared and the benefits of benefits of the revenue will be submitted.
-
-"The Cabinet of Cabinet has approved approval for 20 million beneficiaries, but the President instructed to increase to 2400000 families on request received. It will be implemented since the year.
-
-The second review is to be reviewed in March with the International Monetary Fund. Accordingly, a program will be implemented to strengthen the economy of the country. The International Monetary Fund's guidance was able to create a strong economy in Sri Lanka within a short time.
-
-The government was able to increase the state revenue of eight percent to 11.2%.As long as the year 2026 hopes to increase state revenue to 15%. Special attention has been paid to paying less taxes and less taxes.
-
-...
-
-[Data](articles/de77034d.json)
-
-[Extended Data](ext_articles/de77034d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 19:17:21**
+As of **2024-02-09 19:32:44**
 
 ## Newspaper Stats
 
-*Scraped **5,980** Articles*
+*Scraped **5,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ islandlk | 308
 economynextcom | 309
 dailyftlk | 332
 newsfirstlk | 363
-adalk | 502
+adalk | 504
 tamilmirrorlk | 731
-virakesarilk | 740
-adaderanalk | 740
+adaderanalk | 741
+virakesarilk | 741
 adaderanasinhalalk | 801
 dailymirrorlk | 856
 
@@ -26,21 +26,73 @@ dailymirrorlk | 856
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,979 (100.0%) of 5,980 articles have been extended.
+5,980 (99.9%) of 5,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### මුදල් කාරක සභාවේ සභාපති ධුරය යළිත් හර්ෂට
+### Derailment disrupts railway operations on Up-country Line
+
+*2024-02-09 19:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97148/derailment-disrupts-railway-operations-on-up-country-line) · `en`
+
+The railway operations along the Up-country Line have been disrupted, owing to a derailment near Ihala Watawala railway station, Sri Lanka Railways said.
+
+The slow train plying from Nawalapitiya to Nanu Oya has been derailed between the Ihala Watawala and Rozella railway stations this evening (Feb. 09), according to the Railway Department.
+
+◼️
+
+[Data](articles/a5d34d09.json)
+
+---
+
+### Harsha to Harsha again
 
 *2024-02-09 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193184) · `si`
 
-රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති ධුරය සඳහා පාර්ලිමේන්තු හර්ෂ ද සිල්වා මහතා යළි පත්කර තිබේ.
+Parliament Harsha de Silva has been repeated for the post of Chairman of the Committee on Public Finance Committee.
 
 ◼️
 
 [Data](articles/1248b60a.json)
+
+[Extended Data](ext_articles/1248b60a.ext.json)
+
+---
+
+### சர்வதேச ஒருநாள் கிரிக்கெட்டில் பெத்தும் நிஸ்ஸன்க இரட்டைச் சதம் குவித்து சாதனை
+
+*2024-02-09 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/175999) · `ta`
+
+ஆப்கானிஸ்தானுக்கு எதிராக கண்டி பல்லேகலையில் தற்போது நடைபெற்றுவரும் முதலாவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் ஆரம்ப வீரர் பெத்தும் நிஸ்ஸன்க இரட்டைச் சதம் குவித்து இலங்கைக்கான புதிய சாதனை ஒன்றை நிலைநாட்டினார்.
+
+அப் போட்டியில் 190 ஓட்டங்களை எட்டிய போது சர்வதேச ஒருநாள் போட்டி ஒன்றில் இலங்கை சார்பாக அதிகூடிய ஓட்டங்களைப் பெற்றவர் என்ற சாதனைக்கு உரித்தான பெத்தும் நிஸ்ஸன்க 50 ஓவர்கள் நிறைவில் 210 ஓட்டங்களுடன் ஆட்டம் இழக்காமல் இருந்தார்.
+
+இந்தியாவுக்கு எதிராக ஷார்ஜாவில் 2000ஆம் ஆண்டில் சனத் ஜயசூரிய பெற்ற 189 ஓட்டங்களே சர்வதேச ஒருநாள் கிரிக்கெட் போட்டிகளில்  இலங்கையர் ஒருவரால் பெறப்பட்ட முன்னைய அதிகூடிய எண்ணிக்கையாக இருந்தது.
+
+பெத்தும் நிஸ்ஸன்க குவித்த இரட்டைச் சதத்தின் உதவியுடன் 50 ஓவர்களில் 3 விக்கெட்களை இழந்து 381 ஓட்டங்களை இலங்கை குவித்தது.
+
+அந்த மொத்த எண்ணிக்கை ஆப்கானிஸ்தானுக்கு எதிரான சர்வதேச ஒருநாள் கிரிக்கெட் போட்டி ஒன்றில் இலங்கையினால் பெறப்பட்ட அதிகூடிய மொத்த எண்ணிக்கையாக பதவானது.
+
+...
+
+[Data](articles/4146cf0e.json)
+
+---
+
+### හර්ෂට යළිත් සභාපතිධුරය
+
+*2024-02-09 18:32:28* · [`adalk`](https://www.ada.lk/breaking_news/හර්ෂට-යළිත්-සභාපතිධුරය/11-407988) · `si`
+
+රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති ධුරය සදහා පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා යළි පත් කර තිබේ.
+
+තේරීම් කාරක සභාව විසින් නව සභාවාරය සදහා  රජයේ මුදල් පිළිබඳ කාරක සභාවට සාමාජික මන්ත්‍රීවරයන් පත් කිරීම සිදුවූ අතර එහිදී සභාපතිවරයා ලෙස ආචාර්ය හර්ෂ ද සිල්වා මහතා පත්කර ඇත. මෙසේ පත්කළ සාමාජික මන්ත්‍රීවරයන්ගේ නම් කථානායකවරයා විසින් අද (09) පාර්ලිමේන්තුවට නිවේදනය කළේය.
+
+ඒ අනුව ශෙහාන් සේමසිංහ,  (වෛද්‍ය) සීතා අරඹේපොල,  (ආචාර්ය) සුරේන් රාඝවන්,  අනුප පස්කුවල්,  ජොන්ස්ටන් ප්‍රනාන්දු, නීතිඥ රවුෆ් හකීම්,  වජිර අබේවර්ධන, විජිත හේරත්, මහින්දානන්ද අලුත්ගමගේ, දුමින්ද දිසානායක, නීතිඥ චන්දිම වීරක්කොඩි,  (ආචාර්ය) නාලක ගොඩහේවා,  (ආචාර්ය) හර්ෂ ද සිල්වා, නිමල් ලාන්සා, එම්. ඒ. සුමන්තිරන්, (වෛද්‍ය) කවින්ද හේෂාන් ජයවර්ධන,මයන්ත දිසානායක , හර්ෂණ රාජකරුණා, යූ. කේ. සුමිත් උඩුකුඹුර, (ආචාර්ය) මේජර් ප්‍රදීප් උඳුගොඩ, ඉසුරු දොඩන්ගොඩ, නීතිඥ ප්‍රේම්නාත් සී. දොලවත්ත,  නීතිඥ මධුර විතානගේ සහ එම්. ඩබ්ලිව්. ඩී. සහන් ප්‍රදීප් විතාන යන මන්ත්‍රීවරයන් මුදල් පිළිබඳ කාරක සභාවේ සේවය කිරීම සඳහා  පත් කොට තිබේ.
+
+◼️
+
+[Data](articles/4bf7cfe1.json)
 
 ---
 
@@ -58,17 +110,25 @@ The military said that 30 bullets for the missing T-56 were found in the drainag
 
 ---
 
-### Pathum Nissanka smashes Sri Lanka’s first-ever double-century in ODI history
+### Pathum Nissanka smashes Sri Lanka’s first-ever double century in ODI history
 
 *2024-02-09 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97147/pathum-nissanka-smashes-sri-lankas-first-ever-double-century-in-odi-history) · `en`
 
-Sri Lanka’s top order batter Pathum Nissanka stroked the maiden double-century hit by a Sri Lankan cricketer in ODI format.
+Sri Lanka’s top order batter Pathum Nissanka on Friday (Feb.09) stroked the maiden double-century hit by a Sri Lankan cricketer in ODI format.
 
-The 25-year-old will go down in the ODI history as the 11th player to hit a double-century in international cricket.
+Nissanka scored 210 off just 139 balls to register the first-ever individual double century for the Lions.
 
-Earlier, the star opener played a delightful knock against Afghanistan in the first ODI at the Pallekele International Cricket Stadium.
+The 25-year-old will go down in the ODI history as the 12th player to hit a double-century in international cricket.
 
-◼️
+A short while ago, the star opener played a delightful knock against Afghanistan in the first ODI at the Pallekele International Cricket Stadium.
+
+Sri Lanka were 370/2 when Nissanka reached this historic milestone.
+
+Meanwhile, Nissanka also broke the record 189 runs scored by Sanath Jayasuriya against India in Sharjah in 2000, which remained the highest ODI score amassed by a Sri Lankan for over 20 years.
+
+This also re-writes the history as the highest number of runs scored by a Sri Lankan player at a home playground breaking the record.
+
+...
 
 [Data](articles/999f303e.json)
 
@@ -139,6 +199,22 @@ The Director General of the Department of Registered Seedlings, including the De
 [Data](articles/bfc035e5.json)
 
 [Extended Data](ext_articles/bfc035e5.ext.json)
+
+---
+
+### සැරයන්ගේ ගිනි අවිය පත්තුවී කොස්තාපල්ට තුවාල
+
+*2024-02-09 18:02:21* · [`adalk`](https://www.ada.lk/breaking_news/සැරයන්ගේ-ගිනි-අවිය-පත්තුවී-කොස්තාපල්ට-තුවාල/11-407984) · `si`
+
+ඔක්කම්පිටිය පොලීසියේ පොලිස් සැරයන්වරයෙකුගේ ගිනිඅවියක් ඉකුත් (08) වෙනිදා ඉබේ පත්තුවීමෙන් පොලිස් කොස්තාපල්වරයෙකු තුවාල ලබා ඇතැයි මොනරාගල රෝහල් පොලීසිය පවසයි.
+
+මෙලෙස තුවාල ලබා ඇත්තේ පො.කො 105479 කරුණාරත්න නැමති අයෙකි. පෙබරවාරි 09 වෙනි දිනට නියමිත පොලීසියේ අර්ධ වාර්ෂික පරීක්ෂණයට සහභාගී වන පොලිස් සැරයන්වරයෙකු ඔහුට අයත් ටී 56 ගිනිඅවිය බැරක්කයේදී පිරිසිදුකරමින් සිටියදී ගිනිඅවිය පත්තුවී අසල ඇඳක නිදාගෙන සිටි පොලිස් කොස්තාපල්වරයාගේ උකුළුඇටය ප්‍රදේශයට වෙඩි වැදී ඇත.
+
+ඔහුගේ තත්වය බරපතළ නොවන බව මොනරාගල රෝහලේ ආරංචිමාර්ග සඳහන් කරයි. ඔක්කම්පිටිය පොලීසිය පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/abe3a334.json)
 
 ---
 
@@ -214,7 +290,7 @@ Meanwhile, the Ministry of Agriculture has said that the paddy owners, paddy col
 
 ### The President's announcement at the Hindu Ocean Conference
 
-*2024-02-09 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175994) · `ta`
+*2024-02-09 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175994) · `ta`
 
 Including the Self -Canal used in the present time for commercial transportation will not be sufficient in the future. Therefore, President Ranil Wickremesinghe said that to transform Sri Lanka into a regional distribution center to facilitate trade with South India, the possibility of new ground contacts with India should be investigated.
 
@@ -1971,95 +2047,5 @@ Accordingly, 2023 (2024) GCE Advanced Level. The Department of Examinations will
 [Data](articles/1b7abce5.json)
 
 [Extended Data](ext_articles/1b7abce5.ext.json)
-
----
-
-### The bodies of the couple are recovery
-
-*2024-02-09 08:02:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தம்பதியினரின்-சடலங்கள்-மீட்பு/175-332936) · `ta`
-
-The bodies of the couple have been found yesterday (08) from a house in the Mirihana Jubili Mawatha area.
-
-The body of a man who died a few days ago in the house of the house was found when the police went to the house.
-
-Police said the woman's body was naked naked on the kitchen of the house.
-
-The house has been raided, according to a notification made by a neighbor to Mirihana police that he was severely stinking in the area.
-
-◼️
-
-[Data](articles/e4ec21c7.json)
-
-[Extended Data](ext_articles/e4ec21c7.ext.json)
-
----
-
-### Ukrainian military leader is removed from office
-
-*2024-02-09 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193154) · `si`
-
-Ukrainian army chief Valeri Soni has been removed from the post.
-
-The decision has been taken by President Vladimir Celenceky in the country.
-
-From June 2021, the President of the Ukraine Master of Ukrainian was a few months since the president.
-
-The military chief's stand was that the invasion of Russian governance without strength was a failure.
-
-However, President Selenceki had a need to attack the Russian role and was raised between both parties.
-
-Accordingly, after a discussion with the chief, he was removed from office and Ukrainian infantry head of Ukrainian infantry for the post.
-
-General Valeri Sainsney is also considered the most popular person in Ukraine, and the opposition has stated that the people of Ukraine will have to pay compensation due to his removal.
-
-◼️
-
-[Data](articles/fe0d1bf3.json)
-
-[Extended Data](ext_articles/fe0d1bf3.ext.json)
-
----
-
-### Summoning of new applications of relief tomorrow
-
-*2024-02-09 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193153) · `si`
-
-Applications for selecting 4 million beneficiaries are scheduled to commence tomorrow (10).
-
-The proposals made by various parties have been revised by the proposals from various parties in selecting beneficiaries.
-
-If anyone was unable to apply for the criteria of the families, they could apply.
-
-Meanwhile, the revenue allowances of the revenue have been increased by effective from January.
-
-State Minister Shehan Semasinghe further stated that the allowance will be given to the new identified persons who are eligible to receive disabled, adult and kidney offers.
-
-◼️
-
-[Data](articles/8112ca97.json)
-
-[Extended Data](ext_articles/8112ca97.ext.json)
-
----
-
-### A hint of a reboot power crisis
-
-*2024-02-09 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193151) · `si`
-
-The Ceylon Electricity Board General Manager Dr. Narendra Silva, General Manager of the Ceylon Electricity Board (Ceylon Electricity Board) will create a country's power crisis this year.
-
-The Ceylon Electricity Board (Power) Officials had truncated the Parliamentary Committees to report the reasons for the financial bankruptcy and reporting to Parliament.
-
-Commenting on the occasion, the General Corporate General Manager Dr. Narendra Silva said that the people had contracted the consequences of not implementing the power plants according to certain decisions and electrical generating plans.
-
-General Manager, General Manager, Narendra Silva, General Manager of the Electricity Board should be carried out using active generation plans.
-
-Meanwhile, the Ceylon Electricity Board and the relevant private company have signed the Sri Lanka's largest solar panel power generation agreement.
-
-...
-
-[Data](articles/bc84c12b.json)
-
-[Extended Data](ext_articles/bc84c12b.ext.json)
 
 ---

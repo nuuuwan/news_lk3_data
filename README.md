@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 01:02:30**
+As of **2024-02-10 01:17:32**
 
 ## Newspaper Stats
 
-*Scraped **6,028** Articles*
+*Scraped **6,030** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ tamilmirrorlk | 735
 virakesarilk | 744
 adaderanalk | 746
 adaderanasinhalalk | 807
-dailymirrorlk | 866
+dailymirrorlk | 868
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,028 (100.0%) of 6,028 articles have been extended.
+6,028 (100.0%) of 6,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### JVP’s Love-Hate Relationship with India
+
+*2024-02-10 00:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/JVPs-Love-Hate-Relationship-with-India/172-276715) · `en`
+
+No doubt, India invited the NPP leaders for the current visit (a privilege that was not awarded even to the official Opposition in Parliament), on the premise that the party is going to form the next government. The outcomes of a series of opinion polls conducted by the Institute of Health Policy (IHP) since late 2022 which have not been challenged yet even by the ruling parties, indicated a rapid progress in the popularity of the NPP
+
+In case the election results and the opinion polls coincide, the NPP has to deal with India, as India has already chosen economic interests in the Trincomalee oil tank farm, Mannar wind power project, Sampur power plant, and many more which the NPP does not agree with
+
+...
+
+[Data](articles/66f9cfcd.json)
+
+---
+
+### Darkness in the Midst of a Heatwave
+
+*2024-02-10 00:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Darkness-in-the-Midst-of-a-Heatwave/172-276714) · `en`
+
+We are in the midst of a heatwave. Temperatures are rising, the days are bright, but for the majority of our people, this is a very dark era. Dark, because they can see no way to break out of the stark poverty-stricken situation they find themselves in.
+
+Since the Covid-19 pandemic hit the country in January 2020, the numbers of people who found themselves out of employment rose to an astounding 500,000, according to figures provided by the Central Bank. Most of these individuals were temporary workers at construction sites, as well as those working on road development projects around the country.
+
+To make matters worse, the Covid-19 pandemic saw the forced return of our migrant workers; the inflow of cash from migrant workers makes up the biggest share of our foreign exchange.
+
+...
+
+[Data](articles/48857146.json)
+
+---
 
 ### The Kaithady Explosion that Rocked the LTTE on Valentine’s Day
 
@@ -2007,47 +2037,5 @@ The EDEX Expo 2024, Sri Lanka’s most prestigious Educational Exhibition and Jo
 [Data](articles/50a38527.json)
 
 [Extended Data](ext_articles/50a38527.ext.json)
-
----
-
-### India, Sri Lanka discuss proposal for multi-product petroleum pipeline
-
-*2024-02-09 12:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97137/india-sri-lanka-discuss-proposal-for-multi-product-petroleum-pipeline) · `en`
-
-The proposal submitted by the Indian government through the Indian Oil Corporation (IOC) Ltd. for the multimodal petroleum pipeline connecting India’s Nagapattinam and Sri Lanka’s Trincomalee Oil Tank Farm and Colombo has been taken up for discussion.
-
-In a post on X (formerly Twitter), Minister of Power & Energy Kanchana Wijesekera said the discussion was held with the IndianOil Company on Wednesday (Feb.07), on the sidelines of the India Energy Week.
-
-The meeting was joined by the chairpersons of Indian Oil Corporation (IOC), Lanka IOC, Ceylon Petroleum Corporation (CPC), and Petroleum Development Authority of Sri Lanka (PDASL).
-
-The minister said technical studies, demand market analysis, financial analysis, and business models are planned to be conducted to determine the mechanism involved.
-
-...
-
-[Data](articles/38f07ba1.json)
-
-[Extended Data](ext_articles/38f07ba1.ext.json)
-
----
-
-### Nawaz Sharif and Imran Khan’s PTI neck-and-neck in first results
-
-*2024-02-09 11:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Nawaz-Sharif-and-Imran-Khans-PTI-neck-and-neck-in-first-results/107-276668) · `en`
-
-Pakistan, Feb 09 (Independent) With results from Pakistan’s election trickling in slower than normal, candidates backed by former prime minister Imran Khan’s party appeared to be doing better than expected, as he was seen neck-and-neck with the favourite Nawaz Sharif.
-
-Preliminary election results normally emerge within a few hours in Pakistan but were hit by long delays overnight, only adding to existing fears of poll rigging.
-
-The Election Commission of Pakistan (ECP) had announced results of just eight of the 265 contested seats in parliament on its website by morning.
-
-Mr Sharif’s PML-N is leading in four seats while members of Mr Khan’s PTI party who ran as independents won three seats, and the Pakistan Peoples Party of Bilawal Bhutto Zardari got just one.
-
-The election commission cited an unspecified “internet issue” for the long delay of more than 13 hours of counting the votes as the PTI party alleged that the “overwhelming mandate of the people of Pakistan is being stolen”.
-
-...
-
-[Data](articles/0bd92c2e.json)
-
-[Extended Data](ext_articles/0bd92c2e.ext.json)
 
 ---

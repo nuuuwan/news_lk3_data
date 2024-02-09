@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 10:33:10**
+As of **2024-02-09 10:50:14**
 
 ## Newspaper Stats
 
-*Scraped **5,891** Articles*
+*Scraped **5,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 492
 adaderanalk | 725
 tamilmirrorlk | 727
 virakesarilk | 731
-adaderanasinhalalk | 777
+adaderanasinhalalk | 778
 dailymirrorlk | 836
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,889 (100.0%) of 5,891 articles have been extended.
+5,892 (100.0%) of 5,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### President meets Sri Lankans in Australia
+
+*2024-02-09 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193160) · `si`
+
+President Ranil Wickremesinghe has found Sri Lankans in Australia in Perth, who is looking to Perth in Australia to join the 07th Indian Ocean Conference.
+
+The President said that the President made them informed about the economic situation in Sri Lanka and economic modernization plans.
+
+Meanwhile, Sri Lankans who joined the meeting have been asked to help the government for fields, such as climate change and tourism.
+
+◼️
+
+[Data](articles/e5631f4e.json)
+
+[Extended Data](ext_articles/e5631f4e.ext.json)
+
+---
 
 ### President meets Sri Lankan Diaspora in Perth, outlines plans for economic modernization
 
@@ -45,6 +63,8 @@ In response, the Diaspora has expressed their readiness to assist the Sri Lankan
 ◼️
 
 [Data](articles/aec96367.json)
+
+[Extended Data](ext_articles/aec96367.ext.json)
 
 ---
 
@@ -383,6 +403,8 @@ The bodies of an elderly couple have been found inside a house in Mirihana.
 ◼️
 
 [Data](articles/952fa365.json)
+
+[Extended Data](ext_articles/952fa365.ext.json)
 
 ---
 
@@ -2029,29 +2051,5 @@ Asia Asset Finance is a 72.9%-owned subsidiary of India-based Muthoot Finance Lt
 [Data](articles/cf0ff8a7.json)
 
 [Extended Data](ext_articles/cf0ff8a7.ext.json)
-
----
-
-### Yall. Land acquisition for international airport expansion: Resolution to carry out protest protests
-
-*2024-02-08 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175905) · `ta`
-
-With news reports that 500 acres of land has been taken to expand the Jaffna International Airport, various parties have decided to carry out protests in protest.
-
-The land owners have been making a request for years to release the land and have been launching land release protests for years, with about 3 thousand acres of land in the North.
-
-According to reports, 500 acres of land has been taken to expand the Jaffna International Airport.
-
-It has also been reported that steps have been taken to acquire the land that has been released and resettled.
-
-Lands in areas, including Kurumbasiti, Katuwan and Kuppilan North, will also be acquired. Residents of the area say that it includes the lands that have settled people.
-
-In this regard, the village organizations have recently decided to meet with the Minister of Fisheries Douglas Devananda, the Governor of the Northern Province and the Jaffna Mawatte Secretary to meet the first phase of the immediate stopping of their land acquisition plans.
-
-◼️
-
-[Data](articles/6aac4eec.json)
-
-[Extended Data](ext_articles/6aac4eec.ext.json)
 
 ---

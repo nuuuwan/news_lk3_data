@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 18:19:44**
+As of **2024-02-09 18:32:49**
 
 ## Newspaper Stats
 
-*Scraped **5,966** Articles*
+*Scraped **5,967** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ tamilmirrorlk | 731
 virakesarilk | 736
 adaderanalk | 739
 adaderanasinhalalk | 798
-dailymirrorlk | 855
+dailymirrorlk | 856
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,966 (100.0%) of 5,966 articles have been extended.
+5,966 (100.0%) of 5,967 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### Harsha de Silva re-appointed as Chair of Committee on Public Finance
+
+*2024-02-09 17:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Harsha-de-Silva-re-appointed-as-Chair-of-Committee-on-Public-Finance/108-276681) · `en`
+
+Feb 09 (Daily Mirror) - SJB MP Dr. Harsha de Silva has been re-appointed to serve as the Chairman of Committee on Public Finance.
+
+◼️
+
+[Data](articles/526cbc71.json)
+
+---
 
 ### The President's announcement at the Hindu Ocean Conference
 
@@ -2055,21 +2067,5 @@ What can law do during an economic crisis? What is law actually doing during the
 [Data](articles/f3568fc6.json)
 
 [Extended Data](ext_articles/f3568fc6.ext.json)
-
----
-
-### The Anti-Terrorism law: A draconian legacy
-
-*2024-02-09 05:37:43* · [`dailyftlk`](https://www.ft.lk/opinion/The-Anti-Terrorism-law-A-draconian-legacy/14-758283) · `en`
-
-This dark legacy of the PTA and the widespread opposition to its continuance as a part of  our legislation should have been considered when drafting a new law
-
-The Minister of Justice recently presented to Parliament the Anti-Terrorism Bill, and its first reading took place on 10 January. While this Bill is wrought with problems, two main issues with the Bill remain the drafting process and the impact that the Bill will have on the liberties of the people, minorities and dissidents against the Government in particular.
-
-...
-
-[Data](articles/4a470273.json)
-
-[Extended Data](ext_articles/4a470273.ext.json)
 
 ---

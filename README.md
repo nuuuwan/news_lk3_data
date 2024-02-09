@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 16:02:29**
+As of **2024-02-09 16:17:13**
 
 ## Newspaper Stats
 
-*Scraped **5,940** Articles*
+*Scraped **5,944** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,90 @@ dailyftlk | 332
 newsfirstlk | 363
 adalk | 497
 tamilmirrorlk | 731
-virakesarilk | 733
+virakesarilk | 734
 adaderanalk | 737
-adaderanasinhalalk | 788
+adaderanasinhalalk | 791
 dailymirrorlk | 847
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,939 (100.0%) of 5,940 articles have been extended.
+5,940 (99.9%) of 5,944 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### பொலிஸ் தலைமையகம் வெளியிட்ட செய்தி
+### යුක්‍රේනයට නව හමුදාපතිවරයෙක්
+
+*2024-02-09 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193174) · `si`
+
+යුක්‍රේනයේ නව හමුදාපතිවරයා ලෙස කර්නල් ජෙනරාල් Oleksandr Syrskyi ව පත්කර තිබේ.
+
+ඔහු 2019 වසරේ සිට යුක්‍රේනයේ පාබල හමුදා බලඇණි සඳහා නායකත්වය සැපයීය.
+
+මේ දක්වා රුසියානු හමුදාව පරාජයන් ට පත්කළ සටන්වලදී යුක්‍රේන හමුදාවට නායකත්වය දී තිබුණේ 59 හැවිරිදි නව හමුදාපතිවරයා ය.
+
+◼️
+
+[Data](articles/b560099b.json)
+
+---
+
+### மாலைதீவு தேசிய பாதுகாப்புப் படையின் பாதுகாப்புப் பிரதானி மற்றும் இராணுவத் தளபதி ஆகியோருக்கிடையில் சந்திப்பு
+
+*2024-02-09 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175974) · `ta`
+
+மாலைதீவு தேசிய பாதுகாப்புப் படையின் பாதுகாப்புப் பிரதானி லெப்டினன் ஜெனரல் அப்துல் ரஹீம் அப்துல் லத்தீப் நல்லெண்ணப் பயணமாக தற்போது இலங்கை வந்துள்ள நிலையில், இராணுவத் தளபதி லெப்டினன் ஜெனரல் விக்கும் லியனகே ஆர்டபிள்யூ ஆர்எஸ்பீ என்டியூ நேற்று வியாழக்கிழமை (08) இராணுவ தலைமையகத்தில் சந்தித்தார்.
+
+வருகை தந்த இராணுவ பிரதானி இராணுவ தலைமையக நுழைவாயிலில் இராணுவ சம்பிரதாயங்களுக்கமைய வரவேற்கப்பட்டதுடன், அவருக்கு இராணுவ அணிவகுப்பு மரியாதையும் வழங்கப்பட்டது.
+
+இராணுவத் தளபதி லெப்டினன் ஜெனரல் விக்கும் லியனகே சந்திப்பின் போது மாலைதீவு தேசிய பாதுகாப்புப் படையின் பாதுகாப்புப் பிரதானி இலங்கை இராணுவம் மற்றும் மாலைத்தீவு பாதுகாப்புப் படை ஆகிய இருதரப்பு விவகாரங்கள் தொடர்பாக கருத்துக்களைப் பரிமாறிக் கொண்டார்.
+
+◼️
+
+[Data](articles/3c7378fb.json)
+
+---
+
+### රුසියානු ජනපතිගේ ආන්දෝලනාත්මක මාධ්‍ය සාකච්ඡාව
+
+*2024-02-09 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193173) · `si`
+
+ලොව පුරා දැඩි අවධානයක් දිනාගත් අමෙරිකාවේ ෆොක්ස් මාධ්‍ය ජාලයේ හිටපු පුවත් නිවේදකයෙකු වන ටකර් කාල්සන් සහ රුසියානු ජනාධිපති ව්ලැද්මීර් පුටින් අතර පැවති හමුව ටකර් කාල්ස්න්ගේ X ගිණුම හරහා විකාශය කර තිබේ.
+
+මොස්කව් හි පැවති සාකච්ඡාව ඇරඹුණේ යුක්‍රේන ආක්‍රමණයට මුල් වූ හේතුව පිළිබඳව විමසා ටකර් කාල්සන් යොමු කළ පැනයකිනි.
+
+"2022 පෙබරවාරි 22 වනදා යුක්‍රේන ගැටුම් ආරම්භයේදී ඊට හේතුව ලෙස ඔබ පැවසුවේ නේටෝ සංවිධානය හරහා අමෙරිකාව, රුසියාවට පහර දීමට සැලසුම් කර ඇති බවය. ඔබ එවැනි නිගමනයකට එළැඹුණේ කොහොම ද?"
+
+"අමෙරිකාව, රුසියාවට ප්‍රහාර එල්ල කිරීමට සැලසුම් කළා කියලා මම පැවසුවේ නැහැ. මේක සාමාන්‍ය කතාබහක් ද? නැතිනම් වැදගත් සාකච්ඡාවක් ද?"
+
+"අපගේ සෙනට් සභිකයෙක් පවසා තිබුණා අමෙරිකාව යුක්‍රේනයට සහය ලබාදීම අඛණ්ඩව කළ යුතු බවට. ඒ පිළිබඳව ඔබේ අදහස් කුමක් ද?"
+
+"අමෙරිකාව එසේ කළ යුත්තේ කුමක් සඳහා ද ?. අමෙරිකාවට වෙනත් කළ යුතු දේ නැති ද?. ඔබට දේශ සීමා ගැටලු තියෙනවා. සංක්‍රමණිකයින් සම්බන්ධ ගැටලු තියෙනවා. රුසියාව සමග සමථකරණ සාකච්ඡා පැවැත්වීම ඊට වඩා සුදුසු නැති ද?"
+
+...
+
+[Data](articles/45adbf5e.json)
+
+---
+
+### The news published by the police headquarters
 
 *2024-02-09 15:07:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-தலைமையகம்-வெளியிட்ட-செய்தி/175-332943) · `ta`
 
-நாடளாவிய ரீதியில் 349 போதைப்பொருள் கடத்தல்காரர்களின் பட்டியலை பொலிஸாரின் 'யுக்திய' பதிவேட்டில் இணைத்துள்ளனர்.
+The list of 349 drug traffickers across the country has been incorporated into the 'Yukya' registry of the police.
 
-உதவியாளர்கள் என அடையாளம் காணப்பட்ட 53 கடத்தல்காரர்கள், நாடளாவிய ரீதியில் புதிதாக அடையாளம் காணப்பட்ட 296 போதைப்பொருள் கடத்தல்காரர்கள், 349 போதைப்பொருள் கடத்தல்காரர்களின் பட்டியல் பதில் பொலிஸ் மா அதிபர் தேஷ்பந்து தென்னகோனின் பணிப்புரைக்கு அமைய வெளியிடப்பட்டுள்ளது.
+The list of 53 kidnappers identified as assistants, 296 narcotics smugglers and 349 narcotics smugglers has been released on the workplace of the Inspector General of Police Deshpandu Thennakoon.
 
-நாடளாவிய ரீதியில் அனைத்துப் பிரிவுகளுக்கும் பொறுப்பான சிரேஷ்ட பொலிஸ் அத்தியட்சகர்களுக்கு இந்தப் பட்டியல் அனுப்பி வைக்கப்பட்டுள்ளதாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது. R
+The list has been sent to the Senior Superintendent of Police in charge of all sections of the country, the police headquarters said.. Remble
 
 ◼️
 
 [Data](articles/72797a75.json)
+
+[Extended Data](ext_articles/72797a75.ext.json)
 
 ---
 
@@ -69,6 +125,26 @@ After the gazette was published, the CAA launched island-wide raids in search of
 [Data](articles/885bfb89.json)
 
 [Extended Data](ext_articles/885bfb89.ext.json)
+
+---
+
+### පාන් ගැසට් එකෙන් පසු බේකරි 232කට නඩු
+
+*2024-02-09 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193172) · `si`
+
+නියමිත බර ප්‍රමාණය මෙන්ම මිල ප්‍රදර්ශනය නොකළ බේකරි 232ක පමණ වැටලීම් සිදුකර ඇති බව පාරිභෝගික කටයුතු අධිකාරිය පවසයි.
+
+එම බේකරි සහ වෙළෙඳසැල්වලට ඉදිරියේදී නඩු පැවරිමට කටයුතු කරන බවද නිලධාරීන් පැවසීය.
+
+පාන් සඳහා ගැසට් පත්‍රය නිකුත් කිරීමෙන් පසුව පෙබරවාරි 05 වනදා සිට 08 වනදා දක්වා දිවයින පුරා සිදුකළ වැටලීම්වලදී මෙලෙස බේකරි සහ වෙළෙඳසල් පරීක්ෂා කිරීම් සිදුවිය.
+
+පාරිභෝගික කටයුතු අධිකාරිය වැඩිදුරටත් සඳහන් කරන්නේ දිවයින පුරා වැටලීම් අඛණ්ඩව සිදුකෙරෙන බවය.
+
+පාරිභෝගිකයන්ට යම් පැමිණිල්ලක් ඇත්නම් ඒ සඳහා පාරිභෝගික කටයුතු අධිකාරියේ ක්ෂණික ඇමතුම් අංකය වන 1977 ට දැනුම්දෙන ලෙසද ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/bd55ab5d.json)
 
 ---
 
@@ -1959,81 +2035,5 @@ In the Mannar district, the people of Thiruketheeswarar village in the village o
 [Data](articles/a7ee7a18.json)
 
 [Extended Data](ext_articles/a7ee7a18.ext.json)
-
----
-
-### When the ‘Weight’ of Bread is Too Much to Bear! - EDITORIAL
-
-*2024-02-09 00:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/When-the-Weight-of-Bread-is-Too-Much-to-Bear-EDITORIAL/172-276625) · `en`
-
-The study of the history of bread in Sri Lanka provides us with an interesting story. Despite Sri Lankan homes trying to dissuade eating bread - stating that such foods invite disease early in life - the baked meal made of flour has held on to its place on the dining table despite fighting for survival amidst government regulations imposed on bakery and restaurant owners.
-
-The present regulation is that a loaf of bread must weigh a minimum of 450 grams. This was made mandatory following a government regulation confirmed through gazette notification recently. However, bakery owners are complaining that there must be a price control now because an unofficial price revision has taken place to balance costs with the increase in the weight of a loaf of bread.
-
-...
-
-[Data](articles/2e7327af.json)
-
-[Extended Data](ext_articles/2e7327af.ext.json)
-
----
-
-### Covering Gaza: The imperialistic media deception
-
-*2024-02-09 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Covering-Gaza-The-imperialistic-media-deception/172-276624) · `en`
-
-In east London, graffiti made by street artist Ed Hicks, also known as @ed_hicks, depicts Palestinian citizen journalist, Plestia Alaqad, as part of a peace project called “Heroes of Palestine” by the art platform Creative Debuts. AFP
-
-Do as I say, not as I do. This is the mantra with which the imperialist West keeps its colonial or neo-colonial projects going. This duplicity is also evident in the imperialists’ media policy.
-
-Often, developing countries’ mid-career journalists are invited to the West for training that lasts weeks, months, and even a year. The institutes to which they go meet the airfare, accommodation, and meal costs. They are even paid per diem. They are lectured on journalistic rules and dos and don’ts. They are taught that journalism’s first obligation is to the truth, which is sacred and cannot be warped or violated. The primary duty of the journalist is to find out the truth, verify it, fact-check it, and convey it to the people they are morally bound to serve.
-
-...
-
-[Data](articles/def288df.json)
-
-[Extended Data](ext_articles/def288df.ext.json)
-
----
-
-### Sri Lanka has the highest electricity charges in South Asia: PublicFinance.lk
-
-*2024-02-09 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sri-Lanka-has-the-highest-electricity-charges-in-South-Asia-PublicFinance-lk/172-276622) · `en`
-
-Sri Lanka is noted for levying the highest electricity charges in South Asia and the island’s citizens have often protested against being forced to pay exorbitant electricity bills
-
-New analysis finds local households pay 2.5 to 3 times more than average paid by regional counterparts
-
-Colombo, 08 February 2024- Sri Lanka currently has the highest electricity charges in South Asia, with householders paying 2.5 to 3 times more for electricity than the average price paid by households in other South Asian countries, according to analysis that was published this week.
-
-Published on PublicFinance.lk, Sri Lanka’s premier economic insights platform, this analysis by Verité Research looked at what households are charged for their electricity when consuming 100, 200 or 300 units, at the start of 2024.
-
-The calculation only took into account the charges of the supplier, and did not include government taxes such as the Social Security Levy, which is charged additionally in Sri Lanka.
-
-...
-
-[Data](articles/f0e26e75.json)
-
-[Extended Data](ext_articles/f0e26e75.ext.json)
-
----
-
-### 2024-02-08 (Thursday)
-
-### Two men on motorbike in Vavuniya
-
-*2024-02-08 23:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/175934) · `ta`
-
-Police have complained to the Vavuniya police that two men on a motorcycle in Kandapuram, Vavuniya, have been lodged with a gold chain.
-
-When a woman living in Kandapuram, Vavuniya, after going on the street, two people who went on a motorbike, cut off the gold chain she was wearing.
-
-They further stated that the Vavuniya police are investigating the complaint.
-
-◼️
-
-[Data](articles/a513b12f.json)
-
-[Extended Data](ext_articles/a513b12f.ext.json)
 
 ---

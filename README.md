@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 16:17:13**
+As of **2024-02-09 16:32:57**
 
 ## Newspaper Stats
 
@@ -26,63 +26,71 @@ dailymirrorlk | 847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,940 (99.9%) of 5,944 articles have been extended.
+5,944 (100.0%) of 5,944 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### යුක්‍රේනයට නව හමුදාපතිවරයෙක්
+### New Army Commander to Ukraine
 
 *2024-02-09 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193174) · `si`
 
-යුක්‍රේනයේ නව හමුදාපතිවරයා ලෙස කර්නල් ජෙනරාල් Oleksandr Syrskyi ව පත්කර තිබේ.
+Colonel General OleksKyi has been appointed as the new army commander of Ukraine.
 
-ඔහු 2019 වසරේ සිට යුක්‍රේනයේ පාබල හමුදා බලඇණි සඳහා නායකත්වය සැපයීය.
+He led the leadership of Ukraine to Ukraine since 2019.
 
-මේ දක්වා රුසියානු හමුදාව පරාජයන් ට පත්කළ සටන්වලදී යුක්‍රේන හමුදාවට නායකත්වය දී තිබුණේ 59 හැවිරිදි නව හමුදාපතිවරයා ය.
+The 59-year-old New Army was led by the Ukrainian Army in battle to defeat the Russian army.
 
 ◼️
 
 [Data](articles/b560099b.json)
 
+[Extended Data](ext_articles/b560099b.ext.json)
+
 ---
 
-### மாலைதீவு தேசிய பாதுகாப்புப் படையின் பாதுகாப்புப் பிரதானி மற்றும் இராணுவத் தளபதி ஆகியோருக்கிடையில் சந்திப்பு
+### Meeting between the Maldivian National Security Forces Protection and the Commander of the Army
 
 *2024-02-09 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175974) · `ta`
 
-மாலைதீவு தேசிய பாதுகாப்புப் படையின் பாதுகாப்புப் பிரதானி லெப்டினன் ஜெனரல் அப்துல் ரஹீம் அப்துல் லத்தீப் நல்லெண்ணப் பயணமாக தற்போது இலங்கை வந்துள்ள நிலையில், இராணுவத் தளபதி லெப்டினன் ஜெனரல் விக்கும் லியனகே ஆர்டபிள்யூ ஆர்எஸ்பீ என்டியூ நேற்று வியாழக்கிழமை (08) இராணுவ தலைமையகத்தில் சந்தித்தார்.
+Lieutenant General Abdul Rahim Abdul Latif Latin, Maldivian National Security Forces Defense Chief, met Sri Lanka as a goodwill journey, and Lieutenant General Lieutenant General Vikku Lyanage ArtWe RSP ENTU ENTU ENTU ENTU ENTU ENTU ENTU ENTU ENTU ENTU ENTU ENTU ENTU ENTU ENTU ENTU ENTUDU was met on Thursday.
 
-வருகை தந்த இராணுவ பிரதானி இராணுவ தலைமையக நுழைவாயிலில் இராணுவ சம்பிரதாயங்களுக்கமைய வரவேற்கப்பட்டதுடன், அவருக்கு இராணுவ அணிவகுப்பு மரியாதையும் வழங்கப்பட்டது.
+The arrival of the army chief was welcomed at the entrance of the military headquarters and was greeted by military customs and was honored with a military parade.
 
-இராணுவத் தளபதி லெப்டினன் ஜெனரல் விக்கும் லியனகே சந்திப்பின் போது மாலைதீவு தேசிய பாதுகாப்புப் படையின் பாதுகாப்புப் பிரதானி இலங்கை இராணுவம் மற்றும் மாலைத்தீவு பாதுகாப்புப் படை ஆகிய இருதரப்பு விவகாரங்கள் தொடர்பாக கருத்துக்களைப் பரிமாறிக் கொண்டார்.
+During the meeting of the Army Commander Lieutenant General Viqi Liyanage, the Maldivian National Security Forces security chief exchanged comments on bilateral issues of the Sri Lanka Army and the Maldivian Security Force.
 
 ◼️
 
 [Data](articles/3c7378fb.json)
 
+[Extended Data](ext_articles/3c7378fb.ext.json)
+
 ---
 
-### රුසියානු ජනපතිගේ ආන්දෝලනාත්මක මාධ්‍ය සාකච්ඡාව
+### Russian President's controversial media discussion
 
 *2024-02-09 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193173) · `si`
 
-ලොව පුරා දැඩි අවධානයක් දිනාගත් අමෙරිකාවේ ෆොක්ස් මාධ්‍ය ජාලයේ හිටපු පුවත් නිවේදකයෙකු වන ටකර් කාල්සන් සහ රුසියානු ජනාධිපති ව්ලැද්මීර් පුටින් අතර පැවති හමුව ටකර් කාල්ස්න්ගේ X ගිණුම හරහා විකාශය කර තිබේ.
+The meeting with a former news announcer Tucar Carleson and Russian President Vladmini Putin has been telecast across the Tucar Carlson.
 
-මොස්කව් හි පැවති සාකච්ඡාව ඇරඹුණේ යුක්‍රේන ආක්‍රමණයට මුල් වූ හේතුව පිළිබඳව විමසා ටකර් කාල්සන් යොමු කළ පැනයකිනි.
+The discussion in Moscow began with a Tucker Carlson.
 
-"2022 පෙබරවාරි 22 වනදා යුක්‍රේන ගැටුම් ආරම්භයේදී ඊට හේතුව ලෙස ඔබ පැවසුවේ නේටෝ සංවිධානය හරහා අමෙරිකාව, රුසියාවට පහර දීමට සැලසුම් කර ඇති බවය. ඔබ එවැනි නිගමනයකට එළැඹුණේ කොහොම ද?"
+"In the start of Ukrainian conflicts on February 22, 2022, you said that the United States is planning to attack Russia through the NATO organization. How have you reached such a conclusion? "
 
-"අමෙරිකාව, රුසියාවට ප්‍රහාර එල්ල කිරීමට සැලසුම් කළා කියලා මම පැවසුවේ නැහැ. මේක සාමාන්‍ය කතාබහක් ද? නැතිනම් වැදගත් සාකච්ඡාවක් ද?"
+"I did not say that the US had planned to attack Russia. Is this a normal conversation?Or is an important discussion? "
 
-"අපගේ සෙනට් සභිකයෙක් පවසා තිබුණා අමෙරිකාව යුක්‍රේනයට සහය ලබාදීම අඛණ්ඩව කළ යුතු බවට. ඒ පිළිබඳව ඔබේ අදහස් කුමක් ද?"
+"One of our senses had said that the US should continue to support Ukraine. What are your comments on it? "
 
-"අමෙරිකාව එසේ කළ යුත්තේ කුමක් සඳහා ද ?. අමෙරිකාවට වෙනත් කළ යුතු දේ නැති ද?. ඔබට දේශ සීමා ගැටලු තියෙනවා. සංක්‍රමණිකයින් සම්බන්ධ ගැටලු තියෙනවා. රුසියාව සමග සමථකරණ සාකච්ඡා පැවැත්වීම ඊට වඩා සුදුසු නැති ද?"
+"What should America should do so?. Don't have anything else to do in America?. You have border problems. There are problems related to migrants. Conducting Mediation talks with Russia is better desirable to do that? "
 
-...
+The Russian President had said he wanted to reach a settlement with Ukraine and had a proposal to do so.
+
+◼️
 
 [Data](articles/45adbf5e.json)
+
+[Extended Data](ext_articles/45adbf5e.ext.json)
 
 ---
 
@@ -128,23 +136,25 @@ After the gazette was published, the CAA launched island-wide raids in search of
 
 ---
 
-### පාන් ගැසට් එකෙන් පසු බේකරි 232කට නඩු
+### After the bread gazette, 232 bakeries sued
 
 *2024-02-09 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193172) · `si`
 
-නියමිත බර ප්‍රමාණය මෙන්ම මිල ප්‍රදර්ශනය නොකළ බේකරි 232ක පමණ වැටලීම් සිදුකර ඇති බව පාරිභෝගික කටයුතු අධිකාරිය පවසයි.
+The Consumer Affairs Authority (CA) says that the amount of weight has been carried out about 232 bakeries without the fixed weight.
 
-එම බේකරි සහ වෙළෙඳසැල්වලට ඉදිරියේදී නඩු පැවරිමට කටයුතු කරන බවද නිලධාරීන් පැවසීය.
+Officials said that they would take legal action on the bakery and shops.
 
-පාන් සඳහා ගැසට් පත්‍රය නිකුත් කිරීමෙන් පසුව පෙබරවාරි 05 වනදා සිට 08 වනදා දක්වා දිවයින පුරා සිදුකළ වැටලීම්වලදී මෙලෙස බේකරි සහ වෙළෙඳසල් පරීක්ෂා කිරීම් සිදුවිය.
+The raids carried out throughout February 05 to 08, the bakery and shops were inspected since February 05 to 08.
 
-පාරිභෝගික කටයුතු අධිකාරිය වැඩිදුරටත් සඳහන් කරන්නේ දිවයින පුරා වැටලීම් අඛණ්ඩව සිදුකෙරෙන බවය.
+The Consumer Affairs Authority added that raids are being carried out island wide.
 
-පාරිභෝගිකයන්ට යම් පැමිණිල්ලක් ඇත්නම් ඒ සඳහා පාරිභෝගික කටයුතු අධිකාරියේ ක්ෂණික ඇමතුම් අංකය වන 1977 ට දැනුම්දෙන ලෙසද ඉල්ලා සිටී.
+Customers have a complaint to the Consumer Affairs Authority in 1977.
 
 ◼️
 
 [Data](articles/bd55ab5d.json)
+
+[Extended Data](ext_articles/bd55ab5d.ext.json)
 
 ---
 

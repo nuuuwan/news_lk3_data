@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 10:02:31**
+As of **2024-02-09 10:17:34**
 
 ## Newspaper Stats
 
-*Scraped **5,887** Articles*
+*Scraped **5,889** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 492
 adaderanalk | 723
 tamilmirrorlk | 727
 virakesarilk | 731
-adaderanasinhalalk | 775
+adaderanasinhalalk | 777
 dailymirrorlk | 836
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,887 (100.0%) of 5,887 articles have been extended.
+5,887 (100.0%) of 5,889 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### සැමියාගේ කෝපය තරුණ බිරිඳට මරු කැඳවයි
+
+*2024-02-09 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193159) · `si`
+
+මුතූර් තෝපූර් ප්‍රදේශයේ නිවසක් තුළදී සැමියා විසින් සිය බිරිඳව ඝාතනය කර තිබේ.
+
+පවුල් ආරවුලක් හේතුවෙන් ගෙල සිරකර අදාළ කාන්තාව ඝාතනය කර ඇති බව පොලිස් මුලස්ථානය පැවසීය.
+
+සැකකාර සැමියා විසින් බිරිඳගේ ඇඳුමේ කොටසක් භාවිත කර ඇයගේ ගෙල සිරකර මෙම ඝාතනය සිදුකර ඇති බවද විමර්ශනවලදී හෙළිවී ඇත.
+
+ඝාතනය සිදුකළ 33 හැවිරිදි සැකකාර සැමියා අත්අඩංගුවට ගෙන ඇති අතර ඝාතනය සම්බන්ධයෙන් මුතූර් පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/8b4cb2d9.json)
+
+---
 
 ### New ‘Aswesuma’ applications to be called from tomorrow
 
@@ -51,6 +69,16 @@ On Thursday (Feb.08), State Minister Shehan Semasinghe revealed that ‘Aswesuma
 [Data](articles/be107715.json)
 
 [Extended Data](ext_articles/be107715.ext.json)
+
+---
+
+### පාර්ලිමේන්තු කටයුතු ඇරඹේ
+
+*2024-02-09 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193158) · `si`
+
+◼️
+
+[Data](articles/a1cfbdd3.json)
 
 ---
 
@@ -2035,57 +2063,5 @@ DIG Deputy Inspector General of Police Sampath Liyanage Badulla Liyanage, Badull
 [Data](articles/3b8f3987.json)
 
 [Extended Data](ext_articles/3b8f3987.ext.json)
-
----
-
-### Sri Lanka rupee closes at 313.00/50 to the US dollar
-
-*2024-02-08 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-313-00-50-to-the-us-dollar-150448/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 313.00/50 to the US dollar Thursday, from 313.00/50 on Wednesday, dealers said.
-
-A bond maturing on 01.02.2026 closed at 11.00/10 percent down from 11.05/20 percent.
-
-A bond maturing on 15.09.2027 closed at 11.65/85 percent down from 11.95/12.10 percent.
-
-A bond maturing on 15.03.2028 closed at 12.00/15 percent down from 12.15/25 percent.
-
-A bond maturing on 15.07.2029 closed at 12.45/75 percent from 12.50/75 percent.
-
-A bond maturing on 15.05.2030 closed at 12.40/65 percent down from 12.60/80 percent.
-
-A bond maturing on 15.05.2031 closed at 12.70/13.05 percent from 12.55/13.00 percent.
-
-A bond maturing on 01.07.2032 closed at 12.80/13.05 percent from 12.75/13.00 percent. (Colombo/Feb8/2024)
-
-◼️
-
-[Data](articles/4a055379.json)
-
-[Extended Data](ext_articles/4a055379.ext.json)
-
----
-
-### Global warming has exceeded the limited limit
-
-*2024-02-08 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175904) · `ta`
-
-The headquarters of the world's nations have been able to control global warming within 1.5 degrees Celsius. However, the European Union Climate Service said it had passed the first 1.5 degree Celsius in a year.
-
-The 2015 Paris Agreement signed the contract to reduce global warming levels by 2 degrees Celsius.
-
-Scientists say that global warming speeds will slow down by taking urgent action to reduce carbon emitter.
-
-The EU has reached 1.52 degrees Celsius from 2023 to January this year, the EU's Copenicus Climate Change Service data indicated.
-
-Following this, January has become the eighth month of the heat.
-
-El nio is the highest in the Pacific Ocean.
-
-◼️
-
-[Data](articles/9f38c348.json)
-
-[Extended Data](ext_articles/9f38c348.ext.json)
 
 ---

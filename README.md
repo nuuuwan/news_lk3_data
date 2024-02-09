@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 23:17:14**
+As of **2024-02-09 23:32:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,012 (99.9%) of 6,017 articles have been extended.
+6,017 (100.0%) of 6,017 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -76,6 +76,8 @@ In her petition, Diana Gamage is seeking a declaration that the decision to expe
 
 [Data](articles/582d16e3.json)
 
+[Extended Data](ext_articles/582d16e3.ext.json)
+
 ---
 
 ### India and Australia set to renew rivalry in U19 Men’s Cricket World Cup Final
@@ -96,6 +98,8 @@ India confirmed their spot in the final after beating hosts South Africa by two 
 
 [Data](articles/8ee16923.json)
 
+[Extended Data](ext_articles/8ee16923.ext.json)
+
 ---
 
 ### Jayasuriya congratulates Nissanka on breaking his record
@@ -111,6 +115,8 @@ Jayasuriya, who was recruited as a consultant coach in December last year, was p
 ◼️
 
 [Data](articles/81fd35bd.json)
+
+[Extended Data](ext_articles/81fd35bd.ext.json)
 
 ---
 
@@ -161,6 +167,8 @@ Sri Lanka opener Pathum Nissanka created history when he became the first batter
 ◼️
 
 [Data](articles/205f25e8.json)
+
+[Extended Data](ext_articles/205f25e8.ext.json)
 
 ---
 
@@ -905,6 +913,8 @@ Parliamentarian Nalaka Godahewa has been named for representing the opposition o
 ...
 
 [Data](articles/d5d67013.json)
+
+[Extended Data](ext_articles/d5d67013.ext.json)
 
 ---
 

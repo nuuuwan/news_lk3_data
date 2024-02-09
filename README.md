@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 18:07:49**
+As of **2024-02-09 18:19:44**
 
 ## Newspaper Stats
 
@@ -26,37 +26,41 @@ dailymirrorlk | 855
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,961 (99.9%) of 5,966 articles have been extended.
+5,966 (100.0%) of 5,966 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### இந்தியாவுடனான புதிய தரைவழித் தொடர்புகளுக்கான சாத்தியக்கூறுகள் குறித்து ஆராய வேண்டும் - இந்து சமுத்திர மாநாட்டில் ஜனாதிபதி தெரிவிப்பு
+### The President's announcement at the Hindu Ocean Conference
 
 *2024-02-09 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175994) · `ta`
 
-வர்த்தகப் போக்குவரத்துகளுக்காகத் தற்காலத்தில் பயன்படுத்தப்படும் சுயஸ் கால்வாய் உள்ளிட்டவை எதிர்காலத்தில் போதுமானதாக இருக்காது. எனவே, தென்னிந்தியாவுடன் வர்த்தகத்தை எளிதாக்கும் வகையில் பிராந்தியத்தின் விநியோக மையமாக இலங்கையை மாற்றுவதற்கு,  இந்தியாவுடனான புதிய தரைவழித் தொடர்புகளுக்கான சாத்தியக்கூறுகள் குறித்து ஆராய வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+Including the Self -Canal used in the present time for commercial transportation will not be sufficient in the future. Therefore, President Ranil Wickremesinghe said that to transform Sri Lanka into a regional distribution center to facilitate trade with South India, the possibility of new ground contacts with India should be investigated.
 
-இந்தியப் பெருங்கடல் வெப்பமயமாதல் மற்றும் கடல் மட்டம் உயர்வதன் அபாயத்தைச் சுட்டிக்காட்டிய ஜனாதிபதி விக்ரமசிங்க, காலநிலை நெருக்கடிக்குத் தீர்வுகாண வேண்டியதன் அவசியத்தை வலியுறுத்தினார்.
+Pointing to the risk of warming and rising sea levels of Indian Ocean, President Wickremesinghe emphasized the need to resolve the climate crisis.
 
-மேலும், காலநிலை மாற்றத்தின் விளைவுகளைத் தணிக்க மற்றும் பாதிக்கப்படக்கூடிய நாடுகளுக்குக் காலநிலை நீதியை உறுதிப்படுத்த வெப்ப வலய காலநிலை முன்முயற்சிகள் மற்றும் சர்வதேச காலநிலை பல்கலைக்கழகம் போன்ற முன்முயற்சிகளையும் ஜனாதிபதி வலியுறுத்தினார்.
+In addition, the President also emphasized initiatives, such as the Tropical Climate University and the International Climate University, to alleviate the effects of climate change and ensure climate justice to vulnerable countries.
 
 ...
 
 [Data](articles/fb536a48.json)
 
+[Extended Data](ext_articles/fb536a48.ext.json)
+
 ---
 
-### දුම්රිය පීලිපැනීමක්
+### Railway Collection
 
 *2024-02-09 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193181) · `si`
 
-වටවල ප්‍රදේශයේ දුම්රිය පීලිපැනිමක් හේතුවෙන් උඩරට දුම්රිය ගමනාගමනය නැවතී ඇතැයි අප වාර්තාකරු පවසයි.
+According to our correspondent, Kandy rail traffic was staying due to a rail train in Watawala area.
 
 ◼️
 
 [Data](articles/e42a468a.json)
+
+[Extended Data](ext_articles/e42a468a.ext.json)
 
 ---
 
@@ -95,6 +99,8 @@ Addressing attendees, Minister Wong reiterated Australia's renewed commitment to
 ...
 
 [Data](articles/84ba5973.json)
+
+[Extended Data](ext_articles/84ba5973.ext.json)
 
 ---
 
@@ -537,6 +543,8 @@ Furthermore, Dr. Perera emphasized the importance of keeping children away from 
 ◼️
 
 [Data](articles/3620b3aa.json)
+
+[Extended Data](ext_articles/3620b3aa.ext.json)
 
 ---
 
@@ -1675,6 +1683,8 @@ Earlier, Public Security Minister Tiran Alles said the government initiated a sp
 ...
 
 [Data](articles/ab14a1d2.json)
+
+[Extended Data](ext_articles/ab14a1d2.ext.json)
 
 ---
 

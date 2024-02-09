@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 12:17:31**
+As of **2024-02-09 12:33:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 843
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,911 (99.9%) of 5,914 articles have been extended.
+5,914 (100.0%) of 5,914 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,19 +50,23 @@ The election commission cited an unspecified “internet issue” for the long d
 
 [Data](articles/0bd92c2e.json)
 
+[Extended Data](ext_articles/0bd92c2e.ext.json)
+
 ---
 
-### பாக்கிஸ்தான் தேர்தல் முடிவுகள் வெளியாகின்றன - கடும் போட்டி
+### Pakistan election results are released - fierce competition
 
 *2024-02-09 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175960) · `ta`
 
-பாக்கிஸ்தானில் இடம்பெற்ற தேர்தல் முடிவுகள்வெளியாக ஆரம்பித்துள்ள நிலையில் பிரதான கட்சிகள்மத்தியில் கடும் போட்டி நிலவுவதை ஆரம்ப கட்ட முடிவுகள் வெளிப்படுத்தியுள்ளன
+The initial results have revealed that the major parties have fierce competition as the election results in Pakistan have begun
 
-வெளியாகியுள்ள 37 முடிவுகளில் முன்னாள் பிரதமர் நவாஸ் ஷெரீப்பின் பாக்கிஸ்தான் முஸ்லீம் லீக் 14 ஆசனங்களை கைப்பற்றியுள்ள அதேவேளை சுயாதீனவேட்பாளர்கள் 12இடங்களில் வெற்றிபெற்றுள்ளனர்.
+Of the 37 results, former Prime Minister Nawaz Sharif's Pakistan Muslim League has won 14 seats while independent seats have won 12 seats.
 
 ◼️
 
 [Data](articles/b1aeb7ed.json)
+
+[Extended Data](ext_articles/b1aeb7ed.ext.json)
 
 ---
 
@@ -83,6 +87,8 @@ The Minister assured maximum transparency in the transaction process. However, h
 ...
 
 [Data](articles/1ae2b606.json)
+
+[Extended Data](ext_articles/1ae2b606.ext.json)
 
 ---
 

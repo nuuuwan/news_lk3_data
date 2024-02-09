@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 16:32:57**
+As of **2024-02-09 16:48:53**
 
 ## Newspaper Stats
 
-*Scraped **5,944** Articles*
+*Scraped **5,950** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 70
-bbccomsinhala | 83
+colombotelegraphcom | 71
+bbccomsinhala | 84
 dbsjeyarajcom | 142
 islandlk | 308
 economynextcom | 309
@@ -20,13 +20,13 @@ tamilmirrorlk | 731
 virakesarilk | 734
 adaderanalk | 737
 adaderanasinhalalk | 791
-dailymirrorlk | 847
+dailymirrorlk | 851
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,944 (100.0%) of 5,944 articles have been extended.
+5,950 (100.0%) of 5,950 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -65,6 +65,34 @@ During the meeting of the Army Commander Lieutenant General Viqi Liyanage, the M
 [Data](articles/3c7378fb.json)
 
 [Extended Data](ext_articles/3c7378fb.ext.json)
+
+---
+
+### Shelly-Ann Fraser-Pryce: Jamaica sprint legend to retire after Paris 2024 Olympics
+
+*2024-02-09 15:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shelly-Ann-Fraser-Pryce-Jamaica-sprint-legend-to-retire-after-Paris-2024-Olympics/108-276676) · `en`
+
+Feb. 9 (BBC) - Three-time Olympic champion Shelly-Ann Fraser-Pryce says she "owes" it to her family to retire after the 2024 Games.
+
+The 37-year-old, regarded as one of the greatest sprinters of all time, won the 100m title in 2008 and 2012.
+
+Jamaican Fraser-Pryce also won Tokyo 2020 Olympic relay gold, plus three of her 10 world titles, in a comeback after giving birth to her son in 2017.
+
+"There's not a day I'm getting up to go practise and I'm like, 'I'm over this,'" she told Essence.com, external.
+
+"My husband and I have been together since before I won in 2008. He has sacrificed for me.
+
+"We're a partnership, a team. And it's because of that support that I'm able to do the things that I have been doing for all these years. And I think I now owe it to them to do something else."
+
+She added this year's Olympics in Paris were about "showing people that you stop when you decide. I want to finish on my own terms".
+
+In total, Fraser-Pryce has won three Olympic golds, four silvers and a bronze.
+
+...
+
+[Data](articles/8eec96d5.json)
+
+[Extended Data](ext_articles/8eec96d5.ext.json)
 
 ---
 
@@ -204,6 +232,20 @@ Tourist arrivals were inaugurated from Ahungalle to Ella to Ella.
 
 ---
 
+### Osu Sala closed...
+
+*2024-02-09 14:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Osu-Sala-closed/110-276674) · `en`
+
+The Rajya Osu Sala (SPC) at Union Place, Colombo, was closed today, with the employees demanding the government to pay the cost of living allowance approved by the 2024 budget. A board was hung at the gate of the Osu Sala, appologising to the consumers for their inconvenience. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/921a2024.json)
+
+[Extended Data](ext_articles/921a2024.ext.json)
+
+---
+
 ### To Afghanistan to advantage
 
 *2024-02-09 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193170) · `si`
@@ -217,6 +259,42 @@ The Afghan group won the advantage of the coin, and they decided first bowler.
 [Data](articles/07fd0643.json)
 
 [Extended Data](ext_articles/07fd0643.ext.json)
+
+---
+
+### Protect standards of medical education...
+
+*2024-02-09 14:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protect-standards-of-medical-education/110-276673) · `en`
+
+The Medical Faculty Students' Action Committee staged a protest outside the Sri Lanka Medical Council (SLMC) urging the authorities to ensure the standards of the medical education in Sri Lanka. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/7c4959a5.json)
+
+[Extended Data](ext_articles/7c4959a5.ext.json)
+
+---
+
+### Asthma on the rise among children, parents urged to exercise caution
+
+*2024-02-09 14:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Asthma-on-the-rise-among-children-parents-urged-to-exercise-caution/108-276672) · `en`
+
+Colombo, Feb 9 (Daily Mirror) - Health experts in Sri Lanka have sounded the alarm over a noticeable uptick in asthma cases among children, sparking concerns among parents.
+
+Dr. Deepal Perera, a Paediatrician at the Lady Ridgeway Children's Hospital in Colombo, attributed this concerning surge to the prevailing extreme heat.
+
+"As schools gear up for sports meets, where children engage in numerous outdoor activities amidst the scorching weather, they become more vulnerable to asthma triggers," Dr. Perera warned, urging parents to remain vigilant about their children's health.
+
+Furthermore, Dr. Perera emphasized the importance of keeping children away from smoking areas, as exposure to smoke can exacerbate respiratory complications, particularly in those with asthma.
+
+"Common symptoms of childhood asthma include shortness of breath, difficulty in breathing and persistent coughing," he cautioned
+
+◼️
+
+[Data](articles/96e700a3.json)
+
+[Extended Data](ext_articles/96e700a3.ext.json)
 
 ---
 
@@ -848,6 +926,22 @@ The Water Supply and Drainage Board said the waterfront will be implemented in t
 
 ---
 
+### Sri Lanka At 76: Past, Present & Possible Future
+
+*2024-02-09 10:37:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lanka-at-76-past-present-possible-future/) · `en`
+
+To consider what the future holds for Sri Lanka, a glance at its past and present should prove useful as we could thereby contextualise and perhaps begin to understand what that likely future could be. Unless we look at our past mistakes dispassionately, attempt to learn from them and take meaningful steps to re-chart our national course, we are most likely to continue to allow history to repeat itself.
+
+Sri Lanka, like all other colonised countries suffered immensely at the hands of the colonisers; however, our track record of how our country (or constituent parts of it) has been ruled and governed by some of our own kings and nearly all of our politicians leaves much to be desired. Therefore, heaping the blame for our continuing miseries post- 1948 on our colonial rulers who exploited and plundered us (sometimes with a little help from our ‘nobility’) from 1505-1948, as some tend to do, is to obscure the truth.
+
+...
+
+[Data](articles/4f52cc26.json)
+
+[Extended Data](ext_articles/4f52cc26.ext.json)
+
+---
+
 ### Chief of Maldivian Defence Force keen on bolstering defence cooperation with Sri Lanka
 
 *2024-02-09 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97135/chief-of-maldivian-defence-force-keen-on-bolstering-defence-cooperation-with-sri-lanka) · `en`
@@ -927,6 +1021,34 @@ By offering visa exemption to Indians, Sri Lanka will attract more footfalls, es
 [Data](articles/487b991a.json)
 
 [Extended Data](ext_articles/487b991a.ext.json)
+
+---
+
+### Talangamulla Jayasinghe: Departure of a massive dedicated to 60 years for cartoon
+
+*2024-02-09 10:01:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy6evpn9129o) · `si`
+
+Talangamulla Jayasinghe: Departure of a massive dedicated to 60 years for cartoon
+
+With the death of a chapter, cartoon, poet, Talangagama Jayasinghe, as a chapter, a poet, a biblical journalist, has been marked with the death of the popular journalist Talangagama Jayasinghe.
+
+On February 7, he was 88 years old when he finished his life.
+
+He became more publicity among the people, as a newspaper cartoonist and a graphical designer.
+
+Talangagam Jayasinghe was born in Thalangama. On July 5, 1936, the name of his birth certificate was the name of his birth certificate, George Edmund Jayasinghe.
+
+The name he set for his father was born before independence, before the English colonial season.
+
+In close association with Talangagama Jayasinghe says that he wanted to change his name as he did not want to name his father.
+
+However, he did not want to change his name until the father of the father was alive and the father of 1955, "Thalangagama Jayasinghe '.
+
+...
+
+[Data](articles/89e83ad7.json)
+
+[Extended Data](ext_articles/89e83ad7.ext.json)
 
 ---
 
@@ -1923,127 +2045,5 @@ Accordingly, the Bank of Ceylon and the People's Bank of Sri Lanka have not been
 [Data](articles/0ce4e6a5.json)
 
 [Extended Data](ext_articles/0ce4e6a5.ext.json)
-
----
-
-### Anti -Terrorism Bill: 30 petitions
-
-*2024-02-09 02:28:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-எதிர்ப்பு-சட்டமூலம்-30-மனுக்கள்-தாக்கல்/175-332931) · `ta`
-
-Speaker Mahinda Yapa Abeywardena informed the House that 30 petitions have been filed for the Supreme Court regarding the 'anti -terrorism' Bill.
-
-The Speaker further stated that the Speaker announced the announcement to the House of Representatives at 9.30 am on Thursday at 9.30 am.
-
-Six petitions mentioned in my announcement on January 23, 2024 and the eighteen petitions mentioned in my announcement on January 24, 2024, in addition to the Article 121 (1) of the Constitution.
-
-◼️
-
-[Data](articles/e09d642d.json)
-
-[Extended Data](ext_articles/e09d642d.ext.json)
-
----
-
-### 'Even if I could lose your way with this iron'
-
-*2024-02-09 02:14:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c989n5vvxr0o) · `si`
-
-There is nothing here. Play Video, "" Running Time, "", the Running Time, 1,4901 Video Head, "Some people ask us what can be done. But we're not going to hear. ''
-
-Niluka lived in a factory to live in a factory belonging to the Ampara, Uhana Divisional Secretariat, has lost the part below the wrists.
-
-But he says that despite the loss of partitions in the hands, but not lost his self-confidence.
-
-'Even if I could lose your bodies. I'm not tired when thinking about my children. The only message I have to tell you don't get boring. Try it. "He told the BBC Sinhala.
-
-◼️
-
-[Data](articles/610e96a1.json)
-
-[Extended Data](ext_articles/610e96a1.ext.json)
-
----
-
-### Ranil is violating human rights to seize power in elections -Gajendrakumar
-
-*2024-02-09 01:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175938) · `ta`
-
-President of the Tamil National People's Front and Jaffna MP Gajendrakumar Ponnambalam said that President Ranil Wickremesinghe is making serious human rights violations to seize power in the election.
-
-He visited the United States on Wednesday (9) with US Congress members Samar Ali and Ligan Oma -and then with another member Don Davis.
-
-We feel that the US administration is working in the view that China should be controlled by the global politics of Sri Lanka.
-
-Ranil Wickremesinghe is considered a pro -Western countries and countries like India;Ranil Wickremesinghe has been using these opportunities this year, despite all the policies that can be important to democracy, such as the rule of the law - the rule of law.. In addition, he brings all the worst brutal laws.
-
-...
-
-[Data](articles/309a8bad.json)
-
-[Extended Data](ext_articles/309a8bad.ext.json)
-
----
-
-### Bharathiyar song 'Unity' Ranil;Will he come forward to distribute powers like Bharathasa?- Ravikaran
-
-*2024-02-09 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/175937) · `ta`
-
-Can Ranil Wickremesinghe, who is the one who is the unity of Bharatiyar's song, be able to share powers like Bharathasa?Former Northern Provincial Council member Durairasa Ravikaran has questioned.
-
-At the same time, he pointed out that the Tamil language and minority community in Sri Lankan politics does not provide acceptable meaningful power and the majority of the rulers continue to betray the Tamil people.
-
-He was speaking to the media on the policy of President Ranil Wickremesinghe at the inauguration of the fifth session of the ninth parliament.
-
-President Ranil Wickremesinghe made a policy march at the inaugural event of the fifth session of the ninth parliament.
-
-All parties, including the Tamil and Muslim parties, have united to make the country the dream of building the country in his policymaker on the head of state.
-
-At the same time, the Bharatiyar's lyrics, which express unity, are not united for the future of the younger community of our country?He also questioned.
-
-...
-
-[Data](articles/1893ac70.json)
-
-[Extended Data](ext_articles/1893ac70.ext.json)
-
----
-
-### $ 03 million by starting fuel for ships - Minister of Electricity and Power
-
-*2024-02-09 01:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175936) · `ta`
-
-Minister of Electricity and Power and Energy T.. Wii. Said Chanaka.
-
-He said that $ 200 million is the main reserves for strength requirements.
-
-Minister of State TV Chanaka said this at a media briefing held at the Presidential Media Center on Thursday (08).
-
-We are currently in a situation where the country is gradually recovering from the difficult economic crisis. Once upon a time we all stood in the fuel line. With everyone's commitment, the standard fuel supply is over. We have the largest fuel stockpile in recent history. We have also maintained the savings of the petroleum corporation's dollars.
-
-...
-
-[Data](articles/f65d08f8.json)
-
-[Extended Data](ext_articles/f65d08f8.ext.json)
-
----
-
-### Make concern over the release of political prisoners - Charles Nirmalanathan emphasizes
-
-*2024-02-09 00:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/175935) · `ta`
-
-The President has said that the President has not been able to pay attention to the policy declaration on the activities of Tamils in Tamil areas.
-
-He was speaking at the adjournment debate on the President's Declaration of the President's Policy Declaration held in Parliament on Thursday (8).
-
-The president's policy speech was based on the economic impact of the president. In this country, ethnic repression against Tamils continues to be taken away. Tamil lands are being destroyed.. He noted that 2 million people were given land rights.
-
-In the Mannar district, the people of Thiruketheeswarar village in the village of Thirukkadeeswara are trying to plant the pillars of the forest department that the Forest Department belongs to them.. When the President is proud to give land rights to the people. The Department of Forest Department has temporarily abandoned the land grabbing initiative following the people's opposition.
-
-...
-
-[Data](articles/a7ee7a18.json)
-
-[Extended Data](ext_articles/a7ee7a18.ext.json)
 
 ---

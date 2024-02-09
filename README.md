@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 14:50:03**
+As of **2024-02-09 15:02:17**
 
 ## Newspaper Stats
 
-*Scraped **5,936** Articles*
+*Scraped **5,937** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 497
 tamilmirrorlk | 730
 virakesarilk | 733
 adaderanalk | 735
-adaderanasinhalalk | 787
+adaderanasinhalalk | 788
 dailymirrorlk | 847
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,932 (99.9%) of 5,936 articles have been extended.
+5,936 (100.0%) of 5,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### අධිවේගයේ තවත් බිහිසුණු අනතුරක්
+
+*2024-02-09 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193171) · `si`
+
+රුසියානු ජාතික සංචාරකයින් පිරිසක් රැගත් වෑන් රථයක් අද (09) අලුයම 5.45ට පමණ දක්ෂිණ අධිවේගී මාර්ගයේ දී අනතුරට ලක්ව තිබේ.
+
+අප වාර්තාකරු පැවසුවේ, අධිවේගී මාර්ගයේ සූරියවැව අන්දරවැව අන්තර් හුවමාරුව ආසන්නයේ දී අධිවේගය දෙසට ධාවනය වූ ලොරි රථයක පිටුපස ගැටී අනතුර සිදුව ඇති බවය.
+
+අනතුරින් වෑන් රථයේ ගමන් ගත් සංචාරකයින් සිව්දෙනෙකු සහ රිය සහායක තුවාල ලබා තිබේ.
+
+තුවාල ලැබූවන් අතර වයස අවුරුදු 8ක රුසියානු ජාතික ගැහැනු දරුවෙකු ද සිටින බව පොලීසිය පවසයි.
+
+අනතුරින් ලොරි රථ රියදුරු, රියදුරුගේ බිරිඳ සහ අවුරුදු 2 සහ 11 යන වයස්වල පසුවන දරුවන් දෙදෙනා ද තුවාල ලබා හම්බන්තොට රෝහලට ඇතුළත් කර ඇත.
+
+වෑන් රථයේ ගමන්ගත් සංචාරකයින් පිරිස අහුංගල්ලේ සිට ඇල්ල බලා ගමන් කරමින් සිටිය දී අනතුරට ලක්ව තිබේ.
+
+◼️
+
+[Data](articles/add223a6.json)
+
+---
 
 ### To Afghanistan to advantage
 
@@ -65,6 +87,8 @@ Furthermore, Dr. Perera emphasized the importance of keeping children away from 
 ◼️
 
 [Data](articles/c4ebb09d.json)
+
+[Extended Data](ext_articles/c4ebb09d.ext.json)
 
 ---
 
@@ -110,6 +134,8 @@ Mr Hur interviewed the 81-year-old president over five hours as part of the inqu
 
 [Data](articles/1729fce8.json)
 
+[Extended Data](ext_articles/1729fce8.ext.json)
+
 ---
 
 ### Law reforms for system change: SJB Lawyers Federation to Propose 117 Reforms
@@ -127,6 +153,8 @@ The President of the SJB Lawyers’ Federation also announced plans to withdraw 
 ...
 
 [Data](articles/2b0f2c67.json)
+
+[Extended Data](ext_articles/2b0f2c67.ext.json)
 
 ---
 
@@ -1248,6 +1276,8 @@ Mirihana Police has initiated investigations to uncover the cause and manner of 
 
 [Data](articles/c6b8fcdd.json)
 
+[Extended Data](ext_articles/c6b8fcdd.ext.json)
+
 ---
 
 ### Mirihana residence found in a dead couple
@@ -2007,21 +2037,5 @@ He also said that the current ODI team will be targeted by the World Cup in 3 ye
 [Data](articles/54a30854.json)
 
 [Extended Data](ext_articles/54a30854.ext.json)
-
----
-
-### One person injured in firing
-
-*2024-02-08 23:08:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-சூட்டில்-ஒருவர்-படுகாயம்/175-332930) · `ta`
-
-One person was injured and admitted to the Anamaduwa hospital, police said.
-
-Police suspect that the shooter may have fled and the shooting may have been caused by a personal dispute.
-
-◼️
-
-[Data](articles/836de4e0.json)
-
-[Extended Data](ext_articles/836de4e0.ext.json)
 
 ---

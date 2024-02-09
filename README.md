@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 04:02:18**
+As of **2024-02-10 04:17:22**
 
 ## Newspaper Stats
 
-*Scraped **6,046** Articles*
+*Scraped **6,048** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 318
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 505
-tamilmirrorlk | 735
+tamilmirrorlk | 736
 adaderanalk | 746
-virakesarilk | 753
+virakesarilk | 754
 adaderanasinhalalk | 807
 dailymirrorlk | 868
 
@@ -26,11 +26,25 @@ dailymirrorlk | 868
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,046 (100.0%) of 6,046 articles have been extended.
+6,046 (100.0%) of 6,048 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### கேரளா அமைச்சருடன் அனுர சந்திப்பு
+
+*2024-02-10 03:29:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேரளா-அமைச்சருடன்-அனுர-சந்திப்பு/175-332960) · `ta`
+
+இந்தியா சென்றுள்ள தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திசாநாயக்க உள்ளிட்ட குழுவினர் நேற்று கேரளா மாநிலத்தின் தொழில்துறை அமைச்சர் பி.ராஜிவை சந்தித்துள்ளனர்.
+
+ஐந்து நாள்கள் விஜயம் மேற்கொண்டு இந்தியா சென்றுள்ள தேசிய மக்கள் சக்தியின் தலைவர் அநுரகுமார திசநாயக்க உள்ளிட்ட குழுவினர் நேற்றைய இறுதி நாளில் இந்தியாவின் கம்யூனிஸ்ட் கட்சி ஆட்சி நிலவும் கேரளாவிற்கு சென்றிருந்தனர்.
+
+◼️
+
+[Data](articles/5a48d410.json)
+
+---
 
 ### Dynamic B2B sessions at Sri Lanka –Thailand Business Forum
 
@@ -665,6 +679,22 @@ In addition, the President also emphasized initiatives, such as the Tropical Cli
 [Data](articles/fb536a48.json)
 
 [Extended Data](ext_articles/fb536a48.ext.json)
+
+---
+
+### உயிர்காப்பு ஆரம்ப சிகிச்சைகளை வழங்கும் "டெலிமெடிசின்" வேலைத்திட்டம் ஹொரனையில் ஆரம்பம்
+
+*2024-02-09 21:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175975) · `ta`
+
+அவசர சிகிச்சைப் பிரிவில் அனுமதிக்கப்படும் நோயாளர்களுக்கு ஆரம்ப வைத்தியசாலைகளில் நவீன தொழில்நுட்ப சாதனத்தைப் பயன்படுத்தி உயிர்காப்பு ஆரம்ப சிகிச்சைகளை வழங்கும் "டெலிமெடிசின்" வேலைத்திட்டம் ஹொரணை மாவட்ட பொது வைத்தியசாலையில் நிறுவப்பட்டுள்ளதாக சுகாதார அமைச்சு தெரிவித்துள்ளது.
+
+ஆரம்ப சுகாதார சேவை மற்றும் சிறந்த சுகாதார சேவை பராமரிப்பு ஆகிய அமைப்புகளை மேலும் வலுப்படுத்தும் நோக்கோடு சுகாதார அமைச்சு சுகாதார அமைச்சு பல செயற்திட்டங்களை முன்னெடுத்துள்ளது.
+
+அதன்படி, அவசர சிகிச்சைப் பிரிவில் அனுமதிக்கப்படும் ஆபத்தான நிலையில் உள்ள நோயாளர்களை சிறந்த வசதிகள் உள்ள வைத்தியசாலையில் அனுப்புவதற்கு முன்னர் நோயாளிக்கான உயிர்காப்பு முதலுதவிகளை வழங்குவது அவசியம்.
+
+...
+
+[Data](articles/f9937e12.json)
 
 ---
 
@@ -1973,49 +2003,5 @@ The Medical Faculty Students' Action Committee staged a protest outside the Sri 
 [Data](articles/7c4959a5.json)
 
 [Extended Data](ext_articles/7c4959a5.ext.json)
-
----
-
-### Asthma on the rise among children, parents urged to exercise caution
-
-*2024-02-09 14:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Asthma-on-the-rise-among-children-parents-urged-to-exercise-caution/108-276672) · `en`
-
-Colombo, Feb 9 (Daily Mirror) - Health experts in Sri Lanka have sounded the alarm over a noticeable uptick in asthma cases among children, sparking concerns among parents.
-
-Dr. Deepal Perera, a Paediatrician at the Lady Ridgeway Children's Hospital in Colombo, attributed this concerning surge to the prevailing extreme heat.
-
-"As schools gear up for sports meets, where children engage in numerous outdoor activities amidst the scorching weather, they become more vulnerable to asthma triggers," Dr. Perera warned, urging parents to remain vigilant about their children's health.
-
-Furthermore, Dr. Perera emphasized the importance of keeping children away from smoking areas, as exposure to smoke can exacerbate respiratory complications, particularly in those with asthma.
-
-"Common symptoms of childhood asthma include shortness of breath, difficulty in breathing and persistent coughing," he cautioned
-
-◼️
-
-[Data](articles/96e700a3.json)
-
-[Extended Data](ext_articles/96e700a3.ext.json)
-
----
-
-### Asthma on rise among children, parents urged to exercise caution
-
-*2024-02-09 14:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Asthma-on-rise-among-children-parents-urged-to-exercise-caution/108-276672) · `en`
-
-Colombo, Feb 9 (Daily Mirror) - Health experts in Sri Lanka have sounded the alarm over a noticeable uptick in asthma cases among children, sparking concerns among parents.
-
-Dr. Deepal Perera, a Paediatrician at the Lady Ridgeway Children's Hospital in Colombo, attributed this concerning surge to the prevailing extreme heat.
-
-"As schools gear up for sports meets, where children engage in numerous outdoor activities amidst the scorching weather, they become more vulnerable to asthma triggers," Dr. Perera warned, urging parents to remain vigilant about their children's health.
-
-Furthermore, Dr. Perera emphasized the importance of keeping children away from smoking areas, as exposure to smoke can exacerbate respiratory complications, particularly in those with asthma.
-
-"Common symptoms of childhood asthma include shortness of breath, difficulty in breathing and persistent coughing," he cautioned
-
-◼️
-
-[Data](articles/c4ebb09d.json)
-
-[Extended Data](ext_articles/c4ebb09d.ext.json)
 
 ---

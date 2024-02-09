@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 08:50:14**
+As of **2024-02-09 09:02:33**
 
 ## Newspaper Stats
 
-*Scraped **5,874** Articles*
+*Scraped **5,878** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,45 @@ colombotelegraphcom | 68
 bbccomsinhala | 82
 dbsjeyarajcom | 142
 islandlk | 308
-economynextcom | 308
+economynextcom | 309
 dailyftlk | 331
 newsfirstlk | 363
 adalk | 491
 adaderanalk | 721
-tamilmirrorlk | 723
+tamilmirrorlk | 724
 virakesarilk | 731
 adaderanasinhalalk | 772
-dailymirrorlk | 834
+dailymirrorlk | 836
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,874 (100.0%) of 5,874 articles have been extended.
+5,874 (99.9%) of 5,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### Sri Lanka’s efforts to nab overseas criminals hit a snag
+
+*2024-02-09 08:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lankas-efforts-to-nab-overseas-criminals-hit-a-snag/155-276642) · `en`
+
+Colombo, Feb 9 (Daily Mirror) - Sri Lanka’s efforts to arrest organized criminals operating from overseas has hit a snag following the Court of Appeal in France ruling against the extradition of criminal called ‘Kudu Anju’, Daily Mirror learns.
+
+The ruling has been communicated to the Sri Lankan authorities. However, a top official familiar with the process said the latest ruling conveyed on February 1, 2024 is not the final judgement.
+
+“It is not the final judgement. The final ruling will be given after the judicial process is over in another couple of weeks’ time or so,” the official said.
+
+In the meantime, the Sri Lankan Embassy in Paris is in communication with the French Foreign Affairs Ministry to get the ruling clarified further.
+
+Earlier, Public Security Minister Tiran Alles said the government initiated a special operation to arrest 30 criminals involved in drug trafficking and criminal activities while living in countries such as the United Arab Emirates (UAE) and France.
+
+...
+
+[Data](articles/b575c789.json)
+
+---
 
 ### The bodies of the couple are recovery
 
@@ -191,6 +211,24 @@ Acknowledging the past economic struggles, he referenced the time when Sri Lanka
 [Data](articles/feb7536a.json)
 
 [Extended Data](ext_articles/feb7536a.ext.json)
+
+---
+
+### Sri Lanka’s central bank collects US$1.8bn from fx markets in 2023
+
+*2024-02-09 06:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-collects-us1-8bn-from-fx-markets-in-2023-150484/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has bought 113 million US dollars from forex markets in December 2023, taking the total collected in the year to 1.895 billion US dollars, backed by deflationary policy, official data shows.
+
+The central bank allowed rates to go up from April 2022, in the first step to correcting a balance of payments crisis, triggered by rates cuts enforced with aggressive open market operations involving multiple liquidity tools.
+
+Rate cuts enforced with liquidity injections by a reserve collecting central bank trigger forex shortages, then a rapid loss of confidence as the so-called ‘flexible’ exchange rate regime flips and attempts to float (exchange rate as the first line of defence).
+
+After a massive confidence shock is delivered including credit downgrades, steep rate hikes and an economic contraction to kill credit is needed to restore the confidence in the currency and stabilize the monetary system.
+
+...
+
+[Data](articles/62f32c9f.json)
 
 ---
 
@@ -463,6 +501,26 @@ In 2018, the US Government provided a grant of $ 26 million to Sri Lanka to impl
 [Data](articles/e760a95f.json)
 
 [Extended Data](ext_articles/e760a95f.ext.json)
+
+---
+
+### கடன்களுக்கான கட்டுப்பாடுகள் தளர்வு
+
+*2024-02-09 02:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்களுக்கான-கட்டுப்பாடுகள்-தளர்வு/175-332935) · `ta`
+
+இலங்கை மத்திய வங்கியினால், வணிக வங்கிகளுக்கு குறுகிய கால கடன்களை வழங்குவதற்கு அமுல்படுத்தப்பட்டிருந்த கட்டுப்பாடுகள் மேலும் தளர்த்தப்பட்டுள்ளன.
+
+பெப்ரவரி 16 ஆம் திகதி முதல் அமுலாகும் வகையில் இந்தத் தீர்மானம் மேற்கொள்ளப்பட்டுள்ளது.
+
+நாணயக் கொள்கை சபை நேற்று முன்தினம் கூடிய போதே இந்தத் தீர்மானம் மேற்கொள்ளப்பட்டதாக இலங்கை மத்திய வங்கி தெரிவித்துள்ளது.
+
+இலங்கை மத்திய வங்கியினால், கடந்த வருடம் ஜனவரி 16 ஆம் திகதி முதல் அமுலாகும் வகையில், வணிக வங்கிகளுக்கு குறுகிய கால கடன்களை வழங்குவதற்கு சில கட்டுப்பாடுகள் விதிக்கப்பட்டிருந்தன.
+
+இந்த நிலையில் குறித்த கட்டுப்பாடுகளை தளர்த்துவதன் மூலம், சந்தையில் வட்டி வீதம் வீழ்ச்சியடையும் வேகம் அதிகரிக்கும் என எதிர்பார்க்கப்படுவதாக மத்திய வங்கி தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/e2df3552.json)
 
 ---
 
@@ -2015,67 +2073,5 @@ President Ranil Wickremesinghe has adjourned the parliamentary session three tim
 [Data](articles/5dd527d0.json)
 
 [Extended Data](ext_articles/5dd527d0.ext.json)
-
----
-
-### Sri Lanka raises monthly allowances for vulnerable groups
-
-*2024-02-08 16:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-raises-monthly-allowances-for-vulnerable-groups/108-276606) · `en`
-
-Colombo, Feb 08 (Daily Mirror)- Sri Lanka has announced an increase in monthly allowances for disabled individuals, kidney patients, and elderly citizens, effective January 2024, Finance State Minister Shehan Semasinghe said.
-
-Under the revised scheme, monthly allowances for kidney patients and disabled persons will see a notable raise from Rs. 5,000 to Rs. 7,500, while elderly citizens' allowances will increase from Rs. 2,000 to Rs. 3,000.
-
-Beneficiaries enrolled in the 'Aswesuma' welfare program, eligible for these allowances, can anticipate the increased payments, which will be implemented retrospectively from January 2024.  The disbursement of these enhanced allowances is scheduled to commence on April 01, offering much-needed relief to recipients across the country.
-
-...
-
-[Data](articles/802f6f6b.json)
-
-[Extended Data](ext_articles/802f6f6b.ext.json)
-
----
-
-### Suspects of police struggles in Colombo South cannot eat outside
-
-*2024-02-08 16:43:36* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-දකුණ-කොට්ඨාසේ-පොලිසිවල-සිර-මැදිරිවල-සැකකරුවන්ට-පිටතින්-ආහාර-බැහැ/11-407970) · `si`
-
-The Colombo South Divisional Secretary, the Colombo South Divisional Secretary, the Colombo South Divisional Secretary said that the food was not given to the suspects should not be given to the suspects.
-
-The police message has been issued with the event of a stranger to two organized criminals in the pierculture of the piercilure of the piercilhouse
-
-Police Message, SSP, SSP, Senior Superintendent of Police Neranjan Abeywardena has been informed in writing to Colombo South Division.
-
-It is learned that the police message and sub-service officers have advised that other officers have further advised that other officers
-
-◼️
-
-[Data](articles/901c1e5d.json)
-
-[Extended Data](ext_articles/901c1e5d.ext.json)
-
----
-
-### Government attempts presidential election over one year - Kiriella
-
-*2024-02-08 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/175884) · `ta`
-
-The presidential policy is not mentioned in the presidential election. The government has paid special attention to the presidential election for a year, with the idea of abolishing the executive presidency.
-
-Lakshman Kiriella, the prime minister of the opposition parties, said that it is not ashamed to come into parliament and come into parliament and cooperate with the opposition parties.
-
-He was speaking at the adjournment debate on the President's Declaration of the President's Policy Declaration held in Parliament on Thursday (08).
-
-President Ranil Wickremesinghe listened to the throne in Parliament and presented arguments in Parliament. But we ignored the policy declaration in Parliament yesterday.
-
-On the 30th of last month, we staged a peaceful struggle in Colombo in protest of the government's activities.
-
-The government has violently attacked the struggle. The attacks on the opposition leader were also carried out.
-
-...
-
-[Data](articles/ae0c7039.json)
-
-[Extended Data](ext_articles/ae0c7039.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 21:02:26**
+As of **2024-02-09 21:17:17**
 
 ## Newspaper Stats
 
-*Scraped **6,005** Articles*
+*Scraped **6,007** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 504
 tamilmirrorlk | 735
 adaderanalk | 743
 virakesarilk | 743
-adaderanasinhalalk | 803
+adaderanasinhalalk | 805
 dailymirrorlk | 859
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,001 (99.9%) of 6,005 articles have been extended.
+6,005 (100.0%) of 6,007 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
+
+### බෙලිඅත්තේ ඝාතනවලට සැක තවත් දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-02-09 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193189) · `si`
+
+ව්‍යාජ වාහන අංක තහඩු හා ව්‍යාජ ලේඛන සකස් කරනු ලැබූ සැකකරුවන් දෙදෙනෙකු පොලිස් විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් විශේෂ කාර්ය බළකායේ සංවිධානාත්මක අපරාධ මර්දන ඒකකයේ නිලධාරීන් විසින් මුල්ලේරියාව පොලිස් වසමේ හිඹුටාන ප්‍රදේශයේ දී වැටලීමක් සිදුකර නිත්‍යානූකූල බලපත්‍රයක් හෝ ලියවිල්ලක් හා අංක තහඩු නොමැතිව වාහනයක් සන්තකයේ තබාගැනීම සම්බන්ධයෙන් එක් සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇත.
+
+එලෙස අත්අඩංගුවට පත්ව ඇත්තේ අවුරුදු 56ක් වූ මුල්ලේරියාව ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මෙම සැකකරු බෙලිඅත්තේ පංච පුද්ගල ඝාතන සිද්ධියේ වෙඩිතැබීමට පැමිණි ජිප් රථයේ රියදුරු ලෙස කටයුතු කළ අයෙක් බවට සැක කරන, දැනට පළාගොස් සැඟව සිටින සැකකරු සමග සමීප සබඳතා පවත්වා ඇති බවත්, මීට මාස කිහිපයකට පෙර පළාගොස් සැඟව සිටින සැකකරුට මොහු විසින් යතුරුපැදි දෙකකට ව්‍යාජ බලපත්‍ර මුදලට සාදා දී ඇති බවත් දැනට සිදුකළ විමර්ශවලදී අනාවරණය වී තිබේ.
+
+ඒ අනුව සැකකරුගේ නිවස පරීක්ෂා කිරීමේ දී නිත්‍යානුකූල බලපත්‍රයක් හෝ ලියකියවිල්ලක් හෝ අංක තහඩු නොමැති ත්‍රීරෝද රථයක් හා ජංගම දුරකථනයක් විමර්ශන නිලධාරීන් භාරයට ගෙන ඇත.
+
+...
+
+[Data](articles/2b2705dd.json)
+
+---
+
+### තිදෙනෙකු රෝහලට යැවූ දුම්රිය ප්‍රවේශ පත්‍රය
+
+*2024-02-09 20:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193188) · `si`
+
+කොළඹ කොටුවේ සිට ගම්පහ දක්වා දුම්රියෙන් ගමන් කළ තරුණියකට කොටුව දුම්රිය ස්ථානයෙන් හුණුපිටිය දක්වා පමණක් ප්‍රවේශ පත්‍රයක් නිකුත් කර තිබීම නිසා ඇය ව ගම්පහ දී පරීක්ෂාවට ලක් කළ පරීක්ෂකවරුන් දඩමුදලක් බව පවසා මුදලක් අයකිරීමට උත්සාහ කර තිබේ.
+
+එහි දී ඇතිවූ ගැටුමකින් තරුණියගේ සහෝදරයකු සහ ප්‍රවේශපත්‍ර පරීක්ෂකවරුන් දෙදෙනෙකු තුවාල ලබා ගම්පහ මහ රෝහලට ඇතුළත් කර ඇති බව වාර්තා වේ.
+
+මෙම සිද්ධිය සම්බන්ධයෙන් දුම්රිය දෙපාර්තමේන්තුව අභ්‍යන්තර පරීක්ෂණයක් ආරම්භ කළ බව අප කළ විමසීමක දී දුම්රිය ගමනාගමන නියෝජ්‍ය සාමාන්‍යාධිකාරී එම්.ජේ. ඉඳිපොලගේ මහතා වැඩිදුරටත් පවසා ඇත.
+
+◼️
+
+[Data](articles/465723b7.json)
+
+---
 
 ### Pakistan election 2024: Imran Khan-backed candidates take lead
 
@@ -47,6 +83,8 @@ Jailed Imran Khan's party, PTI, claimed victory in the general elections while a
 ...
 
 [Data](articles/f31407c5.json)
+
+[Extended Data](ext_articles/f31407c5.ext.json)
 
 ---
 
@@ -114,6 +152,8 @@ Earlier today (Feb.09), during the parliamentary session, Speaker Mahinda Yapa A
 
 [Data](articles/d38f465f.json)
 
+[Extended Data](ext_articles/d38f465f.ext.json)
+
 ---
 
 ### Train derailment halts up-country line operations
@@ -127,6 +167,8 @@ The incident occurred this evening (Feb. 09) and has affected the slow train rou
 ◼️
 
 [Data](articles/cd11a0c8.json)
+
+[Extended Data](ext_articles/cd11a0c8.ext.json)
 
 ---
 
@@ -2009,47 +2051,5 @@ Both sides emphasized the importance of sustained dialogue and exchange programs
 [Data](articles/424ae68b.json)
 
 [Extended Data](ext_articles/424ae68b.ext.json)
-
----
-
-### A 15-hour water cut in Colombo
-
-*2024-02-09 10:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/A-15-hour-water-cut-in-Colombo/108-276661) · `en`
-
-Colombo, Feb 9 (Daily Mirror) - Colombo residents are set to experience a 15-hour water cut today as the National Water Supply and Drainage Board (NWSDB) announced that water supply to several areas in the city will be suspended.
-
-The NWSDB reported that the water cut will apply to the Colombo 11, 12, 13, 14, and 15 areas beginning at 5 pm tomorrow, and end at 8 am on Sunday (11).
-
-According to the Water Board, the water cut is necessary as part of the ongoing essential maintenance work under the Ambatale Water Supply System Improvements and Energy Saving Project.
-
-The NWSDB has advised residents in the affected areas to make necessary arrangements to store water during the water cut period.
-
-Further, the NWS&DB has requested the cooperation of the public to conserve water during and after the water cut.
-
-◼️
-
-[Data](articles/1b8b3279.json)
-
-[Extended Data](ext_articles/1b8b3279.ext.json)
-
----
-
-### Sri Lanka rupee opens stable at 313.00/50 to the US dollar
-
-*2024-02-09 10:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stable-at-313-00-50-to-the-us-dollar-150491/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 313.00/50 to the US dollar Friday, dealers said.
-
-A bond maturing on 01.02.2026 was quoted at 10.85/90 percent down from 11.00/10 percent.
-
-A bond maturing on 01.05.2027 was quoted at 11.60/70 percent.
-
-A bond maturing on 15.03.2028 was quoted at 12.00/05 percent from 12.00/15 percent.
-
-The Colombo Stock Exchange opened up; The All Share Price Index was up 0.13 percent at 10,561, and the S&P SL20 was up 0.46 percent at 3,028.92. (Colombo/Feb9/2024)
-
-◼️
-
-[Data](articles/7d8c97cf.json)
 
 ---

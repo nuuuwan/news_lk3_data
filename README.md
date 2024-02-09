@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-09 10:17:34**
+As of **2024-02-09 10:33:10**
 
 ## Newspaper Stats
 
-*Scraped **5,889** Articles*
+*Scraped **5,891** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 309
 dailyftlk | 331
 newsfirstlk | 363
 adalk | 492
-adaderanalk | 723
+adaderanalk | 725
 tamilmirrorlk | 727
 virakesarilk | 731
 adaderanasinhalalk | 777
@@ -26,27 +26,45 @@ dailymirrorlk | 836
 
 Extensions include translations and NER (Named Entity Recognition).
 
-5,887 (100.0%) of 5,889 articles have been extended.
+5,889 (100.0%) of 5,891 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-09 (Friday)
 
-### සැමියාගේ කෝපය තරුණ බිරිඳට මරු කැඳවයි
+### President meets Sri Lankan Diaspora in Perth, outlines plans for economic modernization
+
+*2024-02-09 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97133/president-meets-sri-lankan-diaspora-in-perth-outlines-plans-for-economic-modernization-) · `en`
+
+President Ranil Wickremesinghe, who is in Australia on a state visit, has met with the Sri Lankan Diaspora in Perth.
+
+During the interaction, the Sri Lankan leaders has provided updates on the nation’s recovery efforts, while outlining plans for economic modernization.
+
+In response, the Diaspora has expressed their readiness to assist the Sri Lankan government in various sectors such as climate change and tourism to boost economic development.
+
+◼️
+
+[Data](articles/aec96367.json)
+
+---
+
+### The husband's anger kills the youth wife
 
 *2024-02-09 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193159) · `si`
 
-මුතූර් තෝපූර් ප්‍රදේශයේ නිවසක් තුළදී සැමියා විසින් සිය බිරිඳව ඝාතනය කර තිබේ.
+The husband has killed his wife in a house in Mutur area.
 
-පවුල් ආරවුලක් හේතුවෙන් ගෙල සිරකර අදාළ කාන්තාව ඝාතනය කර ඇති බව පොලිස් මුලස්ථානය පැවසීය.
+The woman had been killed in a family dispute.
 
-සැකකාර සැමියා විසින් බිරිඳගේ ඇඳුමේ කොටසක් භාවිත කර ඇයගේ ගෙල සිරකර මෙම ඝාතනය සිදුකර ඇති බවද විමර්ශනවලදී හෙළිවී ඇත.
+Investigations have revealed that the murder had been carried out by her neck by the suspect's dress.
 
-ඝාතනය සිදුකළ 33 හැවිරිදි සැකකාර සැමියා අත්අඩංගුවට ගෙන ඇති අතර ඝාතනය සම්බන්ධයෙන් මුතූර් පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+Muttur police are conducting further investigations into the murder.
 
 ◼️
 
 [Data](articles/8b4cb2d9.json)
+
+[Extended Data](ext_articles/8b4cb2d9.ext.json)
 
 ---
 
@@ -72,13 +90,15 @@ On Thursday (Feb.08), State Minister Shehan Semasinghe revealed that ‘Aswesuma
 
 ---
 
-### පාර්ලිමේන්තු කටයුතු ඇරඹේ
+### Parliamentary proceedings begins
 
 *2024-02-09 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193158) · `si`
 
 ◼️
 
 [Data](articles/a1cfbdd3.json)
+
+[Extended Data](ext_articles/a1cfbdd3.ext.json)
 
 ---
 
@@ -351,6 +371,18 @@ The bodies of an elderly couple have been found inside a house in Mirihana.
 [Data](articles/8f99deb5.json)
 
 [Extended Data](ext_articles/8f99deb5.ext.json)
+
+---
+
+### Bodies of elderly couple found inside house in Mirihana
+
+*2024-02-09 07:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97130/bodies-of-elderly-couple-found-inside-house-in-mirihana) · `en`
+
+The bodies of an elderly couple have been found inside a house in Mirihana.
+
+◼️
+
+[Data](articles/952fa365.json)
 
 ---
 
@@ -2021,47 +2053,5 @@ In this regard, the village organizations have recently decided to meet with the
 [Data](articles/6aac4eec.json)
 
 [Extended Data](ext_articles/6aac4eec.ext.json)
-
----
-
-### State Minister TV Sanaka on the removal of Australian company from fuel supply
-
-*2024-02-08 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175915) · `ta`
-
-Minister of Power and Power and Strength TV Sanaka said that Australia's United Petroleum, who has obtained permission to carry out fuel supply operations in Sri Lanka, has been taken care of.
-
-He further stated this at a press conference held at the Presidential Media Center on Thursday (08).
-
-The government has been able to resist $ 500 million annually for fuel imports due to permission for fuel supply operations to Sinobek.. Ceylon Petroleum Corporation, Lanka IOC. And the competition is found between Synobac. We hope that this will provide better relief to the people in fuel prices in the future.
-
-Currently in the United States RM. Park has deposited $ 3 million. The deposit has been deposited as a permit fee of $ 2 million and $ 1 million as a fixed deposit. So we expect this company to start its operations soon. But Australia's United Petroleum has requested time for time but has not maintained any deposits.
-
-...
-
-[Data](articles/cd24fc10.json)
-
-[Extended Data](ext_articles/cd24fc10.ext.json)
-
----
-
-### A woman dies after falling into charging from Badul Oya
-
-*2024-02-08 17:10:22* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවක්-බදුලු-ඔය-හරහා-තිබූ-ඒදණ්ඩකින්-ඇද-වැටී-මරුට/11-407974) · `si`
-
-A woman who had been carrying out a crowd with a charging of Badulu Oya Pakukotuwa has been discovered in the Dadiru Oya in the area.
-
-Kandaketiya Baduluoya Unit, Unit, DM. The deceased has been identified as the deceased.
-
-The police said that the deaths were found in the Hadamapathalawa Oya area about 2 km from the scene of the Katamatalata Oya from the scene of her death.
-
-The body is being taken to the Mahiyanganaya Base Hospital for the post mortem examination, police said.
-
-DIG Deputy Inspector General of Police Sampath Liyanage Badulla Liyanage, Badulla Senior Superintendent of Police Wasantha Kandandy Kandayaka, Kandaketiya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/3b8f3987.json)
-
-[Extended Data](ext_articles/3b8f3987.ext.json)
 
 ---

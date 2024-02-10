@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 11:17:04**
+As of **2024-02-10 11:33:15**
 
 ## Newspaper Stats
 
-*Scraped **6,102** Articles*
+*Scraped **6,103** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 316
 economynextcom | 318
 dailyftlk | 342
 newsfirstlk | 363
-adalk | 506
+adalk | 507
 tamilmirrorlk | 739
 adaderanalk | 755
 virakesarilk | 759
@@ -26,7 +26,7 @@ dailymirrorlk | 881
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,098 (99.9%) of 6,102 articles have been extended.
+6,102 (100.0%) of 6,103 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ According to the ministry, the narcotics taken into custody during this period i
 
 [Data](articles/b185496d.json)
 
+[Extended Data](ext_articles/b185496d.ext.json)
+
 ---
 
 ### Crowd surge reported in Jaffna as Indian Singer Hariharan’s concert kicks-off
@@ -65,6 +67,8 @@ A number of South Indian actresses and actors including Tamannaah and Ramba also
 ◼️
 
 [Data](articles/522db482.json)
+
+[Extended Data](ext_articles/522db482.ext.json)
 
 ---
 
@@ -149,6 +153,8 @@ The war between Israel and Hamas, which has raged since Oct. 7, is the latest in
 ...
 
 [Data](articles/33503242.json)
+
+[Extended Data](ext_articles/33503242.ext.json)
 
 ---
 
@@ -264,6 +270,22 @@ Ranil Wickremesinghe took the responsibility of protecting the country and build
 
 ---
 
+### තමා මැතිවරණය දිනූ බව ඉම්රාන් ඛාන් කියයි
+
+*2024-02-10 09:12:41* · [`adalk`](https://www.ada.lk/breaking_news/තමා-මැතිවරණය-දිනූ-බව-ඉම්රාන්-ඛාන්-කියයි/11-407990) · `si`
+
+පාකිස්තානෙය් පැවැති මහ මැතවණයෙන් තමන් ජයග්‍රහණය කළ බවත් එය සමරන ලෙසත් හිටපු අග්‍රාමාත්‍ය ඉම්රාන් ඛාන් පවසයි. එම ජයග්‍රහණය සමරන ලෙස  ඔහු සිය ආධාරකරුවන්ගෙන් ඉල්ලා සිටියි. ඉම්රාන් ඛාන් මේ වන විට සිරගතව සිටියි.
+
+මේ වන විට ප්‍රකාශයට පත්කර ඇති මැතිවරණ ප්‍රතිඵල අනුව ඉම්රාන් ඛාන්ට සම්බන්ධ ස්වාධීන අපේක්ෂකයන් ප්‍රකාශයට පත්කර ඇති ආසනවලින් වැඩි ප්‍රමාණයක් ජයග්‍රහණය කර තිබේ.
+
+කෙසේ වෙතත් හිටපු අග්‍රාමාත්‍යවරයෙක් ‌වෙන නවාෂ් ශරීෆ්ද ප්‍රකාශ කර ඇත්තේ තම පක්ෂය මේ වන විට විශාලම පක්ෂය බවට පත්ව ඇති බවත් තමන් සමග ඒක්ව සභාග රජයක් පීහිටුවන ලෙස අනෙකුත් පක්ෂවලට ආරාධනා කරන ‌බවයි.
+
+◼️
+
+[Data](articles/1e1576cb.json)
+
+---
+
 ### Fifth suspect arrested over murder of Buddhist monk at temple
 
 *2024-02-10 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97158/fifth-suspect-arrested-over-murder-of-buddhist-monk-at-temple) · `en`
@@ -281,6 +303,8 @@ Earlier this week, the investigating officers managed to arrest four other suspe
 ...
 
 [Data](articles/977bd141.json)
+
+[Extended Data](ext_articles/977bd141.ext.json)
 
 ---
 
@@ -1965,25 +1989,5 @@ Harsha de Silva has been re -appointed as the Chairman of the Committee of State
 [Data](articles/f9707abb.json)
 
 [Extended Data](ext_articles/f9707abb.ext.json)
-
----
-
-### Ranjith Mathuma Bandara is limited to speech that we have recovered from the economic crisis -
-
-*2024-02-09 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176000) · `ta`
-
-The president's claim that we have recovered from the economic crisis is limited to speech. The people of the country are still poor today. Laws are enacted to disrupt people's rights. United People's Power General Secretary and Member of Parliament Ranjith Mathuma Bandara said the government's actions against democracy would be against the government.
-
-He was speaking at the adjournment debate on the President's Policy Declaration of the President on Friday (9) in Parliament.
-
-The president notes that the country has been recovered from the economic crisis. But the people of the country are still poor today.. Who caused the economic crisis?It is now forgotten who has put the country into a bankruptcy.
-
-The government, which came to power in 2020, launched the damage project instead of chemical fertilizer use, declined the entire agriculture sector.. Farmers have lost the income of four farming. No acceptable relief to the affected farmers has not yet been provided.
-
-...
-
-[Data](articles/9adcf2af.json)
-
-[Extended Data](ext_articles/9adcf2af.ext.json)
 
 ---

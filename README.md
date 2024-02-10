@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 09:51:37**
+As of **2024-02-10 10:02:25**
 
 ## Newspaper Stats
 
-*Scraped **6,086** Articles*
+*Scraped **6,093** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,118 @@ islandlk | 316
 economynextcom | 318
 dailyftlk | 342
 newsfirstlk | 363
-adalk | 505
-tamilmirrorlk | 738
+adalk | 506
+tamilmirrorlk | 739
 adaderanalk | 751
-virakesarilk | 756
+virakesarilk | 759
 adaderanasinhalalk | 817
-dailymirrorlk | 877
+dailymirrorlk | 879
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,086 (100.0%) of 6,086 articles have been extended.
+6,086 (99.9%) of 6,093 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### அவுஸ்திரேலியாவில் ஜனாதிபதி  இந்திய வெளிவிவகார அமைச்சரை சந்தித்தார்
+
+*2024-02-10 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/176016) · `ta`
+
+அவுஸ்திரேலியாவின் தலைநகர் பேர்த்தில் வெள்ளிக்கிழமை (09) ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் இந்தியாவின் வெளிவிவகார அமைச்சர் கலாநிதி எஸ்.ஜெய்சங்கர் ஆகியோர் சந்தித்து கலந்துரையாடியுள்ளனர்.
+
+இந்திய அறக்கட்டளை மற்றும் அவுஸ்திரேலியா அரசாங்கத்தின் அழைப்பின் பேரில் 7 ஆவது இந்து சமுத்திர மாநாட்டில் கலந்து கொள்வதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்க அவுஸ்திரேலியாவிற்கு சென்றுள்ளார்.
+
+இந்த மாநாட்டை “நிலையான மற்றும் நிலைபேறான இந்து சமுத்திரத்தை நோக்கி” என்ற தொனிப் பொருளில் இந்திய வெளியுறவு அமைச்சு மற்றும் அவுஸ்திரேலிய அரசாங்கத்துடன் இணைந்து இந்திய மன்றம் ஏற்பாடு செய்துள்ளது.
+
+◼️
+
+[Data](articles/c93199f2.json)
+
+---
+
+### Increased allowances for police officers from next week
+
+*2024-02-10 09:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Increased-allowances-for-police-officers-from-next-week/108-276727) · `en`
+
+Colombo, Feb 10 (Daily Mirror) -The food, travel and accommodation allowance for police personnel which were increased by the 2024 budget will be paid at the beginning of next week, Finance State Minister Ranjith Siyambalapitiya said.
+
+In addition to the allowances received so far, half of the allowance increased by the budget will be paid immediately, the minister said.
+
+The allowance of Rs. 17,000 for junior officers is to be increased by Rs. 11,800, and 50% of this is to be paid immediately, the minister further said.
+
+◼️
+
+[Data](articles/3ec83ac7.json)
+
+---
+
+### இந்திய வெளிவிவகார அமைச்சர் - ஜனாதிபதி சந்திப்பு
+
+*2024-02-10 09:19:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-வெளிவிவகார-அமைச்சர்-ஜனாதிபதி-சந்திப்பு/175-332965) · `ta`
+
+இந்திய வெளிவிவகார அமைச்சர் கலாநிதி சுப்ரமணியன் ஜெய்சங்கர் நேற்று மாலை பேர்த் நகரில் ஜனாதிபதி ரணில் விக்ரமசிங்கவைச் சந்தித்தார்.
+
+இதன் போது இந்தியாவுடனான இருதரப்பு திட்டங்களின் முன்னேற்றம் குறித்து கவனம் செலுத்தப்பட்டது. R
+
+◼️
+
+[Data](articles/342d0d05.json)
+
+---
+
+### ரணில் விக்ரமசிங்க குறுகிய காலத்தில் நாட்டை கட்டியெழுப்ப நடவடிக்கை எடுத்துள்ளார் - வஜிர அபேவர்த்தன
+
+*2024-02-10 09:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176015) · `ta`
+
+நாட்டை ஆட்சி செய்துவந்த தலைவர்கள் ஒவ்வொருவரும் பல வருடங்கள் அதிகாரத்தில் இருந்து நாட்டை அபிவிருத்தி செய்தததைவிட ரணில் விக்ரமசிங்க ஒன்றை வருடங்களில் வங்குரோத்து அடைந்திருந்த நாட்டை கட்டியெழுப்பி, வீழ்ச்சியடைந்திருந்த நாட்டின் பொருளாதாரத்தை பலப்படுத்த தேவையான இலக்கை தயாரித்துள்ளார்  என ஐக்கிய தேசிய கட்சி உறுப்பினர் வஜிர அபேவர்த்தன தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வெள்ளிக்கிழமை (09) இரண்டாம் நாளாக இடம்பெற்ற ஜனாதிபதியின் கொள்கை விளக்க உரைமீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+நாடு வங்குரோத்து அடைந்தநிலையில் இருந்த சந்தர்ப்பத்திலேயே ரணில் விக்ரமசிங்க, நாட்டை பாதுகாத்துக்கொண்டு, பொருளாதாரத்தை கட்டியெழுப்பும் பொறுப்பை ஏற்றுக்கொண்டார். இந்த பொறுப்பை யாரும் ஏற்றுக்கொள்ள முன்வராத நிலையில், ரணில் விக்ரமசிங்க முன்வந்து, இந்த பாரிய பொறுப்பை நிறைவேற்ற அனைவரின் ஒத்துழைப்பும் அவசியம் என கேட்டுக்கொண்டிருந்தார். என்றாலும் பல்வேறு சவால்களுக்கு மத்தியில் நாட்டை வங்குரோத்து நிலையில் மீட்டதுடன் நாட்டின் பொருளாதாரத்தையும் அபிவிருத்தி செய்ய நடவடிக்கை எடுத்திருக்கிறார்.
+
+...
+
+[Data](articles/41de726c.json)
+
+---
+
+### Several injured during Hariharan’s concert in Jaffna
+
+*2024-02-10 09:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Several-injured-during-Hariharans-concert-in-Jaffna/108-276732) · `en`
+
+Jaffna, Feb 10 (Daily Mirror) - Several people were reportedly injured during the concert conducted by popular Indian singer Hariharan at the Muttraveli Stadium in Jaffna last night, the police said.
+
+The Hariharan Live in Concert and Star Night was held yesterday at the Muttraveli Stadium.
+
+A large number of people who came to see the concert tried to enter the area despite police protection.
+
+It is said that many film actresses and actors, including South Indian film actress Tamanna Bhatia and Ramba, also participated in the show.
+
+◼️
+
+[Data](articles/ccf594e7.json)
+
+---
+
+### டெலிகொம் உள்ளிட்ட தேசிய பாதுகாப்புடன் தொடர்பான நிறுவனங்களின் விற்பனையால் தேசிய பாதுகாப்புக்கு ஏற்படும் பாதிப்புக்கு அரசாங்கம் பொறுப்புக் கூறுமா? - எதிர்க்கட்சித் தலைவர்
+
+*2024-02-10 09:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176014) · `ta`
+
+ஶ்ரீ லங்கா டெலிகொம் நிறுவனத்தின் உரிமையை அரசாங்கத்திடம் இருந்து வெளி நிறுவனத்திற்கு மறுசீரமைப்பதன் மூலம் தேசிய பாதுகாப்புக்கு ஏற்படும் பாதிப்புகளுக்கு அரசாங்கம் பொறுப்புக் கூறுமா என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வெள்ளிக்கிழமை (09)  நிலையியற் கட்டளை 27 /2 இன் கீழ் கேள்வி நேரத்திலேயே இவ்வாறு தெரிவித்தார்.
+
+நஷ்டத்தில் இயங்கும் பொது நிறுவனங்களின் மறுசீரமைப்பு மற்றும் புதிய முகாமைத்துவ திட்டத்தின் அடிப்படையில் தற்போது இலாபம் ஈட்டும் நிறுவனங்களின் செயற்பாட்டுச் செலவுகளைக் குறைப்பது மற்றும் நிர்வாகப் பிரச்சினைகளைத் தீர்ப்பது தொடர்பில் அரசாங்கம் கவனம் செலுத்த வேண்டும்.
+
+...
+
+[Data](articles/3a344361.json)
+
+---
 
 ### Another talk about the murder of monks
 
@@ -140,6 +236,26 @@ The President and the Indian Foreign Minister discussed bilateral projects betwe
 
 ---
 
+### Trade union action postponed for health trade unions seeking employment rights
+
+*2024-02-10 08:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176012) · `ta`
+
+The Alliance of Health Trade Unions has announced that 72 health trade unions will be postponed for a weekly trade union, which will be implemented at the provincial and hospital level.
+
+After the Cabinet approved the government's approval to pay Rs.
+
+In this backdrop, the union actions to be carried out for a week after a discussion between representatives of the Health Trade Union Federation and the Finance Ministry on Tuesday (Tuesday). The committee nominated by the Ministry of Finance is also on the 12th of this month and a decisive resolution on the rights of the health workers is to be reached.
+
+Therefore, a program to clarify health workers on the rights of professional rights at the provincial level and hospital level will be launched from today.. It is hoped that the Ministry of Health and the Finance Ministry will be dedicated to solving the crisis in the health sector.
+
+...
+
+[Data](articles/6ad23c36.json)
+
+[Extended Data](ext_articles/6ad23c36.ext.json)
+
+---
+
 ### Pakistan elections: Imran Khan, Nawaz Sharif both claim wins
 
 *2024-02-10 08:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pakistan-elections-Imran-Khan-Nawaz-Sharif-both-claim-wins/108-276730) · `en`
@@ -157,26 +273,6 @@ Sharif's announcement came after more than three-quarters of the 265 seats had d
 [Data](articles/702fa66e.json)
 
 [Extended Data](ext_articles/702fa66e.ext.json)
-
----
-
-### Trade union action postponed for health trade unions seeking employment rights
-
-*2024-02-10 08:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176012) · `ta`
-
-The Alliance of Health Trade Unions has announced that 72 health trade unions will be postponed for a weekly trade union, which will be implemented at the provincial and hospital level.
-
-After the Cabinet approved the government's approval to pay Rs.
-
-In this backdrop, the union actions to be carried out for a week after a discussion between representatives of the Health Trade Union Federation and the Finance Ministry on Tuesday (Tuesday). The committee nominated by the Ministry of Finance is also on the 12th of this month and a decisive resolution on the rights of the health workers is to be reached.
-
-Therefore, a program to clarify health workers on the rights of professional rights at the provincial level and hospital level will be launched from today.. It is hoped that the Ministry of Health and the Finance Ministry will be dedicated to solving the crisis in the health sector.
-
-...
-
-[Data](articles/6ad23c36.json)
-
-[Extended Data](ext_articles/6ad23c36.ext.json)
 
 ---
 
@@ -352,6 +448,22 @@ The sea areas off the coasts from Galle to Pottuvil via Hambantota and the sea a
 
 ---
 
+### NGOs spend billions unchecked, new law soon to monitor them
+
+*2024-02-10 07:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NGOs-spend-billions-unchecked-new-law-soon-to-monitor-them/108-276725) · `en`
+
+Colombo, Feb 10 (Daily Mirror) -  In the wake of reports that as much as over half of funds received by various NGOs are spent without any monitoring, the government is in the final stage of evolving a new law that provides for compulsory registration of all such organizations with the National NGO Secretariat, an official said.
+
+The final draft of the new law titled ‘Non-governmental Organizations (Registration and Supervision) Bill is now ready. It has now been circulated among the NGOs and individual activists for their views before being presented to the Cabinet for approval. They have been given a period of three weeks for submission of their views, if any, to be incorporated in the bill before enactment.
+
+...
+
+[Data](articles/8cf7061a.json)
+
+[Extended Data](ext_articles/8cf7061a.ext.json)
+
+---
+
 ### Electricity exploding
 
 *2024-02-10 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193195) · `si`
@@ -409,22 +521,6 @@ Steps have been taken to provide the paddy purchasing program to provide small a
 [Data](articles/ff2749d4.json)
 
 [Extended Data](ext_articles/ff2749d4.ext.json)
-
----
-
-### NGOs spend billions unchecked, new law soon to monitor them
-
-*2024-02-10 06:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NGOs-spend-billions-unchecked-new-law-soon-to-monitor-them/108-276725) · `en`
-
-Colombo, Feb 10 (Daily Mirror) -  In the wake of reports that as much as over half of funds received by various NGOs are spent without any monitoring, the government is in the final stage of evolving a new law that provides for compulsory registration of all such organizations with the National NGO Secretariat, an official said.
-
-The final draft of the new law titled ‘Non-governmental Organizations (Registration and Supervision) Bill is now ready. It has now been circulated among the NGOs and individual activists for their views before being presented to the Cabinet for approval. They have been given a period of three weeks for submission of their views, if any, to be incorporated in the bill before enactment.
-
-...
-
-[Data](articles/8cf7061a.json)
-
-[Extended Data](ext_articles/8cf7061a.ext.json)
 
 ---
 
@@ -1188,6 +1284,24 @@ India confirmed their spot in the final after beating hosts South Africa by two 
 
 ---
 
+### මගි ප්‍රවාහන දුම්රියක් පිලි පැනීීමෙන්උඩරට දුම්රිය ගමනයට බාධා
+
+*2024-02-09 21:30:34* · [`adalk`](https://www.ada.lk/breaking_news/මගි-ප්‍රවාහන-දුම්රියක්-පිලි-පැනීීමෙන්උඩරට-දුම්රිය-ගමනයට-බාධා/11-407989) · `si`
+
+නාවලපිටිය සිට නානුඔය දක්වා ධාවනය වු 779 මගි සහ භාණ්ඩ ප්‍රවාහන දුම්රිය පිලි පැනිම හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ ගමනා ගමනයට බාධා පැමිණ ඇති බව නාවලපිටිය දුම්රිය පාලක මැදිරිය පැවසිය.
+
+උඩරට දුම්රිය මාර්ගයේ ඉහල වටවල සහ රොසැල්ල දුම්රිය ස්ථාන දෙක අතර 102 සැතපුම් කණුව අසලදි (09) දින පස්වරු 5 ට පමණ එම දුම්රියේ එන්ජිම සහ මැදිරියක් පිලි පැන ඇති බවයි දුම්රිය පාලක මැදිරිය කියා සිටියේ.
+
+පිලි පැනිමට ලක් වු දුම්රිය පිලිගත කරන තෙක් කොළඹ සිට බදුල්ල දක්වා ධාවනය කරන දුම්රියන් වටවල දුම්රිය ස්ථානය දක්වාත් , බදුල්ල සිට කොළඹ දක්වා ධාවනය කරන දුම්රියන් හැටන් දුම්රිය ස්ථානය වෙත ධාවනය කර එතැන් සිට දුම්රියන් දෙකෙහි මගින්ව දුම්රියන් වලට මාරු කර සිය ගමනාන්තය දක්වා යොමු කරන බවයි හැටන් දුම්රිය ස්ථානයේ නිලධාරියෙකු කියා සිටියේ.
+
+දුම්රිය පිලි පැනිමෙන් දුම්රිය මාර්ගයට දැඩි අලාභ හානි සිදු වි ඇත.
+
+◼️
+
+[Data](articles/9a5443d5.json)
+
+---
+
 ### News that the United People's Power is preparing to negotiate with India is completely fake - Sujeeva Senasinghe
 
 *2024-02-09 21:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175992) · `ta`
@@ -1845,139 +1959,5 @@ High Commissioner Wajith Hasan Hashmi and other officials of the High Commission
 [Data](articles/99dc581e.json)
 
 [Extended Data](ext_articles/99dc581e.ext.json)
-
----
-
-### Sri Lanka’s fuel distributors owe more penalties than demurrages: Minister
-
-*2024-02-09 18:18:00* · [`economynextcom`](https://economynext.com/sri-lankas-fuel-distributors-owe-more-penalties-than-demurrages-minister-150563/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s fuel distributors now owe more penalties to the island nation than the demurrages Colombo must pay after the government imposed the penalty following the economic crisis, State Energy Minister D V Chanaka said.
-
-The island nation had to pay millions of dollars with $30,000 per day demurrages when Sri Lanka’s currency crisis evaporated all the foreign currencies which led to failure of fuel unloading.
-
-But President Ranil Wickremesinghe’s government imposed a penalty of $50,000 per day on fuel distributors when they are unable to unload the fuel on time.
-
-Chanaka said the penalties from the furl distributors stood at $13 million as of the end of last year, while the penalties claimed from fuel distributors for delays were at $7 million in the last two year.
-
-...
-
-[Data](articles/0fb51440.json)
-
-[Extended Data](ext_articles/0fb51440.ext.json)
-
----
-
-### '' Global audience 'to meet Chinese spring
-
-*2024-02-09 18:17:58* · [`adalk`](https://www.ada.lk/picture_story/’’චීන-වසන්ත-උත්සව-ජනතා-සංස්කෘතික-මංගල්‍යය’’--ගෝලීය-ප්‍රේක්ෂකයන්-හමුවට/10-407986) · `si`
-
-Chinese traditional new year rises today (9). Spring festivals produced by the Chinese Media Group unfolds the audience around the world today. The spring festival took the hot emotions of the entire Chinese people for more than 40 years, and it has become an essential part of the Chinese people who celebrate the new year happiness. In particular, the United Nations General Assembly has been named as a United Nations holiday, the spring festival show is also a global significance.
-
-...
-
-[Data](articles/b96ac821.json)
-
-[Extended Data](ext_articles/b96ac821.ext.json)
-
----
-
-### Wishing Nissankan's Renew Renew
-
-*2024-02-09 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193183) · `si`
-
-Sri Lanka and Afghanistan were among the records between the document books at the Pallekele Stadium in the Pallekele Stadium in Kandy today.
-
-It was renewed the highest number of running recorded in one-day player for Sri Lanka.
-
-The 189 runs in the year 2000 at the Sanath Jayasuriya of India was renewed by Sanath Jayasuriya.
-
-Meanwhile, journey has also been able to report the first double century reported in Sri Lanka ODI cricket history.
-
-◼️
-
-[Data](articles/ca59e6f2.json)
-
-[Extended Data](ext_articles/ca59e6f2.ext.json)
-
----
-
-### Plans to plant a million pieces of plants
-
-*2024-02-09 18:09:51* · [`adalk`](https://www.ada.lk/breaking_news/පුවක්-පැළ-මිලියනයක්-සිටුවීමට-සැලසුම්/11-407985) · `si`
-
-The Director General of the Department of Export Agriculture has been prepared to plant a million plants in the next few years, the Director General of the Department of Export Agriculture said.
-
-The Director General of the Department of Registered Seedlings, including the Department of Government Schools, are free of charge for the planting prices of government schools, and state institutions including government schools.
-
-◼️
-
-[Data](articles/bfc035e5.json)
-
-[Extended Data](ext_articles/bfc035e5.ext.json)
-
----
-
-### Constable injured in the firearm
-
-*2024-02-09 18:02:21* · [`adalk`](https://www.ada.lk/breaking_news/සැරයන්ගේ-ගිනි-අවිය-පත්තුවී-කොස්තාපල්ට-තුවාල/11-407984) · `si`
-
-Police constable has been injured in a firearm of a firearm of police sergeant at the Okkampitiya Police Station (08).
-
-The injured were also injured as Karunaratne.A police sergeant who participates in the semi-annual inspection of the police sergeant on February 9., a police sergeant was shot dead in a bed near him a bed near him.
-
-According to Moneragala Hospital, sources of the Moneragala Hospital said that his condition is not serious.The Okkampitiya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/abe3a334.json)
-
-[Extended Data](ext_articles/abe3a334.ext.json)
-
----
-
-### Sri Lanka rupee closes at 313.00/10 to the US dollar
-
-*2024-02-09 18:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-313-00-10-to-the-us-dollar-150554/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 313.00/10 to the US dollar Friday, from 313.00/50 on Thursday, dealers said.
-
-A bond maturing on 01.02.2026 closed at 10.80/95 percent down from 11.00/10 percent.
-
-A bond maturing on 15.09.2027 closed at 11.65/80 percent from 11.65/85 percent.
-
-A bond maturing on 15.03.2028 closed at 12.05/20 percent from 12.00/15 percent.
-
-A bond maturing on 15.07.2029 closed at 12.50/80 percent from 12.45/75 percent.
-
-A bond maturing on 15.05.2030 closed at 12.25/45 percent down from 12.40/65 percent.
-
-A bond maturing on 15.05.2031 closed at 12.50/90 percent from 12.70/13.05 percent.
-
-A bond maturing on 01.07.2032 closed at 12.50/90 percent down from 12.80/13.05 percent. (Colombo/Feb9/2024)
-
-◼️
-
-[Data](articles/08a1aef2.json)
-
-[Extended Data](ext_articles/08a1aef2.ext.json)
-
----
-
-### Mountaineer train services impact
-
-*2024-02-09 17:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/175996) · `ta`
-
-The Navalapitiya Railway Control Office has said that the train derailed between the Vattawala and Rosella stations on the mountain railway line.
-
-The control room said that the train traveling from Nawalapitiya to Nanuoya on Friday (9).
-
-Due to this, railway employees are in the process of bringing the train service to us.
-
-◼️
-
-[Data](articles/d9bdc6a5.json)
-
-[Extended Data](ext_articles/d9bdc6a5.ext.json)
 
 ---

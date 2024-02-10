@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 04:02:18**
+As of **2024-02-11 04:17:32**
 
 ## Newspaper Stats
 
-*Scraped **6,195** Articles*
+*Scraped **6,196** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 321
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 514
-tamilmirrorlk | 748
+tamilmirrorlk | 749
 adaderanalk | 769
 virakesarilk | 769
 adaderanasinhalalk | 840
@@ -26,9 +26,29 @@ dailymirrorlk | 906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,195 (100.0%) of 6,195 articles have been extended.
+6,195 (100.0%) of 6,196 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-02-11 (Sunday)
+
+### அவுஸ்ரேலிய துணைத் தூதரகத்திற்கு ஜனாதிபதி விஜயம்
+
+*2024-02-11 03:46:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுஸ்ரேலிய-துணைத்-தூதரகத்திற்கு-ஜனாதிபதி-விஜயம்/175-332989) · `ta`
+
+7 ஆவது இந்து சமுத்திர மாநாட்டில் பங்கேற்பதற்காக அவுஸ்ரேலியாவின் பேர்த் நகருக்குச் சென்றுள்ள ஜனாதிபதி ரணில் விக்ரமசிங்க, மேற்கு அவுஸ்ரேலியாவில் உள்ள இலங்கை துணைத் தூதரகத்துக்கு நேற்று (10) விஜயம் செய்தார்.
+
+தூதரகத்திற்கு வருகை தந்த ஜனாதிபதியை கொன்சல் ஜெனரல் கலாநிதி ரொஷ் ஜலக்கே மற்றும் திருமதி பிரியங்கா கமகே ஆகியோர் வரவேற்றனர்.
+
+அதன் பின்னர், கொன்சல் ஜெனரல் மற்றும் ஊழியர்களுடன் ஜனாதிபதி சிநேகபூர்வமாக உரையாடியதுடன், இலங்கையின் பொருளாதாரத்தை மீளக் கட்டியெழுப்பும் நடவடிக்கையில் அவர்கள் ஆற்றக்கூடிய செயலூக்கமான பங்களிப்பு குறித்தும் விரிவான கவனம் செலுத்தப்பட்டது.
+
+இந்நிகழ்வில் தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்கவும் கலந்துகொண்டார். (a)
+
+◼️
+
+[Data](articles/ee15d95f.json)
+
+---
 
 ### 2024-02-10 (Saturday)
 
@@ -2091,23 +2111,5 @@ The conference was organized by the Indian Foreign Ministry and the Australian g
 [Data](articles/c93199f2.json)
 
 [Extended Data](ext_articles/c93199f2.ext.json)
-
----
-
-### Increased allowances for police officers from next week
-
-*2024-02-10 09:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Increased-allowances-for-police-officers-from-next-week/108-276727) · `en`
-
-Colombo, Feb 10 (Daily Mirror) -The food, travel and accommodation allowance for police personnel which were increased by the 2024 budget will be paid at the beginning of next week, Finance State Minister Ranjith Siyambalapitiya said.
-
-In addition to the allowances received so far, half of the allowance increased by the budget will be paid immediately, the minister said.
-
-The allowance of Rs. 17,000 for junior officers is to be increased by Rs. 11,800, and 50% of this is to be paid immediately, the minister further said.
-
-◼️
-
-[Data](articles/3ec83ac7.json)
-
-[Extended Data](ext_articles/3ec83ac7.ext.json)
 
 ---

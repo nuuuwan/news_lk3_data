@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 01:02:21**
+As of **2024-02-11 01:17:18**
 
 ## Newspaper Stats
 
-*Scraped **6,192** Articles*
+*Scraped **6,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 75
 bbccomsinhala | 86
 dbsjeyarajcom | 145
 islandlk | 317
-economynextcom | 318
+economynextcom | 321
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 514
@@ -26,7 +26,7 @@ dailymirrorlk | 906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,191 (100.0%) of 6,192 articles have been extended.
+6,192 (100.0%) of 6,195 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -289,6 +289,26 @@ A program to educate community police committee members of the Panadura Division
 [Data](articles/12e44250.json)
 
 [Extended Data](ext_articles/12e44250.ext.json)
+
+---
+
+### Sri Lanka’s monthly tourism revenue hits highest since February 2020
+
+*2024-02-10 21:12:00* · [`economynextcom`](https://economynext.com/sri-lankas-monthly-tourism-revenue-hits-highest-since-february-2020-150575/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s monthly tourism revenue hit a four-year high in January 2024, official provisional data showed, the highest since February 2020 with the island nation’s hospitality industry has focused on earning more foreign exchange after an unprecedented economic crisis.
+
+The tourism revenues in January recorded $341.8 million, more than doubled from a year earlier, as the arrivals have gradually picked up.
+
+The island nation, populour for nature tourism as a lower cost, last saw above the January tourism revenue in February 2020 with an inflow of $391.1 million, the central bank data showed.
+
+However, COVID pandemic followed by the economic crisis hit the industry and forced foreign visitors to choose other tourist destination.
+
+The tourism revenue numbers are based on a survey conducted by the tourism promotion office and released by the central bank. In the past, the central bank has reduced the revenue figures sharply with more accurate data.
+
+...
+
+[Data](articles/aa39a178.json)
 
 ---
 
@@ -590,6 +610,26 @@ It is noteworthy that the Kala Master's concert was organized as Khushboo did no
 
 ---
 
+### Land deeds for plantation families too: Minister
+
+*2024-02-10 18:34:00* · [`economynextcom`](https://economynext.com/land-deeds-for-plantation-families-too-minister-150571/) · `en`
+
+ECONOMYNEXT – A process to award 10 perches of land on a freehold basis to every family living in the plantations was set in motion, Water Supply and Estate Infrastructure Minister Jeevan Thondaman has said.
+
+“Only about 8 percent of plantation families own their homes, compared to the national average of 86%. We will correct this historical injustice,” Thondaman said after a meeting at Temple Trees with the Secretary to the Prime Minister, which was attended by government officials, regional plantation companies, and civil society representatives, on Friday (9).
+
+“We defined the procedures for identifying suitable lands and beneficiaries, mapping, surveying, preparing deeds, and distributing titles to all plantation families.
+
+3. ⁠Rs 4 billion has been allocated by the President for this programme.
+
+“For 200 years, the plantation community, who has contributed so much to our economy, has not enjoyed the simple security of having a place to live,” Thondaman said.
+
+...
+
+[Data](articles/a76cd235.json)
+
+---
+
 ### Customs nab airport cleaner trying to smuggle out gold worth Rs.58 Mn
 
 *2024-02-10 18:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Customs-nab-airport-cleaner-trying-to-smuggle-out-gold-worth-Rs-58-Mn/108-276745) · `en`
@@ -621,6 +661,8 @@ The spotlight is now on SCOTUS, the Supreme Court of the United States. The Cour
 ...
 
 [Data](articles/874dae88.json)
+
+[Extended Data](ext_articles/874dae88.ext.json)
 
 ---
 
@@ -1183,6 +1225,28 @@ He also said that he had already complained to the Computer Criminal Investigati
 [Data](articles/1a75ea97.json)
 
 [Extended Data](ext_articles/1a75ea97.ext.json)
+
+---
+
+### Growth in Sri Lanka’s official remittances slows to 16-month low
+
+*2024-02-10 15:07:00* · [`economynextcom`](https://economynext.com/growth-in-sri-lankas-official-remittances-slows-to-16-month-low-150568/) · `en`
+
+ECONOMYNEXT – Growth in Sri Lanka’s remittances coming through official channels slowed to a 16-month low in January after it showed more than 80 percent following the central bank’s improved exchange rate policy.
+
+The year-on-year remittance growth was 11.4 percent in January, the central bank data showed.
+
+Sri Lanka saw less than the January growth in monthly remittances in September 2022 when it showed a gain of 1.7 percent. Since then Sri Lanka witnessed a booming remittance growth.
+
+In January 2024, remittances went up to $487.6 million from $437.5 million in the same month a year earlier.
+
+The remittances, Sri Lanka’s top foreign exchange earner, dropped to less than $250 million a month in early 2022 when the island nation’s economy saw a parallel exchange rate amid booming hawala and undiyal measures which foreign workers switched to send money at a higher exchange rate.
+
+The remittances jumped 57 percent to its four-year high of $5.97 billion in 2023, from $3.8 billion a year earlier.
+
+...
+
+[Data](articles/1677d1f0.json)
 
 ---
 
@@ -2039,57 +2103,5 @@ The allowance of Rs. 17,000 for junior officers is to be increased by Rs. 11,800
 [Data](articles/3ec83ac7.json)
 
 [Extended Data](ext_articles/3ec83ac7.ext.json)
-
----
-
-### Indian Foreign Minister - President Meeting
-
-*2024-02-10 09:19:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-வெளிவிவகார-அமைச்சர்-ஜனாதிபதி-சந்திப்பு/175-332965) · `ta`
-
-Indian External Affairs Minister Dr. Subramanian Jaishankar met President Ranil Wickremesinghe in Perth Nagar yesterday evening.
-
-At this time, focus on the progress of bilateral projects with India. Remble
-
-◼️
-
-[Data](articles/342d0d05.json)
-
-[Extended Data](ext_articles/342d0d05.ext.json)
-
----
-
-### Ranil Wickremesinghe has taken steps to build the country in a short time - Vajira Abeywardena
-
-*2024-02-10 09:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176015) · `ta`
-
-United National Party (UNP) Member Vajira Abeywardena said that Ranil Wickremesinghe had built a bank that had been bankrupt and strengthen the economy of the country that had fallen for years rather than that of each of the leaders who ruled the country for many years.
-
-He said this while addressing a debate on the President's policy speech on Friday (09) in Parliament.
-
-Ranil Wickremesinghe took the responsibility of protecting the country and building the economy at the time of the country's bankruptcy.. இந்த பொறுப்பை யாரும் ஏற்றுக்கொள்ள முன்வராத நிலையில், ரணில் விக்ரமசிங்க முன்வந்து, இந்த பாரிய பொறுப்பை நிறைவேற்ற அனைவரின் ஒத்துழைப்பும் அவசியம் என கேட்டுக்கொண்டிருந்தார். However, amidst various challenges, he has rescued the country in bankruptcy and has taken steps to develop the country's economy.
-
-...
-
-[Data](articles/41de726c.json)
-
-[Extended Data](ext_articles/41de726c.ext.json)
-
----
-
-### Imran Khan says he won the election
-
-*2024-02-10 09:12:41* · [`adalk`](https://www.ada.lk/breaking_news/තමා-මැතිවරණය-දිනූ-බව-ඉම්රාන්-ඛාන්-කියයි/11-407990) · `si`
-
-Former Prime Minister Imran Khan says he won the general revelation in Pakistan and celebrating it. He is asked to support his supporters to celebrate that victory.Imran Khan is in jail.
-
-According to the election results, more than most of the organizations that have been published in the Imran Khan has won the most independent candidates involved.
-
-However, a former Prime Minister also stated that the party has become the largest party and that the party has become the biggest party and invites other parties to the other parties.
-
-◼️
-
-[Data](articles/1e1576cb.json)
-
-[Extended Data](ext_articles/1e1576cb.ext.json)
 
 ---

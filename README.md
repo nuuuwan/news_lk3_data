@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 15:17:34**
+As of **2024-02-10 15:32:45**
 
 ## Newspaper Stats
 
-*Scraped **6,127** Articles*
+*Scraped **6,128** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 342
 newsfirstlk | 363
 adalk | 507
 tamilmirrorlk | 743
-adaderanalk | 757
+adaderanalk | 758
 virakesarilk | 766
 adaderanasinhalalk | 825
 dailymirrorlk | 886
@@ -26,11 +26,29 @@ dailymirrorlk | 886
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,126 (100.0%) of 6,127 articles have been extended.
+6,127 (100.0%) of 6,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### 200 renovated buses added to SLTB fleet
+
+*2024-02-10 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97164/200-renovated-buses-added-to-sltb-fleet) · `en`
+
+Sri Lanka Transport Board (SLTB) passenger bus fleet has been boosted by adding 200 renovated busses at an event held under the patronage of Prime Minister Dinesh Gunawardena on Friday (Feb.09).
+
+The event took place near Japan Sri Lanka Friendship Road, adjacent to the Parliament complex, the Prime Minister’s Office (PMO) said in a statement.
+
+“These busses were discarded and taken out of service earlier. They were fully renovated under the concept by Minister of Transport, Highways and Mass Media, Dr. Bandula Gunawardena.”
+
+Engineers and technicians from 107 SLTB depots and 11 regional work stations across the island have renovated these buses, the PMO added.
+
+◼️
+
+[Data](articles/bc0d7656.json)
+
+---
 
 ### Imran Khan reports that Pakistan election
 
@@ -153,6 +171,8 @@ Other airports being offered are Ratmalana Airport in Colombo and Mattala Airpor
 ...
 
 [Data](articles/9d3d8d63.json)
+
+[Extended Data](ext_articles/9d3d8d63.ext.json)
 
 ---
 
@@ -1981,25 +2001,5 @@ India confirmed their spot in the final after beating hosts South Africa by two 
 [Data](articles/8ee16923.json)
 
 [Extended Data](ext_articles/8ee16923.ext.json)
-
----
-
-### A passenger train interferes with the fleet of fleet
-
-*2024-02-09 21:30:34* · [`adalk`](https://www.ada.lk/breaking_news/මගි-ප්‍රවාහන-දුම්රියක්-පිලි-පැනීීමෙන්උඩරට-දුම්රිය-ගමනයට-බාධා/11-407989) · `si`
-
-The Nawalapitiya Railway Control Room said that 779 passengers and freight railway cleared from Nawalapitiya to Nanuo.
-
-The Railway Control Room stated that between the 102 miles post on the Upcountry Railway Station (9) at around 5 pm, the railway control room said.
-
-Hatton trains will be operated from Colombo to Badulla to the Hatton Railway Station from Colombo to Colombo until the motorcycle train from Badulla and from Eightboards to Colombo to Colombo.Said an officer at a location.
-
-The railway line has been severely damaged by railway clergy.
-
-◼️
-
-[Data](articles/9a5443d5.json)
-
-[Extended Data](ext_articles/9a5443d5.ext.json)
 
 ---

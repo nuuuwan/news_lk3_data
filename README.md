@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 22:17:21**
+As of **2024-02-10 22:32:55**
 
 ## Newspaper Stats
 
-*Scraped **6,170** Articles*
+*Scraped **6,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 318
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 511
-tamilmirrorlk | 745
-adaderanalk | 766
+tamilmirrorlk | 746
+adaderanalk | 767
 virakesarilk | 769
 adaderanasinhalalk | 838
 dailymirrorlk | 896
@@ -26,11 +26,29 @@ dailymirrorlk | 896
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,170 (100.0%) of 6,170 articles have been extended.
+6,170 (100.0%) of 6,172 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### Another child injured by fallen tree dies after 5-day battle for life
+
+*2024-02-10 22:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97172/another-child-injured-by-fallen-tree-dies-after-5-day-battle-for-life) · `en`
+
+Another child, who was critically injured after a tree collapsed at an international school in Gampola earlier this week, has died.
+
+He was fighting for lift in the National Hospital in Kandy for over 5 days, but eventually succumbed to injuries this morning (Feb.10).
+
+On Monday (Feb.05), a tree collapsed on to three children in the school premises. A five-year-old child was reported dead at the scene and the other two were rushed to the Gampola Base Hosptial for immediate medical attention.
+
+One of them, who was in critical condition, was later transferred to the National Hospital in Kandy.
+
+◼️
+
+[Data](articles/bc7bd52d.json)
+
+---
 
 ### Palabari will be begged
 
@@ -103,6 +121,26 @@ As a result, the house in the Wekanda area in Mulleriyawa has been repaired rece
 [Data](articles/74cc1bb0.json)
 
 [Extended Data](ext_articles/74cc1bb0.ext.json)
+
+---
+
+### திடீரென சீதை அம்மன் கோயிலுக்கு படையெடுக்கும் பக்தர்கள்
+
+*2024-02-10 20:26:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-சீதை-அம்மன்-கோயிலுக்கு-படையெடுக்கும்-பக்தர்கள்/175-332973) · `ta`
+
+அயோத்தியில் ராமர் கோயில் திறப்புக்குப் பிறகு இலங்கையில் உள்ள சீதை அம்மன் கோயிலில் பக்தர்கள் வருகை அதிகரித்துள்ளதாக இந்திய ஊடகம் ஒன்று செய்தி வெளியிட்டுள்ளது.
+
+இராமாயணத்தில் ராமர், சீதை, லட்சுமணர் ஆகியோர் வனவாசம் சென்றபோது, சீதையைக் கவர்ந்த இலங்கை மன்னன் ராவணன், இலங்கையில் உள்ள அசோக வனத்தில் சீதையை சிறைவைத்தார்.
+
+சீதை இருந்த அசோகவனம், தற்போது இலங்கையில்`சீதா எலிய' என அழைக்கப்படுகிறது. இலங்கையில் நுவரெலியா நகரில் இருந்து 5 கி.மீ. தொலைவில் "சீதா எலிய"அமைந்துள்ளது.
+
+இந்தப் பகுதி காடு,ஆறு, மலைகள் சூழ, இயற்கை எழில்கொஞ்சும் இடமாகவும், உலக அளவில் சுற்றுலாப் பயணிகளை ஈர்க்கக் கூடியதாகவும் உள்ளது. இங்கு சீதையை மூலவராகக் கொண்ட, பிரசித்தி பெற்ற சீதை அம்மன் கோயில் உள்ளது.
+
+இந்தக் கோயில் அருகே ஓடும் ஆற்றில் சீதை நீராடினார் என்பதால், இதற்கு சீதா ஆறு என்று பெயர். இலங்கையில் சீதையை தேடி வந்தஅனுமார், முதன்முதலில் சீதையை சந்திப்பதுபோல, இந்த ஆற்றங்கரையில் சிலை அமைந்துள்ளது.
+
+...
+
+[Data](articles/3afae233.json)
 
 ---
 
@@ -2027,45 +2065,5 @@ The final draft of the new law titled ‘Non-governmental Organizations (Registr
 [Data](articles/b687b57a.json)
 
 [Extended Data](ext_articles/b687b57a.ext.json)
-
----
-
-### Electricity exploding
-
-*2024-02-10 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193195) · `si`
-
-A man was covered with electrification in a house in Levellanwatta area.
-
-The victim was a 38-year-old resident of the same area.
-
-The person's home was disconnected, and it was taken to obtain electricity from a nearby house.
-
-Investigations carried out by the police have revealed that the person had died in the event.
-
-◼️
-
-[Data](articles/ab493b70.json)
-
-[Extended Data](ext_articles/ab493b70.ext.json)
-
----
-
-### 15 hours water cut
-
-*2024-02-10 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193194) · `si`
-
-A few parts of Colombo will be suspended today.
-
-The Board stated that the water cut in Colombo 11, 12, 13 and 15.
-
-The water supply will be imposed from 5.00 am to 8.00 am tomorrow.
-
-Water Supply and Drainage Board (Water Supply and Drainage Board) have stated that the water cut will be suspended due to essential maintenance project in the Ambatale Water Treatment Plant.
-
-◼️
-
-[Data](articles/21186f35.json)
-
-[Extended Data](ext_articles/21186f35.ext.json)
 
 ---

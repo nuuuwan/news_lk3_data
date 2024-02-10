@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 11:51:37**
+As of **2024-02-10 12:02:21**
 
 ## Newspaper Stats
 
-*Scraped **6,106** Articles*
+*Scraped **6,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ tamilmirrorlk | 739
 adaderanalk | 755
 virakesarilk | 761
 adaderanasinhalalk | 821
-dailymirrorlk | 881
+dailymirrorlk | 882
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,106 (100.0%) of 6,106 articles have been extended.
+6,107 (100.0%) of 6,107 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -76,7 +76,7 @@ Therefore, a program to clarify health workers on the rights of professional rig
 
 ### Voice of the voice of the voiceless
 
-*2024-02-10 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176026) · `ta`
+*2024-02-10 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176026) · `ta`
 
 The Jaffna Court of Jaffna was granted a warrant for the activist of the voice organization of the voice of the voice.
 
@@ -89,6 +89,26 @@ No invitation has been given to me to come to the law. But it was reported that 
 [Data](articles/3bd64481.json)
 
 [Extended Data](ext_articles/3bd64481.ext.json)
+
+---
+
+### Trump vows to undo Biden gun restrictions if re-elected
+
+*2024-02-10 10:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Trump-vows-to-undo-Biden-gun-restrictions-if-re-elected/108-276734) · `en`
+
+(Reuters) - Former President Donald Trump, the Republican frontrunner in the 2024 presidential race, said on Friday he had firmly protected gun rights while in the White House and vowed if re-elected to undo all restrictions enacted by President Joe Biden.
+
+Speaking to thousands of supporters at an event organized by the National Rifle Association (NRA), Trump promised to rescind a rule curbing sales of gun accessories known as pistol braces and other regulations put in place by the Biden administration.
+
+"Every single Biden attack on gun owners and manufacturers will be terminated my very first week back in office, perhaps my first day," Trump said in a speech at the Great American Outdoor show in Harrisburg, the capital of Pennsylvania.
+
+The NRA enthusiastically backed Trump during the 2016 race and throughout his administration, cheering him on as he appointed three conservative justices to the Supreme Court and adopted a series of steps sought by the influential gun lobby.
+
+...
+
+[Data](articles/2d8de5c7.json)
+
+[Extended Data](ext_articles/2d8de5c7.ext.json)
 
 ---
 
@@ -1981,23 +2001,5 @@ In the meantime, Afghanistan are bowled out for 382 runs. Remble
 [Data](articles/9ba9e239.json)
 
 [Extended Data](ext_articles/9ba9e239.ext.json)
-
----
-
-### Hill rail traffic impact
-
-*2024-02-09 19:13:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-ரயில்-போக்குவரத்து-பாதிப்பு/175-332946) · `ta`
-
-The Navalapitiya Railway Control Room has said that the train traffic from Nawalapitiya to Nanuoya has been blocked due to the derailment of the freight train.
-
-The train's engine and a box derailed at 5:00 pm today.
-
-Subsequently, trains from Colombo to Badulla will be operated from the Vattawala Railway Station and the trains from Badulla to Colombo will be operated from Hatton Station, a Hatton Station official said.. (Of)
-
-◼️
-
-[Data](articles/f6d88d58.json)
-
-[Extended Data](ext_articles/f6d88d58.ext.json)
 
 ---

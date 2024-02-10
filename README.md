@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 00:17:20**
+As of **2024-02-11 00:33:08**
 
 ## Newspaper Stats
 
-*Scraped **6,187** Articles*
+*Scraped **6,191** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,101 @@ economynextcom | 318
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 514
-tamilmirrorlk | 746
-adaderanalk | 768
+tamilmirrorlk | 748
+adaderanalk | 769
 virakesarilk | 769
 adaderanasinhalalk | 840
-dailymirrorlk | 905
+dailymirrorlk | 906
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,187 (100.0%) of 6,187 articles have been extended.
+6,187 (99.9%) of 6,191 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### காணி தகராறில் ஒருவர் சுட்டுக்கொலை
+
+*2024-02-10 23:36:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணி-தகராறில்-ஒருவர்-சுட்டுக்கொலை/175-332988) · `ta`
+
+புத்தளம் - மஹகும்புக்கடவல, செம்புகுளிய பிரதேசத்தில் இன்று (10) பிற்பகல் இடம்பெற்ற   துப்பாக்கிச் சூட்டில் ஒருவர் உயிரிழந்துள்ளார்.
+
+சம்பவத்தில் காயமடைந்த நபர் புத்தளம் வைத்தியசாலையில் அனுமதிக்கப்பட்டு பின்னர் மேலதிக சிகிச்சைகளுக்காக கொழும்பு தேசிய வைத்தியசாலைக்கு மாற்றப்பட்டிருந்த நிலையில், சிகிச்சை பலனின்றி உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+காணி தகராறு காரணமாக துப்பாக்கிச் சூடு நடத்தப்பட்டுள்ளதாகவும், சம்பவம் தொடர்பில் சந்தேக நபர் கைது செய்யப்பட்டுள்ளதாகவும் பொலிஸார் குறிப்பிட்டனர். R
+
+◼️
+
+[Data](articles/a602ef41.json)
+
+---
+
+### 35 வருடங்களுக்குப் பின் கைதாகிய மரண தண்டனை கைதி
+
+*2024-02-10 23:33:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/35-வருடங்களுக்குப்-பின்-கைதாகிய-மரண-தண்டனை-கைதி/175-332987) · `ta`
+
+கொலையொன்றைச் செய்து விட்டு மரண தண்டனை விதிக்கப்பட்ட நிலையில் 35 வருடங்களாக தலைமறைவாக இருந்த பெண்ணொருவர் கைது செய்யப்பட்டுள்ளார்.
+
+குற்றப் புலனாய்வுத் திணைக்களத்தின் படுகொலை மற்றும் ஒழுங்கமைக்கப்பட்ட குற்றப் புலனாய்வுப் பிரிவினரால் இவர் கைது செய்யப்பட்டுள்ளார்.
+
+1989 ஆம் ஆண்டு அத்துருகிரிய வெல்லவ பிரதேசத்தில் இலங்கை மின்சார சபை தர பரிசோதகர் ஒருவர் படுகொலை செய்யப்பட்டமை தொடர்பில் முன்னெடுக்கப்பட்ட விசாரணைகளில்,
+
+30 வயது மதிக்கத்தக்க பெண் மின்சார சபையில் ஆங்கில தட்டச்சராக பணியாற்றி வந்ததும், கொலை செய்யப்பட்ட நபருடன் தவறான தொடர்பு வைத்திருந்ததும் தெரியவந்தது.
+
+1989 ஆம் ஆண்டு ஒரு குறிப்பிட்ட நாளில், இது தொடர்பான உறவு தனது கணவருக்குத் தெரியவந்ததையடுத்து, அந்த பெண் தனது கள்ளக்காதலரை அத்துருகிரிய, வெல்லவயில் உள்ள தனது வீட்டிற்கு அழைத்துள்ளார்.
+
+அங்கு கணவருடன் சேர்ந்து கள்ளக்காதலரை துண்டு துண்டுகளாக வெட்டி கொலை செய்து பீப்பாயிலிட்டு கிணற்றில் போட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+இதனையடுத்து, கணவன்-மனைவி இருவரும் 6 மாதங்கள் விளக்கமறியலில் வைக்கப்பட்டு பின்னர் பிணையில் விடுவிக்கப்பட்டனர்.
+
+...
+
+[Data](articles/206a059b.json)
+
+---
+
+### President Ranil visits Sri Lankan Consulate in Western Australia
+
+*2024-02-10 23:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97174/president-ranil-visits-sri-lankan-consulate-in-western-australia-) · `en`
+
+President Ranil Wickremesinghe, currently in Perth, Australia to attend the 7th Indian Ocean Summit, engaged in an inspection visit to the Sri Lankan Consulate in Western Australia today (10).
+
+Upon arrival at the Consulate, President Wickremesinghe was warmly received by Hon. Consul Dr. Rosh Jalagge and Mrs. Priyanka Gamage.
+
+This meeting provided an invaluable opportunity to discuss shared interests between the Consulate and the Sri Lankan community in Western Australia, with a particular focus on advancing economic development initiatives in Sri Lanka.
+
+In recognition of the visit, Hon. Consul Dr. Rosh Jalagge presented memento to President Ranil Wickremesinghe.
+
+The visit concluded with a group photo session involving the President, Consul General, and consulate staff.
+
+The Senior Adviser to the President on National Security and Chief of Presidential Staff, Sagala Ratnayaka, accompanied the President during this visit
+
+◼️
+
+[Data](articles/53e84d4b.json)
+
+---
+
+### Adani Group may run three Sri Lankan airports ?
+
+*2024-02-10 23:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Adani-Group-may-run-three-Sri-Lankan-airports/108-276758) · `en`
+
+Mumbai, Feb 10 (Businessline) - Adani Group is negotiating with Sri Lankan authorities to manage three airports in the island nation, including its premier international gateway, Bandarnaike International Airport in Colombo.
+
+Sri Lanka’s minister for tourism, land, sports, and youth affairs, Harin Fernando, said on Friday that modalities are being discussed between the two sides and could involve management contracts as well.
+
+Other airports being offered are Ratmalana Airport in Colombo and Mattala Airport, the latter earning the tag of the world’s emptiest international airport seven years ago.
+
+“There are plans to work with Adani Group for the management of airports,” Fernando told businessline on the sidelines of the OTM travel show in Mumbai.
+
+...
+
+[Data](articles/3b29958d.json)
+
+---
 
 ### ’For me to be back I must contest’: President on Presidential election
 
@@ -2009,81 +2089,5 @@ Earlier this week, the investigating officers managed to arrest four other suspe
 [Data](articles/977bd141.json)
 
 [Extended Data](ext_articles/977bd141.ext.json)
-
----
-
-### Several injured during Hariharan’s concert in Jaffna
-
-*2024-02-10 09:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Several-injured-during-Hariharans-concert-in-Jaffna/108-276732) · `en`
-
-Jaffna, Feb 10 (Daily Mirror) - Several people were reportedly injured during the concert conducted by popular Indian singer Hariharan at the Muttraveli Stadium in Jaffna last night, the police said.
-
-The Hariharan Live in Concert and Star Night was held yesterday at the Muttraveli Stadium.
-
-A large number of people who came to see the concert tried to enter the area despite police protection.
-
-It is said that many film actresses and actors, including South Indian film actress Tamanna Bhatia and Ramba, also participated in the show.
-
-◼️
-
-[Data](articles/ccf594e7.json)
-
-[Extended Data](ext_articles/ccf594e7.ext.json)
-
----
-
-### Will the government be responsible for the impact of national security by the sale of companies related to national security, including telecom?- Leader of the opposition
-
-*2024-02-10 09:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176014) · `ta`
-
-Opposition Leader Sajith Premadasa said the government would be responsible for the impact of national security by reconstructing the rights of Sri Lanka Telecom from the government to the outside company.
-
-He said this at the time of the Question Time under the Standing Ordinance of Parliament on Friday (09).
-
-The government should focus on reducing the operational expenses of the currently profitable companies based on the restoration of public companies and the new management program.
-
-To reorganize companies running at a loss. However, profit -making companies have to go to a more profitable system. I urge you to submit the report to the council if the assessment report made on the reorganization of their controlled companies, including the telecom and insurance company, has been submitted through the unit set up for public companies.
-
-...
-
-[Data](articles/3a344361.json)
-
-[Extended Data](ext_articles/3a344361.ext.json)
-
----
-
-### Another talk about the murder of monks
-
-*2024-02-10 09:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193201) · `si`
-
-A hand grenade and a pistol have been found in a suspect arrested in a monk shooting at a monk in Hiripitiya area in Malwathu.
-
-Another suspect arrested by the Western and Northern Crimes Division, the grenade and pistol was reported.
-
-◼️
-
-[Data](articles/e532da60.json)
-
-[Extended Data](ext_articles/e532da60.ext.json)
-
----
-
-### President Ranil meets with India’s foreign minister while in Australia
-
-*2024-02-10 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97157/president-ranil-meets-with-indias-foreign-minister-while-in-australia) · `en`
-
-President Ranil Wickremesinghe and India’s External Affairs Minister Dr. S. Jaishankar held bilateral discussions on Friday (Feb.09) on the sidelines of the 7th Indian Ocean Conference in Perth, Australia.
-
-The two sides have recognized the progress in bilateral cooperation and resolved to continue deepening them.
-
-The Sri Lankan leader embarked on a visit to Australia on Thursday morning (Feb.08) at the invitation of India Foundation and the Government of Australia to attend the conference.
-
-The event, themed “Towards a Stable and Sustainable Indian Ocean,” aims to foster cooperation among 40 participating nations. President Wickremesinghe’s participation reflects Sri Lanka’s proactive stance towards regional stability and development.
-
-...
-
-[Data](articles/b0f942fd.json)
-
-[Extended Data](ext_articles/b0f942fd.ext.json)
 
 ---

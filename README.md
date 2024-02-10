@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 10:32:45**
+As of **2024-02-10 10:49:46**
 
 ## Newspaper Stats
 
@@ -26,47 +26,51 @@ dailymirrorlk | 879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,093 (100.0%) of 6,095 articles have been extended.
+6,095 (100.0%) of 6,095 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
 
-### සැකකරුවන් දෙදෙනෙකු එස්ටීඑෆ් අත්අඩංගුවට
+### Two suspects arrested with STF
 
 *2024-02-10 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193203) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් බවට සැක කරන පුද්ගලයින් දෙදෙනෙකු පොලිස් විශේෂ කාර්ය බළකාය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+Two suspects have been arrested by the STF, suspected to be organized criminal gang members.
 
-පොලීසිය පැවසුවේ, දැඩිගමුව හා හංවැල්ල ප්‍රදේශවල සිදු කළ මෙහෙයුමක දී විදේශගත ව සිටින සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙකුගේ අනුගාමිකයින් සමඟ සමීප සබඳතා පවත්වන අපරාධ කල්ලි සාමාජිකයින් බවට සැකකරන පුද්ගලයින් දෙදෙනෙකු අත්අඩංගුවට ගැනීමට හැ කිවූ බවයි.
+Police said that two suspects were arrested by the criminal criminal group of organized criminal groups abroad in the operation in the Deligamuwa and Hanwella.
 
-අත්අඩංගුවට ගෙන ඇත්තේ 24 හා 37 හැවිරිදි වියේ පසු වන පාදුක්ක හා හංවැල්ල ප්‍රදේශයේ පදංචිකරුවන් දෙදෙනෙකි.
+Two persons were arrested in Padukka and Hanwella, who was 24 and 37 years old.
 
-සැකකරුවන් සතු ව තිබී අනන්‍යතාව තහවුරු කර ගැනීමට නොහැකි වූ යතුරුපැදි 02ක්, තවත් යතුරුපැදි අංක තහඩු දෙකක් හා ජංගම දුරකථන 02ක් විමර්ශන නිලධාරීන් භාරයට ගෙන ඇත.
+Two motorcycles, two motorcycle number plates and two mobile phones were taken into custody.
 
-සැකකරුවන් වැඩිදුර විමර්ශන කටයුතු සඳහා අතුරුගිරිය පොලිස් ස්ථානය වෙත භාර දි තිබේ.
+The suspects have been handed over to Athurugiriya Police for further investigations.
 
 ◼️
 
 [Data](articles/7ee7c243.json)
 
+[Extended Data](ext_articles/7ee7c243.ext.json)
+
 ---
 
-### ජෙට් යානා අනතුරකින් දෙදෙනෙකු මරුට
+### Two killed in jets
 
 *2024-02-10 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193202) · `si`
 
-ෆ්ලොරිඩා ප්‍රාන්තයේ දී පෞද්ගලික ජෙට් යානයක් අධිවේගී මාර්ගයකට කඩා වැටීමෙන් පුද්ගලයන් දෙදෙනෙකු මිය ගොස් තිබේ.
+Two persons have killed two persons who have collapsed in a private jet in Florida.
 
-විදෙස් වාර්තා සඳහන් කළේ, ජෙට් යානය අනතුරට ලක් වන විට පුද්ගලයින් පස් දෙනෙකු එහි ගමන් කර ඇති බවයි.
+According to foreign reports, five people were traveling there when the jet was crashed.
 
-ජෙට් යානය අධිවේගී මාර්ගයකට කඩා වැටීමත් සමඟ පුද්ගලයින් තිදෙනෙකුගේ දිවි බේරා ගැනීමට ගලවා ගැනීමේ කණ්ඩායම් සමත් ව ඇත.
+With the collapse of the jet, the rescue teams have been able to save three people.
 
-ගුවන් යානය නේපල්ස් නාගරික ගුවන්තොටුපොළට ගොඩබෑමට මිනිත්තු දෙකකට පෙර, ගුවන් නියමුවා විසින් ගමනාගමන පාලකවරයාට යානයේ එන්ජිම ක්‍රියාවිරහිත වී ඇති බව දන්වා හදිසි ගොඩබෑමක් අවශ්‍ය බව පවසා ඇති බව විදෙස් වාර්තා සඳහන් කරයි.
+Two minutes before the airplane landed at the Naples urban airport, the pilot had requested an urgent landing.
 
 ◼️
 
 [Data](articles/2a0bc12c.json)
+
+[Extended Data](ext_articles/2a0bc12c.ext.json)
 
 ---
 

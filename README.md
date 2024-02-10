@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 23:33:00**
+As of **2024-02-10 23:51:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 905
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,177 (99.8%) of 6,187 articles have been extended.
+6,187 (100.0%) of 6,187 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ When queried about the Sri Lankan government’s decision to not allow the visit
 
 [Data](articles/fcc9c7b4.json)
 
+[Extended Data](ext_articles/fcc9c7b4.ext.json)
+
 ---
 
 ### Palestinians brace for Rafah assault as Israel promises evacuation plan
@@ -67,6 +69,8 @@ Unlike in previous Israeli assaults on cities during the war, when the military 
 ...
 
 [Data](articles/bd3b4a85.json)
+
+[Extended Data](ext_articles/bd3b4a85.ext.json)
 
 ---
 
@@ -172,6 +176,8 @@ While signing a Memorandum of Understanding (MoU) with the National Civil Organi
 
 [Data](articles/a5fee079.json)
 
+[Extended Data](ext_articles/a5fee079.ext.json)
+
 ---
 
 ### Suspect arrested with social media
@@ -246,6 +252,8 @@ Initial investigations revealed that the shooting in Puttalam was over a land di
 
 [Data](articles/845c222c.json)
 
+[Extended Data](ext_articles/845c222c.ext.json)
+
 ---
 
 ### India’s Unified Payments Interface to be launched on Monday: Ali Sabry
@@ -262,6 +270,8 @@ Perth, Feb. 10 (WION)- India's Unified Payments Interface (UPI) will be launched
 
 [Data](articles/edd9465d.json)
 
+[Extended Data](ext_articles/edd9465d.ext.json)
+
 ---
 
 ### ‘We need international support to achieve desired transformation’: Anura Kumara
@@ -277,6 +287,8 @@ Speaking to the media at the Bandaranaike International Airport (BIA) on his ret
 ...
 
 [Data](articles/cf94bf05.json)
+
+[Extended Data](ext_articles/cf94bf05.ext.json)
 
 ---
 
@@ -400,6 +412,8 @@ Police said the deceased was a 5-year-old child and a resident of Gampola.
 
 [Data](articles/5f7c482b.json)
 
+[Extended Data](ext_articles/5f7c482b.ext.json)
+
 ---
 
 ### Awareness for Arabian leopard protection raised in Colombo
@@ -417,6 +431,8 @@ A number of senior Ministers, Government Officials, Heads of Missions of Arab co
 ◼️
 
 [Data](articles/cb4474e2.json)
+
+[Extended Data](ext_articles/cb4474e2.ext.json)
 
 ---
 
@@ -552,6 +568,8 @@ Qureshi, who is also in prison facing charges in other cases, will not be releas
 
 [Data](articles/36cc5da1.json)
 
+[Extended Data](ext_articles/36cc5da1.ext.json)
+
 ---
 
 ### Hopes AKD makes positive statements on his tour and bring investors to country
@@ -593,6 +611,8 @@ It is very common to see political parties visit India every month, but this is 
 ...
 
 [Data](articles/84b606dd.json)
+
+[Extended Data](ext_articles/84b606dd.ext.json)
 
 ---
 

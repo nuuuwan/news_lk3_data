@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 16:17:13**
+As of **2024-02-10 16:32:58**
 
 ## Newspaper Stats
 
-*Scraped **6,135** Articles*
+*Scraped **6,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,15 +18,15 @@ newsfirstlk | 363
 adalk | 509
 tamilmirrorlk | 743
 adaderanalk | 760
-virakesarilk | 766
+virakesarilk | 767
 adaderanasinhalalk | 827
-dailymirrorlk | 886
+dailymirrorlk | 890
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,135 (100.0%) of 6,135 articles have been extended.
+6,135 (99.9%) of 6,140 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -114,6 +114,54 @@ Engineers and technicians from 107 SLTB depots and 11 regional work stations acr
 
 ---
 
+### பிலியந்தலையில் தனியார் களஞ்சியசாலையில் தீ விபத்து
+
+*2024-02-10 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/176043) · `ta`
+
+இன்று பிற்பகல் ஏற்பட்ட தீயினால் தொலைபேசி நிறுவனம் ஒன்றின் முக்கிய உபகரணங்கள் வைக்கப்பட்டிருந்த வளாகத்தில் தீ பரவியுள்ளதாக பிலியந்தலை பொலிஸார் தெரிவித்தனர்.
+
+தீயை அணைக்க கோட்டை, தெஹிவளை மற்றும் கொழும்பு மாநகரசபையில் இருந்து சுமார் பத்து தீயணைப்பு வாகனங்கள் சம்பவ இடத்திற்கு விரைந்துள்ளதாக அதிகாரிகள் தெரிவித்தனர்.
+
+தீ விபத்துக்கான காரணம் இன்னும் கண்டறியப்படாத நிலையில் மேலதிக விசாரணைகள் இடம்பெற்று வருகின்றன.
+
+◼️
+
+[Data](articles/0782753a.json)
+
+---
+
+### DMK MPs walk out of Lok Sabha over fishermen issue
+
+*2024-02-10 14:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/DMK-MPs-walk-out-of-Lok-Sabha-over-fishermen-issue/108-276740) · `en`
+
+India, Feb 10 (The Hindu) - The DMK on Saturday walked out of the Lok Sabha after an adjournment motion given by the party to discuss the arrest of 88 fishermen by the Sri Lankan Navy was rejected by the Speaker.
+
+“I had given an adjournment motion today, on behalf of the DMK we wanted to raise the issue in the House. The Speaker is not allowing us, that is why we have walked out,” DMK MP T.R. Baalu told the media outside the House.
+
+“…Nobody has been released so far. All these fishermen, they were fishing in our territorial water only. The Sri Lankan Navy is showing atrocious attitude and the Government of India is keeping a lukewarm position as far as this issue is concerned,” he said.
+
+...
+
+[Data](articles/9dda66c6.json)
+
+---
+
+### SLC to facilitate training for Ugandan cricket team, to play seven T20s
+
+*2024-02-10 14:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLC-to-facilitate-training-for-Ugandan-cricket-team-to-play-seven-T20s/108-276739) · `en`
+
+Colombo, Feb 10 (Daily Mirror) - Sri Lanka Cricket (SLC) will facilitate the Uganda national cricket team for a 14-day training camp.
+
+The Ugandan team, who last year qualified for the T20 World Cup, arrived in the island today.
+
+"The facilitation will include the allocation of an international ground (GICS, Galle), the allocation of a team from the High Performance Center Development Squads to play seven T20 games, and providing match-related logistics, such as umpires, scorers, match meals, medical support, and other relevant assistance at the ground," SLC said in a media statement.
+
+...
+
+[Data](articles/a20c2874.json)
+
+---
+
 ### A woman who tried to leave gold at Rs 58 million
 
 *2024-02-10 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193210) · `si`
@@ -137,6 +185,44 @@ Airport customs custody has been arrested and conducted further investigations.
 [Data](articles/9524f229.json)
 
 [Extended Data](ext_articles/9524f229.ext.json)
+
+---
+
+### 2 dead after plane crashes into car on Florida highway
+
+*2024-02-10 14:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/2-dead-after-plane-crashes-into-car-on-Florida-highway/108-276738) · `en`
+
+At least two people were killed Friday afternoon when a small plane that had lost both its engines crashed into a vehicle on a Florida interstate as the pilot attempted to make an emergency landing, authorities said.
+
+Five people were on board the private jet when it crashed near a highway exit in Florida's Collier County, creating a fiery debris field that caused officials to close Interstate 75, according to the Florida Highway Patrol.
+
+The Florida Department of Highway Safety and Motor Vehicles and Collier County Sheriff's Office confirmed that two people died in the collision.
+
+Naples-area resident Jinny Johnson came upon the crash just minutes after it happened, as she was heading north on I-75 around 3:20 p.m.
+
+"All of a sudden I saw a lot of black smoke," Johnson said. "It was pitch black. As I got closer, the smoke got a little lighter. And then I saw flames."
+
+...
+
+[Data](articles/4c3c07e4.json)
+
+---
+
+### Fire engulfs private warehouse in Piliyandala
+
+*2024-02-10 14:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fire-engulfs-private-warehouse-in-Piliyandala/108-276737) · `en`
+
+Piliyandala, Feb 10 (Daily Mirror) - A private warehouse in the Palanwaththa vicinity of Piliyandala has been engulfed in flames, resulting in its complete destruction.
+
+According to the Piliyandala Police, the fire, which erupted this afternoon, consumed the premises where crucial equipment belonging to a telephone company was stored.
+
+Authorities disclosed that approximately ten fire trucks from Kotte, Dehiwala, and the Colombo Municipality rushed to the scene to combat the blaze.
+
+The cause of the fire is yet to be ascertained while further investigations are underway.
+
+◼️
+
+[Data](articles/11f5f5ab.json)
 
 ---
 
@@ -1891,121 +1977,5 @@ As such the solution to the current economic crisis is bringing about an immedia
 [Data](articles/5a6f4849.json)
 
 [Extended Data](ext_articles/5a6f4849.ext.json)
-
----
-
-### Nissanka's double century accumulation;Afghan's record among Sri Lanka's victory
-
-*2024-02-09 23:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176009) · `ta`
-
-Sri Lanka won by 42 runs with the help of Beth and Nissanka's record in the first ODI in the first international ODI in the Kandy Pallekele International Cricket Stadium against Afghanistan on Friday (09).
-
-Despite the record set on behalf of Afghanistan in the 6th wicket, they were unable to prevent Sri Lanka's victory.
-
-Sri Lanka, who was first invited to bat in the upting match, scored 381 runs for the loss of 3 wickets in 50 overs.
-
-Bethum Nissanka faced 139 balls and scored 210 runs without losing 20 pounds and 8 sixes.
-
-He set the record for the first double century on behalf of Sri Lanka in an international ODI match.
-
-Beth and Nissanka is the 10th player who scored a double century in the ODI cricket arena.
-
-Sachin Tendulkar was the first to score a double century in the ODI cricket match.
-
-He was followed by Virender Sehwag, Rohit Sharma, Chris Gale, Martin Kaptil, Bakar Zaman, Ishahan Kishan, Shubman Gill and Glenn Maxwell and Beth and Nissanka scored a double century in the same line.
-
-...
-
-[Data](articles/b53e194e.json)
-
-[Extended Data](ext_articles/b53e194e.ext.json)
-
----
-
-### The National Housing Authority has given a certainty of 106 beneficiaries in Jaffna
-
-*2024-02-09 23:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176008) · `ta`
-
-The "Confirmation Declaration" event was held at Weerasingham Hall on Friday morning for 106 selected beneficiaries in Jaffna district.
-
-In addition, 20 beneficiaries were also given a first check for housing loans.
-
-National Housing Authority Chairman Rajeev Suriyarachchi, Vice President Lakshman Gunawardena, Jaffna District Additional Government Agent (Land) K. Srimohanan, National Housing Authority Jaffna District Manager M. Raveendran, National Housing Authority officials and beneficiaries were present.
-
-◼️
-
-[Data](articles/892efdc6.json)
-
-[Extended Data](ext_articles/892efdc6.ext.json)
-
----
-
-### A motorcycle collided with a student who tried to cross the road through a pedestrian crossing in Vavuniya
-
-*2024-02-09 23:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/176007) · `ta`
-
-A student who tried to cross the road through a pedestrian crossing in Vavuniya has been hit by a motorcycle.
-
-The pedestrians in front of the Vavuniya Tamil Central Maha Vidyalaya on Friday (09) afternoon revealed the incident.
-
-A motorcycle traveling by A9 road crashed into a student who was trying to cross the road through a pedestrian crossing in a bicycle.
-
-The student's bicycle was partially damaged by the student's minor injuries. Vavuniya Traffic Police rushed to the scene and further investigations.
-
-◼️
-
-[Data](articles/d360c7c5.json)
-
-[Extended Data](ext_articles/d360c7c5.ext.json)
-
----
-
-### Qatar and Jordan try to make history by winning the Asian bowl;Tomorrow's final
-
-*2024-02-09 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176006) · `ta`
-
-Qatar and Jordan will attend the championship title in the AFC Asian Bowl, which will be held on Saturday night (10) at the Doha, Lukel Stadium.
-
-Qatar, the champion of the 2019 Asian Bowl, will try to retain the bowl in the United Arab Emirates.
-
-On the other hand, Jordan, who is qualified to play in the final for the first time in the history of the Asian Bowl, has won the first attempt to win the bowl.
-
-It is believed that there will be no famine in the final between the two teams.
-
-The main players who need to pay attention to the Qatar team from left to right:
-
-This is because instructor Heesin Amuda is looking forward to giving Jordan the first crown on the Asian continent.
-
-At the same time, its instructor Marx Lopez is hoping to win Qatar.
-
-Qatar will try to be the fifth country in the list of teams in the Asian Bowl Football History.
-
-...
-
-[Data](articles/05c4f3ae.json)
-
-[Extended Data](ext_articles/05c4f3ae.ext.json)
-
----
-
-### Sri Lanka beat Sri Lanka by 42 runs
-
-*2024-02-09 22:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193191) · `si`
-
-Sri Lanka beat Sri Lanka and Afghanistan beat Sri Lanka by 42 runs in the first ODI.
-
-Batting first Sri Lanka scored 381 runs for the loss of 03 wickets at the end of 50 overs.
-
-The double century recorded at the meeting was the first double century recorded for Sri Lanka.
-
-Mohammed Navi scored 136 runs off 130 balls with 136 balls.
-
-He was the highest scorer of the Afghanite innings of the Afghanity of the Afghanistan.
-
-◼️
-
-[Data](articles/f88f4f28.json)
-
-[Extended Data](ext_articles/f88f4f28.ext.json)
 
 ---

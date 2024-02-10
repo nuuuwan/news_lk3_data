@@ -1,36 +1,88 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 06:16:19**
+As of **2024-02-10 06:51:35**
 
 ## Newspaper Stats
 
-*Scraped **6,056** Articles*
+*Scraped **6,061** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 73
 bbccomsinhala | 86
 dbsjeyarajcom | 144
-islandlk | 314
+islandlk | 316
 economynextcom | 318
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 505
-tamilmirrorlk | 736
-adaderanalk | 746
+tamilmirrorlk | 737
+adaderanalk | 747
 virakesarilk | 754
 adaderanasinhalalk | 807
-dailymirrorlk | 868
+dailymirrorlk | 869
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,054 (100.0%) of 6,056 articles have been extended.
+6,056 (99.9%) of 6,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### Soul Energise signs national distribution agreement
+
+*2024-02-10 06:13:00* · [`islandlk`](http://island.lk/soul-energise-signs-national-distribution-agreement/) · `en`
+
+Soul Coffee Group and Grape Expectations announced the signing of a national distribution agreement for the newly launched Soul Energise Drinks. The agreement will enable Soul Energise to be available across all major sales channels, including supermarkets,  hotels, bars, and restaurants across Sri Lanka.
+
+Soul Energise, a recently launched innovative beverage, is a tropical adventure drink crafted with natural caffeine from raw coffee beans and infused with tropical fruit flavours of Sri Lanka.  Soul Energise is a refreshing drink enriched with antioxidants, providing a natural caffeine boost and hydration. It is available in three tropical flavours: Original, Lemon Lime and Wild Orange. The beverage is packed with 15 essential vitamins, minerals and electrolytes, with reduced sugar and lower calories, creating a refreshing drink that energises before or after physical activity.
+
+...
+
+[Data](articles/8a89705e.json)
+
+---
+
+### Tree uprooting racket in Sigiriya Forest Reserve busted
+
+*2024-02-10 06:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tree-uprooting-racket-in-Sigiriya-Forest-Reserve-busted/108-276690) · `en`
+
+Sigiriya, Feb 10 (Daily Mirror) -  A large-scale racket of uprooting trees in Sigiriya forest reserve and selling them to a hotel project was foiled by the wildlife conservators yesterday.
+
+During the raid, they arrested two suspects and seized a large stock of Bolpana trees, a plant species endemic to the area and endangered with extinction, transported to Gedigaswalana area to be planted in the hotel ground.
+
+Officials said the suspects had dug up the earth around the tree and uprooted it without causing damage to the root system, and transported them for replanting.
+
+Under interrogation, the suspects revealed that they received Rs.1,500 per tree from the owners of the hotel which was being built on a private land in Gedigaswalana area off Sigiriya.
+
+A team of wildlife conservators including Range Wildlife Conservators S.S.Malinda, D.M.Nilantha and A.D.B.Dhanushka had carried out the raid.
+
+◼️
+
+[Data](articles/26018fbc.json)
+
+---
+
+### ’பாதுகாப்பான இந்து சமுத்திரத்திற்காக ஒன்றிணைவோம்’
+
+*2024-02-10 03:47:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பான-இந்து-சமுத்திரத்திற்காக-ஒன்றிணைவோம்/175-332961) · `ta`
+
+உலகின் பலமான நாடுகள் தமது தலைவிதியைத் தீர்மானிக்கும் வரை காத்திருக்காமல், தமக்கான பாதையை அமைத்துக் கொள்ளும் இயலுமை இந்து சமுத்திர வலய நாடுகளுக்கு உள்ளதென ஜனாதிபதி ரணில் விக்கிரமசிங்க வலியுறுத்தினார்.
+
+இந்து சமுத்திர வலய நாடுகளின் நம்பிக்கையையும் விழிப்புணர்வையும் மேம்படுத்துவதன் மூலம் பாதுகாப்பான இந்து சமுத்திரத்தை உருவாக்க முடியும் எனவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+2050 ஆண்டளவில் இந்தியா, இந்தோநேசியா போன்ற நாடுகளின் மொத்த தேசிய உற்பத்தி 8 மடங்காக அதிகரிக்கும் என மதிப்பிடப்பட்டுள்ளது. எனவே, அதற்கான சந்தர்ப்பத்தை ஏற்படுத்தும் வகையில் நாடுகளுக்கு இடையிலான தொடர்புகளை வலுவூப்படுத்தும் உட்கட்டமைப்பு வசதிகளை மேம்படுத்த வேண்டியது அவசியமெனவும் ஜனாதிபதி தெரிவித்தார்.
+
+அவுஸ்ரேலியா பேர்த் நகரில் நடைபெற்ற 7 ஆவது இந்து சமுத்திர மாநாட்டில் ஆற்றிய பிரதான உரையிலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத் தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/e890ee1c.json)
+
+---
 
 ### Anura meets with Kerala Minister
 
@@ -281,6 +333,24 @@ It is important to refer to Article 51 of the UN Charter for guidance in this co
 [Data](articles/9332b39f.json)
 
 [Extended Data](ext_articles/9332b39f.ext.json)
+
+---
+
+### Indian Ocean stability requires early end to Gaza war - President
+
+*2024-02-09 23:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97152/indian-ocean-stability-requires-early-end-to-gaza-war-president) · `en`
+
+President Ranil Wickremesinghe says the Indian Ocean Region’s stability requires an early end to the Gaza war followed by the establishment within 5 years of an Independent Palestine State and a guarantee for the security of the state of Israel.
+
+He made this remark while delivering the keynote address at the 7th Indian Ocean Conference in Perth, Australia on Friday (Feb.09).
+
+Wickremesinghe hit out at the United States for supporting the war in the densely populated Palestinian enclave. “The ill-advised judgment of the US in supporting the Gaza war will diminish its influence in the [Indian Ocean] region.”
+
+Commenting further, the President emphasized that the hostility of the countries forming the Islamic Arch in the Indian Ocean will prevent any close rapprochement with the US for some time.
+
+...
+
+[Data](articles/3137be72.json)
 
 ---
 
@@ -1927,87 +1997,5 @@ After the gazette was published, the CAA launched island-wide raids in search of
 [Data](articles/885bfb89.json)
 
 [Extended Data](ext_articles/885bfb89.ext.json)
-
----
-
-### After the bread gazette, 232 bakeries sued
-
-*2024-02-09 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193172) · `si`
-
-The Consumer Affairs Authority (CA) says that the amount of weight has been carried out about 232 bakeries without the fixed weight.
-
-Officials said that they would take legal action on the bakery and shops.
-
-The raids carried out throughout February 05 to 08, the bakery and shops were inspected since February 05 to 08.
-
-The Consumer Affairs Authority added that raids are being carried out island wide.
-
-Customers have a complaint to the Consumer Affairs Authority in 1977.
-
-◼️
-
-[Data](articles/bd55ab5d.json)
-
-[Extended Data](ext_articles/bd55ab5d.ext.json)
-
----
-
-### Sri Lanka, Australia mull strengthening bilateral ties amid Indian Ocean dynamics
-
-*2024-02-09 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97143/sri-lanka-australia-mull-strengthening-bilateral-ties-amid-indian-ocean-dynamics) · `en`
-
-In a recent development at the Indian Ocean Conference, Australian Minister of Foreign Affairs Penny Wong held a significant meeting with President Ranil Wickremesinghe.
-
-During the encounter, Minister Wong extended a warm welcome to President Wickremesinghe in Australia and conveyed gratitude for Sri Lanka’s supportive role in the conference.
-
-Addressing the gathering, Minister Wong underscored her government’s renewed dedication to the Indian Ocean region and fostering closer ties with pertinent nations.
-
-In response, President Ranil Wickremesinghe shared his insights on the Indian Ocean’s evolving dynamics, particularly emphasizing the heightened importance of the Indian Ocean Rim Association (IORA). The President hailed Australia’s increased engagement in the region as a positive development amid shifting power dynamics.
-
-Moreover, President Wickremesinghe spotlighted Sri Lanka’s escalating investments in renewable energy, noting the involvement of Australian firms in this sector.
-
-...
-
-[Data](articles/758a80cc.json)
-
-[Extended Data](ext_articles/758a80cc.ext.json)
-
----
-
-### Another horrific accident on the highway
-
-*2024-02-09 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193171) · `si`
-
-A van carrying a group of Russian tourists has been hit by the Southern Expressway around 5.45 am today (09).
-
-Our correspondent said that the accident had occurred near the highway near the Expressway on the Expressway at Suriyawewa interchange.
-
-Four tourists and a road assistant were injured in the accident.
-
-Among the injured were a 8-year-old Russian national girl, police said.
-
-The lorry driver, driver's wife and two-year-old wife and 2 and 11 years and 11 years have been admitted to the Hambantota Hospital.
-
-Tourist arrivals were inaugurated from Ahungalle to Ella to Ella.
-
-◼️
-
-[Data](articles/add223a6.json)
-
-[Extended Data](ext_articles/add223a6.ext.json)
-
----
-
-### Osu Sala closed...
-
-*2024-02-09 14:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Osu-Sala-closed/110-276674) · `en`
-
-The Rajya Osu Sala (SPC) at Union Place, Colombo, was closed today, with the employees demanding the government to pay the cost of living allowance approved by the 2024 budget. A board was hung at the gate of the Osu Sala, appologising to the consumers for their inconvenience. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/921a2024.json)
-
-[Extended Data](ext_articles/921a2024.ext.json)
 
 ---

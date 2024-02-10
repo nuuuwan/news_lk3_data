@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 17:02:18**
+As of **2024-02-10 17:17:22**
 
 ## Newspaper Stats
 
-*Scraped **6,143** Articles*
+*Scraped **6,145** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 318
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 509
-tamilmirrorlk | 743
-adaderanalk | 760
+tamilmirrorlk | 744
+adaderanalk | 761
 virakesarilk | 768
 adaderanasinhalalk | 829
 dailymirrorlk | 890
@@ -26,29 +26,71 @@ dailymirrorlk | 890
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,142 (100.0%) of 6,143 articles have been extended.
+6,143 (100.0%) of 6,145 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
 
-### இந்தியாதான் காப்பாற்றியது - நாங்கள் எப்போதும் இந்தியாவின் பாதுகாப்பை மனதில் கொண்டிருப்போம்- இந்திய ஊடகத்திற்கான  பேட்டியில் ரணில்
+### Imran Khan gets bail in 12 cases involving attacks on military installations
+
+*2024-02-10 16:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97167/imran-khan-gets-bail-in-12-cases-involving-attacks-on-military-installations) · `en`
+
+Imprisoned former prime minister of Pakistan Imran Khan was granted bail on Saturday by an anti-terrorism court (ATC) in relation to 12 cases involving the attacks on military installations on May 9.
+
+Pakistan Tehreek-e-Insaf (PTI) party founder Khan was granted bail by ATC Judge Malik Ejaz Asif after he paid a surety bond of Rs 0.1 million in all 12 cases, including the attack on the Army Museum and General Headquarters (Pakistan Army), according to The Express Tribune Pakistan.
+
+The court ruled that since all of the accused in the cases from May 9 were free on bond, there was no reason to keep Khan, 71, under arrest.
+
+Khan will stay behind bars since he is found guilty in numerous other cases.
+
+The court’s order came a day after independents backed by Khan’s party won nearly 100 seats in the National Assembly.
+
+Former foreign minister Shah Mahmood Qureshi was also granted bail in 13 cases in the same case. Khan and PTI stalwart Qureshi were indicted in the cases on February 6.
+
+...
+
+[Data](articles/aa6f26bb.json)
+
+---
+
+### யாழ். இசை நிகழ்ச்சி குறித்து டக்ளஸ் வெளியிட்ட செய்தி
+
+*2024-02-10 16:34:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-இசை-நிகழ்ச்சி-குறித்து-டக்ளஸ்-வெளியிட்ட-செய்தி/175-332971) · `ta`
+
+தென்னிந்தியப் பாடகர் ஹரிகரன் தலைமையில் இசைக் கலைஞர்கள் கலந்து கொண்ட இசை நிகழ்ச்சியில் இடம்பெற்ற விரும்பத்தகாத சம்பவங்கள் வருத்தமளிப்பதாக தெரிவித்துள்ள அமைச்சர் டகள்ஸ் தேவானந்தா, இவ்வாறான சம்பவங்கள் எமது மக்களை தொடர்ந்தும் துன்பத்தில் அமுழ்த்தி குளிர்காய விரும்பும் சுயநலத் தரப்புக்களுக்கு வாய்ப்பாக மாறிவிடும் எனவும் வருத்தம்  தெரிவித்துள்ளார்.
+
+யாழ். முற்றவெளியில் நேற்று இடம்பெற்ற தென்னிந்திய திரைப்  பிரலங்கள் கலந்து கொண்ட நிகழ்ச்சியில் ஏற்பட்ட குழப்பங்கள் தொடர்பாக ஊடகவியலாளர் ஒருவரினால் கேட்கப்பட்ட கேள்விக்கு பதில் அளிக்கையிலேயே மேற்கண்டவாறு தெரிவித்தார்.
+
+எமது மக்களின் வாழ்வாதாரத்தினையும் வாழ்வியலையும் அடுத்த கட்டத்திற்கு முன்னேற்றுவதற்கு எமது புலம்பெயர் உறவுகளின் முதலீடுகளை நாங்கள் எதிர்பார்த்திருக்கின்ற வேளையில், புலம்பெயர் முதலீட்டாளர் ஒருவரின் முன்முயற்சியில் ஏற்பாடு செய்யப்பட்ட ஒரு நிகழ்வில், இவ்வாறான அசௌகரியங்கள் ஏற்படுவது, மக்கள் நலன் சார்ந்த  எமது எதிர்பார்ப்புக்களுக்கு பின்னடைவுகளையே ஏற்படுத்தும்.
+
+...
+
+[Data](articles/dad05087.json)
+
+---
+
+### India has saved - we will always keep in mind the security of India - Ranil in an interview with the Indian media
 
 *2024-02-10 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/176049) · `ta`
 
-இலங்கை பொருளாதார நெருக்கடியில் சிக்குண்டிருந்தவேளை இந்தியா வழங்கிய உதவிகள் ஆதரவிற்கு இலங்கை ஜனாதிபதி ரணில்விக்கிரமசிங்கதனது நன்றியை தெரிவித்துள்ளார்
+Sri Lankan President Ranil Wickremesinghe thanked India for the support of India
 
-இந்திய ஊடகத்திற்கு wion வழங்கிய பேட்டியில் அவர் இதனை தெரிவித்துள்ளார். இந்தியாவிற்கு நன்றி இந்தியா இல்லாவிட்டால் நாங்கள் தப்பியிருக்கமாட்டோம் இதன் காரணமாகவே இரு நாடுகள் மத்தியிலான உறவுகளை வலுப்படுத்துவது குறித்து கவனம் செலுத்துகின்றோம் என ஜனாதிபதி தெரிவித்துள்ளார்.
+He said this in an interview with the Indian media. If India is not India, we will not escape. This is why we are focusing on strengthening relations between the two countries, ”the President said.
 
-கேள்வி – எனது முதல் கேள்வி இந்திய இலங்கை உறவுகளை எவ்வாறு பார்க்கின்றீர்கள் இந்த உறவுகள் குறித்த உங்கள் தொலைநோக்கு பார்வை என்ன ?
+Question - My First Question How do you see Indian Sri Lankan relations? What is your vision of these relationships?
 
-பதில் -உண்மையில் இந்திய இலங்கை உறவுகள் முன்னேற்றமடைகின்றன நாங்கள் இரு நாடுகளிற்கும் இடையில் நெருங்கிய உறவுகளை ஏற்படுத்த முயல்கின்றோம் இரு நாடுகளிற்கும் இடையிலான தொடர்புகளை அதிகரிக்க முயல்கி;ன்றோம்.இதுவே சரியான வழி என நான் கருதுகின்றேன்.
+Answer -In fact, India's Sri Lankan relations are progressing. We are trying to establish close ties between the two countries. We are trying to increase the connections between the two countries.
 
-கேள்வி- இலங்கை பொருளாதார நெருக்கடியில் சிக்குண்டிருந்த வேளை 4 பில்லியன் டொலர் உதவியுடன் முன்வந்த நாடு இலங்கை உங்கள் நாட்டிற்கான இந்தியாவின் உதவியை எவ்வாறு பார்க்கின்றீர்கள்?
+Question: How do you see India's help for your country in Sri Lanka, which has come forward with the help of $ 4 billion while the Sri Lankan economic crisis?
+
+Answer-We are grateful to India. We will not flee if India is not India. This is why we are focusing on the close relationship between the two countries.
 
 ...
 
 [Data](articles/c0fef154.json)
+
+[Extended Data](ext_articles/c0fef154.ext.json)
 
 ---
 
@@ -1957,37 +1999,5 @@ Commenting further, the President emphasized that the hostility of the countries
 [Data](articles/3137be72.json)
 
 [Extended Data](ext_articles/3137be72.ext.json)
-
----
-
-### Indian Ocean Region’s stability requires early end to Gaza war - President Ranil
-
-*2024-02-09 23:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97152/indian-ocean-regions-stability-requires-early-end-to-gaza-war-president-ranil) · `en`
-
-President Ranil Wickremesinghe says the Indian Ocean Region’s stability requires an early end to the Gaza war followed by the establishment within 5 years of an Independent Palestine State and a guarantee for the security of the state of Israel.
-
-He made this remark while delivering the keynote address at the 7th Indian Ocean Conference in Perth, Australia on Friday (Feb.09).
-
-◼️
-
-[Data](articles/344d4d71.json)
-
-[Extended Data](ext_articles/344d4d71.ext.json)
-
----
-
-### From COP28 to COP29: Climate change negotiations in 2024
-
-*2024-02-09 23:41:07* · [`dailyftlk`](https://www.ft.lk/columns/From-COP28-to-COP29-Climate-change-negotiations-in-2024/4-758308) · `en`
-
-With COP29 only ten months away, climate finance is among the key topics for climate negotiations in 2024
-
-The 28th meeting of the Conference of the Parties to the United Nations Framework Convention on Climate Change (COP28) concluded at the end of 2023 with several important outcomes. On the one hand, it created a dedicated fund for loss and damage, wrapped up the first-ever Global Stocktake, and established a framework for the Global Goal on Adaptation that would serve to scale up and focus adaptation ambition. On the other hand, there is still a considerable amount of work to be done for operationalising the loss and damage fund and the Global Goal on Adaptation (GGA), and several agenda items only resulted in procedural decisions and will be carried forward.
-
-...
-
-[Data](articles/cf5a5ead.json)
-
-[Extended Data](ext_articles/cf5a5ead.ext.json)
 
 ---

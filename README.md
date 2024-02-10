@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 09:02:27**
+As of **2024-02-10 09:17:23**
 
 ## Newspaper Stats
 
-*Scraped **6,076** Articles*
+*Scraped **6,080** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,85 @@ newsfirstlk | 363
 adalk | 505
 tamilmirrorlk | 738
 adaderanalk | 750
-virakesarilk | 754
-adaderanasinhalalk | 814
+virakesarilk | 756
+adaderanasinhalalk | 816
 dailymirrorlk | 873
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,075 (100.0%) of 6,076 articles have been extended.
+6,076 (99.9%) of 6,080 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### மலையக பெருந்தோட்ட மக்களுக்கு காணி உறுதிபத்திரம் வழங்கும் சௌமியபூமி திட்டம் எதிர்வரும் ஏப்ரல் மாதம் முதல் நடைமுறைப்படுத்தப்படும் – அமைச்சர் ஜீவன் தொண்டமான்
+
+*2024-02-10 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/176013) · `ta`
+
+“இந்திய அரசின் நிதி உதவியுடன் மலையக பெருந்தோட்ட பகுதிகளில் முன்னெடுக்கப்படவுள்ள 10 ஆயிரம் வீட்டுத் திட்டம் எதிர்வரும் 19 ஆம் திகதி ஆரம்பிக்கப்படவுள்ளது. முதற்கட்டமாக ஆயிரத்து 300 வீடுகள் நிர்மாணிக்கப்படும்.” – என்று இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச்செயலாளரும், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி  அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்தார்.
+
+அத்துடன், மலையக பெருந்தோட்ட மக்களுக்கு காணி உறுதிபத்திரம் வழங்கும் சௌமியபூமி திட்டம் எதிர்வரும் ஏப்ரல் மாதம் முதல் நடைமுறைப்படுத்தப்படும் எனவும் அமைச்சர் கூறினார்.
+
+ஜனாதிபதியின் கொள்கை விளக்க உரை தொடர்பில் நாடாளுமன்றத்தில் வெள்ளிக்கிழமை (09) இரண்டாவது நாளாகவும் நடைபெற்ற சபை ஒத்திவைப்புவேளை பிரேரணை மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றிய அமைச்சர் மேலும் கூறியவை வருமாறு,
+
+...
+
+[Data](articles/60bf8648.json)
+
+---
+
+### හරිහරන්ගේ ප්‍රසංගය අසල දැඩි තදබදයක්
+
+*2024-02-10 08:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193200) · `si`
+
+ඉන්දියාවේ ප්‍රවීණ සංගීතඥයෙකු වන හරිහරන්ගේ ප්‍රධානත්වයෙන් ඊයේ (09) රාත්‍රියේ යාපනය 'මුට්‍රවෙලි' ක්‍රීඩාංගනයේ දී පැවැත්වූ ප්‍රසංගය නැරඹීමට පැමිණි ප්‍රේක්ෂකයන් සංඛ්‍යාව ඉහළ යාමත් සමඟ එම ප්‍රදේශයේ අධික තදබදයක් ඇති වූ බව වාර්තා වේ.
+
+'අද දෙරණ' වාර්තාකරු පැවසුවේ, ප්‍රසංගය නැරඹීමට පැමිණි පිරිස පොලිස් රැකවල් නොතකා ප්‍රසංග භූමියට ඇතුළු වීමට උත්සාහ කර ඇති බවයි.
+
+ඒ හේතුවෙන් ඇති වූ තදබදයත් සමග පුද්ගලයින් කිහිපදෙනෙකුට තුවාල සිදු වී ඇති බවද වාර්තාකරු පැවසීය.
+
+දකුණු ඉන්දීය සිනමා නිළි තමන්නා, රම්බා ඇතුළු සිනමා නිළියන් හා නළුවන් රැසක් ද ප්‍රසංගයට සහභාගි වූ බව සඳහන් ය.
+
+◼️
+
+[Data](articles/339aef45.json)
+
+---
+
+### ජනපති සහ ඉන්දීය විදේශ ඇමති අතර හමුවක්
+
+*2024-02-10 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193199) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ සහ ඉන්දීය විදේශ අමාත්‍ය ආචාර්‍ය එස්.ජයිශංකර් අතර හමුවක් සිදු ව තිබේ.
+
+ඔස්ට්‍රේලියාවේ පර්ත් නුවර දී මෙම හමු ව සිදු වූ බව ජනාධිපති මාධ්‍ය ඒකකය වාර්තා කරයි.
+
+මෙහි දී දෙරට අතර ද්වීපාර්ශ්වික ව්‍යාපෘති පිළිබඳ ජනාධිපතිවරයා හා ඉන්දීය විදේශ අමාත්‍යවරයා සාකච්ඡා කළ බව සඳහන් ය.
+
+◼️
+
+[Data](articles/26f394bd.json)
+
+---
+
+### தொழில் சார் உரிமை கோரி சுகாதாரத் தொழிற்சங்கங்கள் முன்னெடுக்கப்பட இருந்த தொழிற்சங்க நடவடிக்கை ஒத்திவைப்பு
+
+*2024-02-10 08:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176012) · `ta`
+
+தொழில் சார் உரிமை கோரி 72 சுகாதாரத் தொழிற்சங்கங்கள் முன்னெடுக்கப்பட இருந்த தொழிற்சங்க நடவடிக்கை ஒரு வார காலத்துக்கு ஒத்திவைக்கப்பட்டுள்ள நிலையில் இன்று முதல் மாகாண, வைத்தியசாலை மட்டத்தில் விழிப்புணர்வு வேலைத்திட்டங்களை முன்னெடுக்கப்படவுள்ளதாக சுகாதாரத் தொழிற்சங்கங்களின் கூட்டிணைவு தெரிவித்துள்ளது.
+
+அரசாங்கத்தால் வைத்தியர்களுக்கு வழங்க 35 ஆயிரம் ரூபா கொடுப்பனவை வழங்க அமைச்சரவை அங்கீகாரம் வழங்கியதை அடுத்து 72 சுகாதாரத் தொழிற்சங்கங்களும் தமக்கான தொழில் சார் உரிமைகளைப் பெற்றுத் தருமாறுக் கோரிக்கை விடுத்து பல்வேறு தொழிற்சங்க நடவடிக்கைகளை முன்னெடுத்திருந்தது.
+
+இந்நிலையில், கடந்த 6 ஆம் திகதி (செவ்வாய்க்கிழமை) சுகாதாரத் தொழிற்சங்க கூட்டமைப்பின் பிரதிநிதிகள் மற்றும் நிதியமைச்சுக்கிடையில் இடம்பெற்ற கலந்துரையாடலின் பின்னர் சுகாதாரத் தொழிற்சங்கங்கள் முன்னெடுக்கப்பட இருந்த தொழிற்சங்க நடவடிக்கைகள் ஒரு வார காலத்துக்கு ஒத்திவைக்கப்பட்டது. நிதி அமைச்சினால் பரிந்துரைக்கப்பட்ட குழு எதிர்வரும் 12 ஆம் திகதி கூட உள்ளதுடன் சுகாதார ஊழியர்களின் தொழில் சார் உரிமைக் குறித்து தீர்க்கமான தீர்மானம் எட்டப்பட உள்ளது.
+
+...
+
+[Data](articles/6ad23c36.json)
+
+---
 
 ### Pakistan election: Imran Khan and Nawaz Sharif each claim advantage
 
@@ -340,19 +406,21 @@ The cumulative arrivals for January 1 to February 8 are 268,375.
 
 ---
 
-### எண்ணெய்க் குழாய் திட்டம் குறித்து கலந்துரையாடல்
+### Discussion with the oil pipeline project
 
 *2024-02-10 05:05:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எண்ணெய்க்-குழாய்-திட்டம்-குறித்து-கலந்துரையாடல்/175-332962) · `ta`
 
-இந்தியாவின் நாகப்பட்டினத்தையும் திருகோணமலை எண்ணெய்க் குதத்தையும் இணைக்கும் வகையில் நிர்மாணிக்க உத்தேசிக்கப்பட்டுள்ள எண்ணெய்க் குழாய் அமைக்கும் திட்டம் தொடர்பில் கலந்துரையாடல் முன்னெடுக்கப்பட்டுள்ளது.
+Discussion has been carried out on the construction of the Nagapattinam of India and the Trincomalee oil analgesic.
 
-எரிசக்தி வாரத்தினை முன்னிட்டு நடைபெறும் நிகழ்வில் பங்குபற்றுவதற்காக இந்தியாவிற்கு சென்றுள்ள மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் கஞ்சன விஜேசேகர, உத்தேச எண்ணெய்க் குழாய் நிர்மாணப் பணிகள் தொடர்பில் இந்திய எண்ணெய் நிறுவனத்துடன் நேற்று முன்தினம் கலந்துரையாடலில் ஈடுபட்டிருந்தார்.
+Power and Energy Minister Kanjana Wijesekera, who had gone to India to attend the event on the occasion of the Energy Week, was in a discussion with the Indian Oil Company yesterday on the construction of the proposed oil pipeline.
 
-இந்திய அரசாங்கம் இந்திய எண்ணெய் நிறுவனத்தின் ஊடாக இந்த திட்டத்தினை முன்மொழிந்துள்ளது என எரிசக்தி அமைச்சர் கஞ்சன  தனது சமூக வலைத்தள  பதிவில் குறிப்பிட்டுள்ளார். (a)
+Energy Minister Kanjana stated in his social network that the Indian government has proposed the project through the Indian Oil Company.. (A)
 
 ◼️
 
 [Data](articles/9d7a4bbb.json)
+
+[Extended Data](ext_articles/9d7a4bbb.ext.json)
 
 ---
 
@@ -1899,77 +1967,5 @@ Addressing attendees, Minister Wong reiterated Australia's renewed commitment to
 [Data](articles/84ba5973.json)
 
 [Extended Data](ext_articles/84ba5973.ext.json)
-
----
-
-### President addresses Indian Ocean Conference, calls for enhanced connectivity infrastructure
-
-*2024-02-09 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97146/president-addresses-indian-ocean-conference-calls-for-enhanced-connectivity-infrastructure) · `en`
-
-President Ranil Wickremesinghe delivered the keynote speech at the 7th Indian Ocean Conference in Perth, focusing on the theme “Towards a Stable and Sustainable Indian Ocean.”
-
-He highlighted the critical need for enhanced connectivity infrastructure to accommodate the projected eight-fold increase in the GDP of countries like India and Indonesia by 2050.
-
-Existing channels like the Suez Canal may not be adequate, necessitating new initiatives. India’s proposed Mumbai-Iran-Russia and Mumbai-Middle East-Europe corridors, along with projects in the Bay of Bengal and the Chongqing-Kyaukphyu corridor, aim to address this demand.
-
-Additionally, plans for the Kra land bridge by Thailand and the feasibility studies for land connectivity between India and Sri Lanka underscore efforts to establish Sri Lanka as a Regional Logistics Hub, facilitating trade with South India.
-
-...
-
-[Data](articles/41c47ebe.json)
-
-[Extended Data](ext_articles/41c47ebe.ext.json)
-
----
-
-### Instead of Patal, Godahewa
-
-*2024-02-09 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193179) · `si`
-
-Parliamentarian Nalaka Godahewa has been named for representing the opposition of the Government Cashion Committee.
-
-◼️
-
-[Data](articles/946405f2.json)
-
-[Extended Data](ext_articles/946405f2.ext.json)
-
----
-
-### Let Dudley Speak!
-
-*2024-02-09 16:53:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/let-dudley-speak/) · `en`
-
-“Everything is abnormal in our society; that is how these things happen, and, when they do, nobody knows how to act-not only in the most difficult situations, but even in the simplest” – Fyodor Dostoevsky
-
-“Happy families are all alike, every unhappy family is unhappy in its own way” – Anna Karenina-Leo Tolstoy
-
-...
-
-[Data](articles/d5d67013.json)
-
-[Extended Data](ext_articles/d5d67013.ext.json)
-
----
-
-### A century from wishes Nissanka
-
-*2024-02-09 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193178) · `si`
-
-Sri Lanka and Afghanistan, Sri Lanka, Wimali came to report a century in the first match of the three-run-day tournament.
-
-The Afghan leader won the toss and invited Sri Lanka to bat first.
-
-The innings began in the innings and wishing for the first wicket of 182 runs for the first wicket.
-
-Anthemis Fernando scored 88 runs as the first wicket.
-
-The wishes of wishes were decorated with 11 fours and one six bowls, and he spent 88 balls.
-
-◼️
-
-[Data](articles/d2491750.json)
-
-[Extended Data](ext_articles/d2491750.ext.json)
 
 ---

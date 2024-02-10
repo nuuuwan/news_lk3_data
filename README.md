@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 17:52:50**
+As of **2024-02-10 18:07:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 893
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,150 (100.0%) of 6,151 articles have been extended.
+6,151 (100.0%) of 6,151 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The Atlantic Meridional Overturning Circulation (the AMOC) — of which the Gulf
 ...
 
 [Data](articles/2431958a.json)
+
+[Extended Data](ext_articles/2431958a.ext.json)
 
 ---
 

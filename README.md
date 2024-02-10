@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 04:17:32**
+As of **2024-02-11 04:33:00**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,195 (100.0%) of 6,196 articles have been extended.
+6,196 (100.0%) of 6,196 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
 
-### அவுஸ்ரேலிய துணைத் தூதரகத்திற்கு ஜனாதிபதி விஜயம்
+### President visits Australian Consulate
 
 *2024-02-11 03:46:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுஸ்ரேலிய-துணைத்-தூதரகத்திற்கு-ஜனாதிபதி-விஜயம்/175-332989) · `ta`
 
-7 ஆவது இந்து சமுத்திர மாநாட்டில் பங்கேற்பதற்காக அவுஸ்ரேலியாவின் பேர்த் நகருக்குச் சென்றுள்ள ஜனாதிபதி ரணில் விக்ரமசிங்க, மேற்கு அவுஸ்ரேலியாவில் உள்ள இலங்கை துணைத் தூதரகத்துக்கு நேற்று (10) விஜயம் செய்தார்.
+President Ranil Wickremesinghe visited the Sri Lankan embassy in West Australia yesterday (10) to attend the 7th Indian Ocean Conference.
 
-தூதரகத்திற்கு வருகை தந்த ஜனாதிபதியை கொன்சல் ஜெனரல் கலாநிதி ரொஷ் ஜலக்கே மற்றும் திருமதி பிரியங்கா கமகே ஆகியோர் வரவேற்றனர்.
+The President was welcomed by Consul General Dr. Rash Jalake and Mrs Priyanka Kamage.
 
-அதன் பின்னர், கொன்சல் ஜெனரல் மற்றும் ஊழியர்களுடன் ஜனாதிபதி சிநேகபூர்வமாக உரையாடியதுடன், இலங்கையின் பொருளாதாரத்தை மீளக் கட்டியெழுப்பும் நடவடிக்கையில் அவர்கள் ஆற்றக்கூடிய செயலூக்கமான பங்களிப்பு குறித்தும் விரிவான கவனம் செலுத்தப்பட்டது.
+Subsequently, the President spoke with the Consul General and the staff and focused on the active contribution they could play in the process of rebuilding the Sri Lankan economy.
 
-இந்நிகழ்வில் தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்கவும் கலந்துகொண்டார். (a)
+Sagala Ratnayake, Senior Advisor of National Security and President of the Presidential Task Force, was also present at the event.. (A)
 
 ◼️
 
 [Data](articles/ee15d95f.json)
+
+[Extended Data](ext_articles/ee15d95f.ext.json)
 
 ---
 

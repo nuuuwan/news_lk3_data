@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 11:33:15**
+As of **2024-02-10 11:51:37**
 
 ## Newspaper Stats
 
-*Scraped **6,103** Articles*
+*Scraped **6,106** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,79 @@ newsfirstlk | 363
 adalk | 507
 tamilmirrorlk | 739
 adaderanalk | 755
-virakesarilk | 759
-adaderanasinhalalk | 820
+virakesarilk | 761
+adaderanasinhalalk | 821
 dailymirrorlk | 881
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,102 (100.0%) of 6,103 articles have been extended.
+6,106 (100.0%) of 6,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### Two suspects arrested for selling and selling a car
+
+*2024-02-10 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193205) · `si`
+
+Two persons attempting to share a car obtained on a rent basis have been arrested in Nittambuwa.
+
+Police have arrested the suspects according to information received by the officials of the Gampaha Division Criminal Investigation Bureau.
+
+The suspects have been arrested in attempting to sell the car obtained on rent basis to additional parts.
+
+The interrogations were revealed that the car had been obtained on rent from Anuradhapura area.
+
+The suspects were 38 years old, residents of Eswella and Nelumdeniya.
+
+◼️
+
+[Data](articles/40886d28.json)
+
+[Extended Data](ext_articles/40886d28.ext.json)
+
+---
+
+### Trade union action postponed for health trade unions seeking employment rights
+
+*2024-02-10 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/176012) · `ta`
+
+The Alliance of Health Trade Unions has announced that 72 health trade unions will be postponed for a weekly trade union, which will be implemented at the provincial and hospital level.
+
+After the Cabinet approved the government's approval to pay Rs.
+
+In this backdrop, the union actions to be carried out for a week after a discussion between representatives of the Health Trade Union Federation and the Finance Ministry on Tuesday (Tuesday). The committee nominated by the Ministry of Finance is also on the 12th of this month and a decisive resolution on the rights of the health workers is to be reached.
+
+Therefore, a program to clarify health workers on the rights of professional rights at the provincial level and hospital level will be launched from today.. It is hoped that the Ministry of Health and the Finance Ministry will be dedicated to solving the crisis in the health sector.
+
+...
+
+[Data](articles/6ad23c36.json)
+
+[Extended Data](ext_articles/6ad23c36.ext.json)
+
+---
+
+### Voice of the voice of the voiceless
+
+*2024-02-10 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176026) · `ta`
+
+The Jaffna Court of Jaffna was granted a warrant for the activist of the voice organization of the voice of the voice.
+
+President Ranil Wickremesinghe was present at the Taipongal event held last year. A protest was carried out in protest of his visit. The war was issued for participating in the struggle.
+
+No invitation has been given to me to come to the law. But it was reported that I had been sued in court and that my name was called during the way. So I was given a warrant.
+
+◼️
+
+[Data](articles/3bd64481.json)
+
+[Extended Data](ext_articles/3bd64481.ext.json)
+
+---
 
 ### Operation ‘Yukthiya’: 663 more suspects arrested
 
@@ -113,6 +173,26 @@ Accordingly, the worker remittances for January 2024 were recorded at 487.6 USD.
 [Data](articles/73e655d2.json)
 
 [Extended Data](ext_articles/73e655d2.ext.json)
+
+---
+
+### If prioritize the political aspirations of Tamils - the economy will improve - Sreedharan
+
+*2024-02-10 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176020) · `ta`
+
+How to improve the problems of the Tamil nationality. Sinhalese leaders should come forward to solve problems. If we give priority to the political aspirations of the Tamil people, we will cooperate with the economy of the Tamil National Alliance (TNA) leader and parliamentarian S. Sreedharan.
+
+He was speaking at the adjournment debate on the President's Declaration of the President's Policy Declaration in Parliament yesterday.
+
+The fundamental issues in the policy declaration presented by the country's first citizen president have not been settled.
+
+State leaders in Sri Lanka have been deceived for a long time. The heads of state today do not understand that the heads of states of Sri Lanka have not implemented the contract with various parties to address the problems.. It is unknown how much it is possible to talk about the development of the economy without ensuring peace and unity between the ethnicities.
+
+...
+
+[Data](articles/48f46a8f.json)
+
+[Extended Data](ext_articles/48f46a8f.ext.json)
 
 ---
 
@@ -270,19 +350,21 @@ Ranil Wickremesinghe took the responsibility of protecting the country and build
 
 ---
 
-### තමා මැතිවරණය දිනූ බව ඉම්රාන් ඛාන් කියයි
+### Imran Khan says he won the election
 
 *2024-02-10 09:12:41* · [`adalk`](https://www.ada.lk/breaking_news/තමා-මැතිවරණය-දිනූ-බව-ඉම්රාන්-ඛාන්-කියයි/11-407990) · `si`
 
-පාකිස්තානෙය් පැවැති මහ මැතවණයෙන් තමන් ජයග්‍රහණය කළ බවත් එය සමරන ලෙසත් හිටපු අග්‍රාමාත්‍ය ඉම්රාන් ඛාන් පවසයි. එම ජයග්‍රහණය සමරන ලෙස  ඔහු සිය ආධාරකරුවන්ගෙන් ඉල්ලා සිටියි. ඉම්රාන් ඛාන් මේ වන විට සිරගතව සිටියි.
+Former Prime Minister Imran Khan says he won the general revelation in Pakistan and celebrating it. He is asked to support his supporters to celebrate that victory.Imran Khan is in jail.
 
-මේ වන විට ප්‍රකාශයට පත්කර ඇති මැතිවරණ ප්‍රතිඵල අනුව ඉම්රාන් ඛාන්ට සම්බන්ධ ස්වාධීන අපේක්ෂකයන් ප්‍රකාශයට පත්කර ඇති ආසනවලින් වැඩි ප්‍රමාණයක් ජයග්‍රහණය කර තිබේ.
+According to the election results, more than most of the organizations that have been published in the Imran Khan has won the most independent candidates involved.
 
-කෙසේ වෙතත් හිටපු අග්‍රාමාත්‍යවරයෙක් ‌වෙන නවාෂ් ශරීෆ්ද ප්‍රකාශ කර ඇත්තේ තම පක්ෂය මේ වන විට විශාලම පක්ෂය බවට පත්ව ඇති බවත් තමන් සමග ඒක්ව සභාග රජයක් පීහිටුවන ලෙස අනෙකුත් පක්ෂවලට ආරාධනා කරන ‌බවයි.
+However, a former Prime Minister also stated that the party has become the largest party and that the party has become the biggest party and invites other parties to the other parties.
 
 ◼️
 
 [Data](articles/1e1576cb.json)
+
+[Extended Data](ext_articles/1e1576cb.ext.json)
 
 ---
 
@@ -453,26 +535,6 @@ The President and the Indian Foreign Minister discussed bilateral projects betwe
 [Data](articles/26f394bd.json)
 
 [Extended Data](ext_articles/26f394bd.ext.json)
-
----
-
-### Trade union action postponed for health trade unions seeking employment rights
-
-*2024-02-10 08:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176012) · `ta`
-
-The Alliance of Health Trade Unions has announced that 72 health trade unions will be postponed for a weekly trade union, which will be implemented at the provincial and hospital level.
-
-After the Cabinet approved the government's approval to pay Rs.
-
-In this backdrop, the union actions to be carried out for a week after a discussion between representatives of the Health Trade Union Federation and the Finance Ministry on Tuesday (Tuesday). The committee nominated by the Ministry of Finance is also on the 12th of this month and a decisive resolution on the rights of the health workers is to be reached.
-
-Therefore, a program to clarify health workers on the rights of professional rights at the provincial level and hospital level will be launched from today.. It is hoped that the Ministry of Health and the Finance Ministry will be dedicated to solving the crisis in the health sector.
-
-...
-
-[Data](articles/6ad23c36.json)
-
-[Extended Data](ext_articles/6ad23c36.ext.json)
 
 ---
 
@@ -1937,57 +1999,5 @@ Subsequently, trains from Colombo to Badulla will be operated from the Vattawala
 [Data](articles/f6d88d58.json)
 
 [Extended Data](ext_articles/f6d88d58.ext.json)
-
----
-
-### Beliatta mass shooting: Suspect arrested with T-56 magazine
-
-*2024-02-09 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97149/beliatta-mass-shooting-suspect-arrested-with-t-56-magazine) · `en`
-
-The Colombo Crimes Division (CCD) has arrested a man who was in possession of a T-56 magazine, which is suspected to have been used in the Beliatta mass shooting in which five people were killed.
-
-Police stated that the suspect, identified as “Samika”, is a close associate of organized criminal notoriously known as “Kosgoda Sujee”.
-
-Police have also taken custody of 32 rounds of live ammunition and a magazine of the firearm which is suspected to have been used in the crime, hidden in a cinnamon field behind the arrested suspect’s house.
-
-Investigations have revealed that the relevant firearm was provided to the suspect by “Kosgoda Sujee”.
-
-Furthermore, police have uncovered that the suspect in question, who joined the Sri Lanka Light Infantry in 2008, had been absent from duty without permission since 2009. Police also revealed that he is now a drug addict.
-
-...
-
-[Data](articles/3ea38f64.json)
-
-[Extended Data](ext_articles/3ea38f64.ext.json)
-
----
-
-### Police officer injured in the sudden gunmen
-
-*2024-02-09 19:08:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-துப்பாக்கி-இயங்கியதில்-பொலிஸ்-உத்தியோகத்தர்-காயம்/175-332945) · `ta`
-
-Another police officer has been injured in a gunfight of a police officer in the Moneragala - Okampidi area.
-
-The gunman was suddenly operating when the officer was engaged in the process of maintaining the gun.
-
-◼️
-
-[Data](articles/7f73988c.json)
-
-[Extended Data](ext_articles/7f73988c.ext.json)
-
----
-
-### Harsha de Silva as the head of the Gopa Group
-
-*2024-02-09 19:04:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோபா-குழுவின்-தலைவராக-ஹர்ஷ-டி-சில்வா/175-332944) · `ta`
-
-Harsha de Silva has been re -appointed as the Chairman of the Committee of State Accounts (Copa). (Of)
-
-◼️
-
-[Data](articles/f9707abb.json)
-
-[Extended Data](ext_articles/f9707abb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 07:51:29**
+As of **2024-02-10 08:02:32**
 
 ## Newspaper Stats
 
-*Scraped **6,062** Articles*
+*Scraped **6,065** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ dailyftlk | 342
 newsfirstlk | 363
 adalk | 505
 tamilmirrorlk | 737
-adaderanalk | 747
+adaderanalk | 748
 virakesarilk | 754
 adaderanasinhalalk | 807
-dailymirrorlk | 870
+dailymirrorlk | 872
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,062 (100.0%) of 6,062 articles have been extended.
+6,062 (100.0%) of 6,065 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### Fair weather to prevail over the island today
+
+*2024-02-10 07:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97154/fair-weather-to-prevail-over-the-island-today) · `en`
+
+The Department of Meteorology says mainly fair weather will prevail over the island today (Feb.10).
+
+Misty conditions can be expected at some places in Central, Sabaragamuwa and Western provinces and Galle and Matara districts during the morning.
+
+Mainly fair weather will prevail in the sea areas around the island. Winds will be north-easterly and wind speed will be 25-35 kmph.
+
+Wind speed may increase up to 55 kmph at times in the sea areas off the coasts extending from Galle to Pottuvil via Hambantota, And the sea areas off the coasts extending from Colombo to Kankesanturai via Puttalam.
+
+The sea areas off the coasts from Galle to Pottuvil via Hambantota and the sea areas off the coasts from Colombo to Kankesanturai via Puttalam, can be rough at times.
+
+◼️
+
+[Data](articles/5ed858c9.json)
+
+---
 
 ### NGOs spend billions unchecked, new law soon to monitor them
 
@@ -86,6 +106,30 @@ A team of wildlife conservators including Range Wildlife Conservators S.S.Malind
 
 ---
 
+### Sri Lanka’s February tourist arrivals cross 60,000 mark in first eight days
+
+*2024-02-10 05:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-February-tourist-arrivals-cross-60-000-mark-in-first-eight-days/108-276718) · `en`
+
+The tourist arrivals to the island nation crossed the 60,000 mark in the first week of February, indicating improved interest in the destination.
+
+The provisional data from the Sri Lanka Tourism Development Authority showed that for the first eight days of February, the arrivals to the country totalled 60,122.
+
+The arrivals achieved in the first eight days of February are about 55 percent of the total arrivals recorded for the whole of the second month of 2023.
+
+The daily arrival average has increased to 7,500, from the 6000-6,500 range recorded in January.
+
+Taking the lead for February is the Russian Federation, which accounted for 15 percent of the total tourist arrivals.
+
+Ranking second is India, which accounted for 14 percent of the international visitors to Sri Lanka. In the third place is the United Kingdom, accounting for 9 percent of the tourist arrivals.
+
+The cumulative arrivals for January 1 to February 8 are 268,375.
+
+...
+
+[Data](articles/95a877c2.json)
+
+---
+
 ### Let us unite for the safe Indian ocean
 
 *2024-02-10 03:47:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பான-இந்து-சமுத்திரத்திற்காக-ஒன்றிணைவோம்/175-332961) · `ta`
@@ -119,6 +163,22 @@ The Communist Party of India's Communist Party of India, including the leader of
 [Data](articles/5a48d410.json)
 
 [Extended Data](ext_articles/5a48d410.ext.json)
+
+---
+
+### Prof. Siva urges Sri Lankan expatriates to invest in nation’s youth
+
+*2024-02-10 01:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prof-Siva-urges-Sri-Lankan-expatriates-to-invest-in-nations-youth/108-276719) · `en`
+
+A Prominent American academic of Sri Lankan origin, Prof. Siva Sivanathan, called on Sri Lankan expatriates to be part of Sri Lanka’s growth story by contributing a portion of their earnings to the island nation’s children and youth.
+
+“Sri Lanka can be developed if all its expatriates contribute 5 percent of what they have earned for the future of Sri Lankan children and youth,” Prof. Sivananthan told journalists in Colombo this week.
+
+“I, being a student of Hindu College Jaffna and University of Peradeniya, wanted to give back something to Sri Lanka and thereby, was successful in introducing a diploma programme in renewable energy together with the National Apprentice and Industrial Training Authority. The children who study this programme are usually employed by the time they graduate,” he said.
+
+...
+
+[Data](articles/133d3150.json)
 
 ---
 
@@ -1937,65 +1997,5 @@ In total, Fraser-Pryce has won three Olympic golds, four silvers and a bronze.
 [Data](articles/8eec96d5.json)
 
 [Extended Data](ext_articles/8eec96d5.ext.json)
-
----
-
-### Sathosus is no longer available in India's eggs
-
-*2024-02-09 15:25:04* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවේ-බිත්තර-සතොසෙන්-තවදුරටත්/11-407983) · `si`
-
-The State Admission Corporation states that Sri Lanka has received the first section of the first 7 million eggs in India this year.
-
-Chairman Asiri Walrisundara further stated that the bulk will be released to Sathosa palls throughout the year, after the investigation of animal products and medical examination.
-
-◼️
-
-[Data](articles/9f6c88f1.json)
-
-[Extended Data](ext_articles/9f6c88f1.ext.json)
-
----
-
-### Russian President's controversial media discussion
-
-*2024-02-09 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193173) · `si`
-
-The meeting with a former news announcer Tucar Carleson and Russian President Vladmini Putin has been telecast across the Tucar Carlson.
-
-The discussion in Moscow began with a Tucker Carlson.
-
-"In the start of Ukrainian conflicts on February 22, 2022, you said that the United States is planning to attack Russia through the NATO organization. How have you reached such a conclusion? "
-
-"I did not say that the US had planned to attack Russia. Is this a normal conversation?Or is an important discussion? "
-
-"One of our senses had said that the US should continue to support Ukraine. What are your comments on it? "
-
-"What should America should do so?. Don't have anything else to do in America?. You have border problems. There are problems related to migrants. Conducting Mediation talks with Russia is better desirable to do that? "
-
-The Russian President had said he wanted to reach a settlement with Ukraine and had a proposal to do so.
-
-◼️
-
-[Data](articles/45adbf5e.json)
-
-[Extended Data](ext_articles/45adbf5e.ext.json)
-
----
-
-### The news published by the police headquarters
-
-*2024-02-09 15:07:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-தலைமையகம்-வெளியிட்ட-செய்தி/175-332943) · `ta`
-
-The list of 349 drug traffickers across the country has been incorporated into the 'Yukya' registry of the police.
-
-The list of 53 kidnappers identified as assistants, 296 narcotics smugglers and 349 narcotics smugglers has been released on the workplace of the Inspector General of Police Deshpandu Thennakoon.
-
-The list has been sent to the Senior Superintendent of Police in charge of all sections of the country, the police headquarters said.. Remble
-
-◼️
-
-[Data](articles/72797a75.json)
-
-[Extended Data](ext_articles/72797a75.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 14:49:08**
+As of **2024-02-10 15:02:17**
 
 ## Newspaper Stats
 
-*Scraped **6,125** Articles*
+*Scraped **6,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 363
 adalk | 507
 tamilmirrorlk | 743
 adaderanalk | 756
-virakesarilk | 765
+virakesarilk | 766
 adaderanasinhalalk | 825
 dailymirrorlk | 886
 
@@ -26,11 +26,51 @@ dailymirrorlk | 886
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,125 (100.0%) of 6,125 articles have been extended.
+6,125 (100.0%) of 6,126 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### பாக்கிஸ்தான் தேர்தல் - வெற்றிபெற்றுள்ளதாக இம்ரான்கான் தெரிவிப்பு
+
+*2024-02-10 14:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/176039) · `ta`
+
+பாக்கிஸ்தான் தேர்தலில் இராணுவத்தின் ஒடுக்குமுறைகள் தேர்தல் மோசடிகளை மீறி இம்ரான்கானின் கட்சியுடன் இணைந்து போட்டியிட்ட வேட்பாளர்கள் வெற்றிபெற்றுள்ளனர்.
+
+முன்னாள் பிரதமர் நவாஸ்செரீவ் தலைமையிலான கூட்டணியே வெற்றிபெறும் என்ற எதிர்பார்ப்பு காணப்பட்ட நிலையில் அதனை மீறி பிடிஐ கட்சியுடன் இணைந்து போட்டியிட்டவர்கள் வெற்றிபெற்றுள்ளனர்
+
+கட்சிக்கு எதிரான ஒடுக்குமுறைகளை மீறி அடைந்துள்ள வெற்றியை கொண்டாடுமாறு அவர் தனது ஆதரவாளர்களை கேட்டுக்கொண்டுள்ளார்.
+
+265 ஆசனங்களிற்கான முடிவுகள் அறிவிக்கப்பட்டுள்ள நிலையில் இம்ரான் கானின் பிபிடி கட்சி 90 ஆசனங்களை கைப்பற்றியுள்ளது.
+
+பாக்கிஸ்தான் தேர்தல்களில் தலையிடும் ஆட்சியாளர்களை உருவாக்கும் வரலாற்றை கொண்ட பாக்கிஸ்தான் இராணுவத்தின் ஆதரவு முன்னாள் பிரதமர் நவாஸ்செரீவ் கட்சிக்குள்ளதாக கருத்து நிலவியமை குறிப்பிடத்தக்கது.
+
+எனினும் வாக்காளர்கள் முன்னொருபோதும் இல்லாத அளவிற்கு பிடிஐ கட்சிக்கும் இம்ரான்கானிற்கும் ஆதரவாக வாக்களித்துள்ளனர்.
+
+மக்கள் ஆதரவு காரணமாகவே செரீவ்விற்கு ஆதரவாக எதனையும் செய்ய முடியாமல் போனதாக பாக்கிஸ்தான் செய்திகள் தெரிவிக்கின்றன.
+
+...
+
+[Data](articles/48a11304.json)
+
+---
+
+### Namal Rajapaksa talks with Yogi Adityanath
+
+*2024-02-10 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/176035) · `ta`
+
+Sri Lanka's PA MP Namal Rajapaksa meets the Chief Minister of Uttar Pradesh Yogi Adityanath in India.
+
+Namal Rajapaksa has traveled to India on a two -day personal trip to attend the Ayodhya Rama Temple Pooja.
+
+◼️
+
+[Data](articles/017b9cae.json)
+
+[Extended Data](ext_articles/017b9cae.ext.json)
+
+---
 
 ### 7 killed in drone attack
 
@@ -67,22 +107,6 @@ Meanwhile, Parliamentarian Namal Rajapaksa thanked his loving hospitality in Utt
 [Data](articles/4e2fbbdf.json)
 
 [Extended Data](ext_articles/4e2fbbdf.ext.json)
-
----
-
-### Namal Rajapaksa talks with Yogi Adityanath
-
-*2024-02-10 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/176035) · `ta`
-
-Sri Lanka's PA MP Namal Rajapaksa meets the Chief Minister of Uttar Pradesh Yogi Adityanath in India.
-
-Namal Rajapaksa has traveled to India on a two -day personal trip to attend the Ayodhya Rama Temple Pooja.
-
-◼️
-
-[Data](articles/017b9cae.json)
-
-[Extended Data](ext_articles/017b9cae.ext.json)
 
 ---
 
@@ -1983,23 +2007,5 @@ The United People's Power is working closely with India and Indian leaders. Indi
 [Data](articles/1647c447.json)
 
 [Extended Data](ext_articles/1647c447.ext.json)
-
----
-
-### Jayasuriya congratulates Nissanka on breaking his record
-
-*2024-02-09 21:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jayasuriya-congratulates-Nissanka-on-breaking-his-record/108-276689) · `en`
-
-Feb 9 - Former national captain Sanath Jayasuriya was full of praise for opener Pathum Nissanka, who became the first Sri Lankan to score an ODI double century,
-
-"Congratulations to Pathum on a masterclass in batting. I am so so privileged to witness it in person pure bliss," Jayasuriya posted on X, formerly known as Twitter.
-
-Jayasuriya, who was recruited as a consultant coach in December last year, was present at the Pallekele stadium as Nissanka broke the former cricketer's 23-year record for the highest score by a Sri Lankan in ODI cricket.
-
-◼️
-
-[Data](articles/81fd35bd.json)
-
-[Extended Data](ext_articles/81fd35bd.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 21:17:11**
+As of **2024-02-10 21:32:58**
 
 ## Newspaper Stats
 
-*Scraped **6,166** Articles*
+*Scraped **6,168** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 73
+colombotelegraphcom | 74
 bbccomsinhala | 86
 dbsjeyarajcom | 145
 islandlk | 317
@@ -17,7 +17,7 @@ dailyftlk | 342
 newsfirstlk | 363
 adalk | 511
 tamilmirrorlk | 745
-adaderanalk | 765
+adaderanalk | 766
 virakesarilk | 769
 adaderanasinhalalk | 836
 dailymirrorlk | 896
@@ -26,7 +26,7 @@ dailymirrorlk | 896
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,166 (100.0%) of 6,166 articles have been extended.
+6,166 (100.0%) of 6,168 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -93,6 +93,20 @@ According to police, the two unidentified gunmen had subsequently fled the scene
 [Data](articles/7bdffc4a.json)
 
 [Extended Data](ext_articles/7bdffc4a.ext.json)
+
+---
+
+### 60-year-old killed in shooting in Negombo
+
+*2024-02-10 20:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97171/60-year-old-killed-in-shooting-in-negombo-) · `en`
+
+A 60-year-old individual has reportedly been gunned down and killed in the Galkanda area in Negombo.
+
+According to police, the two unidentified gunmen had subsequently fled the scene.
+
+◼️
+
+[Data](articles/b4b5680e.json)
 
 ---
 
@@ -607,6 +621,22 @@ The suspected woman has confessed to the Sri Lanka Customs that an unidentified 
 [Data](articles/2ba96fb7.json)
 
 [Extended Data](ext_articles/2ba96fb7.ext.json)
+
+---
+
+### Unraveling The Complexity Of Racism, A Global Perspective – Patali & Modi
+
+*2024-02-10 15:23:07* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/unraveling-the-complexity-of-racism-a-global-perspective-patali-modi/) · `en`
+
+Racism, an age-old societal ill, has embedded itself in various corners of the world, manifesting in different forms and shades. It is a divisive force that no enlightened individual would willingly embrace. Unfortunately, racists exist in every society, often driven by a misguided belief that aligning with discriminatory ideologies is a means of survival.
+
+A recent encounter with a photograph featuring Patali Champika Ranawaka and India’s Prime Minister, Narendra Modi, sparked reflections on the accusation of racism. Criticisms arose, labeling both individuals as racists, but the context within which these allegations emerged unveils a nuanced reality.
+
+Modi’s leadership in India has faced scrutiny, particularly concerning its impact on different ethnic and religious communities. While some may argue that his actions indicate racism, others assert that it stems from a sense of Nationalism. It is crucial to discern the thin line between nationalistic pride and discriminatory practices.
+
+...
+
+[Data](articles/7ddff309.json)
 
 ---
 
@@ -2027,43 +2057,5 @@ It is also reported that in some places in the Central, Sabaragamuwa and Western
 [Data](articles/0d2e8c67.json)
 
 [Extended Data](ext_articles/0d2e8c67.ext.json)
-
----
-
-### Soul Energise signs national distribution agreement
-
-*2024-02-10 06:13:00* · [`islandlk`](http://island.lk/soul-energise-signs-national-distribution-agreement/) · `en`
-
-Soul Coffee Group and Grape Expectations announced the signing of a national distribution agreement for the newly launched Soul Energise Drinks. The agreement will enable Soul Energise to be available across all major sales channels, including supermarkets,  hotels, bars, and restaurants across Sri Lanka.
-
-Soul Energise, a recently launched innovative beverage, is a tropical adventure drink crafted with natural caffeine from raw coffee beans and infused with tropical fruit flavours of Sri Lanka.  Soul Energise is a refreshing drink enriched with antioxidants, providing a natural caffeine boost and hydration. It is available in three tropical flavours: Original, Lemon Lime and Wild Orange. The beverage is packed with 15 essential vitamins, minerals and electrolytes, with reduced sugar and lower calories, creating a refreshing drink that energises before or after physical activity.
-
-...
-
-[Data](articles/8a89705e.json)
-
-[Extended Data](ext_articles/8a89705e.ext.json)
-
----
-
-### Tree uprooting racket in Sigiriya Forest Reserve busted
-
-*2024-02-10 06:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tree-uprooting-racket-in-Sigiriya-Forest-Reserve-busted/108-276690) · `en`
-
-Sigiriya, Feb 10 (Daily Mirror) -  A large-scale racket of uprooting trees in Sigiriya forest reserve and selling them to a hotel project was foiled by the wildlife conservators yesterday.
-
-During the raid, they arrested two suspects and seized a large stock of Bolpana trees, a plant species endemic to the area and endangered with extinction, transported to Gedigaswalana area to be planted in the hotel ground.
-
-Officials said the suspects had dug up the earth around the tree and uprooted it without causing damage to the root system, and transported them for replanting.
-
-Under interrogation, the suspects revealed that they received Rs.1,500 per tree from the owners of the hotel which was being built on a private land in Gedigaswalana area off Sigiriya.
-
-A team of wildlife conservators including Range Wildlife Conservators S.S.Malinda, D.M.Nilantha and A.D.B.Dhanushka had carried out the raid.
-
-◼️
-
-[Data](articles/26018fbc.json)
-
-[Extended Data](ext_articles/26018fbc.ext.json)
 
 ---

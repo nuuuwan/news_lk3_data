@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 12:17:32**
+As of **2024-02-10 12:33:05**
 
 ## Newspaper Stats
 
-*Scraped **6,109** Articles*
+*Scraped **6,111** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 363
 adalk | 507
 tamilmirrorlk | 739
 adaderanalk | 756
-virakesarilk | 761
+virakesarilk | 763
 adaderanasinhalalk | 821
 dailymirrorlk | 882
 
@@ -26,11 +26,53 @@ dailymirrorlk | 882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,107 (100.0%) of 6,109 articles have been extended.
+6,109 (100.0%) of 6,111 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### ‘யுக்திய’ நடவடிக்கை : மேலும் 663 சந்தேக நபர்கள் கைது
+
+*2024-02-10 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/176031) · `ta`
+
+யுக்திய நடவடிக்கையின் கீழ் கடந்த 24 மணித்தியாலங்களில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் 663 சந்தேக  நபர்கள்  கைது செய்யப்பட்டுள்ளதாகப் பொதுமக்கள் பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+கைது செய்யப்பட்டவர்களில் போதைப்பொருள் தொடர்பான குற்றச்சாட்டின் கீழ்  547 பேரும்,  தேடப்படும் குற்றவாளிகள் பட்டியலில் இருந்த 116 பேரும் அடங்குவர்.
+
+கைது செய்யப்பட்டவர்களில் 02 பேருக்கு எதிராக தடுப்புக் காவல் உத்தரவு பெற நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+போதைப்பொருளுக்கு அடிமையான 02 பேர் புனர்வாழ்வு நிலையத்திற்கு அனுப்பி வைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+போதைப்பொருள் தொடர்பான குற்றங்களுக்காக சந்தேக நபர்களில் 14 பேருக்கு எதிராக பிடியாணை பிறப்பிக்கப்பட்டுள்ளதாகவும்,  மேலும் 95 பேருக்கு எதிராக போதைப்பொருள் அல்லாத குற்றங்களுக்காக திறந்த பிடியாணை பிறப்பிக்கப்பட்டுள்ளதாகவும் அமைச்சு குறிப்பிட்டுள்ளது.
+
+இதன்போது 175 கிராம் ஹெரோயின் போதைப்பொருள், 197 கிராம் ஐஸ் போதைபொருள் , 515 கிராம் 538 மில்லி கிராம் கஞ்சா , 807 கஞ்சா செடிகள் என்பன கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/f318690f.json)
+
+---
+
+### காசாயுத்தத்திற்கு ஆதரவளிப்பது என்ற அமெரிக்காவின் முடிவினால்  இந்து சமுத்திரத்தில் அதன் செல்வாக்கிற்கு பாதிப்பு – ஜனாதிபதி கருத்து
+
+*2024-02-10 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/176029) · `ta`
+
+காசா யுத்தத்திற்கு ஆதரவளிப்பது என்ற அமெரிக்காவின் முடிவினால்  இந்து சமுத்திரத்தில் அமெரிக்காவின் செல்வாக்கு பாதிக்கப்படும் என ஜனாதிபதி ரணில்விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+பிராந்தியத்தில் உள்ள இஸ்லாமிய நாடுகளின் எதிர்ப்பின் காரணமாக இந்து சமுத்திரத்தில் அந்த நாடுகள் அமெரிக்காவுடன் நெருக்கமான உறவினை ஏற்படுத்துவது பாதிக்கப்படலாம் என ஜனாதிபதி தெரிவித்துள்ளார்.
+
+சீன ரஸ்ய ஈரானிய மூலோபாயங்கள் அமெரிக்காவின் ஆதிக்கத்தினை மிகச்சரியான தாக்குகின்றன அமெரிக்காவை மேலும் பலவீனமாக்குகின்றன எனவும ரணில்விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+இந்துசமுத்திரத்தில் ஸ்திரதன்மை நிலவவேண்டும் என்றால் காசா யுத்தம் கூடிய விரைவில் முடிவிற்கு வரவேண்டும் அதன் பின்னர் ஐந்து வருடங்களிற்குள் சுதந்திர பாலஸ்தீனம் உருவாகவேண்டும் இஸ்ரேலின் பாதுகாப்பு உறுதிப்படுத்தப்படவேண்டும் எனவும் ஜனாதிபதி தெரிவித்துள்ளார்.
+
+அவுஸ்திரேலியாவின் பேர்த்தில் இடம்பெறுகின்ற ஏழாவது இந்து சமுத்திர மாநாட்டில் ஜனாதிபதி இதனை தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/3f526717.json)
+
+---
 
 ### ‘Attacks on fishermen rising on Sri Lankan waters’: Tamil Nadu CM urges PM Modi to intervene
 
@@ -47,6 +89,8 @@ He said there has been a significant rise in the number of arrests of fishermen 
 ...
 
 [Data](articles/52784f8f.json)
+
+[Extended Data](ext_articles/52784f8f.ext.json)
 
 ---
 
@@ -989,6 +1033,8 @@ The party leader I am referrig to is Somasundaram Senathirajah known popularly a
 ...
 
 [Data](articles/3305ba9b.json)
+
+[Extended Data](ext_articles/3305ba9b.ext.json)
 
 ---
 
@@ -1947,47 +1993,5 @@ The President pointed out that only the leaders of the Union of India (IORA) in 
 [Data](articles/4961a843.json)
 
 [Extended Data](ext_articles/4961a843.ext.json)
-
----
-
-### Imran Khan in Pakistani General Elections
-
-*2024-02-09 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193186) · `si`
-
-The results of this year's general election this year's general election is being released as the corrupt general election of Pakistan.
-
-Of the results of the election, it is noteworthy that the candidates of the former Prime Minister Imran Khan's party is currently in prison.
-
-The results of the Pakistani General Election of Pakistani yesterday (08) have been released.
-
-The results of 122 electoral seats have been released, and the candidates have been able to confirm the win of 49 seats.
-
-A former Prime Minister of the country has won 39 seats and has won only 30 seats.
-
-Although the Pakistan Elections Commission says that the Elections Commission says that there is an extent of issuing the results of the Internet bugs, but the candidates who are indefinated, the candidates are independent of the voting results delay the deliberate results.
-
-◼️
-
-[Data](articles/a7f5ce89.json)
-
-[Extended Data](ext_articles/a7f5ce89.ext.json)
-
----
-
-### Harsha de Silva reappointed as COPF chairman
-
-*2024-02-09 20:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97150/harsha-de-silva-reappointed-as-copf-chairman) · `en`
-
-Member of Parliament Dr. Harsha de Silva has been reappointed as the chairperson of the Committee on Public Finance (COPF).
-
-The Committee of Selection had nominated MPs to serve in the COPF and, as such, de Silva was selected yet again as the committee’s chair.
-
-Earlier today (Feb.09), during the parliamentary session, Speaker Mahinda Yapa Abeywardena announced members nominated to the COPF.
-
-◼️
-
-[Data](articles/d38f465f.json)
-
-[Extended Data](ext_articles/d38f465f.ext.json)
 
 ---

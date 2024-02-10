@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 10:17:17**
+As of **2024-02-10 10:32:45**
 
 ## Newspaper Stats
 
-*Scraped **6,093** Articles*
+*Scraped **6,095** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 506
 tamilmirrorlk | 739
 adaderanalk | 751
 virakesarilk | 759
-adaderanasinhalalk | 817
+adaderanasinhalalk | 819
 dailymirrorlk | 879
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,093 (100.0%) of 6,093 articles have been extended.
+6,093 (100.0%) of 6,095 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### සැකකරුවන් දෙදෙනෙකු එස්ටීඑෆ් අත්අඩංගුවට
+
+*2024-02-10 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193203) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් බවට සැක කරන පුද්ගලයින් දෙදෙනෙකු පොලිස් විශේෂ කාර්ය බළකාය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ, දැඩිගමුව හා හංවැල්ල ප්‍රදේශවල සිදු කළ මෙහෙයුමක දී විදේශගත ව සිටින සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙකුගේ අනුගාමිකයින් සමඟ සමීප සබඳතා පවත්වන අපරාධ කල්ලි සාමාජිකයින් බවට සැකකරන පුද්ගලයින් දෙදෙනෙකු අත්අඩංගුවට ගැනීමට හැ කිවූ බවයි.
+
+අත්අඩංගුවට ගෙන ඇත්තේ 24 හා 37 හැවිරිදි වියේ පසු වන පාදුක්ක හා හංවැල්ල ප්‍රදේශයේ පදංචිකරුවන් දෙදෙනෙකි.
+
+සැකකරුවන් සතු ව තිබී අනන්‍යතාව තහවුරු කර ගැනීමට නොහැකි වූ යතුරුපැදි 02ක්, තවත් යතුරුපැදි අංක තහඩු දෙකක් හා ජංගම දුරකථන 02ක් විමර්ශන නිලධාරීන් භාරයට ගෙන ඇත.
+
+සැකකරුවන් වැඩිදුර විමර්ශන කටයුතු සඳහා අතුරුගිරිය පොලිස් ස්ථානය වෙත භාර දි තිබේ.
+
+◼️
+
+[Data](articles/7ee7c243.json)
+
+---
+
+### ජෙට් යානා අනතුරකින් දෙදෙනෙකු මරුට
+
+*2024-02-10 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193202) · `si`
+
+ෆ්ලොරිඩා ප්‍රාන්තයේ දී පෞද්ගලික ජෙට් යානයක් අධිවේගී මාර්ගයකට කඩා වැටීමෙන් පුද්ගලයන් දෙදෙනෙකු මිය ගොස් තිබේ.
+
+විදෙස් වාර්තා සඳහන් කළේ, ජෙට් යානය අනතුරට ලක් වන විට පුද්ගලයින් පස් දෙනෙකු එහි ගමන් කර ඇති බවයි.
+
+ජෙට් යානය අධිවේගී මාර්ගයකට කඩා වැටීමත් සමඟ පුද්ගලයින් තිදෙනෙකුගේ දිවි බේරා ගැනීමට ගලවා ගැනීමේ කණ්ඩායම් සමත් ව ඇත.
+
+ගුවන් යානය නේපල්ස් නාගරික ගුවන්තොටුපොළට ගොඩබෑමට මිනිත්තු දෙකකට පෙර, ගුවන් නියමුවා විසින් ගමනාගමන පාලකවරයාට යානයේ එන්ජිම ක්‍රියාවිරහිත වී ඇති බව දන්වා හදිසි ගොඩබෑමක් අවශ්‍ය බව පවසා ඇති බව විදෙස් වාර්තා සඳහන් කරයි.
+
+◼️
+
+[Data](articles/2a0bc12c.json)
+
+---
 
 ### President meets Indian Foreign Minister in Australia
 
@@ -1933,47 +1971,5 @@ Contributions from Avishka Fernando (88) and Sadeera Samarawickrama were dwarfed
 [Data](articles/799e9ffe.json)
 
 [Extended Data](ext_articles/799e9ffe.ext.json)
-
----
-
-### Pathum Nissanka smashes Sri Lanka’s first-ever double century in ODI history
-
-*2024-02-09 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97147/pathum-nissanka-smashes-sri-lankas-first-ever-double-century-in-odi-history) · `en`
-
-Sri Lanka’s top order batter Pathum Nissanka on Friday (Feb.09) stroked the maiden double-century hit by a Sri Lankan cricketer in ODI format.
-
-Nissanka scored 210 off just 139 balls to register the first-ever individual double century for the Lions.
-
-The 25-year-old will go down in the ODI history as the 12th player to hit a double-century in international cricket.
-
-A short while ago, the star opener played a delightful knock against Afghanistan in the first ODI at the Pallekele International Cricket Stadium.
-
-Sri Lanka were 370/2 when Nissanka reached this historic milestone.
-
-Meanwhile, Nissanka also broke the record 189 runs scored by Sanath Jayasuriya against India in Sharjah in 2000, which remained the highest ODI score amassed by a Sri Lankan for over 20 years.
-
-This also re-writes the history as the highest number of runs scored by a Sri Lankan player at a home playground breaking the record.
-
-...
-
-[Data](articles/999f303e.json)
-
-[Extended Data](ext_articles/999f303e.ext.json)
-
----
-
-### 21 Pakistani students to visit Pakistan High Commission
-
-*2024-02-09 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175997) · `ta`
-
-A group of 21 students attending Grade 6 in Academia Civitas, a private school in Karachi, Pakistan, who is on a goodwill visit to Sri Lanka, visited the Pakistan High Commission on Friday (9). The Chancellor Mrs.. They were headed by Almas Riaz.
-
-High Commissioner Wajith Hasan Hashmi and other officials of the High Commission welcomed the students. Students were explained on the relations between Pakistan and Sri Lanka. The school's principal thanked the Pakistani High Commission for his well -welcomed the students.
-
-◼️
-
-[Data](articles/99dc581e.json)
-
-[Extended Data](ext_articles/99dc581e.ext.json)
 
 ---

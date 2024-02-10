@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 15:50:39**
+As of **2024-02-10 16:02:23**
 
 ## Newspaper Stats
 
-*Scraped **6,130** Articles*
+*Scraped **6,135** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 73
 bbccomsinhala | 86
 dbsjeyarajcom | 145
-islandlk | 316
+islandlk | 317
 economynextcom | 318
 dailyftlk | 342
 newsfirstlk | 363
-adalk | 507
+adalk | 509
 tamilmirrorlk | 743
-adaderanalk | 758
+adaderanalk | 760
 virakesarilk | 766
 adaderanasinhalalk | 827
 dailymirrorlk | 886
@@ -26,11 +26,47 @@ dailymirrorlk | 886
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,130 (100.0%) of 6,130 articles have been extended.
+6,130 (99.9%) of 6,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### Cleaning staffer arrested at BIA with stock of gold worth Rs. 58mn
+
+*2024-02-10 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97166/cleaning-staffer-arrested-at-bia-with-stock-of-gold-worth-rs-58mn) · `en`
+
+A stock of gold jewelry and gold in gel form worth around Rs. 58 million has been seized while being smuggled out of the airport by a female employee of a private cleaning company at the Bandaranaike International Airport (BIA).
+
+The contraband was impounded by a group of officials of the Narcotics Control Unit of Sri Lanka Customs this morning (Feb. 10).
+
+The apprehended woman has been identified as a 55-year-old resident of the Miridiyalanda area of Veyangoda.
+
+The suspected woman has confessed to the Sri Lanka Customs that an unidentified lady had given her the parcel containing the stock of gold inside a lavatory of the duty free mall area at the BIA. She has further stated that the said woman promised to pay her Rs. 60,000 after handing over the parcel to a person outside the airport premises.
+
+...
+
+[Data](articles/2ba96fb7.json)
+
+---
+
+### Applications called for post of Director General to Bribery Commission
+
+*2024-02-10 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97165/applications-called-for-post-of-director-general-to-bribery-commission) · `en`
+
+Applications have been called for the appointment of the Director General to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), the Parliamentary Communications Department announced.
+
+Applications are called pursuant to the provisions stipulated in the Anti-Corruption Act No 9 of 2023, it said in a statement.
+
+For this, the qualified persons will have to prepare the applications in accordance with the format published on the Parliament’s official website (www.parliament.lk) falling under ‘Quick Links’ titled “Appointment of the Director General to the Commission to Investigate Allegations of Bribery or Corruption”.
+
+The duly completed applications should be sent via registered post referred to the Secretary General of the Constitutional Council, Constitutional Council-Office, Parliament of Sri Lanka, Sri Jayewardenepura Kotte or via email to constitutionalcouncil@parliament.lk on or before 04 March 2024.
+
+...
+
+[Data](articles/ddbd4d2a.json)
+
+---
 
 ### He did not interview diabetes drug - Professor Arjuna de Silva
 
@@ -203,6 +239,24 @@ He further stated that he has previously had to inform the prime minister before
 [Data](articles/2222acee.json)
 
 [Extended Data](ext_articles/2222acee.ext.json)
+
+---
+
+### මුලින්ම තියෙන්නේ ජනපතිවරණයයි
+
+*2024-02-10 13:36:07* · [`adalk`](https://www.ada.lk/breaking_news/මුලින්ම-තියෙන්නේ-ජනපතිවරණයයි/11-407993) · `si`
+
+ලබන ජූලි ,අගෝස්තු වෙනකොට මහ මැතිවරණය හා ජනාධිපතිවරණය පැවැත්විය යුතු බවත් පළමුව පැවැත්වීමට නියමිතව ඇත්තේ ජනපතිවරණයන බවත් හිටපු ක්‍රීඩා අමාත්‍ය රොෂාන් රණසිංහ මහතා පැවැසීය.
+
+පොලොන්නරුවේ පැවැති ක්‍රීඩා උත්සවයකදි මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව පැවැසීය.
+
+"ලබන ජූලි ,අගෝස්තු වෙනකොට මහ මැතිවරණය හා ජනාධිපතිවරණය පැවැත්වෙන්න ඕන.ඉස්සෙල්ලා තියෙන්න තියෙන්නෙ ජනාධිපතිවරණය .ඊට පස්සෙ තමයි මහ මැතිවරණය තියෙන්නෙ තියෙන්නෙ.ඒ නිසා ජිල් මාට් දාන්නෙ නැතුව ජනතාවගෙ පරමාධිපත්‍ය වන චන්දය නියම වෙලාවට තියන්න කියලා කියනවා.
+
+රටට ආයෝජන අවශ්‍යයි.ඔවුන් මොන රටේද  කියන නෙමෙයි වැදගත්වෙන්නෙ.ඒ නිසා රටට වැදගත් ආයෝජන අවශ්‍යයි රටක් ගොඩ ගන්න.නමුත් ඒ ආයෝජන ලබා දෙනකොට ටෙන්ඩර් ක්‍රමයකට ලබා දෙන්න ඕන.එක එක්කෙනා තෝරාගෙන ආයෝජන දුන්නහම තමයි දූෂණ සිදුවෙන්නෙ.
+
+...
+
+[Data](articles/b2e49502.json)
 
 ---
 
@@ -649,6 +703,22 @@ State leaders in Sri Lanka have been deceived for a long time. The heads of stat
 [Data](articles/48f46a8f.json)
 
 [Extended Data](ext_articles/48f46a8f.ext.json)
+
+---
+
+### ප්‍රධාන රාජ්‍ය බැංකු දෙක දැවැන්ත අර්බුදයක - අගමැති
+
+*2024-02-10 09:56:20* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රධාන-රාජ්‍ය-බැංකු-දෙක-දැවැන්ත-අර්බුදයක---අගමැති/11-407991) · `si`
+
+ශ්‍රී ලංකාවේ ආර්ථික අර්බුදය විසඳීම සඳහා නව මොඩලයකට යාමට ජනපති ප්‍රමුඛ ආණ්ඩුවට හැකිවූ බවද, ආණ්ඩුව අනුගමනය කරන්නේ ප්‍රයෝගික මොඩලයක් බවද අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා ප්‍රකාශ කළේය.
+
+පාසල් හැරයන, පාසල් අධ්‍යාපනයෙන් හැලෙන සෑම දරුවෙකුටම වෘත්තීය පුහුණුව දෙන වැඩපිළිවෙළක් මේ වසරේ ක්‍රියාත්මක කරන බවද ඔහු පැවසීය. සභාග ආණ්ඩු දේශපාලනයේ පාර්ලිමේන්තු ක්‍රමය අනුගමනය කිරිම්මේදී ප්‍රවේශමෙන් තීරණ ගතයුතු බවත්, මන්ත්‍රීවරුන් සහ රටවැසියාගේ බලාපොරොත්තු මෙන්ම රට මුහුණ දෙන තත්ත්වය  යුතු බවත් අග්‍රාමාත්‍යවරයා සඳහන් කළේය.
+
+ඔහු මේ බව කියා සිටියේ, නව වැනි පාර්ලිමේන්තුවේ 5 වැනි සැසිවාරය විවෘත කරමින් ජනාධිපතිවරයා කළ කතාව සම්බන්ධයෙන් පාර්ලිමේන්තුවේ පැවැත්වෙන කල්තැබීමේ විවාදයට  එක්වෙමිනි.
+
+...
+
+[Data](articles/9b734823.json)
 
 ---
 
@@ -1921,95 +1991,5 @@ He was the highest scorer of the Afghanite innings of the Afghanity of the Afgha
 [Data](articles/f88f4f28.json)
 
 [Extended Data](ext_articles/f88f4f28.ext.json)
-
----
-
-### Central Bank's Bailout Fraud
-
-*2024-02-09 22:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176005) · `ta`
-
-Former President Maithripala Sirisena said that the government should make special attention to the release of 10 persons, including Arjuna Mahendran, who was named as the culprit of the Central Bank.
-
-He was speaking at the adjournment debate on the President's Policy Declaration of the President on Friday (9) in Parliament.
-
-In a statement issued to MPs on the president's policy speech, the United People's Freedoms can cooperate when he has cooperated with the country's criticism of the country.. In the government of goodwill, the Janatha Vimukthi Peramuna (JVP) came to the forefront of corruption.
-
-The President of the Janatha Vimukthi Peramuna (JVP) has recommended that Ananda Palitha be given the responsibilities of the corruption office, but President Ranil Wickremesinghe did not mention his policy speech.
-
-...
-
-[Data](articles/130f149e.json)
-
-[Extended Data](ext_articles/130f149e.ext.json)
-
----
-
-### The appearance of negative effects if the current improvement is not stable - Harsha de Silva
-
-*2024-02-09 22:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176004) · `ta`
-
-Following the cooperation of the IMF, we have accepted that the country's economy has been stabilized.
-
-He was speaking at the adjournment debate on the President's Policy Declaration of the President on Friday (9) in Parliament.
-
-Following the cooperation of the IMF, we accept that the country's financial situation is stability. The national economy has been suppressed by the wrong decisions implemented for the stabilization of the economy.
-
-The economy has doubled due to the government's resolutions for economic impact.. Are struggling. The current stability is temporary.
-
-In order to achieve stable economic stability, the social marketing economy is implemented by the economy. Personal freedom is essential in economic affairs. Economic independence must be ensured if the industry and the veterans are to be promoted.
-
-...
-
-[Data](articles/345c33bb.json)
-
-[Extended Data](ext_articles/345c33bb.ext.json)
-
----
-
-### The father's life is the last
-
-*2024-02-09 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193190) · `si`
-
-A person who remained near the road to his son in Madurankuliya, Madurankuliya, has been unfortunately retired from a road accident.
-
-Our correspondent said that the accident had occurred near the road near the road today (09).
-
-The victim is a 49 year old Warnakulaus Genera, a resident of Madurankuliya Post-Nuwara Eliya.
-
-The man who was taken from home to the school, the school was shifted to the school, was shifted near the road until the school bus was shifted to school in Chilaw.
-
-At the same time, the WagonR type car was frightened and the fisher who was immediately running quickly pushed the son at once.
-
-At the same time, the father tried to leave the place, the accident had occurred.
-
-Residents say that the daughter was near the son and that the father was unconscious in the middle of a lake.
-
-The father was killed in the same location, the father of the heavy damaged.
-
-However, our son-in-law has been traumatized due to the father's death with the accident.
-
-...
-
-[Data](articles/9187b7bb.json)
-
-[Extended Data](ext_articles/9187b7bb.ext.json)
-
----
-
-### Diana’s expulsion case postponed as SC bench not properly constituted
-
-*2024-02-09 22:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dianas-expulsion-case-postponed-as-SC-bench-not-properly-constituted/108-276691) · `en`
-
-Colombo, Feb 09 (Daily Mirror) - The three-judge-bench of the Supreme Court that was set to hear the expulsion petition filed by State Minister Diana Gamage challenging the Samagi Jana Balawegaya’s (SJB) decision to expel her from party membership has been postponed yet again since the  Supreme Court bench was not properly constituted.
-
-Accordingly, the Supreme Court two-judge-bench comprising Justices S. Thurairaja and Kumuduni Wickremasinghe fixed the matter for further argument on February 28.
-
-In her petition, Diana Gamage is seeking a declaration that the decision to expel her from the SJB communicated to her via letter dated 08th October 2021, is made in violation of the constitution of the SJB. Gamage stated that the party decision to expel her from party membership was unlawful and contrary to natural justice.
-
-...
-
-[Data](articles/582d16e3.json)
-
-[Extended Data](ext_articles/582d16e3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 14:02:28**
+As of **2024-02-10 14:17:18**
 
 ## Newspaper Stats
 
-*Scraped **6,115** Articles*
+*Scraped **6,117** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,73 @@ newsfirstlk | 363
 adalk | 507
 tamilmirrorlk | 739
 adaderanalk | 756
-virakesarilk | 764
-adaderanasinhalalk | 823
+virakesarilk | 765
+adaderanasinhalalk | 824
 dailymirrorlk | 883
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,114 (100.0%) of 6,115 articles have been extended.
+6,115 (100.0%) of 6,117 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
 
-### ஒருங்கியல் அதிகாரப்பட்டியலில் உள்ள அதிகாரங்களை அதில் அனேகமானவற்றை அல்லது தேவையானவற்றை வழங்க  தயாராகவுள்ளோம் - ஜனாதிபதி
+### யோகி ஆதித்யநாத்துடன் நாமல் ராஜபக்ஷ பேச்சுவார்த்தை நடத்தினார்
 
-*2024-02-10 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176033) · `ta`
+*2024-02-10 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/176035) · `ta`
 
-ஒருங்கியல் அதிகாரப்பட்டியலில் உள்ள  அதிகாரங்களை அதில் அனேகமானவற்றை அல்லது தேவையானவற்றை வழங்க  தயாராகவுள்ளோம் என ஜனாதிபதி ரணில்விக்கிரமசிங்க தெரிவித்துள்ளார்
+இந்தியாவின் உத்தர பிரதேச முதல்வா் யோகி ஆதித்யநாத்தை ஶ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ  சந்தித்துள்ளார்.
 
-அடுத்த வருடம் மாகாணசபை தேர்தல்களை நடத்துவோம் நாடாளுமன்ற அமர்வுகளை ஆரம்பித்துவைத்து உரையாற்றியவேளை நான் தெரிவித்தது போல நாங்கள் ஒவ்வொரு மாகாணசபைக்கும் அதன் சொந்த பொருளாதாரத்தை வழங்க விரும்புகின்றோம்.
+நாமல் ராஜபக்ஷ அயோத்தி ராமர் கோவில் பூஜையில் கலந்துகொள்வதற்காக இரண்டு நாள் தனிப்பட்ட பயணமாக இந்தியாவிற்கு சென்றுள்ளார்.
 
-அதன்காரணமாக இந்தியா போன்று ஒவ்வொரு மாகாணமும் ஏனைய மாகாணத்தின் பொருளாதாரத்துடன் போட்டியிடும்.இதனால் நன்மையேற்படும் பொருளாதாரம் போட்டிதன்மை மிகுந்ததாக காணப்படும்.
+◼️
 
-மேலும் இந்த மாகாணங்கள் தங்களின் பொருளாதார சமூக அபிவிருத்தியை தேசிய கொள்கை கட்டமைப்பிற்குள் கையாளவேண்டும்.
+[Data](articles/017b9cae.json)
 
-இந்த அடிப்படையில் ஒருங்கியல் அதிகாரப்பட்டியலில் உள்ள அதிகாரங்களை அதில் அனேகமானவற்றை அல்லது தேவையானவற்றை வழங்க  தயாராகவுள்ளோம்.
+---
+
+### ශ්‍රී ලංකා අත්අඩංගුවේ පසු වන ඉන්දීය ධීවරයන් ගැන මෝදිට ලිපියක්
+
+*2024-02-10 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193208) · `si`
+
+ශ්‍රී ලංකාවේ ආරක්ෂක අංශ විසින් අත්අඩංගුවට ගෙන සිටින ඉන්දීය ධීවරයින් නිදහස් කරගැනීම සඳහා වහාම මැදිහත් ව එම ක්‍රියාවලිය කඩිනම් කරන ලෙස ඉල්ලමින් තමිල්නාඩු මහ ඇමති එම්. කේ ස්ටාලින් විසින් ඉන්දීය අගමැති නරේන්ද්‍ර මෝදි වෙත ලිපියක් යොමුකර තිබේ.
+
+ශ්‍රී ලංකාවේ මුහුදු සීමාවට අනවසරයෙන් ඇතුළු වූ බවට චෝදනා කරමින් අත්අඩංගුවට ගෙන සිටින ඉන්දීය ධීවරයින් නිදහස් කර ගැනීමට මැදිහත් වන ලෙස ස්ටාලින් අගමැතිවරයාගෙන් ඉල්ලා ඇත.
+
+ඔහු පවසා ඇත්තේ, සිය ධීවර ප්‍රජාවට මුහුණ දීමට සිදු වන අපහසුතා සම්බන්ධයෙන් සිය කනස්සල්ල පළ කරන බවය.
+
+දෙමළ ඉන්දීය ධීවරයින් සහ ඔවුන්ගේ බෝට්ටු ශ්‍රී ලංකාවේ ආරක්ෂක අංශ විසින් අත්අඩංගුවට ගැනීම් ඉහළ ගොස් ඇති බවත් එය ඔවුන්ගේ ජීවනෝපායට දැඩි ලෙස බලපාන බවත් අමාත්‍යවරයා සිය ලිපියේ සඳහන් කර ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
 
 ...
 
+[Data](articles/2222acee.json)
+
+---
+
+### We are ready to provide the powers in the coordinating authority - many things or necessary - the President
+
+*2024-02-10 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176033) · `ta`
+
+President Ranil Wickremesinghe says that we are ready to provide many things or necessary for the powers in the coordinating authority.
+
+We want to provide its own economy to every provincial council, as I said, inaugurating the parliamentary session next year.
+
+As such, every province, like India, will compete with the economy of the other province.
+
+Moreover, these provinces must handle their economic social development within the National Policy Framework.
+
+On this basis, we are ready to provide many of the powers in the unity list.
+
+Some minority groups have made an appeal for the Senate. We will not oppose it as far as we are concerned. But all parties must accept it.
+
+◼️
+
 [Data](articles/9574c449.json)
+
+[Extended Data](ext_articles/9574c449.ext.json)
 
 ---
 
@@ -1953,47 +1989,5 @@ As the only European bank operating in Sri Lanka, with a dedicated team well-ver
 [Data](articles/7f346bb5.json)
 
 [Extended Data](ext_articles/7f346bb5.ext.json)
-
----
-
-### Buying interest in JKH stocks stokes CSE vibrancy
-
-*2024-02-09 20:57:00* · [`islandlk`](http://island.lk/buying-interest-in-jkh-stocks-stokes-cse-vibrancy/) · `en`
-
-The stock market was initially sluggish yesterday but latterly picked up with buying interest proving notable in JKH stocks. This resulted in moving other stocks as well, market analysts said.
-
-However, the stock market performance has not been at a satisfactory level generally due to delays in Sri Lanka’s external debt restructuring exercise and also because of the absence of any mechanisms to boost the market.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 26.6 points, while S and P SL20 rose by 10.4 points. Turnover stood at Rs 972 million with one crossing. The crossing was reported in JKH, which crossed 300,000 shares to the tune of Rs 55.6 million; its shares traded at Rs 185.25.
-
-...
-
-[Data](articles/f09bce6a.json)
-
-[Extended Data](ext_articles/f09bce6a.ext.json)
-
----
-
-### Two arrested suspects in Beliatta
-
-*2024-02-09 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193189) · `si`
-
-Two suspects have been arrested by the STF personnel who prepared forged vehicle number plates and fake documents.
-
-Officers of the Special Task Force Organized Crime Corruption Unit have arrested one suspect in the Mulleriya police Division in the Mulleriyawa Police Division in the Mulleriyawa Police Division.
-
-The arrestedium is a 56-year-old resident of the Mulleriyawa area.
-
-The suspect is currently being shooting as a bulk of the jeep, which is a driver of the Jip of the Festival of Beliatta, have had a fake license to two motorbikes to the hiding suspect a few months ago.Intercepted investigations have been revealed at present.
-
-Accordingly, inquiry officers have been taken into custody by the inspection of the suspect's home.
-
-Meanwhile, a person who has been arrested by the Jip of Beliatta murder has been arrested yesterday (08).
-
-...
-
-[Data](articles/2b2705dd.json)
-
-[Extended Data](ext_articles/2b2705dd.ext.json)
 
 ---

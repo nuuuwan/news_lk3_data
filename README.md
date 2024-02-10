@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 14:32:50**
+As of **2024-02-10 14:49:08**
 
 ## Newspaper Stats
 
-*Scraped **6,118** Articles*
+*Scraped **6,125** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,57 @@ economynextcom | 318
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 507
-tamilmirrorlk | 739
+tamilmirrorlk | 743
 adaderanalk | 756
 virakesarilk | 765
 adaderanasinhalalk | 825
-dailymirrorlk | 883
+dailymirrorlk | 886
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,117 (100.0%) of 6,118 articles have been extended.
+6,125 (100.0%) of 6,125 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
 
-### ඩ්‍රෝන ප්‍රහාරයකින් 07 දෙනෙකු මරුට
+### 7 killed in drone attack
 
 *2024-02-10 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193209) · `si`
 
-රුසියාව විසින් යුක්‍රේනයට එල්ල කළ ඩ්‍රෝන ප්‍රහාරයකින් පුද්ගලයින් 07 දෙනෙකු මිය ගොස් තිබේ.
+7 people have been killed in a drone attack on Ukraine by Russia.
 
-මිය ගිය පුද්ගලයන් අතර ළමුන් තිදෙනෙකු ද සිටින බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+There are three children among the dead, foreign media reports.
 
-ප්‍රහාරය හේතුවෙන් නිවාස 14ක් ගිනි ගෙන විනාශ වී ඇති බව සඳහන් ය.
+He said that 14 houses have been destroyed due to the attack.
 
-ගින්නත් සමඟ නිවාසවල රැඳී සිටි ජනතාව ආරක්ෂිත ස්ථාන කරා යොමු කිරීමට යුක්‍රේන ආරක්ෂක අංශ පියවර ගෙන තිබිණි.
+Ukrainian security forces had taken steps to lead the people who were homes with fire.
 
 ◼️
 
 [Data](articles/ee9e2972.json)
+
+[Extended Data](ext_articles/ee9e2972.ext.json)
+
+---
+
+### Namal Darshan at Ayodhya Rama Temple
+
+*2024-02-10 13:53:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அயோத்தி-ராமர்-கோவிலில்-நாமல்-தரிசனம்/175-332970) · `ta`
+
+Parliamentarian Namal Rajapaksa has visited Uttar Pradesh for two days to visit the Ayodhya Rama Temple.
+
+He was staying in Uttar Pradesh and met Chief Minister Yogi Adityanath and Deputy Chief Minister Brikesh Patek.
+
+Meanwhile, Parliamentarian Namal Rajapaksa thanked his loving hospitality in Uttar Pradesh. Remble
+
+◼️
+
+[Data](articles/4e2fbbdf.json)
+
+[Extended Data](ext_articles/4e2fbbdf.ext.json)
 
 ---
 
@@ -152,6 +172,64 @@ The Rajapakse Group is already conducting administrative activities of 7 airport
 
 ---
 
+### Troops reap the harvest…
+
+*2024-02-10 12:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Troops-reap-the-harvest/110-276679) · `en`
+
+Troops from the Sri Lanka Army Corps of Agriculture and Livestock harvesting the paddy cultivated near the fields of the Army headquarters in Colombo. They currently maintain 20 farms island-wide, covering a total of 7,500 acres, which include 450 acres dedicated to paddy cultivation. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/6a280491.json)
+
+[Extended Data](ext_articles/6a280491.ext.json)
+
+---
+
+### Pakistan election: US, UK and EU urge probe, express concern
+
+*2024-02-10 12:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pakistan-election-US-UK-and-EU-urge-probe-express-concern/108-276736) · `en`
+
+(Reuters) - The United States, Britain and the European Union on Friday separately expressed concerns about Pakistan's electoral process in the wake of a vote on Thursday and urged a probe into reported irregularities.
+
+The main battle was between former prime minister Nawaz Sharif's party and candidates backed by ex-prime minister Imran Khan. Both declared victory separately.
+
+Elections were held for 265 seats in the national assembly and a political party needs 133 seats for a simple majority.
+
+The U.S. and the EU both mentioned allegations of interference, including arrests of activists, and added that claims of irregularities, interference and fraud should be fully investigated.
+
+Khan is in jail and his Pakistan Tehreek-e-Insaf (PTI) party has been barred from the polls. Independents, most of them backed by Khan, had won the most seats - 98 of the 245 counted by 1830 GMT - while Sharif's Pakistan Muslim League-Nawaz (PML-N) party had won 69 seats.
+
+...
+
+[Data](articles/fe0ed0f4.json)
+
+[Extended Data](ext_articles/fe0ed0f4.ext.json)
+
+---
+
+### Mother sexually abusing her mother
+
+*2024-02-10 12:28:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாயை-கட்டிவைத்து-விட்டு-சிறுமி-பாலியல்-துஷ்பிரயோகம்/175-332969) · `ta`
+
+A man allegedly allegedly allegedly allegedly sexually abusing a 13 -year -old girl was arrested yesterday (9).
+
+He was involved in an inappropriate relationship with the mother of the victim, police said.
+
+During the incident, the suspect came home while intoxicated, and she took the girl's mother's arms and feet in the kitchen and took the girl into a room and sexually abused her.
+
+The mother of the victim has lodged a complaint at the Minuwangoda Police Station.
+
+The suspect has been arrested and the victim has been subjected to the hospital for examination, police said.
+
+◼️
+
+[Data](articles/0228dd99.json)
+
+[Extended Data](ext_articles/0228dd99.ext.json)
+
+---
+
 ### 663 suspects arrested
 
 *2024-02-10 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/176031) · `ta`
@@ -236,6 +314,28 @@ He said there has been a significant rise in the number of arrests of fishermen 
 
 ---
 
+### You can apply for Aswesum payments from today
+
+*2024-02-10 11:44:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-அஸ்வெசும-கொடுப்பனவுக்கு-விண்ணப்பிக்கலாம்/175-332968) · `ta`
+
+The Ministry of Finance has said that the application for applications for selecting 4 lakh new Aswell beneficiaries nationwide will commence today (10).
+
+Finance Minister Shehan Semasinghe said that those who are eligible to receive allowances under this scheme will be given the allowance from April 1.
+
+According to the advice obtained from various parties when selecting the beneficiaries of Aswesa, steps have been taken to correct certain conditions.
+
+If anyone is unable to apply for this scheme according to the conditions used in selecting families, they can apply.
+
+Meanwhile, Ashemu payments have been increased with effect from January. Remble
+
+◼️
+
+[Data](articles/5a5480d9.json)
+
+[Extended Data](ext_articles/5a5480d9.ext.json)
+
+---
+
 ### Trade union action postponed for health trade unions seeking employment rights
 
 *2024-02-10 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176012) · `ta`
@@ -275,6 +375,22 @@ The suspects were 38 years old, residents of Eswella and Nelumdeniya.
 [Data](articles/40886d28.json)
 
 [Extended Data](ext_articles/40886d28.ext.json)
+
+---
+
+### Biki murder;The person who is trapped with the handbag
+
+*2024-02-10 11:14:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிக்கு-கொலை-கைக்குண்டு-ஒன்றுடன்-சிக்கிய-நபர்/175-332967) · `ta`
+
+Another suspect has been arrested in connection with the shooting of a Buddhist monk at a Vikarai in Malwattu - Hiripitiya area.
+
+Police said that a handgun and a handgun have been recovered from the suspect. Remble
+
+◼️
+
+[Data](articles/cc89589f.json)
+
+[Extended Data](ext_articles/cc89589f.ext.json)
 
 ---
 
@@ -970,6 +1086,22 @@ The final draft of the new law titled ‘Non-governmental Organizations (Registr
 
 ---
 
+### NGOs spend billions unchecked, new law soon to monitor them
+
+*2024-02-10 07:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/NGOs-spend-billions-unchecked-new-law-soon-to-monitor-them/155-276725) · `en`
+
+Colombo, Feb 10 (Daily Mirror) -  In the wake of reports that as much as over half of funds received by various NGOs are spent without any monitoring, the government is in the final stage of evolving a new law that provides for compulsory registration of all such organizations with the National NGO Secretariat, an official said.
+
+The final draft of the new law titled ‘Non-governmental Organizations (Registration and Supervision) Bill is now ready. It has now been circulated among the NGOs and individual activists for their views before being presented to the Cabinet for approval. They have been given a period of three weeks for submission of their views, if any, to be incorporated in the bill before enactment.
+
+...
+
+[Data](articles/b687b57a.json)
+
+[Extended Data](ext_articles/b687b57a.ext.json)
+
+---
+
 ### Electricity exploding
 
 *2024-02-10 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193195) · `si`
@@ -1164,7 +1296,7 @@ The Communist Party of India's Communist Party of India, including the leader of
 
 ---
 
-### The Unbearable Selfishness of Being “Maavai”  Senathirajah: ITAK President Clings on to Power for 10 Years as Party President.
+### The Unbearable Selfishness of Being “Maavai”  Senathirajah: Clings on to Power for 10 Years as  ITAK Party President.
 
 *2024-02-10 01:53:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83587) · `en`
 
@@ -1869,135 +2001,5 @@ Jayasuriya, who was recruited as a consultant coach in December last year, was p
 [Data](articles/81fd35bd.json)
 
 [Extended Data](ext_articles/81fd35bd.ext.json)
-
----
-
-### The President's announcement at the Hindu Ocean Conference
-
-*2024-02-09 21:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/175994) · `ta`
-
-Including the Self -Canal used in the present time for commercial transportation will not be sufficient in the future. Therefore, President Ranil Wickremesinghe said that to transform Sri Lanka into a regional distribution center to facilitate trade with South India, the possibility of new ground contacts with India should be investigated.
-
-Pointing to the risk of warming and rising sea levels of Indian Ocean, President Wickremesinghe emphasized the need to resolve the climate crisis.
-
-In addition, the President also emphasized initiatives, such as the Tropical Climate University and the International Climate University, to alleviate the effects of climate change and ensure climate justice to vulnerable countries.
-
-...
-
-[Data](articles/fb536a48.json)
-
-[Extended Data](ext_articles/fb536a48.ext.json)
-
----
-
-### "Telemedicin" program that provides early treatments in Hoorane
-
-*2024-02-09 21:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175975) · `ta`
-
-The Ministry of Health said that the "Telemedicin" program has been established at the Horana District General Hospital, providing preliminary treatment using a modern technical device in primary hospitals for patients admitted to the Emergency Department.
-
-The Ministry of Health has launched several projects with the aim of further strengthening the primary health service and the best health care system.
-
-Accordingly, it is necessary to provide patients with the first aid of the patient before sending them to the hospital with the best facilities.
-
-Inadequate facilities in the Emergency, District General Hospital Emergency Unit needed to be sent to other hospitals with the need for adequate facilities.. Therefore, the "Telemedicin" program, which is used to treat the patient's life using modern technical devices in the emergency department in hospitals, was established yesterday at the Horana District General Hospital.
-
-...
-
-[Data](articles/f9937e12.json)
-
-[Extended Data](ext_articles/f9937e12.ext.json)
-
----
-
-### We will cooperate completely to the President's decisions for the economic recovery - the Prime Minister
-
-*2024-02-09 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175970) · `ta`
-
-The country is now back to normal by the leadership of President Ranil Wickremesinghe. The economy is stabilized. Prime Minister Dinesh Gunawardena said that the President would cooperate with all the resolutions the President would take on the economic recovery.
-
-He was speaking at the adjournment debate on the President's Declaration of the President on Friday (09) in Parliament.
-
-Over the past two years, the country has been opposed to the worst economic crises and constitutional crises. We gave full cooperation to the president to resolve the economic crisis. The country is now back to normal than February 2022.
-
-Food and non -food inflation found at last year's double -digit is currently stabilized to a single digit. We will continue to cooperate with all the resolutions the president's decision to the economic recovery. Service sectors including tourism and agriculture have improved.
-
-...
-
-[Data](articles/1dce2f55.json)
-
-[Extended Data](ext_articles/1dce2f55.ext.json)
-
----
-
-### Kosgoda Sujeewa's colleague arrested in Beliatta
-
-*2024-02-09 21:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176002) · `ta`
-
-The Colombo Crime Division has arrested a man with a T-56 rifle suspected of being used for the murder of Ivar in Beliatta.
-
-Police said the arrested suspect was Samika, a close associate of Kosgoda Sujeeva.
-
-The gun was found by the police with Mahasin and 32 bullets hidden in a garden behind the suspect's house.
-
-Investigations conducted by the suspect revealed that Kosgoda Sujeeva was the one who received the gun.
-
-◼️
-
-[Data](articles/843cc37a.json)
-
-[Extended Data](ext_articles/843cc37a.ext.json)
-
----
-
-### Sri Lanka’s first double centurion
-
-*2024-02-09 21:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sri-Lankas-first-double-centurion/110-276687) · `en`
-
-Sri Lanka opener Pathum Nissanka created history when he became the first batter from the country to reach the 200-run mark in ODIs. Nissanka scored the country's first-ever double century in the format during the first ODI of the series against Afghanistan in Pallekele.
-
-◼️
-
-[Data](articles/205f25e8.json)
-
-[Extended Data](ext_articles/205f25e8.ext.json)
-
----
-
-### Pakistan’s ex-PM Nawaz Sharif ‘declares’ victory in national elections
-
-*2024-02-09 20:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97151/pakistans-ex-pm-nawaz-sharif-declares-victory-in-national-elections) · `en`
-
-Pakistan’s former Prime Minister Nawaz Sharif on Friday claimed victory in national elections, saying that his political party has emerged as the largest in the vote and will discuss forming a coalition government.
-
-Sharif did not disclose how many seats his party had won and counting was still underway in the last few of the 265 seats that went to the polls.
-
-The latest count published by the election panel showed his Pakistan Muslim League-Nawaz (PML-N) winning 42 seats, much below the 133 mark needed to stake claim to form a government.
-
-Sharif said his party alone does not have the seats needed but his deputies will meet leaders of other parties later in the day, including former president Asif Ali Zardari of the Pakistan Peoples Party, to discuss forming a coalition government.
-
-◼️
-
-[Data](articles/549feb6c.json)
-
-[Extended Data](ext_articles/549feb6c.ext.json)
-
----
-
-### ComBank and Visa launch Corporate Credit Cards in Sri Lanka
-
-*2024-02-09 20:58:00* · [`islandlk`](http://island.lk/combank-and-visa-launch-corporate-credit-cards-in-sri-lanka/) · `en`
-
-The Commercial Bank of Ceylon has launched the Visa Signature and Visa Platinum Corporate Credit Cards in Sri Lanka in collaboration with Visa.The corporate cards will be issued to employees of corporates and other business entities. This new product enables corporates to manage expenses of employees, and the card is linked to a corporate credit card account of each company, the Bank said.
-
-Since Visa cards are accepted globally, these cards can be used by employees of corporates to pay anywhere in the world for travel, entertainment and other expenses authorised by their respective companies.
-
-The Visa Signature Corporate Credit Cards will also offer their users special benefits such as lounge access at international airports, and other travel-related support.
-
-...
-
-[Data](articles/01faff5a.json)
-
-[Extended Data](ext_articles/01faff5a.ext.json)
 
 ---

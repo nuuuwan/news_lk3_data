@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 16:47:21**
+As of **2024-02-10 17:02:18**
 
 ## Newspaper Stats
 
-*Scraped **6,142** Articles*
+*Scraped **6,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 363
 adalk | 509
 tamilmirrorlk | 743
 adaderanalk | 760
-virakesarilk | 767
+virakesarilk | 768
 adaderanasinhalalk | 829
 dailymirrorlk | 890
 
@@ -26,11 +26,59 @@ dailymirrorlk | 890
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,142 (100.0%) of 6,142 articles have been extended.
+6,142 (100.0%) of 6,143 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### இந்தியாதான் காப்பாற்றியது - நாங்கள் எப்போதும் இந்தியாவின் பாதுகாப்பை மனதில் கொண்டிருப்போம்- இந்திய ஊடகத்திற்கான  பேட்டியில் ரணில்
+
+*2024-02-10 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/176049) · `ta`
+
+இலங்கை பொருளாதார நெருக்கடியில் சிக்குண்டிருந்தவேளை இந்தியா வழங்கிய உதவிகள் ஆதரவிற்கு இலங்கை ஜனாதிபதி ரணில்விக்கிரமசிங்கதனது நன்றியை தெரிவித்துள்ளார்
+
+இந்திய ஊடகத்திற்கு wion வழங்கிய பேட்டியில் அவர் இதனை தெரிவித்துள்ளார். இந்தியாவிற்கு நன்றி இந்தியா இல்லாவிட்டால் நாங்கள் தப்பியிருக்கமாட்டோம் இதன் காரணமாகவே இரு நாடுகள் மத்தியிலான உறவுகளை வலுப்படுத்துவது குறித்து கவனம் செலுத்துகின்றோம் என ஜனாதிபதி தெரிவித்துள்ளார்.
+
+கேள்வி – எனது முதல் கேள்வி இந்திய இலங்கை உறவுகளை எவ்வாறு பார்க்கின்றீர்கள் இந்த உறவுகள் குறித்த உங்கள் தொலைநோக்கு பார்வை என்ன ?
+
+பதில் -உண்மையில் இந்திய இலங்கை உறவுகள் முன்னேற்றமடைகின்றன நாங்கள் இரு நாடுகளிற்கும் இடையில் நெருங்கிய உறவுகளை ஏற்படுத்த முயல்கின்றோம் இரு நாடுகளிற்கும் இடையிலான தொடர்புகளை அதிகரிக்க முயல்கி;ன்றோம்.இதுவே சரியான வழி என நான் கருதுகின்றேன்.
+
+கேள்வி- இலங்கை பொருளாதார நெருக்கடியில் சிக்குண்டிருந்த வேளை 4 பில்லியன் டொலர் உதவியுடன் முன்வந்த நாடு இலங்கை உங்கள் நாட்டிற்கான இந்தியாவின் உதவியை எவ்வாறு பார்க்கின்றீர்கள்?
+
+...
+
+[Data](articles/c0fef154.json)
+
+---
+
+### Imran Khan reports that Pakistan election
+
+*2024-02-10 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176039) · `ta`
+
+The candidates who contested with Imran Khan's party have won the Pakistan elections in violation of election fraud.
+
+Those who have joined the PDI have won the expectation that the former Prime Minister Nawasserev -led coalition will win.
+
+He has urged his supporters to celebrate the victory over the oppression of the party.
+
+Imran Khan's PPD has won 90 seats as the results of 265 seats have been announced.
+
+It is noteworthy that the Pakistan army's support for the history of creating rulers who interfere with the Pakistan elections is the former Prime Minister Nawaz Seriv.
+
+However, voters have voted in favor of the PDI and Imrankan.
+
+Pakistan reports say that due to popular support, she was unable to do anything in favor of Serev.
+
+However, researchers say that due to lack of clearly, the Imran party may face crises in forming a government.
+
+◼️
+
+[Data](articles/48a11304.json)
+
+[Extended Data](ext_articles/48a11304.ext.json)
+
+---
 
 ### The body of mother came to the house after childbirth
 
@@ -273,34 +321,6 @@ The cause of the fire is yet to be ascertained while further investigations are 
 [Data](articles/11f5f5ab.json)
 
 [Extended Data](ext_articles/11f5f5ab.ext.json)
-
----
-
-### Imran Khan reports that Pakistan election
-
-*2024-02-10 14:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/176039) · `ta`
-
-The candidates who contested with Imran Khan's party have won the Pakistan elections in violation of election fraud.
-
-Those who have joined the PDI have won the expectation that the former Prime Minister Nawasserev -led coalition will win.
-
-He has urged his supporters to celebrate the victory over the oppression of the party.
-
-Imran Khan's PPD has won 90 seats as the results of 265 seats have been announced.
-
-It is noteworthy that the Pakistan army's support for the history of creating rulers who interfere with the Pakistan elections is the former Prime Minister Nawaz Seriv.
-
-However, voters have voted in favor of the PDI and Imrankan.
-
-Pakistan reports say that due to popular support, she was unable to do anything in favor of Serev.
-
-However, researchers say that due to lack of clearly, the Imran party may face crises in forming a government.
-
-◼️
-
-[Data](articles/48a11304.json)
-
-[Extended Data](ext_articles/48a11304.ext.json)
 
 ---
 
@@ -1969,27 +1989,5 @@ The 28th meeting of the Conference of the Parties to the United Nations Framewor
 [Data](articles/cf5a5ead.json)
 
 [Extended Data](ext_articles/cf5a5ead.ext.json)
-
----
-
-### Negotiations on petroleum pipeline project between India and Sri Lanka
-
-*2024-02-09 23:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176010) · `ta`
-
-The Indian government has negotiated a proposal by the Indian Fuel Corporation on the implementation of the Nagapattinam of India and the Sri Lankan Oil Bearing and the Colombo Planning Pipe for Colombo.
-
-Minister of Power and Energy Kanjana Wijesekera, who has gone to India ahead of the Indian Energy Week, posted on his official Twitter page.
-
-Leaders of the Indian Fuel Corporation, the Lanka IOC, the Ceylon Petroleum Corporation and the Ceylon Petroleum Development Authority were also present.
-
-Minister Kanjana Wijeeska said that the mechanism of technical studies, required market analysis, financial analysis and business samples are scheduled to be determined.
-
-The Minister further stated that the expansion of investments and projects in Trincomalee has been focused on the Sri Lanka Petroleum Repository Terminal and the Sri Lanka IOC retail activities.
-
-◼️
-
-[Data](articles/512a5e3b.json)
-
-[Extended Data](ext_articles/512a5e3b.ext.json)
 
 ---

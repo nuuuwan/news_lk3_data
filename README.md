@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 17:17:22**
+As of **2024-02-10 17:33:06**
 
 ## Newspaper Stats
 
-*Scraped **6,145** Articles*
+*Scraped **6,147** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ tamilmirrorlk | 744
 adaderanalk | 761
 virakesarilk | 768
 adaderanasinhalalk | 829
-dailymirrorlk | 890
+dailymirrorlk | 892
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,143 (100.0%) of 6,145 articles have been extended.
+6,145 (100.0%) of 6,147 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### India has saved - we will always keep in mind the security of India - Ranil in an interview with the Indian media
+
+*2024-02-10 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/176049) · `ta`
+
+Sri Lankan President Ranil Wickremesinghe thanked India for the support of India
+
+He said this in an interview with the Indian media. If India is not India, we will not escape. This is why we are focusing on strengthening relations between the two countries, ”the President said.
+
+Question - My First Question How do you see Indian Sri Lankan relations? What is your vision of these relationships?
+
+Answer -In fact, India's Sri Lankan relations are progressing. We are trying to establish close ties between the two countries. We are trying to increase the connections between the two countries.
+
+Question: How do you see India's help for your country in Sri Lanka, which has come forward with the help of $ 4 billion while the Sri Lankan economic crisis?
+
+Answer-We are grateful to India. We will not flee if India is not India. This is why we are focusing on the close relationship between the two countries.
+
+...
+
+[Data](articles/c0fef154.json)
+
+[Extended Data](ext_articles/c0fef154.ext.json)
+
+---
 
 ### Imran Khan gets bail in 12 cases involving attacks on military installations
 
@@ -52,45 +76,49 @@ Former foreign minister Shah Mahmood Qureshi was also granted bail in 13 cases i
 
 [Data](articles/aa6f26bb.json)
 
+[Extended Data](ext_articles/aa6f26bb.ext.json)
+
 ---
 
-### யாழ். இசை நிகழ்ச்சி குறித்து டக்ளஸ் வெளியிட்ட செய்தி
+### PUCSL will announce tariff revisions after February15: Kanchana
+
+*2024-02-10 16:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/PUCSL-will-announce-tariff-revisions-after-February15-Kanchana/108-276742) · `en`
+
+Colombo, Feb 10 (Daily Mirror) - The Public Utilities Commission of Sri Lanka (PUCSL) will decide the date of the announcement for the next electricity tariff revision, Power and Energy Minister Kanchana Wijesekera said.
+
+Addressing the media today, he said that, as the minister, he cannot make any decisions on electricity tariff revisions. He can only send proposals to them.
+
+"We can send the proposal to the PUCSL, and they will decide on the collection of public opinions. According to their rules, public opinion should be collected within 21 days. For that, the PUCSL has published an announcement to finish collecting public opinion on February 15," he said.
+
+After February 15, the PUCSL will decide the date of the next electricity tariff revision.
+
+"There will be another tariff revision in April, and we must give the proposal to PUCSL in March," Wijesekera added.
+
+...
+
+[Data](articles/abefa795.json)
+
+---
+
+### Yall. The news published by Douglas about the concert
 
 *2024-02-10 16:34:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-இசை-நிகழ்ச்சி-குறித்து-டக்ளஸ்-வெளியிட்ட-செய்தி/175-332971) · `ta`
 
-தென்னிந்தியப் பாடகர் ஹரிகரன் தலைமையில் இசைக் கலைஞர்கள் கலந்து கொண்ட இசை நிகழ்ச்சியில் இடம்பெற்ற விரும்பத்தகாத சம்பவங்கள் வருத்தமளிப்பதாக தெரிவித்துள்ள அமைச்சர் டகள்ஸ் தேவானந்தா, இவ்வாறான சம்பவங்கள் எமது மக்களை தொடர்ந்தும் துன்பத்தில் அமுழ்த்தி குளிர்காய விரும்பும் சுயநலத் தரப்புக்களுக்கு வாய்ப்பாக மாறிவிடும் எனவும் வருத்தம்  தெரிவித்துள்ளார்.
+Minister Dales Devananda said that the unpleasant incidents in the concert, led by South Indian singer Harikaran, said that such incidents would continue to suffer our people and became an opportunity for selfishness.
 
-யாழ். முற்றவெளியில் நேற்று இடம்பெற்ற தென்னிந்திய திரைப்  பிரலங்கள் கலந்து கொண்ட நிகழ்ச்சியில் ஏற்பட்ட குழப்பங்கள் தொடர்பாக ஊடகவியலாளர் ஒருவரினால் கேட்கப்பட்ட கேள்விக்கு பதில் அளிக்கையிலேயே மேற்கண்டவாறு தெரிவித்தார்.
+Yall. In response to a question asked by a journalist regarding the chaos at the South Indian screens attended by yesterday.
 
-எமது மக்களின் வாழ்வாதாரத்தினையும் வாழ்வியலையும் அடுத்த கட்டத்திற்கு முன்னேற்றுவதற்கு எமது புலம்பெயர் உறவுகளின் முதலீடுகளை நாங்கள் எதிர்பார்த்திருக்கின்ற வேளையில், புலம்பெயர் முதலீட்டாளர் ஒருவரின் முன்முயற்சியில் ஏற்பாடு செய்யப்பட்ட ஒரு நிகழ்வில், இவ்வாறான அசௌகரியங்கள் ஏற்படுவது, மக்கள் நலன் சார்ந்த  எமது எதிர்பார்ப்புக்களுக்கு பின்னடைவுகளையே ஏற்படுத்தும்.
+While we are looking for investments of our diaspora relations to improve the livelihood and life of our people, such inconveniences will be a recession for our welfare of the people's welfare at an event organized by a diaspora investor.
+
+The self -styled parties that continue to implement our people and thereby be able to spread the idea that there is no guarantee of investments in our territories.. Such incidents will be strengthened by the views of such people.
+
+Based on the available information, the arrival of the organizers' expectations and some of the shortcomings in the regulatory cause are attributed to this unpleasant incident.
 
 ...
 
 [Data](articles/dad05087.json)
 
----
-
-### India has saved - we will always keep in mind the security of India - Ranil in an interview with the Indian media
-
-*2024-02-10 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/176049) · `ta`
-
-Sri Lankan President Ranil Wickremesinghe thanked India for the support of India
-
-He said this in an interview with the Indian media. If India is not India, we will not escape. This is why we are focusing on strengthening relations between the two countries, ”the President said.
-
-Question - My First Question How do you see Indian Sri Lankan relations? What is your vision of these relationships?
-
-Answer -In fact, India's Sri Lankan relations are progressing. We are trying to establish close ties between the two countries. We are trying to increase the connections between the two countries.
-
-Question: How do you see India's help for your country in Sri Lanka, which has come forward with the help of $ 4 billion while the Sri Lankan economic crisis?
-
-Answer-We are grateful to India. We will not flee if India is not India. This is why we are focusing on the close relationship between the two countries.
-
-...
-
-[Data](articles/c0fef154.json)
-
-[Extended Data](ext_articles/c0fef154.ext.json)
+[Extended Data](ext_articles/dad05087.ext.json)
 
 ---
 
@@ -141,6 +169,18 @@ The cause of death is yet to be ascertained and the site has been carried out by
 [Data](articles/b360ed51.json)
 
 [Extended Data](ext_articles/b360ed51.ext.json)
+
+---
+
+### Invoking blessings...
+
+*2024-02-10 16:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Invoking-blessings/110-276741) · `en`
+
+Devotees engaging in religious activities at the Jaya Sri Maha Bodhi and the Thuparamaya Vihara in Anuradhapura. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/40c06aef.json)
 
 ---
 
@@ -1959,45 +1999,5 @@ Aid groups said there would be a high Palestinian death toll if Israeli forces s
 [Data](articles/13ad71b0.json)
 
 [Extended Data](ext_articles/13ad71b0.ext.json)
-
----
-
-### Ceasefire: Reading the ICJ Order regarding genocide in Gaza
-
-*2024-02-09 23:44:46* · [`dailyftlk`](https://www.ft.lk/columns/Ceasefire-Reading-the-ICJ-Order-regarding-genocide-in-Gaza/4-758310) · `en`
-
-A particular question pertains to why the ICJ has not indicated a specific provisional measure ordering Israel to cease fire
-
-With regard to the Order delivered by the International Court of Justice indicating Provisional Measures against Israel in the case brought by South Africa under the provisions of the UN Genocide Convention, questions galore on different aspects addressed. A particular question pertains to why the ICJ has not indicated a specific provisional measure ordering Israel to “cease fire”.
-
-It is important to refer to Article 51 of the UN Charter for guidance in this context.
-
-“Nothing in the present Charter shall impair the inherent right of individual or collective self-defence if an armed attack occurs against a Member of the United Nations, until the Security Council has taken measures necessary to maintain international peace and security.”
-
-...
-
-[Data](articles/9332b39f.json)
-
-[Extended Data](ext_articles/9332b39f.ext.json)
-
----
-
-### Indian Ocean stability requires early end to Gaza war - President
-
-*2024-02-09 23:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97152/indian-ocean-stability-requires-early-end-to-gaza-war-president) · `en`
-
-President Ranil Wickremesinghe says the Indian Ocean Region’s stability requires an early end to the Gaza war followed by the establishment within 5 years of an Independent Palestine State and a guarantee for the security of the state of Israel.
-
-He made this remark while delivering the keynote address at the 7th Indian Ocean Conference in Perth, Australia on Friday (Feb.09).
-
-Wickremesinghe hit out at the United States for supporting the war in the densely populated Palestinian enclave. “The ill-advised judgment of the US in supporting the Gaza war will diminish its influence in the [Indian Ocean] region.”
-
-Commenting further, the President emphasized that the hostility of the countries forming the Islamic Arch in the Indian Ocean will prevent any close rapprochement with the US for some time.
-
-...
-
-[Data](articles/3137be72.json)
-
-[Extended Data](ext_articles/3137be72.ext.json)
 
 ---

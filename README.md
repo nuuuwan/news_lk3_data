@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 20:17:14**
+As of **2024-02-10 20:32:52**
 
 ## Newspaper Stats
 
-*Scraped **6,162** Articles*
+*Scraped **6,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 342
 newsfirstlk | 363
 adalk | 511
 tamilmirrorlk | 745
-adaderanalk | 764
+adaderanalk | 765
 virakesarilk | 769
 adaderanasinhalalk | 833
 dailymirrorlk | 896
@@ -26,11 +26,25 @@ dailymirrorlk | 896
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,162 (100.0%) of 6,162 articles have been extended.
+6,162 (100.0%) of 6,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### 60-year-old killed shooting in Negombo
+
+*2024-02-10 20:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97171/60-year-old-killed-shooting-in-negombo-) · `en`
+
+A 60-year-old individual has reportedly been gunned down and killed in the Galkanda area in Negombo.
+
+According to police, the two unidentified gunmen had subsequently fled the scene.
+
+◼️
+
+[Data](articles/7bdffc4a.json)
+
+---
 
 ### The celebration board employee arrested for 35 years
 
@@ -2051,21 +2065,5 @@ President Ranil Wickremesinghe said this in a key speech delivered at the 7th In
 [Data](articles/e890ee1c.json)
 
 [Extended Data](ext_articles/e890ee1c.ext.json)
-
----
-
-### Anura meets with Kerala Minister
-
-*2024-02-10 03:29:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேரளா-அமைச்சருடன்-அனுர-சந்திப்பு/175-332960) · `ta`
-
-The National People's Power Leader Anura Kumara Dissanayake, who has visited India, met with the Minister of Industry of Kerala P. Rajiv yesterday.
-
-The Communist Party of India's Communist Party of India, including the leader of the National People's Power, Anura Kumara Dissanayake, who visited India for five days, visited Kerala in India yesterday.
-
-◼️
-
-[Data](articles/5a48d410.json)
-
-[Extended Data](ext_articles/5a48d410.ext.json)
 
 ---

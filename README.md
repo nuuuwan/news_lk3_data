@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 13:51:05**
+As of **2024-02-10 14:02:28**
 
 ## Newspaper Stats
 
-*Scraped **6,114** Articles*
+*Scraped **6,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 363
 adalk | 507
 tamilmirrorlk | 739
 adaderanalk | 756
-virakesarilk | 763
+virakesarilk | 764
 adaderanasinhalalk | 823
 dailymirrorlk | 883
 
@@ -26,11 +26,31 @@ dailymirrorlk | 883
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,114 (100.0%) of 6,114 articles have been extended.
+6,114 (100.0%) of 6,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### ஒருங்கியல் அதிகாரப்பட்டியலில் உள்ள அதிகாரங்களை அதில் அனேகமானவற்றை அல்லது தேவையானவற்றை வழங்க  தயாராகவுள்ளோம் - ஜனாதிபதி
+
+*2024-02-10 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176033) · `ta`
+
+ஒருங்கியல் அதிகாரப்பட்டியலில் உள்ள  அதிகாரங்களை அதில் அனேகமானவற்றை அல்லது தேவையானவற்றை வழங்க  தயாராகவுள்ளோம் என ஜனாதிபதி ரணில்விக்கிரமசிங்க தெரிவித்துள்ளார்
+
+அடுத்த வருடம் மாகாணசபை தேர்தல்களை நடத்துவோம் நாடாளுமன்ற அமர்வுகளை ஆரம்பித்துவைத்து உரையாற்றியவேளை நான் தெரிவித்தது போல நாங்கள் ஒவ்வொரு மாகாணசபைக்கும் அதன் சொந்த பொருளாதாரத்தை வழங்க விரும்புகின்றோம்.
+
+அதன்காரணமாக இந்தியா போன்று ஒவ்வொரு மாகாணமும் ஏனைய மாகாணத்தின் பொருளாதாரத்துடன் போட்டியிடும்.இதனால் நன்மையேற்படும் பொருளாதாரம் போட்டிதன்மை மிகுந்ததாக காணப்படும்.
+
+மேலும் இந்த மாகாணங்கள் தங்களின் பொருளாதார சமூக அபிவிருத்தியை தேசிய கொள்கை கட்டமைப்பிற்குள் கையாளவேண்டும்.
+
+இந்த அடிப்படையில் ஒருங்கியல் அதிகாரப்பட்டியலில் உள்ள அதிகாரங்களை அதில் அனேகமானவற்றை அல்லது தேவையானவற்றை வழங்க  தயாராகவுள்ளோம்.
+
+...
+
+[Data](articles/9574c449.json)
+
+---
 
 ### Murder of mulleriwa
 
@@ -1975,23 +1995,5 @@ Meanwhile, a person who has been arrested by the Jip of Beliatta murder has been
 [Data](articles/2b2705dd.json)
 
 [Extended Data](ext_articles/2b2705dd.ext.json)
-
----
-
-### Railway Ticket sent to the hospital
-
-*2024-02-09 20:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193188) · `si`
-
-Since he had released a ticket from Colombo Fort to Gampaha, the inspectors were celebrated in Gampaha.
-
-Two tickets of the girl and two tickets were injured and admitted to the Gampaha General Hospital with a confrontation took place.
-
-The Deputy General Manager MJ, the Deputy General Manager, Deputy General Manager MJ. Mr. Welfare has said.
-
-◼️
-
-[Data](articles/465723b7.json)
-
-[Extended Data](ext_articles/465723b7.ext.json)
 
 ---

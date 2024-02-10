@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 12:02:21**
+As of **2024-02-10 12:17:32**
 
 ## Newspaper Stats
 
-*Scraped **6,107** Articles*
+*Scraped **6,109** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 73
 bbccomsinhala | 86
-dbsjeyarajcom | 144
+dbsjeyarajcom | 145
 islandlk | 316
 economynextcom | 318
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 507
 tamilmirrorlk | 739
-adaderanalk | 755
+adaderanalk | 756
 virakesarilk | 761
 adaderanasinhalalk | 821
 dailymirrorlk | 882
@@ -26,11 +26,49 @@ dailymirrorlk | 882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,107 (100.0%) of 6,107 articles have been extended.
+6,107 (100.0%) of 6,109 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### ‘Attacks on fishermen rising on Sri Lankan waters’: Tamil Nadu CM urges PM Modi to intervene
+
+*2024-02-10 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97162/attacks-on-fishermen-rising-on-sri-lankan-waters-tamil-nadu-cm-urges-pm-modi-to-intervene) · `en`
+
+Tamil Nadu Chief Minister MK Stalin has written to Indian Prime Minister Narendra Modi, expressing concern about the rising number of attacks on fishermen from the state by unidentified persons. Stalin sought the Prime Minister to intervene and secure the release of fishermen arrested by Sri Lanka for allegedly trespassing in its waters.
+
+In a letter, Stalin said 88 Indian fishermen were arrested, and 12 boats were seized by Sri Lankan authorities in the past 28 days.
+
+“I am writing to express my deep concern regarding the alarming increase in incidents of apprehension of Tamil fishermen and their boats by the Sri Lankan authorities. This issue severely impacts the right to livelihood of these fishermen as the communities have utilised these fishing waters for generations,” he said.
+
+He said there has been a significant rise in the number of arrests of fishermen from Tamil Nadu by Sri Lankan authorities in the past few years, except for the period when the Covid-19 pandemic occurred.
+
+...
+
+[Data](articles/52784f8f.json)
+
+---
+
+### Trade union action postponed for health trade unions seeking employment rights
+
+*2024-02-10 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176012) · `ta`
+
+The Alliance of Health Trade Unions has announced that 72 health trade unions will be postponed for a weekly trade union, which will be implemented at the provincial and hospital level.
+
+After the Cabinet approved the government's approval to pay Rs.
+
+In this backdrop, the union actions to be carried out for a week after a discussion between representatives of the Health Trade Union Federation and the Finance Ministry on Tuesday (Tuesday). The committee nominated by the Ministry of Finance is also on the 12th of this month and a decisive resolution on the rights of the health workers is to be reached.
+
+Therefore, a program to clarify health workers on the rights of professional rights at the provincial level and hospital level will be launched from today.. It is hoped that the Ministry of Health and the Finance Ministry will be dedicated to solving the crisis in the health sector.
+
+...
+
+[Data](articles/6ad23c36.json)
+
+[Extended Data](ext_articles/6ad23c36.ext.json)
+
+---
 
 ### Two suspects arrested for selling and selling a car
 
@@ -51,26 +89,6 @@ The suspects were 38 years old, residents of Eswella and Nelumdeniya.
 [Data](articles/40886d28.json)
 
 [Extended Data](ext_articles/40886d28.ext.json)
-
----
-
-### Trade union action postponed for health trade unions seeking employment rights
-
-*2024-02-10 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/176012) · `ta`
-
-The Alliance of Health Trade Unions has announced that 72 health trade unions will be postponed for a weekly trade union, which will be implemented at the provincial and hospital level.
-
-After the Cabinet approved the government's approval to pay Rs.
-
-In this backdrop, the union actions to be carried out for a week after a discussion between representatives of the Health Trade Union Federation and the Finance Ministry on Tuesday (Tuesday). The committee nominated by the Ministry of Finance is also on the 12th of this month and a decisive resolution on the rights of the health workers is to be reached.
-
-Therefore, a program to clarify health workers on the rights of professional rights at the provincial level and hospital level will be launched from today.. It is hoped that the Ministry of Health and the Finance Ministry will be dedicated to solving the crisis in the health sector.
-
-...
-
-[Data](articles/6ad23c36.json)
-
-[Extended Data](ext_articles/6ad23c36.ext.json)
 
 ---
 
@@ -957,6 +975,20 @@ The Communist Party of India's Communist Party of India, including the leader of
 [Data](articles/5a48d410.json)
 
 [Extended Data](ext_articles/5a48d410.ext.json)
+
+---
+
+### The Unbearable Selfishness of Being “Maavai”  Senathirajah: ITAK President Clings on to Power for 10 Years as Party President.
+
+*2024-02-10 01:53:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83587) · `en`
+
+The heading of this  article is inspired by the title of Milan Kundera’s novel “The Unbearable  Lightness of Being”. That novel was set in the  eventful Prague spring  period of the then undivided  Czechoslovakia. This  article is about an octogenarian Tamil political leader who tries to cling on to power selfishly without stepping down gracefully.
+
+The party leader I am referrig to is Somasundaram Senathirajah known popularly as “Maavai” Senathirajah  and/or Maavai.  Until 27 January 2024, Senathirajah was the President  of the Ilankai Thamil Arasuk Katchi(ITAK)  known as the Federal Party(FP) in English. Senathirajah however continues to act as the party president in a business as usual fashion.
+
+...
+
+[Data](articles/3305ba9b.json)
 
 ---
 
@@ -1957,49 +1989,5 @@ Earlier today (Feb.09), during the parliamentary session, Speaker Mahinda Yapa A
 [Data](articles/d38f465f.json)
 
 [Extended Data](ext_articles/d38f465f.ext.json)
-
----
-
-### Train derailment halts up-country line operations
-
-*2024-02-09 20:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-derailment-halts-up-country-line-operations/108-276684) · `en`
-
-Watawala, Feb 09 (Daily Mirror) -  Sri Lanka Railways has announced a disruption in railway operations along the Up-country Line due to a derailment near Ihala Watawala railway station.
-
-The incident occurred this evening (Feb. 09) and has affected the slow train route from Nawalapitiya to Nanu Oya, derailing between Ihala Watawala and Rozella railway stations, as confirmed by the Railway Department.
-
-◼️
-
-[Data](articles/cd11a0c8.json)
-
-[Extended Data](ext_articles/cd11a0c8.ext.json)
-
----
-
-### Bethum Nissanga shown in action
-
-*2024-02-09 19:29:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிரடி-காட்டிய-பெத்தும்-நிஸ்ஸங்க/175-332947) · `ta`
-
-The first one -day international cricket match between Afghanistan and Sri Lanka will take place today at the Kandy -Pallekel Ground.
-
-Afghanistan won the currency spin and decided to field first.
-
-Accordingly, the Sri Lankan team first lost 3 wickets in 50 overs and scored 381 runs.
-
-This is the first double century in ODIs.
-
-Beth and Nissanka is the first player in the history of Sri Lankan cricket in one -day international cricket.
-
-In addition, Aviska Fernando scored 88 runs and Satheera Samarawickrama scored 45 runs.
-
-Afghanistan's Mohammed Prophet took one wicket for 44 runs.
-
-In the meantime, Afghanistan are bowled out for 382 runs. Remble
-
-◼️
-
-[Data](articles/9ba9e239.json)
-
-[Extended Data](ext_articles/9ba9e239.ext.json)
 
 ---

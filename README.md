@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 10:49:46**
+As of **2024-02-10 11:02:28**
 
 ## Newspaper Stats
 
-*Scraped **6,095** Articles*
+*Scraped **6,098** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,62 @@ adalk | 506
 tamilmirrorlk | 739
 adaderanalk | 751
 virakesarilk | 759
-adaderanasinhalalk | 819
-dailymirrorlk | 879
+adaderanasinhalalk | 820
+dailymirrorlk | 881
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,095 (100.0%) of 6,095 articles have been extended.
+6,098 (100.0%) of 6,098 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### 663 suspects arrested
+
+*2024-02-10 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193204) · `si`
+
+663 suspects have been arrested in accordance with drug misunderstanding in the past 24 hours.
+
+Meanwhile, there are 547 suspects on drug misbehavior and the list of criminal sections.
+
+They have a 175G of heroin, 191G, 191G, 80 mg, 80 mg, 296 gawns, 295 and 85Gs.
+
+Among the 547 suspects of drug misconduct was reported in the Police Narcotics Bureau and the Police Special Bureau.
+
+There are two suspects on detention policies and two drug addicts have been referred to rehabilitation centers.
+
+It is reported that there are 95 suspects who have been arrested on the 116 suspects who have been arrested on the list of the list of criminal sections.
+
+Three suspects identified in the media and four suspects have been arrested in operations.
+
+◼️
+
+[Data](articles/b1d02589.json)
+
+[Extended Data](ext_articles/b1d02589.ext.json)
+
+---
+
+### Increase in worker remittances than last year
+
+*2024-02-10 10:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Increase-in-worker-remittances-than-last-year/108-276729) · `en`
+
+Colombo, Feb 10 (Daily Mirror) - Labour and Foreign Employment Minister Manusha Nanayakkara today claimed that worker remittances for January have recorded an increase of 11.4 per cent compared to last year.
+
+He mentioned this by posting a message today on X, formerly known as Twitter.
+
+Accordingly, the worker remittances for January 2024 were recorded at 487.6 USD.
+
+◼️
+
+[Data](articles/73e655d2.json)
+
+[Extended Data](ext_articles/73e655d2.ext.json)
+
+---
 
 ### Two suspects arrested with STF
 
@@ -71,6 +115,28 @@ Two minutes before the airplane landed at the Naples urban airport, the pilot ha
 [Data](articles/2a0bc12c.json)
 
 [Extended Data](ext_articles/2a0bc12c.ext.json)
+
+---
+
+### Traffic restricted on New Kelani Bridge till Monday
+
+*2024-02-10 09:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Traffic-restricted-on-New-Kelani-Bridge-till-Monday/108-276733) · `en`
+
+Colombo, Feb 10 (Daily Mirror) - The road leading to the harbour from the New Kelani Bridge will be closed until Monday (12) due to repair work, the Highway Tourism Police announced.
+
+Accordingly, the lane from Katunayake entering the Kelani bridge and heading towards the port was closed from 9 p.m. yesterday (09) to 5 a.m. on Monday (12).
+
+Meanwhile, entering the Kelani bridge from the Orugudawatta intersection and entering the harbour entrance from the middle part of the bridge will be closed.
+
+Vehicles travelling from Katunayake to Colombo on the expressway and vehicles entering from Orugudawatte and travelling to Katunayake will not be hindered by this closure, police said.
+
+During the repair period, notice boards have been installed on the Orugudawatta-Wellampitiya road at Dematagoda, Peliyagoda, Negombo Road, near the fish market, Kandy Road and Thorana Junction.
+
+◼️
+
+[Data](articles/e5666d8e.json)
+
+[Extended Data](ext_articles/e5666d8e.ext.json)
 
 ---
 
@@ -1919,61 +1985,5 @@ Accordingly, Sheha Senarapola, (Dr.) Surepola, (Dumindan Fernando), Vijitha Diss
 [Data](articles/4bf7cfe1.json)
 
 [Extended Data](ext_articles/4bf7cfe1.ext.json)
-
----
-
-### Missing bullets in a military camp
-
-*2024-02-09 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175998) · `ta`
-
-The military said that 30 bullets for the missing T-56 were found in the drainage drain from the camp.
-
-◼️
-
-[Data](articles/cec04121.json)
-
-[Extended Data](ext_articles/cec04121.ext.json)
-
----
-
-### Sarath Fonseka held due to President
-
-*2024-02-09 18:27:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හමුවූ-හේතුව-සරත්-ෆොන්සේකා/11-407987) · `si`
-
-The former Army Commander and MP Sarath Fonseka said that the president was found in parliament and did not talk about politics.
-
-He said that a journalist was responding to a journalist with a journalist in the non-party protest campaign called the "People's Revolution".
-
-The protest was held in front of the Matara Chief bus stand in front of Matara.
-
-"I met the president's president in Parliament.
-
-The Leader of the Prime Minister told me that the leader was told.OUT OUT OF THE BIBLE IS OUT OF ORDER OF OUT OF THE OTHER. "
-
-Nearly 500 people participated in the protest.
-
-◼️
-
-[Data](articles/450232cf.json)
-
-[Extended Data](ext_articles/450232cf.ext.json)
-
----
-
-### Pathum Nissanka becomes Sri Lanka’s first double centurion
-
-*2024-02-09 18:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pathum-Nissanka-becomes-Sri-Lankas-first-double-centurion/108-276682) · `en`
-
-Opener Pathum Nissanka broke Sanath Jayasuriya’s 23-year old record for the highest score by a Sri Lankan in ODI cricket, also becoming the country’s first double centurion.
-
-Nissanka cracked eight sixes and 20 boundaries to remain unbeaten on 210, scoring more than half of Sri Lanka’s runs, as they finished their 50 overs on 381 for 3.
-
-Contributions from Avishka Fernando (88) and Sadeera Samarawickrama were dwarfed by Nissanka’s stellar knock, as the opener became just the tenth batsman in the game to score an ODI double century.
-
-◼️
-
-[Data](articles/799e9ffe.json)
-
-[Extended Data](ext_articles/799e9ffe.ext.json)
 
 ---

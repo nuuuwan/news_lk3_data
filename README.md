@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 14:17:18**
+As of **2024-02-10 14:32:50**
 
 ## Newspaper Stats
 
-*Scraped **6,117** Articles*
+*Scraped **6,118** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,48 +19,74 @@ adalk | 507
 tamilmirrorlk | 739
 adaderanalk | 756
 virakesarilk | 765
-adaderanasinhalalk | 824
+adaderanasinhalalk | 825
 dailymirrorlk | 883
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,115 (100.0%) of 6,117 articles have been extended.
+6,117 (100.0%) of 6,118 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
 
-### யோகி ஆதித்யநாத்துடன் நாமல் ராஜபக்ஷ பேச்சுவார்த்தை நடத்தினார்
+### ඩ්‍රෝන ප්‍රහාරයකින් 07 දෙනෙකු මරුට
+
+*2024-02-10 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193209) · `si`
+
+රුසියාව විසින් යුක්‍රේනයට එල්ල කළ ඩ්‍රෝන ප්‍රහාරයකින් පුද්ගලයින් 07 දෙනෙකු මිය ගොස් තිබේ.
+
+මිය ගිය පුද්ගලයන් අතර ළමුන් තිදෙනෙකු ද සිටින බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+
+ප්‍රහාරය හේතුවෙන් නිවාස 14ක් ගිනි ගෙන විනාශ වී ඇති බව සඳහන් ය.
+
+ගින්නත් සමඟ නිවාසවල රැඳී සිටි ජනතාව ආරක්ෂිත ස්ථාන කරා යොමු කිරීමට යුක්‍රේන ආරක්ෂක අංශ පියවර ගෙන තිබිණි.
+
+◼️
+
+[Data](articles/ee9e2972.json)
+
+---
+
+### Namal Rajapaksa talks with Yogi Adityanath
 
 *2024-02-10 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/176035) · `ta`
 
-இந்தியாவின் உத்தர பிரதேச முதல்வா் யோகி ஆதித்யநாத்தை ஶ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ  சந்தித்துள்ளார்.
+Sri Lanka's PA MP Namal Rajapaksa meets the Chief Minister of Uttar Pradesh Yogi Adityanath in India.
 
-நாமல் ராஜபக்ஷ அயோத்தி ராமர் கோவில் பூஜையில் கலந்துகொள்வதற்காக இரண்டு நாள் தனிப்பட்ட பயணமாக இந்தியாவிற்கு சென்றுள்ளார்.
+Namal Rajapaksa has traveled to India on a two -day personal trip to attend the Ayodhya Rama Temple Pooja.
 
 ◼️
 
 [Data](articles/017b9cae.json)
 
+[Extended Data](ext_articles/017b9cae.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා අත්අඩංගුවේ පසු වන ඉන්දීය ධීවරයන් ගැන මෝදිට ලිපියක්
+### Modi article about Indian fishermen in Sri Lankan custody
 
 *2024-02-10 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193208) · `si`
 
-ශ්‍රී ලංකාවේ ආරක්ෂක අංශ විසින් අත්අඩංගුවට ගෙන සිටින ඉන්දීය ධීවරයින් නිදහස් කරගැනීම සඳහා වහාම මැදිහත් ව එම ක්‍රියාවලිය කඩිනම් කරන ලෙස ඉල්ලමින් තමිල්නාඩු මහ ඇමති එම්. කේ ස්ටාලින් විසින් ඉන්දීය අගමැති නරේන්ද්‍ර මෝදි වෙත ලිපියක් යොමුකර තිබේ.
+Tamil Nadu Chief Minister MORndi Minister MARM: Tamil Nadu Chief Minister. K Stalin has sent a letter to Indian Prime Minister Narendra Modi.
 
-ශ්‍රී ලංකාවේ මුහුදු සීමාවට අනවසරයෙන් ඇතුළු වූ බවට චෝදනා කරමින් අත්අඩංගුවට ගෙන සිටින ඉන්දීය ධීවරයින් නිදහස් කර ගැනීමට මැදිහත් වන ලෙස ස්ටාලින් අගමැතිවරයාගෙන් ඉල්ලා ඇත.
+The Prime Minister of the Indian fishermen has requested the export of Indian fishermen who have been allegedly entered into the waters of Sri Lanka.
 
-ඔහු පවසා ඇත්තේ, සිය ධීවර ප්‍රජාවට මුහුණ දීමට සිදු වන අපහසුතා සම්බන්ධයෙන් සිය කනස්සල්ල පළ කරන බවය.
+He has said that his concern for the inconveniences of his fishing community.
 
-දෙමළ ඉන්දීය ධීවරයින් සහ ඔවුන්ගේ බෝට්ටු ශ්‍රී ලංකාවේ ආරක්ෂක අංශ විසින් අත්අඩංගුවට ගැනීම් ඉහළ ගොස් ඇති බවත් එය ඔවුන්ගේ ජීවනෝපායට දැඩි ලෙස බලපාන බවත් අමාත්‍යවරයා සිය ලිපියේ සඳහන් කර ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+According to foreign media reports, the Tamil Indian fishermen and their boats have risen their arrests and their boats have risen their livelihoods that they have strongly affect their livelihood.
+
+"In 2023, 243 Indian fishermen have been arrested by the Sri Lanka Navy and 37 boats. 88 fishermen and 12 boats have been arrested in 6 cases. Tell your attention on this ... "Tamil Nadu Chief Minister. The foreign media says that K. Stalin stated in his letter.
+
+He further stated that he has previously had to inform the prime minister before the problem of foreign fishing bullets in 2018.
 
 ...
 
 [Data](articles/2222acee.json)
+
+[Extended Data](ext_articles/2222acee.ext.json)
 
 ---
 
@@ -1973,21 +1999,5 @@ The Visa Signature Corporate Credit Cards will also offer their users special be
 [Data](articles/01faff5a.json)
 
 [Extended Data](ext_articles/01faff5a.ext.json)
-
----
-
-### Deutsche Bank continues its steadfast commitment to Sri Lanka
-
-*2024-02-09 20:58:00* · [`islandlk`](http://island.lk/deutsche-bank-continues-its-steadfast-commitment-to-sri-lanka/) · `en`
-
-Deutsche Bank today reiterated its commitment as a steadfast global banking services provider amidst the country’s journey through economic challenges. Operating in Sri Lanka since 1980, Deutsche Bank AG, has been a reliable partner for over 43 years, providing fully-fledged commercial banking operations, connecting Sri Lanka to Asian, European and US markets.
-
-As the only European bank operating in Sri Lanka, with a dedicated team well-versed in local regulations and market trends, Deutsche Bank’s onshore presence and proven track record in frontier markets, help provide clients with seamless solutions.
-
-...
-
-[Data](articles/7f346bb5.json)
-
-[Extended Data](ext_articles/7f346bb5.ext.json)
 
 ---

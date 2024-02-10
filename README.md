@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 22:32:55**
+As of **2024-02-10 22:49:52**
 
 ## Newspaper Stats
 
-*Scraped **6,172** Articles*
+*Scraped **6,177** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ islandlk | 317
 economynextcom | 318
 dailyftlk | 342
 newsfirstlk | 363
-adalk | 511
+adalk | 514
 tamilmirrorlk | 746
 adaderanalk | 767
 virakesarilk | 769
-adaderanasinhalalk | 838
+adaderanasinhalalk | 840
 dailymirrorlk | 896
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,170 (100.0%) of 6,172 articles have been extended.
+6,172 (99.9%) of 6,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### පොලිස් අවිය උදුරාගෙන පොලීසියටම වෙඩිතබයි
+
+*2024-02-10 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193226) · `si`
+
+රාත්‍රී මුර සංචාරය අතරතුර ත්‍රීරෝද රථයක් පරීක්ෂා කිරීමට ගිය මල්වතුහිරිපිටිය පොලීසියේ  පොලිස් සැරයන්වරයෙකුට එහි රියදුරා වෙඩිතබා තිබේ.
+
+පොලීසිය පැවසුවේ සැරයන්වරයාගේ රාජකාරි ගිනිඅවිය උදුරාගත් ත්‍රීරෝද රථ රියදුරු ඉන් ඔහුට වෙඩිතබා ගිනිඅවියද රැගෙන පළාගොස් ඇති බවය.
+
+පොලීසිය පැවසුවේ, ප්‍රදේශයේ පිහිටි බැංකුවක දොරක් විවෘත කර තිබෙන බවට දුටු පොලිස් නිලධාරීන් එහි කළමනාකරුට ඒ පිළිබඳව දැනුම්දීමෙන් පසුව ඔහු පැමිණෙන තෙක් අදාළ ස්ථානයේ රැඳී සිට ඇති බවය.
+
+එහිදී පැමිණි සැක කටයුතු ත්‍රීරෝද රථයක් පරීක්ෂා කිරීමට පොලීසිය කටයුතු කර තිබේ.
+
+එම අවස්ථාවේදී අදාළ ත්‍රීරෝද රථයේ සිට ඇත්තේ වෙඩි ප්‍රහාරයට ලක්වූ පොලිස් සැරයන්වරයාගේ සහෝදරිය සමග මුදල් ගනුදෙනුවක් සම්බන්ධයෙන් මඟහරිමින් සිටි ගම්පහ පදිංචි පුද්ගලයෙකි.
+
+පසුව ඔහුව ජීප් රථයට නංවාගෙන පොලිස් ස්ථානයට රැගෙන යෑමට උත්සාහ කළ අවස්ථාවේදී අදාළ සැරයන්වරයාගේ රාජකාරී රිවෝල්වරය උදුරාගෙන වෙඩි ප්‍රහාර දෙකක් එල්ල කර ඇති බව පොලීසිය පැවසීය.
+
+...
+
+[Data](articles/76b2001e.json)
+
+---
 
 ### Another child injured by fallen tree dies after 5-day battle for life
 
@@ -47,6 +69,22 @@ One of them, who was in critical condition, was later transferred to the Nationa
 ◼️
 
 [Data](articles/bc7bd52d.json)
+
+[Extended Data](ext_articles/bc7bd52d.ext.json)
+
+---
+
+### ඡන්දෙ ගැන ජනපතිගේ ස්ථාවරය කියයි
+
+*2024-02-10 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193225) · `si`
+
+ඉදිරි ජනාධිපතිවරණයට තරග වැදීමට තමන් සූදානම් බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ඔස්ට්‍රේලියාවේ, පර්ත් නුවරදී ඉන්දීය මාධ්‍ය නාලිකාවක් සමග පැවැති සම්මුඛ සාකච්ඡාවකට එක්වෙමින් ජනාධිපතිවරයා ඒ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/096275bc.json)
 
 ---
 
@@ -92,6 +130,34 @@ A program to educate community police committee members of the Panadura Division
 
 ---
 
+### බෙලිඅත්තේ නවතා තිබූ ගරුවරයෙකුගේ යතුරුපැදියක් අතුරුදන්
+
+*2024-02-10 21:09:31* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්තේ-නවතා-තිබූ-ගරුවරයෙකුගේ-යතුරුපැදියක්-අතුරුදන්/11-407997) · `si`
+
+බෙලිඅත්ත පොලිස් බල ප්‍රදේශයට අයත් බෙලිඅත්ත - මත්තල පිවිසුම් මාර්ගයට වම් පසින් පිහිටා තිබූ නිවසක් අසල නවතා තිබූ යතුරුපැදියක් සොරකම් කරීමක් සම්බන්ධ ව බෙලිඅත්ත පොලීසියට අද (10)දින පැමිණිල්ලක් ලැබී ඇති බව බෙලිඅත්ත පොලීසිය පවසයි.
+
+මෙලෙස මෙම යතුරුපැදියේ හිමිකරු බෙලිඅත්ත පොලීසියට පවසා ඇත්තේ ඔහු ගුරු වෘත්තියේ නිරත වන බවත්, ඔහු කොළඹ ප්‍රදේශයේ පාසලක ගුරුවරයෙකු බවත් ය.මොහු පදිංචිව සිටින මිද්දෙනිය ප්‍රදේශයේ සිට මොහු යතුරුපැදියෙන් පැමිණ,බෙලිඅත්ත - මත්තල පිවිසුම් මාර්ගයේ වම් පස ඇති නිවසක් ආසන්නයේ යතුරුපැදිය නවතා තබා අධිවේගී මාර්ගයේ තම රැකියාව සඳහා මෙම මස 04 වන දින ගමන් කර ඇති අතර ,රැකියාව නිමා වී දින 6කින් පසු ව අද දින (10) මොහු නැවත යතුරුපැදිය නවතා තැබූ ස්ථානයට ගොස් යතුරුපැදියෙන් තමන් පදිංචි මිද්දෙනිය නගරය වෙත  යතුරුපැදිය රැගෙන යෑමට පැමිණි විට එය එම ස්ථානයේ නොතිබුණු බව පැමිණිලිකරු පොලීසිය වෙත පවසා ඇත.
+
+මෙම පැමිණිලිකරු සෑම සති අන්තයේ ම සහ සති ආරම්භයේ ම මෙම කර්තව්‍යය සිදුකරන බවත්, මෙම සතිය ඇතුළත දී ඔහුගේ නවතා තිබූ යතුරුපැදිය සොරකම් කර ඇති බවත් පැමිණිලිකරු පොලීසියට පවසා ඇත.
+
+...
+
+[Data](articles/5290520a.json)
+
+---
+
+### අස්වැසුම දෙවැනි අදියරට 15දා අයදුම්පත් කැඳවයි
+
+*2024-02-10 20:59:59* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුම-දෙවැනි-අදියරට-15දා-අයදුම්පත්-කැඳවයි/11-407996) · `si`
+
+අස්වැසුම දෙවැනි අදියර සඳහා එළැඹෙන 15 දා සිට අයදුමපත් කැඳවන බව සුබසාධක ප්‍රතිලාභ මණ්ඩලය දැනුම් දෙයි.
+
+◼️
+
+[Data](articles/b304547e.json)
+
+---
+
 ### There are many information about the murder of the father
 
 *2024-02-10 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193222) · `si`
@@ -124,23 +190,25 @@ As a result, the house in the Wekanda area in Mulleriyawa has been repaired rece
 
 ---
 
-### திடீரென சீதை அம்மன் கோயிலுக்கு படையெடுக்கும் பக்தர்கள்
+### Devotees invading the temple of Sita Amman
 
 *2024-02-10 20:26:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-சீதை-அம்மன்-கோயிலுக்கு-படையெடுக்கும்-பக்தர்கள்/175-332973) · `ta`
 
-அயோத்தியில் ராமர் கோயில் திறப்புக்குப் பிறகு இலங்கையில் உள்ள சீதை அம்மன் கோயிலில் பக்தர்கள் வருகை அதிகரித்துள்ளதாக இந்திய ஊடகம் ஒன்று செய்தி வெளியிட்டுள்ளது.
+Indian media reports that pilgrims' attendance has increased at the Sita Amman Temple in Sri Lanka after the opening of the Rama Temple in Ayodhya.
 
-இராமாயணத்தில் ராமர், சீதை, லட்சுமணர் ஆகியோர் வனவாசம் சென்றபோது, சீதையைக் கவர்ந்த இலங்கை மன்னன் ராவணன், இலங்கையில் உள்ள அசோக வனத்தில் சீதையை சிறைவைத்தார்.
+When Rama, Seethi and Lakshmana went to the Ramayana, Ravana, the Sri Lankan king, who attracted Sita, imprisoned Sita in the Ashoka forest in Sri Lanka.
 
-சீதை இருந்த அசோகவனம், தற்போது இலங்கையில்`சீதா எலிய' என அழைக்கப்படுகிறது. இலங்கையில் நுவரெலியா நகரில் இருந்து 5 கி.மீ. தொலைவில் "சீதா எலிய"அமைந்துள்ளது.
+Asokavanam, who was Sita, is now known as 'Sita Eliya' in Sri Lanka. 5 km from Nuwara Eliya in Sri Lanka. The "Sita Eliya" is located in the distance.
 
-இந்தப் பகுதி காடு,ஆறு, மலைகள் சூழ, இயற்கை எழில்கொஞ்சும் இடமாகவும், உலக அளவில் சுற்றுலாப் பயணிகளை ஈர்க்கக் கூடியதாகவும் உள்ளது. இங்கு சீதையை மூலவராகக் கொண்ட, பிரசித்தி பெற்ற சீதை அம்மன் கோயில் உள்ளது.
+The area is a forest, river and mountains, and is a place where it is natural and can attract tourists worldwide.. There is a famous Sita Amman Temple, which is the founder of Sita.
 
-இந்தக் கோயில் அருகே ஓடும் ஆற்றில் சீதை நீராடினார் என்பதால், இதற்கு சீதா ஆறு என்று பெயர். இலங்கையில் சீதையை தேடி வந்தஅனுமார், முதன்முதலில் சீதையை சந்திப்பதுபோல, இந்த ஆற்றங்கரையில் சிலை அமைந்துள்ளது.
+Since Sita was swimming in the river running near the temple, it was named Sita River. The statue is located on the banks of the river, like Anumar, who was looking for Sita in Sri Lanka, first met Sita.
 
 ...
 
 [Data](articles/3afae233.json)
+
+[Extended Data](ext_articles/3afae233.ext.json)
 
 ---
 
@@ -403,6 +471,26 @@ According to the Constitution, the President appoints bribery or corruption char
 [Data](articles/5bf5ec2e.json)
 
 [Extended Data](ext_articles/5bf5ec2e.ext.json)
+
+---
+
+### වසර 5ක් තුළ නිදහස් ස්වාධීන පලස්තීන රාජ්‍යයක් පිහිටුවිය යුතුයි
+
+*2024-02-10 17:10:19* · [`adalk`](https://www.ada.lk/breaking_news/වසර-5ක්-තුළ-නිදහස්-ස්වාධීන-පලස්තීන-රාජ්‍යයක්-පිහිටුවිය-යුතුයි/11-407994) · `si`
+
+ගෝලීය බලවතුන් තම ඉරණම තීරණය කරන තෙක් බලා නොසිට තමන්ගේ ගමන් මඟ සකසා ගැනීමට ඉන්දියන් සාගරය ආශ්‍රිත රටවලට හැකියාව පවතින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+
+ඉන්දියන් සාගරය ආශ්‍රිත රටවල් අතර විශ්වාසය ගොඩනඟා ගැනීම සහ දැනුවත්භාවය වැඩිදියුණු කර ගැනීම මඟින් ආරක්ෂිත සහ ස්වාධීන ඉන්දියන් සාගරයක් නිර්මාණය කරගත හැකි බවද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+
+2050 වන විට ඉන්දියාව, ඉන්දුනීසියාව වැනි රටවල දළ දේශීය නිෂ්පාදිතය අට ගුණයකින් වැඩි වන බවට පුරෝකථනය කර ඇති බවත්, ඒ වෙනුවෙන් අවකාශ සැලසීම සඳහා රටවල් සම්බන්ධ කරන යටිතල පහසුකම් වැඩිදියුණු කිරීම අවශ්‍ය බවත් ජනාධිපතිවරයා සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ඕස්ට්‍රේලියාවේ පර්ත් නුවරදී ඊ (09) ආරම්භ වූ 7 වැනි ඉන්දීය සාගර සමුළුවේ ප්‍රධාන දේශනය සිදු කරමිනි.
+
+ඉන්දියානු සාගරය ආශ්‍රිත රටවල සහ එම සාගරය බහුලව භාවිතා කරන සෙසු රටවලට බලපාන පොදු අභිලාෂ හා ගැටලු පිළිබඳ සාකච්ඡා කෙරෙන ඉන්දියන් සාගර සමුළුවේ 7 වන සමුළුව අද සහ හෙට (10) ඕස්ට්‍රේලියාවේ පර්ත් නුවරදී පැවැත්වේ.
+
+...
+
+[Data](articles/f8cfe26b.json)
 
 ---
 
@@ -1969,101 +2057,5 @@ According to the NWSDB, Colombo 11, 12, 13, 14 and 15 areas are supposed to be a
 [Data](articles/ce59fa89.json)
 
 [Extended Data](ext_articles/ce59fa89.ext.json)
-
----
-
-### Inactive loans up by 13%
-
-*2024-02-10 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193197) · `si`
-
-Shehan Semasinghe said that due to the economic crisis in the country.
-
-He said that economic stability is expected to achieve more than two percent economic growth this year.
-
-Meanwhile, the State Minister of Ranjith Siyambalapitiya has stated that steps will be taken to provide the food, travel and lodging allowance of police officers who increased by the President's proposal in this year's budget.
-
-◼️
-
-[Data](articles/e507eb84.json)
-
-[Extended Data](ext_articles/e507eb84.ext.json)
-
----
-
-### Two bail requests drowns court
-
-*2024-02-10 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193196) · `si`
-
-The Colombo Magistrate's Court has also rejected a request made by two directors of a fertilizer imported company to prevent his arrest.
-
-Two directors have been made by two directors who have been accused of selling a large quantity of fertilizer to the farmers.
-
-The two directors said that the two Directors had been arrested by the Financial Criminal Investigation Division of the Criminal Investigation Department regarding the incident.
-
-Colombo Chief Magistrate Prasanna Alwis had previously ordered several banking institutions to give the seven banking reports registered with the Fertilizer Secretariat in 2018.
-
-Investigations have revealed that the ficilitaru has been cheated by Rs.
-
-It is reported that investigations have commenced on a complaint lodged by two secretaries of the Ministry of Agriculture.
-
-◼️
-
-[Data](articles/bf2e757f.json)
-
-[Extended Data](ext_articles/bf2e757f.ext.json)
-
----
-
-### Fair weather to prevail over the island today
-
-*2024-02-10 07:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97154/fair-weather-to-prevail-over-the-island-today) · `en`
-
-The Department of Meteorology says mainly fair weather will prevail over the island today (Feb.10).
-
-Misty conditions can be expected at some places in Central, Sabaragamuwa and Western provinces and Galle and Matara districts during the morning.
-
-Mainly fair weather will prevail in the sea areas around the island. Winds will be north-easterly and wind speed will be 25-35 kmph.
-
-Wind speed may increase up to 55 kmph at times in the sea areas off the coasts extending from Galle to Pottuvil via Hambantota, And the sea areas off the coasts extending from Colombo to Kankesanturai via Puttalam.
-
-The sea areas off the coasts from Galle to Pottuvil via Hambantota and the sea areas off the coasts from Colombo to Kankesanturai via Puttalam, can be rough at times.
-
-◼️
-
-[Data](articles/5ed858c9.json)
-
-[Extended Data](ext_articles/5ed858c9.ext.json)
-
----
-
-### NGOs spend billions unchecked, new law soon to monitor them
-
-*2024-02-10 07:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NGOs-spend-billions-unchecked-new-law-soon-to-monitor-them/108-276725) · `en`
-
-Colombo, Feb 10 (Daily Mirror) -  In the wake of reports that as much as over half of funds received by various NGOs are spent without any monitoring, the government is in the final stage of evolving a new law that provides for compulsory registration of all such organizations with the National NGO Secretariat, an official said.
-
-The final draft of the new law titled ‘Non-governmental Organizations (Registration and Supervision) Bill is now ready. It has now been circulated among the NGOs and individual activists for their views before being presented to the Cabinet for approval. They have been given a period of three weeks for submission of their views, if any, to be incorporated in the bill before enactment.
-
-...
-
-[Data](articles/8cf7061a.json)
-
-[Extended Data](ext_articles/8cf7061a.ext.json)
-
----
-
-### NGOs spend billions unchecked, new law soon to monitor them
-
-*2024-02-10 07:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/NGOs-spend-billions-unchecked-new-law-soon-to-monitor-them/155-276725) · `en`
-
-Colombo, Feb 10 (Daily Mirror) -  In the wake of reports that as much as over half of funds received by various NGOs are spent without any monitoring, the government is in the final stage of evolving a new law that provides for compulsory registration of all such organizations with the National NGO Secretariat, an official said.
-
-The final draft of the new law titled ‘Non-governmental Organizations (Registration and Supervision) Bill is now ready. It has now been circulated among the NGOs and individual activists for their views before being presented to the Cabinet for approval. They have been given a period of three weeks for submission of their views, if any, to be incorporated in the bill before enactment.
-
-...
-
-[Data](articles/b687b57a.json)
-
-[Extended Data](ext_articles/b687b57a.ext.json)
 
 ---

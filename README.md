@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 11:02:28**
+As of **2024-02-10 11:17:04**
 
 ## Newspaper Stats
 
-*Scraped **6,098** Articles*
+*Scraped **6,102** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 342
 newsfirstlk | 363
 adalk | 506
 tamilmirrorlk | 739
-adaderanalk | 751
+adaderanalk | 755
 virakesarilk | 759
 adaderanasinhalalk | 820
 dailymirrorlk | 881
@@ -26,11 +26,47 @@ dailymirrorlk | 881
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,098 (100.0%) of 6,098 articles have been extended.
+6,098 (99.9%) of 6,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### Operation ‘Yukthiya’: 663 more suspects arrested
+
+*2024-02-10 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97161/operation-yukthiya-663-more-suspects-arrested) · `en`
+
+Another 663 suspects have been arrested by Sri Lanka’s police and security forces personnel within 24 hours which ended at 12.30 a.m. today (Feb.10). The arrests were made as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+Among the arrestees are 547 suspects who were taken into custody on narcotics-related charges and 116 others who were on the list of wanted criminal suspects. The Ministry also mentioned that warrants had been issued against 14 of the suspects for drug-related offences, and that 95 others had open warrants against them for non-drugs related offences.
+
+Detention orders have been secured against 02 of the drug suspects, while 02 others were referred to rehabilitation centres, the Ministry of Public Security said.
+
+According to the ministry, the narcotics taken into custody during this period include 175g 191mg of heroin, 171g 197 mg of crystal methamphetamine (Ice), 515 g 538 mg of cannabis and 807 cannabis plants.
+
+◼️
+
+[Data](articles/b185496d.json)
+
+---
+
+### Crowd surge reported in Jaffna as Indian Singer Hariharan’s concert kicks-off
+
+*2024-02-10 10:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97160/crowd-surge-reported-in-jaffna-as-indian-singer-hariharans-concert-kicks-off) · `en`
+
+A crowd surge was reported in the Jaffna area last night (09), as the concert conducted by the veteran Indian playback singer and film score composer Hariharan at ‘Mutraveli’ Stadium in Jaffna cheered up with a heavy crowd of fans.
+
+Meanwhile the huge crowds of people who came to the concert had tried to enter the venue forcefully disregarding the police security, Ada Derana reporter said.
+
+Several people have also been injured due to the crowd crush, however, the police managed to resolve the situation.
+
+A number of South Indian actresses and actors including Tamannaah and Ramba also took part in the concert.
+
+◼️
+
+[Data](articles/522db482.json)
+
+---
 
 ### 663 suspects arrested
 
@@ -95,6 +131,24 @@ The suspects have been handed over to Athurugiriya Police for further investigat
 [Data](articles/7ee7c243.json)
 
 [Extended Data](ext_articles/7ee7c243.ext.json)
+
+---
+
+### Moody’s downgrades Israel’s credit rating on war risks; outlook negative
+
+*2024-02-10 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97159/moodys-downgrades-israels-credit-rating-on-war-risks-outlook-negative) · `en`
+
+Moody’s downgraded Israel’s credit rating on Friday, citing material political and fiscal risks for the country from its war with the Palestinian militant group Hamas.
+
+The impact of the conflict raises political risk and weakens Israel’s executive and legislative institutions, and its fiscal strength for the foreseeable future, said Moody’s, which had begun the review for a downgrade on Oct. 19.
+
+The country’s rating was cut to “A2,” which is five notches above investment grade, while its credit outlook was kept at negative by Moody’s, meaning a further downgrade is possible.
+
+The war between Israel and Hamas, which has raged since Oct. 7, is the latest in a conflict between Israelis and Palestinians that has rumbled on for seven decades and destabilized the Middle East.
+
+...
+
+[Data](articles/33503242.json)
 
 ---
 
@@ -207,6 +261,26 @@ Ranil Wickremesinghe took the responsibility of protecting the country and build
 [Data](articles/41de726c.json)
 
 [Extended Data](ext_articles/41de726c.ext.json)
+
+---
+
+### Fifth suspect arrested over murder of Buddhist monk at temple
+
+*2024-02-10 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97158/fifth-suspect-arrested-over-murder-of-buddhist-monk-at-temple) · `en`
+
+Another suspect has been apprehended in connection with the murder of a Buddhist monk at a temple in the Malwathuhiripitiya area last month.
+
+The Western/North Crimes Division officers have also recovered a hand grenade and a pistol from the possession of the arrestee.
+
+A group of four assailants, who had arrived in a car, shot dead a Buddhist monk inside a temple in the Malwathuhiripitiya area of Gampaha in the early hours of January 23.
+
+The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustained critical injuries in the incident, had been rushed to the Gampaha Hospital. But he later succumbed to injuries while receiving treatment.
+
+Earlier this week, the investigating officers managed to arrest four other suspects who were allegedly complicit in the murder.
+
+...
+
+[Data](articles/977bd141.json)
 
 ---
 
@@ -1911,79 +1985,5 @@ The government, which came to power in 2020, launched the damage project instead
 [Data](articles/9adcf2af.json)
 
 [Extended Data](ext_articles/9adcf2af.ext.json)
-
----
-
-### Derailment disrupts railway operations on Up-country Line
-
-*2024-02-09 19:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97148/derailment-disrupts-railway-operations-on-up-country-line) · `en`
-
-The railway operations along the Up-country Line have been disrupted, owing to a derailment near Ihala Watawala railway station, Sri Lanka Railways said.
-
-The slow train plying from Nawalapitiya to Nanu Oya has been derailed between the Ihala Watawala and Rozella railway stations this evening (Feb. 09), according to the Railway Department.
-
-◼️
-
-[Data](articles/a5d34d09.json)
-
-[Extended Data](ext_articles/a5d34d09.ext.json)
-
----
-
-### Bethum Nissanka has a double century in international ODI cricket
-
-*2024-02-09 18:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175999) · `ta`
-
-Beth and Nissanka set a new record for Sri Lanka by scoring a double century in the first international ODI match in Pallekele in Kandy against Afghanistan.
-
-Betham Nissanka, who scored the highest number of runs on behalf of Sri Lanka in an international ODI match, scored 190 runs in the upcoming match.
-
-Sanath Jayasuriya's 189 runs in Sharjah in Sharjah in 2000 against India were the earliest number of Sri Lankans in international ODIs.
-
-Sri Lanka scored 381 runs for the loss of 3 wickets in 50 overs with the help of Beth and Nissanka.
-
-The total number of Sri Lanka was the highest number of international ODIs against Afghanistan.
-
-Bethum Nissanka faced 139 balls and scored 20 pounds and 8 sixes as the 10th player.
-
-Beth and Nissanka shared 182 runs in the opening wicket with Avishka Fernando, who scored 88 runs and Sadeera Samarawickrama scored 120 runs in 3rd wicket.
-
-◼️
-
-[Data](articles/4146cf0e.json)
-
-[Extended Data](ext_articles/4146cf0e.ext.json)
-
----
-
-### Harsha to Harsha again
-
-*2024-02-09 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193184) · `si`
-
-Parliament Harsha de Silva has been repeated for the post of Chairman of the Committee on Public Finance Committee.
-
-◼️
-
-[Data](articles/1248b60a.json)
-
-[Extended Data](ext_articles/1248b60a.ext.json)
-
----
-
-### Harsha again
-
-*2024-02-09 18:32:28* · [`adalk`](https://www.ada.lk/breaking_news/හර්ෂට-යළිත්-සභාපතිධුරය/11-407988) · `si`
-
-Dr. Harsha de Silva has been repeated for the post of Chairman of the Committee on Public Finance Chairman.
-
-Dr. Harsha De Silva has been appointed as the Chairman of the Select Committee to the Committee on the New Parliament.. The Speaker of this was the name of the member MPs announced this to Parliament today (09).
-
-Accordingly, Sheha Senarapola, (Dr.) Surepola, (Dumindan Fernando), Vijitha Dissanayake, Attorney Chandima Weerahewa, Lawyard Godahewa, (Duminda Dissanhewa) (Dr.) Harsha de Silva, Nimal Lansa, M. it. Sumanthiran, Dr. Kavindhiran Jayawardena, Mantha Dissanayake, Harshana Rajakaruna, U. K. Sumith Udukumbura, (Dr.) Major Pradeep Undugoda, Isuru Dodangoda, Law Premnith C. Madura Withanage and Madura Vithanage and Madura Vithanage, Dolawatta. W. D. Sahan Pradeep Vithana has been appointed to serve the Committee on Finance.
-
-◼️
-
-[Data](articles/4bf7cfe1.json)
-
-[Extended Data](ext_articles/4bf7cfe1.ext.json)
 
 ---

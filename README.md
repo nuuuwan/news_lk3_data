@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 15:02:17**
+As of **2024-02-10 15:17:34**
 
 ## Newspaper Stats
 
-*Scraped **6,126** Articles*
+*Scraped **6,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 342
 newsfirstlk | 363
 adalk | 507
 tamilmirrorlk | 743
-adaderanalk | 756
+adaderanalk | 757
 virakesarilk | 766
 adaderanasinhalalk | 825
 dailymirrorlk | 886
@@ -26,33 +26,37 @@ dailymirrorlk | 886
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,125 (100.0%) of 6,126 articles have been extended.
+6,126 (100.0%) of 6,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
 
-### பாக்கிஸ்தான் தேர்தல் - வெற்றிபெற்றுள்ளதாக இம்ரான்கான் தெரிவிப்பு
+### Imran Khan reports that Pakistan election
 
 *2024-02-10 14:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/176039) · `ta`
 
-பாக்கிஸ்தான் தேர்தலில் இராணுவத்தின் ஒடுக்குமுறைகள் தேர்தல் மோசடிகளை மீறி இம்ரான்கானின் கட்சியுடன் இணைந்து போட்டியிட்ட வேட்பாளர்கள் வெற்றிபெற்றுள்ளனர்.
+The candidates who contested with Imran Khan's party have won the Pakistan elections in violation of election fraud.
 
-முன்னாள் பிரதமர் நவாஸ்செரீவ் தலைமையிலான கூட்டணியே வெற்றிபெறும் என்ற எதிர்பார்ப்பு காணப்பட்ட நிலையில் அதனை மீறி பிடிஐ கட்சியுடன் இணைந்து போட்டியிட்டவர்கள் வெற்றிபெற்றுள்ளனர்
+Those who have joined the PDI have won the expectation that the former Prime Minister Nawasserev -led coalition will win.
 
-கட்சிக்கு எதிரான ஒடுக்குமுறைகளை மீறி அடைந்துள்ள வெற்றியை கொண்டாடுமாறு அவர் தனது ஆதரவாளர்களை கேட்டுக்கொண்டுள்ளார்.
+He has urged his supporters to celebrate the victory over the oppression of the party.
 
-265 ஆசனங்களிற்கான முடிவுகள் அறிவிக்கப்பட்டுள்ள நிலையில் இம்ரான் கானின் பிபிடி கட்சி 90 ஆசனங்களை கைப்பற்றியுள்ளது.
+Imran Khan's PPD has won 90 seats as the results of 265 seats have been announced.
 
-பாக்கிஸ்தான் தேர்தல்களில் தலையிடும் ஆட்சியாளர்களை உருவாக்கும் வரலாற்றை கொண்ட பாக்கிஸ்தான் இராணுவத்தின் ஆதரவு முன்னாள் பிரதமர் நவாஸ்செரீவ் கட்சிக்குள்ளதாக கருத்து நிலவியமை குறிப்பிடத்தக்கது.
+It is noteworthy that the Pakistan army's support for the history of creating rulers who interfere with the Pakistan elections is the former Prime Minister Nawaz Seriv.
 
-எனினும் வாக்காளர்கள் முன்னொருபோதும் இல்லாத அளவிற்கு பிடிஐ கட்சிக்கும் இம்ரான்கானிற்கும் ஆதரவாக வாக்களித்துள்ளனர்.
+However, voters have voted in favor of the PDI and Imrankan.
 
-மக்கள் ஆதரவு காரணமாகவே செரீவ்விற்கு ஆதரவாக எதனையும் செய்ய முடியாமல் போனதாக பாக்கிஸ்தான் செய்திகள் தெரிவிக்கின்றன.
+Pakistan reports say that due to popular support, she was unable to do anything in favor of Serev.
 
-...
+However, researchers say that due to lack of clearly, the Imran party may face crises in forming a government.
+
+◼️
 
 [Data](articles/48a11304.json)
+
+[Extended Data](ext_articles/48a11304.ext.json)
 
 ---
 
@@ -131,6 +135,24 @@ He further stated that he has previously had to inform the prime minister before
 [Data](articles/2222acee.json)
 
 [Extended Data](ext_articles/2222acee.ext.json)
+
+---
+
+### India’s Adani Group to run three Sri Lankan airports?
+
+*2024-02-10 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97163/indias-adani-group-to-run-three-sri-lankan-airports) · `en`
+
+Adani Group is negotiating with Sri Lankan authorities to manage three airports in the island nation, including its premier international gateway, Bandarnaike International Airport in Colombo.
+
+Sri Lanka’s minister for tourism, land, sports, and youth affairs, Harin Fernando, said on Friday that modalities are being discussed between the two sides and could involve management contracts as well.
+
+Other airports being offered are Ratmalana Airport in Colombo and Mattala Airport, the latter earning the tag of the world’s emptiest international airport seven years ago.
+
+“There are plans to work with Adani Group for the management of airports,” Fernando told businessline on the sidelines of the OTM travel show in Mumbai.
+
+...
+
+[Data](articles/9d3d8d63.json)
 
 ---
 
@@ -1979,33 +2001,5 @@ The railway line has been severely damaged by railway clergy.
 [Data](articles/9a5443d5.json)
 
 [Extended Data](ext_articles/9a5443d5.ext.json)
-
----
-
-### News that the United People's Power is preparing to negotiate with India is completely fake - Sujeeva Senasinghe
-
-*2024-02-09 21:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175992) · `ta`
-
-There were reports that the United People's Power is preparing to negotiate with India. This message is completely incorrect.. Sujeewa Senasinghe said that there is no such need for the United People's Power.
-
-He said this at a press conference held at the Opposition Leader's office today (09).
-
-The United People's Power is preparing to contest the presidential election with a vast coalition.
-
-Thieves, robbers and racists will not be joined into the coalition.
-
-Sajith Premadasa supports Sajith Premadasa because Sajith is against corruption and fraud.
-
-A leader who voices against corruption and fraud can come forward as the country's head. Since 1994, such a leader has not appeared in the country.
-
-There were reports that the United People's Power is preparing to negotiate with India. This message is completely incorrect.. There is no such need for the United People's Power.
-
-The United People's Power is working closely with India and Indian leaders. India wants to see Sri Lanka that is developing.
-
-...
-
-[Data](articles/1647c447.json)
-
-[Extended Data](ext_articles/1647c447.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 20:49:27**
+As of **2024-02-10 21:02:34**
 
 ## Newspaper Stats
 
-*Scraped **6,165** Articles*
+*Scraped **6,166** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 511
 tamilmirrorlk | 745
 adaderanalk | 765
 virakesarilk | 769
-adaderanasinhalalk | 835
+adaderanasinhalalk | 836
 dailymirrorlk | 896
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,165 (100.0%) of 6,165 articles have been extended.
+6,165 (100.0%) of 6,166 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### තිදරු පියාගේ ඝාතනය ගැන තොරතුරු රැසක්
+
+*2024-02-10 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193222) · `si`
+
+මුල්ලේරියාව, වෑකන්ද ප්‍රදේශයේදී 38 හැවිරිදි තිදරු පියෙකුව ගෙල කපා අද (10) අලුයම ඝාතනය කර තිබේ.
+
+කුමන හේතුවක් මත එම ඝාතනය සිදුකර ඇත් ද යන්න මෙතෙක් අනාවරණය වී නොමැති බව පොලීසිය පැවසීය.
+
+කෙසේවෙතත් අදාළ ඝාතනයයට ලක් වූ පුද්ගලයාගේ පියාව මුල්ලේරියාව පොලීසිය අද පස්වරුවේ අත්අඩංගුවට ගත්තේය.
+
+සිය පුත්‍රයා එළඹෙන 14 වනදාට යෙදෙන පෙම්වතුන්ගේ දිනයේදී සිය පළමු බිරිය සමග ගෙට ගෙවදීමට නියමිතව සිටි බැවින් ඇති  වූ සිත් තැවුලෙන් මෙම ඝාතනය සිදුකළ බව ඔහුගේ පියා පාපොච්ඡාරණය කර තිබේ.
+
+පුත්‍රයා සමග ඊයේ රාත්‍රියේ මත්පැන් පානය කිරීමෙන් පසුව පුත්‍රයා විසින්ම සැකසූ පිහියකින් ඔහුගේ ගෙළ කැපූ බවද සැකකරු පවසා ඇත.
+
+මියගිය පුද්ගලයා සිය දෙවැනි බිරිය සමග වාසය කර ඇති අතර පසුව ඇය බලංගොඩ පදිංචි බස් කොන්දොස්තරවරයෙක් සමග සබඳතාවක් ගොඩනගා සිය 10 හැවිරිදි දියණියද අතහැර ඔහු සමග විදේශගතවී තිබුණි.
+
+පසුව අදාළ පුද්ගලයා ඇයව නැවත ගෙන්වා ගැනීමට විවිධ යාගකර්ම සිදුකළ ද ඉන් ඵලක් සිදුවී නොමැත.
+
+ඒ අතරතුරදී, ඔහු අතහැර දැමූ පළමු කසාද බිරිය ඔහුගේ පියා විසින් ඔහුගේ නිවසට රැගෙන ගොස් රැක බලාගෙන තිබේ.
+
+...
+
+[Data](articles/74cc1bb0.json)
+
+---
 
 ### Another shot dead
 
@@ -2033,31 +2059,5 @@ A team of wildlife conservators including Range Wildlife Conservators S.S.Malind
 [Data](articles/26018fbc.json)
 
 [Extended Data](ext_articles/26018fbc.ext.json)
-
----
-
-### Sri Lanka’s February tourist arrivals cross 60,000 mark in first eight days
-
-*2024-02-10 05:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-February-tourist-arrivals-cross-60-000-mark-in-first-eight-days/108-276718) · `en`
-
-The tourist arrivals to the island nation crossed the 60,000 mark in the first week of February, indicating improved interest in the destination.
-
-The provisional data from the Sri Lanka Tourism Development Authority showed that for the first eight days of February, the arrivals to the country totalled 60,122.
-
-The arrivals achieved in the first eight days of February are about 55 percent of the total arrivals recorded for the whole of the second month of 2023.
-
-The daily arrival average has increased to 7,500, from the 6000-6,500 range recorded in January.
-
-Taking the lead for February is the Russian Federation, which accounted for 15 percent of the total tourist arrivals.
-
-Ranking second is India, which accounted for 14 percent of the international visitors to Sri Lanka. In the third place is the United Kingdom, accounting for 9 percent of the tourist arrivals.
-
-The cumulative arrivals for January 1 to February 8 are 268,375.
-
-...
-
-[Data](articles/95a877c2.json)
-
-[Extended Data](ext_articles/95a877c2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 19:17:29**
+As of **2024-02-10 19:32:40**
 
 ## Newspaper Stats
 
-*Scraped **6,157** Articles*
+*Scraped **6,161** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ islandlk | 317
 economynextcom | 318
 dailyftlk | 342
 newsfirstlk | 363
-adalk | 509
-tamilmirrorlk | 744
+adalk | 511
+tamilmirrorlk | 745
 adaderanalk | 764
 virakesarilk | 769
 adaderanasinhalalk | 832
-dailymirrorlk | 895
+dailymirrorlk | 896
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,157 (100.0%) of 6,157 articles have been extended.
+6,157 (99.9%) of 6,161 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### கலா மாஸ்டருக்கு கண்ணீர் அஞ்சலி போஸ்டர்
+
+*2024-02-10 18:37:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கலா-மாஸ்டருக்கு-கண்ணீர்-அஞ்சலி-போஸ்டர்/71-332972) · `ta`
+
+யாழ்ப்பாணம் - வடமராட்சியின் சில பகுதிகளில் தென்னிந்தியாவைச் சேர்ந்த  கலா மாஸ்டருக்கு கண்ணீர் அஞ்சலி துண்டுப்பிரசுரங்கள் ஒட்டப்பட்டுள்ளமை பரபரப்பை ஏற்படுத்தியுள்ளது.
+
+பெருமெடுப்பில் ஒழுங்குபடுத்தப்பட்ட பாடகர் ஹரிஹரனின் இசைநிகழ்ச்சி சீரான ஒழுங்குபடுத்தல் இன்மை காரணமாக குழப்பத்தில் முடிந்த நிலையில் கலா மாஸ்டரின் கண்ணீர் அஞ்சலி சுவரொட்டிகள் ஆங்காங்கே ஓட்டப்பட்டுள்ளது.
+
+குறித்த இசை நிகழ்ச்சியில் பங்கேற்க குஷ்பு, கலா மாஸ்டர் ஆகியோர் யாழ்ப்பாணம் வருகை தருவதாக அறிவிக்கப்பட்ட நிலையில் ஆரம்பம் முதலே எதிர்ப்பு காட்டப்பட்டு வந்தது குறிப்பிடத்தக்கது.
+
+குஷ்பு பங்கேற்காத நிலையில் கலா மாஸ்டரே இசை நிகழ்ச்சி ஏற்பாட்டை கவனித்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/973c8bf0.json)
+
+---
+
+### Customs nab airport cleaner trying to smuggle out gold worth Rs.58 Mn
+
+*2024-02-10 18:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Customs-nab-airport-cleaner-trying-to-smuggle-out-gold-worth-Rs-58-Mn/108-276745) · `en`
+
+Colombo, Feb 10 (Daily Mirror) - An employee attached to a private cleaning company at the Bandaranaike International Airport (BIA) was nabbed by the Sri Lanka Customs officials while attempting to smuggle out gold worth over Rs. 58 million early this morning, sources said.
+
+Officials of the Customs Narcotic Control Unit stationed at the BIA Arrivals Terminal on suspicion searched a female staff member of a private cleaning company to find gold concealed in her handbag.
+
+Customs spokesman and Senior Director Seewali Arukgoda told the Daily Mirror that the suspect was about to leave the airport after finishing her duty shift when she was apprehended.
+
+The sleuths found gold jewellery and gold gel weighing up to 2,700 grams from the suspect’s handbag. The 53-year-old female suspect has been detained for further inquiries.
+
+◼️
+
+[Data](articles/802e889d.json)
+
+---
 
 ### Former PM Imran Khan gets bail In military installations attack cases
 
@@ -139,6 +175,24 @@ Former Pakistani Minister of External Affairs Stadasana, former Pakistani Minist
 [Data](articles/23070206.json)
 
 [Extended Data](ext_articles/23070206.ext.json)
+
+---
+
+### අල්ලස් කොමිෂමට අධ්‍යක්ෂ ජෙනරාල්වරයෙක් සොයයි
+
+*2024-02-10 17:16:41* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-කොමිෂමට-අධ්‍යක්ෂ-ජෙනරාල්වරයෙක්-සොයයි/11-407995) · `si`
+
+2023 අංක 9 දරන දුෂණ විරෝධී පනතෙහි (සංශෝධන පරිදි) විධිවිධාන යටතේ අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන  කොමිෂන් සභාවට   අධ්‍යක්ෂ ජෙනරාල්වරයෙකු පත් කිරීම සඳහා  නිර්දේශ කිරීමට සුදුස්සෙකු තෝරා ගැනීම වෙනුවෙන්  ආණ්ඩු ක්‍රම ව්‍යවස්ථා සභාව මගින් මාර්තු 04 දා දක්වා  අයදුම්පත් කැඳවා තිබේ.
+
+අපරාධ නඩු කටයුතු පිළිබඳව අවම වශයෙන් වසර 15 ක  පළපුරුද්දක්  ඇති  නීතිඥයන් වන  ,  අපරාධමය වරදක් සම්බන්ධයෙන් වැරදිකරුවෙකු නොවන , දේශපාලනමය තනතුරු නොදරණ  ,වයස අවුරුදු 55 නොඉක්මවූ යහපත් ශාරිරික හා මානසික තත්වයක් ඇති  ශ්‍රී ලාංකික කීර්තිමත්  පුරවැසියන් වීම ඉල්ලුම්කරුවන් තිබිය  යුතු   සුදුසුකම් කිහිපයකි.
+
+මේ   සඳහා අදාළ අයදුම්පත්‍ර ආකෘතිය  පාර්ලිමේන්තු වෙබ් අඩවියෙහි (www.parliament.lk) සඳහන් වෙන බව බව ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව පවසයි.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව, ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවේ නිර්දේශය පරිදි ජනාධිපතිවරයා විසින් අල්ලස් හෝ දූෂණ චෝදනා ව්මර්ශන කොමිෂන් සභාවේ අධ්‍යක්ෂ ජෙනරාල්වරයා පත්කිරීම සිදුකරයි.
+
+◼️
+
+[Data](articles/5bf5ec2e.json)
 
 ---
 
@@ -727,6 +781,26 @@ To build this country, you need to stop corruption .It can save the country if y
 [Data](articles/b2e49502.json)
 
 [Extended Data](ext_articles/b2e49502.ext.json)
+
+---
+
+### උඩරට දුම්රිය පීලි පනීම ගැන පරීක්ෂණයක් ඉල්ලයි
+
+*2024-02-10 13:27:55* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-පීලි-පනීම-ගැන-පරීක්ෂණයක්-ඉල්ලයි/11-407992) · `si`
+
+උඩරට දුම්රිය මාර්ගයේ දුම්රියයන් නිතරම පීලි පැනීමට ලක් වීම සහ බොහෝ අවස්ථාවල දුම්රියයන් ප්‍රමාද වී ධාවනය වීම් පිළිබඳව පරීක්ෂණයක් කරන ලෙස දුම්රිය දෙපාර්තමේන්තුවෙන් ඉල්ලීමක් කළ බව බදුල්ල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී වඩුවේල් සුරේෂ් මහතා පැවසීය.
+
+ඊයේ 09 බදුල්ල සිට කොළඹ බලා ධාවනය වූ රාත්‍රී තැපැල් දුම්රිය පැය පහකට අධික කාලයක් බදුල්ලෙන්  ප්‍රමාද වීම සහ ඉතා මන්දගාමීව දුම්රිය ධාවනය වීම හේතුවෙන් මගීහු  දැඩි  අපහසුතාවයට පත්වූ බවත්  සිදුවූ අපහසුතාවය පිළිබඳව මගීහු  පිරිසක් තමාට දැන්වූ බවත්  වඩුවේල් සුරේෂ්  මහතා පැවසීය.
+
+මේ පිළිබඳව සොයා බැලීමේදී මේ වර්ෂය තුළදී පමණක් දුම්රිය පීලි පැනීම්  හතකට වඩා අධික ප්‍රමාණයක් සිදුවී ඇති බවට අනාවරණය වූ බවද ඒ මහතා පැවසීය.
+
+ඊයේ (09) උඩරට දුම්රිය මාර්ගයේ වටවල හා රොසැල්ල දුම්රිය ස්ථාන අතරදි පිළිපැනීමට ලක්ව අවහිර වී තිබූ උඩරට දුම්රිය මාර්ගයේ ගමනා ගමන කටයුතු අද දහය උදෑසන  සිට යථා තත්ත්වයට පත්වී ඇති බව දුම්රිය පාලක මැදිරිය පැවසීය.
+
+නාවලපිටිය සිට නානුඔය දක්වා ධාවනය වූ භාණ්ඩ  ප්‍රවාහන දුම්රියක ඇන්ජිම  කොටස වටවල හා රොසැල්ල අතරදී පීළිපැන ඊයේ මෙම මාර්ගය අවහිර වී තිබුණි.
+
+...
+
+[Data](articles/f50ca5d0.json)
 
 ---
 
@@ -1969,75 +2043,5 @@ The party leader I am referrig to is Somasundaram Senathirajah known popularly a
 [Data](articles/3305ba9b.json)
 
 [Extended Data](ext_articles/3305ba9b.ext.json)
-
----
-
-### Prof. Siva urges Sri Lankan expatriates to invest in nation’s youth
-
-*2024-02-10 01:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prof-Siva-urges-Sri-Lankan-expatriates-to-invest-in-nations-youth/108-276719) · `en`
-
-A Prominent American academic of Sri Lankan origin, Prof. Siva Sivanathan, called on Sri Lankan expatriates to be part of Sri Lanka’s growth story by contributing a portion of their earnings to the island nation’s children and youth.
-
-“Sri Lanka can be developed if all its expatriates contribute 5 percent of what they have earned for the future of Sri Lankan children and youth,” Prof. Sivananthan told journalists in Colombo this week.
-
-“I, being a student of Hindu College Jaffna and University of Peradeniya, wanted to give back something to Sri Lanka and thereby, was successful in introducing a diploma programme in renewable energy together with the National Apprentice and Industrial Training Authority. The children who study this programme are usually employed by the time they graduate,” he said.
-
-...
-
-[Data](articles/133d3150.json)
-
-[Extended Data](ext_articles/133d3150.ext.json)
-
----
-
-### Dynamic B2B sessions at Sri Lanka –Thailand Business Forum
-
-*2024-02-10 01:08:52* · [`dailyftlk`](https://www.ft.lk/business/Dynamic-B2B-sessions-at-Sri-Lanka-Thailand-Business-Forum/34-758328) · `en`
-
-Ceylon Chamber of Commerce Chairman Duminda Hulangamuwa welcoming President Ranil Wickremesinghe
-
-The Sri Lanka-Thailand Business Forum, organised in collaboration with the Embassy of the Kingdom of Thailand in Sri Lanka, the Department of International Trade Promotion, The Ministry of Commerce Thailand, the Ministry of Trade Commerce and Food Security, The Ceylon Chamber of Commerce and the Chamber’s Sri Lanka - Greater Mekong Business Council (SLGMBC), on 3 February 2024, attracted high-level government and private sector participation.
-
-Attended by President Ranil Wickremesinghe and Prime Minister of Thailand Srettha Thavisin, with the participation of over 200 corporate representatives and a 21-member business delegation from Thailand, the Forum followed the signing of the Sri Lanka – Thailand Free Trade Agreement.
-
-...
-
-[Data](articles/1be99827.json)
-
-[Extended Data](ext_articles/1be99827.ext.json)
-
----
-
-### Lankan envoy in Pakistan attends Expo – Engineering and Healthcare Show in Lahore
-
-*2024-02-10 01:07:54* · [`dailyftlk`](https://www.ft.lk/business/Lankan-envoy-in-Pakistan-attends-Expo-Engineering-and-Healthcare-Show-in-Lahore/34-758327) · `en`
-
-High Commissioner of Sri Lanka to Pakistan Admiral (Retd) Ravindra C. Wijegunaratne attended the Expo – 3rd edition of the Engineering and Healthcare Show recently at the Expo Centre in Lahore.
-
-The exhibition was organised by the Trade Development Authority of Pakistan (TDAP) in collaboration with the Ministry of Commerce and Export Development Fund of Pakistan.
-
-Over 200 exhibitors from Pakistan showcased their products across 26 sectors of engineering and healthcare industries of Pakistan. More than 600 international delegates from 70 countries participated as buyers/visitors in the exhibition.
-
-...
-
-[Data](articles/4e167d62.json)
-
-[Extended Data](ext_articles/4e167d62.ext.json)
-
----
-
-### SJB’s reply to President’s Policy Statement
-
-*2024-02-10 00:58:28* · [`dailyftlk`](https://www.ft.lk/news/SJB-s-reply-to-President-s-Policy-Statement/56-758316) · `en`
-
-Nothing will change with passing laws unless there is political will to resolve issues
-
-MP Eran Wickramaratne speaking on the adjournment debate on the policy statement by President Ranil Wicckremesinghe said the main Opposition SJB disagrees with the broad theme of the President’s statement delivered on Tuesday that the problem facing this country is economic and not political. Speaking on the debate on Thursday he stressed that from the outset he rejects the President’s theme as the economy, politics and political economy are imperative in governance and politics.
-
-...
-
-[Data](articles/2b721fed.json)
-
-[Extended Data](ext_articles/2b721fed.ext.json)
 
 ---

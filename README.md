@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 12:48:24**
+As of **2024-02-10 13:02:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 883
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,111 (100.0%) of 6,112 articles have been extended.
+6,112 (100.0%) of 6,112 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Namal is presently in India on a two-day private visit to Uttar Pradesh to atten
 ◼️
 
 [Data](articles/cb814aae.json)
+
+[Extended Data](ext_articles/cb814aae.ext.json)
 
 ---
 

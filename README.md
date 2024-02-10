@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 22:49:52**
+As of **2024-02-10 23:02:24**
 
 ## Newspaper Stats
 
@@ -26,31 +26,35 @@ dailymirrorlk | 896
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,172 (99.9%) of 6,177 articles have been extended.
+6,177 (100.0%) of 6,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
 
-### පොලිස් අවිය උදුරාගෙන පොලීසියටම වෙඩිතබයි
+### Police weapon sworn in and shot
 
 *2024-02-10 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193226) · `si`
 
-රාත්‍රී මුර සංචාරය අතරතුර ත්‍රීරෝද රථයක් පරීක්ෂා කිරීමට ගිය මල්වතුහිරිපිටිය පොලීසියේ  පොලිස් සැරයන්වරයෙකුට එහි රියදුරා වෙඩිතබා තිබේ.
+The driver of the police sergeant was shot dead by the Night patrol.
 
-පොලීසිය පැවසුවේ සැරයන්වරයාගේ රාජකාරි ගිනිඅවිය උදුරාගත් ත්‍රීරෝද රථ රියදුරු ඉන් ඔහුට වෙඩිතබා ගිනිඅවියද රැගෙන පළාගොස් ඇති බවය.
+According to police, the three-wheeler driver who was ridiculed by the Sergeant's Duty Range and the three-wheeler driver had fled the shower.
 
-පොලීසිය පැවසුවේ, ප්‍රදේශයේ පිහිටි බැංකුවක දොරක් විවෘත කර තිබෙන බවට දුටු පොලිස් නිලධාරීන් එහි කළමනාකරුට ඒ පිළිබඳව දැනුම්දීමෙන් පසුව ඔහු පැමිණෙන තෙක් අදාළ ස්ථානයේ රැඳී සිට ඇති බවය.
+Police said that the policemen had opened a door of a bank in the area and had stayed to the manager of its manager.
 
-එහිදී පැමිණි සැක කටයුතු ත්‍රීරෝද රථයක් පරීක්ෂා කිරීමට පොලීසිය කටයුතු කර තිබේ.
+Police have taken steps to inspect a three-wheeler.
 
-එම අවස්ථාවේදී අදාළ ත්‍රීරෝද රථයේ සිට ඇත්තේ වෙඩි ප්‍රහාරයට ලක්වූ පොලිස් සැරයන්වරයාගේ සහෝදරිය සමග මුදල් ගනුදෙනුවක් සම්බන්ධයෙන් මඟහරිමින් සිටි ගම්පහ පදිංචි පුද්ගලයෙකි.
+The three-wheeler had been in the three-wheeler, a resident of Gampaha, who had been shot dead.
 
-පසුව ඔහුව ජීප් රථයට නංවාගෙන පොලිස් ස්ථානයට රැගෙන යෑමට උත්සාහ කළ අවස්ථාවේදී අදාළ සැරයන්වරයාගේ රාජකාරී රිවෝල්වරය උදුරාගෙන වෙඩි ප්‍රහාර දෙකක් එල්ල කර ඇති බව පොලීසිය පැවසීය.
+The rank of the sergeant has been grabbed after attempting to carry him to take him to the jeep and tried to take him to the police station.
 
-...
+It is reported that he has been admitted to the Colombo National Hospital for further treatment.
+
+◼️
 
 [Data](articles/76b2001e.json)
+
+[Extended Data](ext_articles/76b2001e.ext.json)
 
 ---
 
@@ -74,17 +78,19 @@ One of them, who was in critical condition, was later transferred to the Nationa
 
 ---
 
-### ඡන්දෙ ගැන ජනපතිගේ ස්ථාවරය කියයි
+### President tells the President's position on election
 
 *2024-02-10 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193225) · `si`
 
-ඉදිරි ජනාධිපතිවරණයට තරග වැදීමට තමන් සූදානම් බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe says he is ready to compete in the next presidential election.
 
-ඔස්ට්‍රේලියාවේ, පර්ත් නුවරදී ඉන්දීය මාධ්‍ය නාලිකාවක් සමග පැවැති සම්මුඛ සාකච්ඡාවකට එක්වෙමින් ජනාධිපතිවරයා ඒ බව සඳහන් කළේය.
+The President made this observation at an interview with Indian Media Channel in Parath, Australia.
 
 ◼️
 
 [Data](articles/096275bc.json)
+
+[Extended Data](ext_articles/096275bc.ext.json)
 
 ---
 
@@ -130,31 +136,37 @@ A program to educate community police committee members of the Panadura Division
 
 ---
 
-### බෙලිඅත්තේ නවතා තිබූ ගරුවරයෙකුගේ යතුරුපැදියක් අතුරුදන්
+### Motorcycle of a garbage stopped by Beliwatta
 
 *2024-02-10 21:09:31* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්තේ-නවතා-තිබූ-ගරුවරයෙකුගේ-යතුරුපැදියක්-අතුරුදන්/11-407997) · `si`
 
-බෙලිඅත්ත පොලිස් බල ප්‍රදේශයට අයත් බෙලිඅත්ත - මත්තල පිවිසුම් මාර්ගයට වම් පසින් පිහිටා තිබූ නිවසක් අසල නවතා තිබූ යතුරුපැදියක් සොරකම් කරීමක් සම්බන්ධ ව බෙලිඅත්ත පොලීසියට අද (10)දින පැමිණිල්ලක් ලැබී ඇති බව බෙලිඅත්ත පොලීසිය පවසයි.
+Beliatta Police have received a complaint to the Beliatta - the Beliattai police area.
 
-මෙලෙස මෙම යතුරුපැදියේ හිමිකරු බෙලිඅත්ත පොලීසියට පවසා ඇත්තේ ඔහු ගුරු වෘත්තියේ නිරත වන බවත්, ඔහු කොළඹ ප්‍රදේශයේ පාසලක ගුරුවරයෙකු බවත් ය.මොහු පදිංචිව සිටින මිද්දෙනිය ප්‍රදේශයේ සිට මොහු යතුරුපැදියෙන් පැමිණ,බෙලිඅත්ත - මත්තල පිවිසුම් මාර්ගයේ වම් පස ඇති නිවසක් ආසන්නයේ යතුරුපැදිය නවතා තබා අධිවේගී මාර්ගයේ තම රැකියාව සඳහා මෙම මස 04 වන දින ගමන් කර ඇති අතර ,රැකියාව නිමා වී දින 6කින් පසු ව අද දින (10) මොහු නැවත යතුරුපැදිය නවතා තැබූ ස්ථානයට ගොස් යතුරුපැදියෙන් තමන් පදිංචි මිද්දෙනිය නගරය වෙත  යතුරුපැදිය රැගෙන යෑමට පැමිණි විට එය එම ස්ථානයේ නොතිබුණු බව පැමිණිලිකරු පොලීසිය වෙත පවසා ඇත.
+The owner of the motorcycle has told the Beliatta to the police, he is a teacher in the Colombo-based school, the Beliatta - Mattala, Beliatta - Mattala to the left area.The complainant told the police that the return of the motorbike to the scene of the motorcycle for the return of the motorcycle for the return of the job, he had not returned to the scenario of the motorbike after the work was completed.has.
 
-මෙම පැමිණිලිකරු සෑම සති අන්තයේ ම සහ සති ආරම්භයේ ම මෙම කර්තව්‍යය සිදුකරන බවත්, මෙම සතිය ඇතුළත දී ඔහුගේ නවතා තිබූ යතුරුපැදිය සොරකම් කර ඇති බවත් පැමිණිලිකරු පොලීසියට පවසා ඇත.
+The complainant has told the police that the complainant is doing this task every weekend and the beginning of the week.
+
+The number of people in the nearby house in connection with the incident, the motorcycle was placed on the same place on the 8th and that the party had lost the motorbike until the complainant was told today.
 
 ...
 
 [Data](articles/5290520a.json)
 
+[Extended Data](ext_articles/5290520a.ext.json)
+
 ---
 
-### අස්වැසුම දෙවැනි අදියරට 15දා අයදුම්පත් කැඳවයි
+### Application is called on on the 15th
 
 *2024-02-10 20:59:59* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුම-දෙවැනි-අදියරට-15දා-අයදුම්පත්-කැඳවයි/11-407996) · `si`
 
-අස්වැසුම දෙවැනි අදියර සඳහා එළැඹෙන 15 දා සිට අයදුමපත් කැඳවන බව සුබසාධක ප්‍රතිලාභ මණ්ඩලය දැනුම් දෙයි.
+The Welfare Board informs that the second phase of the revenue will be called for the second phase.
 
 ◼️
 
 [Data](articles/b304547e.json)
+
+[Extended Data](ext_articles/b304547e.ext.json)
 
 ---
 
@@ -474,23 +486,27 @@ According to the Constitution, the President appoints bribery or corruption char
 
 ---
 
-### වසර 5ක් තුළ නිදහස් ස්වාධීන පලස්තීන රාජ්‍යයක් පිහිටුවිය යුතුයි
+### A free independent Palestinian state should be established within 5 years
 
 *2024-02-10 17:10:19* · [`adalk`](https://www.ada.lk/breaking_news/වසර-5ක්-තුළ-නිදහස්-ස්වාධීන-පලස්තීන-රාජ්‍යයක්-පිහිටුවිය-යුතුයි/11-407994) · `si`
 
-ගෝලීය බලවතුන් තම ඉරණම තීරණය කරන තෙක් බලා නොසිට තමන්ගේ ගමන් මඟ සකසා ගැනීමට ඉන්දියන් සාගරය ආශ්‍රිත රටවලට හැකියාව පවතින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+President Ranil Wickremesinghe stressed that the Indian Ocean is capable of setting up his passage without waiting for the global powers to decide until their destiny.
 
-ඉන්දියන් සාගරය ආශ්‍රිත රටවල් අතර විශ්වාසය ගොඩනඟා ගැනීම සහ දැනුවත්භාවය වැඩිදියුණු කර ගැනීම මඟින් ආරක්ෂිත සහ ස්වාධීන ඉන්දියන් සාගරයක් නිර්මාණය කරගත හැකි බවද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+The President pointed out that the building and awareness can be created by the Indian Ocean countries and improve awareness.
 
-2050 වන විට ඉන්දියාව, ඉන්දුනීසියාව වැනි රටවල දළ දේශීය නිෂ්පාදිතය අට ගුණයකින් වැඩි වන බවට පුරෝකථනය කර ඇති බවත්, ඒ වෙනුවෙන් අවකාශ සැලසීම සඳහා රටවල් සම්බන්ධ කරන යටිතල පහසුකම් වැඩිදියුණු කිරීම අවශ්‍ය බවත් ජනාධිපතිවරයා සඳහන් කළේය.
+By 2050, the President said that India, Indonesia was foretold that the GDP was foretelling eight times and the infrastructure that countries would be enhanced to facilitate it.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ඕස්ට්‍රේලියාවේ පර්ත් නුවරදී ඊ (09) ආරම්භ වූ 7 වැනි ඉන්දීය සාගර සමුළුවේ ප්‍රධාන දේශනය සිදු කරමිනි.
+President Ranil Wickremesinghe was speaking at the keynote address of the 7th Indian Ocean Conference in Perth, Australia.
 
-ඉන්දියානු සාගරය ආශ්‍රිත රටවල සහ එම සාගරය බහුලව භාවිතා කරන සෙසු රටවලට බලපාන පොදු අභිලාෂ හා ගැටලු පිළිබඳ සාකච්ඡා කෙරෙන ඉන්දියන් සාගර සමුළුවේ 7 වන සමුළුව අද සහ හෙට (10) ඕස්ට්‍රේලියාවේ පර්ත් නුවරදී පැවැත්වේ.
+The 7th Conference of the Indian Ocean Conference will be held in Perth today and tomorrow (10), discussing common innovations and issues that are commonly affected by the Indian Ocean.
+
+The theme of the Indian Foundation with the Ministry of External Affairs and the Australian government, the Indian Foundation has been organized to "a fixed and sustainable Indian Ocean."
 
 ...
 
 [Data](articles/f8cfe26b.json)
+
+[Extended Data](ext_articles/f8cfe26b.ext.json)
 
 ---
 

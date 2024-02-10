@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 21:02:34**
+As of **2024-02-10 21:17:11**
 
 ## Newspaper Stats
 
@@ -26,35 +26,41 @@ dailymirrorlk | 896
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,165 (100.0%) of 6,166 articles have been extended.
+6,166 (100.0%) of 6,166 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
 
-### තිදරු පියාගේ ඝාතනය ගැන තොරතුරු රැසක්
+### There are many information about the murder of the father
 
 *2024-02-10 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193222) · `si`
 
-මුල්ලේරියාව, වෑකන්ද ප්‍රදේශයේදී 38 හැවිරිදි තිදරු පියෙකුව ගෙල කපා අද (10) අලුයම ඝාතනය කර තිබේ.
+A 38-year-old influx in the Mulleriyawaya, Wakanda area has been cut off this morning.
 
-කුමන හේතුවක් මත එම ඝාතනය සිදුකර ඇත් ද යන්න මෙතෙක් අනාවරණය වී නොමැති බව පොලීසිය පැවසීය.
+The police have not yet been revealed that the murder was done so far.
 
-කෙසේවෙතත් අදාළ ඝාතනයයට ලක් වූ පුද්ගලයාගේ පියාව මුල්ලේරියාව පොලීසිය අද පස්වරුවේ අත්අඩංගුවට ගත්තේය.
+However, Mulleriyawa police have arrested the father of the victim in the afternoon.
 
-සිය පුත්‍රයා එළඹෙන 14 වනදාට යෙදෙන පෙම්වතුන්ගේ දිනයේදී සිය පළමු බිරිය සමග ගෙට ගෙවදීමට නියමිතව සිටි බැවින් ඇති  වූ සිත් තැවුලෙන් මෙම ඝාතනය සිදුකළ බව ඔහුගේ පියා පාපොච්ඡාරණය කර තිබේ.
+His father has conversed that the murder had committed the murder with his first wife on the 14th of his son.
 
-පුත්‍රයා සමග ඊයේ රාත්‍රියේ මත්පැන් පානය කිරීමෙන් පසුව පුත්‍රයා විසින්ම සැකසූ පිහියකින් ඔහුගේ ගෙළ කැපූ බවද සැකකරු පවසා ඇත.
+The suspect has said that after consuming the Son last night, the Son had cut his garden with a knife.
 
-මියගිය පුද්ගලයා සිය දෙවැනි බිරිය සමග වාසය කර ඇති අතර පසුව ඇය බලංගොඩ පදිංචි බස් කොන්දොස්තරවරයෙක් සමග සබඳතාවක් ගොඩනගා සිය 10 හැවිරිදි දියණියද අතහැර ඔහු සමග විදේශගතවී තිබුණි.
+The deceased has lived with his second wife and later set up a relationship with a bus conductor of Balangoda and left his 10-year-old daughter and abroad with him.
 
-පසුව අදාළ පුද්ගලයා ඇයව නැවත ගෙන්වා ගැනීමට විවිධ යාගකර්ම සිදුකළ ද ඉන් ඵලක් සිදුවී නොමැත.
+The man was then done to bring about various larifies to bring her back.
 
-ඒ අතරතුරදී, ඔහු අතහැර දැමූ පළමු කසාද බිරිය ඔහුගේ පියා විසින් ඔහුගේ නිවසට රැගෙන ගොස් රැක බලාගෙන තිබේ.
+In the meantime, his father had taken his father to his home and taken care of his father.
+
+However, he had been able to live his second wife, the police said.
+
+As a result, the house in the Wekanda area in Mulleriyawa has been repaired recently.
 
 ...
 
 [Data](articles/74cc1bb0.json)
+
+[Extended Data](ext_articles/74cc1bb0.ext.json)
 
 ---
 

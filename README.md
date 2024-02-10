@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 21:32:58**
+As of **2024-02-10 21:52:05**
 
 ## Newspaper Stats
 
-*Scraped **6,168** Articles*
+*Scraped **6,170** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 511
 tamilmirrorlk | 745
 adaderanalk | 766
 virakesarilk | 769
-adaderanasinhalalk | 836
+adaderanasinhalalk | 838
 dailymirrorlk | 896
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,166 (100.0%) of 6,168 articles have been extended.
+6,168 (100.0%) of 6,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### කුඩු සළිඳු ට හිඟා කන්න වෙයි - දේශබන්දු
+
+*2024-02-10 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193224) · `si`
+
+සළිඳු මල්ෂික නොහොත් 'කුඩු සළිඳු' සම්බන්ධයෙන් කරුණු රැසක් අනාවරණය වී ඇති බව වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ කුඩු සළිඳු මත්ද්‍රව්‍ය ජාවාරමෙන් උපයාගත් සියලු දේපොළ රාජසන්තක කිරීමට කටයුතු කරන බවය.
+
+"මත්ද්‍රව්‍යවල සුළභතාවය ඉතාම පහළ මට්ටමකට ගෙන්න පුළුවන් ඊළඟ මාස කිහිපය තුළදී. කුඩු සළිඳු අවුරදු 03ක් ඇතු‍ළේ... මිලියන 5013ක්, මැඩගස්කරයේ තියෙනවලු අක්කර දෙකහමාරක්, ලංකාව පුරාම ඉඩම් තියෙනවා. වාහන 73ක් තියෙනවා වෙනත් අයගේ නම්වලට ලියපු.
+
+ඒ ලැයිස්තු ඔක්කොම අරගෙන තියෙන්නේ. අවුරුදු කිහියකින් හරි එළියට එන දවසක මහ පාරේ හිඟා කන්න වෙයි. සළිඳුට අයත් සියලුම දේපොළ රාජසන්තක කරනවා... කුඩු සල්ලිවලින් හම්බකරපු."
+
+◼️
+
+[Data](articles/007864dd.json)
+
+---
+
+### සමාජ මාධ්‍යයෙන් මඩ ගහපු අයෙක් අත්අඩංගුවට
+
+*2024-02-10 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193223) · `si`
+
+සමාජ මාධ්‍ය ඔස්සේ මඩ ප්‍රචාරයන් කළ පුද්ගලයෙකුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගත් බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පවසයි.
+
+ඔහු සඳහන් කළේ අදාළ සැකකරු දේශපාලනඥයෙකුගේ සහාය ලබමින් ද්වේශ සහගත ලෙස මෙම මඩ ප්‍රචාරයන් සිදුකර ඇති බවය.
+
+අද (10) පානදුරේ පැවති වැඩසටහනකදී අමාත්‍යවරයා වැඩිදුරටත් පැවසුවේ ඉදිරියේදී එම නම් හෙළිවනු ඇති බවය.
+
+පානදුර කොට්ඨාසයේ ප්‍රජා පොලිස් කමිටු සාමාජිකයින් දැනුවත් කිරීමේ වැඩසටහනක් මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතාගේ සහ වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ ප්‍රධානත්වයෙන් අද පෙරවරුවේ පැවැත්වුණි.
+
+...
+
+[Data](articles/12e44250.json)
+
+---
 
 ### There are many information about the murder of the father
 
@@ -107,6 +143,8 @@ According to police, the two unidentified gunmen had subsequently fled the scene
 ◼️
 
 [Data](articles/b4b5680e.json)
+
+[Extended Data](ext_articles/b4b5680e.ext.json)
 
 ---
 
@@ -637,6 +675,8 @@ Modi’s leadership in India has faced scrutiny, particularly concerning its imp
 ...
 
 [Data](articles/7ddff309.json)
+
+[Extended Data](ext_articles/7ddff309.ext.json)
 
 ---
 
@@ -2021,41 +2061,5 @@ Water Supply and Drainage Board (Water Supply and Drainage Board) have stated th
 [Data](articles/21186f35.json)
 
 [Extended Data](ext_articles/21186f35.ext.json)
-
----
-
-### Mill owners do not listen to the government
-
-*2024-02-10 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193193) · `si`
-
-The Ministry of Agriculture says that the paddy is not purchased by the government under the prices given by the government, the Ministry of Agriculture says that he decided to document the unlawful.
-
-In a statement, the Ministry stated that the government has taken steps to provide a loan by several government and commercial banks to buy paddy from farmers.
-
-Minister of Agriculture Mahinda Amaraweera has instructed the officials to take action to take action to dowritten by the government's approved loans.
-
-Steps have been taken to provide the paddy purchasing program to provide small and medium-sized rice mill mills, paddy collectors and paddy collectors at a concessionary interest rate.
-
-◼️
-
-[Data](articles/ff2749d4.json)
-
-[Extended Data](ext_articles/ff2749d4.ext.json)
-
----
-
-### Rainy weather
-
-*2024-02-10 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193192) · `si`
-
-The Department of Meteorology announces that there will be a key weather in the country today (10).
-
-It is also reported that in some places in the Central, Sabaragamuwa and Western provinces and in some places in the Galle and Matara districts are expected to be expected.
-
-◼️
-
-[Data](articles/0d2e8c67.json)
-
-[Extended Data](ext_articles/0d2e8c67.ext.json)
 
 ---

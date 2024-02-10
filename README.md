@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 16:32:58**
+As of **2024-02-10 16:47:21**
 
 ## Newspaper Stats
 
-*Scraped **6,140** Articles*
+*Scraped **6,142** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ adalk | 509
 tamilmirrorlk | 743
 adaderanalk | 760
 virakesarilk | 767
-adaderanasinhalalk | 827
+adaderanasinhalalk | 829
 dailymirrorlk | 890
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,135 (99.9%) of 6,140 articles have been extended.
+6,142 (100.0%) of 6,142 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### The body of mother came to the house after childbirth
+
+*2024-02-10 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193214) · `si`
+
+Mullaitivu has found a bodies of a woman in a house in Pudukuduirippu area.
+
+The woman had taken their children 11 days ago and arrived at the house from the hospital yesterday.
+
+The woman had gone out of the house when everyone in the house had gone to bed and had to recover her and she had to return home.
+
+The body of the woman was later found in the house next morning.
+
+The cause of death is yet to be ascertained and the site has been carried out by the Mullaitivu Magistrate.
+
+◼️
+
+[Data](articles/b360ed51.json)
+
+[Extended Data](ext_articles/b360ed51.ext.json)
+
+---
+
+### The Chinese New Year comes
+
+*2024-02-10 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193213) · `si`
+
+Accepting the Chinese Media Group, recognizing the New Year's Event, was held yesterday (09) at night.
+
+The highest number of people around the world is resumed.
+
+China presents all world trees to the new year of the dragon.
+
+◼️
+
+[Data](articles/ad367be2.json)
+
+[Extended Data](ext_articles/ad367be2.ext.json)
+
+---
 
 ### Cleaning staffer arrested at BIA with stock of gold worth Rs. 58mn
 
@@ -114,19 +154,21 @@ Engineers and technicians from 107 SLTB depots and 11 regional work stations acr
 
 ---
 
-### பிலியந்தலையில் தனியார் களஞ்சியசாலையில் தீ விபத்து
+### Fire at a private repository in Piliyandala
 
 *2024-02-10 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/176043) · `ta`
 
-இன்று பிற்பகல் ஏற்பட்ட தீயினால் தொலைபேசி நிறுவனம் ஒன்றின் முக்கிய உபகரணங்கள் வைக்கப்பட்டிருந்த வளாகத்தில் தீ பரவியுள்ளதாக பிலியந்தலை பொலிஸார் தெரிவித்தனர்.
+Biliyandala police said that the fire broke out at the premises where the main equipment of a telephone company was placed due to a fire that broke out this afternoon.
 
-தீயை அணைக்க கோட்டை, தெஹிவளை மற்றும் கொழும்பு மாநகரசபையில் இருந்து சுமார் பத்து தீயணைப்பு வாகனங்கள் சம்பவ இடத்திற்கு விரைந்துள்ளதாக அதிகாரிகள் தெரிவித்தனர்.
+About ten fire trucks from the Fort, Dehiwala and the Colombo Municipal Council have rushed to the scene, officials said.
 
-தீ விபத்துக்கான காரணம் இன்னும் கண்டறியப்படாத நிலையில் மேலதிக விசாரணைகள் இடம்பெற்று வருகின்றன.
+Further investigations are underway as the cause of the fire has not yet been detected.
 
 ◼️
 
 [Data](articles/0782753a.json)
+
+[Extended Data](ext_articles/0782753a.ext.json)
 
 ---
 
@@ -144,6 +186,8 @@ India, Feb 10 (The Hindu) - The DMK on Saturday walked out of the Lok Sabha afte
 
 [Data](articles/9dda66c6.json)
 
+[Extended Data](ext_articles/9dda66c6.ext.json)
+
 ---
 
 ### SLC to facilitate training for Ugandan cricket team, to play seven T20s
@@ -159,6 +203,8 @@ The Ugandan team, who last year qualified for the T20 World Cup, arrived in the 
 ...
 
 [Data](articles/a20c2874.json)
+
+[Extended Data](ext_articles/a20c2874.ext.json)
 
 ---
 
@@ -206,6 +252,8 @@ Naples-area resident Jinny Johnson came upon the crash just minutes after it hap
 
 [Data](articles/4c3c07e4.json)
 
+[Extended Data](ext_articles/4c3c07e4.ext.json)
+
 ---
 
 ### Fire engulfs private warehouse in Piliyandala
@@ -223,6 +271,8 @@ The cause of the fire is yet to be ascertained while further investigations are 
 ◼️
 
 [Data](articles/11f5f5ab.json)
+
+[Extended Data](ext_articles/11f5f5ab.ext.json)
 
 ---
 
@@ -1941,41 +1991,5 @@ The Minister further stated that the expansion of investments and projects in Tr
 [Data](articles/512a5e3b.json)
 
 [Extended Data](ext_articles/512a5e3b.ext.json)
-
----
-
-### An open letter to National Election Commission
-
-*2024-02-09 23:37:45* · [`dailyftlk`](https://www.ft.lk/opinion/An-open-letter-to-National-Election-Commission/14-758307) · `en`
-
-The Election Commission acquired powers and functions, physical and human resources of the Elections Department, with a mission to «Raise critical consciousness among all stakeholders, ensuring the protection of people›s rights and conduct free, fair and credible elections efficiently and effectively that safeguard the people›s sovereignty and universal franchise based on democratic principles.»
-
-We perceive it our civic duty to apprise the Commission of deficiencies within the election system that demand attention and resolution, aligning with the NEC›s mission to augment the fairness and equality of votes while ensuring a wholly democratic process.
-
-...
-
-[Data](articles/0c531e67.json)
-
-[Extended Data](ext_articles/0c531e67.ext.json)
-
----
-
-### Current economic crisis is political and can only be solved through political change
-
-*2024-02-09 23:36:16* · [`dailyftlk`](https://www.ft.lk/opinion/Current-economic-crisis-is-political-and-can-only-be-solved-through-political-change/14-758306) · `en`
-
-President Ranil Wickremesinghe’s statement in Parliament on Wednesday that “resolution of the economic crisis lies not in a political but economic and scientific solutions” is incorrect.
-
-We need to categorically state that the economic crisis has a well-defined identifiable disproportionately large political component.
-
-Incompetent corrupt democratically elected politicians taking unscientific and economically incorrect political decisions to meet their short and long term political goals which were justified and sustained by a cohort of absolutely incompetent cohorts of ‘yes sir’ spineless Government officials who were political appointees.
-
-As such the solution to the current economic crisis is bringing about an immediate change in the mode and style of governance and government by politicians and bureaucrats through a process of elections where the people decide their political and economic future.
-
-...
-
-[Data](articles/5a6f4849.json)
-
-[Extended Data](ext_articles/5a6f4849.ext.json)
 
 ---

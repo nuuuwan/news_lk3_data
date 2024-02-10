@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 21:52:05**
+As of **2024-02-10 22:03:15**
 
 ## Newspaper Stats
 
@@ -26,45 +26,51 @@ dailymirrorlk | 896
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,168 (100.0%) of 6,170 articles have been extended.
+6,170 (100.0%) of 6,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
 
-### කුඩු සළිඳු ට හිඟා කන්න වෙයි - දේශබන්දු
+### Palabari will be begged
 
 *2024-02-10 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193224) · `si`
 
-සළිඳු මල්ෂික නොහොත් 'කුඩු සළිඳු' සම්බන්ධයෙන් කරුණු රැසක් අනාවරණය වී ඇති බව වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+Acting IGP, Acting Inspector Tennakoon says that many issues have been revealed regarding the 'Kudu Maluwa' drug alias. '
 
-ඔහු පෙන්වා දෙන්නේ කුඩු සළිඳු මත්ද්‍රව්‍ය ජාවාරමෙන් උපයාගත් සියලු දේපොළ රාජසන්තක කිරීමට කටයුතු කරන බවය.
+He points out that the powdered drug racket is confiscated.
 
-"මත්ද්‍රව්‍යවල සුළභතාවය ඉතාම පහළ මට්ටමකට ගෙන්න පුළුවන් ඊළඟ මාස කිහිපය තුළදී. කුඩු සළිඳු අවුරදු 03ක් ඇතු‍ළේ... මිලියන 5013ක්, මැඩගස්කරයේ තියෙනවලු අක්කර දෙකහමාරක්, ලංකාව පුරාම ඉඩම් තියෙනවා. වාහන 73ක් තියෙනවා වෙනත් අයගේ නම්වලට ලියපු.
+"In the next few months of the next few months you can bring the dysfunctional level. Inside the drugs are in three years.. 5013 million, Madagascar two and a half acres of land throughout Sri Lanka. There are 73 vehicles to other people's names.
 
-ඒ ලැයිස්තු ඔක්කොම අරගෙන තියෙන්නේ. අවුරුදු කිහියකින් හරි එළියට එන දවසක මහ පාරේ හිඟා කන්න වෙයි. සළිඳුට අයත් සියලුම දේපොළ රාජසන්තක කරනවා... කුඩු සල්ලිවලින් හම්බකරපු."
+It's all taken to all the lists. A day after coming out of a few years, you'll have to beg the road. All the property belonging to the Valuy is confiscated.. Makes the powder money. "
 
 ◼️
 
 [Data](articles/007864dd.json)
 
+[Extended Data](ext_articles/007864dd.ext.json)
+
 ---
 
-### සමාජ මාධ්‍යයෙන් මඩ ගහපු අයෙක් අත්අඩංගුවට
+### Suspect arrested with social media
 
 *2024-02-10 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193223) · `si`
 
-සමාජ මාධ්‍ය ඔස්සේ මඩ ප්‍රචාරයන් කළ පුද්ගලයෙකුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගත් බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පවසයි.
+According to the Criminal Investigations Department, the CID is arrested by the CID by the CID by the CID.
 
-ඔහු සඳහන් කළේ අදාළ සැකකරු දේශපාලනඥයෙකුගේ සහාය ලබමින් ද්වේශ සහගත ලෙස මෙම මඩ ප්‍රචාරයන් සිදුකර ඇති බවය.
+He said that the suspect had been maliciously disclosed with the assistance of a politician.
 
-අද (10) පානදුරේ පැවති වැඩසටහනකදී අමාත්‍යවරයා වැඩිදුරටත් පැවසුවේ ඉදිරියේදී එම නම් හෙළිවනු ඇති බවය.
+The Minister further stated that in the future, the Minister added that they would be revealed in the future.
 
-පානදුර කොට්ඨාසයේ ප්‍රජා පොලිස් කමිටු සාමාජිකයින් දැනුවත් කිරීමේ වැඩසටහනක් මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතාගේ සහ වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ ප්‍රධානත්වයෙන් අද පෙරවරුවේ පැවැත්වුණි.
+A program to educate community police committee members of the Panadura Division, Hon.
 
-...
+"A person arrested on the CID yesterday. The person had a four hundred thousand rupees. People who use this social network and slander us. It was a politician who was a politician. The money is being arrested when the money is moved to the box and transfer dollars. We too, the government and the IGP, the social medium network, loyal to mud. That's why we brought this online safti bill. Prategizing is doing these social media despite the governments. I'm saying today .... This bill is a problem only those who handle the social media. "
+
+◼️
 
 [Data](articles/12e44250.json)
+
+[Extended Data](ext_articles/12e44250.ext.json)
 
 ---
 

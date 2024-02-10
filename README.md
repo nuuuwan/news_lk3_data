@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 10:02:25**
+As of **2024-02-10 10:17:17**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,086 (99.9%) of 6,093 articles have been extended.
+6,093 (100.0%) of 6,093 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
 
-### அவுஸ்திரேலியாவில் ஜனாதிபதி  இந்திய வெளிவிவகார அமைச்சரை சந்தித்தார்
+### President meets Indian Foreign Minister in Australia
 
 *2024-02-10 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/176016) · `ta`
 
-அவுஸ்திரேலியாவின் தலைநகர் பேர்த்தில் வெள்ளிக்கிழமை (09) ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் இந்தியாவின் வெளிவிவகார அமைச்சர் கலாநிதி எஸ்.ஜெய்சங்கர் ஆகியோர் சந்தித்து கலந்துரையாடியுள்ளனர்.
+President Ranil Wickremesinghe and India's Foreign Minister S. Jaishankar met in the capital city of Australia on Friday.
 
-இந்திய அறக்கட்டளை மற்றும் அவுஸ்திரேலியா அரசாங்கத்தின் அழைப்பின் பேரில் 7 ஆவது இந்து சமுத்திர மாநாட்டில் கலந்து கொள்வதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்க அவுஸ்திரேலியாவிற்கு சென்றுள்ளார்.
+President Ranil Wickremesinghe has visited Australia to attend the 7th Indian Ocean Conference at the invitation of the Indian Foundation and the Australian government.
 
-இந்த மாநாட்டை “நிலையான மற்றும் நிலைபேறான இந்து சமுத்திரத்தை நோக்கி” என்ற தொனிப் பொருளில் இந்திய வெளியுறவு அமைச்சு மற்றும் அவுஸ்திரேலிய அரசாங்கத்துடன் இணைந்து இந்திய மன்றம் ஏற்பாடு செய்துள்ளது.
+The conference was organized by the Indian Foreign Ministry and the Australian government in the tone of the tone of the "stable and sustained Indian Ocean".
 
 ◼️
 
 [Data](articles/c93199f2.json)
+
+[Extended Data](ext_articles/c93199f2.ext.json)
 
 ---
 
@@ -62,35 +64,41 @@ The allowance of Rs. 17,000 for junior officers is to be increased by Rs. 11,800
 
 [Data](articles/3ec83ac7.json)
 
+[Extended Data](ext_articles/3ec83ac7.ext.json)
+
 ---
 
-### இந்திய வெளிவிவகார அமைச்சர் - ஜனாதிபதி சந்திப்பு
+### Indian Foreign Minister - President Meeting
 
 *2024-02-10 09:19:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-வெளிவிவகார-அமைச்சர்-ஜனாதிபதி-சந்திப்பு/175-332965) · `ta`
 
-இந்திய வெளிவிவகார அமைச்சர் கலாநிதி சுப்ரமணியன் ஜெய்சங்கர் நேற்று மாலை பேர்த் நகரில் ஜனாதிபதி ரணில் விக்ரமசிங்கவைச் சந்தித்தார்.
+Indian External Affairs Minister Dr. Subramanian Jaishankar met President Ranil Wickremesinghe in Perth Nagar yesterday evening.
 
-இதன் போது இந்தியாவுடனான இருதரப்பு திட்டங்களின் முன்னேற்றம் குறித்து கவனம் செலுத்தப்பட்டது. R
+At this time, focus on the progress of bilateral projects with India. Remble
 
 ◼️
 
 [Data](articles/342d0d05.json)
 
+[Extended Data](ext_articles/342d0d05.ext.json)
+
 ---
 
-### ரணில் விக்ரமசிங்க குறுகிய காலத்தில் நாட்டை கட்டியெழுப்ப நடவடிக்கை எடுத்துள்ளார் - வஜிர அபேவர்த்தன
+### Ranil Wickremesinghe has taken steps to build the country in a short time - Vajira Abeywardena
 
 *2024-02-10 09:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176015) · `ta`
 
-நாட்டை ஆட்சி செய்துவந்த தலைவர்கள் ஒவ்வொருவரும் பல வருடங்கள் அதிகாரத்தில் இருந்து நாட்டை அபிவிருத்தி செய்தததைவிட ரணில் விக்ரமசிங்க ஒன்றை வருடங்களில் வங்குரோத்து அடைந்திருந்த நாட்டை கட்டியெழுப்பி, வீழ்ச்சியடைந்திருந்த நாட்டின் பொருளாதாரத்தை பலப்படுத்த தேவையான இலக்கை தயாரித்துள்ளார்  என ஐக்கிய தேசிய கட்சி உறுப்பினர் வஜிர அபேவர்த்தன தெரிவித்தார்.
+United National Party (UNP) Member Vajira Abeywardena said that Ranil Wickremesinghe had built a bank that had been bankrupt and strengthen the economy of the country that had fallen for years rather than that of each of the leaders who ruled the country for many years.
 
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை (09) இரண்டாம் நாளாக இடம்பெற்ற ஜனாதிபதியின் கொள்கை விளக்க உரைமீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+He said this while addressing a debate on the President's policy speech on Friday (09) in Parliament.
 
-நாடு வங்குரோத்து அடைந்தநிலையில் இருந்த சந்தர்ப்பத்திலேயே ரணில் விக்ரமசிங்க, நாட்டை பாதுகாத்துக்கொண்டு, பொருளாதாரத்தை கட்டியெழுப்பும் பொறுப்பை ஏற்றுக்கொண்டார். இந்த பொறுப்பை யாரும் ஏற்றுக்கொள்ள முன்வராத நிலையில், ரணில் விக்ரமசிங்க முன்வந்து, இந்த பாரிய பொறுப்பை நிறைவேற்ற அனைவரின் ஒத்துழைப்பும் அவசியம் என கேட்டுக்கொண்டிருந்தார். என்றாலும் பல்வேறு சவால்களுக்கு மத்தியில் நாட்டை வங்குரோத்து நிலையில் மீட்டதுடன் நாட்டின் பொருளாதாரத்தையும் அபிவிருத்தி செய்ய நடவடிக்கை எடுத்திருக்கிறார்.
+Ranil Wickremesinghe took the responsibility of protecting the country and building the economy at the time of the country's bankruptcy.. இந்த பொறுப்பை யாரும் ஏற்றுக்கொள்ள முன்வராத நிலையில், ரணில் விக்ரமசிங்க முன்வந்து, இந்த பாரிய பொறுப்பை நிறைவேற்ற அனைவரின் ஒத்துழைப்பும் அவசியம் என கேட்டுக்கொண்டிருந்தார். However, amidst various challenges, he has rescued the country in bankruptcy and has taken steps to develop the country's economy.
 
 ...
 
 [Data](articles/41de726c.json)
+
+[Extended Data](ext_articles/41de726c.ext.json)
 
 ---
 
@@ -110,21 +118,27 @@ It is said that many film actresses and actors, including South Indian film actr
 
 [Data](articles/ccf594e7.json)
 
+[Extended Data](ext_articles/ccf594e7.ext.json)
+
 ---
 
-### டெலிகொம் உள்ளிட்ட தேசிய பாதுகாப்புடன் தொடர்பான நிறுவனங்களின் விற்பனையால் தேசிய பாதுகாப்புக்கு ஏற்படும் பாதிப்புக்கு அரசாங்கம் பொறுப்புக் கூறுமா? - எதிர்க்கட்சித் தலைவர்
+### Will the government be responsible for the impact of national security by the sale of companies related to national security, including telecom?- Leader of the opposition
 
 *2024-02-10 09:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176014) · `ta`
 
-ஶ்ரீ லங்கா டெலிகொம் நிறுவனத்தின் உரிமையை அரசாங்கத்திடம் இருந்து வெளி நிறுவனத்திற்கு மறுசீரமைப்பதன் மூலம் தேசிய பாதுகாப்புக்கு ஏற்படும் பாதிப்புகளுக்கு அரசாங்கம் பொறுப்புக் கூறுமா என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition Leader Sajith Premadasa said the government would be responsible for the impact of national security by reconstructing the rights of Sri Lanka Telecom from the government to the outside company.
 
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை (09)  நிலையியற் கட்டளை 27 /2 இன் கீழ் கேள்வி நேரத்திலேயே இவ்வாறு தெரிவித்தார்.
+He said this at the time of the Question Time under the Standing Ordinance of Parliament on Friday (09).
 
-நஷ்டத்தில் இயங்கும் பொது நிறுவனங்களின் மறுசீரமைப்பு மற்றும் புதிய முகாமைத்துவ திட்டத்தின் அடிப்படையில் தற்போது இலாபம் ஈட்டும் நிறுவனங்களின் செயற்பாட்டுச் செலவுகளைக் குறைப்பது மற்றும் நிர்வாகப் பிரச்சினைகளைத் தீர்ப்பது தொடர்பில் அரசாங்கம் கவனம் செலுத்த வேண்டும்.
+The government should focus on reducing the operational expenses of the currently profitable companies based on the restoration of public companies and the new management program.
+
+To reorganize companies running at a loss. However, profit -making companies have to go to a more profitable system. I urge you to submit the report to the council if the assessment report made on the reorganization of their controlled companies, including the telecom and insurance company, has been submitted through the unit set up for public companies.
 
 ...
 
 [Data](articles/3a344361.json)
+
+[Extended Data](ext_articles/3a344361.ext.json)
 
 ---
 
@@ -1284,21 +1298,23 @@ India confirmed their spot in the final after beating hosts South Africa by two 
 
 ---
 
-### මගි ප්‍රවාහන දුම්රියක් පිලි පැනීීමෙන්උඩරට දුම්රිය ගමනයට බාධා
+### A passenger train interferes with the fleet of fleet
 
 *2024-02-09 21:30:34* · [`adalk`](https://www.ada.lk/breaking_news/මගි-ප්‍රවාහන-දුම්රියක්-පිලි-පැනීීමෙන්උඩරට-දුම්රිය-ගමනයට-බාධා/11-407989) · `si`
 
-නාවලපිටිය සිට නානුඔය දක්වා ධාවනය වු 779 මගි සහ භාණ්ඩ ප්‍රවාහන දුම්රිය පිලි පැනිම හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ ගමනා ගමනයට බාධා පැමිණ ඇති බව නාවලපිටිය දුම්රිය පාලක මැදිරිය පැවසිය.
+The Nawalapitiya Railway Control Room said that 779 passengers and freight railway cleared from Nawalapitiya to Nanuo.
 
-උඩරට දුම්රිය මාර්ගයේ ඉහල වටවල සහ රොසැල්ල දුම්රිය ස්ථාන දෙක අතර 102 සැතපුම් කණුව අසලදි (09) දින පස්වරු 5 ට පමණ එම දුම්රියේ එන්ජිම සහ මැදිරියක් පිලි පැන ඇති බවයි දුම්රිය පාලක මැදිරිය කියා සිටියේ.
+The Railway Control Room stated that between the 102 miles post on the Upcountry Railway Station (9) at around 5 pm, the railway control room said.
 
-පිලි පැනිමට ලක් වු දුම්රිය පිලිගත කරන තෙක් කොළඹ සිට බදුල්ල දක්වා ධාවනය කරන දුම්රියන් වටවල දුම්රිය ස්ථානය දක්වාත් , බදුල්ල සිට කොළඹ දක්වා ධාවනය කරන දුම්රියන් හැටන් දුම්රිය ස්ථානය වෙත ධාවනය කර එතැන් සිට දුම්රියන් දෙකෙහි මගින්ව දුම්රියන් වලට මාරු කර සිය ගමනාන්තය දක්වා යොමු කරන බවයි හැටන් දුම්රිය ස්ථානයේ නිලධාරියෙකු කියා සිටියේ.
+Hatton trains will be operated from Colombo to Badulla to the Hatton Railway Station from Colombo to Colombo until the motorcycle train from Badulla and from Eightboards to Colombo to Colombo.Said an officer at a location.
 
-දුම්රිය පිලි පැනිමෙන් දුම්රිය මාර්ගයට දැඩි අලාභ හානි සිදු වි ඇත.
+The railway line has been severely damaged by railway clergy.
 
 ◼️
 
 [Data](articles/9a5443d5.json)
+
+[Extended Data](ext_articles/9a5443d5.ext.json)
 
 ---
 

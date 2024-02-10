@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 09:17:23**
+As of **2024-02-10 09:33:04**
 
 ## Newspaper Stats
 
-*Scraped **6,080** Articles*
+*Scraped **6,085** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,84 +17,162 @@ dailyftlk | 342
 newsfirstlk | 363
 adalk | 505
 tamilmirrorlk | 738
-adaderanalk | 750
+adaderanalk | 751
 virakesarilk | 756
 adaderanasinhalalk | 816
-dailymirrorlk | 873
+dailymirrorlk | 877
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,076 (99.9%) of 6,080 articles have been extended.
+6,080 (99.9%) of 6,085 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
 
-### மலையக பெருந்தோட்ட மக்களுக்கு காணி உறுதிபத்திரம் வழங்கும் சௌமியபூமி திட்டம் எதிர்வரும் ஏப்ரல் மாதம் முதல் நடைமுறைப்படுத்தப்படும் – அமைச்சர் ஜீவன் தொண்டமான்
+### President Ranil meets with India’s foreign minister while in Australia
+
+*2024-02-10 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97157/president-ranil-meets-with-indias-foreign-minister-while-in-australia) · `en`
+
+President Ranil Wickremesinghe and India’s External Affairs Minister Dr. S. Jaishankar held bilateral discussions on Friday (Feb.09) on the sidelines of the 7th Indian Ocean Conference in Perth, Australia.
+
+The two sides have recognized the progress in bilateral cooperation and resolved to continue deepening them.
+
+The Sri Lankan leader embarked on a visit to Australia on Thursday morning (Feb.08) at the invitation of India Foundation and the Government of Australia to attend the conference.
+
+The event, themed “Towards a Stable and Sustainable Indian Ocean,” aims to foster cooperation among 40 participating nations. President Wickremesinghe’s participation reflects Sri Lanka’s proactive stance towards regional stability and development.
+
+...
+
+[Data](articles/b0f942fd.json)
+
+---
+
+### Ranil meets Jaishankar in Perth
+
+*2024-02-10 08:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-meets-Jaishankar-in-Perth/108-276731) · `en`
+
+Perth, Feb 10 (Daily Mirror) - India's External Affairs Minister S. Jaishankar today met President Ranil Wickremesinghe in Perth to discuss the progress of bilateral projects, the President's Media Division said.
+
+◼️
+
+[Data](articles/4e1c9b2d.json)
+
+---
+
+### Soumya Poomi Project will be implemented from April - Minister Jeevan Thondaman
 
 *2024-02-10 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/176013) · `ta`
 
-“இந்திய அரசின் நிதி உதவியுடன் மலையக பெருந்தோட்ட பகுதிகளில் முன்னெடுக்கப்படவுள்ள 10 ஆயிரம் வீட்டுத் திட்டம் எதிர்வரும் 19 ஆம் திகதி ஆரம்பிக்கப்படவுள்ளது. முதற்கட்டமாக ஆயிரத்து 300 வீடுகள் நிர்மாணிக்கப்படும்.” – என்று இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச்செயலாளரும், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி  அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்தார்.
+“The 10 thousand housing scheme to be launched in the hill plantation areas with the financial assistance of the Government of India will be launched on the 19th of this month.. Thousands of 300 houses will be built for the first time. ”- Jeevan Thondaman, General Secretary of the Ceylon Workers Congress and Minister of Water Supply and Estate Infrastructure Development said.
 
-அத்துடன், மலையக பெருந்தோட்ட மக்களுக்கு காணி உறுதிபத்திரம் வழங்கும் சௌமியபூமி திட்டம் எதிர்வரும் ஏப்ரல் மாதம் முதல் நடைமுறைப்படுத்தப்படும் எனவும் அமைச்சர் கூறினார்.
+The Minister also said that the Soumya Poomi scheme, which will provide land guarantee to the people of the hill plantation, will be implemented from April.
 
-ஜனாதிபதியின் கொள்கை விளக்க உரை தொடர்பில் நாடாளுமன்றத்தில் வெள்ளிக்கிழமை (09) இரண்டாவது நாளாகவும் நடைபெற்ற சபை ஒத்திவைப்புவேளை பிரேரணை மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றிய அமைச்சர் மேலும் கூறியவை வருமாறு,
+Speaking at the debate on the Motion of the House, which was held on Friday (09) in Parliament on the President's policy speech,
+
+“Our goal is to provide sustainable - permanent solutions to the problems that prevail in the mountain plantations. With that purpose I took the post of Ministry. Groups were also appointed for this. Settlement plans have been prepared. Steps will be taken to implement them.
 
 ...
 
 [Data](articles/60bf8648.json)
 
+[Extended Data](ext_articles/60bf8648.ext.json)
+
 ---
 
-### හරිහරන්ගේ ප්‍රසංගය අසල දැඩි තදබදයක්
+### A vicious jam near the concert at the Ariranaran's concert
 
 *2024-02-10 08:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193200) · `si`
 
-ඉන්දියාවේ ප්‍රවීණ සංගීතඥයෙකු වන හරිහරන්ගේ ප්‍රධානත්වයෙන් ඊයේ (09) රාත්‍රියේ යාපනය 'මුට්‍රවෙලි' ක්‍රීඩාංගනයේ දී පැවැත්වූ ප්‍රසංගය නැරඹීමට පැමිණි ප්‍රේක්ෂකයන් සංඛ්‍යාව ඉහළ යාමත් සමඟ එම ප්‍රදේශයේ අධික තදබදයක් ඇති වූ බව වාර්තා වේ.
+The number of audiences to visit the concert held at Muttaveli's Stadium at the Mutaweera last night was chaired by a veteran musician of India.
 
-'අද දෙරණ' වාර්තාකරු පැවසුවේ, ප්‍රසංගය නැරඹීමට පැමිණි පිරිස පොලිස් රැකවල් නොතකා ප්‍රසංග භූමියට ඇතුළු වීමට උත්සාහ කර ඇති බවයි.
+"The Ada Derana reporter said that the victims of the concert had tried to enter the concert ground despite the police protection.
 
-ඒ හේතුවෙන් ඇති වූ තදබදයත් සමග පුද්ගලයින් කිහිපදෙනෙකුට තුවාල සිදු වී ඇති බවද වාර්තාකරු පැවසීය.
+According to the reporter, several persons have been injured with the congestion caused by the incident.
 
-දකුණු ඉන්දීය සිනමා නිළි තමන්නා, රම්බා ඇතුළු සිනමා නිළියන් හා නළුවන් රැසක් ද ප්‍රසංගයට සහභාගි වූ බව සඳහන් ය.
+It is said that South Indian film actress is a number of film actresses and tickers, including Rambba.
 
 ◼️
 
 [Data](articles/339aef45.json)
 
+[Extended Data](ext_articles/339aef45.ext.json)
+
 ---
 
-### ජනපති සහ ඉන්දීය විදේශ ඇමති අතර හමුවක්
+### President and Indian Foreign Minister meets
 
 *2024-02-10 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193199) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ සහ ඉන්දීය විදේශ අමාත්‍ය ආචාර්‍ය එස්.ජයිශංකර් අතර හමුවක් සිදු ව තිබේ.
+A meeting between President Ranil Wickremesinghe and Indian Foreign Minister Dr. S. Sixhankur.
 
-ඔස්ට්‍රේලියාවේ පර්ත් නුවර දී මෙම හමු ව සිදු වූ බව ජනාධිපති මාධ්‍ය ඒකකය වාර්තා කරයි.
+The Presidential Unit reports that the meeting was found in Perth, Australia.
 
-මෙහි දී දෙරට අතර ද්වීපාර්ශ්වික ව්‍යාපෘති පිළිබඳ ජනාධිපතිවරයා හා ඉන්දීය විදේශ අමාත්‍යවරයා සාකච්ඡා කළ බව සඳහන් ය.
+The President and the Indian Foreign Minister discussed bilateral projects between the two countries.
 
 ◼️
 
 [Data](articles/26f394bd.json)
 
+[Extended Data](ext_articles/26f394bd.ext.json)
+
 ---
 
-### தொழில் சார் உரிமை கோரி சுகாதாரத் தொழிற்சங்கங்கள் முன்னெடுக்கப்பட இருந்த தொழிற்சங்க நடவடிக்கை ஒத்திவைப்பு
+### Pakistan elections: Imran Khan, Nawaz Sharif both claim wins
+
+*2024-02-10 08:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pakistan-elections-Imran-Khan-Nawaz-Sharif-both-claim-wins/108-276730) · `en`
+
+ISLAMABAD, Feb 10 (Reuters) - Former Pakistani prime ministers and bitter rivals Nawaz Sharif and Imran Khan on Friday both declared victory in elections marred by delayed results and militant attacks, throwing the country into further political turmoil.
+
+Sharif's party won the most seats by a single party in Thursday's election, but supporters of imprisoned Khan, who ran as independents instead of as a single bloc after his party was barred from the polls, won the most seats overall.
+
+Sharif said his party would talk to other groups to form a coalition government as it had failed to win a clear majority on its own.
+
+Sharif's announcement came after more than three-quarters of the 265 seats had declared results, more than 24 hours after polling ended on Thursday when 28 people were killed in militant attacks.
+
+...
+
+[Data](articles/702fa66e.json)
+
+---
+
+### Trade union action postponed for health trade unions seeking employment rights
 
 *2024-02-10 08:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176012) · `ta`
 
-தொழில் சார் உரிமை கோரி 72 சுகாதாரத் தொழிற்சங்கங்கள் முன்னெடுக்கப்பட இருந்த தொழிற்சங்க நடவடிக்கை ஒரு வார காலத்துக்கு ஒத்திவைக்கப்பட்டுள்ள நிலையில் இன்று முதல் மாகாண, வைத்தியசாலை மட்டத்தில் விழிப்புணர்வு வேலைத்திட்டங்களை முன்னெடுக்கப்படவுள்ளதாக சுகாதாரத் தொழிற்சங்கங்களின் கூட்டிணைவு தெரிவித்துள்ளது.
+The Alliance of Health Trade Unions has announced that 72 health trade unions will be postponed for a weekly trade union, which will be implemented at the provincial and hospital level.
 
-அரசாங்கத்தால் வைத்தியர்களுக்கு வழங்க 35 ஆயிரம் ரூபா கொடுப்பனவை வழங்க அமைச்சரவை அங்கீகாரம் வழங்கியதை அடுத்து 72 சுகாதாரத் தொழிற்சங்கங்களும் தமக்கான தொழில் சார் உரிமைகளைப் பெற்றுத் தருமாறுக் கோரிக்கை விடுத்து பல்வேறு தொழிற்சங்க நடவடிக்கைகளை முன்னெடுத்திருந்தது.
+After the Cabinet approved the government's approval to pay Rs.
 
-இந்நிலையில், கடந்த 6 ஆம் திகதி (செவ்வாய்க்கிழமை) சுகாதாரத் தொழிற்சங்க கூட்டமைப்பின் பிரதிநிதிகள் மற்றும் நிதியமைச்சுக்கிடையில் இடம்பெற்ற கலந்துரையாடலின் பின்னர் சுகாதாரத் தொழிற்சங்கங்கள் முன்னெடுக்கப்பட இருந்த தொழிற்சங்க நடவடிக்கைகள் ஒரு வார காலத்துக்கு ஒத்திவைக்கப்பட்டது. நிதி அமைச்சினால் பரிந்துரைக்கப்பட்ட குழு எதிர்வரும் 12 ஆம் திகதி கூட உள்ளதுடன் சுகாதார ஊழியர்களின் தொழில் சார் உரிமைக் குறித்து தீர்க்கமான தீர்மானம் எட்டப்பட உள்ளது.
+In this backdrop, the union actions to be carried out for a week after a discussion between representatives of the Health Trade Union Federation and the Finance Ministry on Tuesday (Tuesday). The committee nominated by the Ministry of Finance is also on the 12th of this month and a decisive resolution on the rights of the health workers is to be reached.
+
+Therefore, a program to clarify health workers on the rights of professional rights at the provincial level and hospital level will be launched from today.. It is hoped that the Ministry of Health and the Finance Ministry will be dedicated to solving the crisis in the health sector.
 
 ...
 
 [Data](articles/6ad23c36.json)
+
+[Extended Data](ext_articles/6ad23c36.ext.json)
+
+---
+
+### Reduce electricity tariffs by considerable amount: Sajith urges Govt.
+
+*2024-02-10 08:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Reduce-electricity-tariffs-by-considerable-amount-Sajith-urges-Govt/108-276726) · `en`
+
+Colombo, Feb 10 (Daily Mirror) - Opposition Leader Sajith Premadasa yesterday urged the government to reduce the electricity tariff by a considerable amount after analysing the data of the Verité Research and Committee on Public Finance on electricity tariff, which is said to be higher in South Asia.
+
+The Opposition Leader told parliament that, according to the data on the surveys, Sri Lankans pay approximately 2.5 to 3 times more for electricity compared to their counterparts in other South Asian nations.
+
+He said the government increased electricity tariffs on several occasions in the recent past and that it had negatively affected consumers, the public, industrial sector and business sector.
+
+“We heard that the government is planning to reduce electricity tariff by 4 per cent. It is not at all suf­ficient. We urge the government to reduce the electricity tariff by a considerable amount,” he said.
+
+◼️
+
+[Data](articles/ad13c74b.json)
 
 ---
 
@@ -637,6 +715,20 @@ He  contends that prioritising the collection of unpaid taxes from the 1272 def
 [Data](articles/f4e6b4d2.json)
 
 [Extended Data](ext_articles/f4e6b4d2.ext.json)
+
+---
+
+### Pathum Nissanka runs riot; becomes first Sri Lankan to slam ODI double ton
+
+*2024-02-09 23:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Pathum-Nissanka-runs-riot-becomes-first-Sri-Lankan-to-slam-ODI-double-ton/155-276712) · `en`
+
+Pallekele, Feb. 9 (Daily Mirror) - An inevitable win for Sri Lanka was only delayed by Afghanistan’s sixth wicket pair, Mohammad Nabi and Azmatullah Omarzi, who both cracked tons and shared a 242-run stand, as it turned out to be insufficient and too late.
+
+Afghanistan, in their massive run chase of 382 runs, put themselves in deep trouble as they lost their top five wickets with just 55 on the scoreboard and ended up with a score of 339 for 6 to give Sri Lanka a win by 42 runs in the first of the three-match ODI series played at the Pallekele International Cricket Stadium today and take a 1-0 lead.
+
+...
+
+[Data](articles/1d67c6dd.json)
 
 ---
 
@@ -1879,93 +1971,5 @@ Subsequently, he was admitted to the Moneragala Hospital and his condition was n
 [Data](articles/e7de6413.json)
 
 [Extended Data](ext_articles/e7de6413.ext.json)
-
----
-
-### Harsha de Silva re-appointed as Chair of Committee on Public Finance
-
-*2024-02-09 17:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Harsha-de-Silva-re-appointed-as-Chair-of-Committee-on-Public-Finance/108-276681) · `en`
-
-Feb 09 (Daily Mirror) - SJB MP Dr. Harsha de Silva has been re-appointed to serve as the Chairman of Committee on Public Finance.
-
-◼️
-
-[Data](articles/526cbc71.json)
-
-[Extended Data](ext_articles/526cbc71.ext.json)
-
----
-
-### Department of Agriculture offers minimum prices
-
-*2024-02-09 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193182) · `si`
-
-The Department of Agriculture has submitted low prices to buy paddy by the government in the Maha season.
-
-Accordingly, a midst of 14 percent of the moisture at 14 percent, a kilogram of naduals, samba paddy, and a kilogram of samba prices of samba and a kilogram of Rs.
-
-The minimum price of Rs.
-
-Meanwhile, the Ministry of Agriculture has said that the paddy owners, paddy collectors, and paddy collectors, have decided not to dowritten the rise to the prices of the government.
-
-◼️
-
-[Data](articles/70466c75.json)
-
-[Extended Data](ext_articles/70466c75.ext.json)
-
----
-
-### Railway Collection
-
-*2024-02-09 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193181) · `si`
-
-According to our correspondent, Kandy rail traffic was staying due to a rail train in Watawala area.
-
-◼️
-
-[Data](articles/e42a468a.json)
-
-[Extended Data](ext_articles/e42a468a.ext.json)
-
----
-
-### New Kelani Bridge traffic is restricted
-
-*2024-02-09 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193180) · `si`
-
-The Express Corment Tourism has announced the public on the closure of the road entering the new Kelani Bridge from the New Kelani Bridge.
-
-Accordingly, the above tongue is only closed from the above tongue from 9am to 5 am today (09).
-
-Meanwhile, the middle part of the bridge will be closed from the middle part of the bridge from the Orugodawatta Junction to Kelani Bridge.
-
-The vehicles traveling from Katunayake from Katunayake from Katunayake to Colombo and the vehicles traveling to Katunayake will not interfere.
-
-During this repair, the public installed the bills to the public at Dematagoda, Peliyagoda, Negombo Road, Kandy Road, Pandana Junction near the Fish Market.
-
-◼️
-
-[Data](articles/54c0a144.json)
-
-[Extended Data](ext_articles/54c0a144.ext.json)
-
----
-
-### Australia affirms its renewed commitment to Indian Ocean Region
-
-*2024-02-09 17:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Australia-affirms-its-renewed-commitment-to-Indian-Ocean-Region/108-276680) · `en`
-
-Feb 09, (PMD)-  Australian Minister of Foreign Affairs, Penny Wong, engaged in a significant meeting with Sri Lankan President Ranil Wickremesinghe during the Indian Ocean Conference, marking a pivotal moment in bilateral relations between the two nations.
-
-Minister Wong warmly welcomed President Wickremesinghe to Australia and expressed appreciation for Sri Lanka's supportive role in the conference, highlighting the importance of collaboration among Indian Ocean countries.
-
-Addressing attendees, Minister Wong reiterated Australia's renewed commitment to the Indian Ocean region and emphasized the government's efforts to strengthen ties with key nations in the area.
-
-...
-
-[Data](articles/84ba5973.json)
-
-[Extended Data](ext_articles/84ba5973.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 08:17:26**
+As of **2024-02-10 08:33:07**
 
 ## Newspaper Stats
 
@@ -26,67 +26,79 @@ dailymirrorlk | 872
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,065 (99.9%) of 6,072 articles have been extended.
+6,072 (100.0%) of 6,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
 
-### තමා දිනූ බව ඉම්රාන් ඛාන් කියයි
+### Imran Khan says he won
 
 *2024-02-10 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193198) · `si`
 
-සිරගත කර සිටින පාකිස්තානයේ හිටපු අගමැති ඉම්රාන් ඛාන් මහ මැතිවරණයෙන් ජයග්‍රහණය කළ බවට ඔහු විසින් ප්‍රකාශ කර තිබේ.
+He has stated that the former Prime Minister of Pakistan won the general election.
 
-විදෙස් වාර්තා සඳහන් කළේ, එය සමරන ලෙස ඔහු සිය ආධාරකරුවන්ගෙන් ඉල්ලා ඇති බවයි.
+According to foreign reports, he had asked his supporters to celebrate it.
 
-ඉම්රාන් ඛාන් සම්බන්ධ ස්වාධීන අපේක්ෂකයින් මේ වන විට ආසන වැඩි ප්‍රමාණයක් ජයග්‍රහණය කර ඇති අතර, බහුතර ආසන සංඛ්‍යාව ප්‍රකාශයට පත් කර තිබේ.
+Independent candidates involved in Imran Khan have won more seats and published the number of seats.
 
-කෙසේ වෙතත් තවත් හිටපු අගමැතිවරයෙකු වන නවාස් ෂරීෆ් පවසන්නේ, තම පක්ෂය විශාලතම පක්ෂය බවට පත් ව ඇති බැවින් තමන් සමඟ සන්ධානයට එක් වන ලෙසයි.
+However, another former prime minister, Nawaz Sharif says that his party becomes the largest party, so that his party is the largest party.
 
-විදෙස් වාර්තා පවසන්නේ, සමස්ත බහුතරයක් දිනා ගැනීමට කිසිදු කණ්ඩායමක් හෝ පක්ෂයක් සමත් වී නොමැති බව නිකුත් කර ඇති ඡන්ද ප්‍රතිඵලවලින් නිරීක්ෂණය වන බවයි.
+Foreign Reports say that the voting results that have not been able to win the entire majority of election.
 
-AI භාවිතයෙන් නිර්මාණය කරන ලද X හි පළ කරන ලද වීඩියෝ පණිවිඩයක් මඟින් ඉම්රාන් ඛාන් පවසා ඇත්තේ, ඔහුගේ පකිස්තාන් ටෙහ්රීක්-ඊ-ඉන්සාෆ් පීටීඅයි පක්ෂය විශිෂ්ට ජයග්‍රහණයක් ලබා ගෙන ඇති බවයි.
+Imran Khan has said that Imran Khan has said that his Pakistan Treek-e-Insugh PTI party has won a great achievement.
 
-තමාට තනි ව රජයක් පිහිටුවීමට ආසන සංඛ්‍යාවක් නොමැති බව නවාෂ් ෂරීෆ් මහතා පිළි‍ගෙන ඇති බව විදෙස් වාර්තා සඳහන් කර ඇත.
+Navawish Sharif has admitted that he has no seats to form a government alone.
 
-...
+Addressing supporters outside Lahore, he demanded joining a coalition government with him.
+
+◼️
 
 [Data](articles/d4206322.json)
 
+[Extended Data](ext_articles/d4206322.ext.json)
+
 ---
 
-### අක්‍රීය ණය ප්‍රමාණය 13%කින් ඉහළට
+### Inactive loans up by 13%
 
 *2024-02-10 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193197) · `si`
 
-රටේ පවතින ආර්ථික අර්බුදය හේතුවෙන් අක්‍රීය ණය ප්‍රමාණය සියයට 13ක් දක්වා ඉහළ ගොස් ඇති බව ෂෙහාන් සේමසිංහ රාජ්‍ය අමාත්‍යවරයා පවසයි.
+Shehan Semasinghe said that due to the economic crisis in the country.
 
-ඔහු සඳහන් කළේ, ආර්ථික ස්ථාවරත්වය සියයට දෙකකට වඩා වැඩි ආර්ථික වර්ධනයක් මේ වසරේ දී ළඟා කර ගැනීමට අපේක්ෂා කරන බවයි.
+He said that economic stability is expected to achieve more than two percent economic growth this year.
 
-මේ අතර මෙවර අයවැයේ දී ජනාධිපතිවරයා ඉදිරිපත් කළ යෝජනාවකට අනුව වැඩි කළ පොලිස් නිලධාරීන්ගේ ආහාර, ගමන් සහ නවාතැන් දීමනාව ලබන සතියේ දී ලබා දීමට පියවර ගන්නා බව රංජිත් සියඹලාපිටිය රාජ්‍ය අමාත්‍යවරයා අවධාරණය කර තිබේ.
+Meanwhile, the State Minister of Ranjith Siyambalapitiya has stated that steps will be taken to provide the food, travel and lodging allowance of police officers who increased by the President's proposal in this year's budget.
 
 ◼️
 
 [Data](articles/e507eb84.json)
 
+[Extended Data](ext_articles/e507eb84.ext.json)
+
 ---
 
-### ඇප ඉල්ලීම් දෙකක් අධිකරණයෙන් ඉවතට විසි වෙයි
+### Two bail requests drowns court
 
 *2024-02-10 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193196) · `si`
 
-තමන් අත්අඩංගුවට ගැනීම වළක්වා අපේක්ෂිත ඇප ලබා දෙන ලෙස පොහොර ආනයන සමාගමක අධ්‍යක්ෂකවරුන් දෙදෙනෙකු කළ ඉල්ලීමක් කොළඹ මහෙස්ත්‍රාත් අධිකරණය ප්‍රතික්ශේප කර තිබේ.
+The Colombo Magistrate's Court has also rejected a request made by two directors of a fertilizer imported company to prevent his arrest.
 
-ආනයනය කරන ලද පොහොර තොගයක් ගොවීන්ට ලබා නොදී පිටස්තර පාර්ශ්වවලට අලෙවි කර රුපියල් කෝටි ගණනාවක මුල්‍ය වංචාවක් සිදු කිරීමේ චෝදනාවක් එල්ල වී ඇති පොහොර සමාගමක අධ්‍යක්ෂකවරුන් දෙදෙනෙකු මෙම ඉල්ලීම කර ඇති බව සඳහන් ය.
+Two directors have been made by two directors who have been accused of selling a large quantity of fertilizer to the farmers.
 
-අදාළ සිද්ධිය සම්බන්ධයෙන් විමර්ශන සිදු කර අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මූල්‍ය අපරාධ විමර්ශන අංශය තමන් ව අත්අඩංගුවට ගැනීමට සූදානම් බවට තොරතුරු ලැබී ඇති බව පෙන්වා දෙමින් මෙම අධ්‍යක්ෂවරුන් දෙදෙනා අපේක්ෂිත ඇප ඉල්ලීම සිදු කළ බව අද දෙරණ අධිකරණ වාර්තාකරු සඳහන් කළේ ය.
+The two directors said that the two Directors had been arrested by the Financial Criminal Investigation Division of the Criminal Investigation Department regarding the incident.
 
-2018 වසරේ දී පොහොර ලේකම් කාර්යාලයේ ලියාපදිංචි වී ඇති සමාඟම් හතක බැංකු වාර්තා ලබා දෙන ලෙස බැංකු ආයතන කිහිපයකට කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ප්‍රසන්න අල්විස් මහතා මීට පෙර නියෝග කර තිබිණි.
+Colombo Chief Magistrate Prasanna Alwis had previously ordered several banking institutions to give the seven banking reports registered with the Fertilizer Secretariat in 2018.
 
-...
+Investigations have revealed that the ficilitaru has been cheated by Rs.
+
+It is reported that investigations have commenced on a complaint lodged by two secretaries of the Ministry of Agriculture.
+
+◼️
 
 [Data](articles/bf2e757f.json)
+
+[Extended Data](ext_articles/bf2e757f.ext.json)
 
 ---
 
@@ -112,57 +124,63 @@ The sea areas off the coasts from Galle to Pottuvil via Hambantota and the sea a
 
 ---
 
-### විදුලි සැර වැදී පුද්ගලයෙකු ජීවිතක්ෂයට
+### Electricity exploding
 
 *2024-02-10 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193195) · `si`
 
-පුපුරැස්ස - ලෙවලන්වත්ත ප්‍රදේශයේ නිවසක පුද්ගලයෙකු විදුලි සැර වැදී මිය ගොස් තිබේ.
+A man was covered with electrification in a house in Levellanwatta area.
 
-මිය ගොස් ඇත්තේ, 38 හැවිරිදි එම ප්‍රදේශයේ ම පදිංචි ව සිටි පුද්ගලයෙකි.
+The victim was a 38-year-old resident of the same area.
 
-මෙම පුද්ගලයාගේ නිවසේ විදුලිය විසන්ධි කර තිබී ඇති අතර, ඒ හේතුවෙන් අසල පිහිටි නිවසකින් විදුලිය ලබා ගැනීමට කටයුතු කර ඇත.
+The person's home was disconnected, and it was taken to obtain electricity from a nearby house.
 
-එම අවස්තාවේ දී විදුලි සැර වැදී මෙම පුද්ගලයා මිය ගොස් ඇති බව පොලීසිය සිදු කළ විමර්ශනවල දී හෙළි වී තිබේ.
+Investigations carried out by the police have revealed that the person had died in the event.
 
 ◼️
 
 [Data](articles/ab493b70.json)
 
+[Extended Data](ext_articles/ab493b70.ext.json)
+
 ---
 
-### පැය 15ක ජල කප්පාදුවක්
+### 15 hours water cut
 
 *2024-02-10 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193194) · `si`
 
-කොළඹ ප්‍රදේශ කිහිපයකට අද පැය 15ක කාලයක් ජල සැපයුම අත්හිටුවන බව ජල සම්පාදන හා ජලාපවාහන මණ්ඩලය නිවේදනය කරයි.
+A few parts of Colombo will be suspended today.
 
-එම මණ්ඩලය සඳහන් කළේ, කොළඹ 11, 12, 13, 14 සහ 15 යන ප්‍රදේශවලට ජල සැපයුම අත්හිටුවන බවයි.
+The Board stated that the water cut in Colombo 11, 12, 13 and 15.
 
-අද (10) පස්වරු 5.00 සිට හෙට පෙරවරු 8.00 දක්වා පැය 15ක කාලයක් මෙලෙස ජල සැපයුම අත්හිටුවනු ඇත.
+The water supply will be imposed from 5.00 am to 8.00 am tomorrow.
 
-අඹතලේ ජල පවිත්‍රාගාරයේ ජල සැපයුම වැඩිදියුණු කිරීමේ බලශක්ති සංරක්ෂණ ව්‍යාපෘතියේ සිදු කෙරෙන අත්‍යවශ්‍ය නඩත්තු කටයුත්තක් හේතුවෙන් ජල සැපයුම අත්හිටු වන බව ජල සම්පාදන හා ජලාපවාහන මණ්ඩලය සඳහන් කර ඇත.
+Water Supply and Drainage Board (Water Supply and Drainage Board) have stated that the water cut will be suspended due to essential maintenance project in the Ambatale Water Treatment Plant.
 
 ◼️
 
 [Data](articles/21186f35.json)
 
+[Extended Data](ext_articles/21186f35.ext.json)
+
 ---
 
-### රජයට ඇහුම්කන් නොදෙන මෝල් හිමියන්ට වැඩ වැරදෙයි
+### Mill owners do not listen to the government
 
 *2024-02-10 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193193) · `si`
 
-රජය විසින් ලබා දී ඇති මිල ගණන් යටතේ වී මිල දී නොගන්නා වී මෝල් හිමියන්, වී එකතු කරන්නන් සහ වී ගබඩා අයිතිකරුවන් අසාදු ලේඛනගත කිරීමට තීරණය කල බව කෘෂිකර්ම අමාත්‍යාංශය පවසයි.
+The Ministry of Agriculture says that the paddy is not purchased by the government under the prices given by the government, the Ministry of Agriculture says that he decided to document the unlawful.
 
-නිවේදනයක් නිකුත් කරමින් එම අමාත්‍යාංශය සඳහන් කළේ, ගොවින්ගෙන් වී මිල දී ගැනීම සඳහා රජය විසින් සහන පොලී අනුපාතයක් යටතේ රාජ්‍ය හා වාණිජ බැංකු කිහිපයක් මගින් ණය මුදලක් ලබා දීමට කටයුතු යොදා ඇති බවයි.
+In a statement, the Ministry stated that the government has taken steps to provide a loan by several government and commercial banks to buy paddy from farmers.
 
-ඒ අනූව රජය අනුමත ණය මුදල් ලබාගෙන රජය විසින් නියම කර ඇති අවම මිල ගණන් යටතේ වී තොග මිල දී ගැනීමට කටයුතු නොකරන්නේ නම්, ඔවුන් අසාදු ලේඛනගත කිරීමට පියවර ගන්නා ලෙස කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා නිලධාරින්ට උපදෙස් ලබා දී තිබේ.
+Minister of Agriculture Mahinda Amaraweera has instructed the officials to take action to take action to dowritten by the government's approved loans.
 
-වී මිල දී ගැනීමේ වැඩපිළිවෙළ සඳහා රුපියල් කෝටි 900ක මුදලක් සහන පොලී අනුපාතයක් යටතේ කුඩා හා මධ්‍යම ප්‍රමාණයේ සහල් මෝල් හිමියන්, වී එකතු කරන්නන් සහ වී ගබඩා අයිතිකරුවන් වෙත ලබා දීමට පියවර ගෙන ඇති බව සඳහන් ය.
+Steps have been taken to provide the paddy purchasing program to provide small and medium-sized rice mill mills, paddy collectors and paddy collectors at a concessionary interest rate.
 
 ◼️
 
 [Data](articles/ff2749d4.json)
+
+[Extended Data](ext_articles/ff2749d4.ext.json)
 
 ---
 
@@ -182,17 +200,19 @@ The final draft of the new law titled ‘Non-governmental Organizations (Registr
 
 ---
 
-### වැසි රහිත කාලගුණයක්
+### Rainy weather
 
 *2024-02-10 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193192) · `si`
 
-අද (10) දිවයින පුරා ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතිනු ඇති බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology announces that there will be a key weather in the country today (10).
 
-මධ්‍යම, සබරගමුව සහ බස්නාහිර පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේ දී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරෙන බව ද වාර්තා වේ.
+It is also reported that in some places in the Central, Sabaragamuwa and Western provinces and in some places in the Galle and Matara districts are expected to be expected.
 
 ◼️
 
 [Data](articles/0d2e8c67.json)
+
+[Extended Data](ext_articles/0d2e8c67.ext.json)
 
 ---
 

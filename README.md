@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 00:47:22**
+As of **2024-02-11 01:02:21**
 
 ## Newspaper Stats
 
-*Scraped **6,191** Articles*
+*Scraped **6,192** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 74
+colombotelegraphcom | 75
 bbccomsinhala | 86
 dbsjeyarajcom | 145
 islandlk | 317
@@ -26,7 +26,7 @@ dailymirrorlk | 906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,191 (100.0%) of 6,191 articles have been extended.
+6,191 (100.0%) of 6,192 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -607,6 +607,20 @@ The sleuths found gold jewellery and gold gel weighing up to 2,700 grams from th
 [Data](articles/802e889d.json)
 
 [Extended Data](ext_articles/802e889d.ext.json)
+
+---
+
+### Spotlight On SCOTUS In The US. People Give The Finger In Pakistan
+
+*2024-02-10 18:30:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/spotlight-on-scotus-in-the-us-people-give-the-finger-in-pakistan/) · `en`
+
+In the US, Former President Donald Trump is facing multiple indictments, involving numerous charges, in multiple courts. Perhaps no American before him, let alone a former President, has been simultaneously implicated in so many litigations. At the same time, even as he is mired in a myriad of trials, Donald Trump has also put on trial the entire American political system.
+
+The spotlight is now on SCOTUS, the Supreme Court of the United States. The Court has come under compulsion to make two consequential rulings – one on the disqualification of Trump by the State of Colorado to be a presidential candidate in 2024, on account of his involvement in the insurrection in Washington, on 6 January 2020, to prevent US Congress’s certification of the November 2019 presidential election results; and the other to deal with Trump’s claim to immunity from being indicted for criminal conduct in trying to prevent the same certification process.
+
+...
+
+[Data](articles/874dae88.json)
 
 ---
 
@@ -2077,27 +2091,5 @@ However, a former Prime Minister also stated that the party has become the large
 [Data](articles/1e1576cb.json)
 
 [Extended Data](ext_articles/1e1576cb.ext.json)
-
----
-
-### Fifth suspect arrested over murder of Buddhist monk at temple
-
-*2024-02-10 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97158/fifth-suspect-arrested-over-murder-of-buddhist-monk-at-temple) · `en`
-
-Another suspect has been apprehended in connection with the murder of a Buddhist monk at a temple in the Malwathuhiripitiya area last month.
-
-The Western/North Crimes Division officers have also recovered a hand grenade and a pistol from the possession of the arrestee.
-
-A group of four assailants, who had arrived in a car, shot dead a Buddhist monk inside a temple in the Malwathuhiripitiya area of Gampaha in the early hours of January 23.
-
-The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustained critical injuries in the incident, had been rushed to the Gampaha Hospital. But he later succumbed to injuries while receiving treatment.
-
-Earlier this week, the investigating officers managed to arrest four other suspects who were allegedly complicit in the murder.
-
-...
-
-[Data](articles/977bd141.json)
-
-[Extended Data](ext_articles/977bd141.ext.json)
 
 ---

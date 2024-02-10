@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 20:32:52**
+As of **2024-02-10 20:49:27**
 
 ## Newspaper Stats
 
-*Scraped **6,163** Articles*
+*Scraped **6,165** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 511
 tamilmirrorlk | 745
 adaderanalk | 765
 virakesarilk | 769
-adaderanasinhalalk | 833
+adaderanasinhalalk | 835
 dailymirrorlk | 896
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,162 (100.0%) of 6,163 articles have been extended.
+6,165 (100.0%) of 6,165 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### Another shot dead
+
+*2024-02-10 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193221) · `si`
+
+The shooting person was admitted to the Sonomamwela Hospital this afternoon and later transferred to the Colombo National Hospital.
+
+The shooting has been made due to a land dispute, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/122b08db.json)
+
+[Extended Data](ext_articles/122b08db.ext.json)
+
+---
 
 ### 60-year-old killed shooting in Negombo
 
@@ -43,6 +59,22 @@ According to police, the two unidentified gunmen had subsequently fled the scene
 ◼️
 
 [Data](articles/7bdffc4a.json)
+
+[Extended Data](ext_articles/7bdffc4a.ext.json)
+
+---
+
+### Shooting in Negombo
+
+*2024-02-10 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193220) · `si`
+
+The police said that a person who traveled with a motorcycle had committed the shot by two unidentified people.
+
+◼️
+
+[Data](articles/49b2917d.json)
+
+[Extended Data](ext_articles/49b2917d.ext.json)
 
 ---
 
@@ -2027,43 +2059,5 @@ The cumulative arrivals for January 1 to February 8 are 268,375.
 [Data](articles/95a877c2.json)
 
 [Extended Data](ext_articles/95a877c2.ext.json)
-
----
-
-### Discussion with the oil pipeline project
-
-*2024-02-10 05:05:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எண்ணெய்க்-குழாய்-திட்டம்-குறித்து-கலந்துரையாடல்/175-332962) · `ta`
-
-Discussion has been carried out on the construction of the Nagapattinam of India and the Trincomalee oil analgesic.
-
-Power and Energy Minister Kanjana Wijesekera, who had gone to India to attend the event on the occasion of the Energy Week, was in a discussion with the Indian Oil Company yesterday on the construction of the proposed oil pipeline.
-
-Energy Minister Kanjana stated in his social network that the Indian government has proposed the project through the Indian Oil Company.. (A)
-
-◼️
-
-[Data](articles/9d7a4bbb.json)
-
-[Extended Data](ext_articles/9d7a4bbb.ext.json)
-
----
-
-### Let us unite for the safe Indian ocean
-
-*2024-02-10 03:47:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பான-இந்து-சமுத்திரத்திற்காக-ஒன்றிணைவோம்/175-332961) · `ta`
-
-President Ranil Wickremesinghe stressed that the Indian Ocean Zone countries have the ability to build their path without waiting until the world's strongest countries decide their fate.
-
-The President also pointed out that the secure Indian ocean can be created by improving the confidence and awareness of the Indian Ocean Zone.
-
-It is estimated that by 2050, the gross national production of countries such as India and Indonesia will increase 8 times. The President also said that it is necessary to improve the infrastructure that strengthen inter -country contacts to create an opportunity.
-
-President Ranil Wickremesinghe said this in a key speech delivered at the 7th Indian Ocean Conference held in Perth, Australia.. (A)
-
-◼️
-
-[Data](articles/e890ee1c.json)
-
-[Extended Data](ext_articles/e890ee1c.ext.json)
 
 ---

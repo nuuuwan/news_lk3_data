@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 08:50:25**
+As of **2024-02-10 09:02:27**
 
 ## Newspaper Stats
 
-*Scraped **6,075** Articles*
+*Scraped **6,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 318
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 505
-tamilmirrorlk | 737
+tamilmirrorlk | 738
 adaderanalk | 750
 virakesarilk | 754
 adaderanasinhalalk | 814
@@ -26,7 +26,7 @@ dailymirrorlk | 873
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,075 (100.0%) of 6,075 articles have been extended.
+6,075 (100.0%) of 6,076 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -337,6 +337,22 @@ The cumulative arrivals for January 1 to February 8 are 268,375.
 [Data](articles/95a877c2.json)
 
 [Extended Data](ext_articles/95a877c2.ext.json)
+
+---
+
+### எண்ணெய்க் குழாய் திட்டம் குறித்து கலந்துரையாடல்
+
+*2024-02-10 05:05:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எண்ணெய்க்-குழாய்-திட்டம்-குறித்து-கலந்துரையாடல்/175-332962) · `ta`
+
+இந்தியாவின் நாகப்பட்டினத்தையும் திருகோணமலை எண்ணெய்க் குதத்தையும் இணைக்கும் வகையில் நிர்மாணிக்க உத்தேசிக்கப்பட்டுள்ள எண்ணெய்க் குழாய் அமைக்கும் திட்டம் தொடர்பில் கலந்துரையாடல் முன்னெடுக்கப்பட்டுள்ளது.
+
+எரிசக்தி வாரத்தினை முன்னிட்டு நடைபெறும் நிகழ்வில் பங்குபற்றுவதற்காக இந்தியாவிற்கு சென்றுள்ள மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் கஞ்சன விஜேசேகர, உத்தேச எண்ணெய்க் குழாய் நிர்மாணப் பணிகள் தொடர்பில் இந்திய எண்ணெய் நிறுவனத்துடன் நேற்று முன்தினம் கலந்துரையாடலில் ஈடுபட்டிருந்தார்.
+
+இந்திய அரசாங்கம் இந்திய எண்ணெய் நிறுவனத்தின் ஊடாக இந்த திட்டத்தினை முன்மொழிந்துள்ளது என எரிசக்தி அமைச்சர் கஞ்சன  தனது சமூக வலைத்தள  பதிவில் குறிப்பிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/9d7a4bbb.json)
 
 ---
 
@@ -1955,23 +1971,5 @@ The wishes of wishes were decorated with 11 fours and one six bowls, and he spen
 [Data](articles/d2491750.json)
 
 [Extended Data](ext_articles/d2491750.ext.json)
-
----
-
-### MPs nominated to 5 parliamentary committees
-
-*2024-02-09 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97145/mps-nominated-to-5-parliamentary-committees) · `en`
-
-The names of the Members of Parliament (MPs) who were appointed to serve in 5 parliamentary committees have been announced.
-
-Earlier today (Feb.09), Speaker Mahinda Yapa Abeywardana tabled the lists, in all three languages, containing the names of the members newly appointed as per the motions passed by Parliament.
-
-Accordingly, members have been selected to serve in the Ministerial Consultative Committee on Transport and Highways, Ministerial Consultative Committee on Tourism and Lands, Committee on Parliamentary Business, Committee on Public Accounts, and the Committee on Ways and Means during the Fifth Session of the Ninth Parliament, which was ceremonially inaugurated by President Ranil Wickremesinghe on Feb.07.
-
-...
-
-[Data](articles/08142079.json)
-
-[Extended Data](ext_articles/08142079.ext.json)
 
 ---

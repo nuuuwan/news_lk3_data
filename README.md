@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 15:32:45**
+As of **2024-02-10 15:50:39**
 
 ## Newspaper Stats
 
-*Scraped **6,128** Articles*
+*Scraped **6,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 507
 tamilmirrorlk | 743
 adaderanalk | 758
 virakesarilk | 766
-adaderanasinhalalk | 825
+adaderanasinhalalk | 827
 dailymirrorlk | 886
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,127 (100.0%) of 6,128 articles have been extended.
+6,130 (100.0%) of 6,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### He did not interview diabetes drug - Professor Arjuna de Silva
+
+*2024-02-10 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193211) · `si`
+
+Prof. Arjuna de Silva says he has expressed a false visit to Diabetes.
+
+Senior Professor Arjuna de Silva, the Faculty of Ragama Medical Faculty, is notified in the letter of the false letter.
+
+The false letter of Dionica has been published regarding the drug and Professor Arjuna de Silva further stated that he never interviewed the drug.
+
+As a result, he said that he had never told or stop using diabetic drugs or using this drug or using this drug.
+
+He also said that he had already complained to the Computer Criminal Investigation Division regarding the involvement of this false news.
+
+◼️
+
+[Data](articles/1a75ea97.json)
+
+[Extended Data](ext_articles/1a75ea97.ext.json)
+
+---
 
 ### 200 renovated buses added to SLTB fleet
 
@@ -47,6 +69,34 @@ Engineers and technicians from 107 SLTB depots and 11 regional work stations acr
 ◼️
 
 [Data](articles/bc0d7656.json)
+
+[Extended Data](ext_articles/bc0d7656.ext.json)
+
+---
+
+### A woman who tried to leave gold at Rs 58 million
+
+*2024-02-10 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193210) · `si`
+
+A woman was arrested for attempting to leave the airport today (10) a kilo of gold worth Rs. 58 million.
+
+A 55-year-old woman has been arrested.
+
+It is reported that the suspect was arrested by the airport drug control sector.
+
+In a toilet, which contains the jewelry and gel stock, has been given the parcel to the suspect.
+
+The woman who was arrested in the face of the customs has said that he had taken the parcel on the promise of Rs.
+
+The arrested were 55-year-old woman living in Weligoda - The Veyangoda, the Veyangoda, Veyangoda.
+
+Airport customs custody has been arrested and conducted further investigations.
+
+◼️
+
+[Data](articles/9524f229.json)
+
+[Extended Data](ext_articles/9524f229.ext.json)
 
 ---
 
@@ -1961,45 +2011,5 @@ In her petition, Diana Gamage is seeking a declaration that the decision to expe
 [Data](articles/582d16e3.json)
 
 [Extended Data](ext_articles/582d16e3.ext.json)
-
----
-
-### Representatives including Anura Kumara Dissanayake, who met Kerala Industries Minister Rajiv
-
-*2024-02-09 21:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/176001) · `ta`
-
-Today is the fifth and final day of the Indian visit to the Indian government, including the President of the National People's Power, Anura Kumara Dissanayake, who is on a visit to the country.
-
-They toured the state of Kerala today, which is empowered by the Left Federation, which is primarily the CPIM-Kerala.The state of Kerala, which has over three crore and fifty lakhs of people, has made a rapid improvement in the fields of education and health.In particular, Kerala has made the highest space in the field of information technology in India.
-
-National People's Power President Anura Kumara Dissanayake, including the leader of the National People's Power, met with the Minister of State for Industry and Law in the Kerala capital of Thiruvananthapuram on Friday (09).Minister Rajiv is a member of the Central Executive Committee of the Indian Communist Party and is a legal graduate of the party's student body.
-
-...
-
-[Data](articles/e5993086.json)
-
-[Extended Data](ext_articles/e5993086.ext.json)
-
----
-
-### India and Australia set to renew rivalry in U19 Men’s Cricket World Cup Final
-
-*2024-02-09 21:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-and-Australia-set-to-renew-rivalry-in-U19-Mens-Cricket-World-Cup-Final/108-276688) · `en`
-
-Feb. 9 (ICC) - India and Australia overcome dramatic semi-finals to seal their spot in mouthwatering final
-
-Benoni will stage the final on Sunday 11 February, from 10h00 local time (SAST)
-
-Free entry for all fans at Willowmoore Park, Benoni on Sunday
-
-The final of the ICC U19 Men’s Cricket World Cup 2024 will see India and Australia compete for silverware once again following a scintillating round of semi-final fixtures.
-
-India confirmed their spot in the final after beating hosts South Africa by two wickets in a tense matchup on Tuesday. Chasing 245 for victory, India battled back from 32 for four to seal a memorable win thanks to a brilliant match-winning partnership between Sachin Dhas and captain Uday Saharan.
-
-...
-
-[Data](articles/8ee16923.json)
-
-[Extended Data](ext_articles/8ee16923.ext.json)
 
 ---

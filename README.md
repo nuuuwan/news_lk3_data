@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 23:17:20**
+As of **2024-02-10 23:33:00**
 
 ## Newspaper Stats
 
-*Scraped **6,177** Articles*
+*Scraped **6,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ dailyftlk | 342
 newsfirstlk | 363
 adalk | 514
 tamilmirrorlk | 746
-adaderanalk | 767
+adaderanalk | 768
 virakesarilk | 769
 adaderanasinhalalk | 840
-dailymirrorlk | 896
+dailymirrorlk | 905
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,177 (100.0%) of 6,177 articles have been extended.
+6,177 (99.8%) of 6,187 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### ’For me to be back I must contest’: President on Presidential election
+
+*2024-02-10 22:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/For-me-to-be-back-I-must-contest-President-on-Presidential-election/108-276755) · `en`
+
+Feb 10 -  President Ranil Wickremesinghe expressed optimism of contesting the upcoming presidential election that is slated to be held this year.
+
+The President revealed this during an exclusive interview with Indian news channel WION.
+
+President Wickremesinghe, addressing concerns about China’s increased presence in the Indian Ocean region, stated, "....the island nation will not allow anything that would jeopardize India’s security."
+
+The Sri Lankan leader emphasized, “We’ve kept Indian security in mind and we will not allow anything to happen that will be harmful to Indian security, and these are all hydrographical vessels.”
+
+When queried about the Sri Lankan government’s decision to not allow the visits of Chinese vessels, Wickremesinghe, who is in Australia for the 7th Indian Ocean Conference, clarified that the administration decided to say no to ships from any country hydrographic matters as it is focusing on building its own hydrographical capacity.
+
+...
+
+[Data](articles/fcc9c7b4.json)
+
+---
+
+### Palestinians brace for Rafah assault as Israel promises evacuation plan
+
+*2024-02-10 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97173/palestinians-brace-for-rafah-assault-as-israel-promises-evacuation-plan) · `en`
+
+Israeli air strikes killed 17 people in Gaza’s Rafah overnight, medics said on Saturday, as over a million Palestinians cramming into the border city await a full-blown offensive with the rest of their enclave in ruins and nowhere left to run.
+
+Four months into the war in Gaza, Israeli Prime Minister Benjamin Netanyahu’s office said it has ordered the military to develop a plan to evacuate the population of Rafah and destroy four Hamas battalions it says are deployed there.
+
+Unlike in previous Israeli assaults on cities during the war, when the military ordered civilians to flee south, no other relatively unscathed area remains in tiny Gaza and aid agencies have warned that large numbers of civilians could die.
+
+“Any Israeli incursion in Rafah means massacres, means destruction. People are filling every inch of the city and we have nowhere to go,” said Rezik Salah, 35, who fled his Gaza City home with his wife and two children for Rafah early in the war.
+
+...
+
+[Data](articles/bd3b4a85.json)
+
+---
 
 ### Police weapon sworn in and shot
 
@@ -64,7 +102,7 @@ It is reported that he has been admitted to the Colombo National Hospital for fu
 
 Another child, who was critically injured after a tree collapsed at an international school in Gampola earlier this week, has died.
 
-He was fighting for lift in the National Hospital in Kandy for over 5 days, but eventually succumbed to injuries this morning (Feb.10).
+He was fighting for life in the National Hospital in Kandy for over 5 days, but eventually succumbed to injuries this morning (Feb.10).
 
 On Monday (Feb.05), a tree collapsed on to three children in the school premises. A five-year-old child was reported dead at the scene and the other two were rushed to the Gampola Base Hosptial for immediate medical attention.
 
@@ -111,6 +149,28 @@ It's all taken to all the lists. A day after coming out of a few years, you'll h
 [Data](articles/007864dd.json)
 
 [Extended Data](ext_articles/007864dd.ext.json)
+
+---
+
+### Will not join 225 MPs to create parties or alliances: Janaka Ratnayake
+
+*2024-02-10 21:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Will-not-join-225-MPs-to-create-parties-or-alliances-Janaka-Ratnayake/108-276754) · `en`
+
+Presidential hopeful Janaka Ratnayake said today that he and all civil organisations have decided not to join any of the 225 MPs in Parliament to form political alliances.
+
+While signing a Memorandum of Understanding (MoU) with the National Civil Organisation Front (NCOF) today, he said the public have rejected the 225 MPs, and he does not aspire to be one of them.
+
+"Currently, civil organisations are carrying out a great national mission to rescue the country from where it has fallen.
+
+"We named this mission as 'Rescue Sri Lanka'. The time has come for people to join hands with civil organisations to uplift the country and create a suitable environment to form a better leader," Ratnayaka said.
+
+"A proper action plan will be introduced describing the correct and shortest way to restore the country.
+
+"We reject the current ruling parties while not letting them have another chance to come to power.
+
+...
+
+[Data](articles/a5fee079.json)
 
 ---
 
@@ -167,6 +227,56 @@ The Welfare Board informs that the second phase of the revenue will be called fo
 [Data](articles/b304547e.json)
 
 [Extended Data](ext_articles/b304547e.ext.json)
+
+---
+
+### Two killed in separate shootings in Negombo and Puttalam
+
+*2024-02-10 20:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-killed-in-separate-shootings-in-Negombo-and-Puttalam/108-276753) · `en`
+
+Negombo, Feb 10 (Daily Mirror) - Two individuals have been killed in separate shooting incidents this evening, one in Negombo and the other in Puttalam.
+
+In Negombo, a 60-year-old person was fatally shot at Galkanda Junction by two men who arrived on a motorcycle. The suspects fled the scene following the shooting.
+
+Meanwhile, another shooting was reported in the Mahakumbukkadala area of Sembukuliya. The injured man was initially admitted to tge Puttalam Hospital and later transferred to the National Hospital in Colombo for treatment, where he succumbed to his injuries.
+
+Initial investigations revealed that the shooting in Puttalam was over a land dispute.
+
+◼️
+
+[Data](articles/845c222c.json)
+
+---
+
+### India’s Unified Payments Interface to be launched on Monday: Ali Sabry
+
+*2024-02-10 20:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Indias-Unified-Payments-Interface-to-be-launched-on-Monday-Ali-Sabry/155-276751) · `en`
+
+Perth, Feb. 10 (WION)- India's Unified Payments Interface (UPI) will be launched on 12 February, Foreign Minister Ali Sabry has told the Indian media.
+
+"The UPI payment gateway will be signed. And I think both our leaders will connect online which will help increase tourism," the Minister said speaking to WION diplomatic correspondent Sidhant Sibal in Perth.
+
+"The Minister is in Perth for the Indian Ocean conference. He also pointed to the establishment of Indian IIT in his country. He said, "A delegation from Sri Lanka has gone to IIT Madras and they are discussing this possibility of establishing an IIT campus in Sri Lanka," the WION reported.
+
+◼️
+
+[Data](articles/edd9465d.json)
+
+---
+
+### ‘We need international support to achieve desired transformation’: Anura Kumara
+
+*2024-02-10 20:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/We-need-international-support-to-achieve-desired-transformation-Anura-Kumara/108-276749) · `en`
+
+Katunayake, Feb. 10 (DEaily Mirror)- Claiming that Sri Lanka can no longer function as an isolated country, NPP leader Anura Kumara Dissanayake said today their intention is to strengthen diplomatic ties to garner international support to achieve the desired transformation in the country.
+
+Speaking to the media at the Bandaranaike International Airport (BIA) on his return from India, he said India is an emerging country in the region and country expertise in the IT sector and that Sri Lanka can obtain support from them.
+
+"We must stop the destructive political culture of 76-years. People have high expectations and are awakening to make that transformation. Our intention is to give leadership to this expectation and awakening to make a transformation in the country. We need international support for that transformation. We are not a developed country or a country with modern technology.
+
+...
+
+[Data](articles/cf94bf05.json)
 
 ---
 
@@ -269,6 +379,44 @@ According to police, the two unidentified gunmen had subsequently fled the scene
 [Data](articles/b4b5680e.json)
 
 [Extended Data](ext_articles/b4b5680e.ext.json)
+
+---
+
+### Second child injured by falling tree in Gampola international school dies
+
+*2024-02-10 19:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Second-child-injured-by-falling-tree-in-Gampola-international-school-dies/108-276748) · `en`
+
+Gampola, Feb 10 (Daily Mirror) - Another child who was being treated for injuries after a tree collapsed on a group of students at an international school in Gampola, died this morning.
+
+On Monday, a five-year-old student was killed and two other students were injured when a tree collapsed on them at an international school in Gampola.
+
+The tree adjacent to the children’s play area had fallen on them due to winds, experienced at that time, initial investigation revealed while some 30 students of the nursery section were playing beneath the tree.
+
+Police said the child died this morning while receiving treatment at the National Hospital in Kandy.
+
+Police said the deceased was a 5-year-old child and a resident of Gampola.
+
+◼️
+
+[Data](articles/5f7c482b.json)
+
+---
+
+### Awareness for Arabian leopard protection raised in Colombo
+
+*2024-02-10 19:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Awareness-for-Arabian-leopard-protection-raised-in-Colombo/108-276750) · `en`
+
+Colombo, Feb 10 -  Saudi Ambassador Khalid bin Hamoud Alkahtani, held the “Cat Walk 2024” event at the Galle Face Hotel in Colombo to celebrate the International Day of the Arabian Leopard, which was adopted by the United Nations General Assembly on June 12,2023 .
+
+The resolution called “International Arabian Leopard Day” submitted by Saudi Arabia and co-sponsored by more than 30 countries, with the aim of highlighting the Arabian leopard as one of the most endangered breeds of big cats (lion, Panthera tigris, mountain lion, jaguar, cheetah, tiger, snow leopard) and highlighting the importance of preserving wildlife and biological diversity.
+
+The event included a walk on Galle Face Beach and highlighted Colombo's tourist attractions.
+
+A number of senior Ministers, Government Officials, Heads of Missions of Arab countries accredited to Sri Lanka, and a number of prominent media persons, Embassy officials, and their families participated in the event.
+
+◼️
+
+[Data](articles/cb4474e2.json)
 
 ---
 
@@ -382,6 +530,30 @@ Qureshi, who is also in prison facing charges in other cases, will not be releas
 
 ---
 
+### Former PM Imran Khan gets bail In military installations attack cases
+
+*2024-02-10 18:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Former-PM-Imran-Khan-gets-bail-In-military-installations-attack-cases/107-276744) · `en`
+
+Islamabad, Feb 10 (India Today) - An anti-terrorism court on Saturday granted bail to jailed former Pakistan premier Imran Khan in 12 cases linked to the May 9 attacks on military installations by his supporters following his arrest in an alleged corruption case.
+
+ATC Judge Malik Ejaz Asif granted bail to Pakistan Tehreek-e-Insaf party founder Mr Khan after fulfilling a surety bond of Rs 0.1 million in all 12 cases, including the General Headquarters (Pakistan Army) and Army Museum attack.
+
+The court said there was no justification to keep Mr Khan, 71, under arrest as all accused in May 9 cases were on bail.
+
+Mr Khan will remain in jail as he is convicted in many other cases.
+
+The court's order came a day after independents backed by Mr Khan's party won nearly 100 seats in the National Assembly.
+
+Former foreign minister Shah Mahmood Qureshi was also granted bail in 13 cases in the same case.
+
+Qureshi, who is also in prison facing charges in other cases, will not be released either.
+
+...
+
+[Data](articles/36cc5da1.json)
+
+---
+
 ### Hopes AKD makes positive statements on his tour and bring investors to country
 
 *2024-02-10 18:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hopes-AKD-makes-positive-statements-on-his-tour-and-bring-investors-to-country/108-276743) · `en`
@@ -401,6 +573,26 @@ It is very common to see political parties visit India every month, but this is 
 [Data](articles/08446dc1.json)
 
 [Extended Data](ext_articles/08446dc1.ext.json)
+
+---
+
+### Hope AKD attracts FDIs through his Indian visit: Kanchana
+
+*2024-02-10 18:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hope-AKD-attracts-FDIs-through-his-Indian-visit-Kanchana/108-276743) · `en`
+
+Colombo, Feb 10 (Daily Mirror) - Power and Energy Minister Kanchana Wijesekera said today that he hopes that National People’s Power (NPP) leader Anura Kumara Dissanayake (AKD) makes positive statements regarding his visit to India and he understands the need for investors in Sri Lanka.
+
+Addressing the media, he said that whoever had invited AKD to India, had done a good thing.
+
+"AKD might have gained a vast amount of experience over the need for investors in our country from any country in the world, including India. After experiencing the development of India's energy sectors, I don't think that AKD would get a chance to chase away the investors who are coming to the country.
+
+"AKD dressed according to the European dress code, ignoring his traditional dress. I don't think his trade unions understand how he behaves," he said.
+
+It is very common to see political parties visit India every month, but this is the first time that the Janatha Vimukthi Peramuna (JVP) is in India, he said.
+
+...
+
+[Data](articles/84b606dd.json)
 
 ---
 
@@ -1873,205 +2065,5 @@ The event, themed “Towards a Stable and Sustainable Indian Ocean,” aims to f
 [Data](articles/b0f942fd.json)
 
 [Extended Data](ext_articles/b0f942fd.ext.json)
-
----
-
-### Ranil meets Jaishankar in Perth
-
-*2024-02-10 08:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-meets-Jaishankar-in-Perth/108-276731) · `en`
-
-Perth, Feb 10 (Daily Mirror) - India's External Affairs Minister S. Jaishankar today met President Ranil Wickremesinghe in Perth to discuss the progress of bilateral projects, the President's Media Division said.
-
-◼️
-
-[Data](articles/4e1c9b2d.json)
-
-[Extended Data](ext_articles/4e1c9b2d.ext.json)
-
----
-
-### Soumya Poomi Project will be implemented from April - Minister Jeevan Thondaman
-
-*2024-02-10 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/176013) · `ta`
-
-“The 10 thousand housing scheme to be launched in the hill plantation areas with the financial assistance of the Government of India will be launched on the 19th of this month.. Thousands of 300 houses will be built for the first time. ”- Jeevan Thondaman, General Secretary of the Ceylon Workers Congress and Minister of Water Supply and Estate Infrastructure Development said.
-
-The Minister also said that the Soumya Poomi scheme, which will provide land guarantee to the people of the hill plantation, will be implemented from April.
-
-Speaking at the debate on the Motion of the House, which was held on Friday (09) in Parliament on the President's policy speech,
-
-“Our goal is to provide sustainable - permanent solutions to the problems that prevail in the mountain plantations. With that purpose I took the post of Ministry. Groups were also appointed for this. Settlement plans have been prepared. Steps will be taken to implement them.
-
-...
-
-[Data](articles/60bf8648.json)
-
-[Extended Data](ext_articles/60bf8648.ext.json)
-
----
-
-### A vicious jam near the concert at the Ariranaran's concert
-
-*2024-02-10 08:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193200) · `si`
-
-The number of audiences to visit the concert held at Muttaveli's Stadium at the Mutaweera last night was chaired by a veteran musician of India.
-
-"The Ada Derana reporter said that the victims of the concert had tried to enter the concert ground despite the police protection.
-
-According to the reporter, several persons have been injured with the congestion caused by the incident.
-
-It is said that South Indian film actress is a number of film actresses and tickers, including Rambba.
-
-◼️
-
-[Data](articles/339aef45.json)
-
-[Extended Data](ext_articles/339aef45.ext.json)
-
----
-
-### President and Indian Foreign Minister meets
-
-*2024-02-10 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193199) · `si`
-
-A meeting between President Ranil Wickremesinghe and Indian Foreign Minister Dr. S. Sixhankur.
-
-The Presidential Unit reports that the meeting was found in Perth, Australia.
-
-The President and the Indian Foreign Minister discussed bilateral projects between the two countries.
-
-◼️
-
-[Data](articles/26f394bd.json)
-
-[Extended Data](ext_articles/26f394bd.ext.json)
-
----
-
-### Pakistan elections: Imran Khan, Nawaz Sharif both claim wins
-
-*2024-02-10 08:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pakistan-elections-Imran-Khan-Nawaz-Sharif-both-claim-wins/108-276730) · `en`
-
-ISLAMABAD, Feb 10 (Reuters) - Former Pakistani prime ministers and bitter rivals Nawaz Sharif and Imran Khan on Friday both declared victory in elections marred by delayed results and militant attacks, throwing the country into further political turmoil.
-
-Sharif's party won the most seats by a single party in Thursday's election, but supporters of imprisoned Khan, who ran as independents instead of as a single bloc after his party was barred from the polls, won the most seats overall.
-
-Sharif said his party would talk to other groups to form a coalition government as it had failed to win a clear majority on its own.
-
-Sharif's announcement came after more than three-quarters of the 265 seats had declared results, more than 24 hours after polling ended on Thursday when 28 people were killed in militant attacks.
-
-...
-
-[Data](articles/702fa66e.json)
-
-[Extended Data](ext_articles/702fa66e.ext.json)
-
----
-
-### Reduce electricity tariffs by considerable amount: Sajith urges Govt.
-
-*2024-02-10 08:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Reduce-electricity-tariffs-by-considerable-amount-Sajith-urges-Govt/108-276726) · `en`
-
-Colombo, Feb 10 (Daily Mirror) - Opposition Leader Sajith Premadasa yesterday urged the government to reduce the electricity tariff by a considerable amount after analysing the data of the Verité Research and Committee on Public Finance on electricity tariff, which is said to be higher in South Asia.
-
-The Opposition Leader told parliament that, according to the data on the surveys, Sri Lankans pay approximately 2.5 to 3 times more for electricity compared to their counterparts in other South Asian nations.
-
-He said the government increased electricity tariffs on several occasions in the recent past and that it had negatively affected consumers, the public, industrial sector and business sector.
-
-“We heard that the government is planning to reduce electricity tariff by 4 per cent. It is not at all suf­ficient. We urge the government to reduce the electricity tariff by a considerable amount,” he said.
-
-◼️
-
-[Data](articles/ad13c74b.json)
-
-[Extended Data](ext_articles/ad13c74b.ext.json)
-
----
-
-### Pakistan election: Imran Khan and Nawaz Sharif each claim advantage
-
-*2024-02-10 08:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97156/pakistan-election-imran-khan-and-nawaz-sharif-each-claim-advantage) · `en`
-
-The jailed former Pakistani prime minister Imran Khan has claimed victory in Thursday’s general election and called on his supporters to celebrate.
-
-Independent candidates linked to him have won most seats so far, with the majority of seats declared.
-
-But another ex-PM, Nawaz Sharif, says his party has emerged the largest and urges others to join him in coalition.
-
-No group or party appears on course to win an overall majority. The final results are yet to be announced.
-
-In a staunch video message posted on X created using AI, Mr Khan claimed his Pakistan Tehreek-e-Insaf (PTI) party had won a “landslide victory” despite what he has called a crackdown on his party.
-
-He is currently in jail having been convicted in cases he says are politically motivated.
-
-The success of the PTI-linked candidates was unexpected, with most experts agreeing that Mr Sharif - believed to be backed by the country’s powerful military - was the clear favourite.
-
-...
-
-[Data](articles/a23438da.json)
-
-[Extended Data](ext_articles/a23438da.ext.json)
-
----
-
-### Fair weather today
-
-*2024-02-10 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fair-weather-today/108-276728) · `en`
-
-Colombo, Feb 10 (Daily Mirror) - The National Meteorological Centre Forecasting Division today said that fair weather will prevail over the island.
-
-However, they said misty conditions could be expected at some places in the Central, Sabaragamuwa and Western Provinces and in the Galle and Matara districts during the morning.
-
-◼️
-
-[Data](articles/f4ff3f16.json)
-
-[Extended Data](ext_articles/f4ff3f16.ext.json)
-
----
-
-### Imran Khan says he won
-
-*2024-02-10 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193198) · `si`
-
-He has stated that the former Prime Minister of Pakistan won the general election.
-
-According to foreign reports, he had asked his supporters to celebrate it.
-
-Independent candidates involved in Imran Khan have won more seats and published the number of seats.
-
-However, another former prime minister, Nawaz Sharif says that his party becomes the largest party, so that his party is the largest party.
-
-Foreign Reports say that the voting results that have not been able to win the entire majority of election.
-
-Imran Khan has said that Imran Khan has said that his Pakistan Treek-e-Insugh PTI party has won a great achievement.
-
-Navawish Sharif has admitted that he has no seats to form a government alone.
-
-Addressing supporters outside Lahore, he demanded joining a coalition government with him.
-
-◼️
-
-[Data](articles/d4206322.json)
-
-[Extended Data](ext_articles/d4206322.ext.json)
-
----
-
-### Water supply suspended for 15 hours in parts of Colombo today
-
-*2024-02-10 07:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97155/water-supply-suspended-for-15-hours-in-parts-of-colombo-today) · `en`
-
-The water supply for parts of Colombo will be suspended this evening (Feb.10) for a period of 15 hours, the National Water Supply & Drainage Board (NWSDB) says.
-
-Water cut will be in place from 5:00 p.m. today until 08:00 a.m. tomorrow (Feb.11).
-
-According to the NWSDB, Colombo 11, 12, 13, 14 and 15 areas are supposed to be affected by the water cut, which is being imposed due to essential maintenance work planned under the Ambatale Water Supply System Improvements and Energy Saving Project.
-
-◼️
-
-[Data](articles/ce59fa89.json)
-
-[Extended Data](ext_articles/ce59fa89.ext.json)
 
 ---

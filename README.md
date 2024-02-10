@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 01:17:18**
+As of **2024-02-11 01:32:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,192 (100.0%) of 6,195 articles have been extended.
+6,195 (100.0%) of 6,195 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -309,6 +309,8 @@ The tourism revenue numbers are based on a survey conducted by the tourism promo
 ...
 
 [Data](articles/aa39a178.json)
+
+[Extended Data](ext_articles/aa39a178.ext.json)
 
 ---
 
@@ -627,6 +629,8 @@ ECONOMYNEXT – A process to award 10 perches of land on a freehold basis to eve
 ...
 
 [Data](articles/a76cd235.json)
+
+[Extended Data](ext_articles/a76cd235.ext.json)
 
 ---
 
@@ -1247,6 +1251,8 @@ The remittances jumped 57 percent to its four-year high of $5.97 billion in 2023
 ...
 
 [Data](articles/1677d1f0.json)
+
+[Extended Data](ext_articles/1677d1f0.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 09:33:04**
+As of **2024-02-10 09:51:37**
 
 ## Newspaper Stats
 
-*Scraped **6,085** Articles*
+*Scraped **6,086** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 505
 tamilmirrorlk | 738
 adaderanalk | 751
 virakesarilk | 756
-adaderanasinhalalk | 816
+adaderanasinhalalk | 817
 dailymirrorlk | 877
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,080 (99.9%) of 6,085 articles have been extended.
+6,086 (100.0%) of 6,086 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### Another talk about the murder of monks
+
+*2024-02-10 09:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193201) · `si`
+
+A hand grenade and a pistol have been found in a suspect arrested in a monk shooting at a monk in Hiripitiya area in Malwathu.
+
+Another suspect arrested by the Western and Northern Crimes Division, the grenade and pistol was reported.
+
+◼️
+
+[Data](articles/e532da60.json)
+
+[Extended Data](ext_articles/e532da60.ext.json)
+
+---
 
 ### President Ranil meets with India’s foreign minister while in Australia
 
@@ -48,6 +64,8 @@ The event, themed “Towards a Stable and Sustainable Indian Ocean,” aims to f
 
 [Data](articles/b0f942fd.json)
 
+[Extended Data](ext_articles/b0f942fd.ext.json)
+
 ---
 
 ### Ranil meets Jaishankar in Perth
@@ -59,6 +77,8 @@ Perth, Feb 10 (Daily Mirror) - India's External Affairs Minister S. Jaishankar t
 ◼️
 
 [Data](articles/4e1c9b2d.json)
+
+[Extended Data](ext_articles/4e1c9b2d.ext.json)
 
 ---
 
@@ -136,6 +156,8 @@ Sharif's announcement came after more than three-quarters of the 265 seats had d
 
 [Data](articles/702fa66e.json)
 
+[Extended Data](ext_articles/702fa66e.ext.json)
+
 ---
 
 ### Trade union action postponed for health trade unions seeking employment rights
@@ -173,6 +195,8 @@ He said the government increased electricity tariffs on several occasions in the
 ◼️
 
 [Data](articles/ad13c74b.json)
+
+[Extended Data](ext_articles/ad13c74b.ext.json)
 
 ---
 
@@ -729,6 +753,8 @@ Afghanistan, in their massive run chase of 382 runs, put themselves in deep trou
 ...
 
 [Data](articles/1d67c6dd.json)
+
+[Extended Data](ext_articles/1d67c6dd.ext.json)
 
 ---
 
@@ -1953,23 +1979,5 @@ Due to this, railway employees are in the process of bringing the train service 
 [Data](articles/d9bdc6a5.json)
 
 [Extended Data](ext_articles/d9bdc6a5.ext.json)
-
----
-
-### Woman police constable's gun exploded another constable injured!
-
-*2024-02-09 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/175995) · `ta`
-
-Another police constable has been injured in a gunman of a police constable at Okampitiya Police Station.
-
-While the police constable was cleaning the gun from the police station, it suddenly operated and heated another police constable near him.
-
-Subsequently, he was admitted to the Moneragala Hospital and his condition was not worrisome.
-
-◼️
-
-[Data](articles/e7de6413.json)
-
-[Extended Data](ext_articles/e7de6413.ext.json)
 
 ---

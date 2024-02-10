@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 19:32:40**
+As of **2024-02-10 19:49:38**
 
 ## Newspaper Stats
 
-*Scraped **6,161** Articles*
+*Scraped **6,162** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,66 @@ adalk | 511
 tamilmirrorlk | 745
 adaderanalk | 764
 virakesarilk | 769
-adaderanasinhalalk | 832
+adaderanasinhalalk | 833
 dailymirrorlk | 896
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,157 (99.9%) of 6,161 articles have been extended.
+6,162 (100.0%) of 6,162 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
 
-### கலா மாஸ்டருக்கு கண்ணீர் அஞ்சலி போஸ்டர்
+### The celebration board employee arrested for 35 years
+
+*2024-02-10 18:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193219) · `si`
+
+A woman was arrested by a woman who was hiding 35 years after the death sentence was sentenced to death.
+
+The Borella Police had launched an investigation into the murder of a Ceylon Electricity Board Quality Inspector in Athurugiriya, Athurugiriya, Athurugiriya.
+
+Accordingly, a resident of the Wellawa area, police arrested and conducted a couple.
+
+It was also revealed that the 30-year-old woman had served as a 30-year-old key scribe and had a casual affair with the victim.
+
+After his husband had revealed the relationship, the woman was convened at the Wellawa area in Athurugiriya on his advice.
+
+The police said that the murder of her husband had been murdered and put into a bar in collaboration with her husband.
+
+As a result, the couple were remanded for six months and later released on bail.
+
+Accordingly, the couple sentenced to death in 2019 after the trial without the trial.
+
+However, no police have been able to find the murder of the murder.
+
+...
+
+[Data](articles/365798d3.json)
+
+[Extended Data](ext_articles/365798d3.ext.json)
+
+---
+
+### Tears tribute poster for Kala Master
 
 *2024-02-10 18:37:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கலா-மாஸ்டருக்கு-கண்ணீர்-அஞ்சலி-போஸ்டர்/71-332972) · `ta`
 
-யாழ்ப்பாணம் - வடமராட்சியின் சில பகுதிகளில் தென்னிந்தியாவைச் சேர்ந்த  கலா மாஸ்டருக்கு கண்ணீர் அஞ்சலி துண்டுப்பிரசுரங்கள் ஒட்டப்பட்டுள்ளமை பரபரப்பை ஏற்படுத்தியுள்ளது.
+In some parts of Jaffna - Vadamarachchi, a tearful tribute leaflets have been pasted for Kala Master from South India.
 
-பெருமெடுப்பில் ஒழுங்குபடுத்தப்பட்ட பாடகர் ஹரிஹரனின் இசைநிகழ்ச்சி சீரான ஒழுங்குபடுத்தல் இன்மை காரணமாக குழப்பத்தில் முடிந்த நிலையில் கலா மாஸ்டரின் கண்ணீர் அஞ்சலி சுவரொட்டிகள் ஆங்காங்கே ஓட்டப்பட்டுள்ளது.
+Kala Master's tearful posters have been driven by the lack of confusion due to lack of uniform regulation of singer Hariharan's concert.
 
-குறித்த இசை நிகழ்ச்சியில் பங்கேற்க குஷ்பு, கலா மாஸ்டர் ஆகியோர் யாழ்ப்பாணம் வருகை தருவதாக அறிவிக்கப்பட்ட நிலையில் ஆரம்பம் முதலே எதிர்ப்பு காட்டப்பட்டு வந்தது குறிப்பிடத்தக்கது.
+It is noteworthy that Khushboo and Kala Master were announced to visit Jaffna to participate in the concert.
 
-குஷ்பு பங்கேற்காத நிலையில் கலா மாஸ்டரே இசை நிகழ்ச்சி ஏற்பாட்டை கவனித்தமை குறிப்பிடத்தக்கது.
+It is noteworthy that the Kala Master's concert was organized as Khushboo did not participate.
 
 ◼️
 
 [Data](articles/973c8bf0.json)
+
+[Extended Data](ext_articles/973c8bf0.ext.json)
 
 ---
 
@@ -65,6 +97,8 @@ The sleuths found gold jewellery and gold gel weighing up to 2,700 grams from th
 ◼️
 
 [Data](articles/802e889d.json)
+
+[Extended Data](ext_articles/802e889d.ext.json)
 
 ---
 
@@ -178,21 +212,23 @@ Former Pakistani Minister of External Affairs Stadasana, former Pakistani Minist
 
 ---
 
-### අල්ලස් කොමිෂමට අධ්‍යක්ෂ ජෙනරාල්වරයෙක් සොයයි
+### Director General looks for a Director General
 
 *2024-02-10 17:16:41* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-කොමිෂමට-අධ්‍යක්ෂ-ජෙනරාල්වරයෙක්-සොයයි/11-407995) · `si`
 
-2023 අංක 9 දරන දුෂණ විරෝධී පනතෙහි (සංශෝධන පරිදි) විධිවිධාන යටතේ අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන  කොමිෂන් සභාවට   අධ්‍යක්ෂ ජෙනරාල්වරයෙකු පත් කිරීම සඳහා  නිර්දේශ කිරීමට සුදුස්සෙකු තෝරා ගැනීම වෙනුවෙන්  ආණ්ඩු ක්‍රම ව්‍යවස්ථා සභාව මගින් මාර්තු 04 දා දක්වා  අයදුම්පත් කැඳවා තිබේ.
+Applications have been called on March 4 to select a Director General of Bribery or Corruption (Amendments) under the provisions of the Anti-Corruption Act, No. 9 of the Anti-Corruption Act.
 
-අපරාධ නඩු කටයුතු පිළිබඳව අවම වශයෙන් වසර 15 ක  පළපුරුද්දක්  ඇති  නීතිඥයන් වන  ,  අපරාධමය වරදක් සම්බන්ධයෙන් වැරදිකරුවෙකු නොවන , දේශපාලනමය තනතුරු නොදරණ  ,වයස අවුරුදු 55 නොඉක්මවූ යහපත් ශාරිරික හා මානසික තත්වයක් ඇති  ශ්‍රී ලාංකික කීර්තිමත්  පුරවැසියන් වීම ඉල්ලුම්කරුවන් තිබිය  යුතු   සුදුසුකම් කිහිපයකි.
+At least 15 years of experience of criminal cases, lawyers, which are not a criminal offense, and the good celebrations of the good and mental citizens who do not exceed the age of 55 years of age, are few eligible.
 
-මේ   සඳහා අදාළ අයදුම්පත්‍ර ආකෘතිය  පාර්ලිමේන්තු වෙබ් අඩවියෙහි (www.parliament.lk) සඳහන් වෙන බව බව ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව පවසයි.
+Applications for this is stated that the application form is referring to the Parliament website (www.parlimen.lk).
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව, ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවේ නිර්දේශය පරිදි ජනාධිපතිවරයා විසින් අල්ලස් හෝ දූෂණ චෝදනා ව්මර්ශන කොමිෂන් සභාවේ අධ්‍යක්ෂ ජෙනරාල්වරයා පත්කිරීම සිදුකරයි.
+According to the Constitution, the President appoints bribery or corruption charges by the President as the recommendation of the Constitutional Council.
 
 ◼️
 
 [Data](articles/5bf5ec2e.json)
+
+[Extended Data](ext_articles/5bf5ec2e.ext.json)
 
 ---
 
@@ -784,23 +820,27 @@ To build this country, you need to stop corruption .It can save the country if y
 
 ---
 
-### උඩරට දුම්රිය පීලි පනීම ගැන පරීක්ෂණයක් ඉල්ලයි
+### Upcountry trains demands investigation
 
 *2024-02-10 13:27:55* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-පීලි-පනීම-ගැන-පරීක්ෂණයක්-ඉල්ලයි/11-407992) · `si`
 
-උඩරට දුම්රිය මාර්ගයේ දුම්රියයන් නිතරම පීලි පැනීමට ලක් වීම සහ බොහෝ අවස්ථාවල දුම්රියයන් ප්‍රමාද වී ධාවනය වීම් පිළිබඳව පරීක්ෂණයක් කරන ලෙස දුම්රිය දෙපාර්තමේන්තුවෙන් ඉල්ලීමක් කළ බව බදුල්ල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී වඩුවේල් සුරේෂ් මහතා පැවසීය.
+Badulla District MP Wadowar Suresh said that the tracks on the Upcountry Railway were often demanded to conduct delayed trains and conducting late trains.
 
-ඊයේ 09 බදුල්ල සිට කොළඹ බලා ධාවනය වූ රාත්‍රී තැපැල් දුම්රිය පැය පහකට අධික කාලයක් බදුල්ලෙන්  ප්‍රමාද වීම සහ ඉතා මන්දගාමීව දුම්රිය ධාවනය වීම හේතුවෙන් මගීහු  දැඩි  අපහසුතාවයට පත්වූ බවත්  සිදුවූ අපහසුතාවය පිළිබඳව මගීහු  පිරිසක් තමාට දැන්වූ බවත්  වඩුවේල් සුරේෂ්  මහතා පැවසීය.
+The night mail train, which was traveling from Badulla to Colombo to Colombo, had told him that a group of passengers were inconvenienced due to the delay in Badulla and a slower train.
 
-මේ පිළිබඳව සොයා බැලීමේදී මේ වර්ෂය තුළදී පමණක් දුම්රිය පීලි පැනීම්  හතකට වඩා අධික ප්‍රමාණයක් සිදුවී ඇති බවට අනාවරණය වූ බවද ඒ මහතා පැවසීය.
+He said that more than seven trains had taken place during this year alone, he said.
 
-ඊයේ (09) උඩරට දුම්රිය මාර්ගයේ වටවල හා රොසැල්ල දුම්රිය ස්ථාන අතරදි පිළිපැනීමට ලක්ව අවහිර වී තිබූ උඩරට දුම්රිය මාර්ගයේ ගමනා ගමන කටයුතු අද දහය උදෑසන  සිට යථා තත්ත්වයට පත්වී ඇති බව දුම්රිය පාලක මැදිරිය පැවසීය.
+The Railway Control Room stated that the transportation of the Upcountry railway line was recovered from the Kandyan Railway Station yesterday (09), said the Railway Control Room.
 
-නාවලපිටිය සිට නානුඔය දක්වා ධාවනය වූ භාණ්ඩ  ප්‍රවාහන දුම්රියක ඇන්ජිම  කොටස වටවල හා රොසැල්ල අතරදී පීළිපැන ඊයේ මෙම මාර්ගය අවහිර වී තිබුණි.
+The road was blocked by the engineering train from Nawalapitiya to Nanu Oya.
 
-...
+However, transporting services were running from the sides, however.
+
+◼️
 
 [Data](articles/f50ca5d0.json)
+
+[Extended Data](ext_articles/f50ca5d0.ext.json)
 
 ---
 
@@ -2027,21 +2067,5 @@ The Communist Party of India's Communist Party of India, including the leader of
 [Data](articles/5a48d410.json)
 
 [Extended Data](ext_articles/5a48d410.ext.json)
-
----
-
-### The Unbearable Selfishness of Being “Maavai”  Senathirajah: Clings on to Power for 10 Years as  ITAK Party President.
-
-*2024-02-10 01:53:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83587) · `en`
-
-The heading of this  article is inspired by the title of Milan Kundera’s novel “The Unbearable  Lightness of Being”. That novel was set in the  eventful Prague spring  period of the then undivided  Czechoslovakia. This  article is about an octogenarian Tamil political leader who tries to cling on to power selfishly without stepping down gracefully.
-
-The party leader I am referrig to is Somasundaram Senathirajah known popularly as “Maavai” Senathirajah  and/or Maavai.  Until 27 January 2024, Senathirajah was the President  of the Ilankai Thamil Arasuk Katchi(ITAK)  known as the Federal Party(FP) in English. Senathirajah however continues to act as the party president in a business as usual fashion.
-
-...
-
-[Data](articles/3305ba9b.json)
-
-[Extended Data](ext_articles/3305ba9b.ext.json)
 
 ---

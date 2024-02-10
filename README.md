@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 18:19:40**
+As of **2024-02-10 18:32:42**
 
 ## Newspaper Stats
 
-*Scraped **6,151** Articles*
+*Scraped **6,152** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 342
 newsfirstlk | 363
 adalk | 509
 tamilmirrorlk | 744
-adaderanalk | 762
+adaderanalk | 763
 virakesarilk | 768
 adaderanasinhalalk | 831
 dailymirrorlk | 893
@@ -26,11 +26,29 @@ dailymirrorlk | 893
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,151 (100.0%) of 6,151 articles have been extended.
+6,151 (100.0%) of 6,152 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### Sri Lanka will not allow anything harmful to India’s security - President Ranil
+
+*2024-02-10 18:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97169/sri-lanka-will-not-allow-anything-harmful-to-indias-security-president-ranil) · `en`
+
+President Ranil Wickremesinghe, addressing concerns about China’s increased presence in the Indian Ocean region, said the island nation would not allow anything that would jeopardize India’s security.
+
+During an exclusive interview with Indian news channel WION, the Sri Lankan leader said, “We’ve kept Indian security in mind and we will not allow anything to happen that will be harmful to Indian security, and these are all hydrographical vessels.”
+
+When asked about the Sri Lankan government’s decision to not allow the visits of Chinese vessels, Wickremesinghe, who is in Australia for the 7th Indian Ocean Conference, explained that the administration decided to say no to ships from any country hydrographic matters as it is focusing on building its own hydrographical capacity.
+
+“But if they are Navy ships that are coming in for visits, yes we will allow it,” the President told WION’s diplomatic correspondent Sidhant Sibal in Perth.
+
+...
+
+[Data](articles/c927a490.json)
+
+---
 
 ### Critical Atlantic Ocean current system showing early signs of collapse - report
 
@@ -1993,27 +2011,5 @@ The H-hour struck. The water bowser was substituted, and then filled with water 
 [Data](articles/689bcf12.json)
 
 [Extended Data](ext_articles/689bcf12.ext.json)
-
----
-
-### 2024-02-09 (Friday)
-
-### Tax files for everyone impractical to be done- Champika Ranawaka
-
-*2024-02-09 23:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tax-files-for-everyone-impractical-to-be-done-Champika-Ranawaka/108-276685) · `en`
-
-Colombo, Feb 09 (Daily Mirror) - MP Patali Champika Ranawaka, leader of the United Republic Front underscores the impracticality of preparing tax files for every citizen of Sri Lanka.
-
-He highlights the considerable time and manpower required, indicating that it takes approximately half an hour to process a single tax file while considering all requisite criteria.
-
-With only nine officers tasked with this responsibility, the daily processing capacity is limited to 144 files, making the processing of millions of files a daunting and time-consuming endeavour.
-
-He  contends that prioritising the collection of unpaid taxes from the 1272 defaulters identified by the Inland Revenue Department should take precedence over opening new tax files for every individual. However, he criticises the lack of action taken by the current government in this regard, resulting in an undue burden on the populace and the adoption of impractical measures.
-
-◼️
-
-[Data](articles/f4e6b4d2.json)
-
-[Extended Data](ext_articles/f4e6b4d2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 17:33:06**
+As of **2024-02-10 17:52:50**
 
 ## Newspaper Stats
 
-*Scraped **6,147** Articles*
+*Scraped **6,151** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ dailyftlk | 342
 newsfirstlk | 363
 adalk | 509
 tamilmirrorlk | 744
-adaderanalk | 761
+adaderanalk | 762
 virakesarilk | 768
-adaderanasinhalalk | 829
-dailymirrorlk | 892
+adaderanasinhalalk | 831
+dailymirrorlk | 893
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,145 (100.0%) of 6,147 articles have been extended.
+6,150 (100.0%) of 6,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### Critical Atlantic Ocean current system showing early signs of collapse - report
+
+*2024-02-10 17:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97168/critical-atlantic-ocean-current-system-showing-early-signs-of-collapse-report) · `en`
+
+A crucial system of ocean currents may already be on course to collapse, according to a new report, with alarming implications for sea level rise and global weather — leading temperatures to plunge dramatically in some regions and rise in others.
+
+Using exceptionally complex and expensive computing systems, scientists found a new way to detect an early warning signal for the collapse of these currents, according to the study published Friday in the journal Science Advances. And as the planet warms, there are already indications it is heading in this direction.
+
+The Atlantic Meridional Overturning Circulation (the AMOC) — of which the Gulf Stream is part — works like a giant global conveyor belt, taking warm water from the tropics toward the far North Atlantic, where the water cools, becomes saltier and sinks deep into the ocean, before spreading southward.
+
+...
+
+[Data](articles/2431958a.json)
+
+---
+
+### Another child killed in collapsed tree
+
+*2024-02-10 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193217) · `si`
+
+Another young child who was injured in the accident occurred in the accident in Gampola area.
+
+The child had died this morning while receiving treatment at the Kandy National Hospital today (10).
+
+Three children were injured in a crash, where a child was killed in the premises of the International School.
+
+The other two children were admitted to the Kandy National Hospital for treatment.
+
+One child who was receiving treatment at the hospital was killed in five days this morning.
+
+The deceased has been identified as a five-year-old resident of Gampola.
+
+◼️
+
+[Data](articles/4661b09a.json)
+
+[Extended Data](ext_articles/4661b09a.ext.json)
+
+---
 
 ### India has saved - we will always keep in mind the security of India - Ranil in an interview with the Indian media
 
@@ -80,6 +120,28 @@ Former foreign minister Shah Mahmood Qureshi was also granted bail in 13 cases i
 
 ---
 
+### PUCSL will announce tariff revisions after February 15: Kanchana
+
+*2024-02-10 16:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/PUCSL-will-announce-tariff-revisions-after-February-15-Kanchana/108-276742) · `en`
+
+Colombo, Feb 10 (Daily Mirror) - The Public Utilities Commission of Sri Lanka (PUCSL) will decide the date of the announcement for the next electricity tariff revision, Power and Energy Minister Kanchana Wijesekera said.
+
+Addressing the media today, he said that, as the minister, he cannot make any decisions on electricity tariff revisions. He can only send proposals to them.
+
+"We can send the proposal to the PUCSL, and they will decide on the collection of public opinions. According to their rules, public opinion should be collected within 21 days. For that, the PUCSL has published an announcement to finish collecting public opinion on February 15," he said.
+
+After February 15, the PUCSL will decide the date of the next electricity tariff revision.
+
+"There will be another tariff revision in April, and we must give the proposal to PUCSL in March," Wijesekera added.
+
+...
+
+[Data](articles/58335a68.json)
+
+[Extended Data](ext_articles/58335a68.ext.json)
+
+---
+
 ### PUCSL will announce tariff revisions after February15: Kanchana
 
 *2024-02-10 16:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/PUCSL-will-announce-tariff-revisions-after-February15-Kanchana/108-276742) · `en`
@@ -97,6 +159,8 @@ After February 15, the PUCSL will decide the date of the next electricity tariff
 ...
 
 [Data](articles/abefa795.json)
+
+[Extended Data](ext_articles/abefa795.ext.json)
 
 ---
 
@@ -119,6 +183,24 @@ Based on the available information, the arrival of the organizers' expectations 
 [Data](articles/dad05087.json)
 
 [Extended Data](ext_articles/dad05087.ext.json)
+
+---
+
+### Anura Kumara arrived in India and said
+
+*2024-02-10 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193215) · `si`
+
+Leader of the National Jones of Power to India arrived in Sri Lanka this afternoon.
+
+"The president cannot postpone this presidential election. So this presidential election should be held. There is a great blow and hope for this purpose. Our expectation to establish a large translation. It requires international support. "
+
+He then spoke to the media that he was informed of a public meeting with a full explanation of his visit.
+
+◼️
+
+[Data](articles/97a16895.json)
+
+[Extended Data](ext_articles/97a16895.ext.json)
 
 ---
 
@@ -181,6 +263,8 @@ Devotees engaging in religious activities at the Jaya Sri Maha Bodhi and the Thu
 ◼️
 
 [Data](articles/40c06aef.json)
+
+[Extended Data](ext_articles/40c06aef.ext.json)
 
 ---
 
@@ -1929,75 +2013,5 @@ He  contends that prioritising the collection of unpaid taxes from the 1272 def
 [Data](articles/f4e6b4d2.json)
 
 [Extended Data](ext_articles/f4e6b4d2.ext.json)
-
----
-
-### Pathum Nissanka runs riot; becomes first Sri Lankan to slam ODI double ton
-
-*2024-02-09 23:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Pathum-Nissanka-runs-riot-becomes-first-Sri-Lankan-to-slam-ODI-double-ton/155-276712) · `en`
-
-Pallekele, Feb. 9 (Daily Mirror) - An inevitable win for Sri Lanka was only delayed by Afghanistan’s sixth wicket pair, Mohammad Nabi and Azmatullah Omarzi, who both cracked tons and shared a 242-run stand, as it turned out to be insufficient and too late.
-
-Afghanistan, in their massive run chase of 382 runs, put themselves in deep trouble as they lost their top five wickets with just 55 on the scoreboard and ended up with a score of 339 for 6 to give Sri Lanka a win by 42 runs in the first of the three-match ODI series played at the Pallekele International Cricket Stadium today and take a 1-0 lead.
-
-...
-
-[Data](articles/1d67c6dd.json)
-
-[Extended Data](ext_articles/1d67c6dd.ext.json)
-
----
-
-### Pathum Nissanka runs riot; becomes first Sri Lankan to slam ODI double ton
-
-*2024-02-09 23:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pathum-Nissanka-runs-riot-becomes-first-Sri-Lankan-to-slam-ODI-double-ton/108-276712) · `en`
-
-Feb. 9 (Daily Mirror) - An inevitable win for Sri Lanka was only delayed by Afghanistan’s sixth wicket pair, Mohammad Nabi and Azmatullah Omarzi, who both cracked tons and shared a 242-run stand, as it turned out to be insufficient and too late.
-
-Afghanistan, in their massive run chase of 382 runs, put themselves in deep trouble as they lost their top five wickets with just 55 on the scoreboard and ended up with a score of 339 for 6 to give Sri Lanka a win by 42 runs in the first of the three-match ODI series played at the Pallekele International Cricket Stadium today and take a 1-0 lead.
-
-Earlier in the day, Pathum Nissanka was on fire whilst running riot as he sent the Afghanistan bowlers on a leather hunt by slamming an unbeaten knock of 210 runs in only 139 balls, which included 20 boundaries and eight towering sixes, to become the first Sri Lanka batsman to slam an ODI double ton to help Sri Lanka, invited to take first lease of the wicket, to end with a formidable score of 381 for 3.
-
-...
-
-[Data](articles/bdf1c508.json)
-
-[Extended Data](ext_articles/bdf1c508.ext.json)
-
----
-
-### The depravity of Sri Lanka’s elite establishment
-
-*2024-02-09 23:48:21* · [`dailyftlk`](https://www.ft.lk/columns/The-depravity-of-Sri-Lanka-s-elite-establishment/4-758311) · `en`
-
-For the Government’s supporters, the evidence of “recovery” amounts simply to citing the absence of long queues for fuel and sky-high inflation
-
-According to President Ranil Wickremesinghe, the Government he leads and his supporters, Sri Lanka has recovered from severe economic crisis. In reality, however, this “recovery” is a deepening of the economic crisis which is embedding extreme, near irreversible levels of deprivation and inequality in Sri Lankan society. This article interrogates Sri Lanka’s elite establishment, which is cheering on the Government, and its responsibility for the unfolding societal catastrophe.
-
-...
-
-[Data](articles/6c0cc363.json)
-
-[Extended Data](ext_articles/6c0cc363.ext.json)
-
----
-
-### Israeli PM orders military plan to evacuate Rafah and defeat Hamas
-
-*2024-02-09 23:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97153/israeli-pm-orders-military-plan-to-evacuate-rafah-and-defeat-hamas) · `en`
-
-Prime Minister Benjamin Netanyahu ordered Israel’s military on Friday to draw up a dual plan to evacuate Palestinian civilians from the crowded southern Gazan city of Rafah and to defeat the last Hamas fighters there.
-
-His office announced the move as pressure mounted on Israel over its threat to launch a ground assault on Rafah, the last refuge for hundreds of thousands of Palestinians who are trapped in the city after fleeing fighting elsewhere.
-
-U.S. President Joe Biden said on Thursday Israel’s response to the Oct. 7 attacks by Hamas militants was “over the top” and Washington said it would not support any military operation mounted in Rafah without due consideration for civilians.
-
-Aid groups said there would be a high Palestinian death toll if Israeli forces stormed Rafah, and warned of the growing humanitarian crisis in the city, on the coastal enclave’s border with Egypt.
-
-...
-
-[Data](articles/13ad71b0.json)
-
-[Extended Data](ext_articles/13ad71b0.ext.json)
 
 ---

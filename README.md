@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 16:02:23**
+As of **2024-02-10 16:17:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 886
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,130 (99.9%) of 6,135 articles have been extended.
+6,135 (100.0%) of 6,135 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The suspected woman has confessed to the Sri Lanka Customs that an unidentified 
 
 [Data](articles/2ba96fb7.json)
 
+[Extended Data](ext_articles/2ba96fb7.ext.json)
+
 ---
 
 ### Applications called for post of Director General to Bribery Commission
@@ -65,6 +67,8 @@ The duly completed applications should be sent via registered post referred to t
 ...
 
 [Data](articles/ddbd4d2a.json)
+
+[Extended Data](ext_articles/ddbd4d2a.ext.json)
 
 ---
 
@@ -242,21 +246,29 @@ He further stated that he has previously had to inform the prime minister before
 
 ---
 
-### මුලින්ම තියෙන්නේ ජනපතිවරණයයි
+### First is the presidential election
 
 *2024-02-10 13:36:07* · [`adalk`](https://www.ada.lk/breaking_news/මුලින්ම-තියෙන්නේ-ජනපතිවරණයයි/11-407993) · `si`
 
-ලබන ජූලි ,අගෝස්තු වෙනකොට මහ මැතිවරණය හා ජනාධිපතිවරණය පැවැත්විය යුතු බවත් පළමුව පැවැත්වීමට නියමිතව ඇත්තේ ජනපතිවරණයන බවත් හිටපු ක්‍රීඩා අමාත්‍ය රොෂාන් රණසිංහ මහතා පැවැසීය.
+Former Minister of Sports Roshan Ranasinghe said that the General Election and the Presidential election should be held in July and August.
 
-පොලොන්නරුවේ පැවැති ක්‍රීඩා උත්සවයකදි මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව පැවැසීය.
+He was speaking at a sports ceremony held at Polonnaruwa.
 
-"ලබන ජූලි ,අගෝස්තු වෙනකොට මහ මැතිවරණය හා ජනාධිපතිවරණය පැවැත්වෙන්න ඕන.ඉස්සෙල්ලා තියෙන්න තියෙන්නෙ ජනාධිපතිවරණය .ඊට පස්සෙ තමයි මහ මැතිවරණය තියෙන්නෙ තියෙන්නෙ.ඒ නිසා ජිල් මාට් දාන්නෙ නැතුව ජනතාවගෙ පරමාධිපත්‍ය වන චන්දය නියම වෙලාවට තියන්න කියලා කියනවා.
+"By July, August, the general election and the presidential election should be held .It 's the presidential election .It' s the presidential election.
 
-රටට ආයෝජන අවශ්‍යයි.ඔවුන් මොන රටේද  කියන නෙමෙයි වැදගත්වෙන්නෙ.ඒ නිසා රටට වැදගත් ආයෝජන අවශ්‍යයි රටක් ගොඩ ගන්න.නමුත් ඒ ආයෝජන ලබා දෙනකොට ටෙන්ඩර් ක්‍රමයකට ලබා දෙන්න ඕන.එක එක්කෙනා තෝරාගෙන ආයෝජන දුන්නහම තමයි දූෂණ සිදුවෙන්නෙ.
+The country needs investments. It is important to build important investments.
 
-...
+The people of this country have to pay a large electricity bill in Asia.In the Tuwara, you get big commissions.
+
+Daniel, Daniel, cannot be created by a policy of Daniel at night.
+
+To build this country, you need to stop corruption .It can save the country if you stop corruption. "
+
+◼️
 
 [Data](articles/b2e49502.json)
+
+[Extended Data](ext_articles/b2e49502.ext.json)
 
 ---
 
@@ -706,19 +718,23 @@ State leaders in Sri Lanka have been deceived for a long time. The heads of stat
 
 ---
 
-### ප්‍රධාන රාජ්‍ය බැංකු දෙක දැවැන්ත අර්බුදයක - අගමැති
+### Two major state banks in a massive crisis - PM
 
 *2024-02-10 09:56:20* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රධාන-රාජ්‍ය-බැංකු-දෙක-දැවැන්ත-අර්බුදයක---අගමැති/11-407991) · `si`
 
-ශ්‍රී ලංකාවේ ආර්ථික අර්බුදය විසඳීම සඳහා නව මොඩලයකට යාමට ජනපති ප්‍රමුඛ ආණ්ඩුවට හැකිවූ බවද, ආණ්ඩුව අනුගමනය කරන්නේ ප්‍රයෝගික මොඩලයක් බවද අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා ප්‍රකාශ කළේය.
+The government is following the president of the government to go to a new model to resolve the economic crisis in Sri Lanka, he said.
 
-පාසල් හැරයන, පාසල් අධ්‍යාපනයෙන් හැලෙන සෑම දරුවෙකුටම වෘත්තීය පුහුණුව දෙන වැඩපිළිවෙළක් මේ වසරේ ක්‍රියාත්මක කරන බවද ඔහු පැවසීය. සභාග ආණ්ඩු දේශපාලනයේ පාර්ලිමේන්තු ක්‍රමය අනුගමනය කිරිම්මේදී ප්‍රවේශමෙන් තීරණ ගතයුතු බවත්, මන්ත්‍රීවරුන් සහ රටවැසියාගේ බලාපොරොත්තු මෙන්ම රට මුහුණ දෙන තත්ත්වය  යුතු බවත් අග්‍රාමාත්‍යවරයා සඳහන් කළේය.
+He said a program will be implemented this year to provide a vocational training for every child drowning and schooling.. The Prime Minister said that the parliamentary system of coconut is taken carefully in the manifestation of the politics of the politics and the expectations of the MPs and the country.
 
-ඔහු මේ බව කියා සිටියේ, නව වැනි පාර්ලිමේන්තුවේ 5 වැනි සැසිවාරය විවෘත කරමින් ජනාධිපතිවරයා කළ කතාව සම්බන්ධයෙන් පාර්ලිමේන්තුවේ පැවැත්වෙන කල්තැබීමේ විවාදයට  එක්වෙමිනි.
+He was speaking at the adjournment debate in parliament regarding the President's speech, opening the 5th session of Parliament, such as the New New Parliament.
+
+The Prime Minister said that the two major state banks should be liberated into the massive crisis of renewable electricity.. Through the government's assistance and support, the farming community in the country has enabled food production in many countries in many countries, there was no state employee or pension cuts.
 
 ...
 
 [Data](articles/9b734823.json)
+
+[Extended Data](ext_articles/9b734823.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 18:32:42**
+As of **2024-02-10 18:50:41**
 
 ## Newspaper Stats
 
-*Scraped **6,152** Articles*
+*Scraped **6,153** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 509
 tamilmirrorlk | 744
 adaderanalk | 763
 virakesarilk | 768
-adaderanasinhalalk | 831
+adaderanasinhalalk | 832
 dailymirrorlk | 893
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,151 (100.0%) of 6,152 articles have been extended.
+6,152 (100.0%) of 6,153 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,26 @@ When asked about the Sri Lankan government’s decision to not allow the visits 
 ...
 
 [Data](articles/c927a490.json)
+
+[Extended Data](ext_articles/c927a490.ext.json)
+
+---
+
+### ඉම්රාන් ඛාන් ට නඩු 12කින් ඇප
+
+*2024-02-10 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193218) · `si`
+
+බන්ධනාගාරගත ව සිටින පාකිස්තාන හිටපු අග්‍රාමාත්‍ය ඉම්රාන් ඛාන්ට නඩු කිහිපයකට අදාළව ඇප නියම වී තිබේ.
+
+හිටපු අග්‍රාමාත්‍යවරයාට නඩු 12කට අදාළව ඇප නියම වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+කෙසේවෙතත් තවත් චෝදනා කිහිපයකට වරදකරුවීම හේතුවෙන් ඔහුට තවදුරටත් බන්ධනාගාරගත ව සිටීමට සිදුවෙයි.
+
+ඉම්රාන් ඛාන්ට අමතරව පාකිස්තාන හිටපු විදේශ කටයුතු අමාත්‍ය ශා මහමුද් කුරේෂිට ද චෝදනා 13කට ඇප නියම කර ඇති නමුත් ඔහුට ද තවදුරටත් බන්ධනාගාරගත ව සිටීමට සිදුවන බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/23070206.json)
 
 ---
 
@@ -1993,23 +2013,5 @@ To make matters worse, the Covid-19 pandemic saw the forced return of our migran
 [Data](articles/48857146.json)
 
 [Extended Data](ext_articles/48857146.ext.json)
-
----
-
-### The Kaithady Explosion that Rocked the LTTE on Valentine’s Day
-
-*2024-02-10 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Kaithady-Explosion-that-Rocked-the-LTTE-on-Valentines-Day/172-276711) · `en`
-
-The 14th of February 1987 remains an explosive date in the  annals of contemporary military history. A well-laid plan by the LTTE –  known popularly as the ‘Tigers’ – to attack the Navatkuli Army Camp on  Valentine’s Day went awry, due to the accidental explosion that killed  43 and injured 51 persons
-
-Prabakaran wanted his cadres to re-draw plans and attack  Navatkuli again. But while preparations were in progress, the soldiers  expanded the camp area further by taking over the Andriesz factory and  the Thamby Walavu Coconut grove. The water problem faced by the Army was  solved.
-
-The H-hour struck. The water bowser was substituted, and then filled with water at Kaithady, but the Tigers found to their dismay that in spite of their elaborate preparations, they had neglected one aspect. They had not tried filling their duplicate bowser with water, prior to the actual switching of both. When the water was filled, the outer pipes of the explosive laden bowser began leaking
-
-...
-
-[Data](articles/689bcf12.json)
-
-[Extended Data](ext_articles/689bcf12.ext.json)
 
 ---

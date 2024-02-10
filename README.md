@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 05:55:22**
+As of **2024-02-10 05:36:58**
 
 ## Newspaper Stats
 
-*Scraped **6,056** Articles*
+*Scraped **6,049** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 73
 bbccomsinhala | 86
-dbsjeyarajcom | 144
-islandlk | 314
+dbsjeyarajcom | 143
+islandlk | 308
 economynextcom | 318
 dailyftlk | 342
 newsfirstlk | 363
@@ -26,7 +26,7 @@ dailymirrorlk | 868
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,049 (99.9%) of 6,056 articles have been extended.
+6,049 (100.0%) of 6,049 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -775,52 +775,6 @@ Sharif said his party alone does not have the seats needed but his deputies will
 [Data](articles/549feb6c.json)
 
 [Extended Data](ext_articles/549feb6c.ext.json)
-
----
-
-### ComBank and Visa launch Corporate Credit Cards in Sri Lanka
-
-*2024-02-09 20:58:00* · [`islandlk`](http://island.lk/combank-and-visa-launch-corporate-credit-cards-in-sri-lanka/) · `en`
-
-The Commercial Bank of Ceylon has launched the Visa Signature and Visa Platinum Corporate Credit Cards in Sri Lanka in collaboration with Visa.The corporate cards will be issued to employees of corporates and other business entities. This new product enables corporates to manage expenses of employees, and the card is linked to a corporate credit card account of each company, the Bank said.
-
-Since Visa cards are accepted globally, these cards can be used by employees of corporates to pay anywhere in the world for travel, entertainment and other expenses authorised by their respective companies.
-
-The Visa Signature Corporate Credit Cards will also offer their users special benefits such as lounge access at international airports, and other travel-related support.
-
-...
-
-[Data](articles/01faff5a.json)
-
----
-
-### Deutsche Bank continues its steadfast commitment to Sri Lanka
-
-*2024-02-09 20:58:00* · [`islandlk`](http://island.lk/deutsche-bank-continues-its-steadfast-commitment-to-sri-lanka/) · `en`
-
-Deutsche Bank today reiterated its commitment as a steadfast global banking services provider amidst the country’s journey through economic challenges. Operating in Sri Lanka since 1980, Deutsche Bank AG, has been a reliable partner for over 43 years, providing fully-fledged commercial banking operations, connecting Sri Lanka to Asian, European and US markets.
-
-As the only European bank operating in Sri Lanka, with a dedicated team well-versed in local regulations and market trends, Deutsche Bank’s onshore presence and proven track record in frontier markets, help provide clients with seamless solutions.
-
-...
-
-[Data](articles/7f346bb5.json)
-
----
-
-### Buying interest in JKH stocks stokes CSE vibrancy
-
-*2024-02-09 20:57:00* · [`islandlk`](http://island.lk/buying-interest-in-jkh-stocks-stokes-cse-vibrancy/) · `en`
-
-The stock market was initially sluggish yesterday but latterly picked up with buying interest proving notable in JKH stocks. This resulted in moving other stocks as well, market analysts said.
-
-However, the stock market performance has not been at a satisfactory level generally due to delays in Sri Lanka’s external debt restructuring exercise and also because of the absence of any mechanisms to boost the market.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 26.6 points, while S and P SL20 rose by 10.4 points. Turnover stood at Rs 972 million with one crossing. The crossing was reported in JKH, which crossed 300,000 shares to the tune of Rs 55.6 million; its shares traded at Rs 185.25.
-
-...
-
-[Data](articles/f09bce6a.json)
 
 ---
 
@@ -2003,5 +1957,57 @@ The Rajya Osu Sala (SPC) at Union Place, Colombo, was closed today, with the emp
 [Data](articles/921a2024.json)
 
 [Extended Data](ext_articles/921a2024.ext.json)
+
+---
+
+### To Afghanistan to advantage
+
+*2024-02-09 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193170) · `si`
+
+The first one-day match between the Afghan group and the Sri Lankan team will be held today (09).
+
+The Afghan group won the advantage of the coin, and they decided first bowler.
+
+◼️
+
+[Data](articles/07fd0643.json)
+
+[Extended Data](ext_articles/07fd0643.ext.json)
+
+---
+
+### Asthma on the rise among children, parents urged to exercise caution
+
+*2024-02-09 14:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Asthma-on-the-rise-among-children-parents-urged-to-exercise-caution/155-276672) · `en`
+
+Colombo, Feb 9 (Daily Mirror) - Health experts in Sri Lanka have sounded the alarm over a noticeable uptick in asthma cases among children, sparking concerns among parents.
+
+Dr. Deepal Perera, a Paediatrician at the Lady Ridgeway Children's Hospital in Colombo, attributed this concerning surge to the prevailing extreme heat.
+
+"As schools gear up for sports meets, where children engage in numerous outdoor activities amidst the scorching weather, they become more vulnerable to asthma triggers," Dr. Perera warned, urging parents to remain vigilant about their children's health.
+
+Furthermore, Dr. Perera emphasized the importance of keeping children away from smoking areas, as exposure to smoke can exacerbate respiratory complications, particularly in those with asthma.
+
+"Common symptoms of childhood asthma include shortness of breath, difficulty in breathing and persistent coughing," he cautioned
+
+◼️
+
+[Data](articles/3620b3aa.json)
+
+[Extended Data](ext_articles/3620b3aa.ext.json)
+
+---
+
+### Protect standards of medical education...
+
+*2024-02-09 14:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protect-standards-of-medical-education/110-276673) · `en`
+
+The Medical Faculty Students' Action Committee staged a protest outside the Sri Lanka Medical Council (SLMC) urging the authorities to ensure the standards of the medical education in Sri Lanka. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/7c4959a5.json)
+
+[Extended Data](ext_articles/7c4959a5.ext.json)
 
 ---

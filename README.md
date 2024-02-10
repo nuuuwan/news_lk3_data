@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 12:33:05**
+As of **2024-02-10 12:48:24**
 
 ## Newspaper Stats
 
-*Scraped **6,111** Articles*
+*Scraped **6,112** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,57 +20,77 @@ tamilmirrorlk | 739
 adaderanalk | 756
 virakesarilk | 763
 adaderanasinhalalk | 821
-dailymirrorlk | 882
+dailymirrorlk | 883
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,109 (100.0%) of 6,111 articles have been extended.
+6,111 (100.0%) of 6,112 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
 
-### ‘யுக்திய’ நடவடிக்கை : மேலும் 663 சந்தேக நபர்கள் கைது
+### Namal Rajapaksa holds talks with Yogi Adityanath
+
+*2024-02-10 12:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Namal-Rajapaksa-holds-talks-with-Yogi-Adityanath/108-276735) · `en`
+
+India, Feb 10 -  SLPP MP Namal Rajapaksa who is presently in India on a two-day visit held discussions with BJP member and Chief Minister of Uttar Pradesh, Yogi Adityanath and several senior Indian officials.
+
+Namal is presently in India on a two-day private visit to Uttar Pradesh to attend a pooja in the Ayodhya Ram Temple.
+
+◼️
+
+[Data](articles/cb814aae.json)
+
+---
+
+### 663 suspects arrested
 
 *2024-02-10 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/176031) · `ta`
 
-யுக்திய நடவடிக்கையின் கீழ் கடந்த 24 மணித்தியாலங்களில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் 663 சந்தேக  நபர்கள்  கைது செய்யப்பட்டுள்ளதாகப் பொதுமக்கள் பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+The Ministry of Public Security has said that 663 suspects have been arrested in the last 24 hours under the strategy.
 
-கைது செய்யப்பட்டவர்களில் போதைப்பொருள் தொடர்பான குற்றச்சாட்டின் கீழ்  547 பேரும்,  தேடப்படும் குற்றவாளிகள் பட்டியலில் இருந்த 116 பேரும் அடங்குவர்.
+The arrested include 547 people on drug charges and 116 on the list of criminals.
 
-கைது செய்யப்பட்டவர்களில் 02 பேருக்கு எதிராக தடுப்புக் காவல் உத்தரவு பெற நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+Steps have been taken to obtain a detention order against two of the arrested persons.
 
-போதைப்பொருளுக்கு அடிமையான 02 பேர் புனர்வாழ்வு நிலையத்திற்கு அனுப்பி வைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+Steps have been taken to send two drug addicts to the rehabilitation center.
 
-போதைப்பொருள் தொடர்பான குற்றங்களுக்காக சந்தேக நபர்களில் 14 பேருக்கு எதிராக பிடியாணை பிறப்பிக்கப்பட்டுள்ளதாகவும்,  மேலும் 95 பேருக்கு எதிராக போதைப்பொருள் அல்லாத குற்றங்களுக்காக திறந்த பிடியாணை பிறப்பிக்கப்பட்டுள்ளதாகவும் அமைச்சு குறிப்பிட்டுள்ளது.
+The Ministry said that 14 of the suspects have been issued against drug offenses and 95 others have been issued for non -narcotics crimes.
 
-இதன்போது 175 கிராம் ஹெரோயின் போதைப்பொருள், 197 கிராம் ஐஸ் போதைபொருள் , 515 கிராம் 538 மில்லி கிராம் கஞ்சா , 807 கஞ்சா செடிகள் என்பன கைப்பற்றப்பட்டுள்ளன.
+During this time, 175 grams of heroin, 197 grams of ice, 515 grams of cannabis and 807 ganja plants were seized.
 
 ◼️
 
 [Data](articles/f318690f.json)
 
+[Extended Data](ext_articles/f318690f.ext.json)
+
 ---
 
-### காசாயுத்தத்திற்கு ஆதரவளிப்பது என்ற அமெரிக்காவின் முடிவினால்  இந்து சமுத்திரத்தில் அதன் செல்வாக்கிற்கு பாதிப்பு – ஜனாதிபதி கருத்து
+### US decision to support the Gazette is affected by its influence in the Indian Ocean
 
 *2024-02-10 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/176029) · `ta`
 
-காசா யுத்தத்திற்கு ஆதரவளிப்பது என்ற அமெரிக்காவின் முடிவினால்  இந்து சமுத்திரத்தில் அமெரிக்காவின் செல்வாக்கு பாதிக்கப்படும் என ஜனாதிபதி ரணில்விக்கிரமசிங்க தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe has said that the US's decision to support the Gaza War will affect the US's influence in the Indian Ocean.
 
-பிராந்தியத்தில் உள்ள இஸ்லாமிய நாடுகளின் எதிர்ப்பின் காரணமாக இந்து சமுத்திரத்தில் அந்த நாடுகள் அமெரிக்காவுடன் நெருக்கமான உறவினை ஏற்படுத்துவது பாதிக்கப்படலாம் என ஜனாதிபதி தெரிவித்துள்ளார்.
+The President said that the opposition of Islamic countries in the region could be affected by the establishment of close ties with the United States in the Indian Ocean.
 
-சீன ரஸ்ய ஈரானிய மூலோபாயங்கள் அமெரிக்காவின் ஆதிக்கத்தினை மிகச்சரியான தாக்குகின்றன அமெரிக்காவை மேலும் பலவீனமாக்குகின்றன எனவும ரணில்விக்கிரமசிங்க தெரிவித்துள்ளார்.
+Ranil Wickremesinghe has said that the Chinese Russian Iranian strategies are further weakening the United States.
 
-இந்துசமுத்திரத்தில் ஸ்திரதன்மை நிலவவேண்டும் என்றால் காசா யுத்தம் கூடிய விரைவில் முடிவிற்கு வரவேண்டும் அதன் பின்னர் ஐந்து வருடங்களிற்குள் சுதந்திர பாலஸ்தீனம் உருவாகவேண்டும் இஸ்ரேலின் பாதுகாப்பு உறுதிப்படுத்தப்படவேண்டும் எனவும் ஜனாதிபதி தெரிவித்துள்ளார்.
+The President said that if there was stability in the Hindu, the Gaza War should come to an end as soon as possible, and within five years of independent Palestine should be ensured.
 
-அவுஸ்திரேலியாவின் பேர்த்தில் இடம்பெறுகின்ற ஏழாவது இந்து சமுத்திர மாநாட்டில் ஜனாதிபதி இதனை தெரிவித்துள்ளார்.
+The President made this statement at the Seventh Indian Ocean Conference held in Australia.
+
+Ukraine War and its post -Western obstacles have helped to find new markets in China and Western Indian Ocean. For example, Russia's crude oil bay oil refinery is being purified.The President has said that Russia is engaged in maritime rehearsals with Hindus, such as Myanmar, South Africa.
 
 ...
 
 [Data](articles/3f526717.json)
+
+[Extended Data](ext_articles/3f526717.ext.json)
 
 ---
 
@@ -1967,31 +1987,5 @@ As much as we are living, so also will we die. Much is said (and written) about 
 [Data](articles/22db022d.json)
 
 [Extended Data](ext_articles/22db022d.ext.json)
-
----
-
-### Asia is unstable to the end of the Middle East
-
-*2024-02-09 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193187) · `si`
-
-President Ranil Wickremesinghe says that militaryization of militarization is on the rise in the power of the world's powerful states.
-
-The President further stated that the 7th Indians found in Perth in Parath, the President said that the war was essential to establish the war in Gaza.
-
-The 7th Indians' Summit commenced today in Perth, Australia.
-
-Sri Lankan President Ranil Wickremesinghe, Indian Foreign Minister Dr. S. S. S. S. S. S. S. S. S. S. SJ Signs, Australian External Affairs Minister Pita Wong and Singapore Foreign Minister Vivian Balakrishnan participation.
-
-President Ranil Wickremesinghe was warmly welcomed by Australian External Affairs Minister Pitha Vong.
-
-Addressing his keynote address, President Ranil Wickremesinghe further pointed out that a wide zone plan needed to solve the decisive problems in the Indian Ocean.
-
-The President pointed out that only the leaders of the Union of India (IORA) in the Indian Ocean Regional Based on the Indian Ocean Regional Language.
-
-...
-
-[Data](articles/4961a843.json)
-
-[Extended Data](ext_articles/4961a843.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 19:02:29**
+As of **2024-02-10 19:17:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 895
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,153 (99.9%) of 6,157 articles have been extended.
+6,157 (100.0%) of 6,157 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,8 @@ Qureshi, who is also in prison facing charges in other cases, will not be releas
 
 [Data](articles/11f81cbd.json)
 
+[Extended Data](ext_articles/11f81cbd.ext.json)
+
 ---
 
 ### Hopes AKD makes positive statements on his tour and bring investors to country
@@ -74,6 +76,8 @@ It is very common to see political parties visit India every month, but this is 
 
 [Data](articles/08446dc1.json)
 
+[Extended Data](ext_articles/08446dc1.ext.json)
+
 ---
 
 ### Anura Kumara-led NPP delegation returns after India visit
@@ -93,6 +97,8 @@ The delegation also joined an observation tour of agricultural areas and agro-in
 ...
 
 [Data](articles/c3a8535f.json)
+
+[Extended Data](ext_articles/c3a8535f.ext.json)
 
 ---
 
@@ -154,23 +160,27 @@ The Atlantic Meridional Overturning Circulation (the AMOC) — of which the Gulf
 
 ---
 
-### இதுவல்ல யாழ்ப்பாணத்தின் அடையாளம் : நடந்த தவறுகளுக்கு உரியவர்கள் பொறுப்பேற்க வேண்டும் - அங்கஜன் காட்டம்
+### This is not the identity of Jaffna: Those who are responsible for the mistakes should be held - Anganan Show
 
 *2024-02-10 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/176051) · `ta`
 
-வெள்ளிக்கிழமை (09) நடைபெற்ற இசை நிகழ்ச்சி குறித்து நாடாளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதன் அவர்கள் முகநூல் பதிவு ஒன்றை பதிவிட்டுள்ளார்.
+Parliamentarian Anganan Ramanathan posted a Facebook post on Friday (09).
 
-நேற்றைய நாளில் யாழ்ப்பாணம் முற்றவெளி மைதானத்தில் நடைபெற்ற Hariharan Live in Concert and Star Night தொடர்பாக கலவையான விமர்சனங்களை இலங்கையிலும் இந்தியாவிலும் வெளிநாடுகளில் இருந்தும் அவதானிக்க முடிகிறது.
+Mixed criticism of the Hariharan Live in Concert and Star Night held at the Jaffna Idawn Ground yesterday has been observed in Sri Lanka, India and abroad.
 
-யாழ்ப்பாணத்தில் இசை நிகழ்ச்சிகள் நடாத்தப்படுவதும், அதனூடாக முதலீடுகள் கொண்டுவரப்படுவதும் வரவேற்கப்பட வேண்டியதாக இருந்தாலும், அந்நிகழ்ச்சிகளை ஏற்பாடு செய்யும்போது கவனிக்க வேண்டிய விடயங்களில் நெகிழ்ச்சித்தன்மை இருக்க கூடாது.
+Although the concerts are being held in Jaffna and the investments through which it is welcome, there should be no flexibility to look at when organizing the events.
 
-நேற்றைய நிகழ்வில் இடம்பெற்ற அசாதாரண நிலை என்பது முறையான திட்டமிடல் செய்யப்பட்டிருந்தால் கட்டுப்படுத்தக்கூடியதாகவே பலர் குறிப்பிடுகிறார்கள்.
+Many people refer to the unusual state of the event that the abnormal condition at yesterday's event is controlled if proper planning is done.
 
-நிகழ்ச்சி குறித்த அறிவிப்புகள், நுழைவுச்சீட்டுகளினால் ஏற்பட்ட குழப்பங்கள், பங்கேற்கும் கலைஞர்களில் இறுதி நேரத்தில் செய்யப்பட்ட மாற்றங்கள், மைதான ஏற்பாடுகள், பாதுகாப்பு சார் குறைபாடுகள் என பல்வேறு சர்ச்சைகள் நேற்றைய குழப்பத்தின் காரணிகளாக சுட்டிக்காட்டப்படுகின்றன.
+Various controversies, such as the announcements of the show, the chaos caused by the tickets, the events made at the end of the event, the grounds, and the security defects are indicated as factors of yesterday's confusion.
+
+On the other hand, some people also criticize people who have visited the event.. It is a systematic politics to turn the errors of some of them on the entire Jaffna people.
 
 ...
 
 [Data](articles/8ad5d318.json)
+
+[Extended Data](ext_articles/8ad5d318.ext.json)
 
 ---
 

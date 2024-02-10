@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 08:33:07**
+As of **2024-02-10 08:50:25**
 
 ## Newspaper Stats
 
-*Scraped **6,072** Articles*
+*Scraped **6,075** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ dailyftlk | 342
 newsfirstlk | 363
 adalk | 505
 tamilmirrorlk | 737
-adaderanalk | 748
+adaderanalk | 750
 virakesarilk | 754
 adaderanasinhalalk | 814
-dailymirrorlk | 872
+dailymirrorlk | 873
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,072 (100.0%) of 6,072 articles have been extended.
+6,075 (100.0%) of 6,075 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### Pakistan election: Imran Khan and Nawaz Sharif each claim advantage
+
+*2024-02-10 08:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97156/pakistan-election-imran-khan-and-nawaz-sharif-each-claim-advantage) · `en`
+
+The jailed former Pakistani prime minister Imran Khan has claimed victory in Thursday’s general election and called on his supporters to celebrate.
+
+Independent candidates linked to him have won most seats so far, with the majority of seats declared.
+
+But another ex-PM, Nawaz Sharif, says his party has emerged the largest and urges others to join him in coalition.
+
+No group or party appears on course to win an overall majority. The final results are yet to be announced.
+
+In a staunch video message posted on X created using AI, Mr Khan claimed his Pakistan Tehreek-e-Insaf (PTI) party had won a “landslide victory” despite what he has called a crackdown on his party.
+
+He is currently in jail having been convicted in cases he says are politically motivated.
+
+The success of the PTI-linked candidates was unexpected, with most experts agreeing that Mr Sharif - believed to be backed by the country’s powerful military - was the clear favourite.
+
+...
+
+[Data](articles/a23438da.json)
+
+[Extended Data](ext_articles/a23438da.ext.json)
+
+---
+
+### Fair weather today
+
+*2024-02-10 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fair-weather-today/108-276728) · `en`
+
+Colombo, Feb 10 (Daily Mirror) - The National Meteorological Centre Forecasting Division today said that fair weather will prevail over the island.
+
+However, they said misty conditions could be expected at some places in the Central, Sabaragamuwa and Western Provinces and in the Galle and Matara districts during the morning.
+
+◼️
+
+[Data](articles/f4ff3f16.json)
+
+[Extended Data](ext_articles/f4ff3f16.ext.json)
+
+---
 
 ### Imran Khan says he won
 
@@ -57,6 +99,24 @@ Addressing supporters outside Lahore, he demanded joining a coalition government
 [Data](articles/d4206322.json)
 
 [Extended Data](ext_articles/d4206322.ext.json)
+
+---
+
+### Water supply suspended for 15 hours in parts of Colombo today
+
+*2024-02-10 07:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97155/water-supply-suspended-for-15-hours-in-parts-of-colombo-today) · `en`
+
+The water supply for parts of Colombo will be suspended this evening (Feb.10) for a period of 15 hours, the National Water Supply & Drainage Board (NWSDB) says.
+
+Water cut will be in place from 5:00 p.m. today until 08:00 a.m. tomorrow (Feb.11).
+
+According to the NWSDB, Colombo 11, 12, 13, 14 and 15 areas are supposed to be affected by the water cut, which is being imposed due to essential maintenance work planned under the Ambatale Water Supply System Improvements and Energy Saving Project.
+
+◼️
+
+[Data](articles/ce59fa89.json)
+
+[Extended Data](ext_articles/ce59fa89.ext.json)
 
 ---
 
@@ -1913,75 +1973,5 @@ Accordingly, members have been selected to serve in the Ministerial Consultative
 [Data](articles/08142079.json)
 
 [Extended Data](ext_articles/08142079.ext.json)
-
----
-
-### Second arrests with firearm used by five-man murder
-
-*2024-02-09 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193177) · `si`
-
-බෙලිඅත්ත පංච පුද්ගල ඝාතනයට යොදාගත් බවට සැක කෙරෙන ටී 56 වර්ගයේ ගිනිඅවියක් සමග පුද්ගලයෙකු කොළඹ අපරාධ කොට්ඨාසය මඟින් අත්අඩංගුවට ගෙන තිබේ.
-
-The police said that Kosgoda Sujee was a close associate of Kosgoda, who was the murder of the suspect, police said.
-
-Police have found 32 magazines and 32 live ammunition with the suspect.
-
-It has been revealed that Kosgoda Sujee has been granted by Kosgoda Sujee in the investigation of the suspect.
-
-It has been revealed that the suspect had fled the Sri Lanka Lability forces in 2008.
-
-Police say that the suspect is tightened to drugs.
-
-Kosgoda Suga have been used to uncover the crimes committed and used by the suspect's murder and organized criminal activities in relation to the murder and organized criminal activities.72 hours under the Prevention of Terrorism Act will be detained under the Prevention of Terrorism Act.
-
-Meanwhile, police have recovered a car in Dummalasuriya, which is said to have been transported to the Murder of Beliatta.
-
-...
-
-[Data](articles/2379ea33.json)
-
-[Extended Data](ext_articles/2379ea33.ext.json)
-
----
-
-### CAA cracks down on bakery owners for underweight bread sales
-
-*2024-02-09 16:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CAA-cracks-down-on-bakery-owners-for-underweight-bread-sales/108-276678) · `en`
-
-Colombo, Feb 09 - (Daily Mirror) -  The Consumer Affairs Authority (CAA) has taken action against 232 bakery and shop owners for violating regulations by selling underweight loaves of bread and neglecting to display prices.
-
-This move follows the publication of an Extraordinary Gazette on February 2, which outlined standard weights for bread products.
-
-According to the gazette, a loaf of bread should weigh 450g with a permissible deficiency of 13.5g, while a half loaf should weigh 225g with a 9g allowance for deficiency. It explicitly stated that all bread products must adhere to these standards during manufacturing, packaging, storage and sale, whether at the retail or wholesale level.
-
-Furthermore, the gazette mandated that traders prominently display the weight of bread offered for sale to ensure transparency and compliance with consumer protection laws.
-
-Following the publication of the gazette, the CAA initiated extensive island-wide raids to identify vendors flouting the regulations.
-
-◼️
-
-[Data](articles/654973b6.json)
-
-[Extended Data](ext_articles/654973b6.ext.json)
-
----
-
-### What are the dangers facing the Indian Ocean?Singapore Foreign Minister comments pointing to Red Sea attacks
-
-*2024-02-09 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175983) · `ta`
-
-Singapore's Foreign Minister Vivian Balakrishnan has said that the Indian Ocean Region is facing economic weaknesses due to many reasons, including the dangerous situation in the Red Sea.
-
-Singapore's Foreign Minister said the recent attacks on the Red Sea have revealed the danger of the major seas and the danger of oil and shipping containers in Hinduism.
-
-The Minister said that the impact of Hindusamutran on the main paths, especially in the Red Sea Horms Strait, would have a major impact on the economy of Singapore, the world's major trade center.
-
-Pointing to the legal and economic importance of the Independence Travel, the Singapore Minister also emphasized the need to allow ships to be sailed without rent.
-
-◼️
-
-[Data](articles/b970f3a2.json)
-
-[Extended Data](ext_articles/b970f3a2.ext.json)
 
 ---

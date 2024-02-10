@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 00:33:08**
+As of **2024-02-11 00:47:22**
 
 ## Newspaper Stats
 
@@ -26,49 +26,55 @@ dailymirrorlk | 906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,187 (99.9%) of 6,191 articles have been extended.
+6,191 (100.0%) of 6,191 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
 
-### காணி தகராறில் ஒருவர் சுட்டுக்கொலை
+### One person shot dead in a land dispute
 
 *2024-02-10 23:36:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணி-தகராறில்-ஒருவர்-சுட்டுக்கொலை/175-332988) · `ta`
 
-புத்தளம் - மஹகும்புக்கடவல, செம்புகுளிய பிரதேசத்தில் இன்று (10) பிற்பகல் இடம்பெற்ற   துப்பாக்கிச் சூட்டில் ஒருவர் உயிரிழந்துள்ளார்.
+One person was killed in a shooting that took place this afternoon in the Puttalam - Mahakumbukkadavala, Chembukuliya area.
 
-சம்பவத்தில் காயமடைந்த நபர் புத்தளம் வைத்தியசாலையில் அனுமதிக்கப்பட்டு பின்னர் மேலதிக சிகிச்சைகளுக்காக கொழும்பு தேசிய வைத்தியசாலைக்கு மாற்றப்பட்டிருந்த நிலையில், சிகிச்சை பலனின்றி உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+The injured person was admitted to the Puttalam Hospital and later transferred to the Colombo National Hospital for further treatment, police said.
 
-காணி தகராறு காரணமாக துப்பாக்கிச் சூடு நடத்தப்பட்டுள்ளதாகவும், சம்பவம் தொடர்பில் சந்தேக நபர் கைது செய்யப்பட்டுள்ளதாகவும் பொலிஸார் குறிப்பிட்டனர். R
+Police said the shooting was carried out due to a land dispute and the suspect was arrested in connection with the incident.. Remble
 
 ◼️
 
 [Data](articles/a602ef41.json)
 
+[Extended Data](ext_articles/a602ef41.ext.json)
+
 ---
 
-### 35 வருடங்களுக்குப் பின் கைதாகிய மரண தண்டனை கைதி
+### 35 years later
 
 *2024-02-10 23:33:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/35-வருடங்களுக்குப்-பின்-கைதாகிய-மரண-தண்டனை-கைதி/175-332987) · `ta`
 
-கொலையொன்றைச் செய்து விட்டு மரண தண்டனை விதிக்கப்பட்ட நிலையில் 35 வருடங்களாக தலைமறைவாக இருந்த பெண்ணொருவர் கைது செய்யப்பட்டுள்ளார்.
+A woman who has been in hiding for 35 years has been arrested after being sentenced to death.
 
-குற்றப் புலனாய்வுத் திணைக்களத்தின் படுகொலை மற்றும் ஒழுங்கமைக்கப்பட்ட குற்றப் புலனாய்வுப் பிரிவினரால் இவர் கைது செய்யப்பட்டுள்ளார்.
+He has been arrested by the Criminal Investigation Department's assassination and organized Criminal Investigation Division.
 
-1989 ஆம் ஆண்டு அத்துருகிரிய வெல்லவ பிரதேசத்தில் இலங்கை மின்சார சபை தர பரிசோதகர் ஒருவர் படுகொலை செய்யப்பட்டமை தொடர்பில் முன்னெடுக்கப்பட்ட விசாரணைகளில்,
+Investigations carried out on the assassination of a Ceylon Electricity Board (CEB) in 1989 in the Athurugiriya Wellawa area.
 
-30 வயது மதிக்கத்தக்க பெண் மின்சார சபையில் ஆங்கில தட்டச்சராக பணியாற்றி வந்ததும், கொலை செய்யப்பட்ட நபருடன் தவறான தொடர்பு வைத்திருந்ததும் தெரியவந்தது.
+It was revealed that the 30 -year -old woman was working as an English typewriter at the Electricity Board and had a misunderstanding with the murdered man.
 
-1989 ஆம் ஆண்டு ஒரு குறிப்பிட்ட நாளில், இது தொடர்பான உறவு தனது கணவருக்குத் தெரியவந்ததையடுத்து, அந்த பெண் தனது கள்ளக்காதலரை அத்துருகிரிய, வெல்லவயில் உள்ள தனது வீட்டிற்கு அழைத்துள்ளார்.
+On a particular day in 1989, the woman was informed of her husband, and the woman brought her to her home in Athurugiriya, Wellawa.
 
-அங்கு கணவருடன் சேர்ந்து கள்ளக்காதலரை துண்டு துண்டுகளாக வெட்டி கொலை செய்து பீப்பாயிலிட்டு கிணற்றில் போட்டதாக பொலிஸார் தெரிவித்தனர்.
+The police said that they along with her husband and killing the counterfeiter into pieces and putting it in the well.
 
-இதனையடுத்து, கணவன்-மனைவி இருவரும் 6 மாதங்கள் விளக்கமறியலில் வைக்கப்பட்டு பின்னர் பிணையில் விடுவிக்கப்பட்டனர்.
+Subsequently, both husband and wife were kept in interrogation for six months and later released on bail.
+
+The couple was later sentenced to death in 2019 after an inquiry conducted without them.
 
 ...
 
 [Data](articles/206a059b.json)
+
+[Extended Data](ext_articles/206a059b.ext.json)
 
 ---
 
@@ -92,6 +98,8 @@ The Senior Adviser to the President on National Security and Chief of Presidenti
 
 [Data](articles/53e84d4b.json)
 
+[Extended Data](ext_articles/53e84d4b.ext.json)
+
 ---
 
 ### Adani Group may run three Sri Lankan airports ?
@@ -109,6 +117,8 @@ Other airports being offered are Ratmalana Airport in Colombo and Mattala Airpor
 ...
 
 [Data](articles/3b29958d.json)
+
+[Extended Data](ext_articles/3b29958d.ext.json)
 
 ---
 

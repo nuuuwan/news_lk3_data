@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 08:02:32**
+As of **2024-02-10 08:17:26**
 
 ## Newspaper Stats
 
-*Scraped **6,065** Articles*
+*Scraped **6,072** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,76 @@ adalk | 505
 tamilmirrorlk | 737
 adaderanalk | 748
 virakesarilk | 754
-adaderanasinhalalk | 807
+adaderanasinhalalk | 814
 dailymirrorlk | 872
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,062 (100.0%) of 6,065 articles have been extended.
+6,065 (99.9%) of 6,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### තමා දිනූ බව ඉම්රාන් ඛාන් කියයි
+
+*2024-02-10 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193198) · `si`
+
+සිරගත කර සිටින පාකිස්තානයේ හිටපු අගමැති ඉම්රාන් ඛාන් මහ මැතිවරණයෙන් ජයග්‍රහණය කළ බවට ඔහු විසින් ප්‍රකාශ කර තිබේ.
+
+විදෙස් වාර්තා සඳහන් කළේ, එය සමරන ලෙස ඔහු සිය ආධාරකරුවන්ගෙන් ඉල්ලා ඇති බවයි.
+
+ඉම්රාන් ඛාන් සම්බන්ධ ස්වාධීන අපේක්ෂකයින් මේ වන විට ආසන වැඩි ප්‍රමාණයක් ජයග්‍රහණය කර ඇති අතර, බහුතර ආසන සංඛ්‍යාව ප්‍රකාශයට පත් කර තිබේ.
+
+කෙසේ වෙතත් තවත් හිටපු අගමැතිවරයෙකු වන නවාස් ෂරීෆ් පවසන්නේ, තම පක්ෂය විශාලතම පක්ෂය බවට පත් ව ඇති බැවින් තමන් සමඟ සන්ධානයට එක් වන ලෙසයි.
+
+විදෙස් වාර්තා පවසන්නේ, සමස්ත බහුතරයක් දිනා ගැනීමට කිසිදු කණ්ඩායමක් හෝ පක්ෂයක් සමත් වී නොමැති බව නිකුත් කර ඇති ඡන්ද ප්‍රතිඵලවලින් නිරීක්ෂණය වන බවයි.
+
+AI භාවිතයෙන් නිර්මාණය කරන ලද X හි පළ කරන ලද වීඩියෝ පණිවිඩයක් මඟින් ඉම්රාන් ඛාන් පවසා ඇත්තේ, ඔහුගේ පකිස්තාන් ටෙහ්රීක්-ඊ-ඉන්සාෆ් පීටීඅයි පක්ෂය විශිෂ්ට ජයග්‍රහණයක් ලබා ගෙන ඇති බවයි.
+
+තමාට තනි ව රජයක් පිහිටුවීමට ආසන සංඛ්‍යාවක් නොමැති බව නවාෂ් ෂරීෆ් මහතා පිළි‍ගෙන ඇති බව විදෙස් වාර්තා සඳහන් කර ඇත.
+
+...
+
+[Data](articles/d4206322.json)
+
+---
+
+### අක්‍රීය ණය ප්‍රමාණය 13%කින් ඉහළට
+
+*2024-02-10 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193197) · `si`
+
+රටේ පවතින ආර්ථික අර්බුදය හේතුවෙන් අක්‍රීය ණය ප්‍රමාණය සියයට 13ක් දක්වා ඉහළ ගොස් ඇති බව ෂෙහාන් සේමසිංහ රාජ්‍ය අමාත්‍යවරයා පවසයි.
+
+ඔහු සඳහන් කළේ, ආර්ථික ස්ථාවරත්වය සියයට දෙකකට වඩා වැඩි ආර්ථික වර්ධනයක් මේ වසරේ දී ළඟා කර ගැනීමට අපේක්ෂා කරන බවයි.
+
+මේ අතර මෙවර අයවැයේ දී ජනාධිපතිවරයා ඉදිරිපත් කළ යෝජනාවකට අනුව වැඩි කළ පොලිස් නිලධාරීන්ගේ ආහාර, ගමන් සහ නවාතැන් දීමනාව ලබන සතියේ දී ලබා දීමට පියවර ගන්නා බව රංජිත් සියඹලාපිටිය රාජ්‍ය අමාත්‍යවරයා අවධාරණය කර තිබේ.
+
+◼️
+
+[Data](articles/e507eb84.json)
+
+---
+
+### ඇප ඉල්ලීම් දෙකක් අධිකරණයෙන් ඉවතට විසි වෙයි
+
+*2024-02-10 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193196) · `si`
+
+තමන් අත්අඩංගුවට ගැනීම වළක්වා අපේක්ෂිත ඇප ලබා දෙන ලෙස පොහොර ආනයන සමාගමක අධ්‍යක්ෂකවරුන් දෙදෙනෙකු කළ ඉල්ලීමක් කොළඹ මහෙස්ත්‍රාත් අධිකරණය ප්‍රතික්ශේප කර තිබේ.
+
+ආනයනය කරන ලද පොහොර තොගයක් ගොවීන්ට ලබා නොදී පිටස්තර පාර්ශ්වවලට අලෙවි කර රුපියල් කෝටි ගණනාවක මුල්‍ය වංචාවක් සිදු කිරීමේ චෝදනාවක් එල්ල වී ඇති පොහොර සමාගමක අධ්‍යක්ෂකවරුන් දෙදෙනෙකු මෙම ඉල්ලීම කර ඇති බව සඳහන් ය.
+
+අදාළ සිද්ධිය සම්බන්ධයෙන් විමර්ශන සිදු කර අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මූල්‍ය අපරාධ විමර්ශන අංශය තමන් ව අත්අඩංගුවට ගැනීමට සූදානම් බවට තොරතුරු ලැබී ඇති බව පෙන්වා දෙමින් මෙම අධ්‍යක්ෂවරුන් දෙදෙනා අපේක්ෂිත ඇප ඉල්ලීම සිදු කළ බව අද දෙරණ අධිකරණ වාර්තාකරු සඳහන් කළේ ය.
+
+2018 වසරේ දී පොහොර ලේකම් කාර්යාලයේ ලියාපදිංචි වී ඇති සමාඟම් හතක බැංකු වාර්තා ලබා දෙන ලෙස බැංකු ආයතන කිහිපයකට කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ප්‍රසන්න අල්විස් මහතා මීට පෙර නියෝග කර තිබිණි.
+
+...
+
+[Data](articles/bf2e757f.json)
+
+---
 
 ### Fair weather to prevail over the island today
 
@@ -50,6 +108,62 @@ The sea areas off the coasts from Galle to Pottuvil via Hambantota and the sea a
 
 [Data](articles/5ed858c9.json)
 
+[Extended Data](ext_articles/5ed858c9.ext.json)
+
+---
+
+### විදුලි සැර වැදී පුද්ගලයෙකු ජීවිතක්ෂයට
+
+*2024-02-10 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193195) · `si`
+
+පුපුරැස්ස - ලෙවලන්වත්ත ප්‍රදේශයේ නිවසක පුද්ගලයෙකු විදුලි සැර වැදී මිය ගොස් තිබේ.
+
+මිය ගොස් ඇත්තේ, 38 හැවිරිදි එම ප්‍රදේශයේ ම පදිංචි ව සිටි පුද්ගලයෙකි.
+
+මෙම පුද්ගලයාගේ නිවසේ විදුලිය විසන්ධි කර තිබී ඇති අතර, ඒ හේතුවෙන් අසල පිහිටි නිවසකින් විදුලිය ලබා ගැනීමට කටයුතු කර ඇත.
+
+එම අවස්තාවේ දී විදුලි සැර වැදී මෙම පුද්ගලයා මිය ගොස් ඇති බව පොලීසිය සිදු කළ විමර්ශනවල දී හෙළි වී තිබේ.
+
+◼️
+
+[Data](articles/ab493b70.json)
+
+---
+
+### පැය 15ක ජල කප්පාදුවක්
+
+*2024-02-10 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193194) · `si`
+
+කොළඹ ප්‍රදේශ කිහිපයකට අද පැය 15ක කාලයක් ජල සැපයුම අත්හිටුවන බව ජල සම්පාදන හා ජලාපවාහන මණ්ඩලය නිවේදනය කරයි.
+
+එම මණ්ඩලය සඳහන් කළේ, කොළඹ 11, 12, 13, 14 සහ 15 යන ප්‍රදේශවලට ජල සැපයුම අත්හිටුවන බවයි.
+
+අද (10) පස්වරු 5.00 සිට හෙට පෙරවරු 8.00 දක්වා පැය 15ක කාලයක් මෙලෙස ජල සැපයුම අත්හිටුවනු ඇත.
+
+අඹතලේ ජල පවිත්‍රාගාරයේ ජල සැපයුම වැඩිදියුණු කිරීමේ බලශක්ති සංරක්ෂණ ව්‍යාපෘතියේ සිදු කෙරෙන අත්‍යවශ්‍ය නඩත්තු කටයුත්තක් හේතුවෙන් ජල සැපයුම අත්හිටු වන බව ජල සම්පාදන හා ජලාපවාහන මණ්ඩලය සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/21186f35.json)
+
+---
+
+### රජයට ඇහුම්කන් නොදෙන මෝල් හිමියන්ට වැඩ වැරදෙයි
+
+*2024-02-10 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193193) · `si`
+
+රජය විසින් ලබා දී ඇති මිල ගණන් යටතේ වී මිල දී නොගන්නා වී මෝල් හිමියන්, වී එකතු කරන්නන් සහ වී ගබඩා අයිතිකරුවන් අසාදු ලේඛනගත කිරීමට තීරණය කල බව කෘෂිකර්ම අමාත්‍යාංශය පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එම අමාත්‍යාංශය සඳහන් කළේ, ගොවින්ගෙන් වී මිල දී ගැනීම සඳහා රජය විසින් සහන පොලී අනුපාතයක් යටතේ රාජ්‍ය හා වාණිජ බැංකු කිහිපයක් මගින් ණය මුදලක් ලබා දීමට කටයුතු යොදා ඇති බවයි.
+
+ඒ අනූව රජය අනුමත ණය මුදල් ලබාගෙන රජය විසින් නියම කර ඇති අවම මිල ගණන් යටතේ වී තොග මිල දී ගැනීමට කටයුතු නොකරන්නේ නම්, ඔවුන් අසාදු ලේඛනගත කිරීමට පියවර ගන්නා ලෙස කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා නිලධාරින්ට උපදෙස් ලබා දී තිබේ.
+
+වී මිල දී ගැනීමේ වැඩපිළිවෙළ සඳහා රුපියල් කෝටි 900ක මුදලක් සහන පොලී අනුපාතයක් යටතේ කුඩා හා මධ්‍යම ප්‍රමාණයේ සහල් මෝල් හිමියන්, වී එකතු කරන්නන් සහ වී ගබඩා අයිතිකරුවන් වෙත ලබා දීමට පියවර ගෙන ඇති බව සඳහන් ය.
+
+◼️
+
+[Data](articles/ff2749d4.json)
+
 ---
 
 ### NGOs spend billions unchecked, new law soon to monitor them
@@ -65,6 +179,20 @@ The final draft of the new law titled ‘Non-governmental Organizations (Registr
 [Data](articles/8cf7061a.json)
 
 [Extended Data](ext_articles/8cf7061a.ext.json)
+
+---
+
+### වැසි රහිත කාලගුණයක්
+
+*2024-02-10 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193192) · `si`
+
+අද (10) දිවයින පුරා ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතිනු ඇති බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+මධ්‍යම, සබරගමුව සහ බස්නාහිර පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේ දී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරෙන බව ද වාර්තා වේ.
+
+◼️
+
+[Data](articles/0d2e8c67.json)
 
 ---
 
@@ -128,6 +256,8 @@ The cumulative arrivals for January 1 to February 8 are 268,375.
 
 [Data](articles/95a877c2.json)
 
+[Extended Data](ext_articles/95a877c2.ext.json)
+
 ---
 
 ### Let us unite for the safe Indian ocean
@@ -179,6 +309,8 @@ A Prominent American academic of Sri Lankan origin, Prof. Siva Sivanathan, calle
 ...
 
 [Data](articles/133d3150.json)
+
+[Extended Data](ext_articles/133d3150.ext.json)
 
 ---
 
@@ -1831,171 +1963,5 @@ Pointing to the legal and economic importance of the Independence Travel, the Si
 [Data](articles/b970f3a2.json)
 
 [Extended Data](ext_articles/b970f3a2.ext.json)
-
----
-
-### Petition to Express Pearl is dismissed
-
-*2024-02-09 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193176) · `si`
-
-The Colombo Commercial High Court today (09) a petition filed by the fishing community demonstrated the issue of compensation for the damage caused by the Express Pearl ship.
-
-The verdict has been issued by the High Court Judge High Court Judge Pradeep Hettiarachchi.
-
-At the time of the previous case, lawyer Himali Kularatne appearing on behalf of the fishing community, Miss Navali Kularatne appearing for the fishing community, over 20,000 fishermen were precious due to the shipping accident.
-
-The court said that the case was due to the negligible and no responsibility of the company.
-
-Accordingly, the judge declared that the order today, saying that the petition would be ordered to refute it without issuing the petition.
-
-The fishing community said that the aircraft had to issue an order to pay an order to pay a compensation of US $ 1.17 billion to their community damage due to the vessel accident.
-
-◼️
-
-[Data](articles/39a44ad2.json)
-
-[Extended Data](ext_articles/39a44ad2.ext.json)
-
----
-
-### Sri Lanka stocks close up, JKH pushes turnover
-
-*2024-02-09 16:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-jkh-pushes-turnover-150543/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
-
-The broader All Share Index closed up 20.00 points, or 0.19 percent at 10,567, while the S&P SL20 Index closed up 3,026 points, up 0.39 percent, or 11.61 points.
-
-Turnover was at 792 million. John Keells Holdings Plc saw large volumes traded (182mn), and the share closed up at 185.75.
-
-Positive contributors to ASPI in the day included Sampath Bank Plc (up at 72.90), Hemas Holdings Plc (up at 74.00), and Commercial Bank of Ceylon Plc (up at 89.50).
-
-Shares of Windforce Plc which is part of a consortium that signed a power purchase agreement with the Ceylon Electricity Board (CEB) on Thursday (8), relating to the 100 MW solar power project Rividhanavi (Private) Limited in Siyambalanduwa, closed up at 19.60. The company also announced a interim dividend of Rs1 per share for the year ending 31/03/2024.
-
-There was a net foreign outflow of 45 million. (Colombo/Feb9/2024).
-
-◼️
-
-[Data](articles/7a633767.json)
-
-[Extended Data](ext_articles/7a633767.ext.json)
-
----
-
-### Lack of lost T-56 ammunition emerges
-
-*2024-02-09 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193175) · `si`
-
-The Magazi of the Army Police, which was missing, was found in the T-56 weapon.
-
-The Army Media Unit has made this statement in a statement.
-
-Army Police Army Police have found 30 T-56 ammunition at the Polhengoda Police Headawitharaka.
-
-A special search made by a special search in a special search was found in the drainage of the civilian staff with 30 bullets.
-
-Army Police and the Kirula Army Police are conducting further investigations.
-
-◼️
-
-[Data](articles/71e2a22e.json)
-
-[Extended Data](ext_articles/71e2a22e.ext.json)
-
----
-
-### Wishing Nuthages: First batsman who scored a double century on behalf of Sri Lanka in one-day event
-
-*2024-02-09 15:59:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gkp57gqw7o) · `si`
-
-Wishing Nuthages: First batsman who scored a double century on behalf of Sri Lanka in one-day event
-
-Wimal Nishonkins today (Feb. 9.) to add a new charter of cricket cricket
-
-He participated in the first batsman who scored the double century for Sri Lanka in one-day event.
-
-Dupi Nutigu Nishanickan was able to become the batsman who scored the highest scorer in one day match for Sri Lanka.
-
-Sanath Jayasuriya was the batsman who scored the highest scorers in an innings on behalf of Sri Lanka.
-
-Sanath Jayasuriya, Sanath Jayasuriya, reported 189 runs against India in the 2000, the highest number of scorers were recorded as a batsman for 24 years.
-
-Accordingly, the Wishesi Nissanka Nishonkinayake was diagnosed with this report today (Feb. 9).
-
-It was significant that Sanath Jayasuriya was situated at the Pallekele Player Auditor at the Pallekele Player.
-
-It was because of his father's influence on May 18, 1998.
-
-During his study of childhood, the school was organized by the Sunil Worth Cricket coach.
-
-...
-
-[Data](articles/69b4ac3b.json)
-
-[Extended Data](ext_articles/69b4ac3b.ext.json)
-
----
-
-### New Army Commander to Ukraine
-
-*2024-02-09 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193174) · `si`
-
-Colonel General OleksKyi has been appointed as the new army commander of Ukraine.
-
-He led the leadership of Ukraine to Ukraine since 2019.
-
-The 59-year-old New Army was led by the Ukrainian Army in battle to defeat the Russian army.
-
-◼️
-
-[Data](articles/b560099b.json)
-
-[Extended Data](ext_articles/b560099b.ext.json)
-
----
-
-### Meeting between the Maldivian National Security Forces Protection and the Commander of the Army
-
-*2024-02-09 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175974) · `ta`
-
-Lieutenant General Abdul Rahim Abdul Latif Latin, Maldivian National Security Forces Defense Chief, met Sri Lanka as a goodwill journey, and Lieutenant General Lieutenant General Vikku Lyanage ArtWe RSP ENTU ENTU ENTU ENTU ENTU ENTU ENTU ENTU ENTU ENTU ENTU ENTU ENTU ENTU ENTU ENTU ENTUDU was met on Thursday.
-
-The arrival of the army chief was welcomed at the entrance of the military headquarters and was greeted by military customs and was honored with a military parade.
-
-During the meeting of the Army Commander Lieutenant General Viqi Liyanage, the Maldivian National Security Forces security chief exchanged comments on bilateral issues of the Sri Lanka Army and the Maldivian Security Force.
-
-◼️
-
-[Data](articles/3c7378fb.json)
-
-[Extended Data](ext_articles/3c7378fb.ext.json)
-
----
-
-### Shelly-Ann Fraser-Pryce: Jamaica sprint legend to retire after Paris 2024 Olympics
-
-*2024-02-09 15:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shelly-Ann-Fraser-Pryce-Jamaica-sprint-legend-to-retire-after-Paris-2024-Olympics/108-276676) · `en`
-
-Feb. 9 (BBC) - Three-time Olympic champion Shelly-Ann Fraser-Pryce says she "owes" it to her family to retire after the 2024 Games.
-
-The 37-year-old, regarded as one of the greatest sprinters of all time, won the 100m title in 2008 and 2012.
-
-Jamaican Fraser-Pryce also won Tokyo 2020 Olympic relay gold, plus three of her 10 world titles, in a comeback after giving birth to her son in 2017.
-
-"There's not a day I'm getting up to go practise and I'm like, 'I'm over this,'" she told Essence.com, external.
-
-"My husband and I have been together since before I won in 2008. He has sacrificed for me.
-
-"We're a partnership, a team. And it's because of that support that I'm able to do the things that I have been doing for all these years. And I think I now owe it to them to do something else."
-
-She added this year's Olympics in Paris were about "showing people that you stop when you decide. I want to finish on my own terms".
-
-In total, Fraser-Pryce has won three Olympic golds, four silvers and a bronze.
-
-...
-
-[Data](articles/8eec96d5.json)
-
-[Extended Data](ext_articles/8eec96d5.ext.json)
 
 ---

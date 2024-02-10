@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 18:50:41**
+As of **2024-02-10 19:02:29**
 
 ## Newspaper Stats
 
-*Scraped **6,153** Articles*
+*Scraped **6,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,84 @@ dailyftlk | 342
 newsfirstlk | 363
 adalk | 509
 tamilmirrorlk | 744
-adaderanalk | 763
-virakesarilk | 768
+adaderanalk | 764
+virakesarilk | 769
 adaderanasinhalalk | 832
-dailymirrorlk | 893
+dailymirrorlk | 895
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,152 (100.0%) of 6,153 articles have been extended.
+6,153 (99.9%) of 6,157 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### Former PM Imran Khan gets bail In military installations attack cases
+
+*2024-02-10 18:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-PM-Imran-Khan-gets-bail-In-military-installations-attack-cases/108-276744) · `en`
+
+Islamabad, Feb 10 (India Today) - An anti-terrorism court on Saturday granted bail to jailed former Pakistan premier Imran Khan in 12 cases linked to the May 9 attacks on military installations by his supporters following his arrest in an alleged corruption case.
+
+ATC Judge Malik Ejaz Asif granted bail to Pakistan Tehreek-e-Insaf party founder Mr Khan after fulfilling a surety bond of Rs 0.1 million in all 12 cases, including the General Headquarters (Pakistan Army) and Army Museum attack.
+
+The court said there was no justification to keep Mr Khan, 71, under arrest as all accused in May 9 cases were on bail.
+
+Mr Khan will remain in jail as he is convicted in many other cases.
+
+The court's order came a day after independents backed by Mr Khan's party won nearly 100 seats in the National Assembly.
+
+Former foreign minister Shah Mahmood Qureshi was also granted bail in 13 cases in the same case.
+
+Qureshi, who is also in prison facing charges in other cases, will not be released either.
+
+...
+
+[Data](articles/11f81cbd.json)
+
+---
+
+### Hopes AKD makes positive statements on his tour and bring investors to country
+
+*2024-02-10 18:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hopes-AKD-makes-positive-statements-on-his-tour-and-bring-investors-to-country/108-276743) · `en`
+
+He hopes that National People's Power (NPP) leader Anura Kumara Dissanayake (AKD) makes positive statements regarding his visit to India and understands the need of investors in Sri Lanka, Power and Energy Minister Kanchana Wijesekera said.
+
+Addressing the media, he said that whoever had invited AKD to India, had done a good thing.
+
+"AKD might have gained a vast amount of experience over the need for investors in our country from any country in the world, including India. After experiencing the development of India's energy sectors, I don't think that AKD would get a chance to chase away the investors who are coming to the country.
+
+"AKD dressed according to the European dress code, ignoring his traditional dress. I don't think his trade unions understand how he behaves," he said.
+
+It is very common to see political parties visit India every month, but this is the first time that the Janatha Vimukthi Peramuna (JVP) is in India, he said.
+
+...
+
+[Data](articles/08446dc1.json)
+
+---
+
+### Anura Kumara-led NPP delegation returns after India visit
+
+*2024-02-10 18:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97170/anura-kumara-led-npp-delegation-returns-after-india-visit) · `en`
+
+The delegation of National People’s Power (NPP) led by Anura Kumara Dissanayake has returned to the island this evening (Feb. 10) following their 05-day official visit to India.
+
+Commenting to the media upon returning, he expressed that comprehensive details about his official visit would be made public by holding a press conference in the coming days.
+
+The Marxist-Leninist communist party delegation left for India on Monday (05) ‘on an official invitation of the Indian government’, as per a statement issued by the party.
+
+During the visit, Dissanayake met with several high-level officials and political figures in India including India’s Minister of External Affairs Dr. S. Jaishankar, India’s National Security Advisor and the Chief Minister of Gujarat Bhupendra Patel, and held discussions focused on bilateral relations between the two nations.
+
+The delegation also joined an observation tour of agricultural areas and agro-industries in Ahmedabad.
+
+...
+
+[Data](articles/c3a8535f.json)
+
+---
 
 ### Sri Lanka will not allow anything harmful to India’s security - President Ranil
 
@@ -52,21 +116,23 @@ When asked about the Sri Lankan government’s decision to not allow the visits 
 
 ---
 
-### ඉම්රාන් ඛාන් ට නඩු 12කින් ඇප
+### Imran Khan released on 12 cases
 
 *2024-02-10 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193218) · `si`
 
-බන්ධනාගාරගත ව සිටින පාකිස්තාන හිටපු අග්‍රාමාත්‍ය ඉම්රාන් ඛාන්ට නඩු කිහිපයකට අදාළව ඇප නියම වී තිබේ.
+Former Prime Minister Imran Khan has been granted bail to the Imran Khan.
 
-හිටපු අග්‍රාමාත්‍යවරයාට නඩු 12කට අදාළව ඇප නියම වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Foreign media reports that the former Prime Minister has paid to 12 cases.
 
-කෙසේවෙතත් තවත් චෝදනා කිහිපයකට වරදකරුවීම හේතුවෙන් ඔහුට තවදුරටත් බන්ධනාගාරගත ව සිටීමට සිදුවෙයි.
+However, he would have to be imprisoned as he was convicted of several other charges.
 
-ඉම්රාන් ඛාන්ට අමතරව පාකිස්තාන හිටපු විදේශ කටයුතු අමාත්‍ය ශා මහමුද් කුරේෂිට ද චෝදනා 13කට ඇප නියම කර ඇති නමුත් ඔහුට ද තවදුරටත් බන්ධනාගාරගත ව සිටීමට සිදුවන බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Former Pakistani Minister of External Affairs Stadasana, former Pakistani Minister of External Affairs and 13 accusations has been lodged with the charges.
 
 ◼️
 
 [Data](articles/23070206.json)
+
+[Extended Data](ext_articles/23070206.ext.json)
 
 ---
 
@@ -85,6 +151,26 @@ The Atlantic Meridional Overturning Circulation (the AMOC) — of which the Gulf
 [Data](articles/2431958a.json)
 
 [Extended Data](ext_articles/2431958a.ext.json)
+
+---
+
+### இதுவல்ல யாழ்ப்பாணத்தின் அடையாளம் : நடந்த தவறுகளுக்கு உரியவர்கள் பொறுப்பேற்க வேண்டும் - அங்கஜன் காட்டம்
+
+*2024-02-10 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/176051) · `ta`
+
+வெள்ளிக்கிழமை (09) நடைபெற்ற இசை நிகழ்ச்சி குறித்து நாடாளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதன் அவர்கள் முகநூல் பதிவு ஒன்றை பதிவிட்டுள்ளார்.
+
+நேற்றைய நாளில் யாழ்ப்பாணம் முற்றவெளி மைதானத்தில் நடைபெற்ற Hariharan Live in Concert and Star Night தொடர்பாக கலவையான விமர்சனங்களை இலங்கையிலும் இந்தியாவிலும் வெளிநாடுகளில் இருந்தும் அவதானிக்க முடிகிறது.
+
+யாழ்ப்பாணத்தில் இசை நிகழ்ச்சிகள் நடாத்தப்படுவதும், அதனூடாக முதலீடுகள் கொண்டுவரப்படுவதும் வரவேற்கப்பட வேண்டியதாக இருந்தாலும், அந்நிகழ்ச்சிகளை ஏற்பாடு செய்யும்போது கவனிக்க வேண்டிய விடயங்களில் நெகிழ்ச்சித்தன்மை இருக்க கூடாது.
+
+நேற்றைய நிகழ்வில் இடம்பெற்ற அசாதாரண நிலை என்பது முறையான திட்டமிடல் செய்யப்பட்டிருந்தால் கட்டுப்படுத்தக்கூடியதாகவே பலர் குறிப்பிடுகிறார்கள்.
+
+நிகழ்ச்சி குறித்த அறிவிப்புகள், நுழைவுச்சீட்டுகளினால் ஏற்பட்ட குழப்பங்கள், பங்கேற்கும் கலைஞர்களில் இறுதி நேரத்தில் செய்யப்பட்ட மாற்றங்கள், மைதான ஏற்பாடுகள், பாதுகாப்பு சார் குறைபாடுகள் என பல்வேறு சர்ச்சைகள் நேற்றைய குழப்பத்தின் காரணிகளாக சுட்டிக்காட்டப்படுகின்றன.
+
+...
+
+[Data](articles/8ad5d318.json)
 
 ---
 
@@ -1943,75 +2029,5 @@ MP Eran Wickramaratne speaking on the adjournment debate on the policy statement
 [Data](articles/2b721fed.json)
 
 [Extended Data](ext_articles/2b721fed.ext.json)
-
----
-
-### Indian Defence Ministry team visits BOI
-
-*2024-02-10 00:56:14* · [`dailyftlk`](https://www.ft.lk/news/Indian-Defence-Ministry-team-visits-BOI/56-758315) · `en`
-
-India’s Ministry of Defence Joint Secretary (Naval Systems) Rajeev Prakash together with several other members met with Board of Investment Chairman Dinesh Weerakkody and officials this week to discuss possible investment towards setting up a ship building/yard and other facilities.
-
-◼️
-
-[Data](articles/ba7b2b7d.json)
-
-[Extended Data](ext_articles/ba7b2b7d.ext.json)
-
----
-
-### Sajith presents ‘Alternative/Practical Path’ program for economic revival
-
-*2024-02-10 00:55:42* · [`dailyftlk`](https://www.ft.lk/news/Sajith-presents-Alternative-Practical-Path-program-for-economic-revival/56-758314) · `en`
-
-Says country’s citizens are seeking an alternative path and his party is presenting a 20-point proposal in response
-
-Stresses SJB is charting balanced middle ground between far-right neoliberalism and far-left socialism
-
-Emphasises that Sri Lanka has potential to achieve greater prosperity and foster innovation through implementation of these 20 policies
-
-Opposition leader Sajith Premadasa presented a 20-point ‘Alternative/Practical Path’ program for Sri Lanka’s economic revival on Thursday while joining the debate on the Government Policy Statement presented by President Ranil Wickremesinghe at the opening of the fifth session of the ninth Parliament this week.
-
-He said the country’s citizens are now seeking an alternative path and the SJB is presenting a 20-point proposal in response. Premadasa said the SJB is charting a balanced middle ground between far-right neoliberalism and far-left socialism.
-
-...
-
-[Data](articles/9ec0f63d.json)
-
-[Extended Data](ext_articles/9ec0f63d.ext.json)
-
----
-
-### JVP’s Love-Hate Relationship with India
-
-*2024-02-10 00:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/JVPs-Love-Hate-Relationship-with-India/172-276715) · `en`
-
-No doubt, India invited the NPP leaders for the current visit (a privilege that was not awarded even to the official Opposition in Parliament), on the premise that the party is going to form the next government. The outcomes of a series of opinion polls conducted by the Institute of Health Policy (IHP) since late 2022 which have not been challenged yet even by the ruling parties, indicated a rapid progress in the popularity of the NPP
-
-In case the election results and the opinion polls coincide, the NPP has to deal with India, as India has already chosen economic interests in the Trincomalee oil tank farm, Mannar wind power project, Sampur power plant, and many more which the NPP does not agree with
-
-...
-
-[Data](articles/66f9cfcd.json)
-
-[Extended Data](ext_articles/66f9cfcd.ext.json)
-
----
-
-### Darkness in the Midst of a Heatwave
-
-*2024-02-10 00:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Darkness-in-the-Midst-of-a-Heatwave/172-276714) · `en`
-
-We are in the midst of a heatwave. Temperatures are rising, the days are bright, but for the majority of our people, this is a very dark era. Dark, because they can see no way to break out of the stark poverty-stricken situation they find themselves in.
-
-Since the Covid-19 pandemic hit the country in January 2020, the numbers of people who found themselves out of employment rose to an astounding 500,000, according to figures provided by the Central Bank. Most of these individuals were temporary workers at construction sites, as well as those working on road development projects around the country.
-
-To make matters worse, the Covid-19 pandemic saw the forced return of our migrant workers; the inflow of cash from migrant workers makes up the biggest share of our foreign exchange.
-
-...
-
-[Data](articles/48857146.json)
-
-[Extended Data](ext_articles/48857146.ext.json)
 
 ---

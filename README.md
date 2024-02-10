@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 06:51:35**
+As of **2024-02-10 07:14:46**
 
 ## Newspaper Stats
 
-*Scraped **6,061** Articles*
+*Scraped **6,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ tamilmirrorlk | 737
 adaderanalk | 747
 virakesarilk | 754
 adaderanasinhalalk | 807
-dailymirrorlk | 869
+dailymirrorlk | 870
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,056 (99.9%) of 6,061 articles have been extended.
+6,061 (100.0%) of 6,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
+
+### NGOs spend billions unchecked, new law soon to monitor them
+
+*2024-02-10 06:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NGOs-spend-billions-unchecked-new-law-soon-to-monitor-them/108-276725) · `en`
+
+Colombo, Feb 10 (Daily Mirror) -  In the wake of reports that as much as over half of funds received by various NGOs are spent without any monitoring, the government is in the final stage of evolving a new law that provides for compulsory registration of all such organizations with the National NGO Secretariat, an official said.
+
+The final draft of the new law titled ‘Non-governmental Organizations (Registration and Supervision) Bill is now ready. It has now been circulated among the NGOs and individual activists for their views before being presented to the Cabinet for approval. They have been given a period of three weeks for submission of their views, if any, to be incorporated in the bill before enactment.
+
+...
+
+[Data](articles/8cf7061a.json)
+
+---
 
 ### Soul Energise signs national distribution agreement
 
@@ -43,6 +57,8 @@ Soul Energise, a recently launched innovative beverage, is a tropical adventure 
 ...
 
 [Data](articles/8a89705e.json)
+
+[Extended Data](ext_articles/8a89705e.ext.json)
 
 ---
 
@@ -64,23 +80,27 @@ A team of wildlife conservators including Range Wildlife Conservators S.S.Malind
 
 [Data](articles/26018fbc.json)
 
+[Extended Data](ext_articles/26018fbc.ext.json)
+
 ---
 
-### ’பாதுகாப்பான இந்து சமுத்திரத்திற்காக ஒன்றிணைவோம்’
+### Let us unite for the safe Indian ocean
 
 *2024-02-10 03:47:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பான-இந்து-சமுத்திரத்திற்காக-ஒன்றிணைவோம்/175-332961) · `ta`
 
-உலகின் பலமான நாடுகள் தமது தலைவிதியைத் தீர்மானிக்கும் வரை காத்திருக்காமல், தமக்கான பாதையை அமைத்துக் கொள்ளும் இயலுமை இந்து சமுத்திர வலய நாடுகளுக்கு உள்ளதென ஜனாதிபதி ரணில் விக்கிரமசிங்க வலியுறுத்தினார்.
+President Ranil Wickremesinghe stressed that the Indian Ocean Zone countries have the ability to build their path without waiting until the world's strongest countries decide their fate.
 
-இந்து சமுத்திர வலய நாடுகளின் நம்பிக்கையையும் விழிப்புணர்வையும் மேம்படுத்துவதன் மூலம் பாதுகாப்பான இந்து சமுத்திரத்தை உருவாக்க முடியும் எனவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+The President also pointed out that the secure Indian ocean can be created by improving the confidence and awareness of the Indian Ocean Zone.
 
-2050 ஆண்டளவில் இந்தியா, இந்தோநேசியா போன்ற நாடுகளின் மொத்த தேசிய உற்பத்தி 8 மடங்காக அதிகரிக்கும் என மதிப்பிடப்பட்டுள்ளது. எனவே, அதற்கான சந்தர்ப்பத்தை ஏற்படுத்தும் வகையில் நாடுகளுக்கு இடையிலான தொடர்புகளை வலுவூப்படுத்தும் உட்கட்டமைப்பு வசதிகளை மேம்படுத்த வேண்டியது அவசியமெனவும் ஜனாதிபதி தெரிவித்தார்.
+It is estimated that by 2050, the gross national production of countries such as India and Indonesia will increase 8 times. The President also said that it is necessary to improve the infrastructure that strengthen inter -country contacts to create an opportunity.
 
-அவுஸ்ரேலியா பேர்த் நகரில் நடைபெற்ற 7 ஆவது இந்து சமுத்திர மாநாட்டில் ஆற்றிய பிரதான உரையிலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத் தெரிவித்தார். (a)
+President Ranil Wickremesinghe said this in a key speech delivered at the 7th Indian Ocean Conference held in Perth, Australia.. (A)
 
 ◼️
 
 [Data](articles/e890ee1c.json)
+
+[Extended Data](ext_articles/e890ee1c.ext.json)
 
 ---
 
@@ -351,6 +371,8 @@ Commenting further, the President emphasized that the hostility of the countries
 ...
 
 [Data](articles/3137be72.json)
+
+[Extended Data](ext_articles/3137be72.ext.json)
 
 ---
 
@@ -1973,29 +1995,5 @@ The list has been sent to the Senior Superintendent of Police in charge of all s
 [Data](articles/72797a75.json)
 
 [Extended Data](ext_articles/72797a75.ext.json)
-
----
-
-### 232 vendors to be charged for selling bread below standard weight
-
-*2024-02-09 14:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97144/232-vendors-to-be-charged-for-selling-bread-below-standard-weight) · `en`
-
-The Consumer Affairs Authority (CAA) has decided to press charges against a total of 232 bakery and shop owners who sold loaves of bread with below-par weight and failed to display the prices.
-
-On February 02, the CAA published an Extraordinary Gazette stipulating a standard weight for a loaf of bread,
-
-Accordingly, the standard weight of a loaf of bread was set as 450g with an allowed deficiency of 13.5g while a standard weight of 225g with a 9g deficiency was stipulated for half a loaf of bread.
-
-The gazette mentioned noted that any type of bread manufactured, packed, stored, offered for sale, displayed for sale or sold retail or wholesale should contain the standard weight specified in the gazette extraordinary.
-
-Further, all traders have been ordered to display the weight of bread displayed for sale.
-
-After the gazette was published, the CAA launched island-wide raids in search of the vendors who fail to comply with the gazette notification.
-
-◼️
-
-[Data](articles/885bfb89.json)
-
-[Extended Data](ext_articles/885bfb89.ext.json)
 
 ---

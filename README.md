@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-10 13:17:33**
+As of **2024-02-10 13:32:58**
 
 ## Newspaper Stats
 
-*Scraped **6,112** Articles*
+*Scraped **6,114** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,60 @@ adalk | 507
 tamilmirrorlk | 739
 adaderanalk | 756
 virakesarilk | 763
-adaderanasinhalalk | 821
+adaderanasinhalalk | 823
 dailymirrorlk | 883
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,112 (100.0%) of 6,112 articles have been extended.
+6,114 (100.0%) of 6,114 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-10 (Saturday)
 
-### Namal Rajapaksa holds talks with Yogi Adityanath
+### Murder of mulleriwa
 
-*2024-02-10 12:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Namal-Rajapaksa-holds-talks-with-Yogi-Adityanath/108-276735) · `en`
+*2024-02-10 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193207) · `si`
 
-India, Feb 10 -  SLPP MP Namal Rajapaksa who is presently in India on a two-day visit held discussions with BJP member and Chief Minister of Uttar Pradesh, Yogi Adityanath and several senior Indian officials.
+A 38-year-old father of two has been murdered in the Wekanda area in Mulleriyawa.
 
-Namal is presently in India on a two-day private visit to Uttar Pradesh to attend a pooja in the Ayodhya Ram Temple.
+The murder was cut off and the murder had been committed and has not yet been revealed.
+
+It is reported that an alcohol party has held a liquor party last night.
 
 ◼️
 
-[Data](articles/cb814aae.json)
+[Data](articles/675224e8.json)
 
-[Extended Data](ext_articles/cb814aae.ext.json)
+[Extended Data](ext_articles/675224e8.ext.json)
+
+---
+
+### Atriani Group discusses on airport
+
+*2024-02-10 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193206) · `si`
+
+The Rajapakse Group has been discussed with the authorities in the country regarding the administration of 3 airports.
+
+The Hon.
+
+The Indian media states that the Rajapakse Group is currently discussing with the authorities to expand and increase the facilities at the airports.
+
+The Rajapakse Group is already conducting administrative activities of 7 airport including India, Mumbai International Airport.
+
+◼️
+
+[Data](articles/de0a555a.json)
+
+[Extended Data](ext_articles/de0a555a.ext.json)
 
 ---
 
 ### 663 suspects arrested
 
-*2024-02-10 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/176031) · `ta`
+*2024-02-10 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/176031) · `ta`
 
 The Ministry of Public Security has said that 663 suspects have been arrested in the last 24 hours under the strategy.
 
@@ -69,6 +91,22 @@ During this time, 175 grams of heroin, 197 grams of ice, 515 grams of cannabis a
 [Data](articles/f318690f.json)
 
 [Extended Data](ext_articles/f318690f.ext.json)
+
+---
+
+### Namal Rajapaksa holds talks with Yogi Adityanath
+
+*2024-02-10 12:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Namal-Rajapaksa-holds-talks-with-Yogi-Adityanath/108-276735) · `en`
+
+India, Feb 10 -  SLPP MP Namal Rajapaksa who is presently in India on a two-day visit held discussions with BJP member and Chief Minister of Uttar Pradesh, Yogi Adityanath and several senior Indian officials.
+
+Namal is presently in India on a two-day private visit to Uttar Pradesh to attend a pooja in the Ayodhya Ram Temple.
+
+◼️
+
+[Data](articles/cb814aae.json)
+
+[Extended Data](ext_articles/cb814aae.ext.json)
 
 ---
 
@@ -1955,39 +1993,5 @@ The Deputy General Manager MJ, the Deputy General Manager, Deputy General Manage
 [Data](articles/465723b7.json)
 
 [Extended Data](ext_articles/465723b7.ext.json)
-
----
-
-### Pakistan election 2024: Imran Khan-backed candidates take lead
-
-*2024-02-09 20:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pakistan-election-2024-Imran-Khan-backed-candidates-take-lead/108-276686) · `en`
-
-Pakistan, Feb 09 - With Imran Khan’s PTI-backed independent candidates taking the lead, Pakistan Muslim League-Nawaz (PML-N) chief Nawaz Sharif said that his party did not have the numbers to form the government, adding that it would have been good if they had a clear majority, Reuters reported.
-
-Ruling out any alliance with the PML-N or Bilawal Bhutto’s PPP, PTI chairman Gohar Ali Khan said that they would “form the government at the Centre and Punjab,” as per Associated Press.
-
-The counting of votes for the Pakistan general elections was underway on Friday. The polling had begun at 8.30 am (IST) on Thursday and continued till 5.30 pm, amid allegations of rigging, sporadic violence and a countrywide mobile phone shutdown.
-
-Jailed Imran Khan's party, PTI, claimed victory in the general elections while alleging that results were being delayed to rig the outcome. In a statement, the party also asked PML-N's supreme leader Nawaz Sharif, to concede defeat.
-
-...
-
-[Data](articles/f31407c5.json)
-
-[Extended Data](ext_articles/f31407c5.ext.json)
-
----
-
-### The Cost Of Dying
-
-*2024-02-09 20:16:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-cost-of-dying/) · `en`
-
-As much as we are living, so also will we die. Much is said (and written) about the “cost of living,” and rarely do we refer to the “cost of dying”. Such is considered morbid, inappropriate, insensitive, or less than genteel, or even vulgar. A mention in a recent news item, (The Daily Mirror of 7th February) under the enticing title “Death becomes costly affair for Colombo dwellers,” emboldens me to wade into taboo territory. The item states that the cost of a grave site costs a formidable Rs. 180,000/=, and Crematorium charges at a nearly unaffordable Rs. 10,000/=, (up from 1,000/=). The former on account of escalated Land Values (and the latter perhaps due to escalating prices of gas?)
-
-...
-
-[Data](articles/22db022d.json)
-
-[Extended Data](ext_articles/22db022d.ext.json)
 
 ---

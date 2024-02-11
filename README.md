@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 15:02:47**
+As of **2024-02-11 15:17:18**
 
 ## Newspaper Stats
 
-*Scraped **6,284** Articles*
+*Scraped **6,285** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 523
 tamilmirrorlk | 765
 virakesarilk | 775
 adaderanalk | 777
-adaderanasinhalalk | 861
+adaderanasinhalalk | 862
 dailymirrorlk | 916
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,284 (100.0%) of 6,284 articles have been extended.
+6,284 (100.0%) of 6,285 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,18 @@ The narcotics taken into custody during this period include 153g 665mg of heroin
 [Data](articles/1754e931.json)
 
 [Extended Data](ext_articles/1754e931.ext.json)
+
+---
+
+### කාසියේ වාසිය ශ්‍රී ලංකාවට
+
+*2024-02-11 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193249) · `si`
+
+ඇෆ්ගනිස්තානයට එරෙහිව පැවැත්වෙන දෙවන එක්දින තරගයේ කාසියේ වාසිය දිනූ ශ්‍රී ලංකාව ප්‍රථමයෙන් පන්දුවට පහරදීමට තීරණය කළේය.
+
+◼️
+
+[Data](articles/9df978a2.json)
 
 ---
 
@@ -2083,19 +2095,5 @@ A number of senior Ministers, Government Officials, Heads of Missions of Arab co
 [Data](articles/cb4474e2.json)
 
 [Extended Data](ext_articles/cb4474e2.ext.json)
-
----
-
-### Shooting in Negombo
-
-*2024-02-10 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193220) · `si`
-
-The police said that a person who traveled with a motorcycle had committed the shot by two unidentified people.
-
-◼️
-
-[Data](articles/49b2917d.json)
-
-[Extended Data](ext_articles/49b2917d.ext.json)
 
 ---

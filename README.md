@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 20:50:05**
+As of **2024-02-11 21:02:27**
 
 ## Newspaper Stats
 
-*Scraped **6,317** Articles*
+*Scraped **6,318** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 768
 virakesarilk | 777
 adaderanalk | 781
 adaderanasinhalalk | 870
-dailymirrorlk | 919
+dailymirrorlk | 920
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,317 (100.0%) of 6,317 articles have been extended.
+6,317 (100.0%) of 6,318 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### Air quality in multiple cities deteriorates
+
+*2024-02-11 19:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Air-quality-in-multiple-cities-deteriorates/108-276772) · `en`
+
+Colombo, Feb 11 (Daily Mirror) - The National Building Research Organization (NBRO) has issued a stark warning, revealing that air quality in several regions across the island has plunged to unhealthy levels.
+
+According to their latest assessment, apart from Nuwara Eliya, all other districts are grappling with unhealthy air conditions, with Colombo, Akurana in Kandy, and Jaffna registering notably high levels of pollution.
+
+Citing data from the US Air Quality Index (AQI), the NBRO highlighted eight districts—Colombo, Kilinochchi, Jaffna, Trincomalee, Badulla, Kurunegala, Kandy, and Matale—as areas where the air quality poses significant health risks.
+
+The organization cautioned that individuals with respiratory ailments, such as asthma, as well as active children and adults, are especially vulnerable and advised them to minimize outdoor activities.
+
+◼️
+
+[Data](articles/1a67bceb.json)
+
+---
 
 ### Air quality in several districts drop to unhealthy levels
 
@@ -2123,23 +2141,5 @@ The suspect has been arrested by the Katunayake airport police drug detention un
 [Data](articles/a12d5f99.json)
 
 [Extended Data](ext_articles/a12d5f99.ext.json)
-
----
-
-### The new Kelani Bridge is closed
-
-*2024-02-11 03:56:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-களனி-பாலம்-மூடப்பட்டுள்ளது/175-332990) · `ta`
-
-The new Kelani Bridge will be closed until 5 am tomorrow, police said.
-
-Due to the amendment, the bridge was closed from 9 pm yesterday, police said.
-
-However, it has been announced that it can travel from Colombo to Katunayake and from Katunayake to Colombo.
-
-◼️
-
-[Data](articles/f04e7d21.json)
-
-[Extended Data](ext_articles/f04e7d21.ext.json)
 
 ---

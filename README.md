@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 09:33:17**
+As of **2024-02-11 09:51:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 908
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,234 (99.8%) of 6,244 articles have been extended.
+6,244 (100.0%) of 6,244 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -70,29 +70,35 @@ Orban has for years campaigned to protect children from what he has described as
 
 [Data](articles/b27f77da.json)
 
+[Extended Data](ext_articles/b27f77da.ext.json)
+
 ---
 
-### தேர்தலில் வெற்றி பெற்றதாக இரண்டு முன்னாள் பிரதமர்களும் தெரிவிப்பு – ஐக்கியத்தை பேணுமாறு பாக்கிஸ்தான் இராணுவதளபதி அழைப்பு
+### Two former prime ministers say that they won the election
 
 *2024-02-11 08:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176068) · `ta`
 
-பாக்கிஸ்தான் தேர்தலில் வெற்றிபெற்றுள்ளதாக இரண்டு முன்னாள் பிரதமர்களும் உரிமை கோரி வரும் நிலையில் ஐக்கியத்தை பேணுமாறு பாக்கிஸ்தானின் இராணுவதளபதி வேண்டுகோள் விடுத்துள்ளார்
+Pakistan's military commander has appealed to the unity as the two former prime ministers claim that they have won the Pakistan election.
 
-தேர்தல்கள் முடிவுகள் வெளியாகியுள்ள நிலையில் முன்னாள் பிரதமர் இம்ரான்கானின் கட்சியுடன் இணைந்து போட்டியிட்ட சுயேட்ச்சைகள் அதிகளவு ஆசனங்களை கைப்பற்றியுள்ளனர்.
+With the results of the election, the independence of former Prime Minister Imran Khan's party has won more seats.
 
-எனினும் இராணுவத்தின் ஆதரவுள்ளதாக கருதப்படும் முன்னாள் பிரதமர் நவாஸ்செரீவ் தன்னுடன் இணைந்து கூட்டணியமைக்குமாறு ஏனைய கட்சிகளிற்கு வேண்டுகோள் விடுத்துள்ளார்.
+However, former Prime Minister Nawasserev, who is supposed to support the military, has appealed to other parties to form an alliance with him.
 
-தெளிவான வெற்றியாளர் இல்லாத நிலையில் அரசியல் கட்சிகள் ஐக்கியத்தையும் முதிர்ச்சியையும் வெளிப்படுத்தவேண்டும் என இராணுவதளபதி ஜெனரல் அசீம் முனிர் வேண்டுகோள் விடுத்துள்ளார்.
+Commander General Aseem Munir has appealed for political parties to express their unity and maturity in the absence of a clear winner.
 
-துருவமயப்படுத்தல் என்பது 250 மில்லியன் மக்களை கொண்ட நாட்டிற்கு பொருந்தாத விடயம் என அவர் தெரிவித்துள்ளார்.
+He said polarization is a matter of 250 million people.
 
-தேர்தல்கள் வெற்றிதோல்விக்கான போட்டியில்லை மக்களின் ஆணையை பெறுவதற்கான முயற்சி என அவர் குறிப்பிட்டுள்ளார்.
+He noted that the elections are not a contest for success.
 
-100 சுயேட்ச்சை வேட்பாளர்கள் தேர்தலில் வெற்றிபெற்றுள்ளனர் இவர்களில் 92 பேர் இம்ரான்கானின்  பிடிஐ கட்சியின் ஆதரவாளாகள் .
+100 independent candidates have won the election. Of these, 92 are the supporters of Imran Khan's PDI.
 
-...
+The leader of the PDJ, who said he was going to rule, said he would engage in demonstrations if the full results were released by Sunday.
+
+◼️
 
 [Data](articles/1b89bbcc.json)
+
+[Extended Data](ext_articles/1b89bbcc.ext.json)
 
 ---
 
@@ -111,6 +117,8 @@ During his visit, the President delivered the keynote speech at the 7th Indian O
 ◼️
 
 [Data](articles/dbc2c9d9.json)
+
+[Extended Data](ext_articles/dbc2c9d9.ext.json)
 
 ---
 
@@ -172,23 +180,25 @@ The suspect was a resloved of the 30-year-old man of the attack.
 
 ---
 
-### ஐநா மனித உரிமை ஆணையாளர் அலுவலகத்தின் ஆலோசனைகளை பின்பற்றவேண்டிய அவசியமில்லை – விஜயதாச
+### There is no need to follow the advice of the UN Human Rights Commissioner's Office - Vijayadasa
 
 *2024-02-11 08:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176067) · `ta`
 
-ஐக்கிய நாடுகள் மனித உரிமை ஆணையாளர் அலுவலகத்தின் ஆலோசனைகளை பின்பற்றவேண்டிய அவசியமில்லை என நீதியமைச்சர் விஜயதாச ராஜபக்ச தெரிவித்துள்ளார்
+Justice Minister Vijayadasa Rajapaksa has said that there is no need to follow the advice of the United Nations Human Rights Commissioner's Office
 
-சண்டே ஒப்சேவருக்கான பேட்டியொன்றின் போது  நிகழ்நிலை பாதுகாப்பு சட்டம் குறித்த ஐக்கிய நாடுகள் மனித உரிமை ஆணையாளர் அலுவலகத்தின் கருத்து குறித்து கேட்கப்பட்ட கேள்விக்கு பதிலளிக்கையில் அவர் இதனை தெரிவித்துள்ளார்.
+He was responding to a question asked by the United Nations Human Rights Commissioner's Office on the Conservation Act during an interview with the Sunday Observer.
 
-நாங்கள் ஐக்கிய நாடுகள் மனித உரிமை ஆணையாளரின் அலுவலகத்தின் ஆலோசனைகளை செவிமடுக்கவேண்டிய அவசியமில்லை அவர்களின் செயற்பாடுகளின் மூலம் சாதகமான விளைவுகள் எதுவுமில்லை அவர்களின் செயற்பாடுகள் எப்போதும் எதிர்மறையானவை என அவர் தெரிவித்துள்ளார்.
+We do not need to listen to the advice of the United Nations Human Rights Commissioner's Office, and there are no positive effects on their actions, he said.
 
-எங்களின் சிவில் சமூகத்தினர் சில சட்டங்களை மாற்றவேண்டும் என தெரிவித்துள்ளதால் நாங்கள் எங்கள் சமூகத்தினருடன் கலந்துரையாடுவோம் சர்வதேச நிபுணர்களுடன் இல்லை எனவும் அவர் தெரிவித்துள்ளார்.
+We will discuss with our community as our civil society has said that some laws should be changed, ”he said.
 
-உள்நாட்டு சமூகத்துடன் பேச்சுவார்த்தைகளை மேற்கொண்டு சில மாற்றங்களை மேற்கொள்ளப்போகின்றோம் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+He added that we are going to negotiate with the domestic community and make some changes.
 
 ◼️
 
 [Data](articles/4498e520.json)
+
+[Extended Data](ext_articles/4498e520.ext.json)
 
 ---
 
@@ -205,6 +215,8 @@ Misty conditions can be expected at some places in Western and Sabaragamuwa prov
 ◼️
 
 [Data](articles/c8c1ea39.json)
+
+[Extended Data](ext_articles/c8c1ea39.ext.json)
 
 ---
 
@@ -280,43 +292,55 @@ It has been revealed that the accident had occurred when the employees of the em
 
 ---
 
-### இந்திய விஜயம் ஏன் ? நாடு திரும்பிய பின்னர் அனுரகுமார  தெரிவித்திருப்பது என்ன?
+### Why Indian visit?What did Anuragumara say after returning to the country?
 
 *2024-02-11 07:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/176066) · `ta`
 
-இலங்கை எதிர்பார்க்கும்மாற்றங்கள் நிகழவேண்டும் என்றால் சர்வதேச சமூகத்தின் உதவி அவசியம் என ஜேவிபியின் தலைவர் அனுரகுமார திசநாயக்க தெரிவித்துள்ளார்.
+JVP leader Anuragumara Dissanayake has said that if Sri Lanka is expected, the help of the international community is essential.
 
-இந்திய விஜயத்தின் பின்னர் நாடு திரும்பியவேளை செய்தியாளர்களிற்கு கருத்து தெரிவிக்கையில் அவர் இதனை தெரிவித்துள்ளார்.
+He was speaking to reporters when he returned to the country after his visit to India.
 
-இலங்கை இனிமேலும் ஒரு தனிமைப்பட்ட நாடாக செயற்படமுடியாது என தெரிவித்துள்ள அவர் நாடு எதிர்பார்க்கும் மாற்றங்களை அடைவதற்கான சர்வதேச ஆதரவை பெறுவதே இந்த விஜயத்தின் நோக்கம் எனவும் குறிப்பிட்டுள்ளார்.
+He said that Sri Lanka could no longer act as an isolated country, and the purpose of the visit was to obtain international support for the country's expectations.
 
-பிராந்தியத்தில் மிகவேகமாக வளர்ச்சியடைந்து வரும் நாடு இந்தியா தகவல் தொழில்நுட்ப துறையில் அந்த நாடு மிகுந்த நிபுணத்துவம் கொண்டதாக காணப்படுகின்றது இலங்கை அதன் ஆதரவை பெறலாம் என அவர் தெரிவித்துள்ளார்.
+The country is growing rapidly in the region, India is very expert in the field of information technology. Sri Lanka can gain its support.
 
-76வருட பேரழிவு அரசியல் கலாச்சாரத்தை நாங்கள் நிறுத்தவேண்டும் மக்கள் பெரும் எதிர்பார்ப்பை கொண்டுள்ளனர் அந்த மாற்றத்தை ஏற்படுத்துவதற்கான விழிப்புணர்ச்சி அவர்கள் மத்தியில் தற்போது காணப்படுகின்றது எனவும் ஜேவிபியின் தலைவர் தெரிவித்துள்ளார்.
+The JVP leader said that we have to stop the 76 -year disaster political culture.
 
-...
+We need international support for our intention to make leadership and raise awareness of change in the country.
+
+◼️
 
 [Data](articles/525de45f.json)
 
+[Extended Data](ext_articles/525de45f.ext.json)
+
 ---
 
-### இஸ்ரேலிய படையினரின் தாக்குதலில் சிக்கி காப்பாற்றுமாறு தொலைபேசியில் கதறிய சிறுமி உறவினர்களுடன் சடலமாக மீட்பு : காப்பாற்ற விரைந்த செம்பிறை பணியாளர்களும் பலி
+### Recovery with relatives on telephone to save Israeli soldiers
 
 *2024-02-11 07:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176065) · `ta`
 
-கடந்த மாதம் உறவினர்களுடன் காரில் காசா நகரிலிருந்து தப்பிவெளியேறுகையில் இஸ்ரேலிய படையினரின் தாக்குதலில் சிக்குண்ட நிலையில் தன்னை காப்பாற்றுமாறு தொலைபேசியில் அலறிய ஆறு வயது சிறுமி சடலமாக மீட்கப்பட்டுள்ளார்.
+A six -year -old girl who screamed on the phone to save her as she was hit by an Israeli soldiers as he escaped from Gaza city in a car with relatives last month.
 
-ஹின்ட் ரஜாப் என்ற அந்த சிறுமி தனது உறவினர்களுடன் காரில் தப்பிவெளியேறிக்கொண்டிருக்கையில் இஸ்ரேலின் டாங்கி தாக்குதலில் அவள் பயணித்துக்கொண்டிருந்த கார் சிக்குண்டது.
+Hind Rajab, a girl, was traveling with her relatives in the car while she was traveling in Israel's tanky attack.
 
-சிறுமிக்கும் அவசரதொலைபேசி அழைப்பு பிரிவிற்கும் இடையிலான உரையாடல்கள் தாக்குதலில் சிறுமிமாத்திரம் உயிர் பிழைத்திருக்கின்றாள் என்பதை வெளிப்படுத்தியிருந்தன.
+Conversations between the girl and the emergency call unit revealed that the little girl survived the attack.
 
-ஹின்ட் ரஜாப் தனது உறவினர்களின் உடல்கள் மத்தியில் மறைந்திருந்து தன்னை காப்பாற்றுமாறு தொலைபேசி மூலம் கதறினாள்- எனினும் துப்பாக்கி பிரயோக சத்தங்களின் மத்தியில் அவளின் தொலைபேசி உரையாடல் துண்டிக்கப்பட்டது.
+Hind Rajab shouted by phone to save herself in the bodies of her relatives- however, her phone conversation was cut off among the shootings.
 
-அவர்களால் ஹின்ட் பயணம் செய்த காரை கண்டுபிடிக்க முடிந்தது,அந்த கார் சிதைவடைந்த நிலையில் காணப்பட்டது துப்பாக்கி சன்னங்கள் அதனை துளைத்திருந்தன.
+They were able to find the car that was traveling by the hind, and the car was found in a state of disintegration.
+
+They said that another vehicle nearby was completely burned.
+
+The Palestinian Red Cross has alleged that Israel has deliberately targeted an ambulance vehicle that rushed to the area where it was located.
+
+The Palestinian Red Cross Association has accused the ambulance of deliberately being attacked by Israel to send an ambulance to save the girl.
 
 ...
 
 [Data](articles/b926ab13.json)
+
+[Extended Data](ext_articles/b926ab13.ext.json)
 
 ---
 
@@ -376,6 +400,8 @@ The President left Katunayake Airport for Perth, Australia on February 8.
 
 [Data](articles/403fe1f1.json)
 
+[Extended Data](ext_articles/403fe1f1.ext.json)
+
 ---
 
 ### Government to blacklist institutions not purchasing farmers’ paddy at minimum prices
@@ -395,6 +421,8 @@ The Minister also mentioned that the government will provide an amount of Rs. 09
 ◼️
 
 [Data](articles/e3b4c1ab.json)
+
+[Extended Data](ext_articles/e3b4c1ab.ext.json)
 
 ---
 
@@ -444,19 +472,21 @@ In addition, 3914 tourists from Russia, 22,278 from Britain and 18,016 tourists 
 
 ---
 
-### ජනපති යළි එයි
+### President returns to
 
 *2024-02-11 07:03:19* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-යළි-එයි/11-408000) · `si`
 
-ඕස්ට්‍රේලියාවේ පර්ත් නුවර පැවති 07 වන ඉන්දීය සාගර සමුළුවට සහභාගී වීමට එහි ගොස් සිටි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා 02/10 දින රාත්‍රී ශ්‍රී ලංකාවට පැමිණි බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා ද සනාථ කළේය.
+President Ranil Wickremesinghe has confirmed that President Ranil Wickremesinghe arrived in Sri Lanka at night to attend the 7th Indian Ocean Conference in Perth, Australia.
 
-ජනාධිපතිවරයා සමග එහි ගොස් සිටි දූත පිරිස ද ආපසු සමග ආපසු පැමිණ තිබුණි. ඔවුන් ඕස්ට්‍රේලියාවේ පර්ත් නුවර සිට සිංගප්පූරුවේ චැංගි ගුවන් තොටුපොළ වෙත මුළින්ම පැමිණ තිබුණි. ඉන්පසුව එතැන් සිට 02/10 දින රාත්‍රී 0905 ට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 309 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+The delegation with the President had returned with back.They had come to the Changi in Parath, Australia to Changi Airport in Singapore. Subsequently, SriLankan Airlines had reached the Katunayake airport on the 309-309-owned airport.
 
-ජනාධිපතිවරයා ඉකුත් 02/08 දින ඕස්ට්‍රේලියාවේ පර්ත් නුවර බලා කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගොස් තිබුණි.
+The President had left the Katunayake airport in Australia on 02/08/08.
 
 ◼️
 
 [Data](articles/8c22cdb0.json)
+
+[Extended Data](ext_articles/8c22cdb0.ext.json)
 
 ---
 

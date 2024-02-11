@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 17:17:31**
+As of **2024-02-11 17:33:13**
 
 ## Newspaper Stats
 
-*Scraped **6,300** Articles*
+*Scraped **6,301** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 334
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 527
-tamilmirrorlk | 766
+tamilmirrorlk | 767
 virakesarilk | 775
 adaderanalk | 779
 adaderanasinhalalk | 866
@@ -26,33 +26,59 @@ dailymirrorlk | 917
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,299 (100.0%) of 6,300 articles have been extended.
+6,300 (100.0%) of 6,301 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
 
-### සැප වාහන හොරෙන් ලියාපදිංචි කළ හැටි එළියට
+### ஹரிஹரனிடம் மன்னிப்பு கோரும் யாழ்ப்பாணத்து மக்கள்
 
-*2024-02-11 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193253) · `si`
+*2024-02-11 16:49:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரிஹரனிடம்-மன்னிப்பு-கோரும்-யாழ்ப்பாணத்து-மக்கள்/175-333027) · `ta`
 
-මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ 05 දෙනෙකු ඇතුළුව 07 දෙනෙකුට එරෙහිව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසින් නඩු පවරා තිබේ.
+இலங்கையில் நடைபெற்ற இசை நிகழ்ச்சி குறித்து ஹரிஹரன் தமது கருத்துக்களை டுவிட்டர் பக்கத்தில் தெரிவித்துள்ளார்.
 
-ඒ ශ්‍රී ලංකා රේගුවේ නිෂ්කාසනය නොකළ මෝටර් රථ විශාල ප්‍රමාණයක් මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ ලියාපදිංචි කිරීම හරහා රජයට විශාල පාදුවීමක් සිදුවීම සම්බන්ධයෙනි.
+பாடகர் ஹரிஹரன் சார்பில் ‘ஸ்டார் நைட்’  என்ற விழா இலங்கையில் யாழ்ப்பனத்தில் உள்ள முற்றவெளி மைதானத்தில் நேற்று முன் தினம் பிரம்மாண்டமாக நடைபெற்றது.
 
-නිවේදනයක් නිකුත් කරමින් අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව සඳහන් කරන්නේ මෙලෙස නිෂ්කාසනය නොකළ මෝටර් රථ 400කට ආසන්න ප්‍රමාණයක් එම දෙපාර්තමේන්තුව ලියාපදිංචි කර ඇති බවට තොරතුරු ලැබී ඇති බවය.
+இந்த விழாவில் நடிகை ரம்பா தனது குடும்பத்துடன் கலந்து கொண்ட நிலையில் நடிகை தமன்னா, கலா மாஸ்டர் போன்றவர்களும் ஒரு சில சின்னத்திரை பிரபலங்களும் இந்த விழாவில் சிறப்பு விருந்தினராக கலந்து கொண்டனர்.
 
-ඉන් වාහන 156ක් පිළිබඳව නිශ්චිත තොරතුරු කොමිෂන් සභාවේ නිලධාරීන් විසින් අනාවරණය කරගෙන ඇත.
+இந்த விழாவில் விஐபிகளுக்கு இடங்கள் ஒதுக்கப்பட்டு பார்வையாளர்களுக்கு இலவசமாக அனுமதி அளிக்கப்பட்டதாக கூறப்படுகிறது. என்ட்ரி இலவசம் என்பதால் இந்த விழாவிற்கு ஏகப்பட்ட ரசிகர்கள் வந்திருக்கிறார்கள்.
 
-ඉන් බොහෝමයක් වාහන සුඛෝපභෝගී වාහන කාණ්ඩයට අයත් වන බවද අදාළ නිවේදනයේ දැක්වෙයි.
+அப்போது விஐபிக்காக ஒதுக்கப்பட்ட இடத்தில் பார்வையாளர்கள் செல்ல முயன்று இருக்கிறார்கள். இதனால் அவர்களை கட்டுப்படுத்த காவல்துறையினர் முயன்றதால் ரசிகர்களுக்கும் காவலர்களுக்கும் தள்ளுமுள்ளு ஏற்பட்டிருக்கிறது.
 
-එසේම මෙම වාහන වසර ගණනාවක් ප්‍රමාද වී ව්‍යාජ ආකාරයට මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ ලියාපදිංචි වීමෙන් එම කාලසීමාවට අදාළවද විශාල බදු මුදලක් රජයට අහිමිව ගොස් තිබේ.
-
-ඉහත වාහන අතරින් වාහන 07ක් වර්තමාන අයිතිකරුවන්ගෙන් ලබාගෙන ශ්‍රී ලංකා රේගුව වෙත භාරදෙන ලෙස අධිකරණය විසින් අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව වෙත නියෝග කර ඇත.
+இந்த தள்ளுமுள்ளில் சிலருக்கு மூச்சு திணறல் கூட ஏற்பட்டு இருந்தது. அவர்களை சிகிச்சைக்காக மருத்துவமனைக்கு அனுப்பி வைத்துள்ளனர்.
 
 ...
 
+[Data](articles/ac1ee662.json)
+
+---
+
+### How many vehicles are sneaking up
+
+*2024-02-11 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193253) · `si`
+
+Section Commission has filed a case filed by the Commission to Investigate Allegations of Bribery or Corruption.
+
+It is with a huge base of the government through the registration of the Department of Motor Traffic in Sri Lanka Customs.
+
+It is reported that the Bribery or Corruption Commission (Investigation Commission) stated that the Department of Bribery or Corruption has been reported that the Department has registered nearly 400 unexcate cars.
+
+The Commission officials have revealed about 156 vehicles.
+
+The statement states that most of them belong to the luxurious vehicle category.
+
+The government has also lost a large tax on the department of the Department of Motor Traffic.
+
+The Court has ordered the Commission to Investigate Allegations of Bribery or Corruption to submit seven vehicles from the current owners from the present owners.
+
+Accordingly, six vehicles have been taken into custody by the Commission to Investigate Allegations of Bribery or Corruption.
+
+◼️
+
 [Data](articles/915eafb4.json)
+
+[Extended Data](ext_articles/915eafb4.ext.json)
 
 ---
 
@@ -2097,27 +2123,5 @@ A program to educate community police committee members of the Panadura Division
 [Data](articles/12e44250.json)
 
 [Extended Data](ext_articles/12e44250.ext.json)
-
----
-
-### Sri Lanka’s monthly tourism revenue hits highest since February 2020
-
-*2024-02-10 21:12:00* · [`economynextcom`](https://economynext.com/sri-lankas-monthly-tourism-revenue-hits-highest-since-february-2020-150575/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s monthly tourism revenue hit a four-year high in January 2024, official provisional data showed, the highest since February 2020 with the island nation’s hospitality industry has focused on earning more foreign exchange after an unprecedented economic crisis.
-
-The tourism revenues in January recorded $341.8 million, more than doubled from a year earlier, as the arrivals have gradually picked up.
-
-The island nation, populour for nature tourism as a lower cost, last saw above the January tourism revenue in February 2020 with an inflow of $391.1 million, the central bank data showed.
-
-However, COVID pandemic followed by the economic crisis hit the industry and forced foreign visitors to choose other tourist destination.
-
-The tourism revenue numbers are based on a survey conducted by the tourism promotion office and released by the central bank. In the past, the central bank has reduced the revenue figures sharply with more accurate data.
-
-...
-
-[Data](articles/aa39a178.json)
-
-[Extended Data](ext_articles/aa39a178.ext.json)
 
 ---

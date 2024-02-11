@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 19:02:28**
+As of **2024-02-11 19:17:19**
 
 ## Newspaper Stats
 
-*Scraped **6,314** Articles*
+*Scraped **6,315** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,84 @@ adalk | 530
 tamilmirrorlk | 768
 virakesarilk | 777
 adaderanalk | 780
-adaderanasinhalalk | 869
+adaderanasinhalalk | 870
 dailymirrorlk | 919
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,313 (100.0%) of 6,314 articles have been extended.
+6,314 (100.0%) of 6,315 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
 
-### கயிறு கழுத்தில் இறுகி சிறுவன் உயிரிழப்பு : நுவரெலியாவில் சோகம்
+### රෙදි පටියකට ගෙල සිරවී පාසල් සිසුවෙකු මරුට
+
+*2024-02-11 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193257) · `si`
+
+ගසක බැඳ තිබූ රෙදි පටියක ගෙල සිරවීමෙන් වයස අවුරුදු 12ක පාසල් සිසුවෙකු අවාසනාවන්ත ලෙස මියගොස් තිබේ.
+
+සිය නිවස අසළ පිහිටි ගසක රෙදි කැබැල්ලක් බැඳ මෙම දරුවා සෙල්ලම් කරමින් සිට ඇති අතර දරුවාගේ ගෙල අවාසනාවන්ත ලෙස එහි පැටලී ඇති බවට පොලීසිය සැකපළ කරයි.
+
+දරුවා නිවස තුළට පැමිණීමට ප්‍රමාද වීම හේතුවෙන් කළ සෝදිසි කිරීමකදී දරුවාගේ සිරුර ගසෙහි එල්ලෙමින් තිබියදී සොයාගෙන තිබේ.
+
+දරුවාගේ පියා මීට වසර කිහිපයකට පෙර රෝගී තත්ත්වයක් හේතුවෙන් මියගොස් ඇති අතර එම දරුවාට වැඩිමල් සොහොයුරියන් දෙදෙනෙක් සිටී.
+
+ඔවුන් සිය මව සමග එම නිවසේ වාසය කර ඇති අතර අද පස්වරු 1ට පමණ දරුවා සුපුරුදු පරිදි සෙල්ලම් කිරීම සඳහා නිවසින් පිටතට ගොස් ඇති අතර එහිදී මෙම අනතුර සිදුව ඇති බව වාර්තාවෙයි.
+
+◼️
+
+[Data](articles/c8731830.json)
+
+---
+
+### Boy death on rope neck: tragedy in Nuwara Eliya
 
 *2024-02-11 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176122) · `ta`
 
-தனிவீட்டில் வசித்த பாடசாலை சிறுவன் ஒருவர் வீட்டுக்கு அருகில் தேயிலைத் தோட்டத்தில் சவுக்கு மரத்தில் கயிறு கட்டி விளையாடிக் கொண்டிருந்த போது கயிறு கழுத்தில் இறுகிய நிலையில் உயிரிழந்த சம்பவம் நுவரெலியா பொலிஸ் பிரிவுக்குட்பட்ட மாகஸ்தோட்ட பகுதியில் ஞாயிற்றுக்கிழமை பகல் 01 மணியளவில் இடம்பெற்றுள்ளது.
+A school boy who lived in a separate house was killed when a rope was tightened while playing a rope in a tea plantation near the house.
 
-இந்த சம்பவத்தில் சிறுவன் சம்பவ இடத்திலேயே உயிரிழந்துள்ளதாக அடையாளம் காணப்பட்டுள்ளதாக நுவரெலியா குற்றப்புலனாய்வு பொலிஸார் தெரிவித்தனர்.
+Nuwara Eliya Criminal Investigation Police said the boy had died on the spot.
 
-நுவரெலியா மாகாஸ்தோட்ட பகுதியில் தனிவீட்டில் தாய் மற்றும் இரு பெண் பிள்ளைகள் ஆண் பிள்ளை ஒருவருடன் நால்வர் வசித்து வருகின்றனர்.
+Mother and two female children live with a male child in the Nuwara Eliya Magastota area.
 
-தனது கணவன் இறந்து ஐந்து வருடங்கள் ஆகிய பின் தாய் பிள்ளைகளைப் படிக்கவைத்து வாழ்ந்து வரும் நிலையில் மூத்த மகள் பல்கலைக்கழக படிப்புக்குச் சென்ற பின் வீட்டில் சிறிய மகள் தாய் மற்றும் சம்பவத்தில் உயிரிழந்த சிறுவன் என மூவர் வசித்து வந்துள்ளனர்.
+The eldest daughter has lived in the house after her husband's death and the boy who died in the incident after she went to the university after she was living in the mother -in -law for five years after her husband died.
 
-இந்த நிலையில் வழமைபோல சிறுவன் உயிர் பிரிந்த இடத்தில் சவுக்கு மரம் ஒன்றில் கயிறு கட்டி விளையாடி கொண்டிருந்துள்ளார்.
+As usual, the boy was playing a rope in a souvenir tree.
+
+The boy who was lying in the house at a time when the mother was heading at home, the boy who was playing in the tree at the tree, shouted on the neck of the neighbors.
+
+Those who ran near the tree then rescued the boy, but they realized that the boy was unconscious and called for an emergency ambulance.
 
 ...
 
 [Data](articles/7976ca7a.json)
+
+[Extended Data](ext_articles/7976ca7a.ext.json)
+
+---
+
+### Army took Buddhist clergy to Adi Shiva Temple in Vavuniya
+
+*2024-02-11 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176120) · `ta`
+
+It has been revealed that the army has transported a Buddhist clergyman to the Adi Shiva Temple in Vavuniya on Sunday (11).
+
+On Sunday (11), a group of Buddhist Kumar Kumar had visited the Adi Shiva Temple area on Sunday (11).
+
+It is revealed that the Buddhist clergymen who went there had once again created controversy as their native place.
+
+It is now revealed that the army took the crew in their plowing machine to the area where the Adi Shiva Temple was located in the Adi Shiva temple.
+
+The Buddhist clergy are operating in various parts of the country, including the Gurundur hill.
+
+◼️
+
+[Data](articles/67352e70.json)
+
+[Extended Data](ext_articles/67352e70.ext.json)
 
 ---
 
@@ -101,28 +149,6 @@ Experts also indicate that the reduction of water capacity of the Aral Sea of Ar
 [Data](articles/30bff53d.json)
 
 [Extended Data](ext_articles/30bff53d.ext.json)
-
----
-
-### Army took Buddhist clergy to Adi Shiva Temple in Vavuniya
-
-*2024-02-11 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176120) · `ta`
-
-It has been revealed that the army has transported a Buddhist clergyman to the Adi Shiva Temple in Vavuniya on Sunday (11).
-
-On Sunday (11), a group of Buddhist Kumar Kumar had visited the Adi Shiva Temple area on Sunday (11).
-
-It is revealed that the Buddhist clergymen who went there had once again created controversy as their native place.
-
-It is now revealed that the army took the crew in their plowing machine to the area where the Adi Shiva Temple was located in the Adi Shiva temple.
-
-The Buddhist clergy are operating in various parts of the country, including the Gurundur hill.
-
-◼️
-
-[Data](articles/67352e70.json)
-
-[Extended Data](ext_articles/67352e70.ext.json)
 
 ---
 
@@ -2115,25 +2141,5 @@ She joined this conversation in view of 'the international day of science and gi
 [Data](articles/06c22bc3.json)
 
 [Extended Data](ext_articles/06c22bc3.ext.json)
-
----
-
-### 2024-02-10 (Saturday)
-
-### One person shot dead in a land dispute
-
-*2024-02-10 23:36:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணி-தகராறில்-ஒருவர்-சுட்டுக்கொலை/175-332988) · `ta`
-
-One person was killed in a shooting that took place this afternoon in the Puttalam - Mahakumbukkadavala, Chembukuliya area.
-
-The injured person was admitted to the Puttalam Hospital and later transferred to the Colombo National Hospital for further treatment, police said.
-
-Police said the shooting was carried out due to a land dispute and the suspect was arrested in connection with the incident.. Remble
-
-◼️
-
-[Data](articles/a602ef41.json)
-
-[Extended Data](ext_articles/a602ef41.ext.json)
 
 ---

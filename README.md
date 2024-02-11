@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 05:37:35**
+As of **2024-02-11 06:18:55**
 
 ## Newspaper Stats
 
-*Scraped **6,211** Articles*
+*Scraped **6,212** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 75
 bbccomsinhala | 86
 dbsjeyarajcom | 145
 economynextcom | 321
-islandlk | 332
+islandlk | 333
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 514
@@ -26,11 +26,25 @@ dailymirrorlk | 906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,196 (99.8%) of 6,211 articles have been extended.
+6,201 (99.8%) of 6,212 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### Anura Kumara Dissanayake in India
+
+*2024-02-11 05:40:00* · [`islandlk`](http://island.lk/anura-kumara-dissanayake-in-india/) · `en`
+
+Anura Kumara Dissanayake’s recent visit to India, on an invitation extended by the Indian government, underlies a tectonic shift in Sri Lankan politics, a sign of things to come. It hints at what may happen at upcoming elections. More than anything, it shows that India is taking the JVP-NPP seriously. We should be, too.
+
+The responses to the visit by other parties have, so far, been lukewarm. The UNP’s Vajira Abeywardena, for instance, welcomed the move, and stated that his party hoped the JVP-NPP would contribute towards national policies which would “revive the nation”, adding that he looked forward to seeing the party work with the UNP, just as it had worked before with Chandrika Kumaratunga and Mahinda Rajapaksa.
+
+...
+
+[Data](articles/2880949c.json)
+
+---
 
 ### Prof. J.E Jayasuriya: “A Guiding Light” in Sri Lankan Education
 
@@ -43,6 +57,8 @@ In the expansive field of education, certain individuals truly stand out as insp
 ...
 
 [Data](articles/e865ad77.json)
+
+[Extended Data](ext_articles/e865ad77.ext.json)
 
 ---
 
@@ -57,6 +73,8 @@ Flood storage, sediment control, water quality improvement, preventing shoreline
 ...
 
 [Data](articles/a1b173e2.json)
+
+[Extended Data](ext_articles/a1b173e2.ext.json)
 
 ---
 
@@ -622,6 +640,8 @@ It is no longer a secret that a progressive section of the Buddhist clergy (Sang
 
 [Data](articles/11087245.json)
 
+[Extended Data](ext_articles/11087245.ext.json)
+
 ---
 
 ### Horana Plantations and WNPS PLANT building an ambitious nine km Forest Corridor
@@ -635,6 +655,8 @@ Agricultural expansion and intensive settlement pressures over years have result
 ...
 
 [Data](articles/70cf29dc.json)
+
+[Extended Data](ext_articles/70cf29dc.ext.json)
 
 ---
 
@@ -1001,6 +1023,8 @@ Hike is defined as distance walking for exercise or pleasure. Eco trails can, I 
 ...
 
 [Data](articles/00994a4b.json)
+
+[Extended Data](ext_articles/00994a4b.ext.json)
 
 ---
 
@@ -2005,27 +2029,5 @@ Therefore, a program to clarify health workers on the rights of professional rig
 [Data](articles/6ad23c36.json)
 
 [Extended Data](ext_articles/6ad23c36.ext.json)
-
----
-
-### Two suspects arrested for selling and selling a car
-
-*2024-02-10 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193205) · `si`
-
-Two persons attempting to share a car obtained on a rent basis have been arrested in Nittambuwa.
-
-Police have arrested the suspects according to information received by the officials of the Gampaha Division Criminal Investigation Bureau.
-
-The suspects have been arrested in attempting to sell the car obtained on rent basis to additional parts.
-
-The interrogations were revealed that the car had been obtained on rent from Anuradhapura area.
-
-The suspects were 38 years old, residents of Eswella and Nelumdeniya.
-
-◼️
-
-[Data](articles/40886d28.json)
-
-[Extended Data](ext_articles/40886d28.ext.json)
 
 ---

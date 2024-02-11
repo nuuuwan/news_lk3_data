@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 03:49:49**
+As of **2024-02-12 04:02:22**
 
 ## Newspaper Stats
 
-*Scraped **6,354** Articles*
+*Scraped **6,356** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 87
 dbsjeyarajcom | 146
 economynextcom | 323
 islandlk | 334
-dailyftlk | 344
+dailyftlk | 346
 newsfirstlk | 363
 adalk | 533
 tamilmirrorlk | 771
@@ -26,11 +26,43 @@ dailymirrorlk | 923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,354 (100.0%) of 6,354 articles have been extended.
+6,354 (100.0%) of 6,356 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### National Chamber holds 65th Annual General Meeting
+
+*2024-02-12 03:19:00* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-holds-65th-Annual-General-Meeting/34-758371) · `en`
+
+From Left: Secretary General/CEO Nilupul Chandrasena, Honorary Secretary Dr. Lakmal Fernando, President Deepal Nelson, Chief Justice of Sri Lanka Hon. Jayantha Jayasuriya PC (Guest of Honour), Central Bank of Sri Lanka Governor Dr. P. Nandalal Weerasinghe (Keynote Speaker), Senior Deputy President Anura Warnakulasooriya, Honorary Treasurer Chamika Godamanna
+
+Guest of Honour and Central Bank of Sri Lanka Governor Dr. P. Nandalal Weerasinghe
+
+The National Chamber of Commerce of Sri Lanka last week concluded its 65th Annual General Meeting (AGM), a pivotal event that brought together Diplomatic missions, Government and Non- government officials, industry leaders, members and other stake holders.
+
+It was a momentous occasion with highlights and engagements of the National Chamber in the year 2023 and the future outlook outlining the strategic direction for uplifting the MSME sector in the nation.
+
+...
+
+[Data](articles/e32345e0.json)
+
+---
+
+### Thought Leadership Forum on electricity sector reforms on 15 Feb.
+
+*2024-02-12 03:14:03* · [`dailyftlk`](https://www.ft.lk/business/Thought-Leadership-Forum-on-electricity-sector-reforms-on-15-Feb/34-758370) · `en`
+
+The Thought Leadership Forum, an independent, apolitical, awareness enhancement initiative, founded by Chartered Accountant Ranel Wijesinha, will conduct an interactive dialogue on electricity sector reforms, at the CA Sri Lanka Auditorium at 30 A, Malalasekera Mawatha, Colombo 7 from 4:30 p.m. to 7:30 p.m. on Thursday 15 February.
+
+“The sessions will inter alia address issues arising from the reform intentions, strategies, structures, processes and the legislation, under the Electricity Reform Act of 2002, the current issues and intentions, the reform rationale, and draft legislation of 2023- 22 years on,”
+
+...
+
+[Data](articles/0776137f.json)
+
+---
 
 ### Democracy and elections are the paradigm of Pakistan
 
@@ -2127,41 +2159,5 @@ Three boys were injured and admitted to the hospital when a large tree near the 
 [Data](articles/9dff37b2.json)
 
 [Extended Data](ext_articles/9dff37b2.ext.json)
-
----
-
-### The drone cameras without licenses work
-
-*2024-02-11 10:15:05* · [`adalk`](https://www.ada.lk/breaking_news/බලපත්‍ර-නොමැතිව-ඩ්‍රෝන-කැමරා-යවා-වැඩ-වරදා-ගනියි/11-408003) · `si`
-
-Jaffna Police have arrested a person who took a drone camera without lies. The arrest was carried out following a tip off received by the Thelappa Police Station in the Tiippe Police Division.
-
-The suspect is 33 year old Duragapuram Talappeppe resident. Tiippage police are conducting further investigations
-
-◼️
-
-[Data](articles/cc52343f.json)
-
-[Extended Data](ext_articles/cc52343f.ext.json)
-
----
-
-### Found cell phones and devices from the boosse
-
-*2024-02-11 10:14:43* · [`adalk`](https://www.ada.lk/breaking_news/බූස්සෙන්-ජංගම-දුරකථන-සහ-උපාංග-සොයා-ගනී/11-408002) · `si`
-
-Police Special Task Force said that the colamation of the Boossa High Security Prison and found many mobile phones
-
-Two smartphones, four small mobile phones, four mobile charges, two outer cover, two outer coverings, two data cable and handed 1 handed
-
-Second Jalar summer, Prison Guardis and Prison Regulatory Jayasundara have been handed over to the gentlemen for further investigations.
-
-Special Task Force Commanding Officer Hon..Bed. Raided by a group of Nimal and other officials
-
-◼️
-
-[Data](articles/e558e9c0.json)
-
-[Extended Data](ext_articles/e558e9c0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 22:17:36**
+As of **2024-02-11 22:33:57**
 
 ## Newspaper Stats
 
-*Scraped **6,327** Articles*
+*Scraped **6,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,114 @@ economynextcom | 322
 islandlk | 334
 dailyftlk | 342
 newsfirstlk | 363
-adalk | 531
-tamilmirrorlk | 769
-virakesarilk | 781
+adalk | 533
+tamilmirrorlk | 771
 adaderanalk | 782
-adaderanasinhalalk | 873
+virakesarilk | 783
+adaderanasinhalalk | 874
 dailymirrorlk | 920
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,326 (100.0%) of 6,327 articles have been extended.
+6,327 (99.9%) of 6,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### சொகுசு வாகனங்களை இரகசியமாக பதிவு செய்த 7 பேர்
+
+*2024-02-11 22:06:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொகுசு-வாகனங்களை-இரகசியமாக-பதிவு-செய்த-7-பேர்/175-333046) · `ta`
+
+இலங்கை சுங்கத்தினால் அனுமதி பெறப்படாத கார்களை மோட்டார் போக்குவரத்து திணைக்களத்தில் பதிவு செய்ததன் மூலம் அரசாங்கத்திற்கு பாரிய நஷ்டம் ஏற்பட்டமை தொடர்பில் மோட்டார் போக்குவரத்து திணைக்களத்தைச் சேர்ந்த ஐவர் உள்ளிட்ட 07 பேருக்கு எதிராக இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு வழக்குத் தாக்கல் செய்துள்ளது.
+
+அனுமதி வழங்கப்படாத சுமார் 400 கார்களை திணைக்களம் பதிவு செய்துள்ளமை குறித்து தமக்கு தகவல் கிடைத்துள்ளதாக தெரிவிக்கப்பட்டுள்ளதாக இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு தெரிவித்துள்ளது.
+
+இவ்வாறு பதிவுசெய்யப்பட்டவற்றில் 156 வாகனங்கள் குறித்த உரிய தகவல்களை ஆணைக்குழு அதிகாரிகள் கண்டறிந்துள்ளதுடன் அவற்றில் பெரும்பாலானவை சொகுசு வாகன வகையைச் சேர்ந்தவை என ஆணைக்குழு தெரிவித்துள்ளது.
+
+மேலும், இந்த வாகனங்கள் பல ஆண்டுகளுக்கு பிறகு போலியாக மோட்டார் போக்குவரத்து திணைக்களத்தில் பதிவு செய்யப்படுவதால், அரசுக்கு ஏராளமான வரி இழப்பு ஏற்பட்டுள்ளது.
+
+மேற்குறிப்பிடப்பட்ட வாகனங்களில் 7 வாகனங்களை தற்போதைய உரிமையாளர்களிடம் இருந்து பெற்று இலங்கை சுங்கத்தில் ஒப்படைக்குமாறு இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவிற்கு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+...
+
+[Data](articles/0c84c774.json)
+
+---
+
+### நாளை முதல் இலங்கையில் UPI கட்டணமுறை ! இந்திய, இலங்கை மற்றும் மொரிஷியஸில் தலைவர்கள் இணைந்து ஆரம்பிப்பர்
+
+*2024-02-11 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176130) · `ta`
+
+இந்தியாவின் UPI என்ற ஒருங்கிணைந்த கட்டணம் செலுத்தும் முறைமை நாளை முதல் இலங்கையில் அறிமுகப்படுத்தப்படவுள்ளது.
+
+இந்தியப் பிரதமர் நரேந்திர மோடி, இலங்கை ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் மொரிஷியஸ் பிரதமர் பிரவிந்த் ஜுக்நாத், ஆகியோர் இணையவழி முறையின் ஊடாக கொழும்பில் இதனை அறிமுகப்படுத்தவுள்ளனர்.
+
+Unified Payment Interface (UPI) என்ற ஒருங்கிணைந்த கட்டணம் செலுத்தும் முறைமை 2016 ஆம் ஆண்டில் இந்திய தேசிய கொடுப்பனவு கூட்டுத்தாபனத்தினால் உடனடி பணம் செலுத்தும் முறைமையாக அறிமுகப்படுத்தப்பட்டது.
+
+இது பல வங்கிக் கணக்குகளை, ஒரே கைபேசி செயலி, ஊடாக இணைக்கும் அமைப்பாகும், இந்த கட்டண முறையானது கைபேசிகள் மூலம் வங்கிகளுக்கு இடையேயான மற்றும் தனிப்பட்ட வர்த்தக பரிவர்த்தனைகளை எளிதாக்குகிறது.  இதன்மூலம் இலங்கையின் சுற்றுலா வர்த்தகம் மேம்படும் என எதிர்பார்க்கப்படுகின்றது.
+
+ஃபின்டெக் (Fintech) கண்டுபிடிப்பு மற்றும் டிஜிட்டல் பொது உள்கட்டமைப்பு ஆகியவற்றில் இந்தியா முன்னணியில் உள்ளது.  அந்நாட்டின் வளர்ச்சி அனுபவங்கள் மற்றும் புதுமைகளை நட்பு நாடுகளுடன் பகிர்ந்து கொள்வதில் இந்திய பிரதமர் முக்கியத்துவம் அளித்துள்ளார்.
+
+...
+
+[Data](articles/4e0865b7.json)
+
+---
+
+### ලංකාව කලින්ම තරගාවලිය දිනයි
+
+*2024-02-11 21:53:24* · [`adalk`](https://www.ada.lk/sports/ලංකාව-කලින්ම-තරගාවලිය-දිනයි/9-408016) · `si`
+
+සංචාරක ඇෆ්ගනිස්ථාන කණ්ඩායම සමගින් පැවැති දෙවැනි ඒක්දින තරගයද ලකුණු 155කින් ජයගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය. ඒ් අනුව තරග තුනකින් සමන්විත ඒක්දින තරගාවලියද තවත් තරගයක් ඉතිරිව තිබියදීම ජයග්‍රහණය කිරීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+
+කාසියේ වාසිය දිනා මුලින්ම පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම කඩුලු 6ට ලකුණු 308ක් රැස්කිරීමට සමත්විය. උපනායක චරිත් අසලංක පන්දු 74කදී වේගවත් ලකුණු 97ක් රැස්කිරීමට සමත්විය.
+
+ඊට අමතරව නායක කුසල් මෙන්ඩිස්, සදීර සමරවික්‍රම හා ජනිත් ලියනගේ අර්ධ ශතක රැස්කිරීමට සමත්විය.
+
+ලකුණු 309ක ජයග්‍රාහි ඉලක්කයක හඹා ගිය ඇෆ්ගනිස්ථාන කණ්ඩායම ලකුණු 153කට සීමා කිරීමට වනිඳු හසරංග  ප්‍රමුඛ පන්දු යවන්නෝ සමත්වූහ.
+
+මෙහිදී  වනිඳු කඩුලු 4ක්, අසිත ප්‍රනාන්දු කඩුලු 2ක්, ඩිල්ෂාන් මධුශංක කඩුලු 2ක් හා ප්‍ර මෝද් මධුශාන් කඩුල්ලක් දවා ගැනීමට සමත්වූහ.
+
+◼️
+
+[Data](articles/6effe881.json)
+
+---
+
+### இலங்கை அணி வெற்றி
+
+*2024-02-11 21:49:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உள்ளூர்-விளையாட்டு/இலங்கை-அணி-வெற்றி/88-333045) · `ta`
+
+இலங்கைக்கும் ஆப்கானிஸ்தானுக்கு இடையில் இரண்டாவது ஒருநாள் போட்டியில் இலங்கை அணி 155 ஓட்டாங்களால் வெற்றி
+
+◼️
+
+[Data](articles/07eb01a7.json)
+
+---
+
+### சொகுசு வாகனங்கள் ரகசியமாக பதிவு ! மோட்டார் போக்குவரத்து திணைக்களத்தைச் சேர்ந்த ஐவர் உள்ளிட்ட 7 பேருக்கு எதிராக வழக்கு
+
+*2024-02-11 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/176134) · `ta`
+
+மோட்டார் போக்குவரத்து திணைக்களத்தைச் சேர்ந்த ஐவர் உள்ளிட்ட 07 பேருக்கு எதிராக இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு, வழக்குத் தாக்கல் செய்துள்ளது.
+
+இலங்கை சுங்கத்தினால் அனுமதி பெறப்படாத பெருமளவிலான கார்களை மோட்டார் போக்குவரத்து திணைக்களத்தில் பதிவு செய்ததன் மூலம் அரசாங்கத்திற்கு பாரிய நஷ்டம் ஏற்பட்டமை தொடர்பில் இந்த வழக்கு தாக்கல் செய்யப்பட்டுள்ளது.
+
+அனுமதி வழங்கப்படாத சுமார் 400 கார்களை திணைக்களம் பதிவு செய்துள்ளமை குறித்து தமக்கு தகவல் கிடைத்துள்ளதாக தெரிவிக்கப்பட்டுள்ளதாக இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு தெரிவித்துள்ளது.
+
+இவ்வாறு பதிவுசெய்யப்பட்டவற்றில் 156 வாகனங்கள் குறித்த உரிய தகவல்களை ஆணைக்குழு அதிகாரிகள் கண்டறிந்துள்ளதுடன் அவற்றில் பெரும்பாலானவை சொகுசு வாகன வகையைச் சேர்ந்தவை என ஆணைக்குழு தெரிவித்துள்ளது.
+
+மேலும், இந்த வாகனங்கள் பல ஆண்டுகளுக்கு பிறகு போலியாக மோட்டார் போக்குவரத்து திணைக்களத்தில் பதிவு செய்யப்படுவதால், அரசுக்கு ஏராளமான வரி இழப்பு ஏற்பட்டுள்ளது.
+
+...
+
+[Data](articles/8d0150eb.json)
+
+---
 
 ### Pakistan election: Final results give Khan-backed candidates lead
 
@@ -51,6 +143,34 @@ The result was a surprise as most observers had expected Mr Sharif’s party - w
 ...
 
 [Data](articles/1637a75b.json)
+
+[Extended Data](ext_articles/1637a75b.ext.json)
+
+---
+
+### ඇෆ්ගනිස්තානයට එරෙහි තරගාවලියේ ජය ශ්‍රී ලංකාවට
+
+*2024-02-11 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193261) · `si`
+
+දෙවන එක්දින තරගය ලකුණු 155කින් ජයගත් ශ්‍රී ලංකාව තරග තුනකින් සමන්විත තරගාවලියේ ජය තහවුරු කරගත්තේය.
+
+ලකුණු 309ක ඉලක්කයක් හඹා ගිය ඇෆ්ගනිස්තාන පිතිකරුවන්ට පන්දුවාර 33යි පන්දු 5කදී සියලුදෙනා දැවී රැස්කරගත හැකිවූයේ ලකුණු 153ක් පමණි.
+
+එහිදී ඇෆ්ගනිස්තාන ක්‍රීඩකයින් සාර්ථක ආරම්භයක් ලබාගෙන සිටියද අසිත ප්‍රනාන්දු ක්‍රියාත්මක වී එම සම්බන්ධතාවය බිඳහෙළීමත් සමග තරගයේ වැඩි වාසිය ශ්‍රී ලංකාවට හිමිවිය.
+
+අනතුරුව ක්‍රියාත්මක වූ වනිඳු හසරංග ලකුණු 27කට කඩුලු 4ක් දවාගනිමින් තරගයේ ජය ශ්‍රී ලංකාවට ගෙන ආවේය.
+
+ඩිල්ශාන් මදුශංක ලකුණු 28කට කඩුලු 2ක් දවාගත් අතර ප්‍රමෝද් මදුශාන් එක් කඩුල්ලක් දවාගත්තේය.
+
+ඇෆ්ගනිස්තානය වෙනුවෙන් ඉබ්‍රහීම් සද්‍රාන් ලකුණු 54ක් රැස්කරගත් අටහ්ර රහමත් ෂා ලකුණු 63ක් රැස්කරගැනීමට සමත්විය.
+
+තරගයේ ප්‍රථමයෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 50 අවසානයේ කඩුලු 6ක් දැවී ලකුණු 308ක් රැස්කරගත්තේය.
+
+එහිදී අගනා ඉනිමක් ක්‍රීඩා කළ චරිත් අසලංක පන්දු 74කදී හයේ පහර 2ක් සහ හතරේ පහර 9ක් සමග ලකුණු 97ක් රැස්කරගනිමින් තරගයේ වීරයා විය.
+
+...
+
+[Data](articles/25b65da1.json)
 
 ---
 
@@ -237,6 +357,24 @@ We're in the decisive place today. We see this year as the election year. At Oct
 [Data](articles/b15414ef.json)
 
 [Extended Data](ext_articles/b15414ef.ext.json)
+
+---
+
+### මාලිගාකන්ද මහේස්ත්‍රාත්ගෙන් පොලීසියට අවවාද
+
+*2024-02-11 18:55:32* · [`adalk`](https://www.ada.lk/breaking_news/මාලිගාකන්ද-මහේස්ත්‍රාත්ගෙන්-පොලීසියට-අවවාද/11-408015) · `si`
+
+පාසැල් සිසුන් මත්ද්‍රව්‍ය වලට ඇබ්බැහි කරවා ගැනීම ඉලක්ක කර මත්ද්‍රව්‍ය ජාවාරම්කරුවන් සංවිධනාත්මකව කරගෙන යන කටයුතු පිළිබඳ සිහිබුද්ධියෙන් යුතුව විමර්ශන කරන්නැයි මාලිගාකන්ද ප්‍රධාන මහේස්ත්‍රාත් ලෝචනි අබේවික්‍රම වීරසිංහ මහත්මිය පොලිස් නිලධාරීන්ට අවවාද කළාය.
+
+මත් පුවක් යොදා නිපදවා ඇති ‘මාවා” නමින් හඳුන්වන මත්ද්‍රව්‍ය පාසැල් සිසුන් මත්ද්‍රව්‍ය වලට ඇබ්බැහි කරවා ගැනීමේ මුල්ම පියවර බව පෙන්වා දුන් මහෙස්ත්‍රාත්වරිය රටේ අනාගතය වන පාසැල් සිසුන් ඉන් බේරා ගැනීම සඳහා වහාම පියවර ගැනීමටද නියම කළාය.
+
+මෝදර මට්ටක්කුලිය මරදාන ආදී ප්‍රදේශ ආශ්‍රීතව මත් පුවක් යොදා නිපදවා ඇති ‘මාවා” නමින් හඳුන්වන මත්ද්‍රව්‍ය පැසැල් අවට විකුණීමේ චෝදනවන් මත විත්තිකරුවන් කිහිප දෙනෙකුම අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේදී මහේස්ත්‍රාත්වරිය පොලිසියට එලෙස අවවාද කළාය.
+
+පොලිසිය අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කර ඇත්තේ විකුණුම්කරුවන් කිහිප දෙනෙකු පමණක් බව පෙන්වා දුන් මහේස්ත්‍රාත්වරිය නියම ජාවාරම්කරුවන් අත්අඩංගුවට ගැනීමට විමර්ශන මෙහෙයවන ලෙස අවවාද කළාය.
+
+...
+
+[Data](articles/74dfc931.json)
 
 ---
 
@@ -2019,159 +2157,5 @@ However, Opposition Leader Sajith Premadasa has stated that this is not the righ
 [Data](articles/2aa3d0cd.json)
 
 [Extended Data](ext_articles/2aa3d0cd.ext.json)
-
----
-
-### President returns after participating in Indian Ocean Conference
-
-*2024-02-11 07:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-returns-after-participating-in-Indian-Ocean-Conference/108-276760) · `en`
-
-President Ranil Wickremesinghe, who went to participate in the seventh Indian Ocean Conference held in Perth, Australia, returned to Sri Lanka last night (10).
-
-The delegation that went to Australia along with the President also returned with him.
-
-They had first arrived at Singapore's Changi Airport from Perth, Australia. Later, they had arrived at the Katunayake Airport on board SriLankan Airlines flight UL-309.
-
-The President left Katunayake Airport for Perth, Australia on February 8.
-
-◼️
-
-[Data](articles/403fe1f1.json)
-
-[Extended Data](ext_articles/403fe1f1.ext.json)
-
----
-
-### Phembukulai land dispute corresponds from the son
-
-*2024-02-11 07:29:02* · [`adalk`](https://www.ada.lk/breaking_news/සෙම්බුකුලියෙ-ඉඩම්-ආරවුල-කට-පුංචාගෙන්-කෙළවර-වෙයි/11-408001) · `si`
-
-The Mahakumbukkadawala Police say that a father has been seriously injured and admitted to the Puttalam Base Hospital.
-
-The deceased has been identified as a 56-year-old Superintendent's Speaker, a 56-year-old Superintendent of Thambukkadawala.
-
-It is said that a land dispute has been fired in three years with the delegated lands and the delegated lands.
-
-The Anamaduwa police have been referred to the Delegation of the House, but the 43-year-old unmarried person has been arrested by the Mahakumbukkadawala police.
-
-The suspect added that he had taken measures to be assassinated to the police that he had fallen to the land and killed the land he was cashew and killed.
-
-However, this connection has frequent problems among the two sides, but it had not received complaints to the Mahakumbukkadawala Police.
-
-The suspect associated with the shooting said that the father of land had been shooting from the mounting and the land dispute in Kandulai Tanks.
-
-...
-
-[Data](articles/9339f272.json)
-
-[Extended Data](ext_articles/9339f272.ext.json)
-
----
-
-### Government to blacklist institutions not purchasing farmers’ paddy at minimum prices
-
-*2024-02-11 07:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-to-blacklist-institutions-not-purchasing-farmers-paddy-at-minimum-prices/108-276759) · `en`
-
-The government has decided to blacklist small and medium scale rice millers, paddy collectors and paddy warehouse owners and institutions if they do not purchase the farmers' paddy stocks at the minimum prices set by the government.
-
-The government has made arrangements to provide loans through several state and commercial banks at a concessional interest rates to buy paddy from farmers.
-
-Also, the minimum prices for paddy have been announced so as to be very beneficial to the farmers.
-
-Agriculture Minister Mahinda Amaraweera said a minimum price for paddy was decided upon this year to protect the farmers and consumers, and currently traders are buying paddy from farmers at a price of Rs. 70-80 per kilo.
-
-The Minister also mentioned that the government will provide an amount of Rs. 09 billion to the small and medium rice mill owners, paddy collectors and paddy warehouse owners at a subsidized interest rate for the paddy purchasing programme.
-
-◼️
-
-[Data](articles/e3b4c1ab.json)
-
-[Extended Data](ext_articles/e3b4c1ab.ext.json)
-
----
-
-### A rise of the heart patients
-
-*2024-02-11 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193231) · `si`
-
-Health Minister Dr. Ramesh Pathiran says that the number of heart disease in Sri Lanka has increased.
-
-The Minister pointed out that these conditions have been caused by high blood pressure and diabetes.
-
-Health Minister Dr. Ramesh Pathirana said this while participating at a medical clinic in Galle.
-
-◼️
-
-[Data](articles/58ce9d5c.json)
-
-[Extended Data](ext_articles/58ce9d5c.ext.json)
-
----
-
-### US $ 487 million in January
-
-*2024-02-11 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193230) · `si`
-
-Sri Lankans overseas have sent US $ 487.6 million in January this year.
-
-Foreign Employment and Labor Minister Manusha Nanayakkara said that it was an increase of 11.4 percent relative to January last year.
-
-The Minister was speaking at a note of his X account note.
-
-Sri Lankans abroad in January last year have sent Amarikan $ 437.5 million.
-
-Meanwhile, 60,122 foreign tourists have arrived in Sri Lanka in the first eight days of February.
-
-According to the Tourism Development Authority, 268 tourists have arrived in the island during the past year.
-
-Most of the tourists have arrived from India and the number is 42,768.
-
-In addition, 3914 tourists from Russia, 22,278 from Britain and 18,016 tourists from Germany have arrived.
-
-◼️
-
-[Data](articles/fe9f471e.json)
-
-[Extended Data](ext_articles/fe9f471e.ext.json)
-
----
-
-### President returns to
-
-*2024-02-11 07:03:19* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-යළි-එයි/11-408000) · `si`
-
-President Ranil Wickremesinghe has confirmed that President Ranil Wickremesinghe arrived in Sri Lanka at night to attend the 7th Indian Ocean Conference in Perth, Australia.
-
-The delegation with the President had returned with back.They had come to the Changi in Parath, Australia to Changi Airport in Singapore. Subsequently, SriLankan Airlines had reached the Katunayake airport on the 309-309-owned airport.
-
-The President had left the Katunayake airport in Australia on 02/08/08.
-
-◼️
-
-[Data](articles/8c22cdb0.json)
-
-[Extended Data](ext_articles/8c22cdb0.ext.json)
-
----
-
-### Second ODIs today
-
-*2024-02-11 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193229) · `si`
-
-The second ODI match between Sri Lanka, Afghanistan and Sri Lankan team will commence today.
-
-The match will be opened at the Pallekele International Cricket Grounds at 2 pm.
-
-It is reported that the Sri Lankan team will participate in the first one-day match for the match today.
-
-The Sri Lankan team won the first one-day match between the two countries by 42 runs.
-
-With that victory and the wishes and wishes, cricket loves about the match are very interested in today's competition worlds.
-
-◼️
-
-[Data](articles/0693c2dc.json)
-
-[Extended Data](ext_articles/0693c2dc.ext.json)
 
 ---

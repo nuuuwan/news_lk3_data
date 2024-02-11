@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 22:50:08**
+As of **2024-02-11 23:02:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 921
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,327 (99.9%) of 6,336 articles have been extended.
+6,336 (100.0%) of 6,336 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,45 +46,53 @@ Sri Lanka's innings was characterized by two century partnerships, first between
 
 [Data](articles/2fb1b65b.json)
 
+[Extended Data](ext_articles/2fb1b65b.ext.json)
+
 ---
 
-### சொகுசு வாகனங்களை இரகசியமாக பதிவு செய்த 7 பேர்
+### 7 people who secretly registered luxury vehicles
 
 *2024-02-11 22:06:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொகுசு-வாகனங்களை-இரகசியமாக-பதிவு-செய்த-7-பேர்/175-333046) · `ta`
 
-இலங்கை சுங்கத்தினால் அனுமதி பெறப்படாத கார்களை மோட்டார் போக்குவரத்து திணைக்களத்தில் பதிவு செய்ததன் மூலம் அரசாங்கத்திற்கு பாரிய நஷ்டம் ஏற்பட்டமை தொடர்பில் மோட்டார் போக்குவரத்து திணைக்களத்தைச் சேர்ந்த ஐவர் உள்ளிட்ட 07 பேருக்கு எதிராக இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு வழக்குத் தாக்கல் செய்துள்ளது.
+The Bribery Commission has filed a case against seven persons, including five members of the Motor Transport Department, in connection with the massive loss of the government by registering cars in the Motor Transport Department.
 
-அனுமதி வழங்கப்படாத சுமார் 400 கார்களை திணைக்களம் பதிவு செய்துள்ளமை குறித்து தமக்கு தகவல் கிடைத்துள்ளதாக தெரிவிக்கப்பட்டுள்ளதாக இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு தெரிவித்துள்ளது.
+The Bribery Commission said that they have been informed that the department has registered about 400 unauthorized cars.
 
-இவ்வாறு பதிவுசெய்யப்பட்டவற்றில் 156 வாகனங்கள் குறித்த உரிய தகவல்களை ஆணைக்குழு அதிகாரிகள் கண்டறிந்துள்ளதுடன் அவற்றில் பெரும்பாலானவை சொகுசு வாகன வகையைச் சேர்ந்தவை என ஆணைக்குழு தெரிவித்துள்ளது.
+The Commission officials have found that 156 vehicles of the registered vehicles have been found and most of them belong to the luxury vehicle type.
 
-மேலும், இந்த வாகனங்கள் பல ஆண்டுகளுக்கு பிறகு போலியாக மோட்டார் போக்குவரத்து திணைக்களத்தில் பதிவு செய்யப்படுவதால், அரசுக்கு ஏராளமான வரி இழப்பு ஏற்பட்டுள்ளது.
+In addition, these vehicles are registered with the Department of Motor Transport after many years, causing a large number of tax loss to the government.
 
-மேற்குறிப்பிடப்பட்ட வாகனங்களில் 7 வாகனங்களை தற்போதைய உரிமையாளர்களிடம் இருந்து பெற்று இலங்கை சுங்கத்தில் ஒப்படைக்குமாறு இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவிற்கு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The court has ordered the Bribery Commission to hand over 7 vehicles from the current owners to the Sri Lankan customs.
 
-...
+Accordingly, 6 vehicles have been taken over by the Bribery Commission and 05 of them have been handed over to the Sri Lankan Customs Unit.. Remble
+
+◼️
 
 [Data](articles/0c84c774.json)
 
+[Extended Data](ext_articles/0c84c774.ext.json)
+
 ---
 
-### நாளை முதல் இலங்கையில் UPI கட்டணமுறை ! இந்திய, இலங்கை மற்றும் மொரிஷியஸில் தலைவர்கள் இணைந்து ஆரம்பிப்பர்
+### UPI fee in Sri Lanka from tomorrow!Leaders in India, Sri Lanka and Mauritius
 
 *2024-02-11 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176130) · `ta`
 
-இந்தியாவின் UPI என்ற ஒருங்கிணைந்த கட்டணம் செலுத்தும் முறைமை நாளை முதல் இலங்கையில் அறிமுகப்படுத்தப்படவுள்ளது.
+India's UPI is to be launched in Sri Lanka from tomorrow.
 
-இந்தியப் பிரதமர் நரேந்திர மோடி, இலங்கை ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் மொரிஷியஸ் பிரதமர் பிரவிந்த் ஜுக்நாத், ஆகியோர் இணையவழி முறையின் ஊடாக கொழும்பில் இதனை அறிமுகப்படுத்தவுள்ளனர்.
+Indian Prime Minister Narendra Modi, Sri Lankan President Ranil Wickremesinghe and Mauritius Prime Minister Pravind Juknath will introduce the launch in Colombo.
 
-Unified Payment Interface (UPI) என்ற ஒருங்கிணைந்த கட்டணம் செலுத்தும் முறைமை 2016 ஆம் ஆண்டில் இந்திய தேசிய கொடுப்பனவு கூட்டுத்தாபனத்தினால் உடனடி பணம் செலுத்தும் முறைமையாக அறிமுகப்படுத்தப்பட்டது.
+The Integrated Payment Payment System, UNIFIED PAYMENT INTERFACE (UPI) was introduced in 2016 as an immediate payment system by the Indian National Payment Corporation.
 
-இது பல வங்கிக் கணக்குகளை, ஒரே கைபேசி செயலி, ஊடாக இணைக்கும் அமைப்பாகும், இந்த கட்டண முறையானது கைபேசிகள் மூலம் வங்கிகளுக்கு இடையேயான மற்றும் தனிப்பட்ட வர்த்தக பரிவர்த்தனைகளை எளிதாக்குகிறது.  இதன்மூலம் இலங்கையின் சுற்றுலா வர்த்தகம் மேம்படும் என எதிர்பார்க்கப்படுகின்றது.
+It is a system that connects many bank accounts, the same mobile phone processor, and this payment method facilitates inter -banks and personal trading transactions through handsets.Sri Lanka's tourism trade is expected to improve.
 
-ஃபின்டெக் (Fintech) கண்டுபிடிப்பு மற்றும் டிஜிட்டல் பொது உள்கட்டமைப்பு ஆகியவற்றில் இந்தியா முன்னணியில் உள்ளது.  அந்நாட்டின் வளர்ச்சி அனுபவங்கள் மற்றும் புதுமைகளை நட்பு நாடுகளுடன் பகிர்ந்து கொள்வதில் இந்திய பிரதமர் முக்கியத்துவம் அளித்துள்ளார்.
+India is at the forefront of Fintech invention and digital public infrastructure.The Indian Prime Minister has given importance in sharing the country's developmental experiences and innovations with allies.
 
 ...
 
 [Data](articles/4e0865b7.json)
+
+[Extended Data](ext_articles/4e0865b7.ext.json)
 
 ---
 
@@ -106,57 +114,69 @@ Similar to a Visa or Mastercard, RuPay is a global card payment network from Ind
 
 [Data](articles/229df293.json)
 
+[Extended Data](ext_articles/229df293.ext.json)
+
 ---
 
-### ලංකාව කලින්ම තරගාවලිය දිනයි
+### Sri Lanka wins in advance
 
 *2024-02-11 21:53:24* · [`adalk`](https://www.ada.lk/sports/ලංකාව-කලින්ම-තරගාවලිය-දිනයි/9-408016) · `si`
 
-සංචාරක ඇෆ්ගනිස්ථාන කණ්ඩායම සමගින් පැවැති දෙවැනි ඒක්දින තරගයද ලකුණු 155කින් ජයගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය. ඒ් අනුව තරග තුනකින් සමන්විත ඒක්දින තරගාවලියද තවත් තරගයක් ඉතිරිව තිබියදීම ජයග්‍රහණය කිරීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+Sri Lanka were also able to win the second incident with the tourism Afghanistan by 155 runs. In the Sri Lankan team won the tournament and winning the tournament.
 
-කාසියේ වාසිය දිනා මුලින්ම පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම කඩුලු 6ට ලකුණු 308ක් රැස්කිරීමට සමත්විය. උපනායක චරිත් අසලංක පන්දු 74කදී වේගවත් ලකුණු 97ක් රැස්කිරීමට සමත්විය.
+Sri Lanka scored 308 runs for the loss of 6 wickets. Awesome Chari scored 97 runs off 74 balls.
 
-ඊට අමතරව නායක කුසල් මෙන්ඩිස්, සදීර සමරවික්‍රම හා ජනිත් ලියනගේ අර්ධ ශතක රැස්කිරීමට සමත්විය.
+In addition, skipper Kusal Mendis collect half centuries of Janith Liyanage.
 
-ලකුණු 309ක ජයග්‍රාහි ඉලක්කයක හඹා ගිය ඇෆ්ගනිස්ථාන කණ්ඩායම ලකුණු 153කට සීමා කිරීමට වනිඳු හසරංග  ප්‍රමුඛ පන්දු යවන්නෝ සමත්වූහ.
+Venunuwa Hasaranga bowled the bowlers to score 309 runs in a goal of winter.
 
-මෙහිදී  වනිඳු කඩුලු 4ක්, අසිත ප්‍රනාන්දු කඩුලු 2ක්, ඩිල්ෂාන් මධුශංක කඩුලු 2ක් හා ප්‍ර මෝද් මධුශාන් කඩුල්ලක් දවා ගැනීමට සමත්වූහ.
+Four wickets and 2 wickets and 2 wickets and 2 wickets and 2 wickets and King Mad Madushan scored 2 wickets.
 
 ◼️
 
 [Data](articles/6effe881.json)
 
+[Extended Data](ext_articles/6effe881.ext.json)
+
 ---
 
-### இலங்கை அணி வெற்றி
+### Sri Lanka won
 
 *2024-02-11 21:49:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உள்ளூர்-விளையாட்டு/இலங்கை-அணி-வெற்றி/88-333045) · `ta`
 
-இலங்கைக்கும் ஆப்கானிஸ்தானுக்கு இடையில் இரண்டாவது ஒருநாள் போட்டியில் இலங்கை அணி 155 ஓட்டாங்களால் வெற்றி
+Sri Lanka won by 155 ODIs in the second ODI between Sri Lanka and Afghanistan
 
 ◼️
 
 [Data](articles/07eb01a7.json)
 
+[Extended Data](ext_articles/07eb01a7.ext.json)
+
 ---
 
-### சொகுசு வாகனங்கள் ரகசியமாக பதிவு ! மோட்டார் போக்குவரத்து திணைக்களத்தைச் சேர்ந்த ஐவர் உள்ளிட்ட 7 பேருக்கு எதிராக வழக்கு
+### Luxury vehicles secretly registered!Case against 7 persons, including five members of the Motor Transport Department
 
 *2024-02-11 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/176134) · `ta`
 
-மோட்டார் போக்குவரத்து திணைக்களத்தைச் சேர்ந்த ஐவர் உள்ளிட்ட 07 பேருக்கு எதிராக இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு, வழக்குத் தாக்கல் செய்துள்ளது.
+The Bribery Commission has filed a case against seven persons, including five members of the Motor Transport Department.
 
-இலங்கை சுங்கத்தினால் அனுமதி பெறப்படாத பெருமளவிலான கார்களை மோட்டார் போக்குவரத்து திணைக்களத்தில் பதிவு செய்ததன் மூலம் அரசாங்கத்திற்கு பாரிய நஷ்டம் ஏற்பட்டமை தொடர்பில் இந்த வழக்கு தாக்கல் செய்யப்பட்டுள்ளது.
+The case has been filed in connection with the massive loss to the government by registering a large number of cars that have not been approved by the Sri Lankan Customs.
 
-அனுமதி வழங்கப்படாத சுமார் 400 கார்களை திணைக்களம் பதிவு செய்துள்ளமை குறித்து தமக்கு தகவல் கிடைத்துள்ளதாக தெரிவிக்கப்பட்டுள்ளதாக இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு தெரிவித்துள்ளது.
+The Bribery Commission said that they have been informed that the department has registered about 400 unauthorized cars.
 
-இவ்வாறு பதிவுசெய்யப்பட்டவற்றில் 156 வாகனங்கள் குறித்த உரிய தகவல்களை ஆணைக்குழு அதிகாரிகள் கண்டறிந்துள்ளதுடன் அவற்றில் பெரும்பாலானவை சொகுசு வாகன வகையைச் சேர்ந்தவை என ஆணைக்குழு தெரிவித்துள்ளது.
+The Commission officials have found that 156 vehicles of the registered vehicles have been found and most of them belong to the luxury vehicle type.
 
-மேலும், இந்த வாகனங்கள் பல ஆண்டுகளுக்கு பிறகு போலியாக மோட்டார் போக்குவரத்து திணைக்களத்தில் பதிவு செய்யப்படுவதால், அரசுக்கு ஏராளமான வரி இழப்பு ஏற்பட்டுள்ளது.
+In addition, these vehicles are registered with the Department of Motor Transport after many years, causing a large number of tax loss to the government.
 
-...
+The court has ordered the Bribery Commission to hand over 7 vehicles from the current owners to the Sri Lankan customs.
+
+Accordingly, 6 vehicles have been taken over by the Bribery Commission and 05 of them have been handed over to the Sri Lankan Customs Unit.
+
+◼️
 
 [Data](articles/8d0150eb.json)
+
+[Extended Data](ext_articles/8d0150eb.ext.json)
 
 ---
 
@@ -184,29 +204,39 @@ The result was a surprise as most observers had expected Mr Sharif’s party - w
 
 ---
 
-### ඇෆ්ගනිස්තානයට එරෙහි තරගාවලියේ ජය ශ්‍රී ලංකාවට
+### Sri Lanka wins the tournament against Afghanistan
 
 *2024-02-11 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193261) · `si`
 
-දෙවන එක්දින තරගය ලකුණු 155කින් ජයගත් ශ්‍රී ලංකාව තරග තුනකින් සමන්විත තරගාවලියේ ජය තහවුරු කරගත්තේය.
+Sri Lanka wins the second ODI match by 155 runs.
 
-ලකුණු 309ක ඉලක්කයක් හඹා ගිය ඇෆ්ගනිස්තාන පිතිකරුවන්ට පන්දුවාර 33යි පන්දු 5කදී සියලුදෙනා දැවී රැස්කරගත හැකිවූයේ ලකුණු 153ක් පමණි.
+Chasing a target of 309, Afghanistan batsmen scored 153 runs in 33 overs.
 
-එහිදී ඇෆ්ගනිස්තාන ක්‍රීඩකයින් සාර්ථක ආරම්භයක් ලබාගෙන සිටියද අසිත ප්‍රනාන්දු ක්‍රියාත්මක වී එම සම්බන්ධතාවය බිඳහෙළීමත් සමග තරගයේ වැඩි වාසිය ශ්‍රී ලංකාවට හිමිවිය.
+Although Afghanistan players have a successful start, Sri Lanka won the competition with the breakdown of the relationship.
 
-අනතුරුව ක්‍රියාත්මක වූ වනිඳු හසරංග ලකුණු 27කට කඩුලු 4ක් දවාගනිමින් තරගයේ ජය ශ්‍රී ලංකාවට ගෙන ආවේය.
+The next afterwarding, Warehonga brought four wickets for 27 runs.
 
-ඩිල්ශාන් මදුශංක ලකුණු 28කට කඩුලු 2ක් දවාගත් අතර ප්‍රමෝද් මදුශාන් එක් කඩුල්ලක් දවාගත්තේය.
+Dilshan made two wickets for 28 runs and highlights were hit by one wicket.
 
-ඇෆ්ගනිස්තානය වෙනුවෙන් ඉබ්‍රහීම් සද්‍රාන් ලකුණු 54ක් රැස්කරගත් අටහ්ර රහමත් ෂා ලකුණු 63ක් රැස්කරගැනීමට සමත්විය.
+Shah scored 54 runs for Afghanistan and scored 63 runs.
 
-තරගයේ ප්‍රථමයෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 50 අවසානයේ කඩුලු 6ක් දැවී ලකුණු 308ක් රැස්කරගත්තේය.
+Batting first, Sri Lanka scored 308 runs for the loss of 6 wickets at the end of 50 overs.
 
-එහිදී අගනා ඉනිමක් ක්‍රීඩා කළ චරිත් අසලංක පන්දු 74කදී හයේ පහර 2ක් සහ හතරේ පහර 9ක් සමග ලකුණු 97ක් රැස්කරගනිමින් තරගයේ වීරයා විය.
+Charith, who played a premier innings, was 97 runs off 74 balls with 9 runs off 74 balls with 9 fours.
 
-...
+Leader Kusal Mendis played a valuable innings and scored 61 runs with a hit with a six.
+
+Sedira Samarawickrama played a precious innings and scored 52 runs with three fours.
+
+New day of Jathika Janith Liyanage is also a collection of its second ODI century today.
+
+Pureeki, Faruki, Ahmed, Queise Ahmed, took one wicket each.
+
+◼️
 
 [Data](articles/25b65da1.json)
+
+[Extended Data](ext_articles/25b65da1.ext.json)
 
 ---
 
@@ -396,21 +426,25 @@ We're in the decisive place today. We see this year as the election year. At Oct
 
 ---
 
-### මාලිගාකන්ද මහේස්ත්‍රාත්ගෙන් පොලීසියට අවවාද
+### Maligakanda Magistrate advised police
 
 *2024-02-11 18:55:32* · [`adalk`](https://www.ada.lk/breaking_news/මාලිගාකන්ද-මහේස්ත්‍රාත්ගෙන්-පොලීසියට-අවවාද/11-408015) · `si`
 
-පාසැල් සිසුන් මත්ද්‍රව්‍ය වලට ඇබ්බැහි කරවා ගැනීම ඉලක්ක කර මත්ද්‍රව්‍ය ජාවාරම්කරුවන් සංවිධනාත්මකව කරගෙන යන කටයුතු පිළිබඳ සිහිබුද්ධියෙන් යුතුව විමර්ශන කරන්නැයි මාලිගාකන්ද ප්‍රධාන මහේස්ත්‍රාත් ලෝචනි අබේවික්‍රම වීරසිංහ මහත්මිය පොලිස් නිලධාරීන්ට අවවාද කළාය.
+Ms. Lachnan Abeywickrama Weerasinghe has advised police officers to investigate school children.
 
-මත් පුවක් යොදා නිපදවා ඇති ‘මාවා” නමින් හඳුන්වන මත්ද්‍රව්‍ය පාසැල් සිසුන් මත්ද්‍රව්‍ය වලට ඇබ්බැහි කරවා ගැනීමේ මුල්ම පියවර බව පෙන්වා දුන් මහෙස්ත්‍රාත්වරිය රටේ අනාගතය වන පාසැල් සිසුන් ඉන් බේරා ගැනීම සඳහා වහාම පියවර ගැනීමටද නියම කළාය.
+The Magistrate also foretold the first step to drug addicts known as Mawa, "Mawa".
 
-මෝදර මට්ටක්කුලිය මරදාන ආදී ප්‍රදේශ ආශ්‍රීතව මත් පුවක් යොදා නිපදවා ඇති ‘මාවා” නමින් හඳුන්වන මත්ද්‍රව්‍ය පැසැල් අවට විකුණීමේ චෝදනවන් මත විත්තිකරුවන් කිහිප දෙනෙකුම අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේදී මහේස්ත්‍රාත්වරිය පොලිසියට එලෙස අවවාද කළාය.
+When several defendants were produced before the courts, the Maoda Mattakkuliya Maradakkuliya Maradana, the Magistrate was advised to the police.
 
-පොලිසිය අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කර ඇත්තේ විකුණුම්කරුවන් කිහිප දෙනෙකු පමණක් බව පෙන්වා දුන් මහේස්ත්‍රාත්වරිය නියම ජාවාරම්කරුවන් අත්අඩංගුවට ගැනීමට විමර්ශන මෙහෙයවන ලෙස අවවාද කළාය.
+The magistrate pointed out that the police were arrested and produced before the courts to be investigated to arrest the real traffickers.
 
-...
+Speaking to the suspects who were produced in court, the magistrate, who was produced by drugs to sell drugs to sell, was the first step to the drug addict.Admonished.
+
+◼️
 
 [Data](articles/74dfc931.json)
+
+[Extended Data](ext_articles/74dfc931.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 09:17:20**
+As of **2024-02-11 09:33:17**
 
 ## Newspaper Stats
 
-*Scraped **6,234** Articles*
+*Scraped **6,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,72 +15,140 @@ economynextcom | 321
 islandlk | 333
 dailyftlk | 342
 newsfirstlk | 363
-adalk | 516
+adalk | 517
 tamilmirrorlk | 757
-adaderanalk | 769
-virakesarilk | 769
+adaderanalk | 772
+virakesarilk | 773
 adaderanasinhalalk | 851
-dailymirrorlk | 906
+dailymirrorlk | 908
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,225 (99.9%) of 6,234 articles have been extended.
+6,234 (99.8%) of 6,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
 
-### තරුණ තරුණියන් සඳහා හමුදා සේවය අනිවාර්ය කෙරේ
+### Military service compulsory for youths
 
 *2024-02-11 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193238) · `si`
 
-මියන්මාරයේ සියලු තරුණ තරුණියන් සඳහා හමුදා සේවය අනිවාර්ය කර තිබේ.
+Military service has been compulsory for all the youths in Myanmar.
 
-මියන්මාරයේ පවතින නොසන්සුන්කාරී වාතාවරණය හේතුවෙන් මෙම පියවර ගෙන ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+According to foreign media reports, this step has been taken due to the tense situation in Myanmar.
 
-ඒ අනුව අවුරුදු 18ත් 35ත් අතර වයසැති සියලු පිරිමි පුද්ගලයන් සහ අවුරුදු 18ත් -27ත් අතර වයසැති තරුණියන් අවම වශයෙන් වසර 02ක් හමුදා අණ යටතේ සේවය කළ යුතු වේ.
+Accordingly, all 6 and 35 years old, aged 18 and 35, should be employed under military command for a minimum of two years.
 
-2021 වසරේ දී කුමන්ත්‍රණයකින් හමුදාව විසින් එරට බලය අත්පත් කර ගනු ලැබුව ද යළිත් මෑත කාලයේ දී මිලීෂීයා සහ හමුදා විරෝධී කැරලිකරුවන් සමඟ පැවති සටන්වල දී පරාජයට පත් විය.
+In 2021, the army was acquired by a conspiracy in the year, defeated in the battles with militias and anti-military rebels.
 
 ◼️
 
 [Data](articles/512e664f.json)
 
+[Extended Data](ext_articles/512e664f.ext.json)
+
 ---
 
-### நாடு திரும்பினார் ஜனாதிபதி
+### Hungarian President resigns over child sexual abuse pardon
+
+*2024-02-11 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97177/hungarian-president-resigns-over-child-sexual-abuse-pardon) · `en`
+
+(Reuters) - Hungarian President Katalin Novak resigned on Saturday after coming under mounting pressure for pardoning a man convicted of helping to cover up sexual abuse in a children’s home.
+
+Novak, a close ally of conservative Prime Minister Viktor Orban, resigned a week after her presidential pardon was first reported by local news site 444.hu.
+
+The revelation caused a public uproar and demands from the opposition for her and former Justice Minister Judit Varga to quit. Varga, who has been a rising star in Orban’s ruling Fidesz party, resigned as a lawmaker on Saturday.
+
+The scandal was a rare setback for Orban, who has been in power since 2010, and who faces European parliament elections just as the country emerges from an inflation crisis.
+
+Orban has for years campaigned to protect children from what he has described as LGBTQ activists roaming the nation’s schools. This has been one of several issues over which Orban has clashed with the European Commission.
+
+...
+
+[Data](articles/b27f77da.json)
+
+---
+
+### தேர்தலில் வெற்றி பெற்றதாக இரண்டு முன்னாள் பிரதமர்களும் தெரிவிப்பு – ஐக்கியத்தை பேணுமாறு பாக்கிஸ்தான் இராணுவதளபதி அழைப்பு
+
+*2024-02-11 08:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176068) · `ta`
+
+பாக்கிஸ்தான் தேர்தலில் வெற்றிபெற்றுள்ளதாக இரண்டு முன்னாள் பிரதமர்களும் உரிமை கோரி வரும் நிலையில் ஐக்கியத்தை பேணுமாறு பாக்கிஸ்தானின் இராணுவதளபதி வேண்டுகோள் விடுத்துள்ளார்
+
+தேர்தல்கள் முடிவுகள் வெளியாகியுள்ள நிலையில் முன்னாள் பிரதமர் இம்ரான்கானின் கட்சியுடன் இணைந்து போட்டியிட்ட சுயேட்ச்சைகள் அதிகளவு ஆசனங்களை கைப்பற்றியுள்ளனர்.
+
+எனினும் இராணுவத்தின் ஆதரவுள்ளதாக கருதப்படும் முன்னாள் பிரதமர் நவாஸ்செரீவ் தன்னுடன் இணைந்து கூட்டணியமைக்குமாறு ஏனைய கட்சிகளிற்கு வேண்டுகோள் விடுத்துள்ளார்.
+
+தெளிவான வெற்றியாளர் இல்லாத நிலையில் அரசியல் கட்சிகள் ஐக்கியத்தையும் முதிர்ச்சியையும் வெளிப்படுத்தவேண்டும் என இராணுவதளபதி ஜெனரல் அசீம் முனிர் வேண்டுகோள் விடுத்துள்ளார்.
+
+துருவமயப்படுத்தல் என்பது 250 மில்லியன் மக்களை கொண்ட நாட்டிற்கு பொருந்தாத விடயம் என அவர் தெரிவித்துள்ளார்.
+
+தேர்தல்கள் வெற்றிதோல்விக்கான போட்டியில்லை மக்களின் ஆணையை பெறுவதற்கான முயற்சி என அவர் குறிப்பிட்டுள்ளார்.
+
+100 சுயேட்ச்சை வேட்பாளர்கள் தேர்தலில் வெற்றிபெற்றுள்ளனர் இவர்களில் 92 பேர் இம்ரான்கானின்  பிடிஐ கட்சியின் ஆதரவாளாகள் .
+
+...
+
+[Data](articles/1b89bbcc.json)
+
+---
+
+### President Ranil returns after Australia visit
+
+*2024-02-11 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97176/president-ranil-returns-after-australia-visit) · `en`
+
+President Ranil Wickramasinghe, who participated in the 7th Indian Ocean Conference held in Perth, has returned to the island following the conclusion of his official visit to Australia.
+
+Ada Derana reporter stated that the President and the delegation touched down at the Bandaranaike International Airport (BIA) in Katunayake last night (10) onboard SriLankan Airlines flight UL-309.
+
+President Wickramasinghe had left for Australia on January 08 at the invitation of the India Foundation and the Australian Government.
+
+During his visit, the President delivered the keynote speech at the 7th Indian Ocean Conference, focusing on the theme “Towards a Stable and Sustainable Indian Ocean”, and held bilateral discussions with the heads of state of many countries.
+
+◼️
+
+[Data](articles/dbc2c9d9.json)
+
+---
+
+### The President has returned to the country
 
 *2024-02-11 08:25:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பினார்-ஜனாதிபதி/175-332997) · `ta`
 
-அவுஸ்திரேலியாவின் பேர்த் நகரில் இடம்பெற்ற 7ஆவது இந்து சமுத்திர மாநாட்டில் கலந்துகொள்ள சென்றிருந்த ஜனாதிபதி ரணில் விக்ரமசிங்க நேற்று (10) இரவு நாடு திரும்பியுள்ளார்.
+President Ranil Wickremesinghe, who was attending the 7th Indian Ocean Conference in Perth, Australia, returned to the country last night.
 
-ஸ்ரீலங்கன் எயார்லைன்ஸ் விமானமான UL-309 மூலம் ஜனாதிபதி மற்றும் தூதுக்குழுவினர் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்துள்ளனர்.
+The President and the delegation arrived at the Katunayake airport by the SriLankan Airlines flight UL-309.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க கடந்த 8 ஆம் திகதி இரவு அவுஸ்திரேலியாவிற்கு பயணமாகியதுடன், ​​7ஆவது இந்து சமுத்திர மாநாட்டில் முக்கிய உரையை ஆற்றினார்.
+President Ranil Wickremesinghe traveled to Australia on the night of the 8th and delivered a key speech at the 7th Indian Ocean Conference.
 
-மேலும், பல நாடுகளின் அரச தலைவர்களுடனும் ஜனாதிபதி இருதரப்பு கலந்துரையாடல்களை மேற்கொண்டிருந்தார். R
+Also, the President had a bilateral discussion with the heads of states of many countries. Remble
 
 ◼️
 
 [Data](articles/4fa1e590.json)
 
+[Extended Data](ext_articles/4fa1e590.ext.json)
+
 ---
 
-### பேருந்து - முச்சக்கரவண்டி விபத்து; பெண்கள் படுகாயம்
+### Bus - three -wheeler accident;Women wounded
 
 *2024-02-11 08:19:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பேருந்து-முச்சக்கரவண்டி-விபத்து-பெண்கள்-படுகாயம்/76-332996) · `ta`
 
-ஹட்டன் - டிக்கோயா பிரதான வீதியில் அழுத்கல பகுதியில் முச்சக்கர வண்டியும், அரச பேருந்து ஒன்றும் மோதி விபத்து ஏற்பட்டுள்ளது.
+A three -wheeler and a state bus collided with a state -run bus on the Hatton - Tikoya main road.
 
-இதனால் முச்சக்கர வண்டியில் பயணம் செய்த பத்தனை ஜயசிரி புரவை சேர்ந்த 50 வயதுடைய பெண்ணும் 30 வயது உடைய பெண்ணும் காயமடைந்த நிலையில் டிக்கோயா கிளங்கன் ஆதார வைத்திய சாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+As a result, a 50 -year -old woman from Pathana Jayasiri Pur, who was traveling in a three -wheeler, has been admitted to the Tikoya Klangan Base Hospital with injuries.
 
-அரச பேருந்து அதன் சாரதி மற்றும் முச்சக்கர வண்டி சாரதி உட்பட முச்சக்கர வண்டியும் ஹட்டன் பொலிஸ் நிலையத்தில் தடுத்து வைத்து ஹட்டன் பொலிஸார் விசாரணை நடத்தி வருகின்றனர். R
+Hatton police are investigating a three -wheeler, including the state bus driver and the driver of the three -wheeler.. Remble
 
 ◼️
 
 [Data](articles/fc5034be.json)
+
+[Extended Data](ext_articles/fc5034be.ext.json)
 
 ---
 
@@ -101,6 +169,42 @@ The suspect was a resloved of the 30-year-old man of the attack.
 [Data](articles/b7f3e381.json)
 
 [Extended Data](ext_articles/b7f3e381.ext.json)
+
+---
+
+### ஐநா மனித உரிமை ஆணையாளர் அலுவலகத்தின் ஆலோசனைகளை பின்பற்றவேண்டிய அவசியமில்லை – விஜயதாச
+
+*2024-02-11 08:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176067) · `ta`
+
+ஐக்கிய நாடுகள் மனித உரிமை ஆணையாளர் அலுவலகத்தின் ஆலோசனைகளை பின்பற்றவேண்டிய அவசியமில்லை என நீதியமைச்சர் விஜயதாச ராஜபக்ச தெரிவித்துள்ளார்
+
+சண்டே ஒப்சேவருக்கான பேட்டியொன்றின் போது  நிகழ்நிலை பாதுகாப்பு சட்டம் குறித்த ஐக்கிய நாடுகள் மனித உரிமை ஆணையாளர் அலுவலகத்தின் கருத்து குறித்து கேட்கப்பட்ட கேள்விக்கு பதிலளிக்கையில் அவர் இதனை தெரிவித்துள்ளார்.
+
+நாங்கள் ஐக்கிய நாடுகள் மனித உரிமை ஆணையாளரின் அலுவலகத்தின் ஆலோசனைகளை செவிமடுக்கவேண்டிய அவசியமில்லை அவர்களின் செயற்பாடுகளின் மூலம் சாதகமான விளைவுகள் எதுவுமில்லை அவர்களின் செயற்பாடுகள் எப்போதும் எதிர்மறையானவை என அவர் தெரிவித்துள்ளார்.
+
+எங்களின் சிவில் சமூகத்தினர் சில சட்டங்களை மாற்றவேண்டும் என தெரிவித்துள்ளதால் நாங்கள் எங்கள் சமூகத்தினருடன் கலந்துரையாடுவோம் சர்வதேச நிபுணர்களுடன் இல்லை எனவும் அவர் தெரிவித்துள்ளார்.
+
+உள்நாட்டு சமூகத்துடன் பேச்சுவார்த்தைகளை மேற்கொண்டு சில மாற்றங்களை மேற்கொள்ளப்போகின்றோம் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/4498e520.json)
+
+---
+
+### Mainly fair weather expected over the island
+
+*2024-02-11 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97175/mainly-fair-weather-expected-over-the-island) · `en`
+
+Mainly fair weather will prevail over the island today (11), according to the Department of Meteorology.
+
+Fairly strong winds about 30-40 kmph can be expected at times in eastern slopes of the central hills and in Northern, North-Central, Southern, North-western, Uva and Eastern provinces.
+
+Misty conditions can be expected at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts during the morning, it said.
+
+◼️
+
+[Data](articles/c8c1ea39.json)
 
 ---
 
@@ -176,21 +280,63 @@ It has been revealed that the accident had occurred when the employees of the em
 
 ---
 
-### மருந்து நிறுவனங்கள் தொடர்பில் விசாரணை
+### இந்திய விஜயம் ஏன் ? நாடு திரும்பிய பின்னர் அனுரகுமார  தெரிவித்திருப்பது என்ன?
+
+*2024-02-11 07:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/176066) · `ta`
+
+இலங்கை எதிர்பார்க்கும்மாற்றங்கள் நிகழவேண்டும் என்றால் சர்வதேச சமூகத்தின் உதவி அவசியம் என ஜேவிபியின் தலைவர் அனுரகுமார திசநாயக்க தெரிவித்துள்ளார்.
+
+இந்திய விஜயத்தின் பின்னர் நாடு திரும்பியவேளை செய்தியாளர்களிற்கு கருத்து தெரிவிக்கையில் அவர் இதனை தெரிவித்துள்ளார்.
+
+இலங்கை இனிமேலும் ஒரு தனிமைப்பட்ட நாடாக செயற்படமுடியாது என தெரிவித்துள்ள அவர் நாடு எதிர்பார்க்கும் மாற்றங்களை அடைவதற்கான சர்வதேச ஆதரவை பெறுவதே இந்த விஜயத்தின் நோக்கம் எனவும் குறிப்பிட்டுள்ளார்.
+
+பிராந்தியத்தில் மிகவேகமாக வளர்ச்சியடைந்து வரும் நாடு இந்தியா தகவல் தொழில்நுட்ப துறையில் அந்த நாடு மிகுந்த நிபுணத்துவம் கொண்டதாக காணப்படுகின்றது இலங்கை அதன் ஆதரவை பெறலாம் என அவர் தெரிவித்துள்ளார்.
+
+76வருட பேரழிவு அரசியல் கலாச்சாரத்தை நாங்கள் நிறுத்தவேண்டும் மக்கள் பெரும் எதிர்பார்ப்பை கொண்டுள்ளனர் அந்த மாற்றத்தை ஏற்படுத்துவதற்கான விழிப்புணர்ச்சி அவர்கள் மத்தியில் தற்போது காணப்படுகின்றது எனவும் ஜேவிபியின் தலைவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/525de45f.json)
+
+---
+
+### இஸ்ரேலிய படையினரின் தாக்குதலில் சிக்கி காப்பாற்றுமாறு தொலைபேசியில் கதறிய சிறுமி உறவினர்களுடன் சடலமாக மீட்பு : காப்பாற்ற விரைந்த செம்பிறை பணியாளர்களும் பலி
+
+*2024-02-11 07:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176065) · `ta`
+
+கடந்த மாதம் உறவினர்களுடன் காரில் காசா நகரிலிருந்து தப்பிவெளியேறுகையில் இஸ்ரேலிய படையினரின் தாக்குதலில் சிக்குண்ட நிலையில் தன்னை காப்பாற்றுமாறு தொலைபேசியில் அலறிய ஆறு வயது சிறுமி சடலமாக மீட்கப்பட்டுள்ளார்.
+
+ஹின்ட் ரஜாப் என்ற அந்த சிறுமி தனது உறவினர்களுடன் காரில் தப்பிவெளியேறிக்கொண்டிருக்கையில் இஸ்ரேலின் டாங்கி தாக்குதலில் அவள் பயணித்துக்கொண்டிருந்த கார் சிக்குண்டது.
+
+சிறுமிக்கும் அவசரதொலைபேசி அழைப்பு பிரிவிற்கும் இடையிலான உரையாடல்கள் தாக்குதலில் சிறுமிமாத்திரம் உயிர் பிழைத்திருக்கின்றாள் என்பதை வெளிப்படுத்தியிருந்தன.
+
+ஹின்ட் ரஜாப் தனது உறவினர்களின் உடல்கள் மத்தியில் மறைந்திருந்து தன்னை காப்பாற்றுமாறு தொலைபேசி மூலம் கதறினாள்- எனினும் துப்பாக்கி பிரயோக சத்தங்களின் மத்தியில் அவளின் தொலைபேசி உரையாடல் துண்டிக்கப்பட்டது.
+
+அவர்களால் ஹின்ட் பயணம் செய்த காரை கண்டுபிடிக்க முடிந்தது,அந்த கார் சிதைவடைந்த நிலையில் காணப்பட்டது துப்பாக்கி சன்னங்கள் அதனை துளைத்திருந்தன.
+
+...
+
+[Data](articles/b926ab13.json)
+
+---
+
+### Investigate
 
 *2024-02-11 07:50:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருந்து-நிறுவனங்கள்-தொடர்பில்-விசாரணை/175-332995) · `ta`
 
-இலங்கையில் பதிவுசெய்யப்பட்ட அனைத்து மருந்து விற்பனை  மற்றும் கொள்வனவு நிறுவனங்களையும் விசாரிக்கும் பணியை குற்றப் புலனாய்வுத் திணைக்களம் மேற்கொண்டுள்ளது.
+The Criminal Investigation Department is in the process of investigating all the drug sales and purchasing companies registered in Sri Lanka.
 
-குற்றப்புலனாய்வுப் பிரிவிற்குப் பொறுப்பான பிரதி பொலிஸ் மா அதிபர் தலைமையில் நடைபெற்ற கூட்டத்தின் பின்னர் இந்த முடிவு எடுக்கப்பட்டுள்ளது.
+The decision was taken after a meeting chaired by the Deputy Inspector General of Police in charge of the Criminal Investigation Division.
 
-குறிப்பாக அண்மையில் மருந்து கொள்வனவு செய்த நிறுவனங்கள் மற்றும் அதனுடைய தொடர்புடையவர்கள் தொடர்பில் விரிவான விசாரணைகள் முன்னெடுக்கப்படுமென தீர்மானிக்கப்பட்டுள்ளது.
+It has been decided that a detailed investigation will be carried out in particular on the recent pharmaceutical companies and its relevant.
 
-ஹியுமன் இம்யூனோகுளோபுலின் ஊழல்கள் தொடர்பான விசாரணைகளை வலுப்படுத்த வேண்டியதன் அவசியம் குறித்து மேற்படி கூட்டத்தில் ஆராயப்பட்டதோடு, பொலிஸார் சமீபத்தில் சட்டமா அதிபருடன் தங்களது விசாரணையின்போது முன்னெடுக்கப்பட்ட சட்ட ரீதியான விடயங்கள் சம்பந்தமாகவும் பகிரப்பட்டது. (a)
+The meeting was examined at the meeting on the need to strengthen investigations into the Human immunoglobulin scandal and the police recently shared the legal issues carried out with the Attorney General during their inquiry.. (A)
 
 ◼️
 
 [Data](articles/99504046.json)
+
+[Extended Data](ext_articles/99504046.ext.json)
 
 ---
 
@@ -211,6 +357,44 @@ However, Opposition Leader Sajith Premadasa has stated that this is not the righ
 [Data](articles/2aa3d0cd.json)
 
 [Extended Data](ext_articles/2aa3d0cd.ext.json)
+
+---
+
+### President returns after participating in Indian Ocean Conference
+
+*2024-02-11 07:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-returns-after-participating-in-Indian-Ocean-Conference/108-276760) · `en`
+
+President Ranil Wickremesinghe, who went to participate in the seventh Indian Ocean Conference held in Perth, Australia, returned to Sri Lanka last night (10).
+
+The delegation that went to Australia along with the President also returned with him.
+
+They had first arrived at Singapore's Changi Airport from Perth, Australia. Later, they had arrived at the Katunayake Airport on board SriLankan Airlines flight UL-309.
+
+The President left Katunayake Airport for Perth, Australia on February 8.
+
+◼️
+
+[Data](articles/403fe1f1.json)
+
+---
+
+### Government to blacklist institutions not purchasing farmers’ paddy at minimum prices
+
+*2024-02-11 07:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-to-blacklist-institutions-not-purchasing-farmers-paddy-at-minimum-prices/108-276759) · `en`
+
+The government has decided to blacklist small and medium scale rice millers, paddy collectors and paddy warehouse owners and institutions if they do not purchase the farmers' paddy stocks at the minimum prices set by the government.
+
+The government has made arrangements to provide loans through several state and commercial banks at a concessional interest rates to buy paddy from farmers.
+
+Also, the minimum prices for paddy have been announced so as to be very beneficial to the farmers.
+
+Agriculture Minister Mahinda Amaraweera said a minimum price for paddy was decided upon this year to protect the farmers and consumers, and currently traders are buying paddy from farmers at a price of Rs. 70-80 per kilo.
+
+The Minister also mentioned that the government will provide an amount of Rs. 09 billion to the small and medium rice mill owners, paddy collectors and paddy warehouse owners at a subsidized interest rate for the paddy purchasing programme.
+
+◼️
+
+[Data](articles/e3b4c1ab.json)
 
 ---
 
@@ -257,6 +441,22 @@ In addition, 3914 tourists from Russia, 22,278 from Britain and 18,016 tourists 
 [Data](articles/fe9f471e.json)
 
 [Extended Data](ext_articles/fe9f471e.ext.json)
+
+---
+
+### ජනපති යළි එයි
+
+*2024-02-11 07:03:19* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-යළි-එයි/11-408000) · `si`
+
+ඕස්ට්‍රේලියාවේ පර්ත් නුවර පැවති 07 වන ඉන්දීය සාගර සමුළුවට සහභාගී වීමට එහි ගොස් සිටි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා 02/10 දින රාත්‍රී ශ්‍රී ලංකාවට පැමිණි බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා ද සනාථ කළේය.
+
+ජනාධිපතිවරයා සමග එහි ගොස් සිටි දූත පිරිස ද ආපසු සමග ආපසු පැමිණ තිබුණි. ඔවුන් ඕස්ට්‍රේලියාවේ පර්ත් නුවර සිට සිංගප්පූරුවේ චැංගි ගුවන් තොටුපොළ වෙත මුළින්ම පැමිණ තිබුණි. ඉන්පසුව එතැන් සිට 02/10 දින රාත්‍රී 0905 ට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 309 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+
+ජනාධිපතිවරයා ඉකුත් 02/08 දින ඕස්ට්‍රේලියාවේ පර්ත් නුවර බලා කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගොස් තිබුණි.
+
+◼️
+
+[Data](articles/8c22cdb0.json)
 
 ---
 
@@ -322,15 +522,17 @@ The President made the keynote address at the 7th Indian Ocean Conference in the
 
 ---
 
-### கொழும்பில் இலவச மருத்துவ முகாம்
+### Free Medical Camp in Colombo
 
 *2024-02-11 06:26:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இலவச-மருத்துவ-முகாம்/175-332994) · `ta`
 
-கொழும்பு தமிழ்ச் சங்கம், சங்கரபிள்ளை மண்டபத்தில் ஞாயிற்றுக்கிழமை (11) காலை 8.30 மணிமுதல் இலவச மருத்துவ முகாம் நடத்தப்படும்.
+The Free Medical Camp will be held from 8.30 am on Sunday (11) at the Sankarapillai Hall, Colombo Tamil Society.
 
 ◼️
 
 [Data](articles/c7b21e5b.json)
+
+[Extended Data](ext_articles/c7b21e5b.ext.json)
 
 ---
 
@@ -400,67 +602,75 @@ Flood storage, sediment control, water quality improvement, preventing shoreline
 
 ---
 
-### பொலிஸாருக்கு மேலதிக கொடுப்பனவு
+### Additional allowance to the police
 
 *2024-02-11 04:15:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாருக்கு-மேலதிக-கொடுப்பனவு/175-332993) · `ta`
 
-பொலிஸ் உத்தியோகத்தர்களுக்கு அதிகரிக்கப்பட்ட மேலதிக கொடுப்பனவு அடுத்த வாரம் முதல் வழங்கப்படும் என பதில் நிதியமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+Finance Minister Ranjith Siyambalapitiya said that the increased additional allowance to the police officers will be paid from next week.
 
-அதன்படி, 2024 ஆம் ஆண்டுக்கான வரவு செலவுத் திட்டத்தில் பொலிஸ் உத்தியோகத்தர்களுக்கு அதிகரிக்கப்பட்ட உணவு, பயண மற்றும் தங்குமிட கொடுப்பனவு அடுத்த வார ஆரம்பத்தில் இருந்து வழங்கப்படும் என பதில் நிதியமைச்சர் குறிப்பிட்டார்.
+Accordingly, the Finance Minister said that the increase in the budget of 2024 will be provided to the police officers from the beginning of next week.
 
-இதன்படி, இதுவரையில் கிடைத்த கொடுப்பனவுக்கு மேலதிகமாக, வரவு செலவுத் திட்டத்தின் மூலம் அதிகரிக்கப்பட்ட கொடுப்பனவு விரைவாக வழங்கப்படும் எனவும் அவர் தெரிவித்துள்ளார். (a)
+Accordingly, in addition to the allowance received so far, the budget will be increased through the budget quickly.. (A)
 
 ◼️
 
 [Data](articles/24246745.json)
 
+[Extended Data](ext_articles/24246745.ext.json)
+
 ---
 
-### வெப்பநிலை அதிகரிப்பு
+### Increase in the temperature
 
 *2024-02-11 04:06:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்பநிலை-அதிகரிப்பு/175-332992) · `ta`
 
-நாட்டின் பல பகுதிகளில் வெப்பநிலை 1 முதல் 4  செல்சியஸினால் அதிகரித்துள்ளது. புத்தளத்தில் அதிக வெப்பநிலை பதிவாகியுள்ளது.
+Temperature increased by 1 to 4 Celsius in many parts of the country. High temperature has been recorded in Puttalam.
 
-இரத்தினபுரியில் 33.5 செல்சியஸ் ஆக வெப்பநிலை பதிவாகியது. கட்டுநாயக்கவில் வெப்பநிலை 33.4 செல்சியஸாக உயர்ந்துள்ளது.
+Temperature recorded as 33.5 Celsius in Ratnapura. The temperature in Katunayake has risen to 33.4 Celsius.
 
-அடுத்த மாதம் வெப்பமான காலநிலை மேலும் அதிகரிக்கலாம் என வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது. (a)
+The Department of Meteorology has predicted that heating climate may further increase next month. (A)
 
 ◼️
 
 [Data](articles/47d45178.json)
 
+[Extended Data](ext_articles/47d45178.ext.json)
+
 ---
 
-### தங்க நகைகளை கடத்த முயன்ற பெண் கைது
+### Woman arrested for trying to kidnap gold jewelery
 
 *2024-02-11 04:01:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்க-நகைகளை-கடத்த-முயன்ற-பெண்-கைது/175-332991) · `ta`
 
-சட்டவிரோதமாக கொண்டுவரப்பட்ட 58 மில்லியன் ரூபா பெறுமதியான தங்க நகைகளை கடத்த முயன்ற பெண் ஒருவர் நேற்று கட்டுநாயக்க விமான நிலையத்தில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+A woman was arrested at the Katunayake airport yesterday for trying to smuggle gold jewelery worth 58 million rupees.
 
-கைது செய்யப்பட்டவர் விமான நிலையத்தில் சுத்திகரிப்பு பணியில் ஈடுபடும் வெயாங்கொடை பிரதேசத்தை சேர்ந்த 55 வயதுடைய பெண்ணாவார்.
+The arrested is a 55 -year -old woman from Weyangoda, who is working on the airport at the airport.
 
-சந்தேக நபர் விமான நிலைய புறப்படும் முனையத்தில் வைத்து கட்டுநாயக்க விமான நிலைய பொலிஸ் போதைப்பொருள்  தடுப்பு  பிரிவினரால் கைது செய்யப்பட்டுள்ளார். (a)
+The suspect has been arrested by the Katunayake airport police drug detention unit at the airport departure terminal. (A)
 
 ◼️
 
 [Data](articles/a12d5f99.json)
 
+[Extended Data](ext_articles/a12d5f99.ext.json)
+
 ---
 
-### புதிய களனி பாலம் மூடப்பட்டுள்ளது
+### The new Kelani Bridge is closed
 
 *2024-02-11 03:56:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-களனி-பாலம்-மூடப்பட்டுள்ளது/175-332990) · `ta`
 
-புதிய களனி பாலம் நாளை அதிகாலை 5 மணி வரை மூடப்படும் என பொலிஸார் தெரிவித்துள்ளனர்.
+The new Kelani Bridge will be closed until 5 am tomorrow, police said.
 
-திருத்தப் பணிகள் காரணமாக பாலம் நேற்று முன்தினம் 9 மணி முதல் மூடப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Due to the amendment, the bridge was closed from 9 pm yesterday, police said.
 
-எவ்வாறாயினும், கொழும்பில் இருந்து கட்டுநாயக்கவை நோக்கியும், கட்டுநாயக்கவிலிருந்து கொழும்பு நோக்கியும் பயணிக்க முடியும் என அறிவிக்கப்பட்டுள்ளது.
+However, it has been announced that it can travel from Colombo to Katunayake and from Katunayake to Colombo.
 
 ◼️
 
 [Data](articles/f04e7d21.json)
+
+[Extended Data](ext_articles/f04e7d21.ext.json)
 
 ---
 
@@ -1817,205 +2027,5 @@ The Metropolia University of Applied Sciences and Vaasa University of Applied Sc
 [Data](articles/e498f391.json)
 
 [Extended Data](ext_articles/e498f391.ext.json)
-
----
-
-### Tropical getaway at Sun Siyam Pasikudah this Valentine’s Day
-
-*2024-02-10 15:27:00* · [`islandlk`](http://island.lk/tropical-getaway-at-sun-siyam-pasikudah-this-valentines-day/) · `en`
-
-The Sun Siyam Pasikudah has come up with discount offers and savings for their customers to mark this Valentine’s Day enabling them to save up to 50% on room upgrades, 20% on the champagne dinners at wine cellar, and 15% on all F&B and spa experiences, said a press release.
-
-It said: Tucked away nearby some of Pasikudah’s most magnificent beaches, this boutique 5-star property offers couples an exclusive coastal experience amidst chic and sophisticated surroundings, perfect for a quick getaway. Boasting just 34 spacious and contemporary one-to-two-bedroom garden or beach pavilions, Sun Siyam Pasikudah ensures intimacy and luxury for couples seeking a romantic getaway. The bold monochromatic interiors balanced with rich golden tones create a unique and glamorous ambiance, setting the stage for unforgettable moments with your loved one.
-
-...
-
-[Data](articles/79c7ad2f.json)
-
-[Extended Data](ext_articles/79c7ad2f.ext.json)
-
----
-
-### Unraveling The Complexity Of Racism, A Global Perspective – Patali & Modi
-
-*2024-02-10 15:23:07* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/unraveling-the-complexity-of-racism-a-global-perspective-patali-modi/) · `en`
-
-Racism, an age-old societal ill, has embedded itself in various corners of the world, manifesting in different forms and shades. It is a divisive force that no enlightened individual would willingly embrace. Unfortunately, racists exist in every society, often driven by a misguided belief that aligning with discriminatory ideologies is a means of survival.
-
-A recent encounter with a photograph featuring Patali Champika Ranawaka and India’s Prime Minister, Narendra Modi, sparked reflections on the accusation of racism. Criticisms arose, labeling both individuals as racists, but the context within which these allegations emerged unveils a nuanced reality.
-
-Modi’s leadership in India has faced scrutiny, particularly concerning its impact on different ethnic and religious communities. While some may argue that his actions indicate racism, others assert that it stems from a sense of Nationalism. It is crucial to discern the thin line between nationalistic pride and discriminatory practices.
-
-...
-
-[Data](articles/7ddff309.json)
-
-[Extended Data](ext_articles/7ddff309.ext.json)
-
----
-
-### Applications called for post of Director General to Bribery Commission
-
-*2024-02-10 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97165/applications-called-for-post-of-director-general-to-bribery-commission) · `en`
-
-Applications have been called for the appointment of the Director General to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), the Parliamentary Communications Department announced.
-
-Applications are called pursuant to the provisions stipulated in the Anti-Corruption Act No 9 of 2023, it said in a statement.
-
-For this, the qualified persons will have to prepare the applications in accordance with the format published on the Parliament’s official website (www.parliament.lk) falling under ‘Quick Links’ titled “Appointment of the Director General to the Commission to Investigate Allegations of Bribery or Corruption”.
-
-The duly completed applications should be sent via registered post referred to the Secretary General of the Constitutional Council, Constitutional Council-Office, Parliament of Sri Lanka, Sri Jayewardenepura Kotte or via email to constitutionalcouncil@parliament.lk on or before 04 March 2024.
-
-...
-
-[Data](articles/ddbd4d2a.json)
-
-[Extended Data](ext_articles/ddbd4d2a.ext.json)
-
----
-
-### He did not interview diabetes drug - Professor Arjuna de Silva
-
-*2024-02-10 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193211) · `si`
-
-Prof. Arjuna de Silva says he has expressed a false visit to Diabetes.
-
-Senior Professor Arjuna de Silva, the Faculty of Ragama Medical Faculty, is notified in the letter of the false letter.
-
-The false letter of Dionica has been published regarding the drug and Professor Arjuna de Silva further stated that he never interviewed the drug.
-
-As a result, he said that he had never told or stop using diabetic drugs or using this drug or using this drug.
-
-He also said that he had already complained to the Computer Criminal Investigation Division regarding the involvement of this false news.
-
-◼️
-
-[Data](articles/1a75ea97.json)
-
-[Extended Data](ext_articles/1a75ea97.ext.json)
-
----
-
-### Growth in Sri Lanka’s official remittances slows to 16-month low
-
-*2024-02-10 15:07:00* · [`economynextcom`](https://economynext.com/growth-in-sri-lankas-official-remittances-slows-to-16-month-low-150568/) · `en`
-
-ECONOMYNEXT – Growth in Sri Lanka’s remittances coming through official channels slowed to a 16-month low in January after it showed more than 80 percent following the central bank’s improved exchange rate policy.
-
-The year-on-year remittance growth was 11.4 percent in January, the central bank data showed.
-
-Sri Lanka saw less than the January growth in monthly remittances in September 2022 when it showed a gain of 1.7 percent. Since then Sri Lanka witnessed a booming remittance growth.
-
-In January 2024, remittances went up to $487.6 million from $437.5 million in the same month a year earlier.
-
-The remittances, Sri Lanka’s top foreign exchange earner, dropped to less than $250 million a month in early 2022 when the island nation’s economy saw a parallel exchange rate amid booming hawala and undiyal measures which foreign workers switched to send money at a higher exchange rate.
-
-The remittances jumped 57 percent to its four-year high of $5.97 billion in 2023, from $3.8 billion a year earlier.
-
-...
-
-[Data](articles/1677d1f0.json)
-
-[Extended Data](ext_articles/1677d1f0.ext.json)
-
----
-
-### 200 renovated buses added to SLTB fleet
-
-*2024-02-10 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97164/200-renovated-buses-added-to-sltb-fleet) · `en`
-
-Sri Lanka Transport Board (SLTB) passenger bus fleet has been boosted by adding 200 renovated busses at an event held under the patronage of Prime Minister Dinesh Gunawardena on Friday (Feb.09).
-
-The event took place near Japan Sri Lanka Friendship Road, adjacent to the Parliament complex, the Prime Minister’s Office (PMO) said in a statement.
-
-“These busses were discarded and taken out of service earlier. They were fully renovated under the concept by Minister of Transport, Highways and Mass Media, Dr. Bandula Gunawardena.”
-
-Engineers and technicians from 107 SLTB depots and 11 regional work stations across the island have renovated these buses, the PMO added.
-
-◼️
-
-[Data](articles/bc0d7656.json)
-
-[Extended Data](ext_articles/bc0d7656.ext.json)
-
----
-
-### Fire at a private repository in Piliyandala
-
-*2024-02-10 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/176043) · `ta`
-
-Biliyandala police said that the fire broke out at the premises where the main equipment of a telephone company was placed due to a fire that broke out this afternoon.
-
-About ten fire trucks from the Fort, Dehiwala and the Colombo Municipal Council have rushed to the scene, officials said.
-
-Further investigations are underway as the cause of the fire has not yet been detected.
-
-◼️
-
-[Data](articles/0782753a.json)
-
-[Extended Data](ext_articles/0782753a.ext.json)
-
----
-
-### DMK MPs walk out of Lok Sabha over fishermen issue
-
-*2024-02-10 14:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/DMK-MPs-walk-out-of-Lok-Sabha-over-fishermen-issue/108-276740) · `en`
-
-India, Feb 10 (The Hindu) - The DMK on Saturday walked out of the Lok Sabha after an adjournment motion given by the party to discuss the arrest of 88 fishermen by the Sri Lankan Navy was rejected by the Speaker.
-
-“I had given an adjournment motion today, on behalf of the DMK we wanted to raise the issue in the House. The Speaker is not allowing us, that is why we have walked out,” DMK MP T.R. Baalu told the media outside the House.
-
-“…Nobody has been released so far. All these fishermen, they were fishing in our territorial water only. The Sri Lankan Navy is showing atrocious attitude and the Government of India is keeping a lukewarm position as far as this issue is concerned,” he said.
-
-...
-
-[Data](articles/9dda66c6.json)
-
-[Extended Data](ext_articles/9dda66c6.ext.json)
-
----
-
-### SLC to facilitate training for Ugandan cricket team, to play seven T20s
-
-*2024-02-10 14:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLC-to-facilitate-training-for-Ugandan-cricket-team-to-play-seven-T20s/108-276739) · `en`
-
-Colombo, Feb 10 (Daily Mirror) - Sri Lanka Cricket (SLC) will facilitate the Uganda national cricket team for a 14-day training camp.
-
-The Ugandan team, who last year qualified for the T20 World Cup, arrived in the island today.
-
-"The facilitation will include the allocation of an international ground (GICS, Galle), the allocation of a team from the High Performance Center Development Squads to play seven T20 games, and providing match-related logistics, such as umpires, scorers, match meals, medical support, and other relevant assistance at the ground," SLC said in a media statement.
-
-...
-
-[Data](articles/a20c2874.json)
-
-[Extended Data](ext_articles/a20c2874.ext.json)
-
----
-
-### A woman who tried to leave gold at Rs 58 million
-
-*2024-02-10 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193210) · `si`
-
-A woman was arrested for attempting to leave the airport today (10) a kilo of gold worth Rs. 58 million.
-
-A 55-year-old woman has been arrested.
-
-It is reported that the suspect was arrested by the airport drug control sector.
-
-In a toilet, which contains the jewelry and gel stock, has been given the parcel to the suspect.
-
-The woman who was arrested in the face of the customs has said that he had taken the parcel on the promise of Rs.
-
-The arrested were 55-year-old woman living in Weligoda - The Veyangoda, the Veyangoda, Veyangoda.
-
-Airport customs custody has been arrested and conducted further investigations.
-
-◼️
-
-[Data](articles/9524f229.json)
-
-[Extended Data](ext_articles/9524f229.ext.json)
 
 ---

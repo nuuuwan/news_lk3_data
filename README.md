@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 13:17:23**
+As of **2024-02-11 13:33:04**
 
 ## Newspaper Stats
 
-*Scraped **6,268** Articles*
+*Scraped **6,271** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 522
 tamilmirrorlk | 764
 virakesarilk | 775
 adaderanalk | 776
-adaderanasinhalalk | 855
+adaderanasinhalalk | 858
 dailymirrorlk | 909
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,266 (100.0%) of 6,268 articles have been extended.
+6,268 (100.0%) of 6,271 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,27 +46,85 @@ Wards ‘A’ and ‘D’ of the prison are reportedly used to detain criminals 
 
 [Data](articles/5f2039cb.json)
 
+[Extended Data](ext_articles/5f2039cb.ext.json)
+
 ---
 
-### ‘யன்னல்’ விவகாரம்: காதலன் கைது
+### මීගමුවේ ඝාතනයට භාවිත කළ යතුරුපැදිය සොයා ගැනේ
+
+*2024-02-11 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193245) · `si`
+
+මීගමුවේ පුද්ගල ඝාතනයට යොදාගත් යතුරුපැදිය සීදුවේ අතහැර දමා ගොස් තිබිය දී විමර්ශන නිලධාරින් විසින් සොයාගෙන තිබේ.
+
+මීගමුව - ගල්කන්ද මංසන්ධියේ දී පුද්ගලයෙකු ඉලක්කකර ඊයේ (10) රාත්‍රී 07ට පමණ වෙඩිතැබීමක් සිදුකර තිබිණි.
+
+පොලීසිය පැවසුවේ, ගල්කන්ද මංසන්ධියේ වෙළෙඳසලක් ඉදිරිපිට යතුරුපැදියක නැගී සිටි පුද්ගලයෙකු ඉලක්ක කරගනිමින් තවත් යතුරුපැදියකින් පැමිණි දෙදෙනෙකු එම වෙඩිතැබීම සිදු කර ඇති බවයි.
+
+වෙඩිතැබීම සඳහා භාවිත කර ඇත්තේ, මිලිමීටර් 9 වර්ගයේ ගිනි අවියකි.
+
+වෙඩිවැදුණු පුද්ගලයා මීගමුව මහ රෝහලට රැගෙන යාමට එම ස්ථානයේ සිටි පිරිස් කටයුතු කර තිබූ අතර, රෝහලට රැගෙන යන විටත් ඔහු මිය ගොස් තිබිණි.
+
+මිය ගිය පුද්ගලයා කිරණ ප්‍රදේශයේ පදිංචි ව සිටි 60 හැවිරිදි පුද්ගලයෙකි.
+
+වෙඩි තැබීමෙන් පසු සැකකරුවන් දෙදෙනා පළා ගොස් ඇති අතර, ඔවුන් සොයා මීගමුව කොට්ඨාස අපරාධ විමර්ශන අංශය මෙහෙයුමක් ආරම්භ කර තිබිණි.
+
+එහි දී වෙඩි තැබීමට පැමිණි යතුරුපැදිය සීදුව අමන්දොලුව - අලුත්හේන පාරේ අතහැර දමා ගොස් තිබිය දී සොයාගැනීමට විමර්ශන නිලධාරින් සමත් ව ඇත.
+
+...
+
+[Data](articles/51d382b7.json)
+
+---
+
+### Lover's arrest
 
 *2024-02-11 12:26:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/யன்னல்-விவகாரம்-காதலன்-கைது/93-333009) · `ta`
 
-தன்னுடைய வீட்டு இரவு வருமாறும், தான் உறங்கும் அறையின் யன்னலை தான் திறந்து வைத்திருப்பதாகவும் அச்சிறுமி தெரிவித்துள்ளார்.
+He said that he had opened his sleeping room for his home night.
 
-அதனடிப்படையிலேயே தன்னுடைய சின்ன காதலியின் வீட்டுக்கு, வியாழக்கிழமை (08) இரவு சென்ற காதலன், காதலியை துஷ்பிரயோகம் செய்துள்ளார்.
+Accordingly, the boyfriend, who went to his little girlfriend's house on Thursday night (08), abused the girlfriend.
 
-அப்பிரதேசத்தில் வசிக்கும் 12 வயதும் 6 மாதகங்களேயான சிறுமி, பக்கத்து வீடொன்றில் வசிக்கும் 25 வயதான இளைஞனுடன் காதல் வயப்பட்டுள்ளார்.
+The girl who lives in the area has been in love with a 25 -year -old young man living in a neighboring house.
 
-சிறுமியின் கோரிக்கைக்கு ஏற்ப, அச்சிறுமியின் விருப்பத்தின் பிரகாரமே, பாலியல் துஷ்பிரயோகம் செய்துள்ளார் என விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+Investigations have been found that she was sexually abused by the girl's wishes.
 
-தன்னுடைய விருப்பத்தின் பிரகாரமே இது நடந்துள்ளதாக தன்னுடைய தாயிடம் அச்சிறுமி தெரிவித்துள்ளார். இதுதொடர்பில், அந்த தாய், மறுநாள் (09) பொலிஸில் செய்த முறைப்பாட்டின் அடிப்படையிலேயே காதலன் கைது செய்யப்பட்டுள்ளார்.
+He told his mother that this was the case of her wishes. In this regard, the boy was arrested on the basis of a complaint made by the police the next day (09).
 
-வைத்திய பரிசோதனைக்காக சிறுமி மொனராகலை மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார் என தெரிவித்த பிபில பொலிஸார், கைது செய்துள்ள இளைஞனை, பிபில நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்த நடவடிக்கைளை எடுத்துள்ளதாக தெரிவித்தனர்.
+Bibila police said that the girl had been admitted to the Moneragala District Hospital for medical examination and had taken steps to bring the youth to the Bibila Magistrate's Court.
 
 ◼️
 
 [Data](articles/69631436.json)
+
+[Extended Data](ext_articles/69631436.ext.json)
+
+---
+
+### බ්‍රිතාන්‍යයේ ළාබාලතම ආචාර්ය උපාධිධාරියා
+
+*2024-02-11 12:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193244) · `si`
+
+වයස අවුරුදු 12 දී විශ්වවිද්‍යාලයට ඇතුළු වූ දරුවෙකු එංගලන්තයේ ළාබාලතම ආචාර්‍ය උපාධිධාරියා බවට පත් ව තිබේ.
+
+Yasha Asley නම් මොහු මානව ගණක යන්ත්‍රය ලෙස හැඳින්වෙන බව විදෙස් වාර්තා සඳහන් කරයි.
+
+ව්‍යවහාරික ගණිතය (applied mathematics) විෂය පිළිබඳ මොහු සිය ආචාර්‍ය උපාධිය සම්පූර්ණ කර ඇත.
+
+22 හැවිරිදි තාරකා භෞතික විද්‍යාඥයෙකු අභිභවා යමින් ආචාර්ය උපාධියක් ලබාගත් බ්‍රිතාන්‍යයේ ළාබාලතම පුද්ගලයා බවට Yasha Asley පත් ව තිබේ.
+
+මොහු කෘත්‍රීම බුද්ධිය (AI) සහ දත්ත විද්‍යාවට අදාළ ක්ෂේත්‍රයක රැකියාවක් කිරීමට අපේක්ෂා කරන බව වාර්තා වේ.
+
+Yasha Asley හට ප්‍රංශ සහ පර්සියානු භාෂා චතුර ලෙස හැසිරවිය හැකි බව ද සඳහන් ය.
+
+Yasha Asley පාසල් යන අවදියේ දී ඔහුගේ ප්‍රාථමික පාසල් ගුරුවරයා, පාසල තුළ Asleyගේ අධ්‍යාපන අවශ්‍යතා සපුරාලිය නොහැකි බව සඳහන් කර ඇත.
+
+ඒ අනුව සතියට දින 03ක් පමණක් පාසල් එන ලෙස හා සතියට දෙවරක් විශ්වවිද්‍යාලයට යන ලෙස ගුරුවරයා Asleyට උපදෙස් ලබා දී තිබේ.
+
+Yasha Asley බ්‍රිතාන්‍යයේ දැනට සිටින ළාබාලතම ආචාර්ය උපාධිධාරියා ලෙස සැලකෙන නමුත් එම ජයග්‍රහණය අත්කරගත් ලොව ළාබාලම පුද්ගලයා ඔහු නො වේ.
+
+...
+
+[Data](articles/43225ba4.json)
 
 ---
 
@@ -85,6 +143,26 @@ Meanwhile, Opposition Leader Sajith Premadasa, however, has declared that this i
 [Data](articles/32feb195.json)
 
 [Extended Data](ext_articles/32feb195.ext.json)
+
+---
+
+### දුෂ්මන්තට තරගාවලිය අහිමි වෙයි?
+
+*2024-02-11 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193243) · `si`
+
+ආබාධයක් හේතුවෙන් දුෂ්මන්ත චමීරට ඇෆ්ගනිස්ථානය සමග පැවත්වෙන එක්දින තරගාවලිය අහිමි වී ඇති බව ආරංචි මාර්ග සඳහන් කරයි.
+
+ඒ වෙනුවට අසිත ප්‍රනාන්දු ශ්‍රී ලංකා සංචිතයට ආදේශ කර ඇති බව වාර්තා වේ.
+
+සංචාරක ඇෆ්ගනිස්තාන කණ්ඩායම සහ ශ්‍රී ලංකා පිල අතර දෙවන එක්දින ක්‍රිකට් තරගය පල්ලේකැලේ ක්‍රීඩාංගණයේ දී අද (11) පස්වරුවේ පැවැත්වෙයි.
+
+ඇෆ්ගනිස්තාන පිල සහ ශ්‍රී ලංකාව අතර තරග 03කින් සමන්විත එක්දින ක්‍රිකට් තරගාවලියේ පළමු තරගය ලකුණු 42කින් ජය ගැනීමට ශ්‍රී ලංකා පිල සමත් විය.
+
+ඒ අනුව තරග 3කින් සමන්විත මෙම තරගාවලියේ එකට බින්දුවක් ලෙස පෙරමුණ ගෙන සිටින්නෙ ශ්‍රී ලංකාවයි.
+
+◼️
+
+[Data](articles/83140fde.json)
 
 ---
 
@@ -2019,69 +2097,5 @@ When asked about the Sri Lankan government’s decision to not allow the visits 
 [Data](articles/c927a490.json)
 
 [Extended Data](ext_articles/c927a490.ext.json)
-
----
-
-### Imran Khan released on 12 cases
-
-*2024-02-10 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193218) · `si`
-
-Former Prime Minister Imran Khan has been granted bail to the Imran Khan.
-
-Foreign media reports that the former Prime Minister has paid to 12 cases.
-
-However, he would have to be imprisoned as he was convicted of several other charges.
-
-Former Pakistani Minister of External Affairs Stadasana, former Pakistani Minister of External Affairs and 13 accusations has been lodged with the charges.
-
-◼️
-
-[Data](articles/23070206.json)
-
-[Extended Data](ext_articles/23070206.ext.json)
-
----
-
-### Director General looks for a Director General
-
-*2024-02-10 17:16:41* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-කොමිෂමට-අධ්‍යක්ෂ-ජෙනරාල්වරයෙක්-සොයයි/11-407995) · `si`
-
-Applications have been called on March 4 to select a Director General of Bribery or Corruption (Amendments) under the provisions of the Anti-Corruption Act, No. 9 of the Anti-Corruption Act.
-
-At least 15 years of experience of criminal cases, lawyers, which are not a criminal offense, and the good celebrations of the good and mental citizens who do not exceed the age of 55 years of age, are few eligible.
-
-Applications for this is stated that the application form is referring to the Parliament website (www.parlimen.lk).
-
-According to the Constitution, the President appoints bribery or corruption charges by the President as the recommendation of the Constitutional Council.
-
-◼️
-
-[Data](articles/5bf5ec2e.json)
-
-[Extended Data](ext_articles/5bf5ec2e.ext.json)
-
----
-
-### A free independent Palestinian state should be established within 5 years
-
-*2024-02-10 17:10:19* · [`adalk`](https://www.ada.lk/breaking_news/වසර-5ක්-තුළ-නිදහස්-ස්වාධීන-පලස්තීන-රාජ්‍යයක්-පිහිටුවිය-යුතුයි/11-407994) · `si`
-
-President Ranil Wickremesinghe stressed that the Indian Ocean is capable of setting up his passage without waiting for the global powers to decide until their destiny.
-
-The President pointed out that the building and awareness can be created by the Indian Ocean countries and improve awareness.
-
-By 2050, the President said that India, Indonesia was foretold that the GDP was foretelling eight times and the infrastructure that countries would be enhanced to facilitate it.
-
-President Ranil Wickremesinghe was speaking at the keynote address of the 7th Indian Ocean Conference in Perth, Australia.
-
-The 7th Conference of the Indian Ocean Conference will be held in Perth today and tomorrow (10), discussing common innovations and issues that are commonly affected by the Indian Ocean.
-
-The theme of the Indian Foundation with the Ministry of External Affairs and the Australian government, the Indian Foundation has been organized to "a fixed and sustainable Indian Ocean."
-
-...
-
-[Data](articles/f8cfe26b.json)
-
-[Extended Data](ext_articles/f8cfe26b.ext.json)
 
 ---

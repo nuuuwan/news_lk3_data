@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 01:49:54**
+As of **2024-02-12 02:02:33**
 
 ## Newspaper Stats
 
-*Scraped **6,345** Articles*
+*Scraped **6,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 87
 dbsjeyarajcom | 146
 economynextcom | 323
 islandlk | 334
-dailyftlk | 343
+dailyftlk | 344
 newsfirstlk | 363
 adalk | 533
 tamilmirrorlk | 771
 adaderanalk | 784
-virakesarilk | 786
+virakesarilk | 791
 adaderanasinhalalk | 875
 dailymirrorlk | 923
 
@@ -26,11 +26,71 @@ dailymirrorlk | 923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,345 (100.0%) of 6,345 articles have been extended.
+6,345 (99.9%) of 6,351 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### அநுரவை இந்தியா அழைத்தது ஏன்?
+
+*2024-02-12 01:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/176145) · `ta`
+
+மாலைதீவு இந்தியாவின் கையை விட்டே போகும் நிலை  உருவாகி இருக்கிறது. அவ்வாறான நிலை இலங்கையில் உருவாகி விடக்கூடாது என்பதில் இந்தியா கவனமாக இருக்கும்.
+
+அநுரகுமார திசாநாயக்க அமெரிக்காவுக்கும் இந்தியாவுக்கும் குறுகியகால இடைவெளிக்குள் பயணங்களை மேற்கொண்டு திரும்பியிருப்பது, அவரை நோக்கி சர்வதேச சமூகம் திரும்புகிறது என்பதையே உறுதிப்படுத்தியிருக்கிறது.
+
+இணைக்கப்பட்டிருந்த வடக்கு, கிழக்கு மாகாணங்களை உயர்நீதிமன்றத்தை அணுகி பிரிக்கும் தீர்ப்பை பெற்றுக் கொண்டதும்,  தமிழர் தாயகக் கோட்பாட்டை சிதைவுக்கு உட்படுத்தியதும் ஜே.வி.பி. தான்
+
+◼️
+
+[Data](articles/2b619893.json)
+
+---
+
+### விக்னேஸ்வரனின் (தடு)மாற்றம்
+
+*2024-02-12 01:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/176143) · `ta`
+
+மஹிந்தவும் ரணிலும் மோதிய போது, தேர்தலை புறக்கணித்ததன் மூலம், ரணில் விக்கிரமசிங்கவின் வெற்றியைத் தடுத்தது இன்னொரு உபாயம்.
+
+இந்த இரண்டு உபாயங்களும் கடந்த காலங்களில் தமிழ்த் தரப்பினால் கையாளப்பட்டவை. வரும் ஜனாதிபதி தேர்தலில் தமிழர் தரப்பு எத்தகைய உபாயத்தை கையாள போகிறது என தீர்மானிக்காத நிலையில், சி.வி.விக்னேஸ்வரன் திடீரென ரணில் பக்கம் சார்ந்திருப்பது முக்கியமாக கவனிக்கப்பட வேண்டியது.
+
+தனது எதிரியைத் தோற்கடிப்பதற்கு எல்லா வழிகளையும் கையாளக் கூடியவர் ரணில்.  அதனால், விக்னேஸ்வரனின் வழியாக தமிழ் வாக்குகளை சுருட்டவோ,  அல்லது பிரிக்கவோ முற்படுகிறாரா என்ற கேள்வி எழுந்திருப்பதில்  நியாயம் உள்ளது.
+
+◼️
+
+[Data](articles/7a5cb5d5.json)
+
+---
+
+### தேசிய வளங்களை தாரைவார்ப்பதாக இந்தியாவிடம் குறிப்பிடவில்லை ; மஹிந்தவை போன்று எம்மை விலைக்கு வாங்க முடியாது - அனுரகுமார திஸாநாயக்க
+
+*2024-02-12 00:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/176142) · `ta`
+
+மஹிந்த ராஜபக்ஷவை விலைக்கு வாங்கியதை போன்று  உலக நாடுகளால் எங்களை விலைக்கு வாங்க முடியாது.இந்திய விஜயத்தின் போது பல விடயங்கள் குறித்து அவதானம் செலுத்தப்பட்டன. நாட்டின் தேசிய வளங்களைத் தாரைவார்க்க ஒத்துழைப்பு வழங்குவதாக நாங்கள் குறிப்பிடவில்லை. காலவோட்டத்துக்கு பின்னர் உலகமும், அரசியலும் மாற்றமடைந்துள்ளது, ஆகவே நாங்களும் மாற்றமடைந்துள்ளோம் என்று இந்திய வெளியுறவு அமைச்சரிடம் குறிப்பிட்டோம் எனத் தேசிய மக்கள் சக்தியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான அனுரகுமார திஸாநாயக்க தெரிவித்தார்.
+
+நாடு என்ற ரீதியில் தனித்துச் செயற்பட முடியாது,சகல தரப்பினரின் ஒத்துழைப்புடன் முன்னோக்கிச் செல்ல வேண்டும்.நாட்டுக்கும்,நாட்டு மக்களுக்கும் பாதிப்பு ஏற்படாத வகையில் நாட்டுக்கு முன்னுரிமை வழங்கும் வகையிலான வெளிவிவகார கொள்கையில் இருந்துக் கொண்டு நாங்கள் செயற்படுவோம் எனவும் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/51550a5f.json)
+
+---
+
+### Sri Lankan rupee is more overvalued now than before the crisis
+
+*2024-02-12 00:35:58* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lankan-rupee-is-more-overvalued-now-than-before-the-crisis/4-758346) · `en`
+
+The value of the rupee will have to be at least partially restored if the country is to avoid stagnation and another currency crisis further down the road
+
+One of the important issues that appears to have gone under the radar since the debt crisis of April 2022 is the overvaluation of the Sri Lankan rupee. This is in spite of the fact that many commentators argued that the overvaluation of the Sri Lankan rupee was an important contributor to the debt crisis (see CBSL, 2023; Athukorale and Wagle, 2023). To the extent that they pay any attention at all to the exchange rate, they argue that the sharp depreciation of the currency following the foreign debt default in April 2022 restored the competitiveness of the currency such that its value is presently “supportive of the country’s trade competitiveness” (CBSL, 2023, p. 194).
+
+...
+
+[Data](articles/f7c747ad.json)
+
+---
 
 ### Without a code of ethics and principles of morality, no meaning in social market economy
 
@@ -49,6 +109,38 @@ Social market economy, or in other words ordoliberalism, is not a new ideal for 
 ---
 
 ### 2024-02-11 (Sunday)
+
+### பெண்களின் ஒத்துழைப்புடன் பலமான அரசாங்கத்தை ஸ்தாபிப்போம் - தேசிய மக்கள் சக்தி
+
+*2024-02-11 23:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176141) · `ta`
+
+பொருளாதார நெருக்கடிக்கு தீர்வு காண்பதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க குறிப்பிடுகிறார்.ஆனால் குடும்ப பெண்கள் பொருளாதார ரீதியில் மிக மோசமாக பாதிக்கப்பட்டுள்ளார்கள். பெண்களின் ஒத்துழைப்புடன் பலமான அரசாங்கத்தை ஸ்தாபிப்போம் எனத் தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஹரினி அமரசூரிய தெரிவித்தார்.
+
+அரசியல் ரீதியில் இதுவரை காலமும் கடைப்பிடித்த தவறான கொள்கையின் பிரதிபலனை இன்று ஒட்டுமொத்த நாடும் எதிர்கொள்கிறது. பொருளாதார ரீதியில் மக்கள் மிக மோசமாகப் பாதிக்கப்பட்டுள்ளார்கள். ஆனால் பொருளாதார நெருக்கடியிலிருந்து மீண்டு விட்டதாக ஜனாதிபதி குறிப்பிடுகிறார்.
+
+பொருளாதார பாதிப்பினால் குடும்ப பெண்கள் மிக மோசமாகப் பாதிக்கப்பட்டுள்ளார்கள்.தமது பிள்ளைகளுக்கு ஆரோக்கியமான உணவு வழங்குவது தாய்மார் எதிர்கொள்ளும் பிரதான பிரச்சினையாகக் காணப்படுகிறது.அரச தலைவர்களின் தவறான பொருளாதார முகாமைத்துவத்தினால் குடும்ப பெண்கள் நுண்கடன் திட்டம் ஒன்ற கோரப்பிடிக்குள் சிக்குண்டுள்ளார்கள்.
+
+...
+
+[Data](articles/641c86c6.json)
+
+---
+
+### பணி இடமாற்றத்தால் ஏற்பட்ட மனவிரக்தியால் அபிவிருத்தி உத்தியோகத்தர் உயிர்மாய்ப்பு!
+
+*2024-02-11 23:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/176140) · `ta`
+
+பணி இடமாற்றம் காரணமாக ஏற்பட்ட மனவிரக்தியால், சண்டிலிப்பாய் பிரதேச செயலகத்தில் கடமையாற்றும் கலாச்சார அபிவிருத்தி உத்தியோகத்தர் ஒருவர் தவறான முடிவெடுத்து ஞாயிற்றுக்கிழமை (11) தூக்கிட்டு உயிர்மாய்த்துள்ளளார். டச்சு வீதி மூளாய், சுழிபுரம் பகுதியை சேர்ந்த பேரம்பலம் புனிதா (வயது 49 திருமணமாகவில்லை) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+இவர் சண்டிலிப்பாய் பிரதேச செயலகத்தில் கடமை புரிந்து வரும் நிலையில் இவருக்கு இடமாற்றம் கிடைத்தது. ஆகையால் இடமாற்றத்தை இரத்துச் செய்வதற்கு முயற்சித்துள்ளார். ஆனால் முயற்சிகள் பலனளிக்கவில்லை.
+
+இந்நிலையில் ஞாயிற்றுக்கிழமை (11)  அவரது இல்லத்தில் தூக்கிட்டு உயிர்மாய்த்துள்ளளார். அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்றுப் பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/ff043b16.json)
+
+---
 
 ### Those who have separated from the party can reunite - I,. Chairman Vajira Abeywardena
 
@@ -2051,139 +2143,5 @@ Minister of External Affairs Alison added that this will improve the tourism ind
 [Data](articles/4f7af349.json)
 
 [Extended Data](ext_articles/4f7af349.ext.json)
-
----
-
-### Red Sea may occur in the Indian Ocean - Australian Foreign Minister warns
-
-*2024-02-11 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176069) · `ta`
-
-Australian Foreign Minister Beniwong has warned of accidents and misconceptions in the Indian Ocean.
-
-Speaking to the President of India, the President of India, Beniwong, said that the Indian Ocean is in need of transparency and stability against accidents and accidents.
-
-The US and Britain have launched attacks against the Iranian -backed Health insurgents in the Red Sea. Australia has supported these attacks.
-
-Speaking at a function attended by the President of Sri Lanka and the Indian Foreign Minister, the Australian Foreign Minister China said that the Red Sea could cause a lot of interest in the Hindu Samuthi region.
-
-Beniwong has said that the conflict is very dangerous due to the Taiwan Malaclain.
-
-He said that the world's freight transport and global oil exports are taking place through the Hindu Mudra, he said.
-
-◼️
-
-[Data](articles/04adb310.json)
-
-[Extended Data](ext_articles/04adb310.ext.json)
-
----
-
-### Military service compulsory for youths
-
-*2024-02-11 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193238) · `si`
-
-Military service has been compulsory for all the youths in Myanmar.
-
-According to foreign media reports, this step has been taken due to the tense situation in Myanmar.
-
-Accordingly, all 6 and 35 years old, aged 18 and 35, should be employed under military command for a minimum of two years.
-
-In 2021, the army was acquired by a conspiracy in the year, defeated in the battles with militias and anti-military rebels.
-
-◼️
-
-[Data](articles/512e664f.json)
-
-[Extended Data](ext_articles/512e664f.ext.json)
-
----
-
-### Hungarian President resigns over child sexual abuse pardon
-
-*2024-02-11 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97177/hungarian-president-resigns-over-child-sexual-abuse-pardon) · `en`
-
-(Reuters) - Hungarian President Katalin Novak resigned on Saturday after coming under mounting pressure for pardoning a man convicted of helping to cover up sexual abuse in a children’s home.
-
-Novak, a close ally of conservative Prime Minister Viktor Orban, resigned a week after her presidential pardon was first reported by local news site 444.hu.
-
-The revelation caused a public uproar and demands from the opposition for her and former Justice Minister Judit Varga to quit. Varga, who has been a rising star in Orban’s ruling Fidesz party, resigned as a lawmaker on Saturday.
-
-The scandal was a rare setback for Orban, who has been in power since 2010, and who faces European parliament elections just as the country emerges from an inflation crisis.
-
-Orban has for years campaigned to protect children from what he has described as LGBTQ activists roaming the nation’s schools. This has been one of several issues over which Orban has clashed with the European Commission.
-
-...
-
-[Data](articles/b27f77da.json)
-
-[Extended Data](ext_articles/b27f77da.ext.json)
-
----
-
-### Two former prime ministers say that they won the election
-
-*2024-02-11 08:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176068) · `ta`
-
-Pakistan's military commander has appealed to the unity as the two former prime ministers claim that they have won the Pakistan election.
-
-With the results of the election, the independence of former Prime Minister Imran Khan's party has won more seats.
-
-However, former Prime Minister Nawasserev, who is supposed to support the military, has appealed to other parties to form an alliance with him.
-
-Commander General Aseem Munir has appealed for political parties to express their unity and maturity in the absence of a clear winner.
-
-He said polarization is a matter of 250 million people.
-
-He noted that the elections are not a contest for success.
-
-100 independent candidates have won the election. Of these, 92 are the supporters of Imran Khan's PDI.
-
-The leader of the PDJ, who said he was going to rule, said he would engage in demonstrations if the full results were released by Sunday.
-
-◼️
-
-[Data](articles/1b89bbcc.json)
-
-[Extended Data](ext_articles/1b89bbcc.ext.json)
-
----
-
-### President Ranil returns after Australia visit
-
-*2024-02-11 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97176/president-ranil-returns-after-australia-visit) · `en`
-
-President Ranil Wickramasinghe, who participated in the 7th Indian Ocean Conference held in Perth, has returned to the island following the conclusion of his official visit to Australia.
-
-Ada Derana reporter stated that the President and the delegation touched down at the Bandaranaike International Airport (BIA) in Katunayake last night (10) onboard SriLankan Airlines flight UL-309.
-
-President Wickramasinghe had left for Australia on January 08 at the invitation of the India Foundation and the Australian Government.
-
-During his visit, the President delivered the keynote speech at the 7th Indian Ocean Conference, focusing on the theme “Towards a Stable and Sustainable Indian Ocean”, and held bilateral discussions with the heads of state of many countries.
-
-◼️
-
-[Data](articles/dbc2c9d9.json)
-
-[Extended Data](ext_articles/dbc2c9d9.ext.json)
-
----
-
-### The President has returned to the country
-
-*2024-02-11 08:25:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பினார்-ஜனாதிபதி/175-332997) · `ta`
-
-President Ranil Wickremesinghe, who was attending the 7th Indian Ocean Conference in Perth, Australia, returned to the country last night.
-
-The President and the delegation arrived at the Katunayake airport by the SriLankan Airlines flight UL-309.
-
-President Ranil Wickremesinghe traveled to Australia on the night of the 8th and delivered a key speech at the 7th Indian Ocean Conference.
-
-Also, the President had a bilateral discussion with the heads of states of many countries. Remble
-
-◼️
-
-[Data](articles/4fa1e590.json)
-
-[Extended Data](ext_articles/4fa1e590.ext.json)
 
 ---

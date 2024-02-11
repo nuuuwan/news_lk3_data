@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 22:02:38**
+As of **2024-02-11 22:17:36**
 
 ## Newspaper Stats
 
-*Scraped **6,326** Articles*
+*Scraped **6,327** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 363
 adalk | 531
 tamilmirrorlk | 769
 virakesarilk | 781
-adaderanalk | 781
+adaderanalk | 782
 adaderanasinhalalk | 873
 dailymirrorlk | 920
 
@@ -26,11 +26,33 @@ dailymirrorlk | 920
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,326 (100.0%) of 6,326 articles have been extended.
+6,326 (100.0%) of 6,327 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### Pakistan election: Final results give Khan-backed candidates lead
+
+*2024-02-11 21:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97188/pakistan-election-final-results-give-khan-backed-candidates-lead) · `en`
+
+The final results in Pakistan’s general election have put independent candidates backed by jailed ex-PM Imran Khan’s PTI party in the lead.
+
+Independents won 101 of the National Assembly seats. BBC analysis shows 93 of them went to PTI-backed candidates.
+
+That puts them ahead of ex-PM Nawaz Sharif’s PMLN who won 75 and it is unclear who will form a government.
+
+As wrangling continues, independent candidates who did not win have flooded courts with vote-rigging allegations.
+
+Both the PTI, which was blocked from taking part in the election, and Mr Sharif’s PMLN say they want to form the next government.
+
+The result was a surprise as most observers had expected Mr Sharif’s party - widely seen as having the powerful military’s backing - to win, given Mr Khan had been jailed on charges ranging from corruption to having married illegally and his party was barred from the ballot sheet.
+
+...
+
+[Data](articles/1637a75b.json)
+
+---
 
 ### A terrible accident in Ratnapura
 
@@ -2151,23 +2173,5 @@ With that victory and the wishes and wishes, cricket loves about the match are v
 [Data](articles/0693c2dc.json)
 
 [Extended Data](ext_articles/0693c2dc.ext.json)
-
----
-
-### A person who threw out social media
-
-*2024-02-11 06:59:13* · [`adalk`](https://www.ada.lk/breaking_news/සමාජ-මාධ්‍යයෙන්-මඩ-ගැසූ-පුද්ගලයෙකුට-වැඩ-වරදියි/11-407999) · `si`
-
-The Minister of Defense Tiran Alles said that a person who had acquired the assistance of a politician was arrested on social media.
-
-The Minister said that the arrests were made by the CID and he had over 4 lakhs at the time he was arrested.
-
-The Minister said that the Minister of Tamil, which is using the social media, is not a problem with the Internet Act.. That's why we brought this online safti bill. Prategizing is doing these social media despite the governments. I'm saying today .... This is the bill
-
-◼️
-
-[Data](articles/457133c7.json)
-
-[Extended Data](ext_articles/457133c7.ext.json)
 
 ---

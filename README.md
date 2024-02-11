@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 18:07:22**
+As of **2024-02-11 18:19:26**
 
 ## Newspaper Stats
 
-*Scraped **6,303** Articles*
+*Scraped **6,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 768
 virakesarilk | 775
 adaderanalk | 780
 adaderanasinhalalk | 866
-dailymirrorlk | 917
+dailymirrorlk | 919
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,303 (100.0%) of 6,303 articles have been extended.
+6,303 (100.0%) of 6,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### Legal action taken against Motor Traffic Department staff for fraudulent vehicle registration
+
+*2024-02-11 17:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Legal-action-taken-against-Motor-Traffic-Department-staff-for-fraudulent-vehicle-registration/108-276771) · `en`
+
+Colombo, Feb 11 (Daily Mirror) -The Commission to Investigate Allegations of Bribery or Corruption has initiated legal proceedings against seven individuals, including five Department of Motor Traffic employees, for unlawfully registering around 400 vehicles not cleared through Customs.
+
+According to the Bribery Commission, they possess information regarding the registration of nearly 400 vehicles that bypassed Sri Lanka Customs procedures, resulting in financial losses to the government through fraudulent means.
+
+Investigation officers from the commission have identified specific details about 156 of these vehicles, most of which fall under the luxury category.
+
+Consequently, the Bribery Commission has seized seven vehicles from the current owners and returned them to the Sri Lankan Customs, following court orders.
+
+◼️
+
+[Data](articles/f6998f28.json)
+
+---
 
 ### People in Jaffna apologize to Hariharan
 
@@ -699,6 +717,18 @@ Meanwhile, Opposition Leader Sajith Premadasa, however, has declared that this i
 [Data](articles/32feb195.json)
 
 [Extended Data](ext_articles/32feb195.ext.json)
+
+---
+
+### Blood donation camp for late Ven. Bellanwila Wimalarathana Thera
+
+*2024-02-11 12:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Blood-donation-camp-for-late-Ven-Bellanwila-Wimalarathana-Thera/110-276764) · `en`
+
+A blood donation camp, organized under the guidance of Ven. Bellanwila Dhammarathana Thero in commemoration of the 6th Remembrance Worship for the late Professor Ven. Bellanwila Wimalarathana Anunayake Thero took place today at the Bellanwila Rajamaha Viharaya.Pix by Kithsiri De Mel
+
+◼️
+
+[Data](articles/6c9b499c.json)
 
 ---
 
@@ -2087,45 +2117,5 @@ The President made this observation at an interview with Indian Media Channel in
 [Data](articles/096275bc.json)
 
 [Extended Data](ext_articles/096275bc.ext.json)
-
----
-
-### Palabari will be begged
-
-*2024-02-10 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193224) · `si`
-
-Acting IGP, Acting Inspector Tennakoon says that many issues have been revealed regarding the 'Kudu Maluwa' drug alias. '
-
-He points out that the powdered drug racket is confiscated.
-
-"In the next few months of the next few months you can bring the dysfunctional level. Inside the drugs are in three years.. 5013 million, Madagascar two and a half acres of land throughout Sri Lanka. There are 73 vehicles to other people's names.
-
-It's all taken to all the lists. A day after coming out of a few years, you'll have to beg the road. All the property belonging to the Valuy is confiscated.. Makes the powder money. "
-
-◼️
-
-[Data](articles/007864dd.json)
-
-[Extended Data](ext_articles/007864dd.ext.json)
-
----
-
-### The Rajapaksha Group is three airports in Sri Lanka
-
-*2024-02-10 21:24:39* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-ගුවන්-තොටුපොළ තුනක්-අදානි-සමූහයට/11-407998) · `si`
-
-Minister Harin Fernando says that the Rajapakse Group has already begun discussions to support the Rajapakse Group, a business network of three airports in Sri Lanka.
-
-The Minister has told the Hindu newspaper in India at a program held in Mumbai, India.
-
-According to Indian media reports, the Mattala airport, Ratmalana Airport, the Ratmalana Airport.
-
-The airport has begun to have a number of tourist arrivals to Sri Lanka last year following the revives in Sri Lanka.
-
-◼️
-
-[Data](articles/66d4236e.json)
-
-[Extended Data](ext_articles/66d4236e.ext.json)
 
 ---

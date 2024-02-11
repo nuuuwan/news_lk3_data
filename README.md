@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 07:40:01**
+As of **2024-02-11 07:52:47**
 
 ## Newspaper Stats
 
-*Scraped **6,215** Articles*
+*Scraped **6,217** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 75
 bbccomsinhala | 86
-dbsjeyarajcom | 145
+dbsjeyarajcom | 146
 economynextcom | 321
 islandlk | 333
 dailyftlk | 342
 newsfirstlk | 363
-adalk | 514
+adalk | 515
 tamilmirrorlk | 749
 adaderanalk | 769
 virakesarilk | 769
@@ -26,7 +26,7 @@ dailymirrorlk | 906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,215 (100.0%) of 6,215 articles have been extended.
+6,217 (100.0%) of 6,217 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -375,6 +375,26 @@ It's all taken to all the lists. A day after coming out of a few years, you'll h
 [Data](articles/007864dd.json)
 
 [Extended Data](ext_articles/007864dd.ext.json)
+
+---
+
+### The Rajapaksha Group is three airports in Sri Lanka
+
+*2024-02-10 21:24:39* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-ගුවන්-තොටුපොළ තුනක්-අදානි-සමූහයට/11-407998) · `si`
+
+Minister Harin Fernando says that the Rajapakse Group has already begun discussions to support the Rajapakse Group, a business network of three airports in Sri Lanka.
+
+The Minister has told the Hindu newspaper in India at a program held in Mumbai, India.
+
+According to Indian media reports, the Mattala airport, Ratmalana Airport, the Ratmalana Airport.
+
+The airport has begun to have a number of tourist arrivals to Sri Lanka last year following the revives in Sri Lanka.
+
+◼️
+
+[Data](articles/66d4236e.json)
+
+[Extended Data](ext_articles/66d4236e.ext.json)
 
 ---
 
@@ -2025,29 +2045,5 @@ Namal is presently in India on a two-day private visit to Uttar Pradesh to atten
 [Data](articles/cb814aae.json)
 
 [Extended Data](ext_articles/cb814aae.ext.json)
-
----
-
-### US decision to support the Gazette is affected by its influence in the Indian Ocean
-
-*2024-02-10 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/176029) · `ta`
-
-President Ranil Wickremesinghe has said that the US's decision to support the Gaza War will affect the US's influence in the Indian Ocean.
-
-The President said that the opposition of Islamic countries in the region could be affected by the establishment of close ties with the United States in the Indian Ocean.
-
-Ranil Wickremesinghe has said that the Chinese Russian Iranian strategies are further weakening the United States.
-
-The President said that if there was stability in the Hindu, the Gaza War should come to an end as soon as possible, and within five years of independent Palestine should be ensured.
-
-The President made this statement at the Seventh Indian Ocean Conference held in Australia.
-
-Ukraine War and its post -Western obstacles have helped to find new markets in China and Western Indian Ocean. For example, Russia's crude oil bay oil refinery is being purified.The President has said that Russia is engaged in maritime rehearsals with Hindus, such as Myanmar, South Africa.
-
-...
-
-[Data](articles/3f526717.json)
-
-[Extended Data](ext_articles/3f526717.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 01:17:21**
+As of **2024-02-12 01:33:07**
 
 ## Newspaper Stats
 
@@ -556,7 +556,7 @@ Railway employees are involved in trying to control this. The cause of the fire 
 
 *2024-02-11 19:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Air-quality-in-multiple-cities-deteriorates/108-276772) · `en`
 
-Colombo, Feb 11 (Daily Mirror) - The National Building Research Organization (NBRO) has issued a stark warning, revealing that air quality in several regions across the island has plunged to unhealthy levels.
+Colombo, Feb 11 (Daily Mirror) - The air quality in several regions across the island has plunged to unhealthy levels, the National Building Research Organization (NBRO) said.
 
 According to their latest assessment, apart from Nuwara Eliya, all other districts are grappling with unhealthy air conditions, with Colombo, Akurana in Kandy, and Jaffna registering notably high levels of pollution.
 

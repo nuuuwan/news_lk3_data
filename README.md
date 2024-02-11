@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 15:50:52**
+As of **2024-02-11 16:02:30**
 
 ## Newspaper Stats
 
-*Scraped **6,286** Articles*
+*Scraped **6,288** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ economynextcom | 321
 islandlk | 334
 dailyftlk | 342
 newsfirstlk | 363
-adalk | 523
-tamilmirrorlk | 765
+adalk | 524
+tamilmirrorlk | 766
 virakesarilk | 775
 adaderanalk | 777
 adaderanasinhalalk | 862
@@ -26,11 +26,31 @@ dailymirrorlk | 916
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,286 (100.0%) of 6,286 articles have been extended.
+6,288 (100.0%) of 6,288 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### Egg prices rise
+
+*2024-02-11 15:03:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலை-எகிறுகிறது/175-333014) · `ta`
+
+The State Trade Corporation has announced that 7 million imports imported this year will be distributed to Lanka Sathosa in the coming week.
+
+Steps are being taken to increase the price of eggs in the market as the festive season is near.
+
+Accordingly, consumers are accused of not being able to get eggs at Sathosa specialties and retail stations.
+
+At the same time, the price of a local egg from Monday (12). The All Ceylon Egg Manufacturers Association said it could increase by 65.
+
+◼️
+
+[Data](articles/96a91629.json)
+
+[Extended Data](ext_articles/96a91629.ext.json)
+
+---
 
 ### Anura Kumara Dissanayake in India
 
@@ -573,6 +593,24 @@ In addition, two phone chargers removed, two selected cards, two DATA Cable and 
 [Data](articles/fd663a27.json)
 
 [Extended Data](ext_articles/fd663a27.ext.json)
+
+---
+
+### The powdered sailway will have to begge the day
+
+*2024-02-11 10:47:08* · [`adalk`](https://www.ada.lk/breaking_news/එළියට-එන-දවසට-කුඩු-සළිදුට-හිඟා-කන්න-වෙනවා/11-408006) · `si`
+
+Acting Inspector Tennakoon, the acting IGP, has been confiscated all the property belonging to the Kudu Shaluwonder.. He also said that he had purchased two and a half acres of Madagascar.
+
+"In the next few months of the next few months you can bring the dysfunctional level. Inside the drugs are in three years.. 5013 million, Madagascar two and a half acres of land throughout Sri Lanka. There are 73 vehicles to other people's names.
+
+It's all taken to all the lists. A day after coming out of a few years, you'll have to beg the road. All the property belonging to the Valuy is confiscated.. Makes the powder money. "
+
+◼️
+
+[Data](articles/24ef3046.json)
+
+[Extended Data](ext_articles/24ef3046.ext.json)
 
 ---
 
@@ -2055,47 +2093,5 @@ According to police, the two unidentified gunmen had subsequently fled the scene
 [Data](articles/b4b5680e.json)
 
 [Extended Data](ext_articles/b4b5680e.ext.json)
-
----
-
-### Second child injured by falling tree in Gampola international school dies
-
-*2024-02-10 19:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Second-child-injured-by-falling-tree-in-Gampola-international-school-dies/108-276748) · `en`
-
-Gampola, Feb 10 (Daily Mirror) - Another child who was being treated for injuries after a tree collapsed on a group of students at an international school in Gampola, died this morning.
-
-On Monday, a five-year-old student was killed and two other students were injured when a tree collapsed on them at an international school in Gampola.
-
-The tree adjacent to the children’s play area had fallen on them due to winds, experienced at that time, initial investigation revealed while some 30 students of the nursery section were playing beneath the tree.
-
-Police said the child died this morning while receiving treatment at the National Hospital in Kandy.
-
-Police said the deceased was a 5-year-old child and a resident of Gampola.
-
-◼️
-
-[Data](articles/5f7c482b.json)
-
-[Extended Data](ext_articles/5f7c482b.ext.json)
-
----
-
-### Awareness for Arabian leopard protection raised in Colombo
-
-*2024-02-10 19:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Awareness-for-Arabian-leopard-protection-raised-in-Colombo/108-276750) · `en`
-
-Colombo, Feb 10 -  Saudi Ambassador Khalid bin Hamoud Alkahtani, held the “Cat Walk 2024” event at the Galle Face Hotel in Colombo to celebrate the International Day of the Arabian Leopard, which was adopted by the United Nations General Assembly on June 12,2023 .
-
-The resolution called “International Arabian Leopard Day” submitted by Saudi Arabia and co-sponsored by more than 30 countries, with the aim of highlighting the Arabian leopard as one of the most endangered breeds of big cats (lion, Panthera tigris, mountain lion, jaguar, cheetah, tiger, snow leopard) and highlighting the importance of preserving wildlife and biological diversity.
-
-The event included a walk on Galle Face Beach and highlighted Colombo's tourist attractions.
-
-A number of senior Ministers, Government Officials, Heads of Missions of Arab countries accredited to Sri Lanka, and a number of prominent media persons, Embassy officials, and their families participated in the event.
-
-◼️
-
-[Data](articles/cb4474e2.json)
-
-[Extended Data](ext_articles/cb4474e2.ext.json)
 
 ---

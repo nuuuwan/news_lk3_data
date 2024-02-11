@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 17:02:36**
+As of **2024-02-11 17:17:31**
 
 ## Newspaper Stats
 
-*Scraped **6,299** Articles*
+*Scraped **6,300** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,58 @@ adalk | 527
 tamilmirrorlk | 766
 virakesarilk | 775
 adaderanalk | 779
-adaderanasinhalalk | 865
+adaderanasinhalalk | 866
 dailymirrorlk | 917
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,298 (100.0%) of 6,299 articles have been extended.
+6,299 (100.0%) of 6,300 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
 
-### කංසා අඩංගු නිෂ්පාදන ගැන ආයුර්වේද වෛද්‍යවරු කළ ඉල්ලීම
+### සැප වාහන හොරෙන් ලියාපදිංචි කළ හැටි එළියට
+
+*2024-02-11 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193253) · `si`
+
+මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ 05 දෙනෙකු ඇතුළුව 07 දෙනෙකුට එරෙහිව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසින් නඩු පවරා තිබේ.
+
+ඒ ශ්‍රී ලංකා රේගුවේ නිෂ්කාසනය නොකළ මෝටර් රථ විශාල ප්‍රමාණයක් මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ ලියාපදිංචි කිරීම හරහා රජයට විශාල පාදුවීමක් සිදුවීම සම්බන්ධයෙනි.
+
+නිවේදනයක් නිකුත් කරමින් අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව සඳහන් කරන්නේ මෙලෙස නිෂ්කාසනය නොකළ මෝටර් රථ 400කට ආසන්න ප්‍රමාණයක් එම දෙපාර්තමේන්තුව ලියාපදිංචි කර ඇති බවට තොරතුරු ලැබී ඇති බවය.
+
+ඉන් වාහන 156ක් පිළිබඳව නිශ්චිත තොරතුරු කොමිෂන් සභාවේ නිලධාරීන් විසින් අනාවරණය කරගෙන ඇත.
+
+ඉන් බොහෝමයක් වාහන සුඛෝපභෝගී වාහන කාණ්ඩයට අයත් වන බවද අදාළ නිවේදනයේ දැක්වෙයි.
+
+එසේම මෙම වාහන වසර ගණනාවක් ප්‍රමාද වී ව්‍යාජ ආකාරයට මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ ලියාපදිංචි වීමෙන් එම කාලසීමාවට අදාළවද විශාල බදු මුදලක් රජයට අහිමිව ගොස් තිබේ.
+
+ඉහත වාහන අතරින් වාහන 07ක් වර්තමාන අයිතිකරුවන්ගෙන් ලබාගෙන ශ්‍රී ලංකා රේගුව වෙත භාරදෙන ලෙස අධිකරණය විසින් අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව වෙත නියෝග කර ඇත.
+
+...
+
+[Data](articles/915eafb4.json)
+
+---
+
+### Request of Ayurvedic doctors about hemp products
 
 *2024-02-11 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193252) · `si`
 
-දේශිය වෛද්‍යරු ඉල්ලා සිටින්නේ ආයුර්වේද දෙපාර්තමේන්තුව යටතේ ලියාපදිංචි කංසා අඩංගු නිෂ්පාදන යුක්තිය මෙහෙයුම යටතේ පොලිස් භාරයට නොගන්නා ලෙසය.
+Localistic doctors demands that the police custody is not carried out under the operation of registered products under the Department of Ayurveda.
 
-මාධ්‍ය හමුවක් පවත්වමින් ආයුර්වේද වෛද්‍ය සභාවේ හිටපු ලේඛකාධිකාරී වෛද්‍ය ඩැනිස්ටර් එල් පෙරේරා මහතා එම ඉල්ලීම කළේය.
+Former Registrar Dr. Danister L Perera made the request, holding a press conference.
 
-"නීත්‍යනුකූල බලය ලත් ඖෂධ වන මදනමෝදකය සහ කාමේෂ්වර මෝදකය වගේ ඖෂධ පවා නීතිවිරෝධී මත්ද්‍රව්‍ය සේ සළකා අත්අඩංගුවට ගන්නවා. නීත්‍යනුකූලව පිළිගත් දෙයක් මත්ද්‍රව්‍ය ලෙස තීරණය කිරීමෙන් ආයුර්වේද වෛද්‍ය ක්‍රමයට කරන යම්කිසි හානියක් වෙනවා. ආයුර්වේද දෙපාර්තමේන්තුවේ නීත්‍යනුකූල අනුමැතිය ඇති කණ්ඩායම්වලට අගතියක් නොවන පරිදි නීතිය ක්‍රියාත්මක කරන්න අවශ්‍යයි. එසේ නොමැතිනම් ආයුර්වේද දෙපාර්තමේන්තුව හරහා වැඩපිළිවෙළක් හදන්න කංසා අඩංගු ඖෂධ අත්අඩංගුවට ගැනීම සිදුකරනවානම්."
+"Severages such as legal powerful drugs and even drugs such as Pharmace. Determination as drugs to be legally recognized will result in a harm to Ayurvedic medicine. Law enforcement of law to the legal approval teams of the Department of Ayurveda are not prejudiced. Otherwise, if he arrest hemp drugs to create a program across the Department of Ayurveda. "
 
 ◼️
 
 [Data](articles/fd980908.json)
+
+[Extended Data](ext_articles/fd980908.ext.json)
 
 ---
 
@@ -2093,25 +2119,5 @@ The tourism revenue numbers are based on a survey conducted by the tourism promo
 [Data](articles/aa39a178.json)
 
 [Extended Data](ext_articles/aa39a178.ext.json)
-
----
-
-### Motorcycle of a garbage stopped by Beliwatta
-
-*2024-02-10 21:09:31* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්තේ-නවතා-තිබූ-ගරුවරයෙකුගේ-යතුරුපැදියක්-අතුරුදන්/11-407997) · `si`
-
-Beliatta Police have received a complaint to the Beliatta - the Beliattai police area.
-
-The owner of the motorcycle has told the Beliatta to the police, he is a teacher in the Colombo-based school, the Beliatta - Mattala, Beliatta - Mattala to the left area.The complainant told the police that the return of the motorbike to the scene of the motorcycle for the return of the motorcycle for the return of the job, he had not returned to the scenario of the motorbike after the work was completed.has.
-
-The complainant has told the police that the complainant is doing this task every weekend and the beginning of the week.
-
-The number of people in the nearby house in connection with the incident, the motorcycle was placed on the same place on the 8th and that the party had lost the motorbike until the complainant was told today.
-
-...
-
-[Data](articles/5290520a.json)
-
-[Extended Data](ext_articles/5290520a.ext.json)
 
 ---

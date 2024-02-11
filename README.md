@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 04:50:05**
+As of **2024-02-12 05:02:23**
 
 ## Newspaper Stats
 
-*Scraped **6,359** Articles*
+*Scraped **6,362** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ tamilmirrorlk | 772
 adaderanalk | 784
 virakesarilk | 794
 adaderanasinhalalk | 875
-dailymirrorlk | 923
+dailymirrorlk | 926
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,359 (100.0%) of 6,359 articles have been extended.
+6,359 (100.0%) of 6,362 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -127,6 +127,52 @@ The Thought Leadership Forum, an independent, apolitical, awareness enhancement 
 [Data](articles/0776137f.json)
 
 [Extended Data](ext_articles/0776137f.ext.json)
+
+---
+
+### Apologetic Marxists:  Yanis Varoufakis and Techno-Feudalism
+
+*2024-02-12 03:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Apologetic-Marxists-Yanis-Varoufakis-and-Techno-Feudalism/172-276783) · `en`
+
+In 2015, Yanis Varoufakis was appointed Finance Minister of Greece by socialist Premier, Alexis Tsipras. The Euro debt crisis crippled Greece six months later, giving the once popular Premier the stark choice of a painful IMF bailout or being forced to quit the EU and facing economic and diplomatic isolation.
+
+An academic and Marxist by orientation, Varoufakis vehemently opposed the IMF route, insisting on finding a solution locally. Initially, Premier Tsipras backed him, but opposition was overwhelming and he was forced to back down and opt for IMF.
+
+Varoufakis quit in protest. Unlike in Sri Lanka, he didn’t join the opposition or try to exploit the vacuum for personal gain. A former academic who foresaw the banking crisis of 2008, he began writing provocative and insightful books analyzing how and where the world order went wrong. Today, he is hailed as one of the most radical, daring and innovative thinkers around.
+
+...
+
+[Data](articles/e1900815.json)
+
+---
+
+### An Election’s A Brewing, Will We See JVP Policy Changes? - EDITORIAL
+
+*2024-02-12 02:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/An-Elections-A-Brewing-Will-We-See-JVP-Policy-Changes-EDITORIAL/172-276782) · `en`
+
+India’s invitation to the JVP/NPP and its leader, Anura Kumara Dissanayake – popularly known as AKD – has made political watchers put on their thinking caps. Many seem to believe the Indian action indicates its belief that the JVP/NPP combine is in a position to capture power at the next General Election or even at the Presidential Poll.
+
+The reality however is, that it is customary for the Indian government to extend such invitations to major political players of nations in its neighbourhood.
+
+What is almost vulgar however is that some of our major political parties have gone a running to ask India to extend similar invitations to them as well!
+
+...
+
+[Data](articles/ec6e3528.json)
+
+---
+
+### Generals & General Elections: Retired Military Officers in the Politics of SJB and JVP
+
+*2024-02-12 02:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Generals-General-Elections-Retired-Military-Officers-in-the-Politics-of-SJB-and-JVP/172-276780) · `en`
+
+“The follower is always far behind the winner” emphasizes the idea that those who follow, copy or imitate are usually not as successful or accomplished as the original trailblazer. This sentiment suggests that true success often comes from innovation, leadership, and being at the forefront of progress, rather than simply mimicking the actions of others.
+
+When faced with the opportunity to assume leadership in government, Sajith Premadasa exhibited a hesitant approach. His initial reluctance to take over the reins became evident, creating a perception of indecisiveness. In contrast, when Ranil Wickremesinghe appeared poised to accept the responsibility, Sajith swiftly changed course, making a hurried message to the President’s House. However, his attempt was futile as he arrived too late to alter the unfolding events.
+
+...
+
+[Data](articles/117673bd.json)
 
 ---
 
@@ -2103,69 +2149,5 @@ In addition, two phone chargers removed, two selected cards, two DATA Cable and 
 [Data](articles/fd663a27.json)
 
 [Extended Data](ext_articles/fd663a27.ext.json)
-
----
-
-### The powdered sailway will have to begge the day
-
-*2024-02-11 10:47:08* · [`adalk`](https://www.ada.lk/breaking_news/එළියට-එන-දවසට-කුඩු-සළිදුට-හිඟා-කන්න-වෙනවා/11-408006) · `si`
-
-Acting Inspector Tennakoon, the acting IGP, has been confiscated all the property belonging to the Kudu Shaluwonder.. He also said that he had purchased two and a half acres of Madagascar.
-
-"In the next few months of the next few months you can bring the dysfunctional level. Inside the drugs are in three years.. 5013 million, Madagascar two and a half acres of land throughout Sri Lanka. There are 73 vehicles to other people's names.
-
-It's all taken to all the lists. A day after coming out of a few years, you'll have to beg the road. All the property belonging to the Valuy is confiscated.. Makes the powder money. "
-
-◼️
-
-[Data](articles/24ef3046.json)
-
-[Extended Data](ext_articles/24ef3046.ext.json)
-
----
-
-### Jeevan Helping to Boy Pankala Boy Team Group
-
-*2024-02-11 10:43:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாய்-பங்கலா-பாய்-குழுவினருக்கு-ஜீவன்-உதவி/76-333001) · `ta`
-
-Minister Jeevan Thondaman has issued a sum of Rs.
-
-The General Secretary of the Ceylon Workers Congress, Water Resources and Estate Infrastructure, has funded the Diyatar Matsh Drama Group for the upcoming Diamonds of India and Kolkata on the 20th of March, which staged a playing play from the Central Divisional Estate of Bogawantalawa, Bogawantalawa.
-
-Meanwhile, the Theater Madsh Drama Group includes 14 schoolchildren and trainers. There are many such talented people in the hill plantation areas
-
-Minister Jeevan Thondaman also congratulated both Selvaraj Lilavati and Rasiah Lokanthan, who led the theater for the first time with the boys.
-
-The Minister also stated that he was proud of the meeting of the Theatermatesh Drama crew.. Meanwhile, the Diyatar Mattsh group said that he was proud to express his gratitude and congratulations to Minister Jeevan Thondaman, who provided a huge assistance to our Theatermatesh Committee.
-
-◼️
-
-[Data](articles/05d61b9b.json)
-
-[Extended Data](ext_articles/05d61b9b.ext.json)
-
----
-
-### Adani Group Administration of three airports in Sri Lanka?
-
-*2024-02-11 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176073) · `ta`
-
-The Sri Lankan government has held talks with the Adani Group to manage three airports in Sri Lanka, including the Bandaranaike International Airport in Colombo.
-
-Minister Harinbernando said this.
-
-Harinbernando said there are negotiations on the merger of Adani Group at the camp at the management of these airports.
-
-Sri Lanka has been investigating the provision of the administration of airports to the private sector as Sri Lanka's tourism industry is again growth.
-
-As a result, Sri Lanka expects that the private sector will help to expand resources and make travelers' experiences better.
-
-If these talks succeed, Adani Group will have the first opportunity to manage airports abroad.
-
-◼️
-
-[Data](articles/1cb82fb7.json)
-
-[Extended Data](ext_articles/1cb82fb7.ext.json)
 
 ---

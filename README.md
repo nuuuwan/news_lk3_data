@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 19:33:01**
+As of **2024-02-11 19:49:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 919
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,315 (100.0%) of 6,317 articles have been extended.
+6,317 (100.0%) of 6,317 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Thus, the NBRO urged for those suffering from respiratory or cardiac diseases, a
 ◼️
 
 [Data](articles/fb81bd73.json)
+
+[Extended Data](ext_articles/fb81bd73.ext.json)
 
 ---
 
@@ -194,21 +196,23 @@ Initial police investigations have revealed that the young man had come to the h
 
 ---
 
-### පොලිස් ඇමතිට බැන්න සැරයන්ට වැඩ වරදින ලකුණු
+### Signs of work guilty to go to police ministers
 
 *2024-02-11 17:17:37* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-ඇමතිට-බැන්න-සැරයන්ට-වැඩ-වරදින-ලකුණු/11-408013) · `si`
 
-ආරක්ෂක රාජ්‍ය අමාත්‍ය ටිරාන් අලස් මහතාට දුරකථනයෙන් අමතා සංයුක්ත දීමනාව ලබා නොදීම සම්බන්ධයෙන් පරුෂ වචනයෙන් බැන වැදුණු කියන  පොලිස්  සැරයන්වරයෙකුට එරෙහිව විමර්ශනයක් ආරම්භ කර ඇතැයි ජේෂ්ඨ  පොලිස් නිලධාරියෙක් පැවසීය.
+A senior police officer said that a police officer had begun an investigation against a police sergeant that he telephoned the State Minister Tiran Alles.
 
-මෙලෙස බැණ වැදී ඇත්තේ කැලණිය කොට්ඨාස දිසා බඩු ගබඩාවේ රාජකාරී කරනු ලබන පොලිස් සැරයන්  65223 කුමාර නැමැති නිලධාරියෙකි.
+The Kelaniya District Sergeant is a police sergeant 65223 Police Sergeant at the Kelaniya Divisional Secretariat.
 
-පොලිස් සැරයන්වරයා ඉකුත්  9 සවස් කාලයේදී බීමත්ව එම බැණ වැදීම සිදුකර ඇති අතර ඒ සම්බන්ධයෙන් සැරයන්වරයාගේ බිරිඳගෙන්ද ප්‍රකාශ සටහන් කරගෙන ඇත.
+The police sergeant had drunk and drunk and severely scolded them from the evening.
 
-කැලණිය දිස්ත්‍රික් 111 සහකාර පොලිස් අධිකාරි ඒ පි එන් ජි ජයතිලක මහතා විසින් විමර්ශනයක් ආරම්භ කර ඇතැයි පොලිස් ආරංචි මාර්ග සඳහන් කරයි.
+Kelaniya District 111 Assistant Superintendent of Police (Superintendent)
 
 ◼️
 
 [Data](articles/4a30dd87.json)
+
+[Extended Data](ext_articles/4a30dd87.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 04:32:54**
+As of **2024-02-12 04:50:05**
 
 ## Newspaper Stats
 
-*Scraped **6,358** Articles*
+*Scraped **6,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 87
 dbsjeyarajcom | 146
 economynextcom | 323
 islandlk | 334
-dailyftlk | 347
+dailyftlk | 348
 newsfirstlk | 363
 adalk | 533
 tamilmirrorlk | 772
@@ -26,11 +26,35 @@ dailymirrorlk | 923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,357 (100.0%) of 6,358 articles have been extended.
+6,359 (100.0%) of 6,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### Understanding with India important for development: Vijitha Herath
+
+*2024-02-12 04:06:54* · [`dailyftlk`](https://www.ft.lk/news/Understanding-with-India-important-for-development-Vijitha-Herath/56-758378) · `en`
+
+Says NPP did not request to visit India and was instead extended an official invitation by it’s Govt. in December
+
+Claims party’s opposition to privatising state enterprises sans a proper tender process remains and was intimated to Indian counterparts during the visit
+
+Stresses NPP is unhesitant in conducting economic and political affairs with any country
+
+Says it informed that under an NPP Govt. by adhering to a proper procurement process opportunities for investment will be open to any country
+
+Emphasises that NPP does not alter its political positions based on its relationships with China or India
+
+National People’s Power (NPP) MP Vijitha Herath yesterday said that maintaining an understanding with neighbouring India is important for the development of regional corporations.
+
+...
+
+[Data](articles/3054c46b.json)
+
+[Extended Data](ext_articles/3054c46b.ext.json)
+
+---
 
 ### SF found responsible for 2006 disappearance of Tamil youth
 
@@ -47,6 +71,8 @@ Vavuniya High Court Judge Manikkavasagam Ilancheliyan who delivered the verdict 
 ...
 
 [Data](articles/4d9898c3.json)
+
+[Extended Data](ext_articles/4d9898c3.ext.json)
 
 ---
 
@@ -2141,25 +2167,5 @@ If these talks succeed, Adani Group will have the first opportunity to manage ai
 [Data](articles/1cb82fb7.json)
 
 [Extended Data](ext_articles/1cb82fb7.ext.json)
-
----
-
-### In the event of the people critical
-
-*2024-02-11 10:38:39* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාව-තීරණාත්මක-අවස්ථාවක/11-408005) · `si`
-
-Deputy Leader of the UNP Ruwan Wijewardene said that the people of the country are in critical times and the UNP is preparing to overcome the presidential election this year.
-
-The deputy leader of the UNP was held at the Yakkala Sub-Office Auditorium, the organizations of the UNP.
-
-At this point President Ranil Wickremesinghe, presented to the general candidate, was unanimously passed.
-
-"This year can be known as a year. We need to prepare for the presidential election and the parliamentary election and the Provincial Council elections in October.. We consider this a decisive year as a deciding for the future of this country.
-
-...
-
-[Data](articles/e0399d56.json)
-
-[Extended Data](ext_articles/e0399d56.ext.json)
 
 ---

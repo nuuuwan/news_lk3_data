@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 08:50:27**
+As of **2024-02-11 09:02:36**
 
 ## Newspaper Stats
 
-*Scraped **6,217** Articles*
+*Scraped **6,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,166 @@ economynextcom | 321
 islandlk | 333
 dailyftlk | 342
 newsfirstlk | 363
-adalk | 515
+adalk | 516
 tamilmirrorlk | 749
 adaderanalk | 769
 virakesarilk | 769
-adaderanasinhalalk | 843
+adaderanasinhalalk | 850
 dailymirrorlk | 906
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,217 (100.0%) of 6,217 articles have been extended.
+6,217 (99.9%) of 6,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### පෞද්ගලික ආරවුලක් හේතුවෙන් මනුෂ්‍ය ඝාතනයක්
+
+*2024-02-11 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193237) · `si`
+
+පෞද්ගලික ආරවුලක් හේතුවෙන් මුගුරුකින් පහර දී පුද්ගලයෙකු ඝාතනය කර තිබේ.
+
+ඊයේ (12) එම ඝාතනය සිදු ව ඇත්තේ, සිරිපාගම - දකුණ මැල්කැල්ල - තවානවත්ත ‍ප්‍රදේශයේ දී ය.
+
+එසේ මිය ගොස් ඇත්තේ, මල්වත්ත - ඉලුක්වත්ත - ගිලීමලේ ප්‍රදේශයේ පදිංචි 52 හැවිරිදි පුද්ගලයෙකි.
+
+පහරදීම සිදු කළ 30 හැවිරිදි පුද්ගලයා එම ප්‍රදේශයේ ම පදිංචි අයෙකු බවත් සැකකරු අත්අඩංගුවට ගෙන ඇති බවත් පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/b7f3e381.json)
+
+---
+
+### දියේ ගිලී අතුරුදන් වීමක්
+
+*2024-02-11 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193236) · `si`
+
+තලාතුඔය - හාරගම - ගෝනවත්ත ප්‍රදේශයේ දී මහවැලි ගඟේ දිය නෑමට ගිය පුද්ගලයෙකු දියේ ගිලී අතුරුදන් ව තිබේ.
+
+ඊයේ (10) සවස් කාලයේ දී එම සිද්ධිය වාර්තා වූ බව තලාතුඔය පොලීසිය පවසයි.
+
+එසේ දියේ ගිලී අතුරුදන් ව ඇත්තේ, ගුරුදෙණිය ප්‍රදේශයේ පදිංචි 29 හැවිරිදි පුද්ගලයෙකි.
+
+මහනුවර පොලිස් ජීවිතාරක්ෂක නිලධාරින් හා ප්‍රදේශවාසින් එක් ව අතුරුදන් වූ අය සෙවීමේ කටයුතු සිදු කරන බව සඳහන් ය.
+
+◼️
+
+[Data](articles/c125fda1.json)
+
+---
+
+### හංගේරියානු ජනාධිපති ඉල්ලා අස් වෙයි
+
+*2024-02-11 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193235) · `si`
+
+හංගේරියානු ජනාධිපති කැටලීන් නොවැක් මහත්මිය සිය ධුරයෙන් ඉල්ලා අස් වී තිබේ.
+
+එරට රූපවාහිනී නාලිකාවක් ඔස්සේ හංගේරියානු ජනාධිපතිවරිය සිය ඉල්ලා අස් වීම නිවේදනය කර ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+
+ළමා ලිංගික අපයෝජන සිද්ධියක් වසන් කිරීමේ චෝදනාවට වරදකරු වූ පුද්ගලයෙකුට සමාව දීමට ගත් තීරණය හේතුවෙන් තමා සිය ධුරයෙන් ඉල්ලා අස් වන බව හංගේරියානු ජනාධිපතිවරිය ප්‍රකාශ කර ඇත.
+
+ළමා නිවාසයක අධ්‍යක්ෂවරයෙකුට එරෙහි ව එල්ල වී තිබූ ලිංගික අපයෝජන චෝදනයක් සම්බන්ධයෙන් වූ පැමිණිල්ල ඉල්ලා අස්කර ගන්නා ලෙසට ළමුන්ට බලකිරීම සම්බන්ධයෙන් සිරගත වූ පුද්ගලයෙකුට ජනාධිපති කැටලීන් නොවැක් පසුගිය සතියේ සමාව ලබා දී තිබිණි.
+
+ඒ සම්බන්ධයෙන් හංගේරියාවේ විරෝධතා පැවති අතර, විරෝධතාකරුවන් පැවසුවේ ජනාධිපතිවරිය සිය ධුරයෙන් ඉල්ලා අස් විය යුතු බවයි.
+
+අදාළ පුද්ගලයාට සමාව ලබාදීමේ දී තමා වරදක් කළ බව පවසමින් හංගේරියානු ජනාධිපති කැටලින් නොවැක් ජනතාවගෙන් සමාව අයැද සිටි බව විදෙස් මාධ්‍යය වාර්තා කර ඇත.
+
+◼️
+
+[Data](articles/a277d46e.json)
+
+---
+
+### පොලිස් නිලධාරියා ට මරු කැඳවූ මාරකය
+
+*2024-02-11 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193234) · `si`
+
+පල්ලම, නන්දිමිත්ත්‍ර පාසල අසලදී සිදු වූ යතුරුපැදි අනතුරකින් පොලිස් කොස්තාපල්වරයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඊයේ (10) උදෑසන කාලයේදී හලාවත දෙස සිට ආණමඩුව දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කර ගැනීමට නොහැකිව මාර්ගයෙන් ඉවතට ලිස්සා ගොස් එම අනතුර සිදුව ඇත.
+
+යතුරුපැදිකරු අනතුරින් බරපතළ තුවාල ලබා හලාවත රෝහලට ඇතුළත් කිරීමේදී මියගොස් තිබේ.
+
+එසේ මියගොස් ඇත්තේ, 2 කණුව, රිදිබැඳිඇල්ල ප්‍රදේශයේ පදිංචි හලාවත පොලිස් ස්ථානයට අනුයුක්ත රාජිකාරි කළ 23 හැවිරිදි පොලිස් කොස්තාපල්වරයෙකි.
+
+මේ අතර කටුනායක, ඇවරියවත්ත, මල්ගස් හංදිය මාර්ගයේ BOI ක්‍රීඩාංගණය අසලදී  වෑන් රථයක් යතුරුපැදියක ගැටී සිදුවූ අනතුරකින් පුද්ගලයෙකු මියගොස් තිබේ.
+
+මේ අතර හයිෆෙරස්ට් වත්ත 02 කෙටස කඳපොළ ප්‍රදේශයේ පුද්ගලයෙකු බරපතළ තුවාල සහිතව මාර්ගයේ වැටී සිටින බවට හයිෆෙරස්ට් පොලිස් ස්ථානයට තොරුතුක් ලැබී තිබුණි.
+
+එහිදී සිදුකළ විමර්ශනයේදී තුවාල ලබා සිටි පුද්ගලයා මියගොස් ඇති බවට නිරික්ෂණය වී ඇත.
+
+නුවරඑළිය ප්‍රදේශයේ ඇඟලුම් කාර්මාන්ත ශාලාවක සේවකයින් ප්‍රවාහනය කරන ලද බස් රථයට යට වීමෙන් මෙම අනතුර සිදුව ඇති බව අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/c5408a68.json)
+
+---
+
+### සහයෝගය දෙන බව මෛත්‍රී කියයි
+
+*2024-02-11 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193233) · `si`
+
+විධායක ජනාධිපති ක්‍රමය අහෝසි කිරීමේ යෝජනාවට සිය පක්ෂයේ සහයෝගය ලබාදෙන බව ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී මෛත්‍රීපාල සිරිසේන මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ, ඊට අදාළ යෝජනාවක් ගෙන ඒමේ සූදානමක් පවතින බවට තොරතුරු ලැබී ඇති බවයි.
+
+නිදහස වෙනුවෙන් අපි යන මැයෙන් ශ්‍රී ලංකා නිදහස් පක්ෂය සංවිධානය කර තිබූ සම්මන්ත්‍රණයකට එක්වෙමින් මෛත්‍රීපාල සිරිසේන මහතා මෙම අදහස් පළ කළේ ය.
+
+කෙසේ වෙතත් විධායක ජනාධිපති ධුරය අහෝසි කිරීමට සුදුසු අවස්ථාව මෙය නොවන බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/2aa3d0cd.json)
+
+---
+
+### හෘද රෝගින්ගේ ඉහළ යාමක්
+
+*2024-02-11 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193231) · `si`
+
+‍කලාපීය වශයෙන් ශ්‍රී ලංකාවේ හෘද රෝගින් වාර්තා වීම ඉහළ ගොස් ඇති බව සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා පවස‍යි.
+
+අමාත්‍යවරයා පෙන්වා දෙන්නේ, අධිරුධිර පීඩනය සහ දියවැඩියාව වැනි රෝගී තත්ත්වයන් මෙම තත්ත්වයට හේතු වී ඇති බවයි.
+
+ගාල්ල ප්‍රදේශයේ පැවති වෛද්‍ය සායනයකට එක්වෙමින් සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා මේ බව සදහන් කළේ ය.
+
+◼️
+
+[Data](articles/58ce9d5c.json)
+
+---
+
+### ‍ජනවාරි මස තුළ අමෙරිකානු ඩොලර් මිලියන 487ක්
+
+*2024-02-11 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193230) · `si`
+
+විදෙස්ගත ශ්‍රී ලාංකිකයන් මේ වසරේ ජනවාරි මාසය තුළ අමෙරිකානු ඩොලර් මිලියන 487.6ක් මෙරටට එවා තිබේ.
+
+එය පසුගිය වසරේ ජනවාරි මාසයට සාපේක්ෂ ව සියයට 11.4ක වැඩි වීමක් බව විදේශ රැකියා හා කම්කරු අමාත්‍ය මනූෂ නානායක්කාර මහතා සඳහන් කරයි.
+
+සිය එක්ස් ගිණුමේ සටහනක් තබමින් අමාත්‍යවරයා මේ බව සඳහන් කර ඇත.
+
+පසුගිය වසරේ ජනවාරි මාසයේ දී ‍විදෙස්ගත ව සිටින ශ්‍රී ලාංකිකයන් මෙරටට අමෙරිරිකානු ඩොලර් මිලියන 437.5ක් එවා තිබිණි.
+
+මේ අතර, පෙබරවාරි මාසයේ පළමු දින 08 තුළ පමණක් විදෙස් සංචාරකයන් 60,122 දෙනෙකු මෙරටට පැමිණ තිබේ.
+
+ඒ අනුව මේ වසරේ ගත වූ කාලය තුළ සංචාරකයන් 268‍,375 දෙනෙකු දිවයිනට පැමිණ ඇති බව සංචාරක සංවර්ධන අධිකාරිය සඳහන් කරයි.
+
+ඉන් වැඩි ම සංචාරකයන් පිරිසක් ඉන්දියාවෙන් පැමිණ ඇති අතර, එම සංඛ්‍යාව 42,768කි.
+
+ඊට අමතර ව රුසියාවෙන් සංචාරකයන් 39,914ක්, බ්‍රිතාන්‍යයෙන් 22,278ක් සහ ජර්මනියෙන් සංචාරකයන් 18,016 දෙනෙකු පැමිණ ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/fe9f471e.json)
+
+---
 
 ### Second ODIs today
 
@@ -51,6 +195,22 @@ With that victory and the wishes and wishes, cricket loves about the match are v
 [Data](articles/0693c2dc.json)
 
 [Extended Data](ext_articles/0693c2dc.ext.json)
+
+---
+
+### සමාජ මාධ්‍යයෙන් මඩ ගැසූ පුද්ගලයෙකුට වැඩ වරදියි
+
+*2024-02-11 06:59:13* · [`adalk`](https://www.ada.lk/breaking_news/සමාජ-මාධ්‍යයෙන්-මඩ-ගැසූ-පුද්ගලයෙකුට-වැඩ-වරදියි/11-407999) · `si`
+
+දේශපාලනඥයෙකුගේ සහාය ලබා ගනිමින් සමාජ මාධ්‍ය ඔස්සේ අපහාසාත්මක ප්‍රකාශයන් කළ පුද්ගලයෙක් අත්අඩංගුවට ගත් බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පැවැසීය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් මෙම අත්අඩංගුවට ගැනීම සිදුකළ බවත් ඔහු අත්අඩංගුවට පත්වන අවස්ථාවේදි රුපියල් ලක්ෂ 4කට අධික මුදලක් ඔහු සන්තකයේ තිබුණ බවත් අමාත්‍යවරයා සඳහන් කළේය.
+
+ආණ්ඩු පෙරළීමට පවා සමාජ මාධ්‍ය භාවිත කරන බව පෙන්වාදුන් අමාත්‍යවරයා එම මාධ්‍ය නිසියාකාරව භාවිත කරන කිසිවෙකුට ඔන්ලයින් පනත හරහා ගැටලුවක් නොවන බවද වැඩිදුරටත් පැවැසීය.ද, පොලිස්පතිතුමාට, ඔය ඔක්කෝටම මඩ ගහන්න සමාජ මධ්‍ය ජාල පාචිච්චි කරනවා. ඒක හින්දා තමයි අපි මේ ඔන්ලයින් සේෆ්ටි බිල් එක ගෙනාවේ. ආණ්ඩු පෙරළන්න වුණත් පාචිච්චි කරන්නේ මේ සමාජ මාධ්‍ය. මම අද කියන්නේ.... මේ පනතs
+
+◼️
+
+[Data](articles/457133c7.json)
 
 ---
 
@@ -1885,165 +2045,5 @@ Other airports being offered are Ratmalana Airport in Colombo and Mattala Airpor
 [Data](articles/9d3d8d63.json)
 
 [Extended Data](ext_articles/9d3d8d63.ext.json)
-
----
-
-### We are ready to provide the powers in the coordinating authority - many things or necessary - the President
-
-*2024-02-10 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176033) · `ta`
-
-President Ranil Wickremesinghe says that we are ready to provide many things or necessary for the powers in the coordinating authority.
-
-We want to provide its own economy to every provincial council, as I said, inaugurating the parliamentary session next year.
-
-As such, every province, like India, will compete with the economy of the other province.
-
-Moreover, these provinces must handle their economic social development within the National Policy Framework.
-
-On this basis, we are ready to provide many of the powers in the unity list.
-
-Some minority groups have made an appeal for the Senate. We will not oppose it as far as we are concerned. But all parties must accept it.
-
-◼️
-
-[Data](articles/9574c449.json)
-
-[Extended Data](ext_articles/9574c449.ext.json)
-
----
-
-### Murder of mulleriwa
-
-*2024-02-10 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193207) · `si`
-
-A 38-year-old father of two has been murdered in the Wekanda area in Mulleriyawa.
-
-The murder was cut off and the murder had been committed and has not yet been revealed.
-
-It is reported that an alcohol party has held a liquor party last night.
-
-◼️
-
-[Data](articles/675224e8.json)
-
-[Extended Data](ext_articles/675224e8.ext.json)
-
----
-
-### Atriani Group discusses on airport
-
-*2024-02-10 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193206) · `si`
-
-The Rajapakse Group has been discussed with the authorities in the country regarding the administration of 3 airports.
-
-The Hon.
-
-The Indian media states that the Rajapakse Group is currently discussing with the authorities to expand and increase the facilities at the airports.
-
-The Rajapakse Group is already conducting administrative activities of 7 airport including India, Mumbai International Airport.
-
-◼️
-
-[Data](articles/de0a555a.json)
-
-[Extended Data](ext_articles/de0a555a.ext.json)
-
----
-
-### Troops reap the harvest…
-
-*2024-02-10 12:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Troops-reap-the-harvest/110-276679) · `en`
-
-Troops from the Sri Lanka Army Corps of Agriculture and Livestock harvesting the paddy cultivated near the fields of the Army headquarters in Colombo. They currently maintain 20 farms island-wide, covering a total of 7,500 acres, which include 450 acres dedicated to paddy cultivation. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/6a280491.json)
-
-[Extended Data](ext_articles/6a280491.ext.json)
-
----
-
-### Pakistan election: US, UK and EU urge probe, express concern
-
-*2024-02-10 12:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pakistan-election-US-UK-and-EU-urge-probe-express-concern/108-276736) · `en`
-
-(Reuters) - The United States, Britain and the European Union on Friday separately expressed concerns about Pakistan's electoral process in the wake of a vote on Thursday and urged a probe into reported irregularities.
-
-The main battle was between former prime minister Nawaz Sharif's party and candidates backed by ex-prime minister Imran Khan. Both declared victory separately.
-
-Elections were held for 265 seats in the national assembly and a political party needs 133 seats for a simple majority.
-
-The U.S. and the EU both mentioned allegations of interference, including arrests of activists, and added that claims of irregularities, interference and fraud should be fully investigated.
-
-Khan is in jail and his Pakistan Tehreek-e-Insaf (PTI) party has been barred from the polls. Independents, most of them backed by Khan, had won the most seats - 98 of the 245 counted by 1830 GMT - while Sharif's Pakistan Muslim League-Nawaz (PML-N) party had won 69 seats.
-
-...
-
-[Data](articles/fe0ed0f4.json)
-
-[Extended Data](ext_articles/fe0ed0f4.ext.json)
-
----
-
-### Mother sexually abusing her mother
-
-*2024-02-10 12:28:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாயை-கட்டிவைத்து-விட்டு-சிறுமி-பாலியல்-துஷ்பிரயோகம்/175-332969) · `ta`
-
-A man allegedly allegedly allegedly allegedly sexually abusing a 13 -year -old girl was arrested yesterday (9).
-
-He was involved in an inappropriate relationship with the mother of the victim, police said.
-
-During the incident, the suspect came home while intoxicated, and she took the girl's mother's arms and feet in the kitchen and took the girl into a room and sexually abused her.
-
-The mother of the victim has lodged a complaint at the Minuwangoda Police Station.
-
-The suspect has been arrested and the victim has been subjected to the hospital for examination, police said.
-
-◼️
-
-[Data](articles/0228dd99.json)
-
-[Extended Data](ext_articles/0228dd99.ext.json)
-
----
-
-### 663 suspects arrested
-
-*2024-02-10 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/176031) · `ta`
-
-The Ministry of Public Security has said that 663 suspects have been arrested in the last 24 hours under the strategy.
-
-The arrested include 547 people on drug charges and 116 on the list of criminals.
-
-Steps have been taken to obtain a detention order against two of the arrested persons.
-
-Steps have been taken to send two drug addicts to the rehabilitation center.
-
-The Ministry said that 14 of the suspects have been issued against drug offenses and 95 others have been issued for non -narcotics crimes.
-
-During this time, 175 grams of heroin, 197 grams of ice, 515 grams of cannabis and 807 ganja plants were seized.
-
-◼️
-
-[Data](articles/f318690f.json)
-
-[Extended Data](ext_articles/f318690f.ext.json)
-
----
-
-### Namal Rajapaksa holds talks with Yogi Adityanath
-
-*2024-02-10 12:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Namal-Rajapaksa-holds-talks-with-Yogi-Adityanath/108-276735) · `en`
-
-India, Feb 10 -  SLPP MP Namal Rajapaksa who is presently in India on a two-day visit held discussions with BJP member and Chief Minister of Uttar Pradesh, Yogi Adityanath and several senior Indian officials.
-
-Namal is presently in India on a two-day private visit to Uttar Pradesh to attend a pooja in the Ayodhya Ram Temple.
-
-◼️
-
-[Data](articles/cb814aae.json)
-
-[Extended Data](ext_articles/cb814aae.ext.json)
 
 ---

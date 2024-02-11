@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 13:51:33**
+As of **2024-02-11 14:02:31**
 
 ## Newspaper Stats
 
-*Scraped **6,274** Articles*
+*Scraped **6,278** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ economynextcom | 321
 islandlk | 333
 dailyftlk | 342
 newsfirstlk | 363
-adalk | 522
+adalk | 523
 tamilmirrorlk | 764
 virakesarilk | 775
 adaderanalk | 776
 adaderanasinhalalk | 859
-dailymirrorlk | 911
+dailymirrorlk | 914
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,274 (100.0%) of 6,274 articles have been extended.
+6,278 (100.0%) of 6,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### Robber fatally assaulted by residents during break-in attempt
+
+*2024-02-11 13:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Robber-fatally-assaulted-by-residents-during-break-in-attempt/108-276767) · `en`
+
+Gampaha, Feb 11 (Daily Mirror) - A robber who had tried to break-in to a house in the Yagodamulla area in Minuwangoda died after being assaulted by the residents.
+
+Police said a group of three robbers had entered the house at around 4 am today (11) with the aim of looting the property.
+
+One of the robbers had reportedly been attacked with a sharp weapon by a person in the house.
+
+The other two robbers had fled, and the Minuwangoda police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/e77a001d.json)
+
+[Extended Data](ext_articles/e77a001d.ext.json)
+
+---
 
 ### NPP says that changed compared to changes
 
@@ -237,6 +257,28 @@ Accordingly, Sri Lanka is a drop of the 3-match tournament.
 [Data](articles/83140fde.json)
 
 [Extended Data](ext_articles/83140fde.ext.json)
+
+---
+
+### A gang allegedly arrested on rent basis
+
+*2024-02-11 11:44:16* · [`adalk`](https://www.ada.lk/breaking_news/කුලී-පදනම-මත-වාහන-ගෙන-කොටස්-කරන-කල්ලියක්-දැලේ/11-408007) · `si`
+
+The Gampaha Divisional Corrupation Investigation Department states that a gang leader and a colleague have been arrested by vehicles and vehicles from lease.
+
+Police said that the police were able to trap the Vish Leader and the other while they were part of a vehicle in the Nittambuwa area.
+
+The suspects say that the suspects are married to the Nelunadeniya and Niei areas and are revealed that the suspect had already served in the Science Department Examinations.. Police have received complaints that they had been fraudulent claiming that they would fertilize fertilizer in various parts of the island.
+
+According to the information revealed in question, the GPS technology was removed and taken to the solo area and took the GPS technology to the Nittamba..
+
+The car belonging to a resident of Kandy area has been submitted to a taxi area in Anuradhapura.
+
+...
+
+[Data](articles/a122932f.json)
+
+[Extended Data](ext_articles/a122932f.ext.json)
 
 ---
 
@@ -1440,6 +1482,28 @@ Other airports being offered are Ratmalana Airport in Colombo and Mattala Airpor
 
 ### ’For me to be back I must contest’: President on Presidential election
 
+*2024-02-10 22:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/For-me-to-be-back-I-must-contest-President-on-Presidential-election/155-276755) · `en`
+
+Feb 10 -  President Ranil Wickremesinghe expressed optimism of contesting the upcoming presidential election that is slated to be held this year.
+
+The President revealed this during an exclusive interview with Indian news channel WION.
+
+President Wickremesinghe, addressing concerns about China’s increased presence in the Indian Ocean region, stated, "....the island nation will not allow anything that would jeopardize India’s security."
+
+The Sri Lankan leader emphasized, “We’ve kept Indian security in mind and we will not allow anything to happen that will be harmful to Indian security, and these are all hydrographical vessels.”
+
+When queried about the Sri Lankan government’s decision to not allow the visits of Chinese vessels, Wickremesinghe, who is in Australia for the 7th Indian Ocean Conference, clarified that the administration decided to say no to ships from any country hydrographic matters as it is focusing on building its own hydrographical capacity.
+
+...
+
+[Data](articles/7e111d3e.json)
+
+[Extended Data](ext_articles/7e111d3e.ext.json)
+
+---
+
+### ’For me to be back I must contest’: President on Presidential election
+
 *2024-02-10 22:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/For-me-to-be-back-I-must-contest-President-on-Presidential-election/108-276755) · `en`
 
 Feb 10 -  President Ranil Wickremesinghe expressed optimism of contesting the upcoming presidential election that is slated to be held this year.
@@ -1701,6 +1765,24 @@ Initial investigations revealed that the shooting in Puttalam was over a land di
 [Data](articles/845c222c.json)
 
 [Extended Data](ext_articles/845c222c.ext.json)
+
+---
+
+### India’s Unified Payments Interface to be launched on Monday: Ali Sabry
+
+*2024-02-10 20:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indias-Unified-Payments-Interface-to-be-launched-on-Monday-Ali-Sabry/108-276751) · `en`
+
+Perth, Feb. 10 (WION)- India's Unified Payments Interface (UPI) will be launched on 12 February, Foreign Minister Ali Sabry has told the Indian media.
+
+"The UPI payment gateway will be signed. And I think both our leaders will connect online which will help increase tourism," the Minister said speaking to WION diplomatic correspondent Sidhant Sibal in Perth.
+
+"The Minister is in Perth for the Indian Ocean conference. He also pointed to the establishment of Indian IIT in his country. He said, "A delegation from Sri Lanka has gone to IIT Madras and they are discussing this possibility of establishing an IIT campus in Sri Lanka," the WION reported.
+
+◼️
+
+[Data](articles/17045ad0.json)
+
+[Extended Data](ext_articles/17045ad0.ext.json)
 
 ---
 
@@ -2017,95 +2099,5 @@ The sleuths found gold jewellery and gold gel weighing up to 2,700 grams from th
 [Data](articles/802e889d.json)
 
 [Extended Data](ext_articles/802e889d.ext.json)
-
----
-
-### Spotlight On SCOTUS In The US. People Give The Finger In Pakistan
-
-*2024-02-10 18:30:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/spotlight-on-scotus-in-the-us-people-give-the-finger-in-pakistan/) · `en`
-
-In the US, Former President Donald Trump is facing multiple indictments, involving numerous charges, in multiple courts. Perhaps no American before him, let alone a former President, has been simultaneously implicated in so many litigations. At the same time, even as he is mired in a myriad of trials, Donald Trump has also put on trial the entire American political system.
-
-The spotlight is now on SCOTUS, the Supreme Court of the United States. The Court has come under compulsion to make two consequential rulings – one on the disqualification of Trump by the State of Colorado to be a presidential candidate in 2024, on account of his involvement in the insurrection in Washington, on 6 January 2020, to prevent US Congress’s certification of the November 2019 presidential election results; and the other to deal with Trump’s claim to immunity from being indicted for criminal conduct in trying to prevent the same certification process.
-
-...
-
-[Data](articles/874dae88.json)
-
-[Extended Data](ext_articles/874dae88.ext.json)
-
----
-
-### Former PM Imran Khan gets bail In military installations attack cases
-
-*2024-02-10 18:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-PM-Imran-Khan-gets-bail-In-military-installations-attack-cases/108-276744) · `en`
-
-Islamabad, Feb 10 (India Today) - An anti-terrorism court on Saturday granted bail to jailed former Pakistan premier Imran Khan in 12 cases linked to the May 9 attacks on military installations by his supporters following his arrest in an alleged corruption case.
-
-ATC Judge Malik Ejaz Asif granted bail to Pakistan Tehreek-e-Insaf party founder Mr Khan after fulfilling a surety bond of Rs 0.1 million in all 12 cases, including the General Headquarters (Pakistan Army) and Army Museum attack.
-
-The court said there was no justification to keep Mr Khan, 71, under arrest as all accused in May 9 cases were on bail.
-
-Mr Khan will remain in jail as he is convicted in many other cases.
-
-The court's order came a day after independents backed by Mr Khan's party won nearly 100 seats in the National Assembly.
-
-Former foreign minister Shah Mahmood Qureshi was also granted bail in 13 cases in the same case.
-
-Qureshi, who is also in prison facing charges in other cases, will not be released either.
-
-...
-
-[Data](articles/11f81cbd.json)
-
-[Extended Data](ext_articles/11f81cbd.ext.json)
-
----
-
-### Former PM Imran Khan gets bail In military installations attack cases
-
-*2024-02-10 18:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Former-PM-Imran-Khan-gets-bail-In-military-installations-attack-cases/107-276744) · `en`
-
-Islamabad, Feb 10 (India Today) - An anti-terrorism court on Saturday granted bail to jailed former Pakistan premier Imran Khan in 12 cases linked to the May 9 attacks on military installations by his supporters following his arrest in an alleged corruption case.
-
-ATC Judge Malik Ejaz Asif granted bail to Pakistan Tehreek-e-Insaf party founder Mr Khan after fulfilling a surety bond of Rs 0.1 million in all 12 cases, including the General Headquarters (Pakistan Army) and Army Museum attack.
-
-The court said there was no justification to keep Mr Khan, 71, under arrest as all accused in May 9 cases were on bail.
-
-Mr Khan will remain in jail as he is convicted in many other cases.
-
-The court's order came a day after independents backed by Mr Khan's party won nearly 100 seats in the National Assembly.
-
-Former foreign minister Shah Mahmood Qureshi was also granted bail in 13 cases in the same case.
-
-Qureshi, who is also in prison facing charges in other cases, will not be released either.
-
-...
-
-[Data](articles/36cc5da1.json)
-
-[Extended Data](ext_articles/36cc5da1.ext.json)
-
----
-
-### Hopes AKD makes positive statements on his tour and bring investors to country
-
-*2024-02-10 18:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hopes-AKD-makes-positive-statements-on-his-tour-and-bring-investors-to-country/108-276743) · `en`
-
-He hopes that National People's Power (NPP) leader Anura Kumara Dissanayake (AKD) makes positive statements regarding his visit to India and understands the need of investors in Sri Lanka, Power and Energy Minister Kanchana Wijesekera said.
-
-Addressing the media, he said that whoever had invited AKD to India, had done a good thing.
-
-"AKD might have gained a vast amount of experience over the need for investors in our country from any country in the world, including India. After experiencing the development of India's energy sectors, I don't think that AKD would get a chance to chase away the investors who are coming to the country.
-
-"AKD dressed according to the European dress code, ignoring his traditional dress. I don't think his trade unions understand how he behaves," he said.
-
-It is very common to see political parties visit India every month, but this is the first time that the Janatha Vimukthi Peramuna (JVP) is in India, he said.
-
-...
-
-[Data](articles/08446dc1.json)
-
-[Extended Data](ext_articles/08446dc1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 12:17:19**
+As of **2024-02-11 12:32:52**
 
 ## Newspaper Stats
 
-*Scraped **6,262** Articles*
+*Scraped **6,265** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 333
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 522
-tamilmirrorlk | 760
-adaderanalk | 774
+tamilmirrorlk | 762
+adaderanalk | 775
 virakesarilk | 775
 adaderanasinhalalk | 855
 dailymirrorlk | 909
@@ -26,11 +26,27 @@ dailymirrorlk | 909
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,257 (99.9%) of 6,262 articles have been extended.
+6,262 (100.0%) of 6,265 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### SLFP will support proposal to abolish Executive Presidency – Maithripala
+
+*2024-02-11 12:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97180/slfp-will-support-proposal-to-abolish-executive-presidency-maithripala-) · `en`
+
+Leader of the Sri Lanka Freedom Party (SLFP) Maithripala Sirisena has assured the party’s support towards a proposal to abolish the Executive Presidency.
+
+Speaking at an SLFP media conference themed ‘We stand for freedom’ (‘Nidahasa Wenuwen Api’), the former President revealed that as per information received, measures are underway to present such a proposal soon.
+
+Meanwhile, Opposition Leader Sajith Premadasa, however, has declared that this is not the right time to abolish the Executive Presidency.
+
+◼️
+
+[Data](articles/32feb195.json)
+
+---
 
 ### Sri Lanka’s workers’ remittances exceed USD 400 mn in January 2024
 
@@ -47,6 +63,40 @@ As per data gathered by the Central Bank of Sri Lanka, Sri Lanka’s foreign rem
 [Data](articles/f1d27c92.json)
 
 [Extended Data](ext_articles/f1d27c92.ext.json)
+
+---
+
+### ‘அசேல’வுக்கு நஞ்சூட்ட முயன்ற பன்வில நபர் கைது
+
+*2024-02-11 11:30:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அசேல-வுக்கு-நஞ்சூட்ட-முயன்ற-பன்வில-நபர்-கைது/175-333005) · `ta`
+
+கதிர்காமம் ஸ்ரீ அபிநவராம விகாரையின் பராமரிப்பில் இருந்த அசேல என்ற யானைக்கு விஷம் வைத்து கொல்வதற்கு முயன்றார் எனக் கூறப்படும் பிரதான சந்தேகநபர் சுமார் 6 மாதங்களாக தலைமறைவாக இருந்த நிலையில் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+தர்பூசணி (Watermelon) காய்க்குள் விஷத்தை கலந்தே இந்த நபர் அசேல என்ற யானைக்கு கொடுப்பதற்கு முயற்சித்துள்ளார் என்பது தெரியவந்துள்ளது.
+
+வேறு சில சம்பவங்களுக்காக கண்டி பொலிஸாரால் சந்தேக நபர் கைது செய்யப்பட்டதாகவும் விசாரணையின் போது இந்த சம்பவம் அம்பலமாகியுள்ளது. இதுதொடர்பில் கதிர்காமம் பொலிஸாருக்கு அறிவிக்கப்பட்ட​தை அடுத்து.  அதிகாரிகள் குழுவை அனுப்பி சந்தேக நபரை அழைத்து வந்ததாகவும் கதிர்காமம் பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/ae62da1f.json)
+
+---
+
+### நீர்கொழும்பில் ஒருவர் சுட்டு கொலை
+
+*2024-02-11 11:25:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்கொழும்பில்-ஒருவர்-சுட்டு-கொலை/175-333004) · `ta`
+
+நீர்கொழும்பு கல்கந்த சந்தியில் மோட்டார் சைக்கிளில்  சனிக்கிழமை (10) இரவு 7.30 மணியளவில் வந்த இனந்தெரியாத  இரு ஆயுததாரிகள், மேற்படி நபரை  துப்பாக்கியால் சுட்டுவிட்டு தப்பிச் சென்றுள்ளனர்.மோட்டார் சைக்கிளில் வீட்டுக்குச் சென்று கொண்டிருந்த போதே குறித்த நபர் சுடப்பட்டுள்ளார்.
+
+நீர்கொழும்பு, பால்தி சந்தி பகுதியில் உள்ள விடுதியொன்றில் பணிபுரிந்து வந்த இந்த நபர்,  கல்கந்த சந்தியிலிருந்து மினுவாங்கொட வீதிக்கு திரும்பும் போதே துப்பாக்கிதாரிகளால் சுட்டுக்கொல்லப்பட்டுள்ளார்.
+
+துப்பாக்கிச் சூட்டில் பலியான ரெக்ஸ் சல்காது என்ற 62 வயதுடைய இந்த நபர் நீர்கொழும்பு,  குரணை  பிரதேசத்தில் குடும்பத்துடன்    வசித்து வந்துள்ளார்.
+
+உயிரிழந்தவரின் சடலம் நீர்கொழும்பு வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை நீர்கொழும்பு பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/9905cba2.json)
 
 ---
 
@@ -184,37 +234,41 @@ If these talks succeed, Adani Group will have the first opportunity to manage ai
 
 ---
 
-### ජනතාව තීරණාත්මක අවස්ථාවක
+### In the event of the people critical
 
 *2024-02-11 10:38:39* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාව-තීරණාත්මක-අවස්ථාවක/11-408005) · `si`
 
-අද වනවිට රටේ ජනතාව තීරණාත්මක අවස්ථාවක සිටින බවත් මෙම තත්ත්වයට විසදුම් ලබා දීම පිනිස මේ වසරේදී පැවැත්වෙන ජනාධිපතිවරණයෙන් ජය ගැනීම සඳහා එක්සත් ජාතික පක්ෂය සූදානම් වෙමින් සිටින බවත් එම පක්ෂයේ නියෝජ්‍ය නායක රුවන් විජයවර්ධන මහතා ගම්පහදී පැවසීය.
+Deputy Leader of the UNP Ruwan Wijewardene said that the people of the country are in critical times and the UNP is preparing to overcome the presidential election this year.
 
-එක්සත් ජාතික පක්ෂයේ ගම්පහ දිස්ත්‍රික් සම්මේලනය , ගම්පහ ආසන සංවිධායක වරුණ රාජපක්ෂ මහතාගේ සංවිධානත්වයෙන්  නගර සභා යක්කල උප කාර්යාලයීය ශ්‍රවණාගාරයේදී පැවැති අවස්ථාවේදී නියෝජ්‍ය නායකවරයා මේ බව සදහන් කළේය.
+The deputy leader of the UNP was held at the Yakkala Sub-Office Auditorium, the organizations of the UNP.
 
-මෙම අවස්ථාවේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා , ඉදිරි මැතිවරණයේදී පොදු අපේක්ෂකයා වශයෙන් ඉදිරිපත් වියයුතු බවට ඉදිරිපත් කරනලද යෝජනාවක් ඒකමතිකව සම්මත කර ගැණින.
+At this point President Ranil Wickremesinghe, presented to the general candidate, was unanimously passed.
 
-" මෙම වසර මැතිවරණ වසරක් වශයෙන් හැදින්විය හැකියි. ඔක්තෝබර් මාසය වනවිට ජනාධිපතිවරණයටත් ඉන් පසුව පාර්ලිමේන්තු මැතිවරණයට සහ පළාත් සභා මැතිවරණයටත් මුහුණ දීමට සිදු විය හැකි බැවින් අපි ඊට සූදානම් වීමට අවශ්‍යයි. මේක තීරණාත්මක වසරක් ලෙස අපි සලකන්නේ මේ රටේ අනාගතය තීරණය කිරීමක් ලෙසයි.
+"This year can be known as a year. We need to prepare for the presidential election and the parliamentary election and the Provincial Council elections in October.. We consider this a decisive year as a deciding for the future of this country.
 
 ...
 
 [Data](articles/e0399d56.json)
 
+[Extended Data](ext_articles/e0399d56.ext.json)
+
 ---
 
-### ශ්‍රී පාද වන්දනාවට ලක්ෂයකට ආසන්න වන්දනාකරුවන් පැමිණෙයි
+### Nearly 100,000 pilgrims arrive at Sri Pada pilgrimage
 
 *2024-02-11 10:33:08* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-පාද-වන්දනාවට-ලක්ෂයකට-ආසන්න-වන්දනාකරුවන්-පැමිණෙයි/11-408004) · `si`
 
-මෙවර සති අන්ත නිවාඩුවට නල්ලතන්නිය-ශ්‍රීපාද මාර්ගයෙන් ශ්‍රීපාදස්ථානය බලා ලක්ෂයකට ආසන්න වන්දනාකරුවන් පිරිසක් පැමිණි බව නල්ලතන්නිය පොලිස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ශාන්ත විජේසේකර මහතා පැවසීය.
+Nallathaniyan Police Chief Inspector Shantha Wijesekara said that the Nallathaniyani-Sripeas was a large number of pilgrims to the Sripada vacation this year.
 
-සිකුරාදා (09) පස්වරුවේ සිට අධික වන්දනාකරුවන් පිරිසක් පැමිණීමත් සමග නල්ලතන්නිය-ශ්‍රීපාද මාර්ගයේ ශ්‍රීපාද මළුවේ සිට රතු අම්ඹලම ප්‍රදේශය දක්වා දැඩි තදබදයක් පැවති බවත්, තමන්ට පැය ගණනක් එකම ස්ථානයක රැඳී සිටීමට සිදුවුණ බවත් වන්දනාකරුවෝ පැවසූහ.
+The pilgrimage said that with the arrival of heavy pilgrims from the Nallathaniyya-SriPada road, with heavy pilgrims from the Nallathaniyya-SriPada road.
 
-වන්දනාකරුවන් රැගෙන පැමිණි බස් හා වෑන් රථ ගාල් කිරීමට නල්ලතන්නිය නඟරයේ පිහිටි  ප්‍රාදේශිය සභාවේ හා පෞද්ගලික රථ ගාල් ප්‍රමාණවත් නොවීම හේතුවෙන් නල්ලතන්නිය-මස්කෙළිය ප්‍රධාන මාර්ගයේ කිලෝ මීටර් 04 ක් පමණ දුරට ලක්ෂපාන ප්‍රදේශය දක්වා මාර්ගය දෙපස බස් රථ ගාල් කර තිබූණි.
+The Nallatuniya-Maskeliya main road was to be adequate due to the pilgrims and vans, the Pradeshiya Sabha and private vehicle convo.
 
 ◼️
 
 [Data](articles/b0de406e.json)
+
+[Extended Data](ext_articles/b0de406e.ext.json)
 
 ---
 
@@ -238,35 +292,39 @@ Three boys were injured and admitted to the hospital when a large tree near the 
 
 ---
 
-### බලපත්‍ර නොමැතිව ඩ්‍රෝන කැමරා යවා වැඩ වරදා ගනියි
+### The drone cameras without licenses work
 
 *2024-02-11 10:15:05* · [`adalk`](https://www.ada.lk/breaking_news/බලපත්‍ර-නොමැතිව-ඩ්‍රෝන-කැමරා-යවා-වැඩ-වරදා-ගනියි/11-408003) · `si`
 
-බල පත්‍ර නොමැතිව ඩ්‍රෝන කැමරාවක් ගුවන් ගත කළ පුද්ගලයෙකු එම කැමරාවද සමග යාපනය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ. තෙලිප්පේ පොලිස් වසමේ දුර්ගා අම්මාන් කොවිල අසළදි තෙලිප්පේ පොලිස් ස්ථානයෙ නිලධාරීන්ට ලද තොරතුරක් අනුව මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබේ.
+Jaffna Police have arrested a person who took a drone camera without lies. The arrest was carried out following a tip off received by the Thelappa Police Station in the Tiippe Police Division.
 
-අත්අඩංගුවට ගත් සැකකරු අවුරුදු 33ක් වන දුර්ගාපුරම් තෙලිප්පේපේ පදිංචිකරුවෙකි. තෙලිප්පේ පොලීසිය වැඩිදුරටත් පරීක්ෂණ පවත්වයි
+The suspect is 33 year old Duragapuram Talappeppe resident. Tiippage police are conducting further investigations
 
 ◼️
 
 [Data](articles/cc52343f.json)
 
+[Extended Data](ext_articles/cc52343f.ext.json)
+
 ---
 
-### බූස්සෙන් ජංගම දුරකථන සහ උපාංග සොයා ගනී
+### Found cell phones and devices from the boosse
 
 *2024-02-11 10:14:43* · [`adalk`](https://www.ada.lk/breaking_news/බූස්සෙන්-ජංගම-දුරකථන-සහ-උපාංග-සොයා-ගනී/11-408002) · `si`
 
-බූස්ස අධි ආරක්ෂිත බන්ධනාගාරයේ ඒ හා ඩි වාට්ටු වල පොලව හාරා සූක්ෂම ලෙස  ජංගම දුරකථන ඇතුළු උපාංග රැසක් සොයා ගැනීමට හැකි වූ බව පොලිස් විශේෂ කාර්ය බලකාය කියයි
+Police Special Task Force said that the colamation of the Boossa High Security Prison and found many mobile phones
 
-ස්මාර්ට් ජංගම දුරකථන 01 ක්, කුඩා ප්‍රමානයේ ජංගම දුරකථන 02 ක්, සිම්පත් 04 ක්, මෙමරි චිප් 01 ක්, පිටත ආවරණ ඉවත් කරන ලද දුරකථන චාජර් 02 ක්, ඩේටා කේබල් 02 ක් හා හෑන්ඩ් ෆ්‍රී 01 ක්  එහි තිබී සොයාගෙන ඇත
+Two smartphones, four small mobile phones, four mobile charges, two outer cover, two outer coverings, two data cable and handed 1 handed
 
-වැඩිදුර විමර්ශන කටයුතු සඳහා දෙවන පෙළ ජේලර් ගිම්හාන, බන්ධනාගාර නියාමක මෙන්ඩිස් හා බන්ධනාගාර නියාමක ජයසුන්දර මහත්වරුන් වෙත භාර දී ඇත.
+Second Jalar summer, Prison Guardis and Prison Regulatory Jayasundara have been handed over to the gentlemen for further investigations.
 
-විශේෂ කාර්ය බලකාය අණදෙන නිලධාරී ජේෂ්ඨ නියෝජ්‍ය පොලිස්පති නීතීඥ වරුණ ජයසුන්දර මහතාගේ නියෝග හා උපදෙස් පරිදි හම්බන්තොට කලාපය බාර ජේෂ්ඨ පොලිස් අධිකාරී නිශාන්ත සිල්වා මහතාගේ මෙහෙයවීම මත, සහකාර පොලිස් අධිකාරී කුමාර කුලරත්න මහතාගේ අධීක්ෂණයෙන් විශේෂ කාර්ය බලකාය බූස්ස අධි ආරක්ෂිත බන්ධනාගාර කඳවුරේ කඳවුර අණදෙන නිලධාරී ප්‍රධාන පොලිස් පරීක්ෂක ආර්.බඩ්.වී. නිමල් ඇතුළු නිලධාරීන් කණ්ඩායමක් විසින් වැටලීම  සිදු කර ඇත
+Special Task Force Commanding Officer Hon..Bed. Raided by a group of Nimal and other officials
 
 ◼️
 
 [Data](articles/e558e9c0.json)
+
+[Extended Data](ext_articles/e558e9c0.ext.json)
 
 ---
 
@@ -722,21 +780,29 @@ The President left Katunayake Airport for Perth, Australia on February 8.
 
 ---
 
-### සෙම්බුකුලියෙ ඉඩම් ආරවුල කට පුංචාගෙන් කෙළවර වෙයි
+### Phembukulai land dispute corresponds from the son
 
 *2024-02-11 07:29:02* · [`adalk`](https://www.ada.lk/breaking_news/සෙම්බුකුලියෙ-ඉඩම්-ආරවුල-කට-පුංචාගෙන්-කෙළවර-වෙයි/11-408001) · `si`
 
-කලක පටන් පැවති ඉඩම් ආරවුලක් හේතුවෙන් මහකුඹුක්කඩවල සෙම්බුකුලිය ප්‍රදේශයෙ 10 දින සවස සිදුවු වෙඩි තැබිමකින් තිදරු පියකු බරපතල තුවාල ලබා පුත්තලම මූලික රෝහලට ඇතුලත් කිරීමේන් පසු මරණටය පත්ව ඇති බව මහකුඹුක්කඩවල පොලිසිය කියයි.
+The Mahakumbukkadawala Police say that a father has been seriously injured and admitted to the Puttalam Base Hospital.
 
-වෙඩි වැදිමට ලක්ව මරණයට පත්ව ඇත්තේ මහකුඹුක්කඩවල සෙම්බුකුලිය ප්‍රදේශයෙ ඉඩම් හිමි වැවිලිකරුවකු වන  තිදරු පියකු වු 56 හැවිරිදි අධිකාරි මුදියන්සේලාගේ මැණික්රාල අධිකාරි නැමති අයකු බව කියයි.
+The deceased has been identified as a 56-year-old Superintendent's Speaker, a 56-year-old Superintendent of Thambukkadawala.
 
-වෙඩි තැබිමට සම්බන්ධ අය වෙඩි වැදිමට ලක්ව මරණයට පත් ඉඩම් හිමි වැවිලිකරු සමග වසර තුනක පමන කාලයක සිට ඉඩම් ආරවුලක් තිබි ඇති බවත් එය වසර දෙකකට පෙර මහකුඹුක්කඩවල පොලිසිය ආරම්භ කිරීමට පෙර ආණමඩුව පොලිසියට පැමිනිලි කර තිබු බවද කියයි.
+It is said that a land dispute has been fired in three years with the delegated lands and the delegated lands.
 
-ආණමඩුව පොලිසිය මෙය මහකුඹුක්කඩවල ප්‍රාදේශීය ලේකම් කාර්යාලයට යොමු කර තිබුනද එහිදි තමන්ට නිසි සාධාරණයක් සිදුව නොතිබිම හේතුවෙන් මෙම වෙඩි තැබිම කල 43 හැවිරිදි අවිවාහක  පුද්ගලයා මහකුඹුක්කඩවල පොලිසිය මගින් අත් අඩංගුවට ගැනිමේන් පසු පාපොච්චාරණය කර තිබේ.
+The Anamaduwa police have been referred to the Delegation of the House, but the 43-year-old unmarried person has been arrested by the Mahakumbukkadawala police.
+
+The suspect added that he had taken measures to be assassinated to the police that he had fallen to the land and killed the land he was cashew and killed.
+
+However, this connection has frequent problems among the two sides, but it had not received complaints to the Mahakumbukkadawala Police.
+
+The suspect associated with the shooting said that the father of land had been shooting from the mounting and the land dispute in Kandulai Tanks.
 
 ...
 
 [Data](articles/9339f272.json)
+
+[Extended Data](ext_articles/9339f272.ext.json)
 
 ---
 
@@ -2015,61 +2081,5 @@ On the other hand, some people also criticize people who have visited the event.
 [Data](articles/8ad5d318.json)
 
 [Extended Data](ext_articles/8ad5d318.ext.json)
-
----
-
-### Hikes, Marathons, Eco-trails
-
-*2024-02-10 17:00:00* · [`islandlk`](http://island.lk/hikes-marathons-eco-trails/) · `en`
-
-I got interested in the subject I write about today since Aravinda, who is a frequent Man Friday to me tackling all sorts of help jobs including cell phone manipulation, went on a hike from Hatton to Ohiya along jungle trails. He climbs Adams Peak out of season and along the Kuruwita climb which is the most arduous.
-
-Hike is defined as distance walking for exercise or pleasure. Eco trails can, I presume, be termed nature walks. Googling these were two definitions I got: “Eco trails are long distance, way marked hiking and cycling routes” which “aim to build a sustainable ecological community of travellers with local tourism and cultural bodies and local commerce.” All types of walks are gaining popularity as people become more health conscious, but eco trails particularly are popularized in tourist countries noted for their ecological variety like Sri Lanka
-
-...
-
-[Data](articles/00994a4b.json)
-
-[Extended Data](ext_articles/00994a4b.ext.json)
-
----
-
-### AKD in New Delhi: Some thoughts about the ‘Indian policy’ of a progressive government
-
-*2024-02-10 16:52:00* · [`islandlk`](http://island.lk/akd-in-new-delhi-some-thoughts-about-the-indian-policy-of-a-progressive-government/) · `en`
-
-Senior Lecturer, Department of Legal Studies, Open University of Sri Lanka
-
-The recent visit of a delegation from the National People’s Power (NPP), led by Anura Kumara Dissanayaka, to India has sparked an intriguing discussion within our political circles. While some parties have seized upon this opportunity to mock the JVP, recalling their anti-Indian stance in the 1980s, others have raised concerns about the potential dangers of yielding to Indian regional hegemony. Nevertheless, it is undeniable that the invitation extended by the Indian government to an NPP delegation for discussions signifies a significant turning point. The NPP, with only three members in Parliament, was until very recently perceived as a marginal political party.
-
-...
-
-[Data](articles/266310fd.json)
-
-[Extended Data](ext_articles/266310fd.ext.json)
-
----
-
-### Another child killed in collapsed tree
-
-*2024-02-10 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193217) · `si`
-
-Another young child who was injured in the accident occurred in the accident in Gampola area.
-
-The child had died this morning while receiving treatment at the Kandy National Hospital today (10).
-
-Three children were injured in a crash, where a child was killed in the premises of the International School.
-
-The other two children were admitted to the Kandy National Hospital for treatment.
-
-One child who was receiving treatment at the hospital was killed in five days this morning.
-
-The deceased has been identified as a five-year-old resident of Gampola.
-
-◼️
-
-[Data](articles/4661b09a.json)
-
-[Extended Data](ext_articles/4661b09a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 06:18:55**
+As of **2024-02-11 06:56:30**
 
 ## Newspaper Stats
 
-*Scraped **6,212** Articles*
+*Scraped **6,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 514
 tamilmirrorlk | 749
 adaderanalk | 769
 virakesarilk | 769
-adaderanasinhalalk | 840
+adaderanasinhalalk | 841
 dailymirrorlk | 906
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,201 (99.8%) of 6,212 articles have been extended.
+6,204 (99.9%) of 6,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### වැසි රහිත කාලගුණයක්
+
+*2024-02-11 06:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193227) · `si`
+
+දිවයිනේ ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, මධ්‍යම කඳුකරයේ නැහෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, නැහෙනහිර, වයඹ, ඌව සහ දකුණු පළාත්වලත් විටින් විට හමන පැ.කි.මී. (30-40) පමණ තරමක තද සුළං ඇතිවිය හැකි බවය.
+
+බස්නාහිර සහ සබරගමුව පළාත්නලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කළ නිවේදනයේ වැඩිදුරටත් දැක්වේ.
+
+◼️
+
+[Data](articles/3c34e190.json)
+
+---
 
 ### Anura Kumara Dissanayake in India
 
@@ -43,6 +59,8 @@ The responses to the visit by other parties have, so far, been lukewarm. The UNP
 ...
 
 [Data](articles/2880949c.json)
+
+[Extended Data](ext_articles/2880949c.ext.json)
 
 ---
 
@@ -1040,6 +1058,8 @@ The recent visit of a delegation from the National People’s Power (NPP), led b
 
 [Data](articles/266310fd.json)
 
+[Extended Data](ext_articles/266310fd.ext.json)
+
 ---
 
 ### Another child killed in collapsed tree
@@ -1211,6 +1231,8 @@ George Percival Sproule Keyt was born in 1901. Ceylon was then at the height of 
 ...
 
 [Data](articles/86e845b7.json)
+
+[Extended Data](ext_articles/86e845b7.ext.json)
 
 ---
 
@@ -2009,25 +2031,5 @@ Meanwhile, Ashemu payments have been increased with effect from January. Remble
 [Data](articles/5a5480d9.json)
 
 [Extended Data](ext_articles/5a5480d9.ext.json)
-
----
-
-### Trade union action postponed for health trade unions seeking employment rights
-
-*2024-02-10 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176012) · `ta`
-
-The Alliance of Health Trade Unions has announced that 72 health trade unions will be postponed for a weekly trade union, which will be implemented at the provincial and hospital level.
-
-After the Cabinet approved the government's approval to pay Rs.
-
-In this backdrop, the union actions to be carried out for a week after a discussion between representatives of the Health Trade Union Federation and the Finance Ministry on Tuesday (Tuesday). The committee nominated by the Ministry of Finance is also on the 12th of this month and a decisive resolution on the rights of the health workers is to be reached.
-
-Therefore, a program to clarify health workers on the rights of professional rights at the provincial level and hospital level will be launched from today.. It is hoped that the Ministry of Health and the Finance Ministry will be dedicated to solving the crisis in the health sector.
-
-...
-
-[Data](articles/6ad23c36.json)
-
-[Extended Data](ext_articles/6ad23c36.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 02:33:14**
+As of **2024-02-12 02:48:33**
 
 ## Newspaper Stats
 
-*Scraped **6,351** Articles*
+*Scraped **6,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 363
 adalk | 533
 tamilmirrorlk | 771
 adaderanalk | 784
-virakesarilk | 791
+virakesarilk | 792
 adaderanasinhalalk | 875
 dailymirrorlk | 923
 
@@ -26,11 +26,29 @@ dailymirrorlk | 923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,351 (100.0%) of 6,351 articles have been extended.
+6,351 (100.0%) of 6,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### சீனாவின் சீற்றம்
+
+*2024-02-12 01:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176146) · `ta`
+
+சீனா மற்றும் அதன் அண்டை நாடுகளுடன் உறவுகளை கையாள்வதில் புதுடில்லியின் குறுகிய மனப்பான்மை மற்றும் தொலைநோக்கு பார்வையின்மை ஆகியவற்றைக் காட்டவே இது உதவுகிறது என்றும் குறிப்பிட்டிருக்கிறது சீன ஊடகம்.
+
+இந்தியப் பெருங்கடலை இந்தியாவின் செல்வாக்குப் பிராந்தியமாக கருதும் புதுடில்லியில் இருப்பவர்கள், ஒருவரின் கதவுக்கு வெளியே உள்ள பொதுப் பிரதேசம் , ஒருவரின் பெயரைக் கொண்டிருந்தாலும் அது தனிப்பட்ட சொத்து அல்ல என்பதை நினைவில் கொள்ள வேண்டும்.” என்றும் சுட்டிக்காட்டியிருக்கிறது.
+
+இதன் ஊடாக இந்தியாவுக்கு சீனா கூற முனைந்திருக்கும் விடயம், இந்தியப் பெருங்கடல் என்ற பெயரைக் கொண்டிருப்பதால், இந்திய பெருங்கடல் முழுவதும் இந்தியாவுக்கு சொந்தமானதல்ல என்பது தான்.
+
+ஆக, சீன ஆய்வுக் கப்பல்களுக்கு இந்தியப் பெருங்கடலில் கதவுகளை மூடுவது ஒன்றும் சுலபமான காரியமில்லை என்பதையே சைனா டெய்லியின் ஆசிரியர் தலையங்கம், புதுடில்லிக்கு உணர்த்த முற்படுகிறது.
+
+◼️
+
+[Data](articles/b8b28cda.json)
+
+---
 
 ### Why did India call Anura?
 
@@ -2139,29 +2157,5 @@ The finals of the Under-19 World Cup will be held today (11).
 [Data](articles/2fbe7a24.json)
 
 [Extended Data](ext_articles/2fbe7a24.ext.json)
-
----
-
-### UPI payment system to Sri Lanka tomorrow
-
-*2024-02-11 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193239) · `si`
-
-External Affairs Minister Alison, the President's Counsel Elazabri, is introduced to Sri Lanka from tomorrow (12) to Sri Lanka from tomorrow.
-
-The Minister pointed out that Indian Prime Minister Narendra Modi and President of Sri Lanka is to be released on the online system in Colombo.
-
-Minister of External Affairs, Attorney Minister Essebri, addressing a meeting with an Indian Media Channel in Parath, Australia was interviewed with Indian Media Channel.
-
-The Indian Joint Payment Procedure, known as the UPI, was introduced as an immediate payment system by the Indian National Payment Corporation in 2016.
-
-This payment system is provided with the mobile phone, inter-bank and personal trading transactions.
-
-Minister of External Affairs Alison added that this will improve the tourism industry in Sri Lanka.
-
-◼️
-
-[Data](articles/4f7af349.json)
-
-[Extended Data](ext_articles/4f7af349.ext.json)
 
 ---

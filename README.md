@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 16:02:30**
+As of **2024-02-11 16:17:12**
 
 ## Newspaper Stats
 
-*Scraped **6,288** Articles*
+*Scraped **6,290** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 75
+colombotelegraphcom | 76
 bbccomsinhala | 87
 dbsjeyarajcom | 146
 economynextcom | 321
 islandlk | 334
 dailyftlk | 342
 newsfirstlk | 363
-adalk | 524
+adalk | 525
 tamilmirrorlk | 766
 virakesarilk | 775
 adaderanalk | 777
@@ -26,11 +26,31 @@ dailymirrorlk | 916
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,288 (100.0%) of 6,288 articles have been extended.
+6,288 (100.0%) of 6,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### සංවිධානාත්මක අපරාධකල්ලි සාමාජිකයන් දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-02-11 15:33:28* · [`adalk`](https://www.ada.lk/breaking_news/සංවිධානාත්මක-අපරාධකල්ලි-සාමාජිකයන්-දෙදෙනෙක්-අත්අඩංගුවට/11-408008) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයන් දෙදෙනෙකු  යතුරුපැදි දෙකක් සහ යතුරපැදි අංක තහඩු යුගලයක් සමඟ අත්අඩංගුවට ගත් බව පොලිස් විශේෂ කාර්ය බලකාය කියයි
+
+අඩංගුවට ගත් සැකකරුවන් දෙදෙනා හිටපු යුද හමුදා කොමන්ඩෝ සෙබළෙක් හා බුදුද හමුදා සෙබළෙක් බව පොලිසිය කියයි.සැකකරුවන් දෙදෙනාම නිත්‍යානුකූලව සේවයෙන් ඉවත් වූවන් බවද පොලිසිය වැඩිදුරටත් සඳහන් කරයි.
+
+දැනට විදේශගතව සිටින සංවිධානාත්මක අපරාධ කණ්ඩායම් නායක වන ලලිත් කන්නංගර යන අයගේ අනුගාමිකයකු වන " දියගලවත්ත චුට්ටෙ " යන අය සමග සබඳතා පවත්වන සාමාජිකයන් බවට සැකපිට සැකකරුවන් දෙදෙනා අත්අඩංගුවට ගෙන ඇත
+
+අත්අඩංගුවට ගත්  සැකකරුවන්  පාදුක්ඛ බටවල සහ හංවැල්ල අටිගල පදිංචි වයස අවුරුදු 24 හා37 අතර පසුවන්නන්ය
+
+පොලිස් විශේෂ කාර්ය බළකා විශේෂ මෙහෙයුම් ඒකකය වැඩිදුර පරීක්ෂණ පවත්වයි
+
+◼️
+
+[Data](articles/375adff2.json)
+
+---
 
 ### Egg prices rise
 
@@ -2077,21 +2097,5 @@ According to police, the two unidentified gunmen had subsequently fled the scene
 [Data](articles/7bdffc4a.json)
 
 [Extended Data](ext_articles/7bdffc4a.ext.json)
-
----
-
-### 60-year-old killed in shooting in Negombo
-
-*2024-02-10 20:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97171/60-year-old-killed-in-shooting-in-negombo-) · `en`
-
-A 60-year-old individual has reportedly been gunned down and killed in the Galkanda area in Negombo.
-
-According to police, the two unidentified gunmen had subsequently fled the scene.
-
-◼️
-
-[Data](articles/b4b5680e.json)
-
-[Extended Data](ext_articles/b4b5680e.ext.json)
 
 ---

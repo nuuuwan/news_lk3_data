@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 16:17:12**
+As of **2024-02-11 16:33:09**
 
 ## Newspaper Stats
 
-*Scraped **6,290** Articles*
+*Scraped **6,292** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,80 @@ adalk | 525
 tamilmirrorlk | 766
 virakesarilk | 775
 adaderanalk | 777
-adaderanasinhalalk | 862
+adaderanasinhalalk | 864
 dailymirrorlk | 916
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,288 (100.0%) of 6,290 articles have been extended.
+6,290 (100.0%) of 6,292 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
 
-### සංවිධානාත්මක අපරාධකල්ලි සාමාජිකයන් දෙදෙනෙක් අත්අඩංගුවට
+### හික්කඩුවේදී කොටුවූ පාසල් අසළ ජයටම කළ ජාවාරම
+
+*2024-02-11 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193251) · `si`
+
+බාලවයස්කරුවන්ට දුම්වැටි අලෙවි කළ වෙළෙඳසැල් හිමියන් 08 දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ හික්කඩුව පොලිස් වසමේ ප්‍රධාන පෙළේ පාසල් අසළ වෙළෙඳසැල් පවත්වාගෙන ගිය පුද්ගලයින් 08 දෙනෙකි.
+
+උපාය දූතයෙකු යොදවා සිදුකළ විමර්ශනයකට අනුව සැකකාර වෙළෙඳසැල් හිමියන් පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+සැකකරුවන්ගේ වෙළෙඳසැල්වල තිබූ දුම්වැටි ද නඩු භාණ්ඩ ලෙස පොලිස් භාරයට ගැනීමට කටයුතු කර තිබේ.
+
+මෙහිදී වැඩිදුරටත් අනාවරණය වී ඇත්තේ පාසල් අසල පවත්වාගෙන යනු ලබන උපකාරක පන්ති සඳහා පැමිණෙන පාසල් දරුවන් වෙත මොවුන් දුම්වැටි අලෙවි කර ඇති බවය.
+
+පාසල් මුල්කර ගනිමින් මව්පියන්ගේ සහ ගුරුවරුන්ගේ සහාය ලබාගනිමින් ආරම්භ කර ඇති 'පවුර' වැඩසටහනට සමගාමීව මෙම වැටලීම සිදුකර තිබේ.
+
+අත්අඩංගුවට ගත් සැකකාර වෙළෙඳසැල් හිමිකරුවන්ට ගාල්ල මහෙස්ත්‍රාත් අධිකරණය හමුවේ නඩු පවරා ඇත.
+
+◼️
+
+[Data](articles/8951c335.json)
+
+---
+
+### Two organized criminal members arrested
 
 *2024-02-11 15:33:28* · [`adalk`](https://www.ada.lk/breaking_news/සංවිධානාත්මක-අපරාධකල්ලි-සාමාජිකයන්-දෙදෙනෙක්-අත්අඩංගුවට/11-408008) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයන් දෙදෙනෙකු  යතුරුපැදි දෙකක් සහ යතුරපැදි අංක තහඩු යුගලයක් සමඟ අත්අඩංගුවට ගත් බව පොලිස් විශේෂ කාර්ය බලකාය කියයි
+Police Special Task Force says two organized crime gangs have been arrested along with two motorbikes and two motorcycle plates
 
-අඩංගුවට ගත් සැකකරුවන් දෙදෙනා හිටපු යුද හමුදා කොමන්ඩෝ සෙබළෙක් හා බුදුද හමුදා සෙබළෙක් බව පොලිසිය කියයි.සැකකරුවන් දෙදෙනාම නිත්‍යානුකූලව සේවයෙන් ඉවත් වූවන් බවද පොලිසිය වැඩිදුරටත් සඳහන් කරයි.
+The police say that the two arrested suspects were a former Army Commonso soldier and the Buddha.
 
-දැනට විදේශගතව සිටින සංවිධානාත්මක අපරාධ කණ්ඩායම් නායක වන ලලිත් කන්නංගර යන අයගේ අනුගාමිකයකු වන " දියගලවත්ත චුට්ටෙ " යන අය සමග සබඳතා පවත්වන සාමාජිකයන් බවට සැකපිට සැකකරුවන් දෙදෙනා අත්අඩංගුවට ගෙන ඇත
+Two suspects have been arrested on suspicion of relations with Lalith Kanangara, who is the leader of organized crime team leader
 
-අත්අඩංගුවට ගත්  සැකකරුවන්  පාදුක්ඛ බටවල සහ හංවැල්ල අටිගල පදිංචි වයස අවුරුදු 24 හා37 අතර පසුවන්නන්ය
+The arrested suspects residing in Padda Teswala and Hanwella Ataigala, Hanwella Ataigala and 37 years old
 
-පොලිස් විශේෂ කාර්ය බළකා විශේෂ මෙහෙයුම් ඒකකය වැඩිදුර පරීක්ෂණ පවත්වයි
+Special Operations Unit of STF conducts further investigations
 
 ◼️
 
 [Data](articles/375adff2.json)
+
+[Extended Data](ext_articles/375adff2.ext.json)
+
+---
+
+### බම්බලපිටියේදී බස් රථ දෙකක් ගැටෙයි
+
+*2024-02-11 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193250) · `si`
+
+බම්බලපිටිය ඩුප්ලිකේෂන් මාර්ගයේ හින්දු විද්‍යාලය ආසන්නයේදී බස් රථ දෙකක් ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+
+කොළඹ සිට අලුත්ගම බලා ධාවනය වූ බස් රථයක් කොළඹ සිට ගල්කිස්ස දෙසට ධාවනය වූ බස් රථයක පසුපස ගැටී අනතුර සිදුව තිබුණි.
+
+මාර්ගය අසළ නවතා තිබූ ලොරි රථයක් එක්වරම මාර්ගයට ඇතුළත් කිරීමෙන් අනතුරුව මෙම අනතුර සිදුව ඇති බවට පොලීසිය සැකපළ කරයි.
+
+අනතුරින් කිසිවෙකුටත් තුවාල සිදුව නොමැති අතර බම්බලපිටිය පොලීසිය අනතුර සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/445f00e7.json)
 
 ---
 
@@ -2065,37 +2109,5 @@ Since Sita was swimming in the river running near the temple, it was named Sita 
 [Data](articles/3afae233.json)
 
 [Extended Data](ext_articles/3afae233.ext.json)
-
----
-
-### Another shot dead
-
-*2024-02-10 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193221) · `si`
-
-The shooting person was admitted to the Sonomamwela Hospital this afternoon and later transferred to the Colombo National Hospital.
-
-The shooting has been made due to a land dispute, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/122b08db.json)
-
-[Extended Data](ext_articles/122b08db.ext.json)
-
----
-
-### 60-year-old killed shooting in Negombo
-
-*2024-02-10 20:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97171/60-year-old-killed-shooting-in-negombo-) · `en`
-
-A 60-year-old individual has reportedly been gunned down and killed in the Galkanda area in Negombo.
-
-According to police, the two unidentified gunmen had subsequently fled the scene.
-
-◼️
-
-[Data](articles/7bdffc4a.json)
-
-[Extended Data](ext_articles/7bdffc4a.ext.json)
 
 ---

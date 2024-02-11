@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 05:02:23**
+As of **2024-02-12 05:17:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 926
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,359 (100.0%) of 6,362 articles have been extended.
+6,362 (100.0%) of 6,362 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -144,6 +144,8 @@ Varoufakis quit in protest. Unlike in Sri Lanka, he didn’t join the opposition
 
 [Data](articles/e1900815.json)
 
+[Extended Data](ext_articles/e1900815.ext.json)
+
 ---
 
 ### An Election’s A Brewing, Will We See JVP Policy Changes? - EDITORIAL
@@ -160,6 +162,8 @@ What is almost vulgar however is that some of our major political parties have g
 
 [Data](articles/ec6e3528.json)
 
+[Extended Data](ext_articles/ec6e3528.ext.json)
+
 ---
 
 ### Generals & General Elections: Retired Military Officers in the Politics of SJB and JVP
@@ -173,6 +177,8 @@ When faced with the opportunity to assume leadership in government, Sajith Prema
 ...
 
 [Data](articles/117673bd.json)
+
+[Extended Data](ext_articles/117673bd.ext.json)
 
 ---
 

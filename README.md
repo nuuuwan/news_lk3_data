@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 04:17:27**
+As of **2024-02-12 04:32:54**
 
 ## Newspaper Stats
 
-*Scraped **6,357** Articles*
+*Scraped **6,358** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 87
 dbsjeyarajcom | 146
 economynextcom | 323
 islandlk | 334
-dailyftlk | 346
+dailyftlk | 347
 newsfirstlk | 363
 adalk | 533
 tamilmirrorlk | 772
@@ -26,25 +26,45 @@ dailymirrorlk | 923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,356 (100.0%) of 6,357 articles have been extended.
+6,357 (100.0%) of 6,358 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### காமினி ஜெயவிக்ரம பெரேராவை சந்தித்தார் ஜனாதிபதி
+### SF found responsible for 2006 disappearance of Tamil youth
+
+*2024-02-12 04:04:27* · [`dailyftlk`](https://www.ft.lk/news/SF-found-responsible-for-2006-disappearance-of-Tamil-youth/56-758377) · `en`
+
+The Vavuniya High Court has held the Sri Lanka Army, along with several former officers, including the former Army Commander Field Marshal Sarath Fonseka, accountable for the disappearance of a Tamil youth in Sri Lanka’s war zone over 18 years ago.
+
+The court’s ruling was issued on 7 February during the hearing of the habeas corpus petition concerning the disappearance of the victim, Kandasamy Ilamaran.
+
+It is claimed the youth had disappeared while in the custody of the Sri Lanka Army at the Omanthai security post in 2006.
+
+Vavuniya High Court Judge Manikkavasagam Ilancheliyan who delivered the verdict said that the former Commanding Officer Omanthai, the Vanni Commander, and the Sri Lanka Army Commander during that period were responsible for the disappearance of Ilamaran.
+
+...
+
+[Data](articles/4d9898c3.json)
+
+---
+
+### The President meets Gamini Jayawickrama Perera
 
 *2024-02-12 03:47:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காமினி-ஜெயவிக்ரம-பெரேராவை-சந்தித்தார்-ஜனாதிபதி/175-333047) · `ta`
 
-சுகவீனமுற்றுள்ள முன்னாள் அமைச்சர் காமினி ஜெயவிக்ரம பெரேராவின் நலம் விசாரிப்பதற்காக நேற்று  கடுகம்பலையில் உள்ள அவரின் இல்லத்திற்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க சென்றுள்ளார்.
+President Ranil Wickremesinghe visited his residence in Kadugampala yesterday to inquire about the welfare of former minister Gamini Jayawickrama Perera.
 
-இதன்போது, ஜனாதிபதி  ரணில் விக்கிரமசிங்க, முன்னாள் அமைச்சரின் நலன் பற்றி விசாரித்ததோடு சிறிது நேரம் அவருடன் உரையாடலில் ஈடுபட்டார்.
+At this time, President Ranil Wickremesinghe inquired about the welfare of the former minister and engaged in a conversation with him for a while.
 
-குடும்ப உறுப்பினர்களிடம் அவர் பற்றிய தகவல்களை கேட்டறிந்த ஜனாதிபதி, காமினி ஜெயவிக்ரம பெரேராவின் வீட்டிற்கு அருகில் ஒன்று கூடிய பிரதேச மக்களுடன் சிநேகபூர்வமாக உரையாடியுள்ளார். (a)
+The President has heard about him about his family members and spoke with the people of Gamini Jayawickrama Perera, who gathered together near the house of Perera.. (A)
 
 ◼️
 
 [Data](articles/7abfd6be.json)
+
+[Extended Data](ext_articles/7abfd6be.ext.json)
 
 ---
 
@@ -2141,23 +2161,5 @@ At this point President Ranil Wickremesinghe, presented to the general candidate
 [Data](articles/e0399d56.json)
 
 [Extended Data](ext_articles/e0399d56.ext.json)
-
----
-
-### Nearly 100,000 pilgrims arrive at Sri Pada pilgrimage
-
-*2024-02-11 10:33:08* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-පාද-වන්දනාවට-ලක්ෂයකට-ආසන්න-වන්දනාකරුවන්-පැමිණෙයි/11-408004) · `si`
-
-Nallathaniyan Police Chief Inspector Shantha Wijesekara said that the Nallathaniyani-Sripeas was a large number of pilgrims to the Sripada vacation this year.
-
-The pilgrimage said that with the arrival of heavy pilgrims from the Nallathaniyya-SriPada road, with heavy pilgrims from the Nallathaniyya-SriPada road.
-
-The Nallatuniya-Maskeliya main road was to be adequate due to the pilgrims and vans, the Pradeshiya Sabha and private vehicle convo.
-
-◼️
-
-[Data](articles/b0de406e.json)
-
-[Extended Data](ext_articles/b0de406e.ext.json)
 
 ---

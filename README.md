@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 14:32:41**
+As of **2024-02-11 14:48:38**
 
 ## Newspaper Stats
 
-*Scraped **6,283** Articles*
+*Scraped **6,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 363
 adalk | 523
 tamilmirrorlk | 765
 virakesarilk | 775
-adaderanalk | 776
+adaderanalk | 777
 adaderanasinhalalk | 861
 dailymirrorlk | 916
 
@@ -26,11 +26,31 @@ dailymirrorlk | 916
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,282 (100.0%) of 6,283 articles have been extended.
+6,284 (100.0%) of 6,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### 564 more suspects arrested during operation ‘Yukthiya’
+
+*2024-02-11 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97182/564-more-suspects-arrested-during-operation-yukthiya) · `en`
+
+Another 564 suspects have been arrested by Sri Lanka’s police and security forces personnel within 24 hours which ended at 12.30 a.m. today (11 Feb.). The arrests were made as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+Among the arrestees are 8 suspects who had had open warrants against them over narcotics-related charges and 92 others who had had open warrants against them over non-drug related charges.
+
+According to the Ministry of Public Security, detention orders have been secured against 9 of the drug suspects.
+
+The narcotics taken into custody during this period include 153g 665mg of heroin, 88g 225mg of crystal methamphetamine (Ice), 6.5kg of cannabis and 180 narcotic pills.
+
+◼️
+
+[Data](articles/1754e931.json)
+
+[Extended Data](ext_articles/1754e931.ext.json)
+
+---
 
 ### Dushmantha Chameera ruled out of 2nd ODI against Afghanistan
 
@@ -45,6 +65,8 @@ The injury is confirmed to be unrelated to any of his previous ailments; last ye
 ◼️
 
 [Data](articles/c8f1971a.json)
+
+[Extended Data](ext_articles/c8f1971a.ext.json)
 
 ---
 
@@ -2075,19 +2097,5 @@ The police said that a person who traveled with a motorcycle had committed the s
 [Data](articles/49b2917d.json)
 
 [Extended Data](ext_articles/49b2917d.ext.json)
-
----
-
-### Will Karu Jayasuriya be suitable as an Interim President?
-
-*2024-02-10 19:21:00* · [`islandlk`](http://island.lk/will-karu-jayasuriya-be-suitable-as-an-interim-president/) · `en`
-
-It is no longer a secret that a progressive section of the Buddhist clergy (Sangha) and Tamil parties (for example the Global Tamil Forum) have met in Europe and North America and worked out a “Road Map” to put an end to repetitive riots and pogroms that have despoiled this country since Independence. Leaders SWRD, JR, Ranil, Premadasa and Mahinda, all of them, have racist blood on their hands. DS took away the citizenship of Upcountry Tamils but I don’t think he instigated race riots. Overall this is a sad commentary on our so-called national leaders.
-
-...
-
-[Data](articles/11087245.json)
-
-[Extended Data](ext_articles/11087245.ext.json)
 
 ---

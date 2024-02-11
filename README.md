@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 23:51:52**
+As of **2024-02-12 00:02:30**
 
 ## Newspaper Stats
 
-*Scraped **6,343** Articles*
+*Scraped **6,344** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 77
 bbccomsinhala | 87
 dbsjeyarajcom | 146
-economynextcom | 322
+economynextcom | 323
 islandlk | 334
 dailyftlk | 342
 newsfirstlk | 363
@@ -26,7 +26,7 @@ dailymirrorlk | 923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,343 (100.0%) of 6,343 articles have been extended.
+6,344 (100.0%) of 6,344 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1186,6 +1186,28 @@ No one is injured in the accident and the police are conducting further investig
 
 ---
 
+### Sri Lanka takes steps to establish Indian IT University branch in Kandy
+
+*2024-02-11 15:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-takes-steps-to-establish-indian-it-university-branch-in-kandy-150582/) · `en`
+
+ECONOMYNEXT – Sri Lanka has started discussions with Indian Institute of Technology Madras (IIT Madras) to establish a branch in the island nation’s central city of Kandy, the Ministry of Information Technology said, as the country is aiming fast track digital economy.
+
+Led by State Minister of Technology, Kanaka Herath, visited the IIT Madras last week for the discussion.
+
+“Accompanied by distinguished academics and industry leaders, the delegation aimed to explore potential collaborations and finalize details regarding the proposed campus,” the IT Ministry said in a statement.
+
+The International Monetary Fund has advised the government to implement digitalization as a strategy to curb corruption in the country.
+
+The government has been aiming for electronic-National Identity Card (e-NIC), Unique ID card with biometrics, and digitalizing payments including taxes among many others as strategies to digitalize the economy, government officials have said.
+
+...
+
+[Data](articles/8cf9af29.json)
+
+[Extended Data](ext_articles/8cf9af29.ext.json)
+
+---
+
 ### Egg prices rise
 
 *2024-02-11 15:03:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலை-எகிறுகிறது/175-333014) · `ta`
@@ -2163,25 +2185,5 @@ Hatton police are investigating a three -wheeler, including the state bus driver
 [Data](articles/fc5034be.json)
 
 [Extended Data](ext_articles/fc5034be.ext.json)
-
----
-
-### Murderer due to personal dispute
-
-*2024-02-11 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193237) · `si`
-
-A person has been assaulted by a club and murdered due to a personal dispute.
-
-The murder was held yesterday (12th) Siriwala - South Malkandwatte.
-
-The deceased is a 52 year old resident of the Ilukwatta-Gangalle area in Malwatta.
-
-The suspect was a resloved of the 30-year-old man of the attack.
-
-◼️
-
-[Data](articles/b7f3e381.json)
-
-[Extended Data](ext_articles/b7f3e381.ext.json)
 
 ---

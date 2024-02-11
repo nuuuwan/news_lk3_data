@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 13:02:30**
+As of **2024-02-11 13:17:23**
 
 ## Newspaper Stats
 
-*Scraped **6,266** Articles*
+*Scraped **6,268** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 333
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 522
-tamilmirrorlk | 763
-adaderanalk | 775
+tamilmirrorlk | 764
 virakesarilk | 775
+adaderanalk | 776
 adaderanasinhalalk | 855
 dailymirrorlk | 909
 
@@ -26,11 +26,49 @@ dailymirrorlk | 909
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,266 (100.0%) of 6,266 articles have been extended.
+6,266 (100.0%) of 6,268 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### Contraband including mobile phones, SIM cards recovered at Boossa Prison
+
+*2024-02-11 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97181/contraband-including-mobile-phones-sim-cards-recovered-at-boossa-prison-) · `en`
+
+Several contraband items including three mobile phones were found inside the Boossa Prison during a special search operation conducted by the Police Special Task Force (STF).
+
+Accordingly, three mobile phones, including a smartphone, four SIM cards, one memory chip, two phone chargers, two data cables and a set of earphones carefully hidden in a hole dug underground in the prison cells were recovered by the STF personnel during the raid carried out in Wards ‘A’ and ‘D’ of the prison on Saturday (10 Feb.).
+
+Wards ‘A’ and ‘D’ of the prison are reportedly used to detain criminals involved in organised crime.
+
+◼️
+
+[Data](articles/5f2039cb.json)
+
+---
+
+### ‘யன்னல்’ விவகாரம்: காதலன் கைது
+
+*2024-02-11 12:26:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/யன்னல்-விவகாரம்-காதலன்-கைது/93-333009) · `ta`
+
+தன்னுடைய வீட்டு இரவு வருமாறும், தான் உறங்கும் அறையின் யன்னலை தான் திறந்து வைத்திருப்பதாகவும் அச்சிறுமி தெரிவித்துள்ளார்.
+
+அதனடிப்படையிலேயே தன்னுடைய சின்ன காதலியின் வீட்டுக்கு, வியாழக்கிழமை (08) இரவு சென்ற காதலன், காதலியை துஷ்பிரயோகம் செய்துள்ளார்.
+
+அப்பிரதேசத்தில் வசிக்கும் 12 வயதும் 6 மாதகங்களேயான சிறுமி, பக்கத்து வீடொன்றில் வசிக்கும் 25 வயதான இளைஞனுடன் காதல் வயப்பட்டுள்ளார்.
+
+சிறுமியின் கோரிக்கைக்கு ஏற்ப, அச்சிறுமியின் விருப்பத்தின் பிரகாரமே, பாலியல் துஷ்பிரயோகம் செய்துள்ளார் என விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+
+தன்னுடைய விருப்பத்தின் பிரகாரமே இது நடந்துள்ளதாக தன்னுடைய தாயிடம் அச்சிறுமி தெரிவித்துள்ளார். இதுதொடர்பில், அந்த தாய், மறுநாள் (09) பொலிஸில் செய்த முறைப்பாட்டின் அடிப்படையிலேயே காதலன் கைது செய்யப்பட்டுள்ளார்.
+
+வைத்திய பரிசோதனைக்காக சிறுமி மொனராகலை மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார் என தெரிவித்த பிபில பொலிஸார், கைது செய்துள்ள இளைஞனை, பிபில நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்த நடவடிக்கைளை எடுத்துள்ளதாக தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/69631436.json)
+
+---
 
 ### SLFP will support proposal to abolish Executive Presidency – Maithripala
 
@@ -2045,47 +2083,5 @@ The theme of the Indian Foundation with the Ministry of External Affairs and the
 [Data](articles/f8cfe26b.json)
 
 [Extended Data](ext_articles/f8cfe26b.ext.json)
-
----
-
-### Critical Atlantic Ocean current system showing early signs of collapse - report
-
-*2024-02-10 17:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97168/critical-atlantic-ocean-current-system-showing-early-signs-of-collapse-report) · `en`
-
-A crucial system of ocean currents may already be on course to collapse, according to a new report, with alarming implications for sea level rise and global weather — leading temperatures to plunge dramatically in some regions and rise in others.
-
-Using exceptionally complex and expensive computing systems, scientists found a new way to detect an early warning signal for the collapse of these currents, according to the study published Friday in the journal Science Advances. And as the planet warms, there are already indications it is heading in this direction.
-
-The Atlantic Meridional Overturning Circulation (the AMOC) — of which the Gulf Stream is part — works like a giant global conveyor belt, taking warm water from the tropics toward the far North Atlantic, where the water cools, becomes saltier and sinks deep into the ocean, before spreading southward.
-
-...
-
-[Data](articles/2431958a.json)
-
-[Extended Data](ext_articles/2431958a.ext.json)
-
----
-
-### This is not the identity of Jaffna: Those who are responsible for the mistakes should be held - Anganan Show
-
-*2024-02-10 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/176051) · `ta`
-
-Parliamentarian Anganan Ramanathan posted a Facebook post on Friday (09).
-
-Mixed criticism of the Hariharan Live in Concert and Star Night held at the Jaffna Idawn Ground yesterday has been observed in Sri Lanka, India and abroad.
-
-Although the concerts are being held in Jaffna and the investments through which it is welcome, there should be no flexibility to look at when organizing the events.
-
-Many people refer to the unusual state of the event that the abnormal condition at yesterday's event is controlled if proper planning is done.
-
-Various controversies, such as the announcements of the show, the chaos caused by the tickets, the events made at the end of the event, the grounds, and the security defects are indicated as factors of yesterday's confusion.
-
-On the other hand, some people also criticize people who have visited the event.. It is a systematic politics to turn the errors of some of them on the entire Jaffna people.
-
-...
-
-[Data](articles/8ad5d318.json)
-
-[Extended Data](ext_articles/8ad5d318.ext.json)
 
 ---

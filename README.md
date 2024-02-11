@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 07:17:20**
+As of **2024-02-11 07:40:01**
 
 ## Newspaper Stats
 
-*Scraped **6,213** Articles*
+*Scraped **6,215** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,62 @@ adalk | 514
 tamilmirrorlk | 749
 adaderanalk | 769
 virakesarilk | 769
-adaderanasinhalalk | 841
+adaderanasinhalalk | 843
 dailymirrorlk | 906
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,213 (100.0%) of 6,213 articles have been extended.
+6,215 (100.0%) of 6,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### Second ODIs today
+
+*2024-02-11 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193229) · `si`
+
+The second ODI match between Sri Lanka, Afghanistan and Sri Lankan team will commence today.
+
+The match will be opened at the Pallekele International Cricket Grounds at 2 pm.
+
+It is reported that the Sri Lankan team will participate in the first one-day match for the match today.
+
+The Sri Lankan team won the first one-day match between the two countries by 42 runs.
+
+With that victory and the wishes and wishes, cricket loves about the match are very interested in today's competition worlds.
+
+◼️
+
+[Data](articles/0693c2dc.json)
+
+[Extended Data](ext_articles/0693c2dc.ext.json)
+
+---
+
+### President to visit Sri Lanka
+
+*2024-02-11 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193228) · `si`
+
+President Ranil Wickremesinghe has returned to the island, who attended the 7th Indian Ocean Summit in Perth, Australia.
+
+The Derana Airportstorm reporter said that the President arrived at the Katunayake airport at night.
+
+The President and the delegation had arrived at the Bandaranaike International Airport on the airport of SriLankan Airlines 309.
+
+President Ranil Wickremesinghe departed to Australia on the 8th night.
+
+The President made the keynote address at the 7th Indian Ocean Conference in the Indian Ocean Conference, while the President was held with bilateral discussions with heads of state.
+
+◼️
+
+[Data](articles/85ccaede.json)
+
+[Extended Data](ext_articles/85ccaede.ext.json)
+
+---
 
 ### Rainy weather
 
@@ -2005,47 +2049,5 @@ Ukraine War and its post -Western obstacles have helped to find new markets in C
 [Data](articles/3f526717.json)
 
 [Extended Data](ext_articles/3f526717.ext.json)
-
----
-
-### ‘Attacks on fishermen rising on Sri Lankan waters’: Tamil Nadu CM urges PM Modi to intervene
-
-*2024-02-10 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97162/attacks-on-fishermen-rising-on-sri-lankan-waters-tamil-nadu-cm-urges-pm-modi-to-intervene) · `en`
-
-Tamil Nadu Chief Minister MK Stalin has written to Indian Prime Minister Narendra Modi, expressing concern about the rising number of attacks on fishermen from the state by unidentified persons. Stalin sought the Prime Minister to intervene and secure the release of fishermen arrested by Sri Lanka for allegedly trespassing in its waters.
-
-In a letter, Stalin said 88 Indian fishermen were arrested, and 12 boats were seized by Sri Lankan authorities in the past 28 days.
-
-“I am writing to express my deep concern regarding the alarming increase in incidents of apprehension of Tamil fishermen and their boats by the Sri Lankan authorities. This issue severely impacts the right to livelihood of these fishermen as the communities have utilised these fishing waters for generations,” he said.
-
-He said there has been a significant rise in the number of arrests of fishermen from Tamil Nadu by Sri Lankan authorities in the past few years, except for the period when the Covid-19 pandemic occurred.
-
-...
-
-[Data](articles/52784f8f.json)
-
-[Extended Data](ext_articles/52784f8f.ext.json)
-
----
-
-### You can apply for Aswesum payments from today
-
-*2024-02-10 11:44:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-அஸ்வெசும-கொடுப்பனவுக்கு-விண்ணப்பிக்கலாம்/175-332968) · `ta`
-
-The Ministry of Finance has said that the application for applications for selecting 4 lakh new Aswell beneficiaries nationwide will commence today (10).
-
-Finance Minister Shehan Semasinghe said that those who are eligible to receive allowances under this scheme will be given the allowance from April 1.
-
-According to the advice obtained from various parties when selecting the beneficiaries of Aswesa, steps have been taken to correct certain conditions.
-
-If anyone is unable to apply for this scheme according to the conditions used in selecting families, they can apply.
-
-Meanwhile, Ashemu payments have been increased with effect from January. Remble
-
-◼️
-
-[Data](articles/5a5480d9.json)
-
-[Extended Data](ext_articles/5a5480d9.ext.json)
 
 ---

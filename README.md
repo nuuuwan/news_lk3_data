@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 14:17:15**
+As of **2024-02-11 14:32:41**
 
 ## Newspaper Stats
 
-*Scraped **6,282** Articles*
+*Scraped **6,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,51 @@ tamilmirrorlk | 765
 virakesarilk | 775
 adaderanalk | 776
 adaderanasinhalalk | 861
-dailymirrorlk | 915
+dailymirrorlk | 916
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,278 (99.9%) of 6,282 articles have been extended.
+6,282 (100.0%) of 6,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
 
-### ஆஸி. பெண்ணின் அந்தரங்கத்தை தொட்டவருக்கு சிக்கல்
+### Dushmantha Chameera ruled out of 2nd ODI against Afghanistan
+
+*2024-02-11 13:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dushmantha-Chameera-ruled-out-of-2nd-ODI-against-Afghanistan/108-276769) · `en`
+
+Kandy, Feb 11 (Daily Mirror) - Dushmantha Chameera will miss Sri Lanka's second ODI against Afghanistan, with Asitha Fernando coming into the squad as his replacement.
+
+Sri Lanka Cricket stated that Chameera limped off midway through his eighth over during Sri Lanka's 42-run victory in the first ODI. Despite picking up two wickets at the time, he was unable to continue due to an injury to his left quadriceps.
+
+The injury is confirmed to be unrelated to any of his previous ailments; last year, he missed a significant portion of Sri Lanka's games due to a torn pectoral muscle, and prior to that, he underwent surgery for an ankle injury.
+
+◼️
+
+[Data](articles/c8f1971a.json)
+
+---
+
+### Aussie. Trouble
 
 *2024-02-11 13:53:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆஸி-பெண்ணின்-அந்தரங்கத்தை-தொட்டவருக்கு-சிக்கல்/76-333010) · `ta`
 
-மசாஜ் சேவையை பெற்றுக்கொள்ள சென்ற அவுஸ்திரேலிய பெண் பிரஜையொருவரை பாலியல் துஷ்பிரயோகத்துக்கு  உள்ளாக்க முயற்சித்ததாக கூறப்படும் நபர்  தொடர்பில், அவுஸ்திரேலியா பெண் நுவரெலியா பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளார் என நுவரெலியா பொலிஸார் தெரிவித்தனர்.
+Nuwara Eliya police said that the Australian woman has lodged a complaint at the Nuwara Eliya Police Station regarding the man who was allegedly trying to sexually abuse an Australian citizen who went to get a massage service.
 
-கொழும்பிலிருந்து கண்டிக்குச் செல்லும் வழியில் கடுகண்ணாவை  பிரதேசத்தில் இயங்கும் மசாஜ் நிலையத்தில் குறித்த சம்பவம் வெள்ளிக்கிழமை (09) இடம்பெற்றுள்ளதாகவும். அதன் பின்னர் கடுகண்ணாவை பிரதேசத்தில் இருந்து நுவரெலியாவிற்கு வருகை தந்து நுவரெலியா பொலிஸ் நிலையத்தில்  முறைப்பாடு செய்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The incident took place on Friday (09) on the way from Colombo to Kandy.. Subsequently, the police said that they had lodged a complaint at the Nuwara Eliya Police Station from Kadugannawa area to Nuwara Eliya.
 
-தனக்கு நேர்ந்த சம்பவம் குறித்து அவுஸ்திரேலியா பிரஜையான 39 வயதுடைய பெண், பொலிஸ் நிலையத்தில் செய்துள்ள முறைப்பாட்டில்,  எனது கணவர் மற்றும் குழந்தையுடன் சுற்றுலா நிமிர்த்தம் கடந்த ஜனவரி மாதம் 29 ஆம் திகதி இலங்கைக்கு வந்தோம். கூடுதலான சுற்றுலா இடங்களை பார்வையிட்டு கடந்த 9ஆம் திகதி கடுகண்ணாவை பிரதேசத்தில் ஹோட்டல் ஒன்றில் தங்கியிருந்தோம். அன்று மாலை குறித்த ஹோட்டலில்   மசாஜ் நிலையத்துக்கு சென்றிருந்தேன்.
+A 39 -year -old woman, Australia's 39 -year -old woman, came to Sri Lanka on January 29, with my husband and child at the police station on the incident.. We were staying at a hotel in Kadugannawa area on the 9th.. I went to the massage station at the hotel that evening.
+
+I went to massage the head and skin.There, the massage employee touched my personal parts unnecessarily. I left out there immediately. It was only after that that we arrived immediately to Nuwara Eliya, he said in the complaint.
 
 ...
 
 [Data](articles/01498235.json)
+
+[Extended Data](ext_articles/01498235.ext.json)
 
 ---
 
@@ -65,6 +85,8 @@ He said that in a world where sustainability has become an imperative, innovatio
 ...
 
 [Data](articles/bcfad82d.json)
+
+[Extended Data](ext_articles/bcfad82d.ext.json)
 
 ---
 
@@ -88,37 +110,43 @@ The other two robbers had fled, and the Minuwangoda police are conducting furthe
 
 ---
 
-### කාසියේ වාසිය ඔස්ට්‍රේලියාවට
+### Australia advantage of the coin
 
 *2024-02-11 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193247) · `si`
 
-19න් පහළ ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අවසන් මහා තරගයේ කාසියේ වාසිය දිනාගැනීමට ඕස්ට්‍රේලියානු කණ්ඩායමේ නායකයා සමත් විය.
+The Australian team captain won the toss and win the coin in the final of the 19 World Cup.
 
 ◼️
 
 [Data](articles/15489dd7.json)
 
+[Extended Data](ext_articles/15489dd7.ext.json)
+
 ---
 
-### වායු ගෝලයේ ගුණාත්මකභාවය අහිතකර මට්ටමක
+### The quality of the atmosphere is at a negative
 
 *2024-02-11 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193248) · `si`
 
-දිස්ත්‍රික්ක කිහිපයක වායු ගෝලයේ ගුණාත්මකභාවය මිනිස් සිරුරට අහිතකර මට්ටමක් දක්වා ඉහළ ගොස් තිබේ.
+The quality of the atmosphere of several districts has increased to a negative level of human body.
 
-විශේෂයෙන් කොළඹ, යාපනය සහ මහනුවර යන දිස්ත්‍රික්කවල එම තත්ත්වය ඉහළ අගයක් ගන්නා බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය සඳහන් කරයි.
+The National Building Research Organization (NBRO) states that this situation is higher in Colombo, Jaffna and Kandy districts.
 
-වායු ගුණත්ව දර්ශකයට අනුව නුවරඑළිය දිස්ත්‍රික්කයේ හැර දිවයිනේ සෙසු දිස්ත්‍රික්කවල වායු ගුණත්වය සංවේදී පුද්ගලයින්ට සෞඛ්‍යමය වශයෙන් බලපෑම් ඇති වන මට්ටමේ පවතින බව සඳහන් ය.
+According to the Air Quality Index, air quality in the rest of the country, except the Nuwara Eliya district, is healthy.
 
-කොළඹ, යාපනය, කිලිනොච්චිය, ත්‍රිකුණාමලය, බදුල්ල, කුරුණෑගල, මහනුවර, මාතලේ යන දිස්ත්‍රික්කවල වායු ගුණත්ව දර්ශකය සෞඛ්‍යමය වශයෙන් අයහපත් බලපෑම් ඇති විය හැකි මට්ටමේ පවතින බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය සඳහන් කළේය.
+The National Building Research Organization stated that the air quality index in the Colombo, Jaffna, Badulla, Kandy, Matale districts are healthy.
 
-වියළි කාලගුණ තත්ත්වය හා අසල්වැසි රටවලින් හමා එන අහිතකර දූවිලි අංශු එම තත්ත්වයට හේතු වී ඇති බව එම සංවිධානය පෙන්වාදෙයි.
+Dry weather conditions and neighboring dust particles have contributed to this situation.
 
-මේ හේතුවෙන් හෘද රෝග, ශ්වසන රෝගවලින් පසු වන පුද්ගලයින්, වයස්ගත පුද්ගලයින් හා කුඩා ළමුන් එළිමහනේ දී මුව ආවරණ පැළලඳීම සිදුකිරීම වැදගත් බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය සඳහන් කළේය.
+The National Building Research Organization (NBRO) stated that it is important to raise the deer covers in the open aircraft, aged people, respiratory diseases, and children.
 
-...
+Especially jungle fires, reliance, traffic runs will lead to increase in air pollution.
+
+◼️
 
 [Data](articles/87d28e03.json)
+
+[Extended Data](ext_articles/87d28e03.ext.json)
 
 ---
 
@@ -2061,21 +2089,5 @@ It is no longer a secret that a progressive section of the Buddhist clergy (Sang
 [Data](articles/11087245.json)
 
 [Extended Data](ext_articles/11087245.ext.json)
-
----
-
-### Horana Plantations and WNPS PLANT building an ambitious nine km Forest Corridor
-
-*2024-02-10 19:05:00* · [`islandlk`](http://island.lk/horana-plantations-and-wnps-plant-building-an-ambitious-nine-km-forest-corridor/) · `en`
-
-Horana Plantations and WNPS PLANT have just announced the launch of an exciting new conservation initiative in the hill country which hopes to build a nine-kilometer-long forest corridor along the Maskeliya Oya, creating 55 hectares of new forest in the process.
-
-Agricultural expansion and intensive settlement pressures over years have resulted in many parts of the beautiful Maskeliya Oya having lost its natural tree cover on either bank. The Oya flows down from the Peak Wilderness Sanctuary for over 40 kilometers to become one of the major tributaries of the powerful Kelani River. The lack of forest cover on either side has also contributed to erosion, floods, and numerous other issues.
-
-...
-
-[Data](articles/70cf29dc.json)
-
-[Extended Data](ext_articles/70cf29dc.ext.json)
 
 ---

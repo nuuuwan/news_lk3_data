@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 10:50:07**
+As of **2024-02-11 11:02:25**
 
 ## Newspaper Stats
 
-*Scraped **6,247** Articles*
+*Scraped **6,249** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 363
 adalk | 517
 tamilmirrorlk | 758
 adaderanalk | 772
-virakesarilk | 773
+virakesarilk | 775
 adaderanasinhalalk | 853
 dailymirrorlk | 908
 
@@ -26,11 +26,35 @@ dailymirrorlk | 908
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,247 (100.0%) of 6,247 articles have been extended.
+6,249 (100.0%) of 6,249 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### Adani Group Administration of three airports in Sri Lanka?
+
+*2024-02-11 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176073) · `ta`
+
+The Sri Lankan government has held talks with the Adani Group to manage three airports in Sri Lanka, including the Bandaranaike International Airport in Colombo.
+
+Minister Harinbernando said this.
+
+Harinbernando said there are negotiations on the merger of Adani Group at the camp at the management of these airports.
+
+Sri Lanka has been investigating the provision of the administration of airports to the private sector as Sri Lanka's tourism industry is again growth.
+
+As a result, Sri Lanka expects that the private sector will help to expand resources and make travelers' experiences better.
+
+If these talks succeed, Adani Group will have the first opportunity to manage airports abroad.
+
+◼️
+
+[Data](articles/1cb82fb7.json)
+
+[Extended Data](ext_articles/1cb82fb7.ext.json)
+
+---
 
 ### An increase in the number of cardiovascular patients
 
@@ -85,6 +109,30 @@ Minister of External Affairs Alison added that this will improve the tourism ind
 [Data](articles/4f7af349.json)
 
 [Extended Data](ext_articles/4f7af349.ext.json)
+
+---
+
+### Red Sea may occur in the Indian Ocean - Australian Foreign Minister warns
+
+*2024-02-11 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176069) · `ta`
+
+Australian Foreign Minister Beniwong has warned of accidents and misconceptions in the Indian Ocean.
+
+Speaking to the President of India, the President of India, Beniwong, said that the Indian Ocean is in need of transparency and stability against accidents and accidents.
+
+The US and Britain have launched attacks against the Iranian -backed Health insurgents in the Red Sea. Australia has supported these attacks.
+
+Speaking at a function attended by the President of Sri Lanka and the Indian Foreign Minister, the Australian Foreign Minister China said that the Red Sea could cause a lot of interest in the Hindu Samuthi region.
+
+Beniwong has said that the conflict is very dangerous due to the Taiwan Malaclain.
+
+He said that the world's freight transport and global oil exports are taking place through the Hindu Mudra, he said.
+
+◼️
+
+[Data](articles/04adb310.json)
+
+[Extended Data](ext_articles/04adb310.ext.json)
 
 ---
 
@@ -2035,37 +2083,5 @@ The suspected woman has confessed to the Sri Lanka Customs that an unidentified 
 [Data](articles/2ba96fb7.json)
 
 [Extended Data](ext_articles/2ba96fb7.ext.json)
-
----
-
-### Flower arrangement exhibition & demonstration on Feb. 16 & 17
-
-*2024-02-10 15:30:00* · [`islandlk`](http://island.lk/flower-arrangement-exhibition-demonstration-on-feb-16-17/) · `en`
-
-This Exhibition of Ikebana, the Japanese art of flower arranging and the Western art of flower arrangements, will be held on February 16 (11.00 am to 7.00 pm) and February 17 (10.00 am to 6.00 pm) at the Ivy Room of the Cinnamon Grand Hotel, the Shi-en Ikebana and Floral Arts Society of Sri Lanka (SIFAS) announced last week.
-
-A demonstration will be held by members who are experienced arrangers, on February 16 at 4.00p.m. for exhibition ticket holders only. Tickets are priced at a nominal Rs.500 and part proceeds will go to the Thalassemia unit at the Lady Ridgeway Hospital.
-
-...
-
-[Data](articles/b96caf6e.json)
-
-[Extended Data](ext_articles/b96caf6e.ext.json)
-
----
-
-### Exterminators PLC to transform pest management industry in South Asia
-
-*2024-02-10 15:29:00* · [`islandlk`](http://island.lk/exterminators-plc-to-transform-pest-management-industry-in-south-asia/) · `en`
-
-Exterminators PLC last week announced that the company recently entered a ground-breaking strategic partnership with PestScan B.V. Netherlands and Sentario UK Limited.
-
-Exterminators PLC is aiming to transform the pest management industry in South Asia from a chemical-focused industry to a technology-focused industry by adapting cutting-edge AI-powered digital pest management solutions. Exterminators PLC is the exclusive distributor of PestScan’s digital pest management software for India, Sri Lanka, and the Maldives and the non-exclusive distributor in Pakistan, Bangladesh, Nepal, and Bhutan.
-
-...
-
-[Data](articles/4e3b5df5.json)
-
-[Extended Data](ext_articles/4e3b5df5.ext.json)
 
 ---

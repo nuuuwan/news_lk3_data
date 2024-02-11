@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 04:02:22**
+As of **2024-02-12 04:17:27**
 
 ## Newspaper Stats
 
-*Scraped **6,356** Articles*
+*Scraped **6,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 334
 dailyftlk | 346
 newsfirstlk | 363
 adalk | 533
-tamilmirrorlk | 771
+tamilmirrorlk | 772
 adaderanalk | 784
 virakesarilk | 794
 adaderanasinhalalk | 875
@@ -26,11 +26,27 @@ dailymirrorlk | 923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,354 (100.0%) of 6,356 articles have been extended.
+6,356 (100.0%) of 6,357 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### காமினி ஜெயவிக்ரம பெரேராவை சந்தித்தார் ஜனாதிபதி
+
+*2024-02-12 03:47:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காமினி-ஜெயவிக்ரம-பெரேராவை-சந்தித்தார்-ஜனாதிபதி/175-333047) · `ta`
+
+சுகவீனமுற்றுள்ள முன்னாள் அமைச்சர் காமினி ஜெயவிக்ரம பெரேராவின் நலம் விசாரிப்பதற்காக நேற்று  கடுகம்பலையில் உள்ள அவரின் இல்லத்திற்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க சென்றுள்ளார்.
+
+இதன்போது, ஜனாதிபதி  ரணில் விக்கிரமசிங்க, முன்னாள் அமைச்சரின் நலன் பற்றி விசாரித்ததோடு சிறிது நேரம் அவருடன் உரையாடலில் ஈடுபட்டார்.
+
+குடும்ப உறுப்பினர்களிடம் அவர் பற்றிய தகவல்களை கேட்டறிந்த ஜனாதிபதி, காமினி ஜெயவிக்ரம பெரேராவின் வீட்டிற்கு அருகில் ஒன்று கூடிய பிரதேச மக்களுடன் சிநேகபூர்வமாக உரையாடியுள்ளார். (a)
+
+◼️
+
+[Data](articles/7abfd6be.json)
+
+---
 
 ### National Chamber holds 65th Annual General Meeting
 
@@ -48,6 +64,8 @@ It was a momentous occasion with highlights and engagements of the National Cham
 
 [Data](articles/e32345e0.json)
 
+[Extended Data](ext_articles/e32345e0.ext.json)
+
 ---
 
 ### Thought Leadership Forum on electricity sector reforms on 15 Feb.
@@ -61,6 +79,8 @@ The Thought Leadership Forum, an independent, apolitical, awareness enhancement 
 ...
 
 [Data](articles/0776137f.json)
+
+[Extended Data](ext_articles/0776137f.ext.json)
 
 ---
 
@@ -2139,25 +2159,5 @@ The Nallatuniya-Maskeliya main road was to be adequate due to the pilgrims and v
 [Data](articles/b0de406e.json)
 
 [Extended Data](ext_articles/b0de406e.ext.json)
-
----
-
-### Janasa's goodwill
-
-*2024-02-11 10:22:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரம்-விழுந்து-மரணமான-சிறுவனின்-ஜனாஸா-நல்லடக்கம்/76-332999) · `ta`
-
-The boy, who had been treated for five days in the intensive care unit of the Kandy National Hospital, died after being injured in a tree in the Gampola pre -school.. His Janasa was held at Kahadapitiya, Gampola on Saturday night (10).
-
-In the incident, an uneducated boy in the same school died on the day of the incident.
-
-The second student of the incident, Mohamed Ikram Hayan's (age 5), a boy in Gampola, Kahadapitiya, Babila area. The boy is the youngest in a family of two children.
-
-Three boys were injured and admitted to the hospital when a large tree near the Penhil International Preschool in Gampola was playing outside the playground while playing outside.
-
-◼️
-
-[Data](articles/9dff37b2.json)
-
-[Extended Data](ext_articles/9dff37b2.ext.json)
 
 ---

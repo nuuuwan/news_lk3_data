@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 21:17:09**
+As of **2024-02-11 21:32:59**
 
 ## Newspaper Stats
 
-*Scraped **6,318** Articles*
+*Scraped **6,319** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 334
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 531
-tamilmirrorlk | 768
+tamilmirrorlk | 769
 virakesarilk | 777
 adaderanalk | 781
 adaderanasinhalalk | 870
@@ -26,11 +26,25 @@ dailymirrorlk | 920
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,318 (100.0%) of 6,318 articles have been extended.
+6,318 (100.0%) of 6,319 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### ரயிலில் தீ பரவியதால் பதற்றம்
+
+*2024-02-11 20:32:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-தீ-பரவியதால்-பதற்றம்/175-333044) · `ta`
+
+கம்பஹா ரயில் நிலையத்தில் நிறுத்தி வைக்கப்பட்டிருந்த எண்ணெய் ரயிலில் திடீரென தீ பரவியுள்ளது.
+
+இதனை கட்டுப்படுத்தும் முயற்சியில் ரயில்வே ஊழியர்கள் ஈடுபட்டுள்ளனர். தீ விபத்துக்கான காரணம் இதுவரை கண்டறியப்படவில்லை.
+
+◼️
+
+[Data](articles/3268c638.json)
+
+---
 
 ### Air quality in multiple cities deteriorates
 
@@ -2125,23 +2139,5 @@ The Department of Meteorology has predicted that heating climate may further inc
 [Data](articles/47d45178.json)
 
 [Extended Data](ext_articles/47d45178.ext.json)
-
----
-
-### Woman arrested for trying to kidnap gold jewelery
-
-*2024-02-11 04:01:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்க-நகைகளை-கடத்த-முயன்ற-பெண்-கைது/175-332991) · `ta`
-
-A woman was arrested at the Katunayake airport yesterday for trying to smuggle gold jewelery worth 58 million rupees.
-
-The arrested is a 55 -year -old woman from Weyangoda, who is working on the airport at the airport.
-
-The suspect has been arrested by the Katunayake airport police drug detention unit at the airport departure terminal. (A)
-
-◼️
-
-[Data](articles/a12d5f99.json)
-
-[Extended Data](ext_articles/a12d5f99.ext.json)
 
 ---

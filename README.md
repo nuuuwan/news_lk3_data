@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 22:33:57**
+As of **2024-02-11 22:50:08**
 
 ## Newspaper Stats
 
-*Scraped **6,334** Articles*
+*Scraped **6,336** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ dailyftlk | 342
 newsfirstlk | 363
 adalk | 533
 tamilmirrorlk | 771
-adaderanalk | 782
 virakesarilk | 783
+adaderanalk | 783
 adaderanasinhalalk | 874
-dailymirrorlk | 920
+dailymirrorlk | 921
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,327 (99.9%) of 6,334 articles have been extended.
+6,327 (99.9%) of 6,336 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### Sri Lanka beat Afghanistan by 155 runs to seal ODI series
+
+*2024-02-11 22:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-beat-Afghanistan-by-155-runs-to-seal-ODI-series/108-276774) · `en`
+
+Kandy, Feb 11 (Daily Mirror) - Sri Lanka secured a commanding victory over Afghanistan in the second One Day International (ODI), triumphing by 155 runs on Sunday, to take the series by 2-0.
+
+With stellar contributions from Charith Asalanka, Kusal Mendis, Sadeera Samarawickrama, and Janith Liyanage, Sri Lanka posted a formidable total of 308 for 6. Asalanka's remarkable innings, marked by a blistering 97 off 74 balls, played a pivotal role in propelling the team beyond the 300-run mark. His dynamic partnership with Wanindu Hasaranga in the latter overs proved vital, especially after a period of Afghan bowling dominance.
+
+Sri Lanka's innings was characterized by two century partnerships, first between Mendis and Samarawickrama, and then between Liyanage and Asalanka. These partnerships laid a solid foundation for Sri Lanka, setting the stage for a late surge, during which they amassed 96 runs in the final 10 overs.
+
+...
+
+[Data](articles/2fb1b65b.json)
+
+---
 
 ### சொகுசு வாகனங்களை இரகசியமாக பதிவு செய்த 7 பேர்
 
@@ -69,6 +85,26 @@ Unified Payment Interface (UPI) என்ற ஒருங்கிணைந்�
 ...
 
 [Data](articles/4e0865b7.json)
+
+---
+
+### India’s UPI to be launched in Sri Lanka, Mauritius on Monday
+
+*2024-02-11 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97189/indias-upi-to-be-launched-in-sri-lanka-mauritius-on-monday) · `en`
+
+The Unified Payment Interface (UPI) services and RuPay card services will be rolled out in Sri Lanka and Mauritius at a virtual ceremony on Monday, February 12.
+
+The event will be joined by Prime Minister Narendra Modi, Mauritian PM Pravind Jugnauth and Sri Lanka’s President Ranil Wickremesinghe, according to the Ministry of External Affairs (MEA).
+
+“Prime Minister Narendra Modi, President of Sri Lanka Ranil Wickremesinghe and Prime Minister of Mauritius Pravind Jugnauth will witness the launch of Unified Payment Interface (UPI) services in Sri Lanka and Mauritius, and also RuPay card services in Mauritius on February 12 at 1 PM via video conferencing,” it said.
+
+A real-time payment system,  the UPI has been developed by the National Payments Corporation of India (NPCI) to facilitate inter-bank transactions through mobile phones.
+
+Similar to a Visa or Mastercard, RuPay is a global card payment network from India, with wide acceptance at shops, ATMs, and online platforms.
+
+...
+
+[Data](articles/229df293.json)
 
 ---
 
@@ -2117,45 +2153,5 @@ The Palestinian Red Cross Association has accused the ambulance of deliberately 
 [Data](articles/b926ab13.json)
 
 [Extended Data](ext_articles/b926ab13.ext.json)
-
----
-
-### Investigate
-
-*2024-02-11 07:50:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருந்து-நிறுவனங்கள்-தொடர்பில்-விசாரணை/175-332995) · `ta`
-
-The Criminal Investigation Department is in the process of investigating all the drug sales and purchasing companies registered in Sri Lanka.
-
-The decision was taken after a meeting chaired by the Deputy Inspector General of Police in charge of the Criminal Investigation Division.
-
-It has been decided that a detailed investigation will be carried out in particular on the recent pharmaceutical companies and its relevant.
-
-The meeting was examined at the meeting on the need to strengthen investigations into the Human immunoglobulin scandal and the police recently shared the legal issues carried out with the Attorney General during their inquiry.. (A)
-
-◼️
-
-[Data](articles/99504046.json)
-
-[Extended Data](ext_articles/99504046.ext.json)
-
----
-
-### Maithri says he will support
-
-*2024-02-11 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193233) · `si`
-
-Sri Lanka Freedom Party Chairman Maithripala Sirisena says his party is supporting the proposal to abolish the executive presidency.
-
-He pointed out that there is information that there is a plan to bring a proposal.
-
-Addressing a seminar organized by the Sri Lanka Freedom Party (SLFP) on behalf of Independence, Maithripala Sirisena expressed these views.
-
-However, Opposition Leader Sajith Premadasa has stated that this is not the right time to abolish the executive presidency.
-
-◼️
-
-[Data](articles/2aa3d0cd.json)
-
-[Extended Data](ext_articles/2aa3d0cd.ext.json)
 
 ---

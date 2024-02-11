@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 15:33:07**
+As of **2024-02-11 15:50:52**
 
 ## Newspaper Stats
 
-*Scraped **6,285** Articles*
+*Scraped **6,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 75
 bbccomsinhala | 87
 dbsjeyarajcom | 146
 economynextcom | 321
-islandlk | 333
+islandlk | 334
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 523
@@ -26,11 +26,27 @@ dailymirrorlk | 916
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,285 (100.0%) of 6,285 articles have been extended.
+6,286 (100.0%) of 6,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### Anura Kumara Dissanayake in India
+
+*2024-02-11 14:36:00* · [`islandlk`](http://island.lk/anura-kumara-dissanayake-in-india/) · `en`
+
+Anura Kumara Dissanayake’s recent visit to India, on an invitation extended by the Indian government, underlies a tectonic shift in Sri Lankan politics, a sign of things to come. It hints at what may happen at upcoming elections. More than anything, it shows that India is taking the JVP-NPP seriously. We should be, too.
+
+The responses to the visit by other parties have, so far, been lukewarm. The UNP’s Vajira Abeywardena, for instance, welcomed the move, and stated that his party hoped the JVP-NPP would contribute towards national policies which would “revive the nation”, adding that he looked forward to seeing the party work with the UNP, just as it had worked before with Chandrika Kumaratunga and Mahinda Rajapaksa.
+
+...
+
+[Data](articles/2880949c.json)
+
+[Extended Data](ext_articles/2880949c.ext.json)
+
+---
 
 ### 564 more suspects arrested during operation ‘Yukthiya’
 
@@ -1355,22 +1371,6 @@ In some places in the Western and Sabaragamuwa Districts, some locations are exp
 [Data](articles/3c34e190.json)
 
 [Extended Data](ext_articles/3c34e190.ext.json)
-
----
-
-### Anura Kumara Dissanayake in India
-
-*2024-02-11 05:40:00* · [`islandlk`](http://island.lk/anura-kumara-dissanayake-in-india/) · `en`
-
-Anura Kumara Dissanayake’s recent visit to India, on an invitation extended by the Indian government, underlies a tectonic shift in Sri Lankan politics, a sign of things to come. It hints at what may happen at upcoming elections. More than anything, it shows that India is taking the JVP-NPP seriously. We should be, too.
-
-The responses to the visit by other parties have, so far, been lukewarm. The UNP’s Vajira Abeywardena, for instance, welcomed the move, and stated that his party hoped the JVP-NPP would contribute towards national policies which would “revive the nation”, adding that he looked forward to seeing the party work with the UNP, just as it had worked before with Chandrika Kumaratunga and Mahinda Rajapaksa.
-
-...
-
-[Data](articles/2880949c.json)
-
-[Extended Data](ext_articles/2880949c.ext.json)
 
 ---
 

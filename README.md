@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 10:02:32**
+As of **2024-02-11 10:17:34**
 
 ## Newspaper Stats
 
-*Scraped **6,244** Articles*
+*Scraped **6,246** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 517
 tamilmirrorlk | 757
 adaderanalk | 772
 virakesarilk | 773
-adaderanasinhalalk | 851
+adaderanasinhalalk | 853
 dailymirrorlk | 908
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,244 (100.0%) of 6,244 articles have been extended.
+6,244 (100.0%) of 6,246 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### 19න් පහළ ලෝක කුසලානයේ අවසන් මහා තරගය අද
+
+*2024-02-11 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193240) · `si`
+
+19න් පහළ ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අවසන් මහා තරගය අද (11) පැවැත්වීමට නියමිත ව තිබේ.
+
+◼️
+
+[Data](articles/2fbe7a24.json)
+
+---
+
+### යූ.පී.අයි ගෙවීම් පද්ධතිය හෙට ශ්‍රී ලංකාවටත්
+
+*2024-02-11 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193239) · `si`
+
+ඉන්දියාවේ ඒකාබද්ධ ගෙවීම් ක්‍රියාවලිය හෙවත් යූ.පී.අයි ගෙවීම් පද්ධතිය හෙට (12) සිට ශ්‍රී ලංකාවට හඳුන්වා දෙන බව විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලිසබ්රි මහතා පවසයි.
+
+අමාත්‍යවරයා පෙන්වා දෙන්නේ, ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා සහ මෙරට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මාර්ගගත ක්‍රමය ඔස්සේ අදාළ පද්ධතිය කොළඹ දී එළිදැක්වීමට නියමිත බව ය.
+
+ඔස්ට්‍රේලියාවේ පර්ත් නුවර දී ඉන්දීය මාධ්‍ය නාලිකාවක් සමග පැවති සම්මුඛ සාකච්ඡාවකට එක්වෙමින් විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලිසබ්‍රි මහතා මේ බව සඳහන් කර තිබේ.
+
+යූ.පී.අයි ලෙස හැඳින්වෙන ඉන්දියානු ඒකාබද්ධ ගෙවීම් ක්‍රියාවලිය 2016 වර්ෂයේ දී ඉන්දියානු ජාතික ගෙවීම් සංස්ථාව විසින් ක්ෂණික ගෙවීම් පද්ධතියක් ලෙස හඳුන්වා දෙනු ලැබීය.
+
+මෙම ගෙවීම් පද්ධතිය ජංගම දුරකථන මාර්ගයෙන්, අන්තර් බැංකු සහ පුද්ගල වෙළෙඳාම් ගනුදෙනු සඳහා පහසුකම සපයනු ලබයි.
+
+මෙමගින් ශ්‍රී ලංකාවේ සංචාරක ව්‍යාපාරය වැඩිදියුණු කිරීමට හැකි වනු ඇති බව විදේශ කටයුතු අමාත්‍ය නීතිඥ අලිසබ්‍රි මහතා වැඩිදුරටත් සඳහන් කළේ ය.
+
+◼️
+
+[Data](articles/4f7af349.json)
+
+---
 
 ### Military service compulsory for youths
 
@@ -2025,37 +2059,5 @@ ICT veteran Chrishan Fernando joins the Board of Netsys Solutions from February.
 [Data](articles/694798f4.json)
 
 [Extended Data](ext_articles/694798f4.ext.json)
-
----
-
-### Ruwanpura Facet shines in Gold at National Industrial Excellence Awards
-
-*2024-02-10 15:28:00* · [`islandlk`](http://island.lk/ruwanpura-facet-shines-in-gold-at-national-industrial-excellence-awards/) · `en`
-
-Ruwanpura Facet Pvt Ltd has been awarded the Gold Award in the Gem Cutting and Polishing Category (Medium Scale) at the National Industry Excellence Awards 2023 organised by the Industrial Development Board (IDB). The award ceremony was recently held at the Nelum Pokuna Mahinda Rajapaksa Theatre in Colombo. Director of Ruwanpura Facet Pvt Ltd K. W. Sanjeewa Priyantha Fonseka received the award at the gala event. R. S. S. Sharik Hassaen, M. N. Mohamed Mushtaq and A. A. Mohamed Aroos are the other Directors of Ruwanpura Facet Pvt Ltd.
-
-Striving to modernise the gem cutting and polishing industry using the latest technology and machinery, Ruwanpura Facet Pvt Ltd has gained a well-deserved reputation, both locally and internationally, for artistic gem cutting and polishing. They cut and polish gems from New Zealand, Hong Kong, Japan, China, Thailand, the United States, and export gems to all parts of the world including the United States, China, and Europe.
-
-...
-
-[Data](articles/31974ce5.json)
-
-[Extended Data](ext_articles/31974ce5.ext.json)
-
----
-
-### GHC Global Education marks its proud 15th anniversary
-
-*2024-02-10 15:28:00* · [`islandlk`](http://island.lk/ghc-global-education-marks-its-proud-15th-anniversary/) · `en`
-
-GHC Global Education recently celebrated its 15th anniversary. Founded by a team of experts to provide consultation services for students seeking opportunities to pursue their higher education abroad in 2008, GHC Global Education is currently partnered with several leading universities in several countries including Australia, Finland and the United Kingdom (UK). GHC offers a wide range of services including those related to career counseling, academic courses, educational institutions, and country selection support, simplifying the visa process, student loan facilities, travel and accommodation preparation and part time job opportunities.
-
-The Metropolia University of Applied Sciences and Vaasa University of Applied Sciences in Finland, Coventry University in the UK, and Deakin University, Edith Cowan University, James Cook University and in Australia are among the leading universities that GHC Global Education is currently partnered with.
-
-...
-
-[Data](articles/e498f391.json)
-
-[Extended Data](ext_articles/e498f391.ext.json)
 
 ---

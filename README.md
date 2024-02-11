@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 10:33:00**
+As of **2024-02-11 10:50:07**
 
 ## Newspaper Stats
 
-*Scraped **6,246** Articles*
+*Scraped **6,247** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 333
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 517
-tamilmirrorlk | 757
+tamilmirrorlk | 758
 adaderanalk | 772
 virakesarilk | 773
 adaderanasinhalalk | 853
@@ -26,11 +26,29 @@ dailymirrorlk | 908
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,246 (100.0%) of 6,246 articles have been extended.
+6,247 (100.0%) of 6,247 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### An increase in the number of cardiovascular patients
+
+*2024-02-11 09:44:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருதய-நோயாளர்களின்-எண்ணிக்கை-அதிகரிப்பு/175-332998) · `ta`
+
+Health Minister Ramesh Pathirana said that the report of cardiovascular patients in Sri Lanka has suddenly increased.
+
+The Minister pointed out that medical conditions such as hypertension and diabetes have caused this condition.
+
+The Minister of Health said this while addressing an event in Galle. Remble
+
+◼️
+
+[Data](articles/f01299af.json)
+
+[Extended Data](ext_articles/f01299af.ext.json)
+
+---
 
 ### World Cup final today
 
@@ -2049,19 +2067,5 @@ Exterminators PLC is aiming to transform the pest management industry in South A
 [Data](articles/4e3b5df5.json)
 
 [Extended Data](ext_articles/4e3b5df5.ext.json)
-
----
-
-### ICT Veteran Chrishan Fernando joins Board of Netsys Solutions
-
-*2024-02-10 15:29:00* · [`islandlk`](http://island.lk/ict-veteran-chrishan-fernando-joins-board-of-netsys-solutions/) · `en`
-
-ICT veteran Chrishan Fernando joins the Board of Netsys Solutions from February. Chrishan is an experienced IT leader with over 25 years of experience working for leading Global IT Companies. He started his international career with Compaq Computer in 1997 and was based in Singapore covering South Asia markets. Later with the merger of HP, he moved back to Sri Lanka, his country of birth, and started the HP office in Sri Lanka. Head hunted by IBM in 2009, to be the Country General Manager for Sri Lanka’s biggest IT company, he led the introduction of new lines of businesses such as software and IBM’s Global Business Services to the Sri Lanka market. At Dell Technologies, he was the Country Manager for Sri Lanka and Maldives. Under his leadership, Dell reached No 1 in market share for consumer and commercial business in Sri Lanka.
-
-...
-
-[Data](articles/694798f4.json)
-
-[Extended Data](ext_articles/694798f4.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 00:17:11**
+As of **2024-02-12 00:32:43**
 
 ## Newspaper Stats
 
@@ -56,13 +56,13 @@ Ranil Wickremesinghe was elected as the country's president with a seat in Parli
 
 *2024-02-11 23:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/More-surprises-to-be-unfolded-Anura-Kumara-says-after-India-visit/108-276777) · `en`
 
-Anuradhapura, Feb. 111 (Daily Mirror)- Claiming that opposition camps have been astonished by the NPP's Indian visit, NPP leader Anura Kumara Dissanayake said today that more surprising events are to be unfolded in the near future.
+Anuradhapura, Feb. 11 (Daily Mirror)- Claiming that opposition camps have been astonished by the NPP's Indian visit, NPP leader Anura Kumara Dissanayake said today that more surprising events are to be unfolded in the near future.
 
 Speaking at the Anuradhapura District Women's Convention, he said an era had begun now, where more and more surprises would take place.
 
 "How did you know about our Indian visit? You got to know it either through the Samagi Jana Balawegaya camp, President Ranil's camp or Mahinda Rajapaksa's camp. We were silent. They have been astonished to learn about our Indian visit. They thought that only they can deal with India in that manner. An era has begun where more and more such surprises will occur," he said.
 
-Dissanayake said the opposition has also been astonished about this women's convention that have been organised, adding that they never thought an awakening of women would happen in this manner.
+Dissanayake said the opposition has also been astonished about this concept of women's convention, adding that they never thought an awakening of women would happen in this manner.
 
 ...
 

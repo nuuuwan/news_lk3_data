@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 06:56:30**
+As of **2024-02-11 07:17:20**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,204 (99.9%) of 6,213 articles have been extended.
+6,213 (100.0%) of 6,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
 
-### වැසි රහිත කාලගුණයක්
+### Rainy weather
 
 *2024-02-11 06:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193227) · `si`
 
-දිවයිනේ ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Meteorology Department says that there is a key weather in the island mainly.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, මධ්‍යම කඳුකරයේ නැහෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, නැහෙනහිර, වයඹ, ඌව සහ දකුණු පළාත්වලත් විටින් විට හමන පැ.කි.මී. (30-40) පමණ තරමක තද සුළං ඇතිවිය හැකි බවය.
+The Department states that the Northern, North-Central, Wayamba, Uva and Southern provinces are being held in the ends of the central hills.. (30-40) Strong winds can occur.
 
-බස්නාහිර සහ සබරගමුව පළාත්නලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කළ නිවේදනයේ වැඩිදුරටත් දැක්වේ.
+In some places in the Western and Sabaragamuwa Districts, some locations are expected to look forward to a murder.
 
 ◼️
 
 [Data](articles/3c34e190.json)
+
+[Extended Data](ext_articles/3c34e190.ext.json)
 
 ---
 
@@ -1330,6 +1332,8 @@ MDRT, the Premier Association of Financial Professionals, which was formed in 19
 
 [Data](articles/23250fa9.json)
 
+[Extended Data](ext_articles/23250fa9.ext.json)
+
 ---
 
 ### Cleaning staffer arrested at BIA with stock of gold worth Rs. 58mn
@@ -1364,6 +1368,8 @@ A demonstration will be held by members who are experienced arrangers, on Februa
 
 [Data](articles/b96caf6e.json)
 
+[Extended Data](ext_articles/b96caf6e.ext.json)
+
 ---
 
 ### Exterminators PLC to transform pest management industry in South Asia
@@ -1378,6 +1384,8 @@ Exterminators PLC is aiming to transform the pest management industry in South A
 
 [Data](articles/4e3b5df5.json)
 
+[Extended Data](ext_articles/4e3b5df5.ext.json)
+
 ---
 
 ### ICT Veteran Chrishan Fernando joins Board of Netsys Solutions
@@ -1389,6 +1397,8 @@ ICT veteran Chrishan Fernando joins the Board of Netsys Solutions from February.
 ...
 
 [Data](articles/694798f4.json)
+
+[Extended Data](ext_articles/694798f4.ext.json)
 
 ---
 
@@ -1404,6 +1414,8 @@ Striving to modernise the gem cutting and polishing industry using the latest te
 
 [Data](articles/31974ce5.json)
 
+[Extended Data](ext_articles/31974ce5.ext.json)
+
 ---
 
 ### GHC Global Education marks its proud 15th anniversary
@@ -1418,6 +1430,8 @@ The Metropolia University of Applied Sciences and Vaasa University of Applied Sc
 
 [Data](articles/e498f391.json)
 
+[Extended Data](ext_articles/e498f391.ext.json)
+
 ---
 
 ### Tropical getaway at Sun Siyam Pasikudah this Valentine’s Day
@@ -1431,6 +1445,8 @@ It said: Tucked away nearby some of Pasikudah’s most magnificent beaches, this
 ...
 
 [Data](articles/79c7ad2f.json)
+
+[Extended Data](ext_articles/79c7ad2f.ext.json)
 
 ---
 

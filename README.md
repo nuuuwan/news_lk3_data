@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 03:02:26**
+As of **2024-02-12 03:17:28**
 
 ## Newspaper Stats
 
-*Scraped **6,352** Articles*
+*Scraped **6,354** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 363
 adalk | 533
 tamilmirrorlk | 771
 adaderanalk | 784
-virakesarilk | 792
+virakesarilk | 794
 adaderanasinhalalk | 875
 dailymirrorlk | 923
 
@@ -26,11 +26,43 @@ dailymirrorlk | 923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,352 (100.0%) of 6,352 articles have been extended.
+6,352 (100.0%) of 6,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### ஜனநாயகமும், தேர்தல்களும் பாகிஸ்தானின் முன்னுதாரணம்
+
+*2024-02-12 02:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176148) · `ta`
+
+மூன்றாவது வழக்கு சுவாரஷ்யமானது. இம்ரானும், அவரது மனைவியும் இஸ்லாமிய முறைப்படி திருமணம் செய்து கொண்ட விதம் தவறு என்பதால், அவர்கள் சிறையில் அடைக்கப்பட வேண்டும் என்ற கோரிக்கையுடன் தாக்கல் செய்யப்பட்ட வழக்கில், இருவருக்கும் தலா ஏழாண்டு சிறைத்தண்டனை விதிக்கப்பட்டது.
+
+மறுபுறத்தில், இம்ரானுக்கு சிறைத்தண்டனை விதித்த நீதிமன்றம் தான், பனாமா பேப்பர்ஸ் ஊழல் விவகாரத்தில் குற்றவாளியாக தீர்க்கப்பட்டிருந்த நவாஸ் ஷெரீப்பின் தண்டனையை நீக்கியது.
+
+நவாஸ் ஷெரீப் ஆயுட்காலம் முழுவதும் அரசியலில் ஈடுபட முடியாது என்பது நீதிமன்றம் விதித்த தண்டனை. இம்ரானை ஆட்சியில் இருந்து கவிழ்த்து விட்டு, ஆட்சிபீடமேறிய பாகிஸ்தான் மக்கள் கட்சி, பாகிஸ்தான் முஸ்லிம் லீக் ஆகிய கட்சிகள் தலைமையிலான கூட்டணி அரசாங்கம், அரசியல் ரீதியாக தகுதிநீக்கம் செய்ய வழிவகுக்கும் சட்டமொன்றை நிறைவேற்றி நீதிமன்றத்தில் வழக்குத் தொடுத்து, நவாஸ் ஷெரீப் மீண்டும் தேர்தலில் போட்டியிடக்கூடிய நிலைமையை ஏற்படுத்தியது.
+
+◼️
+
+[Data](articles/c8809176.json)
+
+---
+
+### பலஸ்தீனர்களை பட்டினிச்சாவுக்கு உள்ளாக்கும் மேற்கத்தேய நாடுகள்
+
+*2024-02-12 02:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/176147) · `ta`
+
+நிதியை நிறுத்தும் நாடுகள் பலஸ்தீனர்களுக்கான அத்தியாவசிய உணவு, நீர், மருத்துவ உதவி மற்றும் மருத்துவப் பொருட்கள், கல்வி மற்றும் பாதுகாப்பு போன்றவற்றை “மேலும் இல்லாதொழிக்கும்" அபாயம் காணப்படுகிறது.
+
+ஐ.நா. நிவாரணப் பணிகளுக்கான முகவரகத்தின் ஆணையாளர் நாயகம் பிலிப் லஸ்ஸாரினி இந்நிறுவனத்திற்குள்ளே உள்ள ஒரு சில தனிநபர்கள் மீதான குற்றச்சாட்டுகளின் காரணமாக காஸாவின் முழு மக்களையும் பாதிக்கும் கடுமையான தாக்கங்கள் குறித்து எச்சரித்துள்ளார். “பெருந்தொகையானோர் பசியால் வாடுகின்றனர். நேரமும் நொடிப்பொழுதுகளுமோ அச்சமூட்டும் பஞ்சத்தை நோக்கி நகர்ந்து வருகின்றன." என அவர் வலியுறுத்தினார்.
+
+காஸாவின் சுகாதார அமைச்சின் கூற்றுப்படி, 2023 ஒக்டோபர் 7 ஆம் திகதி தொடக்கம் காஸாவில்; நடந்துவரும் இனப்படுகொலையில் 26,751 பலஸ்தீனர்கள் கொல்லப்பட்டுள்ளனர், மேலும் 65,636 பேர் காயமடைந்துள்ளனர். கொல்லப்பட்ட மற்றும் காயமடைந்தவர்களில் பெரும்பாலோர் பெண்களும் குழந்தைகளுமே என்று பலஸ்தீன மற்றும் சர்வதேச மதிப்பீடுகள் குறிப்பிடுகின்றன.
+
+◼️
+
+[Data](articles/a3ac687b.json)
+
+---
 
 ### China's outrage
 
@@ -54,7 +86,7 @@ Therefore, the editorial of the Chinese Daily seeks to make New Delhi's editoria
 
 ### Why did India call Anura?
 
-*2024-02-12 01:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/176145) · `ta`
+*2024-02-12 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176145) · `ta`
 
 The Maldives is going to leave India's hand. India will be careful not to evolve in Sri Lanka.
 
@@ -2127,37 +2159,5 @@ Special Task Force Commanding Officer Hon..Bed. Raided by a group of Nimal and o
 [Data](articles/e558e9c0.json)
 
 [Extended Data](ext_articles/e558e9c0.ext.json)
-
----
-
-### An increase in the number of cardiovascular patients
-
-*2024-02-11 09:44:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருதய-நோயாளர்களின்-எண்ணிக்கை-அதிகரிப்பு/175-332998) · `ta`
-
-Health Minister Ramesh Pathirana said that the report of cardiovascular patients in Sri Lanka has suddenly increased.
-
-The Minister pointed out that medical conditions such as hypertension and diabetes have caused this condition.
-
-The Minister of Health said this while addressing an event in Galle. Remble
-
-◼️
-
-[Data](articles/f01299af.json)
-
-[Extended Data](ext_articles/f01299af.ext.json)
-
----
-
-### World Cup final today
-
-*2024-02-11 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193240) · `si`
-
-The finals of the Under-19 World Cup will be held today (11).
-
-◼️
-
-[Data](articles/2fbe7a24.json)
-
-[Extended Data](ext_articles/2fbe7a24.ext.json)
 
 ---

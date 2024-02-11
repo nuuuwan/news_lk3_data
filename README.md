@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 17:33:13**
+As of **2024-02-11 17:53:00**
 
 ## Newspaper Stats
 
-*Scraped **6,301** Articles*
+*Scraped **6,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 334
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 527
-tamilmirrorlk | 767
+tamilmirrorlk | 768
 virakesarilk | 775
-adaderanalk | 779
+adaderanalk | 780
 adaderanasinhalalk | 866
 dailymirrorlk | 917
 
@@ -26,15 +26,41 @@ dailymirrorlk | 917
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,300 (100.0%) of 6,301 articles have been extended.
+6,301 (100.0%) of 6,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
 
-### ஹரிஹரனிடம் மன்னிப்பு கோரும் யாழ்ப்பாணத்து மக்கள்
+### People in Jaffna apologize to Hariharan
 
 *2024-02-11 16:49:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரிஹரனிடம்-மன்னிப்பு-கோரும்-யாழ்ப்பாணத்து-மக்கள்/175-333027) · `ta`
+
+Hariharan posted his comments on Twitter on the concert in Sri Lanka.
+
+The Star Knight Exchange ceremony was held on behalf of the singer Hariharan yesterday at the courtyard in Jaffna, Jaffna yesterday.
+
+Actress Rampa was present at the ceremony and actress Tamanna, Kala Master and a few iconic celebrities were the guest of honor.
+
+It is said that the VIPs were allocated seats at the ceremony and the audience was given free permission. Fans have come to this festival because the entry is free.
+
+Then the audience is trying to go to the place allotted for the VIP. The police tried to control them and the fans and the police were pushing.
+
+Some of the pusheds had even had shortness of breath. They have been sent to the hospital for treatment.
+
+At one point, the police were unable to control the crowd and were unable to host the events and celebrities and celebrities who were special guests.
+
+...
+
+[Data](articles/ac1ee662.json)
+
+[Extended Data](ext_articles/ac1ee662.ext.json)
+
+---
+
+### ஹரிஹரனிடம் மன்னிப்பு கோரும் யாழ். மக்கள்
+
+*2024-02-11 16:49:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரிஹரனிடம்-மன்னிப்பு-கோரும்-யாழ்-மக்கள்/175-333027) · `ta`
 
 இலங்கையில் நடைபெற்ற இசை நிகழ்ச்சி குறித்து ஹரிஹரன் தமது கருத்துக்களை டுவிட்டர் பக்கத்தில் தெரிவித்துள்ளார்.
 
@@ -50,7 +76,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ...
 
-[Data](articles/ac1ee662.json)
+[Data](articles/b9ac450f.json)
 
 ---
 
@@ -79,6 +105,24 @@ Accordingly, six vehicles have been taken into custody by the Commission to Inve
 [Data](articles/915eafb4.json)
 
 [Extended Data](ext_articles/915eafb4.ext.json)
+
+---
+
+### Bribery Comm. takes legal action against DMT staffers for unlawful vehicle registrations
+
+*2024-02-11 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97186/bribery-comm-takes-legal-action-against-dmt-staffers-for-unlawful-vehicle-registrations-) · `en`
+
+The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has filed legal action against seven persons, including five staff members of the Department of Motor Traffic (DMT) for the unlawful registration of hundreds of vehicles.
+
+Accordingly, the CIABOC said it has filed said action against the seven persons over the registration of approximately 400 vehicles that had not been cleared by the Sri Lanka Customs, thereby incurring a significant loss  of revenue to the state.
+
+Issuing a statement in this regard, the CIABOC revealed that further information was gathered pertaining to 156 of the 400 vehicles, adding that several of them had been categorized as ‘luxury vehicles’.
+
+According to a court order obtained by the CIABOC, seven of the 156 vehicles are to be handed over to the Sri Lanka Customs from their current owners. As such, five of the seven vehicles have already been handed over to Sri Lanka Customs.
+
+◼️
+
+[Data](articles/81deede3.json)
 
 ---
 
@@ -2077,51 +2121,5 @@ The airport has begun to have a number of tourist arrivals to Sri Lanka last yea
 [Data](articles/66d4236e.json)
 
 [Extended Data](ext_articles/66d4236e.ext.json)
-
----
-
-### Will not join 225 MPs to create parties or alliances: Janaka Ratnayake
-
-*2024-02-10 21:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Will-not-join-225-MPs-to-create-parties-or-alliances-Janaka-Ratnayake/108-276754) · `en`
-
-Presidential hopeful Janaka Ratnayake said today that he and all civil organisations have decided not to join any of the 225 MPs in Parliament to form political alliances.
-
-While signing a Memorandum of Understanding (MoU) with the National Civil Organisation Front (NCOF) today, he said the public have rejected the 225 MPs, and he does not aspire to be one of them.
-
-"Currently, civil organisations are carrying out a great national mission to rescue the country from where it has fallen.
-
-"We named this mission as 'Rescue Sri Lanka'. The time has come for people to join hands with civil organisations to uplift the country and create a suitable environment to form a better leader," Ratnayaka said.
-
-"A proper action plan will be introduced describing the correct and shortest way to restore the country.
-
-"We reject the current ruling parties while not letting them have another chance to come to power.
-
-...
-
-[Data](articles/a5fee079.json)
-
-[Extended Data](ext_articles/a5fee079.ext.json)
-
----
-
-### Suspect arrested with social media
-
-*2024-02-10 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193223) · `si`
-
-According to the Criminal Investigations Department, the CID is arrested by the CID by the CID by the CID.
-
-He said that the suspect had been maliciously disclosed with the assistance of a politician.
-
-The Minister further stated that in the future, the Minister added that they would be revealed in the future.
-
-A program to educate community police committee members of the Panadura Division, Hon.
-
-"A person arrested on the CID yesterday. The person had a four hundred thousand rupees. People who use this social network and slander us. It was a politician who was a politician. The money is being arrested when the money is moved to the box and transfer dollars. We too, the government and the IGP, the social medium network, loyal to mud. That's why we brought this online safti bill. Prategizing is doing these social media despite the governments. I'm saying today .... This bill is a problem only those who handle the social media. "
-
-◼️
-
-[Data](articles/12e44250.json)
-
-[Extended Data](ext_articles/12e44250.ext.json)
 
 ---

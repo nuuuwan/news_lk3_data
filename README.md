@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 02:02:33**
+As of **2024-02-12 02:17:20**
 
 ## Newspaper Stats
 
@@ -26,55 +26,65 @@ dailymirrorlk | 923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,345 (99.9%) of 6,351 articles have been extended.
+6,351 (100.0%) of 6,351 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### அநுரவை இந்தியா அழைத்தது ஏன்?
+### Why did India call Anura?
 
 *2024-02-12 01:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/176145) · `ta`
 
-மாலைதீவு இந்தியாவின் கையை விட்டே போகும் நிலை  உருவாகி இருக்கிறது. அவ்வாறான நிலை இலங்கையில் உருவாகி விடக்கூடாது என்பதில் இந்தியா கவனமாக இருக்கும்.
+The Maldives is going to leave India's hand. India will be careful not to evolve in Sri Lanka.
 
-அநுரகுமார திசாநாயக்க அமெரிக்காவுக்கும் இந்தியாவுக்கும் குறுகியகால இடைவெளிக்குள் பயணங்களை மேற்கொண்டு திரும்பியிருப்பது, அவரை நோக்கி சர்வதேச சமூகம் திரும்புகிறது என்பதையே உறுதிப்படுத்தியிருக்கிறது.
+Anurakumara Dissanayake has returned to the US and India within a short break has confirmed that the international community is returning towards him.
 
-இணைக்கப்பட்டிருந்த வடக்கு, கிழக்கு மாகாணங்களை உயர்நீதிமன்றத்தை அணுகி பிரிக்கும் தீர்ப்பை பெற்றுக் கொண்டதும்,  தமிழர் தாயகக் கோட்பாட்டை சிதைவுக்கு உட்படுத்தியதும் ஜே.வி.பி. தான்
+The JVP has obtained the verdict of the Supreme Court and the Tamil homeland doctrine.. Just
 
 ◼️
 
 [Data](articles/2b619893.json)
 
+[Extended Data](ext_articles/2b619893.ext.json)
+
 ---
 
-### விக்னேஸ்வரனின் (தடு)மாற்றம்
+### Change
 
 *2024-02-12 01:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/176143) · `ta`
 
-மஹிந்தவும் ரணிலும் மோதிய போது, தேர்தலை புறக்கணித்ததன் மூலம், ரணில் விக்கிரமசிங்கவின் வெற்றியைத் தடுத்தது இன்னொரு உபாயம்.
+Another trick was that when Mahinda and Ranil clashed, Ranil Wickremesinghe's victory was prevented by boycotting the election.
 
-இந்த இரண்டு உபாயங்களும் கடந்த காலங்களில் தமிழ்த் தரப்பினால் கையாளப்பட்டவை. வரும் ஜனாதிபதி தேர்தலில் தமிழர் தரப்பு எத்தகைய உபாயத்தை கையாள போகிறது என தீர்மானிக்காத நிலையில், சி.வி.விக்னேஸ்வரன் திடீரென ரணில் பக்கம் சார்ந்திருப்பது முக்கியமாக கவனிக்கப்பட வேண்டியது.
+These two tricks have been handled by the Tamil side in the past. It is important to note that CV Wigneswaran suddenly depends on Ranil, as the Tamil party is not going to decide what kind of tactic the Tamil party is going to handle in the coming presidential election.
 
-தனது எதிரியைத் தோற்கடிப்பதற்கு எல்லா வழிகளையும் கையாளக் கூடியவர் ரணில்.  அதனால், விக்னேஸ்வரனின் வழியாக தமிழ் வாக்குகளை சுருட்டவோ,  அல்லது பிரிக்கவோ முற்படுகிறாரா என்ற கேள்வி எழுந்திருப்பதில்  நியாயம் உள்ளது.
+Ranil is the one who can handle all the ways to defeat his enemy. Therefore, there is justification for the question of whether or trying to roll or divide the Tamil votes through Vigneswaran.
 
 ◼️
 
 [Data](articles/7a5cb5d5.json)
 
+[Extended Data](ext_articles/7a5cb5d5.ext.json)
+
 ---
 
-### தேசிய வளங்களை தாரைவார்ப்பதாக இந்தியாவிடம் குறிப்பிடவில்லை ; மஹிந்தவை போன்று எம்மை விலைக்கு வாங்க முடியாது - அனுரகுமார திஸாநாயக்க
+### India does not refer to national resources;Like Mahinda, we cannot buy us for a price - Anuragumara Dissanayake
 
 *2024-02-12 00:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/176142) · `ta`
 
-மஹிந்த ராஜபக்ஷவை விலைக்கு வாங்கியதை போன்று  உலக நாடுகளால் எங்களை விலைக்கு வாங்க முடியாது.இந்திய விஜயத்தின் போது பல விடயங்கள் குறித்து அவதானம் செலுத்தப்பட்டன. நாட்டின் தேசிய வளங்களைத் தாரைவார்க்க ஒத்துழைப்பு வழங்குவதாக நாங்கள் குறிப்பிடவில்லை. காலவோட்டத்துக்கு பின்னர் உலகமும், அரசியலும் மாற்றமடைந்துள்ளது, ஆகவே நாங்களும் மாற்றமடைந்துள்ளோம் என்று இந்திய வெளியுறவு அமைச்சரிடம் குறிப்பிட்டோம் எனத் தேசிய மக்கள் சக்தியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான அனுரகுமார திஸாநாயக்க தெரிவித்தார்.
+The world cannot afford to buy us as Mahinda Rajapaksa bought the price.. We do not mention that the country's national resources are cooperating with liberal. "We have changed the world and politics after the time, so that we have changed," said Anuragumara Dissanayake, leader of the National People's Power and Member of Parliament.
 
-நாடு என்ற ரீதியில் தனித்துச் செயற்பட முடியாது,சகல தரப்பினரின் ஒத்துழைப்புடன் முன்னோக்கிச் செல்ல வேண்டும்.நாட்டுக்கும்,நாட்டு மக்களுக்கும் பாதிப்பு ஏற்படாத வகையில் நாட்டுக்கு முன்னுரிமை வழங்கும் வகையிலான வெளிவிவகார கொள்கையில் இருந்துக் கொண்டு நாங்கள் செயற்படுவோம் எனவும் குறிப்பிட்டார்.
+He said that the country cannot function as a country, and we must go forward with the cooperation of all parties.
+
+I had visited India on the official call of the Government of India. Sajith Premadasa, Mahinda Rajapaksa and Ranil Wickremesinghe have been confused about the Indian visit and have made several allegations.. We are not confused by the allegations.
+
+At present, those who say that the opposition has nothing to do with us and them will be united when the official announcement of the election will be released.. As well as Maithripala Sirisena and Mahinda Rajapaksa, as in 2019.
 
 ...
 
 [Data](articles/51550a5f.json)
+
+[Extended Data](ext_articles/51550a5f.ext.json)
 
 ---
 
@@ -89,6 +99,8 @@ One of the important issues that appears to have gone under the radar since the 
 ...
 
 [Data](articles/f7c747ad.json)
+
+[Extended Data](ext_articles/f7c747ad.ext.json)
 
 ---
 
@@ -110,35 +122,43 @@ Social market economy, or in other words ordoliberalism, is not a new ideal for 
 
 ### 2024-02-11 (Sunday)
 
-### பெண்களின் ஒத்துழைப்புடன் பலமான அரசாங்கத்தை ஸ்தாபிப்போம் - தேசிய மக்கள் சக்தி
+### We will establish a strong government with the cooperation of women - the national people's power
 
 *2024-02-11 23:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176141) · `ta`
 
-பொருளாதார நெருக்கடிக்கு தீர்வு காண்பதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க குறிப்பிடுகிறார்.ஆனால் குடும்ப பெண்கள் பொருளாதார ரீதியில் மிக மோசமாக பாதிக்கப்பட்டுள்ளார்கள். பெண்களின் ஒத்துழைப்புடன் பலமான அரசாங்கத்தை ஸ்தாபிப்போம் எனத் தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஹரினி அமரசூரிய தெரிவித்தார்.
+President Ranil Wickremesinghe says that the economic crisis is a solution.. Harini Amarasuriya, a member of the National People's Power, said that they would establish a strong government with the cooperation of women.
 
-அரசியல் ரீதியில் இதுவரை காலமும் கடைப்பிடித்த தவறான கொள்கையின் பிரதிபலனை இன்று ஒட்டுமொத்த நாடும் எதிர்கொள்கிறது. பொருளாதார ரீதியில் மக்கள் மிக மோசமாகப் பாதிக்கப்பட்டுள்ளார்கள். ஆனால் பொருளாதார நெருக்கடியிலிருந்து மீண்டு விட்டதாக ஜனாதிபதி குறிப்பிடுகிறார்.
+The entire country today faces a reflection of the wrong policy that has been practiced politically so far. Economically people are the worst affected. But the president notes that it has recovered from the economic crisis.
 
-பொருளாதார பாதிப்பினால் குடும்ப பெண்கள் மிக மோசமாகப் பாதிக்கப்பட்டுள்ளார்கள்.தமது பிள்ளைகளுக்கு ஆரோக்கியமான உணவு வழங்குவது தாய்மார் எதிர்கொள்ளும் பிரதான பிரச்சினையாகக் காணப்படுகிறது.அரச தலைவர்களின் தவறான பொருளாதார முகாமைத்துவத்தினால் குடும்ப பெண்கள் நுண்கடன் திட்டம் ஒன்ற கோரப்பிடிக்குள் சிக்குண்டுள்ளார்கள்.
+Family women have been badly affected by economic impact. The main problem with the mothers face is the main problem with the mothers.
 
-...
+The president can only refer to Parliament that we have recovered from the economic impact. He cannot mention among the people.
+
+Can't expect better progress from those who have dumped the country to bankruptcy. This year will be decisive for those who have degraded the country.
+
+◼️
 
 [Data](articles/641c86c6.json)
 
+[Extended Data](ext_articles/641c86c6.ext.json)
+
 ---
 
-### பணி இடமாற்றத்தால் ஏற்பட்ட மனவிரக்தியால் அபிவிருத்தி உத்தியோகத்தர் உயிர்மாய்ப்பு!
+### Development Officer's Life
 
 *2024-02-11 23:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/176140) · `ta`
 
-பணி இடமாற்றம் காரணமாக ஏற்பட்ட மனவிரக்தியால், சண்டிலிப்பாய் பிரதேச செயலகத்தில் கடமையாற்றும் கலாச்சார அபிவிருத்தி உத்தியோகத்தர் ஒருவர் தவறான முடிவெடுத்து ஞாயிற்றுக்கிழமை (11) தூக்கிட்டு உயிர்மாய்த்துள்ளளார். டச்சு வீதி மூளாய், சுழிபுரம் பகுதியை சேர்ந்த பேரம்பலம் புனிதா (வயது 49 திருமணமாகவில்லை) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+Due to the depression of the workplace, a Cultural Development Officer who works at the Chandilipayi Divisional Secretariat made a wrong decision on Sunday (11). The deceased is Parambalam Punitha (49 years old 49 years old) from Dutch Street, Mulai, Chiripuram.
 
-இவர் சண்டிலிப்பாய் பிரதேச செயலகத்தில் கடமை புரிந்து வரும் நிலையில் இவருக்கு இடமாற்றம் கிடைத்தது. ஆகையால் இடமாற்றத்தை இரத்துச் செய்வதற்கு முயற்சித்துள்ளார். ஆனால் முயற்சிகள் பலனளிக்கவில்லை.
+He was transferred to Chandilipayi Divisional Secretariat. Therefore tried to cancel the transfer. But efforts were not worth it.
 
-இந்நிலையில் ஞாயிற்றுக்கிழமை (11)  அவரது இல்லத்தில் தூக்கிட்டு உயிர்மாய்த்துள்ளளார். அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்றுப் பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+In this case, he lifted his residence on Sunday (11). A sudden death investigation officer A. Jayapalasingham. The body was handed over to relatives after anatomical examination.
 
 ◼️
 
 [Data](articles/ff043b16.json)
+
+[Extended Data](ext_articles/ff043b16.ext.json)
 
 ---
 

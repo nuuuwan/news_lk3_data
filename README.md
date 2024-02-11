@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 23:33:54**
+As of **2024-02-11 23:51:52**
 
 ## Newspaper Stats
 
-*Scraped **6,341** Articles*
+*Scraped **6,343** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 342
 newsfirstlk | 363
 adalk | 533
 tamilmirrorlk | 771
-adaderanalk | 783
-virakesarilk | 785
+adaderanalk | 784
+virakesarilk | 786
 adaderanasinhalalk | 875
 dailymirrorlk | 923
 
@@ -26,11 +26,31 @@ dailymirrorlk | 923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,337 (99.9%) of 6,341 articles have been extended.
+6,343 (100.0%) of 6,343 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### Those who have separated from the party can reunite - I,. Chairman Vajira Abeywardena
+
+*2024-02-11 23:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176139) · `ta`
+
+Until Ranil Wickremesinghe was not able to establish a president from the United National Party (UNP). But since the country is currently President Ranil Wickremesinghe, the United National Party (UNP) leader and Member of Parliament Vajira Abeywardena said that those who are split can be reunited.
+
+The United National Party (UNP) Gampaha District Federation was held at the Yakkala Pradeshiya Sabha auditorium on Sunday. He said this while addressing the gathering.
+
+Whoever separated from our party is unable to reunite with the party. Because Ranil Wickremesinghe left the party, saying that the United National Party could not form a president. When the conflict is united and united, we created a president.
+
+Ranil Wickremesinghe was elected as the country's president with a seat in Parliament. The book will also be written in the future. It may be a study book for politicians in the world to investigate how to be president with a seat.
+
+...
+
+[Data](articles/f5930875.json)
+
+[Extended Data](ext_articles/f5930875.ext.json)
+
+---
 
 ### More surprises to be unfolded: Anura Kumara says after India visit
 
@@ -48,47 +68,91 @@ Dissanayake said the opposition has also been astonished about this women's conv
 
 [Data](articles/d7974572.json)
 
+[Extended Data](ext_articles/d7974572.ext.json)
+
 ---
 
-### அவுஸ்திரேலியாவின் சிரேஷ்ட அணியைத் தொடர்ந்து இந்தியாவை வீழ்த்திய இளையோர் அணியும் உலக சம்பியனானது
+### Australia's senior team to defeat India is a world champion
 
 *2024-02-11 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176138) · `ta`
 
-தென் ஆபிரிக்காவில் நடைபெற்றுவந்த ஐசிசி ஆடவர் 19 வயதுக்குட்பட்ட உலகக் கிண்ண கிரிக்கெட் போட்டியில் தோல்வி அடையாத அணியாக அவுஸ்திரேலியா சம்பியனானது.
+Australia became a team in South Africa as the ICC men's under -19 World Cup cricket match.
 
-இந்தியாவுக்கு எதிராக பெனோனி, விலோமுவர் பார்க் விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (11) நடைபெற்ற இறுதிப் போட்டியில் நடப்பு சம்பியன் இந்தியாவை 79 ஓட்டங்களால் வெற்றிகொண்டு 4ஆவது தடவையாக அவுஸ்திரேலியா சம்பியன் பட்டத்தை சுவீகரித்தது.
+The current champion won India by 79 runs in the final of the final at the Benoni and the Wilomoor Park Stadium against India.
 
-இதன் மூலம் உலகக் கிண்ண கிரிக்கெட் போட்டியில் அவுஸ்திரேலியாவின் சிரேஷ்ட அணியைத் தொடர்ந்து இப்போது இளையோர் அணியும் சம்பியனாகியுள்ளது.
+This has led to the Senior Team of Australia in the World Cup cricket match.
 
-இரண்டு உலகக் கிண்ண இறுதிப் போட்டிகளிலும் இந்தியாவை அவுஸ்திரேலியா இலகுவாக வெற்றிகொண்டிருந்தது குறிப்பிடத்தக்கது.
+It is noteworthy that Australia won India in both World Cup finals.
 
-அஹமதாபாத்தில் கடந்த வருடம் நடைபெற்ற ஐசிசி ஆடவர் உலகக் கிண்ண (சிரேஷ்ட பிரிவினர்) இறுதிப் போட்டியில் இந்தியாவை அவுஸ்திரேலியா 6 விக்கெட்களால் வெற்றிகொண்டு உலக சம்பியனாகியிருந்தது.
+Australia became a world champion in Ahmedabad last year's ICC men's World Cup (Senior Division) final.
+
+The half -century of Indian -origin Harjaz Singh, Heri Dixon, Team Leader Hue Weijen, Olivar Peak, and the skilled bowls of Maly Beardman and Rabayal McMmilon helped Australia become a global champion.
+
+In response to Australia's 254 -run win, India lost all the wickets in 43.5 overs and lost only 174 runs.
+
+The Indian batsman's faulty choices made wickets for its failure.
+
+This is the first time India's all -wickets were taken in this year's World Cup cricket match. Australia made that glory.
 
 ...
 
 [Data](articles/3a558348.json)
 
+[Extended Data](ext_articles/3a558348.ext.json)
+
 ---
 
-### அசலன்க, ஹசரங்க அபாரம்; 2ஆவது போட்டியில் இலகு வெற்றியீட்டிய இலங்கை தொடரை தனதாக்கியது; ஆப்கானின் 9 விக்கெட்கள் 25 ஓட்டங்களுக்குள் சரிவு
+### Asalanka, Hazaranga Aparam;Sri Lanka won the 2nd match in the 2nd match;Afghanistan's 9 wickets decline in 25 runs
 
 *2024-02-11 22:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176137) · `ta`
 
-ஆப்கானிஸ்தானுக்கு எதிராக கண்டி பல்லேகலையில் ஞாயிற்றுக்கிழமை (11) நடைபெற்ற 2ஆவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் 155 ஓட்டங்களால் இலங்கை அமோக வெற்றியீட்டியது.
+Sri Lanka won by 155 runs in the second international ODI match on Sunday (11) at Pallekele in Kandy against Afghanistan.
 
-சரித் அசலன்க, அணித் தலைவர் குசல் மெண்டிஸ், சதீர சமரவிக்ரம, ஜனித் லியனகே ஆகியோரின் அரைச் சதங்கள், வனிந்து ஹசரங்கவின் துல்லியமான பந்தவீச்சு ஆகியவற்றின் உதவியுடன் இலங்கை இலகுவாக வெற்றிபெற்றது.
+Sri Lanka was easily successful with the help of Sarit Asalanga, team captain Kusal Mendis, Satheera Samarawickrama and Janith Liyanage and the accurate betting of Hazaranga.
 
-இந்த வெற்றியுடன் 3 போட்டிகள் கொண்ட தொடரை ஒரு போட்டி மீதம் இருக்க 2 - 0 என்ற ஆட்டக் கணக்கில் இலங்கை தனதாக்கிக்கொண்டுள்ளது.
+With this victory, Sri Lanka has made a 3 -match series in a 2-0 match.
 
-இந்தப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய இலங்கை ஆரம்ப வீரர்கள் இருவரையும் 36 ஓட்டங்களுக்கு இழந்தது.
+The two Sri Lankan openers lost the first batsmen for 36 runs.
 
-முதலாவது போட்டியில் இரட்டைச் சதம் குவித்து சாதனை நிலைநாட்டிய பெத்தும் நிஸ்ஸன்க (18), அரைச் சதம் பெற்ற அவிஷ்க பெர்னாண்டோ (5) ஆகிய இருவரும் குறைந்த ஓட்டங்களுக்கு ஆட்டம் இழந்தனர்.
+In the first match, Betham Nissanka (18) and Avishka Fernando (5), who scored a double century in the first match.
 
-எனினும் அணித் தலைவர் குசல் மெண்டிஸ், சதீர சமரவிக்ரம ஆகிய இருவரும் திறமையாகத் துடுப்பெடுத்தாடி அரைச் சதங்களைப் பெற்றதுடன் 3ஆவது விக்கெட்டில் 103 ஓட்டங்களைப் பகிர்ந்து அணியைக் கட்டியெழுப்பினர்.
+However, team captain Gusal Mendis and Satheera Samarawickrama were effectively bowled out and scored half -centuries and shared 103 runs in the 3rd wicket.
+
+Following them, Sarid Asalanga and Janith Liyanage were very effective and shared 111 runs in the 5th wicket.
+
+After losing 50 runs, Janith Liyanage lost 50 runs in the 6th wicket with Hazaranga.
+
+Sarid Asalanuk did not lose 74 balls with 97 runs, including 9 pounds and 2 sixes.
 
 ...
 
 [Data](articles/35f334b4.json)
+
+[Extended Data](ext_articles/35f334b4.ext.json)
+
+---
+
+### UAE hosts major labour conference for Asian countries; Sri Lanka presents worker initiatives
+
+*2024-02-11 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97190/uae-hosts-major-labour-conference-for-asian-countries-sri-lanka-presents-worker-initiatives) · `en`
+
+The United Arab Emirates (UAE) is hosting a major meeting of Asian nations to discuss the future of labour relations and government initiatives to boost international job markets.
+
+Ministers of labour and human resources from 16 Asian countries sending and receiving workers discussed leveraging advanced technology for innovative initiatives aimed at resolving labour disputes and expediting verdicts.
+
+They also aimed to strengthen wage protection systems and facilitate skill mobility among participating countries, foreign media reported.
+
+The focus was on improving labour market regulations and initiatives.
+
+This came during the seventh Abu Dhabi Dialogue (ADD) Ministerial Consultation meeting, held in Dubai on Sunday, February 11, as part of the World Governments Summit 2024.
+
+A total of 16 countries participated in the current edition of the Abu Dhabi Dialogue, including nine workers-sending countries:
+
+...
+
+[Data](articles/81c69e04.json)
+
+[Extended Data](ext_articles/81c69e04.ext.json)
 
 ---
 
@@ -103,6 +167,8 @@ The indictment claims that the accused is a Sri Lankan citizen who entered Israe
 ...
 
 [Data](articles/0d3002db.json)
+
+[Extended Data](ext_articles/0d3002db.ext.json)
 
 ---
 
@@ -2117,45 +2183,5 @@ The suspect was a resloved of the 30-year-old man of the attack.
 [Data](articles/b7f3e381.json)
 
 [Extended Data](ext_articles/b7f3e381.ext.json)
-
----
-
-### There is no need to follow the advice of the UN Human Rights Commissioner's Office - Vijayadasa
-
-*2024-02-11 08:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176067) · `ta`
-
-Justice Minister Vijayadasa Rajapaksa has said that there is no need to follow the advice of the United Nations Human Rights Commissioner's Office
-
-He was responding to a question asked by the United Nations Human Rights Commissioner's Office on the Conservation Act during an interview with the Sunday Observer.
-
-We do not need to listen to the advice of the United Nations Human Rights Commissioner's Office, and there are no positive effects on their actions, he said.
-
-We will discuss with our community as our civil society has said that some laws should be changed, ”he said.
-
-He added that we are going to negotiate with the domestic community and make some changes.
-
-◼️
-
-[Data](articles/4498e520.json)
-
-[Extended Data](ext_articles/4498e520.ext.json)
-
----
-
-### Mainly fair weather expected over the island
-
-*2024-02-11 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97175/mainly-fair-weather-expected-over-the-island) · `en`
-
-Mainly fair weather will prevail over the island today (11), according to the Department of Meteorology.
-
-Fairly strong winds about 30-40 kmph can be expected at times in eastern slopes of the central hills and in Northern, North-Central, Southern, North-western, Uva and Eastern provinces.
-
-Misty conditions can be expected at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts during the morning, it said.
-
-◼️
-
-[Data](articles/c8c1ea39.json)
-
-[Extended Data](ext_articles/c8c1ea39.ext.json)
 
 ---

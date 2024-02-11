@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 19:17:19**
+As of **2024-02-11 19:33:01**
 
 ## Newspaper Stats
 
-*Scraped **6,315** Articles*
+*Scraped **6,317** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ economynextcom | 322
 islandlk | 334
 dailyftlk | 342
 newsfirstlk | 363
-adalk | 530
+adalk | 531
 tamilmirrorlk | 768
 virakesarilk | 777
-adaderanalk | 780
+adaderanalk | 781
 adaderanasinhalalk | 870
 dailymirrorlk | 919
 
@@ -26,29 +26,51 @@ dailymirrorlk | 919
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,314 (100.0%) of 6,315 articles have been extended.
+6,315 (100.0%) of 6,317 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
 
-### රෙදි පටියකට ගෙල සිරවී පාසල් සිසුවෙකු මරුට
+### Air quality in several districts drop to unhealthy levels
+
+*2024-02-11 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97187/air-quality-in-several-districts-drop-to-unhealthy-levels-) · `en`
+
+The National Building Research Organization (NBRO) has warned that the quality of air in parts of the island has dropped further to unhealthy levels.
+
+Accordingly, the NBRO highlighted that apart from Nuwara Eliya, the air quality in all other districts is at an unhealthy level, with Colombo, Kandy and Jaffna recording particularly high levels of unhealthy air quality.
+
+The NBRO further warned that according to the US Air Quality Index (AQI), the quality of air recorded in Colombo, Kilinochchi, Jaffna, Trincomalee, Badulla, Kurunegala, Kandy and Matale is likely to cause adverse health effects.
+
+The NBRO says that an influx of dust particles contaminating Sri Lanka’s air space through strong winds from neighbourng countries and the extreme dry weather are likely causes for this alarming drop in air quality.
+
+Thus, the NBRO urged for those suffering from respiratory or cardiac diseases, and elderly persons and children to wear face masks when outdoors.
+
+◼️
+
+[Data](articles/fb81bd73.json)
+
+---
+
+### School student dies into a fabric
 
 *2024-02-11 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193257) · `si`
 
-ගසක බැඳ තිබූ රෙදි පටියක ගෙල සිරවීමෙන් වයස අවුරුදු 12ක පාසල් සිසුවෙකු අවාසනාවන්ත ලෙස මියගොස් තිබේ.
+A 12-year-old schoolgirl has died of strangling a cloth tied to a tree.
 
-සිය නිවස අසළ පිහිටි ගසක රෙදි කැබැල්ලක් බැඳ මෙම දරුවා සෙල්ලම් කරමින් සිට ඇති අතර දරුවාගේ ගෙල අවාසනාවන්ත ලෙස එහි පැටලී ඇති බවට පොලීසිය සැකපළ කරයි.
+The police suspect that the child was playing with a piece of cloth near his house, and the police suspect that the child's neck is unfortunately.
 
-දරුවා නිවස තුළට පැමිණීමට ප්‍රමාද වීම හේතුවෙන් කළ සෝදිසි කිරීමකදී දරුවාගේ සිරුර ගසෙහි එල්ලෙමින් තිබියදී සොයාගෙන තිබේ.
+The body of the child was hanging in the tree when the child was delayed due to delay in the house.
 
-දරුවාගේ පියා මීට වසර කිහිපයකට පෙර රෝගී තත්ත්වයක් හේතුවෙන් මියගොස් ඇති අතර එම දරුවාට වැඩිමල් සොහොයුරියන් දෙදෙනෙක් සිටී.
+The father of the child died a few years ago and the child has two elder sisters.
 
-ඔවුන් සිය මව සමග එම නිවසේ වාසය කර ඇති අතර අද පස්වරු 1ට පමණ දරුවා සුපුරුදු පරිදි සෙල්ලම් කිරීම සඳහා නිවසින් පිටතට ගොස් ඇති අතර එහිදී මෙම අනතුර සිදුව ඇති බව වාර්තාවෙයි.
+They have lived in the same house with his mother, and about 1 pm today, the child had gone out of the house to play as usual.
 
 ◼️
 
 [Data](articles/c8731830.json)
+
+[Extended Data](ext_articles/c8731830.ext.json)
 
 ---
 
@@ -169,6 +191,24 @@ Initial police investigations have revealed that the young man had come to the h
 [Data](articles/77d224c5.json)
 
 [Extended Data](ext_articles/77d224c5.ext.json)
+
+---
+
+### පොලිස් ඇමතිට බැන්න සැරයන්ට වැඩ වරදින ලකුණු
+
+*2024-02-11 17:17:37* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-ඇමතිට-බැන්න-සැරයන්ට-වැඩ-වරදින-ලකුණු/11-408013) · `si`
+
+ආරක්ෂක රාජ්‍ය අමාත්‍ය ටිරාන් අලස් මහතාට දුරකථනයෙන් අමතා සංයුක්ත දීමනාව ලබා නොදීම සම්බන්ධයෙන් පරුෂ වචනයෙන් බැන වැදුණු කියන  පොලිස්  සැරයන්වරයෙකුට එරෙහිව විමර්ශනයක් ආරම්භ කර ඇතැයි ජේෂ්ඨ  පොලිස් නිලධාරියෙක් පැවසීය.
+
+මෙලෙස බැණ වැදී ඇත්තේ කැලණිය කොට්ඨාස දිසා බඩු ගබඩාවේ රාජකාරී කරනු ලබන පොලිස් සැරයන්  65223 කුමාර නැමැති නිලධාරියෙකි.
+
+පොලිස් සැරයන්වරයා ඉකුත්  9 සවස් කාලයේදී බීමත්ව එම බැණ වැදීම සිදුකර ඇති අතර ඒ සම්බන්ධයෙන් සැරයන්වරයාගේ බිරිඳගෙන්ද ප්‍රකාශ සටහන් කරගෙන ඇත.
+
+කැලණිය දිස්ත්‍රික් 111 සහකාර පොලිස් අධිකාරි ඒ පි එන් ජි ජයතිලක මහතා විසින් විමර්ශනයක් ආරම්භ කර ඇතැයි පොලිස් ආරංචි මාර්ග සඳහන් කරයි.
+
+◼️
+
+[Data](articles/4a30dd87.json)
 
 ---
 
@@ -2097,49 +2137,5 @@ However, it has been announced that it can travel from Colombo to Katunayake and
 [Data](articles/f04e7d21.json)
 
 [Extended Data](ext_articles/f04e7d21.ext.json)
-
----
-
-### President visits Australian Consulate
-
-*2024-02-11 03:46:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுஸ்ரேலிய-துணைத்-தூதரகத்திற்கு-ஜனாதிபதி-விஜயம்/175-332989) · `ta`
-
-President Ranil Wickremesinghe visited the Sri Lankan embassy in West Australia yesterday (10) to attend the 7th Indian Ocean Conference.
-
-The President was welcomed by Consul General Dr. Rash Jalake and Mrs Priyanka Kamage.
-
-Subsequently, the President spoke with the Consul General and the staff and focused on the active contribution they could play in the process of rebuilding the Sri Lankan economy.
-
-Sagala Ratnayake, Senior Advisor of National Security and President of the Presidential Task Force, was also present at the event.. (A)
-
-◼️
-
-[Data](articles/ee15d95f.json)
-
-[Extended Data](ext_articles/ee15d95f.ext.json)
-
----
-
-### Science and Woman: 'It is good to be a scientist who has crossed the world'
-
-*2024-02-11 03:06:56* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ckkv4ddwql9o) · `si`
-
-It contains nothing here. Play Video, "Science and Woman:" There is a world-held scientist, more than 130 videos, and more than 130 new licenses.The biggest lichens (five lakhs) is the guardian.
-
-Science and Woman: 'It is good to be a scientist who has crossed the world'
-
-Senior Research Scientist, Senior Research Scientist, Dr. Gothami Weerakoon, says that the women should be increased with conservative thought.
-
-The custody of more than 130 new licenses introduce more than 130 species in the world, the most important and largest lichen collection (4 lakhs).
-
-"We have seen how women in neighboring Indian have contributed to the Moon for last year. Now out of conservative thought and an era of women should come forward. The daughters can be minimized, especially in science, and can face life. "
-
-She joined this conversation in view of 'the international day of science and girls' today (February 11).
-
-◼️
-
-[Data](articles/06c22bc3.json)
-
-[Extended Data](ext_articles/06c22bc3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 11:02:25**
+As of **2024-02-11 11:17:23**
 
 ## Newspaper Stats
 
-*Scraped **6,249** Articles*
+*Scraped **6,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 333
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 517
-tamilmirrorlk | 758
+tamilmirrorlk | 760
 adaderanalk | 772
 virakesarilk | 775
 adaderanasinhalalk | 853
@@ -26,11 +26,45 @@ dailymirrorlk | 908
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,249 (100.0%) of 6,249 articles have been extended.
+6,249 (100.0%) of 6,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### ‘பாய் பங்கலா பாய்’ குழுவினருக்கு ஜீவன் உதவி
+
+*2024-02-11 10:43:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாய்-பங்கலா-பாய்-குழுவினருக்கு-ஜீவன்-உதவி/76-333001) · `ta`
+
+பொகவந்தலாவை,  தியட்டர் மேட்ஷ் குழுவுக்கு ஒரு மில்லியன் ரூபாய் பணத்தையும் இந்தியாவுக்குச் செல்வதற்கு அக்குழுவைச் சேர்ந்த 20 பேருக்கான விசாக்களையும் அமைச்சர் ஜீவன் தொண்டமான் பெற்றுக்கொடுத்துள்ளார்.
+
+பொகவந்தலாவை, கெர்க்கஸ்வோல்ட் (லெட்சுமி தோட்டம்)  மத்திய பிரிவு தோட்டத்தில் இருந்து ‘பாய் பங்கலா பாய்’ நாடகத்தை அரங்ககேற்ற, இந்தியா, கொல்கத்தாவுக்கு எதிர்வரும் மார்ச் மாதம் 20ம் திகதி செல்லும் தியட்டர் மேட்ஷ் நாடக குழுவினருக்கு  இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச்செயலாளரும் நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அமைப்பு சமுதாய அபிவிருத்தி  அமைச்சர் ஜீவன் தொண்டமான் நிதியுதவி அளித்துள்ளார்.
+
+இதேவேளை, இந்த தியட்டர் மேட்ஷ் நாடக குழுவில்  பாடசாலை மாணவர்கள் 14 பேரும் பயிற்றுவிப்பாளர்கள் அறுவரும் அடங்குகின்றனர்.   மலையக பெருந்தோட்டபகுதிகளில் இது போன்ற பல்வேறு திறமையுடையவர்கள் காணப்படுகிறார்கள்  இதில்
+
+...
+
+[Data](articles/05d61b9b.json)
+
+---
+
+### மரம் விழுந்து மரணமான சிறுவனின் ஜனாஸா நல்லடக்கம்
+
+*2024-02-11 10:22:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரம்-விழுந்து-மரணமான-சிறுவனின்-ஜனாஸா-நல்லடக்கம்/76-332999) · `ta`
+
+கம்பளை முன்பள்ளியில் மரம் விழுந்து படுகாயமடைந்த நிலையில்,  கண்டி தேசிய வைத்தியசாலையின் அதிதீவிர சிகிச்சைப் பிரிவில் ஐந்து நாட்களாக சிகிச்சை பெற்று வந்த, சிறுவன் மரணமடைந்தார். அவரது  ஜனாஸா, கம்பளை கஹடபிட்டியவில், சனிக்கிழமை (10) இரவு  இடம்பெற்றது.
+
+மரம் விழுந்த சம்பவத்தில், ​அதே பாடசாலையில் கல்விக்கற்ற சிறுவன், சம்பவ தினத்தன்று ஸ்தலத்திலேயே மரணமடைந்தார்.
+
+சம்பவத்தில் படுகாயமடைந்த இரண்டாவது மாணவனான சிறுவன், கம்பளை, கஹடபிட்டிய, பேபில பிரதேசத்தில் வசிக்கும் மொஹமட் இக்ரம் ஹையானின் (வயது 5) சிறுவனின் ஜனாஸாவே நல்லடக்கம் செய்யப்பட்டது.  இரண்டு பிள்ளைகளைக் கொண்ட குடும்பத்தில் இந்த சிறுவன் இளையவர்.
+
+கம்பளை பென்ஹில் சர்வதேச பாலர் பாடசாலையில் கல்வி கற்கும் மாணவர்கள், வெளியில் விளையாடிக் கொண்டிருந்த போது அருகில் இருந்த பெரிய மரமொன்று  விளையாட்டு மைதானத்தில் விழுந்து மூன்று சிறுவர்கள் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டு இருந்தனர்.
+
+◼️
+
+[Data](articles/9dff37b2.json)
+
+---
 
 ### Adani Group Administration of three airports in Sri Lanka?
 
@@ -2047,41 +2081,5 @@ China presents all world trees to the new year of the dragon.
 [Data](articles/ad367be2.json)
 
 [Extended Data](ext_articles/ad367be2.ext.json)
-
----
-
-### HNB Assurance celebrates record-breaking 203 MDRT Qualifiers, including 20 COTs and 05 TOTs
-
-*2024-02-10 15:41:00* · [`islandlk`](http://island.lk/hnb-assurance-celebrates-record-breaking-203-mdrt-qualifiers-including-20-cots-and-05-tots/) · `en`
-
-The HNB Assurance last week announced a record-breaking 203 Million Dollar Round Table (MDRT) qualifiers, during the year 2023. Amongst them were, 20 sales officers who earned the status of Court of the Table (COT), while another five achieved the highly prestigious Top of the Table (TOT) status.
-
-MDRT, the Premier Association of Financial Professionals, which was formed in 1927 is an independent association with a global count of over 72,000 professionals affiliated to insurance and financial services in over 500 companies. Crossing the 200 MDRT qualifier mark for the first time in the company’s history, HNB Assurance has consistently demonstrated a commitment to excellence and this achievement is a testament to the company’s vision of maintaining exceptional customer service and expertise.
-
-...
-
-[Data](articles/23250fa9.json)
-
-[Extended Data](ext_articles/23250fa9.ext.json)
-
----
-
-### Cleaning staffer arrested at BIA with stock of gold worth Rs. 58mn
-
-*2024-02-10 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97166/cleaning-staffer-arrested-at-bia-with-stock-of-gold-worth-rs-58mn) · `en`
-
-A stock of gold jewelry and gold in gel form worth around Rs. 58 million has been seized while being smuggled out of the airport by a female employee of a private cleaning company at the Bandaranaike International Airport (BIA).
-
-The contraband was impounded by a group of officials of the Narcotics Control Unit of Sri Lanka Customs this morning (Feb. 10).
-
-The apprehended woman has been identified as a 55-year-old resident of the Miridiyalanda area of Veyangoda.
-
-The suspected woman has confessed to the Sri Lanka Customs that an unidentified lady had given her the parcel containing the stock of gold inside a lavatory of the duty free mall area at the BIA. She has further stated that the said woman promised to pay her Rs. 60,000 after handing over the parcel to a person outside the airport premises.
-
-...
-
-[Data](articles/2ba96fb7.json)
-
-[Extended Data](ext_articles/2ba96fb7.ext.json)
 
 ---

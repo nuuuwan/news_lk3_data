@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 12:32:52**
+As of **2024-02-11 12:48:41**
 
 ## Newspaper Stats
 
-*Scraped **6,265** Articles*
+*Scraped **6,266** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 333
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 522
-tamilmirrorlk | 762
+tamilmirrorlk | 763
 adaderanalk | 775
 virakesarilk | 775
 adaderanasinhalalk | 855
@@ -26,7 +26,7 @@ dailymirrorlk | 909
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,262 (100.0%) of 6,265 articles have been extended.
+6,266 (100.0%) of 6,266 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Meanwhile, Opposition Leader Sajith Premadasa, however, has declared that this i
 ◼️
 
 [Data](articles/32feb195.json)
+
+[Extended Data](ext_articles/32feb195.ext.json)
 
 ---
 
@@ -66,37 +68,41 @@ As per data gathered by the Central Bank of Sri Lanka, Sri Lanka’s foreign rem
 
 ---
 
-### ‘அசேல’வுக்கு நஞ்சூட்ட முயன்ற பன்வில நபர் கைது
+### Panwila man arrested for trying to poison Azaleh
 
 *2024-02-11 11:30:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அசேல-வுக்கு-நஞ்சூட்ட-முயன்ற-பன்வில-நபர்-கைது/175-333005) · `ta`
 
-கதிர்காமம் ஸ்ரீ அபிநவராம விகாரையின் பராமரிப்பில் இருந்த அசேல என்ற யானைக்கு விஷம் வைத்து கொல்வதற்கு முயன்றார் எனக் கூறப்படும் பிரதான சந்தேகநபர் சுமார் 6 மாதங்களாக தலைமறைவாக இருந்த நிலையில் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Police say the main suspect who allegedly tried to poison the elephant named Acela, who was under the care of the Kadirgamam Sri Abhinavarama Viharaya, has been arrested for nearly six months.
 
-தர்பூசணி (Watermelon) காய்க்குள் விஷத்தை கலந்தே இந்த நபர் அசேல என்ற யானைக்கு கொடுப்பதற்கு முயற்சித்துள்ளார் என்பது தெரியவந்துள்ளது.
+It has been revealed that the person has tried to give the elephant to the elephant in the watermelon.
 
-வேறு சில சம்பவங்களுக்காக கண்டி பொலிஸாரால் சந்தேக நபர் கைது செய்யப்பட்டதாகவும் விசாரணையின் போது இந்த சம்பவம் அம்பலமாகியுள்ளது. இதுதொடர்பில் கதிர்காமம் பொலிஸாருக்கு அறிவிக்கப்பட்ட​தை அடுத்து.  அதிகாரிகள் குழுவை அனுப்பி சந்தேக நபரை அழைத்து வந்ததாகவும் கதிர்காமம் பொலிஸார் தெரிவிக்கின்றனர்.
+The incident was revealed during the investigation that the suspect was arrested by the Kandy police for some other incidents.. In this regard, the Kadirgamam police were notified. Kadirgamam police said that the authorities had sent the team and brought the suspect.
 
 ◼️
 
 [Data](articles/ae62da1f.json)
 
+[Extended Data](ext_articles/ae62da1f.ext.json)
+
 ---
 
-### நீர்கொழும்பில் ஒருவர் சுட்டு கொலை
+### Kill
 
 *2024-02-11 11:25:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்கொழும்பில்-ஒருவர்-சுட்டு-கொலை/175-333004) · `ta`
 
-நீர்கொழும்பு கல்கந்த சந்தியில் மோட்டார் சைக்கிளில்  சனிக்கிழமை (10) இரவு 7.30 மணியளவில் வந்த இனந்தெரியாத  இரு ஆயுததாரிகள், மேற்படி நபரை  துப்பாக்கியால் சுட்டுவிட்டு தப்பிச் சென்றுள்ளனர்.மோட்டார் சைக்கிளில் வீட்டுக்குச் சென்று கொண்டிருந்த போதே குறித்த நபர் சுடப்பட்டுள்ளார்.
+Two unidentified armed men, who arrived at the Calconda junction of the Negombo Calconda junction on Saturday (10), fired the man and fled the man.
 
-நீர்கொழும்பு, பால்தி சந்தி பகுதியில் உள்ள விடுதியொன்றில் பணிபுரிந்து வந்த இந்த நபர்,  கல்கந்த சந்தியிலிருந்து மினுவாங்கொட வீதிக்கு திரும்பும் போதே துப்பாக்கிதாரிகளால் சுட்டுக்கொல்லப்பட்டுள்ளார்.
+The man, who was working at a hotel in the Baldi junction in Negombo, was shot dead by gunmen while returning to Minuwangoda Road from Calkanda junction.
 
-துப்பாக்கிச் சூட்டில் பலியான ரெக்ஸ் சல்காது என்ற 62 வயதுடைய இந்த நபர் நீர்கொழும்பு,  குரணை  பிரதேசத்தில் குடும்பத்துடன்    வசித்து வந்துள்ளார்.
+The 62 -year -old man, Rex Salkadu, who was killed in the shooting, lives with his family in Negombo.
 
-உயிரிழந்தவரின் சடலம் நீர்கொழும்பு வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை நீர்கொழும்பு பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+The body of the deceased has been placed at the Negombo Hospital and further investigations are being carried out by the Negombo Police.
 
 ◼️
 
 [Data](articles/9905cba2.json)
+
+[Extended Data](ext_articles/9905cba2.ext.json)
 
 ---
 

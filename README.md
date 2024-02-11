@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 17:53:00**
+As of **2024-02-11 18:07:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 917
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,301 (100.0%) of 6,303 articles have been extended.
+6,303 (100.0%) of 6,303 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,25 +58,29 @@ At one point, the police were unable to control the crowd and were unable to hos
 
 ---
 
-### ஹரிஹரனிடம் மன்னிப்பு கோரும் யாழ். மக்கள்
+### Jaffna apologizes to Hariharan. People
 
 *2024-02-11 16:49:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரிஹரனிடம்-மன்னிப்பு-கோரும்-யாழ்-மக்கள்/175-333027) · `ta`
 
-இலங்கையில் நடைபெற்ற இசை நிகழ்ச்சி குறித்து ஹரிஹரன் தமது கருத்துக்களை டுவிட்டர் பக்கத்தில் தெரிவித்துள்ளார்.
+Hariharan posted his comments on Twitter on the concert in Sri Lanka.
 
-பாடகர் ஹரிஹரன் சார்பில் ‘ஸ்டார் நைட்’  என்ற விழா இலங்கையில் யாழ்ப்பனத்தில் உள்ள முற்றவெளி மைதானத்தில் நேற்று முன் தினம் பிரம்மாண்டமாக நடைபெற்றது.
+The Star Knight Exchange ceremony was held on behalf of the singer Hariharan yesterday at the courtyard in Jaffna, Jaffna yesterday.
 
-இந்த விழாவில் நடிகை ரம்பா தனது குடும்பத்துடன் கலந்து கொண்ட நிலையில் நடிகை தமன்னா, கலா மாஸ்டர் போன்றவர்களும் ஒரு சில சின்னத்திரை பிரபலங்களும் இந்த விழாவில் சிறப்பு விருந்தினராக கலந்து கொண்டனர்.
+Actress Rampa was present at the ceremony and actress Tamanna, Kala Master and a few iconic celebrities were the guest of honor.
 
-இந்த விழாவில் விஐபிகளுக்கு இடங்கள் ஒதுக்கப்பட்டு பார்வையாளர்களுக்கு இலவசமாக அனுமதி அளிக்கப்பட்டதாக கூறப்படுகிறது. என்ட்ரி இலவசம் என்பதால் இந்த விழாவிற்கு ஏகப்பட்ட ரசிகர்கள் வந்திருக்கிறார்கள்.
+It is said that the VIPs were allocated seats at the ceremony and the audience was given free permission. Fans have come to this festival because the entry is free.
 
-அப்போது விஐபிக்காக ஒதுக்கப்பட்ட இடத்தில் பார்வையாளர்கள் செல்ல முயன்று இருக்கிறார்கள். இதனால் அவர்களை கட்டுப்படுத்த காவல்துறையினர் முயன்றதால் ரசிகர்களுக்கும் காவலர்களுக்கும் தள்ளுமுள்ளு ஏற்பட்டிருக்கிறது.
+Then the audience is trying to go to the place allotted for the VIP. The police tried to control them and the fans and the police were pushing.
 
-இந்த தள்ளுமுள்ளில் சிலருக்கு மூச்சு திணறல் கூட ஏற்பட்டு இருந்தது. அவர்களை சிகிச்சைக்காக மருத்துவமனைக்கு அனுப்பி வைத்துள்ளனர்.
+Some of the pusheds had even had shortness of breath. They have been sent to the hospital for treatment.
+
+At one point, the police were unable to control the crowd and were unable to host the events and celebrities and celebrities who were special guests.
 
 ...
 
 [Data](articles/b9ac450f.json)
+
+[Extended Data](ext_articles/b9ac450f.ext.json)
 
 ---
 
@@ -123,6 +127,8 @@ According to a court order obtained by the CIABOC, seven of the 156 vehicles are
 ◼️
 
 [Data](articles/81deede3.json)
+
+[Extended Data](ext_articles/81deede3.ext.json)
 
 ---
 

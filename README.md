@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 05:17:18**
+As of **2024-02-11 05:37:35**
 
 ## Newspaper Stats
 
-*Scraped **6,196** Articles*
+*Scraped **6,211** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 75
 bbccomsinhala | 86
 dbsjeyarajcom | 145
-islandlk | 317
 economynextcom | 321
+islandlk | 332
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 514
@@ -26,11 +26,39 @@ dailymirrorlk | 906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,196 (100.0%) of 6,196 articles have been extended.
+6,196 (99.8%) of 6,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### Prof. J.E Jayasuriya: “A Guiding Light” in Sri Lankan Education
+
+*2024-02-11 05:19:00* · [`islandlk`](http://island.lk/prof-j-e-jayasuriya-a-guiding-light-in-sri-lankan-education/) · `en`
+
+The 33rd JE Jayasuriya Memorial Lecture will be delivered by Emeritus Prof. Marie Perera at 5 pm on Feb. 14 at the SLFI
+
+In the expansive field of education, certain individuals truly stand out as inspiring innovators. Professor J.E. Jayasuriya, a distinguished educationist, and an ideal teacher, has left an unforgettable mark on the field of Education, shaping the minds of generations and contributing significantly to the educational landscape. This article seeks to honor the remarkable teacher whose ideas and contributions still inspire and shape the world of education. Born in Ahangama on February 14, 1918, he began his primary education at Nawalapitiya Anuruddha Vidyalaya and later joined Dharmasoka College in Ambalangoda. Eventually, he transitioned to Wesley College in Colombo.
+
+...
+
+[Data](articles/e865ad77.json)
+
+---
+
+### Solutions for wetland pollution and abuse
+
+*2024-02-11 05:16:00* · [`islandlk`](http://island.lk/solutions-for-wetland-pollution-and-abuse/) · `en`
+
+Wetlands are the areas of land that is permanently or seasonally inundated with fresh, brackish, or saline water and comprises a range of plant and animal species that are adapted to the degree of inundation, the type of water that is present, as well as the soil conditions.
+
+Flood storage, sediment control, water quality improvement, preventing shoreline erosion and protection, providing habitats for plants, fish and wildlife, acting as Biodiversity Reservoirs, serving as breeding, nursery and feeding grounds for aquatic organisms are some of the main ecological functions. Human-Use Values include flood protection, storm Protection, nutrient transformation, removal and storage, non-consumptive recreation, commercial Fishery and aquaculture.
+
+...
+
+[Data](articles/a1b173e2.json)
+
+---
 
 ### President visits Australian Consulate
 
@@ -584,6 +612,32 @@ The police said that a person who traveled with a motorcycle had committed the s
 
 ---
 
+### Will Karu Jayasuriya be suitable as an Interim President?
+
+*2024-02-10 19:21:00* · [`islandlk`](http://island.lk/will-karu-jayasuriya-be-suitable-as-an-interim-president/) · `en`
+
+It is no longer a secret that a progressive section of the Buddhist clergy (Sangha) and Tamil parties (for example the Global Tamil Forum) have met in Europe and North America and worked out a “Road Map” to put an end to repetitive riots and pogroms that have despoiled this country since Independence. Leaders SWRD, JR, Ranil, Premadasa and Mahinda, all of them, have racist blood on their hands. DS took away the citizenship of Upcountry Tamils but I don’t think he instigated race riots. Overall this is a sad commentary on our so-called national leaders.
+
+...
+
+[Data](articles/11087245.json)
+
+---
+
+### Horana Plantations and WNPS PLANT building an ambitious nine km Forest Corridor
+
+*2024-02-10 19:05:00* · [`islandlk`](http://island.lk/horana-plantations-and-wnps-plant-building-an-ambitious-nine-km-forest-corridor/) · `en`
+
+Horana Plantations and WNPS PLANT have just announced the launch of an exciting new conservation initiative in the hill country which hopes to build a nine-kilometer-long forest corridor along the Maskeliya Oya, creating 55 hectares of new forest in the process.
+
+Agricultural expansion and intensive settlement pressures over years have resulted in many parts of the beautiful Maskeliya Oya having lost its natural tree cover on either bank. The Oya flows down from the Peak Wilderness Sanctuary for over 40 kilometers to become one of the major tributaries of the powerful Kelani River. The lack of forest cover on either side has also contributed to erosion, floods, and numerous other issues.
+
+...
+
+[Data](articles/70cf29dc.json)
+
+---
+
 ### The celebration board employee arrested for 35 years
 
 *2024-02-10 18:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193219) · `si`
@@ -936,6 +990,34 @@ On the other hand, some people also criticize people who have visited the event.
 
 ---
 
+### Hikes, Marathons, Eco-trails
+
+*2024-02-10 17:00:00* · [`islandlk`](http://island.lk/hikes-marathons-eco-trails/) · `en`
+
+I got interested in the subject I write about today since Aravinda, who is a frequent Man Friday to me tackling all sorts of help jobs including cell phone manipulation, went on a hike from Hatton to Ohiya along jungle trails. He climbs Adams Peak out of season and along the Kuruwita climb which is the most arduous.
+
+Hike is defined as distance walking for exercise or pleasure. Eco trails can, I presume, be termed nature walks. Googling these were two definitions I got: “Eco trails are long distance, way marked hiking and cycling routes” which “aim to build a sustainable ecological community of travellers with local tourism and cultural bodies and local commerce.” All types of walks are gaining popularity as people become more health conscious, but eco trails particularly are popularized in tourist countries noted for their ecological variety like Sri Lanka
+
+...
+
+[Data](articles/00994a4b.json)
+
+---
+
+### AKD in New Delhi: Some thoughts about the ‘Indian policy’ of a progressive government
+
+*2024-02-10 16:52:00* · [`islandlk`](http://island.lk/akd-in-new-delhi-some-thoughts-about-the-indian-policy-of-a-progressive-government/) · `en`
+
+Senior Lecturer, Department of Legal Studies, Open University of Sri Lanka
+
+The recent visit of a delegation from the National People’s Power (NPP), led by Anura Kumara Dissanayaka, to India has sparked an intriguing discussion within our political circles. While some parties have seized upon this opportunity to mock the JVP, recalling their anti-Indian stance in the 1980s, others have raised concerns about the potential dangers of yielding to Indian regional hegemony. Nevertheless, it is undeniable that the invitation extended by the Indian government to an NPP delegation for discussions signifies a significant turning point. The NPP, with only three members in Parliament, was until very recently perceived as a marginal political party.
+
+...
+
+[Data](articles/266310fd.json)
+
+---
+
 ### Another child killed in collapsed tree
 
 *2024-02-10 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193217) · `si`
@@ -1092,6 +1174,22 @@ He then spoke to the media that he was informed of a public meeting with a full 
 
 ---
 
+### Transformation, Reinvigoration and Reinvention: The Art and Life of George Keyt (1901 – 1993), Part I
+
+*2024-02-10 16:29:00* · [`islandlk`](http://island.lk/transformation-reinvigoration-and-reinvention-the-art-and-life-of-george-keyt-1901-1993-part-i/) · `en`
+
+The material for this article has been drawn from the recently published work, George Keyt. The Absence of a Desired Image by SinhaRaja Tammita-Delgoda (Taprobane Collection, Sri Lanka 2023)
+
+Born a year after the turn of the 20th century, George Keyt was one of the leading figures of European modernism in Asia. Fusing the influences of Modernism and Cubism with his own unique idiom, Keyt became one of the most important Asian artists of his time and the most celebrated Sri Lankan painter of the 20th century.
+
+George Percival Sproule Keyt was born in 1901. Ceylon was then at the height of its prosperity and was considered one of the jewels in the imperial crown. Riding this wave of affluence was a diverse and cosmopolitan élite. Often described as “Ceylonese,” it was bound together by Western values and a deeply Anglicized lifestyle.
+
+...
+
+[Data](articles/86e845b7.json)
+
+---
+
 ### Imran Khan reports that Pakistan election
 
 *2024-02-10 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176039) · `ta`
@@ -1174,6 +1272,20 @@ China presents all world trees to the new year of the dragon.
 
 ---
 
+### HNB Assurance celebrates record-breaking 203 MDRT Qualifiers, including 20 COTs and 05 TOTs
+
+*2024-02-10 15:41:00* · [`islandlk`](http://island.lk/hnb-assurance-celebrates-record-breaking-203-mdrt-qualifiers-including-20-cots-and-05-tots/) · `en`
+
+The HNB Assurance last week announced a record-breaking 203 Million Dollar Round Table (MDRT) qualifiers, during the year 2023. Amongst them were, 20 sales officers who earned the status of Court of the Table (COT), while another five achieved the highly prestigious Top of the Table (TOT) status.
+
+MDRT, the Premier Association of Financial Professionals, which was formed in 1927 is an independent association with a global count of over 72,000 professionals affiliated to insurance and financial services in over 500 companies. Crossing the 200 MDRT qualifier mark for the first time in the company’s history, HNB Assurance has consistently demonstrated a commitment to excellence and this achievement is a testament to the company’s vision of maintaining exceptional customer service and expertise.
+
+...
+
+[Data](articles/23250fa9.json)
+
+---
+
 ### Cleaning staffer arrested at BIA with stock of gold worth Rs. 58mn
 
 *2024-02-10 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97166/cleaning-staffer-arrested-at-bia-with-stock-of-gold-worth-rs-58mn) · `en`
@@ -1191,6 +1303,88 @@ The suspected woman has confessed to the Sri Lanka Customs that an unidentified 
 [Data](articles/2ba96fb7.json)
 
 [Extended Data](ext_articles/2ba96fb7.ext.json)
+
+---
+
+### Flower arrangement exhibition & demonstration on Feb. 16 & 17
+
+*2024-02-10 15:30:00* · [`islandlk`](http://island.lk/flower-arrangement-exhibition-demonstration-on-feb-16-17/) · `en`
+
+This Exhibition of Ikebana, the Japanese art of flower arranging and the Western art of flower arrangements, will be held on February 16 (11.00 am to 7.00 pm) and February 17 (10.00 am to 6.00 pm) at the Ivy Room of the Cinnamon Grand Hotel, the Shi-en Ikebana and Floral Arts Society of Sri Lanka (SIFAS) announced last week.
+
+A demonstration will be held by members who are experienced arrangers, on February 16 at 4.00p.m. for exhibition ticket holders only. Tickets are priced at a nominal Rs.500 and part proceeds will go to the Thalassemia unit at the Lady Ridgeway Hospital.
+
+...
+
+[Data](articles/b96caf6e.json)
+
+---
+
+### Exterminators PLC to transform pest management industry in South Asia
+
+*2024-02-10 15:29:00* · [`islandlk`](http://island.lk/exterminators-plc-to-transform-pest-management-industry-in-south-asia/) · `en`
+
+Exterminators PLC last week announced that the company recently entered a ground-breaking strategic partnership with PestScan B.V. Netherlands and Sentario UK Limited.
+
+Exterminators PLC is aiming to transform the pest management industry in South Asia from a chemical-focused industry to a technology-focused industry by adapting cutting-edge AI-powered digital pest management solutions. Exterminators PLC is the exclusive distributor of PestScan’s digital pest management software for India, Sri Lanka, and the Maldives and the non-exclusive distributor in Pakistan, Bangladesh, Nepal, and Bhutan.
+
+...
+
+[Data](articles/4e3b5df5.json)
+
+---
+
+### ICT Veteran Chrishan Fernando joins Board of Netsys Solutions
+
+*2024-02-10 15:29:00* · [`islandlk`](http://island.lk/ict-veteran-chrishan-fernando-joins-board-of-netsys-solutions/) · `en`
+
+ICT veteran Chrishan Fernando joins the Board of Netsys Solutions from February. Chrishan is an experienced IT leader with over 25 years of experience working for leading Global IT Companies. He started his international career with Compaq Computer in 1997 and was based in Singapore covering South Asia markets. Later with the merger of HP, he moved back to Sri Lanka, his country of birth, and started the HP office in Sri Lanka. Head hunted by IBM in 2009, to be the Country General Manager for Sri Lanka’s biggest IT company, he led the introduction of new lines of businesses such as software and IBM’s Global Business Services to the Sri Lanka market. At Dell Technologies, he was the Country Manager for Sri Lanka and Maldives. Under his leadership, Dell reached No 1 in market share for consumer and commercial business in Sri Lanka.
+
+...
+
+[Data](articles/694798f4.json)
+
+---
+
+### Ruwanpura Facet shines in Gold at National Industrial Excellence Awards
+
+*2024-02-10 15:28:00* · [`islandlk`](http://island.lk/ruwanpura-facet-shines-in-gold-at-national-industrial-excellence-awards/) · `en`
+
+Ruwanpura Facet Pvt Ltd has been awarded the Gold Award in the Gem Cutting and Polishing Category (Medium Scale) at the National Industry Excellence Awards 2023 organised by the Industrial Development Board (IDB). The award ceremony was recently held at the Nelum Pokuna Mahinda Rajapaksa Theatre in Colombo. Director of Ruwanpura Facet Pvt Ltd K. W. Sanjeewa Priyantha Fonseka received the award at the gala event. R. S. S. Sharik Hassaen, M. N. Mohamed Mushtaq and A. A. Mohamed Aroos are the other Directors of Ruwanpura Facet Pvt Ltd.
+
+Striving to modernise the gem cutting and polishing industry using the latest technology and machinery, Ruwanpura Facet Pvt Ltd has gained a well-deserved reputation, both locally and internationally, for artistic gem cutting and polishing. They cut and polish gems from New Zealand, Hong Kong, Japan, China, Thailand, the United States, and export gems to all parts of the world including the United States, China, and Europe.
+
+...
+
+[Data](articles/31974ce5.json)
+
+---
+
+### GHC Global Education marks its proud 15th anniversary
+
+*2024-02-10 15:28:00* · [`islandlk`](http://island.lk/ghc-global-education-marks-its-proud-15th-anniversary/) · `en`
+
+GHC Global Education recently celebrated its 15th anniversary. Founded by a team of experts to provide consultation services for students seeking opportunities to pursue their higher education abroad in 2008, GHC Global Education is currently partnered with several leading universities in several countries including Australia, Finland and the United Kingdom (UK). GHC offers a wide range of services including those related to career counseling, academic courses, educational institutions, and country selection support, simplifying the visa process, student loan facilities, travel and accommodation preparation and part time job opportunities.
+
+The Metropolia University of Applied Sciences and Vaasa University of Applied Sciences in Finland, Coventry University in the UK, and Deakin University, Edith Cowan University, James Cook University and in Australia are among the leading universities that GHC Global Education is currently partnered with.
+
+...
+
+[Data](articles/e498f391.json)
+
+---
+
+### Tropical getaway at Sun Siyam Pasikudah this Valentine’s Day
+
+*2024-02-10 15:27:00* · [`islandlk`](http://island.lk/tropical-getaway-at-sun-siyam-pasikudah-this-valentines-day/) · `en`
+
+The Sun Siyam Pasikudah has come up with discount offers and savings for their customers to mark this Valentine’s Day enabling them to save up to 50% on room upgrades, 20% on the champagne dinners at wine cellar, and 15% on all F&B and spa experiences, said a press release.
+
+It said: Tucked away nearby some of Pasikudah’s most magnificent beaches, this boutique 5-star property offers couples an exclusive coastal experience amidst chic and sophisticated surroundings, perfect for a quick getaway. Boasting just 34 spacious and contemporary one-to-two-bedroom garden or beach pavilions, Sun Siyam Pasikudah ensures intimacy and luxury for couples seeking a romantic getaway. The bold monochromatic interiors balanced with rich golden tones create a unique and glamorous ambiance, setting the stage for unforgettable moments with your loved one.
+
+...
+
+[Data](articles/79c7ad2f.json)
 
 ---
 
@@ -1833,285 +2027,5 @@ The suspects were 38 years old, residents of Eswella and Nelumdeniya.
 [Data](articles/40886d28.json)
 
 [Extended Data](ext_articles/40886d28.ext.json)
-
----
-
-### Biki murder;The person who is trapped with the handbag
-
-*2024-02-10 11:14:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிக்கு-கொலை-கைக்குண்டு-ஒன்றுடன்-சிக்கிய-நபர்/175-332967) · `ta`
-
-Another suspect has been arrested in connection with the shooting of a Buddhist monk at a Vikarai in Malwattu - Hiripitiya area.
-
-Police said that a handgun and a handgun have been recovered from the suspect. Remble
-
-◼️
-
-[Data](articles/cc89589f.json)
-
-[Extended Data](ext_articles/cc89589f.ext.json)
-
----
-
-### Voice of the voice of the voiceless
-
-*2024-02-10 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176026) · `ta`
-
-The Jaffna Court of Jaffna was granted a warrant for the activist of the voice organization of the voice of the voice.
-
-President Ranil Wickremesinghe was present at the Taipongal event held last year. A protest was carried out in protest of his visit. The war was issued for participating in the struggle.
-
-No invitation has been given to me to come to the law. But it was reported that I had been sued in court and that my name was called during the way. So I was given a warrant.
-
-◼️
-
-[Data](articles/3bd64481.json)
-
-[Extended Data](ext_articles/3bd64481.ext.json)
-
----
-
-### Trump vows to undo Biden gun restrictions if re-elected
-
-*2024-02-10 10:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Trump-vows-to-undo-Biden-gun-restrictions-if-re-elected/108-276734) · `en`
-
-(Reuters) - Former President Donald Trump, the Republican frontrunner in the 2024 presidential race, said on Friday he had firmly protected gun rights while in the White House and vowed if re-elected to undo all restrictions enacted by President Joe Biden.
-
-Speaking to thousands of supporters at an event organized by the National Rifle Association (NRA), Trump promised to rescind a rule curbing sales of gun accessories known as pistol braces and other regulations put in place by the Biden administration.
-
-"Every single Biden attack on gun owners and manufacturers will be terminated my very first week back in office, perhaps my first day," Trump said in a speech at the Great American Outdoor show in Harrisburg, the capital of Pennsylvania.
-
-The NRA enthusiastically backed Trump during the 2016 race and throughout his administration, cheering him on as he appointed three conservative justices to the Supreme Court and adopted a series of steps sought by the influential gun lobby.
-
-...
-
-[Data](articles/2d8de5c7.json)
-
-[Extended Data](ext_articles/2d8de5c7.ext.json)
-
----
-
-### Operation ‘Yukthiya’: 663 more suspects arrested
-
-*2024-02-10 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97161/operation-yukthiya-663-more-suspects-arrested) · `en`
-
-Another 663 suspects have been arrested by Sri Lanka’s police and security forces personnel within 24 hours which ended at 12.30 a.m. today (Feb.10). The arrests were made as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-Among the arrestees are 547 suspects who were taken into custody on narcotics-related charges and 116 others who were on the list of wanted criminal suspects. The Ministry also mentioned that warrants had been issued against 14 of the suspects for drug-related offences, and that 95 others had open warrants against them for non-drugs related offences.
-
-Detention orders have been secured against 02 of the drug suspects, while 02 others were referred to rehabilitation centres, the Ministry of Public Security said.
-
-According to the ministry, the narcotics taken into custody during this period include 175g 191mg of heroin, 171g 197 mg of crystal methamphetamine (Ice), 515 g 538 mg of cannabis and 807 cannabis plants.
-
-◼️
-
-[Data](articles/b185496d.json)
-
-[Extended Data](ext_articles/b185496d.ext.json)
-
----
-
-### Crowd surge reported in Jaffna as Indian Singer Hariharan’s concert kicks-off
-
-*2024-02-10 10:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97160/crowd-surge-reported-in-jaffna-as-indian-singer-hariharans-concert-kicks-off) · `en`
-
-A crowd surge was reported in the Jaffna area last night (09), as the concert conducted by the veteran Indian playback singer and film score composer Hariharan at ‘Mutraveli’ Stadium in Jaffna cheered up with a heavy crowd of fans.
-
-Meanwhile the huge crowds of people who came to the concert had tried to enter the venue forcefully disregarding the police security, Ada Derana reporter said.
-
-Several people have also been injured due to the crowd crush, however, the police managed to resolve the situation.
-
-A number of South Indian actresses and actors including Tamannaah and Ramba also took part in the concert.
-
-◼️
-
-[Data](articles/522db482.json)
-
-[Extended Data](ext_articles/522db482.ext.json)
-
----
-
-### 663 suspects arrested
-
-*2024-02-10 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193204) · `si`
-
-663 suspects have been arrested in accordance with drug misunderstanding in the past 24 hours.
-
-Meanwhile, there are 547 suspects on drug misbehavior and the list of criminal sections.
-
-They have a 175G of heroin, 191G, 191G, 80 mg, 80 mg, 296 gawns, 295 and 85Gs.
-
-Among the 547 suspects of drug misconduct was reported in the Police Narcotics Bureau and the Police Special Bureau.
-
-There are two suspects on detention policies and two drug addicts have been referred to rehabilitation centers.
-
-It is reported that there are 95 suspects who have been arrested on the 116 suspects who have been arrested on the list of the list of criminal sections.
-
-Three suspects identified in the media and four suspects have been arrested in operations.
-
-◼️
-
-[Data](articles/b1d02589.json)
-
-[Extended Data](ext_articles/b1d02589.ext.json)
-
----
-
-### Increase in worker remittances than last year
-
-*2024-02-10 10:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Increase-in-worker-remittances-than-last-year/108-276729) · `en`
-
-Colombo, Feb 10 (Daily Mirror) - Labour and Foreign Employment Minister Manusha Nanayakkara today claimed that worker remittances for January have recorded an increase of 11.4 per cent compared to last year.
-
-He mentioned this by posting a message today on X, formerly known as Twitter.
-
-Accordingly, the worker remittances for January 2024 were recorded at 487.6 USD.
-
-◼️
-
-[Data](articles/73e655d2.json)
-
-[Extended Data](ext_articles/73e655d2.ext.json)
-
----
-
-### If prioritize the political aspirations of Tamils - the economy will improve - Sreedharan
-
-*2024-02-10 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176020) · `ta`
-
-How to improve the problems of the Tamil nationality. Sinhalese leaders should come forward to solve problems. If we give priority to the political aspirations of the Tamil people, we will cooperate with the economy of the Tamil National Alliance (TNA) leader and parliamentarian S. Sreedharan.
-
-He was speaking at the adjournment debate on the President's Declaration of the President's Policy Declaration in Parliament yesterday.
-
-The fundamental issues in the policy declaration presented by the country's first citizen president have not been settled.
-
-State leaders in Sri Lanka have been deceived for a long time. The heads of state today do not understand that the heads of states of Sri Lanka have not implemented the contract with various parties to address the problems.. It is unknown how much it is possible to talk about the development of the economy without ensuring peace and unity between the ethnicities.
-
-...
-
-[Data](articles/48f46a8f.json)
-
-[Extended Data](ext_articles/48f46a8f.ext.json)
-
----
-
-### Two major state banks in a massive crisis - PM
-
-*2024-02-10 09:56:20* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රධාන-රාජ්‍ය-බැංකු-දෙක-දැවැන්ත-අර්බුදයක---අගමැති/11-407991) · `si`
-
-The government is following the president of the government to go to a new model to resolve the economic crisis in Sri Lanka, he said.
-
-He said a program will be implemented this year to provide a vocational training for every child drowning and schooling.. The Prime Minister said that the parliamentary system of coconut is taken carefully in the manifestation of the politics of the politics and the expectations of the MPs and the country.
-
-He was speaking at the adjournment debate in parliament regarding the President's speech, opening the 5th session of Parliament, such as the New New Parliament.
-
-The Prime Minister said that the two major state banks should be liberated into the massive crisis of renewable electricity.. Through the government's assistance and support, the farming community in the country has enabled food production in many countries in many countries, there was no state employee or pension cuts.
-
-...
-
-[Data](articles/9b734823.json)
-
-[Extended Data](ext_articles/9b734823.ext.json)
-
----
-
-### Two suspects arrested with STF
-
-*2024-02-10 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193203) · `si`
-
-Two suspects have been arrested by the STF, suspected to be organized criminal gang members.
-
-Police said that two suspects were arrested by the criminal criminal group of organized criminal groups abroad in the operation in the Deligamuwa and Hanwella.
-
-Two persons were arrested in Padukka and Hanwella, who was 24 and 37 years old.
-
-Two motorcycles, two motorcycle number plates and two mobile phones were taken into custody.
-
-The suspects have been handed over to Athurugiriya Police for further investigations.
-
-◼️
-
-[Data](articles/7ee7c243.json)
-
-[Extended Data](ext_articles/7ee7c243.ext.json)
-
----
-
-### Moody’s downgrades Israel’s credit rating on war risks; outlook negative
-
-*2024-02-10 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97159/moodys-downgrades-israels-credit-rating-on-war-risks-outlook-negative) · `en`
-
-Moody’s downgraded Israel’s credit rating on Friday, citing material political and fiscal risks for the country from its war with the Palestinian militant group Hamas.
-
-The impact of the conflict raises political risk and weakens Israel’s executive and legislative institutions, and its fiscal strength for the foreseeable future, said Moody’s, which had begun the review for a downgrade on Oct. 19.
-
-The country’s rating was cut to “A2,” which is five notches above investment grade, while its credit outlook was kept at negative by Moody’s, meaning a further downgrade is possible.
-
-The war between Israel and Hamas, which has raged since Oct. 7, is the latest in a conflict between Israelis and Palestinians that has rumbled on for seven decades and destabilized the Middle East.
-
-...
-
-[Data](articles/33503242.json)
-
-[Extended Data](ext_articles/33503242.ext.json)
-
----
-
-### Two killed in jets
-
-*2024-02-10 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193202) · `si`
-
-Two persons have killed two persons who have collapsed in a private jet in Florida.
-
-According to foreign reports, five people were traveling there when the jet was crashed.
-
-With the collapse of the jet, the rescue teams have been able to save three people.
-
-Two minutes before the airplane landed at the Naples urban airport, the pilot had requested an urgent landing.
-
-◼️
-
-[Data](articles/2a0bc12c.json)
-
-[Extended Data](ext_articles/2a0bc12c.ext.json)
-
----
-
-### Traffic restricted on New Kelani Bridge till Monday
-
-*2024-02-10 09:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Traffic-restricted-on-New-Kelani-Bridge-till-Monday/108-276733) · `en`
-
-Colombo, Feb 10 (Daily Mirror) - The road leading to the harbour from the New Kelani Bridge will be closed until Monday (12) due to repair work, the Highway Tourism Police announced.
-
-Accordingly, the lane from Katunayake entering the Kelani bridge and heading towards the port was closed from 9 p.m. yesterday (09) to 5 a.m. on Monday (12).
-
-Meanwhile, entering the Kelani bridge from the Orugudawatta intersection and entering the harbour entrance from the middle part of the bridge will be closed.
-
-Vehicles travelling from Katunayake to Colombo on the expressway and vehicles entering from Orugudawatte and travelling to Katunayake will not be hindered by this closure, police said.
-
-During the repair period, notice boards have been installed on the Orugudawatta-Wellampitiya road at Dematagoda, Peliyagoda, Negombo Road, near the fish market, Kandy Road and Thorana Junction.
-
-◼️
-
-[Data](articles/e5666d8e.json)
-
-[Extended Data](ext_articles/e5666d8e.ext.json)
-
----
-
-### President meets Indian Foreign Minister in Australia
-
-*2024-02-10 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/176016) · `ta`
-
-President Ranil Wickremesinghe and India's Foreign Minister S. Jaishankar met in the capital city of Australia on Friday.
-
-President Ranil Wickremesinghe has visited Australia to attend the 7th Indian Ocean Conference at the invitation of the Indian Foundation and the Australian government.
-
-The conference was organized by the Indian Foreign Ministry and the Australian government in the tone of the tone of the "stable and sustained Indian Ocean".
-
-◼️
-
-[Data](articles/c93199f2.json)
-
-[Extended Data](ext_articles/c93199f2.ext.json)
 
 ---

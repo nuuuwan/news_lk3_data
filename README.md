@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 11:51:46**
+As of **2024-02-11 12:02:27**
 
 ## Newspaper Stats
 
-*Scraped **6,256** Articles*
+*Scraped **6,257** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 342
 newsfirstlk | 363
 adalk | 517
 tamilmirrorlk | 760
-adaderanalk | 773
+adaderanalk | 774
 virakesarilk | 775
 adaderanasinhalalk | 855
 dailymirrorlk | 909
@@ -26,11 +26,29 @@ dailymirrorlk | 909
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,256 (100.0%) of 6,256 articles have been extended.
+6,257 (100.0%) of 6,257 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### Sri Lanka’s workers’ remittances exceed USD 400 mn in January 2024
+
+*2024-02-11 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97179/sri-lankas-workers-remittances-exceed-usd-400-mn-in-january-2024-) · `en`
+
+Sri Lanka has recorded an 11.4% increase in workers’ remittances in January 2024, compared to those earned in January 2023.
+
+According to Minister of Labour and Foreign Employment, Manusha Nanayakkara, Sri Lanka earned a total of USD 487.6 million in foreign remittances in January.
+
+As per data gathered by the Central Bank of Sri Lanka, Sri Lanka’s foreign remittances earned between January – December 2023 amounted to USD 5,969.6 million.
+
+◼️
+
+[Data](articles/f1d27c92.json)
+
+[Extended Data](ext_articles/f1d27c92.ext.json)
+
+---
 
 ### Residential killed in robbery
 
@@ -2083,23 +2101,5 @@ Based on the available information, the arrival of the organizers' expectations 
 [Data](articles/dad05087.json)
 
 [Extended Data](ext_articles/dad05087.ext.json)
-
----
-
-### Anura Kumara arrived in India and said
-
-*2024-02-10 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193215) · `si`
-
-Leader of the National Jones of Power to India arrived in Sri Lanka this afternoon.
-
-"The president cannot postpone this presidential election. So this presidential election should be held. There is a great blow and hope for this purpose. Our expectation to establish a large translation. It requires international support. "
-
-He then spoke to the media that he was informed of a public meeting with a full explanation of his visit.
-
-◼️
-
-[Data](articles/97a16895.json)
-
-[Extended Data](ext_articles/97a16895.ext.json)
 
 ---

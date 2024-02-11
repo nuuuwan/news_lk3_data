@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 00:48:07**
+As of **2024-02-12 01:02:29**
 
 ## Newspaper Stats
 
-*Scraped **6,344** Articles*
+*Scraped **6,345** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 87
 dbsjeyarajcom | 146
 economynextcom | 323
 islandlk | 334
-dailyftlk | 342
+dailyftlk | 343
 newsfirstlk | 363
 adalk | 533
 tamilmirrorlk | 771
@@ -26,9 +26,25 @@ dailymirrorlk | 923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,344 (100.0%) of 6,344 articles have been extended.
+6,344 (100.0%) of 6,345 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-02-12 (Monday)
+
+### Without a code of ethics and principles of morality, no meaning in social market economy
+
+*2024-02-12 00:09:21* · [`dailyftlk`](https://www.ft.lk/columns/Without-a-code-of-ethics-and-principles-of-morality-no-meaning-in-social-market-economy/4-758344) · `en`
+
+The prevention of the formation of monopolies is an important task of the Government under the social market economy ideals
+
+Social market economy, or in other words ordoliberalism, is not a new ideal for either of the two warring parties in Sri Lanka. Wickremesinghe, when he sought political power in 2015, promised the electorate that he would establish an economic system based on the social market economy ideology once elected to power. He made a distinction in his social market economy ideology calling it a ‘highly competitive social market economy’. This addition was necessary to take care of the important role played by the export of goods and services in creating wealth for people
+
+...
+
+[Data](articles/8ad682b2.json)
+
+---
 
 ### 2024-02-11 (Sunday)
 
@@ -2167,23 +2183,5 @@ Also, the President had a bilateral discussion with the heads of states of many 
 [Data](articles/4fa1e590.json)
 
 [Extended Data](ext_articles/4fa1e590.ext.json)
-
----
-
-### Bus - three -wheeler accident;Women wounded
-
-*2024-02-11 08:19:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பேருந்து-முச்சக்கரவண்டி-விபத்து-பெண்கள்-படுகாயம்/76-332996) · `ta`
-
-A three -wheeler and a state bus collided with a state -run bus on the Hatton - Tikoya main road.
-
-As a result, a 50 -year -old woman from Pathana Jayasiri Pur, who was traveling in a three -wheeler, has been admitted to the Tikoya Klangan Base Hospital with injuries.
-
-Hatton police are investigating a three -wheeler, including the state bus driver and the driver of the three -wheeler.. Remble
-
-◼️
-
-[Data](articles/fc5034be.json)
-
-[Extended Data](ext_articles/fc5034be.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 09:02:36**
+As of **2024-02-11 09:17:20**
 
 ## Newspaper Stats
 
-*Scraped **6,225** Articles*
+*Scraped **6,234** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,163 +16,247 @@ islandlk | 333
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 516
-tamilmirrorlk | 749
+tamilmirrorlk | 757
 adaderanalk | 769
 virakesarilk | 769
-adaderanasinhalalk | 850
+adaderanasinhalalk | 851
 dailymirrorlk | 906
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,217 (99.9%) of 6,225 articles have been extended.
+6,225 (99.9%) of 6,234 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
 
-### පෞද්ගලික ආරවුලක් හේතුවෙන් මනුෂ්‍ය ඝාතනයක්
+### තරුණ තරුණියන් සඳහා හමුදා සේවය අනිවාර්ය කෙරේ
+
+*2024-02-11 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193238) · `si`
+
+මියන්මාරයේ සියලු තරුණ තරුණියන් සඳහා හමුදා සේවය අනිවාර්ය කර තිබේ.
+
+මියන්මාරයේ පවතින නොසන්සුන්කාරී වාතාවරණය හේතුවෙන් මෙම පියවර ගෙන ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+
+ඒ අනුව අවුරුදු 18ත් 35ත් අතර වයසැති සියලු පිරිමි පුද්ගලයන් සහ අවුරුදු 18ත් -27ත් අතර වයසැති තරුණියන් අවම වශයෙන් වසර 02ක් හමුදා අණ යටතේ සේවය කළ යුතු වේ.
+
+2021 වසරේ දී කුමන්ත්‍රණයකින් හමුදාව විසින් එරට බලය අත්පත් කර ගනු ලැබුව ද යළිත් මෑත කාලයේ දී මිලීෂීයා සහ හමුදා විරෝධී කැරලිකරුවන් සමඟ පැවති සටන්වල දී පරාජයට පත් විය.
+
+◼️
+
+[Data](articles/512e664f.json)
+
+---
+
+### நாடு திரும்பினார் ஜனாதிபதி
+
+*2024-02-11 08:25:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பினார்-ஜனாதிபதி/175-332997) · `ta`
+
+அவுஸ்திரேலியாவின் பேர்த் நகரில் இடம்பெற்ற 7ஆவது இந்து சமுத்திர மாநாட்டில் கலந்துகொள்ள சென்றிருந்த ஜனாதிபதி ரணில் விக்ரமசிங்க நேற்று (10) இரவு நாடு திரும்பியுள்ளார்.
+
+ஸ்ரீலங்கன் எயார்லைன்ஸ் விமானமான UL-309 மூலம் ஜனாதிபதி மற்றும் தூதுக்குழுவினர் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்துள்ளனர்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க கடந்த 8 ஆம் திகதி இரவு அவுஸ்திரேலியாவிற்கு பயணமாகியதுடன், ​​7ஆவது இந்து சமுத்திர மாநாட்டில் முக்கிய உரையை ஆற்றினார்.
+
+மேலும், பல நாடுகளின் அரச தலைவர்களுடனும் ஜனாதிபதி இருதரப்பு கலந்துரையாடல்களை மேற்கொண்டிருந்தார். R
+
+◼️
+
+[Data](articles/4fa1e590.json)
+
+---
+
+### பேருந்து - முச்சக்கரவண்டி விபத்து; பெண்கள் படுகாயம்
+
+*2024-02-11 08:19:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பேருந்து-முச்சக்கரவண்டி-விபத்து-பெண்கள்-படுகாயம்/76-332996) · `ta`
+
+ஹட்டன் - டிக்கோயா பிரதான வீதியில் அழுத்கல பகுதியில் முச்சக்கர வண்டியும், அரச பேருந்து ஒன்றும் மோதி விபத்து ஏற்பட்டுள்ளது.
+
+இதனால் முச்சக்கர வண்டியில் பயணம் செய்த பத்தனை ஜயசிரி புரவை சேர்ந்த 50 வயதுடைய பெண்ணும் 30 வயது உடைய பெண்ணும் காயமடைந்த நிலையில் டிக்கோயா கிளங்கன் ஆதார வைத்திய சாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+அரச பேருந்து அதன் சாரதி மற்றும் முச்சக்கர வண்டி சாரதி உட்பட முச்சக்கர வண்டியும் ஹட்டன் பொலிஸ் நிலையத்தில் தடுத்து வைத்து ஹட்டன் பொலிஸார் விசாரணை நடத்தி வருகின்றனர். R
+
+◼️
+
+[Data](articles/fc5034be.json)
+
+---
+
+### Murderer due to personal dispute
 
 *2024-02-11 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193237) · `si`
 
-පෞද්ගලික ආරවුලක් හේතුවෙන් මුගුරුකින් පහර දී පුද්ගලයෙකු ඝාතනය කර තිබේ.
+A person has been assaulted by a club and murdered due to a personal dispute.
 
-ඊයේ (12) එම ඝාතනය සිදු ව ඇත්තේ, සිරිපාගම - දකුණ මැල්කැල්ල - තවානවත්ත ‍ප්‍රදේශයේ දී ය.
+The murder was held yesterday (12th) Siriwala - South Malkandwatte.
 
-එසේ මිය ගොස් ඇත්තේ, මල්වත්ත - ඉලුක්වත්ත - ගිලීමලේ ප්‍රදේශයේ පදිංචි 52 හැවිරිදි පුද්ගලයෙකි.
+The deceased is a 52 year old resident of the Ilukwatta-Gangalle area in Malwatta.
 
-පහරදීම සිදු කළ 30 හැවිරිදි පුද්ගලයා එම ප්‍රදේශයේ ම පදිංචි අයෙකු බවත් සැකකරු අත්අඩංගුවට ගෙන ඇති බවත් පොලීසිය පවසයි.
+The suspect was a resloved of the 30-year-old man of the attack.
 
 ◼️
 
 [Data](articles/b7f3e381.json)
 
+[Extended Data](ext_articles/b7f3e381.ext.json)
+
 ---
 
-### දියේ ගිලී අතුරුදන් වීමක්
+### A disappearance of drowning
 
 *2024-02-11 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193236) · `si`
 
-තලාතුඔය - හාරගම - ගෝනවත්ත ප්‍රදේශයේ දී මහවැලි ගඟේ දිය නෑමට ගිය පුද්ගලයෙකු දියේ ගිලී අතුරුදන් ව තිබේ.
+In Thalathaoya - A man drowned in the Mahaweli River in Haragama-Goneude,
 
-ඊයේ (10) සවස් කාලයේ දී එම සිද්ධිය වාර්තා වූ බව තලාතුඔය පොලීසිය පවසයි.
+Thalathuoya Police say that incident in the evening yesterday (10).
 
-එසේ දියේ ගිලී අතුරුදන් ව ඇත්තේ, ගුරුදෙණිය ප්‍රදේශයේ පදිංචි 29 හැවිරිදි පුද්ගලයෙකි.
+The 29-year-old resident of the Teachi Deniya has been disappeared.
 
-මහනුවර පොලිස් ජීවිතාරක්ෂක නිලධාරින් හා ප්‍රදේශවාසින් එක් ව අතුරුදන් වූ අය සෙවීමේ කටයුතු සිදු කරන බව සඳහන් ය.
+It is said that the disappearance of police survives and the residents of Kandy are being held.
 
 ◼️
 
 [Data](articles/c125fda1.json)
 
+[Extended Data](ext_articles/c125fda1.ext.json)
+
 ---
 
-### හංගේරියානු ජනාධිපති ඉල්ලා අස් වෙයි
+### Hungarian president resigns
 
 *2024-02-11 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193235) · `si`
 
-හංගේරියානු ජනාධිපති කැටලීන් නොවැක් මහත්මිය සිය ධුරයෙන් ඉල්ලා අස් වී තිබේ.
+Mrs. Hungarian president's President Cataline, unbelievable, has resigned from his post.
 
-එරට රූපවාහිනී නාලිකාවක් ඔස්සේ හංගේරියානු ජනාධිපතිවරිය සිය ඉල්ලා අස් වීම නිවේදනය කර ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+Foreign media reports that the Hungarian president has announced his resignation along a television channel.
 
-ළමා ලිංගික අපයෝජන සිද්ධියක් වසන් කිරීමේ චෝදනාවට වරදකරු වූ පුද්ගලයෙකුට සමාව දීමට ගත් තීරණය හේතුවෙන් තමා සිය ධුරයෙන් ඉල්ලා අස් වන බව හංගේරියානු ජනාධිපතිවරිය ප්‍රකාශ කර ඇත.
+The Hungarian president has stated that he resigns from his post as a decision to pardon a person who is convicted of covering a child sex sex abuse.
 
-ළමා නිවාසයක අධ්‍යක්ෂවරයෙකුට එරෙහි ව එල්ල වී තිබූ ලිංගික අපයෝජන චෝදනයක් සම්බන්ධයෙන් වූ පැමිණිල්ල ඉල්ලා අස්කර ගන්නා ලෙසට ළමුන්ට බලකිරීම සම්බන්ධයෙන් සිරගත වූ පුද්ගලයෙකුට ජනාධිපති කැටලීන් නොවැක් පසුගිය සතියේ සමාව ලබා දී තිබිණි.
+A person who was imposed on a prison forced to withholding the complaint against children had been pardoned last week.
 
-ඒ සම්බන්ධයෙන් හංගේරියාවේ විරෝධතා පැවති අතර, විරෝධතාකරුවන් පැවසුවේ ජනාධිපතිවරිය සිය ධුරයෙන් ඉල්ලා අස් විය යුතු බවයි.
+Protests in Hungary had protested, and the protesters said the president should resign from his post.
 
-අදාළ පුද්ගලයාට සමාව ලබාදීමේ දී තමා වරදක් කළ බව පවසමින් හංගේරියානු ජනාධිපති කැටලින් නොවැක් ජනතාවගෙන් සමාව අයැද සිටි බව විදෙස් මාධ්‍යය වාර්තා කර ඇත.
+Foreign media has been apologized to pardon the people without a pardon of the person in order to pardon the person.
 
 ◼️
 
 [Data](articles/a277d46e.json)
 
+[Extended Data](ext_articles/a277d46e.ext.json)
+
 ---
 
-### පොලිස් නිලධාරියා ට මරු කැඳවූ මාරකය
+### The fatality that killed the police officer
 
 *2024-02-11 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193234) · `si`
 
-පල්ලම, නන්දිමිත්ත්‍ර පාසල අසලදී සිදු වූ යතුරුපැදි අනතුරකින් පොලිස් කොස්තාපල්වරයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+A police constable has died in a motorcycle accident near Pallama and Nandemi Peramuna School.
 
-ඊයේ (10) උදෑසන කාලයේදී හලාවත දෙස සිට ආණමඩුව දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කර ගැනීමට නොහැකිව මාර්ගයෙන් ඉවතට ලිස්සා ගොස් එම අනතුර සිදුව ඇත.
+The motorbike was slippated with the motorcycle to govern the boundaries from Chilaw yesterday morning to the Anamaduwa yesterday morning.
 
-යතුරුපැදිකරු අනතුරින් බරපතළ තුවාල ලබා හලාවත රෝහලට ඇතුළත් කිරීමේදී මියගොස් තිබේ.
+Motorcyclist has been seriously injured and admitted to the Chilaw hospital.
 
-එසේ මියගොස් ඇත්තේ, 2 කණුව, රිදිබැඳිඇල්ල ප්‍රදේශයේ පදිංචි හලාවත පොලිස් ස්ථානයට අනුයුක්ත රාජිකාරි කළ 23 හැවිරිදි පොලිස් කොස්තාපල්වරයෙකි.
+The deceased has been identified as the 23 year old police constable attached to the Chilaw Police Station.
 
-මේ අතර කටුනායක, ඇවරියවත්ත, මල්ගස් හංදිය මාර්ගයේ BOI ක්‍රීඩාංගණය අසලදී  වෑන් රථයක් යතුරුපැදියක ගැටී සිදුවූ අනතුරකින් පුද්ගලයෙකු මියගොස් තිබේ.
+Meanwhile, a van has been killed in a motorcycle near the Boi Stadium in Katunayake, Acwarawatte and Malugas Junction road.
 
-මේ අතර හයිෆෙරස්ට් වත්ත 02 කෙටස කඳපොළ ප්‍රදේශයේ පුද්ගලයෙකු බරපතළ තුවාල සහිතව මාර්ගයේ වැටී සිටින බවට හයිෆෙරස්ට් පොලිස් ස්ථානයට තොරුතුක් ලැබී තිබුණි.
+Meanwhile, HiFroster police station had been reported that a person falls on the road with serious injuries.
 
-එහිදී සිදුකළ විමර්ශනයේදී තුවාල ලබා සිටි පුද්ගලයා මියගොස් ඇති බවට නිරික්ෂණය වී ඇත.
+The investigation was observed that the injured person had died.
 
-නුවරඑළිය ප්‍රදේශයේ ඇඟලුම් කාර්මාන්ත ශාලාවක සේවකයින් ප්‍රවාහනය කරන ලද බස් රථයට යට වීමෙන් මෙම අනතුර සිදුව ඇති බව අනාවරණය වී ඇත.
+It has been revealed that the accident had occurred when the employees of the employees of the apparel industry of Nuwara Eliya.
 
 ◼️
 
 [Data](articles/c5408a68.json)
 
+[Extended Data](ext_articles/c5408a68.ext.json)
+
 ---
 
-### සහයෝගය දෙන බව මෛත්‍රී කියයි
+### மருந்து நிறுவனங்கள் தொடர்பில் விசாரணை
+
+*2024-02-11 07:50:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருந்து-நிறுவனங்கள்-தொடர்பில்-விசாரணை/175-332995) · `ta`
+
+இலங்கையில் பதிவுசெய்யப்பட்ட அனைத்து மருந்து விற்பனை  மற்றும் கொள்வனவு நிறுவனங்களையும் விசாரிக்கும் பணியை குற்றப் புலனாய்வுத் திணைக்களம் மேற்கொண்டுள்ளது.
+
+குற்றப்புலனாய்வுப் பிரிவிற்குப் பொறுப்பான பிரதி பொலிஸ் மா அதிபர் தலைமையில் நடைபெற்ற கூட்டத்தின் பின்னர் இந்த முடிவு எடுக்கப்பட்டுள்ளது.
+
+குறிப்பாக அண்மையில் மருந்து கொள்வனவு செய்த நிறுவனங்கள் மற்றும் அதனுடைய தொடர்புடையவர்கள் தொடர்பில் விரிவான விசாரணைகள் முன்னெடுக்கப்படுமென தீர்மானிக்கப்பட்டுள்ளது.
+
+ஹியுமன் இம்யூனோகுளோபுலின் ஊழல்கள் தொடர்பான விசாரணைகளை வலுப்படுத்த வேண்டியதன் அவசியம் குறித்து மேற்படி கூட்டத்தில் ஆராயப்பட்டதோடு, பொலிஸார் சமீபத்தில் சட்டமா அதிபருடன் தங்களது விசாரணையின்போது முன்னெடுக்கப்பட்ட சட்ட ரீதியான விடயங்கள் சம்பந்தமாகவும் பகிரப்பட்டது. (a)
+
+◼️
+
+[Data](articles/99504046.json)
+
+---
+
+### Maithri says he will support
 
 *2024-02-11 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193233) · `si`
 
-විධායක ජනාධිපති ක්‍රමය අහෝසි කිරීමේ යෝජනාවට සිය පක්ෂයේ සහයෝගය ලබාදෙන බව ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී මෛත්‍රීපාල සිරිසේන මහතා පවසයි.
+Sri Lanka Freedom Party Chairman Maithripala Sirisena says his party is supporting the proposal to abolish the executive presidency.
 
-ඔහු පෙන්වා දෙන්නේ, ඊට අදාළ යෝජනාවක් ගෙන ඒමේ සූදානමක් පවතින බවට තොරතුරු ලැබී ඇති බවයි.
+He pointed out that there is information that there is a plan to bring a proposal.
 
-නිදහස වෙනුවෙන් අපි යන මැයෙන් ශ්‍රී ලංකා නිදහස් පක්ෂය සංවිධානය කර තිබූ සම්මන්ත්‍රණයකට එක්වෙමින් මෛත්‍රීපාල සිරිසේන මහතා මෙම අදහස් පළ කළේ ය.
+Addressing a seminar organized by the Sri Lanka Freedom Party (SLFP) on behalf of Independence, Maithripala Sirisena expressed these views.
 
-කෙසේ වෙතත් විධායක ජනාධිපති ධුරය අහෝසි කිරීමට සුදුසු අවස්ථාව මෙය නොවන බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා සඳහන් කර ඇත.
+However, Opposition Leader Sajith Premadasa has stated that this is not the right time to abolish the executive presidency.
 
 ◼️
 
 [Data](articles/2aa3d0cd.json)
 
+[Extended Data](ext_articles/2aa3d0cd.ext.json)
+
 ---
 
-### හෘද රෝගින්ගේ ඉහළ යාමක්
+### A rise of the heart patients
 
 *2024-02-11 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193231) · `si`
 
-‍කලාපීය වශයෙන් ශ්‍රී ලංකාවේ හෘද රෝගින් වාර්තා වීම ඉහළ ගොස් ඇති බව සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා පවස‍යි.
+Health Minister Dr. Ramesh Pathiran says that the number of heart disease in Sri Lanka has increased.
 
-අමාත්‍යවරයා පෙන්වා දෙන්නේ, අධිරුධිර පීඩනය සහ දියවැඩියාව වැනි රෝගී තත්ත්වයන් මෙම තත්ත්වයට හේතු වී ඇති බවයි.
+The Minister pointed out that these conditions have been caused by high blood pressure and diabetes.
 
-ගාල්ල ප්‍රදේශයේ පැවති වෛද්‍ය සායනයකට එක්වෙමින් සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා මේ බව සදහන් කළේ ය.
+Health Minister Dr. Ramesh Pathirana said this while participating at a medical clinic in Galle.
 
 ◼️
 
 [Data](articles/58ce9d5c.json)
 
+[Extended Data](ext_articles/58ce9d5c.ext.json)
+
 ---
 
-### ‍ජනවාරි මස තුළ අමෙරිකානු ඩොලර් මිලියන 487ක්
+### US $ 487 million in January
 
 *2024-02-11 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193230) · `si`
 
-විදෙස්ගත ශ්‍රී ලාංකිකයන් මේ වසරේ ජනවාරි මාසය තුළ අමෙරිකානු ඩොලර් මිලියන 487.6ක් මෙරටට එවා තිබේ.
+Sri Lankans overseas have sent US $ 487.6 million in January this year.
 
-එය පසුගිය වසරේ ජනවාරි මාසයට සාපේක්ෂ ව සියයට 11.4ක වැඩි වීමක් බව විදේශ රැකියා හා කම්කරු අමාත්‍ය මනූෂ නානායක්කාර මහතා සඳහන් කරයි.
+Foreign Employment and Labor Minister Manusha Nanayakkara said that it was an increase of 11.4 percent relative to January last year.
 
-සිය එක්ස් ගිණුමේ සටහනක් තබමින් අමාත්‍යවරයා මේ බව සඳහන් කර ඇත.
+The Minister was speaking at a note of his X account note.
 
-පසුගිය වසරේ ජනවාරි මාසයේ දී ‍විදෙස්ගත ව සිටින ශ්‍රී ලාංකිකයන් මෙරටට අමෙරිරිකානු ඩොලර් මිලියන 437.5ක් එවා තිබිණි.
+Sri Lankans abroad in January last year have sent Amarikan $ 437.5 million.
 
-මේ අතර, පෙබරවාරි මාසයේ පළමු දින 08 තුළ පමණක් විදෙස් සංචාරකයන් 60,122 දෙනෙකු මෙරටට පැමිණ තිබේ.
+Meanwhile, 60,122 foreign tourists have arrived in Sri Lanka in the first eight days of February.
 
-ඒ අනුව මේ වසරේ ගත වූ කාලය තුළ සංචාරකයන් 268‍,375 දෙනෙකු දිවයිනට පැමිණ ඇති බව සංචාරක සංවර්ධන අධිකාරිය සඳහන් කරයි.
+According to the Tourism Development Authority, 268 tourists have arrived in the island during the past year.
 
-ඉන් වැඩි ම සංචාරකයන් පිරිසක් ඉන්දියාවෙන් පැමිණ ඇති අතර, එම සංඛ්‍යාව 42,768කි.
+Most of the tourists have arrived from India and the number is 42,768.
 
-ඊට අමතර ව රුසියාවෙන් සංචාරකයන් 39,914ක්, බ්‍රිතාන්‍යයෙන් 22,278ක් සහ ජර්මනියෙන් සංචාරකයන් 18,016 දෙනෙකු පැමිණ ඇති බව වාර්තා වේ.
+In addition, 3914 tourists from Russia, 22,278 from Britain and 18,016 tourists from Germany have arrived.
 
 ◼️
 
 [Data](articles/fe9f471e.json)
+
+[Extended Data](ext_articles/fe9f471e.ext.json)
 
 ---
 
@@ -198,19 +282,21 @@ With that victory and the wishes and wishes, cricket loves about the match are v
 
 ---
 
-### සමාජ මාධ්‍යයෙන් මඩ ගැසූ පුද්ගලයෙකුට වැඩ වරදියි
+### A person who threw out social media
 
 *2024-02-11 06:59:13* · [`adalk`](https://www.ada.lk/breaking_news/සමාජ-මාධ්‍යයෙන්-මඩ-ගැසූ-පුද්ගලයෙකුට-වැඩ-වරදියි/11-407999) · `si`
 
-දේශපාලනඥයෙකුගේ සහාය ලබා ගනිමින් සමාජ මාධ්‍ය ඔස්සේ අපහාසාත්මක ප්‍රකාශයන් කළ පුද්ගලයෙක් අත්අඩංගුවට ගත් බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පැවැසීය.
+The Minister of Defense Tiran Alles said that a person who had acquired the assistance of a politician was arrested on social media.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් මෙම අත්අඩංගුවට ගැනීම සිදුකළ බවත් ඔහු අත්අඩංගුවට පත්වන අවස්ථාවේදි රුපියල් ලක්ෂ 4කට අධික මුදලක් ඔහු සන්තකයේ තිබුණ බවත් අමාත්‍යවරයා සඳහන් කළේය.
+The Minister said that the arrests were made by the CID and he had over 4 lakhs at the time he was arrested.
 
-ආණ්ඩු පෙරළීමට පවා සමාජ මාධ්‍ය භාවිත කරන බව පෙන්වාදුන් අමාත්‍යවරයා එම මාධ්‍ය නිසියාකාරව භාවිත කරන කිසිවෙකුට ඔන්ලයින් පනත හරහා ගැටලුවක් නොවන බවද වැඩිදුරටත් පැවැසීය.ද, පොලිස්පතිතුමාට, ඔය ඔක්කෝටම මඩ ගහන්න සමාජ මධ්‍ය ජාල පාචිච්චි කරනවා. ඒක හින්දා තමයි අපි මේ ඔන්ලයින් සේෆ්ටි බිල් එක ගෙනාවේ. ආණ්ඩු පෙරළන්න වුණත් පාචිච්චි කරන්නේ මේ සමාජ මාධ්‍ය. මම අද කියන්නේ.... මේ පනතs
+The Minister said that the Minister of Tamil, which is using the social media, is not a problem with the Internet Act.. That's why we brought this online safti bill. Prategizing is doing these social media despite the governments. I'm saying today .... This is the bill
 
 ◼️
 
 [Data](articles/457133c7.json)
+
+[Extended Data](ext_articles/457133c7.ext.json)
 
 ---
 
@@ -233,6 +319,18 @@ The President made the keynote address at the 7th Indian Ocean Conference in the
 [Data](articles/85ccaede.json)
 
 [Extended Data](ext_articles/85ccaede.ext.json)
+
+---
+
+### கொழும்பில் இலவச மருத்துவ முகாம்
+
+*2024-02-11 06:26:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இலவச-மருத்துவ-முகாம்/175-332994) · `ta`
+
+கொழும்பு தமிழ்ச் சங்கம், சங்கரபிள்ளை மண்டபத்தில் ஞாயிற்றுக்கிழமை (11) காலை 8.30 மணிமுதல் இலவச மருத்துவ முகாம் நடத்தப்படும்.
+
+◼️
+
+[Data](articles/c7b21e5b.json)
 
 ---
 
@@ -299,6 +397,70 @@ Flood storage, sediment control, water quality improvement, preventing shoreline
 [Data](articles/a1b173e2.json)
 
 [Extended Data](ext_articles/a1b173e2.ext.json)
+
+---
+
+### பொலிஸாருக்கு மேலதிக கொடுப்பனவு
+
+*2024-02-11 04:15:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாருக்கு-மேலதிக-கொடுப்பனவு/175-332993) · `ta`
+
+பொலிஸ் உத்தியோகத்தர்களுக்கு அதிகரிக்கப்பட்ட மேலதிக கொடுப்பனவு அடுத்த வாரம் முதல் வழங்கப்படும் என பதில் நிதியமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+
+அதன்படி, 2024 ஆம் ஆண்டுக்கான வரவு செலவுத் திட்டத்தில் பொலிஸ் உத்தியோகத்தர்களுக்கு அதிகரிக்கப்பட்ட உணவு, பயண மற்றும் தங்குமிட கொடுப்பனவு அடுத்த வார ஆரம்பத்தில் இருந்து வழங்கப்படும் என பதில் நிதியமைச்சர் குறிப்பிட்டார்.
+
+இதன்படி, இதுவரையில் கிடைத்த கொடுப்பனவுக்கு மேலதிகமாக, வரவு செலவுத் திட்டத்தின் மூலம் அதிகரிக்கப்பட்ட கொடுப்பனவு விரைவாக வழங்கப்படும் எனவும் அவர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/24246745.json)
+
+---
+
+### வெப்பநிலை அதிகரிப்பு
+
+*2024-02-11 04:06:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்பநிலை-அதிகரிப்பு/175-332992) · `ta`
+
+நாட்டின் பல பகுதிகளில் வெப்பநிலை 1 முதல் 4  செல்சியஸினால் அதிகரித்துள்ளது. புத்தளத்தில் அதிக வெப்பநிலை பதிவாகியுள்ளது.
+
+இரத்தினபுரியில் 33.5 செல்சியஸ் ஆக வெப்பநிலை பதிவாகியது. கட்டுநாயக்கவில் வெப்பநிலை 33.4 செல்சியஸாக உயர்ந்துள்ளது.
+
+அடுத்த மாதம் வெப்பமான காலநிலை மேலும் அதிகரிக்கலாம் என வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது. (a)
+
+◼️
+
+[Data](articles/47d45178.json)
+
+---
+
+### தங்க நகைகளை கடத்த முயன்ற பெண் கைது
+
+*2024-02-11 04:01:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்க-நகைகளை-கடத்த-முயன்ற-பெண்-கைது/175-332991) · `ta`
+
+சட்டவிரோதமாக கொண்டுவரப்பட்ட 58 மில்லியன் ரூபா பெறுமதியான தங்க நகைகளை கடத்த முயன்ற பெண் ஒருவர் நேற்று கட்டுநாயக்க விமான நிலையத்தில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்டவர் விமான நிலையத்தில் சுத்திகரிப்பு பணியில் ஈடுபடும் வெயாங்கொடை பிரதேசத்தை சேர்ந்த 55 வயதுடைய பெண்ணாவார்.
+
+சந்தேக நபர் விமான நிலைய புறப்படும் முனையத்தில் வைத்து கட்டுநாயக்க விமான நிலைய பொலிஸ் போதைப்பொருள்  தடுப்பு  பிரிவினரால் கைது செய்யப்பட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/a12d5f99.json)
+
+---
+
+### புதிய களனி பாலம் மூடப்பட்டுள்ளது
+
+*2024-02-11 03:56:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-களனி-பாலம்-மூடப்பட்டுள்ளது/175-332990) · `ta`
+
+புதிய களனி பாலம் நாளை அதிகாலை 5 மணி வரை மூடப்படும் என பொலிஸார் தெரிவித்துள்ளனர்.
+
+திருத்தப் பணிகள் காரணமாக பாலம் நேற்று முன்தினம் 9 மணி முதல் மூடப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+எவ்வாறாயினும், கொழும்பில் இருந்து கட்டுநாயக்கவை நோக்கியும், கட்டுநாயக்கவிலிருந்து கொழும்பு நோக்கியும் பயணிக்க முடியும் என அறிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f04e7d21.json)
 
 ---
 
@@ -1855,195 +2017,5 @@ Airport customs custody has been arrested and conducted further investigations.
 [Data](articles/9524f229.json)
 
 [Extended Data](ext_articles/9524f229.ext.json)
-
----
-
-### 2 dead after plane crashes into car on Florida highway
-
-*2024-02-10 14:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/2-dead-after-plane-crashes-into-car-on-Florida-highway/108-276738) · `en`
-
-At least two people were killed Friday afternoon when a small plane that had lost both its engines crashed into a vehicle on a Florida interstate as the pilot attempted to make an emergency landing, authorities said.
-
-Five people were on board the private jet when it crashed near a highway exit in Florida's Collier County, creating a fiery debris field that caused officials to close Interstate 75, according to the Florida Highway Patrol.
-
-The Florida Department of Highway Safety and Motor Vehicles and Collier County Sheriff's Office confirmed that two people died in the collision.
-
-Naples-area resident Jinny Johnson came upon the crash just minutes after it happened, as she was heading north on I-75 around 3:20 p.m.
-
-"All of a sudden I saw a lot of black smoke," Johnson said. "It was pitch black. As I got closer, the smoke got a little lighter. And then I saw flames."
-
-...
-
-[Data](articles/4c3c07e4.json)
-
-[Extended Data](ext_articles/4c3c07e4.ext.json)
-
----
-
-### Fire engulfs private warehouse in Piliyandala
-
-*2024-02-10 14:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fire-engulfs-private-warehouse-in-Piliyandala/108-276737) · `en`
-
-Piliyandala, Feb 10 (Daily Mirror) - A private warehouse in the Palanwaththa vicinity of Piliyandala has been engulfed in flames, resulting in its complete destruction.
-
-According to the Piliyandala Police, the fire, which erupted this afternoon, consumed the premises where crucial equipment belonging to a telephone company was stored.
-
-Authorities disclosed that approximately ten fire trucks from Kotte, Dehiwala, and the Colombo Municipality rushed to the scene to combat the blaze.
-
-The cause of the fire is yet to be ascertained while further investigations are underway.
-
-◼️
-
-[Data](articles/11f5f5ab.json)
-
-[Extended Data](ext_articles/11f5f5ab.ext.json)
-
----
-
-### Namal Rajapaksa talks with Yogi Adityanath
-
-*2024-02-10 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/176035) · `ta`
-
-Sri Lanka's PA MP Namal Rajapaksa meets the Chief Minister of Uttar Pradesh Yogi Adityanath in India.
-
-Namal Rajapaksa has traveled to India on a two -day personal trip to attend the Ayodhya Rama Temple Pooja.
-
-◼️
-
-[Data](articles/017b9cae.json)
-
-[Extended Data](ext_articles/017b9cae.ext.json)
-
----
-
-### 7 killed in drone attack
-
-*2024-02-10 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193209) · `si`
-
-7 people have been killed in a drone attack on Ukraine by Russia.
-
-There are three children among the dead, foreign media reports.
-
-He said that 14 houses have been destroyed due to the attack.
-
-Ukrainian security forces had taken steps to lead the people who were homes with fire.
-
-◼️
-
-[Data](articles/ee9e2972.json)
-
-[Extended Data](ext_articles/ee9e2972.ext.json)
-
----
-
-### Namal Darshan at Ayodhya Rama Temple
-
-*2024-02-10 13:53:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அயோத்தி-ராமர்-கோவிலில்-நாமல்-தரிசனம்/175-332970) · `ta`
-
-Parliamentarian Namal Rajapaksa has visited Uttar Pradesh for two days to visit the Ayodhya Rama Temple.
-
-He was staying in Uttar Pradesh and met Chief Minister Yogi Adityanath and Deputy Chief Minister Brikesh Patek.
-
-Meanwhile, Parliamentarian Namal Rajapaksa thanked his loving hospitality in Uttar Pradesh. Remble
-
-◼️
-
-[Data](articles/4e2fbbdf.json)
-
-[Extended Data](ext_articles/4e2fbbdf.ext.json)
-
----
-
-### Modi article about Indian fishermen in Sri Lankan custody
-
-*2024-02-10 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193208) · `si`
-
-Tamil Nadu Chief Minister MORndi Minister MARM: Tamil Nadu Chief Minister. K Stalin has sent a letter to Indian Prime Minister Narendra Modi.
-
-The Prime Minister of the Indian fishermen has requested the export of Indian fishermen who have been allegedly entered into the waters of Sri Lanka.
-
-He has said that his concern for the inconveniences of his fishing community.
-
-According to foreign media reports, the Tamil Indian fishermen and their boats have risen their arrests and their boats have risen their livelihoods that they have strongly affect their livelihood.
-
-"In 2023, 243 Indian fishermen have been arrested by the Sri Lanka Navy and 37 boats. 88 fishermen and 12 boats have been arrested in 6 cases. Tell your attention on this ... "Tamil Nadu Chief Minister. The foreign media says that K. Stalin stated in his letter.
-
-He further stated that he has previously had to inform the prime minister before the problem of foreign fishing bullets in 2018.
-
-...
-
-[Data](articles/2222acee.json)
-
-[Extended Data](ext_articles/2222acee.ext.json)
-
----
-
-### First is the presidential election
-
-*2024-02-10 13:36:07* · [`adalk`](https://www.ada.lk/breaking_news/මුලින්ම-තියෙන්නේ-ජනපතිවරණයයි/11-407993) · `si`
-
-Former Minister of Sports Roshan Ranasinghe said that the General Election and the Presidential election should be held in July and August.
-
-He was speaking at a sports ceremony held at Polonnaruwa.
-
-"By July, August, the general election and the presidential election should be held .It 's the presidential election .It' s the presidential election.
-
-The country needs investments. It is important to build important investments.
-
-The people of this country have to pay a large electricity bill in Asia.In the Tuwara, you get big commissions.
-
-Daniel, Daniel, cannot be created by a policy of Daniel at night.
-
-To build this country, you need to stop corruption .It can save the country if you stop corruption. "
-
-◼️
-
-[Data](articles/b2e49502.json)
-
-[Extended Data](ext_articles/b2e49502.ext.json)
-
----
-
-### Upcountry trains demands investigation
-
-*2024-02-10 13:27:55* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-පීලි-පනීම-ගැන-පරීක්ෂණයක්-ඉල්ලයි/11-407992) · `si`
-
-Badulla District MP Wadowar Suresh said that the tracks on the Upcountry Railway were often demanded to conduct delayed trains and conducting late trains.
-
-The night mail train, which was traveling from Badulla to Colombo to Colombo, had told him that a group of passengers were inconvenienced due to the delay in Badulla and a slower train.
-
-He said that more than seven trains had taken place during this year alone, he said.
-
-The Railway Control Room stated that the transportation of the Upcountry railway line was recovered from the Kandyan Railway Station yesterday (09), said the Railway Control Room.
-
-The road was blocked by the engineering train from Nawalapitiya to Nanu Oya.
-
-However, transporting services were running from the sides, however.
-
-◼️
-
-[Data](articles/f50ca5d0.json)
-
-[Extended Data](ext_articles/f50ca5d0.ext.json)
-
----
-
-### India’s Adani Group to run three Sri Lankan airports?
-
-*2024-02-10 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97163/indias-adani-group-to-run-three-sri-lankan-airports) · `en`
-
-Adani Group is negotiating with Sri Lankan authorities to manage three airports in the island nation, including its premier international gateway, Bandarnaike International Airport in Colombo.
-
-Sri Lanka’s minister for tourism, land, sports, and youth affairs, Harin Fernando, said on Friday that modalities are being discussed between the two sides and could involve management contracts as well.
-
-Other airports being offered are Ratmalana Airport in Colombo and Mattala Airport, the latter earning the tag of the world’s emptiest international airport seven years ago.
-
-“There are plans to work with Adani Group for the management of airports,” Fernando told businessline on the sidelines of the OTM travel show in Mumbai.
-
-...
-
-[Data](articles/9d3d8d63.json)
-
-[Extended Data](ext_articles/9d3d8d63.ext.json)
 
 ---

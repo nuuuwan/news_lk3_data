@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 03:17:28**
+As of **2024-02-12 03:32:44**
 
 ## Newspaper Stats
 
@@ -26,41 +26,45 @@ dailymirrorlk | 923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,352 (100.0%) of 6,354 articles have been extended.
+6,354 (100.0%) of 6,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### ஜனநாயகமும், தேர்தல்களும் பாகிஸ்தானின் முன்னுதாரணம்
+### Democracy and elections are the paradigm of Pakistan
 
 *2024-02-12 02:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176148) · `ta`
 
-மூன்றாவது வழக்கு சுவாரஷ்யமானது. இம்ரானும், அவரது மனைவியும் இஸ்லாமிய முறைப்படி திருமணம் செய்து கொண்ட விதம் தவறு என்பதால், அவர்கள் சிறையில் அடைக்கப்பட வேண்டும் என்ற கோரிக்கையுடன் தாக்கல் செய்யப்பட்ட வழக்கில், இருவருக்கும் தலா ஏழாண்டு சிறைத்தண்டனை விதிக்கப்பட்டது.
+The third case is interesting. The two were sentenced to seven years in prison in the case of a lawsuit filed by Imran and his wife, because it was wrong for the Islamic man to marry.
 
-மறுபுறத்தில், இம்ரானுக்கு சிறைத்தண்டனை விதித்த நீதிமன்றம் தான், பனாமா பேப்பர்ஸ் ஊழல் விவகாரத்தில் குற்றவாளியாக தீர்க்கப்பட்டிருந்த நவாஸ் ஷெரீப்பின் தண்டனையை நீக்கியது.
+On the other hand, the court, which sentenced Imran to imprisonment, removed the sentence of Nawaz Sharif, who had been convicted of the Panama Papers corruption affair.
 
-நவாஸ் ஷெரீப் ஆயுட்காலம் முழுவதும் அரசியலில் ஈடுபட முடியாது என்பது நீதிமன்றம் விதித்த தண்டனை. இம்ரானை ஆட்சியில் இருந்து கவிழ்த்து விட்டு, ஆட்சிபீடமேறிய பாகிஸ்தான் மக்கள் கட்சி, பாகிஸ்தான் முஸ்லிம் லீக் ஆகிய கட்சிகள் தலைமையிலான கூட்டணி அரசாங்கம், அரசியல் ரீதியாக தகுதிநீக்கம் செய்ய வழிவகுக்கும் சட்டமொன்றை நிறைவேற்றி நீதிமன்றத்தில் வழக்குத் தொடுத்து, நவாஸ் ஷெரீப் மீண்டும் தேர்தலில் போட்டியிடக்கூடிய நிலைமையை ஏற்படுத்தியது.
+Nawaz Sharif cannot be involved in politics throughout the life span. The coalition government led by the Pakistan People's Party and the Pakistan Muslim League, which toppled Imran from the regime, passed a law that would lead to a political disqualification of a politically disqualified law and created a situation where Nawaz Sharif could contest the election.
 
 ◼️
 
 [Data](articles/c8809176.json)
 
+[Extended Data](ext_articles/c8809176.ext.json)
+
 ---
 
-### பலஸ்தீனர்களை பட்டினிச்சாவுக்கு உள்ளாக்கும் மேற்கத்தேய நாடுகள்
+### Western countries that hunger Palestinians
 
 *2024-02-12 02:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/176147) · `ta`
 
-நிதியை நிறுத்தும் நாடுகள் பலஸ்தீனர்களுக்கான அத்தியாவசிய உணவு, நீர், மருத்துவ உதவி மற்றும் மருத்துவப் பொருட்கள், கல்வி மற்றும் பாதுகாப்பு போன்றவற்றை “மேலும் இல்லாதொழிக்கும்" அபாயம் காணப்படுகிறது.
+Countries that stop funding are at risk of “further elimination” of essential food, water, medical aid and medical products, educational and safety for the Palestinians.
 
-ஐ.நா. நிவாரணப் பணிகளுக்கான முகவரகத்தின் ஆணையாளர் நாயகம் பிலிப் லஸ்ஸாரினி இந்நிறுவனத்திற்குள்ளே உள்ள ஒரு சில தனிநபர்கள் மீதான குற்றச்சாட்டுகளின் காரணமாக காஸாவின் முழு மக்களையும் பாதிக்கும் கடுமையான தாக்கங்கள் குறித்து எச்சரித்துள்ளார். “பெருந்தொகையானோர் பசியால் வாடுகின்றனர். நேரமும் நொடிப்பொழுதுகளுமோ அச்சமூட்டும் பஞ்சத்தை நோக்கி நகர்ந்து வருகின்றன." என அவர் வலியுறுத்தினார்.
+The UN. Commissioner General of Relief Services Philip Lassarini has warned of serious impacts on Gaza's entire population due to allegations against a few individuals within the company.. “A large number of people are hungry. Time and moments are moving towards a fearful famine. ”
 
-காஸாவின் சுகாதார அமைச்சின் கூற்றுப்படி, 2023 ஒக்டோபர் 7 ஆம் திகதி தொடக்கம் காஸாவில்; நடந்துவரும் இனப்படுகொலையில் 26,751 பலஸ்தீனர்கள் கொல்லப்பட்டுள்ளனர், மேலும் 65,636 பேர் காயமடைந்துள்ளனர். கொல்லப்பட்ட மற்றும் காயமடைந்தவர்களில் பெரும்பாலோர் பெண்களும் குழந்தைகளுமே என்று பலஸ்தீன மற்றும் சர்வதேச மதிப்பீடுகள் குறிப்பிடுகின்றன.
+According to the Ministry of Health, Gaza, starting on October 7, 2023, in Gaza;26,751 Palestinians were killed in the ongoing genocide, and 65,636 were injured. Palestinian and international estimates indicate that most of the killed and injured are women and children.
 
 ◼️
 
 [Data](articles/a3ac687b.json)
+
+[Extended Data](ext_articles/a3ac687b.ext.json)
 
 ---
 

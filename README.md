@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 18:19:26**
+As of **2024-02-11 18:32:44**
 
 ## Newspaper Stats
 
-*Scraped **6,305** Articles*
+*Scraped **6,311** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,132 @@ economynextcom | 322
 islandlk | 334
 dailyftlk | 342
 newsfirstlk | 363
-adalk | 527
+adalk | 530
 tamilmirrorlk | 768
-virakesarilk | 775
+virakesarilk | 776
 adaderanalk | 780
-adaderanasinhalalk | 866
+adaderanasinhalalk | 868
 dailymirrorlk | 919
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,303 (100.0%) of 6,305 articles have been extended.
+6,305 (99.9%) of 6,311 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### ලොවම කලඹමින් ටිකෙන් ටික සිඳී යන මහ මුහුද
+
+*2024-02-11 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193255) · `si`
+
+කසකස්තානය සහ උස්බෙකිස්තානය අතර පිහිටි අරල් මුහුද මේ වන විට ඉතා සීග්‍රයෙන් සිඳී යමින් පවතින බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+මත්ස්‍යයින්ගෙන් සහ නිල් පැහැති ජලයෙන් පිරී තිබෙන මෙම අරල් මුහුද, ලොව විශාලතම අභ්‍යන්තර ජල මූලාශ්‍රවලින් එකක් ලෙස සැලකෙයි.
+
+කෙසේ වෙතත් මේ වනවිට දේශගුණික විපර්යාස සහ ක්‍රියාත්මක වූ ව්‍යාපෘති හේතුවෙන් අරල් මුහුද, පෙර තිබූ විශාලත්වයෙන් හතරෙන් එකකට වඩා අඩු වී ඇති බව සඳහන් වෙයි.
+
+ප්‍රධාන වශයෙන් අරල් මුහුද සිඳීයාම ආරම්භ වී ඇත්තේ 1960 වසරේ අරල් මුහුද අවට කාන්තාර කලාපය සංවර්ධනය කිරීම අරමුණු කරගත් ජල බෙදීමේ ව්‍යාපෘතියක් හේතුවෙන් බව පැවසෙයි.
+
+අරල් මුහුද නිර්මාණය වී ඇත්තේ ග්ලැසියර දියවීමෙන් ඇතිවූ "Syr Darya" සහ "Amu Darya" නම් ගංගාවල ජලයෙන් බව NASA ආයතනය පවසයි.
+
+1960 දී සෝවියට් සංගමය ප්‍රධාන ජල හැරවුම් ව්‍යාපෘතියක් දියත් කළ අතර එහිදී ඔවුන් වාරි ව්‍යාපෘති සඳහා "Syr Darya" සහ "Amu Darya" නම් ගංගාවල ජලයේ ගමන් මාර්ගය වෙනස් කර ඇත.
+
+එකසත් ජාතීන්ගේ සංවර්ධන වැඩසටහන (UNDP) පවසන්නේ අරල් මුහුදේ සිඳීයාම  “20 වන සියවසේ සිදු වූ භයානකම ව්‍යසනය” ලෙසටය.
+
+...
+
+[Data](articles/30bff53d.json)
+
+---
+
+### வவுனியா வெடுக்குநாறி ஆதி சிவன் ஆலயத்திற்கு பௌத்த குருமாரை இராணுவத்தினரே அழைத்துச் சென்றனர் - வெளிவந்த ஆதாரம்
+
+*2024-02-11 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176120) · `ta`
+
+வவுனியா வெடுக்குநாறி ஆதி சிவன் ஆலயத்திற்கு ஞாயிற்றுக்கிழமை (11) திடீரென விஜயம் செய்த பௌத்த குருமாரை இராணுவத்தினர் தமது உழவு இயந்திரத்தில் ஏற்றி சென்றமை தெரிய வந்துள்ளது.
+
+நீதிமன்ற தீர்ப்பு வரை சென்று தற்போது வழிபாடுகள் இடம் பெற்று வரும் நிலையில் ஞாயிற்றுக்கிழமை (11) பௌத்தகுருமார் உள்ளடங்கிய குழுவினர் வெடுக்குநாறி ஆதி சிவன் ஆலய பகுதிக்குச் சென்றிருந்தனர்.
+
+அங்கு சென்ற பௌத்த குருமார் இது தமது பூர்வீக இடம் என மீண்டும் சர்ச்சையை உருவாக்கியிருந்ததாக தெரியவருகின்றது.
+
+வெடுக்குநாறி ஆதி சிவன் ஆலயம் அமைந்துள்ள பகுதிக்கு இராணுவத்தினர் தனது உழவு இயந்திரத்தில்  குறித்த குழுவினரை அழைத்து சென்றமை தற்போது ஆதாரமாக வெளிவந்துள்ளது.
+
+குருந்தூர் மலை உட்பட பல்வேறு இடங்களிலும் பௌத்த குருமார் இராணுவத்தினர் மூலமாக  செயற்பட்டு வரும் நிலையில் வெடுக்குநாறி ஆலயத்திலும் இராணுவத்தினரை பின்புலத்தில் இருந்து பௌத்த மயமாக்கல் செயற்பாட்டுக்கு ஆதரவு தெரிவித்து வருகின்றமை வெளிப்படுத்தப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/67352e70.json)
+
+---
+
+### අපරාදයකට නිවසකට ඇතුළු වූ සැකකරු අසල්වැසියන්ගේ පහරින් මරුට
+
+*2024-02-11 17:18:16* · [`adalk`](https://www.ada.lk/breaking_news/අපරාදයකට-නිවසකට-ඇතුළු-වූ-සැකකරු-අසල්වැසියන්ගේ-පහරින්-මරුට/11-408014) · `si`
+
+මිනුවන්ගොඩ, යාගොඩමුල්ල ප්‍රදේශයේ නිවසක දේපල කොල්ලකෑමේ හෝ නිවැසි කාන්තාවන්ට අතවර කිරීමේ අරමුණින් නිවසකට ඇතුළු වූ බව කියන කල්ලියක සාමාජිකයකු අසල්වැසි තරුණයකුගේ ප්‍රහාරයකට ලක්ව බරපතළ කැපුම් තුවාල සහිතව නිවස තුළදීම මරණයට පත් වී සගයන් දෙදෙනා පලා ගිය බව කියන සිද්ධියක් පිළිබඳව පරීක්ෂණයක් පවත්වන බව මිනුවන්ගොඩ පොලීසිය පවසයි. අද අලුයම් කාලයේ යාගොඩමුල්ල ප්‍රදේශයේ ව්‍යාපාරිකයකුගේ දෙමහල් නිවසකදී ඇති වූ මෙම සිද්ධියෙන් මරණයට පත්ව ඇත්තේ ඕපාත ප්‍රදේශයේ පදිංචි තරුණයකු බවට හඳුනාගෙන ඇත.
+
+ව්‍යාපාරිකයකු වන ගෙහිමියා තම ව්‍යාපාරික කටයුතු සඳහා දිනපතා අලුයම තුනට හතරට පමණ නිවසින් පිටතට යාම සිරිතක් වී ඇතැයි ද, එසේ පිටව යන සෑම අවස්ථාවක ම අසල්වාසී නිවසක තරුණයකුට ඒ බව දන්වා පිටව යාම ඔහුගේ පුරුද්දක් වී ඇතැයි ද මූලික පොලිස් පරීක්ෂණවලදී හෙළි වී ඇත .
+
+එම නිවස ප්‍රදේශයෙන් බල්ලන් බුරනු තරුණයාට ඇසී නිසා  ව්‍යාපාරිකයාගේ බිරියට දුරකථන ඇමතුමක් ලබා දී තොරතුරු විමසා ඇත. නිවසෙන් පිටත අඩි ශබ්ද කිහිපයක් ඇසෙන බවට ව්‍යාපාරිකයාගේ බිරිය තරුණයා දැනුවත් කර ඇත්තේ ඒ අවස්ථාවේදීය .
+
+...
+
+[Data](articles/77d224c5.json)
+
+---
+
+### ජේෂ්ඨ මහාචාර්ය හිමිට පහරදුන්නැයි දෙදෙනෙකු අත්අඩංගුවට
+
+*2024-02-11 17:11:39* · [`adalk`](https://www.ada.lk/breaking_news/ජේෂ්ඨ-මහාචාර්ය-හිමිට-පහරදුන්නැයි-දෙදෙනෙකු-අත්අඩංගුවට/11-408012) · `si`
+
+පානදුර රන්කොත් විහාරස්ථානයේ විහාරාධිපති මහාචාර්ය කහපොල සුගතරතන හිමියන්ට  පහරදුන් බවට  ලද පැමිණිල්ලක් මත සැකපිට පුද්ගලයන් දෙදෙනෙකු අත්අඩංගුවට ගත්බව පානදුර දකුණ පොලිසිය පවසයි .
+
+විහාරාධිපති හිමියන් කල පැමිණිල්ලක් මත සැකකරුවන් අත්අඩංගුවට ගෙන ඇති බව උසස් පොලිස් නිළධාරීයෙක් පැවසීය .
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ උන්වහන්සේගේ සොහොයුරියකගේ ස්වාමී පුරුෂයා සහ ඔහුගේ පුත්‍රයා බවද පොලිසිය සදහන් කරයි.
+
+නායක හිමියන් වැඩසිටින පානදුර රන්කොත් විහාරස්ථානයට ඊයේ (10) පැමිණි සැකකරුවන් උන්වහන්සේට පහරදීම සිදුකර ඇති බවට පැමිණිල්ලේ සටහන්ව ඇතැයි  පොලිසිය සදහන් කරයි.
+
+පවුලේ පෞද්ගලික ගැටුළුවක් මත දෙපාර්ශවය අතර ආරවුල සිදුව ඇති බව මෙතෙක් කල පරීක්ෂණ වලදී හෙලිව ඇති බව පොලිස් ආරංචි මාර්ග සදහන් කරයි.
+
+විහාරාධිපති හිමියන් ප්‍රතිකාර ලබා පිටව ගොස් ඇති බවත් , අධිකරණ වෛද්‍ය වාර්තාව අනුව ඉදිරි විමර්ශන සිදුකරන බවත් පොලිසිය සදහන් කරයි.
+
+ජේෂ්ඨ පොලිස් අධිකාරී සමන්ත වෙදගේ , සහකාර පොලිස් අධිකාරී නිශාන්ත සේනාරත්න යන මහත්වරුන්ගේ උපදෙස් පරිදි මූලස්ථාන පොලිස් පරීක්ෂක උපුල් ප්‍රියංකර නාවුල්ල මහතාගේ මෙහෙයවීමෙන්  පරීක්ෂණ පවත්වති.
+
+◼️
+
+[Data](articles/fc357711.json)
+
+---
+
+### 19න් පහළ අවසන් සටනේ ඉලක්කය මෙන්න
+
+*2024-02-11 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193254) · `si`
+
+වයස අවුරුදු 19 න් පහළ ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ඔස්ට්‍රේලියාව සහ ඉන්දියාව අතර අවසන් තරගය මේ වනවිට දකුණු අප්‍රිකාවේ Benoni හිදී පැවැත්වෙයි.
+
+එහිදී ප්‍රථමයෙන් පන්දුවට පහරදුන් ඔස්ට්‍රේලියා 19න් පහළ ක්‍රීඩකයෝ පන්දුවාර 50 අවසානයේ කඩුලු 7ක් දැවී ලකුණු 253ක් රැස්කර ගැනීමට සමත්විය.
+
+අගනා පිතිහරඹයක නියැලුණු Harjas Singh පන්දු 64කදී හයේ පහර 3ක් සහ හතරේ පහර 3ක් සමග ලකුණු 55ක් රැස්කරගත්තේය.
+
+නායක Hugh Weibgen ලකුණු 48ක් රැස්කරගත් අතර Harry Dixon ලකුණු 42ක් රැස්කර ගත්තේය.
+
+අවසානයේ කණ්ඩායමේ ලකුණු පුවරුව ඉහළට එසැවීමේ බර කරට ගත් Oliver Peake ආරක්ෂාකාරීව ඉනිමක් ගොඩනැංවීමට සමත්විය.
+
+පන්දු 43කදී ලකුණු 46ක් රැස්කරගත් ඔහුගේ ඉනිමට හයේ පහරක් සහ හතරේ පහර 2ක් ද ඇතුළත් විය.
+
+අගනා පන්දු යැවීමක නිරතවූ Raj Limbani පන්දුවාර 10ක් යොමුකරමින් ඔස්ට්‍රේලියාවේ කඩුලු ක් දවාගැනීමට සමත්විය.
+
+Naman Tiwari කඩුලු ක් දවාගත් අතර Saumy Pandey සහ Musheer Khan එක් කඩුල්ල බැගින් දවාගත්තේය.
+
+◼️
+
+[Data](articles/0a42f265.json)
+
+---
 
 ### Legal action taken against Motor Traffic Department staff for fraudulent vehicle registration
 
@@ -47,6 +157,8 @@ Consequently, the Bribery Commission has seized seven vehicles from the current 
 ◼️
 
 [Data](articles/f6998f28.json)
+
+[Extended Data](ext_articles/f6998f28.ext.json)
 
 ---
 
@@ -187,6 +299,28 @@ The MP said this was not the first diplomatic level invitation to the NPP and ad
 [Data](articles/5b8d3c78.json)
 
 [Extended Data](ext_articles/5b8d3c78.ext.json)
+
+---
+
+### පින්නවල මල්ල පිරෙයි
+
+*2024-02-11 16:07:38* · [`adalk`](https://www.ada.lk/breaking_news/පින්නවල-මල්ල-පිරෙයි/11-408011) · `si`
+
+ජනවාරි පළමුවැනිදා සිට පෙබරවාරි දහය දක්වා කාලයතුල පින්නවල අලි අනාතාගාරය නැරඹීමට පැමිණිගෙන් රුපියල් මිලියන 152ක ආදායක් උපයා ඇති බවත් ඔවුන් සඳහා පහසුකම් රැසක් අලි අනාතාගාරයේ සලසා ඇති බවත් වැඩ බලන අධ්‍යක්ෂක රංජන් මාරසිංහ මහතා පැවසීය.
+
+මේ වනවිට පින්නවල අලි අනාතාගාරය නරඹන්නට පැමිණෙන දෙස් විසේස් සංචාරකයින් සඳහා අලි ඇතුන් නෑවීමට සහ ඔවුන් ජීවත්වන ගාල් පිරිසිදු කිරීමට අවස්ථාව සලසා දී ඇති අතර ආහාර පාන ලබාදීමටද අවස්ථාව සලසා ඇති බව ඒ මහතා පැවසීය.
+
+අලි ඇතුන් සිටින ස්ථාන පිරිසිදු කිරීම යනාදී කාර්යයන් වල නියැලෙන නරඹන්නන්ට වටිනා සහතිකපත්‍රයක් ද නිකුත් කිරීමට කටයුතු කර ඇති බව ඒ මහතා පැවසීය
+
+එමෙන්ම මෙරටට පැමිණෙන සංචාරකයින් හට එරටදීම සත්වෝද්‍යාන ටිකට්පත් ඇනවුම් කලහැකි පහසුකම් එළ‍ඹෙන සති කිහිපයේ සැලසීමට කටයුතු යොදන බවද ඒ මහතා පැවසීය.
+
+මේ  වන විට ‍ප්‍රවේශපත්‍ර නිකුත් කරන ස්ථානයන්හි කාඩ්පත්  ගෙවීම් කිරීමට පහසුව සලසා ඇති බව සඳහන් කළ  වැඩ බලන අධ්‍යක්ෂවරයා අලි ඇතුන් ගැන අධ්‍යනයේ යෙදෙන අයටත් අධ්‍යන පහසුකම් ඇතිබව පැවසීය.
+
+ජනවාරි 1 සිට පෙබරවාරි 8 දක්වා සංචාරකයන් 268,375 ක් පින්නවලට පැමිණ ඇති බවත් ඔහු පැවැසීය.
+
+...
+
+[Data](articles/091cb32e.json)
 
 ---
 
@@ -729,6 +863,8 @@ A blood donation camp, organized under the guidance of Ven. Bellanwila Dhammarat
 ◼️
 
 [Data](articles/6c9b499c.json)
+
+[Extended Data](ext_articles/6c9b499c.ext.json)
 
 ---
 
@@ -1991,131 +2127,5 @@ Other airports being offered are Ratmalana Airport in Colombo and Mattala Airpor
 [Data](articles/3b29958d.json)
 
 [Extended Data](ext_articles/3b29958d.ext.json)
-
----
-
-### ’For me to be back I must contest’: President on Presidential election
-
-*2024-02-10 22:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/For-me-to-be-back-I-must-contest-President-on-Presidential-election/155-276755) · `en`
-
-Feb 10 -  President Ranil Wickremesinghe expressed optimism of contesting the upcoming presidential election that is slated to be held this year.
-
-The President revealed this during an exclusive interview with Indian news channel WION.
-
-President Wickremesinghe, addressing concerns about China’s increased presence in the Indian Ocean region, stated, "....the island nation will not allow anything that would jeopardize India’s security."
-
-The Sri Lankan leader emphasized, “We’ve kept Indian security in mind and we will not allow anything to happen that will be harmful to Indian security, and these are all hydrographical vessels.”
-
-When queried about the Sri Lankan government’s decision to not allow the visits of Chinese vessels, Wickremesinghe, who is in Australia for the 7th Indian Ocean Conference, clarified that the administration decided to say no to ships from any country hydrographic matters as it is focusing on building its own hydrographical capacity.
-
-...
-
-[Data](articles/7e111d3e.json)
-
-[Extended Data](ext_articles/7e111d3e.ext.json)
-
----
-
-### ’For me to be back I must contest’: President on Presidential election
-
-*2024-02-10 22:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/For-me-to-be-back-I-must-contest-President-on-Presidential-election/108-276755) · `en`
-
-Feb 10 -  President Ranil Wickremesinghe expressed optimism of contesting the upcoming presidential election that is slated to be held this year.
-
-The President revealed this during an exclusive interview with Indian news channel WION.
-
-President Wickremesinghe, addressing concerns about China’s increased presence in the Indian Ocean region, stated, "....the island nation will not allow anything that would jeopardize India’s security."
-
-The Sri Lankan leader emphasized, “We’ve kept Indian security in mind and we will not allow anything to happen that will be harmful to Indian security, and these are all hydrographical vessels.”
-
-When queried about the Sri Lankan government’s decision to not allow the visits of Chinese vessels, Wickremesinghe, who is in Australia for the 7th Indian Ocean Conference, clarified that the administration decided to say no to ships from any country hydrographic matters as it is focusing on building its own hydrographical capacity.
-
-...
-
-[Data](articles/fcc9c7b4.json)
-
-[Extended Data](ext_articles/fcc9c7b4.ext.json)
-
----
-
-### Palestinians brace for Rafah assault as Israel promises evacuation plan
-
-*2024-02-10 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97173/palestinians-brace-for-rafah-assault-as-israel-promises-evacuation-plan) · `en`
-
-Israeli air strikes killed 17 people in Gaza’s Rafah overnight, medics said on Saturday, as over a million Palestinians cramming into the border city await a full-blown offensive with the rest of their enclave in ruins and nowhere left to run.
-
-Four months into the war in Gaza, Israeli Prime Minister Benjamin Netanyahu’s office said it has ordered the military to develop a plan to evacuate the population of Rafah and destroy four Hamas battalions it says are deployed there.
-
-Unlike in previous Israeli assaults on cities during the war, when the military ordered civilians to flee south, no other relatively unscathed area remains in tiny Gaza and aid agencies have warned that large numbers of civilians could die.
-
-“Any Israeli incursion in Rafah means massacres, means destruction. People are filling every inch of the city and we have nowhere to go,” said Rezik Salah, 35, who fled his Gaza City home with his wife and two children for Rafah early in the war.
-
-...
-
-[Data](articles/bd3b4a85.json)
-
-[Extended Data](ext_articles/bd3b4a85.ext.json)
-
----
-
-### Police weapon sworn in and shot
-
-*2024-02-10 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193226) · `si`
-
-The driver of the police sergeant was shot dead by the Night patrol.
-
-According to police, the three-wheeler driver who was ridiculed by the Sergeant's Duty Range and the three-wheeler driver had fled the shower.
-
-Police said that the policemen had opened a door of a bank in the area and had stayed to the manager of its manager.
-
-Police have taken steps to inspect a three-wheeler.
-
-The three-wheeler had been in the three-wheeler, a resident of Gampaha, who had been shot dead.
-
-The rank of the sergeant has been grabbed after attempting to carry him to take him to the jeep and tried to take him to the police station.
-
-It is reported that he has been admitted to the Colombo National Hospital for further treatment.
-
-◼️
-
-[Data](articles/76b2001e.json)
-
-[Extended Data](ext_articles/76b2001e.ext.json)
-
----
-
-### Another child injured by fallen tree dies after 5-day battle for life
-
-*2024-02-10 22:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97172/another-child-injured-by-fallen-tree-dies-after-5-day-battle-for-life) · `en`
-
-Another child, who was critically injured after a tree collapsed at an international school in Gampola earlier this week, has died.
-
-He was fighting for life in the National Hospital in Kandy for over 5 days, but eventually succumbed to injuries this morning (Feb.10).
-
-On Monday (Feb.05), a tree collapsed on to three children in the school premises. A five-year-old child was reported dead at the scene and the other two were rushed to the Gampola Base Hosptial for immediate medical attention.
-
-One of them, who was in critical condition, was later transferred to the National Hospital in Kandy.
-
-◼️
-
-[Data](articles/bc7bd52d.json)
-
-[Extended Data](ext_articles/bc7bd52d.ext.json)
-
----
-
-### President tells the President's position on election
-
-*2024-02-10 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193225) · `si`
-
-President Ranil Wickremesinghe says he is ready to compete in the next presidential election.
-
-The President made this observation at an interview with Indian Media Channel in Parath, Australia.
-
-◼️
-
-[Data](articles/096275bc.json)
-
-[Extended Data](ext_articles/096275bc.ext.json)
 
 ---

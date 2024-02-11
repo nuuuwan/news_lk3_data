@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 18:32:44**
+As of **2024-02-11 18:50:25**
 
 ## Newspaper Stats
 
-*Scraped **6,311** Articles*
+*Scraped **6,313** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 76
+colombotelegraphcom | 77
 bbccomsinhala | 87
 dbsjeyarajcom | 146
 economynextcom | 322
@@ -19,126 +19,162 @@ adalk | 530
 tamilmirrorlk | 768
 virakesarilk | 776
 adaderanalk | 780
-adaderanasinhalalk | 868
+adaderanasinhalalk | 869
 dailymirrorlk | 919
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,305 (99.9%) of 6,311 articles have been extended.
+6,311 (100.0%) of 6,313 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
 
-### ලොවම කලඹමින් ටිකෙන් ටික සිඳී යන මහ මුහුද
+### ඇෆ්ගනිස්තානයට ලොකු ඉලක්කයක්
 
-*2024-02-11 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193255) · `si`
+*2024-02-11 18:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193256) · `si`
 
-කසකස්තානය සහ උස්බෙකිස්තානය අතර පිහිටි අරල් මුහුද මේ වන විට ඉතා සීග්‍රයෙන් සිඳී යමින් පවතින බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+දෙවන එක්දින ක්‍රිකට් තරගයේ ප්‍රථමයෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 50 අවසානයේ කඩුලු 6ක් දැවී ලකුණු 308ක් රැස්කරගත්තේය.
 
-මත්ස්‍යයින්ගෙන් සහ නිල් පැහැති ජලයෙන් පිරී තිබෙන මෙම අරල් මුහුද, ලොව විශාලතම අභ්‍යන්තර ජල මූලාශ්‍රවලින් එකක් ලෙස සැලකෙයි.
+එහිදී අගනා ඉනිමක් ක්‍රීඩා කළ චරිත් අසලංක පන්දු 74කදී හයේ පහර 2ක් සහ හතරේ පහර 9ක් සමග ලකුණු 97ක් රැස්කරගත්තේය.
 
-කෙසේ වෙතත් මේ වනවිට දේශගුණික විපර්යාස සහ ක්‍රියාත්මක වූ ව්‍යාපෘති හේතුවෙන් අරල් මුහුද, පෙර තිබූ විශාලත්වයෙන් හතරෙන් එකකට වඩා අඩු වී ඇති බව සඳහන් වෙයි.
+නායක කුසල් මෙන්ඩිස් අගනා ඉනිමක් ක්‍රීඩා කරමින් හයේ පහරක් සහ හතරේ පහරක් සමග ලකුණු 61ක් රැස්කරගැනීමට සමත්විය.
 
-ප්‍රධාන වශයෙන් අරල් මුහුද සිඳීයාම ආරම්භ වී ඇත්තේ 1960 වසරේ අරල් මුහුද අවට කාන්තාර කලාපය සංවර්ධනය කිරීම අරමුණු කරගත් ජල බෙදීමේ ව්‍යාපෘතියක් හේතුවෙන් බව පැවසෙයි.
+සදීර සමරවික්‍රම අගනා ඉනිමක් ක්‍රීඩා කරමින් හතරේ පහර 3ක් සමග ලකුණු 52ක් රැස්කරගත්තේය.
 
-අරල් මුහුද නිර්මාණය වී ඇත්තේ ග්ලැසියර දියවීමෙන් ඇතිවූ "Syr Darya" සහ "Amu Darya" නම් ගංගාවල ජලයෙන් බව NASA ආයතනය පවසයි.
+නවක ක්‍රීඩක ජනිත් ලියනගේ අද තරගයේදී සිය දෙවන එක්දින අර්ධ ශතකය රැස්කිරීම ද විශේෂත්වයකි.
 
-1960 දී සෝවියට් සංගමය ප්‍රධාන ජල හැරවුම් ව්‍යාපෘතියක් දියත් කළ අතර එහිදී ඔවුන් වාරි ව්‍යාපෘති සඳහා "Syr Darya" සහ "Amu Darya" නම් ගංගාවල ජලයේ ගමන් මාර්ගය වෙනස් කර ඇත.
+පසල්හක් ෆරූකි, නූර් අහමඩ්, ක්වයිස් අහමඩ් එක් කඩුල්ල බැගින් දවාගත්තේය.
 
-එකසත් ජාතීන්ගේ සංවර්ධන වැඩසටහන (UNDP) පවසන්නේ අරල් මුහුදේ සිඳීයාම  “20 වන සියවසේ සිදු වූ භයානකම ව්‍යසනය” ලෙසටය.
+◼️
 
-...
-
-[Data](articles/30bff53d.json)
+[Data](articles/a24c5864.json)
 
 ---
 
-### வவுனியா வெடுக்குநாறி ஆதி சிவன் ஆலயத்திற்கு பௌத்த குருமாரை இராணுவத்தினரே அழைத்துச் சென்றனர் - வெளிவந்த ஆதாரம்
+### The Sea of the sea gradually
+
+*2024-02-11 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193255) · `si`
+
+Foreign media reports that the Aralo Sea, between Kazakhstan and Uzbekistan, has been able to accelerate.
+
+Filled with fish and blue water is considered one of the world's largest internal water sources.
+
+However, it is said that due to climatic change and projects, the Aral Sea is less than a quarter of previous size.
+
+It is said that the ridiculous was headed by the end of the 1960 Armal Zone around the 1960 Aral sea.
+
+The Aral Sea is created with the Syr Darya, "Syr Darya" and "Amu Darya" in river.
+
+In 1960, the Soviet Union launched a major disorder project, where they have changed the route of the river "SYR DARYA" and "AmU DARYA" for irrigation projects.
+
+The United Nations Development Program (UNDP) says that the dryer of the Aral Sea is "the most dangerous disaster in the 20th century."
+
+Experts also indicate that the reduction of water capacity of the Aral Sea of Aral Sea is accelerated.
+
+◼️
+
+[Data](articles/30bff53d.json)
+
+[Extended Data](ext_articles/30bff53d.ext.json)
+
+---
+
+### Army took Buddhist clergy to Adi Shiva Temple in Vavuniya
 
 *2024-02-11 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176120) · `ta`
 
-வவுனியா வெடுக்குநாறி ஆதி சிவன் ஆலயத்திற்கு ஞாயிற்றுக்கிழமை (11) திடீரென விஜயம் செய்த பௌத்த குருமாரை இராணுவத்தினர் தமது உழவு இயந்திரத்தில் ஏற்றி சென்றமை தெரிய வந்துள்ளது.
+It has been revealed that the army has transported a Buddhist clergyman to the Adi Shiva Temple in Vavuniya on Sunday (11).
 
-நீதிமன்ற தீர்ப்பு வரை சென்று தற்போது வழிபாடுகள் இடம் பெற்று வரும் நிலையில் ஞாயிற்றுக்கிழமை (11) பௌத்தகுருமார் உள்ளடங்கிய குழுவினர் வெடுக்குநாறி ஆதி சிவன் ஆலய பகுதிக்குச் சென்றிருந்தனர்.
+On Sunday (11), a group of Buddhist Kumar Kumar had visited the Adi Shiva Temple area on Sunday (11).
 
-அங்கு சென்ற பௌத்த குருமார் இது தமது பூர்வீக இடம் என மீண்டும் சர்ச்சையை உருவாக்கியிருந்ததாக தெரியவருகின்றது.
+It is revealed that the Buddhist clergymen who went there had once again created controversy as their native place.
 
-வெடுக்குநாறி ஆதி சிவன் ஆலயம் அமைந்துள்ள பகுதிக்கு இராணுவத்தினர் தனது உழவு இயந்திரத்தில்  குறித்த குழுவினரை அழைத்து சென்றமை தற்போது ஆதாரமாக வெளிவந்துள்ளது.
+It is now revealed that the army took the crew in their plowing machine to the area where the Adi Shiva Temple was located in the Adi Shiva temple.
 
-குருந்தூர் மலை உட்பட பல்வேறு இடங்களிலும் பௌத்த குருமார் இராணுவத்தினர் மூலமாக  செயற்பட்டு வரும் நிலையில் வெடுக்குநாறி ஆலயத்திலும் இராணுவத்தினரை பின்புலத்தில் இருந்து பௌத்த மயமாக்கல் செயற்பாட்டுக்கு ஆதரவு தெரிவித்து வருகின்றமை வெளிப்படுத்தப்பட்டுள்ளது.
+The Buddhist clergy are operating in various parts of the country, including the Gurundur hill.
 
 ◼️
 
 [Data](articles/67352e70.json)
 
+[Extended Data](ext_articles/67352e70.ext.json)
+
 ---
 
-### අපරාදයකට නිවසකට ඇතුළු වූ සැකකරු අසල්වැසියන්ගේ පහරින් මරුට
+### The suspect, who entered a house, killed by neighbors
 
 *2024-02-11 17:18:16* · [`adalk`](https://www.ada.lk/breaking_news/අපරාදයකට-නිවසකට-ඇතුළු-වූ-සැකකරු-අසල්වැසියන්ගේ-පහරින්-මරුට/11-408014) · `si`
 
-මිනුවන්ගොඩ, යාගොඩමුල්ල ප්‍රදේශයේ නිවසක දේපල කොල්ලකෑමේ හෝ නිවැසි කාන්තාවන්ට අතවර කිරීමේ අරමුණින් නිවසකට ඇතුළු වූ බව කියන කල්ලියක සාමාජිකයකු අසල්වැසි තරුණයකුගේ ප්‍රහාරයකට ලක්ව බරපතළ කැපුම් තුවාල සහිතව නිවස තුළදීම මරණයට පත් වී සගයන් දෙදෙනා පලා ගිය බව කියන සිද්ධියක් පිළිබඳව පරීක්ෂණයක් පවත්වන බව මිනුවන්ගොඩ පොලීසිය පවසයි. අද අලුයම් කාලයේ යාගොඩමුල්ල ප්‍රදේශයේ ව්‍යාපාරිකයකුගේ දෙමහල් නිවසකදී ඇති වූ මෙම සිද්ධියෙන් මරණයට පත්ව ඇත්තේ ඕපාත ප්‍රදේශයේ පදිංචි තරුණයකු බවට හඳුනාගෙන ඇත.
+Minuwangoda Police are conducting an investigation into a neighboring youth, who had been killed in a neighboring young man, with serious cuts in a house of the Yagodamulla area in Minuwangoda.. The victim has been identified as a resident of Opatha area during the morning.
 
-ව්‍යාපාරිකයකු වන ගෙහිමියා තම ව්‍යාපාරික කටයුතු සඳහා දිනපතා අලුයම තුනට හතරට පමණ නිවසින් පිටතට යාම සිරිතක් වී ඇතැයි ද, එසේ පිටව යන සෑම අවස්ථාවක ම අසල්වාසී නිවසක තරුණයකුට ඒ බව දන්වා පිටව යාම ඔහුගේ පුරුද්දක් වී ඇතැයි ද මූලික පොලිස් පරීක්ෂණවලදී හෙළි වී ඇත .
+The preliminary police investigations have revealed that his custom had been customary to leave the house to the house for his business daily for his business.
 
-එම නිවස ප්‍රදේශයෙන් බල්ලන් බුරනු තරුණයාට ඇසී නිසා  ව්‍යාපාරිකයාගේ බිරියට දුරකථන ඇමතුමක් ලබා දී තොරතුරු විමසා ඇත. නිවසෙන් පිටත අඩි ශබ්ද කිහිපයක් ඇසෙන බවට ව්‍යාපාරිකයාගේ බිරිය තරුණයා දැනුවත් කර ඇත්තේ ඒ අවස්ථාවේදීය .
+The house asked the dogs bugs from the area because of the businessman's wife and asked for information. It was then that the businessman's wife informed the wife of the business that he could hear some sounds outside the house.
+
+Initial police investigations have revealed that the young man had come to the house to investigate the voice of the youth in a sleeping room after hearing the voice of a sleeping room.Police investigations have revealed that one of the two suspects had fled with cut injuries in the house.
 
 ...
 
 [Data](articles/77d224c5.json)
 
+[Extended Data](ext_articles/77d224c5.ext.json)
+
 ---
 
-### ජේෂ්ඨ මහාචාර්ය හිමිට පහරදුන්නැයි දෙදෙනෙකු අත්අඩංගුවට
+### Two arrested for assaulting senior professor
 
 *2024-02-11 17:11:39* · [`adalk`](https://www.ada.lk/breaking_news/ජේෂ්ඨ-මහාචාර්ය-හිමිට-පහරදුන්නැයි-දෙදෙනෙකු-අත්අඩංගුවට/11-408012) · `si`
 
-පානදුර රන්කොත් විහාරස්ථානයේ විහාරාධිපති මහාචාර්ය කහපොල සුගතරතන හිමියන්ට  පහරදුන් බවට  ලද පැමිණිල්ලක් මත සැකපිට පුද්ගලයන් දෙදෙනෙකු අත්අඩංගුවට ගත්බව පානදුර දකුණ පොලිසිය පවසයි .
+Two persons arrested on suspicion of a complaint lodged with a complaint with a complaint lodged with the chief incumbent of the Viharaya of Panadura Rankedura Viharaya have been arrested.
 
-විහාරාධිපති හිමියන් කල පැමිණිල්ලක් මත සැකකරුවන් අත්අඩංගුවට ගෙන ඇති බව උසස් පොලිස් නිළධාරීයෙක් පැවසීය .
+The suspects have been arrested on a complaint lodged by the Chief Incumbent.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ උන්වහන්සේගේ සොහොයුරියකගේ ස්වාමී පුරුෂයා සහ ඔහුගේ පුත්‍රයා බවද පොලිසිය සදහන් කරයි.
+The police said that his husband and his son was his son and his son.
 
-නායක හිමියන් වැඩසිටින පානදුර රන්කොත් විහාරස්ථානයට ඊයේ (10) පැමිණි සැකකරුවන් උන්වහන්සේට පහරදීම සිදුකර ඇති බවට පැමිණිල්ලේ සටහන්ව ඇතැයි  පොලිසිය සදහන් කරයි.
+The complaint has been assaulted that the suspects had been assaulted by the leader of the Panadura Rankkotha Viharaya yesterday (10).
 
-පවුලේ පෞද්ගලික ගැටුළුවක් මත දෙපාර්ශවය අතර ආරවුල සිදුව ඇති බව මෙතෙක් කල පරීක්ෂණ වලදී හෙලිව ඇති බව පොලිස් ආරංචි මාර්ග සදහන් කරයි.
+According to police sources, the dispute has been caused by the family on a private confrontation of the family.
 
-විහාරාධිපති හිමියන් ප්‍රතිකාර ලබා පිටව ගොස් ඇති බවත් , අධිකරණ වෛද්‍ය වාර්තාව අනුව ඉදිරි විමර්ශන සිදුකරන බවත් පොලිසිය සදහන් කරයි.
+The Chief Incumbent Thera has left the treatment and will be investigated by the Judicial Medical report.
 
-ජේෂ්ඨ පොලිස් අධිකාරී සමන්ත වෙදගේ , සහකාර පොලිස් අධිකාරී නිශාන්ත සේනාරත්න යන මහත්වරුන්ගේ උපදෙස් පරිදි මූලස්ථාන පොලිස් පරීක්ෂක උපුල් ප්‍රියංකර නාවුල්ල මහතාගේ මෙහෙයවීමෙන්  පරීක්ෂණ පවත්වති.
+Police Superintendent of Police Samantha Wedge, Assistant Superintendent of Police Nishantha Senaratne conducting further investigations.
 
 ◼️
 
 [Data](articles/fc357711.json)
 
+[Extended Data](ext_articles/fc357711.ext.json)
+
 ---
 
-### 19න් පහළ අවසන් සටනේ ඉලක්කය මෙන්න
+### Here is the goal of the under 19 final battle
 
 *2024-02-11 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193254) · `si`
 
-වයස අවුරුදු 19 න් පහළ ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ඔස්ට්‍රේලියාව සහ ඉන්දියාව අතර අවසන් තරගය මේ වනවිට දකුණු අප්‍රිකාවේ Benoni හිදී පැවැත්වෙයි.
+The final match between Australia and India in the Under-19 World Cup final will be held at South Africa.
 
-එහිදී ප්‍රථමයෙන් පන්දුවට පහරදුන් ඔස්ට්‍රේලියා 19න් පහළ ක්‍රීඩකයෝ පන්දුවාර 50 අවසානයේ කඩුලු 7ක් දැවී ලකුණු 253ක් රැස්කර ගැනීමට සමත්විය.
+At first, Sri Lankans scored 253 runs for the loss of 7 wickets at the end of 50 overs.
 
-අගනා පිතිහරඹයක නියැලුණු Harjas Singh පන්දු 64කදී හයේ පහර 3ක් සහ හතරේ පහර 3ක් සමග ලකුණු 55ක් රැස්කරගත්තේය.
+Harjas Singh scored 55 runs in 64 balls with three sixes and 3 fours.
 
-නායක Hugh Weibgen ලකුණු 48ක් රැස්කරගත් අතර Harry Dixon ලකුණු 42ක් රැස්කර ගත්තේය.
+Leader Hugh WeIBGEN scored 48 runs while Harry Dixon scored 42 runs.
 
-අවසානයේ කණ්ඩායමේ ලකුණු පුවරුව ඉහළට එසැවීමේ බර කරට ගත් Oliver Peake ආරක්ෂාකාරීව ඉනිමක් ගොඩනැංවීමට සමත්විය.
+At the end, the OLIER PEAKED OLIVER PEAK has been able to build the oliver peake on top of the group scoreboard.
 
-පන්දු 43කදී ලකුණු 46ක් රැස්කරගත් ඔහුගේ ඉනිමට හයේ පහරක් සහ හතරේ පහර 2ක් ද ඇතුළත් විය.
+He scored 46 runs off 43 balls and two fours.
 
-අගනා පන්දු යැවීමක නිරතවූ Raj Limbani පන්දුවාර 10ක් යොමුකරමින් ඔස්ට්‍රේලියාවේ කඩුලු ක් දවාගැනීමට සමත්විය.
+RAJ Limbani, a bowling, took a wicket with Australia.
 
-Naman Tiwari කඩුලු ක් දවාගත් අතර Saumy Pandey සහ Musheer Khan එක් කඩුල්ල බැගින් දවාගත්තේය.
+Naman Tiwari took a wicket with wickets and took one wicket each.
 
 ◼️
 
 [Data](articles/0a42f265.json)
+
+[Extended Data](ext_articles/0a42f265.ext.json)
 
 ---
 
@@ -302,25 +338,33 @@ The MP said this was not the first diplomatic level invitation to the NPP and ad
 
 ---
 
-### පින්නවල මල්ල පිරෙයි
+### Pinnawala is filled
 
 *2024-02-11 16:07:38* · [`adalk`](https://www.ada.lk/breaking_news/පින්නවල-මල්ල-පිරෙයි/11-408011) · `si`
 
-ජනවාරි පළමුවැනිදා සිට පෙබරවාරි දහය දක්වා කාලයතුල පින්නවල අලි අනාතාගාරය නැරඹීමට පැමිණිගෙන් රුපියල් මිලියන 152ක ආදායක් උපයා ඇති බවත් ඔවුන් සඳහා පහසුකම් රැසක් අලි අනාතාගාරයේ සලසා ඇති බවත් වැඩ බලන අධ්‍යක්ෂක රංජන් මාරසිංහ මහතා පැවසීය.
+Acting 152 million rupees from January to February 1st to February, Acting 152 million rupees have been earned.
 
-මේ වනවිට පින්නවල අලි අනාතාගාරය නරඹන්නට පැමිණෙන දෙස් විසේස් සංචාරකයින් සඳහා අලි ඇතුන් නෑවීමට සහ ඔවුන් ජීවත්වන ගාල් පිරිසිදු කිරීමට අවස්ථාව සලසා දී ඇති අතර ආහාර පාන ලබාදීමටද අවස්ථාව සලසා ඇති බව ඒ මහතා පැවසීය.
+He said that the Pinnawala Elephant Elephant Treach has been enacted to clean and clean the parks, "he said.
 
-අලි ඇතුන් සිටින ස්ථාන පිරිසිදු කිරීම යනාදී කාර්යයන් වල නියැලෙන නරඹන්නන්ට වටිනා සහතිකපත්‍රයක් ද නිකුත් කිරීමට කටයුතු කර ඇති බව ඒ මහතා පැවසීය
+He also said that the elephant places involved in the work of cleaning of elephants have also issued a valuable certificate of valuable certificates.
 
-එමෙන්ම මෙරටට පැමිණෙන සංචාරකයින් හට එරටදීම සත්වෝද්‍යාන ටිකට්පත් ඇනවුම් කලහැකි පහසුකම් එළ‍ඹෙන සති කිහිපයේ සැලසීමට කටයුතු යොදන බවද ඒ මහතා පැවසීය.
+He said that the tourist arrivals to Sri Lanka will be able to provide zoo tickets in the next few weeks, he said.
 
-මේ  වන විට ‍ප්‍රවේශපත්‍ර නිකුත් කරන ස්ථානයන්හි කාඩ්පත්  ගෙවීම් කිරීමට පහසුව සලසා ඇති බව සඳහන් කළ  වැඩ බලන අධ්‍යක්ෂවරයා අලි ඇතුන් ගැන අධ්‍යනයේ යෙදෙන අයටත් අධ්‍යන පහසුකම් ඇතිබව පැවසීය.
+The acting director that the acting director has been enacted to make cards in the issuance of ticket issues will also have to study the academic facilities.
 
-ජනවාරි 1 සිට පෙබරවාරි 8 දක්වා සංචාරකයන් 268,375 ක් පින්නවලට පැමිණ ඇති බවත් ඔහු පැවැසීය.
+268,375 tourists have arrived in January 1 to February 8, he said.
 
-...
+Tourists of Russian genocide have come to Sri Lanka in February, 15% of the country.
+
+Indian tourists have arrived in Sri Lanka and 9% have come to the UK.
+
+Sri Lanka is targeting the tourism industry to attract 2.3 million tourists this year, which will generate an estimated 4 billion earnings.
+
+◼️
 
 [Data](articles/091cb32e.json)
+
+[Extended Data](ext_articles/091cb32e.ext.json)
 
 ---
 
@@ -749,6 +793,18 @@ A jacket and a helmet for the crime with the crime have been taken into custody 
 [Data](articles/51d382b7.json)
 
 [Extended Data](ext_articles/51d382b7.ext.json)
+
+---
+
+### Vote To Establish Democracy Instead Of The Same Political Cults At The Next Election
+
+*2024-02-11 12:37:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/vote-to-establish-democracy-instead-of-the-same-political-cults-at-the-next-election/) · `en`
+
+As Sri Lanka prepares for another circus to elect the same set of crooks who managed to skirt the law even after driving the nation over a cliff, it is disconcerting that no one has been prosecuted even for the blatant actions that contributed to the country’s economic downturn. In the midst of economic challenges and accusations of mismanagement, the political elite appears poised for another comeback by strategizing a new set of political maneuvers indifferent to its consequences.
+
+...
+
+[Data](articles/88c3b131.json)
 
 ---
 
@@ -2083,49 +2139,5 @@ The couple was later sentenced to death in 2019 after an inquiry conducted witho
 [Data](articles/206a059b.json)
 
 [Extended Data](ext_articles/206a059b.ext.json)
-
----
-
-### President Ranil visits Sri Lankan Consulate in Western Australia
-
-*2024-02-10 23:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97174/president-ranil-visits-sri-lankan-consulate-in-western-australia-) · `en`
-
-President Ranil Wickremesinghe, currently in Perth, Australia to attend the 7th Indian Ocean Summit, engaged in an inspection visit to the Sri Lankan Consulate in Western Australia today (10).
-
-Upon arrival at the Consulate, President Wickremesinghe was warmly received by Hon. Consul Dr. Rosh Jalagge and Mrs. Priyanka Gamage.
-
-This meeting provided an invaluable opportunity to discuss shared interests between the Consulate and the Sri Lankan community in Western Australia, with a particular focus on advancing economic development initiatives in Sri Lanka.
-
-In recognition of the visit, Hon. Consul Dr. Rosh Jalagge presented memento to President Ranil Wickremesinghe.
-
-The visit concluded with a group photo session involving the President, Consul General, and consulate staff.
-
-The Senior Adviser to the President on National Security and Chief of Presidential Staff, Sagala Ratnayaka, accompanied the President during this visit
-
-◼️
-
-[Data](articles/53e84d4b.json)
-
-[Extended Data](ext_articles/53e84d4b.ext.json)
-
----
-
-### Adani Group may run three Sri Lankan airports ?
-
-*2024-02-10 23:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Adani-Group-may-run-three-Sri-Lankan-airports/108-276758) · `en`
-
-Mumbai, Feb 10 (Businessline) - Adani Group is negotiating with Sri Lankan authorities to manage three airports in the island nation, including its premier international gateway, Bandarnaike International Airport in Colombo.
-
-Sri Lanka’s minister for tourism, land, sports, and youth affairs, Harin Fernando, said on Friday that modalities are being discussed between the two sides and could involve management contracts as well.
-
-Other airports being offered are Ratmalana Airport in Colombo and Mattala Airport, the latter earning the tag of the world’s emptiest international airport seven years ago.
-
-“There are plans to work with Adani Group for the management of airports,” Fernando told businessline on the sidelines of the OTM travel show in Mumbai.
-
-...
-
-[Data](articles/3b29958d.json)
-
-[Extended Data](ext_articles/3b29958d.ext.json)
 
 ---

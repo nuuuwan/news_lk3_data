@@ -1,58 +1,150 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 16:33:09**
+As of **2024-02-11 16:47:54**
 
 ## Newspaper Stats
 
-*Scraped **6,292** Articles*
+*Scraped **6,298** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 76
 bbccomsinhala | 87
 dbsjeyarajcom | 146
-economynextcom | 321
+economynextcom | 322
 islandlk | 334
 dailyftlk | 342
 newsfirstlk | 363
-adalk | 525
+adalk | 527
 tamilmirrorlk | 766
 virakesarilk | 775
-adaderanalk | 777
+adaderanalk | 779
 adaderanasinhalalk | 864
-dailymirrorlk | 916
+dailymirrorlk | 917
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,290 (100.0%) of 6,292 articles have been extended.
+6,292 (99.9%) of 6,298 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
 
-### හික්කඩුවේදී කොටුවූ පාසල් අසළ ජයටම කළ ජාවාරම
+### India’s invitation was in December; differed it due to tight schedule: Vijitha
+
+*2024-02-11 16:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indias-invitation-was-in-December-differed-it-due-to-tight-schedule-Vijitha/108-276770) · `en`
+
+Colombo, Feb. 11 (Daily Mirror)- Claiming that the National Peoples Power's (NPP) visit to India was not sudden, NPP MP Vijitha Herath, who took part in the visit, said the invitation was made last December but was differed to February due to the tight schedule.
+
+He told a news conference that India had invited them for a 10-day visit and that the NPP had to cut it short to five days due to their planned party activities.
+
+"The invitation from India came in December last year for a ten-day visit. But, we had to defer the visit due to our tight schedule and wanted to restrict it to five days," he said.
+
+The MP said this was not the first diplomatic level invitation to the NPP and added that NPP leader Anura Kumara Dissanayake and a delegation visited China in a similar manner.
+
+“The visit to China was not given much publicity as for the Indian visit. I think people may have seen our Indian visit as important due to our previous stance on India,” he said.
+
+...
+
+[Data](articles/5b8d3c78.json)
+
+---
+
+### President’s Fund to support liver transplant and cochlear implant surgeries for children
+
+*2024-02-11 16:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97185/presidents-fund-to-support-liver-transplant-and-cochlear-implant-surgeries-for-children-) · `en`
+
+President Ranil Wickremesinghe has directed financial assistance from the President’s Fund for liver transplant surgeries for young children at the Ragama Teaching Hospital and cochlear implant surgeries at the Sri Jayawardenepura General Hospital.
+
+According to the President’s Media Division (PMD), this decision aims to alleviate the financial burden on impoverished parents and support the welfare of children, recognizing their importance for the nation’s future.
+
+Acknowledging the substantial costs associated with pre and post-tests and treatments for liver transplant surgeries in children under 16 years old at the North Colombo General Hospital (Ragama Teaching Hospital), President Wickremesinghe has approved Rs. 1 million from the President’s Fund for each liver transplant surgery meeting common conditions.
+
+This financial support will be effective from January 1, 2024, aiming to ease the financial strain on families undergoing these critical medical procedures, the PMD stated.
+
+...
+
+[Data](articles/53fb8d72.json)
+
+---
+
+### Police recover motorcycle used in Negombo shooting
+
+*2024-02-11 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97184/police-recover-motorcycle-used-in-negombo-shooting) · `en`
+
+Police have recovered the motorcycle suspected to have been used in the recent shooting incident at Galkanda in Negombo.
+
+According to police, the motorcycle was found abandoned in the Seeduwa area, along with a helmet and a jacket.
+
+At around 07.00 p.m. on Saturday (10 Feb.), two unidentified gunmen had shot and killed a man in the Galkanda Junction, Negombo.
+
+The 60-year-old deceased has been identified as a resident of Kirana, while police further revealed that a 9mm pistol had been used in the shooting.
+
+◼️
+
+[Data](articles/331cbfd4.json)
+
+---
+
+### Ravior to China
 
 *2024-02-11 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193251) · `si`
 
-බාලවයස්කරුවන්ට දුම්වැටි අලෙවි කළ වෙළෙඳසැල් හිමියන් 08 දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Police have arrested eight shop owners who sold cigarettes for minors.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ හික්කඩුව පොලිස් වසමේ ප්‍රධාන පෙළේ පාසල් අසළ වෙළෙඳසැල් පවත්වාගෙන ගිය පුද්ගලයින් 08 දෙනෙකි.
+The arrested were eight persons who operated the marketing schools near the Hikkaduwa Police Division.
 
-උපාය දූතයෙකු යොදවා සිදුකළ විමර්ශනයකට අනුව සැකකාර වෙළෙඳසැල් හිමියන් පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+The suspects have been arrested by the police, according to an investigation conducted by a strategy.
 
-සැකකරුවන්ගේ වෙළෙඳසැල්වල තිබූ දුම්වැටි ද නඩු භාණ්ඩ ලෙස පොලිස් භාරයට ගැනීමට කටයුතු කර තිබේ.
+The suspects were taken into custody as cigarettes and cases in the suspects.
 
-මෙහිදී වැඩිදුරටත් අනාවරණය වී ඇත්තේ පාසල් අසල පවත්වාගෙන යනු ලබන උපකාරක පන්ති සඳහා පැමිණෙන පාසල් දරුවන් වෙත මොවුන් දුම්වැටි අලෙවි කර ඇති බවය.
+They have revealed that they have sold cigarettes to the school children who come to the tuition runs near school.
 
-පාසල් මුල්කර ගනිමින් මව්පියන්ගේ සහ ගුරුවරුන්ගේ සහාය ලබාගනිමින් ආරම්භ කර ඇති 'පවුර' වැඩසටහනට සමගාමීව මෙම වැටලීම සිදුකර තිබේ.
+The raid was carried out in parallel to the 'Pavura' program which was started with the assistance of parents and teachers taking on school.
 
-අත්අඩංගුවට ගත් සැකකාර වෙළෙඳසැල් හිමිකරුවන්ට ගාල්ල මහෙස්ත්‍රාත් අධිකරණය හමුවේ නඩු පවරා ඇත.
+The suspects have been prosecuted before the Galle Magistrate's Court.
 
 ◼️
 
 [Data](articles/8951c335.json)
+
+[Extended Data](ext_articles/8951c335.ext.json)
+
+---
+
+### උගන්ඩා ජාතික ක්‍රිකට් කණ්ඩායම දිවයිනට
+
+*2024-02-11 15:52:48* · [`adalk`](https://www.ada.lk/sports/උගන්ඩා-ජාතික-ක්‍රිකට්-කණ්ඩායම-දිවයිනට/9-408010) · `si`
+
+උගන්ඩා ජාතික ක්‍රිකට් කණ්ඩායම පෞද්ගලික විස්සයි විස්ස පුහුණු තරග සංචාරයක් සදහා 02/10 දින උදෑසන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියහ.
+
+ඔවුන් විස්සයි විස්ස පුහුණු තරග 07 ක් සදහා සහභාගී වීමට නියමිත අතර , ඒ සදහා ශ්‍රී ලංකා ක්‍රිකට් ආයතනය , තම උසස් දක්ෂතා මධ්‍යස්ථානයේ පුහුණව ලබමින් සිටින ශ්‍රී ලංකා සංවර්ධන කණ්ඩායමේ ක්‍රීඩකයින් මෙම තරග සදහා යොමු කිරීමට නියමිතය .
+
+මෙම තරග සියල්ල ගාල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ දී එළඹෙන 02/12 සිට 02/23 දින දක්වා පැවැත්වීමට නියමිතය .
+
+මෙම තරග සදහා ශ්‍රී ලංකා ක්‍රිකට් ආයතනය අවශ්‍ය ක්‍රීඩා පිටි , තරග අවස්ථාවේ ආහාරපාන ද ලබා දීම තීරණය කර තිබේ .
+
+මෙම උගන්ඩා ජාතික ක්‍රිකට් කණ්ඩායමට ක්‍රීඩකයින් 15 දෙනෙකු සහ පුහුණුකරුවන් සහ නිලධාරීන් 05 දෙනෙකු ඇතුළත් වී සිටි අතර ඔවුන් 02/10 දින උදෑසන 08.45 ට දෝහා සිට කටාර් ගුවන් සේවයේ කිව්.ආර්.- 664 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+
+◼️
+
+[Data](articles/d5969863.json)
+
+---
+
+### කෝටි පහක රන් සමග කටුනායක ගුවන්තොටේ පිරිසිදු කිරීමේ සේවිකාවක් අල්ලයි
+
+*2024-02-11 15:41:59* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-පහක-රන්-සමග-කටුනායක-ගුවන්තොටේ-පිරිසිදු-කිරීමේ-සේවිකාවක්-අල්ලයි/11-408009) · `si`
+
+රුපියල් පන් කෝටි අසූ ලක්ෂයක් වටිනා ස්වර්ණාභරණ සහ රත්තරන් ජෙල් තොගයක් , කටුනායක ගුවන් තොටුපොළ පෞද්ගලික පිරිසිදු කිරීමේ ආයතනයක සේවිකාවක විසින් , ගුවන් තොටුපොළෙන් පිට කිරීමට රැගෙන යමින් සිටියදී රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් 02/10 දින පෙරවරුවේ අත් අඩංගුවට ගෙන තිබේ .
+
+ඇය 55 හැවිරිදි වියේ පසු වන වේයන්ගොඩ , මිරිදියලන්ද ප්‍රදේශයේ පදිංචි කාන්තාවකි . පෙරවරුවේ කටුනායක ගුවන් තොටුපොළ තීරු බදු රහිත සාප්පු සංකීර්ණයේ  වැසිකිළියක් තුළ දී මෙම ස්වර්ණාභරණ සහ ජෙල් තොගය අඩංගු පාර්සලය කාන්තාවක විසින් ලබා දී තිබූ අතර , එය ගුවන් තොටුපොළෙන් පිටත සිටින පුද්ගලයෙකු වෙත ලබා දුන් පසු , ඇයට රුපියල් හැට දහසක මුදලක් ලබා දෙන පොරොන්දුව මත තමන් මෙම පාර්සලය රැගෙන ගිය බව  මෙම පිරිසිදු කිරීමේ  සේවිකාව රේගුව හමුවේ ප්‍රකාශ කර තිබේ.
+
+...
+
+[Data](articles/6ad554a4.json)
 
 ---
 
@@ -78,21 +170,23 @@ Special Operations Unit of STF conducts further investigations
 
 ---
 
-### බම්බලපිටියේදී බස් රථ දෙකක් ගැටෙයි
+### Two buses clash in Bambalapitiya
 
 *2024-02-11 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193250) · `si`
 
-බම්බලපිටිය ඩුප්ලිකේෂන් මාර්ගයේ හින්දු විද්‍යාලය ආසන්නයේදී බස් රථ දෙකක් ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+Two buses were reported near Hindu College, Bambalapitiya Duplication Duplication Duplication.
 
-කොළඹ සිට අලුත්ගම බලා ධාවනය වූ බස් රථයක් කොළඹ සිට ගල්කිස්ස දෙසට ධාවනය වූ බස් රථයක පසුපස ගැටී අනතුර සිදුව තිබුණි.
+A bus traveling from Colombo to Aluthgama was on the rear of bus from Colombo to Mount Lavinia.
 
-මාර්ගය අසළ නවතා තිබූ ලොරි රථයක් එක්වරම මාර්ගයට ඇතුළත් කිරීමෙන් අනතුරුව මෙම අනතුර සිදුව ඇති බවට පොලීසිය සැකපළ කරයි.
+Police suspect that the accident had occurred after a lorry that was parked near the road.
 
-අනතුරින් කිසිවෙකුටත් තුවාල සිදුව නොමැති අතර බම්බලපිටිය පොලීසිය අනතුර සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+No one is injured in the accident and the police are conducting further investigations.
 
 ◼️
 
 [Data](articles/445f00e7.json)
+
+[Extended Data](ext_articles/445f00e7.ext.json)
 
 ---
 
@@ -113,6 +207,26 @@ At the same time, the price of a local egg from Monday (12). The All Ceylon Egg 
 [Data](articles/96a91629.json)
 
 [Extended Data](ext_articles/96a91629.ext.json)
+
+---
+
+### Sri Lanka coconut auction prices edge up 1.6-pct at auction
+
+*2024-02-11 14:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-edge-up-1-6-pct-at-auction-150579/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s coconut prices picked up to 69,751 rupees for 1,000 nuts at an auction on February 8, edging up 1.6 percent from 68,634, Coconut Development Board data showed.
+
+The highest price offered was 78,500 rupees and the lowest price was 50,000 rupees.
+
+The auction offered 698,941 coconuts, out of which 612,643 were were sold.
+
+The price of coconut oil ranged from 560,000 rupees to 600,000 rupees per metric tonne.
+
+Coconut shells saw the price ranging from 26,000 rupees to 28,000 rupees a metric tonne. (Colombo/Feb 10/2024)
+
+◼️
+
+[Data](articles/07405f3a.json)
 
 ---
 
@@ -1981,133 +2095,5 @@ The Welfare Board informs that the second phase of the revenue will be called fo
 [Data](articles/b304547e.json)
 
 [Extended Data](ext_articles/b304547e.ext.json)
-
----
-
-### Two killed in separate shootings in Negombo and Puttalam
-
-*2024-02-10 20:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-killed-in-separate-shootings-in-Negombo-and-Puttalam/108-276753) · `en`
-
-Negombo, Feb 10 (Daily Mirror) - Two individuals have been killed in separate shooting incidents this evening, one in Negombo and the other in Puttalam.
-
-In Negombo, a 60-year-old person was fatally shot at Galkanda Junction by two men who arrived on a motorcycle. The suspects fled the scene following the shooting.
-
-Meanwhile, another shooting was reported in the Mahakumbukkadala area of Sembukuliya. The injured man was initially admitted to tge Puttalam Hospital and later transferred to the National Hospital in Colombo for treatment, where he succumbed to his injuries.
-
-Initial investigations revealed that the shooting in Puttalam was over a land dispute.
-
-◼️
-
-[Data](articles/845c222c.json)
-
-[Extended Data](ext_articles/845c222c.ext.json)
-
----
-
-### India’s Unified Payments Interface to be launched on Monday: Ali Sabry
-
-*2024-02-10 20:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indias-Unified-Payments-Interface-to-be-launched-on-Monday-Ali-Sabry/108-276751) · `en`
-
-Perth, Feb. 10 (WION)- India's Unified Payments Interface (UPI) will be launched on 12 February, Foreign Minister Ali Sabry has told the Indian media.
-
-"The UPI payment gateway will be signed. And I think both our leaders will connect online which will help increase tourism," the Minister said speaking to WION diplomatic correspondent Sidhant Sibal in Perth.
-
-"The Minister is in Perth for the Indian Ocean conference. He also pointed to the establishment of Indian IIT in his country. He said, "A delegation from Sri Lanka has gone to IIT Madras and they are discussing this possibility of establishing an IIT campus in Sri Lanka," the WION reported.
-
-◼️
-
-[Data](articles/17045ad0.json)
-
-[Extended Data](ext_articles/17045ad0.ext.json)
-
----
-
-### India’s Unified Payments Interface to be launched on Monday: Ali Sabry
-
-*2024-02-10 20:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Indias-Unified-Payments-Interface-to-be-launched-on-Monday-Ali-Sabry/155-276751) · `en`
-
-Perth, Feb. 10 (WION)- India's Unified Payments Interface (UPI) will be launched on 12 February, Foreign Minister Ali Sabry has told the Indian media.
-
-"The UPI payment gateway will be signed. And I think both our leaders will connect online which will help increase tourism," the Minister said speaking to WION diplomatic correspondent Sidhant Sibal in Perth.
-
-"The Minister is in Perth for the Indian Ocean conference. He also pointed to the establishment of Indian IIT in his country. He said, "A delegation from Sri Lanka has gone to IIT Madras and they are discussing this possibility of establishing an IIT campus in Sri Lanka," the WION reported.
-
-◼️
-
-[Data](articles/edd9465d.json)
-
-[Extended Data](ext_articles/edd9465d.ext.json)
-
----
-
-### ‘We need international support to achieve desired transformation’: Anura Kumara
-
-*2024-02-10 20:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/We-need-international-support-to-achieve-desired-transformation-Anura-Kumara/108-276749) · `en`
-
-Katunayake, Feb. 10 (DEaily Mirror)- Claiming that Sri Lanka can no longer function as an isolated country, NPP leader Anura Kumara Dissanayake said today their intention is to strengthen diplomatic ties to garner international support to achieve the desired transformation in the country.
-
-Speaking to the media at the Bandaranaike International Airport (BIA) on his return from India, he said India is an emerging country in the region and country expertise in the IT sector and that Sri Lanka can obtain support from them.
-
-"We must stop the destructive political culture of 76-years. People have high expectations and are awakening to make that transformation. Our intention is to give leadership to this expectation and awakening to make a transformation in the country. We need international support for that transformation. We are not a developed country or a country with modern technology.
-
-...
-
-[Data](articles/cf94bf05.json)
-
-[Extended Data](ext_articles/cf94bf05.ext.json)
-
----
-
-### There are many information about the murder of the father
-
-*2024-02-10 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193222) · `si`
-
-A 38-year-old influx in the Mulleriyawaya, Wakanda area has been cut off this morning.
-
-The police have not yet been revealed that the murder was done so far.
-
-However, Mulleriyawa police have arrested the father of the victim in the afternoon.
-
-His father has conversed that the murder had committed the murder with his first wife on the 14th of his son.
-
-The suspect has said that after consuming the Son last night, the Son had cut his garden with a knife.
-
-The deceased has lived with his second wife and later set up a relationship with a bus conductor of Balangoda and left his 10-year-old daughter and abroad with him.
-
-The man was then done to bring about various larifies to bring her back.
-
-In the meantime, his father had taken his father to his home and taken care of his father.
-
-However, he had been able to live his second wife, the police said.
-
-As a result, the house in the Wekanda area in Mulleriyawa has been repaired recently.
-
-...
-
-[Data](articles/74cc1bb0.json)
-
-[Extended Data](ext_articles/74cc1bb0.ext.json)
-
----
-
-### Devotees invading the temple of Sita Amman
-
-*2024-02-10 20:26:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-சீதை-அம்மன்-கோயிலுக்கு-படையெடுக்கும்-பக்தர்கள்/175-332973) · `ta`
-
-Indian media reports that pilgrims' attendance has increased at the Sita Amman Temple in Sri Lanka after the opening of the Rama Temple in Ayodhya.
-
-When Rama, Seethi and Lakshmana went to the Ramayana, Ravana, the Sri Lankan king, who attracted Sita, imprisoned Sita in the Ashoka forest in Sri Lanka.
-
-Asokavanam, who was Sita, is now known as 'Sita Eliya' in Sri Lanka. 5 km from Nuwara Eliya in Sri Lanka. The "Sita Eliya" is located in the distance.
-
-The area is a forest, river and mountains, and is a place where it is natural and can attract tourists worldwide.. There is a famous Sita Amman Temple, which is the founder of Sita.
-
-Since Sita was swimming in the river running near the temple, it was named Sita River. The statue is located on the banks of the river, like Anumar, who was looking for Sita in Sri Lanka, first met Sita.
-
-...
-
-[Data](articles/3afae233.json)
-
-[Extended Data](ext_articles/3afae233.ext.json)
 
 ---

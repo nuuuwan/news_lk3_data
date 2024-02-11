@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 10:17:34**
+As of **2024-02-11 10:33:00**
 
 ## Newspaper Stats
 
@@ -26,43 +26,47 @@ dailymirrorlk | 908
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,244 (100.0%) of 6,246 articles have been extended.
+6,246 (100.0%) of 6,246 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
 
-### 19න් පහළ ලෝක කුසලානයේ අවසන් මහා තරගය අද
+### World Cup final today
 
 *2024-02-11 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193240) · `si`
 
-19න් පහළ ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අවසන් මහා තරගය අද (11) පැවැත්වීමට නියමිත ව තිබේ.
+The finals of the Under-19 World Cup will be held today (11).
 
 ◼️
 
 [Data](articles/2fbe7a24.json)
 
+[Extended Data](ext_articles/2fbe7a24.ext.json)
+
 ---
 
-### යූ.පී.අයි ගෙවීම් පද්ධතිය හෙට ශ්‍රී ලංකාවටත්
+### UPI payment system to Sri Lanka tomorrow
 
 *2024-02-11 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193239) · `si`
 
-ඉන්දියාවේ ඒකාබද්ධ ගෙවීම් ක්‍රියාවලිය හෙවත් යූ.පී.අයි ගෙවීම් පද්ධතිය හෙට (12) සිට ශ්‍රී ලංකාවට හඳුන්වා දෙන බව විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලිසබ්රි මහතා පවසයි.
+External Affairs Minister Alison, the President's Counsel Elazabri, is introduced to Sri Lanka from tomorrow (12) to Sri Lanka from tomorrow.
 
-අමාත්‍යවරයා පෙන්වා දෙන්නේ, ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා සහ මෙරට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මාර්ගගත ක්‍රමය ඔස්සේ අදාළ පද්ධතිය කොළඹ දී එළිදැක්වීමට නියමිත බව ය.
+The Minister pointed out that Indian Prime Minister Narendra Modi and President of Sri Lanka is to be released on the online system in Colombo.
 
-ඔස්ට්‍රේලියාවේ පර්ත් නුවර දී ඉන්දීය මාධ්‍ය නාලිකාවක් සමග පැවති සම්මුඛ සාකච්ඡාවකට එක්වෙමින් විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලිසබ්‍රි මහතා මේ බව සඳහන් කර තිබේ.
+Minister of External Affairs, Attorney Minister Essebri, addressing a meeting with an Indian Media Channel in Parath, Australia was interviewed with Indian Media Channel.
 
-යූ.පී.අයි ලෙස හැඳින්වෙන ඉන්දියානු ඒකාබද්ධ ගෙවීම් ක්‍රියාවලිය 2016 වර්ෂයේ දී ඉන්දියානු ජාතික ගෙවීම් සංස්ථාව විසින් ක්ෂණික ගෙවීම් පද්ධතියක් ලෙස හඳුන්වා දෙනු ලැබීය.
+The Indian Joint Payment Procedure, known as the UPI, was introduced as an immediate payment system by the Indian National Payment Corporation in 2016.
 
-මෙම ගෙවීම් පද්ධතිය ජංගම දුරකථන මාර්ගයෙන්, අන්තර් බැංකු සහ පුද්ගල වෙළෙඳාම් ගනුදෙනු සඳහා පහසුකම සපයනු ලබයි.
+This payment system is provided with the mobile phone, inter-bank and personal trading transactions.
 
-මෙමගින් ශ්‍රී ලංකාවේ සංචාරක ව්‍යාපාරය වැඩිදියුණු කිරීමට හැකි වනු ඇති බව විදේශ කටයුතු අමාත්‍ය නීතිඥ අලිසබ්‍රි මහතා වැඩිදුරටත් සඳහන් කළේ ය.
+Minister of External Affairs Alison added that this will improve the tourism industry in Sri Lanka.
 
 ◼️
 
 [Data](articles/4f7af349.json)
+
+[Extended Data](ext_articles/4f7af349.ext.json)
 
 ---
 

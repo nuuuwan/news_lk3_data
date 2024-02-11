@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 01:02:29**
+As of **2024-02-12 01:17:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,344 (100.0%) of 6,345 articles have been extended.
+6,345 (100.0%) of 6,345 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Social market economy, or in other words ordoliberalism, is not a new ideal for 
 ...
 
 [Data](articles/8ad682b2.json)
+
+[Extended Data](ext_articles/8ad682b2.ext.json)
 
 ---
 

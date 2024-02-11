@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 12:02:27**
+As of **2024-02-11 12:17:19**
 
 ## Newspaper Stats
 
-*Scraped **6,257** Articles*
+*Scraped **6,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ economynextcom | 321
 islandlk | 333
 dailyftlk | 342
 newsfirstlk | 363
-adalk | 517
+adalk | 522
 tamilmirrorlk | 760
 adaderanalk | 774
 virakesarilk | 775
@@ -26,7 +26,7 @@ dailymirrorlk | 909
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,257 (100.0%) of 6,257 articles have been extended.
+6,257 (99.9%) of 6,262 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -160,6 +160,64 @@ The Minister also stated that he was proud of the meeting of the Theatermatesh D
 
 ---
 
+### Adani Group Administration of three airports in Sri Lanka?
+
+*2024-02-11 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176073) · `ta`
+
+The Sri Lankan government has held talks with the Adani Group to manage three airports in Sri Lanka, including the Bandaranaike International Airport in Colombo.
+
+Minister Harinbernando said this.
+
+Harinbernando said there are negotiations on the merger of Adani Group at the camp at the management of these airports.
+
+Sri Lanka has been investigating the provision of the administration of airports to the private sector as Sri Lanka's tourism industry is again growth.
+
+As a result, Sri Lanka expects that the private sector will help to expand resources and make travelers' experiences better.
+
+If these talks succeed, Adani Group will have the first opportunity to manage airports abroad.
+
+◼️
+
+[Data](articles/1cb82fb7.json)
+
+[Extended Data](ext_articles/1cb82fb7.ext.json)
+
+---
+
+### ජනතාව තීරණාත්මක අවස්ථාවක
+
+*2024-02-11 10:38:39* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාව-තීරණාත්මක-අවස්ථාවක/11-408005) · `si`
+
+අද වනවිට රටේ ජනතාව තීරණාත්මක අවස්ථාවක සිටින බවත් මෙම තත්ත්වයට විසදුම් ලබා දීම පිනිස මේ වසරේදී පැවැත්වෙන ජනාධිපතිවරණයෙන් ජය ගැනීම සඳහා එක්සත් ජාතික පක්ෂය සූදානම් වෙමින් සිටින බවත් එම පක්ෂයේ නියෝජ්‍ය නායක රුවන් විජයවර්ධන මහතා ගම්පහදී පැවසීය.
+
+එක්සත් ජාතික පක්ෂයේ ගම්පහ දිස්ත්‍රික් සම්මේලනය , ගම්පහ ආසන සංවිධායක වරුණ රාජපක්ෂ මහතාගේ සංවිධානත්වයෙන්  නගර සභා යක්කල උප කාර්යාලයීය ශ්‍රවණාගාරයේදී පැවැති අවස්ථාවේදී නියෝජ්‍ය නායකවරයා මේ බව සදහන් කළේය.
+
+මෙම අවස්ථාවේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා , ඉදිරි මැතිවරණයේදී පොදු අපේක්ෂකයා වශයෙන් ඉදිරිපත් වියයුතු බවට ඉදිරිපත් කරනලද යෝජනාවක් ඒකමතිකව සම්මත කර ගැණින.
+
+" මෙම වසර මැතිවරණ වසරක් වශයෙන් හැදින්විය හැකියි. ඔක්තෝබර් මාසය වනවිට ජනාධිපතිවරණයටත් ඉන් පසුව පාර්ලිමේන්තු මැතිවරණයට සහ පළාත් සභා මැතිවරණයටත් මුහුණ දීමට සිදු විය හැකි බැවින් අපි ඊට සූදානම් වීමට අවශ්‍යයි. මේක තීරණාත්මක වසරක් ලෙස අපි සලකන්නේ මේ රටේ අනාගතය තීරණය කිරීමක් ලෙසයි.
+
+...
+
+[Data](articles/e0399d56.json)
+
+---
+
+### ශ්‍රී පාද වන්දනාවට ලක්ෂයකට ආසන්න වන්දනාකරුවන් පැමිණෙයි
+
+*2024-02-11 10:33:08* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-පාද-වන්දනාවට-ලක්ෂයකට-ආසන්න-වන්දනාකරුවන්-පැමිණෙයි/11-408004) · `si`
+
+මෙවර සති අන්ත නිවාඩුවට නල්ලතන්නිය-ශ්‍රීපාද මාර්ගයෙන් ශ්‍රීපාදස්ථානය බලා ලක්ෂයකට ආසන්න වන්දනාකරුවන් පිරිසක් පැමිණි බව නල්ලතන්නිය පොලිස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ශාන්ත විජේසේකර මහතා පැවසීය.
+
+සිකුරාදා (09) පස්වරුවේ සිට අධික වන්දනාකරුවන් පිරිසක් පැමිණීමත් සමග නල්ලතන්නිය-ශ්‍රීපාද මාර්ගයේ ශ්‍රීපාද මළුවේ සිට රතු අම්ඹලම ප්‍රදේශය දක්වා දැඩි තදබදයක් පැවති බවත්, තමන්ට පැය ගණනක් එකම ස්ථානයක රැඳී සිටීමට සිදුවුණ බවත් වන්දනාකරුවෝ පැවසූහ.
+
+වන්දනාකරුවන් රැගෙන පැමිණි බස් හා වෑන් රථ ගාල් කිරීමට නල්ලතන්නිය නඟරයේ පිහිටි  ප්‍රාදේශිය සභාවේ හා පෞද්ගලික රථ ගාල් ප්‍රමාණවත් නොවීම හේතුවෙන් නල්ලතන්නිය-මස්කෙළිය ප්‍රධාන මාර්ගයේ කිලෝ මීටර් 04 ක් පමණ දුරට ලක්ෂපාන ප්‍රදේශය දක්වා මාර්ගය දෙපස බස් රථ ගාල් කර තිබූණි.
+
+◼️
+
+[Data](articles/b0de406e.json)
+
+---
+
 ### Janasa's goodwill
 
 *2024-02-11 10:22:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரம்-விழுந்து-மரணமான-சிறுவனின்-ஜனாஸா-நல்லடக்கம்/76-332999) · `ta`
@@ -180,27 +238,35 @@ Three boys were injured and admitted to the hospital when a large tree near the 
 
 ---
 
-### Adani Group Administration of three airports in Sri Lanka?
+### බලපත්‍ර නොමැතිව ඩ්‍රෝන කැමරා යවා වැඩ වරදා ගනියි
 
-*2024-02-11 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176073) · `ta`
+*2024-02-11 10:15:05* · [`adalk`](https://www.ada.lk/breaking_news/බලපත්‍ර-නොමැතිව-ඩ්‍රෝන-කැමරා-යවා-වැඩ-වරදා-ගනියි/11-408003) · `si`
 
-The Sri Lankan government has held talks with the Adani Group to manage three airports in Sri Lanka, including the Bandaranaike International Airport in Colombo.
+බල පත්‍ර නොමැතිව ඩ්‍රෝන කැමරාවක් ගුවන් ගත කළ පුද්ගලයෙකු එම කැමරාවද සමග යාපනය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ. තෙලිප්පේ පොලිස් වසමේ දුර්ගා අම්මාන් කොවිල අසළදි තෙලිප්පේ පොලිස් ස්ථානයෙ නිලධාරීන්ට ලද තොරතුරක් අනුව මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබේ.
 
-Minister Harinbernando said this.
-
-Harinbernando said there are negotiations on the merger of Adani Group at the camp at the management of these airports.
-
-Sri Lanka has been investigating the provision of the administration of airports to the private sector as Sri Lanka's tourism industry is again growth.
-
-As a result, Sri Lanka expects that the private sector will help to expand resources and make travelers' experiences better.
-
-If these talks succeed, Adani Group will have the first opportunity to manage airports abroad.
+අත්අඩංගුවට ගත් සැකකරු අවුරුදු 33ක් වන දුර්ගාපුරම් තෙලිප්පේපේ පදිංචිකරුවෙකි. තෙලිප්පේ පොලීසිය වැඩිදුරටත් පරීක්ෂණ පවත්වයි
 
 ◼️
 
-[Data](articles/1cb82fb7.json)
+[Data](articles/cc52343f.json)
 
-[Extended Data](ext_articles/1cb82fb7.ext.json)
+---
+
+### බූස්සෙන් ජංගම දුරකථන සහ උපාංග සොයා ගනී
+
+*2024-02-11 10:14:43* · [`adalk`](https://www.ada.lk/breaking_news/බූස්සෙන්-ජංගම-දුරකථන-සහ-උපාංග-සොයා-ගනී/11-408002) · `si`
+
+බූස්ස අධි ආරක්ෂිත බන්ධනාගාරයේ ඒ හා ඩි වාට්ටු වල පොලව හාරා සූක්ෂම ලෙස  ජංගම දුරකථන ඇතුළු උපාංග රැසක් සොයා ගැනීමට හැකි වූ බව පොලිස් විශේෂ කාර්ය බලකාය කියයි
+
+ස්මාර්ට් ජංගම දුරකථන 01 ක්, කුඩා ප්‍රමානයේ ජංගම දුරකථන 02 ක්, සිම්පත් 04 ක්, මෙමරි චිප් 01 ක්, පිටත ආවරණ ඉවත් කරන ලද දුරකථන චාජර් 02 ක්, ඩේටා කේබල් 02 ක් හා හෑන්ඩ් ෆ්‍රී 01 ක්  එහි තිබී සොයාගෙන ඇත
+
+වැඩිදුර විමර්ශන කටයුතු සඳහා දෙවන පෙළ ජේලර් ගිම්හාන, බන්ධනාගාර නියාමක මෙන්ඩිස් හා බන්ධනාගාර නියාමක ජයසුන්දර මහත්වරුන් වෙත භාර දී ඇත.
+
+විශේෂ කාර්ය බලකාය අණදෙන නිලධාරී ජේෂ්ඨ නියෝජ්‍ය පොලිස්පති නීතීඥ වරුණ ජයසුන්දර මහතාගේ නියෝග හා උපදෙස් පරිදි හම්බන්තොට කලාපය බාර ජේෂ්ඨ පොලිස් අධිකාරී නිශාන්ත සිල්වා මහතාගේ මෙහෙයවීම මත, සහකාර පොලිස් අධිකාරී කුමාර කුලරත්න මහතාගේ අධීක්ෂණයෙන් විශේෂ කාර්ය බලකාය බූස්ස අධි ආරක්ෂිත බන්ධනාගාර කඳවුරේ කඳවුර අණදෙන නිලධාරී ප්‍රධාන පොලිස් පරීක්ෂක ආර්.බඩ්.වී. නිමල් ඇතුළු නිලධාරීන් කණ්ඩායමක් විසින් වැටලීම  සිදු කර ඇත
+
+◼️
+
+[Data](articles/e558e9c0.json)
 
 ---
 
@@ -653,6 +719,24 @@ The President left Katunayake Airport for Perth, Australia on February 8.
 [Data](articles/403fe1f1.json)
 
 [Extended Data](ext_articles/403fe1f1.ext.json)
+
+---
+
+### සෙම්බුකුලියෙ ඉඩම් ආරවුල කට පුංචාගෙන් කෙළවර වෙයි
+
+*2024-02-11 07:29:02* · [`adalk`](https://www.ada.lk/breaking_news/සෙම්බුකුලියෙ-ඉඩම්-ආරවුල-කට-පුංචාගෙන්-කෙළවර-වෙයි/11-408001) · `si`
+
+කලක පටන් පැවති ඉඩම් ආරවුලක් හේතුවෙන් මහකුඹුක්කඩවල සෙම්බුකුලිය ප්‍රදේශයෙ 10 දින සවස සිදුවු වෙඩි තැබිමකින් තිදරු පියකු බරපතල තුවාල ලබා පුත්තලම මූලික රෝහලට ඇතුලත් කිරීමේන් පසු මරණටය පත්ව ඇති බව මහකුඹුක්කඩවල පොලිසිය කියයි.
+
+වෙඩි වැදිමට ලක්ව මරණයට පත්ව ඇත්තේ මහකුඹුක්කඩවල සෙම්බුකුලිය ප්‍රදේශයෙ ඉඩම් හිමි වැවිලිකරුවකු වන  තිදරු පියකු වු 56 හැවිරිදි අධිකාරි මුදියන්සේලාගේ මැණික්රාල අධිකාරි නැමති අයකු බව කියයි.
+
+වෙඩි තැබිමට සම්බන්ධ අය වෙඩි වැදිමට ලක්ව මරණයට පත් ඉඩම් හිමි වැවිලිකරු සමග වසර තුනක පමන කාලයක සිට ඉඩම් ආරවුලක් තිබි ඇති බවත් එය වසර දෙකකට පෙර මහකුඹුක්කඩවල පොලිසිය ආරම්භ කිරීමට පෙර ආණමඩුව පොලිසියට පැමිනිලි කර තිබු බවද කියයි.
+
+ආණමඩුව පොලිසිය මෙය මහකුඹුක්කඩවල ප්‍රාදේශීය ලේකම් කාර්යාලයට යොමු කර තිබුනද එහිදි තමන්ට නිසි සාධාරණයක් සිදුව නොතිබිම හේතුවෙන් මෙම වෙඩි තැබිම කල 43 හැවිරිදි අවිවාහක  පුද්ගලයා මහකුඹුක්කඩවල පොලිසිය මගින් අත් අඩංගුවට ගැනිමේන් පසු පාපොච්චාරණය කර තිබේ.
+
+...
+
+[Data](articles/9339f272.json)
 
 ---
 
@@ -1987,119 +2071,5 @@ The deceased has been identified as a five-year-old resident of Gampola.
 [Data](articles/4661b09a.json)
 
 [Extended Data](ext_articles/4661b09a.ext.json)
-
----
-
-### India has saved - we will always keep in mind the security of India - Ranil in an interview with the Indian media
-
-*2024-02-10 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/176049) · `ta`
-
-Sri Lankan President Ranil Wickremesinghe thanked India for the support of India
-
-He said this in an interview with the Indian media. If India is not India, we will not escape. This is why we are focusing on strengthening relations between the two countries, ”the President said.
-
-Question - My First Question How do you see Indian Sri Lankan relations? What is your vision of these relationships?
-
-Answer -In fact, India's Sri Lankan relations are progressing. We are trying to establish close ties between the two countries. We are trying to increase the connections between the two countries.
-
-Question: How do you see India's help for your country in Sri Lanka, which has come forward with the help of $ 4 billion while the Sri Lankan economic crisis?
-
-Answer-We are grateful to India. We will not flee if India is not India. This is why we are focusing on the close relationship between the two countries.
-
-...
-
-[Data](articles/c0fef154.json)
-
-[Extended Data](ext_articles/c0fef154.ext.json)
-
----
-
-### Imran Khan gets bail in 12 cases involving attacks on military installations
-
-*2024-02-10 16:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97167/imran-khan-gets-bail-in-12-cases-involving-attacks-on-military-installations) · `en`
-
-Imprisoned former prime minister of Pakistan Imran Khan was granted bail on Saturday by an anti-terrorism court (ATC) in relation to 12 cases involving the attacks on military installations on May 9.
-
-Pakistan Tehreek-e-Insaf (PTI) party founder Khan was granted bail by ATC Judge Malik Ejaz Asif after he paid a surety bond of Rs 0.1 million in all 12 cases, including the attack on the Army Museum and General Headquarters (Pakistan Army), according to The Express Tribune Pakistan.
-
-The court ruled that since all of the accused in the cases from May 9 were free on bond, there was no reason to keep Khan, 71, under arrest.
-
-Khan will stay behind bars since he is found guilty in numerous other cases.
-
-The court’s order came a day after independents backed by Khan’s party won nearly 100 seats in the National Assembly.
-
-Former foreign minister Shah Mahmood Qureshi was also granted bail in 13 cases in the same case. Khan and PTI stalwart Qureshi were indicted in the cases on February 6.
-
-...
-
-[Data](articles/aa6f26bb.json)
-
-[Extended Data](ext_articles/aa6f26bb.ext.json)
-
----
-
-### PUCSL will announce tariff revisions after February 15: Kanchana
-
-*2024-02-10 16:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/PUCSL-will-announce-tariff-revisions-after-February-15-Kanchana/108-276742) · `en`
-
-Colombo, Feb 10 (Daily Mirror) - The Public Utilities Commission of Sri Lanka (PUCSL) will decide the date of the announcement for the next electricity tariff revision, Power and Energy Minister Kanchana Wijesekera said.
-
-Addressing the media today, he said that, as the minister, he cannot make any decisions on electricity tariff revisions. He can only send proposals to them.
-
-"We can send the proposal to the PUCSL, and they will decide on the collection of public opinions. According to their rules, public opinion should be collected within 21 days. For that, the PUCSL has published an announcement to finish collecting public opinion on February 15," he said.
-
-After February 15, the PUCSL will decide the date of the next electricity tariff revision.
-
-"There will be another tariff revision in April, and we must give the proposal to PUCSL in March," Wijesekera added.
-
-...
-
-[Data](articles/58335a68.json)
-
-[Extended Data](ext_articles/58335a68.ext.json)
-
----
-
-### PUCSL will announce tariff revisions after February15: Kanchana
-
-*2024-02-10 16:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/PUCSL-will-announce-tariff-revisions-after-February15-Kanchana/108-276742) · `en`
-
-Colombo, Feb 10 (Daily Mirror) - The Public Utilities Commission of Sri Lanka (PUCSL) will decide the date of the announcement for the next electricity tariff revision, Power and Energy Minister Kanchana Wijesekera said.
-
-Addressing the media today, he said that, as the minister, he cannot make any decisions on electricity tariff revisions. He can only send proposals to them.
-
-"We can send the proposal to the PUCSL, and they will decide on the collection of public opinions. According to their rules, public opinion should be collected within 21 days. For that, the PUCSL has published an announcement to finish collecting public opinion on February 15," he said.
-
-After February 15, the PUCSL will decide the date of the next electricity tariff revision.
-
-"There will be another tariff revision in April, and we must give the proposal to PUCSL in March," Wijesekera added.
-
-...
-
-[Data](articles/abefa795.json)
-
-[Extended Data](ext_articles/abefa795.ext.json)
-
----
-
-### Yall. The news published by Douglas about the concert
-
-*2024-02-10 16:34:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-இசை-நிகழ்ச்சி-குறித்து-டக்ளஸ்-வெளியிட்ட-செய்தி/175-332971) · `ta`
-
-Minister Dales Devananda said that the unpleasant incidents in the concert, led by South Indian singer Harikaran, said that such incidents would continue to suffer our people and became an opportunity for selfishness.
-
-Yall. In response to a question asked by a journalist regarding the chaos at the South Indian screens attended by yesterday.
-
-While we are looking for investments of our diaspora relations to improve the livelihood and life of our people, such inconveniences will be a recession for our welfare of the people's welfare at an event organized by a diaspora investor.
-
-The self -styled parties that continue to implement our people and thereby be able to spread the idea that there is no guarantee of investments in our territories.. Such incidents will be strengthened by the views of such people.
-
-Based on the available information, the arrival of the organizers' expectations and some of the shortcomings in the regulatory cause are attributed to this unpleasant incident.
-
-...
-
-[Data](articles/dad05087.json)
-
-[Extended Data](ext_articles/dad05087.ext.json)
 
 ---

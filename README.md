@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 23:17:27**
+As of **2024-02-11 23:33:54**
 
 ## Newspaper Stats
 
-*Scraped **6,337** Articles*
+*Scraped **6,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,112 @@ dailyftlk | 342
 newsfirstlk | 363
 adalk | 533
 tamilmirrorlk | 771
-virakesarilk | 783
 adaderanalk | 783
+virakesarilk | 785
 adaderanasinhalalk | 875
-dailymirrorlk | 921
+dailymirrorlk | 923
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,336 (100.0%) of 6,337 articles have been extended.
+6,337 (99.9%) of 6,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
 
-### අනවසර විදුලි රැහැනක ගැටී පුද්ගලයෙකු මරුට
+### More surprises to be unfolded: Anura Kumara says after India visit
+
+*2024-02-11 23:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/More-surprises-to-be-unfolded-Anura-Kumara-says-after-India-visit/108-276777) · `en`
+
+Anuradhapura, Feb. 111 (Daily Mirror)- Claiming that opposition camps have been astonished by the NPP's Indian visit, NPP leader Anura Kumara Dissanayake said today that more surprising events are to be unfolded in the near future.
+
+Speaking at the Anuradhapura District Women's Convention, he said an era had begun now, where more and more surprises would take place.
+
+"How did you know about our Indian visit? You got to know it either through the Samagi Jana Balawegaya camp, President Ranil's camp or Mahinda Rajapaksa's camp. We were silent. They have been astonished to learn about our Indian visit. They thought that only they can deal with India in that manner. An era has begun where more and more such surprises will occur," he said.
+
+Dissanayake said the opposition has also been astonished about this women's convention that have been organised, adding that they never thought an awakening of women would happen in this manner.
+
+...
+
+[Data](articles/d7974572.json)
+
+---
+
+### அவுஸ்திரேலியாவின் சிரேஷ்ட அணியைத் தொடர்ந்து இந்தியாவை வீழ்த்திய இளையோர் அணியும் உலக சம்பியனானது
+
+*2024-02-11 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176138) · `ta`
+
+தென் ஆபிரிக்காவில் நடைபெற்றுவந்த ஐசிசி ஆடவர் 19 வயதுக்குட்பட்ட உலகக் கிண்ண கிரிக்கெட் போட்டியில் தோல்வி அடையாத அணியாக அவுஸ்திரேலியா சம்பியனானது.
+
+இந்தியாவுக்கு எதிராக பெனோனி, விலோமுவர் பார்க் விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (11) நடைபெற்ற இறுதிப் போட்டியில் நடப்பு சம்பியன் இந்தியாவை 79 ஓட்டங்களால் வெற்றிகொண்டு 4ஆவது தடவையாக அவுஸ்திரேலியா சம்பியன் பட்டத்தை சுவீகரித்தது.
+
+இதன் மூலம் உலகக் கிண்ண கிரிக்கெட் போட்டியில் அவுஸ்திரேலியாவின் சிரேஷ்ட அணியைத் தொடர்ந்து இப்போது இளையோர் அணியும் சம்பியனாகியுள்ளது.
+
+இரண்டு உலகக் கிண்ண இறுதிப் போட்டிகளிலும் இந்தியாவை அவுஸ்திரேலியா இலகுவாக வெற்றிகொண்டிருந்தது குறிப்பிடத்தக்கது.
+
+அஹமதாபாத்தில் கடந்த வருடம் நடைபெற்ற ஐசிசி ஆடவர் உலகக் கிண்ண (சிரேஷ்ட பிரிவினர்) இறுதிப் போட்டியில் இந்தியாவை அவுஸ்திரேலியா 6 விக்கெட்களால் வெற்றிகொண்டு உலக சம்பியனாகியிருந்தது.
+
+...
+
+[Data](articles/3a558348.json)
+
+---
+
+### அசலன்க, ஹசரங்க அபாரம்; 2ஆவது போட்டியில் இலகு வெற்றியீட்டிய இலங்கை தொடரை தனதாக்கியது; ஆப்கானின் 9 விக்கெட்கள் 25 ஓட்டங்களுக்குள் சரிவு
+
+*2024-02-11 22:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176137) · `ta`
+
+ஆப்கானிஸ்தானுக்கு எதிராக கண்டி பல்லேகலையில் ஞாயிற்றுக்கிழமை (11) நடைபெற்ற 2ஆவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் 155 ஓட்டங்களால் இலங்கை அமோக வெற்றியீட்டியது.
+
+சரித் அசலன்க, அணித் தலைவர் குசல் மெண்டிஸ், சதீர சமரவிக்ரம, ஜனித் லியனகே ஆகியோரின் அரைச் சதங்கள், வனிந்து ஹசரங்கவின் துல்லியமான பந்தவீச்சு ஆகியவற்றின் உதவியுடன் இலங்கை இலகுவாக வெற்றிபெற்றது.
+
+இந்த வெற்றியுடன் 3 போட்டிகள் கொண்ட தொடரை ஒரு போட்டி மீதம் இருக்க 2 - 0 என்ற ஆட்டக் கணக்கில் இலங்கை தனதாக்கிக்கொண்டுள்ளது.
+
+இந்தப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய இலங்கை ஆரம்ப வீரர்கள் இருவரையும் 36 ஓட்டங்களுக்கு இழந்தது.
+
+முதலாவது போட்டியில் இரட்டைச் சதம் குவித்து சாதனை நிலைநாட்டிய பெத்தும் நிஸ்ஸன்க (18), அரைச் சதம் பெற்ற அவிஷ்க பெர்னாண்டோ (5) ஆகிய இருவரும் குறைந்த ஓட்டங்களுக்கு ஆட்டம் இழந்தனர்.
+
+எனினும் அணித் தலைவர் குசல் மெண்டிஸ், சதீர சமரவிக்ரம ஆகிய இருவரும் திறமையாகத் துடுப்பெடுத்தாடி அரைச் சதங்களைப் பெற்றதுடன் 3ஆவது விக்கெட்டில் 103 ஓட்டங்களைப் பகிர்ந்து அணியைக் கட்டியெழுப்பினர்.
+
+...
+
+[Data](articles/35f334b4.json)
+
+---
+
+### Illegal Sri Lankan immigrant abducted girl for ransom in Israel
+
+*2024-02-11 22:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Illegal-Sri-Lankan-immigrant-abducted-girl-for-ransom-in-Israel/108-276775) · `en`
+
+Israel, Feb 11 (Israel National) - The state prosecutor has filed an indictment against Chaminda Pusafa Tahana Vahaga, an illegal immigrant from Sri Lanka, for abducting a young woman and holding her for ransom.
+
+The indictment claims that the accused is a Sri Lankan citizen who entered Israel illegally, lived in Israel for several years, and found illegitimate employment within Israel. During his stay in Israel, he came to know the plaintiff and the two developed an intimate relationship over a period of time. In April 2021, he was extradited to Sri Lanka, but later that year offered the plaintiff to bring her daughter to Israel illegally for 20,000 shekel. The plaintiff agreed to the offer, and the two re-entered Israel illegally from the Jordan border.
+
+...
+
+[Data](articles/0d3002db.json)
+
+---
+
+### Man hit and killed by an unauthorized power cord
 
 *2024-02-11 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193262) · `si`
 
-කොස්ගොඩ ප්‍රදේශයේ වෙල්යායක අනවසර විදුලි රැහැනක ගැටීමෙන් පුද්ගලයෙකු අවාසනාවන්ත ලෙස මියගොස් තිබේ.
+A person was unfortunately due to the disengation of the evil strength area in Kosgoda.
 
-පොලීසිය සැකපළකරන්නේ මියගිය පුද්ගලයාම ඌරන් දඩයම් කිරිමට ඇද තිබූ අනවසර විදුලි රැහැනක ගැටී ඔහු මෙලෙස මියයන්නට ඇති බවටය.
+The police may have been confronted with the deceased who had died in an unauthorized power cord, which was hit by pig hunting.
 
-එම පුද්ගලයා කුරුඳු තැලීමේ රැකියාවේ නිරතව සිටින අයෙකු බවට මේ වනවිට තොරතුරු වාර්තා වී තිබේ.
+It has been reported that the man is working in cinnamon bruising.
 
-මේ අතර ප්‍රදේශවාසීන් චෝදනා කරන්නේ මෙලෙස අනවසර විදුලි රැහැන් ඇදතිබීම හේතුවෙන් තම ජීවිත ද අවදානම් තත්ත්වයක පවතින බවය.
+Residents of the area are alleged that their lives are in danger due to lack of unauthorized electrical wirs.
 
 ◼️
 
 [Data](articles/2b0e1ab4.json)
+
+[Extended Data](ext_articles/2b0e1ab4.ext.json)
 
 ---
 
@@ -2081,101 +2157,5 @@ Misty conditions can be expected at some places in Western and Sabaragamuwa prov
 [Data](articles/c8c1ea39.json)
 
 [Extended Data](ext_articles/c8c1ea39.ext.json)
-
----
-
-### A disappearance of drowning
-
-*2024-02-11 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193236) · `si`
-
-In Thalathaoya - A man drowned in the Mahaweli River in Haragama-Goneude,
-
-Thalathuoya Police say that incident in the evening yesterday (10).
-
-The 29-year-old resident of the Teachi Deniya has been disappeared.
-
-It is said that the disappearance of police survives and the residents of Kandy are being held.
-
-◼️
-
-[Data](articles/c125fda1.json)
-
-[Extended Data](ext_articles/c125fda1.ext.json)
-
----
-
-### Hungarian president resigns
-
-*2024-02-11 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193235) · `si`
-
-Mrs. Hungarian president's President Cataline, unbelievable, has resigned from his post.
-
-Foreign media reports that the Hungarian president has announced his resignation along a television channel.
-
-The Hungarian president has stated that he resigns from his post as a decision to pardon a person who is convicted of covering a child sex sex abuse.
-
-A person who was imposed on a prison forced to withholding the complaint against children had been pardoned last week.
-
-Protests in Hungary had protested, and the protesters said the president should resign from his post.
-
-Foreign media has been apologized to pardon the people without a pardon of the person in order to pardon the person.
-
-◼️
-
-[Data](articles/a277d46e.json)
-
-[Extended Data](ext_articles/a277d46e.ext.json)
-
----
-
-### The fatality that killed the police officer
-
-*2024-02-11 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193234) · `si`
-
-A police constable has died in a motorcycle accident near Pallama and Nandemi Peramuna School.
-
-The motorbike was slippated with the motorcycle to govern the boundaries from Chilaw yesterday morning to the Anamaduwa yesterday morning.
-
-Motorcyclist has been seriously injured and admitted to the Chilaw hospital.
-
-The deceased has been identified as the 23 year old police constable attached to the Chilaw Police Station.
-
-Meanwhile, a van has been killed in a motorcycle near the Boi Stadium in Katunayake, Acwarawatte and Malugas Junction road.
-
-Meanwhile, HiFroster police station had been reported that a person falls on the road with serious injuries.
-
-The investigation was observed that the injured person had died.
-
-It has been revealed that the accident had occurred when the employees of the employees of the apparel industry of Nuwara Eliya.
-
-◼️
-
-[Data](articles/c5408a68.json)
-
-[Extended Data](ext_articles/c5408a68.ext.json)
-
----
-
-### Why Indian visit?What did Anuragumara say after returning to the country?
-
-*2024-02-11 07:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/176066) · `ta`
-
-JVP leader Anuragumara Dissanayake has said that if Sri Lanka is expected, the help of the international community is essential.
-
-He was speaking to reporters when he returned to the country after his visit to India.
-
-He said that Sri Lanka could no longer act as an isolated country, and the purpose of the visit was to obtain international support for the country's expectations.
-
-The country is growing rapidly in the region, India is very expert in the field of information technology. Sri Lanka can gain its support.
-
-The JVP leader said that we have to stop the 76 -year disaster political culture.
-
-We need international support for our intention to make leadership and raise awareness of change in the country.
-
-◼️
-
-[Data](articles/525de45f.json)
-
-[Extended Data](ext_articles/525de45f.ext.json)
 
 ---

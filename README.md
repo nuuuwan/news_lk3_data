@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 21:51:40**
+As of **2024-02-11 22:02:38**
 
 ## Newspaper Stats
 
@@ -26,107 +26,127 @@ dailymirrorlk | 920
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,319 (99.9%) of 6,326 articles have been extended.
+6,326 (100.0%) of 6,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
 
-### රත්නපුරයේ බිහිසුණු අනතුරක්
+### A terrible accident in Ratnapura
 
 *2024-02-11 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193260) · `si`
 
-රත්නපුර නව නගරය ප්‍රදේශයේදී අද පස්වරුවේ සිදුවූ රිය අනතුරකින් පස්දෙනෙකු බරපතළ තුවාල ලබා රෝහල්ගතකර තිබේ.
+Five staged injuries were seriously injured in the New Town of Ratnapura this afternoon.
 
-අධික වේගයකින් පැමිණි මෝටර් රථයක් යතුරුපැදි කිහිපයක ගැටීමෙන් මෙම අනතුර සිදුව ඇත.
+The accident had occurred when a car had taken a car at a high speed.
 
-කුරුවිට සිට රත්නපුරය දෙසට අධික වේගයෙන් ධාවනය වූ එම මෝටර් රථය වේගය පාලනය කරගත නොහැකිව ප්‍රතිවිරුද්ධ දෙසින් පැමිණි යතුරු පැදි තුනක ගැටී ඇති බවට මේ වනවිට අනාවරණය වී තිබේ.
+It has been revealed that the car collided with a motor cygraphs that could not control the speed, which was not controlled by the Kuruwita to Ratnapura.
 
-තුවාල ලැබූ පුද්ගලයින් එම ස්ථානයේ සිටි පිරිස එක්ව කඩිනමින් රත්නපුර රෝහල වෙත ඇතුළත් කිරීමට පියවර ගෙන තිබේ.
+The injured persons have been admitted to the Ratnapura Hospital expedited.
 
 ◼️
 
 [Data](articles/7e4b8bb8.json)
 
+[Extended Data](ext_articles/7e4b8bb8.ext.json)
+
 ---
 
-### மக்கள் சரியான தீர்மானம் எடுக்காவிட்டால் நாடு பாதாளத்திற்குச் சென்றுவிடும் - ஐ,தே.க. உபதலைவர் அகிலவிராஜ் காரியவசம்
+### If the people do not make the right decision, the country will go to the underworld - I,. Vice President Akhilaviraj Kariyawasam
 
 *2024-02-11 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176135) · `ta`
 
-நாட்டின் பொருளாதாரம் வீழ்ச்சியடைந்த ஒவ்வொரு சந்தர்ப்பத்திலும் ஐக்கிய தேசிய கட்சியே அதனைக் கட்டியெழுப்ப நடவடிக்கை எடுத்துவந்துள்ளது. என்றாலும் எமது வேலைத்திட்டத்தை பூரணப்படுத்துவதற்கு முன்னர் எங்களை வீட்டுக்கு அனுப்பினார்கள். ஆனால் இந்த முறை மக்கள் சரியான தீர்மானத்தை எடுக்காவிட்டால் நாடு பாதாளத்துக்கே சென்றுவிடும் என ஐக்கிய தேசிய கட்சியின் உபதலைவர் அகிலவிராஜ் காரியவசம் தெரிவித்தார்.
+The United National Party (UNP) has taken steps to build it every occasion in the country's economy. They sent us home before completing our program, though. But this time, if the people do not make the right decision, the country will go to the underworld, UNP Vice President Akhilaviraj Kariyawasam said.
 
-ஐக்கிய தேசிய கட்சியின் கம்பஹா மாவட்ட சம்மேளனம் ஞாயிற்றுக்கிழமை (11) யக்கல பிரதேச சபை  கேட்போர் கூடத்தில் இடம்பெற்றது. அதில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+The United National Party (UNP) Gampaha District Federation was held at the Yakkala Pradeshiya Sabha auditorium on Sunday. He said this while addressing the gathering.
 
-சர்வதேச நாடுகளின் உதவி இல்லாமல் வீழ்ச்சியடைந்திருக்கும் நாட்டின் பொருளாதாரத்தைக் கட்டியெழுப்ப முடியாது. அதனை விளங்கிக்கொண்டதாலே ஜனாதிபதி சர்வதேச நாடுகளுக்கு விஜயம் மேற்கொண்டு, அந்த நாடுகளின் உதவிகளைப் பெற்றுக்கொள்ள நடவடிக்கை எடுத்து வருகிறார். ஆனால் ஜனாதிபதியின் இந்த சர்வதேச விஜயங்களை எதிர்க்கட்சி அரசியல் வாதிகள் தொடர்ந்து விமர்சனம் செய்து வந்தார்கள். ஆனால் தற்போது அவர்களும் சர்வதேச நாடுகளைச் சுற்றிவர ஆரம்பித்துள்ளனர்.
+Cannot build the economy of the country that has fallen without the help of international countries. Understanding this, the President is visiting international countries and taking steps to seek the help of those countries. But the opposition politicians continued to criticize these international visits of the president. But now they are also starting around international countries.
 
 ...
 
 [Data](articles/ebe60e60.json)
 
+[Extended Data](ext_articles/ebe60e60.ext.json)
+
 ---
 
-### 19න් පහළ ලෝක කුසලානයත් ඔස්ට්‍රේලියාවට
+### Under-19 World Cup and Australia
 
 *2024-02-11 21:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193259) · `si`
 
-වයස අවුරුදු 19න් පහළ ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ඉන්දියාවට එරෙහිව පැවති අවසන් තරගය ජයගත් ඔස්ට්‍රේලියා කණ්ඩායම මෙවර ශූරයින් බවට පත්විය.
+The Australian group became the final of the final against India in the Under-19 World Cup.
 
-එහිදී ලකුණු ක ජයග්‍රාහී ඉලක්කයක් හඹා ගිය ඉන්දීය යෞවන ක්‍රීඩකයින් පන්දුවාර 43යි පන්දු 5ක් අවසානයේ සියලුදෙනා දැවී රැස්කරගත්තේ ලකුණු 174ක් පමණි.
+Chasing a goal of winning a goal at the meeting, the Indian youth players were bowled out for 43 overs, lasting 174 runs.
 
-ඒ අනුව අවසන් තරගය ලකුණු 79කින් ජයගත් ඔස්ට්‍රේලියා යෞවනයින් මෙවර 19න් පහළ ලෝක කුසලානය හිමිකරගත්තේය.
+Accordingly, the Under-19-year-old youth won the final by 79 runs.
 
-2023 වසරේ පැවති එක්දින ලෝක කුසලාන තරගාවලියේද අවසන් තරගයේදී මුහුණට මුහුණ හමුවූයේ ඉන්දීය කණ්ඩායම සහ ඔස්ට්‍රේලියා කණ්ඩායමයි.
+The Indian team and Australia were also found in the final of the 2023 World Cup.
 
-එම තරගාවලියේදී අපරාජිතව අවසන් මහා තරගය දක්වා පැමිණි ඉන්දීය කණ්ඩායම අවසන් තරගයේදී ඔස්ට්‍රේලියාව අතින් පරාජයට පත්විය.
+The Indian team defeated Australia in the final match at the event.
 
-වයස අවුරුදු 19න් පහළ ලෝක කුසලාන තරගාවලියේදීද සුපිරි දක්ෂතා දැක්වූ ඉන්දීය යොවුන් ක්‍රීඩකයෝ තරගාවලියේ අපරාජිතව දක්ෂතා දක්වමින් පැමිණ අවසන් තරගයේදී ඔස්ට්‍රේලියා යොවුන් ක්‍රීඩකයින් හමුවේ දෛවෝපගත ලෙස පරාජයට පත්විය.
+The Indian Youths were also defeated in the last 19 Cup tournament of the tournament.
 
-අද පැවති තරගයේදී පිළිතුරු ඉනිම ක්‍රීඩා කළ ඉන්දීය 19න් පහළ කණ්ඩායම වෙනුවෙන් Adarsh Singh ලකුණු 47ක් රැස්කරගත්තේය.
+ADArsh Singh scored 47 runs for the Under-19 team in the 19th group who played in reply today.
+
+When the midnamage batsmen were collapsed, Murugan ABHisek was built in a hopeful innings for the Under-19 team in the Under-19 team.
+
+He contested 42 runs in 46 balls with six fours and five fours.
+
+At first, Under-19 players scored 253 runs for the loss of 7 wickets at the end of 50 overs.
+
+Harjas Singh scored 55 runs in 64 balls with three sixes and 3 fours.
 
 ...
 
 [Data](articles/cd5a88ef.json)
 
+[Extended Data](ext_articles/cd5a88ef.ext.json)
+
 ---
 
-### ජනාධිපති අරමුදලින් විශේෂ සහනයක්
+### Special relief from the Presidential Fund
 
 *2024-02-11 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193258) · `si`
 
-කුඩා දරුවන්ගේ අක්මා බද්ධ කිරීමේ ශල්‍යකර්ම සහ කර්ණශංඛ බද්ධ කිරීමේ ශල්‍යකර්ම සඳහා ජනාධිපති අරමුදලින් මූල්‍යාධාර ලබා දීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උපදෙස් ලබාදී තිබේ.
+President Ranil Wickremesinghe has instructed to provide financial assistance from the Presidential Fund for the liver transplant surgery and fraudulent transplant surgery of young children.
 
-රටේ අනාගතය වන දරු පරපුරේ සුබසිද්ධිය සහ දුප්පත් දෙමව්පියන්ට සහනයක් වීමේ අරමුණින් මෙම පියවර ගෙන ඇති බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+The move has taken steps to relieve the future of the country's future and a good parent parents.
 
-ඒ අනුව රාගම ශික්ෂණ රෝහලේ සිදුකරනු ලබන කුඩා දරුවන්ගේ අක්මා බද්ධ කිරීමේ ශල්‍යකර්මවලදී පූර්ව සහ පසු පරීක්ෂණ සහ ප්‍රතිකාර සඳහා යන අධික වියදම සලකා රුපියල් මිලියනයක උපරිමයකට යටත්ව මේ වසරේ ජනවාරි මස පළමුවන දින සිට ජනාධිපති අරමුදලින් මූල්‍යාධාර ලබාදීම සිදුකිරීමට නියමිතය.
+Accordingly, the liar, tests and treatment at the Ragama Teaching Hospital will be given financial assistance from 1st day from January this year.
 
-එමෙන්ම මෙරට තුළ වර්ෂයකට කර්ණශංඛ බද්ධ කිරීමේ සැත්කම සිදුකළ යුතු දරුවන් 200කට අධික ප්‍රමාණයක් උපත ලබන බව වෛද්‍ය පරීක්ෂණවලින් පෙන්වා දී ඇති බව ජනාධිපති මාධ්‍ය අංශය පෙන්වා දෙයි.
+The Presidential Media Unit shows that more than 200 children should be made in the country per year in the country.
 
-මෙම ශල්‍යකර්මය ශ්‍රී ජයවර්ධනපුර රෝහලේදී සිදු කරනු ලබන අතර, ඒ සඳහා යොදන රුපියල් මිලියන 4කට ආසන්න වටිනාකමින් යුත් උපකරණය එම රෝහලට සෞඛ්‍ය අමාත්‍යාංශය වෙතින් නොමිලේ ලබා දුන්න ද සැත්කම සඳහා වියදම වන රුපියල් ලක්ෂ හයක මුදල රෝගීන් විසින් ගෙවිය යුතු වන බව සඳහන් වේ.
+The surgery is being carried out at the Sri Jayewardenepura Hospital and the two value of Rs. 4 million has been paid to the Health Ministry.
 
-...
+The presence of Rs.
+
+◼️
 
 [Data](articles/1d4cd04f.json)
 
+[Extended Data](ext_articles/1d4cd04f.ext.json)
+
 ---
 
-### சிறுவர்களுக்கு சிகரெட் விற்பனை செய்த 8 கடை உரிமையாளர்கள் கைது
+### 8 shop owners arrested for selling cigarettes to boys
 
 *2024-02-11 20:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176133) · `ta`
 
-சிறுவர்களுக்கு சிகரெட் விற்பனை செய்த 8 கடை உரிமையாளர்களை பொலிஸார் கைது செய்துள்ளனர்.
+Police have arrested 8 shop owners for selling cigarettes to boys.
 
-ஹிக்கடுவ பொலிஸ் பிரிவிற்குட்பட்ட பிரதான பாடசாலைகளுக்கு அருகில் கடைகளை நடத்தி வந்த 8 பேரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+Eight people have been arrested for running shops near the main schools of the Hikkaduwa police division.
 
-பாடசாலைகளுக்கு அருகாமையில் முன்கெடுக்கப்படும் வகுப்புகளுக்கு வரும் பாடசாலை மாணவர்களுக்கும் குறித்த சந்தேக நபர்கள் சிகரெட்டுக்களை விற்பனை செய்துள்ளமை விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+Investigations have revealed that the suspects have sold cigarettes for schoolchildren coming to schools near schools.
 
-பாடசாலைகளை அடிப்படையாகக் கொண்டு பெற்றோர்கள் மற்றும் ஆசிரியர்களின் ஒத்துழைப்புடன் முன்னெடுக்கப்பட்டுள்ள விசேட நடவடிக்கையின் மூலம் இந்த குறித்த சுற்றிவளைப்பு மேற்கொள்ளப்பட்டுள்ளது.
+The surroundings have been carried out by a special action carried out in collaboration with parents and teachers based on schools.
 
-கைதுசெய்யப்பட்ட கடை உரிமையாளர்களுக்கு எதிராக காலி நீதவான் நீதிமன்றத்தில் வழக்குத் தாக்கல் செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Police said that a case has been filed at the Galle Magistrate's Court against the arrested shop owners.
 
 ◼️
 
 [Data](articles/fa8f4183.json)
+
+[Extended Data](ext_articles/fa8f4183.ext.json)
 
 ---
 
@@ -166,31 +186,35 @@ The organization cautioned that individuals with respiratory ailments, such as a
 
 ---
 
-### ரயிலில் பரவிய தீ : கம்பஹா ரயில் நிலையத்தில் சம்பவம்
+### Fire that spread by train: incident at Gampaha Railway Station
 
 *2024-02-11 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176131) · `ta`
 
-இந்த தீ விபத்தானது அங்கு நிறுத்தி வைக்கப்பட்டிருந்த எண்ணெய் ரயிலிலேயே ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+It is reported that the fire occurred on the oil train that had been parked there.
 
 ◼️
 
 [Data](articles/59f6688c.json)
 
+[Extended Data](ext_articles/59f6688c.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தலில் மக்கள் சரியான நபரை தெரிவு செய்யாவிட்டால் நாட்டின் எதிர்காலம் தொடர்பில் கனவு காண முடியாமல் போகும் - ஐ.தே.க, பிரதித் தலைவர் ருவன் விஜேவர்தன
+### If people do not choose the right person in the presidential election, it will not be able to dream about the future of the country -UNP leader Ruwan Wijewardena
 
 *2024-02-11 19:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/176132) · `ta`
 
-ஒக்டோபர் மாதம் இடம்பெற உள்ள ஜனாதிபதி தேர்தலில் மக்கள் சரியான தீர்மானம் மேற்கொண்டு சரியான நபரை தெரிவு செய்யாவிட்டால் நாட்டின் எதிர்காலம் தொடர்பாக எமக்கு கனவு காண முடியாமல் போகும் எனஐக்கிய தேசிய கட்சியின் பிரதி தலைவர் ருவன் விஜேவர்தன தெரிவித்தார்.
+"We will not be able to dream about the future of the country if the people do not make the right decision in the presidential election in October," said Ruwan Wijewardena, Deputy Leader of the United National Party.
 
-ஐக்கிய தேசிய கட்சியின் கம்பஹா மாவட்ட சம்மேளனம் ஞாயிற்றுக்கிழமை (11) யக்கல பிரதேச சபை  கேட்போர் கூடத்தில் இடம்பெற்றது. அதில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+The United National Party (UNP) Gampaha District Federation was held at the Yakkala Pradeshiya Sabha auditorium on Sunday. He said this while addressing the gathering.
 
-நாங்கள் இன்று தீர்மானமிக்க இடத்திலேயே இருக்கிறோம். இந்த வருடத்தை தேர்தல் வருடமாகவே நாங்கள் பார்க்கிறோம். ஒக்டோபர் மாதமாகும்போது எமக்கு ஜனாதிபதி தேர்தலுக்கு முகம்கொடுக்க வேண்டிவரும்.  அதன் பின்னர் பொதுத் தேர்தலுக்கு முகம்கொடுக்க வேண்டிவரும். அதனைத்தொடர்ந்து மாகாண, உள்ளூராட்சி தேர்தல்களுக்கு முகம்கொடுக்க வேண்டி ஏற்படும். அதனால் கட்சி என்றவகையில் தற்போது இருந்தே அதற்காக தயாராக வேண்டும். மக்களின் தீர்மானத்துக்கமையவே நாட்டின் எதிர்காலம் தீர்மானிக்கப்படும். அதனால் நாட்டை எநத திசைக்கு கொண்டு செல்வது என்ற தீர்மானம் மக்களிடமே இருக்கிறது.
+We're in the decisive place today. We see this year as the election year. At October, we will face the presidential election.Thereafter, the general election will be faced. Subsequently, the provincial and local elections will be facing. So the party must be prepared for it from the present. The future of the country will be determined by the people's decision. So the people have the decision to take the country in the direction.
 
 ...
 
 [Data](articles/b15414ef.json)
+
+[Extended Data](ext_articles/b15414ef.ext.json)
 
 ---
 

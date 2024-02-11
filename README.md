@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 11:17:23**
+As of **2024-02-11 11:33:42**
 
 ## Newspaper Stats
 
-*Scraped **6,251** Articles*
+*Scraped **6,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 342
 newsfirstlk | 363
 adalk | 517
 tamilmirrorlk | 760
-adaderanalk | 772
+adaderanalk | 773
 virakesarilk | 775
 adaderanasinhalalk | 853
 dailymirrorlk | 908
@@ -26,11 +26,33 @@ dailymirrorlk | 908
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,249 (100.0%) of 6,251 articles have been extended.
+6,249 (100.0%) of 6,252 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### Child genius who went to university at 12 becomes ‘Britain’s youngest PhD holder’
+
+*2024-02-11 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97178/child-genius-who-went-to-university-at-12-becomes-britains-youngest-phd-holder) · `en`
+
+A child genius who attended university aged just 12 years old has now the youngest person in Britain to hold a PhD.
+
+Yasha Asley received his doctorate in applied mathematics at the University of Leicester earlier this month, aged 21. It is believed he is now the youngest person in Britain to hold a PhD, surpassing a 22-year-old astrophysicist.
+
+Yasha, from Leicester, started attending his local university before he was even a teenager - accompanied by dad Moussa Asley, 61, who quit his job as an accountant to support his son.
+
+Yasha - once dubbed the “human calculator” is keeping an open mind about what the future holds, saying: “I’m looking to maybe work in AI field or data mining, but I really don’t know yet.”
+
+On receiving the PhD he said: “It feels amazing to have achieved this feat. I am very happy and would like to thank all my lecturers for their help.
+
+“It was not my intention to go to uni so early but now that I have reached this stage I am elated that it worked out well for me.”
+
+...
+
+[Data](articles/fc07653f.json)
+
+---
 
 ### ‘பாய் பங்கலா பாய்’ குழுவினருக்கு ஜீவன் உதவி
 
@@ -2063,23 +2085,5 @@ Devotees engaging in religious activities at the Jaya Sri Maha Bodhi and the Thu
 [Data](articles/40c06aef.json)
 
 [Extended Data](ext_articles/40c06aef.ext.json)
-
----
-
-### The Chinese New Year comes
-
-*2024-02-10 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193213) · `si`
-
-Accepting the Chinese Media Group, recognizing the New Year's Event, was held yesterday (09) at night.
-
-The highest number of people around the world is resumed.
-
-China presents all world trees to the new year of the dragon.
-
-◼️
-
-[Data](articles/ad367be2.json)
-
-[Extended Data](ext_articles/ad367be2.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 11:33:42**
+As of **2024-02-11 11:51:46**
 
 ## Newspaper Stats
 
-*Scraped **6,252** Articles*
+*Scraped **6,256** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 75
-bbccomsinhala | 86
+bbccomsinhala | 87
 dbsjeyarajcom | 146
 economynextcom | 321
 islandlk | 333
@@ -19,18 +19,38 @@ adalk | 517
 tamilmirrorlk | 760
 adaderanalk | 773
 virakesarilk | 775
-adaderanasinhalalk | 853
-dailymirrorlk | 908
+adaderanasinhalalk | 855
+dailymirrorlk | 909
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,249 (100.0%) of 6,252 articles have been extended.
+6,256 (100.0%) of 6,256 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### Residential killed in robbery
+
+*2024-02-11 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193242) · `si`
+
+A robber who arrived at a house in the Yagodamulla area in Minuwangoda has died of an assault who had been involved in the house.
+
+A group of three robbers have entered the house with the objective of robbery of property around 4 am today.
+
+It said that one of them had been attacked with a sharp object by a person who stayed at home.
+
+The two robbers have fled and the Minuwangoda police are conducting further investigations.
+
+◼️
+
+[Data](articles/4c52f9e5.json)
+
+[Extended Data](ext_articles/4c52f9e5.ext.json)
+
+---
 
 ### Child genius who went to university at 12 becomes ‘Britain’s youngest PhD holder’
 
@@ -52,39 +72,93 @@ On receiving the PhD he said: “It feels amazing to have achieved this feat. I 
 
 [Data](articles/fc07653f.json)
 
+[Extended Data](ext_articles/fc07653f.ext.json)
+
 ---
 
-### ‘பாய் பங்கலா பாய்’ குழுவினருக்கு ஜீவன் உதவி
+### Minister reveals Sri Lanka’s first arrest under Online Safety Act
 
-*2024-02-11 10:43:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாய்-பங்கலா-பாய்-குழுவினருக்கு-ஜீவன்-உதவி/76-333001) · `ta`
+*2024-02-11 11:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-reveals-Sri-Lankas-first-arrest-under-Online-Safety-Act/108-276761) · `en`
 
-பொகவந்தலாவை,  தியட்டர் மேட்ஷ் குழுவுக்கு ஒரு மில்லியன் ரூபாய் பணத்தையும் இந்தியாவுக்குச் செல்வதற்கு அக்குழுவைச் சேர்ந்த 20 பேருக்கான விசாக்களையும் அமைச்சர் ஜீவன் தொண்டமான் பெற்றுக்கொடுத்துள்ளார்.
+Panadura, Feb 11 (Daily Mirror) - Minister of Public Security Tiran Alles said the Criminal Investigation Department (CID) has arrested an individual who had slandered on social media.
 
-பொகவந்தலாவை, கெர்க்கஸ்வோல்ட் (லெட்சுமி தோட்டம்)  மத்திய பிரிவு தோட்டத்தில் இருந்து ‘பாய் பங்கலா பாய்’ நாடகத்தை அரங்ககேற்ற, இந்தியா, கொல்கத்தாவுக்கு எதிர்வரும் மார்ச் மாதம் 20ம் திகதி செல்லும் தியட்டர் மேட்ஷ் நாடக குழுவினருக்கு  இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச்செயலாளரும் நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அமைப்பு சமுதாய அபிவிருத்தி  அமைச்சர் ஜீவன் தொண்டமான் நிதியுதவி அளித்துள்ளார்.
+Addressing a programme to educate the community police committee members of the Panadura Division, the Minister said the particular individual had about Rs. 400,000 in his possession at the time of his arrest.
 
-இதேவேளை, இந்த தியட்டர் மேட்ஷ் நாடக குழுவில்  பாடசாலை மாணவர்கள் 14 பேரும் பயிற்றுவிப்பாளர்கள் அறுவரும் அடங்குகின்றனர்.   மலையக பெருந்தோட்டபகுதிகளில் இது போன்ற பல்வேறு திறமையுடையவர்கள் காணப்படுகிறார்கள்  இதில்
+He added that the suspect had maliciously carried out smear campaigns with the support of a politician.
+
+"A person was arrested by the CID. He is someone who slanders us online using social media. The suspect claimed that a politician gave money to him. He was arrested right after he went to Fort to exchange dollars to Sri Lankan rupees. They use social media to slander us, the government, the Acting IGP and everyone else," he said.
+
+The Minister said the government brought the Online Safety Act to prevent such occurrences.
+
+He mentioned that they use social media to even topple the government.
 
 ...
 
-[Data](articles/05d61b9b.json)
+[Data](articles/6e9c62d5.json)
+
+[Extended Data](ext_articles/6e9c62d5.ext.json)
 
 ---
 
-### மரம் விழுந்து மரணமான சிறுவனின் ஜனாஸா நல்லடக்கம்
+### Mobile Phones found from the Boossa Prison
+
+*2024-02-11 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193241) · `si`
+
+The Police Special Task Force has found several mobile phones that were submerged in the Boossa High Security Prison.
+
+The Special Task Force of the Old Council and the Boossa Prison officials were conducted in the Boossa Prison yesterday (10).
+
+In those wards, there were a small number of smart mobile phones, five small mobile phones, four small mobile phones, four small cell phones, four SIMs, 1 SIM.
+
+In addition, two phone chargers removed, two selected cards, two DATA Cable and handed over 1 handed fresh.
+
+◼️
+
+[Data](articles/fd663a27.json)
+
+[Extended Data](ext_articles/fd663a27.ext.json)
+
+---
+
+### Jeevan Helping to Boy Pankala Boy Team Group
+
+*2024-02-11 10:43:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாய்-பங்கலா-பாய்-குழுவினருக்கு-ஜீவன்-உதவி/76-333001) · `ta`
+
+Minister Jeevan Thondaman has issued a sum of Rs.
+
+The General Secretary of the Ceylon Workers Congress, Water Resources and Estate Infrastructure, has funded the Diyatar Matsh Drama Group for the upcoming Diamonds of India and Kolkata on the 20th of March, which staged a playing play from the Central Divisional Estate of Bogawantalawa, Bogawantalawa.
+
+Meanwhile, the Theater Madsh Drama Group includes 14 schoolchildren and trainers. There are many such talented people in the hill plantation areas
+
+Minister Jeevan Thondaman also congratulated both Selvaraj Lilavati and Rasiah Lokanthan, who led the theater for the first time with the boys.
+
+The Minister also stated that he was proud of the meeting of the Theatermatesh Drama crew.. Meanwhile, the Diyatar Mattsh group said that he was proud to express his gratitude and congratulations to Minister Jeevan Thondaman, who provided a huge assistance to our Theatermatesh Committee.
+
+◼️
+
+[Data](articles/05d61b9b.json)
+
+[Extended Data](ext_articles/05d61b9b.ext.json)
+
+---
+
+### Janasa's goodwill
 
 *2024-02-11 10:22:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரம்-விழுந்து-மரணமான-சிறுவனின்-ஜனாஸா-நல்லடக்கம்/76-332999) · `ta`
 
-கம்பளை முன்பள்ளியில் மரம் விழுந்து படுகாயமடைந்த நிலையில்,  கண்டி தேசிய வைத்தியசாலையின் அதிதீவிர சிகிச்சைப் பிரிவில் ஐந்து நாட்களாக சிகிச்சை பெற்று வந்த, சிறுவன் மரணமடைந்தார். அவரது  ஜனாஸா, கம்பளை கஹடபிட்டியவில், சனிக்கிழமை (10) இரவு  இடம்பெற்றது.
+The boy, who had been treated for five days in the intensive care unit of the Kandy National Hospital, died after being injured in a tree in the Gampola pre -school.. His Janasa was held at Kahadapitiya, Gampola on Saturday night (10).
 
-மரம் விழுந்த சம்பவத்தில், ​அதே பாடசாலையில் கல்விக்கற்ற சிறுவன், சம்பவ தினத்தன்று ஸ்தலத்திலேயே மரணமடைந்தார்.
+In the incident, an uneducated boy in the same school died on the day of the incident.
 
-சம்பவத்தில் படுகாயமடைந்த இரண்டாவது மாணவனான சிறுவன், கம்பளை, கஹடபிட்டிய, பேபில பிரதேசத்தில் வசிக்கும் மொஹமட் இக்ரம் ஹையானின் (வயது 5) சிறுவனின் ஜனாஸாவே நல்லடக்கம் செய்யப்பட்டது.  இரண்டு பிள்ளைகளைக் கொண்ட குடும்பத்தில் இந்த சிறுவன் இளையவர்.
+The second student of the incident, Mohamed Ikram Hayan's (age 5), a boy in Gampola, Kahadapitiya, Babila area. The boy is the youngest in a family of two children.
 
-கம்பளை பென்ஹில் சர்வதேச பாலர் பாடசாலையில் கல்வி கற்கும் மாணவர்கள், வெளியில் விளையாடிக் கொண்டிருந்த போது அருகில் இருந்த பெரிய மரமொன்று  விளையாட்டு மைதானத்தில் விழுந்து மூன்று சிறுவர்கள் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டு இருந்தனர்.
+Three boys were injured and admitted to the hospital when a large tree near the Penhil International Preschool in Gampola was playing outside the playground while playing outside.
 
 ◼️
 
 [Data](articles/9dff37b2.json)
+
+[Extended Data](ext_articles/9dff37b2.ext.json)
 
 ---
 
@@ -881,6 +955,30 @@ Sagala Ratnayake, Senior Advisor of National Security and President of the Presi
 [Data](articles/ee15d95f.json)
 
 [Extended Data](ext_articles/ee15d95f.ext.json)
+
+---
+
+### Science and Woman: 'It is good to be a scientist who has crossed the world'
+
+*2024-02-11 03:06:56* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ckkv4ddwql9o) · `si`
+
+It contains nothing here. Play Video, "Science and Woman:" There is a world-held scientist, more than 130 videos, and more than 130 new licenses.The biggest lichens (five lakhs) is the guardian.
+
+Science and Woman: 'It is good to be a scientist who has crossed the world'
+
+Senior Research Scientist, Senior Research Scientist, Dr. Gothami Weerakoon, says that the women should be increased with conservative thought.
+
+The custody of more than 130 new licenses introduce more than 130 species in the world, the most important and largest lichen collection (4 lakhs).
+
+"We have seen how women in neighboring Indian have contributed to the Moon for last year. Now out of conservative thought and an era of women should come forward. The daughters can be minimized, especially in science, and can face life. "
+
+She joined this conversation in view of 'the international day of science and girls' today (February 11).
+
+◼️
+
+[Data](articles/06c22bc3.json)
+
+[Extended Data](ext_articles/06c22bc3.ext.json)
 
 ---
 
@@ -2003,87 +2101,5 @@ He then spoke to the media that he was informed of a public meeting with a full 
 [Data](articles/97a16895.json)
 
 [Extended Data](ext_articles/97a16895.ext.json)
-
----
-
-### Transformation, Reinvigoration and Reinvention: The Art and Life of George Keyt (1901 – 1993), Part I
-
-*2024-02-10 16:29:00* · [`islandlk`](http://island.lk/transformation-reinvigoration-and-reinvention-the-art-and-life-of-george-keyt-1901-1993-part-i/) · `en`
-
-The material for this article has been drawn from the recently published work, George Keyt. The Absence of a Desired Image by SinhaRaja Tammita-Delgoda (Taprobane Collection, Sri Lanka 2023)
-
-Born a year after the turn of the 20th century, George Keyt was one of the leading figures of European modernism in Asia. Fusing the influences of Modernism and Cubism with his own unique idiom, Keyt became one of the most important Asian artists of his time and the most celebrated Sri Lankan painter of the 20th century.
-
-George Percival Sproule Keyt was born in 1901. Ceylon was then at the height of its prosperity and was considered one of the jewels in the imperial crown. Riding this wave of affluence was a diverse and cosmopolitan élite. Often described as “Ceylonese,” it was bound together by Western values and a deeply Anglicized lifestyle.
-
-...
-
-[Data](articles/86e845b7.json)
-
-[Extended Data](ext_articles/86e845b7.ext.json)
-
----
-
-### Imran Khan reports that Pakistan election
-
-*2024-02-10 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176039) · `ta`
-
-The candidates who contested with Imran Khan's party have won the Pakistan elections in violation of election fraud.
-
-Those who have joined the PDI have won the expectation that the former Prime Minister Nawasserev -led coalition will win.
-
-He has urged his supporters to celebrate the victory over the oppression of the party.
-
-Imran Khan's PPD has won 90 seats as the results of 265 seats have been announced.
-
-It is noteworthy that the Pakistan army's support for the history of creating rulers who interfere with the Pakistan elections is the former Prime Minister Nawaz Seriv.
-
-However, voters have voted in favor of the PDI and Imrankan.
-
-Pakistan reports say that due to popular support, she was unable to do anything in favor of Serev.
-
-However, researchers say that due to lack of clearly, the Imran party may face crises in forming a government.
-
-◼️
-
-[Data](articles/48a11304.json)
-
-[Extended Data](ext_articles/48a11304.ext.json)
-
----
-
-### The body of mother came to the house after childbirth
-
-*2024-02-10 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193214) · `si`
-
-Mullaitivu has found a bodies of a woman in a house in Pudukuduirippu area.
-
-The woman had taken their children 11 days ago and arrived at the house from the hospital yesterday.
-
-The woman had gone out of the house when everyone in the house had gone to bed and had to recover her and she had to return home.
-
-The body of the woman was later found in the house next morning.
-
-The cause of death is yet to be ascertained and the site has been carried out by the Mullaitivu Magistrate.
-
-◼️
-
-[Data](articles/b360ed51.json)
-
-[Extended Data](ext_articles/b360ed51.ext.json)
-
----
-
-### Invoking blessings...
-
-*2024-02-10 16:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Invoking-blessings/110-276741) · `en`
-
-Devotees engaging in religious activities at the Jaya Sri Maha Bodhi and the Thuparamaya Vihara in Anuradhapura. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/40c06aef.json)
-
-[Extended Data](ext_articles/40c06aef.ext.json)
 
 ---

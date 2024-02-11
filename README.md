@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 15:17:18**
+As of **2024-02-11 15:33:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 916
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,284 (100.0%) of 6,285 articles have been extended.
+6,285 (100.0%) of 6,285 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,15 +52,17 @@ The narcotics taken into custody during this period include 153g 665mg of heroin
 
 ---
 
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
+### Sri Lanka to benefit the coin
 
 *2024-02-11 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193249) · `si`
 
-ඇෆ්ගනිස්තානයට එරෙහිව පැවැත්වෙන දෙවන එක්දින තරගයේ කාසියේ වාසිය දිනූ ශ්‍රී ලංකාව ප්‍රථමයෙන් පන්දුවට පහරදීමට තීරණය කළේය.
+Sri Lanka won the toss and elected to bat where the second ODIs against Afghanistan.
 
 ◼️
 
 [Data](articles/9df978a2.json)
+
+[Extended Data](ext_articles/9df978a2.ext.json)
 
 ---
 

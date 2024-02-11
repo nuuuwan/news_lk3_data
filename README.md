@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 21:32:59**
+As of **2024-02-11 21:51:40**
 
 ## Newspaper Stats
 
-*Scraped **6,319** Articles*
+*Scraped **6,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,132 @@ dailyftlk | 342
 newsfirstlk | 363
 adalk | 531
 tamilmirrorlk | 769
-virakesarilk | 777
+virakesarilk | 781
 adaderanalk | 781
-adaderanasinhalalk | 870
+adaderanasinhalalk | 873
 dailymirrorlk | 920
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,318 (100.0%) of 6,319 articles have been extended.
+6,319 (99.9%) of 6,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
 
-### ரயிலில் தீ பரவியதால் பதற்றம்
+### රත්නපුරයේ බිහිසුණු අනතුරක්
+
+*2024-02-11 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193260) · `si`
+
+රත්නපුර නව නගරය ප්‍රදේශයේදී අද පස්වරුවේ සිදුවූ රිය අනතුරකින් පස්දෙනෙකු බරපතළ තුවාල ලබා රෝහල්ගතකර තිබේ.
+
+අධික වේගයකින් පැමිණි මෝටර් රථයක් යතුරුපැදි කිහිපයක ගැටීමෙන් මෙම අනතුර සිදුව ඇත.
+
+කුරුවිට සිට රත්නපුරය දෙසට අධික වේගයෙන් ධාවනය වූ එම මෝටර් රථය වේගය පාලනය කරගත නොහැකිව ප්‍රතිවිරුද්ධ දෙසින් පැමිණි යතුරු පැදි තුනක ගැටී ඇති බවට මේ වනවිට අනාවරණය වී තිබේ.
+
+තුවාල ලැබූ පුද්ගලයින් එම ස්ථානයේ සිටි පිරිස එක්ව කඩිනමින් රත්නපුර රෝහල වෙත ඇතුළත් කිරීමට පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/7e4b8bb8.json)
+
+---
+
+### மக்கள் சரியான தீர்மானம் எடுக்காவிட்டால் நாடு பாதாளத்திற்குச் சென்றுவிடும் - ஐ,தே.க. உபதலைவர் அகிலவிராஜ் காரியவசம்
+
+*2024-02-11 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176135) · `ta`
+
+நாட்டின் பொருளாதாரம் வீழ்ச்சியடைந்த ஒவ்வொரு சந்தர்ப்பத்திலும் ஐக்கிய தேசிய கட்சியே அதனைக் கட்டியெழுப்ப நடவடிக்கை எடுத்துவந்துள்ளது. என்றாலும் எமது வேலைத்திட்டத்தை பூரணப்படுத்துவதற்கு முன்னர் எங்களை வீட்டுக்கு அனுப்பினார்கள். ஆனால் இந்த முறை மக்கள் சரியான தீர்மானத்தை எடுக்காவிட்டால் நாடு பாதாளத்துக்கே சென்றுவிடும் என ஐக்கிய தேசிய கட்சியின் உபதலைவர் அகிலவிராஜ் காரியவசம் தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சியின் கம்பஹா மாவட்ட சம்மேளனம் ஞாயிற்றுக்கிழமை (11) யக்கல பிரதேச சபை  கேட்போர் கூடத்தில் இடம்பெற்றது. அதில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+சர்வதேச நாடுகளின் உதவி இல்லாமல் வீழ்ச்சியடைந்திருக்கும் நாட்டின் பொருளாதாரத்தைக் கட்டியெழுப்ப முடியாது. அதனை விளங்கிக்கொண்டதாலே ஜனாதிபதி சர்வதேச நாடுகளுக்கு விஜயம் மேற்கொண்டு, அந்த நாடுகளின் உதவிகளைப் பெற்றுக்கொள்ள நடவடிக்கை எடுத்து வருகிறார். ஆனால் ஜனாதிபதியின் இந்த சர்வதேச விஜயங்களை எதிர்க்கட்சி அரசியல் வாதிகள் தொடர்ந்து விமர்சனம் செய்து வந்தார்கள். ஆனால் தற்போது அவர்களும் சர்வதேச நாடுகளைச் சுற்றிவர ஆரம்பித்துள்ளனர்.
+
+...
+
+[Data](articles/ebe60e60.json)
+
+---
+
+### 19න් පහළ ලෝක කුසලානයත් ඔස්ට්‍රේලියාවට
+
+*2024-02-11 21:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193259) · `si`
+
+වයස අවුරුදු 19න් පහළ ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ඉන්දියාවට එරෙහිව පැවති අවසන් තරගය ජයගත් ඔස්ට්‍රේලියා කණ්ඩායම මෙවර ශූරයින් බවට පත්විය.
+
+එහිදී ලකුණු ක ජයග්‍රාහී ඉලක්කයක් හඹා ගිය ඉන්දීය යෞවන ක්‍රීඩකයින් පන්දුවාර 43යි පන්දු 5ක් අවසානයේ සියලුදෙනා දැවී රැස්කරගත්තේ ලකුණු 174ක් පමණි.
+
+ඒ අනුව අවසන් තරගය ලකුණු 79කින් ජයගත් ඔස්ට්‍රේලියා යෞවනයින් මෙවර 19න් පහළ ලෝක කුසලානය හිමිකරගත්තේය.
+
+2023 වසරේ පැවති එක්දින ලෝක කුසලාන තරගාවලියේද අවසන් තරගයේදී මුහුණට මුහුණ හමුවූයේ ඉන්දීය කණ්ඩායම සහ ඔස්ට්‍රේලියා කණ්ඩායමයි.
+
+එම තරගාවලියේදී අපරාජිතව අවසන් මහා තරගය දක්වා පැමිණි ඉන්දීය කණ්ඩායම අවසන් තරගයේදී ඔස්ට්‍රේලියාව අතින් පරාජයට පත්විය.
+
+වයස අවුරුදු 19න් පහළ ලෝක කුසලාන තරගාවලියේදීද සුපිරි දක්ෂතා දැක්වූ ඉන්දීය යොවුන් ක්‍රීඩකයෝ තරගාවලියේ අපරාජිතව දක්ෂතා දක්වමින් පැමිණ අවසන් තරගයේදී ඔස්ට්‍රේලියා යොවුන් ක්‍රීඩකයින් හමුවේ දෛවෝපගත ලෙස පරාජයට පත්විය.
+
+අද පැවති තරගයේදී පිළිතුරු ඉනිම ක්‍රීඩා කළ ඉන්දීය 19න් පහළ කණ්ඩායම වෙනුවෙන් Adarsh Singh ලකුණු 47ක් රැස්කරගත්තේය.
+
+...
+
+[Data](articles/cd5a88ef.json)
+
+---
+
+### ජනාධිපති අරමුදලින් විශේෂ සහනයක්
+
+*2024-02-11 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193258) · `si`
+
+කුඩා දරුවන්ගේ අක්මා බද්ධ කිරීමේ ශල්‍යකර්ම සහ කර්ණශංඛ බද්ධ කිරීමේ ශල්‍යකර්ම සඳහා ජනාධිපති අරමුදලින් මූල්‍යාධාර ලබා දීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උපදෙස් ලබාදී තිබේ.
+
+රටේ අනාගතය වන දරු පරපුරේ සුබසිද්ධිය සහ දුප්පත් දෙමව්පියන්ට සහනයක් වීමේ අරමුණින් මෙම පියවර ගෙන ඇති බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+ඒ අනුව රාගම ශික්ෂණ රෝහලේ සිදුකරනු ලබන කුඩා දරුවන්ගේ අක්මා බද්ධ කිරීමේ ශල්‍යකර්මවලදී පූර්ව සහ පසු පරීක්ෂණ සහ ප්‍රතිකාර සඳහා යන අධික වියදම සලකා රුපියල් මිලියනයක උපරිමයකට යටත්ව මේ වසරේ ජනවාරි මස පළමුවන දින සිට ජනාධිපති අරමුදලින් මූල්‍යාධාර ලබාදීම සිදුකිරීමට නියමිතය.
+
+එමෙන්ම මෙරට තුළ වර්ෂයකට කර්ණශංඛ බද්ධ කිරීමේ සැත්කම සිදුකළ යුතු දරුවන් 200කට අධික ප්‍රමාණයක් උපත ලබන බව වෛද්‍ය පරීක්ෂණවලින් පෙන්වා දී ඇති බව ජනාධිපති මාධ්‍ය අංශය පෙන්වා දෙයි.
+
+මෙම ශල්‍යකර්මය ශ්‍රී ජයවර්ධනපුර රෝහලේදී සිදු කරනු ලබන අතර, ඒ සඳහා යොදන රුපියල් මිලියන 4කට ආසන්න වටිනාකමින් යුත් උපකරණය එම රෝහලට සෞඛ්‍ය අමාත්‍යාංශය වෙතින් නොමිලේ ලබා දුන්න ද සැත්කම සඳහා වියදම වන රුපියල් ලක්ෂ හයක මුදල රෝගීන් විසින් ගෙවිය යුතු වන බව සඳහන් වේ.
+
+...
+
+[Data](articles/1d4cd04f.json)
+
+---
+
+### சிறுவர்களுக்கு சிகரெட் விற்பனை செய்த 8 கடை உரிமையாளர்கள் கைது
+
+*2024-02-11 20:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176133) · `ta`
+
+சிறுவர்களுக்கு சிகரெட் விற்பனை செய்த 8 கடை உரிமையாளர்களை பொலிஸார் கைது செய்துள்ளனர்.
+
+ஹிக்கடுவ பொலிஸ் பிரிவிற்குட்பட்ட பிரதான பாடசாலைகளுக்கு அருகில் கடைகளை நடத்தி வந்த 8 பேரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+பாடசாலைகளுக்கு அருகாமையில் முன்கெடுக்கப்படும் வகுப்புகளுக்கு வரும் பாடசாலை மாணவர்களுக்கும் குறித்த சந்தேக நபர்கள் சிகரெட்டுக்களை விற்பனை செய்துள்ளமை விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+
+பாடசாலைகளை அடிப்படையாகக் கொண்டு பெற்றோர்கள் மற்றும் ஆசிரியர்களின் ஒத்துழைப்புடன் முன்னெடுக்கப்பட்டுள்ள விசேட நடவடிக்கையின் மூலம் இந்த குறித்த சுற்றிவளைப்பு மேற்கொள்ளப்பட்டுள்ளது.
+
+கைதுசெய்யப்பட்ட கடை உரிமையாளர்களுக்கு எதிராக காலி நீதவான் நீதிமன்றத்தில் வழக்குத் தாக்கல் செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/fa8f4183.json)
+
+---
+
+### Tension because of the fire spread on the train
 
 *2024-02-11 20:32:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-தீ-பரவியதால்-பதற்றம்/175-333044) · `ta`
 
-கம்பஹா ரயில் நிலையத்தில் நிறுத்தி வைக்கப்பட்டிருந்த எண்ணெய் ரயிலில் திடீரென தீ பரவியுள்ளது.
+The fire broke out in the oil train parked at the Gampaha railway station.
 
-இதனை கட்டுப்படுத்தும் முயற்சியில் ரயில்வே ஊழியர்கள் ஈடுபட்டுள்ளனர். தீ விபத்துக்கான காரணம் இதுவரை கண்டறியப்படவில்லை.
+Railway employees are involved in trying to control this. The cause of the fire has not yet been identified.
 
 ◼️
 
 [Data](articles/3268c638.json)
+
+[Extended Data](ext_articles/3268c638.ext.json)
 
 ---
 
@@ -63,6 +163,34 @@ The organization cautioned that individuals with respiratory ailments, such as a
 [Data](articles/1a67bceb.json)
 
 [Extended Data](ext_articles/1a67bceb.ext.json)
+
+---
+
+### ரயிலில் பரவிய தீ : கம்பஹா ரயில் நிலையத்தில் சம்பவம்
+
+*2024-02-11 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176131) · `ta`
+
+இந்த தீ விபத்தானது அங்கு நிறுத்தி வைக்கப்பட்டிருந்த எண்ணெய் ரயிலிலேயே ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/59f6688c.json)
+
+---
+
+### ஜனாதிபதி தேர்தலில் மக்கள் சரியான நபரை தெரிவு செய்யாவிட்டால் நாட்டின் எதிர்காலம் தொடர்பில் கனவு காண முடியாமல் போகும் - ஐ.தே.க, பிரதித் தலைவர் ருவன் விஜேவர்தன
+
+*2024-02-11 19:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/176132) · `ta`
+
+ஒக்டோபர் மாதம் இடம்பெற உள்ள ஜனாதிபதி தேர்தலில் மக்கள் சரியான தீர்மானம் மேற்கொண்டு சரியான நபரை தெரிவு செய்யாவிட்டால் நாட்டின் எதிர்காலம் தொடர்பாக எமக்கு கனவு காண முடியாமல் போகும் எனஐக்கிய தேசிய கட்சியின் பிரதி தலைவர் ருவன் விஜேவர்தன தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சியின் கம்பஹா மாவட்ட சம்மேளனம் ஞாயிற்றுக்கிழமை (11) யக்கல பிரதேச சபை  கேட்போர் கூடத்தில் இடம்பெற்றது. அதில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+நாங்கள் இன்று தீர்மானமிக்க இடத்திலேயே இருக்கிறோம். இந்த வருடத்தை தேர்தல் வருடமாகவே நாங்கள் பார்க்கிறோம். ஒக்டோபர் மாதமாகும்போது எமக்கு ஜனாதிபதி தேர்தலுக்கு முகம்கொடுக்க வேண்டிவரும்.  அதன் பின்னர் பொதுத் தேர்தலுக்கு முகம்கொடுக்க வேண்டிவரும். அதனைத்தொடர்ந்து மாகாண, உள்ளூராட்சி தேர்தல்களுக்கு முகம்கொடுக்க வேண்டி ஏற்படும். அதனால் கட்சி என்றவகையில் தற்போது இருந்தே அதற்காக தயாராக வேண்டும். மக்களின் தீர்மானத்துக்கமையவே நாட்டின் எதிர்காலம் தீர்மானிக்கப்படும். அதனால் நாட்டை எநத திசைக்கு கொண்டு செல்வது என்ற தீர்மானம் மக்களிடமே இருக்கிறது.
+
+...
+
+[Data](articles/b15414ef.json)
 
 ---
 
@@ -2017,127 +2145,5 @@ The Minister said that the Minister of Tamil, which is using the social media, i
 [Data](articles/457133c7.json)
 
 [Extended Data](ext_articles/457133c7.ext.json)
-
----
-
-### President to visit Sri Lanka
-
-*2024-02-11 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193228) · `si`
-
-President Ranil Wickremesinghe has returned to the island, who attended the 7th Indian Ocean Summit in Perth, Australia.
-
-The Derana Airportstorm reporter said that the President arrived at the Katunayake airport at night.
-
-The President and the delegation had arrived at the Bandaranaike International Airport on the airport of SriLankan Airlines 309.
-
-President Ranil Wickremesinghe departed to Australia on the 8th night.
-
-The President made the keynote address at the 7th Indian Ocean Conference in the Indian Ocean Conference, while the President was held with bilateral discussions with heads of state.
-
-◼️
-
-[Data](articles/85ccaede.json)
-
-[Extended Data](ext_articles/85ccaede.ext.json)
-
----
-
-### Free Medical Camp in Colombo
-
-*2024-02-11 06:26:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இலவச-மருத்துவ-முகாம்/175-332994) · `ta`
-
-The Free Medical Camp will be held from 8.30 am on Sunday (11) at the Sankarapillai Hall, Colombo Tamil Society.
-
-◼️
-
-[Data](articles/c7b21e5b.json)
-
-[Extended Data](ext_articles/c7b21e5b.ext.json)
-
----
-
-### Rainy weather
-
-*2024-02-11 06:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193227) · `si`
-
-The Meteorology Department says that there is a key weather in the island mainly.
-
-The Department states that the Northern, North-Central, Wayamba, Uva and Southern provinces are being held in the ends of the central hills.. (30-40) Strong winds can occur.
-
-In some places in the Western and Sabaragamuwa Districts, some locations are expected to look forward to a murder.
-
-◼️
-
-[Data](articles/3c34e190.json)
-
-[Extended Data](ext_articles/3c34e190.ext.json)
-
----
-
-### Prof. J.E Jayasuriya: “A Guiding Light” in Sri Lankan Education
-
-*2024-02-11 05:19:00* · [`islandlk`](http://island.lk/prof-j-e-jayasuriya-a-guiding-light-in-sri-lankan-education/) · `en`
-
-The 33rd JE Jayasuriya Memorial Lecture will be delivered by Emeritus Prof. Marie Perera at 5 pm on Feb. 14 at the SLFI
-
-In the expansive field of education, certain individuals truly stand out as inspiring innovators. Professor J.E. Jayasuriya, a distinguished educationist, and an ideal teacher, has left an unforgettable mark on the field of Education, shaping the minds of generations and contributing significantly to the educational landscape. This article seeks to honor the remarkable teacher whose ideas and contributions still inspire and shape the world of education. Born in Ahangama on February 14, 1918, he began his primary education at Nawalapitiya Anuruddha Vidyalaya and later joined Dharmasoka College in Ambalangoda. Eventually, he transitioned to Wesley College in Colombo.
-
-...
-
-[Data](articles/e865ad77.json)
-
-[Extended Data](ext_articles/e865ad77.ext.json)
-
----
-
-### Solutions for wetland pollution and abuse
-
-*2024-02-11 05:16:00* · [`islandlk`](http://island.lk/solutions-for-wetland-pollution-and-abuse/) · `en`
-
-Wetlands are the areas of land that is permanently or seasonally inundated with fresh, brackish, or saline water and comprises a range of plant and animal species that are adapted to the degree of inundation, the type of water that is present, as well as the soil conditions.
-
-Flood storage, sediment control, water quality improvement, preventing shoreline erosion and protection, providing habitats for plants, fish and wildlife, acting as Biodiversity Reservoirs, serving as breeding, nursery and feeding grounds for aquatic organisms are some of the main ecological functions. Human-Use Values include flood protection, storm Protection, nutrient transformation, removal and storage, non-consumptive recreation, commercial Fishery and aquaculture.
-
-...
-
-[Data](articles/a1b173e2.json)
-
-[Extended Data](ext_articles/a1b173e2.ext.json)
-
----
-
-### Additional allowance to the police
-
-*2024-02-11 04:15:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாருக்கு-மேலதிக-கொடுப்பனவு/175-332993) · `ta`
-
-Finance Minister Ranjith Siyambalapitiya said that the increased additional allowance to the police officers will be paid from next week.
-
-Accordingly, the Finance Minister said that the increase in the budget of 2024 will be provided to the police officers from the beginning of next week.
-
-Accordingly, in addition to the allowance received so far, the budget will be increased through the budget quickly.. (A)
-
-◼️
-
-[Data](articles/24246745.json)
-
-[Extended Data](ext_articles/24246745.ext.json)
-
----
-
-### Increase in the temperature
-
-*2024-02-11 04:06:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்பநிலை-அதிகரிப்பு/175-332992) · `ta`
-
-Temperature increased by 1 to 4 Celsius in many parts of the country. High temperature has been recorded in Puttalam.
-
-Temperature recorded as 33.5 Celsius in Ratnapura. The temperature in Katunayake has risen to 33.4 Celsius.
-
-The Department of Meteorology has predicted that heating climate may further increase next month. (A)
-
-◼️
-
-[Data](articles/47d45178.json)
-
-[Extended Data](ext_articles/47d45178.ext.json)
 
 ---

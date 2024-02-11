@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 16:47:54**
+As of **2024-02-11 17:02:36**
 
 ## Newspaper Stats
 
-*Scraped **6,298** Articles*
+*Scraped **6,299** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 527
 tamilmirrorlk | 766
 virakesarilk | 775
 adaderanalk | 779
-adaderanasinhalalk | 864
+adaderanasinhalalk | 865
 dailymirrorlk | 917
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,292 (99.9%) of 6,298 articles have been extended.
+6,298 (100.0%) of 6,299 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### කංසා අඩංගු නිෂ්පාදන ගැන ආයුර්වේද වෛද්‍යවරු කළ ඉල්ලීම
+
+*2024-02-11 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193252) · `si`
+
+දේශිය වෛද්‍යරු ඉල්ලා සිටින්නේ ආයුර්වේද දෙපාර්තමේන්තුව යටතේ ලියාපදිංචි කංසා අඩංගු නිෂ්පාදන යුක්තිය මෙහෙයුම යටතේ පොලිස් භාරයට නොගන්නා ලෙසය.
+
+මාධ්‍ය හමුවක් පවත්වමින් ආයුර්වේද වෛද්‍ය සභාවේ හිටපු ලේඛකාධිකාරී වෛද්‍ය ඩැනිස්ටර් එල් පෙරේරා මහතා එම ඉල්ලීම කළේය.
+
+"නීත්‍යනුකූල බලය ලත් ඖෂධ වන මදනමෝදකය සහ කාමේෂ්වර මෝදකය වගේ ඖෂධ පවා නීතිවිරෝධී මත්ද්‍රව්‍ය සේ සළකා අත්අඩංගුවට ගන්නවා. නීත්‍යනුකූලව පිළිගත් දෙයක් මත්ද්‍රව්‍ය ලෙස තීරණය කිරීමෙන් ආයුර්වේද වෛද්‍ය ක්‍රමයට කරන යම්කිසි හානියක් වෙනවා. ආයුර්වේද දෙපාර්තමේන්තුවේ නීත්‍යනුකූල අනුමැතිය ඇති කණ්ඩායම්වලට අගතියක් නොවන පරිදි නීතිය ක්‍රියාත්මක කරන්න අවශ්‍යයි. එසේ නොමැතිනම් ආයුර්වේද දෙපාර්තමේන්තුව හරහා වැඩපිළිවෙළක් හදන්න කංසා අඩංගු ඖෂධ අත්අඩංගුවට ගැනීම සිදුකරනවානම්."
+
+◼️
+
+[Data](articles/fd980908.json)
+
+---
 
 ### India’s invitation was in December; differed it due to tight schedule: Vijitha
 
@@ -50,6 +66,8 @@ The MP said this was not the first diplomatic level invitation to the NPP and ad
 
 [Data](articles/5b8d3c78.json)
 
+[Extended Data](ext_articles/5b8d3c78.ext.json)
+
 ---
 
 ### President’s Fund to support liver transplant and cochlear implant surgeries for children
@@ -68,6 +86,8 @@ This financial support will be effective from January 1, 2024, aiming to ease th
 
 [Data](articles/53fb8d72.json)
 
+[Extended Data](ext_articles/53fb8d72.ext.json)
+
 ---
 
 ### Police recover motorcycle used in Negombo shooting
@@ -85,6 +105,8 @@ The 60-year-old deceased has been identified as a resident of Kirana, while poli
 ◼️
 
 [Data](articles/331cbfd4.json)
+
+[Extended Data](ext_articles/331cbfd4.ext.json)
 
 ---
 
@@ -114,37 +136,45 @@ The suspects have been prosecuted before the Galle Magistrate's Court.
 
 ---
 
-### උගන්ඩා ජාතික ක්‍රිකට් කණ්ඩායම දිවයිනට
+### Uganda National Cricket Team
 
 *2024-02-11 15:52:48* · [`adalk`](https://www.ada.lk/sports/උගන්ඩා-ජාතික-ක්‍රිකට්-කණ්ඩායම-දිවයිනට/9-408010) · `si`
 
-උගන්ඩා ජාතික ක්‍රිකට් කණ්ඩායම පෞද්ගලික විස්සයි විස්ස පුහුණු තරග සංචාරයක් සදහා 02/10 දින උදෑසන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියහ.
+The Ugandan National Cricket Team arrived at the Katunayake airport for a visit to the Twenty20 tour.
 
-ඔවුන් විස්සයි විස්ස පුහුණු තරග 07 ක් සදහා සහභාගී වීමට නියමිත අතර , ඒ සදහා ශ්‍රී ලංකා ක්‍රිකට් ආයතනය , තම උසස් දක්ෂතා මධ්‍යස්ථානයේ පුහුණව ලබමින් සිටින ශ්‍රී ලංකා සංවර්ධන කණ්ඩායමේ ක්‍රීඩකයින් මෙම තරග සදහා යොමු කිරීමට නියමිතය .
+They will participate in seven Twenty20 training matches and Sri Lanka's development team is willing to compete in their Advanced Talent Center.
 
-මෙම තරග සියල්ල ගාල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ දී එළඹෙන 02/12 සිට 02/23 දින දක්වා පැවැත්වීමට නියමිතය .
+All these matches will be held from 02/12 to 02/23 at Galle International Cricket Stadium.
 
-මෙම තරග සදහා ශ්‍රී ලංකා ක්‍රිකට් ආයතනය අවශ්‍ය ක්‍රීඩා පිටි , තරග අවස්ථාවේ ආහාරපාන ද ලබා දීම තීරණය කර තිබේ .
+Sri Lanka Cricket has decided to provide food flour and food flour.
 
-මෙම උගන්ඩා ජාතික ක්‍රිකට් කණ්ඩායමට ක්‍රීඩකයින් 15 දෙනෙකු සහ පුහුණුකරුවන් සහ නිලධාරීන් 05 දෙනෙකු ඇතුළත් වී සිටි අතර ඔවුන් 02/10 දින උදෑසන 08.45 ට දෝහා සිට කටාර් ගුවන් සේවයේ කිව්.ආර්.- 664 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+Fifteen players and five trainers and officers were included in the National Cricket Team of the Uganda at 08.45 am on 02.45 pm on 02.45 am.
 
 ◼️
 
 [Data](articles/d5969863.json)
 
+[Extended Data](ext_articles/d5969863.ext.json)
+
 ---
 
-### කෝටි පහක රන් සමග කටුනායක ගුවන්තොටේ පිරිසිදු කිරීමේ සේවිකාවක් අල්ලයි
+### Katunayake A Guard of Katunayake arrested with five crores
 
 *2024-02-11 15:41:59* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-පහක-රන්-සමග-කටුනායක-ගුවන්තොටේ-පිරිසිදු-කිරීමේ-සේවිකාවක්-අල්ලයි/11-408009) · `si`
 
-රුපියල් පන් කෝටි අසූ ලක්ෂයක් වටිනා ස්වර්ණාභරණ සහ රත්තරන් ජෙල් තොගයක් , කටුනායක ගුවන් තොටුපොළ පෞද්ගලික පිරිසිදු කිරීමේ ආයතනයක සේවිකාවක විසින් , ගුවන් තොටුපොළෙන් පිට කිරීමට රැගෙන යමින් සිටියදී රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් 02/10 දින පෙරවරුවේ අත් අඩංගුවට ගෙන තිබේ .
+A group of officers of the Customs Drug Administration Division (SLAF Narcota Administration Division) has been arrested by a group of Rs.
 
-ඇය 55 හැවිරිදි වියේ පසු වන වේයන්ගොඩ , මිරිදියලන්ද ප්‍රදේශයේ පදිංචි කාන්තාවකි . පෙරවරුවේ කටුනායක ගුවන් තොටුපොළ තීරු බදු රහිත සාප්පු සංකීර්ණයේ  වැසිකිළියක් තුළ දී මෙම ස්වර්ණාභරණ සහ ජෙල් තොගය අඩංගු පාර්සලය කාන්තාවක විසින් ලබා දී තිබූ අතර , එය ගුවන් තොටුපොළෙන් පිටත සිටින පුද්ගලයෙකු වෙත ලබා දුන් පසු , ඇයට රුපියල් හැට දහසක මුදලක් ලබා දෙන පොරොන්දුව මත තමන් මෙම පාර්සලය රැගෙන ගිය බව  මෙම පිරිසිදු කිරීමේ  සේවිකාව රේගුව හමුවේ ප්‍රකාශ කර තිබේ.
+She is a 55-year-old woman living in Veyangoda, Miridalanda area.A woman had given the parcel in the Katunayake airport tariffs, and after the airport was given to a person outside the airport, he took this parcel on the promise of a million rupeesThe clergy of this cleaning maid has stated in the Customs.
 
-...
+Officers arrested by the Customs Drug Administration and Western Gel, who was arrested and hearing 400 grams and 1 kg and 1 millions, and 350 grams.. The Customs Drug Administration Division (Customs Drug Advanced) has said that there is a pure gold from 95% of the gold gel.
+
+Katunayake Airport Customs officers have begun further investigations into the matter.
+
+◼️
 
 [Data](articles/6ad554a4.json)
+
+[Extended Data](ext_articles/6ad554a4.ext.json)
 
 ---
 
@@ -227,6 +257,8 @@ Coconut shells saw the price ranging from 26,000 rupees to 28,000 rupees a metri
 ◼️
 
 [Data](articles/07405f3a.json)
+
+[Extended Data](ext_articles/07405f3a.ext.json)
 
 ---
 
@@ -2081,19 +2113,5 @@ The number of people in the nearby house in connection with the incident, the mo
 [Data](articles/5290520a.json)
 
 [Extended Data](ext_articles/5290520a.ext.json)
-
----
-
-### Application is called on on the 15th
-
-*2024-02-10 20:59:59* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුම-දෙවැනි-අදියරට-15දා-අයදුම්පත්-කැඳවයි/11-407996) · `si`
-
-The Welfare Board informs that the second phase of the revenue will be called for the second phase.
-
-◼️
-
-[Data](articles/b304547e.json)
-
-[Extended Data](ext_articles/b304547e.ext.json)
 
 ---

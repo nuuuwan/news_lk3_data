@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 14:02:31**
+As of **2024-02-11 14:17:15**
 
 ## Newspaper Stats
 
-*Scraped **6,278** Articles*
+*Scraped **6,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 333
 dailyftlk | 342
 newsfirstlk | 363
 adalk | 523
-tamilmirrorlk | 764
+tamilmirrorlk | 765
 virakesarilk | 775
 adaderanalk | 776
-adaderanasinhalalk | 859
-dailymirrorlk | 914
+adaderanasinhalalk | 861
+dailymirrorlk | 915
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,278 (100.0%) of 6,278 articles have been extended.
+6,278 (99.9%) of 6,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### ஆஸி. பெண்ணின் அந்தரங்கத்தை தொட்டவருக்கு சிக்கல்
+
+*2024-02-11 13:53:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆஸி-பெண்ணின்-அந்தரங்கத்தை-தொட்டவருக்கு-சிக்கல்/76-333010) · `ta`
+
+மசாஜ் சேவையை பெற்றுக்கொள்ள சென்ற அவுஸ்திரேலிய பெண் பிரஜையொருவரை பாலியல் துஷ்பிரயோகத்துக்கு  உள்ளாக்க முயற்சித்ததாக கூறப்படும் நபர்  தொடர்பில், அவுஸ்திரேலியா பெண் நுவரெலியா பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளார் என நுவரெலியா பொலிஸார் தெரிவித்தனர்.
+
+கொழும்பிலிருந்து கண்டிக்குச் செல்லும் வழியில் கடுகண்ணாவை  பிரதேசத்தில் இயங்கும் மசாஜ் நிலையத்தில் குறித்த சம்பவம் வெள்ளிக்கிழமை (09) இடம்பெற்றுள்ளதாகவும். அதன் பின்னர் கடுகண்ணாவை பிரதேசத்தில் இருந்து நுவரெலியாவிற்கு வருகை தந்து நுவரெலியா பொலிஸ் நிலையத்தில்  முறைப்பாடு செய்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+தனக்கு நேர்ந்த சம்பவம் குறித்து அவுஸ்திரேலியா பிரஜையான 39 வயதுடைய பெண், பொலிஸ் நிலையத்தில் செய்துள்ள முறைப்பாட்டில்,  எனது கணவர் மற்றும் குழந்தையுடன் சுற்றுலா நிமிர்த்தம் கடந்த ஜனவரி மாதம் 29 ஆம் திகதி இலங்கைக்கு வந்தோம். கூடுதலான சுற்றுலா இடங்களை பார்வையிட்டு கடந்த 9ஆம் திகதி கடுகண்ணாவை பிரதேசத்தில் ஹோட்டல் ஒன்றில் தங்கியிருந்தோம். அன்று மாலை குறித்த ஹோட்டலில்   மசாஜ் நிலையத்துக்கு சென்றிருந்தேன்.
+
+...
+
+[Data](articles/01498235.json)
+
+---
+
+### Sri Lanka’s first-ever Floating Resort to be opened on March 1
+
+*2024-02-11 13:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-first-ever-Floating-Resort-to-be-opened-on-March-1/108-276768) · `en`
+
+Negombo, Feb 11 (Daily Mirror) - Sri Lanka’s first-ever Floating Resort, Bolagala Agro Floating Resort in Negombo, will be opened on March 1, 2024, the Chairman of Bolagala Agro floating Resort, Kelum Perera said.
+
+The resort boasts 31 meticulously crafted cabanas spread across 13 acres of water surface.
+
+He said that in a world where sustainability has become an imperative, innovation in the hospitality industry is taking remarkable strides towards eco-friendly practices.
+
+"Embracing this ethos, a new beacon of responsible tourism has emerged with the grand opening of the Bolagala Agro Floating Resort.
+
+" Nestled amidst the serene waters of giant water holes in Bolagala, Katana in Negombo, this avant-garde resort promises not only a luxurious retreat but also a commitment to environmental stewardship," he said.
+
+...
+
+[Data](articles/bcfad82d.json)
+
+---
 
 ### Robber fatally assaulted by residents during break-in attempt
 
@@ -49,6 +85,40 @@ The other two robbers had fled, and the Minuwangoda police are conducting furthe
 [Data](articles/e77a001d.json)
 
 [Extended Data](ext_articles/e77a001d.ext.json)
+
+---
+
+### කාසියේ වාසිය ඔස්ට්‍රේලියාවට
+
+*2024-02-11 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193247) · `si`
+
+19න් පහළ ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අවසන් මහා තරගයේ කාසියේ වාසිය දිනාගැනීමට ඕස්ට්‍රේලියානු කණ්ඩායමේ නායකයා සමත් විය.
+
+◼️
+
+[Data](articles/15489dd7.json)
+
+---
+
+### වායු ගෝලයේ ගුණාත්මකභාවය අහිතකර මට්ටමක
+
+*2024-02-11 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193248) · `si`
+
+දිස්ත්‍රික්ක කිහිපයක වායු ගෝලයේ ගුණාත්මකභාවය මිනිස් සිරුරට අහිතකර මට්ටමක් දක්වා ඉහළ ගොස් තිබේ.
+
+විශේෂයෙන් කොළඹ, යාපනය සහ මහනුවර යන දිස්ත්‍රික්කවල එම තත්ත්වය ඉහළ අගයක් ගන්නා බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය සඳහන් කරයි.
+
+වායු ගුණත්ව දර්ශකයට අනුව නුවරඑළිය දිස්ත්‍රික්කයේ හැර දිවයිනේ සෙසු දිස්ත්‍රික්කවල වායු ගුණත්වය සංවේදී පුද්ගලයින්ට සෞඛ්‍යමය වශයෙන් බලපෑම් ඇති වන මට්ටමේ පවතින බව සඳහන් ය.
+
+කොළඹ, යාපනය, කිලිනොච්චිය, ත්‍රිකුණාමලය, බදුල්ල, කුරුණෑගල, මහනුවර, මාතලේ යන දිස්ත්‍රික්කවල වායු ගුණත්ව දර්ශකය සෞඛ්‍යමය වශයෙන් අයහපත් බලපෑම් ඇති විය හැකි මට්ටමේ පවතින බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය සඳහන් කළේය.
+
+වියළි කාලගුණ තත්ත්වය හා අසල්වැසි රටවලින් හමා එන අහිතකර දූවිලි අංශු එම තත්ත්වයට හේතු වී ඇති බව එම සංවිධානය පෙන්වාදෙයි.
+
+මේ හේතුවෙන් හෘද රෝග, ශ්වසන රෝගවලින් පසු වන පුද්ගලයින්, වයස්ගත පුද්ගලයින් හා කුඩා ළමුන් එළිමහනේ දී මුව ආවරණ පැළලඳීම සිදුකිරීම වැදගත් බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය සඳහන් කළේය.
+
+...
+
+[Data](articles/87d28e03.json)
 
 ---
 
@@ -2007,97 +2077,5 @@ Agricultural expansion and intensive settlement pressures over years have result
 [Data](articles/70cf29dc.json)
 
 [Extended Data](ext_articles/70cf29dc.ext.json)
-
----
-
-### The celebration board employee arrested for 35 years
-
-*2024-02-10 18:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193219) · `si`
-
-A woman was arrested by a woman who was hiding 35 years after the death sentence was sentenced to death.
-
-The Borella Police had launched an investigation into the murder of a Ceylon Electricity Board Quality Inspector in Athurugiriya, Athurugiriya, Athurugiriya.
-
-Accordingly, a resident of the Wellawa area, police arrested and conducted a couple.
-
-It was also revealed that the 30-year-old woman had served as a 30-year-old key scribe and had a casual affair with the victim.
-
-After his husband had revealed the relationship, the woman was convened at the Wellawa area in Athurugiriya on his advice.
-
-The police said that the murder of her husband had been murdered and put into a bar in collaboration with her husband.
-
-As a result, the couple were remanded for six months and later released on bail.
-
-Accordingly, the couple sentenced to death in 2019 after the trial without the trial.
-
-However, no police have been able to find the murder of the murder.
-
-...
-
-[Data](articles/365798d3.json)
-
-[Extended Data](ext_articles/365798d3.ext.json)
-
----
-
-### Tears tribute poster for Kala Master
-
-*2024-02-10 18:37:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கலா-மாஸ்டருக்கு-கண்ணீர்-அஞ்சலி-போஸ்டர்/71-332972) · `ta`
-
-In some parts of Jaffna - Vadamarachchi, a tearful tribute leaflets have been pasted for Kala Master from South India.
-
-Kala Master's tearful posters have been driven by the lack of confusion due to lack of uniform regulation of singer Hariharan's concert.
-
-It is noteworthy that Khushboo and Kala Master were announced to visit Jaffna to participate in the concert.
-
-It is noteworthy that the Kala Master's concert was organized as Khushboo did not participate.
-
-◼️
-
-[Data](articles/973c8bf0.json)
-
-[Extended Data](ext_articles/973c8bf0.ext.json)
-
----
-
-### Land deeds for plantation families too: Minister
-
-*2024-02-10 18:34:00* · [`economynextcom`](https://economynext.com/land-deeds-for-plantation-families-too-minister-150571/) · `en`
-
-ECONOMYNEXT – A process to award 10 perches of land on a freehold basis to every family living in the plantations was set in motion, Water Supply and Estate Infrastructure Minister Jeevan Thondaman has said.
-
-“Only about 8 percent of plantation families own their homes, compared to the national average of 86%. We will correct this historical injustice,” Thondaman said after a meeting at Temple Trees with the Secretary to the Prime Minister, which was attended by government officials, regional plantation companies, and civil society representatives, on Friday (9).
-
-“We defined the procedures for identifying suitable lands and beneficiaries, mapping, surveying, preparing deeds, and distributing titles to all plantation families.
-
-3. ⁠Rs 4 billion has been allocated by the President for this programme.
-
-“For 200 years, the plantation community, who has contributed so much to our economy, has not enjoyed the simple security of having a place to live,” Thondaman said.
-
-...
-
-[Data](articles/a76cd235.json)
-
-[Extended Data](ext_articles/a76cd235.ext.json)
-
----
-
-### Customs nab airport cleaner trying to smuggle out gold worth Rs.58 Mn
-
-*2024-02-10 18:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Customs-nab-airport-cleaner-trying-to-smuggle-out-gold-worth-Rs-58-Mn/108-276745) · `en`
-
-Colombo, Feb 10 (Daily Mirror) - An employee attached to a private cleaning company at the Bandaranaike International Airport (BIA) was nabbed by the Sri Lanka Customs officials while attempting to smuggle out gold worth over Rs. 58 million early this morning, sources said.
-
-Officials of the Customs Narcotic Control Unit stationed at the BIA Arrivals Terminal on suspicion searched a female staff member of a private cleaning company to find gold concealed in her handbag.
-
-Customs spokesman and Senior Director Seewali Arukgoda told the Daily Mirror that the suspect was about to leave the airport after finishing her duty shift when she was apprehended.
-
-The sleuths found gold jewellery and gold gel weighing up to 2,700 grams from the suspect’s handbag. The 53-year-old female suspect has been detained for further inquiries.
-
-◼️
-
-[Data](articles/802e889d.json)
-
-[Extended Data](ext_articles/802e889d.ext.json)
 
 ---

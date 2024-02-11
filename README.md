@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 18:50:25**
+As of **2024-02-11 19:02:28**
 
 ## Newspaper Stats
 
-*Scraped **6,313** Articles*
+*Scraped **6,314** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 342
 newsfirstlk | 363
 adalk | 530
 tamilmirrorlk | 768
-virakesarilk | 776
+virakesarilk | 777
 adaderanalk | 780
 adaderanasinhalalk | 869
 dailymirrorlk | 919
@@ -26,31 +26,53 @@ dailymirrorlk | 919
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,311 (100.0%) of 6,313 articles have been extended.
+6,313 (100.0%) of 6,314 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
 
-### ඇෆ්ගනිස්තානයට ලොකු ඉලක්කයක්
+### கயிறு கழுத்தில் இறுகி சிறுவன் உயிரிழப்பு : நுவரெலியாவில் சோகம்
+
+*2024-02-11 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176122) · `ta`
+
+தனிவீட்டில் வசித்த பாடசாலை சிறுவன் ஒருவர் வீட்டுக்கு அருகில் தேயிலைத் தோட்டத்தில் சவுக்கு மரத்தில் கயிறு கட்டி விளையாடிக் கொண்டிருந்த போது கயிறு கழுத்தில் இறுகிய நிலையில் உயிரிழந்த சம்பவம் நுவரெலியா பொலிஸ் பிரிவுக்குட்பட்ட மாகஸ்தோட்ட பகுதியில் ஞாயிற்றுக்கிழமை பகல் 01 மணியளவில் இடம்பெற்றுள்ளது.
+
+இந்த சம்பவத்தில் சிறுவன் சம்பவ இடத்திலேயே உயிரிழந்துள்ளதாக அடையாளம் காணப்பட்டுள்ளதாக நுவரெலியா குற்றப்புலனாய்வு பொலிஸார் தெரிவித்தனர்.
+
+நுவரெலியா மாகாஸ்தோட்ட பகுதியில் தனிவீட்டில் தாய் மற்றும் இரு பெண் பிள்ளைகள் ஆண் பிள்ளை ஒருவருடன் நால்வர் வசித்து வருகின்றனர்.
+
+தனது கணவன் இறந்து ஐந்து வருடங்கள் ஆகிய பின் தாய் பிள்ளைகளைப் படிக்கவைத்து வாழ்ந்து வரும் நிலையில் மூத்த மகள் பல்கலைக்கழக படிப்புக்குச் சென்ற பின் வீட்டில் சிறிய மகள் தாய் மற்றும் சம்பவத்தில் உயிரிழந்த சிறுவன் என மூவர் வசித்து வந்துள்ளனர்.
+
+இந்த நிலையில் வழமைபோல சிறுவன் உயிர் பிரிந்த இடத்தில் சவுக்கு மரம் ஒன்றில் கயிறு கட்டி விளையாடி கொண்டிருந்துள்ளார்.
+
+...
+
+[Data](articles/7976ca7a.json)
+
+---
+
+### A big goal to Afghanistan
 
 *2024-02-11 18:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193256) · `si`
 
-දෙවන එක්දින ක්‍රිකට් තරගයේ ප්‍රථමයෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 50 අවසානයේ කඩුලු 6ක් දැවී ලකුණු 308ක් රැස්කරගත්තේය.
+Batting first, Sri Lanka scored 308 runs for the loss of 6 wickets at the end of 50 overs.
 
-එහිදී අගනා ඉනිමක් ක්‍රීඩා කළ චරිත් අසලංක පන්දු 74කදී හයේ පහර 2ක් සහ හතරේ පහර 9ක් සමග ලකුණු 97ක් රැස්කරගත්තේය.
+Charath scored 97 off 74 balls with a premier innings.
 
-නායක කුසල් මෙන්ඩිස් අගනා ඉනිමක් ක්‍රීඩා කරමින් හයේ පහරක් සහ හතරේ පහරක් සමග ලකුණු 61ක් රැස්කරගැනීමට සමත්විය.
+Leader Kusal Mendis played a valuable innings and scored 61 runs with a hit with a six.
 
-සදීර සමරවික්‍රම අගනා ඉනිමක් ක්‍රීඩා කරමින් හතරේ පහර 3ක් සමග ලකුණු 52ක් රැස්කරගත්තේය.
+Sedira Samarawickrama played a precious innings and scored 52 runs with three fours.
 
-නවක ක්‍රීඩක ජනිත් ලියනගේ අද තරගයේදී සිය දෙවන එක්දින අර්ධ ශතකය රැස්කිරීම ද විශේෂත්වයකි.
+New day of Jathika Janith Liyanage is also a collection of its second ODI century today.
 
-පසල්හක් ෆරූකි, නූර් අහමඩ්, ක්වයිස් අහමඩ් එක් කඩුල්ල බැගින් දවාගත්තේය.
+Pureeki, Faruki, Ahmed, Queise Ahmed, took one wicket each.
 
 ◼️
 
 [Data](articles/a24c5864.json)
+
+[Extended Data](ext_articles/a24c5864.ext.json)
 
 ---
 
@@ -805,6 +827,8 @@ As Sri Lanka prepares for another circus to elect the same set of crooks who man
 ...
 
 [Data](articles/88c3b131.json)
+
+[Extended Data](ext_articles/88c3b131.ext.json)
 
 ---
 
@@ -2111,33 +2135,5 @@ Police said the shooting was carried out due to a land dispute and the suspect w
 [Data](articles/a602ef41.json)
 
 [Extended Data](ext_articles/a602ef41.ext.json)
-
----
-
-### 35 years later
-
-*2024-02-10 23:33:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/35-வருடங்களுக்குப்-பின்-கைதாகிய-மரண-தண்டனை-கைதி/175-332987) · `ta`
-
-A woman who has been in hiding for 35 years has been arrested after being sentenced to death.
-
-He has been arrested by the Criminal Investigation Department's assassination and organized Criminal Investigation Division.
-
-Investigations carried out on the assassination of a Ceylon Electricity Board (CEB) in 1989 in the Athurugiriya Wellawa area.
-
-It was revealed that the 30 -year -old woman was working as an English typewriter at the Electricity Board and had a misunderstanding with the murdered man.
-
-On a particular day in 1989, the woman was informed of her husband, and the woman brought her to her home in Athurugiriya, Wellawa.
-
-The police said that they along with her husband and killing the counterfeiter into pieces and putting it in the well.
-
-Subsequently, both husband and wife were kept in interrogation for six months and later released on bail.
-
-The couple was later sentenced to death in 2019 after an inquiry conducted without them.
-
-...
-
-[Data](articles/206a059b.json)
-
-[Extended Data](ext_articles/206a059b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 23:02:25**
+As of **2024-02-11 23:17:27**
 
 ## Newspaper Stats
 
-*Scraped **6,336** Articles*
+*Scraped **6,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 533
 tamilmirrorlk | 771
 virakesarilk | 783
 adaderanalk | 783
-adaderanasinhalalk | 874
+adaderanasinhalalk | 875
 dailymirrorlk | 921
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,336 (100.0%) of 6,336 articles have been extended.
+6,336 (100.0%) of 6,337 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### අනවසර විදුලි රැහැනක ගැටී පුද්ගලයෙකු මරුට
+
+*2024-02-11 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193262) · `si`
+
+කොස්ගොඩ ප්‍රදේශයේ වෙල්යායක අනවසර විදුලි රැහැනක ගැටීමෙන් පුද්ගලයෙකු අවාසනාවන්ත ලෙස මියගොස් තිබේ.
+
+පොලීසිය සැකපළකරන්නේ මියගිය පුද්ගලයාම ඌරන් දඩයම් කිරිමට ඇද තිබූ අනවසර විදුලි රැහැනක ගැටී ඔහු මෙලෙස මියයන්නට ඇති බවටය.
+
+එම පුද්ගලයා කුරුඳු තැලීමේ රැකියාවේ නිරතව සිටින අයෙකු බවට මේ වනවිට තොරතුරු වාර්තා වී තිබේ.
+
+මේ අතර ප්‍රදේශවාසීන් චෝදනා කරන්නේ මෙලෙස අනවසර විදුලි රැහැන් ඇදතිබීම හේතුවෙන් තම ජීවිත ද අවදානම් තත්ත්වයක පවතින බවය.
+
+◼️
+
+[Data](articles/2b0e1ab4.json)
+
+---
 
 ### Sri Lanka beat Afghanistan by 155 runs to seal ODI series
 
@@ -2159,33 +2177,5 @@ We need international support for our intention to make leadership and raise awa
 [Data](articles/525de45f.json)
 
 [Extended Data](ext_articles/525de45f.ext.json)
-
----
-
-### Recovery with relatives on telephone to save Israeli soldiers
-
-*2024-02-11 07:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176065) · `ta`
-
-A six -year -old girl who screamed on the phone to save her as she was hit by an Israeli soldiers as he escaped from Gaza city in a car with relatives last month.
-
-Hind Rajab, a girl, was traveling with her relatives in the car while she was traveling in Israel's tanky attack.
-
-Conversations between the girl and the emergency call unit revealed that the little girl survived the attack.
-
-Hind Rajab shouted by phone to save herself in the bodies of her relatives- however, her phone conversation was cut off among the shootings.
-
-They were able to find the car that was traveling by the hind, and the car was found in a state of disintegration.
-
-They said that another vehicle nearby was completely burned.
-
-The Palestinian Red Cross has alleged that Israel has deliberately targeted an ambulance vehicle that rushed to the area where it was located.
-
-The Palestinian Red Cross Association has accused the ambulance of deliberately being attacked by Israel to send an ambulance to save the girl.
-
-...
-
-[Data](articles/b926ab13.json)
-
-[Extended Data](ext_articles/b926ab13.ext.json)
 
 ---

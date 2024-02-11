@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-11 13:33:04**
+As of **2024-02-11 13:51:33**
 
 ## Newspaper Stats
 
-*Scraped **6,271** Articles*
+*Scraped **6,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 522
 tamilmirrorlk | 764
 virakesarilk | 775
 adaderanalk | 776
-adaderanasinhalalk | 858
-dailymirrorlk | 909
+adaderanasinhalalk | 859
+dailymirrorlk | 911
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,268 (100.0%) of 6,271 articles have been extended.
+6,274 (100.0%) of 6,274 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-11 (Sunday)
+
+### NPP says that changed compared to changes
+
+*2024-02-11 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193246) · `si`
+
+According to the National Jathika Prime Minister Vijitha Herath, the Executive Committee of the National Institute of Power has also changed to the change in world politics.
+
+He was speaking at a press conference held at his party headquarters today (11) at his party headquarters to clarify the Indian force's visit to India.
+
+Vijitha Herath said that the visit to the Indian government and the 10-day visit was reduced to five days.
+
+◼️
+
+[Data](articles/3b8c96ac.json)
+
+[Extended Data](ext_articles/3b8c96ac.ext.json)
+
+---
 
 ### Contraband including mobile phones, SIM cards recovered at Boossa Prison
 
@@ -50,29 +68,33 @@ Wards ‘A’ and ‘D’ of the prison are reportedly used to detain criminals 
 
 ---
 
-### මීගමුවේ ඝාතනයට භාවිත කළ යතුරුපැදිය සොයා ගැනේ
+### Motorcycle used in Negombo
 
 *2024-02-11 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193245) · `si`
 
-මීගමුවේ පුද්ගල ඝාතනයට යොදාගත් යතුරුපැදිය සීදුවේ අතහැර දමා ගොස් තිබිය දී විමර්ශන නිලධාරින් විසින් සොයාගෙන තිබේ.
+Investigations have recovered the motorcycle used in the Meekara in Negombo.
 
-මීගමුව - ගල්කන්ද මංසන්ධියේ දී පුද්ගලයෙකු ඉලක්කකර ඊයේ (10) රාත්‍රී 07ට පමණ වෙඩිතැබීමක් සිදුකර තිබිණි.
+At the Galkanda junction, Negombo, a person had shouting around 7 pm yesterday.
 
-පොලීසිය පැවසුවේ, ගල්කන්ද මංසන්ධියේ වෙළෙඳසලක් ඉදිරිපිට යතුරුපැදියක නැගී සිටි පුද්ගලයෙකු ඉලක්ක කරගනිමින් තවත් යතුරුපැදියකින් පැමිණි දෙදෙනෙකු එම වෙඩිතැබීම සිදු කර ඇති බවයි.
+According to the police, two persons who had arrived in another motorcycle have been shot with a motorcycle targeting a motorbike in front of a shop in front of a motorcycle.
 
-වෙඩිතැබීම සඳහා භාවිත කර ඇත්තේ, මිලිමීටර් 9 වර්ගයේ ගිනි අවියකි.
+The shooting is used in a millimeter of 9 millimeter firearm.
 
-වෙඩිවැදුණු පුද්ගලයා මීගමුව මහ රෝහලට රැගෙන යාමට එම ස්ථානයේ සිටි පිරිස් කටයුතු කර තිබූ අතර, රෝහලට රැගෙන යන විටත් ඔහු මිය ගොස් තිබිණි.
+The victim was taken to the Negombo General Hospital and he had died when he was taken to the hospital.
 
-මිය ගිය පුද්ගලයා කිරණ ප්‍රදේශයේ පදිංචි ව සිටි 60 හැවිරිදි පුද්ගලයෙකි.
+The deceased is a 60 year old resident of the Kirana area.
 
-වෙඩි තැබීමෙන් පසු සැකකරුවන් දෙදෙනා පළා ගොස් ඇති අතර, ඔවුන් සොයා මීගමුව කොට්ඨාස අපරාධ විමර්ශන අංශය මෙහෙයුමක් ආරම්භ කර තිබිණි.
+The two suspects were fled by after the shooting, while the Negombo Division Criminal Investigation Division has launched an operation.
 
-එහි දී වෙඩි තැබීමට පැමිණි යතුරුපැදිය සීදුව අමන්දොලුව - අලුත්හේන පාරේ අතහැර දමා ගොස් තිබිය දී සොයාගැනීමට විමර්ශන නිලධාරින් සමත් ව ඇත.
+The motorquark that came to shooting was amazing at the Hospitals in the Newhena road, the investigation was found in the Newhena road.
 
-...
+A jacket and a helmet for the crime with the crime have been taken into custody and a helmet.
+
+◼️
 
 [Data](articles/51d382b7.json)
+
+[Extended Data](ext_articles/51d382b7.ext.json)
 
 ---
 
@@ -100,31 +122,63 @@ Bibila police said that the girl had been admitted to the Moneragala District Ho
 
 ---
 
-### බ්‍රිතාන්‍යයේ ළාබාලතම ආචාර්ය උපාධිධාරියා
+### Myanmar’s military government enforces conscription law
 
-*2024-02-11 12:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193244) · `si`
+*2024-02-11 12:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Myanmars-military-government-enforces-conscription-law/107-276765) · `en`
 
-වයස අවුරුදු 12 දී විශ්වවිද්‍යාලයට ඇතුළු වූ දරුවෙකු එංගලන්තයේ ළාබාලතම ආචාර්‍ය උපාධිධාරියා බවට පත් ව තිබේ.
+Myanmar , Feb 11 (BBC) - The government in Myanmar has announced compulsory military service for all young men and women as the country's turmoil continues.
 
-Yasha Asley නම් මොහු මානව ගණක යන්ත්‍රය ලෙස හැඳින්වෙන බව විදෙස් වාර්තා සඳහන් කරයි.
+The army seized power from the civilian government in a coup in February 2021.
 
-ව්‍යවහාරික ගණිතය (applied mathematics) විෂය පිළිබඳ මොහු සිය ආචාර්‍ය උපාධිය සම්පූර්ණ කර ඇත.
+But in recent months it has been defeated in a series of battles with ethnic militias and anti-coup fighters.
 
-22 හැවිරිදි තාරකා භෞතික විද්‍යාඥයෙකු අභිභවා යමින් ආචාර්ය උපාධියක් ලබාගත් බ්‍රිතාන්‍යයේ ළාබාලතම පුද්ගලයා බවට Yasha Asley පත් ව තිබේ.
+The move announced on Saturday will require all men aged 18-35, and women aged 18-27, to serve at least two years under military command.
 
-මොහු කෘත්‍රීම බුද්ධිය (AI) සහ දත්ත විද්‍යාවට අදාළ ක්ෂේත්‍රයක රැකියාවක් කිරීමට අපේක්ෂා කරන බව වාර්තා වේ.
+No further details have been released. But in a statement, the junta said its defence ministry would "release necessary bylaws, procedures, announcements orders, notifications and instructions".
 
-Yasha Asley හට ප්‍රංශ සහ පර්සියානු භාෂා චතුර ලෙස හැසිරවිය හැකි බව ද සඳහන් ය.
+The military has faced a series of humiliating defeats in recent months.
 
-Yasha Asley පාසල් යන අවදියේ දී ඔහුගේ ප්‍රාථමික පාසල් ගුරුවරයා, පාසල තුළ Asleyගේ අධ්‍යාපන අවශ්‍යතා සපුරාලිය නොහැකි බව සඳහන් කර ඇත.
-
-ඒ අනුව සතියට දින 03ක් පමණක් පාසල් එන ලෙස හා සතියට දෙවරක් විශ්වවිද්‍යාලයට යන ලෙස ගුරුවරයා Asleyට උපදෙස් ලබා දී තිබේ.
-
-Yasha Asley බ්‍රිතාන්‍යයේ දැනට සිටින ළාබාලතම ආචාර්ය උපාධිධාරියා ලෙස සැලකෙන නමුත් එම ජයග්‍රහණය අත්කරගත් ලොව ළාබාලම පුද්ගලයා ඔහු නො වේ.
+At the end of last year, three ethnic insurgent armies in Shan State - supported by other armed groups that oppose the government - captured border crossings and roads carrying most of the overland trade with China.
 
 ...
 
+[Data](articles/253ced63.json)
+
+[Extended Data](ext_articles/253ced63.ext.json)
+
+---
+
+### Largest doctoral doctorate in Britain
+
+*2024-02-11 12:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193244) · `si`
+
+At the age of 12, a child who entered the university has become the youngest doctoral student of England.
+
+He is known as the human calculation, if yasha asley is the human calculation.
+
+He has completed his doctorate on the subject of Applied Mathematics.
+
+The Yasha asley has been appointed as a 22-year-old star physicist.
+
+It is reported that he is expected to employ artist intelligence (AI) and data science.
+
+Yasha asley is also fluent in French and Persian language.
+
+In the early days of Yasha asley schools, his elementary school teacher cannot meet Asley's education needs in the school.
+
+Accordingly, the teacher has instructed the Asley to come to the University twice twice a week, as it was only three days a week.
+
+Yasha Asley is considered the most youngest physician in Britain, but he is not the most youngest person in the world.
+
+Thama Mohamed was in 19 years of age in 2016.
+
+Imran Nasam completed a doctorate on astronomical science at the age of 22 years last year.
+
+◼️
+
 [Data](articles/43225ba4.json)
+
+[Extended Data](ext_articles/43225ba4.ext.json)
 
 ---
 
@@ -146,23 +200,43 @@ Meanwhile, Opposition Leader Sajith Premadasa, however, has declared that this i
 
 ---
 
-### දුෂ්මන්තට තරගාවලිය අහිමි වෙයි?
+### Sri Lanka cannot depend on other nations for ever: Ruwan
+
+*2024-02-11 11:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-cannot-depend-on-other-nations-for-ever-Ruwan/108-276763) · `en`
+
+Gampaha, Feb 11 (Daily Mirror) - Sri Lanka cannot depend on other countries every day and it is high time the nation stands up on its own with pride, UNP Deputy Leader Ruwan Wijewardene said over the weekend.
+
+"Sri Lanka cannot borrow from other nations everyday and follow their instructions. It is high time the nation stands up by itself. President Ranil Wickremesinghe and the government are striving to see that Sri Lanka achieves this status," Wijewardene told the UNP Gampaha District convention.
+
+"The time has come for the people of Sri Lanka to make the right decision on behalf of their nation," he added.
+
+...
+
+[Data](articles/2cd9a41a.json)
+
+[Extended Data](ext_articles/2cd9a41a.ext.json)
+
+---
+
+### Dreaminantha loses the tournament?
 
 *2024-02-11 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193243) · `si`
 
-ආබාධයක් හේතුවෙන් දුෂ්මන්ත චමීරට ඇෆ්ගනිස්ථානය සමග පැවත්වෙන එක්දින තරගාවලිය අහිමි වී ඇති බව ආරංචි මාර්ග සඳහන් කරයි.
+According to sources, the ODI tournament with Afghanistan has lost the one day tournament due to a disorder.
 
-ඒ වෙනුවට අසිත ප්‍රනාන්දු ශ්‍රී ලංකා සංචිතයට ආදේශ කර ඇති බව වාර්තා වේ.
+It is reported that Asapha Fernando has been replaced to the Sri Lankan squad.
 
-සංචාරක ඇෆ්ගනිස්තාන කණ්ඩායම සහ ශ්‍රී ලංකා පිල අතර දෙවන එක්දින ක්‍රිකට් තරගය පල්ලේකැලේ ක්‍රීඩාංගණයේ දී අද (11) පස්වරුවේ පැවැත්වෙයි.
+The tourism Afghan group and Sri Lanka will be held at the Pallekele Stadium today (11).
 
-ඇෆ්ගනිස්තාන පිල සහ ශ්‍රී ලංකාව අතර තරග 03කින් සමන්විත එක්දින ක්‍රිකට් තරගාවලියේ පළමු තරගය ලකුණු 42කින් ජය ගැනීමට ශ්‍රී ලංකා පිල සමත් විය.
+Sri Lanka won the first match of the three-day cricket tournament with Afghanistan and Sri Lanka by 42 runs.
 
-ඒ අනුව තරග 3කින් සමන්විත මෙම තරගාවලියේ එකට බින්දුවක් ලෙස පෙරමුණ ගෙන සිටින්නෙ ශ්‍රී ලංකාවයි.
+Accordingly, Sri Lanka is a drop of the 3-match tournament.
 
 ◼️
 
 [Data](articles/83140fde.json)
+
+[Extended Data](ext_articles/83140fde.ext.json)
 
 ---
 
@@ -2033,69 +2107,5 @@ It is very common to see political parties visit India every month, but this is 
 [Data](articles/08446dc1.json)
 
 [Extended Data](ext_articles/08446dc1.ext.json)
-
----
-
-### Hope AKD attracts FDIs through his Indian visit: Kanchana
-
-*2024-02-10 18:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hope-AKD-attracts-FDIs-through-his-Indian-visit-Kanchana/108-276743) · `en`
-
-Colombo, Feb 10 (Daily Mirror) - Power and Energy Minister Kanchana Wijesekera said today that he hopes that National People’s Power (NPP) leader Anura Kumara Dissanayake (AKD) makes positive statements regarding his visit to India and he understands the need for investors in Sri Lanka.
-
-Addressing the media, he said that whoever had invited AKD to India, had done a good thing.
-
-"AKD might have gained a vast amount of experience over the need for investors in our country from any country in the world, including India. After experiencing the development of India's energy sectors, I don't think that AKD would get a chance to chase away the investors who are coming to the country.
-
-"AKD dressed according to the European dress code, ignoring his traditional dress. I don't think his trade unions understand how he behaves," he said.
-
-It is very common to see political parties visit India every month, but this is the first time that the Janatha Vimukthi Peramuna (JVP) is in India, he said.
-
-...
-
-[Data](articles/84b606dd.json)
-
-[Extended Data](ext_articles/84b606dd.ext.json)
-
----
-
-### Anura Kumara-led NPP delegation returns after India visit
-
-*2024-02-10 18:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97170/anura-kumara-led-npp-delegation-returns-after-india-visit) · `en`
-
-The delegation of National People’s Power (NPP) led by Anura Kumara Dissanayake has returned to the island this evening (Feb. 10) following their 05-day official visit to India.
-
-Commenting to the media upon returning, he expressed that comprehensive details about his official visit would be made public by holding a press conference in the coming days.
-
-The Marxist-Leninist communist party delegation left for India on Monday (05) ‘on an official invitation of the Indian government’, as per a statement issued by the party.
-
-During the visit, Dissanayake met with several high-level officials and political figures in India including India’s Minister of External Affairs Dr. S. Jaishankar, India’s National Security Advisor and the Chief Minister of Gujarat Bhupendra Patel, and held discussions focused on bilateral relations between the two nations.
-
-The delegation also joined an observation tour of agricultural areas and agro-industries in Ahmedabad.
-
-...
-
-[Data](articles/c3a8535f.json)
-
-[Extended Data](ext_articles/c3a8535f.ext.json)
-
----
-
-### Sri Lanka will not allow anything harmful to India’s security - President Ranil
-
-*2024-02-10 18:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97169/sri-lanka-will-not-allow-anything-harmful-to-indias-security-president-ranil) · `en`
-
-President Ranil Wickremesinghe, addressing concerns about China’s increased presence in the Indian Ocean region, said the island nation would not allow anything that would jeopardize India’s security.
-
-During an exclusive interview with Indian news channel WION, the Sri Lankan leader said, “We’ve kept Indian security in mind and we will not allow anything to happen that will be harmful to Indian security, and these are all hydrographical vessels.”
-
-When asked about the Sri Lankan government’s decision to not allow the visits of Chinese vessels, Wickremesinghe, who is in Australia for the 7th Indian Ocean Conference, explained that the administration decided to say no to ships from any country hydrographic matters as it is focusing on building its own hydrographical capacity.
-
-“But if they are Navy ships that are coming in for visits, yes we will allow it,” the President told WION’s diplomatic correspondent Sidhant Sibal in Perth.
-
-...
-
-[Data](articles/c927a490.json)
-
-[Extended Data](ext_articles/c927a490.ext.json)
 
 ---

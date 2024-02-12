@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 02:17:24**
+As of **2024-02-13 02:32:48**
 
 ## Newspaper Stats
 
-*Scraped **6,586** Articles*
+*Scraped **6,592** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 90
 dbsjeyarajcom | 147
 economynextcom | 339
 islandlk | 347
-dailyftlk | 353
+dailyftlk | 359
 newsfirstlk | 363
 adalk | 557
 tamilmirrorlk | 802
@@ -26,11 +26,109 @@ dailymirrorlk | 963
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,586 (100.0%) of 6,586 articles have been extended.
+6,586 (99.9%) of 6,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### Abolishment of Executive Presidency must only happen following 2024 poll – Marikkar
+
+*2024-02-13 01:35:42* · [`dailyftlk`](https://www.ft.lk/news/Abolishment-of-Executive-Presidency-must-only-happen-following-2024-poll-Marikkar/56-758421) · `en`
+
+Says SJB will not support any effort to abolish post before elections are held
+
+Claims it will only allow Ranil Wickremesinghe and SLPP to remain in power
+
+Stresses its important to allow people to exercise their democratic right to vote to avoid further crisis
+
+Slams NPP’s recent visit to India while recalling party’s past of opposing ‘Indian Expansionism’ in SL
+
+Samagi Jana Balawegaya (SJB) Deputy National Organiser and MP S.M. Marikkar yesterday proposed that the country must only abolish the Executive Presidency following the Presidential election of 2024.
+
+Addressing a press conference, Marikkar said the SJB would not endorse any attempt to eliminate the position before the election, as it would only serve to enable President Ranil Wickremesinghe and the Sri Lanka Podujana Peramuna (SLPP) to prolong their tenure in power.
+
+...
+
+[Data](articles/72c15cc5.json)
+
+---
+
+### HRCSL alarmed by OSA compliance issues with SC determination
+
+*2024-02-13 01:34:41* · [`dailyftlk`](https://www.ft.lk/news/HRCSL-alarmed-by-OSA-compliance-issues-with-SC-determination/56-758420) · `en`
+
+The Human Rights Commission of Sri Lanka (HRCSL) has raised concerns about potential non-compliance with the Supreme Court’s Determination regarding the recently enacted Online Safety Act. In a letter addressed to the Speaker of Parliament, the HRCSL highlighted that the Supreme Court had identified over 30 clauses and omissions in the original Online Safety Bill that were inconsistent with the Constitution.
+
+While the Court permitted Parliament to proceed with the Bill after incorporating specific amendments, the HRCSL’s review of the enacted Act suggests that these changes may not have been fully implemented. The Commission emphasised that enacting legislation without addressing the Court’s concerns raises serious questions about the Act’s compliance with the Constitution, particularly regarding fundamental rights protections.
+
+...
+
+[Data](articles/39a19d1b.json)
+
+---
+
+### COYLE’s Diplomats’ Evening 2024 marks strategic steps for Sri Lanka’s economy
+
+*2024-02-13 01:34:02* · [`dailyftlk`](https://www.ft.lk/business/COYLE-s-Diplomats-Evening-2024-marks-strategic-steps-for-Sri-Lanka-s-economy/34-758419) · `en`
+
+COYLE, successfully hosted the annual Diplomats’ Evening on 25 February at Hilton Blue Colombo, marking another milestone in furthering global marketplaces for Sri Lanka’s economic resurgence. With a commitment to fostering equitable growth, this exclusive event aimed to fortify the local employee base through foreign investments obtained via diplomatic relations.
+
+The event, enforced COYLE’s annual theme “Evolution” highlighting the resilience and transformative spirit within the entrepreneurial community. Foreign Minister Ali Sabry participated the occasion as the chief guest, delivering a compelling message on the pivotal role of international cooperation in bolstering Sri Lanka’s economy. Recognising COYLE’s dedication to expanding the export market, the Foreign Ministry commended COYLE’s efforts.
+
+...
+
+[Data](articles/ebbf0930.json)
+
+---
+
+### EU - Sri Lanka discussions on enhancing bilateral trade ties
+
+*2024-02-13 01:32:52* · [`dailyftlk`](https://www.ft.lk/business/EU-Sri-Lanka-discussions-on-enhancing-bilateral-trade-ties/34-758418) · `en`
+
+The EU - Sri Lanka Working Group on Trade and Economic Cooperation was organised by the Department of Commerce and was held on 6 February virtually with the participation of high level delegates from the two sides.
+
+The session was co-chaired by EU side Directorate General for Trade of the European Commission Director (trade relations with Africa, Caribbean and Pacific regions, South and South-East Asia, Australia and New Zealand, Trade and Sustainable Development, the Green Deal) Dora Correia and Sri Lanka side Ministry of Trade, Commerce and Food Security Secretary A.M.P.M.B. Atapattu. Ambassador Designate of Sri Lanka to Belgium, Luxembourg and the EU H.E. Chandana Weerasena, and the EU Delegation in Colombo also attended the session. The two sides engaged in productive deliberations to enhance bilateral trade ties between the EU and Sri Lanka.
+
+...
+
+[Data](articles/5f8e4f9b.json)
+
+---
+
+### USA Ambassador discusses food security with Trade Minister
+
+*2024-02-13 01:32:00* · [`dailyftlk`](https://www.ft.lk/business/USA-Ambassador-discusses-food-security-with-Trade-Minister/34-758417) · `en`
+
+The US Ambassador Julie J. Chung called on Trade Minister Nalin Fernando yesterday.
+
+The Ambassador said that currently, Sri Lanka is in the way of economic progress reforms and a market-oriented economy and emphasised the importance of enhancing food security in the country. She also stated that to slash the food price increase and to adapt to the inflation, Sri Lanka needs to diversify the market.
+
+...
+
+[Data](articles/842a8af1.json)
+
+---
+
+### Shell-RM Parks and CPSTL sign agreement for fuel storage, distribution
+
+*2024-02-13 01:31:07* · [`dailyftlk`](https://www.ft.lk/business/Shell-RM-Parks-and-CPSTL-sign-agreement-for-fuel-storage-distribution/34-758416) · `en`
+
+The Ceylon Petroleum Storage Terminals (CPSTL) signed an agreement with US-based petroleum products distributor ‘Shell-RM Parks’ yesterday.
+
+The relevant agreement was signed at the CPSTL Head Office, pertaining to the storage and distribution of fuel in Sri Lanka.
+
+As per the newly signed agreement, CPSTL is now able to store and distribute ‘Shell-RM Parks’ petroleum products in Sri Lanka.
+
+On 8 June 2023, the Government of Sri Lanka signed an agreement with RM Parks Inc., in collaboration with Shell PLC for a long-term contract for the importation, storage, distribution, and sale of petroleum products in Sri Lanka.
+
+“US-based petroleum company RM Parks in a collaboration with Shell PLC signed the agreement to enter the Sri Lanka petroleum business. RM Parks will be the 4th supplier to enter the domestic market and will operate under the ‘Shell’ branding.”
+
+...
+
+[Data](articles/9c82e820.json)
+
+---
 
 ### Four Indians in the World Cup selection squad under the age of 19;Team captain Hue Weejen
 
@@ -1921,111 +2019,5 @@ However, media reports have stated that the accusation of the Israeli was charge
 [Data](articles/8fcebc27.json)
 
 [Extended Data](ext_articles/8fcebc27.ext.json)
-
----
-
-### The government cannot control spending
-
-*2024-02-12 14:45:14* · [`adalk`](https://www.ada.lk/breaking_news/රජයට-වියදම්-පාලනය-කරන-ගන්න-බැරිවෙයි/11-408034) · `si`
-
-Professor Wasantha Athukorala, the Department of Economics and Statistical Studies of the Department of Economics and Statistical Studies of the University of Peradeniya says that the government is expected to control expenditure.
-
-Accordingly, the government revenue has increased by Rs.
-
-The professor is analyzing the first 11 months of the year of 2023, the professor said.
-
-He pointed out that the government expenditure has increased by nearly Rs. 125 billion and the government's expenditure has increased by Rs.
-
-◼️
-
-[Data](articles/8d7bf0c8.json)
-
-[Extended Data](ext_articles/8d7bf0c8.ext.json)
-
----
-
-### Resolution to jump from tomorrow
-
-*2024-02-12 14:40:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-குதிக்க-தீர்மானம்/175-333072) · `ta`
-
-The Department of Health has said that the Department of Health Services will be involved in the re -work of the Department of Health Services tomorrow (13).
-
-◼️
-
-[Data](articles/562dcde2.json)
-
-[Extended Data](ext_articles/562dcde2.ext.json)
-
----
-
-### Health trade unions to resume strike as talks fail
-
-*2024-02-12 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97200/health-trade-unions-to-resume-strike-as-talks-fail-) · `en`
-
-The health sector trade unions have decided to resume their trade union action as discussions held with the Ministry of Finance regarding their demands were unsuccessful.
-
-Accordingly, 72 health sector trade unions, excluding doctors’ unions, will launch an indefinite strike from 6.30 a.m. tomorrow (13 Feb.), the unions said.
-
-The decision had been taken following a meeting held between representatives of the Finance Ministry and the trade unions this morning regarding the latter’s demand for the Disturbance, Availability & Transport (DAT) allowance to be extended for all healthcare personnel.
-
-On January 08, the Cabinet of Ministers approved President Ranil Wickremesinghe’s proposal to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000. This compelled the other health workers to resort to trade union actions.
-
-...
-
-[Data](articles/34f365c9.json)
-
-[Extended Data](ext_articles/34f365c9.ext.json)
-
----
-
-### Health trade unions resort to another strike
-
-*2024-02-12 14:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-trade-unions-resort-to-another-strike/108-276840) · `en`
-
-Colombo, Feb 12 (Daily Mirror) - Trade unions within the health sector have once again declared an island-wide strike following unsuccessful discussion with officials from the Finance Ministry.
-
-Accordingly, the strike is to be held from 6.30 a.m. tomorrow, according to the President of the Federation of Health Professionals Ravi Kumudesh.
-
-The focal point of the strike action is the prolonged and contentious disagreement surrounding the Disturbance, Availability, and Transport (DAT) allowance.
-
-Despite the representatives of the trade unions having a crucial discussion with the Finance Ministry officials today, neither of the parties has reached a consensus
-
-◼️
-
-[Data](articles/47566eae.json)
-
-[Extended Data](ext_articles/47566eae.ext.json)
-
----
-
-### Health Trade Unions on strike tomorrow
-
-*2024-02-12 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193287) · `si`
-
-72 health unions have decided to launch a strike from 6.30 am tomorrow.
-
-The unions said that the decision was failed by the Ministry of Finance with the Ministry of Finance.
-
-◼️
-
-[Data](articles/5aaa974c.json)
-
-[Extended Data](ext_articles/5aaa974c.ext.json)
-
----
-
-### Showers in several sides tomorrow
-
-*2024-02-12 14:30:44* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-පැති-කිහිපයකට-වැසි/11-408033) · `si`
-
-Several spells of showers can occur in the Uva and Uva provinces, the Polonnaruwa, Matale and Nuwara Eliya districts tomorrow.
-
-The Department has informed that there will be showers in the Western and Sabaragamuwa and Matara districts after two pm in the Western and Sabaragamuwa and Matara districts.
-
-◼️
-
-[Data](articles/881288f6.json)
-
-[Extended Data](ext_articles/881288f6.ext.json)
 
 ---

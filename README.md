@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 13:17:07**
+As of **2024-02-12 13:33:18**
 
 ## Newspaper Stats
 
-*Scraped **6,442** Articles*
+*Scraped **6,448** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ islandlk | 344
 dailyftlk | 348
 newsfirstlk | 363
 adalk | 537
-tamilmirrorlk | 783
+tamilmirrorlk | 785
 adaderanalk | 792
 virakesarilk | 804
-adaderanasinhalalk | 889
-dailymirrorlk | 944
+adaderanasinhalalk | 892
+dailymirrorlk | 945
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,442 (100.0%) of 6,442 articles have been extended.
+6,442 (99.9%) of 6,448 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### UPI ගනුදෙනු එළිදකී
+
+*2024-02-12 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193280) · `si`
+
+ඉන්දියානු ඒකාබද්ධ ගෙවීම් වැඩපිළිවෙළ කොළඹදී එළිදැක්වීමට මේ වනවිට කටයුතු සූදානම් කර තිබේ.
+
+ඒ අනූව UPI ඉන්දීය ගෙවීම් ක්‍රියාවලිය, මෙරට ලංකා QR ගෙවීම් පද්ධතිය හා සම්බන්ධ කිරීමේ අවස්ථාවට ජනාධිපති රනිල් වික්‍රමසිංහ සහ ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි යන මහත්වරුන් වීඩියෝ තාක්ෂණය ඔස්සේ සම්බන්ධ වේ
+
+◼️
+
+[Data](articles/5f981053.json)
+
+---
+
+### பாடசாலை மாணவி  துஷ்பிரயோகம் ; இருவர் கைது
+
+*2024-02-12 12:52:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாடசாலை-மாணவி-துஷ்பிரயோகம்-இருவர்-கைது/76-333067) · `ta`
+
+திம்புலபத்தனை பொலிஸ் பிரிவுக்குட்பட்ட  மேபீல்ட் தோட்டத்தை  சேர்ந்த 13 வயதுடைய  மாணவியொருவரை  பாலியல் துஷ்பிரயோகம்  செய்த  குற்றச்சாட்டில்  அதே  தோட்டத்தை  சேர்ந்த 60 மற்றும்  40 வயதுடைய  இருவரை பொலிஸார் கைது செய்துள்ளனர்.
+
+துஷ்பிரயோகத்துக்குள்ளான மாணவி பத்தனை பொலிஸாரால்  , சட்ட வைத்திய அதிகார பரிசோதனைக்காக  கிளங்கன் ஆதார வைத்திய சாலையில் அனுமதிக்கப்பட்டுள்ளார் .
+
+பொலிஸாரால்  மேற்கொள்ளப்பட்ட முதற்கட்ட  விசாரணையின் போது பல தடவை  குறித்த 60 வயது நபரால்  மாணவி துஷ்பிரயோகத்திற்கு  உள்ளாகியமை மற்றும் அதற்கு  40 வயதுடைய நபர் உதவி செய்துள்ளமை தெரியவந்துள்ளது .
+
+இந் நிலையில்  சந்தேக நபர்களை  ஞாயிற்றுக்கிழமை (11)  ஹட்டன் நீதிமன்ற பதில்நீதவான் முன்னிலையில்  ஆஜர் படுத்திய  போது  எதிர்வரும் 19 ம் திகதி வரை விளக்கமறியலில் வைக்குமாறு பதில் நீதவான் உத்தரவிட்டதாக  பொலிஸார்  தெரிவித்துள்ளனர் .
+
+மேலும் கைது  செய்யப்பட்ட இருவரையும்  அவர்களது குடும்பத்தினரையும் தோட்டத்திலிருந்து வெளியேற்றுமாறு குறித்த தோட்ட தொழிலாளர்கள்  போராட்டமொன்றை  மேற்கொண்டு வருகின்றமை  குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c6339e88.json)
+
+---
+
+### ශිෂ්‍යත්ව හපනුන්ට දැනුම්දීමක්
+
+*2024-02-12 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193279) · `si`
+
+2023 වර්ෂයේ 5 ශිෂ්‍යත්ව අභියාචනා අයදුම්පත් මාර්ගගත ක්‍රමයට දැන් යොමු කළ හැකි බව අධ්‍යාපන අමාත්‍යංශය පවසයි.
+
+ඒ අනුව, 2023 වර්ෂයේ පැවති 5 ශ්‍රේණිය ශිෂ්‍යත්ව පරීක්ෂණයේ ප්‍රතිඵල මත සිසුන්ට 2024 වර්ෂයේ 6 ශ්‍රේණියට ඇතුළත් වීම සඳහා අදාළ අභියාචනා 2024. 02. 13 දින සිට 2024. 02. 29 දින දක්වා මාර්ගගත ක්‍රමයට යොමු කිරීමට දැන් හැකියාව තිබේ.
+
+අධ්‍යාපන අමාත්‍යාංශයේ නිල වෙබ් අඩවිය වන www.moe.gov.lk වෙත පිවිස උපරිම වශයෙන් පාසල් තුනක් සඳහා අභියාචනා ඉදිරිපත් කිරීමේ හැකියාව පවතින අතර http://g6application.moe.gov.lk/#/  දිගුව ඔස්සේ සෘජු ව ම අභියාචනා යොමු කිරීමේ හැකියාව ද පවතී.
+
+◼️
+
+[Data](articles/8f119023.json)
+
+---
+
+### மின்னல் தாக்கி கால்பந்து வீரர் பலி
+
+*2024-02-12 12:22:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மின்னல்-தாக்கி-கால்பந்து-வீரர்-பலி/50-333066) · `ta`
+
+இந்தோனேசியாவில் சனிக்கிழமை (10) நடந்த கால்பந்து போட்டியின் போது மின்னல் தாக்கி கால்பந்து வீரர் ஒருவர் உயிரிழந்துள்ளார்.
+
+சுபாங்கைச் சேர்ந்த 34 வயதான நபரொருவர் மேற்கு ஜாவாவில் உள்ள பாண்டுங்கில் உள்ள சிலிவாங்கி மைதானத்தில், எஃப்சி பாண்டுங் மற்றும் எஃப்பிஐ சுபாங் இடையே நடந்த போட்டியில் போட்டியிட்டுள்ளார்.
+
+அப்போது திடீரென மைதானத்தின் நடுவில் நின்ற அவர் மீது மின்னல் தாக்கியதில் சம்பவ இடத்திலேயே உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/36426f4a.json)
+
+---
 
 ### Former President Maithripala Sirisena leaves for US
 
@@ -49,6 +115,24 @@ As such, State Minister Lasantha Alagiyawanna is tipped to be appointed as the n
 [Data](articles/c2dc10f2.json)
 
 [Extended Data](ext_articles/c2dc10f2.ext.json)
+
+---
+
+### නැවතත් සෞඛ්‍ය වර්ජනයක් ?
+
+*2024-02-12 12:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193278) · `si`
+
+හෙට (13) හෝ අනිද්දා (14) දිනයේ නැවත වතාවක් සෞඛ්‍ය වැඩවර්ජනයකට යොමුවීමට සිදුවනු ඇති බව සෞඛ්‍ය වෘත්තීය සමිති පවසයි.
+
+අද (12)  මුදල් අමාත්‍යාංශය සමග පැවති සාකච්ඡා සාර්ථක නොවීම හේතුවෙන් එම තීරණය ගත් බව සෞඛ්‍ය වෘත්තීයවේදීන්ගේ විද්වත් සංගමයේ සභාපති රවී කුමුදේශ් මහතා කියා සිටියේය.
+
+නායකත්ව මණ්ඩලය අද දහවල් රැස්වීමෙන් අනතුරුව ඉදිරි ක්‍රියාමාර්ග ගන්නා බව ඔහු වැඩිදුරටත් කියා සිටියේය.
+
+ජනාධිපතිවරයාගේ මැදිහත් වීමක් මෙම ගැටලුවට අත්‍යවශ්‍ය බවත් එසේ නොමැති වුවහොත් ජනතාව දැඩි අසීරුතාවයකට ලක්විය හැකි බවත් ඔහු පැවසීය.
+
+◼️
+
+[Data](articles/013e4b7a.json)
 
 ---
 
@@ -270,7 +354,7 @@ Accordingly, he points out that the government has not succeeded in the last yea
 
 *2024-02-12 11:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Footballer-dies-after-being-hit-by-lightning-during-a-match-in-Indonesia/108-276833) · `en`
 
-Feb. 12 (freepressjournal) - In a shocking and tragic incident took place during a football match in Indonesia on Sunday, January 11, footballer was tragically hit by lightning while playing the match and seemed to have died on the spot.
+Feb. 12 (freepressjournal) - In a shocking and tragic incident took place during a football match in Indonesia on Sunday, January 11, footballer was tragically hit by lightning while playing the match and seemed to have died on the spot.
 
 In a video that has gone viral on social, footballer can be seen casually walking on the field, waiting for the ball to pass to him until out of nowhere, lightning struck at him and the player collapsed on the field. Other players on the field were in absolute state of shock.
 
@@ -1947,115 +2031,5 @@ Accordingly, 6 vehicles have been taken over by the Bribery Commission and 05 of
 [Data](articles/0c84c774.json)
 
 [Extended Data](ext_articles/0c84c774.ext.json)
-
----
-
-### Patali speaks of cutting
-
-*2024-02-11 22:02:08* · [`adalk`](https://www.ada.lk/breaking_news/කැපිලි-ගැන-පාඨලී-කථා-කරයි/11-408017) · `si`
-
-"I lay the fake stickers in parliament in Parliament in August last year, why was lauddated in parliament and stopped the fake stickers in parliament.
-
-And they stopped the permits of manufacturers who do not pay taxes, they started paying taxes. Government revenue increased, at the end, the Excise Commissioner of Excise had to go home. I also lost billions of taxes to the country and destroyed the Chairman and Leader of the United Front, Level Patali Champika Ranawaka
-
-He was speaking at a meeting held at Bandaragama Millad Tree Line today (11)
-
-The meeting was organized under the patronage of Bandaragama electorate of Bandaragama electoral organizer retired.
-
-I have been removed from the schedule and the chief committee.
-
-Mr. Ranil Wickremesinghe has come to Parliament recently.. That my story was cut
-
-I spoke from Mr. Methis to Kiriella why I cut my talk
-
-Because we only give us four minutes a week for four minutes a week.
-
-The hug of hours is now going to a Man Shaw of Parliament.
-
-...
-
-[Data](articles/8c6cf67b.json)
-
-[Extended Data](ext_articles/8c6cf67b.ext.json)
-
----
-
-### UPI fee in Sri Lanka from tomorrow!Leaders in India, Sri Lanka and Mauritius
-
-*2024-02-11 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176130) · `ta`
-
-India's UPI is to be launched in Sri Lanka from tomorrow.
-
-Indian Prime Minister Narendra Modi, Sri Lankan President Ranil Wickremesinghe and Mauritius Prime Minister Pravind Juknath will introduce the launch in Colombo.
-
-The Integrated Payment Payment System, UNIFIED PAYMENT INTERFACE (UPI) was introduced in 2016 as an immediate payment system by the Indian National Payment Corporation.
-
-It is a system that connects many bank accounts, the same mobile phone processor, and this payment method facilitates inter -banks and personal trading transactions through handsets.Sri Lanka's tourism trade is expected to improve.
-
-India is at the forefront of Fintech invention and digital public infrastructure.The Indian Prime Minister has given importance in sharing the country's developmental experiences and innovations with allies.
-
-...
-
-[Data](articles/4e0865b7.json)
-
-[Extended Data](ext_articles/4e0865b7.ext.json)
-
----
-
-### India’s UPI to be launched in Sri Lanka, Mauritius on Monday
-
-*2024-02-11 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97189/indias-upi-to-be-launched-in-sri-lanka-mauritius-on-monday) · `en`
-
-The Unified Payment Interface (UPI) services and RuPay card services will be rolled out in Sri Lanka and Mauritius at a virtual ceremony on Monday, February 12.
-
-The event will be joined by Prime Minister Narendra Modi, Mauritian PM Pravind Jugnauth and Sri Lanka’s President Ranil Wickremesinghe, according to the Ministry of External Affairs (MEA).
-
-“Prime Minister Narendra Modi, President of Sri Lanka Ranil Wickremesinghe and Prime Minister of Mauritius Pravind Jugnauth will witness the launch of Unified Payment Interface (UPI) services in Sri Lanka and Mauritius, and also RuPay card services in Mauritius on February 12 at 1 PM via video conferencing,” it said.
-
-A real-time payment system,  the UPI has been developed by the National Payments Corporation of India (NPCI) to facilitate inter-bank transactions through mobile phones.
-
-Similar to a Visa or Mastercard, RuPay is a global card payment network from India, with wide acceptance at shops, ATMs, and online platforms.
-
-...
-
-[Data](articles/229df293.json)
-
-[Extended Data](ext_articles/229df293.ext.json)
-
----
-
-### Sri Lanka wins in advance
-
-*2024-02-11 21:53:24* · [`adalk`](https://www.ada.lk/sports/ලංකාව-කලින්ම-තරගාවලිය-දිනයි/9-408016) · `si`
-
-Sri Lanka were also able to win the second incident with the tourism Afghanistan by 155 runs. In the Sri Lankan team won the tournament and winning the tournament.
-
-Sri Lanka scored 308 runs for the loss of 6 wickets. Awesome Chari scored 97 runs off 74 balls.
-
-In addition, skipper Kusal Mendis collect half centuries of Janith Liyanage.
-
-Venunuwa Hasaranga bowled the bowlers to score 309 runs in a goal of winter.
-
-Four wickets and 2 wickets and 2 wickets and 2 wickets and 2 wickets and King Mad Madushan scored 2 wickets.
-
-◼️
-
-[Data](articles/6effe881.json)
-
-[Extended Data](ext_articles/6effe881.ext.json)
-
----
-
-### Sri Lanka won
-
-*2024-02-11 21:49:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உள்ளூர்-விளையாட்டு/இலங்கை-அணி-வெற்றி/88-333045) · `ta`
-
-Sri Lanka won by 155 ODIs in the second ODI between Sri Lanka and Afghanistan
-
-◼️
-
-[Data](articles/07eb01a7.json)
-
-[Extended Data](ext_articles/07eb01a7.ext.json)
 
 ---

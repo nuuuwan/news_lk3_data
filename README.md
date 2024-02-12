@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 06:16:31**
+As of **2024-02-12 06:53:14**
 
 ## Newspaper Stats
 
-*Scraped **6,362** Articles*
+*Scraped **6,364** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 533
 tamilmirrorlk | 772
 adaderanalk | 784
 virakesarilk | 794
-adaderanasinhalalk | 875
-dailymirrorlk | 926
+adaderanasinhalalk | 876
+dailymirrorlk | 927
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,362 (100.0%) of 6,362 articles have been extended.
+6,362 (100.0%) of 6,364 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### කාලගුණයේ වෙනසක්
+
+*2024-02-12 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193263) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වල වැසි වාර කිහිපයක් ඇතිවන කාලගුණවිද්‍යා ‍දෙපාර්තමේන්තුව පවවසයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, දකුණු, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් විටින් විට හමන පැ.කි.මී. (30-40) පමණ තරමක තද සුළං ඇතිවිය හැක.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බවද කාලගුණවිද්‍යා ‍දෙපාර්තමේන්තුව වැඩිදුරටත් දැනුම් දී ඇත.
+
+◼️
+
+[Data](articles/26f2a656.json)
+
+---
+
+### Defence Secretary, Army Commander asked to apologise to MP Weerakkody
+
+*2024-02-12 05:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Defence-Secretary-Army-Commander-asked-to-apologise-to-MP-Weerakkody/108-276776) · `en`
+
+Parliament, Feb. 11 (Daily Mirror)- The Privilege Committee of Parliament has recommended that Defence Secretary Kamal Gunaratne and Army Commander Vikum Liyanage must apologise to Parliamentarian Chandima Weerakkody for making threatening statements against the MP during a committee meeting inside the Parliament Complex.
+
+The Privilege Committee has issued the recommendation after investigating into a privilege issue raised by MP Weerakkody in Parliament last October, stating that the Defence Secretary and the Army Commander had threatened him at the meeting of the Sectoral Oversight Committee on National Security chaired by MP Sarath Weerasekara on October 5, 2023.
+
+The MP had told Parliament that he had mentioned at the particular Committee meeting that reducing the expenses of high-ranking military officers was better than reducing the number of soldiers to reduce the defence budget and that the Defence Secretary had made a threatening statement when he had said so.
+
+...
+
+[Data](articles/00e5a0dd.json)
+
+---
 
 ### Understanding with India important for development: Vijitha Herath
 
@@ -2111,49 +2145,5 @@ On receiving the PhD he said: “It feels amazing to have achieved this feat. I 
 [Data](articles/fc07653f.json)
 
 [Extended Data](ext_articles/fc07653f.ext.json)
-
----
-
-### Minister reveals Sri Lanka’s first arrest under Online Safety Act
-
-*2024-02-11 11:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-reveals-Sri-Lankas-first-arrest-under-Online-Safety-Act/108-276761) · `en`
-
-Panadura, Feb 11 (Daily Mirror) - Minister of Public Security Tiran Alles said the Criminal Investigation Department (CID) has arrested an individual who had slandered on social media.
-
-Addressing a programme to educate the community police committee members of the Panadura Division, the Minister said the particular individual had about Rs. 400,000 in his possession at the time of his arrest.
-
-He added that the suspect had maliciously carried out smear campaigns with the support of a politician.
-
-"A person was arrested by the CID. He is someone who slanders us online using social media. The suspect claimed that a politician gave money to him. He was arrested right after he went to Fort to exchange dollars to Sri Lankan rupees. They use social media to slander us, the government, the Acting IGP and everyone else," he said.
-
-The Minister said the government brought the Online Safety Act to prevent such occurrences.
-
-He mentioned that they use social media to even topple the government.
-
-...
-
-[Data](articles/6e9c62d5.json)
-
-[Extended Data](ext_articles/6e9c62d5.ext.json)
-
----
-
-### Mobile Phones found from the Boossa Prison
-
-*2024-02-11 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193241) · `si`
-
-The Police Special Task Force has found several mobile phones that were submerged in the Boossa High Security Prison.
-
-The Special Task Force of the Old Council and the Boossa Prison officials were conducted in the Boossa Prison yesterday (10).
-
-In those wards, there were a small number of smart mobile phones, five small mobile phones, four small mobile phones, four small cell phones, four SIMs, 1 SIM.
-
-In addition, two phone chargers removed, two selected cards, two DATA Cable and handed over 1 handed fresh.
-
-◼️
-
-[Data](articles/fd663a27.json)
-
-[Extended Data](ext_articles/fd663a27.ext.json)
 
 ---

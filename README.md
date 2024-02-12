@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 11:33:08**
+As of **2024-02-12 11:51:58**
 
 ## Newspaper Stats
 
@@ -26,43 +26,47 @@ dailymirrorlk | 940
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,410 (99.8%) of 6,422 articles have been extended.
+6,422 (100.0%) of 6,422 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### ரஃபாவில்  இஸ்ரேலின் விமானதாக்குதலில் 40க்கும் அதிகமானவர்கள் பலி - இரண்டு பணயக்கைதிகளை விடுவித்ததாக இஸ்ரேல் தெரிவிப்பு
+### Israeli claimed that more than 40 killed in Israeli air strike in Rafa
 
 *2024-02-12 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176167) · `ta`
 
-ரஃபாவில்  மேற்கொண்ட நடவடிக்கையின் போது இரண்டு பணயக்கைதிகள் மீட்கப்பட்டுள்ளனர் என இஸ்ரேல் தெரிவித்துள்ள அதேவேளை அந்த நகரத்தின் மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் 40க்கும் அதிகமானவர்கள் கொல்லப்பட்டுள்ளனர் என காசாவின் சுகாதார அதிகாரிகள் தெரிவித்துள்ளனர்.
+Two hostages have been rescued during a rafa operation, while Israel said that more than 40 people were killed in the Israeli attack on the city, Gaza's health officials said.
 
-இஸ்ரேலின் விமானதாக்குதலினால் உயிரிழந்த 20 பாலஸ்தீனியர்களின் உடல்கள் குவைத் மருத்துவமனையில் உள்ளன என ரொய்ட்டருக்கு  தெரிவித்துள்ள காசாவின் சுகாதார அதிகாரிகள் 12 உடல்கள் ஐரோப்பிய மருத்துவமனையிலும் ஐந்து உடல்கள் அபுயூசுவ் அல் நசார் மருத்துவமனையில் உள்ளதாகவும் தெரிவித்துள்ளனர்.
+Gaza's health officials have informed Royter that the bodies of 20 Palestinians who died of Israel's air strike are in Kuwaiti Hospital.
 
-இதேவளை காசாவின் தென்பகுதியில் உள்ள ரஃபாவில்  மேற்கொண்ட விசேட நடவடிக்கையின் போது ஹமாசினால் பணயக்கைதிகளாக பிடிக்கப்பட்ட இருவர்மீட்கப்பட்டுள்ளனர்  என தெரிவித்துள்ள இஸ்ரேல் அவர்கள் இஸ்ரேலில் மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர் எனவும் தெரிவித்துள்ளன.
+The two -year -old Hamas has been caught by Hamas during a special operation in Rafa, south of Gaza, said Israel has been admitted to Israel's hospital in Israel.
 
 ◼️
 
 [Data](articles/ae2e4f07.json)
 
+[Extended Data](ext_articles/ae2e4f07.ext.json)
+
 ---
 
-### උග්‍ර විෂ සහිත කුහුඹු විශේෂයකින් ගම්මාන කිහිපකට කරදර
+### Trouble in several villages with acute toxic antio
 
 *2024-02-12 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193275) · `si`
 
-උග්‍ර විෂ සහිත කුහුඹු විශේෂයක් හේතුවෙන් ඌව පරණගම බඹරපාන, කන්දේකුඹුර, හළාඹ ඇතුළු ගම්මාන කිහිපයක ගම්වැසියන් දුෂ්කරතාවට පත්ව ඇති බව වාර්තා වේ.
+It is reported that villagers have been suffering at several villages including the Kandadagana, Kandalappana, Uva Paranagama, Uva Paranagama, Uva Paranagama.
 
-ගම්වාසීන් පෙන්වාදෙන්නේ, මෙම කුහුඹු විශේෂයේ දෂ්ඨ කිරීම් හේතුවෙන් චර්ම රෝග පවා හටගන්නා බවය.
+The villagers point out that the grandmats of this ant even falls.
 
-'කොඩයා' නමින් හඳුන්වන මෙම කුහුඹු විශේෂ ගම්මිරිස්, පොල්, පුවක් වැනි ශාකවල රංචු වශයෙන් ජීවත් වන වාර්තා වේ.
+These ants, known as Kodya, is recorded in herd of plants such as peppers, coconut and pups.
 
-මෙම කුහුඹු විශේෂය වසංගතයක් තෙක් වර්ධනය වීමට ප්‍රථම එය මර්දනයට අවශ්‍ය පියවර ගන්නා ලෙස ගම්වාසීන් බලධාරීන්ගෙන් ඉල්ලා සිටී.
+Villagers urge the authorities to take necessary steps before this ant to grow into an epidemic.
 
 ◼️
 
 [Data](articles/f57d1348.json)
+
+[Extended Data](ext_articles/f57d1348.ext.json)
 
 ---
 
@@ -86,37 +90,45 @@ India's batting had been their strength leading up the final but they crashed to
 
 [Data](articles/02053b8b.json)
 
+[Extended Data](ext_articles/02053b8b.ext.json)
+
 ---
 
-### යාපනයේ එළවළු දඹුල්ලේ මිල බස්සවයි
+### Vegetables in Jaffna bandem in Dambulla
 
 *2024-02-12 10:40:57* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයේ-එළවළු-දඹුල්ලේ-මිල-බස්සවයි/11-408021) · `si`
 
-යාපනය අර්ධද්වීපයේ වගා කෙරුණු එළවළු අස්වැන්න මේ දිනවල දඹුල්ල ආර්ථික මධ්‍යස්ථානයට ලැබීමත් සමඟ සීග්‍රයෙන් ඉහළ ගොස් තිබුණු සෑම එළවළුවක්ම සියයට හැට පහක් හැත්තෑවක් පමණ්ම අඩුවී ඇතැයි ආර්ථික මධ්‍යස්ථාන වෙළෙන්දෝ  පවසති'
+Economic Center Traders say that the vegetable harvest in the Jaffna Peninsula has reduced every sixty percent of the delay in the Dambulla Economic Center.
 
-යාපනය  චුන්නාගම්  ප්‍රදේශයේ සාර්ථකව වගා කරන කැරට් ,මාළුමිරිස් සහ බීට්  අස්වනු  වැඩි වශයෙන් වෙළඳපළට ලැබීම නිසාවෙන් රුපියල් දහසක් දෙදහසත් අතර මිලකට පසුගිය කාලයේ අලෙවි වූ කැරට් කිලෝව 12 වන දින වන විට රුපියල් 500 දක්වා අඩුවී ඇති අතර  යාපනයේ ලැබෙන කැරට් කිලෝව රුපියල් පන්සියයකට අලෙවීවිය .
+Carrots, which have been cultivated in the Chunnagam, Jaffna, have been reduced to Rs.
 
-රුපියල් හාරසිය පනහක් පමණ ඉහළ ගිය බිට් කිලෝව  රු 250 දක්වා  පහත වැටී ඇතැයි රු 450 ත් 550 ත් මිලකට අලවි වූ වම්බටු රු 150 ත් 200 ත් දක්වා පහල වැටි ඇතිබව  වෙළෙන්දෝ පෙන්වා දෙති.
+The dealers point out that the eggplant, 150 and 200 to 150 to Rs.
 
-එමෙන්ම අනෙකුත් සෑම එළවළුවක්ම වීශාල වශයෙන් පහත වැටීමට ප්‍රධානතම හේතුව බවට පත්ව ඇත්තේ යාපනය අර්ධද්වීපයෙන් ලැබෙන එළවලුත් තොග බව ඔවුහු පෙන්වා දෙති.
+They point out that the cows from the Jaffna peninsula has become the main reason for the fall of every other vegetable.
 
-...
+In addition to vegetables, the Jaffna peninsula, the Jaffna peninsula, was also received by the Jaffna peninsula.The fish sold for Rs. 1500 fell to Rs. 800.
+
+◼️
 
 [Data](articles/f9f1dd82.json)
 
+[Extended Data](ext_articles/f9f1dd82.ext.json)
+
 ---
 
-### இரத்தினபுரியில் கார், 3 மோட்டார் சைக்கிள்கள் மோதி விபத்து : இளைஞர் பலி, நால்வர் காயம்!
+### Car, 3 motorcycles collision in Ratnapura: Youth killed
 
 *2024-02-12 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176162) · `ta`
 
-இரத்தினபுரி நகரில் கார் ஒன்றும் மூன்று மோட்டார் சைக்கிள்களும் மோதிக்கொண்டதில் இளைஞர் ஒருவர் உயிரிழந்துள்ளதுடன், மேலும் நால்வர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+A youth was killed and four others were injured when a car and three motorcycles collided with a car in Ratnapura.
 
-காயமடைந்த இளைஞர்களில் ஒருவரின் நிலைமை கவலைக்கிடமாக உள்ளதாக வைத்தியசாலை பேச்சாளர் தெரிவித்தார். காயமடைந்தவர்கள் இரத்தினபுரி வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றனர்.
+The hospital spokesman said the situation was worrisome. The injured are being treated at the Ratnapura Hospital.
 
 ◼️
 
 [Data](articles/f6cdc486.json)
+
+[Extended Data](ext_articles/f6cdc486.ext.json)
 
 ---
 
@@ -135,6 +147,8 @@ The government had pledged that the presidential election would be held this yea
 ◼️
 
 [Data](articles/3e033b34.json)
+
+[Extended Data](ext_articles/3e033b34.ext.json)
 
 ---
 
@@ -196,6 +210,8 @@ The two gunmen who committed the robbery fled on a motorcycle.
 
 [Data](articles/88ab714f.json)
 
+[Extended Data](ext_articles/88ab714f.ext.json)
+
 ---
 
 ### Exclusion from Parliamentary Committee; Champika drops bombshell
@@ -209,6 +225,8 @@ He claims that his refusal to boycott President Ranil Wickremesinghe’s parliam
 ◼️
 
 [Data](articles/35314fae.json)
+
+[Extended Data](ext_articles/35314fae.ext.json)
 
 ---
 
@@ -269,6 +287,8 @@ The Sri Lanka Police and Public Security Ministry launched the "Yukthiya" operat
 ...
 
 [Data](articles/2f5a154c.json)
+
+[Extended Data](ext_articles/2f5a154c.ext.json)
 
 ---
 
@@ -378,6 +398,8 @@ Some 100 relic caskets were distributed among 100 temples in the North Central P
 
 [Data](articles/f113e68b.json)
 
+[Extended Data](ext_articles/f113e68b.ext.json)
+
 ---
 
 ### The price of an egg is up from today
@@ -418,21 +440,23 @@ Police Media Spokesperson DIG Rock Spokesperson DIG's lawyer said:
 
 ---
 
-### ඇමෙරිකාවේ නිදහස් පක්ෂ පාක්ෂිකයන් හමුවීමට මෛත්‍රී ඇමෙරිකාවට
+### Maithri for to meet Independent Parties in the United States
 
 *2024-02-12 09:01:31* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකාවේ-නිදහස්-පක්ෂ-පාක්ෂිකයන්-හමුවීමට-මෛත්‍රී-ඇමෙරිකාවට/11-408019) · `si`
 
-හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා 02/12 දින අලුයම ඉන්දියාව හරහා ඇමෙරිකාව බලා පිටත්ව ගිය බව කටුනායක ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා ද සනාථ කළේය.
+The officer in charge of the Bandaranaike International Airport has also confirmed that former President Maithripala Sirisena left the US via India on the morning of 2/12.
 
-ඔහු මුළින්ම 02/12 දින අලුයම 02.50 ට ඉන්දීය ගුවන් සේවයේ ඒ.අයි.- 284 දරන ගුවන් යානයෙන්  ඉන්දියාවේ නවදිල්ලි නුවර වෙත ගොස් එතැන් සිට වෙනත් ගුවන් යානයකින්  ඇමෙරිකාවේ නිව්යෝර්ක් නුවර බලා පිටත්ව යාමට නියමිතය .
+He is eligible for 02.50 days at the end of 02.50 days at the Indian Airlines AI.
 
-මෛත්‍රීපාල සිරිසේන මහතා තවත් එම පක්ෂයේ නිලධාරීන් දෙදෙනෙකු මෙම ඇමෙරිකානු  සංචාරය සදහා රැගෙන ගොස් ඇති අතර ඔවුන් ශ්‍රී ලාංකිකයන් සහභාගී වන ශ්‍රී ලංකා නිදහස් පක්ෂ ජනහමු කීපයක් එහිදී පැවැත්වීමට නියමිත බව ශ්‍රී ලංකා නිදහස් පක්ෂ මාධ්‍ය අධ්‍යක්ෂ ප්‍රභාත් මාතරගේ මහතා පැවසීය .
+Maithripala Sirisena has been taken to this US tour of the Sri Lanka Freedom Party (SLFP) participating in Sri Lankans.
 
-මෙම ජනහමු මාළාව එළඹෙන 02/15 දින සිට ආරම්භ කිරීමට නියමිත බව ද මාධ්‍ය අධ්‍යක්ෂවරයා වැඩිදුරටත් පැවසීය.
+The Media Director added that this meeting will commence from 02/15 pm.
 
 ◼️
 
 [Data](articles/4578e768.json)
+
+[Extended Data](ext_articles/4578e768.ext.json)
 
 ---
 
@@ -1867,6 +1891,8 @@ Despite the fluctuating prices of vegetables and other essential items in the co
 ◼️
 
 [Data](articles/5b00758c.json)
+
+[Extended Data](ext_articles/5b00758c.ext.json)
 
 ---
 

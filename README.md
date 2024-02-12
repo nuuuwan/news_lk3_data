@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 06:53:14**
+As of **2024-02-12 07:15:45**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 927
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,362 (100.0%) of 6,364 articles have been extended.
+6,364 (100.0%) of 6,364 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### කාලගුණයේ වෙනසක්
+### A change in the weather
 
 *2024-02-12 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193263) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වල වැසි වාර කිහිපයක් ඇතිවන කාලගුණවිද්‍යා ‍දෙපාර්තමේන්තුව පවවසයි.
+The Department of Meteorology, which is around the Eastern and Uva provinces, is underway.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+In the Western and Sabaragamuwa Provincial, Nuwara Eliya, Galle and Matara districts. Showers or thundershowers will occur at several places about 2.00.
 
-මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, දකුණු, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් විටින් විට හමන පැ.කි.මී. (30-40) පමණ තරමක තද සුළං ඇතිවිය හැක.
+From time to time in the East, East, Southern, Southern, Uva and Eastern Provinces, North, North, Southern, Uva and Eastern Provinces.. Strong winds can occur around about 30-40.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බවද කාලගුණවිද්‍යා ‍දෙපාර්තමේන්තුව වැඩිදුරටත් දැනුම් දී ඇත.
+In some places in the Western and Sabaragamuwa provinces, some locations are expected to look forward to a murder in some places in the Galle and Matara districts.
 
 ◼️
 
 [Data](articles/26f2a656.json)
+
+[Extended Data](ext_articles/26f2a656.ext.json)
 
 ---
 
@@ -63,6 +65,8 @@ The MP had told Parliament that he had mentioned at the particular Committee mee
 ...
 
 [Data](articles/00e5a0dd.json)
+
+[Extended Data](ext_articles/00e5a0dd.ext.json)
 
 ---
 

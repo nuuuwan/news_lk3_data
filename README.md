@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 01:02:23**
+As of **2024-02-13 01:17:17**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 963
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,583 (100.0%) of 6,586 articles have been extended.
+6,586 (100.0%) of 6,586 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
-### 19 வயதின் கீழ் உலகக் கிண்ண தெரிவு அணியில் நான்கு இந்தியர்கள் ; அணித் தலைவர் ஹியூ வெய்ஜென்
+### Four Indians in the World Cup selection squad under the age of 19;Team captain Hue Weejen
 
 *2024-02-13 00:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176234) · `ta`
 
-தென் ஆபிரிக்காவில் நடைபெற்றுவந்த ஐசிசி ஆடவர் 19 வயதுக்குட்பட்ட உலகக் கிண்ண கிரிக்கெட் சுற்றுப் போட்டியில் சிறந்த ஆற்றல்களை வெளிப்படுத்திய வீரர்களிலிருந்து தெரிவு அணியை ஐசிசி வெளியிட்டுள்ளது.
+The ICC has released the selection team from the players who showed the best energies in the under -19 World Cup cricket tournament in South Africa.
 
-19 வயதுக்குட்பட்ட உலகக் கிண்ண கிரிக்கெட் போட்டியில் 12 அணிகள் பங்குபற்றிய போதிலும் ஐசிசி தெரிவு அணியில் ஐந்து நாடுகளைக் கொண்ட வீரர்களே பெயரிடப்பட்டுள்ளனர்.
+Although 12 teams participated in the Under -19 World Cup cricket, the ICC selected team has been named five countries.
 
-ஆறு துடுப்பாட்ட வீரர்கள், ஒரு சகலதுறை வீரர், 4 பந்துவீச்சாளர்கள் தெரிவு அணியில் இடம்பெறுகின்றனர்.
+There are six bowlers, one all -rounder, 4 bowlers.
 
-நான்கு இந்திய வீரர்கள் இடம்பெறும் தெரிவு அணிக்கு சம்பியனான அவுஸ்திரேலிய அணியின் தலைவர் ஹியூ வெய்ஜென் தலைவராக பெயரிடப்பட்டுள்ளார்.
+Australian captain Hue Weejen has been named champion of the selection team featuring four Indian players.
 
 ◼️
 
 [Data](articles/0883456c.json)
+
+[Extended Data](ext_articles/0883456c.ext.json)
 
 ---
 
@@ -61,6 +63,8 @@ Wickremesinghe at the outset painted a rosy picture on the situation. He said th
 ...
 
 [Data](articles/21194cc1.json)
+
+[Extended Data](ext_articles/21194cc1.ext.json)
 
 ---
 
@@ -77,6 +81,8 @@ The law defines living-in as a “relationship between a man and a woman who coh
 ...
 
 [Data](articles/aee6d051.json)
+
+[Extended Data](ext_articles/aee6d051.ext.json)
 
 ---
 

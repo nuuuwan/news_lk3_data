@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 23:17:34**
+As of **2024-02-12 23:32:57**
 
 ## Newspaper Stats
 
-*Scraped **6,568** Articles*
+*Scraped **6,570** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,60 @@ adalk | 557
 tamilmirrorlk | 801
 adaderanalk | 803
 virakesarilk | 819
-adaderanasinhalalk | 915
+adaderanasinhalalk | 917
 dailymirrorlk | 961
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,565 (100.0%) of 6,568 articles have been extended.
+6,570 (100.0%) of 6,570 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### Story you don't know about the UPI of the country
+
+*2024-02-12 22:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193305) · `si`
+
+The UPI system, or UPI system, or the UPI system, was held today under the patronage of President Ranil Wickremesinghe and Indian Prime Minister Narendra Modi.
+
+Under this method, it is significant that the Rs.
+
+In July 2023, President Ranil Wickremesinghe's visit to India and Sri Lanka discussed discussions of digital economies between India and Sri Lanka.
+
+As a result, activation with Sri Lanka is now activated today.
+
+The UPI payment system already operates the Financial transactions already, the UAPL and France, Nepal and France.
+
+Indian Prime Minister Narendra Modi, Narendra Madh and Muruasi State Prime Minister Prweeland Jagnath joined the President to join the UPI Indian Payment Process.
+
+Accordingly, an Indian in Sri Lanka, which is officially in Sri Lanka in Sri Lanka, carried out the first transaction through his mobile phone.
+
+...
+
+[Data](articles/46fa4325.json)
+
+[Extended Data](ext_articles/46fa4325.ext.json)
+
+---
+
+### Meegoda police post transfers 5 others
+
+*2024-02-12 22:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193304) · `si`
+
+The OIC of the OIC of the police post near the Meegoda Economic Center, five officers have been conducting further transfer.
+
+The decision has taken this decision regarding investigations into the incident in the Meegoda Economic Center this morning.
+
+◼️
+
+[Data](articles/214f28fd.json)
+
+[Extended Data](ext_articles/214f28fd.ext.json)
+
+---
 
 ### IMF chief ‘very confident’ on soft landing, sees rate cuts coming
 
@@ -49,6 +91,8 @@ She cautioned to expect the unexpected in the wake of the COVID-19 pandemic and 
 ...
 
 [Data](articles/b2b74f56.json)
+
+[Extended Data](ext_articles/b2b74f56.ext.json)
 
 ---
 
@@ -148,6 +192,8 @@ Jointly implemented by NPCI International Payments Limited and Sri Lanka’s Lan
 
 [Data](articles/3a6ad78a.json)
 
+[Extended Data](ext_articles/3a6ad78a.ext.json)
+
 ---
 
 ### New leader of Bangladesh cricket team
@@ -183,6 +229,8 @@ The NCGG, an autonomous institution under the Department of Administrative Refor
 ...
 
 [Data](articles/2d3a6d82.json)
+
+[Extended Data](ext_articles/2d3a6d82.ext.json)
 
 ---
 
@@ -2009,45 +2057,5 @@ Former Minister Akila Viraj Kariyawasam and acting IGP Deshabandu Tennakoon were
 [Data](articles/172846bc.json)
 
 [Extended Data](ext_articles/172846bc.ext.json)
-
----
-
-### Police attack on urinated police
-
-*2024-02-12 13:39:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/சிறுநீர்-கழித்த-பொலிஸ்-மீது-பொலிஸார்-தாக்குதல்/95-333068) · `ta`
-
-Bambalapitiya police say that a police inspector has lodged a complaint with a police inspector who went to urinate in a tree.
-
-Bambalapitiya Police Inspector has gone to urinate under a tree near the main gate of the snack
-
-A senior police officer said that the police inspector had reported that a group of six policemen had been severely beaten and severely beaten.
-
-The police inspector stated in a complaint that the senior officer had been severely accused of him.
-
-According to the complaint lodged by the Inspector of Police, he went out to eat at the police station last night and went out to urinate.
-
-◼️
-
-[Data](articles/42acac57.json)
-
-[Extended Data](ext_articles/42acac57.ext.json)
-
----
-
-### Fish, fish sold
-
-*2024-02-12 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193283) · `si`
-
-Police have arrested a man who sold Kasippu in Negombo and Katana under the pretext of selling fish in his motorcycle.
-
-The suspect was arrested by the Katunayake Police Station Delivery Division this morning (12) with a large quantity of Kasippu.
-
-Suspect is a 44 year old resident of Henatiyiyana area. The racket had been carried out for many years, police said.
-
-◼️
-
-[Data](articles/a3beaf1d.json)
-
-[Extended Data](ext_articles/a3beaf1d.ext.json)
 
 ---

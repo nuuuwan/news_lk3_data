@@ -1,36 +1,86 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 20:50:07**
+As of **2024-02-12 21:02:27**
 
 ## Newspaper Stats
 
-*Scraped **6,545** Articles*
+*Scraped **6,549** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 80
-bbccomsinhala | 89
+bbccomsinhala | 90
 dbsjeyarajcom | 147
 economynextcom | 337
 islandlk | 347
 dailyftlk | 348
 newsfirstlk | 363
-adalk | 553
+adalk | 555
 tamilmirrorlk | 799
 adaderanalk | 799
 virakesarilk | 816
-adaderanasinhalalk | 911
+adaderanasinhalalk | 912
 dailymirrorlk | 956
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,545 (100.0%) of 6,545 articles have been extended.
+6,549 (100.0%) of 6,549 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### Woman arrested for robting a salon with casual husband
+
+*2024-02-12 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193300) · `si`
+
+Police have arrested a suspect who had plundered jewelery with a sharp instrument with a sharp object.
+
+The woman who had come to the salon with his misconduct with their misconduct was the owner of its owner, threatening a sharp weapon and threatened the robbery.
+
+The suspect had fled gold jewelery and the suspect was arrested next day.
+
+However, after police protection, the suspect, who was adjacent to the hospital, had fled the hospital with police protection, saying that he had a serious condition.
+
+The Horana police have also passed away 19 days after she was hiding.
+
+The arrested for 39 year old suspect was a 39 year old suspect.
+
+◼️
+
+[Data](articles/34b69d8d.json)
+
+[Extended Data](ext_articles/34b69d8d.ext.json)
+
+---
+
+### Payment facilities through digital procedures to come to Sri Lanka
+
+*2024-02-12 20:14:39* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවට-පැමිණෙන-ඉන්දීය-සංචාරකයන්ට-ඩිජිටල්-ක්‍රමවේදය-ඔස්සේ-ගෙවීම්-පහසුකම්/11-408043) · `si`
+
+Payment facilities through digital procedures to visit Sri Lanka
+
+This is a unique opportunity to strengthen Indo-Sri Lanka economic ties.
+
+President continues to promote Indo-Sri Lanka Relationship - President.
+
+An important step in speeding the digital translation of Sri Lanka - Indian Prime Minister Narendra Modi.
+
+President Ranil Wickremesinghe was chaired by President Ranil Wickremesinghe today (12) at the Presidential Secretariat today (12).
+
+Indian Prime Minister Narendra Modi also joined the occasion through online technology.
+
+NPCI International Payments Limited and the implementation of 10,000 shops to rapidly expanding this program in Sri Lanka, the implementation of 10,000 shops was carried out with this program. By March 2024, the number of shops will be increased to 65,000 by expanding this facility.
+
+...
+
+[Data](articles/01c7ee9d.json)
+
+[Extended Data](ext_articles/01c7ee9d.ext.json)
+
+---
 
 ### The opening of the Rama Temple;Ranil congratulates Modi
 
@@ -91,6 +141,30 @@ All passengers have been accommodated in hotels until the rescheduling of the fl
 [Data](articles/02804092.json)
 
 [Extended Data](ext_articles/02804092.ext.json)
+
+---
+
+### A.CC has made sexual abuse. Complaint from journalist
+
+*2024-02-12 19:33:56* · [`adalk`](https://www.ada.lk/breaking_news/ලිංගික-අපයෝජනයක්-කළයි-ඒ-බී-සී--මාධ්‍යවේදිනියගෙන්-පැමිණිල්ලක්/11-408039) · `si`
+
+The person accused of a 39-year-old woman who is serving as a journalist who is a member of the ABC Media Network of Australia, has been charged with the complaint with a 39-year-old victim of Australia.
+
+The journalist who was sexually abused at a hotel in the Velambada hotel in a hotel in the Navalwardan, was staying at the hotel from the 6th to 09.
+
+The suspect had come to the hotel after an informed that he was informed that he was informed had been carried out to the hotel and that he had sexually abused him.
+
+The person who has come to work is a 33-year-old resident of Wadduwa and has not been abused after he surrendered to him.
+
+The complaint has been informed the police in writing that the lady cannot be submitted to a doctor or the court.
+
+The suspects will be taken to court in suspicion, police said.
+
+◼️
+
+[Data](articles/df57aa0a.json)
+
+[Extended Data](ext_articles/df57aa0a.ext.json)
 
 ---
 
@@ -1432,6 +1506,36 @@ Accordingly, Minor, Medium and Large Spice Industries Registration of Export Agr
 
 ---
 
+### UPI: What are the things you need to know about the new payment system?
+
+*2024-02-12 13:56:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv28ne0p8g4o) · `si`
+
+Sri Lanka, India and Mauritius are introduced to the UPI, or Method (Joint Payment Interface).
+
+It will facilitate the Sri Lankan Indian tourists to make payments through the QR code in their deals.
+
+President Ranil Wickremesinghe, Indian Prime Minister Narendra Modi, Prime Minister of Mauritius and Indian Foreign Minister Dr. S. S. The Jeeilor's online system, these payments were joined the opening of this payment method.
+
+Can Sri Lanka provide the necessary facilities to tourists over one million?
+
+The system was introduced to pay the QR code for Indian tourists arriving in Sri Lanka.
+
+The new payment system is known as the UPI, or Joint Payment Interface.
+
+NPCI International Payments Limited and Sri Lanka's LankaPay (Pvt) Ltd introduced this payment methodology.
+
+The UPI is introduced for the Indian national and business community.
+
+The Indian nationals will be able to easily deals in Sri Lanka without any problem.
+
+...
+
+[Data](articles/ec2b72f4.json)
+
+[Extended Data](ext_articles/ec2b72f4.ext.json)
+
+---
+
 ### Sergeant killed in shooting
 
 *2024-02-12 13:50:38* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-වැදුණ-සැරයන්-ජීවිතක්ෂයට/11-408028) · `si`
@@ -1933,79 +2037,5 @@ He said that if the president's intervention is essential to this problem, he sa
 [Data](articles/013e4b7a.json)
 
 [Extended Data](ext_articles/013e4b7a.ext.json)
-
----
-
-### Sri Lanka’s Economic Recovery, Fourth Industrial Revolution & Professor Siegfried Zuern
-
-*2024-02-12 12:07:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-economic-recovery-fourth-industrial-revolution-professor-siegfried-zuern/) · `en`
-
-I will start with citing a brief speech I made as an associate of FabLanka Foundation in welcoming Professor Dr Siegfried Zuern to FabLab and Sri Lanka today. As an associate of FabLanka Foundation, I Welcome Professor Dr Siegfried Zuern to FabLab and Sri Lanka.
-
-Professor Zuern, Director of the International Centre and the Graduate School of Esslingen University, Germany in coordination with FabLanka Foundation in Makandura, particularly with Mr Chaminda Hettiarachchi, Director and Co-founder of FabLanka Foundation, has engaged and doing excellent work in creating awareness about the Fourth Industrial Revolution. During the last two weeks, Prof Zuern has been very busy with teaching many aspects of Industry 4.0, at the Faculty of Agriculture, University of Peradeniya, and also having a session at the Faculty of Engineering, one of my almae maters.
-
-...
-
-[Data](articles/3db1dacf.json)
-
-[Extended Data](ext_articles/3db1dacf.ext.json)
-
----
-
-### An army soldier arrested for sexually abused schoolgirl
-
-*2024-02-12 12:05:25* · [`adalk`](https://www.ada.lk/breaking_news/එක්තැන්ව-සිටි-පාසල්-සිසුවෙකුට-ලිංගික-අතවර-කළ-හමුදා-සෙබළෙක්-අත්අඩංගුවට/11-408024) · `si`
-
-Mahawilachchiya Police said that the army soldier was arrested on suspicion of a 15 year old sex child abuse.
-
-The arrested for army soldier attached to an Army camp at Army Camp.
-
-The child has been abused by the house from receiving treatment at the Anuradhapura Teaching Hospital due to a serious accident.
-
-The minors who had come to the house when they left with their mother and younger brother without the father have been abused at a base disorder.
-
-The arrested suspect was to be produced in court.A group of officers of the Maha Wilachchiya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/2bdc3e71.json)
-
-[Extended Data](ext_articles/2bdc3e71.ext.json)
-
----
-
-### Increase in skin disease in the country
-
-*2024-02-12 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176174) · `ta`
-
-Deepal Perera, a specialist on child disease, said that skin diseases are increasing due to the prevailing climate in the country.
-
-Even children with fever -like symptoms should be given the opportunity to bathe in these days.
-
-Dr. Deepal Perera has stated that the boys should be given the opportunity to bathe twice a day and that if one has skin diseases, the morning and night can be restricted somewhat in the water for about 20 minutes.
-
-◼️
-
-[Data](articles/245d1c40.json)
-
-[Extended Data](ext_articles/245d1c40.ext.json)
-
----
-
-### Former President Sirisena departs for US
-
-*2024-02-12 12:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-President-Sirisena-departs-for-US/108-276836) · `en`
-
-Feb 12 - Former President Maithripala Sirisena left for the United States via India this morning on a special visit.
-
-Sirisena's itinerary included a stop in New Delhi, India, where he boarded the AI-284 flight operated by Indian Airlines at 02:50 am today. From New Delhi, he will proceed to New York, USA, on another connecting flight.
-
-Accompanying Sirisena are two officials from the Sri Lanka Freedom Party, as disclosed by party sources.
-
-◼️
-
-[Data](articles/72f42fc3.json)
-
-[Extended Data](ext_articles/72f42fc3.ext.json)
 
 ---

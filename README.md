@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 08:17:16**
+As of **2024-02-12 08:32:58**
 
 ## Newspaper Stats
 
-*Scraped **6,383** Articles*
+*Scraped **6,386** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 348
 newsfirstlk | 363
 adalk | 533
 tamilmirrorlk | 777
-adaderanalk | 784
+adaderanalk | 787
 virakesarilk | 794
 adaderanasinhalalk | 879
 dailymirrorlk | 927
@@ -26,11 +26,33 @@ dailymirrorlk | 927
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,383 (100.0%) of 6,383 articles have been extended.
+6,383 (100.0%) of 6,386 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### Third offshore campus of IIT likely to be set up in Sri Lanka
+
+*2024-02-12 07:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97193/third-offshore-campus-of-iit-likely-to-be-set-up-in-sri-lanka) · `en`
+
+The third offshore campus of the prestigious Indian Institute of Technology (IIT) is likely to be set up in Sri Lanka, according to sources.
+
+The proposal for an IIT in Sri Lanka was announced last November in the 2024 Budget unveiled by Sri Lankan President Ranil Wickremesinghe, who also serves as the finance minister.
+
+According to sources, the Sri Lankan government is in touch with IIT Madras for the ambitious project.
+
+“A high-level delegation had recently visited the Chennai campus to discuss the future roadmap. The talks are on and the campus is likely to come up in Kandy,” a source said.
+
+“The delegation also visited the Research Park at the campus and interacted with officials about possible areas of engagement,” the source added.
+
+The Indian government had announced that opportunities for admission to the IITs in India will be provided to meritorious Sri Lankan students from the 2017-18 academic sessions onwards.
+
+...
+
+[Data](articles/6e6d3217.json)
+
+---
 
 ### There are many more surprises revealed; Anura
 
@@ -102,6 +124,20 @@ However, it is said that the work will take place after the former President's f
 
 ---
 
+### Woman shot during burglary at Meegoda Economic Centre
+
+*2024-02-12 07:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97192/woman-shot-during-burglary-at-meegoda-economic-centre) · `en`
+
+A group attempting to burgle a shop at the Meegoda Economic Centre had reportedly opened fire and injured a woman last night (11) before fleeing the area.
+
+Ada Derana reporter said that two armed individuals had shot the female cashier of a shop at the economic center and made of with some cash.
+
+◼️
+
+[Data](articles/bc891c03.json)
+
+---
+
 ### Shooting in Meegoda Economic Center
 
 *2024-02-12 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193266) · `si`
@@ -115,6 +151,24 @@ A woman was injured and a woman was injured and the robbers had fled.
 [Data](articles/5ef58bf2.json)
 
 [Extended Data](ext_articles/5ef58bf2.ext.json)
+
+---
+
+### Police officer shot during arrest attempt succumbs to injuries
+
+*2024-02-12 07:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97191/police-officer-shot-during-arrest-attempt-succumbs-to-injuries) · `en`
+
+The Police Sergeant who was shot and injured and had his weapon taken away while trying to apprehend a suspect in the Malwathu Hiripitiya area, has succumbed to injuries at the Colombo National Hospital.
+
+Meanwhile the suspect and a female have been arrested by Police Special Task Force (STF) along with the missing firearm during a raid at Bingiriya last night (11), police said.
+
+A scuffle had broken out during an attempt by a team of officers from the Malwathu Hiripitiya Police Station to apprehend a suspect in the Batepola area in the early hours of Saturday (10) while the suspect had attempted to grab the firearm of the police officer during the incident.
+
+The firearm had then discharged injuring the police officer in question while the suspect had then fled with the officer’s service firearm.
+
+...
+
+[Data](articles/981262ac.json)
 
 ---
 
@@ -2063,63 +2117,5 @@ The other two robbers had fled, and the Minuwangoda police are conducting furthe
 [Data](articles/e77a001d.json)
 
 [Extended Data](ext_articles/e77a001d.ext.json)
-
----
-
-### Australia advantage of the coin
-
-*2024-02-11 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193247) · `si`
-
-The Australian team captain won the toss and win the coin in the final of the 19 World Cup.
-
-◼️
-
-[Data](articles/15489dd7.json)
-
-[Extended Data](ext_articles/15489dd7.ext.json)
-
----
-
-### The quality of the atmosphere is at a negative
-
-*2024-02-11 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193248) · `si`
-
-The quality of the atmosphere of several districts has increased to a negative level of human body.
-
-The National Building Research Organization (NBRO) states that this situation is higher in Colombo, Jaffna and Kandy districts.
-
-According to the Air Quality Index, air quality in the rest of the country, except the Nuwara Eliya district, is healthy.
-
-The National Building Research Organization stated that the air quality index in the Colombo, Jaffna, Badulla, Kandy, Matale districts are healthy.
-
-Dry weather conditions and neighboring dust particles have contributed to this situation.
-
-The National Building Research Organization (NBRO) stated that it is important to raise the deer covers in the open aircraft, aged people, respiratory diseases, and children.
-
-Especially jungle fires, reliance, traffic runs will lead to increase in air pollution.
-
-◼️
-
-[Data](articles/87d28e03.json)
-
-[Extended Data](ext_articles/87d28e03.ext.json)
-
----
-
-### NPP says that changed compared to changes
-
-*2024-02-11 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193246) · `si`
-
-According to the National Jathika Prime Minister Vijitha Herath, the Executive Committee of the National Institute of Power has also changed to the change in world politics.
-
-He was speaking at a press conference held at his party headquarters today (11) at his party headquarters to clarify the Indian force's visit to India.
-
-Vijitha Herath said that the visit to the Indian government and the 10-day visit was reduced to five days.
-
-◼️
-
-[Data](articles/3b8c96ac.json)
-
-[Extended Data](ext_articles/3b8c96ac.ext.json)
 
 ---

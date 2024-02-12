@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 09:33:23**
+As of **2024-02-12 09:51:37**
 
 ## Newspaper Stats
 
-*Scraped **6,392** Articles*
+*Scraped **6,398** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,90 @@ economynextcom | 323
 islandlk | 344
 dailyftlk | 348
 newsfirstlk | 363
-adalk | 533
-tamilmirrorlk | 779
+adalk | 534
+tamilmirrorlk | 780
 adaderanalk | 787
 virakesarilk | 794
 adaderanasinhalalk | 882
-dailymirrorlk | 927
+dailymirrorlk | 931
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,392 (100.0%) of 6,392 articles have been extended.
+6,398 (100.0%) of 6,398 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### Shooting at Megoda Economic Center - little girl injury
+
+*2024-02-12 08:59:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீகொட-பொருளாதார-மையத்தில்-துப்பாக்கிச்-சூடு-சிறுமி-காயம்/175-333055) · `ta`
+
+Police say an incident has been reported at a shop at the Megoda Economic Center.
+
+It is reported that the shooting was carried out at a shop at a shop at the Megoda Economic Center this morning.
+
+It is reported that the girl was admitted to the hospital after he was injured when a cashier at the shop was shot three times.
+
+The robbers who robbed the money on the shop shelf shot the girl asking the keys to get the keys from the bottom.
+
+Subsequently, the mysterious men who were involved in the robbery pushed the motorcycle and fled.
+
+While the details of the stolen money have not yet been revealed, the injured girl is currently receiving treatment at the Homagama Hospital. Remble
+
+◼️
+
+[Data](articles/be74f3ec.json)
+
+[Extended Data](ext_articles/be74f3ec.ext.json)
+
+---
+
+### Online Safety Act: Amendments to be cleared by Cabinet today
+
+*2024-02-12 08:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Online-Safety-Act-Amendments-to-be-cleared-by-Cabinet-today/108-276803) · `en`
+
+The new amendments to the recently introduced Online Safety Act will be presented to the Cabinet for approval today, an official said.
+
+The government took steps hurriedly to amend the law immediately after it took effect, following pressure from tech companies such as Google, Yahoo, Amazon and Meta and the international community.
+
+The tech companies argued the Act, unless amended, would affect the digital economy of the country.
+
+◼️
+
+[Data](articles/73758b54.json)
+
+[Extended Data](ext_articles/73758b54.ext.json)
+
+---
+
+### Marathon world record holder Kiptum dies in road accident
+
+*2024-02-12 08:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Marathon-world-record-holder-Kiptum-dies-in-road-accident/108-276802) · `en`
+
+(BBC) - The men's marathon world record holder, Kenya's Kelvin Kiptum, 24, has died in a road accident in his home country.
+
+He was killed alongside his coach, Rwanda's Gervais Hakizimana, in a car on a road in western Kenya on Sunday.
+
+Kiptum made a breakthrough in 2023 as a rival to compatriot Eliud Kipchoge - one of the greatest marathon runners.
+
+And it was in Chicago last October that Kiptum bettered Kipchoge's achievement, clocking the 26.1 miles (42km) in two hours and 35 seconds.
+
+The two athletes had been named in Kenya's provisional marathon team for the Paris Olympics later this year.
+
+Paying tribute to Kiptum, Kenyan Sports Minister Ababu Namwamba wrote on X: "Devastatingly sickening!! Kenya has lost a special gem. Lost for words."
+
+Kenya's opposition leader and former prime minister, Raila Odinga, said the country had lost "a true hero" and was mourning "a remarkable individual... and Kenyan athletics icon".
+
+...
+
+[Data](articles/0e4df7dd.json)
+
+[Extended Data](ext_articles/0e4df7dd.ext.json)
+
+---
 
 ### Amendments to the Online Act to be held to Cabinet today
 
@@ -313,6 +381,28 @@ In some places in the Western and Sabaragamuwa provinces, some locations are exp
 [Data](articles/26f2a656.json)
 
 [Extended Data](ext_articles/26f2a656.ext.json)
+
+---
+
+### January tourism revenue soars to pre-pandemic peak
+
+*2024-02-12 05:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/January-tourism-revenue-soars-to-pre-pandemic-peak/108-276801) · `en`
+
+Robust tourist income seen for the first time since Feb. 2020
+
+Sustained momentum could position tourism as a bright spot in SL external sector once again
+
+In a promising sign for Sri Lanka’s economy, tourism earnings soared to a pre-pandemic peak of US$ 341.8 million in January 2024.
+
+This resurgence indicates a significant recovery for the industry, which faced a prolonged downturn since the onset of the pandemic four years ago.
+
+This milestone marks the first time since February 2020, when earnings reached US$ 391.1 million. The industry was then rebounding from the aftermath of the 2019 Easter attacks and bracing itself just weeks before the country reported its first locally transmitted Covid-19 case, triggering nationwide lockdowns.
+
+...
+
+[Data](articles/50bba22e.json)
+
+[Extended Data](ext_articles/50bba22e.ext.json)
 
 ---
 
@@ -794,6 +884,26 @@ Ranil Wickremesinghe was elected as the country's president with a seat in Parli
 
 ### More surprises to be unfolded: Anura Kumara says after India visit
 
+*2024-02-11 23:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/More-surprises-to-be-unfolded-Anura-Kumara-says-after-India-visit/155-276777) · `en`
+
+Anuradhapura, Feb. 11 (Daily Mirror)- Claiming that opposition camps have been astonished by the NPP's Indian visit, NPP leader Anura Kumara Dissanayake said today that more surprising events are to be unfolded in the near future.
+
+Speaking at the Anuradhapura District Women's Convention, he said an era had begun now, where more and more surprises would take place.
+
+"How did you know about our Indian visit? You got to know it either through the Samagi Jana Balawegaya camp, President Ranil's camp or Mahinda Rajapaksa's camp. We were silent. They have been astonished to learn about our Indian visit. They thought that only they can deal with India in that manner. An era has begun where more and more such surprises will occur," he said.
+
+Dissanayake said the opposition has also been astonished about this concept of women's convention, adding that they never thought an awakening of women would happen in this manner.
+
+...
+
+[Data](articles/1abb5baf.json)
+
+[Extended Data](ext_articles/1abb5baf.ext.json)
+
+---
+
+### More surprises to be unfolded: Anura Kumara says after India visit
+
 *2024-02-11 23:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/More-surprises-to-be-unfolded-Anura-Kumara-says-after-India-visit/108-276777) · `en`
 
 Anuradhapura, Feb. 11 (Daily Mirror)- Claiming that opposition camps have been astonished by the NPP's Indian visit, NPP leader Anura Kumara Dissanayake said today that more surprising events are to be unfolded in the near future.
@@ -1031,6 +1141,36 @@ Accordingly, 6 vehicles have been taken over by the Bribery Commission and 05 of
 [Data](articles/0c84c774.json)
 
 [Extended Data](ext_articles/0c84c774.ext.json)
+
+---
+
+### Patali speaks of cutting
+
+*2024-02-11 22:02:08* · [`adalk`](https://www.ada.lk/breaking_news/කැපිලි-ගැන-පාඨලී-කථා-කරයි/11-408017) · `si`
+
+"I lay the fake stickers in parliament in Parliament in August last year, why was lauddated in parliament and stopped the fake stickers in parliament.
+
+And they stopped the permits of manufacturers who do not pay taxes, they started paying taxes. Government revenue increased, at the end, the Excise Commissioner of Excise had to go home. I also lost billions of taxes to the country and destroyed the Chairman and Leader of the United Front, Level Patali Champika Ranawaka
+
+He was speaking at a meeting held at Bandaragama Millad Tree Line today (11)
+
+The meeting was organized under the patronage of Bandaragama electorate of Bandaragama electoral organizer retired.
+
+I have been removed from the schedule and the chief committee.
+
+Mr. Ranil Wickremesinghe has come to Parliament recently.. That my story was cut
+
+I spoke from Mr. Methis to Kiriella why I cut my talk
+
+Because we only give us four minutes a week for four minutes a week.
+
+The hug of hours is now going to a Man Shaw of Parliament.
+
+...
+
+[Data](articles/8c6cf67b.json)
+
+[Extended Data](ext_articles/8c6cf67b.ext.json)
 
 ---
 
@@ -2025,127 +2165,5 @@ Katunayake Airport Customs officers have begun further investigations into the m
 [Data](articles/6ad554a4.json)
 
 [Extended Data](ext_articles/6ad554a4.ext.json)
-
----
-
-### Two organized criminal members arrested
-
-*2024-02-11 15:33:28* · [`adalk`](https://www.ada.lk/breaking_news/සංවිධානාත්මක-අපරාධකල්ලි-සාමාජිකයන්-දෙදෙනෙක්-අත්අඩංගුවට/11-408008) · `si`
-
-Police Special Task Force says two organized crime gangs have been arrested along with two motorbikes and two motorcycle plates
-
-The police say that the two arrested suspects were a former Army Commonso soldier and the Buddha.
-
-Two suspects have been arrested on suspicion of relations with Lalith Kanangara, who is the leader of organized crime team leader
-
-The arrested suspects residing in Padda Teswala and Hanwella Ataigala, Hanwella Ataigala and 37 years old
-
-Special Operations Unit of STF conducts further investigations
-
-◼️
-
-[Data](articles/375adff2.json)
-
-[Extended Data](ext_articles/375adff2.ext.json)
-
----
-
-### Two buses clash in Bambalapitiya
-
-*2024-02-11 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193250) · `si`
-
-Two buses were reported near Hindu College, Bambalapitiya Duplication Duplication Duplication.
-
-A bus traveling from Colombo to Aluthgama was on the rear of bus from Colombo to Mount Lavinia.
-
-Police suspect that the accident had occurred after a lorry that was parked near the road.
-
-No one is injured in the accident and the police are conducting further investigations.
-
-◼️
-
-[Data](articles/445f00e7.json)
-
-[Extended Data](ext_articles/445f00e7.ext.json)
-
----
-
-### Sri Lanka takes steps to establish Indian IT University branch in Kandy
-
-*2024-02-11 15:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-takes-steps-to-establish-indian-it-university-branch-in-kandy-150582/) · `en`
-
-ECONOMYNEXT – Sri Lanka has started discussions with Indian Institute of Technology Madras (IIT Madras) to establish a branch in the island nation’s central city of Kandy, the Ministry of Information Technology said, as the country is aiming fast track digital economy.
-
-Led by State Minister of Technology, Kanaka Herath, visited the IIT Madras last week for the discussion.
-
-“Accompanied by distinguished academics and industry leaders, the delegation aimed to explore potential collaborations and finalize details regarding the proposed campus,” the IT Ministry said in a statement.
-
-The International Monetary Fund has advised the government to implement digitalization as a strategy to curb corruption in the country.
-
-The government has been aiming for electronic-National Identity Card (e-NIC), Unique ID card with biometrics, and digitalizing payments including taxes among many others as strategies to digitalize the economy, government officials have said.
-
-...
-
-[Data](articles/8cf9af29.json)
-
-[Extended Data](ext_articles/8cf9af29.ext.json)
-
----
-
-### Egg prices rise
-
-*2024-02-11 15:03:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலை-எகிறுகிறது/175-333014) · `ta`
-
-The State Trade Corporation has announced that 7 million imports imported this year will be distributed to Lanka Sathosa in the coming week.
-
-Steps are being taken to increase the price of eggs in the market as the festive season is near.
-
-Accordingly, consumers are accused of not being able to get eggs at Sathosa specialties and retail stations.
-
-At the same time, the price of a local egg from Monday (12). The All Ceylon Egg Manufacturers Association said it could increase by 65.
-
-◼️
-
-[Data](articles/96a91629.json)
-
-[Extended Data](ext_articles/96a91629.ext.json)
-
----
-
-### Sri Lanka coconut auction prices edge up 1.6-pct at auction
-
-*2024-02-11 14:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-edge-up-1-6-pct-at-auction-150579/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s coconut prices picked up to 69,751 rupees for 1,000 nuts at an auction on February 8, edging up 1.6 percent from 68,634, Coconut Development Board data showed.
-
-The highest price offered was 78,500 rupees and the lowest price was 50,000 rupees.
-
-The auction offered 698,941 coconuts, out of which 612,643 were were sold.
-
-The price of coconut oil ranged from 560,000 rupees to 600,000 rupees per metric tonne.
-
-Coconut shells saw the price ranging from 26,000 rupees to 28,000 rupees a metric tonne. (Colombo/Feb 10/2024)
-
-◼️
-
-[Data](articles/07405f3a.json)
-
-[Extended Data](ext_articles/07405f3a.ext.json)
-
----
-
-### Anura Kumara Dissanayake in India
-
-*2024-02-11 14:36:00* · [`islandlk`](http://island.lk/anura-kumara-dissanayake-in-india/) · `en`
-
-Anura Kumara Dissanayake’s recent visit to India, on an invitation extended by the Indian government, underlies a tectonic shift in Sri Lankan politics, a sign of things to come. It hints at what may happen at upcoming elections. More than anything, it shows that India is taking the JVP-NPP seriously. We should be, too.
-
-The responses to the visit by other parties have, so far, been lukewarm. The UNP’s Vajira Abeywardena, for instance, welcomed the move, and stated that his party hoped the JVP-NPP would contribute towards national policies which would “revive the nation”, adding that he looked forward to seeing the party work with the UNP, just as it had worked before with Chandrika Kumaratunga and Mahinda Rajapaksa.
-
-...
-
-[Data](articles/2880949c.json)
-
-[Extended Data](ext_articles/2880949c.ext.json)
 
 ---

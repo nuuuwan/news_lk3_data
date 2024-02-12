@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 19:17:36**
+As of **2024-02-12 19:33:05**
 
 ## Newspaper Stats
 
-*Scraped **6,519** Articles*
+*Scraped **6,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,56 @@ adalk | 550
 tamilmirrorlk | 794
 adaderanalk | 799
 virakesarilk | 816
-adaderanasinhalalk | 909
+adaderanasinhalalk | 910
 dailymirrorlk | 955
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,515 (99.9%) of 6,519 articles have been extended.
+6,519 (100.0%) of 6,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### ஜனாதிபதி பதவியை இரத்துச் செய்ய ஜனாதிபதி நடவடிக்கை - முன்னாள் ஜனாதிபதி மைத்திரி
+### ජංගම දුරකථන භාවිත කරන සියලුදෙනාට අනතුරු ඇඟවීමක්
+
+*2024-02-12 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193298) · `si`
+
+ජංගම දුරකථන භාවිත කරන සෑම පාරිභෝගිකයෙකුම නිසි පරිදි තම සිම්පත ලියාපදිංචි කරගත යුතු බව ශ්‍රී ලංකා විදුලි සංදේශ නියාමන කොමිෂන් සභාව නිවේදනය කරයි.
+
+අද (12) මාධ්‍ය වෙත ප්‍රකාශක් කරමින් එම කොමිෂන් සභාවේ අධ්‍යක්ෂ (අනුකූලතා) මේනකා පතිරණ මහත්මිය ඒ බව සඳහන් කළාය.
+
+ඔබ දැනට භාවිතා නොකරන දුරකථන සමාගම්වල ඔබ නමින් සිම්පතක් ලියාපදිංචි වී ඇත්දැයි පරික්ෂා කර ගැනීමට එම දුරකථන සමාගම සම්බන්ධ කරගෙන කරගත හැකි බව ඇය පෙන්වා දුනි.
+
+ඔබ නමින් ඔබ නොදැනුවත්ව දුරකථන සිම්පත් නිකුත්වී ඇත්නම් ඒවා විසන්ධි කිරීමට වහාම කටයුතු කරන ලෙස ශ්‍රී ලංකා විදුලි සංදේශ නියාමන කොමිෂන් සභාවේ අධ්‍යක්ෂවරිය ඉල්ලා සිටියාය.
+
+ඔබගේ ජාතික හැඳුනුම්පත් අංකය යටතේ ඔබගේ අනුදැනුමකින් තොරව සිම්පත් නිකුත්වී ඇත්නම් ඒවා විසන්ධි කිරීම ඉතාම වැදගත් බව ඇය සඳහන් කළාය.
+
+◼️
+
+[Data](articles/3ce53c8a.json)
+
+---
+
+### President's action to cancel president - former President Maithri
 
 *2024-02-12 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176224) · `ta`
 
-அரசியலமைப்பில் திருத்தம் மேற்கொண்டு ஜனாதிபதி பதவியை இல்லாமல் செய்வதற்கு  நடவடிக்கை எடுக்கப்பட்டு வருகிறது. ஜனாதிபதி ரணில் விக்ரமசிங்க அதற்காக கருஜயசூரிய தலைமையில் குழுவொன்றையும் அமைத்துள்ளார் என சிறிலங்கா சுதந்திர கட்சியின் தலைவரும் முன்னாள் ஜனாதிபதியுமான மைத்திரிபால சிறிசேன தெரிவித்தார்.
+Steps are being taken to amend the Constitution and take over the presidency. President Ranil Wickremesinghe has formed a committee headed by Karujayasuriya for this, said Maithripala Sirisena, the leader of the Sri Lanka Freedom Party and former President.
 
-இந்த வருட இறுதியில் ஜனாதிபதி தேர்தல் இடம்பெறும் என அரசாங்கம் அறிவித்துள்ள நிலையில், ஜனாதிபதி தேர்தலை நடத்தாமல் விடுவதற்கு அரசாங்கம் நடவடிக்கை எடுத்து வருவது தொடர்பாகக் குறிப்பிடுகையிலேயே இவ்வாறு தெரிவித்தார்.
+He said the government had announced that the government was taking steps to leave the presidential election as the presidential election would be held later this year.
 
-நாட்டில் ஜனாதிபதி தேர்தல் இந்த வருடம் ஒக்டோபர் மாதம் இடம்பெறும் என ஜனாதிபதி மற்றும் அரச தரப்பினர் ஆரம்பத்திலிருந்து தெரிவித்து வருகின்றனர்.  தற்போது ஜனாதிபதி தேர்தல் தொடர்பாகக் கட்சிகளுக்கிடையில் கலந்துரையாடல்கள் இடம்பெற்று வருகின்றன. அதேபோன்று கூட்டணி அமைத்துக்கொண்டு ஜனாதிபதி தேர்தலில் பொது வேட்பாளர் ஒருவரைக் களமிறக்குவது தொடர்பாகவும் கட்சிகளுக்கிடையில் பேசப்பட்டு வருகின்றன.
+The president and state governments have said that the presidential election in the country will be held in October this year.There are currently discussions between the parties on the presidential election. Similarly, the parties are being talked about between the parties in the presidential election.
+
+However, President Ranil Wickremesinghe has appointed a panel of lawyers headed by former Speaker Karujaya to cancel the presidency, and is now fast to do so.This is currently being talked about in the country.
 
 ...
 
 [Data](articles/be23663b.json)
+
+[Extended Data](ext_articles/be23663b.ext.json)
 
 ---
 
@@ -98,17 +122,19 @@ SriLankan Airlines Statement on Flight UL 605 by Adaderana Online on Scribd
 
 ---
 
-### புலமைபரிசில் பரீட்சையில் சித்தியடைந்த மாணவர்களுக்கான அறிவிப்பு
+### Notification for students who passed the scholarship examination
 
 *2024-02-12 18:08:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைபரிசில்-பரீட்சையில்-சித்தியடைந்த-மாணவர்களுக்கான-அறிவிப்பு/175-333084) · `ta`
 
-2023 ஆம் ஆண்டிற்கான தரம் 5 புலமைப்பரிசில் மேல்முறையீட்டு விண்ணப்பங்களை தற்போது இணையவழி ஊடாக சமர்ப்பிக்க முடியும் என்று கல்வி அமைச்சு தெரிவித்துள்ளது.
+Grade 5 Scholarship Appeal Applications for 2023 can now be submitted through enemy, the Ministry of Education said.
 
-இதன்படி, 2023 ஆம் ஆண்டு நடைபெற்ற தரம் 5 புலமைப்பரிசில் பரீட்சையின் பெறுபேறுகளின் அடிப்படையில்,   2024 ஆம் ஆண்டு தரம் 6க்கான மாணவர் அனுமதிக்கான விண்ணப்பங்களை இணையவழி மூலம் 13.02.2024 முதல் 29.02.2024 வரை சமர்ப்பிக்க முடியும். R
+Accordingly, based on the results of the Grade 5 Scholarship Examination held in 2023, the applications for Grade 6 of 2024 will be submitted by e -mail from 13.02.2024 to 29.02.2024.. Remble
 
 ◼️
 
 [Data](articles/49d6a525.json)
+
+[Extended Data](ext_articles/49d6a525.ext.json)
 
 ---
 
@@ -796,19 +822,25 @@ The unions said that the decision was failed by the Ministry of Finance with the
 
 ---
 
-### බන්ධනාගාර තුළ කර්මාන්ත ස්ථාපිත කිරීමට යයි
+### Industries to establish industries in prisons
 
 *2024-02-12 14:22:59* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාර-තුළ-කර්මාන්ත-ස්ථාපිත-කිරීමට-යයි/11-408032) · `si`
 
-බන්ධනාගාරගත රැදවියන් බන්ධනාගාරයෙන් නිදහස් වු පසු ඔවුන් සමාජයට වඩාත් ඵලදායී පුද්ගලයින් බවට පත් කිරීම අරමුණු කරමින් සියලු බන්ධනාගාර තුළ කර්මාන්ත ස්ථාපිත කිරීම සදහා බන්ධනාගාර දෙපාර්තමේන්තුව සහ කාර්මික සංවර්ධන මණ්ඩලය අතර අවබෝධතා ගිවිසුමක් අත්සන් කිරීම අද (12) පෙරවරුවේ අධිකරණ අමාත්‍යාංශයේදී සිදු විය.
+After the imprisoned inmates released from prison, the Department of Prisons and Industrial Development took place at the Ministry of Justice to establish industries in all prisons today (12) to establish industries.
 
-අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ජනාධිපති නීතිඥ, ආචාර්ය විජයදාස රාජපක්ෂ මහතා ඉදිරිපිටදී බන්ධනාගාර කොමසාරිස් ජනරාල් තුෂාර උපුල්දෙණිය මහතා සහ කාර්මික සංවර්ධන මණ්ඩලයේ සභාපති සාරංග අලහප්පෙරුම යන මහත්වරුන් අදාළ ගිවිසුමට අත්සන් කරන ලදී.
+The Commissioner General of Prisons and Constitutional Reforms, Commissioner General of Prisons and Constitutional Reforms Saranga Alahapperuma and the Chairman of the Industrial Development Board Saranga Alahapperuma were signed before Dr. Wijayadasa Rajapakse.
 
-අවබෝධතා ගිවිසුම තුළින් සියලු බන්ධාගාර තුළ කර්මාන්ත ස්ථාපිත කිරීමට මෙරට ව්‍යවසායකයින්ට, කර්මාන්තකරුවන්ට වැඩි අවස්ථාවක් හිමි වන අතර, කර්මාන්ත තුළ පුහුණුව ලබන රැදවියන් සදහා කාර්මික සංවර්ධන මණ්ඩලය හා බන්ධනාගාර දෙපාර්තමේන්තුව සහතික පත්‍ර පිරිනමනු ලබයි.
+Entrepreneurs, industrialists have a higher opportunity to establish industries in all bundary through the MoU and the Industrial Development Board and the Department of Prisons for the inmates of the industry.
+
+This will give the detainees of their prison period more meaningful and the use of their prison period of prison for the development of their prison.
+
+The Commissioner General of Prisons Thushara Upuladeniya states:
 
 ...
 
 [Data](articles/57572a95.json)
+
+[Extended Data](ext_articles/57572a95.ext.json)
 
 ---
 
@@ -898,21 +930,25 @@ He is a resident of Opanayaka Hunuala, Opanayakawa area and the suspect is due t
 
 ---
 
-### රාජකාරියට ගිය කොස්තාපල් මුහුදේ ගිලී ජිවිතකෂයට
+### To live in a constable sea
 
 *2024-02-12 14:02:40* · [`adalk`](https://www.ada.lk/breaking_news/රාජකාරියට-ගිය-කොස්තාපල්-මුහුදේ-ගිලී-ජිවිතකෂයට/11-408030) · `si`
 
-ග්‍රැන්ඩ්පාස්  පොලිසියේ  අපරාධ විමර්ශන අංශයේ ස්ථානාධිපතිවරයා ඇතුළු පොලිස් කණ්ඩායමක් රාජකාරී කටයුත්තක් සඳහා  යන බවට පවසා  පමුණුගම ප්‍රදේශයට ගොස්  පමුණුගම තල්දියවත්ත ප්‍රදේශයේ  දිය නාමින් සිටි සිටියදි  කොස්තාපල්වරයකු   දියේ ගිලී මිය ගොස් ඇතැයි පමුණුගම පොලිසිය පවසයි.
+A constable was drowned in Pamunugama, including the OIC of the Grandpass police investigation unit, and was drowned in Pamunugama area.
 
-සිද්ධියෙන් මියගොස් ඇත්තේ  එච් එස් හෙට්ටිආරච්චි  (24) නමැති ආධුනික පොලිස් කොස්තාපල්වරයෙකු වන අතර ඔහු බදුල්ල  කෝට්ටේගොඩ ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The deceased has been identified as Hettiarachchi (24) amateur police constable, a resident of Kottegoda.
 
-ග්‍රැන්ඩ්පාස් පොලිසියේ අපරාධ විමර්ශන අංශයේ. ස්ථානාධිපති  පොලිස් පරීක්ෂක  නිශ්ශංක මහතා ප්‍රමුඛ එම අංශය පොලිස්  කණ්ඩායම  පොලිස් තොරතුරු පොතේ සටහන් යොදා, රාජකාරී කටයුත්තක් සඳහා පිටත්වන බවට සඳහන් කරමින්  පෙරේදා  (11)  පමුණුගම ප්‍රදේශයට පැමිණ ඇති බව පොලිසිය සදහන් කරයි.
+The Criminal Investigation Division of the Gripp Police. The OIC Inspector General of Police Nissanka has returned to Pamunugama Regionality, led by the police information book.
 
-පිරිස පස්වරුවේ පමුණුගම  තල්දියවත්ත මුහුදු  ප්‍රදේශයට පැමිණ එහි  මත්පැන් සාදයක් පවත්වා පසුව   දිය නා ඇති බවද පොලිසිය පවසයි.  එලෙස දිය නාමින් සිටි  පොලිස් කණ්ඩායම අතර සිටි  ඉහත  කොස්තාපල්වරයා  දියේ ගිලී  මියගොස් පොලිසිය සඳහන් කරයි.
+Police said that the group arrived in Pamunugama Talmawatta town and had a liquor party.The above constable was drowning between the police team, drowned.
 
-...
+Police said he had died when he was recovered by police officers and surrounding territories.Pamunugama Police are conducting further investigations.
+
+◼️
 
 [Data](articles/ecc12c56.json)
+
+[Extended Data](ext_articles/ecc12c56.ext.json)
 
 ---
 
@@ -1963,25 +1999,5 @@ He claims that his refusal to boycott President Ranil Wickremesinghe’s parliam
 [Data](articles/35314fae.json)
 
 [Extended Data](ext_articles/35314fae.ext.json)
-
----
-
-### Another suspects are boxing justice
-
-*2024-02-12 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193274) · `si`
-
-625 suspects have been arrested by 625 suspects in the last 24 hours under justice operations.
-
-The police said that 80 suspects were in the list of drug misbehavior and the list of criminal divisions.
-
-The police have seized 160 grams of heroin, 152 grams of heroin in the possession of the suspects.
-
-The police said that there are three open warrants in the list of drugs and non-drug errors in the list of the criminal sections.
-
-◼️
-
-[Data](articles/8bc9d2e1.json)
-
-[Extended Data](ext_articles/8bc9d2e1.ext.json)
 
 ---

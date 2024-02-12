@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 19:33:05**
+As of **2024-02-12 19:50:07**
 
 ## Newspaper Stats
 
-*Scraped **6,520** Articles*
+*Scraped **6,526** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ colombotelegraphcom | 80
 bbccomsinhala | 89
 dbsjeyarajcom | 147
 economynextcom | 325
-islandlk | 344
+islandlk | 346
 dailyftlk | 348
 newsfirstlk | 363
-adalk | 550
-tamilmirrorlk | 794
+adalk | 552
+tamilmirrorlk | 796
 adaderanalk | 799
 virakesarilk | 816
 adaderanasinhalalk | 910
@@ -26,29 +26,163 @@ dailymirrorlk | 955
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,519 (100.0%) of 6,520 articles have been extended.
+6,520 (99.9%) of 6,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### ජංගම දුරකථන භාවිත කරන සියලුදෙනාට අනතුරු ඇඟවීමක්
+### මීගොඩ ආර්ථිකය වසයි
+
+*2024-02-12 19:16:29* · [`adalk`](https://www.ada.lk/breaking_news/මීගොඩ-ආර්ථිකය-වසයි/11-408037) · `si`
+
+මීගොඩ ආර්ථික මධ්‍යස්ථානයේ අද (12දා) දින අලුයම සිදුවූ සිද්ධිය සම්බන්ධයෙන් නුගේගොඩ කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරයා මීගොඩ ආර්ථික මධ්‍යස්ථානයේ වෙළෙඳ ප්‍රජාව සමඟ සාකච්ඡාවක්  පවත්වා ඇත.
+
+එහිදී ආර්ථික මධ්‍යස්ථානයේ ආරක්ෂාව කෙරෙහි සෑහිමකට පත්විය නොහැකි බව වෙළෙඳ ප්‍රජා ප්‍රජාව ප්‍රකාශ කිරීම නිසා, මීගොඩ  පොලිස් මුරපොලේ රාජකාරී කටයුතු සඳහා වෙනත් නිලධාරීන් යෙදීමටත්,  මීගොඩ ආර්ථික මධ්‍යස්ථානයේ වෙළෙඳ කටයුතු අද දින සිදු නොකිරීමටත් තීරණය කර තිබේ.
+
+එසේම හෙට (13) දින සිට එම වෙළෙඳ කටයුතු පෙර පරිදිම ඉදිරියට කරගෙන යෑමට පොලිස් අධිකාරීවරයා සමග පැවති සාකච්ඡාවේදී එකඟතාවයට පැමිණි බව  මීගොඩ පොලිස් ස්ථානයේ උසස් නිලධාරියෙකු පැවසීය.
+
+◼️
+
+[Data](articles/f76f45eb.json)
+
+---
+
+### பெண் உத்தியோகத்தரை துஷ்பிரயோகம் செய்த ஆண் உத்தியோகர் கைது
+
+*2024-02-12 19:09:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-உத்தியோகத்தரை-துஷ்பிரயோகம்-செய்த-ஆண்-உத்தியோகர்-கைது/175-333086) · `ta`
+
+பிரதேச பெண் கிராம உத்தியோகத்தரை பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்திய குற்றச்சாட்டின் பேரில் கல்பிட்டி பிரதேச செயலகத்தின் சிரேஷ்ட கிராம உத்தியோகத்தர் ஒருவர் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+முதலில் பிரதேச செயலாளரிடம் முறைப்பாடு செய்ததாகவும், ஆனால் அவர் உரிய நடவடிக்கை எடுக்கவில்லை எனவும் பாதிக்கப்பட்ட பெண் பொலிஸாரிடம் தெரிவித்துள்ளார்.
+
+தான் தனிமையில் இருந்தபோது, ​​தனக்கு வழங்கப்பட்ட மக்கள்தொகை கணக்கெடுப்பு தொடர்பான பணிகளுக்காக வழங்கப்பட்ட கணினியை எடுத்துச் செல்வற்காக அந்தச் சந்தேக நபர் தன்னை வீட்டுக்கு அழைத்ததாக அவர் கூறினார்.
+
+சந்தேக நபர் தனது கடமைகளை புறக்கணித்ததாக குற்றம் சாட்டி, தன்னை கையால் பிடித்ததாகவும், இந்த சம்பவத்தினால் ஏற்பட்ட மன வேதனையின் காரணமாகவே பதவியில் இருந்து ராஜினாமா செய்ததாகவும் அவர் மேலும் தெரிவித்தார்.
+
+சந்தேக நபரை நீதிமன்றில் ஆஜர்படுத்த உள்ளதாக சிரேஷ்ட பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/0d906942.json)
+
+---
+
+### AKD in New Delhi: Some thoughts about the ‘Indian policy’ of a progressive government
+
+*2024-02-12 19:03:00* · [`islandlk`](http://island.lk/akd-in-new-delhi-some-thoughts-about-the-indian-policy-of-a-progressive-government/) · `en`
+
+Senior Lecturer, Department of Legal Studies, Open University of Sri Lanka
+
+The recent visit of a delegation from the National People’s Power (NPP), led by Anura Kumara Dissanayaka, to India has sparked an intriguing discussion within our political circles. While some parties have seized upon this opportunity to mock the JVP, recalling their anti-Indian stance in the 1980s, others have raised concerns about the potential dangers of yielding to Indian regional hegemony. Nevertheless, it is undeniable that the invitation extended by the Indian government to an NPP delegation for discussions signifies a significant turning point. The NPP, with only three members in Parliament, was until very recently perceived as a marginal political party.
+
+...
+
+[Data](articles/266310fd.json)
+
+[Extended Data](ext_articles/266310fd.ext.json)
+
+---
+
+### Dudley Senanayake (1911-1973): The gentle knight of Ceylon politics
+
+*2024-02-12 19:03:00* · [`islandlk`](http://island.lk/dudley-senanayake-1911-1973-the-gentle-knight-of-ceylon-politics/) · `en`
+
+“He was a verray parfit gentil knight”, in the words of the fourteenth century English poet Geoffrey Chaucer. Dudley Senananyake was a Minister at the age of 36 and four times Prime Minister. He won the respect and affection of millions, many of whom had never seen him, or know him only from his picture in a public print or a displayed poster.
+
+Although he was a wise statesman and an experienced politician, there is something else which comes uppermost to the minds of those who pause to recall his public career of 38 years. I was working in my small garden after I had heard the news of his death. An elderly woman was plucking some jasmine flowers from a creeper in the fence. She too had heard the news and turning to me, said: “Such is our existence on this earth. Even the Lord Buddha had to die.”
+
+...
+
+[Data](articles/42105577.json)
+
+[Extended Data](ext_articles/42105577.ext.json)
+
+---
+
+### Anura Kumara Dissanayake in India
+
+*2024-02-12 19:02:00* · [`islandlk`](http://island.lk/anura-kumara-dissanayake-in-india/) · `en`
+
+Anura Kumara Dissanayake’s recent visit to India, on an invitation extended by the Indian government, underlies a tectonic shift in Sri Lankan politics, a sign of things to come. It hints at what may happen at upcoming elections. More than anything, it shows that India is taking the JVP-NPP seriously. We should be, too.
+
+The responses to the visit by other parties have, so far, been lukewarm. The UNP’s Vajira Abeywardena, for instance, welcomed the move, and stated that his party hoped the JVP-NPP would contribute towards national policies which would “revive the nation”, adding that he looked forward to seeing the party work with the UNP, just as it had worked before with Chandrika Kumaratunga and Mahinda Rajapaksa.
+
+...
+
+[Data](articles/2880949c.json)
+
+[Extended Data](ext_articles/2880949c.ext.json)
+
+---
+
+### Divisions within SJB surface, Fonseka has hour-long meeting with Ranil
+
+*2024-02-12 19:02:00* · [`islandlk`](http://island.lk/divisions-within-sjb-surface-fonseka-has-hour-long-meeting-with-ranil/) · `en`
+
+President Ranil Wickremesinghe ceremonially commenced the fifth session of Parliament on Wednesday with a speech (once called the Throne Speech), calling on opposition parties to join his endeavor to rebuild the nation. It was his third policy speech in the legislature, the first and second being delivered on August 3, 2022, and February 8, 2023, commencing the third and fourth sessions of the ninth Parliament.
+
+He directed that all ceremonial and events traditionally associated with the opening of Parliament be dispensed presumably for reasons of economy. So there was neither a military parade or 21-gun salute; only the reciting of Jayamangala Gatha by a bevy of pink-clad girls from Devi Balika Vidyalaya, Colombo.
+
+The president called on the SJB and JVP to adapt and change for the sake of the nation’s welfare and the prosperity of the country’s youth and to share his vision to ‘unite in the pursuit of our nation-building dream.’
+
+...
+
+[Data](articles/a81fc053.json)
+
+---
+
+### Will Karu Jayasuriya be suitable as an Interim President?
+
+*2024-02-12 19:01:00* · [`islandlk`](http://island.lk/will-karu-jayasuriya-be-suitable-as-an-interim-president/) · `en`
+
+It is no longer a secret that a progressive section of the Buddhist clergy (Sangha) and Tamil parties (for example the Global Tamil Forum) have met in Europe and North America and worked out a “Road Map” to put an end to repetitive riots and pogroms that have despoiled this country since Independence. Leaders SWRD, JR, Ranil, Premadasa and Mahinda, all of them, have racist blood on their hands. DS took away the citizenship of Upcountry Tamils but I don’t think he instigated race riots. Overall this is a sad commentary on our so-called national leaders.
+
+...
+
+[Data](articles/11087245.json)
+
+[Extended Data](ext_articles/11087245.ext.json)
+
+---
+
+### A warning to all used mobile phones
 
 *2024-02-12 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193298) · `si`
 
-ජංගම දුරකථන භාවිත කරන සෑම පාරිභෝගිකයෙකුම නිසි පරිදි තම සිම්පත ලියාපදිංචි කරගත යුතු බව ශ්‍රී ලංකා විදුලි සංදේශ නියාමන කොමිෂන් සභාව නිවේදනය කරයි.
+The Telecommunications Regulatory Commission of Sri Lanka announced that every customer used in mobile phones should be registered with them.
 
-අද (12) මාධ්‍ය වෙත ප්‍රකාශක් කරමින් එම කොමිෂන් සභාවේ අධ්‍යක්ෂ (අනුකූලතා) මේනකා පතිරණ මහත්මිය ඒ බව සඳහන් කළාය.
+The Director of the Commission (Compliance) Ms. Manaka Pathirana made this statement to the media this morning.
 
-ඔබ දැනට භාවිතා නොකරන දුරකථන සමාගම්වල ඔබ නමින් සිම්පතක් ලියාපදිංචි වී ඇත්දැයි පරික්ෂා කර ගැනීමට එම දුරකථන සමාගම සම්බන්ධ කරගෙන කරගත හැකි බව ඇය පෙන්වා දුනි.
+She pointed out that the telephone company can be linked to check if you have registered with the phone companies you do not currently use.
 
-ඔබ නමින් ඔබ නොදැනුවත්ව දුරකථන සිම්පත් නිකුත්වී ඇත්නම් ඒවා විසන්ධි කිරීමට වහාම කටයුතු කරන ලෙස ශ්‍රී ලංකා විදුලි සංදේශ නියාමන කොමිෂන් සභාවේ අධ්‍යක්ෂවරිය ඉල්ලා සිටියාය.
+If you have called for unwitting phones, the Telecommunications Regulatory Commission of Sri Lanka demanded immediate action to disconnect them.
 
-ඔබගේ ජාතික හැඳුනුම්පත් අංකය යටතේ ඔබගේ අනුදැනුමකින් තොරව සිම්පත් නිකුත්වී ඇත්නම් ඒවා විසන්ධි කිරීම ඉතාම වැදගත් බව ඇය සඳහන් කළාය.
+She said that if the SIMs were released without your knowledge under your National Identity Card.
 
 ◼️
 
 [Data](articles/3ce53c8a.json)
+
+[Extended Data](ext_articles/3ce53c8a.ext.json)
+
+---
+
+### தினமும் 20 நிமிடமாவது குளிக்குமாறு அறிவுறுத்தல்
+
+*2024-02-12 19:00:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தினமும்-20-நிமிடமாவது-குளிக்குமாறு-அறிவுறுத்தல்/175-333085) · `ta`
+
+அதிகரித்து வரும் வெப்பநிலையை அடுத்து, நீரிழப்பு ஏற்படாமல் இருக்க, தங்கள் குழந்தைகளை தினமும் குறைந்தது இருபது நிமிடங்களாவது குளிக்க வைக்குமாறு பெற்றோர்களுக்கு மருத்துவ நிபுணர்கள் அறிவுறுத்தியுள்ளனர்.
+
+டெய்லி மிரருக்குப்  பேட்டியளித்த குழந்தை மருத்துவ நிபுணர் வைத்தியர்.தீபால் பெரேரா, குழந்தைகளிடையே தோல் வியாதிகள் அதிகரித்து வருவதை சுட்டிக்காட்டி நாடு முழுவதும் அதிகரித்து வரும் வெப்ப அளவுகளே இதற்குக் காரணம் என்று எடுத்துரைத்தார்.
+
+வைத்தியர் பெரேரா, வெப்பநிலை அதிகரிப்பது தோல் நிலைமைகளை மோசமாக்குவது மட்டுமல்லாமல், குறிப்பாக குழந்தைகளிடையே நீரிழப்புக்கான குறிப்பிடத்தக்க அபாயத்தையும் ஏற்படுத்துகிறது என்று வலியுறுத்தினார்.
+
+போதுமான நீரேற்றம் மற்றும் குறைந்தபட்சம் 20 நிமிடங்களுக்கு குளித்தல், எளிய ஆடைகளை அணிதல் மற்றும் இயற்கை பானங்களை ஊக்குவித்தல் உள்ளிட்ட விழிப்புணர்வு மற்றும் தடுப்பு நடவடிக்கைகள், குழந்தைகளின் ஆரோக்கியத்தில் அதிகரிக்கும் வெப்பநிலையின் பாதகமான விளைவுகளுக்கு எதிரான பாதுகாப்புகளாக அடிக்கோடிட்டுக் காட்டப்படுகின்றன.
+
+◼️
+
+[Data](articles/adcc9f3e.json)
 
 ---
 
@@ -819,6 +953,20 @@ The unions said that the decision was failed by the Ministry of Finance with the
 [Data](articles/5aaa974c.json)
 
 [Extended Data](ext_articles/5aaa974c.ext.json)
+
+---
+
+### හෙට පැති කිහිපයකට වැසි
+
+*2024-02-12 14:30:44* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-පැති-කිහිපයකට-වැසි/11-408033) · `si`
+
+නැහෙනහිර හා ඌව පළාත්වලත් පොලොන්නරුව, මාතලේ හා නුවරඑළිය දිස්ත්‍රික්කවලත් හෙට දිනයේදී වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+උතුරු පළාතේ හා අනුරාධපුර දිස්ත්‍රික්කයෙත් වැසි ස්වල්පයක් ඇතිවිය හැකි බවත් බස්නාහිර  හා සබරගමුව පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවත් පස්වරු 2න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවීමට හැකි බවද එම දෙපාර්තමේන්තුව දන්වා සිටියි.
+
+◼️
+
+[Data](articles/881288f6.json)
 
 ---
 
@@ -1815,189 +1963,5 @@ Villagers urge the authorities to take necessary steps before this ant to grow i
 [Data](articles/f57d1348.json)
 
 [Extended Data](ext_articles/f57d1348.ext.json)
-
----
-
-### Australia Under-19s emulate their seniors by beating India in World Cup final
-
-*2024-02-12 10:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Australia-Under-19s-emulate-their-seniors-by-beating-India-in-World-Cup-final/108-276832) · `en`
-
-Benoni, Feb. 12 (AFP) - Australian dominance of major cricket events continued on Sunday when they beat India by 79 runs in the Under-19 World Cup final at Willowmoore Park in South Africa.
-
-Australia's senior men's team won the world Test championship and Cricket World Cup in 2023 – beating India in the finals on both occasions.
-
-The Australian women's team are the current 50-overs and T20 World Cup champions.
-
-Sunday's final between the only unbeaten teams in the tournament was surprisingly one-sided.
-
-Australia made 253 for seven in their 50 overs after winning the toss and deciding to bat. Strongly-built left-hander Harjas Singh made a hard-hit 55 to highlight a solid batting performance.
-
-India's batting had been their strength leading up the final but they crashed to 122 for eight against Australia's pace bowling attack. Opening batsman Adarsh Singh (47) was the only top-order batsman to shine.
-
-...
-
-[Data](articles/02053b8b.json)
-
-[Extended Data](ext_articles/02053b8b.ext.json)
-
----
-
-### Vegetables in Jaffna bandem in Dambulla
-
-*2024-02-12 10:40:57* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයේ-එළවළු-දඹුල්ලේ-මිල-බස්සවයි/11-408021) · `si`
-
-Economic Center Traders say that the vegetable harvest in the Jaffna Peninsula has reduced every sixty percent of the delay in the Dambulla Economic Center.
-
-Carrots, which have been cultivated in the Chunnagam, Jaffna, have been reduced to Rs.
-
-The dealers point out that the eggplant, 150 and 200 to 150 to Rs.
-
-They point out that the cows from the Jaffna peninsula has become the main reason for the fall of every other vegetable.
-
-In addition to vegetables, the Jaffna peninsula, the Jaffna peninsula, was also received by the Jaffna peninsula.The fish sold for Rs. 1500 fell to Rs. 800.
-
-◼️
-
-[Data](articles/f9f1dd82.json)
-
-[Extended Data](ext_articles/f9f1dd82.ext.json)
-
----
-
-### Car, 3 motorcycles collision in Ratnapura: Youth killed
-
-*2024-02-12 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176162) · `ta`
-
-A youth was killed and four others were injured when a car and three motorcycles collided with a car in Ratnapura.
-
-The hospital spokesman said the situation was worrisome. The injured are being treated at the Ratnapura Hospital.
-
-◼️
-
-[Data](articles/f6cdc486.json)
-
-[Extended Data](ext_articles/f6cdc486.ext.json)
-
----
-
-### Rs 20 billion needed for presidential and general election
-
-*2024-02-12 10:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rs-20-billion-needed-for-presidential-and-general-election/108-276831) · `en`
-
-Colombo, Feb. 12 (Daily Mirror)- A total sum of Rs 20 billion is needed for the presidential and general elections, Director General Election commission Saman Sri Ratnayake said.
-
-Ratnayake told journalists that he had already informed this matter to Parliament and to the finance ministry.
-
-The Presidential election is due this year while the term of the present Parliament would end in 2025. However there are constitutional provisions for the President to dissolve Parliament anytime after it completes four and a half years of its term as per the 21st amendment to the constitution.
-
-The government had pledged that the presidential election would be held this year while the opposition had alleged that there is a sinister move to abolish the Executive presidency without holding the presidential poll.
-
-◼️
-
-[Data](articles/3e033b34.json)
-
-[Extended Data](ext_articles/3e033b34.ext.json)
-
----
-
-### “We are glad that PM Modi has brought back old glory” - Namal on Ram Temple
-
-*2024-02-12 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97194/we-are-glad-that-pm-modi-has-brought-back-old-glory-namal-on-ram-temple) · `en`
-
-Sri Lankan MP Namal Rajapaksa appreciated Prime Minister Narendra Modi for the construction of the Ram Temple and said that it was a great experience to visit the historic place.
-
-He visited the Ayodhya Ram Temple on Friday and said that he felt honoured and blessed to visit the shrine.
-
-Speaking to ANI, Rajapaksa said, “It’s a great feeling to get blessings from Lord Ram in Ayodhya. And I think it’s beautifully done and we are glad that Prime Minister Modi and the Government of India have brought back the old glory and redone the history.”
-
-He said that everyone should visit the Ram Temple not just to seek blessings but also to witness the architectural marvel.
-
-...
-
-[Data](articles/f1dc81d2.json)
-
-[Extended Data](ext_articles/f1dc81d2.ext.json)
-
----
-
-### Online Defense Law submission to Cabinet
-
-*2024-02-12 10:28:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-பாதுகாப்பு-சட்டம்-அமைச்சரவையில்-சமர்ப்பிப்பு/175-333056) · `ta`
-
-New amendments to the recently introduced Online Security Act will be submitted today (12) for the approval of the Cabinet.
-
-Accordingly, following the pressure of technical organizations such as Google, Yahoo, Amazon and Meta, the government urgently took steps to amend the law when the law came into effect.
-
-It is noteworthy that technology companies were argued that if the law was not amended, it would affect the country's digital economy.
-
-◼️
-
-[Data](articles/67ba99ec.json)
-
-[Extended Data](ext_articles/67ba99ec.ext.json)
-
----
-
-### Armed gang shoots cashier, flees with cash from Meegoda Economic Center
-
-*2024-02-12 10:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Armed-gang-shoots-cashier-flees-with-cash-from-Meegoda-Economic-Center/108-276830) · `en`
-
-Meegoda, Feb 12 (Daily Mirror) - A woman was injured when two armed men broke into the Meegoda Economic Center, shot at her and robbed a shop before fleeing early this morning.
-
-Police said the woman, who was the cashier at the time, was hit by three bullets in her abdomen and was admitted to the Homagama Hospital.
-
-A CCTV camera installed in the shop recorded the robbers looting cash from the drawer.
-
-The robbers stole money from the top drawer of the store and shot at the woman after demanding for the key to get money from the bottom drawer.
-
-The Meegoda Police Post is located in front of the Meegoda Economic Center where the shooting took place.
-
-The two gunmen who committed the robbery fled on a motorcycle.
-
-◼️
-
-[Data](articles/88ab714f.json)
-
-[Extended Data](ext_articles/88ab714f.ext.json)
-
----
-
-### Public Service: 'People can work out of the work of the people and serve them at a free time'
-
-*2024-02-12 10:17:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0kd9e0pl8do) · `si`
-
-There is nothing here. Play Video, "Public Service:" The work of the people is over, "a time of work is free from this.You can take. ''
-
-Public Service: 'People can work out of the work of the people and serve them at a free time'
-
-We have heard of the occasions when most people are inconvenienced when they go to the public official.
-
-But there are public servants who serve the people with efficiently and friendly people.
-
-We learned that the 41/1 E Beligaswalla Grama Niladhari office belongs to Karandeniya Divisional Secretariat Division, Galle is such a friendly rice. So we went there to look into it.
-
-"This is a special office. There is a dry diet, book bank, drug bank and a vegetable and fruits bank. Not told the poor. And when it comes to seven days, the people can be able to work anytime. "
-
-◼️
-
-[Data](articles/5ab1dcd0.json)
-
-[Extended Data](ext_articles/5ab1dcd0.ext.json)
-
----
-
-### Exclusion from Parliamentary Committee; Champika drops bombshell
-
-*2024-02-12 10:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Exclusion-from-Parliamentary-Committee-Champika-drops-bombshell/108-276829) · `en`
-
-Colombo, Feb. 12 (Daily Mirror)- MP Patali Champika Ranawaka alleges that his exclusion from the parliamentary Committee on Ways and Means was influenced by individuals connected to the sugar scam and liquor deals.
-
-He claims that his refusal to boycott President Ranil Wickremesinghe’s parliamentary address led to his removal, while highlighting his efforts as committee chairman to address the losses from the sugar scam and combat fraud related to liquor bottle stickers.
-
-◼️
-
-[Data](articles/35314fae.json)
-
-[Extended Data](ext_articles/35314fae.ext.json)
 
 ---

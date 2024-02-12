@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 20:17:17**
+As of **2024-02-12 20:33:11**
 
 ## Newspaper Stats
 
-*Scraped **6,540** Articles*
+*Scraped **6,543** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ economynextcom | 337
 islandlk | 347
 dailyftlk | 348
 newsfirstlk | 363
-adalk | 552
-tamilmirrorlk | 797
+adalk | 553
+tamilmirrorlk | 798
 adaderanalk | 799
 virakesarilk | 816
 adaderanasinhalalk | 910
-dailymirrorlk | 955
+dailymirrorlk | 956
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,538 (100.0%) of 6,540 articles have been extended.
+6,540 (100.0%) of 6,543 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### SriLankan Airlines flight turns back to Melbourne due to technical issue
+
+*2024-02-12 19:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-flight-turns-back-to-Melbourne-due-to-technical-issue/108-276853) · `en`
+
+Colombo, Feb 12 (Daily Mirror) - SriLankan Airlines said that that flight UL 605, en route from Melbourne to Colombo, safely returned to Melbourne Airport shortly after takeoff at 18:16hrs (Melbourne time) today, due to a technical issue.
+
+All passengers onboard the flight disembarked safely following the return to the airport. A team of engineers is currently assessing the aircraft and providing necessary technical support to address the issue, the SriLankan said.
+
+All passengers have been accommodated in hotels until the rescheduling of the flight for departure.
+
+◼️
+
+[Data](articles/02804092.json)
+
+---
 
 ### SriLankan flight that suddenly landed in Melbourne
 
@@ -87,6 +103,44 @@ A senior police officer said the suspect was to be produced in court.
 [Data](articles/0d906942.json)
 
 [Extended Data](ext_articles/0d906942.ext.json)
+
+---
+
+### பெண் உத்தியோகஸ்தரை துஷ்பிரயோகம் செய்த ஆண் உத்தியோகஸ்தர் கைது
+
+*2024-02-12 19:09:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-உத்தியோகஸ்தரை-துஷ்பிரயோகம்-செய்த-ஆண்-உத்தியோகஸ்தர்-கைது/175-333086) · `ta`
+
+பிரதேச பெண் கிராம உத்தியோகஸ்தரை பாலியல் துஷ்பிரயோகஸ்தரை உட்படுத்திய குற்றச்சாட்டின் பேரில் கல்பிட்டி பிரதேச செயலகத்தின் சிரேஷ்ட கிராம உத்தியோகஸ்தர் ஒருவர் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+முதலில் பிரதேச செயலாளரிடம் முறைப்பாடு செய்ததாகவும், ஆனால் அவர் உரிய நடவடிக்கை எடுக்கவில்லை எனவும் பாதிக்கப்பட்ட பெண் பொலிஸாரிடம் தெரிவித்துள்ளார்.
+
+தான் தனிமையில் இருந்தபோது, ​​தனக்கு வழங்கப்பட்ட மக்கள்தொகை கணக்கெடுப்பு தொடர்பான பணிகளுக்காக வழங்கப்பட்ட கணினியை எடுத்துச் செல்வற்காக அந்தச் சந்தேக நபர் தன்னை வீட்டுக்கு அழைத்ததாக அவர் கூறினார்.
+
+சந்தேக நபர் தனது கடமைகளை புறக்கணித்ததாக குற்றம் சாட்டி, தன்னை கையால் பிடித்ததாகவும், இந்த சம்பவத்தினால் ஏற்பட்ட மன வேதனையின் காரணமாகவே பதவியில் இருந்து ராஜினாமா செய்ததாகவும் அவர் மேலும் தெரிவித்தார்.
+
+சந்தேக நபரை நீதிமன்றில் ஆஜர்படுத்த உள்ளதாக சிரேஷ்ட பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/184b9abf.json)
+
+---
+
+### සනත් නිශාන්තට මරු කැඳවූ අනතුර ගැන කන්ටේනර් රියදුරුගෙන් ප්‍රකාශ ගනියි
+
+*2024-02-12 19:09:01* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්තට-මරු-කැඳවූ-අනතුර-ගැන-කන්ටේනර්-රියදුරුගෙන්-ප්‍රකාශ-ගනියි/11-408036) · `si`
+
+හිටපු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ මරණය සිදුවූ ආකාරය සැක සහිත යැයි පවසමින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත, සිදුකළ පැමිණිල්ලකට අනුව ඊයේ (12) දින කන්ටේනර් රථ රියදුරු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත කැඳවා ප්‍රකාශ ලබා ගත් බව ජ්‍යෙෂ්ඨ පොලිස් නිලධාරියෙක් පැවසීය.
+
+හිටපු අමාත්‍යවරයාගේ බිරිඳ වන අධි නීතිඥ  චමරි ප්‍රියංකා මහත්මිය සිය සැමියාගේ මරණය සිදුවූ ආකාරය සැක සහිත බව පවසමින් ඉකුත්( 7) වෙනිදින සිදු කරන ලද  පැමිණිල්ලකට අදාළව මෙම ප්‍රකාශ සටහන් කර ගැනිණ.
+
+මාරක රිය අනතුර සම්බන්ධයෙන් විශේෂිත කරුණු කීපයක් ඉදිරිපත් කරමින් පිටු පහක පමණ ප්‍රමාණයකින් යුත්  විස්තර ඇතුළත්  කර එකී පැමිණිල්ල ඉදිරිපත් කර තිබිණි.
+
+ඒ අනුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශන අංශය රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා ගමන් ගත් ජීප් රථය ගැටුණු  බව කියන කන්ටේනර් රථය පැදවූ රියදුරාට කරන ලද දැනුම් දීමකට අනුව ඔහු එම අංශය වෙත නීතිඥවරයෙකු සමග පැමිණ පුරා පැය පහකට ආසන්නන්  කාලයක්  ප්‍රකාශ ලබා දී තිබිණි.
+
+...
+
+[Data](articles/82e14d3e.json)
 
 ---
 
@@ -1700,6 +1754,8 @@ Chief guest at the ceremony, Minister Pavithra Wanniarachchi thanked Iran for it
 
 [Data](articles/a06418c7.json)
 
+[Extended Data](ext_articles/a06418c7.ext.json)
+
 ---
 
 ### Footballer killed in lightning strikes
@@ -1923,71 +1979,5 @@ He was seriously injured in the fall from the coconut tree and was admitted to t
 [Data](articles/70b8334d.json)
 
 [Extended Data](ext_articles/70b8334d.ext.json)
-
----
-
-### Prices of eggs to go up from today
-
-*2024-02-12 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97197/prices-of-eggs-to-go-up-from-today-) · `en`
-
-The prices of eggs are slated to be increased, effective from today (12 Feb.), according to the All Ceylon Egg Traders’ Association.
-
-Secretary of the Association Buddhika Weerasena attributed the decision to the increased costs of several other factors within the industry, including the distribution of eggs.
-
-Accordingly, the wholesale price of an egg will increase to Rs. 58 from today, while the retail price is likely to go up to Rs. 63 per egg.
-
-◼️
-
-[Data](articles/aa917a80.json)
-
-[Extended Data](ext_articles/aa917a80.ext.json)
-
----
-
-### NPP trying to become the main opposition: SJB MP
-
-*2024-02-12 11:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-trying-to-become-the-main-opposition-SJB-MP/108-276835) · `en`
-
-Colombo, Feb. 12 (Daily Mirror)- National People's Power (NPP) was trying to become the main opposition in the country, Samagi Jana Balawegaya Spokesman and Member of Parliament S. M. Marikar said today.
-
-“What we can gather from the recent visit of NPP Leader Anura Kumara Dissanayake to India is that his party is trying to become the main opposition in the country,” Marikar told a news briefing.
-
-“We don’t mind NPP becoming the main opposition as we will be in the government when they become the main opposition of this country” he added.
-
-“Anyway, we feel that Dissanayake’s visit to India is a positive move. He must have come back after learning lessons on investments and foreign relations,” the MP also said.
-
-◼️
-
-[Data](articles/89e3702d.json)
-
-[Extended Data](ext_articles/89e3702d.ext.json)
-
----
-
-### Increasing firing incidents in the context of active action- Daily Mirror
-
-*2024-02-12 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176172) · `ta`
-
-Although crimes have intensified against drug offenses, firing incidents have increased. Despite the decline in shootings in the first month of Yukdi, they have begun to reappear.
-
-While strategic action against planned crimes has intensified, there has been an increase in the recent firing incidents.
-
-Police reports that the incidents of violence used by the gun have increased, causing fear and confusion.
-
-Ten people have been killed in a gunfight between January 10th and February 10th, police spokesman said.
-
-Many people were injured by Hindu firing, while no one was injured in two shootings, police spokesman said.
-
-The Ministry of Public Safety launched a strategy in December against crimes and drug crimes.
-
-However, in the past few weeks, there have been incidents of firing in cities like Colombo Galle.
-
-The incident took place on January 22 in Beliyatta. In the incident, five people, including the leader of the political party, Samanperera, were killed.
-
-...
-
-[Data](articles/c10970c6.json)
-
-[Extended Data](ext_articles/c10970c6.ext.json)
 
 ---

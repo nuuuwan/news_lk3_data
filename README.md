@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 13:02:25**
+As of **2024-02-12 13:17:07**
 
 ## Newspaper Stats
 
@@ -1072,7 +1072,13 @@ However, it is said that the work will take place after the former President's f
 
 A group attempting to burgle a shop at the Meegoda Economic Centre had reportedly opened fire and injured a woman last night (11) before fleeing the area.
 
-Ada Derana reporter said that two armed individuals had shot the female cashier of a shop at the economic center and made of with some cash.
+Ada Derana reporter said that two armed individuals had shot the female cashier of a shop at the economic center and made off with some cash.
+
+As seen on CCTV footage obtained from a camera installed within the shop in question, the shooters had shot the 23-year-old female in her abdomen thrice.
+
+It is revealed that the gunmen had opened fire in an attempt to obtain the keys to one of the two cash lockers in the shop, of which the other they had already looted.
+
+Accordingly, while the total amount of cash stolen is yet to be determined, the 23-year-old victim is currently receiving treatment at the Homagama Hospital, Ada Derana learns.
 
 ◼️
 

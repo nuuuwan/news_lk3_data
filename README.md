@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 08:50:11**
+As of **2024-02-12 09:02:37**
 
 ## Newspaper Stats
 
-*Scraped **6,389** Articles*
+*Scraped **6,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 344
 dailyftlk | 348
 newsfirstlk | 363
 adalk | 533
-tamilmirrorlk | 777
+tamilmirrorlk | 779
 adaderanalk | 787
 virakesarilk | 794
 adaderanasinhalalk | 881
@@ -26,11 +26,29 @@ dailymirrorlk | 927
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,389 (100.0%) of 6,389 articles have been extended.
+6,389 (100.0%) of 6,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### ”தேர்தலை ஒத்திவைக்க இடமளிக்க மாட்டோம்”
+
+*2024-02-12 08:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-ஒத்திவைக்க-இடமளிக்க-மாட்டோம்/175-333054) · `ta`
+
+நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை ஒழிக்கும் போர்வையில் இந்த வருடம் நடைபெறவுள்ள ஜனாதிபதித் தேர்தல் அட்டவணையை ஒத்திவைக்க எதிர்க்கட்சிகள் இடமளிக்காது என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+
+கொழும்பில் வெள்ளிக்கிழமை (9) இடம்பெற்ற நிகழ்வொன்றில் கலந்துகொண்டு உரையாற்றிய அவர், “மக்களின் வாக்குரிமையை அழிக்க முற்பட்டால், அதனை நாங்கள் அனுமதிக்க மாட்டோம்.
+
+நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை ஒழித்தல் என்ற பெயரில் ஜனாதிபதி தனது பதவிக் காலத்தை நீடிக்கச் செய்யும் குறும்புத்தனமான நோக்கங்களுக்கு சமகி ஜன பலவேகய (SJB) பிடிபடாது” என அவர் மேலும் தெரிவித்தார்.
+
+நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை ஒழிக்க வேண்டும் என்ற நிலைப்பாட்டில் எஸ்ஜேபி இன்னும் இருப்பதாகவும், ஆனால் நிறைவேற்று ஜனாதிபதி முறைமையை ஒழிப்பேன் என்ற போர்வையில் மக்களின் ஆணையையும் வாக்களிக்கும் உரிமையையும் அழிக்க அனுமதிக்க முடியாது எனவும் எதிர்க்கட்சித் தலைவர் மேலும் தெரிவித்தார். 2024ல் நடக்கவிருக்கும் தேர்தலும் நடக்க வேண்டும்.
+
+◼️
+
+[Data](articles/44d7fcf7.json)
+
+---
 
 ### Student killed in train
 
@@ -347,6 +365,22 @@ Vavuniya High Court Judge Manikkavasagam Ilancheliyan who delivered the verdict 
 [Data](articles/4d9898c3.json)
 
 [Extended Data](ext_articles/4d9898c3.ext.json)
+
+---
+
+### மாணவி சடலமாக மீட்பு
+
+*2024-02-12 04:01:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவி-சடலமாக-மீட்பு/175-333050) · `ta`
+
+பலாங்கொடை, பெட்டிகள பிரதேசத்தில் வீடொன்றின் குளியலறையில் இருந்து பாடசாலை மாணவி ஒருவர் சடலமாக  மீட்கப்பட்டுள்ளார்.
+
+உறவினர்கள் வழங்கிய முறைப்பாட்டுக்கு அமைய பலாங்கொடை பொலிஸாரால் குறித்த மாணவியின் சடலம் நேற்று மீட்கப்பட்டுள்ளது.
+
+இவ்வாறு சடலமாக மீட்கப்பட்ட மாணவி பலாங்கொடை பிரதேசத்தில் பிரபல தமிழ்ப் பாடசாலை ஒன்றில் உயர்தர வகுப்பில் கல்வி கற்றவர் என்று பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/55a3f65f.json)
 
 ---
 
@@ -2101,37 +2135,5 @@ The narcotics taken into custody during this period include 153g 665mg of heroin
 [Data](articles/1754e931.json)
 
 [Extended Data](ext_articles/1754e931.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-02-11 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193249) · `si`
-
-Sri Lanka won the toss and elected to bat where the second ODIs against Afghanistan.
-
-◼️
-
-[Data](articles/9df978a2.json)
-
-[Extended Data](ext_articles/9df978a2.ext.json)
-
----
-
-### Dushmantha Chameera ruled out of 2nd ODI against Afghanistan
-
-*2024-02-11 13:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dushmantha-Chameera-ruled-out-of-2nd-ODI-against-Afghanistan/108-276769) · `en`
-
-Kandy, Feb 11 (Daily Mirror) - Dushmantha Chameera will miss Sri Lanka's second ODI against Afghanistan, with Asitha Fernando coming into the squad as his replacement.
-
-Sri Lanka Cricket stated that Chameera limped off midway through his eighth over during Sri Lanka's 42-run victory in the first ODI. Despite picking up two wickets at the time, he was unable to continue due to an injury to his left quadriceps.
-
-The injury is confirmed to be unrelated to any of his previous ailments; last year, he missed a significant portion of Sri Lanka's games due to a torn pectoral muscle, and prior to that, he underwent surgery for an ankle injury.
-
-◼️
-
-[Data](articles/c8f1971a.json)
-
-[Extended Data](ext_articles/c8f1971a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 00:17:22**
+As of **2024-02-13 00:33:17**
 
 ## Newspaper Stats
 
-*Scraped **6,577** Articles*
+*Scraped **6,578** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 347
 dailyftlk | 348
 newsfirstlk | 363
 adalk | 557
-tamilmirrorlk | 801
+tamilmirrorlk | 802
 adaderanalk | 803
 virakesarilk | 824
 adaderanasinhalalk | 917
@@ -26,43 +26,61 @@ dailymirrorlk | 961
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,572 (99.9%) of 6,577 articles have been extended.
+6,577 (100.0%) of 6,578 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### பலாலி கிழக்கில் சில காணிகளை விடுவிக்க முனைப்பு -  சிவபாலசுந்தரன்
+### Sivapalasundaran is trying to release some lands in Palali East -
 
 *2024-02-12 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176233) · `ta`
 
-யாழ்ப்பாணம் பலாலி கிழக்குப் பகுதியில் உயர் பாதுகாப்பு வலயமாகக் காணப்படும் காணிகளில் சில காணிகளை விடுவிக்க நடவடிக்கை முன்னெடுக்கப்பட்டு வருவதாக யாழ். மாவட்ட செயலர் அ.சிவபாலசுந்தரன் தெரிவித்துள்ளார்.
+Jaffna is being taken to release some of the lands in the East of Palali, Jaffna.. District Secretary AC Sivapalasundaran said.
 
-பலாலி கிழக்கில் ஒரு தொகுதி காணியை விடுவிக்க ஜனாதிபதி உத்தரவிட்டுள்ளார். அதன் அடிப்படையில் , தற்போது சம்பந்தப்பட்ட தரப்புக்களுடன் கடித பரிமாற்றங்கள் முன்னெடுக்கப்பட்டு வருகின்றன.
+The President ordered the release of a block of land in the East of Palali. Based on that, correspondence is being carried out with the relevant parties.
 
-விரைவில் கொழும்பிலிருந்து அதிகாரிகள் குழுவொன்று யாழ்ப்பாணம் வருகை தந்து , காணி விடுவிப்புக்கான அளவீட்டுப் பணிகள் உள்ளிட்ட இதர பணிகளை முன்னெடுக்கும்.
+A team of officials from Colombo will soon visit Jaffna and carry out other tasks including measurement work for land release.
 
 ◼️
 
 [Data](articles/872a9113.json)
 
+[Extended Data](ext_articles/872a9113.ext.json)
+
 ---
 
-### கையடக்கத் தொலைபேசியை பயன்படுத்துபவர்களுக்கான எச்சரிக்கை !
+### Warning for those who use the mobile phone!
 
 *2024-02-12 22:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176231) · `ta`
 
-கையடக்கத் தொலைபேசிகளைப் பயன்படுத்தும் ஒவ்வொருவரும்  தமது சிம் அட்டையை முறையாகப் பதிவு செய்ய வேண்டும் என இலங்கை தொலைத்தொடர்பு ஒழுங்குபடுத்தும் ஆணைக்குழு அறிவித்துள்ளது.
+The Sri Lanka Telecommunication Regulatory Commission has announced that everyone who uses mobile phones should register their SIM card properly.
 
-இலங்கை தொலைத்தொடர்பு ஒழுங்குபடுத்தும் ஆணைக்குழுவின் பணிப்பாளர் மேனகா பத்திரண இது குறித்து ஊடகங்களுக்கு மேலும் தெரிவிக்கையில்,
+Director of the Sri Lanka Telecommunication Regulatory Commission, Menaka, told the media that this
 
-தற்போது நீங்கள் பயன்படுத்தாத கையடக்கத் தொலைபேசிகளிலும் உங்கள் பெயரில் சிம் அட்டை பதிவு செய்யப்பட்டுள்ளதா என்பதைச் சரிபார்க்க சிம் அட்டையின் நிறுவன முகவர்களுடன் தொடர்பு கொண்டு சரிபாருங்கள்.
+Please contact the company's agents of the SIM card to verify that the SIM card is registered in your name on handheld phones you are currently using.
 
-உங்கள் தேசிய அடையாள அட்டை எண்ணின் கீழ் உங்களுக்குத் தெரியாமல் சிம் அட்டைகள் வழங்கப்பட்டிருந்தால், அவற்றின் இணைப்பைத் துண்டிப்பது மிகவும் முக்கியம் என இலங்கை தொலைத்தொடர்பு ஒழுங்குபடுத்தும் ஆணைக்குழுவின் பணிப்பாளர் மேலும் குறிப்பிட்டார்.
+The Director of the Sri Lanka Telecommunications Regulatory Commission added that if you are issued SIM cards without you knowing under your National Identity Card number, it is very important to disconnect their connection.
 
 ◼️
 
 [Data](articles/6340a3df.json)
+
+[Extended Data](ext_articles/6340a3df.ext.json)
+
+---
+
+### மீகொட துப்பாக்கிச் சூடு; அதிகாரிகளுக்கு அதிரடி இடமாற்றம்
+
+*2024-02-12 22:49:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீகொட-துப்பாக்கிச்-சூடு-அதிகாரிகளுக்கு-அதிரடி-இடமாற்றம்/175-333091) · `ta`
+
+மீகொட பொருளாதார மத்திய நிலையத்திற்கு அருகிலுள்ள பொலிஸ் சோதனைச் சாவடியில் கடமையாற்றிய நிலைய கட்டளைத் தளபதி உட்பட ஐந்து அதிகாரிகள் உடனடியாக அமுலுக்கு வரும் வகையில் இடமாற்றம் செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+மீகொட பொருளாதார மத்திய நிலையத்தில் இன்று காலை இடம்பெற்ற கொள்ளைச் சம்பவம் தொடர்பில் மேற்கொள்ளப்பட்டு வரும் விசாரணைகள் தொடர்பில் பொலிஸார் இந்த தீர்மானத்தை எடுத்துள்ளனர். R
+
+◼️
+
+[Data](articles/b15a6707.json)
 
 ---
 
@@ -250,43 +268,55 @@ This news is the context of reports that the Bangladesh team will lead the Bangl
 
 ---
 
-### 19 வயதின் கீழ் உலகக் கிண்ணப் போட்டியில்; இனங்காணப்பட்ட எதிர்கால நட்சத்திரங்கள் (பகுதி 2 - துடுப்பாட்ட வீரர்கள்)
+### World Cup competition under the age of 19;Identified Future Stars (Part 2 - Players)
 
 *2024-02-12 22:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176230) · `ta`
 
-தென் ஆபிரிக்காவில் நடைபெற்றுவந்த ஐசிசி ஆடவர் 19 வயதுக்குட்பட்ட உலகக் கிண்ண கிரிக்கெட் போட்டியில் துடுப்பாட்டத்தில் பல வீரர்கள் சதங்கள் குவித்து அசத்தியிருந்தனர்.
+In South Africa, the ICC men in the Under -19 World Cup cricket match have scored centuries.
 
-இறுதிப் போட்டியில் விளையாடிய அவுஸ்திரேலியா, இந்தியா ஆகிய அணிகளைச் சேர்ந்த ஐவரே இந்த மைல்கல்லை எட்டினர். அவரக்ளில் மூவர் இந்தியர்கள், மற்றைய இருவரும் அவுஸ்திரேலியார்கள்.
+Five of Australia and India, who played in the finals, reached the milestone. Three of them are Indians and the other two are Australians.
 
-இந்திய அணித் தலைவர் உதய் சஹாரன் இம்முறை 7 போட்டிகளில் மொத்தமாக 397 ஓட்டங்களைப் பெற்று முன்னணியில் உள்ளார். அவர் ஒரு சதம் உட்பட 3 அரைச் சதங்களைக் குவித்து அதி சிறந்த ஆற்றலை வெளிப்படுத்தியிருந்தார். அணியையும் சிறப்பாக வழிநடத்தியிருந்தார்.
+Indian captain Uday Saharan is in the forefront of a total of 397 runs in 7 matches. He had accumulated 3 half centuries, including a century. He also led the team better.
 
-இந்தியாவின் மற்றொரு சிறந்த துடுப்பாட்டக்காரரான முஷீர் கான் 360 ஓட்டங்களை மொத்தமாக பெற்றார். அவர் ஒருவரே இந்த உலகக் கிண்ணப் போட்டியில் 2 சதங்களைக் குவித்தவர் ஆவார். அத்துடன் ஒரு அரைச் சதத்தையும் அவர் பெற்றார். பந்துவீச்சிலும் 7 விக்கெட்களை வீழ்த்தி சகல துறை ஆட்டத்திறனை வெளிப்படுத்தியிருந்தார்.
+Mushir Khan, another best player in India, scored 360 runs. He was the one who scored 2 centuries in this World Cup. As well as he received a half century. He also took 7 wickets in bowling and made all the field players.
+
+Have accumulated more runs in Australi players. He played in 7 matches and scored 309 runs with 3 half centuries. Accordingly, he is ranked 3rd in the lineup.
+
+Australian captain Hue Weijen was very efficiently batting and became a world champion.. He scored 304 runs in 7 matches, including one half and a half.
 
 ...
 
 [Data](articles/b868649d.json)
 
+[Extended Data](ext_articles/b868649d.ext.json)
+
 ---
 
-### 19வயதின் கீழ் உலகக் கிண்ண போட்டியில் ; இனங்காணப்பட்ட எதிர்கால நட்சத்திரங்கள் (பகுதி 1 - பந்துவீச்சாளர்கள்)
+### World Cup competition under the age of 19;Identified Future Stars (Part 1 - Boweler)
 
 *2024-02-12 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/176229) · `ta`
 
-சர்வதேச கிரிக்கெட் அரங்கில் எதிர்கால நட்சத்திரங்களுக்கான ஒரு பரீட்சைக் களமாக அமைந்த 19 வயதுக்குட்பட்ட உலகக் கிண்ண கிரிக்கெட் போட்டியில் சில வீரர்களின் ஆற்றல்கள் பிரமிக்கத்தக்க வகையில் அமைந்திருந்தது.
+The energies of some players in the under -19 World Cup cricket match, which was an exam platform for future stars in the International Cricket Forum.
 
-பந்துவீசசில் 6 வீரர்களும் துடுப்பாட்டத்தில் 5 வீரர்களும் தமது திறமைகளை வெளிப்படுத்தி பாராட்டுதல்களைப் பெற்றனர்.
+Six players in the bowling and five players in the bowling showed their talents.
 
-அவர்களில் தென் ஆபிரிக்காவின் இடதுகை வேகப்பந்துவீச்சாளர் க்வேனா மஃபாக்கா மற்றெல்லா வீரர்களையும் விட உயர்ந்து நின்றார்.
+Among them, South Africa's left -handed bowler Guena Mafaka rose to all other players.
 
-இந்த வருடத்தில் 6 போட்டிகளில் விளையாடிய க்வேனா மஃபாக்கா, மூன்று 5 விக்கெட் குவியல்கள் அடங்கலாக 21 விக்கெட்களைக் கைப்பற்றி 15ஆவது 19 வயதுக்குட்பட்ட  உலகக் கிண்ண  அத்தியாயத்தில் சுற்றுப் போட்டி நாயகன் விருதை வென்றெடுத்தார்.
+Givena Mafaka, who played six matches this year, took 21 wickets including three 5 wickets piles and won the tournament award in the 15th 19th World Cup chapter.
 
-19 வயதுக்குட்பட்ட உலகக் கிண்ண கிரிக்கெட் வரலாற்றில்  2014ஆம் ஆண்டு நடைபெற்ற உலகக் கிண்ணப் போட்டியில் அதிகூடிய 22 விக்கெட்களை வீழ்த்தியவர் பங்களாதேஷின் எனாமுல் ஹக் ஜூனியர் ஆவார்.
+In the history of the Under -19 World Cup, the one who took the highest 22 wickets in the 2014 World Cup in the 2014 World Cup was the Enmul Haq Junior of Bangladesh.
 
-எவ்வாறாயினும் மூன்று 5 விக்கெட் குவியல்களைப் பதிவுசெய்த  முதலாவது வீரர் என்ற சாதனைக்கு 17 வயதான மஃபாக்கா சொந்தக்காரரானார்.
+However, 17 -year -old Mafaka is the first player to record three 5 wickets piles.
+
+In the match against Sri Lanka, he took 6 wickets for 21 runs and recorded his excellent bowling.
+
+Mafaka, who made his debut as a 15 -year -old player in the under -19 World Cup in the Caribbean Islands two years ago, took 7 wickets in 3 matches.
 
 ...
 
 [Data](articles/406d9169.json)
+
+[Extended Data](ext_articles/406d9169.ext.json)
 
 ---
 
@@ -338,21 +368,23 @@ The robbers shooting a shot and the taximan was slightly injured.
 
 ---
 
-### கால்பந்து போட்டியில் மின்னல் தாக்கி வீரர் உயிரிழப்பு !
+### Lightning strikes in football
 
 *2024-02-12 21:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176228) · `ta`
 
-கால்பந்து போட்டியின் போது மின்னல் தாக்கியதில் வீரர் ஒருவர் உயிரிழந்துள்ள பரிதாப சம்பவம் இந்தோனேசியாவில் இடம்பெற்றுள்ளது.
+A tragic incident in Indonesia has taken place in a lightning strike during a football match.
 
-இந்தோனேசியாவில் உள்ள மேற்கு ஜாவாவின் பாண்டுங்கில் உள்ள சிலிவாங்கி மைதானத்திலேயே இந்த துயரச் சம்பவம் பதிவாகியுள்ளது.
+The tragedy has been reported at the Chiliwangi Ground in Bandung, West Java, Indonesia.
 
-கால்பந்துபோட்டி இடம்பெற்றுக்கொண்டிருந்த போது மைதானத்தில் நின்ற 35 வயதான வீரர் மேல் மின்னல் தாக்கியுள்ள நிலையில் குறித்த வீரர் மைதானத்திற்குள் விழுந்ததையடுத்து வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்துள்ளார்.
+The 35 -year -old player standing on the stadium while the football match was hit by a lightning when the player fell into the stadium and died after being admitted to the hospital.
 
-இந்தோனேசியாவில் கடந்த 12 மாதங்களில் மின்னல் தாக்கி உயிரிழந்த இரண்டாவது வீரர் இவர் என்பது குறிப்பிடத்தக்கது.
+He is the second player in Indonesia in the last 12 months.
 
 ◼️
 
 [Data](articles/00a94590.json)
+
+[Extended Data](ext_articles/00a94590.ext.json)
 
 ---
 
@@ -2023,25 +2055,5 @@ Police said he had died when he was recovered by police officers and surrounding
 [Data](articles/ecc12c56.json)
 
 [Extended Data](ext_articles/ecc12c56.ext.json)
-
----
-
-### In the father-son quarrel, the ear, the fingers were sliced
-
-*2024-02-12 13:57:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/தந்தை-மகன்-சண்டையில்-காது-விரல்கள்-துண்டாகின/94-333069) · `ta`
-
-In the fight between the father and the son, one of the father's ears was shattered and two fingers on the son's fingers were sliced.. The incident took place in Pallama, Wilpotha area.
-
-Pallama police say that the father and son's ear was cut off after a feast in Pallama, Wilpotha area, and the father's two fingers were cut off in the father's attack.
-
-It is reported that a 56 -year -old father who returned home after completing a dinner at a house in Wilpotha area was reportedly beaten by his son's stick.
-
-At the same time, the father, who was blindfolded, attacked his son with a knife and his son was cut off when he tried to avoid the attack.
-
-◼️
-
-[Data](articles/5bd9d90f.json)
-
-[Extended Data](ext_articles/5bd9d90f.ext.json)
 
 ---

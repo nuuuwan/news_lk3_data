@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 15:51:40**
+As of **2024-02-12 16:03:37**
 
 ## Newspaper Stats
 
-*Scraped **6,475** Articles*
+*Scraped **6,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ economynextcom | 325
 islandlk | 344
 dailyftlk | 348
 newsfirstlk | 363
-adalk | 544
+adalk | 545
 tamilmirrorlk | 791
 adaderanalk | 793
 virakesarilk | 806
-adaderanasinhalalk | 900
+adaderanasinhalalk | 902
 dailymirrorlk | 948
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,475 (100.0%) of 6,475 articles have been extended.
+6,478 (100.0%) of 6,478 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### Amarakeerthi Athukorala murder event - Supreme Court orders
+
+*2024-02-12 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193290) · `si`
+
+The Supreme Court today ordered the Petition filed by the Attorney General to issue a three-member highlight order to issue a three-member highlighting order to release the decision of the President of Parliament during the struggle.
+
+The order was issued after considering the three-member Supreme Court judge, who is today and today's Supreme Court judge.
+
+◼️
+
+[Data](articles/7a303d63.json)
+
+[Extended Data](ext_articles/7a303d63.ext.json)
+
+---
+
+### Petition against Diana begins the Examination of the Supreme Court
+
+*2024-02-12 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193289) · `si`
+
+A appeal of the Court of Appeal has begun to hear a petition against the verdict that the Court of Appeal has issued a petition to be issued to the ruling of Diyanayake Gamage.
+
+The petition was taken up before the three-member Supreme Court Bench comprising Gamini Amarasekera, Kumuduni Wickramasinghe and Janak de Silva, a member activist.
+
+The following will be postponed to tomorrow (13).
+
+◼️
+
+[Data](articles/fb9f21c7.json)
+
+[Extended Data](ext_articles/fb9f21c7.ext.json)
+
+---
 
 ### Appeals open for Grade 6 admissions
 
@@ -207,6 +241,28 @@ At the same time, the father, who was blindfolded, attacked his son with a knife
 [Data](articles/5bd9d90f.json)
 
 [Extended Data](ext_articles/5bd9d90f.ext.json)
+
+---
+
+### Sergeant killed in shooting
+
+*2024-02-12 13:50:38* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-වැදුණ-සැරයන්-ජීවිතක්ෂයට/11-408028) · `si`
+
+Sriyarantha Ratnaweera has been injured and admitted to the Colombo National Hospital with heavy injuries when he was inspected at the Malwathuhipitiya.
+
+Researcher, a resident of the Mandawala area, is a father father and is 51 years old.
+
+While engaging at night patrol, it was shot from the sergeant's revolnariya during the struggle that a suspect had been arrested.
+
+Steps were arrested by the STF and was arrested by the Special Task Force to be produced before the Headquarters in Gampaha yesterday.
+
+The body of the sergeant was to be brought to the house in the Tamber yesterday on Wednesday, with the funeral at 3 pm on Wednesday.
+
+◼️
+
+[Data](articles/e67a4711.json)
+
+[Extended Data](ext_articles/e67a4711.ext.json)
 
 ---
 
@@ -1967,59 +2023,5 @@ The President has heard about him about his family members and spoke with the pe
 [Data](articles/7abfd6be.json)
 
 [Extended Data](ext_articles/7abfd6be.ext.json)
-
----
-
-### National Chamber holds 65th Annual General Meeting
-
-*2024-02-12 03:19:00* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-holds-65th-Annual-General-Meeting/34-758371) · `en`
-
-From Left: Secretary General/CEO Nilupul Chandrasena, Honorary Secretary Dr. Lakmal Fernando, President Deepal Nelson, Chief Justice of Sri Lanka Hon. Jayantha Jayasuriya PC (Guest of Honour), Central Bank of Sri Lanka Governor Dr. P. Nandalal Weerasinghe (Keynote Speaker), Senior Deputy President Anura Warnakulasooriya, Honorary Treasurer Chamika Godamanna
-
-Guest of Honour and Central Bank of Sri Lanka Governor Dr. P. Nandalal Weerasinghe
-
-The National Chamber of Commerce of Sri Lanka last week concluded its 65th Annual General Meeting (AGM), a pivotal event that brought together Diplomatic missions, Government and Non- government officials, industry leaders, members and other stake holders.
-
-It was a momentous occasion with highlights and engagements of the National Chamber in the year 2023 and the future outlook outlining the strategic direction for uplifting the MSME sector in the nation.
-
-...
-
-[Data](articles/e32345e0.json)
-
-[Extended Data](ext_articles/e32345e0.ext.json)
-
----
-
-### Thought Leadership Forum on electricity sector reforms on 15 Feb.
-
-*2024-02-12 03:14:03* · [`dailyftlk`](https://www.ft.lk/business/Thought-Leadership-Forum-on-electricity-sector-reforms-on-15-Feb/34-758370) · `en`
-
-The Thought Leadership Forum, an independent, apolitical, awareness enhancement initiative, founded by Chartered Accountant Ranel Wijesinha, will conduct an interactive dialogue on electricity sector reforms, at the CA Sri Lanka Auditorium at 30 A, Malalasekera Mawatha, Colombo 7 from 4:30 p.m. to 7:30 p.m. on Thursday 15 February.
-
-“The sessions will inter alia address issues arising from the reform intentions, strategies, structures, processes and the legislation, under the Electricity Reform Act of 2002, the current issues and intentions, the reform rationale, and draft legislation of 2023- 22 years on,”
-
-...
-
-[Data](articles/0776137f.json)
-
-[Extended Data](ext_articles/0776137f.ext.json)
-
----
-
-### Apologetic Marxists:  Yanis Varoufakis and Techno-Feudalism
-
-*2024-02-12 03:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Apologetic-Marxists-Yanis-Varoufakis-and-Techno-Feudalism/172-276783) · `en`
-
-In 2015, Yanis Varoufakis was appointed Finance Minister of Greece by socialist Premier, Alexis Tsipras. The Euro debt crisis crippled Greece six months later, giving the once popular Premier the stark choice of a painful IMF bailout or being forced to quit the EU and facing economic and diplomatic isolation.
-
-An academic and Marxist by orientation, Varoufakis vehemently opposed the IMF route, insisting on finding a solution locally. Initially, Premier Tsipras backed him, but opposition was overwhelming and he was forced to back down and opt for IMF.
-
-Varoufakis quit in protest. Unlike in Sri Lanka, he didn’t join the opposition or try to exploit the vacuum for personal gain. A former academic who foresaw the banking crisis of 2008, he began writing provocative and insightful books analyzing how and where the world order went wrong. Today, he is hailed as one of the most radical, daring and innovative thinkers around.
-
-...
-
-[Data](articles/e1900815.json)
-
-[Extended Data](ext_articles/e1900815.ext.json)
 
 ---

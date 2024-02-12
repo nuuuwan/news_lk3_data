@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 15:02:35**
+As of **2024-02-12 15:17:13**
 
 ## Newspaper Stats
 
-*Scraped **6,464** Articles*
+*Scraped **6,470** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,110 @@ economynextcom | 325
 islandlk | 344
 dailyftlk | 348
 newsfirstlk | 363
-adalk | 541
+adalk | 543
 tamilmirrorlk | 788
 adaderanalk | 793
 virakesarilk | 806
-adaderanasinhalalk | 897
-dailymirrorlk | 946
+adaderanasinhalalk | 900
+dailymirrorlk | 947
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,464 (100.0%) of 6,464 articles have been extended.
+6,464 (99.9%) of 6,470 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### මරණ දණ්ඩනය දී තිබූ ඉන්දියානුවන්ට නිදහස
+
+*2024-02-12 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193288) · `si`
+
+මරණ දණ්ඩනය නියම කර සිටි හිටපු ඉන්දීය නාවික නිලධාරීන් 08 දෙනාව නිදහස් කිරීමට කටාර් අධිකරණයක් නියෝග කර තිබේ.
+
+ඉන්දීය විදේශ අමාත්‍යංශය පැවසුවේ නිදහස ලැබූ 7 දෙනෙක් මේ වනවිට ඉන්දියාවට පැමිණ ඇති බවයි.
+
+පසුගිය ජනවාරි මාසයේදී ඔවුන්ට එරෙහිව දී තිබූ දඬුවම බන්ධනාගාර ගත කිරීමක් ලෙස වෙනස් කළේය.
+
+කටාරයේ පිහිටි "Dahra Global"නම් පෞද්ගලික සමාගමක ඔවුන් සේවය කරමින් සිටියේය.
+
+ඔවුන්ව අත්අඩංගුවට ගැනුණේ හෝ අධිකරණයෙන් දඬුවම් දුන්නේ කුමන චෝදනාවකට ද යන්න සම්බන්ධයෙන් කටාරය හෝ ඉන්දියාව කරුණු පැහැදිලි කර නොමැත.
+
+නමුත් මාධ්‍ය වාර්තා සඳහන් කර තිබුණේ ඊශ්‍රායලය වෙනුවෙන් ඔත්තු බැලීමේ චෝදනාව ඔවුන්ට එරෙහිව එල්ලකර තිබූ බවයි.
+
+◼️
+
+[Data](articles/8fcebc27.json)
+
+---
+
+### Health trade unions resort to another strike
+
+*2024-02-12 14:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-trade-unions-resort-to-another-strike/108-276840) · `en`
+
+Colombo, Feb 12 (Daily Mirror) - Trade unions within the health sector have once again declared an island-wide strike following unsuccessful discussion with officials from the Finance Ministry.
+
+Accordingly, the strike is to be held from 6.30 a.m. tomorrow, according to the President of the Federation of Health Professionals Ravi Kumudesh.
+
+The focal point of the strike action is the prolonged and contentious disagreement surrounding the Disturbance, Availability, and Transport (DAT) allowance.
+
+Despite the representatives of the trade unions having a crucial discussion with the Finance Ministry officials today, neither of the parties has reached a consensus
+
+◼️
+
+[Data](articles/47566eae.json)
+
+---
+
+### සෞඛ්‍ය වෘත්තීය සමිති හෙට වැඩ වර්ජනයක
+
+*2024-02-12 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193287) · `si`
+
+සෞඛ්‍ය වෘත්තීය සමිති 72ක් හෙට උදෑසන 6.30 සිට වැඩ වර්ජනයක් ආරම්භ කිරීමට තීරණය කර තිබේ.
+
+මුදල් අමාත්‍යාංශය සමග පැවති සාකච්ඡා අසාර්ථක වීම හෙතුවෙන් මෙම තීරණය ගත් බව එම වෘත්තීය සමිති පවසයි.
+
+◼️
+
+[Data](articles/5aaa974c.json)
+
+---
+
+### ලෝක මැරතන් ශූරයා මෝටර් රථ අනතුරකින් මරුට
+
+*2024-02-12 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193286) · `si`
+
+මැරතන් ලෝක වාර්තාව හිමිකරගෙන සිටි කෙන්යාවේ කෙල්වින් කිප්ටම් මෝටර් රථ අනතුරකින් ජීවිතක්ෂයට පත්වී තිබේ.
+
+ජාත්‍යන්තර මාධ්‍ය වාර්තා සඳහන් කරන්නේ කෙන්යාවේ සිදුවූ අනතුරකින් ඔහු ජීවිතයෙන් සමුගෙන ඇති බවයි.
+
+ඔහුගේ පුහුණුකරු ලෙස කටයුතු කළ රුවන්ඩාවේ Gervais Hakizimana ඊයේ සිදුවූ එම අනතුරින් මියගොස් තිබුණි.
+
+2023 ඔක්තෝබර් මාසයේදී චිකාගෝ මැරතන් තරගය පැය 2යි තත්පර 35කින්  නිම කිරීමට ඔහු සමත් විය.
+
+◼️
+
+[Data](articles/6a5c2e11.json)
+
+---
+
+### උත්සව සමයේ බිත්තර මිල අඩුවෙයිද?
+
+*2024-02-12 14:12:11* · [`adalk`](https://www.ada.lk/breaking_news/උත්සව-සමයේ-බිත්තර-මිල-අඩුවෙයිද-/11-408031) · `si`
+
+ඉදිරි උත්සව සමයේ හිඟයකින් ‌තොරව වෙළඳපලට බිත්තර සපයන බවට සමස්ථ ලංකා කුකුළු මස් හා බිත්තර නිශ්පාදකයනගේ සංගමයේ සභාපති මාතලී ජයසේකර මහතා පවසයි. විවිධ සංගම් හා ජාවාරම් කරුවන් විසින් මාධ්‍යය නිවේදන නිකුත් කරමින් වෙළඳපලේ දේශිය බිත්තර හිඟයක් ඇතිබවට හැගවීමට උත්සාහ කරනබද පවසයි.
+
+වෙළඳපලේ දේශිය බිත්තරයක් මේවනවිට රුපියල් 52/ 53 වැනි මිලකට අලවි උවත් ඇතැම් ජාවාරම් කරුවන් විසින් බිත්තර මිල ඉහලගොස් ඇතැයි ප්‍රකාශ නිකුත් සිටින බවට වැඩිදුරටත් ඒ මහා පවසා සිටියේය.
+
+ඉදිරි උත්සව සමයේදීත් වෙළඳපලට අවශ්‍ය තරම් බිත්තර තොග නිකුත් කිරීම හැකි බවත්, මිල වැඩිවීමක් සිදු නොවන බවද -,අද,- කල විමසීමේදී පවසා සිටියේය.
+
+◼️
+
+[Data](articles/9cb89701.json)
+
+---
 
 ### Man dies in fatal accident in Ratnapura
 
@@ -193,6 +281,20 @@ Due to this disorder, Leach had to leave the first Test on the first Test on Hyd
 [Data](articles/4e1922ea.json)
 
 [Extended Data](ext_articles/4e1922ea.ext.json)
+
+---
+
+### ශිෂ්‍යත්ව ප්‍රතිඵල අනුව පාසල්වලට සිසුන් ඇතුළත් කිරීමට අදාළව අභියාචනා කැඳවයි
+
+*2024-02-12 13:29:42* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-ප්‍රතිඵල-අනුව-පාසල්වලට-සිසුන්-ඇතුළත්-කිරීමට-අදාළව-අභියාචනා-කැඳවයි/11-408026) · `si`
+
+2023 වර්ෂයේ පැවති 5 ශ්‍රේණි ශිෂ්‍යත්ව පරීක්ෂණයේ ප්‍රතිඵල මත සිසුන්ට 2024 වර්ෂයේ 6 ශ්‍රේණියට ඇතුළත් වීම සඳහා අදාළ අභියාචනා 2024. 02. 13 දින සිට 2024. 02. 29 දින දක්වා මාර්ගගත ක්‍රමයට (Online) යොමු කිරීමට දැන් හැකියාව තිබේ.
+
+අධ්‍යාපන අමාත්‍යාංශයේ නිල වෙබ් අඩවිය වන www.moe.gov.lk වෙත පිවිස උපරිම වශයෙන් පාසල් තුනක් සඳහා අභියාචනා ඉදිරිපත් කිරීමේ හැකියාව පවතින අතර http://g6application.moe.gov.lk/#/  දිගුව ඔස්සේ සෘජු ව ම අභියාචනා යොමු කිරීමේ හැකියාව ද පවතී.
+
+◼️
+
+[Data](articles/78784331.json)
 
 ---
 
@@ -1915,117 +2017,5 @@ Wawaswi Rahula Thero added that it is injustice to taxpayers to avoid non taxes.
 [Data](articles/e1aee52d.json)
 
 [Extended Data](ext_articles/e1aee52d.ext.json)
-
----
-
-### China's outrage
-
-*2024-02-12 01:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176146) · `ta`
-
-The Chinese media has also noted that New Delhi's narrow attitudes and visionary vision in dealing with China and its neighbors.
-
-It must be remembered that those in New Delhi, who consider the Indian Ocean as the influence of India, is not a personal property, even if the public area outside the door of one's door is not a personal property. ”Also pointed out.
-
-What China is trying to say to India through this is that the entire Indian Ocean is not belonging to India.
-
-Therefore, the editorial of the Chinese Daily seeks to make New Delhi's editorial to New Delhi that it is not easy to close the doors in the Indian Ocean for Chinese research ships.
-
-◼️
-
-[Data](articles/b8b28cda.json)
-
-[Extended Data](ext_articles/b8b28cda.ext.json)
-
----
-
-### Why did India call Anura?
-
-*2024-02-12 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176145) · `ta`
-
-The Maldives is going to leave India's hand. India will be careful not to evolve in Sri Lanka.
-
-Anurakumara Dissanayake has returned to the US and India within a short break has confirmed that the international community is returning towards him.
-
-The JVP has obtained the verdict of the Supreme Court and the Tamil homeland doctrine.. Just
-
-◼️
-
-[Data](articles/2b619893.json)
-
-[Extended Data](ext_articles/2b619893.ext.json)
-
----
-
-### Change
-
-*2024-02-12 01:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/176143) · `ta`
-
-Another trick was that when Mahinda and Ranil clashed, Ranil Wickremesinghe's victory was prevented by boycotting the election.
-
-These two tricks have been handled by the Tamil side in the past. It is important to note that CV Wigneswaran suddenly depends on Ranil, as the Tamil party is not going to decide what kind of tactic the Tamil party is going to handle in the coming presidential election.
-
-Ranil is the one who can handle all the ways to defeat his enemy. Therefore, there is justification for the question of whether or trying to roll or divide the Tamil votes through Vigneswaran.
-
-◼️
-
-[Data](articles/7a5cb5d5.json)
-
-[Extended Data](ext_articles/7a5cb5d5.ext.json)
-
----
-
-### India does not refer to national resources;Like Mahinda, we cannot buy us for a price - Anuragumara Dissanayake
-
-*2024-02-12 00:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/176142) · `ta`
-
-The world cannot afford to buy us as Mahinda Rajapaksa bought the price.. We do not mention that the country's national resources are cooperating with liberal. "We have changed the world and politics after the time, so that we have changed," said Anuragumara Dissanayake, leader of the National People's Power and Member of Parliament.
-
-He said that the country cannot function as a country, and we must go forward with the cooperation of all parties.
-
-I had visited India on the official call of the Government of India. Sajith Premadasa, Mahinda Rajapaksa and Ranil Wickremesinghe have been confused about the Indian visit and have made several allegations.. We are not confused by the allegations.
-
-At present, those who say that the opposition has nothing to do with us and them will be united when the official announcement of the election will be released.. As well as Maithripala Sirisena and Mahinda Rajapaksa, as in 2019.
-
-...
-
-[Data](articles/51550a5f.json)
-
-[Extended Data](ext_articles/51550a5f.ext.json)
-
----
-
-### Sri Lanka to introduce India’s digital payment system UPI amid tax evasions
-
-*2024-02-12 00:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-introduce-indias-digital-payment-system-upi-amid-tax-evasions-150587/) · `en`
-
-ECONOMYNEXT – Sri Lanka will introduce India’s Unified Payment Interface (UPI), a revolutionary digital payment move to achieve a cashless economy, which may help to tighten loopholes that have allowed for tax evasion in the island nation.
-
-The UPI will help the public to use their smartphone as a virtual debit card.
-
-In other words, people do not need any cash or card to carry out transactions. They can simply use the smartphone as a debit card and send and receive money through it. The UPI is an interface that allows the user to link more than one bank account in one smartphone app and transfer funds without having to share any account number.
-
-Sri Lanka President Ranil Wickremesinghe will witness the launch of Unified Payment Interface (UPI) services in Sri Lanka and Mauritius along with Prime Minister of Mauritius, Pravind Jugnauth and Indian Prime Minister Narendra Modi on Monday 12 via video conferencing, the Indian High Commission in Sri Lanka said.
-
-...
-
-[Data](articles/b1e8b8b5.json)
-
-[Extended Data](ext_articles/b1e8b8b5.ext.json)
-
----
-
-### Sri Lankan rupee is more overvalued now than before the crisis
-
-*2024-02-12 00:35:58* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lankan-rupee-is-more-overvalued-now-than-before-the-crisis/4-758346) · `en`
-
-The value of the rupee will have to be at least partially restored if the country is to avoid stagnation and another currency crisis further down the road
-
-One of the important issues that appears to have gone under the radar since the debt crisis of April 2022 is the overvaluation of the Sri Lankan rupee. This is in spite of the fact that many commentators argued that the overvaluation of the Sri Lankan rupee was an important contributor to the debt crisis (see CBSL, 2023; Athukorale and Wagle, 2023). To the extent that they pay any attention at all to the exchange rate, they argue that the sharp depreciation of the currency following the foreign debt default in April 2022 restored the competitiveness of the currency such that its value is presently “supportive of the country’s trade competitiveness” (CBSL, 2023, p. 194).
-
-...
-
-[Data](articles/f7c747ad.json)
-
-[Extended Data](ext_articles/f7c747ad.ext.json)
 
 ---

@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 19:50:07**
+As of **2024-02-12 20:17:17**
 
 ## Newspaper Stats
 
-*Scraped **6,526** Articles*
+*Scraped **6,540** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 80
 bbccomsinhala | 89
 dbsjeyarajcom | 147
-economynextcom | 325
-islandlk | 346
+economynextcom | 337
+islandlk | 347
 dailyftlk | 348
 newsfirstlk | 363
 adalk | 552
-tamilmirrorlk | 796
+tamilmirrorlk | 797
 adaderanalk | 799
 virakesarilk | 816
 adaderanasinhalalk | 910
@@ -26,45 +26,67 @@ dailymirrorlk | 955
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,520 (99.9%) of 6,526 articles have been extended.
+6,538 (100.0%) of 6,540 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### මීගොඩ ආර්ථිකය වසයි
+### SriLankan flight that suddenly landed in Melbourne
+
+*2024-02-12 19:28:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மெல்பர்னில்-திடீரென-தரையிறக்கப்பட்ட-ஸ்ரீலங்கன்-விமானம்/175-333087) · `ta`
+
+SriLankan Airlines said that the UL 605 flight from Melbourne to Colombo has landed safely at Melbourne Airport due to technical failure.
+
+Currently, the Technical Committee is inspecting the aircraft and taking the necessary action.
+
+SriLankan Airlines has stated that all passengers have been provided with a hotel shelter until the flight departs again.. Remble
+
+◼️
+
+[Data](articles/e575ac71.json)
+
+[Extended Data](ext_articles/e575ac71.ext.json)
+
+---
+
+### Meegoda economy is closed
 
 *2024-02-12 19:16:29* · [`adalk`](https://www.ada.lk/breaking_news/මීගොඩ-ආර්ථිකය-වසයි/11-408037) · `si`
 
-මීගොඩ ආර්ථික මධ්‍යස්ථානයේ අද (12දා) දින අලුයම සිදුවූ සිද්ධිය සම්බන්ධයෙන් නුගේගොඩ කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරයා මීගොඩ ආර්ථික මධ්‍යස්ථානයේ වෙළෙඳ ප්‍රජාව සමඟ සාකච්ඡාවක්  පවත්වා ඇත.
+The Nugegoda Divisional Superintendent of Police in Meegoda has discussed a discussion with the In Meegoda Economic Center this morning.
 
-එහිදී ආර්ථික මධ්‍යස්ථානයේ ආරක්ෂාව කෙරෙහි සෑහිමකට පත්විය නොහැකි බව වෙළෙඳ ප්‍රජා ප්‍රජාව ප්‍රකාශ කිරීම නිසා, මීගොඩ  පොලිස් මුරපොලේ රාජකාරී කටයුතු සඳහා වෙනත් නිලධාරීන් යෙදීමටත්,  මීගොඩ ආර්ථික මධ්‍යස්ථානයේ වෙළෙඳ කටයුතු අද දින සිදු නොකිරීමටත් තීරණය කර තිබේ.
+The Meegoda Economic Center has decided not to do other officials to do other officials today.
 
-එසේම හෙට (13) දින සිට එම වෙළෙඳ කටයුතු පෙර පරිදිම ඉදිරියට කරගෙන යෑමට පොලිස් අධිකාරීවරයා සමග පැවති සාකච්ඡාවේදී එකඟතාවයට පැමිණි බව  මීගොඩ පොලිස් ස්ථානයේ උසස් නිලධාරියෙකු පැවසීය.
+A senior official of the Meegoda Police Station said that the trading was agreed to proceed with the trade as before the trade was taken before tomorrow (13).
 
 ◼️
 
 [Data](articles/f76f45eb.json)
 
+[Extended Data](ext_articles/f76f45eb.ext.json)
+
 ---
 
-### பெண் உத்தியோகத்தரை துஷ்பிரயோகம் செய்த ஆண் உத்தியோகர் கைது
+### A male officer arrested for abusing female officer
 
 *2024-02-12 19:09:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-உத்தியோகத்தரை-துஷ்பிரயோகம்-செய்த-ஆண்-உத்தியோகர்-கைது/175-333086) · `ta`
 
-பிரதேச பெண் கிராம உத்தியோகத்தரை பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்திய குற்றச்சாட்டின் பேரில் கல்பிட்டி பிரதேச செயலகத்தின் சிரேஷ்ட கிராம உத்தியோகத்தர் ஒருவர் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+A senior Grama Niladhari of Kalpitiya Divisional Secretariat has been arrested on charges of sexually abusing a woman village officer.
 
-முதலில் பிரதேச செயலாளரிடம் முறைப்பாடு செய்ததாகவும், ஆனால் அவர் உரிய நடவடிக்கை எடுக்கவில்லை எனவும் பாதிக்கப்பட்ட பெண் பொலிஸாரிடம் தெரிவித்துள்ளார்.
+The victim told the police that she had first lodged a complaint with the Divisional Secretary but that she did not take appropriate action.
 
-தான் தனிமையில் இருந்தபோது, ​​தனக்கு வழங்கப்பட்ட மக்கள்தொகை கணக்கெடுப்பு தொடர்பான பணிகளுக்காக வழங்கப்பட்ட கணினியை எடுத்துச் செல்வற்காக அந்தச் சந்தேக நபர் தன்னை வீட்டுக்கு அழைத்ததாக அவர் கூறினார்.
+When he was alone, he said the suspect had called him home to carry the computer he was given to the census related to him.
 
-சந்தேக நபர் தனது கடமைகளை புறக்கணித்ததாக குற்றம் சாட்டி, தன்னை கையால் பிடித்ததாகவும், இந்த சம்பவத்தினால் ஏற்பட்ட மன வேதனையின் காரணமாகவே பதவியில் இருந்து ராஜினாமா செய்ததாகவும் அவர் மேலும் தெரிவித்தார்.
+He added that the suspect had resigned from his post due to the pain caused by the incident, accusing the suspect of ignoring his duties.
 
-சந்தேக நபரை நீதிமன்றில் ஆஜர்படுத்த உள்ளதாக சிரேஷ்ட பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+A senior police officer said the suspect was to be produced in court.
 
 ◼️
 
 [Data](articles/0d906942.json)
+
+[Extended Data](ext_articles/0d906942.ext.json)
 
 ---
 
@@ -130,6 +152,8 @@ The president called on the SJB and JVP to adapt and change for the sake of the 
 
 [Data](articles/a81fc053.json)
 
+[Extended Data](ext_articles/a81fc053.ext.json)
+
 ---
 
 ### Will Karu Jayasuriya be suitable as an Interim President?
@@ -168,21 +192,23 @@ She said that if the SIMs were released without your knowledge under your Nation
 
 ---
 
-### தினமும் 20 நிமிடமாவது குளிக்குமாறு அறிவுறுத்தல்
+### Instruction to take a bath for 20 minutes daily
 
 *2024-02-12 19:00:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தினமும்-20-நிமிடமாவது-குளிக்குமாறு-அறிவுறுத்தல்/175-333085) · `ta`
 
-அதிகரித்து வரும் வெப்பநிலையை அடுத்து, நீரிழப்பு ஏற்படாமல் இருக்க, தங்கள் குழந்தைகளை தினமும் குறைந்தது இருபது நிமிடங்களாவது குளிக்க வைக்குமாறு பெற்றோர்களுக்கு மருத்துவ நிபுணர்கள் அறிவுறுத்தியுள்ளனர்.
+Parents have advised parents to take a bath for at least twenty minutes daily to prevent dehydration in the wake of the increasing temperature.
 
-டெய்லி மிரருக்குப்  பேட்டியளித்த குழந்தை மருத்துவ நிபுணர் வைத்தியர்.தீபால் பெரேரா, குழந்தைகளிடையே தோல் வியாதிகள் அதிகரித்து வருவதை சுட்டிக்காட்டி நாடு முழுவதும் அதிகரித்து வரும் வெப்ப அளவுகளே இதற்குக் காரணம் என்று எடுத்துரைத்தார்.
+In an interview with the Daily Mirror, a pediatrician, Deepal Perera, pointing out that this is the reason for the rising temperature across the country, pointing out the increase in skin ailments among children.
 
-வைத்தியர் பெரேரா, வெப்பநிலை அதிகரிப்பது தோல் நிலைமைகளை மோசமாக்குவது மட்டுமல்லாமல், குறிப்பாக குழந்தைகளிடையே நீரிழப்புக்கான குறிப்பிடத்தக்க அபாயத்தையும் ஏற்படுத்துகிறது என்று வலியுறுத்தினார்.
+Dr. Perera stressed that increased temperature not only worsens skin conditions, but also a significant risk of dehydration among children.
 
-போதுமான நீரேற்றம் மற்றும் குறைந்தபட்சம் 20 நிமிடங்களுக்கு குளித்தல், எளிய ஆடைகளை அணிதல் மற்றும் இயற்கை பானங்களை ஊக்குவித்தல் உள்ளிட்ட விழிப்புணர்வு மற்றும் தடுப்பு நடவடிக்கைகள், குழந்தைகளின் ஆரோக்கியத்தில் அதிகரிக்கும் வெப்பநிலையின் பாதகமான விளைவுகளுக்கு எதிரான பாதுகாப்புகளாக அடிக்கோடிட்டுக் காட்டப்படுகின்றன.
+Awareness and preventive measures, including adequate hydration and bathing for at least 20 minutes, wearing simple clothes and promoting natural drinks, are underlined as protection against the adverse effects of the temperature that increases in the health of children.
 
 ◼️
 
 [Data](articles/adcc9f3e.json)
+
+[Extended Data](ext_articles/adcc9f3e.ext.json)
 
 ---
 
@@ -203,6 +229,28 @@ However, President Ranil Wickremesinghe has appointed a panel of lawyers headed 
 [Data](articles/be23663b.json)
 
 [Extended Data](ext_articles/be23663b.ext.json)
+
+---
+
+### Two new members appointed to Central Bank governing board
+
+*2024-02-12 18:30:00* · [`economynextcom`](https://economynext.com/two-new-members-appointed-to-central-bank-governing-board-150658/) · `en`
+
+ECONOMYNEXT – The Central Bank of Sri Lanka has appointed two new members to its governing board, which is responsible for the administration and management of the CBSL and determination of general policies.
+
+The GB comprises Governor Dr P Nandalal Weerasinghe, A N Fonseka, Dr Ravi Ratnayake, Anushka S Wijesinha and Vish Govindasamy.
+
+“We hereby announce the appointments of Mr. Rajeev Amarasuriya and Mr. Manil Jayesinghe to the GB,” the Central Bank said in a statement.
+
+The profiles of the newly appointed members, as per the statement, are as follows:
+
+Mr. Rajeev Amarasuriya is the Immediate Past Secretary of the Bar Association of Sri Lanka and has an extensive Appellate Court practice in the areas of Public Law and most branches of Civil Litigation including contractual, commercial, property, taxation, banking and other disciplines of the law.
+
+...
+
+[Data](articles/51f269f3.json)
+
+[Extended Data](ext_articles/51f269f3.ext.json)
 
 ---
 
@@ -292,6 +340,26 @@ SriLankan Airlines states that steps have been taken to provide hotel accommodat
 
 ---
 
+### Sri Lanka chamber Outlook Report sees recovery in 2024
+
+*2024-02-12 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-chamber-outlook-report-sees-recovery-in-2024-150653/) · `en`
+
+ECONOMYNEXT – The Ceylon Chamber of Commerce’s Outlook Report 2024 says that Sri Lanka’s economic growth is poised for a modest recovery in 2024.
+
+This year’s report ‘Striving towards a New Growth Path’ reviews the performance of the domestic, global, and regional economies, offering perspectives on key sectors such as tourism, apparel, IT/BPM, FMCG, tea, banking, and renewable energy.
+
+“There are positive signs of 3 percent growth. The reforms may be difficult, but they will produce results if they are well-directed,” Central Bank Governor Dr Nandalal Weerasinghe said at the launch, adding that “we can expect a surplus in the external sector in 2024 if we manage the fiscal balances and create spillover effects”.
+
+“The current issues can be resolved with the implementation of reforms that will benefit the common people,” Duminda Hulangamuwa, Chairman of The Ceylon Chamber said in a statement.
+
+...
+
+[Data](articles/b2570af0.json)
+
+[Extended Data](ext_articles/b2570af0.ext.json)
+
+---
+
 ### Police officer killed in shooting during arrest attempt posthumously promoted
 
 *2024-02-12 17:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97204/police-officer-killed-in-shooting-during-arrest-attempt-posthumously-promoted) · `en`
@@ -372,6 +440,34 @@ At the same time, the magistrate visited the scene and visited the body after vi
 
 ---
 
+### Sri Lanka rupee closes at 313.45/75 to the US dollar
+
+*2024-02-12 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-313-45-75-to-the-us-dollar-150649/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 313.45/75 to the US dollar Monday, from 313.00/10 on Friday, dealers said.
+
+A bond maturing on 01.02.2026 closed at 10.80/90 percent down from 10.80/95 percent.
+
+A bond maturing on 15.09.2027 closed at 11.65/75 percent from 11.65/80 percent.
+
+A bond maturing on 15.03.2028 closed at 12.00/10 percent from 12.05/20 percent.
+
+A bond maturing on 15.07.2029 closed at 12.35/75 percent from 12.50/80 percent.
+
+A bond maturing on 15.05.2030 closed at 12.15/35 percent down from 12.25/45 percent.
+
+A bond maturing on 15.05.2031 closed at 12.45/85 percent from 12.50/90 percent.
+
+A bond maturing on 01.07.2032 closed at 12.45/85 percent down from 12.50/90 percent. (Colombo/Feb12/2024)
+
+◼️
+
+[Data](articles/8370965e.json)
+
+[Extended Data](ext_articles/8370965e.ext.json)
+
+---
+
 ### Promotion to the deceased police officer
 
 *2024-02-12 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193295) · `si`
@@ -441,6 +537,28 @@ Nishantha's wife Mrs. Samari Priyanka has lodged a complaint with the Criminal I
 [Data](articles/a79c8663.json)
 
 [Extended Data](ext_articles/a79c8663.ext.json)
+
+---
+
+### Sri Lanka stocks close up, turnover remains low
+
+*2024-02-12 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-remains-low-150645/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
+
+The broader All Share Index closed up 16.69 points, or 0.16 percent at 10,584, while the S&P SL20 Index closed up at 3,032 points, up 0.18 percent, or 5.52 points.
+
+Distilleries Company of Sri Lanka Plc saw relatively high volumes (26mn) being traded, and the share closed down at 25.80. Its parent company Melstacorp Plc saw shares close up at 84.50.
+
+After the amalgamation with Singer Industries (Ceylon) Plc and Regnis (Lanka) Plc, Singer (Sri Lanka) Plc announced that it had issued 40,731,422 ordinary voting shares. The share closed up at 12.60.
+
+Seylan Developments Plc offered to repurchase up to a maximum of 14,796,486 ordinary shares at 21.64 rupees a share, on a pro-rata basis of one (01) ordinary share for every ten (10) ordinary shares held. The share closed up at 14.70.
+
+...
+
+[Data](articles/95629d8e.json)
+
+[Extended Data](ext_articles/95629d8e.ext.json)
 
 ---
 
@@ -629,6 +747,28 @@ Kannangara alleged that two individuals, a former Test cricket umpire and a memb
 [Data](articles/9daf7534.json)
 
 [Extended Data](ext_articles/9daf7534.ext.json)
+
+---
+
+### Sri Lanka needs to diversify markets to address food insecurity: US ambassador
+
+*2024-02-12 16:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-to-diversify-markets-to-address-food-insecurity-us-ambassador-150640/) · `en`
+
+ECONOMYNEXT – The US supports addressing Sri Lanka’s food security challenges, US Ambassador to Sri Lanka Julie Chung has told Minister of Commerce, Trade and Food Security Nalin Fernando.
+
+“The ambassador emphasized the importance of enhancing food security in the country. She also stated that to slash the food price increase and to adapt to the inflation, Sri Lanka needs to diversify the market,” a statement by the Ministry said.
+
+The trade ministry focuses mainly on decreasing the cost of production, minimizing post-harvest wastage, and enhancing the quality of production, Fernando said after the meeting on Monday (12) at the trade ministry.
+
+Fernando conceded that the country needs assistance with new technology to improve production, and assistance for SME sector productivity improvement.
+
+In May 2023, the UN’s Food and Agriculture Organization and the World Food Program estimated that 17 percent of the country’s population are in moderate acute food insecurity.
+
+...
+
+[Data](articles/35f4885c.json)
+
+[Extended Data](ext_articles/35f4885c.ext.json)
 
 ---
 
@@ -956,17 +1096,19 @@ The unions said that the decision was failed by the Ministry of Finance with the
 
 ---
 
-### හෙට පැති කිහිපයකට වැසි
+### Showers in several sides tomorrow
 
 *2024-02-12 14:30:44* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-පැති-කිහිපයකට-වැසි/11-408033) · `si`
 
-නැහෙනහිර හා ඌව පළාත්වලත් පොලොන්නරුව, මාතලේ හා නුවරඑළිය දිස්ත්‍රික්කවලත් හෙට දිනයේදී වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Several spells of showers can occur in the Uva and Uva provinces, the Polonnaruwa, Matale and Nuwara Eliya districts tomorrow.
 
-උතුරු පළාතේ හා අනුරාධපුර දිස්ත්‍රික්කයෙත් වැසි ස්වල්පයක් ඇතිවිය හැකි බවත් බස්නාහිර  හා සබරගමුව පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවත් පස්වරු 2න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවීමට හැකි බවද එම දෙපාර්තමේන්තුව දන්වා සිටියි.
+The Department has informed that there will be showers in the Western and Sabaragamuwa and Matara districts after two pm in the Western and Sabaragamuwa and Matara districts.
 
 ◼️
 
 [Data](articles/881288f6.json)
+
+[Extended Data](ext_articles/881288f6.ext.json)
 
 ---
 
@@ -989,6 +1131,24 @@ The Commissioner General of Prisons Thushara Upuladeniya states:
 [Data](articles/57572a95.json)
 
 [Extended Data](ext_articles/57572a95.ext.json)
+
+---
+
+### Sri Lanka interim mechanism discusses reconciliation bill
+
+*2024-02-12 14:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-interim-mechanism-discusses-reconciliation-bill-150632/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Interim Secretariat for Truth and Reconciliation Mechanism (ISTRM), recently held a forum to discuss the draft bill for a Commission for Truth, Unity, and Reconciliation (CTUR), amidst Human Rights Watch criticism.
+
+“The primary objective of the forum was to discuss various aspects of the draft bill for a Commission for Truth, Unity, and Reconciliation (CTUR), which will play a pivotal role in addressing grievances of persons affected by the conflict in the North and East, promote reconciliation and non-recurrence,” a statement by the President’s media division said.
+
+The statement added that, “participants expressed views on the handling of sensitive information related to national security, collaboration with National Archives for systematic records management and the involvement of the Tamil diaspora in the transitional justice process.”
+
+...
+
+[Data](articles/210c3bf8.json)
+
+[Extended Data](ext_articles/210c3bf8.ext.json)
 
 ---
 
@@ -1047,6 +1207,26 @@ According to the following, the market could issue enough egg consignments durin
 [Data](articles/9cb89701.json)
 
 [Extended Data](ext_articles/9cb89701.ext.json)
+
+---
+
+### Wickremesinghe looking to abolish Sri Lanka’s executive presidency: Sirisena
+
+*2024-02-12 14:11:00* · [`economynextcom`](https://economynext.com/wickremesinghe-looking-to-abolish-sri-lankas-executive-presidency-sirisena-150631/) · `en`
+
+ECONOMYNEXT — President Ranil Wickremesinghe has tasked a group of lawyers with looking into abolishing the executive presidency and it is unclear whether a referendum or parliamentary poll will come first, former President Maithripala Sirisena said.
+
+Speaking at an event in Wennappuwa on Sunday February 11, Sirisena said the group of lawyers is led by former Speaker of Parliament Karu Jayasuriya.
+
+“President Wickremesinghe is speedily working towards constitutional reform,” said Sirisena.
+
+“We can’t tell if a referendum or a parliamentary election  will come. This is a question that not just you and I might have. Maybe Wickremesinghe himself has it too, the question of what to do,” he said.
+
+...
+
+[Data](articles/e42bf40e.json)
+
+[Extended Data](ext_articles/e42bf40e.ext.json)
 
 ---
 
@@ -1350,6 +1530,24 @@ According to foreign media reports, it is the reason for the underground of the 
 
 ---
 
+### India visit doesn’t mean change of stance on Sri Lanka Telecom, Amul: AKD
+
+*2024-02-12 13:08:00* · [`economynextcom`](https://economynext.com/india-visit-doesnt-mean-change-of-stance-on-sri-lanka-telecom-amul-akd-150623/) · `en`
+
+ECONOMYNEXT — The National People’s Power (NPP) cannot be bought by any foreign power or corporation and their recent visit to India does not mean the leftist alliance now supports an investment by India’s Amul or the divestment of Sri Lanka Telecom, according to NPP leader Anura Kumara Dissanayake.
+
+Speaking at a women’s rally held in Anuradhapura on Sunday February 11, Dissanayake was emphatic that the NPP’s policies have not changed following his widely publicised visit to India on the invitation of the Indian government.
+
+News of Dissanayake meeting India’s Foreign Minister S Jaishankar and representatives of Tata and the Gujarat Cooperative Milk Marketing Federation of India (Amul) made headlines in Colombo.
+
+...
+
+[Data](articles/3d6316bf.json)
+
+[Extended Data](ext_articles/3d6316bf.ext.json)
+
+---
+
 ### UPI money exchange methodology launches
 
 *2024-02-12 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193280) · `si`
@@ -1363,6 +1561,24 @@ President Ranil Wickremesinghe and Indian Prime Minister Narendra Modi are invol
 [Data](articles/5f981053.json)
 
 [Extended Data](ext_articles/5f981053.ext.json)
+
+---
+
+### Sri Lanka extends deadline for SriLankan Airlines bids
+
+*2024-02-12 12:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-extends-deadline-for-srilankan-airlines-bids-150628/) · `en`
+
+ECONOMYNEXT – The deadline to submit Requests for Qualification for SriLankan Airlines has been extended further.
+
+“The Prequalification Application Submission Deadline is amended to March 5, 2024,” a statement by the State Owned Enterprises Restructuring Unit said.
+
+The SRU will issue requests for proposal documents to qualified investors who express interest. (Colombo/Feb12/2024)
+
+◼️
+
+[Data](articles/72fd86cb.json)
+
+[Extended Data](ext_articles/72fd86cb.ext.json)
 
 ---
 
@@ -1423,6 +1639,66 @@ The official website of the Ministry of Education is the ability to make appeals
 [Data](articles/8f119023.json)
 
 [Extended Data](ext_articles/8f119023.ext.json)
+
+---
+
+### Sri Lanka Police deny arrest under online safety law
+
+*2024-02-12 12:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-deny-arrest-under-online-safety-law-150624/) · `en`
+
+ECONOMYNEXT – Sri Lanka has not arrested anyone under the recently passed online safety law, Police spokesman DIG Nihal Thalduwa said, despite the minister in charge claiming that one person was arrested for defamation.
+
+“No one has been arrested under the online safety act. We haven’t even appointed a commission yet,” Thalduwa told EconomyNext.
+
+Media reports of an arrest followed a speech made by Minister of Public Security Tiran Alles, who alleged that an individual was arrested by the CID under the new law.
+
+Alles claimed that the individual had given a statement after the arrest that he had received money from a politician and was paid in dollars.
+
+However, Thalduwa maintained that no one had been arrested by the CID.
+
+...
+
+[Data](articles/793440fe.json)
+
+[Extended Data](ext_articles/793440fe.ext.json)
+
+---
+
+### SJB govt will remove 18 pct VAT on fertiliser, other agriculture inputs: SJB
+
+*2024-02-12 12:36:00* · [`economynextcom`](https://economynext.com/sjb-govt-will-remove-18-pct-vat-on-fertiliser-other-agriculture-inputs-sjb-150607/) · `en`
+
+ECONOMYNEXT — A future government led by Sri Lanka’s incumbent main opposition the Samagi Jana Balawegaya (SJB) will remove an existing 18 percent value added tax (VAT) on fertiliser and other agriculture inputs, SJB leader Sajith Premadasa said.
+
+Speaking at a paddy farmers’ summit held in Galgamuwa, Kurunegala, on Sunday February 11, Premadasa said an SJB government will establish a ‘national agriculture policy’ to protect farmers across the island.
+
+He also claimed that intermediaries earn huge profits, leading to massive differences between the price of rice sold in the market and the price fetched by farmers for the paddy they sell.
+
+“For a kilo of Nadu paddy, the farmer gets 92 rupees, but in the market, a price of 1 kilo of Nadu rice is 220 rupees. Samba paddy will get you 106 rupees, while Samba rice is sold for 260. Keeri samba paddy  fetches 137.50 rupees, while keeri samba rice goes for 370,” said Premadasa.
+
+...
+
+[Data](articles/ac6fd5e5.json)
+
+[Extended Data](ext_articles/ac6fd5e5.ext.json)
+
+---
+
+### Iran keen to share technology and science knowledge with Sri Lanka: Ambassador
+
+*2024-02-12 12:26:00* · [`economynextcom`](https://economynext.com/iran-keen-to-share-technology-and-science-knowledge-with-sri-lanka-ambassador-150609/) · `en`
+
+ECONOMYNEXT – Iran’s ambassador to Sri Lanka Alireza Delkhosh has said that Iran hopes to share technology and science knowledge with Sri Lanka.
+
+“Iran has achieved great progress in terms of technology and science and hopes to share that technology and science knowledge with Sri Lanka,” Delkosh said at the ceremony held in Colombo to mark the 45th National Independence Day of Iran.
+
+“Iran’s foreign policy focuses on two main areas: economic cooperation between States, and strengthening regional security,” Delkosh was quoted as saying at the event, according to a statement by the Department of Government Information.
+
+Chief guest at the ceremony, Minister Pavithra Wanniarachchi thanked Iran for its support in the ‘Uma oya multipurpose development project’, and the financial and technical support provided by the Iranian government.
+
+...
+
+[Data](articles/a06418c7.json)
 
 ---
 
@@ -1713,255 +1989,5 @@ The incident took place on January 22 in Beliyatta. In the incident, five people
 [Data](articles/c10970c6.json)
 
 [Extended Data](ext_articles/c10970c6.ext.json)
-
----
-
-### Maithri flew through India
-
-*2024-02-12 11:37:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-ஊடாக-அமெரிக்க-பறந்தார்-மைத்திரி/175-333060) · `ta`
-
-Former President Maithripala Sirisena has confirmed that the US traveled to the United States through India.
-
-He will travel to New Delhi, India on Monday (12) at 02.50 am, on the AI-284 flight of Indian Airlines, and from another flight to New York.
-
-Sri Lanka Freedom Party (SLFP) Media Director Prabhat Mataragay said that Maithripala Sirisena had taken two more officers from the same party to the US and that they would hold many Sri Lanka Freedom Party (SLFP) general meetings.
-
-◼️
-
-[Data](articles/e2efd589.json)
-
-[Extended Data](ext_articles/e2efd589.ext.json)
-
----
-
-### Biden welcomes King of Jordan as framework for hostage deal is decided in Israel-Hamas conflict
-
-*2024-02-12 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97196/biden-welcomes-king-of-jordan-as-framework-for-hostage-deal-is-decided-in-israel-hamas-conflict) · `en`
-
-President Joe Biden is hosting Jordan’s King Abdullah II in Washington Monday and the two leaders are expected to discuss the ongoing effort to free hostages held in Gaza, and growing concern over a possible Israeli military operation in the port city of Rafah.
-
-It is the first meeting between the allies since three American troops were killed last month in a drone strike against a U.S. base in Jordan. Biden blamed Iran-backed militias for the fatalities, the first for the U.S. after months of strikes by such groups against American forces across the Middle East since the start of the Israel-Hamas war.
-
-The meeting with King Abdullah II comes as Biden and his aides are working to broker another pause in Israel’s war against Hamas in order to send humanitarian aid and supplies into the region and get hostages out. The White House faces growing criticism from Arab-Americans over the administration’s continued support for Israel in the face of growing casualties in Gaza.
-
-...
-
-[Data](articles/0219cdb1.json)
-
-[Extended Data](ext_articles/0219cdb1.ext.json)
-
----
-
-### Police Sergeant dies after being shot at during arrest attempt
-
-*2024-02-12 11:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-Sergeant-dies-after-being-shot-at-during-arrest-attempt/108-276834) · `en`
-
-Gampaha, Feb 12 (Daily Mirror) - A Police Sergeant who was injured during an attempt to arrest a suspect, died from his injuries this morning at the National Hospital in Colombo.
-
-Police said a group of officers from the Malwatuhiripitaya police station encountered resistance from a suspect they were attempting to arrest on Saturday. During the altercation, the suspect attempted to grab a police officer's firearm, resulting in the officer being injured when the weapon discharged. The suspect then fled the scene with the officer's weapon.
-
-Following initial treatment at the Gampaha Hospital, the injured police sergeant, a 51-year-old resident of Lunugama, was transferred to the National Hospital, Colombo where he succumbed to his injuries.
-
-Police said the primary suspect involved in the incident was arrested by the Police Special Task Force (STF) while hiding in a residence in Bingiriya.
-
-...
-
-[Data](articles/a054929c.json)
-
-[Extended Data](ext_articles/a054929c.ext.json)
-
----
-
-### Dermatography also increases
-
-*2024-02-12 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193277) · `si`
-
-Due to the high dry weather conditions these days, Dr. Deepal Praylera says that there is a spread of dermark.
-
-The doctor said that Derana participated in Derana, the doctor said that this situation had a profound effect on the situation.
-
-The doctor states that although patient is sympathy, should be given the opportunity to boast.
-
-Dr. Deepal Perera said that if the opportunity should be given twice a day and had a dermode of dermatorically and in the morning, the situation could be controlled.
-
-If the children are conducting a domestic place, the domestic place should be carried out and not to drink water and liquid, he added.
-
-◼️
-
-[Data](articles/e6bd5e5f.json)
-
-[Extended Data](ext_articles/e6bd5e5f.ext.json)
-
----
-
-### Government expenditure was not successful ...
-
-*2024-02-12 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193276) · `si`
-
-The government expenditure has risen from nearly Rs. 1,300 billion last year.
-
-Accordingly, he points out that the government has not succeeded in the last year.
-
-"During the year 2023, the government mainly intended to increase government income as well as control the cost. 2023 Expensive data presented in the first 11 months of the 11 months of the 11 months. Government tax revenues increased in nearly 900 rupees but the cost was increased by nearly 1,300 billion rupees. In addition to 2022, an increase of about Rs. 1,500 billion. In this increase, we see the cost of government over the month, nearly Rs. 125 billion. The government's expenditure was increased by nearly 4 billion rupees a day. "
-
-◼️
-
-[Data](articles/ba62f298.json)
-
-[Extended Data](ext_articles/ba62f298.ext.json)
-
----
-
-### Footballer dies after being hit by lightning during a match in Indonesia
-
-*2024-02-12 11:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Footballer-dies-after-being-hit-by-lightning-during-a-match-in-Indonesia/108-276833) · `en`
-
-Feb. 12 (freepressjournal) - In a shocking and tragic incident took place during a football match in Indonesia on Sunday, January 11, footballer was tragically hit by lightning while playing the match and seemed to have died on the spot.
-
-In a video that has gone viral on social, footballer can be seen casually walking on the field, waiting for the ball to pass to him until out of nowhere, lightning struck at him and the player collapsed on the field. Other players on the field were in absolute state of shock.
-
-As per the local media report, the player was immediately taken to the hospital as he didn't survive as he was brought dead. However, the tragic death of the footballer due to lighting has left his teammates shocking and mourning.
-
-◼️
-
-[Data](articles/633bf557.json)
-
-[Extended Data](ext_articles/633bf557.ext.json)
-
----
-
-### 400 vehicles fraudulent registration
-
-*2024-02-12 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176170) · `ta`
-
-The Bribery, Corruption and Fraud Investigation Commission has filed a case against seven persons, including five members of the Motor Transport Department.
-
-The lawsuit has been filed against them in connection with the loss of a large number of cars illegally imported by the Customs Department of Sri Lanka.
-
-The Bribery Corruption Investigation Commission has issued a report that 400 illegal imported vehicles have been fraudulently registered.
-
-It is noteworthy that officials of the Bribery Commission have released specific information regarding 156 vehicles.
-
-◼️
-
-[Data](articles/62962d59.json)
-
-[Extended Data](ext_articles/62962d59.ext.json)
-
----
-
-### Another shot of this morning. Woman at hospital
-
-*2024-02-12 11:11:19* · [`adalk`](https://www.ada.lk/breaking_news/අද-උදෑසන-තවත්-වෙඩිතැබීමක්--වෙඩි-වැදුනු-කාන්තාව-රෝහලේ/11-408023) · `si`
-
-Today, the Meegoda Economic Center has shot. According to the Meegoda Police and the SLAF Police checkpoint, this has happened in the potato onion market.
-
-Two people were shot at a motorcycle while traveling in a motorcycle while they were taking place in a motorcycle, and around 22 years old. The woman was injured in shooting was hospitalized.
-
-◼️
-
-[Data](articles/a1a82000.json)
-
-[Extended Data](ext_articles/a1a82000.ext.json)
-
----
-
-### 8,000 cardiovascular patients on the waiting list for treatment
-
-*2024-02-12 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176169) · `ta`
-
-The Co -Organizer of the Health Trade Union Federation, Sanaka Dharmavikrama, said that 8,000 cardiovascular patients are on the list for the treatment of a cardiovascular treatment unit at the National Hospital in Kandy.
-
-There are two such sections at the National Hospital in Kandy. Patients are in great difficulty as a section of it is not in service.
-
-He said that many hospitals across the country do not have a large number of machines for the diagnosis.
-
-Deputy Director of Health, Dr. G. Wijesuriya, has been repaired in this regard.. He said the remaining machines are currently being repaired.
-
-◼️
-
-[Data](articles/77377bf6.json)
-
-[Extended Data](ext_articles/77377bf6.ext.json)
-
----
-
-### The farmer to launched a motorcycle collision with motorcycle
-
-*2024-02-12 11:02:20* · [`adalk`](https://www.ada.lk/breaking_news/පාරේ-වී-වේලමින්-සිටි-ගොවියා-යතුරුපැදියේ-ගැටී-මරුට/11-408022) · `si`
-
-A farmer who was launched in a trace of accident in the Markkari area on the road to Kodikamam Point Pastuduwa in Jaffna.
-
-It was revealed that the accident had occurred when the paddy in the Makkariii was placed under the main road in the Makkarii to increase the paddy harvest.
-
-The farmer who was laid from Palai to Pedurathuraga has been hit and the farmer who was in serious condition was admitted to the Point Pedro Hospital.
-
-Due to the misty of the morning, the motorcyclist was deposited and the post motorcycle would be handed over to relatives to the relatives.
-
-The Point Pedro police were arrested by the Point Pedro police, who was in the accident and was a 46-year-old farmer from the Makkarii area.
-
-◼️
-
-[Data](articles/840a2cd7.json)
-
-[Extended Data](ext_articles/840a2cd7.ext.json)
-
----
-
-### Operation ‘Yukthiya’: 625 more suspects arrested
-
-*2024-02-12 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97195/operation-yukthiya-625-more-suspects-arrested-) · `en`
-
-Another 625 suspects have been arrested by Sri Lanka’s police and security forces personnel within 24 hours which ended at 12.30 a.m. today (12 Feb.), as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-According to the Ministry of Public Security, 545 of the 625 suspects had been arrested over drug-related charges, while the other 80 suspects have been identified as wanted criminal listed in various police crime divisions.
-
-Among the relevant 80 arrestees are 3 suspects who had open warrants against them over narcotics-related charges and 74 others who had open warrants against them over non-drug related charges.
-
-The narcotics taken into custody during this period include 160g of heroin, 152g of crystal methamphetamine (Ice), 10kg 745g of cannabis and 683 narcotic pills.
-
-◼️
-
-[Data](articles/77434c5c.json)
-
-[Extended Data](ext_articles/77434c5c.ext.json)
-
----
-
-### Israeli claimed that more than 40 killed in Israeli air strike in Rafa
-
-*2024-02-12 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176167) · `ta`
-
-Two hostages have been rescued during a rafa operation, while Israel said that more than 40 people were killed in the Israeli attack on the city, Gaza's health officials said.
-
-Gaza's health officials have informed Royter that the bodies of 20 Palestinians who died of Israel's air strike are in Kuwaiti Hospital.
-
-The two -year -old Hamas has been caught by Hamas during a special operation in Rafa, south of Gaza, said Israel has been admitted to Israel's hospital in Israel.
-
-◼️
-
-[Data](articles/ae2e4f07.json)
-
-[Extended Data](ext_articles/ae2e4f07.ext.json)
-
----
-
-### Trouble in several villages with acute toxic antio
-
-*2024-02-12 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193275) · `si`
-
-It is reported that villagers have been suffering at several villages including the Kandadagana, Kandalappana, Uva Paranagama, Uva Paranagama, Uva Paranagama.
-
-The villagers point out that the grandmats of this ant even falls.
-
-These ants, known as Kodya, is recorded in herd of plants such as peppers, coconut and pups.
-
-Villagers urge the authorities to take necessary steps before this ant to grow into an epidemic.
-
-◼️
-
-[Data](articles/f57d1348.json)
-
-[Extended Data](ext_articles/f57d1348.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 11:51:58**
+As of **2024-02-12 12:02:32**
 
 ## Newspaper Stats
 
-*Scraped **6,422** Articles*
+*Scraped **6,424** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ adalk | 537
 tamilmirrorlk | 781
 adaderanalk | 788
 virakesarilk | 799
-adaderanasinhalalk | 887
+adaderanasinhalalk | 889
 dailymirrorlk | 940
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,422 (100.0%) of 6,422 articles have been extended.
+6,424 (100.0%) of 6,424 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### Dermatography also increases
+
+*2024-02-12 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193277) · `si`
+
+Due to the high dry weather conditions these days, Dr. Deepal Praylera says that there is a spread of dermark.
+
+The doctor said that Derana participated in Derana, the doctor said that this situation had a profound effect on the situation.
+
+The doctor states that although patient is sympathy, should be given the opportunity to boast.
+
+Dr. Deepal Perera said that if the opportunity should be given twice a day and had a dermode of dermatorically and in the morning, the situation could be controlled.
+
+If the children are conducting a domestic place, the domestic place should be carried out and not to drink water and liquid, he added.
+
+◼️
+
+[Data](articles/e6bd5e5f.json)
+
+[Extended Data](ext_articles/e6bd5e5f.ext.json)
+
+---
+
+### Government expenditure was not successful ...
+
+*2024-02-12 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193276) · `si`
+
+The government expenditure has risen from nearly Rs. 1,300 billion last year.
+
+Accordingly, he points out that the government has not succeeded in the last year.
+
+"During the year 2023, the government mainly intended to increase government income as well as control the cost. 2023 Expensive data presented in the first 11 months of the 11 months of the 11 months. Government tax revenues increased in nearly 900 rupees but the cost was increased by nearly 1,300 billion rupees. In addition to 2022, an increase of about Rs. 1,500 billion. In this increase, we see the cost of government over the month, nearly Rs. 125 billion. The government's expenditure was increased by nearly 4 billion rupees a day. "
+
+◼️
+
+[Data](articles/ba62f298.json)
+
+[Extended Data](ext_articles/ba62f298.ext.json)
+
+---
 
 ### Israeli claimed that more than 40 killed in Israeli air strike in Rafa
 
@@ -2035,37 +2075,5 @@ The organization cautioned that individuals with respiratory ailments, such as a
 [Data](articles/1a67bceb.json)
 
 [Extended Data](ext_articles/1a67bceb.ext.json)
-
----
-
-### Fire that spread by train: incident at Gampaha Railway Station
-
-*2024-02-11 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176131) · `ta`
-
-It is reported that the fire occurred on the oil train that had been parked there.
-
-◼️
-
-[Data](articles/59f6688c.json)
-
-[Extended Data](ext_articles/59f6688c.ext.json)
-
----
-
-### If people do not choose the right person in the presidential election, it will not be able to dream about the future of the country -UNP leader Ruwan Wijewardena
-
-*2024-02-11 19:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/176132) · `ta`
-
-"We will not be able to dream about the future of the country if the people do not make the right decision in the presidential election in October," said Ruwan Wijewardena, Deputy Leader of the United National Party.
-
-The United National Party (UNP) Gampaha District Federation was held at the Yakkala Pradeshiya Sabha auditorium on Sunday. He said this while addressing the gathering.
-
-We're in the decisive place today. We see this year as the election year. At October, we will face the presidential election.Thereafter, the general election will be faced. Subsequently, the provincial and local elections will be facing. So the party must be prepared for it from the present. The future of the country will be determined by the people's decision. So the people have the decision to take the country in the direction.
-
-...
-
-[Data](articles/b15414ef.json)
-
-[Extended Data](ext_articles/b15414ef.ext.json)
 
 ---

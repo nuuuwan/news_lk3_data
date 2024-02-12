@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 19:02:44**
+As of **2024-02-12 19:17:36**
 
 ## Newspaper Stats
 
-*Scraped **6,515** Articles*
+*Scraped **6,519** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ economynextcom | 325
 islandlk | 344
 dailyftlk | 348
 newsfirstlk | 363
-adalk | 548
-tamilmirrorlk | 793
+adalk | 550
+tamilmirrorlk | 794
 adaderanalk | 799
-virakesarilk | 815
+virakesarilk | 816
 adaderanasinhalalk | 909
 dailymirrorlk | 955
 
@@ -26,11 +26,27 @@ dailymirrorlk | 955
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,515 (100.0%) of 6,515 articles have been extended.
+6,515 (99.9%) of 6,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### ஜனாதிபதி பதவியை இரத்துச் செய்ய ஜனாதிபதி நடவடிக்கை - முன்னாள் ஜனாதிபதி மைத்திரி
+
+*2024-02-12 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176224) · `ta`
+
+அரசியலமைப்பில் திருத்தம் மேற்கொண்டு ஜனாதிபதி பதவியை இல்லாமல் செய்வதற்கு  நடவடிக்கை எடுக்கப்பட்டு வருகிறது. ஜனாதிபதி ரணில் விக்ரமசிங்க அதற்காக கருஜயசூரிய தலைமையில் குழுவொன்றையும் அமைத்துள்ளார் என சிறிலங்கா சுதந்திர கட்சியின் தலைவரும் முன்னாள் ஜனாதிபதியுமான மைத்திரிபால சிறிசேன தெரிவித்தார்.
+
+இந்த வருட இறுதியில் ஜனாதிபதி தேர்தல் இடம்பெறும் என அரசாங்கம் அறிவித்துள்ள நிலையில், ஜனாதிபதி தேர்தலை நடத்தாமல் விடுவதற்கு அரசாங்கம் நடவடிக்கை எடுத்து வருவது தொடர்பாகக் குறிப்பிடுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+நாட்டில் ஜனாதிபதி தேர்தல் இந்த வருடம் ஒக்டோபர் மாதம் இடம்பெறும் என ஜனாதிபதி மற்றும் அரச தரப்பினர் ஆரம்பத்திலிருந்து தெரிவித்து வருகின்றனர்.  தற்போது ஜனாதிபதி தேர்தல் தொடர்பாகக் கட்சிகளுக்கிடையில் கலந்துரையாடல்கள் இடம்பெற்று வருகின்றன. அதேபோன்று கூட்டணி அமைத்துக்கொண்டு ஜனாதிபதி தேர்தலில் பொது வேட்பாளர் ஒருவரைக் களமிறக்குவது தொடர்பாகவும் கட்சிகளுக்கிடையில் பேசப்பட்டு வருகின்றன.
+
+...
+
+[Data](articles/be23663b.json)
+
+---
 
 ### SJB divided on constitutional reforms
 
@@ -79,6 +95,20 @@ SriLankan Airlines Statement on Flight UL 605 by Adaderana Online on Scribd
 [Data](articles/c149a1df.json)
 
 [Extended Data](ext_articles/c149a1df.ext.json)
+
+---
+
+### புலமைபரிசில் பரீட்சையில் சித்தியடைந்த மாணவர்களுக்கான அறிவிப்பு
+
+*2024-02-12 18:08:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைபரிசில்-பரீட்சையில்-சித்தியடைந்த-மாணவர்களுக்கான-அறிவிப்பு/175-333084) · `ta`
+
+2023 ஆம் ஆண்டிற்கான தரம் 5 புலமைப்பரிசில் மேல்முறையீட்டு விண்ணப்பங்களை தற்போது இணையவழி ஊடாக சமர்ப்பிக்க முடியும் என்று கல்வி அமைச்சு தெரிவித்துள்ளது.
+
+இதன்படி, 2023 ஆம் ஆண்டு நடைபெற்ற தரம் 5 புலமைப்பரிசில் பரீட்சையின் பெறுபேறுகளின் அடிப்படையில்,   2024 ஆம் ஆண்டு தரம் 6க்கான மாணவர் அனுமதிக்கான விண்ணப்பங்களை இணையவழி மூலம் 13.02.2024 முதல் 29.02.2024 வரை சமர்ப்பிக்க முடியும். R
+
+◼️
+
+[Data](articles/49d6a525.json)
 
 ---
 
@@ -766,6 +796,22 @@ The unions said that the decision was failed by the Ministry of Finance with the
 
 ---
 
+### බන්ධනාගාර තුළ කර්මාන්ත ස්ථාපිත කිරීමට යයි
+
+*2024-02-12 14:22:59* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාර-තුළ-කර්මාන්ත-ස්ථාපිත-කිරීමට-යයි/11-408032) · `si`
+
+බන්ධනාගාරගත රැදවියන් බන්ධනාගාරයෙන් නිදහස් වු පසු ඔවුන් සමාජයට වඩාත් ඵලදායී පුද්ගලයින් බවට පත් කිරීම අරමුණු කරමින් සියලු බන්ධනාගාර තුළ කර්මාන්ත ස්ථාපිත කිරීම සදහා බන්ධනාගාර දෙපාර්තමේන්තුව සහ කාර්මික සංවර්ධන මණ්ඩලය අතර අවබෝධතා ගිවිසුමක් අත්සන් කිරීම අද (12) පෙරවරුවේ අධිකරණ අමාත්‍යාංශයේදී සිදු විය.
+
+අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ජනාධිපති නීතිඥ, ආචාර්ය විජයදාස රාජපක්ෂ මහතා ඉදිරිපිටදී බන්ධනාගාර කොමසාරිස් ජනරාල් තුෂාර උපුල්දෙණිය මහතා සහ කාර්මික සංවර්ධන මණ්ඩලයේ සභාපති සාරංග අලහප්පෙරුම යන මහත්වරුන් අදාළ ගිවිසුමට අත්සන් කරන ලදී.
+
+අවබෝධතා ගිවිසුම තුළින් සියලු බන්ධාගාර තුළ කර්මාන්ත ස්ථාපිත කිරීමට මෙරට ව්‍යවසායකයින්ට, කර්මාන්තකරුවන්ට වැඩි අවස්ථාවක් හිමි වන අතර, කර්මාන්ත තුළ පුහුණුව ලබන රැදවියන් සදහා කාර්මික සංවර්ධන මණ්ඩලය හා බන්ධනාගාර දෙපාර්තමේන්තුව සහතික පත්‍ර පිරිනමනු ලබයි.
+
+...
+
+[Data](articles/57572a95.json)
+
+---
+
 ### World Marathon Champion dies in a car accident
 
 *2024-02-12 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193286) · `si`
@@ -849,6 +895,24 @@ He is a resident of Opanayaka Hunuala, Opanayakawa area and the suspect is due t
 [Data](articles/c5c7b41a.json)
 
 [Extended Data](ext_articles/c5c7b41a.ext.json)
+
+---
+
+### රාජකාරියට ගිය කොස්තාපල් මුහුදේ ගිලී ජිවිතකෂයට
+
+*2024-02-12 14:02:40* · [`adalk`](https://www.ada.lk/breaking_news/රාජකාරියට-ගිය-කොස්තාපල්-මුහුදේ-ගිලී-ජිවිතකෂයට/11-408030) · `si`
+
+ග්‍රැන්ඩ්පාස්  පොලිසියේ  අපරාධ විමර්ශන අංශයේ ස්ථානාධිපතිවරයා ඇතුළු පොලිස් කණ්ඩායමක් රාජකාරී කටයුත්තක් සඳහා  යන බවට පවසා  පමුණුගම ප්‍රදේශයට ගොස්  පමුණුගම තල්දියවත්ත ප්‍රදේශයේ  දිය නාමින් සිටි සිටියදි  කොස්තාපල්වරයකු   දියේ ගිලී මිය ගොස් ඇතැයි පමුණුගම පොලිසිය පවසයි.
+
+සිද්ධියෙන් මියගොස් ඇත්තේ  එච් එස් හෙට්ටිආරච්චි  (24) නමැති ආධුනික පොලිස් කොස්තාපල්වරයෙකු වන අතර ඔහු බදුල්ල  කෝට්ටේගොඩ ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+ග්‍රැන්ඩ්පාස් පොලිසියේ අපරාධ විමර්ශන අංශයේ. ස්ථානාධිපති  පොලිස් පරීක්ෂක  නිශ්ශංක මහතා ප්‍රමුඛ එම අංශය පොලිස්  කණ්ඩායම  පොලිස් තොරතුරු පොතේ සටහන් යොදා, රාජකාරී කටයුත්තක් සඳහා පිටත්වන බවට සඳහන් කරමින්  පෙරේදා  (11)  පමුණුගම ප්‍රදේශයට පැමිණ ඇති බව පොලිසිය සදහන් කරයි.
+
+පිරිස පස්වරුවේ පමුණුගම  තල්දියවත්ත මුහුදු  ප්‍රදේශයට පැමිණ එහි  මත්පැන් සාදයක් පවත්වා පසුව   දිය නා ඇති බවද පොලිසිය පවසයි.  එලෙස දිය නාමින් සිටි  පොලිස් කණ්ඩායම අතර සිටි  ඉහත  කොස්තාපල්වරයා  දියේ ගිලී  මියගොස් පොලිසිය සඳහන් කරයි.
+
+...
+
+[Data](articles/ecc12c56.json)
 
 ---
 
@@ -1919,89 +1983,5 @@ The police said that there are three open warrants in the list of drugs and non-
 [Data](articles/8bc9d2e1.json)
 
 [Extended Data](ext_articles/8bc9d2e1.ext.json)
-
----
-
-### Sri Lanka rupee opens at 312.80/313.10 to the US dollar
-
-*2024-02-12 10:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-312-80-313-10-to-the-us-dollar-150590/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 312.80/313.10 to the US dollar Monday, from 313.00/10 on Friday, dealers said.
-
-A bond maturing on 01.02.2026 was quoted at 10.80/11.00 percent down from 10.80/95 percent.
-
-A bond maturing on 15.09.2027 was quoted stable at 11.65/80 percent.
-
-A bond maturing on 15.03.2028 was quoted at 12.00/10 percent from 12.05/20 percent.
-
-The Colombo Stock Exchange opened up: the All Share Price Index was up 0.21 percent at 10,589, while the S&P SL20 was up 0.47 percent at 3,041. (Colombo/Feb12/2024)
-
-◼️
-
-[Data](articles/34c007c6.json)
-
-[Extended Data](ext_articles/34c007c6.ext.json)
-
----
-
-### The government does not consult with PA MPs on the Edka Agreement with India
-
-*2024-02-12 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176158) · `ta`
-
-Parliamentarian Sarathweerasekera has accused the government of not consulting with Sri Lanka Public MPs on the Edka deal with India.
-
-Sarathweerasekera has opposed the government's decision to finalize the technical talks on the proposed Economic Technology Agreement with India by the end of March.
-
-He said that the government did not investigate the matter with the government's parliamentary committee and said that the decision could not be taken without proper consultation.
-
-The President should not use the political and social circumstances in the country of Sarath Veerasekara, who has appealed for the ruling Sri Lanka PA to express its position on the Ekda Agreement without delay.
-
-Following the demonstrations in Sri Lanka, the two countries held talks on the Ekda Agreement in 2018 and that talks began between the Modi government and the goodwill government in 2016.
-
-...
-
-[Data](articles/4f53a765.json)
-
-[Extended Data](ext_articles/4f53a765.ext.json)
-
----
-
-### Surge in shootings amidst intensified crackdown on crime
-
-*2024-02-12 09:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Surge-in-shootings-amidst-intensified-crackdown-on-crime/155-276828) · `en`
-
-Colombo, Feb 12 (Daily Mirror) - Amidst an intensified crackdown on crime and narcotics, Sri Lanka is witnessing a surge in shootings again despite a decrease in the first month of the launch of the 'Yukthiya' operation.
-
-As the "Yukthiya" operation against organized crime gains momentum, concerns have mounted regarding the recent shooting incidents.
-
-According to police reports, gun-related violence has surged recently, causing panic and chaos. According to Police Spokesman DIG Nihal Thalduwa, there have been at least 12 fatalities resulting from shootings between January and February 10 this year. Several others were injured in those shootings, while two shootings were reported without injuries during the period.
-
-The Sri Lanka Police and Public Security Ministry launched the "Yukthiya" operation in December 2023 to crack down on criminal and drug-related incidents.
-
-...
-
-[Data](articles/2f5a154c.json)
-
-[Extended Data](ext_articles/2f5a154c.ext.json)
-
----
-
-### Surge in shootings amidst intensified crackdown on crime
-
-*2024-02-12 09:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Surge-in-shootings-amidst-intensified-crackdown-on-crime/108-276828) · `en`
-
-Colombo, Feb 12 (Daily Mirror) - Amidst an intensified crackdown on crime and narcotics, Sri Lanka is witnessing a surge in shootings again despite a decrease in the first month of the launch of the 'Yukthiya' operation.
-
-As the "Yukthiya" operation against organized crime gains momentum, concerns have mounted regarding the recent shooting incidents.
-
-According to police reports, gun-related violence has surged recently, causing panic and chaos. According to Police Spokesman DIG Nihal Thalduwa, there have been at least 12 fatalities resulting from shootings between January and February 10 this year. Several others were injured in those shootings, while two shootings were reported without injuries during the period.
-
-The Sri Lanka Police and Public Security Ministry launched the "Yukthiya" operation in December 2023 to crack down on criminal and drug-related incidents.
-
-...
-
-[Data](articles/fe145f6f.json)
-
-[Extended Data](ext_articles/fe145f6f.ext.json)
 
 ---

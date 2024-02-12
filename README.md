@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 12:17:33**
+As of **2024-02-12 12:32:59**
 
 ## Newspaper Stats
 
-*Scraped **6,424** Articles*
+*Scraped **6,432** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 78
 bbccomsinhala | 88
-dbsjeyarajcom | 146
-economynextcom | 323
+dbsjeyarajcom | 147
+economynextcom | 325
 islandlk | 344
 dailyftlk | 348
 newsfirstlk | 363
 adalk | 537
 tamilmirrorlk | 781
 adaderanalk | 788
-virakesarilk | 799
+virakesarilk | 804
 adaderanasinhalalk | 889
 dailymirrorlk | 940
 
@@ -26,11 +26,61 @@ dailymirrorlk | 940
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,424 (100.0%) of 6,424 articles have been extended.
+6,424 (99.9%) of 6,432 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### நாட்டில் தோல் நோய் அதிகரிப்பு : சிறுவர்கள் தொடர்பில் அதிக அவதானம் தேவை - விசேட வைத்திய நிபுணர் தீபால் பெரேரா!
+
+*2024-02-12 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176174) · `ta`
+
+நாட்டில் தற்போது நிலவும் மிகவும் வரண்ட காலநிலை காரணமாக தோல் நோய்கள் அதிகரித்து வருவதாக சிறுவர் நோய் தொடர்பான விசேட வைத்திய நிபுணர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+
+காய்ச்சல் போன்ற அறிகுறிகள் உள்ள சிறுவர் களுக்கு கூட இந்நாட்களில் குளிப்பதற்கு வாய்ப்பளிக்க வேண்டும்.
+
+சிறுவர்களுக்கு ஒரு நாளைக்கு இரண்டு தடவைகளாவது குளிப்பதற்கு சந்தர்ப்பம் வழங்கப்பட வேண்டும் எனவும், ஒருவருக்கு தோல் நோய்கள் இருப்பின் காலையிலும் இரவிலும் சுமார் 20 நிமிடங்களேனும்  நீரில் இருப்பதன் மூலம் ஓரளவு கட்டுப்படுத்த முடியும் எனவும் வைத்தியர் தீபால் பெரேரா குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/245d1c40.json)
+
+---
+
+### தென்னை மரத்தில் ஏறி தேங்காய் பறித்துக் கொண்டிருந்தவர் கீழே வீழ்ந்து உயிரிழப்பு!
+
+*2024-02-12 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176173) · `ta`
+
+தனது தோட்டத்தில் உள்ள  தென்னை மரத்தில் ஏறி தேங்காய் பறித்துக் கொண்டிருந்த நான்கு பிள்ளைகளின் தந்தை ஒருவர் மரத்திலிருந்து தவறி வீழ்ந்து உயிரிழந்துள்ளதாக மெதகம பொலிஸார் தெரிவிக்கின்றனர்.
+
+தென்னை மரத்தில் இருந்து தவறி வீழ்ந்ததில் பலத்த காயமடைந்த அவர், மெதகம பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைக்காக மொனராகலை மாவட்ட பொது வைத்தியசாலைக்கு மாற்றப்பட்டதன் பின்னர் உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/70b8334d.json)
+
+---
+
+### யுக்திய நடவடிக்கை தீவிரமாக முன்னெடுக்கப்படும் சூழலில் துப்பாக்கி சூட்டு சம்பவங்கள் அதிகரிக்கின்றன- டெய்லி மிரர்
+
+*2024-02-12 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176172) · `ta`
+
+குற்றச்செயல்கள் போதைப்பொருள் குற்றங்களிற்கு எதிரான நடவடிக்கைகள் தீவிரமாக்கப்பட்டுள்ள போதிலும் துப்பாக்கிசூட்டு   சம்பவங்கள் அதிகரித்துள்ளன. யுக்தியவின் முதல் மாதத்தில் துப்பாக்கிசூட்டு சம்பவங்கள் குறைவடைந்திருந்த போதிலும் அவை மீண்டும்அதிகரிக்கதொடங்கியுள்ளன.
+
+திட்டமிடப்பட்ட குற்றங்களிற்கு எதிரான யுக்திய நடவடிக்கை தீவிரமடைந்துள்ள அதேவேளை சமீபத்தைய துப்பாக்கி சூட்டு சம்பவங்கள் குறித்து கரிசனைகள் அதிகரித்துள்ளன.
+
+துப்பாக்கியை பயன்படுத்தி மேற்கொள்ளப்பட்ட வன்முறை சம்பவங்கள் அதிகரித்துள்ளன என தெரிவிக்கும் பொலிஸ் அறிக்கைகள் இதன் காரணமாக அச்சமும் குழப்பமும் ஏற்பட்டுள்ளதாக தெரிவிக்கின்றன.
+
+ஜனவரி பத்தாம் திகதிக்கும் பெப்ரவரி பத்தாம் திகதிக்கும் இடையில் துப்பாக்கி பிரயோகத்தினால் பத்துபேர் உயிரிழந்துள்ளனர் என பொலிஸ் பேச்சாளர் தெரிவித்துள்ளார்.
+
+இந்து துப்பாக்கி பிரயோகங்களினால் பலர் காயமடைந்துள்ளனர் அதேவேளை இரண்டு துப்பாக்கி சூட்டு சம்பவங்களில் எவரும் காயமடையவில்லை என பொலிஸ் பேச்சாளர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/c10970c6.json)
+
+---
 
 ### Dermatography also increases
 
@@ -69,6 +119,42 @@ Accordingly, he points out that the government has not succeeded in the last yea
 [Data](articles/ba62f298.json)
 
 [Extended Data](ext_articles/ba62f298.ext.json)
+
+---
+
+### 400 வாகனங்கள் மோசடியான முறையில் பதிவு :  மோட்டார் போக்குவரத்து திணைக்கள அதிகாரிகள் ஐவர் உட்பட 7 பேர் மீது வழக்கு!
+
+*2024-02-12 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176170) · `ta`
+
+மோட்டார் போக்குவரத்துத் திணைக்கள அதிகாரிகள் ஐவர் உட்பட 7 பேருக்கு எதிராக இலஞ்சம்,  ஊழல், மோசடி  விசாரணை ஆணைக்குழு வழக்குத்  தாக்கல் செய்துள்ளது.
+
+இலங்கை சுங்கத் திணைக்களத்தின் சட்டவிதிகளுக்குப் புறம்பாக சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட  பெருந்தொகையான கார்களைப் பதிவு செய்து அரசாங்கத்துக்கு நிதி இழப்பை  ஏற்படுத்தியமை தொடர்பிலேயே இவர்களுக்கு எதிராக இந்த வழக்குத் தாக்கல் செய்யப்பட்டுள்ளது.
+
+சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட 400 வாகனங்கள் மோசடியான முறையில் பதிவு செய்யப்பட்டுள்ளதாக தமக்கு தகவல் கிடைத்துள்ளதாக இலஞ்ச ஊழல் குற்றச்சாட்டு விசாரணை ஆணைக்குழு அறிக்கை ஒன்றை வெளியிட்டுள்ளது.
+
+இலஞ்ச ஊழல் ஆணைக்குழுவின் அதிகாரிகள் 156 வாகனங்கள் தொடர்பில் குறிப்பிட்ட தகவல்களை வெளியிட்டுள்ளமை குறிப்பிடத்ததக்து.
+
+◼️
+
+[Data](articles/62962d59.json)
+
+---
+
+### சிகிச்சைக்காக காத்திருப்போர் பட்டியலில் 8,000 இருதய நோயாளிகள்
+
+*2024-02-12 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176169) · `ta`
+
+கண்டி தேசிய வைத்தியசாலையில் இருதய வடிகுழாய் சிகிச்சைப் பிரிவு ஒன்று சேவையில் இல்லாததால் 8,000 இருதய நோயாளர்கள் சிகிச்சைக்காக காத்திருப்போர் பட்டியலில் இருப்பதாக சுகாதார தொழிற்சங்க கூட்டமைப்பின் இணை ஏற்பாட்டாளர் சானக்க தர்மவிக்ரம தெரிவித்துள்ளார்.
+
+கண்டி தேசிய வைத்தியசாலையில் இவ்வாறான இரண்டு பிரிவுகள் உள்ளது. அதில் ஒரு பிரிவு சேவையில் இல்லாததால் நோயாளர்கள் பெரும் சிரமத்திற்கு உள்ளாகியுள்ளனர்.
+
+நாடளாவிய ரீதியில் பல வைத்தியசாலைகளில் நோயறிதலுக்குத் தேவையான பெருமளவிலான இயந்திரங்கள் சேவையில் இல்லை என தெரிவித்துள்ளார்.
+
+இது தொடர்பில் சுகாதார அமைச்சின் பிரதிப் பணிப்பாளர் வைத்தியர் ஜி.விஜேசூரிய, சேவையில் ஈடுபடாத பல இயந்திரங்கள் பழுதுபார்க்கப்பட்டுள்ளன. எஞ்சிய இயந்திரங்களும் தற்போது பழுதுபார்க்கப்பட்டு வருவதாக  தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/77377bf6.json)
 
 ---
 
@@ -287,6 +373,26 @@ The police said that there are three open warrants in the list of drugs and non-
 [Data](articles/8bc9d2e1.json)
 
 [Extended Data](ext_articles/8bc9d2e1.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 312.80/313.10 to the US dollar
+
+*2024-02-12 10:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-312-80-313-10-to-the-us-dollar-150590/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 312.80/313.10 to the US dollar Monday, from 313.00/10 on Friday, dealers said.
+
+A bond maturing on 01.02.2026 was quoted at 10.80/11.00 percent down from 10.80/95 percent.
+
+A bond maturing on 15.09.2027 was quoted stable at 11.65/80 percent.
+
+A bond maturing on 15.03.2028 was quoted at 12.00/10 percent from 12.05/20 percent.
+
+The Colombo Stock Exchange opened up: the All Share Price Index was up 0.21 percent at 10,589, while the S&P SL20 was up 0.47 percent at 3,041. (Colombo/Feb12/2024)
+
+◼️
+
+[Data](articles/34c007c6.json)
 
 ---
 
@@ -1274,6 +1380,24 @@ At present, those who say that the opposition has nothing to do with us and them
 
 ---
 
+### Sri Lanka to introduce India’s digital payment system UPI amid tax evasions
+
+*2024-02-12 00:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-introduce-indias-digital-payment-system-upi-amid-tax-evasions-150587/) · `en`
+
+ECONOMYNEXT – Sri Lanka will introduce India’s Unified Payment Interface (UPI), a revolutionary digital payment move to achieve a cashless economy, which may help to tighten loopholes that have allowed for tax evasion in the island nation.
+
+The UPI will help the public to use their smartphone as a virtual debit card.
+
+In other words, people do not need any cash or card to carry out transactions. They can simply use the smartphone as a debit card and send and receive money through it. The UPI is an interface that allows the user to link more than one bank account in one smartphone app and transfer funds without having to share any account number.
+
+Sri Lanka President Ranil Wickremesinghe will witness the launch of Unified Payment Interface (UPI) services in Sri Lanka and Mauritius along with Prime Minister of Mauritius, Pravind Jugnauth and Indian Prime Minister Narendra Modi on Monday 12 via video conferencing, the Indian High Commission in Sri Lanka said.
+
+...
+
+[Data](articles/b1e8b8b5.json)
+
+---
+
 ### Sri Lankan rupee is more overvalued now than before the crisis
 
 *2024-02-12 00:35:58* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lankan-rupee-is-more-overvalued-now-than-before-the-crisis/4-758346) · `en`
@@ -1955,125 +2079,5 @@ Police said that a case has been filed at the Galle Magistrate's Court against t
 [Data](articles/fa8f4183.json)
 
 [Extended Data](ext_articles/fa8f4183.ext.json)
-
----
-
-### Tension because of the fire spread on the train
-
-*2024-02-11 20:32:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-தீ-பரவியதால்-பதற்றம்/175-333044) · `ta`
-
-The fire broke out in the oil train parked at the Gampaha railway station.
-
-Railway employees are involved in trying to control this. The cause of the fire has not yet been identified.
-
-◼️
-
-[Data](articles/3268c638.json)
-
-[Extended Data](ext_articles/3268c638.ext.json)
-
----
-
-### Without A Code Of Ethics & Principles Of morality, No Meaning In Social Market Economy
-
-*2024-02-11 20:05:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/without-a-code-of-ethics-principles-of-morality-no-meaning-in-social-market-economy/) · `en`
-
-Both the President Ranil Wickremesinghe and the Opposition Leader Sajith Premadasa have declared that the guiding principle of their economic management is the ideal known as the social market economy. This is the economic ideology that was followed by Germany after the World War II since its leaders did not want to go by unbridled free capitalism or state-controlled communism to rebuild the war-ravaged country. It was believed that neither system cared for people who should be the beneficiaries of the economic advancement.
-
-...
-
-[Data](articles/3d7e109b.json)
-
-[Extended Data](ext_articles/3d7e109b.ext.json)
-
----
-
-### Hemas Consumer Brands wins big at SLIM Brand Excellence Awards 2023
-
-*2024-02-11 19:53:00* · [`islandlk`](http://island.lk/hemas-consumer-brands-wins-big-at-slim-brand-excellence-awards-2023/) · `en`
-
-Hemas Consumer Brands took centre-stage at the highly-anticipated SLIM Brand Excellence Awards 2023, clinching an impressive 5 awards across 3 of its key brands – Baby Cheramy, Fems and Vivya, in the highly-coveted categories of ‘Overall Product Brand of the Year’, ‘Best New Entrant Brand’ and ‘CSR Brand of the Year’. Encompassing diverse categories, these awards signify the perfect alignment of Hemas Consumer Brands to its core values of passion for customers – driven by innovation and pursuit of excellence. This recognition from amongst the best of the best brands in Sri Lanka reflects how Hemas Consumer Brands stays true to its purpose of “empowering families to aspire for a better tomorrow”.
-
-...
-
-[Data](articles/184783b6.json)
-
-[Extended Data](ext_articles/184783b6.ext.json)
-
----
-
-### Sanasa Life Insurance launches eight training centres across the island
-
-*2024-02-11 19:53:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-launches-eight-training-centres-across-the-island/) · `en`
-
-Sanasa Life Insurance Company PLC has commenced a programme to establish training centres in all parts of the country to improve the knowledge, attitude and skills of its human resources. The first such centre was recently declared open in Anuradhapura and another eight centres are planned to be established in the country. The top management of the company including Sanasa Leader, Dr. P. A. Kiriwandeniya, the Board of Directors, Managing Director Indika Kiriwandeniya, Chairman, Dr. H. J. S. K. Wickramaratne, Sanasa Life Insurance Chief Executive Officer (CEO) Ivan Nicholas, and Chief Business Officer Kennedy J. Michael were present during the opening ceremony of Anuradhapura Centre.
-
-...
-
-[Data](articles/98da37f1.json)
-
-[Extended Data](ext_articles/98da37f1.ext.json)
-
----
-
-### Kishu Gomes appointed chairman of Exterminators PLC
-
-*2024-02-11 19:53:00* · [`islandlk`](http://island.lk/kishu-gomes-appointed-chairman-of-exterminators-plc/) · `en`
-
-Exterminators PLC has announced the appointment of Dr. Kishu Gomes as its chairman with effect from February 8, 2024. Dr. Kishu Gomes is a corporate leader with an impressive track record, having held leadership positions in both multinational corporations and local conglomerates.
-
-“I’m very excited about this appointment and would dedicate myself in driving the company forward in respect of performance and compliance in a sustainable manner, adding value not only to the shareholders of the company but to the country as whole via an industry that has tremendous growth potential within and beyond Sri-Lanka,” Dr. Gomes said.
-
-Hemas Consumer Brands wins big at SLIM Brand Excellence Awards 2023
-
-Sanasa Life Insurance launches eight training centres across the island
-
-Exterminators PLC to transform pest management industry in South Asia
-
-Exterminators PLC appoints Jacob Carel Laubscher as an independent director
-
-...
-
-[Data](articles/b6b86b50.json)
-
-[Extended Data](ext_articles/b6b86b50.ext.json)
-
----
-
-### Chrishan Fernando joins Netsys Solutions’ Board
-
-*2024-02-11 19:53:00* · [`islandlk`](http://island.lk/chrishan-fernando-joins-netsys-solutions-board/) · `en`
-
-Leading ICT veteran Chrishan Fernando has joined the Board of Netsys Solutions from February. Chrishan is an experienced IT leader with over 25 years of experience working for leading Global IT Companies. He started his international career with Compaq Computer in 1997 and was based in Singapore covering South Asia markets. Later with the merger of HP, he moved back to Sri Lanka, his country of birth, and started the HP office in Sri Lanka.
-
-Head hunted by IBM in 2009, to be the Country General Manager for Sri Lanka’s biggest IT company, he led the introduction of new lines of businesses such as software and IBM’s Global Business Services to the Sri Lanka market. At Dell Technologies, he was the Country Manager for Sri Lanka and Maldives. Under his leadership, Dell reached No 1 in market share for consumer and commercial business in Sri Lanka.
-
-Hemas Consumer Brands wins big at SLIM Brand Excellence Awards 2023
-
-...
-
-[Data](articles/ee608246.json)
-
-[Extended Data](ext_articles/ee608246.ext.json)
-
----
-
-### Air quality in multiple cities deteriorates
-
-*2024-02-11 19:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Air-quality-in-multiple-cities-deteriorates/108-276772) · `en`
-
-Colombo, Feb 11 (Daily Mirror) - The air quality in several regions across the island has plunged to unhealthy levels, the National Building Research Organization (NBRO) said.
-
-According to their latest assessment, apart from Nuwara Eliya, all other districts are grappling with unhealthy air conditions, with Colombo, Akurana in Kandy, and Jaffna registering notably high levels of pollution.
-
-Citing data from the US Air Quality Index (AQI), the NBRO highlighted eight districts—Colombo, Kilinochchi, Jaffna, Trincomalee, Badulla, Kurunegala, Kandy, and Matale—as areas where the air quality poses significant health risks.
-
-The organization cautioned that individuals with respiratory ailments, such as asthma, as well as active children and adults, are especially vulnerable and advised them to minimize outdoor activities.
-
-◼️
-
-[Data](articles/1a67bceb.json)
-
-[Extended Data](ext_articles/1a67bceb.ext.json)
 
 ---

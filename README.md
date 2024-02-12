@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 12:32:59**
+As of **2024-02-12 12:49:06**
 
 ## Newspaper Stats
 
-*Scraped **6,432** Articles*
+*Scraped **6,442** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,69 +16,199 @@ islandlk | 344
 dailyftlk | 348
 newsfirstlk | 363
 adalk | 537
-tamilmirrorlk | 781
-adaderanalk | 788
+tamilmirrorlk | 783
+adaderanalk | 792
 virakesarilk | 804
 adaderanasinhalalk | 889
-dailymirrorlk | 940
+dailymirrorlk | 944
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,424 (99.9%) of 6,432 articles have been extended.
+6,432 (99.8%) of 6,442 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### நாட்டில் தோல் நோய் அதிகரிப்பு : சிறுவர்கள் தொடர்பில் அதிக அவதானம் தேவை - விசேட வைத்திய நிபுணர் தீபால் பெரேரா!
+### Former President Maithripala Sirisena leaves for US
+
+*2024-02-12 12:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97198/former-president-maithripala-sirisena-leaves-for-us) · `en`
+
+Former President and SLFP leader Maithripala Sirisena has left for the United States early this morning (12 Feb.).
+
+Accordingly, Sirisena had boarded an Indian Airlines flight bound for New Delhi at around 02:50 a.m. today, Ada Derana learns, after which he is scheduled to leave for the US.
+
+Meanwhile, political sources also claim that new appointments to the board of officials of the United People’s Freedom Alliance (UPFA) will be made following the Sri Lanka Freedom Party (SLFP) leader’s return to the island.
+
+As such, State Minister Lasantha Alagiyawanna is tipped to be appointed as the new UPFA General Secretary.
+
+◼️
+
+[Data](articles/c2dc10f2.json)
+
+---
+
+### Increase in skin disease in the country
 
 *2024-02-12 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176174) · `ta`
 
-நாட்டில் தற்போது நிலவும் மிகவும் வரண்ட காலநிலை காரணமாக தோல் நோய்கள் அதிகரித்து வருவதாக சிறுவர் நோய் தொடர்பான விசேட வைத்திய நிபுணர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+Deepal Perera, a specialist on child disease, said that skin diseases are increasing due to the prevailing climate in the country.
 
-காய்ச்சல் போன்ற அறிகுறிகள் உள்ள சிறுவர் களுக்கு கூட இந்நாட்களில் குளிப்பதற்கு வாய்ப்பளிக்க வேண்டும்.
+Even children with fever -like symptoms should be given the opportunity to bathe in these days.
 
-சிறுவர்களுக்கு ஒரு நாளைக்கு இரண்டு தடவைகளாவது குளிப்பதற்கு சந்தர்ப்பம் வழங்கப்பட வேண்டும் எனவும், ஒருவருக்கு தோல் நோய்கள் இருப்பின் காலையிலும் இரவிலும் சுமார் 20 நிமிடங்களேனும்  நீரில் இருப்பதன் மூலம் ஓரளவு கட்டுப்படுத்த முடியும் எனவும் வைத்தியர் தீபால் பெரேரா குறிப்பிட்டுள்ளார்.
+Dr. Deepal Perera has stated that the boys should be given the opportunity to bathe twice a day and that if one has skin diseases, the morning and night can be restricted somewhat in the water for about 20 minutes.
 
 ◼️
 
 [Data](articles/245d1c40.json)
 
+[Extended Data](ext_articles/245d1c40.ext.json)
+
 ---
 
-### தென்னை மரத்தில் ஏறி தேங்காய் பறித்துக் கொண்டிருந்தவர் கீழே வீழ்ந்து உயிரிழப்பு!
+### Former President Sirisena departs for US
+
+*2024-02-12 12:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-President-Sirisena-departs-for-US/108-276836) · `en`
+
+Feb 12 - Former President Maithripala Sirisena left for the United States via India this morning on a special visit.
+
+Sirisena's itinerary included a stop in New Delhi, India, where he boarded the AI-284 flight operated by Indian Airlines at 02:50 am today. From New Delhi, he will proceed to New York, USA, on another connecting flight.
+
+Accompanying Sirisena are two officials from the Sri Lanka Freedom Party, as disclosed by party sources.
+
+◼️
+
+[Data](articles/72f42fc3.json)
+
+---
+
+### Coconut tree falls down and falls down!
 
 *2024-02-12 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176173) · `ta`
 
-தனது தோட்டத்தில் உள்ள  தென்னை மரத்தில் ஏறி தேங்காய் பறித்துக் கொண்டிருந்த நான்கு பிள்ளைகளின் தந்தை ஒருவர் மரத்திலிருந்து தவறி வீழ்ந்து உயிரிழந்துள்ளதாக மெதகம பொலிஸார் தெரிவிக்கின்றனர்.
+Medagama police say that a father of four children who climbed into the coconut tree in his garden had fallen off the tree.
 
-தென்னை மரத்தில் இருந்து தவறி வீழ்ந்ததில் பலத்த காயமடைந்த அவர், மெதகம பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைக்காக மொனராகலை மாவட்ட பொது வைத்தியசாலைக்கு மாற்றப்பட்டதன் பின்னர் உயிரிழந்துள்ளார்.
+He was seriously injured in the fall from the coconut tree and was admitted to the Medagama Divisional Hospital and died after being transferred to the Moneragala District General Hospital for further treatment.
 
 ◼️
 
 [Data](articles/70b8334d.json)
 
+[Extended Data](ext_articles/70b8334d.ext.json)
+
 ---
 
-### யுக்திய நடவடிக்கை தீவிரமாக முன்னெடுக்கப்படும் சூழலில் துப்பாக்கி சூட்டு சம்பவங்கள் அதிகரிக்கின்றன- டெய்லி மிரர்
+### Prices of eggs to go up from today
+
+*2024-02-12 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97197/prices-of-eggs-to-go-up-from-today-) · `en`
+
+The prices of eggs are slated to be increased, effective from today (12 Feb.), according to the All Ceylon Egg Traders’ Association.
+
+Secretary of the Association Buddhika Weerasena attributed the decision to the increased costs of several other factors within the industry, including the distribution of eggs.
+
+Accordingly, the wholesale price of an egg will increase to Rs. 58 from today, while the retail price is likely to go up to Rs. 63 per egg.
+
+◼️
+
+[Data](articles/aa917a80.json)
+
+---
+
+### NPP trying to become the main opposition: SJB MP
+
+*2024-02-12 11:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-trying-to-become-the-main-opposition-SJB-MP/108-276835) · `en`
+
+Colombo, Feb. 12 (Daily Mirror)- National People's Power (NPP) was trying to become the main opposition in the country, Samagi Jana Balawegaya Spokesman and Member of Parliament S. M. Marikar said today.
+
+“What we can gather from the recent visit of NPP Leader Anura Kumara Dissanayake to India is that his party is trying to become the main opposition in the country,” Marikar told a news briefing.
+
+“We don’t mind NPP becoming the main opposition as we will be in the government when they become the main opposition of this country” he added.
+
+“Anyway, we feel that Dissanayake’s visit to India is a positive move. He must have come back after learning lessons on investments and foreign relations,” the MP also said.
+
+◼️
+
+[Data](articles/89e3702d.json)
+
+---
+
+### Increasing firing incidents in the context of active action- Daily Mirror
 
 *2024-02-12 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176172) · `ta`
 
-குற்றச்செயல்கள் போதைப்பொருள் குற்றங்களிற்கு எதிரான நடவடிக்கைகள் தீவிரமாக்கப்பட்டுள்ள போதிலும் துப்பாக்கிசூட்டு   சம்பவங்கள் அதிகரித்துள்ளன. யுக்தியவின் முதல் மாதத்தில் துப்பாக்கிசூட்டு சம்பவங்கள் குறைவடைந்திருந்த போதிலும் அவை மீண்டும்அதிகரிக்கதொடங்கியுள்ளன.
+Although crimes have intensified against drug offenses, firing incidents have increased. Despite the decline in shootings in the first month of Yukdi, they have begun to reappear.
 
-திட்டமிடப்பட்ட குற்றங்களிற்கு எதிரான யுக்திய நடவடிக்கை தீவிரமடைந்துள்ள அதேவேளை சமீபத்தைய துப்பாக்கி சூட்டு சம்பவங்கள் குறித்து கரிசனைகள் அதிகரித்துள்ளன.
+While strategic action against planned crimes has intensified, there has been an increase in the recent firing incidents.
 
-துப்பாக்கியை பயன்படுத்தி மேற்கொள்ளப்பட்ட வன்முறை சம்பவங்கள் அதிகரித்துள்ளன என தெரிவிக்கும் பொலிஸ் அறிக்கைகள் இதன் காரணமாக அச்சமும் குழப்பமும் ஏற்பட்டுள்ளதாக தெரிவிக்கின்றன.
+Police reports that the incidents of violence used by the gun have increased, causing fear and confusion.
 
-ஜனவரி பத்தாம் திகதிக்கும் பெப்ரவரி பத்தாம் திகதிக்கும் இடையில் துப்பாக்கி பிரயோகத்தினால் பத்துபேர் உயிரிழந்துள்ளனர் என பொலிஸ் பேச்சாளர் தெரிவித்துள்ளார்.
+Ten people have been killed in a gunfight between January 10th and February 10th, police spokesman said.
 
-இந்து துப்பாக்கி பிரயோகங்களினால் பலர் காயமடைந்துள்ளனர் அதேவேளை இரண்டு துப்பாக்கி சூட்டு சம்பவங்களில் எவரும் காயமடையவில்லை என பொலிஸ் பேச்சாளர் தெரிவித்துள்ளார்.
+Many people were injured by Hindu firing, while no one was injured in two shootings, police spokesman said.
+
+The Ministry of Public Safety launched a strategy in December against crimes and drug crimes.
+
+However, in the past few weeks, there have been incidents of firing in cities like Colombo Galle.
+
+The incident took place on January 22 in Beliyatta. In the incident, five people, including the leader of the political party, Samanperera, were killed.
 
 ...
 
 [Data](articles/c10970c6.json)
+
+[Extended Data](ext_articles/c10970c6.ext.json)
+
+---
+
+### இந்தியா ஊடாக அமெரிக்க பறந்தார் மைத்திரி
+
+*2024-02-12 11:37:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-ஊடாக-அமெரிக்க-பறந்தார்-மைத்திரி/175-333060) · `ta`
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன இந்தியா ஊடாக அமெரிக்கா சென்றதை கட்டுநாயக்க விமான நிலையத்தின் பொறுப்பதிகாரி உறுதிப்படுத்தியுள்ளார்.
+
+அவர், திங்கட்கிழமை (12) அதிகாலை 02.50 மணிக்கு இந்தியன் ஏர்லைன்ஸின் ஏஐ-284 விமானத்தில் இந்தியாவின் புதுடெல்லிக்குச் சென்று, அங்கிருந்து மற்றொரு விமானத்தில் அமெரிக்காவின் நியூயோர்க்கிற்குச் செல்கிறார்.
+
+மைத்திரிபால சிறிசேன அதே கட்சியைச் சேர்ந்த மேலும் இரு அதிகாரிகளை அமெரிக்காவுக்கு அழைத்துச் சென்றுள்ளதாகவும், அவர்கள் அங்கு பல ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பொதுக் கூட்டங்களை நடத்த உள்ளதாகவும் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் ஊடகப் பணிப்பாளர்  பிரபாத் மாதரகே தெரிவித்தார்.
+
+◼️
+
+[Data](articles/e2efd589.json)
+
+---
+
+### Biden welcomes King of Jordan as framework for hostage deal is decided in Israel-Hamas conflict
+
+*2024-02-12 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97196/biden-welcomes-king-of-jordan-as-framework-for-hostage-deal-is-decided-in-israel-hamas-conflict) · `en`
+
+President Joe Biden is hosting Jordan’s King Abdullah II in Washington Monday and the two leaders are expected to discuss the ongoing effort to free hostages held in Gaza, and growing concern over a possible Israeli military operation in the port city of Rafah.
+
+It is the first meeting between the allies since three American troops were killed last month in a drone strike against a U.S. base in Jordan. Biden blamed Iran-backed militias for the fatalities, the first for the U.S. after months of strikes by such groups against American forces across the Middle East since the start of the Israel-Hamas war.
+
+The meeting with King Abdullah II comes as Biden and his aides are working to broker another pause in Israel’s war against Hamas in order to send humanitarian aid and supplies into the region and get hostages out. The White House faces growing criticism from Arab-Americans over the administration’s continued support for Israel in the face of growing casualties in Gaza.
+
+...
+
+[Data](articles/0219cdb1.json)
+
+---
+
+### Police Sergeant dies after being shot at during arrest attempt
+
+*2024-02-12 11:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-Sergeant-dies-after-being-shot-at-during-arrest-attempt/108-276834) · `en`
+
+Gampaha, Feb 12 (Daily Mirror) - A Police Sergeant who was injured during an attempt to arrest a suspect, died from his injuries this morning at the National Hospital in Colombo.
+
+Police said a group of officers from the Malwatuhiripitaya police station encountered resistance from a suspect they were attempting to arrest on Saturday. During the altercation, the suspect attempted to grab a police officer's firearm, resulting in the officer being injured when the weapon discharged. The suspect then fled the scene with the officer's weapon.
+
+Following initial treatment at the Gampaha Hospital, the injured police sergeant, a 51-year-old resident of Lunugama, was transferred to the National Hospital, Colombo where he succumbed to his injuries.
+
+Police said the primary suspect involved in the incident was arrested by the Police Special Task Force (STF) while hiding in a residence in Bingiriya.
+
+...
+
+[Data](articles/a054929c.json)
 
 ---
 
@@ -122,39 +252,77 @@ Accordingly, he points out that the government has not succeeded in the last yea
 
 ---
 
-### 400 வாகனங்கள் மோசடியான முறையில் பதிவு :  மோட்டார் போக்குவரத்து திணைக்கள அதிகாரிகள் ஐவர் உட்பட 7 பேர் மீது வழக்கு!
+### Footballer dies after being hit by lightning during a match in Indonesia
+
+*2024-02-12 11:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Footballer-dies-after-being-hit-by-lightning-during-a-match-in-Indonesia/108-276833) · `en`
+
+Feb. 12 (freepressjournal) - In a shocking and tragic incident took place during a football match in Indonesia on Sunday, January 11, footballer was tragically hit by lightning while playing the match and seemed to have died on the spot.
+
+In a video that has gone viral on social, footballer can be seen casually walking on the field, waiting for the ball to pass to him until out of nowhere, lightning struck at him and the player collapsed on the field. Other players on the field were in absolute state of shock.
+
+As per the local media report, the player was immediately taken to the hospital as he didn't survive as he was brought dead. However, the tragic death of the footballer due to lighting has left his teammates shocking and mourning.
+
+◼️
+
+[Data](articles/633bf557.json)
+
+---
+
+### 400 vehicles fraudulent registration
 
 *2024-02-12 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176170) · `ta`
 
-மோட்டார் போக்குவரத்துத் திணைக்கள அதிகாரிகள் ஐவர் உட்பட 7 பேருக்கு எதிராக இலஞ்சம்,  ஊழல், மோசடி  விசாரணை ஆணைக்குழு வழக்குத்  தாக்கல் செய்துள்ளது.
+The Bribery, Corruption and Fraud Investigation Commission has filed a case against seven persons, including five members of the Motor Transport Department.
 
-இலங்கை சுங்கத் திணைக்களத்தின் சட்டவிதிகளுக்குப் புறம்பாக சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட  பெருந்தொகையான கார்களைப் பதிவு செய்து அரசாங்கத்துக்கு நிதி இழப்பை  ஏற்படுத்தியமை தொடர்பிலேயே இவர்களுக்கு எதிராக இந்த வழக்குத் தாக்கல் செய்யப்பட்டுள்ளது.
+The lawsuit has been filed against them in connection with the loss of a large number of cars illegally imported by the Customs Department of Sri Lanka.
 
-சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட 400 வாகனங்கள் மோசடியான முறையில் பதிவு செய்யப்பட்டுள்ளதாக தமக்கு தகவல் கிடைத்துள்ளதாக இலஞ்ச ஊழல் குற்றச்சாட்டு விசாரணை ஆணைக்குழு அறிக்கை ஒன்றை வெளியிட்டுள்ளது.
+The Bribery Corruption Investigation Commission has issued a report that 400 illegal imported vehicles have been fraudulently registered.
 
-இலஞ்ச ஊழல் ஆணைக்குழுவின் அதிகாரிகள் 156 வாகனங்கள் தொடர்பில் குறிப்பிட்ட தகவல்களை வெளியிட்டுள்ளமை குறிப்பிடத்ததக்து.
+It is noteworthy that officials of the Bribery Commission have released specific information regarding 156 vehicles.
 
 ◼️
 
 [Data](articles/62962d59.json)
 
+[Extended Data](ext_articles/62962d59.ext.json)
+
 ---
 
-### சிகிச்சைக்காக காத்திருப்போர் பட்டியலில் 8,000 இருதய நோயாளிகள்
+### 8,000 cardiovascular patients on the waiting list for treatment
 
 *2024-02-12 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176169) · `ta`
 
-கண்டி தேசிய வைத்தியசாலையில் இருதய வடிகுழாய் சிகிச்சைப் பிரிவு ஒன்று சேவையில் இல்லாததால் 8,000 இருதய நோயாளர்கள் சிகிச்சைக்காக காத்திருப்போர் பட்டியலில் இருப்பதாக சுகாதார தொழிற்சங்க கூட்டமைப்பின் இணை ஏற்பாட்டாளர் சானக்க தர்மவிக்ரம தெரிவித்துள்ளார்.
+The Co -Organizer of the Health Trade Union Federation, Sanaka Dharmavikrama, said that 8,000 cardiovascular patients are on the list for the treatment of a cardiovascular treatment unit at the National Hospital in Kandy.
 
-கண்டி தேசிய வைத்தியசாலையில் இவ்வாறான இரண்டு பிரிவுகள் உள்ளது. அதில் ஒரு பிரிவு சேவையில் இல்லாததால் நோயாளர்கள் பெரும் சிரமத்திற்கு உள்ளாகியுள்ளனர்.
+There are two such sections at the National Hospital in Kandy. Patients are in great difficulty as a section of it is not in service.
 
-நாடளாவிய ரீதியில் பல வைத்தியசாலைகளில் நோயறிதலுக்குத் தேவையான பெருமளவிலான இயந்திரங்கள் சேவையில் இல்லை என தெரிவித்துள்ளார்.
+He said that many hospitals across the country do not have a large number of machines for the diagnosis.
 
-இது தொடர்பில் சுகாதார அமைச்சின் பிரதிப் பணிப்பாளர் வைத்தியர் ஜி.விஜேசூரிய, சேவையில் ஈடுபடாத பல இயந்திரங்கள் பழுதுபார்க்கப்பட்டுள்ளன. எஞ்சிய இயந்திரங்களும் தற்போது பழுதுபார்க்கப்பட்டு வருவதாக  தெரிவித்துள்ளார்.
+Deputy Director of Health, Dr. G. Wijesuriya, has been repaired in this regard.. He said the remaining machines are currently being repaired.
 
 ◼️
 
 [Data](articles/77377bf6.json)
+
+[Extended Data](ext_articles/77377bf6.ext.json)
+
+---
+
+### Operation ‘Yukthiya’: 625 more suspects arrested
+
+*2024-02-12 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97195/operation-yukthiya-625-more-suspects-arrested-) · `en`
+
+Another 625 suspects have been arrested by Sri Lanka’s police and security forces personnel within 24 hours which ended at 12.30 a.m. today (12 Feb.), as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+According to the Ministry of Public Security, 545 of the 625 suspects had been arrested over drug-related charges, while the other 80 suspects have been identified as wanted criminal listed in various police crime divisions.
+
+Among the relevant 80 arrestees are 3 suspects who had open warrants against them over narcotics-related charges and 74 others who had open warrants against them over non-drug related charges.
+
+The narcotics taken into custody during this period include 160g of heroin, 152g of crystal methamphetamine (Ice), 10kg 745g of cannabis and 683 narcotic pills.
+
+◼️
+
+[Data](articles/77434c5c.json)
 
 ---
 
@@ -393,6 +561,8 @@ The Colombo Stock Exchange opened up: the All Share Price Index was up 0.21 perc
 ◼️
 
 [Data](articles/34c007c6.json)
+
+[Extended Data](ext_articles/34c007c6.ext.json)
 
 ---
 
@@ -1396,6 +1566,8 @@ Sri Lanka President Ranil Wickremesinghe will witness the launch of Unified Paym
 
 [Data](articles/b1e8b8b5.json)
 
+[Extended Data](ext_articles/b1e8b8b5.ext.json)
+
 ---
 
 ### Sri Lankan rupee is more overvalued now than before the crisis
@@ -1861,223 +2033,5 @@ Sri Lanka won by 155 ODIs in the second ODI between Sri Lanka and Afghanistan
 [Data](articles/07eb01a7.json)
 
 [Extended Data](ext_articles/07eb01a7.ext.json)
-
----
-
-### Luxury vehicles secretly registered!Case against 7 persons, including five members of the Motor Transport Department
-
-*2024-02-11 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/176134) · `ta`
-
-The Bribery Commission has filed a case against seven persons, including five members of the Motor Transport Department.
-
-The case has been filed in connection with the massive loss to the government by registering a large number of cars that have not been approved by the Sri Lankan Customs.
-
-The Bribery Commission said that they have been informed that the department has registered about 400 unauthorized cars.
-
-The Commission officials have found that 156 vehicles of the registered vehicles have been found and most of them belong to the luxury vehicle type.
-
-In addition, these vehicles are registered with the Department of Motor Transport after many years, causing a large number of tax loss to the government.
-
-The court has ordered the Bribery Commission to hand over 7 vehicles from the current owners to the Sri Lankan customs.
-
-Accordingly, 6 vehicles have been taken over by the Bribery Commission and 05 of them have been handed over to the Sri Lankan Customs Unit.
-
-◼️
-
-[Data](articles/8d0150eb.json)
-
-[Extended Data](ext_articles/8d0150eb.ext.json)
-
----
-
-### Pakistan election: Final results give Khan-backed candidates lead
-
-*2024-02-11 21:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97188/pakistan-election-final-results-give-khan-backed-candidates-lead) · `en`
-
-The final results in Pakistan’s general election have put independent candidates backed by jailed ex-PM Imran Khan’s PTI party in the lead.
-
-Independents won 101 of the National Assembly seats. BBC analysis shows 93 of them went to PTI-backed candidates.
-
-That puts them ahead of ex-PM Nawaz Sharif’s PMLN who won 75 and it is unclear who will form a government.
-
-As wrangling continues, independent candidates who did not win have flooded courts with vote-rigging allegations.
-
-Both the PTI, which was blocked from taking part in the election, and Mr Sharif’s PMLN say they want to form the next government.
-
-The result was a surprise as most observers had expected Mr Sharif’s party - widely seen as having the powerful military’s backing - to win, given Mr Khan had been jailed on charges ranging from corruption to having married illegally and his party was barred from the ballot sheet.
-
-...
-
-[Data](articles/1637a75b.json)
-
-[Extended Data](ext_articles/1637a75b.ext.json)
-
----
-
-### Sri Lanka wins the tournament against Afghanistan
-
-*2024-02-11 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193261) · `si`
-
-Sri Lanka wins the second ODI match by 155 runs.
-
-Chasing a target of 309, Afghanistan batsmen scored 153 runs in 33 overs.
-
-Although Afghanistan players have a successful start, Sri Lanka won the competition with the breakdown of the relationship.
-
-The next afterwarding, Warehonga brought four wickets for 27 runs.
-
-Dilshan made two wickets for 28 runs and highlights were hit by one wicket.
-
-Shah scored 54 runs for Afghanistan and scored 63 runs.
-
-Batting first, Sri Lanka scored 308 runs for the loss of 6 wickets at the end of 50 overs.
-
-Charith, who played a premier innings, was 97 runs off 74 balls with 9 runs off 74 balls with 9 fours.
-
-Leader Kusal Mendis played a valuable innings and scored 61 runs with a hit with a six.
-
-Sedira Samarawickrama played a precious innings and scored 52 runs with three fours.
-
-New day of Jathika Janith Liyanage is also a collection of its second ODI century today.
-
-Pureeki, Faruki, Ahmed, Queise Ahmed, took one wicket each.
-
-◼️
-
-[Data](articles/25b65da1.json)
-
-[Extended Data](ext_articles/25b65da1.ext.json)
-
----
-
-### A terrible accident in Ratnapura
-
-*2024-02-11 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193260) · `si`
-
-Five staged injuries were seriously injured in the New Town of Ratnapura this afternoon.
-
-The accident had occurred when a car had taken a car at a high speed.
-
-It has been revealed that the car collided with a motor cygraphs that could not control the speed, which was not controlled by the Kuruwita to Ratnapura.
-
-The injured persons have been admitted to the Ratnapura Hospital expedited.
-
-◼️
-
-[Data](articles/7e4b8bb8.json)
-
-[Extended Data](ext_articles/7e4b8bb8.ext.json)
-
----
-
-### If the people do not make the right decision, the country will go to the underworld - I,. Vice President Akhilaviraj Kariyawasam
-
-*2024-02-11 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176135) · `ta`
-
-The United National Party (UNP) has taken steps to build it every occasion in the country's economy. They sent us home before completing our program, though. But this time, if the people do not make the right decision, the country will go to the underworld, UNP Vice President Akhilaviraj Kariyawasam said.
-
-The United National Party (UNP) Gampaha District Federation was held at the Yakkala Pradeshiya Sabha auditorium on Sunday. He said this while addressing the gathering.
-
-Cannot build the economy of the country that has fallen without the help of international countries. Understanding this, the President is visiting international countries and taking steps to seek the help of those countries. But the opposition politicians continued to criticize these international visits of the president. But now they are also starting around international countries.
-
-...
-
-[Data](articles/ebe60e60.json)
-
-[Extended Data](ext_articles/ebe60e60.ext.json)
-
----
-
-### Under-19 World Cup and Australia
-
-*2024-02-11 21:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193259) · `si`
-
-The Australian group became the final of the final against India in the Under-19 World Cup.
-
-Chasing a goal of winning a goal at the meeting, the Indian youth players were bowled out for 43 overs, lasting 174 runs.
-
-Accordingly, the Under-19-year-old youth won the final by 79 runs.
-
-The Indian team and Australia were also found in the final of the 2023 World Cup.
-
-The Indian team defeated Australia in the final match at the event.
-
-The Indian Youths were also defeated in the last 19 Cup tournament of the tournament.
-
-ADArsh Singh scored 47 runs for the Under-19 team in the 19th group who played in reply today.
-
-When the midnamage batsmen were collapsed, Murugan ABHisek was built in a hopeful innings for the Under-19 team in the Under-19 team.
-
-He contested 42 runs in 46 balls with six fours and five fours.
-
-At first, Under-19 players scored 253 runs for the loss of 7 wickets at the end of 50 overs.
-
-Harjas Singh scored 55 runs in 64 balls with three sixes and 3 fours.
-
-...
-
-[Data](articles/cd5a88ef.json)
-
-[Extended Data](ext_articles/cd5a88ef.ext.json)
-
----
-
-### Special relief from the Presidential Fund
-
-*2024-02-11 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193258) · `si`
-
-President Ranil Wickremesinghe has instructed to provide financial assistance from the Presidential Fund for the liver transplant surgery and fraudulent transplant surgery of young children.
-
-The move has taken steps to relieve the future of the country's future and a good parent parents.
-
-Accordingly, the liar, tests and treatment at the Ragama Teaching Hospital will be given financial assistance from 1st day from January this year.
-
-The Presidential Media Unit shows that more than 200 children should be made in the country per year in the country.
-
-The surgery is being carried out at the Sri Jayewardenepura Hospital and the two value of Rs. 4 million has been paid to the Health Ministry.
-
-The presence of Rs.
-
-◼️
-
-[Data](articles/1d4cd04f.json)
-
-[Extended Data](ext_articles/1d4cd04f.ext.json)
-
----
-
-### Buying the minimum needs..
-
-*2024-02-11 20:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Buying-the-minimum-needs/110-276773) · `en`
-
-Despite the fluctuating prices of vegetables and other essential items in the country, consumers at the Delkanda market buy the minimum of what they need for the day. Pix by Kithsiri De Mel
-
-◼️
-
-[Data](articles/5b00758c.json)
-
-[Extended Data](ext_articles/5b00758c.ext.json)
-
----
-
-### 8 shop owners arrested for selling cigarettes to boys
-
-*2024-02-11 20:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176133) · `ta`
-
-Police have arrested 8 shop owners for selling cigarettes to boys.
-
-Eight people have been arrested for running shops near the main schools of the Hikkaduwa police division.
-
-Investigations have revealed that the suspects have sold cigarettes for schoolchildren coming to schools near schools.
-
-The surroundings have been carried out by a special action carried out in collaboration with parents and teachers based on schools.
-
-Police said that a case has been filed at the Galle Magistrate's Court against the arrested shop owners.
-
-◼️
-
-[Data](articles/fa8f4183.json)
-
-[Extended Data](ext_articles/fa8f4183.ext.json)
 
 ---

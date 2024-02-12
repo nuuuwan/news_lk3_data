@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 22:17:27**
+As of **2024-02-12 22:32:44**
 
 ## Newspaper Stats
 
-*Scraped **6,557** Articles*
+*Scraped **6,559** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,43 +16,87 @@ islandlk | 347
 dailyftlk | 348
 newsfirstlk | 363
 adalk | 556
-tamilmirrorlk | 800
 adaderanalk | 800
+tamilmirrorlk | 801
 virakesarilk | 819
-adaderanasinhalalk | 913
+adaderanasinhalalk | 914
 dailymirrorlk | 957
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,556 (100.0%) of 6,557 articles have been extended.
+6,557 (100.0%) of 6,559 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### මීගොඩ ආර්ථිකය කොල්ලකද්දී පොලීසිය නිදිද?
+### බංග්ලාදේශ ක්‍රිකට් කණ්ඩායමට අලුත් නායකයෙක්
+
+*2024-02-12 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193302) · `si`
+
+බංග්ලාදේශ ක්‍රිකට් පාලක මණ්ඩලය විසින් එරට ජාතික ක්‍රිකට් කණ්ඩායම සඳහා නව නායකයෙකු පත්කර තිබේ.
+
+මෙලෙස බංග්ලාදේශ කණ්ඩායමේ නායකයා ලෙස පත්කර ඇත්තේ නජ්මුල් හුසේන් ෂැන්ටෝය.
+
+බංග්ලාදේශ ක්‍රිකට් පාලක මණ්ඩලය උපුටා දක්වමින් විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ ඔහුව ටෙස්ට්, එක්දින සහ විස්සයි විස්ස යන කණ්ඩායම් තුනෙහිම නායකයා ලෙස පත්කර ඇති බවය.
+
+මෙම පුවත වාර්තාවන්නේ ඉදිරි විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේදී බංග්ලාදේශ කණ්ඩායම ශකිබ් අල් හසන් විසින් මෙහෙයවනු ඇති බවට වාර්තා පළවී තිබූ පසුබිමක වීම විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/4687b577.json)
+
+---
+
+### Is the police sleep when the Meegoda economy robes?
 
 *2024-02-12 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193301) · `si`
 
-මීගොඩ ආර්ථික මධ්‍යස්ථානයේ කොල්ලය සිදුවන අවස්ථාවේ එහි ආරක්ෂාව වෙනුවෙන් ස්ථාපිත කර ඇති පොලිස් මුරපොළේ නිලධාරීන් නිදා සිට ඇති බවට මීගොඩ ආර්ථික මධ්‍යස්ථානයේ වෙළෙඳ සංගමය චෝදනා කර තිබේ.
+The Meegoda Economic Center (Economic Center) has alleged that the police post officers have been selected for security at the Meegoda Economic Center.
 
-මීගොඩ ආර්ථික මධ්‍යස්ථානයේ වෙළෙඳ සංගමයේ ලේකම් චමින්ද රෝහණ කුමාර මහතා පැවසුවේ මිනිත්තු 30කට ආසන්න කාලයක් ගතවනතුරු කිසිදු පොලිස් නිලධාරියෙකු එම ස්ථානයට පැමිණ නොමැති බවය.
+Secretary of the Meegoda Economic Center Chaminda and Rohana Kumara said no police officer had not yet arrived at the scene.
 
-ආර්ථික මධ්‍යස්ථානයේ සේවකයින් එම පොලිස් මුරපොළ වෙත ගොස් එහි සිටි නිලධාරීන් නින්දෙන් ඇහැරවා ඔවුන් එහි රැගෙනවිත් ඇති බවටද වෙළෙඳ සංගමය වැඩිදුරටත් චෝදනා එල්ලකළේය.
+The Trade Association also charged the employees of the Economic Center to go to the police checkpoint.
 
-මීගොඩ ආර්ථික මධ්‍යස්ථානයේ ආරක්ෂාව වෙනුවෙන්ම ස්ථාපනය කළ පොලිස් මුරපොළ කොල්ලකෑම සිදුවූ වෙළෙඳසැළට ඉතාම ආසන්නයෙන් පිහිටා තිබීමද විශේෂත්වයකි.
+The police post installed at the Meegoda Economic Center is close to the robbery.
 
-මෙම තත්ත්වය හමුවේ වෙළෙඳ සංගමය පවසන්නේ එහි ආරක්ෂාව පිළිබඳව තැකීමක් නොකරන බවට මීට පෙර බලධාරීන් වෙත දන්වා ඇති බවය.
+In the face of this, the Trade Association has informed the authorities that it does not care about its security.
 
-මේ හේතුවෙන් ආර්ථික මධ්‍යස්ථානයට සපයා ඇති ආරක්ෂාව ප්‍රමාණවත් නොවන බව පවසමින් එහි වෙළෙඳුන් අද තොග වෙළෙඳාමෙන් ඉවත්විය.
+As a result, its traders have left the stock trade, claiming that the security provided to the Economic Center is not sufficient.
 
-සිද්ධිය සම්බන්ධයෙන් මේ දක්වා කිසිවෙකුත් අත්අඩංගුවට ගැනීමට පොලිසිය සමත්ව නැති අතර, සැකකරුවන් සොයා විමර්ශන ආරම්භ කර තිබේ.
+Police have not been able to arrest anyone in connection with the incident and investigations have been started.
 
-...
+Two arms were launched around 1.25 am this morning.
+
+The robbers shooting a shot and the taximan was slightly injured.
+
+◼️
 
 [Data](articles/d98cc8ad.json)
+
+[Extended Data](ext_articles/d98cc8ad.ext.json)
+
+---
+
+### சஜித்தை கடுமையாக சாடுகிறார் பாட்டலி
+
+*2024-02-12 21:31:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தை-கடுமையாக-சாடுகிறார்-பாட்டலி/175-333090) · `ta`
+
+ஐக்கிய மக்கள் சுதந்திர முன்னணியின் தலைவர் எம்.பி பாட்டலி சம்பிக்க ரணவக்க, எதிர்க்கட்சித் தலைவரும், ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினருமான சஜித் பிரேமதாசவின் நடத்தையை கண்டித்துள்ளார்.
+
+”பாராளுமன்ற உறுப்பினர் பிரேமதாசவை தனிநபர் நிகழ்ச்சியை நடத்த அனுமதிக்க மாட்டோம்” என பொது நிகழ்வு ஒன்றில் உரையாற்றிய பாராளுமன்ற உறுப்பினர் சம்பிக்க ரணவக்க தெரிவித்தார்.
+
+அண்மையில் பாராளுமன்றத்தில் அரசாங்கத்தின் கொள்கைப் பிரகடனம் தொடர்பான ஜனாதிபதியின் உரையின் போது எதிர்க்கட்சிகள் வெளியேறிய போது அவர்களுடன் இணைந்து வெளிநடப்புச் செய்யாததற்காக சில எம்.பி.க்களுடன் தானும் தண்டிக்கப்பட்டுள்ளதாக அவர் தெரிவித்தார்.
+
+பாராளுமன்ற உறுப்பினர் சஜித் பிரேமதாசவின் உத்தரவின் பேரில் பாராளுமன்றத்தில் அறிக்கைகளை வெளியிடுவதற்கான நேரம் அதிகபட்சமாக ஐந்து நிமிடங்களாக குறைக்கப்பட்டுள்ளதாக பாராளுமன்ற உறுப்பினர் சம்பிக்க ரணவக்க தெரிவித்துள்ளார்.
+
+எதிர்க்கட்சித் தலைவரின் செயற்பாட்டைக் கண்டித்துள்ள சம்பிக்க ரணவக்க, தமதுரு செயற்பாடுகளைத் தடுக்கவும், தனநபர் நிகழ்ச்சி நடத்தவும் இடமளிக்க மாட்டோம் என எச்சரித்துள்ளார்.
+
+◼️
+
+[Data](articles/7a8eb722.json)
 
 ---
 
@@ -1995,45 +2039,5 @@ It is noteworthy that the plantation workers are carrying out a struggle to evic
 [Data](articles/c6339e88.json)
 
 [Extended Data](ext_articles/c6339e88.ext.json)
-
----
-
-### A Notification for Scholarship Haphana
-
-*2024-02-12 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193279) · `si`
-
-The Ministry of Education says that the 5th scholarship appeals applications can now be referred to the online system of 520s.
-
-Accordingly, the students' appeals to the students to be included in grade 6, 2024, on the results of Grade 5 scholarship probe in 2023. 02. 1324 to 2024. 02. Now can be directed to the online system until 29 days.
-
-The official website of the Ministry of Education is the ability to make appeals for a maximum of three schools and direct appeals through http://g6application.gov.lk/#/ extension.Exist.
-
-◼️
-
-[Data](articles/8f119023.json)
-
-[Extended Data](ext_articles/8f119023.ext.json)
-
----
-
-### Sri Lanka Police deny arrest under online safety law
-
-*2024-02-12 12:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-deny-arrest-under-online-safety-law-150624/) · `en`
-
-ECONOMYNEXT – Sri Lanka has not arrested anyone under the recently passed online safety law, Police spokesman DIG Nihal Thalduwa said, despite the minister in charge claiming that one person was arrested for defamation.
-
-“No one has been arrested under the online safety act. We haven’t even appointed a commission yet,” Thalduwa told EconomyNext.
-
-Media reports of an arrest followed a speech made by Minister of Public Security Tiran Alles, who alleged that an individual was arrested by the CID under the new law.
-
-Alles claimed that the individual had given a statement after the arrest that he had received money from a politician and was paid in dollars.
-
-However, Thalduwa maintained that no one had been arrested by the CID.
-
-...
-
-[Data](articles/793440fe.json)
-
-[Extended Data](ext_articles/793440fe.ext.json)
 
 ---

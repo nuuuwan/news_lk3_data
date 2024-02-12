@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 22:32:44**
+As of **2024-02-12 22:49:50**
 
 ## Newspaper Stats
 
-*Scraped **6,559** Articles*
+*Scraped **6,562** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,54 @@ economynextcom | 337
 islandlk | 347
 dailyftlk | 348
 newsfirstlk | 363
-adalk | 556
+adalk | 557
 adaderanalk | 800
 tamilmirrorlk | 801
 virakesarilk | 819
 adaderanasinhalalk | 914
-dailymirrorlk | 957
+dailymirrorlk | 959
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,557 (100.0%) of 6,559 articles have been extended.
+6,559 (100.0%) of 6,562 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### බංග්ලාදේශ ක්‍රිකට් කණ්ඩායමට අලුත් නායකයෙක්
+### Private sector prefers to handle hospital services: GMOF president
+
+*2024-02-12 22:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Private-sector-prefers-to-handle-hospital-services-GMOF-president/108-276870) · `en`
+
+Colombo, Feb 12 (Daily Mirror) - The country does not require the services of professionals from these health trade unions, as there is a preference for the private sector to handle these hospital services, Government Medical Officers' Forum (GMOF) president Dr. Rukshan Bellana said today while comenting on the scheduled island-wide strike by health sector trade unions, except doctors.
+
+Addresing the media, he said that the country's health sector solely requires professionals in the medical, nurses' and necessary administrative staff, to effectively operate a state hospital. He proposed outsourcing services such as laboratory services, asserting that this approach could lead to a threefold reduction in expenses.
+
+...
+
+[Data](articles/a6696838.json)
+
+---
+
+### New leader of Bangladesh cricket team
 
 *2024-02-12 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193302) · `si`
 
-බංග්ලාදේශ ක්‍රිකට් පාලක මණ්ඩලය විසින් එරට ජාතික ක්‍රිකට් කණ්ඩායම සඳහා නව නායකයෙකු පත්කර තිබේ.
+Bangladesh Cricket Board has appointed a new leader for the country's national cricket team.
 
-මෙලෙස බංග්ලාදේශ කණ්ඩායමේ නායකයා ලෙස පත්කර ඇත්තේ නජ්මුල් හුසේන් ෂැන්ටෝය.
+Njjamul was appointed as the leader of the Bangladesh team.
 
-බංග්ලාදේශ ක්‍රිකට් පාලක මණ්ඩලය උපුටා දක්වමින් විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ ඔහුව ටෙස්ට්, එක්දින සහ විස්සයි විස්ස යන කණ්ඩායම් තුනෙහිම නායකයා ලෙස පත්කර ඇති බවය.
+The foreign media has reported that he has been appointed as the leader of the Test, ODI and Twenty20 teams.
 
-මෙම පුවත වාර්තාවන්නේ ඉදිරි විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේදී බංග්ලාදේශ කණ්ඩායම ශකිබ් අල් හසන් විසින් මෙහෙයවනු ඇති බවට වාර්තා පළවී තිබූ පසුබිමක වීම විශේෂත්වයකි.
+This news is the context of reports that the Bangladesh team will lead the Bangladesh in the next T20 World Twenty World Cup.
 
 ◼️
 
 [Data](articles/4687b577.json)
+
+[Extended Data](ext_articles/4687b577.ext.json)
 
 ---
 
@@ -80,23 +96,41 @@ The robbers shooting a shot and the taximan was slightly injured.
 
 ---
 
-### சஜித்தை கடுமையாக சாடுகிறார் பாட்டலி
+### Sajith
 
 *2024-02-12 21:31:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தை-கடுமையாக-சாடுகிறார்-பாட்டலி/175-333090) · `ta`
 
-ஐக்கிய மக்கள் சுதந்திர முன்னணியின் தலைவர் எம்.பி பாட்டலி சம்பிக்க ரணவக்க, எதிர்க்கட்சித் தலைவரும், ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினருமான சஜித் பிரேமதாசவின் நடத்தையை கண்டித்துள்ளார்.
+United People's Freedom Alliance (UPFA) leader MP Patali Champika Ranawaka has condemned the behavior of Opposition Leader and United People's Power Member Sajith Premadasa.
 
-”பாராளுமன்ற உறுப்பினர் பிரேமதாசவை தனிநபர் நிகழ்ச்சியை நடத்த அனுமதிக்க மாட்டோம்” என பொது நிகழ்வு ஒன்றில் உரையாற்றிய பாராளுமன்ற உறுப்பினர் சம்பிக்க ரணவக்க தெரிவித்தார்.
+Speaking at a public event, MP Champika Ranawaka said, "We will not allow Parliamentarian Premadasa to be held."
 
-அண்மையில் பாராளுமன்றத்தில் அரசாங்கத்தின் கொள்கைப் பிரகடனம் தொடர்பான ஜனாதிபதியின் உரையின் போது எதிர்க்கட்சிகள் வெளியேறிய போது அவர்களுடன் இணைந்து வெளிநடப்புச் செய்யாததற்காக சில எம்.பி.க்களுடன் தானும் தண்டிக்கப்பட்டுள்ளதாக அவர் தெரிவித்தார்.
+He said he had been punished with some MPs for not walking along with the opposition parties during the president's speech on the government's policy declaration in Parliament recently.
 
-பாராளுமன்ற உறுப்பினர் சஜித் பிரேமதாசவின் உத்தரவின் பேரில் பாராளுமன்றத்தில் அறிக்கைகளை வெளியிடுவதற்கான நேரம் அதிகபட்சமாக ஐந்து நிமிடங்களாக குறைக்கப்பட்டுள்ளதாக பாராளுமன்ற உறுப்பினர் சம்பிக்க ரணவக்க தெரிவித்துள்ளார்.
+Parliamentarian Sampika Ranawaka has said that the time of issuing reports in Parliament on the orders of MP Sajith Premadasa has been reduced to a maximum of five minutes.
 
-எதிர்க்கட்சித் தலைவரின் செயற்பாட்டைக் கண்டித்துள்ள சம்பிக்க ரணவக்க, தமதுரு செயற்பாடுகளைத் தடுக்கவும், தனநபர் நிகழ்ச்சி நடத்தவும் இடமளிக்க மாட்டோம் என எச்சரித்துள்ளார்.
+Sampika Ranawaka, who condemned the action of the opposition leader, has warned that he will not be allowed to prevent his activities and hold his performance.
 
 ◼️
 
 [Data](articles/7a8eb722.json)
+
+[Extended Data](ext_articles/7a8eb722.ext.json)
+
+---
+
+### Wild elephants waiting to feed on stubble
+
+*2024-02-12 21:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wild-elephants-waiting-to-feed-on-stubble/108-276856) · `en`
+
+Ampara, Feb 12 (Daily Mirror) - Herds of wild elephants from Buddhangala sanctuary in Ampara roaming into the paddy fields after harvest to feast on crop stubble is a usual sight in Dighawapi and Allkadu areas.
+
+It is customary for them to spend hours in wallowing in the Walathapitiya tank. However, the farmers have fenced out the fields to guard them against marauding herds until the harvest is over by the end of this month. They would allow the jumbos to feed on the stubble after the harvest.
+
+However, the wildlife conservators from Walathapitiya Wildlife Office are exercising supervision round the clock to provide protection to the villages.
+
+◼️
+
+[Data](articles/40e11c1d.json)
 
 ---
 
@@ -247,6 +281,24 @@ The Memorandum of Understanding (MoU) will provide more opportunities for entrep
 [Data](articles/2c3a55a7.json)
 
 [Extended Data](ext_articles/2c3a55a7.ext.json)
+
+---
+
+### ජනපති කිව්වොත් යුක්තිය මෙහෙයුම නවත්වනවා
+
+*2024-02-12 19:57:21* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-කිව්වොත්-යුක්තිය-මෙහෙයුම-නවත්වනවා/11-408041) · `si`
+
+යුක්තිය මෙහෙයුම නවත්වන ලෙසට තුන් හතර දෙනෙකු කෑ ගැසුවද මහා සංඝරත්නයේ සහ, රටේ ජනතාවගෙන් සියයට අනූනමයක්ම යුක්තිය මෙහෙයුම නොනවත්වාම ක්‍රියාත්මක කරන ලෙසට ඉල්ලා සිටින බව වැඩ බලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පැවසයි.
+
+රටේ ජනාධිපතිවරයා , අගමැතිවරයා හා ව්‍යවස්ථාදායකය මෙම මෙහෙයුම නවත්වන ලෙසට උපදෙස් ලබා දෙන්නේ නම් පමණක්  මෙම මෙහෙයුම නවත්වන බවත්, එසේ නොමැතිව මෙරටින් මත්ද්‍රව්‍ය ජාවාරම සහ සංවිධානාත්මක අපරාධ සම්පූර්ණයෙන්ම තුරන් කරන තෙක් මෙම මෙහෙයුම  ක්‍රියාත්මක කරන බවද හෙතෙම පැවසීය.
+
+කුමන මෙහෙයුමක් ආරම්භ කළත් මත්කුඩු ජාවාරම්කරුවන්, මත්පැන් ජාවාරම්කරුවන්ට අගතියක් වූ විට ඔවුන් තමන්ට පොලිසියෙන් හිරහැර සිදුවන බවට,  සඳහන් කරමින් පොලිසියට පැමිණිළි කරන බවත්,  මෙතෙක් ඒ තත්වය පැවතුනද යුක්තිය මෙහෙයුමේදී එවැනි කිසිදු පැමිණිල්ලක් මේ දක්වා පොලිසිය වෙත ලැබී නොමැති බවද වැඩබලන පොලිස්පතිවරයා සඳහන් කරයි.
+
+රටේ නීතිය, ජනතාවගේ මානව හිමිකම්,සහ  සදාචාරය, අනුගත වෙමින් මෙම මෙහෙයුම අඛණ්ඩව සිදුකරන බවද වැඩ බලන පොලිස්පතිවරයා වැඩිදුරටත් පැවසීය.
+
+...
+
+[Data](articles/5a61cd27.json)
 
 ---
 
@@ -1979,65 +2031,5 @@ President Ranil Wickremesinghe and Indian Prime Minister Narendra Modi are invol
 [Data](articles/5f981053.json)
 
 [Extended Data](ext_articles/5f981053.ext.json)
-
----
-
-### Sri Lanka extends deadline for SriLankan Airlines bids
-
-*2024-02-12 12:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-extends-deadline-for-srilankan-airlines-bids-150628/) · `en`
-
-ECONOMYNEXT – The deadline to submit Requests for Qualification for SriLankan Airlines has been extended further.
-
-“The Prequalification Application Submission Deadline is amended to March 5, 2024,” a statement by the State Owned Enterprises Restructuring Unit said.
-
-The SRU will issue requests for proposal documents to qualified investors who express interest. (Colombo/Feb12/2024)
-
-◼️
-
-[Data](articles/72fd86cb.json)
-
-[Extended Data](ext_articles/72fd86cb.ext.json)
-
----
-
-### Kasippu meets Kasippu by motorcycle selling fish
-
-*2024-02-12 12:54:02* · [`adalk`](https://www.ada.lk/breaking_news/මාලු-විකුණන-යතුරු-පැදියෙන්-කසිප්පු-හමුවෙයි/11-408025) · `si`
-
-The Katunayake Police, Katunayake Police, the Katunayake Police, the Katunayake Police, the Katunayake Police, who sold Kasippu with a large number of Rs.
-
-He is a 44 year old resident of Henatiyiyana.He had received information on Harunara Police Constables in the Katunayake Police that he was carrying out this racket from a year.
-
-Accordingly, the officers of the Katunayake Police have taken measures to arrest him, and the man had been done with the arrest of the eradication of the corruption.
-
-Police have arrested about 75,000 Kasippu litttes worth about 75,000 ml.Preliminary investigations have been revealed that the police were increased.The suspect is to be produced before the Minuwangoda Magistrate's Court.
-
-◼️
-
-[Data](articles/420eb4c5.json)
-
-[Extended Data](ext_articles/420eb4c5.ext.json)
-
----
-
-### School student abuse;Two arrests
-
-*2024-02-12 12:52:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாடசாலை-மாணவி-துஷ்பிரயோகம்-இருவர்-கைது/76-333067) · `ta`
-
-Police have arrested two persons aged 60 and 40 for allegedly sexually abusing a 13 -year -old student from the Mayfield estate in the Dimbulapatana police division.
-
-A student who was abused has been admitted to the Klangan Base Hospital for legal authorities for legal authorities.
-
-During the preliminary inquiry carried out by the police, it was revealed that a 60 -year -old man was abused and assisted by a 40 -year -old man.
-
-The Magistrate has ordered the suspects to be remanded until the 19th of this month when the Hatton Court of Appeal was produced before the Hatton Court of Justice on Sunday (11).
-
-It is noteworthy that the plantation workers are carrying out a struggle to evict the two arrested and their families.
-
-◼️
-
-[Data](articles/c6339e88.json)
-
-[Extended Data](ext_articles/c6339e88.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 16:17:41**
+As of **2024-02-12 16:32:46**
 
 ## Newspaper Stats
 
-*Scraped **6,478** Articles*
+*Scraped **6,479** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 545
 tamilmirrorlk | 791
 adaderanalk | 793
 virakesarilk | 806
-adaderanasinhalalk | 902
+adaderanasinhalalk | 903
 dailymirrorlk | 948
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,478 (100.0%) of 6,478 articles have been extended.
+6,478 (100.0%) of 6,479 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### ඇෆ්ගනිස්තානයට එරෙහිව එන අපේ විස්සයි විස්ස කණ්ඩායම
+
+*2024-02-12 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193291) · `si`
+
+ඇෆ්ගනිස්තානයට එරෙහිව පැවැත්වෙන විස්සයි විස්ස තරගාවලිය සඳහා එක්වන ශ්‍රී ලංකා විස්සයි විස්ස සංචිතය නම්කර තිබේ.
+
+දඹුල්ල ක්‍රිකට් ක්‍රීඩාංගණයේදී එළැඹෙන 17,19 සහ 21 වනදා එම තරග පැවැත්වීමට නියමිතව ඇත.
+
+මෙම සංචිතය සඳහා දුෂ්මන්ත චමීර තෝරාගෙන තිබූ නමුත් එක්දින තරගාවලියේදී ඇතිවූ ආබාධ තත්ත්වය හේතුවෙන් ඔහු වෙනුවන්ට සංචිතයට බිනුර ප්‍රනාන්දු කැඳවා ඇත.
+
+◼️
+
+[Data](articles/219d5280.json)
+
+---
 
 ### Amarakeerthi Athukorala murder event - Supreme Court orders
 
@@ -2005,23 +2021,5 @@ Accordingly, for those who complete the relevant conditions, this surgery will b
 [Data](articles/d0beaa40.json)
 
 [Extended Data](ext_articles/d0beaa40.ext.json)
-
----
-
-### The President meets Gamini Jayawickrama Perera
-
-*2024-02-12 03:47:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காமினி-ஜெயவிக்ரம-பெரேராவை-சந்தித்தார்-ஜனாதிபதி/175-333047) · `ta`
-
-President Ranil Wickremesinghe visited his residence in Kadugampala yesterday to inquire about the welfare of former minister Gamini Jayawickrama Perera.
-
-At this time, President Ranil Wickremesinghe inquired about the welfare of the former minister and engaged in a conversation with him for a while.
-
-The President has heard about him about his family members and spoke with the people of Gamini Jayawickrama Perera, who gathered together near the house of Perera.. (A)
-
-◼️
-
-[Data](articles/7abfd6be.json)
-
-[Extended Data](ext_articles/7abfd6be.ext.json)
 
 ---

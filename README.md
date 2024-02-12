@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 17:33:31**
+As of **2024-02-12 17:53:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 953
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,496 (99.9%) of 6,500 articles have been extended.
+6,500 (100.0%) of 6,500 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ On 08 June 2023, the Government of Sri Lanka signed an agreement with RM Parks I
 
 [Data](articles/21649e90.json)
 
+[Extended Data](ext_articles/21649e90.ext.json)
+
 ---
 
 ### President Ranil congratulates Indian PM on Ram Temple opening, hails bilateral ties
@@ -65,6 +67,8 @@ During the launch, President Wickremesinghe underlined the long historical relat
 ...
 
 [Data](articles/b5946709.json)
+
+[Extended Data](ext_articles/b5946709.ext.json)
 
 ---
 
@@ -249,6 +253,8 @@ Addressing the launching ceremony virtually, PM Modi said he was confident that 
 ...
 
 [Data](articles/b10166e4.json)
+
+[Extended Data](ext_articles/b10166e4.ext.json)
 
 ---
 
@@ -439,6 +445,8 @@ On January 08, the Cabinet of Ministers approved President Ranil Wickremesingheâ
 ...
 
 [Data](articles/34f365c9.json)
+
+[Extended Data](ext_articles/34f365c9.ext.json)
 
 ---
 

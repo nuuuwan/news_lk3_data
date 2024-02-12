@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 16:48:07**
+As of **2024-02-12 17:02:35**
 
 ## Newspaper Stats
 
-*Scraped **6,483** Articles*
+*Scraped **6,495** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,136 @@ economynextcom | 325
 islandlk | 344
 dailyftlk | 348
 newsfirstlk | 363
-adalk | 547
+adalk | 548
 tamilmirrorlk | 792
 adaderanalk | 793
-virakesarilk | 806
-adaderanasinhalalk | 903
-dailymirrorlk | 948
+virakesarilk | 811
+adaderanasinhalalk | 904
+dailymirrorlk | 953
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,479 (99.9%) of 6,483 articles have been extended.
+6,483 (99.8%) of 6,495 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### ඉන්ධන සැපයුම ගැන රජය හදිසියේම තීරණය
+
+*2024-02-12 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193292) · `si`
+
+ෂෙල්-ආර් ඒ,එම් පාක්ස් සමාගම සහ ලංකා ඛනිජතෙල් තොග ගබඩා පර්යන්ත සමාගම ඛනිජතෙල් තොග ගබඩා හා බෙදාහැරීමේ ගිවිසුමට එළැඹ තිබේ.
+
+එම ගිවිසුමට එළැඹීම අද (12) කොළොන්නාව ලංකා ඛනිජතෙල් තොග ගබඩා පර්යන්ත සමාගම් ප්‍රධාන කාර්යාලයේදී සිදුකර ඇත.
+
+මේ අනුව ලංකා ඛනිජතෙල් තොග ගබඩා පර්යන්ත සමාගමට, ෂෙල්-ආර් ඒ,එම් පාක්ස් සමාගමට අයත් ඉන්ධන තොග මෙරට තුළ ගබඩා කිරීම හා බෙදාහැරීම ආශ්‍රිත කටයුතු සඳහා ප්‍රතිපාදන සැලසෙනු ඇත.
+
+පසුගිය වසරේ ජුලි මස 08 වනදා මීට අදාළව පූර්ව එකඟතා ගිවිසුමකට අත්සන් තැබූ අතර එම ඉන්ධන බෙදාහැරීමේ කටයුතු කඩිනමින් ඇරඹීම සඳහා විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතාගේ උපදෙස් මත මෙම ගිවිසුම්ගතවීම සිදුකර ඇත.
+
+◼️
+
+[Data](articles/2c7ccc04.json)
+
+---
+
+### சப்ரகமுவ பல்கலைக்கழக சிரேஷ்ட மாணவர்கள் 7 பேருக்கும் விளக்கமறியல்!
+
+*2024-02-12 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176200) · `ta`
+
+சப்ரகமுவ பல்கலைக்கழக விவசாய பீடத்தின் இரண்டாம் வருட மாணவி மற்றும் இரு மாணவர்களைத் தாக்கிய சம்பவம் தொடர்பில்  கைது செய்யப்பட்டு நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட 7 சிரேஷ்ட மாணவர்களையும் நாளை  (13) வரை விளக்கமறியலில் வைக்குமாறு பலாங்கொடை நீதிவான்  ஹெஷானி ரொட்ராகோ இன்று (12) உத்தரவிட்டார்.
+
+சமனலவெவ பொலிஸாரிடம் சரணடைந்ததையடுத்து  பொலிஸார் அவர்களைக் கைது செய்து பலாங்கொடை நீதிவான் நீதிமன்றில் ஆஜர்படுத்தியபோதே இவ்வாறு உத்தரவிடப்பட்டது.
+
+சப்ரகமுவ,  பல்கலைக்கழகத்தின் விவசாய பீடத்தின் சிரேஷ்ட மாணவர்கள் குழுவொன்று நேற்று (09) இரவு மின்சாரத்தை துண்டித்த பின் இவர்களைத் தடிகளால் தாக்கியதகாக விசாரணைகளில் தெரிய வருகிறது.
+
+◼️
+
+[Data](articles/c9f6d17b.json)
+
+---
+
+### Protesters gather, mother guides daughters
+
+*2024-02-12 16:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protesters-gather-mother-guides-daughters/110-276844) · `en`
+
+The Principals' Service Association staged a demonstration in front of the Ministry of Education in Battaramulla, Colombo today (Monday 12) over several demands. As the protest was on, a mother is passing the protestors alongside her two daughters, probably taking them home after school. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/dfb46975.json)
+
+---
+
+### Complaint over suspected umpire exam paper leak
+
+*2024-02-12 16:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Complaint-over-suspected-umpire-exam-paper-leak/108-276845) · `en`
+
+Colombo, Feb. 12 (Daily Mirror) - A complaint has been lodged with the Sri Lanka Human Rights Commission (SLHRC) alleging that the Sri Lanka Cricket Umpires' Committee had leaked papers from last year's umpires' exam.
+
+Chandana Kannangara, a Grade Four umpire from the Sri Lanka Cricket Board, told the media outside the SLHRC after lodging the complaint that the Sri Lanka Cricket Board had conducted an examination last year to upgrade the Grade Four umpires to Grade Three, with over 100 candidates participating.
+
+Kannangara alleged that two individuals, a former Test cricket umpire and a member of the Sri Lanka Cricket Umpires' Committee, had leaked a paper containing 60 questions to several umpires a week before the exam. He claimed that 25 questions from the leaked paper were included in the official exam.
+
+...
+
+[Data](articles/9daf7534.json)
+
+---
+
+### Senior Grama Niladhari arrested for sexually abusing female Grama Niladhari
+
+*2024-02-12 16:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Senior-Grama-Niladhari-arrested-for-sexually-abusing-female-Grama-Niladhari/108-276846) · `en`
+
+Kalpitiya, Feb 12 (Daily Mirror) - A senior Grama Niladhari of the Kalpitiya Divisional Secretariat was arrested for allegedly sexually abusing a female Grama Niladhari of the area, police said.
+
+The victim has told police that she had first made a complaint to the Divisional Secretary, but he had failed to take any proper action.
+
+She stated that the suspect who called over at her house when she was alone under pretext of taking over the tab computer issued to her for duties relating to the on going population sensus since she had been removed from those duties.
+
+She further stated that the suspect had accused her of neglecting her duties and had caught her by her hand and that she had submitted her resignation from the post due to the pain of mind caused by the incident.
+
+A senior police officer said the suspect is to be produced before courts.
+
+◼️
+
+[Data](articles/5605cac2.json)
+
+---
+
+### Sri Lanka T20I squad announced ahead of Afghanistan series
+
+*2024-02-12 16:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-T20I-squad-announced-ahead-of-Afghanistan-series/108-276843) · `en`
+
+Colombo, Feb. 12 (Daily Mirror) - In preparation for the upcoming T20I series against Afghanistan, the Sri Lanka Cricket Selection Committee has announced the 16-member squad.
+
+The announcement was made following the approval of the squad by the Minister of Sports and Youth Affairs, Harin Fernando.
+
+The T20I series is scheduled to take place at the Rangiri Dambulla International Cricket Stadium on February 17th, 19th, and 21st, with all matches set to commence at 19:00 local time.
+
+◼️
+
+[Data](articles/e0c5383f.json)
+
+---
+
+### தரம் 6 இற்கு மாணவர்களை சேர்க்கும் விண்ணப்பம் கோரப்பட்டுள்ளது
+
+*2024-02-12 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176194) · `ta`
+
+2023 ஆம் ஆண்டிற்கு இடம்பெற்ற தரம் 5 புலமைப்பரிசில் பரீட்சை பெறுபேறுகளின்படி, மாவட்ட வெட்டுப்புள்ளிக்கு மேலதிகமான புள்ளிகளைப் பெற்று தகுதி பெற்ற மாணவர்களுக்கு, 2024 ஆம் ஆண்டில் தரம் 6இல் புதிய பாடசாலைகளில் சேர்ப்பதற்கான விண்ணப்பங்கள் கோரப்பட்டுள்ளன.
+
+முறையாக பூர்த்தி செய்யப்பட்ட விண்ணப்பங்களை நாளை செவ்வாய்க்கிழமை (13) முதல்  எதிர்வரும் டிசம்பர் 13ஆம் திகதிக்கு முன்னர் வழங்குமாறு பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+
+இதன்படி, விண்ணப்பதாரர்கள் கல்வி அமைச்சின் உத்தியோகபூர்வ இணையத்தளமான www.moe.gov.lk அல்லது http://g6application.moe.gov.lk/#/ என்ற இணையத்தளத்திற்கு சென்று நேரடியாக விண்ணப்பங்களை அனுப்புமாறு அமைச்சு கேட்டுக்கொண்டுள்ளது.
+
+◼️
+
+[Data](articles/f4a6f1fd.json)
+
+---
 
 ### Our Twenty Twenty Twenty Twenty group that comes against Afghanistan
 
@@ -50,27 +164,29 @@ Damadantha Chameera was selected for the squad, but due to the condition of the 
 
 ---
 
-### නාදුනන කාන්තා මළසිරුරක්
+### Body of unidentified women
 
 *2024-02-12 15:35:59* · [`adalk`](https://www.ada.lk/breaking_news/නාදුනන-කාන්තා-මළසිරුරක්/11-408035) · `si`
 
-ලිදුල පොලිස් බල ප්‍රදේශයේ නාගසේන ආග්‍රෝවා ඔයේ තිබි කාන්තා මල සිරුරක් 12වන දින හමුවි ඇත.
+Nagasena was found in the Nagasena Agrawa Oya on the 12th.
 
-මේ පිලිබදව කරන ලද විමසිමකදි අදහස් දැක්වු ලිදුල පොලිසියේ නිලධාරියකු පවසන ලද්දේ නාගසේන ආගරවත්ත
+A Liduli Police officer who commented on this inquiry was made by the Nagasena Agreendu
 
-ප්‍රදේශයේ අග්‍රෝවා ඔයේ නාදුනන කාන්තා මල සිරුරක් පවතින බවට ලද තොරතුරක් මත පරික්ෂන ආරම්භ කල
+Testing of a unidentified women's body, a unidentified women's corps in the area of Agrawa Oya area has been investigated
 
-එම පරික්ෂන මත ආග්‍රෝවා ඔයේ කාන්තා මල සිරුරක් තිබෙන බැවින් එම ප්‍රදේශයේ ආරක්ෂාව තර කර ඒ පිලිබදව
+As a result of a women's body, strengthening the security of the area as a man of the Agrawa Oya has a man of the Agrawa Oya on these investigations
 
-නුවරඑළිය දිසා අධිකරණය දැනුවත් කිරිමට පියවර ගත් බවද එම නිලධාරියා පැවසිය.
+The official said that the Nuwara Eliya District Court has also said.
 
-නුවරඑළිය දිසා විනිසුරුවරයාගේ ස්ථානිය පරික්ෂාවෙන් පසු මෙම මල සිරුර ගොඩ ගැනිමට පියවර ගන්නා බවත් මෙම
+The site is being taken to build the body after inspection of the Nuwara Eliya District Judge's site
 
-මල සිරුර පිලිබදව වැඩි දුර පරික්ෂන ලිදුල පොලිසිය විසින්ආ රම්භ කර ඇති බවද එම නිලධාරියා වැඩි දුරටත් පවසන ලදි.
+The officer added that the further investigations of the body have been reported to the body.
 
 ◼️
 
 [Data](articles/3ee0de0e.json)
+
+[Extended Data](ext_articles/3ee0de0e.ext.json)
 
 ---
 
@@ -105,6 +221,38 @@ The following will be postponed to tomorrow (13).
 [Data](articles/fb9f21c7.json)
 
 [Extended Data](ext_articles/fb9f21c7.ext.json)
+
+---
+
+### நிறைவேற்று அதிகாரஜனாதிபதி முறை நீக்கத்தில் ரணில் தீவிரகவனம் - சர்வஜனவாக்கெடுப்பா நாடாளுமன்ற தேர்தலா முதலில் என தெரியாத நிலை- மைத்திரிபால சிறிசேன
+
+*2024-02-12 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/176190) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க நிறைவேற்று அதிகார ஜனாதிபதிமுறையை நீக்குவது குறித்து ஆராய்ந்து வருகின்றார் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்துள்ளார்.
+
+நிறைவேற்று அதிகார ஜனாதிபதி முறையை நீக்குவது குறித்து ஆராய்வதற்காக சட்டத்தரணிகள் குழுவொன்றை ஜனாதிபதி நியமித்துள்ளார் என தெரிவித்துள்ள முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன சர்வஜனவாக்கெடுப்பா நாடாளுமன்ற தேர்தலா முதலில் இடம்பெறும் என தெரியாத நிலை காணப்படுவதாகவும் குறிப்பிட்டுள்ளார்.
+
+முன்னாள் சபாநாயகர் கருஜெயசூர்ய தலைமையிலான குழுவொன்றை நிறைவேற்று அதிகாரமுறை நீக்கம் தொடர்பாகஆராய்வதற்காக ரணில்விக்கிரமசிங்க நியமித்துள்ளார் என மைத்திரிபால சிறிசேன தெரிவித்துள்ளார்.
+
+நாடாளுமன்ற தேர்தலா அல்லது சர்வஜனவாக்கெடுப்பா முதலில் வரும் என சொல்ல முடியாத நிலை காணப்படுகின்றது இது உங்கள் மத்தியில் காணப்படும் கேள்விமாத்திரமல்ல எனக்கும் இந்த கேள்வி உள்ளது என மைத்திரிபால சிறிசேன தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/e1b68c89.json)
+
+---
+
+### சுற்றாடல் நீதி மய்யத்தின் மனுவை விசாரணை செய்ய மேன்முறையீட்டு நீதிமன்றம் அனுமதி!
+
+*2024-02-12 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176188) · `ta`
+
+சிங்கராஜா வனப் பகுதியின்  பாதுகாப்பு  வலயத்துக்குள்  வீதி மற்றும் குளங்களை அமைப்பதற்கு கடந்த அரசாங்கம் எடுத்த தீர்மானத்துக்கு  எதிராக சுற்றாடல் நீதி மய்யம் சமர்ப்பித்த மனுவை விசாரணை செய்ய மேன்முறையீட்டு நீதிமன்றம் இன்று (12) அனுமதி வழங்கியுள்ளது.
+
+இதன்படி, மனுவில் பிரதிவாதிகளாக குறிப்பிடப்பட்டுள்ள வனஜீவராசிகள் அமைச்சர்,  சுற்றாடல் அமைச்சர், மத்திய சுற்றாடல் அதிகார சபை, வனஜீவராசிகள் பணிப்பாளர் நாயகம், வனப் பாதுகாப்புப் பணிப்பாளர் நாயகம் உள்ளிட்டோருக்கு நீதிமன்றம் அழைப்பாணை அனுப்பியுள்ளது.
+
+◼️
+
+[Data](articles/d1742208.json)
 
 ---
 
@@ -150,21 +298,23 @@ However, media reports have stated that the accusation of the Israeli was charge
 
 ---
 
-### රජයට වියදම් පාලනය කරන ගන්න බැරිවෙයි
+### The government cannot control spending
 
 *2024-02-12 14:45:14* · [`adalk`](https://www.ada.lk/breaking_news/රජයට-වියදම්-පාලනය-කරන-ගන්න-බැරිවෙයි/11-408034) · `si`
 
-රජය අපේක්ෂා කළ අයුරින් වියදම් පාලනය කර ගැනීමට නොහැකි වී ඇති බවට දත්ත හරහා පෙනෙන බව පේරාදෙණිය විශ්වවිද්‍යාලයේ ආර්ථික විද්‍යා සහ සංඛ්‍යාන අධ්‍යයන අංශයේ මහාචාර්ය වසන්ත අතුකෝරල මහතා පවසයි.
+Professor Wasantha Athukorala, the Department of Economics and Statistical Studies of the Department of Economics and Statistical Studies of the University of Peradeniya says that the government is expected to control expenditure.
 
-මේ අනුව පසුගිය වසරේදී රජයේ ආදායම බිලියන 1300කින් පමණ වැඩිවි ඇති බවත් පසුගිය වසදෙී රජයේ ආදායම වැඩි වී ඇත්තේ බිලියන 900කින් බවත් ඔහු පැවැසීය.
+Accordingly, the government revenue has increased by Rs.
 
-2023 වසරේ මුල් මාස 11ක දත්ත විශ්ලේෂණය කරමින් මහාචාර්යවරයා  මේ බව පවසයි.
+The professor is analyzing the first 11 months of the year of 2023, the professor said.
 
-මාසයක් තුළ රජයේ වියදම  රුපියල් බිලියන 125කට ආසන්න ප්‍රමාණයකින් ඉහළ ගොස් ඇති බවත් ඒ අනුව දිනක රජයේ වියදම  රුපියල් බිලියන 4කින් පමණ වැඩිවී ඇති බවත් ඔහු පෙන්වා දෙයි.
+He pointed out that the government expenditure has increased by nearly Rs. 125 billion and the government's expenditure has increased by Rs.
 
 ◼️
 
 [Data](articles/8d7bf0c8.json)
+
+[Extended Data](ext_articles/8d7bf0c8.ext.json)
 
 ---
 
@@ -238,6 +388,24 @@ In October 2023, he was able to finish the Chicago Marathon in October 2 and 35 
 
 ---
 
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-02-12 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176185) · `ta`
+
+இலங்கை மத்திய வங்கி இன்றைய தினம் திங்கட்கிழமை (12) வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை 317.82 ரூபாயாகவும் கொள்வனவு விலை 308.19 ரூபாயாகவும் பதிவாகியுள்ளது.
+
+அதைப்போன்று ஸ்ரேலிங் பவுண்ட் ஒன்றின் விற்பனை விலை 403.31 ரூபாய் மற்றும் கொள்வனவு விலை 387.91 ரூபாயாகும்.
+
+யூரோ ஒன்றின் விற்பனை விலை 344.94 ரூபாய் எனவும் கொள்வனவு விலை 331.05 ரூபாய் எனவும் குறிப்பிடப்பட்டுள்ளது.
+
+அதன்படி, ஏனைய வெளிநாட்டு நாணய மாற்று விகிதங்கள் தொடர்பாக இன்று (12.02.2024) மத்திய வங்கியினால் வெளியிடப்பட்டுள்ள தகவல்கள் கீழே தரப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/d70713e6.json)
+
+---
+
 ### Will egg prices fall during festive season?
 
 *2024-02-12 14:12:11* · [`adalk`](https://www.ada.lk/breaking_news/උත්සව-සමයේ-බිත්තර-මිල-අඩුවෙයිද-/11-408031) · `si`
@@ -304,6 +472,24 @@ At the same time, the father, who was blindfolded, attacked his son with a knife
 
 ---
 
+### කුළුබඩු කර්මාන්තකරුවන්ගේ ජාලයක් ගොඩ නැගීමට යයි
+
+*2024-02-12 13:56:50* · [`adalk`](https://www.ada.lk/breaking_news/කුළුබඩු-කර්මාන්තකරුවන්ගේ-ජාලයක්-ගොඩ-නැගීමට-යයි/11-408029) · `si`
+
+දිවයින පුරා විසිරී සිටින කුළුබඩු එක්‍ රැස් කරන්නන් සහ කුළුබඩු සැකසුම් කරුවන් ලියා පදිංචි කිරීමට අපනයන කෘෂිකර්ම දෙපාර්තමේන්තුව පියවර ගෙන තිබේ.
+
+කුළුබඩු කර්මාන්ත  සැපයුම් ජාලයක් ගොඩනැගීම හා කුළුබඩු කර්මාන්ත කරුවන් ට අපනයන කෘෂිකර්ම දෙපාර්තමේන්තුවෙන් සැපයෙන සේවා විධිමත්ව ලබා දීම මෙහි අරමුණයි.
+
+ගම්මිරිස් ,කෝපි ,කොකෝවා ,සාදික්කා ,කරාබු නැටි,එනසාල් ,වැනිලා,බුලත් ,කරුංකා,සේර,පැඟිරි ,ගොරකා,කහ සහ ඉඟුරු යන කුළුබඩු කර්මාන්තකරුවන්ට මේ යටතේ ලියා පදිංචි විය හැකිවේ.
+
+මේ අනුව මෙම කරමාන්තයන්හි ‍යෙදෙන  සුළු ,මධ්‍ය හා මහා පරිමාණ කුළුබඩු කර්මාන්ත කරුවන් පෙබරවාරි 29 දක්වා  අපනයන කෘෂිකර්ම දෙපාර්තමේන්තුවේ ලියා පදිංචි කරගන්නා බව  අපනයන කෘෂිකර්ම දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජෙනරාල් ඒ.පී.පී.දිස්නා මෙනෙවිය පැවසුවාය .
+
+◼️
+
+[Data](articles/c1b94c05.json)
+
+---
+
 ### Sergeant killed in shooting
 
 *2024-02-12 13:50:38* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-වැදුණ-සැරයන්-ජීවිතක්ෂයට/11-408028) · `si`
@@ -323,6 +509,22 @@ The body of the sergeant was to be brought to the house in the Tamber yesterday 
 [Data](articles/e67a4711.json)
 
 [Extended Data](ext_articles/e67a4711.ext.json)
+
+---
+
+### Unified Payment Interface launched in Sri Lanka
+
+*2024-02-12 13:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Unified-Payment-Interface-launched-in-Sri-Lanka/155-276839) · `en`
+
+The Unified Payment Interface (UPI) service was launched in Sri Lanka today.
+
+Indian Prime Minister Narendra Modi and Sri Lanka President Ranil Wickremesinghe witnessed the launch via video conference.
+
+India has emerged as a leader in Fintech innovation and Digital Public Infrastructure.
+
+◼️
+
+[Data](articles/089f37b5.json)
 
 ---
 
@@ -590,19 +792,21 @@ Suddenly he stood in the middle of the stadium and died on the spot when lightni
 
 ---
 
-### மின்னல் தாக்கி கால்பந்து வீரர் பலி: காணொளி
+### Footballer kills lightning: video
 
 *2024-02-12 12:22:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மின்னல்-தாக்கி-கால்பந்து-வீரர்-பலி-காணொளி/50-333066) · `ta`
 
-இந்தோனேசியாவில் சனிக்கிழமை (10) நடந்த கால்பந்து போட்டியின் போது மின்னல் தாக்கி கால்பந்து வீரர் ஒருவர் உயிரிழந்துள்ளார்.
+A footballer died after lightning struck a football match on Saturday (10) in Indonesia.
 
-சுபாங்கைச் சேர்ந்த 34 வயதான நபரொருவர் மேற்கு ஜாவாவில் உள்ள பாண்டுங்கில் உள்ள சிலிவாங்கி மைதானத்தில், எஃப்சி பாண்டுங் மற்றும் எஃப்பிஐ சுபாங் இடையே நடந்த போட்டியில் போட்டியிட்டுள்ளார்.
+A 34 -year -old man from Subang is contesting between FC Pandung and FBI Subang at the Chilivaangi Ground in Pandung, West Java.
 
-அப்போது திடீரென மைதானத்தின் நடுவில் நின்ற அவர் மீது மின்னல் தாக்கியதில் சம்பவ இடத்திலேயே உயிரிழந்துள்ளார்.
+Suddenly he stood in the middle of the stadium and died on the spot when lightning struck.
 
 ◼️
 
 [Data](articles/db4423d6.json)
+
+[Extended Data](ext_articles/db4423d6.ext.json)
 
 ---
 
@@ -1224,23 +1428,27 @@ The two gunmen who committed the robbery fled on a motorcycle.
 
 ---
 
-### රාජ්‍ය සේවය: 'ජනතාවගේ වැඩ ඉවරවෙලා ඔවුන්ට නිදහස් වෙලාවක මගෙන් සේවය ලබා ගන්න පුළුවන්'
+### Public Service: 'People can work out of the work of the people and serve them at a free time'
 
 *2024-02-12 10:17:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0kd9e0pl8do) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.Play video, "රාජ්‍ය සේවය : 'ජනතාවගේ වැඩ ඉවරවෙලා ඔවුන්ට නිදහස් වෙලාවක මගෙන් සේවය ලබා ගන්න පුළුවන්.'", ධාවන කාලය 3,5903:59වීඩියෝ ශීර්ෂ වැකිය, ''එදා දවසේ අවශ්‍යතාවයක් තියෙන ඕන කෙනෙකුට මේකෙන් නොමිලේ තියෙන දෙයක් අරගෙන යන්න පුළුවන්.''
+There is nothing here. Play Video, "Public Service:" The work of the people is over, "a time of work is free from this.You can take. ''
 
-රාජ්‍ය සේවය: 'ජනතාවගේ වැඩ ඉවරවෙලා ඔවුන්ට නිදහස් වෙලාවක මගෙන් සේවය ලබා ගන්න පුළුවන්'
+Public Service: 'People can work out of the work of the people and serve them at a free time'
 
-රාජ්‍ය නිලධාරිගෙන් සේවය ලබා ගැනීමට ගිය අවස්ථාවන්හි දී බොහෝ දෙනා අපහසුතාවයන්ට ලක්වන අවස්ථා ගැන කොතෙකුත් අපි අසා ඇත්තෙමු.
+We have heard of the occasions when most people are inconvenienced when they go to the public official.
 
-නමුත් ඉතා කාර්යක්ෂමව සහ මිත්‍රශීලීව ජනතාවට සේවය සලසන රාජ්‍ය සේවකයෝ ද සිටිති.
+But there are public servants who serve the people with efficiently and friendly people.
 
-ගාල්ල, කරන්දෙනිය ප්‍රාදේශිය ලේකම් කොට්ඨාසයට අයත් 41/E බෙලිගස්වේල්ල ග්‍රාම නිලධාරී කාර්යාලය එවැනි මිත්‍රශීලි සේවාස්ථානයක් බව අපට දැනගන්නට ලැබිණි. එබැවින් ඒ පිළිබඳව සොයා බලන්නට අපි එහි ගියෙමු.
+We learned that the 41/1 E Beligaswalla Grama Niladhari office belongs to Karandeniya Divisional Secretariat Division, Galle is such a friendly rice. So we went there to look into it.
 
-...
+"This is a special office. There is a dry diet, book bank, drug bank and a vegetable and fruits bank. Not told the poor. And when it comes to seven days, the people can be able to work anytime. "
+
+◼️
 
 [Data](articles/5ab1dcd0.json)
+
+[Extended Data](ext_articles/5ab1dcd0.ext.json)
 
 ---
 
@@ -1773,261 +1981,5 @@ He has asked the Speaker to call them before the Private Committee, saying that 
 [Data](articles/412d257c.json)
 
 [Extended Data](ext_articles/412d257c.ext.json)
-
----
-
-### Maithri goes to India
-
-*2024-02-12 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193267) · `si`
-
-Former President Maithripala Sirisena has left for India this morning (12).
-
-At 2.50 am, the airline belonging to the Indian Airlines has left for New Delhi.
-
-The former President is on a tour of India on a special invitation of India and then he will leave for the United States.
-
-Meanwhile, political sources say that the new alliance of the Sri Lanka Freedom Party (SLFP) will appoint the new office bearers of the Sri Lanka Freedom Party (SLFP).
-
-Steps have been taken to create a new alliance under the Sri Lanka Public Election for the next presidential election.
-
-Accordingly, a new staff will be appointed to future activities.
-
-Lasantha Alagiyawan is also being held by Lasantha Alagiyawaniya as the Secretary General of Sri Lanka.
-
-However, it is said that the work will take place after the former President's foreign trips.
-
-◼️
-
-[Data](articles/63967500.json)
-
-[Extended Data](ext_articles/63967500.ext.json)
-
----
-
-### Woman shot during burglary at Meegoda Economic Centre
-
-*2024-02-12 07:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97192/woman-shot-during-burglary-at-meegoda-economic-centre) · `en`
-
-A group attempting to burgle a shop at the Meegoda Economic Centre had reportedly opened fire and injured a woman last night (11) before fleeing the area.
-
-Ada Derana reporter said that two armed individuals had shot the female cashier of a shop at the economic center and made off with some cash.
-
-As seen on CCTV footage obtained from a camera installed within the shop in question, the shooters had shot the 23-year-old female in her abdomen thrice.
-
-It is revealed that the gunmen had opened fire in an attempt to obtain the keys to one of the two cash lockers in the shop, of which the other they had already looted.
-
-Accordingly, while the total amount of cash stolen is yet to be determined, the 23-year-old victim is currently receiving treatment at the Homagama Hospital, Ada Derana learns.
-
-◼️
-
-[Data](articles/bc891c03.json)
-
-[Extended Data](ext_articles/bc891c03.ext.json)
-
----
-
-### Shooting in Meegoda Economic Center
-
-*2024-02-12 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193266) · `si`
-
-Our correspondent said that the shooting had taken place yesterday (11).
-
-A woman was injured and a woman was injured and the robbers had fled.
-
-◼️
-
-[Data](articles/5ef58bf2.json)
-
-[Extended Data](ext_articles/5ef58bf2.ext.json)
-
----
-
-### Police officer shot during arrest attempt succumbs to injuries
-
-*2024-02-12 07:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97191/police-officer-shot-during-arrest-attempt-succumbs-to-injuries) · `en`
-
-The Police Sergeant who was shot and injured and had his weapon taken away while trying to apprehend a suspect in the Malwathu Hiripitiya area, has succumbed to injuries at the Colombo National Hospital.
-
-Meanwhile the suspect and a female have been arrested by Police Special Task Force (STF) along with the missing firearm during a raid at Bingiriya last night (11), police said.
-
-A scuffle had broken out during an attempt by a team of officers from the Malwathu Hiripitiya Police Station to apprehend a suspect in the Batepola area in the early hours of Saturday (10) while the suspect had attempted to grab the firearm of the police officer during the incident.
-
-The firearm had then discharged injuring the police officer in question while the suspect had then fled with the officer’s service firearm.
-
-...
-
-[Data](articles/981262ac.json)
-
-[Extended Data](ext_articles/981262ac.ext.json)
-
----
-
-### Suspect's police sergeant dies
-
-*2024-02-12 06:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193265) · `si`
-
-The police sergeant who was still receiving treatment at the Batasealapola area in Bethalapola area in Batawatha.
-
-The police officer had died yesterday (11) while receiving treatment at the Colombo National Hospital.
-
-The suspect has attempted to have the firearm of the police officer due to a conflict in the Malvathathhiripitiya Police Station to arrest a suspect in the police station last Saturday.
-
-The suspect was shot dead by the firearm and the suspect had taken away officials.
-
-The police officer who was injured in the shooting was admitted to the Gampaha National Hospital for further treatment.
-
-The police sergeant was killed and he was a 51 year old resident of the Lunugama area.
-
-Meanwhile, the main suspect, the main suspect in connection with the incident has been arrested by the STF in connection with the investigation into the incident.
-
-...
-
-[Data](articles/3fd7f270.json)
-
-[Extended Data](ext_articles/3fd7f270.ext.json)
-
----
-
-### A change in the weather
-
-*2024-02-12 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193263) · `si`
-
-The Department of Meteorology, which is around the Eastern and Uva provinces, is underway.
-
-In the Western and Sabaragamuwa Provincial, Nuwara Eliya, Galle and Matara districts. Showers or thundershowers will occur at several places about 2.00.
-
-From time to time in the East, East, Southern, Southern, Uva and Eastern Provinces, North, North, Southern, Uva and Eastern Provinces.. Strong winds can occur around about 30-40.
-
-In some places in the Western and Sabaragamuwa provinces, some locations are expected to look forward to a murder in some places in the Galle and Matara districts.
-
-◼️
-
-[Data](articles/26f2a656.json)
-
-[Extended Data](ext_articles/26f2a656.ext.json)
-
----
-
-### January tourism revenue soars to pre-pandemic peak
-
-*2024-02-12 05:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/January-tourism-revenue-soars-to-pre-pandemic-peak/108-276801) · `en`
-
-Robust tourist income seen for the first time since Feb. 2020
-
-Sustained momentum could position tourism as a bright spot in SL external sector once again
-
-In a promising sign for Sri Lanka’s economy, tourism earnings soared to a pre-pandemic peak of US$ 341.8 million in January 2024.
-
-This resurgence indicates a significant recovery for the industry, which faced a prolonged downturn since the onset of the pandemic four years ago.
-
-This milestone marks the first time since February 2020, when earnings reached US$ 391.1 million. The industry was then rebounding from the aftermath of the 2019 Easter attacks and bracing itself just weeks before the country reported its first locally transmitted Covid-19 case, triggering nationwide lockdowns.
-
-...
-
-[Data](articles/50bba22e.json)
-
-[Extended Data](ext_articles/50bba22e.ext.json)
-
----
-
-### Defence Secretary, Army Commander asked to apologise to MP Weerakkody
-
-*2024-02-12 05:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Defence-Secretary-Army-Commander-asked-to-apologise-to-MP-Weerakkody/108-276776) · `en`
-
-Parliament, Feb. 11 (Daily Mirror)- The Privilege Committee of Parliament has recommended that Defence Secretary Kamal Gunaratne and Army Commander Vikum Liyanage must apologise to Parliamentarian Chandima Weerakkody for making threatening statements against the MP during a committee meeting inside the Parliament Complex.
-
-The Privilege Committee has issued the recommendation after investigating into a privilege issue raised by MP Weerakkody in Parliament last October, stating that the Defence Secretary and the Army Commander had threatened him at the meeting of the Sectoral Oversight Committee on National Security chaired by MP Sarath Weerasekara on October 5, 2023.
-
-The MP had told Parliament that he had mentioned at the particular Committee meeting that reducing the expenses of high-ranking military officers was better than reducing the number of soldiers to reduce the defence budget and that the Defence Secretary had made a threatening statement when he had said so.
-
-...
-
-[Data](articles/00e5a0dd.json)
-
-[Extended Data](ext_articles/00e5a0dd.ext.json)
-
----
-
-### Boy killed
-
-*2024-02-12 05:00:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/ரயில்-மோதி-சிறுவன்-பலி/75-333051) · `ta`
-
-A boy was killed when a train crashed yesterday in Trincomalee - Thambalakamam area.
-
-The boy was killed in a train traveling from Colombo to Trincomalee.
-
-The boy who was fishing with friends near the bridge in the Thambalakamam area has died in the accident.
-
-Naleem Muhammad Sabrid (age 14), a student of Grade 9 of Mullipothana, Unit - 07.. (A)
-
-◼️
-
-[Data](articles/c585d3c6.json)
-
-[Extended Data](ext_articles/c585d3c6.ext.json)
-
----
-
-### Boy killed
-
-*2024-02-12 05:00:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-மோதி-சிறுவன்-பலி/175-333051) · `ta`
-
-A boy was killed when a train crashed yesterday in Trincomalee - Thambalakamam area.
-
-The boy was killed in a train traveling from Colombo to Trincomalee.
-
-The boy who was fishing with friends near the bridge in the Thambalakamam area has died in the accident.
-
-Naleem Muhammad Sabrid (age 14), a student of Grade 9 of Mullipothana, Unit - 07.. (A)
-
-◼️
-
-[Data](articles/ec1eb270.json)
-
-[Extended Data](ext_articles/ec1eb270.ext.json)
-
----
-
-### Understanding with India important for development: Vijitha Herath
-
-*2024-02-12 04:06:54* · [`dailyftlk`](https://www.ft.lk/news/Understanding-with-India-important-for-development-Vijitha-Herath/56-758378) · `en`
-
-Says NPP did not request to visit India and was instead extended an official invitation by it’s Govt. in December
-
-Claims party’s opposition to privatising state enterprises sans a proper tender process remains and was intimated to Indian counterparts during the visit
-
-Stresses NPP is unhesitant in conducting economic and political affairs with any country
-
-Says it informed that under an NPP Govt. by adhering to a proper procurement process opportunities for investment will be open to any country
-
-Emphasises that NPP does not alter its political positions based on its relationships with China or India
-
-National People’s Power (NPP) MP Vijitha Herath yesterday said that maintaining an understanding with neighbouring India is important for the development of regional corporations.
-
-...
-
-[Data](articles/3054c46b.json)
-
-[Extended Data](ext_articles/3054c46b.ext.json)
-
----
-
-### SF found responsible for 2006 disappearance of Tamil youth
-
-*2024-02-12 04:04:27* · [`dailyftlk`](https://www.ft.lk/news/SF-found-responsible-for-2006-disappearance-of-Tamil-youth/56-758377) · `en`
-
-The Vavuniya High Court has held the Sri Lanka Army, along with several former officers, including the former Army Commander Field Marshal Sarath Fonseka, accountable for the disappearance of a Tamil youth in Sri Lanka’s war zone over 18 years ago.
-
-The court’s ruling was issued on 7 February during the hearing of the habeas corpus petition concerning the disappearance of the victim, Kandasamy Ilamaran.
-
-It is claimed the youth had disappeared while in the custody of the Sri Lanka Army at the Omanthai security post in 2006.
-
-Vavuniya High Court Judge Manikkavasagam Ilancheliyan who delivered the verdict said that the former Commanding Officer Omanthai, the Vanni Commander, and the Sri Lanka Army Commander during that period were responsible for the disappearance of Ilamaran.
-
-...
-
-[Data](articles/4d9898c3.json)
-
-[Extended Data](ext_articles/4d9898c3.ext.json)
 
 ---

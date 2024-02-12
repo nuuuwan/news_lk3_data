@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 12:49:06**
+As of **2024-02-12 13:02:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 944
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,432 (99.8%) of 6,442 articles have been extended.
+6,442 (100.0%) of 6,442 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ As such, State Minister Lasantha Alagiyawanna is tipped to be appointed as the n
 ◼️
 
 [Data](articles/c2dc10f2.json)
+
+[Extended Data](ext_articles/c2dc10f2.ext.json)
 
 ---
 
@@ -82,6 +84,8 @@ Accompanying Sirisena are two officials from the Sri Lanka Freedom Party, as dis
 
 [Data](articles/72f42fc3.json)
 
+[Extended Data](ext_articles/72f42fc3.ext.json)
+
 ---
 
 ### Coconut tree falls down and falls down!
@@ -114,6 +118,8 @@ Accordingly, the wholesale price of an egg will increase to Rs. 58 from today, w
 
 [Data](articles/aa917a80.json)
 
+[Extended Data](ext_articles/aa917a80.ext.json)
+
 ---
 
 ### NPP trying to become the main opposition: SJB MP
@@ -131,6 +137,8 @@ Colombo, Feb. 12 (Daily Mirror)- National People's Power (NPP) was trying to bec
 ◼️
 
 [Data](articles/89e3702d.json)
+
+[Extended Data](ext_articles/89e3702d.ext.json)
 
 ---
 
@@ -162,19 +170,21 @@ The incident took place on January 22 in Beliyatta. In the incident, five people
 
 ---
 
-### இந்தியா ஊடாக அமெரிக்க பறந்தார் மைத்திரி
+### Maithri flew through India
 
 *2024-02-12 11:37:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-ஊடாக-அமெரிக்க-பறந்தார்-மைத்திரி/175-333060) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன இந்தியா ஊடாக அமெரிக்கா சென்றதை கட்டுநாயக்க விமான நிலையத்தின் பொறுப்பதிகாரி உறுதிப்படுத்தியுள்ளார்.
+Former President Maithripala Sirisena has confirmed that the US traveled to the United States through India.
 
-அவர், திங்கட்கிழமை (12) அதிகாலை 02.50 மணிக்கு இந்தியன் ஏர்லைன்ஸின் ஏஐ-284 விமானத்தில் இந்தியாவின் புதுடெல்லிக்குச் சென்று, அங்கிருந்து மற்றொரு விமானத்தில் அமெரிக்காவின் நியூயோர்க்கிற்குச் செல்கிறார்.
+He will travel to New Delhi, India on Monday (12) at 02.50 am, on the AI-284 flight of Indian Airlines, and from another flight to New York.
 
-மைத்திரிபால சிறிசேன அதே கட்சியைச் சேர்ந்த மேலும் இரு அதிகாரிகளை அமெரிக்காவுக்கு அழைத்துச் சென்றுள்ளதாகவும், அவர்கள் அங்கு பல ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பொதுக் கூட்டங்களை நடத்த உள்ளதாகவும் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் ஊடகப் பணிப்பாளர்  பிரபாத் மாதரகே தெரிவித்தார்.
+Sri Lanka Freedom Party (SLFP) Media Director Prabhat Mataragay said that Maithripala Sirisena had taken two more officers from the same party to the US and that they would hold many Sri Lanka Freedom Party (SLFP) general meetings.
 
 ◼️
 
 [Data](articles/e2efd589.json)
+
+[Extended Data](ext_articles/e2efd589.ext.json)
 
 ---
 
@@ -191,6 +201,8 @@ The meeting with King Abdullah II comes as Biden and his aides are working to br
 ...
 
 [Data](articles/0219cdb1.json)
+
+[Extended Data](ext_articles/0219cdb1.ext.json)
 
 ---
 
@@ -209,6 +221,8 @@ Police said the primary suspect involved in the incident was arrested by the Pol
 ...
 
 [Data](articles/a054929c.json)
+
+[Extended Data](ext_articles/a054929c.ext.json)
 
 ---
 
@@ -265,6 +279,8 @@ As per the local media report, the player was immediately taken to the hospital 
 ◼️
 
 [Data](articles/633bf557.json)
+
+[Extended Data](ext_articles/633bf557.ext.json)
 
 ---
 
@@ -323,6 +339,8 @@ The narcotics taken into custody during this period include 160g of heroin, 152g
 ◼️
 
 [Data](articles/77434c5c.json)
+
+[Extended Data](ext_articles/77434c5c.ext.json)
 
 ---
 

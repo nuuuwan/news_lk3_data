@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 09:02:37**
+As of **2024-02-12 09:17:25**
 
 ## Newspaper Stats
 
-*Scraped **6,391** Articles*
+*Scraped **6,392** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,62 @@ adalk | 533
 tamilmirrorlk | 779
 adaderanalk | 787
 virakesarilk | 794
-adaderanasinhalalk | 881
+adaderanasinhalalk | 882
 dailymirrorlk | 927
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,389 (100.0%) of 6,391 articles have been extended.
+6,391 (100.0%) of 6,392 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### ”தேர்தலை ஒத்திவைக்க இடமளிக்க மாட்டோம்”
+### ඔන්ලයින් පනතේ සංශෝධන කිහිපයක් අද කැබිනට් මණ්ඩලයට
+
+*2024-02-12 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193270) · `si`
+
+මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත හෙවත් ඔන්ලයින් පනතේ වගන්ති කිහිපයක් සංශෝධනය කිරීමට නියමිතව තිබේ.
+
+ඒ අනුව ඊට අදාළ සංශෝධන 47ක් අද (12) දිනයේ පැවැත්වෙන අමාත්‍ය මණ්ඩලය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා විසින් මෙම සංශෝධන ඉදිරිපත් කිරීමට නියමිතව තිබේ.
+
+විවිධ පාර්ශව මඟින් එල්ලවන විරෝධතා හමුවේ මෙම වගන්ති සංශෝධනය කිරීමට පියවර ගෙන ඇති බව සඳහන්ය.
+
+කෙසේවෙතත් මෙම සංශෝධන අද දිනයේ දී ම සම්මත වනු ඇති බව වාර්තා වේ.
+
+ඒ අනුව සංශෝධිත පනත් කෙටුම්පත ගැසට් කිරීමෙන් අනතුරුව පළමු වර කියවීම එළඹෙන පාර්ලිමේන්තු දිනයන්වලදී ඉදිරිපත් කිරීමට නියමිතව තිබේ.
+
+මේ අතර ඔන්ලයින් පනතේ බොහෝ වගන්ති සම්බන්ධයෙන් විපක්ෂය ඇතුළු පාර්ශවවල දැඩි විවේචන එල්ල වුණි.
+
+පාර්ලිමේන්තුව තුළත් ඉන් පිටතත් මේ සම්බන්ධයෙන් දැඩි විවේචන එල්ල වු අතර පනත් කෙටුම්පත සම්මත කරගත් ආකාරය සම්බන්ධයෙන් ද විපක්ෂ නායකවරයා ඇතුළු විපක්ෂයේ මන්ත්‍රීවරුන් රැසක් පාර්ලිමේන්තුව තුළත් අදහස් පළ කළේය.
+
+◼️
+
+[Data](articles/ad9d9995.json)
+
+---
+
+### “We will not be allowed to postpone the election”
 
 *2024-02-12 08:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-ஒத்திவைக்க-இடமளிக்க-மாட்டோம்/175-333054) · `ta`
 
-நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை ஒழிக்கும் போர்வையில் இந்த வருடம் நடைபெறவுள்ள ஜனாதிபதித் தேர்தல் அட்டவணையை ஒத்திவைக்க எதிர்க்கட்சிகள் இடமளிக்காது என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+Opposition leader Sajith Premadasa has said that the opposition parties will not allow the postponement of the presidential election schedule this year under the guise of abolishing the executive presidency.
 
-கொழும்பில் வெள்ளிக்கிழமை (9) இடம்பெற்ற நிகழ்வொன்றில் கலந்துகொண்டு உரையாற்றிய அவர், “மக்களின் வாக்குரிமையை அழிக்க முற்பட்டால், அதனை நாங்கள் அனுமதிக்க மாட்டோம்.
+Speaking at an event in Colombo on Friday (9), he said, “If we seek to destroy the rights of the people, we will not allow it.
 
-நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை ஒழித்தல் என்ற பெயரில் ஜனாதிபதி தனது பதவிக் காலத்தை நீடிக்கச் செய்யும் குறும்புத்தனமான நோக்கங்களுக்கு சமகி ஜன பலவேகய (SJB) பிடிபடாது” என அவர் மேலும் தெரிவித்தார்.
+"The SJB) will not be caught in the name of the president in the name of abolishing the executive presidency," he added.
 
-நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை ஒழிக்க வேண்டும் என்ற நிலைப்பாட்டில் எஸ்ஜேபி இன்னும் இருப்பதாகவும், ஆனால் நிறைவேற்று ஜனாதிபதி முறைமையை ஒழிப்பேன் என்ற போர்வையில் மக்களின் ஆணையையும் வாக்களிக்கும் உரிமையையும் அழிக்க அனுமதிக்க முடியாது எனவும் எதிர்க்கட்சித் தலைவர் மேலும் தெரிவித்தார். 2024ல் நடக்கவிருக்கும் தேர்தலும் நடக்க வேண்டும்.
+The Opposition Leader added that the SJP is still in the position of abolishing the executive presidency, but it cannot be allowed to destroy the people's mandate and the right to vote in the guise of abolishing the executive presidency.. The upcoming elections to be held in 2024.
 
 ◼️
 
 [Data](articles/44d7fcf7.json)
+
+[Extended Data](ext_articles/44d7fcf7.ext.json)
 
 ---
 
@@ -368,19 +396,21 @@ Vavuniya High Court Judge Manikkavasagam Ilancheliyan who delivered the verdict 
 
 ---
 
-### மாணவி சடலமாக மீட்பு
+### Rescue of student body
 
 *2024-02-12 04:01:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவி-சடலமாக-மீட்பு/175-333050) · `ta`
 
-பலாங்கொடை, பெட்டிகள பிரதேசத்தில் வீடொன்றின் குளியலறையில் இருந்து பாடசாலை மாணவி ஒருவர் சடலமாக  மீட்கப்பட்டுள்ளார்.
+A schoolgirl has been recovered from a bathroom in the box area of Balangoda.
 
-உறவினர்கள் வழங்கிய முறைப்பாட்டுக்கு அமைய பலாங்கொடை பொலிஸாரால் குறித்த மாணவியின் சடலம் நேற்று மீட்கப்பட்டுள்ளது.
+The body of the student was recovered yesterday by the Balangoda police on a complaint filed by relatives.
 
-இவ்வாறு சடலமாக மீட்கப்பட்ட மாணவி பலாங்கொடை பிரதேசத்தில் பிரபல தமிழ்ப் பாடசாலை ஒன்றில் உயர்தர வகுப்பில் கல்வி கற்றவர் என்று பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+Police investigations have revealed that the student who was recovered from the body was educated in a high -quality class in a popular Tamil school in Balangoda.
 
 ◼️
 
 [Data](articles/55a3f65f.json)
+
+[Extended Data](ext_articles/55a3f65f.ext.json)
 
 ---
 
@@ -2115,25 +2145,5 @@ The responses to the visit by other parties have, so far, been lukewarm. The UNP
 [Data](articles/2880949c.json)
 
 [Extended Data](ext_articles/2880949c.ext.json)
-
----
-
-### 564 more suspects arrested during operation ‘Yukthiya’
-
-*2024-02-11 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97182/564-more-suspects-arrested-during-operation-yukthiya) · `en`
-
-Another 564 suspects have been arrested by Sri Lanka’s police and security forces personnel within 24 hours which ended at 12.30 a.m. today (11 Feb.). The arrests were made as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-Among the arrestees are 8 suspects who had had open warrants against them over narcotics-related charges and 92 others who had had open warrants against them over non-drug related charges.
-
-According to the Ministry of Public Security, detention orders have been secured against 9 of the drug suspects.
-
-The narcotics taken into custody during this period include 153g 665mg of heroin, 88g 225mg of crystal methamphetamine (Ice), 6.5kg of cannabis and 180 narcotic pills.
-
-◼️
-
-[Data](articles/1754e931.json)
-
-[Extended Data](ext_articles/1754e931.ext.json)
 
 ---

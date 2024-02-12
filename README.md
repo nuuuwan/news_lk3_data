@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 18:51:44**
+As of **2024-02-12 19:02:44**
 
 ## Newspaper Stats
 
-*Scraped **6,514** Articles*
+*Scraped **6,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 793
 adaderanalk | 799
 virakesarilk | 815
 adaderanasinhalalk | 909
-dailymirrorlk | 954
+dailymirrorlk | 955
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,513 (100.0%) of 6,514 articles have been extended.
+6,515 (100.0%) of 6,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### SJB divided on constitutional reforms
+
+*2024-02-12 18:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-divided-on-constitutional-reforms/108-276851) · `en`
+
+Colombo, Feb 12 (Daily Mirror) - Divisions within the Samagi Jana Balawegaya (SJB) on constitutional reforms was witnessed today when MP Rajitha Senaratne stated that the Executive Presidency should be abolished immidately while the party General Secretary Ranjith Madduma Bandara insisted that a Presidential election should be held first and the reforms should come next.
+
+The divisions were evident when both vocied their opinion at a dicussion organized by the National Movement for Social Justice.
+
+"Why should we have a Presidential election if we are to abolish the presidency?" Dr. Senaratne questioned.
+
+However Madduma Bandara who  commented said people's right for franchise should be upheld. Prriority should be given to people's right for franchise," he said.
+
+◼️
+
+[Data](articles/c277b366.json)
+
+[Extended Data](ext_articles/c277b366.ext.json)
+
+---
 
 ### Mid-air emergency forces SriLankan flight to turn back to Melbourne
 
@@ -62,21 +82,23 @@ SriLankan Airlines Statement on Flight UL 605 by Adaderana Online on Scribd
 
 ---
 
-### ශ්‍රීලන්කන් ගුවන් යානයක් හදිසියේ මෙල්බර්න් වෙත ගොඩබස්වයි
+### SriLankan Airlines lands to Melbourne suddenly
 
 *2024-02-12 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193297) · `si`
 
-ශ්‍රීලන්කන් ගුවන් සේවයට අයත් යානයක් හදිසියේම මෙල්බර්න් ගුවන්තොටුපොළ වෙත ගොඩබස්වා තිබේ.
+A plane from SriLankan Airlines suddenly landed at Melbourne Airport.
 
-ශ්‍රීලන්කන් ගුවන් සේවය නිවේදනයක් නිකුත් කරමින් පවසන්නේ තාක්ෂණික දෝෂයක් හේතුවෙන් එම යානය මෙලෙස ගොඩබස්වා ඇති බවය.
+The SriLankan Airlines issues a statement saying that the aircraft had been landed due to a technical fault.
 
-සියලු මගීන් සුරක්ෂිතව ඉන් පිටතට පැමිණ ඇති බවත් තාක්ෂණික කණ්ඩායමක් යානය පරීක්ෂාවට ලක්කරමින් සිටින බවත් ශ්‍රීලන්කන් ගුවන් සේවය වැඩිදුරටත් පවසයි.
+The SriLankan Airlines added that all passengers have come out of security and the technical team is screaming.
 
-ගුවන් යානය නැවත පිටත්වනතුරු මගීන්ට අවශ්‍ය හෝටල් නවාතැන් පහසුකම් සැපයීමට පියවර ගෙන ඇති බව ද ශ්‍රී ලන්කන් ගුවන් සේවය සඳහන් කරයි.
+SriLankan Airlines states that steps have been taken to provide hotel accommodation to passengers until relocation of the plane.
 
 ◼️
 
 [Data](articles/79da3de2.json)
+
+[Extended Data](ext_articles/79da3de2.ext.json)
 
 ---
 
@@ -1981,23 +2003,5 @@ The Sri Lanka Police and Public Security Ministry launched the "Yukthiya" operat
 [Data](articles/fe145f6f.json)
 
 [Extended Data](ext_articles/fe145f6f.ext.json)
-
----
-
-### A woman fired at a woman
-
-*2024-02-12 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/176151) · `ta`
-
-Those who robbed a shop at the Meegoda Economic Center were firing on a woman on Sunday night (11).
-
-Two racist people have opened fire on a female cashier of a shop in the economic center.
-
-The woman who was injured in the shooting has been admitted to the Homagama Hospital for treatment, Meegoda police said.
-
-◼️
-
-[Data](articles/06c89a9d.json)
-
-[Extended Data](ext_articles/06c89a9d.ext.json)
 
 ---

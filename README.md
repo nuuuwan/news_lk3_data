@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 17:02:35**
+As of **2024-02-12 17:17:28**
 
 ## Newspaper Stats
 
-*Scraped **6,495** Articles*
+*Scraped **6,496** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,50 +19,72 @@ adalk | 548
 tamilmirrorlk | 792
 adaderanalk | 793
 virakesarilk | 811
-adaderanasinhalalk | 904
+adaderanasinhalalk | 905
 dailymirrorlk | 953
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,483 (99.8%) of 6,495 articles have been extended.
+6,495 (100.0%) of 6,496 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### ඉන්ධන සැපයුම ගැන රජය හදිසියේම තීරණය
+### සනත් නිශාන්තට මාරු කැඳවූ අනතුර - කන්ටේනර් රියදුරාගෙන් පැය 5ක ප්‍රකාශයක්
+
+*2024-02-12 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193293) · `si`
+
+හිටපු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා ගමන්කළ සුඛෝපභෝගී රථය ගැටුණු කන්ටේනර් රථයේ රියදුරා අද (12) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මනුෂ්‍ය ඝාතන සහ සංවිධානාත්මක අපරාධ විමර්ශන කොට්ඨාසය ට පැමිණ ප්‍රකාශයක් ලබාදුනි.
+
+හිටපු රාජ්‍ය අමාත්‍යවරයාගේ සහ ඔහුගේ ආරක්ෂක නිලධාරියාගේ මරණ සම්බන්ධයෙන් මේ වනවිට එම කොට්ඨාසය පරීක්ෂණ පවත්වයි.
+
+අප වාර්තාකරු පැවසුවේ කන්ටේනර් රථයේ රියදුරා පැය 5ක පමණ ප්‍රකාශයක් ලබාදුන් බවයි.
+
+එම රිය අනතුර සිදුව ඇති ආකාරය සැක සහිත බැවින් ඒ සම්බන්ධයෙන් විධිමත් පරීක්ෂණයක් පවත්වන ලෙස ඉල්ලා සනත් නිශාන්ත මහතාගේ බිරිඳ, නීතිඥ චමරි ප්‍රියංකා මහත්මිය විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ඉදිරාපත් කළාය.
+
+◼️
+
+[Data](articles/4c8d0a6e.json)
+
+---
+
+### Government suddenly decided on fuel supply
 
 *2024-02-12 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193292) · `si`
 
-ෂෙල්-ආර් ඒ,එම් පාක්ස් සමාගම සහ ලංකා ඛනිජතෙල් තොග ගබඩා පර්යන්ත සමාගම ඛනිජතෙල් තොග ගබඩා හා බෙදාහැරීමේ ගිවිසුමට එළැඹ තිබේ.
+Petroleum Store and Distribution Agreement has come to the storage and distribution of Ceylon Petroleum Storage Terminal and Ceylon Petroleum Storage Terminal.
 
-එම ගිවිසුමට එළැඹීම අද (12) කොළොන්නාව ලංකා ඛනිජතෙල් තොග ගබඩා පර්යන්ත සමාගම් ප්‍රධාන කාර්යාලයේදී සිදුකර ඇත.
+The agreement was held at the Head Office at the Head Office today (12).
 
-මේ අනුව ලංකා ඛනිජතෙල් තොග ගබඩා පර්යන්ත සමාගමට, ෂෙල්-ආර් ඒ,එම් පාක්ස් සමාගමට අයත් ඉන්ධන තොග මෙරට තුළ ගබඩා කිරීම හා බෙදාහැරීම ආශ්‍රිත කටයුතු සඳහා ප්‍රතිපාදන සැලසෙනු ඇත.
+The fuel consignment of Ceylon Petroleum will be allocated for storage and distribution of fuel belonging to the company of the Ceylon Petroleum.
 
-පසුගිය වසරේ ජුලි මස 08 වනදා මීට අදාළව පූර්ව එකඟතා ගිවිසුමකට අත්සන් තැබූ අතර එම ඉන්ධන බෙදාහැරීමේ කටයුතු කඩිනමින් ඇරඹීම සඳහා විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතාගේ උපදෙස් මත මෙම ගිවිසුම්ගතවීම සිදුකර ඇත.
+The agreement was made following the instructions of Power and Energy Kanchana Wijesekara to begin with the development of fuel distribution.
 
 ◼️
 
 [Data](articles/2c7ccc04.json)
 
+[Extended Data](ext_articles/2c7ccc04.ext.json)
+
 ---
 
-### சப்ரகமுவ பல்கலைக்கழக சிரேஷ்ட மாணவர்கள் 7 பேருக்கும் விளக்கமறியல்!
+### Sabaragamuwa University Senior Students Explain
 
 *2024-02-12 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176200) · `ta`
 
-சப்ரகமுவ பல்கலைக்கழக விவசாய பீடத்தின் இரண்டாம் வருட மாணவி மற்றும் இரு மாணவர்களைத் தாக்கிய சம்பவம் தொடர்பில்  கைது செய்யப்பட்டு நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட 7 சிரேஷ்ட மாணவர்களையும் நாளை  (13) வரை விளக்கமறியலில் வைக்குமாறு பலாங்கொடை நீதிவான்  ஹெஷானி ரொட்ராகோ இன்று (12) உத்தரவிட்டார்.
+Balangoda Magistrate Heshani Rodrorako today (12) ordered that 7 senior students who were arrested in court in connection with the attack on the second year student of the Sabaragamuwa University Faculty and two students were remanded till tomorrow (13).
 
-சமனலவெவ பொலிஸாரிடம் சரணடைந்ததையடுத்து  பொலிஸார் அவர்களைக் கைது செய்து பலாங்கொடை நீதிவான் நீதிமன்றில் ஆஜர்படுத்தியபோதே இவ்வாறு உத்தரவிடப்பட்டது.
+The police surrendered to the Samanalawewa police and the police arrested them and produced them at the Balangoda Magistrate's Court.
 
-சப்ரகமுவ,  பல்கலைக்கழகத்தின் விவசாய பீடத்தின் சிரேஷ்ட மாணவர்கள் குழுவொன்று நேற்று (09) இரவு மின்சாரத்தை துண்டித்த பின் இவர்களைத் தடிகளால் தாக்கியதகாக விசாரணைகளில் தெரிய வருகிறது.
+Investigations have revealed that a group of senior students of the Sabaragamuwa and University of Sabaragamuwa have been hit by a group of senior students last night (09).
 
 ◼️
 
 [Data](articles/c9f6d17b.json)
+
+[Extended Data](ext_articles/c9f6d17b.ext.json)
 
 ---
 
@@ -75,6 +97,8 @@ The Principals' Service Association staged a demonstration in front of the Minis
 ◼️
 
 [Data](articles/dfb46975.json)
+
+[Extended Data](ext_articles/dfb46975.ext.json)
 
 ---
 
@@ -91,6 +115,8 @@ Kannangara alleged that two individuals, a former Test cricket umpire and a memb
 ...
 
 [Data](articles/9daf7534.json)
+
+[Extended Data](ext_articles/9daf7534.ext.json)
 
 ---
 
@@ -112,6 +138,8 @@ A senior police officer said the suspect is to be produced before courts.
 
 [Data](articles/5605cac2.json)
 
+[Extended Data](ext_articles/5605cac2.ext.json)
+
 ---
 
 ### Sri Lanka T20I squad announced ahead of Afghanistan series
@@ -128,21 +156,25 @@ The T20I series is scheduled to take place at the Rangiri Dambulla International
 
 [Data](articles/e0c5383f.json)
 
+[Extended Data](ext_articles/e0c5383f.ext.json)
+
 ---
 
-### தரம் 6 இற்கு மாணவர்களை சேர்க்கும் விண்ணப்பம் கோரப்பட்டுள்ளது
+### Application is requested to enroll students to grade 6
 
 *2024-02-12 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176194) · `ta`
 
-2023 ஆம் ஆண்டிற்கு இடம்பெற்ற தரம் 5 புலமைப்பரிசில் பரீட்சை பெறுபேறுகளின்படி, மாவட்ட வெட்டுப்புள்ளிக்கு மேலதிகமான புள்ளிகளைப் பெற்று தகுதி பெற்ற மாணவர்களுக்கு, 2024 ஆம் ஆண்டில் தரம் 6இல் புதிய பாடசாலைகளில் சேர்ப்பதற்கான விண்ணப்பங்கள் கோரப்பட்டுள்ளன.
+According to the Grade 5 Scholarship Examination Grade 5 Scholarship Examination for 2023, the students who have won more points for the district cut -off score have been requested to enroll in Grade 6 in Grade 6 in Grade 6 in 2024.
 
-முறையாக பூர்த்தி செய்யப்பட்ட விண்ணப்பங்களை நாளை செவ்வாய்க்கிழமை (13) முதல்  எதிர்வரும் டிசம்பர் 13ஆம் திகதிக்கு முன்னர் வழங்குமாறு பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Examinations has announced that the applications that have been completed will be issued before Tuesday (13) before the 13th of December.
 
-இதன்படி, விண்ணப்பதாரர்கள் கல்வி அமைச்சின் உத்தியோகபூர்வ இணையத்தளமான www.moe.gov.lk அல்லது http://g6application.moe.gov.lk/#/ என்ற இணையத்தளத்திற்கு சென்று நேரடியாக விண்ணப்பங்களை அனுப்புமாறு அமைச்சு கேட்டுக்கொண்டுள்ளது.
+Accordingly, the Ministry has asked the applicants to send applications directly to the official website of the Ministry of Education www.moe.gov.lk or http://g6Application.moe.gov.gov.gov.gov.gov.lk/#/.
 
 ◼️
 
 [Data](articles/f4a6f1fd.json)
+
+[Extended Data](ext_articles/f4a6f1fd.ext.json)
 
 ---
 
@@ -224,35 +256,39 @@ The following will be postponed to tomorrow (13).
 
 ---
 
-### நிறைவேற்று அதிகாரஜனாதிபதி முறை நீக்கத்தில் ரணில் தீவிரகவனம் - சர்வஜனவாக்கெடுப்பா நாடாளுமன்ற தேர்தலா முதலில் என தெரியாத நிலை- மைத்திரிபால சிறிசேன
+### Ranil Extremism in the abolition of the Executive of the Executive - Maithripala Sirisena
 
 *2024-02-12 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/176190) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க நிறைவேற்று அதிகார ஜனாதிபதிமுறையை நீக்குவது குறித்து ஆராய்ந்து வருகின்றார் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்துள்ளார்.
+Former President Maithripala Sirisena has said that President Ranil Wickremesinghe is investigating the abolition of the executive president.
 
-நிறைவேற்று அதிகார ஜனாதிபதி முறையை நீக்குவது குறித்து ஆராய்வதற்காக சட்டத்தரணிகள் குழுவொன்றை ஜனாதிபதி நியமித்துள்ளார் என தெரிவித்துள்ள முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன சர்வஜனவாக்கெடுப்பா நாடாளுமன்ற தேர்தலா முதலில் இடம்பெறும் என தெரியாத நிலை காணப்படுவதாகவும் குறிப்பிட்டுள்ளார்.
+Former President Maithripala Sirisena has said that the president has appointed a panel of lawyers to investigate the abolition of the executive presidency.
 
-முன்னாள் சபாநாயகர் கருஜெயசூர்ய தலைமையிலான குழுவொன்றை நிறைவேற்று அதிகாரமுறை நீக்கம் தொடர்பாகஆராய்வதற்காக ரணில்விக்கிரமசிங்க நியமித்துள்ளார் என மைத்திரிபால சிறிசேன தெரிவித்துள்ளார்.
+Maithripala Sirisena has said that Ranil Wickremesinghe has appointed a committee headed by former Speaker Karujayasuriya to investigate the abolition of the executive.
 
-நாடாளுமன்ற தேர்தலா அல்லது சர்வஜனவாக்கெடுப்பா முதலில் வரும் என சொல்ல முடியாத நிலை காணப்படுகின்றது இது உங்கள் மத்தியில் காணப்படும் கேள்விமாத்திரமல்ல எனக்கும் இந்த கேள்வி உள்ளது என மைத்திரிபால சிறிசேன தெரிவித்துள்ளார்.
+Maithripala Sirisena has said that this is not the question that is in you.
 
 ◼️
 
 [Data](articles/e1b68c89.json)
 
+[Extended Data](ext_articles/e1b68c89.ext.json)
+
 ---
 
-### சுற்றாடல் நீதி மய்யத்தின் மனுவை விசாரணை செய்ய மேன்முறையீட்டு நீதிமன்றம் அனுமதி!
+### The Court of Appeal permits to investigate the petition of the Environmental Justice
 
 *2024-02-12 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176188) · `ta`
 
-சிங்கராஜா வனப் பகுதியின்  பாதுகாப்பு  வலயத்துக்குள்  வீதி மற்றும் குளங்களை அமைப்பதற்கு கடந்த அரசாங்கம் எடுத்த தீர்மானத்துக்கு  எதிராக சுற்றாடல் நீதி மய்யம் சமர்ப்பித்த மனுவை விசாரணை செய்ய மேன்முறையீட்டு நீதிமன்றம் இன்று (12) அனுமதி வழங்கியுள்ளது.
+The Court of Appeal today (12) has granted permission to investigate a petition filed by the last government to construct roads and ponds within the Singaraja Forest Safety Zone.
 
-இதன்படி, மனுவில் பிரதிவாதிகளாக குறிப்பிடப்பட்டுள்ள வனஜீவராசிகள் அமைச்சர்,  சுற்றாடல் அமைச்சர், மத்திய சுற்றாடல் அதிகார சபை, வனஜீவராசிகள் பணிப்பாளர் நாயகம், வனப் பாதுகாப்புப் பணிப்பாளர் நாயகம் உள்ளிட்டோருக்கு நீதிமன்றம் அழைப்பாணை அனுப்பியுள்ளது.
+Accordingly, the court has issued a summit to the Minister of Wildlife, the Minister of Environment, the Central Environmental Authority, the Director of Wildlife and the Forest Protection Director General.
 
 ◼️
 
 [Data](articles/d1742208.json)
+
+[Extended Data](ext_articles/d1742208.ext.json)
 
 ---
 
@@ -388,21 +424,23 @@ In October 2023, he was able to finish the Chicago Marathon in October 2 and 35 
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-02-12 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176185) · `ta`
 
-இலங்கை மத்திய வங்கி இன்றைய தினம் திங்கட்கிழமை (12) வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை 317.82 ரூபாயாகவும் கொள்வனவு விலை 308.19 ரூபாயாகவும் பதிவாகியுள்ளது.
+The Central Bank of Sri Lanka (Central Bank) today (12) has reported that the US dollar sales price is Rs 317.82 and the purchase price is Rs 308.19.
 
-அதைப்போன்று ஸ்ரேலிங் பவுண்ட் ஒன்றின் விற்பனை விலை 403.31 ரூபாய் மற்றும் கொள்வனவு விலை 387.91 ரூபாயாகும்.
+Similarly, the sales price of a Srealing pound is Rs 403.31 and the purchase price is Rs 387.91.
 
-யூரோ ஒன்றின் விற்பனை விலை 344.94 ரூபாய் எனவும் கொள்வனவு விலை 331.05 ரூபாய் எனவும் குறிப்பிடப்பட்டுள்ளது.
+The sales price of the euro is 344.94 rupees and the purchase price is Rs 331.05.
 
-அதன்படி, ஏனைய வெளிநாட்டு நாணய மாற்று விகிதங்கள் தொடர்பாக இன்று (12.02.2024) மத்திய வங்கியினால் வெளியிடப்பட்டுள்ள தகவல்கள் கீழே தரப்பட்டுள்ளது.
+Accordingly, the information released by the Central Bank of India today (12.02.2024) on other foreign currency exchange rates has been issued.
 
 ◼️
 
 [Data](articles/d70713e6.json)
+
+[Extended Data](ext_articles/d70713e6.ext.json)
 
 ---
 
@@ -472,21 +510,23 @@ At the same time, the father, who was blindfolded, attacked his son with a knife
 
 ---
 
-### කුළුබඩු කර්මාන්තකරුවන්ගේ ජාලයක් ගොඩ නැගීමට යයි
+### Spice fleet to build a network of spice
 
 *2024-02-12 13:56:50* · [`adalk`](https://www.ada.lk/breaking_news/කුළුබඩු-කර්මාන්තකරුවන්ගේ-ජාලයක්-ගොඩ-නැගීමට-යයි/11-408029) · `si`
 
-දිවයින පුරා විසිරී සිටින කුළුබඩු එක්‍ රැස් කරන්නන් සහ කුළුබඩු සැකසුම් කරුවන් ලියා පදිංචි කිරීමට අපනයන කෘෂිකර්ම දෙපාර්තමේන්තුව පියවර ගෙන තිබේ.
+The Department of Export Agriculture has taken steps to register one-spicy collectors and spice processors across the country.
 
-කුළුබඩු කර්මාන්ත  සැපයුම් ජාලයක් ගොඩනැගීම හා කුළුබඩු කර්මාන්ත කරුවන් ට අපනයන කෘෂිකර්ම දෙපාර්තමේන්තුවෙන් සැපයෙන සේවා විධිමත්ව ලබා දීම මෙහි අරමුණයි.
+The objective of this program is to build a spice industry supply network and the services provided by the Department of Export Agriculture to the Department of Export Industries.
 
-ගම්මිරිස් ,කෝපි ,කොකෝවා ,සාදික්කා ,කරාබු නැටි,එනසාල් ,වැනිලා,බුලත් ,කරුංකා,සේර,පැඟිරි ,ගොරකා,කහ සහ ඉඟුරු යන කුළුබඩු කර්මාන්තකරුවන්ට මේ යටතේ ලියා පදිංචි විය හැකිවේ.
+The spice industrialists may register with peppers, coffee, cocoa, cloves, cloves, izar, vanilla, seed, yellow, yellow, ginger.
 
-මේ අනුව මෙම කරමාන්තයන්හි ‍යෙදෙන  සුළු ,මධ්‍ය හා මහා පරිමාණ කුළුබඩු කර්මාන්ත කරුවන් පෙබරවාරි 29 දක්වා  අපනයන කෘෂිකර්ම දෙපාර්තමේන්තුවේ ලියා පදිංචි කරගන්නා බව  අපනයන කෘෂිකර්ම දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජෙනරාල් ඒ.පී.පී.දිස්නා මෙනෙවිය පැවසුවාය .
+Accordingly, Minor, Medium and Large Spice Industries Registration of Export Agriculture from February 29 Export Agriculture, Director General of the Department of Export Agriculture, APDhena said.
 
 ◼️
 
 [Data](articles/c1b94c05.json)
+
+[Extended Data](ext_articles/c1b94c05.ext.json)
 
 ---
 
@@ -525,6 +565,8 @@ India has emerged as a leader in Fintech innovation and Digital Public Infrastru
 ◼️
 
 [Data](articles/089f37b5.json)
+
+[Extended Data](ext_articles/089f37b5.ext.json)
 
 ---
 
@@ -1961,25 +2003,5 @@ Dissanayake said the opposition parties were amazed at this concept of the women
 [Data](articles/f9a2044a.json)
 
 [Extended Data](ext_articles/f9a2044a.ext.json)
-
----
-
-### MP suggested to apologize to MP Veerakodi
-
-*2024-02-12 07:35:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-வீரக்கொடியிடம்-மன்னிப்பு-கேட்குமாறு-பரிந்துரை/175-333052) · `ta`
-
-Defense Secretary Kamal Gunaratne and Army Commander Vikum Liyanage, who threatened parliamentarian Chandima Weerakkodi during a committee meeting held at the parliamentary premises, have recommended that Parliament Member Chandima Weerakkodi be apologized.
-
-The Specialist Committee made this recommendation after examining the privilege of Parliament Member Veerakodi in October at a National Security Monitoring Committee meeting chaired by Member of Parliament Sarath Weerasekera on October 5, 2023.
-
-The parliamentarian said he had mentioned at a particular committee meeting that the defense secretary was threatened by the defense budget, that the cost of high -level military personnel was to reduce the cost of the military.
-
-He has asked the Speaker to call them before the Private Committee, saying that the issuance of such threatening statements against a Member of Parliament is against the Standing Orders.
-
-...
-
-[Data](articles/412d257c.json)
-
-[Extended Data](ext_articles/412d257c.ext.json)
 
 ---

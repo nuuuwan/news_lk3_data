@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 00:49:50**
+As of **2024-02-13 01:02:23**
 
 ## Newspaper Stats
 
-*Scraped **6,583** Articles*
+*Scraped **6,586** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,17 +18,67 @@ newsfirstlk | 363
 adalk | 557
 tamilmirrorlk | 802
 adaderanalk | 803
-virakesarilk | 824
+virakesarilk | 825
 adaderanasinhalalk | 917
-dailymirrorlk | 961
+dailymirrorlk | 963
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,580 (100.0%) of 6,583 articles have been extended.
+6,583 (100.0%) of 6,586 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-02-13 (Tuesday)
+
+### 19 வயதின் கீழ் உலகக் கிண்ண தெரிவு அணியில் நான்கு இந்தியர்கள் ; அணித் தலைவர் ஹியூ வெய்ஜென்
+
+*2024-02-13 00:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176234) · `ta`
+
+தென் ஆபிரிக்காவில் நடைபெற்றுவந்த ஐசிசி ஆடவர் 19 வயதுக்குட்பட்ட உலகக் கிண்ண கிரிக்கெட் சுற்றுப் போட்டியில் சிறந்த ஆற்றல்களை வெளிப்படுத்திய வீரர்களிலிருந்து தெரிவு அணியை ஐசிசி வெளியிட்டுள்ளது.
+
+19 வயதுக்குட்பட்ட உலகக் கிண்ண கிரிக்கெட் போட்டியில் 12 அணிகள் பங்குபற்றிய போதிலும் ஐசிசி தெரிவு அணியில் ஐந்து நாடுகளைக் கொண்ட வீரர்களே பெயரிடப்பட்டுள்ளனர்.
+
+ஆறு துடுப்பாட்ட வீரர்கள், ஒரு சகலதுறை வீரர், 4 பந்துவீச்சாளர்கள் தெரிவு அணியில் இடம்பெறுகின்றனர்.
+
+நான்கு இந்திய வீரர்கள் இடம்பெறும் தெரிவு அணிக்கு சம்பியனான அவுஸ்திரேலிய அணியின் தலைவர் ஹியூ வெய்ஜென் தலைவராக பெயரிடப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/0883456c.json)
+
+---
+
+### Living Happily Off Loans
+
+*2024-02-13 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Living-Happily-Off-Loans/172-276861) · `en`
+
+President Ranil Wickremesinghe presented his latest policy statement while opening the new Parliament session on February 7. Contrary to his previous policy statements and special statements on the economy it did not contain so many plans that his government is going to implement, yet it has much food for thought.
+
+Wickremesinghe at the outset painted a rosy picture on the situation. He said that the inflation, which stood at a daunting 50.6 per cent last year, has dramatically decreased to a mere 6.4 per cent, today. Food inflation, previously at an alarming 54.4 per cent, has seen a remarkable decline to just 3.3 per cent. The exchange rate has shown positive movement, with a dollar worth Rs. 362 in the past and now valued at Rs. 314. The current situation is vastly improved, with foreign exchange reserves standing at $ 4.4 billion by the end of
+
+...
+
+[Data](articles/21194cc1.json)
+
+---
+
+### Putting Fetters on Live-In Relationships
+
+*2024-02-13 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Putting-Fetters-on-Live-In-Relationships/172-276862) · `en`
+
+It is feared that an Indian State’s restrictive law on live-in relationships may be replicated by other conservative State governments in India
+
+Earlier this month, the Legislative Assembly of Uttarakhand, a North Indian State at the foot of the Himalayas, passed a Uniform Civil Code (UCC). While most of the provisions were progressive, there were some which put fetters on “live-in” relationships, to the extent of criminalizing them. These provisions have come in for much criticism on the grounds that they invade privacy and individual liberty guaranteed by the Indian constitution.
+
+The law defines living-in as a “relationship between a man and a woman who cohabit in a shared household through a relationship in the nature of marriage.”
+
+...
+
+[Data](articles/aee6d051.json)
+
+---
 
 ### 2024-02-12 (Monday)
 
@@ -108,6 +158,8 @@ Much credit should be expressed to the youth that realised the suppression of th
 
 [Data](articles/719e4e2b.json)
 
+[Extended Data](ext_articles/719e4e2b.ext.json)
+
 ---
 
 ### Online Safety Act (OSA): a policy perspective at a public dialogue
@@ -125,6 +177,8 @@ BALPP students following a post-graduate course in cyber-security observed that 
 ...
 
 [Data](articles/9f7f2314.json)
+
+[Extended Data](ext_articles/9f7f2314.ext.json)
 
 ---
 
@@ -148,17 +202,19 @@ The Director of the Sri Lanka Telecommunications Regulatory Commission added tha
 
 ---
 
-### மீகொட துப்பாக்கிச் சூடு; அதிகாரிகளுக்கு அதிரடி இடமாற்றம்
+### Megoda firing;Action transfer to the authorities
 
 *2024-02-12 22:49:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீகொட-துப்பாக்கிச்-சூடு-அதிகாரிகளுக்கு-அதிரடி-இடமாற்றம்/175-333091) · `ta`
 
-மீகொட பொருளாதார மத்திய நிலையத்திற்கு அருகிலுள்ள பொலிஸ் சோதனைச் சாவடியில் கடமையாற்றிய நிலைய கட்டளைத் தளபதி உட்பட ஐந்து அதிகாரிகள் உடனடியாக அமுலுக்கு வரும் வகையில் இடமாற்றம் செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Five officers, including the Commander -in -Chief, who were on duty at the police checkpoint near the Meegoda Economic Center, were immediately transferred to implementation, police said.
 
-மீகொட பொருளாதார மத்திய நிலையத்தில் இன்று காலை இடம்பெற்ற கொள்ளைச் சம்பவம் தொடர்பில் மேற்கொள்ளப்பட்டு வரும் விசாரணைகள் தொடர்பில் பொலிஸார் இந்த தீர்மானத்தை எடுத்துள்ளனர். R
+Police have taken the decision on the investigation into the robbery that took place this morning at the Meegoda Economic Center. Remble
 
 ◼️
 
 [Data](articles/b15a6707.json)
+
+[Extended Data](ext_articles/b15a6707.ext.json)
 
 ---
 
@@ -1965,65 +2021,5 @@ The Department has informed that there will be showers in the Western and Sabara
 [Data](articles/881288f6.json)
 
 [Extended Data](ext_articles/881288f6.ext.json)
-
----
-
-### Industries to establish industries in prisons
-
-*2024-02-12 14:22:59* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාර-තුළ-කර්මාන්ත-ස්ථාපිත-කිරීමට-යයි/11-408032) · `si`
-
-After the imprisoned inmates released from prison, the Department of Prisons and Industrial Development took place at the Ministry of Justice to establish industries in all prisons today (12) to establish industries.
-
-The Commissioner General of Prisons and Constitutional Reforms, Commissioner General of Prisons and Constitutional Reforms Saranga Alahapperuma and the Chairman of the Industrial Development Board Saranga Alahapperuma were signed before Dr. Wijayadasa Rajapakse.
-
-Entrepreneurs, industrialists have a higher opportunity to establish industries in all bundary through the MoU and the Industrial Development Board and the Department of Prisons for the inmates of the industry.
-
-This will give the detainees of their prison period more meaningful and the use of their prison period of prison for the development of their prison.
-
-The Commissioner General of Prisons Thushara Upuladeniya states:
-
-...
-
-[Data](articles/57572a95.json)
-
-[Extended Data](ext_articles/57572a95.ext.json)
-
----
-
-### Sri Lanka interim mechanism discusses reconciliation bill
-
-*2024-02-12 14:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-interim-mechanism-discusses-reconciliation-bill-150632/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Interim Secretariat for Truth and Reconciliation Mechanism (ISTRM), recently held a forum to discuss the draft bill for a Commission for Truth, Unity, and Reconciliation (CTUR), amidst Human Rights Watch criticism.
-
-“The primary objective of the forum was to discuss various aspects of the draft bill for a Commission for Truth, Unity, and Reconciliation (CTUR), which will play a pivotal role in addressing grievances of persons affected by the conflict in the North and East, promote reconciliation and non-recurrence,” a statement by the President’s media division said.
-
-The statement added that, “participants expressed views on the handling of sensitive information related to national security, collaboration with National Archives for systematic records management and the involvement of the Tamil diaspora in the transitional justice process.”
-
-...
-
-[Data](articles/210c3bf8.json)
-
-[Extended Data](ext_articles/210c3bf8.ext.json)
-
----
-
-### World Marathon Champion dies in a car accident
-
-*2024-02-12 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193286) · `si`
-
-Kelvin Kipitam, Kenya, holding the marathon world record, has died in a car accident.
-
-International media reports said he had left his life in a crash.
-
-Rwanda's GERVAIS HAKIZIANA was killed in the accident yesterday.
-
-In October 2023, he was able to finish the Chicago Marathon in October 2 and 35 seconds.
-
-◼️
-
-[Data](articles/6a5c2e11.json)
-
-[Extended Data](ext_articles/6a5c2e11.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 17:53:21**
+As of **2024-02-12 18:09:13**
 
 ## Newspaper Stats
 
-*Scraped **6,500** Articles*
+*Scraped **6,506** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 78
+colombotelegraphcom | 79
 bbccomsinhala | 89
 dbsjeyarajcom | 147
 economynextcom | 325
@@ -16,9 +16,9 @@ islandlk | 344
 dailyftlk | 348
 newsfirstlk | 363
 adalk | 548
-tamilmirrorlk | 792
+tamilmirrorlk | 793
 adaderanalk | 797
-virakesarilk | 811
+virakesarilk | 815
 adaderanasinhalalk | 905
 dailymirrorlk | 953
 
@@ -26,11 +26,69 @@ dailymirrorlk | 953
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,500 (100.0%) of 6,500 articles have been extended.
+6,506 (100.0%) of 6,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### Correct Correct Recovery from Lindulai Akarakanda River
+
+*2024-02-12 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176207) · `ta`
+
+A body of an unidentified woman has been recovered on Monday (12) in the Nagasena River, which is a resident of the Kotmalai water reservoir of the Talawakelle police division of the Lindulai Police Division.
+
+Lindula police have noticed that a body of passengers traveling from Nagasena to Talawakalai area was found in the river.
+
+This has also been revealed to the people of the area. However, the police said that the information about the woman lying in the water has not yet been identified.
+
+The matter has also been announced to the attention of the Nuwara Eliya District Magistrate's Court.
+
+At the same time, the magistrate visited the scene and visited the body after visiting the body.
+
+◼️
+
+[Data](articles/a04801c2.json)
+
+[Extended Data](ext_articles/a04801c2.ext.json)
+
+---
+
+### CIT inquiry into a container driver collided with Sanath Nishantha's car
+
+*2024-02-12 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/176211) · `ta`
+
+Former State Minister Sanath Nishantha has confessed to the murder and organized Criminal Investigation Division of the Criminal Investigation Department on Monday (12).
+
+Investigations were made to him regarding the death of the former diplomatic minister and his security officer.
+
+Nishantha's wife Mrs. Samari Priyanka has lodged a complaint with the Criminal Investigation Department demanding a proper investigation into the accident.
+
+◼️
+
+[Data](articles/a79c8663.json)
+
+[Extended Data](ext_articles/a79c8663.ext.json)
+
+---
+
+### Jaffna leaders should discuss the events of Tamil Nadu cinema artist - Mano Ganesan
+
+*2024-02-12 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/176204) · `ta`
+
+The events of the art event of Tamil cinema artists in Jaffna should not be a disadvantage for Sri Lanka-Tamil cultural relations. Tamil Progressive Alliance leader and Colombo District Parliamentarian Mano Ganesan has said that the Jaffna District MPs, District Secretary, Police, Jaffna Municipal Council and Civil Society should be gathered in the Jaffna District Committee.
+
+The first day of the Tamil cinema artists at the Jaffna courtyard of the Jaffna courtyard yesterday must pass the events.
+
+The music event, which became a riot, occurred in December 2004 in Colombo.. Bollywood actor Shah Rukh Khan came to Colombo to perform art show. The actor, Shah Rukh, is the one who turned the airport. Today, Sri Lanka is not on his world map.
+
+...
+
+[Data](articles/b1c484a7.json)
+
+[Extended Data](ext_articles/b1c484a7.ext.json)
+
+---
 
 ### Shell-RM Parks and CPSTL sign agreement for fuel storage, distribution
 
@@ -89,6 +147,46 @@ The wife of Sanath Nishantha demands a complaint with the CID, Attorney Chamari 
 [Data](articles/4c8d0a6e.json)
 
 [Extended Data](ext_articles/4c8d0a6e.ext.json)
+
+---
+
+### More than 100 civilians killed in Rafa - Israel
+
+*2024-02-12 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/176202) · `ta`
+
+More than 100 people, including children, have been killed in Israel's intensive air strikes targeting Rafa, the Palestinian Red Cross community said.
+
+More than 100 people have been killed due to attacks targeting many parts of the city.
+
+The copper community has expressed fears that the casualties may increase as the victims of the Israeli attack are under the wreckage.
+
+The director of Abuosev al -Nijar Hospital said that the most wounded people were injured by the bombing of Israel.
+
+CNN said videos have been revealed to be confused with the Rava hospital.
+
+◼️
+
+[Data](articles/3016c94b.json)
+
+[Extended Data](ext_articles/3016c94b.ext.json)
+
+---
+
+### Mosquitoes that rolled like a hurricane;Video
+
+*2024-02-12 16:30:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூறாவளி-போல்-சுழன்ற-கொசுக்கள்-காணொளி/175-333078) · `ta`
+
+Hurricane winds often hit countries including American. Suddenly the air takes the soil on the earth and spins it intact. Then goes to the air as the hand twist. Similarly, even if there is a shark in the sea, suddenly the air will carry the sea water.
+
+It is normal to walk during the hurricane. But the mosquitoes in Kesavnagar and Karadi in Pune, Maharashtra, have suddenly spinned like a hurricane.. What if so many mosquitoes enter the place where people live?The question was raised and worried about hygiene. Moreover, the Pune administration has urged the immediate process of mosquitoes.
+
+The rise of the Mula Mutha River has been the cause of the incident.
+
+◼️
+
+[Data](articles/04504dab.json)
+
+[Extended Data](ext_articles/04504dab.ext.json)
 
 ---
 
@@ -1076,6 +1174,20 @@ Accompanying Sirisena are two officials from the Sri Lanka Freedom Party, as dis
 
 ---
 
+### Inaugurating A New Political Culture With The Uma Oya Project
+
+*2024-02-12 11:56:07* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/inaugurating-a-new-political-culture-with-the-uma-oya-project/) · `en`
+
+The 120 MW hydro power plant of the Uma Oya project is to become operational this month. It will be one of the largest hydro power plants in the country after the Victoria, Kotmale and Upper-Kotmale power stations and will provide Sri Lanka with a badly needed source of low-cost electricity. The construction of this project to divert water from the central highlands to the south-eastern dry zone commenced in March 2010. When infrastructure projects that had been discussed and planned over many decades but no government had been able to actually implement, began to be built during my tenure as President, envious individuals denigrated these achievements by saying that the cost estimates of these projects had been inflated by members of my government in order to make money.
+
+...
+
+[Data](articles/82f55532.json)
+
+[Extended Data](ext_articles/82f55532.ext.json)
+
+---
+
 ### Coconut tree falls down and falls down!
 
 *2024-02-12 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176173) · `ta`
@@ -1859,139 +1971,5 @@ Availability of liver transplant surgeries (under the age of 16), consuming the 
 [Data](articles/437bc5f8.json)
 
 [Extended Data](ext_articles/437bc5f8.ext.json)
-
----
-
-### Shooting at Megoda Economic Center - little girl injury
-
-*2024-02-12 08:59:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீகொட-பொருளாதார-மையத்தில்-துப்பாக்கிச்-சூடு-சிறுமி-காயம்/175-333055) · `ta`
-
-Police say an incident has been reported at a shop at the Megoda Economic Center.
-
-It is reported that the shooting was carried out at a shop at a shop at the Megoda Economic Center this morning.
-
-It is reported that the girl was admitted to the hospital after he was injured when a cashier at the shop was shot three times.
-
-The robbers who robbed the money on the shop shelf shot the girl asking the keys to get the keys from the bottom.
-
-Subsequently, the mysterious men who were involved in the robbery pushed the motorcycle and fled.
-
-While the details of the stolen money have not yet been revealed, the injured girl is currently receiving treatment at the Homagama Hospital. Remble
-
-◼️
-
-[Data](articles/be74f3ec.json)
-
-[Extended Data](ext_articles/be74f3ec.ext.json)
-
----
-
-### Online Safety Act: Amendments to be cleared by Cabinet today
-
-*2024-02-12 08:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Online-Safety-Act-Amendments-to-be-cleared-by-Cabinet-today/108-276803) · `en`
-
-The new amendments to the recently introduced Online Safety Act will be presented to the Cabinet for approval today, an official said.
-
-The government took steps hurriedly to amend the law immediately after it took effect, following pressure from tech companies such as Google, Yahoo, Amazon and Meta and the international community.
-
-The tech companies argued the Act, unless amended, would affect the digital economy of the country.
-
-◼️
-
-[Data](articles/73758b54.json)
-
-[Extended Data](ext_articles/73758b54.ext.json)
-
----
-
-### Marathon world record holder Kiptum dies in road accident
-
-*2024-02-12 08:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Marathon-world-record-holder-Kiptum-dies-in-road-accident/108-276802) · `en`
-
-(BBC) - The men's marathon world record holder, Kenya's Kelvin Kiptum, 24, has died in a road accident in his home country.
-
-He was killed alongside his coach, Rwanda's Gervais Hakizimana, in a car on a road in western Kenya on Sunday.
-
-Kiptum made a breakthrough in 2023 as a rival to compatriot Eliud Kipchoge - one of the greatest marathon runners.
-
-And it was in Chicago last October that Kiptum bettered Kipchoge's achievement, clocking the 26.1 miles (42km) in two hours and 35 seconds.
-
-The two athletes had been named in Kenya's provisional marathon team for the Paris Olympics later this year.
-
-Paying tribute to Kiptum, Kenyan Sports Minister Ababu Namwamba wrote on X: "Devastatingly sickening!! Kenya has lost a special gem. Lost for words."
-
-Kenya's opposition leader and former prime minister, Raila Odinga, said the country had lost "a true hero" and was mourning "a remarkable individual... and Kenyan athletics icon".
-
-...
-
-[Data](articles/0e4df7dd.json)
-
-[Extended Data](ext_articles/0e4df7dd.ext.json)
-
----
-
-### Amendments to the Online Act to be held to Cabinet today
-
-*2024-02-12 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193270) · `si`
-
-Several clauses on the safety methods of the online system are to be amended.
-
-Accordingly, 47 relevant amendments will be produced before the Cabinet of Ministers today (12).
-
-The amendments are due to be produced by the Public Defense Minister Tiran Alles.
-
-Steps have been taken to amend these clauses in the face of protests by various parties.
-
-However, it is reported that these amendments will be passed today.
-
-Accordingly, the revised bill is to be presented in parliamentary dations, following the revised Bill.
-
-Meanwhile, the opposition, including the opposition, has been severely criticized in many sections of the online bill.
-
-The Opposition Leader also expressed their views in this regard and the opposition members of the Opposition.
-
-◼️
-
-[Data](articles/ad9d9995.json)
-
-[Extended Data](ext_articles/ad9d9995.ext.json)
-
----
-
-### “We will not be allowed to postpone the election”
-
-*2024-02-12 08:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-ஒத்திவைக்க-இடமளிக்க-மாட்டோம்/175-333054) · `ta`
-
-Opposition leader Sajith Premadasa has said that the opposition parties will not allow the postponement of the presidential election schedule this year under the guise of abolishing the executive presidency.
-
-Speaking at an event in Colombo on Friday (9), he said, “If we seek to destroy the rights of the people, we will not allow it.
-
-"The SJB) will not be caught in the name of the president in the name of abolishing the executive presidency," he added.
-
-The Opposition Leader added that the SJP is still in the position of abolishing the executive presidency, but it cannot be allowed to destroy the people's mandate and the right to vote in the guise of abolishing the executive presidency.. The upcoming elections to be held in 2024.
-
-◼️
-
-[Data](articles/44d7fcf7.json)
-
-[Extended Data](ext_articles/44d7fcf7.ext.json)
-
----
-
-### Student killed in train
-
-*2024-02-12 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193269) · `si`
-
-The accident had occurred near the Mollipothana Railway Station Thambolipothana.
-
-Police said the student had collided with the train from Gelioya to Trincomalee.
-
-The deceased has been identified as a resident of Mollyipathana area.
-
-◼️
-
-[Data](articles/862be0a4.json)
-
-[Extended Data](ext_articles/862be0a4.ext.json)
 
 ---

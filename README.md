@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 23:02:34**
+As of **2024-02-12 23:17:34**
 
 ## Newspaper Stats
 
-*Scraped **6,565** Articles*
+*Scraped **6,568** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 347
 dailyftlk | 348
 newsfirstlk | 363
 adalk | 557
-adaderanalk | 800
 tamilmirrorlk | 801
+adaderanalk | 803
 virakesarilk | 819
 adaderanasinhalalk | 915
 dailymirrorlk | 961
@@ -26,11 +26,31 @@ dailymirrorlk | 961
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,565 (100.0%) of 6,565 articles have been extended.
+6,565 (100.0%) of 6,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### IMF chief ‘very confident’ on soft landing, sees rate cuts coming
+
+*2024-02-12 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97209/imf-chief-very-confident-on-soft-landing-sees-rate-cuts-coming) · `en`
+
+(Reuters) - The International Monetary Fund is now “very confident” the global economy will see a soft landing, its managing director Kristalina Georgieva said on Monday, adding that interest rates would start coming down around mid year.
+
+“We are very confident that the world economy is now poised for this soft landing we have been dreaming for,” after some of the sharpest interest rate hikes in decades, Georgieva said at the World Governments Summit in Dubai.
+
+On the prospect of interest rates being cut in leading economies like the United States, she added: “I expect to see by mid year interest rates going in the direction inflation has been going on for the last year.”
+
+She cautioned to expect the unexpected in the wake of the COVID-19 pandemic and said a prolonged war between Israel and Hamas would impact global economies.
+
+“I fear most a longevity of the conflict because (if) it goes on and on the risk of spillovers go up,” the IMF chief said.
+
+...
+
+[Data](articles/b2b74f56.json)
+
+---
 
 ### Constable drowns at Uswatakeiyawa
 
@@ -114,6 +134,22 @@ Addresing the media, he said that the country's health sector solely requires pr
 
 ---
 
+### Digital payment systems offer numerous benefits for small and medium enterprises - CBSL official
+
+*2024-02-12 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97208/digital-payment-systems-offer-numerous-benefits-for-small-and-medium-enterprises-cbsl-official) · `en`
+
+Businesses can easily obtain QR codes by contacting their respective financial institutions and reaching a trade agreement, while all banks and financial institutions registered with the Central Bank of Sri Lanka (CBSL) are mandated to issue these codes, says CBSL’s Director of Payments and Settlements.
+
+He stated this during press conference was held this afternoon (12) at the President’s Media Center to announce a significant development aimed at making payments easier for Indian tourists in Sri Lanka. The conference followed the virtual launch introducing India’s UPI transactions, highlighting their groundbreaking impact in connecting Sri Lanka and India.
+
+Jointly implemented by NPCI International Payments Limited and Sri Lanka’s LankaPay, the program seeks to rapidly expand this payment system across 10,000 stores simultaneously. By March 2024, there are plans to further extend this facility to encompass a staggering 65,000 stores nationwide.
+
+...
+
+[Data](articles/3a6ad78a.json)
+
+---
+
 ### New leader of Bangladesh cricket team
 
 *2024-02-12 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193302) · `si`
@@ -131,6 +167,22 @@ This news is the context of reports that the Bangladesh team will lead the Bangl
 [Data](articles/4687b577.json)
 
 [Extended Data](ext_articles/4687b577.ext.json)
+
+---
+
+### India’s NCGG holds capacity building programme for senior civil servants of Sri Lanka
+
+*2024-02-12 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97207/indias-ncgg-holds-capacity-building-programme-for-senior-civil-servants-of-sri-lanka) · `en`
+
+The first executive batch of the special capacity building programme for senior civil servants of Sri Lanka organised by the National Centre for Good Governance (NCGG) of India commenced today at New Delhi.
+
+The programme is being organised from 12th February 2024 to 17th February 2024. The programme is being attended by fourteen senior civil servant officers from Sri Lanka working under capacities as Secretary to the Prime Minister, Deputy Solicitor General, Directors, Executive Director among others.
+
+The NCGG, an autonomous institution under the Department of Administrative Reforms and Public Grievances, Ministry of Personnel, Public Grievances and Pensions, Government of India, is committed to action research, studies, and capacity building in public policy and governance at both the national and international levels, a statement said.
+
+...
+
+[Data](articles/2d3a6d82.json)
 
 ---
 
@@ -1997,61 +2049,5 @@ Suspect is a 44 year old resident of Henatiyiyana area. The racket had been carr
 [Data](articles/a3beaf1d.json)
 
 [Extended Data](ext_articles/a3beaf1d.ext.json)
-
----
-
-### India’s UPI payment service launched in Sri Lanka
-
-*2024-02-12 13:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97199/indias-upi-payment-service-launched-in-sri-lanka) · `en`
-
-India’s Unified Payment Interface (UPI) transactions, via LankaQR, was officially introduced to Sri Lanka at a virtual launch held on Monday (12 Feb.).
-
-The real-time payment system aims to enhance digital payments for Indian tourists in Sri Lanka.
-
-India’s instant payment technology Unified Payment Interface (UPI) services were simultaneously launched in Sri Lanka and Mauritius on Monday, in the virtual presence of Indian Prime Minister Narendra Modi, President of Sri Lanka Ranil Wickremesinghe and Prime Minister of Mauritius Pravind Jugnauth.
-
-According to the President’s Media Division (PMD), the initiative, led by the National Payments Corporation of India (NPCI) International Payments Limited & LankaPay Pvt Ltd, aims to rapidly expand, with 10,000 merchants set to accept UPI payments shortly after the launch.
-
-By March 2024, this number will reach 65,000, providing a seamless payment solution for Indian tourists, the PMD reported.
-
-...
-
-[Data](articles/942001a6.json)
-
-[Extended Data](ext_articles/942001a6.ext.json)
-
----
-
-### Jack Leach loses Indian tournament
-
-*2024-02-12 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193282) · `si`
-
-England Test team spinner Jack Leech has to remove the Test with India.
-
-It is reported that doctors have recommended him to take advice due to the healing of knee disorder.
-
-Due to this disorder, Leach had to leave the first Test on the first Test on Hyderabad.
-
-◼️
-
-[Data](articles/4e1922ea.json)
-
-[Extended Data](ext_articles/4e1922ea.ext.json)
-
----
-
-### Exhibiting appeals to school students by scholarship results
-
-*2024-02-12 13:29:42* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-ප්‍රතිඵල-අනුව-පාසල්වලට-සිසුන්-ඇතුළත්-කිරීමට-අදාළව-අභියාචනා-කැඳවයි/11-408026) · `si`
-
-In the year 5 scholarship testing in 2023, the students' appeals to the students to be included in Grade 6, 2024. 02. 1324 to 2024. 02. Now there is now the ability to refer to online system until 29 days.
-
-The official website of the Ministry of Education is the ability to make appeals for a maximum of three schools and direct appeals through http://g6application.gov.lk/#/ extension.Exist.
-
-◼️
-
-[Data](articles/78784331.json)
-
-[Extended Data](ext_articles/78784331.ext.json)
 
 ---

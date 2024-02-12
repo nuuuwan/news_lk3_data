@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 21:33:07**
+As of **2024-02-12 21:52:02**
 
 ## Newspaper Stats
 
-*Scraped **6,553** Articles*
+*Scraped **6,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ economynextcom | 337
 islandlk | 347
 dailyftlk | 348
 newsfirstlk | 363
-adalk | 555
-tamilmirrorlk | 799
+adalk | 556
+tamilmirrorlk | 800
 adaderanalk | 800
 virakesarilk | 819
 adaderanasinhalalk | 912
-dailymirrorlk | 956
+dailymirrorlk | 957
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,552 (100.0%) of 6,553 articles have been extended.
+6,553 (100.0%) of 6,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### குளவி கொட்டுக்கு இலக்கான 12 மாணவர்கள்
+
+*2024-02-12 20:25:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குளவி-கொட்டுக்கு-இலக்கான-12-மாணவர்கள்/76-333089) · `ta`
+
+நல்லதண்ணி பொலிஸ் பிரிவில் உள்ள பொரஸ் பிரிவில் தனியார் வகுப்பு சென்ற மாணவ மாணவிகள் குளவி கொட்டுக்கு இலக்கான நிலையில் மஸ்கெலியா மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றனர்.
+
+நல்லதண்ணி தமிழ் வித்தியாலயத்தில் கல்வி பயிலும் 13 வயதுடைய மாணவ மாணவிகள் இன்று மாலை 6 மணிக்கு தனியார் வகுப்புக்கு சென்று திரும்பும் வேளையில் குளவி கொட்டுக்கு இலக்காகியுள்ளனர்.
+
+இவ்வாறு தனியார் வகுப்புக்கு சென்று திரும்பும் வேளையில் 3 ஆண் மாணவர்கள் 9 பெண் மாணவியர்கள் எனவும் அனைவரும் 13 வயதுடையவர்கள் என்று நல்லதண்ணி பொலிஸ் நிலைய பொறுப்பதிகாரி சாந்த வீரசேகர தெரிவித்தார். R
+
+◼️
+
+[Data](articles/29428bab.json)
+
+---
 
 ### Woman arrested for robting a salon with casual husband
 
@@ -126,6 +142,24 @@ It is said that in one container contains about US $ 1 million drugs.
 
 ---
 
+### Court issues notices on Environment Minister
+
+*2024-02-12 20:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-issues-notices-on-Environment-Minister/108-276854) · `en`
+
+Colombo, Feb 12 (Daily Mirror) - The Court of Appeal today issued notices on the Minister of Environment, the Central Environmental Authority and several others in connection with the writ petition filed challenging the construction of reservoirs and roads and clearing of state forest lands in the Sinharaja Forest Reserve in 2020.
+
+Meanwhile, the Court rejected the preliminary objections raised by the respondents and decided to fix the matter for hearing.
+
+The respondent parties including the Minister of Environment and the Central Environmental Authority had raised preliminary objections challenging the maintainability of the petition.
+
+The Centre for Environmental Justice (CEJ) and its Executive Director Hemantha Withanage filed this petition naming the Conservator General of Forests, the Central Environmental Authority, thr Minister of Environment, the Minister of Wildlife and Forest Conservation, the Minister of Irrigation and the Attorney General as respondents.
+
+...
+
+[Data](articles/8caa888e.json)
+
+---
+
 ### Memorandum of Understanding to set up factories within the prison campus
 
 *2024-02-12 20:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176227) · `ta`
@@ -159,6 +193,24 @@ Furthermore, the Director highlighted the risks associated with unregistered or 
 ...
 
 [Data](articles/d7bbbbaa.json)
+
+[Extended Data](ext_articles/d7bbbbaa.ext.json)
+
+---
+
+### ’අනුර ඩුමුක අමුල් අමුල්’
+
+*2024-02-12 19:45:31* · [`adalk`](https://www.ada.lk/breaking_news/’අනුර-ඩුමුක-අමුල්-අමුල්’/11-408040) · `si`
+
+අද ජනතා විමුක්ති පෙරමුණේ නායකයන් "එට්කා" කියන විට "ඉක්කා ගහන" තත්ත්වයට පත්ව ඇති බවත් මිල්කෝ සමාගම, ඉන්දියාවේ අමුල් සමාගමට විකුණා දැමීම ටෙන්ඩර් පටිපාටියක් අනුව සිදු නොකිරීම පමණක් ඔවුන්ට ප්‍රශ්නයක් වී ඇති බවත් පෙන්වා දුන් ජාතික නිදහස් පෙරමුණේ නායක, පාර්ලිමේන්තු මන්ත්‍රී වීමල් වීරවංශ මහතා ටෙන්ඩර් කර හෝ නොකර අපේ රටේ වටිනා සම්පත් කුණුකොල්ලයට විකුණා දැමීම නිවැරදි දැයි ප්‍රශ්න කර සිටියි.
+
+ඊයේ (11) සවස පිළියන්දල, සුවාරපොළ දී පැවති "9න් පසුව : ශ්‍රී ලංකාවේ ඉරණම?" යන මැයෙන් පැවති ජන හමුවක් අමතමින් ඒ මහතා මෙසේ පෙන්වා දුන්නේය.
+
+"මේ ආර්ථික අර්බුදය ඇතුළේ විදුලි බල මණ්ඩලය කොටස්වලට කඩලා විකුණන්නයි සූදානම. ඒක ගන්න ඇවිල්ලා තියෙන්නේ ටාටා, අදානි ඇතුළු මහා ඉන්දියානු සමාගම්වලින්. මේකෙන් අවසානයේදී වෙන්නේ ඉන්දියාව අතට අපේ රටේ විදුලිය නිපදවීමේ සහ බෙදාහැරීමේ බලය යන එක. ඊට පස්සේ මේ රටේ ජනතාවගේ ඡන්දයෙන් ඉන්දියාව අසතුටු අයෙකු බලයට ආවොත් ඔවුන්ට මේ 'විදුලි බලය' සමඟ ලැබෙන 'හයියෙන්' ඒ පාලකයාව එළවා දමන්න හැකියාව ලැබෙනවා.
+
+...
+
+[Data](articles/3fed5ae7.json)
 
 ---
 
@@ -1973,61 +2025,5 @@ He also claimed that intermediaries earn huge profits, leading to massive differ
 [Data](articles/ac6fd5e5.json)
 
 [Extended Data](ext_articles/ac6fd5e5.ext.json)
-
----
-
-### Iran keen to share technology and science knowledge with Sri Lanka: Ambassador
-
-*2024-02-12 12:26:00* · [`economynextcom`](https://economynext.com/iran-keen-to-share-technology-and-science-knowledge-with-sri-lanka-ambassador-150609/) · `en`
-
-ECONOMYNEXT – Iran’s ambassador to Sri Lanka Alireza Delkhosh has said that Iran hopes to share technology and science knowledge with Sri Lanka.
-
-“Iran has achieved great progress in terms of technology and science and hopes to share that technology and science knowledge with Sri Lanka,” Delkosh said at the ceremony held in Colombo to mark the 45th National Independence Day of Iran.
-
-“Iran’s foreign policy focuses on two main areas: economic cooperation between States, and strengthening regional security,” Delkosh was quoted as saying at the event, according to a statement by the Department of Government Information.
-
-Chief guest at the ceremony, Minister Pavithra Wanniarachchi thanked Iran for its support in the ‘Uma oya multipurpose development project’, and the financial and technical support provided by the Iranian government.
-
-...
-
-[Data](articles/a06418c7.json)
-
-[Extended Data](ext_articles/a06418c7.ext.json)
-
----
-
-### Footballer killed in lightning strikes
-
-*2024-02-12 12:22:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மின்னல்-தாக்கி-கால்பந்து-வீரர்-பலி/50-333066) · `ta`
-
-A footballer died after lightning struck a football match on Saturday (10) in Indonesia.
-
-A 34 -year -old man from Subang is contesting between FC Pandung and FBI Subang at the Chilivaangi Ground in Pandung, West Java.
-
-Suddenly he stood in the middle of the stadium and died on the spot when lightning struck.
-
-◼️
-
-[Data](articles/36426f4a.json)
-
-[Extended Data](ext_articles/36426f4a.ext.json)
-
----
-
-### Footballer kills lightning: video
-
-*2024-02-12 12:22:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மின்னல்-தாக்கி-கால்பந்து-வீரர்-பலி-காணொளி/50-333066) · `ta`
-
-A footballer died after lightning struck a football match on Saturday (10) in Indonesia.
-
-A 34 -year -old man from Subang is contesting between FC Pandung and FBI Subang at the Chilivaangi Ground in Pandung, West Java.
-
-Suddenly he stood in the middle of the stadium and died on the spot when lightning struck.
-
-◼️
-
-[Data](articles/db4423d6.json)
-
-[Extended Data](ext_articles/db4423d6.ext.json)
 
 ---

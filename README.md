@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 22:04:43**
+As of **2024-02-12 22:17:27**
 
 ## Newspaper Stats
 
-*Scraped **6,556** Articles*
+*Scraped **6,557** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ adalk | 556
 tamilmirrorlk | 800
 adaderanalk | 800
 virakesarilk | 819
-adaderanasinhalalk | 912
+adaderanasinhalalk | 913
 dailymirrorlk | 957
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,556 (100.0%) of 6,556 articles have been extended.
+6,556 (100.0%) of 6,557 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### මීගොඩ ආර්ථිකය කොල්ලකද්දී පොලීසිය නිදිද?
+
+*2024-02-12 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193301) · `si`
+
+මීගොඩ ආර්ථික මධ්‍යස්ථානයේ කොල්ලය සිදුවන අවස්ථාවේ එහි ආරක්ෂාව වෙනුවෙන් ස්ථාපිත කර ඇති පොලිස් මුරපොළේ නිලධාරීන් නිදා සිට ඇති බවට මීගොඩ ආර්ථික මධ්‍යස්ථානයේ වෙළෙඳ සංගමය චෝදනා කර තිබේ.
+
+මීගොඩ ආර්ථික මධ්‍යස්ථානයේ වෙළෙඳ සංගමයේ ලේකම් චමින්ද රෝහණ කුමාර මහතා පැවසුවේ මිනිත්තු 30කට ආසන්න කාලයක් ගතවනතුරු කිසිදු පොලිස් නිලධාරියෙකු එම ස්ථානයට පැමිණ නොමැති බවය.
+
+ආර්ථික මධ්‍යස්ථානයේ සේවකයින් එම පොලිස් මුරපොළ වෙත ගොස් එහි සිටි නිලධාරීන් නින්දෙන් ඇහැරවා ඔවුන් එහි රැගෙනවිත් ඇති බවටද වෙළෙඳ සංගමය වැඩිදුරටත් චෝදනා එල්ලකළේය.
+
+මීගොඩ ආර්ථික මධ්‍යස්ථානයේ ආරක්ෂාව වෙනුවෙන්ම ස්ථාපනය කළ පොලිස් මුරපොළ කොල්ලකෑම සිදුවූ වෙළෙඳසැළට ඉතාම ආසන්නයෙන් පිහිටා තිබීමද විශේෂත්වයකි.
+
+මෙම තත්ත්වය හමුවේ වෙළෙඳ සංගමය පවසන්නේ එහි ආරක්ෂාව පිළිබඳව තැකීමක් නොකරන බවට මීට පෙර බලධාරීන් වෙත දන්වා ඇති බවය.
+
+මේ හේතුවෙන් ආර්ථික මධ්‍යස්ථානයට සපයා ඇති ආරක්ෂාව ප්‍රමාණවත් නොවන බව පවසමින් එහි වෙළෙඳුන් අද තොග වෙළෙඳාමෙන් ඉවත්විය.
+
+සිද්ධිය සම්බන්ධයෙන් මේ දක්වා කිසිවෙකුත් අත්අඩංගුවට ගැනීමට පොලිසිය සමත්ව නැති අතර, සැකකරුවන් සොයා විමර්ශන ආරම්භ කර තිබේ.
+
+...
+
+[Data](articles/d98cc8ad.json)
+
+---
 
 ### 12 students targeting wasps
 
@@ -2011,25 +2035,5 @@ However, Thalduwa maintained that no one had been arrested by the CID.
 [Data](articles/793440fe.json)
 
 [Extended Data](ext_articles/793440fe.ext.json)
-
----
-
-### SJB govt will remove 18 pct VAT on fertiliser, other agriculture inputs: SJB
-
-*2024-02-12 12:36:00* · [`economynextcom`](https://economynext.com/sjb-govt-will-remove-18-pct-vat-on-fertiliser-other-agriculture-inputs-sjb-150607/) · `en`
-
-ECONOMYNEXT — A future government led by Sri Lanka’s incumbent main opposition the Samagi Jana Balawegaya (SJB) will remove an existing 18 percent value added tax (VAT) on fertiliser and other agriculture inputs, SJB leader Sajith Premadasa said.
-
-Speaking at a paddy farmers’ summit held in Galgamuwa, Kurunegala, on Sunday February 11, Premadasa said an SJB government will establish a ‘national agriculture policy’ to protect farmers across the island.
-
-He also claimed that intermediaries earn huge profits, leading to massive differences between the price of rice sold in the market and the price fetched by farmers for the paddy they sell.
-
-“For a kilo of Nadu paddy, the farmer gets 92 rupees, but in the market, a price of 1 kilo of Nadu rice is 220 rupees. Samba paddy will get you 106 rupees, while Samba rice is sold for 260. Keeri samba paddy  fetches 137.50 rupees, while keeri samba rice goes for 370,” said Premadasa.
-
-...
-
-[Data](articles/ac6fd5e5.json)
-
-[Extended Data](ext_articles/ac6fd5e5.ext.json)
 
 ---

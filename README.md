@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 02:32:48**
+As of **2024-02-13 02:48:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 963
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,586 (99.9%) of 6,592 articles have been extended.
+6,592 (100.0%) of 6,592 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ Addressing a press conference, Marikkar said the SJB would not endorse any attem
 
 [Data](articles/72c15cc5.json)
 
+[Extended Data](ext_articles/72c15cc5.ext.json)
+
 ---
 
 ### HRCSL alarmed by OSA compliance issues with SC determination
@@ -65,6 +67,8 @@ While the Court permitted Parliament to proceed with the Bill after incorporatin
 ...
 
 [Data](articles/39a19d1b.json)
+
+[Extended Data](ext_articles/39a19d1b.ext.json)
 
 ---
 
@@ -80,6 +84,8 @@ The event, enforced COYLE’s annual theme “Evolution” highlighting the resi
 
 [Data](articles/ebbf0930.json)
 
+[Extended Data](ext_articles/ebbf0930.ext.json)
+
 ---
 
 ### EU - Sri Lanka discussions on enhancing bilateral trade ties
@@ -94,6 +100,8 @@ The session was co-chaired by EU side Directorate General for Trade of the Europ
 
 [Data](articles/5f8e4f9b.json)
 
+[Extended Data](ext_articles/5f8e4f9b.ext.json)
+
 ---
 
 ### USA Ambassador discusses food security with Trade Minister
@@ -107,6 +115,8 @@ The Ambassador said that currently, Sri Lanka is in the way of economic progress
 ...
 
 [Data](articles/842a8af1.json)
+
+[Extended Data](ext_articles/842a8af1.ext.json)
 
 ---
 
@@ -127,6 +137,8 @@ On 8 June 2023, the Government of Sri Lanka signed an agreement with RM Parks In
 ...
 
 [Data](articles/9c82e820.json)
+
+[Extended Data](ext_articles/9c82e820.ext.json)
 
 ---
 

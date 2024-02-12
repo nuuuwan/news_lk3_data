@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 09:17:25**
+As of **2024-02-12 09:33:23**
 
 ## Newspaper Stats
 
@@ -26,35 +26,37 @@ dailymirrorlk | 927
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,391 (100.0%) of 6,392 articles have been extended.
+6,392 (100.0%) of 6,392 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### ඔන්ලයින් පනතේ සංශෝධන කිහිපයක් අද කැබිනට් මණ්ඩලයට
+### Amendments to the Online Act to be held to Cabinet today
 
 *2024-02-12 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193270) · `si`
 
-මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත හෙවත් ඔන්ලයින් පනතේ වගන්ති කිහිපයක් සංශෝධනය කිරීමට නියමිතව තිබේ.
+Several clauses on the safety methods of the online system are to be amended.
 
-ඒ අනුව ඊට අදාළ සංශෝධන 47ක් අද (12) දිනයේ පැවැත්වෙන අමාත්‍ය මණ්ඩලය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+Accordingly, 47 relevant amendments will be produced before the Cabinet of Ministers today (12).
 
-මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා විසින් මෙම සංශෝධන ඉදිරිපත් කිරීමට නියමිතව තිබේ.
+The amendments are due to be produced by the Public Defense Minister Tiran Alles.
 
-විවිධ පාර්ශව මඟින් එල්ලවන විරෝධතා හමුවේ මෙම වගන්ති සංශෝධනය කිරීමට පියවර ගෙන ඇති බව සඳහන්ය.
+Steps have been taken to amend these clauses in the face of protests by various parties.
 
-කෙසේවෙතත් මෙම සංශෝධන අද දිනයේ දී ම සම්මත වනු ඇති බව වාර්තා වේ.
+However, it is reported that these amendments will be passed today.
 
-ඒ අනුව සංශෝධිත පනත් කෙටුම්පත ගැසට් කිරීමෙන් අනතුරුව පළමු වර කියවීම එළඹෙන පාර්ලිමේන්තු දිනයන්වලදී ඉදිරිපත් කිරීමට නියමිතව තිබේ.
+Accordingly, the revised bill is to be presented in parliamentary dations, following the revised Bill.
 
-මේ අතර ඔන්ලයින් පනතේ බොහෝ වගන්ති සම්බන්ධයෙන් විපක්ෂය ඇතුළු පාර්ශවවල දැඩි විවේචන එල්ල වුණි.
+Meanwhile, the opposition, including the opposition, has been severely criticized in many sections of the online bill.
 
-පාර්ලිමේන්තුව තුළත් ඉන් පිටතත් මේ සම්බන්ධයෙන් දැඩි විවේචන එල්ල වු අතර පනත් කෙටුම්පත සම්මත කරගත් ආකාරය සම්බන්ධයෙන් ද විපක්ෂ නායකවරයා ඇතුළු විපක්ෂයේ මන්ත්‍රීවරුන් රැසක් පාර්ලිමේන්තුව තුළත් අදහස් පළ කළේය.
+The Opposition Leader also expressed their views in this regard and the opposition members of the Opposition.
 
 ◼️
 
 [Data](articles/ad9d9995.json)
+
+[Extended Data](ext_articles/ad9d9995.ext.json)
 
 ---
 

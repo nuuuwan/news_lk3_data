@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 10:02:55**
+As of **2024-02-12 10:17:23**
 
 ## Newspaper Stats
 
-*Scraped **6,398** Articles*
+*Scraped **6,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,122 @@ economynextcom | 323
 islandlk | 344
 dailyftlk | 348
 newsfirstlk | 363
-adalk | 534
+adalk | 535
 tamilmirrorlk | 780
 adaderanalk | 787
-virakesarilk | 794
-adaderanasinhalalk | 882
+virakesarilk | 796
+adaderanasinhalalk | 885
 dailymirrorlk | 931
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,398 (100.0%) of 6,398 articles have been extended.
+6,398 (99.9%) of 6,404 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### பன்னிபிட்டியவில் தொழிற்சாலை ஒன்றில் தீ விபத்து
+
+*2024-02-12 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176152) · `ta`
+
+பன்னிபிட்டிய, மஹல்வராவ பகுதியில் ஊதுபத்தி குச்சிகள் தயாரிக்கும் தொழிற்சாலையில் தீ விபத்து சம்பவம் ஒன்று இன்று திங்கட்கிழமை (12) இடம்பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/d112a588.json)
+
+---
+
+### එක්සත් අරාබි එමීර් රාජ්‍යයේ සේවකයින්ට හදිසි දැනුම්දීමක්
+
+*2024-02-12 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193273) · `si`
+
+අහිතකර කාලගුණික වෙනස්වීම් හේතුවෙන් අද (12 ) දිනයේ සිට එක්සත් අරාබි එමීර් රාජ්‍යයේ පෞද්ගලික අංශයේ සේවකයින්ට නිවසේ සිට රාජකාරි සිදුකිරීමට අවසර ලබා දෙන ලෙසට එම සමාගම්වලින් ඉල්ලීම් කර තිබේ.
+
+එක්සත් අරාබි එමීර් රාජ්‍යය නිවේදනයක් නිකුත් කරමින් පවසා ඇත්තේ, රැකියා ස්ථානයේ භෞතිකව සිටීම අවශ්‍ය තනතුරු හැර අනෙකුත් සියලුම රජයේ සේවකයින් සඳහා නිවසේ සිට රජකාරී සිදුකිරීමට අවසර ලබා දී ඇති බවය.
+
+එරට කාලගුණ දෙපාර්තමේන්තුව සිදුකළ අනතුරු ඇඟවීම් අනුව මෙම ක්‍රියාමාර්ග අරගෙන ඇති බව සඳහන් වේ.
+
+එළිමහනේ වැඩකටයුතු සිදුකිරීමට අවශ්‍ය නම් වෘත්තීයයන් සිදුකරන පිරිසට සෞඛ්‍ය ආරක්‍ෂිත පිළි‍වෙත්වලට අනුකූල සේවකයන් යෙදවීමට සමාගම් විසින් අවශ්‍ය ක්‍රියාමාර්ග ගත යුතු බවට එරට රජය විසින් නිවේදය කර ඇත.
+
+එක්සත් අරාබි එමීර් රාජ්‍යයේ අබුඩාබි, ඩුබායි, සාජා, ෆුජයිරා, අජ්මාන් සහ රාස් අල් කයිමා යන ප්‍රදේශවලට ඊයේ  (11) තද සුළං, අකුණු සහ ගිගුරුම් සහිත වැසි වාර්තා වී තිබේ.
+
+මේ හේතුවෙන් පාසල් සිසුන්ට ‍මෙන්ම විශ්වවිද්‍යාල සිසුන්ට ද නිවසේ සිට අධ්‍යනය කටයුතු සිදුකිරීමට උපදෙස් ලබා දී ඇත.
+
+◼️
+
+[Data](articles/2a4cbf39.json)
+
+---
+
+### බිත්තරයක මිල අද සිට ඉහළට
+
+*2024-02-12 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193272) · `si`
+
+බිත්තරයක මිල අද (12) සිට ඉහළ නැංවීමට සමස්ත ලංකා බිත්තර වෙළෙඳ සංගමය තීරණය කර තිබේ.
+
+බිත්තර බෙදාහැරීමේ වියදම් සහ එම වෙළෙඳාමට බලපාන වියදම් රැසක ඉහළ යාම හේතුවෙන් මෙම තීරණය ගත් බව එම සංගමයේ ලේකම් බුද්ධික වීරසේන මහතා සඳහන් කළේය.
+
+ඒ අනුව අද සිට බිත්තරයක තොග මිල රුපියල් 58ක් වන අතර සිල්ලර මිල රුපියල් 63ක් දක්වා විහිඳ යා හැකි බව එම සංගමය පැවසීය.
+
+◼️
+
+[Data](articles/dbe83ee0.json)
+
+---
+
+### மீகொடை பொருளாதார மத்திய நிலையத்தில் பெண் ஒருவர் மீது துப்பாக்கிச் சூடு
+
+*2024-02-12 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176151) · `ta`
+
+மீகொடை பொருளாதார மத்திய நிலையத்தின் கடையொன்றில் கொள்ளையிட வந்தவர்கள் நேற்று ஞாயிற்றுக்கிழமை  (11) இரவு பெண் ஒருவர் மீது துப்பாக்கி சூட்டை மேற்கொண்டுள்ளனர்.
+
+பொருளாதார மையத்தில் உள்ள கடையொன்றின் பெண் காசாளர் மீதே இனம்தெரியாாத இருவர் துப்பாக்கிச் சூட்டை நடத்தியுள்ளனர்.
+
+துப்பாக்கிச் சூட்டில் காயமடைந்த பெண் ஹோமாகம வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளதாக மீகொடை பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/06c89a9d.json)
+
+---
+
+### අලුත් ප්‍රවණතාවයක් ගැන පොලීසියෙන් අනතුරු ඇඟවීමක්
+
+*2024-02-12 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193271) · `si`
+
+විෂ මත්ද්‍රව්‍ය සමාජයේ හිඟවීම හේතුවෙන් පුද්ගලයින් මත් පෙති භාවිතයට යොමු වීමේ වැඩි ප්‍රවණතාවක් පවතින බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දුව මහතා පවසයි.
+
+පොලීසිය විසින් සිදුකළ මුලික විමර්ශනවලදී මේ සම්බන්ධයෙන් තොරතුරු වාර්තා වී ඇති බව ඔහු සඳහන් කළේය.
+
+මේ සම්බන්ධයෙන් වැඩිදුරටත් කරුණු පැහැදිලි කරන පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දුව මහතා,
+
+"පසුගිය දිනවල මත්පෙති 363,438ක් අපි පොලිස් භාරයට ගත්තා පසුගිය කාලසීමාව තුළ. විෂ මත්ද්‍රව්‍ය ජාවාරමේ යෙදෙන පුද්ගලයින් අත්අඩංගුවට ගන්නවා හා සමානව ඊට කලින් මත්ද්‍රව්‍ය ජාවාරම්වල යෙදිලා යම් යම් අධිකරණවල නඩු පවරලා, නීතිය ක්‍රියාත්මක වෙමින් පවතින සැකකරුවෙන් අධිකරණයේ පෙනී නොසිටීම නිසා වරෙන්තු නිකුත් කරලා තියෙනවා. ඔවුන්වත් අත්අඩංගුවට ගැනීමට කටයුතු කරනවා මේ මෙහෙයුම හරහා."
+
+◼️
+
+[Data](articles/bc501bd5.json)
+
+---
+
+### කුඩා දරුවන්ට ජනපති අරමුදලින් සහනයක්
+
+*2024-02-12 08:59:46* · [`adalk`](https://www.ada.lk/breaking_news/කුඩා-දරුවන්ට-ජනපති-අරමුදලින්-සහනයක්/11-408018) · `si`
+
+රාගම ශික්ෂණ රෝහලේ දී සිදුකරන කුඩා දරුවන්ගේ අක්මා බද්ධ කිරීමේ ශල්‍යකර්ම සඳහා සහ ශ්‍රී ජයවර්ධනපුර මහ රෝහලේදී දරුවන් වෙත සිදු කරන කර්ණශංඛ බද්ධ කිරීමේ ශල්‍යකර්මය සඳහා ජනාධිපති අරමුදලින් මූල්‍යාධාර ලබා දීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උපදෙස් දී තිබේ.
+
+රටේ අනාගතය වන දරු පරපුරේ සුබසිද්ධිය සහ දුප්පත් දෙමව්පියන්ට සහනයක් වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මෙම උපදෙස් ලබා දී ඇත.
+
+උතුරු කොළඹ මහ රෝහලේ (රාගම ශික්ෂණ රෝහල) සිදු කරනු ලබන කුඩා දරුවන්ගේ (වයස අවුරුදු 16ට අඩු ) අක්මා බද්ධ කිරීමේ ශල්‍යකර්මවලදී පූර්ව සහ පසු පරීක්ෂණ සහ ප්‍රතිකාර සඳහා යන අධික වියදම සලකා, එවැනි රෝගීන් වෙනුවෙන් ජනාධිපති අරමුදලින් වෛද්‍යාධාර ඉල්ලුම් කිරීමේ දී සම්පූර්ණ කරගත යුතු සාමාන්‍ය හා අනෙකුත් කොන්දේසි සම්පූර්ණ වන්නේ නම් අක්මා බද්ධ කිරීමේ ශල්‍යකර්මය වෙනුවෙන් රුපියල් මිලියනයක මුදලක් (රු 1,000,000/-ක) උපරිමයකට යටත්ව 2024-01-01 දින සිට ජනාධිපති අරමුදලින් ලබාදීම සිදු කෙරේ.
+
+...
+
+[Data](articles/437bc5f8.json)
+
+---
 
 ### Shooting at Megoda Economic Center - little girl injury
 
@@ -2027,143 +2127,5 @@ The MP said this was not the first diplomatic level invitation to the NPP and ad
 [Data](articles/5b8d3c78.json)
 
 [Extended Data](ext_articles/5b8d3c78.ext.json)
-
----
-
-### Pinnawala is filled
-
-*2024-02-11 16:07:38* · [`adalk`](https://www.ada.lk/breaking_news/පින්නවල-මල්ල-පිරෙයි/11-408011) · `si`
-
-Acting 152 million rupees from January to February 1st to February, Acting 152 million rupees have been earned.
-
-He said that the Pinnawala Elephant Elephant Treach has been enacted to clean and clean the parks, "he said.
-
-He also said that the elephant places involved in the work of cleaning of elephants have also issued a valuable certificate of valuable certificates.
-
-He said that the tourist arrivals to Sri Lanka will be able to provide zoo tickets in the next few weeks, he said.
-
-The acting director that the acting director has been enacted to make cards in the issuance of ticket issues will also have to study the academic facilities.
-
-268,375 tourists have arrived in January 1 to February 8, he said.
-
-Tourists of Russian genocide have come to Sri Lanka in February, 15% of the country.
-
-Indian tourists have arrived in Sri Lanka and 9% have come to the UK.
-
-Sri Lanka is targeting the tourism industry to attract 2.3 million tourists this year, which will generate an estimated 4 billion earnings.
-
-◼️
-
-[Data](articles/091cb32e.json)
-
-[Extended Data](ext_articles/091cb32e.ext.json)
-
----
-
-### President’s Fund to support liver transplant and cochlear implant surgeries for children
-
-*2024-02-11 16:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97185/presidents-fund-to-support-liver-transplant-and-cochlear-implant-surgeries-for-children-) · `en`
-
-President Ranil Wickremesinghe has directed financial assistance from the President’s Fund for liver transplant surgeries for young children at the Ragama Teaching Hospital and cochlear implant surgeries at the Sri Jayawardenepura General Hospital.
-
-According to the President’s Media Division (PMD), this decision aims to alleviate the financial burden on impoverished parents and support the welfare of children, recognizing their importance for the nation’s future.
-
-Acknowledging the substantial costs associated with pre and post-tests and treatments for liver transplant surgeries in children under 16 years old at the North Colombo General Hospital (Ragama Teaching Hospital), President Wickremesinghe has approved Rs. 1 million from the President’s Fund for each liver transplant surgery meeting common conditions.
-
-This financial support will be effective from January 1, 2024, aiming to ease the financial strain on families undergoing these critical medical procedures, the PMD stated.
-
-...
-
-[Data](articles/53fb8d72.json)
-
-[Extended Data](ext_articles/53fb8d72.ext.json)
-
----
-
-### Police recover motorcycle used in Negombo shooting
-
-*2024-02-11 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97184/police-recover-motorcycle-used-in-negombo-shooting) · `en`
-
-Police have recovered the motorcycle suspected to have been used in the recent shooting incident at Galkanda in Negombo.
-
-According to police, the motorcycle was found abandoned in the Seeduwa area, along with a helmet and a jacket.
-
-At around 07.00 p.m. on Saturday (10 Feb.), two unidentified gunmen had shot and killed a man in the Galkanda Junction, Negombo.
-
-The 60-year-old deceased has been identified as a resident of Kirana, while police further revealed that a 9mm pistol had been used in the shooting.
-
-◼️
-
-[Data](articles/331cbfd4.json)
-
-[Extended Data](ext_articles/331cbfd4.ext.json)
-
----
-
-### Ravior to China
-
-*2024-02-11 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193251) · `si`
-
-Police have arrested eight shop owners who sold cigarettes for minors.
-
-The arrested were eight persons who operated the marketing schools near the Hikkaduwa Police Division.
-
-The suspects have been arrested by the police, according to an investigation conducted by a strategy.
-
-The suspects were taken into custody as cigarettes and cases in the suspects.
-
-They have revealed that they have sold cigarettes to the school children who come to the tuition runs near school.
-
-The raid was carried out in parallel to the 'Pavura' program which was started with the assistance of parents and teachers taking on school.
-
-The suspects have been prosecuted before the Galle Magistrate's Court.
-
-◼️
-
-[Data](articles/8951c335.json)
-
-[Extended Data](ext_articles/8951c335.ext.json)
-
----
-
-### Uganda National Cricket Team
-
-*2024-02-11 15:52:48* · [`adalk`](https://www.ada.lk/sports/උගන්ඩා-ජාතික-ක්‍රිකට්-කණ්ඩායම-දිවයිනට/9-408010) · `si`
-
-The Ugandan National Cricket Team arrived at the Katunayake airport for a visit to the Twenty20 tour.
-
-They will participate in seven Twenty20 training matches and Sri Lanka's development team is willing to compete in their Advanced Talent Center.
-
-All these matches will be held from 02/12 to 02/23 at Galle International Cricket Stadium.
-
-Sri Lanka Cricket has decided to provide food flour and food flour.
-
-Fifteen players and five trainers and officers were included in the National Cricket Team of the Uganda at 08.45 am on 02.45 pm on 02.45 am.
-
-◼️
-
-[Data](articles/d5969863.json)
-
-[Extended Data](ext_articles/d5969863.ext.json)
-
----
-
-### Katunayake A Guard of Katunayake arrested with five crores
-
-*2024-02-11 15:41:59* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-පහක-රන්-සමග-කටුනායක-ගුවන්තොටේ-පිරිසිදු-කිරීමේ-සේවිකාවක්-අල්ලයි/11-408009) · `si`
-
-A group of officers of the Customs Drug Administration Division (SLAF Narcota Administration Division) has been arrested by a group of Rs.
-
-She is a 55-year-old woman living in Veyangoda, Miridalanda area.A woman had given the parcel in the Katunayake airport tariffs, and after the airport was given to a person outside the airport, he took this parcel on the promise of a million rupeesThe clergy of this cleaning maid has stated in the Customs.
-
-Officers arrested by the Customs Drug Administration and Western Gel, who was arrested and hearing 400 grams and 1 kg and 1 millions, and 350 grams.. The Customs Drug Administration Division (Customs Drug Advanced) has said that there is a pure gold from 95% of the gold gel.
-
-Katunayake Airport Customs officers have begun further investigations into the matter.
-
-◼️
-
-[Data](articles/6ad554a4.json)
-
-[Extended Data](ext_articles/6ad554a4.ext.json)
 
 ---

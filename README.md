@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 18:20:54**
+As of **2024-02-12 18:33:00**
 
 ## Newspaper Stats
 
-*Scraped **6,511** Articles*
+*Scraped **6,513** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 348
 newsfirstlk | 363
 adalk | 548
 tamilmirrorlk | 793
-adaderanalk | 797
+adaderanalk | 799
 virakesarilk | 815
 adaderanasinhalalk | 908
 dailymirrorlk | 954
@@ -26,25 +26,73 @@ dailymirrorlk | 954
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,506 (99.9%) of 6,511 articles have been extended.
+6,511 (100.0%) of 6,513 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### අකුණක් වැදී ක්‍රීඩකයෙකු මරුට
+### Mid-air emergency forces SriLankan flight to turn back to Melbourne
+
+*2024-02-12 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97205/mid-air-emergency-forces-srilankan-flight-to-turn-back-to-melbourne) · `en`
+
+A SriLankan Airlines flight has turned back to Melbourne following an incident shortly after take-off on Monday evening (12 Feb.), Australian media reported.
+
+SriLankan Airlines flight UL605 left Melbourne Airport just after 6.30pm (AEST) but declared an emergency soon after and requested to return to Victoria.
+
+The scare was sparked by reports of smoke in the cockpit, according to Travel Talk.
+
+The airline didn’t address that directly, but said it had identified a “technical issue”.
+
+“A team of technicians is currently assessing the aircraft and providing technical support.”
+
+“In line with Melbourne Airport procedures, a local standby was declared, with emergency services responding as a precaution,” an airport spokesperson said.
+
+The flight had been headed for Colombo prior to the interruption.
+
+Meanwhile the national carrier SriLankan Airlines has issued the following statement on the incident:
+
+SriLankan Airlines Statement on Flight UL 605 by Adaderana Online on Scribd
+
+◼️
+
+[Data](articles/c149a1df.json)
+
+---
+
+### Police officer killed in shooting during arrest attempt posthumously promoted
+
+*2024-02-12 17:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97204/police-officer-killed-in-shooting-during-arrest-attempt-posthumously-promoted) · `en`
+
+The Police Sergeant who succumbed to his injuries this morning (12 Feb.) after being shot while attempting to apprehend a suspect in the Malwathu Hirpitiya area recently, has been posthumously promoted.
+
+Accordingly, Police Spokesman DIG Nihal Thalduwa stated that the Police Sergeant in question had been posthumously promoted to the rank of Sub-Inspector (SI), on orders of the Acting Inspector General of Police (IGP) Deshabandu Tennakoon.
+
+On Saturday (10 Feb.), a team of officers from the Malwathu Hiripitiya Police Station had attempted to apprehend a suspect in the Batepola area, when a scuffle had broken out, after which the suspect had attempted to grab the firearm of the police officer in question.
+
+The firearm had then discharged injuring the 51-year-old police officer, while the suspect had then fled with the officer’s service firearm.
+
+...
+
+[Data](articles/3ca78ba5.json)
+
+---
+
+### A players killed
 
 *2024-02-12 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193296) · `si`
 
-පාපන්දු තරගයක් මැද අකුණක් වැදුණු ක්‍රීඩකයෙකු අවාසනාවන්ත ලෙස මියගිය පුවතක් විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+A playground was reportedly unlucky dead in the middle of a football match.
 
-එරට බටහිර ජාවා හි Bandung ප්‍රදේශයේ පිහිටි siliwangi ක්‍රීඩාංගණයේදී මෙම අවාසනාවන්ත සිදුවීම වී තිබේ.
+The unfortunate event was the case at SiliWangi Stadium in BANDULGA, West Java.
 
-එම අවාසනාවන්ත සිදුවීමෙන් මියගොස් ඇත්තේ 35 හැවිරිදි වියේ පසුවූ ක්‍රීඩකයෙකි.
+The victim was a 35-year-old sportsman.
 
 ◼️
 
 [Data](articles/d01bc897.json)
+
+[Extended Data](ext_articles/d01bc897.ext.json)
 
 ---
 
@@ -63,6 +111,8 @@ In light of these developments, Dr. Perera issued a stern call to parents, urgin
 ...
 
 [Data](articles/fa6de06b.json)
+
+[Extended Data](ext_articles/fa6de06b.ext.json)
 
 ---
 
@@ -88,51 +138,57 @@ At the same time, the magistrate visited the scene and visited the body after vi
 
 ---
 
-### මියගිය පොලිස් නිලධාරියාට උසස්වීමක්
+### Promotion to the deceased police officer
 
 *2024-02-12 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193295) · `si`
 
-සැකකරුවෙකු අත්අඩංගුවට ගැනීම සඳහා යාමේ දී වෙඩිවැදී රෝහල්ගතව සිටියදී මියගිය පොලිස් සැරයන්වරයාව උප පොලිස් පරීක්ෂක නිලයට උසස් කර තිබේ.
+Sub Inspector of Police sergeant has been promoted while he was hospitalized when he was hospitalized when he was hospitalized.
 
-වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් මෙම තීරණය ගෙන ඇත.
+Acting IGP The decision was taken by Mr. Deshabandu Tennakoon.
 
-එම නිලධාරියා මල්වතුහිරිපිටය පොලිස් වසමේ බටේපොළ ප්‍රදේශයේ දී සැකකරුවෙකු අත්අඩංගුවට ගැනීම සඳහා යාමේ දී වෙඩිවැදී කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටිය දී ඊයේ (11) මියගොස් තිබුණි.
+The officer had died yesterday (11) while he was receiving treatment at the Colombo National Hospital.
 
-පසුගිය සෙනසුරාදා අලුයම් කාලයේ මල්වතුහිරිපිටය පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායමක් සැකකරුවෙකු අත්අඩංගුවට ගැනීමට යාමේ දී ඇති වු ගැටුම්කාරී තත්ත්වයක් හේතුවෙන් අදාළ සැකකරු පොලිස් නිලධාරියාගේ ගිනිඅවිය උඳුරා ගැනීමට උත්සාහ කර තිබේ.
+The suspect has attempted to have the firearm of the police officer due to a conflict in the Malvathathhipitiya Police Station to arrest a suspect in the police station last Saturday.
 
-එහිදී ගිනිඅවිය ක්‍රියාත්මක වීම හේතුවෙන් පොලිස් නිලධාරියාට වෙඩි වැදීමත් සමග සැකකරු රාජකාරී ගිනිඅවියද රැගෙන පළා ගොස් ඇති බව සඳහන්ය.
+The suspect was shot dead by the firearm and the suspect had taken away officials.
 
-වෙඩි වැදීමෙන් තුවාල ලැබු පොලිස් නිලධාරියා ප්‍රතිකාර සඳහා ගම්පහ රෝහළට ඇතුළත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා කොළඹ ජාතික රෝහලට ඇතුළත් කෙරුණි.
+The police officer who was injured in the shooting was admitted to the Gampaha National Hospital for further treatment.
 
-එහිදී මෙම පොලිස් සැරයන්වරයා ජීවිතක්ෂයට පත්ව ඇති අතර ඔහු 51 හැවිරිදි ඉහළ ලුනුගම ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The police sergeant was killed and he is a 51-year-old resident of the Lunugama area.
 
 ◼️
 
 [Data](articles/f159eb59.json)
 
+[Extended Data](ext_articles/f159eb59.ext.json)
+
 ---
 
-### යුක්තියට බයේ සැඟවී සිටි ජනා ඇතුළු කල්ලියම කොටුවෙයි
+### Gangol, including hiding, and hidden people
 
 *2024-02-12 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193294) · `si`
 
-ඩුබායි දේවේන්ද්‍රගේ මත්ද්‍රව්‍ය ජාලය මෙහෙයවූ ජනා ඇතුළු කල්ලිය වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The Kuliya, including the Thilari Walana Balama, has been arrested by the Thilari Walana Walana Balana.
 
-ලද තොරතුරකට අනුව වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක බළකායේ අධ්‍යක්‍ෂ, පොලිස් අධිකාරී සමන්තිලක වැලිවිට මහතාගේ සැලසුමකට අනුව සිදුකළ විශේෂ මෙහෙයුමකදී මෙම කල්ලිය අත්අඩංගුවට ගෙන ඇත.
+The gang has been arrested during a special operation conducted by the Director of Walana Central Anti-Corruption Balana Balaya, Director of Walana Central Corruption.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ මාදංගහවත්තේ ජනා නමැති අන්වර්ථ නාමයෙන් හඳුන්වන දිනේෂ් පුෂ්පකුමාර නමැති අයෙකි.
+Dinesh Pushpakumara, known as Dinesh Pushpakumara, known as Dinesh Pushpakumara, a nickname, is arrested.
 
-සැකකාර කල්ලිය විසින් මෙම ජාවාරම සිදුකරගෙන ගොස් ඇත්තේ මොරටුවැල්ල ප්‍රදේශය ආශ්‍රිතවය.
+The suspect had been conducted by the suspect.
 
-එහෙත් යුක්තිය මෙහෙයුම ආරම්භ වීමත් සමග කල්ලිය මෙහෙයවූ ජනා නමැති සැකකරු එම ප්‍රදේශයෙන් පළාගොස් තිබේ.
+However, the suspect, whose name has fled the area along the operation of justice, has fled the area.
 
-ඒ අනුව වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක බළකායට තොරතුරු ලැබී ඇත්තේ සැකකරු කුඩාඔය ප්‍රදේශයේ සැඟවී සිට වෙනත් පුද්ගලයින් යොදාගනිමින් සුපුරුදු පරිදි ජාවාරම සිදුකර ඇති බවටය.
+Accordingly, the Walana Central Anti-Corruption Attack Corps has received information that the suspect has been hiding from the Kuda Oya to the usual.
 
-ලද තොරතුරු අනුව වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක බළකායේ නිලධාරීන් කණ්ඩායමක් කාලයක් කුඩාඔය ඇතිළිවැව ප්‍රදේශයේ සිදුකරන ලද ආවේක්ෂණ රාජකාරීවලදී සැකකරු හඳුනාගෙන අත්අඩංගුවට ගැනීමට සමත්ව ඇත.
+According to information, a group of the Walana Central Anti-Corruption Appointment Officers have been identified and arrested at the Kuda Oya Valved Duties.
+
+The suspect was recovered by 490 grams of heroin and handed over to the Kudaoya Police for further investigations.
 
 ...
 
 [Data](articles/ccd3b68f.json)
+
+[Extended Data](ext_articles/ccd3b68f.ext.json)
 
 ---
 
@@ -1210,6 +1266,8 @@ Professor Zuern, Director of the International Centre and the Graduate School of
 
 [Data](articles/3db1dacf.json)
 
+[Extended Data](ext_articles/3db1dacf.ext.json)
+
 ---
 
 ### An army soldier arrested for sexually abused schoolgirl
@@ -1939,43 +1997,5 @@ The time has come for the people of Sri Lanka to make the right decision on beha
 [Data](articles/7fa8527c.json)
 
 [Extended Data](ext_articles/7fa8527c.ext.json)
-
----
-
-### Fire at a factory in Pannipitiya
-
-*2024-02-12 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176152) · `ta`
-
-A fire incident took place on Monday (12) at the Factory manufacturing factory in Mahalwarawa, Pannipitiya.
-
-◼️
-
-[Data](articles/d112a588.json)
-
-[Extended Data](ext_articles/d112a588.ext.json)
-
----
-
-### Emergency notice to Employees of the United Arab Emirates
-
-*2024-02-12 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193273) · `si`
-
-The applications of the United Arab Emirates have been given permission to donate permission from the United Arab Emirates to the private sector employees of the United Arab Emirates today due to adverse weather changes.
-
-The United Arab Emirates have issued a statement that all public servants have been given permission to go to the house to govern their governance for all public servants.
-
-These measures have been taken in accordance with the warnings conducted by the country's meteorological department.
-
-The government's government has done so that companies should take necessary action to use the professionals to use the professionals to carry out the professional workers.
-
-Fair winds, Lightning and Thundershowers will occur at the UAE, Abu Dhay, Dubai, Shajjaya, Ajjandira, Ajjandira and Ras Al Cahime.
-
-As a result, school children and university students have been instructed to study from home.
-
-◼️
-
-[Data](articles/2a4cbf39.json)
-
-[Extended Data](ext_articles/2a4cbf39.ext.json)
 
 ---

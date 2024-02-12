@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 22:49:50**
+As of **2024-02-12 23:02:34**
 
 ## Newspaper Stats
 
-*Scraped **6,562** Articles*
+*Scraped **6,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,84 @@ adalk | 557
 adaderanalk | 800
 tamilmirrorlk | 801
 virakesarilk | 819
-adaderanasinhalalk | 914
-dailymirrorlk | 959
+adaderanasinhalalk | 915
+dailymirrorlk | 961
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,559 (100.0%) of 6,562 articles have been extended.
+6,565 (100.0%) of 6,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### Constable drowns at Uswatakeiyawa
+
+*2024-02-12 22:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Constable-drowns-at-Uswatakeiyawa/108-276874) · `en`
+
+Pamunugama, Feb 12 (Daily Mirror) - The Pamunugama Police have initiated investigations after a police constable drowned while sea-bathing off the beach near the first basin, Uswatakeiyawa in Pamunugama.
+
+Police said the deceased was a 24-year-old police constable attached to Grandpass Police Station and a resident of Badulla.
+
+Investigations have revealed that the constable drowned while bathing in the sea off the beach with a group of fellow officers from the Grandpass Police Station.
+
+◼️
+
+[Data](articles/a271480e.json)
+
+[Extended Data](ext_articles/a271480e.ext.json)
+
+---
+
+### A police officer drowns
+
+*2024-02-12 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193303) · `si`
+
+A police constable drowned with Usweetia in Talmawatta coast.
+
+The deceased has been identified as a 24-year-old resident of Badulla.
+
+The police constable is attached to the Grandpass police station.
+
+It is reported that the constable who has died while serving with another group of other officers who work in the Grandpass police station.
+
+The constable then had been buried and died in hospital treatment for treatment.
+
+The body of the post mortem has been handed over to the relatives.
+
+◼️
+
+[Data](articles/04d0a921.json)
+
+[Extended Data](ext_articles/04d0a921.ext.json)
+
+---
+
+### Veteran continues to recover as Afghanistan name T20I squads
+
+*2024-02-12 22:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Veteran-continues-to-recover-as-Afghanistan-name-T20I-squads/108-276872) · `en`
+
+Feb. 12 (ICC) - Ibrahim Zadran will continue to lead the T20I team with Rashid Khan still recovering from the back surgery he underwent last year.
+
+In another major blow for the visitors, Mujeeb ur Rahman also misses out, having sustained a sprain in his right hand before the ODI series.
+
+Wafadar Momand has been recalled to the squad after his lone appearance in 2023 with Mohammad Saleem Safi continuing to recover from a hamstring strain that saw him miss the ODIs against Sri Lanka.
+
+"We have consistently aimed to provide our young players with the exposure they deserve, a commitment we have maintained successfully so far," Naseeb Khan, the CEO of ACB, said.
+
+"Building a strong bench strength is a priority for us, as we want to ensure we have good backups for our key players when needed, the role Qais Ahmad is currently playing for Rashid Khan.
+
+The series begins on February 17 in Dambulla with the following games at the same venue on 19th and 21st.
+
+...
+
+[Data](articles/6dadea25.json)
+
+[Extended Data](ext_articles/6dadea25.ext.json)
+
+---
 
 ### Private sector prefers to handle hospital services: GMOF president
 
@@ -43,6 +109,8 @@ Addresing the media, he said that the country's health sector solely requires pr
 ...
 
 [Data](articles/a6696838.json)
+
+[Extended Data](ext_articles/a6696838.ext.json)
 
 ---
 
@@ -131,6 +199,8 @@ However, the wildlife conservators from Walathapitiya Wildlife Office are exerci
 ◼️
 
 [Data](articles/40e11c1d.json)
+
+[Extended Data](ext_articles/40e11c1d.ext.json)
 
 ---
 
@@ -284,21 +354,25 @@ The Memorandum of Understanding (MoU) will provide more opportunities for entrep
 
 ---
 
-### ජනපති කිව්වොත් යුක්තිය මෙහෙයුම නවත්වනවා
+### President Says Justice Opening
 
 *2024-02-12 19:57:21* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-කිව්වොත්-යුක්තිය-මෙහෙයුම-නවත්වනවා/11-408041) · `si`
 
-යුක්තිය මෙහෙයුම නවත්වන ලෙසට තුන් හතර දෙනෙකු කෑ ගැසුවද මහා සංඝරත්නයේ සහ, රටේ ජනතාවගෙන් සියයට අනූනමයක්ම යුක්තිය මෙහෙයුම නොනවත්වාම ක්‍රියාත්මක කරන ලෙසට ඉල්ලා සිටින බව වැඩ බලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පැවසයි.
+Acting Inspector General of Justice and the people of the Maha Sangha and the people of the country are demanding the implementation of justice of the country and the people of the country.
 
-රටේ ජනාධිපතිවරයා , අගමැතිවරයා හා ව්‍යවස්ථාදායකය මෙම මෙහෙයුම නවත්වන ලෙසට උපදෙස් ලබා දෙන්නේ නම් පමණක්  මෙම මෙහෙයුම නවත්වන බවත්, එසේ නොමැතිව මෙරටින් මත්ද්‍රව්‍ය ජාවාරම සහ සංවිධානාත්මක අපරාධ සම්පූර්ණයෙන්ම තුරන් කරන තෙක් මෙම මෙහෙයුම  ක්‍රියාත්මක කරන බවද හෙතෙම පැවසීය.
+The operation will be stopped if the President and the Prime Minister and the Legislature is instructed to stop the operation to stop the operation and the operation is being carried out until they completely eliminate the drug racket and organized crime.
 
-කුමන මෙහෙයුමක් ආරම්භ කළත් මත්කුඩු ජාවාරම්කරුවන්, මත්පැන් ජාවාරම්කරුවන්ට අගතියක් වූ විට ඔවුන් තමන්ට පොලිසියෙන් හිරහැර සිදුවන බවට,  සඳහන් කරමින් පොලිසියට පැමිණිළි කරන බවත්,  මෙතෙක් ඒ තත්වය පැවතුනද යුක්තිය මෙහෙයුමේදී එවැනි කිසිදු පැමිණිල්ලක් මේ දක්වා පොලිසිය වෙත ලැබී නොමැති බවද වැඩබලන පොලිස්පතිවරයා සඳහන් කරයි.
+The acting IGP states that when the drug dealers, alcohol traffickers are prejudiced by the police, there has been no such complaint to the police when they are profited by the police.
 
-රටේ නීතිය, ජනතාවගේ මානව හිමිකම්,සහ  සදාචාරය, අනුගත වෙමින් මෙම මෙහෙයුම අඛණ්ඩව සිදුකරන බවද වැඩ බලන පොලිස්පතිවරයා වැඩිදුරටත් පැවසීය.
+The operation will continue to adapt to the law, human rights, and morals of the country, human rights, and morals.
 
-...
+He was responding to a query from Acting Inspector General of Justice on the operation of justice.
+
+◼️
 
 [Data](articles/5a61cd27.json)
+
+[Extended Data](ext_articles/5a61cd27.ext.json)
 
 ---
 
@@ -1979,57 +2053,5 @@ The official website of the Ministry of Education is the ability to make appeals
 [Data](articles/78784331.json)
 
 [Extended Data](ext_articles/78784331.ext.json)
-
----
-
-### Mosquitoous mosquito toneado
-
-*2024-02-12 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193281) · `si`
-
-Foreign media reports that Pune in India was closed from mosquitoes.
-
-Skills in the sky as mild-centers and mosquitoes are shut down as a revolve.
-
-According to foreign media reports, it is the reason for the underground of the fluences of the casting of the casting of the casting of the casting.
-
-◼️
-
-[Data](articles/f53e34c9.json)
-
-[Extended Data](ext_articles/f53e34c9.ext.json)
-
----
-
-### India visit doesn’t mean change of stance on Sri Lanka Telecom, Amul: AKD
-
-*2024-02-12 13:08:00* · [`economynextcom`](https://economynext.com/india-visit-doesnt-mean-change-of-stance-on-sri-lanka-telecom-amul-akd-150623/) · `en`
-
-ECONOMYNEXT — The National People’s Power (NPP) cannot be bought by any foreign power or corporation and their recent visit to India does not mean the leftist alliance now supports an investment by India’s Amul or the divestment of Sri Lanka Telecom, according to NPP leader Anura Kumara Dissanayake.
-
-Speaking at a women’s rally held in Anuradhapura on Sunday February 11, Dissanayake was emphatic that the NPP’s policies have not changed following his widely publicised visit to India on the invitation of the Indian government.
-
-News of Dissanayake meeting India’s Foreign Minister S Jaishankar and representatives of Tata and the Gujarat Cooperative Milk Marketing Federation of India (Amul) made headlines in Colombo.
-
-...
-
-[Data](articles/3d6316bf.json)
-
-[Extended Data](ext_articles/3d6316bf.ext.json)
-
----
-
-### UPI money exchange methodology launches
-
-*2024-02-12 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193280) · `si`
-
-The launch of the Indian Combined Payment Program has been launched in Colombo.
-
-President Ranil Wickremesinghe and Indian Prime Minister Narendra Modi are involved in connecting the UPI Indian Payment Procedure in Sri Lanka
-
-◼️
-
-[Data](articles/5f981053.json)
-
-[Extended Data](ext_articles/5f981053.ext.json)
 
 ---

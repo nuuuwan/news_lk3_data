@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 21:02:27**
+As of **2024-02-12 21:17:33**
 
 ## Newspaper Stats
 
-*Scraped **6,549** Articles*
+*Scraped **6,552** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 363
 adalk | 555
 tamilmirrorlk | 799
 adaderanalk | 799
-virakesarilk | 816
+virakesarilk | 819
 adaderanasinhalalk | 912
 dailymirrorlk | 956
 
@@ -26,7 +26,7 @@ dailymirrorlk | 956
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,549 (100.0%) of 6,549 articles have been extended.
+6,549 (100.0%) of 6,552 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -126,6 +126,22 @@ It is said that in one container contains about US $ 1 million drugs.
 
 ---
 
+### சிறைச்சாலை வளாகத்துக்குள் தொழிற்சாலைகளை அமைப்பதற்குப் புரிந்துணர்வு ஒப்பந்தம்
+
+*2024-02-12 20:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176227) · `ta`
+
+சிறைக்கைதிகள் சிறைச்சாலையிலிருந்து விடுதலையான பின்னர் அவர்கள் சமூகத்துக்குப் பயனுள்ள நபர்களாக உருவாக்குவதை நோக்காகக்கொண்டு அனைத்து சிறைச்சாலைகளிலும் தொழிற்சாலைகளை அமைப்பதற்காகச் சிறைச்சாலை திணைக்களம் மற்றும் தொழில்துறை அபிருத்தி சபைக்குமிடையில் புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்திடும் நிகழ்வு திங்கட்கிழமை (12) நீதி அமைச்சில் இடம்பெற்றது.
+
+நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ்வுக்கு முன்னால் சிறைச்சாலை ஆணையாளர் நாயகம் துஷார உபுல்தெனிய மற்றும்  தொழில்துறை அபிவிருத்தி சபையின் தலைவர் சாரங்க அலகப்பெரும ஆகியோர் குறித்த ஒப்பந்தத்தில் கைச்சாத்திட்டுள்ளனர்.
+
+புரிந்துணர்வு ஒப்பந்தம் மூலம் அனைத்து சிறைச்சாலைகளிலும் தொழிற்சாலைகளை அமைப்பதற்கு இந்த நாட்டு தொழில் முயற்சியாளர்களுக்கு தொழிலதிபர்களுக்கு அதிக சந்தர்ப்பம் கிடைக்கப்பெறுவதுடன் தொழிற்சாலைகளில் பயிற்சி பெறும் கைதிகளுக்காகத் தொழில் அபிவிருத்தி சபை மற்றும் சிறைச்சாலை திணைக்கள சான்றிதழ் வழங்கிவைக்கப்படும் என நீதி அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/2c3a55a7.json)
+
+---
+
 ### SriLankan Airlines flight turns back to Melbourne due to technical issue
 
 *2024-02-12 19:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-flight-turns-back-to-Melbourne-due-to-technical-issue/108-276853) · `en`
@@ -141,6 +157,22 @@ All passengers have been accommodated in hotels until the rescheduling of the fl
 [Data](articles/02804092.json)
 
 [Extended Data](ext_articles/02804092.ext.json)
+
+---
+
+### பொருளாதார வேலைத் திட்டத்தைத் தவிர்த்து வேறு மாற்று வழிகள் இருப்பின் எந்தவொரு குழுவுடனும் பேசத் தயார் -  பந்துல குணவர்தன
+
+*2024-02-12 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176226) · `ta`
+
+இலங்கையின் பொருளாதாரத்தைக் கட்டியெழுப்புவதற்கு ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் முன்னெடுக்கப்படும் பொருளாதார வேலைத் திட்டத்தைத் தவிர்த்து வேறு மாற்று வழிகள் இருப்பின் எந்தவொரு குழுவுடனும் பேச்சுவார்த்தைக்குத் தயார் என போக்குவரத்து, நெடுஞ்சாலைகள் மற்றும் வெகுசன ஊடக அமைச்சர் கலாநிதி பந்துல குணவர்தன தெரிவித்தார்.
+
+அரச நிதி முகாமைத்துவம் தொடர்பில் போதிய அறிவு இல்லாத குழுக்கள் மக்கள் முன்னிலையில் பொய்யான பிரச்சாரங்களை மேற்கொண்டு வருவதாகவும், இலங்கையின் பொருளாதாரத்தைக் கட்டியெழுப்புவது வெறும் வார்த்தைகளால் முடியாத செயல் எனவும் அமைச்சர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (12) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே போக்குவரத்து, நெடுஞ்சாலைகள் மற்றும் வெகுசன ஊடக அமைச்சர் கலாநிதி பந்துல குணவர்தன இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/524dbe7a.json)
 
 ---
 
@@ -201,6 +233,24 @@ A senior official of the Meegoda Police Station said that the trading was agreed
 [Data](articles/f76f45eb.json)
 
 [Extended Data](ext_articles/f76f45eb.ext.json)
+
+---
+
+### கொள்ளுபிட்டியில் கீர்த்தி ஸ்ரீ ராஜசிங்க நரேந்திரனின் உலோகச் சிலை ஜனாதிபதியினால் திரைநீக்கம்
+
+*2024-02-12 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176225) · `ta`
+
+கொள்ளுப்பிட்டி வாலுகாராம  உட்பட  பஞ்ச மகா விகாரை விகாராதிபதி  விசித்ர பானக மஹரகம நந்த நாயக்க தேரரின் 70 ஆவது பிறந்தநாளை முன்னிட்டு கொள்ளுபிட்டி வாலுகாராம விகாரையில் நிறுவப்பட்டுள்ள கீர்த்தி ஸ்ரீராஜசிங்க நரேந்திரனின் உலோகச் சிலையைத்  திரை நீக்கம்  செய்யும் நிகழ்வு  திங்கட்கிழமை (12) ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தலைமையில் நடைபெற்றது.
+
+தாய்லாந்திலுள்ள மகாசங்கத்தினர்  உள்ளிட்ட தாய்லாந்து நன்கொடையாளர்களின் ஆதரவுடன் இந்த உலோக சிலை நிர்மாணிக்கப்பட்டுள்ளது.
+
+பெயர் பலகையை  திரை நீக்கம் செய்து, கீர்த்தி ஸ்ரீ ராஜசிங்க நரேந்திரனின் உலோகச் சிலையும் ஜனாதிபதி  திறந்து வைத்தார். இதனுடன் இணைந்ததாக விகாரையில் நிர்மாணிக்கப்பட்டுள்ள வெலிவிட்ட சரணங்கர சங்கராஜ தேரரின் சிலையும் திரை நீக்கம் செய்யப்பட்டது.
+
+அதனைத் தொடர்ந்து  ஸ்ரீ கல்யாணி சாமசிரி தர்ம மகா சங்க சபை மகாநாயக்க தேரர் மல்வானே பஞ்சாசரபிதான  தேரரினால்  மத அனுஷ்டானங்கள் நிகழ்த்தப்பட்டன. மஹரகம நந்த நாயக்க தேரரினால் வரவேற்புரை நிகழ்த்தப்பட்டது.
+
+...
+
+[Data](articles/30a0c45d.json)
 
 ---
 
@@ -1977,65 +2027,5 @@ He said that if Israel did not pay special attention to the people, the people w
 [Data](articles/1551486e.json)
 
 [Extended Data](ext_articles/1551486e.ext.json)
-
----
-
-### Bambalapitiya Police Station Inspector
-
-*2024-02-12 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176177) · `ta`
-
-A complaint has been lodged with a police inspector who was urinated under a tree near the main gate of the Bambalapitiya police inspection.
-
-The police inspector lodged a complaint with the Bambalapitiya Police and a group of about six people came around and attacked him.
-
-It is reported that the attacker was also a senior police officer.
-
-The police inspector, who was attacked, is being treated at the private hospital.
-
-◼️
-
-[Data](articles/a9a2e333.json)
-
-[Extended Data](ext_articles/a9a2e333.ext.json)
-
----
-
-### Former President Maithripala Sirisena leaves for US
-
-*2024-02-12 12:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97198/former-president-maithripala-sirisena-leaves-for-us) · `en`
-
-Former President and SLFP leader Maithripala Sirisena has left for the United States early this morning (12 Feb.).
-
-Accordingly, Sirisena had boarded an Indian Airlines flight bound for New Delhi at around 02:50 a.m. today, Ada Derana learns, after which he is scheduled to leave for the US.
-
-Meanwhile, political sources also claim that new appointments to the board of officials of the United People’s Freedom Alliance (UPFA) will be made following the Sri Lanka Freedom Party (SLFP) leader’s return to the island.
-
-As such, State Minister Lasantha Alagiyawanna is tipped to be appointed as the new UPFA General Secretary.
-
-◼️
-
-[Data](articles/c2dc10f2.json)
-
-[Extended Data](ext_articles/c2dc10f2.ext.json)
-
----
-
-### A health strike again?
-
-*2024-02-12 12:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193278) · `si`
-
-The Health Trade Unions say they will have to contest tomorrow (13) or tomorrow (14).
-
-The decision of the Health Professional Association Ravi Kudmith said that the decision was taken today (12) was not successful.
-
-He further stated that the leadership council will take further action following the afternoon.
-
-He said that if the president's intervention is essential to this problem, he said that if the people could be severely impaired.
-
-◼️
-
-[Data](articles/013e4b7a.json)
-
-[Extended Data](ext_articles/013e4b7a.ext.json)
 
 ---

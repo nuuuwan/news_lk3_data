@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 08:32:58**
+As of **2024-02-12 08:50:11**
 
 ## Newspaper Stats
 
-*Scraped **6,386** Articles*
+*Scraped **6,389** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 78
-bbccomsinhala | 87
+bbccomsinhala | 88
 dbsjeyarajcom | 146
 economynextcom | 323
 islandlk | 344
@@ -19,18 +19,62 @@ adalk | 533
 tamilmirrorlk | 777
 adaderanalk | 787
 virakesarilk | 794
-adaderanasinhalalk | 879
+adaderanasinhalalk | 881
 dailymirrorlk | 927
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,383 (100.0%) of 6,386 articles have been extended.
+6,389 (100.0%) of 6,389 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### Student killed in train
+
+*2024-02-12 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193269) · `si`
+
+The accident had occurred near the Mollipothana Railway Station Thambolipothana.
+
+Police said the student had collided with the train from Gelioya to Trincomalee.
+
+The deceased has been identified as a resident of Mollyipathana area.
+
+◼️
+
+[Data](articles/862be0a4.json)
+
+[Extended Data](ext_articles/862be0a4.ext.json)
+
+---
+
+### Outstanding CCTV footage out of the Meegoda economy
+
+*2024-02-12 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193268) · `si`
+
+Two armed persons have fled the Meegoda Economic Center at the Meegoda today (12).
+
+It is reported that 3 bullets were injured and hospitalized after the girl who was cashier in the shop in the shop.
+
+The CCTV camera was added to robbed the money in the drawer in the shop.
+
+The robbers have laid the money in the upper drawer and shot the girl in the drawer, seeking the key to the cash in the drawer.
+
+The Economic Center Police checkpoint is located in front of the shooting market.
+
+The two shooters who had committed the robbery then pushed the motorcycle and fled.
+
+The robbery is yet to be disclosed and the injured girl is currently receiving treatment at Homagama.
+
+◼️
+
+[Data](articles/c467b016.json)
+
+[Extended Data](ext_articles/c467b016.ext.json)
+
+---
 
 ### Third offshore campus of IIT likely to be set up in Sri Lanka
 
@@ -51,6 +95,8 @@ The Indian government had announced that opportunities for admission to the IITs
 ...
 
 [Data](articles/6e6d3217.json)
+
+[Extended Data](ext_articles/6e6d3217.ext.json)
 
 ---
 
@@ -136,6 +182,8 @@ Ada Derana reporter said that two armed individuals had shot the female cashier 
 
 [Data](articles/bc891c03.json)
 
+[Extended Data](ext_articles/bc891c03.ext.json)
+
 ---
 
 ### Shooting in Meegoda Economic Center
@@ -169,6 +217,8 @@ The firearm had then discharged injuring the police officer in question while th
 ...
 
 [Data](articles/981262ac.json)
+
+[Extended Data](ext_articles/981262ac.ext.json)
 
 ---
 
@@ -475,6 +525,34 @@ According to the Ministry of Health, Gaza, starting on October 7, 2023, in Gaza;
 [Data](articles/a3ac687b.json)
 
 [Extended Data](ext_articles/a3ac687b.ext.json)
+
+---
+
+### Is 'Billions of Income Religious Places' free of income tax?
+
+*2024-02-12 02:05:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxx5yj1gwk4o) · `si`
+
+Taxes is one of the greatest crises of the people of Sri Lanka today.
+
+Sri Lankans who excelled annually exceeding Rs.
+
+Various parties complain about the new income tax policy introduced by the government's income tax policy, saying it is unfair to levies such as income earning Rs.
+
+'Tin' that is mandatory for Sri Lankans: How to Apply?
+
+The creator of Namal Rahula, the Creator of Namal, is an unfair act to earn income taxes to maintain income taxes to maintain life.
+
+He spoke to the BBC Sinhala service, indicating that some temples will be revenue than a million rupees monthly.
+
+"There are Buddhist, Christian, Muslim and Hindu sacred places, gathering billions of Rs.. It must be charged everywhere. I call the religious leaders as the millionaires who do not pay taxes. "
+
+Wawaswi Rahula Thero added that it is injustice to taxpayers to avoid non taxes.
+
+...
+
+[Data](articles/e1aee52d.json)
+
+[Extended Data](ext_articles/e1aee52d.ext.json)
 
 ---
 
@@ -2055,67 +2133,5 @@ The injury is confirmed to be unrelated to any of his previous ailments; last ye
 [Data](articles/c8f1971a.json)
 
 [Extended Data](ext_articles/c8f1971a.ext.json)
-
----
-
-### Aussie. Trouble
-
-*2024-02-11 13:53:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆஸி-பெண்ணின்-அந்தரங்கத்தை-தொட்டவருக்கு-சிக்கல்/76-333010) · `ta`
-
-Nuwara Eliya police said that the Australian woman has lodged a complaint at the Nuwara Eliya Police Station regarding the man who was allegedly trying to sexually abuse an Australian citizen who went to get a massage service.
-
-The incident took place on Friday (09) on the way from Colombo to Kandy.. Subsequently, the police said that they had lodged a complaint at the Nuwara Eliya Police Station from Kadugannawa area to Nuwara Eliya.
-
-A 39 -year -old woman, Australia's 39 -year -old woman, came to Sri Lanka on January 29, with my husband and child at the police station on the incident.. We were staying at a hotel in Kadugannawa area on the 9th.. I went to the massage station at the hotel that evening.
-
-I went to massage the head and skin.There, the massage employee touched my personal parts unnecessarily. I left out there immediately. It was only after that that we arrived immediately to Nuwara Eliya, he said in the complaint.
-
-...
-
-[Data](articles/01498235.json)
-
-[Extended Data](ext_articles/01498235.ext.json)
-
----
-
-### Sri Lanka’s first-ever Floating Resort to be opened on March 1
-
-*2024-02-11 13:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-first-ever-Floating-Resort-to-be-opened-on-March-1/108-276768) · `en`
-
-Negombo, Feb 11 (Daily Mirror) - Sri Lanka’s first-ever Floating Resort, Bolagala Agro Floating Resort in Negombo, will be opened on March 1, 2024, the Chairman of Bolagala Agro floating Resort, Kelum Perera said.
-
-The resort boasts 31 meticulously crafted cabanas spread across 13 acres of water surface.
-
-He said that in a world where sustainability has become an imperative, innovation in the hospitality industry is taking remarkable strides towards eco-friendly practices.
-
-"Embracing this ethos, a new beacon of responsible tourism has emerged with the grand opening of the Bolagala Agro Floating Resort.
-
-" Nestled amidst the serene waters of giant water holes in Bolagala, Katana in Negombo, this avant-garde resort promises not only a luxurious retreat but also a commitment to environmental stewardship," he said.
-
-...
-
-[Data](articles/bcfad82d.json)
-
-[Extended Data](ext_articles/bcfad82d.ext.json)
-
----
-
-### Robber fatally assaulted by residents during break-in attempt
-
-*2024-02-11 13:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Robber-fatally-assaulted-by-residents-during-break-in-attempt/108-276767) · `en`
-
-Gampaha, Feb 11 (Daily Mirror) - A robber who had tried to break-in to a house in the Yagodamulla area in Minuwangoda died after being assaulted by the residents.
-
-Police said a group of three robbers had entered the house at around 4 am today (11) with the aim of looting the property.
-
-One of the robbers had reportedly been attacked with a sharp weapon by a person in the house.
-
-The other two robbers had fled, and the Minuwangoda police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/e77a001d.json)
-
-[Extended Data](ext_articles/e77a001d.ext.json)
 
 ---

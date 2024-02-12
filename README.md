@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 18:09:13**
+As of **2024-02-12 18:20:54**
 
 ## Newspaper Stats
 
-*Scraped **6,506** Articles*
+*Scraped **6,511** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 79
+colombotelegraphcom | 80
 bbccomsinhala | 89
 dbsjeyarajcom | 147
 economynextcom | 325
@@ -19,18 +19,52 @@ adalk | 548
 tamilmirrorlk | 793
 adaderanalk | 797
 virakesarilk | 815
-adaderanasinhalalk | 905
-dailymirrorlk | 953
+adaderanasinhalalk | 908
+dailymirrorlk | 954
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,506 (100.0%) of 6,506 articles have been extended.
+6,506 (99.9%) of 6,511 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### අකුණක් වැදී ක්‍රීඩකයෙකු මරුට
+
+*2024-02-12 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193296) · `si`
+
+පාපන්දු තරගයක් මැද අකුණක් වැදුණු ක්‍රීඩකයෙකු අවාසනාවන්ත ලෙස මියගිය පුවතක් විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+එරට බටහිර ජාවා හි Bandung ප්‍රදේශයේ පිහිටි siliwangi ක්‍රීඩාංගණයේදී මෙම අවාසනාවන්ත සිදුවීම වී තිබේ.
+
+එම අවාසනාවන්ත සිදුවීමෙන් මියගොස් ඇත්තේ 35 හැවිරිදි වියේ පසුවූ ක්‍රීඩකයෙකි.
+
+◼️
+
+[Data](articles/d01bc897.json)
+
+---
+
+### Children encouraged to bathe for 20 minutes over heatwave
+
+*2024-02-12 17:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Children-encouraged-to-bathe-for-20-minutes-over-heatwave/108-276850) · `en`
+
+Colombo, Feb 12 (Daily Mirror) - In the wake of the rising temperatures, medical experts have advised parents to make sure their children take a bath for at least twenty minutes per day in order to keep dehydration at bay.
+
+Speaking to the Daily Mirror, Pediatric Specialist Dr. Deepal Perera highlighted the growing prevalence of skin ailments among children, attributing the trend to the escalating heat levels across the country.
+
+Dr. Perera emphasized that heightened temperatures not only exacerbate skin conditions but also pose a significant risk of dehydration, particularly among young children.
+
+In light of these developments, Dr. Perera issued a stern call to parents, urging them to remain vigilant and proactive in safeguarding their children's health.
+
+...
+
+[Data](articles/fa6de06b.json)
+
+---
 
 ### Correct Correct Recovery from Lindulai Akarakanda River
 
@@ -51,6 +85,54 @@ At the same time, the magistrate visited the scene and visited the body after vi
 [Data](articles/a04801c2.json)
 
 [Extended Data](ext_articles/a04801c2.ext.json)
+
+---
+
+### මියගිය පොලිස් නිලධාරියාට උසස්වීමක්
+
+*2024-02-12 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193295) · `si`
+
+සැකකරුවෙකු අත්අඩංගුවට ගැනීම සඳහා යාමේ දී වෙඩිවැදී රෝහල්ගතව සිටියදී මියගිය පොලිස් සැරයන්වරයාව උප පොලිස් පරීක්ෂක නිලයට උසස් කර තිබේ.
+
+වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් මෙම තීරණය ගෙන ඇත.
+
+එම නිලධාරියා මල්වතුහිරිපිටය පොලිස් වසමේ බටේපොළ ප්‍රදේශයේ දී සැකකරුවෙකු අත්අඩංගුවට ගැනීම සඳහා යාමේ දී වෙඩිවැදී කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටිය දී ඊයේ (11) මියගොස් තිබුණි.
+
+පසුගිය සෙනසුරාදා අලුයම් කාලයේ මල්වතුහිරිපිටය පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායමක් සැකකරුවෙකු අත්අඩංගුවට ගැනීමට යාමේ දී ඇති වු ගැටුම්කාරී තත්ත්වයක් හේතුවෙන් අදාළ සැකකරු පොලිස් නිලධාරියාගේ ගිනිඅවිය උඳුරා ගැනීමට උත්සාහ කර තිබේ.
+
+එහිදී ගිනිඅවිය ක්‍රියාත්මක වීම හේතුවෙන් පොලිස් නිලධාරියාට වෙඩි වැදීමත් සමග සැකකරු රාජකාරී ගිනිඅවියද රැගෙන පළා ගොස් ඇති බව සඳහන්ය.
+
+වෙඩි වැදීමෙන් තුවාල ලැබු පොලිස් නිලධාරියා ප්‍රතිකාර සඳහා ගම්පහ රෝහළට ඇතුළත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා කොළඹ ජාතික රෝහලට ඇතුළත් කෙරුණි.
+
+එහිදී මෙම පොලිස් සැරයන්වරයා ජීවිතක්ෂයට පත්ව ඇති අතර ඔහු 51 හැවිරිදි ඉහළ ලුනුගම ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+◼️
+
+[Data](articles/f159eb59.json)
+
+---
+
+### යුක්තියට බයේ සැඟවී සිටි ජනා ඇතුළු කල්ලියම කොටුවෙයි
+
+*2024-02-12 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193294) · `si`
+
+ඩුබායි දේවේන්ද්‍රගේ මත්ද්‍රව්‍ය ජාලය මෙහෙයවූ ජනා ඇතුළු කල්ලිය වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ලද තොරතුරකට අනුව වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක බළකායේ අධ්‍යක්‍ෂ, පොලිස් අධිකාරී සමන්තිලක වැලිවිට මහතාගේ සැලසුමකට අනුව සිදුකළ විශේෂ මෙහෙයුමකදී මෙම කල්ලිය අත්අඩංගුවට ගෙන ඇත.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ මාදංගහවත්තේ ජනා නමැති අන්වර්ථ නාමයෙන් හඳුන්වන දිනේෂ් පුෂ්පකුමාර නමැති අයෙකි.
+
+සැකකාර කල්ලිය විසින් මෙම ජාවාරම සිදුකරගෙන ගොස් ඇත්තේ මොරටුවැල්ල ප්‍රදේශය ආශ්‍රිතවය.
+
+එහෙත් යුක්තිය මෙහෙයුම ආරම්භ වීමත් සමග කල්ලිය මෙහෙයවූ ජනා නමැති සැකකරු එම ප්‍රදේශයෙන් පළාගොස් තිබේ.
+
+ඒ අනුව වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක බළකායට තොරතුරු ලැබී ඇත්තේ සැකකරු කුඩාඔය ප්‍රදේශයේ සැඟවී සිට වෙනත් පුද්ගලයින් යොදාගනිමින් සුපුරුදු පරිදි ජාවාරම සිදුකර ඇති බවටය.
+
+ලද තොරතුරු අනුව වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක බළකායේ නිලධාරීන් කණ්ඩායමක් කාලයක් කුඩාඔය ඇතිළිවැව ප්‍රදේශයේ සිදුකරන ලද ආවේක්ෂණ රාජකාරීවලදී සැකකරු හඳුනාගෙන අත්අඩංගුවට ගැනීමට සමත්ව ඇත.
+
+...
+
+[Data](articles/ccd3b68f.json)
 
 ---
 
@@ -1116,6 +1198,20 @@ He said that if the president's intervention is essential to this problem, he sa
 
 ---
 
+### Sri Lanka’s Economic Recovery, Fourth Industrial Revolution & Professor Siegfried Zuern
+
+*2024-02-12 12:07:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-economic-recovery-fourth-industrial-revolution-professor-siegfried-zuern/) · `en`
+
+I will start with citing a brief speech I made as an associate of FabLanka Foundation in welcoming Professor Dr Siegfried Zuern to FabLab and Sri Lanka today. As an associate of FabLanka Foundation, I Welcome Professor Dr Siegfried Zuern to FabLab and Sri Lanka.
+
+Professor Zuern, Director of the International Centre and the Graduate School of Esslingen University, Germany in coordination with FabLanka Foundation in Makandura, particularly with Mr Chaminda Hettiarachchi, Director and Co-founder of FabLanka Foundation, has engaged and doing excellent work in creating awareness about the Fourth Industrial Revolution. During the last two weeks, Prof Zuern has been very busy with teaching many aspects of Industry 4.0, at the Faculty of Agriculture, University of Peradeniya, and also having a session at the Faculty of Engineering, one of my almae maters.
+
+...
+
+[Data](articles/3db1dacf.json)
+
+---
+
 ### An army soldier arrested for sexually abused schoolgirl
 
 *2024-02-12 12:05:25* · [`adalk`](https://www.ada.lk/breaking_news/එක්තැන්ව-සිටි-පාසල්-සිසුවෙකුට-ලිංගික-අතවර-කළ-හමුදා-සෙබළෙක්-අත්අඩංගුවට/11-408024) · `si`
@@ -1881,95 +1977,5 @@ As a result, school children and university students have been instructed to stu
 [Data](articles/2a4cbf39.json)
 
 [Extended Data](ext_articles/2a4cbf39.ext.json)
-
----
-
-### Relic caskets distributed among temples
-
-*2024-02-12 09:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Relic-caskets-distributed-among-temples/110-276806) · `en`
-
-Some 100 relic caskets were distributed among 100 temples in the North Central Province by Atamasthanadhipathi Most Ven. Pallegama Hemarathana Maha Nayaka Thera at a function held at the Ruwanweliseya premises on Saturday (10). The event was organised by Chief Incumbent of the Ruwanweliseya Ven. Eethalawetunuwewe Gnanathilaka Maha Thera with sponsorship from neurophysician Prof. Ranjanie Gamage. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/f113e68b.json)
-
-[Extended Data](ext_articles/f113e68b.ext.json)
-
----
-
-### The price of an egg is up from today
-
-*2024-02-12 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193272) · `si`
-
-The All Ceylon Egg Commerce Association has decided to increase the price of an egg today (12).
-
-The decision was taken due to the increase in egg distribution costs and the increase in the cost of the trade.
-
-Accordingly, the stock prices of an egg will be Rs. 58 and the retail price can be joined up to Rs.
-
-◼️
-
-[Data](articles/dbe83ee0.json)
-
-[Extended Data](ext_articles/dbe83ee0.ext.json)
-
----
-
-### Police alerting a new trend
-
-*2024-02-12 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193271) · `si`
-
-Police Media Spokesperson DIG's Pressing Lawyra says that the shortage of poisonous drug society is increasing to use the persons to use people.
-
-He said that the basic investigations carried out by the police had reported.
-
-Police Media Spokesperson DIG Rock Spokesperson DIG's lawyer said:
-
-"We have taken 363,438 drugs in the last days. Early drug dealers were arrested, as arrests of drug trafficking, and filed a warrant by the laws of law, whether law enforcement suspect is not elected in court.. Through this mission is being arrested. "
-
-◼️
-
-[Data](articles/bc501bd5.json)
-
-[Extended Data](ext_articles/bc501bd5.ext.json)
-
----
-
-### Maithri for to meet Independent Parties in the United States
-
-*2024-02-12 09:01:31* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකාවේ-නිදහස්-පක්ෂ-පාක්ෂිකයන්-හමුවීමට-මෛත්‍රී-ඇමෙරිකාවට/11-408019) · `si`
-
-The officer in charge of the Bandaranaike International Airport has also confirmed that former President Maithripala Sirisena left the US via India on the morning of 2/12.
-
-He is eligible for 02.50 days at the end of 02.50 days at the Indian Airlines AI.
-
-Maithripala Sirisena has been taken to this US tour of the Sri Lanka Freedom Party (SLFP) participating in Sri Lankans.
-
-The Media Director added that this meeting will commence from 02/15 pm.
-
-◼️
-
-[Data](articles/4578e768.json)
-
-[Extended Data](ext_articles/4578e768.ext.json)
-
----
-
-### Commemoration of the President Fund
-
-*2024-02-12 08:59:46* · [`adalk`](https://www.ada.lk/breaking_news/කුඩා-දරුවන්ට-ජනපති-අරමුදලින්-සහනයක්/11-408018) · `si`
-
-President Ranil Wickremesinghe has instructed to provide financial assistance from the Presidential Fund at the Sri Jayewardenepura General Hospital for children at the Ragama Teaching Hospital.
-
-President Ranil Wickremesinghe has been given a good idea of the future of the country and a good parent.
-
-Availability of liver transplant surgeries (under the age of 16), consuming the cost of pre-corresponding and treatment at the North of Colombo (Ragama Teaching Hospital) is considered as the prospect of pre-tests and treatment.Other conditions are completed, the liver transplant surgery will be provided with Rs.
-
-...
-
-[Data](articles/437bc5f8.json)
-
-[Extended Data](ext_articles/437bc5f8.ext.json)
 
 ---

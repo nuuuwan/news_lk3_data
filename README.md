@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 17:17:28**
+As of **2024-02-12 17:33:31**
 
 ## Newspaper Stats
 
-*Scraped **6,496** Articles*
+*Scraped **6,500** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 348
 newsfirstlk | 363
 adalk | 548
 tamilmirrorlk | 792
-adaderanalk | 793
+adaderanalk | 797
 virakesarilk | 811
 adaderanasinhalalk | 905
 dailymirrorlk | 953
@@ -26,27 +26,65 @@ dailymirrorlk | 953
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,495 (100.0%) of 6,496 articles have been extended.
+6,496 (99.9%) of 6,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### සනත් නිශාන්තට මාරු කැඳවූ අනතුර - කන්ටේනර් රියදුරාගෙන් පැය 5ක ප්‍රකාශයක්
+### Shell-RM Parks and CPSTL sign agreement for fuel storage, distribution
+
+*2024-02-12 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97203/shell-rm-parks-and-cpstl-sign-agreement-for-fuel-storage-distribution-) · `en`
+
+The Ceylon Petroleum Storage Terminals (CPSTL) signed an agreement with US-based petroleum products distributor ‘Shell-RM Parks’ today (12 Feb.).
+
+The relevant agreement was signed at the CPSTL Head Office, pertaining to the storage and distribution of fuel in Sri Lanka.
+
+As per the newly signed agreement, CPSTL is now able to store and distribute ‘Shell-RM Parks’ petroleum products in Sri Lanka.
+
+On 08 June 2023, the Government of Sri Lanka signed an agreement with RM Parks Inc., in collaboration with Shell Plc for a long-term contract for the importation, storage, distribution, and sale of petroleum products in Sri Lanka.
+
+“US-based petroleum company RM Parks in a collaboration with Shell PLC signed the agreement to enter the Sri Lanka petroleum business. RM Parks will be the 4th supplier to enter the domestic market and will operate under the Shell branding.”
+
+...
+
+[Data](articles/21649e90.json)
+
+---
+
+### President Ranil congratulates Indian PM on Ram Temple opening, hails bilateral ties
+
+*2024-02-12 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97202/president-ranil-congratulates-indian-pm-on-ram-temple-opening-hails-bilateral-ties-) · `en`
+
+President Ranil Wickremesinghe on Monday (12 Feb.) congratulated Indian Prime Minister Narendra Modi for the grand opening ceremony of the Ram Temple held in Ayodhya last month.
+
+His remarks came during the virtual launch of India’s Unified Payment Interface (UPI) services in Sri Lanka and Mauritius, which was attended by Indian Prime Minister Modi, Mauritian Prime Minister Pravind Jugnauth and the top leadership from both Sri Lanka and Mauritius.
+
+During the launch, President Wickremesinghe underlined the long historical relations between India and Sri Lanka on the economic and cultural front. “…For you, Prime Minister Modi, it’s a second important occasion because I must congratulate you on the opening of the Ram Mandir just a few weeks ago. This shows our connections both economically and culturally,” he said.
+
+...
+
+[Data](articles/b5946709.json)
+
+---
+
+### Sanath Nishantha was summoned to Nishantha - a 5 hour statement from the container driver
 
 *2024-02-12 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193293) · `si`
 
-හිටපු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා ගමන්කළ සුඛෝපභෝගී රථය ගැටුණු කන්ටේනර් රථයේ රියදුරා අද (12) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මනුෂ්‍ය ඝාතන සහ සංවිධානාත්මක අපරාධ විමර්ශන කොට්ඨාසය ට පැමිණ ප්‍රකාශයක් ලබාදුනි.
+The driver of the container collided with the luxury vehicle that Sanath Nishantha was traveling with the luxury vehicle.
 
-හිටපු රාජ්‍ය අමාත්‍යවරයාගේ සහ ඔහුගේ ආරක්ෂක නිලධාරියාගේ මරණ සම්බන්ධයෙන් මේ වනවිට එම කොට්ඨාසය පරීක්ෂණ පවත්වයි.
+The division is currently conducting investigations into the deaths of the former state minister and his security officer.
 
-අප වාර්තාකරු පැවසුවේ කන්ටේනර් රථයේ රියදුරා පැය 5ක පමණ ප්‍රකාශයක් ලබාදුන් බවයි.
+Our correspondent said that the driver of the container had a 5 hour statement.
 
-එම රිය අනතුර සිදුව ඇති ආකාරය සැක සහිත බැවින් ඒ සම්බන්ධයෙන් විධිමත් පරීක්ෂණයක් පවත්වන ලෙස ඉල්ලා සනත් නිශාන්ත මහතාගේ බිරිඳ, නීතිඥ චමරි ප්‍රියංකා මහත්මිය විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ඉදිරාපත් කළාය.
+The wife of Sanath Nishantha demands a complaint with the CID, Attorney Chamari Priyanka demanding a formal investigation into the incident.
 
 ◼️
 
 [Data](articles/4c8d0a6e.json)
+
+[Extended Data](ext_articles/4c8d0a6e.ext.json)
 
 ---
 
@@ -193,6 +231,24 @@ Damadantha Chameera was selected for the squad, but due to the condition of the 
 [Data](articles/219d5280.json)
 
 [Extended Data](ext_articles/219d5280.ext.json)
+
+---
+
+### Launch of UPI services in Sri Lanka, Mauritius symbol of Global South cooperation - Modi
+
+*2024-02-12 15:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97201/launch-of-upi-services-in-sri-lanka-mauritius-symbol-of-global-south-cooperation-modi) · `en`
+
+Indian Prime Minister Narendra Modi said on Monday that the launch of India’s UPI services in island countries Sri Lanka and Mauritius is a symbol of India’s cooperation with the Global South.
+
+Addressing the launching ceremony virtually, PM Modi said he was confident that Indian tourists would prioritise these destinations with the availability of Unified Payments Interface (UPI).
+
+“The Indian diaspora in Sri Lanka and Mauritius will benefit from this initiative. This will reduce the dependence on hard currency. The use of UPI and Rupay card facilities will enable payments in our own currency at a cheaper rate,” PM Modi said.
+
+“This launch is a symbol of Global South cooperation. Our relations are historic. Over the past 10 years, we have shown how India stands firm with its neighbour in challenging times,” Modi added.
+
+...
+
+[Data](articles/b10166e4.json)
 
 ---
 
@@ -365,6 +421,24 @@ The Department of Health has said that the Department of Health Services will be
 [Data](articles/562dcde2.json)
 
 [Extended Data](ext_articles/562dcde2.ext.json)
+
+---
+
+### Health trade unions to resume strike as talks fail
+
+*2024-02-12 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97200/health-trade-unions-to-resume-strike-as-talks-fail-) · `en`
+
+The health sector trade unions have decided to resume their trade union action as discussions held with the Ministry of Finance regarding their demands were unsuccessful.
+
+Accordingly, 72 health sector trade unions, excluding doctors’ unions, will launch an indefinite strike from 6.30 a.m. tomorrow (13 Feb.), the unions said.
+
+The decision had been taken following a meeting held between representatives of the Finance Ministry and the trade unions this morning regarding the latter’s demand for the Disturbance, Availability & Transport (DAT) allowance to be extended for all healthcare personnel.
+
+On January 08, the Cabinet of Ministers approved President Ranil Wickremesinghe’s proposal to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000. This compelled the other health workers to resort to trade union actions.
+
+...
+
+[Data](articles/34f365c9.json)
 
 ---
 
@@ -670,15 +744,15 @@ Suspect is a 44 year old resident of Henatiyiyana area. The racket had been carr
 
 *2024-02-12 13:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97199/indias-upi-payment-service-launched-in-sri-lanka) · `en`
 
-India’s Unified Payment Interface (UPI) transactions, via LankaQR, was introduced to Sri Lanka at a virtual launch held on Monday (12 Feb.).
+India’s Unified Payment Interface (UPI) transactions, via LankaQR, was officially introduced to Sri Lanka at a virtual launch held on Monday (12 Feb.).
 
 The real-time payment system aims to enhance digital payments for Indian tourists in Sri Lanka.
 
+India’s instant payment technology Unified Payment Interface (UPI) services were simultaneously launched in Sri Lanka and Mauritius on Monday, in the virtual presence of Indian Prime Minister Narendra Modi, President of Sri Lanka Ranil Wickremesinghe and Prime Minister of Mauritius Pravind Jugnauth.
+
 According to the President’s Media Division (PMD), the initiative, led by the National Payments Corporation of India (NPCI) International Payments Limited & LankaPay Pvt Ltd, aims to rapidly expand, with 10,000 merchants set to accept UPI payments shortly after the launch.
 
-By March 2024, this number will reach 65,000, providing a seamless payment solution for Indian tourists, the PMD reported.
-
-On Sunday (11 Feb.), India’s foreign ministry had announced that the Unified Payment Interface (UPI) services and RuPay card services will be rolled out in Sri Lanka and Mauritius at a virtual ceremony on Monday, February 12.
+By March 2024, this number will reach 65,000, providing a seamless payment solution for Indian tourists, the PMD reported.
 
 ...
 
@@ -1911,97 +1985,5 @@ The deceased has been identified as a resident of Mollyipathana area.
 [Data](articles/862be0a4.json)
 
 [Extended Data](ext_articles/862be0a4.ext.json)
-
----
-
-### Outstanding CCTV footage out of the Meegoda economy
-
-*2024-02-12 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193268) · `si`
-
-Two armed persons have fled the Meegoda Economic Center at the Meegoda today (12).
-
-It is reported that 3 bullets were injured and hospitalized after the girl who was cashier in the shop in the shop.
-
-The CCTV camera was added to robbed the money in the drawer in the shop.
-
-The robbers have laid the money in the upper drawer and shot the girl in the drawer, seeking the key to the cash in the drawer.
-
-The Economic Center Police checkpoint is located in front of the shooting market.
-
-The two shooters who had committed the robbery then pushed the motorcycle and fled.
-
-The robbery is yet to be disclosed and the injured girl is currently receiving treatment at Homagama.
-
-◼️
-
-[Data](articles/c467b016.json)
-
-[Extended Data](ext_articles/c467b016.ext.json)
-
----
-
-### Third offshore campus of IIT likely to be set up in Sri Lanka
-
-*2024-02-12 07:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97193/third-offshore-campus-of-iit-likely-to-be-set-up-in-sri-lanka) · `en`
-
-The third offshore campus of the prestigious Indian Institute of Technology (IIT) is likely to be set up in Sri Lanka, according to sources.
-
-The proposal for an IIT in Sri Lanka was announced last November in the 2024 Budget unveiled by Sri Lankan President Ranil Wickremesinghe, who also serves as the finance minister.
-
-According to sources, the Sri Lankan government is in touch with IIT Madras for the ambitious project.
-
-“A high-level delegation had recently visited the Chennai campus to discuss the future roadmap. The talks are on and the campus is likely to come up in Kandy,” a source said.
-
-“The delegation also visited the Research Park at the campus and interacted with officials about possible areas of engagement,” the source added.
-
-The Indian government had announced that opportunities for admission to the IITs in India will be provided to meritorious Sri Lankan students from the 2017-18 academic sessions onwards.
-
-...
-
-[Data](articles/6e6d3217.json)
-
-[Extended Data](ext_articles/6e6d3217.ext.json)
-
----
-
-### There are many more surprises revealed; Anura
-
-*2024-02-12 07:43:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்னும்-பல-ஆச்சரியங்கள்-வெளிவரவுள்ளன-அநுர/175-333053) · `ta`
-
-NPP leader Anura Kumara Dissanayake, who is said to have been surprised by the NPP's Indian journey, has said that there are many more surprising events in the future.
-
-Speaking at the Anuradhapura District Women's Conference, she said that an era has now begun and there will be further surprise.
-
-"How do you know our visit to India? You have learned by the United People's Power, by President Ranil or by Mahinda Rajapaksa. We were silent. They were surprised to learn our Indian journey. They thought that only they could deal with India.  . More and more surprises have begun, ”he said.
-
-Dissanayake said the opposition parties were amazed at this concept of the women's conference and that they never thought women's awareness would happen.
-
-He said that even the political opponents like Mahinda-Chandrika, Maithripala-Mahinda and Ranil-Chandrika are coming to the same stage, various alliances are fielding against the victory of the National People's Front.
-
-...
-
-[Data](articles/4a48ecd9.json)
-
-[Extended Data](ext_articles/4a48ecd9.ext.json)
-
----
-
-### There are many surprises; Anura
-
-*2024-02-12 07:43:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆச்சரியங்கள்-பல-உள்ளன-அநுர/175-333053) · `ta`
-
-NPP leader Anura Kumara Dissanayake, who claims that the opposition parties are amazed by the national journey of the National People's Power (NPP), said that many more surprising events in the future are coming out.
-
-Speaking at the Anuradhapura District Women's Conference, she said that an era has now begun and there will be further surprise.
-
-"How do you know our visit to India? You have learned by the United People's Power, by President Ranil or by Mahinda Rajapaksa. We were silent. They were surprised to learn our Indian journey. They thought that only they could deal with India.  . More and more surprises have begun, ”he said.
-
-Dissanayake said the opposition parties were amazed at this concept of the women's conference and that they never thought women's awareness would happen.
-
-...
-
-[Data](articles/f9a2044a.json)
-
-[Extended Data](ext_articles/f9a2044a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 15:17:13**
+As of **2024-02-12 15:34:11**
 
 ## Newspaper Stats
 
-*Scraped **6,470** Articles*
+*Scraped **6,475** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,48 +15,78 @@ economynextcom | 325
 islandlk | 344
 dailyftlk | 348
 newsfirstlk | 363
-adalk | 543
-tamilmirrorlk | 788
+adalk | 544
+tamilmirrorlk | 791
 adaderanalk | 793
 virakesarilk | 806
 adaderanasinhalalk | 900
-dailymirrorlk | 947
+dailymirrorlk | 948
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,464 (99.9%) of 6,470 articles have been extended.
+6,470 (99.9%) of 6,475 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### මරණ දණ්ඩනය දී තිබූ ඉන්දියානුවන්ට නිදහස
+### Appeals open for Grade 6 admissions
+
+*2024-02-12 14:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Appeals-open-for-Grade-6-admissions/108-276841) · `en`
+
+Colombo, Feb 12 (Daily Mirror) - Appeals relating to admissions for Grade 6 classes for 2024 based on the results of the 2023 Grade 5 scholarship examination will be accepted from tomorrow (February 13) till February 29, the Examinations Department said.
+
+The Department requests that the applications be sent via the online system.
+
+Accordingly, the Ministry requests the applicants to visit the Education Ministry official website at www.moe.gov.lk or http://g6application.moe.gov.lk/#/  to send direct appeals.
+
+◼️
+
+[Data](articles/a4c28afc.json)
+
+---
+
+### Indians in death sentence
 
 *2024-02-12 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193288) · `si`
 
-මරණ දණ්ඩනය නියම කර සිටි හිටපු ඉන්දීය නාවික නිලධාරීන් 08 දෙනාව නිදහස් කිරීමට කටාර් අධිකරණයක් නියෝග කර තිබේ.
+An Qatar Court has ordered to release the eight former Indian sailors sentenced to death.
 
-ඉන්දීය විදේශ අමාත්‍යංශය පැවසුවේ නිදහස ලැබූ 7 දෙනෙක් මේ වනවිට ඉන්දියාවට පැමිණ ඇති බවයි.
+The Indian Foreign Ministry said that seven persons have been released to India.
 
-පසුගිය ජනවාරි මාසයේදී ඔවුන්ට එරෙහිව දී තිබූ දඬුවම බන්ධනාගාර ගත කිරීමක් ලෙස වෙනස් කළේය.
+In January, the punishment was filed against them as a prison.
 
-කටාරයේ පිහිටි "Dahra Global"නම් පෞද්ගලික සමාගමක ඔවුන් සේවය කරමින් සිටියේය.
+They were serving in a private company named "dahra Global" in Qatar.
 
-ඔවුන්ව අත්අඩංගුවට ගැනුණේ හෝ අධිකරණයෙන් දඬුවම් දුන්නේ කුමන චෝදනාවකට ද යන්න සම්බන්ධයෙන් කටාරය හෝ ඉන්දියාව කරුණු පැහැදිලි කර නොමැත.
+Qatar or India have not explained to which of the allegations of them arrested or punished by the court.
 
-නමුත් මාධ්‍ය වාර්තා සඳහන් කර තිබුණේ ඊශ්‍රායලය වෙනුවෙන් ඔත්තු බැලීමේ චෝදනාව ඔවුන්ට එරෙහිව එල්ලකර තිබූ බවයි.
+However, media reports have stated that the accusation of the Israeli was charged against them.
 
 ◼️
 
 [Data](articles/8fcebc27.json)
 
+[Extended Data](ext_articles/8fcebc27.ext.json)
+
+---
+
+### நாளை முதல் குதிக்க தீர்மானம்
+
+*2024-02-12 14:40:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-குதிக்க-தீர்மானம்/175-333072) · `ta`
+
+நிதி அமைச்சுடனான பேச்சுவார்த்தை தோல்வியடைந்ததால், சுகாதார சேவைகள் திணைக்களத்தின் மீண்டும் பணிப்புறக்கணிப்பில், நாளை (13) முதல் ஈடுபடவுள்ளதாக சுகாதாரத் துறையினர் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/562dcde2.json)
+
 ---
 
 ### Health trade unions resort to another strike
 
-*2024-02-12 14:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-trade-unions-resort-to-another-strike/108-276840) · `en`
+*2024-02-12 14:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-trade-unions-resort-to-another-strike/108-276840) · `en`
 
 Colombo, Feb 12 (Daily Mirror) - Trade unions within the health sector have once again declared an island-wide strike following unsuccessful discussion with officials from the Finance Ministry.
 
@@ -70,53 +100,61 @@ Despite the representatives of the trade unions having a crucial discussion with
 
 [Data](articles/47566eae.json)
 
+[Extended Data](ext_articles/47566eae.ext.json)
+
 ---
 
-### සෞඛ්‍ය වෘත්තීය සමිති හෙට වැඩ වර්ජනයක
+### Health Trade Unions on strike tomorrow
 
 *2024-02-12 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193287) · `si`
 
-සෞඛ්‍ය වෘත්තීය සමිති 72ක් හෙට උදෑසන 6.30 සිට වැඩ වර්ජනයක් ආරම්භ කිරීමට තීරණය කර තිබේ.
+72 health unions have decided to launch a strike from 6.30 am tomorrow.
 
-මුදල් අමාත්‍යාංශය සමග පැවති සාකච්ඡා අසාර්ථක වීම හෙතුවෙන් මෙම තීරණය ගත් බව එම වෘත්තීය සමිති පවසයි.
+The unions said that the decision was failed by the Ministry of Finance with the Ministry of Finance.
 
 ◼️
 
 [Data](articles/5aaa974c.json)
 
+[Extended Data](ext_articles/5aaa974c.ext.json)
+
 ---
 
-### ලෝක මැරතන් ශූරයා මෝටර් රථ අනතුරකින් මරුට
+### World Marathon Champion dies in a car accident
 
 *2024-02-12 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193286) · `si`
 
-මැරතන් ලෝක වාර්තාව හිමිකරගෙන සිටි කෙන්යාවේ කෙල්වින් කිප්ටම් මෝටර් රථ අනතුරකින් ජීවිතක්ෂයට පත්වී තිබේ.
+Kelvin Kipitam, Kenya, holding the marathon world record, has died in a car accident.
 
-ජාත්‍යන්තර මාධ්‍ය වාර්තා සඳහන් කරන්නේ කෙන්යාවේ සිදුවූ අනතුරකින් ඔහු ජීවිතයෙන් සමුගෙන ඇති බවයි.
+International media reports said he had left his life in a crash.
 
-ඔහුගේ පුහුණුකරු ලෙස කටයුතු කළ රුවන්ඩාවේ Gervais Hakizimana ඊයේ සිදුවූ එම අනතුරින් මියගොස් තිබුණි.
+Rwanda's GERVAIS HAKIZIANA was killed in the accident yesterday.
 
-2023 ඔක්තෝබර් මාසයේදී චිකාගෝ මැරතන් තරගය පැය 2යි තත්පර 35කින්  නිම කිරීමට ඔහු සමත් විය.
+In October 2023, he was able to finish the Chicago Marathon in October 2 and 35 seconds.
 
 ◼️
 
 [Data](articles/6a5c2e11.json)
 
+[Extended Data](ext_articles/6a5c2e11.ext.json)
+
 ---
 
-### උත්සව සමයේ බිත්තර මිල අඩුවෙයිද?
+### Will egg prices fall during festive season?
 
 *2024-02-12 14:12:11* · [`adalk`](https://www.ada.lk/breaking_news/උත්සව-සමයේ-බිත්තර-මිල-අඩුවෙයිද-/11-408031) · `si`
 
-ඉදිරි උත්සව සමයේ හිඟයකින් ‌තොරව වෙළඳපලට බිත්තර සපයන බවට සමස්ථ ලංකා කුකුළු මස් හා බිත්තර නිශ්පාදකයනගේ සංගමයේ සභාපති මාතලී ජයසේකර මහතා පවසයි. විවිධ සංගම් හා ජාවාරම් කරුවන් විසින් මාධ්‍යය නිවේදන නිකුත් කරමින් වෙළඳපලේ දේශිය බිත්තර හිඟයක් ඇතිබවට හැගවීමට උත්සාහ කරනබද පවසයි.
+All Ceylon Chicken and eggs, egg production, says that the eggs are supplied to the market without a shortest festive season. Mr. Mothal Jayasekara says. The various associations and racketeers have issued the media announcements and seek to feel the local egg deficit in the market.
 
-වෙළඳපලේ දේශිය බිත්තරයක් මේවනවිට රුපියල් 52/ 53 වැනි මිලකට අලවි උවත් ඇතැම් ජාවාරම් කරුවන් විසින් බිත්තර මිල ඉහලගොස් ඇතැයි ප්‍රකාශ නිකුත් සිටින බවට වැඩිදුරටත් ඒ මහා පවසා සිටියේය.
+He said that some racketeers have said that some racketeers have increased their prices of the local egg in the market.
 
-ඉදිරි උත්සව සමයේදීත් වෙළඳපලට අවශ්‍ය තරම් බිත්තර තොග නිකුත් කිරීම හැකි බවත්, මිල වැඩිවීමක් සිදු නොවන බවද -,අද,- කල විමසීමේදී පවසා සිටියේය.
+According to the following, the market could issue enough egg consignments during the next festive season and that there would be no increase in the price.
 
 ◼️
 
 [Data](articles/9cb89701.json)
+
+[Extended Data](ext_articles/9cb89701.ext.json)
 
 ---
 
@@ -204,6 +242,24 @@ India has emerged as a leader in Fintech innovation and Digital Public Infrastru
 
 ---
 
+### හිටපු ඇමති ගාමිණී බලන්න ජනපති යයි
+
+*2024-02-12 13:43:41* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමති-ගාමිණී-බලන්න-ජනපති-යයි/11-408027) · `si`
+
+දැනට රෝගාතුරුව පසුවන හිටපු අමාත්‍ය ගාමිණි ජයවික්‍රම පෙරේරා මහතාගේ සුව දුක් විමසීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එක් විය.
+
+ගාමිණි ජයවික්‍රම පෙරේරා මහතාගේ කටුගම්පළ පිහිටි නිවසට ඊයේ (11) පෙරවරුවේ ගිය ජනාධිපතිවරයා හිටපු අමාත්‍යවරයාගේ සුව දුක් විමසමින් කෙටි කථා බහක නිරත විය.
+
+අනතුරුව පවුලේ ඥාතීන්ගේ ද තොරතුරු විමසූ ජනාධිපතිවරයා ගාමිණි ජයවික්‍රම පෙරේරා මහතාගේ නිවස අසළට රැස්ව සිටී ප්‍රදේශයේ ජනතාව සමඟ ද සුහද පිළිසඳරකට එක් විය.
+
+හිටපු අමාත්‍ය අකිල විරාජ් කාරියවසම්, ගාමිණි ජයවික්‍රම පෙරේරා මහතාගේ පුතණුවන් වන වයඹ පළාත් සභා හිටපු මන්ත්‍රී අසංක ජයවික්‍රම යන මහත්වරු ඇතුළු කුරුණෑගල දිස්ත්‍රික්කයේ දේශපාලනඥයන් කිහිපදෙනෙක් සහ වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ඇතුළු පිරිසක් මෙම අවස්ථාවට එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/172846bc.json)
+
+---
+
 ### Police attack on urinated police
 
 *2024-02-12 13:39:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/சிறுநீர்-கழித்த-பொலிஸ்-மீது-பொலிஸார்-தாக்குதல்/95-333068) · `ta`
@@ -284,17 +340,19 @@ Due to this disorder, Leach had to leave the first Test on the first Test on Hyd
 
 ---
 
-### ශිෂ්‍යත්ව ප්‍රතිඵල අනුව පාසල්වලට සිසුන් ඇතුළත් කිරීමට අදාළව අභියාචනා කැඳවයි
+### Exhibiting appeals to school students by scholarship results
 
 *2024-02-12 13:29:42* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-ප්‍රතිඵල-අනුව-පාසල්වලට-සිසුන්-ඇතුළත්-කිරීමට-අදාළව-අභියාචනා-කැඳවයි/11-408026) · `si`
 
-2023 වර්ෂයේ පැවති 5 ශ්‍රේණි ශිෂ්‍යත්ව පරීක්ෂණයේ ප්‍රතිඵල මත සිසුන්ට 2024 වර්ෂයේ 6 ශ්‍රේණියට ඇතුළත් වීම සඳහා අදාළ අභියාචනා 2024. 02. 13 දින සිට 2024. 02. 29 දින දක්වා මාර්ගගත ක්‍රමයට (Online) යොමු කිරීමට දැන් හැකියාව තිබේ.
+In the year 5 scholarship testing in 2023, the students' appeals to the students to be included in Grade 6, 2024. 02. 1324 to 2024. 02. Now there is now the ability to refer to online system until 29 days.
 
-අධ්‍යාපන අමාත්‍යාංශයේ නිල වෙබ් අඩවිය වන www.moe.gov.lk වෙත පිවිස උපරිම වශයෙන් පාසල් තුනක් සඳහා අභියාචනා ඉදිරිපත් කිරීමේ හැකියාව පවතින අතර http://g6application.moe.gov.lk/#/  දිගුව ඔස්සේ සෘජු ව ම අභියාචනා යොමු කිරීමේ හැකියාව ද පවතී.
+The official website of the Ministry of Education is the ability to make appeals for a maximum of three schools and direct appeals through http://g6application.gov.lk/#/ extension.Exist.
 
 ◼️
 
 [Data](articles/78784331.json)
+
+[Extended Data](ext_articles/78784331.ext.json)
 
 ---
 
@@ -1732,6 +1790,24 @@ The MP had told Parliament that he had mentioned at the particular Committee mee
 
 ---
 
+### ரயில் மோதி சிறுவன் பலி
+
+*2024-02-12 05:00:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/ரயில்-மோதி-சிறுவன்-பலி/75-333051) · `ta`
+
+திருகோணமலை - தம்பலகாமம் பகுதியில் நேற்று ரயில் மோதி சிறுவன் ஒருவர் உயிரிழந்துள்ளார்.
+
+கொழும்பில் இருந்து திருகோணமலை நோக்கிச் சென்று கொண்டிருந்த ரயிலில் சிக்கிய குறித்த சிறுவன் உயிரிழந்துள்ளார்.
+
+தம்பலகாமம் பகுதியிலுள்ள பாலத்துக்கு அருகில் நண்பர்களுடன் மீன்பிடித்துக் கொண்டிருந்த சிறுவனே இந்த விபத்தில் உயிரிழந்துள்ளார்.
+
+முள்ளிப்பொத்தானை, யூனிட் - 07 பகுதியைச் சேர்ந்த தரம் 9 இல் கல்வி கற்கும் மாணவனான நளீம் முஹம்மது சப்ரிட் (வயது 14) என்பவரே இவ்வாறு .உயிரிழந்துள்ளார். (a)
+
+◼️
+
+[Data](articles/c585d3c6.json)
+
+---
+
 ### Boy killed
 
 *2024-02-12 05:00:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-மோதி-சிறுவன்-பலி/175-333051) · `ta`
@@ -1793,6 +1869,22 @@ Vavuniya High Court Judge Manikkavasagam Ilancheliyan who delivered the verdict 
 [Data](articles/4d9898c3.json)
 
 [Extended Data](ext_articles/4d9898c3.ext.json)
+
+---
+
+### மாணவி சடலமாக மீட்பு
+
+*2024-02-12 04:01:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாணவி-சடலமாக-மீட்பு/76-333050) · `ta`
+
+பலாங்கொடை, பெட்டிகள பிரதேசத்தில் வீடொன்றின் குளியலறையில் இருந்து பாடசாலை மாணவி ஒருவர் சடலமாக  மீட்கப்பட்டுள்ளார்.
+
+உறவினர்கள் வழங்கிய முறைப்பாட்டுக்கு அமைய பலாங்கொடை பொலிஸாரால் குறித்த மாணவியின் சடலம் நேற்று மீட்கப்பட்டுள்ளது.
+
+இவ்வாறு சடலமாக மீட்கப்பட்ட மாணவி பலாங்கொடை பிரதேசத்தில் பிரபல தமிழ்ப் பாடசாலை ஒன்றில் உயர்தர வகுப்பில் கல்வி கற்றவர் என்று பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/25fd5c93.json)
 
 ---
 
@@ -1919,103 +2011,5 @@ Varoufakis quit in protest. Unlike in Sri Lanka, he didn’t join the opposition
 [Data](articles/e1900815.json)
 
 [Extended Data](ext_articles/e1900815.ext.json)
-
----
-
-### An Election’s A Brewing, Will We See JVP Policy Changes? - EDITORIAL
-
-*2024-02-12 02:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/An-Elections-A-Brewing-Will-We-See-JVP-Policy-Changes-EDITORIAL/172-276782) · `en`
-
-India’s invitation to the JVP/NPP and its leader, Anura Kumara Dissanayake – popularly known as AKD – has made political watchers put on their thinking caps. Many seem to believe the Indian action indicates its belief that the JVP/NPP combine is in a position to capture power at the next General Election or even at the Presidential Poll.
-
-The reality however is, that it is customary for the Indian government to extend such invitations to major political players of nations in its neighbourhood.
-
-What is almost vulgar however is that some of our major political parties have gone a running to ask India to extend similar invitations to them as well!
-
-...
-
-[Data](articles/ec6e3528.json)
-
-[Extended Data](ext_articles/ec6e3528.ext.json)
-
----
-
-### Generals & General Elections: Retired Military Officers in the Politics of SJB and JVP
-
-*2024-02-12 02:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Generals-General-Elections-Retired-Military-Officers-in-the-Politics-of-SJB-and-JVP/172-276780) · `en`
-
-“The follower is always far behind the winner” emphasizes the idea that those who follow, copy or imitate are usually not as successful or accomplished as the original trailblazer. This sentiment suggests that true success often comes from innovation, leadership, and being at the forefront of progress, rather than simply mimicking the actions of others.
-
-When faced with the opportunity to assume leadership in government, Sajith Premadasa exhibited a hesitant approach. His initial reluctance to take over the reins became evident, creating a perception of indecisiveness. In contrast, when Ranil Wickremesinghe appeared poised to accept the responsibility, Sajith swiftly changed course, making a hurried message to the President’s House. However, his attempt was futile as he arrived too late to alter the unfolding events.
-
-...
-
-[Data](articles/117673bd.json)
-
-[Extended Data](ext_articles/117673bd.ext.json)
-
----
-
-### Democracy and elections are the paradigm of Pakistan
-
-*2024-02-12 02:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176148) · `ta`
-
-The third case is interesting. The two were sentenced to seven years in prison in the case of a lawsuit filed by Imran and his wife, because it was wrong for the Islamic man to marry.
-
-On the other hand, the court, which sentenced Imran to imprisonment, removed the sentence of Nawaz Sharif, who had been convicted of the Panama Papers corruption affair.
-
-Nawaz Sharif cannot be involved in politics throughout the life span. The coalition government led by the Pakistan People's Party and the Pakistan Muslim League, which toppled Imran from the regime, passed a law that would lead to a political disqualification of a politically disqualified law and created a situation where Nawaz Sharif could contest the election.
-
-◼️
-
-[Data](articles/c8809176.json)
-
-[Extended Data](ext_articles/c8809176.ext.json)
-
----
-
-### Western countries that hunger Palestinians
-
-*2024-02-12 02:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/176147) · `ta`
-
-Countries that stop funding are at risk of “further elimination” of essential food, water, medical aid and medical products, educational and safety for the Palestinians.
-
-The UN. Commissioner General of Relief Services Philip Lassarini has warned of serious impacts on Gaza's entire population due to allegations against a few individuals within the company.. “A large number of people are hungry. Time and moments are moving towards a fearful famine. ”
-
-According to the Ministry of Health, Gaza, starting on October 7, 2023, in Gaza;26,751 Palestinians were killed in the ongoing genocide, and 65,636 were injured. Palestinian and international estimates indicate that most of the killed and injured are women and children.
-
-◼️
-
-[Data](articles/a3ac687b.json)
-
-[Extended Data](ext_articles/a3ac687b.ext.json)
-
----
-
-### Is 'Billions of Income Religious Places' free of income tax?
-
-*2024-02-12 02:05:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxx5yj1gwk4o) · `si`
-
-Taxes is one of the greatest crises of the people of Sri Lanka today.
-
-Sri Lankans who excelled annually exceeding Rs.
-
-Various parties complain about the new income tax policy introduced by the government's income tax policy, saying it is unfair to levies such as income earning Rs.
-
-'Tin' that is mandatory for Sri Lankans: How to Apply?
-
-The creator of Namal Rahula, the Creator of Namal, is an unfair act to earn income taxes to maintain income taxes to maintain life.
-
-He spoke to the BBC Sinhala service, indicating that some temples will be revenue than a million rupees monthly.
-
-"There are Buddhist, Christian, Muslim and Hindu sacred places, gathering billions of Rs.. It must be charged everywhere. I call the religious leaders as the millionaires who do not pay taxes. "
-
-Wawaswi Rahula Thero added that it is injustice to taxpayers to avoid non taxes.
-
-...
-
-[Data](articles/e1aee52d.json)
-
-[Extended Data](ext_articles/e1aee52d.ext.json)
 
 ---

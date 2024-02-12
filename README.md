@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 14:17:26**
+As of **2024-02-12 14:33:12**
 
 ## Newspaper Stats
 
-*Scraped **6,459** Articles*
+*Scraped **6,463** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 344
 dailyftlk | 348
 newsfirstlk | 363
 adalk | 541
-tamilmirrorlk | 785
-adaderanalk | 792
+tamilmirrorlk | 788
+adaderanalk | 793
 virakesarilk | 806
 adaderanasinhalalk | 896
 dailymirrorlk | 946
@@ -26,25 +26,45 @@ dailymirrorlk | 946
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,455 (99.9%) of 6,459 articles have been extended.
+6,459 (99.9%) of 6,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### ඊශ්‍රායල ප්‍රාණ ඇපකරුවන් දෙදෙනෙක් ව බේරා ගැනේ
+### தந்தை-மகன் சண்டையில், காது, விரல்கள் துண்டாகின
+
+*2024-02-12 13:57:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/தந்தை-மகன்-சண்டையில்-காது-விரல்கள்-துண்டாகின/94-333069) · `ta`
+
+தந்தைக்கும் மகனுக்கு இடையில் ஏற்பட்ட சண்டையில், தந்தையின் காதுகளில் ஒன்று துண்டாகியதுடன், மகனின் கை விரல்களில் இரண்டு விரல்கள் துண்டாகின. இந்த சம்பவம் பல்லம, வில்பொத்த பிரதேசத்தில் இடம்பெற்றுள்ளது.
+
+பல்லம, வில்பொத்த பிரதேசத்தில் இடம்பெற்ற விருந்துபசாரத்தின் பின்னர் தந்தைக்கும் மகனுக்கும் இடையில் ஏற்பட்ட சண்டையிலேயே தந்தையின் காது அறுபட்டுள்ளதாகவும், தந்தையின் தாக்குதலில் மகனின் இரண்டு விரல்கள் துண்டிக்கப்பட்டதாகவும் பல்லம பொலிஸார் தெரிவிக்கின்றனர்.
+
+வில்பொத்த பகுதியிலுள்ள வீடொன்றில் விருந்துபசாரம் முடித்து வீடு திரும்பிய 56 வயதுடைய தந்தை உறங்கிக் கொண்டிருந்த போது மகன் தடியால் தாக்கியதாகவும் தந்தையின் ஒரு காது துண்டாக்கப்பட்டதாக தெரிவிக்கப்படுகின்றது.
+
+அதேநேரம் கண்விழித்த தந்தை, கைக்கு கிடைத்த கத்தியால் மகனைத் தாக்கினார், மகன் தாக்குதலைத் தவிர்க்க முயன்றபோது அவரது இரண்டு விரல்கள் வெட்டப்பட்டுள்ளன என்றும் அறியமுடிகின்றது.
+
+◼️
+
+[Data](articles/5bd9d90f.json)
+
+---
+
+### Israeli hostages rescue
 
 *2024-02-12 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193284) · `si`
 
-රෆා ප්‍රදේශයේ සිදුකළ විශේෂ මෙහෙයුමකින් හමාස් සංවිධානය විසින් පැහැරගෙන ගොස් සඟවාගෙන සිටි ප්‍රාණ ඇපකරුවන් දෙදෙනෙක්ව බේරාගත් බව ඊශ්‍රායලය පවසයි.
+Israel says that two hostilities were abducted and hidden by Hamas was abducted and hidden by Hamas.
 
-එම පුද්ගලයින් දෙදෙනා හොඳ සෞඛ්‍ය තත්ත්වයෙන් සිටින බවද වාර්තා විය.
+It was reported that the two men are in good health.
 
-දකුණු ගාසා ප්‍රදේශයට ඊශ්‍රායල ප්‍රහාරක යානා දැඩි ප්‍රහාර එල්ලකර ඇති අතර ඉන් පලස්තීන වැසියන් විශාල පිරිසක් මියගොස් ඇති බවද වාර්තා වෙයි.
+Israeli fighters have been severely attacked in the South Gaza, and a large number of Palestinians have died.
 
 ◼️
 
 [Data](articles/74d0a59e.json)
+
+[Extended Data](ext_articles/74d0a59e.ext.json)
 
 ---
 
@@ -61,6 +81,28 @@ India has emerged as a leader in Fintech innovation and Digital Public Infrastru
 ◼️
 
 [Data](articles/7b1ac327.json)
+
+[Extended Data](ext_articles/7b1ac327.ext.json)
+
+---
+
+### சிறுநீர் கழித்த பொலிஸ் மீது பொலிஸார் தாக்குதல்
+
+*2024-02-12 13:39:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/சிறுநீர்-கழித்த-பொலிஸ்-மீது-பொலிஸார்-தாக்குதல்/95-333068) · `ta`
+
+மரமொன்றில் சிறுநீர் கழிக்கச் சென்ற பொலிஸ் பரிசோதகரை கடுமையாக தாக்கியதாக பொலிஸ் பரிசோதகர் ஒருவர் முறைப்பாடு செய்துள்ளதாக பம்பலப்பிட்டி பொலிஸார் தெரிவிக்கின்றனர்.
+
+பம்பலப்பிட்டி பொலிஸ் பரிசோதகர் சிற்றுண்டிச்சாலையின் பிரதான வாயிலுக்கு அருகில் உள்ள மரமொன்றின் அடியிலேயே சிறுநீர் கழிக்கச் சென்றுள்ளார்
+
+சுமார் 6 பேர் கொண்ட பொலிஸ் குழு தம்மை சுற்றி வளைத்து கடுமையாக தாக்கியதாகவும் அவர்களில் மூத்த பொலிஸ் அதிகாரி ஒருவரும் அடங்குவதாக பொலிஸ் பரிசோதகரின் முறைப்பாட்டில் தெரிவிக்கப்பட்டுள்ளதாக பொலிஸ் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+சிரேஷ்ட அதிகாரி தம்மை கடுமையாக குற்றம் சாட்டியதாகவும் பொலிஸ் பரிசோதகர் செய்த முறைப்பாட்டில் குறிப்பிட்டுள்ளார்.
+
+இவர் கடந்த 9ம் திகதி இரவு  பொலிஸ் சிற்றுண்டிச்சாலையில் சாப்பிட்டுவிட்டு வெளியே வந்து சிறுநீர் கழிப்பதற்காக  மரத்தடிக்கு சென்றதாக இந்த பொலிஸ் இன்ஸ்பெக்டர் கொடுத்த முறைப்பாட்டில் கூறப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/42acac57.json)
 
 ---
 
@@ -79,6 +121,26 @@ Suspect is a 44 year old resident of Henatiyiyana area. The racket had been carr
 [Data](articles/a3beaf1d.json)
 
 [Extended Data](ext_articles/a3beaf1d.ext.json)
+
+---
+
+### India’s UPI payment service launched in Sri Lanka
+
+*2024-02-12 13:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97199/indias-upi-payment-service-launched-in-sri-lanka) · `en`
+
+India’s Unified Payment Interface (UPI) transactions, via LankaQR, was introduced to Sri Lanka at a virtual launch held on Monday (12 Feb.).
+
+The real-time payment system aims to enhance digital payments for Indian tourists in Sri Lanka.
+
+According to the President’s Media Division (PMD), the initiative, led by the National Payments Corporation of India (NPCI) International Payments Limited & LankaPay Pvt Ltd, aims to rapidly expand, with 10,000 merchants set to accept UPI payments shortly after the launch.
+
+By March 2024, this number will reach 65,000, providing a seamless payment solution for Indian tourists, the PMD reported.
+
+On Sunday (11 Feb.), India’s foreign ministry had announced that the Unified Payment Interface (UPI) services and RuPay card services will be rolled out in Sri Lanka and Mauritius at a virtual ceremony on Monday, February 12.
+
+...
+
+[Data](articles/942001a6.json)
 
 ---
 
@@ -212,43 +274,47 @@ Suddenly he stood in the middle of the stadium and died on the spot when lightni
 
 ---
 
-### ரஃபாவில் இஸ்ரேல் மேற்கொள்ளும் நடவடிக்கையால் பேரழிவு ஏற்படும்- அவுஸ்திரேலியா எச்சரிக்கை
+### Israel's action in Rafa will cause disaster- Australia alert
 
 *2024-02-12 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176176) · `ta`
 
-ரஃபாவில் இஸ்ரேல் இராணுவநடவடிக்கையில் ஈடுபட்டால் அங்கு தஞ்சமடைந்துள்ள மக்களிற்கு  பேரழிவு ஏற்படலாம் என அவுஸ்திரேலிய வெளிவிவகார அமைச்சர் பெனிவொங் தெரிவித்துள்ளார்.
+Australian External Affairs Minister Benivong has said that Israeli military action can cause disaster for the people who have taken refuge in Rafa.
 
-அவுஸ்திரேலியா உட்பட 153 நாடுகள் காசாவில் உடனடியுத்த மனிதாபிமான யுத்த நிறுத்தத்திற்கு அழைப்பு விடுத்துள்ளன என அவர் தெரிவித்துள்ளார்.
+He said 153 countries, including Australia, have called for an immediate humanitarian ceasefire in Gaza.
 
-இஸ்ரேல்இராணுவ நடவடிக்கையை முன்னெடுக்க திட்டமிட்டுள்ளமை  குறித்து இஸ்ரேலின் நண்பர்கள் உட்பட பல நாடுகள் கவலை வெளியிட்டுள்ளன இது குறித்து சர்வதேச அளவில் கருத்துடன்பாடு அதிகரிக்கின்றது எனவும் அவர் தெரிவித்துள்ளார்.
+He said that many countries, including Israel's friends, have expressed concern over the plans to carry out Israeli military operations internationally.
 
-இஸ்ரேல் தனது நண்பர்களை செவிமடுக்கவேண்டும் சர்வதேச சமூகத்தை செவிமடுக்கவேண்டும் எனவும் பெனிவொங் தெரிவித்துள்ளார்.
+Beniwong said Israel should listen to its friends and listen to the international community.
 
-பகுதியில் மில்லியன் கணக்கான மக்கள் தஞ்சமடைந்துள்ளனர் காசாவின் வடபகுதியில் இஸ்ரேல் மேற்கொண்ட நடவடிக்கை காரணமாக மக்கள் தென்பகுதிக்கு நகர்ந்துள்ளனர் இஸ்ரேல் இந்த மக்கள் குறித்து விசேட கவனம் செலுத்தவேண்டும் எனவும் வேண்டுகோள் விடுத்துள்ளார்.
+Millions of people have taken refuge in the area.
 
-இஸ்ரேல் அந்த மக்கள் குறித்து விசேட கவனம் செலுத்தாவிட்டால் அந்த மக்களிற்கு பேரழிவு ஏற்படலாம் எனவும் அவர் தெரிவித்துள்ளார்.
+He said that if Israel did not pay special attention to the people, the people would be disrupted.
 
 ◼️
 
 [Data](articles/1551486e.json)
 
+[Extended Data](ext_articles/1551486e.ext.json)
+
 ---
 
-### பம்பலப்பிட்டி பொலிஸ் நிலைய பரிசோதகர் மரத்தின் கீழ்  சிறுநீர் கழித்தபோது  தாக்கப்பட்டார் :  சம்பவம் தொடர்பில் விசாரணை!
+### Bambalapitiya Police Station Inspector
 
 *2024-02-12 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176177) · `ta`
 
-பம்பலப்பிட்டி பொலிஸ் பரிசோதகளுக்கான சிற்றுண்டிச்சாலையின் பிரதான வாயிலுக்கு அருகில் உள்ள மரமொன்றின் கீழ் சிறுநீர் கழித்த பொலிஸ் பரிசோதகர் ஒருவர்  கடுமையாகத் தாக்கப்பட்டமை தொடர்பில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+A complaint has been lodged with a police inspector who was urinated under a tree near the main gate of the Bambalapitiya police inspection.
 
-குறித்த பொலிஸ் பரிசோதகர்   பம்பலப்பிட்டி பொலிஸில்  இது தொடர்பில் முறைப்பாடு செய்ததுடன் சுமார் ஆறு பேர் கொண்ட குழுவொன்று வந்து தன்னை சுற்றிவளைத்து கடுமையாக தாக்கியதாகவும் அவர்  தெரிவித்துள்ளார்.
+The police inspector lodged a complaint with the Bambalapitiya Police and a group of about six people came around and attacked him.
 
-தாக்குதல் நடத்திய  குழுவில்  சிரேஷ்ட பொலிஸ் அதிகாரி ஒருவரும் இருந்ததார் எனக்  கூறப்படுகிறது.
+It is reported that the attacker was also a senior police officer.
 
-தாக்குதலுக்கு உள்ளான பொலிஸ் பரிசோதகர் தனியார் வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாகவும்  முறைப்பாட்டில் தெரிவிக்கப்பட்டுள்ளது.
+The police inspector, who was attacked, is being treated at the private hospital.
 
 ◼️
 
 [Data](articles/a9a2e333.json)
+
+[Extended Data](ext_articles/a9a2e333.ext.json)
 
 ---
 
@@ -1318,6 +1384,22 @@ He said that even the political opponents like Mahinda-Chandrika, Maithripala-Ma
 
 ---
 
+### ஆச்சரியங்கள் பல  உள்ளன;அநுர
+
+*2024-02-12 07:43:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆச்சரியங்கள்-பல-உள்ளன-அநுர/175-333053) · `ta`
+
+தேசிய மக்கள் சக்தியின் (NPP)  இந்தியப் பயணத்தால் எதிர்க்கட்சிகள் வியப்படைந்துள்ளதாகக் கூறும் NPP தலைவர் அனுரகுமார திஸாநாயக்க, எதிர்காலத்தில் மேலும் பல ஆச்சரியமான நிகழ்வுகள் வெளிவர உள்ளதாக தெரிவித்துள்ளார்.
+
+அநுராதபுரம் மாவட்ட மகளிர் மாநாட்டில் கலந்து கொண்டு உரையாற்றிய அவர், தற்போது ஒரு சகாப்தம் ஆரம்பித்துள்ளதாகவும், அங்கு மேலும் மேலும் ஆச்சர்யங்கள் ஏற்படும் என்றும் கூறினார்.
+
+"எங்கள் இந்திய விஜயம் உங்களுக்கு எப்படித் தெரியும்? ஐக்கிய மக்கள் சக்தி மூலமாகவோ, ஜனாதிபதி ரணில் மூலமாகவோ அல்லது மஹிந்த ராஜபக்ஷவின் மூலமாகவோ நீங்கள் தெரிந்துகொண்டீர்கள். நாங்கள் அமைதியாக இருந்தோம். அவர்கள் எங்கள் இந்திய பயணத்தை அறிந்து வியந்தனர். அவர்களால் மட்டுமே இந்தியாவை அவ்வாறு சமாளிக்க முடியும் என அவர்கள் நினைத்தார்கள்.  . மேலும் மேலும் இதுபோன்ற ஆச்சரியங்கள் நிகழும் ஒரு சகாப்தம் தொடங்கியுள்ளது," என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/f9a2044a.json)
+
+---
+
 ### MP suggested to apologize to MP Veerakodi
 
 *2024-02-12 07:35:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-வீரக்கொடியிடம்-மன்னிப்பு-கேட்குமாறு-பரிந்துரை/175-333052) · `ta`
@@ -1923,87 +2005,5 @@ Social market economy, or in other words ordoliberalism, is not a new ideal for 
 [Data](articles/8ad682b2.json)
 
 [Extended Data](ext_articles/8ad682b2.ext.json)
-
----
-
-### 2024-02-11 (Sunday)
-
-### We will establish a strong government with the cooperation of women - the national people's power
-
-*2024-02-11 23:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176141) · `ta`
-
-President Ranil Wickremesinghe says that the economic crisis is a solution.. Harini Amarasuriya, a member of the National People's Power, said that they would establish a strong government with the cooperation of women.
-
-The entire country today faces a reflection of the wrong policy that has been practiced politically so far. Economically people are the worst affected. But the president notes that it has recovered from the economic crisis.
-
-Family women have been badly affected by economic impact. The main problem with the mothers face is the main problem with the mothers.
-
-The president can only refer to Parliament that we have recovered from the economic impact. He cannot mention among the people.
-
-Can't expect better progress from those who have dumped the country to bankruptcy. This year will be decisive for those who have degraded the country.
-
-◼️
-
-[Data](articles/641c86c6.json)
-
-[Extended Data](ext_articles/641c86c6.ext.json)
-
----
-
-### Development Officer's Life
-
-*2024-02-11 23:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/176140) · `ta`
-
-Due to the depression of the workplace, a Cultural Development Officer who works at the Chandilipayi Divisional Secretariat made a wrong decision on Sunday (11). The deceased is Parambalam Punitha (49 years old 49 years old) from Dutch Street, Mulai, Chiripuram.
-
-He was transferred to Chandilipayi Divisional Secretariat. Therefore tried to cancel the transfer. But efforts were not worth it.
-
-In this case, he lifted his residence on Sunday (11). A sudden death investigation officer A. Jayapalasingham. The body was handed over to relatives after anatomical examination.
-
-◼️
-
-[Data](articles/ff043b16.json)
-
-[Extended Data](ext_articles/ff043b16.ext.json)
-
----
-
-### Those who have separated from the party can reunite - I,. Chairman Vajira Abeywardena
-
-*2024-02-11 23:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176139) · `ta`
-
-Until Ranil Wickremesinghe was not able to establish a president from the United National Party (UNP). But since the country is currently President Ranil Wickremesinghe, the United National Party (UNP) leader and Member of Parliament Vajira Abeywardena said that those who are split can be reunited.
-
-The United National Party (UNP) Gampaha District Federation was held at the Yakkala Pradeshiya Sabha auditorium on Sunday. He said this while addressing the gathering.
-
-Whoever separated from our party is unable to reunite with the party. Because Ranil Wickremesinghe left the party, saying that the United National Party could not form a president. When the conflict is united and united, we created a president.
-
-Ranil Wickremesinghe was elected as the country's president with a seat in Parliament. The book will also be written in the future. It may be a study book for politicians in the world to investigate how to be president with a seat.
-
-...
-
-[Data](articles/f5930875.json)
-
-[Extended Data](ext_articles/f5930875.ext.json)
-
----
-
-### More surprises to be unfolded: Anura Kumara says after India visit
-
-*2024-02-11 23:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/More-surprises-to-be-unfolded-Anura-Kumara-says-after-India-visit/155-276777) · `en`
-
-Anuradhapura, Feb. 11 (Daily Mirror)- Claiming that opposition camps have been astonished by the NPP's Indian visit, NPP leader Anura Kumara Dissanayake said today that more surprising events are to be unfolded in the near future.
-
-Speaking at the Anuradhapura District Women's Convention, he said an era had begun now, where more and more surprises would take place.
-
-"How did you know about our Indian visit? You got to know it either through the Samagi Jana Balawegaya camp, President Ranil's camp or Mahinda Rajapaksa's camp. We were silent. They have been astonished to learn about our Indian visit. They thought that only they can deal with India in that manner. An era has begun where more and more such surprises will occur," he said.
-
-Dissanayake said the opposition has also been astonished about this concept of women's convention, adding that they never thought an awakening of women would happen in this manner.
-
-...
-
-[Data](articles/1abb5baf.json)
-
-[Extended Data](ext_articles/1abb5baf.ext.json)
 
 ---

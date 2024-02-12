@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 00:33:17**
+As of **2024-02-13 00:49:50**
 
 ## Newspaper Stats
 
-*Scraped **6,578** Articles*
+*Scraped **6,583** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 90
 dbsjeyarajcom | 147
 economynextcom | 339
 islandlk | 347
-dailyftlk | 348
+dailyftlk | 353
 newsfirstlk | 363
 adalk | 557
 tamilmirrorlk | 802
@@ -26,7 +26,7 @@ dailymirrorlk | 961
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,577 (100.0%) of 6,578 articles have been extended.
+6,580 (100.0%) of 6,583 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,84 @@ A team of officials from Colombo will soon visit Jaffna and carry out other task
 [Data](articles/872a9113.json)
 
 [Extended Data](ext_articles/872a9113.ext.json)
+
+---
+
+### Electing the next President; our Hercules to clean the Augean stables
+
+*2024-02-12 23:30:38* · [`dailyftlk`](https://www.ft.lk/columns/Electing-the-next-President-our-Hercules-to-clean-the-Augean-stables/4-758403) · `en`
+
+If you vote for corrupt reasons, you will elect corrupt leaders and you will be their eternal slaves – Pic by Shehan Gunasekara
+
+We must be confident that the President we choose can be trusted with extraordinary powers in situations where the safety, or the liberty, of our country is truly in grave danger. We must also be confident that in giving such powers, which must be limited in scope and time, we do not leave room for an opportunistic leader to violate human rights and not abide by the constitution under the pretext of saving the country from imminent, inescapable, and mortal danger. Who among the candidates can we trust with extraordinary powers?
+
+...
+
+[Data](articles/3aa3d851.json)
+
+[Extended Data](ext_articles/3aa3d851.ext.json)
+
+---
+
+### Rescheduling of debt expeditiously is key to recovery
+
+*2024-02-12 23:27:27* · [`dailyftlk`](https://www.ft.lk/columns/Rescheduling-of-debt-expeditiously-is-key-to-recovery/4-758402) · `en`
+
+President Ranil Wickremesinghe said the finalisation of debt restructuring could be completed by the first half of the year, which is going beyond the earlier anticipation for it to be completed within the first quarter
+
+President Wickremesinghe said in Parliament last week that “Sri Lanka expects to implement a debt restructuring framework within the first six months of 2024, expressing confidence that the nation was recovering from its worst financial crisis in decades.” The Sri Lankan economy is clearly showing signs of recovery from the severe economic crisis, with improvements in our foreign exchange positions and current account deficits. But a significant challenge remains in managing the country’s large sovereign debt and inequities of the partial coverage of the domestic debt optimisation program. Therefore we need to show some tangible progress in the debt rescheduling.
+
+...
+
+[Data](articles/83a2785a.json)
+
+[Extended Data](ext_articles/83a2785a.ext.json)
+
+---
+
+### Sri Lanka leadership in pre and post-colonial era
+
+*2024-02-12 23:24:49* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-leadership-in-pre-and-post-colonial-era/4-758401) · `en`
+
+Following independence, Sri Lanka is still continuing as a fledgling state tasked with the tremendous burden of democracy – Pic by Shehan Gunasekara
+
+...
+
+[Data](articles/051f3f50.json)
+
+[Extended Data](ext_articles/051f3f50.ext.json)
+
+---
+
+### Vote to establish democracy instead of same political cults at next election
+
+*2024-02-12 23:22:04* · [`dailyftlk`](https://www.ft.lk/columns/Vote-to-establish-democracy-instead-of-same-political-cults-at-next-election/4-758400) · `en`
+
+Growth of new generation of leaders from Generation X, Millennials, and Generation Z
+
+Much credit should be expressed to the youth that realised the suppression of the masses and spearheaded the Aragalaya movement and made a pivotal moment for transformational changes. Although the movement may not have rightfully idealised the necessary structural changes, it did spark the crucial awareness needed for initiating reforms away from the status quo. Unfortunately, this unique opportunity was selfishly squandered by the established political class that exploited a loophole left behind by their predecessors to seize power from under the table
+
+...
+
+[Data](articles/719e4e2b.json)
+
+---
+
+### Online Safety Act (OSA): a policy perspective at a public dialogue
+
+*2024-02-12 23:17:40* · [`dailyftlk`](https://www.ft.lk/columns/Online-Safety-Act-OSA-a-policy-perspective-at-a-public-dialogue/4-758399) · `en`
+
+There was evident cause for concern that other demographics in our isle could be subject to the potential
+
+At a recent public seminar on the Online Safety Act (OSA), a policy perspective under the title ‘OSA: Why The Rush?’ was presented by the academics and students of the Bandaranaike Academy for Leadership and Public Policy (BALPP) in tandem with cyber-security experts.
+
+The public policy initiative came in the aftermath of the government’s ostensible ‘rushing through’ with this controversial piece of legislation, in the teeth of ignored criticism and concerns expressed by stakeholders in Sri Lanka’s increasingly important cyber-security domain.
+
+BALPP students following a post-graduate course in cyber-security observed that the OSA is ostensibly to protect women and children from the following:
+
+...
+
+[Data](articles/9f7f2314.json)
 
 ---
 
@@ -1947,113 +2025,5 @@ In October 2023, he was able to finish the Chicago Marathon in October 2 and 35 
 [Data](articles/6a5c2e11.json)
 
 [Extended Data](ext_articles/6a5c2e11.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-02-12 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176185) · `ta`
-
-The Central Bank of Sri Lanka (Central Bank) today (12) has reported that the US dollar sales price is Rs 317.82 and the purchase price is Rs 308.19.
-
-Similarly, the sales price of a Srealing pound is Rs 403.31 and the purchase price is Rs 387.91.
-
-The sales price of the euro is 344.94 rupees and the purchase price is Rs 331.05.
-
-Accordingly, the information released by the Central Bank of India today (12.02.2024) on other foreign currency exchange rates has been issued.
-
-◼️
-
-[Data](articles/d70713e6.json)
-
-[Extended Data](ext_articles/d70713e6.ext.json)
-
----
-
-### Will egg prices fall during festive season?
-
-*2024-02-12 14:12:11* · [`adalk`](https://www.ada.lk/breaking_news/උත්සව-සමයේ-බිත්තර-මිල-අඩුවෙයිද-/11-408031) · `si`
-
-All Ceylon Chicken and eggs, egg production, says that the eggs are supplied to the market without a shortest festive season. Mr. Mothal Jayasekara says. The various associations and racketeers have issued the media announcements and seek to feel the local egg deficit in the market.
-
-He said that some racketeers have said that some racketeers have increased their prices of the local egg in the market.
-
-According to the following, the market could issue enough egg consignments during the next festive season and that there would be no increase in the price.
-
-◼️
-
-[Data](articles/9cb89701.json)
-
-[Extended Data](ext_articles/9cb89701.ext.json)
-
----
-
-### Wickremesinghe looking to abolish Sri Lanka’s executive presidency: Sirisena
-
-*2024-02-12 14:11:00* · [`economynextcom`](https://economynext.com/wickremesinghe-looking-to-abolish-sri-lankas-executive-presidency-sirisena-150631/) · `en`
-
-ECONOMYNEXT — President Ranil Wickremesinghe has tasked a group of lawyers with looking into abolishing the executive presidency and it is unclear whether a referendum or parliamentary poll will come first, former President Maithripala Sirisena said.
-
-Speaking at an event in Wennappuwa on Sunday February 11, Sirisena said the group of lawyers is led by former Speaker of Parliament Karu Jayasuriya.
-
-“President Wickremesinghe is speedily working towards constitutional reform,” said Sirisena.
-
-“We can’t tell if a referendum or a parliamentary election  will come. This is a question that not just you and I might have. Maybe Wickremesinghe himself has it too, the question of what to do,” he said.
-
-...
-
-[Data](articles/e42bf40e.json)
-
-[Extended Data](ext_articles/e42bf40e.ext.json)
-
----
-
-### Man dies in fatal accident in Ratnapura
-
-*2024-02-12 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193285) · `si`
-
-One of the people who were hospitalized after the accident in the new city of Ratnapura yesterday (11) has died.
-
-The accident occurred at the new city of Ratnapura yesterday afternoon.
-
-The accident had occurred when the heavy rapidly driven car towards Ratnapura from Kuruwita to Ratnapura and five persons were seriously injured in motorbikes.
-
-Residents of the area were engaged in rushed to the Ratnapura hospital and was killed in the same morning.
-
-The victim was a 20-year-old youth residing in Kuruwita area.
-
-Hospital sources said that the condition of the other four persons hospitalized, hospital sources said.
-
-The driver of the accident had fled the area and then surrendered to the Ratnapura Police.
-
-He is a resident of Opanayaka Hunuala, Opanayakawa area and the suspect is due to be presented to court today.
-
-◼️
-
-[Data](articles/c5c7b41a.json)
-
-[Extended Data](ext_articles/c5c7b41a.ext.json)
-
----
-
-### To live in a constable sea
-
-*2024-02-12 14:02:40* · [`adalk`](https://www.ada.lk/breaking_news/රාජකාරියට-ගිය-කොස්තාපල්-මුහුදේ-ගිලී-ජිවිතකෂයට/11-408030) · `si`
-
-A constable was drowned in Pamunugama, including the OIC of the Grandpass police investigation unit, and was drowned in Pamunugama area.
-
-The deceased has been identified as Hettiarachchi (24) amateur police constable, a resident of Kottegoda.
-
-The Criminal Investigation Division of the Gripp Police. The OIC Inspector General of Police Nissanka has returned to Pamunugama Regionality, led by the police information book.
-
-Police said that the group arrived in Pamunugama Talmawatta town and had a liquor party.The above constable was drowning between the police team, drowned.
-
-Police said he had died when he was recovered by police officers and surrounding territories.Pamunugama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/ecc12c56.json)
-
-[Extended Data](ext_articles/ecc12c56.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 11:02:39**
+As of **2024-02-12 11:17:24**
 
 ## Newspaper Stats
 
-*Scraped **6,408** Articles*
+*Scraped **6,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 344
 dailyftlk | 348
 newsfirstlk | 363
 adalk | 535
-tamilmirrorlk | 780
-adaderanalk | 787
+tamilmirrorlk | 781
+adaderanalk | 788
 virakesarilk | 797
 adaderanasinhalalk | 886
 dailymirrorlk | 933
@@ -26,11 +26,45 @@ dailymirrorlk | 933
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,408 (100.0%) of 6,408 articles have been extended.
+6,408 (100.0%) of 6,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### “We are glad that PM Modi has brought back old glory” - Namal on Ram Temple
+
+*2024-02-12 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97194/we-are-glad-that-pm-modi-has-brought-back-old-glory-namal-on-ram-temple) · `en`
+
+Sri Lankan MP Namal Rajapaksa appreciated Prime Minister Narendra Modi for the construction of the Ram Temple and said that it was a great experience to visit the historic place.
+
+He visited the Ayodhya Ram Temple on Friday and said that he felt honoured and blessed to visit the shrine.
+
+Speaking to ANI, Rajapaksa said, “It’s a great feeling to get blessings from Lord Ram in Ayodhya. And I think it’s beautifully done and we are glad that Prime Minister Modi and the Government of India have brought back the old glory and redone the history.”
+
+He said that everyone should visit the Ram Temple not just to seek blessings but also to witness the architectural marvel.
+
+...
+
+[Data](articles/f1dc81d2.json)
+
+---
+
+### ஒன்லைன் பாதுகாப்பு சட்டம் அமைச்சரவையில் சமர்ப்பிப்பு
+
+*2024-02-12 10:28:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-பாதுகாப்பு-சட்டம்-அமைச்சரவையில்-சமர்ப்பிப்பு/175-333056) · `ta`
+
+சமீபத்தில் அறிமுகப்படுத்தப்பட்ட ஒன்லைன் பாதுகாப்பு சட்டத்தில் புதிய திருத்தங்கள் இன்றைய தினம் (12) அமைச்சரவையின் ஒப்புதலுக்காக சமர்ப்பிக்கப்படும் என தெரிவிக்கப்பட்டுள்ளது.
+
+அதற்கமைய, கூகுள், யாகூ, அமேசான் மற்றும் மெட்டா போன்ற தொழில்நுட்ப நிறுவனங்கள் மற்றும் சர்வதேச சமூகத்தின் அழுத்தத்தைத் தொடர்ந்து, சட்டம் நடைமுறைக்கு வந்தவுடன் உடனடியாக திருத்தம் செய்ய அரசாங்கம் அவசரமாக நடவடிக்கை எடுத்தது.
+
+தொழில்நுட்ப நிறுவனங்கள், சட்டம் திருத்தப்படாவிட்டால், நாட்டின் டிஜிட்டல் பொருளாதாரத்தை பாதிக்கும் என்று வாதிடப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/67ba99ec.json)
+
+---
 
 ### Another suspects are boxing justice
 
@@ -2081,57 +2115,5 @@ Consequently, the Bribery Commission has seized seven vehicles from the current 
 [Data](articles/f6998f28.json)
 
 [Extended Data](ext_articles/f6998f28.ext.json)
-
----
-
-### People in Jaffna apologize to Hariharan
-
-*2024-02-11 16:49:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரிஹரனிடம்-மன்னிப்பு-கோரும்-யாழ்ப்பாணத்து-மக்கள்/175-333027) · `ta`
-
-Hariharan posted his comments on Twitter on the concert in Sri Lanka.
-
-The Star Knight Exchange ceremony was held on behalf of the singer Hariharan yesterday at the courtyard in Jaffna, Jaffna yesterday.
-
-Actress Rampa was present at the ceremony and actress Tamanna, Kala Master and a few iconic celebrities were the guest of honor.
-
-It is said that the VIPs were allocated seats at the ceremony and the audience was given free permission. Fans have come to this festival because the entry is free.
-
-Then the audience is trying to go to the place allotted for the VIP. The police tried to control them and the fans and the police were pushing.
-
-Some of the pusheds had even had shortness of breath. They have been sent to the hospital for treatment.
-
-At one point, the police were unable to control the crowd and were unable to host the events and celebrities and celebrities who were special guests.
-
-...
-
-[Data](articles/ac1ee662.json)
-
-[Extended Data](ext_articles/ac1ee662.ext.json)
-
----
-
-### Jaffna apologizes to Hariharan. People
-
-*2024-02-11 16:49:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரிஹரனிடம்-மன்னிப்பு-கோரும்-யாழ்-மக்கள்/175-333027) · `ta`
-
-Hariharan posted his comments on Twitter on the concert in Sri Lanka.
-
-The Star Knight Exchange ceremony was held on behalf of the singer Hariharan yesterday at the courtyard in Jaffna, Jaffna yesterday.
-
-Actress Rampa was present at the ceremony and actress Tamanna, Kala Master and a few iconic celebrities were the guest of honor.
-
-It is said that the VIPs were allocated seats at the ceremony and the audience was given free permission. Fans have come to this festival because the entry is free.
-
-Then the audience is trying to go to the place allotted for the VIP. The police tried to control them and the fans and the police were pushing.
-
-Some of the pusheds had even had shortness of breath. They have been sent to the hospital for treatment.
-
-At one point, the police were unable to control the crowd and were unable to host the events and celebrities and celebrities who were special guests.
-
-...
-
-[Data](articles/b9ac450f.json)
-
-[Extended Data](ext_articles/b9ac450f.ext.json)
 
 ---

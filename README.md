@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 18:33:00**
+As of **2024-02-12 18:51:44**
 
 ## Newspaper Stats
 
-*Scraped **6,513** Articles*
+*Scraped **6,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 548
 tamilmirrorlk | 793
 adaderanalk | 799
 virakesarilk | 815
-adaderanasinhalalk | 908
+adaderanasinhalalk | 909
 dailymirrorlk | 954
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,511 (100.0%) of 6,513 articles have been extended.
+6,513 (100.0%) of 6,514 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,6 +58,26 @@ SriLankan Airlines Statement on Flight UL 605 by Adaderana Online on Scribd
 
 [Data](articles/c149a1df.json)
 
+[Extended Data](ext_articles/c149a1df.ext.json)
+
+---
+
+### ශ්‍රීලන්කන් ගුවන් යානයක් හදිසියේ මෙල්බර්න් වෙත ගොඩබස්වයි
+
+*2024-02-12 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193297) · `si`
+
+ශ්‍රීලන්කන් ගුවන් සේවයට අයත් යානයක් හදිසියේම මෙල්බර්න් ගුවන්තොටුපොළ වෙත ගොඩබස්වා තිබේ.
+
+ශ්‍රීලන්කන් ගුවන් සේවය නිවේදනයක් නිකුත් කරමින් පවසන්නේ තාක්ෂණික දෝෂයක් හේතුවෙන් එම යානය මෙලෙස ගොඩබස්වා ඇති බවය.
+
+සියලු මගීන් සුරක්ෂිතව ඉන් පිටතට පැමිණ ඇති බවත් තාක්ෂණික කණ්ඩායමක් යානය පරීක්ෂාවට ලක්කරමින් සිටින බවත් ශ්‍රීලන්කන් ගුවන් සේවය වැඩිදුරටත් පවසයි.
+
+ගුවන් යානය නැවත පිටත්වනතුරු මගීන්ට අවශ්‍ය හෝටල් නවාතැන් පහසුකම් සැපයීමට පියවර ගෙන ඇති බව ද ශ්‍රී ලන්කන් ගුවන් සේවය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/79da3de2.json)
+
 ---
 
 ### Police officer killed in shooting during arrest attempt posthumously promoted
@@ -75,6 +95,8 @@ The firearm had then discharged injuring the 51-year-old police officer, while t
 ...
 
 [Data](articles/3ca78ba5.json)
+
+[Extended Data](ext_articles/3ca78ba5.ext.json)
 
 ---
 
@@ -1977,25 +1999,5 @@ The woman who was injured in the shooting has been admitted to the Homagama Hosp
 [Data](articles/06c89a9d.json)
 
 [Extended Data](ext_articles/06c89a9d.ext.json)
-
----
-
-### Sri Lanka cannot depend on other nations forever: Ruwan
-
-*2024-02-12 09:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-cannot-depend-on-other-nations-forever-Ruwan/108-276805) · `en`
-
-Sri Lanka cannot depend on other countries every day and it is high time the nation stands up on its own with pride, UNP Deputy Leader Ruwan Wijewardene said over the weekend.
-
-“Sri Lanka cannot borrow from other nations everyday and follow their instructions. It is hightime the nation stood up by itself. President Wickremesinghe and the government is striving to see that Sri Lanka achieves this status,” Wijewardene told the UNP Gampaha District convention.
-
-The time has come for the people of Sri Lanka to make the right decision on behalf of their nation,” he said.
-
-“This is an election year.we may have to face a presidential election in October, it will be followed by the general election while provincial council elections will also beheld.
-
-...
-
-[Data](articles/7fa8527c.json)
-
-[Extended Data](ext_articles/7fa8527c.ext.json)
 
 ---

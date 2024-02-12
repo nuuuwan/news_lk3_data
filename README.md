@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 00:02:41**
+As of **2024-02-13 00:17:22**
 
 ## Newspaper Stats
 
-*Scraped **6,572** Articles*
+*Scraped **6,577** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 363
 adalk | 557
 tamilmirrorlk | 801
 adaderanalk | 803
-virakesarilk | 819
+virakesarilk | 824
 adaderanasinhalalk | 917
 dailymirrorlk | 961
 
@@ -26,11 +26,45 @@ dailymirrorlk | 961
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,572 (100.0%) of 6,572 articles have been extended.
+6,572 (99.9%) of 6,577 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### பலாலி கிழக்கில் சில காணிகளை விடுவிக்க முனைப்பு -  சிவபாலசுந்தரன்
+
+*2024-02-12 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176233) · `ta`
+
+யாழ்ப்பாணம் பலாலி கிழக்குப் பகுதியில் உயர் பாதுகாப்பு வலயமாகக் காணப்படும் காணிகளில் சில காணிகளை விடுவிக்க நடவடிக்கை முன்னெடுக்கப்பட்டு வருவதாக யாழ். மாவட்ட செயலர் அ.சிவபாலசுந்தரன் தெரிவித்துள்ளார்.
+
+பலாலி கிழக்கில் ஒரு தொகுதி காணியை விடுவிக்க ஜனாதிபதி உத்தரவிட்டுள்ளார். அதன் அடிப்படையில் , தற்போது சம்பந்தப்பட்ட தரப்புக்களுடன் கடித பரிமாற்றங்கள் முன்னெடுக்கப்பட்டு வருகின்றன.
+
+விரைவில் கொழும்பிலிருந்து அதிகாரிகள் குழுவொன்று யாழ்ப்பாணம் வருகை தந்து , காணி விடுவிப்புக்கான அளவீட்டுப் பணிகள் உள்ளிட்ட இதர பணிகளை முன்னெடுக்கும்.
+
+◼️
+
+[Data](articles/872a9113.json)
+
+---
+
+### கையடக்கத் தொலைபேசியை பயன்படுத்துபவர்களுக்கான எச்சரிக்கை !
+
+*2024-02-12 22:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176231) · `ta`
+
+கையடக்கத் தொலைபேசிகளைப் பயன்படுத்தும் ஒவ்வொருவரும்  தமது சிம் அட்டையை முறையாகப் பதிவு செய்ய வேண்டும் என இலங்கை தொலைத்தொடர்பு ஒழுங்குபடுத்தும் ஆணைக்குழு அறிவித்துள்ளது.
+
+இலங்கை தொலைத்தொடர்பு ஒழுங்குபடுத்தும் ஆணைக்குழுவின் பணிப்பாளர் மேனகா பத்திரண இது குறித்து ஊடகங்களுக்கு மேலும் தெரிவிக்கையில்,
+
+தற்போது நீங்கள் பயன்படுத்தாத கையடக்கத் தொலைபேசிகளிலும் உங்கள் பெயரில் சிம் அட்டை பதிவு செய்யப்பட்டுள்ளதா என்பதைச் சரிபார்க்க சிம் அட்டையின் நிறுவன முகவர்களுடன் தொடர்பு கொண்டு சரிபாருங்கள்.
+
+உங்கள் தேசிய அடையாள அட்டை எண்ணின் கீழ் உங்களுக்குத் தெரியாமல் சிம் அட்டைகள் வழங்கப்பட்டிருந்தால், அவற்றின் இணைப்பைத் துண்டிப்பது மிகவும் முக்கியம் என இலங்கை தொலைத்தொடர்பு ஒழுங்குபடுத்தும் ஆணைக்குழுவின் பணிப்பாளர் மேலும் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/6340a3df.json)
+
+---
 
 ### Story you don't know about the UPI of the country
 
@@ -216,6 +250,46 @@ This news is the context of reports that the Bangladesh team will lead the Bangl
 
 ---
 
+### 19 வயதின் கீழ் உலகக் கிண்ணப் போட்டியில்; இனங்காணப்பட்ட எதிர்கால நட்சத்திரங்கள் (பகுதி 2 - துடுப்பாட்ட வீரர்கள்)
+
+*2024-02-12 22:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176230) · `ta`
+
+தென் ஆபிரிக்காவில் நடைபெற்றுவந்த ஐசிசி ஆடவர் 19 வயதுக்குட்பட்ட உலகக் கிண்ண கிரிக்கெட் போட்டியில் துடுப்பாட்டத்தில் பல வீரர்கள் சதங்கள் குவித்து அசத்தியிருந்தனர்.
+
+இறுதிப் போட்டியில் விளையாடிய அவுஸ்திரேலியா, இந்தியா ஆகிய அணிகளைச் சேர்ந்த ஐவரே இந்த மைல்கல்லை எட்டினர். அவரக்ளில் மூவர் இந்தியர்கள், மற்றைய இருவரும் அவுஸ்திரேலியார்கள்.
+
+இந்திய அணித் தலைவர் உதய் சஹாரன் இம்முறை 7 போட்டிகளில் மொத்தமாக 397 ஓட்டங்களைப் பெற்று முன்னணியில் உள்ளார். அவர் ஒரு சதம் உட்பட 3 அரைச் சதங்களைக் குவித்து அதி சிறந்த ஆற்றலை வெளிப்படுத்தியிருந்தார். அணியையும் சிறப்பாக வழிநடத்தியிருந்தார்.
+
+இந்தியாவின் மற்றொரு சிறந்த துடுப்பாட்டக்காரரான முஷீர் கான் 360 ஓட்டங்களை மொத்தமாக பெற்றார். அவர் ஒருவரே இந்த உலகக் கிண்ணப் போட்டியில் 2 சதங்களைக் குவித்தவர் ஆவார். அத்துடன் ஒரு அரைச் சதத்தையும் அவர் பெற்றார். பந்துவீச்சிலும் 7 விக்கெட்களை வீழ்த்தி சகல துறை ஆட்டத்திறனை வெளிப்படுத்தியிருந்தார்.
+
+...
+
+[Data](articles/b868649d.json)
+
+---
+
+### 19வயதின் கீழ் உலகக் கிண்ண போட்டியில் ; இனங்காணப்பட்ட எதிர்கால நட்சத்திரங்கள் (பகுதி 1 - பந்துவீச்சாளர்கள்)
+
+*2024-02-12 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/176229) · `ta`
+
+சர்வதேச கிரிக்கெட் அரங்கில் எதிர்கால நட்சத்திரங்களுக்கான ஒரு பரீட்சைக் களமாக அமைந்த 19 வயதுக்குட்பட்ட உலகக் கிண்ண கிரிக்கெட் போட்டியில் சில வீரர்களின் ஆற்றல்கள் பிரமிக்கத்தக்க வகையில் அமைந்திருந்தது.
+
+பந்துவீசசில் 6 வீரர்களும் துடுப்பாட்டத்தில் 5 வீரர்களும் தமது திறமைகளை வெளிப்படுத்தி பாராட்டுதல்களைப் பெற்றனர்.
+
+அவர்களில் தென் ஆபிரிக்காவின் இடதுகை வேகப்பந்துவீச்சாளர் க்வேனா மஃபாக்கா மற்றெல்லா வீரர்களையும் விட உயர்ந்து நின்றார்.
+
+இந்த வருடத்தில் 6 போட்டிகளில் விளையாடிய க்வேனா மஃபாக்கா, மூன்று 5 விக்கெட் குவியல்கள் அடங்கலாக 21 விக்கெட்களைக் கைப்பற்றி 15ஆவது 19 வயதுக்குட்பட்ட  உலகக் கிண்ண  அத்தியாயத்தில் சுற்றுப் போட்டி நாயகன் விருதை வென்றெடுத்தார்.
+
+19 வயதுக்குட்பட்ட உலகக் கிண்ண கிரிக்கெட் வரலாற்றில்  2014ஆம் ஆண்டு நடைபெற்ற உலகக் கிண்ணப் போட்டியில் அதிகூடிய 22 விக்கெட்களை வீழ்த்தியவர் பங்களாதேஷின் எனாமுல் ஹக் ஜூனியர் ஆவார்.
+
+எவ்வாறாயினும் மூன்று 5 விக்கெட் குவியல்களைப் பதிவுசெய்த  முதலாவது வீரர் என்ற சாதனைக்கு 17 வயதான மஃபாக்கா சொந்தக்காரரானார்.
+
+...
+
+[Data](articles/406d9169.json)
+
+---
+
 ### India’s NCGG holds capacity building programme for senior civil servants of Sri Lanka
 
 *2024-02-12 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97207/indias-ncgg-holds-capacity-building-programme-for-senior-civil-servants-of-sri-lanka) · `en`
@@ -261,6 +335,24 @@ The robbers shooting a shot and the taximan was slightly injured.
 [Data](articles/d98cc8ad.json)
 
 [Extended Data](ext_articles/d98cc8ad.ext.json)
+
+---
+
+### கால்பந்து போட்டியில் மின்னல் தாக்கி வீரர் உயிரிழப்பு !
+
+*2024-02-12 21:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176228) · `ta`
+
+கால்பந்து போட்டியின் போது மின்னல் தாக்கியதில் வீரர் ஒருவர் உயிரிழந்துள்ள பரிதாப சம்பவம் இந்தோனேசியாவில் இடம்பெற்றுள்ளது.
+
+இந்தோனேசியாவில் உள்ள மேற்கு ஜாவாவின் பாண்டுங்கில் உள்ள சிலிவாங்கி மைதானத்திலேயே இந்த துயரச் சம்பவம் பதிவாகியுள்ளது.
+
+கால்பந்துபோட்டி இடம்பெற்றுக்கொண்டிருந்த போது மைதானத்தில் நின்ற 35 வயதான வீரர் மேல் மின்னல் தாக்கியுள்ள நிலையில் குறித்த வீரர் மைதானத்திற்குள் விழுந்ததையடுத்து வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்துள்ளார்.
+
+இந்தோனேசியாவில் கடந்த 12 மாதங்களில் மின்னல் தாக்கி உயிரிழந்த இரண்டாவது வீரர் இவர் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/00a94590.json)
 
 ---
 
@@ -1951,113 +2043,5 @@ At the same time, the father, who was blindfolded, attacked his son with a knife
 [Data](articles/5bd9d90f.json)
 
 [Extended Data](ext_articles/5bd9d90f.ext.json)
-
----
-
-### Spice fleet to build a network of spice
-
-*2024-02-12 13:56:50* · [`adalk`](https://www.ada.lk/breaking_news/කුළුබඩු-කර්මාන්තකරුවන්ගේ-ජාලයක්-ගොඩ-නැගීමට-යයි/11-408029) · `si`
-
-The Department of Export Agriculture has taken steps to register one-spicy collectors and spice processors across the country.
-
-The objective of this program is to build a spice industry supply network and the services provided by the Department of Export Agriculture to the Department of Export Industries.
-
-The spice industrialists may register with peppers, coffee, cocoa, cloves, cloves, izar, vanilla, seed, yellow, yellow, ginger.
-
-Accordingly, Minor, Medium and Large Spice Industries Registration of Export Agriculture from February 29 Export Agriculture, Director General of the Department of Export Agriculture, APDhena said.
-
-◼️
-
-[Data](articles/c1b94c05.json)
-
-[Extended Data](ext_articles/c1b94c05.ext.json)
-
----
-
-### UPI: What are the things you need to know about the new payment system?
-
-*2024-02-12 13:56:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv28ne0p8g4o) · `si`
-
-Sri Lanka, India and Mauritius are introduced to the UPI, or Method (Joint Payment Interface).
-
-It will facilitate the Sri Lankan Indian tourists to make payments through the QR code in their deals.
-
-President Ranil Wickremesinghe, Indian Prime Minister Narendra Modi, Prime Minister of Mauritius and Indian Foreign Minister Dr. S. S. The Jeeilor's online system, these payments were joined the opening of this payment method.
-
-Can Sri Lanka provide the necessary facilities to tourists over one million?
-
-The system was introduced to pay the QR code for Indian tourists arriving in Sri Lanka.
-
-The new payment system is known as the UPI, or Joint Payment Interface.
-
-NPCI International Payments Limited and Sri Lanka's LankaPay (Pvt) Ltd introduced this payment methodology.
-
-The UPI is introduced for the Indian national and business community.
-
-The Indian nationals will be able to easily deals in Sri Lanka without any problem.
-
-...
-
-[Data](articles/ec2b72f4.json)
-
-[Extended Data](ext_articles/ec2b72f4.ext.json)
-
----
-
-### Sergeant killed in shooting
-
-*2024-02-12 13:50:38* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-වැදුණ-සැරයන්-ජීවිතක්ෂයට/11-408028) · `si`
-
-Sriyarantha Ratnaweera has been injured and admitted to the Colombo National Hospital with heavy injuries when he was inspected at the Malwathuhipitiya.
-
-Researcher, a resident of the Mandawala area, is a father father and is 51 years old.
-
-While engaging at night patrol, it was shot from the sergeant's revolnariya during the struggle that a suspect had been arrested.
-
-Steps were arrested by the STF and was arrested by the Special Task Force to be produced before the Headquarters in Gampaha yesterday.
-
-The body of the sergeant was to be brought to the house in the Tamber yesterday on Wednesday, with the funeral at 3 pm on Wednesday.
-
-◼️
-
-[Data](articles/e67a4711.json)
-
-[Extended Data](ext_articles/e67a4711.ext.json)
-
----
-
-### Unified Payment Interface launched in Sri Lanka
-
-*2024-02-12 13:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Unified-Payment-Interface-launched-in-Sri-Lanka/155-276839) · `en`
-
-The Unified Payment Interface (UPI) service was launched in Sri Lanka today.
-
-Indian Prime Minister Narendra Modi and Sri Lanka President Ranil Wickremesinghe witnessed the launch via video conference.
-
-India has emerged as a leader in Fintech innovation and Digital Public Infrastructure.
-
-◼️
-
-[Data](articles/089f37b5.json)
-
-[Extended Data](ext_articles/089f37b5.ext.json)
-
----
-
-### Israeli hostages rescue
-
-*2024-02-12 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193284) · `si`
-
-Israel says that two hostilities were abducted and hidden by Hamas was abducted and hidden by Hamas.
-
-It was reported that the two men are in good health.
-
-Israeli fighters have been severely attacked in the South Gaza, and a large number of Palestinians have died.
-
-◼️
-
-[Data](articles/74d0a59e.json)
-
-[Extended Data](ext_articles/74d0a59e.ext.json)
 
 ---

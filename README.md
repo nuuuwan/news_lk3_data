@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 10:17:23**
+As of **2024-02-12 10:50:39**
 
 ## Newspaper Stats
 
-*Scraped **6,404** Articles*
+*Scraped **6,408** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,117 +18,211 @@ newsfirstlk | 363
 adalk | 535
 tamilmirrorlk | 780
 adaderanalk | 787
-virakesarilk | 796
-adaderanasinhalalk | 885
-dailymirrorlk | 931
+virakesarilk | 797
+adaderanasinhalalk | 886
+dailymirrorlk | 933
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,398 (99.9%) of 6,404 articles have been extended.
+6,408 (100.0%) of 6,408 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### பன்னிபிட்டியவில் தொழிற்சாலை ஒன்றில் தீ விபத்து
+### Another suspects are boxing justice
 
-*2024-02-12 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176152) · `ta`
+*2024-02-12 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193274) · `si`
 
-பன்னிபிட்டிய, மஹல்வராவ பகுதியில் ஊதுபத்தி குச்சிகள் தயாரிக்கும் தொழிற்சாலையில் தீ விபத்து சம்பவம் ஒன்று இன்று திங்கட்கிழமை (12) இடம்பெற்றுள்ளது.
+625 suspects have been arrested by 625 suspects in the last 24 hours under justice operations.
 
-◼️
+The police said that 80 suspects were in the list of drug misbehavior and the list of criminal divisions.
 
-[Data](articles/d112a588.json)
+The police have seized 160 grams of heroin, 152 grams of heroin in the possession of the suspects.
 
----
-
-### එක්සත් අරාබි එමීර් රාජ්‍යයේ සේවකයින්ට හදිසි දැනුම්දීමක්
-
-*2024-02-12 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193273) · `si`
-
-අහිතකර කාලගුණික වෙනස්වීම් හේතුවෙන් අද (12 ) දිනයේ සිට එක්සත් අරාබි එමීර් රාජ්‍යයේ පෞද්ගලික අංශයේ සේවකයින්ට නිවසේ සිට රාජකාරි සිදුකිරීමට අවසර ලබා දෙන ලෙසට එම සමාගම්වලින් ඉල්ලීම් කර තිබේ.
-
-එක්සත් අරාබි එමීර් රාජ්‍යය නිවේදනයක් නිකුත් කරමින් පවසා ඇත්තේ, රැකියා ස්ථානයේ භෞතිකව සිටීම අවශ්‍ය තනතුරු හැර අනෙකුත් සියලුම රජයේ සේවකයින් සඳහා නිවසේ සිට රජකාරී සිදුකිරීමට අවසර ලබා දී ඇති බවය.
-
-එරට කාලගුණ දෙපාර්තමේන්තුව සිදුකළ අනතුරු ඇඟවීම් අනුව මෙම ක්‍රියාමාර්ග අරගෙන ඇති බව සඳහන් වේ.
-
-එළිමහනේ වැඩකටයුතු සිදුකිරීමට අවශ්‍ය නම් වෘත්තීයයන් සිදුකරන පිරිසට සෞඛ්‍ය ආරක්‍ෂිත පිළි‍වෙත්වලට අනුකූල සේවකයන් යෙදවීමට සමාගම් විසින් අවශ්‍ය ක්‍රියාමාර්ග ගත යුතු බවට එරට රජය විසින් නිවේදය කර ඇත.
-
-එක්සත් අරාබි එමීර් රාජ්‍යයේ අබුඩාබි, ඩුබායි, සාජා, ෆුජයිරා, අජ්මාන් සහ රාස් අල් කයිමා යන ප්‍රදේශවලට ඊයේ  (11) තද සුළං, අකුණු සහ ගිගුරුම් සහිත වැසි වාර්තා වී තිබේ.
-
-මේ හේතුවෙන් පාසල් සිසුන්ට ‍මෙන්ම විශ්වවිද්‍යාල සිසුන්ට ද නිවසේ සිට අධ්‍යනය කටයුතු සිදුකිරීමට උපදෙස් ලබා දී ඇත.
+The police said that there are three open warrants in the list of drugs and non-drug errors in the list of the criminal sections.
 
 ◼️
 
-[Data](articles/2a4cbf39.json)
+[Data](articles/8bc9d2e1.json)
+
+[Extended Data](ext_articles/8bc9d2e1.ext.json)
 
 ---
 
-### බිත්තරයක මිල අද සිට ඉහළට
+### The government does not consult with PA MPs on the Edka Agreement with India
 
-*2024-02-12 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193272) · `si`
+*2024-02-12 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176158) · `ta`
 
-බිත්තරයක මිල අද (12) සිට ඉහළ නැංවීමට සමස්ත ලංකා බිත්තර වෙළෙඳ සංගමය තීරණය කර තිබේ.
+Parliamentarian Sarathweerasekera has accused the government of not consulting with Sri Lanka Public MPs on the Edka deal with India.
 
-බිත්තර බෙදාහැරීමේ වියදම් සහ එම වෙළෙඳාමට බලපාන වියදම් රැසක ඉහළ යාම හේතුවෙන් මෙම තීරණය ගත් බව එම සංගමයේ ලේකම් බුද්ධික වීරසේන මහතා සඳහන් කළේය.
+Sarathweerasekera has opposed the government's decision to finalize the technical talks on the proposed Economic Technology Agreement with India by the end of March.
 
-ඒ අනුව අද සිට බිත්තරයක තොග මිල රුපියල් 58ක් වන අතර සිල්ලර මිල රුපියල් 63ක් දක්වා විහිඳ යා හැකි බව එම සංගමය පැවසීය.
+He said that the government did not investigate the matter with the government's parliamentary committee and said that the decision could not be taken without proper consultation.
 
-◼️
+The President should not use the political and social circumstances in the country of Sarath Veerasekara, who has appealed for the ruling Sri Lanka PA to express its position on the Ekda Agreement without delay.
 
-[Data](articles/dbe83ee0.json)
+Following the demonstrations in Sri Lanka, the two countries held talks on the Ekda Agreement in 2018 and that talks began between the Modi government and the goodwill government in 2016.
+
+...
+
+[Data](articles/4f53a765.json)
+
+[Extended Data](ext_articles/4f53a765.ext.json)
 
 ---
 
-### மீகொடை பொருளாதார மத்திய நிலையத்தில் பெண் ஒருவர் மீது துப்பாக்கிச் சூடு
+### Surge in shootings amidst intensified crackdown on crime
 
-*2024-02-12 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176151) · `ta`
+*2024-02-12 09:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Surge-in-shootings-amidst-intensified-crackdown-on-crime/108-276828) · `en`
 
-மீகொடை பொருளாதார மத்திய நிலையத்தின் கடையொன்றில் கொள்ளையிட வந்தவர்கள் நேற்று ஞாயிற்றுக்கிழமை  (11) இரவு பெண் ஒருவர் மீது துப்பாக்கி சூட்டை மேற்கொண்டுள்ளனர்.
+Colombo, Feb 12 (Daily Mirror) - Amidst an intensified crackdown on crime and narcotics, Sri Lanka is witnessing a surge in shootings again despite a decrease in the first month of the launch of the 'Yukthiya' operation.
 
-பொருளாதார மையத்தில் உள்ள கடையொன்றின் பெண் காசாளர் மீதே இனம்தெரியாாத இருவர் துப்பாக்கிச் சூட்டை நடத்தியுள்ளனர்.
+As the "Yukthiya" operation against organized crime gains momentum, concerns have mounted regarding the recent shooting incidents.
 
-துப்பாக்கிச் சூட்டில் காயமடைந்த பெண் ஹோமாகம வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளதாக மீகொடை பொலிஸார் தெரிவித்தனர்.
+According to police reports, gun-related violence has surged recently, causing panic and chaos. According to Police Spokesman DIG Nihal Thalduwa, there have been at least 12 fatalities resulting from shootings between January and February 10 this year. Several others were injured in those shootings, while two shootings were reported without injuries during the period.
+
+The Sri Lanka Police and Public Security Ministry launched the "Yukthiya" operation in December 2023 to crack down on criminal and drug-related incidents.
+
+...
+
+[Data](articles/fe145f6f.json)
+
+[Extended Data](ext_articles/fe145f6f.ext.json)
+
+---
+
+### A woman fired at a woman
+
+*2024-02-12 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/176151) · `ta`
+
+Those who robbed a shop at the Meegoda Economic Center were firing on a woman on Sunday night (11).
+
+Two racist people have opened fire on a female cashier of a shop in the economic center.
+
+The woman who was injured in the shooting has been admitted to the Homagama Hospital for treatment, Meegoda police said.
 
 ◼️
 
 [Data](articles/06c89a9d.json)
 
+[Extended Data](ext_articles/06c89a9d.ext.json)
+
 ---
 
-### අලුත් ප්‍රවණතාවයක් ගැන පොලීසියෙන් අනතුරු ඇඟවීමක්
+### Sri Lanka cannot depend on other nations forever: Ruwan
+
+*2024-02-12 09:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-cannot-depend-on-other-nations-forever-Ruwan/108-276805) · `en`
+
+Sri Lanka cannot depend on other countries every day and it is high time the nation stands up on its own with pride, UNP Deputy Leader Ruwan Wijewardene said over the weekend.
+
+“Sri Lanka cannot borrow from other nations everyday and follow their instructions. It is hightime the nation stood up by itself. President Wickremesinghe and the government is striving to see that Sri Lanka achieves this status,” Wijewardene told the UNP Gampaha District convention.
+
+The time has come for the people of Sri Lanka to make the right decision on behalf of their nation,” he said.
+
+“This is an election year.we may have to face a presidential election in October, it will be followed by the general election while provincial council elections will also beheld.
+
+...
+
+[Data](articles/7fa8527c.json)
+
+[Extended Data](ext_articles/7fa8527c.ext.json)
+
+---
+
+### Fire at a factory in Pannipitiya
+
+*2024-02-12 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176152) · `ta`
+
+A fire incident took place on Monday (12) at the Factory manufacturing factory in Mahalwarawa, Pannipitiya.
+
+◼️
+
+[Data](articles/d112a588.json)
+
+[Extended Data](ext_articles/d112a588.ext.json)
+
+---
+
+### Emergency notice to Employees of the United Arab Emirates
+
+*2024-02-12 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193273) · `si`
+
+The applications of the United Arab Emirates have been given permission to donate permission from the United Arab Emirates to the private sector employees of the United Arab Emirates today due to adverse weather changes.
+
+The United Arab Emirates have issued a statement that all public servants have been given permission to go to the house to govern their governance for all public servants.
+
+These measures have been taken in accordance with the warnings conducted by the country's meteorological department.
+
+The government's government has done so that companies should take necessary action to use the professionals to use the professionals to carry out the professional workers.
+
+Fair winds, Lightning and Thundershowers will occur at the UAE, Abu Dhay, Dubai, Shajjaya, Ajjandira, Ajjandira and Ras Al Cahime.
+
+As a result, school children and university students have been instructed to study from home.
+
+◼️
+
+[Data](articles/2a4cbf39.json)
+
+[Extended Data](ext_articles/2a4cbf39.ext.json)
+
+---
+
+### The price of an egg is up from today
+
+*2024-02-12 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193272) · `si`
+
+The All Ceylon Egg Commerce Association has decided to increase the price of an egg today (12).
+
+The decision was taken due to the increase in egg distribution costs and the increase in the cost of the trade.
+
+Accordingly, the stock prices of an egg will be Rs. 58 and the retail price can be joined up to Rs.
+
+◼️
+
+[Data](articles/dbe83ee0.json)
+
+[Extended Data](ext_articles/dbe83ee0.ext.json)
+
+---
+
+### Police alerting a new trend
 
 *2024-02-12 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193271) · `si`
 
-විෂ මත්ද්‍රව්‍ය සමාජයේ හිඟවීම හේතුවෙන් පුද්ගලයින් මත් පෙති භාවිතයට යොමු වීමේ වැඩි ප්‍රවණතාවක් පවතින බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දුව මහතා පවසයි.
+Police Media Spokesperson DIG's Pressing Lawyra says that the shortage of poisonous drug society is increasing to use the persons to use people.
 
-පොලීසිය විසින් සිදුකළ මුලික විමර්ශනවලදී මේ සම්බන්ධයෙන් තොරතුරු වාර්තා වී ඇති බව ඔහු සඳහන් කළේය.
+He said that the basic investigations carried out by the police had reported.
 
-මේ සම්බන්ධයෙන් වැඩිදුරටත් කරුණු පැහැදිලි කරන පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දුව මහතා,
+Police Media Spokesperson DIG Rock Spokesperson DIG's lawyer said:
 
-"පසුගිය දිනවල මත්පෙති 363,438ක් අපි පොලිස් භාරයට ගත්තා පසුගිය කාලසීමාව තුළ. විෂ මත්ද්‍රව්‍ය ජාවාරමේ යෙදෙන පුද්ගලයින් අත්අඩංගුවට ගන්නවා හා සමානව ඊට කලින් මත්ද්‍රව්‍ය ජාවාරම්වල යෙදිලා යම් යම් අධිකරණවල නඩු පවරලා, නීතිය ක්‍රියාත්මක වෙමින් පවතින සැකකරුවෙන් අධිකරණයේ පෙනී නොසිටීම නිසා වරෙන්තු නිකුත් කරලා තියෙනවා. ඔවුන්වත් අත්අඩංගුවට ගැනීමට කටයුතු කරනවා මේ මෙහෙයුම හරහා."
+"We have taken 363,438 drugs in the last days. Early drug dealers were arrested, as arrests of drug trafficking, and filed a warrant by the laws of law, whether law enforcement suspect is not elected in court.. Through this mission is being arrested. "
 
 ◼️
 
 [Data](articles/bc501bd5.json)
 
+[Extended Data](ext_articles/bc501bd5.ext.json)
+
 ---
 
-### කුඩා දරුවන්ට ජනපති අරමුදලින් සහනයක්
+### Commemoration of the President Fund
 
 *2024-02-12 08:59:46* · [`adalk`](https://www.ada.lk/breaking_news/කුඩා-දරුවන්ට-ජනපති-අරමුදලින්-සහනයක්/11-408018) · `si`
 
-රාගම ශික්ෂණ රෝහලේ දී සිදුකරන කුඩා දරුවන්ගේ අක්මා බද්ධ කිරීමේ ශල්‍යකර්ම සඳහා සහ ශ්‍රී ජයවර්ධනපුර මහ රෝහලේදී දරුවන් වෙත සිදු කරන කර්ණශංඛ බද්ධ කිරීමේ ශල්‍යකර්මය සඳහා ජනාධිපති අරමුදලින් මූල්‍යාධාර ලබා දීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උපදෙස් දී තිබේ.
+President Ranil Wickremesinghe has instructed to provide financial assistance from the Presidential Fund at the Sri Jayewardenepura General Hospital for children at the Ragama Teaching Hospital.
 
-රටේ අනාගතය වන දරු පරපුරේ සුබසිද්ධිය සහ දුප්පත් දෙමව්පියන්ට සහනයක් වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මෙම උපදෙස් ලබා දී ඇත.
+President Ranil Wickremesinghe has been given a good idea of the future of the country and a good parent.
 
-උතුරු කොළඹ මහ රෝහලේ (රාගම ශික්ෂණ රෝහල) සිදු කරනු ලබන කුඩා දරුවන්ගේ (වයස අවුරුදු 16ට අඩු ) අක්මා බද්ධ කිරීමේ ශල්‍යකර්මවලදී පූර්ව සහ පසු පරීක්ෂණ සහ ප්‍රතිකාර සඳහා යන අධික වියදම සලකා, එවැනි රෝගීන් වෙනුවෙන් ජනාධිපති අරමුදලින් වෛද්‍යාධාර ඉල්ලුම් කිරීමේ දී සම්පූර්ණ කරගත යුතු සාමාන්‍ය හා අනෙකුත් කොන්දේසි සම්පූර්ණ වන්නේ නම් අක්මා බද්ධ කිරීමේ ශල්‍යකර්මය වෙනුවෙන් රුපියල් මිලියනයක මුදලක් (රු 1,000,000/-ක) උපරිමයකට යටත්ව 2024-01-01 දින සිට ජනාධිපති අරමුදලින් ලබාදීම සිදු කෙරේ.
+Availability of liver transplant surgeries (under the age of 16), consuming the cost of pre-corresponding and treatment at the North of Colombo (Ragama Teaching Hospital) is considered as the prospect of pre-tests and treatment.Other conditions are completed, the liver transplant surgery will be provided with Rs.
 
 ...
 
 [Data](articles/437bc5f8.json)
+
+[Extended Data](ext_articles/437bc5f8.ext.json)
 
 ---
 
@@ -2039,93 +2133,5 @@ At one point, the police were unable to control the crowd and were unable to hos
 [Data](articles/b9ac450f.json)
 
 [Extended Data](ext_articles/b9ac450f.ext.json)
-
----
-
-### How many vehicles are sneaking up
-
-*2024-02-11 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193253) · `si`
-
-Section Commission has filed a case filed by the Commission to Investigate Allegations of Bribery or Corruption.
-
-It is with a huge base of the government through the registration of the Department of Motor Traffic in Sri Lanka Customs.
-
-It is reported that the Bribery or Corruption Commission (Investigation Commission) stated that the Department of Bribery or Corruption has been reported that the Department has registered nearly 400 unexcate cars.
-
-The Commission officials have revealed about 156 vehicles.
-
-The statement states that most of them belong to the luxurious vehicle category.
-
-The government has also lost a large tax on the department of the Department of Motor Traffic.
-
-The Court has ordered the Commission to Investigate Allegations of Bribery or Corruption to submit seven vehicles from the current owners from the present owners.
-
-Accordingly, six vehicles have been taken into custody by the Commission to Investigate Allegations of Bribery or Corruption.
-
-◼️
-
-[Data](articles/915eafb4.json)
-
-[Extended Data](ext_articles/915eafb4.ext.json)
-
----
-
-### Bribery Comm. takes legal action against DMT staffers for unlawful vehicle registrations
-
-*2024-02-11 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97186/bribery-comm-takes-legal-action-against-dmt-staffers-for-unlawful-vehicle-registrations-) · `en`
-
-The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has filed legal action against seven persons, including five staff members of the Department of Motor Traffic (DMT) for the unlawful registration of hundreds of vehicles.
-
-Accordingly, the CIABOC said it has filed said action against the seven persons over the registration of approximately 400 vehicles that had not been cleared by the Sri Lanka Customs, thereby incurring a significant loss  of revenue to the state.
-
-Issuing a statement in this regard, the CIABOC revealed that further information was gathered pertaining to 156 of the 400 vehicles, adding that several of them had been categorized as ‘luxury vehicles’.
-
-According to a court order obtained by the CIABOC, seven of the 156 vehicles are to be handed over to the Sri Lanka Customs from their current owners. As such, five of the seven vehicles have already been handed over to Sri Lanka Customs.
-
-◼️
-
-[Data](articles/81deede3.json)
-
-[Extended Data](ext_articles/81deede3.ext.json)
-
----
-
-### Request of Ayurvedic doctors about hemp products
-
-*2024-02-11 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193252) · `si`
-
-Localistic doctors demands that the police custody is not carried out under the operation of registered products under the Department of Ayurveda.
-
-Former Registrar Dr. Danister L Perera made the request, holding a press conference.
-
-"Severages such as legal powerful drugs and even drugs such as Pharmace. Determination as drugs to be legally recognized will result in a harm to Ayurvedic medicine. Law enforcement of law to the legal approval teams of the Department of Ayurveda are not prejudiced. Otherwise, if he arrest hemp drugs to create a program across the Department of Ayurveda. "
-
-◼️
-
-[Data](articles/fd980908.json)
-
-[Extended Data](ext_articles/fd980908.ext.json)
-
----
-
-### India’s invitation was in December; differed it due to tight schedule: Vijitha
-
-*2024-02-11 16:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indias-invitation-was-in-December-differed-it-due-to-tight-schedule-Vijitha/108-276770) · `en`
-
-Colombo, Feb. 11 (Daily Mirror)- Claiming that the National Peoples Power's (NPP) visit to India was not sudden, NPP MP Vijitha Herath, who took part in the visit, said the invitation was made last December but was differed to February due to the tight schedule.
-
-He told a news conference that India had invited them for a 10-day visit and that the NPP had to cut it short to five days due to their planned party activities.
-
-"The invitation from India came in December last year for a ten-day visit. But, we had to defer the visit due to our tight schedule and wanted to restrict it to five days," he said.
-
-The MP said this was not the first diplomatic level invitation to the NPP and added that NPP leader Anura Kumara Dissanayake and a delegation visited China in a similar manner.
-
-“The visit to China was not given much publicity as for the Indian visit. I think people may have seen our Indian visit as important due to our previous stance on India,” he said.
-
-...
-
-[Data](articles/5b8d3c78.json)
-
-[Extended Data](ext_articles/5b8d3c78.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 14:02:28**
+As of **2024-02-12 14:17:26**
 
 ## Newspaper Stats
 
-*Scraped **6,455** Articles*
+*Scraped **6,459** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ newsfirstlk | 363
 adalk | 541
 tamilmirrorlk | 785
 adaderanalk | 792
-virakesarilk | 804
-adaderanasinhalalk | 895
-dailymirrorlk | 945
+virakesarilk | 806
+adaderanasinhalalk | 896
+dailymirrorlk | 946
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,455 (100.0%) of 6,455 articles have been extended.
+6,455 (99.9%) of 6,459 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### ඊශ්‍රායල ප්‍රාණ ඇපකරුවන් දෙදෙනෙක් ව බේරා ගැනේ
+
+*2024-02-12 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193284) · `si`
+
+රෆා ප්‍රදේශයේ සිදුකළ විශේෂ මෙහෙයුමකින් හමාස් සංවිධානය විසින් පැහැරගෙන ගොස් සඟවාගෙන සිටි ප්‍රාණ ඇපකරුවන් දෙදෙනෙක්ව බේරාගත් බව ඊශ්‍රායලය පවසයි.
+
+එම පුද්ගලයින් දෙදෙනා හොඳ සෞඛ්‍ය තත්ත්වයෙන් සිටින බවද වාර්තා විය.
+
+දකුණු ගාසා ප්‍රදේශයට ඊශ්‍රායල ප්‍රහාරක යානා දැඩි ප්‍රහාර එල්ලකර ඇති අතර ඉන් පලස්තීන වැසියන් විශාල පිරිසක් මියගොස් ඇති බවද වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/74d0a59e.json)
+
+---
+
+### Unified Payment Interface launched in Sri Lanka
+
+*2024-02-12 13:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Unified-Payment-Interface-launched-in-Sri-Lanka/108-276839) · `en`
+
+The Unified Payment Interface (UPI) service was launched in Sri Lanka today.
+
+Indian Prime Minister Narendra Modi and Sri Lanka President Ranil Wickremesinghe witnessed the launch via video conference.
+
+India has emerged as a leader in Fintech innovation and Digital Public Infrastructure.
+
+◼️
+
+[Data](articles/7b1ac327.json)
+
+---
 
 ### Fish, fish sold
 
@@ -177,6 +209,46 @@ Suddenly he stood in the middle of the stadium and died on the spot when lightni
 [Data](articles/36426f4a.json)
 
 [Extended Data](ext_articles/36426f4a.ext.json)
+
+---
+
+### ரஃபாவில் இஸ்ரேல் மேற்கொள்ளும் நடவடிக்கையால் பேரழிவு ஏற்படும்- அவுஸ்திரேலியா எச்சரிக்கை
+
+*2024-02-12 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176176) · `ta`
+
+ரஃபாவில் இஸ்ரேல் இராணுவநடவடிக்கையில் ஈடுபட்டால் அங்கு தஞ்சமடைந்துள்ள மக்களிற்கு  பேரழிவு ஏற்படலாம் என அவுஸ்திரேலிய வெளிவிவகார அமைச்சர் பெனிவொங் தெரிவித்துள்ளார்.
+
+அவுஸ்திரேலியா உட்பட 153 நாடுகள் காசாவில் உடனடியுத்த மனிதாபிமான யுத்த நிறுத்தத்திற்கு அழைப்பு விடுத்துள்ளன என அவர் தெரிவித்துள்ளார்.
+
+இஸ்ரேல்இராணுவ நடவடிக்கையை முன்னெடுக்க திட்டமிட்டுள்ளமை  குறித்து இஸ்ரேலின் நண்பர்கள் உட்பட பல நாடுகள் கவலை வெளியிட்டுள்ளன இது குறித்து சர்வதேச அளவில் கருத்துடன்பாடு அதிகரிக்கின்றது எனவும் அவர் தெரிவித்துள்ளார்.
+
+இஸ்ரேல் தனது நண்பர்களை செவிமடுக்கவேண்டும் சர்வதேச சமூகத்தை செவிமடுக்கவேண்டும் எனவும் பெனிவொங் தெரிவித்துள்ளார்.
+
+பகுதியில் மில்லியன் கணக்கான மக்கள் தஞ்சமடைந்துள்ளனர் காசாவின் வடபகுதியில் இஸ்ரேல் மேற்கொண்ட நடவடிக்கை காரணமாக மக்கள் தென்பகுதிக்கு நகர்ந்துள்ளனர் இஸ்ரேல் இந்த மக்கள் குறித்து விசேட கவனம் செலுத்தவேண்டும் எனவும் வேண்டுகோள் விடுத்துள்ளார்.
+
+இஸ்ரேல் அந்த மக்கள் குறித்து விசேட கவனம் செலுத்தாவிட்டால் அந்த மக்களிற்கு பேரழிவு ஏற்படலாம் எனவும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/1551486e.json)
+
+---
+
+### பம்பலப்பிட்டி பொலிஸ் நிலைய பரிசோதகர் மரத்தின் கீழ்  சிறுநீர் கழித்தபோது  தாக்கப்பட்டார் :  சம்பவம் தொடர்பில் விசாரணை!
+
+*2024-02-12 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176177) · `ta`
+
+பம்பலப்பிட்டி பொலிஸ் பரிசோதகளுக்கான சிற்றுண்டிச்சாலையின் பிரதான வாயிலுக்கு அருகில் உள்ள மரமொன்றின் கீழ் சிறுநீர் கழித்த பொலிஸ் பரிசோதகர் ஒருவர்  கடுமையாகத் தாக்கப்பட்டமை தொடர்பில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+
+குறித்த பொலிஸ் பரிசோதகர்   பம்பலப்பிட்டி பொலிஸில்  இது தொடர்பில் முறைப்பாடு செய்ததுடன் சுமார் ஆறு பேர் கொண்ட குழுவொன்று வந்து தன்னை சுற்றிவளைத்து கடுமையாக தாக்கியதாகவும் அவர்  தெரிவித்துள்ளார்.
+
+தாக்குதல் நடத்திய  குழுவில்  சிரேஷ்ட பொலிஸ் அதிகாரி ஒருவரும் இருந்ததார் எனக்  கூறப்படுகிறது.
+
+தாக்குதலுக்கு உள்ளான பொலிஸ் பரிசோதகர் தனியார் வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாகவும்  முறைப்பாட்டில் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/a9a2e333.json)
 
 ---
 
@@ -1933,109 +2005,5 @@ Dissanayake said the opposition has also been astonished about this concept of w
 [Data](articles/1abb5baf.json)
 
 [Extended Data](ext_articles/1abb5baf.ext.json)
-
----
-
-### More surprises to be unfolded: Anura Kumara says after India visit
-
-*2024-02-11 23:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/More-surprises-to-be-unfolded-Anura-Kumara-says-after-India-visit/108-276777) · `en`
-
-Anuradhapura, Feb. 11 (Daily Mirror)- Claiming that opposition camps have been astonished by the NPP's Indian visit, NPP leader Anura Kumara Dissanayake said today that more surprising events are to be unfolded in the near future.
-
-Speaking at the Anuradhapura District Women's Convention, he said an era had begun now, where more and more surprises would take place.
-
-"How did you know about our Indian visit? You got to know it either through the Samagi Jana Balawegaya camp, President Ranil's camp or Mahinda Rajapaksa's camp. We were silent. They have been astonished to learn about our Indian visit. They thought that only they can deal with India in that manner. An era has begun where more and more such surprises will occur," he said.
-
-Dissanayake said the opposition has also been astonished about this concept of women's convention, adding that they never thought an awakening of women would happen in this manner.
-
-...
-
-[Data](articles/d7974572.json)
-
-[Extended Data](ext_articles/d7974572.ext.json)
-
----
-
-### Australia's senior team to defeat India is a world champion
-
-*2024-02-11 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176138) · `ta`
-
-Australia became a team in South Africa as the ICC men's under -19 World Cup cricket match.
-
-The current champion won India by 79 runs in the final of the final at the Benoni and the Wilomoor Park Stadium against India.
-
-This has led to the Senior Team of Australia in the World Cup cricket match.
-
-It is noteworthy that Australia won India in both World Cup finals.
-
-Australia became a world champion in Ahmedabad last year's ICC men's World Cup (Senior Division) final.
-
-The half -century of Indian -origin Harjaz Singh, Heri Dixon, Team Leader Hue Weijen, Olivar Peak, and the skilled bowls of Maly Beardman and Rabayal McMmilon helped Australia become a global champion.
-
-In response to Australia's 254 -run win, India lost all the wickets in 43.5 overs and lost only 174 runs.
-
-The Indian batsman's faulty choices made wickets for its failure.
-
-This is the first time India's all -wickets were taken in this year's World Cup cricket match. Australia made that glory.
-
-...
-
-[Data](articles/3a558348.json)
-
-[Extended Data](ext_articles/3a558348.ext.json)
-
----
-
-### Asalanka, Hazaranga Aparam;Sri Lanka won the 2nd match in the 2nd match;Afghanistan's 9 wickets decline in 25 runs
-
-*2024-02-11 22:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176137) · `ta`
-
-Sri Lanka won by 155 runs in the second international ODI match on Sunday (11) at Pallekele in Kandy against Afghanistan.
-
-Sri Lanka was easily successful with the help of Sarit Asalanga, team captain Kusal Mendis, Satheera Samarawickrama and Janith Liyanage and the accurate betting of Hazaranga.
-
-With this victory, Sri Lanka has made a 3 -match series in a 2-0 match.
-
-The two Sri Lankan openers lost the first batsmen for 36 runs.
-
-In the first match, Betham Nissanka (18) and Avishka Fernando (5), who scored a double century in the first match.
-
-However, team captain Gusal Mendis and Satheera Samarawickrama were effectively bowled out and scored half -centuries and shared 103 runs in the 3rd wicket.
-
-Following them, Sarid Asalanga and Janith Liyanage were very effective and shared 111 runs in the 5th wicket.
-
-After losing 50 runs, Janith Liyanage lost 50 runs in the 6th wicket with Hazaranga.
-
-Sarid Asalanuk did not lose 74 balls with 97 runs, including 9 pounds and 2 sixes.
-
-...
-
-[Data](articles/35f334b4.json)
-
-[Extended Data](ext_articles/35f334b4.ext.json)
-
----
-
-### UAE hosts major labour conference for Asian countries; Sri Lanka presents worker initiatives
-
-*2024-02-11 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97190/uae-hosts-major-labour-conference-for-asian-countries-sri-lanka-presents-worker-initiatives) · `en`
-
-The United Arab Emirates (UAE) is hosting a major meeting of Asian nations to discuss the future of labour relations and government initiatives to boost international job markets.
-
-Ministers of labour and human resources from 16 Asian countries sending and receiving workers discussed leveraging advanced technology for innovative initiatives aimed at resolving labour disputes and expediting verdicts.
-
-They also aimed to strengthen wage protection systems and facilitate skill mobility among participating countries, foreign media reported.
-
-The focus was on improving labour market regulations and initiatives.
-
-This came during the seventh Abu Dhabi Dialogue (ADD) Ministerial Consultation meeting, held in Dubai on Sunday, February 11, as part of the World Governments Summit 2024.
-
-A total of 16 countries participated in the current edition of the Abu Dhabi Dialogue, including nine workers-sending countries:
-
-...
-
-[Data](articles/81c69e04.json)
-
-[Extended Data](ext_articles/81c69e04.ext.json)
 
 ---

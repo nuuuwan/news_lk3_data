@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 13:33:18**
+As of **2024-02-12 13:51:58**
 
 ## Newspaper Stats
 
@@ -26,75 +26,83 @@ dailymirrorlk | 945
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,442 (99.9%) of 6,448 articles have been extended.
+6,448 (100.0%) of 6,448 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### UPI ගනුදෙනු එළිදකී
+### UPI money exchange methodology launches
 
 *2024-02-12 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193280) · `si`
 
-ඉන්දියානු ඒකාබද්ධ ගෙවීම් වැඩපිළිවෙළ කොළඹදී එළිදැක්වීමට මේ වනවිට කටයුතු සූදානම් කර තිබේ.
+The launch of the Indian Combined Payment Program has been launched in Colombo.
 
-ඒ අනූව UPI ඉන්දීය ගෙවීම් ක්‍රියාවලිය, මෙරට ලංකා QR ගෙවීම් පද්ධතිය හා සම්බන්ධ කිරීමේ අවස්ථාවට ජනාධිපති රනිල් වික්‍රමසිංහ සහ ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි යන මහත්වරුන් වීඩියෝ තාක්ෂණය ඔස්සේ සම්බන්ධ වේ
+President Ranil Wickremesinghe and Indian Prime Minister Narendra Modi are involved in connecting the UPI Indian Payment Procedure in Sri Lanka
 
 ◼️
 
 [Data](articles/5f981053.json)
 
+[Extended Data](ext_articles/5f981053.ext.json)
+
 ---
 
-### பாடசாலை மாணவி  துஷ்பிரயோகம் ; இருவர் கைது
+### School student abuse;Two arrests
 
 *2024-02-12 12:52:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாடசாலை-மாணவி-துஷ்பிரயோகம்-இருவர்-கைது/76-333067) · `ta`
 
-திம்புலபத்தனை பொலிஸ் பிரிவுக்குட்பட்ட  மேபீல்ட் தோட்டத்தை  சேர்ந்த 13 வயதுடைய  மாணவியொருவரை  பாலியல் துஷ்பிரயோகம்  செய்த  குற்றச்சாட்டில்  அதே  தோட்டத்தை  சேர்ந்த 60 மற்றும்  40 வயதுடைய  இருவரை பொலிஸார் கைது செய்துள்ளனர்.
+Police have arrested two persons aged 60 and 40 for allegedly sexually abusing a 13 -year -old student from the Mayfield estate in the Dimbulapatana police division.
 
-துஷ்பிரயோகத்துக்குள்ளான மாணவி பத்தனை பொலிஸாரால்  , சட்ட வைத்திய அதிகார பரிசோதனைக்காக  கிளங்கன் ஆதார வைத்திய சாலையில் அனுமதிக்கப்பட்டுள்ளார் .
+A student who was abused has been admitted to the Klangan Base Hospital for legal authorities for legal authorities.
 
-பொலிஸாரால்  மேற்கொள்ளப்பட்ட முதற்கட்ட  விசாரணையின் போது பல தடவை  குறித்த 60 வயது நபரால்  மாணவி துஷ்பிரயோகத்திற்கு  உள்ளாகியமை மற்றும் அதற்கு  40 வயதுடைய நபர் உதவி செய்துள்ளமை தெரியவந்துள்ளது .
+During the preliminary inquiry carried out by the police, it was revealed that a 60 -year -old man was abused and assisted by a 40 -year -old man.
 
-இந் நிலையில்  சந்தேக நபர்களை  ஞாயிற்றுக்கிழமை (11)  ஹட்டன் நீதிமன்ற பதில்நீதவான் முன்னிலையில்  ஆஜர் படுத்திய  போது  எதிர்வரும் 19 ம் திகதி வரை விளக்கமறியலில் வைக்குமாறு பதில் நீதவான் உத்தரவிட்டதாக  பொலிஸார்  தெரிவித்துள்ளனர் .
+The Magistrate has ordered the suspects to be remanded until the 19th of this month when the Hatton Court of Appeal was produced before the Hatton Court of Justice on Sunday (11).
 
-மேலும் கைது  செய்யப்பட்ட இருவரையும்  அவர்களது குடும்பத்தினரையும் தோட்டத்திலிருந்து வெளியேற்றுமாறு குறித்த தோட்ட தொழிலாளர்கள்  போராட்டமொன்றை  மேற்கொண்டு வருகின்றமை  குறிப்பிடத்தக்கது.
+It is noteworthy that the plantation workers are carrying out a struggle to evict the two arrested and their families.
 
 ◼️
 
 [Data](articles/c6339e88.json)
 
+[Extended Data](ext_articles/c6339e88.ext.json)
+
 ---
 
-### ශිෂ්‍යත්ව හපනුන්ට දැනුම්දීමක්
+### A Notification for Scholarship Haphana
 
 *2024-02-12 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193279) · `si`
 
-2023 වර්ෂයේ 5 ශිෂ්‍යත්ව අභියාචනා අයදුම්පත් මාර්ගගත ක්‍රමයට දැන් යොමු කළ හැකි බව අධ්‍යාපන අමාත්‍යංශය පවසයි.
+The Ministry of Education says that the 5th scholarship appeals applications can now be referred to the online system of 520s.
 
-ඒ අනුව, 2023 වර්ෂයේ පැවති 5 ශ්‍රේණිය ශිෂ්‍යත්ව පරීක්ෂණයේ ප්‍රතිඵල මත සිසුන්ට 2024 වර්ෂයේ 6 ශ්‍රේණියට ඇතුළත් වීම සඳහා අදාළ අභියාචනා 2024. 02. 13 දින සිට 2024. 02. 29 දින දක්වා මාර්ගගත ක්‍රමයට යොමු කිරීමට දැන් හැකියාව තිබේ.
+Accordingly, the students' appeals to the students to be included in grade 6, 2024, on the results of Grade 5 scholarship probe in 2023. 02. 1324 to 2024. 02. Now can be directed to the online system until 29 days.
 
-අධ්‍යාපන අමාත්‍යාංශයේ නිල වෙබ් අඩවිය වන www.moe.gov.lk වෙත පිවිස උපරිම වශයෙන් පාසල් තුනක් සඳහා අභියාචනා ඉදිරිපත් කිරීමේ හැකියාව පවතින අතර http://g6application.moe.gov.lk/#/  දිගුව ඔස්සේ සෘජු ව ම අභියාචනා යොමු කිරීමේ හැකියාව ද පවතී.
+The official website of the Ministry of Education is the ability to make appeals for a maximum of three schools and direct appeals through http://g6application.gov.lk/#/ extension.Exist.
 
 ◼️
 
 [Data](articles/8f119023.json)
 
+[Extended Data](ext_articles/8f119023.ext.json)
+
 ---
 
-### மின்னல் தாக்கி கால்பந்து வீரர் பலி
+### Footballer killed in lightning strikes
 
 *2024-02-12 12:22:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மின்னல்-தாக்கி-கால்பந்து-வீரர்-பலி/50-333066) · `ta`
 
-இந்தோனேசியாவில் சனிக்கிழமை (10) நடந்த கால்பந்து போட்டியின் போது மின்னல் தாக்கி கால்பந்து வீரர் ஒருவர் உயிரிழந்துள்ளார்.
+A footballer died after lightning struck a football match on Saturday (10) in Indonesia.
 
-சுபாங்கைச் சேர்ந்த 34 வயதான நபரொருவர் மேற்கு ஜாவாவில் உள்ள பாண்டுங்கில் உள்ள சிலிவாங்கி மைதானத்தில், எஃப்சி பாண்டுங் மற்றும் எஃப்பிஐ சுபாங் இடையே நடந்த போட்டியில் போட்டியிட்டுள்ளார்.
+A 34 -year -old man from Subang is contesting between FC Pandung and FBI Subang at the Chilivaangi Ground in Pandung, West Java.
 
-அப்போது திடீரென மைதானத்தின் நடுவில் நின்ற அவர் மீது மின்னல் தாக்கியதில் சம்பவ இடத்திலேயே உயிரிழந்துள்ளார்.
+Suddenly he stood in the middle of the stadium and died on the spot when lightning struck.
 
 ◼️
 
 [Data](articles/36426f4a.json)
+
+[Extended Data](ext_articles/36426f4a.ext.json)
 
 ---
 
@@ -118,21 +126,23 @@ As such, State Minister Lasantha Alagiyawanna is tipped to be appointed as the n
 
 ---
 
-### නැවතත් සෞඛ්‍ය වර්ජනයක් ?
+### A health strike again?
 
 *2024-02-12 12:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193278) · `si`
 
-හෙට (13) හෝ අනිද්දා (14) දිනයේ නැවත වතාවක් සෞඛ්‍ය වැඩවර්ජනයකට යොමුවීමට සිදුවනු ඇති බව සෞඛ්‍ය වෘත්තීය සමිති පවසයි.
+The Health Trade Unions say they will have to contest tomorrow (13) or tomorrow (14).
 
-අද (12)  මුදල් අමාත්‍යාංශය සමග පැවති සාකච්ඡා සාර්ථක නොවීම හේතුවෙන් එම තීරණය ගත් බව සෞඛ්‍ය වෘත්තීයවේදීන්ගේ විද්වත් සංගමයේ සභාපති රවී කුමුදේශ් මහතා කියා සිටියේය.
+The decision of the Health Professional Association Ravi Kudmith said that the decision was taken today (12) was not successful.
 
-නායකත්ව මණ්ඩලය අද දහවල් රැස්වීමෙන් අනතුරුව ඉදිරි ක්‍රියාමාර්ග ගන්නා බව ඔහු වැඩිදුරටත් කියා සිටියේය.
+He further stated that the leadership council will take further action following the afternoon.
 
-ජනාධිපතිවරයාගේ මැදිහත් වීමක් මෙම ගැටලුවට අත්‍යවශ්‍ය බවත් එසේ නොමැති වුවහොත් ජනතාව දැඩි අසීරුතාවයකට ලක්විය හැකි බවත් ඔහු පැවසීය.
+He said that if the president's intervention is essential to this problem, he said that if the people could be severely impaired.
 
 ◼️
 
 [Data](articles/013e4b7a.json)
+
+[Extended Data](ext_articles/013e4b7a.ext.json)
 
 ---
 

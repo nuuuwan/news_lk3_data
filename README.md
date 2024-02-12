@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 16:32:46**
+As of **2024-02-12 16:48:07**
 
 ## Newspaper Stats
 
-*Scraped **6,479** Articles*
+*Scraped **6,483** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 78
-bbccomsinhala | 88
+bbccomsinhala | 89
 dbsjeyarajcom | 147
 economynextcom | 325
 islandlk | 344
 dailyftlk | 348
 newsfirstlk | 363
-adalk | 545
-tamilmirrorlk | 791
+adalk | 547
+tamilmirrorlk | 792
 adaderanalk | 793
 virakesarilk | 806
 adaderanasinhalalk | 903
@@ -26,25 +26,51 @@ dailymirrorlk | 948
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,478 (100.0%) of 6,479 articles have been extended.
+6,479 (99.9%) of 6,483 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### ඇෆ්ගනිස්තානයට එරෙහිව එන අපේ විස්සයි විස්ස කණ්ඩායම
+### Our Twenty Twenty Twenty Twenty group that comes against Afghanistan
 
 *2024-02-12 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193291) · `si`
 
-ඇෆ්ගනිස්තානයට එරෙහිව පැවැත්වෙන විස්සයි විස්ස තරගාවලිය සඳහා එක්වන ශ්‍රී ලංකා විස්සයි විස්ස සංචිතය නම්කර තිබේ.
+The Twenty20 pool of Sri Lanka is named for the T20ship T20 tournament against Afghanistan.
 
-දඹුල්ල ක්‍රිකට් ක්‍රීඩාංගණයේදී එළැඹෙන 17,19 සහ 21 වනදා එම තරග පැවැත්වීමට නියමිතව ඇත.
+The match will be held on the 21s 29th and 21st of the Dambulla cricket stadium.
 
-මෙම සංචිතය සඳහා දුෂ්මන්ත චමීර තෝරාගෙන තිබූ නමුත් එක්දින තරගාවලියේදී ඇතිවූ ආබාධ තත්ත්වය හේතුවෙන් ඔහු වෙනුවන්ට සංචිතයට බිනුර ප්‍රනාන්දු කැඳවා ඇත.
+Damadantha Chameera was selected for the squad, but due to the condition of the ODI, he had been called to the squad.
 
 ◼️
 
 [Data](articles/219d5280.json)
+
+[Extended Data](ext_articles/219d5280.ext.json)
+
+---
+
+### නාදුනන කාන්තා මළසිරුරක්
+
+*2024-02-12 15:35:59* · [`adalk`](https://www.ada.lk/breaking_news/නාදුනන-කාන්තා-මළසිරුරක්/11-408035) · `si`
+
+ලිදුල පොලිස් බල ප්‍රදේශයේ නාගසේන ආග්‍රෝවා ඔයේ තිබි කාන්තා මල සිරුරක් 12වන දින හමුවි ඇත.
+
+මේ පිලිබදව කරන ලද විමසිමකදි අදහස් දැක්වු ලිදුල පොලිසියේ නිලධාරියකු පවසන ලද්දේ නාගසේන ආගරවත්ත
+
+ප්‍රදේශයේ අග්‍රෝවා ඔයේ නාදුනන කාන්තා මල සිරුරක් පවතින බවට ලද තොරතුරක් මත පරික්ෂන ආරම්භ කල
+
+එම පරික්ෂන මත ආග්‍රෝවා ඔයේ කාන්තා මල සිරුරක් තිබෙන බැවින් එම ප්‍රදේශයේ ආරක්ෂාව තර කර ඒ පිලිබදව
+
+නුවරඑළිය දිසා අධිකරණය දැනුවත් කිරිමට පියවර ගත් බවද එම නිලධාරියා පැවසිය.
+
+නුවරඑළිය දිසා විනිසුරුවරයාගේ ස්ථානිය පරික්ෂාවෙන් පසු මෙම මල සිරුර ගොඩ ගැනිමට පියවර ගන්නා බවත් මෙම
+
+මල සිරුර පිලිබදව වැඩි දුර පරික්ෂන ලිදුල පොලිසිය විසින්ආ රම්භ කර ඇති බවද එම නිලධාරියා වැඩි දුරටත් පවසන ලදි.
+
+◼️
+
+[Data](articles/3ee0de0e.json)
 
 ---
 
@@ -121,6 +147,24 @@ However, media reports have stated that the accusation of the Israeli was charge
 [Data](articles/8fcebc27.json)
 
 [Extended Data](ext_articles/8fcebc27.ext.json)
+
+---
+
+### රජයට වියදම් පාලනය කරන ගන්න බැරිවෙයි
+
+*2024-02-12 14:45:14* · [`adalk`](https://www.ada.lk/breaking_news/රජයට-වියදම්-පාලනය-කරන-ගන්න-බැරිවෙයි/11-408034) · `si`
+
+රජය අපේක්ෂා කළ අයුරින් වියදම් පාලනය කර ගැනීමට නොහැකි වී ඇති බවට දත්ත හරහා පෙනෙන බව පේරාදෙණිය විශ්වවිද්‍යාලයේ ආර්ථික විද්‍යා සහ සංඛ්‍යාන අධ්‍යයන අංශයේ මහාචාර්ය වසන්ත අතුකෝරල මහතා පවසයි.
+
+මේ අනුව පසුගිය වසරේදී රජයේ ආදායම බිලියන 1300කින් පමණ වැඩිවි ඇති බවත් පසුගිය වසදෙී රජයේ ආදායම වැඩි වී ඇත්තේ බිලියන 900කින් බවත් ඔහු පැවැසීය.
+
+2023 වසරේ මුල් මාස 11ක දත්ත විශ්ලේෂණය කරමින් මහාචාර්යවරයා  මේ බව පවසයි.
+
+මාසයක් තුළ රජයේ වියදම  රුපියල් බිලියන 125කට ආසන්න ප්‍රමාණයකින් ඉහළ ගොස් ඇති බවත් ඒ අනුව දිනක රජයේ වියදම  රුපියල් බිලියන 4කින් පමණ වැඩිවී ඇති බවත් ඔහු පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/8d7bf0c8.json)
 
 ---
 
@@ -543,6 +587,22 @@ Suddenly he stood in the middle of the stadium and died on the spot when lightni
 [Data](articles/36426f4a.json)
 
 [Extended Data](ext_articles/36426f4a.ext.json)
+
+---
+
+### மின்னல் தாக்கி கால்பந்து வீரர் பலி: காணொளி
+
+*2024-02-12 12:22:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மின்னல்-தாக்கி-கால்பந்து-வீரர்-பலி-காணொளி/50-333066) · `ta`
+
+இந்தோனேசியாவில் சனிக்கிழமை (10) நடந்த கால்பந்து போட்டியின் போது மின்னல் தாக்கி கால்பந்து வீரர் ஒருவர் உயிரிழந்துள்ளார்.
+
+சுபாங்கைச் சேர்ந்த 34 வயதான நபரொருவர் மேற்கு ஜாவாவில் உள்ள பாண்டுங்கில் உள்ள சிலிவாங்கி மைதானத்தில், எஃப்சி பாண்டுங் மற்றும் எஃப்பிஐ சுபாங் இடையே நடந்த போட்டியில் போட்டியிட்டுள்ளார்.
+
+அப்போது திடீரென மைதானத்தின் நடுவில் நின்ற அவர் மீது மின்னல் தாக்கியதில் சம்பவ இடத்திலேயே உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/db4423d6.json)
 
 ---
 
@@ -1161,6 +1221,26 @@ The two gunmen who committed the robbery fled on a motorcycle.
 [Data](articles/88ab714f.json)
 
 [Extended Data](ext_articles/88ab714f.ext.json)
+
+---
+
+### රාජ්‍ය සේවය: 'ජනතාවගේ වැඩ ඉවරවෙලා ඔවුන්ට නිදහස් වෙලාවක මගෙන් සේවය ලබා ගන්න පුළුවන්'
+
+*2024-02-12 10:17:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0kd9e0pl8do) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.Play video, "රාජ්‍ය සේවය : 'ජනතාවගේ වැඩ ඉවරවෙලා ඔවුන්ට නිදහස් වෙලාවක මගෙන් සේවය ලබා ගන්න පුළුවන්.'", ධාවන කාලය 3,5903:59වීඩියෝ ශීර්ෂ වැකිය, ''එදා දවසේ අවශ්‍යතාවයක් තියෙන ඕන කෙනෙකුට මේකෙන් නොමිලේ තියෙන දෙයක් අරගෙන යන්න පුළුවන්.''
+
+රාජ්‍ය සේවය: 'ජනතාවගේ වැඩ ඉවරවෙලා ඔවුන්ට නිදහස් වෙලාවක මගෙන් සේවය ලබා ගන්න පුළුවන්'
+
+රාජ්‍ය නිලධාරිගෙන් සේවය ලබා ගැනීමට ගිය අවස්ථාවන්හි දී බොහෝ දෙනා අපහසුතාවයන්ට ලක්වන අවස්ථා ගැන කොතෙකුත් අපි අසා ඇත්තෙමු.
+
+නමුත් ඉතා කාර්යක්ෂමව සහ මිත්‍රශීලීව ජනතාවට සේවය සලසන රාජ්‍ය සේවකයෝ ද සිටිති.
+
+ගාල්ල, කරන්දෙනිය ප්‍රාදේශිය ලේකම් කොට්ඨාසයට අයත් 41/E බෙලිගස්වේල්ල ග්‍රාම නිලධාරී කාර්යාලය එවැනි මිත්‍රශීලි සේවාස්ථානයක් බව අපට දැනගන්නට ලැබිණි. එබැවින් ඒ පිළිබඳව සොයා බලන්නට අපි එහි ගියෙමු.
+
+...
+
+[Data](articles/5ab1dcd0.json)
 
 ---
 
@@ -1949,77 +2029,5 @@ Vavuniya High Court Judge Manikkavasagam Ilancheliyan who delivered the verdict 
 [Data](articles/4d9898c3.json)
 
 [Extended Data](ext_articles/4d9898c3.ext.json)
-
----
-
-### Rescue of student body
-
-*2024-02-12 04:01:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாணவி-சடலமாக-மீட்பு/76-333050) · `ta`
-
-A schoolgirl has been recovered from a bathroom in the box area of Balangoda.
-
-The body of the student was recovered yesterday by the Balangoda police on a complaint filed by relatives.
-
-Police investigations have revealed that the student who was recovered from the body was educated in a high -quality class in a popular Tamil school in Balangoda.
-
-◼️
-
-[Data](articles/25fd5c93.json)
-
-[Extended Data](ext_articles/25fd5c93.ext.json)
-
----
-
-### Rescue of student body
-
-*2024-02-12 04:01:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவி-சடலமாக-மீட்பு/175-333050) · `ta`
-
-A schoolgirl has been recovered from a bathroom in the box area of Balangoda.
-
-The body of the student was recovered yesterday by the Balangoda police on a complaint filed by relatives.
-
-Police investigations have revealed that the student who was recovered from the body was educated in a high -quality class in a popular Tamil school in Balangoda.
-
-◼️
-
-[Data](articles/55a3f65f.json)
-
-[Extended Data](ext_articles/55a3f65f.ext.json)
-
----
-
-### The boy's death tightened on the neck
-
-*2024-02-12 03:57:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கயிறு-கழுத்தில்-இறுகி-சிறுவன்-மரணம்/175-333049) · `ta`
-
-A 12 -year -old boy, who was playing a rope in a tea garden near the house, was killed in a rope neck.
-
-The incident took place yesterday afternoon in the Magastota area of the Nuwara Eliya Police Division.
-
-The body of the deceased has been taken to the Nuwara Eliya District Hospital for autopsy after the death of the Nuwara Eliya District Judge. (A)
-
-◼️
-
-[Data](articles/73e83117.json)
-
-[Extended Data](ext_articles/73e83117.ext.json)
-
----
-
-### President aid for child treatment
-
-*2024-02-12 03:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்-சிகிச்சைகளுக்கு-ஜனாதிபதி-உதவி/175-333048) · `ta`
-
-President Ranil Wickremesinghe has issued a directive from the President's Fund to provide financial assistance from the President's Fund for Liver Transplant Surgery at the Ragama Teaching Hospital and the hearing at the Sri Jayawardenapura Hospital.
-
-Accordingly, the funds will be given to the children under the age of 16 at the Ragama Teaching Hospital for a liver transplant before and after its liver transplant.
-
-Accordingly, for those who complete the relevant conditions, this surgery will be paid Rs 10 lakh from the Presidential Fund from January 1.. (A)
-
-◼️
-
-[Data](articles/d0beaa40.json)
-
-[Extended Data](ext_articles/d0beaa40.ext.json)
 
 ---

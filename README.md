@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 14:33:12**
+As of **2024-02-12 14:51:29**
 
 ## Newspaper Stats
 
-*Scraped **6,463** Articles*
+*Scraped **6,464** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,64 @@ adalk | 541
 tamilmirrorlk | 788
 adaderanalk | 793
 virakesarilk | 806
-adaderanasinhalalk | 896
+adaderanasinhalalk | 897
 dailymirrorlk | 946
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,459 (99.9%) of 6,463 articles have been extended.
+6,464 (100.0%) of 6,464 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### தந்தை-மகன் சண்டையில், காது, விரல்கள் துண்டாகின
+### Man dies in fatal accident in Ratnapura
+
+*2024-02-12 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193285) · `si`
+
+One of the people who were hospitalized after the accident in the new city of Ratnapura yesterday (11) has died.
+
+The accident occurred at the new city of Ratnapura yesterday afternoon.
+
+The accident had occurred when the heavy rapidly driven car towards Ratnapura from Kuruwita to Ratnapura and five persons were seriously injured in motorbikes.
+
+Residents of the area were engaged in rushed to the Ratnapura hospital and was killed in the same morning.
+
+The victim was a 20-year-old youth residing in Kuruwita area.
+
+Hospital sources said that the condition of the other four persons hospitalized, hospital sources said.
+
+The driver of the accident had fled the area and then surrendered to the Ratnapura Police.
+
+He is a resident of Opanayaka Hunuala, Opanayakawa area and the suspect is due to be presented to court today.
+
+◼️
+
+[Data](articles/c5c7b41a.json)
+
+[Extended Data](ext_articles/c5c7b41a.ext.json)
+
+---
+
+### In the father-son quarrel, the ear, the fingers were sliced
 
 *2024-02-12 13:57:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/தந்தை-மகன்-சண்டையில்-காது-விரல்கள்-துண்டாகின/94-333069) · `ta`
 
-தந்தைக்கும் மகனுக்கு இடையில் ஏற்பட்ட சண்டையில், தந்தையின் காதுகளில் ஒன்று துண்டாகியதுடன், மகனின் கை விரல்களில் இரண்டு விரல்கள் துண்டாகின. இந்த சம்பவம் பல்லம, வில்பொத்த பிரதேசத்தில் இடம்பெற்றுள்ளது.
+In the fight between the father and the son, one of the father's ears was shattered and two fingers on the son's fingers were sliced.. The incident took place in Pallama, Wilpotha area.
 
-பல்லம, வில்பொத்த பிரதேசத்தில் இடம்பெற்ற விருந்துபசாரத்தின் பின்னர் தந்தைக்கும் மகனுக்கும் இடையில் ஏற்பட்ட சண்டையிலேயே தந்தையின் காது அறுபட்டுள்ளதாகவும், தந்தையின் தாக்குதலில் மகனின் இரண்டு விரல்கள் துண்டிக்கப்பட்டதாகவும் பல்லம பொலிஸார் தெரிவிக்கின்றனர்.
+Pallama police say that the father and son's ear was cut off after a feast in Pallama, Wilpotha area, and the father's two fingers were cut off in the father's attack.
 
-வில்பொத்த பகுதியிலுள்ள வீடொன்றில் விருந்துபசாரம் முடித்து வீடு திரும்பிய 56 வயதுடைய தந்தை உறங்கிக் கொண்டிருந்த போது மகன் தடியால் தாக்கியதாகவும் தந்தையின் ஒரு காது துண்டாக்கப்பட்டதாக தெரிவிக்கப்படுகின்றது.
+It is reported that a 56 -year -old father who returned home after completing a dinner at a house in Wilpotha area was reportedly beaten by his son's stick.
 
-அதேநேரம் கண்விழித்த தந்தை, கைக்கு கிடைத்த கத்தியால் மகனைத் தாக்கினார், மகன் தாக்குதலைத் தவிர்க்க முயன்றபோது அவரது இரண்டு விரல்கள் வெட்டப்பட்டுள்ளன என்றும் அறியமுடிகின்றது.
+At the same time, the father, who was blindfolded, attacked his son with a knife and his son was cut off when he tried to avoid the attack.
 
 ◼️
 
 [Data](articles/5bd9d90f.json)
+
+[Extended Data](ext_articles/5bd9d90f.ext.json)
 
 ---
 
@@ -86,23 +116,25 @@ India has emerged as a leader in Fintech innovation and Digital Public Infrastru
 
 ---
 
-### சிறுநீர் கழித்த பொலிஸ் மீது பொலிஸார் தாக்குதல்
+### Police attack on urinated police
 
 *2024-02-12 13:39:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/சிறுநீர்-கழித்த-பொலிஸ்-மீது-பொலிஸார்-தாக்குதல்/95-333068) · `ta`
 
-மரமொன்றில் சிறுநீர் கழிக்கச் சென்ற பொலிஸ் பரிசோதகரை கடுமையாக தாக்கியதாக பொலிஸ் பரிசோதகர் ஒருவர் முறைப்பாடு செய்துள்ளதாக பம்பலப்பிட்டி பொலிஸார் தெரிவிக்கின்றனர்.
+Bambalapitiya police say that a police inspector has lodged a complaint with a police inspector who went to urinate in a tree.
 
-பம்பலப்பிட்டி பொலிஸ் பரிசோதகர் சிற்றுண்டிச்சாலையின் பிரதான வாயிலுக்கு அருகில் உள்ள மரமொன்றின் அடியிலேயே சிறுநீர் கழிக்கச் சென்றுள்ளார்
+Bambalapitiya Police Inspector has gone to urinate under a tree near the main gate of the snack
 
-சுமார் 6 பேர் கொண்ட பொலிஸ் குழு தம்மை சுற்றி வளைத்து கடுமையாக தாக்கியதாகவும் அவர்களில் மூத்த பொலிஸ் அதிகாரி ஒருவரும் அடங்குவதாக பொலிஸ் பரிசோதகரின் முறைப்பாட்டில் தெரிவிக்கப்பட்டுள்ளதாக பொலிஸ் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+A senior police officer said that the police inspector had reported that a group of six policemen had been severely beaten and severely beaten.
 
-சிரேஷ்ட அதிகாரி தம்மை கடுமையாக குற்றம் சாட்டியதாகவும் பொலிஸ் பரிசோதகர் செய்த முறைப்பாட்டில் குறிப்பிட்டுள்ளார்.
+The police inspector stated in a complaint that the senior officer had been severely accused of him.
 
-இவர் கடந்த 9ம் திகதி இரவு  பொலிஸ் சிற்றுண்டிச்சாலையில் சாப்பிட்டுவிட்டு வெளியே வந்து சிறுநீர் கழிப்பதற்காக  மரத்தடிக்கு சென்றதாக இந்த பொலிஸ் இன்ஸ்பெக்டர் கொடுத்த முறைப்பாட்டில் கூறப்பட்டுள்ளது.
+According to the complaint lodged by the Inspector of Police, he went out to eat at the police station last night and went out to urinate.
 
 ◼️
 
 [Data](articles/42acac57.json)
+
+[Extended Data](ext_articles/42acac57.ext.json)
 
 ---
 
@@ -141,6 +173,8 @@ On Sunday (11 Feb.), India’s foreign ministry had announced that the Unified P
 ...
 
 [Data](articles/942001a6.json)
+
+[Extended Data](ext_articles/942001a6.ext.json)
 
 ---
 
@@ -1384,19 +1418,23 @@ He said that even the political opponents like Mahinda-Chandrika, Maithripala-Ma
 
 ---
 
-### ஆச்சரியங்கள் பல  உள்ளன;அநுர
+### There are many surprises; Anura
 
 *2024-02-12 07:43:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆச்சரியங்கள்-பல-உள்ளன-அநுர/175-333053) · `ta`
 
-தேசிய மக்கள் சக்தியின் (NPP)  இந்தியப் பயணத்தால் எதிர்க்கட்சிகள் வியப்படைந்துள்ளதாகக் கூறும் NPP தலைவர் அனுரகுமார திஸாநாயக்க, எதிர்காலத்தில் மேலும் பல ஆச்சரியமான நிகழ்வுகள் வெளிவர உள்ளதாக தெரிவித்துள்ளார்.
+NPP leader Anura Kumara Dissanayake, who claims that the opposition parties are amazed by the national journey of the National People's Power (NPP), said that many more surprising events in the future are coming out.
 
-அநுராதபுரம் மாவட்ட மகளிர் மாநாட்டில் கலந்து கொண்டு உரையாற்றிய அவர், தற்போது ஒரு சகாப்தம் ஆரம்பித்துள்ளதாகவும், அங்கு மேலும் மேலும் ஆச்சர்யங்கள் ஏற்படும் என்றும் கூறினார்.
+Speaking at the Anuradhapura District Women's Conference, she said that an era has now begun and there will be further surprise.
 
-"எங்கள் இந்திய விஜயம் உங்களுக்கு எப்படித் தெரியும்? ஐக்கிய மக்கள் சக்தி மூலமாகவோ, ஜனாதிபதி ரணில் மூலமாகவோ அல்லது மஹிந்த ராஜபக்ஷவின் மூலமாகவோ நீங்கள் தெரிந்துகொண்டீர்கள். நாங்கள் அமைதியாக இருந்தோம். அவர்கள் எங்கள் இந்திய பயணத்தை அறிந்து வியந்தனர். அவர்களால் மட்டுமே இந்தியாவை அவ்வாறு சமாளிக்க முடியும் என அவர்கள் நினைத்தார்கள்.  . மேலும் மேலும் இதுபோன்ற ஆச்சரியங்கள் நிகழும் ஒரு சகாப்தம் தொடங்கியுள்ளது," என்று அவர் கூறினார்.
+"How do you know our visit to India? You have learned by the United People's Power, by President Ranil or by Mahinda Rajapaksa. We were silent. They were surprised to learn our Indian journey. They thought that only they could deal with India.  . More and more surprises have begun, ”he said.
+
+Dissanayake said the opposition parties were amazed at this concept of the women's conference and that they never thought women's awareness would happen.
 
 ...
 
 [Data](articles/f9a2044a.json)
+
+[Extended Data](ext_articles/f9a2044a.ext.json)
 
 ---
 
@@ -1989,21 +2027,5 @@ One of the important issues that appears to have gone under the radar since the 
 [Data](articles/f7c747ad.json)
 
 [Extended Data](ext_articles/f7c747ad.ext.json)
-
----
-
-### Without a code of ethics and principles of morality, no meaning in social market economy
-
-*2024-02-12 00:09:21* · [`dailyftlk`](https://www.ft.lk/columns/Without-a-code-of-ethics-and-principles-of-morality-no-meaning-in-social-market-economy/4-758344) · `en`
-
-The prevention of the formation of monopolies is an important task of the Government under the social market economy ideals
-
-Social market economy, or in other words ordoliberalism, is not a new ideal for either of the two warring parties in Sri Lanka. Wickremesinghe, when he sought political power in 2015, promised the electorate that he would establish an economic system based on the social market economy ideology once elected to power. He made a distinction in his social market economy ideology calling it a ‘highly competitive social market economy’. This addition was necessary to take care of the important role played by the export of goods and services in creating wealth for people
-
-...
-
-[Data](articles/8ad682b2.json)
-
-[Extended Data](ext_articles/8ad682b2.ext.json)
 
 ---

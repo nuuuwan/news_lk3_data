@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 21:52:02**
+As of **2024-02-12 22:04:43**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 957
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,553 (100.0%) of 6,556 articles have been extended.
+6,556 (100.0%) of 6,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### குளவி கொட்டுக்கு இலக்கான 12 மாணவர்கள்
+### 12 students targeting wasps
 
 *2024-02-12 20:25:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குளவி-கொட்டுக்கு-இலக்கான-12-மாணவர்கள்/76-333089) · `ta`
 
-நல்லதண்ணி பொலிஸ் பிரிவில் உள்ள பொரஸ் பிரிவில் தனியார் வகுப்பு சென்ற மாணவ மாணவிகள் குளவி கொட்டுக்கு இலக்கான நிலையில் மஸ்கெலியா மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றனர்.
+Students who went to private class in the Porus Division of the Nalladhani Police Division have been admitted to the Maskeliya District Hospital as they are targeted for the wasp.
 
-நல்லதண்ணி தமிழ் வித்தியாலயத்தில் கல்வி பயிலும் 13 வயதுடைய மாணவ மாணவிகள் இன்று மாலை 6 மணிக்கு தனியார் வகுப்புக்கு சென்று திரும்பும் வேளையில் குளவி கொட்டுக்கு இலக்காகியுள்ளனர்.
+The 13 -year -old students who are studying at the Nalladhani Tamil Vidyalaya have returned to a private class at 6 pm today.
 
-இவ்வாறு தனியார் வகுப்புக்கு சென்று திரும்பும் வேளையில் 3 ஆண் மாணவர்கள் 9 பெண் மாணவியர்கள் எனவும் அனைவரும் 13 வயதுடையவர்கள் என்று நல்லதண்ணி பொலிஸ் நிலைய பொறுப்பதிகாரி சாந்த வீரசேகர தெரிவித்தார். R
+On his return to private classes, 3 male students are 9 female students and all are 13 years old, said Nalladhani Police Station Superintendent Shantha Weerasekara.. Remble
 
 ◼️
 
 [Data](articles/29428bab.json)
+
+[Extended Data](ext_articles/29428bab.ext.json)
 
 ---
 
@@ -158,6 +160,8 @@ The Centre for Environmental Justice (CEJ) and its Executive Director Hemantha W
 
 [Data](articles/8caa888e.json)
 
+[Extended Data](ext_articles/8caa888e.ext.json)
+
 ---
 
 ### Memorandum of Understanding to set up factories within the prison campus
@@ -198,19 +202,21 @@ Furthermore, the Director highlighted the risks associated with unregistered or 
 
 ---
 
-### ’අනුර ඩුමුක අමුල් අමුල්’
+### Anura Dumuka Amul
 
 *2024-02-12 19:45:31* · [`adalk`](https://www.ada.lk/breaking_news/’අනුර-ඩුමුක-අමුල්-අමුල්’/11-408040) · `si`
 
-අද ජනතා විමුක්ති පෙරමුණේ නායකයන් "එට්කා" කියන විට "ඉක්කා ගහන" තත්ත්වයට පත්ව ඇති බවත් මිල්කෝ සමාගම, ඉන්දියාවේ අමුල් සමාගමට විකුණා දැමීම ටෙන්ඩර් පටිපාටියක් අනුව සිදු නොකිරීම පමණක් ඔවුන්ට ප්‍රශ්නයක් වී ඇති බවත් පෙන්වා දුන් ජාතික නිදහස් පෙරමුණේ නායක, පාර්ලිමේන්තු මන්ත්‍රී වීමල් වීරවංශ මහතා ටෙන්ඩර් කර හෝ නොකර අපේ රටේ වටිනා සම්පත් කුණුකොල්ලයට විකුණා දැමීම නිවැරදි දැයි ප්‍රශ්න කර සිටියි.
+The Leader of the National Freedom Front Leader of the National Freedom Front, "Etka" has become "Etka" and said that they had been a problem for the tender procedure.It is questionable if it is right to sell valuable resources in our country without doing or sell valuables in our country.
 
-ඊයේ (11) සවස පිළියන්දල, සුවාරපොළ දී පැවති "9න් පසුව : ශ්‍රී ලංකාවේ ඉරණම?" යන මැයෙන් පැවති ජන හමුවක් අමතමින් ඒ මහතා මෙසේ පෙන්වා දුන්නේය.
+At Piliyandala, Healthcare at the Hemorial, Piliyandala afternoon after 9: Sri Lanka's destiny? "Addressing a public meeting held at a public meeting, he said:
 
-"මේ ආර්ථික අර්බුදය ඇතුළේ විදුලි බල මණ්ඩලය කොටස්වලට කඩලා විකුණන්නයි සූදානම. ඒක ගන්න ඇවිල්ලා තියෙන්නේ ටාටා, අදානි ඇතුළු මහා ඉන්දියානු සමාගම්වලින්. මේකෙන් අවසානයේදී වෙන්නේ ඉන්දියාව අතට අපේ රටේ විදුලිය නිපදවීමේ සහ බෙදාහැරීමේ බලය යන එක. ඊට පස්සේ මේ රටේ ජනතාවගේ ඡන්දයෙන් ඉන්දියාව අසතුටු අයෙකු බලයට ආවොත් ඔවුන්ට මේ 'විදුලි බලය' සමඟ ලැබෙන 'හයියෙන්' ඒ පාලකයාව එළවා දමන්න හැකියාව ලැබෙනවා.
+"Inside this economic crisis, the power board breaks into shares. It's come to get it from the big Indian companies including TATA, Aviani. This is at the end to develop electricity and distribution of electricity in our country to the hand of India. Then, if India uniform from the people of this country, they will be able to chase the ruler of 'louder' with this 'power'.
 
 ...
 
 [Data](articles/3fed5ae7.json)
+
+[Extended Data](ext_articles/3fed5ae7.ext.json)
 
 ---
 

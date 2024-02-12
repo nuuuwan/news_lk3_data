@@ -1,36 +1,136 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 07:31:34**
+As of **2024-02-12 08:02:38**
 
 ## Newspaper Stats
 
-*Scraped **6,364** Articles*
+*Scraped **6,383** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 77
+colombotelegraphcom | 78
 bbccomsinhala | 87
 dbsjeyarajcom | 146
 economynextcom | 323
-islandlk | 334
+islandlk | 344
 dailyftlk | 348
 newsfirstlk | 363
 adalk | 533
-tamilmirrorlk | 772
+tamilmirrorlk | 777
 adaderanalk | 784
 virakesarilk | 794
-adaderanasinhalalk | 876
+adaderanasinhalalk | 879
 dailymirrorlk | 927
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,364 (100.0%) of 6,364 articles have been extended.
+6,380 (100.0%) of 6,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### இன்னும் பல ஆச்சரியங்கள் வெளிவரவுள்ளன;அநுர
+
+*2024-02-12 07:43:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்னும்-பல-ஆச்சரியங்கள்-வெளிவரவுள்ளன-அநுர/175-333053) · `ta`
+
+NPP யின் இந்தியப் பயணத்தால் எதிர்க்கட்சிகள் வியப்படைந்துள்ளதாகக் கூறும் NPP தலைவர் அனுரகுமார திஸாநாயக்க, எதிர்காலத்தில் மேலும் பல ஆச்சரியமான நிகழ்வுகள் வெளிவர உள்ளதாக தெரிவித்துள்ளார்.
+
+அநுராதபுரம் மாவட்ட மகளிர் மாநாட்டில் கலந்து கொண்டு உரையாற்றிய அவர், தற்போது ஒரு சகாப்தம் ஆரம்பித்துள்ளதாகவும், அங்கு மேலும் மேலும் ஆச்சர்யங்கள் ஏற்படும் என்றும் கூறினார்.
+
+"எங்கள் இந்திய விஜயம் உங்களுக்கு எப்படித் தெரியும்? ஐக்கிய மக்கள் சக்தி மூலமாகவோ, ஜனாதிபதி ரணில் மூலமாகவோ அல்லது மஹிந்த ராஜபக்ஷவின் மூலமாகவோ நீங்கள் தெரிந்துகொண்டீர்கள். நாங்கள் அமைதியாக இருந்தோம். அவர்கள் எங்கள் இந்திய பயணத்தை அறிந்து வியந்தனர். அவர்களால் மட்டுமே இந்தியாவை அவ்வாறு சமாளிக்க முடியும் என அவர்கள் நினைத்தார்கள்.  . மேலும் மேலும் இதுபோன்ற ஆச்சரியங்கள் நிகழும் ஒரு சகாப்தம் தொடங்கியுள்ளது," என்று அவர் கூறினார்.
+
+பெண்கள் மாநாட்டின் இந்த கருத்தாக்கம் குறித்து எதிர்க்கட்சிகளும் வியப்படைந்துள்ளதாகத் தெரிவித்த திஸாநாயக்க, பெண்களின் விழிப்புணர்ச்சி இவ்வாறாக ஏற்படும் என அவர்கள் ஒருபோதும் நினைக்கவில்லை என்றும் கூறினார்.
+
+...
+
+[Data](articles/4a48ecd9.json)
+
+---
+
+### எம்.பி வீரக்கொடியிடம் மன்னிப்பு கேட்குமாறு பரிந்துரை
+
+*2024-02-12 07:35:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-வீரக்கொடியிடம்-மன்னிப்பு-கேட்குமாறு-பரிந்துரை/175-333052) · `ta`
+
+பாராளுமன்ற வளாகத்தில் நடைபெற்ற குழுக் கூட்டத்தின் போது, ​​பாராளுமன்ற உறுப்பினர் சந்திம வீரக்கொடியை அச்சுறுத்தும் வகையில் கருத்து தெரிவித்த பாதுகாப்புச் செயலர் கமல் குணரத்ன மற்றும் இராணுவத் தளபதி விகும் லியனகே ஆகியோர் பாராளுமன்ற உறுப்பினர் சந்திம வீரக்கொடியிடம் மன்னிப்புக் கேட்க வேண்டும் என்று பாராளுமன்றத்தின் சிறப்புரிமைக் குழு பரிந்துரை செய்துள்ளது.
+
+கடந்த ஒக்டோபர் மாதம் 5, 2023 அன்று பாராளுமன்ற உறுப்பினர் வீரக்கொடி பாராளுமன்ற உறுப்பினர் சரத் வீரசேகர தலைமையில் நடைபெற்ற தேசிய பாதுகாப்பு தொடர்பான துறைசார் கண்காணிப்புக் குழுக் கூட்டத்தில் பாதுகாப்புச் செயலாளரும் இராணுவத் தளபதியும் தம்மை அச்சுறுத்தியதாக பாராளுமன்ற உறுப்பினர் வீரக்கொடி ஒக்டோபரில் எழுப்பிய சிறப்புரிமை விவகாரம் தொடர்பில் ஆராய்ந்த பின்னர் சிறப்புரிமைக் குழு இந்த பரிந்துரையை வழங்கியுள்ளது.
+
+...
+
+[Data](articles/412d257c.json)
+
+---
+
+### මෛත්‍රී ඉන්දියා යයි
+
+*2024-02-12 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193267) · `si`
+
+හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා අද (12) අලුයම ඉන්දියාව බලා පිටත්ව ගොස් තිබේ.
+
+අද අලුයම 2.50ට ඉන්දීය ගුවන් සේවයට අයත් ඒ.අයි 284 දරණ ගුවන් යානයෙන් නවදිල්ලිය බලා පිටව ගොස් ඇත.
+
+ඉන්දියාවේ විශේෂ ආරාධනයකට අනුව හිටපු ජනාධිපතිවරයා ඉන්දියාවේ සංචාරයක නිරත වන අතර ඉන් පසු ඔහු අමෙරිකාව බලා පිටත්ව යාමට නියමිතය.
+
+මේ අතර, ශ්‍රී ලංකා නිදහස් පක්ෂය ප්‍රමුඛ නව සන්ධානය වන ශ්‍රී ලංකා පොදු ජන එක්සත් පෙරමුණේ නව නිලධාරී මණ්ඩලය පත්කර ගැනීම හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගේ විදෙස් සංචාරයෙන් අනතුරුව සිදුවනු ඇති බව දේශපාලන ආරංචි මාර්ග සඳහන් කරයි.
+
+ඉදිරි ජනාධිපතිවරණය වෙනුවෙන් ශ්‍රී ලංකා පොදුජන එක්සත් පෙරමුණ යටතේ නව සන්ධානයක් බිහිකිරීමට පියවර ගෙන තිබේ.
+
+ඒ අනුව මෙහි ඉදිරි වැඩකටයුතු සඳහා නව නිලධාරී මණ්ඩලයක් පත් කිරීමට නියමිතය.
+
+ශ්‍රී ලංකා පොදුජන එක්සත් පෙරමුණේ මහලේකම් ධුරය ලසන්ත අලගියවන්න මහතා විසින් දරණු ලබන අතර එම ධුරයේ සිට සියලු තනතුරු වෙනස් වන බව වාර්තා වේ.
+
+කෙසේවෙතත් මෙම කටයුතු හිටපු ජනාධිපතිවරයාගේ විදෙස් සංචාරවලින් අනතුරුව සිදුවනු ඇති බව සඳහන්ය.
+
+◼️
+
+[Data](articles/63967500.json)
+
+---
+
+### Shooting in Meegoda Economic Center
+
+*2024-02-12 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193266) · `si`
+
+Our correspondent said that the shooting had taken place yesterday (11).
+
+A woman was injured and a woman was injured and the robbers had fled.
+
+◼️
+
+[Data](articles/5ef58bf2.json)
+
+[Extended Data](ext_articles/5ef58bf2.ext.json)
+
+---
+
+### Suspect's police sergeant dies
+
+*2024-02-12 06:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193265) · `si`
+
+The police sergeant who was still receiving treatment at the Batasealapola area in Bethalapola area in Batawatha.
+
+The police officer had died yesterday (11) while receiving treatment at the Colombo National Hospital.
+
+The suspect has attempted to have the firearm of the police officer due to a conflict in the Malvathathhiripitiya Police Station to arrest a suspect in the police station last Saturday.
+
+The suspect was shot dead by the firearm and the suspect had taken away officials.
+
+The police officer who was injured in the shooting was admitted to the Gampaha National Hospital for further treatment.
+
+The police sergeant was killed and he was a 51 year old resident of the Lunugama area.
+
+Meanwhile, the main suspect, the main suspect in connection with the incident has been arrested by the STF in connection with the investigation into the incident.
+
+...
+
+[Data](articles/3fd7f270.json)
+
+[Extended Data](ext_articles/3fd7f270.ext.json)
+
+---
 
 ### A change in the weather
 
@@ -67,6 +167,26 @@ The MP had told Parliament that he had mentioned at the particular Committee mee
 [Data](articles/00e5a0dd.json)
 
 [Extended Data](ext_articles/00e5a0dd.ext.json)
+
+---
+
+### Boy killed
+
+*2024-02-12 05:00:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-மோதி-சிறுவன்-பலி/175-333051) · `ta`
+
+A boy was killed when a train crashed yesterday in Trincomalee - Thambalakamam area.
+
+The boy was killed in a train traveling from Colombo to Trincomalee.
+
+The boy who was fishing with friends near the bridge in the Thambalakamam area has died in the accident.
+
+Naleem Muhammad Sabrid (age 14), a student of Grade 9 of Mullipothana, Unit - 07.. (A)
+
+◼️
+
+[Data](articles/ec1eb270.json)
+
+[Extended Data](ext_articles/ec1eb270.ext.json)
 
 ---
 
@@ -111,6 +231,42 @@ Vavuniya High Court Judge Manikkavasagam Ilancheliyan who delivered the verdict 
 [Data](articles/4d9898c3.json)
 
 [Extended Data](ext_articles/4d9898c3.ext.json)
+
+---
+
+### The boy's death tightened on the neck
+
+*2024-02-12 03:57:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கயிறு-கழுத்தில்-இறுகி-சிறுவன்-மரணம்/175-333049) · `ta`
+
+A 12 -year -old boy, who was playing a rope in a tea garden near the house, was killed in a rope neck.
+
+The incident took place yesterday afternoon in the Magastota area of the Nuwara Eliya Police Division.
+
+The body of the deceased has been taken to the Nuwara Eliya District Hospital for autopsy after the death of the Nuwara Eliya District Judge. (A)
+
+◼️
+
+[Data](articles/73e83117.json)
+
+[Extended Data](ext_articles/73e83117.ext.json)
+
+---
+
+### President aid for child treatment
+
+*2024-02-12 03:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்-சிகிச்சைகளுக்கு-ஜனாதிபதி-உதவி/175-333048) · `ta`
+
+President Ranil Wickremesinghe has issued a directive from the President's Fund to provide financial assistance from the President's Fund for Liver Transplant Surgery at the Ragama Teaching Hospital and the hearing at the Sri Jayawardenapura Hospital.
+
+Accordingly, the funds will be given to the children under the age of 16 at the Ragama Teaching Hospital for a liver transplant before and after its liver transplant.
+
+Accordingly, for those who complete the relevant conditions, this surgery will be paid Rs 10 lakh from the Presidential Fund from January 1.. (A)
+
+◼️
+
+[Data](articles/d0beaa40.json)
+
+[Extended Data](ext_articles/d0beaa40.ext.json)
 
 ---
 
@@ -584,6 +740,66 @@ Sri Lanka's innings was characterized by two century partnerships, first between
 
 ---
 
+### Yamaha and AMW expect import ban on motorcycles will be lifted with economy stabilising
+
+*2024-02-11 22:09:00* · [`islandlk`](http://island.lk/yamaha-and-amw-expect-import-ban-on-motorcycles-will-be-lifted-with-economy-stabilising/) · `en`
+
+Associated Motorways (Private) Limited (AMW), the official distributor for Yamaha Motorcycles, Service and Parts recently hosted a dealer meeting in Colombo. The key personnel gathered at the event included Andre Bonthyus, the newly appointed Group Managing Director of AMW.
+
+Addressing the audience which comprised more than 200 Island-wide Yamaha dealers, Bonthyus said that he looks forward to growing the organization and emphasized on AMW’s return to the market.
+
+Meanwhile, Kumika Imai, Executive General Manager – Yamaha Motor Corporation Japan, who is handling over 140 countries where Yamaha is present, stated that she had chosen to visit Sri Lanka due to the significance and value placed on the country and its market.
+
+Notably, they mentioned the fact that automotive imports to Sri Lanka which have come to a halt due to the foreign exchange crisis, would get a respite this year, as the country’s macroeconomic indicators are getting into a better shape after four years.
+
+...
+
+[Data](articles/1d15959f.json)
+
+[Extended Data](ext_articles/1d15959f.ext.json)
+
+---
+
+### Chicken-feed costs to decline as soybean prices in North and South America set to fall on bumper harvest
+
+*2024-02-11 22:09:00* · [`islandlk`](http://island.lk/chicken-feed-costs-to-decline-as-soybean-prices-in-north-and-south-america-set-to-fall-on-bumper-harvest/) · `en`
+
+A potential bumper harvest of soybean in South America and the USA in 2024 would see a significant drop in soybean import prices, and it could help countries like Sri Lanka that imports the commodity from the U.S.A. as a key poultry feed, Jim Sutter, CEO at U.S. Soybean Export Council (USSEC) told The Island recently.
+
+“Apart from that, as we now directly collaborate with Sri Lankan poultry farmers, they are exposed to the latest technologies that enhance productivity. This would also help bring down the price of chicken in Sri Lanka,” Jim Sutter said.
+
+Meanwhile, USSEC Chairman, Stan Born said that soybeans Sri Lanka imports from the USA have intrinsic benefits that soy from other sources can’t give.
+
+“We provide a high-quality product that will put on flesh faster and more economically. Quicker turnover of animals should have a positive impact on price and a positive impact on availability,” he said.
+
+...
+
+[Data](articles/59ca5f79.json)
+
+[Extended Data](ext_articles/59ca5f79.ext.json)
+
+---
+
+### Western Australia Premier discusses RE and agri development with President
+
+*2024-02-11 22:09:00* · [`islandlk`](http://island.lk/western-australia-premier-discusses-re-and-agri-development-with-president/) · `en`
+
+At the invitation of the India Foundation and the Australian Government, President Ranil Wickremesinghe was engaged in an official visit to Australia, to attend the Seventh Indian Ocean Conference taking place from February 9th to 10th in Perth, Australia.
+
+President Wickremesinghe delivered the keynote address at the conference on Feb 9, focusing on the theme “Towards a Stable and Sustainable Indian Ocean”.
+
+On this occasion, Premier Roger Cook of Western Australia met with President Ranil Wickremesinghe as part of the President’s official itinerary in Perth for the Indian Ocean Conference.
+
+During the discussions, the Premier conveyed his state’s keen interest in renewable energy (RE) and agricultural development, along with establishing direct aviation connections between Sri Lanka and Perth. He emphasized Perth’s strategic location on the Indian Ocean as an opportunity for South Asian nations to foster closer ties with the broader Australian region.
+
+...
+
+[Data](articles/6492a8b4.json)
+
+[Extended Data](ext_articles/6492a8b4.ext.json)
+
+---
+
 ### 7 people who secretly registered luxury vehicles
 
 *2024-02-11 22:06:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொகுசு-வாகனங்களை-இரகசியமாக-பதிவு-செய்த-7-பேர்/175-333046) · `ta`
@@ -905,6 +1121,90 @@ Railway employees are involved in trying to control this. The cause of the fire 
 [Data](articles/3268c638.json)
 
 [Extended Data](ext_articles/3268c638.ext.json)
+
+---
+
+### Without A Code Of Ethics & Principles Of morality, No Meaning In Social Market Economy
+
+*2024-02-11 20:05:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/without-a-code-of-ethics-principles-of-morality-no-meaning-in-social-market-economy/) · `en`
+
+Both the President Ranil Wickremesinghe and the Opposition Leader Sajith Premadasa have declared that the guiding principle of their economic management is the ideal known as the social market economy. This is the economic ideology that was followed by Germany after the World War II since its leaders did not want to go by unbridled free capitalism or state-controlled communism to rebuild the war-ravaged country. It was believed that neither system cared for people who should be the beneficiaries of the economic advancement.
+
+...
+
+[Data](articles/3d7e109b.json)
+
+[Extended Data](ext_articles/3d7e109b.ext.json)
+
+---
+
+### Hemas Consumer Brands wins big at SLIM Brand Excellence Awards 2023
+
+*2024-02-11 19:53:00* · [`islandlk`](http://island.lk/hemas-consumer-brands-wins-big-at-slim-brand-excellence-awards-2023/) · `en`
+
+Hemas Consumer Brands took centre-stage at the highly-anticipated SLIM Brand Excellence Awards 2023, clinching an impressive 5 awards across 3 of its key brands – Baby Cheramy, Fems and Vivya, in the highly-coveted categories of ‘Overall Product Brand of the Year’, ‘Best New Entrant Brand’ and ‘CSR Brand of the Year’. Encompassing diverse categories, these awards signify the perfect alignment of Hemas Consumer Brands to its core values of passion for customers – driven by innovation and pursuit of excellence. This recognition from amongst the best of the best brands in Sri Lanka reflects how Hemas Consumer Brands stays true to its purpose of “empowering families to aspire for a better tomorrow”.
+
+...
+
+[Data](articles/184783b6.json)
+
+[Extended Data](ext_articles/184783b6.ext.json)
+
+---
+
+### Sanasa Life Insurance launches eight training centres across the island
+
+*2024-02-11 19:53:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-launches-eight-training-centres-across-the-island/) · `en`
+
+Sanasa Life Insurance Company PLC has commenced a programme to establish training centres in all parts of the country to improve the knowledge, attitude and skills of its human resources. The first such centre was recently declared open in Anuradhapura and another eight centres are planned to be established in the country. The top management of the company including Sanasa Leader, Dr. P. A. Kiriwandeniya, the Board of Directors, Managing Director Indika Kiriwandeniya, Chairman, Dr. H. J. S. K. Wickramaratne, Sanasa Life Insurance Chief Executive Officer (CEO) Ivan Nicholas, and Chief Business Officer Kennedy J. Michael were present during the opening ceremony of Anuradhapura Centre.
+
+...
+
+[Data](articles/98da37f1.json)
+
+[Extended Data](ext_articles/98da37f1.ext.json)
+
+---
+
+### Kishu Gomes appointed chairman of Exterminators PLC
+
+*2024-02-11 19:53:00* · [`islandlk`](http://island.lk/kishu-gomes-appointed-chairman-of-exterminators-plc/) · `en`
+
+Exterminators PLC has announced the appointment of Dr. Kishu Gomes as its chairman with effect from February 8, 2024. Dr. Kishu Gomes is a corporate leader with an impressive track record, having held leadership positions in both multinational corporations and local conglomerates.
+
+“I’m very excited about this appointment and would dedicate myself in driving the company forward in respect of performance and compliance in a sustainable manner, adding value not only to the shareholders of the company but to the country as whole via an industry that has tremendous growth potential within and beyond Sri-Lanka,” Dr. Gomes said.
+
+Hemas Consumer Brands wins big at SLIM Brand Excellence Awards 2023
+
+Sanasa Life Insurance launches eight training centres across the island
+
+Exterminators PLC to transform pest management industry in South Asia
+
+Exterminators PLC appoints Jacob Carel Laubscher as an independent director
+
+...
+
+[Data](articles/b6b86b50.json)
+
+[Extended Data](ext_articles/b6b86b50.ext.json)
+
+---
+
+### Chrishan Fernando joins Netsys Solutions’ Board
+
+*2024-02-11 19:53:00* · [`islandlk`](http://island.lk/chrishan-fernando-joins-netsys-solutions-board/) · `en`
+
+Leading ICT veteran Chrishan Fernando has joined the Board of Netsys Solutions from February. Chrishan is an experienced IT leader with over 25 years of experience working for leading Global IT Companies. He started his international career with Compaq Computer in 1997 and was based in Singapore covering South Asia markets. Later with the merger of HP, he moved back to Sri Lanka, his country of birth, and started the HP office in Sri Lanka.
+
+Head hunted by IBM in 2009, to be the Country General Manager for Sri Lanka’s biggest IT company, he led the introduction of new lines of businesses such as software and IBM’s Global Business Services to the Sri Lanka market. At Dell Technologies, he was the Country Manager for Sri Lanka and Maldives. Under his leadership, Dell reached No 1 in market share for consumer and commercial business in Sri Lanka.
+
+Hemas Consumer Brands wins big at SLIM Brand Excellence Awards 2023
+
+...
+
+[Data](articles/ee608246.json)
+
+[Extended Data](ext_articles/ee608246.ext.json)
 
 ---
 
@@ -1809,345 +2109,5 @@ Vijitha Herath said that the visit to the Indian government and the 10-day visit
 [Data](articles/3b8c96ac.json)
 
 [Extended Data](ext_articles/3b8c96ac.ext.json)
-
----
-
-### Contraband including mobile phones, SIM cards recovered at Boossa Prison
-
-*2024-02-11 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97181/contraband-including-mobile-phones-sim-cards-recovered-at-boossa-prison-) · `en`
-
-Several contraband items including three mobile phones were found inside the Boossa Prison during a special search operation conducted by the Police Special Task Force (STF).
-
-Accordingly, three mobile phones, including a smartphone, four SIM cards, one memory chip, two phone chargers, two data cables and a set of earphones carefully hidden in a hole dug underground in the prison cells were recovered by the STF personnel during the raid carried out in Wards ‘A’ and ‘D’ of the prison on Saturday (10 Feb.).
-
-Wards ‘A’ and ‘D’ of the prison are reportedly used to detain criminals involved in organised crime.
-
-◼️
-
-[Data](articles/5f2039cb.json)
-
-[Extended Data](ext_articles/5f2039cb.ext.json)
-
----
-
-### Motorcycle used in Negombo
-
-*2024-02-11 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193245) · `si`
-
-Investigations have recovered the motorcycle used in the Meekara in Negombo.
-
-At the Galkanda junction, Negombo, a person had shouting around 7 pm yesterday.
-
-According to the police, two persons who had arrived in another motorcycle have been shot with a motorcycle targeting a motorbike in front of a shop in front of a motorcycle.
-
-The shooting is used in a millimeter of 9 millimeter firearm.
-
-The victim was taken to the Negombo General Hospital and he had died when he was taken to the hospital.
-
-The deceased is a 60 year old resident of the Kirana area.
-
-The two suspects were fled by after the shooting, while the Negombo Division Criminal Investigation Division has launched an operation.
-
-The motorquark that came to shooting was amazing at the Hospitals in the Newhena road, the investigation was found in the Newhena road.
-
-A jacket and a helmet for the crime with the crime have been taken into custody and a helmet.
-
-◼️
-
-[Data](articles/51d382b7.json)
-
-[Extended Data](ext_articles/51d382b7.ext.json)
-
----
-
-### Vote To Establish Democracy Instead Of The Same Political Cults At The Next Election
-
-*2024-02-11 12:37:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/vote-to-establish-democracy-instead-of-the-same-political-cults-at-the-next-election/) · `en`
-
-As Sri Lanka prepares for another circus to elect the same set of crooks who managed to skirt the law even after driving the nation over a cliff, it is disconcerting that no one has been prosecuted even for the blatant actions that contributed to the country’s economic downturn. In the midst of economic challenges and accusations of mismanagement, the political elite appears poised for another comeback by strategizing a new set of political maneuvers indifferent to its consequences.
-
-...
-
-[Data](articles/88c3b131.json)
-
-[Extended Data](ext_articles/88c3b131.ext.json)
-
----
-
-### Lover's arrest
-
-*2024-02-11 12:26:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/யன்னல்-விவகாரம்-காதலன்-கைது/93-333009) · `ta`
-
-He said that he had opened his sleeping room for his home night.
-
-Accordingly, the boyfriend, who went to his little girlfriend's house on Thursday night (08), abused the girlfriend.
-
-The girl who lives in the area has been in love with a 25 -year -old young man living in a neighboring house.
-
-Investigations have been found that she was sexually abused by the girl's wishes.
-
-He told his mother that this was the case of her wishes. In this regard, the boy was arrested on the basis of a complaint made by the police the next day (09).
-
-Bibila police said that the girl had been admitted to the Moneragala District Hospital for medical examination and had taken steps to bring the youth to the Bibila Magistrate's Court.
-
-◼️
-
-[Data](articles/69631436.json)
-
-[Extended Data](ext_articles/69631436.ext.json)
-
----
-
-### Myanmar’s military government enforces conscription law
-
-*2024-02-11 12:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Myanmars-military-government-enforces-conscription-law/107-276765) · `en`
-
-Myanmar , Feb 11 (BBC) - The government in Myanmar has announced compulsory military service for all young men and women as the country's turmoil continues.
-
-The army seized power from the civilian government in a coup in February 2021.
-
-But in recent months it has been defeated in a series of battles with ethnic militias and anti-coup fighters.
-
-The move announced on Saturday will require all men aged 18-35, and women aged 18-27, to serve at least two years under military command.
-
-No further details have been released. But in a statement, the junta said its defence ministry would "release necessary bylaws, procedures, announcements orders, notifications and instructions".
-
-The military has faced a series of humiliating defeats in recent months.
-
-At the end of last year, three ethnic insurgent armies in Shan State - supported by other armed groups that oppose the government - captured border crossings and roads carrying most of the overland trade with China.
-
-...
-
-[Data](articles/253ced63.json)
-
-[Extended Data](ext_articles/253ced63.ext.json)
-
----
-
-### Largest doctoral doctorate in Britain
-
-*2024-02-11 12:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193244) · `si`
-
-At the age of 12, a child who entered the university has become the youngest doctoral student of England.
-
-He is known as the human calculation, if yasha asley is the human calculation.
-
-He has completed his doctorate on the subject of Applied Mathematics.
-
-The Yasha asley has been appointed as a 22-year-old star physicist.
-
-It is reported that he is expected to employ artist intelligence (AI) and data science.
-
-Yasha asley is also fluent in French and Persian language.
-
-In the early days of Yasha asley schools, his elementary school teacher cannot meet Asley's education needs in the school.
-
-Accordingly, the teacher has instructed the Asley to come to the University twice twice a week, as it was only three days a week.
-
-Yasha Asley is considered the most youngest physician in Britain, but he is not the most youngest person in the world.
-
-Thama Mohamed was in 19 years of age in 2016.
-
-Imran Nasam completed a doctorate on astronomical science at the age of 22 years last year.
-
-◼️
-
-[Data](articles/43225ba4.json)
-
-[Extended Data](ext_articles/43225ba4.ext.json)
-
----
-
-### SLFP will support proposal to abolish Executive Presidency – Maithripala
-
-*2024-02-11 12:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97180/slfp-will-support-proposal-to-abolish-executive-presidency-maithripala-) · `en`
-
-Leader of the Sri Lanka Freedom Party (SLFP) Maithripala Sirisena has assured the party’s support towards a proposal to abolish the Executive Presidency.
-
-Speaking at an SLFP media conference themed ‘We stand for freedom’ (‘Nidahasa Wenuwen Api’), the former President revealed that as per information received, measures are underway to present such a proposal soon.
-
-Meanwhile, Opposition Leader Sajith Premadasa, however, has declared that this is not the right time to abolish the Executive Presidency.
-
-◼️
-
-[Data](articles/32feb195.json)
-
-[Extended Data](ext_articles/32feb195.ext.json)
-
----
-
-### Blood donation camp for late Ven. Bellanwila Wimalarathana Thera
-
-*2024-02-11 12:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Blood-donation-camp-for-late-Ven-Bellanwila-Wimalarathana-Thera/110-276764) · `en`
-
-A blood donation camp, organized under the guidance of Ven. Bellanwila Dhammarathana Thero in commemoration of the 6th Remembrance Worship for the late Professor Ven. Bellanwila Wimalarathana Anunayake Thero took place today at the Bellanwila Rajamaha Viharaya.Pix by Kithsiri De Mel
-
-◼️
-
-[Data](articles/6c9b499c.json)
-
-[Extended Data](ext_articles/6c9b499c.ext.json)
-
----
-
-### Sri Lanka cannot depend on other nations for ever: Ruwan
-
-*2024-02-11 11:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-cannot-depend-on-other-nations-for-ever-Ruwan/108-276763) · `en`
-
-Gampaha, Feb 11 (Daily Mirror) - Sri Lanka cannot depend on other countries every day and it is high time the nation stands up on its own with pride, UNP Deputy Leader Ruwan Wijewardene said over the weekend.
-
-"Sri Lanka cannot borrow from other nations everyday and follow their instructions. It is high time the nation stands up by itself. President Ranil Wickremesinghe and the government are striving to see that Sri Lanka achieves this status," Wijewardene told the UNP Gampaha District convention.
-
-"The time has come for the people of Sri Lanka to make the right decision on behalf of their nation," he added.
-
-...
-
-[Data](articles/2cd9a41a.json)
-
-[Extended Data](ext_articles/2cd9a41a.ext.json)
-
----
-
-### Dreaminantha loses the tournament?
-
-*2024-02-11 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193243) · `si`
-
-According to sources, the ODI tournament with Afghanistan has lost the one day tournament due to a disorder.
-
-It is reported that Asapha Fernando has been replaced to the Sri Lankan squad.
-
-The tourism Afghan group and Sri Lanka will be held at the Pallekele Stadium today (11).
-
-Sri Lanka won the first match of the three-day cricket tournament with Afghanistan and Sri Lanka by 42 runs.
-
-Accordingly, Sri Lanka is a drop of the 3-match tournament.
-
-◼️
-
-[Data](articles/83140fde.json)
-
-[Extended Data](ext_articles/83140fde.ext.json)
-
----
-
-### A gang allegedly arrested on rent basis
-
-*2024-02-11 11:44:16* · [`adalk`](https://www.ada.lk/breaking_news/කුලී-පදනම-මත-වාහන-ගෙන-කොටස්-කරන-කල්ලියක්-දැලේ/11-408007) · `si`
-
-The Gampaha Divisional Corrupation Investigation Department states that a gang leader and a colleague have been arrested by vehicles and vehicles from lease.
-
-Police said that the police were able to trap the Vish Leader and the other while they were part of a vehicle in the Nittambuwa area.
-
-The suspects say that the suspects are married to the Nelunadeniya and Niei areas and are revealed that the suspect had already served in the Science Department Examinations.. Police have received complaints that they had been fraudulent claiming that they would fertilize fertilizer in various parts of the island.
-
-According to the information revealed in question, the GPS technology was removed and taken to the solo area and took the GPS technology to the Nittamba..
-
-The car belonging to a resident of Kandy area has been submitted to a taxi area in Anuradhapura.
-
-...
-
-[Data](articles/a122932f.json)
-
-[Extended Data](ext_articles/a122932f.ext.json)
-
----
-
-### Sri Lanka’s workers’ remittances exceed USD 400 mn in January 2024
-
-*2024-02-11 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97179/sri-lankas-workers-remittances-exceed-usd-400-mn-in-january-2024-) · `en`
-
-Sri Lanka has recorded an 11.4% increase in workers’ remittances in January 2024, compared to those earned in January 2023.
-
-According to Minister of Labour and Foreign Employment, Manusha Nanayakkara, Sri Lanka earned a total of USD 487.6 million in foreign remittances in January.
-
-As per data gathered by the Central Bank of Sri Lanka, Sri Lanka’s foreign remittances earned between January – December 2023 amounted to USD 5,969.6 million.
-
-◼️
-
-[Data](articles/f1d27c92.json)
-
-[Extended Data](ext_articles/f1d27c92.ext.json)
-
----
-
-### Panwila man arrested for trying to poison Azaleh
-
-*2024-02-11 11:30:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அசேல-வுக்கு-நஞ்சூட்ட-முயன்ற-பன்வில-நபர்-கைது/175-333005) · `ta`
-
-Police say the main suspect who allegedly tried to poison the elephant named Acela, who was under the care of the Kadirgamam Sri Abhinavarama Viharaya, has been arrested for nearly six months.
-
-It has been revealed that the person has tried to give the elephant to the elephant in the watermelon.
-
-The incident was revealed during the investigation that the suspect was arrested by the Kandy police for some other incidents.. In this regard, the Kadirgamam police were notified. Kadirgamam police said that the authorities had sent the team and brought the suspect.
-
-◼️
-
-[Data](articles/ae62da1f.json)
-
-[Extended Data](ext_articles/ae62da1f.ext.json)
-
----
-
-### Kill
-
-*2024-02-11 11:25:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்கொழும்பில்-ஒருவர்-சுட்டு-கொலை/175-333004) · `ta`
-
-Two unidentified armed men, who arrived at the Calconda junction of the Negombo Calconda junction on Saturday (10), fired the man and fled the man.
-
-The man, who was working at a hotel in the Baldi junction in Negombo, was shot dead by gunmen while returning to Minuwangoda Road from Calkanda junction.
-
-The 62 -year -old man, Rex Salkadu, who was killed in the shooting, lives with his family in Negombo.
-
-The body of the deceased has been placed at the Negombo Hospital and further investigations are being carried out by the Negombo Police.
-
-◼️
-
-[Data](articles/9905cba2.json)
-
-[Extended Data](ext_articles/9905cba2.ext.json)
-
----
-
-### Residential killed in robbery
-
-*2024-02-11 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193242) · `si`
-
-A robber who arrived at a house in the Yagodamulla area in Minuwangoda has died of an assault who had been involved in the house.
-
-A group of three robbers have entered the house with the objective of robbery of property around 4 am today.
-
-It said that one of them had been attacked with a sharp object by a person who stayed at home.
-
-The two robbers have fled and the Minuwangoda police are conducting further investigations.
-
-◼️
-
-[Data](articles/4c52f9e5.json)
-
-[Extended Data](ext_articles/4c52f9e5.ext.json)
-
----
-
-### Child genius who went to university at 12 becomes ‘Britain’s youngest PhD holder’
-
-*2024-02-11 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97178/child-genius-who-went-to-university-at-12-becomes-britains-youngest-phd-holder) · `en`
-
-A child genius who attended university aged just 12 years old has now the youngest person in Britain to hold a PhD.
-
-Yasha Asley received his doctorate in applied mathematics at the University of Leicester earlier this month, aged 21. It is believed he is now the youngest person in Britain to hold a PhD, surpassing a 22-year-old astrophysicist.
-
-Yasha, from Leicester, started attending his local university before he was even a teenager - accompanied by dad Moussa Asley, 61, who quit his job as an accountant to support his son.
-
-Yasha - once dubbed the “human calculator” is keeping an open mind about what the future holds, saying: “I’m looking to maybe work in AI field or data mining, but I really don’t know yet.”
-
-On receiving the PhD he said: “It feels amazing to have achieved this feat. I am very happy and would like to thank all my lecturers for their help.
-
-“It was not my intention to go to uni so early but now that I have reached this stage I am elated that it worked out well for me.”
-
-...
-
-[Data](articles/fc07653f.json)
-
-[Extended Data](ext_articles/fc07653f.ext.json)
 
 ---

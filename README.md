@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 08:02:38**
+As of **2024-02-12 08:17:16**
 
 ## Newspaper Stats
 
@@ -26,67 +26,79 @@ dailymirrorlk | 927
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,380 (100.0%) of 6,383 articles have been extended.
+6,383 (100.0%) of 6,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
 
-### இன்னும் பல ஆச்சரியங்கள் வெளிவரவுள்ளன;அநுர
+### There are many more surprises revealed; Anura
 
 *2024-02-12 07:43:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்னும்-பல-ஆச்சரியங்கள்-வெளிவரவுள்ளன-அநுர/175-333053) · `ta`
 
-NPP யின் இந்தியப் பயணத்தால் எதிர்க்கட்சிகள் வியப்படைந்துள்ளதாகக் கூறும் NPP தலைவர் அனுரகுமார திஸாநாயக்க, எதிர்காலத்தில் மேலும் பல ஆச்சரியமான நிகழ்வுகள் வெளிவர உள்ளதாக தெரிவித்துள்ளார்.
+NPP leader Anura Kumara Dissanayake, who is said to have been surprised by the NPP's Indian journey, has said that there are many more surprising events in the future.
 
-அநுராதபுரம் மாவட்ட மகளிர் மாநாட்டில் கலந்து கொண்டு உரையாற்றிய அவர், தற்போது ஒரு சகாப்தம் ஆரம்பித்துள்ளதாகவும், அங்கு மேலும் மேலும் ஆச்சர்யங்கள் ஏற்படும் என்றும் கூறினார்.
+Speaking at the Anuradhapura District Women's Conference, she said that an era has now begun and there will be further surprise.
 
-"எங்கள் இந்திய விஜயம் உங்களுக்கு எப்படித் தெரியும்? ஐக்கிய மக்கள் சக்தி மூலமாகவோ, ஜனாதிபதி ரணில் மூலமாகவோ அல்லது மஹிந்த ராஜபக்ஷவின் மூலமாகவோ நீங்கள் தெரிந்துகொண்டீர்கள். நாங்கள் அமைதியாக இருந்தோம். அவர்கள் எங்கள் இந்திய பயணத்தை அறிந்து வியந்தனர். அவர்களால் மட்டுமே இந்தியாவை அவ்வாறு சமாளிக்க முடியும் என அவர்கள் நினைத்தார்கள்.  . மேலும் மேலும் இதுபோன்ற ஆச்சரியங்கள் நிகழும் ஒரு சகாப்தம் தொடங்கியுள்ளது," என்று அவர் கூறினார்.
+"How do you know our visit to India? You have learned by the United People's Power, by President Ranil or by Mahinda Rajapaksa. We were silent. They were surprised to learn our Indian journey. They thought that only they could deal with India.  . More and more surprises have begun, ”he said.
 
-பெண்கள் மாநாட்டின் இந்த கருத்தாக்கம் குறித்து எதிர்க்கட்சிகளும் வியப்படைந்துள்ளதாகத் தெரிவித்த திஸாநாயக்க, பெண்களின் விழிப்புணர்ச்சி இவ்வாறாக ஏற்படும் என அவர்கள் ஒருபோதும் நினைக்கவில்லை என்றும் கூறினார்.
+Dissanayake said the opposition parties were amazed at this concept of the women's conference and that they never thought women's awareness would happen.
+
+He said that even the political opponents like Mahinda-Chandrika, Maithripala-Mahinda and Ranil-Chandrika are coming to the same stage, various alliances are fielding against the victory of the National People's Front.
 
 ...
 
 [Data](articles/4a48ecd9.json)
 
+[Extended Data](ext_articles/4a48ecd9.ext.json)
+
 ---
 
-### எம்.பி வீரக்கொடியிடம் மன்னிப்பு கேட்குமாறு பரிந்துரை
+### MP suggested to apologize to MP Veerakodi
 
 *2024-02-12 07:35:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-வீரக்கொடியிடம்-மன்னிப்பு-கேட்குமாறு-பரிந்துரை/175-333052) · `ta`
 
-பாராளுமன்ற வளாகத்தில் நடைபெற்ற குழுக் கூட்டத்தின் போது, ​​பாராளுமன்ற உறுப்பினர் சந்திம வீரக்கொடியை அச்சுறுத்தும் வகையில் கருத்து தெரிவித்த பாதுகாப்புச் செயலர் கமல் குணரத்ன மற்றும் இராணுவத் தளபதி விகும் லியனகே ஆகியோர் பாராளுமன்ற உறுப்பினர் சந்திம வீரக்கொடியிடம் மன்னிப்புக் கேட்க வேண்டும் என்று பாராளுமன்றத்தின் சிறப்புரிமைக் குழு பரிந்துரை செய்துள்ளது.
+Defense Secretary Kamal Gunaratne and Army Commander Vikum Liyanage, who threatened parliamentarian Chandima Weerakkodi during a committee meeting held at the parliamentary premises, have recommended that Parliament Member Chandima Weerakkodi be apologized.
 
-கடந்த ஒக்டோபர் மாதம் 5, 2023 அன்று பாராளுமன்ற உறுப்பினர் வீரக்கொடி பாராளுமன்ற உறுப்பினர் சரத் வீரசேகர தலைமையில் நடைபெற்ற தேசிய பாதுகாப்பு தொடர்பான துறைசார் கண்காணிப்புக் குழுக் கூட்டத்தில் பாதுகாப்புச் செயலாளரும் இராணுவத் தளபதியும் தம்மை அச்சுறுத்தியதாக பாராளுமன்ற உறுப்பினர் வீரக்கொடி ஒக்டோபரில் எழுப்பிய சிறப்புரிமை விவகாரம் தொடர்பில் ஆராய்ந்த பின்னர் சிறப்புரிமைக் குழு இந்த பரிந்துரையை வழங்கியுள்ளது.
+The Specialist Committee made this recommendation after examining the privilege of Parliament Member Veerakodi in October at a National Security Monitoring Committee meeting chaired by Member of Parliament Sarath Weerasekera on October 5, 2023.
+
+The parliamentarian said he had mentioned at a particular committee meeting that the defense secretary was threatened by the defense budget, that the cost of high -level military personnel was to reduce the cost of the military.
+
+He has asked the Speaker to call them before the Private Committee, saying that the issuance of such threatening statements against a Member of Parliament is against the Standing Orders.
 
 ...
 
 [Data](articles/412d257c.json)
 
+[Extended Data](ext_articles/412d257c.ext.json)
+
 ---
 
-### මෛත්‍රී ඉන්දියා යයි
+### Maithri goes to India
 
 *2024-02-12 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193267) · `si`
 
-හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා අද (12) අලුයම ඉන්දියාව බලා පිටත්ව ගොස් තිබේ.
+Former President Maithripala Sirisena has left for India this morning (12).
 
-අද අලුයම 2.50ට ඉන්දීය ගුවන් සේවයට අයත් ඒ.අයි 284 දරණ ගුවන් යානයෙන් නවදිල්ලිය බලා පිටව ගොස් ඇත.
+At 2.50 am, the airline belonging to the Indian Airlines has left for New Delhi.
 
-ඉන්දියාවේ විශේෂ ආරාධනයකට අනුව හිටපු ජනාධිපතිවරයා ඉන්දියාවේ සංචාරයක නිරත වන අතර ඉන් පසු ඔහු අමෙරිකාව බලා පිටත්ව යාමට නියමිතය.
+The former President is on a tour of India on a special invitation of India and then he will leave for the United States.
 
-මේ අතර, ශ්‍රී ලංකා නිදහස් පක්ෂය ප්‍රමුඛ නව සන්ධානය වන ශ්‍රී ලංකා පොදු ජන එක්සත් පෙරමුණේ නව නිලධාරී මණ්ඩලය පත්කර ගැනීම හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගේ විදෙස් සංචාරයෙන් අනතුරුව සිදුවනු ඇති බව දේශපාලන ආරංචි මාර්ග සඳහන් කරයි.
+Meanwhile, political sources say that the new alliance of the Sri Lanka Freedom Party (SLFP) will appoint the new office bearers of the Sri Lanka Freedom Party (SLFP).
 
-ඉදිරි ජනාධිපතිවරණය වෙනුවෙන් ශ්‍රී ලංකා පොදුජන එක්සත් පෙරමුණ යටතේ නව සන්ධානයක් බිහිකිරීමට පියවර ගෙන තිබේ.
+Steps have been taken to create a new alliance under the Sri Lanka Public Election for the next presidential election.
 
-ඒ අනුව මෙහි ඉදිරි වැඩකටයුතු සඳහා නව නිලධාරී මණ්ඩලයක් පත් කිරීමට නියමිතය.
+Accordingly, a new staff will be appointed to future activities.
 
-ශ්‍රී ලංකා පොදුජන එක්සත් පෙරමුණේ මහලේකම් ධුරය ලසන්ත අලගියවන්න මහතා විසින් දරණු ලබන අතර එම ධුරයේ සිට සියලු තනතුරු වෙනස් වන බව වාර්තා වේ.
+Lasantha Alagiyawan is also being held by Lasantha Alagiyawaniya as the Secretary General of Sri Lanka.
 
-කෙසේවෙතත් මෙම කටයුතු හිටපු ජනාධිපතිවරයාගේ විදෙස් සංචාරවලින් අනතුරුව සිදුවනු ඇති බව සඳහන්ය.
+However, it is said that the work will take place after the former President's foreign trips.
 
 ◼️
 
 [Data](articles/63967500.json)
+
+[Extended Data](ext_articles/63967500.ext.json)
 
 ---
 

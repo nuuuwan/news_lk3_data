@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 21:17:33**
+As of **2024-02-12 21:33:07**
 
 ## Newspaper Stats
 
-*Scraped **6,552** Articles*
+*Scraped **6,553** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 348
 newsfirstlk | 363
 adalk | 555
 tamilmirrorlk | 799
-adaderanalk | 799
+adaderanalk | 800
 virakesarilk | 819
 adaderanasinhalalk | 912
 dailymirrorlk | 956
@@ -26,7 +26,7 @@ dailymirrorlk | 956
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,549 (100.0%) of 6,552 articles have been extended.
+6,552 (100.0%) of 6,553 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -126,19 +126,39 @@ It is said that in one container contains about US $ 1 million drugs.
 
 ---
 
-### சிறைச்சாலை வளாகத்துக்குள் தொழிற்சாலைகளை அமைப்பதற்குப் புரிந்துணர்வு ஒப்பந்தம்
+### Memorandum of Understanding to set up factories within the prison campus
 
 *2024-02-12 20:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176227) · `ta`
 
-சிறைக்கைதிகள் சிறைச்சாலையிலிருந்து விடுதலையான பின்னர் அவர்கள் சமூகத்துக்குப் பயனுள்ள நபர்களாக உருவாக்குவதை நோக்காகக்கொண்டு அனைத்து சிறைச்சாலைகளிலும் தொழிற்சாலைகளை அமைப்பதற்காகச் சிறைச்சாலை திணைக்களம் மற்றும் தொழில்துறை அபிருத்தி சபைக்குமிடையில் புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்திடும் நிகழ்வு திங்கட்கிழமை (12) நீதி அமைச்சில் இடம்பெற்றது.
+The Memorandum of Understanding (MoU) was held on Monday (12) to sign a Memorandum of Understanding between the Department of Prisons and Industrial Affairs to set up factory in all prisons, aimed at making them useful for social people after the prisoners were released from prison.
 
-நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ்வுக்கு முன்னால் சிறைச்சாலை ஆணையாளர் நாயகம் துஷார உபுல்தெனிய மற்றும்  தொழில்துறை அபிவிருத்தி சபையின் தலைவர் சாரங்க அலகப்பெரும ஆகியோர் குறித்த ஒப்பந்தத்தில் கைச்சாத்திட்டுள்ளனர்.
+Justice Minister Wijeyadasa Rajapakse has signed the agreement on the contract on the Commissioner General of Prison Tushara Upuldeniya and Chairman of the Industrial Development Board.
 
-புரிந்துணர்வு ஒப்பந்தம் மூலம் அனைத்து சிறைச்சாலைகளிலும் தொழிற்சாலைகளை அமைப்பதற்கு இந்த நாட்டு தொழில் முயற்சியாளர்களுக்கு தொழிலதிபர்களுக்கு அதிக சந்தர்ப்பம் கிடைக்கப்பெறுவதுடன் தொழிற்சாலைகளில் பயிற்சி பெறும் கைதிகளுக்காகத் தொழில் அபிவிருத்தி சபை மற்றும் சிறைச்சாலை திணைக்கள சான்றிதழ் வழங்கிவைக்கப்படும் என நீதி அமைச்சு தெரிவித்துள்ளது.
+The Memorandum of Understanding (MoU) will provide more opportunities for entrepreneurs in this country to set up factories in all prisons and the Ministry of Judicial Development and Prison Department will be issued a certificate of Vocational Development Board and Prison Department.
 
 ◼️
 
 [Data](articles/2c3a55a7.json)
+
+[Extended Data](ext_articles/2c3a55a7.ext.json)
+
+---
+
+### TRCSL raises security concerns, urges users to ensure proper registration of SIMs
+
+*2024-02-12 19:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97206/trcsl-raises-security-concerns-urges-users-to-ensure-proper-registration-of-sims) · `en`
+
+The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) has urged that the proper registration of SIM cards is employed by all mobile phone users.
+
+According to the Director (Compliance) of the Commission Menaka Pathirana, every customer must ensure that their SIM card is registered correctly.
+
+Speaking to the media today (12 Feb.), Pathirana emphasized the importance of verifying SIM card registration status with the respective phone companies, and thereby advised customers to contact their service providers to confirm the SIM cards registered under their names, particularly with regards to SIMS provided by companies they are no longer employed at.
+
+Furthermore, the Director highlighted the risks associated with unregistered or illegally obtained SIM cards, and urged individuals to promptly disconnect any SIM cards issued without their knowledge, as these could be exploited for illegal activities.
+
+...
+
+[Data](articles/d7bbbbaa.json)
 
 ---
 
@@ -160,19 +180,23 @@ All passengers have been accommodated in hotels until the rescheduling of the fl
 
 ---
 
-### பொருளாதார வேலைத் திட்டத்தைத் தவிர்த்து வேறு மாற்று வழிகள் இருப்பின் எந்தவொரு குழுவுடனும் பேசத் தயார் -  பந்துல குணவர்தன
+### If there are other alternatives other than the economic program, you are ready to speak with any group -Bandula Gunawardena
 
 *2024-02-12 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176226) · `ta`
 
-இலங்கையின் பொருளாதாரத்தைக் கட்டியெழுப்புவதற்கு ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் முன்னெடுக்கப்படும் பொருளாதார வேலைத் திட்டத்தைத் தவிர்த்து வேறு மாற்று வழிகள் இருப்பின் எந்தவொரு குழுவுடனும் பேச்சுவார்த்தைக்குத் தயார் என போக்குவரத்து, நெடுஞ்சாலைகள் மற்றும் வெகுசன ஊடக அமைச்சர் கலாநிதி பந்துல குணவர்தன தெரிவித்தார்.
+Transport, Highways and Mass Media Minister Dr. Bandula Gunawardena said that if there are other alternatives, other than the economic program, which is being carried out by President Ranil Wickremesinghe to build the economy of Sri Lanka, he said.
 
-அரச நிதி முகாமைத்துவம் தொடர்பில் போதிய அறிவு இல்லாத குழுக்கள் மக்கள் முன்னிலையில் பொய்யான பிரச்சாரங்களை மேற்கொண்டு வருவதாகவும், இலங்கையின் பொருளாதாரத்தைக் கட்டியெழுப்புவது வெறும் வார்த்தைகளால் முடியாத செயல் எனவும் அமைச்சர் குறிப்பிட்டார்.
+The Minister said that groups with adequate knowledge regarding state financial management are carrying out false propaganda in the presence of the people and that the building of the economy of Sri Lanka is not mere words.
 
-ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (12) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே போக்குவரத்து, நெடுஞ்சாலைகள் மற்றும் வெகுசன ஊடக அமைச்சர் கலாநிதி பந்துல குணவர்தன இவ்வாறு தெரிவித்தார்.
+Transport, Highways and Mass Media Minister Dr. Bandula Gunawardena said this at a media briefing held at the Presidential Media Center on Monday.
+
+“The state income earned by the taxation of 2023 is 3201 billion rupees. The amount spent from the Treasury for reliefs, salary and state loans is 4394 billion rupees. Alternative committees should be notified to the public as to which part of the state will be reduced.
 
 ...
 
 [Data](articles/524dbe7a.json)
+
+[Extended Data](ext_articles/524dbe7a.ext.json)
 
 ---
 
@@ -236,21 +260,23 @@ A senior official of the Meegoda Police Station said that the trading was agreed
 
 ---
 
-### கொள்ளுபிட்டியில் கீர்த்தி ஸ்ரீ ராஜசிங்க நரேந்திரனின் உலோகச் சிலை ஜனாதிபதியினால் திரைநீக்கம்
+### Keerthi Sri Rajasinghe Narendran's Metal Statue
 
 *2024-02-12 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176225) · `ta`
 
-கொள்ளுப்பிட்டி வாலுகாராம  உட்பட  பஞ்ச மகா விகாரை விகாராதிபதி  விசித்ர பானக மஹரகம நந்த நாயக்க தேரரின் 70 ஆவது பிறந்தநாளை முன்னிட்டு கொள்ளுபிட்டி வாலுகாராம விகாரையில் நிறுவப்பட்டுள்ள கீர்த்தி ஸ்ரீராஜசிங்க நரேந்திரனின் உலோகச் சிலையைத்  திரை நீக்கம்  செய்யும் நிகழ்வு  திங்கட்கிழமை (12) ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தலைமையில் நடைபெற்றது.
+President Ranil Wickremesinghe was held on Monday (12) to remove the metal statue of Keerthi Srirajasinghe Narendran, who was installed on the 70th birthday of Panaga Maharama Nayaka Thera, including Kalupitiya Valugarama, including Kaluppitti Valugarama.
 
-தாய்லாந்திலுள்ள மகாசங்கத்தினர்  உள்ளிட்ட தாய்லாந்து நன்கொடையாளர்களின் ஆதரவுடன் இந்த உலோக சிலை நிர்மாணிக்கப்பட்டுள்ளது.
+The metal statue has been constructed with the support of the donors of Thailand, including the Mahasangas in Thailand.
 
-பெயர் பலகையை  திரை நீக்கம் செய்து, கீர்த்தி ஸ்ரீ ராஜசிங்க நரேந்திரனின் உலோகச் சிலையும் ஜனாதிபதி  திறந்து வைத்தார். இதனுடன் இணைந்ததாக விகாரையில் நிர்மாணிக்கப்பட்டுள்ள வெலிவிட்ட சரணங்கர சங்கராஜ தேரரின் சிலையும் திரை நீக்கம் செய்யப்பட்டது.
+The President also opened the metal statue of Keerthi Sri Rajasinghe Narendran. The statue of Velida Saranankara Sankaraja Thera, which was constructed in the Vihara, was also removed.
 
-அதனைத் தொடர்ந்து  ஸ்ரீ கல்யாணி சாமசிரி தர்ம மகா சங்க சபை மகாநாயக்க தேரர் மல்வானே பஞ்சாசரபிதான  தேரரினால்  மத அனுஷ்டானங்கள் நிகழ்த்தப்பட்டன. மஹரகம நந்த நாயக்க தேரரினால் வரவேற்புரை நிகழ்த்தப்பட்டது.
+Following this, Sri Kalyani Samasiri Dharma Maha Sangha Sabha Mahanayaka Thera Malwane Panchasarapithana Thera was performed by religious observances.. The salon was performed by Maharagama Nanda Nayaka Thera.
 
 ...
 
 [Data](articles/30a0c45d.json)
+
+[Extended Data](ext_articles/30a0c45d.ext.json)
 
 ---
 
@@ -2003,29 +2029,5 @@ Suddenly he stood in the middle of the stadium and died on the spot when lightni
 [Data](articles/db4423d6.json)
 
 [Extended Data](ext_articles/db4423d6.ext.json)
-
----
-
-### Israel's action in Rafa will cause disaster- Australia alert
-
-*2024-02-12 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176176) · `ta`
-
-Australian External Affairs Minister Benivong has said that Israeli military action can cause disaster for the people who have taken refuge in Rafa.
-
-He said 153 countries, including Australia, have called for an immediate humanitarian ceasefire in Gaza.
-
-He said that many countries, including Israel's friends, have expressed concern over the plans to carry out Israeli military operations internationally.
-
-Beniwong said Israel should listen to its friends and listen to the international community.
-
-Millions of people have taken refuge in the area.
-
-He said that if Israel did not pay special attention to the people, the people would be disrupted.
-
-◼️
-
-[Data](articles/1551486e.json)
-
-[Extended Data](ext_articles/1551486e.ext.json)
 
 ---

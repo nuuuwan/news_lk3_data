@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 15:34:11**
+As of **2024-02-12 15:51:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 948
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,470 (99.9%) of 6,475 articles have been extended.
+6,475 (100.0%) of 6,475 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Accordingly, the Ministry requests the applicants to visit the Education Ministr
 ◼️
 
 [Data](articles/a4c28afc.json)
+
+[Extended Data](ext_articles/a4c28afc.ext.json)
 
 ---
 
@@ -72,15 +74,17 @@ However, media reports have stated that the accusation of the Israeli was charge
 
 ---
 
-### நாளை முதல் குதிக்க தீர்மானம்
+### Resolution to jump from tomorrow
 
 *2024-02-12 14:40:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-குதிக்க-தீர்மானம்/175-333072) · `ta`
 
-நிதி அமைச்சுடனான பேச்சுவார்த்தை தோல்வியடைந்ததால், சுகாதார சேவைகள் திணைக்களத்தின் மீண்டும் பணிப்புறக்கணிப்பில், நாளை (13) முதல் ஈடுபடவுள்ளதாக சுகாதாரத் துறையினர் தெரிவிக்கின்றனர்.
+The Department of Health has said that the Department of Health Services will be involved in the re -work of the Department of Health Services tomorrow (13).
 
 ◼️
 
 [Data](articles/562dcde2.json)
+
+[Extended Data](ext_articles/562dcde2.ext.json)
 
 ---
 
@@ -242,21 +246,23 @@ India has emerged as a leader in Fintech innovation and Digital Public Infrastru
 
 ---
 
-### හිටපු ඇමති ගාමිණී බලන්න ජනපති යයි
+### Former minister Gamini to visit President
 
 *2024-02-12 13:43:41* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමති-ගාමිණී-බලන්න-ජනපති-යයි/11-408027) · `si`
 
-දැනට රෝගාතුරුව පසුවන හිටපු අමාත්‍ය ගාමිණි ජයවික්‍රම පෙරේරා මහතාගේ සුව දුක් විමසීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එක් විය.
+President Ranil Wickremesinghe was joined in to consult the health of former Minister Gamini Jayawickrama Perera at present.
 
-ගාමිණි ජයවික්‍රම පෙරේරා මහතාගේ කටුගම්පළ පිහිටි නිවසට ඊයේ (11) පෙරවරුවේ ගිය ජනාධිපතිවරයා හිටපු අමාත්‍යවරයාගේ සුව දුක් විමසමින් කෙටි කථා බහක නිරත විය.
+The President visited Gamini Jayawickrama Perera's Katugampura yesterday morning (11).
 
-අනතුරුව පවුලේ ඥාතීන්ගේ ද තොරතුරු විමසූ ජනාධිපතිවරයා ගාමිණි ජයවික්‍රම පෙරේරා මහතාගේ නිවස අසළට රැස්ව සිටී ප්‍රදේශයේ ජනතාව සමඟ ද සුහද පිළිසඳරකට එක් විය.
+The President also inquired about the relatives of the family and joined the people of the area near Gamini Jayawickrama Perera.
 
-හිටපු අමාත්‍ය අකිල විරාජ් කාරියවසම්, ගාමිණි ජයවික්‍රම පෙරේරා මහතාගේ පුතණුවන් වන වයඹ පළාත් සභා හිටපු මන්ත්‍රී අසංක ජයවික්‍රම යන මහත්වරු ඇතුළු කුරුණෑගල දිස්ත්‍රික්කයේ දේශපාලනඥයන් කිහිපදෙනෙක් සහ වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ඇතුළු පිරිසක් මෙම අවස්ථාවට එක්ව සිටියහ.
+Former Minister Akila Viraj Kariyawasam and acting IGP Deshabandu Tennakoon were also present at the occasion.
 
 ◼️
 
 [Data](articles/172846bc.json)
+
+[Extended Data](ext_articles/172846bc.ext.json)
 
 ---
 
@@ -1790,21 +1796,23 @@ The MP had told Parliament that he had mentioned at the particular Committee mee
 
 ---
 
-### ரயில் மோதி சிறுவன் பலி
+### Boy killed
 
 *2024-02-12 05:00:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/ரயில்-மோதி-சிறுவன்-பலி/75-333051) · `ta`
 
-திருகோணமலை - தம்பலகாமம் பகுதியில் நேற்று ரயில் மோதி சிறுவன் ஒருவர் உயிரிழந்துள்ளார்.
+A boy was killed when a train crashed yesterday in Trincomalee - Thambalakamam area.
 
-கொழும்பில் இருந்து திருகோணமலை நோக்கிச் சென்று கொண்டிருந்த ரயிலில் சிக்கிய குறித்த சிறுவன் உயிரிழந்துள்ளார்.
+The boy was killed in a train traveling from Colombo to Trincomalee.
 
-தம்பலகாமம் பகுதியிலுள்ள பாலத்துக்கு அருகில் நண்பர்களுடன் மீன்பிடித்துக் கொண்டிருந்த சிறுவனே இந்த விபத்தில் உயிரிழந்துள்ளார்.
+The boy who was fishing with friends near the bridge in the Thambalakamam area has died in the accident.
 
-முள்ளிப்பொத்தானை, யூனிட் - 07 பகுதியைச் சேர்ந்த தரம் 9 இல் கல்வி கற்கும் மாணவனான நளீம் முஹம்மது சப்ரிட் (வயது 14) என்பவரே இவ்வாறு .உயிரிழந்துள்ளார். (a)
+Naleem Muhammad Sabrid (age 14), a student of Grade 9 of Mullipothana, Unit - 07.. (A)
 
 ◼️
 
 [Data](articles/c585d3c6.json)
+
+[Extended Data](ext_articles/c585d3c6.ext.json)
 
 ---
 
@@ -1872,19 +1880,21 @@ Vavuniya High Court Judge Manikkavasagam Ilancheliyan who delivered the verdict 
 
 ---
 
-### மாணவி சடலமாக மீட்பு
+### Rescue of student body
 
 *2024-02-12 04:01:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாணவி-சடலமாக-மீட்பு/76-333050) · `ta`
 
-பலாங்கொடை, பெட்டிகள பிரதேசத்தில் வீடொன்றின் குளியலறையில் இருந்து பாடசாலை மாணவி ஒருவர் சடலமாக  மீட்கப்பட்டுள்ளார்.
+A schoolgirl has been recovered from a bathroom in the box area of Balangoda.
 
-உறவினர்கள் வழங்கிய முறைப்பாட்டுக்கு அமைய பலாங்கொடை பொலிஸாரால் குறித்த மாணவியின் சடலம் நேற்று மீட்கப்பட்டுள்ளது.
+The body of the student was recovered yesterday by the Balangoda police on a complaint filed by relatives.
 
-இவ்வாறு சடலமாக மீட்கப்பட்ட மாணவி பலாங்கொடை பிரதேசத்தில் பிரபல தமிழ்ப் பாடசாலை ஒன்றில் உயர்தர வகுப்பில் கல்வி கற்றவர் என்று பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+Police investigations have revealed that the student who was recovered from the body was educated in a high -quality class in a popular Tamil school in Balangoda.
 
 ◼️
 
 [Data](articles/25fd5c93.json)
+
+[Extended Data](ext_articles/25fd5c93.ext.json)
 
 ---
 

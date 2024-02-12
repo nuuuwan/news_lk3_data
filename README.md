@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 05:02:22**
+As of **2024-02-13 05:17:26**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 963
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,592 (100.0%) of 6,593 articles have been extended.
+6,593 (100.0%) of 6,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
-### இலங்கை - இந்தியா இடையில் யு.பி.ஐ. கொடுக்கல் வாங்கல்
+### UPI between Sri Lanka and India. give and take
 
 *2024-02-13 03:36:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்தியா-இடையில்-யு-பி-ஐ-கொடுக்கல்-வாங்கல்/175-333092) · `ta`
 
-இலங்கை மற்றும் இந்தியாவிற்கு இடையிலான ஒருங்கிணைந்த பரிவர்த்தனை தரவு எனப்படும் யு.பி.ஐ. கொடுக்கல் - வாங்கல் முறைமை ஆரம்பிக்கப்பட்டுள்ளது.
+The UPI, known as the Integrated Transaction Data between Sri Lanka and India. Giving - Purchase system has been initiated.
 
-இந்த கொடுக்கல் - வாங்கல் முறைமையினூடாக திறன்பேசி உள்ளிட்ட தொழில்நுட்ப உபகரணங்களின் ஊடாக விரைவாக பணப்பரிமாற்றம் மேற்கொள்ளும் வாய்ப்பு உருவாக்கப்பட்டுள்ளது.
+This transaction - via technical equipment, including efficiency, has been created a chance to make a quick money transfers.
 
-இலங்கை வரும் இந்திய சுற்றுலாப் பயணிகளுக்கு கியூ.ஆர். குறியீடு ஊடாக ஒருங்கிணைந்த கட்டண முறை எனப்படும் யு.பி.ஐ. ஊடாக பணம் செலுத்தும் முறைமையை அறிமுகப்படுத்தும் நிகழ்வு நேற்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+GUs for Indian tourists coming to Sri Lanka. The UPI, known as the integrated payment system through the code. The introduction of the payment system was held yesterday at the Presidential Office headed by President Ranil Wickremesinghe.
 
-இந்திய பிரதமர் நரேந்திர மோடியும் ஒன்லைன் தொழில்நுட்பம் மூலம் இதில் இணைந்து கொண்டார். (a)
+Indian Prime Minister Narendra Modi also joined the Online Technology. (A)
 
 ◼️
 
 [Data](articles/669caeac.json)
+
+[Extended Data](ext_articles/669caeac.ext.json)
 
 ---
 

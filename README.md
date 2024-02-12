@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 13:51:58**
+As of **2024-02-12 14:02:28**
 
 ## Newspaper Stats
 
-*Scraped **6,448** Articles*
+*Scraped **6,455** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ economynextcom | 325
 islandlk | 344
 dailyftlk | 348
 newsfirstlk | 363
-adalk | 537
+adalk | 541
 tamilmirrorlk | 785
 adaderanalk | 792
 virakesarilk | 804
-adaderanasinhalalk | 892
+adaderanasinhalalk | 895
 dailymirrorlk | 945
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,448 (100.0%) of 6,448 articles have been extended.
+6,455 (100.0%) of 6,455 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### Fish, fish sold
+
+*2024-02-12 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193283) · `si`
+
+Police have arrested a man who sold Kasippu in Negombo and Katana under the pretext of selling fish in his motorcycle.
+
+The suspect was arrested by the Katunayake Police Station Delivery Division this morning (12) with a large quantity of Kasippu.
+
+Suspect is a 44 year old resident of Henatiyiyana area. The racket had been carried out for many years, police said.
+
+◼️
+
+[Data](articles/a3beaf1d.json)
+
+[Extended Data](ext_articles/a3beaf1d.ext.json)
+
+---
+
+### Jack Leach loses Indian tournament
+
+*2024-02-12 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193282) · `si`
+
+England Test team spinner Jack Leech has to remove the Test with India.
+
+It is reported that doctors have recommended him to take advice due to the healing of knee disorder.
+
+Due to this disorder, Leach had to leave the first Test on the first Test on Hyderabad.
+
+◼️
+
+[Data](articles/4e1922ea.json)
+
+[Extended Data](ext_articles/4e1922ea.ext.json)
+
+---
+
+### Mosquitoous mosquito toneado
+
+*2024-02-12 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193281) · `si`
+
+Foreign media reports that Pune in India was closed from mosquitoes.
+
+Skills in the sky as mild-centers and mosquitoes are shut down as a revolve.
+
+According to foreign media reports, it is the reason for the underground of the fluences of the casting of the casting of the casting of the casting.
+
+◼️
+
+[Data](articles/f53e34c9.json)
+
+[Extended Data](ext_articles/f53e34c9.ext.json)
+
+---
 
 ### UPI money exchange methodology launches
 
@@ -45,6 +99,26 @@ President Ranil Wickremesinghe and Indian Prime Minister Narendra Modi are invol
 [Data](articles/5f981053.json)
 
 [Extended Data](ext_articles/5f981053.ext.json)
+
+---
+
+### Kasippu meets Kasippu by motorcycle selling fish
+
+*2024-02-12 12:54:02* · [`adalk`](https://www.ada.lk/breaking_news/මාලු-විකුණන-යතුරු-පැදියෙන්-කසිප්පු-හමුවෙයි/11-408025) · `si`
+
+The Katunayake Police, Katunayake Police, the Katunayake Police, the Katunayake Police, the Katunayake Police, who sold Kasippu with a large number of Rs.
+
+He is a 44 year old resident of Henatiyiyana.He had received information on Harunara Police Constables in the Katunayake Police that he was carrying out this racket from a year.
+
+Accordingly, the officers of the Katunayake Police have taken measures to arrest him, and the man had been done with the arrest of the eradication of the corruption.
+
+Police have arrested about 75,000 Kasippu litttes worth about 75,000 ml.Preliminary investigations have been revealed that the police were increased.The suspect is to be produced before the Minuwangoda Magistrate's Court.
+
+◼️
+
+[Data](articles/420eb4c5.json)
+
+[Extended Data](ext_articles/420eb4c5.ext.json)
 
 ---
 
@@ -143,6 +217,28 @@ He said that if the president's intervention is essential to this problem, he sa
 [Data](articles/013e4b7a.json)
 
 [Extended Data](ext_articles/013e4b7a.ext.json)
+
+---
+
+### An army soldier arrested for sexually abused schoolgirl
+
+*2024-02-12 12:05:25* · [`adalk`](https://www.ada.lk/breaking_news/එක්තැන්ව-සිටි-පාසල්-සිසුවෙකුට-ලිංගික-අතවර-කළ-හමුදා-සෙබළෙක්-අත්අඩංගුවට/11-408024) · `si`
+
+Mahawilachchiya Police said that the army soldier was arrested on suspicion of a 15 year old sex child abuse.
+
+The arrested for army soldier attached to an Army camp at Army Camp.
+
+The child has been abused by the house from receiving treatment at the Anuradhapura Teaching Hospital due to a serious accident.
+
+The minors who had come to the house when they left with their mother and younger brother without the father have been abused at a base disorder.
+
+The arrested suspect was to be produced in court.A group of officers of the Maha Wilachchiya Police are conducting further investigations.
+
+◼️
+
+[Data](articles/2bdc3e71.json)
+
+[Extended Data](ext_articles/2bdc3e71.ext.json)
 
 ---
 
@@ -398,6 +494,22 @@ It is noteworthy that officials of the Bribery Commission have released specific
 
 ---
 
+### Another shot of this morning. Woman at hospital
+
+*2024-02-12 11:11:19* · [`adalk`](https://www.ada.lk/breaking_news/අද-උදෑසන-තවත්-වෙඩිතැබීමක්--වෙඩි-වැදුනු-කාන්තාව-රෝහලේ/11-408023) · `si`
+
+Today, the Meegoda Economic Center has shot. According to the Meegoda Police and the SLAF Police checkpoint, this has happened in the potato onion market.
+
+Two people were shot at a motorcycle while traveling in a motorcycle while they were taking place in a motorcycle, and around 22 years old. The woman was injured in shooting was hospitalized.
+
+◼️
+
+[Data](articles/a1a82000.json)
+
+[Extended Data](ext_articles/a1a82000.ext.json)
+
+---
+
 ### 8,000 cardiovascular patients on the waiting list for treatment
 
 *2024-02-12 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176169) · `ta`
@@ -415,6 +527,28 @@ Deputy Director of Health, Dr. G. Wijesuriya, has been repaired in this regard..
 [Data](articles/77377bf6.json)
 
 [Extended Data](ext_articles/77377bf6.ext.json)
+
+---
+
+### The farmer to launched a motorcycle collision with motorcycle
+
+*2024-02-12 11:02:20* · [`adalk`](https://www.ada.lk/breaking_news/පාරේ-වී-වේලමින්-සිටි-ගොවියා-යතුරුපැදියේ-ගැටී-මරුට/11-408022) · `si`
+
+A farmer who was launched in a trace of accident in the Markkari area on the road to Kodikamam Point Pastuduwa in Jaffna.
+
+It was revealed that the accident had occurred when the paddy in the Makkariii was placed under the main road in the Makkarii to increase the paddy harvest.
+
+The farmer who was laid from Palai to Pedurathuraga has been hit and the farmer who was in serious condition was admitted to the Point Pedro Hospital.
+
+Due to the misty of the morning, the motorcyclist was deposited and the post motorcycle would be handed over to relatives to the relatives.
+
+The Point Pedro police were arrested by the Point Pedro police, who was in the accident and was a 46-year-old farmer from the Makkarii area.
+
+◼️
+
+[Data](articles/840a2cd7.json)
+
+[Extended Data](ext_articles/840a2cd7.ext.json)
 
 ---
 
@@ -1903,143 +2037,5 @@ A total of 16 countries participated in the current edition of the Abu Dhabi Dia
 [Data](articles/81c69e04.json)
 
 [Extended Data](ext_articles/81c69e04.ext.json)
-
----
-
-### Illegal Sri Lankan immigrant abducted girl for ransom in Israel
-
-*2024-02-11 22:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Illegal-Sri-Lankan-immigrant-abducted-girl-for-ransom-in-Israel/108-276775) · `en`
-
-Israel, Feb 11 (Israel National) - The state prosecutor has filed an indictment against Chaminda Pusafa Tahana Vahaga, an illegal immigrant from Sri Lanka, for abducting a young woman and holding her for ransom.
-
-The indictment claims that the accused is a Sri Lankan citizen who entered Israel illegally, lived in Israel for several years, and found illegitimate employment within Israel. During his stay in Israel, he came to know the plaintiff and the two developed an intimate relationship over a period of time. In April 2021, he was extradited to Sri Lanka, but later that year offered the plaintiff to bring her daughter to Israel illegally for 20,000 shekel. The plaintiff agreed to the offer, and the two re-entered Israel illegally from the Jordan border.
-
-...
-
-[Data](articles/0d3002db.json)
-
-[Extended Data](ext_articles/0d3002db.ext.json)
-
----
-
-### Man hit and killed by an unauthorized power cord
-
-*2024-02-11 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193262) · `si`
-
-A person was unfortunately due to the disengation of the evil strength area in Kosgoda.
-
-The police may have been confronted with the deceased who had died in an unauthorized power cord, which was hit by pig hunting.
-
-It has been reported that the man is working in cinnamon bruising.
-
-Residents of the area are alleged that their lives are in danger due to lack of unauthorized electrical wirs.
-
-◼️
-
-[Data](articles/2b0e1ab4.json)
-
-[Extended Data](ext_articles/2b0e1ab4.ext.json)
-
----
-
-### Sri Lanka beat Afghanistan by 155 runs to seal ODI series
-
-*2024-02-11 22:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-beat-Afghanistan-by-155-runs-to-seal-ODI-series/108-276774) · `en`
-
-Kandy, Feb 11 (Daily Mirror) - Sri Lanka secured a commanding victory over Afghanistan in the second One Day International (ODI), triumphing by 155 runs on Sunday, to take the series by 2-0.
-
-With stellar contributions from Charith Asalanka, Kusal Mendis, Sadeera Samarawickrama, and Janith Liyanage, Sri Lanka posted a formidable total of 308 for 6. Asalanka's remarkable innings, marked by a blistering 97 off 74 balls, played a pivotal role in propelling the team beyond the 300-run mark. His dynamic partnership with Wanindu Hasaranga in the latter overs proved vital, especially after a period of Afghan bowling dominance.
-
-Sri Lanka's innings was characterized by two century partnerships, first between Mendis and Samarawickrama, and then between Liyanage and Asalanka. These partnerships laid a solid foundation for Sri Lanka, setting the stage for a late surge, during which they amassed 96 runs in the final 10 overs.
-
-...
-
-[Data](articles/2fb1b65b.json)
-
-[Extended Data](ext_articles/2fb1b65b.ext.json)
-
----
-
-### Yamaha and AMW expect import ban on motorcycles will be lifted with economy stabilising
-
-*2024-02-11 22:09:00* · [`islandlk`](http://island.lk/yamaha-and-amw-expect-import-ban-on-motorcycles-will-be-lifted-with-economy-stabilising/) · `en`
-
-Associated Motorways (Private) Limited (AMW), the official distributor for Yamaha Motorcycles, Service and Parts recently hosted a dealer meeting in Colombo. The key personnel gathered at the event included Andre Bonthyus, the newly appointed Group Managing Director of AMW.
-
-Addressing the audience which comprised more than 200 Island-wide Yamaha dealers, Bonthyus said that he looks forward to growing the organization and emphasized on AMW’s return to the market.
-
-Meanwhile, Kumika Imai, Executive General Manager – Yamaha Motor Corporation Japan, who is handling over 140 countries where Yamaha is present, stated that she had chosen to visit Sri Lanka due to the significance and value placed on the country and its market.
-
-Notably, they mentioned the fact that automotive imports to Sri Lanka which have come to a halt due to the foreign exchange crisis, would get a respite this year, as the country’s macroeconomic indicators are getting into a better shape after four years.
-
-...
-
-[Data](articles/1d15959f.json)
-
-[Extended Data](ext_articles/1d15959f.ext.json)
-
----
-
-### Chicken-feed costs to decline as soybean prices in North and South America set to fall on bumper harvest
-
-*2024-02-11 22:09:00* · [`islandlk`](http://island.lk/chicken-feed-costs-to-decline-as-soybean-prices-in-north-and-south-america-set-to-fall-on-bumper-harvest/) · `en`
-
-A potential bumper harvest of soybean in South America and the USA in 2024 would see a significant drop in soybean import prices, and it could help countries like Sri Lanka that imports the commodity from the U.S.A. as a key poultry feed, Jim Sutter, CEO at U.S. Soybean Export Council (USSEC) told The Island recently.
-
-“Apart from that, as we now directly collaborate with Sri Lankan poultry farmers, they are exposed to the latest technologies that enhance productivity. This would also help bring down the price of chicken in Sri Lanka,” Jim Sutter said.
-
-Meanwhile, USSEC Chairman, Stan Born said that soybeans Sri Lanka imports from the USA have intrinsic benefits that soy from other sources can’t give.
-
-“We provide a high-quality product that will put on flesh faster and more economically. Quicker turnover of animals should have a positive impact on price and a positive impact on availability,” he said.
-
-...
-
-[Data](articles/59ca5f79.json)
-
-[Extended Data](ext_articles/59ca5f79.ext.json)
-
----
-
-### Western Australia Premier discusses RE and agri development with President
-
-*2024-02-11 22:09:00* · [`islandlk`](http://island.lk/western-australia-premier-discusses-re-and-agri-development-with-president/) · `en`
-
-At the invitation of the India Foundation and the Australian Government, President Ranil Wickremesinghe was engaged in an official visit to Australia, to attend the Seventh Indian Ocean Conference taking place from February 9th to 10th in Perth, Australia.
-
-President Wickremesinghe delivered the keynote address at the conference on Feb 9, focusing on the theme “Towards a Stable and Sustainable Indian Ocean”.
-
-On this occasion, Premier Roger Cook of Western Australia met with President Ranil Wickremesinghe as part of the President’s official itinerary in Perth for the Indian Ocean Conference.
-
-During the discussions, the Premier conveyed his state’s keen interest in renewable energy (RE) and agricultural development, along with establishing direct aviation connections between Sri Lanka and Perth. He emphasized Perth’s strategic location on the Indian Ocean as an opportunity for South Asian nations to foster closer ties with the broader Australian region.
-
-...
-
-[Data](articles/6492a8b4.json)
-
-[Extended Data](ext_articles/6492a8b4.ext.json)
-
----
-
-### 7 people who secretly registered luxury vehicles
-
-*2024-02-11 22:06:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொகுசு-வாகனங்களை-இரகசியமாக-பதிவு-செய்த-7-பேர்/175-333046) · `ta`
-
-The Bribery Commission has filed a case against seven persons, including five members of the Motor Transport Department, in connection with the massive loss of the government by registering cars in the Motor Transport Department.
-
-The Bribery Commission said that they have been informed that the department has registered about 400 unauthorized cars.
-
-The Commission officials have found that 156 vehicles of the registered vehicles have been found and most of them belong to the luxury vehicle type.
-
-In addition, these vehicles are registered with the Department of Motor Transport after many years, causing a large number of tax loss to the government.
-
-The court has ordered the Bribery Commission to hand over 7 vehicles from the current owners to the Sri Lankan customs.
-
-Accordingly, 6 vehicles have been taken over by the Bribery Commission and 05 of them have been handed over to the Sri Lankan Customs Unit.. Remble
-
-◼️
-
-[Data](articles/0c84c774.json)
-
-[Extended Data](ext_articles/0c84c774.ext.json)
 
 ---

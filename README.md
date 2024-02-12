@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 11:17:24**
+As of **2024-02-12 11:33:08**
 
 ## Newspaper Stats
 
-*Scraped **6,410** Articles*
+*Scraped **6,422** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,128 @@ economynextcom | 323
 islandlk | 344
 dailyftlk | 348
 newsfirstlk | 363
-adalk | 535
+adalk | 537
 tamilmirrorlk | 781
 adaderanalk | 788
-virakesarilk | 797
-adaderanasinhalalk | 886
-dailymirrorlk | 933
+virakesarilk | 799
+adaderanasinhalalk | 887
+dailymirrorlk | 940
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,408 (100.0%) of 6,410 articles have been extended.
+6,410 (99.8%) of 6,422 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### ரஃபாவில்  இஸ்ரேலின் விமானதாக்குதலில் 40க்கும் அதிகமானவர்கள் பலி - இரண்டு பணயக்கைதிகளை விடுவித்ததாக இஸ்ரேல் தெரிவிப்பு
+
+*2024-02-12 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176167) · `ta`
+
+ரஃபாவில்  மேற்கொண்ட நடவடிக்கையின் போது இரண்டு பணயக்கைதிகள் மீட்கப்பட்டுள்ளனர் என இஸ்ரேல் தெரிவித்துள்ள அதேவேளை அந்த நகரத்தின் மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் 40க்கும் அதிகமானவர்கள் கொல்லப்பட்டுள்ளனர் என காசாவின் சுகாதார அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+இஸ்ரேலின் விமானதாக்குதலினால் உயிரிழந்த 20 பாலஸ்தீனியர்களின் உடல்கள் குவைத் மருத்துவமனையில் உள்ளன என ரொய்ட்டருக்கு  தெரிவித்துள்ள காசாவின் சுகாதார அதிகாரிகள் 12 உடல்கள் ஐரோப்பிய மருத்துவமனையிலும் ஐந்து உடல்கள் அபுயூசுவ் அல் நசார் மருத்துவமனையில் உள்ளதாகவும் தெரிவித்துள்ளனர்.
+
+இதேவளை காசாவின் தென்பகுதியில் உள்ள ரஃபாவில்  மேற்கொண்ட விசேட நடவடிக்கையின் போது ஹமாசினால் பணயக்கைதிகளாக பிடிக்கப்பட்ட இருவர்மீட்கப்பட்டுள்ளனர்  என தெரிவித்துள்ள இஸ்ரேல் அவர்கள் இஸ்ரேலில் மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர் எனவும் தெரிவித்துள்ளன.
+
+◼️
+
+[Data](articles/ae2e4f07.json)
+
+---
+
+### උග්‍ර විෂ සහිත කුහුඹු විශේෂයකින් ගම්මාන කිහිපකට කරදර
+
+*2024-02-12 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193275) · `si`
+
+උග්‍ර විෂ සහිත කුහුඹු විශේෂයක් හේතුවෙන් ඌව පරණගම බඹරපාන, කන්දේකුඹුර, හළාඹ ඇතුළු ගම්මාන කිහිපයක ගම්වැසියන් දුෂ්කරතාවට පත්ව ඇති බව වාර්තා වේ.
+
+ගම්වාසීන් පෙන්වාදෙන්නේ, මෙම කුහුඹු විශේෂයේ දෂ්ඨ කිරීම් හේතුවෙන් චර්ම රෝග පවා හටගන්නා බවය.
+
+'කොඩයා' නමින් හඳුන්වන මෙම කුහුඹු විශේෂ ගම්මිරිස්, පොල්, පුවක් වැනි ශාකවල රංචු වශයෙන් ජීවත් වන වාර්තා වේ.
+
+මෙම කුහුඹු විශේෂය වසංගතයක් තෙක් වර්ධනය වීමට ප්‍රථම එය මර්දනයට අවශ්‍ය පියවර ගන්නා ලෙස ගම්වාසීන් බලධාරීන්ගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/f57d1348.json)
+
+---
+
+### Australia Under-19s emulate their seniors by beating India in World Cup final
+
+*2024-02-12 10:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Australia-Under-19s-emulate-their-seniors-by-beating-India-in-World-Cup-final/108-276832) · `en`
+
+Benoni, Feb. 12 (AFP) - Australian dominance of major cricket events continued on Sunday when they beat India by 79 runs in the Under-19 World Cup final at Willowmoore Park in South Africa.
+
+Australia's senior men's team won the world Test championship and Cricket World Cup in 2023 – beating India in the finals on both occasions.
+
+The Australian women's team are the current 50-overs and T20 World Cup champions.
+
+Sunday's final between the only unbeaten teams in the tournament was surprisingly one-sided.
+
+Australia made 253 for seven in their 50 overs after winning the toss and deciding to bat. Strongly-built left-hander Harjas Singh made a hard-hit 55 to highlight a solid batting performance.
+
+India's batting had been their strength leading up the final but they crashed to 122 for eight against Australia's pace bowling attack. Opening batsman Adarsh Singh (47) was the only top-order batsman to shine.
+
+...
+
+[Data](articles/02053b8b.json)
+
+---
+
+### යාපනයේ එළවළු දඹුල්ලේ මිල බස්සවයි
+
+*2024-02-12 10:40:57* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයේ-එළවළු-දඹුල්ලේ-මිල-බස්සවයි/11-408021) · `si`
+
+යාපනය අර්ධද්වීපයේ වගා කෙරුණු එළවළු අස්වැන්න මේ දිනවල දඹුල්ල ආර්ථික මධ්‍යස්ථානයට ලැබීමත් සමඟ සීග්‍රයෙන් ඉහළ ගොස් තිබුණු සෑම එළවළුවක්ම සියයට හැට පහක් හැත්තෑවක් පමණ්ම අඩුවී ඇතැයි ආර්ථික මධ්‍යස්ථාන වෙළෙන්දෝ  පවසති'
+
+යාපනය  චුන්නාගම්  ප්‍රදේශයේ සාර්ථකව වගා කරන කැරට් ,මාළුමිරිස් සහ බීට්  අස්වනු  වැඩි වශයෙන් වෙළඳපළට ලැබීම නිසාවෙන් රුපියල් දහසක් දෙදහසත් අතර මිලකට පසුගිය කාලයේ අලෙවි වූ කැරට් කිලෝව 12 වන දින වන විට රුපියල් 500 දක්වා අඩුවී ඇති අතර  යාපනයේ ලැබෙන කැරට් කිලෝව රුපියල් පන්සියයකට අලෙවීවිය .
+
+රුපියල් හාරසිය පනහක් පමණ ඉහළ ගිය බිට් කිලෝව  රු 250 දක්වා  පහත වැටී ඇතැයි රු 450 ත් 550 ත් මිලකට අලවි වූ වම්බටු රු 150 ත් 200 ත් දක්වා පහල වැටි ඇතිබව  වෙළෙන්දෝ පෙන්වා දෙති.
+
+එමෙන්ම අනෙකුත් සෑම එළවළුවක්ම වීශාල වශයෙන් පහත වැටීමට ප්‍රධානතම හේතුව බවට පත්ව ඇත්තේ යාපනය අර්ධද්වීපයෙන් ලැබෙන එළවලුත් තොග බව ඔවුහු පෙන්වා දෙති.
+
+...
+
+[Data](articles/f9f1dd82.json)
+
+---
+
+### இரத்தினபுரியில் கார், 3 மோட்டார் சைக்கிள்கள் மோதி விபத்து : இளைஞர் பலி, நால்வர் காயம்!
+
+*2024-02-12 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176162) · `ta`
+
+இரத்தினபுரி நகரில் கார் ஒன்றும் மூன்று மோட்டார் சைக்கிள்களும் மோதிக்கொண்டதில் இளைஞர் ஒருவர் உயிரிழந்துள்ளதுடன், மேலும் நால்வர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+காயமடைந்த இளைஞர்களில் ஒருவரின் நிலைமை கவலைக்கிடமாக உள்ளதாக வைத்தியசாலை பேச்சாளர் தெரிவித்தார். காயமடைந்தவர்கள் இரத்தினபுரி வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றனர்.
+
+◼️
+
+[Data](articles/f6cdc486.json)
+
+---
+
+### Rs 20 billion needed for presidential and general election
+
+*2024-02-12 10:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rs-20-billion-needed-for-presidential-and-general-election/108-276831) · `en`
+
+Colombo, Feb. 12 (Daily Mirror)- A total sum of Rs 20 billion is needed for the presidential and general elections, Director General Election commission Saman Sri Ratnayake said.
+
+Ratnayake told journalists that he had already informed this matter to Parliament and to the finance ministry.
+
+The Presidential election is due this year while the term of the present Parliament would end in 2025. However there are constitutional provisions for the President to dissolve Parliament anytime after it completes four and a half years of its term as per the 21st amendment to the constitution.
+
+The government had pledged that the presidential election would be held this year while the opposition had alleged that there is a sinister move to abolish the Executive presidency without holding the presidential poll.
+
+◼️
+
+[Data](articles/3e033b34.json)
+
+---
 
 ### “We are glad that PM Modi has brought back old glory” - Namal on Ram Temple
 
@@ -48,21 +154,61 @@ He said that everyone should visit the Ram Temple not just to seek blessings but
 
 [Data](articles/f1dc81d2.json)
 
+[Extended Data](ext_articles/f1dc81d2.ext.json)
+
 ---
 
-### ஒன்லைன் பாதுகாப்பு சட்டம் அமைச்சரவையில் சமர்ப்பிப்பு
+### Online Defense Law submission to Cabinet
 
 *2024-02-12 10:28:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-பாதுகாப்பு-சட்டம்-அமைச்சரவையில்-சமர்ப்பிப்பு/175-333056) · `ta`
 
-சமீபத்தில் அறிமுகப்படுத்தப்பட்ட ஒன்லைன் பாதுகாப்பு சட்டத்தில் புதிய திருத்தங்கள் இன்றைய தினம் (12) அமைச்சரவையின் ஒப்புதலுக்காக சமர்ப்பிக்கப்படும் என தெரிவிக்கப்பட்டுள்ளது.
+New amendments to the recently introduced Online Security Act will be submitted today (12) for the approval of the Cabinet.
 
-அதற்கமைய, கூகுள், யாகூ, அமேசான் மற்றும் மெட்டா போன்ற தொழில்நுட்ப நிறுவனங்கள் மற்றும் சர்வதேச சமூகத்தின் அழுத்தத்தைத் தொடர்ந்து, சட்டம் நடைமுறைக்கு வந்தவுடன் உடனடியாக திருத்தம் செய்ய அரசாங்கம் அவசரமாக நடவடிக்கை எடுத்தது.
+Accordingly, following the pressure of technical organizations such as Google, Yahoo, Amazon and Meta, the government urgently took steps to amend the law when the law came into effect.
 
-தொழில்நுட்ப நிறுவனங்கள், சட்டம் திருத்தப்படாவிட்டால், நாட்டின் டிஜிட்டல் பொருளாதாரத்தை பாதிக்கும் என்று வாதிடப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+It is noteworthy that technology companies were argued that if the law was not amended, it would affect the country's digital economy.
 
 ◼️
 
 [Data](articles/67ba99ec.json)
+
+[Extended Data](ext_articles/67ba99ec.ext.json)
+
+---
+
+### Armed gang shoots cashier, flees with cash from Meegoda Economic Center
+
+*2024-02-12 10:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Armed-gang-shoots-cashier-flees-with-cash-from-Meegoda-Economic-Center/108-276830) · `en`
+
+Meegoda, Feb 12 (Daily Mirror) - A woman was injured when two armed men broke into the Meegoda Economic Center, shot at her and robbed a shop before fleeing early this morning.
+
+Police said the woman, who was the cashier at the time, was hit by three bullets in her abdomen and was admitted to the Homagama Hospital.
+
+A CCTV camera installed in the shop recorded the robbers looting cash from the drawer.
+
+The robbers stole money from the top drawer of the store and shot at the woman after demanding for the key to get money from the bottom drawer.
+
+The Meegoda Police Post is located in front of the Meegoda Economic Center where the shooting took place.
+
+The two gunmen who committed the robbery fled on a motorcycle.
+
+◼️
+
+[Data](articles/88ab714f.json)
+
+---
+
+### Exclusion from Parliamentary Committee; Champika drops bombshell
+
+*2024-02-12 10:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Exclusion-from-Parliamentary-Committee-Champika-drops-bombshell/108-276829) · `en`
+
+Colombo, Feb. 12 (Daily Mirror)- MP Patali Champika Ranawaka alleges that his exclusion from the parliamentary Committee on Ways and Means was influenced by individuals connected to the sugar scam and liquor deals.
+
+He claims that his refusal to boycott President Ranil Wickremesinghe’s parliamentary address led to his removal, while highlighting his efforts as committee chairman to address the losses from the sugar scam and combat fraud related to liquor bottle stickers.
+
+◼️
+
+[Data](articles/35314fae.json)
 
 ---
 
@@ -105,6 +251,24 @@ Following the demonstrations in Sri Lanka, the two countries held talks on the E
 [Data](articles/4f53a765.json)
 
 [Extended Data](ext_articles/4f53a765.ext.json)
+
+---
+
+### Surge in shootings amidst intensified crackdown on crime
+
+*2024-02-12 09:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Surge-in-shootings-amidst-intensified-crackdown-on-crime/155-276828) · `en`
+
+Colombo, Feb 12 (Daily Mirror) - Amidst an intensified crackdown on crime and narcotics, Sri Lanka is witnessing a surge in shootings again despite a decrease in the first month of the launch of the 'Yukthiya' operation.
+
+As the "Yukthiya" operation against organized crime gains momentum, concerns have mounted regarding the recent shooting incidents.
+
+According to police reports, gun-related violence has surged recently, causing panic and chaos. According to Police Spokesman DIG Nihal Thalduwa, there have been at least 12 fatalities resulting from shootings between January and February 10 this year. Several others were injured in those shootings, while two shootings were reported without injuries during the period.
+
+The Sri Lanka Police and Public Security Ministry launched the "Yukthiya" operation in December 2023 to crack down on criminal and drug-related incidents.
+
+...
+
+[Data](articles/2f5a154c.json)
 
 ---
 
@@ -204,6 +368,18 @@ As a result, school children and university students have been instructed to stu
 
 ---
 
+### Relic caskets distributed among temples
+
+*2024-02-12 09:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Relic-caskets-distributed-among-temples/110-276806) · `en`
+
+Some 100 relic caskets were distributed among 100 temples in the North Central Province by Atamasthanadhipathi Most Ven. Pallegama Hemarathana Maha Nayaka Thera at a function held at the Ruwanweliseya premises on Saturday (10). The event was organised by Chief Incumbent of the Ruwanweliseya Ven. Eethalawetunuwewe Gnanathilaka Maha Thera with sponsorship from neurophysician Prof. Ranjanie Gamage. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/f113e68b.json)
+
+---
+
 ### The price of an egg is up from today
 
 *2024-02-12 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193272) · `si`
@@ -239,6 +415,24 @@ Police Media Spokesperson DIG Rock Spokesperson DIG's lawyer said:
 [Data](articles/bc501bd5.json)
 
 [Extended Data](ext_articles/bc501bd5.ext.json)
+
+---
+
+### ඇමෙරිකාවේ නිදහස් පක්ෂ පාක්ෂිකයන් හමුවීමට මෛත්‍රී ඇමෙරිකාවට
+
+*2024-02-12 09:01:31* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකාවේ-නිදහස්-පක්ෂ-පාක්ෂිකයන්-හමුවීමට-මෛත්‍රී-ඇමෙරිකාවට/11-408019) · `si`
+
+හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා 02/12 දින අලුයම ඉන්දියාව හරහා ඇමෙරිකාව බලා පිටත්ව ගිය බව කටුනායක ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා ද සනාථ කළේය.
+
+ඔහු මුළින්ම 02/12 දින අලුයම 02.50 ට ඉන්දීය ගුවන් සේවයේ ඒ.අයි.- 284 දරන ගුවන් යානයෙන්  ඉන්දියාවේ නවදිල්ලි නුවර වෙත ගොස් එතැන් සිට වෙනත් ගුවන් යානයකින්  ඇමෙරිකාවේ නිව්යෝර්ක් නුවර බලා පිටත්ව යාමට නියමිතය .
+
+මෛත්‍රීපාල සිරිසේන මහතා තවත් එම පක්ෂයේ නිලධාරීන් දෙදෙනෙකු මෙම ඇමෙරිකානු  සංචාරය සදහා රැගෙන ගොස් ඇති අතර ඔවුන් ශ්‍රී ලාංකිකයන් සහභාගී වන ශ්‍රී ලංකා නිදහස් පක්ෂ ජනහමු කීපයක් එහිදී පැවැත්වීමට නියමිත බව ශ්‍රී ලංකා නිදහස් පක්ෂ මාධ්‍ය අධ්‍යක්ෂ ප්‍රභාත් මාතරගේ මහතා පැවසීය .
+
+මෙම ජනහමු මාළාව එළඹෙන 02/15 දින සිට ආරම්භ කිරීමට නියමිත බව ද මාධ්‍ය අධ්‍යක්ෂවරයා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/4578e768.json)
 
 ---
 
@@ -1664,6 +1858,18 @@ The presence of Rs.
 
 ---
 
+### Buying the minimum needs..
+
+*2024-02-11 20:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Buying-the-minimum-needs/110-276773) · `en`
+
+Despite the fluctuating prices of vegetables and other essential items in the country, consumers at the Delkanda market buy the minimum of what they need for the day. Pix by Kithsiri De Mel
+
+◼️
+
+[Data](articles/5b00758c.json)
+
+---
+
 ### 8 shop owners arrested for selling cigarettes to boys
 
 *2024-02-11 20:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176133) · `ta`
@@ -1835,285 +2041,5 @@ We're in the decisive place today. We see this year as the election year. At Oct
 [Data](articles/b15414ef.json)
 
 [Extended Data](ext_articles/b15414ef.ext.json)
-
----
-
-### Maligakanda Magistrate advised police
-
-*2024-02-11 18:55:32* · [`adalk`](https://www.ada.lk/breaking_news/මාලිගාකන්ද-මහේස්ත්‍රාත්ගෙන්-පොලීසියට-අවවාද/11-408015) · `si`
-
-Ms. Lachnan Abeywickrama Weerasinghe has advised police officers to investigate school children.
-
-The Magistrate also foretold the first step to drug addicts known as Mawa, "Mawa".
-
-When several defendants were produced before the courts, the Maoda Mattakkuliya Maradakkuliya Maradana, the Magistrate was advised to the police.
-
-The magistrate pointed out that the police were arrested and produced before the courts to be investigated to arrest the real traffickers.
-
-Speaking to the suspects who were produced in court, the magistrate, who was produced by drugs to sell drugs to sell, was the first step to the drug addict.Admonished.
-
-◼️
-
-[Data](articles/74dfc931.json)
-
-[Extended Data](ext_articles/74dfc931.ext.json)
-
----
-
-### Air quality in several districts drop to unhealthy levels
-
-*2024-02-11 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97187/air-quality-in-several-districts-drop-to-unhealthy-levels-) · `en`
-
-The National Building Research Organization (NBRO) has warned that the quality of air in parts of the island has dropped further to unhealthy levels.
-
-Accordingly, the NBRO highlighted that apart from Nuwara Eliya, the air quality in all other districts is at an unhealthy level, with Colombo, Kandy and Jaffna recording particularly high levels of unhealthy air quality.
-
-The NBRO further warned that according to the US Air Quality Index (AQI), the quality of air recorded in Colombo, Kilinochchi, Jaffna, Trincomalee, Badulla, Kurunegala, Kandy and Matale is likely to cause adverse health effects.
-
-The NBRO says that an influx of dust particles contaminating Sri Lanka’s air space through strong winds from neighbourng countries and the extreme dry weather are likely causes for this alarming drop in air quality.
-
-Thus, the NBRO urged for those suffering from respiratory or cardiac diseases, and elderly persons and children to wear face masks when outdoors.
-
-◼️
-
-[Data](articles/fb81bd73.json)
-
-[Extended Data](ext_articles/fb81bd73.ext.json)
-
----
-
-### School student dies into a fabric
-
-*2024-02-11 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193257) · `si`
-
-A 12-year-old schoolgirl has died of strangling a cloth tied to a tree.
-
-The police suspect that the child was playing with a piece of cloth near his house, and the police suspect that the child's neck is unfortunately.
-
-The body of the child was hanging in the tree when the child was delayed due to delay in the house.
-
-The father of the child died a few years ago and the child has two elder sisters.
-
-They have lived in the same house with his mother, and about 1 pm today, the child had gone out of the house to play as usual.
-
-◼️
-
-[Data](articles/c8731830.json)
-
-[Extended Data](ext_articles/c8731830.ext.json)
-
----
-
-### Boy death on rope neck: tragedy in Nuwara Eliya
-
-*2024-02-11 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176122) · `ta`
-
-A school boy who lived in a separate house was killed when a rope was tightened while playing a rope in a tea plantation near the house.
-
-Nuwara Eliya Criminal Investigation Police said the boy had died on the spot.
-
-Mother and two female children live with a male child in the Nuwara Eliya Magastota area.
-
-The eldest daughter has lived in the house after her husband's death and the boy who died in the incident after she went to the university after she was living in the mother -in -law for five years after her husband died.
-
-As usual, the boy was playing a rope in a souvenir tree.
-
-The boy who was lying in the house at a time when the mother was heading at home, the boy who was playing in the tree at the tree, shouted on the neck of the neighbors.
-
-Those who ran near the tree then rescued the boy, but they realized that the boy was unconscious and called for an emergency ambulance.
-
-...
-
-[Data](articles/7976ca7a.json)
-
-[Extended Data](ext_articles/7976ca7a.ext.json)
-
----
-
-### Army took Buddhist clergy to Adi Shiva Temple in Vavuniya
-
-*2024-02-11 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176120) · `ta`
-
-It has been revealed that the army has transported a Buddhist clergyman to the Adi Shiva Temple in Vavuniya on Sunday (11).
-
-On Sunday (11), a group of Buddhist Kumar Kumar had visited the Adi Shiva Temple area on Sunday (11).
-
-It is revealed that the Buddhist clergymen who went there had once again created controversy as their native place.
-
-It is now revealed that the army took the crew in their plowing machine to the area where the Adi Shiva Temple was located in the Adi Shiva temple.
-
-The Buddhist clergy are operating in various parts of the country, including the Gurundur hill.
-
-◼️
-
-[Data](articles/67352e70.json)
-
-[Extended Data](ext_articles/67352e70.ext.json)
-
----
-
-### A big goal to Afghanistan
-
-*2024-02-11 18:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193256) · `si`
-
-Batting first, Sri Lanka scored 308 runs for the loss of 6 wickets at the end of 50 overs.
-
-Charath scored 97 off 74 balls with a premier innings.
-
-Leader Kusal Mendis played a valuable innings and scored 61 runs with a hit with a six.
-
-Sedira Samarawickrama played a precious innings and scored 52 runs with three fours.
-
-New day of Jathika Janith Liyanage is also a collection of its second ODI century today.
-
-Pureeki, Faruki, Ahmed, Queise Ahmed, took one wicket each.
-
-◼️
-
-[Data](articles/a24c5864.json)
-
-[Extended Data](ext_articles/a24c5864.ext.json)
-
----
-
-### The Sea of the sea gradually
-
-*2024-02-11 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193255) · `si`
-
-Foreign media reports that the Aralo Sea, between Kazakhstan and Uzbekistan, has been able to accelerate.
-
-Filled with fish and blue water is considered one of the world's largest internal water sources.
-
-However, it is said that due to climatic change and projects, the Aral Sea is less than a quarter of previous size.
-
-It is said that the ridiculous was headed by the end of the 1960 Armal Zone around the 1960 Aral sea.
-
-The Aral Sea is created with the Syr Darya, "Syr Darya" and "Amu Darya" in river.
-
-In 1960, the Soviet Union launched a major disorder project, where they have changed the route of the river "SYR DARYA" and "AmU DARYA" for irrigation projects.
-
-The United Nations Development Program (UNDP) says that the dryer of the Aral Sea is "the most dangerous disaster in the 20th century."
-
-Experts also indicate that the reduction of water capacity of the Aral Sea of Aral Sea is accelerated.
-
-◼️
-
-[Data](articles/30bff53d.json)
-
-[Extended Data](ext_articles/30bff53d.ext.json)
-
----
-
-### The suspect, who entered a house, killed by neighbors
-
-*2024-02-11 17:18:16* · [`adalk`](https://www.ada.lk/breaking_news/අපරාදයකට-නිවසකට-ඇතුළු-වූ-සැකකරු-අසල්වැසියන්ගේ-පහරින්-මරුට/11-408014) · `si`
-
-Minuwangoda Police are conducting an investigation into a neighboring youth, who had been killed in a neighboring young man, with serious cuts in a house of the Yagodamulla area in Minuwangoda.. The victim has been identified as a resident of Opatha area during the morning.
-
-The preliminary police investigations have revealed that his custom had been customary to leave the house to the house for his business daily for his business.
-
-The house asked the dogs bugs from the area because of the businessman's wife and asked for information. It was then that the businessman's wife informed the wife of the business that he could hear some sounds outside the house.
-
-Initial police investigations have revealed that the young man had come to the house to investigate the voice of the youth in a sleeping room after hearing the voice of a sleeping room.Police investigations have revealed that one of the two suspects had fled with cut injuries in the house.
-
-...
-
-[Data](articles/77d224c5.json)
-
-[Extended Data](ext_articles/77d224c5.ext.json)
-
----
-
-### Signs of work guilty to go to police ministers
-
-*2024-02-11 17:17:37* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-ඇමතිට-බැන්න-සැරයන්ට-වැඩ-වරදින-ලකුණු/11-408013) · `si`
-
-A senior police officer said that a police officer had begun an investigation against a police sergeant that he telephoned the State Minister Tiran Alles.
-
-The Kelaniya District Sergeant is a police sergeant 65223 Police Sergeant at the Kelaniya Divisional Secretariat.
-
-The police sergeant had drunk and drunk and severely scolded them from the evening.
-
-Kelaniya District 111 Assistant Superintendent of Police (Superintendent)
-
-◼️
-
-[Data](articles/4a30dd87.json)
-
-[Extended Data](ext_articles/4a30dd87.ext.json)
-
----
-
-### Two arrested for assaulting senior professor
-
-*2024-02-11 17:11:39* · [`adalk`](https://www.ada.lk/breaking_news/ජේෂ්ඨ-මහාචාර්ය-හිමිට-පහරදුන්නැයි-දෙදෙනෙකු-අත්අඩංගුවට/11-408012) · `si`
-
-Two persons arrested on suspicion of a complaint lodged with a complaint with a complaint lodged with the chief incumbent of the Viharaya of Panadura Rankedura Viharaya have been arrested.
-
-The suspects have been arrested on a complaint lodged by the Chief Incumbent.
-
-The police said that his husband and his son was his son and his son.
-
-The complaint has been assaulted that the suspects had been assaulted by the leader of the Panadura Rankkotha Viharaya yesterday (10).
-
-According to police sources, the dispute has been caused by the family on a private confrontation of the family.
-
-The Chief Incumbent Thera has left the treatment and will be investigated by the Judicial Medical report.
-
-Police Superintendent of Police Samantha Wedge, Assistant Superintendent of Police Nishantha Senaratne conducting further investigations.
-
-◼️
-
-[Data](articles/fc357711.json)
-
-[Extended Data](ext_articles/fc357711.ext.json)
-
----
-
-### Here is the goal of the under 19 final battle
-
-*2024-02-11 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193254) · `si`
-
-The final match between Australia and India in the Under-19 World Cup final will be held at South Africa.
-
-At first, Sri Lankans scored 253 runs for the loss of 7 wickets at the end of 50 overs.
-
-Harjas Singh scored 55 runs in 64 balls with three sixes and 3 fours.
-
-Leader Hugh WeIBGEN scored 48 runs while Harry Dixon scored 42 runs.
-
-At the end, the OLIER PEAKED OLIVER PEAK has been able to build the oliver peake on top of the group scoreboard.
-
-He scored 46 runs off 43 balls and two fours.
-
-RAJ Limbani, a bowling, took a wicket with Australia.
-
-Naman Tiwari took a wicket with wickets and took one wicket each.
-
-◼️
-
-[Data](articles/0a42f265.json)
-
-[Extended Data](ext_articles/0a42f265.ext.json)
-
----
-
-### Legal action taken against Motor Traffic Department staff for fraudulent vehicle registration
-
-*2024-02-11 17:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Legal-action-taken-against-Motor-Traffic-Department-staff-for-fraudulent-vehicle-registration/108-276771) · `en`
-
-Colombo, Feb 11 (Daily Mirror) -The Commission to Investigate Allegations of Bribery or Corruption has initiated legal proceedings against seven individuals, including five Department of Motor Traffic employees, for unlawfully registering around 400 vehicles not cleared through Customs.
-
-According to the Bribery Commission, they possess information regarding the registration of nearly 400 vehicles that bypassed Sri Lanka Customs procedures, resulting in financial losses to the government through fraudulent means.
-
-Investigation officers from the commission have identified specific details about 156 of these vehicles, most of which fall under the luxury category.
-
-Consequently, the Bribery Commission has seized seven vehicles from the current owners and returned them to the Sri Lankan Customs, following court orders.
-
-◼️
-
-[Data](articles/f6998f28.json)
-
-[Extended Data](ext_articles/f6998f28.ext.json)
 
 ---

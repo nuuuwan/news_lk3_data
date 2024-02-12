@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 20:33:11**
+As of **2024-02-12 20:50:07**
 
 ## Newspaper Stats
 
-*Scraped **6,543** Articles*
+*Scraped **6,545** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ islandlk | 347
 dailyftlk | 348
 newsfirstlk | 363
 adalk | 553
-tamilmirrorlk | 798
+tamilmirrorlk | 799
 adaderanalk | 799
 virakesarilk | 816
-adaderanasinhalalk | 910
+adaderanasinhalalk | 911
 dailymirrorlk | 956
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,540 (100.0%) of 6,543 articles have been extended.
+6,545 (100.0%) of 6,545 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-12 (Monday)
+
+### The opening of the Rama Temple;Ranil congratulates Modi
+
+*2024-02-12 20:13:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராமர்-கோவில்-திறப்பு-மோடிக்கு-ரணில்-வாழ்த்து/175-333088) · `ta`
+
+President Ranil Wickremesinghe today congratulated Indian Prime Minister Narendra Modi for the inauguration of the Rama Temple in Ayodhya last month.
+
+The introduction of the UPI Payment Interface (UPI) in Mauritius and Sri Lanka was held today (12) through the participation of Indian Prime Minister Narendra Modi.
+
+President Ranil Wickremesinghe and Mauritius Prime Minister Pravind Jukhnaut were also present.
+
+President Ranil Wickremesinghe outlined the Economic and Cultural Front for the long historical ties between India and Sri Lanka.. “Prime Minister Modi, this is the second important opportunity for you.. This shows our connection in economic and culturally. ”. Remble
+
+◼️
+
+[Data](articles/3fbf00f2.json)
+
+[Extended Data](ext_articles/3fbf00f2.ext.json)
+
+---
+
+### There is a controversial discovery on another drug
+
+*2024-02-12 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193299) · `si`
+
+Dr. Genal Director General of Health Services has arisen for the antibiotic standard of Merepenem, which is currently used in the country. Mr. Wijesuriya revealed today (12).
+
+He says that the incidents were reported to meet the glass cuts in the vials that contain the antibiotics.
+
+The supply of the antibiotic revealed in the containers of the Morpenem, the supplier that he had revealed was that the stock of drugs had failed in quality.
+
+Meanwhile, health careers have been alleged that private suppliers have been stored in the Customs Terminals of Welisara, Kelaniya and Wattala by the private suppliers to Sri Lanka by acting as the importer of the State Pharmaceutical Corporation.
+
+According to them, the drugs were kept unsafe for more than four months without any treatment of the proper temperature.
+
+It is said that in one container contains about US $ 1 million drugs.
+
+...
+
+[Data](articles/d7e67088.json)
+
+[Extended Data](ext_articles/d7e67088.ext.json)
+
+---
 
 ### SriLankan Airlines flight turns back to Melbourne due to technical issue
 
@@ -45,6 +89,8 @@ All passengers have been accommodated in hotels until the rescheduling of the fl
 ◼️
 
 [Data](articles/02804092.json)
+
+[Extended Data](ext_articles/02804092.ext.json)
 
 ---
 
@@ -106,41 +152,53 @@ A senior police officer said the suspect was to be produced in court.
 
 ---
 
-### பெண் உத்தியோகஸ்தரை துஷ்பிரயோகம் செய்த ஆண் உத்தியோகஸ்தர் கைது
+### A male officer arrested for abusing female officer
 
 *2024-02-12 19:09:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-உத்தியோகஸ்தரை-துஷ்பிரயோகம்-செய்த-ஆண்-உத்தியோகஸ்தர்-கைது/175-333086) · `ta`
 
-பிரதேச பெண் கிராம உத்தியோகஸ்தரை பாலியல் துஷ்பிரயோகஸ்தரை உட்படுத்திய குற்றச்சாட்டின் பேரில் கல்பிட்டி பிரதேச செயலகத்தின் சிரேஷ்ட கிராம உத்தியோகஸ்தர் ஒருவர் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+A senior Grama Niladhari of the Kalpitiya Divisional Secretariat has been arrested on charges of committing sexual abuse of a woman village officer.
 
-முதலில் பிரதேச செயலாளரிடம் முறைப்பாடு செய்ததாகவும், ஆனால் அவர் உரிய நடவடிக்கை எடுக்கவில்லை எனவும் பாதிக்கப்பட்ட பெண் பொலிஸாரிடம் தெரிவித்துள்ளார்.
+The victim told the police that she had first lodged a complaint with the Divisional Secretary but that she did not take appropriate action.
 
-தான் தனிமையில் இருந்தபோது, ​​தனக்கு வழங்கப்பட்ட மக்கள்தொகை கணக்கெடுப்பு தொடர்பான பணிகளுக்காக வழங்கப்பட்ட கணினியை எடுத்துச் செல்வற்காக அந்தச் சந்தேக நபர் தன்னை வீட்டுக்கு அழைத்ததாக அவர் கூறினார்.
+When he was alone, he said the suspect had called him home to carry the computer provided for the census related to him.
 
-சந்தேக நபர் தனது கடமைகளை புறக்கணித்ததாக குற்றம் சாட்டி, தன்னை கையால் பிடித்ததாகவும், இந்த சம்பவத்தினால் ஏற்பட்ட மன வேதனையின் காரணமாகவே பதவியில் இருந்து ராஜினாமா செய்ததாகவும் அவர் மேலும் தெரிவித்தார்.
+He added that the suspect had taken him by hand and resigned from office due to the pain caused by the incident.
 
-சந்தேக நபரை நீதிமன்றில் ஆஜர்படுத்த உள்ளதாக சிரேஷ்ட பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+A senior police officer said the suspect was to be produced in court.
 
 ◼️
 
 [Data](articles/184b9abf.json)
 
+[Extended Data](ext_articles/184b9abf.ext.json)
+
 ---
 
-### සනත් නිශාන්තට මරු කැඳවූ අනතුර ගැන කන්ටේනර් රියදුරුගෙන් ප්‍රකාශ ගනියි
+### Container Driver tells about the accident that Sanath Nishantha died
 
 *2024-02-12 19:09:01* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්තට-මරු-කැඳවූ-අනතුර-ගැන-කන්ටේනර්-රියදුරුගෙන්-ප්‍රකාශ-ගනියි/11-408036) · `si`
 
-හිටපු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ මරණය සිදුවූ ආකාරය සැක සහිත යැයි පවසමින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත, සිදුකළ පැමිණිල්ලකට අනුව ඊයේ (12) දින කන්ටේනර් රථ රියදුරු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත කැඳවා ප්‍රකාශ ලබා ගත් බව ජ්‍යෙෂ්ඨ පොලිස් නිලධාරියෙක් පැවසීය.
+A complaint lodged with the Criminal Investigation Department (CID) has summoned statements to the Criminal Investigation Department (CID) by the Death of the CID.
 
-හිටපු අමාත්‍යවරයාගේ බිරිඳ වන අධි නීතිඥ  චමරි ප්‍රියංකා මහත්මිය සිය සැමියාගේ මරණය සිදුවූ ආකාරය සැක සහිත බව පවසමින් ඉකුත්( 7) වෙනිදින සිදු කරන ලද  පැමිණිල්ලකට අදාළව මෙම ප්‍රකාශ සටහන් කර ගැනිණ.
+Former minister's wife Chamari Priyanka, a husband's wife, said that these statements were made regarding a complaint.
 
-මාරක රිය අනතුර සම්බන්ධයෙන් විශේෂිත කරුණු කීපයක් ඉදිරිපත් කරමින් පිටු පහක පමණ ප්‍රමාණයකින් යුත්  විස්තර ඇතුළත්  කර එකී පැමිණිල්ල ඉදිරිපත් කර තිබිණි.
+The complaint has been lodged with a few-page details about the fatal accident.
 
-ඒ අනුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශන අංශය රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා ගමන් ගත් ජීප් රථය ගැටුණු  බව කියන කන්ටේනර් රථය පැදවූ රියදුරාට කරන ලද දැනුම් දීමකට අනුව ඔහු එම අංශය වෙත නීතිඥවරයෙකු සමග පැමිණ පුරා පැය පහකට ආසන්නන්  කාලයක්  ප්‍රකාශ ලබා දී තිබිණි.
+According to the Criminal Investigation Department's murder and organized criminal investigation unit, the organized criminal investigation into the jeep of State Minister Sanath Nishantha had come up with a lawyer to approximately five hours.
 
-...
+The State Minister Sanath Nishantha took rural water supply in January 1 (25th) of the Colombo-Katunayake Expressway.
+
+The driver of the luxury vehicle was arrested and remanded and released on bail.
+
+The deceased has taken a wedding party at a hotel in Bandarawatta, Chilaw.
+
+Investigations are conducted by the murder and organized criminal investigation unit of the Criminal Investigation Department.
+
+◼️
 
 [Data](articles/82e14d3e.json)
+
+[Extended Data](ext_articles/82e14d3e.ext.json)
 
 ---
 
@@ -1949,35 +2007,5 @@ Accompanying Sirisena are two officials from the Sri Lanka Freedom Party, as dis
 [Data](articles/72f42fc3.json)
 
 [Extended Data](ext_articles/72f42fc3.ext.json)
-
----
-
-### Inaugurating A New Political Culture With The Uma Oya Project
-
-*2024-02-12 11:56:07* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/inaugurating-a-new-political-culture-with-the-uma-oya-project/) · `en`
-
-The 120 MW hydro power plant of the Uma Oya project is to become operational this month. It will be one of the largest hydro power plants in the country after the Victoria, Kotmale and Upper-Kotmale power stations and will provide Sri Lanka with a badly needed source of low-cost electricity. The construction of this project to divert water from the central highlands to the south-eastern dry zone commenced in March 2010. When infrastructure projects that had been discussed and planned over many decades but no government had been able to actually implement, began to be built during my tenure as President, envious individuals denigrated these achievements by saying that the cost estimates of these projects had been inflated by members of my government in order to make money.
-
-...
-
-[Data](articles/82f55532.json)
-
-[Extended Data](ext_articles/82f55532.ext.json)
-
----
-
-### Coconut tree falls down and falls down!
-
-*2024-02-12 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176173) · `ta`
-
-Medagama police say that a father of four children who climbed into the coconut tree in his garden had fallen off the tree.
-
-He was seriously injured in the fall from the coconut tree and was admitted to the Medagama Divisional Hospital and died after being transferred to the Moneragala District General Hospital for further treatment.
-
-◼️
-
-[Data](articles/70b8334d.json)
-
-[Extended Data](ext_articles/70b8334d.ext.json)
 
 ---

@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-12 23:51:47**
+As of **2024-02-13 00:02:41**
 
 ## Newspaper Stats
 
-*Scraped **6,570** Articles*
+*Scraped **6,572** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 80
 bbccomsinhala | 90
 dbsjeyarajcom | 147
-economynextcom | 337
+economynextcom | 339
 islandlk | 347
 dailyftlk | 348
 newsfirstlk | 363
@@ -26,7 +26,7 @@ dailymirrorlk | 961
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,570 (100.0%) of 6,570 articles have been extended.
+6,572 (100.0%) of 6,572 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -752,6 +752,24 @@ The responses to the visit by other parties have, so far, been lukewarm. The UNP
 
 ---
 
+### Colombo-bound SriLankan flight delayed after taking off in Melbourne over technical fault
+
+*2024-02-12 19:02:00* · [`economynextcom`](https://economynext.com/colombo-bound-srilankan-flight-delayed-after-taking-off-in-melbourne-over-technical-fault-150671/) · `en`
+
+ECONOMYNEXT – A Colombo-bound state-run SriLankan was forced to return to Melbourne Airport after taking over due to a technical fault and the flight is delayed as it is being assessed by engineers for technical support, SriLankan Airlines said in a statement on Monday.
+
+Loss-making SriLankan Airlines is in the process of restructuring with the government has decided to sell its majority stake to the best bidder. The Airline, which once was profitable under Dubai-based Emirates management has witnessed a raft of technical issues in Colombo as well as foreign airports recently.
+
+“SriLankan Airlines confirms that flight UL 605 from Melbourne to Colombo made a safe return back to the Melbourne Airport shortly after taking off at 18:16hrs (Melbourne time) today due to a technical issue,” the Airtline said in a statement.
+
+...
+
+[Data](articles/7d3d2d3c.json)
+
+[Extended Data](ext_articles/7d3d2d3c.ext.json)
+
+---
+
 ### Divisions within SJB surface, Fonseka has hour-long meeting with Ranil
 
 *2024-02-12 19:02:00* · [`islandlk`](http://island.lk/divisions-within-sjb-surface-fonseka-has-hour-long-meeting-with-ranil/) · `en`
@@ -823,6 +841,28 @@ Awareness and preventive measures, including adequate hydration and bathing for 
 [Data](articles/adcc9f3e.json)
 
 [Extended Data](ext_articles/adcc9f3e.ext.json)
+
+---
+
+### Sri Lanka launches UPI to facilitate payments by growing Indian tourists, boost formal transactions
+
+*2024-02-12 18:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-launches-upi-to-facilitate-payments-by-growing-indian-tourists-boost-formal-transactions-150666/) · `en`
+
+ECONOMYNEXT – Sri Lanka launched Unique Payment Interface (UPI), a digital payment method used by India to facilitate payments by growing Indian tourists into Sri Lanka and increase formal banking, officials said.
+
+The new payment system was launched in the presence of Indian Prime Minister Narendra Modi, Sri Lankan President Ranil Wickremesinghe, and Mauritius Prime Minister Pravind Jugnauth with Indians making payments in Colombo and Port Louis.
+
+The launch will allow Indians to make payments in Sri Lanka through UPI to any vendor who uses Lanka QR using a smartphone without any cash or card.
+
+Officials said Sri Lanka has identified 65,000 hotspots where Indian tourists frequently visit and 10,000 of such locations will be enabled to use UPI in the next three weeks, while the rest will be enabled by March 31 this year.
+
+Topping the list, Indian tourists of over 300,000 accounted for a fifth of the total 1,487,303 foreign visitors who arrived into the island nation in 2023.
+
+...
+
+[Data](articles/e4d22e33.json)
+
+[Extended Data](ext_articles/e4d22e33.ext.json)
 
 ---
 
@@ -2019,43 +2059,5 @@ Israeli fighters have been severely attacked in the South Gaza, and a large numb
 [Data](articles/74d0a59e.json)
 
 [Extended Data](ext_articles/74d0a59e.ext.json)
-
----
-
-### Unified Payment Interface launched in Sri Lanka
-
-*2024-02-12 13:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Unified-Payment-Interface-launched-in-Sri-Lanka/108-276839) · `en`
-
-The Unified Payment Interface (UPI) service was launched in Sri Lanka today.
-
-Indian Prime Minister Narendra Modi and Sri Lanka President Ranil Wickremesinghe witnessed the launch via video conference.
-
-India has emerged as a leader in Fintech innovation and Digital Public Infrastructure.
-
-◼️
-
-[Data](articles/7b1ac327.json)
-
-[Extended Data](ext_articles/7b1ac327.ext.json)
-
----
-
-### Former minister Gamini to visit President
-
-*2024-02-12 13:43:41* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමති-ගාමිණී-බලන්න-ජනපති-යයි/11-408027) · `si`
-
-President Ranil Wickremesinghe was joined in to consult the health of former Minister Gamini Jayawickrama Perera at present.
-
-The President visited Gamini Jayawickrama Perera's Katugampura yesterday morning (11).
-
-The President also inquired about the relatives of the family and joined the people of the area near Gamini Jayawickrama Perera.
-
-Former Minister Akila Viraj Kariyawasam and acting IGP Deshabandu Tennakoon were also present at the occasion.
-
-◼️
-
-[Data](articles/172846bc.json)
-
-[Extended Data](ext_articles/172846bc.ext.json)
 
 ---

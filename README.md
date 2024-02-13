@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 23:33:07**
+As of **2024-02-13 23:52:06**
 
 ## Newspaper Stats
 
-*Scraped **6,811** Articles*
+*Scraped **6,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,63 @@ newsfirstlk | 363
 adalk | 581
 tamilmirrorlk | 835
 adaderanalk | 836
-virakesarilk | 860
+virakesarilk | 861
 adaderanasinhalalk | 954
-dailymirrorlk | 1,000
+dailymirrorlk | 1,001
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,809 (100.0%) of 6,811 articles have been extended.
+6,813 (100.0%) of 6,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### SC rules against an overholding tenant after 21 years legal battle
+
+*2024-02-13 23:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SC-rules-against-an-overholding-tenant-after-21-years-legal-battle/108-276945) · `en`
+
+The Supreme Court has delivered a judgement against an overholding tenant who continued to occupy a property after his rental agreement had expired, following a 21 year legal battle.
+
+The plaintiffs, Bopage Martin and Indrani Bopage, the father and the daughter respectively had filed a plaint before Anuradhapura District Court in 2003 seeking ejectment of three defendants from the premises known as “New Lanka Stores” located at Horawpathana town, on the basis that the defendants are the overholding tenants.
+
+The defendants Mohamed Malikge Nawaz, Mohamed Malikge Riyaz and Mohamed Malikge Farees filed answers seeking the dismissal of the plaintiffs’ action and a declaration of title to the premises on “long possession” or claiming title to the premises by prescription. During the pendency of the case the first plaintiff (father) died and the second plaintiff (daughter) proceeded with the case.
+
+...
+
+[Data](articles/ad6831a0.json)
+
+[Extended Data](ext_articles/ad6831a0.ext.json)
+
+---
+
+### Santo became the captain of Bangladesh's trio cricket teams
+
+*2024-02-13 23:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176309) · `ta`
+
+The Bangladesh Cricket Board has appointed Najmul Hosain Santo as the captain of the trio cricketers next year.
+
+Shando has been given the responsibility of the team because of the uncertainty of returning to former team captain Shakib al -Hasan.
+
+Shanto was the leader of Bangladesh in the three -year series against New Zealand in December.
+
+According to the new appointment, he will lead the Bangladesh team in the United States and the Caribbean Islands in June this year.
+
+Shakib al -Hasan has said that he will quit the post of international ODI captain with the World Cup in India.
+
+Due to this, the problem arose on the post of captain of the Bangladesh team. And in his left eye, he could not continue to play due to a retina problem last month.
+
+The Bangladeshi Cricket Board said that although we consider Shakiba as our first choice, he had to hand over the responsibility to Santo in view of his physical condition.
+
+...
+
+[Data](articles/93727334.json)
+
+[Extended Data](ext_articles/93727334.ext.json)
+
+---
 
 ### Customs impounds illegally imported readymade garments worth Rs. 150mn
 
@@ -88,6 +132,8 @@ Police said that apart from legal proceedings, the inspector will also face disc
 
 [Data](articles/170a6e47.json)
 
+[Extended Data](ext_articles/170a6e47.ext.json)
+
 ---
 
 ### The accused oic accused
@@ -121,6 +167,8 @@ This is a common incident, and it comes up as a topic only when people see it. T
 ...
 
 [Data](articles/bfef9ddf.json)
+
+[Extended Data](ext_articles/bfef9ddf.ext.json)
 
 ---
 
@@ -1997,41 +2045,5 @@ The Election Commission is responsible for conducting the elections and the Gove
 [Data](articles/e58c4018.json)
 
 [Extended Data](ext_articles/e58c4018.ext.json)
-
----
-
-### Presidential Election on schedule, General Election set for next year: PMD
-
-*2024-02-13 12:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidential-Election-on-schedule-General-Election-set-for-next-year-PMD/108-276921) · `en`
-
-Colombo, Feb 13 (Daily Mirror) - The President's Media Division (PMD) confirmed that the Presidential Election will be held within the mandated period and will adhere to the current timeline.
-
-According to the PMD, the General Election is will be held next year with financial provisions to be provided for in the 2025 budget.
-
-The Election Commission is responsible for conducting the elections and the Government will communicate with the Commission as and when required, the PMD further said.
-
-◼️
-
-[Data](articles/e5b02654.json)
-
-[Extended Data](ext_articles/e5b02654.ext.json)
-
----
-
-### A car is burning on fire
-
-*2024-02-13 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193324) · `si`
-
-The car in Wadduwa, Pothupitiya, was completely burning, "says Wadduwa Police.
-
-Four soldiers of the Kalutara Municipal Council had come and controlled the fire.
-
-It is said that the vehicle was caused by a technical fault.
-
-◼️
-
-[Data](articles/a8743bcc.json)
-
-[Extended Data](ext_articles/a8743bcc.ext.json)
 
 ---

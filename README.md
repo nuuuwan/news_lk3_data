@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 18:08:32**
+As of **2024-02-13 18:19:55**
 
 ## Newspaper Stats
 
-*Scraped **6,769** Articles*
+*Scraped **6,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ economynextcom | 345
 islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
-adalk | 577
+adalk | 578
 adaderanalk | 830
 tamilmirrorlk | 831
 virakesarilk | 853
@@ -26,7 +26,7 @@ dailymirrorlk | 986
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,769 (100.0%) of 6,769 articles have been extended.
+6,769 (100.0%) of 6,770 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -67,6 +67,20 @@ Additional Public Prosecutor R Muniapparaj made the submission before a division
 [Data](articles/169d5e6a.json)
 
 [Extended Data](ext_articles/169d5e6a.ext.json)
+
+---
+
+### ඇමති ඩයනාගේ අභියාචනාව දින නියමයක් නැතිව කල් තබයි
+
+*2024-02-13 17:09:49* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-ඩයනාගේ-අභියාචනාව-දින-නියමයක්-නැතිව-කල්-තබයි/11-408063) · `si`
+
+රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මියගේ පාර්ලිමේන්තු මන්ත්‍රී ධුරය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනු කර තිබූ පෙත්සමක් නිෂ්ප්‍රභ කරමින් අභියාචනාධිකරණය විසින් ඉකුත්දා දුන් තීන්දුවට එරෙහිව ගොනුකර තිබූ අභියාචනා පෙත්සම පිළිබඳ විභාගය දින නියමයක් නොමැතිව කල්තැබීමට ගාමිණී අමරසේකර, කුමුදුනි වික්‍රමසිංහ සහ ජනක් ද සිල්වා යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ප්‍රකාශයට පත් කලහ.
+
+සමාජ ක්‍රියාකාරිකයකු වන ඔෂල හේරත් මහතා විසින් මෙම අභියාචනා පෙත්සම ඉදිරිපත් කර තිබු පෙත්සම අද කැඳවූ අවස්ථාවේදී වගඋත්තරකාර ඩයනා ගමගේ මහත්මිය වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ශවීන්ද්‍ර ප්‍රනාන්දු මහතා කරුණු ඉදිරිපත් කළ අතර පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් පෙනී සිටි නීතිඥ හෆීල් ෆාරිස් මහතා නැවත කරුණු ඉදිරිපත් කිරීම සිදුකළේය.
+
+◼️
+
+[Data](articles/ef4af3c2.json)
 
 ---
 
@@ -1983,27 +1997,5 @@ Meanwhile, the driver of the passenger bus has been arrested by Mankulam Police 
 [Data](articles/9b81270b.json)
 
 [Extended Data](ext_articles/9b81270b.ext.json)
-
----
-
-### Keerthi Sri Rajasinghe Narendran's metal statue
-
-*2024-02-13 10:53:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கீர்த்தி-ஸ்ரீ-ராஜசிங்க-நரேந்திரனின்-உலோகச்-சிலை-திறப்பு/175-333120) · `ta`
-
-The metal statue of Keerthi Sri Rajasinghe Narendran, installed at the Kalupitiya Valugarama Viharaya, was opened by the President.
-
-Visitra Banaka Vanaka Vikarama Vikarama Vikarama. President Ranil Wickremasinghe was held on Monday (12) to remove the metal statue of Keerthi Srirajasinghe Narendran, who was installed at the Kalupitivalakarama Vihara on the 70th birthday of Maharagama Nanda Nayaka Thera.
-
-The metal statue has been constructed with the support of the donors of Thailand, including the Mahasangas in Thailand.
-
-The President also opened the metal statue of Keerthi Sri Rajasinghe Narendran. Combined with this. The statue of the Velitta Saranankara Sankaraja Thera was also unloaded.
-
-Following this, Sri Kalyani Samasiri Dharma Maha Sangha Sabha Mahanayaka Thera Malwane Panchasarapithana Thera was performed by religious observances.. Verse. The salon was performed by Maharagama Nanda Nayaka Thera.
-
-...
-
-[Data](articles/479f28c2.json)
-
-[Extended Data](ext_articles/479f28c2.ext.json)
 
 ---

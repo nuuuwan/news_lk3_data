@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 15:17:21**
+As of **2024-02-13 15:32:56**
 
 ## Newspaper Stats
 
-*Scraped **6,728** Articles*
+*Scraped **6,729** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,87 +20,113 @@ adaderanalk | 818
 tamilmirrorlk | 828
 virakesarilk | 848
 adaderanasinhalalk | 942
-dailymirrorlk | 982
+dailymirrorlk | 983
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,715 (99.8%) of 6,728 articles have been extended.
+6,728 (100.0%) of 6,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
-### சாக்லேட் வாங்கியவருக்கு அதிர்ச்சி
+### NMRA faces exodus as two more Board members resign
+
+*2024-02-13 14:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NMRA-faces-exodus-as-two-more-Board-members-resign/108-276925) · `en`
+
+The National Medicines Regulatory Authority (NMRA) has witnessed the resignation of two members from its board namely Supul Wijesinghe and Dr  Priyantha Serasinghe.
+
+Prior to the latest development, Attorney-at-Law Manoj Gamage conveyed his decision to step down as a Director of the NMRA in a resignation letter submitted to Minister of Health Ramesh Pathirana, effective today, February 13th.
+
+The NMRA Board comprise of Dr. Kosala Karunaratne, Dr. Asela Gunawardane, M.M. Chathura Parakrama Mohottigedara, Dr.Pradeep Kumarasinghe De Silva, Dr. Banukie Jayasuriya and Dr. Duminda Ariyaratne
+
+◼️
+
+[Data](articles/2160e060.json)
+
+---
+
+### Shock to the buyer of chocolate
 
 *2024-02-13 14:49:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாக்லேட்-வாங்கியவருக்கு-அதிர்ச்சி/175-333135) · `ta`
 
-கடைகளில் வாங்கும் குளிர்பானங்கள் , சிப்ஸ் பாக்கெட் அல்லது உணவகத்தில் வாங்கி வரும் சாப்பாட்டில் பூச்சிகள், புழுக்கள் இருப்பதை சாப்பிட்டு உடல்நலக் குறைபாடு ஏற்படும் பல சம்பவங்களை இதற்கு முன் பலமுறை கேட்டோ பார்த்தோ இருப்போம். இதேபோன்ற சம்பவம் ஒன்று தற்போது இணையத்தில் வைரலாகி வருகிறது.
+We have seen many incidents before you have been eating pests, pests, worms and worms buying in stores, chips pocket or restaurant.. A similar incident is currently going viral on the Internet.
 
-ரொபின் ஜேக்குயூஸ் என்ற நபர் ஹைதராபாத்தின் மெட்ரோ நிலையத்திலுள்ள கடையில் சாக்லேட் வாங்கியிருக்கிறார். அதை சாப்பிடும் போதுதான் சாக்லேட்டில் புழுக்கள் நெளிவதை பார்த்து அதிர்ச்சியடைந்துள்ளார்.
+A man named Robin Jakes has bought chocolate at a shop at Metro station in Hyderabad. It was only when he eaten it was shocked to see the worms in the chocolate.
 
-சாக்லேட்டில் புழு இருப்பதை அவதானித்த ரொபின், அமீர்பெட் மெட்ரோ ரயில் நிலையத்தில் உள்ள ரத்னாதீப் கடையில் தான் வாங்கியதற்கான பில்லையும் உடனடியாக வீடியோவாக எடுத்து, இதுபோன்ற சுகாதாரப் பிரச்னைகளுக்கு யார் பொறுப்பு? பொருட்களுக்கு தரப் பரிசோதனை எல்லாம் செய்ய மாட்டார்களா என கோபமாக கேட்டு  X ல் பதிவிட்டுள்ளார்.
+Robin noticed the existence of a worm on the chocolate, who immediately took the bill for his purchase at the Ratnadip shop at the Aamirpet Metro station and who was responsible for such health problems?He posted angrily asking if he would not do all the quality tests for the goods.
 
-இந்தப் பதிவின் கீழ் பல பதிவர்கள் தங்கள் கவலைகளை தெரிவித்து வருகின்றனர். இது போல மோசமான பொருட்களை விற்பனை செய்யும் கடைக்காரர்கள் மீது அதிகாரிகள் கடுமையான நடவடிக்கை எடுக்க வேண்டும் எனவும் கோரியுள்ளனர்.
+Many bloggers express their concerns under this post. Officials have also demanded strict action against shopkeepers who sell bad goods.
 
 ◼️
 
 [Data](articles/0b3d584d.json)
 
+[Extended Data](ext_articles/0b3d584d.ext.json)
+
 ---
 
-### විපක්ෂයට අටවපු උගුලක් ගැන ගම්මන්පිලගෙන් හෙළිදරව්වක්
+### Gammanpila reveals a trap of the opposition
 
 *2024-02-13 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193332) · `si`
 
-විධායක ජනාධිපති ක්‍රමය අහෝසි කිරීමේ යෝජනාව ජනාධිපතිවරණය නොපැවැත්වීමට සිදු කරන කුමන්ත්‍රණයක් බව පාර්ලිමේන්තු මන්ත්‍රී නීතිඥ උදය ගම්මන්පිල මහතා පවසයි.
+The proposal to abolish the executive presidency is a conspiracy to not hold the presidential election.
 
-එහිදී ඔහු තවදුරටත් පැවසුවේ, රාජ්‍ය නොවන සංවිධාන හරහා කරළියට ගෙනැවිත් තිබෙන විධායක ජනාධිපති ක්‍රමය අහෝසි කිරීමේ යෝජනාව, ජනාධිපතිවරණය නොපැවැත්වීමට ආණ්ඩුවේද ආශිර්වාදයෙන් ක්‍රියාත්මක වන කුමන්ත්‍රණයක් බවය.
+He further stated that the proposal to abolish the executive presidency that has been brought to the forest through NGOs is a conspiracy of the government.
 
-එහිදී ඔහු පැවසුවේ විධායක ජනාධිපති ක්‍රමය අහෝසි කිරීම උගුලක් බවත් එය ජන්ද අතුරුදන් කිරීමේ කුමන්ත්‍රණයක් බවත් ය.
+He said the abolition of the executive presidency was a trap and a conspiracy to disappear.
+
+"The proposal to abolish the executive presidency has brought the government's blessing through the government's blessing through NGOs through NGOs. When the proposal was brought before, the opposition leader said that if Parliament was dissolved with the abolition of the executive presidency, it was ready to support this proposal. Therefore, action has been taken to dissolve the Parliament to dissolve the proposal as an interim arrangement of this year's resolution.. Some of the opposition have already supported the proposal. The government expects all these parties to support the abolition of the executive presidency and the TNA. "
 
 ...
 
 [Data](articles/d923b8d6.json)
 
+[Extended Data](ext_articles/d923b8d6.ext.json)
+
 ---
 
-### වෙඩිවැදී ජීවිතක්ෂයට පත්වූ පොලිස් සැරයන්ගේ ඥාතීන්ට පරිත්‍යාගයක්
+### Sacrifice to relatives of policemen who were killed
 
 *2024-02-13 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193331) · `si`
 
-මල්වතුහිරිපිටිය ප්‍රදේශයේ දී සැකකරුවෙකු අත්අඩංගුවට ගැනීමට යාමේ දී වෙඩිවැදී ජීවිතක්ෂයට පත් වු පොලිස් සැරයන්වරයාට අවසන් ගෞරව දැක්වීම සඳහා වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අද (13) දේහය තැන්පත් කර තිබු නිවසට පැමිණියේය.
+Acting IGP Tennakoon arrived at the house which was placed in the house where the last respected police sergeant in the Malwathuhiripitiya.
 
-එහිදී එම නිලධාරියාගේ පවුලේ ඥාතීන් වෙත රුපියල් මිලියනයක මුදලක් ලබා දීමට ද වැඩබලන පොලිස්පතිවරයා කටයුතු කර තිබිණි.
+The acting IGP also had the acting of a million rupees to the relatives of the officer.
 
-පසුගිය සෙනසුරාදා අලුයම් කාලයේ මල්වතුහිරිපිටය පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායමක් සැකකරුවෙකු අත්අඩංගුවට ගැනීමට යාමේ දී ඇති වු ගැටුම්කාරී තත්ත්වයක් අතරතුර සිදුවු වෙඩි තැබීමකින් අදාළ පොලිස් සැරයන්වරයා ජීවිතක්ෂයට පත්වුණි.
+The police sergeant was killed in a shooting of a group of LTTE cadres in the Malwathuhipitiya Police Station Last Saturday.
 
-මේ අතර, ජීවිතක්ෂයට පත් වු පොලිස් සැරයන්වරයා උපපොලිස් පරීක්ෂක තනතුරට උසස් කර තිබේ.
+Meanwhile, the delegated police sergeant has been promoted to the post of Sub-Inspector.
 
-වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් මෙම උසස්වීම ලබාදී ඇති බව පොලීසිය සඳහන් කළේය.
+Acting IGP Deshabandu Tennakoon has been given this promotion, police said.
 
 ◼️
 
 [Data](articles/78d2c863.json)
 
+[Extended Data](ext_articles/78d2c863.ext.json)
+
 ---
 
-### බෙලිඅත්ත ඝාතනයේ සැකකරුවන් තිදෙනෙකුට අධිකරණය දුන් නියෝගය
+### Three suspects in Beliatta murder
 
 *2024-02-13 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193330) · `si`
 
-බෙලිඅත්ත පංච පුද්ගල ඝාතනයේ සැකකරුවන් තිදෙනෙකු අද (13) තංගල්ල අධිකරණයට ඉදිරිපත් කළේය.
+Three suspects in Beliatta were produced in court today (13).
 
-එහිදී තංගල්ල ප්‍රධාන මහෙස්ත්‍රාත් හේමන්ත පුෂ්පකුමාර මහතා ඔවුන්ව මේ මස 27 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කළේය.
+Tangalle Chief Magistrate Hemantha Pushpakumara ordered them to be remanded until the 27th of this month.
 
-එහි ඉතිරි සැකකරුවන් අද අධිකරණයට ඉදිරිපත් නොකළ බව අප වාර්තාකරු පැවසීය.
+The remaining suspects were produced in court today, our correspondent said.
 
-වේයන්ගොඩදී අත්අඩංගුවට ගත් වෙඩික්කරුගේ බිරිඳ සහ පියා මෙන්ම අත්අඩංගුවට ගැනුණු ගාල්ල බුස්සේ පදිංචි 23 හැවිරිදි තරුණිය ද අධිකරණයට ඉදිරිපත් කළ සැකකරුවන් ය.
+The wife of the shooter and his father and father arrested in Veyangoda, 23, the 23-year-old man was produced before the court.
 
 ◼️
 
 [Data](articles/9c3d37c2.json)
+
+[Extended Data](ext_articles/9c3d37c2.ext.json)
 
 ---
 
@@ -117,6 +143,8 @@ Colombo, Feb 13 (Daily Mirror) - Leader of the Opposition Sajith Premadasa is wi
 ◼️
 
 [Data](articles/88a7ed57.json)
+
+[Extended Data](ext_articles/88a7ed57.ext.json)
 
 ---
 
@@ -182,57 +210,69 @@ Accordingly, the Cabinet had approved the proposal presented by the President in
 
 [Data](articles/2cf63939.json)
 
+[Extended Data](ext_articles/2cf63939.ext.json)
+
 ---
 
-### சிறைக்கைதிகளின் எண்ணிக்கை நாளாந்தம் அதிகரிக்கிறது என்கிறார் ஊடகப்  பேச்சாளர்!
+### Media spokesman says the number of prisoners increases daily!
 
 *2024-02-13 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176277) · `ta`
 
-நாளாந்தம் சிறைச்சாலைகளுக்கு அனுப்பி வைக்கப்படுபவர்களின் எண்ணிக்கை அதிகரித்துள்ளதாக சிறைச்சாலை ஊடகப் பேச்சாளர் காமினி பீ.திஸாநாயக்க தெரிவித்துள்ளார்.
+Prison media spokesman Gamini P. Dissanayake said the number of people sent to prisons daily has increased.
 
-தற்போதைய சூழ்நிலையில் சிறைச்சாலைகளில் நிலவும்  நெரிசலை நிர்வகித்து கைதிகளை தங்க வைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாக சிறைச்சாலை ஊடகப் பேச்சாளர் தெரிவித்தார்.
+In the present situation, the prison media spokesman said that steps have been taken to manage the congestion in prisons and keep the prisoners stay.
 
 ◼️
 
 [Data](articles/18d0779a.json)
 
+[Extended Data](ext_articles/18d0779a.ext.json)
+
 ---
 
-### පිටකොටුව පොලිසියට වට කර පහර දුන් කාන්තාවන් මරදාන පොලිසියෙන් අත්අඩංගුවට
+### Maradana arrested police for arrested women surrounding Pettah Police
 
 *2024-02-13 13:52:37* · [`adalk`](https://www.ada.lk/breaking_news/පිටකොටුව-පොලිසියට-වට-කර-පහර-දුන්-කාන්තාවන්-මරදාන-පොලිසියෙන්-අත්අඩංගුවට/11-408057) · `si`
 
-පිටකොටුව පොලිසියේ නිලධාරින් විසින් අත්අඩංගුවට ගත් මත්ද්‍රව්‍ය  ජාවාරම්කාරියක් මුදා ගැනීම සඳහා  එම නිලධාරීන් පිරිසට පහර දුන් ජාවාරම්කාරියගේ ඥාති සහෝදරියන් තිදෙනෙක් ඇතුළු එම ජාවාරම්කාරිය මරදාන ලොකට් ලේන් ප්‍රදේශයේදී අත්අඩංගුවට ගත් බව මරදාන පොලිසිය කියයි
+Maradana Police say that the racketeer has been arrested in the Maradana Lockt Lane, including three cousins who were arrested by the officers arrested by the officers of the Pettah Police
 
-මත්ද්‍රව්‍ය  ජාවාරම්කාරිය සන්තකයේ තිබී  හොරයින් මත්කුඩු  මිලිගෑම් 600 ක්  සහ අයිස් මත්ද්‍රව්‍ය මිලිගෑම් 200 ක් පොලිස් භාරයට ගෙන ඇත
+Police have taken into customs 600 milligates and 200 milligions in possession of drug trafficker
 
-සැකකාරියන්ගේ පහර කෑමට ලක් වූ උප පරීක්ෂකවරයෙක් සහ කොස්තාපල්වරයෙකු ප්‍රතිකාර සඳහා නාරහේන්පිට  පොලිස් රෝහල වෙත ඇතුළත්ව ඇත
+A sub-inspector of the suspects and a constable to treat the Narahenpita Police Hospital for treatment
 
-ඊට මඳ වේලාවකට පෙර හොරයින් මත්කුඩු සමග  අත්අඩංගුවට ගෙන තිබූ සැකකරුවෙකු එම කලබලය මැද පොලිස් අත්අඩංගුවෙන්  පලා ගොස් ඇත
+A suspect arrested for drugs fled by the police station
 
-පිටකොටුව පොලිසියේ උප පොලිස් පරීක්ෂකවරයෙකු පොලිස් සැරයන් වරයෙකු සහ කොස්තාපල්වරුන් දෙදෙනකු  පිටකොටුව බැස්ටියන් මාවතේදී  හොරයින් මත්කුඩු සමග අත්අඩංගුවට ගත් පුද්ගලයෙකුගෙන් අනාවරණ වූ තොරතුරු මත ඔහුට මත්කුඩු සැපයූ ජාවාරම්කාරිය අත්අඩංගුවට ගැනීම සඳහා මරදාන ලොකට් ලේන්  ප්‍රදේශයට ගිය අවස්ථාවේදී මෙම කලබලය වි ඇතැයි පොලිසිය සඳහන් කරයි
+Police sergeant, a sub-shirter of Pettah Police and two constables, two constables, two constables, two constables, had been arrested when he went to the Maradana Lockt Lane to arrest him with drugs.
+
+The racketeer surrounded by the racketeer with drugs and the racketeer, relatives of the racketeer and threatened to be burned with drug and ice, and threatened with the kilometer and beat the police and liberate the suspectPolice say that he had tried hard
 
 ...
 
 [Data](articles/fb4d715d.json)
 
+[Extended Data](ext_articles/fb4d715d.ext.json)
+
 ---
 
-### கல்வி வௌ்ளை அறிக்கையை முழுமையாக நடைமுறைப்படுத்தினால் நாட்டுக்கு சிறப்பான கல்வி முறையொன்று கிடைக்கும்  - ஜனாதிபதியின் சமூக அலுவல்கள் பணிப்பாளர் ரஜித் கீர்த்தி தென்னக்கோன்
+### If the Education Report is fully implemented, the country will get a better education system - President's Social Affairs Director Rajith Keerthi Thennakoon
 
 *2024-02-13 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176276) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க கல்வி அமைச்சராக இருந்த காலத்தில் கல்வித் துறையில் மேற்கொள்ள முயற்சித்த மாற்றத்தை முழுமையாக செய்ய முடியுமானால், நாட்டுக்கு சிறப்பான கல்வி முறைமையொன்று கிடைக்குமென ஜனாதிபதியின் சமூக அலுவல்கள் பணிப்பாளர் ரஜித் கீர்த்தி தென்னகோன் தெரிவித்தார்.
+The President's Social Affairs Director Rajith Keerthi Thennakoon said that if President Ranil Wickremesinghe was able to make a change in the education sector during his tenure as Minister of Education, there would be a better education system for the country.
 
-கடந்த 9 ஆம் திகதி இடம்பெற்ற மொனராகலை புதுருவகல மகா வித்தியாலயத்திற்கு இசைக் கருவிகளைப் பெற்றுக்கொடுக்கும்  நிகழ்விலேயே அவர் இதனைத் தெரிவித்தார்.
+He was speaking at the event to provide musical instruments to the Moneragala Puthuvagala Maha Vidyalaya, which was held on the 9th.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் மொனராகலை புதுருவகல மகா வித்தியாலய மாணவர்களுக்கு வழங்கிய வாக்குறுதியை மிகக் குறுகிய காலத்தில் நிறைவேற்றும் வகையில் இந்த பாடசாலைக்கு, பெறுமதியான இசைக்கருவிகள் வழங்கி வைக்கப்பட்டன.
+The school was given valuable instruments to the school to fulfill the promise made by President Ranil Wickremesinghe to the students of Moneragala.
 
-கடந்த நவம்பர் 03 ஆம் திகதி ஜனாதிபதி ரணில் விக்ரமசிங்க பயணித்த உலங்குவானூர்தி மோசமான காலநிலை காரணமாக மொனராகலை புதுருவகல  மகா வித்தியாலய மைதானத்தில் அவசரமாக தரையிறக்கப்பட்டது. இதன்போது மாணவர்களால் இந்த கோரிக்கை விடுக்கப்பட்டது.
+President Ranil Wickremesinghe, who was traveling on November 03, landed in a hurry at the Moneragala Maha Vidyalaya Ground due to the worst weather conditions.. This request was made by the students.
+
+The students told the president that there was a shortage of musical instruments at the school.Accordingly, in a very short time, all arrangements were made to gift the promise, including Trumpet, Trumphone, Saxophone, Clarinate, Mountable Tempir.
 
 ...
 
 [Data](articles/5452b2fe.json)
+
+[Extended Data](ext_articles/5452b2fe.ext.json)
 
 ---
 
@@ -324,25 +364,27 @@ The award is reflected that Sri Lanka has used the principles of the United Nati
 
 ---
 
-### வறட்சி ; அதிகம் நீர் அருந்துமாறு கோரிக்கை !
+### DroughtRequest to drink too much water!
 
 *2024-02-13 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/176274) · `ta`
 
-நாட்டில் தற்போது நிலவும் வெப்பமான சூழ்நிலை நிலவுவதால் உடலில் ஏற்படும்  நீரிழப்பில் இருந்து தம்மை  பாதுகாத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு பொதுமக்களிடம் கோரிக்கை விடுக்கப்பட்டுள்ளது.
+The public has been asked to take necessary steps to protect themselves from dehydration due to the prevailing hot situation in the country.
 
-இதன் காரணமாக குறிப்பாக சிறுவர்கள், விளையாட்டு வீரர்கள் மற்றும் ஆயுதப்படையைச் சேர்ந்த அதிகாரிகள் நீரிழப்புக்கு ஆளாக நேரிடும் என கொழும்பு சீமாட்டி சிறுவர் வைத்தியசாலையின் சிறுவர் நோய் தொடர்பான விசேட வைத்திய நிபுணர் தீபால் பெரேரா தெரிவித்தார்.
+Deepal Perera, a specialist on the children's disease of the Children's Hospital in Colombo, said that the children, athletes and the armed forces, in particular, could suffer from diabetes.
 
-களைப்பு, தூக்கம், சோர்வு, தலைவலி, வாந்தி மற்றும் பசியின்மை ஆகியவை நீரிழப்புக்கான அறிகுறிகளாகும்.
+Fatigue, sleep, fatigue, headache, vomiting and appetite are symptoms of diabetes.
 
-எனவே, நீரிழப்பு ஏற்படாமல் இருக்க, பொதுமக்கள் தொடர்ந்து நீர் அருந்த வேண்டும் என தெரிவித்தார்.
+Therefore, the public should continue to drink water to prevent dehydration.
 
-இதேவேளை, நாட்டில் எதிர்வரும் ஏப்ரல் மாதம் மழையுடனான வானிலையை எதிர்பார்க்கலாம் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+Meanwhile, the Department of Meteorology has predicted that the country is expected to expect rainfall in April.
 
-தற்போது சில பகுதிகளில் சிறிதளவு மழை பெய்தாலும் ஏப்ரல் மாதம் வரையில் வறட்சியான வானிலையே நிலவும் என திணைக்களம் சுட்டிக்காட்டியுள்ளமை குறிப்பிடத்தக்கது.
+It is noteworthy that the department has pointed out that although some areas are currently experiencing some rainfall, the dry weather will prevail until April.
 
 ◼️
 
 [Data](articles/440760ff.json)
+
+[Extended Data](ext_articles/440760ff.ext.json)
 
 ---
 
@@ -760,6 +802,8 @@ Trade unions attached to the Federation of Health Professionals of the health se
 
 [Data](articles/85ca298d.json)
 
+[Extended Data](ext_articles/85ca298d.ext.json)
+
 ---
 
 ### Online Safety Act to be amended
@@ -837,6 +881,8 @@ Personnel from the Dam Street Police Station conducted their biannual inspection
 ◼️
 
 [Data](articles/b6fa0c25.json)
+
+[Extended Data](ext_articles/b6fa0c25.ext.json)
 
 ---
 
@@ -1782,25 +1828,27 @@ Deputy Director, Department of Meteorology Merril Mendis told Daily Mirror that 
 
 ---
 
-### සෞඛ්‍ය වර්ජනය: 'සේවකයෝ නෑ. වෛද්‍යවරු බෙහෙත් ලියලා ගන්න පස්සේ එන්නලු'
+### Health strike: 'No employees. After the doctors wrote medicine, "
 
 *2024-02-13 08:16:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2qedzykn45o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.Play video, "'සේවකයෝ නෑ. වෛද්‍යවරු බෙහෙත් ලියලා ගන්න පස්සේ එනන්ලු.'", ධාවන කාලය 2,4502:45වීඩියෝ ශීර්ෂ වැකිය, ''වෛද්‍යවරුන්ට වගේ අපිටත් ආර්ථික යුක්තිය ඉටු කරන්න.''
+There is nothing here. Play Video, "" No employees. Once the doctors wrote medication, 2,4502: 45 Video Head, "Like doctors, we have economic justice.
 
-සෞඛ්‍ය වර්ජනය: 'සේවකයෝ නෑ. වෛද්‍යවරු බෙහෙත් ලියලා ගන්න පස්සේ එන්නලු'
+Health strike: 'No employees. After the doctors wrote medicine, "
 
-වෛද්‍යවරුන්ට ලබා දෙන රුපියල් 35,000 'DAT' දීමනාවට සාපේක්ෂව තමන්ටත් දීමනාවක් ලබා දෙන්නැයි ඉල්ලා සෞඛ්‍ය වෘත්තීය සමිති 72ක් අද (පෙබරවාරි 13වැනිදා) සිට ආරම්භ කර ඇති වැඩ වර්ජනය නිසා තමන් දැඩි දුෂ්කරතාවයකට මුහුණ දී ඇතැයි රෝගීහු පවසති.
+Patients say that 72 health unions have been facing severe difficulties due to the strike, which has been given to doctors to give a gift to the doctors.
 
-ළමා රෝහල, මහරගම අපේක්ෂා රෝහල වැනි විශේෂිත රෝහල් හැර අනෙකුත් රෝහල් සහ සෞඛ්‍ය ආයතනවල මේ වැඩවර්ජනය ක්‍රියාත්මක වේ.
+The strike is being implemented in hospitals and health institutions, other than specialized hospitals, such as the Children's Hospital, Maharagama.
 
-සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය පවසන්නේ මුදල් අමාත්‍යාංශය සමග (පෙබරවාරි 12වැනිදා)  පැවති සාකච්ඡාව අසාර්ථක වූ බවය.
+The Health Trade Union Alliance says the discussion was failed with the Ministry of Finance (Feb 12).
 
-කෙසේනමුත් පවතින මූල්‍ය තත්ත්වය තුළ මුදල් අමාත්‍යාංශය ලබා දුන් මූල්‍ය ප්‍රමාණය ගැන වෘත්තීය සමිති එකඟතාවය පළ නොකළ බව සෞඛ්‍ය අමාත්‍යවරයා පවසයි.
+However, the Health Minister says that the union agreement has not been agreed on the financial statements provided by the Ministry of Finance in the financial situation.
 
 ◼️
 
 [Data](articles/c42fa3a9.json)
+
+[Extended Data](ext_articles/c42fa3a9.ext.json)
 
 ---
 
@@ -2023,29 +2071,5 @@ Meanwhile, All Ceylon Nursing Association Secretary SB Mediwathtu said that a pr
 [Data](articles/c4c2e8ad.json)
 
 [Extended Data](ext_articles/c4c2e8ad.ext.json)
-
----
-
-### The A / L student prepared for the milestone is life
-
-*2024-02-13 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193310) · `si`
-
-A student student who had committed suicide was reported yesterday to sit for the Advanced Level Examination in the Ikalai area in Mullaitivu, Pudukuduviu.
-
-Police said that a 18-year-old student had passed away.
-
-Investigations have revealed that the girl had committed suicide in the absence of none of the house.
-
-The girl had been diagnosed with her husband, and the girl was taken to the Pudukuduirippu hospital.
-
-It is reported that the girl has been killed at the time of hospitalization.
-
-The body has been placed at the Pudukudiirippu hospital morgue and the police are conducting further investigations.
-
-◼️
-
-[Data](articles/ebab11a5.json)
-
-[Extended Data](ext_articles/ebab11a5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 03:02:37**
+As of **2024-02-14 03:17:19**
 
 ## Newspaper Stats
 
-*Scraped **6,828** Articles*
+*Scraped **6,830** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ tamilmirrorlk | 835
 adaderanalk | 838
 virakesarilk | 868
 adaderanasinhalalk | 954
-dailymirrorlk | 1,001
+dailymirrorlk | 1,003
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,828 (100.0%) of 6,828 articles have been extended.
+6,828 (100.0%) of 6,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### NGO Activities Amid Closing Civic Spaces - EDITORIAL
+
+*2024-02-14 02:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/NGO-Activities-Amid-Closing-Civic-Spaces-EDITORIAL/172-276954) · `en`
+
+On 10 February, this newspaper drew attention to a ‘not so new’ law – the ‘Non-Governmental Organisations (Registration and Supervision) Bill’, which the government claims is now ready. The Bill itself has been in the making for a long period, dating back to the era when our present President was Prime Minister of the country in 2017.
+
+The aim of the bill as its name suggests is to register and supervise the activities of the NGOs in the country. Many Lankan leaders have attempted to use NGOs to promote their particular agendas. Unfortunately, at different times NGOs have fallen for the ruses of politicians.
+
+Rather than involving themselves in meeting emergency situations or human needs, a number of NGOs have entangled themselves in narrow party political affiliated activities. However, whatever the rights and wrongs of the situation, what is frightening about the ‘Non-Governmental Organisations (Registration and Supervision) Bill’ is its timing.
+
+...
+
+[Data](articles/8bf3d745.json)
+
+---
+
+### Counterfactual History: ‘Rohana Wijeweera visiting New Delhi in 1987.’
+
+*2024-02-14 02:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Counterfactual-History-Rohana-Wijeweera-visiting-New-Delhi-in-1987/172-276953) · `en`
+
+On the eve of JVP leader Anura Kumara Dissanayake’s much-talked-about visit to India, let’s take a journey into counterfactual history!
+
+Imagine the late JVP leader, Rohana Wijeweera travelling to New Delhi in 1987, or more plausibly, an industrious J.R. Jayawardene coaxing his Indian counterpart to invite Wijeweera (Granted, that is a tall order, considering that in the JVP’s assessment, payoffs of perpetuating violent opposition to the Indo-Lanka Peace Accord, favoured it over striking a compromise). That favourable context for a violent takeover remained so until Black Cats, PRA, and all the other assorted state-backed anti-JVP para militaries came to life. The JVP started targeting families of military personnel (or someone else did it and conveniently put it on the JVP account), shifting the military attitude into outright hostility towards the JVP.
+
+...
+
+[Data](articles/245cffb3.json)
+
+---
 
 ### Three persons arrested for stealthily entering the cattle farm of Peradeniya University
 
@@ -2025,41 +2055,5 @@ As part of the strategic plan, a pilot project has been designed to introduce AI
 [Data](articles/2cf63939.json)
 
 [Extended Data](ext_articles/2cf63939.ext.json)
-
----
-
-### Media spokesman says the number of prisoners increases daily!
-
-*2024-02-13 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176277) · `ta`
-
-Prison media spokesman Gamini P. Dissanayake said the number of people sent to prisons daily has increased.
-
-In the present situation, the prison media spokesman said that steps have been taken to manage the congestion in prisons and keep the prisoners stay.
-
-◼️
-
-[Data](articles/18d0779a.json)
-
-[Extended Data](ext_articles/18d0779a.ext.json)
-
----
-
-### Resolution to abolish the executive presidency is part of a conspiracy
-
-*2024-02-13 13:55:02* · [`adalk`](https://www.ada.lk/breaking_news/විධායක-ජනපතිධුරය-අහෝසි-කිරීමේ-යෝජනාව-කුමන්ත්‍රණයක-කොටසක්/11-408058) · `si`
-
-Leader of the Mahanayaka Gammanpila says that the proposal to abolish the executive presidency that has been brought to the foregoing across the NGOs is a conspiracy in the government.
-
-He was speaking at a media briefing held at the JHU (JHD) headquarters at the party headquarters this morning.
-
-"A proposal to abolish the executive presidency has been brought to the premises of the government. When the proposal was taken before, the proposal was prepared to support the proposal.
-
-Therefore, the proposal was approved as an interim arrangement of the proposal and included an arrangement to dissolve Parliament.Some of the opposition parties have already support this proposal.The government expects all these parties to support the abolition of the executive presidency and the executive presidency.
-
-...
-
-[Data](articles/6f66c7ee.json)
-
-[Extended Data](ext_articles/6f66c7ee.ext.json)
 
 ---

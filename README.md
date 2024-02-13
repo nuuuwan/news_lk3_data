@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 22:17:33**
+As of **2024-02-13 22:32:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 998
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,797 (99.9%) of 6,802 articles have been extended.
+6,802 (100.0%) of 6,802 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ He recalled the constructive interactions that the leaders of Sri Lanka and Braz
 
 [Data](articles/d2dec79a.json)
 
+[Extended Data](ext_articles/d2dec79a.ext.json)
+
 ---
 
 ### Government has committed a huge mistake by appointing healthcare workers to hospitals
@@ -63,6 +65,8 @@ Addressing the media, he highlighted that healthcare workers used to be involved
 ...
 
 [Data](articles/3bfb600a.json)
+
+[Extended Data](ext_articles/3bfb600a.ext.json)
 
 ---
 
@@ -82,6 +86,8 @@ Chasing, Afghanistan’s Ibrahim Zadran and Rahmat Shah were the only ones who c
 
 [Data](articles/baf7d9ab.json)
 
+[Extended Data](ext_articles/baf7d9ab.ext.json)
+
 ---
 
 ### Japan to provide anti-corruption policy support for SL to promote economic governance
@@ -97,6 +103,8 @@ Ambassador of Japan to Sri Lanka, Hideaki Mizukoshi and Resident Representative 
 ...
 
 [Data](articles/472b5334.json)
+
+[Extended Data](ext_articles/472b5334.ext.json)
 
 ---
 
@@ -141,6 +149,8 @@ Therefore, the Committee focused on planning a place to install solar panels in 
 ...
 
 [Data](articles/00c9e7ad.json)
+
+[Extended Data](ext_articles/00c9e7ad.ext.json)
 
 ---
 

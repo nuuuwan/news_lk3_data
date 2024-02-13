@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 11:52:27**
+As of **2024-02-13 12:02:47**
 
 ## Newspaper Stats
 
-*Scraped **6,666** Articles*
+*Scraped **6,670** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ economynextcom | 339
 islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
-adalk | 564
+adalk | 565
 adaderanalk | 811
 tamilmirrorlk | 819
 virakesarilk | 834
-adaderanasinhalalk | 929
-dailymirrorlk | 973
+adaderanasinhalalk | 931
+dailymirrorlk | 974
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,665 (100.0%) of 6,666 articles have been extended.
+6,670 (100.0%) of 6,670 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### Justice is boxing
+
+*2024-02-13 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193321) · `si`
+
+680 suspects have been arrested by operations island wide during the past 24 hours.
+
+The police said that 554 suspects were in the list of drug misbehavior and the list of criminal sections.
+
+The police seized 168 grams of heroin in the possession of the suspects, 93 grams of ice, 925 grams and 596 acres.
+
+There are also 186 suspects in the list on the list of the criminal sections and 105 open warrants on drugs and non-drug errors.
+
+◼️
+
+[Data](articles/6e2e8832.json)
+
+[Extended Data](ext_articles/6e2e8832.ext.json)
+
+---
 
 ### 18 Tamil Nadu fishermen arrested by Sri Lankan Navy return home
 
@@ -51,6 +71,46 @@ The fishermen left for Ramanathapuram by road in a state government-arranged veh
 [Data](articles/dc7ed896.json)
 
 [Extended Data](ext_articles/dc7ed896.ext.json)
+
+---
+
+### Attorney General Manoju resigns from the post of Director of NMRA
+
+*2024-02-13 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193320) · `si`
+
+Attorney-at-Law Manoj Pathirana has sent the resignation letter from the Director of the National Drug Regulatory Authority.
+
+He further stated that he has resigned from the post from today (13).
+
+When a Director of the National Drug Regulatory Authority, he was able to be a lawyer as a lawyer, and the Board of Directors had made proper decisions as a director.
+
+Below is the full article by the Health Minister.
+
+◼️
+
+[Data](articles/8a59684d.json)
+
+[Extended Data](ext_articles/8a59684d.ext.json)
+
+---
+
+### Petition against Diana Gamage to be heard
+
+*2024-02-13 11:03:20* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනා-ගමගේ-මන්ත්‍රී-ධූරය-හරි-තීන්දුවට-එරෙහි-පෙත්සම-විභාගයට/11-408050) · `si`
+
+President's Counsel Shavindra Fernando appeared to her for three basic objections on behalf of the Appendix of the Court of Appeal, following the hearing of the Presidential Member of Parliament.
+
+The petitioned protests were raised when the petition was taken up before the three-judged Judge Gamini Amarasekera, Kumuduni Wickremasinghe and Janaka De Silva.
+
+The Appeal of the Court of Appeal, Mr. Oshala Herath, a social activist, was named the petition petition.
+
+It is said that the petition was filed by the Appeal of the Court of Appeal, as Mrs. Diana Gamage was a British citizenship, he demanded the judge of the Court of Appeal to give a decision that she was not eligible for a parliamentary parliamentary position.The petition has been presented in demanding a ruling that Mrs. Diana Gamage is not eligible to sit in Parliament.
+
+...
+
+[Data](articles/2c5a8cf5.json)
+
+[Extended Data](ext_articles/2c5a8cf5.ext.json)
 
 ---
 
@@ -460,25 +520,27 @@ The injured was taken to the Gampola hospital, hospital sources said that he had
 
 ---
 
-### பாராளுமன்ற உறுப்பினர் அலி சப்ரி ரஹீமின் கார் விபத்து ; ஒருவர் காயம்
+### Car accident of MP Ali Sabri Rahim;One injury
 
 *2024-02-13 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/176241) · `ta`
 
-பாராளுமன்ற உறுப்பினர் அலி சப்ரி ரஹீம் பயணித்த கார் விபத்தில் சிக்கியதில் ஒருவர் காயமடைந்துள்ளதாக சாலியவெவ பொலிஸார் தெரிவித்துள்ளனர்.
+Saliyawwa police said that one person was injured when parliamentarian Ali Sabri Rahim was traveling in a car accident.
 
-இந்த விபத்து புத்தளம் - அநுராதபுரம் வீதியின் 15 ஆவது மைல் கல் அருகில் இன்று செவ்வாய்க்கிழமை (13) அதிகாலை ஒரு மணியளவில் விபத்து இடம்பெற்றுள்ளது.
+The accident occurred near the 15th mile stone of the Puttalam - Anuradhapura road today (13) at around 1 pm.
 
-புத்தளத்தில் இருந்து அநுராதபுரம் நோக்கி அலி சப்ரி ரஹீம் பயணித்த கார் அதே திசையில் சென்ற சிறிய ரக உழவு இயந்திரத்தின் பின்பகுதியில் மோதியதில் இந்த விபத்து ஏற்பட்டுள்ளது.
+The accident occurred when Ali Sabri Rahim was traveling from Puttalam to Anuradhapura.
 
-விபத்தில் காயமடைந்த அளுத்கம, புளியங்குளம் மேல் பிரிவைச் சேர்ந்த எச்.எம் ஹர்ஷன பிரதீப் என்ற நபர் புத்தளம் ஆதார வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார்.
+HM Harshana Pradeep from the upper sect of Aluthgama, Aluthgama, who was injured in the accident, has been admitted to the Puttalam Resource Hospital for treatment.
 
-சிறிய ரக உழவு இயந்திரத்தை செலுத்திச் சென்ற நபரே விபத்தில் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The man who drove the small plowing machine was injured in the accident, police said.
 
-சம்பவம் தொடர்பில் பாராளுமன்ற உறுப்பினர் பயணித்த காரின் சாரதி சாலியவெவ பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+The driver of a parliamentarian who was traveling in the incident has been arrested by the police.
 
 ◼️
 
 [Data](articles/3110d98a.json)
+
+[Extended Data](ext_articles/3110d98a.ext.json)
 
 ---
 
@@ -1678,6 +1740,30 @@ The body of the post mortem has been handed over to the relatives.
 
 ---
 
+### Mujeeb to miss T20I series against Sri Lanka, Rashid Khan still not fit
+
+*2024-02-12 22:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mujeeb-to-miss-T20I-series-against-Sri-Lanka-Rashid-Khan-still-not-fit/108-276872) · `en`
+
+Feb. 12 (ICC) - Ibrahim Zadran will continue to lead the T20I team with Rashid Khan still recovering from the back surgery he underwent last year.
+
+In another major blow for the visitors, Mujeeb ur Rahman also misses out, having sustained a sprain in his right hand before the ODI series.
+
+Wafadar Momand has been recalled to the squad after his lone appearance in 2023 with Mohammad Saleem Safi continuing to recover from a hamstring strain that saw him miss the ODIs against Sri Lanka.
+
+"We have consistently aimed to provide our young players with the exposure they deserve, a commitment we have maintained successfully so far," Naseeb Khan, the CEO of ACB, said.
+
+"Building a strong bench strength is a priority for us, as we want to ensure we have good backups for our key players when needed, the role Qais Ahmad is currently playing for Rashid Khan.
+
+The series begins on February 17 in Dambulla with the following games at the same venue on 19th and 21st.
+
+...
+
+[Data](articles/25183f15.json)
+
+[Extended Data](ext_articles/25183f15.ext.json)
+
+---
+
 ### Veteran continues to recover as Afghanistan name T20I squads
 
 *2024-02-12 22:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Veteran-continues-to-recover-as-Afghanistan-name-T20I-squads/108-276872) · `en`
@@ -2009,91 +2095,5 @@ The President stated that in the throne speech in the throne speech, the economi
 [Data](articles/6fd290bd.json)
 
 [Extended Data](ext_articles/6fd290bd.ext.json)
-
----
-
-### An generation that believes as a thief is born
-
-*2024-02-12 20:40:55* · [`adalk`](https://www.ada.lk/breaking_news/මහා-පරිමාණ-සංවර්ධන-ව්‍යාපෘතියක්-ආරම්භ-කරන-කවුරු-වුණත්-හොරෙක්-යැයි-විශ්වාස-කරන-පරම්පරාවක්-බිහිවෙලා/11-408045) · `si`
-
-The Leader of former President Mahinda Rajapaksa has said that a new political culture should have a new political culture with the 120 MW Hydro Power Plant in the Uma Oya project has to be implemented since this month.
-
-He said the Uma Oya Project will be one of the largest hydroelectric power plants in the country after Victoria and Upper Kotmale hydro power plants.
-
-Accordingly, Mr. Rajapaksa says:
-
-Meeting in the discussion and planning of decades, many infrastructure projects that have not been able to make the presidency, the members of my government to glue this success when they began to build the presidency.Increasing expenditure estimates, thereby led to a propaganda that it was misleading money.
-
-Although the evidence of such financial misconduations had never been presented before the public, none of these propaganda has created a whole generation believed to be a thief.
-
-...
-
-[Data](articles/7149202e.json)
-
-[Extended Data](ext_articles/7149202e.ext.json)
-
----
-
-### Seed mafia also causes vegetable prices
-
-*2024-02-12 20:34:48* · [`adalk`](https://www.ada.lk/breaking_news/එළවළු-මිල-ඉහළ-යාමට-බීජ-මාෆියාවත්-හේතුවක්/11-408044) · `si`
-
-Environmental Thilak Kandagama said that the weather and climate, which is the main reason for the rapid increase in the prices of vegetables, said that there is no weather and climate.
-
-He said that if the local seeds that were deemed to be used as large as the bigery prices, which are increasingly increasing the prices of seed mafia, so highly increased vegetables.
-
-He was speaking at a press conference at the Natabo Dhamma Farm in the Elahera, as the government had not submitted the rise to the rise.
-
-Thilak Kudagali pointed out that there is a risk of the residence of these seed mafia and that he is threatened with the continuous exposure of the seed and their lives.The people who are aware of the seed mafia acknowledge the murder of a hero.
-
-He said that the weather, climate, or rain had to increase the prices of carrot, and that the underlying was attempting to import a carrot abroad.The farmer's resignation will take place on the day.
-
-...
-
-[Data](articles/bc5111c3.json)
-
-[Extended Data](ext_articles/bc5111c3.ext.json)
-
----
-
-### 12 students targeting wasps
-
-*2024-02-12 20:25:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குளவி-கொட்டுக்கு-இலக்கான-12-மாணவர்கள்/76-333089) · `ta`
-
-Students who went to private class in the Porus Division of the Nalladhani Police Division have been admitted to the Maskeliya District Hospital as they are targeted for the wasp.
-
-The 13 -year -old students who are studying at the Nalladhani Tamil Vidyalaya have returned to a private class at 6 pm today.
-
-On his return to private classes, 3 male students are 9 female students and all are 13 years old, said Nalladhani Police Station Superintendent Shantha Weerasekara.. Remble
-
-◼️
-
-[Data](articles/29428bab.json)
-
-[Extended Data](ext_articles/29428bab.ext.json)
-
----
-
-### Woman arrested for robting a salon with casual husband
-
-*2024-02-12 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193300) · `si`
-
-Police have arrested a suspect who had plundered jewelery with a sharp instrument with a sharp object.
-
-The woman who had come to the salon with his misconduct with their misconduct was the owner of its owner, threatening a sharp weapon and threatened the robbery.
-
-The suspect had fled gold jewelery and the suspect was arrested next day.
-
-However, after police protection, the suspect, who was adjacent to the hospital, had fled the hospital with police protection, saying that he had a serious condition.
-
-The Horana police have also passed away 19 days after she was hiding.
-
-The arrested for 39 year old suspect was a 39 year old suspect.
-
-◼️
-
-[Data](articles/34b69d8d.json)
-
-[Extended Data](ext_articles/34b69d8d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 02:17:34**
+As of **2024-02-14 02:33:00**
 
 ## Newspaper Stats
 
-*Scraped **6,822** Articles*
+*Scraped **6,828** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ economynextcom | 350
 islandlk | 358
 dailyftlk | 359
 newsfirstlk | 363
-adalk | 581
+adalk | 582
 tamilmirrorlk | 835
 adaderanalk | 838
-virakesarilk | 863
+virakesarilk | 868
 adaderanasinhalalk | 954
 dailymirrorlk | 1,001
 
@@ -26,11 +26,95 @@ dailymirrorlk | 1,001
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,822 (100.0%) of 6,822 articles have been extended.
+6,822 (99.9%) of 6,828 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### பேராதனை பல்கலைக்கழக விவசாய பீடத்தின் கால்நடைப் பண்ணைக்குள்  திருட்டுத்தனமாக நுழைந்து பன்றியைக் கொன்று இறைச்சியை விற்பனை செய்த மூவர் கைது
+
+*2024-02-14 02:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176318) · `ta`
+
+பேராதனை பல்கலைக்கழக விவசாய பீடத்தின் கால்நடைப் பண்ணைக்குள் திருட்டுத்தனமாக நுழைந்து சுமார் 150 கிலோ எடையுள்ள பன்றியைக் கொன்று இறைச்சியை விற்பனை செய்த மூவரை பேராதனை பொலிஸார் செவ்வாய்க்கிழமை (13) கைது செய்துள்ளனர்.
+
+இப்பண்ணையில் இறைச்சிக்காகவும், விவசாய பீடத்தின் ஆராய்ச்சி நடவடிக்கைகளுக்காகவும் வளர்க்கப்படும்  விலங்குகளே இவ்வாறு திருடப்பட்டுள்ளதாகப் பல்கலைக்கழக நிர்வாகம் தெரிவித்துள்ளது.
+
+பல்கலைக்கழகத்திற்கு சொந்தமான உட பேராதனை பிரதேசத்தில் இந்த மிருக பண்ணை அமைந்துள்ளதாகவும் கைது செய்யப்பட்ட நபர்கள் திங்கட்கிழமை (12) இரவு பண்ணைக்குள் நுழைந்து, பன்றியை கொன்று அதன் உடல் பாகங்களை எடுத்துச் சென்றுள்ளதாகவும் விசாரணைகளில் தெரியவந்துள்ளது.
+
+பண்ணையில் நன்கு வளர்ந்த பன்றி காணாமல் போனதாக பண்ணையின் முகாமையாளரால் பேராதனை பொலிஸில் முறைப்பாடு செய்யப்பட்டதையடுத்து, உட பேராதனை பிரதேசத்தில் உள்ள வீடொன்றில் விசாரணைகளை மேற்கொண்ட பொலிஸார் அங்கு பன்றி இறைச்சி இருந்தத்கை அவதானித்திருந்தனர்.
+
+...
+
+[Data](articles/076a6550.json)
+
+---
+
+### நிறைவேற்று அதிகாரமுடைய ஜனாதிபதி  முறைமையை இரத்து செய்வது சாத்தியமற்றது - பிரதீபா மஹாநாம
+
+*2024-02-14 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/176317) · `ta`
+
+நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை இரத்து செய்ய வேண்டுமாயின் பாராளுமன்றத்தில் மூன்றில் இரண்டு பெரும்பான்மையுடன்,மக்கள் வாக்கெடுப்புக்கும் செல்ல வேண்டும். ஆகவே நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை இரத்து செய்வது தற்போது சாத்தியமற்றது என இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் முன்னாள் தலைவர் பிரதீபா மஹாநாம தெரிவித்தார்.
+
+நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை இரத்து செய்வது தற்போதைய பிரதான பேசுபொருளாக காணப்படுகிறது.2024 ஆம் ஆண்டு ஜனாதிபதி தேர்தல் மற்றும் பொதுத்தேர்தல் நடத்தப்படும் என்று குறிப்பிடப்படுகிறது.
+
+1978 ஆம் ஆண்டு உருவாக்கப்பட்ட இரண்டாம் குடியரசு அரசியலமைப்பில் 'நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமை' பிரதான அம்சமாக காணப்படுகிறது.ஆகவே அரசியலமைப்பின் பிரதான அம்சமாக காணப்படும் நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை இரத்துச் செய்ய வேண்டுமாயின் பாராளுமன்றத்தில் மூன்றில் இரண்டு பெரும்பான்மை ஆதரவுடன்,மக்கள் வாக்கெடுப்புக்கும் செல்ல வேண்டும்.
+
+...
+
+[Data](articles/efe8cab1.json)
+
+---
+
+### நிறைவேற்று அதிகாரமுடைய ஜனாதிபதி முறைமையை இரத்துச் செய்யும் யோசனை : சீனியால் தயாரிக்கப்பட்ட விஷ உருண்டை
+
+*2024-02-14 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/176314) · `ta`
+
+அரச சார்பற்ற அமைப்புக்களின் ஆதரவுடன் நிறைவேற்று அதிகாரமுடைய ஜனாதிபதி முறைமையை இரத்துச் செய்யும் யோசனை முன்வைக்கப்பட்டுள்ளது.சீனியால் தயாரிக்கப்பட்ட விஷ உருண்டை என்று இதனைக் குறிப்பிட வேண்டும். இதற்கு எதிர்க்கட்சிகள் அகப்படக் கூடாது என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+
+கொழும்பில் உள்ள பிவிதுரு ஹெல உறுமய கட்சியின் காரியாலயத்தில் செவ்வாய்க்கிழமை (13) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+பொருளாதார நெருக்கடிக்குத் தீர்வு காண்பதாகக் குறிப்பிட்டுக் கொண்டு ஆட்சிக்கு வந்த ஜனாதிபதி ரணில் விக்கிரமசிங்க பொருளாதார மீட்சியைத் தவிர்த்து ஏனைய விடயங்களைச் சிறந்த முறையில் முன்னெடுக்கிறார்.அரசியல் சூழ்ச்சிகள் ஊடாக  பதவி காலத்தை தக்கவைத்துக் கொள்ள பல்வேறு வழிகளில் முயற்சிக்கிறார்.
+
+...
+
+[Data](articles/e4b29b49.json)
+
+---
+
+### இலத்திரனியல் ஊடக ஒலிபரப்பு அதிகாரசபைச் சட்டத்தை நிறைவேற்ற எதிர்பார்க்கப்படுகிறது -  சாந்த பண்டார
+
+*2024-02-14 01:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176313) · `ta`
+
+இலத்திரனியல் ஊடக ஒலிபரப்பு அதிகார சபை சட்டம் பாராளுமன்றத்தில் சமர்ப்பித்து நிறைவேற்ற  எதிர்பார்ப்பதாக வெகுசன ஊடக இராஜாங்க அமைச்சர் சாந்த பண்டார தெரிவித்தார்.
+
+தேசிய ஊடகக் கொள்கையொன்று முன்வைக்க எதிர்பார்ப்பதாகவும், அது தற்போது அமைச்சரவையின் அங்கீகாரத்திற்காகச் சமர்ப்பிக்கப்பட்டுள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (13) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் சாந்த பண்டார இவ்வாறு தெரிவித்தார்.
+
+இன்று நாம் எதிர்கொள்ளும் முக்கிய சவால்களில் ஒன்று வருமானம் மற்றும் செலவுகளை முகாமைத்துவம் செய்வதில் உள்ள பிரச்சினையாகும்.  அமைச்சின் கீழுள்ள 16 நிறுவனங்கள் குறித்து விசேட கவனம் செலுத்தியுள்ளோம். அவைகளில் பெரும்பாலானவை திறைசேரியையே நம்பியிருக்கின்றன. எனவே, இந்த நிறுவனங்கள் சுயாதீனமாக முன்னோக்கிச் செல்லும் வகையில் நாம் நடவடிக்கை எடுத்துள்ளோம்.
+
+...
+
+[Data](articles/67309243.json)
+
+---
+
+### நிறைவேற்று அதிகாரம் அவசியமாகவே உள்ளது - அமைச்சர் டக்ளஸ் தெரிவிப்பு!
+
+*2024-02-14 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176312) · `ta`
+
+நாட்டில் நடைமுறையிலுள்ள நிறைவேற்று அதிகார ஜனாதிபதி முறை மூலம் பல்வேறு பிரச்சினைகளுக்குத் தீர்வு காண முடியும் என்று நம்புவதாகத் தெரிவித்துள்ள அமைச்சர் டக்ளஸ் தேவானந்தா, நிறைவேற்று ஜனாதிபதி அதிகாரம் மற்றும் நாடாளுமன்றம் ஆகியவற்றுக்கிடையில் சம தன்மை கொண்ட அதிகாரம் பேணப்பட வேண்டும் என்ற கருத்தும் தனக்கு ஆழமாக இருப்பதாகவும் தெரிவித்துள்ளார்.
+
+பருத்தித்துறை பிரதேச ஒருங்கிணைப்புக் குழுக் கூட்டம் செவ்வாய்க்கிழமை (13) பிரதேச செயலகத்தின் கேட்போர் கூடத்தில் நடைபெற்றது இதன்பின்னர் ஊடகங்குக்கு கருத்து தெரிவிக்கையிலேயே அமைச்சர் இவ்வாறு தெரிவித்துள்ளார்.
+
+காலத்துக்குக் காலம் அரசியல் காரணங்களுக்காக விவாதிக்கப்படும் விடயங்களுள் இந்த நிறைவேற்று அதிகார ஜனாதிபதி விடயமும் ஒன்று.  இதேநேரம் தமிழரது தரப்பை எடுத்துக்கொண்டால் இந்த நிறைவேற்று அதிகார ஜனாதிபதி முறைமை கொண்டுவரப்பட்ட வேளையில் அதை வரவேற்றார்கள். அதன்பின்னர் அது தேவை இல்லை என இன்னொரு தரப்பு கூறியபோதும் அதையும் வரவேற்றுள்ள நிலைமைதான் இருக்கின்றது.
+
+...
+
+[Data](articles/9b211749.json)
+
+---
 
 ### 1500 lakhs worth of garments purchased without the permission of the Customs Unit
 
@@ -601,6 +685,24 @@ It reads that “all service, work or labour, of any description whatsoever, nec
 [Data](articles/68f83932.json)
 
 [Extended Data](ext_articles/68f83932.ext.json)
+
+---
+
+### සහනාධාර පොහොරින් රු. කෝටි 100ක් ගසා කෑ සමාගම් කීපයක ප්‍රධානීන් ඇතුළු 10 ක් ළඟදීම අත්අඩංගුවට ?
+
+*2024-02-13 19:47:43* · [`adalk`](https://www.ada.lk/breaking_news/සහනාධාර-පොහොරින්-රු--කෝටි-100ක්-ගසා-කෑ-සමාගම්-කීපයක-ප්‍රධානීන්-ඇතුළු-10-ක්-ළඟදීම-අත්අඩංගුවට--/11-408066) · `si`
+
+ගොවීන්ට සහනාධාර පොහොර වශයෙන්  ආනයනය කරන ලද යුරියා පොහොර ගොවීන් වෙත ලබා නොදී රුපියල් කෝටි100 කට අධික මුදලක් වංචා කිරීම සම්බන්ධයෙන් ප්‍රධාන පෙළේ පොහොර සමාගම් කීපයක ප්‍රධාන තනතුරු දරන්නන් 10 දෙනකු පමණ තව දින කීපයක් තුළදී අත්අඩංගුවට ගැනීමට රහස් පොලිසිය මගින් යුහුසුළුව කටයුතු කරනු ඇතැයි ජාතික පොහොර ලේකම් කාර්යාල අභ්‍යන්තර ආරංචි මාර්ග සඳහන් කරයි.
+
+එම අත්අඩංගුවට පත්වන පුද්ගලයන් අතර කාන්තාවන්ද සිටින බව දැනගන්නට ඇත. ප්‍රධාන පෙළේ සමාගම් පහක ප්‍රධාන තනතුරු දරන්නන් ද ඒ අතර සිටින බව දැනගන්නට ඇත.
+
+2018 වසරේ සිට ගොවීන්ට ලබා දීමට නියමිතව  තිබූ සහනාධාර පොහොර  ගොවීන් වෙත ලබා නොදී  විවිධ වංචනික ක්‍රම මගින් වැඩි මිලට හොරණ , කෑගල්ල හා මාදම්පේ ප්‍රදේශවල පිහිටා තිබෙන ප්‍රධාන පෙළේ කර්මාන්ත අංශයේ සමාගම් වෙත ලබා දී ඇති බව  මේ වනවිට අනාවරණය වී ඇති බව පොහොර ලේකම් කාර්යාල අභ්‍යන්තර ආරංචි මාර්ග කියයි.
+
+යූරියා පොහොර මිටියක් රුපියල් 2500/= ආනයනය කර ගොවීන් වෙත පොහොර සහනාධාරය  ලබාදීමේ වැඩසටහන යටතේ  රුපියල් 1100/= මිලකට ලබාදිය යුතුව වුවත් එම පොහොර ගොවීන් වෙත ලබා නොදී රුපියල් 3500/= අධික මිලකට
+
+...
+
+[Data](articles/25eeed35.json)
 
 ---
 
@@ -1929,139 +2031,5 @@ Therefore, the proposal was approved as an interim arrangement of the proposal a
 [Data](articles/6f66c7ee.json)
 
 [Extended Data](ext_articles/6f66c7ee.ext.json)
-
----
-
-### Maradana arrested police for arrested women surrounding Pettah Police
-
-*2024-02-13 13:52:37* · [`adalk`](https://www.ada.lk/breaking_news/පිටකොටුව-පොලිසියට-වට-කර-පහර-දුන්-කාන්තාවන්-මරදාන-පොලිසියෙන්-අත්අඩංගුවට/11-408057) · `si`
-
-Maradana Police say that the racketeer has been arrested in the Maradana Lockt Lane, including three cousins who were arrested by the officers arrested by the officers of the Pettah Police
-
-Police have taken into customs 600 milligates and 200 milligions in possession of drug trafficker
-
-A sub-inspector of the suspects and a constable to treat the Narahenpita Police Hospital for treatment
-
-A suspect arrested for drugs fled by the police station
-
-Police sergeant, a sub-shirter of Pettah Police and two constables, two constables, two constables, two constables, had been arrested when he went to the Maradana Lockt Lane to arrest him with drugs.
-
-The racketeer surrounded by the racketeer with drugs and the racketeer, relatives of the racketeer and threatened to be burned with drug and ice, and threatened with the kilometer and beat the police and liberate the suspectPolice say that he had tried hard
-
-...
-
-[Data](articles/fb4d715d.json)
-
-[Extended Data](ext_articles/fb4d715d.ext.json)
-
----
-
-### If the Education Report is fully implemented, the country will get a better education system - President's Social Affairs Director Rajith Keerthi Thennakoon
-
-*2024-02-13 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176276) · `ta`
-
-The President's Social Affairs Director Rajith Keerthi Thennakoon said that if President Ranil Wickremesinghe was able to make a change in the education sector during his tenure as Minister of Education, there would be a better education system for the country.
-
-He was speaking at the event to provide musical instruments to the Moneragala Puthuvagala Maha Vidyalaya, which was held on the 9th.
-
-The school was given valuable instruments to the school to fulfill the promise made by President Ranil Wickremesinghe to the students of Moneragala.
-
-President Ranil Wickremesinghe, who was traveling on November 03, landed in a hurry at the Moneragala Maha Vidyalaya Ground due to the worst weather conditions.. This request was made by the students.
-
-The students told the president that there was a shortage of musical instruments at the school.Accordingly, in a very short time, all arrangements were made to gift the promise, including Trumpet, Trumphone, Saxophone, Clarinate, Mountable Tempir.
-
-...
-
-[Data](articles/5452b2fe.json)
-
-[Extended Data](ext_articles/5452b2fe.ext.json)
-
----
-
-### The Ceylon Electricity Board agrees to pay interest
-
-*2024-02-13 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193329) · `si`
-
-The Ceylon Electricity Board (CEB) informed the Supreme Court today that the Ceylon Electricity Board (CEB) is ready to pay an interest rate for the deposit money charged by consumers in a new electricity supply.
-
-The notice was made when a fundamental rights petition was called by the Electricity and Renewable Energy Consumer Association.
-
-This petition is today. The three-member Judge was called before the Supreme Court Judge of Turairajah and Gamini Amarasekera and Yasantha Kodagoda.
-
-The Ceylon Electricity Board Nirmalan Wigneswaran, who appeared on behalf of the Ceylon Electricity Board, informed the Ceylon Electricity Board to pay an annual interest rate of 11.67 per annum.
-
-He also informed the Ceylon Electricity Board (CEB) to pay the interest in January 2024.
-
-The Supreme Court has set the petition to be summoned on March 21, to investigate this payment properly.
-
-The petitioners say that the petitioners say that the petitioners have been filed through the Dabare of Ravindaranath Dabare.
-
-...
-
-[Data](articles/af59680d.json)
-
-[Extended Data](ext_articles/af59680d.ext.json)
-
----
-
-### Which election will be glowing
-
-*2024-02-13 13:38:08* · [`adalk`](https://www.ada.lk/breaking_news/කුමන-මැතිවරණයක්-තිබුණත්-පොහොට්ටුව-දිනවනවා/11-408056) · `si`
-
-The presidential election will determine when the Presidential election will be determined when the presidential election will be successfully overcome by the presidential election.
-
-MP Namal Rajapaksa addressing the meeting held at the Ronaya Hotel premises at the Siyambalape Junction at Siyambalape Junction yesterday (12).
-
-Ananda Ganepola was organized by former Chairman of the Biyagama electoral organizer and convener of the Sri Lanka Filling Ordinance.
-
-"This year is a year. Whatever elections are held, the party will take the excellent victory. Deciding who is dated when the presidential election is dated. I urge the party to work with the bail to move the party strong. "
-
-Malwana W. M. Withanage, Biyagama Pathgoda Sudatunga and Delgoda Suddha Pubudu Keerti
-
-◼️
-
-[Data](articles/698b6ff4.json)
-
-[Extended Data](ext_articles/698b6ff4.ext.json)
-
----
-
-### Sri Lanka declared UN World Restoration Flagship for efforts to restore mangrove ecosystems
-
-*2024-02-13 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97225/sri-lanka-declared-un-world-restoration-flagship-for-efforts-to-restore-mangroveecosystems) · `en`
-
-Marking a landmark achievement, Sri Lanka has been declared a UN World Restoration Flagship, in recognition of the island nation’s vital efforts to rebuild and restore its mangrove ecosystems.
-
-Through the World Restoration Flagship Award, the UN is honouring the planet’s most ambitious, successful, and inspiring examples of large-scale ecosystem restoration.
-
-With only seven years left in the UN Decade on Ecosystem Restoration, seven new winners including Sri Lanka were announced for their large-scale and long-term ecosystem restoration, embodying the 10 Restoration Principles of the UN Decade.
-
-The prestigious recognition signifies Sri Lanka’s effective use of the UN’s Principles for Ecosystem Restoration and highlights globally significant best practices and methodologies that can potentially serve as a framework for future success across the world.
-
-...
-
-[Data](articles/08120926.json)
-
-[Extended Data](ext_articles/08120926.ext.json)
-
----
-
-### Sri Lanka is a significant achievement
-
-*2024-02-13 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193328) · `si`
-
-The United Nations has commended the efforts of Sri Lanka to restore mangrove ecosystems.
-
-Sri Lanka has nominated as a "United Nations World Restoration priority".
-
-Sri Lanka's victory announced today at Geneva at Janviva today (13).
-
-The award is reflected that Sri Lanka has used the principles of the United Nations effectively to restore ecosystems.
-
-◼️
-
-[Data](articles/cc595730.json)
-
-[Extended Data](ext_articles/cc595730.ext.json)
 
 ---

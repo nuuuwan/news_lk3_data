@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 23:02:24**
+As of **2024-02-13 23:17:27**
 
 ## Newspaper Stats
 
-*Scraped **6,805** Articles*
+*Scraped **6,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 358
 dailyftlk | 359
 newsfirstlk | 363
 adalk | 581
-adaderanalk | 835
 tamilmirrorlk | 835
-virakesarilk | 857
+adaderanalk | 836
+virakesarilk | 860
 adaderanasinhalalk | 954
 dailymirrorlk | 998
 
@@ -26,11 +26,29 @@ dailymirrorlk | 998
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,805 (100.0%) of 6,805 articles have been extended.
+6,805 (99.9%) of 6,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### Customs impounds illegally imported readymade garments worth Rs. 150mn
+
+*2024-02-13 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97245/customs-impounds-illegally-imported-readymade-garments-worth-rs-150mn) · `en`
+
+Sri Lanka Customs on Tuesday (Feb.13) foiled an attempt to smuggle in 4 container loads of readymade garments worth approximately Rs. 150 million.
+
+The shipment, falsely declared as fabric, had been sent from Malaysia. Around 44,000 readymade garments were recovered from each container.
+
+Had the containers been cleared undetected, the government would have incurred a loss to the tune of Rs. 60 million, Customs officials revealed.
+
+The consignees of this shipment were identified as apparel companies located in Wattala, Colombo and Panadura.
+
+◼️
+
+[Data](articles/5510c4c7.json)
+
+---
 
 ### Todumbu Civil Police
 
@@ -66,6 +84,22 @@ The officer has been bailed and the case will be taken up again on March 6.
 
 ---
 
+### சஜித், அனுர சவாலாகப்போவதில்லை - ஐக்கிய தேசிய கட்சி தெரிவிப்பு
+
+*2024-02-13 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176308) · `ta`
+
+ஜனாதிபதி தேர்தலில் ரணில் விக்ரமசிங்கவுக்கு போட்டியாக யாரும் இல்லை. சஜித்தோ அனுரவோ எமக்கு சவால் இல்லை அத்துடன் ஜனாதிபதி முறைமையை ஒழிப்பதற்கு தற்போது நாங்கள் நடவடிக்கை எடுக்கவில்லை. ஆனால் ஜனாதிபதி முறைமை இல்லாமலாக்கப்படுவதற்கு ஐக்கிய தேசிய கட்சி ஆதரவளிக்கும் என ஐக்கிய தேசிய கட்சியின் பொதுச் செயலாளர் பாலித்த ரங்கே பண்டார தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (13) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித் தார்.
+
+ஜனாதிபதி தேர்தலை நடத்தாமல் இருப்பதற்கு ரணில் விக்ரமசிங்க நடவடிக்கை எடுத்து வருவதாகவும் அரசியலமைப்பில் திருத்தம் மேற்கொண்டு ஜனாதிபதி பதவி முறையை இல்லாமலாக்க கரு ஜயசூரிய தலைமையில் குழுவொன்றை அமைத்திருப்பதாகவும் பல்வேறு கருத்துக்கள் தெரிவிக்கப்படுகிறது. ஜனாதிபதி தேர்தலை பிற்போடவேண்டிய எந்த தேவையும் எமக்கு இல்லை இந்த வருடம் ஜனாதிபதி தேர்தல் இடம்பெறும் என ரணில் விக்ரமசிங்க பகிரங்கமாக அறிவித்திருக்கிறார்.
+
+...
+
+[Data](articles/5a7650f3.json)
+
+---
+
 ### Brazilian President Lula da Silva accepts invitation to visit Sri Lanka
 
 *2024-02-13 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97244/brazilian-president-lula-da-silva-accepts-invitation-to-visit-sri-lanka) · `en`
@@ -83,6 +117,26 @@ He recalled the constructive interactions that the leaders of Sri Lanka and Braz
 [Data](articles/d2dec79a.json)
 
 [Extended Data](ext_articles/d2dec79a.ext.json)
+
+---
+
+### உலகக் கிண்ணத்துக்கான இலங்கை அணியைக் கட்டியெழுப்பும் கட்டத்தில் உள்ளோம் - கிறிஸ் சில்வவூட்
+
+*2024-02-13 21:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/176307) · `ta`
+
+உலகக் கிண்ண கிரிக்கெட் போட்டிக்கான இலங்கை அணியைக் கட்டியெழுப்பும் கட்டத்தில் இருப்பதாக தலைமைப் பயிற்றுநர் கிறிஸ் சில்வவூட் தெரிவித்தார்.
+
+ஆப்கானிஸ்தானுக்கு எதிராக புதன்கிழமை (14) நடைபெறவுள்ள மூன்றாவதும் கடைசியுமான சர்வதேச ஒருநாள் கிரிக்கெட் போட்டிக்கு முன்னர் இன்று செவ்வாய்க்கிழமை (12) நடைபெற்ற ஊடக சந்திப்பில் பேசியபோது அவர் இதனைக் குறிப்பிட்டார்.
+
+கண்டி பல்லேகலையில் பயிற்சியின்போது இலங்கை அணியின் தலைமைப் பயிற்றுநர் கிறிஸ் சில்வவூட் மற்றும் அணித்  தலைவர் குசல் மெண்டிஸ்
+
+'அடுத்த உலகக் கிண்ண கிரிக்கெட் போட்டிக்கு அணியைக் கட்டியெழுப்பும் கட்டத்தில் நாங்கள் உள்ளோம். சகல வீரர்களும் தத்தமது பாத்திரம் என்னவென்பதை நன்கு அறிவார்கள். அத்துடன் ஒவ்வொருவரும் நம்பிக்கையுடன் பயணத்தைத் தொடர வேண்டும்' என கிறிஸ் சில்வவூட் கூறினார்.
+
+ஆப்கானிஸ்தானுடனான சர்வதேச ஒருநாள் கிரிக்கெட் தொடரில் இதுவரை இலங்கை அணி சிறப்பாக விளையாடி உள்ளதாக அவர் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/7558427e.json)
 
 ---
 
@@ -113,6 +167,20 @@ Customs officials have advised the customs officials to confuse all these goods 
 [Data](articles/31546d39.json)
 
 [Extended Data](ext_articles/31546d39.ext.json)
+
+---
+
+### வெளியானது அதிவிசேட வர்த்தமானி
+
+*2024-02-13 21:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176306) · `ta`
+
+சுகாதார சேவைகளுடன் தொடர்புடைய பல சேவைகளை அத்தியாவசிய சேவைகளாக பிரகடனப்படுத்தி அதிவிசேட வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+
+அதன்படி, மருத்துவமனைகள், நேர்சிங் ஹோம்கள், மருந்தகங்கள் மற்றும் பிற ஒத்த நிறுவனங்களில் நோயாளிகளின் பராமரிப்பு, வரவேற்பு, பாதுகாப்பு, போசனை ஊட்டல் மற்றும் சிகிச்சை தொடர்பாக தேவைப்படும் அல்லது செய்ய வேண்டிய அனைத்து சேவைப் பணிகள் அல்லது உழைப்பு அத்தியாவசிய சேவைகளாக அதிவிசேட வர்த்தமானியில் பிரகடனப்படுத்தப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/c89c6b56.json)
 
 ---
 
@@ -1951,79 +2019,5 @@ Emphasizing that the Election Commission is responsible for conducting the polls
 [Data](articles/172b6856.json)
 
 [Extended Data](ext_articles/172b6856.ext.json)
-
----
-
-### Government approves housing programme for Sri Lankan overseas employees
-
-*2024-02-13 12:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-approves-housing-programme-for-Sri-Lankan-overseas-employees/108-276920) · `en`
-
-Colombo, Feb 13 (Daily Mirror) - Cabinet approval was granted today to implement a housing programme for overseas employees.
-
-The programme has been implemented by the Sri Lanka Bureau of Foreign Employment (SLBFE) in collaboration with the National Housing Development Authority (NHDA) and licensed banks.
-
-A maximum of Rs. 10 million is reportedly to be granted as a loan and a portion of this loan interest to be paid to the SLBFE.
-
-The loan amount obtained under the proposed scheme should be paid by foreign exchange remitted through legitimate channels within the period that the receiver of the loan is engaged in overseas employment, and payments to be made in Sri Lankan rupees once the foreign employment is completed and the borrower returns to this country.
-
-Accordingly, the Cabinet has approved the proposal by the Labour and Foreign Employment Minister to implement the proposed housing programme.
-
-◼️
-
-[Data](articles/41e7cadd.json)
-
-[Extended Data](ext_articles/41e7cadd.ext.json)
-
----
-
-### The parked car caught fire and completely burnt!
-
-*2024-02-13 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176269) · `ta`
-
-A car parked in the Galle Road in Pottupitiya, Pottupitiya, was completely burnt, police said.
-
-Firefighters from the Kalutara Municipal Council's fire brigade brought the fire under control.
-
-◼️
-
-[Data](articles/96e13d80.json)
-
-[Extended Data](ext_articles/96e13d80.ext.json)
-
----
-
-### Government a special announcement of elections
-
-*2024-02-13 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193323) · `si`
-
-The Presidential Media Division has issued a statement regarding the presidential and general election.
-
-The presidential election is held at the time of the time of the election and that the average elections will be allocated by the 2025 Budget.
-
-The announcement is the responsibility of holding elections.
-
-◼️
-
-[Data](articles/a5867452.json)
-
-[Extended Data](ext_articles/a5867452.ext.json)
-
----
-
-### And many more arrest in Yukthi
-
-*2024-02-13 12:29:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்தியவில்-மேலும்-பலர்-கைது/175-333130) · `ta`
-
-In the last 24 hours, 680 suspects have been arrested in the country during the special roundup.
-
-The police said that 554 suspects involved in drug crimes and 126 suspects from the list mentioned for the Criminal Investigation Department were included.
-
-In addition, 168 grams of heroin, 93 grams of ice, 925 grams of cannabis and 596 tablets have been seized, police said.
-
-◼️
-
-[Data](articles/a60b74fe.json)
-
-[Extended Data](ext_articles/a60b74fe.ext.json)
 
 ---

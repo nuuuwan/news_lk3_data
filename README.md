@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 18:19:55**
+As of **2024-02-13 18:33:06**
 
 ## Newspaper Stats
 
-*Scraped **6,770** Articles*
+*Scraped **6,771** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
 adalk | 578
-adaderanalk | 830
+adaderanalk | 831
 tamilmirrorlk | 831
 virakesarilk | 853
 adaderanasinhalalk | 948
@@ -26,11 +26,29 @@ dailymirrorlk | 986
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,769 (100.0%) of 6,770 articles have been extended.
+6,770 (100.0%) of 6,771 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### US Senate passes $95 bln aid bill for Ukraine, Israel and Taiwan
+
+*2024-02-13 18:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97240/us-senate-passes-95-bln-aid-bill-for-ukraine-israel-and-taiwan) · `en`
+
+The Democratic-led U.S. Senate on Tuesday passed a $95.34 billion aid package for Ukraine, Israel and Taiwan, amid growing doubts about the legislation’s fate in the Republican-controlled House of Representatives.
+
+The lawmakers approved the measure in a 70-29 vote that exceeded the chamber’s 60-vote threshold for passage and sent the legislation on to the House. Twenty-two Republicans joined most Democrats to support the bill.
+
+“It’s certainly been years, perhaps decades, since the Senate has passed a bill that so greatly impacts not just our national security, not just the security of our allies, but the security of western democracy,” Senate Majority Leader Chuck Schumer said.
+
+The Senate vote occurred before sunrise, after eight hardline Republican opponents of Ukraine aid held an overnight marathon of speeches that dominated the chamber floor for more than six hours.
+
+...
+
+[Data](articles/77c47a5d.json)
+
+---
 
 ### Sri Lanka to host International Gita Mahotsav 2024
 
@@ -70,17 +88,19 @@ Additional Public Prosecutor R Muniapparaj made the submission before a division
 
 ---
 
-### ඇමති ඩයනාගේ අභියාචනාව දින නියමයක් නැතිව කල් තබයි
+### Minister Diana's appeal will postpone the day
 
 *2024-02-13 17:09:49* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-ඩයනාගේ-අභියාචනාව-දින-නියමයක්-නැතිව-කල්-තබයි/11-408063) · `si`
 
-රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මියගේ පාර්ලිමේන්තු මන්ත්‍රී ධුරය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනු කර තිබූ පෙත්සමක් නිෂ්ප්‍රභ කරමින් අභියාචනාධිකරණය විසින් ඉකුත්දා දුන් තීන්දුවට එරෙහිව ගොනුකර තිබූ අභියාචනා පෙත්සම පිළිබඳ විභාගය දින නියමයක් නොමැතිව කල්තැබීමට ගාමිණී අමරසේකර, කුමුදුනි වික්‍රමසිංහ සහ ජනක් ද සිල්වා යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ප්‍රකාශයට පත් කලහ.
+Gamini Amarasekera, Kuthudi Wickramasinghe and Janaka de Silva consisting of a petition filed by the Court of Republic of State Diyani GamageThe three-person Supreme Court judges published.
 
-සමාජ ක්‍රියාකාරිකයකු වන ඔෂල හේරත් මහතා විසින් මෙම අභියාචනා පෙත්සම ඉදිරිපත් කර තිබු පෙත්සම අද කැඳවූ අවස්ථාවේදී වගඋත්තරකාර ඩයනා ගමගේ මහත්මිය වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ශවීන්ද්‍ර ප්‍රනාන්දු මහතා කරුණු ඉදිරිපත් කළ අතර පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් පෙනී සිටි නීතිඥ හෆීල් ෆාරිස් මහතා නැවත කරුණු ඉදිරිපත් කිරීම සිදුකළේය.
+Attorneys-at-Law Shavele Farris, appearing on behalf of the petition, was presented by the petition filed by the petition to the petition.
 
 ◼️
 
 [Data](articles/ef4af3c2.json)
+
+[Extended Data](ext_articles/ef4af3c2.ext.json)
 
 ---
 
@@ -1975,27 +1995,5 @@ Accordingly, under the thorough surveillance of the Commander -in -Chief of the 
 [Data](articles/7df7e05b.json)
 
 [Extended Data](ext_articles/7df7e05b.ext.json)
-
----
-
-### Six including army personnel injured in Kilinochchi bus-lorry collision
-
-*2024-02-13 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97217/six-including-army-personnel-injured-in-kilinochchi-bus-lorry-collision) · `en`
-
-At least 06 individuals have been injured after a passenger bus attached to Sri Lanka Transport Board (SLTB) collided with a lorry carrying a group of Army personnel in the Kokavil area of Kilinochchi.
-
-Police stated that the accident took place after the SLTB bus travelling from Thunukkai, Mullaitivu towards Jaffna collided with the lorry heading towards Kilinochchi from Mankulam.
-
-The lorry had overturned in the accident leaving four army personnel injured. The driver of the passenger bus and a woman who was travelling on the bus have also sustained injuries.
-
-The six injured individuals have been admitted to Kilinochchi Hospital for treatment. However, their condition is not critical, according to hospital sources.
-
-Meanwhile, the driver of the passenger bus has been arrested by Mankulam Police regarding the incident.
-
-◼️
-
-[Data](articles/9b81270b.json)
-
-[Extended Data](ext_articles/9b81270b.ext.json)
 
 ---

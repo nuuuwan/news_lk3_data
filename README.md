@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 16:17:34**
+As of **2024-02-13 16:33:00**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 983
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,736 (99.9%) of 6,743 articles have been extended.
+6,743 (100.0%) of 6,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
-### තායිලන්තයේ හිටපු අගමැතිව නිදහස් කෙරේ
+### Former Prime Minister of Thailand released
 
 *2024-02-13 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193334) · `si`
 
-සිරදඬුවම් නියමවී සිටි තායිලන්තයේ හිටපු අගමැති තක්සින් සිනවත් ව මාස 6ක් රඳවා තබා ගැනීමෙන් අනතුරුව අද (13) නිදහස් කළ බව එරට අගමැති ශ්‍රේතා තවිසින් පැවසීය.
+The former Prime Minister of Thailand has been released even for six months after being retained for six months, he was released today (13).
 
-තායිලන්තයේ දියුණුව වෙනුවෙන් හිටපු අගමැතිවරයා සිදුකළ සේවය සම්බන්ධයෙන් ද අගමැතිවරයා විසින් එහිදී කරුණු දක්වා තිබුණි.
+The Prime Minister also stated that the ministry was carried out regarding the work of the former Prime Minister for the development of Thailand.
 
-හිටපු අග්‍රාමාත්‍යවරයාට එරෙහිව වසර 8ක සිර දඬුවම් නියමකර තිබුණු අතර ඔහු මීට වසරකට පෙර නැවත තායිලන්තයට පැමිණියේ වසර 15ක පමණ කාලයක් විදෙස්ගතව ජීවත්වීමෙන් පසුව යි.
+The former Prime Minister was sentenced to eight years in prison and again after he returned to Thailand a year ago.
 
-74 හැවිරිදි හිටපු අගමැතිවරයාට එරෙහිව පනවා තිබූ වසර 8ක සිර දඬුවම ඔහු නැවත තායිලන්තයට පැමිණීමෙන් අනතුරුව වසරක් දක්වා අඩු කිරීමට එරට රජු නියෝග කළේය.
+The king of the 8 year old sentence imposed on the 8-year-old Prime Minister he ordered to reduce to Thailand.
 
 ◼️
 
 [Data](articles/19dc85a8.json)
+
+[Extended Data](ext_articles/19dc85a8.ext.json)
 
 ---
 
@@ -674,6 +676,8 @@ The loan amount obtained under the proposed loan scheme, has to be paid by forei
 
 [Data](articles/19c42712.json)
 
+[Extended Data](ext_articles/19c42712.ext.json)
+
 ---
 
 ### Two more Director Board members of NMRA resign
@@ -711,6 +715,8 @@ Among the proposals is to revise the international syllabus currently implemente
 ...
 
 [Data](articles/f4866278.json)
+
+[Extended Data](ext_articles/f4866278.ext.json)
 
 ---
 
@@ -876,6 +882,8 @@ Sri Lanka Police deny arrest under online safety lawSee more
 
 [Data](articles/4d946329.json)
 
+[Extended Data](ext_articles/4d946329.ext.json)
+
 ---
 
 ### Government approves amendments to Online Security Act
@@ -999,6 +1007,8 @@ A large amount of land owned by government plantation agencies such as the Janat
 ...
 
 [Data](articles/1ef78425.json)
+
+[Extended Data](ext_articles/1ef78425.ext.json)
 
 ---
 
@@ -1241,6 +1251,8 @@ The Colombo Stock Exchange was trading down: the All Share Price Index was up 0.
 ◼️
 
 [Data](articles/cb5aab0a.json)
+
+[Extended Data](ext_articles/cb5aab0a.ext.json)
 
 ---
 
@@ -1859,6 +1871,8 @@ SJB MP Mujibur Rahuman, meanwhile, accused President Ranil Wickremesinghe of sch
 ...
 
 [Data](articles/acd52f3e.json)
+
+[Extended Data](ext_articles/acd52f3e.ext.json)
 
 ---
 

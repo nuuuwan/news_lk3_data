@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 14:17:28**
+As of **2024-02-13 14:33:00**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ dailymirrorlk | 978
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,707 (100.0%) of 6,708 articles have been extended.
+6,708 (100.0%) of 6,708 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
-### විදුලිබල මණ්ඩලය පොලිය ගෙවීමට එකඟ වෙයි
+### The Ceylon Electricity Board agrees to pay interest
 
 *2024-02-13 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193329) · `si`
 
-අලුතින් විදුලි සැපයීමක් ලබාදීමේදී ලංකා විදුලිබල මණ්ඩලය විසින් පාරිභෝගිකයින්ගෙන් අයකර ගන්නා තැන්පතු මුදල් සඳහා 2023 වසර වෙනුවෙන් පොලියක් ගෙවීමට සූදානම් බව ලංකා විදුලිබල මණ්ඩලය අද (13) ශ්‍රේෂ්ඨාධිකරණය හමුවේ දැනුම් දුන්නේය.
+The Ceylon Electricity Board (CEB) informed the Supreme Court today that the Ceylon Electricity Board (CEB) is ready to pay an interest rate for the deposit money charged by consumers in a new electricity supply.
 
-විදුලිබල හා පුනර්ජනනීය බලශක්ති පාරිභෝගික සංගමය විසින් ගොනුකළ මූලික අයිතිවාසිකම් පෙත්සමක් අද කැඳවනු ලැබූ අවස්ථාවේදී මෙම දැනුම්දීම සිදුකෙරුණි.
+The notice was made when a fundamental rights petition was called by the Electricity and Renewable Energy Consumer Association.
 
-මෙම පෙත්සම අද එස්. තුරෙයිරාජා, ගාමිණී අමරසේකර සහ යසන්ත කෝදාගොඩ යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+This petition is today. The three-member Judge was called before the Supreme Court Judge of Turairajah and Gamini Amarasekera and Yasantha Kodagoda.
 
-එම අවස්ථාවේදී ලංකා විදුලිබල මණ්ඩලය වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරාල් නිර්මලන් විග්නේෂ්වරන් මහතා අධිකරණය හමුවේ කරන දක්වමින් නව විදුලි සම්බන්ධතා ලබාදීමේදී ලංකා විදුලිබල මණ්ඩලය විසින් පාරිභෝගිකයින්ගෙන් අයකර ගන්නා තැන්පතු මුදල් වෙනුවෙන් 2023 වසර සඳහා සියයට 11.67ක වාර්ෂික පොලියක් ගෙවීමට සූදානම් බව දැනුම් දුන්නේය.
+The Ceylon Electricity Board Nirmalan Wigneswaran, who appeared on behalf of the Ceylon Electricity Board, informed the Ceylon Electricity Board to pay an annual interest rate of 11.67 per annum.
 
-එම පොලිය 2024 වසරේ ජනවාරි මාසයේ සිට ගෙවීමට ලංකා විදුලිබල මණ්ඩලය විසින් කටයුතු කරන බවත් ඔහු දන්වා සිටියේය.
+He also informed the Ceylon Electricity Board (CEB) to pay the interest in January 2024.
+
+The Supreme Court has set the petition to be summoned on March 21, to investigate this payment properly.
+
+The petitioners say that the petitioners say that the petitioners have been filed through the Dabare of Ravindaranath Dabare.
 
 ...
 
 [Data](articles/af59680d.json)
+
+[Extended Data](ext_articles/af59680d.ext.json)
 
 ---
 

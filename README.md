@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 14:49:40**
+As of **2024-02-13 15:02:56**
 
 ## Newspaper Stats
 
-*Scraped **6,710** Articles*
+*Scraped **6,715** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ economynextcom | 339
 islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
-adalk | 568
+adalk | 571
 adaderanalk | 818
-tamilmirrorlk | 825
+tamilmirrorlk | 827
 virakesarilk | 845
 adaderanasinhalalk | 939
 dailymirrorlk | 978
@@ -26,11 +26,25 @@ dailymirrorlk | 978
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,710 (100.0%) of 6,710 articles have been extended.
+6,710 (99.9%) of 6,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### வாட்ஸ்அப்-இன் புதிய அப்டேட்
+
+*2024-02-13 14:13:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/வாட்ஸ்அப்-இன்-புதிய-அப்டேட்/57-333134) · `ta`
+
+வாட்ஸ்அப் செயலியில் ஸ்பேம்-ஐ (Spam) லாக் ஸ்கிரீனில் இருந்தே பிளாக் செய்யும் புதிய வசதி வழங்கப்பட இருக்கிறது. ஸ்பேம் எனப்படும் தேவையற்ற குறுந்தகவல்கள் தொடர்ச்சியாக அதிகளவில் அனுப்பப்பட்டு வரும் நிலையில், இதனை எதிர்கொள்ளும் வகையிலும் பயனர்களுக்கு மெசேஜிங் அனுபவத்தில் அதிக கட்டுப்பாடுகளை வழங்கும் வகையிலும் இந்த அப்டேட் உருவாக்கப்பட்டு இருக்கிறது.
+
+பயனர்களை ஏமாற்றும் தகவல்கள் அடங்கிய ஸ்பேம் மெசேஜ்கள் வாட்ஸ்அப்-இல் அதிகளவில் அனுப்பப்பட்டு வருவது பயனர்களிடையே கவலையை ஏற்படுத்தி வந்தது. அந்த வகையில், பயனர்கள் இவற்றுக்கு லாக் ஸ்கிரீனில் இருந்தபடியே நடவடிக்கை எடுக்க செய்யும் விதமாக புதிய அம்சம் வழங்கப்படுகிறது.
+
+...
+
+[Data](articles/e155cec0.json)
+
+---
 
 ### Acting IGP visits bereaved family of cop shot dead during arrest attempt
 
@@ -77,6 +91,26 @@ The petitioners say that the petitioners say that the petitioners have been file
 [Data](articles/af59680d.json)
 
 [Extended Data](ext_articles/af59680d.ext.json)
+
+---
+
+### කුමන මැතිවරණයක් තිබුණත් පොහොට්ටුව දිනවනවා
+
+*2024-02-13 13:38:08* · [`adalk`](https://www.ada.lk/breaking_news/කුමන-මැතිවරණයක්-තිබුණත්-පොහොට්ටුව-දිනවනවා/11-408056) · `si`
+
+ඉදිරියේදී කුමන මැතිවරණයක් පැමිණියත්  එයට සාර්ථකව මුහුණ දී අති විශිෂ්ඨ ජයග්‍රහණයක් කරා අප පක්ෂය ගෙනි යන්නේ යැයිද ජනාධිපතිවරණයට දින නියම වූ විට අපේක්ෂකයා තීරණය කරන බවත් පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා කියයි.
+
+පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා එසේ පැවසුවේ ඊයේ ( 12 වැනිදා ) පස්වරුවේ බියගම , සියඹලාපේ හන්දියේ පිහිටි රොනායා හෝටල් පරිශ්‍රයේ පැවති සද්ජන රළ බියගම නියෝජිත හමුව අමතා කතා කරමිනි.
+
+ශ්‍රී ලංකා පොදු ජන පෙරමුණේ බියගම ආසන සංවිධායක හා කැඳවුම්කරු බියගම පාදේශීය සභාවේ හිටපු සභාපති ආනන්ද ගනේපොල මහතා විසින් මෙය සංවිධානය කරනු ලැබීය.
+
+"මේ වසර මැතිවරණ වසරක් වෙනවා. කුමන මැතිවරණය පැවැත්වුවත් එයින් අති විශිෂ්ඨ ජයග්‍රහණය කරා පක්ෂය ගෙනි යනවා. ජනාධිපතිවරණයට දින නියම වුනාම අපේක්ෂකයා කවුද කියලා තීන්දු කරනවා. එතෙක් පක්ෂය ශක්තිමත්ව ඉදිරියට ගෙන යාමට පාක්ෂිකයින් ඇපකැප වී කටයුතු කරන ලෙසට මා ඉල්ලා සිටිනවා."
+
+මල්වාන ඩබ්ලිව් ඩී එම් විතානගේ  , බියගම පත්මසිරි රණතුංග හා දෙල්ගොඩ සුදත් පුබුදු කීර්ති
+
+◼️
+
+[Data](articles/698b6ff4.json)
 
 ---
 
@@ -185,6 +219,20 @@ He has sent the letter to the Health Minister Ramesh Pathirana.
 [Data](articles/98299eca.json)
 
 [Extended Data](ext_articles/98299eca.ext.json)
+
+---
+
+### ජනපතිවරණය මේ වසරේදී - මහ මැතිවරණය ලබන වසරේදී
+
+*2024-02-13 13:05:36* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-මේ-වසරේදී---මහ-මැතිවරණය-ලබන-වසරේදී/11-408055) · `si`
+
+ජනපතිවරණය මෙ වසරේදී නියමිත කාලයේදි පවත්වන බව ජනපති මාධ්‍ය අංශය නිවේදනයක් නිකුත් කරමි් පවසයි.  කෙසේ වෙතත් මහ මැතිවරණය පවත්වන්නේ 2025 වසරේදී බවත් එම මැතිවරණය සඳහා අවශ්‍ය මූල්‍ය ප්‍රතිපාදන 2025 වසරට අදාළ අයවැයේදී වෙන් කරනු ඇති බවත් ජනපති මාධ්‍ය අංශය නිකුත් කළ නිවේදනයේ සඳහන් වෙයි.
+
+මැතිවරණ පැවැත්වීමේ වගකීම මැතිවරණ කොමිෂන් සභාව සතු බවත් අවශ්‍ය අවස්ථාවලදී රජය මැතිවරණ කොමිෂන් සභාව සමග එක්ව කටයුතු කරන බවත් ජනපති මාධ්‍ය අංශය නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+◼️
+
+[Data](articles/fe3f45ee.json)
 
 ---
 
@@ -399,6 +447,22 @@ The US dollar purchasing price was Rs 308.5844 and the sales price were 318.4655
 [Data](articles/dd726540.json)
 
 [Extended Data](ext_articles/dd726540.ext.json)
+
+---
+
+### නවතා තිබූ මෝටර් රථයක් ගිනිගෙන අලුවෙයි
+
+*2024-02-13 12:26:13* · [`adalk`](https://www.ada.lk/picture_story/නවතා-තිබූ-මෝටර්-රථයක්-ගිනිගෙන-අලුවෙයි/10-408054) · `si`
+
+වාද්දුව, පොතුපිටිය ගාලුපාරේ නතරකර තිබූ මෝටර් රථයක් අද (13දා) මුළුමනින්ම ගිනිගෙන විනාශ වී ඇති බව වාද්දුව පොලිසිය පවසයි.
+
+කළුතර නගර සභාවේ ගිනිනිවන ඒකකයේ භඨයින් සිව්දෙනෙකු පැමිණ ගින්න පාලනය කරන ලදී.
+
+ගින්නත් සමග ගාලුපාරේ වාහන තදබදයක් පැවතී අතර , වාද්දුව පොලිසියේ රථවාහන අංශ නිළධාරීන් විසින් එය යථා තත්ත්වයට පත්කරන ලදී. වාද්දුව පොලිසිය වැඩිදුර පරීක්ෂණ පවත්වති.
+
+◼️
+
+[Data](articles/5d628a19.json)
 
 ---
 
@@ -2001,83 +2065,5 @@ The session was co-chaired by EU side Directorate General for Trade of the Europ
 [Data](articles/5f8e4f9b.json)
 
 [Extended Data](ext_articles/5f8e4f9b.ext.json)
-
----
-
-### USA Ambassador discusses food security with Trade Minister
-
-*2024-02-13 01:32:00* · [`dailyftlk`](https://www.ft.lk/business/USA-Ambassador-discusses-food-security-with-Trade-Minister/34-758417) · `en`
-
-The US Ambassador Julie J. Chung called on Trade Minister Nalin Fernando yesterday.
-
-The Ambassador said that currently, Sri Lanka is in the way of economic progress reforms and a market-oriented economy and emphasised the importance of enhancing food security in the country. She also stated that to slash the food price increase and to adapt to the inflation, Sri Lanka needs to diversify the market.
-
-...
-
-[Data](articles/842a8af1.json)
-
-[Extended Data](ext_articles/842a8af1.ext.json)
-
----
-
-### Shell-RM Parks and CPSTL sign agreement for fuel storage, distribution
-
-*2024-02-13 01:31:07* · [`dailyftlk`](https://www.ft.lk/business/Shell-RM-Parks-and-CPSTL-sign-agreement-for-fuel-storage-distribution/34-758416) · `en`
-
-The Ceylon Petroleum Storage Terminals (CPSTL) signed an agreement with US-based petroleum products distributor ‘Shell-RM Parks’ yesterday.
-
-The relevant agreement was signed at the CPSTL Head Office, pertaining to the storage and distribution of fuel in Sri Lanka.
-
-As per the newly signed agreement, CPSTL is now able to store and distribute ‘Shell-RM Parks’ petroleum products in Sri Lanka.
-
-On 8 June 2023, the Government of Sri Lanka signed an agreement with RM Parks Inc., in collaboration with Shell PLC for a long-term contract for the importation, storage, distribution, and sale of petroleum products in Sri Lanka.
-
-“US-based petroleum company RM Parks in a collaboration with Shell PLC signed the agreement to enter the Sri Lanka petroleum business. RM Parks will be the 4th supplier to enter the domestic market and will operate under the ‘Shell’ branding.”
-
-...
-
-[Data](articles/9c82e820.json)
-
-[Extended Data](ext_articles/9c82e820.ext.json)
-
----
-
-### Yall. The people of the area have defeated the efforts to acquire 500 acres in the north of Valikamam
-
-*2024-02-13 01:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/176238) · `ta`
-
-Attempts to acquire 500 acres from the homes of the people in the North of Jaffna - Valikamam were thwarted by the people of the area on Monday (12).
-
-The initiative was made by the Air Transport Authority to take over a further 500 acres of land in the name of the Jaffna International Airport Development.
-
-The residents of the area also accused him of being silent, even though he had already issued a letter to the District Government Agent for an emergency meeting.
-
-In this case, today, people in the area have joined the protest that they are trying to secretly measure land in the villages of Kurumbasiti, Vasavilan, Katuvan, Katuwan, Katuvan, Kuttuvan and Kuppilan North.
-
-◼️
-
-[Data](articles/09784d96.json)
-
-[Extended Data](ext_articles/09784d96.ext.json)
-
----
-
-### Digital Payment Facility at 10,000 Business Centers: 04 lakh traders benefit
-
-*2024-02-13 01:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176237) · `ta`
-
-The fee system is being implemented in 10,000 trade centers with the aim of rapidly expanding the program, which is being launched by NNPCI International Payments Limited and Sri Lanka Lanka. By further expanding this feature, the number of these trade centers will be increased by March 2024 to 65,000.
-
-President Ranil Wickremesinghe, headed by President Ranil Wickremesinghe on Monday morning (12), was held at the Presidential Office to introduce a payment system through the UPI (UPI) for Sri Lanka.
-
-Indian Prime Minister Narendra Modi also joined the online technology.
-
-President Ranil Wickremesinghe introduced the Joint Payment System (UPI) to further strengthen the existing bilateral relations between the two countries during his recent official Indian visit.
-
-...
-
-[Data](articles/19c03562.json)
-
-[Extended Data](ext_articles/19c03562.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 11:17:22**
+As of **2024-02-13 11:33:16**
 
 ## Newspaper Stats
 
-*Scraped **6,651** Articles*
+*Scraped **6,661** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ economynextcom | 339
 islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
-adalk | 562
+adalk | 564
 adaderanalk | 806
-tamilmirrorlk | 816
-virakesarilk | 829
+tamilmirrorlk | 819
+virakesarilk | 834
 adaderanasinhalalk | 929
 dailymirrorlk | 973
 
@@ -26,11 +26,87 @@ dailymirrorlk | 973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,651 (100.0%) of 6,651 articles have been extended.
+6,651 (99.8%) of 6,661 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### வைத்தியசாலைகளில் மீண்டும் களமிறக்கப்பட்ட இராணும்
+
+*2024-02-13 10:55:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலைகளில்-மீண்டும்-களமிறக்கப்பட்ட-இராணும்/175-333122) · `ta`
+
+சுகாதார தொழிற்சங்கங்கள் முன்னெடுத்துள்ள பணிப்பகிஷ்கரிப்பு காரணமாக முடங்கியிருந்த வைத்தியசாலைகளின் அன்றாட நடவடிக்கைகளை முன்னெடுப்பதற்காக இராணுவத்தினர் மீண்டும் களமிறக்கப்பட்டுள்ளனர்.
+
+பல கோரிக்கைகளை முன்வைத்து நாடளாவிய ரீதியில் அரச வைத்தியசாலைகளில் 72 சுகாதார தொழிற்சங்கங்கள் பணிப்புறக்கணிப்பினை இன்று (13) ஆரம்பித்துள்ளன.
+
+இந்த பணிப்புறக்கணிப்பு காரணமாக பாதிக்கப்பட்டுள்ள வைத்தியசாலைகளின் செயற்பாடுகளை தொடர்ந்தும் முன்னெடுத்துச் செல்ல உதவுமாறு சுகாதார அமைச்சு பாதுகாப்பு அமைச்சிடம்  கோரிக்கை விடுத்துள்ளது.
+
+இதனையடுத்து, பாதுகாப்பு அமைச்சின் ஆலோசனையின் பேரில் இராணுவத் தளபதி லெப். ஜெனரல் விக்கும் லியனகே, இராணுவத் வீரர்களை வைத்தியசாலைகளுக்கு அனுப்புமாறு அறிவுறுத்தல்களை வழங்கியுள்ளார்.
+
+அதன்படி, தற்போது மேல், மத்திய, கிழக்கு மற்றும் வன்னி பாதுகாப்புப் படைத் தளபதிகளின் முழுமையான கண்காணிப்பில், கொழும்பு மற்றும் கண்டி தேசிய வைத்தியசாலைகள் களுபோவில, கராப்பிட்டி, மஹமோதர, பேராதனை, அநுராதபுரம் மற்றும் குருநாகல் போதனா வைத்தியசாலைகளை இராணுவத்தினர் பணியில் ஈடுபடுத்தப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/7df7e05b.json)
+
+---
+
+### கீர்த்தி ஸ்ரீ ராஜசிங்க நரேந்திரனின் உலோகச் சிலை திறப்பு
+
+*2024-02-13 10:53:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கீர்த்தி-ஸ்ரீ-ராஜசிங்க-நரேந்திரனின்-உலோகச்-சிலை-திறப்பு/175-333120) · `ta`
+
+கொள்ளுபிட்டி வாலுகாராம விகாரையில் நிறுவப்பட்டுள்ள கீர்த்தி ஸ்ரீ ராஜசிங்க நரேந்திரனின் உலோகச் சிலை ஜனாதிபதியினால் திறந்து வைக்கப்பட்டது.
+
+கொள்ளுப்பிட்டி வாலுகாராம உட்பட பஞ்ச மகா விகாரை விகாராதிபதி விசித்ர பானக வண. மஹரகம நந்த நாயக்க தேரரின் 70 ஆவது பிறந்தநாளை முன்னிட்டு கொள்ளுபிட்டிவாலுகாராம விகாரையில் நிறுவப்பட்டுள்ள கீர்த்தி ஸ்ரீராஜசிங்க நரேந்திரனின் உலோகச் சிலையை திரை நீக்கம் செய்யும் நிகழ்வு திங்கட்கிழமை (12) ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தலைமையில் நடைபெற்றது.
+
+தாய்லாந்திலுள்ள மகாசங்கத்தினர் உள்ளிட்ட தாய்லாந்து நன்கொடையாளர்களின் ஆதரவுடன் இந்த உலோக சிலை நிர்மாணிக்கப்பட்டுள்ளது.
+
+பெயர் பலகையை திரைநீக்கம் செய்துஇ கீர்த்தி ஸ்ரீ ராஜசிங்க நரேந்திரனின் உலோகச் சிலையும் ஜனாதிபதி திறந்து வைத்தார். இதனுடன் இணைந்ததாக விகாரையில் நிர்மாணிக்கப்பட்டுள்ள வண. வெலிவிட்ட சரணங்கர சங்கராஜ தேரரின் சிலையும் திரைநீக்கம் செய்யப்பட்டது.
+
+...
+
+[Data](articles/479f28c2.json)
+
+---
+
+### தேர்தலின் பின்னர் நிறைவேற்று அதிகார ஜனாதிபதி முறையை நீக்குவதற்கு ஆதரவளிக்க தயார் - சஜித்
+
+*2024-02-13 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176248) · `ta`
+
+நிறைவேற்று அதிகாரஜனாதிபதி முறையை நீக்குவதற்கு ஐக்கிய மக்கள் சக்தி ஆதரவளிக்க தயார் என எதிர்கட்சி தலைவர் சஜித்பிரேமதாச தெரிவித்துள்ளார்.
+
+நிறைவேற்று அதிகார ஜனாதிபதி முறையை நீக்குவதற்கு ஐக்கியமக்கள் சக்தி நிபந்தனையுடன் ஆதரவளிக்க தயார் என தெரிவித்துள்ள அவர் தேர்தலின் பின்னரே இந்த திருத்தத்தை நடைமுறைப்படுத்தவேண்டும்  எனவும்  தெரிவித்துள்ளார்.
+
+நாங்கள் ஆரம்பத்தில் நிறைவேற்று அதிகாரமுறையை நம்பினோம் ஆனால் சட்டத்தின் ஆட்சிக்கு இவ்வளவு பாதிப்புகளை ஏற்படுத்தும் என நாங்கள் எதிர்பார்க்கவில்லை என குறிப்பிட்டுள்ள சஜித்பிரேமதாச இதன் காரணமாக நாங்கள் எங்கள் நிலைப்பாட்டை மாற்றிவிட்டோம் என சட்டத்தரணிகள் மாநாட்டில் உரையாற்றுகையில் தெரிவித்துள்ளார்.
+
+இதன் காரணமாக ஜனாதிபதி தேர்தலை அல்லது வேறு எந்த தேர்தலையும் நடத்தாமல் நிறைவேற்று அதிகார ஜனாதிபதி முறையை நீக்குவதை எதிர்க்கின்றோம் மக்களின் வாக்களிப்பதற்கான உரிமையை பறிக்ககூடாது எனவும் அவர் தெரிவித்துள்ளார்
+
+...
+
+[Data](articles/51169d76.json)
+
+---
+
+### இருதரப்பு மோதலில் இரு பொலிஸார் உட்பட நால்வர் காயம் : பாணந்துறையில் சம்பவம்!
+
+*2024-02-13 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176250) · `ta`
+
+இரு பொலிஸ் உத்தியோகத்தர்கள் மோட்டார் சைக்கிளை சோதனையிட்டபோது,  ஏற்பட்ட இரு தரப்பு மோதலையடுத்து காயமடைந்த மோட்டார் சைக்கிளில் வந்த இருவரும் பொலிஸ் உத்தியோகத்தர்கள் இருவரும் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக   பாணந்துறை தெற்கு பொலிஸார் தெரிவித்தனர்.
+
+பாணந்துறை பிரதேச போக்குவரத்து உத்தியோகத்தர்கள் இருவர் மற்றும் மோட்டார் சைக்கிளில் வந்த பாணந்துறை பிரதேசத்தில் வசிக்கும் இருவருமே வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக  பொலிஸார் தெரிவித்தனர்.
+
+பாணந்துறை வலான பாலத்துக்கு அருகில் போக்குவரத்துப் பிரிவில் கடமையாற்றும் பொலிஸ் உத்தியோகத்தர்கள் இருவர் நள்ளிரவு 12.10 மணியளவில் மொரட்டுவையிலிருந்து பாணந்துறை நோக்கி பயணித்த மோட்டார் சைக்கிளிளை நிறுத்தியுள்ளனர்.
+
+இந்நிலையில், இரு பொலிஸாரும் குறித்த மோட்டார் சைக்கிளை சோதனையிட்டபோதே இரு தரப்பினருக்குமிடையில் வாக்குவாதம் முற்றி மோதலில் முடிந்துள்ளதாக தெரிய வருகிறது.
+
+இந்தச் சம்பவம் தொடர்பில் மேலதிக விசாரணைகளை பாணந்துறை தெற்கு பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/990433fd.json)
+
+---
 
 ### Paddy Marketing Board that has lost 124 crores
 
@@ -50,6 +126,20 @@ In April last year, the Paddy Marketing Board did not pay Rs 664 crore to the tr
 
 ---
 
+### நாய் எரித்துக்கொலை: ஒருவர் கைது
+
+*2024-02-13 10:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாய்-எரித்துக்கொலை-ஒருவர்-கைது/175-333118) · `ta`
+
+கம்பஹா, மேல் யாகொட பிரதேசத்தில் வீடொன்றில் வளர்க்கப்பட்ட நாய்க்கு தீ வைத்து கொலை செய்த குற்றச்சாட்டில் 65 வயதுடைய நபர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக யக்கல பொலிஸார் தெரிவிக்கின்றனர்.
+
+எரித்துக் கொல்லப்பட்ட நாயின் உரிமையாளர் செய்த முறைப்பாட்டின் அடிப்படையில் குறித்த நபர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் கூறியுள்ளனர்.
+
+◼️
+
+[Data](articles/a069068d.json)
+
+---
+
 ### Arrest
 
 *2024-02-13 10:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாயைக்-கொலை-செய்த-குற்றச்சாட்டில்-ஒருவர்-கைது/175-333118) · `ta`
@@ -63,6 +153,38 @@ Police said the man was arrested on the basis of a complaint made by the owner o
 [Data](articles/abcb566d.json)
 
 [Extended Data](ext_articles/abcb566d.ext.json)
+
+---
+
+### පුද්ගලයකු දුම්රියේ ගැටී පීලි අතර සිරවීමෙන් දුම්රිය ප්‍රමාදයක්
+
+*2024-02-13 10:40:31* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගලයකු-දුම්රියේ-ගැටී-පීලි-අතර-සිරවීමෙන්-දුම්රිය-ප්‍රමාදයක්/11-408049) · `si`
+
+මග්ගොන ප්‍රදේශයේ දී පුද්ගලයකු දුම්රියක ගැටී පීලි අතර සිරවීමෙන් මුහුදු බඩ දුම්රිය මාර්ගයේ 13 උදෑසන  දුම්රිය ධාවනය තරමක ප්‍රමාදයක් පැවතී  බව කළුතර දුම්රිය බළධාරීයෙක් පැවසීය .
+
+මේ හේතුවෙන් රුහුණු කුමාරී සහ ගාලු කුමාරී සීඝ්‍රගාමී දුම්රියන් විනාඩි 35 සහ 30 බැගින් ප්‍රමාදවී ධාවනයවූ බව සදහන් වේ.
+
+මියගොස් ඇති පුද්ගලයා ගාල්ල සිට ගල්කිස්ස බලා ධාවනයවූ 8319 දරණ මන්දගාමී දුම්රියේ ගැටෙන්නට ඇති බවට සැක පලකරන බව දුම්රිය ආරංචි මාර්ග සදහන් කරයි.
+
+මියගොස් ඇති පුද්ගලයා ගේ අනන්‍යතාවය මේ වනවිටත්  තහවුරු කරගෙන නොතිබූ බව පොලිසිය කීය.
+
+මෘතදේහය කළුතර ශීක්ෂණ රෝහලට  භාරදී ඇති අතර, පයාගල  පොලිසිය වැඩිදුර පරීක්ෂණ පවත්වති.
+
+◼️
+
+[Data](articles/1072d093.json)
+
+---
+
+### පාර්ලිමේන්තු මන්ත්‍රී අලී සබ්රි රිය අනතුරක
+
+*2024-02-13 10:23:57* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මන්ත්‍රී-අලී-සබ්රි-රිය-අනතුරක/11-408048) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රි අලි සබ්රි රහිම් මහතා තම රියදුරු සමග ගමන් ගත් සුඛෝපභෝගී ජීප් රථය 13 දින අලුයම 1.30ට පමන  පුත්තලම සිට අනුරාධපුර මාර්ගයේ ගමන් ගනිමින් සිටියදි සාලියවැව 15 කණුව ප්‍රදේශයෙදී ඉදිරියෙන් ගමන් ගත් අත් ට්‍රැක්ටරයක ගැටිමේන් ට්‍රැක්ටරයේ රියදුරා තුවාල ලබා පුත්තලම මූලික රෝහලට ඇතුලත් කර ඇති අතර මන්ත්‍රිවරයාට අනතුරීන් කිසිදු හානියක් සිදුව නැති බවත්  සුඛෝපභෝගී ජීප් රථයට බරපතල හානි සිදුව ඇති බවද  පොලිසිය පවසයි.‍
+
+◼️
+
+[Data](articles/8481b485.json)
 
 ---
 
@@ -118,6 +240,26 @@ Read more - RTI reveals… Budget allocated to conduct one election in 2024
 
 ---
 
+### ஐ போனை திருடி ஆயிரம் ரூபாய்க்கு விற்ற யாசகர்
+
+*2024-02-13 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176245) · `ta`
+
+யாசகர் ஒருவர் ஐ போன் ஒன்றை திருடி அதனை ஆயிரம் ரூபாய்க்கு விற்பனை செய்த சம்பவமொன்று இடம்பெற்றுள்ளது.
+
+இந்தச் சம்பவம் வாழைச்சேனை பொலிஸ் பிரிவுக்குட்பட்ட செம்மண்ணோடை பகுதியில் நேற்று (12) திங்கட்கிழமை இடம்பெற்றுள்ளது.
+
+யாசகம் கேட்டு வந்த முதியவர் ஒருவர் வீடு ஒன்றிலிருந்த பெறுமதி வாய்ந்த  ஐ போன் ஒன்றை திருடிச் சென்றுள்ளார்.
+
+இவ்வாறு திருடிச் சென்ற நபரின் புகைப்படத்தை சி.சி.ரி.வியின் உதவியுடன் முகநூலில் பதிவிட்டதன் பின்னர் திருட்டுச் சம்பவத்தில் ஈடுபட்டவர் வசமாக சிக்கியுள்ளார்.
+
+திருடிய கைபேசியை ஆயிரம் ரூபாய்க்கு விற்பன செய்த அந்நபர் அந்தப் பணத்தில் மது அருந்திக் கொண்டிருந்த நிலையில் அவர் பிடிபட்டுள்ளார்.
+
+◼️
+
+[Data](articles/a83fd06f.json)
+
+---
+
 ### Health workers in the workplace again
 
 *2024-02-13 09:41:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-பணிப்புறக்கணிப்பில்-சுகாதார-ஊழியர்கள்/175-333116) · `ta`
@@ -135,6 +277,20 @@ Meanwhile, the Secretary of the All Ceylon Nurses Association, SP Medivatta said
 [Data](articles/7405ddc9.json)
 
 [Extended Data](ext_articles/7405ddc9.ext.json)
+
+---
+
+### யாழ். இசை நிகழ்ச்சி -  கற்றுக்கொள்ள வேண்டிய பாடங்கள் !
+
+*2024-02-13 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176244) · `ta`
+
+யாழ். முற்றவெளியில் கடந்த 9ஆம் திகதி நடைபெற்ற தென்னிந்திய கலைஞர்களின் இசை நிகழ்ச்சி  குழப்பத்துக்கு மத்தியில் நிறைவடைந்தமை  இன்று பரவலாக  பேசு பொருளாக மாறியுள்ளதுடன்   இது தொடர்பாக பல்வேறு அரசியல் தலைவர்களும் தங்கள் கருத்துக்களையும்  தெரிவித்துள்ளனர். குறிப்பாக யாழ். ரசிகர்கள்,தென்னிந்திய  கலைஞர்கள் மீதும், அதேபோன்று தென்னிந்திய  கலைஞர்கள் யாழ் . ரசிகர்கள்  மீதும்  பரஸ்பரம் நல்ல அபிப்பிராயமும், அன்பும் கொண்டவர்கள். இவை அனைத்தையும்  கவனத்தில் கொண்டே இசை நிகழ்ச்சிகள் காலாகாலமாக  ஒழுங்கு செய்யப்பட்டு வருகின்றன .
+
+அரசியல் , பொருளாதார நிலைமைகளுக்கப்பால்  துரதிஷ்டவசமாக,  தென்னிந்திய  கலைஞர்களும், யாழ் .மக்களும் இசை மீது கொண்டுள்ள அன்பைக் கேள்விக்குறியாக்கும் வகையில் அமைந்த இந்த சம்பவம் மிகுந்த மன வருத்தத்தை இரு தரப்பிலும் ஏற்படுத்தி விட்டது என்பதே உண்மை.  எனவே இதிலிருந்து மீள்வதுடன்   தவறு எங்கு நடந்தது என்பதைக் கண்டறிந்து அதனை   சீர் செய்ய  வேண்டியது  சகல தரப்பினரதும் கடமையாகும் .
+
+...
+
+[Data](articles/0f0f8f30.json)
 
 ---
 
@@ -165,6 +321,28 @@ The injured was taken to the Gampola hospital, hospital sources said that he had
 [Data](articles/99ac5f32.json)
 
 [Extended Data](ext_articles/99ac5f32.ext.json)
+
+---
+
+### பாராளுமன்ற உறுப்பினர் அலி சப்ரி ரஹீமின் கார் விபத்து ; ஒருவர் காயம்
+
+*2024-02-13 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/176241) · `ta`
+
+பாராளுமன்ற உறுப்பினர் அலி சப்ரி ரஹீம் பயணித்த கார் விபத்தில் சிக்கியதில் ஒருவர் காயமடைந்துள்ளதாக சாலியவெவ பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்த விபத்து புத்தளம் - அநுராதபுரம் வீதியின் 15 ஆவது மைல் கல் அருகில் இன்று செவ்வாய்க்கிழமை (13) அதிகாலை ஒரு மணியளவில் விபத்து இடம்பெற்றுள்ளது.
+
+புத்தளத்தில் இருந்து அநுராதபுரம் நோக்கி அலி சப்ரி ரஹீம் பயணித்த கார் அதே திசையில் சென்ற சிறிய ரக உழவு இயந்திரத்தின் பின்பகுதியில் மோதியதில் இந்த விபத்து ஏற்பட்டுள்ளது.
+
+விபத்தில் காயமடைந்த அளுத்கம, புளியங்குளம் மேல் பிரிவைச் சேர்ந்த எச்.எம் ஹர்ஷன பிரதீப் என்ற நபர் புத்தளம் ஆதார வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார்.
+
+சிறிய ரக உழவு இயந்திரத்தை செலுத்திச் சென்ற நபரே விபத்தில் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+சம்பவம் தொடர்பில் பாராளுமன்ற உறுப்பினர் பயணித்த காரின் சாரதி சாலியவெவ பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/3110d98a.json)
 
 ---
 
@@ -1889,199 +2067,5 @@ He said that this committee would not have the power to do the economic justice 
 [Data](articles/45d8c881.json)
 
 [Extended Data](ext_articles/45d8c881.ext.json)
-
----
-
-### Memorandum of Understanding to set up factories within the prison campus
-
-*2024-02-12 20:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176227) · `ta`
-
-The Memorandum of Understanding (MoU) was held on Monday (12) to sign a Memorandum of Understanding between the Department of Prisons and Industrial Affairs to set up factory in all prisons, aimed at making them useful for social people after the prisoners were released from prison.
-
-Justice Minister Wijeyadasa Rajapakse has signed the agreement on the contract on the Commissioner General of Prison Tushara Upuldeniya and Chairman of the Industrial Development Board.
-
-The Memorandum of Understanding (MoU) will provide more opportunities for entrepreneurs in this country to set up factories in all prisons and the Ministry of Judicial Development and Prison Department will be issued a certificate of Vocational Development Board and Prison Department.
-
-◼️
-
-[Data](articles/2c3a55a7.json)
-
-[Extended Data](ext_articles/2c3a55a7.ext.json)
-
----
-
-### President Says Justice Opening
-
-*2024-02-12 19:57:21* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-කිව්වොත්-යුක්තිය-මෙහෙයුම-නවත්වනවා/11-408041) · `si`
-
-Acting Inspector General of Justice and the people of the Maha Sangha and the people of the country are demanding the implementation of justice of the country and the people of the country.
-
-The operation will be stopped if the President and the Prime Minister and the Legislature is instructed to stop the operation to stop the operation and the operation is being carried out until they completely eliminate the drug racket and organized crime.
-
-The acting IGP states that when the drug dealers, alcohol traffickers are prejudiced by the police, there has been no such complaint to the police when they are profited by the police.
-
-The operation will continue to adapt to the law, human rights, and morals of the country, human rights, and morals.
-
-He was responding to a query from Acting Inspector General of Justice on the operation of justice.
-
-◼️
-
-[Data](articles/5a61cd27.json)
-
-[Extended Data](ext_articles/5a61cd27.ext.json)
-
----
-
-### TRCSL raises security concerns, urges users to ensure proper registration of SIMs
-
-*2024-02-12 19:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97206/trcsl-raises-security-concerns-urges-users-to-ensure-proper-registration-of-sims) · `en`
-
-The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) has urged that the proper registration of SIM cards is employed by all mobile phone users.
-
-According to the Director (Compliance) of the Commission Menaka Pathirana, every customer must ensure that their SIM card is registered correctly.
-
-Speaking to the media today (12 Feb.), Pathirana emphasized the importance of verifying SIM card registration status with the respective phone companies, and thereby advised customers to contact their service providers to confirm the SIM cards registered under their names, particularly with regards to SIMS provided by companies they are no longer employed at.
-
-Furthermore, the Director highlighted the risks associated with unregistered or illegally obtained SIM cards, and urged individuals to promptly disconnect any SIM cards issued without their knowledge, as these could be exploited for illegal activities.
-
-...
-
-[Data](articles/d7bbbbaa.json)
-
-[Extended Data](ext_articles/d7bbbbaa.ext.json)
-
----
-
-### Anura Dumuka Amul
-
-*2024-02-12 19:45:31* · [`adalk`](https://www.ada.lk/breaking_news/’අනුර-ඩුමුක-අමුල්-අමුල්’/11-408040) · `si`
-
-The Leader of the National Freedom Front Leader of the National Freedom Front, "Etka" has become "Etka" and said that they had been a problem for the tender procedure.It is questionable if it is right to sell valuable resources in our country without doing or sell valuables in our country.
-
-At Piliyandala, Healthcare at the Hemorial, Piliyandala afternoon after 9: Sri Lanka's destiny? "Addressing a public meeting held at a public meeting, he said:
-
-"Inside this economic crisis, the power board breaks into shares. It's come to get it from the big Indian companies including TATA, Aviani. This is at the end to develop electricity and distribution of electricity in our country to the hand of India. Then, if India uniform from the people of this country, they will be able to chase the ruler of 'louder' with this 'power'.
-
-...
-
-[Data](articles/3fed5ae7.json)
-
-[Extended Data](ext_articles/3fed5ae7.ext.json)
-
----
-
-### SriLankan Airlines flight turns back to Melbourne due to technical issue
-
-*2024-02-12 19:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-flight-turns-back-to-Melbourne-due-to-technical-issue/108-276853) · `en`
-
-Colombo, Feb 12 (Daily Mirror) - SriLankan Airlines said that that flight UL 605, en route from Melbourne to Colombo, safely returned to Melbourne Airport shortly after takeoff at 18:16hrs (Melbourne time) today, due to a technical issue.
-
-All passengers onboard the flight disembarked safely following the return to the airport. A team of engineers is currently assessing the aircraft and providing necessary technical support to address the issue, the SriLankan said.
-
-All passengers have been accommodated in hotels until the rescheduling of the flight for departure.
-
-◼️
-
-[Data](articles/02804092.json)
-
-[Extended Data](ext_articles/02804092.ext.json)
-
----
-
-### If there are other alternatives other than the economic program, you are ready to speak with any group -Bandula Gunawardena
-
-*2024-02-12 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176226) · `ta`
-
-Transport, Highways and Mass Media Minister Dr. Bandula Gunawardena said that if there are other alternatives, other than the economic program, which is being carried out by President Ranil Wickremesinghe to build the economy of Sri Lanka, he said.
-
-The Minister said that groups with adequate knowledge regarding state financial management are carrying out false propaganda in the presence of the people and that the building of the economy of Sri Lanka is not mere words.
-
-Transport, Highways and Mass Media Minister Dr. Bandula Gunawardena said this at a media briefing held at the Presidential Media Center on Monday.
-
-“The state income earned by the taxation of 2023 is 3201 billion rupees. The amount spent from the Treasury for reliefs, salary and state loans is 4394 billion rupees. Alternative committees should be notified to the public as to which part of the state will be reduced.
-
-...
-
-[Data](articles/524dbe7a.json)
-
-[Extended Data](ext_articles/524dbe7a.ext.json)
-
----
-
-### Only three transactions per LankaQR merchant code in 2023
-
-*2024-02-12 19:35:00* · [`islandlk`](http://island.lk/only-three-transactions-per-lankaqr-merchant-code-in-2023/) · `en`
-
-At a media briefing  held at the Presidential Media Center(PMC) after the virtual launch of the Unified Payment Interface (UPI) today (12),  it was revealed that only three (03) transactions per active LankaQR merchant code had taken place in 2023.
-
-Director Payments and Settlements, Central Bank of Sri Lanka Wasantha  Alwis, said that LankaQR was introduced in March 2019 and at present there were 380,000 LankaQR merchants but only 1.1 million transactions totaling 3.3 billion rupees had taken place in 2023. The number of LankaQR transactions in 2022 was 599,000 and the amount transacted was 1.9bilion rupees.
-
-With the introduction of Unified Payment Interface (UPI)  transactions through LankaQR the over 300,000 Indian tourists visiting Sri Lanka annually could make digital payments for goods and services whilst in Sri Lanka. There is no minimum limit for a transaction but the upper limit per transaction is Two hundred thousand Sri Lanka Rupees (LKR 200,000).
-
-...
-
-[Data](articles/e2a01238.json)
-
-[Extended Data](ext_articles/e2a01238.ext.json)
-
----
-
-### A.CC has made sexual abuse. Complaint from journalist
-
-*2024-02-12 19:33:56* · [`adalk`](https://www.ada.lk/breaking_news/ලිංගික-අපයෝජනයක්-කළයි-ඒ-බී-සී--මාධ්‍යවේදිනියගෙන්-පැමිණිල්ලක්/11-408039) · `si`
-
-The person accused of a 39-year-old woman who is serving as a journalist who is a member of the ABC Media Network of Australia, has been charged with the complaint with a 39-year-old victim of Australia.
-
-The journalist who was sexually abused at a hotel in the Velambada hotel in a hotel in the Navalwardan, was staying at the hotel from the 6th to 09.
-
-The suspect had come to the hotel after an informed that he was informed that he was informed had been carried out to the hotel and that he had sexually abused him.
-
-The person who has come to work is a 33-year-old resident of Wadduwa and has not been abused after he surrendered to him.
-
-The complaint has been informed the police in writing that the lady cannot be submitted to a doctor or the court.
-
-The suspects will be taken to court in suspicion, police said.
-
-◼️
-
-[Data](articles/df57aa0a.json)
-
-[Extended Data](ext_articles/df57aa0a.ext.json)
-
----
-
-### SriLankan flight that suddenly landed in Melbourne
-
-*2024-02-12 19:28:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மெல்பர்னில்-திடீரென-தரையிறக்கப்பட்ட-ஸ்ரீலங்கன்-விமானம்/175-333087) · `ta`
-
-SriLankan Airlines said that the UL 605 flight from Melbourne to Colombo has landed safely at Melbourne Airport due to technical failure.
-
-Currently, the Technical Committee is inspecting the aircraft and taking the necessary action.
-
-SriLankan Airlines has stated that all passengers have been provided with a hotel shelter until the flight departs again.. Remble
-
-◼️
-
-[Data](articles/e575ac71.json)
-
-[Extended Data](ext_articles/e575ac71.ext.json)
-
----
-
-### Meegoda economy is closed
-
-*2024-02-12 19:16:29* · [`adalk`](https://www.ada.lk/breaking_news/මීගොඩ-ආර්ථිකය-වසයි/11-408037) · `si`
-
-The Nugegoda Divisional Superintendent of Police in Meegoda has discussed a discussion with the In Meegoda Economic Center this morning.
-
-The Meegoda Economic Center has decided not to do other officials to do other officials today.
-
-A senior official of the Meegoda Police Station said that the trading was agreed to proceed with the trade as before the trade was taken before tomorrow (13).
-
-◼️
-
-[Data](articles/f76f45eb.json)
-
-[Extended Data](ext_articles/f76f45eb.ext.json)
 
 ---

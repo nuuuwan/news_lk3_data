@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 13:17:11**
+As of **2024-02-13 13:33:01**
 
 ## Newspaper Stats
 
-*Scraped **6,696** Articles*
+*Scraped **6,698** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 359
 newsfirstlk | 363
 adalk | 568
 adaderanalk | 811
-tamilmirrorlk | 824
-virakesarilk | 844
+tamilmirrorlk | 825
+virakesarilk | 845
 adaderanasinhalalk | 934
 dailymirrorlk | 978
 
@@ -26,11 +26,25 @@ dailymirrorlk | 978
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,688 (99.9%) of 6,696 articles have been extended.
+6,696 (100.0%) of 6,698 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### ஜனாதிபதித் தேர்தல் உரிய காலத்தில் நடத்தப்படும் : பொதுத்தேர்தலுக்கான நிதி 2025 வரவு - செலவுத் திட்டத்தில் ஒதுக்கப்படும் - ஜனாதிபதி ஊடகப் பிரிவு
+
+*2024-02-13 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176273) · `ta`
+
+ஜனாதிபதித் தேர்தல் உரிய காலத்திற்குள் நடத்தப்படும் என்பதுடன் குறிப்பிட்ட காலவரையறுக்குள், அடுத்த ஆண்டு பொதுத் தேர்தல் நடத்தப்படும் என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+இதற்கான நிதி, 2025 ஆம் ஆண்டு வரவு செலவுத் திட்டத்தில் ஒதுக்கப்படும். தேர்தல்களை நடத்தும் பொறுப்பு தேர்தல் ஆணைக்குழுவைச் சார்ந்துள்ளதுடன் தேவையான சந்தர்ப்பங்களில் தேர்தல் ஆணைக்குழுவுடன் அரசாங்கம் இணைந்து  செயற்படும் என ஜனாதிபத ஊடகப்பிரிவு தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/38006605.json)
+
+---
 
 ### Presidential Election on schedule, General Election set for next year: PMD
 
@@ -46,21 +60,37 @@ The Election Commission is responsible for conducting the elections and the Gove
 
 [Data](articles/e5b02654.json)
 
+[Extended Data](ext_articles/e5b02654.ext.json)
+
 ---
 
-### මෝටර් රථයක් ගිනිගෙන විනාශ වෙයි
+### A car is burning on fire
 
 *2024-02-13 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193324) · `si`
 
-වාද්දුව, පොතුපිටිය ගාලු පාර අයිනේ ගාල්කර තිබූ මෝටර් රථයක් සම්පූර්ණයෙන් ම ගිනිගෙන විනාශ වූ බව වාද්දුව පොලීසිය පවසයි.
+The car in Wadduwa, Pothupitiya, was completely burning, "says Wadduwa Police.
 
-කළුතර නගර සභාවේ ගිනිනිවන ඒකකයේ භටයින් සිව්දෙනෙකු පැමිණ ගින්න පාලනය කර තිබුණි.
+Four soldiers of the Kalutara Municipal Council had come and controlled the fire.
 
-වාහනයේ කාර්මික දෝෂයක් හේතුවෙන් එම ගින්න ඇති වන්නට ඇතැයි සඳහන් වෙයි.
+It is said that the vehicle was caused by a technical fault.
 
 ◼️
 
 [Data](articles/a8743bcc.json)
+
+[Extended Data](ext_articles/a8743bcc.ext.json)
+
+---
+
+### தேர்தல்கள் குறித்து அதிரடி அறிவிப்பு
+
+*2024-02-13 12:46:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்கள்-குறித்து-அதிரடி-அறிவிப்பு/175-333131) · `ta`
+
+ஜனாதிபதித் தேர்தல் உரிய காலத்திற்குள் நடத்தப்படும் என்பதுடன் குறிப்பிட்ட காலவரையறுக்குள், அடுத்த ஆண்டு பொதுத் தேர்தல் நடத்தப்படும். இதற்கான நிதி, 2025 வரவு செலவுத் திட்டத்தில் ஒதுக்கப்படும். தேர்தல்களை நடத்தும் பொறுப்பு தேர்தல் ஆணைக்குழுவைச் சார்ந்துள்ளதுடன் தேவையான சந்தர்ப்பங்களில்  தேர்தல் ஆணைக்குழுவுடன் அரசாங்கம் இணைந்து  செயற்படும்.
+
+◼️
+
+[Data](articles/e1dfff02.json)
 
 ---
 
@@ -82,19 +112,23 @@ Accordingly, the Cabinet has approved the proposal by the Labour and Foreign Emp
 
 [Data](articles/41e7cadd.json)
 
+[Extended Data](ext_articles/41e7cadd.ext.json)
+
 ---
 
-### நிறுத்தி வைக்கப்பட்டிருந்த கார் தீப்பிடித்து முற்றாக எரிந்தது!
+### The parked car caught fire and completely burnt!
 
 *2024-02-13 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176269) · `ta`
 
-வாதுவை, பொத்துப்பிட்டிய காலி வீதி பகுதியில் நிறுத்தி வைக்கப்பட்டிருந்த கார் ஒன்று  தீப்பிடித்து முற்றாக எரிந்துள்ளதாக வாதுவை பொலிஸார் தெரிவித்தனர்.
+A car parked in the Galle Road in Pottupitiya, Pottupitiya, was completely burnt, police said.
 
-களுத்துறை மாநகர சபையின் தீயணைப்பு பிரிவைச் சேர்ந்த  தீயணைப்பு வீர்ரகள் தீயைக் கட்டுப்பாட்டுக்குள் கொண்டு வந்தனர்.
+Firefighters from the Kalutara Municipal Council's fire brigade brought the fire under control.
 
 ◼️
 
 [Data](articles/96e13d80.json)
+
+[Extended Data](ext_articles/96e13d80.ext.json)
 
 ---
 
@@ -148,35 +182,43 @@ Since the amendments submitted at the committee sessions in Parliament with rega
 
 [Data](articles/8e3e410f.json)
 
+[Extended Data](ext_articles/8e3e410f.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-02-13 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/176268) · `ta`
 
-இன்று செவ்வாய்க்கிழமை (பெப்ரவரி 13) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 308.5844 ஆகவும் விற்பனை விலை ரூபா 318.4655 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar purchasing price was Rs 308.5844 and the sales price were 318.4655 based on the currency exchange rate released by the Central Bank on Tuesday (February 13).
 
 ◼️
 
 [Data](articles/dd726540.json)
 
+[Extended Data](ext_articles/dd726540.ext.json)
+
 ---
 
-### நிறைவேற்று அதிகார ஜனாதிபதி முறை நீக்கம் - நிபந்தனைகளை விதிக்கின்றது பொதுஜனபெரமுன
+### Executive President's Removal
 
 *2024-02-13 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176267) · `ta`
 
-பிரதமர்தலைமையிலான அரசியல் கட்சியொன்;று நாடாளுமன்றத்தில்  பெரும்பான்மையை பெறும் தேர்தல் முறைமை நாட்டில் அறிமுகப்படுத்தப்படும்வரை நிறைவேற்று அதிகாரஜனாதிபதி முறை நீக்கத்திற்கு ஆதரவளிக்கப்போவதில்லை என பொதுஜனபெரமுன தெரிவித்துள்ளது.
+The PA has said that the Executive Committee will not support the abolition of the Prime Minister's Leadership Political Party until the majority of the election system in the country is introduced in the country.
 
-தற்போதைய தேர்தல் முறையின் கீழ் நிறைவேற்று அதிகார ஜனாதிபதி முறையை நீக்குவதை எதிர்ப்பதாக  ஸ்ரீலங்கா பொதுஜனபெரமுனவின் பொதுச்செயலாளர் சாகரகாரியவசம் தெரிவித்துள்ளார்.
+Sri Lanka PA is opposed to the abolition of the executive presidency under the current electoral system, said Sagarakariyawasam, General Secretary of the PA.
 
-நிறைவேற்று அதிகாரஜனாதிபதி முறையை நீக்கிய பின்னர் தற்போதைய தேர்தல் முறைமையின் கீழ் நாடாளுமன்ற தேர்தலை நடத்தினால் எந்க கட்சியாலும் தெளிவான நாடாளுமன்ற பெரும்பான்மையை பெறமுடியாது என அவர் தெரிவித்துள்ளார்.
+He said that if the party holds a parliamentary election under the current electoral system after the abolition of the executive bureaucracy, no party can get a clear parliamentary majority.
 
-அதன் பின்னர் நாட்டின் தலைவரான பிரதமர் பல அரசியல் கட்சிகளின் ஆதரவை கோரி ஆட்சியமைக்கவேண்டும் என தெரிவித்துள்ள சாகரகாரியவசம் அவ்வாறான அரசாங்கம் தனக்குஆதரவளிக்கும் கட்சிகளின் விருப்பத்தின் அடிப்படையிலேயே ஆட்சிசெய்யவேண்டும் எனவும் குறிப்பிட்டுள்ளார்.
+Since then, the country's leader, the Prime Minister, has called for the support of several political parties, and said that the government should rule on the basis of the wishes of the parties that support its parties.
+
+The PA has always said that the PA has always had the position of abolishing the executive of the Executive.
 
 ...
 
 [Data](articles/9b4fc999.json)
+
+[Extended Data](ext_articles/9b4fc999.ext.json)
 
 ---
 
@@ -283,6 +325,8 @@ In his resignation letter addressed to Minister of Health Dr. Ramesh Pathirana, 
 ◼️
 
 [Data](articles/f06de133.json)
+
+[Extended Data](ext_articles/f06de133.ext.json)
 
 ---
 
@@ -2001,37 +2045,5 @@ A team of officials from Colombo will soon visit Jaffna and carry out other task
 [Data](articles/872a9113.json)
 
 [Extended Data](ext_articles/872a9113.ext.json)
-
----
-
-### Electing the next President; our Hercules to clean the Augean stables
-
-*2024-02-12 23:30:38* · [`dailyftlk`](https://www.ft.lk/columns/Electing-the-next-President-our-Hercules-to-clean-the-Augean-stables/4-758403) · `en`
-
-If you vote for corrupt reasons, you will elect corrupt leaders and you will be their eternal slaves – Pic by Shehan Gunasekara
-
-We must be confident that the President we choose can be trusted with extraordinary powers in situations where the safety, or the liberty, of our country is truly in grave danger. We must also be confident that in giving such powers, which must be limited in scope and time, we do not leave room for an opportunistic leader to violate human rights and not abide by the constitution under the pretext of saving the country from imminent, inescapable, and mortal danger. Who among the candidates can we trust with extraordinary powers?
-
-...
-
-[Data](articles/3aa3d851.json)
-
-[Extended Data](ext_articles/3aa3d851.ext.json)
-
----
-
-### Rescheduling of debt expeditiously is key to recovery
-
-*2024-02-12 23:27:27* · [`dailyftlk`](https://www.ft.lk/columns/Rescheduling-of-debt-expeditiously-is-key-to-recovery/4-758402) · `en`
-
-President Ranil Wickremesinghe said the finalisation of debt restructuring could be completed by the first half of the year, which is going beyond the earlier anticipation for it to be completed within the first quarter
-
-President Wickremesinghe said in Parliament last week that “Sri Lanka expects to implement a debt restructuring framework within the first six months of 2024, expressing confidence that the nation was recovering from its worst financial crisis in decades.” The Sri Lankan economy is clearly showing signs of recovery from the severe economic crisis, with improvements in our foreign exchange positions and current account deficits. But a significant challenge remains in managing the country’s large sovereign debt and inequities of the partial coverage of the domestic debt optimisation program. Therefore we need to show some tangible progress in the debt rescheduling.
-
-...
-
-[Data](articles/83a2785a.json)
-
-[Extended Data](ext_articles/83a2785a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 17:53:36**
+As of **2024-02-13 18:08:32**
 
 ## Newspaper Stats
 
-*Scraped **6,767** Articles*
+*Scraped **6,769** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,15 +18,15 @@ newsfirstlk | 363
 adalk | 577
 adaderanalk | 830
 tamilmirrorlk | 831
-virakesarilk | 852
-adaderanasinhalalk | 947
+virakesarilk | 853
+adaderanasinhalalk | 948
 dailymirrorlk | 986
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,767 (100.0%) of 6,767 articles have been extended.
+6,769 (100.0%) of 6,769 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -67,6 +67,40 @@ Additional Public Prosecutor R Muniapparaj made the submission before a division
 [Data](articles/169d5e6a.json)
 
 [Extended Data](ext_articles/169d5e6a.ext.json)
+
+---
+
+### Cabinet permits to make several amendments to the Ceremony Protection Act
+
+*2024-02-13 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176299) · `ta`
+
+Bandulakunawardena has said that he has received ideas from industrial experts on the Celebration Protection Act.
+
+Based on these ideas, the Minister said that amendments will be made in the Messenger Protection Act.
+
+The Cabinet has granted permission to the Minister of Public Safety to prepare a copy of the amendments to the City Protection Act.
+
+◼️
+
+[Data](articles/108444a1.json)
+
+[Extended Data](ext_articles/108444a1.ext.json)
+
+---
+
+### A Notification for Ordinary Level Examination Candidates
+
+*2024-02-13 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193338) · `si`
+
+The Department of Registration of Persons has issued a statement from the Department of Registration of Persons to obtain National Identity Cards (2023) to appear in May 2024.
+
+It states that the information reference letter will be obtained by the following facilities via the following facilities.
+
+◼️
+
+[Data](articles/46e784fd.json)
+
+[Extended Data](ext_articles/46e784fd.ext.json)
 
 ---
 
@@ -1971,53 +2005,5 @@ Following this, Sri Kalyani Samasiri Dharma Maha Sangha Sabha Mahanayaka Thera M
 [Data](articles/479f28c2.json)
 
 [Extended Data](ext_articles/479f28c2.ext.json)
-
----
-
-### Ready to support the abolition of the executive presidency after the election - Sajith
-
-*2024-02-13 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176248) · `ta`
-
-Opposition Leader Sajit Breadasa says he is ready to support the United People's Power to abolish the Executive Officer.
-
-He said that the amendment should be implemented only after the election, he said that the United Nations was ready to support the power conditions to abolish the executive presidency.
-
-Speaking at the Attorneys' Conference, Sajitpremadasa said that we did not expect the rule of the law to be so damaged to the rule of law at the beginning.
-
-As a result, we are opposed to the abolition of the executive presidency without holding the presidential election or any other election, ”he said.
-
-He said that the responsibility of the abolition of the presidential system has been given to a loyalist of the President and Sajitpremadasa has carried out this with some civil society members.
-
-They are trying to know the position of others, he said.
-
-He also said that the United People's Power would voice the voice to hold the election before implementing constitutional reforms.
-
-◼️
-
-[Data](articles/51169d76.json)
-
-[Extended Data](ext_articles/51169d76.ext.json)
-
----
-
-### Four policemen, including two policemen in bilateral clashes:
-
-*2024-02-13 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176250) · `ta`
-
-Two police officers have been admitted to the hospital, both police officers, who were injured in a two -sided clash when the two police officers raided the motorcycle, have been admitted to the hospital.
-
-Two persons of Panadura Divisional Transport Officers and two residents of Panadura area on a motorbike have been admitted to the hospital, police said.
-
-Two police officers working in the traffic unit near the Panadura Valana Bridge have stopped a motorcycle traveling from Moratuwa to Panadura at around 12.10 pm.
-
-In the meantime, the two policemen searched the motorcycle and it was revealed that the clash between the two sides had ended.
-
-Further investigations are being carried out by the Panadura Southern Police.
-
-◼️
-
-[Data](articles/990433fd.json)
-
-[Extended Data](ext_articles/990433fd.ext.json)
 
 ---

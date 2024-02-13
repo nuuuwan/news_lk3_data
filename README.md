@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 17:17:30**
+As of **2024-02-13 17:33:46**
 
 ## Newspaper Stats
 
-*Scraped **6,751** Articles*
+*Scraped **6,757** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
 adalk | 572
-adaderanalk | 827
+adaderanalk | 828
 tamilmirrorlk | 828
-virakesarilk | 850
+virakesarilk | 852
 adaderanasinhalalk | 947
-dailymirrorlk | 983
+dailymirrorlk | 986
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,746 (99.9%) of 6,751 articles have been extended.
+6,751 (99.9%) of 6,757 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### டயானா கமகே விவகாரம்:மேன்முறையீட்டு மனு மீதான விசாரணை  நிறைவடைந்தது!
+
+*2024-02-13 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176296) · `ta`
+
+இராஜாங்க அமைச்சர் டயானா கமகேவின் நாடாளுமன்ற உறுப்புரிமை தொடர்பான  மனுவை மேன்முறையீட்டு நீதிமன்றம் நிராகரித்ததை எதிர்த்து தாக்கல் செய்யப்பட்ட மேன்முறையீட்டு மனு மீதான விசாரணைகள் இன்று செவ்வாய்க்கிழமை  (13) உயர் நீதிமன்றம் நிறைவடைந்தன.
+
+மேல் நீதிமன்ற நீதிபதிகள் காமினி அமரசேகர, குமுதினி விக்கிரமசிங்க மற்றும் ஜனக் டி சில்வா ஆகிய மூவரடங்கிய நீதிபதிகள் குழாம் முன்னிலையில் மேன்முறையீடு விசாரணைக்கு வந்தது.
+
+இராஜாங்க அமைச்சரின் நாடாளுமன்ற உறுப்பினர் பதவி மற்றும் பிரஜாவுரிமைக்கு எதிராக தாம் தாக்கல் செய்த மனு மேன்முறையீட்டு நீதிமன்றத்தினால் நிராகரிக்கப்பட்ட இரண்டு வாரங்களின் பின்னர் சமூக ஆர்வலர் ஓஷல ஹேரத் மேன்முறையீடுகளை முன்வைத்திருந்தார்.
+
+◼️
+
+[Data](articles/e8af3485.json)
+
+---
 
 ### Diana Gamage MPs seat: SC indefinitely defers delivery of verdict
 
@@ -49,6 +65,50 @@ Naming Gamage and several others as the respondents of his appeal, Herath said h
 ...
 
 [Data](articles/2e0c436c.json)
+
+[Extended Data](ext_articles/2e0c436c.ext.json)
+
+---
+
+### Diana Gamage’s MP seat: SC defers verdict indefinitely
+
+*2024-02-13 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97235/diana-gamages-mp-seat-sc-defers-verdict-indefinitely) · `en`
+
+The Supreme Court on Tuesday (Feb.13) concluded the hearing of an appeal filed challenging the Appeals Court’s dismissal of a petition State Minister Diana Gamage’s parliamentary membership.
+
+Appeal was heard before Supreme Court’s three-member bench comprising Justices Gamini Amarasekara, Kumudini Wickramasinghe, and Janak de Silva.
+
+Upon concluding the proceedings, the judge bench decided to defer its verdict indefinitely.
+
+Social activist Oshala Herath had put forward the appeals two weeks after the petition he had filed against the State Minister’s parliamentary seat and citizenship was dismissed by the Appeals Court.
+
+Naming Gamage and several others as the respondents of his appeal, Herath said he had previously filed a petition alleging that the lawmaker is unqualified to hold the position of a member of parliament in Sri Lanka, as she also holds dual citizenship.
+
+...
+
+[Data](articles/e34d16d8.json)
+
+---
+
+### வைத்தியாசாலையில் கடமையில் முப்படையினர்
+
+*2024-02-13 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176282) · `ta`
+
+நாடளாவிய ரீதியில் 72 சுகாதார தொழிற்சங்கங்கள் இன்று செவ்வாய்க்கிழமை (13) காலை முதல் மீண்டும் பணி பகிஷ்கரிப்பில் ஈடுப்பட்டுள்ளனர்.
+
+இந்நிலையில், வைத்தியசாலைகளின் நோயாளர் உதவிப் பணிகளுக்காக சுமார் 1,200 முப்படையினர் கடமையில் ஈடுபடுத்தப்பட்டுள்ளனர்.
+
+அதன்படி, நாடளாவிய ரீதியிலுள்ள 48 வைத்தியசாலைகளின் செயற்பாடுகளை தடையின்றி முன்னெடுப்பதற்காக 900க்கும் அதிகமான இராணுவத்தினர் கடமையில் ஈடுபடுத்தப்பட்டுள்ளதாக இராணுவப் பேச்சாளர் மேஜர் ஜெனரல் ரசிக குமார தெரிவித்துள்ளார்.
+
+அத்துடன், 200க்கும் மேற்பட்ட வான்படை மற்றும் கடற்படை சிப்பாய்களும் வைத்தியசாலையின் செயற்பாடுகளுக்கு உதவியாக அனுப்பப்பட்டுள்ளனர்.
+
+இந்நிலையில், தேவைக்கு ஏற்றவாறு மேலதிக படையினரை வைத்தியசாலைகளுக்கு அனுப்பவுள்ளதாக இராணுவப் பேச்சாளர் மேஜர் ஜெனரல் ரசிக குமார தெரிவித்துள்ளார்.
+
+எவ்வாறாயினும், வைத்தியசாலைகளில் அவசர சிகிச்சை பிரிவில் கடமையாற்றும் சுகாதார பணியாளர்கள் சேவையில் ஈடுபட்டு வருவதாக சுகாதார தொழிற்சங்கங்களின் பிரதிநிதிகள் குறிப்பிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/15a95179.json)
 
 ---
 
@@ -90,6 +150,28 @@ Accordingly, the Cabinet of Ministers has approved the proposal submitted by the
 
 [Data](articles/b3112cb1.json)
 
+[Extended Data](ext_articles/b3112cb1.ext.json)
+
+---
+
+### European Union Ambassador Carmen Moreno meets Anura Kumara
+
+*2024-02-13 16:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/European-Union-Ambassador-Carmen-Moreno-meets-Anura-Kumara/108-276930) · `en`
+
+Ambassador of the European Union to Sri Lanka, Carmen Moreno met NPP leader Anura Kumara Dissanayake at the JVP Headquaters this afternoon.
+
+Colombo, Feb. 13 (Daily Mirror)- They discussed matters concernig the economic crisis and the political situation in Sri Lanka, party sources said.
+
+Upholding human rights, democracy, the postponement of elections and the recently enacted Onlin Safety Act were also discussed, they said.
+
+Attention was also drawn to strenthern relationships between the two parties.
+
+Deputy Head of Delegation of the European Union to Sri Lanka Lars Bredal and NPP MP Vijitha Herath joined the meeting.
+
+◼️
+
+[Data](articles/70dbffb1.json)
+
 ---
 
 ### 9-year-old girl’s death in Atulugama: Accused sentenced to 27 years RI
@@ -105,6 +187,8 @@ In the event the accused, Farook Mohommed Ganesanathan, fails to pay the aforeme
 ...
 
 [Data](articles/e4494856.json)
+
+[Extended Data](ext_articles/e4494856.ext.json)
 
 ---
 
@@ -123,6 +207,8 @@ The trade union actions stemmed from the Cabinet Ministers’ approval of a prop
 ◼️
 
 [Data](articles/cf644085.json)
+
+[Extended Data](ext_articles/cf644085.ext.json)
 
 ---
 
@@ -164,6 +250,8 @@ The project is planned to be carried out under a public-private partnership.
 
 [Data](articles/1a34c1c8.json)
 
+[Extended Data](ext_articles/1a34c1c8.ext.json)
+
 ---
 
 ### Cabinet approval to revise the online bill
@@ -175,6 +263,30 @@ The project is planned to be carried out under a public-private partnership.
 [Data](articles/00338d84.json)
 
 [Extended Data](ext_articles/00338d84.ext.json)
+
+---
+
+### Bore. Two farmers killed in illegal electric fence
+
+*2024-02-13 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/176289) · `ta`
+
+The body of two farmers, Maman's son -in -law, was found dead on Tuesday (13).
+
+The 51 -year -old Arumugam Lohanathan, a 51 -year -old from Pudimalai, and 21 -year -old Vinayagamoorthy Sudarshan, a 21 -year -old, have been recovered.
+
+A former Deputy Minister of the Valaichenai police division in the Valaichenai Police Division has illegally set up an electric fence around the farm to prevent wild animals from logging.
+
+In this case, the father -in -law and son -in -law went to the harvest of agriculture yesterday near the area.
+
+The owner of the man who went to Pannai this morning told police that two people were killed by electricity.
+
+Subsequently, the police said that the police would obtain a court order and recover the body and hand over the autopsy.
+
+◼️
+
+[Data](articles/3c079656.json)
+
+[Extended Data](ext_articles/3c079656.ext.json)
 
 ---
 
@@ -195,30 +307,6 @@ The king of the 8 year old sentence imposed on the 8-year-old Prime Minister he 
 [Data](articles/19dc85a8.json)
 
 [Extended Data](ext_articles/19dc85a8.ext.json)
-
----
-
-### Bore. Two farmers killed in illegal electric fence
-
-*2024-02-13 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/176289) · `ta`
-
-The body of two farmers, Maman's son -in -law, was found dead on Tuesday (13).
-
-The 51 -year -old Arumugam Lohanathan, a 51 -year -old from Pudimalai, and 21 -year -old Vinayagamoorthy Sudarshan, a 21 -year -old, have been recovered.
-
-A former Deputy Minister of the Valaichenai police division in the Valaichenai Police Division has illegally set up an electric fence around the farm to prevent wild animals from logging.
-
-In this case, the father -in -law and son -in -law went to the harvest of agriculture yesterday near the area.
-
-The owner of the man who went to Pannai this morning told police that two people were killed by electricity.
-
-Subsequently, the police said that the police would obtain a court order and recover the body and hand over the autopsy.
-
-◼️
-
-[Data](articles/3c079656.json)
-
-[Extended Data](ext_articles/3c079656.ext.json)
 
 ---
 
@@ -245,6 +333,30 @@ Investigations have revealed that the victim was later trying to rape the girl, 
 [Data](articles/c62aa998.json)
 
 [Extended Data](ext_articles/c62aa998.ext.json)
+
+---
+
+### DroughtRequest to drink too much water!
+
+*2024-02-13 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176274) · `ta`
+
+The public has been asked to take necessary steps to protect themselves from dehydration due to the prevailing hot situation in the country.
+
+Deepal Perera, a specialist on the children's disease of the Children's Hospital in Colombo, said that the children, athletes and the armed forces, in particular, could suffer from diabetes.
+
+Fatigue, sleep, fatigue, headache, vomiting and appetite are symptoms of diabetes.
+
+Therefore, the public should continue to drink water to prevent dehydration.
+
+Meanwhile, the Department of Meteorology has predicted that the country is expected to expect rainfall in April.
+
+It is noteworthy that the department has pointed out that although some areas are currently experiencing some rainfall, the dry weather will prevail until April.
+
+◼️
+
+[Data](articles/440760ff.json)
+
+[Extended Data](ext_articles/440760ff.ext.json)
 
 ---
 
@@ -292,11 +404,11 @@ As per the undertaking given by the state-owned electricity supplier, this annua
 
 *2024-02-13 14:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NMRA-faces-exodus-as-two-more-Board-members-resign/108-276925) · `en`
 
-The National Medicines Regulatory Authority (NMRA) has witnessed the resignation of two members from its board namely Supul Wijesinghe and Dr  Priyantha Serasinghe.
+The National Medicines Regulatory Authority (NMRA) has witnessed the resignation of two more members from its board namely Supul Wijesinghe and Dr  Priyantha Serasinghe.
 
 Prior to the latest development, Attorney-at-Law Manoj Gamage conveyed his decision to step down as a Director of the NMRA in a resignation letter submitted to Minister of Health Ramesh Pathirana, effective today, February 13th.
 
-The NMRA Board comprise of Dr. Kosala Karunaratne, Dr. Asela Gunawardane, M.M. Chathura Parakrama Mohottigedara, Dr.Pradeep Kumarasinghe De Silva, Dr. Banukie Jayasuriya and Dr. Duminda Ariyaratne
+The NMRA Board comprises of Dr. Kosala Karunaratne, Dr. Asela Gunawardane, M.M. Chathura Parakrama Mohottigedara, Dr.Pradeep Kumarasinghe De Silva, Dr. Banukie Jayasuriya and Dr. Duminda Ariyaratne
 
 ◼️
 
@@ -512,7 +624,9 @@ The firearm had then discharged, injuring the officer, while the suspect fled wi
 
 *2024-02-13 14:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Introduction-of-courses-on-Artificial-Intelligence-to-education-system/108-276923) · `en`
 
-Colombo, Feb 13 (Daily Mirror) - The Cabinet approved the introduction of Artificial Intelligence (AI) to the school curricula as a pilot project from Grade 8, Cabinet spokesman a
+Colombo, Feb 13 (Daily Mirror) - The proposal for the introduction of Artificial Intelligence (AI) to schools will be a radical change to the education system, and will help prepare children for the future, Cabinet spokesman and Minister Bandula Gunawardana said.
+
+He said, the cabinet approved the introduction of AI to the school curricula as a pilot project from Grade 8.
 
 He said the introduction of courses on Artificial Intelligence in the education system was initially decided upon at the Cabinet meeting held on October 2, 2023.
 
@@ -521,8 +635,6 @@ The proposal for the introduction of AI to schools will be a radical change to t
 It is appropriate to introduce the proposed courses in accordance with the recommendations by the task force appointed for the formation of a national strategy and plan related to AI.
 
 As part of the strategic plan, a pilot project has been designed to introduce AI courses to general education.
-
-Accordingly, the Cabinet had approved the proposal presented by the President in his capacity as Technology and Education Minister to implement the said pilot project with the support of Microsoft, as follows:
 
 ...
 
@@ -679,30 +791,6 @@ The award is reflected that Sri Lanka has used the principles of the United Nati
 [Data](articles/cc595730.json)
 
 [Extended Data](ext_articles/cc595730.ext.json)
-
----
-
-### DroughtRequest to drink too much water!
-
-*2024-02-13 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/176274) · `ta`
-
-The public has been asked to take necessary steps to protect themselves from dehydration due to the prevailing hot situation in the country.
-
-Deepal Perera, a specialist on the children's disease of the Children's Hospital in Colombo, said that the children, athletes and the armed forces, in particular, could suffer from diabetes.
-
-Fatigue, sleep, fatigue, headache, vomiting and appetite are symptoms of diabetes.
-
-Therefore, the public should continue to drink water to prevent dehydration.
-
-Meanwhile, the Department of Meteorology has predicted that the country is expected to expect rainfall in April.
-
-It is noteworthy that the department has pointed out that although some areas are currently experiencing some rainfall, the dry weather will prevail until April.
-
-◼️
-
-[Data](articles/440760ff.json)
-
-[Extended Data](ext_articles/440760ff.ext.json)
 
 ---
 
@@ -863,6 +951,22 @@ Among the proposals is to revise the international syllabus currently implemente
 [Data](articles/f4866278.json)
 
 [Extended Data](ext_articles/f4866278.ext.json)
+
+---
+
+### Presidential Election on schedule, General Election set for next year: PMD
+
+*2024-02-13 12:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Presidential-Election-on-schedule-General-Election-set-for-next-year-PMD/155-276921) · `en`
+
+Colombo, Feb 13 (Daily Mirror) - The President's Media Division (PMD) confirmed that the Presidential Election will be held within the mandated period and will adhere to the current timeline.
+
+According to the PMD, the General Election is will be held next year with financial provisions to be provided for in the 2025 budget.
+
+The Election Commission is responsible for conducting the elections and the Government will communicate with the Commission as and when required, the PMD further said.
+
+◼️
+
+[Data](articles/e58c4018.json)
 
 ---
 
@@ -1917,107 +2021,5 @@ The man who sold the stolen handset for a thousand rupees was caught by the mone
 [Data](articles/a83fd06f.json)
 
 [Extended Data](ext_articles/a83fd06f.ext.json)
-
----
-
-### President’s economic strategy is the only way forward - Bandula
-
-*2024-02-13 09:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97215/presidents-economic-strategy-is-the-only-way-forward-bandula) · `en`
-
-Minister of Highways, Transport, and Mass Media Dr. Bandula Gunawardena says if anyone has any alternative suggestions beyond the program initiated by President Ranil Wickremesinghe, he is ready to explore such alternative avenues for Sri Lanka’s economic development.
-
-He emphasized the need for informed dialogue across various media platforms during a press conference convened at the Presidential Media Centre (PMC).
-
-Addressing concerns over misinformation regarding public financial management, the minister stressed the inadequacy of mere rhetoric in addressing Sri Lanka’s economic challenges.
-
-Highlighting fiscal figures, Gunawardena noted a state revenue of Rs. 3,201 billion in 2023, juxtaposed with expenditures of Rs. 4,394 billion on subsidies, salaries, and public debt.
-
-...
-
-[Data](articles/aa00996d.json)
-
-[Extended Data](ext_articles/aa00996d.ext.json)
-
----
-
-### Health workers in the workplace again
-
-*2024-02-13 09:41:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-பணிப்புறக்கணிப்பில்-சுகாதார-ஊழியர்கள்/175-333116) · `ta`
-
-72 health trade unions have decided to go on strike from 06.30 am today.
-
-Ravi Kumudesh, organizer of the Health Trade Unions Federation, said that the strike would be made demanding the payment of the DAT allowance to the doctors.
-
-The unions say the decision has been taken due to the failure of talks with the finance ministry.
-
-Meanwhile, the Secretary of the All Ceylon Nurses Association, SP Medivatta said that the protest will be held tomorrow (14) due to the lack of a solution to many demands of the Nurses Service.. Remble
-
-◼️
-
-[Data](articles/7405ddc9.json)
-
-[Extended Data](ext_articles/7405ddc9.ext.json)
-
----
-
-### Suspect arrested for setting pet dog on fire
-
-*2024-02-13 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97214/suspect-arrested-for-setting-pet-dog-on-fire) · `en`
-
-A man has been arrested on suspicion of setting a female pet dog on fire in Imbulgoda, Gampaha.
-
-The 65-year-old was identified as a resident of the same area, the police said.
-
-The pet dog had been set ablaze by a neighbour on the night of February 10 and died of severe burn injuries while being rushed to a veterinary surgeon by the owners.
-
-Reports revealed that the suspect, the owner of several German Shepherd dogs, had been infuriated after his neighbour’s female pet dog had purportedly mated with his dogs.
-
-Yakkala Police launched an investigation after the owners of the victimized dog filed a complaint about the incident.
-
-The arrestee was supposed to be produced before the court on Monday (Feb.12).
-
-◼️
-
-[Data](articles/ee5e5874.json)
-
-[Extended Data](ext_articles/ee5e5874.ext.json)
-
----
-
-### Yall. Concert - Lessons to Learn!
-
-*2024-02-13 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176244) · `ta`
-
-Yall. The concert of the South Indian artists in the courtyard on the 9th has become widespread today and various political leaders have expressed their views on this.. Jaffna especially. Fans, South Indian artists, as well as South Indian artists. Mutual opinion and love for fans. With all this, concerts are being organized from time to time.
-
-Unfortunately, South Indian artists and Jaffna have questioned the love of music for music and economic conditions.Therefore, it is the duty of all sides to recover from this and find out where the mistake happened.
-
-During the concerts, it is worthwhile for fans to go ahead to see their loved ones. A similar incident took place during a recent concert of AR Raghuman in Chennai. So the fans were embarrassed and social websites were severely criticized. Raghuman then apologized and repaid the fees.
-
-...
-
-[Data](articles/0f0f8f30.json)
-
-[Extended Data](ext_articles/0f0f8f30.ext.json)
-
----
-
-### Sri Lanka Freedom Party to support abolishing presidency; SJB cries foul
-
-*2024-02-13 09:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-freedom-party-to-support-abolishing-presidency-sjb-cries-foul-150684/) · `en`
-
-ECONOMYNEXT — The Sri Lanka Freedom Party (SLFP) has said it will fully support a move to abolish the the executive presidency, even as the main opposition Samagi Jana Balawegaya cries foul at what it’s calling a tactic to delay elections.
-
-SLFP chairman and former President Maithripala Sirisena said speaking at an event on Monday February 12 that his party would be fully behind a speculated referendum to abolish the presidency.
-
-“What we hear is that a referendum will be held on abolishing the executive presidency. If there is such a referendum, we the SLFP will raise not one hand but both in support,” he said.
-
-SJB MP Mujibur Rahuman, meanwhile, accused President Ranil Wickremesinghe of scheming to delay the presidential elections scheduled to be held by October this year.
-
-...
-
-[Data](articles/acd52f3e.json)
-
-[Extended Data](ext_articles/acd52f3e.ext.json)
 
 ---

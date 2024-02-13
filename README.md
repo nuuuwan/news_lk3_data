@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 04:02:32**
+As of **2024-02-14 04:17:39**
 
 ## Newspaper Stats
 
-*Scraped **6,830** Articles*
+*Scraped **6,831** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ tamilmirrorlk | 835
 adaderanalk | 838
 virakesarilk | 868
 adaderanasinhalalk | 954
-dailymirrorlk | 1,003
+dailymirrorlk | 1,004
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,830 (100.0%) of 6,830 articles have been extended.
+6,830 (100.0%) of 6,831 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### Akin to Deck Chairs on the Titanic
+
+*2024-02-14 02:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Akin-to-Deck-Chairs-on-the-Titanic/172-276955) · `en`
+
+People waiting for hours to refill liquefied petroleum gas cylinders during Sri Lanka's economic crisis of 2022
+
+There are worrying signs that policymakers and political parties simply have not grasped the magnitude of the problem at hand. The current direction of Sri Lanka’s economy and the overall mindset of a majority of economic and policy elites within and beyond the State, suggests a trajectory that will keep Sri Lanka dependent on foreign debt-financed trade deficits, vulnerable to shocks from energy prices, and unprepared for the next wave of transformation and economic growth.
+
+...
+
+[Data](articles/447c68dd.json)
+
+---
 
 ### NGO Activities Amid Closing Civic Spaces - EDITORIAL
 
@@ -2035,29 +2049,5 @@ When the media had revealed the incident, a person who had come to Anuradhapura 
 [Data](articles/2a47943b.json)
 
 [Extended Data](ext_articles/2a47943b.ext.json)
-
----
-
-### Introduction of courses on Artificial Intelligence to education system
-
-*2024-02-13 14:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Introduction-of-courses-on-Artificial-Intelligence-to-education-system/108-276923) · `en`
-
-Colombo, Feb 13 (Daily Mirror) - The proposal for the introduction of Artificial Intelligence (AI) to schools will be a radical change to the education system, and will help prepare children for the future, Cabinet spokesman and Minister Bandula Gunawardana said.
-
-He said, the cabinet approved the introduction of AI to the school curricula as a pilot project from Grade 8.
-
-He said the introduction of courses on Artificial Intelligence in the education system was initially decided upon at the Cabinet meeting held on October 2, 2023.
-
-The proposal for the introduction of AI to schools will be a radical change to the education system, and will help to release children into the future.
-
-It is appropriate to introduce the proposed courses in accordance with the recommendations by the task force appointed for the formation of a national strategy and plan related to AI.
-
-As part of the strategic plan, a pilot project has been designed to introduce AI courses to general education.
-
-...
-
-[Data](articles/2cf63939.json)
-
-[Extended Data](ext_articles/2cf63939.ext.json)
 
 ---

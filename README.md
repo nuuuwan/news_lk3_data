@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 05:38:13**
+As of **2024-02-13 05:56:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 963
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,593 (99.9%) of 6,597 articles have been extended.
+6,597 (100.0%) of 6,597 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -162,69 +162,85 @@ On 8 June 2023, the Government of Sri Lanka signed an agreement with RM Parks In
 
 ---
 
-### யாழ். வலிகாமம் வடக்கில் 500 ஏக்கரை சுவீகரிக்க எடுத்த முயற்சியை அப்பகுதி மக்களால் முறியடிப்பு
+### Yall. The people of the area have defeated the efforts to acquire 500 acres in the north of Valikamam
 
 *2024-02-13 01:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/176238) · `ta`
 
-யாழ்ப்பாணம் - வலிகாமம் வடக்கில் மக்களின் வாழ்விடங்களிலிருந்து 500 ஏக்கரை சுவீகரிக்க எடுக்கப்பட்ட முயற்சி திங்கட்கிழமை (12) அப்பகுதி மக்களால் முறியடிக்கப்பட்டது.
+Attempts to acquire 500 acres from the homes of the people in the North of Jaffna - Valikamam were thwarted by the people of the area on Monday (12).
 
-யாழ்ப்பாணம் சர்வதேச விமான நிலைய அபிவிருத்தி என்னும் பெயரில் மேலும் 500 ஏக்கர் நிலத்தைச் சுவீகரித்துத் தருமாறு விமான போக்குவரத்து அதிகார சபை கோரிக்கை விடுத்தது எனக் கூறியே இந்த முயற்சி இடம்பெற்றது.
+The initiative was made by the Air Transport Authority to take over a further 500 acres of land in the name of the Jaffna International Airport Development.
 
-இதற்குத் தாம் ஏற்கனவே கடும் எதிர்ப்பை வெளியிட்டு அவசர சந்திப்புக்கு மாவட்ட அரச அதிபருக்கு எழுத்தில் கடிதம் வழங்கியபோதும் அவர் வாய்மூடி மௌனியாக இருக்கின்றார் என்றும் அப்பகுதி மக்கள் குற்றஞ்சாட்டியிருந்தனர்.
+The residents of the area also accused him of being silent, even though he had already issued a letter to the District Government Agent for an emergency meeting.
 
-இந்நிலையில், இன்று மீண்டும் குரும்பசிட்டி, வசாவிளான், கட்டுவன், கட்டுவன் மேற்கு, குப்பிளான் வடக்கு ஆகிய கிராமங்களை உள்ளடக்கிய வகையில் 500 ஏக்கரை சுவீகரிக்கும் வகையில் இரகசியமாக நிலங்களை அளவிடும் முயற்சி இடம்பெறுகின்றது என அறிந்து அப்பகுதியில் குவிந்த மக்கள் தமது எதிர்ப்பை வெளியிட்டு தமது நிலங்களை அளவீடு செய்ய அனுமதிக்க முடியாது எனப் போராட்டத்தில் ஈடுபட்டனர்.
+In this case, today, people in the area have joined the protest that they are trying to secretly measure land in the villages of Kurumbasiti, Vasavilan, Katuvan, Katuwan, Katuvan, Kuttuvan and Kuppilan North.
 
 ◼️
 
 [Data](articles/09784d96.json)
 
+[Extended Data](ext_articles/09784d96.ext.json)
+
 ---
 
-### 10,000 வர்த்தக நிலையங்களில் டிஜிட்டல் முறையில் பணம் செலுத்தும் வசதி : 04 இலட்சம் வர்த்தகர்கள் பயனடைவர்
+### Digital Payment Facility at 10,000 Business Centers: 04 lakh traders benefit
 
 *2024-02-13 01:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176237) · `ta`
 
-NNPCI International Payments Limited  மற்றும் இலங்கை  LankaPay நிறுவனம் என்பன இணைந்து முன்னெடுக்கும்  இந்த வேலைத்திட்டத்தை விரைவாக விஸ்தரிக்கும் நோக்கத்துடன் 10,000 வர்த்தக நிலையங்களில்  இந்த கட்டண முறை நடைமுறைப்படுத்தப்படுகிறது. இந்த வசதியை மேலும் விரிவுபடுத்துவதன் மூலம், இந்த வர்த்தக நிலையங்களின் எண்ணிக்கை மார்ச் 2024க்குள் 65,000 ஆக உயர்த்தப்படவுள்ளது.
+The fee system is being implemented in 10,000 trade centers with the aim of rapidly expanding the program, which is being launched by NNPCI International Payments Limited and Sri Lanka Lanka. By further expanding this feature, the number of these trade centers will be increased by March 2024 to 65,000.
 
-இலங்கை வரும் இந்தியச் சுற்றுலாப் பயணிகளுக்கு QR குறியீடு ஊடாக ஒருங்கிணைந்த கட்டண முறை எனப்படும் UPI  ஊடாக பணம் செலுத்தும் முறைமையை அறிமுகப்படுத்தும் நிகழ்வு திங்கட்கிழமை (12) காலை ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+President Ranil Wickremesinghe, headed by President Ranil Wickremesinghe on Monday morning (12), was held at the Presidential Office to introduce a payment system through the UPI (UPI) for Sri Lanka.
 
-இந்திய பிரதமர் நரேந்திர மோடியும் ஒன்லைன் தொழில்நுட்பம் மூலம் இதில் இணைந்து கொண்டார்.
+Indian Prime Minister Narendra Modi also joined the online technology.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க தனது அண்மைய உத்தியோகபூர்வ இந்திய விஜயத்தின் போது வெளியிடப்பட்ட " தொலைநோக்கு  அறிக்கையின்" பிரகாரம் இரு நாடுகளுக்கும் இடையில் தற்போதுள்ள இருதரப்பு உறவுகளை மேலும் வலுப்படுத்தும் வகையில்  ஒன்றிணைந்த  கொடுப்பனவு முறைமை (UPI) அறிமுகப்படுத்தப்பட்டது.
+President Ranil Wickremesinghe introduced the Joint Payment System (UPI) to further strengthen the existing bilateral relations between the two countries during his recent official Indian visit.
 
 ...
 
 [Data](articles/19c03562.json)
 
+[Extended Data](ext_articles/19c03562.ext.json)
+
 ---
 
-### காலி கராப்பிட்டிய போதனா வைத்தியாசாலைக்கு 200 கோடி ரூபாய் நிதி ஒதுக்கீடு - அமைச்சர் வைத்தியர் ரமேஷ் பத்திரன
+### 200 crore allocation for Galle Karapitiya Teaching Hospital
 
 *2024-02-13 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176236) · `ta`
 
-காலி கராப்பிட்டிய போதனா வைத்தியசாலைக்குத் தேவையான மருத்துவ உபகரணங்கள் மற்றும் கட்டிய நிர்மானப்பணிகளுகதாக சுகாதார அமைச்சால் 200 கோடி ரூபாய் நிதி ஒதுக்கீடு செய்யப்பட்டுள்ளது. கொழும்பு தேசிய வைத்தியசாலைக்கு அடுத்தபடியாக அதிக படுக்கை வசதிகளைக் கொண்ட வைத்தியசாலையாக கராபிட்டிய வைத்தியசாலை இருக்கும் எனச் சுகாதார மற்றும் கைத்தொழில் அமைச்சர் வைத்தியர் ரமேஷ் பத்திரன தெரிவித்துள்ளார்.
+The Ministry of Health has allocated Rs 200 crore for the construction of the Medical Equipment and the construction of the Galle Karapitiya Teaching Hospital.. Minister of Health and Industry Dr. Ramesh Pathirana said that the Karapitiya Hospital will be the highest bed in the next Colombo National Hospital.
 
-காலி வர்த்தக மற்றும் கைத்தொழில் சம்மேளனத்தின் கேட்போர் கூடத்தில் நேற்று திங்கட்கிழமை நடைபெற்ற கராப்பிட்டிய போதனா வைத்தியசாலை சிறுநீரக பராமரிப்பு சங்கத்தின் 11 ஆண்டு விழாவில் கலந்துகொண்டு கருத்து தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு குறிப்பிட்டிருந்தார்.
+He was speaking at the 11th anniversary of the Karapitiya Teaching Hospital Kidney Care Association held at the Galle Trade and Industry Auditorium on Monday.
 
-கராப்பிட்டிய வைத்தியசாலைக்குத் தேவையான மருத்துவ உபகரணங்கள் மற்றும் கட்டிய நிர்மானப்பணிகளுக்காக சுகாதார அமைச்சால் இவ்வருடத்துக்கு 200 கோடி ரூபாய் நிதி ஒதுக்கீடு செய்யப்பட்டுள்ளது. மேலும் இவ்வருடத்துக்குப் பின்னர் கராப்பிட்டிய வைத்தியசாலையில் படுக்கைகளுக்குத் தட்டுப்பாடு ஏற்படாது என உறுதியளிக்கிறேன்.
+The Ministry of Health has allocated Rs 200 crore this year for the construction of medical equipment and construction work for the Karapitiya Hospital.. And I promise that there will be no shortage of beds at the Karapitiya Hospital after this year.
+
+The Karapitiya Hospital will be the highest beds next to the Colombo National Hospital. The construction of the kidney unit was long enough to be completed, but the kidney segment was effective in the short term.
 
 ...
 
 [Data](articles/45c16886.json)
 
+[Extended Data](ext_articles/45c16886.ext.json)
+
 ---
 
-### வங்கிக் கணக்குள்ள வங்கியுடன் வர்த்தக இணக்கப்பாட்டுக்கு வந்த பிறகு, வர்த்தகம் தொடர்பான QR குறியீட்டை எளிதாகப் பெறலாம் - மத்திய வங்கியின் பணிப்பாளர் வசந்த அல்விஸ்
+### After the trade compliance with the bank account, the QR code can be easily obtained - the Director of the Central Bank Vasantha Alwis
 
 *2024-02-13 00:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/176235) · `ta`
 
-இலங்கைக்கு வருகை தரும் இந்தியச் சுற்றுலாப் பயணிகளுக்கு  டிஜிட்டல் QR குறியீடு மூலம் ஒருங்கிணைந்த கட்டண முறை அல்லது UPI அறிமுகப்படுத்திய பின்னர்   அது தொடர்பாக விளக்கமளிக்கும்  ஊடகவியலாளர் சந்திப்பு திங்கட்கிழமை (12) பிற்பகல் ஜனாதிபதி ஊடக மையத்தில் இடம்பெற்றது.
+A media briefing was held at the Presidential Media Center on Monday afternoon after the introduction of an integrated payment system or UPI for Indian tourists visiting Sri Lanka.
 
-NPCI International Payments Limited மற்றும் இலங்கையின் LankaPay பிரைவேட் லிமிடெட் இணைந்து செயல்படுத்தும் இந்த திட்டத்தை விரைவாக விரிவுபடுத்தும் நோக்கத்துடன், 10,000 வர்த்தக நிலையங்களில் இந்த கட்டண முறை  இதனுடன் இணைந்ததாக நடைமுறைப்படுத்தப்படுவதோடு இந்த வசதியை மேலும் விரிவுபடுத்துவதன் மூலம், 2024 மார்ச்  மாத்திற்குள் , இந்த வர்த்தக நிலையங்களின் எண்ணிக்கை 65,000 ஆக உயர்த்தப்படும்  எனவும் இங்கு சுட்டிக்காட்டப்பட்டது.
+The NPCI International Payments Limited and Sri Lanka's Lanka Pvt.
+
+The Director of the Central Bank (Payment and Solutions) said that by contacting the financial institution of his bank account, the QR code can be easily obtained by the trade agreement.. He emphasized that all banks and financial institutions registered with the Central Bank of Sri Lanka are obliged to provide the code.
+
+Since most Indians are accustomed to pay by the QR code, Indian tourists can use UPI-telephone processors uninterrupted to pay the business community across Sri Lanka.
+
+Payments can be paid by scanning the QR code through the LANKAQR, the most optimal system for local transactions.
 
 ...
 
 [Data](articles/3ca68057.json)
+
+[Extended Data](ext_articles/3ca68057.ext.json)
 
 ---
 

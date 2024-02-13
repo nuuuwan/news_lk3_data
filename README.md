@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 11:33:16**
+As of **2024-02-13 11:52:27**
 
 ## Newspaper Stats
 
-*Scraped **6,661** Articles*
+*Scraped **6,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
 adalk | 564
-adaderanalk | 806
+adaderanalk | 811
 tamilmirrorlk | 819
 virakesarilk | 834
 adaderanasinhalalk | 929
@@ -26,85 +26,145 @@ dailymirrorlk | 973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,651 (99.8%) of 6,661 articles have been extended.
+6,665 (100.0%) of 6,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
-### வைத்தியசாலைகளில் மீண்டும் களமிறக்கப்பட்ட இராணும்
+### 18 Tamil Nadu fishermen arrested by Sri Lankan Navy return home
+
+*2024-02-13 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97218/18-tamil-nadu-fishermen-arrested-by-sri-lankan-navy-return-home) · `en`
+
+As many as 18 Indian fishermen from Tamil Nadu who were arrested by the Sri Lankan Navy recently returned home on Tuesday.
+
+They arrived in Chennai from Colombo by air and were received by officials of the Tamil Nadu fisheries department and some BJP functionaries.
+
+The fishermen were arrested by the Lankan Navy last month for alleged maritime violations and lodged in a prison there.
+
+A local court ordered their release earlier this month, after which they were kept in a camp there, officials said.
+
+The fishermen left for Ramanathapuram by road in a state government-arranged vehicle.
+
+◼️
+
+[Data](articles/dc7ed896.json)
+
+[Extended Data](ext_articles/dc7ed896.ext.json)
+
+---
+
+### The re -fielded queen in hospitals
 
 *2024-02-13 10:55:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலைகளில்-மீண்டும்-களமிறக்கப்பட்ட-இராணும்/175-333122) · `ta`
 
-சுகாதார தொழிற்சங்கங்கள் முன்னெடுத்துள்ள பணிப்பகிஷ்கரிப்பு காரணமாக முடங்கியிருந்த வைத்தியசாலைகளின் அன்றாட நடவடிக்கைகளை முன்னெடுப்பதற்காக இராணுவத்தினர் மீண்டும் களமிறக்கப்பட்டுள்ளனர்.
+The military has been re -fielded to carry out the daily activities of hospitals that have been paralyzed due to the work of the health unions.
 
-பல கோரிக்கைகளை முன்வைத்து நாடளாவிய ரீதியில் அரச வைத்தியசாலைகளில் 72 சுகாதார தொழிற்சங்கங்கள் பணிப்புறக்கணிப்பினை இன்று (13) ஆரம்பித்துள்ளன.
+72 health trade unions have launched a workforce today (13) in government hospitals across the country with a number of demands.
 
-இந்த பணிப்புறக்கணிப்பு காரணமாக பாதிக்கப்பட்டுள்ள வைத்தியசாலைகளின் செயற்பாடுகளை தொடர்ந்தும் முன்னெடுத்துச் செல்ல உதவுமாறு சுகாதார அமைச்சு பாதுகாப்பு அமைச்சிடம்  கோரிக்கை விடுத்துள்ளது.
+The Ministry of Health has requested the Ministry of Defense to help continue the operations of the hospitals affected by the workplace.
 
-இதனையடுத்து, பாதுகாப்பு அமைச்சின் ஆலோசனையின் பேரில் இராணுவத் தளபதி லெப். ஜெனரல் விக்கும் லியனகே, இராணுவத் வீரர்களை வைத்தியசாலைகளுக்கு அனுப்புமாறு அறிவுறுத்தல்களை வழங்கியுள்ளார்.
+Subsequently, on the advice of the Ministry of Defense, the Army Commander Leb. Liyanage, General Vikku Liyanage, has been instructed to send military personnel to hospitals.
 
-அதன்படி, தற்போது மேல், மத்திய, கிழக்கு மற்றும் வன்னி பாதுகாப்புப் படைத் தளபதிகளின் முழுமையான கண்காணிப்பில், கொழும்பு மற்றும் கண்டி தேசிய வைத்தியசாலைகள் களுபோவில, கராப்பிட்டி, மஹமோதர, பேராதனை, அநுராதபுரம் மற்றும் குருநாகல் போதனா வைத்தியசாலைகளை இராணுவத்தினர் பணியில் ஈடுபடுத்தப்பட்டுள்ளனர்.
+Accordingly, under the thorough surveillance of the Commander -in -Chief of the Central, Eastern and Vanni Security Forces, Colombo and Kandy National Hospitals have been deployed by the Army to the Kalubowila, Karapitiya, Mahamodara, Peradeniya, Anuradhapura and Kurunegala Teaching Hospitals.
 
 ...
 
 [Data](articles/7df7e05b.json)
 
+[Extended Data](ext_articles/7df7e05b.ext.json)
+
 ---
 
-### கீர்த்தி ஸ்ரீ ராஜசிங்க நரேந்திரனின் உலோகச் சிலை திறப்பு
+### Six including army personnel injured in Kilinochchi bus-lorry collision
+
+*2024-02-13 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97217/six-including-army-personnel-injured-in-kilinochchi-bus-lorry-collision) · `en`
+
+At least 06 individuals have been injured after a passenger bus attached to Sri Lanka Transport Board (SLTB) collided with a lorry carrying a group of Army personnel in the Kokavil area of Kilinochchi.
+
+Police stated that the accident took place after the SLTB bus travelling from Thunukkai, Mullaitivu towards Jaffna collided with the lorry heading towards Kilinochchi from Mankulam.
+
+The lorry had overturned in the accident leaving four army personnel injured. The driver of the passenger bus and a woman who was travelling on the bus have also sustained injuries.
+
+The six injured individuals have been admitted to Kilinochchi Hospital for treatment. However, their condition is not critical, according to hospital sources.
+
+Meanwhile, the driver of the passenger bus has been arrested by Mankulam Police regarding the incident.
+
+◼️
+
+[Data](articles/9b81270b.json)
+
+[Extended Data](ext_articles/9b81270b.ext.json)
+
+---
+
+### Keerthi Sri Rajasinghe Narendran's metal statue
 
 *2024-02-13 10:53:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கீர்த்தி-ஸ்ரீ-ராஜசிங்க-நரேந்திரனின்-உலோகச்-சிலை-திறப்பு/175-333120) · `ta`
 
-கொள்ளுபிட்டி வாலுகாராம விகாரையில் நிறுவப்பட்டுள்ள கீர்த்தி ஸ்ரீ ராஜசிங்க நரேந்திரனின் உலோகச் சிலை ஜனாதிபதியினால் திறந்து வைக்கப்பட்டது.
+The metal statue of Keerthi Sri Rajasinghe Narendran, installed at the Kalupitiya Valugarama Viharaya, was opened by the President.
 
-கொள்ளுப்பிட்டி வாலுகாராம உட்பட பஞ்ச மகா விகாரை விகாராதிபதி விசித்ர பானக வண. மஹரகம நந்த நாயக்க தேரரின் 70 ஆவது பிறந்தநாளை முன்னிட்டு கொள்ளுபிட்டிவாலுகாராம விகாரையில் நிறுவப்பட்டுள்ள கீர்த்தி ஸ்ரீராஜசிங்க நரேந்திரனின் உலோகச் சிலையை திரை நீக்கம் செய்யும் நிகழ்வு திங்கட்கிழமை (12) ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தலைமையில் நடைபெற்றது.
+Visitra Banaka Vanaka Vikarama Vikarama Vikarama. President Ranil Wickremasinghe was held on Monday (12) to remove the metal statue of Keerthi Srirajasinghe Narendran, who was installed at the Kalupitivalakarama Vihara on the 70th birthday of Maharagama Nanda Nayaka Thera.
 
-தாய்லாந்திலுள்ள மகாசங்கத்தினர் உள்ளிட்ட தாய்லாந்து நன்கொடையாளர்களின் ஆதரவுடன் இந்த உலோக சிலை நிர்மாணிக்கப்பட்டுள்ளது.
+The metal statue has been constructed with the support of the donors of Thailand, including the Mahasangas in Thailand.
 
-பெயர் பலகையை திரைநீக்கம் செய்துஇ கீர்த்தி ஸ்ரீ ராஜசிங்க நரேந்திரனின் உலோகச் சிலையும் ஜனாதிபதி திறந்து வைத்தார். இதனுடன் இணைந்ததாக விகாரையில் நிர்மாணிக்கப்பட்டுள்ள வண. வெலிவிட்ட சரணங்கர சங்கராஜ தேரரின் சிலையும் திரைநீக்கம் செய்யப்பட்டது.
+The President also opened the metal statue of Keerthi Sri Rajasinghe Narendran. Combined with this. The statue of the Velitta Saranankara Sankaraja Thera was also unloaded.
+
+Following this, Sri Kalyani Samasiri Dharma Maha Sangha Sabha Mahanayaka Thera Malwane Panchasarapithana Thera was performed by religious observances.. Verse. The salon was performed by Maharagama Nanda Nayaka Thera.
 
 ...
 
 [Data](articles/479f28c2.json)
 
+[Extended Data](ext_articles/479f28c2.ext.json)
+
 ---
 
-### தேர்தலின் பின்னர் நிறைவேற்று அதிகார ஜனாதிபதி முறையை நீக்குவதற்கு ஆதரவளிக்க தயார் - சஜித்
+### Ready to support the abolition of the executive presidency after the election - Sajith
 
 *2024-02-13 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176248) · `ta`
 
-நிறைவேற்று அதிகாரஜனாதிபதி முறையை நீக்குவதற்கு ஐக்கிய மக்கள் சக்தி ஆதரவளிக்க தயார் என எதிர்கட்சி தலைவர் சஜித்பிரேமதாச தெரிவித்துள்ளார்.
+Opposition Leader Sajit Breadasa says he is ready to support the United People's Power to abolish the Executive Officer.
 
-நிறைவேற்று அதிகார ஜனாதிபதி முறையை நீக்குவதற்கு ஐக்கியமக்கள் சக்தி நிபந்தனையுடன் ஆதரவளிக்க தயார் என தெரிவித்துள்ள அவர் தேர்தலின் பின்னரே இந்த திருத்தத்தை நடைமுறைப்படுத்தவேண்டும்  எனவும்  தெரிவித்துள்ளார்.
+He said that the amendment should be implemented only after the election, he said that the United Nations was ready to support the power conditions to abolish the executive presidency.
 
-நாங்கள் ஆரம்பத்தில் நிறைவேற்று அதிகாரமுறையை நம்பினோம் ஆனால் சட்டத்தின் ஆட்சிக்கு இவ்வளவு பாதிப்புகளை ஏற்படுத்தும் என நாங்கள் எதிர்பார்க்கவில்லை என குறிப்பிட்டுள்ள சஜித்பிரேமதாச இதன் காரணமாக நாங்கள் எங்கள் நிலைப்பாட்டை மாற்றிவிட்டோம் என சட்டத்தரணிகள் மாநாட்டில் உரையாற்றுகையில் தெரிவித்துள்ளார்.
+Speaking at the Attorneys' Conference, Sajitpremadasa said that we did not expect the rule of the law to be so damaged to the rule of law at the beginning.
 
-இதன் காரணமாக ஜனாதிபதி தேர்தலை அல்லது வேறு எந்த தேர்தலையும் நடத்தாமல் நிறைவேற்று அதிகார ஜனாதிபதி முறையை நீக்குவதை எதிர்க்கின்றோம் மக்களின் வாக்களிப்பதற்கான உரிமையை பறிக்ககூடாது எனவும் அவர் தெரிவித்துள்ளார்
+As a result, we are opposed to the abolition of the executive presidency without holding the presidential election or any other election, ”he said.
 
-...
+He said that the responsibility of the abolition of the presidential system has been given to a loyalist of the President and Sajitpremadasa has carried out this with some civil society members.
+
+They are trying to know the position of others, he said.
+
+He also said that the United People's Power would voice the voice to hold the election before implementing constitutional reforms.
+
+◼️
 
 [Data](articles/51169d76.json)
 
+[Extended Data](ext_articles/51169d76.ext.json)
+
 ---
 
-### இருதரப்பு மோதலில் இரு பொலிஸார் உட்பட நால்வர் காயம் : பாணந்துறையில் சம்பவம்!
+### Four policemen, including two policemen in bilateral clashes:
 
 *2024-02-13 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176250) · `ta`
 
-இரு பொலிஸ் உத்தியோகத்தர்கள் மோட்டார் சைக்கிளை சோதனையிட்டபோது,  ஏற்பட்ட இரு தரப்பு மோதலையடுத்து காயமடைந்த மோட்டார் சைக்கிளில் வந்த இருவரும் பொலிஸ் உத்தியோகத்தர்கள் இருவரும் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக   பாணந்துறை தெற்கு பொலிஸார் தெரிவித்தனர்.
+Two police officers have been admitted to the hospital, both police officers, who were injured in a two -sided clash when the two police officers raided the motorcycle, have been admitted to the hospital.
 
-பாணந்துறை பிரதேச போக்குவரத்து உத்தியோகத்தர்கள் இருவர் மற்றும் மோட்டார் சைக்கிளில் வந்த பாணந்துறை பிரதேசத்தில் வசிக்கும் இருவருமே வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக  பொலிஸார் தெரிவித்தனர்.
+Two persons of Panadura Divisional Transport Officers and two residents of Panadura area on a motorbike have been admitted to the hospital, police said.
 
-பாணந்துறை வலான பாலத்துக்கு அருகில் போக்குவரத்துப் பிரிவில் கடமையாற்றும் பொலிஸ் உத்தியோகத்தர்கள் இருவர் நள்ளிரவு 12.10 மணியளவில் மொரட்டுவையிலிருந்து பாணந்துறை நோக்கி பயணித்த மோட்டார் சைக்கிளிளை நிறுத்தியுள்ளனர்.
+Two police officers working in the traffic unit near the Panadura Valana Bridge have stopped a motorcycle traveling from Moratuwa to Panadura at around 12.10 pm.
 
-இந்நிலையில், இரு பொலிஸாரும் குறித்த மோட்டார் சைக்கிளை சோதனையிட்டபோதே இரு தரப்பினருக்குமிடையில் வாக்குவாதம் முற்றி மோதலில் முடிந்துள்ளதாக தெரிய வருகிறது.
+In the meantime, the two policemen searched the motorcycle and it was revealed that the clash between the two sides had ended.
 
-இந்தச் சம்பவம் தொடர்பில் மேலதிக விசாரணைகளை பாணந்துறை தெற்கு பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+Further investigations are being carried out by the Panadura Southern Police.
 
 ◼️
 
 [Data](articles/990433fd.json)
+
+[Extended Data](ext_articles/990433fd.ext.json)
 
 ---
 
@@ -126,17 +186,19 @@ In April last year, the Paddy Marketing Board did not pay Rs 664 crore to the tr
 
 ---
 
-### நாய் எரித்துக்கொலை: ஒருவர் கைது
+### Dog burning: One arrested
 
 *2024-02-13 10:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாய்-எரித்துக்கொலை-ஒருவர்-கைது/175-333118) · `ta`
 
-கம்பஹா, மேல் யாகொட பிரதேசத்தில் வீடொன்றில் வளர்க்கப்பட்ட நாய்க்கு தீ வைத்து கொலை செய்த குற்றச்சாட்டில் 65 வயதுடைய நபர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக யக்கல பொலிஸார் தெரிவிக்கின்றனர்.
+A 65 -year -old man has been arrested for allegedly setting fire to a dog who was raised in a house in Gampaha, Upper Yagoda area, Yakkala police said.
 
-எரித்துக் கொல்லப்பட்ட நாயின் உரிமையாளர் செய்த முறைப்பாட்டின் அடிப்படையில் குறித்த நபர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் கூறியுள்ளனர்.
+Police said the man was arrested on the basis of a complaint made by the owner of a burned dog.
 
 ◼️
 
 [Data](articles/a069068d.json)
+
+[Extended Data](ext_articles/a069068d.ext.json)
 
 ---
 
@@ -156,35 +218,39 @@ Police said the man was arrested on the basis of a complaint made by the owner o
 
 ---
 
-### පුද්ගලයකු දුම්රියේ ගැටී පීලි අතර සිරවීමෙන් දුම්රිය ප්‍රමාදයක්
+### Railway delay in train between a person collided with tracks
 
 *2024-02-13 10:40:31* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගලයකු-දුම්රියේ-ගැටී-පීලි-අතර-සිරවීමෙන්-දුම්රිය-ප්‍රමාදයක්/11-408049) · `si`
 
-මග්ගොන ප්‍රදේශයේ දී පුද්ගලයකු දුම්රියක ගැටී පීලි අතර සිරවීමෙන් මුහුදු බඩ දුම්රිය මාර්ගයේ 13 උදෑසන  දුම්රිය ධාවනය තරමක ප්‍රමාදයක් පැවතී  බව කළුතර දුම්රිය බළධාරීයෙක් පැවසීය .
+A Kalutara train rail was a delay in the 19th morning railway train on the 19th morning of the coastal railway line between the tracks and tracks in the Maggona area.
 
-මේ හේතුවෙන් රුහුණු කුමාරී සහ ගාලු කුමාරී සීඝ්‍රගාමී දුම්රියන් විනාඩි 35 සහ 30 බැගින් ප්‍රමාදවී ධාවනයවූ බව සදහන් වේ.
+It is said that the rational trains of Ruhunu Kumari and Galle have been trained in 35 and 30 minutes.
 
-මියගොස් ඇති පුද්ගලයා ගාල්ල සිට ගල්කිස්ස බලා ධාවනයවූ 8319 දරණ මන්දගාමී දුම්රියේ ගැටෙන්නට ඇති බවට සැක පලකරන බව දුම්රිය ආරංචි මාර්ග සදහන් කරයි.
+Raya Sources said that the victim had been hit by a slower train from Galle to Mount Lavinia.
 
-මියගොස් ඇති පුද්ගලයා ගේ අනන්‍යතාවය මේ වනවිටත්  තහවුරු කරගෙන නොතිබූ බව පොලිසිය කීය.
+Police said that the identity of the victim was not confirmed.
 
-මෘතදේහය කළුතර ශීක්ෂණ රෝහලට  භාරදී ඇති අතර, පයාගල  පොලිසිය වැඩිදුර පරීක්ෂණ පවත්වති.
+Payagala Police have been handed over to the Kalutara Sacred Hospital and Payagala Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/1072d093.json)
 
+[Extended Data](ext_articles/1072d093.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු මන්ත්‍රී අලී සබ්රි රිය අනතුරක
+### MP Ali Sabri in road accident
 
 *2024-02-13 10:23:57* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මන්ත්‍රී-අලී-සබ්රි-රිය-අනතුරක/11-408048) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රි අලි සබ්රි රහිම් මහතා තම රියදුරු සමග ගමන් ගත් සුඛෝපභෝගී ජීප් රථය 13 දින අලුයම 1.30ට පමන  පුත්තලම සිට අනුරාධපුර මාර්ගයේ ගමන් ගනිමින් සිටියදි සාලියවැව 15 කණුව ප්‍රදේශයෙදී ඉදිරියෙන් ගමන් ගත් අත් ට්‍රැක්ටරයක ගැටිමේන් ට්‍රැක්ටරයේ රියදුරා තුවාල ලබා පුත්තලම මූලික රෝහලට ඇතුලත් කර ඇති අතර මන්ත්‍රිවරයාට අනතුරීන් කිසිදු හානියක් සිදුව නැති බවත්  සුඛෝපභෝගී ජීප් රථයට බරපතල හානි සිදුව ඇති බවද  පොලිසිය පවසයි.‍
+MP Ali Sabri Rhim was admitted to the Anuradhapura Base Hospital while he was traveling with his driver at 1.30 am from the Anuradhapura Junction at the Anuradhapura Base.Police say that there is no harm and the luxury jeep has been serious.
 
 ◼️
 
 [Data](articles/8481b485.json)
+
+[Extended Data](ext_articles/8481b485.ext.json)
 
 ---
 
@@ -218,6 +284,26 @@ The two suspects are to be produced before the Panadura Magistrate's Court.
 
 ---
 
+### One in five of migratory species at risk of extinction - UN report
+
+*2024-02-13 10:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97216/one-in-five-of-migratory-species-at-risk-of-extinction-un-report) · `en`
+
+More than a fifth of the world’s migrating species are at risk of going extinct as a result of climate change and human encroachment, according to the United Nation’s first-ever report on migrating animals published on Monday.
+
+Billions of animals make journeys across deserts, plains or oceans every year to breed and feed, and “unsustainable” pressures put on migratory species could not only see their populations dwindle, but also disrupt food supplies and threaten livelihoods, the report said.
+
+Of the 1,189 species covered by a 1979 U.N. convention to protect migratory animals, 44% have seen numbers decline, and as many as 22% could vanish altogether, the report added.
+
+The numbers were based on assessments and data provided by the International Union for the Conservation of Nature (IUCN) as well as the Living Planet Index, which collates population numbers for more than 5,000 species from 1970 onwards.
+
+...
+
+[Data](articles/9b28bce5.json)
+
+[Extended Data](ext_articles/9b28bce5.ext.json)
+
+---
+
 ### EC says no budget allocation for a General Election in 2024
 
 *2024-02-13 10:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/EC-says-no-budget-allocation-for-a-General-Election-in-2024/108-276909) · `en`
@@ -240,23 +326,45 @@ Read more - RTI reveals… Budget allocated to conduct one election in 2024
 
 ---
 
-### ஐ போனை திருடி ஆயிரம் ரூபாய்க்கு விற்ற யாசகர்
+### Yasakar who stole the phone and sells for a thousand rupees
 
 *2024-02-13 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176245) · `ta`
 
-யாசகர் ஒருவர் ஐ போன் ஒன்றை திருடி அதனை ஆயிரம் ரூபாய்க்கு விற்பனை செய்த சம்பவமொன்று இடம்பெற்றுள்ளது.
+There was an incident where a Yasakar stole a phone and sold it for a thousand rupees.
 
-இந்தச் சம்பவம் வாழைச்சேனை பொலிஸ் பிரிவுக்குட்பட்ட செம்மண்ணோடை பகுதியில் நேற்று (12) திங்கட்கிழமை இடம்பெற்றுள்ளது.
+The incident took place on Monday (12) in the Semmannodai area of the Valaichenai police division.
 
-யாசகம் கேட்டு வந்த முதியவர் ஒருவர் வீடு ஒன்றிலிருந்த பெறுமதி வாய்ந்த  ஐ போன் ஒன்றை திருடிச் சென்றுள்ளார்.
+An elderly man who asked Yasakam had stolen a valuable iPhone from a house.
 
-இவ்வாறு திருடிச் சென்ற நபரின் புகைப்படத்தை சி.சி.ரி.வியின் உதவியுடன் முகநூலில் பதிவிட்டதன் பின்னர் திருட்டுச் சம்பவத்தில் ஈடுபட்டவர் வசமாக சிக்கியுள்ளார்.
+After posting a photo of the man who stolen the man with the help of the CCRV, the man involved in the theft was trapped.
 
-திருடிய கைபேசியை ஆயிரம் ரூபாய்க்கு விற்பன செய்த அந்நபர் அந்தப் பணத்தில் மது அருந்திக் கொண்டிருந்த நிலையில் அவர் பிடிபட்டுள்ளார்.
+The man who sold the stolen handset for a thousand rupees was caught by the money.
 
 ◼️
 
 [Data](articles/a83fd06f.json)
+
+[Extended Data](ext_articles/a83fd06f.ext.json)
+
+---
+
+### President’s economic strategy is the only way forward - Bandula
+
+*2024-02-13 09:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97215/presidents-economic-strategy-is-the-only-way-forward-bandula) · `en`
+
+Minister of Highways, Transport, and Mass Media Dr. Bandula Gunawardena says if anyone has any alternative suggestions beyond the program initiated by President Ranil Wickremesinghe, he is ready to explore such alternative avenues for Sri Lanka’s economic development.
+
+He emphasized the need for informed dialogue across various media platforms during a press conference convened at the Presidential Media Centre (PMC).
+
+Addressing concerns over misinformation regarding public financial management, the minister stressed the inadequacy of mere rhetoric in addressing Sri Lanka’s economic challenges.
+
+Highlighting fiscal figures, Gunawardena noted a state revenue of Rs. 3,201 billion in 2023, juxtaposed with expenditures of Rs. 4,394 billion on subsidies, salaries, and public debt.
+
+...
+
+[Data](articles/aa00996d.json)
+
+[Extended Data](ext_articles/aa00996d.ext.json)
 
 ---
 
@@ -280,17 +388,45 @@ Meanwhile, the Secretary of the All Ceylon Nurses Association, SP Medivatta said
 
 ---
 
-### யாழ். இசை நிகழ்ச்சி -  கற்றுக்கொள்ள வேண்டிய பாடங்கள் !
+### Suspect arrested for setting pet dog on fire
+
+*2024-02-13 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97214/suspect-arrested-for-setting-pet-dog-on-fire) · `en`
+
+A man has been arrested on suspicion of setting a female pet dog on fire in Imbulgoda, Gampaha.
+
+The 65-year-old was identified as a resident of the same area, the police said.
+
+The pet dog had been set ablaze by a neighbour on the night of February 10 and died of severe burn injuries while being rushed to a veterinary surgeon by the owners.
+
+Reports revealed that the suspect, the owner of several German Shepherd dogs, had been infuriated after his neighbour’s female pet dog had purportedly mated with his dogs.
+
+Yakkala Police launched an investigation after the owners of the victimized dog filed a complaint about the incident.
+
+The arrestee was supposed to be produced before the court on Monday (Feb.12).
+
+◼️
+
+[Data](articles/ee5e5874.json)
+
+[Extended Data](ext_articles/ee5e5874.ext.json)
+
+---
+
+### Yall. Concert - Lessons to Learn!
 
 *2024-02-13 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176244) · `ta`
 
-யாழ். முற்றவெளியில் கடந்த 9ஆம் திகதி நடைபெற்ற தென்னிந்திய கலைஞர்களின் இசை நிகழ்ச்சி  குழப்பத்துக்கு மத்தியில் நிறைவடைந்தமை  இன்று பரவலாக  பேசு பொருளாக மாறியுள்ளதுடன்   இது தொடர்பாக பல்வேறு அரசியல் தலைவர்களும் தங்கள் கருத்துக்களையும்  தெரிவித்துள்ளனர். குறிப்பாக யாழ். ரசிகர்கள்,தென்னிந்திய  கலைஞர்கள் மீதும், அதேபோன்று தென்னிந்திய  கலைஞர்கள் யாழ் . ரசிகர்கள்  மீதும்  பரஸ்பரம் நல்ல அபிப்பிராயமும், அன்பும் கொண்டவர்கள். இவை அனைத்தையும்  கவனத்தில் கொண்டே இசை நிகழ்ச்சிகள் காலாகாலமாக  ஒழுங்கு செய்யப்பட்டு வருகின்றன .
+Yall. The concert of the South Indian artists in the courtyard on the 9th has become widespread today and various political leaders have expressed their views on this.. Jaffna especially. Fans, South Indian artists, as well as South Indian artists. Mutual opinion and love for fans. With all this, concerts are being organized from time to time.
 
-அரசியல் , பொருளாதார நிலைமைகளுக்கப்பால்  துரதிஷ்டவசமாக,  தென்னிந்திய  கலைஞர்களும், யாழ் .மக்களும் இசை மீது கொண்டுள்ள அன்பைக் கேள்விக்குறியாக்கும் வகையில் அமைந்த இந்த சம்பவம் மிகுந்த மன வருத்தத்தை இரு தரப்பிலும் ஏற்படுத்தி விட்டது என்பதே உண்மை.  எனவே இதிலிருந்து மீள்வதுடன்   தவறு எங்கு நடந்தது என்பதைக் கண்டறிந்து அதனை   சீர் செய்ய  வேண்டியது  சகல தரப்பினரதும் கடமையாகும் .
+Unfortunately, South Indian artists and Jaffna have questioned the love of music for music and economic conditions.Therefore, it is the duty of all sides to recover from this and find out where the mistake happened.
+
+During the concerts, it is worthwhile for fans to go ahead to see their loved ones. A similar incident took place during a recent concert of AR Raghuman in Chennai. So the fans were embarrassed and social websites were severely criticized. Raghuman then apologized and repaid the fees.
 
 ...
 
 [Data](articles/0f0f8f30.json)
+
+[Extended Data](ext_articles/0f0f8f30.ext.json)
 
 ---
 
@@ -1959,113 +2095,5 @@ The arrested for 39 year old suspect was a 39 year old suspect.
 [Data](articles/34b69d8d.json)
 
 [Extended Data](ext_articles/34b69d8d.ext.json)
-
----
-
-### Payment facilities through digital procedures to come to Sri Lanka
-
-*2024-02-12 20:14:39* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවට-පැමිණෙන-ඉන්දීය-සංචාරකයන්ට-ඩිජිටල්-ක්‍රමවේදය-ඔස්සේ-ගෙවීම්-පහසුකම්/11-408043) · `si`
-
-Payment facilities through digital procedures to visit Sri Lanka
-
-This is a unique opportunity to strengthen Indo-Sri Lanka economic ties.
-
-President continues to promote Indo-Sri Lanka Relationship - President.
-
-An important step in speeding the digital translation of Sri Lanka - Indian Prime Minister Narendra Modi.
-
-President Ranil Wickremesinghe was chaired by President Ranil Wickremesinghe today (12) at the Presidential Secretariat today (12).
-
-Indian Prime Minister Narendra Modi also joined the occasion through online technology.
-
-NPCI International Payments Limited and the implementation of 10,000 shops to rapidly expanding this program in Sri Lanka, the implementation of 10,000 shops was carried out with this program. By March 2024, the number of shops will be increased to 65,000 by expanding this facility.
-
-...
-
-[Data](articles/01c7ee9d.json)
-
-[Extended Data](ext_articles/01c7ee9d.ext.json)
-
----
-
-### The opening of the Rama Temple;Ranil congratulates Modi
-
-*2024-02-12 20:13:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராமர்-கோவில்-திறப்பு-மோடிக்கு-ரணில்-வாழ்த்து/175-333088) · `ta`
-
-President Ranil Wickremesinghe today congratulated Indian Prime Minister Narendra Modi for the inauguration of the Rama Temple in Ayodhya last month.
-
-The introduction of the UPI Payment Interface (UPI) in Mauritius and Sri Lanka was held today (12) through the participation of Indian Prime Minister Narendra Modi.
-
-President Ranil Wickremesinghe and Mauritius Prime Minister Pravind Jukhnaut were also present.
-
-President Ranil Wickremesinghe outlined the Economic and Cultural Front for the long historical ties between India and Sri Lanka.. “Prime Minister Modi, this is the second important opportunity for you.. This shows our connection in economic and culturally. ”. Remble
-
-◼️
-
-[Data](articles/3fbf00f2.json)
-
-[Extended Data](ext_articles/3fbf00f2.ext.json)
-
----
-
-### There is a controversial discovery on another drug
-
-*2024-02-12 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193299) · `si`
-
-Dr. Genal Director General of Health Services has arisen for the antibiotic standard of Merepenem, which is currently used in the country. Mr. Wijesuriya revealed today (12).
-
-He says that the incidents were reported to meet the glass cuts in the vials that contain the antibiotics.
-
-The supply of the antibiotic revealed in the containers of the Morpenem, the supplier that he had revealed was that the stock of drugs had failed in quality.
-
-Meanwhile, health careers have been alleged that private suppliers have been stored in the Customs Terminals of Welisara, Kelaniya and Wattala by the private suppliers to Sri Lanka by acting as the importer of the State Pharmaceutical Corporation.
-
-According to them, the drugs were kept unsafe for more than four months without any treatment of the proper temperature.
-
-It is said that in one container contains about US $ 1 million drugs.
-
-...
-
-[Data](articles/d7e67088.json)
-
-[Extended Data](ext_articles/d7e67088.ext.json)
-
----
-
-### Court issues notices on Environment Minister
-
-*2024-02-12 20:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-issues-notices-on-Environment-Minister/108-276854) · `en`
-
-Colombo, Feb 12 (Daily Mirror) - The Court of Appeal today issued notices on the Minister of Environment, the Central Environmental Authority and several others in connection with the writ petition filed challenging the construction of reservoirs and roads and clearing of state forest lands in the Sinharaja Forest Reserve in 2020.
-
-Meanwhile, the Court rejected the preliminary objections raised by the respondents and decided to fix the matter for hearing.
-
-The respondent parties including the Minister of Environment and the Central Environmental Authority had raised preliminary objections challenging the maintainability of the petition.
-
-The Centre for Environmental Justice (CEJ) and its Executive Director Hemantha Withanage filed this petition naming the Conservator General of Forests, the Central Environmental Authority, thr Minister of Environment, the Minister of Wildlife and Forest Conservation, the Minister of Irrigation and the Attorney General as respondents.
-
-...
-
-[Data](articles/8caa888e.json)
-
-[Extended Data](ext_articles/8caa888e.ext.json)
-
----
-
-### Many health sectors become sick today
-
-*2024-02-12 20:03:39* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-බොහෝ-අංශ-අද-ලෙඩ-වෙයි/11-408042) · `si`
-
-Health Trade Union Alliances states that the health workers held yesterday (13) with the authorities have been unsuccessful since 6.30 am today (13)..
-
-The UPFA convener Ravikkumah said that the committee was appointed as the issues were carried out until the problems of this program would be done until the problems were solved.
-
-He said that this committee would not have the power to do the economic justice of health staff, he said that this committee would not have had enough power to solve the problems.. 72 trade unions of health care are covered by child and women's hospitals, cancer and kidney activities and the central blood banks and other hospitals are the essential services of the other hospitals.
-
-...
-
-[Data](articles/45d8c881.json)
-
-[Extended Data](ext_articles/45d8c881.ext.json)
 
 ---

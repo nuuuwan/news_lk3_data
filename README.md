@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 06:53:30**
+As of **2024-02-13 07:15:44**
 
 ## Newspaper Stats
 
-*Scraped **6,599** Articles*
+*Scraped **6,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,43 +12,85 @@ colombotelegraphcom | 80
 bbccomsinhala | 90
 dbsjeyarajcom | 147
 economynextcom | 339
-islandlk | 347
+islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
 adalk | 558
 tamilmirrorlk | 803
 adaderanalk | 803
 virakesarilk | 829
-adaderanasinhalalk | 918
+adaderanasinhalalk | 920
 dailymirrorlk | 963
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,598 (100.0%) of 6,599 articles have been extended.
+6,599 (99.8%) of 6,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
-### ප්‍රදේශ කිහිපයකට තද වැසි
+### පාර්ලිමේන්තු මන්ත්‍රී අලි සබ්‍රි රහීම්ගේ මෝටර් රථය අනතුරකට ලක්වෙයි
+
+*2024-02-13 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193309) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී අලි සබ්‍රි රහීම් මහතා ගමන් කරමින් තිබූ මෝටර් රථය අනතුරට පත්වීමෙන් පුද්ගලයෙකු තුවාල ලබා ඇති බව සාලියවැව පොලීසිය සඳහන් කරයි.
+
+අද (13) අලුයම 1.00ට පමණ පුත්තලම - අනුරාධපුර මාර්ගයේ 15 කණුව ප්‍රදේශයේදී මෙම අනතුර සිදුවී ඇත.
+
+අනතුරින් තුවාල ලබා ඇත්තේ ඉහළ පුලියන්කුලම - අලුත්ගම පදිංචිකරුවෙකු වන එච්.එම්.හර්ෂණ ප්‍රදීප් නම් අයෙකි.
+
+මන්ත්‍රීවරයා පුත්තලමේ සිට අනුරාධපුර දෙසට ගමන් කරමින් සිටිය දී එම දෙසටම ධාවනය වූ අත්ට්‍රැක්ටරයක පිටුපස මන්ත්‍රීවරයාගේ මෝටර් රථය ගැටීමෙන් අනතුර සිදුවී තිබිණි.
+
+තුවාල ලබා ඇත්තේ අත්ට්‍රැක්ටරය පදවා ගෙන ගිය පුද්ගලයා බව පොලීසිය සඳහන් කරයි.
+
+අනතුර සම්බන්ධයෙන් මන්ත්‍රීවරයා ගමන් කළ මෝටර් රථය පැදවූ රියදුරුව සාලියවැව පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/fe932931.json)
+
+---
+
+### දිය වැලකට හසුවූ පිරිසක්ව බේරාගනී
+
+*2024-02-13 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193308) · `si`
+
+දිය වැලකට හසුවී දියේ ගිලෙමින් සිටි පාසල් සිසුන් සිව්දෙනෙක් හා තරුණයෙක්ව පොලිස් ජීවිතාරක්ෂක ඒකකයේ නිලධාරීන් විසින් බේරාගෙන තිබේ.
+
+ඊයේ (12) එම පිරිස පානදුර වෙරළ තීරයේ දිය නාමින් සිටීය දී දිය වැලකට හසුවී ඇත.
+
+එලෙස බේරාගත් පිරිස අතර වසය අවුරුදු 12ක් හා 09ක් වූ පිරිමි ළමුන් දෙදෙනෙකු, වයස අවුරුදු 17ක් හා 14ක් වූ ගැහැනු ළමුන් දෙදෙනෙකු හා වයස අවුරුදු 23ක් වූ තරුණයෙකු සිටින බව පොලීසිය පවසයි.
+
+එම පිරිස බේරාගැනීමට සඳහා කටයුතු කර ඇත්තේ, පානදුර වෙරළ තීරයේ ජීවිතාරක්ෂ රාජකාරියේ යෙදී සිටි පොලිස් කොස්තාපල් පුෂ්පකුමාර හා පොලිස් කොස්තාපල් දසුන් යන නිලධාරීන් බව පොලිස් මාධ්‍ය කොට්ඨාසය පවසයි.
+
+◼️
+
+[Data](articles/405b4979.json)
+
+---
+
+### Heavy rains in several areas
 
 *2024-02-13 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193306) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව, මාතලේ සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology says that several showers can occur in the Eastern and Uva provinces, the Polonnaruwa, Matale and Nuwara Eliya districts.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, උතුරු පළාතේ සහ අනුරාධපුර දිස්ත්‍රික්කයේ වැසි ස්වල්පයක් ඇති විය හැකි බවය.
+The department states that the Northern and Anuradhapura District may have a few showers in the district.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (13) ප.ව. 2.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+Today in the Western and Sabaragamuwa Provincial and Galle and Matara districts. Showers or thundershowers will occur at a few places after 2.00.
 
-මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, දකුණු, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් විටින් විට හමන පැ.කි.මී. 30-40 පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+From time to time in the East, East, Southern, Southern, Uva and Eastern Provinces, North, North, Southern, Uva and Eastern Provinces.. The Department of Meteorology announces that strong winds can occur about 30-40.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කළ නිවේදනයේ වැඩිදුරටත් දැක්වේ.
+The Department of Meteorology also stated that in some places in the Western and Sabaragamuwa Province and in the Galle and Matara districts, the Meteorological Department further states.
 
 ◼️
 
 [Data](articles/bfd71030.json)
+
+[Extended Data](ext_articles/bfd71030.ext.json)
 
 ---
 
@@ -760,6 +802,34 @@ He is the second player in Indonesia in the last 12 months.
 
 ---
 
+### How Sri Lanka Ubered in 2023
+
+*2024-02-12 21:34:00* · [`islandlk`](http://island.lk/how-sri-lanka-ubered-in-2023/) · `en`
+
+With 2023 in the rear view mirror, Uber released highlights of its annual data report – How Sri Lanka Ubered – encapsulating the key trends from how Sri Lanka moved last year.
+
+The analysis from the trips in 2023 revealed interesting trends about cities with the total number of kilometres covered in Uber rides, popular travel trends in intercity travel, and also several rider preferences. Backed by data and insights, the report spotlights increasing relevance of ride sharing in Sri Lanka.
+
+Uber remained the favourite mobility companion for the island nation, with products across categories finding love from riders. Uber trips during the year covered a whopping 140 million kilometres, which is enough to traverse the entire 114,000 kilometre road network in Sri Lanka more than 1200 times over, or more than thrice everyday.
+
+...
+
+[Data](articles/28740500.json)
+
+---
+
+### First private healthcare provider to receive prestigious Green Building Council Certification
+
+*2024-02-12 21:32:00* · [`islandlk`](http://island.lk/first-private-healthcare-provider-to-receive-prestigious-green-building-council-certification/) · `en`
+
+Ninewells Hospital, Sri Lanka’s leader in woman and childcare has proudly achieved the Gold Standard Certification from the Green Building Council of Sri Lanka (GBCSL), becoming the first private hospital in Sri Lanka to receive the prestigious recognition. This certification underscores Ninewells’ position as the leader of sustainability in Sri Lanka’s healthcare sector, setting new benchmark for private healthcare providers across the Island.
+
+...
+
+[Data](articles/8969658a.json)
+
+---
+
 ### Sajith
 
 *2024-02-12 21:31:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தை-கடுமையாக-சாடுகிறார்-பாட்டலி/175-333090) · `ta`
@@ -779,6 +849,22 @@ Sampika Ranawaka, who condemned the action of the opposition leader, has warned 
 [Data](articles/7a8eb722.json)
 
 [Extended Data](ext_articles/7a8eb722.ext.json)
+
+---
+
+### Absence of institutional participation enervates bourse
+
+*2024-02-12 21:27:00* · [`islandlk`](http://island.lk/absence-of-institutional-participation-enervates-bourse/) · `en`
+
+Stock market trading was somewhat sluggish yesterday but buying interest has remained for the banking sector since last week. However, overall market activity has been on a declining trend in the absence of institutional participation, stock market analysts said.
+
+Both indices moved upwards. The All- Share Price Index up by 16.7 points and S and P SL20 rose by 5.2 points. Turnover stood at Rs 572 million without any crossings.
+
+In the retail market top seven companies that mainly contributed to the turnover were, Expolanka Holdings Rs 93.9 million (712,000 shares traded), JKH Rs 40.2 million (216,000 shares traded), Distilleries Rs 26 million (one million shares traded), Capital Alliance Rs 22.3 million (433,000 shares traded), Sampath Bank Rs 20.9 million (287,000 shares traded), Chevron Lubricants Rs 20.4 million (207,000 shares traded) and Dialog Rs 20.4 million (2.1 million shares traded). During the day 27.3 million share volumes changed hands in 7624 transactions.
+
+...
+
+[Data](articles/eeb6139d.json)
 
 ---
 
@@ -1069,6 +1155,22 @@ Transport, Highways and Mass Media Minister Dr. Bandula Gunawardena said this at
 [Data](articles/524dbe7a.json)
 
 [Extended Data](ext_articles/524dbe7a.ext.json)
+
+---
+
+### Only three transactions per LankaQR merchant code in 2023
+
+*2024-02-12 19:35:00* · [`islandlk`](http://island.lk/only-three-transactions-per-lankaqr-merchant-code-in-2023/) · `en`
+
+At a media briefing  held at the Presidential Media Center(PMC) after the virtual launch of the Unified Payment Interface (UPI) today (12),  it was revealed that only three (03) transactions per active LankaQR merchant code had taken place in 2023.
+
+Director Payments and Settlements, Central Bank of Sri Lanka Wasantha  Alwis, said that LankaQR was introduced in March 2019 and at present there were 380,000 LankaQR merchants but only 1.1 million transactions totaling 3.3 billion rupees had taken place in 2023. The number of LankaQR transactions in 2022 was 599,000 and the amount transacted was 1.9bilion rupees.
+
+With the introduction of Unified Payment Interface (UPI)  transactions through LankaQR the over 300,000 Indian tourists visiting Sri Lanka annually could make digital payments for goods and services whilst in Sri Lanka. There is no minimum limit for a transaction but the upper limit per transaction is Two hundred thousand Sri Lanka Rupees (LKR 200,000).
+
+...
+
+[Data](articles/e2a01238.json)
 
 ---
 
@@ -1921,123 +2023,5 @@ Kannangara alleged that two individuals, a former Test cricket umpire and a memb
 [Data](articles/9daf7534.json)
 
 [Extended Data](ext_articles/9daf7534.ext.json)
-
----
-
-### Sri Lanka needs to diversify markets to address food insecurity: US ambassador
-
-*2024-02-12 16:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-to-diversify-markets-to-address-food-insecurity-us-ambassador-150640/) · `en`
-
-ECONOMYNEXT – The US supports addressing Sri Lanka’s food security challenges, US Ambassador to Sri Lanka Julie Chung has told Minister of Commerce, Trade and Food Security Nalin Fernando.
-
-“The ambassador emphasized the importance of enhancing food security in the country. She also stated that to slash the food price increase and to adapt to the inflation, Sri Lanka needs to diversify the market,” a statement by the Ministry said.
-
-The trade ministry focuses mainly on decreasing the cost of production, minimizing post-harvest wastage, and enhancing the quality of production, Fernando said after the meeting on Monday (12) at the trade ministry.
-
-Fernando conceded that the country needs assistance with new technology to improve production, and assistance for SME sector productivity improvement.
-
-In May 2023, the UN’s Food and Agriculture Organization and the World Food Program estimated that 17 percent of the country’s population are in moderate acute food insecurity.
-
-...
-
-[Data](articles/35f4885c.json)
-
-[Extended Data](ext_articles/35f4885c.ext.json)
-
----
-
-### Senior Grama Niladhari arrested for sexually abusing female Grama Niladhari
-
-*2024-02-12 16:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Senior-Grama-Niladhari-arrested-for-sexually-abusing-female-Grama-Niladhari/108-276846) · `en`
-
-Kalpitiya, Feb 12 (Daily Mirror) - A senior Grama Niladhari of the Kalpitiya Divisional Secretariat was arrested for allegedly sexually abusing a female Grama Niladhari of the area, police said.
-
-The victim has told police that she had first made a complaint to the Divisional Secretary, but he had failed to take any proper action.
-
-She stated that the suspect who called over at her house when she was alone under pretext of taking over the tab computer issued to her for duties relating to the on going population sensus since she had been removed from those duties.
-
-She further stated that the suspect had accused her of neglecting her duties and had caught her by her hand and that she had submitted her resignation from the post due to the pain of mind caused by the incident.
-
-A senior police officer said the suspect is to be produced before courts.
-
-◼️
-
-[Data](articles/5605cac2.json)
-
-[Extended Data](ext_articles/5605cac2.ext.json)
-
----
-
-### Sri Lanka T20I squad announced ahead of Afghanistan series
-
-*2024-02-12 16:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-T20I-squad-announced-ahead-of-Afghanistan-series/108-276843) · `en`
-
-Colombo, Feb. 12 (Daily Mirror) - In preparation for the upcoming T20I series against Afghanistan, the Sri Lanka Cricket Selection Committee has announced the 16-member squad.
-
-The announcement was made following the approval of the squad by the Minister of Sports and Youth Affairs, Harin Fernando.
-
-The T20I series is scheduled to take place at the Rangiri Dambulla International Cricket Stadium on February 17th, 19th, and 21st, with all matches set to commence at 19:00 local time.
-
-◼️
-
-[Data](articles/e0c5383f.json)
-
-[Extended Data](ext_articles/e0c5383f.ext.json)
-
----
-
-### Application is requested to enroll students to grade 6
-
-*2024-02-12 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176194) · `ta`
-
-According to the Grade 5 Scholarship Examination Grade 5 Scholarship Examination for 2023, the students who have won more points for the district cut -off score have been requested to enroll in Grade 6 in Grade 6 in Grade 6 in 2024.
-
-The Department of Examinations has announced that the applications that have been completed will be issued before Tuesday (13) before the 13th of December.
-
-Accordingly, the Ministry has asked the applicants to send applications directly to the official website of the Ministry of Education www.moe.gov.lk or http://g6Application.moe.gov.gov.gov.gov.gov.lk/#/.
-
-◼️
-
-[Data](articles/f4a6f1fd.json)
-
-[Extended Data](ext_articles/f4a6f1fd.ext.json)
-
----
-
-### Our Twenty Twenty Twenty Twenty group that comes against Afghanistan
-
-*2024-02-12 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193291) · `si`
-
-The Twenty20 pool of Sri Lanka is named for the T20ship T20 tournament against Afghanistan.
-
-The match will be held on the 21s 29th and 21st of the Dambulla cricket stadium.
-
-Damadantha Chameera was selected for the squad, but due to the condition of the ODI, he had been called to the squad.
-
-◼️
-
-[Data](articles/219d5280.json)
-
-[Extended Data](ext_articles/219d5280.ext.json)
-
----
-
-### Launch of UPI services in Sri Lanka, Mauritius symbol of Global South cooperation - Modi
-
-*2024-02-12 15:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97201/launch-of-upi-services-in-sri-lanka-mauritius-symbol-of-global-south-cooperation-modi) · `en`
-
-Indian Prime Minister Narendra Modi said on Monday that the launch of India’s UPI services in island countries Sri Lanka and Mauritius is a symbol of India’s cooperation with the Global South.
-
-Addressing the launching ceremony virtually, PM Modi said he was confident that Indian tourists would prioritise these destinations with the availability of Unified Payments Interface (UPI).
-
-“The Indian diaspora in Sri Lanka and Mauritius will benefit from this initiative. This will reduce the dependence on hard currency. The use of UPI and Rupay card facilities will enable payments in our own currency at a cheaper rate,” PM Modi said.
-
-“This launch is a symbol of Global South cooperation. Our relations are historic. Over the past 10 years, we have shown how India stands firm with its neighbour in challenging times,” Modi added.
-
-...
-
-[Data](articles/b10166e4.json)
-
-[Extended Data](ext_articles/b10166e4.ext.json)
 
 ---

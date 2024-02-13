@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 13:02:20**
+As of **2024-02-13 13:17:11**
 
 ## Newspaper Stats
 
-*Scraped **6,688** Articles*
+*Scraped **6,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,63 +18,181 @@ newsfirstlk | 363
 adalk | 568
 adaderanalk | 811
 tamilmirrorlk | 824
-virakesarilk | 841
-adaderanasinhalalk | 933
-dailymirrorlk | 974
+virakesarilk | 844
+adaderanasinhalalk | 934
+dailymirrorlk | 978
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,678 (99.9%) of 6,688 articles have been extended.
+6,688 (99.9%) of 6,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
-### මැතිවරණ ගැන රජයෙන් විශේෂ නිවේදනයක්
+### Presidential Election on schedule, General Election set for next year: PMD
+
+*2024-02-13 12:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidential-Election-on-schedule-General-Election-set-for-next-year-PMD/108-276921) · `en`
+
+Colombo, Feb 13 (Daily Mirror) - The President's Media Division (PMD) confirmed that the Presidential Election will be held within the mandated period and will adhere to the current timeline.
+
+According to the PMD, the General Election is will be held next year with financial provisions to be provided for in the 2025 budget.
+
+The Election Commission is responsible for conducting the elections and the Government will communicate with the Commission as and when required, the PMD further said.
+
+◼️
+
+[Data](articles/e5b02654.json)
+
+---
+
+### මෝටර් රථයක් ගිනිගෙන විනාශ වෙයි
+
+*2024-02-13 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193324) · `si`
+
+වාද්දුව, පොතුපිටිය ගාලු පාර අයිනේ ගාල්කර තිබූ මෝටර් රථයක් සම්පූර්ණයෙන් ම ගිනිගෙන විනාශ වූ බව වාද්දුව පොලීසිය පවසයි.
+
+කළුතර නගර සභාවේ ගිනිනිවන ඒකකයේ භටයින් සිව්දෙනෙකු පැමිණ ගින්න පාලනය කර තිබුණි.
+
+වාහනයේ කාර්මික දෝෂයක් හේතුවෙන් එම ගින්න ඇති වන්නට ඇතැයි සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/a8743bcc.json)
+
+---
+
+### Government approves housing programme for Sri Lankan overseas employees
+
+*2024-02-13 12:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-approves-housing-programme-for-Sri-Lankan-overseas-employees/108-276920) · `en`
+
+Colombo, Feb 13 (Daily Mirror) - Cabinet approval was granted today to implement a housing programme for overseas employees.
+
+The programme has been implemented by the Sri Lanka Bureau of Foreign Employment (SLBFE) in collaboration with the National Housing Development Authority (NHDA) and licensed banks.
+
+A maximum of Rs. 10 million is reportedly to be granted as a loan and a portion of this loan interest to be paid to the SLBFE.
+
+The loan amount obtained under the proposed scheme should be paid by foreign exchange remitted through legitimate channels within the period that the receiver of the loan is engaged in overseas employment, and payments to be made in Sri Lankan rupees once the foreign employment is completed and the borrower returns to this country.
+
+Accordingly, the Cabinet has approved the proposal by the Labour and Foreign Employment Minister to implement the proposed housing programme.
+
+◼️
+
+[Data](articles/41e7cadd.json)
+
+---
+
+### நிறுத்தி வைக்கப்பட்டிருந்த கார் தீப்பிடித்து முற்றாக எரிந்தது!
+
+*2024-02-13 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176269) · `ta`
+
+வாதுவை, பொத்துப்பிட்டிய காலி வீதி பகுதியில் நிறுத்தி வைக்கப்பட்டிருந்த கார் ஒன்று  தீப்பிடித்து முற்றாக எரிந்துள்ளதாக வாதுவை பொலிஸார் தெரிவித்தனர்.
+
+களுத்துறை மாநகர சபையின் தீயணைப்பு பிரிவைச் சேர்ந்த  தீயணைப்பு வீர்ரகள் தீயைக் கட்டுப்பாட்டுக்குள் கொண்டு வந்தனர்.
+
+◼️
+
+[Data](articles/96e13d80.json)
+
+---
+
+### Government a special announcement of elections
 
 *2024-02-13 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193323) · `si`
 
-ජනාධිපතිවරණය සහ මහ මැතිවරණය පැවැත්වීම සම්බන්ධයෙන් ජනාධිපති මාධ්‍ය අංශය නිවේදනයක් නිකුත් කර තිබේ.
+The Presidential Media Division has issued a statement regarding the presidential and general election.
 
-එහි දැක්වෙන්නේ, ජනාධිපතිවරණය එය පැවැත්වීමට නියමිත කාලවකවාණුවේ දී පැවැත්වෙන බවත්, මහ මැතිවරණය සඳහා අරමුදල් 2025 අයවැය මඟින් වෙන්කරන බවත්ය.
+The presidential election is held at the time of the time of the election and that the average elections will be allocated by the 2025 Budget.
 
-මැතිවරණ පැවැත්වීමේ වගකීම මැතිවරණ කොමිසම සතු කාර්යක් බවත්, එම නිවේදනයේ දැක්වේ.
+The announcement is the responsibility of holding elections.
 
 ◼️
 
 [Data](articles/a5867452.json)
 
+[Extended Data](ext_articles/a5867452.ext.json)
+
 ---
 
-### யுக்தியவில் மேலும் பலர் கைது
+### And many more arrest in Yukthi
 
 *2024-02-13 12:29:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்தியவில்-மேலும்-பலர்-கைது/175-333130) · `ta`
 
-யுக்திய விசேட சுற்றிவளைப்பு நடவடிக்கையில், கடந்த 24 மணித்தியாலங்களில் நாடளாவிய ரீதியில் 680 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+In the last 24 hours, 680 suspects have been arrested in the country during the special roundup.
 
-போதைப்பொருள் குற்றங்களுடன் தொடர்புடைய 554 சந்தேக நபர்களும், குற்றப் பிரிவுக்கு குறிப்பிடப்பட்ட பட்டியலில் இருந்த 126 சந்தேக நபர்களும் இதில் உள்ளடங்குவதாக பொலிஸார் தெரிவித்தனர்.
+The police said that 554 suspects involved in drug crimes and 126 suspects from the list mentioned for the Criminal Investigation Department were included.
 
-அத்துடன், 168 கிராம் ஹெரோயின், 93 கிராம் ஐஸ், 925 கிராம் கஞ்சா மற்றும் 596 மாத்திரைகள் கைப்பற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+In addition, 168 grams of heroin, 93 grams of ice, 925 grams of cannabis and 596 tablets have been seized, police said.
 
 ◼️
 
 [Data](articles/a60b74fe.json)
 
+[Extended Data](ext_articles/a60b74fe.ext.json)
+
 ---
 
-### மனோஜ் கமகே இராஜினாமா
+### Government approves amendments to Online Security Act
+
+*2024-02-13 12:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-approves-amendments-to-Online-Security-Act/108-276919) · `en`
+
+Colombo, Feb 13 (Daily Mirror) - The government granted approval to the resolution furnished by the Public Security Minister to direct the Legal Draftsman to prepare a draft bill for amending the Online Security Act based on revisions recognized through further discussions.
+
+Having been passed in Parliament, the provisions of the Online Security Act are currently being implemented.
+
+Since the amendments submitted at the committee sessions in Parliament with regard to the said draft bill should be made in accordance with the decision of the Supreme Court, there had been no opportunity to introduce the proposed amendments furnished by professionals in the field.
+
+◼️
+
+[Data](articles/8e3e410f.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-02-13 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/176268) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (பெப்ரவரி 13) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 308.5844 ஆகவும் விற்பனை விலை ரூபா 318.4655 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/dd726540.json)
+
+---
+
+### நிறைவேற்று அதிகார ஜனாதிபதி முறை நீக்கம் - நிபந்தனைகளை விதிக்கின்றது பொதுஜனபெரமுன
+
+*2024-02-13 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176267) · `ta`
+
+பிரதமர்தலைமையிலான அரசியல் கட்சியொன்;று நாடாளுமன்றத்தில்  பெரும்பான்மையை பெறும் தேர்தல் முறைமை நாட்டில் அறிமுகப்படுத்தப்படும்வரை நிறைவேற்று அதிகாரஜனாதிபதி முறை நீக்கத்திற்கு ஆதரவளிக்கப்போவதில்லை என பொதுஜனபெரமுன தெரிவித்துள்ளது.
+
+தற்போதைய தேர்தல் முறையின் கீழ் நிறைவேற்று அதிகார ஜனாதிபதி முறையை நீக்குவதை எதிர்ப்பதாக  ஸ்ரீலங்கா பொதுஜனபெரமுனவின் பொதுச்செயலாளர் சாகரகாரியவசம் தெரிவித்துள்ளார்.
+
+நிறைவேற்று அதிகாரஜனாதிபதி முறையை நீக்கிய பின்னர் தற்போதைய தேர்தல் முறைமையின் கீழ் நாடாளுமன்ற தேர்தலை நடத்தினால் எந்க கட்சியாலும் தெளிவான நாடாளுமன்ற பெரும்பான்மையை பெறமுடியாது என அவர் தெரிவித்துள்ளார்.
+
+அதன் பின்னர் நாட்டின் தலைவரான பிரதமர் பல அரசியல் கட்சிகளின் ஆதரவை கோரி ஆட்சியமைக்கவேண்டும் என தெரிவித்துள்ள சாகரகாரியவசம் அவ்வாறான அரசாங்கம் தனக்குஆதரவளிக்கும் கட்சிகளின் விருப்பத்தின் அடிப்படையிலேயே ஆட்சிசெய்யவேண்டும் எனவும் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/9b4fc999.json)
+
+---
+
+### Manoj Kamage resigns
 
 *2024-02-13 12:25:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோஜ்-கமகே-இராஜினாமா/175-333128) · `ta`
 
-தேசிய ஒளடதங்கள் ஒழுங்குபடுத்தல் அதிகாரசபையின் பணிப்பாளர் சட்டத்தரணி மனோஜ் கமகே, அந்தப் பதவியிலிருந்து இராஜினாமா செய்துள்ளார்.
+Attorney -at -Law Manoj Kamage, Director of the National Lights Regulatory Authority, has resigned from the post.
 
-அவர் தனது  இராஜினாமா கடிதத்தை சுகாதார அமைச்சர் ரமேஷ் பத்திரனவுக்கு அனுப்பி வைத்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+It is reported that he has sent his resignation letter to Health Minister Ramesh Pathrana.
 
 ◼️
 
 [Data](articles/fee6a97d.json)
+
+[Extended Data](ext_articles/fee6a97d.ext.json)
 
 ---
 
@@ -94,15 +212,17 @@ The other suspect in connection with the attack, Sarathi, was arrested that day 
 
 ---
 
-### பாடசாலை பாடத்திட்டத்தில் செயற்கை நுண்ணறிவு
+### Artificial intelligence in the school curriculum
 
 *2024-02-13 12:13:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-பாடத்திட்டத்தில்-செயற்கை-நுண்ணறிவு/175-333127) · `ta`
 
-02.10.2023 அன்று நடைபெற்ற அமைச்சரவைக் கூட்டத்தில் இது தொடர்பில் விவாதிக்கப்பட்டுள்ளதுடன், இது தொடர்பான பாடத்திட்டங்கள் எதிர்காலத்தில் அறிமுகப்படுத்தப்பட உள்ளதாக தகவல் வெளியாகி உள்ளது.
+It has been discussed at the Cabinet meeting held on 02.10.2023 and it is reported that the curriculum will be introduced in the future.
 
 ◼️
 
 [Data](articles/af642c6b.json)
+
+[Extended Data](ext_articles/af642c6b.ext.json)
 
 ---
 
@@ -149,6 +269,20 @@ The deceased had reported that the deceased had gone out of his house and had no
 [Data](articles/eba6bc0e.json)
 
 [Extended Data](ext_articles/eba6bc0e.ext.json)
+
+---
+
+### Manoj Gamage resigns from NMRA Board of Directors
+
+*2024-02-13 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Manoj-Gamage-resigns-from-NMRA-Board-of-Directors/108-276917) · `en`
+
+Colombo, Feb 13 (Daily Mirror) - Attorney-at-Law Manoj Gamage has tendered his resignation as a Member of the Board of Directors of the National Medicines Regulatory Authority (NMRA), effective immediately.
+
+In his resignation letter addressed to Minister of Health Dr. Ramesh Pathirana, Gamage formally conveyed his decision to step down from his position within the NMRA.
+
+◼️
+
+[Data](articles/f06de133.json)
 
 ---
 
@@ -220,33 +354,37 @@ Kelly also stated in the book that Trump thought North Korea had been isolated b
 
 ---
 
-### සෞඛ්‍ය වර්ජනයෙන් ඇමතිගේ ‌රෝහල් නිරීෂණචාරිකාව නවතියි
+### Minister's hospital inspection stops
 
 *2024-02-13 11:44:27* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-වර්ජනයෙන්-ඇමතිගේ-‌රෝහල්-නිරීෂණචාරිකාව-නවතියි/11-408053) · `si`
 
-හෙද පරිපූරක , අතුරු වෙද්‍ය සේවා හා ‌සෞඛ්‍යය කාර්්‍ය මණ්ඩල ඒකාබද්ද වෘතීය සමති 72ක් අද (13) උදෑසන සිට ‌සිය සේවාවලින්  ඉවත්වී ඉල්ලීම් ලැබෙනතෙක් අඛණඩ වර්ජණයක් ආරම්භ කර තිබෙනවා. මේ හේතුවෙන්ර  සැලසුම් කල පරිදි සෞඛ්‍ය අමාත්‍යවරයාගේ ගම්පහ දිස්ත්‍රික් රෝහල් නිරීක්ෂණ චාරිකාව අවලංගු කොට තිබේ. ඒ් වෙනුවට වර්ජනයේ නියුතු සෞඛ්‍ය වෘතීය සමිති ප්‍රධානීන් සමග ‌පෙරවරු 10.00 සිට සඛච්ාවක් ආරඹභ කොට ඇතිබ ‌අමාත්‍යංශ නිලධාරීන් -,අද, - කල විමසීමකදී කියා සිටියා.
+Nursing Supplication, Interim Medicine Services and Health Office Organized 72 Indigenous Virms have been resigned from their services and commenced a strike. As planned, the Minister of Health has been canceled by the Minister of Health.. Instead, the ministry officials have claimed with the heads of strike, with the heads of the strike.
 
 ◼️
 
 [Data](articles/3a944a49.json)
 
+[Extended Data](ext_articles/3a944a49.ext.json)
+
 ---
 
-### නිවාඩු දවස්වල බැංකුවල ඒ ටී එම් කාඩ්වලින් මුදල් වංචාකරන කල්ලියක්
+### Banks on holidays cheating money from TTM cards
 
 *2024-02-13 11:38:31* · [`adalk`](https://www.ada.lk/breaking_news/නිවාඩු-දවස්වල-බැංකුවල-ඒ-ටී-එම්-කාඩ්වලින්-මුදල්-වංචාකරන-කල්ලියක්/11-408052) · `si`
 
-මාතලේ දිස්ත්‍රික්කයේ ක්‍රියාත්මක පෞද්ගලික හා රාජ්‍ය බැංකු අසල ගැවසෙමින් ඒ ටි එම් යන්ත්‍ර මගින් මුදල් ලබා ගැනීමට සහාය පලකරන කල්ලියක් ඉතා ශුක්ෂමව අන්සතු ගිණුම් වලින් මුදල් පැහැර ගන්නා බව ගණුදෙනු කරුවෝ කියා සිටිති.
+The transactions say that a group of sharing money from the private and state banks in the Matale District to obtain money from the Machine.
 
-සමාජයේ වෙසෙන ඇතැම් වයෝවෘද්ධ කාන්තාවන්,කුඩා දරුවන් මෙන්ම ඇතැම් වැඩිහිටි පිරිස් ද මෙම කල්ලියට හසුවි මුදල් අහිමි කර ගෙන ඇති බවට තොරතුරු අනාවරණය වෙයි.
+It is also revealed that some enabling women, children, and some older people have lost their money to the gang.
 
-තමන්ට වාසි සහගත පුද්ගලයින් යැයි අනුමාන කරගන්නා පිරිස් පසුපස යමින් බැංකු අසල ඒ ටී එම් යන්ත්‍ර අසලට පැමිණ මුදල් ලබා ගැනීමට උපකාර කරන මුවාවෙන් මෙම වංචාව සිදුවන බව සිද්දියට මුහුණ දුන් පිරිස් කියා සිටියි.
+The fraud is said to have taken place in the guise of the banks near the banks near the banks near the banks near the banks, following those who are guessing to be advantified.
 
-විශේෂයෙන් මාතලේ දිස්ත්‍රික්කයේ ප්‍රධාන සහ උප නගර සියල්ලේම සති අග නිවාඩු දිනයන් ඉලක්ක කර සිදුවන මෙම මුදල් වංචාව සම්බන්ධයෙන් ගණුදෙනු කරුවන් දැනුවත් විය යුතු බවත් සිය රහස්‍ය අංකය කිසි විටෙකත් වෙනත් පුද්ගලයෙකුට නොදෙන ලෙසත් මේ සම්බන්ධයෙන් කල විමසීම් වල දි මාතලේ ප්‍රධාන පෙළේ රාජ්‍ය හා පෞද්ගලික බැංකු පාලකයින් කියා සිටියේය.
+The main and private banking controllers have said that the mainstream holidays targeted on the weekly holidays, especially in the Matale district, is to be aware of this confidential number..
 
 ◼️
 
 [Data](articles/10298119.json)
+
+[Extended Data](ext_articles/10298119.ext.json)
 
 ---
 
@@ -290,17 +428,19 @@ There are also 186 suspects in the list on the list of the criminal sections and
 
 ---
 
-### පෙබරවාරියේ මුල් දින 8ට සංචාරකයන් 60000ක් ඇවිත්
+### 60000 tourists arrived at the first 8 days of February
 
 *2024-02-13 11:27:47* · [`adalk`](https://www.ada.lk/breaking_news/පෙබරවාරියේ-මුල්-දින-8ට-සංචාරකයන්-60000ක්-ඇවිත්/11-408051) · `si`
 
-2024 පෙබරවාරි මාසයේ මුල් දින 08 තුළ මෙරටට පැමිණ ඇති සංචාරකයින් සංඛ්‍යාව 60,122 ක් බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය නිකුත් කළ දත්ත වල දැක්වෙයි.
+The Sri Lanka Tourism Development Authority (SLTB) is 60,122 tourists to arrive in the first eight days of February 2024.
 
-ඒ අනුව මේ වසරේ පෙබරවාරි 8 දා තෙක් පැමිණ ඇති සමස්ත සංචාරකයන් සංඛ්‍යාව 268 375ක් බව එම අධිකාරිය වැඩිදුරටත් පවසයි. පෙබරවාරි මාසයේ දෛනික සංචාරක පැමිණීම 6500 සීමාව ඉක්මවා ගොස් තිබේ.
+Accordingly, the total number of tourists arrived on February 8 this year, the Authority added that 2685. Daily tourist arrivals in February have exceeded the 6500.
 
 ◼️
 
 [Data](articles/1c627b23.json)
+
+[Extended Data](ext_articles/1c627b23.ext.json)
 
 ---
 
@@ -368,23 +508,25 @@ Below is the full article by the Health Minister.
 
 ---
 
-### சடலம் சிக்கியதால் ரயில்கள் தாமதம்
+### Trains delayed because the corpse was caught
 
 *2024-02-13 11:06:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சடலம்-சிக்கியதால்-ரயில்கள்-தாமதம்/175-333124) · `ta`
 
-ரயிலில் மோதுண்ட நபரின் சடலம், இரண்டு தடங்களுக்கு இடையில் சிக்கியதால், கரையோர ரயில் சேவைகள் சில மணிநேரம் தாமதமடைந்தன என ரயில்வே கட்டுப்பாட்டறை அறிவித்துள்ளது.
+The railway control department has announced that coastal train services have been delayed for a few hours as the body of the person who crashed into the train was trapped between two tracks.
 
-மகொன பிரதேசத்திலேயே ரயிலுடன் நபரொருவர் மோதியுள்ளார். அவருடைய சடலம் இதுவரையிலும் அடையாளம் காணப்படவில்லை என கட்டுப்பாட்டறை அறிவித்துள்ளது.
+A person collides with a train in Magona area. The control department has announced that his body has not yet been identified.
 
-இதனால், ருகுணு குமார் மற்றும் காலி குமாரி விரைவு ரயில்கள் முறையே 35 மற்றும் 30 நிமிடங்கள் தாமதமாகின என களுத்துறை ரயில்நிலைய அதிகாரிகள் தெரிவித்தனர்.
+As a result, Rukunu Kumar and Galle Kumari fast trains were delayed by 35 and 30 minutes respectively, officials at the Kalutara Railway Station said.
 
-காலியில் இருந்து கல்கிஸை வரைக்கும் பயணித்த 8319 என்ற இலக்கத்தைக் கொண்ட மெதுவாக பயணிக்கும் ரயிலிலேயே மோதுண்டுள்ளார் என தகவல்கள் தெரிவிக்கின்றன.
+According to reports, he crashed into a slow -traveling train from Galle to Kalkis.
 
-சிரமங்களுக்கு மத்தியில் மீட்கப்பட்ட சடலம், பயாகல ரயில் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளதுடன் மேலதிக விசாரணைகளை பயாகல பொலிஸார் ​மேற்கொண்டு வருகின்றனர்.
+The body, which was recovered amid difficulties, has been handed over to the Bayagala railway station and further investigations are being carried out by the police.
 
 ◼️
 
 [Data](articles/1226e003.json)
+
+[Extended Data](ext_articles/1226e003.ext.json)
 
 ---
 
@@ -540,21 +682,23 @@ In April last year, the Paddy Marketing Board did not pay Rs 664 crore to the tr
 
 ---
 
-### பிணவல் மோகத்தால் நாய் எரித்துக்கொலை
+### Dog burns
 
 *2024-02-13 10:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிணவல்-மோகத்தால்-நாய்-எரித்துக்கொலை/175-333118) · `ta`
 
-உயர் ரக பெட்டை (பிணவல்) நாயுடன், உறவுக்கொள்வதற்காக வந்துதிரியும் சாதாரண நாயொன்றை எரித்துக்கொன்றார் என சந்தேகிக்கப்படும், 65 வயதான நபரொருவர் கைது செய்யப்பட்டுள்ளார் என யக்கல பொலிஸார் தெரிவித்தனர்.
+A 65 -year -old man has been arrested for allegedly burning an ordinary dog with a high -end bed, Yakkala police said.
 
-கம்பஹா, மேல் யாகொட பிரதேசத்தில் வீடொன்றில் வளர்க்கப்பட்ட நாயையே மேற்படி நபர்,  தீ வைத்து எரித்துக்கொன்றார் என குற்றஞ்சாட்டப்பட்டுள்ளது.
+It is alleged that the man was burnt to set fire to a dog who was raised in a house in the upper Yagoda area of Gampaha.
 
-எரித்துக் கொல்லப்பட்ட நாயின் உரிமையாளர் செய்த முறைப்பாட்டின் அடிப்படையில் குறித்த நபர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The man has been arrested on the basis of a complaint made by the owner of a burned dog, police said.
 
-பொலிஸாரின்  விசாரணையின் பிரகாரம்,  வீட்டில் வளர்க்கப்படும் உயர் இன நாயுடன், உறவுக் கொள்வதற்காக சாதாரண நாய் வந்துசெல்கின்றது. இதனால் கோபமடைந்தே, பெற்றோல் ஊற்றி, நாயை எரித்துக்கொண்டதாக கைது செய்யப்பட்டுள்ள நபர் தெரிவித்துள்ளார்.
+According to the police investigation, the normal dog arrives with a home -grown high race dog. The arrested person said that he was angry, pouring petrol and burning the dog.
 
 ◼️
 
 [Data](articles/25a0c5df.json)
+
+[Extended Data](ext_articles/25a0c5df.ext.json)
 
 ---
 
@@ -1658,6 +1802,8 @@ News of the missing  plane began spreading on Monday, which was also Valentine�
 
 [Data](articles/18352310.json)
 
+[Extended Data](ext_articles/18352310.ext.json)
+
 ---
 
 ### 200 crore allocation for Galle Karapitiya Teaching Hospital
@@ -1887,155 +2033,5 @@ President Wickremesinghe said in Parliament last week that “Sri Lanka expects 
 [Data](articles/83a2785a.json)
 
 [Extended Data](ext_articles/83a2785a.ext.json)
-
----
-
-### Sri Lanka leadership in pre and post-colonial era
-
-*2024-02-12 23:24:49* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-leadership-in-pre-and-post-colonial-era/4-758401) · `en`
-
-Following independence, Sri Lanka is still continuing as a fledgling state tasked with the tremendous burden of democracy – Pic by Shehan Gunasekara
-
-...
-
-[Data](articles/051f3f50.json)
-
-[Extended Data](ext_articles/051f3f50.ext.json)
-
----
-
-### Vote to establish democracy instead of same political cults at next election
-
-*2024-02-12 23:22:04* · [`dailyftlk`](https://www.ft.lk/columns/Vote-to-establish-democracy-instead-of-same-political-cults-at-next-election/4-758400) · `en`
-
-Growth of new generation of leaders from Generation X, Millennials, and Generation Z
-
-Much credit should be expressed to the youth that realised the suppression of the masses and spearheaded the Aragalaya movement and made a pivotal moment for transformational changes. Although the movement may not have rightfully idealised the necessary structural changes, it did spark the crucial awareness needed for initiating reforms away from the status quo. Unfortunately, this unique opportunity was selfishly squandered by the established political class that exploited a loophole left behind by their predecessors to seize power from under the table
-
-...
-
-[Data](articles/719e4e2b.json)
-
-[Extended Data](ext_articles/719e4e2b.ext.json)
-
----
-
-### Online Safety Act (OSA): a policy perspective at a public dialogue
-
-*2024-02-12 23:17:40* · [`dailyftlk`](https://www.ft.lk/columns/Online-Safety-Act-OSA-a-policy-perspective-at-a-public-dialogue/4-758399) · `en`
-
-There was evident cause for concern that other demographics in our isle could be subject to the potential
-
-At a recent public seminar on the Online Safety Act (OSA), a policy perspective under the title ‘OSA: Why The Rush?’ was presented by the academics and students of the Bandaranaike Academy for Leadership and Public Policy (BALPP) in tandem with cyber-security experts.
-
-The public policy initiative came in the aftermath of the government’s ostensible ‘rushing through’ with this controversial piece of legislation, in the teeth of ignored criticism and concerns expressed by stakeholders in Sri Lanka’s increasingly important cyber-security domain.
-
-BALPP students following a post-graduate course in cyber-security observed that the OSA is ostensibly to protect women and children from the following:
-
-...
-
-[Data](articles/9f7f2314.json)
-
-[Extended Data](ext_articles/9f7f2314.ext.json)
-
----
-
-### Warning for those who use the mobile phone!
-
-*2024-02-12 22:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176231) · `ta`
-
-The Sri Lanka Telecommunication Regulatory Commission has announced that everyone who uses mobile phones should register their SIM card properly.
-
-Director of the Sri Lanka Telecommunication Regulatory Commission, Menaka, told the media that this
-
-Please contact the company's agents of the SIM card to verify that the SIM card is registered in your name on handheld phones you are currently using.
-
-The Director of the Sri Lanka Telecommunications Regulatory Commission added that if you are issued SIM cards without you knowing under your National Identity Card number, it is very important to disconnect their connection.
-
-◼️
-
-[Data](articles/6340a3df.json)
-
-[Extended Data](ext_articles/6340a3df.ext.json)
-
----
-
-### Megoda firing;Action transfer to the authorities
-
-*2024-02-12 22:49:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீகொட-துப்பாக்கிச்-சூடு-அதிகாரிகளுக்கு-அதிரடி-இடமாற்றம்/175-333091) · `ta`
-
-Five officers, including the Commander -in -Chief, who were on duty at the police checkpoint near the Meegoda Economic Center, were immediately transferred to implementation, police said.
-
-Police have taken the decision on the investigation into the robbery that took place this morning at the Meegoda Economic Center. Remble
-
-◼️
-
-[Data](articles/b15a6707.json)
-
-[Extended Data](ext_articles/b15a6707.ext.json)
-
----
-
-### Story you don't know about the UPI of the country
-
-*2024-02-12 22:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193305) · `si`
-
-The UPI system, or UPI system, or the UPI system, was held today under the patronage of President Ranil Wickremesinghe and Indian Prime Minister Narendra Modi.
-
-Under this method, it is significant that the Rs.
-
-In July 2023, President Ranil Wickremesinghe's visit to India and Sri Lanka discussed discussions of digital economies between India and Sri Lanka.
-
-As a result, activation with Sri Lanka is now activated today.
-
-The UPI payment system already operates the Financial transactions already, the UAPL and France, Nepal and France.
-
-Indian Prime Minister Narendra Modi, Narendra Madh and Muruasi State Prime Minister Prweeland Jagnath joined the President to join the UPI Indian Payment Process.
-
-Accordingly, an Indian in Sri Lanka, which is officially in Sri Lanka in Sri Lanka, carried out the first transaction through his mobile phone.
-
-...
-
-[Data](articles/46fa4325.json)
-
-[Extended Data](ext_articles/46fa4325.ext.json)
-
----
-
-### Meegoda police post transfers 5 others
-
-*2024-02-12 22:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193304) · `si`
-
-The OIC of the OIC of the police post near the Meegoda Economic Center, five officers have been conducting further transfer.
-
-The decision has taken this decision regarding investigations into the incident in the Meegoda Economic Center this morning.
-
-◼️
-
-[Data](articles/214f28fd.json)
-
-[Extended Data](ext_articles/214f28fd.ext.json)
-
----
-
-### IMF chief ‘very confident’ on soft landing, sees rate cuts coming
-
-*2024-02-12 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97209/imf-chief-very-confident-on-soft-landing-sees-rate-cuts-coming) · `en`
-
-(Reuters) - The International Monetary Fund is now “very confident” the global economy will see a soft landing, its managing director Kristalina Georgieva said on Monday, adding that interest rates would start coming down around mid year.
-
-“We are very confident that the world economy is now poised for this soft landing we have been dreaming for,” after some of the sharpest interest rate hikes in decades, Georgieva said at the World Governments Summit in Dubai.
-
-On the prospect of interest rates being cut in leading economies like the United States, she added: “I expect to see by mid year interest rates going in the direction inflation has been going on for the last year.”
-
-She cautioned to expect the unexpected in the wake of the COVID-19 pandemic and said a prolonged war between Israel and Hamas would impact global economies.
-
-“I fear most a longevity of the conflict because (if) it goes on and on the risk of spillovers go up,” the IMF chief said.
-
-...
-
-[Data](articles/b2b74f56.json)
-
-[Extended Data](ext_articles/b2b74f56.ext.json)
 
 ---

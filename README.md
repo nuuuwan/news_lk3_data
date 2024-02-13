@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 10:17:39**
+As of **2024-02-13 10:32:56**
 
 ## Newspaper Stats
 
-*Scraped **6,643** Articles*
+*Scraped **6,646** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ economynextcom | 339
 islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
-adalk | 559
+adalk | 561
 adaderanalk | 806
 tamilmirrorlk | 814
 virakesarilk | 829
-adaderanasinhalalk | 927
+adaderanasinhalalk | 928
 dailymirrorlk | 972
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,643 (100.0%) of 6,643 articles have been extended.
+6,646 (100.0%) of 6,646 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,36 @@ Meanwhile, the Secretary of the All Ceylon Nurses Association, SP Medivatta said
 [Data](articles/7405ddc9.json)
 
 [Extended Data](ext_articles/7405ddc9.ext.json)
+
+---
+
+### The businessman is submerged by the businessman
+
+*2024-02-13 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193317) · `si`
+
+Gampola Emergency Inspector Nalinayake, Gampola has died in Korea for many years and falls back to Korea.. It was revealed at a middle-aged death investigation.
+
+The deceased has been identified as a business youth, a resident of Balawala Balawala Palagala Pathara, a 30 year old.
+
+He is a marriage person from Korea to Sri Lanka last year.
+
+After the arrival of the country, he has also bought a number of trees to cut down trees.
+
+The autopsy was revealed that he had started the trees, which have worked as the Korea and had commenced the trees.
+
+The 10th of this month has bought several trees with two other trees in Gampola.
+
+Seventy-seven times, the ropes were placed on a tall tree, and the crowd was raw in one direction, and the victim had run to the tree.
+
+The trunk of the tree had fallen into his head, while he had a head left for another.
+
+The injured was taken to the Gampola hospital, hospital sources said that he had already died.
+
+...
+
+[Data](articles/99ac5f32.json)
+
+[Extended Data](ext_articles/99ac5f32.ext.json)
 
 ---
 
@@ -1560,6 +1590,50 @@ The President stated that in the throne speech in the throne speech, the economi
 
 ---
 
+### An generation that believes as a thief is born
+
+*2024-02-12 20:40:55* · [`adalk`](https://www.ada.lk/breaking_news/මහා-පරිමාණ-සංවර්ධන-ව්‍යාපෘතියක්-ආරම්භ-කරන-කවුරු-වුණත්-හොරෙක්-යැයි-විශ්වාස-කරන-පරම්පරාවක්-බිහිවෙලා/11-408045) · `si`
+
+The Leader of former President Mahinda Rajapaksa has said that a new political culture should have a new political culture with the 120 MW Hydro Power Plant in the Uma Oya project has to be implemented since this month.
+
+He said the Uma Oya Project will be one of the largest hydroelectric power plants in the country after Victoria and Upper Kotmale hydro power plants.
+
+Accordingly, Mr. Rajapaksa says:
+
+Meeting in the discussion and planning of decades, many infrastructure projects that have not been able to make the presidency, the members of my government to glue this success when they began to build the presidency.Increasing expenditure estimates, thereby led to a propaganda that it was misleading money.
+
+Although the evidence of such financial misconduations had never been presented before the public, none of these propaganda has created a whole generation believed to be a thief.
+
+...
+
+[Data](articles/7149202e.json)
+
+[Extended Data](ext_articles/7149202e.ext.json)
+
+---
+
+### Seed mafia also causes vegetable prices
+
+*2024-02-12 20:34:48* · [`adalk`](https://www.ada.lk/breaking_news/එළවළු-මිල-ඉහළ-යාමට-බීජ-මාෆියාවත්-හේතුවක්/11-408044) · `si`
+
+Environmental Thilak Kandagama said that the weather and climate, which is the main reason for the rapid increase in the prices of vegetables, said that there is no weather and climate.
+
+He said that if the local seeds that were deemed to be used as large as the bigery prices, which are increasingly increasing the prices of seed mafia, so highly increased vegetables.
+
+He was speaking at a press conference at the Natabo Dhamma Farm in the Elahera, as the government had not submitted the rise to the rise.
+
+Thilak Kudagali pointed out that there is a risk of the residence of these seed mafia and that he is threatened with the continuous exposure of the seed and their lives.The people who are aware of the seed mafia acknowledge the murder of a hero.
+
+He said that the weather, climate, or rain had to increase the prices of carrot, and that the underlying was attempting to import a carrot abroad.The farmer's resignation will take place on the day.
+
+...
+
+[Data](articles/bc5111c3.json)
+
+[Extended Data](ext_articles/bc5111c3.ext.json)
+
+---
+
 ### 12 students targeting wasps
 
 *2024-02-12 20:25:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குளவி-கொட்டுக்கு-இலக்கான-12-மாணவர்கள்/76-333089) · `ta`
@@ -2009,55 +2083,5 @@ The recent visit of a delegation from the National People’s Power (NPP), led b
 [Data](articles/266310fd.json)
 
 [Extended Data](ext_articles/266310fd.ext.json)
-
----
-
-### Dudley Senanayake (1911-1973): The gentle knight of Ceylon politics
-
-*2024-02-12 19:03:00* · [`islandlk`](http://island.lk/dudley-senanayake-1911-1973-the-gentle-knight-of-ceylon-politics/) · `en`
-
-“He was a verray parfit gentil knight”, in the words of the fourteenth century English poet Geoffrey Chaucer. Dudley Senananyake was a Minister at the age of 36 and four times Prime Minister. He won the respect and affection of millions, many of whom had never seen him, or know him only from his picture in a public print or a displayed poster.
-
-Although he was a wise statesman and an experienced politician, there is something else which comes uppermost to the minds of those who pause to recall his public career of 38 years. I was working in my small garden after I had heard the news of his death. An elderly woman was plucking some jasmine flowers from a creeper in the fence. She too had heard the news and turning to me, said: “Such is our existence on this earth. Even the Lord Buddha had to die.”
-
-...
-
-[Data](articles/42105577.json)
-
-[Extended Data](ext_articles/42105577.ext.json)
-
----
-
-### Anura Kumara Dissanayake in India
-
-*2024-02-12 19:02:00* · [`islandlk`](http://island.lk/anura-kumara-dissanayake-in-india/) · `en`
-
-Anura Kumara Dissanayake’s recent visit to India, on an invitation extended by the Indian government, underlies a tectonic shift in Sri Lankan politics, a sign of things to come. It hints at what may happen at upcoming elections. More than anything, it shows that India is taking the JVP-NPP seriously. We should be, too.
-
-The responses to the visit by other parties have, so far, been lukewarm. The UNP’s Vajira Abeywardena, for instance, welcomed the move, and stated that his party hoped the JVP-NPP would contribute towards national policies which would “revive the nation”, adding that he looked forward to seeing the party work with the UNP, just as it had worked before with Chandrika Kumaratunga and Mahinda Rajapaksa.
-
-...
-
-[Data](articles/2880949c.json)
-
-[Extended Data](ext_articles/2880949c.ext.json)
-
----
-
-### Colombo-bound SriLankan flight delayed after taking off in Melbourne over technical fault
-
-*2024-02-12 19:02:00* · [`economynextcom`](https://economynext.com/colombo-bound-srilankan-flight-delayed-after-taking-off-in-melbourne-over-technical-fault-150671/) · `en`
-
-ECONOMYNEXT – A Colombo-bound state-run SriLankan was forced to return to Melbourne Airport after taking over due to a technical fault and the flight is delayed as it is being assessed by engineers for technical support, SriLankan Airlines said in a statement on Monday.
-
-Loss-making SriLankan Airlines is in the process of restructuring with the government has decided to sell its majority stake to the best bidder. The Airline, which once was profitable under Dubai-based Emirates management has witnessed a raft of technical issues in Colombo as well as foreign airports recently.
-
-“SriLankan Airlines confirms that flight UL 605 from Melbourne to Colombo made a safe return back to the Melbourne Airport shortly after taking off at 18:16hrs (Melbourne time) today due to a technical issue,” the Airtline said in a statement.
-
-...
-
-[Data](articles/7d3d2d3c.json)
-
-[Extended Data](ext_articles/7d3d2d3c.ext.json)
 
 ---

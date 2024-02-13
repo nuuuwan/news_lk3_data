@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 09:33:00**
+As of **2024-02-13 09:51:28**
 
 ## Newspaper Stats
 
-*Scraped **6,635** Articles*
+*Scraped **6,637** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ dailyftlk | 359
 newsfirstlk | 363
 adalk | 559
 adaderanalk | 806
-tamilmirrorlk | 812
+tamilmirrorlk | 813
 virakesarilk | 829
-adaderanasinhalalk | 926
+adaderanasinhalalk | 927
 dailymirrorlk | 968
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,635 (100.0%) of 6,635 articles have been extended.
+6,635 (100.0%) of 6,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### බස් - ලොරි අනතුරින් 6කට තුවාලයි
+
+*2024-02-13 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193316) · `si`
+
+කිලිනොච්චිය, කොකාවිල් ප්‍රදේශයේදී ශ්‍රී ලංකා ගමනාගමන මණ්ඩලයේ බස් රථයක් හා යුද හමුදා සාමාජිකයින් පිරිසක් රැගෙන ගිය ලොරි රථයක් එකිනෙක ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+
+අනතුරින් පුද්ගලයින් 6දෙනෙකු තුවාල ලබා ඇති බව මාන්කුලම පොලීසිය පවසයි.
+
+පොලීසිය පැවසූවේ මුලතිව්, තුනුක්කායි ප්‍රදේශයේ සිට යාපනය, කරෙයිනගර් දක්වා ගමන්ගත් ශ්‍රී ලංකා ගමනාගමන මණ්ඩලයට අයත් බස් රථයක් හා මාන්කුලම දෙස සිට කිලිනොච්චිය දෙසට ගමන්ගත් යුද හමුදා සාමාජිකයින් රැගෙන ගිය ලොරි රථයක් එකිනෙක ගැටීමෙන් අනතුර සිදුව ඇති බවය.
+
+අනතුරින් ලොරි රථය පෙරළී ගොස් තිබු අතර, එහි ගමන්ගත් යුද හමුදා සාමාජිකයින් සිව්දෙනෙකු තුවාල ලබා ඇති අතර, බස් රථයේ රියදුරු හා බස් රථයේ ගමන්ගත් කාන්තාවක්ද තුවාල ලබා කිලිනොච්චිය රෝහලට ඇතුළත් කොට තිබිණි.
+
+තුවාලකරුවන්ගේ තත්ත්වය බරපතළ නොවන බව රෝහල් ආරංචි මාර්ග පැවසු අතර, අනතුර සම්බන්ධයෙන් බස් රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පැවසීය.
+
+වේගය පාලනය කර ගැනීමට නොහැකිව අනතුර සිදුව ඇති අතර, සිද්ධිය සම්බන්ධයෙන් මාන්කුලම පොලීසිය වැඩිදුර පරික්ෂණ මෙහෙයවයි.
+
+◼️
+
+[Data](articles/3f91b68b.json)
+
+---
+
+### மாணவியின் தவறான முடிவால் தவிக்கும் குடும்பம்
+
+*2024-02-13 09:03:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மாணவியின்-தவறான-முடிவால்-தவிக்கும்-குடும்பம்/72-333115) · `ta`
+
+முல்லைத்தீவு - புதுக்குடியிருப்பு பிரதேசத்தில் பாடசாலை மாணவி ஒருவர் தவறான முடிவினை எடுத்ததினால் உயிரிழந்த நிலையில், சடலம் புதுக்குடியிருப்பு ஆதார வைத்தியசாலையில்  வைக்கப்பட்டுள்ளது.
+
+புதுக்குடியிருப்பு - இரணைப்பாலை பகுதியில் வசிக்கும் 18 வயதுடைய மாணவியான நிதர்சினி என்பவரே இவ்வாறு தவறான முடிவினை எடுத்துள்ளார்.
+
+வீட்டில் பெற்றோர்கள், உறவினர்கள் இல்லாத நிலையில் குறித்த மாணவி தனது அறைக்குள் தூக்கில் தொங்கிய நிலையில் காணப்பட்டுள்ளார்.
+
+இதைத் தொடர்ந்து பிரதேசவாசிகள், அயலவர்கள் இணைந்து குறித்த மாணவியினை மீட்டு புதுக்குடியிருப்பு ஆதார வைத்தியசாலைக்கு கொண்டுசெல்லப்பட்டபோதும், அவர் உயிரிழந்து விட்டதாக வைத்திய அதிகாரி தெரிவித்துள்ளார்.
+
+இவரது சடலம் புதுக்குடியிருப்பு மருத்துவமனையில் வைக்கப்பட்டுள்ளதுடன் இந்த உயிரிழப்பு தொடர்பில் புதுக்குடியிருப்பு பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டுவருகின்றார்கள். R
+
+◼️
+
+[Data](articles/82698b43.json)
+
+---
 
 ### Sudden change in climate
 
@@ -2001,47 +2043,5 @@ Topping the list, Indian tourists of over 300,000 accounted for a fifth of the t
 [Data](articles/e4d22e33.json)
 
 [Extended Data](ext_articles/e4d22e33.ext.json)
-
----
-
-### President's action to cancel president - former President Maithri
-
-*2024-02-12 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176224) · `ta`
-
-Steps are being taken to amend the Constitution and take over the presidency. President Ranil Wickremesinghe has formed a committee headed by Karujayasuriya for this, said Maithripala Sirisena, the leader of the Sri Lanka Freedom Party and former President.
-
-He said the government had announced that the government was taking steps to leave the presidential election as the presidential election would be held later this year.
-
-The president and state governments have said that the presidential election in the country will be held in October this year.There are currently discussions between the parties on the presidential election. Similarly, the parties are being talked about between the parties in the presidential election.
-
-However, President Ranil Wickremesinghe has appointed a panel of lawyers headed by former Speaker Karujaya to cancel the presidency, and is now fast to do so.This is currently being talked about in the country.
-
-...
-
-[Data](articles/be23663b.json)
-
-[Extended Data](ext_articles/be23663b.ext.json)
-
----
-
-### Two new members appointed to Central Bank governing board
-
-*2024-02-12 18:30:00* · [`economynextcom`](https://economynext.com/two-new-members-appointed-to-central-bank-governing-board-150658/) · `en`
-
-ECONOMYNEXT – The Central Bank of Sri Lanka has appointed two new members to its governing board, which is responsible for the administration and management of the CBSL and determination of general policies.
-
-The GB comprises Governor Dr P Nandalal Weerasinghe, A N Fonseka, Dr Ravi Ratnayake, Anushka S Wijesinha and Vish Govindasamy.
-
-“We hereby announce the appointments of Mr. Rajeev Amarasuriya and Mr. Manil Jayesinghe to the GB,” the Central Bank said in a statement.
-
-The profiles of the newly appointed members, as per the statement, are as follows:
-
-Mr. Rajeev Amarasuriya is the Immediate Past Secretary of the Bar Association of Sri Lanka and has an extensive Appellate Court practice in the areas of Public Law and most branches of Civil Litigation including contractual, commercial, property, taxation, banking and other disciplines of the law.
-
-...
-
-[Data](articles/51f269f3.json)
-
-[Extended Data](ext_articles/51f269f3.ext.json)
 
 ---

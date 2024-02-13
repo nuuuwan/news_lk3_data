@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 13:51:56**
+As of **2024-02-13 14:02:47**
 
 ## Newspaper Stats
 
-*Scraped **6,703** Articles*
+*Scraped **6,707** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,106 @@ adalk | 568
 adaderanalk | 816
 tamilmirrorlk | 825
 virakesarilk | 845
-adaderanasinhalalk | 934
+adaderanasinhalalk | 938
 dailymirrorlk | 978
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,703 (100.0%) of 6,703 articles have been extended.
+6,707 (100.0%) of 6,707 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### Sri Lanka is a significant achievement
+
+*2024-02-13 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193328) · `si`
+
+The United Nations has commended the efforts of Sri Lanka to restore mangrove ecosystems.
+
+Sri Lanka has nominated as a "United Nations World Restoration priority".
+
+Sri Lanka's victory announced today at Geneva at Janviva today (13).
+
+The award is reflected that Sri Lanka has used the principles of the United Nations effectively to restore ecosystems.
+
+◼️
+
+[Data](articles/cc595730.json)
+
+[Extended Data](ext_articles/cc595730.ext.json)
+
+---
+
+### Hot condition near the passport office in Matara
+
+*2024-02-13 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193327) · `si`
+
+The Matara Regional Office of the Department of Immigration has occurred in front of the Matara Regional Office today (13).
+
+Our correspondent said that the people from many parts of the island were present.
+
+A large number of people daily to prepare foreign passports to the Matara Regional Office of the Department of Immigration and Emigration Department.
+
+About 150 people released foreign passports under the one day service.
+
+However, due to lack of a proper mechanism to issue foreign passports, the people who come in a difficult situation.
+
+The office has been seen in a few days near the office.
+
+The people from many parts of the island have launched the night in front of the office to obtain their foreign passport.
+
+The next few days this morning, the people who were not available from the morning and the people were unable to obtain foreign passport.
+
+The people accused the Department of Immigration and Emigration, but it does not issue foreign passports in the same number.
+
+...
+
+[Data](articles/5e95cf69.json)
+
+[Extended Data](ext_articles/5e95cf69.ext.json)
+
+---
+
+### Bideen joined with tiktek
+
+*2024-02-13 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193326) · `si`
+
+US President Joe Biden joined the social media for his election campaign.
+
+The President has launched tiktok account under the user name "@bidenhq" and the first video had been issued under the lol hey guys.
+
+It is reported that this account will be handled by the election campaign team.
+
+President Bidaman opened a Tikketok account in the backdrop of tiktopok for many US government devices for security reasons.
+
+◼️
+
+[Data](articles/b3199fa8.json)
+
+[Extended Data](ext_articles/b3199fa8.ext.json)
+
+---
+
+### Two other Directors resign from NMRA
+
+*2024-02-13 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193325) · `si`
+
+Two others have resigned as the Director of the National Drug Regulatory Authority.
+
+Meanwhile, Mr. Manojj Gamage has informed the Secretary of the National Drug Regulatory Authority this morning (13).
+
+He has sent the letter to the Health Minister Ramesh Pathirana.
+
+◼️
+
+[Data](articles/98299eca.json)
+
+[Extended Data](ext_articles/98299eca.ext.json)
+
+---
 
 ### Two more Director Board members of NMRA resign
 
@@ -1975,91 +2063,5 @@ The Karapitiya Hospital will be the highest beds next to the Colombo National Ho
 [Data](articles/45c16886.json)
 
 [Extended Data](ext_articles/45c16886.ext.json)
-
----
-
-### After the trade compliance with the bank account, the QR code can be easily obtained - the Director of the Central Bank Vasantha Alwis
-
-*2024-02-13 00:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/176235) · `ta`
-
-A media briefing was held at the Presidential Media Center on Monday afternoon after the introduction of an integrated payment system or UPI for Indian tourists visiting Sri Lanka.
-
-The NPCI International Payments Limited and Sri Lanka's Lanka Pvt.
-
-The Director of the Central Bank (Payment and Solutions) said that by contacting the financial institution of his bank account, the QR code can be easily obtained by the trade agreement.. He emphasized that all banks and financial institutions registered with the Central Bank of Sri Lanka are obliged to provide the code.
-
-Since most Indians are accustomed to pay by the QR code, Indian tourists can use UPI-telephone processors uninterrupted to pay the business community across Sri Lanka.
-
-Payments can be paid by scanning the QR code through the LANKAQR, the most optimal system for local transactions.
-
-...
-
-[Data](articles/3ca68057.json)
-
-[Extended Data](ext_articles/3ca68057.ext.json)
-
----
-
-### Central Bank expands Governing Board with two new members
-
-*2024-02-13 00:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-expands-Governing-Board-with-two-new-members/108-276903) · `en`
-
-The Central Bank of Sri Lanka (CBSL) has expanded its Governing Board, with the appointment of two new members.
-
-The financial sector regulator yesterday announced that the Governing Board now includes Rajeev Amarasuriya, with effect from January 30 and Manil Jayesinghe, with effect from February 01.
-
-Alongside the new appointees, the Governing Board comprises of CBSL Governor Dr. P. Nandalal Weerasinghe, who serves as Chairman, A.N. Fonseka, appointed Member of the Monetary Board of the CBSL since July 27, 2022, who continued to serve as a Member of the Governing Board, Dr. Ravi Ratnayake, appointed on September 21, 2023, Anushka S. Wijesinha, appointed on September 21, 2023 and Vish Govindasamy, appointed on October 26, 2023.
-
-...
-
-[Data](articles/44b10241.json)
-
-[Extended Data](ext_articles/44b10241.ext.json)
-
----
-
-### Dairy sector makes fresh bid to reconsider VAT rollout
-
-*2024-02-13 00:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dairy-sector-makes-fresh-bid-to-reconsider-VAT-rollout/108-276902) · `en`
-
-“THE VAT HIKE THREATENS THE PROFITABILITY OF THE SECTOR AND CONTRADICTS THE GOVERNMENT’S OBJECTIVE TO BOOST DAIRY PRODUCTION BY 53 PERCENT- AIDA
-
-Cautions failure to reconsider will have far-reaching, detrimental consequences on local dairy sector
-
-Asserts additional burden of increased VAT could further strain affordability of dairy products, leading to a decline in consumption
-
-Requests to increase VAT gradually with support measures, allowing sector space to adjust
-
-Sri Lanka’s dairy stakeholders urged the government to reconsider the decision to increase the Value Added Tax (VAT) and cautioned that failure to do so would have far-reaching, detrimental consequences on the dairy sector and the overall health and wellbeing of the Sri Lankan population.
-
-The All Island Dairy Association (AIDA) asserted that the move, which was intended to broaden the tax base, could have severe repercussions for the dairy sector, a vital contributor to the nation’s GDP and a cornerstone of rural livelihoods.
-
-...
-
-[Data](articles/e57d5aed.json)
-
-[Extended Data](ext_articles/e57d5aed.ext.json)
-
----
-
-### Central Bank continues to collect foreign exchange from domestic market
-
-*2024-02-13 00:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-continues-to-collect-foreign-exchange-from-domestic-market/108-276901) · `en`
-
-Continuing its months-long streak, the Central Bank purchased another US $ 245.3 million in foreign exchange from the domestic banking system and sold nothing in January, ending as a net purchaser of foreign currency to begin the year.
-
-This is a sign of improving foreign currency liquidity in the domestic banking system further into the new year, when the Central Bank ended up purchasing US $ 1,895.87 million in 2023, reaching a record level, given the trying conditions prevailed in foreign currency conditions for most part of the year.
-
-The Central Bank recently said these substantial net absorptions contributed immensely for it to be able to rebuild the reserves to US $ 4.4 billion by the end of 2023.
-
-A month later, the reserves further rose by just shy of US $ 100 million to US $ 4,491.0 million by the end of January 2024.
-
-A month later, the reserves further rose by just shy of US $ 100 million to US $ 4,491.0 million by the end of January 2024.
-
-...
-
-[Data](articles/b6f273d4.json)
-
-[Extended Data](ext_articles/b6f273d4.ext.json)
 
 ---

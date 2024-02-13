@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 21:17:35**
+As of **2024-02-13 21:34:13**
 
 ## Newspaper Stats
 
@@ -26,21 +26,23 @@ dailymirrorlk | 995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,790 (99.9%) of 6,794 articles have been extended.
+6,794 (100.0%) of 6,794 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
-### சுகாதாரத்துறை அத்தியாவசிய சேவையாக பிரகடனம்
+### Declaration of Health Department Essential Service
 
 *2024-02-13 20:40:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதாரத்துறை-அத்தியாவசிய-சேவையாக-பிரகடனம்/175-333159) · `ta`
 
-மருத்துவமனைகள், முதியோர் இல்லங்கள், மருந்தகங்கள் போன்றவற்றில் நோயாளிகளின் பராமரிப்பு, வரவேற்பு, பராமரிப்பு, உணவு சிகிச்சை போன்றவற்றிற்கு தேவையான அனைத்து சேவைகள், வேலை அல்லது அவசியமான உழைப்பு அல்லது தேவையான அனைத்து சேவைகளையும் அத்தியாவசிய சேவையாக அறிவித்து அரசால் வர்த்தமானி வெளியிடப்பட்டுள்ளது .
+The gazette has been issued by the state to declare all the services, work or work or all necessary services for the maintenance, reception, maintenance, food treatment of patients in hospitals, elderly homes, pharmacies, etc.
 
 ◼️
 
 [Data](articles/aaac12e0.json)
+
+[Extended Data](ext_articles/aaac12e0.ext.json)
 
 ---
 
@@ -170,37 +172,41 @@ Rajad Patidar, who debuted in Visakhapatnam, is often expected to play in the 3r
 
 ---
 
-### ”சஜித் கட்சியின் கட்டுப்பாட்டை இழந்து வருவதைக் காண முடிகிறது”
+### "Sajith's party is losing control"
 
 *2024-02-13 19:35:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-கட்சியின்-கட்டுப்பாட்டை-இழந்து-வருவதைக்-காண-முடிகிறது/175-333158) · `ta`
 
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவின் கட்சியான ஐக்கிய மக்கள் சக்தியின் (SJB) கட்டுப்பாட்டை இழந்து வருவதைக் காணக்கூடியதாக உள்ளது, ஏனெனில் பல முக்கிய உறுப்பினர்கள் ஜனாதிபதிக்கு ஆதரவளிக்க விருப்பம் தெரிவித்துள்ளதாக ஐக்கிய தேசியக் கட்சியின் பொதுச் செயலாளர் பாலித ரங்கே பண்டார இன்று தெரிவித்தார்.
+United National Party (UNP) general secretary Palitha Range Bandara today said that many prominent members have expressed their willingness to support the president, as it is seen as the loss of control of the United People's Power (SJB) party of opposition leader Sajith Premadasa (SJB).
 
-"சஜித் நிலைத்திருக்க வேண்டுமானால் ஐ.தே.க வில் இணைவதற்கான கதவு திறந்தே உள்ளது. பிரேமதாசவை நிராகரிப்பதற்கு எங்கள் தலைவருக்கு எந்தவொரு ஆட்சேபனையும் இல்லை, அவர் தற்போது தனது முந்தைய போட்டியாளரான SLPP உடனேயே இணைந்து பணியாற்றுகிறார் " என ரங்கே பண்டார மேலும் கூறினார்.
+“If Sajith wants to be sustained, the door to join the UNP is open. Our leader has no objection to rejecting Premadasa, and he is currently working with his previous contestant SLPP, ”Range Bandara added.
 
-"ஜனாதிபதி விக்கிரமசிங்கவுக்கு ஆதரவளிக்கத் தயாராக இருப்பதாகவும், சரியான நேரத்தில் கட்சியை விட்டு விலகுவதாகவும் எஸ்.ஜே.பி.யின் சில முக்கிய உறுப்பினர்கள் எமக்கு அறிவித்துள்ளனர். எனவே, எஸ்.ஜே.பி. தலைவர் வெகு சீக்கிரத்தில் கட்சியின் கட்டுப்பாட்டை இழக்க நேரிடும்" என்று ஐ.தே.க பொதுச் செயலாளர் தெரிவித்துள்ளார்.
+“Some of the key members of the SJP have announced that we are ready to support President Wickremesinghe and that they are leaving the party in a timely manner.. So, the SJP. The leader will soon lose control of the party, ”the UNP general secretary said.
 
 ◼️
 
 [Data](articles/75920f87.json)
 
+[Extended Data](ext_articles/75920f87.ext.json)
+
 ---
 
-### அனுரவை சந்தித்தார் ஐரோப்பிய ஒன்றிய தூதுவர்
+### EU Ambassador met Anura
 
 *2024-02-13 19:25:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவை-சந்தித்தார்-ஐரோப்பிய-ஒன்றிய-தூதுவர்/175-333157) · `ta`
 
-இலங்கைக்கான ஐரோப்பிய ஒன்றியத்தின் தூதுவர் கார்மென் மொரேனோ இன்று பிற்பகல் ஜே.வி.பி தலைமையகத்தில் NPP தலைவர் அனுரகுமார திஸாநாயக்கவை சந்தித்தார்.
+EU Ambassador to Sri Lanka Carmen Moro met NPP leader Anuragumara Dissanayake at the JVP headquarters this afternoon.
 
-இலங்கையில் நிலவும் பொருளாதார நெருக்கடி மற்றும் அரசியல் சூழ்நிலைகள் குறித்து அவர்கள் விவாதித்ததாக கட்சி வட்டாரங்கள் தெரிவித்தன.
+Party sources said they discussed the economic crisis and political circumstances in Sri Lanka.
 
-மனித உரிமைகளை நிலைநாட்டுதல், ஜனநாயகம், தேர்தல் ஒத்திவைப்பு மற்றும் சமீபத்தில் இயற்றப்பட்ட ஒன்லைன் பாதுகாப்பு சட்டம் குறித்தும் விவாதிக்கப்பட்டது.
+The upheaval of human rights, democracy, the postponement of the election and the recently enacted Online Security Act was also discussed.
 
-ஐரோப்பிய ஒன்றியத்தின் இலங்கைக்கான பிரதிநிதிகள் குழுவின் பிரதித் தலைவர் லார்ஸ் பிரெடல் மற்றும் NPP பாராளுமன்ற உறுப்பினர் விஜித ஹேரத் ஆகியோர் இந்த சந்திப்பில் கலந்துகொண்டனர்.
+Deputy Chairman of the European Union's Sri Lanka Representatives Committee Lars Fredel and NPP MP Vijitha Herath were also present at the meeting.
 
 ◼️
 
 [Data](articles/6562f4fc.json)
+
+[Extended Data](ext_articles/6562f4fc.ext.json)
 
 ---
 
@@ -224,21 +230,25 @@ The suspects are to be produced before courts and the Criminal Division is condu
 
 ---
 
-### டயானாவின் பிரஜாவுரிமை வழக்கு;விரைவில் தீர்ப்பு
+### Diana's citizen case; the verdict soon
 
 *2024-02-13 19:17:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானாவின்-பிரஜாவுரிமை-வழக்கு-விரைவில்-தீர்ப்பு/175-333156) · `ta`
 
-இராஜாங்க அமைச்சர் டயானா கமகேவின் பாராளுமன்ற ஆசனத்தின் சட்டபூர்வமான தன்மையை சவாலுக்கு உட்படுத்தும் ரிட் மனுவை நிராகரித்த மேன்முறையீட்டு நீதிமன்றத்தின் தீர்ப்பை எதிர்த்து தாக்கல் செய்யப்பட்ட மேன்முறையீட்டு மனு மீதான விசாரணையை உயர் நீதிமன்றம் இன்றுடன் நிறைவு செய்தது.
+The Supreme Court today concluded the hearing of the appeal filed against the Court of Appeal, which rejected the writ petition, which challenged the legitimate character of the Parliamentary seat of State Minister Diana Kamage.
 
-இந்த மேன்முறையீட்டு மனு தொடர்பான தீர்ப்பை உரிய நேரத்தில் வழங்குவதாக உயர் நீதிமன்ற நீதியரசர்களான காமினி அமரசேகர, குமுதுனி விக்கிரமசிங்க மற்றும் ஜனக் டி சில்வா ஆகிய மூவரடங்கிய நீதிபதிகள் குழாம் அறிவித்துள்ளது.
+A panel of judges, including High Court Judges Gamini Amarasekera, Kumuduni Wickramasinghe and Janak de Silva, has announced that the verdict on the appeal will be issued in a timely manner.
 
-டயானா கமகே பாராளுமன்ற உறுப்பினராக இருக்க தகுதியற்றவர் என்று சமூக ஆர்வலர் ஓஷல ஹேரத் உயர் நீதிமன்றத்தில் இந்த மேல்முறையீட்டு மனுவை தாக்கல் செய்தார்.
+Social activist Osala Herath filed an appeal in the High Court that Diana Kamage was not eligible to be a Member of Parliament.
 
-மேன்முறையீட்டு நீதிமன்ற நீதியரசர் கே.கே.ஏ.வி ஸ்வர்ணாதிபதி இணங்கிய நிலையில், மேன்முறையீட்டு நீதிமன்றத்தின் தலைவர் நீதியரசர் நிஸ்ஸங்க பந்துல கருணாரத்ன 2023 ஆம் ஆண்டு ஒக்டோபர் 31 ஆம் திகதி தனது தீர்ப்பில், வழக்கின் தகுதிகள் ரிட் உத்தரவை வழங்குவதற்கு உத்தரவாதமளிக்காது எனத் தெரிவித்தார்.
+In his verdict on October 31, 2023, the Chairperson of the Court of Appeal, Judge Nissanka Bandula Karunaratne, said that the Court of Appeal, KKAV Swarnathi, agreed, "he said.
+
+Judge Karunaratne further stated that the petitioner has filed the petition without compliance with the Supreme Court rules.
 
 ...
 
 [Data](articles/66b252b5.json)
+
+[Extended Data](ext_articles/66b252b5.ext.json)
 
 ---
 

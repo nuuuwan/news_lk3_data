@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 09:17:26**
+As of **2024-02-13 09:33:00**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 968
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,627 (99.9%) of 6,635 articles have been extended.
+6,635 (100.0%) of 6,635 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
-### காலநிலையில் திடீர் மாற்றம்
+### Sudden change in climate
 
 *2024-02-13 08:44:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலநிலையில்-திடீர்-மாற்றம்/175-333114) · `ta`
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் பொலன்னறுவை, மாத்தளை மற்றும் நுவரெலியா மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Rainfall is likely to occur in the Eastern and Uva provinces and in Polonnaruwa, Matale and Nuwara Eliya districts.
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் பி.ப. 2.00 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+In some places in the Western and Sabaragamuwa Provinces, Galle and Matara districts. After 2.00 pm, there is a possibility of rain or thunderstorms.
 
-மத்திய மலைநாட்டின் கிழக்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய, தென், வடமேல், ஊவா மற்றும் கிழக்கு மாகாணங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 30-40 கிலோ மீற்றர் வரையான வேகத்தில் ஓரளவு பலத்த காற்று வீசக் கூடும் என எதிர்பார்க்கப்படுகின்றது.
+Heavy winds are expected to blow up to 30-40 km / h from time to time in the North, North, South, North, North, Uva and Eastern Provinces in the eastern parts of the Central Highlands.
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது. R
+In the morning, in some places in the Western and Sabaragamuwa Provinces, Galle and Matara districts, there is expected snowfall in the morning.. Remble
 
 ◼️
 
 [Data](articles/8620ee68.json)
+
+[Extended Data](ext_articles/8620ee68.ext.json)
 
 ---
 
@@ -68,25 +70,29 @@ The trade union actions stemmed from the Cabinet Ministers’ approval of Presid
 
 [Data](articles/3e4c570a.json)
 
+[Extended Data](ext_articles/3e4c570a.ext.json)
+
 ---
 
-### எம்.பி ஒருவர் பயணித்த கார் விபத்து; ஒருவர் படுகாயம்
+### A car accident where an MP was traveling;Injury
 
 *2024-02-13 08:41:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-ஒருவர்-பயணித்த-கார்-விபத்து-ஒருவர்-படுகாயம்/175-333113) · `ta`
 
-பாராளுமன்ற உறுப்பினர் அலி சப்ரி ரஹீம் பயணித்த கார் விபத்தில் சிக்கியதில் ஒருவர் காயமடைந்துள்ளதாக சாலியவெவ பொலிஸார் தெரிவித்துள்ளனர்.
+Saliyawwa police said that one person was injured when parliamentarian Ali Sabri Rahim was involved in a car accident.
 
-இந்த விபத்து புத்தளம் - அனுராதபுரம் வீதியின்  15 ஆம் தூண் பிரதேசத்தில் இன்று (13) அதிகாலை 1.00 மணியளவில்  இடம்பெற்றுள்ளது.
+The accident took place at around 1.00 am today (13) at the 15th Pillar of Puttalam - Anuradhapura Road.
 
-அளுத்கம மேல் புளியங்குளம் பகுதியைச் சேர்ந்த எச்.எம். ஹர்ஷன பிரதீப் என்பவர் விபத்தில் காயமடைந்து புத்தளம் ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+HM from Puliyankulam, Aluthgama. Harshan Pradeep was injured in the accident and was admitted to the Puttalam Hospital.
 
-புத்தளத்தில் இருந்து அனுராதபுரம் நோக்கி பயணித்த போது, ​​பாராளுமன்ற உறுப்பினரின் கார் அதே திசையில் பயணித்த உழவு இயந்திரத்தின் பின்புறம் மோதியதில் இந்த விபத்து ஏற்பட்டுள்ளது.
+The accident occurred when the parliamentarian's car crashed into the back of the plowing machine that was traveling in the same direction while traveling from Puttala to Anuradhapura.
 
-விபத்து தொடர்பில் பாராளுமன்ற உறுப்பினர் பயணித்த காரின் சாரதி சாலியவெவ பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+The driver of a parliamentarian who was traveling in the accident has been arrested by the police.
 
 ◼️
 
 [Data](articles/c5f63c50.json)
+
+[Extended Data](ext_articles/c5f63c50.ext.json)
 
 ---
 
@@ -103,6 +109,8 @@ Deputy Director, Department of Meteorology Merril Mendis told Daily Mirror that 
 ...
 
 [Data](articles/628e6d99.json)
+
+[Extended Data](ext_articles/628e6d99.ext.json)
 
 ---
 
@@ -418,19 +426,25 @@ The Department of Meteorology also stated that in some places in the Western and
 
 ---
 
-### டிஜிட்டல் கட்டணம் மூலம் வர்த்தகர்களுக்கு நன்மைகள்
+### Benefits to traders by digital payment
 
 *2024-02-13 04:08:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிஜிட்டல்-கட்டணம்-மூலம்-வர்த்தகர்களுக்கு-நன்மைகள்/175-333097) · `ta`
 
-இலங்கைக்கு வருகை தரும் இந்திய சுற்றுலாப் பயணிகளுக்கு டிஜிட்டல் கியூ.ஆர். குறியீடு மூலம் ஒருங்கிணைந்த கட்டண முறை அல்லது யு.பி.ஐ.  அறிமுகப்படுத்திய பின்னர் அது தொடர்பாக விளக்கமளிக்கும் ஊடகவியலாளர் சந்திப்பு நேற்று  பிற்பகல் ஜனாதிபதி ஊடக மையத்தில் இடம்பெற்றது.
+Digital QR for Indian tourists visiting Sri Lanka. Integrated payment method or UPI by codeA media briefing was held at the Presidential Media Center yesterday afternoon.
 
-இந்த திட்டத்தை விரைவாக விரிவுபடுத்தும் நோக்கத்துடன், 10 ஆயிரம் வர்த்தக நிலையங்களில் இந்த கட்டண முறை இதனுடன் இணைந்ததாக நடைமுறைப்படுத்தப்படுவதோடு இந்த வசதியை மேலும் விரிவுபடுத்துவதன் மூலம், 2024 மார்ச் மாத்திற்குள் , இந்த வர்த்தக நிலையங்களின் எண்ணிக்கை 65 ஆயிரமாக  உயர்த்தப்படும் எனவும இங்கு சுட்டிக்காட்டப்பட்டது.
+With the intention of rapidly expanding the project, it is pointed out that this fee system will be combined with 10 thousand trade centers and further expand the feature to 65 thousand by March 2024.
 
-பெரும்பாலான இந்தியர்கள் கியூ.ஆர். குறியீடு ஊடாக கொடுப்பனவுகளை செலுத்துவதற்குப் பழக்கப்பட்டிருப்பதால், இந்திய சுற்றுலாப் பயணிகள், இலங்கை முழுவதும் உள்ள வர்த்தக சமூகத்திற்கு பணம் செலுத்துவதற்கு யு.பி.ஐ. தொலைபேசி செயலிகளை தடையின்றி பயன்படுத்தலாம்.
+Most Indians QR. Indian tourists are accustomed to pay by code, UPI to pay the business community across Sri Lanka. Phone processors can be used uninterrupted.
 
-...
+The money paid by this will be credited to the appropriate bank account in the Sri Lankan rupee and will be immediately notified by SMS. Small and medium traders will be given the opportunity to obtain bank loans in a short period of time in six months by citing such income in their bank accounts.
+
+In the second phase, this structure further expands and CUR in India. It is expected to provide Sri Lankans a payment facility by code. (A)
+
+◼️
 
 [Data](articles/82e1a4db.json)
+
+[Extended Data](ext_articles/82e1a4db.ext.json)
 
 ---
 
@@ -714,6 +728,8 @@ Alongside the new appointees, the Governing Board comprises of CBSL Governor Dr.
 
 [Data](articles/44b10241.json)
 
+[Extended Data](ext_articles/44b10241.ext.json)
+
 ---
 
 ### Dairy sector makes fresh bid to reconsider VAT rollout
@@ -736,6 +752,8 @@ The All Island Dairy Association (AIDA) asserted that the move, which was intend
 
 [Data](articles/e57d5aed.json)
 
+[Extended Data](ext_articles/e57d5aed.ext.json)
+
 ---
 
 ### Central Bank continues to collect foreign exchange from domestic market
@@ -755,6 +773,8 @@ A month later, the reserves further rose by just shy of US $ 100 million to US $
 ...
 
 [Data](articles/b6f273d4.json)
+
+[Extended Data](ext_articles/b6f273d4.ext.json)
 
 ---
 

@@ -1,88 +1,154 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 12:49:08**
+As of **2024-02-13 13:02:20**
 
 ## Newspaper Stats
 
-*Scraped **6,678** Articles*
+*Scraped **6,688** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 80
 bbccomsinhala | 91
-dbsjeyarajcom | 147
+dbsjeyarajcom | 148
 economynextcom | 339
 islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
-adalk | 565
+adalk | 568
 adaderanalk | 811
-tamilmirrorlk | 819
+tamilmirrorlk | 824
 virakesarilk | 841
-adaderanasinhalalk | 932
+adaderanasinhalalk | 933
 dailymirrorlk | 974
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,675 (100.0%) of 6,678 articles have been extended.
+6,678 (99.9%) of 6,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
-### மின்சார சபை அத்தியட்சகரை தாக்கிய ஹொரனை மாநகர சபையின் முன்னாள் உறுப்பினர் பொலிஸில் சரண்!
+### මැතිවරණ ගැන රජයෙන් විශේෂ නිවේදනයක්
+
+*2024-02-13 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193323) · `si`
+
+ජනාධිපතිවරණය සහ මහ මැතිවරණය පැවැත්වීම සම්බන්ධයෙන් ජනාධිපති මාධ්‍ය අංශය නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි දැක්වෙන්නේ, ජනාධිපතිවරණය එය පැවැත්වීමට නියමිත කාලවකවාණුවේ දී පැවැත්වෙන බවත්, මහ මැතිවරණය සඳහා අරමුදල් 2025 අයවැය මඟින් වෙන්කරන බවත්ය.
+
+මැතිවරණ පැවැත්වීමේ වගකීම මැතිවරණ කොමිසම සතු කාර්යක් බවත්, එම නිවේදනයේ දැක්වේ.
+
+◼️
+
+[Data](articles/a5867452.json)
+
+---
+
+### யுக்தியவில் மேலும் பலர் கைது
+
+*2024-02-13 12:29:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்தியவில்-மேலும்-பலர்-கைது/175-333130) · `ta`
+
+யுக்திய விசேட சுற்றிவளைப்பு நடவடிக்கையில், கடந்த 24 மணித்தியாலங்களில் நாடளாவிய ரீதியில் 680 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+போதைப்பொருள் குற்றங்களுடன் தொடர்புடைய 554 சந்தேக நபர்களும், குற்றப் பிரிவுக்கு குறிப்பிடப்பட்ட பட்டியலில் இருந்த 126 சந்தேக நபர்களும் இதில் உள்ளடங்குவதாக பொலிஸார் தெரிவித்தனர்.
+
+அத்துடன், 168 கிராம் ஹெரோயின், 93 கிராம் ஐஸ், 925 கிராம் கஞ்சா மற்றும் 596 மாத்திரைகள் கைப்பற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/a60b74fe.json)
+
+---
+
+### மனோஜ் கமகே இராஜினாமா
+
+*2024-02-13 12:25:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோஜ்-கமகே-இராஜினாமா/175-333128) · `ta`
+
+தேசிய ஒளடதங்கள் ஒழுங்குபடுத்தல் அதிகாரசபையின் பணிப்பாளர் சட்டத்தரணி மனோஜ் கமகே, அந்தப் பதவியிலிருந்து இராஜினாமா செய்துள்ளார்.
+
+அவர் தனது  இராஜினாமா கடிதத்தை சுகாதார அமைச்சர் ரமேஷ் பத்திரனவுக்கு அனுப்பி வைத்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/fee6a97d.json)
+
+---
+
+### Former member of the Municipal Council Municipal Council
 
 *2024-02-13 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176265) · `ta`
 
-ஹொரனை பிரதேச பிரதம பொறியியலாளர் காரியாலயத்துக்குள் நுழைந்து வர்த்தக பிரிவு மின்சார அத்தியட்சகரை தாக்கிவிட்டு தலைமறைவாகியிருந்தார் என சந்தேகிக்கப்படும்  ஹொரனை  மாநகர சபையின் முன்னாள் உறுப்பினர் (ஸ்ரீலங்கா பொதுஜன பெரமுன) நளின் சிந்தக கைது செய்யப்பட்டுள்ளதாக ஹொரனை  தலைமையக பொலிஸார் தெரிவித்துள்ளனர்.
+Horana's headquarters headquarters police said that Nalin Chinthaka, a former member of the Horana Municipal Council (PA), suspected that he had entered the office of the Chief Engineer of Horana and attacked the Electricity Superintendent of Commerce.
 
-தாக்குதலுடன் தொடர்புடைய மற்றைய சந்தேக நபரான சாரதி அன்றைய தினம் கைது செய்யப்பட்டு ஹொரனை  நீதிவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்ட பின்னர் எதிர்வரும் 21 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+The other suspect in connection with the attack, Sarathi, was arrested that day and was produced before Horan at the Magistrate's Court until the 21st of this month.
 
 ◼️
 
 [Data](articles/c4babbe2.json)
 
+[Extended Data](ext_articles/c4babbe2.ext.json)
+
 ---
 
-### කෘත්‍රීම බුද්ධිය පාඨමාලාවක් ලෙස පාසල් පද්ධතියට
+### பாடசாலை பாடத்திட்டத்தில் செயற்கை நுண்ணறிவு
+
+*2024-02-13 12:13:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-பாடத்திட்டத்தில்-செயற்கை-நுண்ணறிவு/175-333127) · `ta`
+
+02.10.2023 அன்று நடைபெற்ற அமைச்சரவைக் கூட்டத்தில் இது தொடர்பில் விவாதிக்கப்பட்டுள்ளதுடன், இது தொடர்பான பாடத்திட்டங்கள் எதிர்காலத்தில் அறிமுகப்படுத்தப்பட உள்ளதாக தகவல் வெளியாகி உள்ளது.
+
+◼️
+
+[Data](articles/af642c6b.json)
+
+---
+
+### Into the school system as an artist intelligence course
 
 *2024-02-13 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193322) · `si`
 
-කෘත්‍රීම බුද්ධිය පිළිබඳ පාඨමාලා අධ්‍යාපන පද්ධතියට හඳුන්වාදීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+Cabinet approval has been approved by the Cabinet approval to introduce the artist courses to the education system.
 
-2023.10.02 වන දින පැවති අමාත්‍ය මණ්ඩල රැස්වීමේ දී සාකච්ඡාවට ගත් කෘත්‍රීම බුද්ධියට අදාළව ජාතික උපාය මාර්ගයක් සහ සැලැස්මක් සකස් කිරීම සඳහා පත්කර ඇති කාර්ය සාධක බළකාය විසින් ඉදිරිපත් කර ඇති නිර්දේශ අනුව අනුව එය පාඨමාලා හඳුන්වා දීමට නියමිතය.
+According to the recommendation made by the Task Force appointed by the Task Force appointed by the Task Force appointed to formulate a national strategic and plan in the Cabinet Meeting on 02.03.2010, according to the recommendations made to formulate a national strategy and plan.
 
-එම උපාය මාර්ග සැලැස්මේ එක් අංගයක් වන්නේ සාමාන්‍ය අධ්‍යාපනයට අදාළව කෘත්‍රීම බුද්ධිය හඳුන්වා දීමට නියමු ව්‍යාපෘති ක්‍රියාත්මක කිරීමය.
+One aspect of that strategy plan is to implement pilot projects to introduce artificial intelligence in relation to normal education.
 
-එම නියමු ව්‍යාපෘති මයික්‍රොසොෆ්ට් ආයතනයේ ද සහාය ඇතිව පහත පරිදි ක්‍රියාත්මක කිරීමට ජනාධිපතිවරයා ඉදිරිපත් කළ යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+The President's proposal has been approved by the Cabinet approval with the assistance of Microsoft.
 
-* දැනට මයික්‍රොසොෆ්ට් ආයතනය විසින් ක්‍රියාත්මක කරනු ලබන ජාත්‍යන්තර විෂය නිර්දේශයන් ජාතික අධ්‍යාපන ආයතනයේ නිර්දේශ මත සංශෝධනය කර අවශ්‍ය මුලික මානව සම්පත් පවතින පාසල්වල 8 වන ශ්‍රේණියේ සිට යෝජිත නියමු ව්‍යාපෘතියක් ආරම්භ කිරීම.
+* Inaugurating a proposed pilot project from the 8th grade of the National Institute of Educational Schools.
 
-*මයික්‍රොසොෆ්ට් ආයතනය විසින් සපයනු ලබන පහසුකම් යටතේ නියමු ව්‍යාපෘතිය සඳහා තෝරාගත් පාසල් ඩිජිටල්කරණය කිරීම.
+* Digitalizing school digitizations for the pilot project under Microsoft.
 
-...
+* Training of 100 teachers of ICT as coaches by Microsoft Institutions.
+
+◼️
 
 [Data](articles/1e055588.json)
 
+[Extended Data](ext_articles/1e055588.ext.json)
+
 ---
 
-### அம்பாறையில் கடற்கரையில் கரையொதுங்கிய சடலம் இனங் காணப்பட்டது
+### The body of the shore was found in the coast of Amparai
 
 *2024-02-13 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176263) · `ta`
 
-அம்பாறை மாவட்டம் பெரிய நீலாவணை பொலிஸ் பிரிவுக்குட்பட்ட  பாண்டிருப்பு கடற்கரை பகுதியில் கரையொதுங்கிய  ஆணின் சடலம்  இனங்காணப்பட்டுள்ளது.
+The body of a man who was found in the Pandaruppu coast of the Ampara district is identified.
 
-பாண்டிருப்பில் விஷ்ணு கோயிலை அண்டிய கடற்கரை பகுதியில் குறித்த சடலம் மீட்கப்பட்டதுடன், சடலத்தை அடையாளம் காண்பதற்காக    கல்முனை  ஆதார வைத்தியசாலைக்கு எடுத்து செல்லப்பட்டது.
+The body was recovered and taken to the Kalmunai Resource Hospital to identify the body.
 
-கடந்த திங்கட்கிழமை (12) மீட்கப்பட்ட இச்சடலம்  மட்டக்களப்பு மாவட்டம் செட்டிபாளையம் பகுதியைச்  சேர்ந்த கதிரவேல் பத்மராஜ் (வயது 59) எனும் மூன்று பிள்ளைகளின் தந்தை  என  அவரது மனைவி வசந்தி அடையாளம் காட்டியுள்ளார்.
+His wife, Vasanthi, has identified the father of three children, Kadiravel Padmaraj (age 59) from Chettipalayam, Batticaloa district.
 
-மரணமடைந்தவர்  தனது  வீட்டில் இருந்து கடைக்கு சென்று வருவதாக தெரிவித்து வெளியே சென்றதாகவும், சடலமாக மீட்கப்படும் வரை தேடியும் கிடைக்காததினால் களுவாஞ்சிகுடி பொலிஸ் நிலையத்தில் முறைப்பாடு மேற்கொள்ளப்பட்டிருந்ததாகவும்,  பின்னர் கல்முனை பகுதியில் சடலம் ஒன்று கரையொதுங்கியுள்ளது என்பதை அறிந்து கல்முனை ஆதார வைத்தியசாலைக்கு சென்று அங்கே பிரேத அறையில் வைக்கப்பட்ட சடலம் தனது கணவர் தான் என்பதனை உறுதிப்படுத்தியதாகவும் மரணமடைந்தவரின் மனைவி  தெரிவித்தார்.
+The deceased had reported that the deceased had gone out of his house and had not been searched until the body was recovered, and that the body of the body was found in the Kalmunai Resource Hospital and then confirmed that the body was found in the Kalmunai Resource Hospital.
 
 ◼️
 
 [Data](articles/eba6bc0e.json)
+
+[Extended Data](ext_articles/eba6bc0e.ext.json)
 
 ---
 
@@ -154,6 +220,36 @@ Kelly also stated in the book that Trump thought North Korea had been isolated b
 
 ---
 
+### සෞඛ්‍ය වර්ජනයෙන් ඇමතිගේ ‌රෝහල් නිරීෂණචාරිකාව නවතියි
+
+*2024-02-13 11:44:27* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-වර්ජනයෙන්-ඇමතිගේ-‌රෝහල්-නිරීෂණචාරිකාව-නවතියි/11-408053) · `si`
+
+හෙද පරිපූරක , අතුරු වෙද්‍ය සේවා හා ‌සෞඛ්‍යය කාර්්‍ය මණ්ඩල ඒකාබද්ද වෘතීය සමති 72ක් අද (13) උදෑසන සිට ‌සිය සේවාවලින්  ඉවත්වී ඉල්ලීම් ලැබෙනතෙක් අඛණඩ වර්ජණයක් ආරම්භ කර තිබෙනවා. මේ හේතුවෙන්ර  සැලසුම් කල පරිදි සෞඛ්‍ය අමාත්‍යවරයාගේ ගම්පහ දිස්ත්‍රික් රෝහල් නිරීක්ෂණ චාරිකාව අවලංගු කොට තිබේ. ඒ් වෙනුවට වර්ජනයේ නියුතු සෞඛ්‍ය වෘතීය සමිති ප්‍රධානීන් සමග ‌පෙරවරු 10.00 සිට සඛච්ාවක් ආරඹභ කොට ඇතිබ ‌අමාත්‍යංශ නිලධාරීන් -,අද, - කල විමසීමකදී කියා සිටියා.
+
+◼️
+
+[Data](articles/3a944a49.json)
+
+---
+
+### නිවාඩු දවස්වල බැංකුවල ඒ ටී එම් කාඩ්වලින් මුදල් වංචාකරන කල්ලියක්
+
+*2024-02-13 11:38:31* · [`adalk`](https://www.ada.lk/breaking_news/නිවාඩු-දවස්වල-බැංකුවල-ඒ-ටී-එම්-කාඩ්වලින්-මුදල්-වංචාකරන-කල්ලියක්/11-408052) · `si`
+
+මාතලේ දිස්ත්‍රික්කයේ ක්‍රියාත්මක පෞද්ගලික හා රාජ්‍ය බැංකු අසල ගැවසෙමින් ඒ ටි එම් යන්ත්‍ර මගින් මුදල් ලබා ගැනීමට සහාය පලකරන කල්ලියක් ඉතා ශුක්ෂමව අන්සතු ගිණුම් වලින් මුදල් පැහැර ගන්නා බව ගණුදෙනු කරුවෝ කියා සිටිති.
+
+සමාජයේ වෙසෙන ඇතැම් වයෝවෘද්ධ කාන්තාවන්,කුඩා දරුවන් මෙන්ම ඇතැම් වැඩිහිටි පිරිස් ද මෙම කල්ලියට හසුවි මුදල් අහිමි කර ගෙන ඇති බවට තොරතුරු අනාවරණය වෙයි.
+
+තමන්ට වාසි සහගත පුද්ගලයින් යැයි අනුමාන කරගන්නා පිරිස් පසුපස යමින් බැංකු අසල ඒ ටී එම් යන්ත්‍ර අසලට පැමිණ මුදල් ලබා ගැනීමට උපකාර කරන මුවාවෙන් මෙම වංචාව සිදුවන බව සිද්දියට මුහුණ දුන් පිරිස් කියා සිටියි.
+
+විශේෂයෙන් මාතලේ දිස්ත්‍රික්කයේ ප්‍රධාන සහ උප නගර සියල්ලේම සති අග නිවාඩු දිනයන් ඉලක්ක කර සිදුවන මෙම මුදල් වංචාව සම්බන්ධයෙන් ගණුදෙනු කරුවන් දැනුවත් විය යුතු බවත් සිය රහස්‍ය අංකය කිසි විටෙකත් වෙනත් පුද්ගලයෙකුට නොදෙන ලෙසත් මේ සම්බන්ධයෙන් කල විමසීම් වල දි මාතලේ ප්‍රධාන පෙළේ රාජ්‍ය හා පෞද්ගලික බැංකු පාලකයින් කියා සිටියේය.
+
+◼️
+
+[Data](articles/10298119.json)
+
+---
+
 ### In response, the Inspector General of Police, Deshabandu, ends on the 29th of this month!
 
 *2024-02-13 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176259) · `ta`
@@ -191,6 +287,20 @@ There are also 186 suspects in the list on the list of the criminal sections and
 [Data](articles/6e2e8832.json)
 
 [Extended Data](ext_articles/6e2e8832.ext.json)
+
+---
+
+### පෙබරවාරියේ මුල් දින 8ට සංචාරකයන් 60000ක් ඇවිත්
+
+*2024-02-13 11:27:47* · [`adalk`](https://www.ada.lk/breaking_news/පෙබරවාරියේ-මුල්-දින-8ට-සංචාරකයන්-60000ක්-ඇවිත්/11-408051) · `si`
+
+2024 පෙබරවාරි මාසයේ මුල් දින 08 තුළ මෙරටට පැමිණ ඇති සංචාරකයින් සංඛ්‍යාව 60,122 ක් බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය නිකුත් කළ දත්ත වල දැක්වෙයි.
+
+ඒ අනුව මේ වසරේ පෙබරවාරි 8 දා තෙක් පැමිණ ඇති සමස්ත සංචාරකයන් සංඛ්‍යාව 268 375ක් බව එම අධිකාරිය වැඩිදුරටත් පවසයි. පෙබරවාරි මාසයේ දෛනික සංචාරක පැමිණීම 6500 සීමාව ඉක්මවා ගොස් තිබේ.
+
+◼️
+
+[Data](articles/1c627b23.json)
 
 ---
 
@@ -255,6 +365,26 @@ Below is the full article by the Health Minister.
 [Data](articles/8a59684d.json)
 
 [Extended Data](ext_articles/8a59684d.ext.json)
+
+---
+
+### சடலம் சிக்கியதால் ரயில்கள் தாமதம்
+
+*2024-02-13 11:06:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சடலம்-சிக்கியதால்-ரயில்கள்-தாமதம்/175-333124) · `ta`
+
+ரயிலில் மோதுண்ட நபரின் சடலம், இரண்டு தடங்களுக்கு இடையில் சிக்கியதால், கரையோர ரயில் சேவைகள் சில மணிநேரம் தாமதமடைந்தன என ரயில்வே கட்டுப்பாட்டறை அறிவித்துள்ளது.
+
+மகொன பிரதேசத்திலேயே ரயிலுடன் நபரொருவர் மோதியுள்ளார். அவருடைய சடலம் இதுவரையிலும் அடையாளம் காணப்படவில்லை என கட்டுப்பாட்டறை அறிவித்துள்ளது.
+
+இதனால், ருகுணு குமார் மற்றும் காலி குமாரி விரைவு ரயில்கள் முறையே 35 மற்றும் 30 நிமிடங்கள் தாமதமாகின என களுத்துறை ரயில்நிலைய அதிகாரிகள் தெரிவித்தனர்.
+
+காலியில் இருந்து கல்கிஸை வரைக்கும் பயணித்த 8319 என்ற இலக்கத்தைக் கொண்ட மெதுவாக பயணிக்கும் ரயிலிலேயே மோதுண்டுள்ளார் என தகவல்கள் தெரிவிக்கின்றன.
+
+சிரமங்களுக்கு மத்தியில் மீட்கப்பட்ட சடலம், பயாகல ரயில் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளதுடன் மேலதிக விசாரணைகளை பயாகல பொலிஸார் ​மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/1226e003.json)
 
 ---
 
@@ -407,6 +537,24 @@ In April last year, the Paddy Marketing Board did not pay Rs 664 crore to the tr
 [Data](articles/a11cfb14.json)
 
 [Extended Data](ext_articles/a11cfb14.ext.json)
+
+---
+
+### பிணவல் மோகத்தால் நாய் எரித்துக்கொலை
+
+*2024-02-13 10:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிணவல்-மோகத்தால்-நாய்-எரித்துக்கொலை/175-333118) · `ta`
+
+உயர் ரக பெட்டை (பிணவல்) நாயுடன், உறவுக்கொள்வதற்காக வந்துதிரியும் சாதாரண நாயொன்றை எரித்துக்கொன்றார் என சந்தேகிக்கப்படும், 65 வயதான நபரொருவர் கைது செய்யப்பட்டுள்ளார் என யக்கல பொலிஸார் தெரிவித்தனர்.
+
+கம்பஹா, மேல் யாகொட பிரதேசத்தில் வீடொன்றில் வளர்க்கப்பட்ட நாயையே மேற்படி நபர்,  தீ வைத்து எரித்துக்கொன்றார் என குற்றஞ்சாட்டப்பட்டுள்ளது.
+
+எரித்துக் கொல்லப்பட்ட நாயின் உரிமையாளர் செய்த முறைப்பாட்டின் அடிப்படையில் குறித்த நபர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+பொலிஸாரின்  விசாரணையின் பிரகாரம்,  வீட்டில் வளர்க்கப்படும் உயர் இன நாயுடன், உறவுக் கொள்வதற்காக சாதாரண நாய் வந்துசெல்கின்றது. இதனால் கோபமடைந்தே, பெற்றோல் ஊற்றி, நாயை எரித்துக்கொண்டதாக கைது செய்யப்பட்டுள்ள நபர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/25a0c5df.json)
 
 ---
 
@@ -1482,6 +1630,36 @@ President Ranil Wickremesinghe introduced the Joint Payment System (UPI) to furt
 
 ---
 
+### The Unbearable Selfishness of Being “Maavai”  Senathirajah: Clings on to Power for 10 Years as  ITAK Party President.
+
+*2024-02-13 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83587) · `en`
+
+The heading of this  article is inspired by the title of Milan Kundera’s novel “The Unbearable  Lightness of Being”. That novel was set in the  eventful Prague spring  period of the then undivided  Czechoslovakia. This  article is about an octogenarian Tamil political leader who tries to cling on to power selfishly without stepping down gracefully.
+
+The party leader I am referrig to is Somasundaram Senathirajah known popularly as “Maavai” Senathirajah  and/or Maavai.  Until 27 January 2024, Senathirajah was the President  of the Ilankai Thamil Arasuk Katchi(ITAK)  known as the Federal Party(FP) in English. Senathirajah however continues to act as the party president in a business as usual fashion.
+
+...
+
+[Data](articles/3305ba9b.json)
+
+[Extended Data](ext_articles/3305ba9b.ext.json)
+
+---
+
+### Upali Wijewardene: Lanka’s   Beloved Home Grown Business Tycoon with the Golden Touch in Commercial Pursuits.
+
+*2024-02-13 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83612) · `en`
+
+41 years ago on February 13, 1983, a privately owned Lear jet flew out of Malaysia’s Subang Airport at 8.41 p.m. with six on board. It was expected to reach Colombo by 9.45 p.m. that night. 15 minutes after taking off, the plane lost radio contact with the airport. The final message received said the plane was flying at an altitude of 27,000 ft over the straits of Malacca. The Learjet never arrived in Colombo that Sunday as scheduled. The plane went missing.
+
+News of the missing  plane began spreading on Monday, which was also Valentine’s Day. Sri Lankans from all walks of life were shocked when they heard that the missing plane belonged to Upali Wijewardene and that the beloved homegrown tycoon was among the six persons, who disappeared along with the aircraft.
+
+...
+
+[Data](articles/18352310.json)
+
+---
+
 ### 200 crore allocation for Galle Karapitiya Teaching Hospital
 
 *2024-02-13 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176236) · `ta`
@@ -1859,249 +2037,5 @@ She cautioned to expect the unexpected in the wake of the COVID-19 pandemic and 
 [Data](articles/b2b74f56.json)
 
 [Extended Data](ext_articles/b2b74f56.ext.json)
-
----
-
-### Constable drowns at Uswatakeiyawa
-
-*2024-02-12 22:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Constable-drowns-at-Uswatakeiyawa/108-276874) · `en`
-
-Pamunugama, Feb 12 (Daily Mirror) - The Pamunugama Police have initiated investigations after a police constable drowned while sea-bathing off the beach near the first basin, Uswatakeiyawa in Pamunugama.
-
-Police said the deceased was a 24-year-old police constable attached to Grandpass Police Station and a resident of Badulla.
-
-Investigations have revealed that the constable drowned while bathing in the sea off the beach with a group of fellow officers from the Grandpass Police Station.
-
-◼️
-
-[Data](articles/a271480e.json)
-
-[Extended Data](ext_articles/a271480e.ext.json)
-
----
-
-### A police officer drowns
-
-*2024-02-12 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193303) · `si`
-
-A police constable drowned with Usweetia in Talmawatta coast.
-
-The deceased has been identified as a 24-year-old resident of Badulla.
-
-The police constable is attached to the Grandpass police station.
-
-It is reported that the constable who has died while serving with another group of other officers who work in the Grandpass police station.
-
-The constable then had been buried and died in hospital treatment for treatment.
-
-The body of the post mortem has been handed over to the relatives.
-
-◼️
-
-[Data](articles/04d0a921.json)
-
-[Extended Data](ext_articles/04d0a921.ext.json)
-
----
-
-### Mujeeb to miss T20I series against Sri Lanka, Rashid Khan still not fit
-
-*2024-02-12 22:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mujeeb-to-miss-T20I-series-against-Sri-Lanka-Rashid-Khan-still-not-fit/108-276872) · `en`
-
-Feb. 12 (ICC) - Ibrahim Zadran will continue to lead the T20I team with Rashid Khan still recovering from the back surgery he underwent last year.
-
-In another major blow for the visitors, Mujeeb ur Rahman also misses out, having sustained a sprain in his right hand before the ODI series.
-
-Wafadar Momand has been recalled to the squad after his lone appearance in 2023 with Mohammad Saleem Safi continuing to recover from a hamstring strain that saw him miss the ODIs against Sri Lanka.
-
-"We have consistently aimed to provide our young players with the exposure they deserve, a commitment we have maintained successfully so far," Naseeb Khan, the CEO of ACB, said.
-
-"Building a strong bench strength is a priority for us, as we want to ensure we have good backups for our key players when needed, the role Qais Ahmad is currently playing for Rashid Khan.
-
-The series begins on February 17 in Dambulla with the following games at the same venue on 19th and 21st.
-
-...
-
-[Data](articles/25183f15.json)
-
-[Extended Data](ext_articles/25183f15.ext.json)
-
----
-
-### Veteran continues to recover as Afghanistan name T20I squads
-
-*2024-02-12 22:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Veteran-continues-to-recover-as-Afghanistan-name-T20I-squads/108-276872) · `en`
-
-Feb. 12 (ICC) - Ibrahim Zadran will continue to lead the T20I team with Rashid Khan still recovering from the back surgery he underwent last year.
-
-In another major blow for the visitors, Mujeeb ur Rahman also misses out, having sustained a sprain in his right hand before the ODI series.
-
-Wafadar Momand has been recalled to the squad after his lone appearance in 2023 with Mohammad Saleem Safi continuing to recover from a hamstring strain that saw him miss the ODIs against Sri Lanka.
-
-"We have consistently aimed to provide our young players with the exposure they deserve, a commitment we have maintained successfully so far," Naseeb Khan, the CEO of ACB, said.
-
-"Building a strong bench strength is a priority for us, as we want to ensure we have good backups for our key players when needed, the role Qais Ahmad is currently playing for Rashid Khan.
-
-The series begins on February 17 in Dambulla with the following games at the same venue on 19th and 21st.
-
-...
-
-[Data](articles/6dadea25.json)
-
-[Extended Data](ext_articles/6dadea25.ext.json)
-
----
-
-### Private sector prefers to handle hospital services: GMOF president
-
-*2024-02-12 22:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Private-sector-prefers-to-handle-hospital-services-GMOF-president/108-276870) · `en`
-
-Colombo, Feb 12 (Daily Mirror) - The country does not require the services of professionals from these health trade unions, as there is a preference for the private sector to handle these hospital services, Government Medical Officers' Forum (GMOF) president Dr. Rukshan Bellana said today while comenting on the scheduled island-wide strike by health sector trade unions, except doctors.
-
-Addresing the media, he said that the country's health sector solely requires professionals in the medical, nurses' and necessary administrative staff, to effectively operate a state hospital. He proposed outsourcing services such as laboratory services, asserting that this approach could lead to a threefold reduction in expenses.
-
-...
-
-[Data](articles/a6696838.json)
-
-[Extended Data](ext_articles/a6696838.ext.json)
-
----
-
-### Digital payment systems offer numerous benefits for small and medium enterprises - CBSL official
-
-*2024-02-12 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97208/digital-payment-systems-offer-numerous-benefits-for-small-and-medium-enterprises-cbsl-official) · `en`
-
-Businesses can easily obtain QR codes by contacting their respective financial institutions and reaching a trade agreement, while all banks and financial institutions registered with the Central Bank of Sri Lanka (CBSL) are mandated to issue these codes, says CBSL’s Director of Payments and Settlements.
-
-He stated this during press conference was held this afternoon (12) at the President’s Media Center to announce a significant development aimed at making payments easier for Indian tourists in Sri Lanka. The conference followed the virtual launch introducing India’s UPI transactions, highlighting their groundbreaking impact in connecting Sri Lanka and India.
-
-Jointly implemented by NPCI International Payments Limited and Sri Lanka’s LankaPay, the program seeks to rapidly expand this payment system across 10,000 stores simultaneously. By March 2024, there are plans to further extend this facility to encompass a staggering 65,000 stores nationwide.
-
-...
-
-[Data](articles/3a6ad78a.json)
-
-[Extended Data](ext_articles/3a6ad78a.ext.json)
-
----
-
-### New leader of Bangladesh cricket team
-
-*2024-02-12 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193302) · `si`
-
-Bangladesh Cricket Board has appointed a new leader for the country's national cricket team.
-
-Njjamul was appointed as the leader of the Bangladesh team.
-
-The foreign media has reported that he has been appointed as the leader of the Test, ODI and Twenty20 teams.
-
-This news is the context of reports that the Bangladesh team will lead the Bangladesh in the next T20 World Twenty World Cup.
-
-◼️
-
-[Data](articles/4687b577.json)
-
-[Extended Data](ext_articles/4687b577.ext.json)
-
----
-
-### World Cup competition under the age of 19;Identified Future Stars (Part 2 - Players)
-
-*2024-02-12 22:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176230) · `ta`
-
-In South Africa, the ICC men in the Under -19 World Cup cricket match have scored centuries.
-
-Five of Australia and India, who played in the finals, reached the milestone. Three of them are Indians and the other two are Australians.
-
-Indian captain Uday Saharan is in the forefront of a total of 397 runs in 7 matches. He had accumulated 3 half centuries, including a century. He also led the team better.
-
-Mushir Khan, another best player in India, scored 360 runs. He was the one who scored 2 centuries in this World Cup. As well as he received a half century. He also took 7 wickets in bowling and made all the field players.
-
-Have accumulated more runs in Australi players. He played in 7 matches and scored 309 runs with 3 half centuries. Accordingly, he is ranked 3rd in the lineup.
-
-Australian captain Hue Weijen was very efficiently batting and became a world champion.. He scored 304 runs in 7 matches, including one half and a half.
-
-...
-
-[Data](articles/b868649d.json)
-
-[Extended Data](ext_articles/b868649d.ext.json)
-
----
-
-### World Cup competition under the age of 19;Identified Future Stars (Part 1 - Boweler)
-
-*2024-02-12 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/176229) · `ta`
-
-The energies of some players in the under -19 World Cup cricket match, which was an exam platform for future stars in the International Cricket Forum.
-
-Six players in the bowling and five players in the bowling showed their talents.
-
-Among them, South Africa's left -handed bowler Guena Mafaka rose to all other players.
-
-Givena Mafaka, who played six matches this year, took 21 wickets including three 5 wickets piles and won the tournament award in the 15th 19th World Cup chapter.
-
-In the history of the Under -19 World Cup, the one who took the highest 22 wickets in the 2014 World Cup in the 2014 World Cup was the Enmul Haq Junior of Bangladesh.
-
-However, 17 -year -old Mafaka is the first player to record three 5 wickets piles.
-
-In the match against Sri Lanka, he took 6 wickets for 21 runs and recorded his excellent bowling.
-
-Mafaka, who made his debut as a 15 -year -old player in the under -19 World Cup in the Caribbean Islands two years ago, took 7 wickets in 3 matches.
-
-...
-
-[Data](articles/406d9169.json)
-
-[Extended Data](ext_articles/406d9169.ext.json)
-
----
-
-### India’s NCGG holds capacity building programme for senior civil servants of Sri Lanka
-
-*2024-02-12 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97207/indias-ncgg-holds-capacity-building-programme-for-senior-civil-servants-of-sri-lanka) · `en`
-
-The first executive batch of the special capacity building programme for senior civil servants of Sri Lanka organised by the National Centre for Good Governance (NCGG) of India commenced today at New Delhi.
-
-The programme is being organised from 12th February 2024 to 17th February 2024. The programme is being attended by fourteen senior civil servant officers from Sri Lanka working under capacities as Secretary to the Prime Minister, Deputy Solicitor General, Directors, Executive Director among others.
-
-The NCGG, an autonomous institution under the Department of Administrative Reforms and Public Grievances, Ministry of Personnel, Public Grievances and Pensions, Government of India, is committed to action research, studies, and capacity building in public policy and governance at both the national and international levels, a statement said.
-
-...
-
-[Data](articles/2d3a6d82.json)
-
-[Extended Data](ext_articles/2d3a6d82.ext.json)
-
----
-
-### Is the police sleep when the Meegoda economy robes?
-
-*2024-02-12 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193301) · `si`
-
-The Meegoda Economic Center (Economic Center) has alleged that the police post officers have been selected for security at the Meegoda Economic Center.
-
-Secretary of the Meegoda Economic Center Chaminda and Rohana Kumara said no police officer had not yet arrived at the scene.
-
-The Trade Association also charged the employees of the Economic Center to go to the police checkpoint.
-
-The police post installed at the Meegoda Economic Center is close to the robbery.
-
-In the face of this, the Trade Association has informed the authorities that it does not care about its security.
-
-As a result, its traders have left the stock trade, claiming that the security provided to the Economic Center is not sufficient.
-
-Police have not been able to arrest anyone in connection with the incident and investigations have been started.
-
-Two arms were launched around 1.25 am this morning.
-
-The robbers shooting a shot and the taximan was slightly injured.
-
-◼️
-
-[Data](articles/d98cc8ad.json)
-
-[Extended Data](ext_articles/d98cc8ad.ext.json)
 
 ---

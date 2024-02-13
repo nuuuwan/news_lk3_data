@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 05:56:43**
+As of **2024-02-13 06:16:20**
 
 ## Newspaper Stats
 
-*Scraped **6,597** Articles*
+*Scraped **6,598** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ economynextcom | 339
 islandlk | 347
 dailyftlk | 359
 newsfirstlk | 363
-adalk | 557
+adalk | 558
 tamilmirrorlk | 803
 adaderanalk | 803
 virakesarilk | 829
@@ -26,7 +26,7 @@ dailymirrorlk | 963
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,597 (100.0%) of 6,597 articles have been extended.
+6,597 (100.0%) of 6,598 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -777,6 +777,24 @@ However, the wildlife conservators from Walathapitiya Wildlife Office are exerci
 [Data](articles/40e11c1d.json)
 
 [Extended Data](ext_articles/40e11c1d.ext.json)
+
+---
+
+### රාජ්‍ය ආදායම රු. බිලියන 3201 වියදම රු. බිලියන 4394
+
+*2024-02-12 20:49:40* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ආදායම-රු--බිලියන-3201-වියදම-රු--බිලියන-4394/11-408046) · `si`
+
+ශ්‍රී ආර්ථිකය ගොඩනැඟීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගෙනයන ආර්ථික වැඩපිළිවළ හැර වෙනත් විකල්ප ක්‍රම තිබේ නම් ඒ සඳහා ඕනෑම මාධ්‍යයක ඕනෑම කණ්ඩායමක් සමඟ සංවාදයකට සූදානම් බව මහාමාර්ග, ප්‍රවාහන හා ජනමාධ්‍ය අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පැවසීය.
+
+රාජ්‍ය මූල්‍ය කළමනාකරණය සම්බන්ධ දුර්වල දැනුමක් සහිත කණ්ඩායම් ජනතාව හමුවේ අසත්‍ය ප්‍රචාර ගෙන යමින් සිටින බවත් ශ්‍රී ලංකාවේ ආර්ථිකය ගොඩනැඟීම වචනවලින් පමණක් සිදු කළ නොහැකි බවත් අමාත්‍යවරයා සඳහන් කළේය.
+
+අමාත්‍ය බන්දුල ගුණවර්ධන මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ අද (12) පැවති මාධ්‍ය සාකච්ඡාවට එක්වෙමිනි.
+
+2023 වසරේ බදු පැනවිම තුළින් ලබාගත් රාජ්‍ය ආදායම රුපියල් බිලියන 3201ක් වන බවත් සහනාධාර, වැටුප් බිල් සහ රාජ්‍ය ණය බිල්පත් සඳහා භාණ්ඩාගාරයෙන් වියදම් කර ඇති මුදල රුපියල් බිලියන 4394ක් බවත් පෙන්වා දුන් අමාත්‍යවරයා රාජ්‍ය වියදම්වලින් අඩු කරන්නේ කුමන කොටසද යන්න විකල්ප මත දරන කණ්ඩායම් ජනතාවට ප්‍රකාශ කළ යුතු බවද සඳහන් කළේය.
+
+...
+
+[Data](articles/6fd290bd.json)
 
 ---
 
@@ -2021,21 +2039,5 @@ The officer added that the further investigations of the body have been reported
 [Data](articles/3ee0de0e.json)
 
 [Extended Data](ext_articles/3ee0de0e.ext.json)
-
----
-
-### Amarakeerthi Athukorala murder event - Supreme Court orders
-
-*2024-02-12 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193290) · `si`
-
-The Supreme Court today ordered the Petition filed by the Attorney General to issue a three-member highlight order to issue a three-member highlighting order to release the decision of the President of Parliament during the struggle.
-
-The order was issued after considering the three-member Supreme Court judge, who is today and today's Supreme Court judge.
-
-◼️
-
-[Data](articles/7a303d63.json)
-
-[Extended Data](ext_articles/7a303d63.ext.json)
 
 ---

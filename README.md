@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 21:34:13**
+As of **2024-02-13 21:51:57**
 
 ## Newspaper Stats
 
-*Scraped **6,794** Articles*
+*Scraped **6,797** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,65 @@ newsfirstlk | 363
 adalk | 581
 adaderanalk | 833
 tamilmirrorlk | 835
-virakesarilk | 856
-adaderanasinhalalk | 949
+virakesarilk | 857
+adaderanasinhalalk | 951
 dailymirrorlk | 995
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,794 (100.0%) of 6,794 articles have been extended.
+6,797 (100.0%) of 6,797 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### Cabinet permits to construct two new hospitals in Gampaha district
+
+*2024-02-13 21:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/176305) · `ta`
+
+The Cabinet has approved the construction of a National Hospital and Child Hospital in Piyagama, Gampaha District.
+
+Due to high population and industrialization, Gampaha district is a major service supply center.
+
+This has increased the demand for health services and the need to construct the National Hospital and the Children's Hospital to meet the need.
+
+Therefore, it has been proposed to construct a National Hospital and Child Hospital under the state -private contribution in Gampaha district.
+
+The scheme will be implemented after providing land and infrastructure in Biyagama.
+
+The Cabinet has approved the proposal submitted to implement the plan put forward by the President and the Minister of Health.
+
+◼️
+
+[Data](articles/b649df13.json)
+
+[Extended Data](ext_articles/b649df13.ext.json)
+
+---
+
+### A voice of Patta murder
+
+*2024-02-13 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193343) · `si`
+
+A suspect had been arrested in Tambuttegama this morning (13) this morning.
+
+The Western Criminal Division of the Western Southern Crimes Division was arrested and the revolver used for the murder was also found.
+
+The 'Musliard Amarasinghe' in Dubai, who is the murder of the suspect, has been given a sum of Rs.
+
+However, Thilina Sampath, who is suspected of the shot, has been brought to Dubai to the State of Dubai on the 7th.
+
+Patta karages were abducted and shot dead, the murderers had been given a telephone call.
+
+◼️
+
+[Data](articles/a70c1320.json)
+
+[Extended Data](ext_articles/a70c1320.ext.json)
+
+---
 
 ### Declaration of Health Department Essential Service
 
@@ -43,6 +89,24 @@ The gazette has been issued by the state to declare all the services, work or wo
 [Data](articles/aaac12e0.json)
 
 [Extended Data](ext_articles/aaac12e0.ext.json)
+
+---
+
+### Gazette notification for health services
+
+*2024-02-13 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193342) · `si`
+
+A special gazette notification has been issued with many services related to health care.
+
+It is said that it was issued as per the commander of the President.
+
+Accordingly, all service work or labor have been substantiated in hospitals, nursing homes, peppers and other equal organizations.
+
+◼️
+
+[Data](articles/4ab66836.json)
+
+[Extended Data](ext_articles/4ab66836.ext.json)
 
 ---
 
@@ -1947,49 +2011,5 @@ A large amount of land owned by government plantation agencies such as the Janat
 [Data](articles/1ef78425.json)
 
 [Extended Data](ext_articles/1ef78425.ext.json)
-
----
-
-### Former member of the Municipal Council Municipal Council
-
-*2024-02-13 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176265) · `ta`
-
-Horana's headquarters headquarters police said that Nalin Chinthaka, a former member of the Horana Municipal Council (PA), suspected that he had entered the office of the Chief Engineer of Horana and attacked the Electricity Superintendent of Commerce.
-
-The other suspect in connection with the attack, Sarathi, was arrested that day and was produced before Horan at the Magistrate's Court until the 21st of this month.
-
-◼️
-
-[Data](articles/c4babbe2.json)
-
-[Extended Data](ext_articles/c4babbe2.ext.json)
-
----
-
-### Artificial intelligence in the school curriculum
-
-*2024-02-13 12:13:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-பாடத்திட்டத்தில்-செயற்கை-நுண்ணறிவு/175-333127) · `ta`
-
-It has been discussed at the Cabinet meeting held on 02.10.2023 and it is reported that the curriculum will be introduced in the future.
-
-◼️
-
-[Data](articles/af642c6b.json)
-
-[Extended Data](ext_articles/af642c6b.ext.json)
-
----
-
-### Health workers protest...
-
-*2024-02-13 12:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Health-workers-protest/110-276918) · `en`
-
-Trade unions attached to the Federation of Health Professionals of the health sector engaged in an island wide strike today, demanding a solution to a long-standing dispute over the Disturbance, Availability and Transport (DAT) allowance. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/85ca298d.json)
-
-[Extended Data](ext_articles/85ca298d.ext.json)
 
 ---

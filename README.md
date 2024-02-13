@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 09:51:28**
+As of **2024-02-13 10:02:22**
 
 ## Newspaper Stats
 
@@ -26,51 +26,55 @@ dailymirrorlk | 968
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,635 (100.0%) of 6,637 articles have been extended.
+6,637 (100.0%) of 6,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
-### බස් - ලොරි අනතුරින් 6කට තුවාලයි
+### Bus - Lori injured in accident
 
 *2024-02-13 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193316) · `si`
 
-කිලිනොච්චිය, කොකාවිල් ප්‍රදේශයේදී ශ්‍රී ලංකා ගමනාගමන මණ්ඩලයේ බස් රථයක් හා යුද හමුදා සාමාජිකයින් පිරිසක් රැගෙන ගිය ලොරි රථයක් එකිනෙක ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+Kilinochchi, a bus bus and a lorry carrying Army personnel in Kokavil area, had accidental.
 
-අනතුරින් පුද්ගලයින් 6දෙනෙකු තුවාල ලබා ඇති බව මාන්කුලම පොලීසිය පවසයි.
+Six persons were injured in the accident, Mankulama police say.
 
-පොලීසිය පැවසූවේ මුලතිව්, තුනුක්කායි ප්‍රදේශයේ සිට යාපනය, කරෙයිනගර් දක්වා ගමන්ගත් ශ්‍රී ලංකා ගමනාගමන මණ්ඩලයට අයත් බස් රථයක් හා මාන්කුලම දෙස සිට කිලිනොච්චිය දෙසට ගමන්ගත් යුද හමුදා සාමාජිකයින් රැගෙන ගිය ලොරි රථයක් එකිනෙක ගැටීමෙන් අනතුර සිදුව ඇති බවය.
+Police said the accident had occurred from a bus belonging to Karainagar traveling from Thunukkai from Mullaittivu to Karainagar, a lorry.
 
-අනතුරින් ලොරි රථය පෙරළී ගොස් තිබු අතර, එහි ගමන්ගත් යුද හමුදා සාමාජිකයින් සිව්දෙනෙකු තුවාල ලබා ඇති අතර, බස් රථයේ රියදුරු හා බස් රථයේ ගමන්ගත් කාන්තාවක්ද තුවාල ලබා කිලිනොච්චිය රෝහලට ඇතුළත් කොට තිබිණි.
+The lorry was rolled and four soldiers were injured and a woman in the bus was injured and admitted to the Kilinochchi hospital.
 
-තුවාලකරුවන්ගේ තත්ත්වය බරපතළ නොවන බව රෝහල් ආරංචි මාර්ග පැවසු අතර, අනතුර සම්බන්ධයෙන් බස් රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පැවසීය.
+Hospital sources claimed that the condition of the injured were not serious, police said that the bus driver has been arrested in connection with the accident.
 
-වේගය පාලනය කර ගැනීමට නොහැකිව අනතුර සිදුව ඇති අතර, සිද්ධිය සම්බන්ධයෙන් මාන්කුලම පොලීසිය වැඩිදුර පරික්ෂණ මෙහෙයවයි.
+The accident occurred, and the Mankulam Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/3f91b68b.json)
 
+[Extended Data](ext_articles/3f91b68b.ext.json)
+
 ---
 
-### மாணவியின் தவறான முடிவால் தவிக்கும் குடும்பம்
+### The family is stranded by the student's wrong decision
 
 *2024-02-13 09:03:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மாணவியின்-தவறான-முடிவால்-தவிக்கும்-குடும்பம்/72-333115) · `ta`
 
-முல்லைத்தீவு - புதுக்குடியிருப்பு பிரதேசத்தில் பாடசாலை மாணவி ஒருவர் தவறான முடிவினை எடுத்ததினால் உயிரிழந்த நிலையில், சடலம் புதுக்குடியிருப்பு ஆதார வைத்தியசாலையில்  வைக்கப்பட்டுள்ளது.
+The body has been placed at the Pudukkudiyiruppu resource hospital after a schoolgirl made a wrong decision in Mullaitivu - Pudukkudiyiruppu area.
 
-புதுக்குடியிருப்பு - இரணைப்பாலை பகுதியில் வசிக்கும் 18 வயதுடைய மாணவியான நிதர்சினி என்பவரே இவ்வாறு தவறான முடிவினை எடுத்துள்ளார்.
+Nitarsini, an 18 -year -old student from Pudukkudiyiruppu - Iranipalai area, has made the wrong decision.
 
-வீட்டில் பெற்றோர்கள், உறவினர்கள் இல்லாத நிலையில் குறித்த மாணவி தனது அறைக்குள் தூக்கில் தொங்கிய நிலையில் காணப்பட்டுள்ளார்.
+In the absence of parents and relatives at home, the student was found hanging in her room.
 
-இதைத் தொடர்ந்து பிரதேசவாசிகள், அயலவர்கள் இணைந்து குறித்த மாணவியினை மீட்டு புதுக்குடியிருப்பு ஆதார வைத்தியசாலைக்கு கொண்டுசெல்லப்பட்டபோதும், அவர் உயிரிழந்து விட்டதாக வைத்திய அதிகாரி தெரிவித்துள்ளார்.
+Following this, the residents and neighbors were rescued and taken to the Pudukkudiyiruppu Resource Hospital, but he died, the medical officer said.
 
-இவரது சடலம் புதுக்குடியிருப்பு மருத்துவமனையில் வைக்கப்பட்டுள்ளதுடன் இந்த உயிரிழப்பு தொடர்பில் புதுக்குடியிருப்பு பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டுவருகின்றார்கள். R
+The body is being kept at Pudukkudiyiruppu Hospital and the Pudukkudiyiruppu police are conducting further investigations into the death.. Remble
 
 ◼️
 
 [Data](articles/82698b43.json)
+
+[Extended Data](ext_articles/82698b43.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 16:49:35**
+As of **2024-02-13 17:02:35**
 
 ## Newspaper Stats
 
-*Scraped **6,745** Articles*
+*Scraped **6,746** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 572
 adaderanalk | 822
 tamilmirrorlk | 828
 virakesarilk | 850
-adaderanasinhalalk | 946
+adaderanasinhalalk | 947
 dailymirrorlk | 983
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,745 (100.0%) of 6,745 articles have been extended.
+6,746 (100.0%) of 6,746 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### Diana Gamage - Declaration of Differs Declare Free
+
+*2024-02-13 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193337) · `si`
+
+The Supreme Court was postponed to announce its verdict on the verdict of the Court of Appeal.
+
+The petition examination was held in the face of a three-member judge's bag with Gamini Amarasekera and Kumuduni Wickramasinghe and Janaka de Silva.
+
+The appearance of this appeal was presented by a social activist, Mr. Oshala Herath.
+
+Attorney at Law Hafiel Faris, who appeared on behalf of the petitrator Dana Gamage, appeared for the petitioner party.
+
+The Supreme Court then ended the petition exam, was postponed to announce its verdict.
+
+◼️
+
+[Data](articles/198da506.json)
+
+[Extended Data](ext_articles/198da506.ext.json)
+
+---
 
 ### Health strike
 
@@ -2027,23 +2049,5 @@ The driver of the jeep has been arrested, and the Saliyawewa Police are conducti
 [Data](articles/3a9dad8e.json)
 
 [Extended Data](ext_articles/3a9dad8e.ext.json)
-
----
-
-### SJB ready for scrapping executive presidency
-
-*2024-02-13 09:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SJB-ready-for-scrapping-executive-presidency/155-276907) · `en`
-
-Colombo, Feb 13 (Daily Mirror) - Indicating that Samagi Jana Balawegaya (SJB) would extend conditional support for the scrapping of the executive presidency, Leader of Opposition Sajith Premadasa said his party would support such an amendment but said it has to be implemented after holding an election.
-
-“We believed in executive Presidency initially. However, we have now understood the damage it could cause to the rule of law. Therefore, we have changed our stance on it now,” Mr. Premadasa told the SJB Lawyers Association convention.
-
-“However, we are not favourable towards abolishing the presidency without holding a presidential election or any election for that matter. We insist that people’s right to franchise should not be violated,” he said.
-
-...
-
-[Data](articles/b46284e8.json)
-
-[Extended Data](ext_articles/b46284e8.ext.json)
 
 ---

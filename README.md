@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 00:03:32**
+As of **2024-02-14 00:17:29**
 
 ## Newspaper Stats
 
-*Scraped **6,813** Articles*
+*Scraped **6,814** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 363
 adalk | 581
 tamilmirrorlk | 835
 adaderanalk | 836
-virakesarilk | 861
+virakesarilk | 862
 adaderanasinhalalk | 954
 dailymirrorlk | 1,001
 
@@ -26,11 +26,27 @@ dailymirrorlk | 1,001
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,813 (100.0%) of 6,813 articles have been extended.
+6,813 (100.0%) of 6,814 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### கனேடியத் தூதுவரை சந்தித்த சிறீதரன், சாள்ஸ்
+
+*2024-02-13 23:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176310) · `ta`
+
+இலங்கைக்கான கனேடியத் தூதரகத்தின் அழைப்பின் பேரில், பாராளுமன்ற உறுப்பினர்களான சிவஞானம் சிறீதரன் மற்றும் சாள்ஸ் நிர்மலநாதன் ஆகியோர்  13 ஆம் திகதி செவ்வாய்க்கிழமை கனேடியத் தூதுவர் எரிக் வோல்ஸை சந்தித்தார்கள்.
+
+இச்சந்திப்பில் கனேடியத் தூதரகத்தின் அரசியல் ஆலோசகர் டேனியல் வூட், அரசியல் அலுவலர் கணேசநாதன் சாகித்தியனன் ஆகியோரும் பங்கேற்றிருந்தனர்.
+
+இலங்கைத் தமிழரசுக் கட்சியின் புதிய தலைவராகத் தெரிவுசெய்யப்பட்டமைக்காக சிறீதரன் எம்.பிக்கு வாழ்த்துகளைத் தெரிவித்த தூதுவர், ஈழத்தமிழர்களின் அரசியல் நலன்சார்ந்து முன்னெடுக்கவுள்ள செயற்பாடுகளுக்கு தம்மாலான பங்களிப்பை வழங்கத் தயாராக உள்ளதாகவும் தெரிவித்திருந்தார்.
+
+◼️
+
+[Data](articles/d6309b0a.json)
+
+---
 
 ### SC rules against an overholding tenant after 21 years legal battle
 
@@ -2027,23 +2043,5 @@ Among the proposals is to revise the international syllabus currently implemente
 [Data](articles/f4866278.json)
 
 [Extended Data](ext_articles/f4866278.ext.json)
-
----
-
-### Presidential Election on schedule, General Election set for next year: PMD
-
-*2024-02-13 12:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Presidential-Election-on-schedule-General-Election-set-for-next-year-PMD/155-276921) · `en`
-
-Colombo, Feb 13 (Daily Mirror) - The President's Media Division (PMD) confirmed that the Presidential Election will be held within the mandated period and will adhere to the current timeline.
-
-According to the PMD, the General Election is will be held next year with financial provisions to be provided for in the 2025 budget.
-
-The Election Commission is responsible for conducting the elections and the Government will communicate with the Commission as and when required, the PMD further said.
-
-◼️
-
-[Data](articles/e58c4018.json)
-
-[Extended Data](ext_articles/e58c4018.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 18:33:06**
+As of **2024-02-13 18:51:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 986
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,770 (100.0%) of 6,771 articles have been extended.
+6,771 (100.0%) of 6,771 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The Senate vote occurred before sunrise, after eight hardline Republican opponen
 ...
 
 [Data](articles/77c47a5d.json)
+
+[Extended Data](ext_articles/77c47a5d.ext.json)
 
 ---
 

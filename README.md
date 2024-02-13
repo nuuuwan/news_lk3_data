@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 08:51:09**
+As of **2024-02-13 09:02:32**
 
 ## Newspaper Stats
 
-*Scraped **6,621** Articles*
+*Scraped **6,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,46 @@ adalk | 559
 adaderanalk | 805
 tamilmirrorlk | 809
 virakesarilk | 829
-adaderanasinhalalk | 920
+adaderanasinhalalk | 926
 dailymirrorlk | 964
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,621 (100.0%) of 6,621 articles have been extended.
+6,627 (100.0%) of 6,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### Avoided lover boyfriend, a girlfriend of sweetheart
+
+*2024-02-13 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193315) · `si`
+
+The 22-year-old girl who was trying to miss out for many years, the 19-year-old boyfriend of the 19-year-old boyfriend has been remanded until the 22nd of this month.
+
+The suspect is a resident of Ulukarai area in Gampola.
+
+She had a romantic relationship with a young man involved in fishing in Gampola.
+
+In time, though, when she heard her to give up her, she learned that his decision was not changed, she would not change the photographs of them in the face of their faces.
+
+The young man with this has assaulted her to remove the photos from the facial book and her mother and brother also intervened.
+
+Accordingly, the young man and the youth had come to the Public Market and the young man had been assaulted by the girl's brother's brother.
+
+The son was taken to the hospital where the mother was attacked and was taken to the hospital.
+
+The injured boyfriend has been admitted to the Gampola Teaching Hospital and the others were arrested by the police.
+
+◼️
+
+[Data](articles/9c85369f.json)
+
+[Extended Data](ext_articles/9c85369f.ext.json)
+
+---
 
 ### Mahinda Rajapaksa released the report
 
@@ -49,6 +77,28 @@ He said the Uma Oya project was the only major infrastructure project that the P
 [Data](articles/ce5908da.json)
 
 [Extended Data](ext_articles/ce5908da.ext.json)
+
+---
+
+### Trump asks the Supreme Court to suspend electoral case
+
+*2024-02-13 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193314) · `si`
+
+Former President of former President Donald Trump has requested the Supreme Court of the Supreme Court to suspend the lower judiciary decisions that there is no presence.
+
+Trump points out that the 2020 election against Mr. Donald Trump is the case with the 2020 election and the Tample is the purpose of sabotage his presidential election campaign.
+
+His lawyers have requested the Supreme Court to take action to suspend the lower courts.
+
+In the meantime, Donald Trump is officially removed from NATO, if Donald Trump is the second president of NATO.
+
+Donald Trump had previously stated that NATO is not met anymore, the US would spend money on NATO.
+
+◼️
+
+[Data](articles/fc732967.json)
+
+[Extended Data](ext_articles/fc732967.ext.json)
 
 ---
 
@@ -76,6 +126,28 @@ The driver of the car in which the MP was traveling has been arrested by Saliyaw
 
 ---
 
+### Man arrested for set fire to a dog mut
+
+*2024-02-13 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193313) · `si`
+
+Yakala Police say that a person has been arrested in Imbulgoda, Gampaha.
+
+A neighboring neighbor was burned down on the 10th of the night, a nearby neighbor at the Imbulgoda Navigation, Gampaha.
+
+It was revealed that the suspect is a householder of German shepherd dogs and set fire to the manga with these dogs.
+
+The owners of the murdered dog chief have lodged a complaint with the Yakkala Police regarding the incident and the investigated police officers arrested the suspect.
+
+The suspect was to be produced in court yesterday (12).
+
+◼️
+
+[Data](articles/d1e54dc6.json)
+
+[Extended Data](ext_articles/d1e54dc6.ext.json)
+
+---
+
 ### The death of the constable drowning in the water
 
 *2024-02-13 07:37:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-கான்ஸ்டபிள்-மரணம்/175-333111) · `ta`
@@ -91,6 +163,36 @@ Investigations have revealed that the constable was drowned while bathing in the
 [Data](articles/cbe9309f.json)
 
 [Extended Data](ext_articles/cbe9309f.ext.json)
+
+---
+
+### Several deadly accidents
+
+*2024-02-13 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193312) · `si`
+
+Five people have been killed in several areas in several areas.
+
+A 28-year-old youth was killed in an accident near the Dickwella-Beliatta 7 Post
+
+The accident had occurred when the backing of a bus traveling from Matara to Midadeniya.
+
+The motorcyclist has died after being taken seriously injured by the bus on the back of the bus after the accident.
+
+Meanwhile, a 72-year-old man was killed in a bus collided with a bus carrying school children near the Trekbal Junction on the Colombo-Galle main road.
+
+Meanwhile, a 49-year-old man has died in a crash of a lorry road near the Galle Police Division in Kalutara North Police Division.
+
+The man is a 49 year old resident of Wattala, Hendala, Wattala.
+
+Meanwhile, a person has been killed in a crash of two motorcycles in the Kakirawa-Talawa road.
+
+The deceased has been identified as a 37 year old resident of Ipalogama.
+
+...
+
+[Data](articles/c98ae401.json)
+
+[Extended Data](ext_articles/c98ae401.ext.json)
 
 ---
 
@@ -131,6 +233,48 @@ Misty conditions can be expected at some places in Western and Sabaragamuwa prov
 [Data](articles/ea79a20e.json)
 
 [Extended Data](ext_articles/ea79a20e.ext.json)
+
+---
+
+### Health workers launched strike
+
+*2024-02-13 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193311) · `si`
+
+72 health unions have decided to strike at 6.30 am today (13).
+
+The convener of the Department of Health Trade Ravi Kudmith said that this strike will be the strike asking for the doctors to give them a gift.
+
+Meanwhile, All Ceylon Nursing Association Secretary SB Mediwathtu said that a protest in Colombo will be held tomorrow (14) due to the absence of the nursing service.
+
+◼️
+
+[Data](articles/c4c2e8ad.json)
+
+[Extended Data](ext_articles/c4c2e8ad.ext.json)
+
+---
+
+### The A / L student prepared for the milestone is life
+
+*2024-02-13 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193310) · `si`
+
+A student student who had committed suicide was reported yesterday to sit for the Advanced Level Examination in the Ikalai area in Mullaitivu, Pudukuduviu.
+
+Police said that a 18-year-old student had passed away.
+
+Investigations have revealed that the girl had committed suicide in the absence of none of the house.
+
+The girl had been diagnosed with her husband, and the girl was taken to the Pudukuduirippu hospital.
+
+It is reported that the girl has been killed at the time of hospitalization.
+
+The body has been placed at the Pudukudiirippu hospital morgue and the police are conducting further investigations.
+
+◼️
+
+[Data](articles/ebab11a5.json)
+
+[Extended Data](ext_articles/ebab11a5.ext.json)
 
 ---
 
@@ -1895,149 +2039,5 @@ In light of these developments, Dr. Perera issued a stern call to parents, urgin
 [Data](articles/fa6de06b.json)
 
 [Extended Data](ext_articles/fa6de06b.ext.json)
-
----
-
-### Correct Correct Recovery from Lindulai Akarakanda River
-
-*2024-02-12 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176207) · `ta`
-
-A body of an unidentified woman has been recovered on Monday (12) in the Nagasena River, which is a resident of the Kotmalai water reservoir of the Talawakelle police division of the Lindulai Police Division.
-
-Lindula police have noticed that a body of passengers traveling from Nagasena to Talawakalai area was found in the river.
-
-This has also been revealed to the people of the area. However, the police said that the information about the woman lying in the water has not yet been identified.
-
-The matter has also been announced to the attention of the Nuwara Eliya District Magistrate's Court.
-
-At the same time, the magistrate visited the scene and visited the body after visiting the body.
-
-◼️
-
-[Data](articles/a04801c2.json)
-
-[Extended Data](ext_articles/a04801c2.ext.json)
-
----
-
-### Sri Lanka rupee closes at 313.45/75 to the US dollar
-
-*2024-02-12 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-313-45-75-to-the-us-dollar-150649/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 313.45/75 to the US dollar Monday, from 313.00/10 on Friday, dealers said.
-
-A bond maturing on 01.02.2026 closed at 10.80/90 percent down from 10.80/95 percent.
-
-A bond maturing on 15.09.2027 closed at 11.65/75 percent from 11.65/80 percent.
-
-A bond maturing on 15.03.2028 closed at 12.00/10 percent from 12.05/20 percent.
-
-A bond maturing on 15.07.2029 closed at 12.35/75 percent from 12.50/80 percent.
-
-A bond maturing on 15.05.2030 closed at 12.15/35 percent down from 12.25/45 percent.
-
-A bond maturing on 15.05.2031 closed at 12.45/85 percent from 12.50/90 percent.
-
-A bond maturing on 01.07.2032 closed at 12.45/85 percent down from 12.50/90 percent. (Colombo/Feb12/2024)
-
-◼️
-
-[Data](articles/8370965e.json)
-
-[Extended Data](ext_articles/8370965e.ext.json)
-
----
-
-### Promotion to the deceased police officer
-
-*2024-02-12 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193295) · `si`
-
-Sub Inspector of Police sergeant has been promoted while he was hospitalized when he was hospitalized when he was hospitalized.
-
-Acting IGP The decision was taken by Mr. Deshabandu Tennakoon.
-
-The officer had died yesterday (11) while he was receiving treatment at the Colombo National Hospital.
-
-The suspect has attempted to have the firearm of the police officer due to a conflict in the Malvathathhipitiya Police Station to arrest a suspect in the police station last Saturday.
-
-The suspect was shot dead by the firearm and the suspect had taken away officials.
-
-The police officer who was injured in the shooting was admitted to the Gampaha National Hospital for further treatment.
-
-The police sergeant was killed and he is a 51-year-old resident of the Lunugama area.
-
-◼️
-
-[Data](articles/f159eb59.json)
-
-[Extended Data](ext_articles/f159eb59.ext.json)
-
----
-
-### Gangol, including hiding, and hidden people
-
-*2024-02-12 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193294) · `si`
-
-The Kuliya, including the Thilari Walana Balama, has been arrested by the Thilari Walana Walana Balana.
-
-The gang has been arrested during a special operation conducted by the Director of Walana Central Anti-Corruption Balana Balaya, Director of Walana Central Corruption.
-
-Dinesh Pushpakumara, known as Dinesh Pushpakumara, known as Dinesh Pushpakumara, a nickname, is arrested.
-
-The suspect had been conducted by the suspect.
-
-However, the suspect, whose name has fled the area along the operation of justice, has fled the area.
-
-Accordingly, the Walana Central Anti-Corruption Attack Corps has received information that the suspect has been hiding from the Kuda Oya to the usual.
-
-According to information, a group of the Walana Central Anti-Corruption Appointment Officers have been identified and arrested at the Kuda Oya Valved Duties.
-
-The suspect was recovered by 490 grams of heroin and handed over to the Kudaoya Police for further investigations.
-
-...
-
-[Data](articles/ccd3b68f.json)
-
-[Extended Data](ext_articles/ccd3b68f.ext.json)
-
----
-
-### CIT inquiry into a container driver collided with Sanath Nishantha's car
-
-*2024-02-12 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/176211) · `ta`
-
-Former State Minister Sanath Nishantha has confessed to the murder and organized Criminal Investigation Division of the Criminal Investigation Department on Monday (12).
-
-Investigations were made to him regarding the death of the former diplomatic minister and his security officer.
-
-Nishantha's wife Mrs. Samari Priyanka has lodged a complaint with the Criminal Investigation Department demanding a proper investigation into the accident.
-
-◼️
-
-[Data](articles/a79c8663.json)
-
-[Extended Data](ext_articles/a79c8663.ext.json)
-
----
-
-### Sri Lanka stocks close up, turnover remains low
-
-*2024-02-12 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-remains-low-150645/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
-
-The broader All Share Index closed up 16.69 points, or 0.16 percent at 10,584, while the S&P SL20 Index closed up at 3,032 points, up 0.18 percent, or 5.52 points.
-
-Distilleries Company of Sri Lanka Plc saw relatively high volumes (26mn) being traded, and the share closed down at 25.80. Its parent company Melstacorp Plc saw shares close up at 84.50.
-
-After the amalgamation with Singer Industries (Ceylon) Plc and Regnis (Lanka) Plc, Singer (Sri Lanka) Plc announced that it had issued 40,731,422 ordinary voting shares. The share closed up at 12.60.
-
-Seylan Developments Plc offered to repurchase up to a maximum of 14,796,486 ordinary shares at 21.64 rupees a share, on a pro-rata basis of one (01) ordinary share for every ten (10) ordinary shares held. The share closed up at 14.70.
-
-...
-
-[Data](articles/95629d8e.json)
-
-[Extended Data](ext_articles/95629d8e.ext.json)
 
 ---

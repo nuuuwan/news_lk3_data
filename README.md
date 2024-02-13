@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 22:50:01**
+As of **2024-02-13 23:02:24**
 
 ## Newspaper Stats
 
-*Scraped **6,802** Articles*
+*Scraped **6,805** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 581
 adaderanalk | 835
 tamilmirrorlk | 835
 virakesarilk | 857
-adaderanasinhalalk | 951
+adaderanasinhalalk | 954
 dailymirrorlk | 998
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,802 (100.0%) of 6,802 articles have been extended.
+6,805 (100.0%) of 6,805 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### Todumbu Civil Police
+
+*2024-02-13 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193346) · `si`
+
+Four LTTE cadres have arrived in civilian dress on a tip off received by drugs and two youths were assaulted by the officials.
+
+The officials were also retaliated and then unrest with the residents of the area.
+
+However, residents accused nearly 40 civilian police officers and damaged them from motorbikes and three-wheelers in three-wheelers.
+
+◼️
+
+[Data](articles/cc4b87e4.json)
+
+[Extended Data](ext_articles/cc4b87e4.ext.json)
+
+---
+
+### The accused oic accused
+
+*2024-02-13 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193345) · `si`
+
+The OIC of the Kalpitiya Police has been presented to the court.
+
+The officer has been bailed and the case will be taken up again on March 6.
+
+◼️
+
+[Data](articles/5f20ab40.json)
+
+[Extended Data](ext_articles/5f20ab40.ext.json)
+
+---
 
 ### Brazilian President Lula da Silva accepts invitation to visit Sri Lanka
 
@@ -49,6 +83,36 @@ He recalled the constructive interactions that the leaders of Sri Lanka and Braz
 [Data](articles/d2dec79a.json)
 
 [Extended Data](ext_articles/d2dec79a.ext.json)
+
+---
+
+### The names of 4 containers caught
+
+*2024-02-13 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193344) · `si`
+
+Customs had inspected four suspects in Malaysia to Sri Lanka.
+
+There were 44,000 finished clothes in the 40-foot containers that were imported into fabric.
+
+Customs officials said that the government's loss of taxes lost Rs. 60 million.
+
+The total value of the project is nearly Rs. 150 million.
+
+The containers have been imported to the country by three garment companies in Wattala, Colombo and Panadura areas.
+
+The customs officers were misleading to deny the rice of another two containers.
+
+Accordingly, the Customs officers were able to discover 12,688 kilograms of imported to Sri Lanka.
+
+State Minister Ranjith Siyambalapitiya had also received the money to monitor these containers.
+
+Customs officials have advised the customs officials to confuse all these goods and take necessary legal action.
+
+◼️
+
+[Data](articles/31546d39.json)
+
+[Extended Data](ext_articles/31546d39.ext.json)
 
 ---
 
@@ -1961,59 +2025,5 @@ In addition, 168 grams of heroin, 93 grams of ice, 925 grams of cannabis and 596
 [Data](articles/a60b74fe.json)
 
 [Extended Data](ext_articles/a60b74fe.ext.json)
-
----
-
-### Sri Lanka cabinet nod for draft amendment bill for Online Safety Act
-
-*2024-02-13 12:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-nod-for-draft-amendment-bill-for-online-safety-act-150694/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s cabinet of ministers has approved a proposal to formulate a draft amendment bill to incorporate revisions to the controversial Online Safety Act.
-
-A statement from the Government Information Department said on Tuesday February 13 that the proposed draft bill will based on “revisions recognised through further discussions with eminencies in the field who had forwarded with proposals for relevant amendments” (sic).
-
-The statement said the provisions of the online security act are being implemented at present. There were media reports over the weekend of an arrest, citing a speech made by Minister of Public Security Tiran Alles, who claimed an individual had been arrested by the Criminal Investigation Department (CID) under the new law.
-
-“No one has been arrested under the online safety act. We haven’t even appointed a commission yet,” Thalduwa told EconomyNext on Monday February 12.
-
-Sri Lanka Police deny arrest under online safety lawSee more
-
-...
-
-[Data](articles/4d946329.json)
-
-[Extended Data](ext_articles/4d946329.ext.json)
-
----
-
-### Government approves amendments to Online Security Act
-
-*2024-02-13 12:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-approves-amendments-to-Online-Security-Act/108-276919) · `en`
-
-Colombo, Feb 13 (Daily Mirror) - The government granted approval to the resolution furnished by the Public Security Minister to direct the Legal Draftsman to prepare a draft bill for amending the Online Security Act based on revisions recognized through further discussions.
-
-Having been passed in Parliament, the provisions of the Online Security Act are currently being implemented.
-
-Since the amendments submitted at the committee sessions in Parliament with regard to the said draft bill should be made in accordance with the decision of the Supreme Court, there had been no opportunity to introduce the proposed amendments furnished by professionals in the field.
-
-◼️
-
-[Data](articles/8e3e410f.json)
-
-[Extended Data](ext_articles/8e3e410f.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-02-13 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/176268) · `ta`
-
-The US dollar purchasing price was Rs 308.5844 and the sales price were 318.4655 based on the currency exchange rate released by the Central Bank on Tuesday (February 13).
-
-◼️
-
-[Data](articles/dd726540.json)
-
-[Extended Data](ext_articles/dd726540.ext.json)
 
 ---

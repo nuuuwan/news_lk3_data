@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 20:50:12**
+As of **2024-02-13 21:02:29**
 
 ## Newspaper Stats
 
-*Scraped **6,781** Articles*
+*Scraped **6,790** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,83 @@ colombotelegraphcom | 80
 bbccomsinhala | 92
 dbsjeyarajcom | 148
 economynextcom | 345
-islandlk | 357
+islandlk | 358
 dailyftlk | 359
 newsfirstlk | 363
-adalk | 578
+adalk | 581
 tamilmirrorlk | 831
 adaderanalk | 833
-virakesarilk | 854
+virakesarilk | 856
 adaderanasinhalalk | 949
-dailymirrorlk | 992
+dailymirrorlk | 995
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,781 (100.0%) of 6,781 articles have been extended.
+6,781 (99.9%) of 6,790 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### Health services declared as Essential Public Service
+
+*2024-02-13 20:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-services-declared-as-Essential-Public-Service/108-276939) · `en`
+
+An Extraordinary Gazette has been issued making all service connected to the maintenance and reception, care, feeding and treatment of patients in hospitals, nursing homes, dispensaries and other similar institutions, as an Essential Public Service.
+
+The gazette notification has been issued by President Ranil Wickremesinghe by virtue of the powers vested in him in terms of Section 2 of the Essential Public Services Act.
+
+◼️
+
+[Data](articles/b3cc46f2.json)
+
+---
+
+### Bangladesh recall Mahmudullah, Taijul for Sri Lanka T20Is
+
+*2024-02-13 20:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladesh-recall-Mahmudullah-Taijul-for-Sri-Lanka-T20Is/108-276937) · `en`
+
+Dhaka, Feb. 13 (AFP) - Bangladesh on Tuesday recalled batsman Mahmudullah Riyad and Taijul Islam to their Twenty20 international squad for the three-match series against Sri Lanka in March.
+
+Former captain Mahmudullah last played a T20I against Zimbabwe in 2021, but did well in the ongoing Bangladesh Premier League to force his way back into the squad.
+
+Left-arm spinner Taijul played the last of his two T20Is in 2019.
+
+Opening duo Anamul Haque and Mohammad Naim also returned to the squad on the back of a strong showing in the BPL.
+
+Off-spinner Aliss Al Islam is the only newcomer in the T20 squad, that will miss the service of all-rounder Shakib Al Hasan.
+
+Shakib, who has been suffering from an eye problem, is also absent in the ODI squad for the first two one-day internationals.
+
+Sri Lanka will arrive in Bangladesh on March 1 to play three T20Is, three ODIs, and two Tests.
+
+Batsman Najmul Hossain Shanto will lead Bangladesh in all three formats after his appointment as skipper for the year 2024.
+
+...
+
+[Data](articles/262d2e19.json)
+
+---
+
+### Pidurutalagala must be reopened for tourists
+
+*2024-02-13 19:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pidurutalagala-must-be-reopened-for-tourists/108-276938) · `en`
+
+Nuwara Eliya, Feb 13 (Daily Mirror) - Arrangements must be made to reopen Pidurutalagala, which is the highest peak in the island, for tourists, Central Province Governor Lalith U. Gamage said at the Nuwara Eliya District Coordinating Committee meeting.
+
+"The Pidurutalagala mountain area in the Nuwara Eliya district, which is the highest on the island and has zero degrees, should be reopened for tourists," he said.
+
+The Piduruthalagala mountain area has high educational and tourism value, and it is inappropriate to continue to maintain it as a prohibited area for the people, he added.
+
+"Local and foreign tourists also like to observe the sunrise from the Nuwara Eliya tourist zones, so an opportunity should be given for that too, and there is an urgent need to open the places with high tourist attraction to the public under suitable methods and to establish appropriate tourism industries related to it," the Governor added.
+
+◼️
+
+[Data](articles/75640ea1.json)
+
+---
 
 ### Healthcare gazetted as essential service as trade union action continues
 
@@ -68,6 +126,48 @@ However, the suggestion is to be challenged in the next stage.
 
 ---
 
+### இங்கிலாந்துக்கு எதிரான 3ஆவது டெஸ்ட்: இந்திய அணியில் ராகுல் இல்லை
+
+*2024-02-13 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176304) · `ta`
+
+இங்கிலாந்துக்கு எதிரான 3ஆவது டெஸ்ட் கிரிக்கெட் போட்டி ராஜ்கொட்டில் புதன்கிழமை (15) ஆரம்பமாகவுள்ள நிலையில் உபாதை காரணமாக முக்கிய வீரர் கே. எல். ராகுலை இந்தியா இழந்துள்ளது.
+
+முதலாவது டெஸ்ட் போட்டியில் விளையாடி, உபாதை காரணமாக இரண்டாவது டெஸ்டை தவறவிட்ட கே. எல். ராகுல், கடைசி 3 டெஸ்ட் போட்டிகளுக்கான குழாத்தில் பெயரிடப்பட்டிருந்தார்.
+
+ஆனால், ரவிந்த்ர ஜடேஜாவைப் போன்று ராகுலும் விளையாடுவது அவரது உடற் தகுதியில் தங்கி இருந்தது.
+
+இந்திய கிரிக்கெட் கட்டுப்பாட்டுச் சபையின் மருத்துவக் குழுவின் அறிக்கையில், ராகுல் 90 வீதம் உடற்தகுதியை பெற்றுள்ளதாகவும் அடுத்த டெஸ்ட் வரை அவர் காத்திருக்க வேண்டிவரும் எனவும் குறிப்பிடப்பட்டுள்ளது.
+
+இந்திய ஏ அணி, கர்நாடகா அணி ஆகியவற்றுக்காக திறமையாகத் துடுப்பெடுத்தாடிவரும் படிக்கல், டெஸ்ட் அறிமுகம் பெறுவார் என கருதப்படுகிறது.
+
+தனிப்பட்ட காரணஙகளுக்காக விராத் கோஹ்லி அணியில் இடம்பெறாததுடன் ஷ்ரேயாஸ் ஐயரை தெரிவாளர்கள் கருத்தில் கொள்ளவில்லை.
+
+விசாகப்பட்டினத்தில் டெஸ்ட் அறிமுகம் பெற்ற ராஜாத் பட்டிடார், பெரும்பாலும் 3ஆவது டெஸ்ட் போட்டியில் விளையாடுவார் என எதிர்பார்க்கப்படுகிறது.
+
+...
+
+[Data](articles/3079e25a.json)
+
+---
+
+### පේරේ කෘෂි පීඨයේ ඌරෙක් මරා මස් කරලා
+
+*2024-02-13 19:25:21* · [`adalk`](https://www.ada.lk/breaking_news/පේරේ-කෘෂි-පීඨයේ-ඌරෙක්-මරා-මස්-කරලා/11-408065) · `si`
+
+පේරාදෙණිය විශ්ව විද්‍යාලයේ කෘෂිකර්ම පීඨයට අයත් ගොවිපොළේ සිටි කිලෝ පනහකට ආසන්න බරකින් යුත් ඌරෙකු සොරකම් කොට මරා මස් කළ බව කියන පුද්ගලයන් තිදෙනෙකු සැකපිට අත්අඩංගුවට ගෙන තිබේ .
+
+පේරාදෙණිය විශ්වවිද්‍යාලයේ කෘෂිකර්ම පීඨයේ ගොවිපළේ කළමනාකරු විසින් පේරාදෙණිය පොලිසියට සිදු කරන ලද පැමිණිල්ලකට අනුව විමර්ශන සිදුකොට උඩ පේරාදෙණිය ප්‍රදේශයේ පදිංචි පුද්ගලයන් තිදෙනෙකු එම ඌරාගේ බවට සැක මස් කිලෝ පහක් ද සමඟ අත්අඩංගුවට ගෙන තිබේ .
+
+උඩපේරාදෙණිය ප්‍රදේශයේ පිහිටි එම ගොවිපළේ සිටි රුපියල් 50,000 ක් පමණ වටිනා එම ඌරා රාත්‍රී කාලයේ ගොවිපළ තුළදීම මරා රැගෙන ගොස් මස් අලෙවි කොට ඇති බවට පොලිස් විමර්ශන වලදී අනාවරණය වී තිබේ .
+
+සැකකරුවන් අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිත අතර පේරාදෙණිය පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක විජිත් විජේකෝන් මහතාගේ උපදෙස් පරිදි අපරාධ අංශය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/6cb89d08.json)
+
+---
+
 ### Sri Lanka developing Ramayana Trail to boost tourism from India – Tourism Minister
 
 *2024-02-13 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97241/sri-lanka-developing-ramayana-trail-to-boost-tourism-from-india-tourism-minister) · `en`
@@ -81,6 +181,40 @@ Speaking to the Free Press Journal on the sidelines of the recently concluded tr
 [Data](articles/2f413fe4.json)
 
 [Extended Data](ext_articles/2f413fe4.ext.json)
+
+---
+
+### විද්‍යුත් මාධ්‍ය විකාශන අධිකාරී පනත ඉදිරියේදී
+
+*2024-02-13 19:09:04* · [`adalk`](https://www.ada.lk/breaking_news/විද්‍යුත්-මාධ්‍ය-විකාශන-අධිකාරී-පනත-ඉදිරියේදී/11-408064) · `si`
+
+විද්‍යුත් මාධ්‍ය විකාශන අධිකාරී පනත ඉදිරියේදී සම්මත කරගැනීමට බලාපොරොත්තු වනවා – ජනමාධ්‍ය රාජ්‍ය අමාත්‍ය ශාන්ත බණ්ඩාර
+
+විද්‍යුත් මාධ්‍ය විකාශන අධිකාරී පනත පාර්ලිමේන්තුවට ඉදිරිපත් කොට සම්මත කරගැනීමට බලාපොරොත්තු වන බව ජනමාධ්‍ය රාජ්‍ය අමාත්‍ය ශාන්ත බණ්ඩාර මහතා පැවසීය.
+
+ජාතික ජනමාධ්‍ය ප්‍රතිපත්තියක් ඉදිරිපත් කිරීමට බලාපොරොත්තු වන අතර එය මේ වන විට කැබිනට් අනුමැතිය සඳහා යොමු කර ඇති බව ද අමාත්‍යවරයා සඳහන් කළේය.
+
+ජනමාධ්‍ය රාජ්‍ය අමාත්‍ය ශාන්ත බණ්ඩාර මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (13) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනමාධ්‍ය රාජ්‍ය අමාත්‍ය ශාන්ත බණ්ඩාර මහතා මෙසේ ද පැවසීය,
+
+වර්තමානයේ අපට තිබුණු ප්‍රධානම අභියෝගයක් වූයේ ආදායම් වියදම් කළමනාකරණය කිරීම සම්බන්ධ ගැටලුවයි. එහිදී අප අමාත්‍යාංශය සතුව පවතින ආයතන 16 පිළිබඳවම විශේෂ අවධානයක් යොමු කළා. ඉන් බහුතරයක්ම මහා භාණ්ඩාගරය මත යැපෙන තත්ත්වයේ පැවතුණා. ඒ නිසා මෙම ආයතන ස්වාධීනව ඉදිරියට ගමන් කිරීම සම්බන්ධයෙන් අප කටයුතු කළා.
+
+...
+
+[Data](articles/052b6932.json)
+
+---
+
+### ஐக்கிய மக்கள் சக்தியின் தொகுதி அமைப்பாளரான அசங்க பெரேரா மீண்டும் ஐக்கிய தேசிய கட்சியில் இணைவு
+
+*2024-02-13 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176303) · `ta`
+
+ஐக்கிய தேசிய கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் காமினி ஜயவிக்ரம பெரேராவின் மகனும் ஐக்கிய மக்கள் சக்தியின் கடுகம்பல தொகுதி அமைப்பாளருமான அசங்க பெரேரா மீண்டும் ஐக்கிய தேசிய கட்சியில் இணைந்துகொண்டுள்ளார்.
+
+◼️
+
+[Data](articles/b26d55b0.json)
 
 ---
 
@@ -775,6 +909,26 @@ As per the undertaking given by the state-owned electricity supplier, this annua
 [Data](articles/b97d3a37.json)
 
 [Extended Data](ext_articles/b97d3a37.ext.json)
+
+---
+
+### විදුලි බල මණ්ඩලය තැන්පතුවට පොලිය ගෙවන්න එකඟ වෙයි
+
+*2024-02-13 14:59:41* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බල-මණ්ඩලය-තැන්පතුවට-පොලිය-ගෙවන්න-එකඟ-වෙයි/11-408061) · `si`
+
+අලුතින් විදුලි සැපයීමක් ලබාදීමේදී ලංකා විදුලිබල මණ්ඩලය  පාරිභෝගිකයින්ගෙන් අයකර ගන්නා තැන්පතු මුදල් සඳහා 2023 වසර වෙනුවෙන් පොලිය ගෙවීමට සූදානම් බව ලංකා විදුලිබල මණ්ඩලය අද (13) ශ්‍රේෂ්ඨාධිකරණය හමුවේ දැනුම් දුන්නේය.
+
+විදුලිබල හා පුනර්ජනනීය බලශක්ති පාරිභෝගික සංගමය විසින් ගොනුකළ මූලික අයිතිවාසිකම් පෙත්සමක් අද කැඳවනු ලැබූ අවස්ථාවේදී මෙම දැනුම්දීම සිදුකෙරුණි.
+
+මෙම පෙත්සම අද එස්. තුරෙයිරාජා, ගාමිණී අමරසේකර සහ යසන්ත කෝදාගොඩ යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+එම අවස්ථාවේදී ලංකා විදුලිබල මණ්ඩලය වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරාල් නිර්මලන් විග්නේෂ්වරන් මහතා අධිකරණය හමුවේ කරුණු දක්වමින් නව විදුලි සම්බන්ධතා ලබාදීමේදී ලංකා විදුලිබල මණ්ඩලය විසින් පාරිභෝගිකයින්ගෙන් අයකර ගන්නා තැන්පතු මුදල් වෙනුවෙන් 2023 වසර සඳහා සියයට 11.67ක වාර්ෂික පොලියක් ගෙවීමට සූදානම් බව දැනුම් දුන්නේය.
+
+එම පොලිය 2024 වසරේ ජනවාරි මාසයේ සිට ගෙවීමට ලංකා විදුලිබල මණ්ඩලය විසින් කටයුතු කරන බවත් ඔහු දන්වා සිටියේය.
+
+...
+
+[Data](articles/ac322412.json)
 
 ---
 
@@ -1825,159 +1979,5 @@ Personnel from the Dam Street Police Station conducted their biannual inspection
 [Data](articles/b6fa0c25.json)
 
 [Extended Data](ext_articles/b6fa0c25.ext.json)
-
----
-
-### Manoj Gamage resigns from NMRA Board of Directors
-
-*2024-02-13 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Manoj-Gamage-resigns-from-NMRA-Board-of-Directors/108-276917) · `en`
-
-Colombo, Feb 13 (Daily Mirror) - Attorney-at-Law Manoj Gamage has tendered his resignation as a Member of the Board of Directors of the National Medicines Regulatory Authority (NMRA), effective immediately.
-
-In his resignation letter addressed to Minister of Health Dr. Ramesh Pathirana, Gamage formally conveyed his decision to step down from his position within the NMRA.
-
-◼️
-
-[Data](articles/f06de133.json)
-
-[Extended Data](ext_articles/f06de133.ext.json)
-
----
-
-### Health Trade Unions Task Breeding
-
-*2024-02-13 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176254) · `ta`
-
-The 72 health unions have repeatedly carried out union actions, demanding that the 35,000 rupee payments be paid to the doctors.
-
-The second phase of talks were held yesterday (12) between the officials of the Finance Ministry and the representatives of the Health Trade Unions on the matter.
-
-As the talks failed, they are continuously working on Tuesday (13) at 6 am today.
-
-They are also working in Vavuniya in support of the workplace operations across the country.
-
-As a result, patients have faced various difficulties and obtained blood samples and blood tests today and many patients have been able to observe the difficulties of getting medication.
-
-At the same time, it was possible to observe the return of many patients from distant places due to work.
-
-◼️
-
-[Data](articles/89268230.json)
-
-[Extended Data](ext_articles/89268230.ext.json)
-
----
-
-### Attorney -at -Law Manoj Kamage resigns from the post of Director of the Control Authority!
-
-*2024-02-13 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176261) · `ta`
-
-Attorney -at -Law Manoj Kamage, Director of the National Records Control Authority, has sent a letter to Health Minister Ramesh Pathrana to resign.
-
-The letter further stated that he will resign from Tuesday (13).
-
-In his letter, he said that he worked as a lawyer for the progress of the company during his tenure as the Director of the National Control Authority and passed the resolutions on the basis of a member of the Board of Directors.
-
-◼️
-
-[Data](articles/b24e8849.json)
-
-[Extended Data](ext_articles/b24e8849.ext.json)
-
----
-
-### If Trump becomes president - his former advisers opinion
-
-*2024-02-13 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/176260) · `ta`
-
-Former Trump's former advisers have said that if Donald Trump wins the US presidential election, he will withdraw from NATO.
-
-Former Advisors of Trump said in the month of March that Trump's idea that Russia should launch an attack on member states that did not fund the NATO budget, and that President Trump would withdraw from NATO again.
-
-In his book, CNN said that a top official in Trump and Bidan administration said.
-
-He has told CNN that the US will be expelled from NATO if Trump defeats Baidan.
-
-Trump's White House chief said that Trump did not consider NATO a useful meaningful thing.
-
-Jonkeli Vladimir Putin and Kimjong Ann, who said Trump was vehemently opposed to the US soldiers in South Korea and Japan, said that Trump was the right person.
-
-Kelly also stated in the book that Trump thought North Korea had been isolated by the US.
-
-◼️
-
-[Data](articles/e3f7e153.json)
-
-[Extended Data](ext_articles/e3f7e153.ext.json)
-
----
-
-### Minister's hospital inspection stops
-
-*2024-02-13 11:44:27* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-වර්ජනයෙන්-ඇමතිගේ-‌රෝහල්-නිරීෂණචාරිකාව-නවතියි/11-408053) · `si`
-
-Nursing Supplication, Interim Medicine Services and Health Office Organized 72 Indigenous Virms have been resigned from their services and commenced a strike. As planned, the Minister of Health has been canceled by the Minister of Health.. Instead, the ministry officials have claimed with the heads of strike, with the heads of the strike.
-
-◼️
-
-[Data](articles/3a944a49.json)
-
-[Extended Data](ext_articles/3a944a49.ext.json)
-
----
-
-### Minister's hospital inspection station stone inspection tour
-
-*2024-02-13 11:44:27* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-වර්ජනයෙන්-ඇමතිගේ-‌රෝහල්-නිරීක්ෂණ-චාරිකාව-නවතියි/11-408053) · `si`
-
-Nursing Supplication, Interim Medicine Services and Health Office Organized 72 Indigenous Virms have been resigned from their services and commenced a strike. As planned, the Minister of Health has been canceled by the Minister of Health.. Instead, the ministry officials have commenced a Sakrakchang with the heads of strike.
-
-◼️
-
-[Data](articles/bc07c215.json)
-
-[Extended Data](ext_articles/bc07c215.ext.json)
-
----
-
-### Sri Lanka rupee trades at 313.75/314.00 to the US dollar
-
-*2024-02-13 11:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-at-313-75-314-00-to-the-us-dollar-150686/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee trades at 313.75/314.00 to the US dollar Tuesday, from 313.45/75 on Monday, dealers said.
-
-A bond maturing on 01.02.2026 was quoted stable at 10.80/90 percent.
-
-A bond maturing on 15.09.2027 was quoted at 11.55/65 percent from 11.65/75 percent.
-
-A bond maturing on 15.03.2028 was quoted at 11.85/95 percent from 12.00/10 percent.
-
-The Colombo Stock Exchange was trading down: the All Share Price Index was up 0.05 percent at 10,578, and the S&P SL20 was down 0.21 percent at 3,025. (Colombo/Feb13/2024)
-
-◼️
-
-[Data](articles/cb5aab0a.json)
-
-[Extended Data](ext_articles/cb5aab0a.ext.json)
-
----
-
-### Banks on holidays cheating money from TTM cards
-
-*2024-02-13 11:38:31* · [`adalk`](https://www.ada.lk/breaking_news/නිවාඩු-දවස්වල-බැංකුවල-ඒ-ටී-එම්-කාඩ්වලින්-මුදල්-වංචාකරන-කල්ලියක්/11-408052) · `si`
-
-The transactions say that a group of sharing money from the private and state banks in the Matale District to obtain money from the Machine.
-
-It is also revealed that some enabling women, children, and some older people have lost their money to the gang.
-
-The fraud is said to have taken place in the guise of the banks near the banks near the banks near the banks near the banks, following those who are guessing to be advantified.
-
-The main and private banking controllers have said that the mainstream holidays targeted on the weekly holidays, especially in the Matale district, is to be aware of this confidential number..
-
-◼️
-
-[Data](articles/10298119.json)
-
-[Extended Data](ext_articles/10298119.ext.json)
 
 ---

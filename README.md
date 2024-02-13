@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 05:02:27**
+As of **2024-02-14 05:17:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,004
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,831 (99.8%) of 6,846 articles have been extended.
+6,838 (99.9%) of 6,846 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ In a detailed analysis the HRCSL highlights 30 instances of failure to comply wi
 
 [Data](articles/d366b40b.json)
 
+[Extended Data](ext_articles/d366b40b.ext.json)
+
 ---
 
 ### Political aspirations with greed for power still continue with our present politicians too
@@ -64,6 +66,8 @@ The long drawn out war commencing from the assassination of the Mayor of Jaffna 
 
 [Data](articles/195c3fc5.json)
 
+[Extended Data](ext_articles/195c3fc5.ext.json)
+
 ---
 
 ### Anura Bandaranaike: “Always the bridesmaid, never the bride”
@@ -77,6 +81,8 @@ Anura Bandaranaike born on 15 February 1949 was regarded as the crown prince of 
 ...
 
 [Data](articles/25248ce0.json)
+
+[Extended Data](ext_articles/25248ce0.ext.json)
 
 ---
 
@@ -96,6 +102,8 @@ In his latest address he asked - “Why can’t we unite in a shared vision for 
 
 [Data](articles/7d3a986c.json)
 
+[Extended Data](ext_articles/7d3a986c.ext.json)
+
 ---
 
 ### Fastcorp hosts webinar on benefits for SL biz in setting up in Singapore
@@ -114,6 +122,8 @@ The webinar will delve into the numerous advantages of setting up a business in 
 
 [Data](articles/b3f14ac9.json)
 
+[Extended Data](ext_articles/b3f14ac9.ext.json)
+
 ---
 
 ### Japan commits to promoting economic governance through anti-corruption policy support in SL
@@ -131,6 +141,8 @@ Sri Lanka’s ongoing socio-economic crisis has reversed development gains achie
 ...
 
 [Data](articles/765cb95b.json)
+
+[Extended Data](ext_articles/765cb95b.ext.json)
 
 ---
 
@@ -153,6 +165,8 @@ The project aims to introduce AI courses in schools where the necessary resource
 ...
 
 [Data](articles/1b22a0e6.json)
+
+[Extended Data](ext_articles/1b22a0e6.ext.json)
 
 ---
 

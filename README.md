@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 14:02:47**
+As of **2024-02-13 14:17:28**
 
 ## Newspaper Stats
 
-*Scraped **6,707** Articles*
+*Scraped **6,708** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 568
 adaderanalk | 816
 tamilmirrorlk | 825
 virakesarilk | 845
-adaderanasinhalalk | 938
+adaderanasinhalalk | 939
 dailymirrorlk | 978
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,707 (100.0%) of 6,707 articles have been extended.
+6,707 (100.0%) of 6,708 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### විදුලිබල මණ්ඩලය පොලිය ගෙවීමට එකඟ වෙයි
+
+*2024-02-13 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193329) · `si`
+
+අලුතින් විදුලි සැපයීමක් ලබාදීමේදී ලංකා විදුලිබල මණ්ඩලය විසින් පාරිභෝගිකයින්ගෙන් අයකර ගන්නා තැන්පතු මුදල් සඳහා 2023 වසර වෙනුවෙන් පොලියක් ගෙවීමට සූදානම් බව ලංකා විදුලිබල මණ්ඩලය අද (13) ශ්‍රේෂ්ඨාධිකරණය හමුවේ දැනුම් දුන්නේය.
+
+විදුලිබල හා පුනර්ජනනීය බලශක්ති පාරිභෝගික සංගමය විසින් ගොනුකළ මූලික අයිතිවාසිකම් පෙත්සමක් අද කැඳවනු ලැබූ අවස්ථාවේදී මෙම දැනුම්දීම සිදුකෙරුණි.
+
+මෙම පෙත්සම අද එස්. තුරෙයිරාජා, ගාමිණී අමරසේකර සහ යසන්ත කෝදාගොඩ යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+එම අවස්ථාවේදී ලංකා විදුලිබල මණ්ඩලය වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරාල් නිර්මලන් විග්නේෂ්වරන් මහතා අධිකරණය හමුවේ කරන දක්වමින් නව විදුලි සම්බන්ධතා ලබාදීමේදී ලංකා විදුලිබල මණ්ඩලය විසින් පාරිභෝගිකයින්ගෙන් අයකර ගන්නා තැන්පතු මුදල් වෙනුවෙන් 2023 වසර සඳහා සියයට 11.67ක වාර්ෂික පොලියක් ගෙවීමට සූදානම් බව දැනුම් දුන්නේය.
+
+එම පොලිය 2024 වසරේ ජනවාරි මාසයේ සිට ගෙවීමට ලංකා විදුලිබල මණ්ඩලය විසින් කටයුතු කරන බවත් ඔහු දන්වා සිටියේය.
+
+...
+
+[Data](articles/af59680d.json)
+
+---
 
 ### Sri Lanka is a significant achievement
 
@@ -2043,25 +2063,5 @@ News of the missing  plane began spreading on Monday, which was also Valentine�
 [Data](articles/18352310.json)
 
 [Extended Data](ext_articles/18352310.ext.json)
-
----
-
-### 200 crore allocation for Galle Karapitiya Teaching Hospital
-
-*2024-02-13 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176236) · `ta`
-
-The Ministry of Health has allocated Rs 200 crore for the construction of the Medical Equipment and the construction of the Galle Karapitiya Teaching Hospital.. Minister of Health and Industry Dr. Ramesh Pathirana said that the Karapitiya Hospital will be the highest bed in the next Colombo National Hospital.
-
-He was speaking at the 11th anniversary of the Karapitiya Teaching Hospital Kidney Care Association held at the Galle Trade and Industry Auditorium on Monday.
-
-The Ministry of Health has allocated Rs 200 crore this year for the construction of medical equipment and construction work for the Karapitiya Hospital.. And I promise that there will be no shortage of beds at the Karapitiya Hospital after this year.
-
-The Karapitiya Hospital will be the highest beds next to the Colombo National Hospital. The construction of the kidney unit was long enough to be completed, but the kidney segment was effective in the short term.
-
-...
-
-[Data](articles/45c16886.json)
-
-[Extended Data](ext_articles/45c16886.ext.json)
 
 ---

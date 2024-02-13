@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 19:17:23**
+As of **2024-02-13 19:32:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,771 (99.9%) of 6,777 articles have been extended.
+6,777 (100.0%) of 6,777 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The award for the Sri Lanka Mangrove Regeneration initiative was announced by UN
 
 [Data](articles/6c632abe.json)
 
+[Extended Data](ext_articles/6c632abe.ext.json)
+
 ---
 
 ### US Senate passes $95 billion Ukraine aid bill
@@ -62,21 +64,27 @@ The bill passed the Senate despite Johnson’s criticism of the legislation and 
 
 [Data](articles/b6045e20.json)
 
+[Extended Data](ext_articles/b6045e20.ext.json)
+
 ---
 
-### நுண்கடன் திட்டங்களினால் கிராமப்புறங்களில் 28 இலட்சம் பேர் பாதிப்பு - துறைசார் மேற்பார்வைக் குழு
+### 28 million people in rural areas - departmental supervisory committee
 
 *2024-02-13 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176302) · `ta`
 
-நுண்நிதிய கடன் பிரச்சினையால் கிராமப்புறங்களில் சுமார் 28 இலட்சம் பேர் பாதிக்கப்பட்டுள்ளனர். 38 முதல் 48 சதவீதம் என்ற அடிப்படையில் அதிக வட்டிக்கு கடன் வழங்கப்படுகிறது. நுண்கடன் திட்டங்களினால் பெண்களே அதிகளவில் பாதிக்கப்பட்டுள்ளனர். மத்திய கிழக்கு நாடுகளுக்கு இலங்கை பெண்கள் வீட்டுப் பணிப்பெண்களாகச் செல்வதற்கு நுண்கடன் திட்டங்கள் பிரதான காரணியாக அமைந்துள்ளது எனப் பொருளாதார நெருக்கடியின் தாக்கத்தைக் குறைப்பது தொடர்பில் துறைசார் மேற்பார்வைக் குழுவில் சுட்டிக்காட்டப்பட்டுள்ளது.
+About 28 lakh people in rural areas have been affected by micro -debt problems. Loan for high interest based on 38 to 48 percent. Women are the most affected by the follicle plans. The Department of Department of Supervisor has pointed out on the impact of the economic crisis, as Sri Lankan women have been a major factor in the Middle East as homework.
 
-இலங்கையில் நுண்நிதிய பிரச்சினை காரணமாகப் பாதிக்கப்பட்ட தரப்பினருக்கு ஏற்பட்டுள்ள பொருளாதார நெருக்கடியின் தாக்கத்தைக் குறைப்பது தொடர்பில் துறைசார் மேற்பார்வைக் குழுவில் கவனம் செலுத்தப்பட்டது.
+The Departmental Supervisory Committee was focused on reducing the impact of the economic crisis in Sri Lanka.
 
-பாராளுமன்ற உறுப்பினர் காமினி வலேபொட தலைமையில் அண்மையில் கூடிய பொருளாதார நெருக்கடியின் தாக்கத்தினைத் தணித்தல் பற்றிய துறைசார் மேற்பார்வைக் குழுக் கூட்டத்திலேயே இவ்விடயம் தொடர்பில் கவனம் செலுத்தப்பட்டது.
+The matter was focused at a sectoral supervisory committee meeting on the impact of the recent economic crisis, headed by Member of Parliament Gamini Valaboda.
+
+Companies in Sri Lanka representing people affected by micro -debts were invited to this group. Representatives of the Central Bank of Sri Lanka, the Ministry of Finance, Economic positioning and the National Policy, the Samurdhi Department, the Ministry of Women, Child Affairs and Social Reinforcement and the Department of Institution.
 
 ...
 
 [Data](articles/1d7a01d8.json)
+
+[Extended Data](ext_articles/1d7a01d8.ext.json)
 
 ---
 
@@ -95,6 +103,8 @@ The sum of tax revenue the Customs would have incurred if the cargo was cleared 
 ◼️
 
 [Data](articles/a6ac5121.json)
+
+[Extended Data](ext_articles/a6ac5121.ext.json)
 
 ---
 
@@ -131,6 +141,8 @@ Social activist Oshala Herath filed this appeal before the Supreme Court seeking
 ...
 
 [Data](articles/e6c8deef.json)
+
+[Extended Data](ext_articles/e6c8deef.ext.json)
 
 ---
 
@@ -191,6 +203,8 @@ However, a survey conducted by APAC chapter of the Public Relations and Communic
 ...
 
 [Data](articles/c2535274.json)
+
+[Extended Data](ext_articles/c2535274.ext.json)
 
 ---
 

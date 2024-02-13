@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 03:17:19**
+As of **2024-02-14 03:33:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,003
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,828 (100.0%) of 6,830 articles have been extended.
+6,830 (100.0%) of 6,830 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Rather than involving themselves in meeting emergency situations or human needs,
 
 [Data](articles/8bf3d745.json)
 
+[Extended Data](ext_articles/8bf3d745.ext.json)
+
 ---
 
 ### Counterfactual History: ‘Rohana Wijeweera visiting New Delhi in 1987.’
@@ -59,6 +61,8 @@ Imagine the late JVP leader, Rohana Wijeweera travelling to New Delhi in 1987, o
 ...
 
 [Data](articles/245cffb3.json)
+
+[Extended Data](ext_articles/245cffb3.ext.json)
 
 ---
 

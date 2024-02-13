@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 17:02:35**
+As of **2024-02-13 17:17:30**
 
 ## Newspaper Stats
 
-*Scraped **6,746** Articles*
+*Scraped **6,751** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
 adalk | 572
-adaderanalk | 822
+adaderanalk | 827
 tamilmirrorlk | 828
 virakesarilk | 850
 adaderanasinhalalk | 947
@@ -26,11 +26,31 @@ dailymirrorlk | 983
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,746 (100.0%) of 6,746 articles have been extended.
+6,746 (99.9%) of 6,751 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### Diana Gamage MPs seat: SC indefinitely defers delivery of verdict
+
+*2024-02-13 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97235/diana-gamage-mps-seat-sc-indefinitely-defers-delivery-of-verdict) · `en`
+
+The Supreme Court on Tuesday (Feb.13) concluded the hearing of an appeal filed challenging the Appeals Court’s dismissal of a petition State Minister Diana Gamage’s parliamentary membership.
+
+Appeal was heard before Supreme Court’s three-member bench comprising Justices Gamini Amarasekara, Kumudini Wickramasinghe, and Janak de Silva.
+
+Upon concluding the proceedings, the judge bench decided to defer its verdict indefinitely.
+
+Social activist Oshala Herath had put forward the appeals two weeks after the petition he had filed against the State Minister’s parliamentary seat and citizenship was dismissed by the Appeals Court.
+
+Naming Gamage and several others as the respondents of his appeal, Herath said he had previously filed a petition alleging that the lawmaker is unqualified to hold the position of a member of parliament in Sri Lanka, as she also holds dual citizenship.
+
+...
+
+[Data](articles/2e0c436c.json)
+
+---
 
 ### Diana Gamage - Declaration of Differs Declare Free
 
@@ -54,6 +74,58 @@ The Supreme Court then ended the petition exam, was postponed to announce its ve
 
 ---
 
+### Cabinet nod for proposed housing programme for Sri Lankan overseas employees
+
+*2024-02-13 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97234/cabinet-nod-for-proposed-housing-programme-for-sri-lankan-overseas-employees) · `en`
+
+The approval of the Cabinet of Ministers has been received to a proposal seeking to implement a housing programme for Sri Lankans employed overseas.
+
+The Sri Lanka Bureau of Foreign Employment (SLBFE) collaborated with the National Housing Development Authority and the licensed banks had planned to implement a housing programme for migrant workers, where it was expected to grant a maximum of Rs. 10 million as a loan grant, and contribute a portion of its loan interest amount by SLBFE.
+
+The loan amount obtained under the proposed loan scheme should be paid by foreign exchange remitted through legitimate channels within the period the loan receiver is engaged in an overseas employment and payments would be made in Sri Lankan rupees once the foreign employment is completed and they return to Sri Lanka.
+
+Accordingly, the Cabinet of Ministers has approved the proposal submitted by the Minister of Labour and Foreign Employment Manusha Nanayakkara to implement the proposed housing programme.
+
+◼️
+
+[Data](articles/b3112cb1.json)
+
+---
+
+### 9-year-old girl’s death in Atulugama: Accused sentenced to 27 years RI
+
+*2024-02-13 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97233/9-year-old-girls-death-in-atulugama-accused-sentenced-to-27-years-ri) · `en`
+
+The Panadura High Court sentenced a person, who pleaded guilty over the murder of a 9-year-old girl in May 2022 in the Atulugama area of Panadura, to 27 years of rigorous imprisonment.
+
+Panadura High Court Judge Saman Kumara, who issued this sentence over the charges of committing ‘involuntary manslaughter’, abducting and attempting to sexually abuse the 09-year-old girl, also ordered the convict to pay Rs.3 million in compensation to the mother of the deceased girl,  Ada Derana reporter said.
+
+In the event the accused, Farook Mohommed Ganesanathan, fails to pay the aforementioned compensation, the High Court Judge ordered that his sentence be further extended by 78 months.
+
+...
+
+[Data](articles/e4494856.json)
+
+---
+
+### Health trade unions to continue strike
+
+*2024-02-13 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97232/health-trade-unions-to-continue-strike) · `en`
+
+Health sector workers have decided to continue its strike launched over disparities in allowances, says the convenor of Health Trade Union Alliance, Chanaka Dharmawickrama.
+
+A collective of 72 health trade unions resorted to a strike this morning (Feb.13) to urge the government to provide them with an allowance similar to that of the DAT (Disturbance, Availability and Transport) allowance given to doctors.
+
+The trade unions representing a wide range of health sector professionals – including radiology and laboratory technicians, pharmacists and drug compounders, midwives, dental surgeons, public health inspectors, and entomology officers – have engaged in strikes time and time again over the past few months demanding an allowance hike for them.
+
+The trade union actions stemmed from the Cabinet Ministers’ approval of a proposal tabled by President Ranil Wickremesinghe seeking to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000.
+
+◼️
+
+[Data](articles/cf644085.json)
+
+---
+
 ### Health strike
 
 *2024-02-13 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193336) · `si`
@@ -71,6 +143,26 @@ Meanwhile, the All Ceylon Nursing Association Secretary SB Mediwauthttu said tha
 [Data](articles/031272c2.json)
 
 [Extended Data](ext_articles/031272c2.ext.json)
+
+---
+
+### National & children’s hospitals to be built in Biyagama
+
+*2024-02-13 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97231/national-childrens-hospitals-to-be-built-in-biyagama) · `en`
+
+Plans are afoot to establish a National Hospital and a Children’s Hospital in Biyagama area of Gampaha District due to the high demand for health services in the area, the government says.
+
+As a result of the growing population and industrialization in the Gampaha District, it acts as a major service delivery centre. Accordingly, the government has recognized the need to build a National Hospital and a Children’s Hospital there in order to meet the rising demand for health services.
+
+On that account, the Cabinet of Ministers, at its meeting on Monday (Feb.12), green-lighted a proposal to implement the project after acquiring 2 plots of land, stretching across 7 acres and 3 roods, located in Biyagama North Grama Niladhari Division and providing basic infrastructure.
+
+The proposal was tabled by President Ranil Wickremesinghe and Health Minister Dr. Ramesh Pathirana.
+
+The project is planned to be carried out under a public-private partnership.
+
+◼️
+
+[Data](articles/1a34c1c8.json)
 
 ---
 
@@ -1927,127 +2019,5 @@ SJB MP Mujibur Rahuman, meanwhile, accused President Ranil Wickremesinghe of sch
 [Data](articles/acd52f3e.json)
 
 [Extended Data](ext_articles/acd52f3e.ext.json)
-
----
-
-### The businessman is submerged by the businessman
-
-*2024-02-13 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193317) · `si`
-
-Gampola Emergency Inspector Nalinayake, Gampola has died in Korea for many years and falls back to Korea.. It was revealed at a middle-aged death investigation.
-
-The deceased has been identified as a business youth, a resident of Balawala Balawala Palagala Pathara, a 30 year old.
-
-He is a marriage person from Korea to Sri Lanka last year.
-
-After the arrival of the country, he has also bought a number of trees to cut down trees.
-
-The autopsy was revealed that he had started the trees, which have worked as the Korea and had commenced the trees.
-
-The 10th of this month has bought several trees with two other trees in Gampola.
-
-Seventy-seven times, the ropes were placed on a tall tree, and the crowd was raw in one direction, and the victim had run to the tree.
-
-The trunk of the tree had fallen into his head, while he had a head left for another.
-
-The injured was taken to the Gampola hospital, hospital sources said that he had already died.
-
-...
-
-[Data](articles/99ac5f32.json)
-
-[Extended Data](ext_articles/99ac5f32.ext.json)
-
----
-
-### Car accident of MP Ali Sabri Rahim;One injury
-
-*2024-02-13 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/176241) · `ta`
-
-Saliyawwa police said that one person was injured when parliamentarian Ali Sabri Rahim was traveling in a car accident.
-
-The accident occurred near the 15th mile stone of the Puttalam - Anuradhapura road today (13) at around 1 pm.
-
-The accident occurred when Ali Sabri Rahim was traveling from Puttalam to Anuradhapura.
-
-HM Harshana Pradeep from the upper sect of Aluthgama, Aluthgama, who was injured in the accident, has been admitted to the Puttalam Resource Hospital for treatment.
-
-The man who drove the small plowing machine was injured in the accident, police said.
-
-The driver of a parliamentarian who was traveling in the incident has been arrested by the police.
-
-◼️
-
-[Data](articles/3110d98a.json)
-
-[Extended Data](ext_articles/3110d98a.ext.json)
-
----
-
-### Health Ministry admits glass particles being found in ‘Meropenem’ drug
-
-*2024-02-13 09:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-Ministry-admits-glass-particles-being-found-in-Meropenem-drug/108-276908) · `en`
-
-Colombo, Feb 13 (Daily Mirror) - The Health Ministry has initiated an investigation following allegations made by health trade unions regarding the haphazard storage of drug consignments at Customs terminals in Welisara, Wattala, and Kelaniya.
-
-Speaking to the media, Deputy Director General (Medical Services) Dr. G. Wijesuriya admitted that glass particles had also been found inside the vials of the antibiotic named ‘Meropenem’ stored within these terminals.
-
-According to the reports, these consignments have been placed for over four months violating the proper standards of storage.
-
-The health ministry is looking into the further details of the importer of the Meropenem drug.
-
-Meanwhile, Dr Wijesuriya highlighted the dearth of human capital in the Medical Supplies Division (MSD) which was under the fire following the allegations regarding the import of the substandard immunoglobulin drug.
-
-...
-
-[Data](articles/6a9cc83c.json)
-
-[Extended Data](ext_articles/6a9cc83c.ext.json)
-
----
-
-### Bus - Lori injured in accident
-
-*2024-02-13 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193316) · `si`
-
-Kilinochchi, a bus bus and a lorry carrying Army personnel in Kokavil area, had accidental.
-
-Six persons were injured in the accident, Mankulama police say.
-
-Police said the accident had occurred from a bus belonging to Karainagar traveling from Thunukkai from Mullaittivu to Karainagar, a lorry.
-
-The lorry was rolled and four soldiers were injured and a woman in the bus was injured and admitted to the Kilinochchi hospital.
-
-Hospital sources claimed that the condition of the injured were not serious, police said that the bus driver has been arrested in connection with the accident.
-
-The accident occurred, and the Mankulam Police are conducting further investigations.
-
-◼️
-
-[Data](articles/3f91b68b.json)
-
-[Extended Data](ext_articles/3f91b68b.ext.json)
-
----
-
-### One injured after MP Ali Sabri’s jeep collides with tractor
-
-*2024-02-13 09:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/One-injured-after-MP-Ali-Sabris-jeep-collides-with-tractor/108-276906) · `en`
-
-Puttalam, Feb 13 (Daily Mirror) - A 24-year-old man was injured after a jeep in which MP Ali Sabri Raheem was travelling collided with a tractor near the 15th mile post on the Puttalam-Anuradhapura main road early this morning.
-
-Police said the injured individual, a resident of Puliyankulama, was admitted to the Puttalam Hospital.
-
-It was reported that the MP, along with two security personnel and two other individuals, was travelling in the jeep at the time of the accident. They were heading towards the Pulmude area from Puttalam when the accident occurred.
-
-Both the jeep and the tractor were severely damaged in the accident.
-
-The driver of the jeep has been arrested, and the Saliyawewa Police are conducting further investigations.
-
-◼️
-
-[Data](articles/3a9dad8e.json)
-
-[Extended Data](ext_articles/3a9dad8e.ext.json)
 
 ---

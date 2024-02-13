@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 07:15:44**
+As of **2024-02-13 08:02:26**
 
 ## Newspaper Stats
 
-*Scraped **6,611** Articles*
+*Scraped **6,613** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,60 +15,64 @@ economynextcom | 339
 islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
-adalk | 558
+adalk | 559
 tamilmirrorlk | 803
 adaderanalk | 803
 virakesarilk | 829
 adaderanasinhalalk | 920
-dailymirrorlk | 963
+dailymirrorlk | 964
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,599 (99.8%) of 6,611 articles have been extended.
+6,613 (100.0%) of 6,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
-### පාර්ලිමේන්තු මන්ත්‍රී අලි සබ්‍රි රහීම්ගේ මෝටර් රථය අනතුරකට ලක්වෙයි
+### MP Ali Sabri Raham's car in danger
 
 *2024-02-13 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193309) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී අලි සබ්‍රි රහීම් මහතා ගමන් කරමින් තිබූ මෝටර් රථය අනතුරට පත්වීමෙන් පුද්ගලයෙකු තුවාල ලබා ඇති බව සාලියවැව පොලීසිය සඳහන් කරයි.
+Saliyawewa Police said that the car was injured in the accident that he was traveling by MP Ali Sabri Raheem.
 
-අද (13) අලුයම 1.00ට පමණ පුත්තලම - අනුරාධපුර මාර්ගයේ 15 කණුව ප්‍රදේශයේදී මෙම අනතුර සිදුවී ඇත.
+The accident had occurred at the Puttalam-Anuradhapura road on the Puttalam-Anuradhapura road around 1.00 am today.
 
-අනතුරින් තුවාල ලබා ඇත්තේ ඉහළ පුලියන්කුලම - අලුත්ගම පදිංචිකරුවෙකු වන එච්.එම්.හර්ෂණ ප්‍රදීප් නම් අයෙකි.
+HM Chartawa, a resident of Meetro, is also injured in the accident.
 
-මන්ත්‍රීවරයා පුත්තලමේ සිට අනුරාධපුර දෙසට ගමන් කරමින් සිටිය දී එම දෙසටම ධාවනය වූ අත්ට්‍රැක්ටරයක පිටුපස මන්ත්‍රීවරයාගේ මෝටර් රථය ගැටීමෙන් අනතුර සිදුවී තිබිණි.
+The MP was behind the back of the man who was on the back of the MP from Puttalam to Anuradhapura.
 
-තුවාල ලබා ඇත්තේ අත්ට්‍රැක්ටරය පදවා ගෙන ගිය පුද්ගලයා බව පොලීසිය සඳහන් කරයි.
+The injured were the person who was driven by the handtor.
 
-අනතුර සම්බන්ධයෙන් මන්ත්‍රීවරයා ගමන් කළ මෝටර් රථය පැදවූ රියදුරුව සාලියවැව පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+Saliyawewa Police have arrested the driver of the vehicle that the MP was traveling.
 
 ◼️
 
 [Data](articles/fe932931.json)
 
+[Extended Data](ext_articles/fe932931.ext.json)
+
 ---
 
-### දිය වැලකට හසුවූ පිරිසක්ව බේරාගනී
+### Rescues a group of people
 
 *2024-02-13 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193308) · `si`
 
-දිය වැලකට හසුවී දියේ ගිලෙමින් සිටි පාසල් සිසුන් සිව්දෙනෙක් හා තරුණයෙක්ව පොලිස් ජීවිතාරක්ෂක ඒකකයේ නිලධාරීන් විසින් බේරාගෙන තිබේ.
+Four students and a youth who were drowning in a breakdown have been rescued by the police warrator unit.
 
-ඊයේ (12) එම පිරිස පානදුර වෙරළ තීරයේ දිය නාමින් සිටීය දී දිය වැලකට හසුවී ඇත.
+They were in a breakdown in Panadura coast yesterday (12).
 
-එලෙස බේරාගත් පිරිස අතර වසය අවුරුදු 12ක් හා 09ක් වූ පිරිමි ළමුන් දෙදෙනෙකු, වයස අවුරුදු 17ක් හා 14ක් වූ ගැහැනු ළමුන් දෙදෙනෙකු හා වයස අවුරුදු 23ක් වූ තරුණයෙකු සිටින බව පොලීසිය පවසයි.
+The rescued was two and two girls, aged 17 and 14, and a 23-year-old youth.
 
-එම පිරිස බේරාගැනීමට සඳහා කටයුතු කර ඇත්තේ, පානදුර වෙරළ තීරයේ ජීවිතාරක්ෂ රාජකාරියේ යෙදී සිටි පොලිස් කොස්තාපල් පුෂ්පකුමාර හා පොලිස් කොස්තාපල් දසුන් යන නිලධාරීන් බව පොලිස් මාධ්‍ය කොට්ඨාසය පවසයි.
+The Police Media Division states that the Police Media Divisional Officers were conducted on rescue duty on the Panadura coastline.
 
 ◼️
 
 [Data](articles/405b4979.json)
+
+[Extended Data](ext_articles/405b4979.ext.json)
 
 ---
 
@@ -323,6 +327,24 @@ Australian captain Hue Weejen has been named champion of the selection team feat
 [Data](articles/0883456c.json)
 
 [Extended Data](ext_articles/0883456c.ext.json)
+
+---
+
+### RTI reveals… Budget allocated to conduct one election in 2024
+
+*2024-02-13 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/news-features/RTI-reveals-Budget-allocated-to-conduct-one-election-in-2024/131-276857) · `en`
+
+It seems like President Ranil Wickremesinghe had already begun his campaign, defections among key figures in major political parties indicate that an election is likely in the offing
+
+Whether a General Election could be held with Rs. 250,000,000 remains doubtful, according to critics in the political scene
+
+NPP Leader Anura Kumara Dissanayake said that it is no secret that the incumbent President has delayed elections
+
+...
+
+[Data](articles/19e7dd1b.json)
+
+[Extended Data](ext_articles/19e7dd1b.ext.json)
 
 ---
 
@@ -816,6 +838,8 @@ Uber remained the favourite mobility companion for the island nation, with produ
 
 [Data](articles/28740500.json)
 
+[Extended Data](ext_articles/28740500.ext.json)
+
 ---
 
 ### First private healthcare provider to receive prestigious Green Building Council Certification
@@ -827,6 +851,8 @@ Ninewells Hospital, Sri Lanka’s leader in woman and childcare has proudly achi
 ...
 
 [Data](articles/8969658a.json)
+
+[Extended Data](ext_articles/8969658a.ext.json)
 
 ---
 
@@ -865,6 +891,8 @@ In the retail market top seven companies that mainly contributed to the turnover
 ...
 
 [Data](articles/eeb6139d.json)
+
+[Extended Data](ext_articles/eeb6139d.ext.json)
 
 ---
 
@@ -1042,6 +1070,24 @@ The Centre for Environmental Justice (CEJ) and its Executive Director Hemantha W
 
 ---
 
+### Many health sectors become sick today
+
+*2024-02-12 20:03:39* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-බොහෝ-අංශ-අද-ලෙඩ-වෙයි/11-408042) · `si`
+
+Health Trade Union Alliances states that the health workers held yesterday (13) with the authorities have been unsuccessful since 6.30 am today (13)..
+
+The UPFA convener Ravikkumah said that the committee was appointed as the issues were carried out until the problems of this program would be done until the problems were solved.
+
+He said that this committee would not have the power to do the economic justice of health staff, he said that this committee would not have had enough power to solve the problems.. 72 trade unions of health care are covered by child and women's hospitals, cancer and kidney activities and the central blood banks and other hospitals are the essential services of the other hospitals.
+
+...
+
+[Data](articles/45d8c881.json)
+
+[Extended Data](ext_articles/45d8c881.ext.json)
+
+---
+
 ### Memorandum of Understanding to set up factories within the prison campus
 
 *2024-02-12 20:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176227) · `ta`
@@ -1171,6 +1217,8 @@ With the introduction of Unified Payment Interface (UPI)  transactions through 
 ...
 
 [Data](articles/e2a01238.json)
+
+[Extended Data](ext_articles/e2a01238.ext.json)
 
 ---
 
@@ -1991,37 +2039,5 @@ Investigations have revealed that a group of senior students of the Sabaragamuwa
 [Data](articles/c9f6d17b.json)
 
 [Extended Data](ext_articles/c9f6d17b.ext.json)
-
----
-
-### Protesters gather, mother guides daughters
-
-*2024-02-12 16:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protesters-gather-mother-guides-daughters/110-276844) · `en`
-
-The Principals' Service Association staged a demonstration in front of the Ministry of Education in Battaramulla, Colombo today (Monday 12) over several demands. As the protest was on, a mother is passing the protestors alongside her two daughters, probably taking them home after school. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/dfb46975.json)
-
-[Extended Data](ext_articles/dfb46975.ext.json)
-
----
-
-### Complaint over suspected umpire exam paper leak
-
-*2024-02-12 16:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Complaint-over-suspected-umpire-exam-paper-leak/108-276845) · `en`
-
-Colombo, Feb. 12 (Daily Mirror) - A complaint has been lodged with the Sri Lanka Human Rights Commission (SLHRC) alleging that the Sri Lanka Cricket Umpires' Committee had leaked papers from last year's umpires' exam.
-
-Chandana Kannangara, a Grade Four umpire from the Sri Lanka Cricket Board, told the media outside the SLHRC after lodging the complaint that the Sri Lanka Cricket Board had conducted an examination last year to upgrade the Grade Four umpires to Grade Three, with over 100 candidates participating.
-
-Kannangara alleged that two individuals, a former Test cricket umpire and a member of the Sri Lanka Cricket Umpires' Committee, had leaked a paper containing 60 questions to several umpires a week before the exam. He claimed that 25 questions from the leaked paper were included in the official exam.
-
-...
-
-[Data](articles/9daf7534.json)
-
-[Extended Data](ext_articles/9daf7534.ext.json)
 
 ---

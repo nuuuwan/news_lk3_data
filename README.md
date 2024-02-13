@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 11:02:27**
+As of **2024-02-13 11:17:22**
 
 ## Newspaper Stats
 
-*Scraped **6,649** Articles*
+*Scraped **6,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 359
 newsfirstlk | 363
 adalk | 562
 adaderanalk | 806
-tamilmirrorlk | 814
+tamilmirrorlk | 816
 virakesarilk | 829
 adaderanasinhalalk | 929
 dailymirrorlk | 973
@@ -26,11 +26,45 @@ dailymirrorlk | 973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,649 (100.0%) of 6,649 articles have been extended.
+6,651 (100.0%) of 6,651 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### Paddy Marketing Board that has lost 124 crores
+
+*2024-02-13 10:46:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/124-கோடியை-இழந்துள்ள-நெல்-சந்தைப்படுத்தல்-சபை/175-333119) · `ta`
+
+The National Audit Office said in a statement that the Paddy Marketing Board had suffered a loss of Rs 124 crore.
+
+This shows the loss of loss by 2020 compared to 2019.
+
+In April last year, the Paddy Marketing Board did not pay Rs 664 crore to the treasury, the National Audit Office said.
+
+◼️
+
+[Data](articles/a11cfb14.json)
+
+[Extended Data](ext_articles/a11cfb14.ext.json)
+
+---
+
+### Arrest
+
+*2024-02-13 10:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாயைக்-கொலை-செய்த-குற்றச்சாட்டில்-ஒருவர்-கைது/175-333118) · `ta`
+
+A 65 -year -old man has been arrested for allegedly setting fire to a dog who was raised in a house in Gampaha, Upper Yagoda area, Yakkala police said.
+
+Police said the man was arrested on the basis of a complaint made by the owner of a burned dog.
+
+◼️
+
+[Data](articles/abcb566d.json)
+
+[Extended Data](ext_articles/abcb566d.ext.json)
+
+---
 
 ### Test a motorcycle gone and a beat
 
@@ -2049,47 +2083,5 @@ A senior official of the Meegoda Police Station said that the trading was agreed
 [Data](articles/f76f45eb.json)
 
 [Extended Data](ext_articles/f76f45eb.ext.json)
-
----
-
-### Keerthi Sri Rajasinghe Narendran's Metal Statue
-
-*2024-02-12 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176225) · `ta`
-
-President Ranil Wickremesinghe was held on Monday (12) to remove the metal statue of Keerthi Srirajasinghe Narendran, who was installed on the 70th birthday of Panaga Maharama Nayaka Thera, including Kalupitiya Valugarama, including Kaluppitti Valugarama.
-
-The metal statue has been constructed with the support of the donors of Thailand, including the Mahasangas in Thailand.
-
-The President also opened the metal statue of Keerthi Sri Rajasinghe Narendran. The statue of Velida Saranankara Sankaraja Thera, which was constructed in the Vihara, was also removed.
-
-Following this, Sri Kalyani Samasiri Dharma Maha Sangha Sabha Mahanayaka Thera Malwane Panchasarapithana Thera was performed by religious observances.. The salon was performed by Maharagama Nanda Nayaka Thera.
-
-...
-
-[Data](articles/30a0c45d.json)
-
-[Extended Data](ext_articles/30a0c45d.ext.json)
-
----
-
-### A male officer arrested for abusing female officer
-
-*2024-02-12 19:09:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-உத்தியோகத்தரை-துஷ்பிரயோகம்-செய்த-ஆண்-உத்தியோகர்-கைது/175-333086) · `ta`
-
-A senior Grama Niladhari of Kalpitiya Divisional Secretariat has been arrested on charges of sexually abusing a woman village officer.
-
-The victim told the police that she had first lodged a complaint with the Divisional Secretary but that she did not take appropriate action.
-
-When he was alone, he said the suspect had called him home to carry the computer he was given to the census related to him.
-
-He added that the suspect had resigned from his post due to the pain caused by the incident, accusing the suspect of ignoring his duties.
-
-A senior police officer said the suspect was to be produced in court.
-
-◼️
-
-[Data](articles/0d906942.json)
-
-[Extended Data](ext_articles/0d906942.ext.json)
 
 ---

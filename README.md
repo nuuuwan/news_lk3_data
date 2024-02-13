@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 20:17:19**
+As of **2024-02-13 20:33:10**
 
 ## Newspaper Stats
 
-*Scraped **6,780** Articles*
+*Scraped **6,781** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 359
 newsfirstlk | 363
 adalk | 578
 tamilmirrorlk | 831
-adaderanalk | 832
+adaderanalk | 833
 virakesarilk | 854
 adaderanasinhalalk | 949
 dailymirrorlk | 992
@@ -26,23 +26,43 @@ dailymirrorlk | 992
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,779 (100.0%) of 6,780 articles have been extended.
+6,780 (100.0%) of 6,781 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
-### යුක්‍රේනය ඊශ්‍රායලය සහ තායිවානය ගැන අමෙරිකාවෙන් ආන්දෝලනාත්මක පියවරක්
+### Healthcare gazetted as essential service as trade union action continues
+
+*2024-02-13 19:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97242/healthcare-gazetted-as-essential-service-as-trade-union-actioncontinues) · `en`
+
+A special gazette notification has been published declaring the provision of healthcare as an essential public service.
+
+Presidential Secretary Saman Ekanayake issued the communiqué on Tuesday (Feb.13), on the directives of President Ranil Wickremesinghe.
+
+The communiqué was published in accordance with the powers vested in the President under Section 2 of the Essential Public Services Act No. 61 of 1979.
+
+It reads that “all service, work or labour, of any description whatsoever, necessary or required to be done in connection with the maintenance, and the reception, care feeding, and treatment, of patients in hospitals, nursing homes, dispensaries, and other similar institution” are considered essential to the life of the community.
+
+◼️
+
+[Data](articles/68f83932.json)
+
+---
+
+### United States of America's Israeli and Taiwan
 
 *2024-02-13 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193341) · `si`
 
-යුක්‍රේනය, ඊශ්‍රායලය සහ තායිවානය සඳහා අමෙරිකානු ඩොලර් බිලියන 95ක ආධාර පැකේජයක් ලබාදීමට අදාළ යෝජනාවට අමෙරිකානු සෙනෙට් මණ්ඩලයේ අනුමැතිය හිමිවී තිබේ.
+The proposal to provide a US $ 95 billion aid package for Israel and Taiwan, the US Senate has approved the proposal.
 
-නමුත් එම යෝජනාව ඊළඟ අදියරේදී  අභියෝගයට ලක්විය හැකි බවද පැවසෙයි.
+However, the suggestion is to be challenged in the next stage.
 
 ◼️
 
 [Data](articles/1996a4ad.json)
+
+[Extended Data](ext_articles/1996a4ad.ext.json)
 
 ---
 
@@ -1957,25 +1977,5 @@ The main and private banking controllers have said that the mainstream holidays 
 [Data](articles/10298119.json)
 
 [Extended Data](ext_articles/10298119.ext.json)
-
----
-
-### In response, the Inspector General of Police, Deshabandu, ends on the 29th of this month!
-
-*2024-02-13 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176259) · `ta`
-
-The Inspector General of Police, Deshabandu, will end the tenure of South Khon on the 29th of this month.. He was appointed as the Inspector General of Police for three months.
-
-The appointment was made by President Ranil Wickremesinghe on November 29.
-
-But there was fierce opposition among politicians and community activists over the appointment.
-
-Although. Patriot Tennakoon accepted his post on November 30.
-
-◼️
-
-[Data](articles/2f87b527.json)
-
-[Extended Data](ext_articles/2f87b527.ext.json)
 
 ---

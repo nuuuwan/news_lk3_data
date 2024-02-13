@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 09:02:32**
+As of **2024-02-13 09:17:26**
 
 ## Newspaper Stats
 
-*Scraped **6,627** Articles*
+*Scraped **6,635** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,95 @@ islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
 adalk | 559
-adaderanalk | 805
-tamilmirrorlk | 809
+adaderanalk | 806
+tamilmirrorlk | 812
 virakesarilk | 829
 adaderanasinhalalk | 926
-dailymirrorlk | 964
+dailymirrorlk | 968
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,627 (100.0%) of 6,627 articles have been extended.
+6,627 (99.9%) of 6,635 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### காலநிலையில் திடீர் மாற்றம்
+
+*2024-02-13 08:44:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலநிலையில்-திடீர்-மாற்றம்/175-333114) · `ta`
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் பொலன்னறுவை, மாத்தளை மற்றும் நுவரெலியா மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் பி.ப. 2.00 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மத்திய மலைநாட்டின் கிழக்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய, தென், வடமேல், ஊவா மற்றும் கிழக்கு மாகாணங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 30-40 கிலோ மீற்றர் வரையான வேகத்தில் ஓரளவு பலத்த காற்று வீசக் கூடும் என எதிர்பார்க்கப்படுகின்றது.
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/8620ee68.json)
+
+---
+
+### Health trade unions go on another strike over allowances
+
+*2024-02-13 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97212/health-trade-unions-go-on-another-strike-over-allowances) · `en`
+
+A collective of 72 health sector trade unions resorted to another strike starting at 6.30 a.m. today (Feb.13).
+
+Health Trade Union Alliance’s convenor Ravi Kumudesh said the purpose of the trade union action is to urge the government to provide them with an allowance similar to that of Disturbance, Availability and Transport (DAT) allowance given to medical officers.
+
+All-Ceylon Nurses Union’s secretary S.B. Mediwatta said a protest will be staged in Colombo tomorrow (Feb.14).
+
+The trade unions representing a wide range of health sector professionals, including radiology and laboratory technicians, pharmacists and drug compounders, midwives, dental surgeons, public health inspectors, and entomology officers have engaged in strikes over the past few months demanding an allowance hike.
+
+The trade union actions stemmed from the Cabinet Ministers’ approval of President Ranil Wickremesinghe’s proposal to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000.
+
+◼️
+
+[Data](articles/3e4c570a.json)
+
+---
+
+### எம்.பி ஒருவர் பயணித்த கார் விபத்து; ஒருவர் படுகாயம்
+
+*2024-02-13 08:41:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-ஒருவர்-பயணித்த-கார்-விபத்து-ஒருவர்-படுகாயம்/175-333113) · `ta`
+
+பாராளுமன்ற உறுப்பினர் அலி சப்ரி ரஹீம் பயணித்த கார் விபத்தில் சிக்கியதில் ஒருவர் காயமடைந்துள்ளதாக சாலியவெவ பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்த விபத்து புத்தளம் - அனுராதபுரம் வீதியின்  15 ஆம் தூண் பிரதேசத்தில் இன்று (13) அதிகாலை 1.00 மணியளவில்  இடம்பெற்றுள்ளது.
+
+அளுத்கம மேல் புளியங்குளம் பகுதியைச் சேர்ந்த எச்.எம். ஹர்ஷன பிரதீப் என்பவர் விபத்தில் காயமடைந்து புத்தளம் ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+புத்தளத்தில் இருந்து அனுராதபுரம் நோக்கி பயணித்த போது, ​​பாராளுமன்ற உறுப்பினரின் கார் அதே திசையில் பயணித்த உழவு இயந்திரத்தின் பின்புறம் மோதியதில் இந்த விபத்து ஏற்பட்டுள்ளது.
+
+விபத்து தொடர்பில் பாராளுமன்ற உறுப்பினர் பயணித்த காரின் சாரதி சாலியவெவ பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/c5f63c50.json)
+
+---
+
+### No breeze, more heat in Sri Lanka
+
+*2024-02-13 08:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-breeze-more-heat-in-Sri-Lanka/108-276904) · `en`
+
+Colombo, Feb 13 (Daily Mirror) - Declining wind flow in some parts of the country had resulted in people in Western, and Sabaragamuwa and Southern Provinces feeling the heat more than usual, a spokesman from the Department of Meteorology said yesterday.
+
+Deputy Director, Department of Meteorology Merril Mendis told Daily Mirror that the wind flow in the Western Province, Southern and Sabaragamuwa have declined. “Some areas in Sri Lanka are experiencing a declining wind flow. However, the situation in the North and the East is different as there is a fairly heavy wind flow,” he said.
+
+“This is not an unusual phenomenon as this happens during this time of the year. Temperature might increase further during the coming few months and the sun will come directly over Sri Lanka during the first week in April,” he added.
+
+...
+
+[Data](articles/628e6d99.json)
+
+---
 
 ### Avoided lover boyfriend, a girlfriend of sweetheart
 
@@ -344,6 +418,22 @@ The Department of Meteorology also stated that in some places in the Western and
 
 ---
 
+### டிஜிட்டல் கட்டணம் மூலம் வர்த்தகர்களுக்கு நன்மைகள்
+
+*2024-02-13 04:08:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிஜிட்டல்-கட்டணம்-மூலம்-வர்த்தகர்களுக்கு-நன்மைகள்/175-333097) · `ta`
+
+இலங்கைக்கு வருகை தரும் இந்திய சுற்றுலாப் பயணிகளுக்கு டிஜிட்டல் கியூ.ஆர். குறியீடு மூலம் ஒருங்கிணைந்த கட்டண முறை அல்லது யு.பி.ஐ.  அறிமுகப்படுத்திய பின்னர் அது தொடர்பாக விளக்கமளிக்கும் ஊடகவியலாளர் சந்திப்பு நேற்று  பிற்பகல் ஜனாதிபதி ஊடக மையத்தில் இடம்பெற்றது.
+
+இந்த திட்டத்தை விரைவாக விரிவுபடுத்தும் நோக்கத்துடன், 10 ஆயிரம் வர்த்தக நிலையங்களில் இந்த கட்டண முறை இதனுடன் இணைந்ததாக நடைமுறைப்படுத்தப்படுவதோடு இந்த வசதியை மேலும் விரிவுபடுத்துவதன் மூலம், 2024 மார்ச் மாத்திற்குள் , இந்த வர்த்தக நிலையங்களின் எண்ணிக்கை 65 ஆயிரமாக  உயர்த்தப்படும் எனவும இங்கு சுட்டிக்காட்டப்பட்டது.
+
+பெரும்பாலான இந்தியர்கள் கியூ.ஆர். குறியீடு ஊடாக கொடுப்பனவுகளை செலுத்துவதற்குப் பழக்கப்பட்டிருப்பதால், இந்திய சுற்றுலாப் பயணிகள், இலங்கை முழுவதும் உள்ள வர்த்தக சமூகத்திற்கு பணம் செலுத்துவதற்கு யு.பி.ஐ. தொலைபேசி செயலிகளை தடையின்றி பயன்படுத்தலாம்.
+
+...
+
+[Data](articles/82e1a4db.json)
+
+---
+
 ### Properly register the SIM card
 
 *2024-02-13 04:01:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிம்-அட்டையை-முறையாகப்-பதிவு-செய்யுங்கள்/175-333096) · `ta`
@@ -607,6 +697,64 @@ Payments can be paid by scanning the QR code through the LANKAQR, the most optim
 [Data](articles/3ca68057.json)
 
 [Extended Data](ext_articles/3ca68057.ext.json)
+
+---
+
+### Central Bank expands Governing Board with two new members
+
+*2024-02-13 00:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-expands-Governing-Board-with-two-new-members/108-276903) · `en`
+
+The Central Bank of Sri Lanka (CBSL) has expanded its Governing Board, with the appointment of two new members.
+
+The financial sector regulator yesterday announced that the Governing Board now includes Rajeev Amarasuriya, with effect from January 30 and Manil Jayesinghe, with effect from February 01.
+
+Alongside the new appointees, the Governing Board comprises of CBSL Governor Dr. P. Nandalal Weerasinghe, who serves as Chairman, A.N. Fonseka, appointed Member of the Monetary Board of the CBSL since July 27, 2022, who continued to serve as a Member of the Governing Board, Dr. Ravi Ratnayake, appointed on September 21, 2023, Anushka S. Wijesinha, appointed on September 21, 2023 and Vish Govindasamy, appointed on October 26, 2023.
+
+...
+
+[Data](articles/44b10241.json)
+
+---
+
+### Dairy sector makes fresh bid to reconsider VAT rollout
+
+*2024-02-13 00:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dairy-sector-makes-fresh-bid-to-reconsider-VAT-rollout/108-276902) · `en`
+
+“THE VAT HIKE THREATENS THE PROFITABILITY OF THE SECTOR AND CONTRADICTS THE GOVERNMENT’S OBJECTIVE TO BOOST DAIRY PRODUCTION BY 53 PERCENT- AIDA
+
+Cautions failure to reconsider will have far-reaching, detrimental consequences on local dairy sector
+
+Asserts additional burden of increased VAT could further strain affordability of dairy products, leading to a decline in consumption
+
+Requests to increase VAT gradually with support measures, allowing sector space to adjust
+
+Sri Lanka’s dairy stakeholders urged the government to reconsider the decision to increase the Value Added Tax (VAT) and cautioned that failure to do so would have far-reaching, detrimental consequences on the dairy sector and the overall health and wellbeing of the Sri Lankan population.
+
+The All Island Dairy Association (AIDA) asserted that the move, which was intended to broaden the tax base, could have severe repercussions for the dairy sector, a vital contributor to the nation’s GDP and a cornerstone of rural livelihoods.
+
+...
+
+[Data](articles/e57d5aed.json)
+
+---
+
+### Central Bank continues to collect foreign exchange from domestic market
+
+*2024-02-13 00:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-continues-to-collect-foreign-exchange-from-domestic-market/108-276901) · `en`
+
+Continuing its months-long streak, the Central Bank purchased another US $ 245.3 million in foreign exchange from the domestic banking system and sold nothing in January, ending as a net purchaser of foreign currency to begin the year.
+
+This is a sign of improving foreign currency liquidity in the domestic banking system further into the new year, when the Central Bank ended up purchasing US $ 1,895.87 million in 2023, reaching a record level, given the trying conditions prevailed in foreign currency conditions for most part of the year.
+
+The Central Bank recently said these substantial net absorptions contributed immensely for it to be able to rebuild the reserves to US $ 4.4 billion by the end of 2023.
+
+A month later, the reserves further rose by just shy of US $ 100 million to US $ 4,491.0 million by the end of January 2024.
+
+A month later, the reserves further rose by just shy of US $ 100 million to US $ 4,491.0 million by the end of January 2024.
+
+...
+
+[Data](articles/b6f273d4.json)
 
 ---
 
@@ -1875,169 +2023,5 @@ Mr. Rajeev Amarasuriya is the Immediate Past Secretary of the Bar Association of
 [Data](articles/51f269f3.json)
 
 [Extended Data](ext_articles/51f269f3.ext.json)
-
----
-
-### SJB divided on constitutional reforms
-
-*2024-02-12 18:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-divided-on-constitutional-reforms/108-276851) · `en`
-
-Colombo, Feb 12 (Daily Mirror) - Divisions within the Samagi Jana Balawegaya (SJB) on constitutional reforms was witnessed today when MP Rajitha Senaratne stated that the Executive Presidency should be abolished immidately while the party General Secretary Ranjith Madduma Bandara insisted that a Presidential election should be held first and the reforms should come next.
-
-The divisions were evident when both vocied their opinion at a dicussion organized by the National Movement for Social Justice.
-
-"Why should we have a Presidential election if we are to abolish the presidency?" Dr. Senaratne questioned.
-
-However Madduma Bandara who  commented said people's right for franchise should be upheld. Prriority should be given to people's right for franchise," he said.
-
-◼️
-
-[Data](articles/c277b366.json)
-
-[Extended Data](ext_articles/c277b366.ext.json)
-
----
-
-### Mid-air emergency forces SriLankan flight to turn back to Melbourne
-
-*2024-02-12 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97205/mid-air-emergency-forces-srilankan-flight-to-turn-back-to-melbourne) · `en`
-
-A SriLankan Airlines flight has turned back to Melbourne following an incident shortly after take-off on Monday evening (12 Feb.), Australian media reported.
-
-SriLankan Airlines flight UL605 left Melbourne Airport just after 6.30pm (AEST) but declared an emergency soon after and requested to return to Victoria.
-
-The scare was sparked by reports of smoke in the cockpit, according to Travel Talk.
-
-The airline didn’t address that directly, but said it had identified a “technical issue”.
-
-“A team of technicians is currently assessing the aircraft and providing technical support.”
-
-“In line with Melbourne Airport procedures, a local standby was declared, with emergency services responding as a precaution,” an airport spokesperson said.
-
-The flight had been headed for Colombo prior to the interruption.
-
-Meanwhile the national carrier SriLankan Airlines has issued the following statement on the incident:
-
-SriLankan Airlines Statement on Flight UL 605 by Adaderana Online on Scribd
-
-◼️
-
-[Data](articles/c149a1df.json)
-
-[Extended Data](ext_articles/c149a1df.ext.json)
-
----
-
-### Notification for students who passed the scholarship examination
-
-*2024-02-12 18:08:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைபரிசில்-பரீட்சையில்-சித்தியடைந்த-மாணவர்களுக்கான-அறிவிப்பு/175-333084) · `ta`
-
-Grade 5 Scholarship Appeal Applications for 2023 can now be submitted through enemy, the Ministry of Education said.
-
-Accordingly, based on the results of the Grade 5 Scholarship Examination held in 2023, the applications for Grade 6 of 2024 will be submitted by e -mail from 13.02.2024 to 29.02.2024.. Remble
-
-◼️
-
-[Data](articles/49d6a525.json)
-
-[Extended Data](ext_articles/49d6a525.ext.json)
-
----
-
-### SriLankan Airlines lands to Melbourne suddenly
-
-*2024-02-12 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193297) · `si`
-
-A plane from SriLankan Airlines suddenly landed at Melbourne Airport.
-
-The SriLankan Airlines issues a statement saying that the aircraft had been landed due to a technical fault.
-
-The SriLankan Airlines added that all passengers have come out of security and the technical team is screaming.
-
-SriLankan Airlines states that steps have been taken to provide hotel accommodation to passengers until relocation of the plane.
-
-◼️
-
-[Data](articles/79da3de2.json)
-
-[Extended Data](ext_articles/79da3de2.ext.json)
-
----
-
-### Sri Lanka chamber Outlook Report sees recovery in 2024
-
-*2024-02-12 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-chamber-outlook-report-sees-recovery-in-2024-150653/) · `en`
-
-ECONOMYNEXT – The Ceylon Chamber of Commerce’s Outlook Report 2024 says that Sri Lanka’s economic growth is poised for a modest recovery in 2024.
-
-This year’s report ‘Striving towards a New Growth Path’ reviews the performance of the domestic, global, and regional economies, offering perspectives on key sectors such as tourism, apparel, IT/BPM, FMCG, tea, banking, and renewable energy.
-
-“There are positive signs of 3 percent growth. The reforms may be difficult, but they will produce results if they are well-directed,” Central Bank Governor Dr Nandalal Weerasinghe said at the launch, adding that “we can expect a surplus in the external sector in 2024 if we manage the fiscal balances and create spillover effects”.
-
-“The current issues can be resolved with the implementation of reforms that will benefit the common people,” Duminda Hulangamuwa, Chairman of The Ceylon Chamber said in a statement.
-
-...
-
-[Data](articles/b2570af0.json)
-
-[Extended Data](ext_articles/b2570af0.ext.json)
-
----
-
-### Police officer killed in shooting during arrest attempt posthumously promoted
-
-*2024-02-12 17:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97204/police-officer-killed-in-shooting-during-arrest-attempt-posthumously-promoted) · `en`
-
-The Police Sergeant who succumbed to his injuries this morning (12 Feb.) after being shot while attempting to apprehend a suspect in the Malwathu Hirpitiya area recently, has been posthumously promoted.
-
-Accordingly, Police Spokesman DIG Nihal Thalduwa stated that the Police Sergeant in question had been posthumously promoted to the rank of Sub-Inspector (SI), on orders of the Acting Inspector General of Police (IGP) Deshabandu Tennakoon.
-
-On Saturday (10 Feb.), a team of officers from the Malwathu Hiripitiya Police Station had attempted to apprehend a suspect in the Batepola area, when a scuffle had broken out, after which the suspect had attempted to grab the firearm of the police officer in question.
-
-The firearm had then discharged injuring the 51-year-old police officer, while the suspect had then fled with the officer’s service firearm.
-
-...
-
-[Data](articles/3ca78ba5.json)
-
-[Extended Data](ext_articles/3ca78ba5.ext.json)
-
----
-
-### A players killed
-
-*2024-02-12 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193296) · `si`
-
-A playground was reportedly unlucky dead in the middle of a football match.
-
-The unfortunate event was the case at SiliWangi Stadium in BANDULGA, West Java.
-
-The victim was a 35-year-old sportsman.
-
-◼️
-
-[Data](articles/d01bc897.json)
-
-[Extended Data](ext_articles/d01bc897.ext.json)
-
----
-
-### Children encouraged to bathe for 20 minutes over heatwave
-
-*2024-02-12 17:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Children-encouraged-to-bathe-for-20-minutes-over-heatwave/108-276850) · `en`
-
-Colombo, Feb 12 (Daily Mirror) - In the wake of the rising temperatures, medical experts have advised parents to make sure their children take a bath for at least twenty minutes per day in order to keep dehydration at bay.
-
-Speaking to the Daily Mirror, Pediatric Specialist Dr. Deepal Perera highlighted the growing prevalence of skin ailments among children, attributing the trend to the escalating heat levels across the country.
-
-Dr. Perera emphasized that heightened temperatures not only exacerbate skin conditions but also pose a significant risk of dehydration, particularly among young children.
-
-In light of these developments, Dr. Perera issued a stern call to parents, urging them to remain vigilant and proactive in safeguarding their children's health.
-
-...
-
-[Data](articles/fa6de06b.json)
-
-[Extended Data](ext_articles/fa6de06b.ext.json)
 
 ---

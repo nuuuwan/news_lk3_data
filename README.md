@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 17:33:46**
+As of **2024-02-13 17:53:36**
 
 ## Newspaper Stats
 
-*Scraped **6,757** Articles*
+*Scraped **6,767** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ economynextcom | 345
 islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
-adalk | 572
-adaderanalk | 828
-tamilmirrorlk | 828
+adalk | 577
+adaderanalk | 830
+tamilmirrorlk | 831
 virakesarilk | 852
 adaderanasinhalalk | 947
 dailymirrorlk | 986
@@ -26,25 +26,123 @@ dailymirrorlk | 986
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,751 (99.9%) of 6,757 articles have been extended.
+6,767 (100.0%) of 6,767 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
-### டயானா கமகே விவகாரம்:மேன்முறையீட்டு மனு மீதான விசாரணை  நிறைவடைந்தது!
+### Sri Lanka to host International Gita Mahotsav 2024
+
+*2024-02-13 17:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97238/sri-lanka-to-host-international-gita-mahotsav-2024) · `en`
+
+The Cabinet of Ministers has granted approval for the International Bhagavad Gita Festival 2024 or ‘International Gita Mahotsav’ to be held in Sri Lanka.
+
+The International Gita Mahotsav is conducted by the Kurukshetra Development Board (KDB) in Haryana State in India to pay tribute to the sacred ‘Bhagavad Gita’ along with the series of religious activities related to sacred Bhagavad Gita, which is considered to be the most sacred book of Hindu devotees.
+
+During the recent years it has been held in overseas countries as well and the International Holy Bhagavad Gita festival for the year 2024 was proposed to be held in Sri Lanka.
+
+Accordingly, the Cabinet of Ministers has granted approval to the proposal furnished by the Minister of Buddha Sasana, Religious and Cultural Affairs, Vidura Wickremanayake to conduct the festival at the Nelum Pokuna Theatre premises from 01 to 03 March 2024 with the financial sponsorship of Kurukshetra Development Board in Haryana.
+
+◼️
+
+[Data](articles/9093a4f2.json)
+
+[Extended Data](ext_articles/9093a4f2.ext.json)
+
+---
+
+### Sri Lanka issues travel documents for Rajiv Gandhi assassination convict to return home, TN govt tells court
+
+*2024-02-13 17:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97237/sri-lanka-issues-travel-documents-for-rajiv-gandhi-assassination-convict-to-return-home-tn-govt-tells-court) · `en`
+
+Tamil Nadu government informed the Madras High Court on Tuesday that the Sri Lankan government has issued travel documents for one of the convicts in the former Prime Minister Rajiv Gandhi assassination, Santhan alias T Suthenthiraraja, who was released along with others in 2022 following a Supreme Court order.
+
+Additional Public Prosecutor R Muniapparaj made the submission before a division bench of Justices R Suresh Kumar and K Kumaresh Babu during a petition filed by Santhan seeking orders to facilitate his return to his native country. He is currently detained at the high-security detention camp for foreigners in Tiruchy.
+
+“The Sri Lanka deputy high commission has sent the travel documents to the Tamil Nadu government to pave the way for Santhan to return,” Muniapparaj told the court. He added that the state government has forwarded these travel documents to the Centre for issuing necessary orders to allow him to get back to his country.
+
+...
+
+[Data](articles/169d5e6a.json)
+
+[Extended Data](ext_articles/169d5e6a.ext.json)
+
+---
+
+### Diana Kamage affair: The hearing of the appeal
 
 *2024-02-13 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176296) · `ta`
 
-இராஜாங்க அமைச்சர் டயானா கமகேவின் நாடாளுமன்ற உறுப்புரிமை தொடர்பான  மனுவை மேன்முறையீட்டு நீதிமன்றம் நிராகரித்ததை எதிர்த்து தாக்கல் செய்யப்பட்ட மேன்முறையீட்டு மனு மீதான விசாரணைகள் இன்று செவ்வாய்க்கிழமை  (13) உயர் நீதிமன்றம் நிறைவடைந்தன.
+The Supreme Court on Tuesday (13) was concluded on Tuesday (13).
 
-மேல் நீதிமன்ற நீதிபதிகள் காமினி அமரசேகர, குமுதினி விக்கிரமசிங்க மற்றும் ஜனக் டி சில்வா ஆகிய மூவரடங்கிய நீதிபதிகள் குழாம் முன்னிலையில் மேன்முறையீடு விசாரணைக்கு வந்தது.
+The appeal was heard in the presence of a panel of judges of the Supreme Court, Gamini Amarasekera, Kumudini Wickramasinghe and Janak de Silva.
 
-இராஜாங்க அமைச்சரின் நாடாளுமன்ற உறுப்பினர் பதவி மற்றும் பிரஜாவுரிமைக்கு எதிராக தாம் தாக்கல் செய்த மனு மேன்முறையீட்டு நீதிமன்றத்தினால் நிராகரிக்கப்பட்ட இரண்டு வாரங்களின் பின்னர் சமூக ஆர்வலர் ஓஷல ஹேரத் மேன்முறையீடுகளை முன்வைத்திருந்தார்.
+Social activist Osala Herath had appealed for two weeks after his petition filed by the Court of Appeal against the post of Parliament of the State Minister and the citizenship.
 
 ◼️
 
 [Data](articles/e8af3485.json)
+
+[Extended Data](ext_articles/e8af3485.ext.json)
+
+---
+
+### Burning Devon about
+
+*2024-02-13 16:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பற்றி-எரியும்-டெவோன்/76-333155) · `ta`
+
+The wildfire has been spreading in the Devon Falls area of the Hatton Pathana Police Division today (13) as the western region of the central hill country is prevalent.
+
+◼️
+
+[Data](articles/6ae39e94.json)
+
+[Extended Data](ext_articles/6ae39e94.ext.json)
+
+---
+
+### I phone for Rs 1,000;Yasakar arrested
+
+*2024-02-13 16:52:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-1-000க்கு-ஐ-போன்-யாசகர்-கைது/175-333152) · `ta`
+
+An incident took place on Monday (12) that a Yasakar had stolen an iPhone and sold it for Rs 1,000.
+
+On the day of the incident, an elderly man who had heard Yasakam had stolen a valuable iPhone from a house.
+
+After posting a photo of the man who stolen the stolen, with the help of the CCRV, the man involved in the theft was trapped.
+
+The man who sold the stolen phone for Rs 1,000 was caught by the money.
+
+◼️
+
+[Data](articles/cda11439.json)
+
+[Extended Data](ext_articles/cda11439.ext.json)
+
+---
+
+### Sexual abuse;7 years in prison for police
+
+*2024-02-13 16:50:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாலியல்-துஷ்பிரயோகம்-பொலிஸூக்கு-7-வருட-சிறை/76-333151) · `ta`
+
+The Nuwara Eliya High Court has sentenced him to a police officer accused of sexually abusing a 35 -year -old woman.
+
+Seven years of rigorous imprisonment for the accused, ordered to pay a penalty of 20 thousand rupees. The victim has also been ordered to pay a fine of Rs.
+
+The verdict was presented by Nuwara Eliya High Court Judge Viraj Weerasuriya on Tuesday (13).
+
+Lakshaman Saliya Bandara Weerasinghe, who is serving as a police officer at the Kandapalai Hyiforost police station, has sexually abused a 35 -year -old woman. He understood this crime while he was on duty.
+
+In this regard, a case was filed against the police officer in 2019 in the Nuwara Eliya High Court.
+
+Based on the testimony of the case for the past five years, police officer Lakshaman Saliya Bandara Weerasinghe was found guilty of the Nuwara Eliya High Court.
+
+...
+
+[Data](articles/87a9bd19.json)
+
+[Extended Data](ext_articles/87a9bd19.ext.json)
 
 ---
 
@@ -88,27 +186,31 @@ Naming Gamage and several others as the respondents of his appeal, Herath said h
 
 [Data](articles/e34d16d8.json)
 
+[Extended Data](ext_articles/e34d16d8.ext.json)
+
 ---
 
-### வைத்தியாசாலையில் கடமையில் முப்படையினர்
+### Armed forces on duty at the hospital
 
 *2024-02-13 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176282) · `ta`
 
-நாடளாவிய ரீதியில் 72 சுகாதார தொழிற்சங்கங்கள் இன்று செவ்வாய்க்கிழமை (13) காலை முதல் மீண்டும் பணி பகிஷ்கரிப்பில் ஈடுப்பட்டுள்ளனர்.
+72 health trade unions across the country have been back in the backyard from Tuesday morning.
 
-இந்நிலையில், வைத்தியசாலைகளின் நோயாளர் உதவிப் பணிகளுக்காக சுமார் 1,200 முப்படையினர் கடமையில் ஈடுபடுத்தப்பட்டுள்ளனர்.
+In this case, about 1,200 soldiers have been deployed on duty for the hospital's aid.
 
-அதன்படி, நாடளாவிய ரீதியிலுள்ள 48 வைத்தியசாலைகளின் செயற்பாடுகளை தடையின்றி முன்னெடுப்பதற்காக 900க்கும் அதிகமான இராணுவத்தினர் கடமையில் ஈடுபடுத்தப்பட்டுள்ளதாக இராணுவப் பேச்சாளர் மேஜர் ஜெனரல் ரசிக குமார தெரிவித்துள்ளார்.
+According to military spokesman Major General Fan Kumara, more than 900 soldiers have been deployed to carry out the operations of 48 hospitals across the country.
 
-அத்துடன், 200க்கும் மேற்பட்ட வான்படை மற்றும் கடற்படை சிப்பாய்களும் வைத்தியசாலையின் செயற்பாடுகளுக்கு உதவியாக அனுப்பப்பட்டுள்ளனர்.
+More than 200 Air Force and Navy soldiers have been sent to help the hospital's activities.
 
-இந்நிலையில், தேவைக்கு ஏற்றவாறு மேலதிக படையினரை வைத்தியசாலைகளுக்கு அனுப்பவுள்ளதாக இராணுவப் பேச்சாளர் மேஜர் ஜெனரல் ரசிக குமார தெரிவித்துள்ளார்.
+Military spokesman Major General Fan Kumara said that more soldiers will be sent to hospitals as needed.
 
-எவ்வாறாயினும், வைத்தியசாலைகளில் அவசர சிகிச்சை பிரிவில் கடமையாற்றும் சுகாதார பணியாளர்கள் சேவையில் ஈடுபட்டு வருவதாக சுகாதார தொழிற்சங்கங்களின் பிரதிநிதிகள் குறிப்பிட்டுள்ளனர்.
+However, representatives of health trade unions have noted that health workers working in the emergency department in hospitals are working.
 
 ◼️
 
 [Data](articles/15a95179.json)
+
+[Extended Data](ext_articles/15a95179.ext.json)
 
 ---
 
@@ -172,6 +274,8 @@ Deputy Head of Delegation of the European Union to Sri Lanka Lars Bredal and NPP
 
 [Data](articles/70dbffb1.json)
 
+[Extended Data](ext_articles/70dbffb1.ext.json)
+
 ---
 
 ### 9-year-old girl’s death in Atulugama: Accused sentenced to 27 years RI
@@ -209,6 +313,22 @@ The trade union actions stemmed from the Cabinet Ministers’ approval of a prop
 [Data](articles/cf644085.json)
 
 [Extended Data](ext_articles/cf644085.ext.json)
+
+---
+
+### Sacrifices to Priyantha's relatives for shooting
+
+*2024-02-13 16:20:40* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-තැබීමකින්-මියගිය-සැරයන්-ප්‍රියන්තගේ-ඥාතීන්ට-පරිත්‍යාගයක්/11-408062) · `si`
+
+Working Inspector General of Police Sergeant Priyantha Rathnaweera was taken away by the police sergeant at the Tamannaweera, who was trying to arrest a suspect.
+
+The deceased has died as a sub-inspector as a sub-inspector and expressed their regrets for the deceased and over Rs.
+
+◼️
+
+[Data](articles/517426af.json)
+
+[Extended Data](ext_articles/517426af.ext.json)
 
 ---
 
@@ -404,7 +524,7 @@ As per the undertaking given by the state-owned electricity supplier, this annua
 
 *2024-02-13 14:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NMRA-faces-exodus-as-two-more-Board-members-resign/108-276925) · `en`
 
-The National Medicines Regulatory Authority (NMRA) has witnessed the resignation of two more members from its board namely Supul Wijesinghe and Dr  Priyantha Serasinghe.
+Colombo, Feb 13 (Daily Mirror) - The National Medicines Regulatory Authority (NMRA) has witnessed the resignation of two more members from its board namely Supul Wijesinghe and Dr  Priyantha Serasinghe.
 
 Prior to the latest development, Attorney-at-Law Manoj Gamage conveyed his decision to step down as a Director of the NMRA in a resignation letter submitted to Minister of Health Ramesh Pathirana, effective today, February 13th.
 
@@ -540,6 +660,28 @@ Acting IGP Deshabandu Tennakoon has been given this promotion, police said.
 
 ---
 
+### Health professionals did not agree to proposals of the Ministry of Finance
+
+*2024-02-13 14:20:53* · [`adalk`](https://www.ada.lk/breaking_news/මුදල්-අමාත්‍යාංශයේ-යෝජනාවලට-සෞඛ්‍ය-වෘත්තිකයන්-එකඟ-වුණේ-නෑ/11-408060) · `si`
+
+Health Ministry Minister Ramesh Pathirana said that although the Ministry of Finance has made a proposal to resolve health professionals in the current limited financial space, the Ministry of Health has not agreed to the proposals.
+
+Special Media Meeting (Health & Industry Minister Dr. Ramesh Pathirana) was held at the Auditorium of the Ministry of Health and Industry.
+
+Health Secretary Palitha Mahipala, Health Services Director General Dr. Asela Gunawardena were also present at the press conference.
+
+The comments made by the Minister of Health here is as follows.
+
+"A number of trade unions associated with the Ministry of Health is taking a trade union action. The press conference will be held in relation to that. "
+
+...
+
+[Data](articles/bf8330cb.json)
+
+[Extended Data](ext_articles/bf8330cb.ext.json)
+
+---
+
 ### Three suspects in Beliatta murder
 
 *2024-02-13 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193330) · `si`
@@ -620,6 +762,26 @@ The firearm had then discharged, injuring the officer, while the suspect fled wi
 
 ---
 
+### Committee Report revealed that the New Chairman of Sri Lanka was a helicopter
+
+*2024-02-13 14:04:30* · [`adalk`](https://www.ada.lk/breaking_news/අවුරා-ලංකා-සභාපති-අපුර-බන්ධනාගාරයට-හෙලිකොප්ටරයකින්-පැමිණීම-ගැන-කමිටු-වාර්තාව-එළියට/11-408059) · `si`
+
+Minister of Justice and Constitutional Reforms, Minister of Justice and Constitutional Reforms have come to the Anuradhapura Prison Premises and held secret permission without proper permission.Dr. Wijayadasa Rajapakse, the Chairman of the Committee, Retired High Court Judge, Sisira Ratnayake, was handed over to the Minister of Justice last evening.
+
+Mrs. Piyumanthi Peiris as the other members of the committee (laws) Ministry of Justice (RuleThe prison has entered the prison premises after receiving proper permission.
+
+The report has been recommended to provide financial assistance to Anuradhapura Prison to obtain financial assistance to Anuradhapura prison on request of the Prisoner Welfare Association.
+
+When the media had revealed the incident, a person who had come to Anuradhapura prison has been secretly held with the prisoners on 11.01.2011.
+
+...
+
+[Data](articles/2a47943b.json)
+
+[Extended Data](ext_articles/2a47943b.ext.json)
+
+---
+
 ### Introduction of courses on Artificial Intelligence to education system
 
 *2024-02-13 14:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Introduction-of-courses-on-Artificial-Intelligence-to-education-system/108-276923) · `en`
@@ -657,6 +819,26 @@ In the present situation, the prison media spokesman said that steps have been t
 [Data](articles/18d0779a.json)
 
 [Extended Data](ext_articles/18d0779a.ext.json)
+
+---
+
+### Resolution to abolish the executive presidency is part of a conspiracy
+
+*2024-02-13 13:55:02* · [`adalk`](https://www.ada.lk/breaking_news/විධායක-ජනපතිධුරය-අහෝසි-කිරීමේ-යෝජනාව-කුමන්ත්‍රණයක-කොටසක්/11-408058) · `si`
+
+Leader of the Mahanayaka Gammanpila says that the proposal to abolish the executive presidency that has been brought to the foregoing across the NGOs is a conspiracy in the government.
+
+He was speaking at a media briefing held at the JHU (JHD) headquarters at the party headquarters this morning.
+
+"A proposal to abolish the executive presidency has been brought to the premises of the government. When the proposal was taken before, the proposal was prepared to support the proposal.
+
+Therefore, the proposal was approved as an interim arrangement of the proposal and included an arrangement to dissolve Parliament.Some of the opposition parties have already support this proposal.The government expects all these parties to support the abolition of the executive presidency and the executive presidency.
+
+...
+
+[Data](articles/6f66c7ee.json)
+
+[Extended Data](ext_articles/6f66c7ee.ext.json)
 
 ---
 
@@ -967,6 +1149,8 @@ The Election Commission is responsible for conducting the elections and the Gove
 ◼️
 
 [Data](articles/e58c4018.json)
+
+[Extended Data](ext_articles/e58c4018.ext.json)
 
 ---
 
@@ -1484,6 +1668,20 @@ Nursing Supplication, Interim Medicine Services and Health Office Organized 72 I
 
 ---
 
+### Minister's hospital inspection station stone inspection tour
+
+*2024-02-13 11:44:27* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-වර්ජනයෙන්-ඇමතිගේ-‌රෝහල්-නිරීක්ෂණ-චාරිකාව-නවතියි/11-408053) · `si`
+
+Nursing Supplication, Interim Medicine Services and Health Office Organized 72 Indigenous Virms have been resigned from their services and commenced a strike. As planned, the Minister of Health has been canceled by the Minister of Health.. Instead, the ministry officials have commenced a Sakrakchang with the heads of strike.
+
+◼️
+
+[Data](articles/bc07c215.json)
+
+[Extended Data](ext_articles/bc07c215.ext.json)
+
+---
+
 ### Sri Lanka rupee trades at 313.75/314.00 to the US dollar
 
 *2024-02-13 11:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-at-313-75-314-00-to-the-us-dollar-150686/) · `en`
@@ -1821,205 +2019,5 @@ Further investigations are being carried out by the Panadura Southern Police.
 [Data](articles/990433fd.json)
 
 [Extended Data](ext_articles/990433fd.ext.json)
-
----
-
-### Paddy Marketing Board that has lost 124 crores
-
-*2024-02-13 10:46:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/124-கோடியை-இழந்துள்ள-நெல்-சந்தைப்படுத்தல்-சபை/175-333119) · `ta`
-
-The National Audit Office said in a statement that the Paddy Marketing Board had suffered a loss of Rs 124 crore.
-
-This shows the loss of loss by 2020 compared to 2019.
-
-In April last year, the Paddy Marketing Board did not pay Rs 664 crore to the treasury, the National Audit Office said.
-
-◼️
-
-[Data](articles/a11cfb14.json)
-
-[Extended Data](ext_articles/a11cfb14.ext.json)
-
----
-
-### Dog burns
-
-*2024-02-13 10:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிணவல்-மோகத்தால்-நாய்-எரித்துக்கொலை/175-333118) · `ta`
-
-A 65 -year -old man has been arrested for allegedly burning an ordinary dog with a high -end bed, Yakkala police said.
-
-It is alleged that the man was burnt to set fire to a dog who was raised in a house in the upper Yagoda area of Gampaha.
-
-The man has been arrested on the basis of a complaint made by the owner of a burned dog, police said.
-
-According to the police investigation, the normal dog arrives with a home -grown high race dog. The arrested person said that he was angry, pouring petrol and burning the dog.
-
-◼️
-
-[Data](articles/25a0c5df.json)
-
-[Extended Data](ext_articles/25a0c5df.ext.json)
-
----
-
-### Dog burning: One arrested
-
-*2024-02-13 10:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாய்-எரித்துக்கொலை-ஒருவர்-கைது/175-333118) · `ta`
-
-A 65 -year -old man has been arrested for allegedly setting fire to a dog who was raised in a house in Gampaha, Upper Yagoda area, Yakkala police said.
-
-Police said the man was arrested on the basis of a complaint made by the owner of a burned dog.
-
-◼️
-
-[Data](articles/a069068d.json)
-
-[Extended Data](ext_articles/a069068d.ext.json)
-
----
-
-### Arrest
-
-*2024-02-13 10:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாயைக்-கொலை-செய்த-குற்றச்சாட்டில்-ஒருவர்-கைது/175-333118) · `ta`
-
-A 65 -year -old man has been arrested for allegedly setting fire to a dog who was raised in a house in Gampaha, Upper Yagoda area, Yakkala police said.
-
-Police said the man was arrested on the basis of a complaint made by the owner of a burned dog.
-
-◼️
-
-[Data](articles/abcb566d.json)
-
-[Extended Data](ext_articles/abcb566d.ext.json)
-
----
-
-### Railway delay in train between a person collided with tracks
-
-*2024-02-13 10:40:31* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගලයකු-දුම්රියේ-ගැටී-පීලි-අතර-සිරවීමෙන්-දුම්රිය-ප්‍රමාදයක්/11-408049) · `si`
-
-A Kalutara train rail was a delay in the 19th morning railway train on the 19th morning of the coastal railway line between the tracks and tracks in the Maggona area.
-
-It is said that the rational trains of Ruhunu Kumari and Galle have been trained in 35 and 30 minutes.
-
-Raya Sources said that the victim had been hit by a slower train from Galle to Mount Lavinia.
-
-Police said that the identity of the victim was not confirmed.
-
-Payagala Police have been handed over to the Kalutara Sacred Hospital and Payagala Police are conducting further investigations.
-
-◼️
-
-[Data](articles/1072d093.json)
-
-[Extended Data](ext_articles/1072d093.ext.json)
-
----
-
-### MP Ali Sabri in road accident
-
-*2024-02-13 10:23:57* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මන්ත්‍රී-අලී-සබ්රි-රිය-අනතුරක/11-408048) · `si`
-
-MP Ali Sabri Rhim was admitted to the Anuradhapura Base Hospital while he was traveling with his driver at 1.30 am from the Anuradhapura Junction at the Anuradhapura Base.Police say that there is no harm and the luxury jeep has been serious.
-
-◼️
-
-[Data](articles/8481b485.json)
-
-[Extended Data](ext_articles/8481b485.ext.json)
-
----
-
-### Test a motorcycle gone and a beat
-
-*2024-02-13 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193318) · `si`
-
-Four have been hospitalized after being extinguished by a chat that went to inspect a motorcycle.
-
-The two residents of the Panadura Police are included in the hospital and the two residents of the Panadura around the Panadura.
-
-The two police officers were attacked at around 12.10 pm yesterday.
-
-Three came towards Panadura from Moratama towards Panadura in Moratuwa, and the two persons who arrived in the motorcycle were aggressive.
-
-A person from the motorcycle was later attacked a police officer, and then there was an exchange of gutby.
-
-Two police officers have been arrested by the two police officers and one has fled the police.
-
-The four suspects are receiving treatment at the Panadura Base Hospital and their condition is not serious, hospital sources said.
-
-The motorbike has been taken into custody, police said.
-
-The two suspects are to be produced before the Panadura Magistrate's Court.
-
-◼️
-
-[Data](articles/327141d1.json)
-
-[Extended Data](ext_articles/327141d1.ext.json)
-
----
-
-### One in five of migratory species at risk of extinction - UN report
-
-*2024-02-13 10:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97216/one-in-five-of-migratory-species-at-risk-of-extinction-un-report) · `en`
-
-More than a fifth of the world’s migrating species are at risk of going extinct as a result of climate change and human encroachment, according to the United Nation’s first-ever report on migrating animals published on Monday.
-
-Billions of animals make journeys across deserts, plains or oceans every year to breed and feed, and “unsustainable” pressures put on migratory species could not only see their populations dwindle, but also disrupt food supplies and threaten livelihoods, the report said.
-
-Of the 1,189 species covered by a 1979 U.N. convention to protect migratory animals, 44% have seen numbers decline, and as many as 22% could vanish altogether, the report added.
-
-The numbers were based on assessments and data provided by the International Union for the Conservation of Nature (IUCN) as well as the Living Planet Index, which collates population numbers for more than 5,000 species from 1970 onwards.
-
-...
-
-[Data](articles/9b28bce5.json)
-
-[Extended Data](ext_articles/9b28bce5.ext.json)
-
----
-
-### EC says no budget allocation for a General Election in 2024
-
-*2024-02-13 10:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/EC-says-no-budget-allocation-for-a-General-Election-in-2024/108-276909) · `en`
-
-Colombo, Feb 13 (Daily Mirror) - Following a Right to Information request filed to the Elections Commission, the Daily Mirror learnt that the estimated budget to conduct a Presidential Election in 2024 would be around Rs. 9,750,000,000.
-
-Elections Commissioner Saman Ratnayake said that they made a request for Rs. 10 billion in August 2023 to conduct a Presidential Election and that it was approved from the 2024 budget. “A similar budget is required to conduct a General Election as well,” he added.
-
-However, at a recent cabinet briefing, Cabinet Spokesman Bandula Gunawardena said that a sum of Rs. 10 billion had been allocated to conduct the Presidential Election and the General Elections in 2024.
-
-Speaking to the Daily Mirror, Minister Gunawardena confirmed that a Presidential Election will definitely be held this year. “But the government doesn’t have adequate funds to conduct two elections,” he added.
-
-Read more - RTI reveals… Budget allocated to conduct one election in 2024
-
-◼️
-
-[Data](articles/7229249d.json)
-
-[Extended Data](ext_articles/7229249d.ext.json)
-
----
-
-### Yasakar who stole the phone and sells for a thousand rupees
-
-*2024-02-13 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176245) · `ta`
-
-There was an incident where a Yasakar stole a phone and sold it for a thousand rupees.
-
-The incident took place on Monday (12) in the Semmannodai area of the Valaichenai police division.
-
-An elderly man who asked Yasakam had stolen a valuable iPhone from a house.
-
-After posting a photo of the man who stolen the man with the help of the CCRV, the man involved in the theft was trapped.
-
-The man who sold the stolen handset for a thousand rupees was caught by the money.
-
-◼️
-
-[Data](articles/a83fd06f.json)
-
-[Extended Data](ext_articles/a83fd06f.ext.json)
 
 ---

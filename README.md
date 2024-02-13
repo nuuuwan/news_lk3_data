@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 14:33:00**
+As of **2024-02-13 14:49:40**
 
 ## Newspaper Stats
 
-*Scraped **6,708** Articles*
+*Scraped **6,710** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
 adalk | 568
-adaderanalk | 816
+adaderanalk | 818
 tamilmirrorlk | 825
 virakesarilk | 845
 adaderanasinhalalk | 939
@@ -26,11 +26,33 @@ dailymirrorlk | 978
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,708 (100.0%) of 6,708 articles have been extended.
+6,710 (100.0%) of 6,710 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### Acting IGP visits bereaved family of cop shot dead during arrest attempt
+
+*2024-02-13 14:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97226/acting-igp-visits-bereaved-family-of-cop-shot-dead-during-arrest-attempt) · `en`
+
+Acting IGP Deshabandu Tennakoon on Tuesday (13) visited the residence of the police Sergeant who succumbed to his injuries after being shot while attempting to apprehend a suspect in the Malwathu Hirpitiya area recently.
+
+The bereaved family of the late officer was also offered compensation of Rs. 1 million on behalf of the Sri Lanka Police.
+
+The Police Sergeant was posthumously promoted to the rank of Sub-Inspector (SI) on Monday (12) on orders of the Acting IGP.
+
+A scuffle had broken out amidst an attempt by a team of officers of the Malwathu Hiripitiya Police Station to apprehend a suspect in the Batepola area in the early hours of Saturday (10) during which the suspect tried to grab the service firearm of the police officer in question.
+
+The firearm had then discharged, injuring the officer, while the suspect fled with the weapon.
+
+...
+
+[Data](articles/410debcc.json)
+
+[Extended Data](ext_articles/410debcc.ext.json)
+
+---
 
 ### The Ceylon Electricity Board agrees to pay interest
 
@@ -55,6 +77,26 @@ The petitioners say that the petitioners say that the petitioners have been file
 [Data](articles/af59680d.json)
 
 [Extended Data](ext_articles/af59680d.ext.json)
+
+---
+
+### Sri Lanka declared UN World Restoration Flagship for efforts to restore mangrove ecosystems
+
+*2024-02-13 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97225/sri-lanka-declared-un-world-restoration-flagship-for-efforts-to-restore-mangroveecosystems) · `en`
+
+Marking a landmark achievement, Sri Lanka has been declared a UN World Restoration Flagship, in recognition of the island nation’s vital efforts to rebuild and restore its mangrove ecosystems.
+
+Through the World Restoration Flagship Award, the UN is honouring the planet’s most ambitious, successful, and inspiring examples of large-scale ecosystem restoration.
+
+With only seven years left in the UN Decade on Ecosystem Restoration, seven new winners including Sri Lanka were announced for their large-scale and long-term ecosystem restoration, embodying the 10 Restoration Principles of the UN Decade.
+
+The prestigious recognition signifies Sri Lanka’s effective use of the UN’s Principles for Ecosystem Restoration and highlights globally significant best practices and methodologies that can potentially serve as a framework for future success across the world.
+
+...
+
+[Data](articles/08120926.json)
+
+[Extended Data](ext_articles/08120926.ext.json)
 
 ---
 
@@ -2037,37 +2079,5 @@ President Ranil Wickremesinghe introduced the Joint Payment System (UPI) to furt
 [Data](articles/19c03562.json)
 
 [Extended Data](ext_articles/19c03562.ext.json)
-
----
-
-### The Unbearable Selfishness of Being “Maavai”  Senathirajah: Clings on to Power for 10 Years as  ITAK Party President.
-
-*2024-02-13 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83587) · `en`
-
-The heading of this  article is inspired by the title of Milan Kundera’s novel “The Unbearable  Lightness of Being”. That novel was set in the  eventful Prague spring  period of the then undivided  Czechoslovakia. This  article is about an octogenarian Tamil political leader who tries to cling on to power selfishly without stepping down gracefully.
-
-The party leader I am referrig to is Somasundaram Senathirajah known popularly as “Maavai” Senathirajah  and/or Maavai.  Until 27 January 2024, Senathirajah was the President  of the Ilankai Thamil Arasuk Katchi(ITAK)  known as the Federal Party(FP) in English. Senathirajah however continues to act as the party president in a business as usual fashion.
-
-...
-
-[Data](articles/3305ba9b.json)
-
-[Extended Data](ext_articles/3305ba9b.ext.json)
-
----
-
-### Upali Wijewardene: Lanka’s   Beloved Home Grown Business Tycoon with the Golden Touch in Commercial Pursuits.
-
-*2024-02-13 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83612) · `en`
-
-41 years ago on February 13, 1983, a privately owned Lear jet flew out of Malaysia’s Subang Airport at 8.41 p.m. with six on board. It was expected to reach Colombo by 9.45 p.m. that night. 15 minutes after taking off, the plane lost radio contact with the airport. The final message received said the plane was flying at an altitude of 27,000 ft over the straits of Malacca. The Learjet never arrived in Colombo that Sunday as scheduled. The plane went missing.
-
-News of the missing  plane began spreading on Monday, which was also Valentine’s Day. Sri Lankans from all walks of life were shocked when they heard that the missing plane belonged to Upali Wijewardene and that the beloved homegrown tycoon was among the six persons, who disappeared along with the aircraft.
-
-...
-
-[Data](articles/18352310.json)
-
-[Extended Data](ext_articles/18352310.ext.json)
 
 ---

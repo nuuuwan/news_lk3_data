@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 04:32:48**
+As of **2024-02-14 04:49:41**
 
 ## Newspaper Stats
 
-*Scraped **6,831** Articles*
+*Scraped **6,846** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ bbccomsinhala | 92
 dbsjeyarajcom | 148
 economynextcom | 350
 islandlk | 358
-dailyftlk | 359
 newsfirstlk | 363
+dailyftlk | 374
 adalk | 582
 tamilmirrorlk | 835
 adaderanalk | 838
@@ -26,11 +26,263 @@ dailymirrorlk | 1,004
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,831 (100.0%) of 6,831 articles have been extended.
+6,831 (99.8%) of 6,846 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### Government draws intense flak on Online Safety Act
+
+*2024-02-14 03:47:57* · [`dailyftlk`](https://www.ft.lk/opinion/Government-draws-intense-flak-on-Online-Safety-Act/14-758469) · `en`
+
+OSA - newest weapon in Govt.’s arsenal to suppress freedom of expression and dissent
+
+Sri Lanka’s beleaguered Government, amidst fighting a faltering economy and battling to increase state revenue is now facing a barrage of criticism after bringing into law the Online Safety Act (OSA). Amnesty International Sri Lanka called it an ‘additional weapon’ in the hands of the Government. Late last week Sri Lanka’s Justice Minister acknowledged deficiencies and called for all-party consultations.
+
+The Human Rights Commission of Sri Lanka (HRCSL) has issued a stark warning to the President – that the OSA was not validly passed by Parliament.
+
+In a detailed analysis the HRCSL highlights 30 instances of failure to comply with requirements set out by the Supreme Court, where several petitioners made applications challenging various aspects proposed by the Government in the Bill.
+
+...
+
+[Data](articles/d366b40b.json)
+
+---
+
+### Political aspirations with greed for power still continue with our present politicians too
+
+*2024-02-14 03:44:08* · [`dailyftlk`](https://www.ft.lk/opinion/Political-aspirations-with-greed-for-power-still-continue-with-our-present-politicians-too/14-758468) · `en`
+
+Time is ripe for the voters to elect politicians who are honest, educated, and young, and people with principles and a vision to change the systems management and implementation – Pic by Shehan Gunasekara
+
+It is most unfortunate that the bungling of national issues commenced with the greed for power by one of our most educated politicians in Sri Lanka, S.W.R.D. Bandaranaike, in bringing the “Sinhala Only” bill into effect in Parliament after his victory in 1956. That caused the division in Sri Lanka driving away some of the most educated and qualified public officers, including the “Burgher” population, to leave the country in search of better pastures. It reversed the economic and political stability we had.
+
+The long drawn out war commencing from the assassination of the Mayor of Jaffna Alfred Duraiappah in 1975 till 2009, saw the darkest period of racial riots in this country caused by blatant mistakes committed by our leading politicians.
+
+...
+
+[Data](articles/195c3fc5.json)
+
+---
+
+### Anura Bandaranaike: “Always the bridesmaid, never the bride”
+
+*2024-02-14 03:42:27* · [`dailyftlk`](https://www.ft.lk/columns/Anura-Bandaranaike-Always-the-bridesmaid-never-the-bride/4-758467) · `en`
+
+What do Ranil Wickremesinghe, Dinesh Gunawardena and Anura Bandaranaike have in common? They were born a year after independence in 1949 and were classmates together at Royal College, Colombo. All three were from illustrious families involved in politics and went on to be brightly shining stars in the Island nation’s political firmament.
+
+Anura Bandaranaike born on 15 February 1949 was regarded as the crown prince of Lankan politics due to the fact that he was the son of SWRD and Sirimavo Bandaranaike. Both of them served as Prime Ministers. Despite this impressive political pedigree, Anura was never a Prime Minister or President. That honour went to his elder sister Chandrika Kumaratunge who was both premier and president. Anura however held many posts like MP, Leader of the Opposition, Cabinet Minister and Speaker but was never “crowned as a King.” Anura passed away 16 years ago at the age of 59 in 2008.
+
+...
+
+[Data](articles/25248ce0.json)
+
+---
+
+### Fact, opinion, and truth
+
+*2024-02-14 03:36:00* · [`dailyftlk`](https://www.ft.lk/columns/Fact-opinion-and-truth/4-758466) · `en`
+
+“The welfare of the people in particular has always been the alibi of tyrants, and it provides the further advantage of giving servants of tyranny a good conscience “
+
+History will remember President Ranil Wickremesinghe elected by a secret vote in Parliament to serve the remainder of President Gotabaya Rajapaksa’s presidential term for another curiously distinctive reason. He will be remembered for the number of policy statements and ceremonial openings of Parliament during his tenure.
+
+Moral high ground is not a podium to preach from. It is an arduous mountain; one climbs on one’s own.
+
+In his latest address he asked - “Why can’t we unite in a shared vision for the country’s well-being and the future?” Why can’t we reach a collective understanding for the benefit of our nation’s youth? Why can’t we join hands to reach great heights?” Rhetoric failed to conceal past failure.
+
+...
+
+[Data](articles/7d3a986c.json)
+
+---
+
+### Fastcorp hosts webinar on benefits for SL biz in setting up in Singapore
+
+*2024-02-14 03:05:12* · [`dailyftlk`](https://www.ft.lk/business/Fastcorp-hosts-webinar-on-benefits-for-SL-biz-in-setting-up-in-Singapore/34-758450) · `en`
+
+Fastcorp, Singapore’s leading corporate services firm is excited to announce a complimentary webinar titled “Benefits of setting up in Singapore: Why it matters to Sri Lankan businesses.” This exclusive online event is scheduled to take place on 16 February, at 3 p.m. (Sri Lankan time), and aims to enlighten Sri Lankan entrepreneurs and business owners on the myriad benefits that Singapore offers as a business hub.
+
+The webinar is free of charge. For prior registration visit https://us02web.zoom.us/webinar/register/WN_Z9vQjmBJQDO5fKR_j9QYDw
+
+Renowned for its robust economy, strategic location, and business-friendly environment, Singapore stands as a beacon of opportunity for international businesses.
+
+The webinar will delve into the numerous advantages of setting up a business in Singapore, highlighting: Strategic brand value; favourable tax regime; remote Bank account opening; robust legal system; and immigration.
+
+...
+
+[Data](articles/b3f14ac9.json)
+
+---
+
+### Japan commits to promoting economic governance through anti-corruption policy support in SL
+
+*2024-02-14 03:04:31* · [`dailyftlk`](https://www.ft.lk/news/Japan-commits-to-promoting-economic-governance-through-anti-corruption-policy-support-in-SL/56-758449) · `en`
+
+Launches initiative in partnership with UNDP towards creating an enabling environment for investment and economic growth
+
+The Government of Japan and the United Nations Development Programme (UNDP) Sri Lanka, this week marked the launch of the new project titled ‘The Project for Promoting Economic Governance through Anti-corruption Policy Support.’
+
+An official signing took place in Colombo with the participation of Japanese Ambassador Mizukoshi Hideaki, UNDP Resident Representative Azusa Kubota and senior Government officials.
+
+Sri Lanka’s ongoing socio-economic crisis has reversed development gains achieved, with deep rooted transparency and accountability gaps identified as a key contributor to the economic crisis of the country.
+
+...
+
+[Data](articles/765cb95b.json)
+
+---
+
+### Govt. to introduce artificial intelligence courses into school curriculum
+
+*2024-02-14 03:01:30* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-introduce-artificial-intelligence-courses-into-school-curriculum/56-758448) · `en`
+
+Pilot project with support of Microsoft to revise international syllabus implemented based on recommendations of National Institute of Education
+
+Aims to start pilot projects from Grade 8 with selected schools undergoing digitisation facilitated by Microsoft’s resources
+
+Microsoft to train 100 Information and Communication Technology subject teachers as trainers
+
+Initiative aims to leverage AI tools such as ChatGPT, Google Bard to enhance students’ knowledge across various subjects in 2024
+
+The Government is taking significant strides towards integrating artificial intelligence (AI) education into the school curriculum, with plans for a pilot project supported by Microsoft set to commence from Grade 8 onwards.
+
+The project aims to introduce AI courses in schools where the necessary resources are available, beginning with a revision of the international syllabus currently implemented by Microsoft, in line with recommendations from the National Institute of Education.
+
+...
+
+[Data](articles/1b22a0e6.json)
+
+---
+
+### IDB signs MoU to set up industries inside prisons
+
+*2024-02-14 03:00:41* · [`dailyftlk`](https://www.ft.lk/news/IDB-signs-MoU-to-set-up-industries-inside-prisons/56-758447) · `en`
+
+A Memorandum of Understanding was signed between the Prisons Department and the Industrial Development Board on Monday to establish industries in all prisons, with the aim of making inmates more productive in society after their release from prison.
+
+The MoU was signed in the presence of the Justice, Prison Affairs and Constitutional Reforms Minister Dr. Wijeyadasa Rajapakshe PC, by the Commissioner General of Prisons Thushara Upuldeniya and IDB Chairman Saranga Alahapperuma.
+
+Through the MoU, local entrepreneurs and industrialists will have more opportunities to establish industries in all the prisons and the IDB and the Prisons Department will offer certificates to the inmates who are trained in the industries.
+
+Through this, the prisoners spend their time serving their punishment more meaningfully, use their prison time for development activities, and give the prisoners the opportunity to carry out their own industries after being released from prison.
+
+...
+
+[Data](articles/961854ef.json)
+
+---
+
+### Housing loan scheme for migrant workers
+
+*2024-02-14 02:59:37* · [`dailyftlk`](https://www.ft.lk/news/Housing-loan-scheme-for-migrant-workers/56-758446) · `en`
+
+In a bid to support migrant workers’ housing aspirations, Sri Lanka Bureau of Foreign Employment (SLBFE) and the National Housing Development Authority (NHDA) are teaming up with licensed banks to introduce a housing loan program payable in foreign currency.
+
+Under the program, migrant workers with housing aspirations can apply for loans of up to Rs. 10 million, with a portion of the loan amount subsidised by the SLBFE. The proposal to this effect put forth by Foreign Employment and Labour Minister Manusha Nanayakkara was approved by the Cabinet of Ministers. The loan repayment must be made using foreign exchange remitted through legitimate channels, while the loan recipient is engaged in overseas employment. Once the foreign employment term is completed, and the worker returns to Sri Lanka, payments can be made in rupees.
+
+...
+
+[Data](articles/51e0bd20.json)
+
+---
+
+### Business Excellence Masterclass in Colombo with Harvard Professor Boris Groysberg in March
+
+*2024-02-14 02:58:39* · [`dailyftlk`](https://www.ft.lk/business/Business-Excellence-Masterclass-in-Colombo-with-Harvard-Professor-Boris-Groysberg-in-March/34-758445) · `en`
+
+Breakthrough initiative via collaboration between COYLE, Harvard Club of Sri Lanka and Sampath Bank
+
+In a landmark collaboration, the Chamber of Young Lankan Entrepreneurs (COYLE), the Harvard Club of Sri Lanka and Sampath Bank are poised to elevate corporate leadership in Sri Lanka with an exclusive 3-day Business Excellence Masterclass featuring Harvard Professor Boris Groysberg, a luminary in organisational leadership.
+
+This program will be conducted in the style of an authentic Harvard lecture, providing a unique opportunity for participants.
+
+The event, scheduled from 4 to 6 March, at the Shangri La Hotel in Colombo, brings together COYLE’s commitment to empowering young entrepreneurs, the Harvard Club of Sri Lanka’s dedication to academic and career excellence, and Sampath Bank’s unwavering support for professional and personal development.
+
+...
+
+[Data](articles/820de621.json)
+
+---
+
+### ‘Sri Lanka Business Drive 2024’ investment roundtable in UK with CWEIC
+
+*2024-02-14 02:57:04* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Business-Drive-2024-investment-roundtable-in-UK-with-CWEIC/34-758444) · `en`
+
+The High Commission of Sri Lanka in London in collaboration with the Commonwealth Enterprise and Investment Council (CWEIC) organised ‘Sri Lanka Business Drive 2024’, an interactive roundtable discussion on investments at the High Commission on 2 February.
+
+The event was presided over by High Commissioner of Sri Lanka to the United Kingdom Rohitha Bogollagama.
+
+The main drive of this event was to foster collaboration, dialogue, and knowledge-sharing on investment opportunities between Sri Lanka and the UK business community. The roundtable brought together a distinguished gathering of 30 leading UK business personalities, capital representatives, investment advisors, financial experts, and existing potential investors, including the top management of De La Rue, Capital Metals PLC, Sri Lanka – UK Chamber of Commerce, Thema Collection, Virtusa, Chartered Institute of Investment and Securities, Orwell Group, iBank, Ventra Group, Hypower Engineering, and Enpure Ltd., etc.
+
+...
+
+[Data](articles/7f8fe89a.json)
+
+---
+
+### Cabinet nod to amend Online Safety Act
+
+*2024-02-14 02:55:40* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-amend-Online-Safety-Act/56-758443) · `en`
+
+Cabinet Co-Spokesman and Minister Bandula Gunawardena confirms approval of over 20 revisions in Act, refrains from providing specifics
+
+The Cabinet of Ministers approved making several amendments to the recently passed controversial Online Safety Act.
+
+In response to widespread feedback and recommendations from industry experts, the Legal Draftsman has been tasked with crafting the proposed amendments to the Act.
+
+“Since the amendments submitted at the committee sessions in the Parliament with regard to the said draft Bill should be made on par with the decision of the Supreme Court, there had been no opportunity to introduce proposed amendments furnished by the eminencies in the field,” the statement comprising weekly Cabinet decisions issued by the Government Information Department noted.
+
+It also added that having passed the Parliament, the provisions of the Online Security Act are being implemented at present.
+
+...
+
+[Data](articles/5de30de5.json)
+
+---
+
+### Accused in Atulugama child murder sentenced to 27 years in prison
+
+*2024-02-14 02:54:23* · [`dailyftlk`](https://www.ft.lk/news/Accused-in-Atulugama-child-murder-sentenced-to-27-years-in-prison/56-758442) · `en`
+
+The Panadura High Court yesterday handed down a sentence of 27 years of rigorous imprisonment to the defendant convicted of the May 2022 murder of a nine year old girl in Atulugama, Panadura.
+
+The defendant faced charges of involuntary manslaughter, abduction, and attempted sexual abuse of the child.
+
+Panadura High Court Judge Saman Kumara who delivered the sentence, also mandated the now 31-year-old convict, Farook Mohommed Ganesanathan, to pay Rs. 3 million in compensation to the deceased girl’s mother. Failure to comply with this order would result in an extension of his sentence by 78 months, as directed by the High Court Judge.
+
+...
+
+[Data](articles/f146e627.json)
+
+---
+
+### Nawaloka Hospitals issues clarification
+
+*2024-02-14 02:54:04* · [`dailyftlk`](https://www.ft.lk/news/Nawaloka-Hospitals-issues-clarification/56-758441) · `en`
+
+Nawaloka Hospitals PLC marked strong financial performance for the first two quarters in FY 2023/2024 as reported on the company’s 2nd quarter financial statements. This announcement comes in response to a previous news article released from Nawaloka Hospitals PLC, mistakenly mentioning the 2022-23 financial year instead of 2023/24. We regret this error.
+
+◼️
+
+[Data](articles/58675483.json)
+
+---
+
+### Aura Lanka Chairman cleared of unauthorised prison entry allegations
+
+*2024-02-14 02:53:43* · [`dailyftlk`](https://www.ft.lk/news/Aura-Lanka-Chairman-cleared-of-unauthorised-prison-entry-allegations/56-758440) · `en`
+
+The committee tasked with investigating allegations against Chairperson of Aura Lanka Group of Companies and President of Aura Lanka Sports Ltd. Viranjith Thambugala, regarding unauthorised entry into Anuradhapura Prison, has concluded that Thambugala had entered the prison with proper permission and did not meet with any prisoners during the visit as alleged.
+
+The committee led by its Chairperson retired High Court Judge Sisira Ratnayake handed over its report to the Minister of Justice, Prison Affairs and Constitutional Reforms, Dr. Wijayadasa Rajapaksha yesterday.
+
+...
+
+[Data](articles/89635081.json)
+
+---
 
 ### Akin to Deck Chairs on the Titanic
 
@@ -1743,313 +1995,5 @@ The wife of the man who was arrested in Vayangoda was produced in court, his fat
 [Data](articles/8352e5da.json)
 
 [Extended Data](ext_articles/8352e5da.ext.json)
-
----
-
-### CEB gives undertaking to pay interest for security deposits of consumers
-
-*2024-02-13 15:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97230/ceb-gives-undertaking-to-pay-interest-for-security-deposits-of-consumers) · `en`
-
-The Ceylon Electricity Board (CEB), giving an undertaking before the Supreme Court today (Feb.13), said it is ready to pay an interest for the year 2023 for the security deposits it collects from the consumers when providing a new service connection.
-
-This was communicated when a fundamental rights (FR) petition filed by the Electricity and Renewable Energy Consumers’ Association was called before a three-member bench of the Supreme Court.
-
-Justices S. Thurairajah, Gamini Amarasekara and Yasantha Kodagoda sat for the proceedings today.
-
-Representing the CEB, Deputy Solicitor General Nirmalan Wigneswaran told the judge bench that his client is ready to pay an annual interest of 11.67% for the year 2023 for the security deposits collected from the consumers for installing a new service connection.
-
-As per the undertaking given by the state-owned electricity supplier, this annual interest is planned to be paid retrospectively, starting from January 2024.
-
-...
-
-[Data](articles/b97d3a37.json)
-
-[Extended Data](ext_articles/b97d3a37.ext.json)
-
----
-
-### The CEB agrees to pay interest in interest
-
-*2024-02-13 14:59:41* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බල-මණ්ඩලය-තැන්පතුවට-පොලිය-ගෙවන්න-එකඟ-වෙයි/11-408061) · `si`
-
-The Ceylon Electricity Board (CEB) informed the Supreme Court today that the Ceylon Electricity Board is ready to pay interest in the year 2023.
-
-The notice was made when a fundamental rights petition was called by the Electricity and Renewable Energy Consumer Association.
-
-This petition is today. The three-member Judge was called before the Supreme Court Judge of Turairajah and Gamini Amarasekera and Yasantha Kodagoda.
-
-The Deputy Solicitor General Nirman Wigneswaran, who appeared in the Court of Ceylon Electricity Board, informed the Ceylon Electricity Board to pay an annual interest rate of 11.67 percent for the deposits of customers.
-
-He also informed the Ceylon Electricity Board (CEB) to pay the interest in January 2024.
-
-The Supreme Court has set the petition to be summoned on March 21, to investigate this payment properly.
-
-◼️
-
-[Data](articles/ac322412.json)
-
-[Extended Data](ext_articles/ac322412.ext.json)
-
----
-
-### NMRA faces exodus as two more Board members resign
-
-*2024-02-13 14:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NMRA-faces-exodus-as-two-more-Board-members-resign/108-276925) · `en`
-
-Colombo, Feb 13 (Daily Mirror) - The National Medicines Regulatory Authority (NMRA) has witnessed the resignation of two more members from its board namely Supul Wijesinghe and Dr  Priyantha Serasinghe.
-
-Prior to the latest development, Attorney-at-Law Manoj Gamage conveyed his decision to step down as a Director of the NMRA in a resignation letter submitted to Minister of Health Ramesh Pathirana, effective today, February 13th.
-
-The NMRA Board comprises of Dr. Kosala Karunaratne, Dr. Asela Gunawardane, M.M. Chathura Parakrama Mohottigedara, Dr.Pradeep Kumarasinghe De Silva, Dr. Banukie Jayasuriya and Dr. Duminda Ariyaratne
-
-◼️
-
-[Data](articles/2160e060.json)
-
-[Extended Data](ext_articles/2160e060.ext.json)
-
----
-
-### Shock to the buyer of chocolate
-
-*2024-02-13 14:49:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாக்லேட்-வாங்கியவருக்கு-அதிர்ச்சி/175-333135) · `ta`
-
-We have seen many incidents before you have been eating pests, pests, worms and worms buying in stores, chips pocket or restaurant.. A similar incident is currently going viral on the Internet.
-
-A man named Robin Jakes has bought chocolate at a shop at Metro station in Hyderabad. It was only when he eaten it was shocked to see the worms in the chocolate.
-
-Robin noticed the existence of a worm on the chocolate, who immediately took the bill for his purchase at the Ratnadip shop at the Aamirpet Metro station and who was responsible for such health problems?He posted angrily asking if he would not do all the quality tests for the goods.
-
-Many bloggers express their concerns under this post. Officials have also demanded strict action against shopkeepers who sell bad goods.
-
-◼️
-
-[Data](articles/0b3d584d.json)
-
-[Extended Data](ext_articles/0b3d584d.ext.json)
-
----
-
-### Pilot project underway to introduce AI courses to education system
-
-*2024-02-13 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97229/pilot-project-underway-to-introduce-ai-courses-to-education-system) · `en`
-
-The Cabinet of Ministers has granted approval to implement a pilot project to introduce courses on Artificial Intelligence (AI) to the school curriculum starting from Grade 08, the Department of Government Information (DGI) said.
-
-Earlier, on 02 October 2023, the Cabinet of Ministers decided that it is appropriate to introduce courses related to the AI into the education system in accordance with the recommendations made by the task force appointed for the formation of a national strategy and plan related to artificial intelligence.
-
-As part of the relevant strategic plan, a pilot project has been designed to introduce artificial intelligence courses to general education.
-
-Thus, the Cabinet approval has been granted for the joint resolution presented by President Ranil Wickremesinghe as the Minister of Technology, together with the Minister of Education, to implement the said pilot project with the support of Microsoft.
-
-...
-
-[Data](articles/9969e118.json)
-
-[Extended Data](ext_articles/9969e118.ext.json)
-
----
-
-### Army troops deployed to ensure uninterrupted hospital services amid health strike
-
-*2024-02-13 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97228/army-troops-deployed-to-ensure-uninterrupted-hospital-services-amid-health-strike) · `en`
-
-The Sri Lanka Army has deployed its troops to government hospitals across the country today (Feb. 13), in order to ensure uninterrupted access to essential healthcare services amidst an island-wide strike launched by health sector trade unions this morning.
-
-The troops have been swiftly deployed to various healthcare facilities nationwide, under the directives of the Ministry of Defence and the guidance of the Commander of the Army, Lieutenant General Vikum Liyanage, after a request was made by the Ministry of Health seeking assistance in managing the situation effectively.
-
-...
-
-[Data](articles/3c7bec43.json)
-
-[Extended Data](ext_articles/3c7bec43.ext.json)
-
----
-
-### Gammanpila reveals a trap of the opposition
-
-*2024-02-13 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193332) · `si`
-
-The proposal to abolish the executive presidency is a conspiracy to not hold the presidential election.
-
-He further stated that the proposal to abolish the executive presidency that has been brought to the forest through NGOs is a conspiracy of the government.
-
-He said the abolition of the executive presidency was a trap and a conspiracy to disappear.
-
-"The proposal to abolish the executive presidency has brought the government's blessing through the government's blessing through NGOs through NGOs. When the proposal was brought before, the opposition leader said that if Parliament was dissolved with the abolition of the executive presidency, it was ready to support this proposal. Therefore, action has been taken to dissolve the Parliament to dissolve the proposal as an interim arrangement of this year's resolution.. Some of the opposition have already supported the proposal. The government expects all these parties to support the abolition of the executive presidency and the TNA. "
-
-...
-
-[Data](articles/d923b8d6.json)
-
-[Extended Data](ext_articles/d923b8d6.ext.json)
-
----
-
-### Hundreds of thousands lose power in Australia after weather downs power lines
-
-*2024-02-13 14:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97227/hundreds-of-thousands-lose-power-in-australia-after-weather-downs-power-lines) · `en`
-
-Large chunks of Australia’s Victoria state lost power on Tuesday afternoon when a major power plant shut down because a storm knocked out parts of the state’s electricity transmission network.
-
-AGL’s Loy Yang A power station, responsible for about a third of the state’s power, was forced to shut down on Tuesday afternoon after several towers along a major section of the state’s transmission network collapsed in bad weather.
-
-More than 500,000 homes or businesses had lost power, state energy minister Lily D’Ambrosio said in a social media post.
-
-As the plant shut down, electricity prices spiked across the state to their maximum of A$16,600 per megawatt hour, up from around A$200, according to data from the Australian Energy Market Operator (AEMO).
-
-In response, AEMO ordered electricity usage cut across the network, according to a statement on Tuesday afternoon.
-
-D’Ambrosio said in her post that one of Loy Yang’s four units had been brought back online and the mandatory power cuts had ended.
-
-...
-
-[Data](articles/e6d986f1.json)
-
-[Extended Data](ext_articles/e6d986f1.ext.json)
-
----
-
-### Sacrifice to relatives of policemen who were killed
-
-*2024-02-13 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193331) · `si`
-
-Acting IGP Tennakoon arrived at the house which was placed in the house where the last respected police sergeant in the Malwathuhiripitiya.
-
-The acting IGP also had the acting of a million rupees to the relatives of the officer.
-
-The police sergeant was killed in a shooting of a group of LTTE cadres in the Malwathuhipitiya Police Station Last Saturday.
-
-Meanwhile, the delegated police sergeant has been promoted to the post of Sub-Inspector.
-
-Acting IGP Deshabandu Tennakoon has been given this promotion, police said.
-
-◼️
-
-[Data](articles/78d2c863.json)
-
-[Extended Data](ext_articles/78d2c863.ext.json)
-
----
-
-### Health professionals did not agree to proposals of the Ministry of Finance
-
-*2024-02-13 14:20:53* · [`adalk`](https://www.ada.lk/breaking_news/මුදල්-අමාත්‍යාංශයේ-යෝජනාවලට-සෞඛ්‍ය-වෘත්තිකයන්-එකඟ-වුණේ-නෑ/11-408060) · `si`
-
-Health Ministry Minister Ramesh Pathirana said that although the Ministry of Finance has made a proposal to resolve health professionals in the current limited financial space, the Ministry of Health has not agreed to the proposals.
-
-Special Media Meeting (Health & Industry Minister Dr. Ramesh Pathirana) was held at the Auditorium of the Ministry of Health and Industry.
-
-Health Secretary Palitha Mahipala, Health Services Director General Dr. Asela Gunawardena were also present at the press conference.
-
-The comments made by the Minister of Health here is as follows.
-
-"A number of trade unions associated with the Ministry of Health is taking a trade union action. The press conference will be held in relation to that. "
-
-...
-
-[Data](articles/bf8330cb.json)
-
-[Extended Data](ext_articles/bf8330cb.ext.json)
-
----
-
-### Three suspects in Beliatta murder
-
-*2024-02-13 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193330) · `si`
-
-Three suspects in Beliatta were produced in court today (13).
-
-Tangalle Chief Magistrate Hemantha Pushpakumara ordered them to be remanded until the 27th of this month.
-
-The remaining suspects were produced in court today, our correspondent said.
-
-The wife of the shooter and his father and father arrested in Veyangoda, 23, the 23-year-old man was produced before the court.
-
-◼️
-
-[Data](articles/9c3d37c2.json)
-
-[Extended Data](ext_articles/9c3d37c2.ext.json)
-
----
-
-### Sajith is losing control of SJB: Palitha Range Bandara
-
-*2024-02-13 14:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-is-losing-control-of-SJB-Palitha-Range-Bandara/108-276924) · `en`
-
-Colombo, Feb 13 (Daily Mirror) - Leader of the Opposition Sajith Premadasa is witnessing an erosion of control within his party, Samagi Jana Balwegaya (SJB), as several prominent members have conveyed their willingness to support the President, UNP General Secretary Palitha Range Bandara said today.
-
-"The door is open for Sajith to join the UNP if he wants to survive. There is no reason for our leader to reject Mr. Premadasa into the party while he is currently working with his onetime rival, SLPP," Range Bandara added.
-
-"Some prominent members of the SJB have informed us that they are willing to support President Wickremesinghe and that they would leave the party at the right time. Therefore, the SJB leader will lose control of the party before long," UNP General Secretary told a briefing.
-
-◼️
-
-[Data](articles/88a7ed57.json)
-
-[Extended Data](ext_articles/88a7ed57.ext.json)
-
----
-
-### WhatsApp's new update
-
-*2024-02-13 14:13:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/வாட்ஸ்அப்-இன்-புதிய-அப்டேட்/57-333134) · `ta`
-
-The new facility for blocking the spam on the WhatsApp processor is to be offered from the Spam Lock screen. The update has been developed in the face of unnecessary SMS, which is continuously sent to spam, and users to facing more restrictions on users in the message of message.
-
-Spam messages, which contain users cheating information, were increasingly dispatched on WhatsApp caused worrying among users. In that respect, the new feature is provided to take action as users are on the lock screen.
-
-WhatsApp will increase user privacy and safety and a new feature in an effort. With this feature users can block the smartphone without unlocking the smartphone and blocking spam messages directly as in the lock screen. You can choose the option to block the spam notification and then block the various options on the screen.
-
-Black spam messages and reports themselves to users. Apart from the new facility, users can add WhatsApp Settings-Private-Black Contacts-Aad to go to the Contact to Black.
-
-◼️
-
-[Data](articles/e155cec0.json)
-
-[Extended Data](ext_articles/e155cec0.ext.json)
-
----
-
-### Acting IGP visits bereaved family of cop shot dead during arrest attempt
-
-*2024-02-13 14:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97226/acting-igp-visits-bereaved-family-of-cop-shot-dead-during-arrest-attempt) · `en`
-
-Acting IGP Deshabandu Tennakoon on Tuesday (13) visited the residence of the police Sergeant who succumbed to his injuries after being shot while attempting to apprehend a suspect in the Malwathu Hirpitiya area recently.
-
-The bereaved family of the late officer was also offered compensation of Rs. 1 million on behalf of the Sri Lanka Police.
-
-The Police Sergeant was posthumously promoted to the rank of Sub-Inspector (SI) on Monday (12) on orders of the Acting IGP.
-
-A scuffle had broken out amidst an attempt by a team of officers of the Malwathu Hiripitiya Police Station to apprehend a suspect in the Batepola area in the early hours of Saturday (10) during which the suspect tried to grab the service firearm of the police officer in question.
-
-The firearm had then discharged, injuring the officer, while the suspect fled with the weapon.
-
-...
-
-[Data](articles/410debcc.json)
-
-[Extended Data](ext_articles/410debcc.ext.json)
-
----
-
-### Committee Report revealed that the New Chairman of Sri Lanka was a helicopter
-
-*2024-02-13 14:04:30* · [`adalk`](https://www.ada.lk/breaking_news/අවුරා-ලංකා-සභාපති-අපුර-බන්ධනාගාරයට-හෙලිකොප්ටරයකින්-පැමිණීම-ගැන-කමිටු-වාර්තාව-එළියට/11-408059) · `si`
-
-Minister of Justice and Constitutional Reforms, Minister of Justice and Constitutional Reforms have come to the Anuradhapura Prison Premises and held secret permission without proper permission.Dr. Wijayadasa Rajapakse, the Chairman of the Committee, Retired High Court Judge, Sisira Ratnayake, was handed over to the Minister of Justice last evening.
-
-Mrs. Piyumanthi Peiris as the other members of the committee (laws) Ministry of Justice (RuleThe prison has entered the prison premises after receiving proper permission.
-
-The report has been recommended to provide financial assistance to Anuradhapura Prison to obtain financial assistance to Anuradhapura prison on request of the Prisoner Welfare Association.
-
-When the media had revealed the incident, a person who had come to Anuradhapura prison has been secretly held with the prisoners on 11.01.2011.
-
-...
-
-[Data](articles/2a47943b.json)
-
-[Extended Data](ext_articles/2a47943b.ext.json)
 
 ---

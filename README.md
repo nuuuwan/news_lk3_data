@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 15:51:00**
+As of **2024-02-13 16:02:41**
 
 ## Newspaper Stats
 
-*Scraped **6,733** Articles*
+*Scraped **6,736** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,79 @@ newsfirstlk | 363
 adalk | 572
 adaderanalk | 822
 tamilmirrorlk | 828
-virakesarilk | 848
-adaderanasinhalalk | 942
+virakesarilk | 850
+adaderanasinhalalk | 943
 dailymirrorlk | 983
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,729 (99.9%) of 6,733 articles have been extended.
+6,733 (100.0%) of 6,736 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### மட்டு. குடும்பிமலையில் சட்டவிரோ மின்சார வேலியில் சிக்கி இரு விவசாயிகள் பலி
+
+*2024-02-13 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/176289) · `ta`
+
+மட்டக்களப்பு  குடும்பிமலை பிரதேசத்தில் பண்ணை ஒன்றில் சட்டவிரேதமாக அமைக்கப்பட்ட மின்சார வேலியில் மின்சாரம் தாக்கி மாமன் மருமகனாகிய இரு விவசாயிகள் உயிரிழந்த நிலையில் இன்று செவ்வாய்க்கிழமை (13) சடலமாக மீட்கப்பட்டுள்ளதாக வாழைச்சேனை பொலிஸார் தெரிவித்தனர்.
+
+குடும்பிமலையைச் சேர்ந்த 51 வயதுடைய ஆறுமுகம் லோகநாதன், பலிபாய்ந்த கல்லைச் சேர்ந்த 21 வயதுடைய விநாயகமூர்த்தி சுதர்சன் ஆகிய இருவரும் இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளனர்.
+
+வாழைச்சேனை பொலிஸ் பிரிவிலுள்ள குடும்பிமலை ஈச்சையடி பகுதியில் முன்னாள் பிரதி அமைச்சர் ஒருவருக்கு சொந்தமான பண்ணையை வாழைச்சேனையைச் சேர்ந்த நபர் ஒருவர் குத்தகைக்கு எடுத்து செய்துவரும் நிலையில், காட்டு விலங்குகள் உள்நுழைவதை தடுப்பதற்காக சட்டவிரோதமாக மின்சாரத்தை பெற்று பண்ணையை சுற்றி மின்சார வேலி அமைத்துள்ளார்.
+
+இந்நிலையில், குறித்த பண்னைபகுதிக்கு அருகில் நேற்று வேளாண்மை அறுவடைக்கு மாமனாரும் மருமகனும் சென்ற நிலையில் மின்சார வேலியில் மின்சாரம் தாக்கி உயிரிழந்துள்ளனர்.
+
+இன்று காலை பண்னைக்கு சென்ற உரிமையாளர் மின்சாரம் தாக்கி இருவர் உயிரிழந்துள்ளதை கண்டு பொலிஸாருக்கு தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/3c079656.json)
+
+---
+
+### අටලුගම දැරියගේ ඝාතකයාට වසර 27ක සිරදඬුවමක්
+
+*2024-02-13 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193333) · `si`
+
+වයස 09 හැවිරිදි දැරියක් පැහැරගෙන ගොස් මඩේ ගිල්වා මරා දැමීමේ චෝදනාවලට වරද පිළිගත් විත්තිකරුවෙකුට අද (13) බරපතළ වැඩ සහිත වසර 27ක සිරදඬුවම් නියම කෙරුණි.
+
+මීට වසර දෙකහමාරකට පමණ පෙර පානදුර අටලුගම ප්‍රදේශයේදී මෙම අපරාධය සිදුකර තිබුණි.
+
+සාවද්‍ය නොවන මනුෂ්‍ය ඝාතනය සහ දැරියව මව සන්තකයෙන් පැහැරගෙන ගොස් අපහරණය කිරීමේ චෝදනාවලට ඒකී සිරදඬුවම් නියම කෙරුණි.
+
+මියගිය දැරියගේ මවට රුපියල් ලක්ෂ 30 වන්දියක් ගෙවන ලෙසත් ෆාරුක් මොහොමඩ් ගනේෂනාදන් නම් විත්තිකරුවට නියෝග කෙරුණි.
+
+එකී වන්දිය නොගෙවන්නේ නම් වසර හයාමාරක ලිහිල් සිරදඬුවම් ලබාදීමට ද විනිසුරුවරයා නියෝග කළේය.
+
+2022.05.27 වනදා නිවස ආසන්නයේ වෙළෙඳසැලකය ගොස් ආපසු නිවස කරා පැමිණෙමින් සිටියදී දූෂණය කිරීමේ අරමුණින් දැරියව රවටා අවට පිහිටි ලදු කැළෑවකට රැගෙන ගොස් තිබුණි.
+
+පසුව විත්තිකරු දැරියව දූෂණය කිරීමට උත්සාහ දරා ඇතත් දැරියගේ කෑගැසීම නිසා බියට පත් විත්තිකරු දැරියව මඩ වගුරක ඔබා ඝාතනය කර ඇති බවත් දැරිය දූෂණයට ලක්වී නොමැති බවත් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/c62aa998.json)
+
+---
+
+### பெலியத்த ஐவர் படுகொலை : மூவருக்கு விளக்கமறியல்!
+
+*2024-02-13 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176285) · `ta`
+
+பெலியத்தவில் ஐவர் படுகொலை செய்யப்பட்ட  சம்பவத்துடன் தொடர்புடைய சந்தேக நபர்கள் மூவர் எதிர்வரும் 27ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+சந்தேக நபர்கள் இன்று செவ்வாய்க்கிழமை (13) தங்காலை நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+வெயங்கொடையில் கைது செய்யப்பட்ட துப்பாக்கிச் சூடு நடத்தியவரின் மனைவி அவரது  தந்தை மற்றும் கைது செய்யப்பட்ட காலி பூஸ்ஸவை சேர்ந்த 23 வயதான யுவதி ஆகியோரே நீதிமன்றில் முன்னிலைப்படுத்தப்பட்டனர்.
+
+◼️
+
+[Data](articles/8352e5da.json)
+
+---
 
 ### CEB gives undertaking to pay interest for security deposits of consumers
 
@@ -49,6 +109,8 @@ As per the undertaking given by the state-owned electricity supplier, this annua
 ...
 
 [Data](articles/b97d3a37.json)
+
+[Extended Data](ext_articles/b97d3a37.ext.json)
 
 ---
 
@@ -106,6 +168,8 @@ Thus, the Cabinet approval has been granted for the joint resolution presented b
 
 [Data](articles/9969e118.json)
 
+[Extended Data](ext_articles/9969e118.ext.json)
+
 ---
 
 ### Army troops deployed to ensure uninterrupted hospital services amid health strike
@@ -119,6 +183,8 @@ The troops have been swiftly deployed to various healthcare facilities nationwid
 ...
 
 [Data](articles/3c7bec43.json)
+
+[Extended Data](ext_articles/3c7bec43.ext.json)
 
 ---
 
@@ -161,6 +227,8 @@ D’Ambrosio said in her post that one of Loy Yang’s four units had been broug
 ...
 
 [Data](articles/e6d986f1.json)
+
+[Extended Data](ext_articles/e6d986f1.ext.json)
 
 ---
 
@@ -1995,69 +2063,5 @@ Donald Trump had previously stated that NATO is not met anymore, the US would sp
 [Data](articles/fc732967.json)
 
 [Extended Data](ext_articles/fc732967.ext.json)
-
----
-
-### MP Ali Sabri Raheem’s car involved in accident; one person injured
-
-*2024-02-13 07:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97211/mp-ali-sabri-raheems-car-involved-in-accident-one-person-injured) · `en`
-
-One person was injured when the car in which Member of Parliament Ali Sabri Raheem was traveling was involved in an accident, according to Saliyawewa Police.
-
-The accident had occurred at around 1.00 am today (13) near the 15th Mile Post of the Puttalam - Anuradhapura Road.
-
-The person injured in the incident has been identified as H.M. Harshana Pradeep, a resident of Upper Puliyankulam in Aluthgama, while he has been admitted to the Puttalam Base Hospital for treatment.
-
-The MP was traveling from Puttalam towards Anuradhapura and the accident occurred when the MP’s car had collided with the back of a hand tractor which was heading in the same direction.
-
-Police said that the person who was driving the said hand tractor was injured in the accident.
-
-The driver of the car in which the MP was traveling has been arrested by Saliyawewa Police in connection with the incident.
-
-◼️
-
-[Data](articles/a3cd1450.json)
-
-[Extended Data](ext_articles/a3cd1450.ext.json)
-
----
-
-### Man arrested for set fire to a dog mut
-
-*2024-02-13 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193313) · `si`
-
-Yakala Police say that a person has been arrested in Imbulgoda, Gampaha.
-
-A neighboring neighbor was burned down on the 10th of the night, a nearby neighbor at the Imbulgoda Navigation, Gampaha.
-
-It was revealed that the suspect is a householder of German shepherd dogs and set fire to the manga with these dogs.
-
-The owners of the murdered dog chief have lodged a complaint with the Yakkala Police regarding the incident and the investigated police officers arrested the suspect.
-
-The suspect was to be produced in court yesterday (12).
-
-◼️
-
-[Data](articles/d1e54dc6.json)
-
-[Extended Data](ext_articles/d1e54dc6.ext.json)
-
----
-
-### The death of the constable drowning in the water
-
-*2024-02-13 07:37:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-கான்ஸ்டபிள்-மரணம்/175-333111) · `ta`
-
-Pamunugama police have launched an investigation into the incident of a police constable drowning in the sea on a beach near the Pamunugama and Uswathakeya.
-
-The deceased is a 24 -year -old police constable at the Grandpass Police Station and a resident of Badulla.
-
-Investigations have revealed that the constable was drowned while bathing in the sea beyond the beach with a team of colleagues of the Grandpass police station.
-
-◼️
-
-[Data](articles/cbe9309f.json)
-
-[Extended Data](ext_articles/cbe9309f.ext.json)
 
 ---

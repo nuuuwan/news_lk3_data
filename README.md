@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 12:32:52**
+As of **2024-02-13 12:49:08**
 
 ## Newspaper Stats
 
-*Scraped **6,675** Articles*
+*Scraped **6,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,23 +18,101 @@ newsfirstlk | 363
 adalk | 565
 adaderanalk | 811
 tamilmirrorlk | 819
-virakesarilk | 839
-adaderanasinhalalk | 931
+virakesarilk | 841
+adaderanasinhalalk | 932
 dailymirrorlk | 974
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,675 (100.0%) of 6,675 articles have been extended.
+6,675 (100.0%) of 6,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
+### மின்சார சபை அத்தியட்சகரை தாக்கிய ஹொரனை மாநகர சபையின் முன்னாள் உறுப்பினர் பொலிஸில் சரண்!
+
+*2024-02-13 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176265) · `ta`
+
+ஹொரனை பிரதேச பிரதம பொறியியலாளர் காரியாலயத்துக்குள் நுழைந்து வர்த்தக பிரிவு மின்சார அத்தியட்சகரை தாக்கிவிட்டு தலைமறைவாகியிருந்தார் என சந்தேகிக்கப்படும்  ஹொரனை  மாநகர சபையின் முன்னாள் உறுப்பினர் (ஸ்ரீலங்கா பொதுஜன பெரமுன) நளின் சிந்தக கைது செய்யப்பட்டுள்ளதாக ஹொரனை  தலைமையக பொலிஸார் தெரிவித்துள்ளனர்.
+
+தாக்குதலுடன் தொடர்புடைய மற்றைய சந்தேக நபரான சாரதி அன்றைய தினம் கைது செய்யப்பட்டு ஹொரனை  நீதிவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்ட பின்னர் எதிர்வரும் 21 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/c4babbe2.json)
+
+---
+
+### කෘත්‍රීම බුද්ධිය පාඨමාලාවක් ලෙස පාසල් පද්ධතියට
+
+*2024-02-13 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193322) · `si`
+
+කෘත්‍රීම බුද්ධිය පිළිබඳ පාඨමාලා අධ්‍යාපන පද්ධතියට හඳුන්වාදීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+
+2023.10.02 වන දින පැවති අමාත්‍ය මණ්ඩල රැස්වීමේ දී සාකච්ඡාවට ගත් කෘත්‍රීම බුද්ධියට අදාළව ජාතික උපාය මාර්ගයක් සහ සැලැස්මක් සකස් කිරීම සඳහා පත්කර ඇති කාර්ය සාධක බළකාය විසින් ඉදිරිපත් කර ඇති නිර්දේශ අනුව අනුව එය පාඨමාලා හඳුන්වා දීමට නියමිතය.
+
+එම උපාය මාර්ග සැලැස්මේ එක් අංගයක් වන්නේ සාමාන්‍ය අධ්‍යාපනයට අදාළව කෘත්‍රීම බුද්ධිය හඳුන්වා දීමට නියමු ව්‍යාපෘති ක්‍රියාත්මක කිරීමය.
+
+එම නියමු ව්‍යාපෘති මයික්‍රොසොෆ්ට් ආයතනයේ ද සහාය ඇතිව පහත පරිදි ක්‍රියාත්මක කිරීමට ජනාධිපතිවරයා ඉදිරිපත් කළ යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+
+* දැනට මයික්‍රොසොෆ්ට් ආයතනය විසින් ක්‍රියාත්මක කරනු ලබන ජාත්‍යන්තර විෂය නිර්දේශයන් ජාතික අධ්‍යාපන ආයතනයේ නිර්දේශ මත සංශෝධනය කර අවශ්‍ය මුලික මානව සම්පත් පවතින පාසල්වල 8 වන ශ්‍රේණියේ සිට යෝජිත නියමු ව්‍යාපෘතියක් ආරම්භ කිරීම.
+
+*මයික්‍රොසොෆ්ට් ආයතනය විසින් සපයනු ලබන පහසුකම් යටතේ නියමු ව්‍යාපෘතිය සඳහා තෝරාගත් පාසල් ඩිජිටල්කරණය කිරීම.
+
+...
+
+[Data](articles/1e055588.json)
+
+---
+
+### அம்பாறையில் கடற்கரையில் கரையொதுங்கிய சடலம் இனங் காணப்பட்டது
+
+*2024-02-13 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176263) · `ta`
+
+அம்பாறை மாவட்டம் பெரிய நீலாவணை பொலிஸ் பிரிவுக்குட்பட்ட  பாண்டிருப்பு கடற்கரை பகுதியில் கரையொதுங்கிய  ஆணின் சடலம்  இனங்காணப்பட்டுள்ளது.
+
+பாண்டிருப்பில் விஷ்ணு கோயிலை அண்டிய கடற்கரை பகுதியில் குறித்த சடலம் மீட்கப்பட்டதுடன், சடலத்தை அடையாளம் காண்பதற்காக    கல்முனை  ஆதார வைத்தியசாலைக்கு எடுத்து செல்லப்பட்டது.
+
+கடந்த திங்கட்கிழமை (12) மீட்கப்பட்ட இச்சடலம்  மட்டக்களப்பு மாவட்டம் செட்டிபாளையம் பகுதியைச்  சேர்ந்த கதிரவேல் பத்மராஜ் (வயது 59) எனும் மூன்று பிள்ளைகளின் தந்தை  என  அவரது மனைவி வசந்தி அடையாளம் காட்டியுள்ளார்.
+
+மரணமடைந்தவர்  தனது  வீட்டில் இருந்து கடைக்கு சென்று வருவதாக தெரிவித்து வெளியே சென்றதாகவும், சடலமாக மீட்கப்படும் வரை தேடியும் கிடைக்காததினால் களுவாஞ்சிகுடி பொலிஸ் நிலையத்தில் முறைப்பாடு மேற்கொள்ளப்பட்டிருந்ததாகவும்,  பின்னர் கல்முனை பகுதியில் சடலம் ஒன்று கரையொதுங்கியுள்ளது என்பதை அறிந்து கல்முனை ஆதார வைத்தியசாலைக்கு சென்று அங்கே பிரேத அறையில் வைக்கப்பட்ட சடலம் தனது கணவர் தான் என்பதனை உறுதிப்படுத்தியதாகவும் மரணமடைந்தவரின் மனைவி  தெரிவித்தார்.
+
+◼️
+
+[Data](articles/eba6bc0e.json)
+
+---
+
+### Health Trade Unions Task Breeding
+
+*2024-02-13 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176254) · `ta`
+
+The 72 health unions have repeatedly carried out union actions, demanding that the 35,000 rupee payments be paid to the doctors.
+
+The second phase of talks were held yesterday (12) between the officials of the Finance Ministry and the representatives of the Health Trade Unions on the matter.
+
+As the talks failed, they are continuously working on Tuesday (13) at 6 am today.
+
+They are also working in Vavuniya in support of the workplace operations across the country.
+
+As a result, patients have faced various difficulties and obtained blood samples and blood tests today and many patients have been able to observe the difficulties of getting medication.
+
+At the same time, it was possible to observe the return of many patients from distant places due to work.
+
+◼️
+
+[Data](articles/89268230.json)
+
+[Extended Data](ext_articles/89268230.ext.json)
+
+---
+
 ### Attorney -at -Law Manoj Kamage resigns from the post of Director of the Control Authority!
 
-*2024-02-13 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/176261) · `ta`
+*2024-02-13 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176261) · `ta`
 
 Attorney -at -Law Manoj Kamage, Director of the National Records Control Authority, has sent a letter to Health Minister Ramesh Pathrana to resign.
 
@@ -135,30 +213,6 @@ Following the incident, a group of Warakapola police went to the scene and arres
 [Data](articles/258bfc7f.json)
 
 [Extended Data](ext_articles/258bfc7f.ext.json)
-
----
-
-### Health Trade Unions Task Breeding
-
-*2024-02-13 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176254) · `ta`
-
-The 72 health unions have repeatedly carried out union actions, demanding that the 35,000 rupee payments be paid to the doctors.
-
-The second phase of talks were held yesterday (12) between the officials of the Finance Ministry and the representatives of the Health Trade Unions on the matter.
-
-As the talks failed, they are continuously working on Tuesday (13) at 6 am today.
-
-They are also working in Vavuniya in support of the workplace operations across the country.
-
-As a result, patients have faced various difficulties and obtained blood samples and blood tests today and many patients have been able to observe the difficulties of getting medication.
-
-At the same time, it was possible to observe the return of many patients from distant places due to work.
-
-◼️
-
-[Data](articles/89268230.json)
-
-[Extended Data](ext_articles/89268230.ext.json)
 
 ---
 
@@ -2049,57 +2103,5 @@ The robbers shooting a shot and the taximan was slightly injured.
 [Data](articles/d98cc8ad.json)
 
 [Extended Data](ext_articles/d98cc8ad.ext.json)
-
----
-
-### Lightning strikes in football
-
-*2024-02-12 21:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176228) · `ta`
-
-A tragic incident in Indonesia has taken place in a lightning strike during a football match.
-
-The tragedy has been reported at the Chiliwangi Ground in Bandung, West Java, Indonesia.
-
-The 35 -year -old player standing on the stadium while the football match was hit by a lightning when the player fell into the stadium and died after being admitted to the hospital.
-
-He is the second player in Indonesia in the last 12 months.
-
-◼️
-
-[Data](articles/00a94590.json)
-
-[Extended Data](ext_articles/00a94590.ext.json)
-
----
-
-### How Sri Lanka Ubered in 2023
-
-*2024-02-12 21:34:00* · [`islandlk`](http://island.lk/how-sri-lanka-ubered-in-2023/) · `en`
-
-With 2023 in the rear view mirror, Uber released highlights of its annual data report – How Sri Lanka Ubered – encapsulating the key trends from how Sri Lanka moved last year.
-
-The analysis from the trips in 2023 revealed interesting trends about cities with the total number of kilometres covered in Uber rides, popular travel trends in intercity travel, and also several rider preferences. Backed by data and insights, the report spotlights increasing relevance of ride sharing in Sri Lanka.
-
-Uber remained the favourite mobility companion for the island nation, with products across categories finding love from riders. Uber trips during the year covered a whopping 140 million kilometres, which is enough to traverse the entire 114,000 kilometre road network in Sri Lanka more than 1200 times over, or more than thrice everyday.
-
-...
-
-[Data](articles/28740500.json)
-
-[Extended Data](ext_articles/28740500.ext.json)
-
----
-
-### First private healthcare provider to receive prestigious Green Building Council Certification
-
-*2024-02-12 21:32:00* · [`islandlk`](http://island.lk/first-private-healthcare-provider-to-receive-prestigious-green-building-council-certification/) · `en`
-
-Ninewells Hospital, Sri Lanka’s leader in woman and childcare has proudly achieved the Gold Standard Certification from the Green Building Council of Sri Lanka (GBCSL), becoming the first private hospital in Sri Lanka to receive the prestigious recognition. This certification underscores Ninewells’ position as the leader of sustainability in Sri Lanka’s healthcare sector, setting new benchmark for private healthcare providers across the Island.
-
-...
-
-[Data](articles/8969658a.json)
-
-[Extended Data](ext_articles/8969658a.ext.json)
 
 ---

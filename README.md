@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 08:33:01**
+As of **2024-02-13 08:51:09**
 
 ## Newspaper Stats
 
-*Scraped **6,613** Articles*
+*Scraped **6,621** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
 adalk | 559
-tamilmirrorlk | 803
-adaderanalk | 803
+adaderanalk | 805
+tamilmirrorlk | 809
 virakesarilk | 829
 adaderanasinhalalk | 920
 dailymirrorlk | 964
@@ -26,11 +26,113 @@ dailymirrorlk | 964
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,613 (100.0%) of 6,613 articles have been extended.
+6,621 (100.0%) of 6,621 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### Mahinda Rajapaksa released the report
+
+*2024-02-13 07:55:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறிக்கை-வெளியிட்டார்-மஹிந்த-ராஜபக்ச/175-333112) · `ta`
+
+Former President Mahinda Rajapaksa said that the Uma Oya project is one of the largest hydropower stations in Sri Lanka after Victoria, Kothmalai and Upper Kotmalai power stations.
+
+The Sri Lanka PA (SLPP), who issued a statement, said the Uma Oya project would provide the lowest cost of electricity to Sri Lanka.
+
+He said the Uma Oya project was the only major infrastructure project that the People's Liberation Front (JVP), the party against the establishment (JVP), contributed favorable.
+
+“The construction of this project started in March 2010 to turn water to the southeastern dry zone from the Central Highlands. Discussed and scheduled infrastructure plans for decades, but no government actually implemented. When I was president, jealous people discredited these achievements, and my government members had raised the cost estimates of these projects to make money.
+
+...
+
+[Data](articles/ce5908da.json)
+
+[Extended Data](ext_articles/ce5908da.ext.json)
+
+---
+
+### MP Ali Sabri Raheem’s car involved in accident; one person injured
+
+*2024-02-13 07:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97211/mp-ali-sabri-raheems-car-involved-in-accident-one-person-injured) · `en`
+
+One person was injured when the car in which Member of Parliament Ali Sabri Raheem was traveling was involved in an accident, according to Saliyawewa Police.
+
+The accident had occurred at around 1.00 am today (13) near the 15th Mile Post of the Puttalam - Anuradhapura Road.
+
+The person injured in the incident has been identified as H.M. Harshana Pradeep, a resident of Upper Puliyankulam in Aluthgama, while he has been admitted to the Puttalam Base Hospital for treatment.
+
+The MP was traveling from Puttalam towards Anuradhapura and the accident occurred when the MP’s car had collided with the back of a hand tractor which was heading in the same direction.
+
+Police said that the person who was driving the said hand tractor was injured in the accident.
+
+The driver of the car in which the MP was traveling has been arrested by Saliyawewa Police in connection with the incident.
+
+◼️
+
+[Data](articles/a3cd1450.json)
+
+[Extended Data](ext_articles/a3cd1450.ext.json)
+
+---
+
+### The death of the constable drowning in the water
+
+*2024-02-13 07:37:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-கான்ஸ்டபிள்-மரணம்/175-333111) · `ta`
+
+Pamunugama police have launched an investigation into the incident of a police constable drowning in the sea on a beach near the Pamunugama and Uswathakeya.
+
+The deceased is a 24 -year -old police constable at the Grandpass Police Station and a resident of Badulla.
+
+Investigations have revealed that the constable was drowned while bathing in the sea beyond the beach with a team of colleagues of the Grandpass police station.
+
+◼️
+
+[Data](articles/cbe9309f.json)
+
+[Extended Data](ext_articles/cbe9309f.ext.json)
+
+---
+
+### "Their service is not required for the country"
+
+*2024-02-13 07:32:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவர்களின்-சேவை-நாட்டிற்குத்-தேவையில்லை/175-333110) · `ta`
+
+The country's service is not required for the service of this health union experts, as the government is interested in handling these hospital services to the private sector, while the government's Medical Officers Forum (GMOF) Chairman and Dr. Rukshan Bellana, Rukshan Bellana, commented on the strike to be carried out by the health sector trade unions nationwide.
+
+Speaking to reporters, he said that the country's health department needs only medical, nurses and the necessary management staff to implement the Government Hospital effectively.. He proposed external services, such as laboratory services, and stressed that this approach would lead to a three -fold cost of costs.
+
+“I have never seen the head of the Health Experts Federation Ravi Kumudesh Hospital. Has anyone noticed that he is actively involved in any work?When many of us spend our day in hospitals, Kumudesh is often on the streets. "He accused Bellana."
+
+...
+
+[Data](articles/f3d978bb.json)
+
+[Extended Data](ext_articles/f3d978bb.ext.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2024-02-13 07:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97210/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in Eastern and Uva provinces and in Polonnaruwa, Matale and Nuwara-Eliya districts.
+
+A few showers may occur in Northern province and in Anuradhapura district, it said.
+
+Showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Galle and Matara districts after 2.00 p.m.
+
+Fairly strong winds about 30-40 kmph can be expected at times in eastern slopes of the central hills and in Northern, North-Central, Southern, North-western, Uva and Eastern provinces.
+
+Misty conditions can be expected at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
+
+◼️
+
+[Data](articles/ea79a20e.json)
+
+[Extended Data](ext_articles/ea79a20e.ext.json)
+
+---
 
 ### MP Ali Sabri Raham's car in danger
 
@@ -95,6 +197,60 @@ The Department of Meteorology also stated that in some places in the Western and
 [Data](articles/bfd71030.json)
 
 [Extended Data](ext_articles/bfd71030.ext.json)
+
+---
+
+### Properly register the SIM card
+
+*2024-02-13 04:01:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிம்-அட்டையை-முறையாகப்-பதிவு-செய்யுங்கள்/175-333096) · `ta`
+
+The Sri Lanka Telecommunication Regulatory Commission has announced that everyone who uses mobile phones should register their SIM card properly.
+
+Please contact the company's agencies of the SIM card to verify that the SIM card has been registered in your name on handheld phones you are currently using.
+
+If you are issued SIM cards without knowing you under your National Identity Card number, it is very important to disconnect their connection. (A)
+
+◼️
+
+[Data](articles/c5c037c7.json)
+
+[Extended Data](ext_articles/c5c037c7.ext.json)
+
+---
+
+### Trade union action from today
+
+*2024-02-13 03:52:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-மீண்டும்-தொழிற்சங்க-நடவடிக்கை/175-333094) · `ta`
+
+72 health trade unions have decided to re -engage in a continuous workforce from 6 am this morning, the Health Trade Unions Federation said.
+
+The 72 health unions have repeatedly carried out union actions, demanding that the 35 thousand rupee payments be paid to the doctors.
+
+The second phase of talks were held yesterday between the officials of the Finance Ministry and the representatives of the Health Trade Unions.
+
+Sanaka Dharmavickrama, Coordinator of the Health Trade Unions Federation, has said that the negotiations have failed and have decided to carry out a series of workforce.. (A)
+
+◼️
+
+[Data](articles/cdb487ba.json)
+
+[Extended Data](ext_articles/cdb487ba.ext.json)
+
+---
+
+### There is no alternative except for the President
+
+*2024-02-13 03:45:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-தவிர-மாற்று-முறை-இல்லை/175-333093) · `ta`
+
+Transport, Highways and Media Minister Bandula Gunawardena said that if there are other alternatives, other than the economic program, which is being carried out by President Ranil Wickremesinghe to build the economy of Sri Lanka, he said.
+
+“The fuel is supplied continuously. There are no gas queues. There is uninterrupted power supply. Public servants are paid on the date. With these activities, there is no other way to replace the economic program carried out by the President. ”. (A)
+
+◼️
+
+[Data](articles/c0f2247d.json)
+
+[Extended Data](ext_articles/c0f2247d.ext.json)
 
 ---
 
@@ -1883,161 +2039,5 @@ Seylan Developments Plc offered to repurchase up to a maximum of 14,796,486 ordi
 [Data](articles/95629d8e.json)
 
 [Extended Data](ext_articles/95629d8e.ext.json)
-
----
-
-### Jaffna leaders should discuss the events of Tamil Nadu cinema artist - Mano Ganesan
-
-*2024-02-12 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/176204) · `ta`
-
-The events of the art event of Tamil cinema artists in Jaffna should not be a disadvantage for Sri Lanka-Tamil cultural relations. Tamil Progressive Alliance leader and Colombo District Parliamentarian Mano Ganesan has said that the Jaffna District MPs, District Secretary, Police, Jaffna Municipal Council and Civil Society should be gathered in the Jaffna District Committee.
-
-The first day of the Tamil cinema artists at the Jaffna courtyard of the Jaffna courtyard yesterday must pass the events.
-
-The music event, which became a riot, occurred in December 2004 in Colombo.. Bollywood actor Shah Rukh Khan came to Colombo to perform art show. The actor, Shah Rukh, is the one who turned the airport. Today, Sri Lanka is not on his world map.
-
-...
-
-[Data](articles/b1c484a7.json)
-
-[Extended Data](ext_articles/b1c484a7.ext.json)
-
----
-
-### Shell-RM Parks and CPSTL sign agreement for fuel storage, distribution
-
-*2024-02-12 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97203/shell-rm-parks-and-cpstl-sign-agreement-for-fuel-storage-distribution-) · `en`
-
-The Ceylon Petroleum Storage Terminals (CPSTL) signed an agreement with US-based petroleum products distributor ‘Shell-RM Parks’ today (12 Feb.).
-
-The relevant agreement was signed at the CPSTL Head Office, pertaining to the storage and distribution of fuel in Sri Lanka.
-
-As per the newly signed agreement, CPSTL is now able to store and distribute ‘Shell-RM Parks’ petroleum products in Sri Lanka.
-
-On 08 June 2023, the Government of Sri Lanka signed an agreement with RM Parks Inc., in collaboration with Shell Plc for a long-term contract for the importation, storage, distribution, and sale of petroleum products in Sri Lanka.
-
-“US-based petroleum company RM Parks in a collaboration with Shell PLC signed the agreement to enter the Sri Lanka petroleum business. RM Parks will be the 4th supplier to enter the domestic market and will operate under the Shell branding.”
-
-...
-
-[Data](articles/21649e90.json)
-
-[Extended Data](ext_articles/21649e90.ext.json)
-
----
-
-### President Ranil congratulates Indian PM on Ram Temple opening, hails bilateral ties
-
-*2024-02-12 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97202/president-ranil-congratulates-indian-pm-on-ram-temple-opening-hails-bilateral-ties-) · `en`
-
-President Ranil Wickremesinghe on Monday (12 Feb.) congratulated Indian Prime Minister Narendra Modi for the grand opening ceremony of the Ram Temple held in Ayodhya last month.
-
-His remarks came during the virtual launch of India’s Unified Payment Interface (UPI) services in Sri Lanka and Mauritius, which was attended by Indian Prime Minister Modi, Mauritian Prime Minister Pravind Jugnauth and the top leadership from both Sri Lanka and Mauritius.
-
-During the launch, President Wickremesinghe underlined the long historical relations between India and Sri Lanka on the economic and cultural front. “…For you, Prime Minister Modi, it’s a second important occasion because I must congratulate you on the opening of the Ram Mandir just a few weeks ago. This shows our connections both economically and culturally,” he said.
-
-...
-
-[Data](articles/b5946709.json)
-
-[Extended Data](ext_articles/b5946709.ext.json)
-
----
-
-### Sanath Nishantha was summoned to Nishantha - a 5 hour statement from the container driver
-
-*2024-02-12 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193293) · `si`
-
-The driver of the container collided with the luxury vehicle that Sanath Nishantha was traveling with the luxury vehicle.
-
-The division is currently conducting investigations into the deaths of the former state minister and his security officer.
-
-Our correspondent said that the driver of the container had a 5 hour statement.
-
-The wife of Sanath Nishantha demands a complaint with the CID, Attorney Chamari Priyanka demanding a formal investigation into the incident.
-
-◼️
-
-[Data](articles/4c8d0a6e.json)
-
-[Extended Data](ext_articles/4c8d0a6e.ext.json)
-
----
-
-### More than 100 civilians killed in Rafa - Israel
-
-*2024-02-12 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/176202) · `ta`
-
-More than 100 people, including children, have been killed in Israel's intensive air strikes targeting Rafa, the Palestinian Red Cross community said.
-
-More than 100 people have been killed due to attacks targeting many parts of the city.
-
-The copper community has expressed fears that the casualties may increase as the victims of the Israeli attack are under the wreckage.
-
-The director of Abuosev al -Nijar Hospital said that the most wounded people were injured by the bombing of Israel.
-
-CNN said videos have been revealed to be confused with the Rava hospital.
-
-◼️
-
-[Data](articles/3016c94b.json)
-
-[Extended Data](ext_articles/3016c94b.ext.json)
-
----
-
-### Mosquitoes that rolled like a hurricane;Video
-
-*2024-02-12 16:30:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூறாவளி-போல்-சுழன்ற-கொசுக்கள்-காணொளி/175-333078) · `ta`
-
-Hurricane winds often hit countries including American. Suddenly the air takes the soil on the earth and spins it intact. Then goes to the air as the hand twist. Similarly, even if there is a shark in the sea, suddenly the air will carry the sea water.
-
-It is normal to walk during the hurricane. But the mosquitoes in Kesavnagar and Karadi in Pune, Maharashtra, have suddenly spinned like a hurricane.. What if so many mosquitoes enter the place where people live?The question was raised and worried about hygiene. Moreover, the Pune administration has urged the immediate process of mosquitoes.
-
-The rise of the Mula Mutha River has been the cause of the incident.
-
-◼️
-
-[Data](articles/04504dab.json)
-
-[Extended Data](ext_articles/04504dab.ext.json)
-
----
-
-### Government suddenly decided on fuel supply
-
-*2024-02-12 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193292) · `si`
-
-Petroleum Store and Distribution Agreement has come to the storage and distribution of Ceylon Petroleum Storage Terminal and Ceylon Petroleum Storage Terminal.
-
-The agreement was held at the Head Office at the Head Office today (12).
-
-The fuel consignment of Ceylon Petroleum will be allocated for storage and distribution of fuel belonging to the company of the Ceylon Petroleum.
-
-The agreement was made following the instructions of Power and Energy Kanchana Wijesekara to begin with the development of fuel distribution.
-
-◼️
-
-[Data](articles/2c7ccc04.json)
-
-[Extended Data](ext_articles/2c7ccc04.ext.json)
-
----
-
-### Sabaragamuwa University Senior Students Explain
-
-*2024-02-12 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176200) · `ta`
-
-Balangoda Magistrate Heshani Rodrorako today (12) ordered that 7 senior students who were arrested in court in connection with the attack on the second year student of the Sabaragamuwa University Faculty and two students were remanded till tomorrow (13).
-
-The police surrendered to the Samanalawewa police and the police arrested them and produced them at the Balangoda Magistrate's Court.
-
-Investigations have revealed that a group of senior students of the Sabaragamuwa and University of Sabaragamuwa have been hit by a group of senior students last night (09).
-
-◼️
-
-[Data](articles/c9f6d17b.json)
-
-[Extended Data](ext_articles/c9f6d17b.ext.json)
 
 ---

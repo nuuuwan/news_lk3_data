@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 16:33:00**
+As of **2024-02-13 16:49:35**
 
 ## Newspaper Stats
 
-*Scraped **6,743** Articles*
+*Scraped **6,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 572
 adaderanalk | 822
 tamilmirrorlk | 828
 virakesarilk | 850
-adaderanasinhalalk | 944
+adaderanasinhalalk | 946
 dailymirrorlk | 983
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,743 (100.0%) of 6,743 articles have been extended.
+6,745 (100.0%) of 6,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### Health strike
+
+*2024-02-13 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193336) · `si`
+
+The Health Trade Unions are informed that tomorrow (14) will be held tomorrow.
+
+72 health trade unions have commenced strike from 06.30 am today (13).
+
+The convener of the Department of Health Trade Ravi Kudmith said that this strike will be the strike asking for the doctors to give them a gift.
+
+Meanwhile, the All Ceylon Nursing Association Secretary SB Mediwauthttu said that a number of demands of the nursing service will not be resolved tomorrow (14).
+
+◼️
+
+[Data](articles/031272c2.json)
+
+[Extended Data](ext_articles/031272c2.ext.json)
+
+---
+
+### Cabinet approval to revise the online bill
+
+*2024-02-13 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193335) · `si`
+
+◼️
+
+[Data](articles/00338d84.json)
+
+[Extended Data](ext_articles/00338d84.ext.json)
+
+---
 
 ### Former Prime Minister of Thailand released
 
@@ -2013,47 +2045,5 @@ Colombo, Feb 13 (Daily Mirror) - Indicating that Samagi Jana Balawegaya (SJB) wo
 [Data](articles/b46284e8.json)
 
 [Extended Data](ext_articles/b46284e8.ext.json)
-
----
-
-### The family is stranded by the student's wrong decision
-
-*2024-02-13 09:03:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மாணவியின்-தவறான-முடிவால்-தவிக்கும்-குடும்பம்/72-333115) · `ta`
-
-The body has been placed at the Pudukkudiyiruppu resource hospital after a schoolgirl made a wrong decision in Mullaitivu - Pudukkudiyiruppu area.
-
-Nitarsini, an 18 -year -old student from Pudukkudiyiruppu - Iranipalai area, has made the wrong decision.
-
-In the absence of parents and relatives at home, the student was found hanging in her room.
-
-Following this, the residents and neighbors were rescued and taken to the Pudukkudiyiruppu Resource Hospital, but he died, the medical officer said.
-
-The body is being kept at Pudukkudiyiruppu Hospital and the Pudukkudiyiruppu police are conducting further investigations into the death.. Remble
-
-◼️
-
-[Data](articles/82698b43.json)
-
-[Extended Data](ext_articles/82698b43.ext.json)
-
----
-
-### Sudden change in climate
-
-*2024-02-13 08:44:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலநிலையில்-திடீர்-மாற்றம்/175-333114) · `ta`
-
-Rainfall is likely to occur in the Eastern and Uva provinces and in Polonnaruwa, Matale and Nuwara Eliya districts.
-
-In some places in the Western and Sabaragamuwa Provinces, Galle and Matara districts. After 2.00 pm, there is a possibility of rain or thunderstorms.
-
-Heavy winds are expected to blow up to 30-40 km / h from time to time in the North, North, South, North, North, Uva and Eastern Provinces in the eastern parts of the Central Highlands.
-
-In the morning, in some places in the Western and Sabaragamuwa Provinces, Galle and Matara districts, there is expected snowfall in the morning.. Remble
-
-◼️
-
-[Data](articles/8620ee68.json)
-
-[Extended Data](ext_articles/8620ee68.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 02:33:00**
+As of **2024-02-14 02:48:56**
 
 ## Newspaper Stats
 
@@ -26,93 +26,117 @@ dailymirrorlk | 1,001
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,822 (99.9%) of 6,828 articles have been extended.
+6,828 (100.0%) of 6,828 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### பேராதனை பல்கலைக்கழக விவசாய பீடத்தின் கால்நடைப் பண்ணைக்குள்  திருட்டுத்தனமாக நுழைந்து பன்றியைக் கொன்று இறைச்சியை விற்பனை செய்த மூவர் கைது
+### Three persons arrested for stealthily entering the cattle farm of Peradeniya University
 
 *2024-02-14 02:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176318) · `ta`
 
-பேராதனை பல்கலைக்கழக விவசாய பீடத்தின் கால்நடைப் பண்ணைக்குள் திருட்டுத்தனமாக நுழைந்து சுமார் 150 கிலோ எடையுள்ள பன்றியைக் கொன்று இறைச்சியை விற்பனை செய்த மூவரை பேராதனை பொலிஸார் செவ்வாய்க்கிழமை (13) கைது செய்துள்ளனர்.
+The Peradeniya Police on Tuesday (13) have arrested three persons for stealing about 150 kg of pigs and selling meat.
 
-இப்பண்ணையில் இறைச்சிக்காகவும், விவசாய பீடத்தின் ஆராய்ச்சி நடவடிக்கைகளுக்காகவும் வளர்க்கப்படும்  விலங்குகளே இவ்வாறு திருடப்பட்டுள்ளதாகப் பல்கலைக்கழக நிர்வாகம் தெரிவித்துள்ளது.
+The university administration said that the animals were raised for meat and the research activities of the Agricultural Faculty.
 
-பல்கலைக்கழகத்திற்கு சொந்தமான உட பேராதனை பிரதேசத்தில் இந்த மிருக பண்ணை அமைந்துள்ளதாகவும் கைது செய்யப்பட்ட நபர்கள் திங்கட்கிழமை (12) இரவு பண்ணைக்குள் நுழைந்து, பன்றியை கொன்று அதன் உடல் பாகங்களை எடுத்துச் சென்றுள்ளதாகவும் விசாரணைகளில் தெரியவந்துள்ளது.
+Investigations have revealed that the animal farm is located in the university -owned Udaratana area and the persons arrested have entered the farm on Monday night and killed the pig and carried its body parts.
 
-பண்ணையில் நன்கு வளர்ந்த பன்றி காணாமல் போனதாக பண்ணையின் முகாமையாளரால் பேராதனை பொலிஸில் முறைப்பாடு செய்யப்பட்டதையடுத்து, உட பேராதனை பிரதேசத்தில் உள்ள வீடொன்றில் விசாரணைகளை மேற்கொண்ட பொலிஸார் அங்கு பன்றி இறைச்சி இருந்தத்கை அவதானித்திருந்தனர்.
+Following a complaint with the Manager of the farm, the manager of the farm had lodged a complaint with the manager of the farm, and the police were investigating a house in Peradeniya area.
+
+Chickens have disappeared on the farm several times before, and the police suspect that these animals may be stolen and sold for meat.
+
+The university administration has said that animals are being raised for meat and research on the Agricultural Faculty.
 
 ...
 
 [Data](articles/076a6550.json)
 
+[Extended Data](ext_articles/076a6550.ext.json)
+
 ---
 
-### நிறைவேற்று அதிகாரமுடைய ஜனாதிபதி  முறைமையை இரத்து செய்வது சாத்தியமற்றது - பிரதீபா மஹாநாம
+### It is impossible to abolish the executive presidency - Pradeepa Mahanama
 
 *2024-02-14 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/176317) · `ta`
 
-நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை இரத்து செய்ய வேண்டுமாயின் பாராளுமன்றத்தில் மூன்றில் இரண்டு பெரும்பான்மையுடன்,மக்கள் வாக்கெடுப்புக்கும் செல்ல வேண்டும். ஆகவே நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை இரத்து செய்வது தற்போது சாத்தியமற்றது என இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் முன்னாள் தலைவர் பிரதீபா மஹாநாம தெரிவித்தார்.
+If the executive presidency is to be abolished, the parliament must go to a two -thirds majority in parliament.. Pradeepa Mahanama, former chairman of the Sri Lanka Human Rights Commission, said that it is not possible to abolish the executive presidency.
 
-நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை இரத்து செய்வது தற்போதைய பிரதான பேசுபொருளாக காணப்படுகிறது.2024 ஆம் ஆண்டு ஜனாதிபதி தேர்தல் மற்றும் பொதுத்தேர்தல் நடத்தப்படும் என்று குறிப்பிடப்படுகிறது.
+The abolition of the executive presidency is seen as the current main speech.
 
-1978 ஆம் ஆண்டு உருவாக்கப்பட்ட இரண்டாம் குடியரசு அரசியலமைப்பில் 'நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமை' பிரதான அம்சமாக காணப்படுகிறது.ஆகவே அரசியலமைப்பின் பிரதான அம்சமாக காணப்படும் நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை இரத்துச் செய்ய வேண்டுமாயின் பாராளுமன்றத்தில் மூன்றில் இரண்டு பெரும்பான்மை ஆதரவுடன்,மக்கள் வாக்கெடுப்புக்கும் செல்ல வேண்டும்.
+The 'Executive Presidential System' is the main feature of the second Republican Constitution in 1978.
+
+The leaders who came to power after 1994 promised to abolish the executive presidency. But the promises made by the people have not been fulfilled. Former President Chandrika Bandaranaike Kumaratunga has taken action through Parliament twice to abolish the executive presidency.
+
+In most of the countries that promote democracy, the executive presidency is not in effect. The Cabinet -led governments that highlight the Parliament are currently in operation, so it is best to abolish the executive presidency.
 
 ...
 
 [Data](articles/efe8cab1.json)
 
+[Extended Data](ext_articles/efe8cab1.ext.json)
+
 ---
 
-### நிறைவேற்று அதிகாரமுடைய ஜனாதிபதி முறைமையை இரத்துச் செய்யும் யோசனை : சீனியால் தயாரிக்கப்பட்ட விஷ உருண்டை
+### The idea of abolishing the executive presidency: Poisonous orb produced by Chinese
 
 *2024-02-14 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/176314) · `ta`
 
-அரச சார்பற்ற அமைப்புக்களின் ஆதரவுடன் நிறைவேற்று அதிகாரமுடைய ஜனாதிபதி முறைமையை இரத்துச் செய்யும் யோசனை முன்வைக்கப்பட்டுள்ளது.சீனியால் தயாரிக்கப்பட்ட விஷ உருண்டை என்று இதனைக் குறிப்பிட வேண்டும். இதற்கு எதிர்க்கட்சிகள் அகப்படக் கூடாது என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+The idea of abolishing the executive presidency with the support of NGOs has been proposed.. Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya Party (PTA), said that the opposition parties should not be caught.
 
-கொழும்பில் உள்ள பிவிதுரு ஹெல உறுமய கட்சியின் காரியாலயத்தில் செவ்வாய்க்கிழமை (13) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+He made this statement during a media briefing held at the Bivithuru Hela Urumaya (JHU) office in Colombo on Tuesday (13).
 
-பொருளாதார நெருக்கடிக்குத் தீர்வு காண்பதாகக் குறிப்பிட்டுக் கொண்டு ஆட்சிக்கு வந்த ஜனாதிபதி ரணில் விக்கிரமசிங்க பொருளாதார மீட்சியைத் தவிர்த்து ஏனைய விடயங்களைச் சிறந்த முறையில் முன்னெடுக்கிறார்.அரசியல் சூழ்ச்சிகள் ஊடாக  பதவி காலத்தை தக்கவைத்துக் கொள்ள பல்வேறு வழிகளில் முயற்சிக்கிறார்.
+President Ranil Wickremesinghe, who came to power, is doing well, except for the economic recovery, claiming to be a solution to the economic crisis.
+
+The proposal has made the idea of abolishing the executive presidency with the blessings of NGOs. When the proposal was put forward, Opposition Leader Sajith Premadasa said, "The executive presidency of the executive presidency is ready to support the dissolution of parliament.". Therefore, when the idea is successful this time, Parliament and the dismantling of the dissolution of the new idea have been embedded in a new idea.
 
 ...
 
 [Data](articles/e4b29b49.json)
 
+[Extended Data](ext_articles/e4b29b49.ext.json)
+
 ---
 
-### இலத்திரனியல் ஊடக ஒலிபரப்பு அதிகாரசபைச் சட்டத்தை நிறைவேற்ற எதிர்பார்க்கப்படுகிறது -  சாந்த பண்டார
+### Electronic Media Broadcasting Authority Act is expected -Santha Bandara
 
 *2024-02-14 01:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176313) · `ta`
 
-இலத்திரனியல் ஊடக ஒலிபரப்பு அதிகார சபை சட்டம் பாராளுமன்றத்தில் சமர்ப்பித்து நிறைவேற்ற  எதிர்பார்ப்பதாக வெகுசன ஊடக இராஜாங்க அமைச்சர் சாந்த பண்டார தெரிவித்தார்.
+Minister of State for Media Shantha Bandara said that the Electronic Media Broadcasting Authority Act is expected to be submitted to Parliament.
 
-தேசிய ஊடகக் கொள்கையொன்று முன்வைக்க எதிர்பார்ப்பதாகவும், அது தற்போது அமைச்சரவையின் அங்கீகாரத்திற்காகச் சமர்ப்பிக்கப்பட்டுள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+The Minister of State said he expects a national media policy and that it has now been submitted for the approval of the Cabinet.
 
-ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (13) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் சாந்த பண்டார இவ்வாறு தெரிவித்தார்.
+State Minister Shantha Bandara said this at a media briefing held at the Presidential Media Center on Tuesday (13).
 
-இன்று நாம் எதிர்கொள்ளும் முக்கிய சவால்களில் ஒன்று வருமானம் மற்றும் செலவுகளை முகாமைத்துவம் செய்வதில் உள்ள பிரச்சினையாகும்.  அமைச்சின் கீழுள்ள 16 நிறுவனங்கள் குறித்து விசேட கவனம் செலுத்தியுள்ளோம். அவைகளில் பெரும்பாலானவை திறைசேரியையே நம்பியிருக்கின்றன. எனவே, இந்த நிறுவனங்கள் சுயாதீனமாக முன்னோக்கிச் செல்லும் வகையில் நாம் நடவடிக்கை எடுத்துள்ளோம்.
+One of the main challenges we face today is the problem of managing income and costs.We have paid special attention to the 16 companies below the Ministry. Most of them rely on the Treasury. Therefore, we have taken steps to move these companies independently.
 
 ...
 
 [Data](articles/67309243.json)
 
+[Extended Data](ext_articles/67309243.ext.json)
+
 ---
 
-### நிறைவேற்று அதிகாரம் அவசியமாகவே உள்ளது - அமைச்சர் டக்ளஸ் தெரிவிப்பு!
+### Executive power is necessary - Minister Douglas announces!
 
 *2024-02-14 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176312) · `ta`
 
-நாட்டில் நடைமுறையிலுள்ள நிறைவேற்று அதிகார ஜனாதிபதி முறை மூலம் பல்வேறு பிரச்சினைகளுக்குத் தீர்வு காண முடியும் என்று நம்புவதாகத் தெரிவித்துள்ள அமைச்சர் டக்ளஸ் தேவானந்தா, நிறைவேற்று ஜனாதிபதி அதிகாரம் மற்றும் நாடாளுமன்றம் ஆகியவற்றுக்கிடையில் சம தன்மை கொண்ட அதிகாரம் பேணப்பட வேண்டும் என்ற கருத்தும் தனக்கு ஆழமாக இருப்பதாகவும் தெரிவித்துள்ளார்.
+Minister Douglas Devananda said he hoped to solve various issues through the executive presidency in the country and said that he was deeply deeper to the construction of equal power between the executive president and parliament.
 
-பருத்தித்துறை பிரதேச ஒருங்கிணைப்புக் குழுக் கூட்டம் செவ்வாய்க்கிழமை (13) பிரதேச செயலகத்தின் கேட்போர் கூடத்தில் நடைபெற்றது இதன்பின்னர் ஊடகங்குக்கு கருத்து தெரிவிக்கையிலேயே அமைச்சர் இவ்வாறு தெரிவித்துள்ளார்.
+The Minister said this in a speech to the media on Tuesday (13) at the Auditorium of the Divisional Secretariat.
 
-காலத்துக்குக் காலம் அரசியல் காரணங்களுக்காக விவாதிக்கப்படும் விடயங்களுள் இந்த நிறைவேற்று அதிகார ஜனாதிபதி விடயமும் ஒன்று.  இதேநேரம் தமிழரது தரப்பை எடுத்துக்கொண்டால் இந்த நிறைவேற்று அதிகார ஜனாதிபதி முறைமை கொண்டுவரப்பட்ட வேளையில் அதை வரவேற்றார்கள். அதன்பின்னர் அது தேவை இல்லை என இன்னொரு தரப்பு கூறியபோதும் அதையும் வரவேற்றுள்ள நிலைமைதான் இருக்கின்றது.
+This is one of the issues discussed for political reasons from time to time.At the same time, if the Tamil side was taken, the executive presidency was welcomed by it.. After that, it is not necessary, but it is a situation where it has been welcomed.
+
+But in an environment where the country today is present, there is a need for executive power. The reason is that we believe that we can solve many problems through executive power.
+
+At the same time, executive power is a matter of many other countries of the world. Nevertheless, I have the opinion that equality between parliament and executive power.
 
 ...
 
 [Data](articles/9b211749.json)
+
+[Extended Data](ext_articles/9b211749.ext.json)
 
 ---
 
@@ -688,21 +712,27 @@ It reads that “all service, work or labour, of any description whatsoever, nec
 
 ---
 
-### සහනාධාර පොහොරින් රු. කෝටි 100ක් ගසා කෑ සමාගම් කීපයක ප්‍රධානීන් ඇතුළු 10 ක් ළඟදීම අත්අඩංගුවට ?
+### Subsidy collecher is Rs.. Twenty members of several institutions that explored 100 crores were arrested for immediate arrest?
 
 *2024-02-13 19:47:43* · [`adalk`](https://www.ada.lk/breaking_news/සහනාධාර-පොහොරින්-රු--කෝටි-100ක්-ගසා-කෑ-සමාගම්-කීපයක-ප්‍රධානීන්-ඇතුළු-10-ක්-ළඟදීම-අත්අඩංගුවට--/11-408066) · `si`
 
-ගොවීන්ට සහනාධාර පොහොර වශයෙන්  ආනයනය කරන ලද යුරියා පොහොර ගොවීන් වෙත ලබා නොදී රුපියල් කෝටි100 කට අධික මුදලක් වංචා කිරීම සම්බන්ධයෙන් ප්‍රධාන පෙළේ පොහොර සමාගම් කීපයක ප්‍රධාන තනතුරු දරන්නන් 10 දෙනකු පමණ තව දින කීපයක් තුළදී අත්අඩංගුවට ගැනීමට රහස් පොලිසිය මගින් යුහුසුළුව කටයුතු කරනු ඇතැයි ජාතික පොහොර ලේකම් කාර්යාල අභ්‍යන්තර ආරංචි මාර්ග සඳහන් කරයි.
+National Fertilizer Secretariats will be arrested by the CID to arrest over a few million rupees in a few more than Rs.Sources say.
 
-එම අත්අඩංගුවට පත්වන පුද්ගලයන් අතර කාන්තාවන්ද සිටින බව දැනගන්නට ඇත. ප්‍රධාන පෙළේ සමාගම් පහක ප්‍රධාන තනතුරු දරන්නන් ද ඒ අතර සිටින බව දැනගන්නට ඇත.
+It is learned that there are women among those who are arrested. It is also known that the main holders of five main five companies are among them.
 
-2018 වසරේ සිට ගොවීන්ට ලබා දීමට නියමිතව  තිබූ සහනාධාර පොහොර  ගොවීන් වෙත ලබා නොදී  විවිධ වංචනික ක්‍රම මගින් වැඩි මිලට හොරණ , කෑගල්ල හා මාදම්පේ ප්‍රදේශවල පිහිටා තිබෙන ප්‍රධාන පෙළේ කර්මාන්ත අංශයේ සමාගම් වෙත ලබා දී ඇති බව  මේ වනවිට අනාවරණය වී ඇති බව පොහොර ලේකම් කාර්යාල අභ්‍යන්තර ආරංචි මාර්ග කියයි.
+Internal sources of fertilizer imports have been made to the companies in the Horana, Kegalle and Madampe areas, which have been provided to the farmers from 2018 to the farmers.Says.
 
-යූරියා පොහොර මිටියක් රුපියල් 2500/= ආනයනය කර ගොවීන් වෙත පොහොර සහනාධාරය  ලබාදීමේ වැඩසටහන යටතේ  රුපියල් 1100/= මිලකට ලබාදිය යුතුව වුවත් එම පොහොර ගොවීන් වෙත ලබා නොදී රුපියල් 3500/= අධික මිලකට
+Uriia fertilizer bundle costs Rs.
+
+According to the sources, the Finance Criminal Investigation Division will investigate the complaint lodged with the CID regarding the issuance of the government.
+
+The fertilizer has been imported to Sri Lanka by 18 fertilizer companies obtained from the National Fertilizer Secretariat.
 
 ...
 
 [Data](articles/25eeed35.json)
+
+[Extended Data](ext_articles/25eeed35.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 19:50:09**
+As of **2024-02-13 20:02:37**
 
 ## Newspaper Stats
 
-*Scraped **6,777** Articles*
+*Scraped **6,779** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
 adalk | 578
-adaderanalk | 831
 tamilmirrorlk | 831
+adaderanalk | 832
 virakesarilk | 854
 adaderanasinhalalk | 948
-dailymirrorlk | 991
+dailymirrorlk | 992
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,777 (100.0%) of 6,777 articles have been extended.
+6,779 (100.0%) of 6,779 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### Sri Lanka developing Ramayana Trail to boost tourism from India – Tourism Minister
+
+*2024-02-13 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97241/sri-lanka-developing-ramayana-trail-to-boost-tourism-from-india-tourism-minister) · `en`
+
+Tourists from India topped the list of countries visiting Sri Lanka in January 2023 and the island nation was positive about surge in religious tourism with consecration of Ram Temple in Ayodhya. Sri Lanka was also working on Ramayana trail as there is huge interest in places mentioned in the Ramayana to attract more tourists to the country, Sri Lankan Tourism Minister Harin Fernando said in Mumbai, India.
+
+Speaking to the Free Press Journal on the sidelines of the recently concluded travel and trade show – OTM 2024, Fernando said Lanka government was also working with Thai government in developing a Buddhist circuit with places of interest in India and Sri Lanka.
+
+...
+
+[Data](articles/2f413fe4.json)
+
+[Extended Data](ext_articles/2f413fe4.ext.json)
+
+---
 
 ### Sri Lanka recognized as one of the seven UN World Restoration Flagships
 
@@ -65,6 +81,24 @@ The bill passed the Senate despite Johnson’s criticism of the legislation and 
 [Data](articles/b6045e20.json)
 
 [Extended Data](ext_articles/b6045e20.ext.json)
+
+---
+
+### US Senate passes $95 billion Ukraine aid bill
+
+*2024-02-13 18:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/US-Senate-passes-95-billion-Ukraine-aid-bill/107-276932) · `en`
+
+US, Feb 13- The US Senate passed a $95.3 billion foreign aid bill with assistance for Ukraine and Israel in a vote early Tuesday morning, setting up a showdown with the House as Speaker Mike Johnson has criticized the legislation.
+
+The foreign aid package includes billions of dollars to support Ukraine and for security assistance for Israel, as well as humanitarian assistance for civilians in Gaza, the West Bank and Ukraine, among other priorities. It’s unclear whether Johnson would hold a vote on it and many House Republicans are opposed to further aid to Ukraine.
+
+The bill passed the Senate despite Johnson’s criticism of the legislation and former President Donald Trump signaling opposition to the bill by arguing the US should stop providing foreign aid unless it is in the form of a loan. The Senate vote was 70 to 29 with 22 Republicans voting in favor, including Senate Minority Leader Mitch McConnell.
+
+...
+
+[Data](articles/bee3ff0a.json)
+
+[Extended Data](ext_articles/bee3ff0a.ext.json)
 
 ---
 
@@ -1949,43 +1983,5 @@ There are also 186 suspects in the list on the list of the criminal sections and
 [Data](articles/6e2e8832.json)
 
 [Extended Data](ext_articles/6e2e8832.ext.json)
-
----
-
-### 60000 tourists arrived at the first 8 days of February
-
-*2024-02-13 11:27:47* · [`adalk`](https://www.ada.lk/breaking_news/පෙබරවාරියේ-මුල්-දින-8ට-සංචාරකයන්-60000ක්-ඇවිත්/11-408051) · `si`
-
-The Sri Lanka Tourism Development Authority (SLTB) is 60,122 tourists to arrive in the first eight days of February 2024.
-
-Accordingly, the total number of tourists arrived on February 8 this year, the Authority added that 2685. Daily tourist arrivals in February have exceeded the 6500.
-
-◼️
-
-[Data](articles/1c627b23.json)
-
-[Extended Data](ext_articles/1c627b23.ext.json)
-
----
-
-### Manoj Gamage resigns as NMRA Director
-
-*2024-02-13 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/97219/manoj-gamage-resigns-as-nmra-director) · `en`
-
-Attorney-at-Law Manoj Gamage has resigned from his position as a Member of Board of Directors of the National Medicines Regulatory Authority (NMRA).
-
-Gamage conveyed this in his resignation letter submitted to Minister of Health Ramesh Pathirana.
-
-He has communicated his intention to step down as a Director of the NMRA with effect from today (Feb. 13).
-
-Furthermore, Gamage has emphasized in the letter that as a lawyer he worked for the betterment of the NMRA during his tenure and that as a director, adding that he, along with fellow board members, took appropriate decisions to address a number of shortcomings in the NMRA.
-
-Slamming the conduct of the new NMRA chairman and its current administration, Gamage accused of them being part of the ‘conspiracies’ moved against President Ranil Wickremesinghe and the incumbent government.
-
-◼️
-
-[Data](articles/a6b36e3a.json)
-
-[Extended Data](ext_articles/a6b36e3a.ext.json)
 
 ---

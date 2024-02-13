@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 16:02:41**
+As of **2024-02-13 16:17:34**
 
 ## Newspaper Stats
 
-*Scraped **6,736** Articles*
+*Scraped **6,743** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 80
 bbccomsinhala | 92
 dbsjeyarajcom | 148
-economynextcom | 339
+economynextcom | 345
 islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
@@ -19,76 +19,102 @@ adalk | 572
 adaderanalk | 822
 tamilmirrorlk | 828
 virakesarilk | 850
-adaderanasinhalalk | 943
+adaderanasinhalalk | 944
 dailymirrorlk | 983
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,733 (100.0%) of 6,736 articles have been extended.
+6,736 (99.9%) of 6,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
-### மட்டு. குடும்பிமலையில் சட்டவிரோ மின்சார வேலியில் சிக்கி இரு விவசாயிகள் பலி
+### තායිලන්තයේ හිටපු අගමැතිව නිදහස් කෙරේ
 
-*2024-02-13 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/176289) · `ta`
+*2024-02-13 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193334) · `si`
 
-மட்டக்களப்பு  குடும்பிமலை பிரதேசத்தில் பண்ணை ஒன்றில் சட்டவிரேதமாக அமைக்கப்பட்ட மின்சார வேலியில் மின்சாரம் தாக்கி மாமன் மருமகனாகிய இரு விவசாயிகள் உயிரிழந்த நிலையில் இன்று செவ்வாய்க்கிழமை (13) சடலமாக மீட்கப்பட்டுள்ளதாக வாழைச்சேனை பொலிஸார் தெரிவித்தனர்.
+සිරදඬුවම් නියමවී සිටි තායිලන්තයේ හිටපු අගමැති තක්සින් සිනවත් ව මාස 6ක් රඳවා තබා ගැනීමෙන් අනතුරුව අද (13) නිදහස් කළ බව එරට අගමැති ශ්‍රේතා තවිසින් පැවසීය.
 
-குடும்பிமலையைச் சேர்ந்த 51 வயதுடைய ஆறுமுகம் லோகநாதன், பலிபாய்ந்த கல்லைச் சேர்ந்த 21 வயதுடைய விநாயகமூர்த்தி சுதர்சன் ஆகிய இருவரும் இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளனர்.
+තායිලන්තයේ දියුණුව වෙනුවෙන් හිටපු අගමැතිවරයා සිදුකළ සේවය සම්බන්ධයෙන් ද අගමැතිවරයා විසින් එහිදී කරුණු දක්වා තිබුණි.
 
-வாழைச்சேனை பொலிஸ் பிரிவிலுள்ள குடும்பிமலை ஈச்சையடி பகுதியில் முன்னாள் பிரதி அமைச்சர் ஒருவருக்கு சொந்தமான பண்ணையை வாழைச்சேனையைச் சேர்ந்த நபர் ஒருவர் குத்தகைக்கு எடுத்து செய்துவரும் நிலையில், காட்டு விலங்குகள் உள்நுழைவதை தடுப்பதற்காக சட்டவிரோதமாக மின்சாரத்தை பெற்று பண்ணையை சுற்றி மின்சார வேலி அமைத்துள்ளார்.
+හිටපු අග්‍රාමාත්‍යවරයාට එරෙහිව වසර 8ක සිර දඬුවම් නියමකර තිබුණු අතර ඔහු මීට වසරකට පෙර නැවත තායිලන්තයට පැමිණියේ වසර 15ක පමණ කාලයක් විදෙස්ගතව ජීවත්වීමෙන් පසුව යි.
 
-இந்நிலையில், குறித்த பண்னைபகுதிக்கு அருகில் நேற்று வேளாண்மை அறுவடைக்கு மாமனாரும் மருமகனும் சென்ற நிலையில் மின்சார வேலியில் மின்சாரம் தாக்கி உயிரிழந்துள்ளனர்.
+74 හැවිරිදි හිටපු අගමැතිවරයාට එරෙහිව පනවා තිබූ වසර 8ක සිර දඬුවම ඔහු නැවත තායිලන්තයට පැමිණීමෙන් අනතුරුව වසරක් දක්වා අඩු කිරීමට එරට රජු නියෝග කළේය.
 
-இன்று காலை பண்னைக்கு சென்ற உரிமையாளர் மின்சாரம் தாக்கி இருவர் உயிரிழந்துள்ளதை கண்டு பொலிஸாருக்கு தெரிவித்துள்ளார்.
+◼️
 
-...
-
-[Data](articles/3c079656.json)
+[Data](articles/19dc85a8.json)
 
 ---
 
-### අටලුගම දැරියගේ ඝාතකයාට වසර 27ක සිරදඬුවමක්
+### Bore. Two farmers killed in illegal electric fence
+
+*2024-02-13 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/176289) · `ta`
+
+The body of two farmers, Maman's son -in -law, was found dead on Tuesday (13).
+
+The 51 -year -old Arumugam Lohanathan, a 51 -year -old from Pudimalai, and 21 -year -old Vinayagamoorthy Sudarshan, a 21 -year -old, have been recovered.
+
+A former Deputy Minister of the Valaichenai police division in the Valaichenai Police Division has illegally set up an electric fence around the farm to prevent wild animals from logging.
+
+In this case, the father -in -law and son -in -law went to the harvest of agriculture yesterday near the area.
+
+The owner of the man who went to Pannai this morning told police that two people were killed by electricity.
+
+Subsequently, the police said that the police would obtain a court order and recover the body and hand over the autopsy.
+
+◼️
+
+[Data](articles/3c079656.json)
+
+[Extended Data](ext_articles/3c079656.ext.json)
+
+---
+
+### Atalagama girl murder sentenced to 27 years
 
 *2024-02-13 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193333) · `si`
 
-වයස 09 හැවිරිදි දැරියක් පැහැරගෙන ගොස් මඩේ ගිල්වා මරා දැමීමේ චෝදනාවලට වරද පිළිගත් විත්තිකරුවෙකුට අද (13) බරපතළ වැඩ සහිත වසර 27ක සිරදඬුවම් නියම කෙරුණි.
+A monk was abducted by abducting a 9-year-old girl and sentenced the blame to 27 years of jail.
 
-මීට වසර දෙකහමාරකට පමණ පෙර පානදුර අටලුගම ප්‍රදේශයේදී මෙම අපරාධය සිදුකර තිබුණි.
+About two and a half years, this crime was committed in the 8th of the 8th year.
 
-සාවද්‍ය නොවන මනුෂ්‍ය ඝාතනය සහ දැරියව මව සන්තකයෙන් පැහැරගෙන ගොස් අපහරණය කිරීමේ චෝදනාවලට ඒකී සිරදඬුවම් නියම කෙරුණි.
+The murder of non-false murder and the girl were sentenced to the allegations of abduction and abuse of the mother.
 
-මියගිය දැරියගේ මවට රුපියල් ලක්ෂ 30 වන්දියක් ගෙවන ලෙසත් ෆාරුක් මොහොමඩ් ගනේෂනාදන් නම් විත්තිකරුවට නියෝග කෙරුණි.
+Farook Mohamed Ganesanathan was ordered to pay a sum of Rs.
 
-එකී වන්දිය නොගෙවන්නේ නම් වසර හයාමාරක ලිහිල් සිරදඬුවම් ලබාදීමට ද විනිසුරුවරයා නියෝග කළේය.
+The judge also ordered the annual loose imprisonment of the year.
 
-2022.05.27 වනදා නිවස ආසන්නයේ වෙළෙඳසැලකය ගොස් ආපසු නිවස කරා පැමිණෙමින් සිටියදී දූෂණය කිරීමේ අරමුණින් දැරියව රවටා අවට පිහිටි ලදු කැළෑවකට රැගෙන ගොස් තිබුණි.
+The girl had taken the girl in the surrounding forest with the intention of raping the shop near the house on 2222.05.27.
 
-පසුව විත්තිකරු දැරියව දූෂණය කිරීමට උත්සාහ දරා ඇතත් දැරියගේ කෑගැසීම නිසා බියට පත් විත්තිකරු දැරියව මඩ වගුරක ඔබා ඝාතනය කර ඇති බවත් දැරිය දූෂණයට ලක්වී නොමැති බවත් විමර්ශනවලදී අනාවරණය වී ඇත.
+Investigations have revealed that the victim was later trying to rape the girl, but the girl's screaming has been revealed that the girl has been killed in a mud band.
 
 ◼️
 
 [Data](articles/c62aa998.json)
 
+[Extended Data](ext_articles/c62aa998.ext.json)
+
 ---
 
-### பெலியத்த ஐவர் படுகொலை : மூவருக்கு விளக்கமறியல்!
+### Beliatta Five Massacre: Explanation for Three
 
 *2024-02-13 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176285) · `ta`
 
-பெலியத்தவில் ஐவர் படுகொலை செய்யப்பட்ட  சம்பவத்துடன் தொடர்புடைய சந்தேக நபர்கள் மூவர் எதிர்வரும் 27ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+Three suspects in connection with the murder of five people in Beliatta have been remanded until the 27th of this month.
 
-சந்தேக நபர்கள் இன்று செவ்வாய்க்கிழமை (13) தங்காலை நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+The order was issued when the suspects were produced before the Tangalle Court on Tuesday (13).
 
-வெயங்கொடையில் கைது செய்யப்பட்ட துப்பாக்கிச் சூடு நடத்தியவரின் மனைவி அவரது  தந்தை மற்றும் கைது செய்யப்பட்ட காலி பூஸ்ஸவை சேர்ந்த 23 வயதான யுவதி ஆகியோரே நீதிமன்றில் முன்னிலைப்படுத்தப்பட்டனர்.
+The wife of the man who was arrested in Vayangoda was produced in court, his father and 23 -year -old Juwati from the arrested Galle Boosa.
 
 ◼️
 
 [Data](articles/8352e5da.json)
+
+[Extended Data](ext_articles/8352e5da.ext.json)
 
 ---
 
@@ -632,6 +658,24 @@ The funds will be allocated in the 2025 budget. The President's Media Division s
 
 ---
 
+### Forex housing loan scheme for Sri Lanka’s migrant workers
+
+*2024-02-13 13:00:00* · [`economynextcom`](https://economynext.com/forex-housing-loan-scheme-for-sri-lankas-migrant-workers-150704/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Foreign Employment Bureau and National Housing Development Authority will collaborate with licensed banks in the country to provide a housing loan programme for migrant workers, which is payable in foreign currency.
+
+“Our migrant workers, who go abroad with a housing dream, can obtain up to 10 million rupees as a loan for housing purposes, and a portion of this loan will be borne by the Foreign Employment Bureau,” Cabinet Spokesman, Bandula Gunawardena said on Tuesday (13) announcing the week’s Cabinet decisions.
+
+The loan amount obtained under the proposed loan scheme, has to be paid by foreign exchange remitted through legitimate channels within the period the loan receiver is engaged in an overseas employment, Gunawardena said.
+
+“Payments can be made in Sri Lankan rupees once the foreign employment term is completed and they have returned to this country.
+
+...
+
+[Data](articles/19c42712.json)
+
+---
+
 ### Two more Director Board members of NMRA resign
 
 *2024-02-13 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97224/two-more-director-board-members-of-nmra-resign) · `en`
@@ -651,6 +695,22 @@ Slamming the conduct of the new NMRA chairman and its current administration, Ga
 [Data](articles/32795c2d.json)
 
 [Extended Data](ext_articles/32795c2d.ext.json)
+
+---
+
+### Sri Lanka to begin pilot project with Microsoft to teach AI in schools
+
+*2024-02-13 12:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-begin-pilot-project-with-microsoft-to-teach-ai-in-schools-150700/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s cabinet of ministers has approved a proposal to introduce courses on artificial intelligence (AI) to the school curriculum, with a pilot project with support from Microsoft set to begin from grade 8 upwards.
+
+A statement from the Government Information Department said on Tuesday February 13 that President Ranil Wickremesinghe in his capacity of Minister of Technology and Minister of Education Susil Premajayantha have proposed that the project is carried out in schools where “the necessary basic human resources are available”.
+
+Among the proposals is to revise the international syllabus currently implemented by Microsoft based on the recommendations of the National Institute of Educational and commence the proposed pilot projects from grade 8 in schools where the necessary basic human resources are available.
+
+...
+
+[Data](articles/f4866278.json)
 
 ---
 
@@ -798,6 +858,26 @@ In addition, 168 grams of heroin, 93 grams of ice, 925 grams of cannabis and 596
 
 ---
 
+### Sri Lanka cabinet nod for draft amendment bill for Online Safety Act
+
+*2024-02-13 12:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-nod-for-draft-amendment-bill-for-online-safety-act-150694/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s cabinet of ministers has approved a proposal to formulate a draft amendment bill to incorporate revisions to the controversial Online Safety Act.
+
+A statement from the Government Information Department said on Tuesday February 13 that the proposed draft bill will based on “revisions recognised through further discussions with eminencies in the field who had forwarded with proposals for relevant amendments” (sic).
+
+The statement said the provisions of the online security act are being implemented at present. There were media reports over the weekend of an arrest, citing a speech made by Minister of Public Security Tiran Alles, who claimed an individual had been arrested by the Criminal Investigation Department (CID) under the new law.
+
+“No one has been arrested under the online safety act. We haven’t even appointed a commission yet,” Thalduwa told EconomyNext on Monday February 12.
+
+Sri Lanka Police deny arrest under online safety lawSee more
+
+...
+
+[Data](articles/4d946329.json)
+
+---
+
 ### Government approves amendments to Online Security Act
 
 *2024-02-13 12:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-approves-amendments-to-Online-Security-Act/108-276919) · `en`
@@ -903,6 +983,22 @@ The deceased had reported that the deceased had gone out of his house and had no
 [Data](articles/eba6bc0e.json)
 
 [Extended Data](ext_articles/eba6bc0e.ext.json)
+
+---
+
+### Sri Lanka to lease plantation lands to export-related businesses
+
+*2024-02-13 12:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-lease-plantation-lands-to-export-related-businesses-150690/) · `en`
+
+ECONOMYNEXT – Lands held by the State will be provided on a long-term lease to businesses with a focus on export activities, the Cabinet spokesman has said.
+
+“Large underutilized lands are to be given on long-term lease basis to investors with the potential to grow exportable crops, raise livestock farms for export and produce other exportable goods and services,” Minister Bandula Gunawardena said at a press briefing to announce Cabinet decisions on Tuesday (13).
+
+A large amount of land owned by government plantation agencies such as the Janatha Estate Development Board and the Sri Lanka State Plantation Corporation has remained without cultivation or productive use for a long time due to various reasons such as legal problems, institutional conflicts, lack of capital etc, Gunawardena said.
+
+...
+
+[Data](articles/1ef78425.json)
 
 ---
 
@@ -1125,6 +1221,26 @@ Nursing Supplication, Interim Medicine Services and Health Office Organized 72 I
 [Data](articles/3a944a49.json)
 
 [Extended Data](ext_articles/3a944a49.ext.json)
+
+---
+
+### Sri Lanka rupee trades at 313.75/314.00 to the US dollar
+
+*2024-02-13 11:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-at-313-75-314-00-to-the-us-dollar-150686/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee trades at 313.75/314.00 to the US dollar Tuesday, from 313.45/75 on Monday, dealers said.
+
+A bond maturing on 01.02.2026 was quoted stable at 10.80/90 percent.
+
+A bond maturing on 15.09.2027 was quoted at 11.55/65 percent from 11.65/75 percent.
+
+A bond maturing on 15.03.2028 was quoted at 11.85/95 percent from 12.00/10 percent.
+
+The Colombo Stock Exchange was trading down: the All Share Price Index was up 0.05 percent at 10,578, and the S&P SL20 was down 0.21 percent at 3,025. (Colombo/Feb13/2024)
+
+◼️
+
+[Data](articles/cb5aab0a.json)
 
 ---
 
@@ -1728,6 +1844,24 @@ During the concerts, it is worthwhile for fans to go ahead to see their loved on
 
 ---
 
+### Sri Lanka Freedom Party to support abolishing presidency; SJB cries foul
+
+*2024-02-13 09:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-freedom-party-to-support-abolishing-presidency-sjb-cries-foul-150684/) · `en`
+
+ECONOMYNEXT — The Sri Lanka Freedom Party (SLFP) has said it will fully support a move to abolish the the executive presidency, even as the main opposition Samagi Jana Balawegaya cries foul at what it’s calling a tactic to delay elections.
+
+SLFP chairman and former President Maithripala Sirisena said speaking at an event on Monday February 12 that his party would be fully behind a speculated referendum to abolish the presidency.
+
+“What we hear is that a referendum will be held on abolishing the executive presidency. If there is such a referendum, we the SLFP will raise not one hand but both in support,” he said.
+
+SJB MP Mujibur Rahuman, meanwhile, accused President Ranil Wickremesinghe of scheming to delay the presidential elections scheduled to be held by October this year.
+
+...
+
+[Data](articles/acd52f3e.json)
+
+---
+
 ### The businessman is submerged by the businessman
 
 *2024-02-13 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193317) · `si`
@@ -1907,161 +2041,5 @@ In the morning, in some places in the Western and Sabaragamuwa Provinces, Galle 
 [Data](articles/8620ee68.json)
 
 [Extended Data](ext_articles/8620ee68.ext.json)
-
----
-
-### Health trade unions go on another strike over allowances
-
-*2024-02-13 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97212/health-trade-unions-go-on-another-strike-over-allowances) · `en`
-
-A collective of 72 health sector trade unions resorted to another strike starting at 6.30 a.m. today (Feb.13).
-
-Health Trade Union Alliance’s convenor Ravi Kumudesh said the purpose of the trade union action is to urge the government to provide them with an allowance similar to that of Disturbance, Availability and Transport (DAT) allowance given to medical officers.
-
-All-Ceylon Nurses Union’s secretary S.B. Mediwatta said a protest will be staged in Colombo tomorrow (Feb.14).
-
-The trade unions representing a wide range of health sector professionals, including radiology and laboratory technicians, pharmacists and drug compounders, midwives, dental surgeons, public health inspectors, and entomology officers have engaged in strikes over the past few months demanding an allowance hike.
-
-The trade union actions stemmed from the Cabinet Ministers’ approval of President Ranil Wickremesinghe’s proposal to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000.
-
-◼️
-
-[Data](articles/3e4c570a.json)
-
-[Extended Data](ext_articles/3e4c570a.ext.json)
-
----
-
-### A car accident where an MP was traveling;Injury
-
-*2024-02-13 08:41:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-ஒருவர்-பயணித்த-கார்-விபத்து-ஒருவர்-படுகாயம்/175-333113) · `ta`
-
-Saliyawwa police said that one person was injured when parliamentarian Ali Sabri Rahim was involved in a car accident.
-
-The accident took place at around 1.00 am today (13) at the 15th Pillar of Puttalam - Anuradhapura Road.
-
-HM from Puliyankulam, Aluthgama. Harshan Pradeep was injured in the accident and was admitted to the Puttalam Hospital.
-
-The accident occurred when the parliamentarian's car crashed into the back of the plowing machine that was traveling in the same direction while traveling from Puttala to Anuradhapura.
-
-The driver of a parliamentarian who was traveling in the accident has been arrested by the police.
-
-◼️
-
-[Data](articles/c5f63c50.json)
-
-[Extended Data](ext_articles/c5f63c50.ext.json)
-
----
-
-### No breeze, more heat in Sri Lanka
-
-*2024-02-13 08:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-breeze-more-heat-in-Sri-Lanka/108-276904) · `en`
-
-Colombo, Feb 13 (Daily Mirror) - Declining wind flow in some parts of the country had resulted in people in Western, and Sabaragamuwa and Southern Provinces feeling the heat more than usual, a spokesman from the Department of Meteorology said yesterday.
-
-Deputy Director, Department of Meteorology Merril Mendis told Daily Mirror that the wind flow in the Western Province, Southern and Sabaragamuwa have declined. “Some areas in Sri Lanka are experiencing a declining wind flow. However, the situation in the North and the East is different as there is a fairly heavy wind flow,” he said.
-
-“This is not an unusual phenomenon as this happens during this time of the year. Temperature might increase further during the coming few months and the sun will come directly over Sri Lanka during the first week in April,” he added.
-
-...
-
-[Data](articles/628e6d99.json)
-
-[Extended Data](ext_articles/628e6d99.ext.json)
-
----
-
-### Health strike: 'No employees. After the doctors wrote medicine, "
-
-*2024-02-13 08:16:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2qedzykn45o) · `si`
-
-There is nothing here. Play Video, "" No employees. Once the doctors wrote medication, 2,4502: 45 Video Head, "Like doctors, we have economic justice.
-
-Health strike: 'No employees. After the doctors wrote medicine, "
-
-Patients say that 72 health unions have been facing severe difficulties due to the strike, which has been given to doctors to give a gift to the doctors.
-
-The strike is being implemented in hospitals and health institutions, other than specialized hospitals, such as the Children's Hospital, Maharagama.
-
-The Health Trade Union Alliance says the discussion was failed with the Ministry of Finance (Feb 12).
-
-However, the Health Minister says that the union agreement has not been agreed on the financial statements provided by the Ministry of Finance in the financial situation.
-
-◼️
-
-[Data](articles/c42fa3a9.json)
-
-[Extended Data](ext_articles/c42fa3a9.ext.json)
-
----
-
-### Avoided lover boyfriend, a girlfriend of sweetheart
-
-*2024-02-13 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193315) · `si`
-
-The 22-year-old girl who was trying to miss out for many years, the 19-year-old boyfriend of the 19-year-old boyfriend has been remanded until the 22nd of this month.
-
-The suspect is a resident of Ulukarai area in Gampola.
-
-She had a romantic relationship with a young man involved in fishing in Gampola.
-
-In time, though, when she heard her to give up her, she learned that his decision was not changed, she would not change the photographs of them in the face of their faces.
-
-The young man with this has assaulted her to remove the photos from the facial book and her mother and brother also intervened.
-
-Accordingly, the young man and the youth had come to the Public Market and the young man had been assaulted by the girl's brother's brother.
-
-The son was taken to the hospital where the mother was attacked and was taken to the hospital.
-
-The injured boyfriend has been admitted to the Gampola Teaching Hospital and the others were arrested by the police.
-
-◼️
-
-[Data](articles/9c85369f.json)
-
-[Extended Data](ext_articles/9c85369f.ext.json)
-
----
-
-### Mahinda Rajapaksa released the report
-
-*2024-02-13 07:55:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறிக்கை-வெளியிட்டார்-மஹிந்த-ராஜபக்ச/175-333112) · `ta`
-
-Former President Mahinda Rajapaksa said that the Uma Oya project is one of the largest hydropower stations in Sri Lanka after Victoria, Kothmalai and Upper Kotmalai power stations.
-
-The Sri Lanka PA (SLPP), who issued a statement, said the Uma Oya project would provide the lowest cost of electricity to Sri Lanka.
-
-He said the Uma Oya project was the only major infrastructure project that the People's Liberation Front (JVP), the party against the establishment (JVP), contributed favorable.
-
-“The construction of this project started in March 2010 to turn water to the southeastern dry zone from the Central Highlands. Discussed and scheduled infrastructure plans for decades, but no government actually implemented. When I was president, jealous people discredited these achievements, and my government members had raised the cost estimates of these projects to make money.
-
-...
-
-[Data](articles/ce5908da.json)
-
-[Extended Data](ext_articles/ce5908da.ext.json)
-
----
-
-### Trump asks the Supreme Court to suspend electoral case
-
-*2024-02-13 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193314) · `si`
-
-Former President of former President Donald Trump has requested the Supreme Court of the Supreme Court to suspend the lower judiciary decisions that there is no presence.
-
-Trump points out that the 2020 election against Mr. Donald Trump is the case with the 2020 election and the Tample is the purpose of sabotage his presidential election campaign.
-
-His lawyers have requested the Supreme Court to take action to suspend the lower courts.
-
-In the meantime, Donald Trump is officially removed from NATO, if Donald Trump is the second president of NATO.
-
-Donald Trump had previously stated that NATO is not met anymore, the US would spend money on NATO.
-
-◼️
-
-[Data](articles/fc732967.json)
-
-[Extended Data](ext_articles/fc732967.ext.json)
 
 ---

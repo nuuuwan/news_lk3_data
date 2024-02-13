@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 23:17:27**
+As of **2024-02-13 23:33:07**
 
 ## Newspaper Stats
 
-*Scraped **6,809** Articles*
+*Scraped **6,811** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ tamilmirrorlk | 835
 adaderanalk | 836
 virakesarilk | 860
 adaderanasinhalalk | 954
-dailymirrorlk | 998
+dailymirrorlk | 1,000
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,805 (99.9%) of 6,809 articles have been extended.
+6,809 (100.0%) of 6,811 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The consignees of this shipment were identified as apparel companies located in 
 
 [Data](articles/5510c4c7.json)
 
+[Extended Data](ext_articles/5510c4c7.ext.json)
+
 ---
 
 ### Todumbu Civil Police
@@ -68,6 +70,26 @@ However, residents accused nearly 40 civilian police officers and damaged them f
 
 ---
 
+### Kuliyapitiya Police OIC granted bail over sexual assault case
+
+*2024-02-13 22:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kuliyapitiya-Police-OIC-granted-bail-over-sexual-assault-case/108-276949) · `en`
+
+Puttalam, Feb 13 (Daily Mirror) - The Officer-in-Charge (OIC) of the Kuliyapitiya Police Station surrendered to the Puttalam Magistrate's Court today in connection with allegations of sexually assaulting a female police constable.
+
+Police said the Kuliyapitiya Division Senior Superintendent of Police launched an investigation after the alleged incident and subsequently reported the matter to the court.
+
+The OIC, an inspector, represented by a lawyer, appeared before the Magistrate this afternoon.
+
+The Magistrate granted the inspector bail on a bond of Rs. 500,000, and ordered him to report to the Kuliyapitiya SSP's office on the last Sunday of every month until the case's next hearing on March 6.
+
+Police said that apart from legal proceedings, the inspector will also face disciplinary action within the department.
+
+◼️
+
+[Data](articles/170a6e47.json)
+
+---
+
 ### The accused oic accused
 
 *2024-02-13 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193345) · `si`
@@ -84,19 +106,39 @@ The officer has been bailed and the case will be taken up again on March 6.
 
 ---
 
-### சஜித், அனுர சவாலாகப்போவதில்லை - ஐக்கிய தேசிய கட்சி தெரிவிப்பு
+### Beware of crocodiles in Colombo’s waterways
+
+*2024-02-13 22:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Beware-of-crocodiles-in-Colombos-waterways/108-276944) · `en`
+
+Colombo, Feb. 13 (Daily Mirror)- The Wildlife Department warned the public to be vigilant when using rivers, lakes and canals in Colombo as there was a high possibility of crocodiles languishing in these waterways.
+
+Wildlife Conservation Department Director General Chandana Sooriyabandara told the Daily Mirror this while commenting on a video of a crocodile being seen in the Bolgoda River.
+
+"The Bolgoda River is a habitat for crocodiles, and there might be a large number of crocodiles living in the rivers, lakes and streams in Colombo. Accordingly, Diyawannawa, Bolgoda Lake South and Kelani Ganga are found to be the habitats for crocodiles for a long time," he said.
+
+This is a common incident, and it comes up as a topic only when people see it. Therefore, the Director General urged the people to be very careful and watchful when walking along these streams.
+
+...
+
+[Data](articles/bfef9ddf.json)
+
+---
+
+### Sajith, Anura is not going to be a challenge - United National Party
 
 *2024-02-13 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176308) · `ta`
 
-ஜனாதிபதி தேர்தலில் ரணில் விக்ரமசிங்கவுக்கு போட்டியாக யாரும் இல்லை. சஜித்தோ அனுரவோ எமக்கு சவால் இல்லை அத்துடன் ஜனாதிபதி முறைமையை ஒழிப்பதற்கு தற்போது நாங்கள் நடவடிக்கை எடுக்கவில்லை. ஆனால் ஜனாதிபதி முறைமை இல்லாமலாக்கப்படுவதற்கு ஐக்கிய தேசிய கட்சி ஆதரவளிக்கும் என ஐக்கிய தேசிய கட்சியின் பொதுச் செயலாளர் பாலித்த ரங்கே பண்டார தெரிவித்தார்.
+There is no one to contest Ranil Wickremesinghe in the presidential election. We are not challenged by Sajitho Anura or we are currently not taking steps to abolish the presidential system. But the United National Party (UNP) general secretary Palitha Range Bandara said the United National Party would support the absence of presidential system.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (13) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித் தார்.
+He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (13).
 
-ஜனாதிபதி தேர்தலை நடத்தாமல் இருப்பதற்கு ரணில் விக்ரமசிங்க நடவடிக்கை எடுத்து வருவதாகவும் அரசியலமைப்பில் திருத்தம் மேற்கொண்டு ஜனாதிபதி பதவி முறையை இல்லாமலாக்க கரு ஜயசூரிய தலைமையில் குழுவொன்றை அமைத்திருப்பதாகவும் பல்வேறு கருத்துக்கள் தெரிவிக்கப்படுகிறது. ஜனாதிபதி தேர்தலை பிற்போடவேண்டிய எந்த தேவையும் எமக்கு இல்லை இந்த வருடம் ஜனாதிபதி தேர்தல் இடம்பெறும் என ரணில் விக்ரமசிங்க பகிரங்கமாக அறிவித்திருக்கிறார்.
+Ranil Wickremesinghe is taking steps to not hold the presidential election and has formed a committee headed by Karu Jayasuriya to amend the constitution and abolish the presidency.. Ranil Wickremesinghe has publicly announced that there will be no need for the presidential election.
 
 ...
 
 [Data](articles/5a7650f3.json)
+
+[Extended Data](ext_articles/5a7650f3.ext.json)
 
 ---
 
@@ -120,23 +162,27 @@ He recalled the constructive interactions that the leaders of Sri Lanka and Braz
 
 ---
 
-### உலகக் கிண்ணத்துக்கான இலங்கை அணியைக் கட்டியெழுப்பும் கட்டத்தில் உள்ளோம் - கிறிஸ் சில்வவூட்
+### We are in the phase of building the Sri Lankan team for the World Cup - Chris Silvoot
 
 *2024-02-13 21:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/176307) · `ta`
 
-உலகக் கிண்ண கிரிக்கெட் போட்டிக்கான இலங்கை அணியைக் கட்டியெழுப்பும் கட்டத்தில் இருப்பதாக தலைமைப் பயிற்றுநர் கிறிஸ் சில்வவூட் தெரிவித்தார்.
+Chief Instructor Chris Silvoot said the Sri Lankan team was in the process of building the World Cup cricket tournament.
 
-ஆப்கானிஸ்தானுக்கு எதிராக புதன்கிழமை (14) நடைபெறவுள்ள மூன்றாவதும் கடைசியுமான சர்வதேச ஒருநாள் கிரிக்கெட் போட்டிக்கு முன்னர் இன்று செவ்வாய்க்கிழமை (12) நடைபெற்ற ஊடக சந்திப்பில் பேசியபோது அவர் இதனைக் குறிப்பிட்டார்.
+He was speaking at a media briefing on Tuesday (12) before the third and last ODIs to be held on Wednesday (14) against Afghanistan.
 
-கண்டி பல்லேகலையில் பயிற்சியின்போது இலங்கை அணியின் தலைமைப் பயிற்றுநர் கிறிஸ் சில்வவூட் மற்றும் அணித்  தலைவர் குசல் மெண்டிஸ்
+Sri Lanka's chief coach Chris Silvoot and team captain Gusal Mendis
 
-'அடுத்த உலகக் கிண்ண கிரிக்கெட் போட்டிக்கு அணியைக் கட்டியெழுப்பும் கட்டத்தில் நாங்கள் உள்ளோம். சகல வீரர்களும் தத்தமது பாத்திரம் என்னவென்பதை நன்கு அறிவார்கள். அத்துடன் ஒவ்வொருவரும் நம்பிக்கையுடன் பயணத்தைத் தொடர வேண்டும்' என கிறிஸ் சில்வவூட் கூறினார்.
+'We are in the stage to build the team for the next World Cup Cricket Tournament. All players are well aware of what their character is. Everyone should continue his journey with confidence, 'said Chris Silvood.
 
-ஆப்கானிஸ்தானுடனான சர்வதேச ஒருநாள் கிரிக்கெட் தொடரில் இதுவரை இலங்கை அணி சிறப்பாக விளையாடி உள்ளதாக அவர் குறிப்பிட்டார்.
+He noted that the Sri Lankan team has played well in the International ODI series against Afghanistan.
+
+'Our team has played better against Afghanistan. I was overwhelmed by their energy manifestations. The players scored substantial runs and made excellent connectivity. It is satisfactory that the first 6 players are playing efficiently. They are all excited and confident.
 
 ...
 
 [Data](articles/7558427e.json)
+
+[Extended Data](ext_articles/7558427e.ext.json)
 
 ---
 
@@ -170,17 +216,19 @@ Customs officials have advised the customs officials to confuse all these goods 
 
 ---
 
-### வெளியானது அதிவிசேட வர்த்தமானி
+### Released
 
 *2024-02-13 21:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176306) · `ta`
 
-சுகாதார சேவைகளுடன் தொடர்புடைய பல சேவைகளை அத்தியாவசிய சேவைகளாக பிரகடனப்படுத்தி அதிவிசேட வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+The notification has been issued to declare many services related to health services as essential services.
 
-அதன்படி, மருத்துவமனைகள், நேர்சிங் ஹோம்கள், மருந்தகங்கள் மற்றும் பிற ஒத்த நிறுவனங்களில் நோயாளிகளின் பராமரிப்பு, வரவேற்பு, பாதுகாப்பு, போசனை ஊட்டல் மற்றும் சிகிச்சை தொடர்பாக தேவைப்படும் அல்லது செய்ய வேண்டிய அனைத்து சேவைப் பணிகள் அல்லது உழைப்பு அத்தியாவசிய சேவைகளாக அதிவிசேட வர்த்தமானியில் பிரகடனப்படுத்தப்பட்டுள்ளன.
+Accordingly, the maintenance, reception, safety, nutritious feeding and treatment of patients in hospitals, liars, pharmacies and other similar companies are declared in the Extreme Gazette as essential services that need or to do.
 
 ◼️
 
 [Data](articles/c89c6b56.json)
+
+[Extended Data](ext_articles/c89c6b56.ext.json)
 
 ---
 
@@ -1985,39 +2033,5 @@ It is said that the vehicle was caused by a technical fault.
 [Data](articles/a8743bcc.json)
 
 [Extended Data](ext_articles/a8743bcc.ext.json)
-
----
-
-### Action Notification on Elections
-
-*2024-02-13 12:46:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்கள்-குறித்து-அதிரடி-அறிவிப்பு/175-333131) · `ta`
-
-The presidential election will be held within a timely manner and the general election will be held next year. The funds will be allocated in the 2025 budget. The responsibility of conducting elections depends on the Election Commission and the government will work with the Election Commission in the necessary occasions.
-
-◼️
-
-[Data](articles/e1dfff02.json)
-
-[Extended Data](ext_articles/e1dfff02.ext.json)
-
----
-
-### Govt. issues special announcement on Presidential and General elections
-
-*2024-02-13 12:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97223/govt-issues-special-announcement-on-presidential-and-general-elections) · `en`
-
-The President’s Media Division (PMD) on Tuesday made a special announcement on the upcoming Presidential Election and the General Election.
-
-According to the communiqué, the Presidential Election is slated to be held within the mandated period.
-
-However, the General Election is planned to be conducted in 2025 as per the current timeline, the PMD said further, noting that financial provisions for the General Election will be made in the 2025 budget.
-
-Emphasizing that the Election Commission is responsible for conducting the polls, the PMD asserted the government will be communicating with the election body “as and when required”.
-
-◼️
-
-[Data](articles/172b6856.json)
-
-[Extended Data](ext_articles/172b6856.ext.json)
 
 ---

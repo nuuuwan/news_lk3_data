@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 20:02:37**
+As of **2024-02-13 20:17:19**
 
 ## Newspaper Stats
 
-*Scraped **6,779** Articles*
+*Scraped **6,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 578
 tamilmirrorlk | 831
 adaderanalk | 832
 virakesarilk | 854
-adaderanasinhalalk | 948
+adaderanasinhalalk | 949
 dailymirrorlk | 992
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,779 (100.0%) of 6,779 articles have been extended.
+6,779 (100.0%) of 6,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### යුක්‍රේනය ඊශ්‍රායලය සහ තායිවානය ගැන අමෙරිකාවෙන් ආන්දෝලනාත්මක පියවරක්
+
+*2024-02-13 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193341) · `si`
+
+යුක්‍රේනය, ඊශ්‍රායලය සහ තායිවානය සඳහා අමෙරිකානු ඩොලර් බිලියන 95ක ආධාර පැකේජයක් ලබාදීමට අදාළ යෝජනාවට අමෙරිකානු සෙනෙට් මණ්ඩලයේ අනුමැතිය හිමිවී තිබේ.
+
+නමුත් එම යෝජනාව ඊළඟ අදියරේදී  අභියෝගයට ලක්විය හැකි බවද පැවසෙයි.
+
+◼️
+
+[Data](articles/1996a4ad.json)
+
+---
 
 ### Sri Lanka developing Ramayana Trail to boost tourism from India – Tourism Minister
 
@@ -1963,25 +1977,5 @@ Although. Patriot Tennakoon accepted his post on November 30.
 [Data](articles/2f87b527.json)
 
 [Extended Data](ext_articles/2f87b527.ext.json)
-
----
-
-### Justice is boxing
-
-*2024-02-13 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193321) · `si`
-
-680 suspects have been arrested by operations island wide during the past 24 hours.
-
-The police said that 554 suspects were in the list of drug misbehavior and the list of criminal sections.
-
-The police seized 168 grams of heroin in the possession of the suspects, 93 grams of ice, 925 grams and 596 acres.
-
-There are also 186 suspects in the list on the list of the criminal sections and 105 open warrants on drugs and non-drug errors.
-
-◼️
-
-[Data](articles/6e2e8832.json)
-
-[Extended Data](ext_articles/6e2e8832.ext.json)
 
 ---

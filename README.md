@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 19:02:39**
+As of **2024-02-13 19:17:23**
 
 ## Newspaper Stats
 
-*Scraped **6,771** Articles*
+*Scraped **6,777** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,85 @@ newsfirstlk | 363
 adalk | 578
 adaderanalk | 831
 tamilmirrorlk | 831
-virakesarilk | 853
+virakesarilk | 854
 adaderanasinhalalk | 948
-dailymirrorlk | 986
+dailymirrorlk | 991
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,771 (100.0%) of 6,771 articles have been extended.
+6,771 (99.9%) of 6,777 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### Sri Lanka recognized as one of the seven UN World Restoration Flagships
+
+*2024-02-13 18:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-recognized-as-one-of-the-seven-UN-World-Restoration-Flagships/108-276933) · `en`
+
+Nairobi, Feb. 13 - Sri Lanka has been recognized as one of the seven UN World Restoration Flagships for its ambitious initiative to restore and expand mangrove cover by over 50 percent.
+
+The World Restoration Flagship awards are part of the UN Decade on Ecosystem Restoration – led by the UN Environment Programme (UNEP) and the Food and Agriculture Organization of the UN (FAO) – which aims to prevent, halt, and reverse the degradation of ecosystems on every continent and in every ocean. The awards track notable initiatives following global commitments to restore one billion hectares – an area larger than China.
+
+The award for the Sri Lanka Mangrove Regeneration initiative was announced by UNEP Advocate for Life Under Water and actor, Jason Momoa.
+
+...
+
+[Data](articles/6c632abe.json)
+
+---
+
+### US Senate passes $95 billion Ukraine aid bill
+
+*2024-02-13 18:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-Senate-passes-95-billion-Ukraine-aid-bill/108-276932) · `en`
+
+US, Feb 13- The US Senate passed a $95.3 billion foreign aid bill with assistance for Ukraine and Israel in a vote early Tuesday morning, setting up a showdown with the House as Speaker Mike Johnson has criticized the legislation.
+
+The foreign aid package includes billions of dollars to support Ukraine and for security assistance for Israel, as well as humanitarian assistance for civilians in Gaza, the West Bank and Ukraine, among other priorities. It’s unclear whether Johnson would hold a vote on it and many House Republicans are opposed to further aid to Ukraine.
+
+The bill passed the Senate despite Johnson’s criticism of the legislation and former President Donald Trump signaling opposition to the bill by arguing the US should stop providing foreign aid unless it is in the form of a loan. The Senate vote was 70 to 29 with 22 Republicans voting in favor, including Senate Minority Leader Mitch McConnell.
+
+...
+
+[Data](articles/b6045e20.json)
+
+---
+
+### நுண்கடன் திட்டங்களினால் கிராமப்புறங்களில் 28 இலட்சம் பேர் பாதிப்பு - துறைசார் மேற்பார்வைக் குழு
+
+*2024-02-13 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176302) · `ta`
+
+நுண்நிதிய கடன் பிரச்சினையால் கிராமப்புறங்களில் சுமார் 28 இலட்சம் பேர் பாதிக்கப்பட்டுள்ளனர். 38 முதல் 48 சதவீதம் என்ற அடிப்படையில் அதிக வட்டிக்கு கடன் வழங்கப்படுகிறது. நுண்கடன் திட்டங்களினால் பெண்களே அதிகளவில் பாதிக்கப்பட்டுள்ளனர். மத்திய கிழக்கு நாடுகளுக்கு இலங்கை பெண்கள் வீட்டுப் பணிப்பெண்களாகச் செல்வதற்கு நுண்கடன் திட்டங்கள் பிரதான காரணியாக அமைந்துள்ளது எனப் பொருளாதார நெருக்கடியின் தாக்கத்தைக் குறைப்பது தொடர்பில் துறைசார் மேற்பார்வைக் குழுவில் சுட்டிக்காட்டப்பட்டுள்ளது.
+
+இலங்கையில் நுண்நிதிய பிரச்சினை காரணமாகப் பாதிக்கப்பட்ட தரப்பினருக்கு ஏற்பட்டுள்ள பொருளாதார நெருக்கடியின் தாக்கத்தைக் குறைப்பது தொடர்பில் துறைசார் மேற்பார்வைக் குழுவில் கவனம் செலுத்தப்பட்டது.
+
+பாராளுமன்ற உறுப்பினர் காமினி வலேபொட தலைமையில் அண்மையில் கூடிய பொருளாதார நெருக்கடியின் தாக்கத்தினைத் தணித்தல் பற்றிய துறைசார் மேற்பார்வைக் குழுக் கூட்டத்திலேயே இவ்விடயம் தொடர்பில் கவனம் செலுத்தப்பட்டது.
+
+...
+
+[Data](articles/1d7a01d8.json)
+
+---
+
+### Customs seize Rs.150 Mn worth readymade garments imported from Malaysia
+
+*2024-02-13 18:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Customs-seize-Rs-150-Mn-worth-readymade-garments-imported-from-Malaysia/108-276931) · `en`
+
+Colombo, Feb 13 (Daily Mirror) -  Sri Lanka Customs today thwarted an attempt to smuggle four container loads of readymade garments worth over Rs.150 million, which had been imported from Malaysia falsely declared as fabric.
+
+The Customs sleuths found 33,000 to 44,000 readymade garments in each container and altogether seized 160,000 pieces in all four containers. The consignees of the contraband have been identified as residents of Panadura, Wattala and Maradana.
+
+The seized items were displayed to the State Minister of Finance Ranjith Siyambalapitiya. Senior Director Customs RTF Nimal Samaratunga and Senior Deputy Director Nalin Premaratne are conducting further investigations with the Customs team.
+
+The sum of tax revenue the Customs would have incurred if the cargo was cleared undetected is Rs.60 million, sources said.
+
+◼️
+
+[Data](articles/a6ac5121.json)
+
+---
 
 ### US Senate passes $95 bln aid bill for Ukraine, Israel and Taiwan
 
@@ -49,6 +115,22 @@ The Senate vote occurred before sunrise, after eight hardline Republican opponen
 [Data](articles/77c47a5d.json)
 
 [Extended Data](ext_articles/77c47a5d.ext.json)
+
+---
+
+### Judgment on Diana’s citizenship case to be delivered in due course
+
+*2024-02-13 17:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Judgment-on-Dianas-citizenship-case-to-be-delivered-in-due-course/108-276934) · `en`
+
+Colombo, Feb 13 (Daily Mirror) - The Supreme Court today concluded the hearing of the appeal petition filed challenging the Court of Appeal decision to dismiss a writ petition which challenged the legality of State Minister Diana Gamage’s parliamentary seat.
+
+The Supreme Court three-judge-bench comprising Justices Gamini Amarasekara, Kumuduni Wickremasinghe and Janak de Silva announced that the court will deliver its judgment regarding this appeal in due course.
+
+Social activist Oshala Herath filed this appeal before the Supreme Court seeking an order in the nature of a Writ of Quo Warranto declaring that Diana Gamage is disqualified to be a Member of Parliament and is thus not entitled to hold office as a Member of Parliament.
+
+...
+
+[Data](articles/e6c8deef.json)
 
 ---
 
@@ -87,6 +169,28 @@ Additional Public Prosecutor R Muniapparaj made the submission before a division
 [Data](articles/169d5e6a.json)
 
 [Extended Data](ext_articles/169d5e6a.ext.json)
+
+---
+
+### Survey on Sri Lanka’s PR industry reveals print is here to stay
+
+*2024-02-13 17:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Survey-on-Sri-Lankas-PR-industry-reveals-print-is-here-to-stay/108-276873) · `en`
+
+Many PR agency leaders and executives commented that a shift towards digital channels is crucial but it should come with the required literacy and ethical framework
+
+Print topped the list once again, budget cuts, PR literacy among clients, and upskilling are biggest challenges
+
+Crisis mitigation, ESG, DEI, internal and executive communications will take centerstage in 2024
+
+Bridging skills gap between workforce generations in the industry need to be addressed
+
+With the rapid advancement of technology the popular and common sentiment is that print media is fast losing its place and relevance.
+
+However, a survey conducted by APAC chapter of the Public Relations and Communications Association (PRCA), considered as the world’s largest and influential PR body, revealed that print is here to stay.
+
+...
+
+[Data](articles/c2535274.json)
 
 ---
 
@@ -778,7 +882,7 @@ The wife of the shooter and his father and father arrested in Veyangoda, 23, the
 
 Colombo, Feb 13 (Daily Mirror) - Leader of the Opposition Sajith Premadasa is witnessing an erosion of control within his party, Samagi Jana Balwegaya (SJB), as several prominent members have conveyed their willingness to support the President, UNP General Secretary Palitha Range Bandara said today.
 
-"The door is open for Sajith to join the UNP if he wants to survive. There is no reason for our leader to accept Mr. Premadasa into the party while he is currently working with his onetime rival, SLPP," Range Bandara added.
+"The door is open for Sajith to join the UNP if he wants to survive. There is no reason for our leader to reject Mr. Premadasa into the party while he is currently working with his onetime rival, SLPP," Range Bandara added.
 
 "Some prominent members of the SJB have informed us that they are willing to support President Wickremesinghe and that they would leave the party at the right time. Therefore, the SJB leader will lose control of the party before long," UNP General Secretary told a briefing.
 
@@ -1869,133 +1973,5 @@ Slamming the conduct of the new NMRA chairman and its current administration, Ga
 [Data](articles/a6b36e3a.json)
 
 [Extended Data](ext_articles/a6b36e3a.ext.json)
-
----
-
-### Four people arrested, including retired army Major and two former navy soldiers attacked by two policemen
-
-*2024-02-13 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/176256) · `ta`
-
-Four persons, including a former army Major and two retired retired persons, have been arrested in connection with the incident of two police constables attacked and injured while handling traffic in Varakapola city on Colombo -Kandy road.
-
-It is reported that a route in Varakapola city has been closed for the work of repairing the road.
-
-Two police officers who were on duty at the wrong direction of the suspects on Monday evening (12) evening were disputed when the bus was removed from the road.
-
-In this case, four police officers, including a former army Major, who got off the bus, were attacked, police said.
-
-Following the incident, a group of Warakapola police went to the scene and arrested four suspects.
-
-◼️
-
-[Data](articles/258bfc7f.json)
-
-[Extended Data](ext_articles/258bfc7f.ext.json)
-
----
-
-### 18 Tamil Nadu fishermen arrested by Sri Lankan Navy return home
-
-*2024-02-13 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97218/18-tamil-nadu-fishermen-arrested-by-sri-lankan-navy-return-home) · `en`
-
-As many as 18 Indian fishermen from Tamil Nadu who were arrested by the Sri Lankan Navy recently returned home on Tuesday.
-
-They arrived in Chennai from Colombo by air and were received by officials of the Tamil Nadu fisheries department and some BJP functionaries.
-
-The fishermen were arrested by the Lankan Navy last month for alleged maritime violations and lodged in a prison there.
-
-A local court ordered their release earlier this month, after which they were kept in a camp there, officials said.
-
-The fishermen left for Ramanathapuram by road in a state government-arranged vehicle.
-
-◼️
-
-[Data](articles/dc7ed896.json)
-
-[Extended Data](ext_articles/dc7ed896.ext.json)
-
----
-
-### Attorney General Manoju resigns from the post of Director of NMRA
-
-*2024-02-13 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193320) · `si`
-
-Attorney-at-Law Manoj Pathirana has sent the resignation letter from the Director of the National Drug Regulatory Authority.
-
-He further stated that he has resigned from the post from today (13).
-
-When a Director of the National Drug Regulatory Authority, he was able to be a lawyer as a lawyer, and the Board of Directors had made proper decisions as a director.
-
-Below is the full article by the Health Minister.
-
-◼️
-
-[Data](articles/8a59684d.json)
-
-[Extended Data](ext_articles/8a59684d.ext.json)
-
----
-
-### Trains delayed because the corpse was caught
-
-*2024-02-13 11:06:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சடலம்-சிக்கியதால்-ரயில்கள்-தாமதம்/175-333124) · `ta`
-
-The railway control department has announced that coastal train services have been delayed for a few hours as the body of the person who crashed into the train was trapped between two tracks.
-
-A person collides with a train in Magona area. The control department has announced that his body has not yet been identified.
-
-As a result, Rukunu Kumar and Galle Kumari fast trains were delayed by 35 and 30 minutes respectively, officials at the Kalutara Railway Station said.
-
-According to reports, he crashed into a slow -traveling train from Galle to Kalkis.
-
-The body, which was recovered amid difficulties, has been handed over to the Bayagala railway station and further investigations are being carried out by the police.
-
-◼️
-
-[Data](articles/1226e003.json)
-
-[Extended Data](ext_articles/1226e003.ext.json)
-
----
-
-### Petition against Diana Gamage to be heard
-
-*2024-02-13 11:03:20* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනා-ගමගේ-මන්ත්‍රී-ධූරය-හරි-තීන්දුවට-එරෙහි-පෙත්සම-විභාගයට/11-408050) · `si`
-
-President's Counsel Shavindra Fernando appeared to her for three basic objections on behalf of the Appendix of the Court of Appeal, following the hearing of the Presidential Member of Parliament.
-
-The petitioned protests were raised when the petition was taken up before the three-judged Judge Gamini Amarasekera, Kumuduni Wickremasinghe and Janaka De Silva.
-
-The Appeal of the Court of Appeal, Mr. Oshala Herath, a social activist, was named the petition petition.
-
-It is said that the petition was filed by the Appeal of the Court of Appeal, as Mrs. Diana Gamage was a British citizenship, he demanded the judge of the Court of Appeal to give a decision that she was not eligible for a parliamentary parliamentary position.The petition has been presented in demanding a ruling that Mrs. Diana Gamage is not eligible to sit in Parliament.
-
-...
-
-[Data](articles/2c5a8cf5.json)
-
-[Extended Data](ext_articles/2c5a8cf5.ext.json)
-
----
-
-### The re -fielded queen in hospitals
-
-*2024-02-13 10:55:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலைகளில்-மீண்டும்-களமிறக்கப்பட்ட-இராணும்/175-333122) · `ta`
-
-The military has been re -fielded to carry out the daily activities of hospitals that have been paralyzed due to the work of the health unions.
-
-72 health trade unions have launched a workforce today (13) in government hospitals across the country with a number of demands.
-
-The Ministry of Health has requested the Ministry of Defense to help continue the operations of the hospitals affected by the workplace.
-
-Subsequently, on the advice of the Ministry of Defense, the Army Commander Leb. Liyanage, General Vikku Liyanage, has been instructed to send military personnel to hospitals.
-
-Accordingly, under the thorough surveillance of the Commander -in -Chief of the Central, Eastern and Vanni Security Forces, Colombo and Kandy National Hospitals have been deployed by the Army to the Kalubowila, Karapitiya, Mahamodara, Peradeniya, Anuradhapura and Kurunegala Teaching Hospitals.
-
-...
-
-[Data](articles/7df7e05b.json)
-
-[Extended Data](ext_articles/7df7e05b.ext.json)
 
 ---

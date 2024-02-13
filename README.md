@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 00:33:03**
+As of **2024-02-14 00:47:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,001
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,814 (99.9%) of 6,821 articles have been extended.
+6,821 (100.0%) of 6,821 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -63,6 +63,8 @@ Following the issuance of an Extraordinary Gazette notification for the Personal
 ...
 
 [Data](articles/c68b2f32.json)
+
+[Extended Data](ext_articles/c68b2f32.ext.json)
 
 ---
 
@@ -149,6 +151,8 @@ Customs said the government would have lost tax revenues of Rs. 3.8 million had 
 ...
 
 [Data](articles/8aa5b265.json)
+
+[Extended Data](ext_articles/8aa5b265.ext.json)
 
 ---
 
@@ -862,6 +866,8 @@ Foreign Secretary Aruni Wijewardane, Sabri said, “explained the structure of t
 
 [Data](articles/48540b1d.json)
 
+[Extended Data](ext_articles/48540b1d.ext.json)
+
 ---
 
 ### US Senate passes $95 bln aid bill for Ukraine, Israel and Taiwan
@@ -926,6 +932,8 @@ A bond maturing on 01.07.2032 closed at 12.25/75 percent down from 12.45/85 perc
 
 [Data](articles/2db7f012.json)
 
+[Extended Data](ext_articles/2db7f012.ext.json)
+
 ---
 
 ### Sri Lanka stocks close down, capital goods and bank sectors drive turnover
@@ -949,6 +957,8 @@ Ceylon Cold Stores Plc which announced an interim dividend of 1.426 rupees per s
 ...
 
 [Data](articles/99602a3f.json)
+
+[Extended Data](ext_articles/99602a3f.ext.json)
 
 ---
 
@@ -1198,6 +1208,8 @@ Entrepreneurs and industrialists will now have more opportunities to establish i
 
 [Data](articles/bf84ef10.json)
 
+[Extended Data](ext_articles/bf84ef10.ext.json)
+
 ---
 
 ### Armed forces on duty at the hospital
@@ -1435,6 +1447,8 @@ ECONOMYNEXT – The prices of land in Sri Lanka will come down significantly due
 ...
 
 [Data](articles/5e7f297a.json)
+
+[Extended Data](ext_articles/5e7f297a.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 00:47:25**
+As of **2024-02-14 01:02:44**
 
 ## Newspaper Stats
 
-*Scraped **6,821** Articles*
+*Scraped **6,822** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 363
 adalk | 581
 tamilmirrorlk | 835
 adaderanalk | 838
-virakesarilk | 862
+virakesarilk | 863
 adaderanasinhalalk | 954
 dailymirrorlk | 1,001
 
@@ -26,9 +26,27 @@ dailymirrorlk | 1,001
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,821 (100.0%) of 6,821 articles have been extended.
+6,821 (100.0%) of 6,822 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-02-14 (Wednesday)
+
+### சுங்க பிரிவின் அனுமதியின்றி கொள்வனவு செய்யப்பட்ட 1500 இலட்சம் ரூபாய் பெறுமதி மிக்க ஆடைகள் பறிமுதல்
+
+*2024-02-14 00:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176311) · `ta`
+
+சுங்க பிரிவின் அனுமதியின்றி கொள்வனவு செய்யப்பட்ட 1500 இலட்சம் ரூபாய் பெறுமதி மிக்க ஆடைகள் இலங்கை சுங்கத்தின் சுங்க வருவாய் கண்காணிப்பு பிரிவினரால் பறிமுதல் செய்யப்பட்டுள்ளது.
+
+மலேசியாவிலிருந்து நாட்டிற்கு வந்திருந்த சந்தேகத்துக்கிடமான 4 கொள்கலன்கள் ஒருகொடவத்தை பகுதியில் உள்ள சரக்குப் பொருள் ஏற்றி இறக்கும் முனையத்தில் சுங்கப் பிரிவினரால் தடுத்து நிறுத்தப்பட்டு செவ்வாய்க்கிழமை (13) சோதனைக்கு உட்படுத்தப்பட்டது.
+
+இதன்போது கொள்கலன்களில் பிரபல நிறுவனம் ஒன்றிலிருந்து சுமார் 1,60,000 ஆடைகள் கொள்வனவு செய்யப்பட்டு சுங்க வரி செலுத்தாமல் நாட்டிற்குள் கொண்டுவரப்பட்டுள்ளதாகச் சுங்க வருவாய் கண்காணிப்பு பிரிவு தெரிவித்துள்ளது. சரக்கின் உரிமையாளர் சுங்கத்திற்குச் சமர்ப்பித்த அனைத்து ஆவணங்களில் துணிவகைகள் மாத்திரம் கொள்வனவு செய்வதற்காகத் தெரிவித்து ஆடைகளைக் கொள்வனவு செய்துள்ளமை விசாரணைகளின் போது தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/9e9e46ba.json)
+
+---
 
 ### 2024-02-13 (Tuesday)
 
@@ -2039,35 +2057,5 @@ The award is reflected that Sri Lanka has used the principles of the United Nati
 [Data](articles/cc595730.json)
 
 [Extended Data](ext_articles/cc595730.ext.json)
-
----
-
-### Hot condition near the passport office in Matara
-
-*2024-02-13 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193327) · `si`
-
-The Matara Regional Office of the Department of Immigration has occurred in front of the Matara Regional Office today (13).
-
-Our correspondent said that the people from many parts of the island were present.
-
-A large number of people daily to prepare foreign passports to the Matara Regional Office of the Department of Immigration and Emigration Department.
-
-About 150 people released foreign passports under the one day service.
-
-However, due to lack of a proper mechanism to issue foreign passports, the people who come in a difficult situation.
-
-The office has been seen in a few days near the office.
-
-The people from many parts of the island have launched the night in front of the office to obtain their foreign passport.
-
-The next few days this morning, the people who were not available from the morning and the people were unable to obtain foreign passport.
-
-The people accused the Department of Immigration and Emigration, but it does not issue foreign passports in the same number.
-
-...
-
-[Data](articles/5e95cf69.json)
-
-[Extended Data](ext_articles/5e95cf69.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 12:17:34**
+As of **2024-02-13 12:32:52**
 
 ## Newspaper Stats
 
@@ -26,63 +26,73 @@ dailymirrorlk | 974
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,670 (99.9%) of 6,675 articles have been extended.
+6,675 (100.0%) of 6,675 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
-### ஔடதங்கள் கட்டுப்பாட்டு அதிகார சபையின் பணிப்பாளர் பதவியிலிருந்து சட்டத்தரணி மனோஜ் கமகே இராஜினாமா!
+### Attorney -at -Law Manoj Kamage resigns from the post of Director of the Control Authority!
 
 *2024-02-13 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/176261) · `ta`
 
-தேசிய  ஔடதங்கள் கட்டுப்பாட்டு அதிகார சபையின் பணிப்பாளரான சட்டத்தரணி மனோஜ் கமகே,   தாம் அந்தப் பதவியிலிருந்து விலகுவதற்கான கடிதத்தை சுகாதார அமைச்சர் ரமேஷ் பத்திரனவுக்கு அனுப்பி வைத்துள்ளார்.
+Attorney -at -Law Manoj Kamage, Director of the National Records Control Authority, has sent a letter to Health Minister Ramesh Pathrana to resign.
 
-இன்று செவ்வாய்க்கிழமை (13) முதல் அவர் அந்தப் பதவியை இராஜினாமா செய்யவுள்ளதாக அந்தக் கடிதத்தில் மேலும் தெரிவிக்கப்பட்டுள்ளது.
+The letter further stated that he will resign from Tuesday (13).
 
-தேசிய  ஔடதங்கள் கட்டுப்பாட்டு அதிகார சபையின்  பணிப்பாளராக கடமையாற்றிய காலத்தில் அந்த நிறுவனத்தின் முன்னேற்றத்துக்காக சட்டத்தரணி என்ற வகையில் தான்  பணியாற்றியதாகவும்   பணிப்பாளர் சபை உறுப்பினர் என்ற அடிப்படையில் உரிய தீர்மானங்களை நிறைவேற்றியதாகவும் அவர் தனது கடிதத்தில் தெரிவித்துள்ளார்.
+In his letter, he said that he worked as a lawyer for the progress of the company during his tenure as the Director of the National Control Authority and passed the resolutions on the basis of a member of the Board of Directors.
 
 ◼️
 
 [Data](articles/b24e8849.json)
 
+[Extended Data](ext_articles/b24e8849.ext.json)
+
 ---
 
-### டிரம்ப் ஜனாதிபதியானால் அமெரிக்காவை நேட்டோவிலிருந்து வெளியேற்றுவார் - அவரின் முன்னாள் ஆலோசகர்கள் கருத்து
+### If Trump becomes president - his former advisers opinion
 
 *2024-02-13 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/176260) · `ta`
 
-அமெரிக்க ஜனாதிபதி தேர்தலில் டொனால்ட் டிரம்ப் வெற்றிபெற்றால் அவர் அமெரிக்காவை நேட்டோவிலிருந்து விலக்குவார் என டிரம்பின் முன்னாள்  ஆலோசகர்கள்  தெரிவித்துள்ளார்.
+Former Trump's former advisers have said that if Donald Trump wins the US presidential election, he will withdraw from NATO.
 
-நேட்டோ அமைப்பின் வரவுசெலவுதிட்டத்திற்கு நிதி வழங்காத  உறுப்பு நாடுகளிற்கு எதிராக ரஸ்யா தாக்குதலை மேற்கொள்ளவேண்டும் என்ற டிரம்பின் கருத்தினால் அமெரிக்காவில் பெரும் குழப்பம் ஏற்பட்டுள்ள அதேவேளை மீண்டும் ஜனாதிபதியானால் டிரம்ப் நேட்டோவிலிருந்து அமெரிக்காவை விலக்கிக்கொள்வார் எனமார்ச் மாதம்  வெளியாகவுள்ள நூலில் டிரம்பின் முன்னாள் ஆலோசகர்கள்  தெரிவித்துள்ளனர்..
+Former Advisors of Trump said in the month of March that Trump's idea that Russia should launch an attack on member states that did not fund the NATO budget, and that President Trump would withdraw from NATO again.
 
-என்ற தனது நூலில் டிரம்ப் மற்றும் பைடன் நிர்வாகத்தில் உயர் அதிகாரியாக பணியாற்றிய ஒருவர் இதனை தெரிவித்துள்ளார்என சிஎன்என் செய்தி வெளியிட்டுள்ளது.
+In his book, CNN said that a top official in Trump and Bidan administration said.
 
-டிரம்ப் பைடனை தோற்கடித்தால் அமெரிக்கா நேட்டோவிலிருந்து வெளியேற்றப்படும் என அவர் சிஎன்என்னிற்கு தெரிவித்துள்ளார்.
+He has told CNN that the US will be expelled from NATO if Trump defeats Baidan.
 
-நேட்டோவை ஒரு பயனுள்ள அர்த்தமுள்ள விடயமாக டிரம்ப் கருதவில்லை என டிரம்பின் வெள்ளை மாளிகை பிரதானியாக பணியாற்றிய ஒய்வுபெற்ற ஜெனரல் ஜோன்கெலி அந்த நூலில் தெரிவித்துள்ளார்.
+Trump's White House chief said that Trump did not consider NATO a useful meaningful thing.
 
-...
+Jonkeli Vladimir Putin and Kimjong Ann, who said Trump was vehemently opposed to the US soldiers in South Korea and Japan, said that Trump was the right person.
+
+Kelly also stated in the book that Trump thought North Korea had been isolated by the US.
+
+◼️
 
 [Data](articles/e3f7e153.json)
 
+[Extended Data](ext_articles/e3f7e153.ext.json)
+
 ---
 
-### பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனின் பதவிக்காலம் 29ஆம் திகதியுடன் நிறைவடைகிறது!
+### In response, the Inspector General of Police, Deshabandu, ends on the 29th of this month!
 
 *2024-02-13 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176259) · `ta`
 
-பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனின் பதவிக்காலம் இம்மாதம் 29ஆம் திகதியுடன் நிறைவடையவுள்ளது. அவர் மூன்று மாத காலத்துக்கு பதில் பொலிஸ் மா அதிபராக  நியமிக்கப்பட்டார்.
+The Inspector General of Police, Deshabandu, will end the tenure of South Khon on the 29th of this month.. He was appointed as the Inspector General of Police for three months.
 
-கடந்த நவம்பர் மாதம் 29 ஆம் திகதி ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் இந்த நியமனம் வழங்கப்பட்டது.
+The appointment was made by President Ranil Wickremesinghe on November 29.
 
-ஆனால், இந்த நியமனம் தொடர்பாக அரசியல்வாதிகள் மற்றும் சமூக ஆர்வலர்கள் மத்தியில் கடும் எதிர்ப்புக் கிளம்பியது.
+But there was fierce opposition among politicians and community activists over the appointment.
 
-இருப்பினும். தேசபந்து தென்னகோன் நவம்பர் 30 ஆம் திகதி தனது பதவியை ஏற்றுக்கொண்டார்.
+Although. Patriot Tennakoon accepted his post on November 30.
 
 ◼️
 
 [Data](articles/2f87b527.json)
+
+[Extended Data](ext_articles/2f87b527.ext.json)
 
 ---
 
@@ -106,43 +116,49 @@ There are also 186 suspects in the list on the list of the criminal sections and
 
 ---
 
-### இரு பொலிஸாரைத் தாக்கிய ஓய்வுபெற்ற இராணுவ மேஜர், முன்னாள் கடற்படை வீரர்  இருவர் உட்பட நால்வர் கைது!
+### Four people arrested, including retired army Major and two former navy soldiers attacked by two policemen
 
 *2024-02-13 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/176256) · `ta`
 
-கொழும்பு - கண்டி வீதியில் வரக்காப்பொல நகரில் போக்குவரத்தைக்  கையாளும்போது  பொலிஸ் கான்ஸ்டபிள்கள் இருவர் தாக்கப்பட்டு காயப்படுத்தப்பட்ட சம்பவம் தொடர்பில் முன்னாள் இராணுவ மேஜர் ஒருவர் மற்றும் கடற்படையைச் சேர்ந்த  ஓய்வு பெற்ற இருவர் உட்பட நால்வர் கைது செய்யப்பட்டுள்ளனர்.
+Four persons, including a former army Major and two retired retired persons, have been arrested in connection with the incident of two police constables attacked and injured while handling traffic in Varakapola city on Colombo -Kandy road.
 
-குறித்த வீதியை  செப்பனிடும் பணிக்காக வரகாப்பொல நகரின் ஒரு பாதை மூடப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+It is reported that a route in Varakapola city has been closed for the work of repairing the road.
 
-நேற்று திங்கட்கிழமை (12) மாலை  குறித்த சந்தேக நபர்கள் பயணித்த பஸ் ஒன்று தவறான திசையில் சென்றபோது அங்கு கடமையில் ஈடுபட்டிருந்த  இரு பொலிஸ் உத்தியோகத்தர்களும் அந்த  பஸ்ஸை வீதியிலிருந்து அகற்றியதில் இவர்களுக்கிடையில்  வாக்குவாதம் ஏற்பட்டுள்ளது.
+Two police officers who were on duty at the wrong direction of the suspects on Monday evening (12) evening were disputed when the bus was removed from the road.
 
-இந்நிலையில், பஸ்ஸிலிருந்து இறங்கிய முன்னாள் இராணுவ மேஜர் உட்பட நால்வர் பொலிஸ் உத்தியோகத்தர்கள் இருவரையும்  தாக்கியதாக பொலிஸார் தெரிவித்தனர்.
+In this case, four police officers, including a former army Major, who got off the bus, were attacked, police said.
 
-சம்பவத்தையடுத்து, வரக்காபொல பொலிஸ் குழுவொன்று சம்பவ இடத்திற்குச் சென்று சந்தேக நபர்கள் நால்வரையும் கைதுசெய்துள்ளது.
+Following the incident, a group of Warakapola police went to the scene and arrested four suspects.
 
 ◼️
 
 [Data](articles/258bfc7f.json)
 
+[Extended Data](ext_articles/258bfc7f.ext.json)
+
 ---
 
-### சுகாதார தொழிற்சங்கங்கள் பணி பகிஸ்கரிப்பு
+### Health Trade Unions Task Breeding
 
 *2024-02-13 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176254) · `ta`
 
-வைத்தியர்களுக்கு வழங்குவதற்கு தீர்மானிக்கப்பட்டுள்ள 35,000 ரூபாய் மேலதிக கொடுப்பனவு, தமக்கும் வழங்கப்பட வேண்டுமென வலியுறுத்தி 72 சுகாதார தொழிற்சங்கங்கள் பல தடவைகளில் தொழிற்சங்க நடவடிக்கைகளை முன்னெடுத்திருந்தன.
+The 72 health unions have repeatedly carried out union actions, demanding that the 35,000 rupee payments be paid to the doctors.
 
-குறித்த விடயம் தொடர்பில் நிதியமைச்சின் அதிகாரிகளுக்கும், சுகாதார தொழிற்சங்கங்களின் பிரதிநிதிகளுக்கும் இடையில் நேற்று திங்கட்கிழமை (12)  இரண்டாம் கட்ட பேச்சுவார்த்தை இடம்பெற்றது.
+The second phase of talks were held yesterday (12) between the officials of the Finance Ministry and the representatives of the Health Trade Unions on the matter.
 
-இதன்போது குறித்த பேச்சுவார்த்தை தோல்வியடைந்த நிலையிலேயே, இன்று செவ்வாய்க்கிழமை (13) காலை 6 மணிமுதல் மீண்டும் தொடர்ச்சியான பணிப்புறக்கணிப்பில் ஈடுபட்டு வருகின்றனர்.
+As the talks failed, they are continuously working on Tuesday (13) at 6 am today.
 
-நாடு பூராகவும் நடைபெறும் குறித்த பணிப்புறக்கணிப்பு நடவடிக்கைக்கு ஆதரவு தெரிவித்து வவுனியாவிலும் பணிபகிஸ்கரிப்பு போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+They are also working in Vavuniya in support of the workplace operations across the country.
 
-இதன் காரணமாக நோயாளர்கள் பல்வேறு சிரமங்களுக்கு முகம் கொடுத்திருந்ததோடு, இரத்த மாதிரிகளை பெறுதல் மற்றும் இரத்த பரிசோதனைகள் என்பனவும் இன்று மேற்கொள்ளப்படாமையினால் பல நோயாளர்கள் திரும்பிச் சென்றதோடு மருந்துகளை பெறுவதிலும் பலர் சிரமங்களை எதிர் கொண்டு இருந்ததை அவதானிக்க முடிந்திருந்தது.
+As a result, patients have faced various difficulties and obtained blood samples and blood tests today and many patients have been able to observe the difficulties of getting medication.
 
-...
+At the same time, it was possible to observe the return of many patients from distant places due to work.
+
+◼️
 
 [Data](articles/89268230.json)
+
+[Extended Data](ext_articles/89268230.ext.json)
 
 ---
 

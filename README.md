@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 22:04:15**
+As of **2024-02-13 22:17:33**
 
 ## Newspaper Stats
 
-*Scraped **6,797** Articles*
+*Scraped **6,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ islandlk | 358
 dailyftlk | 359
 newsfirstlk | 363
 adalk | 581
-adaderanalk | 833
+adaderanalk | 835
 tamilmirrorlk | 835
 virakesarilk | 857
 adaderanasinhalalk | 951
-dailymirrorlk | 995
+dailymirrorlk | 998
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,797 (100.0%) of 6,797 articles have been extended.
+6,797 (99.9%) of 6,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### Brazilian President Lula da Silva accepts invitation to visit Sri Lanka
+
+*2024-02-13 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97244/brazilian-president-lula-da-silva-accepts-invitation-to-visit-sri-lanka) · `en`
+
+President of Brazil, Lula da Silva has accepted the invitation extended by his Sri Lankan counterpart to visit Sri Lanka, the Embassy of Sri Lanka in Brazil said in a press release.
+
+This was remarked by Secretary for Asia and Pacific of the Brazilian Foreign Affairs Ministry, Ambassador Eduardo Paes Saboia during the 76th anniversary of Independence Day reception held at the Sri Lankan embassy last week.
+
+Ambassador Saboia further stated that President Lula da Silva is enthusiastic to undertake his official visit to Sri Lanka in due course.
+
+He recalled the constructive interactions that the leaders of Sri Lanka and Brazil had in Dubai on the sidelines of COP28 in December 2023, adding that there will be more opportunities to further strengthen bonds of friendship and cooperation between the two nations in 2024.
+
+...
+
+[Data](articles/d2dec79a.json)
+
+---
+
+### Government has committed a huge mistake by appointing healthcare workers to hospitals
+
+*2024-02-13 21:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-has-committed-a-huge-mistake-by-appointing-healthcare-workers-to-hospitals/108-276946) · `en`
+
+Colombo, Feb 13 (Daily Mirror) - Government Medical Officers' Forum (GMOF) president Dr. Rukshan Bellana said today that the government has made a significant error by appointing healthcare workers to hospitals.
+
+Addressing the media, he highlighted that healthcare workers used to be involved in tasks such as transporting patients using wheelchairs and trolleys, as well as handling the transportation of blood and urine samples to and from patients.
+
+"In foreign countries, healthcare workers are assisted by private companies in carrying out these activities. Turning these tasks into government services was a significant mistake on the part of the government. Those who engaged in election campaigns and poster campaigns were elected for their satisfaction in these roles," he said.
+
+...
+
+[Data](articles/3bfb600a.json)
+
+---
+
+### Sri Lanka eye clean sweep against Afghanistan
+
+*2024-02-13 21:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-eye-clean-sweep-against-Afghanistan/108-276942) · `en`
+
+Feb. 13 (Agencies) - Sri Lanka will host Afghanistan for the final and inconsequential One Day International (ODI) match in the three-match series at the Pallekele Stadium in Kandy tomorrow.
+
+With the series already in the Lankan Lions’ pockets after winning the first two matches, the third one will all be about Afghanistan gaining some sort of momentum before the Twenty20 International series begins on Saturday.
+
+In the second ODI, Charith Asalanka scored 97 while Captain Kusal Mendis and Sadeera Samarawickrama chipped in with 61 and 52 respectively. At the tail end, Janith Liyanage scored a 50 of his own as Sri Lanka set a target of 308.
+
+Chasing, Afghanistan’s Ibrahim Zadran and Rahmat Shah were the only ones who could score decent runs but their efforts were in vain with their team getting bundled out for 153.
+
+...
+
+[Data](articles/baf7d9ab.json)
+
+---
+
+### Japan to provide anti-corruption policy support for SL to promote economic governance
+
+*2024-02-13 21:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97243/japan-to-provide-anti-corruption-policy-support-for-sl-to-promote-economic-governance) · `en`
+
+A new project was launched in Sri Lanka to bolster its anti-corruption ecosystem, in tandem with the Government of Japan and the United Nations Development Programme (UNDP).
+
+The new project will work towards strengthening the anti-corruption ecosystem in Sri Lanka, through time-bound national policy reform, inter-stakeholder collaboration, and enhanced institutional capacity to deliver a necessary roadmap for the country to emerge from fragility towards a resilient economy and a trusted democracy.
+
+Ambassador of Japan to Sri Lanka, Hideaki Mizukoshi and Resident Representative of UNDP Sri Lanka, Ms. Azusa Kubota marked the launch of the new project titled ‘The Project for Promoting Economic Governance through Anti-corruption Policy Support’, through an official signing that took place in Colombo today (Feb.13) with the participation of senior government officials.
+
+...
+
+[Data](articles/472b5334.json)
+
+---
 
 ### Cabinet permits to construct two new hospitals in Gampaha district
 
@@ -53,6 +121,26 @@ The Cabinet has approved the proposal submitted to implement the plan put forwar
 [Data](articles/b649df13.json)
 
 [Extended Data](ext_articles/b649df13.ext.json)
+
+---
+
+### Pay attention to direction of the sun when building new houses: Parliamentary Committee
+
+*2024-02-13 21:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pay-attention-to-direction-of-the-sun-when-building-new-houses-Parliamentary-Committee/108-276943) · `en`
+
+Parliament, Feb. 13 (Daily Mirror)- A Parliamentary Committee has observed that people must be informed of the need to pay attention to the direction of the sun when building a new house so as to install solar panels.
+
+The matter was discussed when the Sectoral Oversight Committee on Energy and Transport met in Parliament recently under the Chairmanship of MP Nalaka Bandara Kottegoda.
+
+Officials representing the Sri Lanka Sustainable Energy Authority pointed out that although people are concerned about various directions based on various occult science, they are not concerned about the direction of the sun when building a house.
+
+They also mentioned that this situation has become concerning in the installation of solar panels.
+
+Therefore, the Committee focused on planning a place to install solar panels in a new house.
+
+...
+
+[Data](articles/00c9e7ad.json)
 
 ---
 
@@ -804,9 +892,9 @@ Accordingly, the Cabinet of Ministers has approved the proposal submitted by the
 
 *2024-02-13 16:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/European-Union-Ambassador-Carmen-Moreno-meets-Anura-Kumara/108-276930) · `en`
 
-Ambassador of the European Union to Sri Lanka, Carmen Moreno met NPP leader Anura Kumara Dissanayake at the JVP Headquaters this afternoon.
+Colombo, Feb. 13 (Daily Mirror)- Ambassador of the European Union to Sri Lanka, Carmen Moreno met NPP leader Anura Kumara Dissanayake at the JVP Headquaters this afternoon.
 
-Colombo, Feb. 13 (Daily Mirror)- They discussed matters concernig the economic crisis and the political situation in Sri Lanka, party sources said.
+They discussed matters concernig the economic crisis and the political situation in Sri Lanka, party sources said.
 
 Upholding human rights, democracy, the postponement of elections and the recently enacted Onlin Safety Act were also discussed, they said.
 
@@ -1917,99 +2005,5 @@ The US dollar purchasing price was Rs 308.5844 and the sales price were 318.4655
 [Data](articles/dd726540.json)
 
 [Extended Data](ext_articles/dd726540.ext.json)
-
----
-
-### A parked car is burning on fire
-
-*2024-02-13 12:26:13* · [`adalk`](https://www.ada.lk/picture_story/නවතා-තිබූ-මෝටර්-රථයක්-ගිනිගෙන-අලුවෙයි/10-408054) · `si`
-
-A car in Galle was completely set to fire today (13).
-
-Four bugs of the Firestroll Council of the Kalutara Municipal Council came and managed the fire.
-
-The fire was a traffic jam with the fire and was restored by the Wadduwa Police Traffic Officers.Wadduwa Police are conducting further investigations.
-
-◼️
-
-[Data](articles/5d628a19.json)
-
-[Extended Data](ext_articles/5d628a19.ext.json)
-
----
-
-### Executive President's Removal
-
-*2024-02-13 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176267) · `ta`
-
-The PA has said that the Executive Committee will not support the abolition of the Prime Minister's Leadership Political Party until the majority of the election system in the country is introduced in the country.
-
-Sri Lanka PA is opposed to the abolition of the executive presidency under the current electoral system, said Sagarakariyawasam, General Secretary of the PA.
-
-He said that if the party holds a parliamentary election under the current electoral system after the abolition of the executive bureaucracy, no party can get a clear parliamentary majority.
-
-Since then, the country's leader, the Prime Minister, has called for the support of several political parties, and said that the government should rule on the basis of the wishes of the parties that support its parties.
-
-The PA has always said that the PA has always had the position of abolishing the executive of the Executive.
-
-...
-
-[Data](articles/9b4fc999.json)
-
-[Extended Data](ext_articles/9b4fc999.ext.json)
-
----
-
-### Manoj Kamage resigns
-
-*2024-02-13 12:25:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோஜ்-கமகே-இராஜினாமா/175-333128) · `ta`
-
-Attorney -at -Law Manoj Kamage, Director of the National Lights Regulatory Authority, has resigned from the post.
-
-It is reported that he has sent his resignation letter to Health Minister Ramesh Pathrana.
-
-◼️
-
-[Data](articles/fee6a97d.json)
-
-[Extended Data](ext_articles/fee6a97d.ext.json)
-
----
-
-### The body of the shore was found in the coast of Amparai
-
-*2024-02-13 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176263) · `ta`
-
-The body of a man who was found in the Pandaruppu coast of the Ampara district is identified.
-
-The body was recovered and taken to the Kalmunai Resource Hospital to identify the body.
-
-His wife, Vasanthi, has identified the father of three children, Kadiravel Padmaraj (age 59) from Chettipalayam, Batticaloa district.
-
-The deceased had reported that the deceased had gone out of his house and had not been searched until the body was recovered, and that the body of the body was found in the Kalmunai Resource Hospital and then confirmed that the body was found in the Kalmunai Resource Hospital.
-
-◼️
-
-[Data](articles/eba6bc0e.json)
-
-[Extended Data](ext_articles/eba6bc0e.ext.json)
-
----
-
-### Sri Lanka to lease plantation lands to export-related businesses
-
-*2024-02-13 12:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-lease-plantation-lands-to-export-related-businesses-150690/) · `en`
-
-ECONOMYNEXT – Lands held by the State will be provided on a long-term lease to businesses with a focus on export activities, the Cabinet spokesman has said.
-
-“Large underutilized lands are to be given on long-term lease basis to investors with the potential to grow exportable crops, raise livestock farms for export and produce other exportable goods and services,” Minister Bandula Gunawardena said at a press briefing to announce Cabinet decisions on Tuesday (13).
-
-A large amount of land owned by government plantation agencies such as the Janatha Estate Development Board and the Sri Lanka State Plantation Corporation has remained without cultivation or productive use for a long time due to various reasons such as legal problems, institutional conflicts, lack of capital etc, Gunawardena said.
-
-...
-
-[Data](articles/1ef78425.json)
-
-[Extended Data](ext_articles/1ef78425.ext.json)
 
 ---

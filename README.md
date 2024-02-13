@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 06:16:20**
+As of **2024-02-13 06:53:30**
 
 ## Newspaper Stats
 
-*Scraped **6,598** Articles*
+*Scraped **6,599** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 558
 tamilmirrorlk | 803
 adaderanalk | 803
 virakesarilk | 829
-adaderanasinhalalk | 917
+adaderanasinhalalk | 918
 dailymirrorlk | 963
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,597 (100.0%) of 6,598 articles have been extended.
+6,598 (100.0%) of 6,599 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### ප්‍රදේශ කිහිපයකට තද වැසි
+
+*2024-02-13 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193306) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව, මාතලේ සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, උතුරු පළාතේ සහ අනුරාධපුර දිස්ත්‍රික්කයේ වැසි ස්වල්පයක් ඇති විය හැකි බවය.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (13) ප.ව. 2.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, දකුණු, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් විටින් විට හමන පැ.කි.මී. 30-40 පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කළ නිවේදනයේ වැඩිදුරටත් දැක්වේ.
+
+◼️
+
+[Data](articles/bfd71030.json)
+
+---
 
 ### UPI between Sri Lanka and India. give and take
 
@@ -780,21 +800,27 @@ However, the wildlife conservators from Walathapitiya Wildlife Office are exerci
 
 ---
 
-### රාජ්‍ය ආදායම රු. බිලියන 3201 වියදම රු. බිලියන 4394
+### State Income. 3201 Billion cost Rs. 4394 billion
 
 *2024-02-12 20:49:40* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ආදායම-රු--බිලියන-3201-වියදම-රු--බිලියන-4394/11-408046) · `si`
 
-ශ්‍රී ආර්ථිකය ගොඩනැඟීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගෙනයන ආර්ථික වැඩපිළිවළ හැර වෙනත් විකල්ප ක්‍රම තිබේ නම් ඒ සඳහා ඕනෑම මාධ්‍යයක ඕනෑම කණ්ඩායමක් සමඟ සංවාදයකට සූදානම් බව මහාමාර්ග, ප්‍රවාහන හා ජනමාධ්‍ය අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පැවසීය.
+If there are alternatives to President Ranil Wickremesinghe's economic works to build the Sri Lankan economy, he said.
 
-රාජ්‍ය මූල්‍ය කළමනාකරණය සම්බන්ධ දුර්වල දැනුමක් සහිත කණ්ඩායම් ජනතාව හමුවේ අසත්‍ය ප්‍රචාර ගෙන යමින් සිටින බවත් ශ්‍රී ලංකාවේ ආර්ථිකය ගොඩනැඟීම වචනවලින් පමණක් සිදු කළ නොහැකි බවත් අමාත්‍යවරයා සඳහන් කළේය.
+The Minister said that the poor knowledge of public financial management is false propaganda and the building of Sri Lanka's economy cannot be done only in words.
 
-අමාත්‍ය බන්දුල ගුණවර්ධන මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ අද (12) පැවති මාධ්‍ය සාකච්ඡාවට එක්වෙමිනි.
+Minister Bandula Gunawardena made this statement participating at a press conference held at the press conference today (12) at the Presidential Media Center.
 
-2023 වසරේ බදු පැනවිම තුළින් ලබාගත් රාජ්‍ය ආදායම රුපියල් බිලියන 3201ක් වන බවත් සහනාධාර, වැටුප් බිල් සහ රාජ්‍ය ණය බිල්පත් සඳහා භාණ්ඩාගාරයෙන් වියදම් කර ඇති මුදල රුපියල් බිලියන 4394ක් බවත් පෙන්වා දුන් අමාත්‍යවරයා රාජ්‍ය වියදම්වලින් අඩු කරන්නේ කුමන කොටසද යන්න විකල්ප මත දරන කණ්ඩායම් ජනතාවට ප්‍රකාශ කළ යුතු බවද සඳහන් කළේය.
+According to the Minister of 2023, the Minister of Public Revenue was Rs.Mentioned.
+
+Highways, Transport and Mass Media Institute Bandula Gunawardena said:
+
+The President stated that in the throne speech in the throne speech, the economic problem in Sri Lanka has no political solutions. The people know about the economic crisis in 2022. The program of President Ranil Wickremesinghe has been a positive situation for a positive situation to redeem the country.
 
 ...
 
 [Data](articles/6fd290bd.json)
+
+[Extended Data](ext_articles/6fd290bd.ext.json)
 
 ---
 
@@ -2013,31 +2039,5 @@ Addressing the launching ceremony virtually, PM Modi said he was confident that 
 [Data](articles/b10166e4.json)
 
 [Extended Data](ext_articles/b10166e4.ext.json)
-
----
-
-### Body of unidentified women
-
-*2024-02-12 15:35:59* · [`adalk`](https://www.ada.lk/breaking_news/නාදුනන-කාන්තා-මළසිරුරක්/11-408035) · `si`
-
-Nagasena was found in the Nagasena Agrawa Oya on the 12th.
-
-A Liduli Police officer who commented on this inquiry was made by the Nagasena Agreendu
-
-Testing of a unidentified women's body, a unidentified women's corps in the area of Agrawa Oya area has been investigated
-
-As a result of a women's body, strengthening the security of the area as a man of the Agrawa Oya has a man of the Agrawa Oya on these investigations
-
-The official said that the Nuwara Eliya District Court has also said.
-
-The site is being taken to build the body after inspection of the Nuwara Eliya District Judge's site
-
-The officer added that the further investigations of the body have been reported to the body.
-
-◼️
-
-[Data](articles/3ee0de0e.json)
-
-[Extended Data](ext_articles/3ee0de0e.ext.json)
 
 ---

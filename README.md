@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 15:32:56**
+As of **2024-02-13 15:51:00**
 
 ## Newspaper Stats
 
-*Scraped **6,729** Articles*
+*Scraped **6,733** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
 adalk | 572
-adaderanalk | 818
+adaderanalk | 822
 tamilmirrorlk | 828
 virakesarilk | 848
 adaderanasinhalalk | 942
@@ -26,11 +26,31 @@ dailymirrorlk | 983
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,728 (100.0%) of 6,729 articles have been extended.
+6,729 (99.9%) of 6,733 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### CEB gives undertaking to pay interest for security deposits of consumers
+
+*2024-02-13 15:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97230/ceb-gives-undertaking-to-pay-interest-for-security-deposits-of-consumers) · `en`
+
+The Ceylon Electricity Board (CEB), giving an undertaking before the Supreme Court today (Feb.13), said it is ready to pay an interest for the year 2023 for the security deposits it collects from the consumers when providing a new service connection.
+
+This was communicated when a fundamental rights (FR) petition filed by the Electricity and Renewable Energy Consumers’ Association was called before a three-member bench of the Supreme Court.
+
+Justices S. Thurairajah, Gamini Amarasekara and Yasantha Kodagoda sat for the proceedings today.
+
+Representing the CEB, Deputy Solicitor General Nirmalan Wigneswaran told the judge bench that his client is ready to pay an annual interest of 11.67% for the year 2023 for the security deposits collected from the consumers for installing a new service connection.
+
+As per the undertaking given by the state-owned electricity supplier, this annual interest is planned to be paid retrospectively, starting from January 2024.
+
+...
+
+[Data](articles/b97d3a37.json)
+
+---
 
 ### NMRA faces exodus as two more Board members resign
 
@@ -45,6 +65,8 @@ The NMRA Board comprise of Dr. Kosala Karunaratne, Dr. Asela Gunawardane, M.M. C
 ◼️
 
 [Data](articles/2160e060.json)
+
+[Extended Data](ext_articles/2160e060.ext.json)
 
 ---
 
@@ -68,6 +90,38 @@ Many bloggers express their concerns under this post. Officials have also demand
 
 ---
 
+### Pilot project underway to introduce AI courses to education system
+
+*2024-02-13 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97229/pilot-project-underway-to-introduce-ai-courses-to-education-system) · `en`
+
+The Cabinet of Ministers has granted approval to implement a pilot project to introduce courses on Artificial Intelligence (AI) to the school curriculum starting from Grade 08, the Department of Government Information (DGI) said.
+
+Earlier, on 02 October 2023, the Cabinet of Ministers decided that it is appropriate to introduce courses related to the AI into the education system in accordance with the recommendations made by the task force appointed for the formation of a national strategy and plan related to artificial intelligence.
+
+As part of the relevant strategic plan, a pilot project has been designed to introduce artificial intelligence courses to general education.
+
+Thus, the Cabinet approval has been granted for the joint resolution presented by President Ranil Wickremesinghe as the Minister of Technology, together with the Minister of Education, to implement the said pilot project with the support of Microsoft.
+
+...
+
+[Data](articles/9969e118.json)
+
+---
+
+### Army troops deployed to ensure uninterrupted hospital services amid health strike
+
+*2024-02-13 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97228/army-troops-deployed-to-ensure-uninterrupted-hospital-services-amid-health-strike) · `en`
+
+The Sri Lanka Army has deployed its troops to government hospitals across the country today (Feb. 13), in order to ensure uninterrupted access to essential healthcare services amidst an island-wide strike launched by health sector trade unions this morning.
+
+The troops have been swiftly deployed to various healthcare facilities nationwide, under the directives of the Ministry of Defence and the guidance of the Commander of the Army, Lieutenant General Vikum Liyanage, after a request was made by the Ministry of Health seeking assistance in managing the situation effectively.
+
+...
+
+[Data](articles/3c7bec43.json)
+
+---
+
 ### Gammanpila reveals a trap of the opposition
 
 *2024-02-13 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193332) · `si`
@@ -85,6 +139,28 @@ He said the abolition of the executive presidency was a trap and a conspiracy to
 [Data](articles/d923b8d6.json)
 
 [Extended Data](ext_articles/d923b8d6.ext.json)
+
+---
+
+### Hundreds of thousands lose power in Australia after weather downs power lines
+
+*2024-02-13 14:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97227/hundreds-of-thousands-lose-power-in-australia-after-weather-downs-power-lines) · `en`
+
+Large chunks of Australia’s Victoria state lost power on Tuesday afternoon when a major power plant shut down because a storm knocked out parts of the state’s electricity transmission network.
+
+AGL’s Loy Yang A power station, responsible for about a third of the state’s power, was forced to shut down on Tuesday afternoon after several towers along a major section of the state’s transmission network collapsed in bad weather.
+
+More than 500,000 homes or businesses had lost power, state energy minister Lily D’Ambrosio said in a social media post.
+
+As the plant shut down, electricity prices spiked across the state to their maximum of A$16,600 per megawatt hour, up from around A$200, according to data from the Australian Energy Market Operator (AEMO).
+
+In response, AEMO ordered electricity usage cut across the network, according to a statement on Tuesday afternoon.
+
+D’Ambrosio said in her post that one of Loy Yang’s four units had been brought back online and the mandatory power cuts had ended.
+
+...
+
+[Data](articles/e6d986f1.json)
 
 ---
 
@@ -500,7 +576,7 @@ In his resignation letter submitted to Minister of Health Ramesh Pathirana, Gama
 
 Gamage has emphasized in the letter that as a lawyer he worked for the betterment of the NMRA during his tenure, adding that, along with fellow board members, he has taken appropriate decisions to address a number of shortcomings in the NMRA.
 
-Slamming the conduct of the new NMRA chairman and its current administration, Gamage accused of them being part of the ‘conspiracies’ moved against President Ranil Wickremesinghe and the incumbent government.
+Slamming the conduct of the new NMRA chairman and its current administration, Gamage accused them of being part of the ‘conspiracies’ against President Ranil Wickremesinghe and the incumbent government.
 
 ◼️
 
@@ -1983,93 +2059,5 @@ Investigations have revealed that the constable was drowned while bathing in the
 [Data](articles/cbe9309f.json)
 
 [Extended Data](ext_articles/cbe9309f.ext.json)
-
----
-
-### Several deadly accidents
-
-*2024-02-13 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193312) · `si`
-
-Five people have been killed in several areas in several areas.
-
-A 28-year-old youth was killed in an accident near the Dickwella-Beliatta 7 Post
-
-The accident had occurred when the backing of a bus traveling from Matara to Midadeniya.
-
-The motorcyclist has died after being taken seriously injured by the bus on the back of the bus after the accident.
-
-Meanwhile, a 72-year-old man was killed in a bus collided with a bus carrying school children near the Trekbal Junction on the Colombo-Galle main road.
-
-Meanwhile, a 49-year-old man has died in a crash of a lorry road near the Galle Police Division in Kalutara North Police Division.
-
-The man is a 49 year old resident of Wattala, Hendala, Wattala.
-
-Meanwhile, a person has been killed in a crash of two motorcycles in the Kakirawa-Talawa road.
-
-The deceased has been identified as a 37 year old resident of Ipalogama.
-
-...
-
-[Data](articles/c98ae401.json)
-
-[Extended Data](ext_articles/c98ae401.ext.json)
-
----
-
-### "Their service is not required for the country"
-
-*2024-02-13 07:32:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவர்களின்-சேவை-நாட்டிற்குத்-தேவையில்லை/175-333110) · `ta`
-
-The country's service is not required for the service of this health union experts, as the government is interested in handling these hospital services to the private sector, while the government's Medical Officers Forum (GMOF) Chairman and Dr. Rukshan Bellana, Rukshan Bellana, commented on the strike to be carried out by the health sector trade unions nationwide.
-
-Speaking to reporters, he said that the country's health department needs only medical, nurses and the necessary management staff to implement the Government Hospital effectively.. He proposed external services, such as laboratory services, and stressed that this approach would lead to a three -fold cost of costs.
-
-“I have never seen the head of the Health Experts Federation Ravi Kumudesh Hospital. Has anyone noticed that he is actively involved in any work?When many of us spend our day in hospitals, Kumudesh is often on the streets. "He accused Bellana."
-
-...
-
-[Data](articles/f3d978bb.json)
-
-[Extended Data](ext_articles/f3d978bb.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2024-02-13 07:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97210/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of showers will occur in Eastern and Uva provinces and in Polonnaruwa, Matale and Nuwara-Eliya districts.
-
-A few showers may occur in Northern province and in Anuradhapura district, it said.
-
-Showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Galle and Matara districts after 2.00 p.m.
-
-Fairly strong winds about 30-40 kmph can be expected at times in eastern slopes of the central hills and in Northern, North-Central, Southern, North-western, Uva and Eastern provinces.
-
-Misty conditions can be expected at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
-
-◼️
-
-[Data](articles/ea79a20e.json)
-
-[Extended Data](ext_articles/ea79a20e.ext.json)
-
----
-
-### Health workers launched strike
-
-*2024-02-13 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193311) · `si`
-
-72 health unions have decided to strike at 6.30 am today (13).
-
-The convener of the Department of Health Trade Ravi Kudmith said that this strike will be the strike asking for the doctors to give them a gift.
-
-Meanwhile, All Ceylon Nursing Association Secretary SB Mediwathtu said that a protest in Colombo will be held tomorrow (14) due to the absence of the nursing service.
-
-◼️
-
-[Data](articles/c4c2e8ad.json)
-
-[Extended Data](ext_articles/c4c2e8ad.ext.json)
 
 ---

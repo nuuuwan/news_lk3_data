@@ -1,48 +1,142 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 15:02:56**
+As of **2024-02-13 15:17:21**
 
 ## Newspaper Stats
 
-*Scraped **6,715** Articles*
+*Scraped **6,728** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 80
-bbccomsinhala | 91
+bbccomsinhala | 92
 dbsjeyarajcom | 148
 economynextcom | 339
 islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
-adalk | 571
+adalk | 572
 adaderanalk | 818
-tamilmirrorlk | 827
-virakesarilk | 845
-adaderanasinhalalk | 939
-dailymirrorlk | 978
+tamilmirrorlk | 828
+virakesarilk | 848
+adaderanasinhalalk | 942
+dailymirrorlk | 982
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,710 (99.9%) of 6,715 articles have been extended.
+6,715 (99.8%) of 6,728 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
-### வாட்ஸ்அப்-இன் புதிய அப்டேட்
+### சாக்லேட் வாங்கியவருக்கு அதிர்ச்சி
 
-*2024-02-13 14:13:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/வாட்ஸ்அப்-இன்-புதிய-அப்டேட்/57-333134) · `ta`
+*2024-02-13 14:49:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாக்லேட்-வாங்கியவருக்கு-அதிர்ச்சி/175-333135) · `ta`
 
-வாட்ஸ்அப் செயலியில் ஸ்பேம்-ஐ (Spam) லாக் ஸ்கிரீனில் இருந்தே பிளாக் செய்யும் புதிய வசதி வழங்கப்பட இருக்கிறது. ஸ்பேம் எனப்படும் தேவையற்ற குறுந்தகவல்கள் தொடர்ச்சியாக அதிகளவில் அனுப்பப்பட்டு வரும் நிலையில், இதனை எதிர்கொள்ளும் வகையிலும் பயனர்களுக்கு மெசேஜிங் அனுபவத்தில் அதிக கட்டுப்பாடுகளை வழங்கும் வகையிலும் இந்த அப்டேட் உருவாக்கப்பட்டு இருக்கிறது.
+கடைகளில் வாங்கும் குளிர்பானங்கள் , சிப்ஸ் பாக்கெட் அல்லது உணவகத்தில் வாங்கி வரும் சாப்பாட்டில் பூச்சிகள், புழுக்கள் இருப்பதை சாப்பிட்டு உடல்நலக் குறைபாடு ஏற்படும் பல சம்பவங்களை இதற்கு முன் பலமுறை கேட்டோ பார்த்தோ இருப்போம். இதேபோன்ற சம்பவம் ஒன்று தற்போது இணையத்தில் வைரலாகி வருகிறது.
 
-பயனர்களை ஏமாற்றும் தகவல்கள் அடங்கிய ஸ்பேம் மெசேஜ்கள் வாட்ஸ்அப்-இல் அதிகளவில் அனுப்பப்பட்டு வருவது பயனர்களிடையே கவலையை ஏற்படுத்தி வந்தது. அந்த வகையில், பயனர்கள் இவற்றுக்கு லாக் ஸ்கிரீனில் இருந்தபடியே நடவடிக்கை எடுக்க செய்யும் விதமாக புதிய அம்சம் வழங்கப்படுகிறது.
+ரொபின் ஜேக்குயூஸ் என்ற நபர் ஹைதராபாத்தின் மெட்ரோ நிலையத்திலுள்ள கடையில் சாக்லேட் வாங்கியிருக்கிறார். அதை சாப்பிடும் போதுதான் சாக்லேட்டில் புழுக்கள் நெளிவதை பார்த்து அதிர்ச்சியடைந்துள்ளார்.
+
+சாக்லேட்டில் புழு இருப்பதை அவதானித்த ரொபின், அமீர்பெட் மெட்ரோ ரயில் நிலையத்தில் உள்ள ரத்னாதீப் கடையில் தான் வாங்கியதற்கான பில்லையும் உடனடியாக வீடியோவாக எடுத்து, இதுபோன்ற சுகாதாரப் பிரச்னைகளுக்கு யார் பொறுப்பு? பொருட்களுக்கு தரப் பரிசோதனை எல்லாம் செய்ய மாட்டார்களா என கோபமாக கேட்டு  X ல் பதிவிட்டுள்ளார்.
+
+இந்தப் பதிவின் கீழ் பல பதிவர்கள் தங்கள் கவலைகளை தெரிவித்து வருகின்றனர். இது போல மோசமான பொருட்களை விற்பனை செய்யும் கடைக்காரர்கள் மீது அதிகாரிகள் கடுமையான நடவடிக்கை எடுக்க வேண்டும் எனவும் கோரியுள்ளனர்.
+
+◼️
+
+[Data](articles/0b3d584d.json)
+
+---
+
+### විපක්ෂයට අටවපු උගුලක් ගැන ගම්මන්පිලගෙන් හෙළිදරව්වක්
+
+*2024-02-13 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193332) · `si`
+
+විධායක ජනාධිපති ක්‍රමය අහෝසි කිරීමේ යෝජනාව ජනාධිපතිවරණය නොපැවැත්වීමට සිදු කරන කුමන්ත්‍රණයක් බව පාර්ලිමේන්තු මන්ත්‍රී නීතිඥ උදය ගම්මන්පිල මහතා පවසයි.
+
+එහිදී ඔහු තවදුරටත් පැවසුවේ, රාජ්‍ය නොවන සංවිධාන හරහා කරළියට ගෙනැවිත් තිබෙන විධායක ජනාධිපති ක්‍රමය අහෝසි කිරීමේ යෝජනාව, ජනාධිපතිවරණය නොපැවැත්වීමට ආණ්ඩුවේද ආශිර්වාදයෙන් ක්‍රියාත්මක වන කුමන්ත්‍රණයක් බවය.
+
+එහිදී ඔහු පැවසුවේ විධායක ජනාධිපති ක්‍රමය අහෝසි කිරීම උගුලක් බවත් එය ජන්ද අතුරුදන් කිරීමේ කුමන්ත්‍රණයක් බවත් ය.
 
 ...
 
+[Data](articles/d923b8d6.json)
+
+---
+
+### වෙඩිවැදී ජීවිතක්ෂයට පත්වූ පොලිස් සැරයන්ගේ ඥාතීන්ට පරිත්‍යාගයක්
+
+*2024-02-13 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193331) · `si`
+
+මල්වතුහිරිපිටිය ප්‍රදේශයේ දී සැකකරුවෙකු අත්අඩංගුවට ගැනීමට යාමේ දී වෙඩිවැදී ජීවිතක්ෂයට පත් වු පොලිස් සැරයන්වරයාට අවසන් ගෞරව දැක්වීම සඳහා වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අද (13) දේහය තැන්පත් කර තිබු නිවසට පැමිණියේය.
+
+එහිදී එම නිලධාරියාගේ පවුලේ ඥාතීන් වෙත රුපියල් මිලියනයක මුදලක් ලබා දීමට ද වැඩබලන පොලිස්පතිවරයා කටයුතු කර තිබිණි.
+
+පසුගිය සෙනසුරාදා අලුයම් කාලයේ මල්වතුහිරිපිටය පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායමක් සැකකරුවෙකු අත්අඩංගුවට ගැනීමට යාමේ දී ඇති වු ගැටුම්කාරී තත්ත්වයක් අතරතුර සිදුවු වෙඩි තැබීමකින් අදාළ පොලිස් සැරයන්වරයා ජීවිතක්ෂයට පත්වුණි.
+
+මේ අතර, ජීවිතක්ෂයට පත් වු පොලිස් සැරයන්වරයා උපපොලිස් පරීක්ෂක තනතුරට උසස් කර තිබේ.
+
+වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් මෙම උසස්වීම ලබාදී ඇති බව පොලීසිය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/78d2c863.json)
+
+---
+
+### බෙලිඅත්ත ඝාතනයේ සැකකරුවන් තිදෙනෙකුට අධිකරණය දුන් නියෝගය
+
+*2024-02-13 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193330) · `si`
+
+බෙලිඅත්ත පංච පුද්ගල ඝාතනයේ සැකකරුවන් තිදෙනෙකු අද (13) තංගල්ල අධිකරණයට ඉදිරිපත් කළේය.
+
+එහිදී තංගල්ල ප්‍රධාන මහෙස්ත්‍රාත් හේමන්ත පුෂ්පකුමාර මහතා ඔවුන්ව මේ මස 27 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කළේය.
+
+එහි ඉතිරි සැකකරුවන් අද අධිකරණයට ඉදිරිපත් නොකළ බව අප වාර්තාකරු පැවසීය.
+
+වේයන්ගොඩදී අත්අඩංගුවට ගත් වෙඩික්කරුගේ බිරිඳ සහ පියා මෙන්ම අත්අඩංගුවට ගැනුණු ගාල්ල බුස්සේ පදිංචි 23 හැවිරිදි තරුණිය ද අධිකරණයට ඉදිරිපත් කළ සැකකරුවන් ය.
+
+◼️
+
+[Data](articles/9c3d37c2.json)
+
+---
+
+### Sajith is losing control of SJB: Palitha Range Bandara
+
+*2024-02-13 14:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-is-losing-control-of-SJB-Palitha-Range-Bandara/108-276924) · `en`
+
+Colombo, Feb 13 (Daily Mirror) - Leader of the Opposition Sajith Premadasa is witnessing an erosion of control within his party, Samagi Jana Balwegaya (SJB), as several prominent members have conveyed their willingness to support the President, UNP General Secretary Palitha Range Bandara said today.
+
+"The door is open for Sajith to join the UNP if he wants to survive. There is no reason for our leader to accept Mr. Premadasa into the party while he is currently working with his onetime rival, SLPP," Range Bandara added.
+
+"Some prominent members of the SJB have informed us that they are willing to support President Wickremesinghe and that they would leave the party at the right time. Therefore, the SJB leader will lose control of the party before long," UNP General Secretary told a briefing.
+
+◼️
+
+[Data](articles/88a7ed57.json)
+
+---
+
+### WhatsApp's new update
+
+*2024-02-13 14:13:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/வாட்ஸ்அப்-இன்-புதிய-அப்டேட்/57-333134) · `ta`
+
+The new facility for blocking the spam on the WhatsApp processor is to be offered from the Spam Lock screen. The update has been developed in the face of unnecessary SMS, which is continuously sent to spam, and users to facing more restrictions on users in the message of message.
+
+Spam messages, which contain users cheating information, were increasingly dispatched on WhatsApp caused worrying among users. In that respect, the new feature is provided to take action as users are on the lock screen.
+
+WhatsApp will increase user privacy and safety and a new feature in an effort. With this feature users can block the smartphone without unlocking the smartphone and blocking spam messages directly as in the lock screen. You can choose the option to block the spam notification and then block the various options on the screen.
+
+Black spam messages and reports themselves to users. Apart from the new facility, users can add WhatsApp Settings-Private-Black Contacts-Aad to go to the Contact to Black.
+
+◼️
+
 [Data](articles/e155cec0.json)
+
+[Extended Data](ext_articles/e155cec0.ext.json)
 
 ---
 
@@ -65,6 +159,80 @@ The firearm had then discharged, injuring the officer, while the suspect fled wi
 [Data](articles/410debcc.json)
 
 [Extended Data](ext_articles/410debcc.ext.json)
+
+---
+
+### Introduction of courses on Artificial Intelligence to education system
+
+*2024-02-13 14:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Introduction-of-courses-on-Artificial-Intelligence-to-education-system/108-276923) · `en`
+
+Colombo, Feb 13 (Daily Mirror) - The Cabinet approved the introduction of Artificial Intelligence (AI) to the school curricula as a pilot project from Grade 8, Cabinet spokesman a
+
+He said the introduction of courses on Artificial Intelligence in the education system was initially decided upon at the Cabinet meeting held on October 2, 2023.
+
+The proposal for the introduction of AI to schools will be a radical change to the education system, and will help to release children into the future.
+
+It is appropriate to introduce the proposed courses in accordance with the recommendations by the task force appointed for the formation of a national strategy and plan related to AI.
+
+As part of the strategic plan, a pilot project has been designed to introduce AI courses to general education.
+
+Accordingly, the Cabinet had approved the proposal presented by the President in his capacity as Technology and Education Minister to implement the said pilot project with the support of Microsoft, as follows:
+
+...
+
+[Data](articles/2cf63939.json)
+
+---
+
+### சிறைக்கைதிகளின் எண்ணிக்கை நாளாந்தம் அதிகரிக்கிறது என்கிறார் ஊடகப்  பேச்சாளர்!
+
+*2024-02-13 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176277) · `ta`
+
+நாளாந்தம் சிறைச்சாலைகளுக்கு அனுப்பி வைக்கப்படுபவர்களின் எண்ணிக்கை அதிகரித்துள்ளதாக சிறைச்சாலை ஊடகப் பேச்சாளர் காமினி பீ.திஸாநாயக்க தெரிவித்துள்ளார்.
+
+தற்போதைய சூழ்நிலையில் சிறைச்சாலைகளில் நிலவும்  நெரிசலை நிர்வகித்து கைதிகளை தங்க வைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாக சிறைச்சாலை ஊடகப் பேச்சாளர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/18d0779a.json)
+
+---
+
+### පිටකොටුව පොලිසියට වට කර පහර දුන් කාන්තාවන් මරදාන පොලිසියෙන් අත්අඩංගුවට
+
+*2024-02-13 13:52:37* · [`adalk`](https://www.ada.lk/breaking_news/පිටකොටුව-පොලිසියට-වට-කර-පහර-දුන්-කාන්තාවන්-මරදාන-පොලිසියෙන්-අත්අඩංගුවට/11-408057) · `si`
+
+පිටකොටුව පොලිසියේ නිලධාරින් විසින් අත්අඩංගුවට ගත් මත්ද්‍රව්‍ය  ජාවාරම්කාරියක් මුදා ගැනීම සඳහා  එම නිලධාරීන් පිරිසට පහර දුන් ජාවාරම්කාරියගේ ඥාති සහෝදරියන් තිදෙනෙක් ඇතුළු එම ජාවාරම්කාරිය මරදාන ලොකට් ලේන් ප්‍රදේශයේදී අත්අඩංගුවට ගත් බව මරදාන පොලිසිය කියයි
+
+මත්ද්‍රව්‍ය  ජාවාරම්කාරිය සන්තකයේ තිබී  හොරයින් මත්කුඩු  මිලිගෑම් 600 ක්  සහ අයිස් මත්ද්‍රව්‍ය මිලිගෑම් 200 ක් පොලිස් භාරයට ගෙන ඇත
+
+සැකකාරියන්ගේ පහර කෑමට ලක් වූ උප පරීක්ෂකවරයෙක් සහ කොස්තාපල්වරයෙකු ප්‍රතිකාර සඳහා නාරහේන්පිට  පොලිස් රෝහල වෙත ඇතුළත්ව ඇත
+
+ඊට මඳ වේලාවකට පෙර හොරයින් මත්කුඩු සමග  අත්අඩංගුවට ගෙන තිබූ සැකකරුවෙකු එම කලබලය මැද පොලිස් අත්අඩංගුවෙන්  පලා ගොස් ඇත
+
+පිටකොටුව පොලිසියේ උප පොලිස් පරීක්ෂකවරයෙකු පොලිස් සැරයන් වරයෙකු සහ කොස්තාපල්වරුන් දෙදෙනකු  පිටකොටුව බැස්ටියන් මාවතේදී  හොරයින් මත්කුඩු සමග අත්අඩංගුවට ගත් පුද්ගලයෙකුගෙන් අනාවරණ වූ තොරතුරු මත ඔහුට මත්කුඩු සැපයූ ජාවාරම්කාරිය අත්අඩංගුවට ගැනීම සඳහා මරදාන ලොකට් ලේන්  ප්‍රදේශයට ගිය අවස්ථාවේදී මෙම කලබලය වි ඇතැයි පොලිසිය සඳහන් කරයි
+
+...
+
+[Data](articles/fb4d715d.json)
+
+---
+
+### கல்வி வௌ்ளை அறிக்கையை முழுமையாக நடைமுறைப்படுத்தினால் நாட்டுக்கு சிறப்பான கல்வி முறையொன்று கிடைக்கும்  - ஜனாதிபதியின் சமூக அலுவல்கள் பணிப்பாளர் ரஜித் கீர்த்தி தென்னக்கோன்
+
+*2024-02-13 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176276) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க கல்வி அமைச்சராக இருந்த காலத்தில் கல்வித் துறையில் மேற்கொள்ள முயற்சித்த மாற்றத்தை முழுமையாக செய்ய முடியுமானால், நாட்டுக்கு சிறப்பான கல்வி முறைமையொன்று கிடைக்குமென ஜனாதிபதியின் சமூக அலுவல்கள் பணிப்பாளர் ரஜித் கீர்த்தி தென்னகோன் தெரிவித்தார்.
+
+கடந்த 9 ஆம் திகதி இடம்பெற்ற மொனராகலை புதுருவகல மகா வித்தியாலயத்திற்கு இசைக் கருவிகளைப் பெற்றுக்கொடுக்கும்  நிகழ்விலேயே அவர் இதனைத் தெரிவித்தார்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் மொனராகலை புதுருவகல மகா வித்தியாலய மாணவர்களுக்கு வழங்கிய வாக்குறுதியை மிகக் குறுகிய காலத்தில் நிறைவேற்றும் வகையில் இந்த பாடசாலைக்கு, பெறுமதியான இசைக்கருவிகள் வழங்கி வைக்கப்பட்டன.
+
+கடந்த நவம்பர் 03 ஆம் திகதி ஜனாதிபதி ரணில் விக்ரமசிங்க பயணித்த உலங்குவானூர்தி மோசமான காலநிலை காரணமாக மொனராகலை புதுருவகல  மகா வித்தியாலய மைதானத்தில் அவசரமாக தரையிறக்கப்பட்டது. இதன்போது மாணவர்களால் இந்த கோரிக்கை விடுக்கப்பட்டது.
+
+...
+
+[Data](articles/5452b2fe.json)
 
 ---
 
@@ -94,23 +262,25 @@ The petitioners say that the petitioners say that the petitioners have been file
 
 ---
 
-### කුමන මැතිවරණයක් තිබුණත් පොහොට්ටුව දිනවනවා
+### Which election will be glowing
 
 *2024-02-13 13:38:08* · [`adalk`](https://www.ada.lk/breaking_news/කුමන-මැතිවරණයක්-තිබුණත්-පොහොට්ටුව-දිනවනවා/11-408056) · `si`
 
-ඉදිරියේදී කුමන මැතිවරණයක් පැමිණියත්  එයට සාර්ථකව මුහුණ දී අති විශිෂ්ඨ ජයග්‍රහණයක් කරා අප පක්ෂය ගෙනි යන්නේ යැයිද ජනාධිපතිවරණයට දින නියම වූ විට අපේක්ෂකයා තීරණය කරන බවත් පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා කියයි.
+The presidential election will determine when the Presidential election will be determined when the presidential election will be successfully overcome by the presidential election.
 
-පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා එසේ පැවසුවේ ඊයේ ( 12 වැනිදා ) පස්වරුවේ බියගම , සියඹලාපේ හන්දියේ පිහිටි රොනායා හෝටල් පරිශ්‍රයේ පැවති සද්ජන රළ බියගම නියෝජිත හමුව අමතා කතා කරමිනි.
+MP Namal Rajapaksa addressing the meeting held at the Ronaya Hotel premises at the Siyambalape Junction at Siyambalape Junction yesterday (12).
 
-ශ්‍රී ලංකා පොදු ජන පෙරමුණේ බියගම ආසන සංවිධායක හා කැඳවුම්කරු බියගම පාදේශීය සභාවේ හිටපු සභාපති ආනන්ද ගනේපොල මහතා විසින් මෙය සංවිධානය කරනු ලැබීය.
+Ananda Ganepola was organized by former Chairman of the Biyagama electoral organizer and convener of the Sri Lanka Filling Ordinance.
 
-"මේ වසර මැතිවරණ වසරක් වෙනවා. කුමන මැතිවරණය පැවැත්වුවත් එයින් අති විශිෂ්ඨ ජයග්‍රහණය කරා පක්ෂය ගෙනි යනවා. ජනාධිපතිවරණයට දින නියම වුනාම අපේක්ෂකයා කවුද කියලා තීන්දු කරනවා. එතෙක් පක්ෂය ශක්තිමත්ව ඉදිරියට ගෙන යාමට පාක්ෂිකයින් ඇපකැප වී කටයුතු කරන ලෙසට මා ඉල්ලා සිටිනවා."
+"This year is a year. Whatever elections are held, the party will take the excellent victory. Deciding who is dated when the presidential election is dated. I urge the party to work with the bail to move the party strong. "
 
-මල්වාන ඩබ්ලිව් ඩී එම් විතානගේ  , බියගම පත්මසිරි රණතුංග හා දෙල්ගොඩ සුදත් පුබුදු කීර්ති
+Malwana W. M. Withanage, Biyagama Pathgoda Sudatunga and Delgoda Suddha Pubudu Keerti
 
 ◼️
 
 [Data](articles/698b6ff4.json)
+
+[Extended Data](ext_articles/698b6ff4.ext.json)
 
 ---
 
@@ -151,6 +321,28 @@ The award is reflected that Sri Lanka has used the principles of the United Nati
 [Data](articles/cc595730.json)
 
 [Extended Data](ext_articles/cc595730.ext.json)
+
+---
+
+### வறட்சி ; அதிகம் நீர் அருந்துமாறு கோரிக்கை !
+
+*2024-02-13 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/176274) · `ta`
+
+நாட்டில் தற்போது நிலவும் வெப்பமான சூழ்நிலை நிலவுவதால் உடலில் ஏற்படும்  நீரிழப்பில் இருந்து தம்மை  பாதுகாத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு பொதுமக்களிடம் கோரிக்கை விடுக்கப்பட்டுள்ளது.
+
+இதன் காரணமாக குறிப்பாக சிறுவர்கள், விளையாட்டு வீரர்கள் மற்றும் ஆயுதப்படையைச் சேர்ந்த அதிகாரிகள் நீரிழப்புக்கு ஆளாக நேரிடும் என கொழும்பு சீமாட்டி சிறுவர் வைத்தியசாலையின் சிறுவர் நோய் தொடர்பான விசேட வைத்திய நிபுணர் தீபால் பெரேரா தெரிவித்தார்.
+
+களைப்பு, தூக்கம், சோர்வு, தலைவலி, வாந்தி மற்றும் பசியின்மை ஆகியவை நீரிழப்புக்கான அறிகுறிகளாகும்.
+
+எனவே, நீரிழப்பு ஏற்படாமல் இருக்க, பொதுமக்கள் தொடர்ந்து நீர் அருந்த வேண்டும் என தெரிவித்தார்.
+
+இதேவேளை, நாட்டில் எதிர்வரும் ஏப்ரல் மாதம் மழையுடனான வானிலையை எதிர்பார்க்கலாம் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+தற்போது சில பகுதிகளில் சிறிதளவு மழை பெய்தாலும் ஏப்ரல் மாதம் வரையில் வறட்சியான வானிலையே நிலவும் என திணைக்களம் சுட்டிக்காட்டியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/440760ff.json)
 
 ---
 
@@ -222,17 +414,35 @@ He has sent the letter to the Health Minister Ramesh Pathirana.
 
 ---
 
-### ජනපතිවරණය මේ වසරේදී - මහ මැතිවරණය ලබන වසරේදී
+### Presidential election this year - General Election will be held next year
 
 *2024-02-13 13:05:36* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-මේ-වසරේදී---මහ-මැතිවරණය-ලබන-වසරේදී/11-408055) · `si`
 
-ජනපතිවරණය මෙ වසරේදී නියමිත කාලයේදි පවත්වන බව ජනපති මාධ්‍ය අංශය නිවේදනයක් නිකුත් කරමි් පවසයි.  කෙසේ වෙතත් මහ මැතිවරණය පවත්වන්නේ 2025 වසරේදී බවත් එම මැතිවරණය සඳහා අවශ්‍ය මූල්‍ය ප්‍රතිපාදන 2025 වසරට අදාළ අයවැයේදී වෙන් කරනු ඇති බවත් ජනපති මාධ්‍ය අංශය නිකුත් කළ නිවේදනයේ සඳහන් වෙයි.
+President Mahinda Rajapaksa says that the President will be held at the time this year will be held a statement.However, the general election is held in 2025 and the financial allocation required for the election will be allocated in the respective budget in the year 2025.
 
-මැතිවරණ පැවැත්වීමේ වගකීම මැතිවරණ කොමිෂන් සභාව සතු බවත් අවශ්‍ය අවස්ථාවලදී රජය මැතිවරණ කොමිෂන් සභාව සමග එක්ව කටයුතු කරන බවත් ජනපති මාධ්‍ය අංශය නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+The Presidential Section further states that the Election Commission is responsible for holding elections.
 
 ◼️
 
 [Data](articles/fe3f45ee.json)
+
+[Extended Data](ext_articles/fe3f45ee.ext.json)
+
+---
+
+### The Presidential Elections will be held in a timely manner: Funds for the General Elections will be allocated in the 2025 budget - the Presidential Media Division
+
+*2024-02-13 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176273) · `ta`
+
+The Presidential Media Unit said that the presidential election will be held within a timely manner and the general election will be held next year.
+
+The funds will be allocated in the 2025 budget. The President's Media Division said that the responsibility of conducting elections depends on the Election Commission and the government will work with the Election Commission in the necessary occasions.
+
+◼️
+
+[Data](articles/38006605.json)
+
+[Extended Data](ext_articles/38006605.ext.json)
 
 ---
 
@@ -255,22 +465,6 @@ Slamming the conduct of the new NMRA chairman and its current administration, Ga
 [Data](articles/32795c2d.json)
 
 [Extended Data](ext_articles/32795c2d.ext.json)
-
----
-
-### The Presidential Elections will be held in a timely manner: Funds for the General Elections will be allocated in the 2025 budget - the Presidential Media Division
-
-*2024-02-13 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176273) · `ta`
-
-The Presidential Media Unit said that the presidential election will be held within a timely manner and the general election will be held next year.
-
-The funds will be allocated in the 2025 budget. The President's Media Division said that the responsibility of conducting elections depends on the Election Commission and the government will work with the Election Commission in the necessary occasions.
-
-◼️
-
-[Data](articles/38006605.json)
-
-[Extended Data](ext_articles/38006605.ext.json)
 
 ---
 
@@ -450,19 +644,21 @@ The US dollar purchasing price was Rs 308.5844 and the sales price were 318.4655
 
 ---
 
-### නවතා තිබූ මෝටර් රථයක් ගිනිගෙන අලුවෙයි
+### A parked car is burning on fire
 
 *2024-02-13 12:26:13* · [`adalk`](https://www.ada.lk/picture_story/නවතා-තිබූ-මෝටර්-රථයක්-ගිනිගෙන-අලුවෙයි/10-408054) · `si`
 
-වාද්දුව, පොතුපිටිය ගාලුපාරේ නතරකර තිබූ මෝටර් රථයක් අද (13දා) මුළුමනින්ම ගිනිගෙන විනාශ වී ඇති බව වාද්දුව පොලිසිය පවසයි.
+A car in Galle was completely set to fire today (13).
 
-කළුතර නගර සභාවේ ගිනිනිවන ඒකකයේ භඨයින් සිව්දෙනෙකු පැමිණ ගින්න පාලනය කරන ලදී.
+Four bugs of the Firestroll Council of the Kalutara Municipal Council came and managed the fire.
 
-ගින්නත් සමග ගාලුපාරේ වාහන තදබදයක් පැවතී අතර , වාද්දුව පොලිසියේ රථවාහන අංශ නිළධාරීන් විසින් එය යථා තත්ත්වයට පත්කරන ලදී. වාද්දුව පොලිසිය වැඩිදුර පරීක්ෂණ පවත්වති.
+The fire was a traffic jam with the fire and was restored by the Wadduwa Police Traffic Officers.Wadduwa Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/5d628a19.json)
+
+[Extended Data](ext_articles/5d628a19.ext.json)
 
 ---
 
@@ -504,6 +700,26 @@ It is reported that he has sent his resignation letter to Health Minister Ramesh
 
 ---
 
+### The body of the shore was found in the coast of Amparai
+
+*2024-02-13 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176263) · `ta`
+
+The body of a man who was found in the Pandaruppu coast of the Ampara district is identified.
+
+The body was recovered and taken to the Kalmunai Resource Hospital to identify the body.
+
+His wife, Vasanthi, has identified the father of three children, Kadiravel Padmaraj (age 59) from Chettipalayam, Batticaloa district.
+
+The deceased had reported that the deceased had gone out of his house and had not been searched until the body was recovered, and that the body of the body was found in the Kalmunai Resource Hospital and then confirmed that the body was found in the Kalmunai Resource Hospital.
+
+◼️
+
+[Data](articles/eba6bc0e.json)
+
+[Extended Data](ext_articles/eba6bc0e.ext.json)
+
+---
+
 ### Former member of the Municipal Council Municipal Council
 
 *2024-02-13 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176265) · `ta`
@@ -531,6 +747,18 @@ It has been discussed at the Cabinet meeting held on 02.10.2023 and it is report
 [Data](articles/af642c6b.json)
 
 [Extended Data](ext_articles/af642c6b.ext.json)
+
+---
+
+### Health workers protest...
+
+*2024-02-13 12:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Health-workers-protest/110-276918) · `en`
+
+Trade unions attached to the Federation of Health Professionals of the health sector engaged in an island wide strike today, demanding a solution to a long-standing dispute over the Disturbance, Availability and Transport (DAT) allowance. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/85ca298d.json)
 
 ---
 
@@ -600,23 +828,15 @@ He is also a Board / Committee Member of several State and Private Sector Instit
 
 ---
 
-### The body of the shore was found in the coast of Amparai
+### Biannual inspection...
 
-*2024-02-13 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176263) · `ta`
+*2024-02-13 12:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Biannual-inspection/110-276922) · `en`
 
-The body of a man who was found in the Pandaruppu coast of the Ampara district is identified.
-
-The body was recovered and taken to the Kalmunai Resource Hospital to identify the body.
-
-His wife, Vasanthi, has identified the father of three children, Kadiravel Padmaraj (age 59) from Chettipalayam, Batticaloa district.
-
-The deceased had reported that the deceased had gone out of his house and had not been searched until the body was recovered, and that the body of the body was found in the Kalmunai Resource Hospital and then confirmed that the body was found in the Kalmunai Resource Hospital.
+Personnel from the Dam Street Police Station conducted their biannual inspection today. The inspection team was headed by SSP Central Colombo Lalith Leelaratne. Dam Street Police OIC CI Ajith Peduruarachchi accompanied the routine inspection team. Pix by Nimalsiri Edirisinghe
 
 ◼️
 
-[Data](articles/eba6bc0e.json)
-
-[Extended Data](ext_articles/eba6bc0e.ext.json)
+[Data](articles/b6fa0c25.json)
 
 ---
 
@@ -1562,6 +1782,28 @@ Deputy Director, Department of Meteorology Merril Mendis told Daily Mirror that 
 
 ---
 
+### සෞඛ්‍ය වර්ජනය: 'සේවකයෝ නෑ. වෛද්‍යවරු බෙහෙත් ලියලා ගන්න පස්සේ එන්නලු'
+
+*2024-02-13 08:16:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2qedzykn45o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.Play video, "'සේවකයෝ නෑ. වෛද්‍යවරු බෙහෙත් ලියලා ගන්න පස්සේ එනන්ලු.'", ධාවන කාලය 2,4502:45වීඩියෝ ශීර්ෂ වැකිය, ''වෛද්‍යවරුන්ට වගේ අපිටත් ආර්ථික යුක්තිය ඉටු කරන්න.''
+
+සෞඛ්‍ය වර්ජනය: 'සේවකයෝ නෑ. වෛද්‍යවරු බෙහෙත් ලියලා ගන්න පස්සේ එන්නලු'
+
+වෛද්‍යවරුන්ට ලබා දෙන රුපියල් 35,000 'DAT' දීමනාවට සාපේක්ෂව තමන්ටත් දීමනාවක් ලබා දෙන්නැයි ඉල්ලා සෞඛ්‍ය වෘත්තීය සමිති 72ක් අද (පෙබරවාරි 13වැනිදා) සිට ආරම්භ කර ඇති වැඩ වර්ජනය නිසා තමන් දැඩි දුෂ්කරතාවයකට මුහුණ දී ඇතැයි රෝගීහු පවසති.
+
+ළමා රෝහල, මහරගම අපේක්ෂා රෝහල වැනි විශේෂිත රෝහල් හැර අනෙකුත් රෝහල් සහ සෞඛ්‍ය ආයතනවල මේ වැඩවර්ජනය ක්‍රියාත්මක වේ.
+
+සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය පවසන්නේ මුදල් අමාත්‍යාංශය සමග (පෙබරවාරි 12වැනිදා)  පැවති සාකච්ඡාව අසාර්ථක වූ බවය.
+
+කෙසේනමුත් පවතින මූල්‍ය තත්ත්වය තුළ මුදල් අමාත්‍යාංශය ලබා දුන් මූල්‍ය ප්‍රමාණය ගැන වෘත්තීය සමිති එකඟතාවය පළ නොකළ බව සෞඛ්‍ය අමාත්‍යවරයා පවසයි.
+
+◼️
+
+[Data](articles/c42fa3a9.json)
+
+---
+
 ### Avoided lover boyfriend, a girlfriend of sweetheart
 
 *2024-02-13 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193315) · `si`
@@ -1805,265 +2047,5 @@ The body has been placed at the Pudukudiirippu hospital morgue and the police ar
 [Data](articles/ebab11a5.json)
 
 [Extended Data](ext_articles/ebab11a5.ext.json)
-
----
-
-### MP Ali Sabri Raham's car in danger
-
-*2024-02-13 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193309) · `si`
-
-Saliyawewa Police said that the car was injured in the accident that he was traveling by MP Ali Sabri Raheem.
-
-The accident had occurred at the Puttalam-Anuradhapura road on the Puttalam-Anuradhapura road around 1.00 am today.
-
-HM Chartawa, a resident of Meetro, is also injured in the accident.
-
-The MP was behind the back of the man who was on the back of the MP from Puttalam to Anuradhapura.
-
-The injured were the person who was driven by the handtor.
-
-Saliyawewa Police have arrested the driver of the vehicle that the MP was traveling.
-
-◼️
-
-[Data](articles/fe932931.json)
-
-[Extended Data](ext_articles/fe932931.ext.json)
-
----
-
-### Rescues a group of people
-
-*2024-02-13 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193308) · `si`
-
-Four students and a youth who were drowning in a breakdown have been rescued by the police warrator unit.
-
-They were in a breakdown in Panadura coast yesterday (12).
-
-The rescued was two and two girls, aged 17 and 14, and a 23-year-old youth.
-
-The Police Media Division states that the Police Media Divisional Officers were conducted on rescue duty on the Panadura coastline.
-
-◼️
-
-[Data](articles/405b4979.json)
-
-[Extended Data](ext_articles/405b4979.ext.json)
-
----
-
-### Heavy rains in several areas
-
-*2024-02-13 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193306) · `si`
-
-The Department of Meteorology says that several showers can occur in the Eastern and Uva provinces, the Polonnaruwa, Matale and Nuwara Eliya districts.
-
-The department states that the Northern and Anuradhapura District may have a few showers in the district.
-
-Today in the Western and Sabaragamuwa Provincial and Galle and Matara districts. Showers or thundershowers will occur at a few places after 2.00.
-
-From time to time in the East, East, Southern, Southern, Uva and Eastern Provinces, North, North, Southern, Uva and Eastern Provinces.. The Department of Meteorology announces that strong winds can occur about 30-40.
-
-The Department of Meteorology also stated that in some places in the Western and Sabaragamuwa Province and in the Galle and Matara districts, the Meteorological Department further states.
-
-◼️
-
-[Data](articles/bfd71030.json)
-
-[Extended Data](ext_articles/bfd71030.ext.json)
-
----
-
-### Benefits to traders by digital payment
-
-*2024-02-13 04:08:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிஜிட்டல்-கட்டணம்-மூலம்-வர்த்தகர்களுக்கு-நன்மைகள்/175-333097) · `ta`
-
-Digital QR for Indian tourists visiting Sri Lanka. Integrated payment method or UPI by codeA media briefing was held at the Presidential Media Center yesterday afternoon.
-
-With the intention of rapidly expanding the project, it is pointed out that this fee system will be combined with 10 thousand trade centers and further expand the feature to 65 thousand by March 2024.
-
-Most Indians QR. Indian tourists are accustomed to pay by code, UPI to pay the business community across Sri Lanka. Phone processors can be used uninterrupted.
-
-The money paid by this will be credited to the appropriate bank account in the Sri Lankan rupee and will be immediately notified by SMS. Small and medium traders will be given the opportunity to obtain bank loans in a short period of time in six months by citing such income in their bank accounts.
-
-In the second phase, this structure further expands and CUR in India. It is expected to provide Sri Lankans a payment facility by code. (A)
-
-◼️
-
-[Data](articles/82e1a4db.json)
-
-[Extended Data](ext_articles/82e1a4db.ext.json)
-
----
-
-### Properly register the SIM card
-
-*2024-02-13 04:01:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிம்-அட்டையை-முறையாகப்-பதிவு-செய்யுங்கள்/175-333096) · `ta`
-
-The Sri Lanka Telecommunication Regulatory Commission has announced that everyone who uses mobile phones should register their SIM card properly.
-
-Please contact the company's agencies of the SIM card to verify that the SIM card has been registered in your name on handheld phones you are currently using.
-
-If you are issued SIM cards without knowing you under your National Identity Card number, it is very important to disconnect their connection. (A)
-
-◼️
-
-[Data](articles/c5c037c7.json)
-
-[Extended Data](ext_articles/c5c037c7.ext.json)
-
----
-
-### Trade union action from today
-
-*2024-02-13 03:52:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-மீண்டும்-தொழிற்சங்க-நடவடிக்கை/175-333094) · `ta`
-
-72 health trade unions have decided to re -engage in a continuous workforce from 6 am this morning, the Health Trade Unions Federation said.
-
-The 72 health unions have repeatedly carried out union actions, demanding that the 35 thousand rupee payments be paid to the doctors.
-
-The second phase of talks were held yesterday between the officials of the Finance Ministry and the representatives of the Health Trade Unions.
-
-Sanaka Dharmavickrama, Coordinator of the Health Trade Unions Federation, has said that the negotiations have failed and have decided to carry out a series of workforce.. (A)
-
-◼️
-
-[Data](articles/cdb487ba.json)
-
-[Extended Data](ext_articles/cdb487ba.ext.json)
-
----
-
-### There is no alternative except for the President
-
-*2024-02-13 03:45:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-தவிர-மாற்று-முறை-இல்லை/175-333093) · `ta`
-
-Transport, Highways and Media Minister Bandula Gunawardena said that if there are other alternatives, other than the economic program, which is being carried out by President Ranil Wickremesinghe to build the economy of Sri Lanka, he said.
-
-“The fuel is supplied continuously. There are no gas queues. There is uninterrupted power supply. Public servants are paid on the date. With these activities, there is no other way to replace the economic program carried out by the President. ”. (A)
-
-◼️
-
-[Data](articles/c0f2247d.json)
-
-[Extended Data](ext_articles/c0f2247d.ext.json)
-
----
-
-### UPI between Sri Lanka and India. give and take
-
-*2024-02-13 03:36:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்தியா-இடையில்-யு-பி-ஐ-கொடுக்கல்-வாங்கல்/175-333092) · `ta`
-
-The UPI, known as the Integrated Transaction Data between Sri Lanka and India. Giving - Purchase system has been initiated.
-
-This transaction - via technical equipment, including efficiency, has been created a chance to make a quick money transfers.
-
-GUs for Indian tourists coming to Sri Lanka. The UPI, known as the integrated payment system through the code. The introduction of the payment system was held yesterday at the Presidential Office headed by President Ranil Wickremesinghe.
-
-Indian Prime Minister Narendra Modi also joined the Online Technology. (A)
-
-◼️
-
-[Data](articles/669caeac.json)
-
-[Extended Data](ext_articles/669caeac.ext.json)
-
----
-
-### Sri Lankans looking for gems in Madagascar
-
-*2024-02-13 02:05:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72g9glwlwzo) · `si`
-
-Have you heard of a foreign land town in a foreign country by the Sri Lankan gem businesses and have heard gemstock with the monopoly of the monopoly?
-
-The city of Ibkagaskara, Madagaska, is a city that has been promoted.
-
-For two decades, hundreds of decades have been traveling to Madagascar and engage in business and carrying out its permanent residence.
-
-Hundreds of gem merchants Madagascar and their deeds were agreed to comment on these experiences.
-
-They also accredited BBC Sinhala service and talk to their protection.
-
-Rigal Bae, a resident of Matale, visited Madagascar for the first time.
-
-"99 The man named Rigal Bye, Matale, knows that there are gemsters. The acquaintance of the Ilakaka was in the city of Illakaka. In those days, people have no knowledge of gems. "The BBC had told the BBC Sinhala service from Madagascar to Minister BBC.
-
-...
-
-[Data](articles/e2b12a84.json)
-
-[Extended Data](ext_articles/e2b12a84.ext.json)
-
----
-
-### Abolishment of Executive Presidency must only happen following 2024 poll – Marikkar
-
-*2024-02-13 01:35:42* · [`dailyftlk`](https://www.ft.lk/news/Abolishment-of-Executive-Presidency-must-only-happen-following-2024-poll-Marikkar/56-758421) · `en`
-
-Says SJB will not support any effort to abolish post before elections are held
-
-Claims it will only allow Ranil Wickremesinghe and SLPP to remain in power
-
-Stresses its important to allow people to exercise their democratic right to vote to avoid further crisis
-
-Slams NPP’s recent visit to India while recalling party’s past of opposing ‘Indian Expansionism’ in SL
-
-Samagi Jana Balawegaya (SJB) Deputy National Organiser and MP S.M. Marikkar yesterday proposed that the country must only abolish the Executive Presidency following the Presidential election of 2024.
-
-Addressing a press conference, Marikkar said the SJB would not endorse any attempt to eliminate the position before the election, as it would only serve to enable President Ranil Wickremesinghe and the Sri Lanka Podujana Peramuna (SLPP) to prolong their tenure in power.
-
-...
-
-[Data](articles/72c15cc5.json)
-
-[Extended Data](ext_articles/72c15cc5.ext.json)
-
----
-
-### HRCSL alarmed by OSA compliance issues with SC determination
-
-*2024-02-13 01:34:41* · [`dailyftlk`](https://www.ft.lk/news/HRCSL-alarmed-by-OSA-compliance-issues-with-SC-determination/56-758420) · `en`
-
-The Human Rights Commission of Sri Lanka (HRCSL) has raised concerns about potential non-compliance with the Supreme Court’s Determination regarding the recently enacted Online Safety Act. In a letter addressed to the Speaker of Parliament, the HRCSL highlighted that the Supreme Court had identified over 30 clauses and omissions in the original Online Safety Bill that were inconsistent with the Constitution.
-
-While the Court permitted Parliament to proceed with the Bill after incorporating specific amendments, the HRCSL’s review of the enacted Act suggests that these changes may not have been fully implemented. The Commission emphasised that enacting legislation without addressing the Court’s concerns raises serious questions about the Act’s compliance with the Constitution, particularly regarding fundamental rights protections.
-
-...
-
-[Data](articles/39a19d1b.json)
-
-[Extended Data](ext_articles/39a19d1b.ext.json)
-
----
-
-### COYLE’s Diplomats’ Evening 2024 marks strategic steps for Sri Lanka’s economy
-
-*2024-02-13 01:34:02* · [`dailyftlk`](https://www.ft.lk/business/COYLE-s-Diplomats-Evening-2024-marks-strategic-steps-for-Sri-Lanka-s-economy/34-758419) · `en`
-
-COYLE, successfully hosted the annual Diplomats’ Evening on 25 February at Hilton Blue Colombo, marking another milestone in furthering global marketplaces for Sri Lanka’s economic resurgence. With a commitment to fostering equitable growth, this exclusive event aimed to fortify the local employee base through foreign investments obtained via diplomatic relations.
-
-The event, enforced COYLE’s annual theme “Evolution” highlighting the resilience and transformative spirit within the entrepreneurial community. Foreign Minister Ali Sabry participated the occasion as the chief guest, delivering a compelling message on the pivotal role of international cooperation in bolstering Sri Lanka’s economy. Recognising COYLE’s dedication to expanding the export market, the Foreign Ministry commended COYLE’s efforts.
-
-...
-
-[Data](articles/ebbf0930.json)
-
-[Extended Data](ext_articles/ebbf0930.ext.json)
-
----
-
-### EU - Sri Lanka discussions on enhancing bilateral trade ties
-
-*2024-02-13 01:32:52* · [`dailyftlk`](https://www.ft.lk/business/EU-Sri-Lanka-discussions-on-enhancing-bilateral-trade-ties/34-758418) · `en`
-
-The EU - Sri Lanka Working Group on Trade and Economic Cooperation was organised by the Department of Commerce and was held on 6 February virtually with the participation of high level delegates from the two sides.
-
-The session was co-chaired by EU side Directorate General for Trade of the European Commission Director (trade relations with Africa, Caribbean and Pacific regions, South and South-East Asia, Australia and New Zealand, Trade and Sustainable Development, the Green Deal) Dora Correia and Sri Lanka side Ministry of Trade, Commerce and Food Security Secretary A.M.P.M.B. Atapattu. Ambassador Designate of Sri Lanka to Belgium, Luxembourg and the EU H.E. Chandana Weerasena, and the EU Delegation in Colombo also attended the session. The two sides engaged in productive deliberations to enhance bilateral trade ties between the EU and Sri Lanka.
-
-...
-
-[Data](articles/5f8e4f9b.json)
-
-[Extended Data](ext_articles/5f8e4f9b.ext.json)
 
 ---

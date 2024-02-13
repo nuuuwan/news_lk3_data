@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 01:02:44**
+As of **2024-02-14 01:17:31**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ dailymirrorlk | 1,001
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,821 (100.0%) of 6,822 articles have been extended.
+6,822 (100.0%) of 6,822 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### சுங்க பிரிவின் அனுமதியின்றி கொள்வனவு செய்யப்பட்ட 1500 இலட்சம் ரூபாய் பெறுமதி மிக்க ஆடைகள் பறிமுதல்
+### 1500 lakhs worth of garments purchased without the permission of the Customs Unit
 
 *2024-02-14 00:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176311) · `ta`
 
-சுங்க பிரிவின் அனுமதியின்றி கொள்வனவு செய்யப்பட்ட 1500 இலட்சம் ரூபாய் பெறுமதி மிக்க ஆடைகள் இலங்கை சுங்கத்தின் சுங்க வருவாய் கண்காணிப்பு பிரிவினரால் பறிமுதல் செய்யப்பட்டுள்ளது.
+The Customs Revenue Surveillance Division of the Customs Customs Department of Customs has been seized by the Sri Lanka Customs Customs.
 
-மலேசியாவிலிருந்து நாட்டிற்கு வந்திருந்த சந்தேகத்துக்கிடமான 4 கொள்கலன்கள் ஒருகொடவத்தை பகுதியில் உள்ள சரக்குப் பொருள் ஏற்றி இறக்கும் முனையத்தில் சுங்கப் பிரிவினரால் தடுத்து நிறுத்தப்பட்டு செவ்வாய்க்கிழமை (13) சோதனைக்கு உட்படுத்தப்பட்டது.
+4 suspected 4 containers from Malaysia to the country were detained by the Customs Division on Tuesday (13).
 
-இதன்போது கொள்கலன்களில் பிரபல நிறுவனம் ஒன்றிலிருந்து சுமார் 1,60,000 ஆடைகள் கொள்வனவு செய்யப்பட்டு சுங்க வரி செலுத்தாமல் நாட்டிற்குள் கொண்டுவரப்பட்டுள்ளதாகச் சுங்க வருவாய் கண்காணிப்பு பிரிவு தெரிவித்துள்ளது. சரக்கின் உரிமையாளர் சுங்கத்திற்குச் சமர்ப்பித்த அனைத்து ஆவணங்களில் துணிவகைகள் மாத்திரம் கொள்வனவு செய்வதற்காகத் தெரிவித்து ஆடைகளைக் கொள்வனவு செய்துள்ளமை விசாரணைகளின் போது தெரியவந்துள்ளது.
+The Customs Monitoring Unit said that about 1,60,000 garments were purchased from one of the most popular company in the containers.. Investigations have revealed that all the documents submitted to the customary customs have been reported to be purchased for only clothes.
 
-...
+The Customs Department said that the value of the confiscated clothes was estimated at around Rs 1500 lakhs and would have suffered about 60 million rupees to the customs if they were released to the market.
+
+In addition, the Customs Unit are conducting further investigations into the owner and seized garments.
+
+◼️
 
 [Data](articles/9e9e46ba.json)
+
+[Extended Data](ext_articles/9e9e46ba.ext.json)
 
 ---
 

@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 00:17:29**
+As of **2024-02-14 00:33:03**
 
 ## Newspaper Stats
 
-*Scraped **6,814** Articles*
+*Scraped **6,821** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 80
 bbccomsinhala | 92
 dbsjeyarajcom | 148
-economynextcom | 345
+economynextcom | 350
 islandlk | 358
 dailyftlk | 359
 newsfirstlk | 363
 adalk | 581
 tamilmirrorlk | 835
-adaderanalk | 836
+adaderanalk | 838
 virakesarilk | 862
 adaderanasinhalalk | 954
 dailymirrorlk | 1,001
@@ -26,25 +26,43 @@ dailymirrorlk | 1,001
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,813 (100.0%) of 6,814 articles have been extended.
+6,814 (99.9%) of 6,821 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
-### கனேடியத் தூதுவரை சந்தித்த சிறீதரன், சாள்ஸ்
+### Sreedharan, who met the Canadian Ambassador
 
 *2024-02-13 23:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176310) · `ta`
 
-இலங்கைக்கான கனேடியத் தூதரகத்தின் அழைப்பின் பேரில், பாராளுமன்ற உறுப்பினர்களான சிவஞானம் சிறீதரன் மற்றும் சாள்ஸ் நிர்மலநாதன் ஆகியோர்  13 ஆம் திகதி செவ்வாய்க்கிழமை கனேடியத் தூதுவர் எரிக் வோல்ஸை சந்தித்தார்கள்.
+At the invitation of the Canadian embassy in Sri Lanka, MPs Sivagnanam Sreedharan and Charles Nirmalanathan met Canadian Ambassador Eric Wols on Tuesday 13th.
 
-இச்சந்திப்பில் கனேடியத் தூதரகத்தின் அரசியல் ஆலோசகர் டேனியல் வூட், அரசியல் அலுவலர் கணேசநாதன் சாகித்தியனன் ஆகியோரும் பங்கேற்றிருந்தனர்.
+Daniel Wood of the Canadian Embassy Daniel Wood and Political Officer Ganesanathan Sahityanan were also present.
 
-இலங்கைத் தமிழரசுக் கட்சியின் புதிய தலைவராகத் தெரிவுசெய்யப்பட்டமைக்காக சிறீதரன் எம்.பிக்கு வாழ்த்துகளைத் தெரிவித்த தூதுவர், ஈழத்தமிழர்களின் அரசியல் நலன்சார்ந்து முன்னெடுக்கவுள்ள செயற்பாடுகளுக்கு தம்மாலான பங்களிப்பை வழங்கத் தயாராக உள்ளதாகவும் தெரிவித்திருந்தார்.
+The Ambassador congratulated Sreedharan MP for elected as the new leader of the Sri Lankan Tamil party and said he was ready to contribute to the political welfare of the Eelam Tamils.
 
 ◼️
 
 [Data](articles/d6309b0a.json)
+
+[Extended Data](ext_articles/d6309b0a.ext.json)
+
+---
+
+### Regulations to safeguard citizens’ rights in personal data handling to be finalized soon
+
+*2024-02-13 23:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97246/regulations-to-safeguard-citizens-rights-in-personal-data-handling-to-be-finalized-soon) · `en`
+
+Sri Lanka Data Protection Authority’s Chairman, Arjuna Herath, has asserted that rules and regulations crucial for overseeing the protection of citizen rights within both public and private sector entities involved in personal data processing would be finalized at the earliest possible.
+
+This initiative, emphasized in the preamble of the Personal Data Protection Act, aims to not only ensure compliance but also foster an environment conducive to digital economic growth and innovation.
+
+Following the issuance of an Extraordinary Gazette notification for the Personal Data Protection Act No. 9 of 2022 by the President, and in accordance with constitutional provisions vested in the Minister of Technology, Part V of the Act will be enforced starting July 2023. This will empower the President to appoint the Chairman and Board of Directors for the Authority.
+
+...
+
+[Data](articles/c68b2f32.json)
 
 ---
 
@@ -109,6 +127,28 @@ The consignees of this shipment were identified as apparel companies located in 
 [Data](articles/5510c4c7.json)
 
 [Extended Data](ext_articles/5510c4c7.ext.json)
+
+---
+
+### Customs impound illegally imported readymade garments worth Rs. 150mn
+
+*2024-02-13 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97245/customs-impound-illegally-imported-readymade-garments-worth-rs-150mn) · `en`
+
+Sri Lanka Customs on Tuesday (Feb.13) foiled an attempt to smuggle in 4 container loads of readymade garments worth approximately Rs. 150 million.
+
+The shipment, falsely declared as fabric, had been sent from Malaysia. Around 44,000 readymade garments were recovered from each container.
+
+Had the containers been cleared undetected, the government would have incurred a loss to the tune of Rs. 60 million in tax revenues, Customs officials revealed.
+
+The consignees of this shipment were identified as apparel companies located in Wattala, Colombo and Panadura.
+
+Additionally, two other illegally imported containers carrying 12,688kg of black grams worth Rs. 8.8 million were also impounded by the Customs officials. These shipments had been brought into the island by falsely declaring them as rice.
+
+Customs said the government would have lost tax revenues of Rs. 3.8 million had these containers been given clearance.
+
+...
+
+[Data](articles/8aa5b265.json)
 
 ---
 
@@ -806,6 +846,24 @@ The sum of tax revenue the Customs would have incurred if the cargo was cleared 
 
 ---
 
+### Sri Lanka committed to reconciliation through domestic institutions: Minister
+
+*2024-02-13 18:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-committed-to-reconciliation-through-domestic-institutions-minister-150734/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s is committed to pursuing progress on reconciliation and human rights through domestic institutions, its Minister of Foreign Affairs has said.
+
+“I emphasized Sri Lanka’s commitment to pursuing tangible progress on reconciliation and Human Rights through domestic institutions while maintaining its constructive engagement with the United Nations,” Minister of Foreign Affairs M U M Ali Sabry said on social media platform X (twitter).
+
+Sabry chaired the inaugural session of the Inter-Ministerial Standing Committee on Human Rights at the Ministry pf Foreign Affairs on Tuesday (13).
+
+Foreign Secretary Aruni Wijewardane, Sabri said, “explained the structure of the Committee as a permanent national framework to ensure efficient coordination and reporting on Sri Lanka’s voluntary international commitments regarding human rights and reconciliation. (Colombo/February13/2024)
+
+◼️
+
+[Data](articles/48540b1d.json)
+
+---
+
 ### US Senate passes $95 bln aid bill for Ukraine, Israel and Taiwan
 
 *2024-02-13 18:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97240/us-senate-passes-95-bln-aid-bill-for-ukraine-israel-and-taiwan) · `en`
@@ -841,6 +899,56 @@ Social activist Oshala Herath filed this appeal before the Supreme Court seeking
 [Data](articles/e6c8deef.json)
 
 [Extended Data](ext_articles/e6c8deef.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 313.10/30 to the US dollar
+
+*2024-02-13 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-313-10-30-to-the-us-dollar-150725/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 313.10/30 to the US dollar Tuesday, from 313.45/75 on Monday, dealers said.
+
+A bond maturing on 01.02.2026 closed at 10.50/60 percent down from 10.80/90 percent.
+
+A bond maturing on 15.09.2027 closed at 11.40/50 percent from 11.65/75 percent.
+
+A bond maturing on 15.03.2028 closed at 11.70/80 percent from 12.00/10 percent.
+
+A bond maturing on 15.07.2029 closed at 12.00/50 percent from 12.35/75 percent.
+
+A bond maturing on 15.05.2030 closed at 12.25/40 percent down from 12.15/35 percent.
+
+A bond maturing on 15.05.2031 closed at 12.25/75 percent from 12.45/85 percent.
+
+A bond maturing on 01.07.2032 closed at 12.25/75 percent down from 12.45/85 percent. (Colombo/Feb13/2024)
+
+◼️
+
+[Data](articles/2db7f012.json)
+
+---
+
+### Sri Lanka stocks close down, capital goods and bank sectors drive turnover
+
+*2024-02-13 17:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-capital-goods-and-bank-sectors-drive-turnover-150723/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
+
+The broader All Share Index closed down 26.74 points, or 0.25 percent at 10,557, while the S&P SL20 Index close at 3,022 points, down 0.32 percent, or 9.76 points.
+
+Shares of John Keells Holdings Plc saw high share turnover levels (176mn) and the share closed up at 188.00.
+
+Other companies that saw active volumes traded in the day were Commercial Bank of Ceylon Plc (71mn), the share closed flat at 89.50; and Sampath Bank Plc (57mn), the share closed down at 72.00.
+
+Positive contributors to the ASPI in the day included Central Finance Company Plc (up at 109.75), Aitken Spence Plc (up at 116.75), and Vallibel One Plc (up at 39.30).
+
+Cargills Bank Ltd announced it had changed its name to Cargills Bank Plc; the share closed down at 7.80.
+
+Ceylon Cold Stores Plc which announced an interim dividend of 1.426 rupees per share, closed flat at 47.00.
+
+...
+
+[Data](articles/99602a3f.json)
 
 ---
 
@@ -1076,6 +1184,22 @@ Naming Gamage and several others as the respondents of his appeal, Herath said h
 
 ---
 
+### Sri Lanka’s prison inmates officially join labour workforce
+
+*2024-02-13 16:42:00* · [`economynextcom`](https://economynext.com/sri-lankas-prison-inmates-officially-join-labour-workforce-150714/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Department of Prisons and the Industrial Development Board have signed a memorandum of understanding to establish industries in all prisons.
+
+“Through this, the incarcerated person as well as the country will get a big advantage. Inmates will be able to earn some money for the government’s expenses on their behalf during their imprisonment,” Commissioner General of Prisons, Thushara Upuldeniya was quoted in a statement.
+
+Entrepreneurs and industrialists will now have more opportunities to establish industries in all the prisons, and the Industrial Development Board and the Prisons Department will offer certificates to the inmates who are trained in the industries, the statement by the Department of Government Information said.
+
+...
+
+[Data](articles/bf84ef10.json)
+
+---
+
 ### Armed forces on duty at the hospital
 
 *2024-02-13 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176282) · `ta`
@@ -1293,6 +1417,24 @@ Subsequently, the police said that the police would obtain a court order and rec
 [Data](articles/3c079656.json)
 
 [Extended Data](ext_articles/3c079656.ext.json)
+
+---
+
+### Sri Lanka land prices will come down in the future: Minister
+
+*2024-02-13 15:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-land-prices-will-come-down-in-the-future-minister-150710/) · `en`
+
+ECONOMYNEXT – The prices of land in Sri Lanka will come down significantly due to government programmes such as gifting deeds and long-term leasing of lands to investors, Minister Bandula Gunawardena has said.
+
+“The gifting of deeds and the long-term lease of State lands will lead to the price of real estate dropping in the future,” Gunawardena said in response to a question by a journalist at a Cabinet decisions press briefing on Tuesday (10).
+
+“When State lands are released to investors they don’t have to buy land from the real estate market, so the artificial pricing will decrease, and competitive prices will come in.
+
+“Land in Sri Lanka has an artificial price, if you take land in Colombo its more expensive than land prices in developed countries. Our real estate market is a closed market. The gifting of deeds and the release of land for investment purposes opens the market.”
+
+...
+
+[Data](articles/5e7f297a.json)
 
 ---
 
@@ -1913,135 +2055,5 @@ The people accused the Department of Immigration and Emigration, but it does not
 [Data](articles/5e95cf69.json)
 
 [Extended Data](ext_articles/5e95cf69.ext.json)
-
----
-
-### Bideen joined with tiktek
-
-*2024-02-13 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193326) · `si`
-
-US President Joe Biden joined the social media for his election campaign.
-
-The President has launched tiktok account under the user name "@bidenhq" and the first video had been issued under the lol hey guys.
-
-It is reported that this account will be handled by the election campaign team.
-
-President Bidaman opened a Tikketok account in the backdrop of tiktopok for many US government devices for security reasons.
-
-◼️
-
-[Data](articles/b3199fa8.json)
-
-[Extended Data](ext_articles/b3199fa8.ext.json)
-
----
-
-### Two other Directors resign from NMRA
-
-*2024-02-13 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193325) · `si`
-
-Two others have resigned as the Director of the National Drug Regulatory Authority.
-
-Meanwhile, Mr. Manojj Gamage has informed the Secretary of the National Drug Regulatory Authority this morning (13).
-
-He has sent the letter to the Health Minister Ramesh Pathirana.
-
-◼️
-
-[Data](articles/98299eca.json)
-
-[Extended Data](ext_articles/98299eca.ext.json)
-
----
-
-### Presidential election this year - General Election will be held next year
-
-*2024-02-13 13:05:36* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-මේ-වසරේදී---මහ-මැතිවරණය-ලබන-වසරේදී/11-408055) · `si`
-
-President Mahinda Rajapaksa says that the President will be held at the time this year will be held a statement.However, the general election is held in 2025 and the financial allocation required for the election will be allocated in the respective budget in the year 2025.
-
-The Presidential Section further states that the Election Commission is responsible for holding elections.
-
-◼️
-
-[Data](articles/fe3f45ee.json)
-
-[Extended Data](ext_articles/fe3f45ee.ext.json)
-
----
-
-### The Presidential Elections will be held in a timely manner: Funds for the General Elections will be allocated in the 2025 budget - the Presidential Media Division
-
-*2024-02-13 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176273) · `ta`
-
-The Presidential Media Unit said that the presidential election will be held within a timely manner and the general election will be held next year.
-
-The funds will be allocated in the 2025 budget. The President's Media Division said that the responsibility of conducting elections depends on the Election Commission and the government will work with the Election Commission in the necessary occasions.
-
-◼️
-
-[Data](articles/38006605.json)
-
-[Extended Data](ext_articles/38006605.ext.json)
-
----
-
-### Forex housing loan scheme for Sri Lanka’s migrant workers
-
-*2024-02-13 13:00:00* · [`economynextcom`](https://economynext.com/forex-housing-loan-scheme-for-sri-lankas-migrant-workers-150704/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Foreign Employment Bureau and National Housing Development Authority will collaborate with licensed banks in the country to provide a housing loan programme for migrant workers, which is payable in foreign currency.
-
-“Our migrant workers, who go abroad with a housing dream, can obtain up to 10 million rupees as a loan for housing purposes, and a portion of this loan will be borne by the Foreign Employment Bureau,” Cabinet Spokesman, Bandula Gunawardena said on Tuesday (13) announcing the week’s Cabinet decisions.
-
-The loan amount obtained under the proposed loan scheme, has to be paid by foreign exchange remitted through legitimate channels within the period the loan receiver is engaged in an overseas employment, Gunawardena said.
-
-“Payments can be made in Sri Lankan rupees once the foreign employment term is completed and they have returned to this country.
-
-...
-
-[Data](articles/19c42712.json)
-
-[Extended Data](ext_articles/19c42712.ext.json)
-
----
-
-### Two more Director Board members of NMRA resign
-
-*2024-02-13 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97224/two-more-director-board-members-of-nmra-resign) · `en`
-
-Two more members of the Board of Directors of National Medicines Regulatory Authority (NMRA) have stepped down from their respective positions as directors.
-
-Accordingly, as many as three NMRA Director Board members including Attorney-at-Law Manoj Gamage have thus far vacated their posts.
-
-In his resignation letter submitted to Minister of Health Ramesh Pathirana, Gamage communicated his intention to step down as a Director of the NMRA with effect from today (Feb. 13).
-
-Gamage has emphasized in the letter that as a lawyer he worked for the betterment of the NMRA during his tenure, adding that, along with fellow board members, he has taken appropriate decisions to address a number of shortcomings in the NMRA.
-
-Slamming the conduct of the new NMRA chairman and its current administration, Gamage accused them of being part of the ‘conspiracies’ against President Ranil Wickremesinghe and the incumbent government.
-
-◼️
-
-[Data](articles/32795c2d.json)
-
-[Extended Data](ext_articles/32795c2d.ext.json)
-
----
-
-### Sri Lanka to begin pilot project with Microsoft to teach AI in schools
-
-*2024-02-13 12:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-begin-pilot-project-with-microsoft-to-teach-ai-in-schools-150700/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s cabinet of ministers has approved a proposal to introduce courses on artificial intelligence (AI) to the school curriculum, with a pilot project with support from Microsoft set to begin from grade 8 upwards.
-
-A statement from the Government Information Department said on Tuesday February 13 that President Ranil Wickremesinghe in his capacity of Minister of Technology and Minister of Education Susil Premajayantha have proposed that the project is carried out in schools where “the necessary basic human resources are available”.
-
-Among the proposals is to revise the international syllabus currently implemented by Microsoft based on the recommendations of the National Institute of Educational and commence the proposed pilot projects from grade 8 in schools where the necessary basic human resources are available.
-
-...
-
-[Data](articles/f4866278.json)
-
-[Extended Data](ext_articles/f4866278.ext.json)
 
 ---

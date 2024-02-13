@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 21:02:29**
+As of **2024-02-13 21:17:35**
 
 ## Newspaper Stats
 
-*Scraped **6,790** Articles*
+*Scraped **6,794** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 358
 dailyftlk | 359
 newsfirstlk | 363
 adalk | 581
-tamilmirrorlk | 831
 adaderanalk | 833
+tamilmirrorlk | 835
 virakesarilk | 856
 adaderanasinhalalk | 949
 dailymirrorlk | 995
@@ -26,11 +26,23 @@ dailymirrorlk | 995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,781 (99.9%) of 6,790 articles have been extended.
+6,790 (99.9%) of 6,794 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### சுகாதாரத்துறை அத்தியாவசிய சேவையாக பிரகடனம்
+
+*2024-02-13 20:40:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதாரத்துறை-அத்தியாவசிய-சேவையாக-பிரகடனம்/175-333159) · `ta`
+
+மருத்துவமனைகள், முதியோர் இல்லங்கள், மருந்தகங்கள் போன்றவற்றில் நோயாளிகளின் பராமரிப்பு, வரவேற்பு, பராமரிப்பு, உணவு சிகிச்சை போன்றவற்றிற்கு தேவையான அனைத்து சேவைகள், வேலை அல்லது அவசியமான உழைப்பு அல்லது தேவையான அனைத்து சேவைகளையும் அத்தியாவசிய சேவையாக அறிவித்து அரசால் வர்த்தமானி வெளியிடப்பட்டுள்ளது .
+
+◼️
+
+[Data](articles/aaac12e0.json)
+
+---
 
 ### Health services declared as Essential Public Service
 
@@ -43,6 +55,8 @@ The gazette notification has been issued by President Ranil Wickremesinghe by vi
 ◼️
 
 [Data](articles/b3cc46f2.json)
+
+[Extended Data](ext_articles/b3cc46f2.ext.json)
 
 ---
 
@@ -70,6 +84,8 @@ Batsman Najmul Hossain Shanto will lead Bangladesh in all three formats after hi
 
 [Data](articles/262d2e19.json)
 
+[Extended Data](ext_articles/262d2e19.ext.json)
+
 ---
 
 ### Pidurutalagala must be reopened for tourists
@@ -87,6 +103,8 @@ The Piduruthalagala mountain area has high educational and tourism value, and it
 ◼️
 
 [Data](articles/75640ea1.json)
+
+[Extended Data](ext_articles/75640ea1.ext.json)
 
 ---
 
@@ -126,45 +144,101 @@ However, the suggestion is to be challenged in the next stage.
 
 ---
 
-### இங்கிலாந்துக்கு எதிரான 3ஆவது டெஸ்ட்: இந்திய அணியில் ராகுல் இல்லை
+### 3rd Test against England: Rahul is not in the Indian team
 
 *2024-02-13 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176304) · `ta`
 
-இங்கிலாந்துக்கு எதிரான 3ஆவது டெஸ்ட் கிரிக்கெட் போட்டி ராஜ்கொட்டில் புதன்கிழமை (15) ஆரம்பமாகவுள்ள நிலையில் உபாதை காரணமாக முக்கிய வீரர் கே. எல். ராகுலை இந்தியா இழந்துள்ளது.
+The 3rd Test match against England begins in Rajkot on Wednesday (15). L. India has lost Rahul.
 
-முதலாவது டெஸ்ட் போட்டியில் விளையாடி, உபாதை காரணமாக இரண்டாவது டெஸ்டை தவறவிட்ட கே. எல். ராகுல், கடைசி 3 டெஸ்ட் போட்டிகளுக்கான குழாத்தில் பெயரிடப்பட்டிருந்தார்.
+Gay missed the second Test in the first Test match. L. Rahul was named in the last 3 Tests.
 
-ஆனால், ரவிந்த்ர ஜடேஜாவைப் போன்று ராகுலும் விளையாடுவது அவரது உடற் தகுதியில் தங்கி இருந்தது.
+However, Rahul played like Ravindra Jadeja was in his fitness.
 
-இந்திய கிரிக்கெட் கட்டுப்பாட்டுச் சபையின் மருத்துவக் குழுவின் அறிக்கையில், ராகுல் 90 வீதம் உடற்தகுதியை பெற்றுள்ளதாகவும் அடுத்த டெஸ்ட் வரை அவர் காத்திருக்க வேண்டிவரும் எனவும் குறிப்பிடப்பட்டுள்ளது.
+According to a report by the Medical Committee of the Indian Cricket Control Board, Rahul has received 90 % fitness and he will have to wait until the next Test.
 
-இந்திய ஏ அணி, கர்நாடகா அணி ஆகியவற்றுக்காக திறமையாகத் துடுப்பெடுத்தாடிவரும் படிக்கல், டெஸ்ட் அறிமுகம் பெறுவார் என கருதப்படுகிறது.
+It is thought that he will be introduced to the Indian A team and the Karnataka team.
 
-தனிப்பட்ட காரணஙகளுக்காக விராத் கோஹ்லி அணியில் இடம்பெறாததுடன் ஷ்ரேயாஸ் ஐயரை தெரிவாளர்கள் கருத்தில் கொள்ளவில்லை.
+Virat Kohli was not included in the squad for personal reasons and the selectors did not consider Shreyas Iyer.
 
-விசாகப்பட்டினத்தில் டெஸ்ட் அறிமுகம் பெற்ற ராஜாத் பட்டிடார், பெரும்பாலும் 3ஆவது டெஸ்ட் போட்டியில் விளையாடுவார் என எதிர்பார்க்கப்படுகிறது.
+Rajad Patidar, who debuted in Visakhapatnam, is often expected to play in the 3rd Test.
 
 ...
 
 [Data](articles/3079e25a.json)
 
+[Extended Data](ext_articles/3079e25a.ext.json)
+
 ---
 
-### පේරේ කෘෂි පීඨයේ ඌරෙක් මරා මස් කරලා
+### ”சஜித் கட்சியின் கட்டுப்பாட்டை இழந்து வருவதைக் காண முடிகிறது”
+
+*2024-02-13 19:35:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-கட்சியின்-கட்டுப்பாட்டை-இழந்து-வருவதைக்-காண-முடிகிறது/175-333158) · `ta`
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவின் கட்சியான ஐக்கிய மக்கள் சக்தியின் (SJB) கட்டுப்பாட்டை இழந்து வருவதைக் காணக்கூடியதாக உள்ளது, ஏனெனில் பல முக்கிய உறுப்பினர்கள் ஜனாதிபதிக்கு ஆதரவளிக்க விருப்பம் தெரிவித்துள்ளதாக ஐக்கிய தேசியக் கட்சியின் பொதுச் செயலாளர் பாலித ரங்கே பண்டார இன்று தெரிவித்தார்.
+
+"சஜித் நிலைத்திருக்க வேண்டுமானால் ஐ.தே.க வில் இணைவதற்கான கதவு திறந்தே உள்ளது. பிரேமதாசவை நிராகரிப்பதற்கு எங்கள் தலைவருக்கு எந்தவொரு ஆட்சேபனையும் இல்லை, அவர் தற்போது தனது முந்தைய போட்டியாளரான SLPP உடனேயே இணைந்து பணியாற்றுகிறார் " என ரங்கே பண்டார மேலும் கூறினார்.
+
+"ஜனாதிபதி விக்கிரமசிங்கவுக்கு ஆதரவளிக்கத் தயாராக இருப்பதாகவும், சரியான நேரத்தில் கட்சியை விட்டு விலகுவதாகவும் எஸ்.ஜே.பி.யின் சில முக்கிய உறுப்பினர்கள் எமக்கு அறிவித்துள்ளனர். எனவே, எஸ்.ஜே.பி. தலைவர் வெகு சீக்கிரத்தில் கட்சியின் கட்டுப்பாட்டை இழக்க நேரிடும்" என்று ஐ.தே.க பொதுச் செயலாளர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/75920f87.json)
+
+---
+
+### அனுரவை சந்தித்தார் ஐரோப்பிய ஒன்றிய தூதுவர்
+
+*2024-02-13 19:25:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவை-சந்தித்தார்-ஐரோப்பிய-ஒன்றிய-தூதுவர்/175-333157) · `ta`
+
+இலங்கைக்கான ஐரோப்பிய ஒன்றியத்தின் தூதுவர் கார்மென் மொரேனோ இன்று பிற்பகல் ஜே.வி.பி தலைமையகத்தில் NPP தலைவர் அனுரகுமார திஸாநாயக்கவை சந்தித்தார்.
+
+இலங்கையில் நிலவும் பொருளாதார நெருக்கடி மற்றும் அரசியல் சூழ்நிலைகள் குறித்து அவர்கள் விவாதித்ததாக கட்சி வட்டாரங்கள் தெரிவித்தன.
+
+மனித உரிமைகளை நிலைநாட்டுதல், ஜனநாயகம், தேர்தல் ஒத்திவைப்பு மற்றும் சமீபத்தில் இயற்றப்பட்ட ஒன்லைன் பாதுகாப்பு சட்டம் குறித்தும் விவாதிக்கப்பட்டது.
+
+ஐரோப்பிய ஒன்றியத்தின் இலங்கைக்கான பிரதிநிதிகள் குழுவின் பிரதித் தலைவர் லார்ஸ் பிரெடல் மற்றும் NPP பாராளுமன்ற உறுப்பினர் விஜித ஹேரத் ஆகியோர் இந்த சந்திப்பில் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/6562f4fc.json)
+
+---
+
+### Pig was killed in the Faculty Faculty
 
 *2024-02-13 19:25:21* · [`adalk`](https://www.ada.lk/breaking_news/පේරේ-කෘෂි-පීඨයේ-ඌරෙක්-මරා-මස්-කරලා/11-408065) · `si`
 
-පේරාදෙණිය විශ්ව විද්‍යාලයේ කෘෂිකර්ම පීඨයට අයත් ගොවිපොළේ සිටි කිලෝ පනහකට ආසන්න බරකින් යුත් ඌරෙකු සොරකම් කොට මරා මස් කළ බව කියන පුද්ගලයන් තිදෙනෙකු සැකපිට අත්අඩංගුවට ගෙන තිබේ .
+Three persons who were hearing near a fifty kilos of the agricultural faculty of the Peradeniya University have been arrested on suspicion.
 
-පේරාදෙණිය විශ්වවිද්‍යාලයේ කෘෂිකර්ම පීඨයේ ගොවිපළේ කළමනාකරු විසින් පේරාදෙණිය පොලිසියට සිදු කරන ලද පැමිණිල්ලකට අනුව විමර්ශන සිදුකොට උඩ පේරාදෙණිය ප්‍රදේශයේ පදිංචි පුද්ගලයන් තිදෙනෙකු එම ඌරාගේ බවට සැක මස් කිලෝ පහක් ද සමඟ අත්අඩංගුවට ගෙන තිබේ .
+According to a complaint lodged by the Faculty of Agriculture, University of Peradeniya, has been arrested by the Peradeniya police station with a complaint resident of Peradeniya.
 
-උඩපේරාදෙණිය ප්‍රදේශයේ පිහිටි එම ගොවිපළේ සිටි රුපියල් 50,000 ක් පමණ වටිනා එම ඌරා රාත්‍රී කාලයේ ගොවිපළ තුළදීම මරා රැගෙන ගොස් මස් අලෙවි කොට ඇති බවට පොලිස් විමර්ශන වලදී අනාවරණය වී තිබේ .
+According to police investigations, police investigations have revealed that the pig was killed in the farm of Rs. 50,000 in the Udapurayeniya area.
 
-සැකකරුවන් අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිත අතර පේරාදෙණිය පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක විජිත් විජේකෝන් මහතාගේ උපදෙස් පරිදි අපරාධ අංශය වැඩිදුර විමර්ශන සිදුකරයි.
+The suspects are to be produced before courts and the Criminal Division is conducting further investigations.
 
 ◼️
 
 [Data](articles/6cb89d08.json)
+
+[Extended Data](ext_articles/6cb89d08.ext.json)
+
+---
+
+### டயானாவின் பிரஜாவுரிமை வழக்கு;விரைவில் தீர்ப்பு
+
+*2024-02-13 19:17:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானாவின்-பிரஜாவுரிமை-வழக்கு-விரைவில்-தீர்ப்பு/175-333156) · `ta`
+
+இராஜாங்க அமைச்சர் டயானா கமகேவின் பாராளுமன்ற ஆசனத்தின் சட்டபூர்வமான தன்மையை சவாலுக்கு உட்படுத்தும் ரிட் மனுவை நிராகரித்த மேன்முறையீட்டு நீதிமன்றத்தின் தீர்ப்பை எதிர்த்து தாக்கல் செய்யப்பட்ட மேன்முறையீட்டு மனு மீதான விசாரணையை உயர் நீதிமன்றம் இன்றுடன் நிறைவு செய்தது.
+
+இந்த மேன்முறையீட்டு மனு தொடர்பான தீர்ப்பை உரிய நேரத்தில் வழங்குவதாக உயர் நீதிமன்ற நீதியரசர்களான காமினி அமரசேகர, குமுதுனி விக்கிரமசிங்க மற்றும் ஜனக் டி சில்வா ஆகிய மூவரடங்கிய நீதிபதிகள் குழாம் அறிவித்துள்ளது.
+
+டயானா கமகே பாராளுமன்ற உறுப்பினராக இருக்க தகுதியற்றவர் என்று சமூக ஆர்வலர் ஓஷல ஹேரத் உயர் நீதிமன்றத்தில் இந்த மேல்முறையீட்டு மனுவை தாக்கல் செய்தார்.
+
+மேன்முறையீட்டு நீதிமன்ற நீதியரசர் கே.கே.ஏ.வி ஸ்வர்ணாதிபதி இணங்கிய நிலையில், மேன்முறையீட்டு நீதிமன்றத்தின் தலைவர் நீதியரசர் நிஸ்ஸங்க பந்துல கருணாரத்ன 2023 ஆம் ஆண்டு ஒக்டோபர் 31 ஆம் திகதி தனது தீர்ப்பில், வழக்கின் தகுதிகள் ரிட் உத்தரவை வழங்குவதற்கு உத்தரவாதமளிக்காது எனத் தெரிவித்தார்.
+
+...
+
+[Data](articles/66b252b5.json)
 
 ---
 
@@ -184,37 +258,41 @@ Speaking to the Free Press Journal on the sidelines of the recently concluded tr
 
 ---
 
-### විද්‍යුත් මාධ්‍ය විකාශන අධිකාරී පනත ඉදිරියේදී
+### Electronic Media Broadcast Superintendance Act
 
 *2024-02-13 19:09:04* · [`adalk`](https://www.ada.lk/breaking_news/විද්‍යුත්-මාධ්‍ය-විකාශන-අධිකාරී-පනත-ඉදිරියේදී/11-408064) · `si`
 
-විද්‍යුත් මාධ්‍ය විකාශන අධිකාරී පනත ඉදිරියේදී සම්මත කරගැනීමට බලාපොරොත්තු වනවා – ජනමාධ්‍ය රාජ්‍ය අමාත්‍ය ශාන්ත බණ්ඩාර
+The electronic media Broadcast Superintendance Activity Act will be passed in the future - Media Media Minister of Magama
 
-විද්‍යුත් මාධ්‍ය විකාශන අධිකාරී පනත පාර්ලිමේන්තුවට ඉදිරිපත් කොට සම්මත කරගැනීමට බලාපොරොත්තු වන බව ජනමාධ්‍ය රාජ්‍ය අමාත්‍ය ශාන්ත බණ්ඩාර මහතා පැවසීය.
+The electronic media Broadcasting Authority Act to Parliament will be presented to Parliament and is expected to be adopted to parliament, he said.
 
-ජාතික ජනමාධ්‍ය ප්‍රතිපත්තියක් ඉදිරිපත් කිරීමට බලාපොරොත්තු වන අතර එය මේ වන විට කැබිනට් අනුමැතිය සඳහා යොමු කර ඇති බව ද අමාත්‍යවරයා සඳහන් කළේය.
+He is expected to submit a national media policy and has been referred to the approval of the Cabinet.
 
-ජනමාධ්‍ය රාජ්‍ය අමාත්‍ය ශාන්ත බණ්ඩාර මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (13) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+The media Minister of Mass Media Statethism said this from a press conference held at the Presidential Media Center today (13) at the Presidential Media Center.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනමාධ්‍ය රාජ්‍ය අමාත්‍ය ශාන්ත බණ්ඩාර මහතා මෙසේ ද පැවසීය,
+Speaking further the media Minister Shantha Bandara said:
 
-වර්තමානයේ අපට තිබුණු ප්‍රධානම අභියෝගයක් වූයේ ආදායම් වියදම් කළමනාකරණය කිරීම සම්බන්ධ ගැටලුවයි. එහිදී අප අමාත්‍යාංශය සතුව පවතින ආයතන 16 පිළිබඳවම විශේෂ අවධානයක් යොමු කළා. ඉන් බහුතරයක්ම මහා භාණ්ඩාගරය මත යැපෙන තත්ත්වයේ පැවතුණා. ඒ නිසා මෙම ආයතන ස්වාධීනව ඉදිරියට ගමන් කිරීම සම්බන්ධයෙන් අප කටයුතු කළා.
+One of the most important challenge we had today was the management of income costs. There are special attention on the 16 institutions that our Ministry has. Most of them were dependent on the Treasury. As such, we were on the advance of these institutions.
 
 ...
 
 [Data](articles/052b6932.json)
 
+[Extended Data](ext_articles/052b6932.ext.json)
+
 ---
 
-### ஐக்கிய மக்கள் சக்தியின் தொகுதி அமைப்பாளரான அசங்க பெரேரா மீண்டும் ஐக்கிய தேசிய கட்சியில் இணைவு
+### Asanga Perera, the organizer of the United People's Power
 
 *2024-02-13 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176303) · `ta`
 
-ஐக்கிய தேசிய கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் காமினி ஜயவிக்ரம பெரேராவின் மகனும் ஐக்கிய மக்கள் சக்தியின் கடுகம்பல தொகுதி அமைப்பாளருமான அசங்க பெரேரா மீண்டும் ஐக்கிய தேசிய கட்சியில் இணைந்துகொண்டுள்ளார்.
+Asanga Perera, son of former United National Party (UNP) parliamentarian Gamini Jayawickrama Perera and UNP's Kadukambala constituency organizer, has reunited.
 
 ◼️
 
 [Data](articles/b26d55b0.json)
+
+[Extended Data](ext_articles/b26d55b0.ext.json)
 
 ---
 
@@ -912,23 +990,27 @@ As per the undertaking given by the state-owned electricity supplier, this annua
 
 ---
 
-### විදුලි බල මණ්ඩලය තැන්පතුවට පොලිය ගෙවන්න එකඟ වෙයි
+### The CEB agrees to pay interest in interest
 
 *2024-02-13 14:59:41* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බල-මණ්ඩලය-තැන්පතුවට-පොලිය-ගෙවන්න-එකඟ-වෙයි/11-408061) · `si`
 
-අලුතින් විදුලි සැපයීමක් ලබාදීමේදී ලංකා විදුලිබල මණ්ඩලය  පාරිභෝගිකයින්ගෙන් අයකර ගන්නා තැන්පතු මුදල් සඳහා 2023 වසර වෙනුවෙන් පොලිය ගෙවීමට සූදානම් බව ලංකා විදුලිබල මණ්ඩලය අද (13) ශ්‍රේෂ්ඨාධිකරණය හමුවේ දැනුම් දුන්නේය.
+The Ceylon Electricity Board (CEB) informed the Supreme Court today that the Ceylon Electricity Board is ready to pay interest in the year 2023.
 
-විදුලිබල හා පුනර්ජනනීය බලශක්ති පාරිභෝගික සංගමය විසින් ගොනුකළ මූලික අයිතිවාසිකම් පෙත්සමක් අද කැඳවනු ලැබූ අවස්ථාවේදී මෙම දැනුම්දීම සිදුකෙරුණි.
+The notice was made when a fundamental rights petition was called by the Electricity and Renewable Energy Consumer Association.
 
-මෙම පෙත්සම අද එස්. තුරෙයිරාජා, ගාමිණී අමරසේකර සහ යසන්ත කෝදාගොඩ යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+This petition is today. The three-member Judge was called before the Supreme Court Judge of Turairajah and Gamini Amarasekera and Yasantha Kodagoda.
 
-එම අවස්ථාවේදී ලංකා විදුලිබල මණ්ඩලය වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරාල් නිර්මලන් විග්නේෂ්වරන් මහතා අධිකරණය හමුවේ කරුණු දක්වමින් නව විදුලි සම්බන්ධතා ලබාදීමේදී ලංකා විදුලිබල මණ්ඩලය විසින් පාරිභෝගිකයින්ගෙන් අයකර ගන්නා තැන්පතු මුදල් වෙනුවෙන් 2023 වසර සඳහා සියයට 11.67ක වාර්ෂික පොලියක් ගෙවීමට සූදානම් බව දැනුම් දුන්නේය.
+The Deputy Solicitor General Nirman Wigneswaran, who appeared in the Court of Ceylon Electricity Board, informed the Ceylon Electricity Board to pay an annual interest rate of 11.67 percent for the deposits of customers.
 
-එම පොලිය 2024 වසරේ ජනවාරි මාසයේ සිට ගෙවීමට ලංකා විදුලිබල මණ්ඩලය විසින් කටයුතු කරන බවත් ඔහු දන්වා සිටියේය.
+He also informed the Ceylon Electricity Board (CEB) to pay the interest in January 2024.
 
-...
+The Supreme Court has set the petition to be summoned on March 21, to investigate this payment properly.
+
+◼️
 
 [Data](articles/ac322412.json)
+
+[Extended Data](ext_articles/ac322412.ext.json)
 
 ---
 
@@ -1899,85 +1981,5 @@ Trade unions attached to the Federation of Health Professionals of the health se
 [Data](articles/85ca298d.json)
 
 [Extended Data](ext_articles/85ca298d.ext.json)
-
----
-
-### Online Safety Act to be amended
-
-*2024-02-13 12:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97221/online-safety-act-to-be-amended) · `en`
-
-The Cabinet of Ministers has given the go-ahead to make several amendments to the Online Safety Act based on the proposals submitted by various industry professionals.
-
-As such, the Legal Draftsman will be directed to outline a draft Bill to amend the much-disputed legislation as per a proposal tabled by the Public Security Minister at the Cabinet meeting on Monday (Feb.12).
-
-The Online Safety Act, which seeks to regulate online content, was passed in Parliament with amendments on 24 January, amidst objections from opposition politicians and activists who alleged the new law will muzzle free speech.
-
-It garnered not only the attention of local activists and organisations, but also that of diplomats and large international organisations, claiming that the Bill had numerous problematic aspects.
-
-...
-
-[Data](articles/39a77e8a.json)
-
-[Extended Data](ext_articles/39a77e8a.ext.json)
-
----
-
-### Into the school system as an artist intelligence course
-
-*2024-02-13 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193322) · `si`
-
-Cabinet approval has been approved by the Cabinet approval to introduce the artist courses to the education system.
-
-According to the recommendation made by the Task Force appointed by the Task Force appointed by the Task Force appointed to formulate a national strategic and plan in the Cabinet Meeting on 02.03.2010, according to the recommendations made to formulate a national strategy and plan.
-
-One aspect of that strategy plan is to implement pilot projects to introduce artificial intelligence in relation to normal education.
-
-The President's proposal has been approved by the Cabinet approval with the assistance of Microsoft.
-
-* Inaugurating a proposed pilot project from the 8th grade of the National Institute of Educational Schools.
-
-* Digitalizing school digitizations for the pilot project under Microsoft.
-
-* Training of 100 teachers of ICT as coaches by Microsoft Institutions.
-
-◼️
-
-[Data](articles/1e055588.json)
-
-[Extended Data](ext_articles/1e055588.ext.json)
-
----
-
-### CBSL announces appointment of 2 new Governing Board members
-
-*2024-02-13 12:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97220/cbsl-announces-appointment-of-2-new-governing-board-members) · `en`
-
-The Central Bank of Sri Lanka (CBSL) has announced the appointment of two new members to its Governing Board (GB).
-
-In a press release, the CBSL’s Communications Department said on Monday (Feb.12) that Mr. Rajeev Amarasuriya and Mr. Manil Jayesinghe were appointed to the GB with effect from 30 January and 01 February, respectively.
-
-Mr. Amarasuriya served as the Secretary of the Bar Association of Sri Lanka (BASL) and has extensive Appellate Court practice in the areas of Public Law and most branches of Civil Litigation including contractual, commercial, property, taxation, banking and other disciplines of the law.
-
-He is also a Board / Committee Member of several State and Private Sector Institutions including the Sri Lanka Accounting and Auditing Standards Monitoring Board, the Standing Committee of Legal Studies of the UGC and is a Council Member of the University of Colombo.
-
-...
-
-[Data](articles/8c79fe80.json)
-
-[Extended Data](ext_articles/8c79fe80.ext.json)
-
----
-
-### Biannual inspection...
-
-*2024-02-13 12:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Biannual-inspection/110-276922) · `en`
-
-Personnel from the Dam Street Police Station conducted their biannual inspection today. The inspection team was headed by SSP Central Colombo Lalith Leelaratne. Dam Street Police OIC CI Ajith Peduruarachchi accompanied the routine inspection team. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/b6fa0c25.json)
-
-[Extended Data](ext_articles/b6fa0c25.ext.json)
 
 ---

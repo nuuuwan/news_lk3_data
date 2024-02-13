@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 12:02:47**
+As of **2024-02-13 12:17:34**
 
 ## Newspaper Stats
 
-*Scraped **6,670** Articles*
+*Scraped **6,675** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ newsfirstlk | 363
 adalk | 565
 adaderanalk | 811
 tamilmirrorlk | 819
-virakesarilk | 834
+virakesarilk | 839
 adaderanasinhalalk | 931
 dailymirrorlk | 974
 
@@ -26,11 +26,65 @@ dailymirrorlk | 974
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,670 (100.0%) of 6,670 articles have been extended.
+6,670 (99.9%) of 6,675 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### ஔடதங்கள் கட்டுப்பாட்டு அதிகார சபையின் பணிப்பாளர் பதவியிலிருந்து சட்டத்தரணி மனோஜ் கமகே இராஜினாமா!
+
+*2024-02-13 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/176261) · `ta`
+
+தேசிய  ஔடதங்கள் கட்டுப்பாட்டு அதிகார சபையின் பணிப்பாளரான சட்டத்தரணி மனோஜ் கமகே,   தாம் அந்தப் பதவியிலிருந்து விலகுவதற்கான கடிதத்தை சுகாதார அமைச்சர் ரமேஷ் பத்திரனவுக்கு அனுப்பி வைத்துள்ளார்.
+
+இன்று செவ்வாய்க்கிழமை (13) முதல் அவர் அந்தப் பதவியை இராஜினாமா செய்யவுள்ளதாக அந்தக் கடிதத்தில் மேலும் தெரிவிக்கப்பட்டுள்ளது.
+
+தேசிய  ஔடதங்கள் கட்டுப்பாட்டு அதிகார சபையின்  பணிப்பாளராக கடமையாற்றிய காலத்தில் அந்த நிறுவனத்தின் முன்னேற்றத்துக்காக சட்டத்தரணி என்ற வகையில் தான்  பணியாற்றியதாகவும்   பணிப்பாளர் சபை உறுப்பினர் என்ற அடிப்படையில் உரிய தீர்மானங்களை நிறைவேற்றியதாகவும் அவர் தனது கடிதத்தில் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/b24e8849.json)
+
+---
+
+### டிரம்ப் ஜனாதிபதியானால் அமெரிக்காவை நேட்டோவிலிருந்து வெளியேற்றுவார் - அவரின் முன்னாள் ஆலோசகர்கள் கருத்து
+
+*2024-02-13 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/176260) · `ta`
+
+அமெரிக்க ஜனாதிபதி தேர்தலில் டொனால்ட் டிரம்ப் வெற்றிபெற்றால் அவர் அமெரிக்காவை நேட்டோவிலிருந்து விலக்குவார் என டிரம்பின் முன்னாள்  ஆலோசகர்கள்  தெரிவித்துள்ளார்.
+
+நேட்டோ அமைப்பின் வரவுசெலவுதிட்டத்திற்கு நிதி வழங்காத  உறுப்பு நாடுகளிற்கு எதிராக ரஸ்யா தாக்குதலை மேற்கொள்ளவேண்டும் என்ற டிரம்பின் கருத்தினால் அமெரிக்காவில் பெரும் குழப்பம் ஏற்பட்டுள்ள அதேவேளை மீண்டும் ஜனாதிபதியானால் டிரம்ப் நேட்டோவிலிருந்து அமெரிக்காவை விலக்கிக்கொள்வார் எனமார்ச் மாதம்  வெளியாகவுள்ள நூலில் டிரம்பின் முன்னாள் ஆலோசகர்கள்  தெரிவித்துள்ளனர்..
+
+என்ற தனது நூலில் டிரம்ப் மற்றும் பைடன் நிர்வாகத்தில் உயர் அதிகாரியாக பணியாற்றிய ஒருவர் இதனை தெரிவித்துள்ளார்என சிஎன்என் செய்தி வெளியிட்டுள்ளது.
+
+டிரம்ப் பைடனை தோற்கடித்தால் அமெரிக்கா நேட்டோவிலிருந்து வெளியேற்றப்படும் என அவர் சிஎன்என்னிற்கு தெரிவித்துள்ளார்.
+
+நேட்டோவை ஒரு பயனுள்ள அர்த்தமுள்ள விடயமாக டிரம்ப் கருதவில்லை என டிரம்பின் வெள்ளை மாளிகை பிரதானியாக பணியாற்றிய ஒய்வுபெற்ற ஜெனரல் ஜோன்கெலி அந்த நூலில் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/e3f7e153.json)
+
+---
+
+### பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனின் பதவிக்காலம் 29ஆம் திகதியுடன் நிறைவடைகிறது!
+
+*2024-02-13 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176259) · `ta`
+
+பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனின் பதவிக்காலம் இம்மாதம் 29ஆம் திகதியுடன் நிறைவடையவுள்ளது. அவர் மூன்று மாத காலத்துக்கு பதில் பொலிஸ் மா அதிபராக  நியமிக்கப்பட்டார்.
+
+கடந்த நவம்பர் மாதம் 29 ஆம் திகதி ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் இந்த நியமனம் வழங்கப்பட்டது.
+
+ஆனால், இந்த நியமனம் தொடர்பாக அரசியல்வாதிகள் மற்றும் சமூக ஆர்வலர்கள் மத்தியில் கடும் எதிர்ப்புக் கிளம்பியது.
+
+இருப்பினும். தேசபந்து தென்னகோன் நவம்பர் 30 ஆம் திகதி தனது பதவியை ஏற்றுக்கொண்டார்.
+
+◼️
+
+[Data](articles/2f87b527.json)
+
+---
 
 ### Justice is boxing
 
@@ -49,6 +103,46 @@ There are also 186 suspects in the list on the list of the criminal sections and
 [Data](articles/6e2e8832.json)
 
 [Extended Data](ext_articles/6e2e8832.ext.json)
+
+---
+
+### இரு பொலிஸாரைத் தாக்கிய ஓய்வுபெற்ற இராணுவ மேஜர், முன்னாள் கடற்படை வீரர்  இருவர் உட்பட நால்வர் கைது!
+
+*2024-02-13 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/176256) · `ta`
+
+கொழும்பு - கண்டி வீதியில் வரக்காப்பொல நகரில் போக்குவரத்தைக்  கையாளும்போது  பொலிஸ் கான்ஸ்டபிள்கள் இருவர் தாக்கப்பட்டு காயப்படுத்தப்பட்ட சம்பவம் தொடர்பில் முன்னாள் இராணுவ மேஜர் ஒருவர் மற்றும் கடற்படையைச் சேர்ந்த  ஓய்வு பெற்ற இருவர் உட்பட நால்வர் கைது செய்யப்பட்டுள்ளனர்.
+
+குறித்த வீதியை  செப்பனிடும் பணிக்காக வரகாப்பொல நகரின் ஒரு பாதை மூடப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+நேற்று திங்கட்கிழமை (12) மாலை  குறித்த சந்தேக நபர்கள் பயணித்த பஸ் ஒன்று தவறான திசையில் சென்றபோது அங்கு கடமையில் ஈடுபட்டிருந்த  இரு பொலிஸ் உத்தியோகத்தர்களும் அந்த  பஸ்ஸை வீதியிலிருந்து அகற்றியதில் இவர்களுக்கிடையில்  வாக்குவாதம் ஏற்பட்டுள்ளது.
+
+இந்நிலையில், பஸ்ஸிலிருந்து இறங்கிய முன்னாள் இராணுவ மேஜர் உட்பட நால்வர் பொலிஸ் உத்தியோகத்தர்கள் இருவரையும்  தாக்கியதாக பொலிஸார் தெரிவித்தனர்.
+
+சம்பவத்தையடுத்து, வரக்காபொல பொலிஸ் குழுவொன்று சம்பவ இடத்திற்குச் சென்று சந்தேக நபர்கள் நால்வரையும் கைதுசெய்துள்ளது.
+
+◼️
+
+[Data](articles/258bfc7f.json)
+
+---
+
+### சுகாதார தொழிற்சங்கங்கள் பணி பகிஸ்கரிப்பு
+
+*2024-02-13 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176254) · `ta`
+
+வைத்தியர்களுக்கு வழங்குவதற்கு தீர்மானிக்கப்பட்டுள்ள 35,000 ரூபாய் மேலதிக கொடுப்பனவு, தமக்கும் வழங்கப்பட வேண்டுமென வலியுறுத்தி 72 சுகாதார தொழிற்சங்கங்கள் பல தடவைகளில் தொழிற்சங்க நடவடிக்கைகளை முன்னெடுத்திருந்தன.
+
+குறித்த விடயம் தொடர்பில் நிதியமைச்சின் அதிகாரிகளுக்கும், சுகாதார தொழிற்சங்கங்களின் பிரதிநிதிகளுக்கும் இடையில் நேற்று திங்கட்கிழமை (12)  இரண்டாம் கட்ட பேச்சுவார்த்தை இடம்பெற்றது.
+
+இதன்போது குறித்த பேச்சுவார்த்தை தோல்வியடைந்த நிலையிலேயே, இன்று செவ்வாய்க்கிழமை (13) காலை 6 மணிமுதல் மீண்டும் தொடர்ச்சியான பணிப்புறக்கணிப்பில் ஈடுபட்டு வருகின்றனர்.
+
+நாடு பூராகவும் நடைபெறும் குறித்த பணிப்புறக்கணிப்பு நடவடிக்கைக்கு ஆதரவு தெரிவித்து வவுனியாவிலும் பணிபகிஸ்கரிப்பு போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+
+இதன் காரணமாக நோயாளர்கள் பல்வேறு சிரமங்களுக்கு முகம் கொடுத்திருந்ததோடு, இரத்த மாதிரிகளை பெறுதல் மற்றும் இரத்த பரிசோதனைகள் என்பனவும் இன்று மேற்கொள்ளப்படாமையினால் பல நோயாளர்கள் திரும்பிச் சென்றதோடு மருந்துகளை பெறுவதிலும் பலர் சிரமங்களை எதிர் கொண்டு இருந்ததை அவதானிக்க முடிந்திருந்தது.
+
+...
+
+[Data](articles/89268230.json)
 
 ---
 
@@ -1991,109 +2085,5 @@ Ninewells Hospital, Sri Lanka’s leader in woman and childcare has proudly achi
 [Data](articles/8969658a.json)
 
 [Extended Data](ext_articles/8969658a.ext.json)
-
----
-
-### Sajith
-
-*2024-02-12 21:31:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தை-கடுமையாக-சாடுகிறார்-பாட்டலி/175-333090) · `ta`
-
-United People's Freedom Alliance (UPFA) leader MP Patali Champika Ranawaka has condemned the behavior of Opposition Leader and United People's Power Member Sajith Premadasa.
-
-Speaking at a public event, MP Champika Ranawaka said, "We will not allow Parliamentarian Premadasa to be held."
-
-He said he had been punished with some MPs for not walking along with the opposition parties during the president's speech on the government's policy declaration in Parliament recently.
-
-Parliamentarian Sampika Ranawaka has said that the time of issuing reports in Parliament on the orders of MP Sajith Premadasa has been reduced to a maximum of five minutes.
-
-Sampika Ranawaka, who condemned the action of the opposition leader, has warned that he will not be allowed to prevent his activities and hold his performance.
-
-◼️
-
-[Data](articles/7a8eb722.json)
-
-[Extended Data](ext_articles/7a8eb722.ext.json)
-
----
-
-### Absence of institutional participation enervates bourse
-
-*2024-02-12 21:27:00* · [`islandlk`](http://island.lk/absence-of-institutional-participation-enervates-bourse/) · `en`
-
-Stock market trading was somewhat sluggish yesterday but buying interest has remained for the banking sector since last week. However, overall market activity has been on a declining trend in the absence of institutional participation, stock market analysts said.
-
-Both indices moved upwards. The All- Share Price Index up by 16.7 points and S and P SL20 rose by 5.2 points. Turnover stood at Rs 572 million without any crossings.
-
-In the retail market top seven companies that mainly contributed to the turnover were, Expolanka Holdings Rs 93.9 million (712,000 shares traded), JKH Rs 40.2 million (216,000 shares traded), Distilleries Rs 26 million (one million shares traded), Capital Alliance Rs 22.3 million (433,000 shares traded), Sampath Bank Rs 20.9 million (287,000 shares traded), Chevron Lubricants Rs 20.4 million (207,000 shares traded) and Dialog Rs 20.4 million (2.1 million shares traded). During the day 27.3 million share volumes changed hands in 7624 transactions.
-
-...
-
-[Data](articles/eeb6139d.json)
-
-[Extended Data](ext_articles/eeb6139d.ext.json)
-
----
-
-### Wild elephants waiting to feed on stubble
-
-*2024-02-12 21:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wild-elephants-waiting-to-feed-on-stubble/108-276856) · `en`
-
-Ampara, Feb 12 (Daily Mirror) - Herds of wild elephants from Buddhangala sanctuary in Ampara roaming into the paddy fields after harvest to feast on crop stubble is a usual sight in Dighawapi and Allkadu areas.
-
-It is customary for them to spend hours in wallowing in the Walathapitiya tank. However, the farmers have fenced out the fields to guard them against marauding herds until the harvest is over by the end of this month. They would allow the jumbos to feed on the stubble after the harvest.
-
-However, the wildlife conservators from Walathapitiya Wildlife Office are exercising supervision round the clock to provide protection to the villages.
-
-◼️
-
-[Data](articles/40e11c1d.json)
-
-[Extended Data](ext_articles/40e11c1d.ext.json)
-
----
-
-### There is no room to prevent the presidential election
-
-*2024-02-12 20:57:39* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-වැළැක්වීමට-කිසිම-ඉඩක්-දෙන්නේ-නෑ/11-408047) · `si`
-
-Opposition Leader Sajith Premadasa said that he would not allow the presidential election by the prevention of the abolition of the Executive Presidency.
-
-He was speaking at the Attorney-at-law board meeting in Colombo that the people would have to vote for the public.
-
-The Opposition Leader Sajith Premadasa said so.
-
-"I really would like to abolish the executive presidency. A politician who believed in the Executive Presidency for a while. However, we decided as a party, especially the dictators created in the Executive Presidency, we came to a clear change in the process of violating the rights of the citizens of this country.
-
-Abolition of the Executive Presidency is our policy. But we will never allow the prevention of the executive presidency preventing a presidential election. Today, we know that different groups use different techniques to this society. It's time to abolish the executive presidency. "
-
-◼️
-
-[Data](articles/76204cc9.json)
-
-[Extended Data](ext_articles/76204cc9.ext.json)
-
----
-
-### State Income. 3201 Billion cost Rs. 4394 billion
-
-*2024-02-12 20:49:40* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ආදායම-රු--බිලියන-3201-වියදම-රු--බිලියන-4394/11-408046) · `si`
-
-If there are alternatives to President Ranil Wickremesinghe's economic works to build the Sri Lankan economy, he said.
-
-The Minister said that the poor knowledge of public financial management is false propaganda and the building of Sri Lanka's economy cannot be done only in words.
-
-Minister Bandula Gunawardena made this statement participating at a press conference held at the press conference today (12) at the Presidential Media Center.
-
-According to the Minister of 2023, the Minister of Public Revenue was Rs.Mentioned.
-
-Highways, Transport and Mass Media Institute Bandula Gunawardena said:
-
-The President stated that in the throne speech in the throne speech, the economic problem in Sri Lanka has no political solutions. The people know about the economic crisis in 2022. The program of President Ranil Wickremesinghe has been a positive situation for a positive situation to redeem the country.
-
-...
-
-[Data](articles/6fd290bd.json)
-
-[Extended Data](ext_articles/6fd290bd.ext.json)
 
 ---

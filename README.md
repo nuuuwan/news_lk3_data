@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 13:33:01**
+As of **2024-02-13 13:51:56**
 
 ## Newspaper Stats
 
-*Scraped **6,698** Articles*
+*Scraped **6,703** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
 adalk | 568
-adaderanalk | 811
+adaderanalk | 816
 tamilmirrorlk | 825
 virakesarilk | 845
 adaderanasinhalalk | 934
@@ -26,23 +26,47 @@ dailymirrorlk | 978
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,696 (100.0%) of 6,698 articles have been extended.
+6,703 (100.0%) of 6,703 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
 
-### ஜனாதிபதித் தேர்தல் உரிய காலத்தில் நடத்தப்படும் : பொதுத்தேர்தலுக்கான நிதி 2025 வரவு - செலவுத் திட்டத்தில் ஒதுக்கப்படும் - ஜனாதிபதி ஊடகப் பிரிவு
+### Two more Director Board members of NMRA resign
+
+*2024-02-13 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97224/two-more-director-board-members-of-nmra-resign) · `en`
+
+Two more members of the Board of Directors of National Medicines Regulatory Authority (NMRA) have stepped down from their respective positions as directors.
+
+Accordingly, as many as three NMRA Director Board members including Attorney-at-Law Manoj Gamage have thus far vacated their posts.
+
+In his resignation letter submitted to Minister of Health Ramesh Pathirana, Gamage communicated his intention to step down as a Director of the NMRA with effect from today (Feb. 13).
+
+Gamage has emphasized in the letter that as a lawyer he worked for the betterment of the NMRA during his tenure, adding that, along with fellow board members, he has taken appropriate decisions to address a number of shortcomings in the NMRA.
+
+Slamming the conduct of the new NMRA chairman and its current administration, Gamage accused of them being part of the ‘conspiracies’ moved against President Ranil Wickremesinghe and the incumbent government.
+
+◼️
+
+[Data](articles/32795c2d.json)
+
+[Extended Data](ext_articles/32795c2d.ext.json)
+
+---
+
+### The Presidential Elections will be held in a timely manner: Funds for the General Elections will be allocated in the 2025 budget - the Presidential Media Division
 
 *2024-02-13 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176273) · `ta`
 
-ஜனாதிபதித் தேர்தல் உரிய காலத்திற்குள் நடத்தப்படும் என்பதுடன் குறிப்பிட்ட காலவரையறுக்குள், அடுத்த ஆண்டு பொதுத் தேர்தல் நடத்தப்படும் என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+The Presidential Media Unit said that the presidential election will be held within a timely manner and the general election will be held next year.
 
-இதற்கான நிதி, 2025 ஆம் ஆண்டு வரவு செலவுத் திட்டத்தில் ஒதுக்கப்படும். தேர்தல்களை நடத்தும் பொறுப்பு தேர்தல் ஆணைக்குழுவைச் சார்ந்துள்ளதுடன் தேவையான சந்தர்ப்பங்களில் தேர்தல் ஆணைக்குழுவுடன் அரசாங்கம் இணைந்து  செயற்படும் என ஜனாதிபத ஊடகப்பிரிவு தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+The funds will be allocated in the 2025 budget. The President's Media Division said that the responsibility of conducting elections depends on the Election Commission and the government will work with the Election Commission in the necessary occasions.
 
 ◼️
 
 [Data](articles/38006605.json)
+
+[Extended Data](ext_articles/38006605.ext.json)
 
 ---
 
@@ -82,15 +106,37 @@ It is said that the vehicle was caused by a technical fault.
 
 ---
 
-### தேர்தல்கள் குறித்து அதிரடி அறிவிப்பு
+### Action Notification on Elections
 
 *2024-02-13 12:46:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்கள்-குறித்து-அதிரடி-அறிவிப்பு/175-333131) · `ta`
 
-ஜனாதிபதித் தேர்தல் உரிய காலத்திற்குள் நடத்தப்படும் என்பதுடன் குறிப்பிட்ட காலவரையறுக்குள், அடுத்த ஆண்டு பொதுத் தேர்தல் நடத்தப்படும். இதற்கான நிதி, 2025 வரவு செலவுத் திட்டத்தில் ஒதுக்கப்படும். தேர்தல்களை நடத்தும் பொறுப்பு தேர்தல் ஆணைக்குழுவைச் சார்ந்துள்ளதுடன் தேவையான சந்தர்ப்பங்களில்  தேர்தல் ஆணைக்குழுவுடன் அரசாங்கம் இணைந்து  செயற்படும்.
+The presidential election will be held within a timely manner and the general election will be held next year. The funds will be allocated in the 2025 budget. The responsibility of conducting elections depends on the Election Commission and the government will work with the Election Commission in the necessary occasions.
 
 ◼️
 
 [Data](articles/e1dfff02.json)
+
+[Extended Data](ext_articles/e1dfff02.ext.json)
+
+---
+
+### Govt. issues special announcement on Presidential and General elections
+
+*2024-02-13 12:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97223/govt-issues-special-announcement-on-presidential-and-general-elections) · `en`
+
+The President’s Media Division (PMD) on Tuesday made a special announcement on the upcoming Presidential Election and the General Election.
+
+According to the communiqué, the Presidential Election is slated to be held within the mandated period.
+
+However, the General Election is planned to be conducted in 2025 as per the current timeline, the PMD said further, noting that financial provisions for the General Election will be made in the 2025 budget.
+
+Emphasizing that the Election Commission is responsible for conducting the polls, the PMD asserted the government will be communicating with the election body “as and when required”.
+
+◼️
+
+[Data](articles/172b6856.json)
+
+[Extended Data](ext_articles/172b6856.ext.json)
 
 ---
 
@@ -268,6 +314,26 @@ It has been discussed at the Cabinet meeting held on 02.10.2023 and it is report
 
 ---
 
+### Online Safety Act to be amended
+
+*2024-02-13 12:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97221/online-safety-act-to-be-amended) · `en`
+
+The Cabinet of Ministers has given the go-ahead to make several amendments to the Online Safety Act based on the proposals submitted by various industry professionals.
+
+As such, the Legal Draftsman will be directed to outline a draft Bill to amend the much-disputed legislation as per a proposal tabled by the Public Security Minister at the Cabinet meeting on Monday (Feb.12).
+
+The Online Safety Act, which seeks to regulate online content, was passed in Parliament with amendments on 24 January, amidst objections from opposition politicians and activists who alleged the new law will muzzle free speech.
+
+It garnered not only the attention of local activists and organisations, but also that of diplomats and large international organisations, claiming that the Bill had numerous problematic aspects.
+
+...
+
+[Data](articles/39a77e8a.json)
+
+[Extended Data](ext_articles/39a77e8a.ext.json)
+
+---
+
 ### Into the school system as an artist intelligence course
 
 *2024-02-13 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193322) · `si`
@@ -291,6 +357,26 @@ The President's proposal has been approved by the Cabinet approval with the assi
 [Data](articles/1e055588.json)
 
 [Extended Data](ext_articles/1e055588.ext.json)
+
+---
+
+### CBSL announces appointment of 2 new Governing Board members
+
+*2024-02-13 12:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97220/cbsl-announces-appointment-of-2-new-governing-board-members) · `en`
+
+The Central Bank of Sri Lanka (CBSL) has announced the appointment of two new members to its Governing Board (GB).
+
+In a press release, the CBSL’s Communications Department said on Monday (Feb.12) that Mr. Rajeev Amarasuriya and Mr. Manil Jayesinghe were appointed to the GB with effect from 30 January and 01 February, respectively.
+
+Mr. Amarasuriya served as the Secretary of the Bar Association of Sri Lanka (BASL) and has extensive Appellate Court practice in the areas of Public Law and most branches of Civil Litigation including contractual, commercial, property, taxation, banking and other disciplines of the law.
+
+He is also a Board / Committee Member of several State and Private Sector Institutions including the Sri Lanka Accounting and Auditing Standards Monitoring Board, the Standing Committee of Legal Studies of the UGC and is a Council Member of the University of Colombo.
+
+...
+
+[Data](articles/8c79fe80.json)
+
+[Extended Data](ext_articles/8c79fe80.ext.json)
 
 ---
 
@@ -485,6 +571,28 @@ Accordingly, the total number of tourists arrived on February 8 this year, the A
 [Data](articles/1c627b23.json)
 
 [Extended Data](ext_articles/1c627b23.ext.json)
+
+---
+
+### Manoj Gamage resigns as NMRA Director
+
+*2024-02-13 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/97219/manoj-gamage-resigns-as-nmra-director) · `en`
+
+Attorney-at-Law Manoj Gamage has resigned from his position as a Member of Board of Directors of the National Medicines Regulatory Authority (NMRA).
+
+Gamage conveyed this in his resignation letter submitted to Minister of Health Ramesh Pathirana.
+
+He has communicated his intention to step down as a Director of the NMRA with effect from today (Feb. 13).
+
+Furthermore, Gamage has emphasized in the letter that as a lawyer he worked for the betterment of the NMRA during his tenure and that as a director, adding that he, along with fellow board members, took appropriate decisions to address a number of shortcomings in the NMRA.
+
+Slamming the conduct of the new NMRA chairman and its current administration, Gamage accused of them being part of the ‘conspiracies’ moved against President Ranil Wickremesinghe and the incumbent government.
+
+◼️
+
+[Data](articles/a6b36e3a.json)
+
+[Extended Data](ext_articles/a6b36e3a.ext.json)
 
 ---
 
@@ -1953,97 +2061,5 @@ A month later, the reserves further rose by just shy of US $ 100 million to US $
 [Data](articles/b6f273d4.json)
 
 [Extended Data](ext_articles/b6f273d4.ext.json)
-
----
-
-### Four Indians in the World Cup selection squad under the age of 19;Team captain Hue Weejen
-
-*2024-02-13 00:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176234) · `ta`
-
-The ICC has released the selection team from the players who showed the best energies in the under -19 World Cup cricket tournament in South Africa.
-
-Although 12 teams participated in the Under -19 World Cup cricket, the ICC selected team has been named five countries.
-
-There are six bowlers, one all -rounder, 4 bowlers.
-
-Australian captain Hue Weejen has been named champion of the selection team featuring four Indian players.
-
-◼️
-
-[Data](articles/0883456c.json)
-
-[Extended Data](ext_articles/0883456c.ext.json)
-
----
-
-### RTI reveals… Budget allocated to conduct one election in 2024
-
-*2024-02-13 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/news-features/RTI-reveals-Budget-allocated-to-conduct-one-election-in-2024/131-276857) · `en`
-
-It seems like President Ranil Wickremesinghe had already begun his campaign, defections among key figures in major political parties indicate that an election is likely in the offing
-
-Whether a General Election could be held with Rs. 250,000,000 remains doubtful, according to critics in the political scene
-
-NPP Leader Anura Kumara Dissanayake said that it is no secret that the incumbent President has delayed elections
-
-...
-
-[Data](articles/19e7dd1b.json)
-
-[Extended Data](ext_articles/19e7dd1b.ext.json)
-
----
-
-### Living Happily Off Loans
-
-*2024-02-13 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Living-Happily-Off-Loans/172-276861) · `en`
-
-President Ranil Wickremesinghe presented his latest policy statement while opening the new Parliament session on February 7. Contrary to his previous policy statements and special statements on the economy it did not contain so many plans that his government is going to implement, yet it has much food for thought.
-
-Wickremesinghe at the outset painted a rosy picture on the situation. He said that the inflation, which stood at a daunting 50.6 per cent last year, has dramatically decreased to a mere 6.4 per cent, today. Food inflation, previously at an alarming 54.4 per cent, has seen a remarkable decline to just 3.3 per cent. The exchange rate has shown positive movement, with a dollar worth Rs. 362 in the past and now valued at Rs. 314. The current situation is vastly improved, with foreign exchange reserves standing at $ 4.4 billion by the end of
-
-...
-
-[Data](articles/21194cc1.json)
-
-[Extended Data](ext_articles/21194cc1.ext.json)
-
----
-
-### Putting Fetters on Live-In Relationships
-
-*2024-02-13 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Putting-Fetters-on-Live-In-Relationships/172-276862) · `en`
-
-It is feared that an Indian State’s restrictive law on live-in relationships may be replicated by other conservative State governments in India
-
-Earlier this month, the Legislative Assembly of Uttarakhand, a North Indian State at the foot of the Himalayas, passed a Uniform Civil Code (UCC). While most of the provisions were progressive, there were some which put fetters on “live-in” relationships, to the extent of criminalizing them. These provisions have come in for much criticism on the grounds that they invade privacy and individual liberty guaranteed by the Indian constitution.
-
-The law defines living-in as a “relationship between a man and a woman who cohabit in a shared household through a relationship in the nature of marriage.”
-
-...
-
-[Data](articles/aee6d051.json)
-
-[Extended Data](ext_articles/aee6d051.ext.json)
-
----
-
-### 2024-02-12 (Monday)
-
-### Sivapalasundaran is trying to release some lands in Palali East -
-
-*2024-02-12 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176233) · `ta`
-
-Jaffna is being taken to release some of the lands in the East of Palali, Jaffna.. District Secretary AC Sivapalasundaran said.
-
-The President ordered the release of a block of land in the East of Palali. Based on that, correspondence is being carried out with the relevant parties.
-
-A team of officials from Colombo will soon visit Jaffna and carry out other tasks including measurement work for land release.
-
-◼️
-
-[Data](articles/872a9113.json)
-
-[Extended Data](ext_articles/872a9113.ext.json)
 
 ---

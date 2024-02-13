@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 10:50:19**
+As of **2024-02-13 11:02:27**
 
 ## Newspaper Stats
 
-*Scraped **6,646** Articles*
+*Scraped **6,649** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ economynextcom | 339
 islandlk | 357
 dailyftlk | 359
 newsfirstlk | 363
-adalk | 561
+adalk | 562
 adaderanalk | 806
 tamilmirrorlk | 814
 virakesarilk | 829
-adaderanasinhalalk | 928
-dailymirrorlk | 972
+adaderanasinhalalk | 929
+dailymirrorlk | 973
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,646 (100.0%) of 6,646 articles have been extended.
+6,649 (100.0%) of 6,649 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### Test a motorcycle gone and a beat
+
+*2024-02-13 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193318) · `si`
+
+Four have been hospitalized after being extinguished by a chat that went to inspect a motorcycle.
+
+The two residents of the Panadura Police are included in the hospital and the two residents of the Panadura around the Panadura.
+
+The two police officers were attacked at around 12.10 pm yesterday.
+
+Three came towards Panadura from Moratama towards Panadura in Moratuwa, and the two persons who arrived in the motorcycle were aggressive.
+
+A person from the motorcycle was later attacked a police officer, and then there was an exchange of gutby.
+
+Two police officers have been arrested by the two police officers and one has fled the police.
+
+The four suspects are receiving treatment at the Panadura Base Hospital and their condition is not serious, hospital sources said.
+
+The motorbike has been taken into custody, police said.
+
+The two suspects are to be produced before the Panadura Magistrate's Court.
+
+◼️
+
+[Data](articles/327141d1.json)
+
+[Extended Data](ext_articles/327141d1.ext.json)
+
+---
+
+### EC says no budget allocation for a General Election in 2024
+
+*2024-02-13 10:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/EC-says-no-budget-allocation-for-a-General-Election-in-2024/108-276909) · `en`
+
+Colombo, Feb 13 (Daily Mirror) - Following a Right to Information request filed to the Elections Commission, the Daily Mirror learnt that the estimated budget to conduct a Presidential Election in 2024 would be around Rs. 9,750,000,000.
+
+Elections Commissioner Saman Ratnayake said that they made a request for Rs. 10 billion in August 2023 to conduct a Presidential Election and that it was approved from the 2024 budget. “A similar budget is required to conduct a General Election as well,” he added.
+
+However, at a recent cabinet briefing, Cabinet Spokesman Bandula Gunawardena said that a sum of Rs. 10 billion had been allocated to conduct the Presidential Election and the General Elections in 2024.
+
+Speaking to the Daily Mirror, Minister Gunawardena confirmed that a Presidential Election will definitely be held this year. “But the government doesn’t have adequate funds to conduct two elections,” he added.
+
+Read more - RTI reveals… Budget allocated to conduct one election in 2024
+
+◼️
+
+[Data](articles/7229249d.json)
+
+[Extended Data](ext_articles/7229249d.ext.json)
+
+---
 
 ### Health workers in the workplace again
 
@@ -1566,6 +1618,28 @@ However, the wildlife conservators from Walathapitiya Wildlife Office are exerci
 
 ---
 
+### There is no room to prevent the presidential election
+
+*2024-02-12 20:57:39* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-වැළැක්වීමට-කිසිම-ඉඩක්-දෙන්නේ-නෑ/11-408047) · `si`
+
+Opposition Leader Sajith Premadasa said that he would not allow the presidential election by the prevention of the abolition of the Executive Presidency.
+
+He was speaking at the Attorney-at-law board meeting in Colombo that the people would have to vote for the public.
+
+The Opposition Leader Sajith Premadasa said so.
+
+"I really would like to abolish the executive presidency. A politician who believed in the Executive Presidency for a while. However, we decided as a party, especially the dictators created in the Executive Presidency, we came to a clear change in the process of violating the rights of the citizens of this country.
+
+Abolition of the Executive Presidency is our policy. But we will never allow the prevention of the executive presidency preventing a presidential election. Today, we know that different groups use different techniques to this society. It's time to abolish the executive presidency. "
+
+◼️
+
+[Data](articles/76204cc9.json)
+
+[Extended Data](ext_articles/76204cc9.ext.json)
+
+---
+
 ### State Income. 3201 Billion cost Rs. 4394 billion
 
 *2024-02-12 20:49:40* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ආදායම-රු--බිලියන-3201-වියදම-රු--බිලියන-4394/11-408046) · `si`
@@ -2017,71 +2091,5 @@ A senior police officer said the suspect was to be produced in court.
 [Data](articles/0d906942.json)
 
 [Extended Data](ext_articles/0d906942.ext.json)
-
----
-
-### A male officer arrested for abusing female officer
-
-*2024-02-12 19:09:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-உத்தியோகஸ்தரை-துஷ்பிரயோகம்-செய்த-ஆண்-உத்தியோகஸ்தர்-கைது/175-333086) · `ta`
-
-A senior Grama Niladhari of the Kalpitiya Divisional Secretariat has been arrested on charges of committing sexual abuse of a woman village officer.
-
-The victim told the police that she had first lodged a complaint with the Divisional Secretary but that she did not take appropriate action.
-
-When he was alone, he said the suspect had called him home to carry the computer provided for the census related to him.
-
-He added that the suspect had taken him by hand and resigned from office due to the pain caused by the incident.
-
-A senior police officer said the suspect was to be produced in court.
-
-◼️
-
-[Data](articles/184b9abf.json)
-
-[Extended Data](ext_articles/184b9abf.ext.json)
-
----
-
-### Container Driver tells about the accident that Sanath Nishantha died
-
-*2024-02-12 19:09:01* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්තට-මරු-කැඳවූ-අනතුර-ගැන-කන්ටේනර්-රියදුරුගෙන්-ප්‍රකාශ-ගනියි/11-408036) · `si`
-
-A complaint lodged with the Criminal Investigation Department (CID) has summoned statements to the Criminal Investigation Department (CID) by the Death of the CID.
-
-Former minister's wife Chamari Priyanka, a husband's wife, said that these statements were made regarding a complaint.
-
-The complaint has been lodged with a few-page details about the fatal accident.
-
-According to the Criminal Investigation Department's murder and organized criminal investigation unit, the organized criminal investigation into the jeep of State Minister Sanath Nishantha had come up with a lawyer to approximately five hours.
-
-The State Minister Sanath Nishantha took rural water supply in January 1 (25th) of the Colombo-Katunayake Expressway.
-
-The driver of the luxury vehicle was arrested and remanded and released on bail.
-
-The deceased has taken a wedding party at a hotel in Bandarawatta, Chilaw.
-
-Investigations are conducted by the murder and organized criminal investigation unit of the Criminal Investigation Department.
-
-◼️
-
-[Data](articles/82e14d3e.json)
-
-[Extended Data](ext_articles/82e14d3e.ext.json)
-
----
-
-### AKD in New Delhi: Some thoughts about the ‘Indian policy’ of a progressive government
-
-*2024-02-12 19:03:00* · [`islandlk`](http://island.lk/akd-in-new-delhi-some-thoughts-about-the-indian-policy-of-a-progressive-government/) · `en`
-
-Senior Lecturer, Department of Legal Studies, Open University of Sri Lanka
-
-The recent visit of a delegation from the National People’s Power (NPP), led by Anura Kumara Dissanayaka, to India has sparked an intriguing discussion within our political circles. While some parties have seized upon this opportunity to mock the JVP, recalling their anti-Indian stance in the 1980s, others have raised concerns about the potential dangers of yielding to Indian regional hegemony. Nevertheless, it is undeniable that the invitation extended by the Indian government to an NPP delegation for discussions signifies a significant turning point. The NPP, with only three members in Parliament, was until very recently perceived as a marginal political party.
-
-...
-
-[Data](articles/266310fd.json)
-
-[Extended Data](ext_articles/266310fd.ext.json)
 
 ---

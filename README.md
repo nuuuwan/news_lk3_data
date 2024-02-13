@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-13 10:02:22**
+As of **2024-02-13 10:17:39**
 
 ## Newspaper Stats
 
-*Scraped **6,637** Articles*
+*Scraped **6,643** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 80
-bbccomsinhala | 90
+bbccomsinhala | 91
 dbsjeyarajcom | 147
 economynextcom | 339
 islandlk | 357
@@ -17,20 +17,62 @@ dailyftlk | 359
 newsfirstlk | 363
 adalk | 559
 adaderanalk | 806
-tamilmirrorlk | 813
+tamilmirrorlk | 814
 virakesarilk | 829
 adaderanasinhalalk | 927
-dailymirrorlk | 968
+dailymirrorlk | 972
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,637 (100.0%) of 6,637 articles have been extended.
+6,643 (100.0%) of 6,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-13 (Tuesday)
+
+### Health workers in the workplace again
+
+*2024-02-13 09:41:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-பணிப்புறக்கணிப்பில்-சுகாதார-ஊழியர்கள்/175-333116) · `ta`
+
+72 health trade unions have decided to go on strike from 06.30 am today.
+
+Ravi Kumudesh, organizer of the Health Trade Unions Federation, said that the strike would be made demanding the payment of the DAT allowance to the doctors.
+
+The unions say the decision has been taken due to the failure of talks with the finance ministry.
+
+Meanwhile, the Secretary of the All Ceylon Nurses Association, SP Medivatta said that the protest will be held tomorrow (14) due to the lack of a solution to many demands of the Nurses Service.. Remble
+
+◼️
+
+[Data](articles/7405ddc9.json)
+
+[Extended Data](ext_articles/7405ddc9.ext.json)
+
+---
+
+### Health Ministry admits glass particles being found in ‘Meropenem’ drug
+
+*2024-02-13 09:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-Ministry-admits-glass-particles-being-found-in-Meropenem-drug/108-276908) · `en`
+
+Colombo, Feb 13 (Daily Mirror) - The Health Ministry has initiated an investigation following allegations made by health trade unions regarding the haphazard storage of drug consignments at Customs terminals in Welisara, Wattala, and Kelaniya.
+
+Speaking to the media, Deputy Director General (Medical Services) Dr. G. Wijesuriya admitted that glass particles had also been found inside the vials of the antibiotic named ‘Meropenem’ stored within these terminals.
+
+According to the reports, these consignments have been placed for over four months violating the proper standards of storage.
+
+The health ministry is looking into the further details of the importer of the Meropenem drug.
+
+Meanwhile, Dr Wijesuriya highlighted the dearth of human capital in the Medical Supplies Division (MSD) which was under the fire following the allegations regarding the import of the substandard immunoglobulin drug.
+
+...
+
+[Data](articles/6a9cc83c.json)
+
+[Extended Data](ext_articles/6a9cc83c.ext.json)
+
+---
 
 ### Bus - Lori injured in accident
 
@@ -53,6 +95,46 @@ The accident occurred, and the Mankulam Police are conducting further investigat
 [Data](articles/3f91b68b.json)
 
 [Extended Data](ext_articles/3f91b68b.ext.json)
+
+---
+
+### One injured after MP Ali Sabri’s jeep collides with tractor
+
+*2024-02-13 09:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/One-injured-after-MP-Ali-Sabris-jeep-collides-with-tractor/108-276906) · `en`
+
+Puttalam, Feb 13 (Daily Mirror) - A 24-year-old man was injured after a jeep in which MP Ali Sabri Raheem was travelling collided with a tractor near the 15th mile post on the Puttalam-Anuradhapura main road early this morning.
+
+Police said the injured individual, a resident of Puliyankulama, was admitted to the Puttalam Hospital.
+
+It was reported that the MP, along with two security personnel and two other individuals, was travelling in the jeep at the time of the accident. They were heading towards the Pulmude area from Puttalam when the accident occurred.
+
+Both the jeep and the tractor were severely damaged in the accident.
+
+The driver of the jeep has been arrested, and the Saliyawewa Police are conducting further investigations.
+
+◼️
+
+[Data](articles/3a9dad8e.json)
+
+[Extended Data](ext_articles/3a9dad8e.ext.json)
+
+---
+
+### SJB ready for scrapping executive presidency
+
+*2024-02-13 09:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SJB-ready-for-scrapping-executive-presidency/155-276907) · `en`
+
+Colombo, Feb 13 (Daily Mirror) - Indicating that Samagi Jana Balawegaya (SJB) would extend conditional support for the scrapping of the executive presidency, Leader of Opposition Sajith Premadasa said his party would support such an amendment but said it has to be implemented after holding an election.
+
+“We believed in executive Presidency initially. However, we have now understood the damage it could cause to the rule of law. Therefore, we have changed our stance on it now,” Mr. Premadasa told the SJB Lawyers Association convention.
+
+“However, we are not favourable towards abolishing the presidency without holding a presidential election or any election for that matter. We insist that people’s right to franchise should not be violated,” he said.
+
+...
+
+[Data](articles/b46284e8.json)
+
+[Extended Data](ext_articles/b46284e8.ext.json)
 
 ---
 
@@ -565,6 +647,32 @@ Indian Prime Minister Narendra Modi also joined the Online Technology. (A)
 [Data](articles/669caeac.json)
 
 [Extended Data](ext_articles/669caeac.ext.json)
+
+---
+
+### Sri Lankans looking for gems in Madagascar
+
+*2024-02-13 02:05:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72g9glwlwzo) · `si`
+
+Have you heard of a foreign land town in a foreign country by the Sri Lankan gem businesses and have heard gemstock with the monopoly of the monopoly?
+
+The city of Ibkagaskara, Madagaska, is a city that has been promoted.
+
+For two decades, hundreds of decades have been traveling to Madagascar and engage in business and carrying out its permanent residence.
+
+Hundreds of gem merchants Madagascar and their deeds were agreed to comment on these experiences.
+
+They also accredited BBC Sinhala service and talk to their protection.
+
+Rigal Bae, a resident of Matale, visited Madagascar for the first time.
+
+"99 The man named Rigal Bye, Matale, knows that there are gemsters. The acquaintance of the Ilakaka was in the city of Illakaka. In those days, people have no knowledge of gems. "The BBC had told the BBC Sinhala service from Madagascar to Minister BBC.
+
+...
+
+[Data](articles/e2b12a84.json)
+
+[Extended Data](ext_articles/e2b12a84.ext.json)
 
 ---
 
@@ -1951,101 +2059,5 @@ Loss-making SriLankan Airlines is in the process of restructuring with the gover
 [Data](articles/7d3d2d3c.json)
 
 [Extended Data](ext_articles/7d3d2d3c.ext.json)
-
----
-
-### Divisions within SJB surface, Fonseka has hour-long meeting with Ranil
-
-*2024-02-12 19:02:00* · [`islandlk`](http://island.lk/divisions-within-sjb-surface-fonseka-has-hour-long-meeting-with-ranil/) · `en`
-
-President Ranil Wickremesinghe ceremonially commenced the fifth session of Parliament on Wednesday with a speech (once called the Throne Speech), calling on opposition parties to join his endeavor to rebuild the nation. It was his third policy speech in the legislature, the first and second being delivered on August 3, 2022, and February 8, 2023, commencing the third and fourth sessions of the ninth Parliament.
-
-He directed that all ceremonial and events traditionally associated with the opening of Parliament be dispensed presumably for reasons of economy. So there was neither a military parade or 21-gun salute; only the reciting of Jayamangala Gatha by a bevy of pink-clad girls from Devi Balika Vidyalaya, Colombo.
-
-The president called on the SJB and JVP to adapt and change for the sake of the nation’s welfare and the prosperity of the country’s youth and to share his vision to ‘unite in the pursuit of our nation-building dream.’
-
-...
-
-[Data](articles/a81fc053.json)
-
-[Extended Data](ext_articles/a81fc053.ext.json)
-
----
-
-### Will Karu Jayasuriya be suitable as an Interim President?
-
-*2024-02-12 19:01:00* · [`islandlk`](http://island.lk/will-karu-jayasuriya-be-suitable-as-an-interim-president/) · `en`
-
-It is no longer a secret that a progressive section of the Buddhist clergy (Sangha) and Tamil parties (for example the Global Tamil Forum) have met in Europe and North America and worked out a “Road Map” to put an end to repetitive riots and pogroms that have despoiled this country since Independence. Leaders SWRD, JR, Ranil, Premadasa and Mahinda, all of them, have racist blood on their hands. DS took away the citizenship of Upcountry Tamils but I don’t think he instigated race riots. Overall this is a sad commentary on our so-called national leaders.
-
-...
-
-[Data](articles/11087245.json)
-
-[Extended Data](ext_articles/11087245.ext.json)
-
----
-
-### A warning to all used mobile phones
-
-*2024-02-12 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193298) · `si`
-
-The Telecommunications Regulatory Commission of Sri Lanka announced that every customer used in mobile phones should be registered with them.
-
-The Director of the Commission (Compliance) Ms. Manaka Pathirana made this statement to the media this morning.
-
-She pointed out that the telephone company can be linked to check if you have registered with the phone companies you do not currently use.
-
-If you have called for unwitting phones, the Telecommunications Regulatory Commission of Sri Lanka demanded immediate action to disconnect them.
-
-She said that if the SIMs were released without your knowledge under your National Identity Card.
-
-◼️
-
-[Data](articles/3ce53c8a.json)
-
-[Extended Data](ext_articles/3ce53c8a.ext.json)
-
----
-
-### Instruction to take a bath for 20 minutes daily
-
-*2024-02-12 19:00:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தினமும்-20-நிமிடமாவது-குளிக்குமாறு-அறிவுறுத்தல்/175-333085) · `ta`
-
-Parents have advised parents to take a bath for at least twenty minutes daily to prevent dehydration in the wake of the increasing temperature.
-
-In an interview with the Daily Mirror, a pediatrician, Deepal Perera, pointing out that this is the reason for the rising temperature across the country, pointing out the increase in skin ailments among children.
-
-Dr. Perera stressed that increased temperature not only worsens skin conditions, but also a significant risk of dehydration among children.
-
-Awareness and preventive measures, including adequate hydration and bathing for at least 20 minutes, wearing simple clothes and promoting natural drinks, are underlined as protection against the adverse effects of the temperature that increases in the health of children.
-
-◼️
-
-[Data](articles/adcc9f3e.json)
-
-[Extended Data](ext_articles/adcc9f3e.ext.json)
-
----
-
-### Sri Lanka launches UPI to facilitate payments by growing Indian tourists, boost formal transactions
-
-*2024-02-12 18:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-launches-upi-to-facilitate-payments-by-growing-indian-tourists-boost-formal-transactions-150666/) · `en`
-
-ECONOMYNEXT – Sri Lanka launched Unique Payment Interface (UPI), a digital payment method used by India to facilitate payments by growing Indian tourists into Sri Lanka and increase formal banking, officials said.
-
-The new payment system was launched in the presence of Indian Prime Minister Narendra Modi, Sri Lankan President Ranil Wickremesinghe, and Mauritius Prime Minister Pravind Jugnauth with Indians making payments in Colombo and Port Louis.
-
-The launch will allow Indians to make payments in Sri Lanka through UPI to any vendor who uses Lanka QR using a smartphone without any cash or card.
-
-Officials said Sri Lanka has identified 65,000 hotspots where Indian tourists frequently visit and 10,000 of such locations will be enabled to use UPI in the next three weeks, while the rest will be enabled by March 31 this year.
-
-Topping the list, Indian tourists of over 300,000 accounted for a fifth of the total 1,487,303 foreign visitors who arrived into the island nation in 2023.
-
-...
-
-[Data](articles/e4d22e33.json)
-
-[Extended Data](ext_articles/e4d22e33.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 17:33:20**
+As of **2024-02-14 17:53:16**
 
 ## Newspaper Stats
 
@@ -26,67 +26,75 @@ dailymirrorlk | 1,019
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,982 (99.9%) of 6,988 articles have been extended.
+6,988 (100.0%) of 6,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### ප්‍රේමසර ඈපාසිංහයන්ට උපහාර පිදීමේ උත්සවයක්
+### A felicitation ceremony of Premasara Epasinghe
 
 *2024-02-14 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193377) · `si`
 
-කොළඹ ආනන්ද - නාලන්ද 94 වැනි සුලෝහිත සංග්‍රාමය වෙනුවෙන් හිටපු ප්‍රවීණ ක්‍රිකට් විස්තර විචාරකයකු වන ප්‍රේමසර ඈපාසිංහ මහතා වෙත උපහාර පිදීමේ උත්සවයක් සංවිධානය කර තිබිණි.
+Ananda - Nalanda Nalanda Nalanda 94th Cricket commentator, Premasara Epasinghe, a former veteran cricket commentator, was organized.
 
-එසේම, ප්‍රේමසර ඈපාසිංහ මහතාට  සුලෝහිත සංග්‍රාමය නැරඹීම සඳහා ආරාධනා කිරීම ද මෙම අවස්ථාවේ සිදු වී තිබේ.
+Also, the invitation of Premasara Epasinghe was invited to visit the Navigation Battle.
 
-හිටපු ගුවන් හමුදාපතිවරයකු සහ වත්මන් සුලෝහිත සංග්‍රාම කමිටුවේ සම සභාපතිවරයකු වන 'එයාර් චීෆ් මාර්ෂල්' ගගන් බුලත්සිංහල මහතා විසින් ප්‍රේමසර ඈපාසිංහ මහතාගේ සේවය අගයනු වස් තුටු පඬුරක් ද පිරිනමා ඇත.
+A former Air Force Commander, a Samaf Chairman, a Samaf Chairman of the Presidency Chairman, Air Chief Marshal Gaggan Bulathsinhala, has been awarded a gift to Premasara Epasinghe.
 
-උත්සව අවස්ථාව සඳහා ආනන්ද - නාලන්ද විදුහල් දෙක නියෝජනය කරන පිරිසක් ද සහභාගි වුණු බව වාර්තා වේ.
+It is reported that a group of Ananda-Nalanda Vidasi were also present at the occasion.
 
 ◼️
 
 [Data](articles/3474bbdb.json)
 
+[Extended Data](ext_articles/3474bbdb.ext.json)
+
 ---
 
-### இடம்பெயரும் உயிரினங்களில் ஐந்தில் ஒன்று பகுதி அழியும் அபாயம் - ஐ.நா. அறிக்கை
+### One -fifth of the migration creatures is a risk of extinction - the UN. Report
 
 *2024-02-14 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176365) · `ta`
 
-காலநிலை மாற்றம் மற்றும் மனித செயற்பாடுகளின் விளைவாக உலகில் இடம்பெயரும் உயிரினங்களில் ஐந்தில் ஒரு பகுதி அழிந்து போகும் அபாயத்தில் உள்ளதாக ஐக்கிய நாடுகள் சபையின்  இடம்பெயரும் மிருகங்கள் பற்றிய அறிக்கையில் வெளியிடப்பட்டுள்ளது.
+A report on the United Nations Migrant Beasts has reported that one -fifth of the world's displaced creatures are in danger of being destroyed as a result of climate change and human activity.
 
-ஒவ்வொரு வருடமும்  100 கோடி  விலங்குகள் பாலைவனங்கள், சமவெளிகள் அல்லது பெருங்கடல்கள் வழியாக இனப்பெருக்கம் மற்றும்  உணவுகளை தேடி  இடம்பெயர்வை மேற்கொள்கின்றன.
+Every year, 100 crore animals are migrated in search of breeding and food through deserts, plains or oceans.
 
-இந்நிலையில், இடம்பெயரும் உயிரினங்களின் மீது திணிக்கப்படும் நீடிக்க முடியாத அழுத்தங்கள் அவற்றின் எண்ணிக்கையை குறைவடைய செய்வதோடு, உணவு விநியோகத்தை சீர்குலைத்து வாழ்வாதாரத்தை அச்சுறுத்துகிறது என அந்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+The report states that the unprecedented stresses imposed on the displaced creatures will reduce their numbers and disrupt food supply and threaten their livelihood.
 
-1979 ஆம் ஆண்டு  ஐக்கிய நாடுகள் சபையின் இடம்பெயரும் விலங்குகளை பாதுகப்பதற்கான மாநாட்டில் 1,189 இனங்கள் இருப்பதாக பட்டியலிடப்பட்டது. அதில்  44 சதவீதம் குறைவடைந்துள்ளதோடு, 22  சதவீதம் முற்றிலும் அழிந்துவிடும்.
+In 1979, the United Nations Listed at a conference to protect the migrant animals of the United Nations, listed 1,189 species. It has fallen by 44 percent and 22 percent will be completely destroyed.
+
+This data is based on the estimates and data offered by the Living Planet Index (LPI), which synthesizes the number of organisms from 1970 to 5,000 organisms from the International Union (IUCN) and the global biological diversity.
 
 ...
 
 [Data](articles/83843588.json)
 
+[Extended Data](ext_articles/83843588.ext.json)
+
 ---
 
-### මෝදර වෙඩිතැබීමට පැමිණි මෝටර් රථය සොයාගනී
+### The car to shoot shooting
 
 *2024-02-14 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193376) · `si`
 
-මෝදර, මෝදරවීදිය ප්‍රදේශයේ සිදුකළ වෙඩිතැබීමේ සිද්ධියේ සැකකරුවන් පැමිණි බවට සැක මෝටර් රථය පොලීසිය විසින් සොයාගෙන තිබේ.
+The police have recovered the car in Modara and Modaraweera.
 
-ඒකල ඔතේ කැලේ ප්‍රදේශයේ දමාගොස් තිබියදී අද (14) දහවල් පොලීසිය විසින් මෝටර් රථය සොයාගෙන තිබුණි.
+Police have found the car in the Ekala Ode Kalliya today (14).
 
-එම මෝටර් රථයේ තිබී ජීව උණ්ඩයක් ද පොලීසිය විසින් සොයාගෙන තිබේ.
+Police also recovered a living bullet in the car.
 
-පොලීසිය වැඩිදුරටත් සඳහන් කළේ එම මෝටර් රථයේ චැසි අංක එන්ජින් අංක මකා දමා තිබූ බවය.
+Police said that Chassis Number of the car had been deleted in the car.
 
-එසේම ඔවුන් ව්‍යාජ අංක තහඩු සවිකර වෙඩිතැබීම සඳහා පැමිණ ඇති බවද පොලීසිය වැඩිදුරටත් සඳහන් කළේය.
+They have also reached fake number plates.
 
-මෝදර, මෝදරවීදිය ප්‍රදේශයේ පිහිටි අවන්හලක් ඉදිරිපිටදී සිදුකළ එම වෙඩිතැබීමෙන් බරපතළ තුවාල ලැබූ එම අවන්හලේ හිමිකරු කොළඹ ජාතික රෝහලේ දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබයි.
+The owner of the Colombo National Hospital is receiving treatment at the Colombo National Hospital with serious injuries in Modara.
 
 ◼️
 
 [Data](articles/cc72a125.json)
+
+[Extended Data](ext_articles/cc72a125.ext.json)
 
 ---
 
@@ -150,21 +158,23 @@ It is also revealed that the Mullaitivu district special troopers rushed to the 
 
 ---
 
-### මොහොමඩ් නබී එකට එයි
+### Mohammed is coming together
 
 *2024-02-14 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193375) · `si`
 
-අයිසීසී නවතම ශ්‍රේණිගත කිරීම් අනුව එක්දින තුන්ඉරියව් ක්‍රීඩකයන්ගේ පළමු ස්ථානයට පැමිණීමට ඇෆ්ගනිස්තාන හිටපු නායක මොහොමඩ් නබී සමත් ව ඇත.
+Former Afghanista leader Mohammed has been able to reach the first place to the first place for the one-day faurgerators in the latest rankings.
 
-ඒ අනුව මෙතෙක් එහි පළමු ස්ථානයේ රැඳී සිටි බංග්ලාදේශ තුන්ඉරියව් ක්‍රීඩක ශකිබ් අල් හසන් දෙවැනි ස්ථානයට පත් ව ඇත.
+Accordingly, Bangladesh three-year-old Shakib Al Hasani, who has stayed in the first place, has been placed second.
 
-ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර මහනුවර පල්ලෙකැලේ අන්තර්ජාතික ක්‍රිකට් ක්‍රීඩාංගණයේ පැවති පළමු එක්දින තරගයේ දී මොහොමඩ් නබී රැස් කළ වාර්තාගත ඉනිමත් සමඟ ඔහු මෙසේ ශ්‍රේණිගත කිරීම්වල පෙරමුණට පැමිණ තිබේ.
+He was in the forefront of the rankings of Mohammed in the first ODI recorded at the Pallekele Stadium in the Pallekele Stadium in the Pallekele Stadium in Kandy and Afghanistan.
 
-එහි දී ඔහු ලකුණු 136ක් රැස් කළ අතර, අස්මතුල්ලා ඔමාසායි සමඟ වාර්තාගත සබඳතාවක් ද ගොඩනැඟුවේය.
+He scored 136 runs, and Aimethuthla built a record recording with Omasai.
 
 ◼️
 
 [Data](articles/2b5c9727.json)
+
+[Extended Data](ext_articles/2b5c9727.ext.json)
 
 ---
 
@@ -724,43 +734,51 @@ Sri Lanka - Bangladeshi Twenty Twenty Tournament will be held on March 4, 6 and 
 
 ---
 
-### ආණ්ඩුවේ වෙනස් වූ ප්‍රතිපත්තියක් ගැන ප්‍රසන්න කියයි
+### Prasanna tells about a change in government
 
 *2024-02-14 13:28:37* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවේ-වෙනස්-වූ-ප්‍රතිපත්තියක්-ගැන-ප්‍රසන්න-කියයි/11-408080) · `si`
 
-සීත කාමරවල සිට සංවර්ධන ව්‍යාපෘති සිදු කිරීමේ ප්‍රතිපත්තියෙන් වත්මන් ආණ්ඩුව ඉවත් වී ඇති බව නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පැවසීය.
+Urban Development and Housing Minister Prasanna Ranatunga said that the present government has left the policy of conducting development projects from the win rooms.
 
-ඔහු අවධාරණය කර සිටින්නේ ජනතාවගේ අදහස් ලබා ගනිමින් ජනතා අවශ්‍යතාවය මත පමණක් සංවර්ධන ව්‍යාපෘති සිදු කරන බවයි.
+He emphasized that development projects are being carried out only on the need of the people.
 
-ඒ අනුව සෑම ගම්මානයක්ම සංවර්ධනය කිරීම ආණ්ඩුවේ ප්‍රතිපත්තිය බවද අමාත්‍යවරයා සඳහන් කළේය.
+According to the Minister, the government's policy to develop every village.
 
-අමාත්‍ය ප්‍රසන්න රණතුංග මහතා මේ බව පැවසුවේ කෑගල්ල දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේදී “කදුකර දශකය” සංවර්ධන වැඩසටහන පිළිබඳව නිළධාරීන් දැනුවත් කිරීමේ අවස්ථාවට අද (14) දින සහභාගි වෙමින්.  එය පැවැත්වුණේ කෑගල්ල දිස්ත්‍රික් ලේකම් කාර්යාලයේදීය.
+Minister Prasanna Ranatunga was speaking at the Kegalle District Coordinating Committee on the 'Kandakkara decade' development program today (14).It was held at the Kegalle District Secretariat.
 
-කෑගල්ල දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුව පැවැත්වුණේ එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී රාජිකා වික්‍රමසිංහ හා සබරගමු පළාත් ආණ්ඩුකාර නවීන් දිසානායක යන මහත්වරුන්ගේ ප්‍රධානත්වයෙනි.
+The Kegalle District Coordinating Committee was held by its chairman MP Rajaka Wickremasinghe and the Governor of the Sabaragamuwa Province Naveen Dissanayake.
 
-එක් එක් දිස්ත්‍රික්කයන්ට ආවේණිකෙ සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කරවා නිදහස චක්‍රලේඛන හරහා ලබා දී ඇති බවද අමාත්‍යාවරයා අවධාරණය කළේය.
+The ministerial emphasized that each district district has implemented freedom through the circular.
+
+The mountain decade program will be implemented in 10 districts this year. The districts of Kandy, Matale, Nuwara Eliya, Ratnapura, Kegalle, Matara, Galle, Kalutara, Badulla and Kurunegala.
 
 ...
 
 [Data](articles/bc238c72.json)
 
+[Extended Data](ext_articles/bc238c72.ext.json)
+
 ---
 
-### එක ගලකින් කුරුල්ලෝ දෙන්නෙක් බිලි ගන්න යයි
+### Two birds to billy with one stone
 
 *2024-02-14 13:25:07* · [`adalk`](https://www.ada.lk/breaking_news/එක-ගලකින්-කුරුල්ලෝ-දෙන්නෙක්-බිලි-ගන්න-යයි/11-408079) · `si`
 
-නුවරඑලිය ග්‍රේගරි වැවට ජයන්ට් කාෆ් වර්ගයේ මත්ස්‍ය පැටවුන් 7500 ක් මුදා හැරිම නුවරඑලිය දිස්ත්‍රික් ජල ජිවි වගා සංවර්ධන අධිකාරිය විසින් (14) දින සිදු කෙරිණ.
+7500 Gregory Wawana, Nuwara Eliya Gravet Kaf Types
 
-ජාතික ජල ජිවි වගා සංවර්ධන අධිකාරි නුවරඑලිය කාර්යාලයේ දිස්ත්‍රික් ජල ජිවි වගා ව්‍යාප්ති නිලධාරින් නිර්මාල් චන්ද්‍රතිලක මහතා සහ  ව්‍යාප්ති නිලධාරි බුද්ධික කුෂාන් මහතාගේ ප්‍රධානත්වයෙන් ජලාශයට මත්ස්‍ය පැටවුන් මුදා හරිණ.
+The reservoir released the reservoir under the patronage of the District Hydro-Cultivation Extension Officer of the National Water Lived Development Superintendent of the Nuwara Eliya office.
 
-නුවරඑලිය ග්‍රේගරි වැවෙහි අරුනලු ධිවර සමිතියේ ප්‍රතිපාදන යටතේ ජාතික ජල ජිවි වගා සංවර්ධන අධිකාරියේ නුවරඑලිය කාර්යාලය යටතේ පාලනය වන ජයන්ට් කාෆ් මත්ස්‍ය අභිජනන මධ්‍යස්ථානයේ අභිජනනය කරන ලද මත්ස්‍ය පැටවුන් 7500 ක් මෙසේ මුදා හරිනු ලැබුහ.
+Under the provisions of the Nuwara Eliya Gragary Tank, 7500 breeding fish breeding center, which is under the Allocation of the National Hydro-Crops Development Authority, was released.
 
-නුවරඑලිය අවට අඩු ආදායම්ලාභින්ගේ ප්‍රෝටින් ඌණතාවය ඉහල දැමිමට සහ ග්‍රේගරි වැවෙහි ධිවර කර්මානයේ යෙදි සිටින ධිවරයන්ගේ අදායම් තත්ත්වය ඉහල දැමිමේ අරමුණින් මෙසේ මත්ස්‍ය පැටවුන් මුදා හැරි බවයි එම ව්‍යාපෘතිය භාර නිලධාරි බුද්ධික කුෂාන් මහතා කියා සිටියේ.
+Buddhika Kushan in charge of the project was released to increase the prothorain of the low income families in Nuwara Eliya and to increase the income of the fishermen in the Greatgary tank.
 
-...
+Buddhika Kushan is a fishing breeding, which is released to Gragary Lake and the fishery cubs are natural breeding, and the fishery cubs will contribute to 1- 1 ½.He further stated.
+
+◼️
 
 [Data](articles/8a478a11.json)
+
+[Extended Data](ext_articles/8a478a11.ext.json)
 
 ---
 

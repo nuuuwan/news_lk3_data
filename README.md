@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 13:51:44**
+As of **2024-02-14 14:02:32**
 
 ## Newspaper Stats
 
-*Scraped **6,929** Articles*
+*Scraped **6,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ economynextcom | 353
 newsfirstlk | 363
 islandlk | 365
 dailyftlk | 376
-adalk | 590
+adalk | 591
 tamilmirrorlk | 849
-adaderanalk | 849
+adaderanalk | 853
 virakesarilk | 875
 adaderanasinhalalk | 970
-dailymirrorlk | 1,017
+dailymirrorlk | 1,019
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,929 (100.0%) of 6,929 articles have been extended.
+6,929 (99.9%) of 6,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### Doctor arrested for selling large stocks of controlled drugs
+
+*2024-02-14 13:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97261/doctor-arrested-for-selling-large-stocks-of-controlled-drugs-) · `en`
+
+A doctor from the Gelioya area, in Kandy, has been arrested by the police for allegedly selling large stocks of controlled drugs.
+
+It is alleged that the doctor operated multiple private medical practices in various areas and utilised them as fronts for the sale of these drugs.
+
+According to police, the doctor had been arrested while selling a stock of controlled drugs worth Rs. 160,000.
+
+The authorities further claim that the arrested doctor conducted these transactions by traveling in his vehicle during the night.
+
+As such, both, the doctor and his vehicle are due to be produced before the Gampola Court today (14 Feb.).
+
+◼️
+
+[Data](articles/0a44f360.json)
+
+---
+
+### Beruwala Fisheries Harbor security guard found dead
+
+*2024-02-14 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97260/beruwala-fisheries-harbor-security-guard-found-dead) · `en`
+
+The body of a man has been found floating near the berthing basin of the Beruwala Fisheries Harbour.
+
+It was reported that the deceased, who was employed as a guard at the harbor, had died after falling into the water.
+
+The man had reported for duty last night (13), but was later found dead.
+
+The deceased individual has been identified as a 57-year-old resident of the Maggona area.
+
+◼️
+
+[Data](articles/22fa5073.json)
+
+---
 
 ### Casual Wife of Heroin dealers arrested
 
@@ -47,6 +85,22 @@ The woman was arrested in Polgasuowita area in the Kesbewa Police Division and h
 [Data](articles/b8f541d3.json)
 
 [Extended Data](ext_articles/b8f541d3.ext.json)
+
+---
+
+### Bingiriya Investment Zone opens doors for Japanese investors
+
+*2024-02-14 12:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bingiriya-Investment-Zone-opens-doors-for-Japanese-investors/108-277002) · `en`
+
+Colombo, Feb 14-  State Minister for Investment Promotion, Dilum Amunugama, has spearheaded efforts to welcome high-net-worth Japanese investors to the Bingiriya Investment Zone, signaling a new era of economic cooperation between Sri Lanka and Japan.
+
+Following President's successful visit to Japan, where bilateral investment opportunities were explored, Minister Amunugama has directed officials of the Sri Lanka Board of Investment to expedite the development of the second and third phases of the Bingiriya Investment Zone.
+
+This move aims to accommodate the growing interest of Japanese investors eager to contribute to Sri Lanka's economic growth story.
+
+...
+
+[Data](articles/c32236ef.json)
 
 ---
 
@@ -68,6 +122,20 @@ It is noteworthy that the government is planning to train 100 teachers through M
 
 ---
 
+### Education Minister reveals A/L exam results release date
+
+*2024-02-14 12:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Education-Minister-reveals-AL-exam-results-release-date/108-277001) · `en`
+
+Colombo, Feb 14 (Daily Mirror) -  Education Minister Susil Premajayantha has confirmed that the results of the 2023 G.C.E. Advanced Level examination will be released prior to the commencement of the 2023 G.C.E. Ordinary Level examination.
+
+In a recent statement, Minister Premajayantha disclosed that the evaluation process for the 2023 G.C.E. Advanced Level answer scripts is progressing steadily and is anticipated to conclude by the end of February.
+
+◼️
+
+[Data](articles/6f60e386.json)
+
+---
+
 ### Former President of STF joined the IMC
 
 *2024-02-14 12:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/STF-இன்-முன்னாள்-தலைவர்-ஐ-ம-ச-வில்இணைந்தார்/175-333186) · `ta`
@@ -79,6 +147,20 @@ Nimal Levke, former president of the STF, has joined the United People's Power, 
 [Data](articles/50c0e825.json)
 
 [Extended Data](ext_articles/50c0e825.ext.json)
+
+---
+
+### Two including 17-year-old drown after boat capsizes in Mahaweli River
+
+*2024-02-14 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97259/two-including-17-year-old-drown-after-boat-capsizes-in-mahaweli-river-) · `en`
+
+Two persons, including a 17-year-old, have reportedly drowned after their boat capsized in the Mahaweli River in Kinniya.
+
+According to police, the boat had capsized while the 17-year-old youth and a 35-year-old were fishing in a tributary of the river.
+
+◼️
+
+[Data](articles/119182ec.json)
 
 ---
 
@@ -113,6 +195,28 @@ The accident had occurred when the vessel used for fishing.
 [Data](articles/482e62ab.json)
 
 [Extended Data](ext_articles/482e62ab.ext.json)
+
+---
+
+### Russia puts Estonian Prime Minister on ‘wanted’ list
+
+*2024-02-14 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97258/russia-puts-estonian-prime-minister-on-wanted-list) · `en`
+
+Russia has listed Estonia’s Prime Minister Kaja Kallas, a staunch backer of Ukraine, as a ‘wanted’ person.
+
+According to the Russian Interior Ministry’s database, Kallas is now wanted in connection with criminal charges, along with Estonian State Secretary Taimar Peterkop and Lithuanian Culture Minister Simonas Kairys.
+
+The Interior Ministry did not initially specify which charges they faced.
+
+But later, Kremlin spokesperson Dmitry Peskov said Kallas and the other two Baltic ministers had been designated as wanted due to alleged “desecration of historical memory.”
+
+The charges specifically relate to the “destroying monuments of Soviet soldiers,” according to a source cited by the Russian state-owned TASS agency.
+
+“This is yet more proof that I am doing the right thing - the EU’s strong support to Ukraine is a success and it hurts Russia,” she wrote on X on Tuesday.
+
+...
+
+[Data](articles/92da2309.json)
 
 ---
 
@@ -327,6 +431,24 @@ Farmers say the government has failed to fulfil its 2021 promise of paying more 
 [Data](articles/70f06cb7.json)
 
 [Extended Data](ext_articles/70f06cb7.ext.json)
+
+---
+
+### වගාවට හානි කරන සතුන් වන්ද්‍යාකරණයට
+
+*2024-02-14 11:17:08* · [`adalk`](https://www.ada.lk/breaking_news/වගාවට-හානි-කරන-සතුන්-වන්ද්‍යාකරණයට/11-408075) · `si`
+
+වගාහානිය වළක්වා ගැනීමට සතුන් වන්ධ්‍යාකරණයට ලක්කිරීමේ ක්‍රමවේදයක් සකස්කළ යුතු බවත් රිලවුන්ගෙන්, වඳුරන්ගෙන් සහ මොණරුන්ගෙන් ගාල්ල  දිස්ත්‍රික්කයේ සිදුවන වගාහානිය දරුණු වෙමින් පවතින බවත් ගාල්ල දිස්ත්‍රික් සම්බන්ධීකරණ කමිටු සභාපති පාර්ලිමේන්තු මන්ත්‍රී සම්පත් අතුකෝරළ මහතා කීවේය.
+
+සතුන්ගෙන් සිදුවන වගා හානිය සමස්ත වගාවෙන් තුනෙන් එකක් පමණ වන බවත් මෙයට විසඳුම් ලබාගත නොහැකිනම් ගොවීන් වගාවෙන් ඈත්වීම වැළැක්විය නොහැකි බවත් පැවසූ ගාල්ල දිස්ත්‍රික් ලේකම් ශාන්ත වීරසිංහ මහතා වැඩිදුරටත් කියා සිටියේ වනජීවී දෙපාර්තමේන්තුව සමඟ සාකච්ඡා කළ විට සතුන් ආරක්ෂා කිරීම හැර සතුන්ට හානි කිරීමේ කිසිම දෙයක් කළ නොහැකි බව පවසන බවයි.
+
+“හානිකර සතුන්ගේ ගහන පාලනය කිරීමට විද්‍යාත්මක සහයක් අවශ්‍යයි. පේරාදෙණිය විශ්වවිද්‍යාලය මේ ගැන පර්යේෂණ කර තිබෙනවා. මහනුවර දිස්ත්‍රික්කයේ එවැනි වැඩසටහන් ක්‍රියාත්මක වුණා. අපි සතුන් ආරක්ෂා කිරීම කළ යුතුයි. නමුත් වෙනත් රටවල මෙවැනි හානිකරන සතුන් ගේ ගහනය පාලනය කිරීමට  සතුන් ආරක්ෂා කරන ආයතනම කටයුතු කරනවා.”
+
+මෙහි දී අදහස් දැක්වූ කෘෂිකර්ම අමාත්‍යාංශයේ ‍ලේකම් ඒ.යූ.වේලාරත්න මහතා මෙසේ කීවේය.
+
+...
+
+[Data](articles/7d443755.json)
 
 ---
 
@@ -1861,151 +1983,5 @@ One of the main challenges we face today is the problem of managing income and c
 [Data](articles/67309243.json)
 
 [Extended Data](ext_articles/67309243.ext.json)
-
----
-
-### Executive power is necessary - Minister Douglas announces!
-
-*2024-02-14 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176312) · `ta`
-
-Minister Douglas Devananda said he hoped to solve various issues through the executive presidency in the country and said that he was deeply deeper to the construction of equal power between the executive president and parliament.
-
-The Minister said this in a speech to the media on Tuesday (13) at the Auditorium of the Divisional Secretariat.
-
-This is one of the issues discussed for political reasons from time to time.At the same time, if the Tamil side was taken, the executive presidency was welcomed by it.. After that, it is not necessary, but it is a situation where it has been welcomed.
-
-But in an environment where the country today is present, there is a need for executive power. The reason is that we believe that we can solve many problems through executive power.
-
-At the same time, executive power is a matter of many other countries of the world. Nevertheless, I have the opinion that equality between parliament and executive power.
-
-...
-
-[Data](articles/9b211749.json)
-
-[Extended Data](ext_articles/9b211749.ext.json)
-
----
-
-### 1500 lakhs worth of garments purchased without the permission of the Customs Unit
-
-*2024-02-14 00:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176311) · `ta`
-
-The Customs Revenue Surveillance Division of the Customs Customs Department of Customs has been seized by the Sri Lanka Customs Customs.
-
-4 suspected 4 containers from Malaysia to the country were detained by the Customs Division on Tuesday (13).
-
-The Customs Monitoring Unit said that about 1,60,000 garments were purchased from one of the most popular company in the containers.. Investigations have revealed that all the documents submitted to the customary customs have been reported to be purchased for only clothes.
-
-The Customs Department said that the value of the confiscated clothes was estimated at around Rs 1500 lakhs and would have suffered about 60 million rupees to the customs if they were released to the market.
-
-In addition, the Customs Unit are conducting further investigations into the owner and seized garments.
-
-◼️
-
-[Data](articles/9e9e46ba.json)
-
-[Extended Data](ext_articles/9e9e46ba.ext.json)
-
----
-
-### 2024-02-13 (Tuesday)
-
-### Sreedharan, who met the Canadian Ambassador
-
-*2024-02-13 23:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176310) · `ta`
-
-At the invitation of the Canadian embassy in Sri Lanka, MPs Sivagnanam Sreedharan and Charles Nirmalanathan met Canadian Ambassador Eric Wols on Tuesday 13th.
-
-Daniel Wood of the Canadian Embassy Daniel Wood and Political Officer Ganesanathan Sahityanan were also present.
-
-The Ambassador congratulated Sreedharan MP for elected as the new leader of the Sri Lankan Tamil party and said he was ready to contribute to the political welfare of the Eelam Tamils.
-
-◼️
-
-[Data](articles/d6309b0a.json)
-
-[Extended Data](ext_articles/d6309b0a.ext.json)
-
----
-
-### Regulations to safeguard citizens’ rights in personal data handling to be finalized soon
-
-*2024-02-13 23:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97246/regulations-to-safeguard-citizens-rights-in-personal-data-handling-to-be-finalized-soon) · `en`
-
-Sri Lanka Data Protection Authority’s Chairman, Arjuna Herath, has asserted that rules and regulations crucial for overseeing the protection of citizen rights within both public and private sector entities involved in personal data processing would be finalized at the earliest possible.
-
-This initiative, emphasized in the preamble of the Personal Data Protection Act, aims to not only ensure compliance but also foster an environment conducive to digital economic growth and innovation.
-
-Following the issuance of an Extraordinary Gazette notification for the Personal Data Protection Act No. 9 of 2022 by the President, and in accordance with constitutional provisions vested in the Minister of Technology, Part V of the Act will be enforced starting July 2023. This will empower the President to appoint the Chairman and Board of Directors for the Authority.
-
-...
-
-[Data](articles/c68b2f32.json)
-
-[Extended Data](ext_articles/c68b2f32.ext.json)
-
----
-
-### SC rules against an overholding tenant after 21 years legal battle
-
-*2024-02-13 23:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SC-rules-against-an-overholding-tenant-after-21-years-legal-battle/108-276945) · `en`
-
-The Supreme Court has delivered a judgement against an overholding tenant who continued to occupy a property after his rental agreement had expired, following a 21 year legal battle.
-
-The plaintiffs, Bopage Martin and Indrani Bopage, the father and the daughter respectively had filed a plaint before Anuradhapura District Court in 2003 seeking ejectment of three defendants from the premises known as “New Lanka Stores” located at Horawpathana town, on the basis that the defendants are the overholding tenants.
-
-The defendants Mohamed Malikge Nawaz, Mohamed Malikge Riyaz and Mohamed Malikge Farees filed answers seeking the dismissal of the plaintiffs’ action and a declaration of title to the premises on “long possession” or claiming title to the premises by prescription. During the pendency of the case the first plaintiff (father) died and the second plaintiff (daughter) proceeded with the case.
-
-...
-
-[Data](articles/ad6831a0.json)
-
-[Extended Data](ext_articles/ad6831a0.ext.json)
-
----
-
-### Santo became the captain of Bangladesh's trio cricket teams
-
-*2024-02-13 23:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176309) · `ta`
-
-The Bangladesh Cricket Board has appointed Najmul Hosain Santo as the captain of the trio cricketers next year.
-
-Shando has been given the responsibility of the team because of the uncertainty of returning to former team captain Shakib al -Hasan.
-
-Shanto was the leader of Bangladesh in the three -year series against New Zealand in December.
-
-According to the new appointment, he will lead the Bangladesh team in the United States and the Caribbean Islands in June this year.
-
-Shakib al -Hasan has said that he will quit the post of international ODI captain with the World Cup in India.
-
-Due to this, the problem arose on the post of captain of the Bangladesh team. And in his left eye, he could not continue to play due to a retina problem last month.
-
-The Bangladeshi Cricket Board said that although we consider Shakiba as our first choice, he had to hand over the responsibility to Santo in view of his physical condition.
-
-...
-
-[Data](articles/93727334.json)
-
-[Extended Data](ext_articles/93727334.ext.json)
-
----
-
-### Customs impounds illegally imported readymade garments worth Rs. 150mn
-
-*2024-02-13 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97245/customs-impounds-illegally-imported-readymade-garments-worth-rs-150mn) · `en`
-
-Sri Lanka Customs on Tuesday (Feb.13) foiled an attempt to smuggle in 4 container loads of readymade garments worth approximately Rs. 150 million.
-
-The shipment, falsely declared as fabric, had been sent from Malaysia. Around 44,000 readymade garments were recovered from each container.
-
-Had the containers been cleared undetected, the government would have incurred a loss to the tune of Rs. 60 million, Customs officials revealed.
-
-The consignees of this shipment were identified as apparel companies located in Wattala, Colombo and Panadura.
-
-◼️
-
-[Data](articles/5510c4c7.json)
-
-[Extended Data](ext_articles/5510c4c7.ext.json)
 
 ---

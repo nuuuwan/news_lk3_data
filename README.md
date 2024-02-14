@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 06:16:27**
+As of **2024-02-14 06:53:34**
 
 ## Newspaper Stats
 
-*Scraped **6,846** Articles*
+*Scraped **6,853** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ colombotelegraphcom | 80
 bbccomsinhala | 92
 dbsjeyarajcom | 148
 economynextcom | 350
-islandlk | 358
 newsfirstlk | 363
+islandlk | 365
 dailyftlk | 374
 adalk | 582
 tamilmirrorlk | 835
@@ -26,7 +26,7 @@ dailymirrorlk | 1,004
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,846 (100.0%) of 6,846 articles have been extended.
+6,846 (99.9%) of 6,853 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -620,6 +620,20 @@ Customs said the government would have lost tax revenues of Rs. 3.8 million had 
 
 ---
 
+### AIA Insurance advances expansion with new Regional Development Office in Matara
+
+*2024-02-13 22:32:00* · [`islandlk`](http://island.lk/aia-insurance-advances-expansion-with-new-regional-development-office-in-matara/) · `en`
+
+AIA Insurance continues its strategic expansion efforts with the opening of a new AIA RDO in Matara. Situated at No. 537, Galle Road, Walgama, Matara, this new office represents a significant milestone in AIA’s commitment to enhancing its distribution network and customer outreach.
+
+The opening ceremony marked the beginning of a new chapter for AIA in the Matara City, reinforcing the company’s dedication to providing comprehensive financial solutions to individuals and families. The AIA RDO in Matara is staffed with a team of experienced insurance professionals poised to deliver a diverse array of services, including life insurance, health insurance, retirement plans, and investment solutions.
+
+...
+
+[Data](articles/2c3043cc.json)
+
+---
+
 ### Todumbu Civil Police
 
 *2024-02-13 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193346) · `si`
@@ -635,6 +649,20 @@ However, residents accused nearly 40 civilian police officers and damaged them f
 [Data](articles/cc4b87e4.json)
 
 [Extended Data](ext_articles/cc4b87e4.ext.json)
+
+---
+
+### Bourse facing a degree of turbulence triggered by political uncertainty
+
+*2024-02-13 22:28:00* · [`islandlk`](http://island.lk/bourse-facing-a-degree-of-turbulence-triggered-by-political-uncertainty/) · `en`
+
+The stock market is currently experiencing a degree of turbulence due to political uncertainty stemming from public perceptions that elections will not be held as scheduled. Consequently, investors are a bit worried about investing in the stock market, market analysts explained.
+
+Amid those developments both indices moved downwards. The All Share Price Index went down by 26.74 points and S and P SL20 declined by 7.39 points. Turnover stood at Rs 711 million with one crossing. The crossing was reported in JKH, which crossed 500,000 shares to the tune of Rs 94.1 million; its shares traded at Rs 181.25.
+
+...
+
+[Data](articles/54c74ccf.json)
 
 ---
 
@@ -1241,6 +1269,30 @@ Asanga Perera, son of former United National Party (UNP) parliamentarian Gamini 
 [Data](articles/b26d55b0.json)
 
 [Extended Data](ext_articles/b26d55b0.ext.json)
+
+---
+
+### ‘Cooperative Square’ to be constructed as a public, private, cooperative partnership project
+
+*2024-02-13 18:59:00* · [`islandlk`](http://island.lk/cooperative-square-to-be-constructed-as-a-public-private-cooperative-partnership-project/) · `en`
+
+The Cabinet of Ministers granted approval to the resolution furnished by the Minister of Trade, Commerce and Food Security to construct a cooperative trade centre named ‘Cooperative Square’ as a public, private and  cooperative partnership project, without being a burden to the consolidated fund as recommended by the  National Development Committee.
+
+Related Topics:‘Cooperative Square’Cabinet DexisionsCommerce and Food SecurityMinister of TradeNational Development Committee
+
+Electronic Media Broadcasting Authority Act will be enacted soon, National Media Policy awaiting Cabinet approval – State Minister for Mass Media
+
+Freehold ownership to Sri Lanka Mahaweli Authority license holders under ‘Urumaya Programme’
+
+Cabinet nod for import of  50,000 metric tons of GR 11 rice category
+
+Cabinet gives green light to import 18 million eggs from India
+
+Egg imports to continue this year –  Minister of Trade, Commerce and Food Security
+
+...
+
+[Data](articles/a33b437f.json)
 
 ---
 
@@ -1957,73 +2009,5 @@ The king of the 8 year old sentence imposed on the 8-year-old Prime Minister he 
 [Data](articles/19dc85a8.json)
 
 [Extended Data](ext_articles/19dc85a8.ext.json)
-
----
-
-### Atalagama girl murder sentenced to 27 years
-
-*2024-02-13 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193333) · `si`
-
-A monk was abducted by abducting a 9-year-old girl and sentenced the blame to 27 years of jail.
-
-About two and a half years, this crime was committed in the 8th of the 8th year.
-
-The murder of non-false murder and the girl were sentenced to the allegations of abduction and abuse of the mother.
-
-Farook Mohamed Ganesanathan was ordered to pay a sum of Rs.
-
-The judge also ordered the annual loose imprisonment of the year.
-
-The girl had taken the girl in the surrounding forest with the intention of raping the shop near the house on 2222.05.27.
-
-Investigations have revealed that the victim was later trying to rape the girl, but the girl's screaming has been revealed that the girl has been killed in a mud band.
-
-◼️
-
-[Data](articles/c62aa998.json)
-
-[Extended Data](ext_articles/c62aa998.ext.json)
-
----
-
-### DroughtRequest to drink too much water!
-
-*2024-02-13 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176274) · `ta`
-
-The public has been asked to take necessary steps to protect themselves from dehydration due to the prevailing hot situation in the country.
-
-Deepal Perera, a specialist on the children's disease of the Children's Hospital in Colombo, said that the children, athletes and the armed forces, in particular, could suffer from diabetes.
-
-Fatigue, sleep, fatigue, headache, vomiting and appetite are symptoms of diabetes.
-
-Therefore, the public should continue to drink water to prevent dehydration.
-
-Meanwhile, the Department of Meteorology has predicted that the country is expected to expect rainfall in April.
-
-It is noteworthy that the department has pointed out that although some areas are currently experiencing some rainfall, the dry weather will prevail until April.
-
-◼️
-
-[Data](articles/440760ff.json)
-
-[Extended Data](ext_articles/440760ff.ext.json)
-
----
-
-### Beliatta Five Massacre: Explanation for Three
-
-*2024-02-13 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176285) · `ta`
-
-Three suspects in connection with the murder of five people in Beliatta have been remanded until the 27th of this month.
-
-The order was issued when the suspects were produced before the Tangalle Court on Tuesday (13).
-
-The wife of the man who was arrested in Vayangoda was produced in court, his father and 23 -year -old Juwati from the arrested Galle Boosa.
-
-◼️
-
-[Data](articles/8352e5da.json)
-
-[Extended Data](ext_articles/8352e5da.ext.json)
 
 ---

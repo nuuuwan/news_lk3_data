@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 19:17:14**
+As of **2024-02-14 19:32:51**
 
 ## Newspaper Stats
 
-*Scraped **7,019** Articles*
+*Scraped **7,025** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 94
 dbsjeyarajcom | 149
 newsfirstlk | 363
 islandlk | 365
-economynextcom | 367
+economynextcom | 369
 dailyftlk | 376
-adalk | 598
-tamilmirrorlk | 854
-adaderanalk | 861
+adalk | 599
+tamilmirrorlk | 855
+adaderanalk | 863
 virakesarilk | 897
 adaderanasinhalalk | 987
 dailymirrorlk | 1,028
@@ -26,37 +26,91 @@ dailymirrorlk | 1,028
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,018 (100.0%) of 7,019 articles have been extended.
+7,019 (99.9%) of 7,025 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### ආදරවන්තයින්ගේ දවසේ බලන්නම ඕන කතාවක්
+### Sri Lanka parliament panel questions gaming regulator delay
+
+*2024-02-14 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-panel-questions-gaming-regulator-delay-150833/) · `en`
+
+ECONOMYNEXT – Sri Lanka parliament’s Committee on Public Finance (COPF) has questioned a delay in setting up a regulator for the gaming industry, a statement said.
+
+The government had earlier promised to set up the regulator by December 31, 2023.
+
+The COPF had summoned director general of fiscal policy and sought details of physical and online casinos, including tax amounts, and requested a proposed plan to recover outstanding taxes.
+
+“Stressing the vital role of a gaming regulator in both attracting investment and recouping billions of lost revenue, COPF members emphasized the urgency of this legislation. They highlighted that inadequate regulations result in substantial losses for the government. Consequently, the MOF representative indicated a need for additional expertise to construct a robust revenue model similar to Singapore’s,” the Parliament statement read.
+
+COPF granted a two-week extension for this while expecting completion of the legislation by March 31. (Colombo/Feb14/2024)
+
+◼️
+
+[Data](articles/39e11adc.json)
+
+---
+
+### COPF summons Fiscal Policy Dept’s DG over gaming regulator delay
+
+*2024-02-14 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97273/copf-summons-fiscal-policy-depts-dg-over-gaming-regulator-delay-) · `en`
+
+The Committee on Public Finance (COPF) has summoned the Director General of the Fiscal Policy Department of the Finance Ministry to inquire into the delays in establishing a gaming regulator.
+
+The inaugural COPF meeting of the 5th session of the 9th Parliament was held on Tuesday (Feb.13), chaired by MP Dr. Harsha de Silva, who was re-appointed to the position.
+
+Despite the agreed-upon deadline of December 31, 2023 for the regulator’s establishment, it remains unresolved, the COPF observed during the meeting. It was also revealed that the committee has received no responses to its follow-up inquiries.
+
+Stressing the vital role of a gaming regulator in both attracting investment and recouping billions of lost revenue, COPF members emphasized the urgency of this legislation.
+
+...
+
+[Data](articles/8d0c860e.json)
+
+---
+
+### A story to see the Valentine's day
 
 *2024-02-14 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193381) · `si`
 
-ආදරවන්තයින්ගේ දවසේ මේ අමුතුම කතාව ඇහෙන්නේ ආදර කතාවල කෙන්බිමක් වූ සුන්දර හන්තාන අරණේ පේරාදෙණිය සරසවියෙනි.
+The oddest talk of Valentine is a Kenbima, a Kenbima, Kenbima, University of Hanthana, University of Peradeniya.
 
-රෝස මලකට, සුබපැතුමකට සීමා නොවී ජීවිතයේ යථාර්ථය හැඳිනගත් මේ පෙම්වතුන් සරසවියේ තෙවැනි වසරේ විද්‍යාර්ථයින්.
+For a rose, the third year evidence of the victims of life without confines to a greeting.
 
-පෙම්වතුන් සුන්දර ස්ථාන සොයා යද්දී නුවන් සහ උදයංගනී සොයා යන්නේ ජීවිතය ජයගන්නට පුළුවන් ආකාරයකි.
+Nuwan and Udayangi finds a way to overcome life.
 
-පේරාදෙණිය ගලහ මාර්ගයේ පුංචි ඉඩක ඉදිකරගත් කුඩා මඩුවක පුංචියට ආරම්භ කළ ආහාර අලෙවිසැලෙන් ඔවුන් තම අධ්‍යාපනයට මුදල් හොයාගත්තා වගේම තම පවුල්වලටත් සවියක් විය.
+The food outlet started in a small shed in a small piece of land, which was built in a small space built in a small space built in a small space in a small space built in a small space in the Peradeniya road, found money and was a comfort to his families.
 
-දෙදෙනාගේ මේ දිරිය කතාව සරසවියේ පාලක මණ්ඩලයටත් කනවැකීමත් සමග මේ උත්සාහවන්තයින් දෙපළට සරසවිය තුළ ආපන ශාලාවක් පවත්වාගෙන යන්න ඉඩ ලැබීම විශේෂත්වයකි.
+With the acting of the two Diriya Story University university, the two cases, there is a significance that the two people have been able to run a restaurant in the university.
 
-පේරාදෙණිය සරසවියේ වගේම රටේම ආදර කතා අතරේ මේ වෙනස්ම ආදර කතාවේ පෙම්වතුන් තරුණ තරුණියන්ට දුන් උපදෙස ඉහතින්.
+The admonition of this different romantic speech is among the love story of the Peradeniya University as well as the love story of this different love story.
 
 ◼️
 
 [Data](articles/2216aac4.json)
 
+[Extended Data](ext_articles/2216aac4.ext.json)
+
+---
+
+### T-bills weighted average enter single digits for first time in over 22 months
+
+*2024-02-14 18:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97272/t-bills-weighted-average-enter-single-digits-for-first-time-in-over-22-months) · `en`
+
+The Weighted Average Yield Rates (WAYR) of Treasury Bills with a maturity period of both, 91 days and 182 days, have come down to single-digits at the Treasury Bill auction held today (14 Feb), according to the Central Bank of Sri Lanka (CBSL).
+
+Accordingly, the WAYR of Treasury Bills have dropped down to single digit levels for the first time since 04 March 2022.
+
+◼️
+
+[Data](articles/f9d5a54a.json)
+
 ---
 
 ### Motorcycle - State Bus Accident on A9 Road, Jaffna
 
-*2024-02-14 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176393) · `ta`
+*2024-02-14 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176393) · `ta`
 
 The incident took place at around 4.15 pm on Wednesday (14) at Navatkuli area, Jaffna - Thenmarachchi - A 9 Road.
 
@@ -69,6 +123,24 @@ Despite the damage to the motorcycle, the two passengers were not injured.
 [Data](articles/ee5b109e.json)
 
 [Extended Data](ext_articles/ee5b109e.ext.json)
+
+---
+
+### After Nas Daily success, Sri Lanka tourism focuses more on influencer marketing
+
+*2024-02-14 18:17:00* · [`economynextcom`](https://economynext.com/after-nas-daily-success-sri-lanka-tourism-focuses-more-on-influencer-marketing-150882/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s Tourism Promotion Bureau (SLTPB) is in the process of bringing down 30 wellness influencers and Canada-based culinary influencer Luke Martin  to promote the island nation’s tourism with effect from February 14, its chairman said, after success in social media influencer Nas Daily’s posts.
+
+Popular international vlogger ‘Nas Daily’ has already released his video promoting Sri Lanka tourism. His videos have reached more than 25 million people in two months, SLTPB Chairman Chalaka Gajabahu said.
+
+“We are going to be more category-specific in our influencer marketing and target categories such as culinary, adventure and wellness,” Gajabahu told reporters at a media briefing in Colombo.
+
+“We are welcoming 30 wellness influencers from France and Germany. This is a project between the European Union and the Sri Lanka Tourism Promotion Bureau.”
+
+...
+
+[Data](articles/7c26e43a.json)
 
 ---
 
@@ -87,6 +159,20 @@ Pramod Madushan took three wickets.
 [Data](articles/fa7514f8.json)
 
 [Extended Data](ext_articles/fa7514f8.ext.json)
+
+---
+
+### Facebook was paralyzed
+
+*2024-02-14 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176392) · `ta`
+
+Does Facebook Disable?It is noteworthy that the computer is complaining of 8L without access.
+
+◼️
+
+[Data](articles/c31cbc42.json)
+
+[Extended Data](ext_articles/c31cbc42.ext.json)
 
 ---
 
@@ -111,20 +197,6 @@ While the motive behind the shooting has not been ascertained yet, investigation
 [Data](articles/44a11ebf.json)
 
 [Extended Data](ext_articles/44a11ebf.ext.json)
-
----
-
-### Facebook was paralyzed
-
-*2024-02-14 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176392) · `ta`
-
-Does Facebook Disable?It is noteworthy that the computer is complaining of 8L without access.
-
-◼️
-
-[Data](articles/c31cbc42.json)
-
-[Extended Data](ext_articles/c31cbc42.ext.json)
 
 ---
 
@@ -806,6 +878,26 @@ The Balangoda Magistrate has ordered the seven senior students who have already 
 
 ---
 
+### அழைப்பை நிராகரிக்க உரிமை
+
+*2024-02-14 15:41:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அழைப்பை-நிராகரிக்க-உரிமை/50-333200) · `ta`
+
+ஆஸ்திரேலிய பாராளுமன்றத்தில் செனட் மற்றும் பிரதிநிதிகளின் சபை என இரு அவைகள் உள்ளன. செனட் சபை, அந்நாட்டு ஊழியர்களின் நலன் கருதி "ரைட் டு டிஸ்கனெக்ட்" (Right to Disconnect) எனும் "தொடர்பு அறுக்கும் உரிமை" குறித்து சட்டம் இயற்றியுள்ளது.
+
+இச்சட்டத்தின்படி, ஊழியர்களை பணியமர்த்தும் நிறுவனங்கள், தங்கள் பணி நேரத்தை முடித்த ஊழியர்களை, நிறுவன அதிகாரிகள் செய்தி, மின்னஞ்சல் மற்றும் தொலைபேசி அல்லது வேறு எந்த வகையிலும் தொடர்பு கொள்வது தடை செய்யப்பட்டுள்ளது.
+
+அதே போன்று, பணிக்கான நேரம் முடிந்ததும் ஊழியர்கள் தங்கள் தொலைபேசிகளை  அணைத்து வைத்து கொள்வதும் அவர்களின் உரிமை என நிர்ணயிக்கப்பட்டுள்ளது.
+
+மேலும், மென்பொருள், தகவல் தொடர்பு உள்ளிட்ட பல துறைகளில் பணிக்கான நேரம் முடிந்து ஊழியர்கள் சென்ற பிறகும், தங்கள் மின்னஞ்சலை அவ்வப்போது பார்த்து அலுவல் குறித்த முடிவுகளை எடுக்க கட்டாயப்படுத்தப்படுகிறார்கள்.
+
+தாங்கள் தேவையற்று அழைக்கப்படுவதாக பணியாளர்கள் உணர்ந்தால் நிறுவன மேலிடத்தில் தெரிவிக்க வேண்டும். அதில் தீர்வு காணப்படவில்லை என்றால், பணியாளர் நல ஆணையத்திடம் முறையிடலாம்.
+
+...
+
+[Data](articles/f830e3be.json)
+
+---
+
 ### The importance of the national anthem, the importance of the national flag is necessary for everyone to be mentally and physically - Minister Douglas Devananda
 
 *2024-02-14 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176373) · `ta`
@@ -1057,6 +1149,24 @@ He said the President had made statements on several recent occasions indicating
 [Data](articles/fbc543c3.json)
 
 [Extended Data](ext_articles/fbc543c3.ext.json)
+
+---
+
+### සෞඛ්‍ය ,ප්‍රවාහනය,දුම්රිය සේවා,තැපැල් අත්‍යවශ්‍ය සේවා බවට පත් කෙරේ
+
+*2024-02-14 14:31:54* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය--ප්‍රවාහනය-දුම්රිය-සේවා-තැපැල්-අත්‍යවශ්‍ය-සේවා-බවට-පත්-කෙරේ/11-408084) · `si`
+
+සෞඛ්‍ය ,පොදු ගමනාගමනය ,දුම්රිය ගමනාගමනය සහ තැපැල් සේවා සාමාන්‍ය ජන ජීවිතය පවත්වාගෙන යාමට අත්‍යවශ්‍ය සේවා බවට පත්කරමින් ජනපති නියමයෙන් අති විශේෂ ගැසට් පත්‍ර දෙකක් අද (13 )නිකුත් කර තිබේ.
+
+මේ අනුව එක් ගැසට් නිවේදනයක් මගින් රෝහල්වල,සාත්තු නිවාසවල, බෙහෙත් ශාලා සහ වෙනත් සමාන ආයතනවල රෝගීන් නඩත්තු කිරීම සහ පිළිගැනීම ,රැකවරණය ,පෝෂණය කිරීම සහ ප්‍රතිකාර කිරීම සම්බන්ධව අවශ්‍ය හෝ කළ යුතු ඕනෑම සේවා හෝ ක්‍රමය අත්‍යවශ්‍ය සේවා බවට පත් කර ඇත.
+
+තවද මගීන් හෝ බඩු ප්‍රවාහන පොදු ගමනාගමන සේවා ,දුම්රිය මාර්ග ගමනාගමන සේවා සඳහා පහසුකම් සැලසීම හා පවත්වාගෙන යාම සහ තැපැල් සේවා සේවා අත්‍යවශ්‍ය සේවා බවට පත්කරමින් අනෙක් ගැසට් නිවේදනය නිකුත්කර තිබේ.
+
+ජනාධිපතිවරයාගේ නියමයෙන් ජනාධිපති ලේකම් ඊ.එම්.එස්.බී.ඒකනායක මහතා විසින් මෙම නිවේදන නිකුත් කර ඇත.
+
+◼️
+
+[Data](articles/ddef7137.json)
 
 ---
 
@@ -1923,121 +2033,5 @@ The Minister of Health was also given to take a pre-study on the right study of 
 [Data](articles/05d3986d.json)
 
 [Extended Data](ext_articles/05d3986d.ext.json)
-
----
-
-### Attack at Sabaragamuwa University: 6 more students arrested
-
-*2024-02-14 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176342) · `ta`
-
-Samanalawewa police have arrested six more senior students in connection with the attack on a Sabaragamuwa University Faculty student and two students.
-
-The attack took place at a night restaurant on the 9th and a student and two students were injured and taken to the hospital, Samanalawewa police said.
-
-Samanalawewa police said that 7 senior students were arrested in connection with the incident and produced before the Balangoda court.
-
-These six senior students have been arrested after surrendering to the Samanalawewa police.
-
-◼️
-
-[Data](articles/43081002.json)
-
-[Extended Data](ext_articles/43081002.ext.json)
-
----
-
-### Watcher's body at the sea
-
-*2024-02-14 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193360) · `si`
-
-A carcirror in the Sea near the Beruwala Fisheries Hall area.
-
-A person who was a guard at the Fisheries Harbor has fallen into the sea, reports say.
-
-The victim has arrived at the respective night and his body was found in a later investigation.
-
-◼️
-
-[Data](articles/a1e009a5.json)
-
-[Extended Data](ext_articles/a1e009a5.ext.json)
-
----
-
-### Cabinet Authorization to provide land rights
-
-*2024-02-14 11:48:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணி-உரிமைகளை-வழங்க-அமைச்சரவை-அங்கீகாரம்/175-333183) · `ta`
-
-The Cabinet has approved the provision of land rights under the Mahaweli Land Scheme.
-
-Accordingly, the Urumaya Urumaya Urumaya Scheme, which provides full rights to state lands for those receiving land permits and allowances, will be used by the Sri Lanka Mahaweli Authority.
-
-Accordingly, according to the program implemented by the Ministry of Tourism and Land, it has been approved to implement a traditional program for Mahaweli Lands.
-
-◼️
-
-[Data](articles/a2f18b76.json)
-
-[Extended Data](ext_articles/a2f18b76.ext.json)
-
----
-
-### Sri Lanka rupee trades at 313.20/30 to the US dollar
-
-*2024-02-14 11:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-at-313-20-30-to-the-us-dollar-150746/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading at 313.20/30 to the US dollar Wednesday, from 313.10/30 on Tuesday, dealers said.
-
-A bond maturing on 01.02.2026 was quoted at 10.55/85 percent down from 10.50/60 percent.
-
-A bond maturing on 15.09.2027 was quoted at 11.35/45 percent from 11.40/50 percent.
-
-A bond maturing on 15.03.2028 was quoted at 11.80/90 percent from 11.70/80 percent.
-
-On the Colombo Stock Exchange, the All Share Price Index was up 0.05 percent at 10,562, while the S&P SL20 was down 0.04 percent at 3,021. (Colombo/Feb14/2024)
-
-◼️
-
-[Data](articles/932b16bf.json)
-
-[Extended Data](ext_articles/932b16bf.ext.json)
-
----
-
-### Two men nabbed with over 1,400 capsules of controlled drugs
-
-*2024-02-14 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97256/two-men-nabbed-with-over-1400-capsules-of-controlled-drugs) · `en`
-
-Sri Lanka Navy has apprehended two suspects who were in possession of as many as 1,472 capsules of controlled drugs.
-
-The duo was nabbed in Mannar on Tuesday (Feb.13) during a coordinated operation mounted by SLNS Gajaba of the North Central Naval Command, with the assistance of Mannar Division Crimes Investigation Bureau.
-
-The first suspect was taken into custody after a stop-and-search in Uppukulam, Mannar during which 20 Pregabalin capsules were seized.
-
-While being interrogated, he had divulged information about an accomplice, who was later apprehended in a separate operation conducted in the same area. The naval personnel also recovered 1,432 Pregabalin capsules from a house and 20 more capsules inside a three-wheeler.
-
-The suspects held in this operation were identified as residents of Silawathura and Mannar, aged 28 and 29. They were handed over to the Mannar Police, along with the impounded controlled drugs and the vehicle, for onward legal action.
-
-◼️
-
-[Data](articles/42dfce0c.json)
-
-[Extended Data](ext_articles/42dfce0c.ext.json)
-
----
-
-### Workplace continues for the second day of health trade unions
-
-*2024-02-14 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/176339) · `ta`
-
-72 health trade unions across the country are facing various difficulties at the Vavuniya District General Hospital due to work on the second day on Wednesday (14).
-
-At the same time, many patients still returned and many people were facing difficulties in getting drugs.
-
-◼️
-
-[Data](articles/7aac9595.json)
-
-[Extended Data](ext_articles/7aac9595.ext.json)
 
 ---

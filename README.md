@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 11:52:01**
+As of **2024-02-14 12:02:27**
 
 ## Newspaper Stats
 
-*Scraped **6,908** Articles*
+*Scraped **6,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 365
 dailyftlk | 376
 adalk | 588
 tamilmirrorlk | 844
-adaderanalk | 844
+adaderanalk | 847
 virakesarilk | 875
 adaderanasinhalalk | 965
 dailymirrorlk | 1,013
@@ -26,11 +26,33 @@ dailymirrorlk | 1,013
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,908 (100.0%) of 6,908 articles have been extended.
+6,911 (100.0%) of 6,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### Protesting Indian farmers marching towards New Delhi clash with security forces
+
+*2024-02-14 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97255/protesting-indian-farmers-marching-towards-new-delhi-clash-with-security-forces) · `en`
+
+Protesting farmers who were attempting to reach the capital New Delhi clashed with security forces for a second day on Wednesday, with drones being used to drop tear gas shells, television visuals showed.
+
+Hundreds of farmers, travelling on trucks and trolleys loaded with food, bedding and other supplies, began marching towards Delhi on Tuesday morning after talks between their unions and the government failed to yield a commitment regarding minimum prices for a range of crops.
+
+The protesters were stopped by security forces at the Shambhu border that divides Punjab and Haryana - the northern states to which most of the protesters belong - almost 200km (125 miles) from their destination.
+
+“We want the prime minister to come forward and speak to the farmers,” Sarwan Singh Pandher, general secretary of the Punjab Kisan Mazdoor Sangharsh Committee, told Indian news agency ANI.
+
+Farmers say the government has failed to fulfil its 2021 promise of paying more for crops.
+
+...
+
+[Data](articles/70f06cb7.json)
+
+[Extended Data](ext_articles/70f06cb7.ext.json)
+
+---
 
 ### Suspects in detainees arrested seven croanried acres
 
@@ -57,6 +79,26 @@ The two suspects were admitted to the Colombo National Hospital after admission 
 [Data](articles/7ae1a8a4.json)
 
 [Extended Data](ext_articles/7ae1a8a4.ext.json)
+
+---
+
+### Independent commissions inefficient due to appointment of retired officers - Minister
+
+*2024-02-14 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97254/independent-commissions-inefficient-due-to-appointment-of-retired-officers-minister) · `en`
+
+Minister of Education Susil Premajayantha says the recruitment of 54 principals for national schools has been on hold for months now due to the inefficiency of the Public Service Commission.
+
+Premajayantha pointed out that as a result of appointing retired individuals to the independent commissions, these institutions have become ineffective.
+
+“We have been trying for 06 months now. I also remind commission of the matter every week. The Public Service Commission has not given approval to issue the gazette [to recruit principals]”, the minister mentioned.
+
+Emphasizing that there is no point in establishing independent commissions if retired officers are appointed to run them, the minister also revealed his intention to bring the matter up during the parliamentary session soon.
+
+◼️
+
+[Data](articles/a6f4fb7d.json)
+
+[Extended Data](ext_articles/a6f4fb7d.ext.json)
 
 ---
 
@@ -177,6 +219,24 @@ He said the government would continue to have constructive involvement with the 
 [Data](articles/c2d18751.json)
 
 [Extended Data](ext_articles/c2d18751.ext.json)
+
+---
+
+### Timeline for upcoming A/L and O/L exams revealed
+
+*2024-02-14 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97253/timeline-for-upcoming-al-and-ol-exams-revealed) · `en`
+
+Minister of Education Susil Premajayantha has revealed the timeline of the 2023 G.C.E. Ordinary Level and 2024 G.C.E. Advanced Level examinations.
+
+Accordingly, the Ordinary Level exam is planned to be held in May-June 2024 and the Advanced Level exam in December 2024.
+
+The lawmaker said the first term of schools for the academic year 2025 will thus begin on 02 January next year.
+
+◼️
+
+[Data](articles/4457cfa8.json)
+
+[Extended Data](ext_articles/4457cfa8.ext.json)
 
 ---
 
@@ -1975,59 +2035,5 @@ Patta karages were abducted and shot dead, the murderers had been given a teleph
 [Data](articles/a70c1320.json)
 
 [Extended Data](ext_articles/a70c1320.ext.json)
-
----
-
-### Declaration of Health Department Essential Service
-
-*2024-02-13 20:40:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதாரத்துறை-அத்தியாவசிய-சேவையாக-பிரகடனம்/175-333159) · `ta`
-
-The gazette has been issued by the state to declare all the services, work or work or all necessary services for the maintenance, reception, maintenance, food treatment of patients in hospitals, elderly homes, pharmacies, etc.
-
-◼️
-
-[Data](articles/aaac12e0.json)
-
-[Extended Data](ext_articles/aaac12e0.ext.json)
-
----
-
-### Paddy Marketing Board Rs. 124 crores loss
-
-*2024-02-13 20:35:25* · [`adalk`](https://www.ada.lk/breaking_news/වී-අලෙවි-මණ්ඩලය-රු--කෝටි-124ක්-අලාභයි/11-408070) · `si`
-
-The Paddy Marketing Board (NICT) has been a loss of Rs.
-
-The loss in 2020, the loss in the year 2020, the loss was increased by Rs. 56,796,638.The audit has revealed that the audit (717,225,824) in the increase in two hundred and twenty-four.
-
-The Weight Board had to pay Rs.
-
-The Paddy Marketing Boundary was purchased by the paddy stock market, the Treasury and state banks had been able to cover the next season prices and losses for the purchase of paddy.. The Audit Report states that the amount owed by December 2020 million for the loans from two state banks.
-
-The interest paid for this project is Rs. 28,67 million. Thirty-three thousand ninetees (706,737,098) to the Paddy Marketing Board (706,737). Meanwhile, the government's loan to the government has a loan to the government.
-
-◼️
-
-[Data](articles/7832bea4.json)
-
-[Extended Data](ext_articles/7832bea4.ext.json)
-
----
-
-### Nine officers have violated bond agreements a five billion loan
-
-*2024-02-13 20:25:23* · [`adalk`](https://www.ada.lk/breaking_news/බැඳුම්කර-ගිවිසුම්-කඩකළ-නිලධාරීන්-9ක්-රජයට-කෝටි-පහක-ණයක්/11-408069) · `si`
-
-The National Audit Office, which has been issued to the Coconut Research Board of Coconut Research and the National Audit report, which has been issued to be released on 9024-2011, the National Audit Office, which has been issued to be Rs.
-
-Although the Coconut Research Board was serving in the coconut Research, 6 officers who went abroad went with study leave.
-
-Thirty million eighty-three million, eighty-three million people should be owned by the employees. (13,582,035) Also, three research officers who have taken the Board's study leave have been completed in accordance with the academic leave.. However, after three years of service, they had left the Board of Panel before they were exceeded after three months.
-
-...
-
-[Data](articles/2d6ec04e.json)
-
-[Extended Data](ext_articles/2d6ec04e.ext.json)
 
 ---

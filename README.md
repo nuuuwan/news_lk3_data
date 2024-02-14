@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 05:02:27**
+As of **2024-02-15 05:17:25**
 
 ## Newspaper Stats
 
-*Scraped **7,094** Articles*
+*Scraped **7,096** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 862
 adaderanalk | 868
 virakesarilk | 912
 adaderanasinhalalk | 998
-dailymirrorlk | 1,041
+dailymirrorlk | 1,043
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,094 (100.0%) of 7,094 articles have been extended.
+7,094 (100.0%) of 7,096 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### There is no constitutional provision to postpone Presidential election: CBK
+
+*2024-02-15 03:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/There-is-no-constitutional-provision-to-postpone-Presidential-election-CBK/108-277028) · `en`
+
+Colombo, Feb 14 (Daily Mirror) - There is no constitutional provision to postpone Presidential elections, former President Chandrika Bandaranaike Kumaratunga told journalists yesterday.
+
+Ms. Kumaratunga said this in response to a question raised by journalists after an event organized by the United Republic Front in Colombo last evening.
+
+However, she did declined to elaborate to a question raised by journalists on the assurance given by the President’s office recently that Presidential elections will be held despite speculation that the Executive Presidency is to be scrapped.
+
+“All I can say is that Presidential elections cannot be postponed at all,” she added.
+
+◼️
+
+[Data](articles/d873daee.json)
+
+---
 
 ### Doctors arrested with 1,600 drugs
 
@@ -273,6 +291,26 @@ Minister Sabry further emphasised that Sri Lanka will continue to engage constru
 [Data](articles/d69b794f.json)
 
 [Extended Data](ext_articles/d69b794f.ext.json)
+
+---
+
+### The price of a fresh red rose reduced to Rs.300 on Valentines day
+
+*2024-02-15 01:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/The-price-of-a-fresh-red-rose-reduced-to-Rs-300-on-Valentines-day/108-277027) · `en`
+
+Colombo, Feb 14 (Daily Mirror) - Florists from various areas from the country yesterday claimed that they had received more customers to buy roses for Valentine's Day and they used to receive more income.
+
+The shop owners claimed that the prices of fresh flowers have come down in comparison to the past year. Last year, the price of a single red rose was Rs. 600.
+
+Meanwhile, florists at Ven. Baddegama Wimalawansa Mawatha in Colombo, claimed that a single fresh red rose cost Rs.300.
+
+A single red rose wrapped costs Rs.350, while a bouquet of red roses costs Rs. 6,000. Certain bouquets with several roses cost more than Rs. 2,000," the sellers said.
+
+Flower sellers claimed that they had a brisk sales during Valentine's Day and that more people visited their shops.
+
+◼️
+
+[Data](articles/faa9c641.json)
 
 ---
 
@@ -1977,55 +2015,5 @@ He scored 136 runs, and Aimethuthla built a record recording with Omasai.
 [Data](articles/2b5c9727.json)
 
 [Extended Data](ext_articles/2b5c9727.ext.json)
-
----
-
-### Sri Lanka stocks close down, low investor interest
-
-*2024-02-14 16:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-low-investor-interest-150849/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
-
-The broader All Share Index closed down 25.80 points, or 0.24 percent at 10,531, while the S&P SL20 Index closed up at 3,024 points, up 0.06 percent, or 1.73 points.
-
-Commercial Bank of Ceylon Plc the most active volumes traded in the day (134) and the share closed down at 88.60.
-
-Trades in the Banks sector (162mn) added the most to the day’s turnover.
-
-Other sectors that attracted investor interest were Food, Beverage and Tobacco (130mn), and Capital Goods (120mn).
-
-Shares of Distilleries Company of Sri Lanka Plc closed up at 25.80, while Lion Brewery Ceylon Plc closed down at 950.00.
-
-Positive contributors to the ASPI in the day included Hayleys Plc (up at 76.50), Hatton National Bank Plc (up at 163.00), and Aitken Spence Plc (up at 118.00). (Colombo/Feb14/2024).
-
-◼️
-
-[Data](articles/46c3c8d3.json)
-
-[Extended Data](ext_articles/46c3c8d3.ext.json)
-
----
-
-### Indonesia's controversial defense minister in the presidential election
-
-*2024-02-14 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176381) · `ta`
-
-According to polls, Defense Minister Prabhoo Subiyanto is in the presence of Indonesia's presidential election.
-
-According to polls, the Defense Minister has received 58 %, with 72 percent.
-
-Indonesia's controversial defense minister has promised to pursue the policies of former Joko Vitovido.
-
-The stunning growth of the Indonesian economy during the ten -year regime of the former president has turned the view of foreign investors to that country.
-
-However, human rights activists have expressed concern over the president of the Defense Minister because he was involved in human rights violations in the past.
-
-The US has banned Prabhovo Subiona on the basis of kidnapping and murdering pro -democratic activists.
-
-◼️
-
-[Data](articles/bd588e5c.json)
-
-[Extended Data](ext_articles/bd588e5c.ext.json)
 
 ---

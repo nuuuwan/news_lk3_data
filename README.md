@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 12:02:27**
+As of **2024-02-14 12:17:15**
 
 ## Newspaper Stats
 
-*Scraped **6,911** Articles*
+*Scraped **6,913** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ islandlk | 365
 dailyftlk | 376
 adalk | 588
 tamilmirrorlk | 844
-adaderanalk | 847
+adaderanalk | 848
 virakesarilk | 875
 adaderanasinhalalk | 965
-dailymirrorlk | 1,013
+dailymirrorlk | 1,014
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,911 (100.0%) of 6,911 articles have been extended.
+6,911 (100.0%) of 6,913 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### Two men nabbed with over 1,400 capsules of controlled drugs
+
+*2024-02-14 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97256/two-men-nabbed-with-over-1400-capsules-of-controlled-drugs) · `en`
+
+Sri Lanka Navy has apprehended two suspects who were in possession of as many as 1,472 capsules of controlled drugs.
+
+The duo was nabbed in Mannar on Tuesday (Feb.13) during a coordinated operation mounted by SLNS Gajaba of the North Central Naval Command, with the assistance of Mannar Division Crimes Investigation Bureau.
+
+The first suspect was taken into custody after a stop-and-search in Uppukulam, Mannar during which 20 Pregabalin capsules were seized.
+
+While being interrogated, he had divulged information about an accomplice, who was later apprehended in a separate operation conducted in the same area. The naval personnel also recovered 1,432 Pregabalin capsules from a house and 20 more capsules inside a three-wheeler.
+
+The suspects held in this operation were identified as residents of Silawathura and Mannar, aged 28 and 29. They were handed over to the Mannar Police, along with the impounded controlled drugs and the vehicle, for onward legal action.
+
+◼️
+
+[Data](articles/42dfce0c.json)
+
+---
 
 ### Protesting Indian farmers marching towards New Delhi clash with security forces
 
@@ -51,6 +71,24 @@ Farmers say the government has failed to fulfil its 2021 promise of paying more 
 [Data](articles/70f06cb7.json)
 
 [Extended Data](ext_articles/70f06cb7.ext.json)
+
+---
+
+### Former Navy Commander presents credentials as envoy to Cuba
+
+*2024-02-14 11:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Navy-Commander-presents-credentials-as-envoy-to-Cuba/108-276997) · `en`
+
+Former Sri Lanka Navy Commander Admiral Nishantha Ulugetenne (Retd), who was appointed as Sri Lanka's Ambassador to Cuba, presented his credentials to the President of the Republic of Cuba, Miguel Díaz-Canel at the Palace of the Revolution in Havana yesterday (13).
+
+President Ranil Wickremesinghe, designated Admiral Ulugetenne as Sri Lanka's Ambassador to Cuba in October 2023.
+
+Admiral Nishantha Ulugetenne served as the 24th Commander of the Sri Lanka Navy.
+
+Accordingly, Admiral Nishantha Ulugetenne (Retd) presented his credentials to the President of Republic of Cuba, marking the official commencement of his diplomatic mission in Cuba.
+
+◼️
+
+[Data](articles/95bdfb2d.json)
 
 ---
 
@@ -1991,49 +2029,5 @@ The Cabinet has approved the proposal submitted to implement the plan put forwar
 [Data](articles/b649df13.json)
 
 [Extended Data](ext_articles/b649df13.ext.json)
-
----
-
-### Pay attention to direction of the sun when building new houses: Parliamentary Committee
-
-*2024-02-13 21:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pay-attention-to-direction-of-the-sun-when-building-new-houses-Parliamentary-Committee/108-276943) · `en`
-
-Parliament, Feb. 13 (Daily Mirror)- A Parliamentary Committee has observed that people must be informed of the need to pay attention to the direction of the sun when building a new house so as to install solar panels.
-
-The matter was discussed when the Sectoral Oversight Committee on Energy and Transport met in Parliament recently under the Chairmanship of MP Nalaka Bandara Kottegoda.
-
-Officials representing the Sri Lanka Sustainable Energy Authority pointed out that although people are concerned about various directions based on various occult science, they are not concerned about the direction of the sun when building a house.
-
-They also mentioned that this situation has become concerning in the installation of solar panels.
-
-Therefore, the Committee focused on planning a place to install solar panels in a new house.
-
-...
-
-[Data](articles/00c9e7ad.json)
-
-[Extended Data](ext_articles/00c9e7ad.ext.json)
-
----
-
-### A voice of Patta murder
-
-*2024-02-13 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193343) · `si`
-
-A suspect had been arrested in Tambuttegama this morning (13) this morning.
-
-The Western Criminal Division of the Western Southern Crimes Division was arrested and the revolver used for the murder was also found.
-
-The 'Musliard Amarasinghe' in Dubai, who is the murder of the suspect, has been given a sum of Rs.
-
-However, Thilina Sampath, who is suspected of the shot, has been brought to Dubai to the State of Dubai on the 7th.
-
-Patta karages were abducted and shot dead, the murderers had been given a telephone call.
-
-◼️
-
-[Data](articles/a70c1320.json)
-
-[Extended Data](ext_articles/a70c1320.ext.json)
 
 ---

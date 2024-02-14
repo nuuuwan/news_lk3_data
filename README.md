@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 00:17:25**
+As of **2024-02-15 00:32:51**
 
 ## Newspaper Stats
 
@@ -26,45 +26,49 @@ dailymirrorlk | 1,039
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,072 (100.0%) of 7,074 articles have been extended.
+7,074 (100.0%) of 7,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### எதிரணியின் பெரும்பாலான உறுப்பினர்கள் அரசாங்கத்துடன் ஒன்றிணைவார்கள் - பியல் நிஷாந்த டி சில்வா
+### Most members of the opposition will unite with the government - Piyal Nishantha de Silva
 
 *2024-02-14 23:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/176404) · `ta`
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவை எவராலும் வீழ்த்த முடியாது. பரந்துப்பட்ட அரசியல் கூட்டணி ஊடாக எமது பலத்தை மீண்டும் உறுதிப்படுத்துவோம்.எதிர்க்கட்சியின் பெரும்பாலான உறுப்பினர்கள் அரசாங்கத்துடன் ஒன்றிணைவார்கள் என கடற்றொழில் இராஜாங்க அமைச்சர் பியல் நிஷாந்த டி சில்வா தெரிவித்தார்.
+No one can bring down the Sri Lanka PA. Fisheries Minister Piel Nishantha de Silva said that most members of the opposition party will unite with the government through a widespread political coalition.
 
-களுத்துறை பகுதியில் உள்ள பொதுஜன பெரமுனவின் காரியாலயத்தில் புதன்கிழமை (14) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்;
+He made this statement during a media briefing held at the PA office in Kalutara on Wednesday (14);
 
-அரசாங்கத்தை பொறுப்பேற்க தயார் என தற்போது குரல் எழுப்பும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச,மக்கள் விடுதலை முன்னணியின் தலைவர் அனுர குமார திஸாநாயக்க ஆகியோர் 2022 ஆம் ஆண்டு காலப்பகுதியில் பொருளாதார நெருக்கடி தீவிரமடைந்த போது அரசாங்கத்தை பொறுப்பேற்க முன்வரவில்லை.
+Opposition leader Sajith Premadasa and Janatha Vimukthi Peramuna (JVP) leader Anura Kumara Dissanayake, who are currently vocal for the government to take charge of the government, did not come forward to take over the government when the economic crisis intensified in 2022.
 
-நெருக்கடியான சூழ்நிலையில் அரசாங்கத்தை பொறுப்பேற்றால் தமது எதிர்கால அரசியல் இருப்புக்கு பாதிப்பு ஏற்படும் என்பதால் எதிர்க்கட்சித் தலைவர் உட்பட மக்கள் விடுதலை முன்னணியின் தலைவர் அரசாங்கத்தை பொறுப்பேற்காமல் கதை பேசிக் கொண்டிருந்தார்கள்.
+The leader of the Janatha Vimukthi Peramuna, including the Leader of the Opposition, was talking about the government without taking responsibility for the government, as the government would take charge of the government in a crisis.
 
 ...
 
 [Data](articles/9d68de32.json)
 
+[Extended Data](ext_articles/9d68de32.ext.json)
+
 ---
 
-### யாழில் கோர விபத்து - குழந்தை உட்பட இருவர் மரணம்
+### Accident in Jaffna
 
 *2024-02-14 23:20:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-கோர-விபத்து-குழந்தை-உட்பட-இருவர்-மரணம்/71-333226) · `ta`
 
-யாழ்ப்பாணம் - இணுவில் பகுதியில் வானொன்று புகையிரதத்துடன் மோதி  விபத்துக்குள்ளானதில் குழந்தையொன்று உட்பட இருவர் உயிரிழந்துள்ளனர்.
+Two people, including a child, were killed when a train collided with a train in Jaffna
 
-மேலும் வானில் பயணித்த மூவர் படுகாயமடைந்த நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
+Three people were admitted to the Jaffna Teaching Hospital after being injured.
 
-விபத்தில் இணுவில் பகுதியை சேர்ந்த 32 வயதுடைய சயந்தன் மற்றும் அவரது மகளான 6 மாத குழந்தை அப்சரா ஆகியோரே உயிரழந்துள்ளனர்.
+The 32 -year -old Sayanthan and his daughter, Absara, a 6 -month -old baby Absara from the area.
 
-விபத்து இடம்பெற்ற இடத்தில் புகையிரத கடவை காப்பாளர் இல்லாததே விபத்துக்கு காரணம் என பொதுமக்கள் தெரிவித்துள்ளனர். R
+The public said that the accident was due to the lack of a railway shopkeeper at the site of the accident. Remble
 
 ◼️
 
 [Data](articles/f5209a02.json)
+
+[Extended Data](ext_articles/f5209a02.ext.json)
 
 ---
 

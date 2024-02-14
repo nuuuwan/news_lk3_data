@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 08:02:21**
+As of **2024-02-14 08:17:16**
 
 ## Newspaper Stats
 
-*Scraped **6,861** Articles*
+*Scraped **6,864** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ newsfirstlk | 363
 islandlk | 365
 dailyftlk | 374
 adalk | 582
-tamilmirrorlk | 836
 adaderanalk | 838
+tamilmirrorlk | 839
 virakesarilk | 868
 adaderanasinhalalk | 958
 dailymirrorlk | 1,007
@@ -26,63 +26,123 @@ dailymirrorlk | 1,007
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,856 (99.9%) of 6,861 articles have been extended.
+6,861 (100.0%) of 6,864 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### இன்றைய வானிலை முன்னறிவிப்புகள்
+### கொழும்பின் நீர்நிலைகளில் முதலைகள் நடமாட்டம்
+
+*2024-02-14 07:52:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பின்-நீர்நிலைகளில்-முதலைகள்-நடமாட்டம்/175-333175) · `ta`
+
+கொழும்பில் உள்ள ஆறுகள், ஏரிகள் மற்றும் கால்வாய்களில் முதலைகள் உலா வருவதற்கான சாத்தியக்கூறுகள் அதிகம் உள்ளதால், அவற்றை பயன்படுத்தும் போது அவதானமாக இருக்குமாறு வனஜீவராசிகள் திணைக்களம் பொதுமக்களை எச்சரித்துள்ளது.
+
+வனஜீவராசிகள் பாதுகாப்பு திணைக்களத்தின் பணிப்பாளர் நாயகம் சந்தன சூரியபண்டார, பொல்கொட ஆற்றில் முதலை காணும் காணொளி தொடர்பில் டெய்லி மிரருக்கு கருத்து தெரிவிக்கும் போதே இதனை தெரிவித்தார்.
+
+பொல்கொட ஆறு முதலைகளின் வாழ்விடமாக உள்ளது, மேலும் கொழும்பில் உள்ள ஆறுகள், ஏரிகள் மற்றும் நீரோடைகளில் பெருமளவிலான முதலைகள் வாழலாம். அதன்படி, தியவன்னாவ, போல்கொட ஏரி தெற்கு மற்றும் களனி கங்கை ஆகியவை முதலைகளின் வாழ்விடங்களாகக் காணப்படுகின்றன என்று அவர் கூறினார்.
+
+இது ஒரு பொதுவான சம்பவம், மக்கள் இதைப் பார்க்கும்போது மட்டுமே இது ஒரு தலைப்பாக வருகிறது. எனவே, இந்த நீரோடைகளில் நடந்து செல்லும் போது மக்கள் மிகவும் அவதானமாகவும் அவதானமாகவும் இருக்குமாறு பணிப்பாளர் நாயகம் கேட்டுக் கொண்டார்.
+
+...
+
+[Data](articles/a427e2a2.json)
+
+---
+
+### இன்றும் பணிப்புறக்கணிப்பு
+
+*2024-02-14 07:49:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பணிப்புறக்கணிப்பு/175-333174) · `ta`
+
+தமக்கான உரிய தீர்வு முன்வைக்கப்படும் வரையில் தொடர்ச்சியான பணிப்புறக்கணிப்பில் ஈடுபடவுள்ளதாக சுகாதார தொழிற்சங்கங்கள் கூட்டமைப்பு அறிவித்துள்ளது.
+
+நேற்று மாலை இடம்பெற்ற கலந்துரையாடலின் போது, இந்த தீர்மானம் எடுக்கப்பட்டதாக அதன் இணைப்பாளர் சானக்க தர்மவிக்ம தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/cd50db9e.json)
+
+---
+
+### பாலியல் வன்கொடுமை செய்த பொலிஸூக்கு பிணை
+
+*2024-02-14 07:45:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலியல்-வன்கொடுமை-செய்த-பொலிஸூக்கு-பிணை/175-333173) · `ta`
+
+பெண் பொலிஸ் கான்ஸ்டபிளை பாலியல் வன்கொடுமை செய்த குற்றச்சாட்டில் குளியாப்பிட்டி பொலிஸ் நிலையப் பொறுப்பதிகாரி (OIC) நேற்று புத்தளம் நீதிவான் நீதிமன்றில் சரணடைந்தார்.
+
+சம்பவத்தின் பின்னர் குளியாபிட்டிய பிரிவு சிரேஷ்ட பொலிஸ் அத்தியட்சகர் விசாரணைகளை ஆரம்பித்துள்ளதாகவும், பின்னர் இது தொடர்பில் நீதிமன்றில் அறிக்கை செய்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+நீதவான் அவரை ரூ. 500,000 பிணையில் விடுவித்த துடன் வழக்கின் அடுத்த விசாரணையான மார்ச் 6 ஆம் திகதி வரை ஒவ்வொரு வாரமும் கடைசி ஞாயிற்றுக்கிழமை குளியாப்பிட்டி SSP அலுவலகத்தில் ஆஜராகுமாறு அவருக்கு உத்தரவிட்டார்.
+
+சட்ட நடவடிக்கைகள் மட்டுமின்றி, இன்ஸ்பெக்டர் மீது துறை ரீதியாகவும் ஒழுங்கு நடவடிக்கை எடுக்கப்படும் என பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/53ab3967.json)
+
+---
+
+### Today's weather forecasts
 
 *2024-02-14 07:37:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-முன்னறிவிப்புகள்/175-333172) · `ta`
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் பொலநறுவை, மாத்தளை மற்றும் நுவரேலியா மாவட்டங்களிலும் இடைக்கிடையே மழை பெய்யக்கூடுமென  வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது,
+The Department of Meteorology has said that rainfall will occur in the Eastern and Uva provinces as well as in Polonnaruwa, Matale and Nuwaralia districts.
 
-சப்ரகமுவ மற்றும் மேல் மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும் பிற்பகல் இரண்டு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+There is a chance of rain or thundershowers after two o'clock in the afternoon.
 
-மத்திய மலைப்பிராந்தியத்தின் கிழக்கு சரிவுகளிலும், வடக்கு, கிழக்கு, வடமத்திய, வடமேல், தென் மற்றும் ஊவா மாகாணங்களிலும் மணித்தியாலத்திற்கு சுமார் 30 ‐ 40 கிலோமீற்றர் வேகத்தில் அடிக்கடி ஓரளவு பலத்த காற்று வீசக்கூடும்.
+In the eastern slopes of the Central Highlands, in the North, Eastern, North, North Western, South and Uva provinces, there are frequent strong winds at about 30 - 40 km / h.
 
-சப்ரகமுவ மற்றும்  மேல் மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும்  காலை வேளையில் பனிமூட்டம் காணப்படும்.
+In the morning, the snow will be seen in some parts of the Sabaragamuwa and Western Provinces as well as some of the Galle and Matara districts.
 
-திருகோணமலை தொடக்கம் மட்டக்களப்பு ஊடாக ஹம்பாந்தோட்டை வரையான கரையோரத்திற்கு அப்பால் உள்ள கடல் பிராந்தியங்களின் பல இடங்களில் மழை பெய்யக்கூடும்.
+Rainfall is likely to occur in many parts of the sea regions beyond the coast of Trincomalee to Batticaloa to Hambantota.
+
+Showers or thunderstorms are expected in the evening or night in some parts of the sea regions from Colombo to Galle.
+
+Winds from the northeast at 30 - 40 km / h in the sea regions.
 
 ...
 
 [Data](articles/44d634a8.json)
 
+[Extended Data](ext_articles/44d634a8.ext.json)
+
 ---
 
-### සෞඛ්‍ය වර්ජනයේ වෙනසක් නෑ
+### There is no difference on health strike
 
 *2024-02-14 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193351) · `si`
 
-සෞඛ්‍ය වෘත්තීය සමිති ආරම්භ කළ වර්ජනය තවදුරටත් ක්‍රියාත්මක කිරීමට තීරණය කර තිබේ.
+The strike, which commenced health unions, has decided to continue.
 
 ◼️
 
 [Data](articles/6436e2a0.json)
 
+[Extended Data](ext_articles/6436e2a0.ext.json)
+
 ---
 
-### පාකිස්තාන අගමැති ධුරය ගැන තීරණයක්
+### Decision regarding Prime Minister of Pakistan
 
 *2024-02-14 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193350) · `si`
 
-පාකිස්තානයේ මීළඟ අග්‍රාමාත්‍යවරයා ලෙස නවාස් ෂරීෆ් නම් කිරීමට තීරණය කර තිබේ.
+Nawaz Sharif has decided to name Nawaz Sharif as the next Prime Minister of Pakistan.
 
-විදෙස් වාර්තා සඳහන් කළේ, පකිස්තානයේ නවාස් ෂරීෆ් සහ බිලාවල් භූතෝගේ පක්ෂ රජයක් පිහිටුවීම සඳහා ගිවිසුමකට එළැඹ ඇති බවය.
+According to foreign reports, the party of Pakistan's Nawaz Sharif and Bilv's Bhutto, a party government had been established.
 
-පසුගිය සතියේ පැවති මැතිවරණයෙන් පසු අගමැතිවරයෙකු තෝරා ගැනීමට නවාෆ් ෂරීෆ්ගේ පීඑම්එල්-එන් පක්ෂයට අවශ්‍ය සහාය ලබා දෙන බව භූතෝගේ පීපීපී පක්ෂය සඳහන් කර තිබිණි.
+After last week, the Grouff's PPP was supported by the Navad Sharif's PM.
 
-මැතිවරණයේදී නවාෆ් ෂරීෆ්ගේ පීඑම්එල්-එන් පක්ෂයට අසන 75 සහ භූතෝගේ පීපීපී පක්ෂය ආසන 54 බැඟින් ලබා ගෙන තිබේ.
+At the election, 75 and the PPP party PPP party has obtained 54 seats.
 
-අගමැතිවරයකු තෝරා පත් කර ගැනීමට තම පක්ෂය සහාය දක්වන  බව භූතෝ පවසන අතර, ඔහු මීට පෙර කියා සිටියේ එය කැබිනට් තනතුරු නොගන්නා බවට ඔහු ප්‍රකාශ කර ඇති බවය.
+The goddess the party says that his party supports elections to select a Prime Minister.
 
-ඉම්රාන් ඛාන් සහ ඔහුගේ පක්ෂය අවධාරණය කර ඇත්තේ මැතිවරණය තමන්ට එරෙහිව දූෂණය සිදුව ඇති බැවින් ප්‍රතිඵලවලට අභියෝග කිරීමට පියවර ගන්නා බවය.
+Imran Khan and his party emphasized that the election is taken to challenge the results.
 
 ◼️
 
 [Data](articles/00313f2e.json)
+
+[Extended Data](ext_articles/00313f2e.ext.json)
 
 ---
 
@@ -130,43 +190,47 @@ The university administration has said that animals are being raised for meat an
 
 ---
 
-### මෝදර වෙඩිතැබීමක්
+### Modara shot
 
 *2024-02-14 06:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193349) · `si`
 
-මෝදර පොලිස් වසමේ දී ඊයේ (13) රාත්‍රියේ වෙඩිතැබීමක් සිදුව තිබේ.
+A shooting was shot dead at the Modara Police Division yesterday.
 
-පොලීසිය සඳහන් කළේ, වෙඩිතැබීමෙන් පුද්ගලයෙකු තුවාල ලබා කොළඹ ජාතික රෝහලට ඇතුළත් කළ බවය.
+Police said that a person was injured and admitted to the Colombo National Hospital.
 
-එලෙස තුවාල ලබා ඇත්තේ අවුරුදු 51 ක්වූ මහවත්ත පටුමඟ, කොළඹ 14 යන ලිපිනයේ පදිංචිකරුවෙකි.
+The injured were a 51-year-old resident of Colombo 14.
 
-තුවාලකරු මෝදර වීදිය ප්‍රදේශයේ පිහිටි අවන්හලක කළමනාකරු වශයෙන් සේවය කරන අතර, ඔහු එම අවන්හලේ ගේට්ටුව ආසන්නයේ සිටිය දී කාර් රථයකින් පැමිණි නාඳුනන පුද්ගලයින් විසින් මෙම වෙඩිතැබීම සිදුකර තිබේ.
+The injured manager is a restaurant manager in Modara Veediya, and he has taken the shooting by strangers from the gate.
 
-පොලීසිය පැවසුවේ, සැකකරුවන් පළා ගොස් ඇති බවත් වෙඩිතැබීම සඳහා පිස්තෝල අවියක් භාවිත කර ඇති බවට සැක පළ කරන බවය.
+Police said the suspects were suspended and suspected that the shooting was used for shooting.
 
 ◼️
 
 [Data](articles/312dd2fa.json)
 
+[Extended Data](ext_articles/312dd2fa.ext.json)
+
 ---
 
-### ප්‍රදේශ කිහිපයකට වැසි වාර කිහිපයක්
+### Several times for several areas
 
 *2024-02-14 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193347) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව, මාතලේ සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වේ.
+Several showers in Polonnaruwa, Matale and Nuwara Eliya Districts, Eastern and Uva provinces.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, හම්බන්තොට සහ අනුරාධපුර දිස්ත්‍රික්කවල වැසි ස්වල්පයක් ඇති විය හැකි බවය.
+The Department of Meteorology announced that there would be a few showers in Hambantota and Anuradhapura districts.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහමාතර දිස්ත්‍රික්කවලත් ප.ව. 2.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+At the Western and Sabaragamuwa Provincial and Galle and Subducted Districts. Showers or thundershowers will occur at a few places after 2.00.
 
-මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40 පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+Northern, North-Central, North Western, Uva and Eastern Provinces. Strong winds can occur at about 30-40 times.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+In some places in the Western and Sabaragamuwa Province, some locations are expected in the morning.
 
 ◼️
 
 [Data](articles/2d3a5691.json)
+
+[Extended Data](ext_articles/2d3a5691.ext.json)
 
 ---
 
@@ -1953,65 +2017,5 @@ The Supreme Court then ended the petition exam, was postponed to announce its ve
 [Data](articles/198da506.json)
 
 [Extended Data](ext_articles/198da506.ext.json)
-
----
-
-### Cabinet nod for proposed housing programme for Sri Lankan overseas employees
-
-*2024-02-13 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97234/cabinet-nod-for-proposed-housing-programme-for-sri-lankan-overseas-employees) · `en`
-
-The approval of the Cabinet of Ministers has been received to a proposal seeking to implement a housing programme for Sri Lankans employed overseas.
-
-The Sri Lanka Bureau of Foreign Employment (SLBFE) collaborated with the National Housing Development Authority and the licensed banks had planned to implement a housing programme for migrant workers, where it was expected to grant a maximum of Rs. 10 million as a loan grant, and contribute a portion of its loan interest amount by SLBFE.
-
-The loan amount obtained under the proposed loan scheme should be paid by foreign exchange remitted through legitimate channels within the period the loan receiver is engaged in an overseas employment and payments would be made in Sri Lankan rupees once the foreign employment is completed and they return to Sri Lanka.
-
-Accordingly, the Cabinet of Ministers has approved the proposal submitted by the Minister of Labour and Foreign Employment Manusha Nanayakkara to implement the proposed housing programme.
-
-◼️
-
-[Data](articles/b3112cb1.json)
-
-[Extended Data](ext_articles/b3112cb1.ext.json)
-
----
-
-### European Union Ambassador Carmen Moreno meets Anura Kumara
-
-*2024-02-13 16:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/European-Union-Ambassador-Carmen-Moreno-meets-Anura-Kumara/108-276930) · `en`
-
-Colombo, Feb. 13 (Daily Mirror)- Ambassador of the European Union to Sri Lanka, Carmen Moreno met NPP leader Anura Kumara Dissanayake at the JVP Headquaters this afternoon.
-
-They discussed matters concernig the economic crisis and the political situation in Sri Lanka, party sources said.
-
-Upholding human rights, democracy, the postponement of elections and the recently enacted Onlin Safety Act were also discussed, they said.
-
-Attention was also drawn to strenthern relationships between the two parties.
-
-Deputy Head of Delegation of the European Union to Sri Lanka Lars Bredal and NPP MP Vijitha Herath joined the meeting.
-
-◼️
-
-[Data](articles/70dbffb1.json)
-
-[Extended Data](ext_articles/70dbffb1.ext.json)
-
----
-
-### 9-year-old girl’s death in Atulugama: Accused sentenced to 27 years RI
-
-*2024-02-13 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97233/9-year-old-girls-death-in-atulugama-accused-sentenced-to-27-years-ri) · `en`
-
-The Panadura High Court sentenced a person, who pleaded guilty over the murder of a 9-year-old girl in May 2022 in the Atulugama area of Panadura, to 27 years of rigorous imprisonment.
-
-Panadura High Court Judge Saman Kumara, who issued this sentence over the charges of committing ‘involuntary manslaughter’, abducting and attempting to sexually abuse the 09-year-old girl, also ordered the convict to pay Rs.3 million in compensation to the mother of the deceased girl,  Ada Derana reporter said.
-
-In the event the accused, Farook Mohommed Ganesanathan, fails to pay the aforementioned compensation, the High Court Judge ordered that his sentence be further extended by 78 months.
-
-...
-
-[Data](articles/e4494856.json)
-
-[Extended Data](ext_articles/e4494856.ext.json)
 
 ---

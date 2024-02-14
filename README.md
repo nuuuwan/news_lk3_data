@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 18:50:39**
+As of **2024-02-14 19:02:29**
 
 ## Newspaper Stats
 
-*Scraped **7,017** Articles*
+*Scraped **7,018** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 376
 adalk | 598
 tamilmirrorlk | 854
 adaderanalk | 861
-virakesarilk | 896
+virakesarilk | 897
 adaderanasinhalalk | 986
 dailymirrorlk | 1,028
 
@@ -26,25 +26,43 @@ dailymirrorlk | 1,028
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,015 (100.0%) of 7,017 articles have been extended.
+7,017 (100.0%) of 7,018 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### ශ්‍රී ලංකාවට ලකුණු 267ක ඉලක්කයක්
+### யாழ்ப்பாணம் A9 வீதியில் மோட்டார் சைக்கிள் -  அரச பேருந்து விபத்து
+
+*2024-02-14 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176393) · `ta`
+
+யாழ்ப்பாணம் - தென்மராட்சி -  A 9 வீதி, நாவற்குழி பகுதியில் இந்தச் சம்பவம் புதன்கிழமை (14) பிற்பகல் 4.15 மணியளவில் இடம்பெற்றது.
+
+A9 வீதியில் பயணித்த மோட்டார் சைக்கிள் ஒன்று வீதியில் திரும்ப முற்பட்டபோது பின்னால் பயணித்த அரச பேருந்து அதனை முட்டி தள்ளியதோடு பாதையை விட்டு விலகி காணிக்குள் புகுந்துள்ளது.
+
+இதன் போது மோட்டார் சைக்கிளுக்கு சேதங்கள் ஏற்பட்டிருந்த போதிலும் அதில் பயணித்த இருவருக்கும் காயங்கள்  ஏற்படவில்லை.
+
+◼️
+
+[Data](articles/ee5b109e.json)
+
+---
+
+### Sri Lanka a target of 267 runs
 
 *2024-02-14 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193380) · `si`
 
-ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර තෙවැනි සහ අවසන් එක්දින තරගයේ පළමුවෙන් පන්දුවට පහර දුන් ඇෆ්ගනිස්තානය සියලු ක්‍රීඩකයන් දැවී ලකුණු 266ක් රැස් කළේ ය.
+The Third and the ODIs between Sri Lanka and Afghanistan scored 266 runs for the loss of all the players.
 
-ඇෆ්ගනිස්තානය වෙනුවෙන් රහ්මට් ශා ලකුණු 65ක් රැස් කළ අතර, අස්මතුල්ලා ඔමාසායි ලකුණු 54ක් රැස් කළේ ය.
+Rhehmat scored 65 runs in front of Afghanistan, and Aimethuthumla Omazai scored 54 runs.
 
-පන්දු යැවීමේ දී ප්‍රමෝද් මධුශාන් කඩුලු 03ක් බිඳ දැමීමට සමත් විය.
+Pramod Madushan took three wickets.
 
 ◼️
 
 [Data](articles/fa7514f8.json)
+
+[Extended Data](ext_articles/fa7514f8.ext.json)
 
 ---
 
@@ -1570,23 +1588,27 @@ Nimal Levke, former president of the STF, has joined the United People's Power, 
 
 ---
 
-### ශ්‍රී ලංකාවට සුවිශේෂී වූ අලි ඇතුන් බොහොමයක් මරා දමන්නේ ඇයි ?
+### Why do Sri Lanka be killed most unique elephants?
 
 *2024-02-14 12:32:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd1vn16rx1ro) · `si`
 
-ශ්‍රී ලංකාවට සුවිශේෂී වූ අලි ඇතුන් බොහොමයක් මරා දමන්නේ ඇයි ?
+Why do Sri Lanka be killed most unique elephants?
 
-පසුගිය වසරේ මාර්තු මාසයේදී තම සැමියා පාගා මරා දැමූ දෛවෝපගත සන්ධ්‍යාව විස්තර කරන විට සුමිත්‍රා මල්කාන්තිගේ හදවත බිඳී යයි.
+As her husband trampled the evening after her husband trampled in March last year, Sumitra Kalkini's heart will break up.
 
-ඇය මුළුතැන්ගෙය තුළ කාර්ය බහුල වී සිටියා ය - එම යුවළ පදිංචිව සිටියේ ශ්‍රී ලංකාව මධ්‍යයේ පිහිටි කෘෂිකාර්මික ගම්මානයක ය - ඇගේ සැමියා වූ තිලක් කුමාර, එම අවස්ථාවේ, ඔහුට අයත් ගවයින්ට ආහාර දෙමින් සිටියේ ය. එහිදී, අලියෙකුගේ කුංචනාදයක් ඇයගේ සවන් වැකිණි.
+She was busy in the kitchen - the couple was in an agricultural village in Sri Lanka - Thilak Kumara, her husband, and his belongings were given food for his cows. There, an elephant's kanhanada was listening.
 
-ඇය පැවසුවේ, ඔහුට ඒ බව දැනුම් දීමට උත්සහ කළ බව ය. එහෙත්, "මිනිත්තු කිහිපයකදී, විනාශය සිදුවී හමාර වී තිබිණි". ගම් වැසියන්ගේ භීතියට පත් කෑගැසීම් හමුවේ අලියා පළාගොස් තිබිණි.
+She said, he tried to inform him that. But, "in minutes, the destruction was taken place,". The elephant had fled the face of the terrorized screams of the villages.
 
-තරුණ දූවරුන් තිදෙනෙකුගේ මවක වන 45 හැවිරිදි මල්කාන්ති පැවසුවේ, සිය පවුල එම සිද්ධියෙන් ඇති වූ කම්පනයෙන් මිදීමට තවමත් උත්සහ දරමින් සිටින බව ය. එවැන්නක් යළිත් සිදුවනු ඇතැයි ඇය බියෙන් පසු වෙයි.
+45-year-old Malukanti, a mother of three young daughters, said that his family is still trying to break free from the incident. She is afraid that it will happen again.
+
+Her home, which is pleased to eat, is located in a farm, from a dense forest, from a thick forest, which is pleasing to eat elephants. The village of the village in Kurunegala district has become an intensive conflict between people and elephants, in the village of the village.
 
 ...
 
 [Data](articles/2473b5c7.json)
+
+[Extended Data](ext_articles/2473b5c7.ext.json)
 
 ---
 
@@ -2015,27 +2037,5 @@ The doctor and the car are to be produced before the Gampola Magistrate this mor
 [Data](articles/26728eb9.json)
 
 [Extended Data](ext_articles/26728eb9.ext.json)
-
----
-
-### Protesting Indian farmers marching towards New Delhi clash with security forces
-
-*2024-02-14 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97255/protesting-indian-farmers-marching-towards-new-delhi-clash-with-security-forces) · `en`
-
-Protesting farmers who were attempting to reach the capital New Delhi clashed with security forces for a second day on Wednesday, with drones being used to drop tear gas shells, television visuals showed.
-
-Hundreds of farmers, travelling on trucks and trolleys loaded with food, bedding and other supplies, began marching towards Delhi on Tuesday morning after talks between their unions and the government failed to yield a commitment regarding minimum prices for a range of crops.
-
-The protesters were stopped by security forces at the Shambhu border that divides Punjab and Haryana - the northern states to which most of the protesters belong - almost 200km (125 miles) from their destination.
-
-“We want the prime minister to come forward and speak to the farmers,” Sarwan Singh Pandher, general secretary of the Punjab Kisan Mazdoor Sangharsh Committee, told Indian news agency ANI.
-
-Farmers say the government has failed to fulfil its 2021 promise of paying more for crops.
-
-...
-
-[Data](articles/70f06cb7.json)
-
-[Extended Data](ext_articles/70f06cb7.ext.json)
 
 ---

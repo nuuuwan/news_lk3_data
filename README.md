@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 14:17:22**
+As of **2024-02-14 14:33:12**
 
 ## Newspaper Stats
 
-*Scraped **6,943** Articles*
+*Scraped **6,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,46 @@ economynextcom | 359
 newsfirstlk | 363
 islandlk | 365
 dailyftlk | 376
-adalk | 591
+adalk | 592
 tamilmirrorlk | 849
 adaderanalk | 853
-virakesarilk | 875
-adaderanasinhalalk | 971
+virakesarilk | 884
+adaderanasinhalalk | 973
 dailymirrorlk | 1,019
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,936 (99.9%) of 6,943 articles have been extended.
+6,943 (99.8%) of 6,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### කාසියේ වාසිය ඇෆ්ගනිස්තානයට
+
+*2024-02-14 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193366) · `si`
+
+ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර පැවැත්වෙන තුන්වන සහ අවසන් එක්දින තරගයේ කාසියේ වාසිය ඇෆ්ගනිස්තානය හිමිකරගත්තේය.
+
+◼️
+
+[Data](articles/bf176b50.json)
+
+---
+
+### ලාංකේය දේශපාලකයා සිරගත කළ දුර්ලභ අවස්ථා
+
+*2024-02-14 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193365) · `si`
+
+රටක නීතියක් ඇත. යුක්තිය හා සාධාරණය කියා දෙයක් ඇත. වැරැදි කළ විට රටක පවත්නා නීතියට අනුව ඔහුට හෝ ඇයට දඬුවම් ලැබිය යුතු ය. සියල්ලට ඉහළින් ඇත්තේ නීතිය යි. පාලකයා, පාලිතයා ඇතුළු රාජ්‍යය තුළ පවතින අවශේෂ සියල්ලට ම වඩා නීතිය හා අධිකරණය උත්තරීතර වේ. 'නීතිය ඉදිරියේ සියල්ල සමාන වේ' යනුවෙන් අපි දේශපාලන විද්‍යාවේ දී උගත්තෙමු. ඒ. වී. ඩයිසි ගේ නීතියේ ආධිපත්‍ය සංකල්පය තුළ ඒ බව තවත් පුළුල් ව පැහැදිලි කර ඇත. නමුත් ජර්මානු දාර්ශනික කාල් මාක්ස් සිය රචනාවල දී සඳහන් කර ඇත්තේ, වෙනස් ම සංකල්පයකි. නීතිය ඉදිරියේ සියලු දෙනා සමාන වේ යන්න නිෂ්ප්‍රමාණ මත‍යක් බව ඔහු අවධාරණය කරයි. නීතිය නමැති මකුළු දැලට හසු වන කුඩා සතුන් එහි ගොදුරක් බවට පත් වන බවත් සවිමත් සත්ත්වයන් පමණක් මකුළු දැල ඉරා ඉන් මිදෙන බවත් කාල් මාක්ස් සඳහන් කළේ ය.
+
+...
+
+[Data](articles/e2069bac.json)
+
+---
 
 ### Sri Lanka to entertain fresh applicants for Aswesuma subsidy scheme from Jan 15
 
@@ -50,23 +74,27 @@ A large section of the population was thrown in poverty after the central bank p
 
 [Data](articles/2a61724b.json)
 
+[Extended Data](ext_articles/2a61724b.ext.json)
+
 ---
 
-### බංග්ලාදේශ කණ්ඩායමෙන් ප්‍රබලයෙක් ඉවතට
+### A pledge from the Bangladesh team away
 
 *2024-02-14 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193364) · `si`
 
-ශ්‍රී ලංකාව සමඟ පැවැත්වීමට නියමිත එක්දින සහ විස්ස තරගාවලි සඳහා නම්කළ බංග්ලාදේශ සංචිතයට තුන් ඉරියව් ක්‍රීඩක ශකීබ් අල් හසන් නම් කර නොමැති බව වාර්තා වෙයි.
+Shakib Al Hasan aliasan has not been named 3rd posting to the Bangladesh squad, who desighed with Sri Lanka.
 
-අක්ෂි ආබාධයක් හේතුවෙන් ඔහු ව එම සංචිත සඳහා නම්කර නොමැති බව වාර්තා විය.
+It was reported that he had not been named for the reserves due to an eye disability.
 
-මේ අතර අනමුල් හක්, මොහොමඩ් නයිම්, මහමුදුල්ලා, තයිජුල් ඉස්ලාම් සහ ටස්කින් අහමඩ් යන ක්‍රීඩකයින් ශ්‍රී ලංකාවට  එරෙහිව තරගවදින බංග්ලාදේශ සංචිත සඳහා නම්කර තිබුණි.
+Meanwhile, players who compete against Sri Lanka against Sri Lanka against Sri Lanka.
 
-ශ්‍රී ලංකා - බංග්ලාදේශ විස්සයි විස්ස තරගාවලිය මාර්තු 4, 6 සහ 9 යන දිනවල පැවැත්වෙන අතර එක්දින තරගාවලිය මාර්තු 13 වනදා ආරම්භ වීමට නියමිතය.
+Sri Lanka - Bangladeshi Twenty Twenty Tournament will be held on March 4, 6 and 9, and the ODI will commence on March 13.
 
 ◼️
 
 [Data](articles/f3e1940a.json)
+
+[Extended Data](ext_articles/f3e1940a.ext.json)
 
 ---
 
@@ -148,6 +176,8 @@ HIPG had signed an agreement with the Thai Port Authority before the Covid pande
 
 [Data](articles/905f08cd.json)
 
+[Extended Data](ext_articles/905f08cd.ext.json)
+
 ---
 
 ### Bingiriya Investment Zone opens doors for Japanese investors
@@ -186,6 +216,24 @@ It is noteworthy that the government is planning to train 100 teachers through M
 
 ---
 
+### ஆயிரத்துக்கும் மேற்பட்ட போதை மாத்திரைகளுடன் இருவர் கைது
+
+*2024-02-14 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176353) · `ta`
+
+இலங்கை கடற்படை, மன்னார் பொலிஸ் குற்றத்தடுப்பு பிரிவினர் இணைந்து நேற்று செவ்வாய்கிழமை முன்னெடுத்த சுற்றிவளைப்பில் விற்பனைக்கு தயாராக வைக்கப்பட்டிருந்த 1,472 போதை மாத்திரைகளுடன் சந்தேகநபர்கள் இருவர் கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேகநபர்களால் பயன்படுத்தப்பட்ட முச்சக்கர வண்டியொன்றும் இதன்போது கைப்பற்றப்பட்டுள்ளது. மன்னார், உப்புக்குளம் பிரதேசத்தில் வைத்தே குறித்த சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளதாக கடற்படை ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+கைது செய்யப்பட்ட சந்தேகநபர்களிடமிருந்து ஆரம்பத்தில் குறைந்த எண்ணிக்கையிலான போதை மாத்திரைகள் மாத்திரமே கைப்பற்றப்பட்டுள்ளன. பின்னர் அவர்களிடம் மேற்கொள்ளப்பட்ட விசாரணைகளுக்கமை உப்புக்குளம் பிரதேசத்தில் வீடொன்றிலிருந்து எஞ்சிய 1,432 போதை மாத்திரைகளும் கைப்பற்றப்பட்டுள்ளன.
+
+கைது செய்யப்பட்ட சந்தேகநபர்கள் 28 மற்றும் 29 வயதுகளையுடைய சிலாவத்துறை மற்றும் மன்னார் பிரதேசங்களைச் சேர்ந்தவர்களாவர். இவர்கள் இருவரும் மேலதிக விசாரணைகளுக்காக போதை மாத்திரைகளுடன் மன்னார் பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளதாக கடற்படை ஊடகப்பிரிவு மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/b75dfe80.json)
+
+---
+
 ### Sri Lanka asks for JICA support in CEB reform, renewable energy
 
 *2024-02-14 12:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-asks-for-jica-support-in-ceb-reform-renewable-energy-150769/) · `en`
@@ -203,6 +251,40 @@ Wijesekera said he “requested continued assistance for reforms, energy efficie
 ...
 
 [Data](articles/7974dd32.json)
+
+[Extended Data](ext_articles/7974dd32.ext.json)
+
+---
+
+### சுரங்கப்பாதைக்குள் ஹமாஸ்தலைவர்  - வீடியோவொன்றை வெளியிட்டது இஸ்ரேல்
+
+*2024-02-14 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176351) · `ta`
+
+சுரங்கப்பாதையொன்றிற்குள் காணப்படுவதை காண்பிக்கும் வீடியோ என தெரிவித்து இஸ்ரேல் வீடியோ ஒன்றை வெளியிட்டுள்ளது.
+
+ஒக்டோபர் பத்தாம் திகதி ஹமாஸ் அமைப்பின் சிசிடிவியில் பதியப்பட்டஇந்த வீடியோ சமீபத்திலேயே இஸ்ரேலிய பாதுகாப்பு படையினருக்கு கிடைத்துள்ளது என இஸ்ரேலிய பாதுகாப்பு படையின் பேச்சாளர் தெரிவித்துள்ளார்.
+
+சுரங்கப்பாதை ஊடாக அவர் இவ்வாறே தனது குடும்பத்தினருடன் தப்பி ஏற்கனவே உருவாக்கி வைத்திருந்த பாதுகாப்பான தங்குமிடத்திற்கு சென்றார் என இஸ்ரேல் தெரிவித்துள்ளது.
+
+அந்த வீடியோவில் காணப்படுபவர் ஹமாஸ் அமைப்பின் தலைவரா என்பதை உறுதிப்படுத்த முடியவில்லை என தெரிவித்துள்ள சிஎன்என்  அவர் உயிருடனோ அல்லது பிணமாகவே கைப்பற்றப்படும்வரை தேடுதல் வேட்டை முடிவடையாது  நாங்கள் அவரை கைதுசெய்வது குறித்து உறுதியாக உள்ளோம் நிச்சயம் கைதுசெய்வோம் என தெரிவித்துள்ளார்.
+
+இதேவேளை ஹமாஸ் தலைவர் மறைந்திருந்த சுரங்கப்பாதையொன்றிற்குள்இஸ்ரேலிய படையினர் காணப்படும் வீடியோ ஒன்றையும் இஸ்ரேல் வெளியிட்டுள்ளது.
+
+...
+
+[Data](articles/940149a1.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-02-14 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176350) · `ta`
+
+இன்று புதன்கிழமை (பெப்ரவரி 14) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 308.2669 ஆகவும் விற்பனை விலை ரூபா 318.1678 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/17d73e46.json)
 
 ---
 
@@ -268,6 +350,22 @@ South Korea’s Joint Chiefs of Staff said the South Korean and U.S. militaries 
 
 ---
 
+### மனம் திரும்பி நல்வழியில் வாழ  அழைப்பு விடுக்கும் தவக்காலம்
+
+*2024-02-14 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/176343) · `ta`
+
+இயே­சுவின் பாடுகள், மரணம், உயிர்ப்பு ஆகி­யவற்றை நினைவு கூரு­வ­துடன் மனிதன்  பாவத்­தி­லி­ருந்து விடு­தலை பெற்று மனந்­தி­ரும்பி வாழ்­வதை தவக்­காலம் உணர்த்­து­கி­றது. விபூதிப் புத­னுடன் ஆரம்­ப­மாகும்.
+
+தவக்­கா­லத்தின் முதல் நாளான இன்­றைய தினத்­தில் கத்­தோ­லிக்­கர்கள் அனை­வரும்  தேவா­லயம் சென்று திருப்­ப­லியில் கலந்­து­கொள்­வது கட்­டா­ய­ மாகும். கத்­தோ­லிக்கத் திருச்­ச­பையில் இன்­றைய தினத்தில் குரு­வா­னவர் மக்­க­ளு­டைய நெற்­றியில் “மனி­தனே நீ மண்­ணாக இருக்­கின்றாய், மண்­ணுக்கே திரும்­புவாய் மற­வாதே” என்று கூறி சாம்­ப­லினால் சிலுவை அடை­யாளம் வரைந்து மர­ணத்‍தை நினை­வு­ப­டுத்­து­கிறார்.
+
+தவக்­கா­லத்தின் முதல் நாள் விபூதிப் புதன், திரு­நீற்றுப் புதன், சாம்பல் புதன் என்­றெல்லாம் அழைக்­கப்­ப­டு­வ­துண்டு. தவக்­காலமானது நாற்­பது நாட்கள் அனு­ச­ரிக்­கப்­ப­டு­கி­றது.
+
+...
+
+[Data](articles/2a0f9be9.json)
+
+---
+
 ### Two drowning
 
 *2024-02-14 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193362) · `si`
@@ -310,6 +408,24 @@ The charges specifically relate to the “destroying monuments of Soviet soldier
 
 ---
 
+### தனது தேர்தல் வெற்றியை ஏற்க மறுத்த பாகிஸ்தான் அரசியல்வாதி : ஆசனத்தை எதிரணி வேட்பாளருக்கு விட்டுக்கொடுப்பதாக அறிவிப்பு
+
+*2024-02-14 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176346) · `ta`
+
+பாகிஸ்தானில் சட்டமன்ற உறுப்பினராகத் தெரிவுசெய்யப்பட்ட அரசியல்வாதியொருவர், இத்தேர்தலில் மோசடி இடம்பெற்றதாக குற்றம் சுமத்தியதுடன், தனது ஆசனத்தை எதிரணி வேட்பாளருக்கு விட்டுக்கொடுப்பதாக அறிவித்துள்ளார்.
+
+ஜமாத் ஈ-இஸ்லாமி கட்சியின் தலைவரான ஹாபிஸ் நயீமுர் ரெஹ்மான் என்பவரே இவ்வாறு தனது ஆசனத்தை விட்டுக்கொடுக்க முன்வந்துள்ளார்.
+
+கடந்த வாரம் நடைபெற்ற, சிந்து மாகாண சட்டமன்றத்துக்கான கராச்சி மத்திய தொகுதி (பி.எஸ்.129) தேர்தலில் நயீமுர் ரெஹ்மான் 26,296 வாக்குகளுடன் முதலிடம் பெற்றதாக அறிவிக்கப்பட்டது. இரண்டாவது இடம்பெற்ற வேட்பாளர் 20,608 வாக்குகளைப் பெற்றிருந்தார்.
+
+ஆனால், 11,357 வாக்குகளுடன் 4 ஆவது இடம்பெற்றதாக அறிவிக்கப்பட்ட, இம்ரான் கானின் பாகிஸ்தான் தெஹ்ரீக் -ஈ-இன்சாப் (பி.ரி.ஐ.) கட்சி சார்பான சுயேச்சை வேட்பாளரே இத்தேர்தலில் உண்மையான வெற்றியாளர் என தான் நம்புவதாக நயீமுர் ரெஹ்மான் கூறியுள்ளார்.
+
+...
+
+[Data](articles/9e6385ba.json)
+
+---
+
 ### Sri Lanka main opposition stalwarts waiting to support president, rival parties claim
 
 *2024-02-14 12:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-main-opposition-stalwarts-waiting-to-support-president-rival-parties-claim-150764/) · `en`
@@ -325,6 +441,8 @@ UNP general secretary Palitha Range Bandara told reporters on Tuesday February 1
 ...
 
 [Data](articles/8ce16b6b.json)
+
+[Extended Data](ext_articles/8ce16b6b.ext.json)
 
 ---
 
@@ -440,6 +558,40 @@ The highest number of wild elephants reported on 27th of September last year, 11
 
 ---
 
+### ඖෂධ ගේන්න වාර්ශිකව රජයට ඩො.මි. 500ක වැයක්
+
+*2024-02-14 11:53:10* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-ගේන්න-වාර්ශිකව-රජයට-ඩො-මි--500ක-වැයක්/11-408076) · `si`
+
+ඖෂධ නියාමනය, සෑපයීම, බෙදාහැරීම හා සම්බන්ධ කරුණු පිළිබදව සෞඛ්‍ය අමාත්‍යාංශය යටතේ පාලනය වන වෛද්‍ය සැපයුම් අංශය, රාජ්‍ය ඖෂධ සංස්ථාව, රාජ්‍ය ඖෂධ නිෂ්පාදන නීති‍ගත සංස්ථාව සහ ජාතික ඖෂධ නියාමන අධිකාරිය යන ආයතනවල නිලධාරීන් ‍සමග විශේෂ සාකච්ඡාවක් අද  (14)  සෞඛ්‍ය අමාත්‍යාංශය් දී  පැවත්විනි.
+
+සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ ප්‍රධානත්වයෙන් පැවැති මෙම විශේෂ සාකච්ඡවේ දී ටෙන්ඩර් ක්‍රමවේද විධිමත් කිරීම, ගුණාත්මක තත්ත්වයෙන් ඉහළ ඖෂධ රෝහල්වලට අඛණ්ඩව ලබාදීම, ඖෂධ ආනයන ක්‍රමවේදය ක්‍රමවත් කිරීම වැනි කරුණු කෙරෙහි අවධානය යොමු කෙරිනි.
+
+වාර්ෂිකව ඩොලර් මිලියන 500 කට අධික මුදලක් ඖෂධ ගෙන්විම සදහා වැය කරන බවත් ඊට හොදම විසදුම මෙරටට අවශ්‍ය ඖෂධ මෙරට තුළ නිෂ්පාදනය කිරීම බව ද අමාත්‍යවරයා මෙහිදී  පෙන්වා දුන් අතර,  මෙරට ජනතාවට ගුණාත්මක තත්වයෙන් ඉහල ඖෂධ රජය විසින් ලබා දෙන ක්‍රමවේදය ශක්තිමත් කිරිමට පියවර ගන්නා ලෙස ද නිලධාරින්ට උපදෙස් ලබාදුනි.
+
+...
+
+[Data](articles/05d3986d.json)
+
+---
+
+### சப்ரகமுவ பல்கலைக்கழகத்தில் தாக்குதல் : சரணடைந்த மேலும் 6 மாணவர்கள் கைது!
+
+*2024-02-14 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176342) · `ta`
+
+சப்ரகமுவ பல்கலைக்கழக விவசாய பீட மாணவி ஒருவரையும் மேலும் இரு மாணவர்களையும் தாக்கிய சம்பவம் தொடர்பில் மேலும் 6 சிரேஷ்ட மாணவர்களை  சமனலவெவ  பொலிஸார் இன்று புதன்கிழமை (14) கைது செய்துள்ளனர்.
+
+கடந்த 9ஆம் திகதி இரவு உணவகத்தில் இந்தத் தாக்குதல்  இடம்பெற்றதாகவும், இதன்போது  ஒரு மாணவி மற்றும் இரண்டு மாணவர்கள் காயமடைந்து வைத்தியசாலைக்கு  அழைத்துச்  செல்லப்பட்டதாகவும் சமனலவெவ பொலிஸார் தெரிவித்தனர்.
+
+இந்தச் சம்பவம் தொடர்பில் 7 சிரேஷ்ட மாணவர்கள் முன்னர்  கைது செய்யப்பட்டு பலாங்கொடை நீதிமன்றில் ஆஜர்படுத்தப்பட்ட பின்னர் விளக்கமறியலில் வைக்கப்பட்டதாக  சமனலவெவ பொலிஸார் தெரிவித்தனர்.
+
+இந்த ஆறு சிரேஷ்ட மாணவர்களும் சமனலவெவ பொலிஸில் சரணடைந்த பின்னர் கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/43081002.json)
+
+---
+
 ### Watcher's body at the sea
 
 *2024-02-14 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193360) · `si`
@@ -494,6 +646,8 @@ On the Colombo Stock Exchange, the All Share Price Index was up 0.05 percent at 
 
 [Data](articles/932b16bf.json)
 
+[Extended Data](ext_articles/932b16bf.ext.json)
+
 ---
 
 ### Two men nabbed with over 1,400 capsules of controlled drugs
@@ -515,6 +669,20 @@ The suspects held in this operation were identified as residents of Silawathura 
 [Data](articles/42dfce0c.json)
 
 [Extended Data](ext_articles/42dfce0c.ext.json)
+
+---
+
+### சுகாதார தொழிற்சங்கங்கள் இரண்டாவது நாளாகவும் தொடரும் பணிப்புறக்கணிப்பு
+
+*2024-02-14 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/176339) · `ta`
+
+நாடு பூராகவும் 72 சுகாதார தொழிற்சங்கங்கள் இன்று புதன்கிழமை (14) இரண்டாவது நாளாக தொடரும் பணிப்புறக்கணிப்பு நடவடிக்கை காரணமாக வவுனியா மாவட்ட பொது வைத்தியசாலையில் நோயாளர்கள் பல்வேறு சிரமங்களுக்கு முகம் கொடுத்து வருகின்றனர்.
+
+இதேவேளை, இன்றும் பல நோயாளர்கள் திரும்பிச் சென்றதோடு மருந்துகளை பெறுவதிலும் பலர் சிரமங்களை எதிர் கொண்டு இருந்ததை அவதானிக்க முடிந்திருந்தது.
+
+◼️
+
+[Data](articles/7aac9595.json)
 
 ---
 
@@ -562,6 +730,20 @@ Farmers say the government has failed to fulfil its 2021 promise of paying more 
 
 ---
 
+### விவசாயிகளின் மானிய உரத்தில் 100 கோடி ரூபா மோசடி : உயர்  அதிகாரிகளைக் கைது செய்ய நடவடிக்கை!
+
+*2024-02-14 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/176340) · `ta`
+
+விவசாயிகளுக்கு மானியமாக வழங்குவதற்காக  இறக்குமதி செய்யப்பட்ட யூரியா உரத்தை விவசாயிகளுக்கு வழங்காமல் சுமார் 100 கோடி ரூபா மோசடி செய்தமை தொடர்பாக பல உர நிறுவனங்களின் முக்கிய பதவிகளை வகிக்கும் பத்துப் பேரைக் கைது செய்ய குற்றப் புலனாய்வுப் பிரிவினர்  நடவடிக்கை எடுப்பதாக தேசிய உரச் செயலகம் தெரிவித்துள்ளது.
+
+2018 ஆம் ஆண்டு முதல் விவசாயிகளுக்கு வழங்கப்படவிருந்த மானிய உரம் விவசாயிகளுக்கு வழங்கப்படாமல் ஹொரனை, கேகாலை, மாதம்பை பிரதேசங்களில் உள்ள  பிரதான கைத்தொழில் துறை நிறுவனங்களுக்கு பல்வேறு மோசடி முறைகளில் அதிக விலைக்கு வழங்கப்பட்டுள்ளதாக   தெரிய வந்துள்ளது.
+
+◼️
+
+[Data](articles/5383a22a.json)
+
+---
+
 ### Sri Lanka anticipates profitable, self-sustaining postal service by end 2024
 
 *2024-02-14 11:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-anticipates-profitable-self-sustaining-postal-service-by-end-2024-150752/) · `en`
@@ -579,6 +761,26 @@ He attributed this to “improved services and enhanced management practices wit
 ...
 
 [Data](articles/6afd3b75.json)
+
+[Extended Data](ext_articles/6afd3b75.ext.json)
+
+---
+
+### ஊடகவியலாளர்களை இலக்குவைத்து இஸ்ரேல் மீண்டும் தாக்குதல் - அல்ஜசீராவின் இரண்டு ஊடகவியலாளர்கள் படுகாயம்
+
+*2024-02-14 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176338) · `ta`
+
+அல்ஜசீராவின் செய்தியாளர் இஸ்மாயில்அபு ஓமரும் படப்பிடிப்பாளர் அஹமட் மட்டாரும் படுகாயமடைந்துள்ளனர் என அல்ஜசீரா தெரிவித்துள்ளது.
+
+ஆளில்லா விமானம் மூலம் ஏவப்பட்ட ஏவுகணை இவர்களை நேரடியாக தாக்கியது என தகவல்கள் வெளியாகியுள்ளன.
+
+படுகாயமடைந்த நிலையில் இரண்டு ஊடகவியலாளர்களும் காசாவின் ஐரோப்பிய மருத்துவமனைக்கு இடமாற்றப்பட்டுள்ளனர் ஒமரின் ஒரு கால் துண்டிக்கப்பட்டுள்ளது என தெரிவித்துள்ள அல்ஜசீரா மட்டாரின் நிலைமை கவலைக்கிடமாக உள்ளது எனவும்தெரிவித்துள்ளது.
+
+ஊடகவியலாளர்கள் என தங்களை அடையாளப்படுத்தும் விதத்தில் இரண்டு ஊடகவியலாளர்களும் காணப்பட்டவேளையே அவர்கள் தாக்கப்பட்டுள்ளதை வீடியோக்கள் காணப்பித்துள்ளன.
+
+◼️
+
+[Data](articles/e4b3e0de.json)
 
 ---
 
@@ -1779,233 +1981,5 @@ The long drawn out war commencing from the assassination of the Mayor of Jaffna 
 [Data](articles/8d482139.json)
 
 [Extended Data](ext_articles/8d482139.ext.json)
-
----
-
-### Anura Bandaranaike: “Always the bridesmaid, never the bride”
-
-*2024-02-14 03:42:27* · [`dailyftlk`](https://www.ft.lk/columns/Anura-Bandaranaike-Always-the-bridesmaid-never-the-bride/4-758467) · `en`
-
-What do Ranil Wickremesinghe, Dinesh Gunawardena and Anura Bandaranaike have in common? They were born a year after independence in 1949 and were classmates together at Royal College, Colombo. All three were from illustrious families involved in politics and went on to be brightly shining stars in the Island nation’s political firmament.
-
-Anura Bandaranaike born on 15 February 1949 was regarded as the crown prince of Lankan politics due to the fact that he was the son of SWRD and Sirimavo Bandaranaike. Both of them served as Prime Ministers. Despite this impressive political pedigree, Anura was never a Prime Minister or President. That honour went to his elder sister Chandrika Kumaratunge who was both premier and president. Anura however held many posts like MP, Leader of the Opposition, Cabinet Minister and Speaker but was never “crowned as a King.” Anura passed away 16 years ago at the age of 59 in 2008.
-
-...
-
-[Data](articles/25248ce0.json)
-
-[Extended Data](ext_articles/25248ce0.ext.json)
-
----
-
-### Fact, opinion, and truth
-
-*2024-02-14 03:36:00* · [`dailyftlk`](https://www.ft.lk/columns/Fact-opinion-and-truth/4-758466) · `en`
-
-“The welfare of the people in particular has always been the alibi of tyrants, and it provides the further advantage of giving servants of tyranny a good conscience “
-
-History will remember President Ranil Wickremesinghe elected by a secret vote in Parliament to serve the remainder of President Gotabaya Rajapaksa’s presidential term for another curiously distinctive reason. He will be remembered for the number of policy statements and ceremonial openings of Parliament during his tenure.
-
-Moral high ground is not a podium to preach from. It is an arduous mountain; one climbs on one’s own.
-
-In his latest address he asked - “Why can’t we unite in a shared vision for the country’s well-being and the future?” Why can’t we reach a collective understanding for the benefit of our nation’s youth? Why can’t we join hands to reach great heights?” Rhetoric failed to conceal past failure.
-
-...
-
-[Data](articles/7d3a986c.json)
-
-[Extended Data](ext_articles/7d3a986c.ext.json)
-
----
-
-### Fastcorp hosts webinar on benefits for SL biz in setting up in Singapore
-
-*2024-02-14 03:05:12* · [`dailyftlk`](https://www.ft.lk/business/Fastcorp-hosts-webinar-on-benefits-for-SL-biz-in-setting-up-in-Singapore/34-758450) · `en`
-
-Fastcorp, Singapore’s leading corporate services firm is excited to announce a complimentary webinar titled “Benefits of setting up in Singapore: Why it matters to Sri Lankan businesses.” This exclusive online event is scheduled to take place on 16 February, at 3 p.m. (Sri Lankan time), and aims to enlighten Sri Lankan entrepreneurs and business owners on the myriad benefits that Singapore offers as a business hub.
-
-The webinar is free of charge. For prior registration visit https://us02web.zoom.us/webinar/register/WN_Z9vQjmBJQDO5fKR_j9QYDw
-
-Renowned for its robust economy, strategic location, and business-friendly environment, Singapore stands as a beacon of opportunity for international businesses.
-
-The webinar will delve into the numerous advantages of setting up a business in Singapore, highlighting: Strategic brand value; favourable tax regime; remote Bank account opening; robust legal system; and immigration.
-
-...
-
-[Data](articles/b3f14ac9.json)
-
-[Extended Data](ext_articles/b3f14ac9.ext.json)
-
----
-
-### Japan commits to promoting economic governance through anti-corruption policy support in SL
-
-*2024-02-14 03:04:31* · [`dailyftlk`](https://www.ft.lk/news/Japan-commits-to-promoting-economic-governance-through-anti-corruption-policy-support-in-SL/56-758449) · `en`
-
-Launches initiative in partnership with UNDP towards creating an enabling environment for investment and economic growth
-
-The Government of Japan and the United Nations Development Programme (UNDP) Sri Lanka, this week marked the launch of the new project titled ‘The Project for Promoting Economic Governance through Anti-corruption Policy Support.’
-
-An official signing took place in Colombo with the participation of Japanese Ambassador Mizukoshi Hideaki, UNDP Resident Representative Azusa Kubota and senior Government officials.
-
-Sri Lanka’s ongoing socio-economic crisis has reversed development gains achieved, with deep rooted transparency and accountability gaps identified as a key contributor to the economic crisis of the country.
-
-...
-
-[Data](articles/765cb95b.json)
-
-[Extended Data](ext_articles/765cb95b.ext.json)
-
----
-
-### Govt. to introduce artificial intelligence courses into school curriculum
-
-*2024-02-14 03:01:30* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-introduce-artificial-intelligence-courses-into-school-curriculum/56-758448) · `en`
-
-Pilot project with support of Microsoft to revise international syllabus implemented based on recommendations of National Institute of Education
-
-Aims to start pilot projects from Grade 8 with selected schools undergoing digitisation facilitated by Microsoft’s resources
-
-Microsoft to train 100 Information and Communication Technology subject teachers as trainers
-
-Initiative aims to leverage AI tools such as ChatGPT, Google Bard to enhance students’ knowledge across various subjects in 2024
-
-The Government is taking significant strides towards integrating artificial intelligence (AI) education into the school curriculum, with plans for a pilot project supported by Microsoft set to commence from Grade 8 onwards.
-
-The project aims to introduce AI courses in schools where the necessary resources are available, beginning with a revision of the international syllabus currently implemented by Microsoft, in line with recommendations from the National Institute of Education.
-
-...
-
-[Data](articles/1b22a0e6.json)
-
-[Extended Data](ext_articles/1b22a0e6.ext.json)
-
----
-
-### IDB signs MoU to set up industries inside prisons
-
-*2024-02-14 03:00:41* · [`dailyftlk`](https://www.ft.lk/news/IDB-signs-MoU-to-set-up-industries-inside-prisons/56-758447) · `en`
-
-A Memorandum of Understanding was signed between the Prisons Department and the Industrial Development Board on Monday to establish industries in all prisons, with the aim of making inmates more productive in society after their release from prison.
-
-The MoU was signed in the presence of the Justice, Prison Affairs and Constitutional Reforms Minister Dr. Wijeyadasa Rajapakshe PC, by the Commissioner General of Prisons Thushara Upuldeniya and IDB Chairman Saranga Alahapperuma.
-
-Through the MoU, local entrepreneurs and industrialists will have more opportunities to establish industries in all the prisons and the IDB and the Prisons Department will offer certificates to the inmates who are trained in the industries.
-
-Through this, the prisoners spend their time serving their punishment more meaningfully, use their prison time for development activities, and give the prisoners the opportunity to carry out their own industries after being released from prison.
-
-...
-
-[Data](articles/961854ef.json)
-
-[Extended Data](ext_articles/961854ef.ext.json)
-
----
-
-### Housing loan scheme for migrant workers
-
-*2024-02-14 02:59:37* · [`dailyftlk`](https://www.ft.lk/news/Housing-loan-scheme-for-migrant-workers/56-758446) · `en`
-
-In a bid to support migrant workers’ housing aspirations, Sri Lanka Bureau of Foreign Employment (SLBFE) and the National Housing Development Authority (NHDA) are teaming up with licensed banks to introduce a housing loan program payable in foreign currency.
-
-Under the program, migrant workers with housing aspirations can apply for loans of up to Rs. 10 million, with a portion of the loan amount subsidised by the SLBFE. The proposal to this effect put forth by Foreign Employment and Labour Minister Manusha Nanayakkara was approved by the Cabinet of Ministers. The loan repayment must be made using foreign exchange remitted through legitimate channels, while the loan recipient is engaged in overseas employment. Once the foreign employment term is completed, and the worker returns to Sri Lanka, payments can be made in rupees.
-
-...
-
-[Data](articles/51e0bd20.json)
-
-[Extended Data](ext_articles/51e0bd20.ext.json)
-
----
-
-### Business Excellence Masterclass in Colombo with Harvard Professor Boris Groysberg in March
-
-*2024-02-14 02:58:39* · [`dailyftlk`](https://www.ft.lk/business/Business-Excellence-Masterclass-in-Colombo-with-Harvard-Professor-Boris-Groysberg-in-March/34-758445) · `en`
-
-Breakthrough initiative via collaboration between COYLE, Harvard Club of Sri Lanka and Sampath Bank
-
-In a landmark collaboration, the Chamber of Young Lankan Entrepreneurs (COYLE), the Harvard Club of Sri Lanka and Sampath Bank are poised to elevate corporate leadership in Sri Lanka with an exclusive 3-day Business Excellence Masterclass featuring Harvard Professor Boris Groysberg, a luminary in organisational leadership.
-
-This program will be conducted in the style of an authentic Harvard lecture, providing a unique opportunity for participants.
-
-The event, scheduled from 4 to 6 March, at the Shangri La Hotel in Colombo, brings together COYLE’s commitment to empowering young entrepreneurs, the Harvard Club of Sri Lanka’s dedication to academic and career excellence, and Sampath Bank’s unwavering support for professional and personal development.
-
-...
-
-[Data](articles/820de621.json)
-
-[Extended Data](ext_articles/820de621.ext.json)
-
----
-
-### ‘Sri Lanka Business Drive 2024’ investment roundtable in UK with CWEIC
-
-*2024-02-14 02:57:04* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Business-Drive-2024-investment-roundtable-in-UK-with-CWEIC/34-758444) · `en`
-
-The High Commission of Sri Lanka in London in collaboration with the Commonwealth Enterprise and Investment Council (CWEIC) organised ‘Sri Lanka Business Drive 2024’, an interactive roundtable discussion on investments at the High Commission on 2 February.
-
-The event was presided over by High Commissioner of Sri Lanka to the United Kingdom Rohitha Bogollagama.
-
-The main drive of this event was to foster collaboration, dialogue, and knowledge-sharing on investment opportunities between Sri Lanka and the UK business community. The roundtable brought together a distinguished gathering of 30 leading UK business personalities, capital representatives, investment advisors, financial experts, and existing potential investors, including the top management of De La Rue, Capital Metals PLC, Sri Lanka – UK Chamber of Commerce, Thema Collection, Virtusa, Chartered Institute of Investment and Securities, Orwell Group, iBank, Ventra Group, Hypower Engineering, and Enpure Ltd., etc.
-
-...
-
-[Data](articles/7f8fe89a.json)
-
-[Extended Data](ext_articles/7f8fe89a.ext.json)
-
----
-
-### Cabinet nod to amend Online Safety Act
-
-*2024-02-14 02:55:40* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-amend-Online-Safety-Act/56-758443) · `en`
-
-Cabinet Co-Spokesman and Minister Bandula Gunawardena confirms approval of over 20 revisions in Act, refrains from providing specifics
-
-The Cabinet of Ministers approved making several amendments to the recently passed controversial Online Safety Act.
-
-In response to widespread feedback and recommendations from industry experts, the Legal Draftsman has been tasked with crafting the proposed amendments to the Act.
-
-“Since the amendments submitted at the committee sessions in the Parliament with regard to the said draft Bill should be made on par with the decision of the Supreme Court, there had been no opportunity to introduce proposed amendments furnished by the eminencies in the field,” the statement comprising weekly Cabinet decisions issued by the Government Information Department noted.
-
-It also added that having passed the Parliament, the provisions of the Online Security Act are being implemented at present.
-
-...
-
-[Data](articles/5de30de5.json)
-
-[Extended Data](ext_articles/5de30de5.ext.json)
-
----
-
-### Accused in Atulugama child murder sentenced to 27 years in prison
-
-*2024-02-14 02:54:23* · [`dailyftlk`](https://www.ft.lk/news/Accused-in-Atulugama-child-murder-sentenced-to-27-years-in-prison/56-758442) · `en`
-
-The Panadura High Court yesterday handed down a sentence of 27 years of rigorous imprisonment to the defendant convicted of the May 2022 murder of a nine year old girl in Atulugama, Panadura.
-
-The defendant faced charges of involuntary manslaughter, abduction, and attempted sexual abuse of the child.
-
-Panadura High Court Judge Saman Kumara who delivered the sentence, also mandated the now 31-year-old convict, Farook Mohommed Ganesanathan, to pay Rs. 3 million in compensation to the deceased girl’s mother. Failure to comply with this order would result in an extension of his sentence by 78 months, as directed by the High Court Judge.
-
-...
-
-[Data](articles/f146e627.json)
-
-[Extended Data](ext_articles/f146e627.ext.json)
-
----
-
-### Nawaloka Hospitals issues clarification
-
-*2024-02-14 02:54:04* · [`dailyftlk`](https://www.ft.lk/news/Nawaloka-Hospitals-issues-clarification/56-758441) · `en`
-
-Nawaloka Hospitals PLC marked strong financial performance for the first two quarters in FY 2023/2024 as reported on the company’s 2nd quarter financial statements. This announcement comes in response to a previous news article released from Nawaloka Hospitals PLC, mistakenly mentioning the 2022-23 financial year instead of 2023/24. We regret this error.
-
-◼️
-
-[Data](articles/58675483.json)
-
-[Extended Data](ext_articles/58675483.ext.json)
 
 ---

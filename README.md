@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 17:02:25**
+As of **2024-02-14 17:17:29**
 
 ## Newspaper Stats
 
-*Scraped **6,978** Articles*
+*Scraped **6,982** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 365
 dailyftlk | 376
 adalk | 594
 tamilmirrorlk | 852
-adaderanalk | 858
-virakesarilk | 888
+adaderanalk | 860
+virakesarilk | 890
 adaderanasinhalalk | 980
 dailymirrorlk | 1,019
 
@@ -26,11 +26,87 @@ dailymirrorlk | 1,019
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,975 (100.0%) of 6,978 articles have been extended.
+6,978 (99.9%) of 6,982 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### Indonesia election quick tallies indicate Prabowo headed for first round win
+
+*2024-02-14 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97269/indonesia-election-quick-tallies-indicate-prabowo-headed-for-first-round-win) · `en`
+
+Unofficial tallies in Indonesia’s presidential election on Wednesday showed Defence Minister Prabowo Subianto taking a commanding lead that could see him win in a single round if sustained.
+
+Prabowo had about 58% of votes according to four pollsters, based on ballots counted in a sample of voting stations nationwide. The number of votes they had tallied ranged from about 52% to 67% as of 0912 GMT.
+
+Rivals Anies Baswedan and Ganjar Pranowo had about 25% and 17% respectively, according to the independent pollsters that were conducting “quick counts” at the close of voting.
+
+Counts by reputable outlets have proven to be accurate in previous elections. An official result is not expected until several weeks after the vote.
+
+The pattern could signal a first round win for Prabowo. To win in a single round, a candidate needs more than 50% of votes cast and 20% of the ballot in half of the country’s provinces.
+
+If no candidate wins a majority, a runoff between the top two finishers will be held in June.
+
+...
+
+[Data](articles/c677203e.json)
+
+---
+
+### Minister Sabry to attend global security conference in Munich
+
+*2024-02-14 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97268/minister-sabry-to-attend-global-security-conference-in-munich) · `en`
+
+Foreign Affairs Minister Ali Sabry has been invited to attend the 60th edition of the prestigious Munich Security Conference (MSC) in Germany from February 16 - 18.
+
+Founded in 1963, the MSC stands as one of the world’s premier platforms for deliberating international security policies. Its objective is to build trust and contributing to the peaceful resolution of conflicts by fostering continuous, curated, and informal dialogues within the international security community.
+
+The lawmaker is slated to address the conference session on “Protecting Global Commons” on Saturday (Feb.17), the Foreign Affairs Ministry said in a statement.
+
+During the visit, Minister Sabry will engage in meetings with his counterparts from a number of countries, parliamentarians and business leaders as well.
+
+◼️
+
+[Data](articles/bf980714.json)
+
+---
+
+### நயினாதீவில் கஞ்சா மீட்பு!
+
+*2024-02-14 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/176376) · `ta`
+
+நயினாதீவில் திங்கட்கிழமை (12) காலை 20 கிலோ மற்றும் 140 கிராம்கஞ்சா மீட்கப்பட்டுள்ளதாக தெரிவிக்கபட்டது.
+
+இது குறித்து மேலும் தெரியவருவதாவது நயினாதீவு  கடற்கரையில் கஞ்சா இருப்பதாக முல்லைத்தீவு மாவட்ட விசேட அதிரடிப் படையினருக்கு கிடைத்த புலனாய்வு தகவலுக்கமைய சம்பவ இடத்திற்கு கடற்படையுடன் இணைந்து விரைந்த விசேட அதிரடிப் படையினர் 20 கிலோ கிராம் மற்றும் 140 கிராம் கஞ்சாவினை கைப்பற்றினர்.
+
+◼️
+
+[Data](articles/dcbd3329.json)
+
+---
+
+### இந்தோனேசியாவின் சர்ச்சைக்குரிய பாதுகாப்பு அமைச்சர் ஜனாதிபதி தேர்தலில் முன்னிலையில்
+
+*2024-02-14 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176381) · `ta`
+
+இந்தோனேசியாவின் ஜனாதிபதி தேர்தல் வாக்களிப்பு முடிவடைந்துள்ள நிலையில் பாதுகாப்பு அமைச்சர் பிரபோவோ சுபியன்டோ முன்னிலையில் உள்ளதாக கருத்துக்கணிப்புகள் தெரிவிக்கின்றன.
+
+இதுவரை 72வீதவாக்குகள் எண்ணப்பட்டுள்ள நிலையில் பாதுகாப்பு அமைச்சருக்கு 58 வீதவாக்குகள் கிடைத்துள்ளதாக கருத்துக்கணிப்புகள் தெரிவிக்கின்றன.
+
+இந்தோனேசியாவின் சர்ச்சைக்குரிய பாதுகாப்பு அமைச்சர் முன்னாள் ஜொக்கொ விடோவிடோவின் கொள்கைகளை தொடரப்போவதாக உறுதியளித்துள்ளார்.
+
+முன்னாள் ஜனாதிபதியின் பத்து வருட ஆட்சியில் இந்தோனேசிய பொருளாதாரம் கண்டுள்ள பிரமிக்கத்தக்க வளர்ச்சி வெளிநாட்டு முதலீட்டாளர்களின் பார்வையை அந்த நாட்டை நோக்கி திருப்பியுள்ளது.
+
+எனினும் கடந்தகாலங்களில் மனித உரிமை மீறல்களில் ஈடுபட்டவர் என்பதால் பாதுகாப்பு அமைச்சர் ஜனாதிபதியாவது குறித்து மனித உரிமை ஆர்வலர்கள் கரிசனை வெளியிட்டுள்ளனர்.
+
+ஜனநாயக சார்பு செயற்பாட்டாளர்களை கடத்தி கொலை செய்தார் என்ற அடிப்படையில் பிரபோவோ சுபியன்டோவிற்கு அமெரிக்கா பயணத்தடை விதித்துள்ளது.
+
+◼️
+
+[Data](articles/bd588e5c.json)
+
+---
 
 ### Mahindananda’s money laundering case: Date set to deliver verdict
 
@@ -52,6 +128,8 @@ The written submissions are expected to be handed over to the court in the futur
 
 [Data](articles/6aa69f2a.json)
 
+[Extended Data](ext_articles/6aa69f2a.ext.json)
+
 ---
 
 ### Indian-origin family found dead inside their California Home
@@ -72,6 +150,8 @@ A 9mm pistol and a loaded magazine were recovered from the bathroom.
 
 [Data](articles/490da335.json)
 
+[Extended Data](ext_articles/490da335.ext.json)
+
 ---
 
 ### Japan grants Rs. 2.8bn to install solar power generation systems at Sri Lankan hospitals
@@ -89,6 +169,8 @@ In addition, photovoltaic modules and accessories, power conditioners and access
 ...
 
 [Data](articles/4051f6ec.json)
+
+[Extended Data](ext_articles/4051f6ec.ext.json)
 
 ---
 
@@ -1953,81 +2035,5 @@ He referred to that farmers have problems in the price of paddy.
 [Data](articles/11c0edf9.json)
 
 [Extended Data](ext_articles/11c0edf9.ext.json)
-
----
-
-### Man shot at in Modara Street last night
-
-*2024-02-14 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-shot-at-in-Modara-Street-last-night/108-276978) · `en`
-
-Modara, Feb 14 (Daily Mirror) - A 51-year-old person was admitted to the National Hospital in Colombo with injuries following a shooting incident at Modara Street in Modara, Colombo, last night, police said.
-
-The victim is a manager attached to a guest house in Modara Street. An unidentified person who had arrived in a car had shot at the manager, who was in front of the guest house gate and had fled the scene.
-
-The police suspected that a pistol had been used to shoot at the guesthouse manager. The cause of the shooting has not been revealed yet.
-
-◼️
-
-[Data](articles/333dadd9.json)
-
-[Extended Data](ext_articles/333dadd9.ext.json)
-
----
-
-### One of the wound in the corpse shoot
-
-*2024-02-14 08:26:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முகத்துவாரம்-துப்பாக்கிச்சூட்டில்-ஒருவர்-காயம்/175-333177) · `ta`
-
-One person was injured in a gunfight held last night near a restaurant located on the Colombo -Sukkuttaram road.
-
-Police said the shooting was carried out using a Realvar rifle by the car.
-
-A 51 -year -old man who worked as a manager at the restaurant was injured in the shooting. He is currently receiving treatment at the Colombo National Hospital.
-
-◼️
-
-[Data](articles/8ab4c5a9.json)
-
-[Extended Data](ext_articles/8ab4c5a9.ext.json)
-
----
-
-### Thundershowers in Western, Sabaragamuwa, Galle, Matara after 2 p.m.
-
-*2024-02-14 08:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thundershowers-in-Western-Sabaragamuwa-Galle-Matara-after-2-p-m/108-276977) · `en`
-
-Colombo, Feb 14 (Daily Mirror) - Thundershowers may occur in the Western and Sabaragamuwa Provinces and in the Galle and Matara districts after 2 p.m., the forecasting division of the National Meteorological Centre said.
-
-They said several spells of showers will occur in the Eastern and Uva Provinces and in the Polonnaruwa, Matale and Nuwara-Eliya districts.
-
-Meanwhile, a few showers may occur in the Northern Province and in the Anuradhapura district.
-
-Fairly strong winds of about 40 kmph can be expected at times on the eastern slopes of the central hills and in the Northern, North-Central, Southern, North-Western, Uva and Eastern Provinces.
-
-However, misty conditions can be expected at some places in the Western and Sabaragamuwa Provinces and in the Galle and Matara districts during the morning.
-
-◼️
-
-[Data](articles/f5316363.json)
-
-[Extended Data](ext_articles/f5316363.ext.json)
-
----
-
-### Electronic Media Broadcasting Authority Act soon
-
-*2024-02-14 08:09:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விரைவில்-இலத்திரனியல்-ஊடக-ஒலிபரப்பு-அதிகாரசபை-சட்டம்/175-333176) · `ta`
-
-Minister of State for Media Shantha Bandara said that the Electronic Media Broadcasting Authority Act is expected to be submitted to Parliament.
-
-He said this at a media briefing held at the Presidential Media Center yesterday.
-
-The Electronic Media Broadcasting Authority was subjected to massive changes based on the majority agreement. The final bill has now been sent to the Attorney General's Department. He said it was expected to be presented in Parliament in the future. (A)
-
-◼️
-
-[Data](articles/47597a38.json)
-
-[Extended Data](ext_articles/47597a38.ext.json)
 
 ---

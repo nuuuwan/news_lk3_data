@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 22:03:50**
+As of **2024-02-14 22:17:35**
 
 ## Newspaper Stats
 
-*Scraped **7,055** Articles*
+*Scraped **7,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 603
 tamilmirrorlk | 858
 adaderanalk | 867
 virakesarilk | 902
-adaderanasinhalalk | 994
+adaderanasinhalalk | 996
 dailymirrorlk | 1,035
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,055 (100.0%) of 7,055 articles have been extended.
+7,055 (100.0%) of 7,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### සංචාරක පැමිණීමේ වර්ධනයක්
+
+*2024-02-14 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193390) · `si`
+
+මේ අතර, 2024 වසරේ ජෙනවාරි පළමු වැනි දා සිට අද දිනය දක්වා මෙරටට පැමිණි සංචාරකයන් ගණන ලක්ෂ 03 ඉක්මවා ඇතැයි අද ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් ශ්‍රී ලංකා සංචාරක ප්‍රවර්ධන කාර්යාංශය අනාවරණ කළේය.
+
+පෙබරවාරි 13 වැනි දා වන විට පෙබරවාරි මාසයේ පළමු දින 13 තුළ දිවයිනට පැමිණි සංචාරකයන් සංඛ්‍යාව 98,455ක් ලෙස වාර්තා වේ.
+
+ජනවාරි මාසයේ ද පැමිණි 2,08,253ක සංවාරක සංඛ්‍යාව සැලකූ විට වසරේ මේ දක්වා සංචාරකයන් 3,06,708ක් ශ්‍රී ලංකාවට පැමිණ තිබේ.
+
+◼️
+
+[Data](articles/18e90d21.json)
+
+---
 
 ### Steps to establish 03 International Universities in Sri Lanka - Suren Raghavan
 
@@ -51,6 +67,32 @@ Indian Institutes of Technology. The other two universities will open their two 
 [Data](articles/93b6d307.json)
 
 [Extended Data](ext_articles/93b6d307.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවට කඩුලු 07ක ජයක්
+
+*2024-02-14 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193389) · `si`
+
+ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර තෙවැනි සහ අවසන් එක්දින තරගයෙන් කඩුලු 07ක විශිෂ්ට ජයක් වාර්තා කිරීමට ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
+
+කාසියේ වාසිය දිනූ ඇෆ්ගනිස්තාන නායක හෂ්මතුල්ලා ශහීඩි පළමුවෙන් පන්දුවට පහර දීමට තීරණය කළේ ය.
+
+ඒ අනුව ඔවුන් ඇෆ්ගනිස්තානය වෙනුවෙන් සියලු ක්‍රීඩකයන් දැවී ලකුණු 266ක ලකුණු පුවරුවක් නිර්මාණය කිරීමට සමත් විය.
+
+පිළිතුරු ඉනිම සඳහා පිටියට පිවිසි ශ්‍රී ලංකා කණ්ඩායම නියමිත ඉලක්කය කඩුලු 03ක් පමණක් දැවී සම්පූර්ණ කළේ ය.
+
+පැතුම් නිස්සංක සහ අවිෂ්ක ප්‍රනාන්දු විශිෂ්ට ආරම්භයක් ලබා ගත් අතර, අවිෂ්ක ප්‍රනාන්දු ලකුණු 91කට අවාසනාවන්ත ලෙස දැවී ගියේ ය.
+
+පැතුම් නිස්සංක ශතකයක් සමඟ ලකුණු 118ක් වාර්තා කළ අතර, එය හතරේ පහර 16කින් සහ හයේ පහර 02කින් අලංකාර විය.
+
+කුසල් මෙන්ඩිස් හයේ පහර 04ක් සමඟ වේගවත් ලකුණු 40ක් රැස් කළේ ය.
+
+ඒ අනුව තරග තුනකින් සමන්විත එක්දින තරගාවලිය 03ට 0ක් ලෙස පූර්ණ තරගාවලි ජයක් වාර්තා කිරීමට ශ්‍රී ලංකාව සමත් විය.
+
+◼️
+
+[Data](articles/60a3ab4e.json)
 
 ---
 
@@ -2017,53 +2059,5 @@ Sri Lanka - Bangladeshi Twenty Twenty Tournament will be held on March 4, 6 and 
 [Data](articles/f3e1940a.json)
 
 [Extended Data](ext_articles/f3e1940a.ext.json)
-
----
-
-### Prasanna tells about a change in government
-
-*2024-02-14 13:28:37* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවේ-වෙනස්-වූ-ප්‍රතිපත්තියක්-ගැන-ප්‍රසන්න-කියයි/11-408080) · `si`
-
-Urban Development and Housing Minister Prasanna Ranatunga said that the present government has left the policy of conducting development projects from the win rooms.
-
-He emphasized that development projects are being carried out only on the need of the people.
-
-According to the Minister, the government's policy to develop every village.
-
-Minister Prasanna Ranatunga was speaking at the Kegalle District Coordinating Committee on the 'Kandakkara decade' development program today (14).It was held at the Kegalle District Secretariat.
-
-The Kegalle District Coordinating Committee was held by its chairman MP Rajaka Wickremasinghe and the Governor of the Sabaragamuwa Province Naveen Dissanayake.
-
-The ministerial emphasized that each district district has implemented freedom through the circular.
-
-The mountain decade program will be implemented in 10 districts this year. The districts of Kandy, Matale, Nuwara Eliya, Ratnapura, Kegalle, Matara, Galle, Kalutara, Badulla and Kurunegala.
-
-...
-
-[Data](articles/bc238c72.json)
-
-[Extended Data](ext_articles/bc238c72.ext.json)
-
----
-
-### Two birds to billy with one stone
-
-*2024-02-14 13:25:07* · [`adalk`](https://www.ada.lk/breaking_news/එක-ගලකින්-කුරුල්ලෝ-දෙන්නෙක්-බිලි-ගන්න-යයි/11-408079) · `si`
-
-7500 Gregory Wawana, Nuwara Eliya Gravet Kaf Types
-
-The reservoir released the reservoir under the patronage of the District Hydro-Cultivation Extension Officer of the National Water Lived Development Superintendent of the Nuwara Eliya office.
-
-Under the provisions of the Nuwara Eliya Gragary Tank, 7500 breeding fish breeding center, which is under the Allocation of the National Hydro-Crops Development Authority, was released.
-
-Buddhika Kushan in charge of the project was released to increase the prothorain of the low income families in Nuwara Eliya and to increase the income of the fishermen in the Greatgary tank.
-
-Buddhika Kushan is a fishing breeding, which is released to Gragary Lake and the fishery cubs are natural breeding, and the fishery cubs will contribute to 1- 1 ½.He further stated.
-
-◼️
-
-[Data](articles/8a478a11.json)
-
-[Extended Data](ext_articles/8a478a11.ext.json)
 
 ---

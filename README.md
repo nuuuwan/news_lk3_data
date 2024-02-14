@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 19:32:51**
+As of **2024-02-14 19:50:26**
 
 ## Newspaper Stats
 
-*Scraped **7,025** Articles*
+*Scraped **7,026** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 599
 tamilmirrorlk | 855
 adaderanalk | 863
 virakesarilk | 897
-adaderanasinhalalk | 987
+adaderanasinhalalk | 988
 dailymirrorlk | 1,028
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,019 (99.9%) of 7,025 articles have been extended.
+7,026 (100.0%) of 7,026 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### A wicketkeeper athletes a mechanic Iakil disorder
+
+*2024-02-14 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193382) · `si`
+
+The Afghanistan wicket-wicket rank was a meant to leave the playground due to a barcil disorder.
+
+Fiscelhak Ferkey, the fifth ball focused on the fifth ball, turned to wicketkeeper.
+
+At the end of the attempt to protect it, Ikilil's finger was inactive, and he decided to be alienated.
+
+◼️
+
+[Data](articles/38b963fd.json)
+
+[Extended Data](ext_articles/38b963fd.ext.json)
+
+---
 
 ### Sri Lanka parliament panel questions gaming regulator delay
 
@@ -50,6 +68,8 @@ COPF granted a two-week extension for this while expecting completion of the leg
 
 [Data](articles/39e11adc.json)
 
+[Extended Data](ext_articles/39e11adc.ext.json)
+
 ---
 
 ### COPF summons Fiscal Policy Dept’s DG over gaming regulator delay
@@ -67,6 +87,8 @@ Stressing the vital role of a gaming regulator in both attracting investment and
 ...
 
 [Data](articles/8d0c860e.json)
+
+[Extended Data](ext_articles/8d0c860e.ext.json)
 
 ---
 
@@ -106,6 +128,8 @@ Accordingly, the WAYR of Treasury Bills have dropped down to single digit levels
 
 [Data](articles/f9d5a54a.json)
 
+[Extended Data](ext_articles/f9d5a54a.ext.json)
+
 ---
 
 ### Motorcycle - State Bus Accident on A9 Road, Jaffna
@@ -141,6 +165,8 @@ Popular international vlogger ‘Nas Daily’ has already released his video pro
 ...
 
 [Data](articles/7c26e43a.json)
+
+[Extended Data](ext_articles/7c26e43a.ext.json)
 
 ---
 
@@ -878,23 +904,27 @@ The Balangoda Magistrate has ordered the seven senior students who have already 
 
 ---
 
-### அழைப்பை நிராகரிக்க உரிமை
+### The right to reject the invitation
 
 *2024-02-14 15:41:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அழைப்பை-நிராகரிக்க-உரிமை/50-333200) · `ta`
 
-ஆஸ்திரேலிய பாராளுமன்றத்தில் செனட் மற்றும் பிரதிநிதிகளின் சபை என இரு அவைகள் உள்ளன. செனட் சபை, அந்நாட்டு ஊழியர்களின் நலன் கருதி "ரைட் டு டிஸ்கனெக்ட்" (Right to Disconnect) எனும் "தொடர்பு அறுக்கும் உரிமை" குறித்து சட்டம் இயற்றியுள்ளது.
+The Australian Parliament contains both the Senate and the House of Representatives. The Senate Council has enacted the "Right to Disconnect" Right to Disconnect for the benefit of the employees of the country.
 
-இச்சட்டத்தின்படி, ஊழியர்களை பணியமர்த்தும் நிறுவனங்கள், தங்கள் பணி நேரத்தை முடித்த ஊழியர்களை, நிறுவன அதிகாரிகள் செய்தி, மின்னஞ்சல் மற்றும் தொலைபேசி அல்லது வேறு எந்த வகையிலும் தொடர்பு கொள்வது தடை செய்யப்பட்டுள்ளது.
+According to the law, companies that hire employees are prohibited from contacting the employees who have completed their work hours, the corporate officials, the news, the email and the phone or any other way.
 
-அதே போன்று, பணிக்கான நேரம் முடிந்ததும் ஊழியர்கள் தங்கள் தொலைபேசிகளை  அணைத்து வைத்து கொள்வதும் அவர்களின் உரிமை என நிர்ணயிக்கப்பட்டுள்ளது.
+Similarly, it is their right to have employees to turn off their phones once the work is over.
 
-மேலும், மென்பொருள், தகவல் தொடர்பு உள்ளிட்ட பல துறைகளில் பணிக்கான நேரம் முடிந்து ஊழியர்கள் சென்ற பிறகும், தங்கள் மின்னஞ்சலை அவ்வப்போது பார்த்து அலுவல் குறித்த முடிவுகளை எடுக்க கட்டாயப்படுத்தப்படுகிறார்கள்.
+In addition, in many sectors, including software and communication, employees are forced to take their email from time to time and make decisions on business.
 
-தாங்கள் தேவையற்று அழைக்கப்படுவதாக பணியாளர்கள் உணர்ந்தால் நிறுவன மேலிடத்தில் தெரிவிக்க வேண்டும். அதில் தீர்வு காணப்படவில்லை என்றால், பணியாளர் நல ஆணையத்திடம் முறையிடலாம்.
+If employees feel that they are unnecessarily called. If there is no solution, you can appeal to the Employees Welfare Commission.
 
-...
+It has been announced that corporations calling employees will be fined.
+
+◼️
 
 [Data](articles/f830e3be.json)
+
+[Extended Data](ext_articles/f830e3be.ext.json)
 
 ---
 
@@ -1152,21 +1182,23 @@ He said the President had made statements on several recent occasions indicating
 
 ---
 
-### සෞඛ්‍ය ,ප්‍රවාහනය,දුම්රිය සේවා,තැපැල් අත්‍යවශ්‍ය සේවා බවට පත් කෙරේ
+### Health, transport, railment, postal services are essential services
 
 *2024-02-14 14:31:54* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය--ප්‍රවාහනය-දුම්රිය-සේවා-තැපැල්-අත්‍යවශ්‍ය-සේවා-බවට-පත්-කෙරේ/11-408084) · `si`
 
-සෞඛ්‍ය ,පොදු ගමනාගමනය ,දුම්රිය ගමනාගමනය සහ තැපැල් සේවා සාමාන්‍ය ජන ජීවිතය පවත්වාගෙන යාමට අත්‍යවශ්‍ය සේවා බවට පත්කරමින් ජනපති නියමයෙන් අති විශේෂ ගැසට් පත්‍ර දෙකක් අද (13 )නිකුත් කර තිබේ.
+Two special gazettes have been released today (13), converting health, public transport, traffic, traffic and postal services to maintain the normal people.
 
-මේ අනුව එක් ගැසට් නිවේදනයක් මගින් රෝහල්වල,සාත්තු නිවාසවල, බෙහෙත් ශාලා සහ වෙනත් සමාන ආයතනවල රෝගීන් නඩත්තු කිරීම සහ පිළිගැනීම ,රැකවරණය ,පෝෂණය කිරීම සහ ප්‍රතිකාර කිරීම සම්බන්ධව අවශ්‍ය හෝ කළ යුතු ඕනෑම සේවා හෝ ක්‍රමය අත්‍යවශ්‍ය සේවා බවට පත් කර ඇත.
+Accordingly, one gazette notification has been substantially necessary or done to maintain or accept patients in hospitals, nursing homes, medications and other similar institutions.
 
-තවද මගීන් හෝ බඩු ප්‍රවාහන පොදු ගමනාගමන සේවා ,දුම්රිය මාර්ග ගමනාගමන සේවා සඳහා පහසුකම් සැලසීම හා පවත්වාගෙන යාම සහ තැපැල් සේවා සේවා අත්‍යවශ්‍ය සේවා බවට පත්කරමින් අනෙක් ගැසට් නිවේදනය නිකුත්කර තිබේ.
+The other gazette notification has been issued by the other gazette notification and maintaining passengers or cargo public transport services, maintaining and maintaining railway traffic services and postal service services.
 
-ජනාධිපතිවරයාගේ නියමයෙන් ජනාධිපති ලේකම් ඊ.එම්.එස්.බී.ඒකනායක මහතා විසින් මෙම නිවේදන නිකුත් කර ඇත.
+The announcements have been issued by the Secretary to the President EMSB Ekanayake.
 
 ◼️
 
 [Data](articles/ddef7137.json)
+
+[Extended Data](ext_articles/ddef7137.ext.json)
 
 ---
 
@@ -2013,25 +2045,5 @@ The highest number of wild elephants reported on 27th of September last year, 11
 [Data](articles/f0452b7e.json)
 
 [Extended Data](ext_articles/f0452b7e.ext.json)
-
----
-
-### Effective Government DM. 500
-
-*2024-02-14 11:53:10* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-ගේන්න-වාර්ශිකව-රජයට-ඩො-මි--500ක-වැයක්/11-408076) · `si`
-
-The Ministry of Health continued a special discussion with the Ministry of Health, State Pharmaceutical Corporation, State Pharmaceutical Corporation and the National Drug Regulatory Authority of the Ministry of Health.
-
-Special discussions led by Minister of Health and Industry Dr. Ramesh Pathirana, providing the quality techniques and continuously delivering quality drug hospitals, focus on matters of quality techniques, pharmaceutical issues.
-
-The Minister also instructs the officials to be produced in Sri Lanka in Sri Lanka annually, and the best solution is to be produced in the country's methods.Were given.
-
-The Minister of Health was also given to take a pre-study on the right study of the Ministry of Health on the prevention of drugs that were required to have no drug shortages in the country.
-
-◼️
-
-[Data](articles/05d3986d.json)
-
-[Extended Data](ext_articles/05d3986d.ext.json)
 
 ---

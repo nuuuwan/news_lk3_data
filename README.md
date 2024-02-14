@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 12:49:57**
+As of **2024-02-14 13:02:28**
 
 ## Newspaper Stats
 
-*Scraped **6,916** Articles*
+*Scraped **6,923** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,82 @@ adalk | 590
 tamilmirrorlk | 844
 adaderanalk | 849
 virakesarilk | 875
-adaderanasinhalalk | 965
-dailymirrorlk | 1,014
+adaderanasinhalalk | 969
+dailymirrorlk | 1,017
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,916 (100.0%) of 6,916 articles have been extended.
+6,916 (99.9%) of 6,923 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### South Korea says North Korea has fired cruise missiles
+
+*2024-02-14 12:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/South-Korea-says-North-Korea-has-fired-cruise-missiles/108-277000) · `en`
+
+SEOUL, South Korea (AP) — North Korea on Wednesday fired multiple cruise missiles into the sea in its fifth test of such weapons since January, South Korea’s military said, extending a streak in weapons demonstrations that’s elevating tensions in the region.
+
+South Korea’s Joint Chiefs of Staff said the South Korean and U.S. militaries were analyzing the launches that were detected in waters northeast of the eastern coastal city of Wonsan. The South Korean military didn’t immediately provide the exact numbers of missiles fired or how far they flew. It wasn’t immediately clear either whether the missiles were fired from land or from sea assets. “Our military has increased surveillance and vigilance and is working closely with our U.S. partners and is closely monitoring signs for further activity from North Korea,” the Joint Chiefs of Staff said in a statement.
+
+...
+
+[Data](articles/9ae1bbf7.json)
+
+---
+
+### දෙදෙනෙකු දියේ ගිලෙයි
+
+*2024-02-14 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193362) · `si`
+
+ත්‍රිකුණාමලය, කින්නියා ප්‍රදේශයේ මහවැලි ගඟේ අතු ගංඟාවක ධීවර කටයුතු කරමින් සිටි දෙනෙනෙක් දියේ ගිලී තිබේ.
+
+පොලීසිය පැවසුවේ වයස අවුරුදු 17ක සහ 35ක පුද්ගලයින් දෙදෙනෙක් එසේ දියේ ගිලී ඇති බවයි.
+
+ධීවර කටයුතු සඳහා භාවිත කළ යාත්‍රාව පෙරළීමෙන් එම අනතුර සිදුව තිබුණි.
+
+◼️
+
+[Data](articles/482e62ab.json)
+
+---
+
+### Civil organization demands a 33% electricity tariff revision
+
+*2024-02-14 12:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Civil-organization-demands-a-33-electricity-tariff-revision/108-276999) · `en`
+
+Colombo, Feb 14 (Daily Mirror) - The National Front of Civil Organizations (NFCO) today requested electricity consumers to gather in front of the Bandaranaike Memorial International Conference Hall (BMICH) premises to express opposition to the Public Utilities Commission of Sri Lanka (PUCSL), which is set to finalize the collection of public opinions for the upcoming electricity tariff revision, NFCO president Priyantha Thilakarathna said.
+
+Addressing the media, he said that the Public Utilities Commission of Sri Lanka (PUCSL) had raised the electricity tariff without taking into account public opinions. He claimed that the decision seemed to align more with the preferences of the Power and Energy Ministry and the Ceylon Electricity Board (CEB).
+
+Therefore, the NFCO has decided to launch a silent protest in front of the BMICH tomorrow morning.
+
+...
+
+[Data](articles/6e1c97ac.json)
+
+---
+
+### Former STF chief Nimal Lewke joins SJB
+
+*2024-02-14 12:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-STF-chief-Nimal-Lewke-joins-SJB/108-276998) · `en`
+
+Colombo, Feb 14 (Daily Mirror) -  Former STF chief Nimal Lewke has joined the Samagi Jana Balawegaya (SJB), the party office said.
+
+He obtained the party membership from leader Sajith Premadasa today.
+
+He is the third high ranking officer involved in the defence sector to join the SJB.
+
+The SJB leadership is seen welcoming newcomers to the fold despite some members of the party stressing the need to choose newcomers diligently.
+
+◼️
+
+[Data](articles/07509a8a.json)
+
+---
 
 ### Edu. Minister hints at 2023 A/L exam results release date
 
@@ -47,6 +111,26 @@ Premajayantha revealed that the evaluation of the answer scripts of 2023 G.C.E. 
 [Data](articles/e0eb06ec.json)
 
 [Extended Data](ext_articles/e0eb06ec.ext.json)
+
+---
+
+### රුසියාව බටහිර රටවලට අනතුරු අඟවයි
+
+*2024-02-14 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193361) · `si`
+
+අමෙරිකාව සහ යුරෝපීය සංගමයේ රටවල්, ඩොලර් බිලියන ගණනක් වටිනා සිය සම්පත් වෙනත් කටයුතු සඳහා භාවිත කළහොත් ඊට එරෙහිව දැඩි ප්‍රතිචාරයක් ලබාදෙන බව රුසියාව අනතුරු අඟවයි.
+
+2022 වසරේදී රුසියානු ජනාධිපති ව්ලැඩිමීර් පුටින් විසින් යුක්‍රේනයට හමුදාව යැවීමෙන් පසුව අමෙරිකාව සහ ඔවුන්ගේ මිත්‍ර රටවල් රුසියානු මහ බැංකුව සහ මුදල් අමාත්‍යංශය සමග ගනුදෙනු කිරීම තහනම් කළේය.
+
+ඒ හේතුවෙන් රුසියාව සතු ඩොලර් බිලියන 300ක් පමණ වටින සම්පත් සහ දේපොළ බටහිර රටවල සිරවී තිබේ.
+
+එසේ අත්හිටුවා ඇති ධනය භාවිත කර යුක්‍රේනය නැවත ගොඩ නැගීමට යුරෝපා සංගමය සැලසුම් කරයි.
+
+ඊට ප්‍රතිචාර ලෙස රුසියාව පැවසුවේ එය සොරකමක් ලෙස තම රට සලකන බවත් සොරුන්ට එරෙහිව නිසි ප්‍රතිචාරය දක්වන බවත් ය.
+
+◼️
+
+[Data](articles/286d5fdb.json)
 
 ---
 
@@ -70,6 +154,22 @@ The highest number of wild elephants reported on 27th of September last year, 11
 
 ---
 
+### ධීවර වරායේ මුරකරුගේ සිරුර මුහුදේ
+
+*2024-02-14 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193360) · `si`
+
+බේරුවල ධීවර වරාය ආශ්‍රිත මුහුදේ තිබි පුද්ගල මළසිරුරක් සොයාගෙන තිබේ.
+
+ධීවර වරායේ මුරකරුවෙකු ලෙස කටයුතු කළ පුද්ගලයෙකු මෙලෙස මුහුදට වැටී මියගොස් ඇති බව වාර්තා වේ.
+
+අදාළ පුද්ගලයා ඊයේ (13) රාත්‍රී රාජකාරී කටයුතු සඳහා පැමිණ ඇති අතර පසුව සිදුකළ සොයාබැලීමක දී ඔහුගේ මළසිරුර සොයාගෙන තිබේ.
+
+◼️
+
+[Data](articles/a1e009a5.json)
+
+---
+
 ### Two men nabbed with over 1,400 capsules of controlled drugs
 
 *2024-02-14 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97256/two-men-nabbed-with-over-1400-capsules-of-controlled-drugs) · `en`
@@ -89,6 +189,26 @@ The suspects held in this operation were identified as residents of Silawathura 
 [Data](articles/42dfce0c.json)
 
 [Extended Data](ext_articles/42dfce0c.ext.json)
+
+---
+
+### මත් පෙති ජාවාරම් කළ වෛද්‍යවරයා
+
+*2024-02-14 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193359) · `si`
+
+කාලයක් තිස්සේ තැ‍රැව්කරුවන් මාර්ගයෙන් ගම්පොළ ඇතුළු අවට ප්‍රදේශ රැසක අධිමාත්‍රා ඖෂධ පෙති ජාවාරමේ යෙදුණු බවට සැකපිට වෛද්‍යවරයෙකු පොලිස් අත්අඩංගුවට පත්වී තිබේ.
+
+පොලීසිය පවසන්නේ එම වෛද්‍යවරයා වෙනත් අයෙකුට රුපියල් 160,000ක ඖෂධ තොගයක් ලබාදෙමින් සිටියදී අත්අඩංගුවට ගත් බවයි.
+
+ගෙලිඔය ප්‍රදේශයේ පදිංචි මෙම වෛද්‍යවරයා රෝහල් වෛද්‍ය සේවාවට අමතරව ප්‍රදේශ කිහිපයක වෛද්‍ය මධ්‍යස්ථානද පවත්වාගෙන යමින් ඒ හරහාද මෙම ජාවාරමේ නිරතව තිබෙන බව පොලීසිය අනාවරණය කරගෙන ඇත.
+
+මොහුගෙන් මත්පෙති ලබාගෙන විවිධ ප්‍රදේශවල ජාවාරමේ යෙදෙන පිරිසට මෙම වෛද්‍යවරයා හොර රහසේ රාත්‍රී කාලයේ මෝටර් රථයෙන් ගොස් මෙම මත් පෙති අලෙවි කිරීම සිදුකර තිබේ.
+
+මෙම වෛද්‍යවරයා හා මෝටර් රථය අද (14) ගම්පොළ අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/26728eb9.json)
 
 ---
 
@@ -1885,151 +2005,5 @@ The officer has been bailed and the case will be taken up again on March 6.
 [Data](articles/5f20ab40.json)
 
 [Extended Data](ext_articles/5f20ab40.ext.json)
-
----
-
-### Beware of crocodiles in Colombo’s waterways
-
-*2024-02-13 22:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Beware-of-crocodiles-in-Colombos-waterways/108-276944) · `en`
-
-Colombo, Feb. 13 (Daily Mirror)- The Wildlife Department warned the public to be vigilant when using rivers, lakes and canals in Colombo as there was a high possibility of crocodiles languishing in these waterways.
-
-Wildlife Conservation Department Director General Chandana Sooriyabandara told the Daily Mirror this while commenting on a video of a crocodile being seen in the Bolgoda River.
-
-"The Bolgoda River is a habitat for crocodiles, and there might be a large number of crocodiles living in the rivers, lakes and streams in Colombo. Accordingly, Diyawannawa, Bolgoda Lake South and Kelani Ganga are found to be the habitats for crocodiles for a long time," he said.
-
-This is a common incident, and it comes up as a topic only when people see it. Therefore, the Director General urged the people to be very careful and watchful when walking along these streams.
-
-...
-
-[Data](articles/bfef9ddf.json)
-
-[Extended Data](ext_articles/bfef9ddf.ext.json)
-
----
-
-### Sajith, Anura is not going to be a challenge - United National Party
-
-*2024-02-13 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176308) · `ta`
-
-There is no one to contest Ranil Wickremesinghe in the presidential election. We are not challenged by Sajitho Anura or we are currently not taking steps to abolish the presidential system. But the United National Party (UNP) general secretary Palitha Range Bandara said the United National Party would support the absence of presidential system.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (13).
-
-Ranil Wickremesinghe is taking steps to not hold the presidential election and has formed a committee headed by Karu Jayasuriya to amend the constitution and abolish the presidency.. Ranil Wickremesinghe has publicly announced that there will be no need for the presidential election.
-
-...
-
-[Data](articles/5a7650f3.json)
-
-[Extended Data](ext_articles/5a7650f3.ext.json)
-
----
-
-### Brazilian President Lula da Silva accepts invitation to visit Sri Lanka
-
-*2024-02-13 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97244/brazilian-president-lula-da-silva-accepts-invitation-to-visit-sri-lanka) · `en`
-
-President of Brazil, Lula da Silva has accepted the invitation extended by his Sri Lankan counterpart to visit Sri Lanka, the Embassy of Sri Lanka in Brazil said in a press release.
-
-This was remarked by Secretary for Asia and Pacific of the Brazilian Foreign Affairs Ministry, Ambassador Eduardo Paes Saboia during the 76th anniversary of Independence Day reception held at the Sri Lankan embassy last week.
-
-Ambassador Saboia further stated that President Lula da Silva is enthusiastic to undertake his official visit to Sri Lanka in due course.
-
-He recalled the constructive interactions that the leaders of Sri Lanka and Brazil had in Dubai on the sidelines of COP28 in December 2023, adding that there will be more opportunities to further strengthen bonds of friendship and cooperation between the two nations in 2024.
-
-...
-
-[Data](articles/d2dec79a.json)
-
-[Extended Data](ext_articles/d2dec79a.ext.json)
-
----
-
-### We are in the phase of building the Sri Lankan team for the World Cup - Chris Silvoot
-
-*2024-02-13 21:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/176307) · `ta`
-
-Chief Instructor Chris Silvoot said the Sri Lankan team was in the process of building the World Cup cricket tournament.
-
-He was speaking at a media briefing on Tuesday (12) before the third and last ODIs to be held on Wednesday (14) against Afghanistan.
-
-Sri Lanka's chief coach Chris Silvoot and team captain Gusal Mendis
-
-'We are in the stage to build the team for the next World Cup Cricket Tournament. All players are well aware of what their character is. Everyone should continue his journey with confidence, 'said Chris Silvood.
-
-He noted that the Sri Lankan team has played well in the International ODI series against Afghanistan.
-
-'Our team has played better against Afghanistan. I was overwhelmed by their energy manifestations. The players scored substantial runs and made excellent connectivity. It is satisfactory that the first 6 players are playing efficiently. They are all excited and confident.
-
-...
-
-[Data](articles/7558427e.json)
-
-[Extended Data](ext_articles/7558427e.ext.json)
-
----
-
-### The names of 4 containers caught
-
-*2024-02-13 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193344) · `si`
-
-Customs had inspected four suspects in Malaysia to Sri Lanka.
-
-There were 44,000 finished clothes in the 40-foot containers that were imported into fabric.
-
-Customs officials said that the government's loss of taxes lost Rs. 60 million.
-
-The total value of the project is nearly Rs. 150 million.
-
-The containers have been imported to the country by three garment companies in Wattala, Colombo and Panadura areas.
-
-The customs officers were misleading to deny the rice of another two containers.
-
-Accordingly, the Customs officers were able to discover 12,688 kilograms of imported to Sri Lanka.
-
-State Minister Ranjith Siyambalapitiya had also received the money to monitor these containers.
-
-Customs officials have advised the customs officials to confuse all these goods and take necessary legal action.
-
-◼️
-
-[Data](articles/31546d39.json)
-
-[Extended Data](ext_articles/31546d39.ext.json)
-
----
-
-### Released
-
-*2024-02-13 21:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176306) · `ta`
-
-The notification has been issued to declare many services related to health services as essential services.
-
-Accordingly, the maintenance, reception, safety, nutritious feeding and treatment of patients in hospitals, liars, pharmacies and other similar companies are declared in the Extreme Gazette as essential services that need or to do.
-
-◼️
-
-[Data](articles/c89c6b56.json)
-
-[Extended Data](ext_articles/c89c6b56.ext.json)
-
----
-
-### Government has committed a huge mistake by appointing healthcare workers to hospitals
-
-*2024-02-13 21:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-has-committed-a-huge-mistake-by-appointing-healthcare-workers-to-hospitals/108-276946) · `en`
-
-Colombo, Feb 13 (Daily Mirror) - Government Medical Officers' Forum (GMOF) president Dr. Rukshan Bellana said today that the government has made a significant error by appointing healthcare workers to hospitals.
-
-Addressing the media, he highlighted that healthcare workers used to be involved in tasks such as transporting patients using wheelchairs and trolleys, as well as handling the transportation of blood and urine samples to and from patients.
-
-"In foreign countries, healthcare workers are assisted by private companies in carrying out these activities. Turning these tasks into government services was a significant mistake on the part of the government. Those who engaged in election campaigns and poster campaigns were elected for their satisfaction in these roles," he said.
-
-...
-
-[Data](articles/3bfb600a.json)
-
-[Extended Data](ext_articles/3bfb600a.ext.json)
 
 ---

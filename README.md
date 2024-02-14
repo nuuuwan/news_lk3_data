@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 02:17:28**
+As of **2024-02-15 02:33:17**
 
 ## Newspaper Stats
 
-*Scraped **7,084** Articles*
+*Scraped **7,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 149
 newsfirstlk | 363
 islandlk | 365
 economynextcom | 370
-dailyftlk | 382
+dailyftlk | 385
 adalk | 603
 tamilmirrorlk | 860
 adaderanalk | 868
@@ -26,11 +26,55 @@ dailymirrorlk | 1,041
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,084 (100.0%) of 7,084 articles have been extended.
+7,084 (100.0%) of 7,087 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### Strong sector performances propel Sunshine Holdings’ earnings by 44.2% to Rs. 5.5 b
+
+*2024-02-15 01:50:39* · [`dailyftlk`](https://www.ft.lk/business/Strong-sector-performances-propel-Sunshine-Holdings-earnings-by-44-2-to-Rs-5-5-b/34-758499) · `en`
+
+Diversified Sri Lankan conglomerate Sunshine Holdings PLC (CSE: SUN) has recorded a consolidated revenue of Rs. 42.4 billion during the first nine months of the current financial year (9MFY24). Amidst the backdrop of a moderately stable macroeconomic conditions, the Group has reported solid top-line and bottom-line growth of 10% and 44% YoY with Profit after tax (PAT) increased to Rs. 5.5 billion as a result of business growth and lower finance costs during the period.
+
+The Group’s healthcare sector emerged as the largest contributor to Sunshine’s top-line, accounting for 50% of total revenue, with consumer at 35%, and agribusiness 15% of the total revenue.
+
+...
+
+[Data](articles/8ed1b92f.json)
+
+---
+
+### Bingiriya Investment Zone ready for Japanese investors: Dilum
+
+*2024-02-15 01:45:43* · [`dailyftlk`](https://www.ft.lk/business/Bingiriya-Investment-Zone-ready-for-Japanese-investors-Dilum/34-758498) · `en`
+
+State Minister for Investment Promotion Dilum Amunugama recently instructed the officials of the Sri Lanka Board of Investment to facilitate and execute the second and third phases of the Bingiriya Investment Zone as soon as possible, targeting high-net-worth Japanese investors.
+
+After the President visited Japan, a large number of Japanese investors were looking forward to investing in this country. Minister Amunugama also informed the officials to provide the necessary facilities to start their projects as soon as they arrive in Sri Lanka.
+
+The Minister conducted his routine progress review meeting held at Bingiriya Export Processing Zone recently, Ministry of Investment Promotion Secretary M. M. Naimudeen, Sri Lanka Board of Investment Director-General Renuka Weerakoon, Divisional Secretary, officials representing institutions such as highways, electricity, water supply participated in this meeting.
+
+...
+
+[Data](articles/1ed856e9.json)
+
+---
+
+### Dialog Axiata unveils smart home devices powered by Dialog Smart Home App
+
+*2024-02-15 01:45:13* · [`dailyftlk`](https://www.ft.lk/business/Dialog-Axiata-unveils-smart-home-devices-powered-by-Dialog-Smart-Home-App/34-758497) · `en`
+
+Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, unveiled a holistic Smart Home App, revolutionizing smart living and empowering users to effortlessly control their entire suite of Dialog Smart Home devices with a single platform, regardless of their location.
+
+The Dialog Smart Home App serves as a centralised platform, allowing users to effortlessly manage and monitor a range of smart devices from the categories of Surveillance, Automation, and Connectivity. With a diverse array of products, including the Smart Indoor Cameras, Smart Outdoor Cameras, Wi-Fi Mesh (featuring WiFi 6 connectivity for an enhanced experience), Smart Wall Plugs, Smart Wall Sockets, Smart Switches, Smart Extension Cords, and Tedi Alexa, the app creates a truly interconnected home ecosystem.
+
+...
+
+[Data](articles/54802884.json)
+
+---
 
 ### If the plantation people are strengthened as small tea plantation owners, Samurdhi Aswesuma will not be required - Sajith Premadasa
 
@@ -2013,65 +2057,5 @@ The residence of them was purchased by US $ 2.1 million in 2020.
 [Data](articles/24096195.json)
 
 [Extended Data](ext_articles/24096195.ext.json)
-
----
-
-### Sri Lankan officials in India to explore collaboration
-
-*2024-02-14 15:51:00* · [`economynextcom`](https://economynext.com/sri-lankan-officials-in-india-to-explore-collaboration-150838/) · `en`
-
-ECONOMYNEXT – A delegation of 14 senior Sri Lankan officials, led by Prime Minister’s Secretary Anura Dissanayake, are in India for discussions with Indian institutions.
-
-The delegation will meet key Indian officials, including the Minister of Foreign Affairs, Minister of State for Personnel, and the Principal Secretary to the Prime Minister, to explore avenues for further collaboration, a statement by the president’s media division said.
-
-“The delegation aims to gain insights into India’s recent initiatives for transforming its public service qualitatively and implementing policy improvements successfully,” the statement read.
-
-“Additionally, they seek to prioritize capacity development in Sri Lankan government institutions contributing to the nation’s economic growth.”
-
-...
-
-[Data](articles/baac7a9a.json)
-
-[Extended Data](ext_articles/baac7a9a.ext.json)
-
----
-
-### Hospital services in dire straits as strike continues
-
-*2024-02-14 15:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hospital-services-in-dire-straits-as-strike-continues/108-277007) · `en`
-
-Colombo, Feb 14 (Daily Mirror) -  The healthcare services across the country have been paralyzed, inconveniencing patients as trade unions within the health sector have decided to continue the island-wide strike.
-
-Furthermore, long queues can be seen at nationwide pharmacies owned by the State Pharmaceuticals Corporation since this morning as medications are not being dispensed from the medicine counters at government hospitals.
-
-The strike, which commenced from 6.30 a.m. yesterday (13) was launched following unsuccessful discussions with officials from the Finance Ministry.
-
-The focal point of the strike action is the prolonged and contentious disagreement surrounding the Disturbance, Availability and Transport (DAT) allowance, according to the President of the Federation of Health Professionals Ravi Kumudesh.
-
-The health workers have so far resorted to three trade union actions this year over the failure to provide an allowance similar to the DAT allowance granted to the doctors.
-
-...
-
-[Data](articles/6a653971.json)
-
-[Extended Data](ext_articles/6a653971.ext.json)
-
----
-
-### Explanation for six students
-
-*2024-02-14 15:44:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆறு-மாணவர்களுக்கு-விளக்கமறியல்/76-333202) · `ta`
-
-Balangoda Magistrate Heshani Rottarako has ordered that six other senior students arrested on Wednesday (14) arrested in connection with the attack on a second year student of the Sabaragamuwa University and the Faculty of Agriculture on Thursday (15).
-
-The attack was carried out at a restaurant on the 9th and a student and two students were injured and admitted to the hospital, Samanalawewa police said.
-
-The Balangoda Magistrate has ordered the seven senior students who have already been arrested in connection with the same incident and have been produced before the Balangoda court on Wednesday (14) and ordered them to be remanded till Thursday (15).
-
-◼️
-
-[Data](articles/6074b76f.json)
-
-[Extended Data](ext_articles/6074b76f.ext.json)
 
 ---

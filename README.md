@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 01:50:14**
+As of **2024-02-15 02:02:33**
 
 ## Newspaper Stats
 
-*Scraped **7,082** Articles*
+*Scraped **7,084** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 382
 adalk | 603
 tamilmirrorlk | 860
 adaderanalk | 868
-virakesarilk | 909
+virakesarilk | 911
 adaderanasinhalalk | 998
 dailymirrorlk | 1,041
 
@@ -26,11 +26,25 @@ dailymirrorlk | 1,041
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,081 (100.0%) of 7,082 articles have been extended.
+7,082 (100.0%) of 7,084 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### பெருந்தோட்ட மக்களை சிறு தேயிலைத் தோட்ட உரிமையாளர்களாக பலப்படுத்தினால் சமுர்த்தி அஸ்வெசும போன்ற திட்டங்கள் தேவைப்படாது - சஜித் பிரேமதாச
+
+*2024-02-15 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/176407) · `ta`
+
+தோட்டங்களில் வேலை செய்பவர்களைச் சிறு தோட்ட உரிமையாளர்களாக்கி, பயிரிடப்படாத அரச தரிசு நிலங்களை அந்தந்த பகுதிகளுக்கு ஏற்ப சிறு தேயிலை தோட்டங்களாக மாற்றி, இன்றைய தொழிலாளியை நாளைய தொழில் முனைவோராக்கும் செயல்திட்டம் நிச்சயம் முன்னெடுக்கப்படும். இது தொழிலை விட வாழ்வாதாரம் என்றும் இந்த நிலத்தில் தேயிலைத் தோட்டம் அமைந்து இருப்பது போலவே வீட்டை நிர்மாணித்துச் சிறந்த வருமானத்தை ஈட்டிக்கொள்ளலாம் என்றும் எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+நாட்டின் தேயிலை உற்பத்தியில் 70 வீதமானது சுமார் 40 வீதமான காணிகளை வைத்திருக்கும் சிறு தேயிலைத் தோட்ட உரிமையாளர்களால் வழங்கப்படுவதாகக் கூறப்படுகிறது. 60 சதவீதத்திற்கும் அதிகமான நில உடைமை கொண்ட பெரிய அளவிலான தேயிலை தொழிற்சாலைகள் தேயிலை உற்பத்திக்கு 30 சதவீத பங்களிப்பையே வழங்குகின்றன. சிறிய தேயிலைத் தோட்டங்களை ஊக்குவிப்பது என்பது தேயிலை உற்பத்தியை அதிகரிப்பதாகும் எனவும், அதன் பின்னர் சமுர்த்தி மற்றும் அஸ்வெசும போன்ற திட்டங்களுக்குத் தேவைப்பாடு ஏற்படாது என்றும் எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/bef5b471.json)
+
+---
 
 ### Postponing polls would further jeopardise democracy - Bakeer Markar
 
@@ -89,6 +103,28 @@ With 19 years at Sri Lanka’s National Aquatic Resources Agency, he rose to Dir
 [Data](articles/43220d51.json)
 
 [Extended Data](ext_articles/43220d51.ext.json)
+
+---
+
+### BIMSTEC நீர்நிலை விளையாட்டுப் போட்டியில் இலங்கை 3ஆம் இடம்
+
+*2024-02-15 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176406) · `ta`
+
+புதுடில்லி, டொக்டர் சியாமா பிரசாத் முக்கேர்ஜி நீச்சல் தடாக விளையாட்டுத் தொகுதியில் அண்மையில் நடைபெற்ற அங்குரார்ப்பண பிம்ஸ்டெக் (BIMSTEC) நீர்நிலை விளையாட்டுப் போட்டியில் இலங்கை 3ஆம் இடத்தைப் பெற்றது.
+
+நீச்சல், டைவிங், வோட்டர் போலோ ஆகிய 3 வகையான நீர்நிலை  விளையாட்டுப்  போட்டிகள் நடைபெற்றதுடன் இலங்கையிலிருந்து 75 போட்டியாளர்கள் பங்குபற்றினர்.
+
+அப் போட்டிகளில் ஒரு வெள்ளிப் பதக்கத்தையும் 13 வெண்கலப் பதக்கங்களையும் வென்றெடுத்த இலங்கை பதக்கங்கள் நிலையில் 3ஆம் இடத்தைப் பெற்றது. நீச்சல் போட்டிகளில் 9 பதக்கங்களும் டைவிங் மற்றும் வோட்டர் போலோவில் தலா 2 பதக்களும் இலங்கைக்கு கிடைத்தன.
+
+இந்தியா 19 தங்கப் பதக்கங்களுடன் ஒட்டுமொத்த சம்பியனானதுடன் தாய்லாந்து 2ஆம் இடத்தைப் பெற்றது.
+
+இப் போட்டியில் பங்குபற்றிய 75 இலங்கையர்களில் பிஷப் கல்லூரியைச் சேர்ந்த கித்மி மாரம்பே மாத்திரமே வெள்ளிப் பதக்கத்தை வென்று பலத்த பாராட்டைப் பெற்றார்.
+
+பெண்களுக்கான 1 மீற்றர் ஸ்ப்ரிங் போர்ட் டைவிங் போட்டியில் 215.15 புள்ளிகளைப் பெற்று கித்மி 2ஆம் இடத்தைப் பெற்றார்.
+
+...
+
+[Data](articles/5feaa84e.json)
 
 ---
 
@@ -205,6 +241,8 @@ The UNP-led old order fell in 1956 because Sir John Kotelawala was socio-cultura
 ...
 
 [Data](articles/965d7213.json)
+
+[Extended Data](ext_articles/965d7213.ext.json)
 
 ---
 
@@ -2027,51 +2065,5 @@ The Balangoda Magistrate has ordered the seven senior students who have already 
 [Data](articles/6074b76f.json)
 
 [Extended Data](ext_articles/6074b76f.ext.json)
-
----
-
-### The right to reject the invitation
-
-*2024-02-14 15:41:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அழைப்பை-நிராகரிக்க-உரிமை/50-333200) · `ta`
-
-The Australian Parliament contains both the Senate and the House of Representatives. The Senate Council has enacted the "Right to Disconnect" Right to Disconnect for the benefit of the employees of the country.
-
-According to the law, companies that hire employees are prohibited from contacting the employees who have completed their work hours, the corporate officials, the news, the email and the phone or any other way.
-
-Similarly, it is their right to have employees to turn off their phones once the work is over.
-
-In addition, in many sectors, including software and communication, employees are forced to take their email from time to time and make decisions on business.
-
-If employees feel that they are unnecessarily called. If there is no solution, you can appeal to the Employees Welfare Commission.
-
-It has been announced that corporations calling employees will be fined.
-
-◼️
-
-[Data](articles/f830e3be.json)
-
-[Extended Data](ext_articles/f830e3be.ext.json)
-
----
-
-### The importance of the national anthem, the importance of the national flag is necessary for everyone to be mentally and physically - Minister Douglas Devananda
-
-*2024-02-14 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176373) · `ta`
-
-Minister Douglas Devananda said that when the national anthem is sung, students need to pay more attention and respect for it.
-
-He was speaking as the Chief Guest at the National Festival of the National Festival of Disposal and School Uniforms for the St. of St. Thrisa Women, Y / Achchuveli on Wednesday (14).
-
-In general, I am completely different from the attitude of politicians who attend public events.
-
-At the same time, academic authorities are providing a large number of promotions to improve and protect the educational activities of our Northern Province.
-
-However, I know that these efforts of the elite are not fully cooperated. This position has to go away. I am also ready to take note of the matter and give my full cooperation to further strengthen the quality of education in the North.
-
-...
-
-[Data](articles/dbb5f922.json)
-
-[Extended Data](ext_articles/dbb5f922.ext.json)
 
 ---

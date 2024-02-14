@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 19:02:29**
+As of **2024-02-14 19:17:14**
 
 ## Newspaper Stats
 
-*Scraped **7,018** Articles*
+*Scraped **7,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,56 @@ adalk | 598
 tamilmirrorlk | 854
 adaderanalk | 861
 virakesarilk | 897
-adaderanasinhalalk | 986
+adaderanasinhalalk | 987
 dailymirrorlk | 1,028
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,017 (100.0%) of 7,018 articles have been extended.
+7,018 (100.0%) of 7,019 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### யாழ்ப்பாணம் A9 வீதியில் மோட்டார் சைக்கிள் -  அரச பேருந்து விபத்து
+### ආදරවන්තයින්ගේ දවසේ බලන්නම ඕන කතාවක්
+
+*2024-02-14 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193381) · `si`
+
+ආදරවන්තයින්ගේ දවසේ මේ අමුතුම කතාව ඇහෙන්නේ ආදර කතාවල කෙන්බිමක් වූ සුන්දර හන්තාන අරණේ පේරාදෙණිය සරසවියෙනි.
+
+රෝස මලකට, සුබපැතුමකට සීමා නොවී ජීවිතයේ යථාර්ථය හැඳිනගත් මේ පෙම්වතුන් සරසවියේ තෙවැනි වසරේ විද්‍යාර්ථයින්.
+
+පෙම්වතුන් සුන්දර ස්ථාන සොයා යද්දී නුවන් සහ උදයංගනී සොයා යන්නේ ජීවිතය ජයගන්නට පුළුවන් ආකාරයකි.
+
+පේරාදෙණිය ගලහ මාර්ගයේ පුංචි ඉඩක ඉදිකරගත් කුඩා මඩුවක පුංචියට ආරම්භ කළ ආහාර අලෙවිසැලෙන් ඔවුන් තම අධ්‍යාපනයට මුදල් හොයාගත්තා වගේම තම පවුල්වලටත් සවියක් විය.
+
+දෙදෙනාගේ මේ දිරිය කතාව සරසවියේ පාලක මණ්ඩලයටත් කනවැකීමත් සමග මේ උත්සාහවන්තයින් දෙපළට සරසවිය තුළ ආපන ශාලාවක් පවත්වාගෙන යන්න ඉඩ ලැබීම විශේෂත්වයකි.
+
+පේරාදෙණිය සරසවියේ වගේම රටේම ආදර කතා අතරේ මේ වෙනස්ම ආදර කතාවේ පෙම්වතුන් තරුණ තරුණියන්ට දුන් උපදෙස ඉහතින්.
+
+◼️
+
+[Data](articles/2216aac4.json)
+
+---
+
+### Motorcycle - State Bus Accident on A9 Road, Jaffna
 
 *2024-02-14 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176393) · `ta`
 
-யாழ்ப்பாணம் - தென்மராட்சி -  A 9 வீதி, நாவற்குழி பகுதியில் இந்தச் சம்பவம் புதன்கிழமை (14) பிற்பகல் 4.15 மணியளவில் இடம்பெற்றது.
+The incident took place at around 4.15 pm on Wednesday (14) at Navatkuli area, Jaffna - Thenmarachchi - A 9 Road.
 
-A9 வீதியில் பயணித்த மோட்டார் சைக்கிள் ஒன்று வீதியில் திரும்ப முற்பட்டபோது பின்னால் பயணித்த அரச பேருந்து அதனை முட்டி தள்ளியதோடு பாதையை விட்டு விலகி காணிக்குள் புகுந்துள்ளது.
+When a motorcycle traveling on the A9 road tried to return to the road, the state bus that was traveling behind it was pushed into the land.
 
-இதன் போது மோட்டார் சைக்கிளுக்கு சேதங்கள் ஏற்பட்டிருந்த போதிலும் அதில் பயணித்த இருவருக்கும் காயங்கள்  ஏற்படவில்லை.
+Despite the damage to the motorcycle, the two passengers were not injured.
 
 ◼️
 
 [Data](articles/ee5b109e.json)
+
+[Extended Data](ext_articles/ee5b109e.ext.json)
 
 ---
 
@@ -2015,27 +2039,5 @@ At the same time, many patients still returned and many people were facing diffi
 [Data](articles/7aac9595.json)
 
 [Extended Data](ext_articles/7aac9595.ext.json)
-
----
-
-### The doctor who smuggled drugs
-
-*2024-02-14 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193359) · `si`
-
-Police have arrested a doctor for a suspect's petroleum drug pharmaceutical petals in several other brokers.
-
-The police say that the doctor was arrested while giving a large quantity of drugs.
-
-The doctor, a resident of Gelioya, has also held the hospital medical care in several areas in several areas.
-
-The doctor has been selling the drug in the car and selling the drugs to the racket of drugs.
-
-The doctor and the car are to be produced before the Gampola Magistrate this morning.
-
-◼️
-
-[Data](articles/26728eb9.json)
-
-[Extended Data](ext_articles/26728eb9.ext.json)
 
 ---

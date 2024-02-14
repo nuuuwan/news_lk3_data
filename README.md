@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 13:33:15**
+As of **2024-02-14 13:51:44**
 
 ## Newspaper Stats
 
-*Scraped **6,923** Articles*
+*Scraped **6,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ newsfirstlk | 363
 islandlk | 365
 dailyftlk | 376
 adalk | 590
-tamilmirrorlk | 844
+tamilmirrorlk | 849
 adaderanalk | 849
 virakesarilk | 875
-adaderanasinhalalk | 969
+adaderanasinhalalk | 970
 dailymirrorlk | 1,017
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,923 (100.0%) of 6,923 articles have been extended.
+6,929 (100.0%) of 6,929 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### Casual Wife of Heroin dealers arrested
+
+*2024-02-14 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193363) · `si`
+
+The Special Task Force has arrested a woman in possession of heroin while she had closely connected to Shiran Basic, known as a large scale heroin dealer.
+
+The police say she has identified that person as the mistress.
+
+The woman was arrested in Polgasuowita area in the Kesbewa Police Division and had been arrested and 48 milligrams of heroin were found.
+
+◼️
+
+[Data](articles/b8f541d3.json)
+
+[Extended Data](ext_articles/b8f541d3.ext.json)
+
+---
+
+### Introduction of Intelligence Course with Microsoft Support
+
+*2024-02-14 12:53:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைக்ரோசாப்ட்-ஆதரவுடன்-நுண்ணறிவு-பாடநெறிகளை-அறிமுகம்/175-333187) · `ta`
+
+With the support of Microsoft, the Cabinet has approved the introduction of artificial intelligence courses in Sri Lanka's educational system.
+
+The international curriculum, which is currently being implemented by Microsoft, will be amended on the recommendations of the National Education Institute and the pioneering program proposed from the eighth grade in the basic human resources schools will be launched.
+
+It is noteworthy that the government is planning to train 100 teachers through Microsoft as coaches through Microsoft's facilities.
+
+◼️
+
+[Data](articles/cb11f652.json)
+
+[Extended Data](ext_articles/cb11f652.ext.json)
+
+---
+
+### Former President of STF joined the IMC
+
+*2024-02-14 12:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/STF-இன்-முன்னாள்-தலைவர்-ஐ-ம-ச-வில்இணைந்தார்/175-333186) · `ta`
+
+Nimal Levke, former president of the STF, has joined the United People's Power, the party office said.
+
+◼️
+
+[Data](articles/50c0e825.json)
+
+[Extended Data](ext_articles/50c0e825.ext.json)
+
+---
 
 ### South Korea says North Korea has fired cruise missiles
 
@@ -122,6 +172,20 @@ Premajayantha revealed that the evaluation of the answer scripts of 2023 G.C.E. 
 
 ---
 
+### 54 principals cannot be incorporated
+
+*2024-02-14 11:55:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/54-அதிபர்களை-இணைத்துக்-கொள்ள-முடியாது/175-333184) · `ta`
+
+Education Minister Dr. Susil Prema Jayantha said that due to the lack of accreditation of the Public Service Commission, 54 principals were not enrolled in national schools.
+
+◼️
+
+[Data](articles/c22f3984.json)
+
+[Extended Data](ext_articles/c22f3984.ext.json)
+
+---
+
 ### Russia warns Western countries
 
 *2024-02-14 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193361) · `si`
@@ -179,6 +243,24 @@ The victim has arrived at the respective night and his body was found in a later
 [Data](articles/a1e009a5.json)
 
 [Extended Data](ext_articles/a1e009a5.ext.json)
+
+---
+
+### Cabinet Authorization to provide land rights
+
+*2024-02-14 11:48:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணி-உரிமைகளை-வழங்க-அமைச்சரவை-அங்கீகாரம்/175-333183) · `ta`
+
+The Cabinet has approved the provision of land rights under the Mahaweli Land Scheme.
+
+Accordingly, the Urumaya Urumaya Urumaya Scheme, which provides full rights to state lands for those receiving land permits and allowances, will be used by the Sri Lanka Mahaweli Authority.
+
+Accordingly, according to the program implemented by the Ministry of Tourism and Land, it has been approved to implement a traditional program for Mahaweli Lands.
+
+◼️
+
+[Data](articles/a2f18b76.json)
+
+[Extended Data](ext_articles/a2f18b76.ext.json)
 
 ---
 
@@ -349,6 +431,24 @@ Minister of Education Susil Premajayantha said that the first installment of 202
 [Data](articles/4bad942a.json)
 
 [Extended Data](ext_articles/4bad942a.ext.json)
+
+---
+
+### O/L, A/L Examinations
+
+*2024-02-14 11:07:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-A-L-பரீட்சைகள்-குறித்து-வெளியான-அறிவிப்பு/175-333182) · `ta`
+
+The Education Public Level Examination for 2023 is scheduled to be held in May and June.
+
+Meanwhile, it has been decided to hold the highest level of education for the year 2023 in December.
+
+Minister of Education Susil Premajayantha said that the first installment of 2025 is scheduled to commence on January 2.R
+
+◼️
+
+[Data](articles/c0e38a32.json)
+
+[Extended Data](ext_articles/c0e38a32.ext.json)
 
 ---
 
@@ -1907,117 +2007,5 @@ The consignees of this shipment were identified as apparel companies located in 
 [Data](articles/5510c4c7.json)
 
 [Extended Data](ext_articles/5510c4c7.ext.json)
-
----
-
-### Customs impound illegally imported readymade garments worth Rs. 150mn
-
-*2024-02-13 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97245/customs-impound-illegally-imported-readymade-garments-worth-rs-150mn) · `en`
-
-Sri Lanka Customs on Tuesday (Feb.13) foiled an attempt to smuggle in 4 container loads of readymade garments worth approximately Rs. 150 million.
-
-The shipment, falsely declared as fabric, had been sent from Malaysia. Around 44,000 readymade garments were recovered from each container.
-
-Had the containers been cleared undetected, the government would have incurred a loss to the tune of Rs. 60 million in tax revenues, Customs officials revealed.
-
-The consignees of this shipment were identified as apparel companies located in Wattala, Colombo and Panadura.
-
-Additionally, two other illegally imported containers carrying 12,688kg of black grams worth Rs. 8.8 million were also impounded by the Customs officials. These shipments had been brought into the island by falsely declaring them as rice.
-
-Customs said the government would have lost tax revenues of Rs. 3.8 million had these containers been given clearance.
-
-...
-
-[Data](articles/8aa5b265.json)
-
-[Extended Data](ext_articles/8aa5b265.ext.json)
-
----
-
-### AIA Insurance advances expansion with new Regional Development Office in Matara
-
-*2024-02-13 22:32:00* · [`islandlk`](http://island.lk/aia-insurance-advances-expansion-with-new-regional-development-office-in-matara/) · `en`
-
-AIA Insurance continues its strategic expansion efforts with the opening of a new AIA RDO in Matara. Situated at No. 537, Galle Road, Walgama, Matara, this new office represents a significant milestone in AIA’s commitment to enhancing its distribution network and customer outreach.
-
-The opening ceremony marked the beginning of a new chapter for AIA in the Matara City, reinforcing the company’s dedication to providing comprehensive financial solutions to individuals and families. The AIA RDO in Matara is staffed with a team of experienced insurance professionals poised to deliver a diverse array of services, including life insurance, health insurance, retirement plans, and investment solutions.
-
-...
-
-[Data](articles/2c3043cc.json)
-
-[Extended Data](ext_articles/2c3043cc.ext.json)
-
----
-
-### Todumbu Civil Police
-
-*2024-02-13 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193346) · `si`
-
-Four LTTE cadres have arrived in civilian dress on a tip off received by drugs and two youths were assaulted by the officials.
-
-The officials were also retaliated and then unrest with the residents of the area.
-
-However, residents accused nearly 40 civilian police officers and damaged them from motorbikes and three-wheelers in three-wheelers.
-
-◼️
-
-[Data](articles/cc4b87e4.json)
-
-[Extended Data](ext_articles/cc4b87e4.ext.json)
-
----
-
-### Bourse facing a degree of turbulence triggered by political uncertainty
-
-*2024-02-13 22:28:00* · [`islandlk`](http://island.lk/bourse-facing-a-degree-of-turbulence-triggered-by-political-uncertainty/) · `en`
-
-The stock market is currently experiencing a degree of turbulence due to political uncertainty stemming from public perceptions that elections will not be held as scheduled. Consequently, investors are a bit worried about investing in the stock market, market analysts explained.
-
-Amid those developments both indices moved downwards. The All Share Price Index went down by 26.74 points and S and P SL20 declined by 7.39 points. Turnover stood at Rs 711 million with one crossing. The crossing was reported in JKH, which crossed 500,000 shares to the tune of Rs 94.1 million; its shares traded at Rs 181.25.
-
-...
-
-[Data](articles/54c74ccf.json)
-
-[Extended Data](ext_articles/54c74ccf.ext.json)
-
----
-
-### Kuliyapitiya Police OIC granted bail over sexual assault case
-
-*2024-02-13 22:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kuliyapitiya-Police-OIC-granted-bail-over-sexual-assault-case/108-276949) · `en`
-
-Puttalam, Feb 13 (Daily Mirror) - The Officer-in-Charge (OIC) of the Kuliyapitiya Police Station surrendered to the Puttalam Magistrate's Court today in connection with allegations of sexually assaulting a female police constable.
-
-Police said the Kuliyapitiya Division Senior Superintendent of Police launched an investigation after the alleged incident and subsequently reported the matter to the court.
-
-The OIC, an inspector, represented by a lawyer, appeared before the Magistrate this afternoon.
-
-The Magistrate granted the inspector bail on a bond of Rs. 500,000, and ordered him to report to the Kuliyapitiya SSP's office on the last Sunday of every month until the case's next hearing on March 6.
-
-Police said that apart from legal proceedings, the inspector will also face disciplinary action within the department.
-
-◼️
-
-[Data](articles/170a6e47.json)
-
-[Extended Data](ext_articles/170a6e47.ext.json)
-
----
-
-### The accused oic accused
-
-*2024-02-13 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193345) · `si`
-
-The OIC of the Kalpitiya Police has been presented to the court.
-
-The officer has been bailed and the case will be taken up again on March 6.
-
-◼️
-
-[Data](articles/5f20ab40.json)
-
-[Extended Data](ext_articles/5f20ab40.ext.json)
 
 ---

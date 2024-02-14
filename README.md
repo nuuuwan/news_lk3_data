@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 22:17:35**
+As of **2024-02-14 22:33:01**
 
 ## Newspaper Stats
 
-*Scraped **7,057** Articles*
+*Scraped **7,060** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 94
 dbsjeyarajcom | 149
 newsfirstlk | 363
 islandlk | 365
-economynextcom | 369
+economynextcom | 370
 dailyftlk | 376
 adalk | 603
 tamilmirrorlk | 858
 adaderanalk | 867
-virakesarilk | 902
+virakesarilk | 904
 adaderanasinhalalk | 996
 dailymirrorlk | 1,035
 
@@ -26,25 +26,69 @@ dailymirrorlk | 1,035
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,055 (100.0%) of 7,057 articles have been extended.
+7,057 (100.0%) of 7,060 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### සංචාරක පැමිණීමේ වර්ධනයක්
+### Increase in tourist arrivals
 
 *2024-02-14 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193390) · `si`
 
-මේ අතර, 2024 වසරේ ජෙනවාරි පළමු වැනි දා සිට අද දිනය දක්වා මෙරටට පැමිණි සංචාරකයන් ගණන ලක්ෂ 03 ඉක්මවා ඇතැයි අද ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් ශ්‍රී ලංකා සංචාරක ප්‍රවර්ධන කාර්යාංශය අනාවරණ කළේය.
+Meanwhile, the Sri Lanka Tourism Promotion Bureau has held a news conference today, a number of tourist arrivals from the 1st of the year 2024 to this day.
 
-පෙබරවාරි 13 වැනි දා වන විට පෙබරවාරි මාසයේ පළමු දින 13 තුළ දිවයිනට පැමිණි සංචාරකයන් සංඛ්‍යාව 98,455ක් ලෙස වාර්තා වේ.
+The number of tourists arrived in the island in the first 13 days of February, 98,455.
 
-ජනවාරි මාසයේ ද පැමිණි 2,08,253ක සංවාරක සංඛ්‍යාව සැලකූ විට වසරේ මේ දක්වා සංචාරකයන් 3,06,708ක් ශ්‍රී ලංකාවට පැමිණ තිබේ.
+At the time of January, 3,08,708 tourists visited Sri Lanka to date.
 
 ◼️
 
 [Data](articles/18e90d21.json)
+
+[Extended Data](ext_articles/18e90d21.ext.json)
+
+---
+
+### Sri Lanka can boost passport strength, draw investors: consultancy
+
+*2024-02-14 21:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-can-boost-passport-strength-draw-investors-consultancy-150885/) · `en`
+
+ECONOMYNEXT – Arton Capital, a Canadian-based financial consultancy that offers advice and services to improve mobility and draw foreign investors says Sri Lanka can boost the strength of its passport, and also draw investors through residency programs.
+
+Sri Lanka ranks 84 on the Arton Capital Global Passport Power Ranking, along with Nigeria, Ethiopia and Iran. Sri Lanka requires visas for 143 countries, compared to 34 for Singapore and 19 for Dubai.
+
+Sri Lanka is 10 ranks above Syria, which is at the bottom at 94.
+
+“Sri Lanka is not visa free to Europe, to the UK, to Canada and the US,” Armand Arton, Founder and Chief Executive of Arton Capital, told Economy Next.
+
+“It doesn’t rank in the top tier of passports. However, that could increase the power of the passport.
+
+“This is something that we assist many countries with, to achieve our shared goal.”
+
+...
+
+[Data](articles/5d91e423.json)
+
+---
+
+### ஒவ்வொரு கிராமத்தையும் மேம்படுத்த வேண்டும் என்பதே அரசின் கொள்கை - அமைச்சர் பிரசன்ன ரணதுங்க
+
+*2024-02-14 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176400) · `ta`
+
+குளிரூட்டப்பட்ட அறைகளிலிருந்து கொண்டு அபிவிருத்தி திட்டங்களை முன்னெடுக்கும் கொள்கையிலிருந்து தற்போதைய அரசாங்கம் இல்லை என நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்தார்.
+
+மக்களின் கருத்துக்களை உள்வாங்கி மக்களின் தேவைகளைக் கருத்திற் கொண்டே அபிவிருத்தி திட்டங்கள் முன்னெடுக்கப்படுவதாக அவர் வலியுறுத்தியுள்ளார்.
+
+அதற்கேற்ப ஒவ்வொரு கிராமத்தையும் அபிவிருத்தி செய்வதே அரசாங்கத்தின் கொள்கை எனவும் அமைச்சர் குறிப்பிட்டார்.
+
+கேகாலை மாவட்ட ஒருங்கிணைப்புக் குழுக் கூட்டத்தில் இன்று (14) இடம்பெற்ற “மலை நாட்டு எழுச்சி தசாப்தம்” அபிவிருத்தி வேலைத்திட்டம் தொடர்பில் அதிகாரிகளுக்கு அறிவிக்கும் நிகழ்வில் கலந்து கொண்டு அமைச்சர் பிரசன்ன ரணதுங்க இதனைத் தெரிவித்தார். கேகாலை மாவட்ட செயலகத்தில் நடைபெற்றது.
+
+கேகாலை மாவட்ட ஒருங்கிணைப்புக் குழு அதன் தலைவர் நாடாளுமன்ற உறுப்பினர் ராஜிகா விக்கிரமசிங்க மற்றும் சப்ரகமுவ மாகாண ஆளுநர் நவீன் திசாநாயக்க தலைமையில் நடைபெற்றது.
+
+...
+
+[Data](articles/3e196d23.json)
 
 ---
 
@@ -70,29 +114,31 @@ Indian Institutes of Technology. The other two universities will open their two 
 
 ---
 
-### ශ්‍රී ලංකාවට කඩුලු 07ක ජයක්
+### Sri Lanka beat Sri Lanka by 07 wickets
 
 *2024-02-14 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193389) · `si`
 
-ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර තෙවැනි සහ අවසන් එක්දින තරගයෙන් කඩුලු 07ක විශිෂ්ට ජයක් වාර්තා කිරීමට ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
+Sri Lanka wins 07 wickets from the third and final ODI between Sri Lanka and Afghanistan.
 
-කාසියේ වාසිය දිනූ ඇෆ්ගනිස්තාන නායක හෂ්මතුල්ලා ශහීඩි පළමුවෙන් පන්දුවට පහර දීමට තීරණය කළේ ය.
+Afghanistan captain Hashmatulla, who won the toss and elected to bat Shahi Shahi first.
 
-ඒ අනුව ඔවුන් ඇෆ්ගනිස්තානය වෙනුවෙන් සියලු ක්‍රීඩකයන් දැවී ලකුණු 266ක ලකුණු පුවරුවක් නිර්මාණය කිරීමට සමත් විය.
+Accordingly, they were able to create 266 runs for the loss of all the players for Afghanistan.
 
-පිළිතුරු ඉනිම සඳහා පිටියට පිවිසි ශ්‍රී ලංකා කණ්ඩායම නියමිත ඉලක්කය කඩුලු 03ක් පමණක් දැවී සම්පූර්ණ කළේ ය.
+The Sri Lankan team who reached the field for reply to the target of the end of the target.
 
-පැතුම් නිස්සංක සහ අවිෂ්ක ප්‍රනාන්දු විශිෂ්ට ආරම්භයක් ලබා ගත් අතර, අවිෂ්ක ප්‍රනාන්දු ලකුණු 91කට අවාසනාවන්ත ලෙස දැවී ගියේ ය.
+Wiming Nissankanka and Tischka Fernando won a great start and was unfortunately for 91 runs.
 
-පැතුම් නිස්සංක ශතකයක් සමඟ ලකුණු 118ක් වාර්තා කළ අතර, එය හතරේ පහර 16කින් සහ හයේ පහර 02කින් අලංකාර විය.
+The wishes reported 118 runs with a century, was elevented by 16 fours and two sixes.
 
-කුසල් මෙන්ඩිස් හයේ පහර 04ක් සමඟ වේගවත් ලකුණු 40ක් රැස් කළේ ය.
+Kusal Mendis scored 40 runs with four sixes.
 
-ඒ අනුව තරග තුනකින් සමන්විත එක්දින තරගාවලිය 03ට 0ක් ලෙස පූර්ණ තරගාවලි ජයක් වාර්තා කිරීමට ශ්‍රී ලංකාව සමත් විය.
+Sri Lanka won the one-day tournament with three and 0 matches.
 
 ◼️
 
 [Data](articles/60a3ab4e.json)
+
+[Extended Data](ext_articles/60a3ab4e.ext.json)
 
 ---
 
@@ -1382,6 +1428,28 @@ In addition, photovoltaic modules and accessories, power conditioners and access
 
 ---
 
+### ஜே.வி.பி.முன்னிலையில் உள்ளதை ஏற்றுக்கொள்ள வேண்டும் - உதய கம்மன்பில
+
+*2024-02-14 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176355) · `ta`
+
+மக்கள் விடுதலை முன்னணி கடந்த காலங்களை காட்டிலும் தற்போது முன்னிலையில் உள்ளது என்பதை ஏற்றுக்கொள்ள வேண்டும்.
+
+இந்த முன்னேற்றத்தை ஏற்க முடியாத மனநிலையில் ஒருசில அரசியல் தரப்பினர் இல்லை என பிவிதுறு ஹெல உறுமய கட்சியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில குறிப்பிட்டார்.
+
+கொழும்பில் புதன்கிழமை (14) இடம்பெற்ற நிகழ்வில் கலந்துக் கொண்டதன் பின்னர் 'மக்கள் விடுதலை முன்னணியின் முன்னேற்றம்' தொடர்பில் ஊடகங்கள் எழுப்பிய கேள்விக்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+இந்த ஆண்டு ஜனாதிபதி தேர்தல் இடம்பெறவுள்ள நிலையில் ஒருசில கருத்துக்கணிப்புக்கள் ஊடாக மக்கள் விடுதலை முன்னணி கட்சி என்ற ரீதியில் முன்னிலையில் இருப்பதாக குறிப்பிடப்படுகிறது. எழுமாற்றாக எடுக்கப்படும் கருத்துக்கணிப்புக்களில் உண்மைத்தன்மை சந்தேகத்துக்குரியது.
+
+தற்போதைய நிலையில் மக்கள் விடுதலை முன்னணியினர் தற்போது முன்னிலையில் உள்ளார்கள் என்பதை ஏற்றுக்கொள்ள வேண்டும்.
+
+அரசியலில் வங்குரோத்து நிலையடைந்துள்ளவர்கள் இதனை ஏற்றுக்கொள்ள மறுக்கிறார்கள். ஆனால் நாங்கள் உண்மையை ஏற்றுக்கொள்வோம்.
+
+...
+
+[Data](articles/fdb9a2ad.json)
+
+---
+
 ### Removed Sri Lanka Medical Council member reappointed
 
 *2024-02-14 16:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Removed-Sri-Lanka-Medical-Council-member-reappointed/108-277008) · `en`
@@ -1995,69 +2063,5 @@ The committee members stressed the importance of this regulatory company to attr
 [Data](articles/8b0c5db9.json)
 
 [Extended Data](ext_articles/8b0c5db9.ext.json)
-
----
-
-### Sri Lanka to entertain fresh applicants for Aswesuma subsidy scheme from Jan 15
-
-*2024-02-14 13:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-entertain-fresh-applicants-for-aswesuma-subsidy-scheme-from-jan-15-150788/) · `en`
-
-ECONOMYNEXT – Sri Lanka will entertain new applications for the ‘Aswesuma’ income subsidy scheme from February 15, with payments due to begin from July 2024, State Minister Finance Shehan Semasinghe has said.
-
-The budget has allocated 205 billion rupees for welfare payments in 2024, Semasinghe was quoted in a government statement.
-
-“A discussion was held at the Ministry of Finance with provincial governors, chief secretaries and provincial ministry secretaries regarding getting the support of provincial council officials to make the second round of calling for “Aswesuma” applications a success”, State Minister of Finance Shehan Semasinghe said on X (Twitter).
-
-Sri Lanka’s subsidy scheme is supported by the World Bank and is included in the International Monetary Fund program with a minimum spend as a target.
-
-A large section of the population was thrown in poverty after the central bank printed money to target growth (potential output) and the rupee collapsed from 184 to 360 over two years.
-
-...
-
-[Data](articles/2a61724b.json)
-
-[Extended Data](ext_articles/2a61724b.ext.json)
-
----
-
-### Sri Lanka to entertain fresh applicants for Aswesuma subsidy scheme from Feb 15
-
-*2024-02-14 13:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-entertain-fresh-applicants-for-aswesuma-subsidy-scheme-from-feb-15-150788/) · `en`
-
-ECONOMYNEXT – Sri Lanka will entertain new applications for the ‘Aswesuma’ income subsidy scheme from February 15, with payments due to begin from July 2024, State Minister Finance Shehan Semasinghe has said.
-
-The budget has allocated 205 billion rupees for welfare payments in 2024, Semasinghe was quoted in a government statement.
-
-“A discussion was held at the Ministry of Finance with provincial governors, chief secretaries and provincial ministry secretaries regarding getting the support of provincial council officials to make the second round of calling for “Aswesuma” applications a success”, State Minister of Finance Shehan Semasinghe said on X (Twitter).
-
-Sri Lanka’s subsidy scheme is supported by the World Bank and is included in the International Monetary Fund program with a minimum spend as a target.
-
-A large section of the population was thrown in poverty after the central bank printed money to target growth (potential output) and the rupee collapsed from 184 to 360 over two years.
-
-...
-
-[Data](articles/cef4f8c5.json)
-
-[Extended Data](ext_articles/cef4f8c5.ext.json)
-
----
-
-### A pledge from the Bangladesh team away
-
-*2024-02-14 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193364) · `si`
-
-Shakib Al Hasan aliasan has not been named 3rd posting to the Bangladesh squad, who desighed with Sri Lanka.
-
-It was reported that he had not been named for the reserves due to an eye disability.
-
-Meanwhile, players who compete against Sri Lanka against Sri Lanka against Sri Lanka.
-
-Sri Lanka - Bangladeshi Twenty Twenty Tournament will be held on March 4, 6 and 9, and the ODI will commence on March 13.
-
-◼️
-
-[Data](articles/f3e1940a.json)
-
-[Extended Data](ext_articles/f3e1940a.ext.json)
 
 ---

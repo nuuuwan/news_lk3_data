@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 16:49:40**
+As of **2024-02-14 17:02:25**
 
 ## Newspaper Stats
 
-*Scraped **6,975** Articles*
+*Scraped **6,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 365
 dailyftlk | 376
 adalk | 594
 tamilmirrorlk | 852
-adaderanalk | 855
+adaderanalk | 858
 virakesarilk | 888
 adaderanasinhalalk | 980
 dailymirrorlk | 1,019
@@ -26,89 +26,163 @@ dailymirrorlk | 1,019
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,969 (99.9%) of 6,975 articles have been extended.
+6,975 (100.0%) of 6,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### ඇතුළු වීමේ ගාස්තු ලෙස ඩොලර් 10ක්
+### Mahindananda’s money laundering case: Date set to deliver verdict
+
+*2024-02-14 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97267/mahindanandas-money-laundering-case-date-set-to-deliver-verdict) · `en`
+
+The Colombo High Court has fixed a date to deliver the verdict of a money laundering case filed against former Minister and SLPP Parliamentarian Mahindananda Aluthgamage.
+
+Accordingly, when the case was taken up today (Feb. 14), Colombo High Court Judge Nawarathne Marasinghe ordered that the verdict will be issued on April 25, 2024.
+
+Mahindananda Aluthgamage has been charged with failure to declare the source of funds used to purchase a luxury house worth Rs. 27.4 million at Kynsey Road in Borella, during his tenure as a minister.
+
+The Attorney General had filed indictments against the ex-minister under the the Prevention of Money Laundering Act, in the year 2017.
+
+When the case was taken up today, Senior Deputy Solicitor General Shanil Kularatne who appeared on behalf of the Attorney General and Attorney-at-Law Kanchana Ratwatte who appeared on behalf of the defendant made oral submissions related to the case.
+
+The written submissions are expected to be handed over to the court in the future.
+
+◼️
+
+[Data](articles/6aa69f2a.json)
+
+---
+
+### Indian-origin family found dead inside their California Home
+
+*2024-02-14 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97266/indian-origin-family-found-dead-inside-their-california-home) · `en`
+
+An Indian-origin family from Kerala was found dead at their home in California, US, in an apparent case of murder-suicide. The family have been identified as Anand Sujith Henry, 42, his wife Alice Priyanka, 40, and their 4-year-old twin children Noah and Neithan.
+
+Cops found the bodies after one of the family’s relatives sought a welfare check as nobody in the house was attending the call.
+
+The Indian-American couple, Anand and Alice, were found dead with gunshot wounds inside a bathroom. The twin children were discovered dead in a bedroom, with the cause of their death still under investigation.
+
+“After arriving officers were met with no response, they searched the perimeter of the home and did not see any signs of forced entry into the house. Finding an unlocked window, officers entered the home and located four people dead; 1 adult male, 1 adult female, and two children,” police said.
+
+A 9mm pistol and a loaded magazine were recovered from the bathroom.
+
+...
+
+[Data](articles/490da335.json)
+
+---
+
+### Japan grants Rs. 2.8bn to install solar power generation systems at Sri Lankan hospitals
+
+*2024-02-14 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97265/japan-grants-rs-28bn-to-install-solar-power-generation-systems-at-sri-lankan-hospitals) · `en`
+
+The Government of Japan, on Wednesday (14 Feb.), provided a grant of JPY 1,230 million (approximately Rs. 2.8 billion) for a project aiming to use renewable energy to stabilize power supply at hospitals in Sri Lanka.
+
+Accordingly, the relevant grant assistance was provided by the Japanese Government to install rooftop photovoltaic solar power generation systems at selected hospitals in Sri Lanka.
+
+According to the Department of External Resources, rooftop photovoltaic solar power generation systems will be installed at the Sri Jayewardenepura General Hospital, Ratnapura Teaching Hospital, and the Kurunegala Teaching Hospital under this project.
+
+In addition, photovoltaic modules and accessories, power conditioners and accessories, power cables and terminals, fire detectors, other related renovations and related services will also be provided, the Department said in a statement.
+
+...
+
+[Data](articles/4051f6ec.json)
+
+---
+
+### $ 10 as entry charges
 
 *2024-02-14 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193374) · `si`
 
-ලොව වඩාත් සංචාරක ආකර්ශනයට ලක් වූ ප්‍රදේශයක් වන ඉන්දුනීසියාවේ බාලි දූපත් ප්‍රදේශය නැරඹීමට පැමිණෙන විදේශිකයන්ට අද (14) සිට ක්‍රියාත්මක වන පරිදි ඩොලර් 10ක ඇතුළු වීමේ බද්දක් පැනවීමට පියවර ගෙන තිබේ.
+Foreigners who visit the Bali Islands in Indonesia, a world tourist attraction, have been implemented from today (14).
 
-ප්‍රදේශයේ සංස්කෘතිය හා පරිසර පද්ධතිය ආරක්ෂා කිරීමේ අරමුණින් මෙම පියවර ගන්නා බව ඉන්දුනීසියානු බලධාරින් සඳහන් කර ඇත.
+The Indonesian authorities have stated that this will be taken to protect the culture and ecosystem in the area.
 
-පසුගිය වසරේ ජනවාරි සිට නොවැම්බර් දක්වා කාලය තුළ සංචාරකයන් මිලියන 4.8ක පිරිසක් බාලි දූපත් වෙත පැමිණ තිබිණි.
+The Bali Islands had reached the Bali Islands in January to November last year.
 
-කෙසේ වෙතත් ගත වූ කාලය තුළ විදේශීය සංචාරකයන්ගේ නොමනා හැසිරීම් සම්බන්ධයෙන් බාලි වැසියන්ගේ විරෝධය පළ වී ඇති අතර, ආගමික ස්ථානවලට අපහාස වන පරිදි කටයුතු කළ බවට රුසියානු ජාතිකයෙකු පිටුවහල් කිරීමට ද පියවර ගෙන තිබූ බව සඳහන් ය.
+However, the Bali residents have been opposed to the unwise behavior of foreign tourists during the course of the time, and a Russian had been deported to insult religious places.
 
-මාර්ග නීති කඩ වන ආකාරයේ සිදුවීම් රැසක් ද වාර්තා වීම හේතුවෙන් විදේශිකයන් සඳහා ප්‍රදේශය තුළ යතුරුපැදි භාවිතය තහනම් කිරීම සම්බන්ධයෙන් ද බලධාරින් සැලසුම් කර ඇති බව විදෙස් මාධ්‍යය වාර්තා කර තිබේ.
+According to foreign media, the authorities have planned to ban motorcycle use in the area for foreign rules.
 
 ◼️
 
 [Data](articles/1669bca1.json)
 
+[Extended Data](ext_articles/1669bca1.ext.json)
+
 ---
 
-### හදවත් කම්පා කරවූ ඛේදවාචකයක්
+### A tragedy that shocked hearts
 
 *2024-02-14 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193373) · `si`
 
-ඉන්දීය සම්බවයක් ඇති යුවළක් සහ ඇයගේ නිවුන් දරුවන්ගේ මළ සිරුරු ඇමෙරිකාවේ ඔවුන්ට අයත් නිවසේ තිබී සොයාගෙන ඇත.
+A couple in Indian conservation and her twin children were found in the home of the United States.
 
-ඔවුන්ගෙන් ප්‍රතිචාරයක් නොමැතිවීම හේතුවෙන් අමෙරිකාවේ කැලිෆෝනියා හි පිහිටි ඔවුන්ගේ නිවසට පැමිණි හිතවතෙකු විසින් කළ දැනුම්දීමකට අනුව පොලීසිය ඔවුන්ගේ මෘත ශරීර සොයාගෙන ඇත.
+Due to the lack of response, the police have found their bodies in an notice of a friend who came to their home in California, USA.
 
-මෙලෙස අවාසනාවන්ත ලෙස මියගොස් ඇත්තේ 42 හැවිරිදි වියේ පසුවූ Anand Sujith Henry, ඔහුගේ බිරිඳ වන 40 හැවිරිදි වියේ පසුවන Alice Priyanka සහ ඔවුන්ගේ සිව් හැවිරිදි වියේ පසුවන නිවුන් දරුවන් වන Noah සහ Neithan.
+The deceased has been identified as a 42-year-old Annand Sujith Henry, his wife, 40-year-old Alice Priyanka and their four-year-old Twins, NOAH and NEITHAN.
 
-පොලීසිය සැකපළ කරන්නේ දරුවන් ඝාතනය කිරීමෙන් අනතුරුව ඔවුන් සියදිවි හානිකරගෙන ඇති බවටය.
+Police suspect is that they have committed suicide since their children were killed.
 
-කෙසේ වෙතත් දරුවන්ගේ මරණයට හේතුව මේ වනවිට නිශ්චිතවම අනාවරණය කරගෙන නොමැති බවද විදෙස් මාධ්‍ය වාර්තා කරයි.
+However, the cause of the children's death has not been specific.
 
-පොලීසිය පවසන්නේ දරුවන් දෙදෙනාගේ සිරුරු නිවසේ කාමරයේ ඇඳ මත තිබී සොයාගත් බවය.
+Police states that the bodies of the two children were found on the bed of the house room.
 
-එසේම මියගිය යුවළගේ සිරුරු එම නිවසේ නානකාමරයේ තිබී සොයාගෙන ඇති අතර එහිදී මිලිමීටර් 9 වර්ගයේ පිස්තෝල ගිනි අවියක් ද එම ස්ථානයේ තිබී සොයාගෙන ඇත.
+The bodies of the deceased couples have been found in the bathroom, where a 9mm pistol firearm was found.
 
-වැඩිදුරටත් සිදුකළ විමර්ශනවළදී අනාවරණය වී ඇත්තේ ඔවුන් ප්‍රදේශවාසීන් සමග ඉතා හොඳ සම්බන්ධතාවයක් පවත්වාගෙන ගොස් ඇති බවය.
+Investigations have revealed that they had maintained a very good relationship with the residents of the area.
 
-...
+The man who has died is a software engineer and his wife has also been in a high-level job.
+
+The residence of them was purchased by US $ 2.1 million in 2020.
+
+◼️
 
 [Data](articles/24096195.json)
 
+[Extended Data](ext_articles/24096195.ext.json)
+
 ---
 
-### ஆறு மாணவர்களுக்கு விளக்கமறியல்
+### Explanation for six students
 
 *2024-02-14 15:44:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆறு-மாணவர்களுக்கு-விளக்கமறியல்/76-333202) · `ta`
 
-சப்ரகமுவ பல்கலைக்கழக, விவசாய பீடத்தின் இரண்டாம் வருட மாணவி ஒருவரையும்,  இரு மாணவர்களையும்  தாக்கிய சம்பவம் தொடர்பில் புதன்கிழமை (14) கைது செய்யப்பட்ட ஏனைய சிரேஷ்ட மாணவர்கள் 6 பேரையும் வியாழக்கிழமை (15) வரை விளக்கமறியலில் வைக்குமாறு பலாங்கொட நீதவான் ஹெஷானி ரொட்ராகோ உத்தரவிட்டுள்ளார்.
+Balangoda Magistrate Heshani Rottarako has ordered that six other senior students arrested on Wednesday (14) arrested in connection with the attack on a second year student of the Sabaragamuwa University and the Faculty of Agriculture on Thursday (15).
 
-கடந்த 9ஆம் திகதி இரவு உணவகத்தில் இந்த தாக்குதல் நடத்தப்பட்டதாகவும்,  இதில் ஒரு மாணவி மற்றும் இரண்டு மாணவர்கள் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் சமனலவெவ பொலிஸார் தெரிவித்துள்ளனர்.
+The attack was carried out at a restaurant on the 9th and a student and two students were injured and admitted to the hospital, Samanalawewa police said.
 
-இதே சம்பவம் தொடர்பில் ஏற்கெனவே கைது செய்யப்பட்ட 7  சிரேஷ்ட மாணவர்களையும்  புதன்கிழமை  (14)  பலாங்கொடை நீதிமன்றில் ஆஜர்படுத்தப்பட்டுள்ளதுடன், அவர்களையும் வியாழக்கிழமை (15)  வரை விளக்கமறியலில் வைக்குமாறு பலாங்கொட நீதவான் உத்தரவிட்டுள்ளார்.
+The Balangoda Magistrate has ordered the seven senior students who have already been arrested in connection with the same incident and have been produced before the Balangoda court on Wednesday (14) and ordered them to be remanded till Thursday (15).
 
 ◼️
 
 [Data](articles/6074b76f.json)
 
+[Extended Data](ext_articles/6074b76f.ext.json)
+
 ---
 
-### தேசிய கீதம், தேசிய கொடிக்கான முக்கியத்துவம் ஒவ்வொருவருக்கும் மன ரீதியாகவும் உடல் ரீதியாகவும் இருப்பது அவசியம் - அமைச்சர் டக்ளஸ் தேவானந்தா
+### The importance of the national anthem, the importance of the national flag is necessary for everyone to be mentally and physically - Minister Douglas Devananda
 
 *2024-02-14 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176373) · `ta`
 
-தேசிய கீதம் பாடப்படுகின்ற சந்தர்ப்பங்களில் மாணவர்கள் அதன் மீது அதிகளவான கவனத்தையும் மரியாதையையும் செலுத்தவது அவசியம்  என  அமைச்சர் டக்ளஸ் தேவானந்தா தேசிய தெரிவித்தார்.
+Minister Douglas Devananda said that when the national anthem is sung, students need to pay more attention and respect for it.
 
-யா / அச்சுவேலி புனித திரோச பெண்கள் கல்லூரியில் இடம்பெற்ற பிரிவெனா மற்றும் பாடசாலை மாணவர்களுக்கான இலவச பாடநூல் மற்றும் பாடசாலை சீருடைத் துணிகள் பகிர்ந்தளிக்கும் தேசிய நிகழ்வில் பிரதம விருந்தினராக  இன்று புதன்கிழமை (14)  கலந்து கொண்டு  பிரதம அதிதியாக உரையாற்றுகையிலேயே அவர் இதனை தெரிவித்தார்
+He was speaking as the Chief Guest at the National Festival of the National Festival of Disposal and School Uniforms for the St. of St. Thrisa Women, Y / Achchuveli on Wednesday (14).
 
-பொதுவாக அரசியலோ , பொது நிகழ்ச்சிகளில் கலந்துகொள்ளும் அரசியல்வாதிகளின் மனோநிலையிலிருந்து நான் முற்றிலும் வேறுபட்டவராகவே இருக்கின்றேன்.
+In general, I am completely different from the attitude of politicians who attend public events.
 
-இதேநேரம் எமது வடக்கு மாகாணத்தின் கல்வி செயற்பாடுகளின் மேம்பாட்டுக்கும் அதனை பாதுகாப்பதற்கும் கல்விசார் அதிகாரிகள் அதிகளவான ஊக்குவிப்புகளை வழங்கிவருகின்றனர்.
+At the same time, academic authorities are providing a large number of promotions to improve and protect the educational activities of our Northern Province.
+
+However, I know that these efforts of the elite are not fully cooperated. This position has to go away. I am also ready to take note of the matter and give my full cooperation to further strengthen the quality of education in the North.
 
 ...
 
 [Data](articles/dbb5f922.json)
+
+[Extended Data](ext_articles/dbb5f922.ext.json)
 
 ---
 
@@ -130,19 +204,21 @@ The President’s Media Division (PMD) said the delegates are expected to engage
 
 ---
 
-### ஜனாதிபதி நிதியத்தின் புதிய இணையத்தளம்
+### The new website of the President's Fund
 
 *2024-02-14 15:23:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நிதியத்தின்-புதிய-இணையத்தளம்/175-333193) · `ta`
 
-ஜனாதிபதி நிதியத்தின் புதிய இணையத்தளம்  http://(https://www.presidentsfund.gov.lk ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்கவினால் ஜனாதிபதி செயலகத்தில் உத்தியோகபூர்வமாக ஆரம்பித்து வைக்கப்பட்டது.
+The new website of the President's Fund was officially launched at the Presidential Secretariat by the President's Secretary Saman Ekanayake.
 
-இதன் மூலம் ஜனாதிபதி நிதியத்தினால் வழங்கப்படும் சேவைகள் தொடர்பான புதுப்பித்த தகவல்களை மூன்று மொழிகளிலும் பெறுவதுடன், மருத்துவ உதவி பெறுவதற்கான விண்ணப்பத்தையும் பதிவிறக்கம் செய்ய முடியும்.
+This will enable you to obtain renewed information on the services provided by the Presidential Fund and download the application for medical assistance.
 
-இந்நிகழ்வில் ஜனாதிபதியின் சிரேஷ்ட மேலதிக செயலாளரும் ஜனாதிபதி நிதியத்தின் செயலாளருமான சரத்குமார், ஜனாதிபதி நிதியத்தின் பிரதிப் பணிப்பாளர் கயான் மொரலியகே, ஜனாதிபதி நிதியத்தின் உதவிப் பணிப்பாளர் டபிள்யூ.டி.எம்.பொதேஜு ஆகியோர் கலந்துகொண்டனர்.
+The event was attended by Sarathkumar, Senior Additional Secretary of the President and Secretary to the Presidential Fund, Gayan Moraliyake, Deputy Director of the Presidential Fund and Assistant Director of the Presidential Fund, WDM Bodaju.
 
 ◼️
 
 [Data](articles/917b918e.json)
+
+[Extended Data](ext_articles/917b918e.ext.json)
 
 ---
 
@@ -420,19 +496,23 @@ There is a law in a country. There is something that justice and fairness. The l
 
 ---
 
-### துறைசார் நிபுணர்களை உருவாக்க முடியும்
+### Can create departmental experts
 
 *2024-02-14 13:52:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துறைசார்-நிபுணர்களை-உருவாக்க-முடியும்/175-333188) · `ta`
 
-நாட்டை பொருளாதார மாற்றத்திற்கு இட்டுச் செல்வதற்கு, உலகத்திற்கு உகந்த வகையிலான புதிய கல்வி முறைமை அவசியமானது எனவும், அதன் மூலம் போட்டி நிறைந்த உலகச் சந்தைக்குத் தேவையான துறைசார் நிபுணர்களை உருவாக்க முடியும் எனவும் ஜனாதிபதி ரணில் விக்கரமசிங்க சுட்டிக்காட்டினார்.
+President Ranil Wickremesinghe pointed out that the new education system is essential for the world to lead the country to economic change and thereby creating a competitive world market.
 
-பரீட்சை சுமையை குறைத்து, ஆங்கிலம் மற்றும் தொழில்நுட்ப பாடங்களை கல்வி முறையில் உள்ளடக்கி, தொழிலுக்கு ஏற்றவகையிலான மாணவர்களை உருவாக்க எதிர்பார்ப்பதாகவும், புதிய தொழிற்கல்லூரிகள் மற்றும் தொழில்நுட்ப பல்கலைக்கழகங்களை நிறுவுவதற்கு திட்டமிடப்பட்டுள்ளதாகவும் ஜனாதிபதி தெரிவித்தார்.
+The President said that it is expected to reduce the exam load, educate English and technical subjects, and create students who are entertaining professionalism and are planning to establish new vocational colleges and technical universities.
 
-கொள்ளுப்பிட்டி புனித அந்தோனியார் பெண்கள் கல்லூரியில் இன்று (14) பாடசாலை மாணவ, மாணவிகளுக்கான இலவச பாடசாலை பாடப் புத்தகங்கள் மற்றும் பாடசாலை சீருடைகள் வழங்கும் தேசிய நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe made this statement while addressing the national event of providing free school textbooks and school uniforms at St. Anthony's College of St. Anthony's Girls, Kaluppitti.
+
+There are five schools near my house. I learned Royal College and Therston College, Women's College, Mahanama College and St. Anthony's College. So I have been able to focus more on the education sector. During the reign of President JR Jayawardene, we focused on the development of these schools.
 
 ...
 
 [Data](articles/5e89092c.json)
+
+[Extended Data](ext_articles/5e89092c.ext.json)
 
 ---
 
@@ -1949,57 +2029,5 @@ The Electronic Media Broadcasting Authority was subjected to massive changes bas
 [Data](articles/47597a38.json)
 
 [Extended Data](ext_articles/47597a38.ext.json)
-
----
-
-### 54 national schools crisis
-
-*2024-02-14 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193352) · `si`
-
-Minister Susil Premajayantha said that the Public Service Commission was not able to recruit 54 principals for national schools due to the public service commission.
-
-◼️
-
-[Data](articles/fe6db6fe.json)
-
-[Extended Data](ext_articles/fe6db6fe.ext.json)
-
----
-
-### Crocodiles move in the waters of Colombo
-
-*2024-02-14 07:52:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பின்-நீர்நிலைகளில்-முதலைகள்-நடமாட்டம்/175-333175) · `ta`
-
-The Wildlife Department has warned the public to be observed when using the crocodiles in rivers, lakes and canals in Colombo.
-
-The Director General of the Wildlife Defense Department, Chandana Suriyapandara, made this comment while commenting on the Video of the Crocodile in the Polgoda River.
-
-Polgoda is the habitat of six crocodiles and can live in rivers, lakes and streams in Colombo. Accordingly, Diyawannawa, Polgoda Lake South and Kelani Ganga are seen as crocodiles habitat.
-
-This is a common event, it comes only when people see this. So, when walking in these streams, the Director General asked people to be very careful and careful.
-
-"It is not practiced. And the crocodiles have not been used to remove the crocodiles from their habitat. Even if we remove them, they come back to the same habitat. It is not the right thing to do to remove the crocodiles from their habitat, ”he said.
-
-◼️
-
-[Data](articles/a427e2a2.json)
-
-[Extended Data](ext_articles/a427e2a2.ext.json)
-
----
-
-### Workplace still today
-
-*2024-02-14 07:49:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பணிப்புறக்கணிப்பு/175-333174) · `ta`
-
-The Health Trade Unions Federation has announced that it will engage in a continuous workforce until its appropriate solution is presented.
-
-During the discussion held yesterday evening, the decision was taken. (A)
-
-◼️
-
-[Data](articles/cd50db9e.json)
-
-[Extended Data](ext_articles/cd50db9e.ext.json)
 
 ---

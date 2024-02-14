@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 17:53:16**
+As of **2024-02-14 18:08:36**
 
 ## Newspaper Stats
 
-*Scraped **6,988** Articles*
+*Scraped **6,992** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ economynextcom | 361
 newsfirstlk | 363
 islandlk | 365
 dailyftlk | 376
-adalk | 596
-tamilmirrorlk | 852
+adalk | 597
+tamilmirrorlk | 854
 adaderanalk | 860
 virakesarilk | 891
-adaderanasinhalalk | 983
+adaderanasinhalalk | 984
 dailymirrorlk | 1,019
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,988 (100.0%) of 6,988 articles have been extended.
+6,992 (100.0%) of 6,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### Decision taken by Health Trade Unions
+
+*2024-02-14 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193378) · `si`
+
+Health union says that the strike continues to be carried out by the Minister of Health in relation to discussing his problem.
+
+Speaking to the media, the co-convener of the UPFA Ravi Kumuduyhi made this statement.
+
+The trade union action commenced 72 health unions yesterday (13) at 6.30 am yesterday (13).
+
+◼️
+
+[Data](articles/e2baf07a.json)
+
+[Extended Data](ext_articles/e2baf07a.ext.json)
+
+---
 
 ### A felicitation ceremony of Premasara Epasinghe
 
@@ -692,6 +710,28 @@ There are five schools near my house. I learned Royal College and Therston Colle
 
 ---
 
+### Harsha who caught work from where stopped
+
+*2024-02-14 13:48:56* · [`adalk`](https://www.ada.lk/breaking_news/නතර-කළ තැන-සිට-වැඩ-ඇල්ලූ-හර්ෂ/11-408081) · `si`
+
+The safety transfer bill will be resumed and resumed and resumed
+
+Finance Ministry's Director General of Finance Policy Sample to resolve the delay in setting up a casino regulatory authority: The Committee emphasizes the need for a casino income collection system
+
+MP Dr. Harsha de Silva has been repeated as the Chairman of the Committee on Government Finance at the inauguration meeting of the Committee on Public Finance yesterday (13).
+
+The Director General of Finance Policy of the Ministry of Finance was invited to consult a significant delay in the establishment of a Regulatory Institute for Casinos as recommended by the Committee on Government Finance. The committee on the government's finance was agreed to set up a regulatory institution by December 31, 2023, the delay was investigated.
+
+The committee members stressed the importance of this regulatory company to attract investments and recovering billions of billionaires.
+
+...
+
+[Data](articles/8b0c5db9.json)
+
+[Extended Data](ext_articles/8b0c5db9.ext.json)
+
+---
+
 ### Sri Lanka to entertain fresh applicants for Aswesuma subsidy scheme from Jan 15
 
 *2024-02-14 13:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-entertain-fresh-applicants-for-aswesuma-subsidy-scheme-from-jan-15-150788/) · `en`
@@ -882,6 +922,24 @@ This move aims to accommodate the growing interest of Japanese investors eager t
 
 ---
 
+### Intelligent Course with Microsoft's support
+
+*2024-02-14 12:53:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைக்ரோசாப்ட்-ஆதரவுடன்-நுண்ணறிவு-பாடநெறிகள்/175-333187) · `ta`
+
+With the support of Microsoft, the Cabinet has approved the introduction of artificial intelligence courses in Sri Lanka's educational system.
+
+The international curriculum, which is currently being implemented by Microsoft, will be amended on the recommendations of the National Education Institute and the pioneering program proposed from the eighth grade in the basic human resources schools will be launched.
+
+It is noteworthy that the government is planning to train 100 teachers through Microsoft as coaches through Microsoft's facilities.
+
+◼️
+
+[Data](articles/8b31720d.json)
+
+[Extended Data](ext_articles/8b31720d.ext.json)
+
+---
+
 ### Introduction of Intelligence Course with Microsoft Support
 
 *2024-02-14 12:53:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைக்ரோசாப்ட்-ஆதரவுடன்-நுண்ணறிவு-பாடநெறிகளை-அறிமுகம்/175-333187) · `ta`
@@ -1007,6 +1065,20 @@ Nimal Levke, former president of the STF, has joined the United People's Power, 
 [Data](articles/50c0e825.json)
 
 [Extended Data](ext_articles/50c0e825.ext.json)
+
+---
+
+### Joined the former head of STF
+
+*2024-02-14 12:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/STF-இன்-முன்னாள்-தலைவர்-ஐ-ம-ச-வில்-இணைந்தார்/175-333186) · `ta`
+
+Nimal Levke, former president of the STF, has joined the United People's Power, the party office said.
+
+◼️
+
+[Data](articles/a2a335d4.json)
+
+[Extended Data](ext_articles/a2a335d4.ext.json)
 
 ---
 
@@ -1967,91 +2039,5 @@ There is a promise that she has promised to support Sri Lanka's economic challen
 [Data](articles/f3b951a5.json)
 
 [Extended Data](ext_articles/f3b951a5.ext.json)
-
----
-
-### Samanthavar appeals to the President
-
-*2024-02-14 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176323) · `ta`
-
-Samanthavar, president of the US company for international development, said the impact of the Freedom Security Act on freedom of expression would restricted to investing in Sri Lanka's digital economy.
-
-Samanthavar, president of the US company for International Development, said this while he held talks with President Ranil Wickremesinghe on Tuesday.
-
-Samanthavar expressed the dedication of the US company for international development to work with President Wickremesinghe in facing difficult economic challenges.
-
-At the same time, they discussed the importance of democratic rule and the process of the Advisory Legislature.
-
-Samanthavar appealed to President Wickremesinghe to take steps to solve the impact on the freedom of freedom of expression and the impact of freedom of expression, with strong US support for freedom of expression.
-
-◼️
-
-[Data](articles/0cfd2ab5.json)
-
-[Extended Data](ext_articles/0cfd2ab5.ext.json)
-
----
-
-### Sri Lanka IPS calls proposals for Saman Kelegama research grant
-
-*2024-02-14 09:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-ips-calls-proposals-for-saman-kelegama-research-grant-150737/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Institute of Policy Studies said it is calling proposals for the annual Saman Kelegama Resarch grant.
-
-It is open for fourth-year undergraduates studying economics or a related subject in a University Grants Commission approved university or higher education institution in Sri Lanka.
-
-The Institute of Policy Studies of Sri Lanka (IPS) is inviting proposals for the Saman Kelegama Memorial Research Grant 2024. The grant is an annual, merit-based grant awarded to an outstanding undergraduate studying in a Sri Lankan university. It aims to promote policy entrepreneurs among undergraduates by encouraging policy-relevant, rigorous and innovative socio-economic research.
-
-The grant was established in 2018 to honour Dr. Saman Kelegama’s legacy of independent research and public policy engagement in socio-economic development in Sri Lanka and the wider South Asian region.
-
-Dr. Kelegama was the Executive Director of the IPS from 1995 to 2017.
-
-...
-
-[Data](articles/69b454e4.json)
-
-[Extended Data](ext_articles/69b454e4.ext.json)
-
----
-
-### Visapal's affair on the street of the goat;7 arrested in Kalaha
-
-*2024-02-14 09:43:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஆட்டுப்பட்டி-தெருவில்-விஷபால்-கொடுத்த-விவகாரம்-கலஹாவில்-7பேர்-கைது/150-333179) · `ta`
-
-The suspects have been arrested in Kalaha for allegedly poisoning two suspects who were arrested and imprisoned in a police station cage.
-
-Seven people have been arrested by a group of police in Colombo, Ambatti Street, in a house in Galaha, Telltota Greedwali estate.Of the seven arrested, there are five men and women.
-
-They have been arrested in connection with the killing of a man in the Jindupitiya area in Colombo.
-
-Cyanite poison was found in the milk packets taken to the cage at the police station. Subsequent investigations have been caught by CCTV footage of the suspect and the purchase of milk packets.
-
-The two men who drank the milk packet were given to the two men who were arrested and stuck on suspicion of involvement in the murder.. They have been admitted to the Colombo National Hospital in critical condition.
-
-...
-
-[Data](articles/f1b95ab4.json)
-
-[Extended Data](ext_articles/f1b95ab4.ext.json)
-
----
-
-### Sri Lanka committed to pursue reconciliation through domestic institutions - Sabry
-
-*2024-02-14 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97251/sri-lanka-committed-to-pursue-reconciliation-through-domestic-institutions-sabry) · `en`
-
-Sri Lanka will pursue tangible progress on reconciliation and human rights through domestic institutions while maintaining its constructive engagement with the United Nations, Foreign Affairs Minister Ali Sabry said on Tuesday (Feb.13).
-
-The lawmaker chaired the inaugural session of the Inter-Ministerial Standing Committee on Human Rights at the Foreign Affairs Ministry.
-
-Addressing the meeting, Sabry highlighted that establishment of the Inter-Ministerial Standing Committee on Human Rights demonstrates the commitment of the Sri Lankan government to upholding human rights, fostering reconciliation, and ensuring the fulfillment of its voluntary international obligations.
-
-He asserted that Sri Lanka will continue to engage constructively with the United Nations and remains committed to pursuing tangible progress on reconciliation and human rights through domestic institutions while preserving its sovereignty.
-
-...
-
-[Data](articles/1d5cd433.json)
-
-[Extended Data](ext_articles/1d5cd433.ext.json)
 
 ---

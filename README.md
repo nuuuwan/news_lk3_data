@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 07:31:24**
+As of **2024-02-14 07:52:01**
 
 ## Newspaper Stats
 
-*Scraped **6,853** Articles*
+*Scraped **6,856** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 835
 adaderanalk | 838
 virakesarilk | 868
 adaderanasinhalalk | 954
-dailymirrorlk | 1,004
+dailymirrorlk | 1,007
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,853 (100.0%) of 6,853 articles have been extended.
+6,856 (100.0%) of 6,856 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### 5G Technology remains uncertain in Sri Lanka
+
+*2024-02-14 06:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/5G-Technology-remains-uncertain-in-Sri-Lanka/108-276974) · `en`
+
+Colombo, Feb 14 (Daily Mirror) - The timelines for the commercial launch of 5G technology remains uncertain over the high cost involved in infrastructure building and securing devices, a source from the Technology Ministry said.
+
+The auction for 5G spectrum is still ongoing, creating uncertainty for operators. However, the source said the government and telecom operators remain committed to launching 5G technology commercially.
+
+“Building the necessary infrastructure across the country requires significant investment. The cost of 5G-compatible devices and data plans might be initially high for many users,” the source said.
+
+According to the source, the successful implementation could benefit Sri Lanka's economy by attracting investments, fostering innovation, and boosting digital access.
+
+...
+
+[Data](articles/a8a1666c.json)
+
+[Extended Data](ext_articles/a8a1666c.ext.json)
+
+---
 
 ### Three persons arrested for stealthily entering the cattle farm of Peradeniya University
 
@@ -53,6 +73,44 @@ The university administration has said that animals are being raised for meat an
 [Data](articles/076a6550.json)
 
 [Extended Data](ext_articles/076a6550.ext.json)
+
+---
+
+### Tri-forces halt general recruitment
+
+*2024-02-14 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tri-forces-halt-general-recruitment/108-276947) · `en`
+
+Colombo, Feb 13 (Daily Mirror) - Sri Lanka is in the process of downsizing the existing Sri Lanka Army cadre to 135,000 by the end of this year, and the number has already dropped to nearly 150,000 from the existing Sri Lanka Army cadre of 200,783, Daily Mirror learns.
+
+Last year, State Minister of Defence Premitha Bandara Tennakoon announced that Sri Lanka would cut the number of Army personnel by a third to 135,000 by this year and to 100,000 by 2030, as part of the government's efforts to overhaul its finances. He said that the aim of the move is to create a "technically and tactically sound and well-balanced" defence force by 2030.
+
+In addition, Sri Lanka expects to maintain the number of Sri Lanka Air Force personnel and Sri Lanka Navy personnel at 35,000 each by 2030.
+
+...
+
+[Data](articles/48382f58.json)
+
+[Extended Data](ext_articles/48382f58.ext.json)
+
+---
+
+### Do not make CC a puppet of Executive: PC Upul Jayasuriya
+
+*2024-02-14 05:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Do-not-make-CC-a-puppet-of-Executive-PC-Upul-Jayasuriya/108-276975) · `en`
+
+Colombo, Feb 14 (Daily Mirror) - Former President of the Bar Association of Sri Lanka (BASL) Upul Jayasuriya PC said the President should not make the Constitutional Council a puppet of the executive but let it function independently on its own.
+
+He said the President had made statements on several recent occasions indicating that the Constitutional Council was part of the executive and that it should function under the purview of the latter.
+
+“We would like to remind the President that the Constitutional Council was established to control certain executive powers of the executive, thus it should not behave like a puppet,” he said.
+
+The President's Counsel made these remarks recently whilst addressing a special gathering of lawyers from countrywide during the launch of the new legal framework of the Samagi Jana Balawegaya, which was organised by the Samagi Lawyers Federation.
+
+...
+
+[Data](articles/43f2db9d.json)
+
+[Extended Data](ext_articles/43f2db9d.ext.json)
 
 ---
 
@@ -1951,69 +2009,5 @@ The project is planned to be carried out under a public-private partnership.
 [Data](articles/00338d84.json)
 
 [Extended Data](ext_articles/00338d84.ext.json)
-
----
-
-### Bore. Two farmers killed in illegal electric fence
-
-*2024-02-13 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/176289) · `ta`
-
-The body of two farmers, Maman's son -in -law, was found dead on Tuesday (13).
-
-The 51 -year -old Arumugam Lohanathan, a 51 -year -old from Pudimalai, and 21 -year -old Vinayagamoorthy Sudarshan, a 21 -year -old, have been recovered.
-
-A former Deputy Minister of the Valaichenai police division in the Valaichenai Police Division has illegally set up an electric fence around the farm to prevent wild animals from logging.
-
-In this case, the father -in -law and son -in -law went to the harvest of agriculture yesterday near the area.
-
-The owner of the man who went to Pannai this morning told police that two people were killed by electricity.
-
-Subsequently, the police said that the police would obtain a court order and recover the body and hand over the autopsy.
-
-◼️
-
-[Data](articles/3c079656.json)
-
-[Extended Data](ext_articles/3c079656.ext.json)
-
----
-
-### Sri Lanka land prices will come down in the future: Minister
-
-*2024-02-13 15:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-land-prices-will-come-down-in-the-future-minister-150710/) · `en`
-
-ECONOMYNEXT – The prices of land in Sri Lanka will come down significantly due to government programmes such as gifting deeds and long-term leasing of lands to investors, Minister Bandula Gunawardena has said.
-
-“The gifting of deeds and the long-term lease of State lands will lead to the price of real estate dropping in the future,” Gunawardena said in response to a question by a journalist at a Cabinet decisions press briefing on Tuesday (10).
-
-“When State lands are released to investors they don’t have to buy land from the real estate market, so the artificial pricing will decrease, and competitive prices will come in.
-
-“Land in Sri Lanka has an artificial price, if you take land in Colombo its more expensive than land prices in developed countries. Our real estate market is a closed market. The gifting of deeds and the release of land for investment purposes opens the market.”
-
-...
-
-[Data](articles/5e7f297a.json)
-
-[Extended Data](ext_articles/5e7f297a.ext.json)
-
----
-
-### Former Prime Minister of Thailand released
-
-*2024-02-13 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193334) · `si`
-
-The former Prime Minister of Thailand has been released even for six months after being retained for six months, he was released today (13).
-
-The Prime Minister also stated that the ministry was carried out regarding the work of the former Prime Minister for the development of Thailand.
-
-The former Prime Minister was sentenced to eight years in prison and again after he returned to Thailand a year ago.
-
-The king of the 8 year old sentence imposed on the 8-year-old Prime Minister he ordered to reduce to Thailand.
-
-◼️
-
-[Data](articles/19dc85a8.json)
-
-[Extended Data](ext_articles/19dc85a8.ext.json)
 
 ---

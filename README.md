@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 17:17:29**
+As of **2024-02-14 17:33:20**
 
 ## Newspaper Stats
 
-*Scraped **6,982** Articles*
+*Scraped **6,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,80 @@ economynextcom | 361
 newsfirstlk | 363
 islandlk | 365
 dailyftlk | 376
-adalk | 594
+adalk | 596
 tamilmirrorlk | 852
 adaderanalk | 860
-virakesarilk | 890
-adaderanasinhalalk | 980
+virakesarilk | 891
+adaderanasinhalalk | 983
 dailymirrorlk | 1,019
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,978 (99.9%) of 6,982 articles have been extended.
+6,982 (99.9%) of 6,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### ප්‍රේමසර ඈපාසිංහයන්ට උපහාර පිදීමේ උත්සවයක්
+
+*2024-02-14 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193377) · `si`
+
+කොළඹ ආනන්ද - නාලන්ද 94 වැනි සුලෝහිත සංග්‍රාමය වෙනුවෙන් හිටපු ප්‍රවීණ ක්‍රිකට් විස්තර විචාරකයකු වන ප්‍රේමසර ඈපාසිංහ මහතා වෙත උපහාර පිදීමේ උත්සවයක් සංවිධානය කර තිබිණි.
+
+එසේම, ප්‍රේමසර ඈපාසිංහ මහතාට  සුලෝහිත සංග්‍රාමය නැරඹීම සඳහා ආරාධනා කිරීම ද මෙම අවස්ථාවේ සිදු වී තිබේ.
+
+හිටපු ගුවන් හමුදාපතිවරයකු සහ වත්මන් සුලෝහිත සංග්‍රාම කමිටුවේ සම සභාපතිවරයකු වන 'එයාර් චීෆ් මාර්ෂල්' ගගන් බුලත්සිංහල මහතා විසින් ප්‍රේමසර ඈපාසිංහ මහතාගේ සේවය අගයනු වස් තුටු පඬුරක් ද පිරිනමා ඇත.
+
+උත්සව අවස්ථාව සඳහා ආනන්ද - නාලන්ද විදුහල් දෙක නියෝජනය කරන පිරිසක් ද සහභාගි වුණු බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/3474bbdb.json)
+
+---
+
+### இடம்பெயரும் உயிரினங்களில் ஐந்தில் ஒன்று பகுதி அழியும் அபாயம் - ஐ.நா. அறிக்கை
+
+*2024-02-14 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176365) · `ta`
+
+காலநிலை மாற்றம் மற்றும் மனித செயற்பாடுகளின் விளைவாக உலகில் இடம்பெயரும் உயிரினங்களில் ஐந்தில் ஒரு பகுதி அழிந்து போகும் அபாயத்தில் உள்ளதாக ஐக்கிய நாடுகள் சபையின்  இடம்பெயரும் மிருகங்கள் பற்றிய அறிக்கையில் வெளியிடப்பட்டுள்ளது.
+
+ஒவ்வொரு வருடமும்  100 கோடி  விலங்குகள் பாலைவனங்கள், சமவெளிகள் அல்லது பெருங்கடல்கள் வழியாக இனப்பெருக்கம் மற்றும்  உணவுகளை தேடி  இடம்பெயர்வை மேற்கொள்கின்றன.
+
+இந்நிலையில், இடம்பெயரும் உயிரினங்களின் மீது திணிக்கப்படும் நீடிக்க முடியாத அழுத்தங்கள் அவற்றின் எண்ணிக்கையை குறைவடைய செய்வதோடு, உணவு விநியோகத்தை சீர்குலைத்து வாழ்வாதாரத்தை அச்சுறுத்துகிறது என அந்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+1979 ஆம் ஆண்டு  ஐக்கிய நாடுகள் சபையின் இடம்பெயரும் விலங்குகளை பாதுகப்பதற்கான மாநாட்டில் 1,189 இனங்கள் இருப்பதாக பட்டியலிடப்பட்டது. அதில்  44 சதவீதம் குறைவடைந்துள்ளதோடு, 22  சதவீதம் முற்றிலும் அழிந்துவிடும்.
+
+...
+
+[Data](articles/83843588.json)
+
+---
+
+### මෝදර වෙඩිතැබීමට පැමිණි මෝටර් රථය සොයාගනී
+
+*2024-02-14 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193376) · `si`
+
+මෝදර, මෝදරවීදිය ප්‍රදේශයේ සිදුකළ වෙඩිතැබීමේ සිද්ධියේ සැකකරුවන් පැමිණි බවට සැක මෝටර් රථය පොලීසිය විසින් සොයාගෙන තිබේ.
+
+ඒකල ඔතේ කැලේ ප්‍රදේශයේ දමාගොස් තිබියදී අද (14) දහවල් පොලීසිය විසින් මෝටර් රථය සොයාගෙන තිබුණි.
+
+එම මෝටර් රථයේ තිබී ජීව උණ්ඩයක් ද පොලීසිය විසින් සොයාගෙන තිබේ.
+
+පොලීසිය වැඩිදුරටත් සඳහන් කළේ එම මෝටර් රථයේ චැසි අංක එන්ජින් අංක මකා දමා තිබූ බවය.
+
+එසේම ඔවුන් ව්‍යාජ අංක තහඩු සවිකර වෙඩිතැබීම සඳහා පැමිණ ඇති බවද පොලීසිය වැඩිදුරටත් සඳහන් කළේය.
+
+මෝදර, මෝදරවීදිය ප්‍රදේශයේ පිහිටි අවන්හලක් ඉදිරිපිටදී සිදුකළ එම වෙඩිතැබීමෙන් බරපතළ තුවාල ලැබූ එම අවන්හලේ හිමිකරු කොළඹ ජාතික රෝහලේ දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබයි.
+
+◼️
+
+[Data](articles/cc72a125.json)
+
+---
 
 ### Indonesia election quick tallies indicate Prabowo headed for first round win
 
@@ -52,6 +110,8 @@ If no candidate wins a majority, a runoff between the top two finishers will be 
 
 [Data](articles/c677203e.json)
 
+[Extended Data](ext_articles/c677203e.ext.json)
+
 ---
 
 ### Minister Sabry to attend global security conference in Munich
@@ -70,41 +130,65 @@ During the visit, Minister Sabry will engage in meetings with his counterparts f
 
 [Data](articles/bf980714.json)
 
+[Extended Data](ext_articles/bf980714.ext.json)
+
 ---
 
-### நயினாதீவில் கஞ்சா மீட்பு!
+### Cannabis Recovery in Nainadivu!
 
 *2024-02-14 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/176376) · `ta`
 
-நயினாதீவில் திங்கட்கிழமை (12) காலை 20 கிலோ மற்றும் 140 கிராம்கஞ்சா மீட்கப்பட்டுள்ளதாக தெரிவிக்கபட்டது.
+It has been reported that 20 kg and 140 grams of gramkancha have been recovered in Nainadivu on Monday (12).
 
-இது குறித்து மேலும் தெரியவருவதாவது நயினாதீவு  கடற்கரையில் கஞ்சா இருப்பதாக முல்லைத்தீவு மாவட்ட விசேட அதிரடிப் படையினருக்கு கிடைத்த புலனாய்வு தகவலுக்கமைய சம்பவ இடத்திற்கு கடற்படையுடன் இணைந்து விரைந்த விசேட அதிரடிப் படையினர் 20 கிலோ கிராம் மற்றும் 140 கிராம் கஞ்சாவினை கைப்பற்றினர்.
+It is also revealed that the Mullaitivu district special troopers rushed to the scene of the incident to the Mullaitivu District Special Task Force (STF).
 
 ◼️
 
 [Data](articles/dcbd3329.json)
 
+[Extended Data](ext_articles/dcbd3329.ext.json)
+
 ---
 
-### இந்தோனேசியாவின் சர்ச்சைக்குரிய பாதுகாப்பு அமைச்சர் ஜனாதிபதி தேர்தலில் முன்னிலையில்
+### මොහොමඩ් නබී එකට එයි
+
+*2024-02-14 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193375) · `si`
+
+අයිසීසී නවතම ශ්‍රේණිගත කිරීම් අනුව එක්දින තුන්ඉරියව් ක්‍රීඩකයන්ගේ පළමු ස්ථානයට පැමිණීමට ඇෆ්ගනිස්තාන හිටපු නායක මොහොමඩ් නබී සමත් ව ඇත.
+
+ඒ අනුව මෙතෙක් එහි පළමු ස්ථානයේ රැඳී සිටි බංග්ලාදේශ තුන්ඉරියව් ක්‍රීඩක ශකිබ් අල් හසන් දෙවැනි ස්ථානයට පත් ව ඇත.
+
+ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර මහනුවර පල්ලෙකැලේ අන්තර්ජාතික ක්‍රිකට් ක්‍රීඩාංගණයේ පැවති පළමු එක්දින තරගයේ දී මොහොමඩ් නබී රැස් කළ වාර්තාගත ඉනිමත් සමඟ ඔහු මෙසේ ශ්‍රේණිගත කිරීම්වල පෙරමුණට පැමිණ තිබේ.
+
+එහි දී ඔහු ලකුණු 136ක් රැස් කළ අතර, අස්මතුල්ලා ඔමාසායි සමඟ වාර්තාගත සබඳතාවක් ද ගොඩනැඟුවේය.
+
+◼️
+
+[Data](articles/2b5c9727.json)
+
+---
+
+### Indonesia's controversial defense minister in the presidential election
 
 *2024-02-14 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176381) · `ta`
 
-இந்தோனேசியாவின் ஜனாதிபதி தேர்தல் வாக்களிப்பு முடிவடைந்துள்ள நிலையில் பாதுகாப்பு அமைச்சர் பிரபோவோ சுபியன்டோ முன்னிலையில் உள்ளதாக கருத்துக்கணிப்புகள் தெரிவிக்கின்றன.
+According to polls, Defense Minister Prabhoo Subiyanto is in the presence of Indonesia's presidential election.
 
-இதுவரை 72வீதவாக்குகள் எண்ணப்பட்டுள்ள நிலையில் பாதுகாப்பு அமைச்சருக்கு 58 வீதவாக்குகள் கிடைத்துள்ளதாக கருத்துக்கணிப்புகள் தெரிவிக்கின்றன.
+According to polls, the Defense Minister has received 58 %, with 72 percent.
 
-இந்தோனேசியாவின் சர்ச்சைக்குரிய பாதுகாப்பு அமைச்சர் முன்னாள் ஜொக்கொ விடோவிடோவின் கொள்கைகளை தொடரப்போவதாக உறுதியளித்துள்ளார்.
+Indonesia's controversial defense minister has promised to pursue the policies of former Joko Vitovido.
 
-முன்னாள் ஜனாதிபதியின் பத்து வருட ஆட்சியில் இந்தோனேசிய பொருளாதாரம் கண்டுள்ள பிரமிக்கத்தக்க வளர்ச்சி வெளிநாட்டு முதலீட்டாளர்களின் பார்வையை அந்த நாட்டை நோக்கி திருப்பியுள்ளது.
+The stunning growth of the Indonesian economy during the ten -year regime of the former president has turned the view of foreign investors to that country.
 
-எனினும் கடந்தகாலங்களில் மனித உரிமை மீறல்களில் ஈடுபட்டவர் என்பதால் பாதுகாப்பு அமைச்சர் ஜனாதிபதியாவது குறித்து மனித உரிமை ஆர்வலர்கள் கரிசனை வெளியிட்டுள்ளனர்.
+However, human rights activists have expressed concern over the president of the Defense Minister because he was involved in human rights violations in the past.
 
-ஜனநாயக சார்பு செயற்பாட்டாளர்களை கடத்தி கொலை செய்தார் என்ற அடிப்படையில் பிரபோவோ சுபியன்டோவிற்கு அமெரிக்கா பயணத்தடை விதித்துள்ளது.
+The US has banned Prabhovo Subiona on the basis of kidnapping and murdering pro -democratic activists.
 
 ◼️
 
 [Data](articles/bd588e5c.json)
+
+[Extended Data](ext_articles/bd588e5c.ext.json)
 
 ---
 
@@ -637,6 +721,46 @@ Sri Lanka - Bangladeshi Twenty Twenty Tournament will be held on March 4, 6 and 
 [Data](articles/f3e1940a.json)
 
 [Extended Data](ext_articles/f3e1940a.ext.json)
+
+---
+
+### ආණ්ඩුවේ වෙනස් වූ ප්‍රතිපත්තියක් ගැන ප්‍රසන්න කියයි
+
+*2024-02-14 13:28:37* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවේ-වෙනස්-වූ-ප්‍රතිපත්තියක්-ගැන-ප්‍රසන්න-කියයි/11-408080) · `si`
+
+සීත කාමරවල සිට සංවර්ධන ව්‍යාපෘති සිදු කිරීමේ ප්‍රතිපත්තියෙන් වත්මන් ආණ්ඩුව ඉවත් වී ඇති බව නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පැවසීය.
+
+ඔහු අවධාරණය කර සිටින්නේ ජනතාවගේ අදහස් ලබා ගනිමින් ජනතා අවශ්‍යතාවය මත පමණක් සංවර්ධන ව්‍යාපෘති සිදු කරන බවයි.
+
+ඒ අනුව සෑම ගම්මානයක්ම සංවර්ධනය කිරීම ආණ්ඩුවේ ප්‍රතිපත්තිය බවද අමාත්‍යවරයා සඳහන් කළේය.
+
+අමාත්‍ය ප්‍රසන්න රණතුංග මහතා මේ බව පැවසුවේ කෑගල්ල දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේදී “කදුකර දශකය” සංවර්ධන වැඩසටහන පිළිබඳව නිළධාරීන් දැනුවත් කිරීමේ අවස්ථාවට අද (14) දින සහභාගි වෙමින්.  එය පැවැත්වුණේ කෑගල්ල දිස්ත්‍රික් ලේකම් කාර්යාලයේදීය.
+
+කෑගල්ල දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුව පැවැත්වුණේ එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී රාජිකා වික්‍රමසිංහ හා සබරගමු පළාත් ආණ්ඩුකාර නවීන් දිසානායක යන මහත්වරුන්ගේ ප්‍රධානත්වයෙනි.
+
+එක් එක් දිස්ත්‍රික්කයන්ට ආවේණිකෙ සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කරවා නිදහස චක්‍රලේඛන හරහා ලබා දී ඇති බවද අමාත්‍යාවරයා අවධාරණය කළේය.
+
+...
+
+[Data](articles/bc238c72.json)
+
+---
+
+### එක ගලකින් කුරුල්ලෝ දෙන්නෙක් බිලි ගන්න යයි
+
+*2024-02-14 13:25:07* · [`adalk`](https://www.ada.lk/breaking_news/එක-ගලකින්-කුරුල්ලෝ-දෙන්නෙක්-බිලි-ගන්න-යයි/11-408079) · `si`
+
+නුවරඑලිය ග්‍රේගරි වැවට ජයන්ට් කාෆ් වර්ගයේ මත්ස්‍ය පැටවුන් 7500 ක් මුදා හැරිම නුවරඑලිය දිස්ත්‍රික් ජල ජිවි වගා සංවර්ධන අධිකාරිය විසින් (14) දින සිදු කෙරිණ.
+
+ජාතික ජල ජිවි වගා සංවර්ධන අධිකාරි නුවරඑලිය කාර්යාලයේ දිස්ත්‍රික් ජල ජිවි වගා ව්‍යාප්ති නිලධාරින් නිර්මාල් චන්ද්‍රතිලක මහතා සහ  ව්‍යාප්ති නිලධාරි බුද්ධික කුෂාන් මහතාගේ ප්‍රධානත්වයෙන් ජලාශයට මත්ස්‍ය පැටවුන් මුදා හරිණ.
+
+නුවරඑලිය ග්‍රේගරි වැවෙහි අරුනලු ධිවර සමිතියේ ප්‍රතිපාදන යටතේ ජාතික ජල ජිවි වගා සංවර්ධන අධිකාරියේ නුවරඑලිය කාර්යාලය යටතේ පාලනය වන ජයන්ට් කාෆ් මත්ස්‍ය අභිජනන මධ්‍යස්ථානයේ අභිජනනය කරන ලද මත්ස්‍ය පැටවුන් 7500 ක් මෙසේ මුදා හරිනු ලැබුහ.
+
+නුවරඑලිය අවට අඩු ආදායම්ලාභින්ගේ ප්‍රෝටින් ඌණතාවය ඉහල දැමිමට සහ ග්‍රේගරි වැවෙහි ධිවර කර්මානයේ යෙදි සිටින ධිවරයන්ගේ අදායම් තත්ත්වය ඉහල දැමිමේ අරමුණින් මෙසේ මත්ස්‍ය පැටවුන් මුදා හැරි බවයි එම ව්‍යාපෘතිය භාර නිලධාරි බුද්ධික කුෂාන් මහතා කියා සිටියේ.
+
+...
+
+[Data](articles/8a478a11.json)
 
 ---
 
@@ -1911,129 +2035,5 @@ He asserted that Sri Lanka will continue to engage constructively with the Unite
 [Data](articles/1d5cd433.json)
 
 [Extended Data](ext_articles/1d5cd433.ext.json)
-
----
-
-### Shebas Sharif recommends Pakistan's new Prime Minister
-
-*2024-02-14 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/176320) · `ta`
-
-In the general election held in Pakistan, no party has not received a majority. Pakistan has already suffered a major setback.
-
-In this case, the Pakistani People's Party Bilawal Bhutto and his father Sardari did not contest the post of Prime Minister.
-
-They said they would not be in the cabinet and said they would support Nawaz Sharif's party from the outside.
-
-In this case, Nawaz Sharif has nominated his brother Shebaz Sharif as the prime ministerial candidate.
-
-If the coalition parties accept this, Shebaz Sharif will be appointed as the next Prime Minister of Pakistan.
-
-◼️
-
-[Data](articles/fbbc6d55.json)
-
-[Extended Data](ext_articles/fbbc6d55.ext.json)
-
----
-
-### In the CCTV camera, the madara shooter
-
-*2024-02-14 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193354) · `si`
-
-A series of CCTV shows have been issued to the shooting in front of a restaurant in the Modara area last night.
-
-Police said that the shooting had been shot by an unknown man who had come from a car.
-
-The shooting has been admitted to the Colombo National Hospital for treatment.
-
-The police said that the man's right shoulder was severely damaged by the neck and foot.
-
-The shooting was a 51-year-old manager, a 51-year-old resident of Colombo 14.
-
-The police suspect that the shooting has been used to shoot is yet to be determined.
-
-◼️
-
-[Data](articles/84dd6c56.json)
-
-[Extended Data](ext_articles/84dd6c56.ext.json)
-
----
-
-### Colombo - shooting in the clash - one injury
-
-*2024-02-14 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176321) · `ta`
-
-One person has been admitted to the Colombo National Hospital after being injured in the shooting incident in the Colombo -Motarai area.
-
-A 51 -year -old man was injured in the shooting, police said.
-
-◼️
-
-[Data](articles/f0039f34.json)
-
-[Extended Data](ext_articles/f0039f34.ext.json)
-
----
-
-### Shooting in Modara leaves a man injured
-
-*2024-02-14 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97250/shooting-in-modara-leaves-a-man-injured) · `en`
-
-A 51-year-old has sustained injuries after being gunned down in Modara on Tuesday night (Feb.13).
-
-He is currently receiving treatment at the National Hospital of Sri Lanka (NHSL) in Colombo.
-
-A group of assailants who had arrived in a car had opened fire at the victim near the entrance to a restaurant where he serves as a manager.
-
-The motive behind the shooting was not immediately clear. However, investigations have been launched by Modara Police to apprehend the perpetrators.
-
-The police said the assailants had used a pistol for the shooting.
-
-◼️
-
-[Data](articles/e40f0636.json)
-
-[Extended Data](ext_articles/e40f0636.ext.json)
-
----
-
-### USAID chief urges President Ranil to address concerns about Online Safety Act
-
-*2024-02-14 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97249/usaid-chief-urges-president-ranil-to-address-concerns-about-online-safety-act) · `en`
-
-USAID Administrator Samantha Power has urged President Ranil Wickremesinghe to address the concerns about the potential impact of the Online Safety Act on freedom of expression.
-
-The head of US Agency for International Development (USAID) brought this up during a virtual conversation with the Sri Lankan leader on Tuesday (Feb.13).
-
-Power has “encouraged President Wickremesinghe to address concerns about the potential impact of the Online Safety Act on freedom of expression, as well as investment in Sri Lanka’s vibrant digital economy,” according to a USAID statement.
-
-The USAID chief discussed the island nation’s economic reform agenda as well as the importance of democratic governance and a consultative legislative process.
-
-She expressed USAID’s commitment to working with President Wickremesinghe on addressing difficult economic challenges.
-
-Power also highlighted the strong support of the US for freedom of expression and association.
-
-◼️
-
-[Data](articles/bdcf1ac8.json)
-
-[Extended Data](ext_articles/bdcf1ac8.ext.json)
-
----
-
-### Government statement on paddy price
-
-*2024-02-14 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193353) · `si`
-
-The Minister of Paddy is under the intervention of the Ministry of Finance.
-
-He referred to that farmers have problems in the price of paddy.
-
-◼️
-
-[Data](articles/11c0edf9.json)
-
-[Extended Data](ext_articles/11c0edf9.ext.json)
 
 ---

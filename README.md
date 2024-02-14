@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 16:02:36**
+As of **2024-02-14 16:17:23**
 
 ## Newspaper Stats
 
-*Scraped **6,966** Articles*
+*Scraped **6,969** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 594
 tamilmirrorlk | 849
 adaderanalk | 855
 virakesarilk | 887
-adaderanasinhalalk | 975
+adaderanasinhalalk | 978
 dailymirrorlk | 1,019
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,965 (100.0%) of 6,966 articles have been extended.
+6,966 (100.0%) of 6,969 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,48 @@ The President’s Media Division (PMD) said the delegates are expected to engage
 ...
 
 [Data](articles/1277dc80.json)
+
+[Extended Data](ext_articles/1277dc80.ext.json)
+
+---
+
+### කාන්තාවකට අතවර කළ පොලිස් කොස්තාපල් ව සිරගෙට
+
+*2024-02-14 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193372) · `si`
+
+අවිවාහක කාන්තාවකට ලිංගික අතවර කළ පොලිස් කොස්තාපල්වරයෙකුට වසර 07ක බරපතළ වැඩ සහිත සිර දඩුවමක් නියම කර තිබේ.
+
+එම වින්දිත කාන්තාවට රුපියල් 500,000ක වන්දියක් ගෙවන ලෙසත්, රුපියල් 20,000ක දඩ මුදලක් ගෙවන ලෙසත් එම වරදකරුට නුවරඑළිය මහාධිකරණ විනිසුරු විරාජ් වීරසුරිය මහතා අද (13) නියෝග කළේය.
+
+මෙසේ බරපතළ වැඩ සහිතව සිරදඩුවම් සහ දඩ මුදල් ගෙවන ලෙසට නියම කරනු ලැබුවේ නුවරඑළිය පොලිස් කොට්ඨාශයට අයත් හයිෆොරස්ට් පොලිස් ස්ථානයේ සේවය කළ ලක්ෂ්මන් සාලිය බණ්ඩාර විරසිංහ නැමති අයෙකුට එරෙහිවය.
+
+එම සිර දඬුවමට අමතරව දඩ මුදල් ගෙවිමට අපොහොසත් වුවහොත් සිර දඬුවම තවත් වසර තුනකින් දිර්ඝ කිරීමටත් නියෝග කර ඇත.
+
+2019 වසරේදී එම පුද්ගලයා හයිෆොරස්ට් පොලිස් ස්ථානයේ සේවය කරන අතරතුර එම කාන්තාවට ලිංගික අතවර කළ බවට චෝදනා කරමින් 2019 වසරේදී ඔහුට එරෙහිව නුවරඑළිය මහාධිකරණය හමුවේ නඩුවක් ගොනු කෙරිණි.
+
+එම චෝදනාව යටතේ පොලිස් දෙපාර්තුමේන්තුව විසින්ද පොලිස් කොස්තාපල්වරයාගේ සේවය තාවකාලිකව අත්හිටුවා මුලික විමර්ශනයක් සිදුකර පසුව එම පොලිස් කොස්තාපල්වරයා ඉදිරිපත් කළ අභියාචනාවක් සලකා බලා ඔහුව එම පොලිස් ස්ථානයේම සේවයේ පිහිටුවා තිබුණි.
+
+◼️
+
+[Data](articles/6c73642f.json)
+
+---
+
+### රන් පතලක නායයාමකින් 09 දෙනෙකු අතුරුදන්
+
+*2024-02-14 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193371) · `si`
+
+නැගෙනහිර තුර්කියේ රන් පතලක සිදු වූ නායයාමකින් කම්කරුවන් 09 දෙනෙකු අතුරුදන් ව තිබේ.
+
+අතුරුදන් වූවන් මුදාගැනීමේ මෙහෙයුම් සඳහා සියයකට අධික සහන සේවකයින් පිරිසක් අනුයුක්ත කර ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+
+සයනයිඩ්, ජලයට මිශ්‍ර වීමේ සිදුවීමක් මුල්කර ගනිමින් 2020 වසරේ මෙම පතල වසා දමා තිබූ අතර, එහි දී අදාළ සමාගමට දඩ නියම කිරිමට ද පියවර ගෙන තිබිණි.
+
+කෙසේ වෙතත් ඉන් වසර දෙකකට පසු එය යළි විවෘත කර ඇති බව විදෙස් වාර්තා සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/41b33225.json)
 
 ---
 
@@ -67,6 +109,24 @@ Kremlin considers me to silence me silent, but it will not take place but it wil
 [Data](articles/c2f91988.json)
 
 [Extended Data](ext_articles/c2f91988.ext.json)
+
+---
+
+### රාජ්‍ය අංශයේ ධාරිතාව ඉහළ නැංවීමේ නව වැඩපිළිවෙළක්
+
+*2024-02-14 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193369) · `si`
+
+ශ්‍රී ලංකාවේ ආර්ථික වර්ධනය වේගවත් කිරීම සඳහා ඉන්දු – ශ්‍රී ලංකා හවුල්කාරිත්වය මඟින් මෙරට රාජ්‍ය අංශයේ ධාරිතාව ඉහළ නැංවීමේ වැඩපිළිවෙළ ක්‍රියාවට නංවා ඇති බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කර තිබේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පසුගිය දා සිදු කළ ඉන්දීය නිල සංචාරයේ දී දෙරට අතර සබඳතා නව ක්ෂේත්‍ර ඔස්සේ ශක්තිමත් කර ගැනීමට දෙරටේ නායකයන් එකඟ වූ අතර, විශේෂයෙන් දෙරටේ ජනතාව අතර සබඳතා ප්‍රවර්ධනය කිරීම කෙරෙහි එහි දී ප්‍රමුඛ අවධානයක් යොමු ව තිබිණි.
+
+මේ වන විට ඉන්දියාව සිවිල් සේවාවන්හි ධාරිතාව ගොඩනැංවීම උදෙසා දැවැන්ත වැඩසටහනක් දියත් කර ඇති අතර, රාජ්‍ය අංශයේ ධාරිතාව ගොඩනැංවීමේ ඉන්දු – ශ්‍රී ලංකා හවුල්කාරිත්වය මඟින් මෙරට රාජ්‍ය ආයතන පද්ධතිය වඩාත් නව්‍යකරණයෙන් සහ කාර්යක්ෂම ව ඉදිරියට ක්‍රියාත්මක කිරීමට අවස්ථාව හිමි වනු ඇති බව සඳහන් ය.
+
+මෙම වැඩසටහන ක්‍රියාත්මක කිරීමට අදාළ ජ්‍යේෂ්ඨ මට්ටමේ සාකච්ඡා සඳහා ශ්‍රී ලංකා රජයේ ආරාධනය පරිදි ඉන්දියාවේ යහපාලනය සඳහා වූ ජාතික මධ්‍යස්ථානයේ අධ්‍යක්ෂ ජනරාල් භාරත් ලාල් මහතා පසුගිය දා මෙරටට පැමිණ ජනාධිපතිවරයා හමු වී සාකච්ඡා පවත්වා තිබිණි.
+
+...
+
+[Data](articles/ba73e799.json)
 
 ---
 
@@ -1943,73 +2003,5 @@ According to Robocash which is rebranded as UNA Financial, the user base of Sri 
 [Data](articles/e88dfdc8.json)
 
 [Extended Data](ext_articles/e88dfdc8.ext.json)
-
----
-
-### Decision regarding Prime Minister of Pakistan
-
-*2024-02-14 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193350) · `si`
-
-Nawaz Sharif has decided to name Nawaz Sharif as the next Prime Minister of Pakistan.
-
-According to foreign reports, the party of Pakistan's Nawaz Sharif and Bilv's Bhutto, a party government had been established.
-
-After last week, the Grouff's PPP was supported by the Navad Sharif's PM.
-
-At the election, 75 and the PPP party PPP party has obtained 54 seats.
-
-The goddess the party says that his party supports elections to select a Prime Minister.
-
-Imran Khan and his party emphasized that the election is taken to challenge the results.
-
-◼️
-
-[Data](articles/00313f2e.json)
-
-[Extended Data](ext_articles/00313f2e.ext.json)
-
----
-
-### 5G Technology remains uncertain in Sri Lanka
-
-*2024-02-14 06:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/5G-Technology-remains-uncertain-in-Sri-Lanka/108-276974) · `en`
-
-Colombo, Feb 14 (Daily Mirror) - The timelines for the commercial launch of 5G technology remains uncertain over the high cost involved in infrastructure building and securing devices, a source from the Technology Ministry said.
-
-The auction for 5G spectrum is still ongoing, creating uncertainty for operators. However, the source said the government and telecom operators remain committed to launching 5G technology commercially.
-
-“Building the necessary infrastructure across the country requires significant investment. The cost of 5G-compatible devices and data plans might be initially high for many users,” the source said.
-
-According to the source, the successful implementation could benefit Sri Lanka's economy by attracting investments, fostering innovation, and boosting digital access.
-
-...
-
-[Data](articles/a8a1666c.json)
-
-[Extended Data](ext_articles/a8a1666c.ext.json)
-
----
-
-### Three persons arrested for stealthily entering the cattle farm of Peradeniya University
-
-*2024-02-14 06:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176318) · `ta`
-
-The Peradeniya Police on Tuesday (13) have arrested three persons for stealing about 150 kg of pigs and selling meat.
-
-The university administration said that the animals were raised for meat and the research activities of the Agricultural Faculty.
-
-Investigations have revealed that the animal farm is located in the university -owned Udaratana area and the persons arrested have entered the farm on Monday night and killed the pig and carried its body parts.
-
-Following a complaint with the Manager of the farm, the manager of the farm had lodged a complaint with the manager of the farm, and the police were investigating a house in Peradeniya area.
-
-Chickens have disappeared on the farm several times before, and the police suspect that these animals may be stolen and sold for meat.
-
-The university administration has said that animals are being raised for meat and research on the Agricultural Faculty.
-
-...
-
-[Data](articles/076a6550.json)
-
-[Extended Data](ext_articles/076a6550.ext.json)
 
 ---

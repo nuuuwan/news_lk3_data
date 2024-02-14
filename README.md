@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 14:02:32**
+As of **2024-02-14 14:17:22**
 
 ## Newspaper Stats
 
-*Scraped **6,936** Articles*
+*Scraped **6,943** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 80
 bbccomsinhala | 93
 dbsjeyarajcom | 149
-economynextcom | 353
+economynextcom | 359
 newsfirstlk | 363
 islandlk | 365
 dailyftlk | 376
@@ -19,18 +19,56 @@ adalk | 591
 tamilmirrorlk | 849
 adaderanalk | 853
 virakesarilk | 875
-adaderanasinhalalk | 970
+adaderanasinhalalk | 971
 dailymirrorlk | 1,019
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,929 (99.9%) of 6,936 articles have been extended.
+6,936 (99.9%) of 6,943 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### Sri Lanka to entertain fresh applicants for Aswesuma subsidy scheme from Jan 15
+
+*2024-02-14 13:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-entertain-fresh-applicants-for-aswesuma-subsidy-scheme-from-jan-15-150788/) · `en`
+
+ECONOMYNEXT – Sri Lanka will entertain new applications for the ‘Aswesuma’ income subsidy scheme from February 15, with payments due to begin from July 2024, State Minister Finance Shehan Semasinghe has said.
+
+The budget has allocated 205 billion rupees for welfare payments in 2024, Semasinghe was quoted in a government statement.
+
+“A discussion was held at the Ministry of Finance with provincial governors, chief secretaries and provincial ministry secretaries regarding getting the support of provincial council officials to make the second round of calling for “Aswesuma” applications a success”, State Minister of Finance Shehan Semasinghe said on X (Twitter).
+
+Sri Lanka’s subsidy scheme is supported by the World Bank and is included in the International Monetary Fund program with a minimum spend as a target.
+
+A large section of the population was thrown in poverty after the central bank printed money to target growth (potential output) and the rupee collapsed from 184 to 360 over two years.
+
+...
+
+[Data](articles/2a61724b.json)
+
+---
+
+### බංග්ලාදේශ කණ්ඩායමෙන් ප්‍රබලයෙක් ඉවතට
+
+*2024-02-14 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193364) · `si`
+
+ශ්‍රී ලංකාව සමඟ පැවැත්වීමට නියමිත එක්දින සහ විස්ස තරගාවලි සඳහා නම්කළ බංග්ලාදේශ සංචිතයට තුන් ඉරියව් ක්‍රීඩක ශකීබ් අල් හසන් නම් කර නොමැති බව වාර්තා වෙයි.
+
+අක්ෂි ආබාධයක් හේතුවෙන් ඔහු ව එම සංචිත සඳහා නම්කර නොමැති බව වාර්තා විය.
+
+මේ අතර අනමුල් හක්, මොහොමඩ් නයිම්, මහමුදුල්ලා, තයිජුල් ඉස්ලාම් සහ ටස්කින් අහමඩ් යන ක්‍රීඩකයින් ශ්‍රී ලංකාවට  එරෙහිව තරගවදින බංග්ලාදේශ සංචිත සඳහා නම්කර තිබුණි.
+
+ශ්‍රී ලංකා - බංග්ලාදේශ විස්සයි විස්ස තරගාවලිය මාර්තු 4, 6 සහ 9 යන දිනවල පැවැත්වෙන අතර එක්දින තරගාවලිය මාර්තු 13 වනදා ආරම්භ වීමට නියමිතය.
+
+◼️
+
+[Data](articles/f3e1940a.json)
+
+---
 
 ### Doctor arrested for selling large stocks of controlled drugs
 
@@ -50,6 +88,8 @@ As such, both, the doctor and his vehicle are due to be produced before the Gamp
 
 [Data](articles/0a44f360.json)
 
+[Extended Data](ext_articles/0a44f360.ext.json)
+
 ---
 
 ### Beruwala Fisheries Harbor security guard found dead
@@ -67,6 +107,8 @@ The deceased individual has been identified as a 57-year-old resident of the Mag
 ◼️
 
 [Data](articles/22fa5073.json)
+
+[Extended Data](ext_articles/22fa5073.ext.json)
 
 ---
 
@@ -88,6 +130,26 @@ The woman was arrested in Polgasuowita area in the Kesbewa Police Division and h
 
 ---
 
+### Sri Lanka’s China-backed Hambantota Port eyes container transshipment
+
+*2024-02-14 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-china-backed-hambantota-port-eyes-container-transshipment-150779/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s China-backed Hamtantota Port Group said it was getting ready for container transshipment in 2024 after gaining a key position in the roll-on-roll-off vehicle shipping business.
+
+“We continue to grow our RORO and bunkering businesses and saw exponential growth in 2023,” Lance Zuo, General Manager, Commercial and Marketing of HIPG said in a statement.
+
+“In 2024 we will be looking at container transshipment for which the port is now ready.”
+
+HIPG delegation had met with Ports Authority of Thailand and Ranong Port to strengthen a partnership.  HIPG hoped to invite teams from the Thai port authority and the Ranong Port to explore and evaluate possible business opportunities.
+
+HIPG had signed an agreement with the Thai Port Authority before the Covid pandemic hit the global economy.
+
+...
+
+[Data](articles/905f08cd.json)
+
+---
+
 ### Bingiriya Investment Zone opens doors for Japanese investors
 
 *2024-02-14 12:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bingiriya-Investment-Zone-opens-doors-for-Japanese-investors/108-277002) · `en`
@@ -101,6 +163,8 @@ This move aims to accommodate the growing interest of Japanese investors eager t
 ...
 
 [Data](articles/c32236ef.json)
+
+[Extended Data](ext_articles/c32236ef.ext.json)
 
 ---
 
@@ -122,6 +186,26 @@ It is noteworthy that the government is planning to train 100 teachers through M
 
 ---
 
+### Sri Lanka asks for JICA support in CEB reform, renewable energy
+
+*2024-02-14 12:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-asks-for-jica-support-in-ceb-reform-renewable-energy-150769/) · `en`
+
+ECONOMYNEXT – The Japan International Cooperation Agency (JICA) is assisting the Ceylon Electricity Board reform process with financial and technical assistance, Sri Lanka’s Minister of Power and Energy has said.
+
+“Currently JICA is actively assisting the reform process of CEB with financial and technical assistance in setting up the reform secretariat and extending experts to the secretariat to implement the reforms,” Kanchana Wijesekera said on social media platform X (twitter).
+
+JICA President Dr Tanaka Akihiko and senior officials held a discussion at the Ministry this morning (14), Wijesekera said.
+
+Wijesekera said he “requested continued assistance for reforms, energy efficiency programs, infrastructure development and integration of Renewable Energy.”
+
+“JICA has assisted vital infrastructure development of the electricity sector and energy efficiency programs with grants, concessionary finance facilities and technical assistance.”
+
+...
+
+[Data](articles/7974dd32.json)
+
+---
+
 ### Education Minister reveals A/L exam results release date
 
 *2024-02-14 12:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Education-Minister-reveals-AL-exam-results-release-date/108-277001) · `en`
@@ -133,6 +217,8 @@ In a recent statement, Minister Premajayantha disclosed that the evaluation proc
 ◼️
 
 [Data](articles/6f60e386.json)
+
+[Extended Data](ext_articles/6f60e386.ext.json)
 
 ---
 
@@ -161,6 +247,8 @@ According to police, the boat had capsized while the 17-year-old youth and a 35-
 ◼️
 
 [Data](articles/119182ec.json)
+
+[Extended Data](ext_articles/119182ec.ext.json)
 
 ---
 
@@ -217,6 +305,26 @@ The charges specifically relate to the “destroying monuments of Soviet soldier
 ...
 
 [Data](articles/92da2309.json)
+
+[Extended Data](ext_articles/92da2309.ext.json)
+
+---
+
+### Sri Lanka main opposition stalwarts waiting to support president, rival parties claim
+
+*2024-02-14 12:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-main-opposition-stalwarts-waiting-to-support-president-rival-parties-claim-150764/) · `en`
+
+ECONOMYNEXT — All is not well at Sri Lanka’s main opposition Samagi Jana Balawegaya (SJB) according to several MPs from rival and newly allied parties who claim that a section of SJB stalwarts plan to extend their support to President Ranil Wickremesinghe.
+
+Both Wickremesinghe’s United National Party (UNP) and the ruling Sri Lanka Podujana Peramuna (SLPP) insist that a crossover is imminent.
+
+UNP general secretary Palitha Range Bandara told reporters on Tuesday February 13 that SJB and opposition leader Sajith Premadasa is trying to cobble together an alliance using spent forces even as the forces to be reckoned with in the opposition camp have started to join the president.
+
+“Mr Premadasa cannot move it forward as a political party. What he has to do is make the smart choice and join the president and the UNP and work for the future of the country,” said Bandara.
+
+...
+
+[Data](articles/8ce16b6b.json)
 
 ---
 
@@ -368,6 +476,26 @@ Accordingly, according to the program implemented by the Ministry of Tourism and
 
 ---
 
+### Sri Lanka rupee trades at 313.20/30 to the US dollar
+
+*2024-02-14 11:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-at-313-20-30-to-the-us-dollar-150746/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading at 313.20/30 to the US dollar Wednesday, from 313.10/30 on Tuesday, dealers said.
+
+A bond maturing on 01.02.2026 was quoted at 10.55/85 percent down from 10.50/60 percent.
+
+A bond maturing on 15.09.2027 was quoted at 11.35/45 percent from 11.40/50 percent.
+
+A bond maturing on 15.03.2028 was quoted at 11.80/90 percent from 11.70/80 percent.
+
+On the Colombo Stock Exchange, the All Share Price Index was up 0.05 percent at 10,562, while the S&P SL20 was down 0.04 percent at 3,021. (Colombo/Feb14/2024)
+
+◼️
+
+[Data](articles/932b16bf.json)
+
+---
+
 ### Two men nabbed with over 1,400 capsules of controlled drugs
 
 *2024-02-14 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97256/two-men-nabbed-with-over-1400-capsules-of-controlled-drugs) · `en`
@@ -434,21 +562,45 @@ Farmers say the government has failed to fulfil its 2021 promise of paying more 
 
 ---
 
-### වගාවට හානි කරන සතුන් වන්ද්‍යාකරණයට
+### Sri Lanka anticipates profitable, self-sustaining postal service by end 2024
+
+*2024-02-14 11:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-anticipates-profitable-self-sustaining-postal-service-by-end-2024-150752/) · `en`
+
+ECONOMYNEXT — A 4 billion-rupee increase in projected revenue for 2023 and a halving of losses year-on-year for Sri Lanka’s Postal Department has prompted the government to declare the state-run service will be profitable and self-sustaining by end 2024.
+
+A revenue projection for Sri Lanka’s state-run Postal Department’s has seen an increase from 9,268 million rupees in 2022 to 13,616 million in 2023, according to State Minister for Mass Media Shantha Bandara.
+
+Bandara told reporters on Tuesday February 13 that the department’s losses have been reduced from 7,173 million rupees in 2021 to 6,832 million in 2022 and to 3,222 million in 2023.
+
+He attributed this to “improved services and enhanced management practices without imposing additional burdens on the public”.
+
+“We are confident that by December 31, 2024, the Postal Department will operate as a self-sustaining, profit-making institution independent of treasury funds,” he said.
+
+...
+
+[Data](articles/6afd3b75.json)
+
+---
+
+### To pilgrimage to cultivated animals
 
 *2024-02-14 11:17:08* · [`adalk`](https://www.ada.lk/breaking_news/වගාවට-හානි-කරන-සතුන්-වන්ද්‍යාකරණයට/11-408075) · `si`
 
-වගාහානිය වළක්වා ගැනීමට සතුන් වන්ධ්‍යාකරණයට ලක්කිරීමේ ක්‍රමවේදයක් සකස්කළ යුතු බවත් රිලවුන්ගෙන්, වඳුරන්ගෙන් සහ මොණරුන්ගෙන් ගාල්ල  දිස්ත්‍රික්කයේ සිදුවන වගාහානිය දරුණු වෙමින් පවතින බවත් ගාල්ල දිස්ත්‍රික් සම්බන්ධීකරණ කමිටු සභාපති පාර්ලිමේන්තු මන්ත්‍රී සම්පත් අතුකෝරළ මහතා කීවේය.
+The area of the Galle District, the Galle District Coordinating Committee Chairman, the Chairman of the Galle District Coordinating Committee Chairman MP MP Resources Mekorale said.
 
-සතුන්ගෙන් සිදුවන වගා හානිය සමස්ත වගාවෙන් තුනෙන් එකක් පමණ වන බවත් මෙයට විසඳුම් ලබාගත නොහැකිනම් ගොවීන් වගාවෙන් ඈත්වීම වැළැක්විය නොහැකි බවත් පැවසූ ගාල්ල දිස්ත්‍රික් ලේකම් ශාන්ත වීරසිංහ මහතා වැඩිදුරටත් කියා සිටියේ වනජීවී දෙපාර්තමේන්තුව සමඟ සාකච්ඡා කළ විට සතුන් ආරක්ෂා කිරීම හැර සතුන්ට හානි කිරීමේ කිසිම දෙයක් කළ නොහැකි බව පවසන බවයි.
+The Galle District Secretary Shantha Weerasinghe said that the damage caused by animals is about one third of the entire cultivation.That is.
 
-“හානිකර සතුන්ගේ ගහන පාලනය කිරීමට විද්‍යාත්මක සහයක් අවශ්‍යයි. පේරාදෙණිය විශ්වවිද්‍යාලය මේ ගැන පර්යේෂණ කර තිබෙනවා. මහනුවර දිස්ත්‍රික්කයේ එවැනි වැඩසටහන් ක්‍රියාත්මක වුණා. අපි සතුන් ආරක්ෂා කිරීම කළ යුතුයි. නමුත් වෙනත් රටවල මෙවැනි හානිකරන සතුන් ගේ ගහනය පාලනය කිරීමට  සතුන් ආරක්ෂා කරන ආයතනම කටයුතු කරනවා.”
+"Scientific partners need to be controlled by" harmful animals. University of Peradeniya has been researched. Such programs were implemented in the Kandy district. We must protect animals. In other countries, the organization that protects animals is to control the population of these harmful animals. "
 
-මෙහි දී අදහස් දැක්වූ කෘෂිකර්ම අමාත්‍යාංශයේ ‍ලේකම් ඒ.යූ.වේලාරත්න මහතා මෙසේ කීවේය.
+Speaking at the meeting, the Secretary of the Ministry of Agriculture A.Walaratwatne said:
+
+"The years auspicious tells us that Morunga plants to land. Eat monkeys. "
 
 ...
 
 [Data](articles/7d443755.json)
+
+[Extended Data](ext_articles/7d443755.ext.json)
 
 ---
 
@@ -1855,133 +2007,5 @@ Nawaloka Hospitals PLC marked strong financial performance for the first two qua
 [Data](articles/58675483.json)
 
 [Extended Data](ext_articles/58675483.ext.json)
-
----
-
-### Aura Lanka Chairman cleared of unauthorised prison entry allegations
-
-*2024-02-14 02:53:43* · [`dailyftlk`](https://www.ft.lk/news/Aura-Lanka-Chairman-cleared-of-unauthorised-prison-entry-allegations/56-758440) · `en`
-
-The committee tasked with investigating allegations against Chairperson of Aura Lanka Group of Companies and President of Aura Lanka Sports Ltd. Viranjith Thambugala, regarding unauthorised entry into Anuradhapura Prison, has concluded that Thambugala had entered the prison with proper permission and did not meet with any prisoners during the visit as alleged.
-
-The committee led by its Chairperson retired High Court Judge Sisira Ratnayake handed over its report to the Minister of Justice, Prison Affairs and Constitutional Reforms, Dr. Wijayadasa Rajapaksha yesterday.
-
-...
-
-[Data](articles/89635081.json)
-
-[Extended Data](ext_articles/89635081.ext.json)
-
----
-
-### Akin to Deck Chairs on the Titanic
-
-*2024-02-14 02:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Akin-to-Deck-Chairs-on-the-Titanic/172-276955) · `en`
-
-People waiting for hours to refill liquefied petroleum gas cylinders during Sri Lanka's economic crisis of 2022
-
-There are worrying signs that policymakers and political parties simply have not grasped the magnitude of the problem at hand. The current direction of Sri Lanka’s economy and the overall mindset of a majority of economic and policy elites within and beyond the State, suggests a trajectory that will keep Sri Lanka dependent on foreign debt-financed trade deficits, vulnerable to shocks from energy prices, and unprepared for the next wave of transformation and economic growth.
-
-...
-
-[Data](articles/447c68dd.json)
-
-[Extended Data](ext_articles/447c68dd.ext.json)
-
----
-
-### NGO Activities Amid Closing Civic Spaces - EDITORIAL
-
-*2024-02-14 02:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/NGO-Activities-Amid-Closing-Civic-Spaces-EDITORIAL/172-276954) · `en`
-
-On 10 February, this newspaper drew attention to a ‘not so new’ law – the ‘Non-Governmental Organisations (Registration and Supervision) Bill’, which the government claims is now ready. The Bill itself has been in the making for a long period, dating back to the era when our present President was Prime Minister of the country in 2017.
-
-The aim of the bill as its name suggests is to register and supervise the activities of the NGOs in the country. Many Lankan leaders have attempted to use NGOs to promote their particular agendas. Unfortunately, at different times NGOs have fallen for the ruses of politicians.
-
-Rather than involving themselves in meeting emergency situations or human needs, a number of NGOs have entangled themselves in narrow party political affiliated activities. However, whatever the rights and wrongs of the situation, what is frightening about the ‘Non-Governmental Organisations (Registration and Supervision) Bill’ is its timing.
-
-...
-
-[Data](articles/8bf3d745.json)
-
-[Extended Data](ext_articles/8bf3d745.ext.json)
-
----
-
-### Counterfactual History: ‘Rohana Wijeweera visiting New Delhi in 1987.’
-
-*2024-02-14 02:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Counterfactual-History-Rohana-Wijeweera-visiting-New-Delhi-in-1987/172-276953) · `en`
-
-On the eve of JVP leader Anura Kumara Dissanayake’s much-talked-about visit to India, let’s take a journey into counterfactual history!
-
-Imagine the late JVP leader, Rohana Wijeweera travelling to New Delhi in 1987, or more plausibly, an industrious J.R. Jayawardene coaxing his Indian counterpart to invite Wijeweera (Granted, that is a tall order, considering that in the JVP’s assessment, payoffs of perpetuating violent opposition to the Indo-Lanka Peace Accord, favoured it over striking a compromise). That favourable context for a violent takeover remained so until Black Cats, PRA, and all the other assorted state-backed anti-JVP para militaries came to life. The JVP started targeting families of military personnel (or someone else did it and conveniently put it on the JVP account), shifting the military attitude into outright hostility towards the JVP.
-
-...
-
-[Data](articles/245cffb3.json)
-
-[Extended Data](ext_articles/245cffb3.ext.json)
-
----
-
-### It is impossible to abolish the executive presidency - Pradeepa Mahanama
-
-*2024-02-14 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/176317) · `ta`
-
-If the executive presidency is to be abolished, the parliament must go to a two -thirds majority in parliament.. Pradeepa Mahanama, former chairman of the Sri Lanka Human Rights Commission, said that it is not possible to abolish the executive presidency.
-
-The abolition of the executive presidency is seen as the current main speech.
-
-The 'Executive Presidential System' is the main feature of the second Republican Constitution in 1978.
-
-The leaders who came to power after 1994 promised to abolish the executive presidency. But the promises made by the people have not been fulfilled. Former President Chandrika Bandaranaike Kumaratunga has taken action through Parliament twice to abolish the executive presidency.
-
-In most of the countries that promote democracy, the executive presidency is not in effect. The Cabinet -led governments that highlight the Parliament are currently in operation, so it is best to abolish the executive presidency.
-
-...
-
-[Data](articles/efe8cab1.json)
-
-[Extended Data](ext_articles/efe8cab1.ext.json)
-
----
-
-### The idea of abolishing the executive presidency: Poisonous orb produced by Chinese
-
-*2024-02-14 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/176314) · `ta`
-
-The idea of abolishing the executive presidency with the support of NGOs has been proposed.. Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya Party (PTA), said that the opposition parties should not be caught.
-
-He made this statement during a media briefing held at the Bivithuru Hela Urumaya (JHU) office in Colombo on Tuesday (13).
-
-President Ranil Wickremesinghe, who came to power, is doing well, except for the economic recovery, claiming to be a solution to the economic crisis.
-
-The proposal has made the idea of abolishing the executive presidency with the blessings of NGOs. When the proposal was put forward, Opposition Leader Sajith Premadasa said, "The executive presidency of the executive presidency is ready to support the dissolution of parliament.". Therefore, when the idea is successful this time, Parliament and the dismantling of the dissolution of the new idea have been embedded in a new idea.
-
-...
-
-[Data](articles/e4b29b49.json)
-
-[Extended Data](ext_articles/e4b29b49.ext.json)
-
----
-
-### Electronic Media Broadcasting Authority Act is expected -Santha Bandara
-
-*2024-02-14 01:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176313) · `ta`
-
-Minister of State for Media Shantha Bandara said that the Electronic Media Broadcasting Authority Act is expected to be submitted to Parliament.
-
-The Minister of State said he expects a national media policy and that it has now been submitted for the approval of the Cabinet.
-
-State Minister Shantha Bandara said this at a media briefing held at the Presidential Media Center on Tuesday (13).
-
-One of the main challenges we face today is the problem of managing income and costs.We have paid special attention to the 16 companies below the Ministry. Most of them rely on the Treasury. Therefore, we have taken steps to move these companies independently.
-
-...
-
-[Data](articles/67309243.json)
-
-[Extended Data](ext_articles/67309243.ext.json)
 
 ---

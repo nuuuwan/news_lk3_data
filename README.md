@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 22:33:01**
+As of **2024-02-14 22:49:47**
 
 ## Newspaper Stats
 
-*Scraped **7,060** Articles*
+*Scraped **7,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailyftlk | 376
 adalk | 603
 tamilmirrorlk | 858
 adaderanalk | 867
-virakesarilk | 904
-adaderanasinhalalk | 996
+virakesarilk | 905
+adaderanasinhalalk | 997
 dailymirrorlk | 1,035
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,057 (100.0%) of 7,060 articles have been extended.
+7,060 (100.0%) of 7,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### අතවර සිද්ධියකට සැකකරුවෙකු අත්අඩංගුවට
+
+*2024-02-14 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193391) · `si`
+
+බස් රථයකදී තරුණියකට අතවර කළ බවට සඳහන් චෝදනාව යටතේ පුද්ගලයෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 36 හැවිරිදි වියේ පදිංචි විවාහක පුද්ගලයෙකි.
+
+මොණරාගල සිට මහනුවර දක්වා ධාවනය වෙමින් තිබූ බස් රථයකදී එහි සිටි තරුණියකට සැකකරු විසින් අතවර කළ බවට ඔහුට විරුද්ධව චෝදනා එල්ලවී තිබේ.
+
+◼️
+
+[Data](articles/c8ced00d.json)
+
+---
+
+### பேஸ்லைன் புகையிரத நிலையத்திற்கு அருகே தீ
+
+*2024-02-14 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176401) · `ta`
+
+பேஸ்லைன் புகையிரத நிலையத்திற்கு அருகில் உள்ள வெற்றிடமாக உள்ள நிலத்தில் புதன்கிழமை (14) பிற்பகல் தீ விபத்து ஏற்பட்டுள்ளது.
+
+தீ விபத்துக்கான காரணம் இதுவரை தெரியவராத நிலையில், பொலிஸார் விசாரணை நடத்தி வருகின்றனர்.
+
+◼️
+
+[Data](articles/77e77fc1.json)
+
+---
 
 ### Increase in tourist arrivals
 
@@ -70,25 +100,31 @@ Sri Lanka is 10 ranks above Syria, which is at the bottom at 94.
 
 [Data](articles/5d91e423.json)
 
+[Extended Data](ext_articles/5d91e423.ext.json)
+
 ---
 
-### ஒவ்வொரு கிராமத்தையும் மேம்படுத்த வேண்டும் என்பதே அரசின் கொள்கை - அமைச்சர் பிரசன்ன ரணதுங்க
+### The government's policy is to improve every village - Minister Prasanna Ranatunga
 
 *2024-02-14 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176400) · `ta`
 
-குளிரூட்டப்பட்ட அறைகளிலிருந்து கொண்டு அபிவிருத்தி திட்டங்களை முன்னெடுக்கும் கொள்கையிலிருந்து தற்போதைய அரசாங்கம் இல்லை என நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்தார்.
+Minister of Urban Development and Housing Prasanna Ranatunga said that there is no current government from the policy of carrying out development projects from the refrigerated rooms.
 
-மக்களின் கருத்துக்களை உள்வாங்கி மக்களின் தேவைகளைக் கருத்திற் கொண்டே அபிவிருத்தி திட்டங்கள் முன்னெடுக்கப்படுவதாக அவர் வலியுறுத்தியுள்ளார்.
+He emphasized that development projects are being carried out in view of the needs of the people.
 
-அதற்கேற்ப ஒவ்வொரு கிராமத்தையும் அபிவிருத்தி செய்வதே அரசாங்கத்தின் கொள்கை எனவும் அமைச்சர் குறிப்பிட்டார்.
+The Minister said that the government's policy is to develop every village accordingly.
 
-கேகாலை மாவட்ட ஒருங்கிணைப்புக் குழுக் கூட்டத்தில் இன்று (14) இடம்பெற்ற “மலை நாட்டு எழுச்சி தசாப்தம்” அபிவிருத்தி வேலைத்திட்டம் தொடர்பில் அதிகாரிகளுக்கு அறிவிக்கும் நிகழ்வில் கலந்து கொண்டு அமைச்சர் பிரசன்ன ரணதுங்க இதனைத் தெரிவித்தார். கேகாலை மாவட்ட செயலகத்தில் நடைபெற்றது.
+Minister Prasanna Ranatunga made this observation at a function to announce to the authorities on the "Mountain Rise Decade" Development Program held today (14) at the Kegalle District Coordinating Committee meeting. Held at the Kegalle District Secretariat.
 
-கேகாலை மாவட்ட ஒருங்கிணைப்புக் குழு அதன் தலைவர் நாடாளுமன்ற உறுப்பினர் ராஜிகா விக்கிரமசிங்க மற்றும் சப்ரகமுவ மாகாண ஆளுநர் நவீன் திசாநாயக்க தலைமையில் நடைபெற்றது.
+The Kegalle District Coordinating Committee was chaired by its Chairman Rajika Wickremesinghe and Sabaragamuwa Provincial Governor Naveen Dissanayake.
+
+The Minister also emphasized that the independence has been given to each district to implement its own development projects.
 
 ...
 
 [Data](articles/3e196d23.json)
+
+[Extended Data](ext_articles/3e196d23.ext.json)
 
 ---
 
@@ -1428,25 +1464,29 @@ In addition, photovoltaic modules and accessories, power conditioners and access
 
 ---
 
-### ஜே.வி.பி.முன்னிலையில் உள்ளதை ஏற்றுக்கொள்ள வேண்டும் - உதய கம்மன்பில
+### The JVP must accept what is in Munnila - Udaya Kammanpila
 
 *2024-02-14 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176355) · `ta`
 
-மக்கள் விடுதலை முன்னணி கடந்த காலங்களை காட்டிலும் தற்போது முன்னிலையில் உள்ளது என்பதை ஏற்றுக்கொள்ள வேண்டும்.
+It must be accepted that the Janatha Vimukthi Peramuna (JVP) is currently in the present presence than in the past.
 
-இந்த முன்னேற்றத்தை ஏற்க முடியாத மனநிலையில் ஒருசில அரசியல் தரப்பினர் இல்லை என பிவிதுறு ஹெல உறுமய கட்சியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில குறிப்பிட்டார்.
+Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya (Hela Urumaya Party), said that there were no political parties in the mood to accept this progress.
 
-கொழும்பில் புதன்கிழமை (14) இடம்பெற்ற நிகழ்வில் கலந்துக் கொண்டதன் பின்னர் 'மக்கள் விடுதலை முன்னணியின் முன்னேற்றம்' தொடர்பில் ஊடகங்கள் எழுப்பிய கேள்விக்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+He was responding to a question raised by the media regarding the 'JVP's progress' after attending a function in Colombo on Wednesday (14).
 
-இந்த ஆண்டு ஜனாதிபதி தேர்தல் இடம்பெறவுள்ள நிலையில் ஒருசில கருத்துக்கணிப்புக்கள் ஊடாக மக்கள் விடுதலை முன்னணி கட்சி என்ற ரீதியில் முன்னிலையில் இருப்பதாக குறிப்பிடப்படுகிறது. எழுமாற்றாக எடுக்கப்படும் கருத்துக்கணிப்புக்களில் உண்மைத்தன்மை சந்தேகத்துக்குரியது.
+With a few polls to be held this year, the Janatha Vimukthi Peramuna (JVP) is said to be present.. The truthfulness of the polls taken, is doubtful.
 
-தற்போதைய நிலையில் மக்கள் விடுதலை முன்னணியினர் தற்போது முன்னிலையில் உள்ளார்கள் என்பதை ஏற்றுக்கொள்ள வேண்டும்.
+At present, the People's Liberation Front must accept that the presence of the Liberation Front is currently in the forefront.
 
-அரசியலில் வங்குரோத்து நிலையடைந்துள்ளவர்கள் இதனை ஏற்றுக்கொள்ள மறுக்கிறார்கள். ஆனால் நாங்கள் உண்மையை ஏற்றுக்கொள்வோம்.
+Those who have become bankrupt in politics refuse to accept this. But we will accept the truth.
+
+According to the Constitution this year, the presidential election must be held. Internal maneuvers are rapidly carried out to regain the election rather than prioritize the election.
 
 ...
 
 [Data](articles/fdb9a2ad.json)
+
+[Extended Data](ext_articles/fdb9a2ad.ext.json)
 
 ---
 
@@ -2021,47 +2061,5 @@ There is a law in a country. There is something that justice and fairness. The l
 [Data](articles/e2069bac.json)
 
 [Extended Data](ext_articles/e2069bac.ext.json)
-
----
-
-### Can create departmental experts
-
-*2024-02-14 13:52:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துறைசார்-நிபுணர்களை-உருவாக்க-முடியும்/175-333188) · `ta`
-
-President Ranil Wickremesinghe pointed out that the new education system is essential for the world to lead the country to economic change and thereby creating a competitive world market.
-
-The President said that it is expected to reduce the exam load, educate English and technical subjects, and create students who are entertaining professionalism and are planning to establish new vocational colleges and technical universities.
-
-President Ranil Wickremesinghe made this statement while addressing the national event of providing free school textbooks and school uniforms at St. Anthony's College of St. Anthony's Girls, Kaluppitti.
-
-There are five schools near my house. I learned Royal College and Therston College, Women's College, Mahanama College and St. Anthony's College. So I have been able to focus more on the education sector. During the reign of President JR Jayawardene, we focused on the development of these schools.
-
-...
-
-[Data](articles/5e89092c.json)
-
-[Extended Data](ext_articles/5e89092c.ext.json)
-
----
-
-### Harsha who caught work from where stopped
-
-*2024-02-14 13:48:56* · [`adalk`](https://www.ada.lk/breaking_news/නතර-කළ තැන-සිට-වැඩ-ඇල්ලූ-හර්ෂ/11-408081) · `si`
-
-The safety transfer bill will be resumed and resumed and resumed
-
-Finance Ministry's Director General of Finance Policy Sample to resolve the delay in setting up a casino regulatory authority: The Committee emphasizes the need for a casino income collection system
-
-MP Dr. Harsha de Silva has been repeated as the Chairman of the Committee on Government Finance at the inauguration meeting of the Committee on Public Finance yesterday (13).
-
-The Director General of Finance Policy of the Ministry of Finance was invited to consult a significant delay in the establishment of a Regulatory Institute for Casinos as recommended by the Committee on Government Finance. The committee on the government's finance was agreed to set up a regulatory institution by December 31, 2023, the delay was investigated.
-
-The committee members stressed the importance of this regulatory company to attract investments and recovering billions of billionaires.
-
-...
-
-[Data](articles/8b0c5db9.json)
-
-[Extended Data](ext_articles/8b0c5db9.ext.json)
 
 ---

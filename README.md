@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 03:50:17**
+As of **2024-02-15 04:02:27**
 
 ## Newspaper Stats
 
-*Scraped **7,093** Articles*
+*Scraped **7,094** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 365
 economynextcom | 370
 dailyftlk | 389
 adalk | 603
-tamilmirrorlk | 861
+tamilmirrorlk | 862
 adaderanalk | 868
 virakesarilk | 912
 adaderanasinhalalk | 998
@@ -26,11 +26,29 @@ dailymirrorlk | 1,041
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,093 (100.0%) of 7,093 articles have been extended.
+7,093 (100.0%) of 7,094 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### 1,600 போதை குளிசைகளுடன் வைத்தியர் கைது
+
+*2024-02-15 02:55:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-600-போதை-குளிசைகளுடன்-வைத்தியர்-கைது/175-333228) · `ta`
+
+ஆயிரத்து 600 போதை மாத்திரைகளுடன் வைத்தியர் ஒருவர் கம்பளை, ஏத்கால பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+பேராதனை வைத்தியசாலையில் சேவையாற்றும் 49 வயதான வைத்தியர் ஒருவரே, செவ்வாய்க்கிழமை (12) இரவு 11 மணியளவில் இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+பேராதனை பகுதியில் இருந்து, கம்பளை ,ஜயமாலபுர பகுதிக்கு போதை மாத்திரைகளை எடுத்துவந்த வேளையிலேயே, ஏத்கால பொலிஸ் நிலைய பொறுப்பதிகாரி தம்மிக்க கெக்குலந்தர தலைமையிலான பொலிஸ் குழுவினரால் குறித்த வைத்தியர் கைது செய்யப்பட்டுள்ளார்.
+
+அவரிடமிருந்த போதை மாத்திரைகள் கைப்பற்றப்பட்டுள்ளன, வைத்தியருக்குரிய அடையாள சின்னத்துடன் அவர் பயணித்த வாகனமும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது. விசாரணைகளின் பின்னர் அவர் நீதிமன்றத்தில் முற்படுத்தப்படவுள்ளார் என தெரிவித்த கம்பளை ஏத்கால பொலிஸார், மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/94612bb0.json)
+
+---
 
 ### ADB to help develop smart agriculture in Mahaweli Zones
 
@@ -2007,29 +2025,5 @@ The US has banned Prabhovo Subiona on the basis of kidnapping and murdering pro 
 [Data](articles/bd588e5c.json)
 
 [Extended Data](ext_articles/bd588e5c.ext.json)
-
----
-
-### Mahindananda’s money laundering case: Date set to deliver verdict
-
-*2024-02-14 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97267/mahindanandas-money-laundering-case-date-set-to-deliver-verdict) · `en`
-
-The Colombo High Court has fixed a date to deliver the verdict of a money laundering case filed against former Minister and SLPP Parliamentarian Mahindananda Aluthgamage.
-
-Accordingly, when the case was taken up today (Feb. 14), Colombo High Court Judge Nawarathne Marasinghe ordered that the verdict will be issued on April 25, 2024.
-
-Mahindananda Aluthgamage has been charged with failure to declare the source of funds used to purchase a luxury house worth Rs. 27.4 million at Kynsey Road in Borella, during his tenure as a minister.
-
-The Attorney General had filed indictments against the ex-minister under the the Prevention of Money Laundering Act, in the year 2017.
-
-When the case was taken up today, Senior Deputy Solicitor General Shanil Kularatne who appeared on behalf of the Attorney General and Attorney-at-Law Kanchana Ratwatte who appeared on behalf of the defendant made oral submissions related to the case.
-
-The written submissions are expected to be handed over to the court in the future.
-
-◼️
-
-[Data](articles/6aa69f2a.json)
-
-[Extended Data](ext_articles/6aa69f2a.ext.json)
 
 ---

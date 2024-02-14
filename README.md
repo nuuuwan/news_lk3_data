@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 11:02:32**
+As of **2024-02-14 11:17:11**
 
 ## Newspaper Stats
 
-*Scraped **6,888** Articles*
+*Scraped **6,889** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 365
 dailyftlk | 376
 adalk | 584
 tamilmirrorlk | 843
-adaderanalk | 843
+adaderanalk | 844
 virakesarilk | 868
 adaderanasinhalalk | 962
 dailymirrorlk | 1,012
@@ -26,11 +26,29 @@ dailymirrorlk | 1,012
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,888 (100.0%) of 6,888 articles have been extended.
+6,888 (100.0%) of 6,889 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### Govt. to intervene in paddy purchasing - Agri. Minister
+
+*2024-02-14 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97252/govt-to-intervene-in-paddy-purchasing-agri-minister) · `en`
+
+The paddy purchases will be made through the intervention of the government this time, says Agriculture Minister Mahinda Amaraweera.
+
+However, the Minister expressed that there the farmers are facing a problematic situation regarding the prices of paddy.
+
+“We need to consult farmers’ organizations before taking decisions. This time, we recommended commencing the cultivation first. Our recommendation is to conduct all cultivation activities before the Sinhala and Tamil New Year.”
+
+“There is an issue pertaining to the prices of paddy. The purchasing of paddy will be carried out under purview of the Ministry of Finance. Financial support is facilitated through banks. We will intervene in it.”
+
+◼️
+
+[Data](articles/d18edf4d.json)
+
+---
 
 ### 1,700 years old chicken egg
 
@@ -1991,23 +2009,5 @@ The bill passed the Senate despite Johnson’s criticism of the legislation and 
 [Data](articles/b6045e20.json)
 
 [Extended Data](ext_articles/b6045e20.ext.json)
-
----
-
-### US Senate passes $95 billion Ukraine aid bill
-
-*2024-02-13 18:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/US-Senate-passes-95-billion-Ukraine-aid-bill/107-276932) · `en`
-
-US, Feb 13- The US Senate passed a $95.3 billion foreign aid bill with assistance for Ukraine and Israel in a vote early Tuesday morning, setting up a showdown with the House as Speaker Mike Johnson has criticized the legislation.
-
-The foreign aid package includes billions of dollars to support Ukraine and for security assistance for Israel, as well as humanitarian assistance for civilians in Gaza, the West Bank and Ukraine, among other priorities. It’s unclear whether Johnson would hold a vote on it and many House Republicans are opposed to further aid to Ukraine.
-
-The bill passed the Senate despite Johnson’s criticism of the legislation and former President Donald Trump signaling opposition to the bill by arguing the US should stop providing foreign aid unless it is in the form of a loan. The Senate vote was 70 to 29 with 22 Republicans voting in favor, including Senate Minority Leader Mitch McConnell.
-
-...
-
-[Data](articles/bee3ff0a.json)
-
-[Extended Data](ext_articles/bee3ff0a.ext.json)
 
 ---

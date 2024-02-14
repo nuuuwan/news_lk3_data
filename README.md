@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 15:17:07**
+As of **2024-02-14 15:32:43**
 
 ## Newspaper Stats
 
@@ -26,63 +26,77 @@ dailymirrorlk | 1,019
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,957 (99.9%) of 6,961 articles have been extended.
+6,961 (100.0%) of 6,961 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### රෝහල්වලට සෙබළු 1100ක්
+### 1100 soldiers for hospitals
 
 *2024-02-14 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193367) · `si`
 
-සෞඛ්‍ය වර්ජනය හේතුවෙන් අඬාල වූ රෝහල් කටයුතු බාධාවකින් තොරව සිදුකර ගැනීම සඳහා තවදුරටත් යුද හමුදා සෙබළුන් 1,100ක් යොදවා ඇතැයි ශ්‍රී ලංකා යුද හමුදාව පවසයි.
+The Sri Lanka Army says that 1,100 soldiers have been deployed to carry out their hospitality due to health strike.
 
-රජයේ රෝහල්වල සෞඛ්‍ය වෘත්තීය සමිති 72ක් ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් ඊයේ (13) දිනයේදී වැඩවර්ජනයක් ආරම්භ කළේය.
+72 health unions in government hospitals launched a strike yesterday (13).
 
-එය දෙවැනි දිනටත් අද දිනයේ ද සිදුකිරීම හේතුවෙන් මහජනතාව දැඩි ලෙස අසිරුතාවයට පත්ව ඇති අතර, සෞඛ්‍ය පද්ධතිය සාමාන්‍ය පරිදි පවත්වාගෙන යෑම සඳහා යුද හමුදාපති ලුතිනන් ජෙනරාල් විකුම් ලියනගේ උපදෙස් මත මෙම භටපිරිස් යෙදවා ඇත.
+The public has been severely inherity due to the second day and today, and the health system has been deployed on the instructions of the Army Commander Lieutenant General's Advice to maintain the health system normal.
 
-ඒ අනුව  දැනට බටහිර, මධ්‍යම, නැගෙනහිර සහ වන්නි ආරක්‍ෂක සේනා ආඥාපතිවරුන්ගේ පුර්ණ අධීක්‍ෂණය යටතේ කොළඹ සහ මහනුවර ජාතික රෝහල් කලුබෝවිල, කරාපිටිය, මහමෝදර, පේරාදෙණිය, අනුරාධපුර සහ කුරුණෑගල ශික්ෂණ රෝහල් ද අක්‍ෂි රෝහල කොළඹ, මාතලේ, පොළොන්නරුව, මැදිරිගිරිය, හිගුරක්ගොඩ, මඩකලපුව, දෙහිඅත්තකණ්ඩිය, හම්බන්තොට, දෙබරවැව, රත්නපුර, බලංගොඩ, ඇහැළියගොඩ, නාවලපිටිය, බදුල්ල, ඇල්පිටිය, හෝමාගම සහ කෑගල්ල ඇතුළු රෝහල් 64ක දෛනික කටයුතු බාධාවකින් තොරව අඛණ්ඩව පවත්වාගෙන යාම සඳහා යුද හමුදාව යොදවා තිබේ.
+Accordingly, in Colombo and Kandy National Hospital Kubwila, Kandy National Hospital Kubwilage, Kandy, Kandy and Kurunegala, Galle and Kurunegala, Kurunegala and Kurunegala, Kurunegala and Kurunegala, Colombo and Dehiattakadiya, Colombo, Matale and Kurunegala, Medirigiriya, Hambantota, DehiattakarayaThe army has been deployed to continue at 64 hospitals, including Hambantota, Debarawewa, Ratnapura, Nahelliyagoda, Badulla, Elpitiya and Kegalle.
 
-...
+The Army Commander has instructed to take all possible measures to be carried out in the future without any obstacles.
+
+◼️
 
 [Data](articles/2a12d3b5.json)
 
+[Extended Data](ext_articles/2a12d3b5.ext.json)
+
 ---
 
-### මහින්දානන්දට එරෙහි නඩුවක තීන්දුව ලබන 25
+### Differences on a case against Mahindananda
 
 *2024-02-14 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193368) · `si`
 
-හිටපු අමාත්‍ය පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතාට විරුද්ධ ව පනවා ඇති නඩුවක තීන්දුව ලබන අප්‍රේල් 25 වැනි දා ප්‍රකාශ කිරීමට නියමිත බව වාර්තා වේ.
+It is reported that the verdict of former Minister MP Mahindananda Aluthgamage is to be announced on April 25.
 
-කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා අද (14) මේ බව සඳහන් කර ඇත.
+Colombo High Court Judge Navasinghe said this today (14).
 
-අමාත්‍යවරයකු ලෙස සිටි සමයේ අයථා ලෙස උපයා ගත් බවට සැලකෙන රුපියල් ලක්ෂ 274ක මුදලක් යොදවා බොරැල්ල ප්‍රදේශයේ පිහිටි සුඛෝපභෝගී නිවසක් මිල දී ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් හිටපු අමාත්‍යවරයාට මෙම චෝදනාව එල්ල වී තිබේ.
+The former Minister has been charged with the purchase of a luxury home in Borella.
 
-නීතිපතිවරයා විසින් අමාත්‍යවරයාට එරෙහි ව මෙම නඩුව ගොනු කර ඇත.
+The case has been filed against the Minister by the Attorney General.
 
-නඩුව අද කැඳවූ අවස්ථාවේ නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි ජ්‍යේෂ්ඨ නියෝජ්‍ය සොලිසිටර් ජනරාල් සනිල් කුලරත්න මහතා සහ විත්තිකාර මහින්දානන්ද අලුත්ගමගේ වෙනුවෙන් පෙනී සිටි ජ්‍යේෂ්ඨ නීතිඥ කාංචන රත්වත්තේ මහතා නඩුව සඳහා වාචික කරුණු දැක්වීම් සිදු කර තිබේ.
+Senior Deputy Solicitor General Sanil Kularatne, who appeared for the Attorney General Sanil Kularatne and Senior Attorney General Sanil Kularatne appearing on behalf of the Attorney General, has been selected for the Attorney General Mahindananda Aluthgamage.
 
 ◼️
 
 [Data](articles/49ff920d.json)
 
+[Extended Data](ext_articles/49ff920d.ext.json)
+
 ---
 
-### උසස් පෙළ ප්‍රතිඵල මැයි -ජුනි වනවිට
+### A / L results at May-JJs
 
 *2024-02-14 14:09:18* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-ප්‍රතිඵල-මැයි--ජුනි-වනවිට/11-408083) · `si`
 
-පසුගිය වර්ෂයේ පැවැත්වීමට තිබූ උසස් පෙළ විභාගය සති පහකින් කල් දැමීමට සිදුවීම හේතුවෙන් 2024 ජනවාරි මාසයේ පැවැත්වීමට සිදුවූ බවත්,  ඒ අනුව 2024 නව පාසල් වාරය ද පෙබරවාරි මස 19 වන සදුදායින් ආරම්භ කිරීමට කටයුතු යොදා ඇති බවත්, උසස් පෙළ විභාගයේ ප්‍රතිඵල මෙවර සාමාන්‍ය පෙළ විභාගය පැවැත්වීමට පෙර මෙම වර්ෂයේ මැයි - ජුනි මාස ඇතුළත ලබාදීමට කටයුතු යොදන බවත්, මේ වර්ෂයට අයත් උසස් පෙළ විභාගය ද 2025 වසරට පෙර පවත්වා සියලු‍ විභාග යථාවත් කරන බවත්, ඒ අනුව 2025 නව පාසල් වාරය සාමාන්‍ය පරිදි ජනවාරි මාසයේ මුල සිට ආරම්භ කිරීමට සියලු‍ පියවර ගන්නා බවත් අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+In January 2024, the 2024 new school term will be held in five weeks, according to the year 20Minister of Education Dr. Susil is the Advanced Level Examination of the year - May - May - 2025 New SchoolsSamanantha said.
 
-අමාත්‍යවරයා මේ අදහස් පළ කළේ, ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් කොළඹ ශාන්ත අන්තෝනි බාලිකා විද්‍යාලයේ පැවති පාසල් පෙළ පොත් හා නිල ඇදුම් රෙදි බෙදා දීමේ ජාතික වැඩසටහනට අද (14)  පෙරවරුවේ එක්වෙමිනි.
+The Minister made these comments participating in the National Program of Distribution of School Books and uniforms at St. Anthony's Girls' School.
 
-රාජ්‍ය මුද්‍රණ සංස්ථාව ලාභ ලබන ආයතනයක් බවට පත් කිරීමට තමාට හැකිවූ බවත් රුපියල් මිලියන දෙදහසක ලාභයක් ලබාගත් බවත් අමාත්‍යවරයා පැවසීය.
+The Minister said that he had been able to make the State Printing Corporation a profitable institution.
+
+Equipped with new technology and knowledge from preschool education to higher education
+
+Minister of Education, Dr. Susil Premajayantha said that the Ministry of Education is committed to creating their children.
+
+This year's National Ceremony to distribute school textbooks and uniforms for school students including Pirivena Buddhist students and Salamapas.. The government has spent nearly Rs. 12 billion for printing of textbooks.
 
 ...
 
 [Data](articles/20d010fd.json)
+
+[Extended Data](ext_articles/20d010fd.ext.json)
 
 ---
 
@@ -578,19 +592,21 @@ Therefore, the NFCO has decided to launch a silent protest in front of the BMICH
 
 ---
 
-### ජනපතිගේ කොන්ත්‍රාත්තුවක් ගැන සජිත් කියයි
+### Sajith says about President's contract
 
 *2024-02-14 12:05:56* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-කොන්ත්‍රාත්තුවක්-ගැන-සජිත්-කියයි/11-408078) · `si`
 
-විධායක ජනාධිපති ක්‍රමය අහෝසි කිරිම සමගි ජන බලවේගයේ ප්‍රතිපත්තිය බවත් ඒ තුළ නිර්මාණය වූ ඒකාධිපතීත්වය, දැවැන්ත බල පරාක්‍රමය මෙරට පුරවැසියන්ගේ අයිතින් උල්ලංඝනය වන බැවින් මෙහි පැහැදිලි වෙනසක් සිදු විය යුතු බවත් එය අහෝසි කිරීමේ මුවාවෙන් ජනාධිපතිවරණයක් පැවැත්වීමට බාධා කිරීමට ඉඩ නොදෙන බවත් විපක්ෂ නායකවරයා පැවසීය.
+The Opposition Leader said that the policy of the executive presidency is the policy of the people, the dictatorship of the country is the rights of the country and will not be allowed to hinder a presidential election.
 
-පළාත් පාලන ඡන්දය නිවැරදි දිනට නොපවත්වා ඒ සදහා මුදල් ලබා නොදී ජනතාවගේ ඡන්ද අයිතිය උල්ලංඝනය කරන ආණ්ඩුවක් රටේ ඇති බවත් එවන් ආණ්ඩුවකට ජනතාවගේ සර්ව ජන ඡන්ද බලය නිශේධ කරන්න සහයෝගය ලබා නොදෙන බවත් විධායක ජනාධිපති ක්‍රමය අහෝසි කරන්නේ මැතිවරණයකට අදහස් ප්‍රකාශ කිරීමේ අයිතිය ලබා දීමෙන් පසුව බවත් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+The Executive Presidency Sajith can be abolished that the government is not able to support the right of the people by the local government or that the government is not able to express the right to an election.Mr. Premadasa said.
 
-විවිධ පුද්ගලයන් සහ කණ්ඩායම් ජනාධිපතිවරයාගේ කොන්ත්‍රාත් බාර ගෙන විධායක ජනාධිපති ක්‍රමය අහෝසි කළ යුතු බවට මතවාද ගෙන යන බවත් එය ජාතික අවශ්‍යතාවට නොව පුද්ගලික දේශපාලන ආයු කාලය දීර්ඝ කර ගැනීමට උත්සාහ කිරිමක් බවත් ඒ සදහා ඉඩ ලබා නොදෙන බවත් විපක්ෂ නායකවරයා තවදුරටත් පැවසීය.
+The Opposition Leader added that the presidential and groups of various individuals and the president's contract they should abolish the executive presidency and trying to expand their political life, and not to extend private political life.
 
 ◼️
 
 [Data](articles/4ff8e3bc.json)
+
+[Extended Data](ext_articles/4ff8e3bc.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 20:17:11**
+As of **2024-02-14 20:33:47**
 
 ## Newspaper Stats
 
-*Scraped **7,032** Articles*
+*Scraped **7,036** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ islandlk | 365
 economynextcom | 369
 dailyftlk | 376
 adalk | 601
-tamilmirrorlk | 857
+tamilmirrorlk | 858
 adaderanalk | 865
 virakesarilk | 897
 adaderanasinhalalk | 988
-dailymirrorlk | 1,028
+dailymirrorlk | 1,031
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,026 (99.9%) of 7,032 articles have been extended.
+7,032 (99.9%) of 7,036 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### நிலையான மின் விநியோகத்துக்கான திட்டத்திற்கு ஜப்பான் உதவி
+
+*2024-02-14 19:56:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலையான-மின்-விநியோகத்துக்கான-திட்டத்திற்கு-ஜப்பான்-உதவி/175-333212) · `ta`
+
+“வைத்தியசாலைகளில் புதுப்பிக்கத்தக்க வலுவை பயன்படுத்தி நிலையான மின் விநியோகத்துக்கான திட்டம்” என்பதற்காக 1.23 பில். யென்களை ஜப்பான் வழங்கியுள்ளது.
+
+வைத்தியசாலைகளில் நிலவும் மின் விநியோக நெருக்கடி நிலையை மேம்படுத்துவதற்காக 1.23 பில்லியன் ஜப்பானிய யென்களை வழங்குவதற்கான உடன்படிக்கையில் இலங்கைக்கான ஜப்பானிய தூதுவர் மிசுகொஷி ஹிதேகி மற்றும் நிதி, பொருளாதார உறுதிப்படுத்தல் மற்றும் தேசிய கொள்கைகள் அமைச்சின் செயலாளர் கே.எம்.எம். சிறிவர்தன ஆகியோர் கைச்சாத்திட்டிருந்தனர்.
+
+இந்த உதவியினூடாக, ஸ்ரீ ஜயவர்தனபுர பொது வைத்தியசாலை, இரத்தினபுரி போதனா வைத்தியசாலை மற்றும் குருநாகல் போதனா வைத்தியசாலை ஆகியவற்றில் காபன் வெளிப்பாட்டை குறைப்பதற்கும், மின்சார செலவுகளால் ஏற்படும் நெருக்கடியை தணிப்பதற்கும் எதிர்பார்க்கப்படுகின்றது.
+
+...
+
+[Data](articles/1cdd02f4.json)
+
+---
 
 ### Health sector trade unions call-off strike
 
@@ -46,25 +62,31 @@ Accordingly, the strike is to be suspended at 6.30 a.m. tomorrow (15), the trade
 
 [Data](articles/9dce2f0e.json)
 
+[Extended Data](ext_articles/9dce2f0e.ext.json)
+
 ---
 
-### தொடரும் புறக்கணிப்பால் வைத்தியசாலை நடவடிக்கைகள் பாதிப்பு
+### Hospital activities impact by continuing boycott
 
 *2024-02-14 19:46:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடரும்-புறக்கணிப்பால்-வைத்தியசாலை-நடவடிக்கைகள்-பாதிப்பு/175-333211) · `ta`
 
-நாடளாவிய ரீதியில் பணிப்புறக்கணிப்பு போராட்டத்தை தொடர சுகாதார துறையின் தொழிற்சங்கங்கள் தீர்மானித்துள்ளதால், நாடு முழுவதும் சுகாதார சேவைகள் முடங்கியுள்ளதுடன், நோயாளிகள் சிரமத்துக்குள்ளாகியுள்ளனர்.
+The health department's unions have decided to continue the workforce struggle across the country, and health services across the country have been paralyzed and patients are inconvenienced.
 
-மேலும், அரச மருந்துக் கூட்டுத்தாபனத்திற்குச் சொந்தமான மருந்தகங்களில் இன்று காலை முதல் மருந்துகள் விநியோகிக்கப்படாமையால் நீண்ட வரிசையில் மக்கள் காத்திருந்தமையை நாடளாவிய ரீதியில் அவதானிக்க முடிந்தது.
+Moreover, the people of the state have been waiting for the country to be waiting for a long line of pharmaceuticals from the state pharmaceutical corporation.
 
-நேற்று (13) காலை 6.30 மணி முதல் ஆரம்பிக்கப்பட்ட பணிப்புறக்கணிப்பு, நிதியமைச்சின் அதிகாரிகளுடன் நடத்திய பேச்சுவார்த்தை தோல்வியடைந்ததை அடுத்து தொடர்கிறது.
+The workforce, which began yesterday (13) at 6.30 am, continues following the failure of talks with the Finance Ministry officials.
 
-வேலைநிறுத்த நடவடிக்கையின் பிரதான காரணமானது போக்குவரத்து கொடுப்பனவில் தொடரும் (DAT) நீடித்த மற்றும் சர்ச்சைக்குரிய கருத்து வேறுபாடு ஆகும் என்று சுகாதார வல்லுநர்கள் கூட்டமைப்பின் தலைவர் ரவி குமுதேஷ் தெரிவித்துள்ளார்.
+Ravi Kumudesh, president of the Health Experts Federation, said the main reason for the strike was the continuing and controversial disagreement in transport payments (DAT).
 
-வைத்தியர்களுக்கு வழங்கப்பட்ட DAT கொடுப்பனவுக்கு நிகரான கொடுப்பனவை வழங்கத் தவறியமைக்காக சுகாதாரப் பணியாளர்கள் இந்த வருடம் இதுவரை மூன்று தொழிற்சங்க நடவடிக்கைகளில் ஈடுபட்டுள்ளனர்.
+Health workers have been involved in three union activities so far this year to fail to pay the DAT allowance to doctors.
 
-...
+However, in response to the strike, the Sri Lankan military has sent groups to government hospitals in favor of operational operations.
+
+◼️
 
 [Data](articles/a844d224.json)
+
+[Extended Data](ext_articles/a844d224.ext.json)
 
 ---
 
@@ -84,25 +106,29 @@ The State Minister made these remarks at a press briefing held at the Presidenti
 
 [Data](articles/26d09ddb.json)
 
+[Extended Data](ext_articles/26d09ddb.ext.json)
+
 ---
 
-### பல்கலைக்கழகங்களில் பல்துறை பட்டங்களை வழங்க யோசனை
+### The idea of providing versatile titles in universities
 
 *2024-02-14 19:33:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழகங்களில்-பல்துறை-பட்டங்களை-வழங்க-யோசனை/175-333210) · `ta`
 
-கல்வியில் சர்வதேச அனுபவமுள்ள நிபுணர்களின் அவதானத்திற்குப் பின்னர் அரச பல்கலைக்கழகங்கள் மூலம் பல்துறைப் பட்டங்களை வழங்குவதில் கவனம் செலுத்தியுள்ளதாக உயர்கல்வி இராஜாங்க அமைச்சர் கலாநிதி சுரேன் ராகவன் தெரிவித்தார்.
+Higher Education Minister Dr. Suren Raghavan said that after the observation of internationally experienced experts in education, the focus of a variety of degrees through state universities.
 
-இலங்கையில் 03 சர்வதேச பல்கலைக்கழகங்களை ஸ்தாபிப்பதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+The Minister of State also stated that steps have been taken to establish three international universities in Sri Lanka.
 
-ஜனாதிபதி ஊடக மையத்தில் இன்று (14) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் சுரேன் ராகவன் இவ்வாறு தெரிவித்தார்.
+State Minister Suren Raghavan said this at a media briefing held at the Presidential Media Center today (14).
 
-“03 சர்வதேச பல்கலைக்கழகங்களை இலங்கையில் ஸ்தாபிக்க நடவடிக்கை எடுத்துள்ளோம். இவற்றில் இரண்டு பல்கலைக்கழகங்கள் ஆரம்பிப்பதற்கான பணிகள் ஏற்கனவே ஆரம்பிக்கப்பட்டுள்ளன. இந்த ஆண்டு மே மாதத்திற்குள் மூன்றாவது பல்கலைக்கழகமும் இலங்கையில் ஸ்தாபிக்கப்படும்.
+“We have taken steps to establish 03 international universities in Sri Lanka. Two of these universities have already begun. The third university will be established in Sri Lanka by May this year.
 
-கண்டியில் இந்திய தொழில்நுட்ப நிறுவனம் (indian institutes of technology) ஆரம்பிக்கப்பட உள்ளது. ஏனைய இரண்டு பல்கலைக்கழகங்களும் அமெரிக்கா மற்றும் ஐக்கிய இராச்சியத்தை மையமாக கொண்டு அவற்றின் இரண்டு கிளைகள் திறக்கப்படவுள்ளதுடன் அவை தொடர்பான புரிந்துணர்வு ஒப்பந்தத்தில் கைச்சாத்திடவும் தயாராக உள்ளோம்.
+Indian Institutes of Technology. The other two universities will open their two branches focusing on the United States and the United Kingdom and are ready to sign a Memorandum of Understanding on them.
 
 ...
 
 [Data](articles/31b4d6f0.json)
+
+[Extended Data](ext_articles/31b4d6f0.ext.json)
 
 ---
 
@@ -146,21 +172,27 @@ COPF granted a two-week extension for this while expecting completion of the leg
 
 ---
 
-### වී අස්වැන්න මිලදී ගන්න ඔඩපණ ණය යෝජනා ක්‍රමය හරහා රු. බි.  09ක්
+### Buy paddy yield Buying Rs.. B. 09
 
 *2024-02-14 18:56:59* · [`adalk`](https://www.ada.lk/breaking_news/වී-අස්වැන්න-මිලදී-ගන්න-ඔඩපණ-ණය-යෝජනා-ක්‍රමය-හරහා-රු--බි---09ක්/11-408086) · `si`
 
-සුළු හා මධ්‍ය පරිමාණ වී මෝල් හිමියන්, වී ගබඩාකරුවන් හා වී තොග රැස් කරන්නන් තම කර්මාන්තය පවත්වාගෙන යාමේදී මුහුණ දී ඇති මූල්‍ය දුෂ්කරතා මඟහරවා ගනිමින් මෙවර මහ කන්නයේ වී අස්වැන්න මිලදී ගැනීම සඳහා “ඔඩපණ” ණය යෝජනා ක්‍රමය ක්‍රියාත්මක කිරීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ උපදෙස් පරිදි පියවර ගෙන තිබෙන බව ජනාධිපති ප්‍රජා කටයුතු අධ්‍යක්ෂ ජනරාල්, රජිත් කීර්ති තෙන්නකෝන් මහතා පැවසීය.
+Steps to implement the financial difficulty in the Maha season, using the financial difficulties in the Maha season, to purchase the financial difficulties in the Maha season, small and medium scale and medium-sized paddy and paddy.The Director General of the Presidential Community Affairs, Rajith Keerthi Tennakoon said.
 
-මහජන බැංකුව, ලංකා බැංකුව හා ප්‍රාදේශීය සංවර්ධන බැංකුව වෙතින් මෙම ණය පහසුකම සපයා දී තිබෙන බව ද ඒ මහතා සඳහන් කළේය. .
+The loan facility has been provided by People's Bank and the Regional Development Bank of Ceylon and Regional Development Bank.. .
 
-ජනාධිපති ප්‍රජා කටයුතු අධ්‍යක්ෂ ජනරාල්, රජිත් කීර්ති තෙන්නකෝන් මහතා මේ බව සඳහන් කළේ සුළු හා මධ්‍ය පරිමාණ සහල් කර්මාන්තකරුවන් මුහුණ දී ඇති ගැටලු පිළිබඳ අද (14) ජනාධිපති කාර්යාලයේ පැවති සාකච්ඡාවකදී ය.
+The Director General of the Presidential Community Affairs, Rajith Keerthi Tennakoon said this at a meeting held at the Presidential Secretariat today (14).
 
-අදාළ ණය යෝජනා ක්‍රමය යටතේ රුපියල් බිලියන 09ක ඔඩපණ ණය නිකුත් කිරීමට අපේක්ෂා කෙරෙන අතර සුළු හා මධ්‍ය පරිමාණ වී මෝල් හිමියන් සඳහා රුපියල් මිලියන 50කද, වී ගබඩා හිමිකරුවන් සහ වී තොග රැස් කරන්නන් සඳහා රුපියල් මිලියන 25කද උපරිම ණය මුදලක් ලබාදෙනු ඇත.
+The loan loan amount of Rs.
+
+The debt represents an 180 days. 4% of the annual interest rate of 15% will be given to the relevant banks to the relevant banks. Accordingly, the credit buyers should be paid only an annual interest rate of 11%.
+
+Rajith Keerthi Tennakoon said that the aim is to provide consumers to the consumers and the opportunity to obtain rice at reasonable prices.
 
 ...
 
 [Data](articles/d1ff5518.json)
+
+[Extended Data](ext_articles/d1ff5518.ext.json)
 
 ---
 
@@ -184,23 +216,39 @@ Stressing the vital role of a gaming regulator in both attracting investment and
 
 ---
 
-### ශක්තිමත් ආර්ථිකයක් නිර්මාණය කිරීමට කටයුතු කරනවා
+### Work to create a strong economy
 
 *2024-02-14 18:48:54* · [`adalk`](https://www.ada.lk/breaking_news/ශක්තිමත්-ආර්ථිකයක්-නිර්මාණය-කිරීමට-කටයුතු-කරනවා/11-408085) · `si`
 
-රට ආර්ථික පරිවර්තනයක් කරා ගෙන යාමට නම් ලොවට ගැළපෙන නව අධ්‍යාපන ක්‍රමවේදයක් අවශ්‍යයි
+If the country is to reach an economic transformation, a new education system that suits the world needs
 
-වෘත්තිකයන් බිහිකළ හැකි අධ්‍යාපන ක්‍රමයක් ඉදිරියේදී ඇති කරනවා – 2024 වර්ෂයට අදාළ පාසල් පෙළ පොත් හා නිල ඇඳුම් රෙදි බෙදාදීමේ ජාතික වැඩසටහනට එක්වෙමින් ජනපති පවසයි.
+President Mahinda Rajapaksa, hosts the education system that can create professionals - 2024.
 
-රට ආර්ථික පරිවර්තනයකට යොමු කිරීමට නම් ලොවට ගැළපෙන නව අධ්‍යාපන ක්‍රමවේදයක් අවශ්‍ය බවත්, එමඟින් තරගකාරී ලෝක වෙළෙඳපොළට අවශ්‍ය වෘත්තිකයන් බිහිකළ හැකි බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පෙන්වා දුන්නේය.
+President Ranil Wickremesinghe pointed out that to be a new educational procedure to the world to be put into an economic transformation, President Ranil Wickremesinghe said.
 
-විභාග බර අඩුකර ඉංග්‍රීසි සහ තාක්ෂණ විෂයන් අධ්‍යාපන ක්‍රමයට ඇතුළත් කරමින් රැකියාවට සුදුසු දරුවෙක් බිහි කිරීමට අපේක්ෂා කරන බවත්, නව වෘත්තීය විද්‍යාල හා තාක්ෂණ විශ්වවිද්‍යාල ඇති කිරීමට සැලසුම් කර තිබෙන බවත් ජනාධිපතිවරයා පැවසීය.
+The President said that the new trade and technology universities are planning to create an acquainted child, which reduces the weighs of examination and incorporate English and technology to the education system.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ කොල්ලුපිටිය ශාන්ත අන්තෝනි බාලිකා විද්‍යාලයේ අද (14) පෙරවරුවේ පැවති පිරිවෙන් හා පාසල් සිසු සිසුවියන්ට නොමිලේ පාසල් පෙළ පොත් හා පාසල් නිල ඇඳුම් රෙදි බෙදාදීමේ ජාතික වැඩසටහනට එක්වෙමිනි.
+President Ranil Wickremesinghe made this statement participating in the National Program of Pirivenas and school uniforms to Pirivenas and School students from St. Anthony's Girls' College today (14).
+
+Parade books and uniforms will be provided with students of 10,126 students of the island and the students of 822 students of the island to provide these school text books and uniforms.
 
 ...
 
 [Data](articles/b3a40600.json)
+
+[Extended Data](ext_articles/b3a40600.ext.json)
+
+---
+
+### Long queues at Osu Sala...
+
+*2024-02-14 18:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Long-queues-at-Osu-Sala/110-277022) · `en`
+
+People waiting in long queques outside the Osu Sala at Town Hall to purchase medicines due to the ongoing health strike. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/a078ab6b.json)
 
 ---
 
@@ -244,6 +292,24 @@ Accordingly, the WAYR of Treasury Bills have dropped down to single digit levels
 
 ---
 
+### Sri Lanka Air Force initiates ’’Wings of Friendship’’ projects worth Rs 125 Mn in North
+
+*2024-02-14 18:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Air-Force-initiates-Wings-of-Friendship-projects-worth-Rs-125-Mn-in-North/108-277014) · `en`
+
+Colombo, Feb 14 (Daily Mirror) - Moving away from the Colombo and Southern Province, the Sri Lanka Air Force (SLAF) has made arrangements to initiate a series of projects under the theme "Wings of Friendship," coinciding with the 73rd anniversary of the Sri Lanka Air Force in the North from March 2.
+
+As part of this initiative, community development programmes will be executed, focusing on the northern province, with a financial value exceeding Rs 125 million.
+
+Air Force Commander Air Marshal Udeni Rajapaksa said that in the northern province of Jaffna, Kilinochchi, Mannar, Vavuniya, and Mullaitivu areas, 73 schools have been identified for development/renovation. The commencement of these projects has already begun, with an estimated total cost of about Rs 100 million.
+
+Moreover, a donation of 73,000 school books will be made to selected schools under the program "Magen Pothak Uthurata," with an estimated cost of Rs 25 million.
+
+...
+
+[Data](articles/c7fc89d3.json)
+
+---
+
 ### Motorcycle - State Bus Accident on A9 Road, Jaffna
 
 *2024-02-14 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176393) · `ta`
@@ -259,6 +325,26 @@ Despite the damage to the motorcycle, the two passengers were not injured.
 [Data](articles/ee5b109e.json)
 
 [Extended Data](ext_articles/ee5b109e.ext.json)
+
+---
+
+### Shah, Omarzai propel Afghanistan to 266
+
+*2024-02-14 18:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shah-Omarzai-propel-Afghanistan-to-266/108-277019) · `en`
+
+Two fine half centuries from Rahamat Shah and Azmatullah Omarzai spearheaded Afghanistan to 266 in the third and final One Day International (ODI) against Sri Lanka at the Pallekele Stadium in Kandy.
+
+Rahamat hammered 65 from 77 deliveries with the help of one six and seven boundaries and also added 57 runs for the second wicket along with opener Rahmanullah Gurbaz.
+
+Gurbaz provided Afghanistan a flying start as he smashed four successive boundaries in the first over off Dilshan Madushanka after the visitors had won the toss and elected to bat first.
+
+Gurbaz fell just three runs short of his half century while Skipper Hashmatullah Shahidi fell cheaply as Afghanistan suffered a mini collapse losing two wickets in successive overs.
+
+However, Omarzai regained the momentum for Afghanistan with a 53-ball half century that included four boundaries and was sixth out with five overs left in the innings.
+
+...
+
+[Data](articles/021aed58.json)
 
 ---
 
@@ -1959,91 +2045,5 @@ The accident had occurred when the vessel used for fishing.
 [Data](articles/482e62ab.json)
 
 [Extended Data](ext_articles/482e62ab.ext.json)
-
----
-
-### Russia puts Estonian Prime Minister on ‘wanted’ list
-
-*2024-02-14 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97258/russia-puts-estonian-prime-minister-on-wanted-list) · `en`
-
-Russia has listed Estonia’s Prime Minister Kaja Kallas, a staunch backer of Ukraine, as a ‘wanted’ person.
-
-According to the Russian Interior Ministry’s database, Kallas is now wanted in connection with criminal charges, along with Estonian State Secretary Taimar Peterkop and Lithuanian Culture Minister Simonas Kairys.
-
-The Interior Ministry did not initially specify which charges they faced.
-
-But later, Kremlin spokesperson Dmitry Peskov said Kallas and the other two Baltic ministers had been designated as wanted due to alleged “desecration of historical memory.”
-
-The charges specifically relate to the “destroying monuments of Soviet soldiers,” according to a source cited by the Russian state-owned TASS agency.
-
-“This is yet more proof that I am doing the right thing - the EU’s strong support to Ukraine is a success and it hurts Russia,” she wrote on X on Tuesday.
-
-...
-
-[Data](articles/92da2309.json)
-
-[Extended Data](ext_articles/92da2309.ext.json)
-
----
-
-### Pakistani politician who refused to accept his election victory
-
-*2024-02-14 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176346) · `ta`
-
-A politician elected as a legislator in Pakistan has accused the election of fraud and announced that he would give up his seat to the opposition candidate.
-
-Hafiz Nayimur Rehman, the leader of the Jamaat E-Islami party, has offered to give up his seat.
-
-Nayimur Rehman was announced with 26,296 votes in the Karachi Central constituency (BS129) for the Sindh Provincial Legislative Assembly last week.. The second candidate received 20,608 votes.
-
-However, Nayimur Rehman has said that Imran Khan's Pakistan Tehreek -E -Innsab (BRI) party's independent candidate, who was declared the fourth with 11,357 votes, believed that he was the real winner of the election.
-
-'As a conscientious man, B.I.. I declare that the pro -candidate won the election. I will not resort to this seat. I am not going to accept the further votes cast for me, ”Nayimur Rehman said.
-
-This is the first time in Pakistan's history, a politician who was declared a victory in the election, refused to accept victory on fraud.
-
-...
-
-[Data](articles/9e6385ba.json)
-
-[Extended Data](ext_articles/9e6385ba.ext.json)
-
----
-
-### Sri Lanka main opposition stalwarts waiting to support president, rival parties claim
-
-*2024-02-14 12:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-main-opposition-stalwarts-waiting-to-support-president-rival-parties-claim-150764/) · `en`
-
-ECONOMYNEXT — All is not well at Sri Lanka’s main opposition Samagi Jana Balawegaya (SJB) according to several MPs from rival and newly allied parties who claim that a section of SJB stalwarts plan to extend their support to President Ranil Wickremesinghe.
-
-Both Wickremesinghe’s United National Party (UNP) and the ruling Sri Lanka Podujana Peramuna (SLPP) insist that a crossover is imminent.
-
-UNP general secretary Palitha Range Bandara told reporters on Tuesday February 13 that SJB and opposition leader Sajith Premadasa is trying to cobble together an alliance using spent forces even as the forces to be reckoned with in the opposition camp have started to join the president.
-
-“Mr Premadasa cannot move it forward as a political party. What he has to do is make the smart choice and join the president and the UNP and work for the future of the country,” said Bandara.
-
-...
-
-[Data](articles/8ce16b6b.json)
-
-[Extended Data](ext_articles/8ce16b6b.ext.json)
-
----
-
-### Civil organization demands a 33% electricity tariff revision
-
-*2024-02-14 12:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Civil-organization-demands-a-33-electricity-tariff-revision/108-276999) · `en`
-
-Colombo, Feb 14 (Daily Mirror) - The National Front of Civil Organizations (NFCO) today requested electricity consumers to gather in front of the Bandaranaike Memorial International Conference Hall (BMICH) premises to express opposition to the Public Utilities Commission of Sri Lanka (PUCSL), which is set to finalize the collection of public opinions for the upcoming electricity tariff revision, NFCO president Priyantha Thilakarathna said.
-
-Addressing the media, he said that the Public Utilities Commission of Sri Lanka (PUCSL) had raised the electricity tariff without taking into account public opinions. He claimed that the decision seemed to align more with the preferences of the Power and Energy Ministry and the Ceylon Electricity Board (CEB).
-
-Therefore, the NFCO has decided to launch a silent protest in front of the BMICH tomorrow morning.
-
-...
-
-[Data](articles/6e1c97ac.json)
-
-[Extended Data](ext_articles/6e1c97ac.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 22:49:47**
+As of **2024-02-14 23:02:26**
 
 ## Newspaper Stats
 
@@ -26,39 +26,43 @@ dailymirrorlk | 1,035
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,060 (100.0%) of 7,062 articles have been extended.
+7,062 (100.0%) of 7,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### අතවර සිද්ධියකට සැකකරුවෙකු අත්අඩංගුවට
+### Suspect arrested for abuse incident
 
 *2024-02-14 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193391) · `si`
 
-බස් රථයකදී තරුණියකට අතවර කළ බවට සඳහන් චෝදනාව යටතේ පුද්ගලයෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A person has been arrested by the police on charges that a girl was abused at a bus.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 36 හැවිරිදි වියේ පදිංචි විවාහක පුද්ගලයෙකි.
+The arrested has been arrested for a 36-year-old married couple.
 
-මොණරාගල සිට මහනුවර දක්වා ධාවනය වෙමින් තිබූ බස් රථයකදී එහි සිටි තරුණියකට සැකකරු විසින් අතවර කළ බවට ඔහුට විරුද්ධව චෝදනා එල්ලවී තිබේ.
+He has been accused of molesting the suspect in a bus traveling from Moneragala to Kandy.
 
 ◼️
 
 [Data](articles/c8ced00d.json)
 
+[Extended Data](ext_articles/c8ced00d.ext.json)
+
 ---
 
-### பேஸ்லைன் புகையிரத நிலையத்திற்கு அருகே தீ
+### Fire near Baseline Railway Station
 
 *2024-02-14 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176401) · `ta`
 
-பேஸ்லைன் புகையிரத நிலையத்திற்கு அருகில் உள்ள வெற்றிடமாக உள்ள நிலத்தில் புதன்கிழமை (14) பிற்பகல் தீ விபத்து ஏற்பட்டுள்ளது.
+A fire broke out on Wednesday afternoon (14) in a vacant land near the Baseline Railway Station.
 
-தீ விபத்துக்கான காரணம் இதுவரை தெரியவராத நிலையில், பொலிஸார் விசாரணை நடத்தி வருகின்றனர்.
+Police are investigating the cause of the fire.
 
 ◼️
 
 [Data](articles/77e77fc1.json)
+
+[Extended Data](ext_articles/77e77fc1.ext.json)
 
 ---
 

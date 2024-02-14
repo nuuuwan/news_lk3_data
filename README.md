@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 09:33:10**
+As of **2024-02-14 09:51:35**
 
 ## Newspaper Stats
 
-*Scraped **6,873** Articles*
+*Scraped **6,875** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 365
 dailyftlk | 376
 adalk | 584
 tamilmirrorlk | 839
-adaderanalk | 840
+adaderanalk | 842
 virakesarilk | 868
 adaderanasinhalalk | 960
 dailymirrorlk | 1,007
@@ -26,11 +26,57 @@ dailymirrorlk | 1,007
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,873 (100.0%) of 6,873 articles have been extended.
+6,875 (100.0%) of 6,875 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### Shooting in Modara leaves a man injured
+
+*2024-02-14 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97250/shooting-in-modara-leaves-a-man-injured) · `en`
+
+A 51-year-old has sustained injuries after being gunned down in Modara on Tuesday night (Feb.13).
+
+He is currently receiving treatment at the National Hospital of Sri Lanka (NHSL) in Colombo.
+
+A group of assailants who had arrived in a car had opened fire at the victim near the entrance to a restaurant where he serves as a manager.
+
+The motive behind the shooting was not immediately clear. However, investigations have been launched by Modara Police to apprehend the perpetrators.
+
+The police said the assailants had used a pistol for the shooting.
+
+◼️
+
+[Data](articles/e40f0636.json)
+
+[Extended Data](ext_articles/e40f0636.ext.json)
+
+---
+
+### USAID chief urges President Ranil to address concerns about Online Safety Act
+
+*2024-02-14 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97249/usaid-chief-urges-president-ranil-to-address-concerns-about-online-safety-act) · `en`
+
+USAID Administrator Samantha Power has urged President Ranil Wickremesinghe to address the concerns about the potential impact of the Online Safety Act on freedom of expression.
+
+The head of US Agency for International Development (USAID) brought this up during a virtual conversation with the Sri Lankan leader on Tuesday (Feb.13).
+
+Power has “encouraged President Wickremesinghe to address concerns about the potential impact of the Online Safety Act on freedom of expression, as well as investment in Sri Lanka’s vibrant digital economy,” according to a USAID statement.
+
+The USAID chief discussed the island nation’s economic reform agenda as well as the importance of democratic governance and a consultative legislative process.
+
+She expressed USAID’s commitment to working with President Wickremesinghe on addressing difficult economic challenges.
+
+Power also highlighted the strong support of the US for freedom of expression and association.
+
+◼️
+
+[Data](articles/bdcf1ac8.json)
+
+[Extended Data](ext_articles/bdcf1ac8.ext.json)
+
+---
 
 ### Government statement on paddy price
 
@@ -1975,39 +2021,5 @@ Attorneys-at-Law Shavele Farris, appearing on behalf of the petition, was presen
 [Data](articles/ef4af3c2.json)
 
 [Extended Data](ext_articles/ef4af3c2.ext.json)
-
----
-
-### Cabinet permits to make several amendments to the Ceremony Protection Act
-
-*2024-02-13 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176299) · `ta`
-
-Bandulakunawardena has said that he has received ideas from industrial experts on the Celebration Protection Act.
-
-Based on these ideas, the Minister said that amendments will be made in the Messenger Protection Act.
-
-The Cabinet has granted permission to the Minister of Public Safety to prepare a copy of the amendments to the City Protection Act.
-
-◼️
-
-[Data](articles/108444a1.json)
-
-[Extended Data](ext_articles/108444a1.ext.json)
-
----
-
-### A Notification for Ordinary Level Examination Candidates
-
-*2024-02-13 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193338) · `si`
-
-The Department of Registration of Persons has issued a statement from the Department of Registration of Persons to obtain National Identity Cards (2023) to appear in May 2024.
-
-It states that the information reference letter will be obtained by the following facilities via the following facilities.
-
-◼️
-
-[Data](articles/46e784fd.json)
-
-[Extended Data](ext_articles/46e784fd.ext.json)
 
 ---

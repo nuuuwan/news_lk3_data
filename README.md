@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 04:02:27**
+As of **2024-02-15 04:17:30**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 1,041
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,093 (100.0%) of 7,094 articles have been extended.
+7,094 (100.0%) of 7,094 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### 1,600 போதை குளிசைகளுடன் வைத்தியர் கைது
+### Doctors arrested with 1,600 drugs
 
 *2024-02-15 02:55:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-600-போதை-குளிசைகளுடன்-வைத்தியர்-கைது/175-333228) · `ta`
 
-ஆயிரத்து 600 போதை மாத்திரைகளுடன் வைத்தியர் ஒருவர் கம்பளை, ஏத்கால பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+A doctor with a thousand 600 drugs has been arrested by the police.
 
-பேராதனை வைத்தியசாலையில் சேவையாற்றும் 49 வயதான வைத்தியர் ஒருவரே, செவ்வாய்க்கிழமை (12) இரவு 11 மணியளவில் இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+A 49 -year -old doctor, who is serving at the Peradeniya Hospital, was arrested at around 11 pm on Tuesday (12).
 
-பேராதனை பகுதியில் இருந்து, கம்பளை ,ஜயமாலபுர பகுதிக்கு போதை மாத்திரைகளை எடுத்துவந்த வேளையிலேயே, ஏத்கால பொலிஸ் நிலைய பொறுப்பதிகாரி தம்மிக்க கெக்குலந்தர தலைமையிலான பொலிஸ் குழுவினரால் குறித்த வைத்தியர் கைது செய்யப்பட்டுள்ளார்.
+The doctor has been arrested by a police team led by Dhammika Kekulandra, a police officer in charge of the police station, while taking drug pills from the Peradeniya area to the Jayamalapura area.
 
-அவரிடமிருந்த போதை மாத்திரைகள் கைப்பற்றப்பட்டுள்ளன, வைத்தியருக்குரிய அடையாள சின்னத்துடன் அவர் பயணித்த வாகனமும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது. விசாரணைகளின் பின்னர் அவர் நீதிமன்றத்தில் முற்படுத்தப்படவுள்ளார் என தெரிவித்த கம்பளை ஏத்கால பொலிஸார், மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
+The drug pills have been seized, and the vehicle he was traveling with the doctor's mark was also seized by the police.. Gampolai police said that he would be produced in court after investigations.
 
 ◼️
 
 [Data](articles/94612bb0.json)
+
+[Extended Data](ext_articles/94612bb0.ext.json)
 
 ---
 

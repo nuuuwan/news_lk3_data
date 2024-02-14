@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 06:53:34**
+As of **2024-02-14 07:15:54**
 
 ## Newspaper Stats
 
@@ -26,11 +26,35 @@ dailymirrorlk | 1,004
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,846 (99.9%) of 6,853 articles have been extended.
+6,853 (100.0%) of 6,853 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### Three persons arrested for stealthily entering the cattle farm of Peradeniya University
+
+*2024-02-14 06:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176318) · `ta`
+
+The Peradeniya Police on Tuesday (13) have arrested three persons for stealing about 150 kg of pigs and selling meat.
+
+The university administration said that the animals were raised for meat and the research activities of the Agricultural Faculty.
+
+Investigations have revealed that the animal farm is located in the university -owned Udaratana area and the persons arrested have entered the farm on Monday night and killed the pig and carried its body parts.
+
+Following a complaint with the Manager of the farm, the manager of the farm had lodged a complaint with the manager of the farm, and the police were investigating a house in Peradeniya area.
+
+Chickens have disappeared on the farm several times before, and the police suspect that these animals may be stolen and sold for meat.
+
+The university administration has said that animals are being raised for meat and research on the Agricultural Faculty.
+
+...
+
+[Data](articles/076a6550.json)
+
+[Extended Data](ext_articles/076a6550.ext.json)
+
+---
 
 ### Government draws intense flak on Online Safety Act
 
@@ -364,30 +388,6 @@ Imagine the late JVP leader, Rohana Wijeweera travelling to New Delhi in 1987, o
 
 ---
 
-### Three persons arrested for stealthily entering the cattle farm of Peradeniya University
-
-*2024-02-14 02:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176318) · `ta`
-
-The Peradeniya Police on Tuesday (13) have arrested three persons for stealing about 150 kg of pigs and selling meat.
-
-The university administration said that the animals were raised for meat and the research activities of the Agricultural Faculty.
-
-Investigations have revealed that the animal farm is located in the university -owned Udaratana area and the persons arrested have entered the farm on Monday night and killed the pig and carried its body parts.
-
-Following a complaint with the Manager of the farm, the manager of the farm had lodged a complaint with the manager of the farm, and the police were investigating a house in Peradeniya area.
-
-Chickens have disappeared on the farm several times before, and the police suspect that these animals may be stolen and sold for meat.
-
-The university administration has said that animals are being raised for meat and research on the Agricultural Faculty.
-
-...
-
-[Data](articles/076a6550.json)
-
-[Extended Data](ext_articles/076a6550.ext.json)
-
----
-
 ### It is impossible to abolish the executive presidency - Pradeepa Mahanama
 
 *2024-02-14 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/176317) · `ta`
@@ -632,6 +632,8 @@ The opening ceremony marked the beginning of a new chapter for AIA in the Matara
 
 [Data](articles/2c3043cc.json)
 
+[Extended Data](ext_articles/2c3043cc.ext.json)
+
 ---
 
 ### Todumbu Civil Police
@@ -663,6 +665,8 @@ Amid those developments both indices moved downwards. The All Share Price Index 
 ...
 
 [Data](articles/54c74ccf.json)
+
+[Extended Data](ext_articles/54c74ccf.ext.json)
 
 ---
 
@@ -1293,6 +1297,8 @@ Egg imports to continue this year –  Minister of Trade, Commerce and Food Secu
 ...
 
 [Data](articles/a33b437f.json)
+
+[Extended Data](ext_articles/a33b437f.ext.json)
 
 ---
 

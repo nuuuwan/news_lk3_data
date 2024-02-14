@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 11:17:11**
+As of **2024-02-14 11:33:00**
 
 ## Newspaper Stats
 
-*Scraped **6,889** Articles*
+*Scraped **6,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ economynextcom | 350
 newsfirstlk | 363
 islandlk | 365
 dailyftlk | 376
-adalk | 584
+adalk | 586
 tamilmirrorlk | 843
 adaderanalk | 844
 virakesarilk | 868
-adaderanasinhalalk | 962
-dailymirrorlk | 1,012
+adaderanasinhalalk | 964
+dailymirrorlk | 1,013
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,888 (100.0%) of 6,889 articles have been extended.
+6,889 (99.9%) of 6,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### සාමාන්‍ය පෙළ හා උසස් පෙළ පැවැත්වෙන දිනයන්
+
+*2024-02-14 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193357) · `si`
+
+2023 වර්ෂයේ සඳහා වූ සාමාන්‍ය පෙළ විභාගය 2024 මැයි - ජූනි මාසවල පැවැත්වීමට නියමිත බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත් මහතා පවසයි.
+
+මේ අතර 2024 වසරේ අපොස උසස් පෙළ විභාගය දෙසැම්බර් මාසයේ පැවැත්වීමට නියමිතය.
+
+මේ අතර 2025 වසරේ නව පාසල් වාරය ජනවාරි මස 2 දා ආරම්භ කිරීමට නියමිත බව ද අමාත්‍යවරයා පැවසීය.
+
+◼️
+
+[Data](articles/1889f1a8.json)
+
+---
+
+### ජනපති පාසල් ළමුන් ඉදිරියේ ඇත්තම කියයි
+
+*2024-02-14 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193356) · `si`
+
+දරුවන්ගේ ඉදිරි අනාගතය වෙනුවෙන් අකමැත්තෙන් වුවත් ජාත්‍යන්තරයට ගොස් තමාට හිඟාකෑමට සිදුවූ බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+එමෙන්ම ඉතා අසීරුවෙන් ගෙවා දැමූ යුගයට නැවත ගමන් කිරීමට කිසිවෙකුත් කැමැති නැති බවද ජනාධිපතිවරයා අවධාරණය කළේය.
+
+කොල්ලුපිටිය ශාන්ත අන්තෝනි විද්‍යාලයේ පැවැත් වූ පෙළපොත් බෙදා දීමේ ජාතික උත්සවය අමතමින් ජනාධිපතිවරයා මෙම අදහස් පළ කළේය.
+
+...
+
+[Data](articles/b77feb26.json)
+
+---
 
 ### Govt. to intervene in paddy purchasing - Agri. Minister
 
@@ -47,6 +79,28 @@ However, the Minister expressed that there the farmers are facing a problematic 
 ◼️
 
 [Data](articles/d18edf4d.json)
+
+[Extended Data](ext_articles/d18edf4d.ext.json)
+
+---
+
+### කෝටි ගණනක් වටිනා නිවසකට බලෙන් ඇතුළු වූ හිමිවරුන් දෙනමක් අත්අඩංගුවට
+
+*2024-02-14 10:00:45* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-ගණනක්-වටිනා-නිවසකට-බලෙන්-ඇතුළු-වූ-හිමිවරුන්-දෙනමක්-අත්අඩංගුවට/11-408071) · `si`
+
+රුපියල් කෝටි ගණනාවක් වටිනා  බම්බලපිටිය ෆරිඩ් පෙදෙසේ  පැරණි තෙමහල් නිවසකට ඉබි යතුරු කඩා අනවසරයෙන් ඇතුළු වී සිටි බව කියන සාමණේර හිමිවරුන් දෙදෙනෙක් අත්අඩංගුවට ගත් බව බම්බලපිටිය පොලිසිය කියයි
+
+එලෙස අත්අඩංගුවට ගෙන ඇත්තේ මාලඹේ ප්‍රදේශයේ විහාරස්ථානයක වැඩ වාසය කරන සාමණේර හිමිවරුන් දෙදෙනෙකි
+
+තම නිවසේ ඉබයතුරු කඩා හිමිවරුන් තිදෙනෙකු  තවත් පුද්ගලයකු බලෙන් රැඳී සිටින බවට  නිවසේ හිමිකාරිය බව කියන කාන්තාවක් පොලිසියට කරන ලද පැමිණිල්ලක් අනුව එම ස්ථානයට ගිය පොලිස් කණ්ඩායමක් විසින් එම අවස්ථාවේ සිටි වයස අවුරුදු 20 හා 14 පසුවල හිමිවරුන් දෙදෙනා අත්අඩංගුවට ගෙන ඇත
+
+මෙම නිවසට එකම පවුලේ සහෝදර සහෝදරියන් තිදෙනෙකු හිමිකාරීත්වය දරන අතර හිමිනමක් විදේශගත වූ අවස්ථාවේදී ඇටෝනි බලපත්‍රයක් මගින් එහි කොටසක් පවරා දුන් බවත් ඒ හේතුවෙන් හිමිකාරීත්වය ඇති පවසා නිවසට ඇතුළු වී ඇති බවට තොරතුරු ලැබී ඇතැයි පොලිසිය කියයි.
+
+එම නිවසට බලහත්කාරයෙන් ඇතුළු වූ තවත් හිමිනමක් සහ අනෙක් පුද්ගලයා අත්අඩංගුවට ගැනීමට පොලිසිය පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/9dc5fe79.json)
 
 ---
 
@@ -437,6 +491,24 @@ According to Robocash which is rebranded as UNA Financial, the user base of Sri 
 [Data](articles/b693439f.json)
 
 [Extended Data](ext_articles/b693439f.ext.json)
+
+---
+
+### Debt payers slam CB’s silence on unregulated online lenders
+
+*2024-02-14 07:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Debt-payers-slam-CBs-silence-on-unregulated-online-lenders/108-276973) · `en`
+
+Leasing and debt installment payers  voiced concerns over Central Bank’s silence regarding the questionable practices of unregulated online loan providers in Sri Lanka.
+
+Under the banner ‘Association of Leasing and Debt Installment Payers (ALDS)’, the group asserted that borrowers have no legal obligation to repay loans obtained from these unauthorised online lenders.
+
+“Despite numerous complaints passed over to the Central Bank (CB), there has been no response, leading to suspicions that CB officials may be benefiting from these institutions,” ALDS Deputy Secretary Asanka Sumedha Amarasingha alleged during a press briefing in Colombo recently.
+
+According to Robocash which is rebranded as UNA Financial, the user base of Sri Lanka’s digital lending services have seen a 125-fold increase from 10,600 users in August 2021 to a staggering 1.3 million by November 2023.
+
+...
+
+[Data](articles/e88dfdc8.json)
 
 ---
 
@@ -1608,6 +1680,22 @@ The gazette has been issued by the state to declare all the services, work or wo
 
 ---
 
+### වී අලෙවි මණ්ඩලය රු. කෝටි 124ක් අලාභයි
+
+*2024-02-13 20:35:25* · [`adalk`](https://www.ada.lk/breaking_news/වී-අලෙවි-මණ්ඩලය-රු--කෝටි-124ක්-අලාභයි/11-408070) · `si`
+
+වී අළෙවි මණ්ඩලය රුපියල් එකසිය විසිහතර කෝටි අසූහත් ලක්ෂ තිස්නවදහස් හැත්තෑ නවයක (1,248,739,079) පාඩුවක් ලබා ඇති බව ජාතික විගණන කාර්යාලය විසින් වී අළෙවි මණ්ඩලය සම්බන්ධයෙන් 2024.02.11 දින නිකුත් කොට ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
+
+වී අළෙවි මණ්ඩලය 2020 වර්ෂයේ ලබා ඇති පාඩුව2019 වර්ෂයට සාපේක්ෂවරුපියල් පනස් කෝටි හැත්තෑ ලක්ෂහැත්තෑ පන්දහස් අටසිය හතරකින් (507,075,804) වැඩි වී ඇති බවද සඳහන් වේ.මෙකී පාඩුව රුපියල්තුන්කෝටි හැටහත් ලක්ෂඅනූහයදහස් හයසිය තිස්අටක් (36,796,638) වේ.වෙනත් ආදායම් අඩු වීම හා මූල්‍ය වියදම, රුපියල් හැත්තෑ එක්කෝටිහැත්තෑ දෙලක්ෂ විසිපන්දහස් අටසිය විසිහතරකින් (717,225,824)වැඩි වීඇති බවද එම විගණනය මගින් අනාවරණය කොට ඇත.
+
+වීඅළෙවි මණ්ඩලය විසින් මහා භාණ්ඩාගාරය සඳහා රුපියල් හයසිය හැටඅට කෝටි හතළිස් පන්ලක්ෂ පනස්හතරදහස් පන්සිය තිස්හතරක මුදලක්(668,45,54,534)ගෙවීමට තිබූ අතර, එම මුදල 2023 වර්ෂයේ අප්‍රේල් මස 30වන දින දක්වා නිරවුල් කිරීමට කටයුතු කර නොතිබූ බවට විගණනය මගින් අනාවරණය කොට ඇත.
+
+...
+
+[Data](articles/7832bea4.json)
+
+---
+
 ### Nine officers have violated bond agreements a five billion loan
 
 *2024-02-13 20:25:23* · [`adalk`](https://www.ada.lk/breaking_news/බැඳුම්කර-ගිවිසුම්-කඩකළ-නිලධාරීන්-9ක්-රජයට-කෝටි-පහක-ණයක්/11-408069) · `si`
@@ -1909,105 +1997,5 @@ Speaking to the Free Press Journal on the sidelines of the recently concluded tr
 [Data](articles/2f413fe4.json)
 
 [Extended Data](ext_articles/2f413fe4.ext.json)
-
----
-
-### Electronic Media Broadcast Superintendance Act
-
-*2024-02-13 19:09:04* · [`adalk`](https://www.ada.lk/breaking_news/විද්‍යුත්-මාධ්‍ය-විකාශන-අධිකාරී-පනත-ඉදිරියේදී/11-408064) · `si`
-
-The electronic media Broadcast Superintendance Activity Act will be passed in the future - Media Media Minister of Magama
-
-The electronic media Broadcasting Authority Act to Parliament will be presented to Parliament and is expected to be adopted to parliament, he said.
-
-He is expected to submit a national media policy and has been referred to the approval of the Cabinet.
-
-The media Minister of Mass Media Statethism said this from a press conference held at the Presidential Media Center today (13) at the Presidential Media Center.
-
-Speaking further the media Minister Shantha Bandara said:
-
-One of the most important challenge we had today was the management of income costs. There are special attention on the 16 institutions that our Ministry has. Most of them were dependent on the Treasury. As such, we were on the advance of these institutions.
-
-...
-
-[Data](articles/052b6932.json)
-
-[Extended Data](ext_articles/052b6932.ext.json)
-
----
-
-### Asanga Perera, the organizer of the United People's Power
-
-*2024-02-13 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176303) · `ta`
-
-Asanga Perera, son of former United National Party (UNP) parliamentarian Gamini Jayawickrama Perera and UNP's Kadukambala constituency organizer, has reunited.
-
-◼️
-
-[Data](articles/b26d55b0.json)
-
-[Extended Data](ext_articles/b26d55b0.ext.json)
-
----
-
-### ‘Cooperative Square’ to be constructed as a public, private, cooperative partnership project
-
-*2024-02-13 18:59:00* · [`islandlk`](http://island.lk/cooperative-square-to-be-constructed-as-a-public-private-cooperative-partnership-project/) · `en`
-
-The Cabinet of Ministers granted approval to the resolution furnished by the Minister of Trade, Commerce and Food Security to construct a cooperative trade centre named ‘Cooperative Square’ as a public, private and  cooperative partnership project, without being a burden to the consolidated fund as recommended by the  National Development Committee.
-
-Related Topics:‘Cooperative Square’Cabinet DexisionsCommerce and Food SecurityMinister of TradeNational Development Committee
-
-Electronic Media Broadcasting Authority Act will be enacted soon, National Media Policy awaiting Cabinet approval – State Minister for Mass Media
-
-Freehold ownership to Sri Lanka Mahaweli Authority license holders under ‘Urumaya Programme’
-
-Cabinet nod for import of  50,000 metric tons of GR 11 rice category
-
-Cabinet gives green light to import 18 million eggs from India
-
-Egg imports to continue this year –  Minister of Trade, Commerce and Food Security
-
-...
-
-[Data](articles/a33b437f.json)
-
-[Extended Data](ext_articles/a33b437f.ext.json)
-
----
-
-### Sri Lanka recognized as one of the seven UN World Restoration Flagships
-
-*2024-02-13 18:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-recognized-as-one-of-the-seven-UN-World-Restoration-Flagships/108-276933) · `en`
-
-Nairobi, Feb. 13 - Sri Lanka has been recognized as one of the seven UN World Restoration Flagships for its ambitious initiative to restore and expand mangrove cover by over 50 percent.
-
-The World Restoration Flagship awards are part of the UN Decade on Ecosystem Restoration – led by the UN Environment Programme (UNEP) and the Food and Agriculture Organization of the UN (FAO) – which aims to prevent, halt, and reverse the degradation of ecosystems on every continent and in every ocean. The awards track notable initiatives following global commitments to restore one billion hectares – an area larger than China.
-
-The award for the Sri Lanka Mangrove Regeneration initiative was announced by UNEP Advocate for Life Under Water and actor, Jason Momoa.
-
-...
-
-[Data](articles/6c632abe.json)
-
-[Extended Data](ext_articles/6c632abe.ext.json)
-
----
-
-### US Senate passes $95 billion Ukraine aid bill
-
-*2024-02-13 18:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-Senate-passes-95-billion-Ukraine-aid-bill/108-276932) · `en`
-
-US, Feb 13- The US Senate passed a $95.3 billion foreign aid bill with assistance for Ukraine and Israel in a vote early Tuesday morning, setting up a showdown with the House as Speaker Mike Johnson has criticized the legislation.
-
-The foreign aid package includes billions of dollars to support Ukraine and for security assistance for Israel, as well as humanitarian assistance for civilians in Gaza, the West Bank and Ukraine, among other priorities. It’s unclear whether Johnson would hold a vote on it and many House Republicans are opposed to further aid to Ukraine.
-
-The bill passed the Senate despite Johnson’s criticism of the legislation and former President Donald Trump signaling opposition to the bill by arguing the US should stop providing foreign aid unless it is in the form of a loan. The Senate vote was 70 to 29 with 22 Republicans voting in favor, including Senate Minority Leader Mitch McConnell.
-
-...
-
-[Data](articles/b6045e20.json)
-
-[Extended Data](ext_articles/b6045e20.ext.json)
 
 ---

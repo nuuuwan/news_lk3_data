@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 03:32:43**
+As of **2024-02-15 03:50:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,041
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,092 (100.0%) of 7,093 articles have been extended.
+7,093 (100.0%) of 7,093 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -156,19 +156,21 @@ The Dialog Smart Home App serves as a centralised platform, allowing users to ef
 
 ---
 
-### அதிகரிக்கப்பட்ட வற் வரியை விரைவில் குறைப்போம் - ஐக்கிய தேசிய கட்சி தெரிவிப்பு
+### We will soon reduce the increased tax - United National Party
 
 *2024-02-15 01:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/176408) · `ta`
 
-மக்களுக்கு நிவாரணம் வழங்கும் வகையில் அதிகரிக்கப்பட்ட வற்வரி இன்னும் சில மாதங்களில் குறைப்பதற்கு அரசாங்கம் நடவடிக்கை எடுக்கும். அத்துடன் தற்போதுள்ள ஆட்சி முறையில் செல்வதா மாற்றத்தை ஏற்படுத்துவதா என்பதே மக்களுக்கு இருக்கும் சவாலாகும் என ஐக்கிய தேசிய கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஆஷு மாரசிங்க தெரிவித்தார்.
+The government will take steps to reduce the increased number of people in a few months to provide relief to the people. Former United National Party (UNP) parliamentarian Ashu Marasinghe said that the challenge of the people is whether to change the current regime or to make a change.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் புதன்கிழமை (14) இ்டம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+He was speaking at a press conference held at the United National Party headquarters Sirikotha on Wednesday (14).
 
-வீழ்ச்சியடைந்திருந்த நாட்டின் பொருளாதாரத்தை மீள கட்டியெழுப்ப நடவடிக்கை எடுக்கும்போது சில கடுமையான தீர்மானங்களை எடுப்பது தவிர்க்க முடியாத விடயமாகும். இதனால் நாட்டு மக்கள் அனைவருக்கும் ஏதோ ஒருவகையில் பாதிப்பு ஏற்பட்டுள்ளனர். பொருளாதார ரீதியில் மக்களுக்கு பாரிய நெருக்கடி நிலைமை ஏற்பட்டிருப்பதை நாங்கள் உணர்ந்து வருகிறோம். இந்த பிரச்சினைகளுக்குத் தீர்வுகாண அரசாங்கம் படிப்படியாக நடவடிக்கை எடுத்து வருகிறது.
+It is inevitable to make some strict decisions when steps to rebuild the country's economy. This has affected all the people of the country somehow. We are realizing that there is a huge crisis for people economically. The government is gradually taking action to solve these problems.
 
 ...
 
 [Data](articles/bcb5cda3.json)
+
+[Extended Data](ext_articles/bcb5cda3.ext.json)
 
 ---
 

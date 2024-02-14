@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 10:33:51**
+As of **2024-02-14 10:50:30**
 
 ## Newspaper Stats
 
-*Scraped **6,882** Articles*
+*Scraped **6,888** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ newsfirstlk | 363
 islandlk | 365
 dailyftlk | 376
 adalk | 584
-tamilmirrorlk | 839
-adaderanalk | 842
+tamilmirrorlk | 843
+adaderanalk | 843
 virakesarilk | 868
 adaderanasinhalalk | 962
-dailymirrorlk | 1,011
+dailymirrorlk | 1,012
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,882 (100.0%) of 6,882 articles have been extended.
+6,888 (100.0%) of 6,888 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### 1,700 years old chicken egg
+
+*2024-02-14 09:59:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/1-700-ஆண்டுகள்-பழமையான-கோழி-முட்டை/50-333180) · `ta`
+
+A group of archaeologists who examined the egg have been surprised to find that the yolk and the white fetus of the damaged egg is still protected in the egg.
+
+Archaeologist Edward Bidulf, an archaeologist from Oxford, said he believed that it was the only egg in the world that had been protected by naturally without human intervention 1,700 years later.
+
+◼️
+
+[Data](articles/150dfa39.json)
+
+[Extended Data](ext_articles/150dfa39.ext.json)
+
+---
 
 ### President and Samantha Power meet
 
@@ -45,6 +61,48 @@ There is a promise that she has promised to support Sri Lanka's economic challen
 [Data](articles/f3b951a5.json)
 
 [Extended Data](ext_articles/f3b951a5.ext.json)
+
+---
+
+### Visapal's affair on the street of the goat;7 arrested in Kalaha
+
+*2024-02-14 09:43:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஆட்டுப்பட்டி-தெருவில்-விஷபால்-கொடுத்த-விவகாரம்-கலஹாவில்-7பேர்-கைது/150-333179) · `ta`
+
+The suspects have been arrested in Kalaha for allegedly poisoning two suspects who were arrested and imprisoned in a police station cage.
+
+Seven people have been arrested by a group of police in Colombo, Ambatti Street, in a house in Galaha, Telltota Greedwali estate.Of the seven arrested, there are five men and women.
+
+They have been arrested in connection with the killing of a man in the Jindupitiya area in Colombo.
+
+Cyanite poison was found in the milk packets taken to the cage at the police station. Subsequent investigations have been caught by CCTV footage of the suspect and the purchase of milk packets.
+
+The two men who drank the milk packet were given to the two men who were arrested and stuck on suspicion of involvement in the murder.. They have been admitted to the Colombo National Hospital in critical condition.
+
+...
+
+[Data](articles/f1b95ab4.json)
+
+[Extended Data](ext_articles/f1b95ab4.ext.json)
+
+---
+
+### Sri Lanka committed to pursue reconciliation through domestic institutions - Sabry
+
+*2024-02-14 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97251/sri-lanka-committed-to-pursue-reconciliation-through-domestic-institutions-sabry) · `en`
+
+Sri Lanka will pursue tangible progress on reconciliation and human rights through domestic institutions while maintaining its constructive engagement with the United Nations, Foreign Affairs Minister Ali Sabry said on Tuesday (Feb.13).
+
+The lawmaker chaired the inaugural session of the Inter-Ministerial Standing Committee on Human Rights at the Foreign Affairs Ministry.
+
+Addressing the meeting, Sabry highlighted that establishment of the Inter-Ministerial Standing Committee on Human Rights demonstrates the commitment of the Sri Lankan government to upholding human rights, fostering reconciliation, and ensuring the fulfillment of its voluntary international obligations.
+
+He asserted that Sri Lanka will continue to engage constructively with the United Nations and remains committed to pursuing tangible progress on reconciliation and human rights through domestic institutions while preserving its sovereignty.
+
+...
+
+[Data](articles/1d5cd433.json)
+
+[Extended Data](ext_articles/1d5cd433.ext.json)
 
 ---
 
@@ -152,6 +210,24 @@ The police suspected that a pistol had been used to shoot at the guesthouse mana
 
 ---
 
+### One of the wound in the corpse shoot
+
+*2024-02-14 08:26:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முகத்துவாரம்-துப்பாக்கிச்சூட்டில்-ஒருவர்-காயம்/175-333177) · `ta`
+
+One person was injured in a gunfight held last night near a restaurant located on the Colombo -Sukkuttaram road.
+
+Police said the shooting was carried out using a Realvar rifle by the car.
+
+A 51 -year -old man who worked as a manager at the restaurant was injured in the shooting. He is currently receiving treatment at the Colombo National Hospital.
+
+◼️
+
+[Data](articles/8ab4c5a9.json)
+
+[Extended Data](ext_articles/8ab4c5a9.ext.json)
+
+---
+
 ### Thundershowers in Western, Sabaragamuwa, Galle, Matara after 2 p.m.
 
 *2024-02-14 08:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thundershowers-in-Western-Sabaragamuwa-Galle-Matara-after-2-p-m/108-276977) · `en`
@@ -171,6 +247,24 @@ However, misty conditions can be expected at some places in the Western and Saba
 [Data](articles/f5316363.json)
 
 [Extended Data](ext_articles/f5316363.ext.json)
+
+---
+
+### Electronic Media Broadcasting Authority Act soon
+
+*2024-02-14 08:09:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விரைவில்-இலத்திரனியல்-ஊடக-ஒலிபரப்பு-அதிகாரசபை-சட்டம்/175-333176) · `ta`
+
+Minister of State for Media Shantha Bandara said that the Electronic Media Broadcasting Authority Act is expected to be submitted to Parliament.
+
+He said this at a media briefing held at the Presidential Media Center yesterday.
+
+The Electronic Media Broadcasting Authority was subjected to massive changes based on the majority agreement. The final bill has now been sent to the Attorney General's Department. He said it was expected to be presented in Parliament in the future. (A)
+
+◼️
+
+[Data](articles/47597a38.json)
+
+[Extended Data](ext_articles/47597a38.ext.json)
 
 ---
 
@@ -305,6 +399,26 @@ The strike, which commenced health unions, has decided to continue.
 [Data](articles/6436e2a0.json)
 
 [Extended Data](ext_articles/6436e2a0.ext.json)
+
+---
+
+### Debt payers slam CB’s silence on unregulated online lenders
+
+*2024-02-14 07:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Debt-payers-slam-CBs-silence-on-unregulated-online-lenders/155-276973) · `en`
+
+Leasing and debt installment payers  voiced concerns over Central Bank’s silence regarding the questionable practices of unregulated online loan providers in Sri Lanka.
+
+Under the banner ‘Association of Leasing and Debt Installment Payers (ALDS)’, the group asserted that borrowers have no legal obligation to repay loans obtained from these unauthorised online lenders.
+
+“Despite numerous complaints passed over to the Central Bank (CB), there has been no response, leading to suspicions that CB officials may be benefiting from these institutions,” ALDS Deputy Secretary Asanka Sumedha Amarasingha alleged during a press briefing in Colombo recently.
+
+According to Robocash which is rebranded as UNA Financial, the user base of Sri Lanka’s digital lending services have seen a 125-fold increase from 10,600 users in August 2021 to a staggering 1.3 million by November 2023.
+
+...
+
+[Data](articles/b693439f.json)
+
+[Extended Data](ext_articles/b693439f.ext.json)
 
 ---
 
@@ -1895,121 +2009,5 @@ The bill passed the Senate despite Johnson’s criticism of the legislation and 
 [Data](articles/bee3ff0a.json)
 
 [Extended Data](ext_articles/bee3ff0a.ext.json)
-
----
-
-### 28 million people in rural areas - departmental supervisory committee
-
-*2024-02-13 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176302) · `ta`
-
-About 28 lakh people in rural areas have been affected by micro -debt problems. Loan for high interest based on 38 to 48 percent. Women are the most affected by the follicle plans. The Department of Department of Supervisor has pointed out on the impact of the economic crisis, as Sri Lankan women have been a major factor in the Middle East as homework.
-
-The Departmental Supervisory Committee was focused on reducing the impact of the economic crisis in Sri Lanka.
-
-The matter was focused at a sectoral supervisory committee meeting on the impact of the recent economic crisis, headed by Member of Parliament Gamini Valaboda.
-
-Companies in Sri Lanka representing people affected by micro -debts were invited to this group. Representatives of the Central Bank of Sri Lanka, the Ministry of Finance, Economic positioning and the National Policy, the Samurdhi Department, the Ministry of Women, Child Affairs and Social Reinforcement and the Department of Institution.
-
-...
-
-[Data](articles/1d7a01d8.json)
-
-[Extended Data](ext_articles/1d7a01d8.ext.json)
-
----
-
-### Customs seize Rs.150 Mn worth readymade garments imported from Malaysia
-
-*2024-02-13 18:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Customs-seize-Rs-150-Mn-worth-readymade-garments-imported-from-Malaysia/108-276931) · `en`
-
-Colombo, Feb 13 (Daily Mirror) -  Sri Lanka Customs today thwarted an attempt to smuggle four container loads of readymade garments worth over Rs.150 million, which had been imported from Malaysia falsely declared as fabric.
-
-The Customs sleuths found 33,000 to 44,000 readymade garments in each container and altogether seized 160,000 pieces in all four containers. The consignees of the contraband have been identified as residents of Panadura, Wattala and Maradana.
-
-The seized items were displayed to the State Minister of Finance Ranjith Siyambalapitiya. Senior Director Customs RTF Nimal Samaratunga and Senior Deputy Director Nalin Premaratne are conducting further investigations with the Customs team.
-
-The sum of tax revenue the Customs would have incurred if the cargo was cleared undetected is Rs.60 million, sources said.
-
-◼️
-
-[Data](articles/a6ac5121.json)
-
-[Extended Data](ext_articles/a6ac5121.ext.json)
-
----
-
-### The Bowser Explosion  in Kaithady that Rocked  the LTTE on Valentine’s day.; 43 Killed 51 Injured.
-
-*2024-02-13 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83620) · `en`
-
-“The best laid schemes  of mice and men often go awry, ”penned the Scottish bard Robert Burns in his poem”to a mouse”. This truth was brought home in an explosive manner to the Liberation Tigers of Tamil Eelam(LTTE)  37 years ago when  a massive explosion rocked the Kaithady area in the Thenmaratchi division of Jaffna peninsula.
-
-February 14th 1987 was a bloody valentine’s day in northern Jaffna. A bold attempt  by the LTTE known popularly as the tigers  to attack the Navatkuli army camp on that day was  aborted due to an accident which killed 43 persons and injured 51 persons. A carefully planned operation by the LTTE with a tremendous chance of success was not implemented  as a result of it.
-
-The casualties included three senior leaders of the LTTE at that time. 14 February 1987  remains  an explosive date in the annals of contemporary military history and is worthy of being recounted as  it’s 34th anniversary draws near.
-
-...
-
-[Data](articles/93896b9f.json)
-
-[Extended Data](ext_articles/93896b9f.ext.json)
-
----
-
-### Sri Lanka committed to reconciliation through domestic institutions: Minister
-
-*2024-02-13 18:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-committed-to-reconciliation-through-domestic-institutions-minister-150734/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s is committed to pursuing progress on reconciliation and human rights through domestic institutions, its Minister of Foreign Affairs has said.
-
-“I emphasized Sri Lanka’s commitment to pursuing tangible progress on reconciliation and Human Rights through domestic institutions while maintaining its constructive engagement with the United Nations,” Minister of Foreign Affairs M U M Ali Sabry said on social media platform X (twitter).
-
-Sabry chaired the inaugural session of the Inter-Ministerial Standing Committee on Human Rights at the Ministry pf Foreign Affairs on Tuesday (13).
-
-Foreign Secretary Aruni Wijewardane, Sabri said, “explained the structure of the Committee as a permanent national framework to ensure efficient coordination and reporting on Sri Lanka’s voluntary international commitments regarding human rights and reconciliation. (Colombo/February13/2024)
-
-◼️
-
-[Data](articles/48540b1d.json)
-
-[Extended Data](ext_articles/48540b1d.ext.json)
-
----
-
-### US Senate passes $95 bln aid bill for Ukraine, Israel and Taiwan
-
-*2024-02-13 18:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97240/us-senate-passes-95-bln-aid-bill-for-ukraine-israel-and-taiwan) · `en`
-
-The Democratic-led U.S. Senate on Tuesday passed a $95.34 billion aid package for Ukraine, Israel and Taiwan, amid growing doubts about the legislation’s fate in the Republican-controlled House of Representatives.
-
-The lawmakers approved the measure in a 70-29 vote that exceeded the chamber’s 60-vote threshold for passage and sent the legislation on to the House. Twenty-two Republicans joined most Democrats to support the bill.
-
-“It’s certainly been years, perhaps decades, since the Senate has passed a bill that so greatly impacts not just our national security, not just the security of our allies, but the security of western democracy,” Senate Majority Leader Chuck Schumer said.
-
-The Senate vote occurred before sunrise, after eight hardline Republican opponents of Ukraine aid held an overnight marathon of speeches that dominated the chamber floor for more than six hours.
-
-...
-
-[Data](articles/77c47a5d.json)
-
-[Extended Data](ext_articles/77c47a5d.ext.json)
-
----
-
-### Judgment on Diana’s citizenship case to be delivered in due course
-
-*2024-02-13 17:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Judgment-on-Dianas-citizenship-case-to-be-delivered-in-due-course/108-276934) · `en`
-
-Colombo, Feb 13 (Daily Mirror) - The Supreme Court today concluded the hearing of the appeal petition filed challenging the Court of Appeal decision to dismiss a writ petition which challenged the legality of State Minister Diana Gamage’s parliamentary seat.
-
-The Supreme Court three-judge-bench comprising Justices Gamini Amarasekara, Kumuduni Wickremasinghe and Janak de Silva announced that the court will deliver its judgment regarding this appeal in due course.
-
-Social activist Oshala Herath filed this appeal before the Supreme Court seeking an order in the nature of a Writ of Quo Warranto declaring that Diana Gamage is disqualified to be a Member of Parliament and is thus not entitled to hold office as a Member of Parliament.
-
-...
-
-[Data](articles/e6c8deef.json)
-
-[Extended Data](ext_articles/e6c8deef.ext.json)
 
 ---

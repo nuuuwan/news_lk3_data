@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 18:32:48**
+As of **2024-02-14 18:50:39**
 
 ## Newspaper Stats
 
-*Scraped **7,015** Articles*
+*Scraped **7,017** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 80
-bbccomsinhala | 93
+bbccomsinhala | 94
 dbsjeyarajcom | 149
 newsfirstlk | 363
 islandlk | 365
@@ -19,18 +19,34 @@ adalk | 598
 tamilmirrorlk | 854
 adaderanalk | 861
 virakesarilk | 896
-adaderanasinhalalk | 985
+adaderanasinhalalk | 986
 dailymirrorlk | 1,028
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,993 (99.7%) of 7,015 articles have been extended.
+7,015 (100.0%) of 7,017 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### ශ්‍රී ලංකාවට ලකුණු 267ක ඉලක්කයක්
+
+*2024-02-14 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193380) · `si`
+
+ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර තෙවැනි සහ අවසන් එක්දින තරගයේ පළමුවෙන් පන්දුවට පහර දුන් ඇෆ්ගනිස්තානය සියලු ක්‍රීඩකයන් දැවී ලකුණු 266ක් රැස් කළේ ය.
+
+ඇෆ්ගනිස්තානය වෙනුවෙන් රහ්මට් ශා ලකුණු 65ක් රැස් කළ අතර, අස්මතුල්ලා ඔමාසායි ලකුණු 54ක් රැස් කළේ ය.
+
+පන්දු යැවීමේ දී ප්‍රමෝද් මධුශාන් කඩුලු 03ක් බිඳ දැමීමට සමත් විය.
+
+◼️
+
+[Data](articles/fa7514f8.json)
+
+---
 
 ### Police recover vehicle used in Modara shooting
 
@@ -52,17 +68,21 @@ While the motive behind the shooting has not been ascertained yet, investigation
 
 [Data](articles/44a11ebf.json)
 
+[Extended Data](ext_articles/44a11ebf.ext.json)
+
 ---
 
-### பேஸ்புக் முடங்கியது
+### Facebook was paralyzed
 
 *2024-02-14 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176392) · `ta`
 
-பேஸ்புக் முடக்கமா?  கணனியில் அணுக முடியவில்8ல என புகார் அளித்து வருகின்றமை குறிப்பிடத்தக்கது.
+Does Facebook Disable?It is noteworthy that the computer is complaining of 8L without access.
 
 ◼️
 
 [Data](articles/c31cbc42.json)
+
+[Extended Data](ext_articles/c31cbc42.ext.json)
 
 ---
 
@@ -84,6 +104,8 @@ The officials pointed out that although people are concerned about the ‘direct
 
 [Data](articles/e09c072f.json)
 
+[Extended Data](ext_articles/e09c072f.ext.json)
+
 ---
 
 ### Plans to offer multiple degrees through state universities: Suren Raghavan
@@ -102,21 +124,25 @@ The Minister said steps have been initiated to establish three international uni
 
 [Data](articles/44666795.json)
 
+[Extended Data](ext_articles/44666795.ext.json)
+
 ---
 
-### ஆசிரியர் இடமாற்ற பட்டியலை இரத்து செய்யக் கோரி அம்பாறையில் ஆர்ப்பாட்டம்
+### Demonstration in Amparai demanding the cancellation of teacher transfer list
 
 *2024-02-14 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176389) · `ta`
 
-அண்மையில் கிழக்கு மாகாணக் கல்வி திணைக்களம் வெளியிட்ட ஆசிரியர் இடமாற்ற பட்டியலை இரத்து செய்ய  கோரி பெருந்தொகையான கல்முனை மற்றும் சம்மாந்துறை கல்வி வலய ஆசிரியர்களால் அம்பாறை மாவட்ட செயலகம் முன்னால் மாபெரும் கண்டன பேரணி இன்று புதன்கிழமை (14)  இடம்பெற்றது.
+A massive rally was held today (14) in front of the Ampara District Secretariat by the Teachers of the Kalmunai and Samanthurai Education Zone demanding the cancellation of the Teachers' Transfer List released by the Eastern Provincial Department of Education.
 
-இன்றைய தினம் அம்பாறை மாவட்ட அபிவிருத்தி ஒருங்கிப்பு குழுக் கூட்டம் அம்பாறை கச்சேரியில் நடைபெறுகின்ற நிலையில்,
+As the Ampara District Development Committee meeting is being held today at the Ampara Concert,
 
-திகாமடுல்ல மாவட்ட பாராளுமன்ற உறுப்பினர எச்.எம்.எம் ஹரீஸிடம் ஆசிரியர்கள் இன்று நேரடியாக சந்தித்து தங்களுடைய பிரச்சினைகளை எடுத்து வைத்தனர். அதனைக் கருத்தில் கொண்டு பாராளுமன்ற உறுப்பினர் ஹரீஸ் இந்த விடயத்துக்கு நியாயமான தீர்வு ஒன்றினை பெற்றுத்தருவதாக உறுதி அளித்தனர்.
+Teachers met with HMM Haris, a member of the Digamadulla district parliamentarian today and took up their problems. In view of that, MP Haris promised to find a reasonable solution to the issue.
 
 ◼️
 
 [Data](articles/cd8ee2e2.json)
+
+[Extended Data](ext_articles/cd8ee2e2.ext.json)
 
 ---
 
@@ -146,19 +172,21 @@ He said that the reporting of cancer patients per year will be reported from 1,0
 
 ---
 
-### சூழ்ச்சிகளை முறியடித்து மாநாட்டை நடத்துக - சம்பந்தன் அறிவுறுத்தல்
+### Treat the conference and hold the conference - Sampanthan's instruction
 
 *2024-02-14 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176387) · `ta`
 
-உட்கட்சி ஜனநாயகத்தைச் சிதைக்கும் வகையில் நடைபெறும் சூழ்ச்சிகளை முறியடித்து, உடனடியாக மாநாட்டை நடாத்துமாறு, இலங்கைத் தமிழரசுக் கட்சியின் பெருந்தலைவரும், நாடாளுமன்ற உறுப்பினருமான இரா.சம்பந்தன், கட்சியின் புதிய தலைவராகத் தெரிவுசெய்யப்பட்டுள்ள சிவஞானம் சிறீதரனுக்கு அறிவுறுத்தியுள்ளார்.
+Sivagnanam Sampanthan, the leader of the Sri Lanka Tamil National Alliance (TNA), has advised Sivagnanam Sridharan as the new leader of the party, to defeat the intrigue of internal democracy and immediately hold the conference.
 
-நாடாளுமன்ற உறுப்பினர்களான சிவஞானம் சிறீதரன், சாள்ஸ் நிர்மலநாதன் ஆகிய இருவரும் இணைந்து, செவ்வாய்க்கிழமை (13), கொழும்பிலுள்ள அவரது இல்லத்தில் இரா.சம்பந்தனை சந்தித்துக் கலந்துரையாடியபோதே, அவர் இவ்வாறு தெரிவித்துள்ளார்.
+He was speaking at a meeting with MPs Sivagnanam Sreedharan and Charles Nirmalanathan at his residence in Colombo on Tuesday (13).
 
-கட்சியின் தலைமைப் பொறுப்பை உத்தியோகப்பூர்வமாக ஏற்றுக்கொள்வதற்கு உடனடி நடவடிக்கைகளை மேற்கொள்ளுமாறும், நிருவாகிகள் தெரிவு தொடர்பில் இணக்க அடிப்படையில் எட்டப்பட்ட முடிவுகளைப் பொதுச்சபை அங்கீகரிக்காதவிடத்து, அல்லது அத்தெரிவுகளில் குழப்பங்கள் நிலவுமிடத்து, தேர்தல் முறைமை மூலம் தெரிவுகளை நடாத்தி, அன்றையதினமே மாநாட்டையும் நடாத்துமாறு அவர் மேலும் தெரிவித்திருந்தமை குறிப்பிடத்தக்கது.
+He further stated that the conference was held on the day of the party to take immediate steps to officially accept the leadership of the party, and that the General Assembly did not recognize the conclusions on the basis of the selection of administrators, or confused the election system.
 
 ◼️
 
 [Data](articles/3ebd78b7.json)
+
+[Extended Data](ext_articles/3ebd78b7.ext.json)
 
 ---
 
@@ -177,6 +205,8 @@ Apart from showcasing their product ranges to buyers, the exhibitors benefitted 
 ...
 
 [Data](articles/7954b856.json)
+
+[Extended Data](ext_articles/7954b856.ext.json)
 
 ---
 
@@ -198,19 +228,21 @@ The trade union action commenced 72 health unions yesterday (13) at 6.30 am yest
 
 ---
 
-### காதலுக்கு ஒரு நாள்
+### A day for love
 
 *2024-02-14 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176386) · `ta`
 
-இன்று உலகம் முழுவதிலும் உள்ள மக்களில் அதிகமானவர்கள் காதலர் தினத்தை கொண்டாடி தீர்த்துக்கொண்டிருக்கின்றனர்.  காதலுக்கு என்று ஒரு தினம் . ஆனால் காதலை ஒரே நாளில் நாம் கொண்டாடி தீர்க்க முடியாது. இறைவன் படைத்த  அதி உன்னதமான  உணர்வு காதல். இந்த உலகில்  காதல் வசப்படாதவர்கள் என்று யாருமே இருக்க முடியாது. எந்த உயிரும் இருக்க முடியாது. நாம் பிறப்பதற்கு முன்பிலிருந்து நாம் இறந்ததற்கு  பின்னரும் இந்த பூமியில் நிலைத்திருப்து காதல்தான். எல்லாம் மாறினாலும் காதல் என்றும் மாறுவதில்லை. யுகம் யுகமாக காதல்  தொடர்ந்து கொண்டுதான் இருக்கின்றது.
+Today, most of the people around the world are celebrating Valentine's Day.A day that is for love. But we can't solve love in one day. Love created by the Lord. There is no one in this world that no one is in love. No life can be. Even before we are born, we have been in love with this earth. Even though everything changed, love never changed ever. Love continues to be the era.
 
-காதலை கொண்டாடதவர்க்ள என்று யாரும் இருக்க முடியாது .. மீசை முளைக்கட்டும்   பருவம் தொட்டு மீசை நரைத்து கூன் விழுந்த பின்னரும் நம் மனதை பட்டாம் பூச்சியாக  பறக்கவைப்பது காதல் தான்.
+There is no one who celebrates love.. Even after the mustache sprouting and the mustache falls into the mustache, it is love to fly our minds as an insect.
 
-எப்போது எங்கு யார் மீது  நாம் காதல் வயப்படுவோம் என்று யாருக்கும் சொல்ல முடியாது அதுதான் காதல்.. உயிரை குடைந்து உள்ளுக்குள்  உயிரை சிலிர்க்க வைத்து  பூக்க வைக்கும் உன்னதம்.
+No one can tell us where we will fall in love with when.. The classic of life in the inside of life.
 
 ...
 
 [Data](articles/284e8b64.json)
+
+[Extended Data](ext_articles/284e8b64.ext.json)
 
 ---
 
@@ -227,6 +259,8 @@ Police had launched a search operation after the relatives had complained that t
 ◼️
 
 [Data](articles/91403c5d.json)
+
+[Extended Data](ext_articles/91403c5d.ext.json)
 
 ---
 
@@ -245,6 +279,8 @@ During the visit, Minister Sabry will engage in meetings with his counterparts f
 ◼️
 
 [Data](articles/672a2e92.json)
+
+[Extended Data](ext_articles/672a2e92.ext.json)
 
 ---
 
@@ -272,6 +308,8 @@ A bond maturing on 01.07.2032 closed at 12.35/60 percent down from 12.25/75 perc
 
 [Data](articles/f11e69d4.json)
 
+[Extended Data](ext_articles/f11e69d4.ext.json)
+
 ---
 
 ### Sri Lanka cricketers wear black arm bands for third Afghanistan ODI
@@ -289,6 +327,8 @@ Rajaratnam, who was a former Vice President of SLC, also served as Treasurer.
 ◼️
 
 [Data](articles/a6018863.json)
+
+[Extended Data](ext_articles/a6018863.ext.json)
 
 ---
 
@@ -382,19 +422,21 @@ If no candidate wins a majority, a runoff between the top two finishers will be 
 
 ---
 
-### நன்னடத்தை பாடசாலை மேற்பார்வையாளரான பெண்ணிற்கு மீண்டும் 14 நாட்கள் விளக்கமறியல்
+### 14 Days of Explanation for Woman
 
 *2024-02-14 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176380) · `ta`
 
-நன்னடத்தை பாடசாலையில்  உயிரிழந்த சிறுவனின் மரணம் தொடர்பில் கைதான அப்பாடசாலையின் மேற்பார்வையாளரான பெண்ணை 14 நாட்கள் விளக்கமறியலில்   வைக்குமாறும் அது  தொடர்பான  வழக்கு எதிர்வரும் பெப்ரவரி மாதம் 28 ஆம்  திகதி வரை மறு விசாரணைக்காக ஒத்தி  வைக்குமாறு கல்முனை நீதிவான் நீதிமன்று உத்தரவிட்டுள்ளது.
+The Kalmunai Magistrate has ordered the postponement of the case to be remanded for 14 days, and the case was postponed until February 28.
 
-அம்பாறை மாவட்டம்  கல்முனை தலைமையக   பொலிஸ் பிரிவிற்குட்பட்ட சிறுவர் நன்னடத்தை பாடசாலையில் தங்க வைக்கப்பட்ட நிலையில் உயிரிழந்த சிறுவனின் மரணம் தொடர்பில் அப்பாடசாலையின் மேற்பார்வையாளரான பெண்  சந்தேகத்தில் கல்முனை தலைமையக பொலிஸாரால்  கைது செய்யப்பட்ட பின்னர் புதன்கிழமை (14) மீண்டும் கல்முனை நீதிமன்ற நீதிவான் எம்.எஸ்.எம் சம்சுதீன் முன்னிலையில் ஆஜர்படுத்தப்பட்ட போதே மேற்கண்டவாறு உத்தரவிட்டார்.
+Kalmunai Magistrate MSM Samsudheen was again ordered to appear again on Wednesday (14) after the suspect was arrested by the headquarters of the Kalmunai headquarters in connection with the death of a boy who was placed in the Children's Probation School in the Kalmunai Headquarters Division of the Ampara District.
 
-குறித்த வழக்கு விசாரணைக்கு  எடுத்து கொள்ளப்பட்ட நிலையில் பொலிஸார் மற்றும் பிரதிவாதியின் சட்டத்தரணி ஆகியோரின் விண்ணப்பங்கள் ஆராயப்பட்டு 28 வயதுடைய  குறித்த பாடசாலையின் மேற்பார்வையாளரான பிறின்ஸி புலேந்திரன் என்பவரை மீண்டும்  விளக்கமறியலில் வைக்குமாறு உத்தரவிடப்பட்டமை குறிப்பிடத்தக்கது.
+The applications of the police and the defendant's lawyer have been investigated as the case has been taken up and ordered to be remanded again, Supervisor of the 28 -year -old school.
 
 ◼️
 
 [Data](articles/f8d81de8.json)
+
+[Extended Data](ext_articles/f8d81de8.ext.json)
 
 ---
 
@@ -407,6 +449,8 @@ Valentine's Day shoppers rejoice as florists along Ven. Baddegama Wimalawansa Ma
 ◼️
 
 [Data](articles/b6c36d4f.json)
+
+[Extended Data](ext_articles/b6c36d4f.ext.json)
 
 ---
 
@@ -487,6 +531,8 @@ Positive contributors to the ASPI in the day included Hayleys Plc (up at 76.50),
 ◼️
 
 [Data](articles/46c3c8d3.json)
+
+[Extended Data](ext_articles/46c3c8d3.ext.json)
 
 ---
 
@@ -600,6 +646,8 @@ The decision by the former Minister of Health was criticized for its lack of val
 
 [Data](articles/5c8e8b14.json)
 
+[Extended Data](ext_articles/5c8e8b14.ext.json)
+
 ---
 
 ### $ 10 as entry charges
@@ -672,6 +720,8 @@ The delegation will meet key Indian officials, including the Minister of Foreign
 
 [Data](articles/baac7a9a.json)
 
+[Extended Data](ext_articles/baac7a9a.ext.json)
+
 ---
 
 ### Hospital services in dire straits as strike continues
@@ -691,6 +741,8 @@ The health workers have so far resorted to three trade union actions this year o
 ...
 
 [Data](articles/6a653971.json)
+
+[Extended Data](ext_articles/6a653971.ext.json)
 
 ---
 
@@ -773,6 +825,8 @@ Sharif said the PML-N was even willing to talk to Khan to include his Pakistan T
 ...
 
 [Data](articles/3f745729.json)
+
+[Extended Data](ext_articles/3f745729.ext.json)
 
 ---
 
@@ -960,6 +1014,8 @@ He said the President had made statements on several recent occasions indicating
 
 [Data](articles/fbc543c3.json)
 
+[Extended Data](ext_articles/fbc543c3.ext.json)
+
 ---
 
 ### Introducing the new website of the President's Fund
@@ -1072,15 +1128,17 @@ ECONOMYNEXT – Sri Lanka needs a new education system that aligns with global s
 
 ---
 
-### සාපෙළට හා උපෙළට දින නියම වෙයි
+### Content and subtitle date
 
 *2024-02-14 13:56:07* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළට-හා-උපෙළට-දින-නියම-වෙයි/11-408082) · `si`
 
-2023 වර්ෂයේ සඳහා වූ සාමාන්‍ය පෙළ විභාගය  2024 මැයි හා ජුනි මාස වල පැවැත්වීමට නියමිත බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය. එසේම 2014 වසරේ අපොස උසස් පෙළ විභාගය දෙසැම්බර් මාසයේ පැවැත්වීමට කටයුතු කරන බවද අමාත්‍යවරයා සඳහන් කළේය.
+Minister of Education Susil Premajayantha said the GCE Ordinary Level Examination for the year 2023 will be held in May and June 2024. The A / L examination will be held in December 2014, the Minister said.
 
 ◼️
 
 [Data](articles/2ed41373.json)
+
+[Extended Data](ext_articles/2ed41373.ext.json)
 
 ---
 
@@ -1179,6 +1237,8 @@ A large section of the population was thrown in poverty after the central bank p
 ...
 
 [Data](articles/cef4f8c5.json)
+
+[Extended Data](ext_articles/cef4f8c5.ext.json)
 
 ---
 
@@ -1507,6 +1567,26 @@ Nimal Levke, former president of the STF, has joined the United People's Power, 
 [Data](articles/a2a335d4.json)
 
 [Extended Data](ext_articles/a2a335d4.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවට සුවිශේෂී වූ අලි ඇතුන් බොහොමයක් මරා දමන්නේ ඇයි ?
+
+*2024-02-14 12:32:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd1vn16rx1ro) · `si`
+
+ශ්‍රී ලංකාවට සුවිශේෂී වූ අලි ඇතුන් බොහොමයක් මරා දමන්නේ ඇයි ?
+
+පසුගිය වසරේ මාර්තු මාසයේදී තම සැමියා පාගා මරා දැමූ දෛවෝපගත සන්ධ්‍යාව විස්තර කරන විට සුමිත්‍රා මල්කාන්තිගේ හදවත බිඳී යයි.
+
+ඇය මුළුතැන්ගෙය තුළ කාර්ය බහුල වී සිටියා ය - එම යුවළ පදිංචිව සිටියේ ශ්‍රී ලංකාව මධ්‍යයේ පිහිටි කෘෂිකාර්මික ගම්මානයක ය - ඇගේ සැමියා වූ තිලක් කුමාර, එම අවස්ථාවේ, ඔහුට අයත් ගවයින්ට ආහාර දෙමින් සිටියේ ය. එහිදී, අලියෙකුගේ කුංචනාදයක් ඇයගේ සවන් වැකිණි.
+
+ඇය පැවසුවේ, ඔහුට ඒ බව දැනුම් දීමට උත්සහ කළ බව ය. එහෙත්, "මිනිත්තු කිහිපයකදී, විනාශය සිදුවී හමාර වී තිබිණි". ගම් වැසියන්ගේ භීතියට පත් කෑගැසීම් හමුවේ අලියා පළාගොස් තිබිණි.
+
+තරුණ දූවරුන් තිදෙනෙකුගේ මවක වන 45 හැවිරිදි මල්කාන්ති පැවසුවේ, සිය පවුල එම සිද්ධියෙන් ඇති වූ කම්පනයෙන් මිදීමට තවමත් උත්සහ දරමින් සිටින බව ය. එවැන්නක් යළිත් සිදුවනු ඇතැයි ඇය බියෙන් පසු වෙයි.
+
+...
+
+[Data](articles/2473b5c7.json)
 
 ---
 
@@ -1957,43 +2037,5 @@ Farmers say the government has failed to fulfil its 2021 promise of paying more 
 [Data](articles/70f06cb7.json)
 
 [Extended Data](ext_articles/70f06cb7.ext.json)
-
----
-
-### 100 crores of fraud in farmers' subsidized fertilizer
-
-*2024-02-14 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/176340) · `ta`
-
-The National Fertilizer Secretariat has said that the Criminal Investigation Department (CID) has taken steps to arrest ten people who have been promoted to the main posts of several fertilizers in connection with the alleged fraud of about Rs 100 crore without providing the imported urea fertilizer to the farmers.
-
-The subsidized fertilizer for farmers has been given to the farmers since 2018, but the main industrial agencies in Horana, Kegalle and Madambai areas have been given high prices in various fraud.
-
-◼️
-
-[Data](articles/5383a22a.json)
-
-[Extended Data](ext_articles/5383a22a.ext.json)
-
----
-
-### Sri Lanka anticipates profitable, self-sustaining postal service by end 2024
-
-*2024-02-14 11:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-anticipates-profitable-self-sustaining-postal-service-by-end-2024-150752/) · `en`
-
-ECONOMYNEXT — A 4 billion-rupee increase in projected revenue for 2023 and a halving of losses year-on-year for Sri Lanka’s Postal Department has prompted the government to declare the state-run service will be profitable and self-sustaining by end 2024.
-
-A revenue projection for Sri Lanka’s state-run Postal Department’s has seen an increase from 9,268 million rupees in 2022 to 13,616 million in 2023, according to State Minister for Mass Media Shantha Bandara.
-
-Bandara told reporters on Tuesday February 13 that the department’s losses have been reduced from 7,173 million rupees in 2021 to 6,832 million in 2022 and to 3,222 million in 2023.
-
-He attributed this to “improved services and enhanced management practices without imposing additional burdens on the public”.
-
-“We are confident that by December 31, 2024, the Postal Department will operate as a self-sustaining, profit-making institution independent of treasury funds,” he said.
-
-...
-
-[Data](articles/6afd3b75.json)
-
-[Extended Data](ext_articles/6afd3b75.ext.json)
 
 ---

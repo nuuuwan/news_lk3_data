@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 03:02:30**
+As of **2024-02-15 03:17:25**
 
 ## Newspaper Stats
 
-*Scraped **7,087** Articles*
+*Scraped **7,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,9 +14,9 @@ dbsjeyarajcom | 149
 newsfirstlk | 363
 islandlk | 365
 economynextcom | 370
-dailyftlk | 385
+dailyftlk | 389
 adalk | 603
-tamilmirrorlk | 860
+tamilmirrorlk | 861
 adaderanalk | 868
 virakesarilk | 911
 adaderanasinhalalk | 998
@@ -26,11 +26,77 @@ dailymirrorlk | 1,041
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,087 (100.0%) of 7,087 articles have been extended.
+7,087 (99.9%) of 7,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### ADB to help develop smart agriculture in Mahaweli Zones
+
+*2024-02-15 02:41:24* · [`dailyftlk`](https://www.ft.lk/business/ADB-to-help-develop-smart-agriculture-in-Mahaweli-Zones/34-758511) · `en`
+
+Asian Development Bank has pledged to assist develop smart agriculture in Mahaweli Zones, following a request made by Irrigation, Wildlife and Forestry Minister Pavithra Wanniarachchi.
+
+She said the ADB has pledged to provide $ 8 million to introduce modern technology in the field of agriculture and livestock.
+
+During a recent discussion with the ADB Country Director Takafumi Kadona officials held at her office, Minister Wanniarachchi requested ADB to assist financial and new technology to the youth as they are keen on a smart agricultural industry.
+
+Subsequently, ADB pledged to assist in this venture as it would increase productivity.
+
+Addressing the top officials at the Ministry yesterday she said the ADB aid is a victory for the Mahaweli farming community.
+
+...
+
+[Data](articles/ed4b2d05.json)
+
+---
+
+### Leading digital transformation: Empowering business leaders for success
+
+*2024-02-15 02:38:45* · [`dailyftlk`](https://www.ft.lk/business/Leading-digital-transformation-Empowering-business-leaders-for-success/34-758510) · `en`
+
+Digital transformation, often seen as the domain of ICT professionals, frequently falls short due to a lack of comprehensive business understanding among these experts. A study by Harvard Business School emphasised that digital transformation is not about technology and IT professionals in Sri Lanka declared at a conference that they could contribute only up to 20% to the success of such initiatives. When IT professionals lead, they excel in technology but may overlook broader business implications. Thus, non-IT managers must step into leadership roles for digital transformation projects, although they may face knowledge gaps in ICT.
+
+...
+
+[Data](articles/14493030.json)
+
+---
+
+### Kanchana calls on JICA for continued assistance to develop sector, including CEB reform process
+
+*2024-02-15 02:35:48* · [`dailyftlk`](https://www.ft.lk/business/Kanchana-calls-on-JICA-for-continued-assistance-to-develop-sector-including-CEB-reform-process/34-758509) · `en`
+
+Expresses gratitude for constant support extended in numerous ways to boost sector
+
+Power and Energy Minister Kanchana Wijesekera yesterday announced that he requested the Japan International Cooperation Agency (JICA) for continued assistance to develop the industry including the reform process of Ceylon Electricity Board (CEB).
+
+Taking to ‘X’ he made this announcement following a meeting held with the JICA President Tanaka Akihito and other senior officials of the institution at the Ministry premises yesterday.
+
+“I thanked the JICA President and the country representatives for their assistance and requested for continued assistance for reforms, energy efficiency programs, infrastructure development and integration of renewable energy,” he added.
+
+He also noted that JICA has assisted vital infrastructure development of the electricity sector, energy efficiency programs with grants, concessionary finance facilities and technical assistance.
+
+...
+
+[Data](articles/011c4ea3.json)
+
+---
+
+### Ocean Lanka wins Raw Material Supplier Cost Efficiency Award setting new benchmark in Sri Lanka
+
+*2024-02-15 02:31:57* · [`dailyftlk`](https://www.ft.lk/business/Ocean-Lanka-wins-Raw-Material-Supplier-Cost-Efficiency-Award-setting-new-benchmark-in-Sri-Lanka/34-758508) · `en`
+
+From left: Victoria’s Secret Materials VP Frances Bau, Victoria’s Secret and PINK President Greg Unis, Ocean Lanka Managing Director Dr.Austin Au, Sales and Marketing Senior Manager Sudath Fernando, Sales and Marketing Assistant General Manager Ruwan Mudalpath, Victoria’s Secret Chief Supply Chain Officer Chris Callieri
+
+Ocean Lanka Ltd., Sri Lanka’s leading weft-knitted fabric manufacturer, celebrated a momentous occasion at the recent Victoria’s Secret and Co Partner Summit 2024 in Hong Kong, becoming the first fabric mill in Sri Lanka to be recognised with the prestigious Raw Material Supplier Cost Efficiency Award. This distinguished honour underscores Ocean Lanka’s unwavering commitment to cost-effectiveness and operational excellence, solidifying its position as a trusted partner for global brands.
+
+...
+
+[Data](articles/4b91349b.json)
+
+---
 
 ### Strong sector performances propel Sunshine Holdings’ earnings by 44.2% to Rs. 5.5 b
 
@@ -79,6 +145,24 @@ The Dialog Smart Home App serves as a centralised platform, allowing users to ef
 [Data](articles/54802884.json)
 
 [Extended Data](ext_articles/54802884.ext.json)
+
+---
+
+### பாலில் விஷம்: 7 பேருக்கும் விளக்கமறியல்
+
+*2024-02-15 01:41:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலில்-விஷம்-7-பேருக்கும்-விளக்கமறியல்/175-333227) · `ta`
+
+கொழும்பு, ஆட்டுப்பட்டி தெரு பொலிஸ் நிலைய கூண்டில் தடுத்து வைத்திருந்த சந்தேநபர்கள் இருவருக்கு விஷம் கலந்த பால் பக்கற்றுகளை கொடுத்தனர் என்ற சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட ஏழு பேரும், எதிர்வரும் 27 ஆம் திகதி வரையிலும் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+கலஹாவில் வைத்து கைது செய்யப்பட்ட ஏழு பேரும், கொழும்பு மேலதிக நீதவான் முன்னிலையில், புதன்கிழமை (14) ஆஜர்படுத்தப்பட்டனர். இதன்போதே, மேலதிக நீதவான் தரங்கா மஹாவத்த மேற்கண்டவாறு உத்தரவிட்டுள்ளார்.
+
+கொழும்பு, ஆட்டுப்பட்டி தெரு பொலிஸ் குழுவினரே,  கலஹா, தெல்தோட்டை கிரேட்வெளி தோட்ட பகுதியிலுள்ள வீடொன்றில் வைத்து, ஏழு பேரையும் கைது செய்துள்ளனர்.  கைது செய்யப்பட்ட ஏழு பேரில், ஐந்து ஆண்களும், பெண்கள் இருவரும் அடங்குகின்றனர்.
+
+கொழும்பு, ஜிந்துபிட்டிய பிரதேசத்தில் ஒருவரை சுட்டுக் கொன்ற சம்பவம் தொடர்பில், கைது செய்யப்பட்ட சந்தேக நபர்கள் இருவருக்கு விஷம் கலந்த பால் கொடுக்கப்பட்ட சம்பவம் தொடர்பிலேயே இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/89be9c09.json)
 
 ---
 
@@ -1939,129 +2023,5 @@ A 9mm pistol and a loaded magazine were recovered from the bathroom.
 [Data](articles/490da335.json)
 
 [Extended Data](ext_articles/490da335.ext.json)
-
----
-
-### Japan grants Rs. 2.8bn to install solar power generation systems at Sri Lankan hospitals
-
-*2024-02-14 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97265/japan-grants-rs-28bn-to-install-solar-power-generation-systems-at-sri-lankan-hospitals) · `en`
-
-The Government of Japan, on Wednesday (14 Feb.), provided a grant of JPY 1,230 million (approximately Rs. 2.8 billion) for a project aiming to use renewable energy to stabilize power supply at hospitals in Sri Lanka.
-
-Accordingly, the relevant grant assistance was provided by the Japanese Government to install rooftop photovoltaic solar power generation systems at selected hospitals in Sri Lanka.
-
-According to the Department of External Resources, rooftop photovoltaic solar power generation systems will be installed at the Sri Jayewardenepura General Hospital, Ratnapura Teaching Hospital, and the Kurunegala Teaching Hospital under this project.
-
-In addition, photovoltaic modules and accessories, power conditioners and accessories, power cables and terminals, fire detectors, other related renovations and related services will also be provided, the Department said in a statement.
-
-...
-
-[Data](articles/4051f6ec.json)
-
-[Extended Data](ext_articles/4051f6ec.ext.json)
-
----
-
-### The JVP must accept what is in Munnila - Udaya Kammanpila
-
-*2024-02-14 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176355) · `ta`
-
-It must be accepted that the Janatha Vimukthi Peramuna (JVP) is currently in the present presence than in the past.
-
-Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya (Hela Urumaya Party), said that there were no political parties in the mood to accept this progress.
-
-He was responding to a question raised by the media regarding the 'JVP's progress' after attending a function in Colombo on Wednesday (14).
-
-With a few polls to be held this year, the Janatha Vimukthi Peramuna (JVP) is said to be present.. The truthfulness of the polls taken, is doubtful.
-
-At present, the People's Liberation Front must accept that the presence of the Liberation Front is currently in the forefront.
-
-Those who have become bankrupt in politics refuse to accept this. But we will accept the truth.
-
-According to the Constitution this year, the presidential election must be held. Internal maneuvers are rapidly carried out to regain the election rather than prioritize the election.
-
-...
-
-[Data](articles/fdb9a2ad.json)
-
-[Extended Data](ext_articles/fdb9a2ad.ext.json)
-
----
-
-### Removed Sri Lanka Medical Council member reappointed
-
-*2024-02-14 16:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Removed-Sri-Lanka-Medical-Council-member-reappointed/108-277008) · `en`
-
-Colombo, Feb 14 (Daily Mirror) -  Prof. Jayantha Jayawardana, a former member of the Sri Lanka Medical Council (SLMC) has been reinstated as an SLMC member after being removed by former Minister of Health Keheliya Rambukwella.
-
-The reappointment has been made by Minister of Health Dr. Ramesh Pathirana.
-
-Accordingly, the term of office for the reappointed member, is set for five years, unless voluntarily resigned or removed as per the ordinance.
-
-Expressing gratitude for the reinstatement, Prof Jayawardana highlighted the unlawful and arbitrary nature of his previous termination. He assumed duties today, February 14, 2024.
-
-Prof. Jayawardana was removed as SLMC Vice President last October without citing reasonable reasons.
-
-The decision by the former Minister of Health was criticized for its lack of valid reasoning and its violation of the principles of natural justice.
-
-...
-
-[Data](articles/5c8e8b14.json)
-
-[Extended Data](ext_articles/5c8e8b14.ext.json)
-
----
-
-### $ 10 as entry charges
-
-*2024-02-14 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193374) · `si`
-
-Foreigners who visit the Bali Islands in Indonesia, a world tourist attraction, have been implemented from today (14).
-
-The Indonesian authorities have stated that this will be taken to protect the culture and ecosystem in the area.
-
-The Bali Islands had reached the Bali Islands in January to November last year.
-
-However, the Bali residents have been opposed to the unwise behavior of foreign tourists during the course of the time, and a Russian had been deported to insult religious places.
-
-According to foreign media, the authorities have planned to ban motorcycle use in the area for foreign rules.
-
-◼️
-
-[Data](articles/1669bca1.json)
-
-[Extended Data](ext_articles/1669bca1.ext.json)
-
----
-
-### A tragedy that shocked hearts
-
-*2024-02-14 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193373) · `si`
-
-A couple in Indian conservation and her twin children were found in the home of the United States.
-
-Due to the lack of response, the police have found their bodies in an notice of a friend who came to their home in California, USA.
-
-The deceased has been identified as a 42-year-old Annand Sujith Henry, his wife, 40-year-old Alice Priyanka and their four-year-old Twins, NOAH and NEITHAN.
-
-Police suspect is that they have committed suicide since their children were killed.
-
-However, the cause of the children's death has not been specific.
-
-Police states that the bodies of the two children were found on the bed of the house room.
-
-The bodies of the deceased couples have been found in the bathroom, where a 9mm pistol firearm was found.
-
-Investigations have revealed that they had maintained a very good relationship with the residents of the area.
-
-The man who has died is a software engineer and his wife has also been in a high-level job.
-
-The residence of them was purchased by US $ 2.1 million in 2020.
-
-◼️
-
-[Data](articles/24096195.json)
-
-[Extended Data](ext_articles/24096195.ext.json)
 
 ---

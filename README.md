@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 01:02:34**
+As of **2024-02-15 01:17:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,041
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,074 (100.0%) of 7,076 articles have been extended.
+7,076 (100.0%) of 7,076 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ Colombo is a city in a hurry. New hotels, shopping malls and highways are mushro
 
 [Data](articles/4d1cfbe5.json)
 
+[Extended Data](ext_articles/4d1cfbe5.ext.json)
+
 ---
 
 ### Wildlife: 50,000 Species Meet the Needs of Billions Worldwide
@@ -55,6 +57,8 @@ Despite widespread criticism especially by some media groups which obviously hav
 ...
 
 [Data](articles/d5d7d03f.json)
+
+[Extended Data](ext_articles/d5d7d03f.ext.json)
 
 ---
 

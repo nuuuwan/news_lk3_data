@@ -1,66 +1,242 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 11:33:00**
+As of **2024-02-14 11:52:01**
 
 ## Newspaper Stats
 
-*Scraped **6,894** Articles*
+*Scraped **6,908** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 80
 bbccomsinhala | 93
 dbsjeyarajcom | 149
-economynextcom | 350
+economynextcom | 353
 newsfirstlk | 363
 islandlk | 365
 dailyftlk | 376
-adalk | 586
-tamilmirrorlk | 843
+adalk | 588
+tamilmirrorlk | 844
 adaderanalk | 844
-virakesarilk | 868
-adaderanasinhalalk | 964
+virakesarilk | 875
+adaderanasinhalalk | 965
 dailymirrorlk | 1,013
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,889 (99.9%) of 6,894 articles have been extended.
+6,908 (100.0%) of 6,908 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### සාමාන්‍ය පෙළ හා උසස් පෙළ පැවැත්වෙන දිනයන්
+### Suspects in detainees arrested seven croanried acres
+
+*2024-02-14 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193358) · `si`
+
+Signs have been arrested by the Gidapupa murder of the Gidapiyadu murder and the main suspect, which was fleeing and the main suspect of the Gidapotha murder.
+
+The main suspect, Mohamed Hussein, a resident of Mattakkuliya, is a resident of Mattakkuliya.
+
+Police say that among the seven arrested, five men and two women were present.
+
+After shooting a man shot dead on the Jidtupitiya, the motorcycle had touched the motorcycle, and the residents of the area was holding one of them.
+
+The other suspect had also been arrested in the Mahiyanganaya.
+
+The two suspects in detention in the demand of the Adrappidi Police on the permission of the Colombo Chief Magistrate's Court
+
+A person who came to view one suspect in a moment when questioned, a person who came to view a suspect had left the fish and two milkters.
+
+The two suspects were admitted to the Colombo National Hospital after admission to the Colombo National Hospital.
+
+...
+
+[Data](articles/7ae1a8a4.json)
+
+[Extended Data](ext_articles/7ae1a8a4.ext.json)
+
+---
+
+### The Kasippu penalty is a thousand
+
+*2024-02-14 11:09:08* · [`adalk`](https://www.ada.lk/breaking_news/කසිප්පු-දඩය-හැටඅට-දහසක්/11-408074) · `si`
+
+Mrs. Mahara Noor 2 Magistrate Fundamental Champion Perera was appointed to pay a fine of Rs.
+
+He was adjourned for the event on March 15. .
+
+He was arrested by the Sapugaskanda Police, police serving (478) and Police Constable Bandara (858885).
+
+◼️
+
+[Data](articles/f366c60f.json)
+
+[Extended Data](ext_articles/f366c60f.ext.json)
+
+---
+
+### O/L, A/L Examinations
+
+*2024-02-14 11:07:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-A-L-பரீட்சைகள்-குறித்து-சற்றுமுன்-வெளியான-அறிவிப்பு/175-333182) · `ta`
+
+The Education Public Standards for 2023 are scheduled to be held in May and June.
+
+Meanwhile, it has been decided to hold the highest level of education for the year 2023 in December.
+
+Minister of Education Susil Premajayantha said that the first installment of 2025 is scheduled to commence on January 2.R
+
+◼️
+
+[Data](articles/4bad942a.json)
+
+[Extended Data](ext_articles/4bad942a.ext.json)
+
+---
+
+### Three persons, including two chariots who were staying in a house in Bambalapitiya
+
+*2024-02-14 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176334) · `ta`
+
+According to Bambalapitiya police, three people, including two chariots, have been arrested in connection with the lock of an old three -storey house worth several crores of rupees in Bambalapitiya.
+
+Three men, including two chariots working in a Vihara in the Malambe area, have been arrested.
+
+Three men, including two chariots, broke into the lock of her house and logged in and were forcibly staying there.
+
+◼️
+
+[Data](articles/7ca1c28e.json)
+
+[Extended Data](ext_articles/7ca1c28e.ext.json)
+
+---
+
+### Sri Lanka’s broadcast authority bill to be presented to parliament soon
+
+*2024-02-14 11:02:00* · [`economynextcom`](https://economynext.com/sri-lankas-broadcast-authority-bill-to-be-presented-to-parliament-soon-150751/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s controversial Electronic Media Broadcasting Authority bill is expected to be presented to parliament soon, according to State Minister for Mass Media Shantha Bandara.
+
+A national media policy has also been drafted and is currently under consideration by the cabinet of ministers for approval, Bandara told reporters on Tuesday February 13.
+
+The state minister insisted that there would be “no hindrance to the media in this regard”.
+
+A statement from the president’s office said significant amendments have been made to the Electronic Media Broadcasting Authority bill following majority agreement.
+
+“The finalised bill has been submitted to the Attorney General’s Department and is anticipated to be presented to parliament for adoption in the near future,” the state minister was quoted as saying.
+
+The bill has proved controversial, with media rights activists and opposition groups claiming it would pose a threat to media freedom in the island nation.
+
+...
+
+[Data](articles/2b272cb4.json)
+
+[Extended Data](ext_articles/2b272cb4.ext.json)
+
+---
+
+### Sri Lanka needs to switch from investing in non-tradable to tradable goods fast: MP
+
+*2024-02-14 11:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-to-switch-from-investing-in-non-tradable-to-tradable-goods-fast-mp-150750/) · `en`
+
+ECONOMYNEXT – Sri Lanka continues to lag behind in its integration into global production networks due to short-sighted goals of producing non-tradables over tradable goods that can be exported, oppositional legislator Harsha De Silva has said.
+
+“There has been a significant growth in the non-tradable sector and production of non-tradable goods between 2010 and 2019. From the growth in the total economy’s production, 70 percent was from the non-tradables sector which cannot be traded in the international market,” the opposition MP said during a debate in Parliament recently.
+
+Non-tradable goods include items such as public services, real estate and construction, goods with very high transportation costs, and commodities produced specifically to meet local retail consumers.
+
+The MP said that due to shortsighted large infrastructure investments such as the development that has gone into the Hambantota area, Sri Lanka’s production has shown exponential growth in the non-tradables sector.
+
+...
+
+[Data](articles/bd60d2bb.json)
+
+[Extended Data](ext_articles/bd60d2bb.ext.json)
+
+---
+
+### Government attempts to bring about harmony through domestic systems - Alizabri
+
+*2024-02-14 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176331) · `ta`
+
+External Affairs Minister Alisabri said Sri Lanka would make efforts to bring about reconciliation through civilian mechanisms.
+
+He said this while addressing the initial session of the Committee of Human Rights.
+
+He said the government would make efforts to bring about reconciliation through domestic mechanisms while continuing their involvement with the United Nations.
+
+He added that the government's commitment to the government's commitment to human rights and the government's commitment to ensuring human rights and reconciliation.
+
+He said the government would continue to have constructive involvement with the United Nations, while the government would protect sovereignty and the government would seek significant improvements in human rights issues.
+
+◼️
+
+[Data](articles/c2d18751.json)
+
+[Extended Data](ext_articles/c2d18751.ext.json)
+
+---
+
+### O / L and A / L dates
 
 *2024-02-14 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193357) · `si`
 
-2023 වර්ෂයේ සඳහා වූ සාමාන්‍ය පෙළ විභාගය 2024 මැයි - ජූනි මාසවල පැවැත්වීමට නියමිත බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත් මහතා පවසයි.
+The GCE Ordinary Level Examination for the year 2024 is scheduled to be held in June - June 2024, Minister of Education Susil Premjages.
 
-මේ අතර 2024 වසරේ අපොස උසස් පෙළ විභාගය දෙසැම්බර් මාසයේ පැවැත්වීමට නියමිතය.
+Meanwhile, the GCE Advanced Level Examination will be held in December 2024.
 
-මේ අතර 2025 වසරේ නව පාසල් වාරය ජනවාරි මස 2 දා ආරම්භ කිරීමට නියමිත බව ද අමාත්‍යවරයා පැවසීය.
+Meanwhile, the new school year in the year 2025 is to be opened on January 2.
 
 ◼️
 
 [Data](articles/1889f1a8.json)
 
+[Extended Data](ext_articles/1889f1a8.ext.json)
+
 ---
 
-### ජනපති පාසල් ළමුන් ඉදිරියේ ඇත්තම කියයි
+### President declares the truth in front of school children
 
 *2024-02-14 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193356) · `si`
 
-දරුවන්ගේ ඉදිරි අනාගතය වෙනුවෙන් අකමැත්තෙන් වුවත් ජාත්‍යන්තරයට ගොස් තමාට හිඟාකෑමට සිදුවූ බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe says that he had to beg the international internationally, even though he was reluctant to the future.
 
-එමෙන්ම ඉතා අසීරුවෙන් ගෙවා දැමූ යුගයට නැවත ගමන් කිරීමට කිසිවෙකුත් කැමැති නැති බවද ජනාධිපතිවරයා අවධාරණය කළේය.
+The President emphasized that no one wants to rebound the time.
 
-කොල්ලුපිටිය ශාන්ත අන්තෝනි විද්‍යාලයේ පැවැත් වූ පෙළපොත් බෙදා දීමේ ජාතික උත්සවය අමතමින් ජනාධිපතිවරයා මෙම අදහස් පළ කළේය.
+The President made these comments addressing the national base of distributing the text books held at St. Anthony's College.
+
+"About 1722,2023. We know what the fuel-station was located. Electricity did not have. Parents looking for oil from where. No food. Ok hardly we went. I don't think anyone wants to go to that era. If those who want to go to that age, no one lived. It was our time. When you were the students. I look back in your future, making a strong economy. It's not worth looking to find oil when it comes to adults. There is no need for jobs. Take a strong economy without all. We had to ask for money from the countries this time. I'm reluctant or have begun. Give you a future. I don't think the government of you in a society that is older. "
+
+◼️
+
+[Data](articles/b77feb26.json)
+
+[Extended Data](ext_articles/b77feb26.ext.json)
+
+---
+
+### Beauty Flamingo Birds!
+
+*2024-02-14 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176329) · `ta`
+
+"Flamingo" is found in the Mannar area. It is known to be relocated to Sri Lanka for a number of reasons, including the availability of food, the choice of weather and reproductive couples.
+
+Among the migrant birds, the most rare and most sensitive bird is flamingo.At present they are all concentrated in Mannar.
+
+The displaced period is always an enthusiastic time for the audience, and they have a unparalleled opportunity to see, surprise and photograph the beautiful and majestic Flamingo birds that spend more than five months on the wetlands of Mannar.
+
+These types of birds stay in November from month to April. They migrate not only to Sri Lanka but also to Pakistan and India.
+
+Wildlife Photo Artist AL Muhammad Rasim, who photographed Flamingo legends, said,
 
 ...
 
-[Data](articles/b77feb26.json)
+[Data](articles/5ce4bd41.json)
+
+[Extended Data](ext_articles/5ce4bd41.ext.json)
 
 ---
 
@@ -84,23 +260,75 @@ However, the Minister expressed that there the farmers are facing a problematic 
 
 ---
 
-### කෝටි ගණනක් වටිනා නිවසකට බලෙන් ඇතුළු වූ හිමිවරුන් දෙනමක් අත්අඩංගුවට
+### Dubai Bonista was attacked by the manager of France
+
+*2024-02-14 10:14:02* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රංශයේ-රූබන්ගේ-අවන්හලේ-කළමනාකරුට-ඩුබායි-බොනිස්ටා-නිපුනගෙන්-ප්‍රහාරයක්/11-408072) · `si`
+
+Modara Police say a group of people who arrived in a car last night have fled to a car from Modara, Modara Street.
+
+Ramachandran Romachandran Romachandran Romachandran, a resident of Grandpass No. 64/26 was injured in the shooting Colombo 14, Grandpass No. 64/26.He has been admitted to the Colombo National Hospital.
+
+The police say that the restaurant has received information that belongs to Ruben, in France, in France.
+
+Police investigations have revealed that the shot of three persons from a white car when the Manager was in the gate seat.
+
+Police say eight shots have been handed over to the manager.The shooting has been led by the Buddha's "Bonistant Skill" in Dubai due to a drug dispute.
+
+A spokesman said that he was not serious in the casualt of injuries and he is receiving treatment at ward 72.Modara police are conducting further investigations.
+
+◼️
+
+[Data](articles/791435ef.json)
+
+[Extended Data](ext_articles/791435ef.ext.json)
+
+---
+
+### Sri Lankans continuously demanding hospital assistance in Australia
+
+*2024-02-14 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176327) · `ta`
+
+Investigations have begun to investigate the death of a Sri Lankan person as they did not get their help in the Emergency Service in Melbourne, Australia, during the time of the Govt.
+
+The 23 -year -old Sri Lankan Sachinda Pattakodake was invited to the Adelaide Royal Hospital three times in 2020 in November 2020 and that he had coughing and bleeding during the cough.
+
+Sachinda, who migrated to Adelaide in 2020, lives there with his wife - he is involved in carpentry.
+
+When the Sri Lankan went to Royal Adelaide Hospital for the third time, his wife asked her husband to be hospitalized, a psychic advisor told the court.
+
+The wife of the deceased says that her husband is scared of her life.
+
+Although she pleaded with her husband to provide medical assistance, it was not listening to it, the psychic consultant told the court.
+
+The wife then took her husband to another hospital and asked him to scan immediately but she died shortly afterwards.
+
+...
+
+[Data](articles/faebe0d0.json)
+
+[Extended Data](ext_articles/faebe0d0.ext.json)
+
+---
+
+### Two men arrested for billions of people
 
 *2024-02-14 10:00:45* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-ගණනක්-වටිනා-නිවසකට-බලෙන්-ඇතුළු-වූ-හිමිවරුන්-දෙනමක්-අත්අඩංගුවට/11-408071) · `si`
 
-රුපියල් කෝටි ගණනාවක් වටිනා  බම්බලපිටිය ෆරිඩ් පෙදෙසේ  පැරණි තෙමහල් නිවසකට ඉබි යතුරු කඩා අනවසරයෙන් ඇතුළු වී සිටි බව කියන සාමණේර හිමිවරුන් දෙදෙනෙක් අත්අඩංගුවට ගත් බව බම්බලපිටිය පොලිසිය කියයි
+Bambalapitiya Police say two sacred house was arrested in the old spy house to a three storied house in Furid Place, Bambalapitiya worth Rs.
 
-එලෙස අත්අඩංගුවට ගෙන ඇත්තේ මාලඹේ ප්‍රදේශයේ විහාරස්ථානයක වැඩ වාසය කරන සාමණේර හිමිවරුන් දෙදෙනෙකි
+Such has been arrested by two Samadhana monks living in a temple in Malabe
 
-තම නිවසේ ඉබයතුරු කඩා හිමිවරුන් තිදෙනෙකු  තවත් පුද්ගලයකු බලෙන් රැඳී සිටින බවට  නිවසේ හිමිකාරිය බව කියන කාන්තාවක් පොලිසියට කරන ලද පැමිණිල්ලක් අනුව එම ස්ථානයට ගිය පොලිස් කණ්ඩායමක් විසින් එම අවස්ථාවේ සිටි වයස අවුරුදු 20 හා 14 පසුවල හිමිවරුන් දෙදෙනා අත්අඩංගුවට ගෙන ඇත
+A woman who is said to be a lodge that three people who were trying to remain in the home of their home, was a complaint lodged by the police, the two monks were arrested by a police team for the age of 20 and 14 years of age
 
-මෙම නිවසට එකම පවුලේ සහෝදර සහෝදරියන් තිදෙනෙකු හිමිකාරීත්වය දරන අතර හිමිනමක් විදේශගත වූ අවස්ථාවේදී ඇටෝනි බලපත්‍රයක් මගින් එහි කොටසක් පවරා දුන් බවත් ඒ හේතුවෙන් හිමිකාරීත්වය ඇති පවසා නිවසට ඇතුළු වී ඇති බවට තොරතුරු ලැබී ඇතැයි පොලිසිය කියයි.
+Police say that there was information that an Attorney license has been filed by an Atoney license when a monastery was abroad.
 
-එම නිවසට බලහත්කාරයෙන් ඇතුළු වූ තවත් හිමිනමක් සහ අනෙක් පුද්ගලයා අත්අඩංගුවට ගැනීමට පොලිසිය පරීක්ෂණ පවත්වයි.
+Another monk who entered the house and the police are conducting further investigations.
 
 ◼️
 
 [Data](articles/9dc5fe79.json)
+
+[Extended Data](ext_articles/9dc5fe79.ext.json)
 
 ---
 
@@ -133,6 +361,50 @@ There is a promise that she has promised to support Sri Lanka's economic challen
 [Data](articles/f3b951a5.json)
 
 [Extended Data](ext_articles/f3b951a5.ext.json)
+
+---
+
+### Samanthavar appeals to the President
+
+*2024-02-14 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176323) · `ta`
+
+Samanthavar, president of the US company for international development, said the impact of the Freedom Security Act on freedom of expression would restricted to investing in Sri Lanka's digital economy.
+
+Samanthavar, president of the US company for International Development, said this while he held talks with President Ranil Wickremesinghe on Tuesday.
+
+Samanthavar expressed the dedication of the US company for international development to work with President Wickremesinghe in facing difficult economic challenges.
+
+At the same time, they discussed the importance of democratic rule and the process of the Advisory Legislature.
+
+Samanthavar appealed to President Wickremesinghe to take steps to solve the impact on the freedom of freedom of expression and the impact of freedom of expression, with strong US support for freedom of expression.
+
+◼️
+
+[Data](articles/0cfd2ab5.json)
+
+[Extended Data](ext_articles/0cfd2ab5.ext.json)
+
+---
+
+### Sri Lanka IPS calls proposals for Saman Kelegama research grant
+
+*2024-02-14 09:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-ips-calls-proposals-for-saman-kelegama-research-grant-150737/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Institute of Policy Studies said it is calling proposals for the annual Saman Kelegama Resarch grant.
+
+It is open for fourth-year undergraduates studying economics or a related subject in a University Grants Commission approved university or higher education institution in Sri Lanka.
+
+The Institute of Policy Studies of Sri Lanka (IPS) is inviting proposals for the Saman Kelegama Memorial Research Grant 2024. The grant is an annual, merit-based grant awarded to an outstanding undergraduate studying in a Sri Lankan university. It aims to promote policy entrepreneurs among undergraduates by encouraging policy-relevant, rigorous and innovative socio-economic research.
+
+The grant was established in 2018 to honour Dr. Saman Kelegama’s legacy of independent research and public policy engagement in socio-economic development in Sri Lanka and the wider South Asian region.
+
+Dr. Kelegama was the Executive Director of the IPS from 1995 to 2017.
+
+...
+
+[Data](articles/69b454e4.json)
+
+[Extended Data](ext_articles/69b454e4.ext.json)
 
 ---
 
@@ -178,6 +450,28 @@ He asserted that Sri Lanka will continue to engage constructively with the Unite
 
 ---
 
+### Shebas Sharif recommends Pakistan's new Prime Minister
+
+*2024-02-14 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/176320) · `ta`
+
+In the general election held in Pakistan, no party has not received a majority. Pakistan has already suffered a major setback.
+
+In this case, the Pakistani People's Party Bilawal Bhutto and his father Sardari did not contest the post of Prime Minister.
+
+They said they would not be in the cabinet and said they would support Nawaz Sharif's party from the outside.
+
+In this case, Nawaz Sharif has nominated his brother Shebaz Sharif as the prime ministerial candidate.
+
+If the coalition parties accept this, Shebaz Sharif will be appointed as the next Prime Minister of Pakistan.
+
+◼️
+
+[Data](articles/fbbc6d55.json)
+
+[Extended Data](ext_articles/fbbc6d55.ext.json)
+
+---
+
 ### In the CCTV camera, the madara shooter
 
 *2024-02-14 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193354) · `si`
@@ -199,6 +493,22 @@ The police suspect that the shooting has been used to shoot is yet to be determi
 [Data](articles/84dd6c56.json)
 
 [Extended Data](ext_articles/84dd6c56.ext.json)
+
+---
+
+### Colombo - shooting in the clash - one injury
+
+*2024-02-14 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176321) · `ta`
+
+One person has been admitted to the Colombo National Hospital after being injured in the shooting incident in the Colombo -Motarai area.
+
+A 51 -year -old man was injured in the shooting, police said.
+
+◼️
+
+[Data](articles/f0039f34.json)
+
+[Extended Data](ext_articles/f0039f34.ext.json)
 
 ---
 
@@ -509,6 +819,8 @@ According to Robocash which is rebranded as UNA Financial, the user base of Sri 
 ...
 
 [Data](articles/e88dfdc8.json)
+
+[Extended Data](ext_articles/e88dfdc8.ext.json)
 
 ---
 
@@ -1680,19 +1992,25 @@ The gazette has been issued by the state to declare all the services, work or wo
 
 ---
 
-### වී අලෙවි මණ්ඩලය රු. කෝටි 124ක් අලාභයි
+### Paddy Marketing Board Rs. 124 crores loss
 
 *2024-02-13 20:35:25* · [`adalk`](https://www.ada.lk/breaking_news/වී-අලෙවි-මණ්ඩලය-රු--කෝටි-124ක්-අලාභයි/11-408070) · `si`
 
-වී අළෙවි මණ්ඩලය රුපියල් එකසිය විසිහතර කෝටි අසූහත් ලක්ෂ තිස්නවදහස් හැත්තෑ නවයක (1,248,739,079) පාඩුවක් ලබා ඇති බව ජාතික විගණන කාර්යාලය විසින් වී අළෙවි මණ්ඩලය සම්බන්ධයෙන් 2024.02.11 දින නිකුත් කොට ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
+The Paddy Marketing Board (NICT) has been a loss of Rs.
 
-වී අළෙවි මණ්ඩලය 2020 වර්ෂයේ ලබා ඇති පාඩුව2019 වර්ෂයට සාපේක්ෂවරුපියල් පනස් කෝටි හැත්තෑ ලක්ෂහැත්තෑ පන්දහස් අටසිය හතරකින් (507,075,804) වැඩි වී ඇති බවද සඳහන් වේ.මෙකී පාඩුව රුපියල්තුන්කෝටි හැටහත් ලක්ෂඅනූහයදහස් හයසිය තිස්අටක් (36,796,638) වේ.වෙනත් ආදායම් අඩු වීම හා මූල්‍ය වියදම, රුපියල් හැත්තෑ එක්කෝටිහැත්තෑ දෙලක්ෂ විසිපන්දහස් අටසිය විසිහතරකින් (717,225,824)වැඩි වීඇති බවද එම විගණනය මගින් අනාවරණය කොට ඇත.
+The loss in 2020, the loss in the year 2020, the loss was increased by Rs. 56,796,638.The audit has revealed that the audit (717,225,824) in the increase in two hundred and twenty-four.
 
-වීඅළෙවි මණ්ඩලය විසින් මහා භාණ්ඩාගාරය සඳහා රුපියල් හයසිය හැටඅට කෝටි හතළිස් පන්ලක්ෂ පනස්හතරදහස් පන්සිය තිස්හතරක මුදලක්(668,45,54,534)ගෙවීමට තිබූ අතර, එම මුදල 2023 වර්ෂයේ අප්‍රේල් මස 30වන දින දක්වා නිරවුල් කිරීමට කටයුතු කර නොතිබූ බවට විගණනය මගින් අනාවරණය කොට ඇත.
+The Weight Board had to pay Rs.
 
-...
+The Paddy Marketing Boundary was purchased by the paddy stock market, the Treasury and state banks had been able to cover the next season prices and losses for the purchase of paddy.. The Audit Report states that the amount owed by December 2020 million for the loans from two state banks.
+
+The interest paid for this project is Rs. 28,67 million. Thirty-three thousand ninetees (706,737,098) to the Paddy Marketing Board (706,737). Meanwhile, the government's loan to the government has a loan to the government.
+
+◼️
 
 [Data](articles/7832bea4.json)
+
+[Extended Data](ext_articles/7832bea4.ext.json)
 
 ---
 
@@ -1711,291 +2029,5 @@ Thirty million eighty-three million, eighty-three million people should be owned
 [Data](articles/2d6ec04e.json)
 
 [Extended Data](ext_articles/2d6ec04e.ext.json)
-
----
-
-### Gazette notification for health services
-
-*2024-02-13 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193342) · `si`
-
-A special gazette notification has been issued with many services related to health care.
-
-It is said that it was issued as per the commander of the President.
-
-Accordingly, all service work or labor have been substantiated in hospitals, nursing homes, peppers and other equal organizations.
-
-◼️
-
-[Data](articles/4ab66836.json)
-
-[Extended Data](ext_articles/4ab66836.ext.json)
-
----
-
-### Health services declared as Essential Public Service
-
-*2024-02-13 20:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-services-declared-as-Essential-Public-Service/108-276939) · `en`
-
-An Extraordinary Gazette has been issued making all service connected to the maintenance and reception, care, feeding and treatment of patients in hospitals, nursing homes, dispensaries and other similar institutions, as an Essential Public Service.
-
-The gazette notification has been issued by President Ranil Wickremesinghe by virtue of the powers vested in him in terms of Section 2 of the Essential Public Services Act.
-
-◼️
-
-[Data](articles/b3cc46f2.json)
-
-[Extended Data](ext_articles/b3cc46f2.ext.json)
-
----
-
-### The assassin killer is destined to pay for 27 years in jail for 27 years
-
-*2024-02-13 20:08:25* · [`adalk`](https://www.ada.lk/breaking_news/අටුළුගම-දැරිය-ඝාතකයා-වසර-27-ක්-හිරේ-ලක්ෂ-30-ක-වන්දියක්-ගෙවන්නත්-නියමවෙයි/11-408068) · `si`
-
-Panadura High Court Judge, Panadura High Court Judge, was held in the Athulgama area in the Athulgama area in Bandaragama.
-
-Mohamed Farooq Mohamed Ganeshanathan, a resident of Attulgama, Bandaragama, sentenced him.
-
-In addition to this penaliya, the High Court Judge has also set to pay a compensation of the girl's mother.
-
-If you do not pay the compensation, another six and a half years are loose prisons.
-
-The main magistrate was filed by the Attorney General with the surrounding forest, the Attorney General had filed a murder in the surrounding jungle in the surrounding forest.
-
-◼️
-
-[Data](articles/00ac2a96.json)
-
-[Extended Data](ext_articles/00ac2a96.ext.json)
-
----
-
-### Bangladesh recall Mahmudullah, Taijul for Sri Lanka T20Is
-
-*2024-02-13 20:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladesh-recall-Mahmudullah-Taijul-for-Sri-Lanka-T20Is/108-276937) · `en`
-
-Dhaka, Feb. 13 (AFP) - Bangladesh on Tuesday recalled batsman Mahmudullah Riyad and Taijul Islam to their Twenty20 international squad for the three-match series against Sri Lanka in March.
-
-Former captain Mahmudullah last played a T20I against Zimbabwe in 2021, but did well in the ongoing Bangladesh Premier League to force his way back into the squad.
-
-Left-arm spinner Taijul played the last of his two T20Is in 2019.
-
-Opening duo Anamul Haque and Mohammad Naim also returned to the squad on the back of a strong showing in the BPL.
-
-Off-spinner Aliss Al Islam is the only newcomer in the T20 squad, that will miss the service of all-rounder Shakib Al Hasan.
-
-Shakib, who has been suffering from an eye problem, is also absent in the ODI squad for the first two one-day internationals.
-
-Sri Lanka will arrive in Bangladesh on March 1 to play three T20Is, three ODIs, and two Tests.
-
-Batsman Najmul Hossain Shanto will lead Bangladesh in all three formats after his appointment as skipper for the year 2024.
-
-...
-
-[Data](articles/262d2e19.json)
-
-[Extended Data](ext_articles/262d2e19.ext.json)
-
----
-
-### Pidurutalagala must be reopened for tourists
-
-*2024-02-13 19:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pidurutalagala-must-be-reopened-for-tourists/108-276938) · `en`
-
-Nuwara Eliya, Feb 13 (Daily Mirror) - Arrangements must be made to reopen Pidurutalagala, which is the highest peak in the island, for tourists, Central Province Governor Lalith U. Gamage said at the Nuwara Eliya District Coordinating Committee meeting.
-
-"The Pidurutalagala mountain area in the Nuwara Eliya district, which is the highest on the island and has zero degrees, should be reopened for tourists," he said.
-
-The Piduruthalagala mountain area has high educational and tourism value, and it is inappropriate to continue to maintain it as a prohibited area for the people, he added.
-
-"Local and foreign tourists also like to observe the sunrise from the Nuwara Eliya tourist zones, so an opportunity should be given for that too, and there is an urgent need to open the places with high tourist attraction to the public under suitable methods and to establish appropriate tourism industries related to it," the Governor added.
-
-◼️
-
-[Data](articles/75640ea1.json)
-
-[Extended Data](ext_articles/75640ea1.ext.json)
-
----
-
-### Healthcare gazetted as essential service as trade union action continues
-
-*2024-02-13 19:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97242/healthcare-gazetted-as-essential-service-as-trade-union-actioncontinues) · `en`
-
-A special gazette notification has been published declaring the provision of healthcare as an essential public service.
-
-Presidential Secretary Saman Ekanayake issued the communiqué on Tuesday (Feb.13), on the directives of President Ranil Wickremesinghe.
-
-The communiqué was published in accordance with the powers vested in the President under Section 2 of the Essential Public Services Act No. 61 of 1979.
-
-It reads that “all service, work or labour, of any description whatsoever, necessary or required to be done in connection with the maintenance, and the reception, care feeding, and treatment, of patients in hospitals, nursing homes, dispensaries, and other similar institution” are considered essential to the life of the community.
-
-◼️
-
-[Data](articles/68f83932.json)
-
-[Extended Data](ext_articles/68f83932.ext.json)
-
----
-
-### Subsidy collecher is Rs.. Twenty members of several institutions that explored 100 crores were arrested for immediate arrest?
-
-*2024-02-13 19:47:43* · [`adalk`](https://www.ada.lk/breaking_news/සහනාධාර-පොහොරින්-රු--කෝටි-100ක්-ගසා-කෑ-සමාගම්-කීපයක-ප්‍රධානීන්-ඇතුළු-10-ක්-ළඟදීම-අත්අඩංගුවට--/11-408066) · `si`
-
-National Fertilizer Secretariats will be arrested by the CID to arrest over a few million rupees in a few more than Rs.Sources say.
-
-It is learned that there are women among those who are arrested. It is also known that the main holders of five main five companies are among them.
-
-Internal sources of fertilizer imports have been made to the companies in the Horana, Kegalle and Madampe areas, which have been provided to the farmers from 2018 to the farmers.Says.
-
-Uriia fertilizer bundle costs Rs.
-
-According to the sources, the Finance Criminal Investigation Division will investigate the complaint lodged with the CID regarding the issuance of the government.
-
-The fertilizer has been imported to Sri Lanka by 18 fertilizer companies obtained from the National Fertilizer Secretariat.
-
-...
-
-[Data](articles/25eeed35.json)
-
-[Extended Data](ext_articles/25eeed35.ext.json)
-
----
-
-### United States of America's Israeli and Taiwan
-
-*2024-02-13 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193341) · `si`
-
-The proposal to provide a US $ 95 billion aid package for Israel and Taiwan, the US Senate has approved the proposal.
-
-However, the suggestion is to be challenged in the next stage.
-
-◼️
-
-[Data](articles/1996a4ad.json)
-
-[Extended Data](ext_articles/1996a4ad.ext.json)
-
----
-
-### 3rd Test against England: Rahul is not in the Indian team
-
-*2024-02-13 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176304) · `ta`
-
-The 3rd Test match against England begins in Rajkot on Wednesday (15). L. India has lost Rahul.
-
-Gay missed the second Test in the first Test match. L. Rahul was named in the last 3 Tests.
-
-However, Rahul played like Ravindra Jadeja was in his fitness.
-
-According to a report by the Medical Committee of the Indian Cricket Control Board, Rahul has received 90 % fitness and he will have to wait until the next Test.
-
-It is thought that he will be introduced to the Indian A team and the Karnataka team.
-
-Virat Kohli was not included in the squad for personal reasons and the selectors did not consider Shreyas Iyer.
-
-Rajad Patidar, who debuted in Visakhapatnam, is often expected to play in the 3rd Test.
-
-...
-
-[Data](articles/3079e25a.json)
-
-[Extended Data](ext_articles/3079e25a.ext.json)
-
----
-
-### "Sajith's party is losing control"
-
-*2024-02-13 19:35:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-கட்சியின்-கட்டுப்பாட்டை-இழந்து-வருவதைக்-காண-முடிகிறது/175-333158) · `ta`
-
-United National Party (UNP) general secretary Palitha Range Bandara today said that many prominent members have expressed their willingness to support the president, as it is seen as the loss of control of the United People's Power (SJB) party of opposition leader Sajith Premadasa (SJB).
-
-“If Sajith wants to be sustained, the door to join the UNP is open. Our leader has no objection to rejecting Premadasa, and he is currently working with his previous contestant SLPP, ”Range Bandara added.
-
-“Some of the key members of the SJP have announced that we are ready to support President Wickremesinghe and that they are leaving the party in a timely manner.. So, the SJP. The leader will soon lose control of the party, ”the UNP general secretary said.
-
-◼️
-
-[Data](articles/75920f87.json)
-
-[Extended Data](ext_articles/75920f87.ext.json)
-
----
-
-### EU Ambassador met Anura
-
-*2024-02-13 19:25:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவை-சந்தித்தார்-ஐரோப்பிய-ஒன்றிய-தூதுவர்/175-333157) · `ta`
-
-EU Ambassador to Sri Lanka Carmen Moro met NPP leader Anuragumara Dissanayake at the JVP headquarters this afternoon.
-
-Party sources said they discussed the economic crisis and political circumstances in Sri Lanka.
-
-The upheaval of human rights, democracy, the postponement of the election and the recently enacted Online Security Act was also discussed.
-
-Deputy Chairman of the European Union's Sri Lanka Representatives Committee Lars Fredel and NPP MP Vijitha Herath were also present at the meeting.
-
-◼️
-
-[Data](articles/6562f4fc.json)
-
-[Extended Data](ext_articles/6562f4fc.ext.json)
-
----
-
-### Pig was killed in the Faculty Faculty
-
-*2024-02-13 19:25:21* · [`adalk`](https://www.ada.lk/breaking_news/පේරේ-කෘෂි-පීඨයේ-ඌරෙක්-මරා-මස්-කරලා/11-408065) · `si`
-
-Three persons who were hearing near a fifty kilos of the agricultural faculty of the Peradeniya University have been arrested on suspicion.
-
-According to a complaint lodged by the Faculty of Agriculture, University of Peradeniya, has been arrested by the Peradeniya police station with a complaint resident of Peradeniya.
-
-According to police investigations, police investigations have revealed that the pig was killed in the farm of Rs. 50,000 in the Udapurayeniya area.
-
-The suspects are to be produced before courts and the Criminal Division is conducting further investigations.
-
-◼️
-
-[Data](articles/6cb89d08.json)
-
-[Extended Data](ext_articles/6cb89d08.ext.json)
-
----
-
-### Diana's citizen case; the verdict soon
-
-*2024-02-13 19:17:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானாவின்-பிரஜாவுரிமை-வழக்கு-விரைவில்-தீர்ப்பு/175-333156) · `ta`
-
-The Supreme Court today concluded the hearing of the appeal filed against the Court of Appeal, which rejected the writ petition, which challenged the legitimate character of the Parliamentary seat of State Minister Diana Kamage.
-
-A panel of judges, including High Court Judges Gamini Amarasekera, Kumuduni Wickramasinghe and Janak de Silva, has announced that the verdict on the appeal will be issued in a timely manner.
-
-Social activist Osala Herath filed an appeal in the High Court that Diana Kamage was not eligible to be a Member of Parliament.
-
-In his verdict on October 31, 2023, the Chairperson of the Court of Appeal, Judge Nissanka Bandula Karunaratne, said that the Court of Appeal, KKAV Swarnathi, agreed, "he said.
-
-Judge Karunaratne further stated that the petitioner has filed the petition without compliance with the Supreme Court rules.
-
-...
-
-[Data](articles/66b252b5.json)
-
-[Extended Data](ext_articles/66b252b5.ext.json)
-
----
-
-### Sri Lanka developing Ramayana Trail to boost tourism from India – Tourism Minister
-
-*2024-02-13 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97241/sri-lanka-developing-ramayana-trail-to-boost-tourism-from-india-tourism-minister) · `en`
-
-Tourists from India topped the list of countries visiting Sri Lanka in January 2023 and the island nation was positive about surge in religious tourism with consecration of Ram Temple in Ayodhya. Sri Lanka was also working on Ramayana trail as there is huge interest in places mentioned in the Ramayana to attract more tourists to the country, Sri Lankan Tourism Minister Harin Fernando said in Mumbai, India.
-
-Speaking to the Free Press Journal on the sidelines of the recently concluded travel and trade show – OTM 2024, Fernando said Lanka government was also working with Thai government in developing a Buddhist circuit with places of interest in India and Sri Lanka.
-
-...
-
-[Data](articles/2f413fe4.json)
-
-[Extended Data](ext_articles/2f413fe4.ext.json)
 
 ---

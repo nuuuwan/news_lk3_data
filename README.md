@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 16:33:54**
+As of **2024-02-14 16:49:40**
 
 ## Newspaper Stats
 
-*Scraped **6,969** Articles*
+*Scraped **6,975** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,101 @@ newsfirstlk | 363
 islandlk | 365
 dailyftlk | 376
 adalk | 594
-tamilmirrorlk | 849
+tamilmirrorlk | 852
 adaderanalk | 855
-virakesarilk | 887
-adaderanasinhalalk | 978
+virakesarilk | 888
+adaderanasinhalalk | 980
 dailymirrorlk | 1,019
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,969 (100.0%) of 6,969 articles have been extended.
+6,969 (99.9%) of 6,975 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### ඇතුළු වීමේ ගාස්තු ලෙස ඩොලර් 10ක්
+
+*2024-02-14 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193374) · `si`
+
+ලොව වඩාත් සංචාරක ආකර්ශනයට ලක් වූ ප්‍රදේශයක් වන ඉන්දුනීසියාවේ බාලි දූපත් ප්‍රදේශය නැරඹීමට පැමිණෙන විදේශිකයන්ට අද (14) සිට ක්‍රියාත්මක වන පරිදි ඩොලර් 10ක ඇතුළු වීමේ බද්දක් පැනවීමට පියවර ගෙන තිබේ.
+
+ප්‍රදේශයේ සංස්කෘතිය හා පරිසර පද්ධතිය ආරක්ෂා කිරීමේ අරමුණින් මෙම පියවර ගන්නා බව ඉන්දුනීසියානු බලධාරින් සඳහන් කර ඇත.
+
+පසුගිය වසරේ ජනවාරි සිට නොවැම්බර් දක්වා කාලය තුළ සංචාරකයන් මිලියන 4.8ක පිරිසක් බාලි දූපත් වෙත පැමිණ තිබිණි.
+
+කෙසේ වෙතත් ගත වූ කාලය තුළ විදේශීය සංචාරකයන්ගේ නොමනා හැසිරීම් සම්බන්ධයෙන් බාලි වැසියන්ගේ විරෝධය පළ වී ඇති අතර, ආගමික ස්ථානවලට අපහාස වන පරිදි කටයුතු කළ බවට රුසියානු ජාතිකයෙකු පිටුවහල් කිරීමට ද පියවර ගෙන තිබූ බව සඳහන් ය.
+
+මාර්ග නීති කඩ වන ආකාරයේ සිදුවීම් රැසක් ද වාර්තා වීම හේතුවෙන් විදේශිකයන් සඳහා ප්‍රදේශය තුළ යතුරුපැදි භාවිතය තහනම් කිරීම සම්බන්ධයෙන් ද බලධාරින් සැලසුම් කර ඇති බව විදෙස් මාධ්‍යය වාර්තා කර තිබේ.
+
+◼️
+
+[Data](articles/1669bca1.json)
+
+---
+
+### හදවත් කම්පා කරවූ ඛේදවාචකයක්
+
+*2024-02-14 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193373) · `si`
+
+ඉන්දීය සම්බවයක් ඇති යුවළක් සහ ඇයගේ නිවුන් දරුවන්ගේ මළ සිරුරු ඇමෙරිකාවේ ඔවුන්ට අයත් නිවසේ තිබී සොයාගෙන ඇත.
+
+ඔවුන්ගෙන් ප්‍රතිචාරයක් නොමැතිවීම හේතුවෙන් අමෙරිකාවේ කැලිෆෝනියා හි පිහිටි ඔවුන්ගේ නිවසට පැමිණි හිතවතෙකු විසින් කළ දැනුම්දීමකට අනුව පොලීසිය ඔවුන්ගේ මෘත ශරීර සොයාගෙන ඇත.
+
+මෙලෙස අවාසනාවන්ත ලෙස මියගොස් ඇත්තේ 42 හැවිරිදි වියේ පසුවූ Anand Sujith Henry, ඔහුගේ බිරිඳ වන 40 හැවිරිදි වියේ පසුවන Alice Priyanka සහ ඔවුන්ගේ සිව් හැවිරිදි වියේ පසුවන නිවුන් දරුවන් වන Noah සහ Neithan.
+
+පොලීසිය සැකපළ කරන්නේ දරුවන් ඝාතනය කිරීමෙන් අනතුරුව ඔවුන් සියදිවි හානිකරගෙන ඇති බවටය.
+
+කෙසේ වෙතත් දරුවන්ගේ මරණයට හේතුව මේ වනවිට නිශ්චිතවම අනාවරණය කරගෙන නොමැති බවද විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+පොලීසිය පවසන්නේ දරුවන් දෙදෙනාගේ සිරුරු නිවසේ කාමරයේ ඇඳ මත තිබී සොයාගත් බවය.
+
+එසේම මියගිය යුවළගේ සිරුරු එම නිවසේ නානකාමරයේ තිබී සොයාගෙන ඇති අතර එහිදී මිලිමීටර් 9 වර්ගයේ පිස්තෝල ගිනි අවියක් ද එම ස්ථානයේ තිබී සොයාගෙන ඇත.
+
+වැඩිදුරටත් සිදුකළ විමර්ශනවළදී අනාවරණය වී ඇත්තේ ඔවුන් ප්‍රදේශවාසීන් සමග ඉතා හොඳ සම්බන්ධතාවයක් පවත්වාගෙන ගොස් ඇති බවය.
+
+...
+
+[Data](articles/24096195.json)
+
+---
+
+### ஆறு மாணவர்களுக்கு விளக்கமறியல்
+
+*2024-02-14 15:44:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆறு-மாணவர்களுக்கு-விளக்கமறியல்/76-333202) · `ta`
+
+சப்ரகமுவ பல்கலைக்கழக, விவசாய பீடத்தின் இரண்டாம் வருட மாணவி ஒருவரையும்,  இரு மாணவர்களையும்  தாக்கிய சம்பவம் தொடர்பில் புதன்கிழமை (14) கைது செய்யப்பட்ட ஏனைய சிரேஷ்ட மாணவர்கள் 6 பேரையும் வியாழக்கிழமை (15) வரை விளக்கமறியலில் வைக்குமாறு பலாங்கொட நீதவான் ஹெஷானி ரொட்ராகோ உத்தரவிட்டுள்ளார்.
+
+கடந்த 9ஆம் திகதி இரவு உணவகத்தில் இந்த தாக்குதல் நடத்தப்பட்டதாகவும்,  இதில் ஒரு மாணவி மற்றும் இரண்டு மாணவர்கள் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் சமனலவெவ பொலிஸார் தெரிவித்துள்ளனர்.
+
+இதே சம்பவம் தொடர்பில் ஏற்கெனவே கைது செய்யப்பட்ட 7  சிரேஷ்ட மாணவர்களையும்  புதன்கிழமை  (14)  பலாங்கொடை நீதிமன்றில் ஆஜர்படுத்தப்பட்டுள்ளதுடன், அவர்களையும் வியாழக்கிழமை (15)  வரை விளக்கமறியலில் வைக்குமாறு பலாங்கொட நீதவான் உத்தரவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/6074b76f.json)
+
+---
+
+### தேசிய கீதம், தேசிய கொடிக்கான முக்கியத்துவம் ஒவ்வொருவருக்கும் மன ரீதியாகவும் உடல் ரீதியாகவும் இருப்பது அவசியம் - அமைச்சர் டக்ளஸ் தேவானந்தா
+
+*2024-02-14 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176373) · `ta`
+
+தேசிய கீதம் பாடப்படுகின்ற சந்தர்ப்பங்களில் மாணவர்கள் அதன் மீது அதிகளவான கவனத்தையும் மரியாதையையும் செலுத்தவது அவசியம்  என  அமைச்சர் டக்ளஸ் தேவானந்தா தேசிய தெரிவித்தார்.
+
+யா / அச்சுவேலி புனித திரோச பெண்கள் கல்லூரியில் இடம்பெற்ற பிரிவெனா மற்றும் பாடசாலை மாணவர்களுக்கான இலவச பாடநூல் மற்றும் பாடசாலை சீருடைத் துணிகள் பகிர்ந்தளிக்கும் தேசிய நிகழ்வில் பிரதம விருந்தினராக  இன்று புதன்கிழமை (14)  கலந்து கொண்டு  பிரதம அதிதியாக உரையாற்றுகையிலேயே அவர் இதனை தெரிவித்தார்
+
+பொதுவாக அரசியலோ , பொது நிகழ்ச்சிகளில் கலந்துகொள்ளும் அரசியல்வாதிகளின் மனோநிலையிலிருந்து நான் முற்றிலும் வேறுபட்டவராகவே இருக்கின்றேன்.
+
+இதேநேரம் எமது வடக்கு மாகாணத்தின் கல்வி செயற்பாடுகளின் மேம்பாட்டுக்கும் அதனை பாதுகாப்பதற்கும் கல்விசார் அதிகாரிகள் அதிகளவான ஊக்குவிப்புகளை வழங்கிவருகின்றனர்.
+
+...
+
+[Data](articles/dbb5f922.json)
+
+---
 
 ### Sri Lanka, India forge partnership for economic prosperity through capacity building initiative
 
@@ -47,6 +127,22 @@ The President’s Media Division (PMD) said the delegates are expected to engage
 [Data](articles/1277dc80.json)
 
 [Extended Data](ext_articles/1277dc80.ext.json)
+
+---
+
+### ஜனாதிபதி நிதியத்தின் புதிய இணையத்தளம்
+
+*2024-02-14 15:23:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நிதியத்தின்-புதிய-இணையத்தளம்/175-333193) · `ta`
+
+ஜனாதிபதி நிதியத்தின் புதிய இணையத்தளம்  http://(https://www.presidentsfund.gov.lk ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்கவினால் ஜனாதிபதி செயலகத்தில் உத்தியோகபூர்வமாக ஆரம்பித்து வைக்கப்பட்டது.
+
+இதன் மூலம் ஜனாதிபதி நிதியத்தினால் வழங்கப்படும் சேவைகள் தொடர்பான புதுப்பித்த தகவல்களை மூன்று மொழிகளிலும் பெறுவதுடன், மருத்துவ உதவி பெறுவதற்கான விண்ணப்பத்தையும் பதிவிறக்கம் செய்ய முடியும்.
+
+இந்நிகழ்வில் ஜனாதிபதியின் சிரேஷ்ட மேலதிக செயலாளரும் ஜனாதிபதி நிதியத்தின் செயலாளருமான சரத்குமார், ஜனாதிபதி நிதியத்தின் பிரதிப் பணிப்பாளர் கயான் மொரலியகே, ஜனாதிபதி நிதியத்தின் உதவிப் பணிப்பாளர் டபிள்யூ.டி.எம்.பொதேஜு ஆகியோர் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/917b918e.json)
 
 ---
 
@@ -321,6 +417,22 @@ There is a law in a country. There is something that justice and fairness. The l
 [Data](articles/e2069bac.json)
 
 [Extended Data](ext_articles/e2069bac.ext.json)
+
+---
+
+### துறைசார் நிபுணர்களை உருவாக்க முடியும்
+
+*2024-02-14 13:52:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துறைசார்-நிபுணர்களை-உருவாக்க-முடியும்/175-333188) · `ta`
+
+நாட்டை பொருளாதார மாற்றத்திற்கு இட்டுச் செல்வதற்கு, உலகத்திற்கு உகந்த வகையிலான புதிய கல்வி முறைமை அவசியமானது எனவும், அதன் மூலம் போட்டி நிறைந்த உலகச் சந்தைக்குத் தேவையான துறைசார் நிபுணர்களை உருவாக்க முடியும் எனவும் ஜனாதிபதி ரணில் விக்கரமசிங்க சுட்டிக்காட்டினார்.
+
+பரீட்சை சுமையை குறைத்து, ஆங்கிலம் மற்றும் தொழில்நுட்ப பாடங்களை கல்வி முறையில் உள்ளடக்கி, தொழிலுக்கு ஏற்றவகையிலான மாணவர்களை உருவாக்க எதிர்பார்ப்பதாகவும், புதிய தொழிற்கல்லூரிகள் மற்றும் தொழில்நுட்ப பல்கலைக்கழகங்களை நிறுவுவதற்கு திட்டமிடப்பட்டுள்ளதாகவும் ஜனாதிபதி தெரிவித்தார்.
+
+கொள்ளுப்பிட்டி புனித அந்தோனியார் பெண்கள் கல்லூரியில் இன்று (14) பாடசாலை மாணவ, மாணவிகளுக்கான இலவச பாடசாலை பாடப் புத்தகங்கள் மற்றும் பாடசாலை சீருடைகள் வழங்கும் தேசிய நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/5e89092c.json)
 
 ---
 
@@ -1889,127 +2001,5 @@ During the discussion held yesterday evening, the decision was taken. (A)
 [Data](articles/cd50db9e.json)
 
 [Extended Data](ext_articles/cd50db9e.ext.json)
-
----
-
-### Bail
-
-*2024-02-14 07:45:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலியல்-வன்கொடுமை-செய்த-பொலிஸூக்கு-பிணை/175-333173) · `ta`
-
-The Guliyapitiya Police Station (OIC) surrendered to the Puttalam Magistrate's Court yesterday for allegedly raping a woman police constable.
-
-The Senior Superintendent of Police has commenced investigations after the incident and later reports in court, police said.
-
-Magistrate him. The next hearing of the case, which was released on a bail of 500,000, was ordered to appear at the Kuliyapitiya SSP office on the last Sunday until March 6.
-
-In addition to legal proceedings, the Inspector will take disciplinary action, police said.
-
-◼️
-
-[Data](articles/53ab3967.json)
-
-[Extended Data](ext_articles/53ab3967.ext.json)
-
----
-
-### Today's weather forecasts
-
-*2024-02-14 07:37:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-முன்னறிவிப்புகள்/175-333172) · `ta`
-
-The Department of Meteorology has said that rainfall will occur in the Eastern and Uva provinces as well as in Polonnaruwa, Matale and Nuwaralia districts.
-
-There is a chance of rain or thundershowers after two o'clock in the afternoon.
-
-In the eastern slopes of the Central Highlands, in the North, Eastern, North, North Western, South and Uva provinces, there are frequent strong winds at about 30 - 40 km / h.
-
-In the morning, the snow will be seen in some parts of the Sabaragamuwa and Western Provinces as well as some of the Galle and Matara districts.
-
-Rainfall is likely to occur in many parts of the sea regions beyond the coast of Trincomalee to Batticaloa to Hambantota.
-
-Showers or thunderstorms are expected in the evening or night in some parts of the sea regions from Colombo to Galle.
-
-Winds from the northeast at 30 - 40 km / h in the sea regions.
-
-...
-
-[Data](articles/44d634a8.json)
-
-[Extended Data](ext_articles/44d634a8.ext.json)
-
----
-
-### Showers expected in parts of the island
-
-*2024-02-14 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97248/showers-expected-in-parts-of-the-island) · `en`
-
-The Department of Meteorology says several spells of showers will occur in Eastern and Uva provinces and in Polonnaruwa, Matale and Nuwara-Eliya districts.
-
-A few showers may occur in Hambantota and Anuradhapura districts, it said.
-
-Showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Galle and Matara districts after 2.00 p.m.
-
-Fairly strong winds about 30-40 kmph can be expected at times in eastern slopes of the central hills and in Northern, North-Central, Southern, North-western, Uva and Eastern provinces.
-
-Misty conditions can be expected at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
-
-◼️
-
-[Data](articles/87274113.json)
-
-[Extended Data](ext_articles/87274113.ext.json)
-
----
-
-### There is no difference on health strike
-
-*2024-02-14 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193351) · `si`
-
-The strike, which commenced health unions, has decided to continue.
-
-◼️
-
-[Data](articles/6436e2a0.json)
-
-[Extended Data](ext_articles/6436e2a0.ext.json)
-
----
-
-### Debt payers slam CB’s silence on unregulated online lenders
-
-*2024-02-14 07:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Debt-payers-slam-CBs-silence-on-unregulated-online-lenders/155-276973) · `en`
-
-Leasing and debt installment payers  voiced concerns over Central Bank’s silence regarding the questionable practices of unregulated online loan providers in Sri Lanka.
-
-Under the banner ‘Association of Leasing and Debt Installment Payers (ALDS)’, the group asserted that borrowers have no legal obligation to repay loans obtained from these unauthorised online lenders.
-
-“Despite numerous complaints passed over to the Central Bank (CB), there has been no response, leading to suspicions that CB officials may be benefiting from these institutions,” ALDS Deputy Secretary Asanka Sumedha Amarasingha alleged during a press briefing in Colombo recently.
-
-According to Robocash which is rebranded as UNA Financial, the user base of Sri Lanka’s digital lending services have seen a 125-fold increase from 10,600 users in August 2021 to a staggering 1.3 million by November 2023.
-
-...
-
-[Data](articles/b693439f.json)
-
-[Extended Data](ext_articles/b693439f.ext.json)
-
----
-
-### Debt payers slam CB’s silence on unregulated online lenders
-
-*2024-02-14 07:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Debt-payers-slam-CBs-silence-on-unregulated-online-lenders/108-276973) · `en`
-
-Leasing and debt installment payers  voiced concerns over Central Bank’s silence regarding the questionable practices of unregulated online loan providers in Sri Lanka.
-
-Under the banner ‘Association of Leasing and Debt Installment Payers (ALDS)’, the group asserted that borrowers have no legal obligation to repay loans obtained from these unauthorised online lenders.
-
-“Despite numerous complaints passed over to the Central Bank (CB), there has been no response, leading to suspicions that CB officials may be benefiting from these institutions,” ALDS Deputy Secretary Asanka Sumedha Amarasingha alleged during a press briefing in Colombo recently.
-
-According to Robocash which is rebranded as UNA Financial, the user base of Sri Lanka’s digital lending services have seen a 125-fold increase from 10,600 users in August 2021 to a staggering 1.3 million by November 2023.
-
-...
-
-[Data](articles/e88dfdc8.json)
-
-[Extended Data](ext_articles/e88dfdc8.ext.json)
 
 ---

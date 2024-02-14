@@ -1,58 +1,182 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 18:20:16**
+As of **2024-02-14 18:32:48**
 
 ## Newspaper Stats
 
-*Scraped **6,993** Articles*
+*Scraped **7,015** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 80
 bbccomsinhala | 93
 dbsjeyarajcom | 149
-economynextcom | 361
 newsfirstlk | 363
 islandlk | 365
+economynextcom | 367
 dailyftlk | 376
-adalk | 597
+adalk | 598
 tamilmirrorlk | 854
-adaderanalk | 860
-virakesarilk | 891
+adaderanalk | 861
+virakesarilk | 896
 adaderanasinhalalk | 985
-dailymirrorlk | 1,019
+dailymirrorlk | 1,028
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,992 (100.0%) of 6,993 articles have been extended.
+6,993 (99.7%) of 7,015 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### ළමා පිළිකා රෝග පිළිබඳ විශේෂ දැනුම්වත් කිරීමක්
+### Police recover vehicle used in Modara shooting
+
+*2024-02-14 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97271/police-recover-vehicle-used-in-modara-shooting-) · `en`
+
+Police have reportedly recovered the vehicle suspected to have been used in the shooting incident reported from Modara on Tuesday night (13 Feb.).
+
+According to police the car was found abandoned in a forest area in Ekala.
+
+Police further reported that a bullet was also found inside the vehicle, while the chassis and engine numbers of the vehicle in question had been scratched off. It is also believed that the suspects had used a forged number plate.
+
+A 51-year-old sustained injuries after being shot in the Modara area last night, and is currently receiving treatment at the Intensive Care Unit (ICU) of the Colombo National Hospital, Ada Derana learns.
+
+The shooters had arrived in a car and opened fire at the victim near the entrance to a restaurant where he is employed as a manager, according to police.
+
+While the motive behind the shooting has not been ascertained yet, investigations have been launched by Modara Police to apprehend the perpetrators.
+
+◼️
+
+[Data](articles/44a11ebf.json)
+
+---
+
+### பேஸ்புக் முடங்கியது
+
+*2024-02-14 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176392) · `ta`
+
+பேஸ்புக் முடக்கமா?  கணனியில் அணுக முடியவில்8ல என புகார் அளித்து வருகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c31cbc42.json)
+
+---
+
+### Sri Lanka house builders should look for the sun: SEA officials
+
+*2024-02-14 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-house-builders-should-look-for-the-sun-sea-officials-150867/) · `en`
+
+ECONOMYNEXT – Sri Lankans building their new home should focus on the direction of the sun, and not just auspicious directions, officials at a Sectoral Oversight Committee on Energy have said.
+
+Many Sri Lankans consult astrologers and mystics before building anything new, who advise on which direction a building must not face (ma-ru si-ti-na di-sha-va).
+
+But house owners should also focus on the direction of the sun (hi-ru si-ti-na di-sha-va), officials of the Sri Lanka Sustainable Energy Authority (SLSEA) said.
+
+“When building, constructors should consider a place to install solar panels in a new house,” a statement by the Department of Government Information quoted the officials as saying.
+
+The officials pointed out that although people are concerned about the ‘direction of death’ based on occult science, they are not concerned about the direction of the sun. This has become a problem in the installation of solar panels, they said.
+
+...
+
+[Data](articles/e09c072f.json)
+
+---
+
+### Plans to offer multiple degrees through state universities: Suren Raghavan
+
+*2024-02-14 17:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Plans-to-offer-multiple-degrees-through-state-universities-Suren-Raghavan/108-277016) · `en`
+
+Colombo, Feb. 14 (Daily Mirror)- Discussions are underway to provide multiple degrees through state universities based on the observation of experts with international experience in education, State Minister of Higher Education Dr. Suren Raghavan said today.
+
+He told a media briefing held at the Presidential Media Center today (14) under the theme “Collective Path to a Stable Country”, that regulation of the private higher education sector is deemed necessary.
+
+"However, it is important to clarify that there are no intentions to commercialize education," he added.
+
+The Minister said steps have been initiated to establish three international universities within Sri Lanka and outlined that two of these universities are currently in the establishment phase, with the third scheduled to commence operations by May this year.
+
+...
+
+[Data](articles/44666795.json)
+
+---
+
+### ஆசிரியர் இடமாற்ற பட்டியலை இரத்து செய்யக் கோரி அம்பாறையில் ஆர்ப்பாட்டம்
+
+*2024-02-14 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176389) · `ta`
+
+அண்மையில் கிழக்கு மாகாணக் கல்வி திணைக்களம் வெளியிட்ட ஆசிரியர் இடமாற்ற பட்டியலை இரத்து செய்ய  கோரி பெருந்தொகையான கல்முனை மற்றும் சம்மாந்துறை கல்வி வலய ஆசிரியர்களால் அம்பாறை மாவட்ட செயலகம் முன்னால் மாபெரும் கண்டன பேரணி இன்று புதன்கிழமை (14)  இடம்பெற்றது.
+
+இன்றைய தினம் அம்பாறை மாவட்ட அபிவிருத்தி ஒருங்கிப்பு குழுக் கூட்டம் அம்பாறை கச்சேரியில் நடைபெறுகின்ற நிலையில்,
+
+திகாமடுல்ல மாவட்ட பாராளுமன்ற உறுப்பினர எச்.எம்.எம் ஹரீஸிடம் ஆசிரியர்கள் இன்று நேரடியாக சந்தித்து தங்களுடைய பிரச்சினைகளை எடுத்து வைத்தனர். அதனைக் கருத்தில் கொண்டு பாராளுமன்ற உறுப்பினர் ஹரீஸ் இந்த விடயத்துக்கு நியாயமான தீர்வு ஒன்றினை பெற்றுத்தருவதாக உறுதி அளித்தனர்.
+
+◼️
+
+[Data](articles/cd8ee2e2.json)
+
+---
+
+### Special notice of child cancer disease
 
 *2024-02-14 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193379) · `si`
 
-පෙබරවාරි 15ට යෙදෙන ළමා පිළිකා දිනය හා සමගාමී ව සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශය විසින් මාධ්‍ය හමුවක් කැඳවා තිබිණි.
+The Health Promotion Bureau was summoned by a media bureau of the Child Cancer Day, February 15.
 
-එහි දී අදහස් දැක්වූ විශේෂඥ වෛද්‍ය සුරාජ් පෙරේරා මහතා සඳහන් කළේ, 2021 වර්ෂයේ දී පිරිමි දරුවන් 578ක් සහ ගැහැණු දරුවන් 454ක් වාර්තා වී ඇති බවයි.
+Specialist Dr. Suraj Perera said that 578 boys and 454 girls were reported in 2021.
 
-මහරගම අපේක්ෂා රෝහලේ ළමා පිළිකා රෝග පිළිබඳ විශේෂඥ වෛද්‍ය සංජීව ගුණසේකර මහතා සඳහන් කරන්නේ, වසරකට පිළිකා රෝගී දරුවන් 250 - 300 අතර ප්‍රමාණයක් මිය යන බවයි.
+Dr. Sanjeewa Gunasekera, Specialist of Child Cancer Diseases of the Maharagama Hospital, Dr. Sanjeewa Gunasekera said that the number of cancer patients die per year.
 
-පිළිකා  සහිත දරුවන් මුල් අවස්ථාවේ දී ම අඳුනා ගැනීම ඉතා වැදගත් බව හා නිසි ප්‍රතිකාර ලබාදීම ද වැදගත් බව ඔහු අවධාරණය කර ඇත.
+He emphasized that it is important that the children with cancer is important and proper treatment is important.
 
-දරුවන් අතර බහුල ව වාර්තා වන පිළිකා වර්ගය ලේ පිළිකාව බව ද ඔහු සඳහන් කරයි.
+He said that the variety of cure among children is blood cancer.
 
-වැඩිහිටියන්ට පිළිකා වැලඳීම සඳහා ප්‍රධාන වශයෙන් දුම්පානය කිරීම සහ බුලත් විට කෑම හේතු වන නමුත් ළමා පිළිකා සඳහා එවැනි නිශ්චිත හේතුවක් හඳුනාගෙන නොමැති බව ද ඔහු වාර්තා කර ඇත.
+He has reported that the elderly to cater to the elderly, but has not identified such a specific cause of child cancer.
 
-වසරකට පිළිකා රෝගී දරුවන් වාර්තා වීම 1,000 සිට 1,200 දක්වා වන බව ද ඔහු සඳහන් කරයි.
+He said that the reporting of cancer patients per year will be reported from 1,000 to 1,200.
 
 ◼️
 
 [Data](articles/96ace9b8.json)
+
+[Extended Data](ext_articles/96ace9b8.ext.json)
+
+---
+
+### சூழ்ச்சிகளை முறியடித்து மாநாட்டை நடத்துக - சம்பந்தன் அறிவுறுத்தல்
+
+*2024-02-14 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176387) · `ta`
+
+உட்கட்சி ஜனநாயகத்தைச் சிதைக்கும் வகையில் நடைபெறும் சூழ்ச்சிகளை முறியடித்து, உடனடியாக மாநாட்டை நடாத்துமாறு, இலங்கைத் தமிழரசுக் கட்சியின் பெருந்தலைவரும், நாடாளுமன்ற உறுப்பினருமான இரா.சம்பந்தன், கட்சியின் புதிய தலைவராகத் தெரிவுசெய்யப்பட்டுள்ள சிவஞானம் சிறீதரனுக்கு அறிவுறுத்தியுள்ளார்.
+
+நாடாளுமன்ற உறுப்பினர்களான சிவஞானம் சிறீதரன், சாள்ஸ் நிர்மலநாதன் ஆகிய இருவரும் இணைந்து, செவ்வாய்க்கிழமை (13), கொழும்பிலுள்ள அவரது இல்லத்தில் இரா.சம்பந்தனை சந்தித்துக் கலந்துரையாடியபோதே, அவர் இவ்வாறு தெரிவித்துள்ளார்.
+
+கட்சியின் தலைமைப் பொறுப்பை உத்தியோகப்பூர்வமாக ஏற்றுக்கொள்வதற்கு உடனடி நடவடிக்கைகளை மேற்கொள்ளுமாறும், நிருவாகிகள் தெரிவு தொடர்பில் இணக்க அடிப்படையில் எட்டப்பட்ட முடிவுகளைப் பொதுச்சபை அங்கீகரிக்காதவிடத்து, அல்லது அத்தெரிவுகளில் குழப்பங்கள் நிலவுமிடத்து, தேர்தல் முறைமை மூலம் தெரிவுகளை நடாத்தி, அன்றையதினமே மாநாட்டையும் நடாத்துமாறு அவர் மேலும் தெரிவித்திருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3ebd78b7.json)
+
+---
+
+### Sri Lanka food products showcased at International Green Week in Berlin
+
+*2024-02-14 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-food-products-showcased-at-international-green-week-in-berlin-150860/) · `en`
+
+ECONOMYNEXT – Sri Lankan food products were showcased at the International Green Week in Berlin, a top trade fair in Europe which drew more than 400,000 visitors, with the support of the Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka).
+
+AHK had organized the Sri Lanka Pavilion at the IGW for the fourth year.
+
+Exporters specializing in tea, coconut and coconut-based products, spices, fruit and fruit-related items, and authentic ready-to-eat Sri Lankan food products were represented, AHK Sri Lanka said in a statement.
+
+Apart from showcasing their product ranges to buyers, the exhibitors benefitted from interacting with consumers, observing new developments and offerings from other countries, and thereby broadening their experiences, AHK Sri Lanka said.
+
+...
+
+[Data](articles/7954b856.json)
 
 ---
 
@@ -71,6 +195,100 @@ The trade union action commenced 72 health unions yesterday (13) at 6.30 am yest
 [Data](articles/e2baf07a.json)
 
 [Extended Data](ext_articles/e2baf07a.ext.json)
+
+---
+
+### காதலுக்கு ஒரு நாள்
+
+*2024-02-14 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176386) · `ta`
+
+இன்று உலகம் முழுவதிலும் உள்ள மக்களில் அதிகமானவர்கள் காதலர் தினத்தை கொண்டாடி தீர்த்துக்கொண்டிருக்கின்றனர்.  காதலுக்கு என்று ஒரு தினம் . ஆனால் காதலை ஒரே நாளில் நாம் கொண்டாடி தீர்க்க முடியாது. இறைவன் படைத்த  அதி உன்னதமான  உணர்வு காதல். இந்த உலகில்  காதல் வசப்படாதவர்கள் என்று யாருமே இருக்க முடியாது. எந்த உயிரும் இருக்க முடியாது. நாம் பிறப்பதற்கு முன்பிலிருந்து நாம் இறந்ததற்கு  பின்னரும் இந்த பூமியில் நிலைத்திருப்து காதல்தான். எல்லாம் மாறினாலும் காதல் என்றும் மாறுவதில்லை. யுகம் யுகமாக காதல்  தொடர்ந்து கொண்டுதான் இருக்கின்றது.
+
+காதலை கொண்டாடதவர்க்ள என்று யாரும் இருக்க முடியாது .. மீசை முளைக்கட்டும்   பருவம் தொட்டு மீசை நரைத்து கூன் விழுந்த பின்னரும் நம் மனதை பட்டாம் பூச்சியாக  பறக்கவைப்பது காதல் தான்.
+
+எப்போது எங்கு யார் மீது  நாம் காதல் வயப்படுவோம் என்று யாருக்கும் சொல்ல முடியாது அதுதான் காதல்.. உயிரை குடைந்து உள்ளுக்குள்  உயிரை சிலிர்க்க வைத்து  பூக்க வைக்கும் உன்னதம்.
+
+...
+
+[Data](articles/284e8b64.json)
+
+---
+
+### Two killed after canoe capsizes in Kinniya
+
+*2024-02-14 17:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-killed-after-canoe-capsizes-in-Kinniya/108-277012) · `en`
+
+Kinniya, Feb. 14 (Daily Mirror)- Two individuals who were fishing in the Upparu lagoon in Kinniya drowned after their canoe capsized, Police said.
+
+Their bodies were recovered while floating on the lagoon today.
+
+Police had launched a search operation after the relatives had complained that the two individuals who had gone fishing in the Upparu lagoon in a canoe the previous night had not returned.
+
+◼️
+
+[Data](articles/91403c5d.json)
+
+---
+
+### Ali Sabry to attend Munich Security Conference in Germany
+
+*2024-02-14 17:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ali-Sabry-to-attend-Munich-Security-Conference-in-Germany/108-277011) · `en`
+
+Colombo, Feb 14 (Daily Mirror) - Foreign Affairs Minister M.U.M. Ali Sabry is to participate in the 60th edition of the prestigious Munich Security Conference (MSC) in Germany on Friday (16), the Ministry said.
+
+The objective of participating in the conference is to help build trust and contribute to the peaceful resolution of conflicts by fostering continuous, curated and informal dialogues within the international security community.
+
+Minister Sabry will address the conference session on “Protecting Global Commons” on Saturday (17).
+
+During the visit, Minister Sabry will engage in meetings with his counterparts from a number of countries, parliamentarians, and business leaders as well.
+
+◼️
+
+[Data](articles/672a2e92.json)
+
+---
+
+### Sri Lanka rupee closes at 313.00/10 to the US dollar
+
+*2024-02-14 17:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-313-00-10-to-the-us-dollar-150854/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 313.00/10 to the US dollar Wednesday, from 313.10/30 on Tuesday, dealers said.
+
+A bond maturing on 01.02.2026 closed at 10.35/45 percent down from 10.50/60 percent.
+
+A bond maturing on 15.09.2027 closed at 11.30/45 percent from 11.40/50 percent.
+
+A bond maturing on 15.03.2028 closed at 11.80/85 percent from 11.70/80 percent.
+
+A bond maturing on 15.07.2029 closed at 12.05/20 percent from 12.00/50 percent.
+
+A bond maturing on 15.05.2030 closed at 12.05/20 percent down from 12.25/40 percent.
+
+A bond maturing on 15.05.2031 closed at 12.25/45 percent from 12.25/75 percent.
+
+A bond maturing on 01.07.2032 closed at 12.35/60 percent down from 12.25/75 percent. (Colombo/Feb14/2024)
+
+◼️
+
+[Data](articles/f11e69d4.json)
+
+---
+
+### Sri Lanka cricketers wear black arm bands for third Afghanistan ODI
+
+*2024-02-14 17:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-cricketers-wear-black-arm-bands-for-third-Afghanistan-ODI/108-277010) · `en`
+
+Sri Lanka's national cricketers wore black arm bands for the third ODI against Afghanistan to pay tribute to the late Trevor Rajaratnam, the former Sri Lanka Cricket (SLC) administrator.
+
+Rajaratnam, who was a former Vice President of SLC, also served as Treasurer.
+
+"Sri Lanka’s cricket fraternity remains indebted to him for the valuable services he rendered for the game in the country," SLC said in a media statement.
+
+"We wish to express our condolences to Trevor’s family, friends, and relatives at this moment of sadness," the statement also read.
+
+◼️
+
+[Data](articles/a6018863.json)
 
 ---
 
@@ -164,6 +382,34 @@ If no candidate wins a majority, a runoff between the top two finishers will be 
 
 ---
 
+### நன்னடத்தை பாடசாலை மேற்பார்வையாளரான பெண்ணிற்கு மீண்டும் 14 நாட்கள் விளக்கமறியல்
+
+*2024-02-14 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176380) · `ta`
+
+நன்னடத்தை பாடசாலையில்  உயிரிழந்த சிறுவனின் மரணம் தொடர்பில் கைதான அப்பாடசாலையின் மேற்பார்வையாளரான பெண்ணை 14 நாட்கள் விளக்கமறியலில்   வைக்குமாறும் அது  தொடர்பான  வழக்கு எதிர்வரும் பெப்ரவரி மாதம் 28 ஆம்  திகதி வரை மறு விசாரணைக்காக ஒத்தி  வைக்குமாறு கல்முனை நீதிவான் நீதிமன்று உத்தரவிட்டுள்ளது.
+
+அம்பாறை மாவட்டம்  கல்முனை தலைமையக   பொலிஸ் பிரிவிற்குட்பட்ட சிறுவர் நன்னடத்தை பாடசாலையில் தங்க வைக்கப்பட்ட நிலையில் உயிரிழந்த சிறுவனின் மரணம் தொடர்பில் அப்பாடசாலையின் மேற்பார்வையாளரான பெண்  சந்தேகத்தில் கல்முனை தலைமையக பொலிஸாரால்  கைது செய்யப்பட்ட பின்னர் புதன்கிழமை (14) மீண்டும் கல்முனை நீதிமன்ற நீதிவான் எம்.எஸ்.எம் சம்சுதீன் முன்னிலையில் ஆஜர்படுத்தப்பட்ட போதே மேற்கண்டவாறு உத்தரவிட்டார்.
+
+குறித்த வழக்கு விசாரணைக்கு  எடுத்து கொள்ளப்பட்ட நிலையில் பொலிஸார் மற்றும் பிரதிவாதியின் சட்டத்தரணி ஆகியோரின் விண்ணப்பங்கள் ஆராயப்பட்டு 28 வயதுடைய  குறித்த பாடசாலையின் மேற்பார்வையாளரான பிறின்ஸி புலேந்திரன் என்பவரை மீண்டும்  விளக்கமறியலில் வைக்குமாறு உத்தரவிடப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/f8d81de8.json)
+
+---
+
+### Love is in full bloom....
+
+*2024-02-14 16:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Love-is-in-full-bloom/110-277009) · `en`
+
+Valentine's Day shoppers rejoice as florists along Ven. Baddegama Wimalawansa Mawatha in Town Hall, Colombo, report a delightful drop in prices of roses compared to last year. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/b6c36d4f.json)
+
+---
+
 ### Minister Sabry to attend global security conference in Munich
 
 *2024-02-14 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97268/minister-sabry-to-attend-global-security-conference-in-munich) · `en`
@@ -217,6 +463,30 @@ He scored 136 runs, and Aimethuthla built a record recording with Omasai.
 [Data](articles/2b5c9727.json)
 
 [Extended Data](ext_articles/2b5c9727.ext.json)
+
+---
+
+### Sri Lanka stocks close down, low investor interest
+
+*2024-02-14 16:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-low-investor-interest-150849/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
+
+The broader All Share Index closed down 25.80 points, or 0.24 percent at 10,531, while the S&P SL20 Index closed up at 3,024 points, up 0.06 percent, or 1.73 points.
+
+Commercial Bank of Ceylon Plc the most active volumes traded in the day (134) and the share closed down at 88.60.
+
+Trades in the Banks sector (162mn) added the most to the day’s turnover.
+
+Other sectors that attracted investor interest were Food, Beverage and Tobacco (130mn), and Capital Goods (120mn).
+
+Shares of Distilleries Company of Sri Lanka Plc closed up at 25.80, while Lion Brewery Ceylon Plc closed down at 950.00.
+
+Positive contributors to the ASPI in the day included Hayleys Plc (up at 76.50), Hatton National Bank Plc (up at 163.00), and Aitken Spence Plc (up at 118.00). (Colombo/Feb14/2024).
+
+◼️
+
+[Data](articles/46c3c8d3.json)
 
 ---
 
@@ -310,6 +580,28 @@ In addition, photovoltaic modules and accessories, power conditioners and access
 
 ---
 
+### Removed Sri Lanka Medical Council member reappointed
+
+*2024-02-14 16:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Removed-Sri-Lanka-Medical-Council-member-reappointed/108-277008) · `en`
+
+Colombo, Feb 14 (Daily Mirror) -  Prof. Jayantha Jayawardana, a former member of the Sri Lanka Medical Council (SLMC) has been reinstated as an SLMC member after being removed by former Minister of Health Keheliya Rambukwella.
+
+The reappointment has been made by Minister of Health Dr. Ramesh Pathirana.
+
+Accordingly, the term of office for the reappointed member, is set for five years, unless voluntarily resigned or removed as per the ordinance.
+
+Expressing gratitude for the reinstatement, Prof Jayawardana highlighted the unlawful and arbitrary nature of his previous termination. He assumed duties today, February 14, 2024.
+
+Prof. Jayawardana was removed as SLMC Vice President last October without citing reasonable reasons.
+
+The decision by the former Minister of Health was criticized for its lack of valid reasoning and its violation of the principles of natural justice.
+
+...
+
+[Data](articles/5c8e8b14.json)
+
+---
+
 ### $ 10 as entry charges
 
 *2024-02-14 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193374) · `si`
@@ -361,6 +653,44 @@ The residence of them was purchased by US $ 2.1 million in 2020.
 [Data](articles/24096195.json)
 
 [Extended Data](ext_articles/24096195.ext.json)
+
+---
+
+### Sri Lankan officials in India to explore collaboration
+
+*2024-02-14 15:51:00* · [`economynextcom`](https://economynext.com/sri-lankan-officials-in-india-to-explore-collaboration-150838/) · `en`
+
+ECONOMYNEXT – A delegation of 14 senior Sri Lankan officials, led by Prime Minister’s Secretary Anura Dissanayake, are in India for discussions with Indian institutions.
+
+The delegation will meet key Indian officials, including the Minister of Foreign Affairs, Minister of State for Personnel, and the Principal Secretary to the Prime Minister, to explore avenues for further collaboration, a statement by the president’s media division said.
+
+“The delegation aims to gain insights into India’s recent initiatives for transforming its public service qualitatively and implementing policy improvements successfully,” the statement read.
+
+“Additionally, they seek to prioritize capacity development in Sri Lankan government institutions contributing to the nation’s economic growth.”
+
+...
+
+[Data](articles/baac7a9a.json)
+
+---
+
+### Hospital services in dire straits as strike continues
+
+*2024-02-14 15:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hospital-services-in-dire-straits-as-strike-continues/108-277007) · `en`
+
+Colombo, Feb 14 (Daily Mirror) -  The healthcare services across the country have been paralyzed, inconveniencing patients as trade unions within the health sector have decided to continue the island-wide strike.
+
+Furthermore, long queues can be seen at nationwide pharmacies owned by the State Pharmaceuticals Corporation since this morning as medications are not being dispensed from the medicine counters at government hospitals.
+
+The strike, which commenced from 6.30 a.m. yesterday (13) was launched following unsuccessful discussions with officials from the Finance Ministry.
+
+The focal point of the strike action is the prolonged and contentious disagreement surrounding the Disturbance, Availability and Transport (DAT) allowance, according to the President of the Federation of Health Professionals Ravi Kumudesh.
+
+The health workers have so far resorted to three trade union actions this year over the failure to provide an allowance similar to the DAT allowance granted to the doctors.
+
+...
+
+[Data](articles/6a653971.json)
 
 ---
 
@@ -419,6 +749,30 @@ The President’s Media Division (PMD) said the delegates are expected to engage
 [Data](articles/1277dc80.json)
 
 [Extended Data](ext_articles/1277dc80.ext.json)
+
+---
+
+### Pakistan’s two main parties agree on coalition without allies of ex-PM Khan
+
+*2024-02-14 15:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pakistans-two-main-parties-agree-on-coalition-without-allies-of-ex-PM-Khan/108-277006) · `en`
+
+With the army-backed Pakistan Muslim League-Nawaz (PML-N) short of votes to win a ruling majority, it said it was partnering with Pakistan Peoples Party (PPP) as well as a handful of smaller parties to form the next government.
+
+Loyalists of Khan, jailed on corruption charges, won the most seats as independent candidates in Thursday's election.
+
+"The parties present here are almost two-thirds of the house that has been elected," said Shehbaz Sharif, president of the PML-N, alongside leaders of the PPP and two other groups, and representatives from two more.
+
+After the press conference, an aide said Sharif would lead the country.
+
+"The PML-N's candidate for prime minister is Shehbaz Sharif," party spokeswoman Marriyum Aurangzeb told Geo News.
+
+Sharif said the PML-N was even willing to talk to Khan to include his Pakistan Tehreek-e-Insaf (PTI) party in the next government.
+
+"Forget and forgive; forgive and forget -- come let's join hands for the betterment of the country," he said.
+
+...
+
+[Data](articles/3f745729.json)
 
 ---
 
@@ -590,6 +944,24 @@ Senior Deputy Solicitor General Sanil Kularatne, who appeared for the Attorney G
 
 ---
 
+### SJB Lawyers Federation launches legal reforms for system change
+
+*2024-02-14 14:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-Lawyers-Federation-launches-legal-reforms-for-system-change/108-277005) · `en`
+
+Clarification: Do not make CC a puppet of Executive: PC Upul Jayasuriya
+
+The following quote of the front page article under the title “Do not make CC a puppet of Executive: PC Upul Jayasuriya,” which was carried on Wednesday, February 14th Dailymirror print edition should be attributed to SJB leader Sajith Premadasa and it has been inadvertently attributed to Upul Jayasuriya PC, who is the head of the Samagi Lawyers Federation. We regret the error.
+
+Former President of the Bar Association of Sri Lanka (BASL) Upul Jayasuriya PC said the President should not make the Constitutional Council a puppet of the executive but let it function independently on its own.
+
+He said the President had made statements on several recent occasions indicating that the Constitutional Council was part of the executive and that it should function under the purview of the latter.
+
+...
+
+[Data](articles/fbc543c3.json)
+
+---
+
 ### Introducing the new website of the President's Fund
 
 *2024-02-14 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/176363) · `ta`
@@ -700,6 +1072,18 @@ ECONOMYNEXT – Sri Lanka needs a new education system that aligns with global s
 
 ---
 
+### සාපෙළට හා උපෙළට දින නියම වෙයි
+
+*2024-02-14 13:56:07* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළට-හා-උපෙළට-දින-නියම-වෙයි/11-408082) · `si`
+
+2023 වර්ෂයේ සඳහා වූ සාමාන්‍ය පෙළ විභාගය  2024 මැයි හා ජුනි මාස වල පැවැත්වීමට නියමිත බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය. එසේම 2014 වසරේ අපොස උසස් පෙළ විභාගය දෙසැම්බර් මාසයේ පැවැත්වීමට කටයුතු කරන බවද අමාත්‍යවරයා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/2ed41373.json)
+
+---
+
 ### The rare moments of the Sri Lankan politician
 
 *2024-02-14 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193365) · `si`
@@ -775,6 +1159,26 @@ A large section of the population was thrown in poverty after the central bank p
 [Data](articles/2a61724b.json)
 
 [Extended Data](ext_articles/2a61724b.ext.json)
+
+---
+
+### Sri Lanka to entertain fresh applicants for Aswesuma subsidy scheme from Feb 15
+
+*2024-02-14 13:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-entertain-fresh-applicants-for-aswesuma-subsidy-scheme-from-feb-15-150788/) · `en`
+
+ECONOMYNEXT – Sri Lanka will entertain new applications for the ‘Aswesuma’ income subsidy scheme from February 15, with payments due to begin from July 2024, State Minister Finance Shehan Semasinghe has said.
+
+The budget has allocated 205 billion rupees for welfare payments in 2024, Semasinghe was quoted in a government statement.
+
+“A discussion was held at the Ministry of Finance with provincial governors, chief secretaries and provincial ministry secretaries regarding getting the support of provincial council officials to make the second round of calling for “Aswesuma” applications a success”, State Minister of Finance Shehan Semasinghe said on X (Twitter).
+
+Sri Lanka’s subsidy scheme is supported by the World Bank and is included in the International Monetary Fund program with a minimum spend as a target.
+
+A large section of the population was thrown in poverty after the central bank printed money to target growth (potential output) and the rupee collapsed from 184 to 360 over two years.
+
+...
+
+[Data](articles/cef4f8c5.json)
 
 ---
 
@@ -1591,461 +1995,5 @@ He attributed this to “improved services and enhanced management practices wit
 [Data](articles/6afd3b75.json)
 
 [Extended Data](ext_articles/6afd3b75.ext.json)
-
----
-
-### Israel again attacking journalists
-
-*2024-02-14 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176338) · `ta`
-
-Al Jazeera's reporter Ismail Above and shooter Ahmed Matar have been injured, Al Jazeera said.
-
-According to reports, the missile launched by unmanned aircraft was directly attacked.
-
-The situation of Al Jazeera Matar, who has been halted by Omar, has been transferred to Gaza's European Hospital.
-
-Videos have seen that they have been attacked by two journalists to identify themselves as journalists.
-
-◼️
-
-[Data](articles/e4b3e0de.json)
-
-[Extended Data](ext_articles/e4b3e0de.ext.json)
-
----
-
-### To pilgrimage to cultivated animals
-
-*2024-02-14 11:17:08* · [`adalk`](https://www.ada.lk/breaking_news/වගාවට-හානි-කරන-සතුන්-වන්ද්‍යාකරණයට/11-408075) · `si`
-
-The area of the Galle District, the Galle District Coordinating Committee Chairman, the Chairman of the Galle District Coordinating Committee Chairman MP MP Resources Mekorale said.
-
-The Galle District Secretary Shantha Weerasinghe said that the damage caused by animals is about one third of the entire cultivation.That is.
-
-"Scientific partners need to be controlled by" harmful animals. University of Peradeniya has been researched. Such programs were implemented in the Kandy district. We must protect animals. In other countries, the organization that protects animals is to control the population of these harmful animals. "
-
-Speaking at the meeting, the Secretary of the Ministry of Agriculture A.Walaratwatne said:
-
-"The years auspicious tells us that Morunga plants to land. Eat monkeys. "
-
-...
-
-[Data](articles/7d443755.json)
-
-[Extended Data](ext_articles/7d443755.ext.json)
-
----
-
-### Former Navy Commander presents credentials as envoy to Cuba
-
-*2024-02-14 11:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Navy-Commander-presents-credentials-as-envoy-to-Cuba/108-276997) · `en`
-
-Former Sri Lanka Navy Commander Admiral Nishantha Ulugetenne (Retd), who was appointed as Sri Lanka's Ambassador to Cuba, presented his credentials to the President of the Republic of Cuba, Miguel Díaz-Canel at the Palace of the Revolution in Havana yesterday (13).
-
-President Ranil Wickremesinghe, designated Admiral Ulugetenne as Sri Lanka's Ambassador to Cuba in October 2023.
-
-Admiral Nishantha Ulugetenne served as the 24th Commander of the Sri Lanka Navy.
-
-Accordingly, Admiral Nishantha Ulugetenne (Retd) presented his credentials to the President of Republic of Cuba, marking the official commencement of his diplomatic mission in Cuba.
-
-◼️
-
-[Data](articles/95bdfb2d.json)
-
-[Extended Data](ext_articles/95bdfb2d.ext.json)
-
----
-
-### Suspects in detainees arrested seven croanried acres
-
-*2024-02-14 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193358) · `si`
-
-Signs have been arrested by the Gidapupa murder of the Gidapiyadu murder and the main suspect, which was fleeing and the main suspect of the Gidapotha murder.
-
-The main suspect, Mohamed Hussein, a resident of Mattakkuliya, is a resident of Mattakkuliya.
-
-Police say that among the seven arrested, five men and two women were present.
-
-After shooting a man shot dead on the Jidtupitiya, the motorcycle had touched the motorcycle, and the residents of the area was holding one of them.
-
-The other suspect had also been arrested in the Mahiyanganaya.
-
-The two suspects in detention in the demand of the Adrappidi Police on the permission of the Colombo Chief Magistrate's Court
-
-A person who came to view one suspect in a moment when questioned, a person who came to view a suspect had left the fish and two milkters.
-
-The two suspects were admitted to the Colombo National Hospital after admission to the Colombo National Hospital.
-
-...
-
-[Data](articles/7ae1a8a4.json)
-
-[Extended Data](ext_articles/7ae1a8a4.ext.json)
-
----
-
-### Independent commissions inefficient due to appointment of retired officers - Minister
-
-*2024-02-14 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97254/independent-commissions-inefficient-due-to-appointment-of-retired-officers-minister) · `en`
-
-Minister of Education Susil Premajayantha says the recruitment of 54 principals for national schools has been on hold for months now due to the inefficiency of the Public Service Commission.
-
-Premajayantha pointed out that as a result of appointing retired individuals to the independent commissions, these institutions have become ineffective.
-
-“We have been trying for 06 months now. I also remind commission of the matter every week. The Public Service Commission has not given approval to issue the gazette [to recruit principals]”, the minister mentioned.
-
-Emphasizing that there is no point in establishing independent commissions if retired officers are appointed to run them, the minister also revealed his intention to bring the matter up during the parliamentary session soon.
-
-◼️
-
-[Data](articles/a6f4fb7d.json)
-
-[Extended Data](ext_articles/a6f4fb7d.ext.json)
-
----
-
-### The Kasippu penalty is a thousand
-
-*2024-02-14 11:09:08* · [`adalk`](https://www.ada.lk/breaking_news/කසිප්පු-දඩය-හැටඅට-දහසක්/11-408074) · `si`
-
-Mrs. Mahara Noor 2 Magistrate Fundamental Champion Perera was appointed to pay a fine of Rs.
-
-He was adjourned for the event on March 15. .
-
-He was arrested by the Sapugaskanda Police, police serving (478) and Police Constable Bandara (858885).
-
-◼️
-
-[Data](articles/f366c60f.json)
-
-[Extended Data](ext_articles/f366c60f.ext.json)
-
----
-
-### O/L, A/L Examinations
-
-*2024-02-14 11:07:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-A-L-பரீட்சைகள்-குறித்து-சற்றுமுன்-வெளியான-அறிவிப்பு/175-333182) · `ta`
-
-The Education Public Standards for 2023 are scheduled to be held in May and June.
-
-Meanwhile, it has been decided to hold the highest level of education for the year 2023 in December.
-
-Minister of Education Susil Premajayantha said that the first installment of 2025 is scheduled to commence on January 2.R
-
-◼️
-
-[Data](articles/4bad942a.json)
-
-[Extended Data](ext_articles/4bad942a.ext.json)
-
----
-
-### O/L, A/L Examinations
-
-*2024-02-14 11:07:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-A-L-பரீட்சைகள்-குறித்து-வெளியான-அறிவிப்பு/175-333182) · `ta`
-
-The Education Public Level Examination for 2023 is scheduled to be held in May and June.
-
-Meanwhile, it has been decided to hold the highest level of education for the year 2023 in December.
-
-Minister of Education Susil Premajayantha said that the first installment of 2025 is scheduled to commence on January 2.R
-
-◼️
-
-[Data](articles/c0e38a32.json)
-
-[Extended Data](ext_articles/c0e38a32.ext.json)
-
----
-
-### Three persons, including two chariots who were staying in a house in Bambalapitiya
-
-*2024-02-14 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176334) · `ta`
-
-According to Bambalapitiya police, three people, including two chariots, have been arrested in connection with the lock of an old three -storey house worth several crores of rupees in Bambalapitiya.
-
-Three men, including two chariots working in a Vihara in the Malambe area, have been arrested.
-
-Three men, including two chariots, broke into the lock of her house and logged in and were forcibly staying there.
-
-◼️
-
-[Data](articles/7ca1c28e.json)
-
-[Extended Data](ext_articles/7ca1c28e.ext.json)
-
----
-
-### Sri Lanka’s broadcast authority bill to be presented to parliament soon
-
-*2024-02-14 11:02:00* · [`economynextcom`](https://economynext.com/sri-lankas-broadcast-authority-bill-to-be-presented-to-parliament-soon-150751/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s controversial Electronic Media Broadcasting Authority bill is expected to be presented to parliament soon, according to State Minister for Mass Media Shantha Bandara.
-
-A national media policy has also been drafted and is currently under consideration by the cabinet of ministers for approval, Bandara told reporters on Tuesday February 13.
-
-The state minister insisted that there would be “no hindrance to the media in this regard”.
-
-A statement from the president’s office said significant amendments have been made to the Electronic Media Broadcasting Authority bill following majority agreement.
-
-“The finalised bill has been submitted to the Attorney General’s Department and is anticipated to be presented to parliament for adoption in the near future,” the state minister was quoted as saying.
-
-The bill has proved controversial, with media rights activists and opposition groups claiming it would pose a threat to media freedom in the island nation.
-
-...
-
-[Data](articles/2b272cb4.json)
-
-[Extended Data](ext_articles/2b272cb4.ext.json)
-
----
-
-### Sri Lanka needs to switch from investing in non-tradable to tradable goods fast: MP
-
-*2024-02-14 11:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-to-switch-from-investing-in-non-tradable-to-tradable-goods-fast-mp-150750/) · `en`
-
-ECONOMYNEXT – Sri Lanka continues to lag behind in its integration into global production networks due to short-sighted goals of producing non-tradables over tradable goods that can be exported, oppositional legislator Harsha De Silva has said.
-
-“There has been a significant growth in the non-tradable sector and production of non-tradable goods between 2010 and 2019. From the growth in the total economy’s production, 70 percent was from the non-tradables sector which cannot be traded in the international market,” the opposition MP said during a debate in Parliament recently.
-
-Non-tradable goods include items such as public services, real estate and construction, goods with very high transportation costs, and commodities produced specifically to meet local retail consumers.
-
-The MP said that due to shortsighted large infrastructure investments such as the development that has gone into the Hambantota area, Sri Lanka’s production has shown exponential growth in the non-tradables sector.
-
-...
-
-[Data](articles/bd60d2bb.json)
-
-[Extended Data](ext_articles/bd60d2bb.ext.json)
-
----
-
-### Government attempts to bring about harmony through domestic systems - Alizabri
-
-*2024-02-14 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176331) · `ta`
-
-External Affairs Minister Alisabri said Sri Lanka would make efforts to bring about reconciliation through civilian mechanisms.
-
-He said this while addressing the initial session of the Committee of Human Rights.
-
-He said the government would make efforts to bring about reconciliation through domestic mechanisms while continuing their involvement with the United Nations.
-
-He added that the government's commitment to the government's commitment to human rights and the government's commitment to ensuring human rights and reconciliation.
-
-He said the government would continue to have constructive involvement with the United Nations, while the government would protect sovereignty and the government would seek significant improvements in human rights issues.
-
-◼️
-
-[Data](articles/c2d18751.json)
-
-[Extended Data](ext_articles/c2d18751.ext.json)
-
----
-
-### Timeline for upcoming A/L and O/L exams revealed
-
-*2024-02-14 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97253/timeline-for-upcoming-al-and-ol-exams-revealed) · `en`
-
-Minister of Education Susil Premajayantha has revealed the timeline of the 2023 G.C.E. Ordinary Level and 2024 G.C.E. Advanced Level examinations.
-
-Accordingly, the Ordinary Level exam is planned to be held in May-June 2024 and the Advanced Level exam in December 2024.
-
-The lawmaker said the first term of schools for the academic year 2025 will thus begin on 02 January next year.
-
-◼️
-
-[Data](articles/4457cfa8.json)
-
-[Extended Data](ext_articles/4457cfa8.ext.json)
-
----
-
-### O / L and A / L dates
-
-*2024-02-14 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193357) · `si`
-
-The GCE Ordinary Level Examination for the year 2024 is scheduled to be held in June - June 2024, Minister of Education Susil Premjages.
-
-Meanwhile, the GCE Advanced Level Examination will be held in December 2024.
-
-Meanwhile, the new school year in the year 2025 is to be opened on January 2.
-
-◼️
-
-[Data](articles/1889f1a8.json)
-
-[Extended Data](ext_articles/1889f1a8.ext.json)
-
----
-
-### President declares the truth in front of school children
-
-*2024-02-14 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193356) · `si`
-
-President Ranil Wickremesinghe says that he had to beg the international internationally, even though he was reluctant to the future.
-
-The President emphasized that no one wants to rebound the time.
-
-The President made these comments addressing the national base of distributing the text books held at St. Anthony's College.
-
-"About 1722,2023. We know what the fuel-station was located. Electricity did not have. Parents looking for oil from where. No food. Ok hardly we went. I don't think anyone wants to go to that era. If those who want to go to that age, no one lived. It was our time. When you were the students. I look back in your future, making a strong economy. It's not worth looking to find oil when it comes to adults. There is no need for jobs. Take a strong economy without all. We had to ask for money from the countries this time. I'm reluctant or have begun. Give you a future. I don't think the government of you in a society that is older. "
-
-◼️
-
-[Data](articles/b77feb26.json)
-
-[Extended Data](ext_articles/b77feb26.ext.json)
-
----
-
-### Beauty Flamingo Birds!
-
-*2024-02-14 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176329) · `ta`
-
-"Flamingo" is found in the Mannar area. It is known to be relocated to Sri Lanka for a number of reasons, including the availability of food, the choice of weather and reproductive couples.
-
-Among the migrant birds, the most rare and most sensitive bird is flamingo.At present they are all concentrated in Mannar.
-
-The displaced period is always an enthusiastic time for the audience, and they have a unparalleled opportunity to see, surprise and photograph the beautiful and majestic Flamingo birds that spend more than five months on the wetlands of Mannar.
-
-These types of birds stay in November from month to April. They migrate not only to Sri Lanka but also to Pakistan and India.
-
-Wildlife Photo Artist AL Muhammad Rasim, who photographed Flamingo legends, said,
-
-...
-
-[Data](articles/5ce4bd41.json)
-
-[Extended Data](ext_articles/5ce4bd41.ext.json)
-
----
-
-### Show open to Pandiyalatota
-
-*2024-02-14 10:21:18* · [`adalk`](https://www.ada.lk/breaking_news/පිඳුරුතලාගල-සංචාරකයන්ට-විවෘත-කළ-යුතුයි/11-408073) · `si`
-
-Attorney-at-Law Lalith Jan. Mr. Gamage said.
-
-It is not inappropriate to re-opened the Piduruthalagala Mountains of the Nuwara Eliya, the height of the island.
-
-The Governor said this at the Nuwara Eliya District Development Committee meeting held on Monday (13) at the Nuwara Eliya District Secretariat.
-
-Gamage said that the Piduruthalagala Mountains is a major value of the tourism as well as a tourist high value.
-
-The Governor of the Central Province Lalith is a timely necessary to monitor the sun rising in the Nuwara Eliya Tourist Zone and to open places with high-tourism attraction.. Mr. Gamage added.
-
-◼️
-
-[Data](articles/ec23065e.json)
-
-[Extended Data](ext_articles/ec23065e.ext.json)
-
----
-
-### Govt. to intervene in paddy purchasing - Agri. Minister
-
-*2024-02-14 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97252/govt-to-intervene-in-paddy-purchasing-agri-minister) · `en`
-
-The paddy purchases will be made through the intervention of the government this time, says Agriculture Minister Mahinda Amaraweera.
-
-However, the Minister expressed that there the farmers are facing a problematic situation regarding the prices of paddy.
-
-“We need to consult farmers’ organizations before taking decisions. This time, we recommended commencing the cultivation first. Our recommendation is to conduct all cultivation activities before the Sinhala and Tamil New Year.”
-
-“There is an issue pertaining to the prices of paddy. The purchasing of paddy will be carried out under purview of the Ministry of Finance. Financial support is facilitated through banks. We will intervene in it.”
-
-◼️
-
-[Data](articles/d18edf4d.json)
-
-[Extended Data](ext_articles/d18edf4d.ext.json)
-
----
-
-### Dubai Bonista was attacked by the manager of France
-
-*2024-02-14 10:14:02* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රංශයේ-රූබන්ගේ-අවන්හලේ-කළමනාකරුට-ඩුබායි-බොනිස්ටා-නිපුනගෙන්-ප්‍රහාරයක්/11-408072) · `si`
-
-Modara Police say a group of people who arrived in a car last night have fled to a car from Modara, Modara Street.
-
-Ramachandran Romachandran Romachandran Romachandran, a resident of Grandpass No. 64/26 was injured in the shooting Colombo 14, Grandpass No. 64/26.He has been admitted to the Colombo National Hospital.
-
-The police say that the restaurant has received information that belongs to Ruben, in France, in France.
-
-Police investigations have revealed that the shot of three persons from a white car when the Manager was in the gate seat.
-
-Police say eight shots have been handed over to the manager.The shooting has been led by the Buddha's "Bonistant Skill" in Dubai due to a drug dispute.
-
-A spokesman said that he was not serious in the casualt of injuries and he is receiving treatment at ward 72.Modara police are conducting further investigations.
-
-◼️
-
-[Data](articles/791435ef.json)
-
-[Extended Data](ext_articles/791435ef.ext.json)
-
----
-
-### Sri Lankans continuously demanding hospital assistance in Australia
-
-*2024-02-14 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176327) · `ta`
-
-Investigations have begun to investigate the death of a Sri Lankan person as they did not get their help in the Emergency Service in Melbourne, Australia, during the time of the Govt.
-
-The 23 -year -old Sri Lankan Sachinda Pattakodake was invited to the Adelaide Royal Hospital three times in 2020 in November 2020 and that he had coughing and bleeding during the cough.
-
-Sachinda, who migrated to Adelaide in 2020, lives there with his wife - he is involved in carpentry.
-
-When the Sri Lankan went to Royal Adelaide Hospital for the third time, his wife asked her husband to be hospitalized, a psychic advisor told the court.
-
-The wife of the deceased says that her husband is scared of her life.
-
-Although she pleaded with her husband to provide medical assistance, it was not listening to it, the psychic consultant told the court.
-
-The wife then took her husband to another hospital and asked him to scan immediately but she died shortly afterwards.
-
-...
-
-[Data](articles/faebe0d0.json)
-
-[Extended Data](ext_articles/faebe0d0.ext.json)
-
----
-
-### Two men arrested for billions of people
-
-*2024-02-14 10:00:45* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-ගණනක්-වටිනා-නිවසකට-බලෙන්-ඇතුළු-වූ-හිමිවරුන්-දෙනමක්-අත්අඩංගුවට/11-408071) · `si`
-
-Bambalapitiya Police say two sacred house was arrested in the old spy house to a three storied house in Furid Place, Bambalapitiya worth Rs.
-
-Such has been arrested by two Samadhana monks living in a temple in Malabe
-
-A woman who is said to be a lodge that three people who were trying to remain in the home of their home, was a complaint lodged by the police, the two monks were arrested by a police team for the age of 20 and 14 years of age
-
-Police say that there was information that an Attorney license has been filed by an Atoney license when a monastery was abroad.
-
-Another monk who entered the house and the police are conducting further investigations.
-
-◼️
-
-[Data](articles/9dc5fe79.json)
-
-[Extended Data](ext_articles/9dc5fe79.ext.json)
-
----
-
-### 1,700 years old chicken egg
-
-*2024-02-14 09:59:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/1-700-ஆண்டுகள்-பழமையான-கோழி-முட்டை/50-333180) · `ta`
-
-A group of archaeologists who examined the egg have been surprised to find that the yolk and the white fetus of the damaged egg is still protected in the egg.
-
-Archaeologist Edward Bidulf, an archaeologist from Oxford, said he believed that it was the only egg in the world that had been protected by naturally without human intervention 1,700 years later.
-
-◼️
-
-[Data](articles/150dfa39.json)
-
-[Extended Data](ext_articles/150dfa39.ext.json)
 
 ---

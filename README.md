@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 03:17:25**
+As of **2024-02-15 03:32:43**
 
 ## Newspaper Stats
 
-*Scraped **7,092** Articles*
+*Scraped **7,093** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 389
 adalk | 603
 tamilmirrorlk | 861
 adaderanalk | 868
-virakesarilk | 911
+virakesarilk | 912
 adaderanasinhalalk | 998
 dailymirrorlk | 1,041
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,041
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,087 (99.9%) of 7,092 articles have been extended.
+7,092 (100.0%) of 7,093 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Addressing the top officials at the Ministry yesterday she said the ADB aid is a
 
 [Data](articles/ed4b2d05.json)
 
+[Extended Data](ext_articles/ed4b2d05.ext.json)
+
 ---
 
 ### Leading digital transformation: Empowering business leaders for success
@@ -61,6 +63,8 @@ Digital transformation, often seen as the domain of ICT professionals, frequentl
 ...
 
 [Data](articles/14493030.json)
+
+[Extended Data](ext_articles/14493030.ext.json)
 
 ---
 
@@ -82,6 +86,8 @@ He also noted that JICA has assisted vital infrastructure development of the ele
 
 [Data](articles/011c4ea3.json)
 
+[Extended Data](ext_articles/011c4ea3.ext.json)
+
 ---
 
 ### Ocean Lanka wins Raw Material Supplier Cost Efficiency Award setting new benchmark in Sri Lanka
@@ -95,6 +101,8 @@ Ocean Lanka Ltd., Sri Lanka’s leading weft-knitted fabric manufacturer, celebr
 ...
 
 [Data](articles/4b91349b.json)
+
+[Extended Data](ext_articles/4b91349b.ext.json)
 
 ---
 
@@ -148,21 +156,41 @@ The Dialog Smart Home App serves as a centralised platform, allowing users to ef
 
 ---
 
-### பாலில் விஷம்: 7 பேருக்கும் விளக்கமறியல்
+### அதிகரிக்கப்பட்ட வற் வரியை விரைவில் குறைப்போம் - ஐக்கிய தேசிய கட்சி தெரிவிப்பு
+
+*2024-02-15 01:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/176408) · `ta`
+
+மக்களுக்கு நிவாரணம் வழங்கும் வகையில் அதிகரிக்கப்பட்ட வற்வரி இன்னும் சில மாதங்களில் குறைப்பதற்கு அரசாங்கம் நடவடிக்கை எடுக்கும். அத்துடன் தற்போதுள்ள ஆட்சி முறையில் செல்வதா மாற்றத்தை ஏற்படுத்துவதா என்பதே மக்களுக்கு இருக்கும் சவாலாகும் என ஐக்கிய தேசிய கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஆஷு மாரசிங்க தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் புதன்கிழமை (14) இ்டம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+வீழ்ச்சியடைந்திருந்த நாட்டின் பொருளாதாரத்தை மீள கட்டியெழுப்ப நடவடிக்கை எடுக்கும்போது சில கடுமையான தீர்மானங்களை எடுப்பது தவிர்க்க முடியாத விடயமாகும். இதனால் நாட்டு மக்கள் அனைவருக்கும் ஏதோ ஒருவகையில் பாதிப்பு ஏற்பட்டுள்ளனர். பொருளாதார ரீதியில் மக்களுக்கு பாரிய நெருக்கடி நிலைமை ஏற்பட்டிருப்பதை நாங்கள் உணர்ந்து வருகிறோம். இந்த பிரச்சினைகளுக்குத் தீர்வுகாண அரசாங்கம் படிப்படியாக நடவடிக்கை எடுத்து வருகிறது.
+
+...
+
+[Data](articles/bcb5cda3.json)
+
+---
+
+### Poisoning in milk: 7 others
 
 *2024-02-15 01:41:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலில்-விஷம்-7-பேருக்கும்-விளக்கமறியல்/175-333227) · `ta`
 
-கொழும்பு, ஆட்டுப்பட்டி தெரு பொலிஸ் நிலைய கூண்டில் தடுத்து வைத்திருந்த சந்தேநபர்கள் இருவருக்கு விஷம் கலந்த பால் பக்கற்றுகளை கொடுத்தனர் என்ற சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட ஏழு பேரும், எதிர்வரும் 27 ஆம் திகதி வரையிலும் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+Seven persons arrested on suspicion of giving poisonous milk sides of the two Sandesanapas detained in the Colombo Street Police Station cage have been detained until the 27th of this month.
 
-கலஹாவில் வைத்து கைது செய்யப்பட்ட ஏழு பேரும், கொழும்பு மேலதிக நீதவான் முன்னிலையில், புதன்கிழமை (14) ஆஜர்படுத்தப்பட்டனர். இதன்போதே, மேலதிக நீதவான் தரங்கா மஹாவத்த மேற்கண்டவாறு உத்தரவிட்டுள்ளார்.
+Seven persons arrested in Kalaha were present in the presence of the Colombo Additional Magistrate on Wednesday (14). Meanwhile, Additional Magistrate Tharanga Mahawatta has ordered the above.
 
-கொழும்பு, ஆட்டுப்பட்டி தெரு பொலிஸ் குழுவினரே,  கலஹா, தெல்தோட்டை கிரேட்வெளி தோட்ட பகுதியிலுள்ள வீடொன்றில் வைத்து, ஏழு பேரையும் கைது செய்துள்ளனர்.  கைது செய்யப்பட்ட ஏழு பேரில், ஐந்து ஆண்களும், பெண்கள் இருவரும் அடங்குகின்றனர்.
+Seven people have been arrested by a group of police in Colombo, Ambatti Street, in a house in Galaha, Telltota Greedwali estate.Of the seven arrested, there are five men and women.
 
-கொழும்பு, ஜிந்துபிட்டிய பிரதேசத்தில் ஒருவரை சுட்டுக் கொன்ற சம்பவம் தொடர்பில், கைது செய்யப்பட்ட சந்தேக நபர்கள் இருவருக்கு விஷம் கலந்த பால் கொடுக்கப்பட்ட சம்பவம் தொடர்பிலேயே இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+They have been arrested in connection with the killing of a man in the Jindupitiya area in Colombo.
+
+Cyanite poison was found in the milk packets taken to the cage at the police station. Subsequent investigations have also been caught by CCTV footage of the suspect and the purchase of milk packets.
 
 ...
 
 [Data](articles/89be9c09.json)
+
+[Extended Data](ext_articles/89be9c09.ext.json)
 
 ---
 
@@ -2001,27 +2029,5 @@ The written submissions are expected to be handed over to the court in the futur
 [Data](articles/6aa69f2a.json)
 
 [Extended Data](ext_articles/6aa69f2a.ext.json)
-
----
-
-### Indian-origin family found dead inside their California Home
-
-*2024-02-14 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97266/indian-origin-family-found-dead-inside-their-california-home) · `en`
-
-An Indian-origin family from Kerala was found dead at their home in California, US, in an apparent case of murder-suicide. The family have been identified as Anand Sujith Henry, 42, his wife Alice Priyanka, 40, and their 4-year-old twin children Noah and Neithan.
-
-Cops found the bodies after one of the family’s relatives sought a welfare check as nobody in the house was attending the call.
-
-The Indian-American couple, Anand and Alice, were found dead with gunshot wounds inside a bathroom. The twin children were discovered dead in a bedroom, with the cause of their death still under investigation.
-
-“After arriving officers were met with no response, they searched the perimeter of the home and did not see any signs of forced entry into the house. Finding an unlocked window, officers entered the home and located four people dead; 1 adult male, 1 adult female, and two children,” police said.
-
-A 9mm pistol and a loaded magazine were recovered from the bathroom.
-
-...
-
-[Data](articles/490da335.json)
-
-[Extended Data](ext_articles/490da335.ext.json)
 
 ---

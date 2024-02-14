@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 21:33:11**
+As of **2024-02-14 21:51:50**
 
 ## Newspaper Stats
 
-*Scraped **7,050** Articles*
+*Scraped **7,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,86 @@ economynextcom | 369
 dailyftlk | 376
 adalk | 602
 tamilmirrorlk | 858
-adaderanalk | 865
+adaderanalk | 867
 virakesarilk | 901
 adaderanasinhalalk | 994
-dailymirrorlk | 1,034
+dailymirrorlk | 1,035
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,046 (99.9%) of 7,050 articles have been extended.
+7,053 (100.0%) of 7,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### දුම්රිය අනතුරකින් ජීවිත දෙකක් අහිමිවෙයි
+### Fire breaks out near Baseline Railway Station
+
+*2024-02-14 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97277/fire-breaks-out-near-baseline-railway-station) · `en`
+
+A sudden fire has broken out in a vacant plot of land near the Baseline Railway Station this evening (Feb. 14).
+
+The firefighting brigade has dispatched three fire trucks in order to extinguish the flames, Ada Derana reporter said.
+
+The cause of the fire has not been revealed yet, and police are conducting further investigations regarding the incident.
+
+◼️
+
+[Data](articles/3017416d.json)
+
+[Extended Data](ext_articles/3017416d.ext.json)
+
+---
+
+### Loan scheme implemented to support small- and medium-scale rice industry
+
+*2024-02-14 21:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97276/loan-scheme-implemented-to-support-small-and-medium-scale-rice-industry) · `en`
+
+Measures are afoot to initiate the “Odapana” loan scheme to support small- and medium-scale rice industry, Rajith Keerthi Thennakoon, the President Director General (Community Affairs) announced during a meeting held at the President’s Office today (14).
+
+This loan scheme, implemented in response to President Ranil Wickremesinghe’s directives, aims to address the financial challenges encountered by small- and medium-scale rice mill owners, rice storekeepers and rice hoarders, particularly exacerbated by the economic crisis and the COVID-19 pandemic, the President’s Media Division (PMD) said.
+
+Thennakoon highlighted the pressing issues faced by small- and medium-scale rice producers, attributing their difficulties to the economic downturn and pandemic-related disruptions. Central to the discussion was the objective of ensuring a stable market for rice and alleviating financial burdens within the industry.
+
+...
+
+[Data](articles/7bdde223.json)
+
+[Extended Data](ext_articles/7bdde223.ext.json)
+
+---
+
+### Key Battles ahead of CR-Kandy Blockbuster
+
+*2024-02-14 21:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Key-Battles-ahead-of-CR-Kandy-Blockbuster/108-277030) · `en`
+
+Feb. 14 (Daily Mirror) - Kandy Sports Club are heading into another final day of a league tournament knowing that a victory would ensure them yet another title, but unlike any other occasion, they are going in as clear underdogs this time around.
+
+...
+
+[Data](articles/271910db.json)
+
+[Extended Data](ext_articles/271910db.ext.json)
+
+---
+
+### Two lives lost in train accident
 
 *2024-02-14 21:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193388) · `si`
 
-යාපනය ඉනුවිල් ප්‍රදේශයේදී වෑන් රථයක් දුම්රියක ගැටීමෙන් සිදුවූ අනතුරකින් දෙදෙනෙකු මියගොස් තිබේ.
+Two people were killed in a train accident in the Inuvil area in Jaffna.
 
-මෙලෙස මියගොස් ඇත්තේ 32 හැවිරිදි වියේ පසුවූ පුද්ගලයෙකු සහ ඔහුගේ මාස 06 කුඩා දරුවෙකි.
+The deceased has been a 32-year-old man and his six months old.
 
-අනතුරින් බරපතළ තුවාල ලැබූ මියගිය පුද්ගලයාගේ බිරිඳ යාපනය රෝහලේ දැඩිසත්කාර ඒකකයට ඇතුළත් කර ඇත.
+The deceased who was seriously injured in the accident have been admitted to the White Unit of Jaffna Hospital.
 
 ◼️
 
 [Data](articles/cd58646e.json)
+
+[Extended Data](ext_articles/cd58646e.ext.json)
 
 ---
 
@@ -68,6 +120,8 @@ The accident occurred when a private bus carrying 70 passengers, including child
 
 [Data](articles/a960e805.json)
 
+[Extended Data](ext_articles/a960e805.ext.json)
+
 ---
 
 ### Chandrika says no decision to support any presidential candidate as yet
@@ -88,17 +142,21 @@ Ms. Kumaratunge also said she had not taken any decision to take up the leadersh
 
 [Data](articles/eaf0c8f1.json)
 
+[Extended Data](ext_articles/eaf0c8f1.ext.json)
+
 ---
 
-### පැතුම් නිස්සංකගෙන් ශතකයක්
+### A century from wishes Nissanka
 
 *2024-02-14 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193387) · `si`
 
-ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර අද (14) පැවැත්වෙන එක්දින තරගයේ පිළිතුරු ඉනිමේ දී ශතකයක් වාර්තා කිරීමට පැතුම් නිස්සංක සමත් විය.
+Wimal for a century in the ODI welcomes between Sri Lanka and Afghanistan today (14).
 
 ◼️
 
 [Data](articles/8ac2f65e.json)
+
+[Extended Data](ext_articles/8ac2f65e.ext.json)
 
 ---
 
@@ -2005,63 +2063,5 @@ The deceased individual has been identified as a 57-year-old resident of the Mag
 [Data](articles/22fa5073.json)
 
 [Extended Data](ext_articles/22fa5073.ext.json)
-
----
-
-### Casual Wife of Heroin dealers arrested
-
-*2024-02-14 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193363) · `si`
-
-The Special Task Force has arrested a woman in possession of heroin while she had closely connected to Shiran Basic, known as a large scale heroin dealer.
-
-The police say she has identified that person as the mistress.
-
-The woman was arrested in Polgasuowita area in the Kesbewa Police Division and had been arrested and 48 milligrams of heroin were found.
-
-◼️
-
-[Data](articles/b8f541d3.json)
-
-[Extended Data](ext_articles/b8f541d3.ext.json)
-
----
-
-### Sri Lanka’s China-backed Hambantota Port eyes container transshipment
-
-*2024-02-14 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-china-backed-hambantota-port-eyes-container-transshipment-150779/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s China-backed Hamtantota Port Group said it was getting ready for container transshipment in 2024 after gaining a key position in the roll-on-roll-off vehicle shipping business.
-
-“We continue to grow our RORO and bunkering businesses and saw exponential growth in 2023,” Lance Zuo, General Manager, Commercial and Marketing of HIPG said in a statement.
-
-“In 2024 we will be looking at container transshipment for which the port is now ready.”
-
-HIPG delegation had met with Ports Authority of Thailand and Ranong Port to strengthen a partnership.  HIPG hoped to invite teams from the Thai port authority and the Ranong Port to explore and evaluate possible business opportunities.
-
-HIPG had signed an agreement with the Thai Port Authority before the Covid pandemic hit the global economy.
-
-...
-
-[Data](articles/905f08cd.json)
-
-[Extended Data](ext_articles/905f08cd.ext.json)
-
----
-
-### Bingiriya Investment Zone opens doors for Japanese investors
-
-*2024-02-14 12:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bingiriya-Investment-Zone-opens-doors-for-Japanese-investors/108-277002) · `en`
-
-Colombo, Feb 14-  State Minister for Investment Promotion, Dilum Amunugama, has spearheaded efforts to welcome high-net-worth Japanese investors to the Bingiriya Investment Zone, signaling a new era of economic cooperation between Sri Lanka and Japan.
-
-Following President's successful visit to Japan, where bilateral investment opportunities were explored, Minister Amunugama has directed officials of the Sri Lanka Board of Investment to expedite the development of the second and third phases of the Bingiriya Investment Zone.
-
-This move aims to accommodate the growing interest of Japanese investors eager to contribute to Sri Lanka's economic growth story.
-
-...
-
-[Data](articles/c32236ef.json)
-
-[Extended Data](ext_articles/c32236ef.ext.json)
 
 ---

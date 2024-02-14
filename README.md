@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 20:50:02**
+As of **2024-02-14 21:02:39**
 
 ## Newspaper Stats
 
-*Scraped **7,039** Articles*
+*Scraped **7,046** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,106 @@ newsfirstlk | 363
 islandlk | 365
 economynextcom | 369
 dailyftlk | 376
-adalk | 601
+adalk | 602
 tamilmirrorlk | 858
 adaderanalk | 865
-virakesarilk | 900
-adaderanasinhalalk | 988
-dailymirrorlk | 1,031
+virakesarilk | 901
+adaderanasinhalalk | 992
+dailymirrorlk | 1,032
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,036 (100.0%) of 7,039 articles have been extended.
+7,039 (99.9%) of 7,046 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### யாழ் இணுவில் பகுதியில் புகையிரதத்துடன் வேன் மோதி விபத்து : குழந்தை உட்பட இருவர் பலி ! ஒருவர் படுகாயம்
+### බේස්ලයින් දුම්රිය ස්ථානය ආසන්නයේ ගින්නක්
+
+*2024-02-14 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193386) · `si`
+
+බේස්ලයින් දුම්රිය ස්ථානය ආසන්නයේ ඇති හිස් ඉඩමක අද (14) පස්වරුවේ ගින්නක් හටගෙන තිබේ.
+
+අප වාර්තාකරු සඳහන් කළේ ගින්න නිවාදැමීම සඳහා ගිනි නිවන රථ 3ක් යොදවා තිබූ බවය.
+
+ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර පොලීසිය පරීක්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/e3620b86.json)
+
+---
+
+### கிரிமிய கடற்பரப்பில் உக்ரைன் ஆளில்லா விமான தாக்குதல் - ரஸ்யாவின் பாரிய கப்பல்  மூழ்கடிப்பு
+
+*2024-02-14 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/176397) · `ta`
+
+ரஸ்யா ஆக்கிரமித்துள்ள கிரிமியாவின் கடற்பரப்பில் உக்ரைன் மேற்கொண்ட தாக்குதலில் ரஸ்யாவின் பாரிய தரையிறங்கு கலமொன்று மூழ்கடிக்கப்பட்டுள்ளதாக  பிபிசி தெரிவித்துள்ளது.
+
+யலாட்டா நகரிற்கு தெற்கில் உள்ள பகுதியில் ரஸ்ய கப்பலை உக்ரைன் மூழ்கடித்துள்ளது - இந்த பகுதியில் பாரிய வெடிப்பு சத்தங்கள் கேட்டன என உள்ளுர் ஊடகங்கள் தெரிவித்துள்ளன.
+
+மகுராவி5 என்ற ஆளில்லா விமானங்கள்  சீசர் குனிக்கோவ் என்ற கப்பலை தாக்கியதை காண்பிக்கும் வீடியோவை உக்ரைன் வெளியிட்டுள்ளது.
+
+◼️
+
+[Data](articles/4cadd737.json)
+
+---
+
+### Van crashed into a train in JaffnaInjury
 
 *2024-02-14 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176396) · `ta`
 
-யாழ்ப்பாணம் இணுவில் பகுதியில் புகையிரதத்துடன் வேன் மோதி இடம்பெற்ற விபத்தில் இருவர் உயிரிழந்துள்ளதுடன் ஒருவர் படுகாயமடைந்துள்ளார்.
+Two persons were killed and one person was injured in a van collision with a train in Jaffna.
 
-வேனில் பயணித்த மூவர் படுகாயமடைந்த நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் சிகிச்சை பலனின்றி குழந்தை உட்பட இருவர் பலியாகியுள்ளனர். மற்றொருவர் படுகாயமடைந்துள்ளதாக தெரிவிக்கப்படுகி்ன்றது.
+Three persons, including a child, were injured in the van and were admitted to the Jaffna Teaching Hospital.. Another is reported to have been injured.
 
 ◼️
 
 [Data](articles/881d7216.json)
+
+[Extended Data](ext_articles/881d7216.ext.json)
+
+---
+
+### Ongoing health strike to be called off
+
+*2024-02-14 20:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ongoing-health-strike-to-be-called-off/108-277026) · `en`
+
+Colombo, Feb 14 (Daily Mirror) - After days of tense negotiations and widespread disruptions in healthcare services, all 72 health sector trade unions have opted to call off their ongoing strike.
+
+Accordingly, the strike will be called off at 6.30 am tomorrow (15).
+
+This decision follows Health Minister Dr. Ramesh Pathirana's agreement to engage in a discussion slated for next Monday.
+
+The ongoing strike, which has left hospitals and clinics grappling with reduced staff and limited services raised concerns about the impact on patient care nationwide.
+
+◼️
+
+[Data](articles/0461e062.json)
+
+---
+
+### මරණ දඬුවම ලද වරෙන්තුකරුවෙකු අත්අඩංගුවට
+
+*2024-02-14 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193385) · `si`
+
+2009-05-06 වැනි දින වැලිකන්ද පොලිස් වසමේ සෙවණපිටිය දුම්රිය හරස් මාරගයේ දී ආරක්ෂිත දුම්රිය වැට බිඳගෙන ධාවනය කිරීමෙන් බස් රථයක් දුම්රියක ගැටී අනතුරක් සිදු ව තිබිණි.
+
+අනතුරෙන් මඟීන් 15 දෙනෙකු මිය ගිය අතර, 40 දෙනෙක් තුවාල ලැබූ හ.
+
+මෙම චෝදනාවලට වරදකරු වූ බස් රථයේ රියදුරු හට 2023-09-22 වැනි දින පොළොන්නරුව මහාධිකරණය මඟින් නඩු තීන්දුවක් ලබා දෙමින් මරණීය දණ්ඩනය නියම කර තිබිණි.
+
+රියදුරා අවසන් වරට 2022-05-05 වැනි දින මහාධිකරණයේ පෙනී සිට ඇති අතර, ඉන් පසු අධිකරණයේ පෙනී සිට නැත.
+
+ඉන් පසු ඔහුට අධිකරණය මඟින් වරෙන්තු නිකුත් කර ඇති අතර, අද (14) වැලිකන්ද පොලීසිය විසින් වරදකරු අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/ce032f05.json)
 
 ---
 
@@ -65,6 +137,20 @@ The scheme is similar to the fuel assistance provided to improve Sri Lanka's hea
 [Data](articles/1cdd02f4.json)
 
 [Extended Data](ext_articles/1cdd02f4.ext.json)
+
+---
+
+### පැතුම්ගෙන් වාර්තාවක්
+
+*2024-02-14 19:50:36* · [`adalk`](https://www.ada.lk/sports/පැතුම්ගෙන්-වාර්තාවක්/9-408088) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් ඉතිහාසය තුළ වේගයෙන්ම එක්දින ලකුණු 2000 සීමාවට ළඟා වූ ක්‍රීඩකයා බවට පැතුම් නිශ්ශංක මීට සුළු මොහොතකට පෙර ශ්‍රී ලංකා වාර්තා පොත් අතරට එක්විය.
+
+ඔහුට එක්දින ලකුණු 2000 සීමාව පසුකර යාමට වැය වූයේ එක්දින තරග 52ක් පමණි. මීට පෙර එම වාර්තාවට හිමිකම් කී උපුල් තරංග එක්දින තරග 66කදී ලකුණු 2000 සීමාවට ළගා වී තිබුණි.මේ වන විට පැතුම්ගේ ඉනිමක සාමාන්‍ය 43.4ක් ලෙස දැක්වෙයි.
+
+◼️
+
+[Data](articles/e24df5c5.json)
 
 ---
 
@@ -110,6 +196,18 @@ However, in response to the strike, the Sri Lankan military has sent groups to g
 
 ---
 
+### සෞඛ්‍ය වර්ජනය හෙට අවසන්
+
+*2024-02-14 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193384) · `si`
+
+සෞඛ්‍ය වැඩ වර්ජනය හෙට (15) උදෑසන 06.30 සිට අවසන් බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය පවසයි.
+
+◼️
+
+[Data](articles/b9039c6a.json)
+
+---
+
 ### State Minister reveals plans to establish three international universities in Sri Lanka
 
 *2024-02-14 19:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97274/state-minister-reveals-plans-to-establish-three-international-universities-in-sri-lanka) · `en`
@@ -152,23 +250,51 @@ Indian Institutes of Technology. The other two universities will open their two 
 
 ---
 
-### சர்வதேச ஒருநாள் கிரிக்கெட் அரங்கில் சகலதுறை வீரருக்கான தரவரிசையில் ஷக்கிப்பின் ஆதிக்கத்துக்கு முடிவுகட்டினார் நபி
+### The Prophet concluded the domination of Shakib in the international one -day cricket stage rankings
 
 *2024-02-14 19:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/176395) · `ta`
 
-சர்வதேச ஒருநாள் கிரிக்கெட் (ODI) அரங்கில் ஐசிசி சகலதுறை வீரருக்கான தரவரிசையில் ஆப்கானிஸ்தான் வீரர் மொஹமத் நபி முதலாம் இடத்திற்கு முன்னேறியுள்ளார்.
+Afghan player Mohammed Prophet Mohammed has jumped to the top of the ICC all -rounder rankings at the ODI.
 
-இலங்கைக்கு எதிரான முதலாவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் சதம் குவித்ததை அடுத்து சகலதுறை வீரருக்கான தரவரிசையில் நபி முதலிடத்தைப் பெற்றுள்ளார்.
+The Prophet has topped the rankings for all -rounder after scoring a century in the first ODI against Sri Lanka.
 
-இதன் மூலம் சர்வதேச ஒருநாள் கிரிக்கெட்டில் அதிசிறந்த சகலதுறை வீரருக்கான தரவரிசையில் 2019 மே 7ஆம் திகதியிலிருந்து 2024 பெப்ரவரி 9ஆம் திகதிவரை 1739 நாட்கள் முதலிடத்தில் இருந்தவாறு ஷக்கிப் அல் ஹசன் செலுத்திவந்த ஆதிக்கத்தை மொஹமத் நபி முடிவுக்கு கொண்டுவந்துள்ளார்.
+Mohammed Prophet Mohammed has ended the domination of Shakib al -Hasan, as it topped the number 1739 days from May 7, 2019 to February 9, 2019 in the rankings for the best all -rounder in international ODI cricket.
 
-மொஹமத் நபி 314 தரவரிசை புள்ளிகளைப் பெற்று ஷக்கிப் அல் ஹசனைவிட 4 புள்ளிகள் விததியாசத்தில் முன்னிலையில் இருக்கிறார்.
+Mohammad Prophet Muhammad has scored 314 ranking points and is 4 points more than Shakib Al Hasan.
 
-ஷக்கிப் அல் ஹசனுக்கு முன்னர் ஆப்கானிஸ்தானின் சுழல்பந்துவீச்சு நட்சத்திரம் ரஷித் கான் முதலிடத்தில் இருந்துவந்தார்.
+Prior to Shakib Al Hassan, Afghanistan's spinning star Rashid Khan topped the list.
+
+39 -year -old Mohammed Prophet Mohammed has topped the rankings for all -rounder cricket in international ODIs by scoring 136 runs in the first ODI in Pallekele against Sri Lanka.
+
+Mohammed Prophet Service has set the record for the first place in the most popular age (39 years, one day).
 
 ...
 
 [Data](articles/3a7f282d.json)
+
+[Extended Data](ext_articles/3a7f282d.ext.json)
+
+---
+
+### ජනලේඛන සහ සංඛ්‍යාලේඛන දෙපාර්තමේන්තුවෙන් බරපතළ හෙළිදරව්වක්
+
+*2024-02-14 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193383) · `si`
+
+කොවිඩ් - 19 වසංගතයෙන් පසු ආර්ථික අර්බුදයේ බලපෑම් මත ක්ෂුද්‍ර, කුඩා හා මධ්‍ය පරිමාණ ව්‍යාපාරික ස්ථාන දෙලක්ෂ හැට තුන්දහසකට ආසන්න ප්‍රමාණයක් වැසී ගොස් ඇතැයි ජනලේඛන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුව පවසයි.
+
+ඔවුන් මේ බව අනාවරණ කළේ, සිය නවතම සමීක්ෂණ වාර්තාව ප්‍රකාශයට පත්කරමිනි.
+
+ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව කොවිඩ් - 19 වසංගතයෙන් පසු ආර්ථික අර්බුදයේ බලපෑම් මැන බැලීම සඳහා ආයතන මට්ටමේ සමීක්ෂණයක් පසුගිය වසරේ මාර්තු මස සිට ජූනි මස දක්වා සිදු කර තිබේ.
+
+මෙම සමීක්ෂණය මගින් ක්ෂුද්‍ර, කුඩා හා මධ්‍ය පරිමාණ ව්‍යාපාරික ස්ථාන ආවරණය කර ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+ඒ අනුව එක් එක් වසර තුළ තාවකාලික ව හෝ ස්ථිර ව වැසි ගිය ක්ෂුද්‍ර, කුඩා හා මධ්‍ය පරිමාණ ව්‍යාපාරික ස්ථානවල ප්‍රතිශතයන්හි අගය ද එම දෙපාර්තමේන්තුව විසින් අද හෙළි කරනු ලැබිණි.
+
+එහි දී 2019 වසරේ සියයට 9.9ක් ද 2020 වසරේ සියයට 33.4 ක් ද 2021 වසරේ දී 27.4ක් හා 2022 වසරේ සියයට 29.3ක් ව්‍යාපාර වැසී ගොස් තිබේ.
+
+◼️
+
+[Data](articles/c38d38c3.json)
 
 ---
 
@@ -190,19 +316,21 @@ At the end of the attempt to protect it, Ikilil's finger was inactive, and he de
 
 ---
 
-### பேஸ்புக் தளம் வழமைக்குத் திரும்பியது
+### The Facebook site turned to usual
 
 *2024-02-14 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176394) · `ta`
 
-சர்வதேச ரீதியில்  சமூக ஊடகங்களில் பிரபலமான பேஸ்புக் முடங்கி இருந்த நிலையில் வழமைக்குத் திரும்பியுள்ளது.
+Internationally, the popular Facebook on social media has returned to normal.
 
-பேஸ்புக் முடக்கமா?  கணினியில் அணுக முடியவில்லை என எக்ஸ் தளத்தில் பயனர்கள் பதிவுகளை இட்டு வந்தனர்.
+Does Facebook Disable?Users posted records on the X site as they could not access the computer.
 
-இருப்பினும் பேஸ்புக் நிறுவனத்தின் தாயக நிறுவனமான மெட்டா இந்த முடக்கம் தொடர்பில் உத்தியோகப்பூர்வமான அறிவிப்பு எதையும் வெளியிடவில்லை.
+However, Facebook's homeland company Meta has not issued an official announcement regarding the freeze.
 
 ◼️
 
 [Data](articles/bbf07e7d.json)
+
+[Extended Data](ext_articles/bbf07e7d.ext.json)
 
 ---
 
@@ -1929,127 +2057,5 @@ Wijesekera said he “requested continued assistance for reforms, energy efficie
 [Data](articles/7974dd32.json)
 
 [Extended Data](ext_articles/7974dd32.ext.json)
-
----
-
-### Israel released a video
-
-*2024-02-14 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176351) · `ta`
-
-The Israeli video has released a video of a video of the subway.
-
-The video, which was recorded on the Hamas Organization's CCTV on October 10, has recently received the Israeli security forces, said a spokesman for the Israeli Security Forces.
-
-Israel said that he had escaped with his family through the tunnel and went to the safe shelter that had already been created.
-
-CNN said he could not confirm that Hamas was the head of the Hamas organization.
-
-Meanwhile, Israel has also released a video of Israeli soldiers inside a subway where the Hamas leader has disappeared.
-
-சின்வரின் முக்கிய பதுங்குமிடம் அது அவர் அங்கு சமீபநாட்களில் காணப்பட்டார் என இஸ்ரேலிய இராணுவவீரர் ஒருவர் அந்த வீடியோவில் தெரிவிக்கின்றார்,படுக்கையறைகள் சமையலறைகள் போன்றவற்றையும் அந்த வீடியோ காண்பிக்கின்றது
-
-◼️
-
-[Data](articles/940149a1.json)
-
-[Extended Data](ext_articles/940149a1.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-02-14 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176350) · `ta`
-
-The US $ 308.2669 and the sales price were 318.1678 based on the Central Bank's currency exchange rate on Wednesday (February 14).
-
-◼️
-
-[Data](articles/17d73e46.json)
-
-[Extended Data](ext_articles/17d73e46.ext.json)
-
----
-
-### Education Minister reveals A/L exam results release date
-
-*2024-02-14 12:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Education-Minister-reveals-AL-exam-results-release-date/108-277001) · `en`
-
-Colombo, Feb 14 (Daily Mirror) -  Education Minister Susil Premajayantha has confirmed that the results of the 2023 G.C.E. Advanced Level examination will be released prior to the commencement of the 2023 G.C.E. Ordinary Level examination.
-
-In a recent statement, Minister Premajayantha disclosed that the evaluation process for the 2023 G.C.E. Advanced Level answer scripts is progressing steadily and is anticipated to conclude by the end of February.
-
-◼️
-
-[Data](articles/6f60e386.json)
-
-[Extended Data](ext_articles/6f60e386.ext.json)
-
----
-
-### Former President of STF joined the IMC
-
-*2024-02-14 12:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/STF-இன்-முன்னாள்-தலைவர்-ஐ-ம-ச-வில்இணைந்தார்/175-333186) · `ta`
-
-Nimal Levke, former president of the STF, has joined the United People's Power, the party office said.
-
-◼️
-
-[Data](articles/50c0e825.json)
-
-[Extended Data](ext_articles/50c0e825.ext.json)
-
----
-
-### Joined the former head of STF
-
-*2024-02-14 12:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/STF-இன்-முன்னாள்-தலைவர்-ஐ-ம-ச-வில்-இணைந்தார்/175-333186) · `ta`
-
-Nimal Levke, former president of the STF, has joined the United People's Power, the party office said.
-
-◼️
-
-[Data](articles/a2a335d4.json)
-
-[Extended Data](ext_articles/a2a335d4.ext.json)
-
----
-
-### Why do Sri Lanka be killed most unique elephants?
-
-*2024-02-14 12:32:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd1vn16rx1ro) · `si`
-
-Why do Sri Lanka be killed most unique elephants?
-
-As her husband trampled the evening after her husband trampled in March last year, Sumitra Kalkini's heart will break up.
-
-She was busy in the kitchen - the couple was in an agricultural village in Sri Lanka - Thilak Kumara, her husband, and his belongings were given food for his cows. There, an elephant's kanhanada was listening.
-
-She said, he tried to inform him that. But, "in minutes, the destruction was taken place,". The elephant had fled the face of the terrorized screams of the villages.
-
-45-year-old Malukanti, a mother of three young daughters, said that his family is still trying to break free from the incident. She is afraid that it will happen again.
-
-Her home, which is pleased to eat, is located in a farm, from a dense forest, from a thick forest, which is pleasing to eat elephants. The village of the village in Kurunegala district has become an intensive conflict between people and elephants, in the village of the village.
-
-...
-
-[Data](articles/2473b5c7.json)
-
-[Extended Data](ext_articles/2473b5c7.ext.json)
-
----
-
-### Two including 17-year-old drown after boat capsizes in Mahaweli River
-
-*2024-02-14 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97259/two-including-17-year-old-drown-after-boat-capsizes-in-mahaweli-river-) · `en`
-
-Two persons, including a 17-year-old, have reportedly drowned after their boat capsized in the Mahaweli River in Kinniya.
-
-According to police, the boat had capsized while the 17-year-old youth and a 35-year-old were fishing in a tributary of the river.
-
-◼️
-
-[Data](articles/119182ec.json)
-
-[Extended Data](ext_articles/119182ec.ext.json)
 
 ---

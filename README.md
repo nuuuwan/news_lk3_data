@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 20:33:47**
+As of **2024-02-14 20:50:02**
 
 ## Newspaper Stats
 
-*Scraped **7,036** Articles*
+*Scraped **7,039** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 376
 adalk | 601
 tamilmirrorlk | 858
 adaderanalk | 865
-virakesarilk | 897
+virakesarilk | 900
 adaderanasinhalalk | 988
 dailymirrorlk | 1,031
 
@@ -26,25 +26,45 @@ dailymirrorlk | 1,031
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,032 (99.9%) of 7,036 articles have been extended.
+7,036 (100.0%) of 7,039 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### நிலையான மின் விநியோகத்துக்கான திட்டத்திற்கு ஜப்பான் உதவி
+### யாழ் இணுவில் பகுதியில் புகையிரதத்துடன் வேன் மோதி விபத்து : குழந்தை உட்பட இருவர் பலி ! ஒருவர் படுகாயம்
+
+*2024-02-14 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176396) · `ta`
+
+யாழ்ப்பாணம் இணுவில் பகுதியில் புகையிரதத்துடன் வேன் மோதி இடம்பெற்ற விபத்தில் இருவர் உயிரிழந்துள்ளதுடன் ஒருவர் படுகாயமடைந்துள்ளார்.
+
+வேனில் பயணித்த மூவர் படுகாயமடைந்த நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் சிகிச்சை பலனின்றி குழந்தை உட்பட இருவர் பலியாகியுள்ளனர். மற்றொருவர் படுகாயமடைந்துள்ளதாக தெரிவிக்கப்படுகி்ன்றது.
+
+◼️
+
+[Data](articles/881d7216.json)
+
+---
+
+### Japanese assist to project for standard power supply
 
 *2024-02-14 19:56:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலையான-மின்-விநியோகத்துக்கான-திட்டத்திற்கு-ஜப்பான்-உதவி/175-333212) · `ta`
 
-“வைத்தியசாலைகளில் புதுப்பிக்கத்தக்க வலுவை பயன்படுத்தி நிலையான மின் விநியோகத்துக்கான திட்டம்” என்பதற்காக 1.23 பில். யென்களை ஜப்பான் வழங்கியுள்ளது.
+1.23 Bill for “Standard Power Distribution Scheme Using Renewable Strength in Hospitals”. Japan has provided Yen.
 
-வைத்தியசாலைகளில் நிலவும் மின் விநியோக நெருக்கடி நிலையை மேம்படுத்துவதற்காக 1.23 பில்லியன் ஜப்பானிய யென்களை வழங்குவதற்கான உடன்படிக்கையில் இலங்கைக்கான ஜப்பானிய தூதுவர் மிசுகொஷி ஹிதேகி மற்றும் நிதி, பொருளாதார உறுதிப்படுத்தல் மற்றும் தேசிய கொள்கைகள் அமைச்சின் செயலாளர் கே.எம்.எம். சிறிவர்தன ஆகியோர் கைச்சாத்திட்டிருந்தனர்.
+Japanese Ambassador to Sri Lanka Miss Koshoshi Hidegi and Secretary to the Ministry of Finance, Economic Constration and National Policies. Siriwardena had signed.
 
-இந்த உதவியினூடாக, ஸ்ரீ ஜயவர்தனபுர பொது வைத்தியசாலை, இரத்தினபுரி போதனா வைத்தியசாலை மற்றும் குருநாகல் போதனா வைத்தியசாலை ஆகியவற்றில் காபன் வெளிப்பாட்டை குறைப்பதற்கும், மின்சார செலவுகளால் ஏற்படும் நெருக்கடியை தணிப்பதற்கும் எதிர்பார்க்கப்படுகின்றது.
+Through this aid, the Sri Jayawardenapura General Hospital, the Ratnapura Teaching Hospital and the Kurunegala Teaching Hospital are expected to reduce the exposure of carbon and to alleviate the crisis caused by electricity costs.
+
+With this help, solar power structures will be installed in these hospitals and will ensure continuous power supply, and it is expected to contribute to the target of more than 70%of the electricity demand by 2030.
+
+The scheme is similar to the fuel assistance provided to improve Sri Lanka's health care infrastructure. The solar power generation facilities are set to improve the recovery of these health care centers and contribute to the welfare of the people of Sri Lanka.
 
 ...
 
 [Data](articles/1cdd02f4.json)
+
+[Extended Data](ext_articles/1cdd02f4.ext.json)
 
 ---
 
@@ -132,6 +152,26 @@ Indian Institutes of Technology. The other two universities will open their two 
 
 ---
 
+### சர்வதேச ஒருநாள் கிரிக்கெட் அரங்கில் சகலதுறை வீரருக்கான தரவரிசையில் ஷக்கிப்பின் ஆதிக்கத்துக்கு முடிவுகட்டினார் நபி
+
+*2024-02-14 19:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/176395) · `ta`
+
+சர்வதேச ஒருநாள் கிரிக்கெட் (ODI) அரங்கில் ஐசிசி சகலதுறை வீரருக்கான தரவரிசையில் ஆப்கானிஸ்தான் வீரர் மொஹமத் நபி முதலாம் இடத்திற்கு முன்னேறியுள்ளார்.
+
+இலங்கைக்கு எதிரான முதலாவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் சதம் குவித்ததை அடுத்து சகலதுறை வீரருக்கான தரவரிசையில் நபி முதலிடத்தைப் பெற்றுள்ளார்.
+
+இதன் மூலம் சர்வதேச ஒருநாள் கிரிக்கெட்டில் அதிசிறந்த சகலதுறை வீரருக்கான தரவரிசையில் 2019 மே 7ஆம் திகதியிலிருந்து 2024 பெப்ரவரி 9ஆம் திகதிவரை 1739 நாட்கள் முதலிடத்தில் இருந்தவாறு ஷக்கிப் அல் ஹசன் செலுத்திவந்த ஆதிக்கத்தை மொஹமத் நபி முடிவுக்கு கொண்டுவந்துள்ளார்.
+
+மொஹமத் நபி 314 தரவரிசை புள்ளிகளைப் பெற்று ஷக்கிப் அல் ஹசனைவிட 4 புள்ளிகள் விததியாசத்தில் முன்னிலையில் இருக்கிறார்.
+
+ஷக்கிப் அல் ஹசனுக்கு முன்னர் ஆப்கானிஸ்தானின் சுழல்பந்துவீச்சு நட்சத்திரம் ரஷித் கான் முதலிடத்தில் இருந்துவந்தார்.
+
+...
+
+[Data](articles/3a7f282d.json)
+
+---
+
 ### A wicketkeeper athletes a mechanic Iakil disorder
 
 *2024-02-14 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193382) · `si`
@@ -147,6 +187,22 @@ At the end of the attempt to protect it, Ikilil's finger was inactive, and he de
 [Data](articles/38b963fd.json)
 
 [Extended Data](ext_articles/38b963fd.ext.json)
+
+---
+
+### பேஸ்புக் தளம் வழமைக்குத் திரும்பியது
+
+*2024-02-14 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176394) · `ta`
+
+சர்வதேச ரீதியில்  சமூக ஊடகங்களில் பிரபலமான பேஸ்புக் முடங்கி இருந்த நிலையில் வழமைக்குத் திரும்பியுள்ளது.
+
+பேஸ்புக் முடக்கமா?  கணினியில் அணுக முடியவில்லை என எக்ஸ் தளத்தில் பயனர்கள் பதிவுகளை இட்டு வந்தனர்.
+
+இருப்பினும் பேஸ்புக் நிறுவனத்தின் தாயக நிறுவனமான மெட்டா இந்த முடக்கம் தொடர்பில் உத்தியோகப்பூர்வமான அறிவிப்பு எதையும் வெளியிடவில்லை.
+
+◼️
+
+[Data](articles/bbf07e7d.json)
 
 ---
 
@@ -250,6 +306,8 @@ People waiting in long queques outside the Osu Sala at Town Hall to purchase med
 
 [Data](articles/a078ab6b.json)
 
+[Extended Data](ext_articles/a078ab6b.ext.json)
+
 ---
 
 ### A story to see the Valentine's day
@@ -308,6 +366,8 @@ Moreover, a donation of 73,000 school books will be made to selected schools und
 
 [Data](articles/c7fc89d3.json)
 
+[Extended Data](ext_articles/c7fc89d3.ext.json)
+
 ---
 
 ### Motorcycle - State Bus Accident on A9 Road, Jaffna
@@ -345,6 +405,8 @@ However, Omarzai regained the momentum for Afghanistan with a 53-ball half centu
 ...
 
 [Data](articles/021aed58.json)
+
+[Extended Data](ext_articles/021aed58.ext.json)
 
 ---
 
@@ -1989,61 +2051,5 @@ According to police, the boat had capsized while the 17-year-old youth and a 35-
 [Data](articles/119182ec.json)
 
 [Extended Data](ext_articles/119182ec.ext.json)
-
----
-
-### South Korea says North Korea has fired cruise missiles
-
-*2024-02-14 12:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/South-Korea-says-North-Korea-has-fired-cruise-missiles/108-277000) · `en`
-
-SEOUL, South Korea (AP) — North Korea on Wednesday fired multiple cruise missiles into the sea in its fifth test of such weapons since January, South Korea’s military said, extending a streak in weapons demonstrations that’s elevating tensions in the region.
-
-South Korea’s Joint Chiefs of Staff said the South Korean and U.S. militaries were analyzing the launches that were detected in waters northeast of the eastern coastal city of Wonsan. The South Korean military didn’t immediately provide the exact numbers of missiles fired or how far they flew. It wasn’t immediately clear either whether the missiles were fired from land or from sea assets. “Our military has increased surveillance and vigilance and is working closely with our U.S. partners and is closely monitoring signs for further activity from North Korea,” the Joint Chiefs of Staff said in a statement.
-
-...
-
-[Data](articles/9ae1bbf7.json)
-
-[Extended Data](ext_articles/9ae1bbf7.ext.json)
-
----
-
-### Mind back to live in goodwill
-
-*2024-02-14 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/176343) · `ta`
-
-Recall Jesus' sufferings, death and life, and the man liberates from sin and repents and lives.. Vibhuti begins with Wednesday.
-
-It is mandatory for all Catholics to go to the church on the first day of the time. In the Catholic Church today, the priest recalls the death of the crucifixion by saying, "You are the soil, you are the soil.
-
-The first day of the time is called Vibhuti Mercury, Thiruna Mercury, Gray Mercury. Forty days is observed.
-
-During the time of peace of mind, this sacred time has been given to us to make ourselves we know ourselves and take the way of God.
-
-Catholics are compulsory in the 40 days of the period. In addition, it is said that the fasting of fasting, one of the days of the day, and the pseudonym in the days of pure nutrition.
-
-...
-
-[Data](articles/2a0f9be9.json)
-
-[Extended Data](ext_articles/2a0f9be9.ext.json)
-
----
-
-### Two drowning
-
-*2024-02-14 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193362) · `si`
-
-A woman who was engaged in fishing in the Mahaweli River in the Mahaweli River, Trincomalee, Trincomalee.
-
-Police said that two and 35 people were drowned.
-
-The accident had occurred when the vessel used for fishing.
-
-◼️
-
-[Data](articles/482e62ab.json)
-
-[Extended Data](ext_articles/482e62ab.ext.json)
 
 ---

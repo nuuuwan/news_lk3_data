@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 09:51:35**
+As of **2024-02-14 10:02:48**
 
 ## Newspaper Stats
 
-*Scraped **6,875** Articles*
+*Scraped **6,880** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 80
-bbccomsinhala | 92
+bbccomsinhala | 93
 dbsjeyarajcom | 149
 economynextcom | 350
 newsfirstlk | 363
@@ -20,13 +20,13 @@ tamilmirrorlk | 839
 adaderanalk | 842
 virakesarilk | 868
 adaderanasinhalalk | 960
-dailymirrorlk | 1,007
+dailymirrorlk | 1,011
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,875 (100.0%) of 6,875 articles have been extended.
+6,880 (100.0%) of 6,880 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -91,6 +91,46 @@ He referred to that farmers have problems in the price of paddy.
 [Data](articles/11c0edf9.json)
 
 [Extended Data](ext_articles/11c0edf9.ext.json)
+
+---
+
+### Man shot at in Modara Street last night
+
+*2024-02-14 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-shot-at-in-Modara-Street-last-night/108-276978) · `en`
+
+Modara, Feb 14 (Daily Mirror) - A 51-year-old person was admitted to the National Hospital in Colombo with injuries following a shooting incident at Modara Street in Modara, Colombo, last night, police said.
+
+The victim is a manager attached to a guest house in Modara Street. An unidentified person who had arrived in a car had shot at the manager, who was in front of the guest house gate and had fled the scene.
+
+The police suspected that a pistol had been used to shoot at the guesthouse manager. The cause of the shooting has not been revealed yet.
+
+◼️
+
+[Data](articles/333dadd9.json)
+
+[Extended Data](ext_articles/333dadd9.ext.json)
+
+---
+
+### Thundershowers in Western, Sabaragamuwa, Galle, Matara after 2 p.m.
+
+*2024-02-14 08:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thundershowers-in-Western-Sabaragamuwa-Galle-Matara-after-2-p-m/108-276977) · `en`
+
+Colombo, Feb 14 (Daily Mirror) - Thundershowers may occur in the Western and Sabaragamuwa Provinces and in the Galle and Matara districts after 2 p.m., the forecasting division of the National Meteorological Centre said.
+
+They said several spells of showers will occur in the Eastern and Uva Provinces and in the Polonnaruwa, Matale and Nuwara-Eliya districts.
+
+Meanwhile, a few showers may occur in the Northern Province and in the Anuradhapura district.
+
+Fairly strong winds of about 40 kmph can be expected at times on the eastern slopes of the central hills and in the Northern, North-Central, Southern, North-Western, Uva and Eastern Provinces.
+
+However, misty conditions can be expected at some places in the Western and Sabaragamuwa Provinces and in the Galle and Matara districts during the morning.
+
+◼️
+
+[Data](articles/f5316363.json)
+
+[Extended Data](ext_articles/f5316363.ext.json)
 
 ---
 
@@ -362,6 +402,24 @@ In some places in the Western and Sabaragamuwa Province, some locations are expe
 
 ### Tri-forces halt general recruitment
 
+*2024-02-14 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Tri-forces-halt-general-recruitment/155-276947) · `en`
+
+Colombo, Feb 13 (Daily Mirror) - Sri Lanka is in the process of downsizing the existing Sri Lanka Army cadre to 135,000 by the end of this year, and the number has already dropped to nearly 150,000 from the existing Sri Lanka Army cadre of 200,783, Daily Mirror learns.
+
+Last year, State Minister of Defence Premitha Bandara Tennakoon announced that Sri Lanka would cut the number of Army personnel by a third to 135,000 by this year and to 100,000 by 2030, as part of the government's efforts to overhaul its finances. He said that the aim of the move is to create a "technically and tactically sound and well-balanced" defence force by 2030.
+
+In addition, Sri Lanka expects to maintain the number of Sri Lanka Air Force personnel and Sri Lanka Navy personnel at 35,000 each by 2030.
+
+...
+
+[Data](articles/11b2beaa.json)
+
+[Extended Data](ext_articles/11b2beaa.ext.json)
+
+---
+
+### Tri-forces halt general recruitment
+
 *2024-02-14 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tri-forces-halt-general-recruitment/108-276947) · `en`
 
 Colombo, Feb 13 (Daily Mirror) - Sri Lanka is in the process of downsizing the existing Sri Lanka Army cadre to 135,000 by the end of this year, and the number has already dropped to nearly 150,000 from the existing Sri Lanka Army cadre of 200,783, Daily Mirror learns.
@@ -395,6 +453,30 @@ The President's Counsel made these remarks recently whilst addressing a special 
 [Data](articles/43f2db9d.json)
 
 [Extended Data](ext_articles/43f2db9d.ext.json)
+
+---
+
+### Valentine's Day: 'There's more than sex. There's a lot of love there '
+
+*2024-02-14 03:59:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czd7vjv7gwyo) · `si`
+
+Valentine's Day: 'There's more than sex. There's a lot of love there '
+
+"Love is felt. No one can label the love of that heart. There are times when Valentine's Day will love to stay with freedom with the man who loves them so much. But they have no freedom. "
+
+In love, the king's abundance is the most beautiful of the world, as well as those who have left their lives for their love for their love.
+
+Shashini, who joined the Valentine's day on February 14, told the BBC Sinhala service that they were banned from Sri Lankan society to love with his partner.
+
+Shashiy and her companion's love story has begun about 4 years ago. Yet, BBC told the Sinhala.
+
+"I and I went to a restroom. We saw a Straight Cuppal (Straight Cuple), watching the eating and talking to us, we saw one thing. I didn't have any problem. But for a while, I thought it was tortured and worried for us. So we returned to pack the bill, packing the food that quickly carped. "
+
+...
+
+[Data](articles/83b49da1.json)
+
+[Extended Data](ext_articles/83b49da1.ext.json)
 
 ---
 
@@ -1943,83 +2025,5 @@ Ceylon Cold Stores Plc which announced an interim dividend of 1.426 rupees per s
 [Data](articles/99602a3f.json)
 
 [Extended Data](ext_articles/99602a3f.ext.json)
-
----
-
-### Sri Lanka to host International Gita Mahotsav 2024
-
-*2024-02-13 17:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97238/sri-lanka-to-host-international-gita-mahotsav-2024) · `en`
-
-The Cabinet of Ministers has granted approval for the International Bhagavad Gita Festival 2024 or ‘International Gita Mahotsav’ to be held in Sri Lanka.
-
-The International Gita Mahotsav is conducted by the Kurukshetra Development Board (KDB) in Haryana State in India to pay tribute to the sacred ‘Bhagavad Gita’ along with the series of religious activities related to sacred Bhagavad Gita, which is considered to be the most sacred book of Hindu devotees.
-
-During the recent years it has been held in overseas countries as well and the International Holy Bhagavad Gita festival for the year 2024 was proposed to be held in Sri Lanka.
-
-Accordingly, the Cabinet of Ministers has granted approval to the proposal furnished by the Minister of Buddha Sasana, Religious and Cultural Affairs, Vidura Wickremanayake to conduct the festival at the Nelum Pokuna Theatre premises from 01 to 03 March 2024 with the financial sponsorship of Kurukshetra Development Board in Haryana.
-
-◼️
-
-[Data](articles/9093a4f2.json)
-
-[Extended Data](ext_articles/9093a4f2.ext.json)
-
----
-
-### Sri Lanka issues travel documents for Rajiv Gandhi assassination convict to return home, TN govt tells court
-
-*2024-02-13 17:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97237/sri-lanka-issues-travel-documents-for-rajiv-gandhi-assassination-convict-to-return-home-tn-govt-tells-court) · `en`
-
-Tamil Nadu government informed the Madras High Court on Tuesday that the Sri Lankan government has issued travel documents for one of the convicts in the former Prime Minister Rajiv Gandhi assassination, Santhan alias T Suthenthiraraja, who was released along with others in 2022 following a Supreme Court order.
-
-Additional Public Prosecutor R Muniapparaj made the submission before a division bench of Justices R Suresh Kumar and K Kumaresh Babu during a petition filed by Santhan seeking orders to facilitate his return to his native country. He is currently detained at the high-security detention camp for foreigners in Tiruchy.
-
-“The Sri Lanka deputy high commission has sent the travel documents to the Tamil Nadu government to pave the way for Santhan to return,” Muniapparaj told the court. He added that the state government has forwarded these travel documents to the Centre for issuing necessary orders to allow him to get back to his country.
-
-...
-
-[Data](articles/169d5e6a.json)
-
-[Extended Data](ext_articles/169d5e6a.ext.json)
-
----
-
-### Survey on Sri Lanka’s PR industry reveals print is here to stay
-
-*2024-02-13 17:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Survey-on-Sri-Lankas-PR-industry-reveals-print-is-here-to-stay/108-276873) · `en`
-
-Many PR agency leaders and executives commented that a shift towards digital channels is crucial but it should come with the required literacy and ethical framework
-
-Print topped the list once again, budget cuts, PR literacy among clients, and upskilling are biggest challenges
-
-Crisis mitigation, ESG, DEI, internal and executive communications will take centerstage in 2024
-
-Bridging skills gap between workforce generations in the industry need to be addressed
-
-With the rapid advancement of technology the popular and common sentiment is that print media is fast losing its place and relevance.
-
-However, a survey conducted by APAC chapter of the Public Relations and Communications Association (PRCA), considered as the world’s largest and influential PR body, revealed that print is here to stay.
-
-...
-
-[Data](articles/c2535274.json)
-
-[Extended Data](ext_articles/c2535274.ext.json)
-
----
-
-### Minister Diana's appeal will postpone the day
-
-*2024-02-13 17:09:49* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-ඩයනාගේ-අභියාචනාව-දින-නියමයක්-නැතිව-කල්-තබයි/11-408063) · `si`
-
-Gamini Amarasekera, Kuthudi Wickramasinghe and Janaka de Silva consisting of a petition filed by the Court of Republic of State Diyani GamageThe three-person Supreme Court judges published.
-
-Attorneys-at-Law Shavele Farris, appearing on behalf of the petition, was presented by the petition filed by the petition to the petition.
-
-◼️
-
-[Data](articles/ef4af3c2.json)
-
-[Extended Data](ext_articles/ef4af3c2.ext.json)
 
 ---

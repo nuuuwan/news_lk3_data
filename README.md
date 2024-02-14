@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 14:33:12**
+As of **2024-02-14 14:50:09**
 
 ## Newspaper Stats
 
-*Scraped **6,955** Articles*
+*Scraped **6,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 365
 dailyftlk | 376
 adalk | 592
 tamilmirrorlk | 849
-adaderanalk | 853
-virakesarilk | 884
+adaderanalk | 854
+virakesarilk | 885
 adaderanasinhalalk | 973
 dailymirrorlk | 1,019
 
@@ -26,33 +26,69 @@ dailymirrorlk | 1,019
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,943 (99.8%) of 6,955 articles have been extended.
+6,947 (99.9%) of 6,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### කාසියේ වාසිය ඇෆ්ගනිස්තානයට
+### பொலிஸ் தடுப்பிலிருந்த இருவருக்கு விஷம் கலந்த பால் வழங்கிய சம்பவம் : 7 பேருக்கு விளக்கமறியல்!
+
+*2024-02-14 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/176357) · `ta`
+
+கொழும்பு, ஆட்டுப்பட்டித் தெரு  பொலிஸில்  தடுத்து வைக்கப்பட்டிருந்த சந்தேக நபர்கள் இருவருக்கு விஷம் கலந்த பால் வழங்கிய சம்பவத்தில் சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட  ஏழு பேரையும்  எதிர்வரும் 27ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு மேலதிக நீதிவான்  தரங்கா மஹவத்த உத்தரவிட்டுள்ளார்.
+
+சந்தேக நபர்கள் கம்பளை பொலிஸ் பிரிவுக்கு  உட்பட்ட  கலஹா தெல்தோட்டை பிரதேச  தோட்டத்திலுள்ள வீடொன்றில் பதுங்கியிருந்த போதே பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+இவ்வாறு ஐந்து ஆண்களும் இரண்டு பெண்களும் கைது செய்யப்பட்டு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டதுடன்,  சந்தேக நபர்கள் இருவரை அடையாள  அணிவகுப்புக்கு  அனுப்புமாறு நீதிவான் உத்தரவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/535ee78e.json)
+
+---
+
+### To Afghanistan to advantage
 
 *2024-02-14 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193366) · `si`
 
-ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර පැවැත්වෙන තුන්වන සහ අවසන් එක්දින තරගයේ කාසියේ වාසිය ඇෆ්ගනිස්තානය හිමිකරගත්තේය.
+Afghanistan won the toss of the third and final ODI between Sri Lanka and Afghanistan.
 
 ◼️
 
 [Data](articles/bf176b50.json)
 
+[Extended Data](ext_articles/bf176b50.ext.json)
+
 ---
 
-### ලාංකේය දේශපාලකයා සිරගත කළ දුර්ලභ අවස්ථා
+### President says he had to ‘beg’ from countries for the sake of childrens’ future
+
+*2024-02-14 13:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97262/president-says-he-had-to-beg-from-countries-for-the-sake-of-childrens-future) · `en`
+
+President Ranil Wickremesinghe says that he had to beg the other countries for help, against his will, for the sake of the children of the country and their future.
+
+Accordingly, the Head of State acknowledged that, while no one would be willing to regress to the daunting setbacks Sri Lanka experienced during the height of its economic crisis in 2022/23, it was a time where he, as the President, had to appeal to the world so as to provide a future for the country’s children.
+
+“During that period, we had to beg other countries for money. Despite it being against my will, I went ahead and begged, in order to give you a future”, he said.
+
+...
+
+[Data](articles/1580f2ac.json)
+
+---
+
+### The rare moments of the Sri Lankan politician
 
 *2024-02-14 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193365) · `si`
 
-රටක නීතියක් ඇත. යුක්තිය හා සාධාරණය කියා දෙයක් ඇත. වැරැදි කළ විට රටක පවත්නා නීතියට අනුව ඔහුට හෝ ඇයට දඬුවම් ලැබිය යුතු ය. සියල්ලට ඉහළින් ඇත්තේ නීතිය යි. පාලකයා, පාලිතයා ඇතුළු රාජ්‍යය තුළ පවතින අවශේෂ සියල්ලට ම වඩා නීතිය හා අධිකරණය උත්තරීතර වේ. 'නීතිය ඉදිරියේ සියල්ල සමාන වේ' යනුවෙන් අපි දේශපාලන විද්‍යාවේ දී උගත්තෙමු. ඒ. වී. ඩයිසි ගේ නීතියේ ආධිපත්‍ය සංකල්පය තුළ ඒ බව තවත් පුළුල් ව පැහැදිලි කර ඇත. නමුත් ජර්මානු දාර්ශනික කාල් මාක්ස් සිය රචනාවල දී සඳහන් කර ඇත්තේ, වෙනස් ම සංකල්පයකි. නීතිය ඉදිරියේ සියලු දෙනා සමාන වේ යන්න නිෂ්ප්‍රමාණ මත‍යක් බව ඔහු අවධාරණය කරයි. නීතිය නමැති මකුළු දැලට හසු වන කුඩා සතුන් එහි ගොදුරක් බවට පත් වන බවත් සවිමත් සත්ත්වයන් පමණක් මකුළු දැල ඉරා ඉන් මිදෙන බවත් කාල් මාක්ස් සඳහන් කළේ ය.
+There is a law in a country. There is something that justice and fairness. The law of a country should be punished according to the law of a country when wrong. Is the law above all. The ruler of the ruler, including the Palitha, is the law and judiciary supreme. 'Everything is equal to the law' we enclosed in political science. it. Paddy. The Dialy's law has further expanded the same in the concept of. But German philosopher Marx, however, is mentioned in his essays, is a different concept. He emphasizes that all the people are equal to the law. Khal Mx noted that small animals that are caught in the midst of the law to become a victim of the spider plants.
 
 ...
 
 [Data](articles/e2069bac.json)
+
+[Extended Data](ext_articles/e2069bac.ext.json)
 
 ---
 
@@ -216,21 +252,23 @@ It is noteworthy that the government is planning to train 100 teachers through M
 
 ---
 
-### ஆயிரத்துக்கும் மேற்பட்ட போதை மாத்திரைகளுடன் இருவர் கைது
+### Two arrested with more than a thousand drugs
 
 *2024-02-14 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176353) · `ta`
 
-இலங்கை கடற்படை, மன்னார் பொலிஸ் குற்றத்தடுப்பு பிரிவினர் இணைந்து நேற்று செவ்வாய்கிழமை முன்னெடுத்த சுற்றிவளைப்பில் விற்பனைக்கு தயாராக வைக்கப்பட்டிருந்த 1,472 போதை மாத்திரைகளுடன் சந்தேகநபர்கள் இருவர் கைது செய்யப்பட்டுள்ளனர்.
+Two suspects have been arrested with 1,472 drug pills that were ready for sale in a roundup launched by the Sri Lanka Navy and the Mannar Police Crime Unit on Tuesday.
 
-சந்தேகநபர்களால் பயன்படுத்தப்பட்ட முச்சக்கர வண்டியொன்றும் இதன்போது கைப்பற்றப்பட்டுள்ளது. மன்னார், உப்புக்குளம் பிரதேசத்தில் வைத்தே குறித்த சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளதாக கடற்படை ஊடகப்பிரிவு தெரிவித்துள்ளது.
+A three -wheeler used by the suspects has also been seized. The Naval Media Unit said that the suspects have been arrested in Uppukkulam area in Mannar.
 
-கைது செய்யப்பட்ட சந்தேகநபர்களிடமிருந்து ஆரம்பத்தில் குறைந்த எண்ணிக்கையிலான போதை மாத்திரைகள் மாத்திரமே கைப்பற்றப்பட்டுள்ளன. பின்னர் அவர்களிடம் மேற்கொள்ளப்பட்ட விசாரணைகளுக்கமை உப்புக்குளம் பிரதேசத்தில் வீடொன்றிலிருந்து எஞ்சிய 1,432 போதை மாத்திரைகளும் கைப்பற்றப்பட்டுள்ளன.
+Initially seized only a small number of drug pills from the arrested suspects. Subsequently, 1,432 drug pills were seized from a house in Uppukkulam area.
 
-கைது செய்யப்பட்ட சந்தேகநபர்கள் 28 மற்றும் 29 வயதுகளையுடைய சிலாவத்துறை மற்றும் மன்னார் பிரதேசங்களைச் சேர்ந்தவர்களாவர். இவர்கள் இருவரும் மேலதிக விசாரணைகளுக்காக போதை மாத்திரைகளுடன் மன்னார் பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளதாக கடற்படை ஊடகப்பிரிவு மேலும் தெரிவித்துள்ளது.
+The arrested suspects are from Chilawathurai and Mannar, aged 28 and 29. The Naval Media Unit further stated that the two have been handed over to the Mannar police with drug pills for further investigations.
 
 ◼️
 
 [Data](articles/b75dfe80.json)
+
+[Extended Data](ext_articles/b75dfe80.ext.json)
 
 ---
 
@@ -256,23 +294,27 @@ Wijesekera said he “requested continued assistance for reforms, energy efficie
 
 ---
 
-### சுரங்கப்பாதைக்குள் ஹமாஸ்தலைவர்  - வீடியோவொன்றை வெளியிட்டது இஸ்ரேல்
+### Israel released a video
 
 *2024-02-14 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176351) · `ta`
 
-சுரங்கப்பாதையொன்றிற்குள் காணப்படுவதை காண்பிக்கும் வீடியோ என தெரிவித்து இஸ்ரேல் வீடியோ ஒன்றை வெளியிட்டுள்ளது.
+The Israeli video has released a video of a video of the subway.
 
-ஒக்டோபர் பத்தாம் திகதி ஹமாஸ் அமைப்பின் சிசிடிவியில் பதியப்பட்டஇந்த வீடியோ சமீபத்திலேயே இஸ்ரேலிய பாதுகாப்பு படையினருக்கு கிடைத்துள்ளது என இஸ்ரேலிய பாதுகாப்பு படையின் பேச்சாளர் தெரிவித்துள்ளார்.
+The video, which was recorded on the Hamas Organization's CCTV on October 10, has recently received the Israeli security forces, said a spokesman for the Israeli Security Forces.
 
-சுரங்கப்பாதை ஊடாக அவர் இவ்வாறே தனது குடும்பத்தினருடன் தப்பி ஏற்கனவே உருவாக்கி வைத்திருந்த பாதுகாப்பான தங்குமிடத்திற்கு சென்றார் என இஸ்ரேல் தெரிவித்துள்ளது.
+Israel said that he had escaped with his family through the tunnel and went to the safe shelter that had already been created.
 
-அந்த வீடியோவில் காணப்படுபவர் ஹமாஸ் அமைப்பின் தலைவரா என்பதை உறுதிப்படுத்த முடியவில்லை என தெரிவித்துள்ள சிஎன்என்  அவர் உயிருடனோ அல்லது பிணமாகவே கைப்பற்றப்படும்வரை தேடுதல் வேட்டை முடிவடையாது  நாங்கள் அவரை கைதுசெய்வது குறித்து உறுதியாக உள்ளோம் நிச்சயம் கைதுசெய்வோம் என தெரிவித்துள்ளார்.
+CNN said he could not confirm that Hamas was the head of the Hamas organization.
 
-இதேவேளை ஹமாஸ் தலைவர் மறைந்திருந்த சுரங்கப்பாதையொன்றிற்குள்இஸ்ரேலிய படையினர் காணப்படும் வீடியோ ஒன்றையும் இஸ்ரேல் வெளியிட்டுள்ளது.
+Meanwhile, Israel has also released a video of Israeli soldiers inside a subway where the Hamas leader has disappeared.
 
-...
+சின்வரின் முக்கிய பதுங்குமிடம் அது அவர் அங்கு சமீபநாட்களில் காணப்பட்டார் என இஸ்ரேலிய இராணுவவீரர் ஒருவர் அந்த வீடியோவில் தெரிவிக்கின்றார்,படுக்கையறைகள் சமையலறைகள் போன்றவற்றையும் அந்த வீடியோ காண்பிக்கின்றது
+
+◼️
 
 [Data](articles/940149a1.json)
+
+[Extended Data](ext_articles/940149a1.ext.json)
 
 ---
 
@@ -1945,41 +1987,5 @@ In a detailed analysis the HRCSL highlights 30 instances of failure to comply wi
 [Data](articles/fc0ab92f.json)
 
 [Extended Data](ext_articles/fc0ab92f.ext.json)
-
----
-
-### Political aspirations with greed for power still continue with our present politicians too
-
-*2024-02-14 03:44:08* · [`dailyftlk`](https://www.ft.lk/opinion/Political-aspirations-with-greed-for-power-still-continue-with-our-present-politicians-too/14-758468) · `en`
-
-Time is ripe for the voters to elect politicians who are honest, educated, and young, and people with principles and a vision to change the systems management and implementation – Pic by Shehan Gunasekara
-
-It is most unfortunate that the bungling of national issues commenced with the greed for power by one of our most educated politicians in Sri Lanka, S.W.R.D. Bandaranaike, in bringing the “Sinhala Only” bill into effect in Parliament after his victory in 1956. That caused the division in Sri Lanka driving away some of the most educated and qualified public officers, including the “Burgher” population, to leave the country in search of better pastures. It reversed the economic and political stability we had.
-
-The long drawn out war commencing from the assassination of the Mayor of Jaffna Alfred Duraiappah in 1975 till 2009, saw the darkest period of racial riots in this country caused by blatant mistakes committed by our leading politicians.
-
-...
-
-[Data](articles/195c3fc5.json)
-
-[Extended Data](ext_articles/195c3fc5.ext.json)
-
----
-
-### Political aspirations with greed for power still continue with our present politicians too
-
-*2024-02-14 03:44:08* · [`dailyftlk`](https://www.ft.lk/columns/Political-aspirations-with-greed-for-power-still-continue-with-our-present-politicians-too/4-758468) · `en`
-
-Time is ripe for the voters to elect politicians who are honest, educated, and young, and people with principles and a vision to change the systems management and implementation – Pic by Shehan Gunasekara
-
-It is most unfortunate that the bungling of national issues commenced with the greed for power by one of our most educated politicians in Sri Lanka, S.W.R.D. Bandaranaike, in bringing the “Sinhala Only” bill into effect in Parliament after his victory in 1956. That caused the division in Sri Lanka driving away some of the most educated and qualified public officers, including the “Burgher” population, to leave the country in search of better pastures. It reversed the economic and political stability we had.
-
-The long drawn out war commencing from the assassination of the Mayor of Jaffna Alfred Duraiappah in 1975 till 2009, saw the darkest period of racial riots in this country caused by blatant mistakes committed by our leading politicians.
-
-...
-
-[Data](articles/8d482139.json)
-
-[Extended Data](ext_articles/8d482139.ext.json)
 
 ---

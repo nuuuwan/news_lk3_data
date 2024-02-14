@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 21:51:50**
+As of **2024-02-14 22:03:50**
 
 ## Newspaper Stats
 
-*Scraped **7,053** Articles*
+*Scraped **7,055** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 365
 economynextcom | 369
 dailyftlk | 376
-adalk | 602
+adalk | 603
 tamilmirrorlk | 858
 adaderanalk | 867
-virakesarilk | 901
+virakesarilk | 902
 adaderanasinhalalk | 994
 dailymirrorlk | 1,035
 
@@ -26,11 +26,33 @@ dailymirrorlk | 1,035
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,053 (100.0%) of 7,053 articles have been extended.
+7,055 (100.0%) of 7,055 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### Steps to establish 03 International Universities in Sri Lanka - Suren Raghavan
+
+*2024-02-14 21:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/176399) · `ta`
+
+Higher Education Minister Dr. Suren Raghavan said that after the observation of internationally experienced experts in education, the focus of a variety of degrees through state universities.
+
+The Minister of State also stated that steps have been taken to establish three international universities in Sri Lanka.
+
+State Minister Suren Raghavan said this at a media briefing held at the Presidential Media Center on Wednesday (14).
+
+“We have taken steps to establish 03 international universities in Sri Lanka. Two of these universities have already begun.The third university will be established in Sri Lanka by May this year.
+
+Indian Institutes of Technology. The other two universities will open their two branches focusing on the United States and the United Kingdom and are ready to sign a Memorandum of Understanding on them.
+
+...
+
+[Data](articles/93b6d307.json)
+
+[Extended Data](ext_articles/93b6d307.ext.json)
+
+---
 
 ### Fire breaks out near Baseline Railway Station
 
@@ -209,6 +231,28 @@ Three persons, including a child, were injured in the van and were admitted to t
 [Data](articles/881d7216.json)
 
 [Extended Data](ext_articles/881d7216.ext.json)
+
+---
+
+### If Ranil comes to Prasanna
+
+*2024-02-14 20:10:56* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-ආවොත්-ප්‍රසන්න-සහායට/11-408090) · `si`
+
+Chief organizer Urban Development and Housing Minister Prasanna Ranatunga says that if President Ranil Wickremesinghe presented to the next presidential election, he said.
+
+The Minister emphasized that Ranil Wickremesinghe should support the support of President Ranil Wickremesinghe at the moment a duty of all parties who love the country.
+
+The Minister said that the Sri Lanka General Front is always a party that has taken about the country and has decided that his party will take that decision at the right moment.
+
+Minister Prasanna Ranatunga made this statement after attending the Kandy District Coordinating Committee today (14) after attending the Kandy District Coordinating Committee.
+
+A. Not yet. There is a presidential election in the future. Discussed it in the future.
+
+...
+
+[Data](articles/de128f04.json)
+
+[Extended Data](ext_articles/de128f04.ext.json)
 
 ---
 
@@ -2021,47 +2065,5 @@ Buddhika Kushan is a fishing breeding, which is released to Gragary Lake and the
 [Data](articles/8a478a11.json)
 
 [Extended Data](ext_articles/8a478a11.ext.json)
-
----
-
-### Doctor arrested for selling large stocks of controlled drugs
-
-*2024-02-14 13:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97261/doctor-arrested-for-selling-large-stocks-of-controlled-drugs-) · `en`
-
-A doctor from the Gelioya area, in Kandy, has been arrested by the police for allegedly selling large stocks of controlled drugs.
-
-It is alleged that the doctor operated multiple private medical practices in various areas and utilised them as fronts for the sale of these drugs.
-
-According to police, the doctor had been arrested while selling a stock of controlled drugs worth Rs. 160,000.
-
-The authorities further claim that the arrested doctor conducted these transactions by traveling in his vehicle during the night.
-
-As such, both, the doctor and his vehicle are due to be produced before the Gampola Court today (14 Feb.).
-
-◼️
-
-[Data](articles/0a44f360.json)
-
-[Extended Data](ext_articles/0a44f360.ext.json)
-
----
-
-### Beruwala Fisheries Harbor security guard found dead
-
-*2024-02-14 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97260/beruwala-fisheries-harbor-security-guard-found-dead) · `en`
-
-The body of a man has been found floating near the berthing basin of the Beruwala Fisheries Harbour.
-
-It was reported that the deceased, who was employed as a guard at the harbor, had died after falling into the water.
-
-The man had reported for duty last night (13), but was later found dead.
-
-The deceased individual has been identified as a 57-year-old resident of the Maggona area.
-
-◼️
-
-[Data](articles/22fa5073.json)
-
-[Extended Data](ext_articles/22fa5073.ext.json)
 
 ---

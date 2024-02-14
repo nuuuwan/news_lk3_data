@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 09:02:41**
+As of **2024-02-14 09:17:19**
 
 ## Newspaper Stats
 
-*Scraped **6,870** Articles*
+*Scraped **6,873** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,37 @@ dbsjeyarajcom | 149
 economynextcom | 350
 newsfirstlk | 363
 islandlk | 365
-dailyftlk | 374
+dailyftlk | 376
 adalk | 584
 tamilmirrorlk | 839
 adaderanalk | 840
 virakesarilk | 868
-adaderanasinhalalk | 959
+adaderanasinhalalk | 960
 dailymirrorlk | 1,007
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,866 (99.9%) of 6,870 articles have been extended.
+6,870 (100.0%) of 6,873 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### වී මිල ගැන රජයෙන් ප්‍රකාශයක්
+
+*2024-02-14 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193353) · `si`
+
+මෙවර වී මිලදී ගැනීම මුදල් අමාත්‍යාංශයේ මැදිහත් වීමෙන් සිදුකරන බව මහින්ද අමරවීර අමාත්‍යවරයා පවසයි.
+
+ඔහු සඳහන් කළේ, වී මිල සම්බන්ධයෙන් ගොවීන් තුළ ගැටලුකාරී තත්ත්වයක් පවතින බවය.
+
+◼️
+
+[Data](articles/11c0edf9.json)
+
+---
 
 ### 54 national schools crisis
 
@@ -147,6 +161,8 @@ Misty conditions can be expected at some places in Western and Sabaragamuwa prov
 ◼️
 
 [Data](articles/87274113.json)
+
+[Extended Data](ext_articles/87274113.ext.json)
 
 ---
 
@@ -270,6 +286,8 @@ Shehbaz Sharif belongs to his brother’s Pakistan Muslim League-Nawaz (PML-N), 
 
 [Data](articles/d1c91c28.json)
 
+[Extended Data](ext_articles/d1c91c28.ext.json)
+
 ---
 
 ### Several times for several areas
@@ -352,6 +370,24 @@ In a detailed analysis the HRCSL highlights 30 instances of failure to comply wi
 
 ---
 
+### Government draws intense flak on Online Safety Act
+
+*2024-02-14 03:47:57* · [`dailyftlk`](https://www.ft.lk/columns/Government-draws-intense-flak-on-Online-Safety-Act/4-758469) · `en`
+
+OSA - newest weapon in Govt.’s arsenal to suppress freedom of expression and dissent
+
+Sri Lanka’s beleaguered Government, amidst fighting a faltering economy and battling to increase state revenue is now facing a barrage of criticism after bringing into law the Online Safety Act (OSA). Amnesty International Sri Lanka called it an ‘additional weapon’ in the hands of the Government. Late last week Sri Lanka’s Justice Minister acknowledged deficiencies and called for all-party consultations.
+
+The Human Rights Commission of Sri Lanka (HRCSL) has issued a stark warning to the President – that the OSA was not validly passed by Parliament.
+
+In a detailed analysis the HRCSL highlights 30 instances of failure to comply with requirements set out by the Supreme Court, where several petitioners made applications challenging various aspects proposed by the Government in the Bill.
+
+...
+
+[Data](articles/fc0ab92f.json)
+
+---
+
 ### Political aspirations with greed for power still continue with our present politicians too
 
 *2024-02-14 03:44:08* · [`dailyftlk`](https://www.ft.lk/opinion/Political-aspirations-with-greed-for-power-still-continue-with-our-present-politicians-too/14-758468) · `en`
@@ -367,6 +403,22 @@ The long drawn out war commencing from the assassination of the Mayor of Jaffna 
 [Data](articles/195c3fc5.json)
 
 [Extended Data](ext_articles/195c3fc5.ext.json)
+
+---
+
+### Political aspirations with greed for power still continue with our present politicians too
+
+*2024-02-14 03:44:08* · [`dailyftlk`](https://www.ft.lk/columns/Political-aspirations-with-greed-for-power-still-continue-with-our-present-politicians-too/4-758468) · `en`
+
+Time is ripe for the voters to elect politicians who are honest, educated, and young, and people with principles and a vision to change the systems management and implementation – Pic by Shehan Gunasekara
+
+It is most unfortunate that the bungling of national issues commenced with the greed for power by one of our most educated politicians in Sri Lanka, S.W.R.D. Bandaranaike, in bringing the “Sinhala Only” bill into effect in Parliament after his victory in 1956. That caused the division in Sri Lanka driving away some of the most educated and qualified public officers, including the “Burgher” population, to leave the country in search of better pastures. It reversed the economic and political stability we had.
+
+The long drawn out war commencing from the assassination of the Mayor of Jaffna Alfred Duraiappah in 1975 till 2009, saw the darkest period of racial riots in this country caused by blatant mistakes committed by our leading politicians.
+
+...
+
+[Data](articles/8d482139.json)
 
 ---
 
@@ -1250,19 +1302,21 @@ The gazette has been issued by the state to declare all the services, work or wo
 
 ---
 
-### බැඳුම්කර ගිවිසුම් කඩකළ නිලධාරීන් 9ක් රජයට කෝටි පහක ණයක්
+### Nine officers have violated bond agreements a five billion loan
 
 *2024-02-13 20:25:23* · [`adalk`](https://www.ada.lk/breaking_news/බැඳුම්කර-ගිවිසුම්-කඩකළ-නිලධාරීන්-9ක්-රජයට-කෝටි-පහක-ණයක්/11-408069) · `si`
 
-පොල් පර්යේෂණ මණ්ඩලයේ බැඳුම්කර ගිවිසුම කඩ කළ නිලධාරීන් 09දෙනෙකුගෙන් රුපියල් පන්කෝටි දෙලක්ෂ තිස්නවදහස් හත්සියයක (50,239,770)මුදලක්අය වීමට ඇති බැව් ජාතික විගණන කාර්යාලය මගින් 2024-02-10 දින නිකුත් කොට ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
+The National Audit Office, which has been issued to the Coconut Research Board of Coconut Research and the National Audit report, which has been issued to be released on 9024-2011, the National Audit Office, which has been issued to be Rs.
 
-පොල් පර්යේෂණ මණ්ඩලයේ සේවය කරමින් සිටියද අධ්‍යයන නිවාඩු ලබා විදේශගත වූ නිලධාරීන් 06දෙනෙකු මණ්ඩලය සමග ඇති කර ගත් ගිවිසුම් උල්ලංඝනය කරමින්සේවයට වාර්තා කර නොතිබුණි.
+Although the Coconut Research Board was serving in the coconut Research, 6 officers who went abroad went with study leave.
 
-එකී සේවකයන්ගෙන්රජයට අය විය යුතු මුදල එක්කෝටි තිස්පන් ලක්ෂ අසූදෙදහස්  තිස්පහකි. (13,582,035) එමෙන්ම මණ්ඩලයේ අධ්‍යයන නිවාඩු ලබා ගත් පර්යේෂණ නිලධාරීන් තිදෙනෙකු ගිවිසුම් ප්‍රකාරව අධ්‍යයන නිවාඩු අවසන් කර සේවයට වාර්තා කර තිබුණි. එහෙත් වසර 03, 04ක සේවයෙන් පසු ඔවුන් සේවය කළ යුතු අනිවාර්ය සේවා කාලයද ඉක්ම යාමට පෙර මණ්ඩලයේ සේවය හැර ගොස් තිබුණි.
+Thirty million eighty-three million, eighty-three million people should be owned by the employees. (13,582,035) Also, three research officers who have taken the Board's study leave have been completed in accordance with the academic leave.. However, after three years of service, they had left the Board of Panel before they were exceeded after three months.
 
 ...
 
 [Data](articles/2d6ec04e.json)
+
+[Extended Data](ext_articles/2d6ec04e.ext.json)
 
 ---
 
@@ -1724,6 +1778,8 @@ The casualties included three senior leaders of the LTTE at that time. 14 Februa
 
 [Data](articles/93896b9f.json)
 
+[Extended Data](ext_articles/93896b9f.ext.json)
+
 ---
 
 ### Sri Lanka committed to reconciliation through domestic institutions: Minister
@@ -1947,57 +2003,5 @@ It states that the information reference letter will be obtained by the followin
 [Data](articles/46e784fd.json)
 
 [Extended Data](ext_articles/46e784fd.ext.json)
-
----
-
-### Diana Kamage affair: The hearing of the appeal
-
-*2024-02-13 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176296) · `ta`
-
-The Supreme Court on Tuesday (13) was concluded on Tuesday (13).
-
-The appeal was heard in the presence of a panel of judges of the Supreme Court, Gamini Amarasekera, Kumudini Wickramasinghe and Janak de Silva.
-
-Social activist Osala Herath had appealed for two weeks after his petition filed by the Court of Appeal against the post of Parliament of the State Minister and the citizenship.
-
-◼️
-
-[Data](articles/e8af3485.json)
-
-[Extended Data](ext_articles/e8af3485.ext.json)
-
----
-
-### Burning Devon about
-
-*2024-02-13 16:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பற்றி-எரியும்-டெவோன்/76-333155) · `ta`
-
-The wildfire has been spreading in the Devon Falls area of the Hatton Pathana Police Division today (13) as the western region of the central hill country is prevalent.
-
-◼️
-
-[Data](articles/6ae39e94.json)
-
-[Extended Data](ext_articles/6ae39e94.ext.json)
-
----
-
-### I phone for Rs 1,000;Yasakar arrested
-
-*2024-02-13 16:52:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-1-000க்கு-ஐ-போன்-யாசகர்-கைது/175-333152) · `ta`
-
-An incident took place on Monday (12) that a Yasakar had stolen an iPhone and sold it for Rs 1,000.
-
-On the day of the incident, an elderly man who had heard Yasakam had stolen a valuable iPhone from a house.
-
-After posting a photo of the man who stolen the stolen, with the help of the CCRV, the man involved in the theft was trapped.
-
-The man who sold the stolen phone for Rs 1,000 was caught by the money.
-
-◼️
-
-[Data](articles/cda11439.json)
-
-[Extended Data](ext_articles/cda11439.ext.json)
 
 ---

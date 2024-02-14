@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 00:02:47**
+As of **2024-02-15 00:17:25**
 
 ## Newspaper Stats
 
-*Scraped **7,072** Articles*
+*Scraped **7,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 365
 economynextcom | 370
 dailyftlk | 376
 adalk | 603
-tamilmirrorlk | 859
+tamilmirrorlk | 860
 adaderanalk | 868
-virakesarilk | 908
+virakesarilk | 909
 adaderanasinhalalk | 998
 dailymirrorlk | 1,039
 
@@ -26,11 +26,47 @@ dailymirrorlk | 1,039
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,072 (100.0%) of 7,072 articles have been extended.
+7,072 (100.0%) of 7,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### எதிரணியின் பெரும்பாலான உறுப்பினர்கள் அரசாங்கத்துடன் ஒன்றிணைவார்கள் - பியல் நிஷாந்த டி சில்வா
+
+*2024-02-14 23:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/176404) · `ta`
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவை எவராலும் வீழ்த்த முடியாது. பரந்துப்பட்ட அரசியல் கூட்டணி ஊடாக எமது பலத்தை மீண்டும் உறுதிப்படுத்துவோம்.எதிர்க்கட்சியின் பெரும்பாலான உறுப்பினர்கள் அரசாங்கத்துடன் ஒன்றிணைவார்கள் என கடற்றொழில் இராஜாங்க அமைச்சர் பியல் நிஷாந்த டி சில்வா தெரிவித்தார்.
+
+களுத்துறை பகுதியில் உள்ள பொதுஜன பெரமுனவின் காரியாலயத்தில் புதன்கிழமை (14) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்;
+
+அரசாங்கத்தை பொறுப்பேற்க தயார் என தற்போது குரல் எழுப்பும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச,மக்கள் விடுதலை முன்னணியின் தலைவர் அனுர குமார திஸாநாயக்க ஆகியோர் 2022 ஆம் ஆண்டு காலப்பகுதியில் பொருளாதார நெருக்கடி தீவிரமடைந்த போது அரசாங்கத்தை பொறுப்பேற்க முன்வரவில்லை.
+
+நெருக்கடியான சூழ்நிலையில் அரசாங்கத்தை பொறுப்பேற்றால் தமது எதிர்கால அரசியல் இருப்புக்கு பாதிப்பு ஏற்படும் என்பதால் எதிர்க்கட்சித் தலைவர் உட்பட மக்கள் விடுதலை முன்னணியின் தலைவர் அரசாங்கத்தை பொறுப்பேற்காமல் கதை பேசிக் கொண்டிருந்தார்கள்.
+
+...
+
+[Data](articles/9d68de32.json)
+
+---
+
+### யாழில் கோர விபத்து - குழந்தை உட்பட இருவர் மரணம்
+
+*2024-02-14 23:20:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-கோர-விபத்து-குழந்தை-உட்பட-இருவர்-மரணம்/71-333226) · `ta`
+
+யாழ்ப்பாணம் - இணுவில் பகுதியில் வானொன்று புகையிரதத்துடன் மோதி  விபத்துக்குள்ளானதில் குழந்தையொன்று உட்பட இருவர் உயிரிழந்துள்ளனர்.
+
+மேலும் வானில் பயணித்த மூவர் படுகாயமடைந்த நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
+
+விபத்தில் இணுவில் பகுதியை சேர்ந்த 32 வயதுடைய சயந்தன் மற்றும் அவரது மகளான 6 மாத குழந்தை அப்சரா ஆகியோரே உயிரழந்துள்ளனர்.
+
+விபத்து இடம்பெற்ற இடத்தில் புகையிரத கடவை காப்பாளர் இல்லாததே விபத்துக்கு காரணம் என பொதுமக்கள் தெரிவித்துள்ளனர். R
+
+◼️
+
+[Data](articles/f5209a02.json)
+
+---
 
 ### Indo -Sri Lanka Alliance
 
@@ -2065,49 +2101,5 @@ But the Free Democrats parliamentary group spokesman for Mittelstand (Small and 
 [Data](articles/8beffa6d.json)
 
 [Extended Data](ext_articles/8beffa6d.ext.json)
-
----
-
-### 1100 soldiers for hospitals
-
-*2024-02-14 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193367) · `si`
-
-The Sri Lanka Army says that 1,100 soldiers have been deployed to carry out their hospitality due to health strike.
-
-72 health unions in government hospitals launched a strike yesterday (13).
-
-The public has been severely inherity due to the second day and today, and the health system has been deployed on the instructions of the Army Commander Lieutenant General's Advice to maintain the health system normal.
-
-Accordingly, in Colombo and Kandy National Hospital Kubwila, Kandy National Hospital Kubwilage, Kandy, Kandy and Kurunegala, Galle and Kurunegala, Kurunegala and Kurunegala, Kurunegala and Kurunegala, Colombo and Dehiattakadiya, Colombo, Matale and Kurunegala, Medirigiriya, Hambantota, DehiattakarayaThe army has been deployed to continue at 64 hospitals, including Hambantota, Debarawewa, Ratnapura, Nahelliyagoda, Badulla, Elpitiya and Kegalle.
-
-The Army Commander has instructed to take all possible measures to be carried out in the future without any obstacles.
-
-◼️
-
-[Data](articles/2a12d3b5.json)
-
-[Extended Data](ext_articles/2a12d3b5.ext.json)
-
----
-
-### Differences on a case against Mahindananda
-
-*2024-02-14 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193368) · `si`
-
-It is reported that the verdict of former Minister MP Mahindananda Aluthgamage is to be announced on April 25.
-
-Colombo High Court Judge Navasinghe said this today (14).
-
-The former Minister has been charged with the purchase of a luxury home in Borella.
-
-The case has been filed against the Minister by the Attorney General.
-
-Senior Deputy Solicitor General Sanil Kularatne, who appeared for the Attorney General Sanil Kularatne and Senior Attorney General Sanil Kularatne appearing on behalf of the Attorney General, has been selected for the Attorney General Mahindananda Aluthgamage.
-
-◼️
-
-[Data](articles/49ff920d.json)
-
-[Extended Data](ext_articles/49ff920d.ext.json)
 
 ---

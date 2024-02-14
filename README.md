@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 13:02:28**
+As of **2024-02-14 13:17:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,017
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,916 (99.9%) of 6,923 articles have been extended.
+6,923 (100.0%) of 6,923 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,21 +44,25 @@ South Korea’s Joint Chiefs of Staff said the South Korean and U.S. militaries 
 
 [Data](articles/9ae1bbf7.json)
 
+[Extended Data](ext_articles/9ae1bbf7.ext.json)
+
 ---
 
-### දෙදෙනෙකු දියේ ගිලෙයි
+### Two drowning
 
 *2024-02-14 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193362) · `si`
 
-ත්‍රිකුණාමලය, කින්නියා ප්‍රදේශයේ මහවැලි ගඟේ අතු ගංඟාවක ධීවර කටයුතු කරමින් සිටි දෙනෙනෙක් දියේ ගිලී තිබේ.
+A woman who was engaged in fishing in the Mahaweli River in the Mahaweli River, Trincomalee, Trincomalee.
 
-පොලීසිය පැවසුවේ වයස අවුරුදු 17ක සහ 35ක පුද්ගලයින් දෙදෙනෙක් එසේ දියේ ගිලී ඇති බවයි.
+Police said that two and 35 people were drowned.
 
-ධීවර කටයුතු සඳහා භාවිත කළ යාත්‍රාව පෙරළීමෙන් එම අනතුර සිදුව තිබුණි.
+The accident had occurred when the vessel used for fishing.
 
 ◼️
 
 [Data](articles/482e62ab.json)
+
+[Extended Data](ext_articles/482e62ab.ext.json)
 
 ---
 
@@ -75,6 +79,8 @@ Therefore, the NFCO has decided to launch a silent protest in front of the BMICH
 ...
 
 [Data](articles/6e1c97ac.json)
+
+[Extended Data](ext_articles/6e1c97ac.ext.json)
 
 ---
 
@@ -93,6 +99,8 @@ The SJB leadership is seen welcoming newcomers to the fold despite some members 
 ◼️
 
 [Data](articles/07509a8a.json)
+
+[Extended Data](ext_articles/07509a8a.ext.json)
 
 ---
 
@@ -114,23 +122,25 @@ Premajayantha revealed that the evaluation of the answer scripts of 2023 G.C.E. 
 
 ---
 
-### රුසියාව බටහිර රටවලට අනතුරු අඟවයි
+### Russia warns Western countries
 
 *2024-02-14 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193361) · `si`
 
-අමෙරිකාව සහ යුරෝපීය සංගමයේ රටවල්, ඩොලර් බිලියන ගණනක් වටිනා සිය සම්පත් වෙනත් කටයුතු සඳහා භාවිත කළහොත් ඊට එරෙහිව දැඩි ප්‍රතිචාරයක් ලබාදෙන බව රුසියාව අනතුරු අඟවයි.
+Russia warns that if the US and the European Union countries use their resources for billions of dollars for other purposes.
 
-2022 වසරේදී රුසියානු ජනාධිපති ව්ලැඩිමීර් පුටින් විසින් යුක්‍රේනයට හමුදාව යැවීමෙන් පසුව අමෙරිකාව සහ ඔවුන්ගේ මිත්‍ර රටවල් රුසියානු මහ බැංකුව සහ මුදල් අමාත්‍යංශය සමග ගනුදෙනු කිරීම තහනම් කළේය.
+After the army was sent by Russian President Vladimir Putin in 2022, the US and their allies banned the Russian Central Bank and the Ministry of Finance.
 
-ඒ හේතුවෙන් රුසියාව සතු ඩොලර් බිලියන 300ක් පමණ වටින සම්පත් සහ දේපොළ බටහිර රටවල සිරවී තිබේ.
+As a result Russia is trapped in the West, which is worth about $ 300 billion in Russia.
 
-එසේ අත්හිටුවා ඇති ධනය භාවිත කර යුක්‍රේනය නැවත ගොඩ නැගීමට යුරෝපා සංගමය සැලසුම් කරයි.
+The European Union plans to rebuild Ukraine using the wealth of the wealth.
 
-ඊට ප්‍රතිචාර ලෙස රුසියාව පැවසුවේ එය සොරකමක් ලෙස තම රට සලකන බවත් සොරුන්ට එරෙහිව නිසි ප්‍රතිචාරය දක්වන බවත් ය.
+In response, Russia said that it would treat her country as a steal and respond to the thief.
 
 ◼️
 
 [Data](articles/286d5fdb.json)
+
+[Extended Data](ext_articles/286d5fdb.ext.json)
 
 ---
 
@@ -154,19 +164,21 @@ The highest number of wild elephants reported on 27th of September last year, 11
 
 ---
 
-### ධීවර වරායේ මුරකරුගේ සිරුර මුහුදේ
+### Watcher's body at the sea
 
 *2024-02-14 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193360) · `si`
 
-බේරුවල ධීවර වරාය ආශ්‍රිත මුහුදේ තිබි පුද්ගල මළසිරුරක් සොයාගෙන තිබේ.
+A carcirror in the Sea near the Beruwala Fisheries Hall area.
 
-ධීවර වරායේ මුරකරුවෙකු ලෙස කටයුතු කළ පුද්ගලයෙකු මෙලෙස මුහුදට වැටී මියගොස් ඇති බව වාර්තා වේ.
+A person who was a guard at the Fisheries Harbor has fallen into the sea, reports say.
 
-අදාළ පුද්ගලයා ඊයේ (13) රාත්‍රී රාජකාරී කටයුතු සඳහා පැමිණ ඇති අතර පසුව සිදුකළ සොයාබැලීමක දී ඔහුගේ මළසිරුර සොයාගෙන තිබේ.
+The victim has arrived at the respective night and his body was found in a later investigation.
 
 ◼️
 
 [Data](articles/a1e009a5.json)
+
+[Extended Data](ext_articles/a1e009a5.ext.json)
 
 ---
 
@@ -192,23 +204,25 @@ The suspects held in this operation were identified as residents of Silawathura 
 
 ---
 
-### මත් පෙති ජාවාරම් කළ වෛද්‍යවරයා
+### The doctor who smuggled drugs
 
 *2024-02-14 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193359) · `si`
 
-කාලයක් තිස්සේ තැ‍රැව්කරුවන් මාර්ගයෙන් ගම්පොළ ඇතුළු අවට ප්‍රදේශ රැසක අධිමාත්‍රා ඖෂධ පෙති ජාවාරමේ යෙදුණු බවට සැකපිට වෛද්‍යවරයෙකු පොලිස් අත්අඩංගුවට පත්වී තිබේ.
+Police have arrested a doctor for a suspect's petroleum drug pharmaceutical petals in several other brokers.
 
-පොලීසිය පවසන්නේ එම වෛද්‍යවරයා වෙනත් අයෙකුට රුපියල් 160,000ක ඖෂධ තොගයක් ලබාදෙමින් සිටියදී අත්අඩංගුවට ගත් බවයි.
+The police say that the doctor was arrested while giving a large quantity of drugs.
 
-ගෙලිඔය ප්‍රදේශයේ පදිංචි මෙම වෛද්‍යවරයා රෝහල් වෛද්‍ය සේවාවට අමතරව ප්‍රදේශ කිහිපයක වෛද්‍ය මධ්‍යස්ථානද පවත්වාගෙන යමින් ඒ හරහාද මෙම ජාවාරමේ නිරතව තිබෙන බව පොලීසිය අනාවරණය කරගෙන ඇත.
+The doctor, a resident of Gelioya, has also held the hospital medical care in several areas in several areas.
 
-මොහුගෙන් මත්පෙති ලබාගෙන විවිධ ප්‍රදේශවල ජාවාරමේ යෙදෙන පිරිසට මෙම වෛද්‍යවරයා හොර රහසේ රාත්‍රී කාලයේ මෝටර් රථයෙන් ගොස් මෙම මත් පෙති අලෙවි කිරීම සිදුකර තිබේ.
+The doctor has been selling the drug in the car and selling the drugs to the racket of drugs.
 
-මෙම වෛද්‍යවරයා හා මෝටර් රථය අද (14) ගම්පොළ අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+The doctor and the car are to be produced before the Gampola Magistrate this morning.
 
 ◼️
 
 [Data](articles/26728eb9.json)
+
+[Extended Data](ext_articles/26728eb9.ext.json)
 
 ---
 

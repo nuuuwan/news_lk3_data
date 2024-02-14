@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 15:51:18**
+As of **2024-02-14 16:02:36**
 
 ## Newspaper Stats
 
-*Scraped **6,965** Articles*
+*Scraped **6,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 365
 dailyftlk | 376
 adalk | 594
 tamilmirrorlk | 849
-adaderanalk | 854
+adaderanalk | 855
 virakesarilk | 887
 adaderanasinhalalk | 975
 dailymirrorlk | 1,019
@@ -26,11 +26,27 @@ dailymirrorlk | 1,019
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,965 (100.0%) of 6,965 articles have been extended.
+6,965 (100.0%) of 6,966 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### Sri Lanka, India forge partnership for economic prosperity through capacity building initiative
+
+*2024-02-14 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97263/sri-lanka-india-forge-partnership-for-economic-prosperity-through-capacity-building-initiative) · `en`
+
+A high-level Sri Lankan delegation has embarked on an official visit to India to gain insights into the neighbour’s recent initiatives for transforming its public service qualitatively and implementing policy improvements successfully.
+
+During their stay from 12-17 February, the 14-member delegation, led by Prime Minister’s Secretary Anura Dissanayake, will seek to prioritize capacity development in Sri Lankan government institutions contributing to the nation’s economic growth.
+
+The President’s Media Division (PMD) said the delegates are expected to engage in extensive discussions with Indian institutions. The program, scheduled to be conducted at India’s National Centre for Good Governance, will cover various aspects such as digitalization, capacity development, anti-corruption measures, and investment facilitation.
+
+...
+
+[Data](articles/1277dc80.json)
+
+---
 
 ### Russia joined the list of Estonian Prime Minister
 
@@ -1995,27 +2011,5 @@ The university administration has said that animals are being raised for meat an
 [Data](articles/076a6550.json)
 
 [Extended Data](ext_articles/076a6550.ext.json)
-
----
-
-### Modara shot
-
-*2024-02-14 06:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193349) · `si`
-
-A shooting was shot dead at the Modara Police Division yesterday.
-
-Police said that a person was injured and admitted to the Colombo National Hospital.
-
-The injured were a 51-year-old resident of Colombo 14.
-
-The injured manager is a restaurant manager in Modara Veediya, and he has taken the shooting by strangers from the gate.
-
-Police said the suspects were suspended and suspected that the shooting was used for shooting.
-
-◼️
-
-[Data](articles/312dd2fa.json)
-
-[Extended Data](ext_articles/312dd2fa.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 15:02:35**
+As of **2024-02-14 15:17:07**
 
 ## Newspaper Stats
 
-*Scraped **6,957** Articles*
+*Scraped **6,961** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ economynextcom | 359
 newsfirstlk | 363
 islandlk | 365
 dailyftlk | 376
-adalk | 592
+adalk | 594
 tamilmirrorlk | 849
 adaderanalk | 854
 virakesarilk | 885
-adaderanasinhalalk | 973
+adaderanasinhalalk | 975
 dailymirrorlk | 1,019
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,957 (100.0%) of 6,957 articles have been extended.
+6,957 (99.9%) of 6,961 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### රෝහල්වලට සෙබළු 1100ක්
+
+*2024-02-14 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193367) · `si`
+
+සෞඛ්‍ය වර්ජනය හේතුවෙන් අඬාල වූ රෝහල් කටයුතු බාධාවකින් තොරව සිදුකර ගැනීම සඳහා තවදුරටත් යුද හමුදා සෙබළුන් 1,100ක් යොදවා ඇතැයි ශ්‍රී ලංකා යුද හමුදාව පවසයි.
+
+රජයේ රෝහල්වල සෞඛ්‍ය වෘත්තීය සමිති 72ක් ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් ඊයේ (13) දිනයේදී වැඩවර්ජනයක් ආරම්භ කළේය.
+
+එය දෙවැනි දිනටත් අද දිනයේ ද සිදුකිරීම හේතුවෙන් මහජනතාව දැඩි ලෙස අසිරුතාවයට පත්ව ඇති අතර, සෞඛ්‍ය පද්ධතිය සාමාන්‍ය පරිදි පවත්වාගෙන යෑම සඳහා යුද හමුදාපති ලුතිනන් ජෙනරාල් විකුම් ලියනගේ උපදෙස් මත මෙම භටපිරිස් යෙදවා ඇත.
+
+ඒ අනුව  දැනට බටහිර, මධ්‍යම, නැගෙනහිර සහ වන්නි ආරක්‍ෂක සේනා ආඥාපතිවරුන්ගේ පුර්ණ අධීක්‍ෂණය යටතේ කොළඹ සහ මහනුවර ජාතික රෝහල් කලුබෝවිල, කරාපිටිය, මහමෝදර, පේරාදෙණිය, අනුරාධපුර සහ කුරුණෑගල ශික්ෂණ රෝහල් ද අක්‍ෂි රෝහල කොළඹ, මාතලේ, පොළොන්නරුව, මැදිරිගිරිය, හිගුරක්ගොඩ, මඩකලපුව, දෙහිඅත්තකණ්ඩිය, හම්බන්තොට, දෙබරවැව, රත්නපුර, බලංගොඩ, ඇහැළියගොඩ, නාවලපිටිය, බදුල්ල, ඇල්පිටිය, හෝමාගම සහ කෑගල්ල ඇතුළු රෝහල් 64ක දෛනික කටයුතු බාධාවකින් තොරව අඛණ්ඩව පවත්වාගෙන යාම සඳහා යුද හමුදාව යොදවා තිබේ.
+
+...
+
+[Data](articles/2a12d3b5.json)
+
+---
+
+### මහින්දානන්දට එරෙහි නඩුවක තීන්දුව ලබන 25
+
+*2024-02-14 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193368) · `si`
+
+හිටපු අමාත්‍ය පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතාට විරුද්ධ ව පනවා ඇති නඩුවක තීන්දුව ලබන අප්‍රේල් 25 වැනි දා ප්‍රකාශ කිරීමට නියමිත බව වාර්තා වේ.
+
+කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා අද (14) මේ බව සඳහන් කර ඇත.
+
+අමාත්‍යවරයකු ලෙස සිටි සමයේ අයථා ලෙස උපයා ගත් බවට සැලකෙන රුපියල් ලක්ෂ 274ක මුදලක් යොදවා බොරැල්ල ප්‍රදේශයේ පිහිටි සුඛෝපභෝගී නිවසක් මිල දී ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් හිටපු අමාත්‍යවරයාට මෙම චෝදනාව එල්ල වී තිබේ.
+
+නීතිපතිවරයා විසින් අමාත්‍යවරයාට එරෙහි ව මෙම නඩුව ගොනු කර ඇත.
+
+නඩුව අද කැඳවූ අවස්ථාවේ නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි ජ්‍යේෂ්ඨ නියෝජ්‍ය සොලිසිටර් ජනරාල් සනිල් කුලරත්න මහතා සහ විත්තිකාර මහින්දානන්ද අලුත්ගමගේ වෙනුවෙන් පෙනී සිටි ජ්‍යේෂ්ඨ නීතිඥ කාංචන රත්වත්තේ මහතා නඩුව සඳහා වාචික කරුණු දැක්වීම් සිදු කර තිබේ.
+
+◼️
+
+[Data](articles/49ff920d.json)
+
+---
+
+### උසස් පෙළ ප්‍රතිඵල මැයි -ජුනි වනවිට
+
+*2024-02-14 14:09:18* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-ප්‍රතිඵල-මැයි--ජුනි-වනවිට/11-408083) · `si`
+
+පසුගිය වර්ෂයේ පැවැත්වීමට තිබූ උසස් පෙළ විභාගය සති පහකින් කල් දැමීමට සිදුවීම හේතුවෙන් 2024 ජනවාරි මාසයේ පැවැත්වීමට සිදුවූ බවත්,  ඒ අනුව 2024 නව පාසල් වාරය ද පෙබරවාරි මස 19 වන සදුදායින් ආරම්භ කිරීමට කටයුතු යොදා ඇති බවත්, උසස් පෙළ විභාගයේ ප්‍රතිඵල මෙවර සාමාන්‍ය පෙළ විභාගය පැවැත්වීමට පෙර මෙම වර්ෂයේ මැයි - ජුනි මාස ඇතුළත ලබාදීමට කටයුතු යොදන බවත්, මේ වර්ෂයට අයත් උසස් පෙළ විභාගය ද 2025 වසරට පෙර පවත්වා සියලු‍ විභාග යථාවත් කරන බවත්, ඒ අනුව 2025 නව පාසල් වාරය සාමාන්‍ය පරිදි ජනවාරි මාසයේ මුල සිට ආරම්භ කිරීමට සියලු‍ පියවර ගන්නා බවත් අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+
+අමාත්‍යවරයා මේ අදහස් පළ කළේ, ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් කොළඹ ශාන්ත අන්තෝනි බාලිකා විද්‍යාලයේ පැවති පාසල් පෙළ පොත් හා නිල ඇදුම් රෙදි බෙදා දීමේ ජාතික වැඩසටහනට අද (14)  පෙරවරුවේ එක්වෙමිනි.
+
+රාජ්‍ය මුද්‍රණ සංස්ථාව ලාභ ලබන ආයතනයක් බවට පත් කිරීමට තමාට හැකිවූ බවත් රුපියල් මිලියන දෙදහසක ලාභයක් ලබාගත් බවත් අමාත්‍යවරයා පැවසීය.
+
+...
+
+[Data](articles/20d010fd.json)
+
+---
 
 ### Two of the policemen were given poisonous milk:
 
@@ -521,6 +575,22 @@ Therefore, the NFCO has decided to launch a silent protest in front of the BMICH
 [Data](articles/6e1c97ac.json)
 
 [Extended Data](ext_articles/6e1c97ac.ext.json)
+
+---
+
+### ජනපතිගේ කොන්ත්‍රාත්තුවක් ගැන සජිත් කියයි
+
+*2024-02-14 12:05:56* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-කොන්ත්‍රාත්තුවක්-ගැන-සජිත්-කියයි/11-408078) · `si`
+
+විධායක ජනාධිපති ක්‍රමය අහෝසි කිරිම සමගි ජන බලවේගයේ ප්‍රතිපත්තිය බවත් ඒ තුළ නිර්මාණය වූ ඒකාධිපතීත්වය, දැවැන්ත බල පරාක්‍රමය මෙරට පුරවැසියන්ගේ අයිතින් උල්ලංඝනය වන බැවින් මෙහි පැහැදිලි වෙනසක් සිදු විය යුතු බවත් එය අහෝසි කිරීමේ මුවාවෙන් ජනාධිපතිවරණයක් පැවැත්වීමට බාධා කිරීමට ඉඩ නොදෙන බවත් විපක්ෂ නායකවරයා පැවසීය.
+
+පළාත් පාලන ඡන්දය නිවැරදි දිනට නොපවත්වා ඒ සදහා මුදල් ලබා නොදී ජනතාවගේ ඡන්ද අයිතිය උල්ලංඝනය කරන ආණ්ඩුවක් රටේ ඇති බවත් එවන් ආණ්ඩුවකට ජනතාවගේ සර්ව ජන ඡන්ද බලය නිශේධ කරන්න සහයෝගය ලබා නොදෙන බවත් විධායක ජනාධිපති ක්‍රමය අහෝසි කරන්නේ මැතිවරණයකට අදහස් ප්‍රකාශ කිරීමේ අයිතිය ලබා දීමෙන් පසුව බවත් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+විවිධ පුද්ගලයන් සහ කණ්ඩායම් ජනාධිපතිවරයාගේ කොන්ත්‍රාත් බාර ගෙන විධායක ජනාධිපති ක්‍රමය අහෝසි කළ යුතු බවට මතවාද ගෙන යන බවත් එය ජාතික අවශ්‍යතාවට නොව පුද්ගලික දේශපාලන ආයු කාලය දීර්ඝ කර ගැනීමට උත්සාහ කිරිමක් බවත් ඒ සදහා ඉඩ ලබා නොදෙන බවත් විපක්ෂ නායකවරයා තවදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/4ff8e3bc.json)
 
 ---
 
@@ -1933,89 +2003,5 @@ In addition, Sri Lanka expects to maintain the number of Sri Lanka Air Force per
 [Data](articles/48382f58.json)
 
 [Extended Data](ext_articles/48382f58.ext.json)
-
----
-
-### Do not make CC a puppet of Executive: PC Upul Jayasuriya
-
-*2024-02-14 05:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Do-not-make-CC-a-puppet-of-Executive-PC-Upul-Jayasuriya/108-276975) · `en`
-
-Colombo, Feb 14 (Daily Mirror) - Former President of the Bar Association of Sri Lanka (BASL) Upul Jayasuriya PC said the President should not make the Constitutional Council a puppet of the executive but let it function independently on its own.
-
-He said the President had made statements on several recent occasions indicating that the Constitutional Council was part of the executive and that it should function under the purview of the latter.
-
-“We would like to remind the President that the Constitutional Council was established to control certain executive powers of the executive, thus it should not behave like a puppet,” he said.
-
-The President's Counsel made these remarks recently whilst addressing a special gathering of lawyers from countrywide during the launch of the new legal framework of the Samagi Jana Balawegaya, which was organised by the Samagi Lawyers Federation.
-
-...
-
-[Data](articles/43f2db9d.json)
-
-[Extended Data](ext_articles/43f2db9d.ext.json)
-
----
-
-### Valentine's Day: 'There's more than sex. There's a lot of love there '
-
-*2024-02-14 03:59:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czd7vjv7gwyo) · `si`
-
-Valentine's Day: 'There's more than sex. There's a lot of love there '
-
-"Love is felt. No one can label the love of that heart. There are times when Valentine's Day will love to stay with freedom with the man who loves them so much. But they have no freedom. "
-
-In love, the king's abundance is the most beautiful of the world, as well as those who have left their lives for their love for their love.
-
-Shashini, who joined the Valentine's day on February 14, told the BBC Sinhala service that they were banned from Sri Lankan society to love with his partner.
-
-Shashiy and her companion's love story has begun about 4 years ago. Yet, BBC told the Sinhala.
-
-"I and I went to a restroom. We saw a Straight Cuppal (Straight Cuple), watching the eating and talking to us, we saw one thing. I didn't have any problem. But for a while, I thought it was tortured and worried for us. So we returned to pack the bill, packing the food that quickly carped. "
-
-...
-
-[Data](articles/83b49da1.json)
-
-[Extended Data](ext_articles/83b49da1.ext.json)
-
----
-
-### Government draws intense flak on Online Safety Act
-
-*2024-02-14 03:47:57* · [`dailyftlk`](https://www.ft.lk/opinion/Government-draws-intense-flak-on-Online-Safety-Act/14-758469) · `en`
-
-OSA - newest weapon in Govt.’s arsenal to suppress freedom of expression and dissent
-
-Sri Lanka’s beleaguered Government, amidst fighting a faltering economy and battling to increase state revenue is now facing a barrage of criticism after bringing into law the Online Safety Act (OSA). Amnesty International Sri Lanka called it an ‘additional weapon’ in the hands of the Government. Late last week Sri Lanka’s Justice Minister acknowledged deficiencies and called for all-party consultations.
-
-The Human Rights Commission of Sri Lanka (HRCSL) has issued a stark warning to the President – that the OSA was not validly passed by Parliament.
-
-In a detailed analysis the HRCSL highlights 30 instances of failure to comply with requirements set out by the Supreme Court, where several petitioners made applications challenging various aspects proposed by the Government in the Bill.
-
-...
-
-[Data](articles/d366b40b.json)
-
-[Extended Data](ext_articles/d366b40b.ext.json)
-
----
-
-### Government draws intense flak on Online Safety Act
-
-*2024-02-14 03:47:57* · [`dailyftlk`](https://www.ft.lk/columns/Government-draws-intense-flak-on-Online-Safety-Act/4-758469) · `en`
-
-OSA - newest weapon in Govt.’s arsenal to suppress freedom of expression and dissent
-
-Sri Lanka’s beleaguered Government, amidst fighting a faltering economy and battling to increase state revenue is now facing a barrage of criticism after bringing into law the Online Safety Act (OSA). Amnesty International Sri Lanka called it an ‘additional weapon’ in the hands of the Government. Late last week Sri Lanka’s Justice Minister acknowledged deficiencies and called for all-party consultations.
-
-The Human Rights Commission of Sri Lanka (HRCSL) has issued a stark warning to the President – that the OSA was not validly passed by Parliament.
-
-In a detailed analysis the HRCSL highlights 30 instances of failure to comply with requirements set out by the Supreme Court, where several petitioners made applications challenging various aspects proposed by the Government in the Bill.
-
-...
-
-[Data](articles/fc0ab92f.json)
-
-[Extended Data](ext_articles/fc0ab92f.ext.json)
 
 ---
